@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>http://localhost:4321/</loc><lastmod>2026-07-06T18:06:42.426Z</lastmod></url>
+  <url><loc>http://localhost:4321/entities</loc><lastmod>2026-07-06T18:06:42.426Z</lastmod></url>
+  <url><loc>http://localhost:4321/about</loc><lastmod>2026-07-06T18:06:42.426Z</lastmod></url>
+  <url><loc>http://localhost:4321/updates</loc><lastmod>2026-07-06T18:06:42.426Z</lastmod></url>
+  <url><loc>http://localhost:4321/entity/ai-act</loc><lastmod>2026-07-05T09:00:00.000Z</lastmod></url>
+  <url><loc>http://localhost:4321/company/apple</loc><lastmod>2026-07-05T09:00:00.000Z</lastmod></url>
+  <url><loc>http://localhost:4321/topic/artificial-intelligence</loc><lastmod>2026-07-05T09:00:00.000Z</lastmod></url>
+  <url><loc>http://localhost:4321/product/chatgpt</loc><lastmod>2026-07-05T09:00:00.000Z</lastmod></url>
+  <url><loc>http://localhost:4321/place/europe</loc><lastmod>2026-07-05T09:00:00.000Z</lastmod></url>
+  <url><loc>http://localhost:4321/company/openai</loc><lastmod>2026-07-05T09:00:00.000Z</lastmod></url>
+  <url><loc>http://localhost:4321/market/startups</loc><lastmod>2026-07-05T09:00:00.000Z</lastmod></url>
+</urlset>
