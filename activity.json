@@ -1,0 +1,97 @@
+{
+  "entries": [
+    {
+      "id": "2026-07-06T21-28-59-build",
+      "date": "2026-07-06T21:28:59.497Z",
+      "mode": "build",
+      "title": "Knowledge index rebuilt",
+      "summary": "120 validated events and 261 entities created from 120 processed source items.",
+      "stats": [
+        {
+          "label": "sources checked",
+          "value": 16
+        },
+        {
+          "label": "items found",
+          "value": 120
+        },
+        {
+          "label": "items processed",
+          "value": 120
+        },
+        {
+          "label": "events created",
+          "value": 120
+        },
+        {
+          "label": "entities created",
+          "value": 261
+        },
+        {
+          "label": "stories created",
+          "value": 120
+        }
+      ],
+      "details": [
+        {
+          "label": "Source items indexed",
+          "value": "120"
+        },
+        {
+          "label": "Evidence records written",
+          "value": "120"
+        },
+        {
+          "label": "Claims extracted",
+          "value": "120"
+        },
+        {
+          "label": "Timeline entries written",
+          "value": "120"
+        },
+        {
+          "label": "Entity files written",
+          "value": "261"
+        },
+        {
+          "label": "Relations written",
+          "value": "467"
+        }
+      ],
+      "notes": [
+        "Deterministic MVP pipeline. No article bodies were copied."
+      ]
+    },
+    {
+      "id": "2026-07-06T21-28-58-ingest",
+      "date": "2026-07-06T21:28:58.380Z",
+      "mode": "ingest",
+      "title": "Radar sources checked",
+      "summary": "16 sources checked, 120 source items found and 120 items processed.",
+      "stats": [
+        {
+          "label": "sources checked",
+          "value": 16
+        },
+        {
+          "label": "items found",
+          "value": 120
+        },
+        {
+          "label": "items processed",
+          "value": 120
+        }
+      ],
+      "details": [
+        {
+          "label": "Source items indexed",
+          "value": "120"
+        }
+      ],
+      "notes": [
+        "Imported Lootura Radar us items from HEAD:src/data/news.us.json.",
+        "Radar is the only publication input. Raw feed crawling and demo seeds are not used."
+      ]
+    }
+  ]
+}
