@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-07T07:15:03.432Z",
+  "generatedAt": "2026-07-07T07:29:17.687Z",
   "latestIngest": {
     "id": "2026-07-07T02-54-08-ingest",
     "mode": "ingest",
@@ -58,12 +58,12 @@
     },
     {
       "label": "public entities",
-      "value": 37,
+      "value": 36,
       "detail": "visible in the atlas"
     },
     {
       "label": "internal candidates",
-      "value": 2,
+      "value": 3,
       "detail": "held for quality review"
     }
   ],
@@ -85,7 +85,7 @@
       "kind": "review",
       "date": "2026-07-07T06:12:04.384Z",
       "title": "Entity index reviewed",
-      "summary": "37 entities are public. 2 remain internal while typing, quality and duplication are reviewed.",
+      "summary": "36 entities are public. 3 remain internal while typing, quality and duplication are reviewed.",
       "status": "ok",
       "meta": [
         "160 not published after cleanup",
@@ -118,8 +118,8 @@
       ]
     }
   ],
-  "publicEntities": 37,
-  "internalCandidates": 2,
+  "publicEntities": 36,
+  "internalCandidates": 3,
   "reviewedCandidates": 199,
   "notPublishedAfterReview": 160
 }
