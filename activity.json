@@ -1,11 +1,11 @@
 {
   "entries": [
     {
-      "id": "apple-updated-2026-07-06T21:27:17.361Z",
+      "id": "apple-updated-2026-07-07T02:52:25.432Z",
       "entityId": "apple",
       "entityName": "Apple",
       "entityType": "company",
-      "date": "2026-07-06T21:27:17.361Z",
+      "date": "2026-07-07T02:52:25.432Z",
       "kind": "updated",
       "title": "Apple updated",
       "summary": "Regulatory context updated for Apple.",
@@ -13,16 +13,16 @@
       "changeTitle": "Regulatory context updated"
     },
     {
-      "id": "europe-updated-2026-07-06T21:27:17.361Z",
+      "id": "europe-updated-2026-07-07T02:52:25.432Z",
       "entityId": "europe",
       "entityName": "Europe",
       "entityType": "place",
-      "date": "2026-07-06T21:27:17.361Z",
+      "date": "2026-07-07T02:52:25.432Z",
       "kind": "updated",
       "title": "Europe updated",
-      "summary": "New source-backed context was added to Europe.",
+      "summary": "US-Europe tension increased for Europe.",
       "path": "/place/europe",
-      "changeTitle": "Timeline extended"
+      "changeTitle": "US-Europe tension increased"
     }
   ]
 }
