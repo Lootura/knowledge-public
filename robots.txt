@@ -6,4 +6,4 @@ Disallow: /stories
 Disallow: /story
 Disallow: /topics
 Disallow: /sources
-Sitemap: https://lootura.github.io/sitemap.xml
+Sitemap: https://atlas.lootura.com/sitemap.xml
