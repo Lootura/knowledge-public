@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-07-08T06:30:24.442Z",
+  "generatedAt": "2026-07-08T07:57:59.741Z",
   "latestIngest": {
-    "id": "2026-07-08T06-29-10-ingest",
+    "id": "2026-07-08T07-56-47-ingest",
     "mode": "ingest",
-    "startedAt": "2026-07-08T06:29:09.938Z",
-    "finishedAt": "2026-07-08T06:29:10.325Z",
-    "sourcesChecked": 15,
+    "startedAt": "2026-07-08T07:56:46.928Z",
+    "finishedAt": "2026-07-08T07:56:47.552Z",
+    "sourcesChecked": 16,
     "sourceItemsFound": 120,
     "sourceItemsProcessed": 120,
     "validatedEventsCreated": 0,
@@ -19,15 +19,15 @@
     ]
   },
   "latestBuild": {
-    "id": "2026-07-08T06-29-11-build",
+    "id": "2026-07-08T07-56-49-build",
     "mode": "build",
-    "startedAt": "2026-07-08T06:29:11.035Z",
-    "finishedAt": "2026-07-08T06:29:11.476Z",
-    "sourcesChecked": 15,
+    "startedAt": "2026-07-08T07:56:48.566Z",
+    "finishedAt": "2026-07-08T07:56:49.273Z",
+    "sourcesChecked": 16,
     "sourceItemsFound": 120,
     "sourceItemsProcessed": 120,
     "validatedEventsCreated": 120,
-    "entitiesCreated": 244,
+    "entitiesCreated": 246,
     "storiesCreated": 120,
     "skippedItems": 0,
     "errors": 0,
@@ -43,7 +43,7 @@
     },
     {
       "label": "new candidates",
-      "value": 244,
+      "value": 246,
       "detail": "created by latest build"
     },
     {
@@ -53,12 +53,12 @@
     },
     {
       "label": "discarded items",
-      "value": 212,
+      "value": 213,
       "detail": "removed by quality cleanup"
     },
     {
       "label": "public entities",
-      "value": 19,
+      "value": 20,
       "detail": "visible in the atlas"
     },
     {
@@ -69,33 +69,33 @@
   ],
   "entries": [
     {
-      "id": "2026-07-08T06-29-11-build-build",
+      "id": "2026-07-08T07-56-49-build-build",
       "kind": "build",
-      "date": "2026-07-08T06:29:11.476Z",
+      "date": "2026-07-08T07:56:49.273Z",
       "title": "Knowledge build completed",
       "summary": "120 validated changes and 120 timeline entries were generated from source-backed evidence.",
       "status": "ok",
       "meta": [
-        "244 candidates reviewed",
+        "246 candidates reviewed",
         "120 records built"
       ]
     },
     {
       "id": "entity-index-reviewed",
       "kind": "review",
-      "date": "2026-07-08T06:29:11.476Z",
+      "date": "2026-07-08T07:56:49.273Z",
       "title": "Entity index reviewed",
-      "summary": "19 entities are public. 13 remain internal while typing, quality and duplication are reviewed.",
+      "summary": "20 entities are public. 13 remain internal while typing, quality and duplication are reviewed.",
       "status": "ok",
       "meta": [
-        "212 not published after cleanup",
-        "32 kept after cleanup"
+        "213 not published after cleanup",
+        "33 kept after cleanup"
       ]
     },
     {
       "id": "evidence-trail-refreshed",
       "kind": "evidence",
-      "date": "2026-07-08T06:29:11.476Z",
+      "date": "2026-07-08T07:56:49.273Z",
       "title": "Evidence trail refreshed",
       "summary": "120 evidence records are available for public and internal knowledge changes. Article bodies are not copied.",
       "status": "ok",
@@ -105,11 +105,11 @@
       ]
     },
     {
-      "id": "2026-07-08T06-29-10-ingest-ingest",
+      "id": "2026-07-08T07-56-47-ingest-ingest",
       "kind": "ingest",
-      "date": "2026-07-08T06:29:10.325Z",
+      "date": "2026-07-08T07:56:47.552Z",
       "title": "Source ingest completed",
-      "summary": "120 source items were imported from 15 sources for the next knowledge build.",
+      "summary": "120 source items were imported from 16 sources for the next knowledge build.",
       "status": "ok",
       "meta": [
         "120 found",
@@ -118,8 +118,8 @@
       ]
     }
   ],
-  "publicEntities": 19,
+  "publicEntities": 20,
   "internalCandidates": 13,
-  "reviewedCandidates": 244,
-  "notPublishedAfterReview": 212
+  "reviewedCandidates": 246,
+  "notPublishedAfterReview": 213
 }
