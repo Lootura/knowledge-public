@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-08T23:24:05.083Z",
+  "generatedAt": "2026-07-08T23:24:11.064Z",
   "latestIngest": {
     "id": "2026-07-08T21-07-09-ingest",
     "mode": "ingest",
@@ -53,7 +53,7 @@
     },
     {
       "label": "discarded items",
-      "value": 240,
+      "value": 243,
       "detail": "removed by quality cleanup"
     },
     {
@@ -63,7 +63,7 @@
     },
     {
       "label": "internal candidates",
-      "value": 13,
+      "value": 10,
       "detail": "held for quality review"
     }
   ],
@@ -85,11 +85,11 @@
       "kind": "review",
       "date": "2026-07-08T21:07:11.104Z",
       "title": "Entity index reviewed",
-      "summary": "22 entities are public. 13 remain internal while typing, quality and duplication are reviewed.",
+      "summary": "22 entities are public. 10 remain internal while typing, quality and duplication are reviewed.",
       "status": "ok",
       "meta": [
-        "240 not published after cleanup",
-        "35 kept after cleanup"
+        "243 not published after cleanup",
+        "32 kept after cleanup"
       ]
     },
     {
@@ -119,7 +119,7 @@
     }
   ],
   "publicEntities": 22,
-  "internalCandidates": 13,
+  "internalCandidates": 10,
   "reviewedCandidates": 275,
-  "notPublishedAfterReview": 240
+  "notPublishedAfterReview": 243
 }
