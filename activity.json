@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-07-08T07:57:59.741Z",
+  "generatedAt": "2026-07-08T10:18:01.861Z",
   "latestIngest": {
-    "id": "2026-07-08T07-56-47-ingest",
+    "id": "2026-07-08T10-16-50-ingest",
     "mode": "ingest",
-    "startedAt": "2026-07-08T07:56:46.928Z",
-    "finishedAt": "2026-07-08T07:56:47.552Z",
-    "sourcesChecked": 16,
+    "startedAt": "2026-07-08T10:16:49.785Z",
+    "finishedAt": "2026-07-08T10:16:50.132Z",
+    "sourcesChecked": 19,
     "sourceItemsFound": 120,
     "sourceItemsProcessed": 120,
     "validatedEventsCreated": 0,
@@ -19,15 +19,15 @@
     ]
   },
   "latestBuild": {
-    "id": "2026-07-08T07-56-49-build",
+    "id": "2026-07-08T10-16-51-build",
     "mode": "build",
-    "startedAt": "2026-07-08T07:56:48.566Z",
-    "finishedAt": "2026-07-08T07:56:49.273Z",
-    "sourcesChecked": 16,
+    "startedAt": "2026-07-08T10:16:50.866Z",
+    "finishedAt": "2026-07-08T10:16:51.316Z",
+    "sourcesChecked": 19,
     "sourceItemsFound": 120,
     "sourceItemsProcessed": 120,
     "validatedEventsCreated": 120,
-    "entitiesCreated": 246,
+    "entitiesCreated": 247,
     "storiesCreated": 120,
     "skippedItems": 0,
     "errors": 0,
@@ -43,7 +43,7 @@
     },
     {
       "label": "new candidates",
-      "value": 246,
+      "value": 247,
       "detail": "created by latest build"
     },
     {
@@ -53,49 +53,49 @@
     },
     {
       "label": "discarded items",
-      "value": 213,
+      "value": 218,
       "detail": "removed by quality cleanup"
     },
     {
       "label": "public entities",
-      "value": 20,
+      "value": 18,
       "detail": "visible in the atlas"
     },
     {
       "label": "internal candidates",
-      "value": 13,
+      "value": 11,
       "detail": "held for quality review"
     }
   ],
   "entries": [
     {
-      "id": "2026-07-08T07-56-49-build-build",
+      "id": "2026-07-08T10-16-51-build-build",
       "kind": "build",
-      "date": "2026-07-08T07:56:49.273Z",
+      "date": "2026-07-08T10:16:51.316Z",
       "title": "Knowledge build completed",
       "summary": "120 validated changes and 120 timeline entries were generated from source-backed evidence.",
       "status": "ok",
       "meta": [
-        "246 candidates reviewed",
+        "247 candidates reviewed",
         "120 records built"
       ]
     },
     {
       "id": "entity-index-reviewed",
       "kind": "review",
-      "date": "2026-07-08T07:56:49.273Z",
+      "date": "2026-07-08T10:16:51.316Z",
       "title": "Entity index reviewed",
-      "summary": "20 entities are public. 13 remain internal while typing, quality and duplication are reviewed.",
+      "summary": "18 entities are public. 11 remain internal while typing, quality and duplication are reviewed.",
       "status": "ok",
       "meta": [
-        "213 not published after cleanup",
-        "33 kept after cleanup"
+        "218 not published after cleanup",
+        "29 kept after cleanup"
       ]
     },
     {
       "id": "evidence-trail-refreshed",
       "kind": "evidence",
-      "date": "2026-07-08T07:56:49.273Z",
+      "date": "2026-07-08T10:16:51.316Z",
       "title": "Evidence trail refreshed",
       "summary": "120 evidence records are available for public and internal knowledge changes. Article bodies are not copied.",
       "status": "ok",
@@ -105,11 +105,11 @@
       ]
     },
     {
-      "id": "2026-07-08T07-56-47-ingest-ingest",
+      "id": "2026-07-08T10-16-50-ingest-ingest",
       "kind": "ingest",
-      "date": "2026-07-08T07:56:47.552Z",
+      "date": "2026-07-08T10:16:50.132Z",
       "title": "Source ingest completed",
-      "summary": "120 source items were imported from 16 sources for the next knowledge build.",
+      "summary": "120 source items were imported from 19 sources for the next knowledge build.",
       "status": "ok",
       "meta": [
         "120 found",
@@ -118,8 +118,8 @@
       ]
     }
   ],
-  "publicEntities": 20,
-  "internalCandidates": 13,
-  "reviewedCandidates": 246,
-  "notPublishedAfterReview": 213
+  "publicEntities": 18,
+  "internalCandidates": 11,
+  "reviewedCandidates": 247,
+  "notPublishedAfterReview": 218
 }
