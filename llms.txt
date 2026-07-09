@@ -36,8 +36,6 @@ Reworked the home and entity template around a full-screen news image cover, ove
 Aligned the project with the entity-first knowledge engine spec: validated events, entity JSON as source of truth and story pages kept out of the public portal.
 
 Top updated entities (recent)
-- Artificial intelligence: https://atlas.lootura.com/us/topic/artificial-intelligence
-- Charlie Kirk: https://atlas.lootura.com/us/person/charlie-kirk
 - Democratic Party: https://atlas.lootura.com/us/organization/democratic-party
 - Donald Trump: https://atlas.lootura.com/us/person/donald-trump
 - Europe: https://atlas.lootura.com/us/place/europe
@@ -49,10 +47,12 @@ Top updated entities (recent)
 - Supreme Court: https://atlas.lootura.com/us/organization/supreme-court
 - Ukraine: https://atlas.lootura.com/us/place/ukraine
 - United States: https://atlas.lootura.com/us/place/united-states
-- Venezuela: https://atlas.lootura.com/us/place/venezuela
-- White House: https://atlas.lootura.com/us/organization/white-house
 - Alberto Núñez Feijóo: https://atlas.lootura.com/es/person/alberto-nunez-feijoo
-- Barcelona: https://atlas.lootura.com/es/place/barcelona
 - Begoña Gómez: https://atlas.lootura.com/es/person/begona-gomez
 - Correos: https://atlas.lootura.com/es/organization/correos
 - Donald Trump: https://atlas.lootura.com/es/person/donald-trump
+- España: https://atlas.lootura.com/es/place/espana
+- Iran: https://atlas.lootura.com/es/place/iran
+- Madrid: https://atlas.lootura.com/es/place/madrid
+- NATO: https://atlas.lootura.com/es/organization/nato
+- País Vasco: https://atlas.lootura.com/es/place/pais-vasco

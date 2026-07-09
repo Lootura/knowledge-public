@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-07-09T10:32:04.876Z",
+  "generatedAt": "2026-07-09T10:56:14.804Z",
   "latestIngest": {
-    "id": "2026-07-09T08-03-54-ingest",
+    "id": "2026-07-09T10-54-45-ingest",
     "mode": "ingest",
-    "startedAt": "2026-07-09T08:03:52.830Z",
-    "finishedAt": "2026-07-09T08:03:54.927Z",
-    "sourcesChecked": 33,
+    "startedAt": "2026-07-09T10:54:44.795Z",
+    "finishedAt": "2026-07-09T10:54:45.400Z",
+    "sourcesChecked": 38,
     "sourceItemsFound": 240,
     "sourceItemsProcessed": 240,
     "validatedEventsCreated": 0,
@@ -14,21 +14,21 @@
     "skippedItems": 0,
     "errors": 0,
     "notes": [
-      "Imported Lootura Radar profiles us, es from origin/main.",
+      "Imported Lootura Radar profiles us, es from HEAD.",
       "Radar is the only publication input. Raw feed crawling and demo seeds are not used."
     ]
   },
   "latestBuild": {
-    "id": "2026-07-09T08-03-56-build",
+    "id": "2026-07-09T10-54-48-build",
     "mode": "build",
-    "startedAt": "2026-07-09T08:03:55.270Z",
-    "finishedAt": "2026-07-09T08:03:56.522Z",
-    "sourcesChecked": 33,
+    "startedAt": "2026-07-09T10:54:46.150Z",
+    "finishedAt": "2026-07-09T10:54:48.416Z",
+    "sourcesChecked": 38,
     "sourceItemsFound": 240,
     "sourceItemsProcessed": 240,
-    "validatedEventsCreated": 239,
-    "entitiesCreated": 351,
-    "storiesCreated": 239,
+    "validatedEventsCreated": 240,
+    "entitiesCreated": 368,
+    "storiesCreated": 240,
     "skippedItems": 0,
     "errors": 0,
     "notes": [
@@ -43,12 +43,12 @@
     },
     {
       "label": "cambios validados",
-      "value": 119,
+      "value": 120,
       "detail": "construidos para este atlas"
     },
     {
       "label": "fuentes",
-      "value": 15,
+      "value": 20,
       "detail": "fuentes activas"
     },
     {
@@ -58,58 +58,58 @@
     },
     {
       "label": "entidades públicas",
-      "value": 16,
+      "value": 14,
       "detail": "visibles en el atlas"
     },
     {
       "label": "candidatos internos",
-      "value": 3,
+      "value": 15,
       "detail": "retenidos para revisión de calidad"
     }
   ],
   "entries": [
     {
-      "id": "2026-07-09T08-03-56-build-build",
+      "id": "2026-07-09T10-54-48-build-build",
       "kind": "build",
-      "date": "2026-07-09T08:03:56.522Z",
+      "date": "2026-07-09T10:54:48.416Z",
       "title": "Build de conocimiento completada",
-      "summary": "119 cambios validados y 120 entradas de cronología se generaron con evidencia respaldada por fuentes.",
+      "summary": "120 cambios validados y 120 entradas de cronología se generaron con evidencia respaldada por fuentes.",
       "status": "ok",
       "meta": [
-        "19 candidatos revisados",
-        "119 registros construidos"
+        "29 candidatos revisados",
+        "120 registros construidos"
       ]
     },
     {
       "id": "entity-index-reviewed",
       "kind": "review",
-      "date": "2026-07-09T08:03:56.522Z",
+      "date": "2026-07-09T10:54:48.416Z",
       "title": "Índice de entidades revisado",
-      "summary": "16 entidades son públicas. 3 quedan internas mientras se revisan tipado, calidad y duplicados.",
+      "summary": "14 entidades son públicas. 15 quedan internas mientras se revisan tipado, calidad y duplicados.",
       "status": "ok",
       "meta": [
         "0 no publicadas tras limpieza",
-        "19 conservadas tras limpieza"
+        "29 conservadas tras limpieza"
       ]
     },
     {
       "id": "evidence-trail-refreshed",
       "kind": "evidence",
-      "date": "2026-07-09T08:03:56.522Z",
+      "date": "2026-07-09T10:54:48.416Z",
       "title": "Rastro de evidencia actualizado",
       "summary": "120 registros de evidencia están disponibles para cambios públicos e internos. No se copian cuerpos de artículos.",
       "status": "ok",
       "meta": [
         "120 señales",
-        "119 eventos validados"
+        "120 eventos validados"
       ]
     },
     {
-      "id": "2026-07-09T08-03-54-ingest-ingest",
+      "id": "2026-07-09T10-54-45-ingest-ingest",
       "kind": "ingest",
-      "date": "2026-07-09T08:03:54.927Z",
+      "date": "2026-07-09T10:54:45.400Z",
       "title": "Ingesta de fuentes completada",
-      "summary": "120 señales se importaron desde 15 fuentes para este atlas.",
+      "summary": "120 señales se importaron desde 20 fuentes para este atlas.",
       "status": "ok",
       "meta": [
         "120 encontradas",
@@ -118,8 +118,8 @@
       ]
     }
   ],
-  "publicEntities": 16,
-  "internalCandidates": 3,
-  "reviewedCandidates": 19,
+  "publicEntities": 14,
+  "internalCandidates": 15,
+  "reviewedCandidates": 29,
   "notPublishedAfterReview": 0
 }
