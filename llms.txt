@@ -1,0 +1,58 @@
+# Lootura Entity Atlas - LLM surface
+
+Public index pages
+US root: https://atlas.lootura.com/us/
+ES root: https://atlas.lootura.com/es/
+US entities: https://atlas.lootura.com/us/entities
+ES entities: https://atlas.lootura.com/es/entities
+US latest activity: https://atlas.lootura.com/us/activity
+ES latest activity: https://atlas.lootura.com/es/activity
+US releases: https://atlas.lootura.com/us/updates
+ES releases: https://atlas.lootura.com/es/updates
+
+Latest released updates
+1.1.0 — Add ChatGPT helper on entity pages (2026-07-09)
+Added an always visible Ask ChatGPT action on entity pages that opens a prefilled prompt for the selected entity, so users can continue the conversation in one click.
+
+1.0.0 — Major Atlas refresh flow and home updates (2026-07-09)
+Added event-driven Atlas refresh from private after real feed deltas, and continued polishing major public-facing surfaces, including Home cover behavior and versioned release visibility.
+
+0.6.1 — Sharper entity search (2026-07-09)
+Added ranked, accent-insensitive entity suggestions, regional search indexes and cleaner directory states for filtered results.
+
+0.6.0 — Regional radar launch (2026-07-09)
+Added isolated US and Spain radar routes, localized product pages, a radar switcher, scheduled refresh from private feeds and stricter public entity quality checks.
+
+0.5.1 — Atlas domain polish (2026-07-07)
+Cleaned up the public Atlas domain, legacy links, error pages and entity anchor behavior.
+
+0.5.0 — Cleaner public surfaces (2026-07-07)
+Simplified the home search, tightened featured entity selection and brought the What's new page in line with the white interior layout used by About and directory pages.
+
+0.4.0 — Immersive entity cover (2026-07-06)
+Reworked the home and entity template around a full-screen news image cover, overlay navigation and a continuous timeline that starts inside the image.
+
+0.3.0 — Validated event model (2026-07-06)
+Aligned the project with the entity-first knowledge engine spec: validated events, entity JSON as source of truth and story pages kept out of the public portal.
+
+Top updated entities (recent)
+- Artificial intelligence: https://atlas.lootura.com/us/topic/artificial-intelligence
+- Charlie Kirk: https://atlas.lootura.com/us/person/charlie-kirk
+- Democratic Party: https://atlas.lootura.com/us/organization/democratic-party
+- Donald Trump: https://atlas.lootura.com/us/person/donald-trump
+- Europe: https://atlas.lootura.com/us/place/europe
+- Graham Platner: https://atlas.lootura.com/us/person/graham-platner
+- Iran: https://atlas.lootura.com/us/place/iran
+- Maine: https://atlas.lootura.com/us/place/maine
+- Maine Senate: https://atlas.lootura.com/us/organization/maine-senate
+- NATO: https://atlas.lootura.com/us/organization/nato
+- Supreme Court: https://atlas.lootura.com/us/organization/supreme-court
+- Ukraine: https://atlas.lootura.com/us/place/ukraine
+- United States: https://atlas.lootura.com/us/place/united-states
+- Venezuela: https://atlas.lootura.com/us/place/venezuela
+- White House: https://atlas.lootura.com/us/organization/white-house
+- Alberto Núñez Feijóo: https://atlas.lootura.com/es/person/alberto-nunez-feijoo
+- Barcelona: https://atlas.lootura.com/es/place/barcelona
+- Begoña Gómez: https://atlas.lootura.com/es/person/begona-gomez
+- Correos: https://atlas.lootura.com/es/organization/correos
+- Donald Trump: https://atlas.lootura.com/es/person/donald-trump
