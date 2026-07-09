@@ -38,15 +38,17 @@ Lootura adds South Africa, Mexico, and Argentina as real editions, with their ow
 Top updated entities (recent)
 - Artificial intelligence: https://atlas.lootura.com/us/topic/artificial-intelligence
 - Charlie Kirk: https://atlas.lootura.com/us/person/charlie-kirk
+- China: https://atlas.lootura.com/us/place/china
 - Democratic Party: https://atlas.lootura.com/us/organization/democratic-party
 - Donald Trump: https://atlas.lootura.com/us/person/donald-trump
 - Graham Platner: https://atlas.lootura.com/us/person/graham-platner
 - Iran: https://atlas.lootura.com/us/place/iran
 - Maine: https://atlas.lootura.com/us/place/maine
+- Maine Democratic Senate: https://atlas.lootura.com/us/organization/maine-democratic-senate
+- Maine Senate: https://atlas.lootura.com/us/organization/maine-senate
 - NATO: https://atlas.lootura.com/us/organization/nato
 - New York: https://atlas.lootura.com/us/place/new-york
 - Russia: https://atlas.lootura.com/us/place/russia
-- Supreme Court: https://atlas.lootura.com/us/organization/supreme-court
 - Ukraine: https://atlas.lootura.com/us/place/ukraine
 - United States: https://atlas.lootura.com/us/place/united-states
 - White House: https://atlas.lootura.com/us/organization/white-house
@@ -54,5 +56,3 @@ Top updated entities (recent)
 - Correos: https://atlas.lootura.com/es/organization/correos
 - Donald Trump: https://atlas.lootura.com/es/person/donald-trump
 - España: https://atlas.lootura.com/es/place/espana
-- Iran: https://atlas.lootura.com/es/place/iran
-- Madrid: https://atlas.lootura.com/es/place/madrid
