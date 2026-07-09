@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-07-09T22:55:01.190Z",
+  "generatedAt": "2026-07-09T22:59:59.403Z",
   "latestIngest": {
-    "id": "2026-07-09T21-23-46-ingest",
+    "id": "2026-07-09T22-57-01-ingest",
     "mode": "ingest",
-    "startedAt": "2026-07-09T21:23:46.279Z",
-    "finishedAt": "2026-07-09T21:23:46.853Z",
-    "sourcesChecked": 33,
+    "startedAt": "2026-07-09T22:57:00.708Z",
+    "finishedAt": "2026-07-09T22:57:01.263Z",
+    "sourcesChecked": 31,
     "sourceItemsFound": 240,
     "sourceItemsProcessed": 240,
     "validatedEventsCreated": 0,
@@ -19,18 +19,18 @@
     ]
   },
   "latestBuild": {
-    "id": "2026-07-09T21-24-06-build",
+    "id": "2026-07-09T22-57-16-build",
     "mode": "build",
-    "startedAt": "2026-07-09T21:23:47.651Z",
-    "finishedAt": "2026-07-09T21:24:06.098Z",
-    "sourcesChecked": 33,
+    "startedAt": "2026-07-09T22:57:02.043Z",
+    "finishedAt": "2026-07-09T22:57:16.741Z",
+    "sourcesChecked": 31,
     "sourceItemsFound": 240,
     "sourceItemsProcessed": 240,
-    "validatedEventsCreated": 239,
-    "entitiesCreated": 377,
-    "storiesCreated": 239,
+    "validatedEventsCreated": 240,
+    "entitiesCreated": 362,
+    "storiesCreated": 240,
     "skippedItems": 0,
-    "errors": 9,
+    "errors": 14,
     "notes": [
       "Deterministic MVP pipeline. No article bodies were copied.",
       "Entity images are cached locally before public pages use them."
@@ -49,7 +49,7 @@
     },
     {
       "label": "source records",
-      "value": 15,
+      "value": 14,
       "detail": "enabled sources"
     },
     {
@@ -59,20 +59,20 @@
     },
     {
       "label": "public entities",
-      "value": 16,
+      "value": 15,
       "detail": "visible in the atlas"
     },
     {
       "label": "internal candidates",
-      "value": 9,
+      "value": 10,
       "detail": "held for quality review"
     }
   ],
   "entries": [
     {
-      "id": "2026-07-09T21-24-06-build-build",
+      "id": "2026-07-09T22-57-16-build-build",
       "kind": "build",
-      "date": "2026-07-09T21:24:06.098Z",
+      "date": "2026-07-09T22:57:16.741Z",
       "title": "Knowledge build completed",
       "summary": "120 validated changes and 120 timeline entries were generated from source-backed evidence.",
       "status": "warning",
@@ -84,9 +84,9 @@
     {
       "id": "entity-index-reviewed",
       "kind": "review",
-      "date": "2026-07-09T21:24:06.098Z",
+      "date": "2026-07-09T22:57:16.741Z",
       "title": "Entity index reviewed",
-      "summary": "16 entities are public. 9 remain internal while typing, quality and duplication are reviewed.",
+      "summary": "15 entities are public. 10 remain internal while typing, quality and duplication are reviewed.",
       "status": "ok",
       "meta": [
         "0 not published after cleanup",
@@ -96,7 +96,7 @@
     {
       "id": "evidence-trail-refreshed",
       "kind": "evidence",
-      "date": "2026-07-09T21:24:06.098Z",
+      "date": "2026-07-09T22:57:16.741Z",
       "title": "Evidence trail refreshed",
       "summary": "120 evidence records are available for public and internal knowledge changes. Article bodies are not copied.",
       "status": "ok",
@@ -106,11 +106,11 @@
       ]
     },
     {
-      "id": "2026-07-09T21-23-46-ingest-ingest",
+      "id": "2026-07-09T22-57-01-ingest-ingest",
       "kind": "ingest",
-      "date": "2026-07-09T21:23:46.853Z",
+      "date": "2026-07-09T22:57:01.263Z",
       "title": "Source ingest completed",
-      "summary": "120 source items were imported from 15 sources for this atlas.",
+      "summary": "120 source items were imported from 14 sources for this atlas.",
       "status": "ok",
       "meta": [
         "120 found",
@@ -119,8 +119,8 @@
       ]
     }
   ],
-  "publicEntities": 16,
-  "internalCandidates": 9,
+  "publicEntities": 15,
+  "internalCandidates": 10,
   "reviewedCandidates": 25,
   "notPublishedAfterReview": 0
 }
