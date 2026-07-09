@@ -11,6 +11,9 @@ US releases: https://atlas.lootura.com/us/updates
 ES releases: https://atlas.lootura.com/es/updates
 
 Latest released updates
+2.0.0 — Breaking moments for entity home and timelines (2026-07-09)
+Added source-backed Breaking detection for validated events, with home highlights, subtle entity-card treatment and timeline emphasis when multiple entities are moving together.
+
 1.1.0 — Add ChatGPT helper on entity pages (2026-07-09)
 Added an always visible Ask ChatGPT action on entity pages that opens a prefilled prompt for the selected entity, so users can continue the conversation in one click.
 
@@ -31,9 +34,6 @@ Simplified the home search, tightened featured entity selection and brought the 
 
 0.4.0 — Immersive entity cover (2026-07-06)
 Reworked the home and entity template around a full-screen news image cover, overlay navigation and a continuous timeline that starts inside the image.
-
-0.3.0 — Validated event model (2026-07-06)
-Aligned the project with the entity-first knowledge engine spec: validated events, entity JSON as source of truth and story pages kept out of the public portal.
 
 Top updated entities (recent)
 - Democratic Party: https://atlas.lootura.com/us/organization/democratic-party
