@@ -11,29 +11,29 @@ US releases: https://atlas.lootura.com/us/updates
 ES releases: https://atlas.lootura.com/es/updates
 
 Latest released updates
-2.0.0 — Breaking moments for entity home and timelines (2026-07-09)
-Added source-backed Breaking detection for validated events, with home highlights, subtle entity-card treatment and timeline emphasis when multiple entities are moving together.
+1.13.2 — Atlas publish strategy (2026-07-08)
+Full `dist` publish is confirmed: every publish run rebuilds and deploys the entire static output, even when only signal/atlas files changed.
 
-1.1.0 — Add ChatGPT helper on entity pages (2026-07-09)
-Added an always visible Ask ChatGPT action on entity pages that opens a prefilled prompt for the selected entity, so users can continue the conversation in one click.
+1.13.1 — More stable signal atlas (2026-07-08)
+Signal Atlas entity persistence is now more stable so entities don't disappear after headline changes, with a compact timeline attached to each entity.
 
-1.0.0 — Major Atlas refresh flow and home updates (2026-07-09)
-Added event-driven Atlas refresh from private after real feed deltas, and continued polishing major public-facing surfaces, including Home cover behavior and versioned release visibility.
+1.13.0 — More resilient images (2026-07-04)
+Lootura improves image extraction, validation, and recovery so sources with incomplete metadata do not leave broken cards.
 
-0.6.1 — Sharper entity search (2026-07-09)
-Added ranked, accent-insensitive entity suggestions, regional search indexes and cleaner directory states for filtered results.
+1.12.0 — Compact brief and cleaner signals (2026-07-04)
+Lootura adds a compact signal read by edition inside the app, reuses the same logic in the Chrome extension, and refines how headlines, images, and the Signal cover are shown.
 
-0.6.0 — Regional radar launch (2026-07-09)
-Added isolated US and Spain radar routes, localized product pages, a radar switcher, scheduled refresh from private feeds and stricter public entity quality checks.
+1.11.0 — Cross-edition signal lab (2026-05-23)
+Lootura adds a lab for seeing which signals from one edition are also being covered by media in other editions.
 
-0.5.1 — Atlas domain polish (2026-07-07)
-Cleaned up the public Atlas domain, legacy links, error pages and entity anchor behavior.
+1.10.0 — Sharper signal selection (2026-05-20)
+Lootura changes how headlines are grouped so it can better tell when several sources are covering the same story and when they only share a loose word.
 
-0.5.0 — Cleaner public surfaces (2026-07-07)
-Simplified the home search, tightened featured entity selection and brought the What's new page in line with the white interior layout used by About and directory pages.
+1.9.0 — Cleaner editions and Labs (2026-05-18)
+Lootura organizes edition expansion, adds Japan as its own edition, and reduces Labs to the experiments that add the most value.
 
-0.4.0 — Immersive entity cover (2026-07-06)
-Reworked the home and entity template around a full-screen news image cover, overlay navigation and a continuous timeline that starts inside the image.
+1.8.0 — Three new editions (2026-05-18)
+Lootura adds South Africa, Mexico, and Argentina as real editions, with their own feeds, Signal, Labs, and operational pipeline.
 
 Top updated entities (recent)
 - Artificial intelligence: https://atlas.lootura.com/us/topic/artificial-intelligence
