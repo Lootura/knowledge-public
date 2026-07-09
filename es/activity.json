@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-07-09T23:20:37.568Z",
+  "generatedAt": "2026-07-09T23:24:59.005Z",
   "latestIngest": {
-    "id": "2026-07-09T22-57-01-ingest",
+    "id": "2026-07-09T23-19-13-ingest",
     "mode": "ingest",
-    "startedAt": "2026-07-09T22:57:00.708Z",
-    "finishedAt": "2026-07-09T22:57:01.263Z",
+    "startedAt": "2026-07-09T23:19:12.223Z",
+    "finishedAt": "2026-07-09T23:19:13.347Z",
     "sourcesChecked": 31,
     "sourceItemsFound": 240,
     "sourceItemsProcessed": 240,
@@ -19,10 +19,10 @@
     ]
   },
   "latestBuild": {
-    "id": "2026-07-09T22-57-16-build",
+    "id": "2026-07-09T23-19-16-build",
     "mode": "build",
-    "startedAt": "2026-07-09T22:57:02.043Z",
-    "finishedAt": "2026-07-09T22:57:16.741Z",
+    "startedAt": "2026-07-09T23:19:14.133Z",
+    "finishedAt": "2026-07-09T23:19:16.585Z",
     "sourcesChecked": 31,
     "sourceItemsFound": 240,
     "sourceItemsProcessed": 240,
@@ -59,44 +59,44 @@
     },
     {
       "label": "entidades públicas",
-      "value": 10,
+      "value": 11,
       "detail": "visibles en el atlas"
     },
     {
       "label": "candidatos internos",
-      "value": 11,
+      "value": 12,
       "detail": "retenidos para revisión de calidad"
     }
   ],
   "entries": [
     {
-      "id": "2026-07-09T22-57-16-build-build",
+      "id": "2026-07-09T23-19-16-build-build",
       "kind": "build",
-      "date": "2026-07-09T22:57:16.741Z",
+      "date": "2026-07-09T23:19:16.585Z",
       "title": "Build de conocimiento completada",
       "summary": "120 cambios validados y 120 entradas de cronología se generaron con evidencia respaldada por fuentes.",
       "status": "warning",
       "meta": [
-        "21 candidatos revisados",
+        "23 candidatos revisados",
         "120 registros construidos"
       ]
     },
     {
       "id": "entity-index-reviewed",
       "kind": "review",
-      "date": "2026-07-09T22:57:16.741Z",
+      "date": "2026-07-09T23:19:16.585Z",
       "title": "Índice de entidades revisado",
-      "summary": "10 entidades son públicas. 11 quedan internas mientras se revisan tipado, calidad y duplicados.",
+      "summary": "11 entidades son públicas. 12 quedan internas mientras se revisan tipado, calidad y duplicados.",
       "status": "ok",
       "meta": [
         "0 no publicadas tras limpieza",
-        "21 conservadas tras limpieza"
+        "23 conservadas tras limpieza"
       ]
     },
     {
       "id": "evidence-trail-refreshed",
       "kind": "evidence",
-      "date": "2026-07-09T22:57:16.741Z",
+      "date": "2026-07-09T23:19:16.585Z",
       "title": "Rastro de evidencia actualizado",
       "summary": "120 registros de evidencia están disponibles para cambios públicos e internos. No se copian cuerpos de artículos.",
       "status": "ok",
@@ -106,9 +106,9 @@
       ]
     },
     {
-      "id": "2026-07-09T22-57-01-ingest-ingest",
+      "id": "2026-07-09T23-19-13-ingest-ingest",
       "kind": "ingest",
-      "date": "2026-07-09T22:57:01.263Z",
+      "date": "2026-07-09T23:19:13.347Z",
       "title": "Ingesta de fuentes completada",
       "summary": "120 señales se importaron desde 17 fuentes para este atlas.",
       "status": "ok",
@@ -119,8 +119,8 @@
       ]
     }
   ],
-  "publicEntities": 10,
-  "internalCandidates": 11,
-  "reviewedCandidates": 21,
+  "publicEntities": 11,
+  "internalCandidates": 12,
+  "reviewedCandidates": 23,
   "notPublishedAfterReview": 0
 }
