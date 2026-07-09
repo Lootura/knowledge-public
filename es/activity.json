@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-09T14:24:30.474Z",
+  "generatedAt": "2026-07-09T14:57:21.459Z",
   "latestIngest": {
     "id": "2026-07-09T10-54-45-ingest",
     "mode": "ingest",
@@ -19,20 +19,21 @@
     ]
   },
   "latestBuild": {
-    "id": "2026-07-09T10-54-48-build",
+    "id": "2026-07-09T14-54-12-build",
     "mode": "build",
-    "startedAt": "2026-07-09T10:54:46.150Z",
-    "finishedAt": "2026-07-09T10:54:48.416Z",
+    "startedAt": "2026-07-09T14:54:00.214Z",
+    "finishedAt": "2026-07-09T14:54:12.918Z",
     "sourcesChecked": 38,
     "sourceItemsFound": 240,
     "sourceItemsProcessed": 240,
-    "validatedEventsCreated": 240,
-    "entitiesCreated": 368,
-    "storiesCreated": 240,
+    "validatedEventsCreated": 0,
+    "entitiesCreated": 313,
+    "storiesCreated": 0,
     "skippedItems": 0,
-    "errors": 0,
+    "errors": 10,
     "notes": [
-      "Deterministic MVP pipeline. No article bodies were copied."
+      "Deterministic MVP pipeline. No article bodies were copied.",
+      "Entity images are cached locally before public pages use them."
     ]
   },
   "metrics": [
@@ -69,12 +70,12 @@
   ],
   "entries": [
     {
-      "id": "2026-07-09T10-54-48-build-build",
+      "id": "2026-07-09T14-54-12-build-build",
       "kind": "build",
-      "date": "2026-07-09T10:54:48.416Z",
+      "date": "2026-07-09T14:54:12.918Z",
       "title": "Build de conocimiento completada",
       "summary": "120 cambios validados y 120 entradas de cronología se generaron con evidencia respaldada por fuentes.",
-      "status": "ok",
+      "status": "warning",
       "meta": [
         "29 candidatos revisados",
         "120 registros construidos"
@@ -83,7 +84,7 @@
     {
       "id": "entity-index-reviewed",
       "kind": "review",
-      "date": "2026-07-09T10:54:48.416Z",
+      "date": "2026-07-09T14:54:12.918Z",
       "title": "Índice de entidades revisado",
       "summary": "14 entidades son públicas. 15 quedan internas mientras se revisan tipado, calidad y duplicados.",
       "status": "ok",
@@ -95,7 +96,7 @@
     {
       "id": "evidence-trail-refreshed",
       "kind": "evidence",
-      "date": "2026-07-09T10:54:48.416Z",
+      "date": "2026-07-09T14:54:12.918Z",
       "title": "Rastro de evidencia actualizado",
       "summary": "120 registros de evidencia están disponibles para cambios públicos e internos. No se copian cuerpos de artículos.",
       "status": "ok",
