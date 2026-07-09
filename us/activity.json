@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-07-09T15:09:10.443Z",
+  "generatedAt": "2026-07-09T19:21:13.785Z",
   "latestIngest": {
-    "id": "2026-07-09T10-54-45-ingest",
+    "id": "2026-07-09T19-14-34-ingest",
     "mode": "ingest",
-    "startedAt": "2026-07-09T10:54:44.795Z",
-    "finishedAt": "2026-07-09T10:54:45.400Z",
-    "sourcesChecked": 38,
+    "startedAt": "2026-07-09T19:14:33.698Z",
+    "finishedAt": "2026-07-09T19:14:34.698Z",
+    "sourcesChecked": 31,
     "sourceItemsFound": 240,
     "sourceItemsProcessed": 240,
     "validatedEventsCreated": 0,
@@ -19,18 +19,18 @@
     ]
   },
   "latestBuild": {
-    "id": "2026-07-09T14-54-12-build",
+    "id": "2026-07-09T19-14-46-build",
     "mode": "build",
-    "startedAt": "2026-07-09T14:54:00.214Z",
-    "finishedAt": "2026-07-09T14:54:12.918Z",
-    "sourcesChecked": 38,
+    "startedAt": "2026-07-09T19:14:35.280Z",
+    "finishedAt": "2026-07-09T19:14:46.537Z",
+    "sourcesChecked": 31,
     "sourceItemsFound": 240,
     "sourceItemsProcessed": 240,
-    "validatedEventsCreated": 0,
-    "entitiesCreated": 313,
-    "storiesCreated": 0,
+    "validatedEventsCreated": 240,
+    "entitiesCreated": 375,
+    "storiesCreated": 240,
     "skippedItems": 0,
-    "errors": 10,
+    "errors": 2,
     "notes": [
       "Deterministic MVP pipeline. No article bodies were copied.",
       "Entity images are cached locally before public pages use them."
@@ -49,7 +49,7 @@
     },
     {
       "label": "source records",
-      "value": 18,
+      "value": 15,
       "detail": "enabled sources"
     },
     {
@@ -59,44 +59,44 @@
     },
     {
       "label": "public entities",
-      "value": 11,
+      "value": 14,
       "detail": "visible in the atlas"
     },
     {
       "label": "internal candidates",
-      "value": 15,
+      "value": 10,
       "detail": "held for quality review"
     }
   ],
   "entries": [
     {
-      "id": "2026-07-09T14-54-12-build-build",
+      "id": "2026-07-09T19-14-46-build-build",
       "kind": "build",
-      "date": "2026-07-09T14:54:12.918Z",
+      "date": "2026-07-09T19:14:46.537Z",
       "title": "Knowledge build completed",
       "summary": "120 validated changes and 120 timeline entries were generated from source-backed evidence.",
       "status": "warning",
       "meta": [
-        "26 candidates reviewed",
+        "24 candidates reviewed",
         "120 records built"
       ]
     },
     {
       "id": "entity-index-reviewed",
       "kind": "review",
-      "date": "2026-07-09T14:54:12.918Z",
+      "date": "2026-07-09T19:14:46.537Z",
       "title": "Entity index reviewed",
-      "summary": "11 entities are public. 15 remain internal while typing, quality and duplication are reviewed.",
+      "summary": "14 entities are public. 10 remain internal while typing, quality and duplication are reviewed.",
       "status": "ok",
       "meta": [
         "0 not published after cleanup",
-        "26 kept after cleanup"
+        "24 kept after cleanup"
       ]
     },
     {
       "id": "evidence-trail-refreshed",
       "kind": "evidence",
-      "date": "2026-07-09T14:54:12.918Z",
+      "date": "2026-07-09T19:14:46.537Z",
       "title": "Evidence trail refreshed",
       "summary": "120 evidence records are available for public and internal knowledge changes. Article bodies are not copied.",
       "status": "ok",
@@ -106,11 +106,11 @@
       ]
     },
     {
-      "id": "2026-07-09T10-54-45-ingest-ingest",
+      "id": "2026-07-09T19-14-34-ingest-ingest",
       "kind": "ingest",
-      "date": "2026-07-09T10:54:45.400Z",
+      "date": "2026-07-09T19:14:34.698Z",
       "title": "Source ingest completed",
-      "summary": "120 source items were imported from 18 sources for this atlas.",
+      "summary": "120 source items were imported from 15 sources for this atlas.",
       "status": "ok",
       "meta": [
         "120 found",
@@ -119,8 +119,8 @@
       ]
     }
   ],
-  "publicEntities": 11,
-  "internalCandidates": 15,
-  "reviewedCandidates": 26,
+  "publicEntities": 14,
+  "internalCandidates": 10,
+  "reviewedCandidates": 24,
   "notPublishedAfterReview": 0
 }

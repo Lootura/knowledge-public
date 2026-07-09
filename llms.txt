@@ -36,23 +36,23 @@ Simplified the home search, tightened featured entity selection and brought the 
 Reworked the home and entity template around a full-screen news image cover, overlay navigation and a continuous timeline that starts inside the image.
 
 Top updated entities (recent)
+- Artificial intelligence: https://atlas.lootura.com/us/topic/artificial-intelligence
+- Charlie Kirk: https://atlas.lootura.com/us/person/charlie-kirk
 - Democratic Party: https://atlas.lootura.com/us/organization/democratic-party
 - Donald Trump: https://atlas.lootura.com/us/person/donald-trump
-- Europe: https://atlas.lootura.com/us/place/europe
 - Graham Platner: https://atlas.lootura.com/us/person/graham-platner
 - Iran: https://atlas.lootura.com/us/place/iran
 - Maine: https://atlas.lootura.com/us/place/maine
-- Maine Senate: https://atlas.lootura.com/us/organization/maine-senate
 - NATO: https://atlas.lootura.com/us/organization/nato
+- New York: https://atlas.lootura.com/us/place/new-york
+- Russia: https://atlas.lootura.com/us/place/russia
 - Supreme Court: https://atlas.lootura.com/us/organization/supreme-court
 - Ukraine: https://atlas.lootura.com/us/place/ukraine
 - United States: https://atlas.lootura.com/us/place/united-states
-- Alberto Núñez Feijóo: https://atlas.lootura.com/es/person/alberto-nunez-feijoo
-- Begoña Gómez: https://atlas.lootura.com/es/person/begona-gomez
+- White House: https://atlas.lootura.com/us/organization/white-house
+- Belgium: https://atlas.lootura.com/es/place/belgium
 - Correos: https://atlas.lootura.com/es/organization/correos
 - Donald Trump: https://atlas.lootura.com/es/person/donald-trump
 - España: https://atlas.lootura.com/es/place/espana
 - Iran: https://atlas.lootura.com/es/place/iran
 - Madrid: https://atlas.lootura.com/es/place/madrid
-- NATO: https://atlas.lootura.com/es/organization/nato
-- País Vasco: https://atlas.lootura.com/es/place/pais-vasco
