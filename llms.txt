@@ -47,7 +47,6 @@ Top updated entities (recent)
 - Tyler Robinson: https://atlas.lootura.com/us/person/tyler-robinson
 - United States: https://atlas.lootura.com/us/place/united-states
 - White House: https://atlas.lootura.com/us/organization/white-house
-- Barcelona: https://atlas.lootura.com/es/place/barcelona
 - Belgium: https://atlas.lootura.com/es/place/belgium
 - Correos: https://atlas.lootura.com/es/organization/correos
 - Donald Trump: https://atlas.lootura.com/es/person/donald-trump
@@ -55,4 +54,5 @@ Top updated entities (recent)
 - Iran: https://atlas.lootura.com/es/place/iran
 - La Sagra: https://atlas.lootura.com/es/place/la-sagra
 - Madrid: https://atlas.lootura.com/es/place/madrid
-- Mundial 2026: https://atlas.lootura.com/es/event/mundial-2026
+- Partido Popular: https://atlas.lootura.com/es/organization/partido-popular
+- Pedro Sánchez: https://atlas.lootura.com/es/person/pedro-sanchez
