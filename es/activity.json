@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-07-10T07:42:33.852Z",
+  "generatedAt": "2026-07-10T07:49:01.796Z",
   "latestIngest": {
-    "id": "2026-07-10T06-44-17-ingest",
+    "id": "2026-07-10T07-40-43-ingest",
     "mode": "ingest",
-    "startedAt": "2026-07-10T06:44:16.280Z",
-    "finishedAt": "2026-07-10T06:44:17.117Z",
-    "sourcesChecked": 32,
+    "startedAt": "2026-07-10T07:40:42.972Z",
+    "finishedAt": "2026-07-10T07:40:43.965Z",
+    "sourcesChecked": 31,
     "sourceItemsFound": 240,
     "sourceItemsProcessed": 240,
     "validatedEventsCreated": 0,
@@ -19,16 +19,16 @@
     ]
   },
   "latestBuild": {
-    "id": "2026-07-10T06-44-21-build",
+    "id": "2026-07-10T07-41-09-build",
     "mode": "build",
-    "startedAt": "2026-07-10T06:44:18.156Z",
-    "finishedAt": "2026-07-10T06:44:21.175Z",
-    "sourcesChecked": 32,
+    "startedAt": "2026-07-10T07:40:44.792Z",
+    "finishedAt": "2026-07-10T07:41:09.827Z",
+    "sourcesChecked": 31,
     "sourceItemsFound": 240,
     "sourceItemsProcessed": 240,
-    "validatedEventsCreated": 240,
-    "entitiesCreated": 350,
-    "storiesCreated": 240,
+    "validatedEventsCreated": 198,
+    "entitiesCreated": 359,
+    "storiesCreated": 198,
     "skippedItems": 0,
     "errors": 16,
     "notes": [
@@ -44,12 +44,12 @@
     },
     {
       "label": "cambios validados",
-      "value": 120,
+      "value": 97,
       "detail": "construidos para este atlas"
     },
     {
       "label": "fuentes",
-      "value": 18,
+      "value": 15,
       "detail": "fuentes activas"
     },
     {
@@ -59,58 +59,58 @@
     },
     {
       "label": "entidades públicas",
-      "value": 10,
+      "value": 12,
       "detail": "visibles en el atlas"
     },
     {
       "label": "candidatos internos",
-      "value": 11,
+      "value": 7,
       "detail": "retenidos para revisión de calidad"
     }
   ],
   "entries": [
     {
-      "id": "2026-07-10T06-44-21-build-build",
+      "id": "2026-07-10T07-41-09-build-build",
       "kind": "build",
-      "date": "2026-07-10T06:44:21.175Z",
+      "date": "2026-07-10T07:41:09.827Z",
       "title": "Build de conocimiento completada",
-      "summary": "120 cambios validados y 120 entradas de cronología se generaron con evidencia respaldada por fuentes.",
+      "summary": "97 cambios validados y 120 entradas de cronología se generaron con evidencia respaldada por fuentes.",
       "status": "warning",
       "meta": [
-        "21 candidatos revisados",
-        "120 registros construidos"
+        "19 candidatos revisados",
+        "97 registros construidos"
       ]
     },
     {
       "id": "entity-index-reviewed",
       "kind": "review",
-      "date": "2026-07-10T06:44:21.175Z",
+      "date": "2026-07-10T07:41:09.827Z",
       "title": "Índice de entidades revisado",
-      "summary": "10 entidades son públicas. 11 quedan internas mientras se revisan tipado, calidad y duplicados.",
+      "summary": "12 entidades son públicas. 7 quedan internas mientras se revisan tipado, calidad y duplicados.",
       "status": "ok",
       "meta": [
         "0 no publicadas tras limpieza",
-        "21 conservadas tras limpieza"
+        "19 conservadas tras limpieza"
       ]
     },
     {
       "id": "evidence-trail-refreshed",
       "kind": "evidence",
-      "date": "2026-07-10T06:44:21.175Z",
+      "date": "2026-07-10T07:41:09.827Z",
       "title": "Rastro de evidencia actualizado",
       "summary": "120 registros de evidencia están disponibles para cambios públicos e internos. No se copian cuerpos de artículos.",
       "status": "ok",
       "meta": [
         "120 señales",
-        "120 eventos validados"
+        "97 eventos validados"
       ]
     },
     {
-      "id": "2026-07-10T06-44-17-ingest-ingest",
+      "id": "2026-07-10T07-40-43-ingest-ingest",
       "kind": "ingest",
-      "date": "2026-07-10T06:44:17.117Z",
+      "date": "2026-07-10T07:40:43.965Z",
       "title": "Ingesta de fuentes completada",
-      "summary": "120 señales se importaron desde 18 fuentes para este atlas.",
+      "summary": "120 señales se importaron desde 15 fuentes para este atlas.",
       "status": "ok",
       "meta": [
         "120 encontradas",
@@ -119,8 +119,8 @@
       ]
     }
   ],
-  "publicEntities": 10,
-  "internalCandidates": 11,
-  "reviewedCandidates": 21,
+  "publicEntities": 12,
+  "internalCandidates": 7,
+  "reviewedCandidates": 19,
   "notPublishedAfterReview": 0
 }
