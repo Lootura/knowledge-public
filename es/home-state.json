@@ -1,7 +1,8 @@
 {
   "radar": "es",
-  "signature": "1.14.2|1783668765825",
+  "signature": "1.14.2|4|1783717441378",
   "version": "1.14.2",
-  "latestEntityUpdatedAt": "2026-07-10T07:32:45.825Z",
-  "generatedAt": "2026-07-10T23:09:06.538Z"
+  "build": 4,
+  "latestEntityUpdatedAt": "2026-07-10T21:04:01.378Z",
+  "generatedAt": "2026-07-10T23:19:03.891Z"
 }
