@@ -11,6 +11,9 @@ US releases: https://atlas.lootura.com/us/updates
 ES releases: https://atlas.lootura.com/es/updates
 
 Latest released updates
+1.14.0 — Signal-powered Atlas updates (2026-07-10)
+Atlas now uses Signal's grouped, multi-source events to discover entities and connect related coverage while keeping its publication quality checks.
+
 1.13.2 — Atlas publish strategy (2026-07-08)
 Full `dist` publish is confirmed: every publish run rebuilds and deploys the entire static output, even when only signal/atlas files changed.
 
@@ -31,9 +34,6 @@ Lootura changes how headlines are grouped so it can better tell when several sou
 
 1.9.0 — Cleaner editions and Labs (2026-05-18)
 Lootura organizes edition expansion, adds Japan as its own edition, and reduces Labs to the experiments that add the most value.
-
-1.8.0 — Three new editions (2026-05-18)
-Lootura adds South Africa, Mexico, and Argentina as real editions, with their own feeds, Signal, Labs, and operational pipeline.
 
 Top updated entities (recent)
 - Artificial intelligence: https://atlas.lootura.com/us/topic/artificial-intelligence

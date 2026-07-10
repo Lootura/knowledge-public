@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-07-10T06:45:42.398Z",
+  "generatedAt": "2026-07-10T07:35:39.832Z",
   "latestIngest": {
-    "id": "2026-07-10T06-17-10-ingest",
+    "id": "2026-07-10T06-44-17-ingest",
     "mode": "ingest",
-    "startedAt": "2026-07-10T06:17:09.928Z",
-    "finishedAt": "2026-07-10T06:17:10.510Z",
+    "startedAt": "2026-07-10T06:44:16.280Z",
+    "finishedAt": "2026-07-10T06:44:17.117Z",
     "sourcesChecked": 32,
     "sourceItemsFound": 240,
     "sourceItemsProcessed": 240,
@@ -19,10 +19,10 @@
     ]
   },
   "latestBuild": {
-    "id": "2026-07-10T06-17-13-build",
+    "id": "2026-07-10T06-44-21-build",
     "mode": "build",
-    "startedAt": "2026-07-10T06:17:11.256Z",
-    "finishedAt": "2026-07-10T06:17:13.614Z",
+    "startedAt": "2026-07-10T06:44:18.156Z",
+    "finishedAt": "2026-07-10T06:44:21.175Z",
     "sourcesChecked": 32,
     "sourceItemsFound": 240,
     "sourceItemsProcessed": 240,
@@ -70,9 +70,9 @@
   ],
   "entries": [
     {
-      "id": "2026-07-10T06-17-13-build-build",
+      "id": "2026-07-10T06-44-21-build-build",
       "kind": "build",
-      "date": "2026-07-10T06:17:13.614Z",
+      "date": "2026-07-10T06:44:21.175Z",
       "title": "Build de conocimiento completada",
       "summary": "120 cambios validados y 120 entradas de cronología se generaron con evidencia respaldada por fuentes.",
       "status": "warning",
@@ -84,7 +84,7 @@
     {
       "id": "entity-index-reviewed",
       "kind": "review",
-      "date": "2026-07-10T06:17:13.614Z",
+      "date": "2026-07-10T06:44:21.175Z",
       "title": "Índice de entidades revisado",
       "summary": "10 entidades son públicas. 11 quedan internas mientras se revisan tipado, calidad y duplicados.",
       "status": "ok",
@@ -96,7 +96,7 @@
     {
       "id": "evidence-trail-refreshed",
       "kind": "evidence",
-      "date": "2026-07-10T06:17:13.614Z",
+      "date": "2026-07-10T06:44:21.175Z",
       "title": "Rastro de evidencia actualizado",
       "summary": "120 registros de evidencia están disponibles para cambios públicos e internos. No se copian cuerpos de artículos.",
       "status": "ok",
@@ -106,9 +106,9 @@
       ]
     },
     {
-      "id": "2026-07-10T06-17-10-ingest-ingest",
+      "id": "2026-07-10T06-44-17-ingest-ingest",
       "kind": "ingest",
-      "date": "2026-07-10T06:17:10.510Z",
+      "date": "2026-07-10T06:44:17.117Z",
       "title": "Ingesta de fuentes completada",
       "summary": "120 señales se importaron desde 18 fuentes para este atlas.",
       "status": "ok",

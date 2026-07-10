@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-07-10T06:45:42.165Z",
+  "generatedAt": "2026-07-10T07:35:39.518Z",
   "latestIngest": {
-    "id": "2026-07-10T06-17-10-ingest",
+    "id": "2026-07-10T06-44-17-ingest",
     "mode": "ingest",
-    "startedAt": "2026-07-10T06:17:09.928Z",
-    "finishedAt": "2026-07-10T06:17:10.510Z",
+    "startedAt": "2026-07-10T06:44:16.280Z",
+    "finishedAt": "2026-07-10T06:44:17.117Z",
     "sourcesChecked": 32,
     "sourceItemsFound": 240,
     "sourceItemsProcessed": 240,
@@ -19,10 +19,10 @@
     ]
   },
   "latestBuild": {
-    "id": "2026-07-10T06-17-13-build",
+    "id": "2026-07-10T06-44-21-build",
     "mode": "build",
-    "startedAt": "2026-07-10T06:17:11.256Z",
-    "finishedAt": "2026-07-10T06:17:13.614Z",
+    "startedAt": "2026-07-10T06:44:18.156Z",
+    "finishedAt": "2026-07-10T06:44:21.175Z",
     "sourcesChecked": 32,
     "sourceItemsFound": 240,
     "sourceItemsProcessed": 240,
@@ -70,9 +70,9 @@
   ],
   "entries": [
     {
-      "id": "2026-07-10T06-17-13-build-build",
+      "id": "2026-07-10T06-44-21-build-build",
       "kind": "build",
-      "date": "2026-07-10T06:17:13.614Z",
+      "date": "2026-07-10T06:44:21.175Z",
       "title": "Knowledge build completed",
       "summary": "120 validated changes and 120 timeline entries were generated from source-backed evidence.",
       "status": "warning",
@@ -84,7 +84,7 @@
     {
       "id": "entity-index-reviewed",
       "kind": "review",
-      "date": "2026-07-10T06:17:13.614Z",
+      "date": "2026-07-10T06:44:21.175Z",
       "title": "Entity index reviewed",
       "summary": "16 entities are public. 11 remain internal while typing, quality and duplication are reviewed.",
       "status": "ok",
@@ -96,7 +96,7 @@
     {
       "id": "evidence-trail-refreshed",
       "kind": "evidence",
-      "date": "2026-07-10T06:17:13.614Z",
+      "date": "2026-07-10T06:44:21.175Z",
       "title": "Evidence trail refreshed",
       "summary": "120 evidence records are available for public and internal knowledge changes. Article bodies are not copied.",
       "status": "ok",
@@ -106,9 +106,9 @@
       ]
     },
     {
-      "id": "2026-07-10T06-17-10-ingest-ingest",
+      "id": "2026-07-10T06-44-17-ingest-ingest",
       "kind": "ingest",
-      "date": "2026-07-10T06:17:10.510Z",
+      "date": "2026-07-10T06:44:17.117Z",
       "title": "Source ingest completed",
       "summary": "120 source items were imported from 14 sources for this atlas.",
       "status": "ok",
