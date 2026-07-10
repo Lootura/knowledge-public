@@ -11,6 +11,9 @@ US releases: https://atlas.lootura.com/us/updates
 ES releases: https://atlas.lootura.com/es/updates
 
 Latest released updates
+1.14.2 — Signal-driven breaking and home feature fallback (2026-07-10)
+Signal coverage is now connected to Atlas-driven breaking on the Signal page, with stronger matching for real-world breaking candidates and cleaner ordering for entity-linked signals.
+
 1.14.1 — Signal inside Atlas (2026-07-10)
 Atlas adds an internal, non-indexed Signal view with a ranked reading of live movements, supporting coverage and linked entities.
 
@@ -31,9 +34,6 @@ Lootura adds a compact signal read by edition inside the app, reuses the same lo
 
 1.11.0 — Cross-edition signal lab (2026-05-23)
 Lootura adds a lab for seeing which signals from one edition are also being covered by media in other editions.
-
-1.10.0 — Sharper signal selection (2026-05-20)
-Lootura changes how headlines are grouped so it can better tell when several sources are covering the same story and when they only share a loose word.
 
 Top updated entities (recent)
 - Artificial intelligence: https://atlas.lootura.com/us/topic/artificial-intelligence
