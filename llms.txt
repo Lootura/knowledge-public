@@ -48,6 +48,7 @@ Top updated entities (recent)
 - NATO: https://atlas.lootura.com/us/organization/nato
 - New York: https://atlas.lootura.com/us/place/new-york
 - Russia: https://atlas.lootura.com/us/place/russia
+- Supreme Court: https://atlas.lootura.com/us/organization/supreme-court
 - Ukraine: https://atlas.lootura.com/us/place/ukraine
 - United States: https://atlas.lootura.com/us/place/united-states
 - White House: https://atlas.lootura.com/us/organization/white-house
@@ -55,4 +56,3 @@ Top updated entities (recent)
 - Correos: https://atlas.lootura.com/es/organization/correos
 - Donald Trump: https://atlas.lootura.com/es/person/donald-trump
 - España: https://atlas.lootura.com/es/place/espana
-- Iran: https://atlas.lootura.com/es/place/iran
