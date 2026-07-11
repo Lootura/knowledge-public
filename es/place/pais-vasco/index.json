@@ -1,0 +1,32 @@
+{
+  "id": "es-pais-vasco",
+  "name": "País Vasco",
+  "type": "place",
+  "locale": "es",
+  "canonicalPath": "/es/place/pais-vasco",
+  "canonicalUrl": "https://atlas.lootura.com/es/place/pais-vasco",
+  "markdownUrl": "https://atlas.lootura.com/es/place/pais-vasco/index.md",
+  "jsonUrl": "https://atlas.lootura.com/es/place/pais-vasco/index.json",
+  "description": "Sigue la actividad de País Vasco en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
+  "updatedAt": "2026-07-11T09:26:27.277Z",
+  "aliases": [
+    "Basque Country",
+    "Euskadi"
+  ],
+  "changes": [
+    {
+      "title": "Discovered by Atlas",
+      "summary": "País Vasco first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-07-08"
+    }
+  ],
+  "sources": [
+    {
+      "title": "El pase a las semifinales de España dispara las audiencias en Euskadi con un 72,5%",
+      "url": "https://www.diariovasco.com/deportes/futbol/seleccion-espanola/pase-semifinales-espana-dispara-audiencias-euskadi-20260711110500-nt_amp.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-11T09:05:40.000Z",
+      "sourceId": "lootura-es-el-diario-vasco"
+    }
+  ],
+  "evidenceCount": 0
+}

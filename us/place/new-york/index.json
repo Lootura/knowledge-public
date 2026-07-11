@@ -1,0 +1,36 @@
+{
+  "id": "usa-new-york",
+  "name": "New York",
+  "type": "place",
+  "locale": "en",
+  "canonicalPath": "/us/place/new-york",
+  "canonicalUrl": "https://atlas.lootura.com/us/place/new-york",
+  "markdownUrl": "https://atlas.lootura.com/us/place/new-york/index.md",
+  "jsonUrl": "https://atlas.lootura.com/us/place/new-york/index.json",
+  "description": "Follow New York, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
+  "updatedAt": "2026-07-11T09:26:55.725Z",
+  "aliases": [
+    "New York City"
+  ],
+  "changes": [
+    {
+      "title": "Buckling Manhattan High Rise Becomes Focus of Criminal Investigation",
+      "summary": "The inquiry, being conducted by the New York City Department of Investigation and the Manhattan district attorney’s office, was in an early stage, and its focus was unclear.",
+      "date": "2026-07-10"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "New York first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-07-10"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Buckling Manhattan High Rise Becomes Focus of Criminal Investigation",
+      "url": "https://www.nytimes.com/2026/07/10/nyregion/nyc-building-conversion-investigation.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-10T23:20:08.000Z",
+      "sourceId": "lootura-us-the-new-york-times"
+    }
+  ],
+  "evidenceCount": 1
+}

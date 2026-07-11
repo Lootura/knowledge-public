@@ -1,0 +1,29 @@
+{
+  "id": "usa-venezuela",
+  "name": "Venezuela",
+  "type": "place",
+  "locale": "en",
+  "canonicalPath": "/us/place/venezuela",
+  "canonicalUrl": "https://atlas.lootura.com/us/place/venezuela",
+  "markdownUrl": "https://atlas.lootura.com/us/place/venezuela/index.md",
+  "jsonUrl": "https://atlas.lootura.com/us/place/venezuela/index.json",
+  "description": "Follow Venezuela, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
+  "updatedAt": "2026-07-11T09:26:55.725Z",
+  "aliases": [],
+  "changes": [
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Venezuela first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-07-08"
+    }
+  ],
+  "sources": [
+    {
+      "title": "How Marco Rubio is Running Venezuela From Afar",
+      "url": "https://www.nytimes.com/2026/07/11/us/politics/how-marco-rubio-runs-venezuela.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-11T09:01:46.000Z",
+      "sourceId": "lootura-us-the-new-york-times-politics"
+    }
+  ],
+  "evidenceCount": 0
+}

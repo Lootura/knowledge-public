@@ -1,0 +1,36 @@
+{
+  "id": "usa-ukraine",
+  "name": "Ukraine",
+  "type": "place",
+  "locale": "en",
+  "canonicalPath": "/us/place/ukraine",
+  "canonicalUrl": "https://atlas.lootura.com/us/place/ukraine",
+  "markdownUrl": "https://atlas.lootura.com/us/place/ukraine/index.md",
+  "jsonUrl": "https://atlas.lootura.com/us/place/ukraine/index.json",
+  "description": "Follow Ukraine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
+  "updatedAt": "2026-07-11T09:26:55.725Z",
+  "aliases": [
+    "Kyiv"
+  ],
+  "changes": [
+    {
+      "title": "10 injured in overnight Russian strikes on Kyiv",
+      "summary": "Ukrainian military said its air defenses shot down or suppressed two missiles and 111 drones, while Russia claims its forces targeted drone production facilities in Kyiv.",
+      "date": "2026-07-11"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Ukraine first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-07-08"
+    }
+  ],
+  "sources": [
+    {
+      "title": "10 injured in overnight Russian strikes on Kyiv",
+      "url": "https://www.cbsnews.com/news/russia-ukraine-drone-missile-strike-kyiv/?utm_source=lootura.com",
+      "publishedAt": "2026-07-11T08:22:44.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    }
+  ],
+  "evidenceCount": 1
+}

@@ -1,0 +1,37 @@
+{
+  "id": "es-alberto-nunez-feijoo",
+  "name": "Alberto Núñez Feijóo",
+  "type": "person",
+  "locale": "es",
+  "canonicalPath": "/es/person/alberto-nunez-feijoo",
+  "canonicalUrl": "https://atlas.lootura.com/es/person/alberto-nunez-feijoo",
+  "markdownUrl": "https://atlas.lootura.com/es/person/alberto-nunez-feijoo/index.md",
+  "jsonUrl": "https://atlas.lootura.com/es/person/alberto-nunez-feijoo/index.json",
+  "description": "Sigue la actividad de Alberto Núñez Feijóo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
+  "updatedAt": "2026-07-11T09:26:27.277Z",
+  "aliases": [
+    "Feijóo",
+    "Núñez Feijóo"
+  ],
+  "changes": [
+    {
+      "title": "Objetivo 2027: Feijóo se multiplica por el territorio y convoca a sus alcaldes en Santiago",
+      "summary": "ha llenado su agenda de actos y reuniones fuera de Madrid en las últimas semanas. Barcelona, Castellón, Murcia, Pamplona, Santander, Bilbao o Valladolid han sido algunas de las ciudades que ha pisado un líder del PP que piensa ya en la carrera de fondo que exige el ciclo electoral que arranca en se.",
+      "date": "2026-07-11"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Alberto Núñez Feijóo first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-07-11"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Objetivo 2027: Feijóo se multiplica por el territorio y convoca a sus alcaldes en Santiago",
+      "url": "https://www.elconfidencial.com/espana/2026-07-11/objetivo-2027-feijoo-multiplica-territorio-convoca-alcaldes-santiago_4388102/?utm_source=lootura.com",
+      "publishedAt": "2026-07-11T03:00:00.000Z",
+      "sourceId": "lootura-es-el-confidencial"
+    }
+  ],
+  "evidenceCount": 1
+}

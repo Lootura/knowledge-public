@@ -1,0 +1,40 @@
+{
+  "id": "es-portugal",
+  "name": "Portugal",
+  "type": "place",
+  "locale": "es",
+  "canonicalPath": "/es/place/portugal",
+  "canonicalUrl": "https://atlas.lootura.com/es/place/portugal",
+  "markdownUrl": "https://atlas.lootura.com/es/place/portugal/index.md",
+  "jsonUrl": "https://atlas.lootura.com/es/place/portugal/index.json",
+  "description": "Sigue la actividad de Portugal en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
+  "updatedAt": "2026-07-11T09:26:27.277Z",
+  "aliases": [],
+  "changes": [
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Portugal first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-07-11"
+    },
+    {
+      "title": "Morten Hjulmand ficha por el Atlético de Madrid hasta 2031",
+      "summary": "El ansiado pivote. Morten Hjulmand, de 27 años, centrocampista danés que jugaba en el Sporting de Portugal, es nuevo jugador del Atlético de Madrid para.",
+      "date": "2026-07-11"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Merino, el ejecutor: «Es una locura, pero no es casualidad»",
+      "url": "https://www.abc.es/deportes/futbol/mundial/merino-ejecutor-locura-casualidad-20260710002742-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-11T06:01:29.000Z",
+      "sourceId": "lootura-es-abc"
+    },
+    {
+      "title": "Morten Hjulmand ficha por el Atlético de Madrid hasta 2031",
+      "url": "https://theobjective.com/deportes/futbol/2026-07-11/morten-hjulmand-atletico-madrid/?amp=&utm_source=lootura.com",
+      "publishedAt": "2026-07-11T09:20:06.000Z",
+      "sourceId": "lootura-es-the-objective"
+    }
+  ],
+  "evidenceCount": 1
+}

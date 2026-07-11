@@ -1,58 +1,44 @@
-# Lootura Entity Atlas - LLM surface
+# Lootura Entity Atlas
 
-Public index pages
-US root: https://atlas.lootura.com/us/
-ES root: https://atlas.lootura.com/es/
-US entities: https://atlas.lootura.com/us/entities
-ES entities: https://atlas.lootura.com/es/entities
-US latest activity: https://atlas.lootura.com/us/activity
-ES latest activity: https://atlas.lootura.com/es/activity
-US releases: https://atlas.lootura.com/us/updates
-ES releases: https://atlas.lootura.com/es/updates
+> A bilingual, source-backed atlas of people, places, organizations, companies, products and topics that change over time.
 
-Latest released updates
-1.14.3 — Durable Atlas entity history (2026-07-11)
-Atlas now preserves previously published entities and their history across feed refreshes, while maintenance cleanup continues to remove weak unpublished candidates and incorrect associations.
+## Start here
 
-1.14.2 — Signal-driven breaking and home feature fallback (2026-07-10)
-Signal coverage is now connected to Atlas-driven breaking on the Signal page, with stronger matching for real-world breaking candidates and cleaner ordering for entity-linked signals.
+- [US Entity Atlas](https://atlas.lootura.com/us/): Public US entity home.
+- [Atlas de entidades ES](https://atlas.lootura.com/es/): Portada pública de entidades en español.
+- [How Atlas works](https://atlas.lootura.com/us/about/): Methodology, evidence and publication model.
+- [Cómo funciona Atlas](https://atlas.lootura.com/es/about/): Metodología, evidencia y modelo de publicación.
+- [Full LLM index](https://atlas.lootura.com/llms-full.txt): Complete public entity inventory.
 
-1.14.1 — Signal inside Atlas (2026-07-10)
-Atlas adds an internal, non-indexed Signal view with a ranked reading of live movements, supporting coverage and linked entities.
+## Latest entities — US
 
-1.14.0 — Signal-powered Atlas updates (2026-07-10)
-Atlas now uses Signal's grouped, multi-source events to discover entities and connect related coverage while keeping its publication quality checks.
+- [Artificial intelligence](https://atlas.lootura.com/us/topic/artificial-intelligence): Follow Artificial intelligence, a tracked topic, in Lootura: recent changes, timeline, related context, and source-backed evidence.
+- [Canada](https://atlas.lootura.com/us/place/canada): Follow Canada, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
+- [Charlie Kirk](https://atlas.lootura.com/us/person/charlie-kirk): Follow Charlie Kirk, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
+- [China](https://atlas.lootura.com/us/place/china): Follow China, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
+- [Democratic Party](https://atlas.lootura.com/us/organization/democratic-party): Follow Democratic Party, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
+- [Donald Trump](https://atlas.lootura.com/us/person/donald-trump): Follow Donald Trump, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
+- [España](https://atlas.lootura.com/us/place/espana): Follow España, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
+- [Europe](https://atlas.lootura.com/us/place/europe): Follow Europe, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
+- [Graham Platner](https://atlas.lootura.com/us/person/graham-platner): Follow Graham Platner, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
+- [Iran](https://atlas.lootura.com/us/place/iran): Follow Iran, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
-1.13.2 — Atlas publish strategy (2026-07-08)
-Full `dist` publish is confirmed: every publish run rebuilds and deploys the entire static output, even when only signal/atlas files changed.
+## Entidades recientes — ES
 
-1.13.1 — More stable signal atlas (2026-07-08)
-Signal Atlas entity persistence is now more stable so entities don't disappear after headline changes, with a compact timeline attached to each entity.
+- [Alberto Núñez Feijóo](https://atlas.lootura.com/es/person/alberto-nunez-feijoo): Sigue la actividad de Alberto Núñez Feijóo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
+- [Artificial intelligence](https://atlas.lootura.com/es/topic/artificial-intelligence): Sigue la actividad de Artificial intelligence en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
+- [Barcelona](https://atlas.lootura.com/es/place/barcelona): Sigue la actividad de Barcelona en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
+- [Belgium](https://atlas.lootura.com/es/place/belgium): Sigue la actividad de Belgium en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
+- [Donald Trump](https://atlas.lootura.com/es/person/donald-trump): Sigue la actividad de Donald Trump en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
+- [España](https://atlas.lootura.com/es/place/espana): Sigue la actividad de España en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
+- [Iran](https://atlas.lootura.com/es/place/iran): Sigue la actividad de Iran en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
+- [Lamine Yamal](https://atlas.lootura.com/es/person/lamine-yamal): Sigue la actividad de Lamine Yamal en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
+- [Madrid](https://atlas.lootura.com/es/place/madrid): Sigue la actividad de Madrid en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
+- [NATO](https://atlas.lootura.com/es/organization/nato): Sigue la actividad de NATO en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
-1.13.0 — More resilient images (2026-07-04)
-Lootura improves image extraction, validation, and recovery so sources with incomplete metadata do not leave broken cards.
+## Interpretation notes
 
-1.12.0 — Compact brief and cleaner signals (2026-07-04)
-Lootura adds a compact signal read by edition inside the app, reuses the same logic in the Chrome extension, and refines how headlines, images, and the Signal cover are shown.
-
-Top updated entities (recent)
-- Artificial intelligence: https://atlas.lootura.com/us/topic/artificial-intelligence
-- Canada: https://atlas.lootura.com/us/place/canada
-- Charlie Kirk: https://atlas.lootura.com/us/person/charlie-kirk
-- China: https://atlas.lootura.com/us/place/china
-- Democratic Party: https://atlas.lootura.com/us/organization/democratic-party
-- Donald Trump: https://atlas.lootura.com/us/person/donald-trump
-- España: https://atlas.lootura.com/us/place/espana
-- Europe: https://atlas.lootura.com/us/place/europe
-- Graham Platner: https://atlas.lootura.com/us/person/graham-platner
-- Iran: https://atlas.lootura.com/us/place/iran
-- Maine: https://atlas.lootura.com/us/place/maine
-- Maine Senate: https://atlas.lootura.com/us/organization/maine-senate
-- New York: https://atlas.lootura.com/us/place/new-york
-- Russia: https://atlas.lootura.com/us/place/russia
-- Startups: https://atlas.lootura.com/us/market/startups
-- Supreme Court: https://atlas.lootura.com/us/organization/supreme-court
-- Tyler Robinson: https://atlas.lootura.com/us/person/tyler-robinson
-- Ukraine: https://atlas.lootura.com/us/place/ukraine
-- United States: https://atlas.lootura.com/us/place/united-states
-- Venezuela: https://atlas.lootura.com/us/place/venezuela
+- Entity pages are durable knowledge records, not article copies.
+- Source links are supporting evidence and do not imply endorsement.
+- Breaking status is temporary; public entity history is retained.
+- Use each entity canonical URL when citing Atlas.

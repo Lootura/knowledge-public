@@ -1,0 +1,55 @@
+{
+  "id": "es-united-states",
+  "name": "United States",
+  "type": "place",
+  "locale": "es",
+  "canonicalPath": "/es/place/united-states",
+  "canonicalUrl": "https://atlas.lootura.com/es/place/united-states",
+  "markdownUrl": "https://atlas.lootura.com/es/place/united-states/index.md",
+  "jsonUrl": "https://atlas.lootura.com/es/place/united-states/index.json",
+  "description": "Sigue la actividad de United States en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
+  "updatedAt": "2026-07-11T09:26:27.277Z",
+  "aliases": [
+    "America",
+    "Estados Unidos",
+    "U.S."
+  ],
+  "changes": [
+    {
+      "title": "El árbol gallego que ya era centenario cuando Colón llegó a América y todavía sigue creciendo",
+      "summary": "Mucho antes de que Cristóbal Colón emprendiera su viaje hacia América, de que existieran los Reyes Católicos o de que Galicia comenzara a parecerse a la comunidad actual, un árbol ya extendía sus ramas en una pequeña ladera de la provincia de Ourense. Hoy, más de mil años después según algunas estimaciones, ese gigante.",
+      "date": "2026-07-11"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "United States first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-07-11"
+    },
+    {
+      "title": "De la Fuente siempre acierta: Los cambios en la sala de máquinas entre Fabián y Pedri dieron resultado",
+      "summary": "Mikel Merino es mucho más que un revulsivo para Luis de la Fuente . Y lo sabía el seleccionador: sin ritmo competitivo después de haber superado en mayo una lesión que lo había tenido 115 días en la enfermería, el técnico apostó por el jugador del Arsenal. Incluso cuando sabía que llegaba sin ritmo a Estados Unidos, Mé.",
+      "date": "2026-07-10"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Las trampas de Trump e Infantino en el Mundial retratan este capitalismo corrupto",
+      "url": "https://cincodias.elpais.com/opinion/2026-07-11/las-trampas-de-trump-e-infantino-en-el-mundial-retratan-este-capitalismo-corrupto.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-11T03:40:00.000Z",
+      "sourceId": "lootura-es-cinco-dias"
+    },
+    {
+      "title": "De la Fuente siempre acierta: Los cambios en la sala de máquinas entre Fabián y Pedri dieron resultado",
+      "url": "https://elpais.com/deportes/mundial-futbol/2026-07-10/los-cambios-en-la-sala-de-maquinas-entre-fabian-y-pedri.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-10T22:12:33.000Z",
+      "sourceId": "lootura-es-el-pais"
+    },
+    {
+      "title": "El árbol gallego que ya era centenario cuando Colón llegó a América y todavía sigue creciendo",
+      "url": "https://www.larazon.es/galicia/arbol-gallego-que-era-centenario-cuando-colon-llego-america-todavia-sigue-creciendo_202607116a4fbd4c772f745d2c3cebf7.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-11T06:00:23.000Z",
+      "sourceId": "lootura-es-la-razon"
+    }
+  ],
+  "evidenceCount": 2
+}

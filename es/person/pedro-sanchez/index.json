@@ -1,0 +1,47 @@
+{
+  "id": "es-pedro-sanchez",
+  "name": "Pedro Sánchez",
+  "type": "person",
+  "locale": "es",
+  "canonicalPath": "/es/person/pedro-sanchez",
+  "canonicalUrl": "https://atlas.lootura.com/es/person/pedro-sanchez",
+  "markdownUrl": "https://atlas.lootura.com/es/person/pedro-sanchez/index.md",
+  "jsonUrl": "https://atlas.lootura.com/es/person/pedro-sanchez/index.json",
+  "description": "Sigue la actividad de Pedro Sánchez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
+  "updatedAt": "2026-07-11T09:26:27.277Z",
+  "aliases": [
+    "Sánchez"
+  ],
+  "changes": [
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Pedro Sánchez first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-07-11"
+    },
+    {
+      "title": "La exdirectora del Instituto de las Mujeres, citada como imputada por los contratos de los puntos violeta",
+      "summary": "El Juzgado de Instrucción número 4 de la localidad valenciana de Mislata cita como imputada a la exdirectora del Instituto de las Mujeres Isabel García Sánchez y a su pareja, Elisabeth García Busnadiego, según refleja una providencia a la que ha tenido acceso LA RAZÓN. Tras recibir un informe de la Fiscalía, la jueza a.",
+      "date": "2026-07-11"
+    },
+    {
+      "title": "Máxima colaboración institucional sobre el terreno y guerra política en las redes",
+      "summary": "Sánchez y Moreno colaboran contra la tragedia mientras Puente se lanza contra la Junta y llama \"pedazo de sinvergüenza\" a Tellado por sus crítica al Gobierno Leer.",
+      "date": "2026-07-10"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Máxima colaboración institucional sobre el terreno y guerra política en las redes",
+      "url": "https://www.elmundo.es/espana/2026/07/10/6a514826e4d4d8e22c8b458e.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-10T20:34:36.000Z",
+      "sourceId": "lootura-es-el-mundo"
+    },
+    {
+      "title": "La exdirectora del Instituto de las Mujeres, citada como imputada por los contratos de los puntos violeta",
+      "url": "https://www.larazon.es/espana/exdirectora-instituto-mujeres-citada-como-imputada-contratos-puntos-violeta_202607116a520905c48a78681b81cb2b.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-11T09:12:38.000Z",
+      "sourceId": "lootura-es-la-razon"
+    }
+  ],
+  "evidenceCount": 2
+}

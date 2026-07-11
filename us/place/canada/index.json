@@ -1,0 +1,45 @@
+{
+  "id": "usa-canada",
+  "name": "Canada",
+  "type": "place",
+  "locale": "en",
+  "canonicalPath": "/us/place/canada",
+  "canonicalUrl": "https://atlas.lootura.com/us/place/canada",
+  "markdownUrl": "https://atlas.lootura.com/us/place/canada/index.md",
+  "jsonUrl": "https://atlas.lootura.com/us/place/canada/index.json",
+  "description": "Follow Canada, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
+  "updatedAt": "2026-07-11T09:26:55.725Z",
+  "aliases": [],
+  "changes": [
+    {
+      "title": "Gordie Howe Bridge connecting Detroit, Canada expected to open in late July",
+      "summary": "The 1.5-mile-long bridge, which spans the Detroit River and connects the Motor City with Windsor, Ontario, is expected to open on July 27.",
+      "date": "2026-07-11"
+    },
+    {
+      "title": "After Being Delayed by Trump, a Canada-U.S. Bridge is Set to Open",
+      "summary": "A deal ended the Trump administration’s blocking of a new bridge that will ease congestion at the busiest trade corridor between the United States and Canada.",
+      "date": "2026-07-11"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Canada first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-07-11"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Gordie Howe Bridge connecting Detroit, Canada expected to open in late July",
+      "url": "https://www.cbsnews.com/news/gordie-howe-bridge-detroit-canada-opening-deal/?utm_source=lootura.com",
+      "publishedAt": "2026-07-11T03:20:23.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
+    {
+      "title": "After Being Delayed by Trump, a Canada-U.S. Bridge is Set to Open",
+      "url": "https://www.nytimes.com/2026/07/10/world/canada/gordie-howe-bridge-canada-us-michigan.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-11T06:07:32.000Z",
+      "sourceId": "lootura-us-the-new-york-times-world"
+    }
+  ],
+  "evidenceCount": 2
+}

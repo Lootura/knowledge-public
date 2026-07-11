@@ -1,0 +1,16 @@
+{
+  "id": "es-fifa",
+  "name": "FIFA",
+  "type": "organization",
+  "locale": "es",
+  "canonicalPath": "/es/organization/fifa",
+  "canonicalUrl": "https://atlas.lootura.com/es/organization/fifa",
+  "markdownUrl": "https://atlas.lootura.com/es/organization/fifa/index.md",
+  "jsonUrl": "https://atlas.lootura.com/es/organization/fifa/index.json",
+  "description": "Sigue la actividad de FIFA en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
+  "updatedAt": "2026-07-10T14:20:28.384Z",
+  "aliases": [],
+  "changes": [],
+  "sources": [],
+  "evidenceCount": 0
+}

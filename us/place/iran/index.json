@@ -1,0 +1,100 @@
+{
+  "id": "usa-iran",
+  "name": "Iran",
+  "type": "place",
+  "locale": "en",
+  "canonicalPath": "/us/place/iran",
+  "canonicalUrl": "https://atlas.lootura.com/us/place/iran",
+  "markdownUrl": "https://atlas.lootura.com/us/place/iran/index.md",
+  "jsonUrl": "https://atlas.lootura.com/us/place/iran/index.json",
+  "description": "Follow Iran, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
+  "updatedAt": "2026-07-11T09:26:55.725Z",
+  "aliases": [],
+  "changes": [
+    {
+      "title": "Europe considering proposals to allow navigational fees in strait of Hormuz",
+      "summary": "Plans specify tolls must not be compulsory, as US officials urge Iran to make public statement that strait is open and that shipping can safely pass Europe is studying proposals that may allow the charging of navigational fees in the strait of Hormuz so long as the tolls are not compulsory and have the support of the U.",
+      "date": "2026-07-11"
+    },
+    {
+      "title": "Trump warns US would 'decimate and destroy' Iran over assassination attempt",
+      "summary": "President Donald Trump on Friday warned Iran that the United States would \"decimate and destroy\" the country if Tehran carried out an assassination attempt against him. \"1000 Missiles are Locked and Loaded and aimed at the Islamic Republic of Iran, with thousands of more to immediately follow, should the Iranian Govern.",
+      "date": "2026-07-11"
+    },
+    {
+      "title": "Trump threatens Iran after Ayatollah Ali Khamenei's funeral saw calls for his killing",
+      "summary": "Trump made the comments on his Truth Social after U.S. officials demanded that Iran make a public statement saying the Strait of Hormuz is open. (Image credit: Iranian Supreme Leader Office).",
+      "date": "2026-07-11"
+    },
+    {
+      "title": "Trump Says Negotiations With Iran Will Continue as U.S. Ramps Up Strikes",
+      "summary": "U.S. forces hit more than 170 targets, including air defense systems, drone and missile storage sites, and military speedboats.",
+      "date": "2026-07-11"
+    },
+    {
+      "title": "Israel Struck an Iranian Steel Facility. Was It a Valid Military Target?",
+      "summary": "During the war, Israel attacked Iran’s steel plants, saying they provided forces with revenue and the means to make weapons, but it also hurt the civilian economy.",
+      "date": "2026-07-11"
+    },
+    {
+      "title": "Report says Iranian regime plotting to kill Trump",
+      "summary": "President Trump is also demanding Iran publicly declare it will re-open the Strait of Hormuz after Iran violated the ceasefire by firing on commercial ships. NBC News’ Kelly O’Donnell reports.",
+      "date": "2026-07-10"
+    },
+    {
+      "title": "The U.S. and Iran Are Fighting Again. Is the Cease-Fire Over?",
+      "summary": "Eric Schmitt, a New York Times National Security correspondent, analyzes recent skirmishes between the U.S. and Iran and whether they threaten ongoing negotiations for a peace deal.",
+      "date": "2026-07-10"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Iran first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-07-10"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Trump warns US would 'decimate and destroy' Iran over assassination attempt",
+      "url": "https://www.foxnews.com/politics/trump-warns-us-would-decimate-destroy-iran-assassination-attempt?utm_source=lootura.com",
+      "publishedAt": "2026-07-11T08:00:31.000Z",
+      "sourceId": "lootura-us-fox-news"
+    },
+    {
+      "title": "Report says Iranian regime plotting to kill Trump",
+      "url": "https://www.nbcnews.com/nightly-news/video/report-says-iranian-regime-plotting-to-kill-trump-266520645923?utm_source=lootura.com",
+      "publishedAt": "2026-07-10T23:06:17.000Z",
+      "sourceId": "lootura-us-nbc-news"
+    },
+    {
+      "title": "Trump threatens Iran after Ayatollah Ali Khamenei's funeral saw calls for his killing",
+      "url": "https://www.npr.org/2026/07/11/nx-s1-5890029/trump-threatens-iran?utm_source=lootura.com",
+      "publishedAt": "2026-07-11T06:34:09.000Z",
+      "sourceId": "lootura-us-npr-world"
+    },
+    {
+      "title": "Europe considering proposals to allow navigational fees in strait of Hormuz",
+      "url": "https://www.theguardian.com/world/2026/jul/11/europe-considers-proposals-navigational-fees-strait-of-hormuz-iran-us?utm_source=lootura.com",
+      "publishedAt": "2026-07-11T04:32:15.000Z",
+      "sourceId": "lootura-us-the-guardian-us"
+    },
+    {
+      "title": "Trump Says Negotiations With Iran Will Continue as U.S. Ramps Up Strikes",
+      "url": "https://www.nytimes.com/2026/07/10/us/politics/iran-war-escalation.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-11T03:48:02.000Z",
+      "sourceId": "lootura-us-the-new-york-times"
+    },
+    {
+      "title": "The U.S. and Iran Are Fighting Again. Is the Cease-Fire Over?",
+      "url": "https://www.nytimes.com/video/us/politics/100000011019171/the-us-and-iran-are-fighting-again-is-the-cease-fire-over.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-10T16:47:59.000Z",
+      "sourceId": "lootura-us-the-new-york-times-politics"
+    },
+    {
+      "title": "Israel Struck an Iranian Steel Facility. Was It a Valid Military Target?",
+      "url": "https://www.nytimes.com/2026/07/11/world/middleeast/iran-steel-plant-civilian-military.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-11T09:00:17.000Z",
+      "sourceId": "lootura-us-the-new-york-times-world"
+    }
+  ],
+  "evidenceCount": 7
+}

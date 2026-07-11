@@ -1,0 +1,18 @@
+{
+  "id": "es-apple",
+  "name": "Apple",
+  "type": "company",
+  "locale": "es",
+  "canonicalPath": "/es/company/apple",
+  "canonicalUrl": "https://atlas.lootura.com/es/company/apple",
+  "markdownUrl": "https://atlas.lootura.com/es/company/apple/index.md",
+  "jsonUrl": "https://atlas.lootura.com/es/company/apple/index.json",
+  "description": "Sigue la actividad de Apple en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
+  "updatedAt": "2026-07-11T06:11:02.390Z",
+  "aliases": [
+    "Apple Inc"
+  ],
+  "changes": [],
+  "sources": [],
+  "evidenceCount": 0
+}

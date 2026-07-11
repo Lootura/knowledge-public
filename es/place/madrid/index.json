@@ -1,0 +1,128 @@
+{
+  "id": "es-madrid",
+  "name": "Madrid",
+  "type": "place",
+  "locale": "es",
+  "canonicalPath": "/es/place/madrid",
+  "canonicalUrl": "https://atlas.lootura.com/es/place/madrid",
+  "markdownUrl": "https://atlas.lootura.com/es/place/madrid/index.md",
+  "jsonUrl": "https://atlas.lootura.com/es/place/madrid/index.json",
+  "description": "Sigue la actividad de Madrid en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
+  "updatedAt": "2026-07-11T09:26:27.277Z",
+  "aliases": [],
+  "changes": [
+    {
+      "title": "Revés judicial al chef Dani García: la marca de una ‘foodtruck’ gana a su restaurante dos estrellas Michelin",
+      "summary": "El chef Dani García ha perdido el pulso judicial contra la marca de una empresa familiar de catering. La Audiencia de Madrid ha confirmado el registro de la marca SmokedHub, utilizada por las dueñas de TaparaFood para identificar su foodtruck, al considerar que no existe riesgo de confusión con Smoked Room Fire Omakase.",
+      "date": "2026-07-11"
+    },
+    {
+      "title": "De 120.000 casas en Madrid a ninguna en Soria: así se distribuye el déficit de vivienda en España",
+      "summary": "Nuria S. tiene 31 años, trabaja como enfermera en el Hospital Gregorio Marañón de Madrid y comparte piso porque asumir el alquiler ella sola consumiría casi la mitad de su sueldo. A más de 200 kilómetros, Julián L. conserva junto a sus hermanos la casa de sus padres en un pueblo de Soria. Lleva años vacía . Nadie quier.",
+      "date": "2026-07-11"
+    },
+    {
+      "title": "Carlos Matallana (LunaJets): “No hay que ser millonario para irse de vacaciones en un ‘jet”",
+      "summary": "Aunque nació en Madrid (1983), el acento de Carlos Matallana atestigua que se crio en Lanzarote. Tras vivir en diferentes países, como Trinidad y Tobago o Jamaica, ahora reside en su ciudad de origen, desde donde puede enviar clientes a cualquier lugar del mundo que le pidan. En 2023 se puso al frente de la oficina esp.",
+      "date": "2026-07-11"
+    },
+    {
+      "title": "500 pesetas con pelotazo, la memoria heavy del Madrid que no salía en los mapas",
+      "summary": "Entre 1985 y 1995, Madrid tuvo oleadas de chavales desplazándose de un lado a otro de la ciudad. Mientras la capital construía el relato de brillantina y oropeles de la Movida, con bares, grupos, fotógrafos, diseñadores y locales convertidos en epítome de lo cool y lo moderno, en el extrarradio crecía otra subcultura j.",
+      "date": "2026-07-11"
+    },
+    {
+      "title": "Objetivo 2027: Feijóo se multiplica por el territorio y convoca a sus alcaldes en Santiago",
+      "summary": "Alberto Núñez Feijóo ha llenado su agenda de actos y reuniones fuera de Madrid en las últimas semanas. Barcelona, Castellón, Murcia, Pamplona, Santander, Bilbao o Valladolid han sido algunas de las ciudades que ha pisado un líder del PP que piensa ya en la carrera de fondo que exige el ciclo electoral que arranca en se.",
+      "date": "2026-07-11"
+    },
+    {
+      "title": "La exposición de la generación de la EGB llega a Madrid: “Es un viaje que te transporta a otra época”",
+      "summary": "Un sofá de escay y la vajilla Duralex, un kiosco en el que comprar petazetas, el escenario del ‘1, 2, 3’, unos libros de los años 70 y 80, y hasta Espinete. Los lectores más avezados ya se podrán haber hecho a la idea de lo que aquí se cuece: los grandes iconos, objetos y emblemas de aquella generación que fue a EGB y.",
+      "date": "2026-07-11"
+    },
+    {
+      "title": "La amnesia y el relato",
+      "summary": "Dicen de Madrid que es castizo. O sea, que es auténtico, que tiene un buen origen. Paradójicamente, Madrid es un lugar donde el origen no le interesa a nadie . Puedes ser neurótico (o incluso psicótico) y a nadie le importa. No hay más que ver la cantidad de predicadores religiosos que dan la turra en el metro. Aquí pu.",
+      "date": "2026-07-11"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Madrid first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-07-11"
+    },
+    {
+      "title": "Un vecino de Cádiz no se corta y dice lo que muchos piensan sobre los turistas de Madrid que van allí en verano: «Después se molestan»",
+      "summary": "El gaditano opina sin filtros sobre la actitud de los madrileños que pasan sus vacaciones en la provincia andaluza.",
+      "date": "2026-07-11"
+    },
+    {
+      "title": "Muere un joven de 17 años atropellado por un coche en la A-1, en Madrid",
+      "summary": "Un joven de 17 años ha muerto en la madrugada de este sábado tras ser atropellado por un turismo en la autovía A-1, según ha informado Emergencias 112 de la Comunidad de Madrid .El suceso, que está investigando la Guardia Civil, ha ocurrido a las 5:15 horas. El Summa 112 le ha practicado maniobras de reanimación a su l.",
+      "date": "2026-07-11"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Un vecino de Cádiz no se corta y dice lo que muchos piensan sobre los turistas de Madrid que van allí en verano: «Después se molestan»",
+      "url": "https://www.abc.es/recreo/vecino-cadiz-corta-dice-piensan-sobre-turistas-20260711100000-nt_amp.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-11T08:00:00.000Z",
+      "sourceId": "lootura-es-abc"
+    },
+    {
+      "title": "Muere un joven de 17 años atropellado por un coche en la A-1, en Madrid",
+      "url": "https://www.abc.es/espana/madrid/muere-joven-anos-atropellado-coche-20260711101255-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-11T08:17:52.000Z",
+      "sourceId": "lootura-es-abc"
+    },
+    {
+      "title": "Revés judicial al chef Dani García: la marca de una ‘foodtruck’ gana a su restaurante dos estrellas Michelin",
+      "url": "https://cincodias.elpais.com/companias/2026-07-11/reves-judicial-al-chef-dani-garcia-la-marca-de-una-foodtruck-gana-a-su-restaurante-dos-estrellas-michelin.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-11T03:15:00.000Z",
+      "sourceId": "lootura-es-cinco-dias"
+    },
+    {
+      "title": "De 120.000 casas en Madrid a ninguna en Soria: así se distribuye el déficit de vivienda en España",
+      "url": "https://elpais.com/economia/vivienda/2026-07-11/de-120000-casas-en-madrid-a-ninguna-en-soria-asi-se-distribuye-el-deficit-de-vivienda-en-espana.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-11T03:30:01.000Z",
+      "sourceId": "lootura-es-cinco-dias"
+    },
+    {
+      "title": "Carlos Matallana (LunaJets): “No hay que ser millonario para irse de vacaciones en un ‘jet”",
+      "url": "https://cincodias.elpais.com/fortunas/2026-07-11/carlos-matallana-lunajets-no-hay-que-ser-millonario-para-irse-de-vacaciones-en-un-jet.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-11T03:45:01.000Z",
+      "sourceId": "lootura-es-cinco-dias"
+    },
+    {
+      "title": "500 pesetas con pelotazo, la memoria heavy del Madrid que no salía en los mapas",
+      "url": "https://www.elconfidencial.com/espana/madrid/2026-07-11/500-pesetas-con-pelotazo-la-memoria-heavy-del-madrid-que-no-salia-en-los-mapas_4386647/?utm_source=lootura.com",
+      "publishedAt": "2026-07-11T03:00:00.000Z",
+      "sourceId": "lootura-es-el-confidencial"
+    },
+    {
+      "title": "Objetivo 2027: Feijóo se multiplica por el territorio y convoca a sus alcaldes en Santiago",
+      "url": "https://www.elconfidencial.com/espana/2026-07-11/objetivo-2027-feijoo-multiplica-territorio-convoca-alcaldes-santiago_4388102/?utm_source=lootura.com",
+      "publishedAt": "2026-07-11T03:00:00.000Z",
+      "sourceId": "lootura-es-el-confidencial"
+    },
+    {
+      "title": "La exposición de la generación de la EGB llega a Madrid: “Es un viaje que te transporta a otra época”",
+      "url": "https://www.elconfidencial.com/espana/madrid/2026-07-11/la-exposicion-de-la-generacion-de-la-egb-llega-a-madrid-es-un-viaje-que-te-transporta-a-otra-epoca_4388117/?utm_source=lootura.com",
+      "publishedAt": "2026-07-11T03:00:00.000Z",
+      "sourceId": "lootura-es-el-confidencial"
+    },
+    {
+      "title": "La amnesia y el relato",
+      "url": "https://theobjective.com/elsubjetivo/opinion/2026-07-11/amnesia-relato-articulo-jon-viar/?utm_source=lootura.com",
+      "publishedAt": "2026-07-11T03:25:00.000Z",
+      "sourceId": "lootura-es-the-objective"
+    },
+    {
+      "title": "Morten Hjulmand ficha por el Atlético de Madrid hasta 2031",
+      "url": "https://theobjective.com/deportes/futbol/2026-07-11/morten-hjulmand-atletico-madrid/?amp=&utm_source=lootura.com",
+      "publishedAt": "2026-07-11T09:20:06.000Z",
+      "sourceId": "lootura-es-the-objective"
+    }
+  ],
+  "evidenceCount": 10
+}

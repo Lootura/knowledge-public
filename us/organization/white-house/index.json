@@ -1,0 +1,39 @@
+{
+  "id": "usa-white-house",
+  "name": "White House",
+  "type": "organization",
+  "locale": "en",
+  "canonicalPath": "/us/organization/white-house",
+  "canonicalUrl": "https://atlas.lootura.com/us/organization/white-house",
+  "markdownUrl": "https://atlas.lootura.com/us/organization/white-house/index.md",
+  "jsonUrl": "https://atlas.lootura.com/us/organization/white-house/index.json",
+  "description": "Follow White House, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
+  "updatedAt": "2026-07-11T09:26:55.725Z",
+  "aliases": [],
+  "changes": [
+    {
+      "title": "\"Face the Nation with Margaret Brennan\" guests for July 12, 2026",
+      "summary": "This week's guests include White House border czar Tom Homan and retired Gen. Frank McKenzie, president of The Citadel and former commander of U.S. Central Command.",
+      "date": "2026-07-11"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "White House first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-07-11"
+    },
+    {
+      "title": "\"Face the Nation with Margaret Brennan\" guests for July 12, 2026",
+      "summary": "This week's guests include White House border czar Tom Homan and retired Gen. Frank McKenzie, president of The Citadel and former commander of U.S. Central Command.",
+      "date": "2026-07-10"
+    }
+  ],
+  "sources": [
+    {
+      "title": "\"Face the Nation with Margaret Brennan\" guests for July 12, 2026",
+      "url": "https://www.cbsnews.com/news/face-the-nation-with-margaret-brennan-guests-july-12-2026/?utm_source=lootura.com",
+      "publishedAt": "2026-07-11T00:55:36.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    }
+  ],
+  "evidenceCount": 1
+}

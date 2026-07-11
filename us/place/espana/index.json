@@ -1,0 +1,32 @@
+{
+  "id": "usa-espana",
+  "name": "España",
+  "type": "place",
+  "locale": "en",
+  "canonicalPath": "/us/place/espana",
+  "canonicalUrl": "https://atlas.lootura.com/us/place/espana",
+  "markdownUrl": "https://atlas.lootura.com/us/place/espana/index.md",
+  "jsonUrl": "https://atlas.lootura.com/us/place/espana/index.json",
+  "description": "Follow España, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
+  "updatedAt": "2026-07-11T09:26:55.725Z",
+  "aliases": [
+    "Estado español",
+    "Spain"
+  ],
+  "changes": [
+    {
+      "title": "Discovered by Atlas",
+      "summary": "España first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-07-09"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Gol de Mikel Merino y España vuelve a tomar la ventaja frente a Bélgica",
+      "url": "https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/gol-de-mikel-merino-y-espana-vuelve-a-tomar-la-ventaja-frente-a-belgica-tmvo13202596?utm_source=lootura.com",
+      "publishedAt": "2026-07-10T21:00:56.000Z",
+      "sourceId": "lootura-us-nbc-news"
+    }
+  ],
+  "evidenceCount": 1
+}

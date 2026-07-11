@@ -1,0 +1,16 @@
+{
+  "id": "es-china",
+  "name": "China",
+  "type": "place",
+  "locale": "es",
+  "canonicalPath": "/es/place/china",
+  "canonicalUrl": "https://atlas.lootura.com/es/place/china",
+  "markdownUrl": "https://atlas.lootura.com/es/place/china/index.md",
+  "jsonUrl": "https://atlas.lootura.com/es/place/china/index.json",
+  "description": "Sigue la actividad de China en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
+  "updatedAt": "2026-07-10T14:20:28.384Z",
+  "aliases": [],
+  "changes": [],
+  "sources": [],
+  "evidenceCount": 0
+}

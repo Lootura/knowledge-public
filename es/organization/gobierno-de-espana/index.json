@@ -1,0 +1,19 @@
+{
+  "id": "es-gobierno-de-espana",
+  "name": "Gobierno de España",
+  "type": "organization",
+  "locale": "es",
+  "canonicalPath": "/es/organization/gobierno-de-espana",
+  "canonicalUrl": "https://atlas.lootura.com/es/organization/gobierno-de-espana",
+  "markdownUrl": "https://atlas.lootura.com/es/organization/gobierno-de-espana/index.md",
+  "jsonUrl": "https://atlas.lootura.com/es/organization/gobierno-de-espana/index.json",
+  "description": "Sigue la actividad de Gobierno de España en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
+  "updatedAt": "2026-07-11T06:11:02.390Z",
+  "aliases": [
+    "Ejecutivo español",
+    "Gobierno español"
+  ],
+  "changes": [],
+  "sources": [],
+  "evidenceCount": 0
+}

@@ -1,0 +1,31 @@
+{
+  "id": "usa-startups",
+  "name": "Startups",
+  "type": "market",
+  "locale": "en",
+  "canonicalPath": "/us/market/startups",
+  "canonicalUrl": "https://atlas.lootura.com/us/market/startups",
+  "markdownUrl": "https://atlas.lootura.com/us/market/startups/index.md",
+  "jsonUrl": "https://atlas.lootura.com/us/market/startups/index.json",
+  "description": "Follow Startups, a tracked market, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
+  "updatedAt": "2026-07-11T09:26:55.725Z",
+  "aliases": [
+    "startup funding"
+  ],
+  "changes": [
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Startups first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-07-10"
+    }
+  ],
+  "sources": [
+    {
+      "title": "With the white nationalist group Patriot Front, what you see is not what you get",
+      "url": "https://www.npr.org/2026/07/11/nx-s1-5888571/patriot-front-washington-dc?utm_source=lootura.com",
+      "publishedAt": "2026-07-11T09:00:00.000Z",
+      "sourceId": "lootura-us-npr"
+    }
+  ],
+  "evidenceCount": 1
+}

@@ -1,0 +1,36 @@
+{
+  "id": "usa-supreme-court",
+  "name": "Supreme Court",
+  "type": "organization",
+  "locale": "en",
+  "canonicalPath": "/us/organization/supreme-court",
+  "canonicalUrl": "https://atlas.lootura.com/us/organization/supreme-court",
+  "markdownUrl": "https://atlas.lootura.com/us/organization/supreme-court/index.md",
+  "jsonUrl": "https://atlas.lootura.com/us/organization/supreme-court/index.json",
+  "description": "Follow Supreme Court, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
+  "updatedAt": "2026-07-11T09:26:55.725Z",
+  "aliases": [
+    "U.S. Supreme Court"
+  ],
+  "changes": [
+    {
+      "title": "Where trans advocates are focusing efforts after recent court defeats",
+      "summary": "The Supreme Court wrapped up one of its most consequential terms for shaping LGBTQ rights. In one of the major decisions, the justices upheld state bans on transgender athletes in girls' and women's sports. But more challenges are already emerging. Liz Landers reports on the legal battle ahead.",
+      "date": "2026-07-10"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Supreme Court first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-07-10"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Where trans advocates are focusing efforts after recent court defeats",
+      "url": "https://www.pbs.org/newshour/show/where-trans-advocates-are-focusing-efforts-after-recent-court-defeats?utm_source=lootura.com",
+      "publishedAt": "2026-07-10T22:40:12.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
+    }
+  ],
+  "evidenceCount": 1
+}

@@ -1,0 +1,32 @@
+{
+  "id": "es-artificial-intelligence",
+  "name": "Artificial intelligence",
+  "type": "topic",
+  "locale": "es",
+  "canonicalPath": "/es/topic/artificial-intelligence",
+  "canonicalUrl": "https://atlas.lootura.com/es/topic/artificial-intelligence",
+  "markdownUrl": "https://atlas.lootura.com/es/topic/artificial-intelligence/index.md",
+  "jsonUrl": "https://atlas.lootura.com/es/topic/artificial-intelligence/index.json",
+  "description": "Sigue la actividad de Artificial intelligence en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
+  "updatedAt": "2026-07-11T09:26:27.277Z",
+  "aliases": [
+    "AI",
+    "machine learning"
+  ],
+  "changes": [
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Artificial intelligence first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-07-10"
+    }
+  ],
+  "sources": [
+    {
+      "title": "¿Quién ganará el Mundial? Así avanzan nuestras predicciones",
+      "url": "https://elpais.com/deportes/mundial-futbol/2026-06-11/quien-ganara-el-mundial-asi-arrancan-nuestras-predicciones.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-10T21:30:33.000Z",
+      "sourceId": "lootura-es-el-pais"
+    }
+  ],
+  "evidenceCount": 0
+}

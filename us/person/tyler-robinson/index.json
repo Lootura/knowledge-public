@@ -1,0 +1,34 @@
+{
+  "id": "usa-tyler-robinson",
+  "name": "Tyler Robinson",
+  "type": "person",
+  "locale": "en",
+  "canonicalPath": "/us/person/tyler-robinson",
+  "canonicalUrl": "https://atlas.lootura.com/us/person/tyler-robinson",
+  "markdownUrl": "https://atlas.lootura.com/us/person/tyler-robinson/index.md",
+  "jsonUrl": "https://atlas.lootura.com/us/person/tyler-robinson/index.json",
+  "description": "Follow Tyler Robinson, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
+  "updatedAt": "2026-07-11T09:26:55.725Z",
+  "aliases": [],
+  "changes": [
+    {
+      "title": "Charlie Kirk's family cites \"overwhelming evidence\" against alleged killer",
+      "summary": "Charlie Kirk's family said the end of Tyler Robinson's preliminary hearing \"marks an important step forward in the pursuit of justice.\".",
+      "date": "2026-07-10"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Tyler Robinson first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-07-10"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Charlie Kirk's family cites \"overwhelming evidence\" against alleged killer",
+      "url": "https://www.cbsnews.com/news/charlie-kirk-tyler-robinson-preliminary-hearing-family-statement/?utm_source=lootura.com",
+      "publishedAt": "2026-07-10T20:08:14.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    }
+  ],
+  "evidenceCount": 1
+}

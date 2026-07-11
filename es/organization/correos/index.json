@@ -1,0 +1,16 @@
+{
+  "id": "es-correos",
+  "name": "Correos",
+  "type": "organization",
+  "locale": "es",
+  "canonicalPath": "/es/organization/correos",
+  "canonicalUrl": "https://atlas.lootura.com/es/organization/correos",
+  "markdownUrl": "https://atlas.lootura.com/es/organization/correos/index.md",
+  "jsonUrl": "https://atlas.lootura.com/es/organization/correos/index.json",
+  "description": "Sigue la actividad de Correos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
+  "updatedAt": "2026-07-11T06:11:02.390Z",
+  "aliases": [],
+  "changes": [],
+  "sources": [],
+  "evidenceCount": 0
+}

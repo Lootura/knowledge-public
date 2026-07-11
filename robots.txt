@@ -1,9 +1,4 @@
 User-agent: *
 Allow: /
 Disallow: /admin
-Disallow: /latest
-Disallow: /stories
-Disallow: /story
-Disallow: /topics
-Disallow: /sources
 Sitemap: https://atlas.lootura.com/sitemap.xml
