@@ -3,7 +3,7 @@
 > Follow Artificial intelligence, a tracked topic, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: topic
-- Updated: 2026-07-11T13:13:51.228Z
+- Updated: 2026-07-11T16:55:14.081Z
 - Canonical: https://atlas.lootura.com/us/topic/artificial-intelligence
 
 ## Recent changes

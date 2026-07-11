@@ -8,12 +8,12 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/china/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/china/index.json",
   "description": "Follow China, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-11T13:13:51.228Z",
+  "updatedAt": "2026-07-11T16:55:14.081Z",
   "aliases": [],
   "changes": [
     {
-      "title": "‘They Don’t Need People’: The Workers Left Behind by China’s Robot Drive",
-      "summary": "For out-of-work factory workers in Kunshan, a region made rich by electronics manufacturing, a park is the only place to go.",
+      "title": "Typhoon Bavi makes landfall in eastern China as more than 1 million are evacuated",
+      "summary": "Bavi previously brought strong winds and rain to Japan's southern islands and Taiwan. It was the second typhoon to impact China in just over a week's time.",
       "date": "2026-07-11"
     },
     {
@@ -24,10 +24,10 @@
   ],
   "sources": [
     {
-      "title": "‘They Don’t Need People’: The Workers Left Behind by China’s Robot Drive",
-      "url": "https://www.nytimes.com/2026/07/11/world/asia/china-workers-robots-factories.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-11T04:01:08.000Z",
-      "sourceId": "lootura-us-the-new-york-times-world"
+      "title": "Typhoon Bavi makes landfall in eastern China as more than 1 million are evacuated",
+      "url": "https://www.pbs.org/newshour/world/typhoon-bavi-makes-landfall-in-eastern-china-as-more-than-1-million-are-evacuated?utm_source=lootura.com",
+      "publishedAt": "2026-07-11T16:36:23.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
     }
   ],
   "evidenceCount": 1

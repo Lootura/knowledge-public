@@ -8,12 +8,8 @@
 
 ## Cambios recientes
 
-### Discovered by Atlas
-
-Artificial intelligence first entered the public knowledge record with source-backed evidence.
-
-Date: 2026-07-10
+No recent public changes.
 
 ## Fuentes
 
-- [Tarde o temprano tenía que llegar: científicos del MIT logran que un robot posea «memoria en tiempo real» gracias a la IA](https://okdiario.com/ciencia/tarde-o-temprano-tenia-que-llegar-cientificos-del-mit-logran-que-robot-posea-memoria-tiempo-real-gracias-ia-18906994?utm_source=lootura.com) — 2026-07-11T09:00:55.000Z
+No public source links.

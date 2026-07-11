@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/white-house/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/white-house/index.json",
   "description": "Follow White House, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-11T13:13:51.228Z",
+  "updatedAt": "2026-07-11T16:55:14.081Z",
   "aliases": [],
   "changes": [
     {
@@ -19,6 +19,16 @@
     {
       "title": "Discovered by Atlas",
       "summary": "White House first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-07-11"
+    },
+    {
+      "title": "Harvard astronomer tapped to lead White House UFO council says US government 'baffled by what they are seeing'",
+      "summary": "Avi Loeb, the Harvard astronomer who was chosen last month by the White House to lead a UFO advisory council, believes he was brought on because federal officials are \"baffled\" by the many unidentified objects the U.S. military has captured over the past several decades. Loeb, known for arguing that alien spacecraft ma.",
+      "date": "2026-07-11"
+    },
+    {
+      "title": "White House taps the guy who keeps crying ‘aliens’ to run UFO group",
+      "summary": "Harvard astrophysicist Avi Loeb will head the UAP Science Advisory Council established by the White House, the Pentagon, the Office of the Director of National Intelligence, the FBI, and \"the intelligence community.\" The Council will provide scientific reports and advice to the UAP Governing Board, in an effort to \"res.",
       "date": "2026-07-11"
     },
     {
@@ -33,7 +43,19 @@
       "url": "https://www.cbsnews.com/news/face-the-nation-with-margaret-brennan-guests-july-12-2026/?utm_source=lootura.com",
       "publishedAt": "2026-07-11T00:55:36.000Z",
       "sourceId": "lootura-us-cbs-news"
+    },
+    {
+      "title": "Harvard astronomer tapped to lead White House UFO council says US government 'baffled by what they are seeing'",
+      "url": "https://www.foxnews.com/politics/harvard-astronomer-tapped-lead-white-house-ufo-council-says-us-government-baffled-what-they-are-seeing?utm_source=lootura.com",
+      "publishedAt": "2026-07-11T16:44:17.000Z",
+      "sourceId": "lootura-us-fox-news"
+    },
+    {
+      "title": "White House taps the guy who keeps crying ‘aliens’ to run UFO group",
+      "url": "https://www.theverge.com/science/964478/white-house-avi-loeb-aliens-ufo-uap-council?utm_source=lootura.com",
+      "publishedAt": "2026-07-11T14:18:33.000Z",
+      "sourceId": "lootura-us-the-verge"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 3
 }

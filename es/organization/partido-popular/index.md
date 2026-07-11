@@ -3,7 +3,7 @@
 > Sigue la actividad de Partido Popular en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-11T13:13:30.845Z
+- Actualizado: 2026-07-11T16:54:54.992Z
 - Canonical: https://atlas.lootura.com/es/organization/partido-popular
 
 ## Cambios recientes
@@ -11,12 +11,6 @@
 ### Discovered by Atlas
 
 Partido Popular first entered the public knowledge record with source-backed evidence.
-
-Date: 2026-07-11
-
-### Sanz zanja la "polémica" por las críticas de no mandar el Es-Alert: "No tienen ni idea de cómo es"
-
-El consejero de Presidencia, Sanidad y Emergencias de la Junta de Andalucía, Antonio Sanz (PP-A), ha defendido este sábado que desde la administración autonómica no se enviaron el pasado jueves mensajes de 'Es-Alert' para avisar a población que pudiera verse afectada por el incendio forestal declarado ese día en Los Ga.
 
 Date: 2026-07-11
 
@@ -44,10 +38,16 @@ El presidente del PP, Alberto Núñez Feijóo, ha ironizado este sábado sobre l
 
 Date: 2026-07-11
 
+### Óscar López se enfrentará a Ayuso en las elecciones de la Comunidad de Madrid en 2027
+
+El secretario general del PSOE de Madrid y ministro para la Transformación Digital y de la Función Pública, Óscar López , se batirá con la presidenta de la Comunidad, Isabel Díaz Ayuso (PP), en mayo de 2027 tras proclamarse candidato socialista al no haber conseguido su rival en primarias, Silvia López Quivira, reunir.
+
+Date: 2026-07-11
+
 ## Fuentes
 
 - [Feijóo llama a los jóvenes a liderar el «cambio» y ser «propietarios de su vida»](https://www.abc.es/espana/castilla-leon/feijoo-llama-jovenes-liderar-cambio-propietarios-vida-20260711141514-nt.html?utm_source=lootura.com) — 2026-07-11T12:15:15.000Z
-- [Sanz zanja la "polémica" por las críticas de no mandar el Es-Alert: "No tienen ni idea de cómo es"](https://www.larazon.es/andalucia/almeria/sanz-zanja-polemica-criticas-mandar-esalert-tienen-idea-como_202607116a5209bac0b5fb431c4e1935.html?utm_source=lootura.com) — 2026-07-11T09:15:38.000Z
 - [Feijóo responde a las críticas: «Defiendo al trabajador honrado y perseguiré el absentismo laboral»](https://okdiario.com/espana/feijoo-responde-criticas-defiendo-trabajador-honrado-perseguire-absentismo-laboral-18976113?utm_source=lootura.com) — 2026-07-11T12:21:51.000Z
 - [Mañueco arremete contra Sánchez y pide a los jóvenes implicarse «con fuerza» por España](https://theobjective.com/espana/politica/2026-07-11/manueco-jovenes-sanchez-espana/?utm_source=lootura.com) — 2026-07-11T11:44:40.000Z
 - [Feijóo desafía las críticas a sus propuestas: «Me dedico a esto para mejorar las cosas»](https://theobjective.com/espana/politica/2026-07-11/feijoo-criticas-propuestas-debates-valientes/?amp=&utm_source=lootura.com) — 2026-07-11T12:01:39.000Z
+- [Óscar López se enfrentará a Ayuso en las elecciones de la Comunidad de Madrid en 2027](https://theobjective.com/espana/politica/2026-07-11/oscar-lopez-ayuso-elecciones-madrid-2027/?utm_source=lootura.com) — 2026-07-11T15:18:38.000Z

@@ -8,11 +8,16 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/democratic-party/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/democratic-party/index.json",
   "description": "Follow Democratic Party, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-11T13:13:51.228Z",
+  "updatedAt": "2026-07-11T16:55:14.081Z",
   "aliases": [
     "Democrats"
   ],
   "changes": [
+    {
+      "title": "Graham Platner officially withdraws from the Maine Senate race",
+      "summary": "Democrats have already set off a mad dash to find a new candidate, with a July 27 deadline to submit a replacement nominee to face Republican Sen. Susan Collins in the November election.",
+      "date": "2026-07-11"
+    },
     {
       "title": "Graham Platner makes it official in Maine, submitting paperwork to leave Senate race",
       "summary": "In his withdrawal notice, Platner said \"people are desperate for change\" and that's why they made him the Democratic nominee. Now, Maine Democrats have to pick someone to replace him by July 27. (Image credit: CJ Gunther).",
@@ -36,10 +41,10 @@
   ],
   "sources": [
     {
-      "title": "Week in Politics: Trump's housing bill protest fails; Trump and NATO; Maine's Democrats",
-      "url": "https://www.npr.org/2026/07/11/nx-s1-5888579/week-in-politics-trumps-housing-bill-protest-fails-trump-and-nato-maines-democrats?utm_source=lootura.com",
-      "publishedAt": "2026-07-11T11:43:45.000Z",
-      "sourceId": "lootura-us-npr-politics"
+      "title": "Graham Platner officially withdraws from the Maine Senate race",
+      "url": "https://www.nbcnews.com/politics/2026-election/graham-platner-officially-drops-maine-senate-race-rcna385842?utm_source=lootura.com",
+      "publishedAt": "2026-07-11T16:09:55.338Z",
+      "sourceId": "lootura-us-nbc-news-politics"
     },
     {
       "title": "Graham Platner makes it official in Maine, submitting paperwork to leave Senate race",

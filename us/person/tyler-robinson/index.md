@@ -3,16 +3,16 @@
 > Follow Tyler Robinson, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-07-11T13:13:51.228Z
+- Updated: 2026-07-11T16:55:14.081Z
 - Canonical: https://atlas.lootura.com/us/person/tyler-robinson
 
 ## Recent changes
 
-### Charlie Kirk's family cites "overwhelming evidence" against alleged killer
+### Friend of Charlie Kirk labels courtroom evidence 'devastating' after chilling surveillance footage shown
 
-Charlie Kirk's family said the end of Tyler Robinson's preliminary hearing "marks an important step forward in the pursuit of justice.".
+New surveillance footage played in a Utah courtroom shows the moments prosecutors allege Tyler Robinson , the accused gunman, stalked and killed conservative activist Charlie Kirk. Speaking from outside Utah's Fourth District Court in Provo, Benny Johnson, a conservative commentator and close friend of Kirk, labeled th.
 
-Date: 2026-07-10
+Date: 2026-07-11
 
 ### Discovered by Atlas
 
@@ -22,4 +22,4 @@ Date: 2026-07-10
 
 ## Sources
 
-- [Charlie Kirk's family cites "overwhelming evidence" against alleged killer](https://www.cbsnews.com/news/charlie-kirk-tyler-robinson-preliminary-hearing-family-statement/?utm_source=lootura.com) — 2026-07-10T20:08:14.000Z
+- [Friend of Charlie Kirk labels courtroom evidence 'devastating' after chilling surveillance footage shown](https://www.foxnews.com/media/friend-charlie-kirk-labels-courtroom-evidence-devastating-chilling-surveillance-footage-shown?utm_source=lootura.com) — 2026-07-11T16:20:26.000Z

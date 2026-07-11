@@ -3,16 +3,16 @@
 > Follow Supreme Court, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-07-11T13:13:51.228Z
+- Updated: 2026-07-11T16:55:14.081Z
 - Canonical: https://atlas.lootura.com/us/organization/supreme-court
 
 ## Recent changes
 
-### Where trans advocates are focusing efforts after recent court defeats
+### Kansans Will Vote on an Elected Supreme Court. The Target: Abortion.
 
-The Supreme Court wrapped up one of its most consequential terms for shaping LGBTQ rights. In one of the major decisions, the justices upheld state bans on transgender athletes in girls' and women's sports. But more challenges are already emerging. Liz Landers reports on the legal battle ahead.
+Frustrated by the appointed court’s support of abortion rights, which has been affirmed resoundingly by voters, Republicans are pushing an Aug. 4 referendum to elect Kansas justices.
 
-Date: 2026-07-10
+Date: 2026-07-11
 
 ### Discovered by Atlas
 
@@ -22,4 +22,4 @@ Date: 2026-07-10
 
 ## Sources
 
-- [Where trans advocates are focusing efforts after recent court defeats](https://www.pbs.org/newshour/show/where-trans-advocates-are-focusing-efforts-after-recent-court-defeats?utm_source=lootura.com) — 2026-07-10T22:40:12.000Z
+- [Kansans Will Vote on an Elected Supreme Court. The Target: Abortion.](https://www.nytimes.com/2026/07/11/us/elections/kansas-supreme-court-justices-election-abortion.html?utm_source=lootura.com) — 2026-07-11T09:00:29.000Z

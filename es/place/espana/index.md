@@ -3,38 +3,14 @@
 > Sigue la actividad de España en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-11T13:13:30.845Z
+- Actualizado: 2026-07-11T16:54:54.992Z
 - Canonical: https://atlas.lootura.com/es/place/espana
 
 ## Cambios recientes
 
-### De 120.000 casas en Madrid a ninguna en Soria: así se distribuye el déficit de vivienda en España
-
-Nuria S. tiene 31 años, trabaja como enfermera en el Hospital Gregorio Marañón de Madrid y comparte piso porque asumir el alquiler ella sola consumiría casi la mitad de su sueldo. A más de 200 kilómetros, Julián L. conserva junto a sus hermanos la casa de sus padres en un pueblo de Soria. Lleva años vacía . Nadie quier.
-
-Date: 2026-07-11
-
 ### Discovered by Atlas
 
 España first entered the public knowledge record with source-backed evidence.
-
-Date: 2026-07-11
-
-### La mejor playa de Europa está en España: más de tres kilómetros de costa y arena fina
-
-Las playas europeas son destinos ideales para relajarse, descansar y disfrutar de paisajes idílicos. Marcados en gran parte por el mar Mediterráneo, el continente tiene un total de 112.000 kilómetros de costa.La plataforma de viajes Omio ha publicado su ránking anual de las mejores playas de Europa para 2026. Lo que pu.
-
-Date: 2026-07-11
-
-### Disminuye la cantidad de gas que España exporta a Marruecos a través del gasoducto del Magreb
-
-Desde 2022, Rabat compra gas natural licuado en los mercados internacionales, lo regasifica en terminales españolas y luego lo transporta a su territorio.
-
-Date: 2026-07-11
-
-### Feijóo pide prepararse para un verano "muy complicado" de incendios mientras Bolaños reivindica la "cooperación"
-
-Los incendios que están poniendo en jaque a los distintos servicios de extinción en casi toda España han centrado este sábado el debate político. El líder de la oposición, Alberto Núñez Feijóo , ha pedido más preparación a las administraciones ante los fuegos, mientras que uno de los ministros fuertes del Gobierno, Fél.
 
 Date: 2026-07-11
 
@@ -62,21 +38,24 @@ El presidente del PP en Castilla y León, Alfonso Fernández Mañueco , ha pedid
 
 Date: 2026-07-11
 
-### Lluvia de estrellas en el España-Bélgica: de Brad Pitt, Bardem y Penélope Cruz a Pete Sampras
+### España va de otra cosa y la sensación es desconcertante
 
-Noel Gallagher, de Oasis, el actor Timothée Chalamet y el jugador de la NBA DeMar DeRozan también están en las gradas.
+Me recuerda Bárbara Arena uno de los momentos definitorios de Carmina Ordóñez , diva de divas. En uno de esos platós de televisión a los que la Ordóñez iba a llevárselo crudo, Karmele Marchante se enzarza con ella: “Es que yo, Carmen, nunca te vi trabajando”, le suelta. Y Carmina, abofeteándose el pelo: “Ni me verás”.
 
-Date: 2026-07-10
+Date: 2026-07-11
+
+### ¿Por qué los estadounidenses están huyendo de su país? "El sueño americano ya no existe allí, estamos buscando una vida mejor en España"
+
+El ideal que durante siglos definió a Estados Unidos como la tierra de las oportunidades , donde el esfuerzo personal garantizaba el acceso a una vivienda propia y la formación de una familia sin hipotecar el futuro, se desmorona ante la realidad económica actual . Según analizan diversos testimonios, el coste de la pr.
+
+Date: 2026-07-11
 
 ## Fuentes
 
-- [Feijóo pide prepararse para un verano "muy complicado" de incendios mientras Bolaños reivindica la "cooperación"](https://www.20minutos.es/nacional/feijoo-pide-prepararse-verano-muy-complicado-incendios-mientras-bolanos-reivindica-cooperacion-almeria_7013487_0.html?utm_source=lootura.com) — 2026-07-11T12:13:13.000Z
-- [La mejor playa de Europa está en España: más de tres kilómetros de costa y arena fina](https://www.abc.es/viajar/playas/mejor-playa-europa-espana-arena-fina-dorada-20260711165234-nt.html?utm_source=lootura.com) — 2026-07-11T09:13:12.000Z
-- [De 120.000 casas en Madrid a ninguna en Soria: así se distribuye el déficit de vivienda en España](https://elpais.com/economia/vivienda/2026-07-11/de-120000-casas-en-madrid-a-ninguna-en-soria-asi-se-distribuye-el-deficit-de-vivienda-en-espana.html?utm_source=lootura.com) — 2026-07-11T03:30:01.000Z
-- [Lluvia de estrellas en el España-Bélgica: de Brad Pitt, Bardem y Penélope Cruz a Pete Sampras](https://www.elcorreo.com/deportes/futbol/mundial/lluvia-estrellas-espanabelgica-brad-pitt-bardem-penelope-20260710184948-ntrc_amp.html?utm_source=lootura.com) — 2026-07-10T16:49:49.000Z
+- [La brutal caída de Bezzecchi pone patas arriba el Mundial de MotoGP](https://www.abc.es/deportes/motos/brutal-caida-bezzecchi-pone-patas-arriba-mundial-20260711153417-nt.html?utm_source=lootura.com) — 2026-07-11T14:11:24.000Z
 - [Un Óscar para Lamine, dos buenos presagios y un aviso: "Si alguien puede ir con seguridad contra Francia, somos nosotros"](https://www.elmundo.es/deportes/futbol/mundial-de-futbol/2026/07/11/6a518ef4e85ece79558b4598.html?utm_source=lootura.com) — 2026-07-11T11:37:24.000Z
-- [El incendio que cambió la lucha contra el fuego y creó la UME: "Hemos tocado techo en extinción pero falta cultura de riesgo"](https://www.elmundo.es/espana/2026/07/11/6a514176e9cf4a3e1d8b4583.html?utm_source=lootura.com) — 2026-07-10T22:19:51.000Z
+- [España va de otra cosa y la sensación es desconcertante](https://elpais.com/deportes/mundial-futbol/2026-07-11/espana-va-de-otra-cosa-y-la-sensacion-es-desconcertante.html?utm_source=lootura.com) — 2026-07-11T13:25:44.000Z
 - [El antes y después del incendio de Almería, con imágenes de satélite](https://www.eldiario.es/sociedad/despues-incendio-almeria-imagenes-satelite_1_13373561.html?utm_source=lootura.com) — 2026-07-11T12:22:27.000Z
-- [Disminuye la cantidad de gas que España exporta a Marruecos a través del gasoducto del Magreb](https://www.larazon.es/economia/disminuye-cantidad-gas-que-espana-exporta-marruecos-traves-gasoducto-magreb_202607116a520b09772f745d2c411224.html?outputType=amp&utm_source=lootura.com) — 2026-07-11T09:21:13.000Z
+- [¿Por qué los estadounidenses están huyendo de su país? "El sueño americano ya no existe allí, estamos buscando una vida mejor en España"](https://www.larazon.es/sociedad/que-estadounidenses-estan-huyendo-pais-sueno-americano-existe-alli-estamos-buscando-vida-mejor-espana-b50m_202607116a526fe0c0b5fb431c4ecdc4.html?utm_source=lootura.com) — 2026-07-11T16:31:28.000Z
 - [Rocío Crusset y Charlie Schein se vuelven a dar el «sí, quiero» y celebrarán una segunda boda en Ibiza](https://okdiario.com/cool/famosos/rocio-crusset-charlie-schein-vuelven-dar-si-quiero-celebraran-segunda-boda-ibiza-18976353?utm_source=lootura.com) — 2026-07-11T12:51:38.000Z
 - [Mañueco arremete contra Sánchez y pide a los jóvenes implicarse «con fuerza» por España](https://theobjective.com/espana/politica/2026-07-11/manueco-jovenes-sanchez-espana/?utm_source=lootura.com) — 2026-07-11T11:44:40.000Z

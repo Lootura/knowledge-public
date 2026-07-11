@@ -8,15 +8,15 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/supreme-court/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/supreme-court/index.json",
   "description": "Follow Supreme Court, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-11T13:13:51.228Z",
+  "updatedAt": "2026-07-11T16:55:14.081Z",
   "aliases": [
     "U.S. Supreme Court"
   ],
   "changes": [
     {
-      "title": "Where trans advocates are focusing efforts after recent court defeats",
-      "summary": "The Supreme Court wrapped up one of its most consequential terms for shaping LGBTQ rights. In one of the major decisions, the justices upheld state bans on transgender athletes in girls' and women's sports. But more challenges are already emerging. Liz Landers reports on the legal battle ahead.",
-      "date": "2026-07-10"
+      "title": "Kansans Will Vote on an Elected Supreme Court. The Target: Abortion.",
+      "summary": "Frustrated by the appointed court’s support of abortion rights, which has been affirmed resoundingly by voters, Republicans are pushing an Aug. 4 referendum to elect Kansas justices.",
+      "date": "2026-07-11"
     },
     {
       "title": "Discovered by Atlas",
@@ -26,10 +26,10 @@
   ],
   "sources": [
     {
-      "title": "Where trans advocates are focusing efforts after recent court defeats",
-      "url": "https://www.pbs.org/newshour/show/where-trans-advocates-are-focusing-efforts-after-recent-court-defeats?utm_source=lootura.com",
-      "publishedAt": "2026-07-10T22:40:12.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
+      "title": "Kansans Will Vote on an Elected Supreme Court. The Target: Abortion.",
+      "url": "https://www.nytimes.com/2026/07/11/us/elections/kansas-supreme-court-justices-election-abortion.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-11T09:00:29.000Z",
+      "sourceId": "lootura-us-the-new-york-times"
     }
   ],
   "evidenceCount": 1

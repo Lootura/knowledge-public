@@ -3,7 +3,7 @@
 > Sigue la actividad de Portugal en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-11T13:13:30.845Z
+- Actualizado: 2026-07-11T16:54:54.992Z
 - Canonical: https://atlas.lootura.com/es/place/portugal
 
 ## Cambios recientes
@@ -20,13 +20,14 @@ El ansiado pivote. Morten Hjulmand, de 27 años, centrocampista danés que jugab
 
 Date: 2026-07-11
 
-### La herencia de Bonnie Tyler: su patrimonio de 40 millones quedará en manos de su marido
+### La "bola de fuego" que calcinó a decenas de personas en la 'carretera de la muerte' en un incendio en Portugal en 2017
 
-Bonnie Tyler, la cantante que dio voz a unos de los temas más conocidos del mundo de la música, 'Total Eclipse of the Heart', falleció de forma inesperada en la noche del miércoles tras ser hospitalizada el pasado mayo en un hospital de Faro, al sur de Portugal.Tras ser sometida a una cirugía intestinal, permaneció en.
+Un total de 64 personas perdieron la vida en un episodio trágico con algunos paralelismos con el drama actual en Almería Leer.
 
 Date: 2026-07-11
 
 ## Fuentes
 
-- [La herencia de Bonnie Tyler: su patrimonio de 40 millones quedará en manos de su marido](https://www.abc.es/gente/herencia-bonnie-tyler-patrimonio-millones-quedara-manos-20260711134818-nt.html?utm_source=lootura.com) — 2026-07-11T11:51:23.000Z
+- [Merino obra milagros y mete a España en semifinales](https://www.elcorreo.com/deportes/futbol/mundial/espana-belgica-cuartos-final-mundial-2026-20260710231159-ntrc_amp.html?utm_source=lootura.com) — 2026-07-10T21:11:59.000Z
+- [La "bola de fuego" que calcinó a decenas de personas en la 'carretera de la muerte' en un incendio en Portugal en 2017](https://www.elmundo.es/internacional/2026/07/11/6a52567a21efa08c568b4599.html?utm_source=lootura.com) — 2026-07-11T14:49:56.000Z
 - [Morten Hjulmand ficha por el Atlético de Madrid hasta 2031](https://theobjective.com/deportes/futbol/2026-07-11/morten-hjulmand-atletico-madrid/?amp=&utm_source=lootura.com) — 2026-07-11T09:20:06.000Z

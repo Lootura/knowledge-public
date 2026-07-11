@@ -8,18 +8,8 @@
 
 ## Cambios recientes
 
-### Lamine Yamal: “Si a alguien debe temer Francia es a nosotros”
-
-Entre la pizarra de Luis de la Fuente y el olfato goleador de Mikel Merino , aparece la gambeta de Lamine Yamal. De nuevo elegido el mejor jugador del duelo ante Bélgica ayer. El canterano del Barcelona no necesitó ni marcar ni asistir para llevarse el trofeo individual. “Estoy muy contento por la victoria. Quiero marc.
-
-Date: 2026-07-10
-
-### Discovered by Atlas
-
-Lamine Yamal first entered the public knowledge record with source-backed evidence.
-
-Date: 2026-07-10
+No recent public changes.
 
 ## Fuentes
 
-- [Lamine Yamal: “Si a alguien debe temer Francia es a nosotros”](https://elpais.com/deportes/mundial-futbol/2026-07-10/lamine-yamal-si-a-alguien-debe-temer-francia-es-a-nosotros.html?utm_source=lootura.com) — 2026-07-10T22:48:11.000Z
+No public source links.

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/partido-popular/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/partido-popular/index.json",
   "description": "Sigue la actividad de Partido Popular en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-11T13:13:30.845Z",
+  "updatedAt": "2026-07-11T16:54:54.992Z",
   "aliases": [
     "PP"
   ],
@@ -16,11 +16,6 @@
     {
       "title": "Discovered by Atlas",
       "summary": "Partido Popular first entered the public knowledge record with source-backed evidence.",
-      "date": "2026-07-11"
-    },
-    {
-      "title": "Sanz zanja la \"polémica\" por las críticas de no mandar el Es-Alert: \"No tienen ni idea de cómo es\"",
-      "summary": "El consejero de Presidencia, Sanidad y Emergencias de la Junta de Andalucía, Antonio Sanz (PP-A), ha defendido este sábado que desde la administración autonómica no se enviaron el pasado jueves mensajes de 'Es-Alert' para avisar a población que pudiera verse afectada por el incendio forestal declarado ese día en Los Ga.",
       "date": "2026-07-11"
     },
     {
@@ -42,6 +37,11 @@
       "title": "Feijóo desafía las críticas a sus propuestas: «Me dedico a esto para mejorar las cosas»",
       "summary": "El presidente del PP, Alberto Núñez Feijóo, ha ironizado este sábado sobre las críticas a sus propuestas en las últimas semanas, como la de perseguir el.",
       "date": "2026-07-11"
+    },
+    {
+      "title": "Óscar López se enfrentará a Ayuso en las elecciones de la Comunidad de Madrid en 2027",
+      "summary": "El secretario general del PSOE de Madrid y ministro para la Transformación Digital y de la Función Pública, Óscar López , se batirá con la presidenta de la Comunidad, Isabel Díaz Ayuso (PP), en mayo de 2027 tras proclamarse candidato socialista al no haber conseguido su rival en primarias, Silvia López Quivira, reunir.",
+      "date": "2026-07-11"
     }
   ],
   "sources": [
@@ -50,12 +50,6 @@
       "url": "https://www.abc.es/espana/castilla-leon/feijoo-llama-jovenes-liderar-cambio-propietarios-vida-20260711141514-nt.html?utm_source=lootura.com",
       "publishedAt": "2026-07-11T12:15:15.000Z",
       "sourceId": "lootura-es-abc"
-    },
-    {
-      "title": "Sanz zanja la \"polémica\" por las críticas de no mandar el Es-Alert: \"No tienen ni idea de cómo es\"",
-      "url": "https://www.larazon.es/andalucia/almeria/sanz-zanja-polemica-criticas-mandar-esalert-tienen-idea-como_202607116a5209bac0b5fb431c4e1935.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-11T09:15:38.000Z",
-      "sourceId": "lootura-es-la-razon"
     },
     {
       "title": "Feijóo responde a las críticas: «Defiendo al trabajador honrado y perseguiré el absentismo laboral»",
@@ -73,6 +67,12 @@
       "title": "Feijóo desafía las críticas a sus propuestas: «Me dedico a esto para mejorar las cosas»",
       "url": "https://theobjective.com/espana/politica/2026-07-11/feijoo-criticas-propuestas-debates-valientes/?amp=&utm_source=lootura.com",
       "publishedAt": "2026-07-11T12:01:39.000Z",
+      "sourceId": "lootura-es-the-objective"
+    },
+    {
+      "title": "Óscar López se enfrentará a Ayuso en las elecciones de la Comunidad de Madrid en 2027",
+      "url": "https://theobjective.com/espana/politica/2026-07-11/oscar-lopez-ayuso-elecciones-madrid-2027/?utm_source=lootura.com",
+      "publishedAt": "2026-07-11T15:18:38.000Z",
       "sourceId": "lootura-es-the-objective"
     }
   ],

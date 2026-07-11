@@ -3,14 +3,14 @@
 > Follow China, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-11T13:13:51.228Z
+- Updated: 2026-07-11T16:55:14.081Z
 - Canonical: https://atlas.lootura.com/us/place/china
 
 ## Recent changes
 
-### ‘They Don’t Need People’: The Workers Left Behind by China’s Robot Drive
+### Typhoon Bavi makes landfall in eastern China as more than 1 million are evacuated
 
-For out-of-work factory workers in Kunshan, a region made rich by electronics manufacturing, a park is the only place to go.
+Bavi previously brought strong winds and rain to Japan's southern islands and Taiwan. It was the second typhoon to impact China in just over a week's time.
 
 Date: 2026-07-11
 
@@ -22,4 +22,4 @@ Date: 2026-07-09
 
 ## Sources
 
-- [‘They Don’t Need People’: The Workers Left Behind by China’s Robot Drive](https://www.nytimes.com/2026/07/11/world/asia/china-workers-robots-factories.html?utm_source=lootura.com) — 2026-07-11T04:01:08.000Z
+- [Typhoon Bavi makes landfall in eastern China as more than 1 million are evacuated](https://www.pbs.org/newshour/world/typhoon-bavi-makes-landfall-in-eastern-china-as-more-than-1-million-are-evacuated?utm_source=lootura.com) — 2026-07-11T16:36:23.000Z

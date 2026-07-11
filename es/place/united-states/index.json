@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/united-states/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/united-states/index.json",
   "description": "Sigue la actividad de United States en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-11T13:13:30.845Z",
+  "updatedAt": "2026-07-11T16:54:54.992Z",
   "aliases": [
     "America",
     "Estados Unidos",
@@ -24,14 +24,25 @@
       "title": "EE.UU. se pasa el juego: crea una chaqueta de hidrogel que captura del aire casi un litro de agua potable al día por medio de la energía solar",
       "summary": "Algunos países están creando grandes obras de ingeniería para recolectar agua potable . Sin embargo, Estados Unidos (EE.UU.) está apostando por una solución más individualizada. Y, aunque suene a ciencia ficción, se trata de una chaqueta que aprovecha la energía solar . Según recogen en la revista especializada Science.",
       "date": "2026-07-11"
+    },
+    {
+      "title": "¿Por qué los estadounidenses están huyendo de su país? \"El sueño americano ya no existe allí, estamos buscando una vida mejor en España\"",
+      "summary": "El ideal que durante siglos definió a Estados Unidos como la tierra de las oportunidades , donde el esfuerzo personal garantizaba el acceso a una vivienda propia y la formación de una familia sin hipotecar el futuro, se desmorona ante la realidad económica actual . Según analizan diversos testimonios, el coste de la pr.",
+      "date": "2026-07-11"
     }
   ],
   "sources": [
     {
-      "title": "Las trampas de Trump e Infantino en el Mundial retratan este capitalismo corrupto",
-      "url": "https://cincodias.elpais.com/opinion/2026-07-11/las-trampas-de-trump-e-infantino-en-el-mundial-retratan-este-capitalismo-corrupto.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-11T03:40:00.000Z",
-      "sourceId": "lootura-es-cinco-dias"
+      "title": "Encuentran muerto a un futbolista de 25 años que jugó el Mundial con Sudáfrica",
+      "url": "https://www.abc.es/deportes/futbol/mundial/encuentran-muerto-futbolista-anos-jugo-mundial-sudafrica-20260711160904-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-11T15:27:28.000Z",
+      "sourceId": "lootura-es-abc"
+    },
+    {
+      "title": "¿Por qué los estadounidenses están huyendo de su país? \"El sueño americano ya no existe allí, estamos buscando una vida mejor en España\"",
+      "url": "https://www.larazon.es/sociedad/que-estadounidenses-estan-huyendo-pais-sueno-americano-existe-alli-estamos-buscando-vida-mejor-espana-b50m_202607116a526fe0c0b5fb431c4ecdc4.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-11T16:31:28.000Z",
+      "sourceId": "lootura-es-la-razon"
     },
     {
       "title": "EE.UU. se pasa el juego: crea una chaqueta de hidrogel que captura del aire casi un litro de agua potable al día por medio de la energía solar",
@@ -40,5 +51,5 @@
       "sourceId": "lootura-es-ok-diario"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 2
 }

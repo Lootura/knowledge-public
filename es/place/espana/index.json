@@ -8,35 +8,15 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/espana/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/espana/index.json",
   "description": "Sigue la actividad de España en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-11T13:13:30.845Z",
+  "updatedAt": "2026-07-11T16:54:54.992Z",
   "aliases": [
     "Estado español",
     "Spain"
   ],
   "changes": [
     {
-      "title": "De 120.000 casas en Madrid a ninguna en Soria: así se distribuye el déficit de vivienda en España",
-      "summary": "Nuria S. tiene 31 años, trabaja como enfermera en el Hospital Gregorio Marañón de Madrid y comparte piso porque asumir el alquiler ella sola consumiría casi la mitad de su sueldo. A más de 200 kilómetros, Julián L. conserva junto a sus hermanos la casa de sus padres en un pueblo de Soria. Lleva años vacía . Nadie quier.",
-      "date": "2026-07-11"
-    },
-    {
       "title": "Discovered by Atlas",
       "summary": "España first entered the public knowledge record with source-backed evidence.",
-      "date": "2026-07-11"
-    },
-    {
-      "title": "La mejor playa de Europa está en España: más de tres kilómetros de costa y arena fina",
-      "summary": "Las playas europeas son destinos ideales para relajarse, descansar y disfrutar de paisajes idílicos. Marcados en gran parte por el mar Mediterráneo, el continente tiene un total de 112.000 kilómetros de costa.La plataforma de viajes Omio ha publicado su ránking anual de las mejores playas de Europa para 2026. Lo que pu.",
-      "date": "2026-07-11"
-    },
-    {
-      "title": "Disminuye la cantidad de gas que España exporta a Marruecos a través del gasoducto del Magreb",
-      "summary": "Desde 2022, Rabat compra gas natural licuado en los mercados internacionales, lo regasifica en terminales españolas y luego lo transporta a su territorio.",
-      "date": "2026-07-11"
-    },
-    {
-      "title": "Feijóo pide prepararse para un verano \"muy complicado\" de incendios mientras Bolaños reivindica la \"cooperación\"",
-      "summary": "Los incendios que están poniendo en jaque a los distintos servicios de extinción en casi toda España han centrado este sábado el debate político. El líder de la oposición, Alberto Núñez Feijóo , ha pedido más preparación a las administraciones ante los fuegos, mientras que uno de los ministros fuertes del Gobierno, Fél.",
       "date": "2026-07-11"
     },
     {
@@ -60,35 +40,22 @@
       "date": "2026-07-11"
     },
     {
-      "title": "Lluvia de estrellas en el España-Bélgica: de Brad Pitt, Bardem y Penélope Cruz a Pete Sampras",
-      "summary": "Noel Gallagher, de Oasis, el actor Timothée Chalamet y el jugador de la NBA DeMar DeRozan también están en las gradas.",
-      "date": "2026-07-10"
+      "title": "España va de otra cosa y la sensación es desconcertante",
+      "summary": "Me recuerda Bárbara Arena uno de los momentos definitorios de Carmina Ordóñez , diva de divas. En uno de esos platós de televisión a los que la Ordóñez iba a llevárselo crudo, Karmele Marchante se enzarza con ella: “Es que yo, Carmen, nunca te vi trabajando”, le suelta. Y Carmina, abofeteándose el pelo: “Ni me verás”.",
+      "date": "2026-07-11"
+    },
+    {
+      "title": "¿Por qué los estadounidenses están huyendo de su país? \"El sueño americano ya no existe allí, estamos buscando una vida mejor en España\"",
+      "summary": "El ideal que durante siglos definió a Estados Unidos como la tierra de las oportunidades , donde el esfuerzo personal garantizaba el acceso a una vivienda propia y la formación de una familia sin hipotecar el futuro, se desmorona ante la realidad económica actual . Según analizan diversos testimonios, el coste de la pr.",
+      "date": "2026-07-11"
     }
   ],
   "sources": [
     {
-      "title": "Feijóo pide prepararse para un verano \"muy complicado\" de incendios mientras Bolaños reivindica la \"cooperación\"",
-      "url": "https://www.20minutos.es/nacional/feijoo-pide-prepararse-verano-muy-complicado-incendios-mientras-bolanos-reivindica-cooperacion-almeria_7013487_0.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-11T12:13:13.000Z",
-      "sourceId": "lootura-es-20minutos"
-    },
-    {
-      "title": "La mejor playa de Europa está en España: más de tres kilómetros de costa y arena fina",
-      "url": "https://www.abc.es/viajar/playas/mejor-playa-europa-espana-arena-fina-dorada-20260711165234-nt.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-11T09:13:12.000Z",
+      "title": "La brutal caída de Bezzecchi pone patas arriba el Mundial de MotoGP",
+      "url": "https://www.abc.es/deportes/motos/brutal-caida-bezzecchi-pone-patas-arriba-mundial-20260711153417-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-11T14:11:24.000Z",
       "sourceId": "lootura-es-abc"
-    },
-    {
-      "title": "De 120.000 casas en Madrid a ninguna en Soria: así se distribuye el déficit de vivienda en España",
-      "url": "https://elpais.com/economia/vivienda/2026-07-11/de-120000-casas-en-madrid-a-ninguna-en-soria-asi-se-distribuye-el-deficit-de-vivienda-en-espana.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-11T03:30:01.000Z",
-      "sourceId": "lootura-es-cinco-dias"
-    },
-    {
-      "title": "Lluvia de estrellas en el España-Bélgica: de Brad Pitt, Bardem y Penélope Cruz a Pete Sampras",
-      "url": "https://www.elcorreo.com/deportes/futbol/mundial/lluvia-estrellas-espanabelgica-brad-pitt-bardem-penelope-20260710184948-ntrc_amp.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-10T16:49:49.000Z",
-      "sourceId": "lootura-es-el-correo"
     },
     {
       "title": "Un Óscar para Lamine, dos buenos presagios y un aviso: \"Si alguien puede ir con seguridad contra Francia, somos nosotros\"",
@@ -97,10 +64,10 @@
       "sourceId": "lootura-es-el-mundo"
     },
     {
-      "title": "El incendio que cambió la lucha contra el fuego y creó la UME: \"Hemos tocado techo en extinción pero falta cultura de riesgo\"",
-      "url": "https://www.elmundo.es/espana/2026/07/11/6a514176e9cf4a3e1d8b4583.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-10T22:19:51.000Z",
-      "sourceId": "lootura-es-el-mundo"
+      "title": "España va de otra cosa y la sensación es desconcertante",
+      "url": "https://elpais.com/deportes/mundial-futbol/2026-07-11/espana-va-de-otra-cosa-y-la-sensacion-es-desconcertante.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-11T13:25:44.000Z",
+      "sourceId": "lootura-es-el-pais"
     },
     {
       "title": "El antes y después del incendio de Almería, con imágenes de satélite",
@@ -109,9 +76,9 @@
       "sourceId": "lootura-es-eldiario-es"
     },
     {
-      "title": "Disminuye la cantidad de gas que España exporta a Marruecos a través del gasoducto del Magreb",
-      "url": "https://www.larazon.es/economia/disminuye-cantidad-gas-que-espana-exporta-marruecos-traves-gasoducto-magreb_202607116a520b09772f745d2c411224.html?outputType=amp&utm_source=lootura.com",
-      "publishedAt": "2026-07-11T09:21:13.000Z",
+      "title": "¿Por qué los estadounidenses están huyendo de su país? \"El sueño americano ya no existe allí, estamos buscando una vida mejor en España\"",
+      "url": "https://www.larazon.es/sociedad/que-estadounidenses-estan-huyendo-pais-sueno-americano-existe-alli-estamos-buscando-vida-mejor-espana-b50m_202607116a526fe0c0b5fb431c4ecdc4.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-11T16:31:28.000Z",
       "sourceId": "lootura-es-la-razon"
     },
     {
@@ -127,5 +94,5 @@
       "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 10
+  "evidenceCount": 6
 }

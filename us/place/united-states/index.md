@@ -3,7 +3,7 @@
 > Follow United States, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-11T13:13:51.228Z
+- Updated: 2026-07-11T16:55:14.081Z
 - Canonical: https://atlas.lootura.com/us/place/united-states
 
 ## Recent changes
@@ -38,45 +38,45 @@ U.S. forces hit more than 170 targets, including air defense systems, drone and 
 
 Date: 2026-07-11
 
-### Trump threatens to 'decimate' Iran if it tries to kill him, as Treasury sanctions alleged Iranian financier
-
-Trump says 1,000 missiles are "locked and loaded" and will hit Iran if it carries out its threats to assassinate the U.S. president.
-
-Date: 2026-07-11
-
-### DNA technology leads to arrest in 1988 killing of Orlando woman after nearly four decades
-
-A North Carolina man has been charged in the 1988 killing of an Orlando, Florida, woman after advances in DNA technology helped investigators identify a suspect nearly four decades after the case went cold , police said. The Orlando Police Department announced Thursday that Willie J. Carpenter was arrested by the U.S.
-
-Date: 2026-07-11
-
-### Taylor Hicks admits life after winning 'American Idol' was 'a lot tougher than it seems'
-
-Winning " American Idol " made Taylor Hicks an overnight star, but the singer says life after the confetti fell wasn't nearly as glamorous as many fans imagined. Nearly two decades after capturing America's vote in 2006, Hicks reflected on the realities of sudden fame, revealing the biggest misconception about winning.
-
-Date: 2026-07-11
-
 ### Political scientist Dominic Tierney on why the U.S. gets trapped in conflicts like Iran
 
 NPR's Scott Simon speaks with Swarthmore College political science professor Dominic Tierney about the U.S.-Iran war and other conflicts that have left the U.S. in drawn-out entanglements.
 
 Date: 2026-07-11
 
-### America’s Homegrown-Parasite Problem
+### An American Politician is Blocked by Israeli Settlers in the West Bank
 
-The other night, I found myself in the unenviable position of trying to cook a salad. And I mean cook a salad: I spread fresh, delicious-looking gem lettuce in a pan and watched it wilt away into a sad, heated blob. America appears to be in the midst of an outbreak of—I’m sorry, but there’s no better way to say this—ex.
+Representative Ro Khanna was barred from leaving for 90 minutes. Where past U.S. leaders toured the region to show support for Israel, today’s Democratic presidential aspirants are going to bolster their credentials as critics.
+
+Date: 2026-07-11
+
+### U.S. Citizen Tests Positive for Ebola in Democratic Republic of Congo
+
+The American, who works for the humanitarian organization Samaritan’s Purse, is the second to be infected in an outbreak that continues to spread.
+
+Date: 2026-07-11
+
+### Trump warns Iran "missiles are locked and loaded" if they attempt assassination
+
+President Trump threatened to "decimate and destroy" Iran if they try to assassinate him. This comes as the U.S. and Tehran continue negotiations. Here's what to know about where things stand.
+
+Date: 2026-07-11
+
+### House Democrat Ro Khanna says he was detained by armed Israeli settlers in West Bank
+
+Rep. Ro Khanna, D-Calif., claims to have been detained by Israeli settlers armed with U.S.-made firearms while visiting the West Bank . Khanna and his team were surrounded by a group of West Bank settlers near the Palestinian village of Khirbet Zanuta on Wednesday, his office told The New York Times. The settlers were.
 
 Date: 2026-07-11
 
 ## Sources
 
-- [Former Afghan general charged with drug and firearm offenses in U.S.](https://www.cbsnews.com/news/afghan-general-charged-us-abdul-zahir-qadeer/?utm_source=lootura.com) — 2026-07-10T20:38:41.000Z
+- [Trump warns Iran "missiles are locked and loaded" if they attempt assassination](https://www.cbsnews.com/video/trump-warns-iran-missiles-are-locked-and-loaded-if-they-attempt-assassination/?utm_source=lootura.com) — 2026-07-11T16:18:02.000Z
 - ["Face the Nation with Margaret Brennan" guests for July 12, 2026](https://www.cbsnews.com/news/face-the-nation-with-margaret-brennan-guests-july-12-2026/?utm_source=lootura.com) — 2026-07-11T00:55:36.000Z
-- [Household staff can earn up to $300,000 working for America](https://www.cbsnews.com/news/household-staff-salaries-record-highs/?utm_source=lootura.com) — 2026-07-10T20:53:13.000Z
-- [Trump threatens to 'decimate' Iran if it tries to kill him, as Treasury sanctions alleged Iranian financier](https://www.cnbc.com/2026/07/11/trump-threat.html?utm_source=lootura.com) — 2026-07-11T12:51:50.000Z
-- [DNA technology leads to arrest in 1988 killing of Orlando woman after nearly four decades](https://www.foxnews.com/us/dna-technology-leads-arrest-1988-killing-orlando-woman-nearly-four-decades?utm_source=lootura.com) — 2026-07-11T13:00:10.000Z
-- [Taylor Hicks admits life after winning 'American Idol' was 'a lot tougher than it seems'](https://www.foxnews.com/entertainment/taylor-hicks-admits-life-after-winning-american-idol-a-lot-tougher-than-seems?utm_source=lootura.com) — 2026-07-11T13:00:15.000Z
+- [House Democrat Ro Khanna says he was detained by armed Israeli settlers in West Bank](https://www.foxnews.com/politics/house-democrat-ro-khanna-detained-armed-israeli-settlers-west-bank?utm_source=lootura.com) — 2026-07-11T16:02:43.000Z
+- [Harvard astronomer tapped to lead White House UFO council says US government 'baffled by what they are seeing'](https://www.foxnews.com/politics/harvard-astronomer-tapped-lead-white-house-ufo-council-says-us-government-baffled-what-they-are-seeing?utm_source=lootura.com) — 2026-07-11T16:44:17.000Z
+- [The biggest steam locomotive is whistle-stopping across the U.S.](https://www.npr.org/2026/07/11/nx-s1-5872656/big-boy-locomotive-steam?utm_source=lootura.com) — 2026-07-11T15:14:42.000Z
 - [Political scientist Dominic Tierney on why the U.S. gets trapped in conflicts like Iran](https://www.npr.org/2026/07/11/nx-s1-5886190/political-scientist-dominic-tierney-on-why-the-u-s-gets-trapped-in-conflicts-like-iran?utm_source=lootura.com) — 2026-07-11T11:43:42.000Z
 - [Trump threatens Iran after Ayatollah Ali Khamenei's funeral saw calls for his killing](https://www.npr.org/2026/07/11/nx-s1-5890029/trump-threatens-iran?utm_source=lootura.com) — 2026-07-11T06:34:09.000Z
-- [Dry winter leaves farmers along Colorado River facing greater water shortages](https://www.pbs.org/newshour/show/dry-winter-leaves-farmers-along-colorado-river-facing-greater-water-shortages?utm_source=lootura.com) — 2026-07-10T22:35:24.000Z
-- [America’s Homegrown-Parasite Problem](https://www.theatlantic.com/health/2026/07/cyclosporiasis-parasite-diarrhea-outbreak/687888/?utm_source=lootura.com) — 2026-07-11T13:00:00.000Z
+- [U.S. citizen working for humanitarian organization in Congo tests positive for Ebola](https://www.pbs.org/newshour/world/u-s-citizen-working-for-humanitarian-organization-in-congo-tests-positive-for-ebola?utm_source=lootura.com) — 2026-07-11T15:36:11.000Z
+- [Trump and Iran's supreme leader trade threats as mediators try to save their crumbling deal](https://www.pbs.org/newshour/world/trump-and-irans-supreme-leader-trade-threats-as-mediators-try-to-save-their-crumbling-deal?utm_source=lootura.com) — 2026-07-11T16:01:44.000Z
+- [Trump Says Negotiations With Iran Will Continue as U.S. Ramps Up Strikes](https://www.nytimes.com/2026/07/10/us/politics/iran-war-escalation.html?utm_source=lootura.com) — 2026-07-11T03:48:02.000Z

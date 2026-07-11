@@ -3,7 +3,7 @@
 > Sigue la actividad de País Vasco en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-11T13:13:30.845Z
+- Actualizado: 2026-07-11T16:54:54.992Z
 - Canonical: https://atlas.lootura.com/es/place/pais-vasco
 
 ## Cambios recientes

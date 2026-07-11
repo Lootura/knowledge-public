@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/portugal/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/portugal/index.json",
   "description": "Sigue la actividad de Portugal en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-11T13:13:30.845Z",
+  "updatedAt": "2026-07-11T16:54:54.992Z",
   "aliases": [],
   "changes": [
     {
@@ -22,17 +22,23 @@
       "date": "2026-07-11"
     },
     {
-      "title": "La herencia de Bonnie Tyler: su patrimonio de 40 millones quedará en manos de su marido",
-      "summary": "Bonnie Tyler, la cantante que dio voz a unos de los temas más conocidos del mundo de la música, 'Total Eclipse of the Heart', falleció de forma inesperada en la noche del miércoles tras ser hospitalizada el pasado mayo en un hospital de Faro, al sur de Portugal.Tras ser sometida a una cirugía intestinal, permaneció en.",
+      "title": "La \"bola de fuego\" que calcinó a decenas de personas en la 'carretera de la muerte' en un incendio en Portugal en 2017",
+      "summary": "Un total de 64 personas perdieron la vida en un episodio trágico con algunos paralelismos con el drama actual en Almería Leer.",
       "date": "2026-07-11"
     }
   ],
   "sources": [
     {
-      "title": "La herencia de Bonnie Tyler: su patrimonio de 40 millones quedará en manos de su marido",
-      "url": "https://www.abc.es/gente/herencia-bonnie-tyler-patrimonio-millones-quedara-manos-20260711134818-nt.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-11T11:51:23.000Z",
-      "sourceId": "lootura-es-abc"
+      "title": "Merino obra milagros y mete a España en semifinales",
+      "url": "https://www.elcorreo.com/deportes/futbol/mundial/espana-belgica-cuartos-final-mundial-2026-20260710231159-ntrc_amp.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-10T21:11:59.000Z",
+      "sourceId": "lootura-es-el-correo"
+    },
+    {
+      "title": "La \"bola de fuego\" que calcinó a decenas de personas en la 'carretera de la muerte' en un incendio en Portugal en 2017",
+      "url": "https://www.elmundo.es/internacional/2026/07/11/6a52567a21efa08c568b4599.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-11T14:49:56.000Z",
+      "sourceId": "lootura-es-el-mundo"
     },
     {
       "title": "Morten Hjulmand ficha por el Atlético de Madrid hasta 2031",
