@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-07-11T13:18:13.852Z",
+  "generatedAt": "2026-07-11T14:37:18.125Z",
   "latestIngest": {
-    "id": "2026-07-11T13-15-51-ingest",
+    "id": "2026-07-11T14-35-16-ingest",
     "mode": "ingest",
-    "startedAt": "2026-07-11T13:15:49.816Z",
-    "finishedAt": "2026-07-11T13:15:51.512Z",
+    "startedAt": "2026-07-11T14:35:15.820Z",
+    "finishedAt": "2026-07-11T14:35:16.734Z",
     "sourcesChecked": 32,
     "sourceItemsFound": 240,
     "sourceItemsProcessed": 240,
@@ -19,16 +19,16 @@
     ]
   },
   "latestBuild": {
-    "id": "2026-07-11T13-16-35-build",
+    "id": "2026-07-11T14-35-52-build",
     "mode": "build",
-    "startedAt": "2026-07-11T13:15:52.339Z",
-    "finishedAt": "2026-07-11T13:16:35.225Z",
+    "startedAt": "2026-07-11T14:35:17.532Z",
+    "finishedAt": "2026-07-11T14:35:52.658Z",
     "sourcesChecked": 32,
     "sourceItemsFound": 240,
     "sourceItemsProcessed": 240,
-    "validatedEventsCreated": 78,
-    "entitiesCreated": 330,
-    "storiesCreated": 78,
+    "validatedEventsCreated": 0,
+    "entitiesCreated": 328,
+    "storiesCreated": 0,
     "skippedItems": 0,
     "errors": 10,
     "notes": [
@@ -70,9 +70,9 @@
   ],
   "entries": [
     {
-      "id": "2026-07-11T13-16-35-build-build",
+      "id": "2026-07-11T14-35-52-build-build",
       "kind": "build",
-      "date": "2026-07-11T13:16:35.225Z",
+      "date": "2026-07-11T14:35:52.658Z",
       "title": "Build de conocimiento completada",
       "summary": "102 cambios validados y 120 entradas de cronología se generaron con evidencia respaldada por fuentes.",
       "status": "warning",
@@ -84,7 +84,7 @@
     {
       "id": "entity-index-reviewed",
       "kind": "review",
-      "date": "2026-07-11T13:16:35.225Z",
+      "date": "2026-07-11T14:35:52.658Z",
       "title": "Índice de entidades revisado",
       "summary": "24 entidades son públicas. 9 quedan internas mientras se revisan tipado, calidad y duplicados.",
       "status": "ok",
@@ -96,7 +96,7 @@
     {
       "id": "evidence-trail-refreshed",
       "kind": "evidence",
-      "date": "2026-07-11T13:16:35.225Z",
+      "date": "2026-07-11T14:35:52.658Z",
       "title": "Rastro de evidencia actualizado",
       "summary": "120 registros de evidencia están disponibles para cambios públicos e internos. No se copian cuerpos de artículos.",
       "status": "ok",
@@ -106,9 +106,9 @@
       ]
     },
     {
-      "id": "2026-07-11T13-15-51-ingest-ingest",
+      "id": "2026-07-11T14-35-16-ingest-ingest",
       "kind": "ingest",
-      "date": "2026-07-11T13:15:51.512Z",
+      "date": "2026-07-11T14:35:16.734Z",
       "title": "Ingesta de fuentes completada",
       "summary": "120 señales se importaron desde 14 fuentes para este atlas.",
       "status": "ok",
