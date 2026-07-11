@@ -45,14 +45,14 @@ Top updated entities (recent)
 - Iran: https://atlas.lootura.com/us/place/iran
 - Maine: https://atlas.lootura.com/us/place/maine
 - Maine Senate: https://atlas.lootura.com/us/organization/maine-senate
-- Supreme Court: https://atlas.lootura.com/us/organization/supreme-court
 - United States: https://atlas.lootura.com/us/place/united-states
 - Barcelona: https://atlas.lootura.com/es/place/barcelona
 - Belgium: https://atlas.lootura.com/es/place/belgium
 - Donald Trump: https://atlas.lootura.com/es/person/donald-trump
 - España: https://atlas.lootura.com/es/place/espana
+- Iran: https://atlas.lootura.com/es/place/iran
+- Lamine Yamal: https://atlas.lootura.com/es/person/lamine-yamal
 - Madrid: https://atlas.lootura.com/es/place/madrid
-- NATO: https://atlas.lootura.com/es/organization/nato
 - Partido Popular: https://atlas.lootura.com/es/organization/partido-popular
 - Pedro Sánchez: https://atlas.lootura.com/es/person/pedro-sanchez
 - Portugal: https://atlas.lootura.com/es/place/portugal
