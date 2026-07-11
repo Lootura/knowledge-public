@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-11T09:53:28.785Z",
+  "generatedAt": "2026-07-11T10:04:45.051Z",
   "latestIngest": {
     "id": "2026-07-11T09-38-23-ingest",
     "mode": "ingest",
@@ -19,18 +19,18 @@
     ]
   },
   "latestBuild": {
-    "id": "2026-07-11T09-38-35-build",
+    "id": "2026-07-11T09-57-52-build",
     "mode": "build",
-    "startedAt": "2026-07-11T09:38:24.118Z",
-    "finishedAt": "2026-07-11T09:38:35.222Z",
+    "startedAt": "2026-07-11T09:57:49.670Z",
+    "finishedAt": "2026-07-11T09:57:52.255Z",
     "sourcesChecked": 33,
     "sourceItemsFound": 240,
     "sourceItemsProcessed": 240,
-    "validatedEventsCreated": 58,
-    "entitiesCreated": 308,
-    "storiesCreated": 58,
+    "validatedEventsCreated": 0,
+    "entitiesCreated": 302,
+    "storiesCreated": 0,
     "skippedItems": 0,
-    "errors": 20,
+    "errors": 16,
     "notes": [
       "Deterministic MVP pipeline. No article bodies were copied.",
       "Entity images are cached locally before public pages use them."
@@ -70,9 +70,9 @@
   ],
   "entries": [
     {
-      "id": "2026-07-11T09-38-35-build-build",
+      "id": "2026-07-11T09-57-52-build-build",
       "kind": "build",
-      "date": "2026-07-11T09:38:35.222Z",
+      "date": "2026-07-11T09:57:52.255Z",
       "title": "Knowledge build completed",
       "summary": "107 validated changes and 120 timeline entries were generated from source-backed evidence.",
       "status": "warning",
@@ -84,7 +84,7 @@
     {
       "id": "entity-index-reviewed",
       "kind": "review",
-      "date": "2026-07-11T09:38:35.222Z",
+      "date": "2026-07-11T09:57:52.255Z",
       "title": "Entity index reviewed",
       "summary": "23 entities are public. 9 remain internal while typing, quality and duplication are reviewed.",
       "status": "ok",
@@ -96,7 +96,7 @@
     {
       "id": "evidence-trail-refreshed",
       "kind": "evidence",
-      "date": "2026-07-11T09:38:35.222Z",
+      "date": "2026-07-11T09:57:52.255Z",
       "title": "Evidence trail refreshed",
       "summary": "120 evidence records are available for public and internal knowledge changes. Article bodies are not copied.",
       "status": "ok",
