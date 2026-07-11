@@ -37,6 +37,7 @@ Lootura adds a lab for seeing which signals from one edition are also being cove
 
 Top updated entities (recent)
 - Artificial intelligence: https://atlas.lootura.com/us/topic/artificial-intelligence
+- Canada: https://atlas.lootura.com/us/place/canada
 - Charlie Kirk: https://atlas.lootura.com/us/person/charlie-kirk
 - Democratic Party: https://atlas.lootura.com/us/organization/democratic-party
 - Donald Trump: https://atlas.lootura.com/us/person/donald-trump
@@ -46,11 +47,10 @@ Top updated entities (recent)
 - Maine Senate: https://atlas.lootura.com/us/organization/maine-senate
 - Supreme Court: https://atlas.lootura.com/us/organization/supreme-court
 - United States: https://atlas.lootura.com/us/place/united-states
+- Barcelona: https://atlas.lootura.com/es/place/barcelona
 - Belgium: https://atlas.lootura.com/es/place/belgium
-- Correos: https://atlas.lootura.com/es/organization/correos
 - Donald Trump: https://atlas.lootura.com/es/person/donald-trump
 - España: https://atlas.lootura.com/es/place/espana
-- Iran: https://atlas.lootura.com/es/place/iran
 - Madrid: https://atlas.lootura.com/es/place/madrid
 - NATO: https://atlas.lootura.com/es/organization/nato
 - Partido Popular: https://atlas.lootura.com/es/organization/partido-popular

@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-07-11T04:41:15.953Z",
+  "generatedAt": "2026-07-11T06:15:13.428Z",
   "latestIngest": {
-    "id": "2026-07-11T04-39-45-ingest",
+    "id": "2026-07-11T06-13-20-ingest",
     "mode": "ingest",
-    "startedAt": "2026-07-11T04:39:43.801Z",
-    "finishedAt": "2026-07-11T04:39:45.878Z",
-    "sourcesChecked": 28,
+    "startedAt": "2026-07-11T06:13:19.594Z",
+    "finishedAt": "2026-07-11T06:13:20.731Z",
+    "sourcesChecked": 31,
     "sourceItemsFound": 240,
     "sourceItemsProcessed": 240,
     "validatedEventsCreated": 0,
@@ -19,18 +19,18 @@
     ]
   },
   "latestBuild": {
-    "id": "2026-07-11T04-39-49-build",
+    "id": "2026-07-11T06-13-45-build",
     "mode": "build",
-    "startedAt": "2026-07-11T04:39:46.661Z",
-    "finishedAt": "2026-07-11T04:39:49.496Z",
-    "sourcesChecked": 28,
+    "startedAt": "2026-07-11T06:13:21.658Z",
+    "finishedAt": "2026-07-11T06:13:45.301Z",
+    "sourcesChecked": 31,
     "sourceItemsFound": 240,
     "sourceItemsProcessed": 240,
-    "validatedEventsCreated": 188,
-    "entitiesCreated": 356,
-    "storiesCreated": 188,
+    "validatedEventsCreated": 209,
+    "entitiesCreated": 353,
+    "storiesCreated": 209,
     "skippedItems": 0,
-    "errors": 20,
+    "errors": 21,
     "notes": [
       "Deterministic MVP pipeline. No article bodies were copied.",
       "Entity images are cached locally before public pages use them."
@@ -44,12 +44,12 @@
     },
     {
       "label": "validated changes",
-      "value": 100,
+      "value": 106,
       "detail": "built for this atlas"
     },
     {
       "label": "source records",
-      "value": 14,
+      "value": 15,
       "detail": "enabled sources"
     },
     {
@@ -59,34 +59,34 @@
     },
     {
       "label": "public entities",
-      "value": 10,
+      "value": 11,
       "detail": "visible in the atlas"
     },
     {
       "label": "internal candidates",
-      "value": 9,
+      "value": 8,
       "detail": "held for quality review"
     }
   ],
   "entries": [
     {
-      "id": "2026-07-11T04-39-49-build-build",
+      "id": "2026-07-11T06-13-45-build-build",
       "kind": "build",
-      "date": "2026-07-11T04:39:49.496Z",
+      "date": "2026-07-11T06:13:45.301Z",
       "title": "Knowledge build completed",
-      "summary": "100 validated changes and 120 timeline entries were generated from source-backed evidence.",
+      "summary": "106 validated changes and 120 timeline entries were generated from source-backed evidence.",
       "status": "warning",
       "meta": [
         "19 candidates reviewed",
-        "100 records built"
+        "106 records built"
       ]
     },
     {
       "id": "entity-index-reviewed",
       "kind": "review",
-      "date": "2026-07-11T04:39:49.496Z",
+      "date": "2026-07-11T06:13:45.301Z",
       "title": "Entity index reviewed",
-      "summary": "10 entities are public. 9 remain internal while typing, quality and duplication are reviewed.",
+      "summary": "11 entities are public. 8 remain internal while typing, quality and duplication are reviewed.",
       "status": "ok",
       "meta": [
         "0 not published after cleanup",
@@ -96,21 +96,21 @@
     {
       "id": "evidence-trail-refreshed",
       "kind": "evidence",
-      "date": "2026-07-11T04:39:49.496Z",
+      "date": "2026-07-11T06:13:45.301Z",
       "title": "Evidence trail refreshed",
       "summary": "120 evidence records are available for public and internal knowledge changes. Article bodies are not copied.",
       "status": "ok",
       "meta": [
         "120 source items",
-        "100 validated events"
+        "106 validated events"
       ]
     },
     {
-      "id": "2026-07-11T04-39-45-ingest-ingest",
+      "id": "2026-07-11T06-13-20-ingest-ingest",
       "kind": "ingest",
-      "date": "2026-07-11T04:39:45.878Z",
+      "date": "2026-07-11T06:13:20.731Z",
       "title": "Source ingest completed",
-      "summary": "120 source items were imported from 14 sources for this atlas.",
+      "summary": "120 source items were imported from 15 sources for this atlas.",
       "status": "ok",
       "meta": [
         "120 found",
@@ -119,8 +119,8 @@
       ]
     }
   ],
-  "publicEntities": 10,
-  "internalCandidates": 9,
+  "publicEntities": 11,
+  "internalCandidates": 8,
   "reviewedCandidates": 19,
   "notPublishedAfterReview": 0
 }
