@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/madrid/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/madrid/index.json",
   "description": "Sigue la actividad de Madrid en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-11T16:54:54.992Z",
+  "updatedAt": "2026-07-11T20:43:32.351Z",
   "aliases": [],
   "changes": [
     {
@@ -17,33 +17,13 @@
       "date": "2026-07-11"
     },
     {
-      "title": "Morten Hjulmand ficha por el Atlético de Madrid hasta 2031",
-      "summary": "El ansiado pivote. Morten Hjulmand, de 27 años, centrocampista danés que jugaba en el Sporting de Portugal, es nuevo jugador del Atlético de Madrid para.",
-      "date": "2026-07-11"
-    },
-    {
-      "title": "La joya escondida a una hora y media de Madrid para escapar del sofocante calor y del ruido",
-      "summary": "El sofocante calor está causando estragos a los españoles . Y lo que aún no son afortunados para estar de vacaciones hay algunas alternativas para huir de las altas temperaturas y del estrés de las grandes ciudades durante un fin de semana. Muchos son los rincones de nuestro país que ofrecen estas alternativas, pero el.",
-      "date": "2026-07-11"
-    },
-    {
       "title": "Enma López pasa el corte de los avales y se enfrentará a Reyes Maroto en primarias",
       "summary": "La candidatura del PSOE de Madrid para la Alcaldía de la capital no está resultando tan sencilla como la de la Comunidad de Madrid, donde Óscar López ya ha sido proclamado este sábado cabeza de lista para enfrentarse a Isabel Díaz Ayuso en las urnas al ser el único precandidato que ha logrado los avales suficientes. Pa.",
       "date": "2026-07-11"
     },
     {
-      "title": "Enma López logra los avales necesarios y competirá contra Reyes Maroto para ser candidata del PSOE en Madrid",
-      "summary": "El PSOE de Madrid ha despejado este sábado sus dos grandes incógnitas de cara a las elecciones de 2027, y lo ha hecho con dos escenarios diametralmente opuestos. Mientras que a nivel regional Ferraz ha coronado sin sorpresas ni votaciones al ministro Óscar López como candidato a la Puerta del Sol, la carrera por la Alc.",
-      "date": "2026-07-11"
-    },
-    {
       "title": "Óscar López será el candidato del PSOE a la Comunidad de Madrid tras no lograr avales su rival en las primarias",
       "summary": "El secretario general del PSOE de Madrid, Óscar López , será el candidato socialista a la Presidencia de la Comunidad de Madrid en las próximas elecciones autonómicas . No habrá votación entre la militancia después de que la única precandidatura alternativa, encabezada por la abogada y militante de base Silvia López Qu.",
-      "date": "2026-07-11"
-    },
-    {
-      "title": "Enma López mantiene el pulso a Ferraz y disputará las primarias del PSOE de Madrid a Reyes Maroto tras reunir los avales",
-      "summary": "Óscar López despeja su camino al ser el único en lograr los apoyos necesarios a nivel autonómico y será el candidato a la Comunidad frente a Ayuso Leer.",
       "date": "2026-07-11"
     },
     {
@@ -55,20 +35,30 @@
       "title": "Óscar López se enfrentará a Ayuso en las elecciones de la Comunidad de Madrid en 2027",
       "summary": "El secretario general del PSOE de Madrid y ministro para la Transformación Digital y de la Función Pública, Óscar López , se batirá con la presidenta de la Comunidad, Isabel Díaz Ayuso (PP), en mayo de 2027 tras proclamarse candidato socialista al no haber conseguido su rival en primarias, Silvia López Quivira, reunir.",
       "date": "2026-07-11"
+    },
+    {
+      "title": "Madrid supera ya las 150 muertes atribuidas al calor en lo que va de verano",
+      "summary": "La Comunidad de Madrid acumula ya más de un mes combatiendo las olas de calor que azotan a la región una tras otra. Unas altas temperaturas a las que se le atribuyen, en el mes de junio y los primeros diez días de julio, en torno a 170 muertes, según las estimaciones del Sistema de Monitorización de la Mortalidad Diari.",
+      "date": "2026-07-11"
+    },
+    {
+      "title": "Ignacio Dancausa logra el aval de Nuevas Generaciones del PP para ser su presidente",
+      "summary": "A sus 25 años, Ignacio Dancausa se ha convertido en el nuevo líder de Nuevas Generaciones (NNGG) del PP, puesto al que llega con la confianza del líder del partido, Alberto Núñez Feijóo , después de cuatro años al frente de la organización juvenil en Madrid, donde llegó avalado por la presidenta Isabel Díaz Ayuso. Danc.",
+      "date": "2026-07-11"
     }
   ],
   "sources": [
     {
-      "title": "Enma López pasa el corte de los avales y se enfrentará a Reyes Maroto en primarias",
-      "url": "https://www.abc.es/espana/madrid/enma-lopez-pasa-corte-avales-enfrentara-reyes-20260711155703-nt.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-11T14:50:01.000Z",
+      "title": "Madrid supera ya las 150 muertes atribuidas al calor en lo que va de verano",
+      "url": "https://www.abc.es/espana/madrid/madrid-supera-150-muertes-atribuidas-calor-verano-20260711193231-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-11T19:11:46.000Z",
       "sourceId": "lootura-es-abc"
     },
     {
-      "title": "Enma López logra los avales necesarios y competirá contra Reyes Maroto para ser candidata del PSOE en Madrid",
-      "url": "https://www.elconfidencial.com/espana/madrid/2026-07-11/lopez-ayuso-primarias-madrid-1tna-1tps_4388424/?utm_source=lootura.com",
-      "publishedAt": "2026-07-11T13:37:00.000Z",
-      "sourceId": "lootura-es-el-confidencial"
+      "title": "Enma López pasa el corte de los avales y se enfrentará a Reyes Maroto en primarias",
+      "url": "https://www.abc.es/espana/madrid/enma-lopez-pasa-corte-avales-enfrentara-reyes-20260711155703-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-11T18:40:34.000Z",
+      "sourceId": "lootura-es-abc"
     },
     {
       "title": "Óscar López será el candidato del PSOE a la Comunidad de Madrid tras no lograr avales su rival en las primarias",
@@ -77,27 +67,15 @@
       "sourceId": "lootura-es-el-independiente"
     },
     {
-      "title": "Enma López mantiene el pulso a Ferraz y disputará las primarias del PSOE de Madrid a Reyes Maroto tras reunir los avales",
-      "url": "https://www.elmundo.es/madrid/2026/07/11/6a520eb9e85eceae2b8b458a.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-11T14:29:34.000Z",
-      "sourceId": "lootura-es-el-mundo"
-    },
-    {
-      "title": "La joya escondida a una hora y media de Madrid para escapar del sofocante calor y del ruido",
-      "url": "https://www.larazon.es/castilla-y-leon/joya-escondida-hora-media-madrid-escapar-sofocante-calor-ruido_202607116a523e5fc0b5fb431c4e785f.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-11T13:00:15.000Z",
-      "sourceId": "lootura-es-la-razon"
+      "title": "Ignacio Dancausa logra el aval de Nuevas Generaciones del PP para ser su presidente",
+      "url": "https://theobjective.com/espana/politica/2026-07-11/ignacio-dancausa-presidente-nuevas-generaciones-pp/?utm_source=lootura.com",
+      "publishedAt": "2026-07-11T18:30:36.000Z",
+      "sourceId": "lootura-es-the-objective"
     },
     {
       "title": "El PSOE de Madrid irá a primarias: Enma López desafía a Maroto para enfrentarse a Almeida",
       "url": "https://theobjective.com/espana/2026-07-11/psoe-madrid-primarias-lopez-maroto-almeida/?utm_source=lootura.com",
       "publishedAt": "2026-07-11T14:57:02.000Z",
-      "sourceId": "lootura-es-the-objective"
-    },
-    {
-      "title": "Morten Hjulmand ficha por el Atlético de Madrid hasta 2031",
-      "url": "https://theobjective.com/deportes/futbol/2026-07-11/morten-hjulmand-atletico-madrid/?amp=&utm_source=lootura.com",
-      "publishedAt": "2026-07-11T09:20:06.000Z",
       "sourceId": "lootura-es-the-objective"
     },
     {
@@ -107,5 +85,5 @@
       "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 8
+  "evidenceCount": 6
 }

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/espana/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/espana/index.json",
   "description": "Sigue la actividad de España en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-11T16:54:54.992Z",
+  "updatedAt": "2026-07-11T20:43:32.351Z",
   "aliases": [
     "Estado español",
     "Spain"
@@ -30,11 +30,6 @@
       "date": "2026-07-11"
     },
     {
-      "title": "Rocío Crusset y Charlie Schein se vuelven a dar el «sí, quiero» y celebrarán una segunda boda en Ibiza",
-      "summary": "Cada vez es más habitual celebrar una boda íntima y oficial para, tiempo después, organizar una gran fiesta rodeados de familiares y amigos. Una fórmula que poco a poco se ha ido instalando también en España y a la que ahora se ha sumado Rocío Crusset. Hace apenas unas semanas veíamos cómo la hija de Mariló Montero y C.",
-      "date": "2026-07-11"
-    },
-    {
       "title": "Mañueco arremete contra Sánchez y pide a los jóvenes implicarse «con fuerza» por España",
       "summary": "El presidente del PP en Castilla y León, Alfonso Fernández Mañueco , ha pedido este sábado a los jóvenes del Partido Popular que sean valientes, inconformistas y exigentes y ha hecho un llamamiento expreso a que se impliquen y se comprometan con España y a que lo hagan «con fuerza, con ganas y con ilusión». Alfonso Fer.",
       "date": "2026-07-11"
@@ -48,13 +43,45 @@
       "title": "¿Por qué los estadounidenses están huyendo de su país? \"El sueño americano ya no existe allí, estamos buscando una vida mejor en España\"",
       "summary": "El ideal que durante siglos definió a Estados Unidos como la tierra de las oportunidades , donde el esfuerzo personal garantizaba el acceso a una vivienda propia y la formación de una familia sin hipotecar el futuro, se desmorona ante la realidad económica actual . Según analizan diversos testimonios, el coste de la pr.",
       "date": "2026-07-11"
+    },
+    {
+      "title": "La Guardia Civil obtiene el perfil genético de los 12 muertos en el incendio de Los Gallardos",
+      "summary": "El departamento de Biología del servicio de Criminalística de la Guardia Civil ha obtenido ya el perfil genético de los doce fallecidos en el incendio de Los Gallardos (Almería) , si bien no ha sido posible la identificación de ninguna víctima debido a que sus familiares están viajando a España desde otros países para.",
+      "date": "2026-07-11"
+    },
+    {
+      "title": "El calor y fuerte tormentas ponen en aviso a media España en las próximas horas: provincias en alerta",
+      "summary": "El calor pone en aviso este domingo a la mitad de las comunidades autónomas de España , donde se esperan tormentas fuertes en el norte y en Galicia , según la predicción de la Agencia Estatal de Meteorología (Aemet). En concreto, la agencia registra avisos por tormentas en Asturias, Cantabria, Castilla y León, Castilla.",
+      "date": "2026-07-11"
+    },
+    {
+      "title": "España, imponente campeona de Europa sub-19",
+      "summary": "Los de Paco Gallardo ganan a Alemania (2-0) y suman el 13º título continental con pleno de victorias y 0 goles en contra.",
+      "date": "2026-07-11"
+    },
+    {
+      "title": "¿Por qué Extremadura gasta más por vecino en Sanidad y Educación pero las partidas tienen menos peso en el presupuesto?: La respuesta es la demografía",
+      "summary": "Las cuentas públicas de Extremadura esconden una compleja realidad matemática: aunque la región se sitúa a la cabeza de la inversión social en España, el peso relativo de estas partidas en su presupuesto global es inferior a la media nacional . Según el último informe de la Asociación Estatal de Directoras y Gerentes e.",
+      "date": "2026-07-11"
     }
   ],
   "sources": [
     {
-      "title": "La brutal caída de Bezzecchi pone patas arriba el Mundial de MotoGP",
-      "url": "https://www.abc.es/deportes/motos/brutal-caida-bezzecchi-pone-patas-arriba-mundial-20260711153417-nt.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-11T14:11:24.000Z",
+      "title": "La Guardia Civil obtiene el perfil genético de los 12 muertos en el incendio de Los Gallardos",
+      "url": "https://www.20minutos.es/andalucia/almeria/guardia-civil-obtiene-perfil-genetico-muertos-incendio-gallardos_7013564_0.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-11T20:08:24.000Z",
+      "sourceId": "lootura-es-20minutos"
+    },
+    {
+      "title": "El calor y fuerte tormentas ponen en aviso a media España en las próximas horas: provincias en alerta",
+      "url": "https://www.20minutos.es/nacional/calor-las-tormentas-fuertes-ponen-aviso-media-espana-las-proximas-horas-estas-son-las-provincias-alerta_7013554_0.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-11T19:07:14.000Z",
+      "sourceId": "lootura-es-20minutos"
+    },
+    {
+      "title": "España, imponente campeona de Europa sub-19",
+      "url": "https://www.abc.es/deportes/futbol/espana-domina-alemania-conquista-europeo-sub19-20260711215328-nt_amp.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-11T20:05:13.000Z",
       "sourceId": "lootura-es-abc"
     },
     {
@@ -82,17 +109,23 @@
       "sourceId": "lootura-es-la-razon"
     },
     {
-      "title": "Rocío Crusset y Charlie Schein se vuelven a dar el «sí, quiero» y celebrarán una segunda boda en Ibiza",
-      "url": "https://okdiario.com/cool/famosos/rocio-crusset-charlie-schein-vuelven-dar-si-quiero-celebraran-segunda-boda-ibiza-18976353?utm_source=lootura.com",
-      "publishedAt": "2026-07-11T12:51:38.000Z",
+      "title": "¿Por qué Extremadura gasta más por vecino en Sanidad y Educación pero las partidas tienen menos peso en el presupuesto?: La respuesta es la demografía",
+      "url": "https://www.larazon.es/extremadura/que-extremadura-gasta-mas-vecino-sanidad-educacion-pero-partidas-tienen-menos-peso-presupuesto-respuesta-demografia-b30m_202607116a52a644c48a78681b82da58.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-11T20:23:32.000Z",
+      "sourceId": "lootura-es-la-razon"
+    },
+    {
+      "title": "Sánchez no tiene vida privada",
+      "url": "https://okdiario.com/opinion/sanchez-no-tiene-vida-privada-18977529?utm_source=lootura.com",
+      "publishedAt": "2026-07-11T19:46:41.000Z",
       "sourceId": "lootura-es-ok-diario"
     },
     {
-      "title": "Mañueco arremete contra Sánchez y pide a los jóvenes implicarse «con fuerza» por España",
-      "url": "https://theobjective.com/espana/politica/2026-07-11/manueco-jovenes-sanchez-espana/?utm_source=lootura.com",
-      "publishedAt": "2026-07-11T11:44:40.000Z",
-      "sourceId": "lootura-es-the-objective"
+      "title": "La España de Thiago Pitarch se corona: ¡campeones del Europeo Sub-19!",
+      "url": "https://okdiario.com/deportes/espana-thiago-pitarch-corona-campeones-del-europeo-sub-19-18977579?utm_source=lootura.com",
+      "publishedAt": "2026-07-11T19:56:11.000Z",
+      "sourceId": "lootura-es-ok-diario"
     }
   ],
-  "evidenceCount": 6
+  "evidenceCount": 12
 }

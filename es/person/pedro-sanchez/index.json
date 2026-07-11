@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/pedro-sanchez/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/pedro-sanchez/index.json",
   "description": "Sigue la actividad de Pedro Sánchez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-11T16:54:54.992Z",
+  "updatedAt": "2026-07-11T20:43:32.351Z",
   "aliases": [
     "Sánchez"
   ],
@@ -27,9 +27,31 @@
       "title": "Pedro Sánchez visitará este lunes la zona del incendio de Los Gallardos",
       "summary": "El presidente del Gobierno, Pedro Sánchez, acudirá este lunes 13 de julio a Almería para visitar la zona del incendio en Los Gallardos que ha dejado hasta.",
       "date": "2026-07-11"
+    },
+    {
+      "title": "Pedro Sánchez aplaza al miércoles el acto de demolición de la Verja en La Línea por su visita el lunes al incendio de Almería",
+      "summary": "El presidente del Gobierno, Pedro Sánchez , ha aplazado al miércoles 15 de julio el acto institucional de demolición de la Verja de Gibraltar en La Línea de la Concepción (Cádiz) en el que tenía previsto participar este lunes día 13, porque ese día se va a desplazar a Almería para visitar la zona del incendio en Los Ga.",
+      "date": "2026-07-11"
+    },
+    {
+      "title": "Sánchez no tiene vida privada",
+      "summary": "Siempre se ha discutido en la España que todo lo discute sobre la presunta vida privada de los cargos públicos . Un debate tan viejo como el de la obligatoriedad o no de obedecer leyes injustas. ¿Qué prima en conflictos morales, jurídicos o semánticos así? ¿El ejercicio de la responsabilidad pública, con la consiguient.",
+      "date": "2026-07-11"
     }
   ],
   "sources": [
+    {
+      "title": "Pedro Sánchez aplaza al miércoles el acto de demolición de la Verja en La Línea por su visita el lunes al incendio de Almería",
+      "url": "https://www.20minutos.es/nacional/pedro-sanchez-aplaza-miercoles-acto-demolicion-verja-linea-por-su-visita-lunes-incendio-almeria_7013541_0.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-11T17:33:51.000Z",
+      "sourceId": "lootura-es-20minutos"
+    },
+    {
+      "title": "Sánchez no tiene vida privada",
+      "url": "https://okdiario.com/opinion/sanchez-no-tiene-vida-privada-18977529?utm_source=lootura.com",
+      "publishedAt": "2026-07-11T19:46:41.000Z",
+      "sourceId": "lootura-es-ok-diario"
+    },
     {
       "title": "Mañueco arremete contra Sánchez y pide a los jóvenes implicarse «con fuerza» por España",
       "url": "https://theobjective.com/espana/politica/2026-07-11/manueco-jovenes-sanchez-espana/?utm_source=lootura.com",
@@ -43,5 +65,5 @@
       "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 4
 }

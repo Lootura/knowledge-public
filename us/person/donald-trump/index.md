@@ -3,22 +3,10 @@
 > Follow Donald Trump, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-07-11T16:55:14.081Z
+- Updated: 2026-07-11T20:43:49.483Z
 - Canonical: https://atlas.lootura.com/us/person/donald-trump
 
 ## Recent changes
-
-### After Being Delayed by Trump, a Canada-U.S. Bridge is Set to Open
-
-A deal ended the Trump administration’s blocking of a new bridge that will ease congestion at the busiest trade corridor between the United States and Canada.
-
-Date: 2026-07-11
-
-### Trump threatens Iran after Ayatollah Ali Khamenei's funeral saw calls for his killing
-
-Trump made the comments on his Truth Social after U.S. officials demanded that Iran make a public statement saying the Strait of Hormuz is open. (Image credit: Iranian Supreme Leader Office).
-
-Date: 2026-07-11
 
 ### Trump Justifies $2 Billion Made as President With Inaccurate Claims
 
@@ -56,27 +44,39 @@ President Trump threatened to "decimate and destroy" Iran if they try to assassi
 
 Date: 2026-07-11
 
-### Trump administration subpoenas NY Times journalists in grand jury leak probe tied to Air Force One report
-
-The Trump administration has subpoenaed several journalists at the New York Times following their report surrounding security concerns over the president’s new Air Force One aircraft, the paper announced. The legal action comes after the new jet, a newly retrofitted Boeing 747-8 gifted to President Donald Trump from Qa.
-
-Date: 2026-07-11
-
 ### Trump and Iran's supreme leader trade threats as mediators try to save their crumbling deal
 
 President Donald Trump overnight made threats on social media of further missile attacks against Iran, after the funeral of Supreme Leader Ayatollah Ali Khamenei saw open calls for the U.S. leader's killing.
 
 Date: 2026-07-11
 
+### Trump administration subpoenas New York Times journalists over new Air Force One reporting
+
+Outlet said journalists subpoenaed to testify before grand jury after story detailed security concerns with Qatar-gifted plane The Trump administration has issued subpoenas to several New York Times journalists after the newspaper reported on security concerns with the president’s new plane, according to the outlet . T.
+
+Date: 2026-07-11
+
+### Trump-Appointed Judge Reluctantly Grants Dismissal of Proud Boys Case
+
+Judge Timothy J. Kelly, a federal judge in Washington, noted that he had little choice but to accept the Trump administration’s move to end the case.
+
+Date: 2026-07-11
+
+### Trump threatens to 'decimate' Iran if it tries to kill him, as Treasury sanctions alleged Iranian financier
+
+Trump says 1,000 missiles are "locked and loaded" and will hit Iran if it carries out its threats to assassinate the U.S. president.
+
+Date: 2026-07-11
+
 ## Sources
 
-- [Trump warns Iran "missiles are locked and loaded" if they attempt assassination](https://www.cbsnews.com/video/trump-warns-iran-missiles-are-locked-and-loaded-if-they-attempt-assassination/?utm_source=lootura.com) — 2026-07-11T16:18:02.000Z
-- [Trump administration subpoenas NY Times journalists in grand jury leak probe tied to Air Force One report](https://www.foxnews.com/media/trump-administration-subpoenas-ny-times-journalists-grand-jury-leak-probe-tied-air-force-one-report?utm_source=lootura.com) — 2026-07-11T16:16:08.000Z
-- [Report says Iranian regime plotting to kill Trump](https://www.nbcnews.com/nightly-news/video/report-says-iranian-regime-plotting-to-kill-trump-266520645923?utm_source=lootura.com) — 2026-07-10T23:06:17.000Z
+- [Trump warns Iran "missiles are locked and loaded" if they attempt assassination](https://www.cbsnews.com/video/trump-warns-iran-missiles-are-locked-and-loaded-if-they-attempt-assassination/?utm_source=lootura.com) — 2026-07-11T16:18:00.000Z
+- [Trump threatens to 'decimate' Iran if it tries to kill him, as Treasury sanctions alleged Iranian financier](https://www.cnbc.com/2026/07/11/trump-threat.html?utm_source=lootura.com) — 2026-07-11T20:35:21.000Z
 - [Minnesota is pulling troops early from D.C., as pressure grows on Michigan](https://www.npr.org/2026/07/11/nx-s1-5887666/national-guard-dc-trump-michigan-minnesota?utm_source=lootura.com) — 2026-07-11T10:00:00.000Z
-- [Trump threatens Iran after Ayatollah Ali Khamenei's funeral saw calls for his killing](https://www.npr.org/2026/07/11/nx-s1-5890029/trump-threatens-iran?utm_source=lootura.com) — 2026-07-11T06:34:09.000Z
 - [Trump and Iran's supreme leader trade threats as mediators try to save their crumbling deal](https://www.pbs.org/newshour/world/trump-and-irans-supreme-leader-trade-threats-as-mediators-try-to-save-their-crumbling-deal?utm_source=lootura.com) — 2026-07-11T16:01:44.000Z
 - [Six-hour polygraphs, forced reassignments: inside homeland security’s campaign of fear](https://www.theguardian.com/us-news/ng-interactive/2026/jul/11/inside-homeland-security-campaign-of-fear?utm_source=lootura.com) — 2026-07-11T11:00:48.000Z
 - [Trump administration subpoenas New York Times journalists over new Air Force One reporting](https://www.theguardian.com/us-news/2026/jul/11/justice-department-subpoenas-new-york-times-air-force-one?utm_source=lootura.com) — 2026-07-11T14:17:45.000Z
-- [Trump-Appointed Judge Reluctantly Grants Dismissal of Proud Boys Case](https://www.nytimes.com/2026/07/11/us/politics/judge-proud-boys-sedition-dismissal.html?utm_source=lootura.com) — 2026-07-11T15:06:52.000Z
+- [Trump’s Posts on Singing Somali Schoolchildren Stir Anger in Minnesota](https://www.nytimes.com/2026/07/11/us/politics/trump-somali-kindergartners.html?utm_source=lootura.com) — 2026-07-11T17:55:25.000Z
+- [Trump-Appointed Judge Reluctantly Grants Dismissal of Proud Boys Case](https://www.nytimes.com/2026/07/11/us/politics/judge-proud-boys-sedition-dismissal.html?utm_source=lootura.com) — 2026-07-11T15:06:53.000Z
 - [Trump Justifies $2 Billion Made as President With Inaccurate Claims](https://www.nytimes.com/2026/07/11/us/politics/trump-money-crypto-financial-gains.html?utm_source=lootura.com) — 2026-07-11T09:02:14.000Z
+- [ICE are heavily armed killers. They’re also huge losers](https://www.theverge.com/policy/964302/ice-donald-trump-killings?utm_source=lootura.com) — 2026-07-11T13:00:00.000Z

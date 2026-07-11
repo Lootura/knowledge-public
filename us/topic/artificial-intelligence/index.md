@@ -3,7 +3,7 @@
 > Follow Artificial intelligence, a tracked topic, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: topic
-- Updated: 2026-07-11T16:55:14.081Z
+- Updated: 2026-07-11T20:43:49.483Z
 - Canonical: https://atlas.lootura.com/us/topic/artificial-intelligence
 
 ## Recent changes
@@ -16,4 +16,4 @@ Date: 2026-07-10
 
 ## Sources
 
-- [Apple files lawsuit against OpenAI, accusing ChatGPT maker of stealing trade secrets](https://www.pbs.org/newshour/nation/apple-files-lawsuit-against-openai-accusing-chatgpt-maker-of-stealing-trade-secrets?utm_source=lootura.com) — 2026-07-10T23:25:03.000Z
+- [AI is changing modern dating, but experts warn it's making people 'relationally stupid'](https://www.foxnews.com/media/ai-changing-modern-dating-experts-warn-making-people-relationally-stupid?utm_source=lootura.com) — 2026-07-11T19:00:08.000Z

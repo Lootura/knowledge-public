@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/canada/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/canada/index.json",
   "description": "Follow Canada, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-11T16:55:14.081Z",
+  "updatedAt": "2026-07-11T20:43:49.483Z",
   "aliases": [],
   "changes": [
     {
@@ -17,13 +17,13 @@
       "date": "2026-07-11"
     },
     {
-      "title": "After Being Delayed by Trump, a Canada-U.S. Bridge is Set to Open",
-      "summary": "A deal ended the Trump administration’s blocking of a new bridge that will ease congestion at the busiest trade corridor between the United States and Canada.",
+      "title": "Discovered by Atlas",
+      "summary": "Canada first entered the public knowledge record with source-backed evidence.",
       "date": "2026-07-11"
     },
     {
-      "title": "Discovered by Atlas",
-      "summary": "Canada first entered the public knowledge record with source-backed evidence.",
+      "title": "Poll: Politics shapes patriotism, from the US to the UK",
+      "summary": "What does it mean to be patriotic? It depends on a country's politics. Pride in one’s country is itself relatively common, according to new results from an international edition of The POLITICO Poll: Majorities of adults across the United States, United Kingdom, Spain, Canada, France and Germany all say they are proud.",
       "date": "2026-07-11"
     }
   ],
@@ -35,10 +35,10 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "After Being Delayed by Trump, a Canada-U.S. Bridge is Set to Open",
-      "url": "https://www.nytimes.com/2026/07/10/world/canada/gordie-howe-bridge-canada-us-michigan.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-11T06:07:32.000Z",
-      "sourceId": "lootura-us-the-new-york-times-world"
+      "title": "Poll: Politics shapes patriotism, from the US to the UK",
+      "url": "https://www.politico.com/news/2026/07/11/poll-politics-patriotism-us-europe-canada-00993636?utm_source=lootura.com",
+      "publishedAt": "2026-07-11T20:00:00.000Z",
+      "sourceId": "lootura-us-politico"
     }
   ],
   "evidenceCount": 2

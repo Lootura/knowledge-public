@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-07-11T16:58:59.574Z",
+  "generatedAt": "2026-07-11T20:47:53.519Z",
   "latestIngest": {
-    "id": "2026-07-11T16-57-03-ingest",
+    "id": "2026-07-11T20-45-43-ingest",
     "mode": "ingest",
-    "startedAt": "2026-07-11T16:57:02.537Z",
-    "finishedAt": "2026-07-11T16:57:03.749Z",
-    "sourcesChecked": 35,
+    "startedAt": "2026-07-11T20:45:41.887Z",
+    "finishedAt": "2026-07-11T20:45:43.587Z",
+    "sourcesChecked": 37,
     "sourceItemsFound": 240,
     "sourceItemsProcessed": 240,
     "validatedEventsCreated": 0,
@@ -19,18 +19,18 @@
     ]
   },
   "latestBuild": {
-    "id": "2026-07-11T16-57-38-build",
+    "id": "2026-07-11T20-46-21-build",
     "mode": "build",
-    "startedAt": "2026-07-11T16:57:04.414Z",
-    "finishedAt": "2026-07-11T16:57:38.376Z",
-    "sourcesChecked": 35,
+    "startedAt": "2026-07-11T20:45:44.351Z",
+    "finishedAt": "2026-07-11T20:46:21.361Z",
+    "sourcesChecked": 37,
     "sourceItemsFound": 240,
     "sourceItemsProcessed": 240,
-    "validatedEventsCreated": 77,
-    "entitiesCreated": 337,
-    "storiesCreated": 77,
+    "validatedEventsCreated": 64,
+    "entitiesCreated": 346,
+    "storiesCreated": 64,
     "skippedItems": 0,
-    "errors": 7,
+    "errors": 10,
     "notes": [
       "Deterministic MVP pipeline. No article bodies were copied.",
       "Entity images are cached locally before public pages use them."
@@ -44,12 +44,12 @@
     },
     {
       "label": "cambios validados",
-      "value": 99,
+      "value": 96,
       "detail": "construidos para este atlas"
     },
     {
       "label": "fuentes",
-      "value": 18,
+      "value": 17,
       "detail": "fuentes activas"
     },
     {
@@ -64,53 +64,53 @@
     },
     {
       "label": "candidatos internos",
-      "value": 9,
+      "value": 11,
       "detail": "retenidos para revisión de calidad"
     }
   ],
   "entries": [
     {
-      "id": "2026-07-11T16-57-38-build-build",
+      "id": "2026-07-11T20-46-21-build-build",
       "kind": "build",
-      "date": "2026-07-11T16:57:38.376Z",
+      "date": "2026-07-11T20:46:21.361Z",
       "title": "Build de conocimiento completada",
-      "summary": "99 cambios validados y 120 entradas de cronología se generaron con evidencia respaldada por fuentes.",
+      "summary": "96 cambios validados y 120 entradas de cronología se generaron con evidencia respaldada por fuentes.",
       "status": "warning",
       "meta": [
-        "33 candidatos revisados",
-        "99 registros construidos"
+        "35 candidatos revisados",
+        "96 registros construidos"
       ]
     },
     {
       "id": "entity-index-reviewed",
       "kind": "review",
-      "date": "2026-07-11T16:57:38.376Z",
+      "date": "2026-07-11T20:46:21.361Z",
       "title": "Índice de entidades revisado",
-      "summary": "24 entidades son públicas. 9 quedan internas mientras se revisan tipado, calidad y duplicados.",
+      "summary": "24 entidades son públicas. 11 quedan internas mientras se revisan tipado, calidad y duplicados.",
       "status": "ok",
       "meta": [
         "0 no publicadas tras limpieza",
-        "33 conservadas tras limpieza"
+        "35 conservadas tras limpieza"
       ]
     },
     {
       "id": "evidence-trail-refreshed",
       "kind": "evidence",
-      "date": "2026-07-11T16:57:38.376Z",
+      "date": "2026-07-11T20:46:21.361Z",
       "title": "Rastro de evidencia actualizado",
       "summary": "120 registros de evidencia están disponibles para cambios públicos e internos. No se copian cuerpos de artículos.",
       "status": "ok",
       "meta": [
         "120 señales",
-        "99 eventos validados"
+        "96 eventos validados"
       ]
     },
     {
-      "id": "2026-07-11T16-57-03-ingest-ingest",
+      "id": "2026-07-11T20-45-43-ingest-ingest",
       "kind": "ingest",
-      "date": "2026-07-11T16:57:03.749Z",
+      "date": "2026-07-11T20:45:43.587Z",
       "title": "Ingesta de fuentes completada",
-      "summary": "120 señales se importaron desde 18 fuentes para este atlas.",
+      "summary": "120 señales se importaron desde 17 fuentes para este atlas.",
       "status": "ok",
       "meta": [
         "120 encontradas",
@@ -120,7 +120,7 @@
     }
   ],
   "publicEntities": 24,
-  "internalCandidates": 9,
-  "reviewedCandidates": 33,
+  "internalCandidates": 11,
+  "reviewedCandidates": 35,
   "notPublishedAfterReview": 0
 }

@@ -8,12 +8,22 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/espana/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/espana/index.json",
   "description": "Follow España, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-11T16:55:14.081Z",
+  "updatedAt": "2026-07-11T20:43:49.483Z",
   "aliases": [
     "Estado español",
     "Spain"
   ],
   "changes": [
+    {
+      "title": "Bull gores runner in the face at Spain",
+      "summary": "A chaotic bull run at Spain.",
+      "date": "2026-07-11"
+    },
+    {
+      "title": "Poll: Politics shapes patriotism, from the US to the UK",
+      "summary": "What does it mean to be patriotic? It depends on a country's politics. Pride in one’s country is itself relatively common, according to new results from an international edition of The POLITICO Poll: Majorities of adults across the United States, United Kingdom, Spain, Canada, France and Germany all say they are proud.",
+      "date": "2026-07-11"
+    },
     {
       "title": "Discovered by Atlas",
       "summary": "España first entered the public knowledge record with source-backed evidence.",
@@ -22,11 +32,17 @@
   ],
   "sources": [
     {
-      "title": "España ya mira a Francia tras dejar en el camino a Bélgica",
-      "url": "https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/espana-ya-mira-a-francia-tras-dejar-en-el-camino-a-belgica-tmvo13202685?utm_source=lootura.com",
-      "publishedAt": "2026-07-11T00:27:53.000Z",
-      "sourceId": "lootura-us-nbc-news"
+      "title": "Bull gores runner in the face at Spain",
+      "url": "https://www.cbsnews.com/news/pamplona-spain-bull-run-san-fermin-festival-gore-incident/?utm_source=lootura.com",
+      "publishedAt": "2026-07-11T20:29:52.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
+    {
+      "title": "Poll: Politics shapes patriotism, from the US to the UK",
+      "url": "https://www.politico.com/news/2026/07/11/poll-politics-patriotism-us-europe-canada-00993636?utm_source=lootura.com",
+      "publishedAt": "2026-07-11T20:00:00.000Z",
+      "sourceId": "lootura-us-politico"
     }
   ],
-  "evidenceCount": 0
+  "evidenceCount": 2
 }

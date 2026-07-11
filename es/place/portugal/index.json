@@ -8,17 +8,12 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/portugal/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/portugal/index.json",
   "description": "Sigue la actividad de Portugal en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-11T16:54:54.992Z",
+  "updatedAt": "2026-07-11T20:43:32.351Z",
   "aliases": [],
   "changes": [
     {
       "title": "Discovered by Atlas",
       "summary": "Portugal first entered the public knowledge record with source-backed evidence.",
-      "date": "2026-07-11"
-    },
-    {
-      "title": "Morten Hjulmand ficha por el Atlético de Madrid hasta 2031",
-      "summary": "El ansiado pivote. Morten Hjulmand, de 27 años, centrocampista danés que jugaba en el Sporting de Portugal, es nuevo jugador del Atlético de Madrid para.",
       "date": "2026-07-11"
     },
     {
@@ -39,13 +34,7 @@
       "url": "https://www.elmundo.es/internacional/2026/07/11/6a52567a21efa08c568b4599.html?utm_source=lootura.com",
       "publishedAt": "2026-07-11T14:49:56.000Z",
       "sourceId": "lootura-es-el-mundo"
-    },
-    {
-      "title": "Morten Hjulmand ficha por el Atlético de Madrid hasta 2031",
-      "url": "https://theobjective.com/deportes/futbol/2026-07-11/morten-hjulmand-atletico-madrid/?amp=&utm_source=lootura.com",
-      "publishedAt": "2026-07-11T09:20:06.000Z",
-      "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

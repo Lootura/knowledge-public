@@ -8,18 +8,13 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/united-states/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/united-states/index.json",
   "description": "Follow United States, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-11T16:55:14.081Z",
+  "updatedAt": "2026-07-11T20:43:49.483Z",
   "aliases": [
     "America",
     "Estados Unidos",
     "U.S."
   ],
   "changes": [
-    {
-      "title": "After Being Delayed by Trump, a Canada-U.S. Bridge is Set to Open",
-      "summary": "A deal ended the Trump administration’s blocking of a new bridge that will ease congestion at the busiest trade corridor between the United States and Canada.",
-      "date": "2026-07-11"
-    },
     {
       "title": "\"Face the Nation with Margaret Brennan\" guests for July 12, 2026",
       "summary": "This week's guests include White House border czar Tom Homan and retired Gen. Frank McKenzie, president of The Citadel and former commander of U.S. Central Command.",
@@ -28,11 +23,6 @@
     {
       "title": "U.S. Employers Told to Dismiss Thousands of Immigrant Workers",
       "summary": "Shifting deadlines are confusing businesses as the end of Temporary Protected Status for Haitians and others looms, making them ineligible to live and work in the United States.",
-      "date": "2026-07-11"
-    },
-    {
-      "title": "Trump threatens Iran after Ayatollah Ali Khamenei's funeral saw calls for his killing",
-      "summary": "Trump made the comments on his Truth Social after U.S. officials demanded that Iran make a public statement saying the Strait of Hormuz is open. (Image credit: Iranian Supreme Leader Office).",
       "date": "2026-07-11"
     },
     {
@@ -46,7 +36,7 @@
       "date": "2026-07-11"
     },
     {
-      "title": "An American Politician is Blocked by Israeli Settlers in the West Bank",
+      "title": "An American Politician Is Blocked by Israeli Settlers in the West Bank",
       "summary": "Representative Ro Khanna was barred from leaving for 90 minutes. Where past U.S. leaders toured the region to show support for Israel, today’s Democratic presidential aspirants are going to bolster their credentials as critics.",
       "date": "2026-07-11"
     },
@@ -61,8 +51,18 @@
       "date": "2026-07-11"
     },
     {
-      "title": "House Democrat Ro Khanna says he was detained by armed Israeli settlers in West Bank",
-      "summary": "Rep. Ro Khanna, D-Calif., claims to have been detained by Israeli settlers armed with U.S.-made firearms while visiting the West Bank . Khanna and his team were surrounded by a group of West Bank settlers near the Palestinian village of Khirbet Zanuta on Wednesday, his office told The New York Times. The settlers were.",
+      "title": "The biggest steam locomotive is whistle-stopping across the U.S.",
+      "summary": "Huge crowds of train fans turn out as the 1940s era Big Boy steam locomotive is making a rare trip cross country. (Image credit: Michelle Gustafson for NPR).",
+      "date": "2026-07-11"
+    },
+    {
+      "title": "U.S. citizen working for humanitarian organization in Congo tests positive for Ebola",
+      "summary": "The CDC said it was working with the person's employer, U.S. agencies, the public health authorities and Congolese partners to prevent further transmission and identify close contacts.",
+      "date": "2026-07-11"
+    },
+    {
+      "title": "Trump and Iran's supreme leader trade threats as mediators try to save their crumbling deal",
+      "summary": "President Donald Trump overnight made threats on social media of further missile attacks against Iran, after the funeral of Supreme Leader Ayatollah Ali Khamenei saw open calls for the U.S. leader's killing.",
       "date": "2026-07-11"
     }
   ],
@@ -70,7 +70,7 @@
     {
       "title": "Trump warns Iran \"missiles are locked and loaded\" if they attempt assassination",
       "url": "https://www.cbsnews.com/video/trump-warns-iran-missiles-are-locked-and-loaded-if-they-attempt-assassination/?utm_source=lootura.com",
-      "publishedAt": "2026-07-11T16:18:02.000Z",
+      "publishedAt": "2026-07-11T16:18:00.000Z",
       "sourceId": "lootura-us-cbs-news"
     },
     {
@@ -80,16 +80,10 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "House Democrat Ro Khanna says he was detained by armed Israeli settlers in West Bank",
-      "url": "https://www.foxnews.com/politics/house-democrat-ro-khanna-detained-armed-israeli-settlers-west-bank?utm_source=lootura.com",
-      "publishedAt": "2026-07-11T16:02:43.000Z",
-      "sourceId": "lootura-us-fox-news"
-    },
-    {
-      "title": "Harvard astronomer tapped to lead White House UFO council says US government 'baffled by what they are seeing'",
-      "url": "https://www.foxnews.com/politics/harvard-astronomer-tapped-lead-white-house-ufo-council-says-us-government-baffled-what-they-are-seeing?utm_source=lootura.com",
-      "publishedAt": "2026-07-11T16:44:17.000Z",
-      "sourceId": "lootura-us-fox-news"
+      "title": "Trump threatens to 'decimate' Iran if it tries to kill him, as Treasury sanctions alleged Iranian financier",
+      "url": "https://www.cnbc.com/2026/07/11/trump-threat.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-11T20:35:21.000Z",
+      "sourceId": "lootura-us-cnbc"
     },
     {
       "title": "The biggest steam locomotive is whistle-stopping across the U.S.",
@@ -104,12 +98,6 @@
       "sourceId": "lootura-us-npr-politics"
     },
     {
-      "title": "Trump threatens Iran after Ayatollah Ali Khamenei's funeral saw calls for his killing",
-      "url": "https://www.npr.org/2026/07/11/nx-s1-5890029/trump-threatens-iran?utm_source=lootura.com",
-      "publishedAt": "2026-07-11T06:34:09.000Z",
-      "sourceId": "lootura-us-npr-world"
-    },
-    {
       "title": "U.S. citizen working for humanitarian organization in Congo tests positive for Ebola",
       "url": "https://www.pbs.org/newshour/world/u-s-citizen-working-for-humanitarian-organization-in-congo-tests-positive-for-ebola?utm_source=lootura.com",
       "publishedAt": "2026-07-11T15:36:11.000Z",
@@ -122,11 +110,23 @@
       "sourceId": "lootura-us-pbs-newshour"
     },
     {
+      "title": "Poll: Politics shapes patriotism, from the US to the UK",
+      "url": "https://www.politico.com/news/2026/07/11/poll-politics-patriotism-us-europe-canada-00993636?utm_source=lootura.com",
+      "publishedAt": "2026-07-11T20:00:00.000Z",
+      "sourceId": "lootura-us-politico"
+    },
+    {
       "title": "Trump Says Negotiations With Iran Will Continue as U.S. Ramps Up Strikes",
       "url": "https://www.nytimes.com/2026/07/10/us/politics/iran-war-escalation.html?utm_source=lootura.com",
       "publishedAt": "2026-07-11T03:48:02.000Z",
       "sourceId": "lootura-us-the-new-york-times"
+    },
+    {
+      "title": "An American Politician Is Blocked by Israeli Settlers in the West Bank",
+      "url": "https://www.nytimes.com/2026/07/11/us/politics/ro-khanna-west-bank.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-11T18:08:25.000Z",
+      "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 18
+  "evidenceCount": 14
 }

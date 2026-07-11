@@ -8,23 +8,13 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/donald-trump/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/donald-trump/index.json",
   "description": "Follow Donald Trump, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-11T16:55:14.081Z",
+  "updatedAt": "2026-07-11T20:43:49.483Z",
   "aliases": [
     "President Donald Trump",
     "President Trump",
     "Trump"
   ],
   "changes": [
-    {
-      "title": "After Being Delayed by Trump, a Canada-U.S. Bridge is Set to Open",
-      "summary": "A deal ended the Trump administration’s blocking of a new bridge that will ease congestion at the busiest trade corridor between the United States and Canada.",
-      "date": "2026-07-11"
-    },
-    {
-      "title": "Trump threatens Iran after Ayatollah Ali Khamenei's funeral saw calls for his killing",
-      "summary": "Trump made the comments on his Truth Social after U.S. officials demanded that Iran make a public statement saying the Strait of Hormuz is open. (Image credit: Iranian Supreme Leader Office).",
-      "date": "2026-07-11"
-    },
     {
       "title": "Trump Justifies $2 Billion Made as President With Inaccurate Claims",
       "summary": "President Trump has wrongly attributed the $2 billion windfall he gained during his second term to a hot stock market and claimed that he was the only president to donate his salary.",
@@ -56,13 +46,23 @@
       "date": "2026-07-11"
     },
     {
-      "title": "Trump administration subpoenas NY Times journalists in grand jury leak probe tied to Air Force One report",
-      "summary": "The Trump administration has subpoenaed several journalists at the New York Times following their report surrounding security concerns over the president’s new Air Force One aircraft, the paper announced. The legal action comes after the new jet, a newly retrofitted Boeing 747-8 gifted to President Donald Trump from Qa.",
+      "title": "Trump and Iran's supreme leader trade threats as mediators try to save their crumbling deal",
+      "summary": "President Donald Trump overnight made threats on social media of further missile attacks against Iran, after the funeral of Supreme Leader Ayatollah Ali Khamenei saw open calls for the U.S. leader's killing.",
       "date": "2026-07-11"
     },
     {
-      "title": "Trump and Iran's supreme leader trade threats as mediators try to save their crumbling deal",
-      "summary": "President Donald Trump overnight made threats on social media of further missile attacks against Iran, after the funeral of Supreme Leader Ayatollah Ali Khamenei saw open calls for the U.S. leader's killing.",
+      "title": "Trump administration subpoenas New York Times journalists over new Air Force One reporting",
+      "summary": "Outlet said journalists subpoenaed to testify before grand jury after story detailed security concerns with Qatar-gifted plane The Trump administration has issued subpoenas to several New York Times journalists after the newspaper reported on security concerns with the president’s new plane, according to the outlet . T.",
+      "date": "2026-07-11"
+    },
+    {
+      "title": "Trump-Appointed Judge Reluctantly Grants Dismissal of Proud Boys Case",
+      "summary": "Judge Timothy J. Kelly, a federal judge in Washington, noted that he had little choice but to accept the Trump administration’s move to end the case.",
+      "date": "2026-07-11"
+    },
+    {
+      "title": "Trump threatens to 'decimate' Iran if it tries to kill him, as Treasury sanctions alleged Iranian financier",
+      "summary": "Trump says 1,000 missiles are \"locked and loaded\" and will hit Iran if it carries out its threats to assassinate the U.S. president.",
       "date": "2026-07-11"
     }
   ],
@@ -70,32 +70,20 @@
     {
       "title": "Trump warns Iran \"missiles are locked and loaded\" if they attempt assassination",
       "url": "https://www.cbsnews.com/video/trump-warns-iran-missiles-are-locked-and-loaded-if-they-attempt-assassination/?utm_source=lootura.com",
-      "publishedAt": "2026-07-11T16:18:02.000Z",
+      "publishedAt": "2026-07-11T16:18:00.000Z",
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "Trump administration subpoenas NY Times journalists in grand jury leak probe tied to Air Force One report",
-      "url": "https://www.foxnews.com/media/trump-administration-subpoenas-ny-times-journalists-grand-jury-leak-probe-tied-air-force-one-report?utm_source=lootura.com",
-      "publishedAt": "2026-07-11T16:16:08.000Z",
-      "sourceId": "lootura-us-fox-news"
-    },
-    {
-      "title": "Report says Iranian regime plotting to kill Trump",
-      "url": "https://www.nbcnews.com/nightly-news/video/report-says-iranian-regime-plotting-to-kill-trump-266520645923?utm_source=lootura.com",
-      "publishedAt": "2026-07-10T23:06:17.000Z",
-      "sourceId": "lootura-us-nbc-news"
+      "title": "Trump threatens to 'decimate' Iran if it tries to kill him, as Treasury sanctions alleged Iranian financier",
+      "url": "https://www.cnbc.com/2026/07/11/trump-threat.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-11T20:35:21.000Z",
+      "sourceId": "lootura-us-cnbc"
     },
     {
       "title": "Minnesota is pulling troops early from D.C., as pressure grows on Michigan",
       "url": "https://www.npr.org/2026/07/11/nx-s1-5887666/national-guard-dc-trump-michigan-minnesota?utm_source=lootura.com",
       "publishedAt": "2026-07-11T10:00:00.000Z",
       "sourceId": "lootura-us-npr-politics"
-    },
-    {
-      "title": "Trump threatens Iran after Ayatollah Ali Khamenei's funeral saw calls for his killing",
-      "url": "https://www.npr.org/2026/07/11/nx-s1-5890029/trump-threatens-iran?utm_source=lootura.com",
-      "publishedAt": "2026-07-11T06:34:09.000Z",
-      "sourceId": "lootura-us-npr-world"
     },
     {
       "title": "Trump and Iran's supreme leader trade threats as mediators try to save their crumbling deal",
@@ -116,9 +104,15 @@
       "sourceId": "lootura-us-the-guardian-us"
     },
     {
+      "title": "Trump’s Posts on Singing Somali Schoolchildren Stir Anger in Minnesota",
+      "url": "https://www.nytimes.com/2026/07/11/us/politics/trump-somali-kindergartners.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-11T17:55:25.000Z",
+      "sourceId": "lootura-us-the-new-york-times-politics"
+    },
+    {
       "title": "Trump-Appointed Judge Reluctantly Grants Dismissal of Proud Boys Case",
       "url": "https://www.nytimes.com/2026/07/11/us/politics/judge-proud-boys-sedition-dismissal.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-11T15:06:52.000Z",
+      "publishedAt": "2026-07-11T15:06:53.000Z",
       "sourceId": "lootura-us-the-new-york-times-politics"
     },
     {
@@ -126,7 +120,13 @@
       "url": "https://www.nytimes.com/2026/07/11/us/politics/trump-money-crypto-financial-gains.html?utm_source=lootura.com",
       "publishedAt": "2026-07-11T09:02:14.000Z",
       "sourceId": "lootura-us-the-new-york-times-politics"
+    },
+    {
+      "title": "ICE are heavily armed killers. They’re also huge losers",
+      "url": "https://www.theverge.com/policy/964302/ice-donald-trump-killings?utm_source=lootura.com",
+      "publishedAt": "2026-07-11T13:00:00.000Z",
+      "sourceId": "lootura-us-the-verge"
     }
   ],
-  "evidenceCount": 15
+  "evidenceCount": 11
 }

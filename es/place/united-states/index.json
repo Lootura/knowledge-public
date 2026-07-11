@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/united-states/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/united-states/index.json",
   "description": "Sigue la actividad de United States en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-11T16:54:54.992Z",
+  "updatedAt": "2026-07-11T20:43:32.351Z",
   "aliases": [
     "America",
     "Estados Unidos",
@@ -18,11 +18,6 @@
     {
       "title": "Discovered by Atlas",
       "summary": "United States first entered the public knowledge record with source-backed evidence.",
-      "date": "2026-07-11"
-    },
-    {
-      "title": "EE.UU. se pasa el juego: crea una chaqueta de hidrogel que captura del aire casi un litro de agua potable al día por medio de la energía solar",
-      "summary": "Algunos países están creando grandes obras de ingeniería para recolectar agua potable . Sin embargo, Estados Unidos (EE.UU.) está apostando por una solución más individualizada. Y, aunque suene a ciencia ficción, se trata de una chaqueta que aprovecha la energía solar . Según recogen en la revista especializada Science.",
       "date": "2026-07-11"
     },
     {
@@ -43,13 +38,7 @@
       "url": "https://www.larazon.es/sociedad/que-estadounidenses-estan-huyendo-pais-sueno-americano-existe-alli-estamos-buscando-vida-mejor-espana-b50m_202607116a526fe0c0b5fb431c4ecdc4.html?utm_source=lootura.com",
       "publishedAt": "2026-07-11T16:31:28.000Z",
       "sourceId": "lootura-es-la-razon"
-    },
-    {
-      "title": "EE.UU. se pasa el juego: crea una chaqueta de hidrogel que captura del aire casi un litro de agua potable al día por medio de la energía solar",
-      "url": "https://okdiario.com/ciencia/ee-uu-pasa-juego-crea-chaqueta-hidrogel-que-captura-del-aire-casi-litro-agua-potable-dia-medio-energia-solar-18950385?utm_source=lootura.com",
-      "publishedAt": "2026-07-11T13:00:06.000Z",
-      "sourceId": "lootura-es-ok-diario"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

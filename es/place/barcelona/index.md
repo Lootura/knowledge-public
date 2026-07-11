@@ -8,12 +8,8 @@
 
 ## Cambios recientes
 
-### Discovered by Atlas
-
-Barcelona first entered the public knowledge record with source-backed evidence.
-
-Date: 2026-07-11
+No recent public changes.
 
 ## Fuentes
 
-- [El PSG da el bombazo y se lanza a por el fichaje de Ferran Torres](https://okdiario.com/deportes/psg-da-bombazo-lanza-fichaje-ferran-torres-18976425/amp?utm_source=lootura.com) — 2026-07-11T13:12:04.000Z
+No public source links.
