@@ -3,16 +3,10 @@
 > Follow Democratic Party, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-07-11T09:26:55.725Z
+- Updated: 2026-07-11T13:13:51.228Z
 - Canonical: https://atlas.lootura.com/us/organization/democratic-party
 
 ## Recent changes
-
-### Graham Platner officially files letter withdrawing candidacy
-
-Graham Platner, who was the Democratic candidate for Senate in Maine, officially filed a letter withdrawing his candidacy following rape allegations which he denies. The filing triggers a process where the Maine Democratic Party can replace him on the ballot.
-
-Date: 2026-07-10
 
 ### Graham Platner makes it official in Maine, submitting paperwork to leave Senate race
 
@@ -32,12 +26,6 @@ The last-minute scramble to name a replacement reminds some in the party of the 
 
 Date: 2026-07-10
 
-### How American Socialism Changed, and Stormed the Democratic Party
-
-The movement was better at critiquing the system than reshaping it. But it has never had this much mainstream political power.
-
-Date: 2026-07-10
-
 ### Discovered by Atlas
 
 Democratic Party first entered the public knowledge record with source-backed evidence.
@@ -46,8 +34,7 @@ Date: 2026-07-10
 
 ## Sources
 
-- [Graham Platner officially files letter withdrawing candidacy](https://www.nbcnews.com/video/graham-platner-officially-files-letter-withdrawing-candidacy-266518597678?utm_source=lootura.com) — 2026-07-10T21:59:25.000Z
+- [Week in Politics: Trump's housing bill protest fails; Trump and NATO; Maine's Democrats](https://www.npr.org/2026/07/11/nx-s1-5888579/week-in-politics-trumps-housing-bill-protest-fails-trump-and-nato-maines-democrats?utm_source=lootura.com) — 2026-07-11T11:43:45.000Z
 - [Graham Platner makes it official in Maine, submitting paperwork to leave Senate race](https://www.npr.org/2026/07/10/nx-s1-5888709/graham-platner-maine-senate-susan-collins?utm_source=lootura.com) — 2026-07-10T21:22:01.000Z
 - [Democrats Haunted by Biden-Harris Switch as They Replace Platner in Maine](https://www.nytimes.com/2026/07/10/us/platner-replacement-maine-biden-harris.html?utm_source=lootura.com) — 2026-07-10T17:57:28.000Z
 - [The Platner Drama Is Reviving Debate Among Democrats Over a Double Standard](https://www.nytimes.com/2026/07/10/us/politics/platner-democrats-women-double-standard.html?utm_source=lootura.com) — 2026-07-10T21:47:58.000Z
-- [How American Socialism Changed, and Stormed the Democratic Party](https://www.nytimes.com/2026/07/10/magazine/american-socialism-democratic-party.html?utm_source=lootura.com) — 2026-07-10T13:50:51.000Z

@@ -3,7 +3,7 @@
 > Sigue la actividad de Lamine Yamal en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-11T09:26:27.277Z
+- Actualizado: 2026-07-11T13:13:30.845Z
 - Canonical: https://atlas.lootura.com/es/person/lamine-yamal
 
 ## Cambios recientes
@@ -22,5 +22,4 @@ Date: 2026-07-10
 
 ## Fuentes
 
-- [La icónica celebración del hermano de Lamine Yamal tras el pase a semis: "Me dijo que me iba a sacar la lengua"](https://www.20minutos.es/deportes/futbol/iconica-celebracion-hermano-lamine-yamal-tras-pase-semifinales-me-dijo-que-me-iba-sacar-lengua_7013429_0.html?utm_source=lootura.com) — 2026-07-11T06:25:40.000Z
 - [Lamine Yamal: “Si a alguien debe temer Francia es a nosotros”](https://elpais.com/deportes/mundial-futbol/2026-07-10/lamine-yamal-si-a-alguien-debe-temer-francia-es-a-nosotros.html?utm_source=lootura.com) — 2026-07-10T22:48:11.000Z

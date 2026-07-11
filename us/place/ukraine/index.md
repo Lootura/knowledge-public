@@ -3,7 +3,7 @@
 > Follow Ukraine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-11T09:26:55.725Z
+- Updated: 2026-07-11T13:13:51.228Z
 - Canonical: https://atlas.lootura.com/us/place/ukraine
 
 ## Recent changes
@@ -22,4 +22,4 @@ Date: 2026-07-08
 
 ## Sources
 
-- [10 injured in overnight Russian strikes on Kyiv](https://www.cbsnews.com/news/russia-ukraine-drone-missile-strike-kyiv/?utm_source=lootura.com) — 2026-07-11T08:22:44.000Z
+- [10 injured in overnight Russian strikes on Kyiv](https://www.cbsnews.com/news/russia-ukraine-drone-missile-strike-kyiv/?utm_source=lootura.com) — 2026-07-11T11:51:38.000Z

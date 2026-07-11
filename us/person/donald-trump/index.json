@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/donald-trump/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/donald-trump/index.json",
   "description": "Follow Donald Trump, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-11T09:26:55.725Z",
+  "updatedAt": "2026-07-11T13:13:51.228Z",
   "aliases": [
     "President Donald Trump",
     "President Trump",
@@ -26,11 +26,6 @@
       "date": "2026-07-11"
     },
     {
-      "title": "Trump warns US would 'decimate and destroy' Iran over assassination attempt",
-      "summary": "President Donald Trump on Friday warned Iran that the United States would \"decimate and destroy\" the country if Tehran carried out an assassination attempt against him. \"1000 Missiles are Locked and Loaded and aimed at the Islamic Republic of Iran, with thousands of more to immediately follow, should the Iranian Govern.",
-      "date": "2026-07-11"
-    },
-    {
       "title": "Trump threatens Iran after Ayatollah Ali Khamenei's funeral saw calls for his killing",
       "summary": "Trump made the comments on his Truth Social after U.S. officials demanded that Iran make a public statement saying the Strait of Hormuz is open. (Image credit: Iranian Supreme Leader Office).",
       "date": "2026-07-11"
@@ -41,19 +36,34 @@
       "date": "2026-07-11"
     },
     {
-      "title": "Report says Iranian regime plotting to kill Trump",
-      "summary": "President Trump is also demanding Iran publicly declare it will re-open the Strait of Hormuz after Iran violated the ceasefire by firing on commercial ships. NBC News’ Kelly O’Donnell reports.",
-      "date": "2026-07-10"
+      "title": "Trump threatens to 'decimate' Iran if it tries to kill him, as Treasury sanctions alleged Iranian financier",
+      "summary": "Trump says 1,000 missiles are \"locked and loaded\" and will hit Iran if it carries out its threats to assassinate the U.S. president.",
+      "date": "2026-07-11"
     },
     {
-      "title": "Crews are draining the Lincoln Memorial Reflecting Pool again as part of Trump's troubled revamp",
-      "summary": "The president at first suggested his renovations would last a century. But, within weeks of the project originally reaching completion last month, the water was beset by an algae bloom and pieces of the new coating appeared to be peeling off the bottom.",
-      "date": "2026-07-10"
+      "title": "Trump's EPA chief pushes back on climate skeptics being labeled 'science deniers'",
+      "summary": "EPA Administrator Lee Zeldin argues that climate projections represent a range of possible outcomes — not certainties — and warned against labeling those who disagree with them as \"science deniers.\" \"When someone looks at 2050 or 2100 and they say ‘This is exactly what the sea level is going to be. This is what the tem.",
+      "date": "2026-07-11"
     },
     {
-      "title": "Discovered by Atlas",
-      "summary": "Donald Trump first entered the public knowledge record with source-backed evidence.",
-      "date": "2026-07-10"
+      "title": "Minnesota is pulling troops early from D.C., as pressure grows on Michigan",
+      "summary": "Minnesota Gov. Tim Walz is pulling his National Guard early from Washington, D.C. as the chorus against Democratic governors sending troops to the city amid President Trump's ongoing deployment grows louder. (Image credit: Joe Raedle).",
+      "date": "2026-07-11"
+    },
+    {
+      "title": "Six-hour polygraphs, forced reassignments: inside homeland security’s campaign of fear",
+      "summary": "The ruthless gutting and reforming of the Department of Homeland Security has traumatized both workers and the most vulnerable immigrants Federal officials tasked with implementing the Trump administration ’s “mass deportation” program faced an extraordinary campaign of intimidation inside the Department of Homeland Se.",
+      "date": "2026-07-11"
+    },
+    {
+      "title": "ICE are heavily armed killers. They’re also huge losers",
+      "summary": "Federal agents patrol the halls of immigration court at the Jacob K. Javits Federal Building in December 2025. | Photo by Michael Nigro/Pacific Press/LightRocket via Getty Images Donald Trump's Homeland Security regime has been at the center of two critical stories in the past two weeks. In the first, federal agents sh.",
+      "date": "2026-07-11"
+    },
+    {
+      "title": "The Business Case for Climate Action Is Stronger Than It Looks",
+      "summary": "Workers from solar company Solva Energy install solar panels on the roof of a house on July 6 in the Philippines. —Ezra Acayan—Getty Images Has the business case for climate diminished in the last five years? At first glance, the answer feels almost too obvious. The Trump-era political zeitgeist is deeply unfavorable t.",
+      "date": "2026-07-11"
     }
   ],
   "sources": [
@@ -64,9 +74,15 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "Trump warns US would 'decimate and destroy' Iran over assassination attempt",
-      "url": "https://www.foxnews.com/politics/trump-warns-us-would-decimate-destroy-iran-assassination-attempt?utm_source=lootura.com",
-      "publishedAt": "2026-07-11T08:00:31.000Z",
+      "title": "Trump threatens to 'decimate' Iran if it tries to kill him, as Treasury sanctions alleged Iranian financier",
+      "url": "https://www.cnbc.com/2026/07/11/trump-threat.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-11T12:51:50.000Z",
+      "sourceId": "lootura-us-cnbc"
+    },
+    {
+      "title": "Trump's EPA chief pushes back on climate skeptics being labeled 'science deniers'",
+      "url": "https://www.foxnews.com/politics/trumps-epa-chief-pushes-back-climate-skeptics-being-labeled-science-deniers?utm_source=lootura.com",
+      "publishedAt": "2026-07-11T13:00:07.000Z",
       "sourceId": "lootura-us-fox-news"
     },
     {
@@ -82,16 +98,22 @@
       "sourceId": "lootura-us-nbc-news-politics"
     },
     {
+      "title": "Minnesota is pulling troops early from D.C., as pressure grows on Michigan",
+      "url": "https://www.npr.org/2026/07/11/nx-s1-5887666/national-guard-dc-trump-michigan-minnesota?utm_source=lootura.com",
+      "publishedAt": "2026-07-11T10:00:00.000Z",
+      "sourceId": "lootura-us-npr-politics"
+    },
+    {
       "title": "Trump threatens Iran after Ayatollah Ali Khamenei's funeral saw calls for his killing",
       "url": "https://www.npr.org/2026/07/11/nx-s1-5890029/trump-threatens-iran?utm_source=lootura.com",
       "publishedAt": "2026-07-11T06:34:09.000Z",
       "sourceId": "lootura-us-npr-world"
     },
     {
-      "title": "Crews are draining the Lincoln Memorial Reflecting Pool again as part of Trump's troubled revamp",
-      "url": "https://www.pbs.org/newshour/politics/crews-are-draining-the-lincoln-memorial-reflecting-pool-again-as-part-of-trumps-troubled-revamp?utm_source=lootura.com",
-      "publishedAt": "2026-07-10T18:08:23.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
+      "title": "Six-hour polygraphs, forced reassignments: inside homeland security’s campaign of fear",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/jul/11/inside-homeland-security-campaign-of-fear?utm_source=lootura.com",
+      "publishedAt": "2026-07-11T11:00:48.000Z",
+      "sourceId": "lootura-us-the-guardian-us"
     },
     {
       "title": "Trump Justifies $2 Billion Made as President With Inaccurate Claims",
@@ -106,5 +128,5 @@
       "sourceId": "lootura-us-the-new-york-times-world"
     }
   ],
-  "evidenceCount": 7
+  "evidenceCount": 11
 }

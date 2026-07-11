@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/maine/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/maine/index.json",
   "description": "Follow Maine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-11T09:26:55.725Z",
+  "updatedAt": "2026-07-11T13:13:51.228Z",
   "aliases": [],
   "changes": [
     {
@@ -32,11 +32,6 @@
       "date": "2026-07-11"
     },
     {
-      "title": "Graham Platner officially files letter withdrawing candidacy",
-      "summary": "Graham Platner, who was the Democratic candidate for Senate in Maine, officially filed a letter withdrawing his candidacy following rape allegations which he denies. The filing triggers a process where the Maine Democratic Party can replace him on the ballot.",
-      "date": "2026-07-10"
-    },
-    {
       "title": "Graham Platner makes it official in Maine, submitting paperwork to leave Senate race",
       "summary": "In his withdrawal notice, Platner said \"people are desperate for change\" and that's why they made him the Democratic nominee. Now, Maine Democrats have to pick someone to replace him by July 27. (Image credit: CJ Gunther).",
       "date": "2026-07-10"
@@ -53,12 +48,6 @@
       "url": "https://www.cbsnews.com/news/graham-platner-exits-maine-senate-race/?utm_source=lootura.com",
       "publishedAt": "2026-07-11T00:12:32.000Z",
       "sourceId": "lootura-us-cbs-news"
-    },
-    {
-      "title": "Graham Platner officially files letter withdrawing candidacy",
-      "url": "https://www.nbcnews.com/video/graham-platner-officially-files-letter-withdrawing-candidacy-266518597678?utm_source=lootura.com",
-      "publishedAt": "2026-07-10T21:59:25.000Z",
-      "sourceId": "lootura-us-nbc-news-politics"
     },
     {
       "title": "Graham Platner makes it official in Maine, submitting paperwork to leave Senate race",
@@ -85,5 +74,5 @@
       "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 7
+  "evidenceCount": 5
 }

@@ -8,24 +8,9 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/barcelona/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/barcelona/index.json",
   "description": "Sigue la actividad de Barcelona en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-11T09:26:27.277Z",
+  "updatedAt": "2026-07-11T13:13:30.845Z",
   "aliases": [],
   "changes": [
-    {
-      "title": "De polígono olvidado a fenómeno del verano: la nueva discoteca al aire libre que triunfa en Barcelona",
-      "summary": "Cuando las últimas persianas de las naves industriales bajaban al final de la jornada, el polígono de Gavà se sumía en el silencio . Las calles quedaban vacías, los aparcamientos desiertos y la plaza John Lennon se convertía en un rincón olvidado donde apenas ocurría nada una vez caía la noche. Hoy cuesta reconocer ese.",
-      "date": "2026-07-11"
-    },
-    {
-      "title": "García Hornos (CaixaBank): \"No innovar también es una decisión y puede tener un coste\"",
-      "summary": "Xavier García Hornos , director comercial de banca de empresas de la dirección territorial de Barcelona de CaixaBank , ha celebrado el buen momento que viven las startups catalanas y la posibilidad de crecimiento gracias a la unión con otras empresas tradicionales . “Barcelona tiene una ventaja competitiva muy potente.",
-      "date": "2026-07-11"
-    },
-    {
-      "title": "Objetivo 2027: Feijóo se multiplica por el territorio y convoca a sus alcaldes en Santiago",
-      "summary": "Alberto Núñez Feijóo ha llenado su agenda de actos y reuniones fuera de Madrid en las últimas semanas. Barcelona, Castellón, Murcia, Pamplona, Santander, Bilbao o Valladolid han sido algunas de las ciudades que ha pisado un líder del PP que piensa ya en la carrera de fondo que exige el ciclo electoral que arranca en se.",
-      "date": "2026-07-11"
-    },
     {
       "title": "Discovered by Atlas",
       "summary": "Barcelona first entered the public knowledge record with source-backed evidence.",
@@ -44,24 +29,6 @@
   ],
   "sources": [
     {
-      "title": "De polígono olvidado a fenómeno del verano: la nueva discoteca al aire libre que triunfa en Barcelona",
-      "url": "https://www.elconfidencial.com/espana/cataluna/2026-07-11/nueva-discoteca-aire-libre-verano-cataluna-1qrt_4387765/?utm_source=lootura.com",
-      "publishedAt": "2026-07-11T03:00:00.000Z",
-      "sourceId": "lootura-es-el-confidencial"
-    },
-    {
-      "title": "García Hornos (CaixaBank): \"No innovar también es una decisión y puede tener un coste\"",
-      "url": "https://www.elconfidencial.com/espana/cataluna/2026-07-11/garcia-hornos-destino-inversor-bra_4387256/?utm_source=lootura.com",
-      "publishedAt": "2026-07-11T03:00:00.000Z",
-      "sourceId": "lootura-es-el-confidencial"
-    },
-    {
-      "title": "Objetivo 2027: Feijóo se multiplica por el territorio y convoca a sus alcaldes en Santiago",
-      "url": "https://www.elconfidencial.com/espana/2026-07-11/objetivo-2027-feijoo-multiplica-territorio-convoca-alcaldes-santiago_4388102/?utm_source=lootura.com",
-      "publishedAt": "2026-07-11T03:00:00.000Z",
-      "sourceId": "lootura-es-el-confidencial"
-    },
-    {
       "title": "Lamine Yamal: “Si a alguien debe temer Francia es a nosotros”",
       "url": "https://elpais.com/deportes/mundial-futbol/2026-07-10/lamine-yamal-si-a-alguien-debe-temer-francia-es-a-nosotros.html?utm_source=lootura.com",
       "publishedAt": "2026-07-10T22:48:11.000Z",
@@ -74,5 +41,5 @@
       "sourceId": "lootura-es-la-razon"
     }
   ],
-  "evidenceCount": 5
+  "evidenceCount": 2
 }

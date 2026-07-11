@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/pedro-sanchez/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/pedro-sanchez/index.json",
   "description": "Sigue la actividad de Pedro Sánchez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-11T09:26:27.277Z",
+  "updatedAt": "2026-07-11T13:13:30.845Z",
   "aliases": [
     "Sánchez"
   ],
@@ -24,23 +24,23 @@
       "date": "2026-07-11"
     },
     {
-      "title": "Máxima colaboración institucional sobre el terreno y guerra política en las redes",
-      "summary": "Sánchez y Moreno colaboran contra la tragedia mientras Puente se lanza contra la Junta y llama \"pedazo de sinvergüenza\" a Tellado por sus crítica al Gobierno Leer.",
-      "date": "2026-07-10"
+      "title": "Mañueco arremete contra Sánchez y pide a los jóvenes implicarse «con fuerza» por España",
+      "summary": "El presidente del PP en Castilla y León, Alfonso Fernández Mañueco , ha pedido este sábado a los jóvenes del Partido Popular que sean valientes, inconformistas y exigentes y ha hecho un llamamiento expreso a que se impliquen y se comprometan con España y a que lo hagan «con fuerza, con ganas y con ilusión». Alfonso Fer.",
+      "date": "2026-07-11"
     }
   ],
   "sources": [
-    {
-      "title": "Máxima colaboración institucional sobre el terreno y guerra política en las redes",
-      "url": "https://www.elmundo.es/espana/2026/07/10/6a514826e4d4d8e22c8b458e.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-10T20:34:36.000Z",
-      "sourceId": "lootura-es-el-mundo"
-    },
     {
       "title": "La exdirectora del Instituto de las Mujeres, citada como imputada por los contratos de los puntos violeta",
       "url": "https://www.larazon.es/espana/exdirectora-instituto-mujeres-citada-como-imputada-contratos-puntos-violeta_202607116a520905c48a78681b81cb2b.html?utm_source=lootura.com",
       "publishedAt": "2026-07-11T09:12:38.000Z",
       "sourceId": "lootura-es-la-razon"
+    },
+    {
+      "title": "Mañueco arremete contra Sánchez y pide a los jóvenes implicarse «con fuerza» por España",
+      "url": "https://theobjective.com/espana/politica/2026-07-11/manueco-jovenes-sanchez-espana/?utm_source=lootura.com",
+      "publishedAt": "2026-07-11T11:44:40.000Z",
+      "sourceId": "lootura-es-the-objective"
     }
   ],
   "evidenceCount": 2

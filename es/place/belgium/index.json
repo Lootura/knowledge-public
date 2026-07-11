@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/belgium/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/belgium/index.json",
   "description": "Sigue la actividad de Belgium en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-11T09:26:27.277Z",
+  "updatedAt": "2026-07-11T13:13:30.845Z",
   "aliases": [
     "Belgica"
   ],
@@ -31,10 +31,10 @@
   ],
   "sources": [
     {
-      "title": "La icónica celebración del hermano de Lamine Yamal tras el pase a semis: \"Me dijo que me iba a sacar la lengua\"",
-      "url": "https://www.20minutos.es/deportes/futbol/iconica-celebracion-hermano-lamine-yamal-tras-pase-semifinales-me-dijo-que-me-iba-sacar-lengua_7013429_0.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-11T06:25:40.000Z",
-      "sourceId": "lootura-es-20minutos"
+      "title": "El aura de Merino lleva a España a las semifinales contra la temible Francia",
+      "url": "https://www.abc.es/deportes/futbol/mundial/aura-merino-transporta-espana-francia-20260710230226-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-11T12:07:47.000Z",
+      "sourceId": "lootura-es-abc"
     },
     {
       "title": "Lluvia de estrellas en el España-Bélgica: de Brad Pitt, Bardem y Penélope Cruz a Pete Sampras",
@@ -49,5 +49,5 @@
       "sourceId": "lootura-es-el-pais"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 2
 }

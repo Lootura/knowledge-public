@@ -3,32 +3,14 @@
 > Sigue la actividad de España en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-11T09:26:27.277Z
+- Actualizado: 2026-07-11T13:13:30.845Z
 - Canonical: https://atlas.lootura.com/es/place/espana
 
 ## Cambios recientes
 
-### España será el tercer gran destino europeo más barato para alojarse en un hotel este verano
-
-Disfrutar de una noche de hotel en algún destino de la costa española este verano se ha convertido en una quimera para los turistas nacionales. Los precios no han parado de subir, en gran medida espoleados por el trasvase de viajeros británicos y alemanes que habían reservado en Oriente Próximo y el Norte de África y q.
-
-Date: 2026-07-11
-
 ### De 120.000 casas en Madrid a ninguna en Soria: así se distribuye el déficit de vivienda en España
 
 Nuria S. tiene 31 años, trabaja como enfermera en el Hospital Gregorio Marañón de Madrid y comparte piso porque asumir el alquiler ella sola consumiría casi la mitad de su sueldo. A más de 200 kilómetros, Julián L. conserva junto a sus hermanos la casa de sus padres en un pueblo de Soria. Lleva años vacía . Nadie quier.
-
-Date: 2026-07-11
-
-### La banca limita la deuda de las filiales de Digi España a 100 millones, salvo si es para crecer en móvil
-
-Digi cumplirá dos misiones con la salida a Bolsa de su filial en España. Recaudará 150 millones de capital fresco para potenciar su crecimiento en el país a través de una ampliación de capital y la matriz ingresará además hasta 180 millones que utilizará, entre otras cuestiones, para reducir su mochila financiera. El e.
-
-Date: 2026-07-11
-
-### Sin ES-Alert en el incendio de Los Gallardos: por qué la Junta defiende que no avisar fue lo mejor
-
-Incendios en Los Gallardos (Almería) y resto de España Las imágenes y vídeos del incendio de Los Gallardos (Almería): varios muertos, miles de evacuados y cientos de efectivos trabajando El incendio en Los Gallardos (Almería) deja al menos 12 muertos que intentaban huir del fuego y 23 desaparecidos El mensaje ha ido ca.
 
 Date: 2026-07-11
 
@@ -50,9 +32,33 @@ Desde 2022, Rabat compra gas natural licuado en los mercados internacionales, lo
 
 Date: 2026-07-11
 
-### Roberto Brasero y la AEMET confirman lluvias y granizo en España éste sábado: «Chubascos y tormentas fuertes»
+### Feijóo pide prepararse para un verano "muy complicado" de incendios mientras Bolaños reivindica la "cooperación"
 
-El tiempo cambiará considerablemente este sábado en gran parte del país. Roberto Brasero y la Agencia Estatal de Meteorología (AEMET) señalan que la entrada de un embolsamiento de aire frío sobre la Península traerá consigo la aparición de chubascos y tormentas fuertes . En algunos puntos, estas tormentas irán acompaña.
+Los incendios que están poniendo en jaque a los distintos servicios de extinción en casi toda España han centrado este sábado el debate político. El líder de la oposición, Alberto Núñez Feijóo , ha pedido más preparación a las administraciones ante los fuegos, mientras que uno de los ministros fuertes del Gobierno, Fél.
+
+Date: 2026-07-11
+
+### Un Óscar para Lamine, dos buenos presagios y un aviso: "Si alguien puede ir con seguridad contra Francia, somos nosotros"
+
+Protagonista indiscutible en la Eurocopa, la estrella de España recuerda que sólo marcó un gol e insiste en que no está ansioso. Su socio en 2024, Nico Williams, vuelve a jugar después de un "año de miseria" y avisa de que los jóvenes, volverán. Leer.
+
+Date: 2026-07-11
+
+### El antes y después del incendio de Almería, con imágenes de satélite
+
+El territorio calcinado en Los Gallardos ya supera las 6.600 hectáreas El mapa de los incendios activos en España en 2026: cómo avanzan y qué zonas se han quemado más Los incendios de los últimos 70 días, avivados por las temperaturas extremas, producto a su vez de la crisis climática, ya han calcinado 34.000 hectáreas.
+
+Date: 2026-07-11
+
+### Rocío Crusset y Charlie Schein se vuelven a dar el «sí, quiero» y celebrarán una segunda boda en Ibiza
+
+Cada vez es más habitual celebrar una boda íntima y oficial para, tiempo después, organizar una gran fiesta rodeados de familiares y amigos. Una fórmula que poco a poco se ha ido instalando también en España y a la que ahora se ha sumado Rocío Crusset. Hace apenas unas semanas veíamos cómo la hija de Mariló Montero y C.
+
+Date: 2026-07-11
+
+### Mañueco arremete contra Sánchez y pide a los jóvenes implicarse «con fuerza» por España
+
+El presidente del PP en Castilla y León, Alfonso Fernández Mañueco , ha pedido este sábado a los jóvenes del Partido Popular que sean valientes, inconformistas y exigentes y ha hecho un llamamiento expreso a que se impliquen y se comprometan con España y a que lo hagan «con fuerza, con ganas y con ilusión». Alfonso Fer.
 
 Date: 2026-07-11
 
@@ -64,12 +70,13 @@ Date: 2026-07-10
 
 ## Fuentes
 
-- [El fuego arrasa ya 6.600 hectáreas en Los Gallardos: "Es el primer día en el que vamos a poder trabajar en el ataque al incendio"](https://www.20minutos.es/nacional/incendios-espana-gallardos-almeria-directo-ultima-hora_7013417_6.html?utm_source=lootura.com) — 2026-07-11T06:25:29.000Z
+- [Feijóo pide prepararse para un verano "muy complicado" de incendios mientras Bolaños reivindica la "cooperación"](https://www.20minutos.es/nacional/feijoo-pide-prepararse-verano-muy-complicado-incendios-mientras-bolanos-reivindica-cooperacion-almeria_7013487_0.html?utm_source=lootura.com) — 2026-07-11T12:13:13.000Z
 - [La mejor playa de Europa está en España: más de tres kilómetros de costa y arena fina](https://www.abc.es/viajar/playas/mejor-playa-europa-espana-arena-fina-dorada-20260711165234-nt.html?utm_source=lootura.com) — 2026-07-11T09:13:12.000Z
-- [España será el tercer gran destino europeo más barato para alojarse en un hotel este verano](https://cincodias.elpais.com/companias/2026-07-11/espana-sera-el-tercer-gran-destino-europeo-mas-barato-para-alojarse-en-un-hotel-este-verano.html?utm_source=lootura.com) — 2026-07-11T03:15:00.000Z
 - [De 120.000 casas en Madrid a ninguna en Soria: así se distribuye el déficit de vivienda en España](https://elpais.com/economia/vivienda/2026-07-11/de-120000-casas-en-madrid-a-ninguna-en-soria-asi-se-distribuye-el-deficit-de-vivienda-en-espana.html?utm_source=lootura.com) — 2026-07-11T03:30:01.000Z
-- [La banca limita la deuda de las filiales de Digi España a 100 millones, salvo si es para crecer en móvil](https://cincodias.elpais.com/companias/2026-07-11/la-banca-limita-el-endeudamiento-extra-de-las-filiales-de-digi-espana-a-100-millones-salvo-si-es-para-crecer-en-movil.html?utm_source=lootura.com) — 2026-07-11T03:15:00.000Z
-- [Sin ES-Alert en el incendio de Los Gallardos: por qué la Junta defiende que no avisar fue lo mejor](https://www.elconfidencial.com/espana/andalucia/2026-07-11/es-alert-incendio-los-gallardos-junta_4388198/?utm_source=lootura.com) — 2026-07-11T03:00:00.000Z
 - [Lluvia de estrellas en el España-Bélgica: de Brad Pitt, Bardem y Penélope Cruz a Pete Sampras](https://www.elcorreo.com/deportes/futbol/mundial/lluvia-estrellas-espanabelgica-brad-pitt-bardem-penelope-20260710184948-ntrc_amp.html?utm_source=lootura.com) — 2026-07-10T16:49:49.000Z
+- [Un Óscar para Lamine, dos buenos presagios y un aviso: "Si alguien puede ir con seguridad contra Francia, somos nosotros"](https://www.elmundo.es/deportes/futbol/mundial-de-futbol/2026/07/11/6a518ef4e85ece79558b4598.html?utm_source=lootura.com) — 2026-07-11T11:37:24.000Z
+- [El incendio que cambió la lucha contra el fuego y creó la UME: "Hemos tocado techo en extinción pero falta cultura de riesgo"](https://www.elmundo.es/espana/2026/07/11/6a514176e9cf4a3e1d8b4583.html?utm_source=lootura.com) — 2026-07-10T22:19:51.000Z
+- [El antes y después del incendio de Almería, con imágenes de satélite](https://www.eldiario.es/sociedad/despues-incendio-almeria-imagenes-satelite_1_13373561.html?utm_source=lootura.com) — 2026-07-11T12:22:27.000Z
 - [Disminuye la cantidad de gas que España exporta a Marruecos a través del gasoducto del Magreb](https://www.larazon.es/economia/disminuye-cantidad-gas-que-espana-exporta-marruecos-traves-gasoducto-magreb_202607116a520b09772f745d2c411224.html?outputType=amp&utm_source=lootura.com) — 2026-07-11T09:21:13.000Z
-- [Roberto Brasero y la AEMET confirman lluvias y granizo en España éste sábado: «Chubascos y tormentas fuertes»](https://okdiario.com/sociedad/roberto-brasero-aemet-confirman-lluvias-granizo-espana-este-sabado-chubascos-tormentas-fuertes-18971775?utm_source=lootura.com) — 2026-07-11T08:47:29.000Z
+- [Rocío Crusset y Charlie Schein se vuelven a dar el «sí, quiero» y celebrarán una segunda boda en Ibiza](https://okdiario.com/cool/famosos/rocio-crusset-charlie-schein-vuelven-dar-si-quiero-celebraran-segunda-boda-ibiza-18976353?utm_source=lootura.com) — 2026-07-11T12:51:38.000Z
+- [Mañueco arremete contra Sánchez y pide a los jóvenes implicarse «con fuerza» por España](https://theobjective.com/espana/politica/2026-07-11/manueco-jovenes-sanchez-espana/?utm_source=lootura.com) — 2026-07-11T11:44:40.000Z

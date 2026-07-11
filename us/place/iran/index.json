@@ -8,19 +8,9 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/iran/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/iran/index.json",
   "description": "Follow Iran, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-11T09:26:55.725Z",
+  "updatedAt": "2026-07-11T13:13:51.228Z",
   "aliases": [],
   "changes": [
-    {
-      "title": "Europe considering proposals to allow navigational fees in strait of Hormuz",
-      "summary": "Plans specify tolls must not be compulsory, as US officials urge Iran to make public statement that strait is open and that shipping can safely pass Europe is studying proposals that may allow the charging of navigational fees in the strait of Hormuz so long as the tolls are not compulsory and have the support of the U.",
-      "date": "2026-07-11"
-    },
-    {
-      "title": "Trump warns US would 'decimate and destroy' Iran over assassination attempt",
-      "summary": "President Donald Trump on Friday warned Iran that the United States would \"decimate and destroy\" the country if Tehran carried out an assassination attempt against him. \"1000 Missiles are Locked and Loaded and aimed at the Islamic Republic of Iran, with thousands of more to immediately follow, should the Iranian Govern.",
-      "date": "2026-07-11"
-    },
     {
       "title": "Trump threatens Iran after Ayatollah Ali Khamenei's funeral saw calls for his killing",
       "summary": "Trump made the comments on his Truth Social after U.S. officials demanded that Iran make a public statement saying the Strait of Hormuz is open. (Image credit: Iranian Supreme Leader Office).",
@@ -34,6 +24,21 @@
     {
       "title": "Israel Struck an Iranian Steel Facility. Was It a Valid Military Target?",
       "summary": "During the war, Israel attacked Iran’s steel plants, saying they provided forces with revenue and the means to make weapons, but it also hurt the civilian economy.",
+      "date": "2026-07-11"
+    },
+    {
+      "title": "Trump threatens to 'decimate' Iran if it tries to kill him, as Treasury sanctions alleged Iranian financier",
+      "summary": "Trump says 1,000 missiles are \"locked and loaded\" and will hit Iran if it carries out its threats to assassinate the U.S. president.",
+      "date": "2026-07-11"
+    },
+    {
+      "title": "Political scientist Dominic Tierney on why the U.S. gets trapped in conflicts like Iran",
+      "summary": "NPR's Scott Simon speaks with Swarthmore College political science professor Dominic Tierney about the U.S.-Iran war and other conflicts that have left the U.S. in drawn-out entanglements.",
+      "date": "2026-07-11"
+    },
+    {
+      "title": "Iran’s Top Diplomat Is in Oman for Talks on Strait of Hormuz",
+      "summary": "The visit comes after heavy clashes this week between the U.S. and Iran. On Saturday, the country’s supreme leader vowed revenge for his father’s killing.",
       "date": "2026-07-11"
     },
     {
@@ -54,10 +59,10 @@
   ],
   "sources": [
     {
-      "title": "Trump warns US would 'decimate and destroy' Iran over assassination attempt",
-      "url": "https://www.foxnews.com/politics/trump-warns-us-would-decimate-destroy-iran-assassination-attempt?utm_source=lootura.com",
-      "publishedAt": "2026-07-11T08:00:31.000Z",
-      "sourceId": "lootura-us-fox-news"
+      "title": "Trump threatens to 'decimate' Iran if it tries to kill him, as Treasury sanctions alleged Iranian financier",
+      "url": "https://www.cnbc.com/2026/07/11/trump-threat.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-11T12:51:50.000Z",
+      "sourceId": "lootura-us-cnbc"
     },
     {
       "title": "Report says Iranian regime plotting to kill Trump",
@@ -66,21 +71,27 @@
       "sourceId": "lootura-us-nbc-news"
     },
     {
+      "title": "Political scientist Dominic Tierney on why the U.S. gets trapped in conflicts like Iran",
+      "url": "https://www.npr.org/2026/07/11/nx-s1-5886190/political-scientist-dominic-tierney-on-why-the-u-s-gets-trapped-in-conflicts-like-iran?utm_source=lootura.com",
+      "publishedAt": "2026-07-11T11:43:42.000Z",
+      "sourceId": "lootura-us-npr-politics"
+    },
+    {
       "title": "Trump threatens Iran after Ayatollah Ali Khamenei's funeral saw calls for his killing",
       "url": "https://www.npr.org/2026/07/11/nx-s1-5890029/trump-threatens-iran?utm_source=lootura.com",
       "publishedAt": "2026-07-11T06:34:09.000Z",
       "sourceId": "lootura-us-npr-world"
     },
     {
-      "title": "Europe considering proposals to allow navigational fees in strait of Hormuz",
-      "url": "https://www.theguardian.com/world/2026/jul/11/europe-considers-proposals-navigational-fees-strait-of-hormuz-iran-us?utm_source=lootura.com",
-      "publishedAt": "2026-07-11T04:32:15.000Z",
-      "sourceId": "lootura-us-the-guardian-us"
-    },
-    {
       "title": "Trump Says Negotiations With Iran Will Continue as U.S. Ramps Up Strikes",
       "url": "https://www.nytimes.com/2026/07/10/us/politics/iran-war-escalation.html?utm_source=lootura.com",
       "publishedAt": "2026-07-11T03:48:02.000Z",
+      "sourceId": "lootura-us-the-new-york-times"
+    },
+    {
+      "title": "Iran’s Top Diplomat Is in Oman for Talks on Strait of Hormuz",
+      "url": "https://www.nytimes.com/2026/07/11/world/middleeast/iran-araghchi-oman-iran-strait-of-hormuz.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-11T12:26:08.000Z",
       "sourceId": "lootura-us-the-new-york-times"
     },
     {
@@ -96,5 +107,5 @@
       "sourceId": "lootura-us-the-new-york-times-world"
     }
   ],
-  "evidenceCount": 7
+  "evidenceCount": 8
 }

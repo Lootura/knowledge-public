@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/united-states/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/united-states/index.json",
   "description": "Follow United States, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-11T09:26:55.725Z",
+  "updatedAt": "2026-07-11T13:13:51.228Z",
   "aliases": [
     "America",
     "Estados Unidos",
@@ -31,11 +31,6 @@
       "date": "2026-07-11"
     },
     {
-      "title": "Trump warns US would 'decimate and destroy' Iran over assassination attempt",
-      "summary": "President Donald Trump on Friday warned Iran that the United States would \"decimate and destroy\" the country if Tehran carried out an assassination attempt against him. \"1000 Missiles are Locked and Loaded and aimed at the Islamic Republic of Iran, with thousands of more to immediately follow, should the Iranian Govern.",
-      "date": "2026-07-11"
-    },
-    {
       "title": "Trump threatens Iran after Ayatollah Ali Khamenei's funeral saw calls for his killing",
       "summary": "Trump made the comments on his Truth Social after U.S. officials demanded that Iran make a public statement saying the Strait of Hormuz is open. (Image credit: Iranian Supreme Leader Office).",
       "date": "2026-07-11"
@@ -46,24 +41,29 @@
       "date": "2026-07-11"
     },
     {
-      "title": "Dry winter leaves farmers along Colorado River facing greater water shortages",
-      "summary": "This past winter was an extraordinarily dry one in the western U.S. A lack of snowpack that normally feeds the Colorado River has only deepened the impact of a drought affecting tens of millions in seven states and Mexico. Accelerated by climate change, the drought is taking a bite out of farmers' plans in Colorado. Sc.",
-      "date": "2026-07-10"
+      "title": "Trump threatens to 'decimate' Iran if it tries to kill him, as Treasury sanctions alleged Iranian financier",
+      "summary": "Trump says 1,000 missiles are \"locked and loaded\" and will hit Iran if it carries out its threats to assassinate the U.S. president.",
+      "date": "2026-07-11"
     },
     {
-      "title": "Mexico to File Criminal Complaints in U.S. Over Immigrant Deaths",
-      "summary": "The nation’s president vowed to go “beyond diplomatic notes” after a U.S. immigration agent fatally shot Lorenzo Salgado Araujo, a Mexican man, in Texas this week.",
-      "date": "2026-07-10"
+      "title": "DNA technology leads to arrest in 1988 killing of Orlando woman after nearly four decades",
+      "summary": "A North Carolina man has been charged in the 1988 killing of an Orlando, Florida, woman after advances in DNA technology helped investigators identify a suspect nearly four decades after the case went cold , police said. The Orlando Police Department announced Thursday that Willie J. Carpenter was arrested by the U.S.",
+      "date": "2026-07-11"
     },
     {
-      "title": "Strait of Hormuz Will Soon Be Declared Open to All Traffic, U.S. Officials Say",
-      "summary": "The officials said that Iranian negotiators blamed the recent ship attacks on rogue military units.",
-      "date": "2026-07-10"
+      "title": "Taylor Hicks admits life after winning 'American Idol' was 'a lot tougher than it seems'",
+      "summary": "Winning \" American Idol \" made Taylor Hicks an overnight star, but the singer says life after the confetti fell wasn't nearly as glamorous as many fans imagined. Nearly two decades after capturing America's vote in 2006, Hicks reflected on the realities of sudden fame, revealing the biggest misconception about winning.",
+      "date": "2026-07-11"
     },
     {
-      "title": "Former Afghan general charged with drug and firearm offenses in U.S.",
-      "summary": "A former member of Afghanistan's National Assembly was arrested and charged with conspiring to illegally import heroin and methamphetamine into the U.S.",
-      "date": "2026-07-10"
+      "title": "Political scientist Dominic Tierney on why the U.S. gets trapped in conflicts like Iran",
+      "summary": "NPR's Scott Simon speaks with Swarthmore College political science professor Dominic Tierney about the U.S.-Iran war and other conflicts that have left the U.S. in drawn-out entanglements.",
+      "date": "2026-07-11"
+    },
+    {
+      "title": "America’s Homegrown-Parasite Problem",
+      "summary": "The other night, I found myself in the unenviable position of trying to cook a salad. And I mean cook a salad: I spread fresh, delicious-looking gem lettuce in a pan and watched it wilt away into a sad, heated blob. America appears to be in the midst of an outbreak of—I’m sorry, but there’s no better way to say this—ex.",
+      "date": "2026-07-11"
     }
   ],
   "sources": [
@@ -86,10 +86,28 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "Trump warns US would 'decimate and destroy' Iran over assassination attempt",
-      "url": "https://www.foxnews.com/politics/trump-warns-us-would-decimate-destroy-iran-assassination-attempt?utm_source=lootura.com",
-      "publishedAt": "2026-07-11T08:00:31.000Z",
+      "title": "Trump threatens to 'decimate' Iran if it tries to kill him, as Treasury sanctions alleged Iranian financier",
+      "url": "https://www.cnbc.com/2026/07/11/trump-threat.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-11T12:51:50.000Z",
+      "sourceId": "lootura-us-cnbc"
+    },
+    {
+      "title": "DNA technology leads to arrest in 1988 killing of Orlando woman after nearly four decades",
+      "url": "https://www.foxnews.com/us/dna-technology-leads-arrest-1988-killing-orlando-woman-nearly-four-decades?utm_source=lootura.com",
+      "publishedAt": "2026-07-11T13:00:10.000Z",
       "sourceId": "lootura-us-fox-news"
+    },
+    {
+      "title": "Taylor Hicks admits life after winning 'American Idol' was 'a lot tougher than it seems'",
+      "url": "https://www.foxnews.com/entertainment/taylor-hicks-admits-life-after-winning-american-idol-a-lot-tougher-than-seems?utm_source=lootura.com",
+      "publishedAt": "2026-07-11T13:00:15.000Z",
+      "sourceId": "lootura-us-fox-news"
+    },
+    {
+      "title": "Political scientist Dominic Tierney on why the U.S. gets trapped in conflicts like Iran",
+      "url": "https://www.npr.org/2026/07/11/nx-s1-5886190/political-scientist-dominic-tierney-on-why-the-u-s-gets-trapped-in-conflicts-like-iran?utm_source=lootura.com",
+      "publishedAt": "2026-07-11T11:43:42.000Z",
+      "sourceId": "lootura-us-npr-politics"
     },
     {
       "title": "Trump threatens Iran after Ayatollah Ali Khamenei's funeral saw calls for his killing",
@@ -104,29 +122,11 @@
       "sourceId": "lootura-us-pbs-newshour"
     },
     {
-      "title": "Trump Says Negotiations With Iran Will Continue as U.S. Ramps Up Strikes",
-      "url": "https://www.nytimes.com/2026/07/10/us/politics/iran-war-escalation.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-11T03:48:02.000Z",
-      "sourceId": "lootura-us-the-new-york-times"
-    },
-    {
-      "title": "Mexico to File Criminal Complaints in U.S. Over Immigrant Deaths",
-      "url": "https://www.nytimes.com/2026/07/10/world/americas/mexico-criminal-complaints-immigration-deaths-usa.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-10T20:24:21.000Z",
-      "sourceId": "lootura-us-the-new-york-times"
-    },
-    {
-      "title": "U.S. Employers Told to Dismiss Thousands of Immigrant Workers",
-      "url": "https://www.nytimes.com/2026/07/10/us/politics/tps-workers-dismissals.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-11T01:19:02.000Z",
-      "sourceId": "lootura-us-the-new-york-times-politics"
-    },
-    {
-      "title": "Strait of Hormuz Will Soon Be Declared Open to All Traffic, U.S. Officials Say",
-      "url": "https://www.nytimes.com/2026/07/10/us/politics/strait-hormuz-safe-passage.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-10T22:32:14.000Z",
-      "sourceId": "lootura-us-the-new-york-times-politics"
+      "title": "America’s Homegrown-Parasite Problem",
+      "url": "https://www.theatlantic.com/health/2026/07/cyclosporiasis-parasite-diarrhea-outbreak/687888/?utm_source=lootura.com",
+      "publishedAt": "2026-07-11T13:00:00.000Z",
+      "sourceId": "lootura-us-the-atlantic"
     }
   ],
-  "evidenceCount": 13
+  "evidenceCount": 20
 }

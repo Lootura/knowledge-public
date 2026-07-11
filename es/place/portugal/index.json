@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/portugal/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/portugal/index.json",
   "description": "Sigue la actividad de Portugal en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-11T09:26:27.277Z",
+  "updatedAt": "2026-07-11T13:13:30.845Z",
   "aliases": [],
   "changes": [
     {
@@ -20,13 +20,18 @@
       "title": "Morten Hjulmand ficha por el Atlético de Madrid hasta 2031",
       "summary": "El ansiado pivote. Morten Hjulmand, de 27 años, centrocampista danés que jugaba en el Sporting de Portugal, es nuevo jugador del Atlético de Madrid para.",
       "date": "2026-07-11"
+    },
+    {
+      "title": "La herencia de Bonnie Tyler: su patrimonio de 40 millones quedará en manos de su marido",
+      "summary": "Bonnie Tyler, la cantante que dio voz a unos de los temas más conocidos del mundo de la música, 'Total Eclipse of the Heart', falleció de forma inesperada en la noche del miércoles tras ser hospitalizada el pasado mayo en un hospital de Faro, al sur de Portugal.Tras ser sometida a una cirugía intestinal, permaneció en.",
+      "date": "2026-07-11"
     }
   ],
   "sources": [
     {
-      "title": "Merino, el ejecutor: «Es una locura, pero no es casualidad»",
-      "url": "https://www.abc.es/deportes/futbol/mundial/merino-ejecutor-locura-casualidad-20260710002742-nt.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-11T06:01:29.000Z",
+      "title": "La herencia de Bonnie Tyler: su patrimonio de 40 millones quedará en manos de su marido",
+      "url": "https://www.abc.es/gente/herencia-bonnie-tyler-patrimonio-millones-quedara-manos-20260711134818-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-11T11:51:23.000Z",
       "sourceId": "lootura-es-abc"
     },
     {
@@ -36,5 +41,5 @@
       "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 2
 }

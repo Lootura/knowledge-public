@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/topic/artificial-intelligence/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/topic/artificial-intelligence/index.json",
   "description": "Sigue la actividad de Artificial intelligence en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-11T09:26:27.277Z",
+  "updatedAt": "2026-07-11T13:13:30.845Z",
   "aliases": [
     "AI",
     "machine learning"
@@ -22,10 +22,10 @@
   ],
   "sources": [
     {
-      "title": "¿Quién ganará el Mundial? Así avanzan nuestras predicciones",
-      "url": "https://elpais.com/deportes/mundial-futbol/2026-06-11/quien-ganara-el-mundial-asi-arrancan-nuestras-predicciones.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-10T21:30:33.000Z",
-      "sourceId": "lootura-es-el-pais"
+      "title": "Tarde o temprano tenía que llegar: científicos del MIT logran que un robot posea «memoria en tiempo real» gracias a la IA",
+      "url": "https://okdiario.com/ciencia/tarde-o-temprano-tenia-que-llegar-cientificos-del-mit-logran-que-robot-posea-memoria-tiempo-real-gracias-ia-18906994?utm_source=lootura.com",
+      "publishedAt": "2026-07-11T09:00:55.000Z",
+      "sourceId": "lootura-es-ok-diario"
     }
   ],
   "evidenceCount": 0

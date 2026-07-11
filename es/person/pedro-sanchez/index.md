@@ -3,7 +3,7 @@
 > Sigue la actividad de Pedro Sánchez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-11T09:26:27.277Z
+- Actualizado: 2026-07-11T13:13:30.845Z
 - Canonical: https://atlas.lootura.com/es/person/pedro-sanchez
 
 ## Cambios recientes
@@ -20,13 +20,13 @@ El Juzgado de Instrucción número 4 de la localidad valenciana de Mislata cita 
 
 Date: 2026-07-11
 
-### Máxima colaboración institucional sobre el terreno y guerra política en las redes
+### Mañueco arremete contra Sánchez y pide a los jóvenes implicarse «con fuerza» por España
 
-Sánchez y Moreno colaboran contra la tragedia mientras Puente se lanza contra la Junta y llama "pedazo de sinvergüenza" a Tellado por sus crítica al Gobierno Leer.
+El presidente del PP en Castilla y León, Alfonso Fernández Mañueco , ha pedido este sábado a los jóvenes del Partido Popular que sean valientes, inconformistas y exigentes y ha hecho un llamamiento expreso a que se impliquen y se comprometan con España y a que lo hagan «con fuerza, con ganas y con ilusión». Alfonso Fer.
 
-Date: 2026-07-10
+Date: 2026-07-11
 
 ## Fuentes
 
-- [Máxima colaboración institucional sobre el terreno y guerra política en las redes](https://www.elmundo.es/espana/2026/07/10/6a514826e4d4d8e22c8b458e.html?utm_source=lootura.com) — 2026-07-10T20:34:36.000Z
 - [La exdirectora del Instituto de las Mujeres, citada como imputada por los contratos de los puntos violeta](https://www.larazon.es/espana/exdirectora-instituto-mujeres-citada-como-imputada-contratos-puntos-violeta_202607116a520905c48a78681b81cb2b.html?utm_source=lootura.com) — 2026-07-11T09:12:38.000Z
+- [Mañueco arremete contra Sánchez y pide a los jóvenes implicarse «con fuerza» por España](https://theobjective.com/espana/politica/2026-07-11/manueco-jovenes-sanchez-espana/?utm_source=lootura.com) — 2026-07-11T11:44:40.000Z

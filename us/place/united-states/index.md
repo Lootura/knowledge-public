@@ -3,7 +3,7 @@
 > Follow United States, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-11T09:26:55.725Z
+- Updated: 2026-07-11T13:13:51.228Z
 - Canonical: https://atlas.lootura.com/us/place/united-states
 
 ## Recent changes
@@ -26,12 +26,6 @@ Shifting deadlines are confusing businesses as the end of Temporary Protected St
 
 Date: 2026-07-11
 
-### Trump warns US would 'decimate and destroy' Iran over assassination attempt
-
-President Donald Trump on Friday warned Iran that the United States would "decimate and destroy" the country if Tehran carried out an assassination attempt against him. "1000 Missiles are Locked and Loaded and aimed at the Islamic Republic of Iran, with thousands of more to immediately follow, should the Iranian Govern.
-
-Date: 2026-07-11
-
 ### Trump threatens Iran after Ayatollah Ali Khamenei's funeral saw calls for his killing
 
 Trump made the comments on his Truth Social after U.S. officials demanded that Iran make a public statement saying the Strait of Hormuz is open. (Image credit: Iranian Supreme Leader Office).
@@ -44,39 +38,45 @@ U.S. forces hit more than 170 targets, including air defense systems, drone and 
 
 Date: 2026-07-11
 
-### Dry winter leaves farmers along Colorado River facing greater water shortages
+### Trump threatens to 'decimate' Iran if it tries to kill him, as Treasury sanctions alleged Iranian financier
 
-This past winter was an extraordinarily dry one in the western U.S. A lack of snowpack that normally feeds the Colorado River has only deepened the impact of a drought affecting tens of millions in seven states and Mexico. Accelerated by climate change, the drought is taking a bite out of farmers' plans in Colorado. Sc.
+Trump says 1,000 missiles are "locked and loaded" and will hit Iran if it carries out its threats to assassinate the U.S. president.
 
-Date: 2026-07-10
+Date: 2026-07-11
 
-### Mexico to File Criminal Complaints in U.S. Over Immigrant Deaths
+### DNA technology leads to arrest in 1988 killing of Orlando woman after nearly four decades
 
-The nation’s president vowed to go “beyond diplomatic notes” after a U.S. immigration agent fatally shot Lorenzo Salgado Araujo, a Mexican man, in Texas this week.
+A North Carolina man has been charged in the 1988 killing of an Orlando, Florida, woman after advances in DNA technology helped investigators identify a suspect nearly four decades after the case went cold , police said. The Orlando Police Department announced Thursday that Willie J. Carpenter was arrested by the U.S.
 
-Date: 2026-07-10
+Date: 2026-07-11
 
-### Strait of Hormuz Will Soon Be Declared Open to All Traffic, U.S. Officials Say
+### Taylor Hicks admits life after winning 'American Idol' was 'a lot tougher than it seems'
 
-The officials said that Iranian negotiators blamed the recent ship attacks on rogue military units.
+Winning " American Idol " made Taylor Hicks an overnight star, but the singer says life after the confetti fell wasn't nearly as glamorous as many fans imagined. Nearly two decades after capturing America's vote in 2006, Hicks reflected on the realities of sudden fame, revealing the biggest misconception about winning.
 
-Date: 2026-07-10
+Date: 2026-07-11
 
-### Former Afghan general charged with drug and firearm offenses in U.S.
+### Political scientist Dominic Tierney on why the U.S. gets trapped in conflicts like Iran
 
-A former member of Afghanistan's National Assembly was arrested and charged with conspiring to illegally import heroin and methamphetamine into the U.S.
+NPR's Scott Simon speaks with Swarthmore College political science professor Dominic Tierney about the U.S.-Iran war and other conflicts that have left the U.S. in drawn-out entanglements.
 
-Date: 2026-07-10
+Date: 2026-07-11
+
+### America’s Homegrown-Parasite Problem
+
+The other night, I found myself in the unenviable position of trying to cook a salad. And I mean cook a salad: I spread fresh, delicious-looking gem lettuce in a pan and watched it wilt away into a sad, heated blob. America appears to be in the midst of an outbreak of—I’m sorry, but there’s no better way to say this—ex.
+
+Date: 2026-07-11
 
 ## Sources
 
 - [Former Afghan general charged with drug and firearm offenses in U.S.](https://www.cbsnews.com/news/afghan-general-charged-us-abdul-zahir-qadeer/?utm_source=lootura.com) — 2026-07-10T20:38:41.000Z
 - ["Face the Nation with Margaret Brennan" guests for July 12, 2026](https://www.cbsnews.com/news/face-the-nation-with-margaret-brennan-guests-july-12-2026/?utm_source=lootura.com) — 2026-07-11T00:55:36.000Z
 - [Household staff can earn up to $300,000 working for America](https://www.cbsnews.com/news/household-staff-salaries-record-highs/?utm_source=lootura.com) — 2026-07-10T20:53:13.000Z
-- [Trump warns US would 'decimate and destroy' Iran over assassination attempt](https://www.foxnews.com/politics/trump-warns-us-would-decimate-destroy-iran-assassination-attempt?utm_source=lootura.com) — 2026-07-11T08:00:31.000Z
+- [Trump threatens to 'decimate' Iran if it tries to kill him, as Treasury sanctions alleged Iranian financier](https://www.cnbc.com/2026/07/11/trump-threat.html?utm_source=lootura.com) — 2026-07-11T12:51:50.000Z
+- [DNA technology leads to arrest in 1988 killing of Orlando woman after nearly four decades](https://www.foxnews.com/us/dna-technology-leads-arrest-1988-killing-orlando-woman-nearly-four-decades?utm_source=lootura.com) — 2026-07-11T13:00:10.000Z
+- [Taylor Hicks admits life after winning 'American Idol' was 'a lot tougher than it seems'](https://www.foxnews.com/entertainment/taylor-hicks-admits-life-after-winning-american-idol-a-lot-tougher-than-seems?utm_source=lootura.com) — 2026-07-11T13:00:15.000Z
+- [Political scientist Dominic Tierney on why the U.S. gets trapped in conflicts like Iran](https://www.npr.org/2026/07/11/nx-s1-5886190/political-scientist-dominic-tierney-on-why-the-u-s-gets-trapped-in-conflicts-like-iran?utm_source=lootura.com) — 2026-07-11T11:43:42.000Z
 - [Trump threatens Iran after Ayatollah Ali Khamenei's funeral saw calls for his killing](https://www.npr.org/2026/07/11/nx-s1-5890029/trump-threatens-iran?utm_source=lootura.com) — 2026-07-11T06:34:09.000Z
 - [Dry winter leaves farmers along Colorado River facing greater water shortages](https://www.pbs.org/newshour/show/dry-winter-leaves-farmers-along-colorado-river-facing-greater-water-shortages?utm_source=lootura.com) — 2026-07-10T22:35:24.000Z
-- [Trump Says Negotiations With Iran Will Continue as U.S. Ramps Up Strikes](https://www.nytimes.com/2026/07/10/us/politics/iran-war-escalation.html?utm_source=lootura.com) — 2026-07-11T03:48:02.000Z
-- [Mexico to File Criminal Complaints in U.S. Over Immigrant Deaths](https://www.nytimes.com/2026/07/10/world/americas/mexico-criminal-complaints-immigration-deaths-usa.html?utm_source=lootura.com) — 2026-07-10T20:24:21.000Z
-- [U.S. Employers Told to Dismiss Thousands of Immigrant Workers](https://www.nytimes.com/2026/07/10/us/politics/tps-workers-dismissals.html?utm_source=lootura.com) — 2026-07-11T01:19:02.000Z
-- [Strait of Hormuz Will Soon Be Declared Open to All Traffic, U.S. Officials Say](https://www.nytimes.com/2026/07/10/us/politics/strait-hormuz-safe-passage.html?utm_source=lootura.com) — 2026-07-10T22:32:14.000Z
+- [America’s Homegrown-Parasite Problem](https://www.theatlantic.com/health/2026/07/cyclosporiasis-parasite-diarrhea-outbreak/687888/?utm_source=lootura.com) — 2026-07-11T13:00:00.000Z

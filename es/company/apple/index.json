@@ -8,11 +8,29 @@
   "markdownUrl": "https://atlas.lootura.com/es/company/apple/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/company/apple/index.json",
   "description": "Sigue la actividad de Apple en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-11T06:11:02.390Z",
+  "updatedAt": "2026-07-11T13:13:30.845Z",
   "aliases": [
     "Apple Inc"
   ],
-  "changes": [],
-  "sources": [],
-  "evidenceCount": 0
+  "changes": [
+    {
+      "title": "Las 5 grandes series que debes ver si quieres sacarle el jugo a Apple TV",
+      "summary": "A menos que vivas bajo una piedra, ya lo sabes. Apple TV se ha convertido en la plataforma ideal para los amantes de las series . Y eso se debe a un motivo muy específico . Su éxito no se mide por la cantidad masiva de su catálogo, sino por una apuesta por la máxima calidad. Además del prestigio artístico y la distinci.",
+      "date": "2026-07-11"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Apple first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-07-10"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Las 5 grandes series que debes ver si quieres sacarle el jugo a Apple TV",
+      "url": "https://hipertextual.com/cine-television/las-5-grandes-series-que-debes-ver-si-quieres-sacarle-el-jugo-a-apple-tv/?utm_source=lootura.com",
+      "publishedAt": "2026-07-11T12:00:00.000Z",
+      "sourceId": "lootura-es-hipertextual"
+    }
+  ],
+  "evidenceCount": 1
 }

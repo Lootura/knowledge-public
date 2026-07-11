@@ -8,14 +8,9 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/iran/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/iran/index.json",
   "description": "Sigue la actividad de Iran en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-11T09:26:27.277Z",
+  "updatedAt": "2026-07-11T13:13:30.845Z",
   "aliases": [],
   "changes": [
-    {
-      "title": "Roberto Brasero y la AEMET confirman lluvias y granizo en España éste sábado: «Chubascos y tormentas fuertes»",
-      "summary": "El tiempo cambiará considerablemente este sábado en gran parte del país. Roberto Brasero y la Agencia Estatal de Meteorología (AEMET) señalan que la entrada de un embolsamiento de aire frío sobre la Península traerá consigo la aparición de chubascos y tormentas fuertes . En algunos puntos, estas tormentas irán acompaña.",
-      "date": "2026-07-11"
-    },
     {
       "title": "Trump asegura que hay «mil misiles listos» para atacar Irán si cumple su amenaza de muerte",
       "summary": "El presidente estadounidense, Donald Trump , ha asegurado que cuenta con hasta un millar de proyectiles listos para cargar contra Irán en caso de que las autoridades de la República Islámica cumplan con sus advertencias y atenten contra la vida del mandatario, en un contexto de renovada tensión en el que Teherán ha acu.",
@@ -29,17 +24,11 @@
   ],
   "sources": [
     {
-      "title": "Roberto Brasero y la AEMET confirman lluvias y granizo en España éste sábado: «Chubascos y tormentas fuertes»",
-      "url": "https://okdiario.com/sociedad/roberto-brasero-aemet-confirman-lluvias-granizo-espana-este-sabado-chubascos-tormentas-fuertes-18971775?utm_source=lootura.com",
-      "publishedAt": "2026-07-11T08:47:29.000Z",
-      "sourceId": "lootura-es-ok-diario"
-    },
-    {
       "title": "Trump asegura que hay «mil misiles listos» para atacar Irán si cumple su amenaza de muerte",
       "url": "https://theobjective.com/internacional/2026-07-11/trump-misiles-iran-muerte/?utm_source=lootura.com",
       "publishedAt": "2026-07-11T06:47:48.000Z",
       "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

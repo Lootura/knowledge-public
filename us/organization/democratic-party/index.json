@@ -8,16 +8,11 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/democratic-party/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/democratic-party/index.json",
   "description": "Follow Democratic Party, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-11T09:26:55.725Z",
+  "updatedAt": "2026-07-11T13:13:51.228Z",
   "aliases": [
     "Democrats"
   ],
   "changes": [
-    {
-      "title": "Graham Platner officially files letter withdrawing candidacy",
-      "summary": "Graham Platner, who was the Democratic candidate for Senate in Maine, officially filed a letter withdrawing his candidacy following rape allegations which he denies. The filing triggers a process where the Maine Democratic Party can replace him on the ballot.",
-      "date": "2026-07-10"
-    },
     {
       "title": "Graham Platner makes it official in Maine, submitting paperwork to leave Senate race",
       "summary": "In his withdrawal notice, Platner said \"people are desperate for change\" and that's why they made him the Democratic nominee. Now, Maine Democrats have to pick someone to replace him by July 27. (Image credit: CJ Gunther).",
@@ -34,11 +29,6 @@
       "date": "2026-07-10"
     },
     {
-      "title": "How American Socialism Changed, and Stormed the Democratic Party",
-      "summary": "The movement was better at critiquing the system than reshaping it. But it has never had this much mainstream political power.",
-      "date": "2026-07-10"
-    },
-    {
       "title": "Discovered by Atlas",
       "summary": "Democratic Party first entered the public knowledge record with source-backed evidence.",
       "date": "2026-07-10"
@@ -46,10 +36,10 @@
   ],
   "sources": [
     {
-      "title": "Graham Platner officially files letter withdrawing candidacy",
-      "url": "https://www.nbcnews.com/video/graham-platner-officially-files-letter-withdrawing-candidacy-266518597678?utm_source=lootura.com",
-      "publishedAt": "2026-07-10T21:59:25.000Z",
-      "sourceId": "lootura-us-nbc-news-politics"
+      "title": "Week in Politics: Trump's housing bill protest fails; Trump and NATO; Maine's Democrats",
+      "url": "https://www.npr.org/2026/07/11/nx-s1-5888579/week-in-politics-trumps-housing-bill-protest-fails-trump-and-nato-maines-democrats?utm_source=lootura.com",
+      "publishedAt": "2026-07-11T11:43:45.000Z",
+      "sourceId": "lootura-us-npr-politics"
     },
     {
       "title": "Graham Platner makes it official in Maine, submitting paperwork to leave Senate race",
@@ -68,13 +58,7 @@
       "url": "https://www.nytimes.com/2026/07/10/us/politics/platner-democrats-women-double-standard.html?utm_source=lootura.com",
       "publishedAt": "2026-07-10T21:47:58.000Z",
       "sourceId": "lootura-us-the-new-york-times-politics"
-    },
-    {
-      "title": "How American Socialism Changed, and Stormed the Democratic Party",
-      "url": "https://www.nytimes.com/2026/07/10/magazine/american-socialism-democratic-party.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-10T13:50:51.000Z",
-      "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 6
+  "evidenceCount": 4
 }

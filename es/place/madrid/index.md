@@ -3,16 +3,10 @@
 > Sigue la actividad de Madrid en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-11T09:26:27.277Z
+- Actualizado: 2026-07-11T13:13:30.845Z
 - Canonical: https://atlas.lootura.com/es/place/madrid
 
 ## Cambios recientes
-
-### Revés judicial al chef Dani García: la marca de una ‘foodtruck’ gana a su restaurante dos estrellas Michelin
-
-El chef Dani García ha perdido el pulso judicial contra la marca de una empresa familiar de catering. La Audiencia de Madrid ha confirmado el registro de la marca SmokedHub, utilizada por las dueñas de TaparaFood para identificar su foodtruck, al considerar que no existe riesgo de confusión con Smoked Room Fire Omakase.
-
-Date: 2026-07-11
 
 ### De 120.000 casas en Madrid a ninguna en Soria: así se distribuye el déficit de vivienda en España
 
@@ -26,57 +20,27 @@ Aunque nació en Madrid (1983), el acento de Carlos Matallana atestigua que se c
 
 Date: 2026-07-11
 
-### 500 pesetas con pelotazo, la memoria heavy del Madrid que no salía en los mapas
-
-Entre 1985 y 1995, Madrid tuvo oleadas de chavales desplazándose de un lado a otro de la ciudad. Mientras la capital construía el relato de brillantina y oropeles de la Movida, con bares, grupos, fotógrafos, diseñadores y locales convertidos en epítome de lo cool y lo moderno, en el extrarradio crecía otra subcultura j.
-
-Date: 2026-07-11
-
-### Objetivo 2027: Feijóo se multiplica por el territorio y convoca a sus alcaldes en Santiago
-
-Alberto Núñez Feijóo ha llenado su agenda de actos y reuniones fuera de Madrid en las últimas semanas. Barcelona, Castellón, Murcia, Pamplona, Santander, Bilbao o Valladolid han sido algunas de las ciudades que ha pisado un líder del PP que piensa ya en la carrera de fondo que exige el ciclo electoral que arranca en se.
-
-Date: 2026-07-11
-
-### La exposición de la generación de la EGB llega a Madrid: “Es un viaje que te transporta a otra época”
-
-Un sofá de escay y la vajilla Duralex, un kiosco en el que comprar petazetas, el escenario del ‘1, 2, 3’, unos libros de los años 70 y 80, y hasta Espinete. Los lectores más avezados ya se podrán haber hecho a la idea de lo que aquí se cuece: los grandes iconos, objetos y emblemas de aquella generación que fue a EGB y.
-
-Date: 2026-07-11
-
-### La amnesia y el relato
-
-Dicen de Madrid que es castizo. O sea, que es auténtico, que tiene un buen origen. Paradójicamente, Madrid es un lugar donde el origen no le interesa a nadie . Puedes ser neurótico (o incluso psicótico) y a nadie le importa. No hay más que ver la cantidad de predicadores religiosos que dan la turra en el metro. Aquí pu.
-
-Date: 2026-07-11
-
 ### Discovered by Atlas
 
 Madrid first entered the public knowledge record with source-backed evidence.
 
 Date: 2026-07-11
 
-### Un vecino de Cádiz no se corta y dice lo que muchos piensan sobre los turistas de Madrid que van allí en verano: «Después se molestan»
+### Morten Hjulmand ficha por el Atlético de Madrid hasta 2031
 
-El gaditano opina sin filtros sobre la actitud de los madrileños que pasan sus vacaciones en la provincia andaluza.
+El ansiado pivote. Morten Hjulmand, de 27 años, centrocampista danés que jugaba en el Sporting de Portugal, es nuevo jugador del Atlético de Madrid para.
 
 Date: 2026-07-11
 
-### Muere un joven de 17 años atropellado por un coche en la A-1, en Madrid
+### La joya escondida a una hora y media de Madrid para escapar del sofocante calor y del ruido
 
-Un joven de 17 años ha muerto en la madrugada de este sábado tras ser atropellado por un turismo en la autovía A-1, según ha informado Emergencias 112 de la Comunidad de Madrid .El suceso, que está investigando la Guardia Civil, ha ocurrido a las 5:15 horas. El Summa 112 le ha practicado maniobras de reanimación a su l.
+El sofocante calor está causando estragos a los españoles . Y lo que aún no son afortunados para estar de vacaciones hay algunas alternativas para huir de las altas temperaturas y del estrés de las grandes ciudades durante un fin de semana. Muchos son los rincones de nuestro país que ofrecen estas alternativas, pero el.
 
 Date: 2026-07-11
 
 ## Fuentes
 
-- [Un vecino de Cádiz no se corta y dice lo que muchos piensan sobre los turistas de Madrid que van allí en verano: «Después se molestan»](https://www.abc.es/recreo/vecino-cadiz-corta-dice-piensan-sobre-turistas-20260711100000-nt_amp.html?utm_source=lootura.com) — 2026-07-11T08:00:00.000Z
-- [Muere un joven de 17 años atropellado por un coche en la A-1, en Madrid](https://www.abc.es/espana/madrid/muere-joven-anos-atropellado-coche-20260711101255-nt.html?utm_source=lootura.com) — 2026-07-11T08:17:52.000Z
-- [Revés judicial al chef Dani García: la marca de una ‘foodtruck’ gana a su restaurante dos estrellas Michelin](https://cincodias.elpais.com/companias/2026-07-11/reves-judicial-al-chef-dani-garcia-la-marca-de-una-foodtruck-gana-a-su-restaurante-dos-estrellas-michelin.html?utm_source=lootura.com) — 2026-07-11T03:15:00.000Z
 - [De 120.000 casas en Madrid a ninguna en Soria: así se distribuye el déficit de vivienda en España](https://elpais.com/economia/vivienda/2026-07-11/de-120000-casas-en-madrid-a-ninguna-en-soria-asi-se-distribuye-el-deficit-de-vivienda-en-espana.html?utm_source=lootura.com) — 2026-07-11T03:30:01.000Z
 - [Carlos Matallana (LunaJets): “No hay que ser millonario para irse de vacaciones en un ‘jet”](https://cincodias.elpais.com/fortunas/2026-07-11/carlos-matallana-lunajets-no-hay-que-ser-millonario-para-irse-de-vacaciones-en-un-jet.html?utm_source=lootura.com) — 2026-07-11T03:45:01.000Z
-- [500 pesetas con pelotazo, la memoria heavy del Madrid que no salía en los mapas](https://www.elconfidencial.com/espana/madrid/2026-07-11/500-pesetas-con-pelotazo-la-memoria-heavy-del-madrid-que-no-salia-en-los-mapas_4386647/?utm_source=lootura.com) — 2026-07-11T03:00:00.000Z
-- [Objetivo 2027: Feijóo se multiplica por el territorio y convoca a sus alcaldes en Santiago](https://www.elconfidencial.com/espana/2026-07-11/objetivo-2027-feijoo-multiplica-territorio-convoca-alcaldes-santiago_4388102/?utm_source=lootura.com) — 2026-07-11T03:00:00.000Z
-- [La exposición de la generación de la EGB llega a Madrid: “Es un viaje que te transporta a otra época”](https://www.elconfidencial.com/espana/madrid/2026-07-11/la-exposicion-de-la-generacion-de-la-egb-llega-a-madrid-es-un-viaje-que-te-transporta-a-otra-epoca_4388117/?utm_source=lootura.com) — 2026-07-11T03:00:00.000Z
-- [La amnesia y el relato](https://theobjective.com/elsubjetivo/opinion/2026-07-11/amnesia-relato-articulo-jon-viar/?utm_source=lootura.com) — 2026-07-11T03:25:00.000Z
+- [La joya escondida a una hora y media de Madrid para escapar del sofocante calor y del ruido](https://www.larazon.es/castilla-y-leon/joya-escondida-hora-media-madrid-escapar-sofocante-calor-ruido_202607116a523e5fc0b5fb431c4e785f.html?utm_source=lootura.com) — 2026-07-11T13:00:15.000Z
 - [Morten Hjulmand ficha por el Atlético de Madrid hasta 2031](https://theobjective.com/deportes/futbol/2026-07-11/morten-hjulmand-atletico-madrid/?amp=&utm_source=lootura.com) — 2026-07-11T09:20:06.000Z

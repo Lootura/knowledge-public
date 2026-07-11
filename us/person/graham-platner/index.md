@@ -3,7 +3,7 @@
 > Follow Graham Platner, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-07-11T09:26:55.725Z
+- Updated: 2026-07-11T13:13:51.228Z
 - Canonical: https://atlas.lootura.com/us/person/graham-platner
 
 ## Recent changes
@@ -32,12 +32,6 @@ Two senior editors discuss the difficult effort to track down allegations agains
 
 Date: 2026-07-11
 
-### Graham Platner officially files letter withdrawing candidacy
-
-Graham Platner, who was the Democratic candidate for Senate in Maine, officially filed a letter withdrawing his candidacy following rape allegations which he denies. The filing triggers a process where the Maine Democratic Party can replace him on the ballot.
-
-Date: 2026-07-10
-
 ### Graham Platner makes it official in Maine, submitting paperwork to leave Senate race
 
 In his withdrawal notice, Platner said "people are desperate for change" and that's why they made him the Democratic nominee. Now, Maine Democrats have to pick someone to replace him by July 27. (Image credit: CJ Gunther).
@@ -53,7 +47,6 @@ Date: 2026-07-10
 ## Sources
 
 - [Graham Platner formally drops out of Maine Senate race](https://www.cbsnews.com/news/graham-platner-exits-maine-senate-race/?utm_source=lootura.com) — 2026-07-11T00:12:32.000Z
-- [Graham Platner officially files letter withdrawing candidacy](https://www.nbcnews.com/video/graham-platner-officially-files-letter-withdrawing-candidacy-266518597678?utm_source=lootura.com) — 2026-07-10T21:59:25.000Z
 - [Graham Platner makes it official in Maine, submitting paperwork to leave Senate race](https://www.npr.org/2026/07/10/nx-s1-5888709/graham-platner-maine-senate-susan-collins?utm_source=lootura.com) — 2026-07-10T21:22:01.000Z
 - [Democrats Haunted by Biden-Harris Switch as They Replace Platner in Maine](https://www.nytimes.com/2026/07/10/us/platner-replacement-maine-biden-harris.html?utm_source=lootura.com) — 2026-07-10T17:57:28.000Z
 - [Platner’s Rise and Fall Revives Old Questions About ‘Bernie Bros’ and Women](https://www.nytimes.com/2026/07/11/us/politics/bernie-sanders-graham-platner-maine.html?utm_source=lootura.com) — 2026-07-11T09:02:08.000Z
