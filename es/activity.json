@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-07-11T09:30:39.447Z",
+  "generatedAt": "2026-07-11T09:53:29.138Z",
   "latestIngest": {
-    "id": "2026-07-11T09-28-43-ingest",
+    "id": "2026-07-11T09-38-23-ingest",
     "mode": "ingest",
-    "startedAt": "2026-07-11T09:28:43.007Z",
-    "finishedAt": "2026-07-11T09:28:43.924Z",
+    "startedAt": "2026-07-11T09:38:20.268Z",
+    "finishedAt": "2026-07-11T09:38:23.851Z",
     "sourcesChecked": 33,
     "sourceItemsFound": 240,
     "sourceItemsProcessed": 240,
@@ -14,21 +14,21 @@
     "skippedItems": 0,
     "errors": 0,
     "notes": [
-      "Imported Lootura Radar profiles us, es from HEAD.",
+      "Imported Lootura Radar profiles us, es from b8a51e6d2209d796ad50e990f4fdda45186c74f0.",
       "Radar is the only publication input. Raw feed crawling and demo seeds are not used."
     ]
   },
   "latestBuild": {
-    "id": "2026-07-11T09-29-09-build",
+    "id": "2026-07-11T09-38-35-build",
     "mode": "build",
-    "startedAt": "2026-07-11T09:28:44.723Z",
-    "finishedAt": "2026-07-11T09:29:09.035Z",
+    "startedAt": "2026-07-11T09:38:24.118Z",
+    "finishedAt": "2026-07-11T09:38:35.222Z",
     "sourcesChecked": 33,
     "sourceItemsFound": 240,
     "sourceItemsProcessed": 240,
-    "validatedEventsCreated": 209,
-    "entitiesCreated": 358,
-    "storiesCreated": 209,
+    "validatedEventsCreated": 58,
+    "entitiesCreated": 308,
+    "storiesCreated": 58,
     "skippedItems": 0,
     "errors": 20,
     "notes": [
@@ -59,44 +59,44 @@
     },
     {
       "label": "entidades públicas",
-      "value": 11,
+      "value": 24,
       "detail": "visibles en el atlas"
     },
     {
       "label": "candidatos internos",
-      "value": 14,
+      "value": 10,
       "detail": "retenidos para revisión de calidad"
     }
   ],
   "entries": [
     {
-      "id": "2026-07-11T09-29-09-build-build",
+      "id": "2026-07-11T09-38-35-build-build",
       "kind": "build",
-      "date": "2026-07-11T09:29:09.035Z",
+      "date": "2026-07-11T09:38:35.222Z",
       "title": "Build de conocimiento completada",
       "summary": "100 cambios validados y 120 entradas de cronología se generaron con evidencia respaldada por fuentes.",
       "status": "warning",
       "meta": [
-        "25 candidatos revisados",
+        "34 candidatos revisados",
         "100 registros construidos"
       ]
     },
     {
       "id": "entity-index-reviewed",
       "kind": "review",
-      "date": "2026-07-11T09:29:09.035Z",
+      "date": "2026-07-11T09:38:35.222Z",
       "title": "Índice de entidades revisado",
-      "summary": "11 entidades son públicas. 14 quedan internas mientras se revisan tipado, calidad y duplicados.",
+      "summary": "24 entidades son públicas. 10 quedan internas mientras se revisan tipado, calidad y duplicados.",
       "status": "ok",
       "meta": [
         "0 no publicadas tras limpieza",
-        "25 conservadas tras limpieza"
+        "34 conservadas tras limpieza"
       ]
     },
     {
       "id": "evidence-trail-refreshed",
       "kind": "evidence",
-      "date": "2026-07-11T09:29:09.035Z",
+      "date": "2026-07-11T09:38:35.222Z",
       "title": "Rastro de evidencia actualizado",
       "summary": "120 registros de evidencia están disponibles para cambios públicos e internos. No se copian cuerpos de artículos.",
       "status": "ok",
@@ -106,9 +106,9 @@
       ]
     },
     {
-      "id": "2026-07-11T09-28-43-ingest-ingest",
+      "id": "2026-07-11T09-38-23-ingest-ingest",
       "kind": "ingest",
-      "date": "2026-07-11T09:28:43.924Z",
+      "date": "2026-07-11T09:38:23.851Z",
       "title": "Ingesta de fuentes completada",
       "summary": "120 señales se importaron desde 14 fuentes para este atlas.",
       "status": "ok",
@@ -119,8 +119,8 @@
       ]
     }
   ],
-  "publicEntities": 11,
-  "internalCandidates": 14,
-  "reviewedCandidates": 25,
+  "publicEntities": 24,
+  "internalCandidates": 10,
+  "reviewedCandidates": 34,
   "notPublishedAfterReview": 0
 }

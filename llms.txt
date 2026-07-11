@@ -11,6 +11,9 @@ US releases: https://atlas.lootura.com/us/updates
 ES releases: https://atlas.lootura.com/es/updates
 
 Latest released updates
+1.14.3 — Durable Atlas entity history (2026-07-11)
+Atlas now preserves previously published entities and their history across feed refreshes, while maintenance cleanup continues to remove weak unpublished candidates and incorrect associations.
+
 1.14.2 — Signal-driven breaking and home feature fallback (2026-07-10)
 Signal coverage is now connected to Atlas-driven breaking on the Signal page, with stronger matching for real-world breaking candidates and cleaner ordering for entity-linked signals.
 
@@ -32,27 +35,24 @@ Lootura improves image extraction, validation, and recovery so sources with inco
 1.12.0 — Compact brief and cleaner signals (2026-07-04)
 Lootura adds a compact signal read by edition inside the app, reuses the same logic in the Chrome extension, and refines how headlines, images, and the Signal cover are shown.
 
-1.11.0 — Cross-edition signal lab (2026-05-23)
-Lootura adds a lab for seeing which signals from one edition are also being covered by media in other editions.
-
 Top updated entities (recent)
 - Artificial intelligence: https://atlas.lootura.com/us/topic/artificial-intelligence
 - Canada: https://atlas.lootura.com/us/place/canada
 - Charlie Kirk: https://atlas.lootura.com/us/person/charlie-kirk
+- China: https://atlas.lootura.com/us/place/china
 - Democratic Party: https://atlas.lootura.com/us/organization/democratic-party
 - Donald Trump: https://atlas.lootura.com/us/person/donald-trump
+- España: https://atlas.lootura.com/us/place/espana
+- Europe: https://atlas.lootura.com/us/place/europe
 - Graham Platner: https://atlas.lootura.com/us/person/graham-platner
 - Iran: https://atlas.lootura.com/us/place/iran
 - Maine: https://atlas.lootura.com/us/place/maine
 - Maine Senate: https://atlas.lootura.com/us/organization/maine-senate
+- New York: https://atlas.lootura.com/us/place/new-york
+- Russia: https://atlas.lootura.com/us/place/russia
+- Startups: https://atlas.lootura.com/us/market/startups
+- Supreme Court: https://atlas.lootura.com/us/organization/supreme-court
+- Tyler Robinson: https://atlas.lootura.com/us/person/tyler-robinson
+- Ukraine: https://atlas.lootura.com/us/place/ukraine
 - United States: https://atlas.lootura.com/us/place/united-states
-- Barcelona: https://atlas.lootura.com/es/place/barcelona
-- Belgium: https://atlas.lootura.com/es/place/belgium
-- Donald Trump: https://atlas.lootura.com/es/person/donald-trump
-- España: https://atlas.lootura.com/es/place/espana
-- Iran: https://atlas.lootura.com/es/place/iran
-- Lamine Yamal: https://atlas.lootura.com/es/person/lamine-yamal
-- Madrid: https://atlas.lootura.com/es/place/madrid
-- Partido Popular: https://atlas.lootura.com/es/organization/partido-popular
-- Pedro Sánchez: https://atlas.lootura.com/es/person/pedro-sanchez
-- Portugal: https://atlas.lootura.com/es/place/portugal
+- Venezuela: https://atlas.lootura.com/us/place/venezuela
