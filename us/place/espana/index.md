@@ -1,6 +1,6 @@
-# España
+# Spain
 
-> Follow España, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
+> Follow Spain, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
 - Updated: 2026-07-12T06:31:22.183Z

@@ -1,6 +1,6 @@
-# Artificial intelligence
+# Inteligencia artificial
 
-> Sigue la actividad de Artificial intelligence en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
+> Sigue la actividad de Inteligencia artificial en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: topic
 - Actualizado: 2026-07-12T06:30:48.397Z

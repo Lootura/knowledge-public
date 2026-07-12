@@ -1,13 +1,13 @@
 {
   "id": "es-nato",
-  "name": "NATO",
+  "name": "Organización del Tratado del Atlántico Norte",
   "type": "organization",
   "locale": "es",
   "canonicalPath": "/es/organization/nato",
   "canonicalUrl": "https://atlas.lootura.com/es/organization/nato",
   "markdownUrl": "https://atlas.lootura.com/es/organization/nato/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/nato/index.json",
-  "description": "Sigue la actividad de NATO en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
+  "description": "Sigue la actividad de Organización del Tratado del Atlántico Norte en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
   "updatedAt": "2026-07-12T06:30:48.397Z",
   "aliases": [
     "North Atlantic Treaty Organization",

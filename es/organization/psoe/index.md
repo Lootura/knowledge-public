@@ -1,6 +1,6 @@
-# PSOE
+# Partido Socialista Obrero Español
 
-> Sigue la actividad de PSOE en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
+> Sigue la actividad de Partido Socialista Obrero Español en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
 - Actualizado: 2026-07-12T06:30:48.397Z

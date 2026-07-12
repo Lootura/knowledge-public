@@ -1,13 +1,13 @@
 {
   "id": "usa-espana",
-  "name": "España",
+  "name": "Spain",
   "type": "place",
   "locale": "en",
   "canonicalPath": "/us/place/espana",
   "canonicalUrl": "https://atlas.lootura.com/us/place/espana",
   "markdownUrl": "https://atlas.lootura.com/us/place/espana/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/espana/index.json",
-  "description": "Follow España, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
+  "description": "Follow Spain, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
   "updatedAt": "2026-07-12T06:31:22.183Z",
   "aliases": [
     "Estado español",

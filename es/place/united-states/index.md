@@ -1,6 +1,6 @@
-# United States
+# Estados Unidos
 
-> Sigue la actividad de United States en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
+> Sigue la actividad de Estados Unidos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
 - Actualizado: 2026-07-12T06:30:48.397Z
