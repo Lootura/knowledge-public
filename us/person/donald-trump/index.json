@@ -8,18 +8,13 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/donald-trump/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/donald-trump/index.json",
   "description": "Follow Donald Trump, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-12T13:15:03.815Z",
+  "updatedAt": "2026-07-12T16:56:46.923Z",
   "aliases": [
     "President Donald Trump",
     "President Trump",
     "Trump"
   ],
   "changes": [
-    {
-      "title": "'America and the world have lost a determined leader': Tributes pour in after Sen Lindsey Graham's death",
-      "summary": "Tributes poured in Sunday from President Donald Trump , congressional leaders and foreign allies after Sen. Lindsey Graham, R-S.C., died at 71 following what his office described as a \"brief and sudden illness,\" bringing to an end the career of one of the Senate's most influential Republican voices. The South Carolina.",
-      "date": "2026-07-12"
-    },
     {
       "title": "NATO spending pressure returned",
       "summary": "NBC’s Kristen Welker joins Willie Geist to remember senator Lindsey Graham who has died at 71. Kristen discusses Sen. Graham’s long road through South Carolina and in Washington, his role as one of President Donald Trump’s staunchest allies and his advocacy for a more robust military response to Iran. “What a shocking.",
@@ -46,19 +41,29 @@
       "date": "2026-07-12"
     },
     {
-      "title": "Lindsey Graham, key ally of Donald Trump, has died after sudden illness, his office says",
-      "summary": "Republican served in Senate since 2003 and was sharp Trump critic before becoming one of his most loyal backers Lindsey Graham, a longtime US senator and key ally of Donald Trump, has died from a sudden illness, his office said on Sunday. He had just turned 71. Graham’s abrupt death will send shock waves through Washin.",
+      "title": "Trump remembers his last call with Lindsey Graham the night before his death: Full interview",
+      "summary": "In an exclusive interview with Meet the Press, President Donald Trump reacts to the death of Sen. Lindsey Graham (R-S.C.).",
+      "date": "2026-07-12"
+    },
+    {
+      "title": "Trump says ‘I have somebody that I like’ to succeed Lindsey Graham but ‘too soon’ to say who",
+      "summary": "President Donald Trump joins Meet the Press in an exclusive interview and weighs in on the decision Gov. Henry McMaster (R-S.C.) now faces to appoint someone to fill the late Sen. Lindsey Graham’s (R-S.C.) seat. “Ultimately they'll have an election,” Trump said. “Some are good, some are bad. And but I have somebody tha.",
+      "date": "2026-07-12"
+    },
+    {
+      "title": "Sen. Lindsey Graham of South Carolina, Trump ally and foreign policy hawk, dies at 71",
+      "summary": "His office said Graham died Saturday night after a \"brief and sudden illness.\" The Republican senator was instrumental in enacting Trump's policy and staffing priorities. (Image credit: Jeffrey Collins).",
+      "date": "2026-07-12"
+    },
+    {
+      "title": "Trump Mourns Graham as ‘Great Politician’ and ‘Member of the Family’",
+      "summary": "In an interview on Sunday, President Trump recounted his last conversation with Senator Lindsey Graham, hours before his death. Mr. Graham sounded “perfect,” he said.",
       "date": "2026-07-12"
     },
     {
       "title": "Trump’s Posts on Singing Somali Schoolchildren Stir Anger in Minnesota",
       "summary": "The state’s large Muslim and Somali communities expressed indignation after the president reposted a video of a kindergarten promotion ceremony, including comments noting the girls were in hijabs.",
       "date": "2026-07-11"
-    },
-    {
-      "title": "Discovered by Atlas",
-      "summary": "Donald Trump first entered the public knowledge record with source-backed evidence.",
-      "date": "2026-07-10"
     }
   ],
   "sources": [
@@ -69,10 +74,16 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "'America and the world have lost a determined leader': Tributes pour in after Sen Lindsey Graham's death",
-      "url": "https://www.foxnews.com/politics/america-world-lost-determined-leader-tributes-pour-sen-lindsey-graham-death?utm_source=lootura.com",
-      "publishedAt": "2026-07-12T12:54:53.000Z",
-      "sourceId": "lootura-us-fox-news"
+      "title": "Trump remembers his last call with Lindsey Graham the night before his death: Full interview",
+      "url": "https://www.nbcnews.com/meet-the-press/video/trump-remembers-his-last-call-with-lindsey-graham-the-night-before-his-death-full-interview-266560581571?utm_source=lootura.com",
+      "publishedAt": "2026-07-12T13:18:04.000Z",
+      "sourceId": "lootura-us-nbc-news"
+    },
+    {
+      "title": "Trump says ‘I have somebody that I like’ to succeed Lindsey Graham but ‘too soon’ to say who",
+      "url": "https://www.nbcnews.com/meet-the-press/video/trump-says-i-have-somebody-that-i-like-to-succeed-lindsey-graham-but-too-soon-to-say-who-266560069560?utm_source=lootura.com",
+      "publishedAt": "2026-07-12T13:24:37.000Z",
+      "sourceId": "lootura-us-nbc-news-politics"
     },
     {
       "title": "Kristen Welker Remembers Sen. Lindsey Graham’s Legacy",
@@ -93,6 +104,12 @@
       "sourceId": "lootura-us-npr-politics"
     },
     {
+      "title": "Sen. Lindsey Graham of South Carolina, Trump ally and foreign policy hawk, dies at 71",
+      "url": "https://www.npr.org/2026/07/12/nx-s1-5890790/us-sen-lindsey-graham-dies?utm_source=lootura.com",
+      "publishedAt": "2026-07-12T07:10:41.000Z",
+      "sourceId": "lootura-us-npr-politics"
+    },
+    {
       "title": "Politics chat: Lindsey Graham dies at 71, Congress back in session, U.S. strikes Iran",
       "url": "https://www.npr.org/2026/07/12/nx-s1-5887274/politics-chat-lindsey-graham-dies-at-71-congress-back-in-session-u-s-strikes-iran?utm_source=lootura.com",
       "publishedAt": "2026-07-12T11:57:11.000Z",
@@ -105,17 +122,11 @@
       "sourceId": "lootura-us-npr-politics"
     },
     {
-      "title": "Lindsey Graham, key ally of Donald Trump, has died after sudden illness, his office says",
-      "url": "https://www.theguardian.com/us-news/2026/jul/12/lindsey-graham-key-ally-of-donald-trump-has-died-after-sudden-illness-his-office-says?utm_source=lootura.com",
-      "publishedAt": "2026-07-12T10:30:10.000Z",
-      "sourceId": "lootura-us-the-guardian-us"
-    },
-    {
-      "title": "Trump’s Posts on Singing Somali Schoolchildren Stir Anger in Minnesota",
-      "url": "https://www.nytimes.com/2026/07/11/us/politics/trump-somali-kindergartners.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-11T21:04:50.000Z",
+      "title": "Trump Mourns Graham as ‘Great Politician’ and ‘Member of the Family’",
+      "url": "https://www.nytimes.com/2026/07/12/us/politics/donald-trump-lindsey-graham-death-interview.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-12T16:37:27.000Z",
       "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 9
+  "evidenceCount": 11
 }

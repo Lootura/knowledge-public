@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/canada/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/canada/index.json",
   "description": "Follow Canada, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-12T13:15:03.815Z",
+  "updatedAt": "2026-07-12T16:56:46.923Z",
   "aliases": [],
   "changes": [
     {
@@ -19,11 +19,6 @@
     {
       "title": "Discovered by Atlas",
       "summary": "Canada first entered the public knowledge record with source-backed evidence.",
-      "date": "2026-07-11"
-    },
-    {
-      "title": "Poll: Patriotism in the US, Europe and Canada, charted",
-      "summary": "What does it mean to be patriotic? It depends on a country's politics. Pride in one’s country is itself relatively common, according to new results from an international edition of The POLITICO Poll: Majorities of adults across the United States, United Kingdom, Spain, Canada, France and Germany all say they are proud.",
       "date": "2026-07-11"
     }
   ],
@@ -39,13 +34,7 @@
       "url": "https://www.cbsnews.com/news/deadly-shooting-toronto-street-festival/?utm_source=lootura.com",
       "publishedAt": "2026-07-12T03:33:20.000Z",
       "sourceId": "lootura-us-cbs-news"
-    },
-    {
-      "title": "Poll: Patriotism in the US, Europe and Canada, charted",
-      "url": "https://www.politico.com/news/2026/07/11/poll-politics-patriotism-us-europe-canada-00993636?utm_source=lootura.com",
-      "publishedAt": "2026-07-11T20:00:00.000Z",
-      "sourceId": "lootura-us-politico"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 2
 }

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/united-states/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/united-states/index.json",
   "description": "Follow United States, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-12T13:15:03.815Z",
+  "updatedAt": "2026-07-12T16:56:46.923Z",
   "aliases": [
     "America",
     "Estados Unidos",
@@ -36,16 +36,6 @@
       "date": "2026-07-12"
     },
     {
-      "title": "Majority of U.S. workers support an AI wealth fund as tech layoffs surge, survey finds",
-      "summary": "A majority of U.S. employees now want an AI sovereign wealth fund to hold corporations more accountable, according to a recent survey, as tech layoffs rise.",
-      "date": "2026-07-12"
-    },
-    {
-      "title": "'America and the world have lost a determined leader': Tributes pour in after Sen Lindsey Graham's death",
-      "summary": "Tributes poured in Sunday from President Donald Trump , congressional leaders and foreign allies after Sen. Lindsey Graham, R-S.C., died at 71 following what his office described as a \"brief and sudden illness,\" bringing to an end the career of one of the Senate's most influential Republican voices. The South Carolina.",
-      "date": "2026-07-12"
-    },
-    {
       "title": "A Bible passage is at the center of a debate over how the U.S. should treat immigrants",
       "summary": "A debate over the Bible verse Matthew 25 is pitting mainline pastors, Black protestants and the pope against evangelical politicians put on the defensive over President Trump's policies.",
       "date": "2026-07-12"
@@ -64,9 +54,25 @@
       "title": "Younger Voters Are Propelling the Democratic Socialist Surge in New York",
       "summary": "Age seemed to be the predominant factor in the Democratic Socialists of America’s primary wins in House races in New York City.",
       "date": "2026-07-12"
+    },
+    {
+      "title": "Hard-Liners in Iran Want to Keep Fighting America",
+      "summary": "With much of their leadership killed in the war, Iran’s conservatives have sought to fill the void and intensify the fight against the United States.",
+      "date": "2026-07-12"
+    },
+    {
+      "title": "40 million under alerts as heat dome peaks across western U.S.",
+      "summary": "Heat alerts were issued for millions across parts of the western U.S. Sunday as an unusually prolonged heat dome reached its peak.",
+      "date": "2026-07-12"
     }
   ],
   "sources": [
+    {
+      "title": "40 million under alerts as heat dome peaks across western U.S.",
+      "url": "https://www.cbsnews.com/news/40-million-under-alerts-heat-dome-peaks-western-us/?utm_source=lootura.com",
+      "publishedAt": "2026-07-12T16:29:09.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
     {
       "title": "Exhibit looks at how the Declaration of Independence evolved",
       "url": "https://www.cbsnews.com/video/exhibit-looks-how-declaration-independence-evolved/?utm_source=lootura.com",
@@ -74,9 +80,15 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
+      "title": "Transcript: Israeli Ambassador Michael Leiter on",
+      "url": "https://www.cbsnews.com/news/israel-michael-leiter-face-the-nation-transcript-07-12-2026/?utm_source=lootura.com",
+      "publishedAt": "2026-07-12T16:56:10.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
+    {
       "title": "U.S. and world leaders pay tribute to Lindsey Graham following sudden death",
       "url": "https://www.cbsnews.com/news/lindsey-graham-us-world-leaders-pay-tribute-following-sudden-death-trump-netanyahu/?utm_source=lootura.com",
-      "publishedAt": "2026-07-12T12:24:17.000Z",
+      "publishedAt": "2026-07-12T16:46:11.000Z",
       "sourceId": "lootura-us-cbs-news"
     },
     {
@@ -86,21 +98,21 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "Majority of U.S. workers support an AI wealth fund as tech layoffs surge, survey finds",
-      "url": "https://www.cnbc.com/2026/07/12/majority-of-us-workers-support-ai-fund-amid-tech-layoffs-survey.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-12T12:27:55.000Z",
+      "title": "U.S. and Iran trade airstrikes again amid conflicting claims over Strait of Hormuz",
+      "url": "https://www.cnbc.com/2026/07/11/us-airstrikes-iran-strait-hormuz.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-12T16:14:06.000Z",
       "sourceId": "lootura-us-cnbc"
     },
     {
-      "title": "'America and the world have lost a determined leader': Tributes pour in after Sen Lindsey Graham's death",
-      "url": "https://www.foxnews.com/politics/america-world-lost-determined-leader-tributes-pour-sen-lindsey-graham-death?utm_source=lootura.com",
-      "publishedAt": "2026-07-12T12:54:53.000Z",
-      "sourceId": "lootura-us-fox-news"
+      "title": "Adam Schiff remembers Lindsey Graham as ‘larger than life’: Full interview",
+      "url": "https://www.nbcnews.com/meet-the-press/video/adam-schiff-remembers-lindsey-graham-as-larger-than-life-full-interview-266560069770?utm_source=lootura.com",
+      "publishedAt": "2026-07-12T13:55:07.000Z",
+      "sourceId": "lootura-us-nbc-news"
     },
     {
-      "title": "The biggest steam locomotive is whistle-stopping across the U.S.",
-      "url": "https://www.npr.org/2026/07/11/nx-s1-5872656/big-boy-locomotive-steam?utm_source=lootura.com",
-      "publishedAt": "2026-07-11T15:14:42.000Z",
+      "title": "What to know about the cyclosporiasis outbreak hitting more than half of U.S. states",
+      "url": "https://www.npr.org/2026/07/12/nx-s1-5890935/cyclosporiasis-outbreak-diarrhea-nausea-where-states-us?utm_source=lootura.com",
+      "publishedAt": "2026-07-12T16:48:41.000Z",
       "sourceId": "lootura-us-npr"
     },
     {
@@ -114,18 +126,6 @@
       "url": "https://www.npr.org/2026/07/12/nx-s1-5887378/monopoly-tariffs-china-manufacturing-made-inusa?utm_source=lootura.com",
       "publishedAt": "2026-07-12T09:00:00.000Z",
       "sourceId": "lootura-us-npr"
-    },
-    {
-      "title": "Politics chat: Lindsey Graham dies at 71, Congress back in session, U.S. strikes Iran",
-      "url": "https://www.npr.org/2026/07/12/nx-s1-5887274/politics-chat-lindsey-graham-dies-at-71-congress-back-in-session-u-s-strikes-iran?utm_source=lootura.com",
-      "publishedAt": "2026-07-12T11:57:11.000Z",
-      "sourceId": "lootura-us-npr-politics"
-    },
-    {
-      "title": "Poll: Patriotism in the US, Europe and Canada, charted",
-      "url": "https://www.politico.com/news/2026/07/11/poll-politics-patriotism-us-europe-canada-00993636?utm_source=lootura.com",
-      "publishedAt": "2026-07-11T20:00:00.000Z",
-      "sourceId": "lootura-us-politico"
     }
   ],
   "evidenceCount": 17

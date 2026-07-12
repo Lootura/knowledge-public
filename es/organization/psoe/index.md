@@ -8,18 +8,8 @@
 
 ## Cambios recientes
 
-### «Estoy convencido de que amañó el voto por correo»
-
-El día en que la UCO detuvo a Leire Díez en un atasco en plena Castellana , el impacto llegó también a Vega de Pas , el municipio cántabro donde empezó la 'fontanera' del PSOE. Fue el 10 de diciembre de 2025. «Recuerdo perfectamente aquel día. Alguien del pueblo me avisó de que había 'mucho coche' en la cabaña que tien.
-
-Date: 2026-07-12
-
-### Discovered by Atlas
-
-PSOE first entered the public knowledge record with source-backed evidence.
-
-Date: 2026-07-11
+No recent public changes.
 
 ## Fuentes
 
-- [«Estoy convencido de que amañó el voto por correo»](https://www.abc.es/espana/cantabria/primera-cloaca-leire-diez-inicios-cantabria-convencido-20260712014041-nt.html?utm_source=lootura.com) — 2026-07-12T11:43:46.000Z
+No public source links.

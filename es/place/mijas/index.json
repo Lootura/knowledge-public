@@ -8,9 +8,27 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/mijas/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/mijas/index.json",
   "description": "Sigue la actividad de Mijas en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-10T14:20:28.384Z",
+  "updatedAt": "2026-07-12T16:56:25.039Z",
   "aliases": [],
-  "changes": [],
-  "sources": [],
-  "evidenceCount": 0
+  "changes": [
+    {
+      "title": "La jueza envía a prisión al detenido por el doble asesinato de Mijas (Málaga)",
+      "summary": "La jueza número 1 de la Sección de Violencia sobre la Mujer del Tribunal de Málaga ha ordenado este domingo el ingreso en prisión provisional , comunicada y sin fianza, del detenido como presunto autor de la muerte de su novia y de la hija de ésta en Mijas (Málaga) el pasado miércoles, confirmado como crimen machista .",
+      "date": "2026-07-12"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Mijas first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-07-08"
+    }
+  ],
+  "sources": [
+    {
+      "title": "La jueza envía a prisión al detenido por el doble asesinato de Mijas (Málaga)",
+      "url": "https://www.elconfidencial.com/espana/andalucia/2026-07-12/crimen-machista-mijas-malaga-1hms_4388710/?utm_source=lootura.com",
+      "publishedAt": "2026-07-12T16:32:00.000Z",
+      "sourceId": "lootura-es-el-confidencial"
+    }
+  ],
+  "evidenceCount": 1
 }

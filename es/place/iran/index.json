@@ -8,17 +8,12 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/iran/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/iran/index.json",
   "description": "Sigue la actividad de Iran en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-12T13:14:40.089Z",
+  "updatedAt": "2026-07-12T16:56:25.039Z",
   "aliases": [],
   "changes": [
     {
-      "title": "Muere el senador republicano Lindsey Graham, estrecho aliado de Trump, de forma repentina a los 71 años",
-      "summary": "Su inesperada muerte trunca una carrera política caracterizada por su crítica y posterior respaldo al presidente, Donald Trump, y, recientemente, por su postura inflexible contra España sobre Irán. Leer.",
-      "date": "2026-07-12"
-    },
-    {
-      "title": "EEUU ataca objetivos iraníes tras el cierre de Ormuz «hasta nuevo aviso»",
-      "summary": "El Mando Central del Ejército de Estados Unidos (CENTCOM) ha anunciado este domingo ataques contra Irán tras la ofensiva de la Guardia Revolucionaria contra un buque comercial que habría ignorado sus instrucciones, lo que ha provocado el cierre del estrecho de Ormuz «hasta nuevo aviso». De esta manera, Washington ha in.",
+      "title": "Muere el senador republicano Lindsey Graham, el último 'gran halcón' de Washington",
+      "summary": "Principal impulsor de la guerra en Irán, defensor de Israel y de las sanciones a Moscú, se convirtió en uno de los principales asesores de Trump, al que había despreciado y criticado en el pasado Leer.",
       "date": "2026-07-12"
     },
     {
@@ -29,17 +24,11 @@
   ],
   "sources": [
     {
-      "title": "Muere el senador republicano Lindsey Graham, estrecho aliado de Trump, de forma repentina a los 71 años",
+      "title": "Muere el senador republicano Lindsey Graham, el último 'gran halcón' de Washington",
       "url": "https://www.elmundo.es/internacional/2026/07/12/6a533d57e85ece547c8b458b.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-12T10:12:43.000Z",
+      "publishedAt": "2026-07-12T14:55:24.000Z",
       "sourceId": "lootura-es-el-mundo"
-    },
-    {
-      "title": "EEUU ataca objetivos iraníes tras el cierre de Ormuz «hasta nuevo aviso»",
-      "url": "https://theobjective.com/internacional/2026-07-12/estados-unidos-iran-ormuz/?utm_source=lootura.com",
-      "publishedAt": "2026-07-12T06:43:11.000Z",
-      "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

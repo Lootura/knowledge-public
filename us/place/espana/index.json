@@ -8,25 +8,20 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/espana/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/espana/index.json",
   "description": "Follow Spain, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-12T13:15:03.815Z",
+  "updatedAt": "2026-07-12T16:56:46.923Z",
   "aliases": [
     "Estado español",
     "Spain"
   ],
   "changes": [
     {
-      "title": "Bull gores runner in the face at Spain",
-      "summary": "A chaotic bull run at Spain.",
-      "date": "2026-07-11"
+      "title": "Residents of Spanish Towns Caught in Fierce Blazes Recount Harrowing Escapes",
+      "summary": "Many say communication was chaotic and even nonexistent as flames tore through the area, taking 12 lives in one of the deadliest wildfires on record in Spain.",
+      "date": "2026-07-12"
     },
     {
       "title": "This English professor has run with the bulls in Spain for two decades",
       "summary": "When Bill Hillmann was 19 years old, he read Ernest Hemingway's The Sun Also Rises . That book inspired him to pursue two dreams: a career in literature and to run with the bulls in Pamplona, Spain.",
-      "date": "2026-07-11"
-    },
-    {
-      "title": "Poll: Patriotism in the US, Europe and Canada, charted",
-      "summary": "What does it mean to be patriotic? It depends on a country's politics. Pride in one’s country is itself relatively common, according to new results from an international edition of The POLITICO Poll: Majorities of adults across the United States, United Kingdom, Spain, Canada, France and Germany all say they are proud.",
       "date": "2026-07-11"
     },
     {
@@ -37,23 +32,17 @@
   ],
   "sources": [
     {
-      "title": "Bull gores runner in the face at Spain",
-      "url": "https://www.cbsnews.com/news/pamplona-spain-bull-run-san-fermin-festival-gore-incident/?utm_source=lootura.com",
-      "publishedAt": "2026-07-11T20:29:52.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
-    {
       "title": "This English professor has run with the bulls in Spain for two decades",
       "url": "https://www.npr.org/2026/07/11/nx-s1-5887431/this-english-professor-has-run-with-the-bulls-in-spain-for-two-decades?utm_source=lootura.com",
       "publishedAt": "2026-07-11T21:08:27.000Z",
       "sourceId": "lootura-us-npr"
     },
     {
-      "title": "Poll: Patriotism in the US, Europe and Canada, charted",
-      "url": "https://www.politico.com/news/2026/07/11/poll-politics-patriotism-us-europe-canada-00993636?utm_source=lootura.com",
-      "publishedAt": "2026-07-11T20:00:00.000Z",
-      "sourceId": "lootura-us-politico"
+      "title": "Residents of Spanish Towns Caught in Fierce Blazes Recount Harrowing Escapes",
+      "url": "https://www.nytimes.com/2026/07/12/world/europe/spain-wildfire-almeria-province.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-12T15:31:34.000Z",
+      "sourceId": "lootura-us-the-new-york-times-world"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 2
 }

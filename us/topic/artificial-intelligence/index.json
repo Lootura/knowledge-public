@@ -8,30 +8,30 @@
   "markdownUrl": "https://atlas.lootura.com/us/topic/artificial-intelligence/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/topic/artificial-intelligence/index.json",
   "description": "Follow Artificial intelligence, a tracked topic, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-12T13:15:03.815Z",
+  "updatedAt": "2026-07-12T16:56:46.923Z",
   "aliases": [
     "AI",
     "machine learning"
   ],
   "changes": [
     {
-      "title": "Majority of U.S. workers support an AI wealth fund as tech layoffs surge, survey finds",
-      "summary": "A majority of U.S. employees now want an AI sovereign wealth fund to hold corporations more accountable, according to a recent survey, as tech layoffs rise.",
+      "title": "The fight against AI data centers is just beginning",
+      "summary": "A yard sign opposing a planned data center is displayed along Route 54 in Mount Carmel Township Northumberland County. | Image: Getty Images This is The Stepback , a weekly newsletter breaking down one essential story from the tech world. For more on the data center buildout, follow Emma Roth . The Stepback arrives in.",
       "date": "2026-07-12"
     },
     {
-      "title": "Product availability changed in Europe",
-      "summary": "There are few emails that make your stomach drop faster than one about \"new privacy settings.\" That usually means a company has moved another data switch, renamed a control or tucked a new choice inside an account menu you rarely visit. Google is now rolling out one of those changes for Search services. The setting is.",
-      "date": "2026-07-12"
-    },
-    {
-      "title": "Getting campaign text messages ahead of midterms? There could be an AI bot behind it",
+      "title": "Some are raising ethical concerns about political text messages using AI",
       "summary": "Taught to sound like a candidate, bots are engaging voters with personalized text messages making AI-generated texting conversations the latest tool political campaigns are using to connect. (Image credit: Charly Triballeau).",
       "date": "2026-07-12"
     },
     {
-      "title": "The fight against AI data centers is just beginning",
-      "summary": "A yard sign opposing a planned data center is displayed along Route 54 in Mount Carmel Township Northumberland County. | Image: Getty Images This is The Stepback , a weekly newsletter breaking down one essential story from the tech world. For more on the data center buildout, follow Emma Roth . The Stepback arrives in.",
+      "title": "TechCrunch Mobility: A robotaxi ultimatum",
+      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, how AI is playing a part.",
+      "date": "2026-07-12"
+    },
+    {
+      "title": "Apple’s failed self-driving car program left a legacy of powerful AI chips",
+      "summary": "Apple's self-driving car program never really got off the ground , but it may have been what made the company's chips the powerful AI performers they are. Early in the development of the self-driving platform, Apple realized that it would need powerful on-device AI processing . While the car processor was never finishe.",
       "date": "2026-07-12"
     },
     {
@@ -42,27 +42,27 @@
   ],
   "sources": [
     {
-      "title": "Majority of U.S. workers support an AI wealth fund as tech layoffs surge, survey finds",
-      "url": "https://www.cnbc.com/2026/07/12/majority-of-us-workers-support-ai-fund-amid-tech-layoffs-survey.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-12T12:27:55.000Z",
-      "sourceId": "lootura-us-cnbc"
-    },
-    {
-      "title": "Google may use your photos and voice to train AI",
-      "url": "https://www.foxnews.com/tech/google-may-use-your-photos-voice-train-ai?utm_source=lootura.com",
-      "publishedAt": "2026-07-12T12:24:37.000Z",
-      "sourceId": "lootura-us-fox-news"
-    },
-    {
-      "title": "Getting campaign text messages ahead of midterms? There could be an AI bot behind it",
+      "title": "Some are raising ethical concerns about political text messages using AI",
       "url": "https://www.npr.org/2026/07/12/nx-s1-5867763/ai-artificial-intelligence-data-texts-bots-voters-campaigns?utm_source=lootura.com",
       "publishedAt": "2026-07-12T09:00:00.000Z",
       "sourceId": "lootura-us-npr-politics"
     },
     {
+      "title": "TechCrunch Mobility: A robotaxi ultimatum",
+      "url": "https://techcrunch.com/2026/07/12/techcrunch-mobility-a-robotaxi-ultimatum/?utm_source=lootura.com",
+      "publishedAt": "2026-07-12T16:07:00.000Z",
+      "sourceId": "lootura-us-techcrunch"
+    },
+    {
       "title": "The fight against AI data centers is just beginning",
       "url": "https://www.theverge.com/column/963346/ai-data-centers-fight?utm_source=lootura.com",
       "publishedAt": "2026-07-12T12:00:00.000Z",
+      "sourceId": "lootura-us-the-verge"
+    },
+    {
+      "title": "Apple’s failed self-driving car program left a legacy of powerful AI chips",
+      "url": "https://www.theverge.com/tech/964519/apple-silicon-self-driving-car-ai-m7-ultra?utm_source=lootura.com",
+      "publishedAt": "2026-07-12T16:27:06.000Z",
       "sourceId": "lootura-us-the-verge"
     }
   ],

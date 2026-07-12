@@ -8,9 +8,27 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/maine-senate/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/maine-senate/index.json",
   "description": "Follow Maine Senate, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-12T06:31:22.183Z",
+  "updatedAt": "2026-07-12T16:56:46.923Z",
   "aliases": [],
-  "changes": [],
-  "sources": [],
-  "evidenceCount": 0
+  "changes": [
+    {
+      "title": "Ro Khanna says he regrets his endorsement of Graham Platner: ‘I got that call wrong’",
+      "summary": "Rep. Ro Khanna (D-Calif.) joins Meet the Press for an exclusive interview after Graham Platner (D) exits the Maine Senate race amid a sexual assault allegation.",
+      "date": "2026-07-12"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Maine Senate first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-07-11"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Ro Khanna says he regrets his endorsement of Graham Platner: ‘I got that call wrong’",
+      "url": "https://www.nbcnews.com/meet-the-press/video/ro-khanna-says-he-regrets-his-endorsement-of-graham-platner-i-got-that-call-wrong-266560581731?utm_source=lootura.com",
+      "publishedAt": "2026-07-12T13:48:37.000Z",
+      "sourceId": "lootura-us-nbc-news-politics"
+    }
+  ],
+  "evidenceCount": 1
 }

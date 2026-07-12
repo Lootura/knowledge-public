@@ -3,7 +3,7 @@
 > Follow United States, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-12T13:15:03.815Z
+- Updated: 2026-07-12T16:56:46.923Z
 - Canonical: https://atlas.lootura.com/us/place/united-states
 
 ## Recent changes
@@ -32,18 +32,6 @@ The senior U.S. senator for South Carolina died suddenly at 71 on Saturday.
 
 Date: 2026-07-12
 
-### Majority of U.S. workers support an AI wealth fund as tech layoffs surge, survey finds
-
-A majority of U.S. employees now want an AI sovereign wealth fund to hold corporations more accountable, according to a recent survey, as tech layoffs rise.
-
-Date: 2026-07-12
-
-### 'America and the world have lost a determined leader': Tributes pour in after Sen Lindsey Graham's death
-
-Tributes poured in Sunday from President Donald Trump , congressional leaders and foreign allies after Sen. Lindsey Graham, R-S.C., died at 71 following what his office described as a "brief and sudden illness," bringing to an end the career of one of the Senate's most influential Republican voices. The South Carolina.
-
-Date: 2026-07-12
-
 ### A Bible passage is at the center of a debate over how the U.S. should treat immigrants
 
 A debate over the Bible verse Matthew 25 is pitting mainline pastors, Black protestants and the pope against evangelical politicians put on the defensive over President Trump's policies.
@@ -68,15 +56,27 @@ Age seemed to be the predominant factor in the Democratic Socialists of America�
 
 Date: 2026-07-12
 
+### Hard-Liners in Iran Want to Keep Fighting America
+
+With much of their leadership killed in the war, Iran’s conservatives have sought to fill the void and intensify the fight against the United States.
+
+Date: 2026-07-12
+
+### 40 million under alerts as heat dome peaks across western U.S.
+
+Heat alerts were issued for millions across parts of the western U.S. Sunday as an unusually prolonged heat dome reached its peak.
+
+Date: 2026-07-12
+
 ## Sources
 
+- [40 million under alerts as heat dome peaks across western U.S.](https://www.cbsnews.com/news/40-million-under-alerts-heat-dome-peaks-western-us/?utm_source=lootura.com) — 2026-07-12T16:29:09.000Z
 - [Exhibit looks at how the Declaration of Independence evolved](https://www.cbsnews.com/video/exhibit-looks-how-declaration-independence-evolved/?utm_source=lootura.com) — 2026-07-12T01:10:53.000Z
-- [U.S. and world leaders pay tribute to Lindsey Graham following sudden death](https://www.cbsnews.com/news/lindsey-graham-us-world-leaders-pay-tribute-following-sudden-death-trump-netanyahu/?utm_source=lootura.com) — 2026-07-12T12:24:17.000Z
+- [Transcript: Israeli Ambassador Michael Leiter on](https://www.cbsnews.com/news/israel-michael-leiter-face-the-nation-transcript-07-12-2026/?utm_source=lootura.com) — 2026-07-12T16:56:10.000Z
+- [U.S. and world leaders pay tribute to Lindsey Graham following sudden death](https://www.cbsnews.com/news/lindsey-graham-us-world-leaders-pay-tribute-following-sudden-death-trump-netanyahu/?utm_source=lootura.com) — 2026-07-12T16:46:11.000Z
 - [Fire departments work to get rid of cancer-linked foam extinguisher: "It was like sitting on a bomb"](https://www.cbsnews.com/video/fire-departments-rid-cancer-linked-foam-extinguisher/?utm_source=lootura.com) — 2026-07-12T01:02:49.000Z
-- [Majority of U.S. workers support an AI wealth fund as tech layoffs surge, survey finds](https://www.cnbc.com/2026/07/12/majority-of-us-workers-support-ai-fund-amid-tech-layoffs-survey.html?utm_source=lootura.com) — 2026-07-12T12:27:55.000Z
-- ['America and the world have lost a determined leader': Tributes pour in after Sen Lindsey Graham's death](https://www.foxnews.com/politics/america-world-lost-determined-leader-tributes-pour-sen-lindsey-graham-death?utm_source=lootura.com) — 2026-07-12T12:54:53.000Z
-- [The biggest steam locomotive is whistle-stopping across the U.S.](https://www.npr.org/2026/07/11/nx-s1-5872656/big-boy-locomotive-steam?utm_source=lootura.com) — 2026-07-11T15:14:42.000Z
+- [U.S. and Iran trade airstrikes again amid conflicting claims over Strait of Hormuz](https://www.cnbc.com/2026/07/11/us-airstrikes-iran-strait-hormuz.html?utm_source=lootura.com) — 2026-07-12T16:14:06.000Z
+- [Adam Schiff remembers Lindsey Graham as ‘larger than life’: Full interview](https://www.nbcnews.com/meet-the-press/video/adam-schiff-remembers-lindsey-graham-as-larger-than-life-full-interview-266560069770?utm_source=lootura.com) — 2026-07-12T13:55:07.000Z
+- [What to know about the cyclosporiasis outbreak hitting more than half of U.S. states](https://www.npr.org/2026/07/12/nx-s1-5890935/cyclosporiasis-outbreak-diarrhea-nausea-where-states-us?utm_source=lootura.com) — 2026-07-12T16:48:41.000Z
 - [A Bible passage is at the center of a debate over how the U.S. should treat immigrants](https://www.npr.org/2026/07/12/nx-s1-5885947/a-bibe-passage-is-at-the-center-of-a-debate-over-how-the-u-s-should-treat-immigrants?utm_source=lootura.com) — 2026-07-12T11:57:10.000Z
 - [What a Monopoly importer learned when it tried to make things in the U.S.A.](https://www.npr.org/2026/07/12/nx-s1-5887378/monopoly-tariffs-china-manufacturing-made-inusa?utm_source=lootura.com) — 2026-07-12T09:00:00.000Z
-- [Politics chat: Lindsey Graham dies at 71, Congress back in session, U.S. strikes Iran](https://www.npr.org/2026/07/12/nx-s1-5887274/politics-chat-lindsey-graham-dies-at-71-congress-back-in-session-u-s-strikes-iran?utm_source=lootura.com) — 2026-07-12T11:57:11.000Z
-- [Poll: Patriotism in the US, Europe and Canada, charted](https://www.politico.com/news/2026/07/11/poll-politics-patriotism-us-europe-canada-00993636?utm_source=lootura.com) — 2026-07-11T20:00:00.000Z

@@ -3,7 +3,7 @@
 > Sigue la actividad de Apple en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: company
-- Actualizado: 2026-07-12T13:14:40.089Z
+- Actualizado: 2026-07-12T16:56:25.039Z
 - Canonical: https://atlas.lootura.com/es/company/apple
 
 ## Cambios recientes

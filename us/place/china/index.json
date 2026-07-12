@@ -8,18 +8,13 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/china/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/china/index.json",
   "description": "Follow China, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-12T13:15:03.815Z",
+  "updatedAt": "2026-07-12T16:56:46.923Z",
   "aliases": [],
   "changes": [
     {
       "title": "Typhoon Bavi Hits China, Causing Evacuations, Floods and Flight Delays",
       "summary": "Typhoon Bavi made landfall in China after killing 17 in the Philippines, skirting Japan and hitting Taiwan. At its largest, the storm was about the width of France.",
       "date": "2026-07-12"
-    },
-    {
-      "title": "We Returned From China. We Realized Our Century’s Biggest Challenge.",
-      "summary": "A.I. demands a populist approach that treats the technology as a public project.",
-      "date": "2026-07-11"
     },
     {
       "title": "Discovered by Atlas",
@@ -29,17 +24,11 @@
   ],
   "sources": [
     {
-      "title": "We Returned From China. We Realized Our Century’s Biggest Challenge.",
-      "url": "https://www.nytimes.com/2026/07/11/opinion/ai-populism-china-open-source.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-11T16:45:53.000Z",
-      "sourceId": "lootura-us-the-new-york-times"
-    },
-    {
       "title": "Typhoon Bavi Hits China, Causing Evacuations, Floods and Flight Delays",
       "url": "https://www.nytimes.com/2026/07/12/world/asia/typhoon-bavi-china.html?utm_source=lootura.com",
       "publishedAt": "2026-07-12T07:17:40.000Z",
       "sourceId": "lootura-us-the-new-york-times-world"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

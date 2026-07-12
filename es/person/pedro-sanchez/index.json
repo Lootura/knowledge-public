@@ -8,16 +8,11 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/pedro-sanchez/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/pedro-sanchez/index.json",
   "description": "Sigue la actividad de Pedro Sánchez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-12T13:14:40.089Z",
+  "updatedAt": "2026-07-12T16:56:25.039Z",
   "aliases": [
     "Sánchez"
   ],
   "changes": [
-    {
-      "title": "El gasto militar de Sánchez sólo concita el aplauso de Trump: izquierda y derecha exigen explicaciones y acusan al Gobierno de opacidad",
-      "summary": "Reproches al Gobierno por traspasar todos los límites de la transparencia hasta crear una enorme factura opaca en la que se mezclan armas, salarios, planes de inversión y programas de inteligencia Leer.",
-      "date": "2026-07-12"
-    },
     {
       "title": "El PP se compromete en Ermua a aclarar los 376 crímenes impunes de ETA frente a la \"indignidad\" del sanchismo con EH Bildu",
       "summary": "\"El precio que ha pagado Sánchez es el de presos por votos\", denuncia la vicesecrataria general del PP Cuca Gamarra en el 29 homenaje a Blanco. Leer.",
@@ -29,6 +24,16 @@
       "date": "2026-07-12"
     },
     {
+      "title": "Marimar Blanco carga contra Sánchez en el aniversario del asesinato de su hermano Miguel Ángel: «Han elegido ponerse al lado de los verdugos»",
+      "summary": "El Partido Popular ha anunciado este domingo, durante el homenaje a Miguel Ángel Blanco en Ermua, su compromiso de reformar la ley penitenciaria para impedir beneficios a condenados por terrorismo que no colaboren con la justicia ni muestren arrepentimiento. En el acto, celebrado 29 años después del asesinato del conce.",
+      "date": "2026-07-12"
+    },
+    {
+      "title": "Sánchez, a Rajoy tras su opinión sobre Francia: «Que gane el mejor y que pierda el racismo»",
+      "summary": "El presidente del Gobierno, Pedro Sánchez, ha respondido este domingo al expresidente Mariano Rajoy, después de que este afirmara en una columna de.",
+      "date": "2026-07-12"
+    },
+    {
       "title": "Discovered by Atlas",
       "summary": "Pedro Sánchez first entered the public knowledge record with source-backed evidence.",
       "date": "2026-07-11"
@@ -36,15 +41,15 @@
   ],
   "sources": [
     {
+      "title": "Marimar Blanco carga contra Sánchez en el aniversario del asesinato de su hermano Miguel Ángel: «Han elegido ponerse al lado de los verdugos»",
+      "url": "https://www.abc.es/espana/pais-vasco/marimar-blanco-carga-gobierno-aniversario-asesinato-hermano-20260712181711-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-12T16:25:50.000Z",
+      "sourceId": "lootura-es-abc"
+    },
+    {
       "title": "El PP se compromete en Ermua a aclarar los 376 crímenes impunes de ETA frente a la \"indignidad\" del sanchismo con EH Bildu",
       "url": "https://www.elmundo.es/pais-vasco/2026/07/12/6a536b49e4d4d8382d8b4592.html?utm_source=lootura.com",
       "publishedAt": "2026-07-12T10:47:16.000Z",
-      "sourceId": "lootura-es-el-mundo"
-    },
-    {
-      "title": "El gasto militar de Sánchez sólo concita el aplauso de Trump: izquierda y derecha exigen explicaciones y acusan al Gobierno de opacidad",
-      "url": "https://www.elmundo.es/espana/2026/07/12/6a526b8421efa069048b45ad.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-12T01:28:52.000Z",
       "sourceId": "lootura-es-el-mundo"
     },
     {
@@ -52,7 +57,13 @@
       "url": "https://elpais.com/espana/2026-07-12/inquietud-en-el-pp-tras-los-ultimos-tropiezos-de-feijoo-la-sensacion-es-que-vamos-improvisando.html?utm_source=lootura.com",
       "publishedAt": "2026-07-12T03:30:01.000Z",
       "sourceId": "lootura-es-el-pais"
+    },
+    {
+      "title": "Sánchez, a Rajoy tras su opinión sobre Francia: «Que gane el mejor y que pierda el racismo»",
+      "url": "https://theobjective.com/espana/politica/2026-07-12/sanchez-rajoy-francia-mejor-racismo/?amp=&utm_source=lootura.com",
+      "publishedAt": "2026-07-12T15:43:44.000Z",
+      "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 4
 }

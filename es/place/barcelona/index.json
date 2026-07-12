@@ -10,25 +10,7 @@
   "description": "Sigue la actividad de Barcelona en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
   "updatedAt": "2026-07-12T13:14:40.089Z",
   "aliases": [],
-  "changes": [
-    {
-      "title": "El Patio Chico acogerá esta semana el IX Festival Internacional de Jazz, organizado por el Ayuntamiento de Salamanca",
-      "summary": "El Patio Chico acogerá la novena edición del Festival Internacional de Jazz organizado por el Ayuntamiento de Salamanca, con cinco conciertos programados entre el 14 y el 18 de julio. El primero de los conciertos lo ofrecerá el martes 14 de julio la Barcelona Jazz Orchestra (16 músicos) con el saxofonista de Nueva Orle.",
-      "date": "2026-07-12"
-    },
-    {
-      "title": "Discovered by Atlas",
-      "summary": "Barcelona first entered the public knowledge record with source-backed evidence.",
-      "date": "2026-07-11"
-    }
-  ],
-  "sources": [
-    {
-      "title": "El Patio Chico acogerá esta semana el IX Festival Internacional de Jazz, organizado por el Ayuntamiento de Salamanca",
-      "url": "https://www.larazon.es/castilla-y-leon/patio-chico-acogera-esta-semana-festival-internacional-jazz-organizado-ayuntamiento-salamanca_202607126a535ea5c0b5fb431c50548f.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-12T09:30:13.000Z",
-      "sourceId": "lootura-es-la-razon"
-    }
-  ],
-  "evidenceCount": 1
+  "changes": [],
+  "sources": [],
+  "evidenceCount": 0
 }

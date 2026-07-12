@@ -3,7 +3,7 @@
 > Follow Iran, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-12T13:15:03.815Z
+- Updated: 2026-07-12T16:56:46.923Z
 - Canonical: https://atlas.lootura.com/us/place/iran
 
 ## Recent changes
@@ -32,11 +32,17 @@ With much of their leadership killed in the war, Iran’s conservatives have sou
 
 Date: 2026-07-12
 
-### Iran’s supreme leader vows revenge for father’s killing
+### U.S. and Iran trade airstrikes again amid conflicting claims over Strait of Hormuz
 
-Iranian state media reports that the Revolutionary Guard says the Strait of Hormuz is closed until further notice. It comes as Iran’s new supreme leader, Mojtaba Khamenei, is vowing revenge for his father’s killing, saying it is the “demand” of his country. Khamenei has not been seen since he was severely injured when.
+The U.S. and Iran exchanged a barrage of missile and drone airstrikes amid a dispute over the status of the Strait of Hormuz.
 
-Date: 2026-07-11
+Date: 2026-07-12
+
+### Adam Schiff remembers Lindsey Graham as ‘larger than life’: Full interview
+
+Sen. Adam Schiff (D-Calif.) joins Meet the Press to reflect on the passing of his colleague Sen. Lindsey Graham (R-S.C.) and discuss the U.S. war with Iran as both countries continue to trade strikes.
+
+Date: 2026-07-12
 
 ### Discovered by Atlas
 
@@ -46,8 +52,9 @@ Date: 2026-07-10
 
 ## Sources
 
-- [U.S. launches airstrikes against Iran after Tehran attacks container ship in Hormuz, Pentagon says](https://www.cnbc.com/2026/07/11/us-airstrikes-iran-strait-hormuz.html?utm_source=lootura.com) — 2026-07-12T13:11:21.000Z
-- [Iran’s supreme leader vows revenge for father’s killing](https://www.nbcnews.com/nightly-news/video/iran-s-supreme-leader-vows-revenge-for-father-s-killing-266545221858?utm_source=lootura.com) — 2026-07-11T23:23:35.000Z
+- [Retired Gen. Frank McKenzie on the Trump administration's options with Iran](https://www.cbsnews.com/video/retired-gen-frank-mckenzie-on-the-trump-administrations-options-with-iran/?utm_source=lootura.com) — 2026-07-12T16:05:40.000Z
+- [U.S. and Iran trade airstrikes again amid conflicting claims over Strait of Hormuz](https://www.cnbc.com/2026/07/11/us-airstrikes-iran-strait-hormuz.html?utm_source=lootura.com) — 2026-07-12T16:14:06.000Z
+- [Adam Schiff remembers Lindsey Graham as ‘larger than life’: Full interview](https://www.nbcnews.com/meet-the-press/video/adam-schiff-remembers-lindsey-graham-as-larger-than-life-full-interview-266560069770?utm_source=lootura.com) — 2026-07-12T13:55:07.000Z
 - [Kristen Welker Remembers Sen. Lindsey Graham’s Legacy](https://www.today.com/video/kristen-welker-remembers-sen-lindsey-graham-s-legacy-266556485838?utm_source=lootura.com) — 2026-07-12T11:47:53.000Z
 - [Politics chat: Lindsey Graham dies at 71, Congress back in session, U.S. strikes Iran](https://www.npr.org/2026/07/12/nx-s1-5887274/politics-chat-lindsey-graham-dies-at-71-congress-back-in-session-u-s-strikes-iran?utm_source=lootura.com) — 2026-07-12T11:57:11.000Z
 - [Trump Sought an Iran War Exit. Putin Pushed On in Ukraine. Now Both Are Stuck.](https://www.nytimes.com/2026/07/12/world/europe/trump-putin-war-iran-ukraine.html?utm_source=lootura.com) — 2026-07-12T09:01:28.000Z
