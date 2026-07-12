@@ -3,10 +3,16 @@
 > Sigue la actividad de United States en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-11T20:43:32.351Z
+- Actualizado: 2026-07-12T02:31:58.650Z
 - Canonical: https://atlas.lootura.com/es/place/united-states
 
 ## Cambios recientes
+
+### EE.UU. ataca objetivos iraníes tras el cierre del estrecho de Ormuz «hasta nuevo aviso» por parte de Teherán
+
+El Mando Central del Ejército de Estados Unidos (CENTCOM) ha anunciado este domingo ataques contra Irán tras la ofensiva de la Guardia Revolucionaria contra un buque comercial que habría ignorado sus instrucciones, lo que ha provocado el cierre del estrecho de Ormuz «hasta nuevo aviso».«Las fuerzas del Comando Central.
+
+Date: 2026-07-12
 
 ### Discovered by Atlas
 
@@ -14,13 +20,6 @@ United States first entered the public knowledge record with source-backed evide
 
 Date: 2026-07-11
 
-### ¿Por qué los estadounidenses están huyendo de su país? "El sueño americano ya no existe allí, estamos buscando una vida mejor en España"
-
-El ideal que durante siglos definió a Estados Unidos como la tierra de las oportunidades , donde el esfuerzo personal garantizaba el acceso a una vivienda propia y la formación de una familia sin hipotecar el futuro, se desmorona ante la realidad económica actual . Según analizan diversos testimonios, el coste de la pr.
-
-Date: 2026-07-11
-
 ## Fuentes
 
-- [Encuentran muerto a un futbolista de 25 años que jugó el Mundial con Sudáfrica](https://www.abc.es/deportes/futbol/mundial/encuentran-muerto-futbolista-anos-jugo-mundial-sudafrica-20260711160904-nt.html?utm_source=lootura.com) — 2026-07-11T15:27:28.000Z
-- [¿Por qué los estadounidenses están huyendo de su país? "El sueño americano ya no existe allí, estamos buscando una vida mejor en España"](https://www.larazon.es/sociedad/que-estadounidenses-estan-huyendo-pais-sueno-americano-existe-alli-estamos-buscando-vida-mejor-espana-b50m_202607116a526fe0c0b5fb431c4ecdc4.html?utm_source=lootura.com) — 2026-07-11T16:31:28.000Z
+- [EE.UU. ataca objetivos iraníes tras el cierre del estrecho de Ormuz «hasta nuevo aviso» por parte de Teherán](https://www.abc.es/internacional/iran-cierra-ormuz-nuevo-aviso-tras-paso-20260712015431-nt.html?utm_source=lootura.com) — 2026-07-12T00:50:36.000Z

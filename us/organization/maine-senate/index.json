@@ -8,14 +8,9 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/maine-senate/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/maine-senate/index.json",
   "description": "Follow Maine Senate, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-11T20:43:49.483Z",
+  "updatedAt": "2026-07-12T02:32:33.232Z",
   "aliases": [],
   "changes": [
-    {
-      "title": "Graham Platner formally drops out of Maine Senate race",
-      "summary": "Graham Platner had until 5 p.m. on Monday to formally suspend his campaign or he would remain on the ballot in November.",
-      "date": "2026-07-11"
-    },
     {
       "title": "Discovered by Atlas",
       "summary": "Maine Senate first entered the public knowledge record with source-backed evidence.",
@@ -29,17 +24,11 @@
   ],
   "sources": [
     {
-      "title": "Graham Platner formally drops out of Maine Senate race",
-      "url": "https://www.cbsnews.com/news/graham-platner-exits-maine-senate-race/?utm_source=lootura.com",
-      "publishedAt": "2026-07-11T00:12:32.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
-    {
       "title": "Graham Platner officially withdraws from the Maine Senate race",
       "url": "https://www.nbcnews.com/politics/2026-election/graham-platner-officially-drops-maine-senate-race-rcna385842?utm_source=lootura.com",
       "publishedAt": "2026-07-11T16:09:55.338Z",
       "sourceId": "lootura-us-nbc-news-politics"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

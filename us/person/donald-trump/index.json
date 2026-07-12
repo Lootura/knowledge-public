@@ -8,13 +8,18 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/donald-trump/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/donald-trump/index.json",
   "description": "Follow Donald Trump, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-11T20:43:49.483Z",
+  "updatedAt": "2026-07-12T02:32:33.232Z",
   "aliases": [
     "President Donald Trump",
     "President Trump",
     "Trump"
   ],
   "changes": [
+    {
+      "title": "Dem governor escalates McConnell health demands, cites response to past Trump health concerns",
+      "summary": "Democrat Kentucky Gov. Andy Beshear escalated his pressure campaign against Sen. Mitch McConnell on Saturday, demanding the longtime Republican senator from the Bluegrass State reveal his undisclosed medical condition as questions mount over the 84-year-old's ability to serve. In a post on X, Beshear connected his rece.",
+      "date": "2026-07-12"
+    },
     {
       "title": "Trump Justifies $2 Billion Made as President With Inaccurate Claims",
       "summary": "President Trump has wrongly attributed the $2 billion windfall he gained during his second term to a hot stock market and claimed that he was the only president to donate his salary.",
@@ -23,21 +28,6 @@
     {
       "title": "Minnesota is pulling troops early from D.C., as pressure grows on Michigan",
       "summary": "Minnesota Gov. Tim Walz is pulling his National Guard early from Washington, D.C. as the chorus against Democratic governors sending troops to the city amid President Trump's ongoing deployment grows louder. (Image credit: Joe Raedle).",
-      "date": "2026-07-11"
-    },
-    {
-      "title": "Six-hour polygraphs, forced reassignments: inside homeland security’s campaign of fear",
-      "summary": "The ruthless gutting and reforming of the Department of Homeland Security has traumatized both workers and the most vulnerable immigrants Federal officials tasked with implementing the Trump administration ’s “mass deportation” program faced an extraordinary campaign of intimidation inside the Department of Homeland Se.",
-      "date": "2026-07-11"
-    },
-    {
-      "title": "ICE are heavily armed killers. They’re also huge losers",
-      "summary": "Federal agents patrol the halls of immigration court at the Jacob K. Javits Federal Building in December 2025. | Photo by Michael Nigro/Pacific Press/LightRocket via Getty Images Donald Trump's Homeland Security regime has been at the center of two critical stories in the past two weeks. In the first, federal agents sh.",
-      "date": "2026-07-11"
-    },
-    {
-      "title": "The Business Case for Climate Action Is Stronger Than It Looks",
-      "summary": "Workers from solar company Solva Energy install solar panels on the roof of a house on July 6 in the Philippines. —Ezra Acayan—Getty Images Has the business case for climate diminished in the last five years? At first glance, the answer feels almost too obvious. The Trump-era political zeitgeist is deeply unfavorable t.",
       "date": "2026-07-11"
     },
     {
@@ -61,12 +51,28 @@
       "date": "2026-07-11"
     },
     {
-      "title": "Trump threatens to 'decimate' Iran if it tries to kill him, as Treasury sanctions alleged Iranian financier",
-      "summary": "Trump says 1,000 missiles are \"locked and loaded\" and will hit Iran if it carries out its threats to assassinate the U.S. president.",
+      "title": "Trump’s Posts on Singing Somali Schoolchildren Stir Anger in Minnesota",
+      "summary": "The state’s large Muslim and Somali communities expressed indignation after the president reposted a video of a kindergarten promotion ceremony, including comments noting the girls were in hijabs.",
       "date": "2026-07-11"
+    },
+    {
+      "title": "Fate of Strait of Hormuz challenges talks as Trump and Iran's supreme leader trade threats",
+      "summary": "President Donald Trump overnight made threats on social media of further missile attacks against Iran, after the funeral of Supreme Leader Ayatollah Ali Khamenei saw open calls for the U.S. leader's killing.",
+      "date": "2026-07-11"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Donald Trump first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-07-10"
     }
   ],
   "sources": [
+    {
+      "title": "Bipartisan housing bill becomes law after Trump refuses to sign it",
+      "url": "https://www.cbsnews.com/news/housing-bill-becomes-law-trump-sign/?utm_source=lootura.com",
+      "publishedAt": "2026-07-12T01:06:41.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
     {
       "title": "Trump warns Iran \"missiles are locked and loaded\" if they attempt assassination",
       "url": "https://www.cbsnews.com/video/trump-warns-iran-missiles-are-locked-and-loaded-if-they-attempt-assassination/?utm_source=lootura.com",
@@ -74,10 +80,10 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "Trump threatens to 'decimate' Iran if it tries to kill him, as Treasury sanctions alleged Iranian financier",
-      "url": "https://www.cnbc.com/2026/07/11/trump-threat.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-11T20:35:21.000Z",
-      "sourceId": "lootura-us-cnbc"
+      "title": "Dem governor escalates McConnell health demands, cites response to past Trump health concerns",
+      "url": "https://www.foxnews.com/politics/dem-governor-escalates-mcconnell-health-demands-cites-response-past-trump-health-concerns?utm_source=lootura.com",
+      "publishedAt": "2026-07-12T00:44:44.000Z",
+      "sourceId": "lootura-us-fox-news"
     },
     {
       "title": "Minnesota is pulling troops early from D.C., as pressure grows on Michigan",
@@ -86,16 +92,16 @@
       "sourceId": "lootura-us-npr-politics"
     },
     {
-      "title": "Trump and Iran's supreme leader trade threats as mediators try to save their crumbling deal",
-      "url": "https://www.pbs.org/newshour/world/trump-and-irans-supreme-leader-trade-threats-as-mediators-try-to-save-their-crumbling-deal?utm_source=lootura.com",
+      "title": "Fate of Strait of Hormuz challenges talks as Trump and Iran's supreme leader trade threats",
+      "url": "https://www.pbs.org/newshour/world/fate-of-strait-of-hormuz-challenges-talks-as-trump-and-irans-supreme-leader-trade-threats?utm_source=lootura.com",
       "publishedAt": "2026-07-11T16:01:44.000Z",
       "sourceId": "lootura-us-pbs-newshour"
     },
     {
-      "title": "Six-hour polygraphs, forced reassignments: inside homeland security’s campaign of fear",
-      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/jul/11/inside-homeland-security-campaign-of-fear?utm_source=lootura.com",
-      "publishedAt": "2026-07-11T11:00:48.000Z",
-      "sourceId": "lootura-us-the-guardian-us"
+      "title": "Trump and Iran's supreme leader trade threats as mediators try to save their crumbling deal",
+      "url": "https://www.pbs.org/newshour/world/trump-and-irans-supreme-leader-trade-threats-as-mediators-try-to-save-their-crumbling-deal?utm_source=lootura.com",
+      "publishedAt": "2026-07-11T16:01:44.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
     },
     {
       "title": "Trump administration subpoenas New York Times journalists over new Air Force One reporting",
@@ -106,7 +112,7 @@
     {
       "title": "Trump’s Posts on Singing Somali Schoolchildren Stir Anger in Minnesota",
       "url": "https://www.nytimes.com/2026/07/11/us/politics/trump-somali-kindergartners.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-11T17:55:25.000Z",
+      "publishedAt": "2026-07-11T21:04:50.000Z",
       "sourceId": "lootura-us-the-new-york-times-politics"
     },
     {
@@ -120,13 +126,7 @@
       "url": "https://www.nytimes.com/2026/07/11/us/politics/trump-money-crypto-financial-gains.html?utm_source=lootura.com",
       "publishedAt": "2026-07-11T09:02:14.000Z",
       "sourceId": "lootura-us-the-new-york-times-politics"
-    },
-    {
-      "title": "ICE are heavily armed killers. They’re also huge losers",
-      "url": "https://www.theverge.com/policy/964302/ice-donald-trump-killings?utm_source=lootura.com",
-      "publishedAt": "2026-07-11T13:00:00.000Z",
-      "sourceId": "lootura-us-the-verge"
     }
   ],
-  "evidenceCount": 11
+  "evidenceCount": 10
 }

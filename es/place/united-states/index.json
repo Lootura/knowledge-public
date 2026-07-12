@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/united-states/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/united-states/index.json",
   "description": "Sigue la actividad de United States en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-11T20:43:32.351Z",
+  "updatedAt": "2026-07-12T02:31:58.650Z",
   "aliases": [
     "America",
     "Estados Unidos",
@@ -16,28 +16,22 @@
   ],
   "changes": [
     {
-      "title": "Discovered by Atlas",
-      "summary": "United States first entered the public knowledge record with source-backed evidence.",
-      "date": "2026-07-11"
+      "title": "EE.UU. ataca objetivos iraníes tras el cierre del estrecho de Ormuz «hasta nuevo aviso» por parte de Teherán",
+      "summary": "El Mando Central del Ejército de Estados Unidos (CENTCOM) ha anunciado este domingo ataques contra Irán tras la ofensiva de la Guardia Revolucionaria contra un buque comercial que habría ignorado sus instrucciones, lo que ha provocado el cierre del estrecho de Ormuz «hasta nuevo aviso».«Las fuerzas del Comando Central.",
+      "date": "2026-07-12"
     },
     {
-      "title": "¿Por qué los estadounidenses están huyendo de su país? \"El sueño americano ya no existe allí, estamos buscando una vida mejor en España\"",
-      "summary": "El ideal que durante siglos definió a Estados Unidos como la tierra de las oportunidades , donde el esfuerzo personal garantizaba el acceso a una vivienda propia y la formación de una familia sin hipotecar el futuro, se desmorona ante la realidad económica actual . Según analizan diversos testimonios, el coste de la pr.",
+      "title": "Discovered by Atlas",
+      "summary": "United States first entered the public knowledge record with source-backed evidence.",
       "date": "2026-07-11"
     }
   ],
   "sources": [
     {
-      "title": "Encuentran muerto a un futbolista de 25 años que jugó el Mundial con Sudáfrica",
-      "url": "https://www.abc.es/deportes/futbol/mundial/encuentran-muerto-futbolista-anos-jugo-mundial-sudafrica-20260711160904-nt.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-11T15:27:28.000Z",
+      "title": "EE.UU. ataca objetivos iraníes tras el cierre del estrecho de Ormuz «hasta nuevo aviso» por parte de Teherán",
+      "url": "https://www.abc.es/internacional/iran-cierra-ormuz-nuevo-aviso-tras-paso-20260712015431-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-12T00:50:36.000Z",
       "sourceId": "lootura-es-abc"
-    },
-    {
-      "title": "¿Por qué los estadounidenses están huyendo de su país? \"El sueño americano ya no existe allí, estamos buscando una vida mejor en España\"",
-      "url": "https://www.larazon.es/sociedad/que-estadounidenses-estan-huyendo-pais-sueno-americano-existe-alli-estamos-buscando-vida-mejor-espana-b50m_202607116a526fe0c0b5fb431c4ecdc4.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-11T16:31:28.000Z",
-      "sourceId": "lootura-es-la-razon"
     }
   ],
   "evidenceCount": 1

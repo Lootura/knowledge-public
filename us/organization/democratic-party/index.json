@@ -8,30 +8,20 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/democratic-party/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/democratic-party/index.json",
   "description": "Follow Democratic Party, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-11T20:43:49.483Z",
+  "updatedAt": "2026-07-12T02:32:33.232Z",
   "aliases": [
     "Democrats"
   ],
   "changes": [
     {
+      "title": "Maine Democrats Will Replace Graham Platner. Here’s What to Know.",
+      "summary": "Mr. Platner’s withdrawal from a marquee Senate race, under pressure from his party, has set in motion an unusual competition to become the new nominee.",
+      "date": "2026-07-12"
+    },
+    {
       "title": "Graham Platner officially withdraws from the Maine Senate race",
       "summary": "Democrats have already set off a mad dash to find a new candidate, with a July 27 deadline to submit a replacement nominee to face Republican Sen. Susan Collins in the November election.",
       "date": "2026-07-11"
-    },
-    {
-      "title": "James Carville unloads on far-left Democrats after primary upsets, says ‘you're part of the problem’",
-      "summary": "Political strategist James Carville offered a series of harsh criticisms against the far-left Democrats taking aim at their own party in the ongoing primaries, while calling the candidates’ ongoing cannibalization of longtime incumbents \"part of the problem.\" In a blistering video , Friday, for his \"Politics War Room\".",
-      "date": "2026-07-11"
-    },
-    {
-      "title": "How Will Maine Democrats Replace Graham Platner? Here’s What to Know.",
-      "summary": "Mr. Platner’s withdrawal from a marquee Senate race, under pressure from his party, has set in motion an unusual competition to become the new nominee.",
-      "date": "2026-07-11"
-    },
-    {
-      "title": "The Platner Drama Is Reviving Debate Among Democrats Over a Double Standard",
-      "summary": "His candidacy stoked tensions among Democrats over gender and how to win back working-class voters.",
-      "date": "2026-07-10"
     },
     {
       "title": "Discovered by Atlas",
@@ -41,29 +31,17 @@
   ],
   "sources": [
     {
-      "title": "James Carville unloads on far-left Democrats after primary upsets, says ‘you're part of the problem’",
-      "url": "https://www.foxnews.com/media/james-carville-unloads-far-left-democrats-after-primary-upsets-says-youre-part-problem?utm_source=lootura.com",
-      "publishedAt": "2026-07-11T19:01:29.000Z",
-      "sourceId": "lootura-us-fox-news"
-    },
-    {
       "title": "Graham Platner officially withdraws from the Maine Senate race",
       "url": "https://www.nbcnews.com/politics/2026-election/graham-platner-officially-drops-maine-senate-race-rcna385842?utm_source=lootura.com",
       "publishedAt": "2026-07-11T16:09:55.338Z",
       "sourceId": "lootura-us-nbc-news-politics"
     },
     {
-      "title": "How Will Maine Democrats Replace Graham Platner? Here’s What to Know.",
+      "title": "Maine Democrats Will Replace Graham Platner. Here’s What to Know.",
       "url": "https://www.nytimes.com/2026/07/11/us/politics/maine-senate-nomination-democrats-convention.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-11T19:34:45.000Z",
-      "sourceId": "lootura-us-the-new-york-times-politics"
-    },
-    {
-      "title": "The Platner Drama Is Reviving Debate Among Democrats Over a Double Standard",
-      "url": "https://www.nytimes.com/2026/07/10/us/politics/platner-democrats-women-double-standard.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-10T21:47:58.000Z",
+      "publishedAt": "2026-07-12T02:19:48.000Z",
       "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 4
+  "evidenceCount": 2
 }

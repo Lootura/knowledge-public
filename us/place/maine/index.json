@@ -8,13 +8,13 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/maine/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/maine/index.json",
   "description": "Follow Maine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-11T20:43:49.483Z",
+  "updatedAt": "2026-07-12T02:32:33.232Z",
   "aliases": [],
   "changes": [
     {
-      "title": "Graham Platner formally drops out of Maine Senate race",
-      "summary": "Graham Platner had until 5 p.m. on Monday to formally suspend his campaign or he would remain on the ballot in November.",
-      "date": "2026-07-11"
+      "title": "Maine Democrats Will Replace Graham Platner. Here’s What to Know.",
+      "summary": "Mr. Platner’s withdrawal from a marquee Senate race, under pressure from his party, has set in motion an unusual competition to become the new nominee.",
+      "date": "2026-07-12"
     },
     {
       "title": "Discovered by Atlas",
@@ -35,19 +35,14 @@
       "title": "Graham Platner officially withdraws from the Maine Senate race",
       "summary": "Democrats have already set off a mad dash to find a new candidate, with a July 27 deadline to submit a replacement nominee to face Republican Sen. Susan Collins in the November election.",
       "date": "2026-07-11"
-    },
-    {
-      "title": "How Will Maine Democrats Replace Graham Platner? Here’s What to Know.",
-      "summary": "Mr. Platner’s withdrawal from a marquee Senate race, under pressure from his party, has set in motion an unusual competition to become the new nominee.",
-      "date": "2026-07-11"
     }
   ],
   "sources": [
     {
-      "title": "Graham Platner formally drops out of Maine Senate race",
-      "url": "https://www.cbsnews.com/news/graham-platner-exits-maine-senate-race/?utm_source=lootura.com",
-      "publishedAt": "2026-07-11T00:12:32.000Z",
-      "sourceId": "lootura-us-cbs-news"
+      "title": "Belgium pokes Trump at the World Cup, and Prince Harry takes an L: The news quiz",
+      "url": "https://www.nbcnews.com/news/news-quiz/belgium-world-cup-prince-harry-news-quiz-rcna353719?utm_source=lootura.com",
+      "publishedAt": "2026-07-11T09:15:00.000Z",
+      "sourceId": "lootura-us-nbc-news"
     },
     {
       "title": "Graham Platner officially withdraws from the Maine Senate race",
@@ -56,9 +51,9 @@
       "sourceId": "lootura-us-nbc-news-politics"
     },
     {
-      "title": "How Will Maine Democrats Replace Graham Platner? Here’s What to Know.",
+      "title": "Maine Democrats Will Replace Graham Platner. Here’s What to Know.",
       "url": "https://www.nytimes.com/2026/07/11/us/politics/maine-senate-nomination-democrats-convention.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-11T19:34:45.000Z",
+      "publishedAt": "2026-07-12T02:19:48.000Z",
       "sourceId": "lootura-us-the-new-york-times-politics"
     },
     {
@@ -74,5 +69,5 @@
       "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 5
+  "evidenceCount": 4
 }

@@ -3,22 +3,22 @@
 > Follow United States, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-11T20:43:49.483Z
+- Updated: 2026-07-12T02:32:33.232Z
 - Canonical: https://atlas.lootura.com/us/place/united-states
 
 ## Recent changes
 
-### "Face the Nation with Margaret Brennan" guests for July 12, 2026
+### Exhibit looks at how the Declaration of Independence evolved
 
-This week's guests include White House border czar Tom Homan and retired Gen. Frank McKenzie, president of The Citadel and former commander of U.S. Central Command.
+A new exhibit, The Declaration's Promise, celebrates America's independence and showcases how phrases such as "all men are created equal," evolved. Nikole Killion has more.
 
-Date: 2026-07-11
+Date: 2026-07-12
 
-### U.S. Employers Told to Dismiss Thousands of Immigrant Workers
+### Fire departments work to get rid of cancer-linked foam extinguisher: "It was like sitting on a bomb"
 
-Shifting deadlines are confusing businesses as the end of Temporary Protected Status for Haitians and others looms, making them ineligible to live and work in the United States.
+Fire departments across the U.S. are changing how they extinguish fires. For decades, they used foam that contained so-called "forever chemicals" that are now linked to cancer. More than a dozen states are now working to collect, remove and destroy all of it. Mark Strassmann has more.
 
-Date: 2026-07-11
+Date: 2026-07-12
 
 ### Trump Says Negotiations With Iran Will Continue as U.S. Ramps Up Strikes
 
@@ -70,13 +70,13 @@ Date: 2026-07-11
 
 ## Sources
 
+- [Exhibit looks at how the Declaration of Independence evolved](https://www.cbsnews.com/video/exhibit-looks-how-declaration-independence-evolved/?utm_source=lootura.com) — 2026-07-12T01:10:53.000Z
+- [Fire departments work to get rid of cancer-linked foam extinguisher: "It was like sitting on a bomb"](https://www.cbsnews.com/video/fire-departments-rid-cancer-linked-foam-extinguisher/?utm_source=lootura.com) — 2026-07-12T01:02:49.000Z
 - [Trump warns Iran "missiles are locked and loaded" if they attempt assassination](https://www.cbsnews.com/video/trump-warns-iran-missiles-are-locked-and-loaded-if-they-attempt-assassination/?utm_source=lootura.com) — 2026-07-11T16:18:00.000Z
-- ["Face the Nation with Margaret Brennan" guests for July 12, 2026](https://www.cbsnews.com/news/face-the-nation-with-margaret-brennan-guests-july-12-2026/?utm_source=lootura.com) — 2026-07-11T00:55:36.000Z
-- [Trump threatens to 'decimate' Iran if it tries to kill him, as Treasury sanctions alleged Iranian financier](https://www.cnbc.com/2026/07/11/trump-threat.html?utm_source=lootura.com) — 2026-07-11T20:35:21.000Z
 - [The biggest steam locomotive is whistle-stopping across the U.S.](https://www.npr.org/2026/07/11/nx-s1-5872656/big-boy-locomotive-steam?utm_source=lootura.com) — 2026-07-11T15:14:42.000Z
 - [Political scientist Dominic Tierney on why the U.S. gets trapped in conflicts like Iran](https://www.npr.org/2026/07/11/nx-s1-5886190/political-scientist-dominic-tierney-on-why-the-u-s-gets-trapped-in-conflicts-like-iran?utm_source=lootura.com) — 2026-07-11T11:43:42.000Z
+- [Fate of Strait of Hormuz challenges talks as Trump and Iran's supreme leader trade threats](https://www.pbs.org/newshour/world/fate-of-strait-of-hormuz-challenges-talks-as-trump-and-irans-supreme-leader-trade-threats?utm_source=lootura.com) — 2026-07-11T16:01:44.000Z
 - [U.S. citizen working for humanitarian organization in Congo tests positive for Ebola](https://www.pbs.org/newshour/world/u-s-citizen-working-for-humanitarian-organization-in-congo-tests-positive-for-ebola?utm_source=lootura.com) — 2026-07-11T15:36:11.000Z
 - [Trump and Iran's supreme leader trade threats as mediators try to save their crumbling deal](https://www.pbs.org/newshour/world/trump-and-irans-supreme-leader-trade-threats-as-mediators-try-to-save-their-crumbling-deal?utm_source=lootura.com) — 2026-07-11T16:01:44.000Z
-- [Poll: Politics shapes patriotism, from the US to the UK](https://www.politico.com/news/2026/07/11/poll-politics-patriotism-us-europe-canada-00993636?utm_source=lootura.com) — 2026-07-11T20:00:00.000Z
+- [Poll: Patriotism in the US, Europe and Canada, charted](https://www.politico.com/news/2026/07/11/poll-politics-patriotism-us-europe-canada-00993636?utm_source=lootura.com) — 2026-07-11T20:00:00.000Z
 - [Trump Says Negotiations With Iran Will Continue as U.S. Ramps Up Strikes](https://www.nytimes.com/2026/07/10/us/politics/iran-war-escalation.html?utm_source=lootura.com) — 2026-07-11T03:48:02.000Z
-- [An American Politician Is Blocked by Israeli Settlers in the West Bank](https://www.nytimes.com/2026/07/11/us/politics/ro-khanna-west-bank.html?utm_source=lootura.com) — 2026-07-11T18:08:25.000Z

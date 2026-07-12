@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/psoe/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/psoe/index.json",
   "description": "Sigue la actividad de PSOE en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-11T20:43:32.351Z",
+  "updatedAt": "2026-07-12T02:31:58.650Z",
   "aliases": [
     "Partido Socialista",
     "Partido Socialista Obrero Español"
@@ -17,16 +17,6 @@
     {
       "title": "Discovered by Atlas",
       "summary": "PSOE first entered the public knowledge record with source-backed evidence.",
-      "date": "2026-07-11"
-    },
-    {
-      "title": "Enma López pasa el corte de los avales y se enfrentará a Reyes Maroto en primarias",
-      "summary": "La candidatura del PSOE de Madrid para la Alcaldía de la capital no está resultando tan sencilla como la de la Comunidad de Madrid, donde Óscar López ya ha sido proclamado este sábado cabeza de lista para enfrentarse a Isabel Díaz Ayuso en las urnas al ser el único precandidato que ha logrado los avales suficientes. Pa.",
-      "date": "2026-07-11"
-    },
-    {
-      "title": "Óscar López será el candidato del PSOE a la Comunidad de Madrid tras no lograr avales su rival en las primarias",
-      "summary": "El secretario general del PSOE de Madrid, Óscar López , será el candidato socialista a la Presidencia de la Comunidad de Madrid en las próximas elecciones autonómicas . No habrá votación entre la militancia después de que la única precandidatura alternativa, encabezada por la abogada y militante de base Silvia López Qu.",
       "date": "2026-07-11"
     },
     {
@@ -42,18 +32,6 @@
   ],
   "sources": [
     {
-      "title": "Enma López pasa el corte de los avales y se enfrentará a Reyes Maroto en primarias",
-      "url": "https://www.abc.es/espana/madrid/enma-lopez-pasa-corte-avales-enfrentara-reyes-20260711155703-nt.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-11T18:40:34.000Z",
-      "sourceId": "lootura-es-abc"
-    },
-    {
-      "title": "Óscar López será el candidato del PSOE a la Comunidad de Madrid tras no lograr avales su rival en las primarias",
-      "url": "https://www.elindependiente.com/espana/2026/07/11/oscar-lopez-sera-el-candidato-del-psoe-a-la-comunidad-de-madrid-tras-no-lograr-avales-su-rival-en-las-primarias/?utm_source=lootura.com",
-      "publishedAt": "2026-07-11T11:44:46.000Z",
-      "sourceId": "lootura-es-el-independiente"
-    },
-    {
       "title": "El PSOE de Madrid irá a primarias: Enma López desafía a Maroto para enfrentarse a Almeida",
       "url": "https://theobjective.com/espana/2026-07-11/psoe-madrid-primarias-lopez-maroto-almeida/?utm_source=lootura.com",
       "publishedAt": "2026-07-11T14:57:02.000Z",
@@ -66,5 +44,5 @@
       "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 4
+  "evidenceCount": 2
 }

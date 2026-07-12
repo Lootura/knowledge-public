@@ -8,17 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/iran/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/iran/index.json",
   "description": "Follow Iran, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-11T20:43:49.483Z",
+  "updatedAt": "2026-07-12T02:32:33.232Z",
   "aliases": [],
   "changes": [
     {
-      "title": "Trump Says Negotiations With Iran Will Continue as U.S. Ramps Up Strikes",
-      "summary": "U.S. forces hit more than 170 targets, including air defense systems, drone and missile storage sites, and military speedboats.",
-      "date": "2026-07-11"
+      "title": "US and Iran exchange strikes as Tehran again says strait of Hormuz is closed",
+      "summary": "Tehran says vessel using unapproved route in strait was struck, drawing strikes from US forces to ‘degrade Iran’s ability to attack civilian mariners’ Iran’s ⁠Islamic Revolutionary Guard Corps said on Sunday it had closed the strait of Hormuz after a vessel travelled on an unapproved route and was struck, warning that.",
+      "date": "2026-07-12"
     },
     {
-      "title": "Israel Struck an Iranian Steel Facility. Was It a Valid Military Target?",
-      "summary": "During the war, Israel attacked Iran’s steel plants, saying they provided forces with revenue and the means to make weapons, but it also hurt the civilian economy.",
+      "title": "Trump Says Negotiations With Iran Will Continue as U.S. Ramps Up Strikes",
+      "summary": "U.S. forces hit more than 170 targets, including air defense systems, drone and missile storage sites, and military speedboats.",
       "date": "2026-07-11"
     },
     {
@@ -37,13 +37,13 @@
       "date": "2026-07-11"
     },
     {
-      "title": "Mojtaba Khamenei Vows Revenge as Iran’s Top Diplomat Is in Oman For Talks",
-      "summary": "Recent clashes between the U.S. and Iran, and a vow by the ayatollah to avenge his father’s death, further eroded a shaky cease-fire signed last month.",
+      "title": "Iran’s supreme leader vows revenge for father’s killing",
+      "summary": "Iranian state media reports that the Revolutionary Guard says the Strait of Hormuz is closed until further notice. It comes as Iran’s new supreme leader, Mojtaba Khamenei, is vowing revenge for his father’s killing, saying it is the “demand” of his country. Khamenei has not been seen since he was severely injured when.",
       "date": "2026-07-11"
     },
     {
-      "title": "Trump threatens to 'decimate' Iran if it tries to kill him, as Treasury sanctions alleged Iranian financier",
-      "summary": "Trump says 1,000 missiles are \"locked and loaded\" and will hit Iran if it carries out its threats to assassinate the U.S. president.",
+      "title": "Fate of Strait of Hormuz challenges talks as Trump and Iran's supreme leader trade threats",
+      "summary": "President Donald Trump overnight made threats on social media of further missile attacks against Iran, after the funeral of Supreme Leader Ayatollah Ali Khamenei saw open calls for the U.S. leader's killing.",
       "date": "2026-07-11"
     },
     {
@@ -60,10 +60,10 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "Trump threatens to 'decimate' Iran if it tries to kill him, as Treasury sanctions alleged Iranian financier",
-      "url": "https://www.cnbc.com/2026/07/11/trump-threat.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-11T20:35:21.000Z",
-      "sourceId": "lootura-us-cnbc"
+      "title": "Iran’s supreme leader vows revenge for father’s killing",
+      "url": "https://www.nbcnews.com/nightly-news/video/iran-s-supreme-leader-vows-revenge-for-father-s-killing-266545221858?utm_source=lootura.com",
+      "publishedAt": "2026-07-11T23:23:35.000Z",
+      "sourceId": "lootura-us-nbc-news-politics"
     },
     {
       "title": "Political scientist Dominic Tierney on why the U.S. gets trapped in conflicts like Iran",
@@ -72,29 +72,29 @@
       "sourceId": "lootura-us-npr-politics"
     },
     {
+      "title": "Fate of Strait of Hormuz challenges talks as Trump and Iran's supreme leader trade threats",
+      "url": "https://www.pbs.org/newshour/world/fate-of-strait-of-hormuz-challenges-talks-as-trump-and-irans-supreme-leader-trade-threats?utm_source=lootura.com",
+      "publishedAt": "2026-07-11T16:01:44.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
+    },
+    {
       "title": "Trump and Iran's supreme leader trade threats as mediators try to save their crumbling deal",
       "url": "https://www.pbs.org/newshour/world/trump-and-irans-supreme-leader-trade-threats-as-mediators-try-to-save-their-crumbling-deal?utm_source=lootura.com",
       "publishedAt": "2026-07-11T16:01:44.000Z",
       "sourceId": "lootura-us-pbs-newshour"
     },
     {
+      "title": "US and Iran exchange strikes as Tehran again says strait of Hormuz is closed",
+      "url": "https://www.theguardian.com/world/2026/jul/12/us-and-iran-exchange-strikes-as-tehran-again-says-strait-of-hormuz-is-closed?utm_source=lootura.com",
+      "publishedAt": "2026-07-12T00:16:20.000Z",
+      "sourceId": "lootura-us-the-guardian-us"
+    },
+    {
       "title": "Trump Says Negotiations With Iran Will Continue as U.S. Ramps Up Strikes",
       "url": "https://www.nytimes.com/2026/07/10/us/politics/iran-war-escalation.html?utm_source=lootura.com",
       "publishedAt": "2026-07-11T03:48:02.000Z",
       "sourceId": "lootura-us-the-new-york-times"
-    },
-    {
-      "title": "Mojtaba Khamenei Vows Revenge as Iran’s Top Diplomat Is in Oman For Talks",
-      "url": "https://www.nytimes.com/2026/07/11/world/middleeast/iran-araghchi-oman-iran-strait-of-hormuz.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-11T19:21:01.000Z",
-      "sourceId": "lootura-us-the-new-york-times-world"
-    },
-    {
-      "title": "Israel Struck an Iranian Steel Facility. Was It a Valid Military Target?",
-      "url": "https://www.nytimes.com/2026/07/11/world/middleeast/iran-steel-plant-civilian-military.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-11T13:26:24.000Z",
-      "sourceId": "lootura-us-the-new-york-times-world"
     }
   ],
-  "evidenceCount": 7
+  "evidenceCount": 8
 }

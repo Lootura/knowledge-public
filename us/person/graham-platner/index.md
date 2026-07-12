@@ -3,16 +3,16 @@
 > Follow Graham Platner, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-07-11T20:43:49.483Z
+- Updated: 2026-07-12T02:32:33.232Z
 - Canonical: https://atlas.lootura.com/us/person/graham-platner
 
 ## Recent changes
 
-### Graham Platner formally drops out of Maine Senate race
+### Maine Democrats Will Replace Graham Platner. Here’s What to Know.
 
-had until 5 p.m. on Monday to formally suspend his campaign or he would remain on the ballot in November.
+Mr. Platner’s withdrawal from a marquee Senate race, under pressure from his party, has set in motion an unusual competition to become the new nominee.
 
-Date: 2026-07-11
+Date: 2026-07-12
 
 ### Discovered by Atlas
 
@@ -38,16 +38,10 @@ Democrats have already set off a mad dash to find a new candidate, with a July 2
 
 Date: 2026-07-11
 
-### How Will Maine Democrats Replace Graham Platner? Here’s What to Know.
-
-Mr. Platner’s withdrawal from a marquee Senate race, under pressure from his party, has set in motion an unusual competition to become the new nominee.
-
-Date: 2026-07-11
-
 ## Sources
 
-- [Graham Platner formally drops out of Maine Senate race](https://www.cbsnews.com/news/graham-platner-exits-maine-senate-race/?utm_source=lootura.com) — 2026-07-11T00:12:32.000Z
+- [Belgium pokes Trump at the World Cup, and Prince Harry takes an L: The news quiz](https://www.nbcnews.com/news/news-quiz/belgium-world-cup-prince-harry-news-quiz-rcna353719?utm_source=lootura.com) — 2026-07-11T09:15:00.000Z
 - [Graham Platner officially withdraws from the Maine Senate race](https://www.nbcnews.com/politics/2026-election/graham-platner-officially-drops-maine-senate-race-rcna385842?utm_source=lootura.com) — 2026-07-11T16:09:55.338Z
-- [How Will Maine Democrats Replace Graham Platner? Here’s What to Know.](https://www.nytimes.com/2026/07/11/us/politics/maine-senate-nomination-democrats-convention.html?utm_source=lootura.com) — 2026-07-11T19:34:45.000Z
+- [Maine Democrats Will Replace Graham Platner. Here’s What to Know.](https://www.nytimes.com/2026/07/11/us/politics/maine-senate-nomination-democrats-convention.html?utm_source=lootura.com) — 2026-07-12T02:19:48.000Z
 - [Platner’s Rise and Fall Revives Old Questions About ‘Bernie Bros’ and Women](https://www.nytimes.com/2026/07/11/us/politics/bernie-sanders-graham-platner-maine.html?utm_source=lootura.com) — 2026-07-11T09:02:08.000Z
 - [How The Times Reported on Graham Platner](https://www.nytimes.com/2026/07/11/insider/11-insider-platner-main-rape-allegation-reporting.html?utm_source=lootura.com) — 2026-07-11T09:03:26.000Z

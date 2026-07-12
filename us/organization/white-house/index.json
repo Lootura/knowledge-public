@@ -8,14 +8,9 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/white-house/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/white-house/index.json",
   "description": "Follow White House, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-11T20:43:49.483Z",
+  "updatedAt": "2026-07-12T02:32:33.232Z",
   "aliases": [],
   "changes": [
-    {
-      "title": "\"Face the Nation with Margaret Brennan\" guests for July 12, 2026",
-      "summary": "This week's guests include White House border czar Tom Homan and retired Gen. Frank McKenzie, president of The Citadel and former commander of U.S. Central Command.",
-      "date": "2026-07-11"
-    },
     {
       "title": "Discovered by Atlas",
       "summary": "White House first entered the public knowledge record with source-backed evidence.",
@@ -30,24 +25,19 @@
       "title": "White House Directed Patel to Oversee Investigation Involving Times Reporting",
       "summary": "The F.B.I. director spent about eight hours at the White House Friday focused on the effort, which led to the subpoenaing of several Times reporters who wrote about the security of Air Force One.",
       "date": "2026-07-11"
-    },
-    {
-      "title": "\"Face the Nation with Margaret Brennan\" guests for July 12, 2026",
-      "summary": "This week's guests include White House border czar Tom Homan and retired Gen. Frank McKenzie, president of The Citadel and former commander of U.S. Central Command.",
-      "date": "2026-07-10"
     }
   ],
   "sources": [
     {
-      "title": "\"Face the Nation with Margaret Brennan\" guests for July 12, 2026",
-      "url": "https://www.cbsnews.com/news/face-the-nation-with-margaret-brennan-guests-july-12-2026/?utm_source=lootura.com",
-      "publishedAt": "2026-07-11T00:55:36.000Z",
-      "sourceId": "lootura-us-cbs-news"
+      "title": "Whistle-Blowers Accuse Kennedy Center of Contracting Flaws Under Trump",
+      "url": "https://www.nytimes.com/2026/07/11/arts/design/whistle-blowers-accuse-kennedy-center-of-contracting-flaws-under-trump.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-11T09:02:06.000Z",
+      "sourceId": "lootura-us-the-new-york-times"
     },
     {
       "title": "White House Directed Patel to Oversee Investigation Involving Times Reporting",
       "url": "https://www.nytimes.com/2026/07/11/us/politics/white-house-patel-investigation-times.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-11T20:20:14.000Z",
+      "publishedAt": "2026-07-11T20:51:49.000Z",
       "sourceId": "lootura-us-the-new-york-times-politics"
     },
     {
@@ -57,5 +47,5 @@
       "sourceId": "lootura-us-the-verge"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 2
 }

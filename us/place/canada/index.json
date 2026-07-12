@@ -8,13 +8,18 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/canada/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/canada/index.json",
   "description": "Follow Canada, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-11T20:43:49.483Z",
+  "updatedAt": "2026-07-12T02:32:33.232Z",
   "aliases": [],
   "changes": [
     {
-      "title": "Gordie Howe Bridge connecting Detroit, Canada expected to open in late July",
-      "summary": "The 1.5-mile-long bridge, which spans the Detroit River and connects the Motor City with Windsor, Ontario, is expected to open on July 27.",
-      "date": "2026-07-11"
+      "title": "At least 2 killed in mass shooting at Toronto street festival, police say",
+      "summary": "At least two people were killed and several more wounded in a shooting Saturday evening at a street festival in Toronto, Canada, authorities said.",
+      "date": "2026-07-12"
+    },
+    {
+      "title": "Toronto shooting: two dead and four injured near street festival, with suspect still at large",
+      "summary": "Police in the city in Canada say suspect has not been apprehended after finding six people with gunshot wounds near Salsa on St Clair Festival A shooting near a Toronto street festival killed two people and wounded four others on Saturday, prompting police to warn of an active shooter before later saying the scene was.",
+      "date": "2026-07-12"
     },
     {
       "title": "Discovered by Atlas",
@@ -22,24 +27,30 @@
       "date": "2026-07-11"
     },
     {
-      "title": "Poll: Politics shapes patriotism, from the US to the UK",
+      "title": "Poll: Patriotism in the US, Europe and Canada, charted",
       "summary": "What does it mean to be patriotic? It depends on a country's politics. Pride in one’s country is itself relatively common, according to new results from an international edition of The POLITICO Poll: Majorities of adults across the United States, United Kingdom, Spain, Canada, France and Germany all say they are proud.",
       "date": "2026-07-11"
     }
   ],
   "sources": [
     {
-      "title": "Gordie Howe Bridge connecting Detroit, Canada expected to open in late July",
-      "url": "https://www.cbsnews.com/news/gordie-howe-bridge-detroit-canada-opening-deal/?utm_source=lootura.com",
-      "publishedAt": "2026-07-11T03:20:23.000Z",
+      "title": "At least 2 killed in mass shooting at Toronto street festival, police say",
+      "url": "https://www.cbsnews.com/news/deadly-shooting-toronto-street-festival/?utm_source=lootura.com",
+      "publishedAt": "2026-07-12T01:38:00.000Z",
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "Poll: Politics shapes patriotism, from the US to the UK",
+      "title": "Poll: Patriotism in the US, Europe and Canada, charted",
       "url": "https://www.politico.com/news/2026/07/11/poll-politics-patriotism-us-europe-canada-00993636?utm_source=lootura.com",
       "publishedAt": "2026-07-11T20:00:00.000Z",
       "sourceId": "lootura-us-politico"
+    },
+    {
+      "title": "Toronto shooting: two dead and four injured near street festival, with suspect still at large",
+      "url": "https://www.theguardian.com/world/2026/jul/12/toronto-shooting-two-dead-and-three-injured-as-police-search-for-active-shooter?utm_source=lootura.com",
+      "publishedAt": "2026-07-12T01:30:57.000Z",
+      "sourceId": "lootura-us-the-guardian-us"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 3
 }

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/united-states/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/united-states/index.json",
   "description": "Follow United States, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-11T20:43:49.483Z",
+  "updatedAt": "2026-07-12T02:32:33.232Z",
   "aliases": [
     "America",
     "Estados Unidos",
@@ -16,14 +16,14 @@
   ],
   "changes": [
     {
-      "title": "\"Face the Nation with Margaret Brennan\" guests for July 12, 2026",
-      "summary": "This week's guests include White House border czar Tom Homan and retired Gen. Frank McKenzie, president of The Citadel and former commander of U.S. Central Command.",
-      "date": "2026-07-11"
+      "title": "Exhibit looks at how the Declaration of Independence evolved",
+      "summary": "A new exhibit, The Declaration's Promise, celebrates America's independence and showcases how phrases such as \"all men are created equal,\" evolved. Nikole Killion has more.",
+      "date": "2026-07-12"
     },
     {
-      "title": "U.S. Employers Told to Dismiss Thousands of Immigrant Workers",
-      "summary": "Shifting deadlines are confusing businesses as the end of Temporary Protected Status for Haitians and others looms, making them ineligible to live and work in the United States.",
-      "date": "2026-07-11"
+      "title": "Fire departments work to get rid of cancer-linked foam extinguisher: \"It was like sitting on a bomb\"",
+      "summary": "Fire departments across the U.S. are changing how they extinguish fires. For decades, they used foam that contained so-called \"forever chemicals\" that are now linked to cancer. More than a dozen states are now working to collect, remove and destroy all of it. Mark Strassmann has more.",
+      "date": "2026-07-12"
     },
     {
       "title": "Trump Says Negotiations With Iran Will Continue as U.S. Ramps Up Strikes",
@@ -68,22 +68,22 @@
   ],
   "sources": [
     {
+      "title": "Exhibit looks at how the Declaration of Independence evolved",
+      "url": "https://www.cbsnews.com/video/exhibit-looks-how-declaration-independence-evolved/?utm_source=lootura.com",
+      "publishedAt": "2026-07-12T01:10:53.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
+    {
+      "title": "Fire departments work to get rid of cancer-linked foam extinguisher: \"It was like sitting on a bomb\"",
+      "url": "https://www.cbsnews.com/video/fire-departments-rid-cancer-linked-foam-extinguisher/?utm_source=lootura.com",
+      "publishedAt": "2026-07-12T01:02:49.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
+    {
       "title": "Trump warns Iran \"missiles are locked and loaded\" if they attempt assassination",
       "url": "https://www.cbsnews.com/video/trump-warns-iran-missiles-are-locked-and-loaded-if-they-attempt-assassination/?utm_source=lootura.com",
       "publishedAt": "2026-07-11T16:18:00.000Z",
       "sourceId": "lootura-us-cbs-news"
-    },
-    {
-      "title": "\"Face the Nation with Margaret Brennan\" guests for July 12, 2026",
-      "url": "https://www.cbsnews.com/news/face-the-nation-with-margaret-brennan-guests-july-12-2026/?utm_source=lootura.com",
-      "publishedAt": "2026-07-11T00:55:36.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
-    {
-      "title": "Trump threatens to 'decimate' Iran if it tries to kill him, as Treasury sanctions alleged Iranian financier",
-      "url": "https://www.cnbc.com/2026/07/11/trump-threat.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-11T20:35:21.000Z",
-      "sourceId": "lootura-us-cnbc"
     },
     {
       "title": "The biggest steam locomotive is whistle-stopping across the U.S.",
@@ -98,6 +98,12 @@
       "sourceId": "lootura-us-npr-politics"
     },
     {
+      "title": "Fate of Strait of Hormuz challenges talks as Trump and Iran's supreme leader trade threats",
+      "url": "https://www.pbs.org/newshour/world/fate-of-strait-of-hormuz-challenges-talks-as-trump-and-irans-supreme-leader-trade-threats?utm_source=lootura.com",
+      "publishedAt": "2026-07-11T16:01:44.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
+    },
+    {
       "title": "U.S. citizen working for humanitarian organization in Congo tests positive for Ebola",
       "url": "https://www.pbs.org/newshour/world/u-s-citizen-working-for-humanitarian-organization-in-congo-tests-positive-for-ebola?utm_source=lootura.com",
       "publishedAt": "2026-07-11T15:36:11.000Z",
@@ -110,7 +116,7 @@
       "sourceId": "lootura-us-pbs-newshour"
     },
     {
-      "title": "Poll: Politics shapes patriotism, from the US to the UK",
+      "title": "Poll: Patriotism in the US, Europe and Canada, charted",
       "url": "https://www.politico.com/news/2026/07/11/poll-politics-patriotism-us-europe-canada-00993636?utm_source=lootura.com",
       "publishedAt": "2026-07-11T20:00:00.000Z",
       "sourceId": "lootura-us-politico"
@@ -120,13 +126,7 @@
       "url": "https://www.nytimes.com/2026/07/10/us/politics/iran-war-escalation.html?utm_source=lootura.com",
       "publishedAt": "2026-07-11T03:48:02.000Z",
       "sourceId": "lootura-us-the-new-york-times"
-    },
-    {
-      "title": "An American Politician Is Blocked by Israeli Settlers in the West Bank",
-      "url": "https://www.nytimes.com/2026/07/11/us/politics/ro-khanna-west-bank.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-11T18:08:25.000Z",
-      "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 14
+  "evidenceCount": 12
 }

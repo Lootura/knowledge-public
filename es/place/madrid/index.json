@@ -8,22 +8,22 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/madrid/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/madrid/index.json",
   "description": "Sigue la actividad de Madrid en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-11T20:43:32.351Z",
+  "updatedAt": "2026-07-12T02:31:58.650Z",
   "aliases": [],
   "changes": [
     {
+      "title": "Los Cosentino, la familia que hizo del mármol de Almería un gigante global",
+      "summary": "Mucho del mármol que revestía las grandes villas y hoteles de la Costa del Sol en los años ochenta llevaba el sello de Cosentino . Pero la ambición de la compañía nunca se limitó a Andalucía. Su expansión comercial la llevó pronto a conquistar los mercados de Levante, Madrid y el País Vasco, impulsada en gran medida po.",
+      "date": "2026-07-12"
+    },
+    {
+      "title": "Madre e hijas unidas por la competición",
+      "summary": "La hípica ofrece una imagen poco habitual en el deporte. Hombres y mujeres, jóvenes y veteranos, aficionados y profesionales compiten en igualdad de condiciones en el mismo concurso. Ese espíritu volvió a quedar reflejado durante la IV Copa Comunidad de Madrid, celebrada del 19 al 21 de junio en el Club Hípico RACE con.",
+      "date": "2026-07-12"
+    },
+    {
       "title": "Discovered by Atlas",
       "summary": "Madrid first entered the public knowledge record with source-backed evidence.",
-      "date": "2026-07-11"
-    },
-    {
-      "title": "Enma López pasa el corte de los avales y se enfrentará a Reyes Maroto en primarias",
-      "summary": "La candidatura del PSOE de Madrid para la Alcaldía de la capital no está resultando tan sencilla como la de la Comunidad de Madrid, donde Óscar López ya ha sido proclamado este sábado cabeza de lista para enfrentarse a Isabel Díaz Ayuso en las urnas al ser el único precandidato que ha logrado los avales suficientes. Pa.",
-      "date": "2026-07-11"
-    },
-    {
-      "title": "Óscar López será el candidato del PSOE a la Comunidad de Madrid tras no lograr avales su rival en las primarias",
-      "summary": "El secretario general del PSOE de Madrid, Óscar López , será el candidato socialista a la Presidencia de la Comunidad de Madrid en las próximas elecciones autonómicas . No habrá votación entre la militancia después de que la única precandidatura alternativa, encabezada por la abogada y militante de base Silvia López Qu.",
       "date": "2026-07-11"
     },
     {
@@ -37,11 +37,6 @@
       "date": "2026-07-11"
     },
     {
-      "title": "Madrid supera ya las 150 muertes atribuidas al calor en lo que va de verano",
-      "summary": "La Comunidad de Madrid acumula ya más de un mes combatiendo las olas de calor que azotan a la región una tras otra. Unas altas temperaturas a las que se le atribuyen, en el mes de junio y los primeros diez días de julio, en torno a 170 muertes, según las estimaciones del Sistema de Monitorización de la Mortalidad Diari.",
-      "date": "2026-07-11"
-    },
-    {
       "title": "Ignacio Dancausa logra el aval de Nuevas Generaciones del PP para ser su presidente",
       "summary": "A sus 25 años, Ignacio Dancausa se ha convertido en el nuevo líder de Nuevas Generaciones (NNGG) del PP, puesto al que llega con la confianza del líder del partido, Alberto Núñez Feijóo , después de cuatro años al frente de la organización juvenil en Madrid, donde llegó avalado por la presidenta Isabel Díaz Ayuso. Danc.",
       "date": "2026-07-11"
@@ -49,22 +44,16 @@
   ],
   "sources": [
     {
-      "title": "Madrid supera ya las 150 muertes atribuidas al calor en lo que va de verano",
-      "url": "https://www.abc.es/espana/madrid/madrid-supera-150-muertes-atribuidas-calor-verano-20260711193231-nt.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-11T19:11:46.000Z",
-      "sourceId": "lootura-es-abc"
+      "title": "Los Cosentino, la familia que hizo del mármol de Almería un gigante global",
+      "url": "https://www.larazon.es/gente/famosos/cosentino-familia-que-hizo-marmol-almeria-gigante-global_202607126a52efd2c0b5fb431c4fa108.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-12T01:37:22.000Z",
+      "sourceId": "lootura-es-la-razon"
     },
     {
-      "title": "Enma López pasa el corte de los avales y se enfrentará a Reyes Maroto en primarias",
-      "url": "https://www.abc.es/espana/madrid/enma-lopez-pasa-corte-avales-enfrentara-reyes-20260711155703-nt.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-11T18:40:34.000Z",
-      "sourceId": "lootura-es-abc"
-    },
-    {
-      "title": "Óscar López será el candidato del PSOE a la Comunidad de Madrid tras no lograr avales su rival en las primarias",
-      "url": "https://www.elindependiente.com/espana/2026/07/11/oscar-lopez-sera-el-candidato-del-psoe-a-la-comunidad-de-madrid-tras-no-lograr-avales-su-rival-en-las-primarias/?utm_source=lootura.com",
-      "publishedAt": "2026-07-11T11:44:46.000Z",
-      "sourceId": "lootura-es-el-independiente"
+      "title": "Madre e hijas unidas por la competición",
+      "url": "https://www.larazon.es/deportes/madre-hijas-unidas-competicion_202607126a52ef17772f745d2c429928.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-12T01:34:15.000Z",
+      "sourceId": "lootura-es-la-razon"
     },
     {
       "title": "Ignacio Dancausa logra el aval de Nuevas Generaciones del PP para ser su presidente",
@@ -85,5 +74,5 @@
       "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 6
+  "evidenceCount": 5
 }

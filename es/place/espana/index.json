@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/espana/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/espana/index.json",
   "description": "Sigue la actividad de España en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-11T20:43:32.351Z",
+  "updatedAt": "2026-07-12T02:31:58.650Z",
   "aliases": [
     "Estado español",
     "Spain"
   ],
   "changes": [
+    {
+      "title": "El otro plan de Luis Miguel: conquistar España a golpe de tequila",
+      "summary": "Hace unas semanas la revista «Semana» sorprendía con la noticia del ingreso de Luis Miguel en un hospital de Nueva York. Según la publicación, el cantante mexicano había sido operado de una cirugía cardíaca, supervisado por el doctor español Valentín Fuster . Un extremo no confirmado ni por el cantante ni por su pareja.",
+      "date": "2026-07-12"
+    },
     {
       "title": "Discovered by Atlas",
       "summary": "España first entered the public knowledge record with source-backed evidence.",
@@ -25,33 +30,13 @@
       "date": "2026-07-11"
     },
     {
-      "title": "El antes y después del incendio de Almería, con imágenes de satélite",
-      "summary": "El territorio calcinado en Los Gallardos ya supera las 6.600 hectáreas El mapa de los incendios activos en España en 2026: cómo avanzan y qué zonas se han quemado más Los incendios de los últimos 70 días, avivados por las temperaturas extremas, producto a su vez de la crisis climática, ya han calcinado 34.000 hectáreas.",
-      "date": "2026-07-11"
-    },
-    {
-      "title": "Mañueco arremete contra Sánchez y pide a los jóvenes implicarse «con fuerza» por España",
-      "summary": "El presidente del PP en Castilla y León, Alfonso Fernández Mañueco , ha pedido este sábado a los jóvenes del Partido Popular que sean valientes, inconformistas y exigentes y ha hecho un llamamiento expreso a que se impliquen y se comprometan con España y a que lo hagan «con fuerza, con ganas y con ilusión». Alfonso Fer.",
-      "date": "2026-07-11"
-    },
-    {
       "title": "España va de otra cosa y la sensación es desconcertante",
       "summary": "Me recuerda Bárbara Arena uno de los momentos definitorios de Carmina Ordóñez , diva de divas. En uno de esos platós de televisión a los que la Ordóñez iba a llevárselo crudo, Karmele Marchante se enzarza con ella: “Es que yo, Carmen, nunca te vi trabajando”, le suelta. Y Carmina, abofeteándose el pelo: “Ni me verás”.",
       "date": "2026-07-11"
     },
     {
-      "title": "¿Por qué los estadounidenses están huyendo de su país? \"El sueño americano ya no existe allí, estamos buscando una vida mejor en España\"",
-      "summary": "El ideal que durante siglos definió a Estados Unidos como la tierra de las oportunidades , donde el esfuerzo personal garantizaba el acceso a una vivienda propia y la formación de una familia sin hipotecar el futuro, se desmorona ante la realidad económica actual . Según analizan diversos testimonios, el coste de la pr.",
-      "date": "2026-07-11"
-    },
-    {
       "title": "La Guardia Civil obtiene el perfil genético de los 12 muertos en el incendio de Los Gallardos",
       "summary": "El departamento de Biología del servicio de Criminalística de la Guardia Civil ha obtenido ya el perfil genético de los doce fallecidos en el incendio de Los Gallardos (Almería) , si bien no ha sido posible la identificación de ninguna víctima debido a que sus familiares están viajando a España desde otros países para.",
-      "date": "2026-07-11"
-    },
-    {
-      "title": "El calor y fuerte tormentas ponen en aviso a media España en las próximas horas: provincias en alerta",
-      "summary": "El calor pone en aviso este domingo a la mitad de las comunidades autónomas de España , donde se esperan tormentas fuertes en el norte y en Galicia , según la predicción de la Agencia Estatal de Meteorología (Aemet). En concreto, la agencia registra avisos por tormentas en Asturias, Cantabria, Castilla y León, Castilla.",
       "date": "2026-07-11"
     },
     {
@@ -63,6 +48,21 @@
       "title": "¿Por qué Extremadura gasta más por vecino en Sanidad y Educación pero las partidas tienen menos peso en el presupuesto?: La respuesta es la demografía",
       "summary": "Las cuentas públicas de Extremadura esconden una compleja realidad matemática: aunque la región se sitúa a la cabeza de la inversión social en España, el peso relativo de estas partidas en su presupuesto global es inferior a la media nacional . Según el último informe de la Asociación Estatal de Directoras y Gerentes e.",
       "date": "2026-07-11"
+    },
+    {
+      "title": "Sánchez no tiene vida privada",
+      "summary": "Siempre se ha discutido en la España que todo lo discute sobre la presunta vida privada de los cargos públicos . Un debate tan viejo como el de la obligatoriedad o no de obedecer leyes injustas. ¿Qué prima en conflictos morales, jurídicos o semánticos así? ¿El ejercicio de la responsabilidad pública, con la consiguient.",
+      "date": "2026-07-11"
+    },
+    {
+      "title": "La España de Thiago Pitarch se corona: ¡campeones del Europeo Sub-19!",
+      "summary": "Llegar, ver y vencer. Veni vidi vici . Un déjà vu sacude Gales . Lo humaniza España , que encontró la luz una vez caída la tarde. Victoria solvente ante Alemania y décimo Europeo Sub-19 al bolsillo . Se dice pronto. Brilla la generación del 2007, que ha conquistado un torneo impecable con cinco victorias en cinco parti.",
+      "date": "2026-07-11"
+    },
+    {
+      "title": "El incendio de Los Gallardos no avanza y da una «perspectiva favorable» para estabilizarlo",
+      "summary": "El ministro de la Presidencia, Justicia y Relaciones con las Cortes de España, Félix Bolaños , ha anunciado este sábado por la tarde que el incendio forestal originado en Los Gallardos (Almería) no ha sufrido avances a lo largo de la jornada, y se mantiene estancado en las 6.600 hectáreas de terreno afectadas, por lo q.",
+      "date": "2026-07-11"
     }
   ],
   "sources": [
@@ -70,12 +70,6 @@
       "title": "La Guardia Civil obtiene el perfil genético de los 12 muertos en el incendio de Los Gallardos",
       "url": "https://www.20minutos.es/andalucia/almeria/guardia-civil-obtiene-perfil-genetico-muertos-incendio-gallardos_7013564_0.html?utm_source=lootura.com",
       "publishedAt": "2026-07-11T20:08:24.000Z",
-      "sourceId": "lootura-es-20minutos"
-    },
-    {
-      "title": "El calor y fuerte tormentas ponen en aviso a media España en las próximas horas: provincias en alerta",
-      "url": "https://www.20minutos.es/nacional/calor-las-tormentas-fuertes-ponen-aviso-media-espana-las-proximas-horas-estas-son-las-provincias-alerta_7013554_0.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-11T19:07:14.000Z",
       "sourceId": "lootura-es-20minutos"
     },
     {
@@ -97,21 +91,15 @@
       "sourceId": "lootura-es-el-pais"
     },
     {
-      "title": "El antes y después del incendio de Almería, con imágenes de satélite",
-      "url": "https://www.eldiario.es/sociedad/despues-incendio-almeria-imagenes-satelite_1_13373561.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-11T12:22:27.000Z",
-      "sourceId": "lootura-es-eldiario-es"
-    },
-    {
-      "title": "¿Por qué los estadounidenses están huyendo de su país? \"El sueño americano ya no existe allí, estamos buscando una vida mejor en España\"",
-      "url": "https://www.larazon.es/sociedad/que-estadounidenses-estan-huyendo-pais-sueno-americano-existe-alli-estamos-buscando-vida-mejor-espana-b50m_202607116a526fe0c0b5fb431c4ecdc4.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-11T16:31:28.000Z",
-      "sourceId": "lootura-es-la-razon"
-    },
-    {
       "title": "¿Por qué Extremadura gasta más por vecino en Sanidad y Educación pero las partidas tienen menos peso en el presupuesto?: La respuesta es la demografía",
       "url": "https://www.larazon.es/extremadura/que-extremadura-gasta-mas-vecino-sanidad-educacion-pero-partidas-tienen-menos-peso-presupuesto-respuesta-demografia-b30m_202607116a52a644c48a78681b82da58.html?utm_source=lootura.com",
       "publishedAt": "2026-07-11T20:23:32.000Z",
+      "sourceId": "lootura-es-la-razon"
+    },
+    {
+      "title": "El otro plan de Luis Miguel: conquistar España a golpe de tequila",
+      "url": "https://www.larazon.es/gente/famosos/otro-plan-luis-miguel-conquistar-espana-golpe-tequila_202607126a52f02ac48a78681b835548.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-12T01:38:50.000Z",
       "sourceId": "lootura-es-la-razon"
     },
     {
@@ -125,7 +113,19 @@
       "url": "https://okdiario.com/deportes/espana-thiago-pitarch-corona-campeones-del-europeo-sub-19-18977579?utm_source=lootura.com",
       "publishedAt": "2026-07-11T19:56:11.000Z",
       "sourceId": "lootura-es-ok-diario"
+    },
+    {
+      "title": "El incendio de Los Gallardos no avanza y da una «perspectiva favorable» para estabilizarlo",
+      "url": "https://theobjective.com/sociedad/suceso/2026-07-11/incendio-los-gallardos-perspectiva-favorable/?utm_source=lootura.com",
+      "publishedAt": "2026-07-11T19:09:05.000Z",
+      "sourceId": "lootura-es-the-objective"
+    },
+    {
+      "title": "Reino Unido muestra su «apoyo» a España en su lucha frente al incendio en Almería",
+      "url": "https://theobjective.com/espana/2026-07-12/reino-unido-apoyo-espana-lucha-incendio-almeria/?utm_source=lootura.com",
+      "publishedAt": "2026-07-11T22:20:21.000Z",
+      "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 12
+  "evidenceCount": 10
 }

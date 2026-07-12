@@ -8,12 +8,41 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/europe/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/europe/index.json",
   "description": "Follow Europe, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-11T09:26:55.725Z",
+  "updatedAt": "2026-07-12T02:32:33.232Z",
   "aliases": [
     "EU",
     "European Union"
   ],
-  "changes": [],
-  "sources": [],
-  "evidenceCount": 0
+  "changes": [
+    {
+      "title": "It's Christmas in July as hundreds of Santas go on the march in the middle of a stifling summer heat wave",
+      "summary": "It's beginning to look a lot like Christmas — if you ignore the calendar, that is. While much of Europe continues to grapple with stifling summer heat, one Danish city looked ready for Christmas. Hundreds of Santa Clauses, Mrs. Clauses and Christmas elves from around the world filled the streets this week for the annua.",
+      "date": "2026-07-12"
+    },
+    {
+      "title": "Poll: Patriotism in the US, Europe and Canada, charted",
+      "summary": "What does it mean to be patriotic? It depends on a country's politics. Pride in one’s country is itself relatively common, according to new results from an international edition of The POLITICO Poll: Majorities of adults across the United States, United Kingdom, Spain, Canada, France and Germany all say they are proud.",
+      "date": "2026-07-11"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Europe first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-07-09"
+    }
+  ],
+  "sources": [
+    {
+      "title": "It's Christmas in July as hundreds of Santas go on the march in the middle of a stifling summer heat wave",
+      "url": "https://www.foxnews.com/lifestyle/christmas-july-hundreds-santas-march-middle-stifling-summer-heat-wave?utm_source=lootura.com",
+      "publishedAt": "2026-07-12T01:43:56.000Z",
+      "sourceId": "lootura-us-fox-news"
+    },
+    {
+      "title": "Poll: Patriotism in the US, Europe and Canada, charted",
+      "url": "https://www.politico.com/news/2026/07/11/poll-politics-patriotism-us-europe-canada-00993636?utm_source=lootura.com",
+      "publishedAt": "2026-07-11T20:00:00.000Z",
+      "sourceId": "lootura-us-politico"
+    }
+  ],
+  "evidenceCount": 2
 }

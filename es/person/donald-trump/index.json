@@ -8,13 +8,18 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/donald-trump/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/donald-trump/index.json",
   "description": "Sigue la actividad de Donald Trump en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-11T20:43:32.351Z",
+  "updatedAt": "2026-07-12T02:31:58.650Z",
   "aliases": [
     "President Donald Trump",
     "President Trump",
     "Trump"
   ],
   "changes": [
+    {
+      "title": "El gasto militar de Sánchez sólo concita el aplauso de Trump: izquierda y derecha exigen explicaciones y acusan al Gobierno de opacidad",
+      "summary": "Reproches al Gobierno por traspasar todos los límites de la transparencia hasta crear una enorme factura opaca en la que se mezclan armas, salarios, planes de inversión y programas de inteligencia Leer.",
+      "date": "2026-07-12"
+    },
     {
       "title": "Discovered by Atlas",
       "summary": "Donald Trump first entered the public knowledge record with source-backed evidence.",
@@ -28,11 +33,17 @@
   ],
   "sources": [
     {
+      "title": "El gasto militar de Sánchez sólo concita el aplauso de Trump: izquierda y derecha exigen explicaciones y acusan al Gobierno de opacidad",
+      "url": "https://www.elmundo.es/espana/2026/07/12/6a526b8421efa069048b45ad.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-12T01:28:52.000Z",
+      "sourceId": "lootura-es-el-mundo"
+    },
+    {
       "title": "Trump, otra vez contra los medios: periodistas de The New York Times reciben citaciones judiciales tras una información sobre el nuevo Air Force One",
       "url": "https://www.elmundo.es/internacional/2026/07/11/6a5256ee21efa0d24f8b4573.html?utm_source=lootura.com",
       "publishedAt": "2026-07-11T14:53:01.000Z",
       "sourceId": "lootura-es-el-mundo"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 3
 }

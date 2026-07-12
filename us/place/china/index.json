@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/china/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/china/index.json",
   "description": "Follow China, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-11T20:43:49.483Z",
+  "updatedAt": "2026-07-12T02:32:33.232Z",
   "aliases": [],
   "changes": [
     {
       "title": "Typhoon Bavi makes landfall in eastern China as more than 1 million are evacuated",
       "summary": "Bavi previously brought strong winds and rain to Japan's southern islands and Taiwan. It was the second typhoon to impact China in just over a week's time.",
+      "date": "2026-07-11"
+    },
+    {
+      "title": "We Returned From China. We Realized Our Century’s Biggest Challenge.",
+      "summary": "A.I. demands a populist approach that treats the technology as a public project.",
       "date": "2026-07-11"
     },
     {
@@ -28,7 +33,13 @@
       "url": "https://www.pbs.org/newshour/world/typhoon-bavi-makes-landfall-in-eastern-china-as-more-than-1-million-are-evacuated?utm_source=lootura.com",
       "publishedAt": "2026-07-11T16:36:23.000Z",
       "sourceId": "lootura-us-pbs-newshour"
+    },
+    {
+      "title": "We Returned From China. We Realized Our Century’s Biggest Challenge.",
+      "url": "https://www.nytimes.com/2026/07/11/opinion/ai-populism-china-open-source.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-11T16:45:53.000Z",
+      "sourceId": "lootura-us-the-new-york-times"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 2
 }

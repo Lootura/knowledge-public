@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/alberto-nunez-feijoo/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/alberto-nunez-feijoo/index.json",
   "description": "Sigue la actividad de Alberto Núñez Feijóo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-11T20:43:32.351Z",
+  "updatedAt": "2026-07-12T02:31:58.650Z",
   "aliases": [
     "Feijóo",
     "Núñez Feijóo"
@@ -17,11 +17,6 @@
     {
       "title": "Discovered by Atlas",
       "summary": "Alberto Núñez Feijóo first entered the public knowledge record with source-backed evidence.",
-      "date": "2026-07-11"
-    },
-    {
-      "title": "Feijóo desafía las críticas a sus propuestas: «Me dedico a esto para mejorar las cosas»",
-      "summary": "El presidente del PP, Alberto Núñez Feijóo, ha ironizado este sábado sobre las críticas a sus propuestas en las últimas semanas, como la de perseguir el.",
       "date": "2026-07-11"
     },
     {
@@ -47,13 +42,7 @@
       "url": "https://theobjective.com/espana/politica/2026-07-11/ignacio-dancausa-presidente-nuevas-generaciones-pp/?utm_source=lootura.com",
       "publishedAt": "2026-07-11T18:30:36.000Z",
       "sourceId": "lootura-es-the-objective"
-    },
-    {
-      "title": "Feijóo desafía las críticas a sus propuestas: «Me dedico a esto para mejorar las cosas»",
-      "url": "https://theobjective.com/espana/politica/2026-07-11/feijoo-criticas-propuestas-debates-valientes/?amp=&utm_source=lootura.com",
-      "publishedAt": "2026-07-11T12:01:39.000Z",
-      "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 2
 }

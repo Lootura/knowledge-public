@@ -3,16 +3,16 @@
 > Follow New York, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-11T20:43:49.483Z
+- Updated: 2026-07-12T02:32:33.232Z
 - Canonical: https://atlas.lootura.com/us/place/new-york
 
 ## Recent changes
 
-### Buckling Manhattan High Rise Becomes Focus of Criminal Investigation
+### 'Die Hard' actor Robert Davi blasts Mamdani after NYC map omits Little Italy
 
-The inquiry, being conducted by the New York City Department of Investigation and the Manhattan district attorney’s office, was in an early stage, and its focus was unclear.
+"Die Hard" actor Robert Davi blasted New York City Mayor Zohran Mamdani Friday after a city map highlighting immigrant enclaves omitted Little Italy. The "New York City Immigrant Enclaves" map resurfaced on social media earlier this week after users pointed out it omitted Little Italy, as well as historically Jewish an.
 
-Date: 2026-07-10
+Date: 2026-07-12
 
 ### Discovered by Atlas
 
@@ -22,4 +22,4 @@ Date: 2026-07-10
 
 ## Sources
 
-- [Buckling Manhattan High Rise Becomes Focus of Criminal Investigation](https://www.nytimes.com/2026/07/10/nyregion/nyc-building-conversion-investigation.html?utm_source=lootura.com) — 2026-07-10T23:20:08.000Z
+- ['Die Hard' actor Robert Davi blasts Mamdani after NYC map omits Little Italy](https://www.foxnews.com/politics/die-hard-actor-robert-davi-blasts-mamdani-nyc-map-omits-little-italy?utm_source=lootura.com) — 2026-07-12T01:11:58.000Z
