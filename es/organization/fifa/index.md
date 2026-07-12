@@ -8,12 +8,8 @@
 
 ## Cambios recientes
 
-### Discovered by Atlas
-
-FIFA first entered the public knowledge record with source-backed evidence.
-
-Date: 2026-07-08
+No recent public changes.
 
 ## Fuentes
 
-- [El Inglaterra-Noruega podría retrasarse a más tarde de las 23 horas por el calor extremo en Miami](https://okdiario.com/mundial/inglaterra-noruega-podria-retrasarse-mas-tarde-23-horas-calor-extremo-miami-18977550?utm_source=lootura.com) — 2026-07-11T19:46:27.000Z
+No public source links.

@@ -10,20 +10,7 @@
   "description": "Sigue la actividad de FIFA en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
   "updatedAt": "2026-07-12T02:31:58.650Z",
   "aliases": [],
-  "changes": [
-    {
-      "title": "Discovered by Atlas",
-      "summary": "FIFA first entered the public knowledge record with source-backed evidence.",
-      "date": "2026-07-08"
-    }
-  ],
-  "sources": [
-    {
-      "title": "El Inglaterra-Noruega podría retrasarse a más tarde de las 23 horas por el calor extremo en Miami",
-      "url": "https://okdiario.com/mundial/inglaterra-noruega-podria-retrasarse-mas-tarde-23-horas-calor-extremo-miami-18977550?utm_source=lootura.com",
-      "publishedAt": "2026-07-11T19:46:27.000Z",
-      "sourceId": "lootura-es-ok-diario"
-    }
-  ],
+  "changes": [],
+  "sources": [],
   "evidenceCount": 0
 }

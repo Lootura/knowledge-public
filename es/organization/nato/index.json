@@ -8,13 +8,64 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/nato/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/nato/index.json",
   "description": "Sigue la actividad de NATO en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-11T09:26:27.277Z",
+  "updatedAt": "2026-07-12T06:30:48.397Z",
   "aliases": [
     "North Atlantic Treaty Organization",
     "OTAN",
     "Organización del Tratado del Atlántico Norte"
   ],
-  "changes": [],
-  "sources": [],
-  "evidenceCount": 0
+  "changes": [
+    {
+      "title": "La ruleta geopolítica abre oportunidades en la defensa europea, pero el mercado ya no compra a ciegas",
+      "summary": "La ruleta geopolítica sigue girando y, mientras las alianzas globales se reconfiguran, los inversores evalúan si el sector europeo de la defensa todavía esconde oportunidades. Durante la reciente cumbre de la OTAN en Ankara , el secretario general, Mark Rutte, anunció “decenas de miles de millones” en nuevos contratos.",
+      "date": "2026-07-12"
+    },
+    {
+      "title": "Las claves: el mercado deja de comprar defensa europea en bloque",
+      "summary": "La tensión bélica en Europa no ha aflojado. El secretario general de la OTAN, Mark Rutte, anunció durante la cumbre de Ankara “decenas de miles de millones” en nuevos contratos para la industria de defensa . Sin embargo, el mercado ha dejado de comprar el sector en bloque. Si durante 2024 y buena parte de 2025 bastaba.",
+      "date": "2026-07-12"
+    },
+    {
+      "title": "La OTAN resucita el A400M de Sevilla que el sector ya daba por muerto",
+      "summary": "En la línea de montaje del A400M de la planta sevillana de San Pablo ya habían empezado a apagar las luces. El sector veía la continuidad del programa del mayor avión de transporte militar de Airbus más allá de 2028 muy comprometida por la falta de nuevos contratos , y la propia factoría sevillana había empezado a actu.",
+      "date": "2026-07-12"
+    },
+    {
+      "title": "EEUU bombardea de nuevo Irán tras anunciar Teherán el cierre del estrecho Ormuz y atacar un barco en el paso marítimo",
+      "summary": "Irán dice que el paso de Ormuz está cerrado de nuevo después de que un buque que seguía una \"ruta no autorizada\" fuera alcanzado y el Ejército de EEUU anuncia que \"está imponiendo un alto coste\" a Irán Trump desata el caos con nuevos ataques sobre Irán, insultos a sus aliados de la OTAN, crisis internas y más muertes d.",
+      "date": "2026-07-12"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "NATO first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-07-11"
+    }
+  ],
+  "sources": [
+    {
+      "title": "La ruleta geopolítica abre oportunidades en la defensa europea, pero el mercado ya no compra a ciegas",
+      "url": "https://cincodias.elpais.com/mercados-financieros/2026-07-12/la-ruleta-geopolitica-abre-oportunidades-en-la-defensa-europea-pero-el-mercado-ya-no-compra-a-ciegas.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-12T03:30:00.000Z",
+      "sourceId": "lootura-es-cinco-dias"
+    },
+    {
+      "title": "Las claves: el mercado deja de comprar defensa europea en bloque",
+      "url": "https://cincodias.elpais.com/opinion/2026-07-12/las-claves-el-mercado-deja-de-comprar-defensa-europea-en-bloque.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-12T03:40:00.000Z",
+      "sourceId": "lootura-es-cinco-dias"
+    },
+    {
+      "title": "La OTAN resucita el A400M de Sevilla que el sector ya daba por muerto",
+      "url": "https://www.elconfidencial.com/espana/andalucia/2026-07-12/la-otan-resucita-el-a400m-de-sevilla-que-el-sector-ya-daba-por-muerto_4387225/?utm_source=lootura.com",
+      "publishedAt": "2026-07-12T03:00:00.000Z",
+      "sourceId": "lootura-es-el-confidencial"
+    },
+    {
+      "title": "EEUU bombardea de nuevo Irán tras anunciar Teherán el cierre del estrecho Ormuz y atacar un barco en el paso marítimo",
+      "url": "https://www.eldiario.es/internacional/eeuu-bombardea-nuevo-iran-declarar-teheran-cierre-estrecho-ormuz-atacar-barco-estrecho_1_13374134.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-12T00:28:31.000Z",
+      "sourceId": "lootura-es-eldiario-es"
+    }
+  ],
+  "evidenceCount": 4
 }

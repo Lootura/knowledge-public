@@ -3,14 +3,14 @@
 > Follow Ukraine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-12T02:32:33.232Z
+- Updated: 2026-07-12T06:31:22.183Z
 - Canonical: https://atlas.lootura.com/us/place/ukraine
 
 ## Recent changes
 
-### 10 injured in overnight Russian strikes on Kyiv
+### Inside the Secret Factory That Supplies Ukraine’s War Drones
 
-Ukrainian military said its air defenses shot down or suppressed two missiles and 111 drones, while Russia claims its forces targeted drone production facilities in Kyiv.
+With its mass-produced and inexpensive A.I. powered war machines, the German start-up Helsing SE illustrates a profound shift in military spending.
 
 Date: 2026-07-11
 
@@ -22,4 +22,4 @@ Date: 2026-07-08
 
 ## Sources
 
-- [10 injured in overnight Russian strikes on Kyiv](https://www.cbsnews.com/news/russia-ukraine-drone-missile-strike-kyiv/?utm_source=lootura.com) — 2026-07-11T11:51:38.000Z
+- [Inside the Secret Factory That Supplies Ukraine’s War Drones](https://www.nytimes.com/2026/07/11/business/dealbook/drone-factory-helsing.html?utm_source=lootura.com) — 2026-07-11T12:00:09.000Z

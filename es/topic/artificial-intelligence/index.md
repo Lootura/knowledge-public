@@ -3,7 +3,7 @@
 > Sigue la actividad de Artificial intelligence en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: topic
-- Actualizado: 2026-07-12T02:31:58.650Z
+- Actualizado: 2026-07-12T06:30:48.397Z
 - Canonical: https://atlas.lootura.com/es/topic/artificial-intelligence
 
 ## Cambios recientes
@@ -16,4 +16,4 @@ Date: 2026-07-10
 
 ## Fuentes
 
-- [Cuba, la dictadura asesina más subvencionada del mundo](https://www.larazon.es/economia/cuba-dictadura-asesina-mas-subvencionada-mundo_202607126a52fc36c0b5fb431c4fb540.html?outputType=amp&utm_source=lootura.com) — 2026-07-12T02:30:14.000Z
+- [Los datos de España y Francia: ¿quién ha jugado mejor en el Mundial?](https://elpais.com/deportes/mundial-futbol/2026-07-12/los-datos-de-espana-y-francia-quien-ha-jugado-mejor-en-el-mundial.html?utm_source=lootura.com) — 2026-07-12T03:30:01.000Z

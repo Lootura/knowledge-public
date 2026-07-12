@@ -3,7 +3,7 @@
 > Follow United States, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-12T02:32:33.232Z
+- Updated: 2026-07-12T06:31:22.183Z
 - Canonical: https://atlas.lootura.com/us/place/united-states
 
 ## Recent changes
@@ -20,11 +20,17 @@ Fire departments across the U.S. are changing how they extinguish fires. For dec
 
 Date: 2026-07-12
 
-### Trump Says Negotiations With Iran Will Continue as U.S. Ramps Up Strikes
+### US attacks Iran over ship being hit in Strait of Hormuz; Tehran lashes out again at Gulf Arab states
 
-U.S. forces hit more than 170 targets, including air defense systems, drone and missile storage sites, and military speedboats.
+The United States attacked Iran early Sunday morning over an Iranian attack on a vessel in the Strait of Hormuz. Iran apparently responded with strikes targeting Bahrain, Qatar and the United Arab Emirates. (Image credit: Vahid Salemi).
 
-Date: 2026-07-11
+Date: 2026-07-12
+
+### The World Is Cutting Ties With America. It’s Already Costing Us.
+
+When other countries cut ties, Americans pay.
+
+Date: 2026-07-12
 
 ### Political scientist Dominic Tierney on why the U.S. gets trapped in conflicts like Iran
 
@@ -62,12 +68,6 @@ The CDC said it was working with the person's employer, U.S. agencies, the publi
 
 Date: 2026-07-11
 
-### Trump and Iran's supreme leader trade threats as mediators try to save their crumbling deal
-
-President Donald Trump overnight made threats on social media of further missile attacks against Iran, after the funeral of Supreme Leader Ayatollah Ali Khamenei saw open calls for the U.S. leader's killing.
-
-Date: 2026-07-11
-
 ## Sources
 
 - [Exhibit looks at how the Declaration of Independence evolved](https://www.cbsnews.com/video/exhibit-looks-how-declaration-independence-evolved/?utm_source=lootura.com) — 2026-07-12T01:10:53.000Z
@@ -75,8 +75,8 @@ Date: 2026-07-11
 - [Trump warns Iran "missiles are locked and loaded" if they attempt assassination](https://www.cbsnews.com/video/trump-warns-iran-missiles-are-locked-and-loaded-if-they-attempt-assassination/?utm_source=lootura.com) — 2026-07-11T16:18:00.000Z
 - [The biggest steam locomotive is whistle-stopping across the U.S.](https://www.npr.org/2026/07/11/nx-s1-5872656/big-boy-locomotive-steam?utm_source=lootura.com) — 2026-07-11T15:14:42.000Z
 - [Political scientist Dominic Tierney on why the U.S. gets trapped in conflicts like Iran](https://www.npr.org/2026/07/11/nx-s1-5886190/political-scientist-dominic-tierney-on-why-the-u-s-gets-trapped-in-conflicts-like-iran?utm_source=lootura.com) — 2026-07-11T11:43:42.000Z
+- [US attacks Iran over ship being hit in Strait of Hormuz; Tehran lashes out again at Gulf Arab states](https://www.npr.org/2026/07/11/g-s1-133212/us-iran-vessel-attack-strait-hormuz-gulf?utm_source=lootura.com) — 2026-07-12T01:32:36.000Z
 - [Fate of Strait of Hormuz challenges talks as Trump and Iran's supreme leader trade threats](https://www.pbs.org/newshour/world/fate-of-strait-of-hormuz-challenges-talks-as-trump-and-irans-supreme-leader-trade-threats?utm_source=lootura.com) — 2026-07-11T16:01:44.000Z
 - [U.S. citizen working for humanitarian organization in Congo tests positive for Ebola](https://www.pbs.org/newshour/world/u-s-citizen-working-for-humanitarian-organization-in-congo-tests-positive-for-ebola?utm_source=lootura.com) — 2026-07-11T15:36:11.000Z
 - [Trump and Iran's supreme leader trade threats as mediators try to save their crumbling deal](https://www.pbs.org/newshour/world/trump-and-irans-supreme-leader-trade-threats-as-mediators-try-to-save-their-crumbling-deal?utm_source=lootura.com) — 2026-07-11T16:01:44.000Z
 - [Poll: Patriotism in the US, Europe and Canada, charted](https://www.politico.com/news/2026/07/11/poll-politics-patriotism-us-europe-canada-00993636?utm_source=lootura.com) — 2026-07-11T20:00:00.000Z
-- [Trump Says Negotiations With Iran Will Continue as U.S. Ramps Up Strikes](https://www.nytimes.com/2026/07/10/us/politics/iran-war-escalation.html?utm_source=lootura.com) — 2026-07-11T03:48:02.000Z

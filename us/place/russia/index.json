@@ -8,13 +8,13 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/russia/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/russia/index.json",
   "description": "Follow Russia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-12T02:32:33.232Z",
+  "updatedAt": "2026-07-12T06:31:22.183Z",
   "aliases": [],
   "changes": [
     {
-      "title": "10 injured in overnight Russian strikes on Kyiv",
-      "summary": "Ukrainian military said its air defenses shot down or suppressed two missiles and 111 drones, while Russia claims its forces targeted drone production facilities in Kyiv.",
-      "date": "2026-07-11"
+      "title": "How Putin Turned Japan Into a Den of Spies",
+      "summary": "Operating out of a Tokyo high-rise, a military intelligence unit finds the high-tech equipment that Russia needs to wage war.",
+      "date": "2026-07-12"
     },
     {
       "title": "Discovered by Atlas",
@@ -24,10 +24,10 @@
   ],
   "sources": [
     {
-      "title": "10 injured in overnight Russian strikes on Kyiv",
-      "url": "https://www.cbsnews.com/news/russia-ukraine-drone-missile-strike-kyiv/?utm_source=lootura.com",
-      "publishedAt": "2026-07-11T11:51:38.000Z",
-      "sourceId": "lootura-us-cbs-news"
+      "title": "How Putin Turned Japan Into a Den of Spies",
+      "url": "https://www.nytimes.com/2026/07/12/world/asia/russia-spies-japan-war-drones-electronics.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-12T04:01:11.000Z",
+      "sourceId": "lootura-us-the-new-york-times"
     }
   ],
   "evidenceCount": 1

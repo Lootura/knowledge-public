@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/united-states/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/united-states/index.json",
   "description": "Follow United States, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-12T02:32:33.232Z",
+  "updatedAt": "2026-07-12T06:31:22.183Z",
   "aliases": [
     "America",
     "Estados Unidos",
@@ -26,9 +26,14 @@
       "date": "2026-07-12"
     },
     {
-      "title": "Trump Says Negotiations With Iran Will Continue as U.S. Ramps Up Strikes",
-      "summary": "U.S. forces hit more than 170 targets, including air defense systems, drone and missile storage sites, and military speedboats.",
-      "date": "2026-07-11"
+      "title": "US attacks Iran over ship being hit in Strait of Hormuz; Tehran lashes out again at Gulf Arab states",
+      "summary": "The United States attacked Iran early Sunday morning over an Iranian attack on a vessel in the Strait of Hormuz. Iran apparently responded with strikes targeting Bahrain, Qatar and the United Arab Emirates. (Image credit: Vahid Salemi).",
+      "date": "2026-07-12"
+    },
+    {
+      "title": "The World Is Cutting Ties With America. It’s Already Costing Us.",
+      "summary": "When other countries cut ties, Americans pay.",
+      "date": "2026-07-12"
     },
     {
       "title": "Political scientist Dominic Tierney on why the U.S. gets trapped in conflicts like Iran",
@@ -58,11 +63,6 @@
     {
       "title": "U.S. citizen working for humanitarian organization in Congo tests positive for Ebola",
       "summary": "The CDC said it was working with the person's employer, U.S. agencies, the public health authorities and Congolese partners to prevent further transmission and identify close contacts.",
-      "date": "2026-07-11"
-    },
-    {
-      "title": "Trump and Iran's supreme leader trade threats as mediators try to save their crumbling deal",
-      "summary": "President Donald Trump overnight made threats on social media of further missile attacks against Iran, after the funeral of Supreme Leader Ayatollah Ali Khamenei saw open calls for the U.S. leader's killing.",
       "date": "2026-07-11"
     }
   ],
@@ -98,6 +98,12 @@
       "sourceId": "lootura-us-npr-politics"
     },
     {
+      "title": "US attacks Iran over ship being hit in Strait of Hormuz; Tehran lashes out again at Gulf Arab states",
+      "url": "https://www.npr.org/2026/07/11/g-s1-133212/us-iran-vessel-attack-strait-hormuz-gulf?utm_source=lootura.com",
+      "publishedAt": "2026-07-12T01:32:36.000Z",
+      "sourceId": "lootura-us-npr-world"
+    },
+    {
       "title": "Fate of Strait of Hormuz challenges talks as Trump and Iran's supreme leader trade threats",
       "url": "https://www.pbs.org/newshour/world/fate-of-strait-of-hormuz-challenges-talks-as-trump-and-irans-supreme-leader-trade-threats?utm_source=lootura.com",
       "publishedAt": "2026-07-11T16:01:44.000Z",
@@ -120,13 +126,7 @@
       "url": "https://www.politico.com/news/2026/07/11/poll-politics-patriotism-us-europe-canada-00993636?utm_source=lootura.com",
       "publishedAt": "2026-07-11T20:00:00.000Z",
       "sourceId": "lootura-us-politico"
-    },
-    {
-      "title": "Trump Says Negotiations With Iran Will Continue as U.S. Ramps Up Strikes",
-      "url": "https://www.nytimes.com/2026/07/10/us/politics/iran-war-escalation.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-11T03:48:02.000Z",
-      "sourceId": "lootura-us-the-new-york-times"
     }
   ],
-  "evidenceCount": 12
+  "evidenceCount": 14
 }

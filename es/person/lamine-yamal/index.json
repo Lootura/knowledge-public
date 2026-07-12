@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/lamine-yamal/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/lamine-yamal/index.json",
   "description": "Sigue la actividad de Lamine Yamal en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-12T02:31:58.650Z",
+  "updatedAt": "2026-07-12T06:30:48.397Z",
   "aliases": [],
   "changes": [
     {
@@ -19,10 +19,10 @@
   ],
   "sources": [
     {
-      "title": "‘Sharenting’ institucional: el caso del meme del hermano de Lamine Yamal en el Mundial",
-      "url": "https://theconversation.com/sharenting-institucional-el-caso-del-meme-del-hermano-de-lamine-yamal-en-el-mundial-287125?utm_source=lootura.com",
-      "publishedAt": "2026-07-11T16:20:51.000Z",
-      "sourceId": "lootura-es-the-conversation-espana"
+      "title": "A propósito de Lamine",
+      "url": "https://www.lavanguardia.com/deportes/20260712/11590085/proposito-lamine.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-12T04:00:00.000Z",
+      "sourceId": "lootura-es-la-vanguardia"
     }
   ],
   "evidenceCount": 0

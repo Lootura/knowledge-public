@@ -3,7 +3,7 @@
 > Follow Graham Platner, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-07-12T02:32:33.232Z
+- Updated: 2026-07-12T06:31:22.183Z
 - Canonical: https://atlas.lootura.com/us/person/graham-platner
 
 ## Recent changes
@@ -40,7 +40,6 @@ Date: 2026-07-11
 
 ## Sources
 
-- [Belgium pokes Trump at the World Cup, and Prince Harry takes an L: The news quiz](https://www.nbcnews.com/news/news-quiz/belgium-world-cup-prince-harry-news-quiz-rcna353719?utm_source=lootura.com) — 2026-07-11T09:15:00.000Z
 - [Graham Platner officially withdraws from the Maine Senate race](https://www.nbcnews.com/politics/2026-election/graham-platner-officially-drops-maine-senate-race-rcna385842?utm_source=lootura.com) — 2026-07-11T16:09:55.338Z
 - [Maine Democrats Will Replace Graham Platner. Here’s What to Know.](https://www.nytimes.com/2026/07/11/us/politics/maine-senate-nomination-democrats-convention.html?utm_source=lootura.com) — 2026-07-12T02:19:48.000Z
 - [Platner’s Rise and Fall Revives Old Questions About ‘Bernie Bros’ and Women](https://www.nytimes.com/2026/07/11/us/politics/bernie-sanders-graham-platner-maine.html?utm_source=lootura.com) — 2026-07-11T09:02:08.000Z

@@ -8,17 +8,12 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/pais-vasco/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/pais-vasco/index.json",
   "description": "Sigue la actividad de País Vasco en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-12T02:31:58.650Z",
+  "updatedAt": "2026-07-12T06:30:48.397Z",
   "aliases": [
     "Basque Country",
     "Euskadi"
   ],
   "changes": [
-    {
-      "title": "Los Cosentino, la familia que hizo del mármol de Almería un gigante global",
-      "summary": "Mucho del mármol que revestía las grandes villas y hoteles de la Costa del Sol en los años ochenta llevaba el sello de Cosentino . Pero la ambición de la compañía nunca se limitó a Andalucía. Su expansión comercial la llevó pronto a conquistar los mercados de Levante, Madrid y el País Vasco, impulsada en gran medida po.",
-      "date": "2026-07-12"
-    },
     {
       "title": "Discovered by Atlas",
       "summary": "País Vasco first entered the public knowledge record with source-backed evidence.",
@@ -31,13 +26,7 @@
       "url": "https://www.diariovasco.com/deportes/futbol/seleccion-espanola/pase-semifinales-espana-dispara-audiencias-euskadi-20260711110500-nt_amp.html?utm_source=lootura.com",
       "publishedAt": "2026-07-11T09:05:40.000Z",
       "sourceId": "lootura-es-el-diario-vasco"
-    },
-    {
-      "title": "Los Cosentino, la familia que hizo del mármol de Almería un gigante global",
-      "url": "https://www.larazon.es/gente/famosos/cosentino-familia-que-hizo-marmol-almeria-gigante-global_202607126a52efd2c0b5fb431c4fa108.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-12T01:37:22.000Z",
-      "sourceId": "lootura-es-la-razon"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 0
 }

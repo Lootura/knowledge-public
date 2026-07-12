@@ -8,18 +8,13 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/donald-trump/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/donald-trump/index.json",
   "description": "Follow Donald Trump, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-12T02:32:33.232Z",
+  "updatedAt": "2026-07-12T06:31:22.183Z",
   "aliases": [
     "President Donald Trump",
     "President Trump",
     "Trump"
   ],
   "changes": [
-    {
-      "title": "Dem governor escalates McConnell health demands, cites response to past Trump health concerns",
-      "summary": "Democrat Kentucky Gov. Andy Beshear escalated his pressure campaign against Sen. Mitch McConnell on Saturday, demanding the longtime Republican senator from the Bluegrass State reveal his undisclosed medical condition as questions mount over the 84-year-old's ability to serve. In a post on X, Beshear connected his rece.",
-      "date": "2026-07-12"
-    },
     {
       "title": "Trump Justifies $2 Billion Made as President With Inaccurate Claims",
       "summary": "President Trump has wrongly attributed the $2 billion windfall he gained during his second term to a hot stock market and claimed that he was the only president to donate his salary.",
@@ -38,11 +33,6 @@
     {
       "title": "Trump and Iran's supreme leader trade threats as mediators try to save their crumbling deal",
       "summary": "President Donald Trump overnight made threats on social media of further missile attacks against Iran, after the funeral of Supreme Leader Ayatollah Ali Khamenei saw open calls for the U.S. leader's killing.",
-      "date": "2026-07-11"
-    },
-    {
-      "title": "Trump administration subpoenas New York Times journalists over new Air Force One reporting",
-      "summary": "Outlet said journalists subpoenaed to testify before grand jury after story detailed security concerns with Qatar-gifted plane The Trump administration has issued subpoenas to several New York Times journalists after the newspaper reported on security concerns with the president’s new plane, according to the outlet . T.",
       "date": "2026-07-11"
     },
     {
@@ -80,12 +70,6 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "Dem governor escalates McConnell health demands, cites response to past Trump health concerns",
-      "url": "https://www.foxnews.com/politics/dem-governor-escalates-mcconnell-health-demands-cites-response-past-trump-health-concerns?utm_source=lootura.com",
-      "publishedAt": "2026-07-12T00:44:44.000Z",
-      "sourceId": "lootura-us-fox-news"
-    },
-    {
       "title": "Minnesota is pulling troops early from D.C., as pressure grows on Michigan",
       "url": "https://www.npr.org/2026/07/11/nx-s1-5887666/national-guard-dc-trump-michigan-minnesota?utm_source=lootura.com",
       "publishedAt": "2026-07-11T10:00:00.000Z",
@@ -102,12 +86,6 @@
       "url": "https://www.pbs.org/newshour/world/trump-and-irans-supreme-leader-trade-threats-as-mediators-try-to-save-their-crumbling-deal?utm_source=lootura.com",
       "publishedAt": "2026-07-11T16:01:44.000Z",
       "sourceId": "lootura-us-pbs-newshour"
-    },
-    {
-      "title": "Trump administration subpoenas New York Times journalists over new Air Force One reporting",
-      "url": "https://www.theguardian.com/us-news/2026/jul/11/justice-department-subpoenas-new-york-times-air-force-one?utm_source=lootura.com",
-      "publishedAt": "2026-07-11T14:17:45.000Z",
-      "sourceId": "lootura-us-the-guardian-us"
     },
     {
       "title": "Trump’s Posts on Singing Somali Schoolchildren Stir Anger in Minnesota",
@@ -128,5 +106,5 @@
       "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 10
+  "evidenceCount": 8
 }

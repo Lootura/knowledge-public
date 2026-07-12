@@ -8,18 +8,18 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/iran/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/iran/index.json",
   "description": "Follow Iran, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-12T02:32:33.232Z",
+  "updatedAt": "2026-07-12T06:31:22.183Z",
   "aliases": [],
   "changes": [
     {
       "title": "US and Iran exchange strikes as Tehran again says strait of Hormuz is closed",
-      "summary": "Tehran says vessel using unapproved route in strait was struck, drawing strikes from US forces to ‘degrade Iran’s ability to attack civilian mariners’ Iran’s ⁠Islamic Revolutionary Guard Corps said on Sunday it had closed the strait of Hormuz after a vessel travelled on an unapproved route and was struck, warning that.",
+      "summary": "Tehran says vessel using unapproved route in strait was struck, drawing strikes from US forces to ‘degrade Iran’s ability to attack civilian mariners’ Iran and the US exchanged fresh strikes early on Sunday over what Tehran said was unauthorised use of the strait of Hormuz by a container ship, raising further doubts ab.",
       "date": "2026-07-12"
     },
     {
-      "title": "Trump Says Negotiations With Iran Will Continue as U.S. Ramps Up Strikes",
-      "summary": "U.S. forces hit more than 170 targets, including air defense systems, drone and missile storage sites, and military speedboats.",
-      "date": "2026-07-11"
+      "title": "US attacks Iran over ship being hit in Strait of Hormuz; Tehran lashes out again at Gulf Arab states",
+      "summary": "The United States attacked Iran early Sunday morning over an Iranian attack on a vessel in the Strait of Hormuz. Iran apparently responded with strikes targeting Bahrain, Qatar and the United Arab Emirates. (Image credit: Vahid Salemi).",
+      "date": "2026-07-12"
     },
     {
       "title": "Political scientist Dominic Tierney on why the U.S. gets trapped in conflicts like Iran",
@@ -72,6 +72,12 @@
       "sourceId": "lootura-us-npr-politics"
     },
     {
+      "title": "US attacks Iran over ship being hit in Strait of Hormuz; Tehran lashes out again at Gulf Arab states",
+      "url": "https://www.npr.org/2026/07/11/g-s1-133212/us-iran-vessel-attack-strait-hormuz-gulf?utm_source=lootura.com",
+      "publishedAt": "2026-07-12T01:32:36.000Z",
+      "sourceId": "lootura-us-npr-world"
+    },
+    {
       "title": "Fate of Strait of Hormuz challenges talks as Trump and Iran's supreme leader trade threats",
       "url": "https://www.pbs.org/newshour/world/fate-of-strait-of-hormuz-challenges-talks-as-trump-and-irans-supreme-leader-trade-threats?utm_source=lootura.com",
       "publishedAt": "2026-07-11T16:01:44.000Z",
@@ -86,14 +92,8 @@
     {
       "title": "US and Iran exchange strikes as Tehran again says strait of Hormuz is closed",
       "url": "https://www.theguardian.com/world/2026/jul/12/us-and-iran-exchange-strikes-as-tehran-again-says-strait-of-hormuz-is-closed?utm_source=lootura.com",
-      "publishedAt": "2026-07-12T00:16:20.000Z",
+      "publishedAt": "2026-07-12T05:27:38.000Z",
       "sourceId": "lootura-us-the-guardian-us"
-    },
-    {
-      "title": "Trump Says Negotiations With Iran Will Continue as U.S. Ramps Up Strikes",
-      "url": "https://www.nytimes.com/2026/07/10/us/politics/iran-war-escalation.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-11T03:48:02.000Z",
-      "sourceId": "lootura-us-the-new-york-times"
     }
   ],
   "evidenceCount": 8

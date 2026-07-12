@@ -3,7 +3,7 @@
 > Sigue la actividad de Lamine Yamal en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-12T02:31:58.650Z
+- Actualizado: 2026-07-12T06:30:48.397Z
 - Canonical: https://atlas.lootura.com/es/person/lamine-yamal
 
 ## Cambios recientes
@@ -16,4 +16,4 @@ Date: 2026-07-10
 
 ## Fuentes
 
-- [‘Sharenting’ institucional: el caso del meme del hermano de Lamine Yamal en el Mundial](https://theconversation.com/sharenting-institucional-el-caso-del-meme-del-hermano-de-lamine-yamal-en-el-mundial-287125?utm_source=lootura.com) — 2026-07-11T16:20:51.000Z
+- [A propósito de Lamine](https://www.lavanguardia.com/deportes/20260712/11590085/proposito-lamine.html?utm_source=lootura.com) — 2026-07-12T04:00:00.000Z

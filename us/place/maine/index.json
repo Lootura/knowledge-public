@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/maine/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/maine/index.json",
   "description": "Follow Maine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-12T02:32:33.232Z",
+  "updatedAt": "2026-07-12T06:31:22.183Z",
   "aliases": [],
   "changes": [
     {
@@ -38,12 +38,6 @@
     }
   ],
   "sources": [
-    {
-      "title": "Belgium pokes Trump at the World Cup, and Prince Harry takes an L: The news quiz",
-      "url": "https://www.nbcnews.com/news/news-quiz/belgium-world-cup-prince-harry-news-quiz-rcna353719?utm_source=lootura.com",
-      "publishedAt": "2026-07-11T09:15:00.000Z",
-      "sourceId": "lootura-us-nbc-news"
-    },
     {
       "title": "Graham Platner officially withdraws from the Maine Senate race",
       "url": "https://www.nbcnews.com/politics/2026-election/graham-platner-officially-drops-maine-senate-race-rcna385842?utm_source=lootura.com",

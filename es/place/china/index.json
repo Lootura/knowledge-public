@@ -8,9 +8,27 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/china/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/china/index.json",
   "description": "Sigue la actividad de China en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-10T14:20:28.384Z",
+  "updatedAt": "2026-07-12T06:30:48.397Z",
   "aliases": [],
-  "changes": [],
-  "sources": [],
-  "evidenceCount": 0
+  "changes": [
+    {
+      "title": "¿Hay café para todos? Nestlé busca conquistar a los bebedores de té de China e India en pleno récord de demanda",
+      "summary": "El café se ha convertido en una de las piedras angulares de la nueva hoja de ruta estratégica de Nestlé. El gigante alimentario suizo, que intenta enderezar su rumbo ahora bajo la dirección de Philip Navratil como consejero delegado y de Pablo Isla como presidente , ha identificado cuatro sectores sobre los que quiere.",
+      "date": "2026-07-12"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "China first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-07-09"
+    }
+  ],
+  "sources": [
+    {
+      "title": "¿Hay café para todos? Nestlé busca conquistar a los bebedores de té de China e India en pleno récord de demanda",
+      "url": "https://cincodias.elpais.com/companias/2026-07-12/hay-cafe-para-todos-nestle-busca-conquistar-a-los-bebedores-de-te-de-china-e-india-en-pleno-record-de-demanda.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-12T03:15:00.000Z",
+      "sourceId": "lootura-es-cinco-dias"
+    }
+  ],
+  "evidenceCount": 1
 }

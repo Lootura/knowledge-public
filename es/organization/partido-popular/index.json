@@ -8,40 +8,29 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/partido-popular/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/partido-popular/index.json",
   "description": "Sigue la actividad de Partido Popular en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-12T02:31:58.650Z",
+  "updatedAt": "2026-07-12T06:30:48.397Z",
   "aliases": [
     "PP"
   ],
   "changes": [
     {
+      "title": "El dilema de las derechas que debilita el liderazgo de Feijóo",
+      "summary": "La derecha española se encuentra dividida entre dos hipótesis , la que le gustaría al partido dominante, el PP, que es la apuesta de Merz , y la que cada vez va cobrando más peso en Europa, la de Manfred Weber : una alianza entre los populares y los partidos a su derecha . Merz gobierna junto con los socialdemócratas,.",
+      "date": "2026-07-12"
+    },
+    {
       "title": "Discovered by Atlas",
       "summary": "Partido Popular first entered the public knowledge record with source-backed evidence.",
-      "date": "2026-07-11"
-    },
-    {
-      "title": "Óscar López se enfrentará a Ayuso en las elecciones de la Comunidad de Madrid en 2027",
-      "summary": "El secretario general del PSOE de Madrid y ministro para la Transformación Digital y de la Función Pública, Óscar López , se batirá con la presidenta de la Comunidad, Isabel Díaz Ayuso (PP), en mayo de 2027 tras proclamarse candidato socialista al no haber conseguido su rival en primarias, Silvia López Quivira, reunir.",
-      "date": "2026-07-11"
-    },
-    {
-      "title": "Ignacio Dancausa logra el aval de Nuevas Generaciones del PP para ser su presidente",
-      "summary": "A sus 25 años, Ignacio Dancausa se ha convertido en el nuevo líder de Nuevas Generaciones (NNGG) del PP, puesto al que llega con la confianza del líder del partido, Alberto Núñez Feijóo , después de cuatro años al frente de la organización juvenil en Madrid, donde llegó avalado por la presidenta Isabel Díaz Ayuso. Danc.",
       "date": "2026-07-11"
     }
   ],
   "sources": [
     {
-      "title": "Ignacio Dancausa logra el aval de Nuevas Generaciones del PP para ser su presidente",
-      "url": "https://theobjective.com/espana/politica/2026-07-11/ignacio-dancausa-presidente-nuevas-generaciones-pp/?utm_source=lootura.com",
-      "publishedAt": "2026-07-11T18:30:36.000Z",
-      "sourceId": "lootura-es-the-objective"
-    },
-    {
-      "title": "Óscar López se enfrentará a Ayuso en las elecciones de la Comunidad de Madrid en 2027",
-      "url": "https://theobjective.com/espana/politica/2026-07-11/oscar-lopez-ayuso-elecciones-madrid-2027/?utm_source=lootura.com",
-      "publishedAt": "2026-07-11T15:18:38.000Z",
-      "sourceId": "lootura-es-the-objective"
+      "title": "El dilema de las derechas que debilita el liderazgo de Feijóo",
+      "url": "https://www.elconfidencial.com/espana/2026-07-12/feijoo-abascal-merz-weber-dilema-derechas_4387963/?utm_source=lootura.com",
+      "publishedAt": "2026-07-12T03:00:00.000Z",
+      "sourceId": "lootura-es-el-confidencial"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

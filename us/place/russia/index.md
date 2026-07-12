@@ -3,16 +3,16 @@
 > Follow Russia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-12T02:32:33.232Z
+- Updated: 2026-07-12T06:31:22.183Z
 - Canonical: https://atlas.lootura.com/us/place/russia
 
 ## Recent changes
 
-### 10 injured in overnight Russian strikes on Kyiv
+### How Putin Turned Japan Into a Den of Spies
 
-Ukrainian military said its air defenses shot down or suppressed two missiles and 111 drones, while Russia claims its forces targeted drone production facilities in Kyiv.
+Operating out of a Tokyo high-rise, a military intelligence unit finds the high-tech equipment that Russia needs to wage war.
 
-Date: 2026-07-11
+Date: 2026-07-12
 
 ### Discovered by Atlas
 
@@ -22,4 +22,4 @@ Date: 2026-07-09
 
 ## Sources
 
-- [10 injured in overnight Russian strikes on Kyiv](https://www.cbsnews.com/news/russia-ukraine-drone-missile-strike-kyiv/?utm_source=lootura.com) — 2026-07-11T11:51:38.000Z
+- [How Putin Turned Japan Into a Den of Spies](https://www.nytimes.com/2026/07/12/world/asia/russia-spies-japan-war-drones-electronics.html?utm_source=lootura.com) — 2026-07-12T04:01:11.000Z

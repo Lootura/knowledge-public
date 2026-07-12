@@ -3,20 +3,14 @@
 > Follow Canada, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-12T02:32:33.232Z
+- Updated: 2026-07-12T06:31:22.183Z
 - Canonical: https://atlas.lootura.com/us/place/canada
 
 ## Recent changes
 
-### At least 2 killed in mass shooting at Toronto street festival, police say
+### At least 2 killed in shooting at Toronto street festival, police say
 
 At least two people were killed and several more wounded in a shooting Saturday evening at a street festival in Toronto, Canada, authorities said.
-
-Date: 2026-07-12
-
-### Toronto shooting: two dead and four injured near street festival, with suspect still at large
-
-Police in the city in Canada say suspect has not been apprehended after finding six people with gunshot wounds near Salsa on St Clair Festival A shooting near a Toronto street festival killed two people and wounded four others on Saturday, prompting police to warn of an active shooter before later saying the scene was.
 
 Date: 2026-07-12
 
@@ -34,6 +28,6 @@ Date: 2026-07-11
 
 ## Sources
 
-- [At least 2 killed in mass shooting at Toronto street festival, police say](https://www.cbsnews.com/news/deadly-shooting-toronto-street-festival/?utm_source=lootura.com) — 2026-07-12T01:38:00.000Z
+- [The 2026 FIFA World Cup schedule and how to watch](https://www.cbsnews.com/news/world-cup-2026-schedule-how-to-watch/?utm_source=lootura.com) — 2026-07-12T03:48:04.000Z
+- [At least 2 killed in shooting at Toronto street festival, police say](https://www.cbsnews.com/news/deadly-shooting-toronto-street-festival/?utm_source=lootura.com) — 2026-07-12T03:33:20.000Z
 - [Poll: Patriotism in the US, Europe and Canada, charted](https://www.politico.com/news/2026/07/11/poll-politics-patriotism-us-europe-canada-00993636?utm_source=lootura.com) — 2026-07-11T20:00:00.000Z
-- [Toronto shooting: two dead and four injured near street festival, with suspect still at large](https://www.theguardian.com/world/2026/jul/12/toronto-shooting-two-dead-and-three-injured-as-police-search-for-active-shooter?utm_source=lootura.com) — 2026-07-12T01:30:57.000Z

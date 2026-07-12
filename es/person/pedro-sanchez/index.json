@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/pedro-sanchez/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/pedro-sanchez/index.json",
   "description": "Sigue la actividad de Pedro Sánchez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-12T02:31:58.650Z",
+  "updatedAt": "2026-07-12T06:30:48.397Z",
   "aliases": [
     "Sánchez"
   ],
@@ -19,22 +19,50 @@
       "date": "2026-07-12"
     },
     {
+      "title": "El juez quiere saber si Zapatero comió con Sánchez antes del rescate de Plus Ultra",
+      "summary": "«¿Usted entre julio y septiembre de 2020 tuvo alguna comida con el presidente del Gobierno , con el ministro Escrivá, con algún alto cargo del Ministerio de Hacienda, en relación con este tema, o sin que fuera por este tema?». Es una de las muchas preguntas, reiterativas, que el juez de la Audiencia Nacional José Luis.",
+      "date": "2026-07-12"
+    },
+    {
+      "title": "Las tres ventanas de Sánchez para convocar las elecciones: la apresurada, la probable y la letal",
+      "summary": "El presidente no quiere cerrar ninguna de momento. Los suyos siguen confiando en un milagro, en un giro de guion, en un triple salto mortal… la fe ...",
+      "date": "2026-07-12"
+    },
+    {
+      "title": "Catalunya ante el espejo: del “España nos roba” a la amenaza del “califato”",
+      "summary": "La justicia europea se pronunciará la próxima semana sobre la amnistía que el Gobierno de Pedro Sánchez aprobó para los líderes del procés. Si la avala, estará a punto de concluir la mayor crisis constitucional de España en esta etapa democrática. Mientras, la sociedad catalana ha virado en sus preocupaciones desde aqu.",
+      "date": "2026-07-12"
+    },
+    {
+      "title": "Sánchez decidirá tras el paréntesis de agosto el calendario del final de mandato",
+      "summary": "“En agosto, con el fresquito, reflexionaremos sobre el calendario”, alegan con ironía en la Moncloa sobre las fechas clave que baraja Pedro Sánchez para la recta final de la legislatura, en la que lo único que no puede prever de antemano son las minas judiciales que aún pueden estallar ante el alud de causas por presun.",
+      "date": "2026-07-12"
+    },
+    {
       "title": "Discovered by Atlas",
       "summary": "Pedro Sánchez first entered the public knowledge record with source-backed evidence.",
-      "date": "2026-07-11"
-    },
-    {
-      "title": "Pedro Sánchez visitará este lunes la zona del incendio de Los Gallardos",
-      "summary": "El presidente del Gobierno, Pedro Sánchez, acudirá este lunes 13 de julio a Almería para visitar la zona del incendio en Los Gallardos que ha dejado hasta.",
-      "date": "2026-07-11"
-    },
-    {
-      "title": "Sánchez no tiene vida privada",
-      "summary": "Siempre se ha discutido en la España que todo lo discute sobre la presunta vida privada de los cargos públicos . Un debate tan viejo como el de la obligatoriedad o no de obedecer leyes injustas. ¿Qué prima en conflictos morales, jurídicos o semánticos así? ¿El ejercicio de la responsabilidad pública, con la consiguient.",
       "date": "2026-07-11"
     }
   ],
   "sources": [
+    {
+      "title": "Por qué el Gobierno alimenta la idea del 'lawfare' en la justicia: más de la mitad de votantes socialistas 'compran' la teoría",
+      "url": "https://www.20minutos.es/nacional/por-que-gobierno-alimenta-idea-lawfare-justicia-mas-mitad-los-votantes-socialistas-compran-teoria_7013237_0.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-12T06:04:18.000Z",
+      "sourceId": "lootura-es-20minutos"
+    },
+    {
+      "title": "El juez quiere saber si Zapatero comió con Sánchez antes del rescate de Plus Ultra",
+      "url": "https://www.abc.es/espana/juez-sospecha-zapatero-comio-sanchez-tratar-rescate-20260709014050-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-12T06:07:16.000Z",
+      "sourceId": "lootura-es-abc"
+    },
+    {
+      "title": "Las tres ventanas de Sánchez para convocar las elecciones: la apresurada, la probable y la letal",
+      "url": "https://www.eldebate.com/espana/20260712/tres-ventanas-sanchez-convocar-elecciones-apresurada-probable-letal_438218.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-12T02:30:00.000Z",
+      "sourceId": "lootura-es-el-debate"
+    },
     {
       "title": "El gasto militar de Sánchez sólo concita el aplauso de Trump: izquierda y derecha exigen explicaciones y acusan al Gobierno de opacidad",
       "url": "https://www.elmundo.es/espana/2026/07/12/6a526b8421efa069048b45ad.html?utm_source=lootura.com",
@@ -42,17 +70,17 @@
       "sourceId": "lootura-es-el-mundo"
     },
     {
-      "title": "Sánchez no tiene vida privada",
-      "url": "https://okdiario.com/opinion/sanchez-no-tiene-vida-privada-18977529?utm_source=lootura.com",
-      "publishedAt": "2026-07-11T19:46:41.000Z",
-      "sourceId": "lootura-es-ok-diario"
+      "title": "Catalunya ante el espejo: del “España nos roba” a la amenaza del “califato”",
+      "url": "https://www.lavanguardia.com/politica/20260712/11589927/catalunya-espejo-espana-roba-amenaza-califato.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-12T04:00:00.000Z",
+      "sourceId": "lootura-es-la-vanguardia"
     },
     {
-      "title": "Pedro Sánchez visitará este lunes la zona del incendio de Los Gallardos",
-      "url": "https://theobjective.com/espana/2026-07-11/sanchez-visitara-lunes-zona-incendio-almeria/?amp=&utm_source=lootura.com",
-      "publishedAt": "2026-07-11T16:07:33.000Z",
-      "sourceId": "lootura-es-the-objective"
+      "title": "Sánchez decidirá tras el paréntesis de agosto el calendario del final de mandato",
+      "url": "https://www.lavanguardia.com/politica/20260712/11589988/sanchez-decidira-calendario-final-mandato-parentesis-agosto.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-12T04:00:00.000Z",
+      "sourceId": "lootura-es-la-vanguardia"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 5
 }

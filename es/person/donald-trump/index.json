@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/donald-trump/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/donald-trump/index.json",
   "description": "Sigue la actividad de Donald Trump en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-12T02:31:58.650Z",
+  "updatedAt": "2026-07-12T06:30:48.397Z",
   "aliases": [
     "President Donald Trump",
     "President Trump",
@@ -21,13 +21,23 @@
       "date": "2026-07-12"
     },
     {
-      "title": "Discovered by Atlas",
-      "summary": "Donald Trump first entered the public knowledge record with source-backed evidence.",
-      "date": "2026-07-11"
+      "title": "“Trump se ha obsesionado con la idea de que Estados Unidos reclame nuevos territorios”: Daniel Immerwahr",
+      "summary": "El autor de ‘Cómo ocultar un imperio’ sostiene en su libro que el presidente estadounidense es ante todo un obseso de la fuerza bruta, un matón. Pero uno que también profundiza las lógicas de dominación que históricamente han marcado la estrategia internacional de la Casa Blanca.",
+      "date": "2026-07-12"
     },
     {
-      "title": "Trump, otra vez contra los medios: periodistas de The New York Times reciben citaciones judiciales tras una información sobre el nuevo Air Force One",
-      "summary": "La información aseguraba que el aparato, regalado por Qatar, carecía de algunas funciones avanzadas de seguridad, incluidas capacidades antimisiles Leer.",
+      "title": "Trump vuelve a bombardear Irán y la crisis en Ormuz entra en una fase crítica",
+      "summary": "Continúa la escalada de tensión en Oriente Próximo. Estados Unidos e Irán redoblan su pulso tras el colapso del preacuerdo de paz. En esta ocasión, la Administración Trump movía ficha en primer término, ordenando una nueva ronda de bombardeos contra objetivos iraníes después de que la Guardia Revolucionaria – según den.",
+      "date": "2026-07-12"
+    },
+    {
+      "title": "EEUU bombardea de nuevo Irán tras anunciar Teherán el cierre del estrecho Ormuz y atacar un barco en el paso marítimo",
+      "summary": "Irán dice que el paso de Ormuz está cerrado de nuevo después de que un buque que seguía una \"ruta no autorizada\" fuera alcanzado y el Ejército de EEUU anuncia que \"está imponiendo un alto coste\" a Irán Trump desata el caos con nuevos ataques sobre Irán, insultos a sus aliados de la OTAN, crisis internas y más muertes d.",
+      "date": "2026-07-12"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Donald Trump first entered the public knowledge record with source-backed evidence.",
       "date": "2026-07-11"
     }
   ],
@@ -39,11 +49,23 @@
       "sourceId": "lootura-es-el-mundo"
     },
     {
-      "title": "Trump, otra vez contra los medios: periodistas de The New York Times reciben citaciones judiciales tras una información sobre el nuevo Air Force One",
-      "url": "https://www.elmundo.es/internacional/2026/07/11/6a5256ee21efa0d24f8b4573.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-11T14:53:01.000Z",
-      "sourceId": "lootura-es-el-mundo"
+      "title": "“Trump se ha obsesionado con la idea de que Estados Unidos reclame nuevos territorios”: Daniel Immerwahr",
+      "url": "https://elordenmundial.com/entrevista-daniel-immerwahr-estados-unidos-imperio-trump/?utm_source=lootura.com",
+      "publishedAt": "2026-07-12T05:00:00.000Z",
+      "sourceId": "lootura-es-el-orden-mundial"
+    },
+    {
+      "title": "Trump vuelve a bombardear Irán y la crisis en Ormuz entra en una fase crítica",
+      "url": "https://www.elplural.com/politica/internacional/trump-vuelve-bombardear-iran-crisis-ormuz-entra-fase-critica_395396102?utm_source=lootura.com",
+      "publishedAt": "2026-07-12T06:26:52.000Z",
+      "sourceId": "lootura-es-el-plural"
+    },
+    {
+      "title": "EEUU bombardea de nuevo Irán tras anunciar Teherán el cierre del estrecho Ormuz y atacar un barco en el paso marítimo",
+      "url": "https://www.eldiario.es/internacional/eeuu-bombardea-nuevo-iran-declarar-teheran-cierre-estrecho-ormuz-atacar-barco-estrecho_1_13374134.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-12T00:28:31.000Z",
+      "sourceId": "lootura-es-eldiario-es"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 4
 }

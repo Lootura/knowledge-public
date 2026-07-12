@@ -8,18 +8,8 @@
 
 ## Cambios recientes
 
-### Discovered by Atlas
-
-Portugal first entered the public knowledge record with source-backed evidence.
-
-Date: 2026-07-11
-
-### La "bola de fuego" que calcinó a decenas de personas en la 'carretera de la muerte' en un incendio en Portugal en 2017
-
-Un total de 64 personas perdieron la vida en un episodio trágico con algunos paralelismos con el drama actual en Almería Leer.
-
-Date: 2026-07-11
+No recent public changes.
 
 ## Fuentes
 
-- [La "bola de fuego" que calcinó a decenas de personas en la 'carretera de la muerte' en un incendio en Portugal en 2017](https://www.elmundo.es/internacional/2026/07/11/6a52567a21efa08c568b4599.html?utm_source=lootura.com) — 2026-07-11T14:49:56.000Z
+No public source links.

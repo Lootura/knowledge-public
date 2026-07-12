@@ -8,14 +8,14 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/ukraine/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/ukraine/index.json",
   "description": "Follow Ukraine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-12T02:32:33.232Z",
+  "updatedAt": "2026-07-12T06:31:22.183Z",
   "aliases": [
     "Kyiv"
   ],
   "changes": [
     {
-      "title": "10 injured in overnight Russian strikes on Kyiv",
-      "summary": "Ukrainian military said its air defenses shot down or suppressed two missiles and 111 drones, while Russia claims its forces targeted drone production facilities in Kyiv.",
+      "title": "Inside the Secret Factory That Supplies Ukraine’s War Drones",
+      "summary": "With its mass-produced and inexpensive A.I. powered war machines, the German start-up Helsing SE illustrates a profound shift in military spending.",
       "date": "2026-07-11"
     },
     {
@@ -26,10 +26,10 @@
   ],
   "sources": [
     {
-      "title": "10 injured in overnight Russian strikes on Kyiv",
-      "url": "https://www.cbsnews.com/news/russia-ukraine-drone-missile-strike-kyiv/?utm_source=lootura.com",
-      "publishedAt": "2026-07-11T11:51:38.000Z",
-      "sourceId": "lootura-us-cbs-news"
+      "title": "Inside the Secret Factory That Supplies Ukraine’s War Drones",
+      "url": "https://www.nytimes.com/2026/07/11/business/dealbook/drone-factory-helsing.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-11T12:00:09.000Z",
+      "sourceId": "lootura-us-the-new-york-times"
     }
   ],
   "evidenceCount": 1
