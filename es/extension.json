@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-12T17:00:47.646Z",
+  "generatedAt": "2026-07-12T17:52:41.394Z",
   "radar": {
     "id": "es",
     "slug": "es",
@@ -21,7 +21,7 @@
       "url": "https://atlas.lootura.com/es/place/espana",
       "path": "/es/place/espana",
       "updatedAt": "2026-07-12T16:56:25.039Z",
-      "score": 1558,
+      "score": 1554,
       "sourceCount": 5,
       "isBreaking": false,
       "isPinned": false
@@ -35,7 +35,7 @@
         "url": "https://atlas.lootura.com/es/person/donald-trump",
         "path": "/es/person/donald-trump",
         "updatedAt": "2026-07-12T16:56:25.039Z",
-        "score": 1521,
+        "score": 1517,
         "sourceCount": 2,
         "isBreaking": false,
         "isPinned": false
@@ -48,7 +48,7 @@
         "url": "https://atlas.lootura.com/es/person/pedro-sanchez",
         "path": "/es/person/pedro-sanchez",
         "updatedAt": "2026-07-12T16:56:25.039Z",
-        "score": 1504,
+        "score": 1500,
         "sourceCount": 4,
         "isBreaking": false,
         "isPinned": false
@@ -61,7 +61,7 @@
         "url": "https://atlas.lootura.com/es/person/alberto-nunez-feijoo",
         "path": "/es/person/alberto-nunez-feijoo",
         "updatedAt": "2026-07-12T16:56:25.039Z",
-        "score": 1469,
+        "score": 1465,
         "sourceCount": 2,
         "isBreaking": false,
         "isPinned": false
