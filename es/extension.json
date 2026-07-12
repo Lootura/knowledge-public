@@ -1,32 +1,45 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-12T11:36:13.727Z",
+  "generatedAt": "2026-07-12T13:19:18.096Z",
   "radar": {
     "id": "es",
     "slug": "es",
     "locale": "es"
   },
   "state": {
-    "signature": "1.14.3|35|1783837848397",
+    "signature": "1.14.3|36|1783862080089",
     "version": "1.14.3",
-    "build": 35,
-    "latestEntityUpdatedAt": "2026-07-12T06:30:48.397Z"
+    "build": 36,
+    "latestEntityUpdatedAt": "2026-07-12T13:14:40.089Z"
   },
   "atlas": {
     "hero": {
-      "id": "es-iran",
-      "name": "Iran",
+      "id": "es-espana",
+      "name": "España",
       "type": "place",
-      "title": "EE.UU. ataca objetivos iraníes tras el cierre del estrecho de Ormuz «hasta nuevo aviso»",
-      "url": "https://atlas.lootura.com/es/place/iran",
-      "path": "/es/place/iran",
-      "updatedAt": "2026-07-12T06:30:48.397Z",
-      "score": 1512,
-      "sourceCount": 3,
+      "title": "La Aemet alerta del grave peligro de incendios en media España: estas son todas las zonas en alerta",
+      "url": "https://atlas.lootura.com/es/place/espana",
+      "path": "/es/place/espana",
+      "updatedAt": "2026-07-12T13:14:40.089Z",
+      "score": 1559,
+      "sourceCount": 6,
       "isBreaking": false,
       "isPinned": false
     },
     "cards": [
+      {
+        "id": "es-united-states",
+        "name": "Estados Unidos",
+        "type": "place",
+        "title": "Contreras hace el agosto y Estados Unidos le hace la cobra a Indra",
+        "url": "https://atlas.lootura.com/es/place/united-states",
+        "path": "/es/place/united-states",
+        "updatedAt": "2026-07-12T13:14:40.089Z",
+        "score": 1525,
+        "sourceCount": 3,
+        "isBreaking": false,
+        "isPinned": false
+      },
       {
         "id": "es-donald-trump",
         "name": "Donald Trump",
@@ -34,35 +47,9 @@
         "title": "“Trump se ha obsesionado con la idea de que Estados Unidos reclame nuevos territorios”: Daniel Immerwahr",
         "url": "https://atlas.lootura.com/es/person/donald-trump",
         "path": "/es/person/donald-trump",
-        "updatedAt": "2026-07-12T06:30:48.397Z",
-        "score": 1504,
+        "updatedAt": "2026-07-12T13:14:40.089Z",
+        "score": 1513,
         "sourceCount": 4,
-        "isBreaking": false,
-        "isPinned": false
-      },
-      {
-        "id": "es-united-states",
-        "name": "Estados Unidos",
-        "type": "place",
-        "title": "“Trump se ha obsesionado con la idea de que Estados Unidos reclame nuevos territorios”: Daniel Immerwahr",
-        "url": "https://atlas.lootura.com/es/place/united-states",
-        "path": "/es/place/united-states",
-        "updatedAt": "2026-07-12T06:30:48.397Z",
-        "score": 1500,
-        "sourceCount": 3,
-        "isBreaking": false,
-        "isPinned": false
-      },
-      {
-        "id": "es-espana",
-        "name": "España",
-        "type": "place",
-        "title": "Catalunya ante el espejo: del “España nos roba” a la amenaza del “califato”",
-        "url": "https://atlas.lootura.com/es/place/espana",
-        "path": "/es/place/espana",
-        "updatedAt": "2026-07-12T06:30:48.397Z",
-        "score": 1493,
-        "sourceCount": 6,
         "isBreaking": false,
         "isPinned": false
       },
@@ -70,12 +57,25 @@
         "id": "es-madrid",
         "name": "Madrid",
         "type": "place",
-        "title": "El tiempo para hoy en Madrid: bajan las máximas y posibles chubascos",
+        "title": "Muere ahogado un joven en el Pantano de San Juan (Madrid)",
         "url": "https://atlas.lootura.com/es/place/madrid",
         "path": "/es/place/madrid",
-        "updatedAt": "2026-07-12T06:30:48.397Z",
-        "score": 1482,
-        "sourceCount": 9,
+        "updatedAt": "2026-07-12T13:14:40.089Z",
+        "score": 1504,
+        "sourceCount": 4,
+        "isBreaking": false,
+        "isPinned": false
+      },
+      {
+        "id": "es-pedro-sanchez",
+        "name": "Pedro Sánchez",
+        "type": "person",
+        "title": "El gasto militar de Sánchez sólo concita el aplauso de Trump: izquierda y derecha exigen explicaciones y acusan al Gobierno de opacidad",
+        "url": "https://atlas.lootura.com/es/person/pedro-sanchez",
+        "path": "/es/person/pedro-sanchez",
+        "updatedAt": "2026-07-12T13:14:40.089Z",
+        "score": 1494,
+        "sourceCount": 3,
         "isBreaking": false,
         "isPinned": false
       }

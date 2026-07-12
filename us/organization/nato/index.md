@@ -8,12 +8,8 @@
 
 ## Recent changes
 
-### Discovered by Atlas
-
-NATO first entered the public knowledge record with source-backed evidence.
-
-Date: 2026-07-08
+No recent public changes.
 
 ## Sources
 
-- [Week in Politics: Trump's housing bill protest fails; Trump and NATO; Maine's Democrats](https://www.npr.org/2026/07/11/nx-s1-5888579/week-in-politics-trumps-housing-bill-protest-fails-trump-and-nato-maines-democrats?utm_source=lootura.com) — 2026-07-11T11:43:45.000Z
+No public source links.

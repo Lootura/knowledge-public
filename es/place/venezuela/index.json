@@ -10,36 +10,7 @@
   "description": "Sigue la actividad de Venezuela en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
   "updatedAt": "2026-07-12T06:30:48.397Z",
   "aliases": [],
-  "changes": [
-    {
-      "title": "Contratos para la reconstrucción, ajustes de cuentas y advertencias a María Corina Machado: la 'guerra civil' por el \"botín\" de Venezuela",
-      "summary": "La líder democrática se convierte en un 'estorbo' para el régimen chavista y sus anhelos de negocios millonarios Leer.",
-      "date": "2026-07-11"
-    },
-    {
-      "title": "Los muertos por el doble terremoto de Venezuela ya son más de 4.300",
-      "summary": "Las autoridades venezolanas han elevado a más de 4.300 las víctimas mortales derivadas de los devastadores terremotos registrados en el centro de la costa del país el pasado 24 de junio, mientras que la cifra de heridos se mantiene, al igual que en los últimos partes oficiales, en 16.740 personas. El presidente de la A.",
-      "date": "2026-07-11"
-    },
-    {
-      "title": "Discovered by Atlas",
-      "summary": "Venezuela first entered the public knowledge record with source-backed evidence.",
-      "date": "2026-07-11"
-    }
-  ],
-  "sources": [
-    {
-      "title": "Contratos para la reconstrucción, ajustes de cuentas y advertencias a María Corina Machado: la 'guerra civil' por el \"botín\" de Venezuela",
-      "url": "https://www.elmundo.es/internacional/2026/07/11/6a527d9c21efa0dc658b45a1.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-11T20:49:37.000Z",
-      "sourceId": "lootura-es-el-mundo"
-    },
-    {
-      "title": "Los muertos por el doble terremoto de Venezuela ya son más de 4.300",
-      "url": "https://theobjective.com/internacional/2026-07-11/muertos-doble-terremoto-venezuela-4300/?utm_source=lootura.com",
-      "publishedAt": "2026-07-11T21:52:52.000Z",
-      "sourceId": "lootura-es-the-objective"
-    }
-  ],
-  "evidenceCount": 3
+  "changes": [],
+  "sources": [],
+  "evidenceCount": 0
 }

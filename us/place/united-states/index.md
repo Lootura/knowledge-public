@@ -3,7 +3,7 @@
 > Follow United States, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-12T06:31:22.183Z
+- Updated: 2026-07-12T13:15:03.815Z
 - Canonical: https://atlas.lootura.com/us/place/united-states
 
 ## Recent changes
@@ -20,63 +20,63 @@ Fire departments across the U.S. are changing how they extinguish fires. For dec
 
 Date: 2026-07-12
 
-### US attacks Iran over ship being hit in Strait of Hormuz; Tehran lashes out again at Gulf Arab states
-
-The United States attacked Iran early Sunday morning over an Iranian attack on a vessel in the Strait of Hormuz. Iran apparently responded with strikes targeting Bahrain, Qatar and the United Arab Emirates. (Image credit: Vahid Salemi).
-
-Date: 2026-07-12
-
 ### The World Is Cutting Ties With America. It’s Already Costing Us.
 
 When other countries cut ties, Americans pay.
 
 Date: 2026-07-12
 
-### Political scientist Dominic Tierney on why the U.S. gets trapped in conflicts like Iran
+### U.S. and world leaders pay tribute to Lindsey Graham following sudden death
 
-NPR's Scott Simon speaks with Swarthmore College political science professor Dominic Tierney about the U.S.-Iran war and other conflicts that have left the U.S. in drawn-out entanglements.
+The senior U.S. senator for South Carolina died suddenly at 71 on Saturday.
 
-Date: 2026-07-11
+Date: 2026-07-12
 
-### An American Politician Is Blocked by Israeli Settlers in the West Bank
+### Majority of U.S. workers support an AI wealth fund as tech layoffs surge, survey finds
 
-Representative Ro Khanna was barred from leaving for 90 minutes. Where past U.S. leaders toured the region to show support for Israel, today’s Democratic presidential aspirants are going to bolster their credentials as critics.
+A majority of U.S. employees now want an AI sovereign wealth fund to hold corporations more accountable, according to a recent survey, as tech layoffs rise.
 
-Date: 2026-07-11
+Date: 2026-07-12
 
-### U.S. Citizen Tests Positive for Ebola in Democratic Republic of Congo
+### 'America and the world have lost a determined leader': Tributes pour in after Sen Lindsey Graham's death
 
-The American, who works for the humanitarian organization Samaritan’s Purse, is the second to be infected in an outbreak that continues to spread.
+Tributes poured in Sunday from President Donald Trump , congressional leaders and foreign allies after Sen. Lindsey Graham, R-S.C., died at 71 following what his office described as a "brief and sudden illness," bringing to an end the career of one of the Senate's most influential Republican voices. The South Carolina.
 
-Date: 2026-07-11
+Date: 2026-07-12
 
-### Trump warns Iran "missiles are locked and loaded" if they attempt assassination
+### A Bible passage is at the center of a debate over how the U.S. should treat immigrants
 
-President Trump threatened to "decimate and destroy" Iran if they try to assassinate him. This comes as the U.S. and Tehran continue negotiations. Here's what to know about where things stand.
+A debate over the Bible verse Matthew 25 is pitting mainline pastors, Black protestants and the pope against evangelical politicians put on the defensive over President Trump's policies.
 
-Date: 2026-07-11
+Date: 2026-07-12
 
-### The biggest steam locomotive is whistle-stopping across the U.S.
+### What a Monopoly importer learned when it tried to make things in the U.S.A.
 
-Huge crowds of train fans turn out as the 1940s era Big Boy steam locomotive is making a rare trip cross country. (Image credit: Michelle Gustafson for NPR).
+After getting hit with tariffs for the imported board games he sells, Jonathan Silva decided to see if he could produce a version of his Monopoly game in the United States. This is what he learned. (Image credit: WS Game Company).
 
-Date: 2026-07-11
+Date: 2026-07-12
 
-### U.S. citizen working for humanitarian organization in Congo tests positive for Ebola
+### Politics chat: Lindsey Graham dies at 71, Congress back in session, U.S. strikes Iran
 
-The CDC said it was working with the person's employer, U.S. agencies, the public health authorities and Congolese partners to prevent further transmission and identify close contacts.
+South Carolina Senator Lindsey Graham's sudden death at 71 has shocked Washington. Once a fierce critic of then-candidate Donald Trump, he became one of the president's most consistent defenders.
 
-Date: 2026-07-11
+Date: 2026-07-12
+
+### Younger Voters Are Propelling the Democratic Socialist Surge in New York
+
+Age seemed to be the predominant factor in the Democratic Socialists of America’s primary wins in House races in New York City.
+
+Date: 2026-07-12
 
 ## Sources
 
 - [Exhibit looks at how the Declaration of Independence evolved](https://www.cbsnews.com/video/exhibit-looks-how-declaration-independence-evolved/?utm_source=lootura.com) — 2026-07-12T01:10:53.000Z
+- [U.S. and world leaders pay tribute to Lindsey Graham following sudden death](https://www.cbsnews.com/news/lindsey-graham-us-world-leaders-pay-tribute-following-sudden-death-trump-netanyahu/?utm_source=lootura.com) — 2026-07-12T12:24:17.000Z
 - [Fire departments work to get rid of cancer-linked foam extinguisher: "It was like sitting on a bomb"](https://www.cbsnews.com/video/fire-departments-rid-cancer-linked-foam-extinguisher/?utm_source=lootura.com) — 2026-07-12T01:02:49.000Z
-- [Trump warns Iran "missiles are locked and loaded" if they attempt assassination](https://www.cbsnews.com/video/trump-warns-iran-missiles-are-locked-and-loaded-if-they-attempt-assassination/?utm_source=lootura.com) — 2026-07-11T16:18:00.000Z
+- [Majority of U.S. workers support an AI wealth fund as tech layoffs surge, survey finds](https://www.cnbc.com/2026/07/12/majority-of-us-workers-support-ai-fund-amid-tech-layoffs-survey.html?utm_source=lootura.com) — 2026-07-12T12:27:55.000Z
+- ['America and the world have lost a determined leader': Tributes pour in after Sen Lindsey Graham's death](https://www.foxnews.com/politics/america-world-lost-determined-leader-tributes-pour-sen-lindsey-graham-death?utm_source=lootura.com) — 2026-07-12T12:54:53.000Z
 - [The biggest steam locomotive is whistle-stopping across the U.S.](https://www.npr.org/2026/07/11/nx-s1-5872656/big-boy-locomotive-steam?utm_source=lootura.com) — 2026-07-11T15:14:42.000Z
-- [Political scientist Dominic Tierney on why the U.S. gets trapped in conflicts like Iran](https://www.npr.org/2026/07/11/nx-s1-5886190/political-scientist-dominic-tierney-on-why-the-u-s-gets-trapped-in-conflicts-like-iran?utm_source=lootura.com) — 2026-07-11T11:43:42.000Z
-- [US attacks Iran over ship being hit in Strait of Hormuz; Tehran lashes out again at Gulf Arab states](https://www.npr.org/2026/07/11/g-s1-133212/us-iran-vessel-attack-strait-hormuz-gulf?utm_source=lootura.com) — 2026-07-12T01:32:36.000Z
-- [Fate of Strait of Hormuz challenges talks as Trump and Iran's supreme leader trade threats](https://www.pbs.org/newshour/world/fate-of-strait-of-hormuz-challenges-talks-as-trump-and-irans-supreme-leader-trade-threats?utm_source=lootura.com) — 2026-07-11T16:01:44.000Z
-- [U.S. citizen working for humanitarian organization in Congo tests positive for Ebola](https://www.pbs.org/newshour/world/u-s-citizen-working-for-humanitarian-organization-in-congo-tests-positive-for-ebola?utm_source=lootura.com) — 2026-07-11T15:36:11.000Z
-- [Trump and Iran's supreme leader trade threats as mediators try to save their crumbling deal](https://www.pbs.org/newshour/world/trump-and-irans-supreme-leader-trade-threats-as-mediators-try-to-save-their-crumbling-deal?utm_source=lootura.com) — 2026-07-11T16:01:44.000Z
+- [A Bible passage is at the center of a debate over how the U.S. should treat immigrants](https://www.npr.org/2026/07/12/nx-s1-5885947/a-bibe-passage-is-at-the-center-of-a-debate-over-how-the-u-s-should-treat-immigrants?utm_source=lootura.com) — 2026-07-12T11:57:10.000Z
+- [What a Monopoly importer learned when it tried to make things in the U.S.A.](https://www.npr.org/2026/07/12/nx-s1-5887378/monopoly-tariffs-china-manufacturing-made-inusa?utm_source=lootura.com) — 2026-07-12T09:00:00.000Z
+- [Politics chat: Lindsey Graham dies at 71, Congress back in session, U.S. strikes Iran](https://www.npr.org/2026/07/12/nx-s1-5887274/politics-chat-lindsey-graham-dies-at-71-congress-back-in-session-u-s-strikes-iran?utm_source=lootura.com) — 2026-07-12T11:57:11.000Z
 - [Poll: Patriotism in the US, Europe and Canada, charted](https://www.politico.com/news/2026/07/11/poll-politics-patriotism-us-europe-canada-00993636?utm_source=lootura.com) — 2026-07-11T20:00:00.000Z

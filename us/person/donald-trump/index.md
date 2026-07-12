@@ -3,50 +3,56 @@
 > Follow Donald Trump, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-07-12T06:31:22.183Z
+- Updated: 2026-07-12T13:15:03.815Z
 - Canonical: https://atlas.lootura.com/us/person/donald-trump
 
 ## Recent changes
 
-### Trump Justifies $2 Billion Made as President With Inaccurate Claims
+### 'America and the world have lost a determined leader': Tributes pour in after Sen Lindsey Graham's death
 
-President Trump has wrongly attributed the $2 billion windfall he gained during his second term to a hot stock market and claimed that he was the only president to donate his salary.
+Tributes poured in Sunday from President Donald Trump , congressional leaders and foreign allies after Sen. Lindsey Graham, R-S.C., died at 71 following what his office described as a "brief and sudden illness," bringing to an end the career of one of the Senate's most influential Republican voices. The South Carolina.
 
-Date: 2026-07-11
+Date: 2026-07-12
 
-### Minnesota is pulling troops early from D.C., as pressure grows on Michigan
+### NATO spending pressure returned
 
-Minnesota Gov. Tim Walz is pulling his National Guard early from Washington, D.C. as the chorus against Democratic governors sending troops to the city amid President Trump's ongoing deployment grows louder. (Image credit: Joe Raedle).
+NBC’s Kristen Welker joins Willie Geist to remember senator Lindsey Graham who has died at 71. Kristen discusses Sen. Graham’s long road through South Carolina and in Washington, his role as one of President Donald Trump’s staunchest allies and his advocacy for a more robust military response to Iran. “What a shocking.
 
-Date: 2026-07-11
+Date: 2026-07-12
 
-### Trump warns Iran "missiles are locked and loaded" if they attempt assassination
+### A Bible passage is at the center of a debate over how the U.S. should treat immigrants
 
-President Trump threatened to "decimate and destroy" Iran if they try to assassinate him. This comes as the U.S. and Tehran continue negotiations. Here's what to know about where things stand.
+A debate over the Bible verse Matthew 25 is pitting mainline pastors, Black protestants and the pope against evangelical politicians put on the defensive over President Trump's policies.
 
-Date: 2026-07-11
+Date: 2026-07-12
 
-### Trump and Iran's supreme leader trade threats as mediators try to save their crumbling deal
+### How longtime GOP Senator Lindsey Graham went from critic to ally of President Trump
 
-President Donald Trump overnight made threats on social media of further missile attacks against Iran, after the funeral of Supreme Leader Ayatollah Ali Khamenei saw open calls for the U.S. leader's killing.
+Longtime Republican Sen. Lindsey Graham has died at the age of 71. The foreign policy hawk and former critic-turned-ally of President Trump was running for re-election in South Carolina.
 
-Date: 2026-07-11
+Date: 2026-07-12
 
-### Trump-Appointed Judge Reluctantly Grants Dismissal of Proud Boys Case
+### Politics chat: Lindsey Graham dies at 71, Congress back in session, U.S. strikes Iran
 
-Judge Timothy J. Kelly, a federal judge in Washington, noted that he had little choice but to accept the Trump administration’s move to end the case.
+South Carolina Senator Lindsey Graham's sudden death at 71 has shocked Washington. Once a fierce critic of then-candidate Donald Trump, he became one of the president's most consistent defenders.
 
-Date: 2026-07-11
+Date: 2026-07-12
+
+### An artist brought 'I.C.E. pops' to a Texas campus. The show was shut down in days
+
+The Trump administration's executive orders have meant that administrators are questioning what art can — and can't — be seen on campus. (Image credit: Laila AnnMarie Stevens for NPR).
+
+Date: 2026-07-12
+
+### Lindsey Graham, key ally of Donald Trump, has died after sudden illness, his office says
+
+Republican served in Senate since 2003 and was sharp Trump critic before becoming one of his most loyal backers Lindsey Graham, a longtime US senator and key ally of Donald Trump, has died from a sudden illness, his office said on Sunday. He had just turned 71. Graham’s abrupt death will send shock waves through Washin.
+
+Date: 2026-07-12
 
 ### Trump’s Posts on Singing Somali Schoolchildren Stir Anger in Minnesota
 
 The state’s large Muslim and Somali communities expressed indignation after the president reposted a video of a kindergarten promotion ceremony, including comments noting the girls were in hijabs.
-
-Date: 2026-07-11
-
-### Fate of Strait of Hormuz challenges talks as Trump and Iran's supreme leader trade threats
-
-President Donald Trump overnight made threats on social media of further missile attacks against Iran, after the funeral of Supreme Leader Ayatollah Ali Khamenei saw open calls for the U.S. leader's killing.
 
 Date: 2026-07-11
 
@@ -59,10 +65,11 @@ Date: 2026-07-10
 ## Sources
 
 - [Bipartisan housing bill becomes law after Trump refuses to sign it](https://www.cbsnews.com/news/housing-bill-becomes-law-trump-sign/?utm_source=lootura.com) — 2026-07-12T01:06:41.000Z
-- [Trump warns Iran "missiles are locked and loaded" if they attempt assassination](https://www.cbsnews.com/video/trump-warns-iran-missiles-are-locked-and-loaded-if-they-attempt-assassination/?utm_source=lootura.com) — 2026-07-11T16:18:00.000Z
-- [Minnesota is pulling troops early from D.C., as pressure grows on Michigan](https://www.npr.org/2026/07/11/nx-s1-5887666/national-guard-dc-trump-michigan-minnesota?utm_source=lootura.com) — 2026-07-11T10:00:00.000Z
-- [Fate of Strait of Hormuz challenges talks as Trump and Iran's supreme leader trade threats](https://www.pbs.org/newshour/world/fate-of-strait-of-hormuz-challenges-talks-as-trump-and-irans-supreme-leader-trade-threats?utm_source=lootura.com) — 2026-07-11T16:01:44.000Z
-- [Trump and Iran's supreme leader trade threats as mediators try to save their crumbling deal](https://www.pbs.org/newshour/world/trump-and-irans-supreme-leader-trade-threats-as-mediators-try-to-save-their-crumbling-deal?utm_source=lootura.com) — 2026-07-11T16:01:44.000Z
+- ['America and the world have lost a determined leader': Tributes pour in after Sen Lindsey Graham's death](https://www.foxnews.com/politics/america-world-lost-determined-leader-tributes-pour-sen-lindsey-graham-death?utm_source=lootura.com) — 2026-07-12T12:54:53.000Z
+- [Kristen Welker Remembers Sen. Lindsey Graham’s Legacy](https://www.today.com/video/kristen-welker-remembers-sen-lindsey-graham-s-legacy-266556485838?utm_source=lootura.com) — 2026-07-12T11:47:53.000Z
+- [A Bible passage is at the center of a debate over how the U.S. should treat immigrants](https://www.npr.org/2026/07/12/nx-s1-5885947/a-bibe-passage-is-at-the-center-of-a-debate-over-how-the-u-s-should-treat-immigrants?utm_source=lootura.com) — 2026-07-12T11:57:10.000Z
+- [How longtime GOP Senator Lindsey Graham went from critic to ally of President Trump](https://www.npr.org/2026/07/12/nx-s1-5890821/how-longtime-gop-senator-lindsey-graham-went-from-critic-to-ally-of-president-trump?utm_source=lootura.com) — 2026-07-12T11:57:18.000Z
+- [Politics chat: Lindsey Graham dies at 71, Congress back in session, U.S. strikes Iran](https://www.npr.org/2026/07/12/nx-s1-5887274/politics-chat-lindsey-graham-dies-at-71-congress-back-in-session-u-s-strikes-iran?utm_source=lootura.com) — 2026-07-12T11:57:11.000Z
+- [An artist brought 'I.C.E. pops' to a Texas campus. The show was shut down in days](https://www.npr.org/2026/07/12/nx-s1-5783832/ice-pop-texas-victor-marka27-quinonez-artist?utm_source=lootura.com) — 2026-07-12T09:00:00.000Z
+- [Lindsey Graham, key ally of Donald Trump, has died after sudden illness, his office says](https://www.theguardian.com/us-news/2026/jul/12/lindsey-graham-key-ally-of-donald-trump-has-died-after-sudden-illness-his-office-says?utm_source=lootura.com) — 2026-07-12T10:30:10.000Z
 - [Trump’s Posts on Singing Somali Schoolchildren Stir Anger in Minnesota](https://www.nytimes.com/2026/07/11/us/politics/trump-somali-kindergartners.html?utm_source=lootura.com) — 2026-07-11T21:04:50.000Z
-- [Trump-Appointed Judge Reluctantly Grants Dismissal of Proud Boys Case](https://www.nytimes.com/2026/07/11/us/politics/judge-proud-boys-sedition-dismissal.html?utm_source=lootura.com) — 2026-07-11T15:06:53.000Z
-- [Trump Justifies $2 Billion Made as President With Inaccurate Claims](https://www.nytimes.com/2026/07/11/us/politics/trump-money-crypto-financial-gains.html?utm_source=lootura.com) — 2026-07-11T09:02:14.000Z

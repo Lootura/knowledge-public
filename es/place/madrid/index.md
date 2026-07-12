@@ -3,7 +3,7 @@
 > Sigue la actividad de Madrid en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-12T06:30:48.397Z
+- Actualizado: 2026-07-12T13:14:40.089Z
 - Canonical: https://atlas.lootura.com/es/place/madrid
 
 ## Cambios recientes
@@ -20,45 +20,15 @@ Las Fiestas del Carmen de Vallecas volverán a revolucionar Madrid con su mític
 
 Date: 2026-07-12
 
-### Víctor Sardá, el profesor de los nuevos promotores de viviendas: "El sector inmobiliario tiene que enamorar a la sociedad"
+### Muere ahogado un joven en el Pantano de San Juan (Madrid)
 
-Víctor Sardá (Madrid, 1971) es una de las caras más reconocidas de todo el sector inmobiliario. Extrovertido —y siempre falto de vergüenza— es un habitual de todos los eventos y actos que reúnen al 'ladrillo' patrio. Profesor titular de la Escuela Técnica Superior de Edificación, Sardá es la mente e ideólogo del Grado.
-
-Date: 2026-07-12
-
-### Un joven herido por arma blanca en la plaza de Lavapiés
-
-Un joven de 25 años sufría este sábado una agresión por arma blanca en la plaza de Lavapiés, en Madrid, según ha informado Protección Civil y el servicio de Emergencias SAMUR, que le ha trasladado en estado grave al hospital Clínico. Según estas fuentes, el joven, que recibió una herida por arma blanca penetrante en el.
+Un joven de 28 años ha fallecido ahogado este domingo en el pantano de San Juan, en la linde de la Comunidad de Madrid con la provincia de Ávila. Según informa Emergencias 112 Comunidad de Madrid, el hombre estaba en la zona acompañado de varios amigos y, a las 8:54 horas de la mañana, se ha recibido la primera llamada.
 
 Date: 2026-07-12
 
-### Un vecino de Alcorcón gana más de dos millones de euros en la Bonoloto
+### La azotea con estrella Michelin que convierte los atardeceres de Madrid en el mejor plan del verano
 
-En el sorteo de la Bonoloto celebrado este sábado hay un boleto de la primera categoría (6 aciertos) , premiado con 2.147.800 euros , que ha sido validado en la Administración de Loterías de Alcorcón (Madrid) situada en Plaza de Ondarreta, 1 – local-4. De la segunda categoría (5 aciertos + Complementario) hay un boleto.
-
-Date: 2026-07-12
-
-### Un juez avala que unos madrileños mantengan su aire acondicionado en la fachada
-
-El Juzgado de Primera Instancia número 62 de Madrid ha desestimado la demanda presentada por una comunidad de propietarios contra los dueños de una vivienda a los que pretendía obligar a trasladar unos aparatos de aire acondicionado instalados en la fachada, al considerar que la instalación contaba con autorización pre.
-
-Date: 2026-07-12
-
-### El tiempo para hoy en Madrid: bajan las máximas y posibles chubascos
-
-La previsión de la Agencia Estatal de Meteorología (Aemet) en la Comunidad de Madrid para este domingo apunta a un descenso generalizado de las temperaturas máximas que irá posiblemente acompañado de algunos chubascos dispersos de madrugada en la mitad occidental de la región. Asimismo, la Aemet prevé mínimas en ascens.
-
-Date: 2026-07-12
-
-### Arte, naturaleza y entrada gratis: el museo del centro de Madrid que se convierte en el plan estrella del verano
-
-Ahora que estamos en pleno mes de julio, y además con la ola de calor y las altas temperaturas, los planes en Madrid deben elegirse bien. Se requiere que sean más tranquilos y sobre todo, que nos permitan escapar del calor durante unas horas. Pero no todo pasa por terrazas, piscinas o escapadas fuera de la ciudad sino.
-
-Date: 2026-07-12
-
-### Precio de la gasolina hoy 12 de julio: localiza las gasolineras más baratas de Madrid
-
-Llegamos al domingo y sabemos que a partir de media tarde las carreteras de acceso a Madrid empiezan a notar el clásico goteo de la operación retorno de fin de semana: quienes vuelven de la playa, de la sierra o de visitar a la familia en el pueblo antes de encarar la semana que empieza mañana. Si tú eres de los que ho.
+Cuando el calor aprieta, Madrid demuestra que también sabe vivir el verano. Y si hay un plan que reúne todo lo que se le puede pedir a una tarde de julio o agosto es subir a una azotea, brindar con un buen cóctel y dejarse sorprender por una cocina de altura. Justo esa es la ... Continuar leyendo "La azotea con estrell.
 
 Date: 2026-07-12
 
@@ -72,10 +42,5 @@ Date: 2026-07-11
 
 - [Al tren de alta velocidad le cuesta dejar atrás su peor crisis](https://elpais.com/economia/2026-07-12/al-tren-de-alta-velocidad-le-cuesta-dejar-atras-su-peor-crisis.html?utm_source=lootura.com) — 2026-07-12T03:30:01.000Z
 - [Fiestas del Carmen de Vallecas 2026: horarios de los conciertos gratis de Ramoncín, Urrutia y Auserón y el 'mojado' fin de fiesta con la Batalla Naval](https://www.elconfidencial.com/espana/madrid/2026-07-12/fiestas-carmen-vallecas-2026-horarios-conciertos-batalla-naval-1qrt_4388174/?utm_source=lootura.com) — 2026-07-12T03:45:00.000Z
-- [Víctor Sardá, el profesor de los nuevos promotores de viviendas: "El sector inmobiliario tiene que enamorar a la sociedad"](https://www.elperiodicomediterraneo.com/economia/2026/07/12/victor-sarda-profesor-nuevos-promotores-vivienda-132372690.html?utm_source=lootura.com) — 2026-07-12T06:24:18.000Z
-- [Un joven herido por arma blanca en la plaza de Lavapiés](https://www.larazon.es/madrid/joven-herido-arma-blanca-plaza-lavapies_202607126a5330fa772f745d2c42ffc2.html?utm_source=lootura.com) — 2026-07-12T06:15:22.000Z
-- [Un vecino de Alcorcón gana más de dos millones de euros en la Bonoloto](https://www.larazon.es/madrid/vecino-alcorcon-gana-mas-dos-millones-euros-bonoloto_202607126a532edd772f745d2c42fce8.html?utm_source=lootura.com) — 2026-07-12T06:06:21.000Z
-- [Un juez avala que unos madrileños mantengan su aire acondicionado en la fachada](https://www.larazon.es/madrid/juez-avala-que-madrilenos-mantengan-aire-acondicionado-fachada_202607126a533245772f745d2c4301ea.html?utm_source=lootura.com) — 2026-07-12T06:20:53.000Z
-- [El tiempo para hoy en Madrid: bajan las máximas y posibles chubascos](https://www.larazon.es/madrid/tiempo-hoy-madrid-bajan-maximas-posibles-chubascos_202607126a532db2772f745d2c42faf3.html?utm_source=lootura.com) — 2026-07-12T06:01:22.000Z
-- [Arte, naturaleza y entrada gratis: el museo del centro de Madrid que se convierte en el plan estrella del verano](https://okdiario.com/madrid/arte-naturaleza-entrada-gratis-museo-del-centro-madrid-que-convierte-plan-estrella-del-verano-18959099?utm_source=lootura.com) — 2026-07-12T06:15:31.000Z
-- [Precio de la gasolina hoy 12 de julio: localiza las gasolineras más baratas de Madrid](https://okdiario.com/madrid/precio-gasolina-hoy-12-julio-localiza-gasolineras-mas-baratas-madrid-18939453?utm_source=lootura.com) — 2026-07-12T06:15:16.000Z
+- [Muere ahogado un joven en el Pantano de San Juan (Madrid)](https://www.larazon.es/madrid/muere-ahogado-joven-pantano-san-juan-madrid_202607126a539097772f745d2c43a585.html?utm_source=lootura.com) — 2026-07-12T13:03:19.000Z
+- [La azotea con estrella Michelin que convierte los atardeceres de Madrid en el mejor plan del verano](https://okdiario.com/cool/lifestyle/azotea-estrella-michelin-que-convierte-atardeceres-madrid-mejor-plan-del-verano-18979714/amp?utm_source=lootura.com) — 2026-07-12T09:48:02.000Z

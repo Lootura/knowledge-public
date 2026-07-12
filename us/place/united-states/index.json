@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/united-states/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/united-states/index.json",
   "description": "Follow United States, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-12T06:31:22.183Z",
+  "updatedAt": "2026-07-12T13:15:03.815Z",
   "aliases": [
     "America",
     "Estados Unidos",
@@ -26,44 +26,44 @@
       "date": "2026-07-12"
     },
     {
-      "title": "US attacks Iran over ship being hit in Strait of Hormuz; Tehran lashes out again at Gulf Arab states",
-      "summary": "The United States attacked Iran early Sunday morning over an Iranian attack on a vessel in the Strait of Hormuz. Iran apparently responded with strikes targeting Bahrain, Qatar and the United Arab Emirates. (Image credit: Vahid Salemi).",
-      "date": "2026-07-12"
-    },
-    {
       "title": "The World Is Cutting Ties With America. It’s Already Costing Us.",
       "summary": "When other countries cut ties, Americans pay.",
       "date": "2026-07-12"
     },
     {
-      "title": "Political scientist Dominic Tierney on why the U.S. gets trapped in conflicts like Iran",
-      "summary": "NPR's Scott Simon speaks with Swarthmore College political science professor Dominic Tierney about the U.S.-Iran war and other conflicts that have left the U.S. in drawn-out entanglements.",
-      "date": "2026-07-11"
+      "title": "U.S. and world leaders pay tribute to Lindsey Graham following sudden death",
+      "summary": "The senior U.S. senator for South Carolina died suddenly at 71 on Saturday.",
+      "date": "2026-07-12"
     },
     {
-      "title": "An American Politician Is Blocked by Israeli Settlers in the West Bank",
-      "summary": "Representative Ro Khanna was barred from leaving for 90 minutes. Where past U.S. leaders toured the region to show support for Israel, today’s Democratic presidential aspirants are going to bolster their credentials as critics.",
-      "date": "2026-07-11"
+      "title": "Majority of U.S. workers support an AI wealth fund as tech layoffs surge, survey finds",
+      "summary": "A majority of U.S. employees now want an AI sovereign wealth fund to hold corporations more accountable, according to a recent survey, as tech layoffs rise.",
+      "date": "2026-07-12"
     },
     {
-      "title": "U.S. Citizen Tests Positive for Ebola in Democratic Republic of Congo",
-      "summary": "The American, who works for the humanitarian organization Samaritan’s Purse, is the second to be infected in an outbreak that continues to spread.",
-      "date": "2026-07-11"
+      "title": "'America and the world have lost a determined leader': Tributes pour in after Sen Lindsey Graham's death",
+      "summary": "Tributes poured in Sunday from President Donald Trump , congressional leaders and foreign allies after Sen. Lindsey Graham, R-S.C., died at 71 following what his office described as a \"brief and sudden illness,\" bringing to an end the career of one of the Senate's most influential Republican voices. The South Carolina.",
+      "date": "2026-07-12"
     },
     {
-      "title": "Trump warns Iran \"missiles are locked and loaded\" if they attempt assassination",
-      "summary": "President Trump threatened to \"decimate and destroy\" Iran if they try to assassinate him. This comes as the U.S. and Tehran continue negotiations. Here's what to know about where things stand.",
-      "date": "2026-07-11"
+      "title": "A Bible passage is at the center of a debate over how the U.S. should treat immigrants",
+      "summary": "A debate over the Bible verse Matthew 25 is pitting mainline pastors, Black protestants and the pope against evangelical politicians put on the defensive over President Trump's policies.",
+      "date": "2026-07-12"
     },
     {
-      "title": "The biggest steam locomotive is whistle-stopping across the U.S.",
-      "summary": "Huge crowds of train fans turn out as the 1940s era Big Boy steam locomotive is making a rare trip cross country. (Image credit: Michelle Gustafson for NPR).",
-      "date": "2026-07-11"
+      "title": "What a Monopoly importer learned when it tried to make things in the U.S.A.",
+      "summary": "After getting hit with tariffs for the imported board games he sells, Jonathan Silva decided to see if he could produce a version of his Monopoly game in the United States. This is what he learned. (Image credit: WS Game Company).",
+      "date": "2026-07-12"
     },
     {
-      "title": "U.S. citizen working for humanitarian organization in Congo tests positive for Ebola",
-      "summary": "The CDC said it was working with the person's employer, U.S. agencies, the public health authorities and Congolese partners to prevent further transmission and identify close contacts.",
-      "date": "2026-07-11"
+      "title": "Politics chat: Lindsey Graham dies at 71, Congress back in session, U.S. strikes Iran",
+      "summary": "South Carolina Senator Lindsey Graham's sudden death at 71 has shocked Washington. Once a fierce critic of then-candidate Donald Trump, he became one of the president's most consistent defenders.",
+      "date": "2026-07-12"
+    },
+    {
+      "title": "Younger Voters Are Propelling the Democratic Socialist Surge in New York",
+      "summary": "Age seemed to be the predominant factor in the Democratic Socialists of America’s primary wins in House races in New York City.",
+      "date": "2026-07-12"
     }
   ],
   "sources": [
@@ -74,16 +74,28 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
+      "title": "U.S. and world leaders pay tribute to Lindsey Graham following sudden death",
+      "url": "https://www.cbsnews.com/news/lindsey-graham-us-world-leaders-pay-tribute-following-sudden-death-trump-netanyahu/?utm_source=lootura.com",
+      "publishedAt": "2026-07-12T12:24:17.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
+    {
       "title": "Fire departments work to get rid of cancer-linked foam extinguisher: \"It was like sitting on a bomb\"",
       "url": "https://www.cbsnews.com/video/fire-departments-rid-cancer-linked-foam-extinguisher/?utm_source=lootura.com",
       "publishedAt": "2026-07-12T01:02:49.000Z",
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "Trump warns Iran \"missiles are locked and loaded\" if they attempt assassination",
-      "url": "https://www.cbsnews.com/video/trump-warns-iran-missiles-are-locked-and-loaded-if-they-attempt-assassination/?utm_source=lootura.com",
-      "publishedAt": "2026-07-11T16:18:00.000Z",
-      "sourceId": "lootura-us-cbs-news"
+      "title": "Majority of U.S. workers support an AI wealth fund as tech layoffs surge, survey finds",
+      "url": "https://www.cnbc.com/2026/07/12/majority-of-us-workers-support-ai-fund-amid-tech-layoffs-survey.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-12T12:27:55.000Z",
+      "sourceId": "lootura-us-cnbc"
+    },
+    {
+      "title": "'America and the world have lost a determined leader': Tributes pour in after Sen Lindsey Graham's death",
+      "url": "https://www.foxnews.com/politics/america-world-lost-determined-leader-tributes-pour-sen-lindsey-graham-death?utm_source=lootura.com",
+      "publishedAt": "2026-07-12T12:54:53.000Z",
+      "sourceId": "lootura-us-fox-news"
     },
     {
       "title": "The biggest steam locomotive is whistle-stopping across the U.S.",
@@ -92,34 +104,22 @@
       "sourceId": "lootura-us-npr"
     },
     {
-      "title": "Political scientist Dominic Tierney on why the U.S. gets trapped in conflicts like Iran",
-      "url": "https://www.npr.org/2026/07/11/nx-s1-5886190/political-scientist-dominic-tierney-on-why-the-u-s-gets-trapped-in-conflicts-like-iran?utm_source=lootura.com",
-      "publishedAt": "2026-07-11T11:43:42.000Z",
+      "title": "A Bible passage is at the center of a debate over how the U.S. should treat immigrants",
+      "url": "https://www.npr.org/2026/07/12/nx-s1-5885947/a-bibe-passage-is-at-the-center-of-a-debate-over-how-the-u-s-should-treat-immigrants?utm_source=lootura.com",
+      "publishedAt": "2026-07-12T11:57:10.000Z",
+      "sourceId": "lootura-us-npr"
+    },
+    {
+      "title": "What a Monopoly importer learned when it tried to make things in the U.S.A.",
+      "url": "https://www.npr.org/2026/07/12/nx-s1-5887378/monopoly-tariffs-china-manufacturing-made-inusa?utm_source=lootura.com",
+      "publishedAt": "2026-07-12T09:00:00.000Z",
+      "sourceId": "lootura-us-npr"
+    },
+    {
+      "title": "Politics chat: Lindsey Graham dies at 71, Congress back in session, U.S. strikes Iran",
+      "url": "https://www.npr.org/2026/07/12/nx-s1-5887274/politics-chat-lindsey-graham-dies-at-71-congress-back-in-session-u-s-strikes-iran?utm_source=lootura.com",
+      "publishedAt": "2026-07-12T11:57:11.000Z",
       "sourceId": "lootura-us-npr-politics"
-    },
-    {
-      "title": "US attacks Iran over ship being hit in Strait of Hormuz; Tehran lashes out again at Gulf Arab states",
-      "url": "https://www.npr.org/2026/07/11/g-s1-133212/us-iran-vessel-attack-strait-hormuz-gulf?utm_source=lootura.com",
-      "publishedAt": "2026-07-12T01:32:36.000Z",
-      "sourceId": "lootura-us-npr-world"
-    },
-    {
-      "title": "Fate of Strait of Hormuz challenges talks as Trump and Iran's supreme leader trade threats",
-      "url": "https://www.pbs.org/newshour/world/fate-of-strait-of-hormuz-challenges-talks-as-trump-and-irans-supreme-leader-trade-threats?utm_source=lootura.com",
-      "publishedAt": "2026-07-11T16:01:44.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
-    },
-    {
-      "title": "U.S. citizen working for humanitarian organization in Congo tests positive for Ebola",
-      "url": "https://www.pbs.org/newshour/world/u-s-citizen-working-for-humanitarian-organization-in-congo-tests-positive-for-ebola?utm_source=lootura.com",
-      "publishedAt": "2026-07-11T15:36:11.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
-    },
-    {
-      "title": "Trump and Iran's supreme leader trade threats as mediators try to save their crumbling deal",
-      "url": "https://www.pbs.org/newshour/world/trump-and-irans-supreme-leader-trade-threats-as-mediators-try-to-save-their-crumbling-deal?utm_source=lootura.com",
-      "publishedAt": "2026-07-11T16:01:44.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
     },
     {
       "title": "Poll: Patriotism in the US, Europe and Canada, charted",
@@ -128,5 +128,5 @@
       "sourceId": "lootura-us-politico"
     }
   ],
-  "evidenceCount": 14
+  "evidenceCount": 17
 }

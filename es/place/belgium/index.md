@@ -8,12 +8,8 @@
 
 ## Cambios recientes
 
-### Discovered by Atlas
-
-Belgium first entered the public knowledge record with source-backed evidence.
-
-Date: 2026-07-10
+No recent public changes.
 
 ## Fuentes
 
-- [Marcelino, Señor, Puyol... y Mikel Merino, goles para la historia de la selección española](https://www.lavanguardia.com/deportes/futbol/20260712/11590008/mikel-merino-espana-mundial-2026-goles-historicos.html?utm_source=lootura.com) — 2026-07-12T03:00:00.000Z
+No public source links.

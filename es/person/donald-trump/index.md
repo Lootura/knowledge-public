@@ -3,7 +3,7 @@
 > Sigue la actividad de Donald Trump en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-12T06:30:48.397Z
+- Actualizado: 2026-07-12T13:14:40.089Z
 - Canonical: https://atlas.lootura.com/es/person/donald-trump
 
 ## Cambios recientes
@@ -20,15 +20,15 @@ El autor de ‘Cómo ocultar un imperio’ sostiene en su libro que el president
 
 Date: 2026-07-12
 
-### Trump vuelve a bombardear Irán y la crisis en Ormuz entra en una fase crítica
+### Muere el senador republicano Lindsey Graham, estrecho aliado de Trump, de forma repentina a los 71 años
 
-Continúa la escalada de tensión en Oriente Próximo. Estados Unidos e Irán redoblan su pulso tras el colapso del preacuerdo de paz. En esta ocasión, la Administración Trump movía ficha en primer término, ordenando una nueva ronda de bombardeos contra objetivos iraníes después de que la Guardia Revolucionaria – según den.
+Su inesperada muerte trunca una carrera política caracterizada por su crítica y posterior respaldo al presidente, Donald Trump, y, recientemente, por su postura inflexible contra España sobre Irán. Leer.
 
 Date: 2026-07-12
 
-### EEUU bombardea de nuevo Irán tras anunciar Teherán el cierre del estrecho Ormuz y atacar un barco en el paso marítimo
+### Muere el senador republicano Lindsey Graham, uno de los grandes aliados de Donald Trump
 
-Irán dice que el paso de Ormuz está cerrado de nuevo después de que un buque que seguía una "ruta no autorizada" fuera alcanzado y el Ejército de EEUU anuncia que "está imponiendo un alto coste" a Irán Trump desata el caos con nuevos ataques sobre Irán, insultos a sus aliados de la OTAN, crisis internas y más muertes d.
+El senador republicano por Carolina del Sur Lindsey Graham , uno de los aliados más férreos del presidente Donald Trump , ha muerto este pasado sábado por la noche a los 71 años de edad como consecuencia de una « breve y repentina enfermedad », según ha informado su oficina en un comunicado publicado en redes sociales.
 
 Date: 2026-07-12
 
@@ -41,6 +41,6 @@ Date: 2026-07-11
 ## Fuentes
 
 - [El gasto militar de Sánchez sólo concita el aplauso de Trump: izquierda y derecha exigen explicaciones y acusan al Gobierno de opacidad](https://www.elmundo.es/espana/2026/07/12/6a526b8421efa069048b45ad.html?utm_source=lootura.com) — 2026-07-12T01:28:52.000Z
+- [Muere el senador republicano Lindsey Graham, estrecho aliado de Trump, de forma repentina a los 71 años](https://www.elmundo.es/internacional/2026/07/12/6a533d57e85ece547c8b458b.html?utm_source=lootura.com) — 2026-07-12T10:12:43.000Z
 - [“Trump se ha obsesionado con la idea de que Estados Unidos reclame nuevos territorios”: Daniel Immerwahr](https://elordenmundial.com/entrevista-daniel-immerwahr-estados-unidos-imperio-trump/?utm_source=lootura.com) — 2026-07-12T05:00:00.000Z
-- [Trump vuelve a bombardear Irán y la crisis en Ormuz entra en una fase crítica](https://www.elplural.com/politica/internacional/trump-vuelve-bombardear-iran-crisis-ormuz-entra-fase-critica_395396102?utm_source=lootura.com) — 2026-07-12T06:26:52.000Z
-- [EEUU bombardea de nuevo Irán tras anunciar Teherán el cierre del estrecho Ormuz y atacar un barco en el paso marítimo](https://www.eldiario.es/internacional/eeuu-bombardea-nuevo-iran-declarar-teheran-cierre-estrecho-ormuz-atacar-barco-estrecho_1_13374134.html?utm_source=lootura.com) — 2026-07-12T00:28:31.000Z
+- [Muere el senador republicano Lindsey Graham, uno de los grandes aliados de Donald Trump](https://theobjective.com/internacional/2026-07-12/lindsey-graham-muerte-donald-trump/?utm_source=lootura.com) — 2026-07-12T07:12:47.000Z

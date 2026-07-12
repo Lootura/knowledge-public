@@ -8,11 +8,51 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/new-york/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/new-york/index.json",
   "description": "Follow New York, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-12T02:32:33.232Z",
+  "updatedAt": "2026-07-12T13:15:03.815Z",
   "aliases": [
     "New York City"
   ],
-  "changes": [],
-  "sources": [],
-  "evidenceCount": 0
+  "changes": [
+    {
+      "title": "NYC to move 110 single homeless men to quiet Brooklyn neighborhood, leaving locals worried: report",
+      "summary": "City is set to move 110 single homeless men into a Brooklyn shelter without conducting criminal background checks, according to a new report, sparking outrage among residents who fear the change will bring more crime to their quiet neighborhood. The former Gold Star Inn in Sheepshead Bay, which has operated as.",
+      "date": "2026-07-12"
+    },
+    {
+      "title": "The best time to talk to your parents about senior care — before it's too late",
+      "summary": "Most families wait to talk about senior care until an emergency hits, but experts say having those discussions early can lead to better outcomes and less conflict. Tatyana Zlotsky, CEO of A Place for Mom in New York City, said 77% of the families she works with tell her they wish they’d acted sooner. Planning before a.",
+      "date": "2026-07-12"
+    },
+    {
+      "title": "Younger Voters Are Propelling the Democratic Socialist Surge in New York",
+      "summary": "Age seemed to be the predominant factor in the Democratic Socialists of America’s primary wins in House races in New York City.",
+      "date": "2026-07-12"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "New York first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-07-10"
+    }
+  ],
+  "sources": [
+    {
+      "title": "NYC to move 110 single homeless men to quiet Brooklyn neighborhood, leaving locals worried: report",
+      "url": "https://www.foxnews.com/us/nyc-move-110-single-homeless-men-quiet-brooklyn-neighborhood-leaving-locals-worried-report?utm_source=lootura.com",
+      "publishedAt": "2026-07-12T12:09:12.000Z",
+      "sourceId": "lootura-us-fox-news"
+    },
+    {
+      "title": "The best time to talk to your parents about senior care — before it's too late",
+      "url": "https://www.foxnews.com/health/best-time-talk-parents-senior-care-before-too-late?utm_source=lootura.com",
+      "publishedAt": "2026-07-12T13:00:26.000Z",
+      "sourceId": "lootura-us-fox-news"
+    },
+    {
+      "title": "Younger Voters Are Propelling the Democratic Socialist Surge in New York",
+      "url": "https://www.nytimes.com/2026/07/12/nyregion/dsa-young-voters-primary-ny.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-12T07:00:23.000Z",
+      "sourceId": "lootura-us-the-new-york-times-politics"
+    }
+  ],
+  "evidenceCount": 3
 }

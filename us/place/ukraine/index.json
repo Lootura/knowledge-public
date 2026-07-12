@@ -8,15 +8,20 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/ukraine/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/ukraine/index.json",
   "description": "Follow Ukraine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-12T06:31:22.183Z",
+  "updatedAt": "2026-07-12T13:15:03.815Z",
   "aliases": [
     "Kyiv"
   ],
   "changes": [
     {
-      "title": "Inside the Secret Factory That Supplies Ukraine’s War Drones",
-      "summary": "With its mass-produced and inexpensive A.I. powered war machines, the German start-up Helsing SE illustrates a profound shift in military spending.",
-      "date": "2026-07-11"
+      "title": "Lindsey Graham Dies at 71: A Look Back at His Influential Career",
+      "summary": "Lindsey Graham, an Air Force veteran from South Carolina and one of the most influential senators in American foreign policy, has died at 71. Graham had just returned from a lengthy trip to Ukraine and Ankara, Turkey. NBC’s Julie Tsirkin reports for Sunday TODAY.",
+      "date": "2026-07-12"
+    },
+    {
+      "title": "Trump Sought an Iran War Exit. Putin Pushed On in Ukraine. Now Both Are Stuck.",
+      "summary": "The Iran and Ukraine wars underline the common limits of military force in achieving political ends, but also the differences between a dug-in Russian president and a vacillating American one.",
+      "date": "2026-07-12"
     },
     {
       "title": "Discovered by Atlas",
@@ -26,11 +31,23 @@
   ],
   "sources": [
     {
-      "title": "Inside the Secret Factory That Supplies Ukraine’s War Drones",
-      "url": "https://www.nytimes.com/2026/07/11/business/dealbook/drone-factory-helsing.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-11T12:00:09.000Z",
-      "sourceId": "lootura-us-the-new-york-times"
+      "title": "Sen. Lindsey Graham, influential lawmaker and Trump ally, dies at 71 after a brief illness",
+      "url": "https://www.cnbc.com/2026/07/12/senator-lindsey-graham-has-died-after-a-brief-illness-his-office-says.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-12T12:41:41.000Z",
+      "sourceId": "lootura-us-cnbc"
+    },
+    {
+      "title": "Lindsey Graham Dies at 71: A Look Back at His Influential Career",
+      "url": "https://www.today.com/video/lindsey-graham-dies-at-71-a-look-back-at-his-influential-career-266559557813?utm_source=lootura.com",
+      "publishedAt": "2026-07-12T12:14:19.000Z",
+      "sourceId": "lootura-us-nbc-news-politics"
+    },
+    {
+      "title": "Trump Sought an Iran War Exit. Putin Pushed On in Ukraine. Now Both Are Stuck.",
+      "url": "https://www.nytimes.com/2026/07/12/world/europe/trump-putin-war-iran-ukraine.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-12T09:01:28.000Z",
+      "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 3
 }

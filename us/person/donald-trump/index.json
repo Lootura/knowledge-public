@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/donald-trump/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/donald-trump/index.json",
   "description": "Follow Donald Trump, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-12T06:31:22.183Z",
+  "updatedAt": "2026-07-12T13:15:03.815Z",
   "aliases": [
     "President Donald Trump",
     "President Trump",
@@ -16,38 +16,43 @@
   ],
   "changes": [
     {
-      "title": "Trump Justifies $2 Billion Made as President With Inaccurate Claims",
-      "summary": "President Trump has wrongly attributed the $2 billion windfall he gained during his second term to a hot stock market and claimed that he was the only president to donate his salary.",
-      "date": "2026-07-11"
+      "title": "'America and the world have lost a determined leader': Tributes pour in after Sen Lindsey Graham's death",
+      "summary": "Tributes poured in Sunday from President Donald Trump , congressional leaders and foreign allies after Sen. Lindsey Graham, R-S.C., died at 71 following what his office described as a \"brief and sudden illness,\" bringing to an end the career of one of the Senate's most influential Republican voices. The South Carolina.",
+      "date": "2026-07-12"
     },
     {
-      "title": "Minnesota is pulling troops early from D.C., as pressure grows on Michigan",
-      "summary": "Minnesota Gov. Tim Walz is pulling his National Guard early from Washington, D.C. as the chorus against Democratic governors sending troops to the city amid President Trump's ongoing deployment grows louder. (Image credit: Joe Raedle).",
-      "date": "2026-07-11"
+      "title": "NATO spending pressure returned",
+      "summary": "NBC’s Kristen Welker joins Willie Geist to remember senator Lindsey Graham who has died at 71. Kristen discusses Sen. Graham’s long road through South Carolina and in Washington, his role as one of President Donald Trump’s staunchest allies and his advocacy for a more robust military response to Iran. “What a shocking.",
+      "date": "2026-07-12"
     },
     {
-      "title": "Trump warns Iran \"missiles are locked and loaded\" if they attempt assassination",
-      "summary": "President Trump threatened to \"decimate and destroy\" Iran if they try to assassinate him. This comes as the U.S. and Tehran continue negotiations. Here's what to know about where things stand.",
-      "date": "2026-07-11"
+      "title": "A Bible passage is at the center of a debate over how the U.S. should treat immigrants",
+      "summary": "A debate over the Bible verse Matthew 25 is pitting mainline pastors, Black protestants and the pope against evangelical politicians put on the defensive over President Trump's policies.",
+      "date": "2026-07-12"
     },
     {
-      "title": "Trump and Iran's supreme leader trade threats as mediators try to save their crumbling deal",
-      "summary": "President Donald Trump overnight made threats on social media of further missile attacks against Iran, after the funeral of Supreme Leader Ayatollah Ali Khamenei saw open calls for the U.S. leader's killing.",
-      "date": "2026-07-11"
+      "title": "How longtime GOP Senator Lindsey Graham went from critic to ally of President Trump",
+      "summary": "Longtime Republican Sen. Lindsey Graham has died at the age of 71. The foreign policy hawk and former critic-turned-ally of President Trump was running for re-election in South Carolina.",
+      "date": "2026-07-12"
     },
     {
-      "title": "Trump-Appointed Judge Reluctantly Grants Dismissal of Proud Boys Case",
-      "summary": "Judge Timothy J. Kelly, a federal judge in Washington, noted that he had little choice but to accept the Trump administration’s move to end the case.",
-      "date": "2026-07-11"
+      "title": "Politics chat: Lindsey Graham dies at 71, Congress back in session, U.S. strikes Iran",
+      "summary": "South Carolina Senator Lindsey Graham's sudden death at 71 has shocked Washington. Once a fierce critic of then-candidate Donald Trump, he became one of the president's most consistent defenders.",
+      "date": "2026-07-12"
+    },
+    {
+      "title": "An artist brought 'I.C.E. pops' to a Texas campus. The show was shut down in days",
+      "summary": "The Trump administration's executive orders have meant that administrators are questioning what art can — and can't — be seen on campus. (Image credit: Laila AnnMarie Stevens for NPR).",
+      "date": "2026-07-12"
+    },
+    {
+      "title": "Lindsey Graham, key ally of Donald Trump, has died after sudden illness, his office says",
+      "summary": "Republican served in Senate since 2003 and was sharp Trump critic before becoming one of his most loyal backers Lindsey Graham, a longtime US senator and key ally of Donald Trump, has died from a sudden illness, his office said on Sunday. He had just turned 71. Graham’s abrupt death will send shock waves through Washin.",
+      "date": "2026-07-12"
     },
     {
       "title": "Trump’s Posts on Singing Somali Schoolchildren Stir Anger in Minnesota",
       "summary": "The state’s large Muslim and Somali communities expressed indignation after the president reposted a video of a kindergarten promotion ceremony, including comments noting the girls were in hijabs.",
-      "date": "2026-07-11"
-    },
-    {
-      "title": "Fate of Strait of Hormuz challenges talks as Trump and Iran's supreme leader trade threats",
-      "summary": "President Donald Trump overnight made threats on social media of further missile attacks against Iran, after the funeral of Supreme Leader Ayatollah Ali Khamenei saw open calls for the U.S. leader's killing.",
       "date": "2026-07-11"
     },
     {
@@ -64,47 +69,53 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "Trump warns Iran \"missiles are locked and loaded\" if they attempt assassination",
-      "url": "https://www.cbsnews.com/video/trump-warns-iran-missiles-are-locked-and-loaded-if-they-attempt-assassination/?utm_source=lootura.com",
-      "publishedAt": "2026-07-11T16:18:00.000Z",
-      "sourceId": "lootura-us-cbs-news"
+      "title": "'America and the world have lost a determined leader': Tributes pour in after Sen Lindsey Graham's death",
+      "url": "https://www.foxnews.com/politics/america-world-lost-determined-leader-tributes-pour-sen-lindsey-graham-death?utm_source=lootura.com",
+      "publishedAt": "2026-07-12T12:54:53.000Z",
+      "sourceId": "lootura-us-fox-news"
     },
     {
-      "title": "Minnesota is pulling troops early from D.C., as pressure grows on Michigan",
-      "url": "https://www.npr.org/2026/07/11/nx-s1-5887666/national-guard-dc-trump-michigan-minnesota?utm_source=lootura.com",
-      "publishedAt": "2026-07-11T10:00:00.000Z",
+      "title": "Kristen Welker Remembers Sen. Lindsey Graham’s Legacy",
+      "url": "https://www.today.com/video/kristen-welker-remembers-sen-lindsey-graham-s-legacy-266556485838?utm_source=lootura.com",
+      "publishedAt": "2026-07-12T11:47:53.000Z",
+      "sourceId": "lootura-us-nbc-news-politics"
+    },
+    {
+      "title": "A Bible passage is at the center of a debate over how the U.S. should treat immigrants",
+      "url": "https://www.npr.org/2026/07/12/nx-s1-5885947/a-bibe-passage-is-at-the-center-of-a-debate-over-how-the-u-s-should-treat-immigrants?utm_source=lootura.com",
+      "publishedAt": "2026-07-12T11:57:10.000Z",
+      "sourceId": "lootura-us-npr"
+    },
+    {
+      "title": "How longtime GOP Senator Lindsey Graham went from critic to ally of President Trump",
+      "url": "https://www.npr.org/2026/07/12/nx-s1-5890821/how-longtime-gop-senator-lindsey-graham-went-from-critic-to-ally-of-president-trump?utm_source=lootura.com",
+      "publishedAt": "2026-07-12T11:57:18.000Z",
       "sourceId": "lootura-us-npr-politics"
     },
     {
-      "title": "Fate of Strait of Hormuz challenges talks as Trump and Iran's supreme leader trade threats",
-      "url": "https://www.pbs.org/newshour/world/fate-of-strait-of-hormuz-challenges-talks-as-trump-and-irans-supreme-leader-trade-threats?utm_source=lootura.com",
-      "publishedAt": "2026-07-11T16:01:44.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
+      "title": "Politics chat: Lindsey Graham dies at 71, Congress back in session, U.S. strikes Iran",
+      "url": "https://www.npr.org/2026/07/12/nx-s1-5887274/politics-chat-lindsey-graham-dies-at-71-congress-back-in-session-u-s-strikes-iran?utm_source=lootura.com",
+      "publishedAt": "2026-07-12T11:57:11.000Z",
+      "sourceId": "lootura-us-npr-politics"
     },
     {
-      "title": "Trump and Iran's supreme leader trade threats as mediators try to save their crumbling deal",
-      "url": "https://www.pbs.org/newshour/world/trump-and-irans-supreme-leader-trade-threats-as-mediators-try-to-save-their-crumbling-deal?utm_source=lootura.com",
-      "publishedAt": "2026-07-11T16:01:44.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
+      "title": "An artist brought 'I.C.E. pops' to a Texas campus. The show was shut down in days",
+      "url": "https://www.npr.org/2026/07/12/nx-s1-5783832/ice-pop-texas-victor-marka27-quinonez-artist?utm_source=lootura.com",
+      "publishedAt": "2026-07-12T09:00:00.000Z",
+      "sourceId": "lootura-us-npr-politics"
+    },
+    {
+      "title": "Lindsey Graham, key ally of Donald Trump, has died after sudden illness, his office says",
+      "url": "https://www.theguardian.com/us-news/2026/jul/12/lindsey-graham-key-ally-of-donald-trump-has-died-after-sudden-illness-his-office-says?utm_source=lootura.com",
+      "publishedAt": "2026-07-12T10:30:10.000Z",
+      "sourceId": "lootura-us-the-guardian-us"
     },
     {
       "title": "Trump’s Posts on Singing Somali Schoolchildren Stir Anger in Minnesota",
       "url": "https://www.nytimes.com/2026/07/11/us/politics/trump-somali-kindergartners.html?utm_source=lootura.com",
       "publishedAt": "2026-07-11T21:04:50.000Z",
       "sourceId": "lootura-us-the-new-york-times-politics"
-    },
-    {
-      "title": "Trump-Appointed Judge Reluctantly Grants Dismissal of Proud Boys Case",
-      "url": "https://www.nytimes.com/2026/07/11/us/politics/judge-proud-boys-sedition-dismissal.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-11T15:06:53.000Z",
-      "sourceId": "lootura-us-the-new-york-times-politics"
-    },
-    {
-      "title": "Trump Justifies $2 Billion Made as President With Inaccurate Claims",
-      "url": "https://www.nytimes.com/2026/07/11/us/politics/trump-money-crypto-financial-gains.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-11T09:02:14.000Z",
-      "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 8
+  "evidenceCount": 9
 }

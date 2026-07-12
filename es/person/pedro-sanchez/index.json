@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/pedro-sanchez/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/pedro-sanchez/index.json",
   "description": "Sigue la actividad de Pedro Sánchez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-12T06:30:48.397Z",
+  "updatedAt": "2026-07-12T13:14:40.089Z",
   "aliases": [
     "Sánchez"
   ],
@@ -19,23 +19,13 @@
       "date": "2026-07-12"
     },
     {
-      "title": "El juez quiere saber si Zapatero comió con Sánchez antes del rescate de Plus Ultra",
-      "summary": "«¿Usted entre julio y septiembre de 2020 tuvo alguna comida con el presidente del Gobierno , con el ministro Escrivá, con algún alto cargo del Ministerio de Hacienda, en relación con este tema, o sin que fuera por este tema?». Es una de las muchas preguntas, reiterativas, que el juez de la Audiencia Nacional José Luis.",
+      "title": "El PP se compromete en Ermua a aclarar los 376 crímenes impunes de ETA frente a la \"indignidad\" del sanchismo con EH Bildu",
+      "summary": "\"El precio que ha pagado Sánchez es el de presos por votos\", denuncia la vicesecrataria general del PP Cuca Gamarra en el 29 homenaje a Blanco. Leer.",
       "date": "2026-07-12"
     },
     {
-      "title": "Las tres ventanas de Sánchez para convocar las elecciones: la apresurada, la probable y la letal",
-      "summary": "El presidente no quiere cerrar ninguna de momento. Los suyos siguen confiando en un milagro, en un giro de guion, en un triple salto mortal… la fe ...",
-      "date": "2026-07-12"
-    },
-    {
-      "title": "Catalunya ante el espejo: del “España nos roba” a la amenaza del “califato”",
-      "summary": "La justicia europea se pronunciará la próxima semana sobre la amnistía que el Gobierno de Pedro Sánchez aprobó para los líderes del procés. Si la avala, estará a punto de concluir la mayor crisis constitucional de España en esta etapa democrática. Mientras, la sociedad catalana ha virado en sus preocupaciones desde aqu.",
-      "date": "2026-07-12"
-    },
-    {
-      "title": "Sánchez decidirá tras el paréntesis de agosto el calendario del final de mandato",
-      "summary": "“En agosto, con el fresquito, reflexionaremos sobre el calendario”, alegan con ironía en la Moncloa sobre las fechas clave que baraja Pedro Sánchez para la recta final de la legislatura, en la que lo único que no puede prever de antemano son las minas judiciales que aún pueden estallar ante el alud de causas por presun.",
+      "title": "Inquietud en el PP tras los últimos tropiezos de Feijóo: “La sensación es que vamos improvisando”",
+      "summary": "Un estado de ánimo ciclotímico envuelve al PP en el final del curso político. Tras la euforia con la que los populares terminaron el periodo de sesiones, sacando adelante una votación no vinculante sobre la dimisión de Pedro Sánchez con los votos de Vox y de Junts, el clima interno ha cambiado completamente después de.",
       "date": "2026-07-12"
     },
     {
@@ -46,22 +36,10 @@
   ],
   "sources": [
     {
-      "title": "Por qué el Gobierno alimenta la idea del 'lawfare' en la justicia: más de la mitad de votantes socialistas 'compran' la teoría",
-      "url": "https://www.20minutos.es/nacional/por-que-gobierno-alimenta-idea-lawfare-justicia-mas-mitad-los-votantes-socialistas-compran-teoria_7013237_0.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-12T06:04:18.000Z",
-      "sourceId": "lootura-es-20minutos"
-    },
-    {
-      "title": "El juez quiere saber si Zapatero comió con Sánchez antes del rescate de Plus Ultra",
-      "url": "https://www.abc.es/espana/juez-sospecha-zapatero-comio-sanchez-tratar-rescate-20260709014050-nt.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-12T06:07:16.000Z",
-      "sourceId": "lootura-es-abc"
-    },
-    {
-      "title": "Las tres ventanas de Sánchez para convocar las elecciones: la apresurada, la probable y la letal",
-      "url": "https://www.eldebate.com/espana/20260712/tres-ventanas-sanchez-convocar-elecciones-apresurada-probable-letal_438218.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-12T02:30:00.000Z",
-      "sourceId": "lootura-es-el-debate"
+      "title": "El PP se compromete en Ermua a aclarar los 376 crímenes impunes de ETA frente a la \"indignidad\" del sanchismo con EH Bildu",
+      "url": "https://www.elmundo.es/pais-vasco/2026/07/12/6a536b49e4d4d8382d8b4592.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-12T10:47:16.000Z",
+      "sourceId": "lootura-es-el-mundo"
     },
     {
       "title": "El gasto militar de Sánchez sólo concita el aplauso de Trump: izquierda y derecha exigen explicaciones y acusan al Gobierno de opacidad",
@@ -70,17 +48,11 @@
       "sourceId": "lootura-es-el-mundo"
     },
     {
-      "title": "Catalunya ante el espejo: del “España nos roba” a la amenaza del “califato”",
-      "url": "https://www.lavanguardia.com/politica/20260712/11589927/catalunya-espejo-espana-roba-amenaza-califato.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-12T04:00:00.000Z",
-      "sourceId": "lootura-es-la-vanguardia"
-    },
-    {
-      "title": "Sánchez decidirá tras el paréntesis de agosto el calendario del final de mandato",
-      "url": "https://www.lavanguardia.com/politica/20260712/11589988/sanchez-decidira-calendario-final-mandato-parentesis-agosto.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-12T04:00:00.000Z",
-      "sourceId": "lootura-es-la-vanguardia"
+      "title": "Inquietud en el PP tras los últimos tropiezos de Feijóo: “La sensación es que vamos improvisando”",
+      "url": "https://elpais.com/espana/2026-07-12/inquietud-en-el-pp-tras-los-ultimos-tropiezos-de-feijoo-la-sensacion-es-que-vamos-improvisando.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-12T03:30:01.000Z",
+      "sourceId": "lootura-es-el-pais"
     }
   ],
-  "evidenceCount": 5
+  "evidenceCount": 3
 }

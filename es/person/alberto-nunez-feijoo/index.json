@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/alberto-nunez-feijoo/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/alberto-nunez-feijoo/index.json",
   "description": "Sigue la actividad de Alberto Núñez Feijóo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-12T06:30:48.397Z",
+  "updatedAt": "2026-07-12T13:14:40.089Z",
   "aliases": [
     "Feijóo",
     "Núñez Feijóo"
@@ -20,22 +20,22 @@
       "date": "2026-07-12"
     },
     {
-      "title": "Discovered by Atlas",
-      "summary": "Alberto Núñez Feijóo first entered the public knowledge record with source-backed evidence.",
-      "date": "2026-07-11"
+      "title": "Inquietud en el PP tras los últimos tropiezos de Feijóo: “La sensación es que vamos improvisando”",
+      "summary": "Un estado de ánimo ciclotímico envuelve al PP en el final del curso político. Tras la euforia con la que los populares terminaron el periodo de sesiones, sacando adelante una votación no vinculante sobre la dimisión de Pedro Sánchez con los votos de Vox y de Junts, el clima interno ha cambiado completamente después de.",
+      "date": "2026-07-12"
     },
     {
-      "title": "El Gobierno valida la decisión de la Junta de no haber enviado un EsAlert: Bolaños y Feijóo huyen de la bronca y abogan por la coordinación",
-      "summary": "El ministro defiende que no se hubiera hecho uso de ese sistema porque este tipo de decisiones \"se adoptan desde criterios técnicos\" y él no puede \"ni desautorizarla y ni siquiera cuestionarla\" Leer.",
+      "title": "Discovered by Atlas",
+      "summary": "Alberto Núñez Feijóo first entered the public knowledge record with source-backed evidence.",
       "date": "2026-07-11"
     }
   ],
   "sources": [
     {
-      "title": "El Gobierno valida la decisión de la Junta de no haber enviado un EsAlert: Bolaños y Feijóo huyen de la bronca y abogan por la coordinación",
-      "url": "https://www.elmundo.es/espana/2026/07/11/6a5282fbe4d4d891358b4571.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-11T19:11:14.000Z",
-      "sourceId": "lootura-es-el-mundo"
+      "title": "Inquietud en el PP tras los últimos tropiezos de Feijóo: “La sensación es que vamos improvisando”",
+      "url": "https://elpais.com/espana/2026-07-12/inquietud-en-el-pp-tras-los-ultimos-tropiezos-de-feijoo-la-sensacion-es-que-vamos-improvisando.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-12T03:30:01.000Z",
+      "sourceId": "lootura-es-el-pais"
     },
     {
       "title": "La espiral xenófoba: así se han endurecido el discurso derechista y el clima social contra la inmigración",

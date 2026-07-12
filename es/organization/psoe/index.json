@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/psoe/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/psoe/index.json",
   "description": "Sigue la actividad de Partido Socialista Obrero Español en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-12T06:30:48.397Z",
+  "updatedAt": "2026-07-12T13:14:40.089Z",
   "aliases": [
     "Partido Socialista",
     "Partido Socialista Obrero Español"
   ],
   "changes": [
+    {
+      "title": "«Estoy convencido de que amañó el voto por correo»",
+      "summary": "El día en que la UCO detuvo a Leire Díez en un atasco en plena Castellana , el impacto llegó también a Vega de Pas , el municipio cántabro donde empezó la 'fontanera' del PSOE. Fue el 10 de diciembre de 2025. «Recuerdo perfectamente aquel día. Alguien del pueblo me avisó de que había 'mucho coche' en la cabaña que tien.",
+      "date": "2026-07-12"
+    },
     {
       "title": "Discovered by Atlas",
       "summary": "PSOE first entered the public knowledge record with source-backed evidence.",
@@ -22,10 +27,10 @@
   ],
   "sources": [
     {
-      "title": "Por qué el Gobierno alimenta la idea del 'lawfare' en la justicia: más de la mitad de votantes socialistas 'compran' la teoría",
-      "url": "https://www.20minutos.es/nacional/por-que-gobierno-alimenta-idea-lawfare-justicia-mas-mitad-los-votantes-socialistas-compran-teoria_7013237_0.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-12T06:04:18.000Z",
-      "sourceId": "lootura-es-20minutos"
+      "title": "«Estoy convencido de que amañó el voto por correo»",
+      "url": "https://www.abc.es/espana/cantabria/primera-cloaca-leire-diez-inicios-cantabria-convencido-20260712014041-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-12T11:43:46.000Z",
+      "sourceId": "lootura-es-abc"
     }
   ],
   "evidenceCount": 1

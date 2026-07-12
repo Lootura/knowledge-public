@@ -8,11 +8,29 @@
   "markdownUrl": "https://atlas.lootura.com/es/company/apple/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/company/apple/index.json",
   "description": "Sigue la actividad de Apple en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-12T02:31:58.650Z",
+  "updatedAt": "2026-07-12T13:14:40.089Z",
   "aliases": [
     "Apple Inc"
   ],
-  "changes": [],
-  "sources": [],
-  "evidenceCount": 0
+  "changes": [
+    {
+      "title": "Ni Quick Share, ni AirDrop: esta app para transferir archivos es gratis, multiplataforma y funciona mucho más rápido",
+      "summary": "Desde que se abrió la interoperabilidad entre Quick Share y AirDrop , muchos han celebrado disponer de una mayor versatilidad al momento de transferir archivos entre distintos dispositivos sin importar la marca o el sistema operativo. Sin embargo, las tecnologías de Google y Apple están lejos de ser las mejores al mome.",
+      "date": "2026-07-12"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Apple first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-07-10"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Ni Quick Share, ni AirDrop: esta app para transferir archivos es gratis, multiplataforma y funciona mucho más rápido",
+      "url": "https://hipertextual.com/software/blip-app-transferir-archivos/?utm_source=lootura.com",
+      "publishedAt": "2026-07-12T08:00:00.000Z",
+      "sourceId": "lootura-es-hipertextual"
+    }
+  ],
+  "evidenceCount": 1
 }

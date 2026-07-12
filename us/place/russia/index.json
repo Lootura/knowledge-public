@@ -8,9 +8,14 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/russia/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/russia/index.json",
   "description": "Follow Russia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-12T06:31:22.183Z",
+  "updatedAt": "2026-07-12T13:15:03.815Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "Tommy Robinson’s Musk-funded Russia trip spurs call to defend UK democracy",
+      "summary": "Ed Davey voices concern about the Musk family foundation taking the far-right activist on a visit to Moscow The UK must do more to defend its democracy after it emerged that Elon Musk’s family foundation had taken the far-right activist Tommy Robinson to Russia, Ed Davey has said. Robinson, whose real name is Stephen Y.",
+      "date": "2026-07-12"
+    },
     {
       "title": "How Putin Turned Japan Into a Den of Spies",
       "summary": "Operating out of a Tokyo high-rise, a military intelligence unit finds the high-tech equipment that Russia needs to wage war.",
@@ -24,11 +29,17 @@
   ],
   "sources": [
     {
+      "title": "Tommy Robinson’s Musk-funded Russia trip spurs call to defend UK democracy",
+      "url": "https://www.theguardian.com/politics/2026/jul/12/tommy-robinson-musk-russia-trip-defend-uk-democracy-ed-davey?utm_source=lootura.com",
+      "publishedAt": "2026-07-12T09:41:15.000Z",
+      "sourceId": "lootura-us-the-guardian-us"
+    },
+    {
       "title": "How Putin Turned Japan Into a Den of Spies",
       "url": "https://www.nytimes.com/2026/07/12/world/asia/russia-spies-japan-war-drones-electronics.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-12T04:01:11.000Z",
-      "sourceId": "lootura-us-the-new-york-times"
+      "publishedAt": "2026-07-12T12:14:21.000Z",
+      "sourceId": "lootura-us-the-new-york-times-world"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 2
 }

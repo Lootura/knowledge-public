@@ -10,25 +10,7 @@
   "description": "Follow Maine Senate, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
   "updatedAt": "2026-07-12T06:31:22.183Z",
   "aliases": [],
-  "changes": [
-    {
-      "title": "Discovered by Atlas",
-      "summary": "Maine Senate first entered the public knowledge record with source-backed evidence.",
-      "date": "2026-07-11"
-    },
-    {
-      "title": "Graham Platner officially withdraws from the Maine Senate race",
-      "summary": "Democrats have already set off a mad dash to find a new candidate, with a July 27 deadline to submit a replacement nominee to face Republican Sen. Susan Collins in the November election.",
-      "date": "2026-07-11"
-    }
-  ],
-  "sources": [
-    {
-      "title": "Graham Platner officially withdraws from the Maine Senate race",
-      "url": "https://www.nbcnews.com/politics/2026-election/graham-platner-officially-drops-maine-senate-race-rcna385842?utm_source=lootura.com",
-      "publishedAt": "2026-07-11T16:09:55.338Z",
-      "sourceId": "lootura-us-nbc-news-politics"
-    }
-  ],
-  "evidenceCount": 1
+  "changes": [],
+  "sources": [],
+  "evidenceCount": 0
 }
