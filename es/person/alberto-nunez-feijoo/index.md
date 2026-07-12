@@ -70,5 +70,4 @@ Date: 2026-07-11
 
 ## Fuentes
 
-- [Inquietud en el PP tras los últimos tropiezos de Feijóo: “La sensación es que vamos improvisando”](https://elpais.com/espana/2026-07-12/inquietud-en-el-pp-tras-los-ultimos-tropiezos-de-feijoo-la-sensacion-es-que-vamos-improvisando.html?utm_source=lootura.com) — 2026-07-12T03:30:01.000Z
-- [La espiral xenófoba: así se han endurecido el discurso derechista y el clima social contra la inmigración](https://elpais.com/espana/2026-07-12/la-espiral-xenofoba-asi-se-han-endurecido-el-discurso-derechista-y-el-clima-social-contra-la-inmigracion.html?utm_source=lootura.com) — 2026-07-12T03:30:01.000Z
+No public source links.

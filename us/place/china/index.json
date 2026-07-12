@@ -8,9 +8,14 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/china/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/china/index.json",
   "description": "Follow China, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-12T16:56:46.923Z",
+  "updatedAt": "2026-07-12T20:25:43.771Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "Graduating without a thesis: meet the people getting ‘practical’ PhDs in China",
+      "summary": "Nature, Published online: 09 July 2026; doi:10.1038/d41586-026-01242-z Nature spoke to three students from China’s first cohort of PhD candidates who are allowed to graduate with products instead of papers.",
+      "date": "2026-07-12"
+    },
     {
       "title": "Typhoon Bavi Hits China, Causing Evacuations, Floods and Flight Delays",
       "summary": "Typhoon Bavi made landfall in China after killing 17 in the Philippines, skirting Japan and hitting Taiwan. At its largest, the storm was about the width of France.",
@@ -55,19 +60,14 @@
       "title": "Factory Blaze in China’s ‘Shoe Capital’ Kills 28",
       "summary": "The country’s leader, Xi Jinping, called on the authorities to investigate the fire, the latest of several deadly workplace accidents in China this year.",
       "date": "2026-07-09"
-    },
-    {
-      "title": "39 killed in southern China flooding after days of heavy rain",
-      "summary": "Authorities in southern China say 39 people have died in flooding after days of heavy rainfall from a tropical storm.",
-      "date": "2026-07-09"
     }
   ],
   "sources": [
     {
-      "title": "Typhoon Bavi Hits China, Causing Evacuations, Floods and Flight Delays",
-      "url": "https://www.nytimes.com/2026/07/12/world/asia/typhoon-bavi-china.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-12T07:17:40.000Z",
-      "sourceId": "lootura-us-the-new-york-times-world"
+      "title": "Graduating without a thesis: meet the people getting ‘practical’ PhDs in China",
+      "url": "https://www.nature.com/articles/d41586-026-01242-z?utm_source=lootura.com",
+      "publishedAt": "2026-07-12T20:25:48.378Z",
+      "sourceId": "lootura-us-nature"
     }
   ],
   "evidenceCount": 1

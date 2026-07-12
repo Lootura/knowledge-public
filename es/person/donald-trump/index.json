@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/donald-trump/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/donald-trump/index.json",
   "description": "Sigue la actividad de Donald Trump en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-12T16:56:25.039Z",
+  "updatedAt": "2026-07-12T20:25:23.406Z",
   "aliases": [
     "President Donald Trump",
     "President Trump",
@@ -16,13 +16,13 @@
   ],
   "changes": [
     {
-      "title": "Muere el senador republicano Lindsey Graham, uno de los grandes aliados de Donald Trump",
-      "summary": "El senador republicano por Carolina del Sur Lindsey Graham , uno de los aliados más férreos del presidente Donald Trump , ha muerto este pasado sábado por la noche a los 71 años de edad como consecuencia de una « breve y repentina enfermedad », según ha informado su oficina en un comunicado publicado en redes sociales.",
+      "title": "Muere el senador republicano Lindsey Graham, el último 'gran halcón' de Washington",
+      "summary": "Principal impulsor de la guerra en Irán, defensor de Israel y de las sanciones a Moscú, se convirtió en uno de los principales asesores de Trump, al que había despreciado y criticado en el pasado Leer.",
       "date": "2026-07-12"
     },
     {
-      "title": "Muere el senador republicano Lindsey Graham, el último 'gran halcón' de Washington",
-      "summary": "Principal impulsor de la guerra en Irán, defensor de Israel y de las sanciones a Moscú, se convirtió en uno de los principales asesores de Trump, al que había despreciado y criticado en el pasado Leer.",
+      "title": "Muere el senador republicano Lindsey Graham, uno de los grandes aliados de Donald Trump",
+      "summary": "El senador republicano por Carolina del Sur Lindsey Graham , uno de los aliados más férreos del presidente Donald Trump , ha muerto este pasado sábado por la noche a los 71 años de edad como consecuencia de una « breve y repentina enfermedad », según ha informado su oficina en un comunicado publicado en redes sociales.",
       "date": "2026-07-12"
     },
     {
@@ -72,13 +72,7 @@
       "url": "https://www.elmundo.es/internacional/2026/07/12/6a533d57e85ece547c8b458b.html?utm_source=lootura.com",
       "publishedAt": "2026-07-12T14:55:24.000Z",
       "sourceId": "lootura-es-el-mundo"
-    },
-    {
-      "title": "Muere el senador republicano Lindsey Graham, uno de los grandes aliados de Donald Trump",
-      "url": "https://theobjective.com/internacional/2026-07-12/lindsey-graham-muerte-donald-trump/?utm_source=lootura.com",
-      "publishedAt": "2026-07-12T07:12:47.000Z",
-      "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

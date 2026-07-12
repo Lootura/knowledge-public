@@ -3,7 +3,7 @@
 > Follow Venezuela, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-12T16:56:46.923Z
+- Updated: 2026-07-12T20:25:43.771Z
 - Canonical: https://atlas.lootura.com/us/place/venezuela
 
 ## Recent changes

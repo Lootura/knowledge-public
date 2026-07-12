@@ -3,7 +3,7 @@
 > Sigue la actividad de Partido Socialista Obrero Español en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-12T13:14:40.089Z
+- Actualizado: 2026-07-12T20:25:23.406Z
 - Canonical: https://atlas.lootura.com/es/organization/psoe
 
 ## Cambios recientes
@@ -70,4 +70,4 @@ Date: 2026-07-10
 
 ## Fuentes
 
-No public source links.
+- [PSOE y Podemos cargan contra el «racismo» de Rajoy: «Avergüenza a España»](https://theobjective.com/espana/politica/2026-07-12/psoe-podemos-racismo-rajoy/?utm_source=lootura.com) — 2026-07-12T17:14:16.000Z

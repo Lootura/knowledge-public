@@ -8,11 +8,16 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/belgium/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/belgium/index.json",
   "description": "Sigue la actividad de Bélgica en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-12T06:30:48.397Z",
+  "updatedAt": "2026-07-12T20:25:23.406Z",
   "aliases": [
     "Belgica"
   ],
   "changes": [
+    {
+      "title": "Bélgica apunta a tres posibles víctimas belgas entre los fallecidos en el incendio de Los Gallardos",
+      "summary": "El Gobierno de Bélgica apunta a tres posibles víctimas de nacionalidad belga entre los fallecidos en el incendio de Los Gallardos (Almería) tras no lograr contactar con ellas, si bien ha recordado que aún no hay confirmación oficial por parte de las autoridades españolas y que ésta podría tardar unos días. Según ha inf.",
+      "date": "2026-07-12"
+    },
     {
       "title": "Albares, en contacto con Reino Unido y Bélgica por los afectados del incendio de Almería",
       "summary": "El ministro de Asuntos Exteriores, José Manuel Albares , ha intercambiado información con sus homólogos del Reino Unido y Bélgica sobre la situación de los ciudadanos de esos países afectados por el incendio de Los Gallardos ( Almería ), que ha dejado ya doce víctimas mortales y 6.600 hectáreas calcinadas . Agradezco t.",
@@ -57,13 +62,15 @@
       "title": "Borja Iglesias: \"Lloré al leer el mensaje de Claudio Giráldez tras debutar con España\"",
       "summary": "Borja Iglesias atendió a los medios de comunicación en la previa del encuentro que enfrentará a España y Bélgica.",
       "date": "2026-07-09"
-    },
-    {
-      "title": "Un revólver y seis balas: el inesperado regalo de Erdogan a los líderes europeos",
-      "summary": "Cuando el primer ministro de Bélgica, Bart de Wever, aterrizó en Bruselas tras finalizar la cumbre de la OTAN en Ankara (Turquía) el miércoles se dio cuenta de que, entre su equipaje, había una caja con un revólver y seis balas . Se trataba de un regalo del presidente turco, Recep Tayyip Erdogan, que no había sido dete.",
-      "date": "2026-07-09"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Bélgica apunta a tres posibles víctimas belgas entre los fallecidos en el incendio de Los Gallardos",
+      "url": "https://www.20minutos.es/andalucia/almeria/belgica-apunta-posibles-victimas-belgas-entre-fallecidos-incendio-gallardos_7013723_0.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-12T18:44:30.000Z",
+      "sourceId": "lootura-es-20minutos"
+    }
+  ],
+  "evidenceCount": 1
 }

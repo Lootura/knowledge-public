@@ -3,7 +3,7 @@
 > Sigue la actividad de FIFA en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-12T02:31:58.650Z
+- Actualizado: 2026-07-12T20:25:23.406Z
 - Canonical: https://atlas.lootura.com/es/organization/fifa
 
 ## Cambios recientes
@@ -22,4 +22,4 @@ Date: 2026-07-08
 
 ## Fuentes
 
-No public source links.
+- [Infantino admite que la FIFA "debatirá" la opción de ampliar el Mundial a 64 equipos](https://okdiario.com/mundial/infantino-admite-que-fifa-debatira-opcion-ampliar-mundial-64-equipos-18981621/amp?utm_source=lootura.com) — 2026-07-12T19:43:02.000Z

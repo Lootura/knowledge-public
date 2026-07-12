@@ -3,10 +3,16 @@
 > Sigue la actividad de Estados Unidos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-12T13:14:40.089Z
+- Actualizado: 2026-07-12T20:25:23.406Z
 - Canonical: https://atlas.lootura.com/es/place/united-states
 
 ## Cambios recientes
+
+### Irán subraya que el tráfico por Ormuz está detenido por «movimientos ilegales de EEUU»
+
+Las autoridades iraníes han subrayado este domingo que el tráfico por el estrecho de Ormuz se encuentra suspendido provisionalmente, una información que contrasta con la que procede de Estados Unidos , que sostiene que el tráfico «fluye con normalidad». «Debido a los recientes movimientos ilegales de fuerzas militares.
+
+Date: 2026-07-12
 
 ### “Trump se ha obsesionado con la idea de que Estados Unidos reclame nuevos territorios”: Daniel Immerwahr
 
@@ -62,12 +68,6 @@ Algunos países están creando grandes obras de ingeniería para recolectar agua
 
 Date: 2026-07-11
 
-### El árbol gallego que ya era centenario cuando Colón llegó a América y todavía sigue creciendo
-
-Mucho antes de que Cristóbal Colón emprendiera su viaje hacia América, de que existieran los Reyes Católicos o de que Galicia comenzara a parecerse a la comunidad actual, un árbol ya extendía sus ramas en una pequeña ladera de la provincia de Ourense. Hoy, más de mil años después según algunas estimaciones, ese gigante.
-
-Date: 2026-07-11
-
 ## Fuentes
 
-No public source links.
+- [Irán subraya que el tráfico por Ormuz está detenido por «movimientos ilegales de EEUU»](https://theobjective.com/internacional/2026-07-12/iran-ormuz-movimientos-ilegales-eeuu/?utm_source=lootura.com) — 2026-07-12T17:38:51.000Z

@@ -70,4 +70,4 @@ Date: 2026-07-10
 
 ## Sources
 
-- [Maine Democrats Will Replace Graham Platner. Here’s What to Know.](https://www.nytimes.com/2026/07/11/us/politics/maine-senate-nomination-democrats-convention.html?utm_source=lootura.com) — 2026-07-12T02:19:48.000Z
+No public source links.

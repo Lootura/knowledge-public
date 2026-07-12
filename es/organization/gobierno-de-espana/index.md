@@ -3,7 +3,7 @@
 > Sigue la actividad de Gobierno de España en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-12T16:56:25.039Z
+- Actualizado: 2026-07-12T20:25:23.406Z
 - Canonical: https://atlas.lootura.com/es/organization/gobierno-de-espana
 
 ## Cambios recientes
@@ -11,6 +11,12 @@
 ### Francia carga contra Rajoy por decir que su selección es de «altísimo nivel, sin franceses»
 
 El ministro francés del Interior, Laurent Nuñez, ha calificado este domingo de «absolutamente inaceptables» las declaraciones del expresidente del Gobierno español Mariano Rajoy , quien aseguró en una columna de opinión que la selección francesa de fútbol tiene «un altísimo nivel, eso sí, sin franceses». «Si esa declar.
+
+Date: 2026-07-12
+
+### Francia ve «absolutamente inaceptables» las palabras de Rajoy sobre su selección
+
+El expresidente del Gobierno español Mariano Rajoy ha suscitado este domingo una ola de críticas en Francia. Varios miembros del Ejecutivo de Sébastien Lecornu han tachado de «racista» e «inaceptable» el comentario del exjefe del Ejecutivo español (2011-2018) sobre la selección francesa , que se enfrentará el martes a.
 
 Date: 2026-07-12
 
@@ -62,12 +68,7 @@ Se dan golpes. Protagonizan patadas voladoras. Saltan para aplastar al oponente.
 
 Date: 2026-07-08
 
-### Última hora de la cumbre de la OTAN, en Ankara, en directo | Sánchez comparece en Ankara tras la cumbre de la OTAN
-
-El presidente del Gobierno español, Pedro Sánchez, comparece este miércoles desde Ankara tras la cumbre anual de la OTAN. Durante la mañana, el presidente de EE UU, Donald Trump, se ha vuelto a despachar contra sus socios europeos de la Alianza y ha afirmado que ha ordenado a su Departamento de Comercio que corte todo.
-
-Date: 2026-07-08
-
 ## Fuentes
 
+- [Francia ve «absolutamente inaceptables» las palabras de Rajoy sobre su selección](https://www.abc.es/deportes/futbol/mundial/francia-considera-absolutamente-inaceptables-palabras-rajoy-sobre-20260712171513-nt.html?utm_source=lootura.com) — 2026-07-12T18:00:55.000Z
 - [Francia carga contra Rajoy por decir que su selección es de «altísimo nivel, sin franceses»](https://theobjective.com/internacional/2026-07-12/francia-rajoy-seleccion-nivel-sin-franceses/?utm_source=lootura.com) — 2026-07-12T13:33:19.000Z

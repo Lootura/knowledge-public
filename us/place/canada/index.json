@@ -8,9 +8,19 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/canada/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/canada/index.json",
   "description": "Follow Canada, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-12T16:56:46.923Z",
+  "updatedAt": "2026-07-12T20:25:43.771Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "Toronto police looking for suspects after deadly shooting at festival",
+      "summary": "At least two people are dead and at least four people are injured after a shooting on Saturday night at a festival celebrating Latin culture in Canada's biggest city. (Image credit: Keito Newman).",
+      "date": "2026-07-12"
+    },
+    {
+      "title": "Climate change leaves northern tree swallows more vulnerable those in the southern US",
+      "summary": "Tree swallows in the northern U.S. and Canada face the greatest risk from climate change despite responding to temperature the same way as tree swallows in the southern U.S., according to a new study led by Cornell researchers that analyzed nearly 95,000 nests across five decades. The findings, published in Proceedings.",
+      "date": "2026-07-12"
+    },
     {
       "title": "At least 2 killed in shooting at Toronto street festival, police say",
       "summary": "At least two people were killed and several more wounded in a shooting Saturday evening at a street festival in Toronto, Canada, authorities said.",
@@ -50,25 +60,20 @@
       "title": "After Being Delayed by Trump, a Canada-U.S. Bridge is Set to Open",
       "summary": "A deal ended the Trump administration’s blocking of a new bridge that will ease congestion at the busiest trade corridor between the United States and Canada.",
       "date": "2026-07-11"
-    },
-    {
-      "title": "Trump Tried to Block Canada’s New Bridge to Detroit. It’s Opening Anyway.",
-      "summary": "A deal ended the Trump administration’s blocking of a new bridge that will ease congestion at the busiest trade corridor between the United States and Canada.",
-      "date": "2026-07-11"
     }
   ],
   "sources": [
     {
-      "title": "The 2026 FIFA World Cup schedule and how to watch",
-      "url": "https://www.cbsnews.com/news/world-cup-2026-schedule-how-to-watch/?utm_source=lootura.com",
-      "publishedAt": "2026-07-12T03:48:04.000Z",
-      "sourceId": "lootura-us-cbs-news"
+      "title": "Toronto police looking for suspects after deadly shooting at festival",
+      "url": "https://www.npr.org/2026/07/12/g-s1-133229/toronto-shooting-salsa-festival?utm_source=lootura.com",
+      "publishedAt": "2026-07-12T17:22:29.000Z",
+      "sourceId": "lootura-us-npr-world"
     },
     {
-      "title": "At least 2 killed in shooting at Toronto street festival, police say",
-      "url": "https://www.cbsnews.com/news/deadly-shooting-toronto-street-festival/?utm_source=lootura.com",
-      "publishedAt": "2026-07-12T03:33:20.000Z",
-      "sourceId": "lootura-us-cbs-news"
+      "title": "Climate change leaves northern tree swallows more vulnerable those in the southern US",
+      "url": "https://phys.org/news/2026-07-climate-northern-tree-swallows-vulnerable.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-12T19:00:01.000Z",
+      "sourceId": "lootura-us-phys-org"
     }
   ],
   "evidenceCount": 2

@@ -70,5 +70,4 @@ Date: 2026-07-10
 
 ## Sources
 
-- [Ro Khanna says he regrets his endorsement of Graham Platner: ‘I got that call wrong’](https://www.nbcnews.com/meet-the-press/video/ro-khanna-says-he-regrets-his-endorsement-of-graham-platner-i-got-that-call-wrong-266560581731?utm_source=lootura.com) — 2026-07-12T13:48:37.000Z
-- [Maine Democrats Will Replace Graham Platner. Here’s What to Know.](https://www.nytimes.com/2026/07/11/us/politics/maine-senate-nomination-democrats-convention.html?utm_source=lootura.com) — 2026-07-12T02:19:48.000Z
+No public source links.

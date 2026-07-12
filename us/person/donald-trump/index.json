@@ -8,18 +8,13 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/donald-trump/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/donald-trump/index.json",
   "description": "Follow Donald Trump, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-12T16:56:46.923Z",
+  "updatedAt": "2026-07-12T20:25:43.771Z",
   "aliases": [
     "President Donald Trump",
     "President Trump",
     "Trump"
   ],
   "changes": [
-    {
-      "title": "NATO spending pressure returned",
-      "summary": "NBC’s Kristen Welker joins Willie Geist to remember senator Lindsey Graham who has died at 71. Kristen discusses Sen. Graham’s long road through South Carolina and in Washington, his role as one of President Donald Trump’s staunchest allies and his advocacy for a more robust military response to Iran. “What a shocking.",
-      "date": "2026-07-12"
-    },
     {
       "title": "A Bible passage is at the center of a debate over how the U.S. should treat immigrants",
       "summary": "A debate over the Bible verse Matthew 25 is pitting mainline pastors, Black protestants and the pope against evangelical politicians put on the defensive over President Trump's policies.",
@@ -41,8 +36,8 @@
       "date": "2026-07-12"
     },
     {
-      "title": "Trump remembers his last call with Lindsey Graham the night before his death: Full interview",
-      "summary": "In an exclusive interview with Meet the Press, President Donald Trump reacts to the death of Sen. Lindsey Graham (R-S.C.).",
+      "title": "Sen. Lindsey Graham of South Carolina, Trump ally and foreign policy hawk, dies at 71",
+      "summary": "His office said Graham died Saturday night after a \"brief and sudden illness.\" The Republican senator was instrumental in enacting Trump's policy and staffing priorities. (Image credit: Jeffrey Collins).",
       "date": "2026-07-12"
     },
     {
@@ -51,45 +46,38 @@
       "date": "2026-07-12"
     },
     {
-      "title": "Sen. Lindsey Graham of South Carolina, Trump ally and foreign policy hawk, dies at 71",
-      "summary": "His office said Graham died Saturday night after a \"brief and sudden illness.\" The Republican senator was instrumental in enacting Trump's policy and staffing priorities. (Image credit: Jeffrey Collins).",
+      "title": "From staunch critic to fierce ally: Graham's long, strange and consequential friendship with Trump",
+      "summary": "After the Capitol riot on Jan. 6, 2021, Sen. Lindsey Graham said he had finally had enough of the man who was championed by the mob that stormed the pillar of American democracy: President Donald Trump.",
       "date": "2026-07-12"
     },
     {
-      "title": "Trump Mourns Graham as ‘Great Politician’ and ‘Member of the Family’",
+      "title": "Texas Hispanics swung hard to Trump. A new poll shows they’re furious at his deportations.",
+      "summary": "Benny Melendez voted for President Donald Trump in 2024. But since Trump returned to the White House, it has been increasingly difficult for Melendez to run his small construction company in south Texas. He says immigration officers have detained workers at his job sites and while driving his company trucks. Since the.",
+      "date": "2026-07-12"
+    },
+    {
+      "title": "‘The fiercest of fighters’: Lindsey Graham remembered by politicians and foreign leaders after sudden death",
+      "summary": "Trump says US senator was ‘a true American patriot’ while Zelenskyy says he’s ‘deeply saddened’ by his death Graham’s death triggers a scramble to replace him – what happens next? Lindsey Graham dies after sudden illness aged 71 Washington woke up to the unexpected death of Republican senator Lindsey Graham , 71, who c.",
+      "date": "2026-07-12"
+    },
+    {
+      "title": "Trump Recalls Last Conversation With Lindsey Graham Before His Death",
       "summary": "In an interview on Sunday, President Trump recounted his last conversation with Senator Lindsey Graham, hours before his death. Mr. Graham sounded “perfect,” he said.",
-      "date": "2026-07-12"
-    },
-    {
-      "title": "'America and the world have lost a determined leader': Tributes pour in after Sen Lindsey Graham's death",
-      "summary": "Tributes poured in Sunday from President Donald Trump , congressional leaders and foreign allies after Sen. Lindsey Graham, R-S.C., died at 71 following what his office described as a \"brief and sudden illness,\" bringing to an end the career of one of the Senate's most influential Republican voices. The South Carolina.",
       "date": "2026-07-12"
     }
   ],
   "sources": [
     {
-      "title": "Bipartisan housing bill becomes law after Trump refuses to sign it",
-      "url": "https://www.cbsnews.com/news/housing-bill-becomes-law-trump-sign/?utm_source=lootura.com",
-      "publishedAt": "2026-07-12T01:06:41.000Z",
+      "title": "Retired Gen. Frank McKenzie on the Trump administration's options with Iran",
+      "url": "https://www.cbsnews.com/video/retired-gen-frank-mckenzie-on-the-trump-administrations-options-with-iran/?utm_source=lootura.com",
+      "publishedAt": "2026-07-12T16:05:40.000Z",
       "sourceId": "lootura-us-cbs-news"
-    },
-    {
-      "title": "Trump remembers his last call with Lindsey Graham the night before his death: Full interview",
-      "url": "https://www.nbcnews.com/meet-the-press/video/trump-remembers-his-last-call-with-lindsey-graham-the-night-before-his-death-full-interview-266560581571?utm_source=lootura.com",
-      "publishedAt": "2026-07-12T13:18:04.000Z",
-      "sourceId": "lootura-us-nbc-news"
     },
     {
       "title": "Trump says ‘I have somebody that I like’ to succeed Lindsey Graham but ‘too soon’ to say who",
       "url": "https://www.nbcnews.com/meet-the-press/video/trump-says-i-have-somebody-that-i-like-to-succeed-lindsey-graham-but-too-soon-to-say-who-266560069560?utm_source=lootura.com",
       "publishedAt": "2026-07-12T13:24:37.000Z",
-      "sourceId": "lootura-us-nbc-news-politics"
-    },
-    {
-      "title": "Kristen Welker Remembers Sen. Lindsey Graham’s Legacy",
-      "url": "https://www.today.com/video/kristen-welker-remembers-sen-lindsey-graham-s-legacy-266556485838?utm_source=lootura.com",
-      "publishedAt": "2026-07-12T11:47:53.000Z",
-      "sourceId": "lootura-us-nbc-news-politics"
+      "sourceId": "lootura-us-nbc-news"
     },
     {
       "title": "A Bible passage is at the center of a debate over how the U.S. should treat immigrants",
@@ -122,10 +110,22 @@
       "sourceId": "lootura-us-npr-politics"
     },
     {
-      "title": "Trump Mourns Graham as ‘Great Politician’ and ‘Member of the Family’",
-      "url": "https://www.nytimes.com/2026/07/12/us/politics/donald-trump-lindsey-graham-death-interview.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-12T16:37:27.000Z",
-      "sourceId": "lootura-us-the-new-york-times-politics"
+      "title": "From staunch critic to fierce ally: Graham's long, strange and consequential friendship with Trump",
+      "url": "https://www.pbs.org/newshour/politics/from-staunch-critic-to-fierce-ally-grahams-long-strange-and-consequential-friendship-with-trump?utm_source=lootura.com",
+      "publishedAt": "2026-07-12T19:45:01.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
+    },
+    {
+      "title": "Texas Hispanics swung hard to Trump. A new poll shows they’re furious at his deportations.",
+      "url": "https://www.politico.com/news/2026/07/12/trumps-deportation-drive-tests-gop-gains-in-texas-00993955?utm_source=lootura.com",
+      "publishedAt": "2026-07-12T18:00:00.000Z",
+      "sourceId": "lootura-us-politico"
+    },
+    {
+      "title": "‘The fiercest of fighters’: Lindsey Graham remembered by politicians and foreign leaders after sudden death",
+      "url": "https://www.theguardian.com/us-news/2026/jul/12/lindsey-graham-death-tributes?utm_source=lootura.com",
+      "publishedAt": "2026-07-12T19:41:37.000Z",
+      "sourceId": "lootura-us-the-guardian-us"
     }
   ],
   "evidenceCount": 11

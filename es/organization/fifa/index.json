@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/fifa/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/fifa/index.json",
   "description": "Sigue la actividad de FIFA en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-12T02:31:58.650Z",
+  "updatedAt": "2026-07-12T20:25:23.406Z",
   "aliases": [],
   "changes": [
     {
@@ -22,6 +22,13 @@
       "date": "2026-07-08"
     }
   ],
-  "sources": [],
+  "sources": [
+    {
+      "title": "Infantino admite que la FIFA \"debatirá\" la opción de ampliar el Mundial a 64 equipos",
+      "url": "https://okdiario.com/mundial/infantino-admite-que-fifa-debatira-opcion-ampliar-mundial-64-equipos-18981621/amp?utm_source=lootura.com",
+      "publishedAt": "2026-07-12T19:43:02.000Z",
+      "sourceId": "lootura-es-ok-diario"
+    }
+  ],
   "evidenceCount": 0
 }

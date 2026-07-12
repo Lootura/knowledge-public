@@ -3,10 +3,16 @@
 > Sigue la actividad de Bélgica en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-12T06:30:48.397Z
+- Actualizado: 2026-07-12T20:25:23.406Z
 - Canonical: https://atlas.lootura.com/es/place/belgium
 
 ## Cambios recientes
+
+### Bélgica apunta a tres posibles víctimas belgas entre los fallecidos en el incendio de Los Gallardos
+
+El Gobierno de Bélgica apunta a tres posibles víctimas de nacionalidad belga entre los fallecidos en el incendio de Los Gallardos (Almería) tras no lograr contactar con ellas, si bien ha recordado que aún no hay confirmación oficial por parte de las autoridades españolas y que ésta podría tardar unos días. Según ha inf.
+
+Date: 2026-07-12
 
 ### Albares, en contacto con Reino Unido y Bélgica por los afectados del incendio de Almería
 
@@ -62,12 +68,6 @@ Borja Iglesias atendió a los medios de comunicación en la previa del encuentro
 
 Date: 2026-07-09
 
-### Un revólver y seis balas: el inesperado regalo de Erdogan a los líderes europeos
-
-Cuando el primer ministro de Bélgica, Bart de Wever, aterrizó en Bruselas tras finalizar la cumbre de la OTAN en Ankara (Turquía) el miércoles se dio cuenta de que, entre su equipaje, había una caja con un revólver y seis balas . Se trataba de un regalo del presidente turco, Recep Tayyip Erdogan, que no había sido dete.
-
-Date: 2026-07-09
-
 ## Fuentes
 
-No public source links.
+- [Bélgica apunta a tres posibles víctimas belgas entre los fallecidos en el incendio de Los Gallardos](https://www.20minutos.es/andalucia/almeria/belgica-apunta-posibles-victimas-belgas-entre-fallecidos-incendio-gallardos_7013723_0.html?utm_source=lootura.com) — 2026-07-12T18:44:30.000Z

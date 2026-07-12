@@ -3,10 +3,16 @@
 > Sigue la actividad de Barcelona en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-12T13:14:40.089Z
+- Actualizado: 2026-07-12T20:25:23.406Z
 - Canonical: https://atlas.lootura.com/es/place/barcelona
 
 ## Cambios recientes
+
+### La tercera marcha de Flick arranca en Barcelona con una obsesión
+
+El Barcelona arranca la temporada 26/27 este lunes , 13 de julio, a las 9:00 horas en la Ciudad Deportiva Joan Gamper sin los internacionales. El tercer curso de Hansi Flick al frente del equipo blaugrana se pone en marcha con la obsesión de poder ganar la Champions League más de diez años después. Vuelve el Barça al t.
+
+Date: 2026-07-12
 
 ### El Patio Chico acogerá esta semana el IX Festival Internacional de Jazz, organizado por el Ayuntamiento de Salamanca
 
@@ -62,12 +68,6 @@ Entre la pizarra de Luis de la Fuente y el olfato goleador de Mikel Merino , apa
 
 Date: 2026-07-10
 
-### Muere a los 85 años el urbanista Jordi Borja, impulsor de la transformación de Barcelona
-
-El geógrafo , urbanista y político Jordi Borja, considerado uno de los referentes del urbanismo barcelonés y conocido por su pensamiento crítico y su compromiso con la ciudad de Barcelona , cuya transformación y descentralización impulsó junto al alcalde Pasqual Maragall, ha fallecido a los 85 años. « El urbanismo barc.
-
-Date: 2026-07-10
-
 ## Fuentes
 
-No public source links.
+- [La tercera marcha de Flick arranca en Barcelona con una obsesión](https://okdiario.com/deportes/tercera-marcha-flick-arranca-barcelona-obsesion-18981229?utm_source=lootura.com) — 2026-07-12T18:00:03.000Z

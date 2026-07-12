@@ -3,7 +3,7 @@
 > Sigue la actividad de Iran en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-12T16:56:25.039Z
+- Actualizado: 2026-07-12T20:25:23.406Z
 - Canonical: https://atlas.lootura.com/es/place/iran
 
 ## Cambios recientes
@@ -11,6 +11,12 @@
 ### Muere el senador republicano Lindsey Graham, el último 'gran halcón' de Washington
 
 Principal impulsor de la guerra en Irán, defensor de Israel y de las sanciones a Moscú, se convirtió en uno de los principales asesores de Trump, al que había despreciado y criticado en el pasado Leer.
+
+Date: 2026-07-12
+
+### Irán subraya que el tráfico por Ormuz está detenido por «movimientos ilegales de EEUU»
+
+Las autoridades iraníes han subrayado este domingo que el tráfico por el estrecho de Ormuz se encuentra suspendido provisionalmente, una información que contrasta con la que procede de Estados Unidos , que sostiene que el tráfico «fluye con normalidad». «Debido a los recientes movimientos ilegales de fuerzas militares.
 
 Date: 2026-07-12
 
@@ -62,12 +68,7 @@ El presidente estadounidense, Donald Trump , ha asegurado que cuenta con hasta u
 
 Date: 2026-07-11
 
-### Roberto Brasero y la AEMET confirman lluvias y granizo en España éste sábado: «Chubascos y tormentas fuertes»
-
-El tiempo cambiará considerablemente este sábado en gran parte del país. Roberto Brasero y la Agencia Estatal de Meteorología (AEMET) señalan que la entrada de un embolsamiento de aire frío sobre la Península traerá consigo la aparición de chubascos y tormentas fuertes . En algunos puntos, estas tormentas irán acompaña.
-
-Date: 2026-07-11
-
 ## Fuentes
 
 - [Muere el senador republicano Lindsey Graham, el último 'gran halcón' de Washington](https://www.elmundo.es/internacional/2026/07/12/6a533d57e85ece547c8b458b.html?utm_source=lootura.com) — 2026-07-12T14:55:24.000Z
+- [Irán subraya que el tráfico por Ormuz está detenido por «movimientos ilegales de EEUU»](https://theobjective.com/internacional/2026-07-12/iran-ormuz-movimientos-ilegales-eeuu/?utm_source=lootura.com) — 2026-07-12T17:38:51.000Z

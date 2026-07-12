@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/iran/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/iran/index.json",
   "description": "Sigue la actividad de Iran en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-12T16:56:25.039Z",
+  "updatedAt": "2026-07-12T20:25:23.406Z",
   "aliases": [],
   "changes": [
     {
       "title": "Muere el senador republicano Lindsey Graham, el último 'gran halcón' de Washington",
       "summary": "Principal impulsor de la guerra en Irán, defensor de Israel y de las sanciones a Moscú, se convirtió en uno de los principales asesores de Trump, al que había despreciado y criticado en el pasado Leer.",
+      "date": "2026-07-12"
+    },
+    {
+      "title": "Irán subraya que el tráfico por Ormuz está detenido por «movimientos ilegales de EEUU»",
+      "summary": "Las autoridades iraníes han subrayado este domingo que el tráfico por el estrecho de Ormuz se encuentra suspendido provisionalmente, una información que contrasta con la que procede de Estados Unidos , que sostiene que el tráfico «fluye con normalidad». «Debido a los recientes movimientos ilegales de fuerzas militares.",
       "date": "2026-07-12"
     },
     {
@@ -55,11 +60,6 @@
       "title": "Trump asegura que hay «mil misiles listos» para atacar Irán si cumple su amenaza de muerte",
       "summary": "El presidente estadounidense, Donald Trump , ha asegurado que cuenta con hasta un millar de proyectiles listos para cargar contra Irán en caso de que las autoridades de la República Islámica cumplan con sus advertencias y atenten contra la vida del mandatario, en un contexto de renovada tensión en el que Teherán ha acu.",
       "date": "2026-07-11"
-    },
-    {
-      "title": "Roberto Brasero y la AEMET confirman lluvias y granizo en España éste sábado: «Chubascos y tormentas fuertes»",
-      "summary": "El tiempo cambiará considerablemente este sábado en gran parte del país. Roberto Brasero y la Agencia Estatal de Meteorología (AEMET) señalan que la entrada de un embolsamiento de aire frío sobre la Península traerá consigo la aparición de chubascos y tormentas fuertes . En algunos puntos, estas tormentas irán acompaña.",
-      "date": "2026-07-11"
     }
   ],
   "sources": [
@@ -68,7 +68,13 @@
       "url": "https://www.elmundo.es/internacional/2026/07/12/6a533d57e85ece547c8b458b.html?utm_source=lootura.com",
       "publishedAt": "2026-07-12T14:55:24.000Z",
       "sourceId": "lootura-es-el-mundo"
+    },
+    {
+      "title": "Irán subraya que el tráfico por Ormuz está detenido por «movimientos ilegales de EEUU»",
+      "url": "https://theobjective.com/internacional/2026-07-12/iran-ormuz-movimientos-ilegales-eeuu/?utm_source=lootura.com",
+      "publishedAt": "2026-07-12T17:38:51.000Z",
+      "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 2
 }

@@ -3,10 +3,16 @@
 > Sigue la actividad de Madrid en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-12T16:56:25.039Z
+- Actualizado: 2026-07-12T20:25:23.406Z
 - Canonical: https://atlas.lootura.com/es/place/madrid
 
 ## Cambios recientes
+
+### El pantano de San Juan suma otra víctima: hallan el cadáver de un joven de 28 años en una zona de gran profundidad
+
+Nueva tragedia en el pantano de San Juan . Un joven peruano de 28 años ha fallecido este domingo mientras se bañaba en el principal embalse de la Comunidad de Madrid, un suceso que devuelve la atención sobre los riesgos que entrañan las presas. La alerta llegó, según ha informado un portavoz del Summa 112, a las 8.55 h.
+
+Date: 2026-07-12
 
 ### Muere ahogado un joven en el Pantano de San Juan (Madrid)
 
@@ -62,12 +68,6 @@ La previsión de la Agencia Estatal de Meteorología (Aemet) en la Comunidad de 
 
 Date: 2026-07-12
 
-### Arte, naturaleza y entrada gratis: el museo del centro de Madrid que se convierte en el plan estrella del verano
-
-Ahora que estamos en pleno mes de julio, y además con la ola de calor y las altas temperaturas, los planes en Madrid deben elegirse bien. Se requiere que sean más tranquilos y sobre todo, que nos permitan escapar del calor durante unas horas. Pero no todo pasa por terrazas, piscinas o escapadas fuera de la ciudad sino.
-
-Date: 2026-07-12
-
 ## Fuentes
 
-- [Muere ahogado un joven en el Pantano de San Juan (Madrid)](https://www.larazon.es/madrid/muere-ahogado-joven-pantano-san-juan-madrid_202607126a539097772f745d2c43a585.html?utm_source=lootura.com) — 2026-07-12T13:03:19.000Z
+- [El pantano de San Juan suma otra víctima: hallan el cadáver de un joven de 28 años en una zona de gran profundidad](https://www.abc.es/espana/madrid/pantano-san-juan-suma-victima-encuentran-cadaver-20260712184302-nt.html?utm_source=lootura.com) — 2026-07-12T17:33:30.000Z

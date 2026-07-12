@@ -52,4 +52,4 @@ Date: 2026-07-09
 
 ## Sources
 
-- [Stephen Miller is outraged over birthright citizenship. His arguments are nonsense | Sidney Blumenthal](https://www.theguardian.com/commentisfree/2026/jul/12/stephen-miller-birthright-citizenship-arguments?utm_source=lootura.com) — 2026-07-12T10:00:15.000Z
+No public source links.

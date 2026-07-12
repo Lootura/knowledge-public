@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/partido-popular/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/partido-popular/index.json",
   "description": "Sigue la actividad de Partido Popular en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-12T16:56:25.039Z",
+  "updatedAt": "2026-07-12T20:25:23.406Z",
   "aliases": [
     "PP"
   ],
@@ -16,11 +16,6 @@
     {
       "title": "El PP se compromete en Ermua a aclarar los 376 crímenes impunes de ETA frente a la \"indignidad\" del sanchismo con EH Bildu",
       "summary": "\"El precio que ha pagado Sánchez es el de presos por votos\", denuncia la vicesecrataria general del PP Cuca Gamarra en el 29 homenaje a Blanco. Leer.",
-      "date": "2026-07-12"
-    },
-    {
-      "title": "Inquietud en el PP tras los últimos tropiezos de Feijóo: “La sensación es que vamos improvisando”",
-      "summary": "Un estado de ánimo ciclotímico envuelve al PP en el final del curso político. Tras la euforia con la que los populares terminaron el periodo de sesiones, sacando adelante una votación no vinculante sobre la dimisión de Pedro Sánchez con los votos de Vox y de Junts, el clima interno ha cambiado completamente después de.",
       "date": "2026-07-12"
     },
     {
@@ -36,6 +31,11 @@
     {
       "title": "Marimar Blanco carga contra Sánchez en el aniversario del asesinato de su hermano Miguel Ángel: «Han elegido ponerse al lado de los verdugos»",
       "summary": "El Partido Popular ha anunciado este domingo, durante el homenaje a Miguel Ángel Blanco en Ermua, su compromiso de reformar la ley penitenciaria para impedir beneficios a condenados por terrorismo que no colaboren con la justicia ni muestren arrepentimiento. En el acto, celebrado 29 años después del asesinato del conce.",
+      "date": "2026-07-12"
+    },
+    {
+      "title": "Inquietud en el PP tras los últimos tropiezos de Feijóo: “La sensación es que vamos improvisando”",
+      "summary": "Un estado de ánimo ciclotímico envuelve al PP en el final del curso político. Tras la euforia con la que los populares terminaron el periodo de sesiones, sacando adelante una votación no vinculante sobre la dimisión de Pedro Sánchez con los votos de Vox y de Junts, el clima interno ha cambiado completamente después de.",
       "date": "2026-07-12"
     },
     {
@@ -78,12 +78,6 @@
       "sourceId": "lootura-es-el-mundo"
     },
     {
-      "title": "Inquietud en el PP tras los últimos tropiezos de Feijóo: “La sensación es que vamos improvisando”",
-      "url": "https://elpais.com/espana/2026-07-12/inquietud-en-el-pp-tras-los-ultimos-tropiezos-de-feijoo-la-sensacion-es-que-vamos-improvisando.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-12T03:30:01.000Z",
-      "sourceId": "lootura-es-el-pais"
-    },
-    {
       "title": "El PP pide reformar la asistencia jurídica gratuita para garantizar indemnizaciones «dignas»",
       "url": "https://theobjective.com/espana/politica/2026-07-12/pp-asistencia-juridica-gratuita-indemnizaciones-dignas/?utm_source=lootura.com",
       "publishedAt": "2026-07-12T11:42:45.000Z",
@@ -96,5 +90,5 @@
       "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 5
+  "evidenceCount": 4
 }

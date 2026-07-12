@@ -8,9 +8,14 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/barcelona/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/barcelona/index.json",
   "description": "Sigue la actividad de Barcelona en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-12T13:14:40.089Z",
+  "updatedAt": "2026-07-12T20:25:23.406Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "La tercera marcha de Flick arranca en Barcelona con una obsesión",
+      "summary": "El Barcelona arranca la temporada 26/27 este lunes , 13 de julio, a las 9:00 horas en la Ciudad Deportiva Joan Gamper sin los internacionales. El tercer curso de Hansi Flick al frente del equipo blaugrana se pone en marcha con la obsesión de poder ganar la Champions League más de diez años después. Vuelve el Barça al t.",
+      "date": "2026-07-12"
+    },
     {
       "title": "El Patio Chico acogerá esta semana el IX Festival Internacional de Jazz, organizado por el Ayuntamiento de Salamanca",
       "summary": "El Patio Chico acogerá la novena edición del Festival Internacional de Jazz organizado por el Ayuntamiento de Salamanca, con cinco conciertos programados entre el 14 y el 18 de julio. El primero de los conciertos lo ofrecerá el martes 14 de julio la Barcelona Jazz Orchestra (16 músicos) con el saxofonista de Nueva Orle.",
@@ -55,13 +60,15 @@
       "title": "Lamine Yamal: “Si a alguien debe temer Francia es a nosotros”",
       "summary": "Entre la pizarra de Luis de la Fuente y el olfato goleador de Mikel Merino , aparece la gambeta de Lamine Yamal. De nuevo elegido el mejor jugador del duelo ante Bélgica ayer. El canterano del Barcelona no necesitó ni marcar ni asistir para llevarse el trofeo individual. “Estoy muy contento por la victoria. Quiero marc.",
       "date": "2026-07-10"
-    },
-    {
-      "title": "Muere a los 85 años el urbanista Jordi Borja, impulsor de la transformación de Barcelona",
-      "summary": "El geógrafo , urbanista y político Jordi Borja, considerado uno de los referentes del urbanismo barcelonés y conocido por su pensamiento crítico y su compromiso con la ciudad de Barcelona , cuya transformación y descentralización impulsó junto al alcalde Pasqual Maragall, ha fallecido a los 85 años. « El urbanismo barc.",
-      "date": "2026-07-10"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "La tercera marcha de Flick arranca en Barcelona con una obsesión",
+      "url": "https://okdiario.com/deportes/tercera-marcha-flick-arranca-barcelona-obsesion-18981229?utm_source=lootura.com",
+      "publishedAt": "2026-07-12T18:00:03.000Z",
+      "sourceId": "lootura-es-ok-diario"
+    }
+  ],
+  "evidenceCount": 1
 }

@@ -3,10 +3,22 @@
 > Follow Canada, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-12T16:56:46.923Z
+- Updated: 2026-07-12T20:25:43.771Z
 - Canonical: https://atlas.lootura.com/us/place/canada
 
 ## Recent changes
+
+### Toronto police looking for suspects after deadly shooting at festival
+
+At least two people are dead and at least four people are injured after a shooting on Saturday night at a festival celebrating Latin culture in Canada's biggest city. (Image credit: Keito Newman).
+
+Date: 2026-07-12
+
+### Climate change leaves northern tree swallows more vulnerable those in the southern US
+
+Tree swallows in the northern U.S. and Canada face the greatest risk from climate change despite responding to temperature the same way as tree swallows in the southern U.S., according to a new study led by Cornell researchers that analyzed nearly 95,000 nests across five decades. The findings, published in Proceedings.
+
+Date: 2026-07-12
 
 ### At least 2 killed in shooting at Toronto street festival, police say
 
@@ -56,13 +68,7 @@ A deal ended the Trump administration’s blocking of a new bridge that will eas
 
 Date: 2026-07-11
 
-### Trump Tried to Block Canada’s New Bridge to Detroit. It’s Opening Anyway.
-
-A deal ended the Trump administration’s blocking of a new bridge that will ease congestion at the busiest trade corridor between the United States and Canada.
-
-Date: 2026-07-11
-
 ## Sources
 
-- [The 2026 FIFA World Cup schedule and how to watch](https://www.cbsnews.com/news/world-cup-2026-schedule-how-to-watch/?utm_source=lootura.com) — 2026-07-12T03:48:04.000Z
-- [At least 2 killed in shooting at Toronto street festival, police say](https://www.cbsnews.com/news/deadly-shooting-toronto-street-festival/?utm_source=lootura.com) — 2026-07-12T03:33:20.000Z
+- [Toronto police looking for suspects after deadly shooting at festival](https://www.npr.org/2026/07/12/g-s1-133229/toronto-shooting-salsa-festival?utm_source=lootura.com) — 2026-07-12T17:22:29.000Z
+- [Climate change leaves northern tree swallows more vulnerable those in the southern US](https://phys.org/news/2026-07-climate-northern-tree-swallows-vulnerable.html?utm_source=lootura.com) — 2026-07-12T19:00:01.000Z

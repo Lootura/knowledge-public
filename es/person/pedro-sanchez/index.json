@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/pedro-sanchez/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/pedro-sanchez/index.json",
   "description": "Sigue la actividad de Pedro Sánchez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-12T16:56:25.039Z",
+  "updatedAt": "2026-07-12T20:25:23.406Z",
   "aliases": [
     "Sánchez"
   ],
@@ -19,11 +19,6 @@
       "date": "2026-07-12"
     },
     {
-      "title": "Inquietud en el PP tras los últimos tropiezos de Feijóo: “La sensación es que vamos improvisando”",
-      "summary": "Un estado de ánimo ciclotímico envuelve al PP en el final del curso político. Tras la euforia con la que los populares terminaron el periodo de sesiones, sacando adelante una votación no vinculante sobre la dimisión de Pedro Sánchez con los votos de Vox y de Junts, el clima interno ha cambiado completamente después de.",
-      "date": "2026-07-12"
-    },
-    {
       "title": "Marimar Blanco carga contra Sánchez en el aniversario del asesinato de su hermano Miguel Ángel: «Han elegido ponerse al lado de los verdugos»",
       "summary": "El Partido Popular ha anunciado este domingo, durante el homenaje a Miguel Ángel Blanco en Ermua, su compromiso de reformar la ley penitenciaria para impedir beneficios a condenados por terrorismo que no colaboren con la justicia ni muestren arrepentimiento. En el acto, celebrado 29 años después del asesinato del conce.",
       "date": "2026-07-12"
@@ -31,6 +26,16 @@
     {
       "title": "Sánchez, a Rajoy tras su opinión sobre Francia: «Que gane el mejor y que pierda el racismo»",
       "summary": "El presidente del Gobierno, Pedro Sánchez, ha respondido este domingo al expresidente Mariano Rajoy, después de que este afirmara en una columna de.",
+      "date": "2026-07-12"
+    },
+    {
+      "title": "Pedro Sánchez visitará este lunes las zonas afectadas por el incendio forestal de Los Gallardos",
+      "summary": "El presidente del Gobierno, Pedro Sánchez , viajará este lunes 13 de julio a las áreas arrasadas por el incendio forestal de Los Gallardos (Almería), declarado el pasado jueves 9 y estabilizado este domingo, tras causar la muerte de doce personas en sus primeras horas de avance. La Moncloa ha confirmado que en la visit.",
+      "date": "2026-07-12"
+    },
+    {
+      "title": "Inquietud en el PP tras los últimos tropiezos de Feijóo: “La sensación es que vamos improvisando”",
+      "summary": "Un estado de ánimo ciclotímico envuelve al PP en el final del curso político. Tras la euforia con la que los populares terminaron el periodo de sesiones, sacando adelante una votación no vinculante sobre la dimisión de Pedro Sánchez con los votos de Vox y de Junts, el clima interno ha cambiado completamente después de.",
       "date": "2026-07-12"
     },
     {
@@ -57,11 +62,6 @@
       "title": "Sánchez decidirá tras el paréntesis de agosto el calendario del final de mandato",
       "summary": "“En agosto, con el fresquito, reflexionaremos sobre el calendario”, alegan con ironía en la Moncloa sobre las fechas clave que baraja Pedro Sánchez para la recta final de la legislatura, en la que lo único que no puede prever de antemano son las minas judiciales que aún pueden estallar ante el alud de causas por presun.",
       "date": "2026-07-12"
-    },
-    {
-      "title": "Discovered by Atlas",
-      "summary": "Pedro Sánchez first entered the public knowledge record with source-backed evidence.",
-      "date": "2026-07-11"
     }
   ],
   "sources": [
@@ -72,16 +72,16 @@
       "sourceId": "lootura-es-abc"
     },
     {
+      "title": "Pedro Sánchez visitará este lunes las zonas afectadas por el incendio forestal de Los Gallardos",
+      "url": "https://www.elconfidencial.com/espana/2026-07-12/incendio-los-gallardos-almeria-1tps_4388714/?utm_source=lootura.com",
+      "publishedAt": "2026-07-12T16:44:00.000Z",
+      "sourceId": "lootura-es-el-confidencial"
+    },
+    {
       "title": "El PP se compromete en Ermua a aclarar los 376 crímenes impunes de ETA frente a la \"indignidad\" del sanchismo con EH Bildu",
       "url": "https://www.elmundo.es/pais-vasco/2026/07/12/6a536b49e4d4d8382d8b4592.html?utm_source=lootura.com",
       "publishedAt": "2026-07-12T10:47:16.000Z",
       "sourceId": "lootura-es-el-mundo"
-    },
-    {
-      "title": "Inquietud en el PP tras los últimos tropiezos de Feijóo: “La sensación es que vamos improvisando”",
-      "url": "https://elpais.com/espana/2026-07-12/inquietud-en-el-pp-tras-los-ultimos-tropiezos-de-feijoo-la-sensacion-es-que-vamos-improvisando.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-12T03:30:01.000Z",
-      "sourceId": "lootura-es-el-pais"
     },
     {
       "title": "Sánchez, a Rajoy tras su opinión sobre Francia: «Que gane el mejor y que pierda el racismo»",

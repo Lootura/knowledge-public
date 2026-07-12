@@ -3,10 +3,16 @@
 > Follow China, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-12T16:56:46.923Z
+- Updated: 2026-07-12T20:25:43.771Z
 - Canonical: https://atlas.lootura.com/us/place/china
 
 ## Recent changes
+
+### Graduating without a thesis: meet the people getting ‘practical’ PhDs in China
+
+Nature, Published online: 09 July 2026; doi:10.1038/d41586-026-01242-z Nature spoke to three students from China’s first cohort of PhD candidates who are allowed to graduate with products instead of papers.
+
+Date: 2026-07-12
 
 ### Typhoon Bavi Hits China, Causing Evacuations, Floods and Flight Delays
 
@@ -62,12 +68,6 @@ The country’s leader, Xi Jinping, called on the authorities to investigate the
 
 Date: 2026-07-09
 
-### 39 killed in southern China flooding after days of heavy rain
-
-Authorities in southern China say 39 people have died in flooding after days of heavy rainfall from a tropical storm.
-
-Date: 2026-07-09
-
 ## Sources
 
-- [Typhoon Bavi Hits China, Causing Evacuations, Floods and Flight Delays](https://www.nytimes.com/2026/07/12/world/asia/typhoon-bavi-china.html?utm_source=lootura.com) — 2026-07-12T07:17:40.000Z
+- [Graduating without a thesis: meet the people getting ‘practical’ PhDs in China](https://www.nature.com/articles/d41586-026-01242-z?utm_source=lootura.com) — 2026-07-12T20:25:48.378Z

@@ -8,9 +8,14 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/madrid/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/madrid/index.json",
   "description": "Sigue la actividad de Madrid en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-12T16:56:25.039Z",
+  "updatedAt": "2026-07-12T20:25:23.406Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "El pantano de San Juan suma otra víctima: hallan el cadáver de un joven de 28 años en una zona de gran profundidad",
+      "summary": "Nueva tragedia en el pantano de San Juan . Un joven peruano de 28 años ha fallecido este domingo mientras se bañaba en el principal embalse de la Comunidad de Madrid, un suceso que devuelve la atención sobre los riesgos que entrañan las presas. La alerta llegó, según ha informado un portavoz del Summa 112, a las 8.55 h.",
+      "date": "2026-07-12"
+    },
     {
       "title": "Muere ahogado un joven en el Pantano de San Juan (Madrid)",
       "summary": "Un joven de 28 años ha fallecido ahogado este domingo en el pantano de San Juan, en la linde de la Comunidad de Madrid con la provincia de Ávila. Según informa Emergencias 112 Comunidad de Madrid, el hombre estaba en la zona acompañado de varios amigos y, a las 8:54 horas de la mañana, se ha recibido la primera llamada.",
@@ -55,19 +60,14 @@
       "title": "El tiempo para hoy en Madrid: bajan las máximas y posibles chubascos",
       "summary": "La previsión de la Agencia Estatal de Meteorología (Aemet) en la Comunidad de Madrid para este domingo apunta a un descenso generalizado de las temperaturas máximas que irá posiblemente acompañado de algunos chubascos dispersos de madrugada en la mitad occidental de la región. Asimismo, la Aemet prevé mínimas en ascens.",
       "date": "2026-07-12"
-    },
-    {
-      "title": "Arte, naturaleza y entrada gratis: el museo del centro de Madrid que se convierte en el plan estrella del verano",
-      "summary": "Ahora que estamos en pleno mes de julio, y además con la ola de calor y las altas temperaturas, los planes en Madrid deben elegirse bien. Se requiere que sean más tranquilos y sobre todo, que nos permitan escapar del calor durante unas horas. Pero no todo pasa por terrazas, piscinas o escapadas fuera de la ciudad sino.",
-      "date": "2026-07-12"
     }
   ],
   "sources": [
     {
-      "title": "Muere ahogado un joven en el Pantano de San Juan (Madrid)",
-      "url": "https://www.larazon.es/madrid/muere-ahogado-joven-pantano-san-juan-madrid_202607126a539097772f745d2c43a585.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-12T13:03:19.000Z",
-      "sourceId": "lootura-es-la-razon"
+      "title": "El pantano de San Juan suma otra víctima: hallan el cadáver de un joven de 28 años en una zona de gran profundidad",
+      "url": "https://www.abc.es/espana/madrid/pantano-san-juan-suma-victima-encuentran-cadaver-20260712184302-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-12T17:33:30.000Z",
+      "sourceId": "lootura-es-abc"
     }
   ],
   "evidenceCount": 1

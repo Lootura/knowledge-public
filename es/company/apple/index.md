@@ -46,4 +46,4 @@ Date: 2026-07-10
 
 ## Fuentes
 
-- [Ni Quick Share, ni AirDrop: esta app para transferir archivos es gratis, multiplataforma y funciona mucho más rápido](https://hipertextual.com/software/blip-app-transferir-archivos/?utm_source=lootura.com) — 2026-07-12T08:00:00.000Z
+No public source links.
