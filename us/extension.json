@@ -1,15 +1,15 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-12T18:27:11.372Z",
+  "generatedAt": "2026-07-12T18:35:07.305Z",
   "radar": {
     "id": "usa",
     "slug": "us",
     "locale": "en"
   },
   "state": {
-    "signature": "1.15.0|3|1783875406923",
+    "signature": "1.15.0|4|1783875406923",
     "version": "1.15.0",
-    "build": 3,
+    "build": 4,
     "latestEntityUpdatedAt": "2026-07-12T16:56:46.923Z"
   },
   "atlas": {
