@@ -32,6 +32,36 @@ El presidente del Gobierno, Pedro Sánchez, ha respondido este domingo al expres
 
 Date: 2026-07-12
 
+### El gasto militar de Sánchez sólo concita el aplauso de Trump: izquierda y derecha exigen explicaciones y acusan al Gobierno de opacidad
+
+Reproches al Gobierno por traspasar todos los límites de la transparencia hasta crear una enorme factura opaca en la que se mezclan armas, salarios, planes de inversión y programas de inteligencia Leer.
+
+Date: 2026-07-12
+
+### El juez quiere saber si Zapatero comió con Sánchez antes del rescate de Plus Ultra
+
+«¿Usted entre julio y septiembre de 2020 tuvo alguna comida con el presidente del Gobierno , con el ministro Escrivá, con algún alto cargo del Ministerio de Hacienda, en relación con este tema, o sin que fuera por este tema?». Es una de las muchas preguntas, reiterativas, que el juez de la Audiencia Nacional José Luis.
+
+Date: 2026-07-12
+
+### Las tres ventanas de Sánchez para convocar las elecciones: la apresurada, la probable y la letal
+
+El presidente no quiere cerrar ninguna de momento. Los suyos siguen confiando en un milagro, en un giro de guion, en un triple salto mortal… la fe ...
+
+Date: 2026-07-12
+
+### Catalunya ante el espejo: del “España nos roba” a la amenaza del “califato”
+
+La justicia europea se pronunciará la próxima semana sobre la amnistía que el Gobierno de Pedro Sánchez aprobó para los líderes del procés. Si la avala, estará a punto de concluir la mayor crisis constitucional de España en esta etapa democrática. Mientras, la sociedad catalana ha virado en sus preocupaciones desde aqu.
+
+Date: 2026-07-12
+
+### Sánchez decidirá tras el paréntesis de agosto el calendario del final de mandato
+
+“En agosto, con el fresquito, reflexionaremos sobre el calendario”, alegan con ironía en la Moncloa sobre las fechas clave que baraja Pedro Sánchez para la recta final de la legislatura, en la que lo único que no puede prever de antemano son las minas judiciales que aún pueden estallar ante el alud de causas por presun.
+
+Date: 2026-07-12
+
 ### Discovered by Atlas
 
 Pedro Sánchez first entered the public knowledge record with source-backed evidence.

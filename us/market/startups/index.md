@@ -8,7 +8,11 @@
 
 ## Recent changes
 
-No recent public changes.
+### Discovered by Atlas
+
+Startups first entered the public knowledge record with source-backed evidence.
+
+Date: 2026-07-10
 
 ## Sources
 

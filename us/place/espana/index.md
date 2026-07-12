@@ -20,6 +20,30 @@ When Bill Hillmann was 19 years old, he read Ernest Hemingway's The Sun Also Ris
 
 Date: 2026-07-11
 
+### Bull gores runner in the face at Spain
+
+A chaotic bull run at Spain.
+
+Date: 2026-07-11
+
+### Poll: Patriotism in the US, Europe and Canada, charted
+
+What does it mean to be patriotic? It depends on a country's politics. Pride in one’s country is itself relatively common, according to new results from an international edition of The POLITICO Poll: Majorities of adults across the United States, United Kingdom, Spain, Canada, France and Germany all say they are proud.
+
+Date: 2026-07-11
+
+### Poll: Politics shapes patriotism, from the US to the UK
+
+What does it mean to be patriotic? It depends on a country's politics. Pride in one’s country is itself relatively common, according to new results from an international edition of The POLITICO Poll: Majorities of adults across the United States, United Kingdom, Spain, Canada, France and Germany all say they are proud.
+
+Date: 2026-07-11
+
+### One of Spain's deadliest wildfires has killed at least 11 people
+
+A wildfire in southern Spain has killed at least 11 people, making it one of the country's deadliest on record, as soaring temperatures grip much of the country. (Image credit: INFOCA).
+
+Date: 2026-07-10
+
 ### Discovered by Atlas
 
 España first entered the public knowledge record with source-backed evidence.

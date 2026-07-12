@@ -8,7 +8,17 @@
 
 ## Cambios recientes
 
-No recent public changes.
+### Discovered by Atlas
+
+FIFA first entered the public knowledge record with source-backed evidence.
+
+Date: 2026-07-08
+
+### FIFA ruling drew European pushback
+
+No han acabado los festejos —y troleos— por la paliza que los Diablos Rojos le dieron a Estados Unidos pese a la interferencia de Donald Trump ante la FIFA para lograr que pudiera jugar su delantero estrella, Folarin Balogun, y Bélgica ya anda calentando motores ante el próximo desafío, su cara a cara con La Roja este.
+
+Date: 2026-07-08
 
 ## Fuentes
 

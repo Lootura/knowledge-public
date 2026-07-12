@@ -32,11 +32,41 @@ President Volodymyr Zelensky said Ukraine’s prime minister, Yuliia Svyrydenko,
 
 Date: 2026-07-12
 
-### Discovered by Atlas
+### Inside the Secret Factory That Supplies Ukraine’s War Drones
 
-Ukraine first entered the public knowledge record with source-backed evidence.
+With its mass-produced and inexpensive A.I. powered war machines, the German start-up Helsing SE illustrates a profound shift in military spending.
 
-Date: 2026-07-08
+Date: 2026-07-11
+
+### 10 injured in overnight Russian strikes on Kyiv
+
+Ukrainian military said its air defenses shot down or suppressed two missiles and 111 drones, while Russia claims its forces targeted drone production facilities in Kyiv.
+
+Date: 2026-07-11
+
+### Trump admin. to support heavy tariffs on Russian oil in effort to end Ukraine war, sources say
+
+The war in Ukraine is now in its fifth year. A bipartisan bill aims to increase economic pressure on Russia if it refuses to negotiate peace with Ukraine.
+
+Date: 2026-07-10
+
+### Moscow Still Has Art and Culture. Just Don’t Say ‘Ukraine.’
+
+An eerie limbo prevails at small art shows, independent theaters and private political clubs, where the war is the elephant in the room.
+
+Date: 2026-07-10
+
+### News Wrap: Olympian pleads not guilty on Reflecting Pool damage charges
+
+In our news wrap Thursday, three-time Olympic canoe racer David Hearn pleaded not guilty on charges he deliberately damaged the Reflecting Pool in Washington, Ukraine struck more energy targets inside Russia with long-range drones and authorities in southern China say flooding has killed at least 39 people after days o.
+
+Date: 2026-07-09
+
+### NATO spending pressure returned
+
+Fresh strikes between Iran and the United States and a tense ceasefire scrapped — Is the war with Iran back on?
+
+Date: 2026-07-09
 
 ## Sources
 

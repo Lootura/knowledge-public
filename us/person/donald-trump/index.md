@@ -62,11 +62,11 @@ In an interview on Sunday, President Trump recounted his last conversation with 
 
 Date: 2026-07-12
 
-### Trump’s Posts on Singing Somali Schoolchildren Stir Anger in Minnesota
+### 'America and the world have lost a determined leader': Tributes pour in after Sen Lindsey Graham's death
 
-The state’s large Muslim and Somali communities expressed indignation after the president reposted a video of a kindergarten promotion ceremony, including comments noting the girls were in hijabs.
+Tributes poured in Sunday from President Donald Trump , congressional leaders and foreign allies after Sen. Lindsey Graham, R-S.C., died at 71 following what his office described as a "brief and sudden illness," bringing to an end the career of one of the Senate's most influential Republican voices. The South Carolina.
 
-Date: 2026-07-11
+Date: 2026-07-12
 
 ## Sources
 

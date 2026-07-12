@@ -13,7 +13,38 @@
     "Basque Country",
     "Euskadi"
   ],
-  "changes": [],
+  "changes": [
+    {
+      "title": "Los Cosentino, la familia que hizo del mármol de Almería un gigante global",
+      "summary": "Mucho del mármol que revestía las grandes villas y hoteles de la Costa del Sol en los años ochenta llevaba el sello de Cosentino . Pero la ambición de la compañía nunca se limitó a Andalucía. Su expansión comercial la llevó pronto a conquistar los mercados de Levante, Madrid y el País Vasco, impulsada en gran medida po.",
+      "date": "2026-07-12"
+    },
+    {
+      "title": "Euskadi ampliará el acceso a una VPO a las clases medias lo que beneficiará a 13.000 guipuzcoanos",
+      "summary": "La reforma de Etxebide que ha iniciado hoy el Gobierno Vasco reservará el 30% de viviendas a rentas medias con ingresos entre 20.000 y 46.000 euros.",
+      "date": "2026-07-09"
+    },
+    {
+      "title": "El CES vasco advierte una caída a la mitad de la inversión extranjera en Euskadi",
+      "summary": "El informe anual de 2025 destaca un buen comportamiento de la economía en el territorio aunque detecta problemas en el paro y la pobreza de la población inmigrante y una preocupación por la vivienda.",
+      "date": "2026-07-09"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "País Vasco first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-07-08"
+    },
+    {
+      "title": "Nueve de cada diez convenios sectoriales en Euskadi complementan la prestación por baja",
+      "summary": "Estos acuerdos agrupan al 88,5% de los trabajadores vascos que ven cubiertas las enfermedades comunes.",
+      "date": "2026-07-08"
+    },
+    {
+      "title": "País Vasco logra la \"participación\" de su policía en las expulsiones de inmigrantes que Cataluña ansía",
+      "summary": "El PSOE prometió a Cataluña en 2025 esta competencia pero jamás otorgó Leer.",
+      "date": "2026-07-08"
+    }
+  ],
   "sources": [],
   "evidenceCount": 0
 }

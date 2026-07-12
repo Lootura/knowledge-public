@@ -8,7 +8,65 @@
 
 ## Cambios recientes
 
-No recent public changes.
+### El exjefe de gabinete de Sánchez intercambió más de 10.000 mensajes con Leire Díez hasta que la Audiencia Nacional la imputó
+
+El exjefe de Gabinete de Pedro Sánchez y expresidente de Correos Juan Manuel Serrano mantuvo una relación muy estrecha con Leire Díez , con quien intercambió más de 10.000 mensajes entre noviembre de 2020 y noviembre de 2025 . Esos mensajes se encuentran en poder de la Unidad Central Operativa (UCO) de la Guardia Civil.
+
+Date: 2026-07-11
+
+### Discovered by Atlas
+
+Correos first entered the public knowledge record with source-backed evidence.
+
+Date: 2026-07-11
+
+### Pedraz imputa al ex jefe de gabinete de Sánchez y ex presidente de Correos en el 'caso Leire' pero rechaza examinar el teléfono de la gerente del PSOE
+
+El juez autoriza a la UCO el volcado y análisis del contenido del móvil de Juan Manuel Serrano, una medida que cuenta además con el respaldo de la Fiscalía Anticorrupción Leer.
+
+Date: 2026-07-10
+
+### El PP, sobre la imputación del ex jefe de gabinete de Sánchez: «Nadie limpio cerca»
+
+El secretario general del PP, Miguel Tellado , ha afirmado este viernes que, tras la imputación en el caso Leire de Juan Manuel Serrano , exjefe de gabinete de Pedro Sánchez en el PSOE y expresidente de la empresa pública Correos, ya «no queda nadie limpio cerca» del presidente del Gobierno , Pedro Sánchez. Así lo ha a.
+
+Date: 2026-07-10
+
+### El juez imputa al ex jefe de Gabinete de Sánchez en el caso de las cloacas
+
+El juez Santiago Pedraz cita como investigado en el caso Leire a Juan Manuel Serrano, el jefe de Gabinete de Pedro Sánchez hasta 2018 y presidente de Correos hasta 2023 y autoriza el volcado de su teléfono móvil, según han solicitado la Fiscalía Anticorrupción y la Guardia Civil. El instructor no autoriza, en cambio, e.
+
+Date: 2026-07-10
+
+### Anticorrupción reclama la imputación al exjefe de gabinete de Sánchez por las "cloacas del PSOE"
+
+Nuevo avance en el cerco al entorno del presidente del Gobierno, Pedro Sánchez. A lo largo de esta mañana se ha conocido que la Fiscalía Anticorrupción ha reclamo al juez de la Audiencia Nacional que investiga el 'caso Leire Díez', Santiago Pedraz, que impute en la causa a Juan Manuel Serrano, expresidente de Correos y.
+
+Date: 2026-07-10
+
+### La relación de Serrano con Leire Díez: de Correos a los ‘chats’ seguros tras los días de reflexión de Sánchez
+
+El último informe de la UCO en el caso SEPI muestra una radiografía de la estrecha relación que mantuvo el exjefe de Gabinete de Pedro Sánchez y expresidente de Correos Juan Manuel Serrano con la supuesta fontanera Leire Díez . Una relación que comenzó antes del enchufe de Díez en la entidad dependiente de la SEPI y se.
+
+Date: 2026-07-10
+
+### Serrano financió 270.000 euros a la trama socialista con dinero público de Correos y 'enchufó' a Leire Díez mediante un amaño
+
+La UCO descubre cómo en su etapa de presidente de Correos hacía llegar dinero a la trama contratando a un bufete aliado, mientras el grupo postal registraba fuertes pérdidas Leer.
+
+Date: 2026-07-09
+
+### La UCO implica al expresidente de Correos en la trama para “desestabilizar” causas que salpicaban al PSOE y al Gobierno
+
+La Unidad Central Operativa (UCO) de la Guardia Civil ha enviado un nuevo informe al juez Santiago Pedraz, instructor del caso Leire Díez en la Audiencia Nacional, que implica a Juan Manuel Serrano, expresidente de Correos, en las presuntas “tramas” urdidas para el amaño de contratos públicos y para “desestabilizar” pr.
+
+Date: 2026-07-09
+
+### El ex jefe de Gabinete de Sánchez quería seguir con la «movida» antijudicial sin el presidente
+
+Juan Manuel Serrano, que fue jefe de gabinete de Pedro Sánchez y presidente de Correos, quería seguir con la «movida» de desacreditar a jueces y fiscales que investigan la corrupción con independencia de si el presidente seguía o se marchaba tras la imputación de su esposa . Serrano se pronunció de esta forma en mensaj.
+
+Date: 2026-07-09
 
 ## Fuentes
 

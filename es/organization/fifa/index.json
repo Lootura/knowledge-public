@@ -10,7 +10,18 @@
   "description": "Sigue la actividad de FIFA en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
   "updatedAt": "2026-07-12T02:31:58.650Z",
   "aliases": [],
-  "changes": [],
+  "changes": [
+    {
+      "title": "Discovered by Atlas",
+      "summary": "FIFA first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-07-08"
+    },
+    {
+      "title": "FIFA ruling drew European pushback",
+      "summary": "No han acabado los festejos —y troleos— por la paliza que los Diablos Rojos le dieron a Estados Unidos pese a la interferencia de Donald Trump ante la FIFA para lograr que pudiera jugar su delantero estrella, Folarin Balogun, y Bélgica ya anda calentando motores ante el próximo desafío, su cara a cara con La Roja este.",
+      "date": "2026-07-08"
+    }
+  ],
   "sources": [],
   "evidenceCount": 0
 }

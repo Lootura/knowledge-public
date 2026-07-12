@@ -44,11 +44,29 @@ Sen. Adam Schiff (D-Calif.) joins Meet the Press to reflect on the passing of hi
 
 Date: 2026-07-12
 
-### Discovered by Atlas
+### US and Iran exchange strikes as Tehran again says strait of Hormuz is closed
 
-Iran first entered the public knowledge record with source-backed evidence.
+Tehran says vessel using unapproved route in strait was struck, drawing strikes from US forces to ‘degrade Iran’s ability to attack civilian mariners’ Iran and the US exchanged fresh strikes early on Sunday over what Tehran said was unauthorised use of the strait of Hormuz by a container ship, raising further doubts ab.
 
-Date: 2026-07-10
+Date: 2026-07-12
+
+### US attacks Iran over ship being hit in Strait of Hormuz; Tehran lashes out again at Gulf Arab states
+
+The United States attacked Iran early Sunday morning over an Iranian attack on a vessel in the Strait of Hormuz. Iran apparently responded with strikes targeting Bahrain, Qatar and the United Arab Emirates. (Image credit: Vahid Salemi).
+
+Date: 2026-07-12
+
+### Iran’s supreme leader vows revenge for father’s killing
+
+Iranian state media reports that the Revolutionary Guard says the Strait of Hormuz is closed until further notice. It comes as Iran’s new supreme leader, Mojtaba Khamenei, is vowing revenge for his father’s killing, saying it is the “demand” of his country. Khamenei has not been seen since he was severely injured when.
+
+Date: 2026-07-11
+
+### Political scientist Dominic Tierney on why the U.S. gets trapped in conflicts like Iran
+
+NPR's Scott Simon speaks with Swarthmore College political science professor Dominic Tierney about the U.S.-Iran war and other conflicts that have left the U.S. in drawn-out entanglements.
+
+Date: 2026-07-11
 
 ## Sources
 

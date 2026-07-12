@@ -38,9 +38,33 @@ El Partido Popular ha anunciado este domingo, durante el homenaje a Miguel Ánge
 
 Date: 2026-07-12
 
+### El PP denuncia el cierre por obras del Albergue del Transeúnte de León y pide un servicio alternativo
+
+El Grupo Municipal del Partido Popular en el Ayuntamiento de León denunció el cierre del Alberque del Transeúnte de la ciudad del 29 de junio al 16 de agosto por obras de mantenimiento y solicitó que se habilite un servicio alternativo temporal. Los ‘populares’ recordaron que Albergue Municipal del Transeúnte de León a.
+
+Date: 2026-07-12
+
+### Homenaje a Miguel Ángel Blanco con motivo del XXIX aniversario de su asesinato
+
+La vicesecretaria de Regeneración Institucional, CucaGamarra, interviene en el homenaje a Miguel Ángel Blanco con motivo del XXIX aniversario de su asesinato por la banda terrorista ETA, junto con el presidente del PP vasco, Javier de Andrés, la senadora del PP Mari Mar Blanco y el presidente de Nuevas Generaciones, Ig.
+
+Date: 2026-07-12
+
+### El dilema de las derechas que debilita el liderazgo de Feijóo
+
+La derecha española se encuentra dividida entre dos hipótesis , la que le gustaría al partido dominante, el PP, que es la apuesta de Merz , y la que cada vez va cobrando más peso en Europa, la de Manfred Weber : una alianza entre los populares y los partidos a su derecha . Merz gobierna junto con los socialdemócratas,.
+
+Date: 2026-07-12
+
 ### Discovered by Atlas
 
 Partido Popular first entered the public knowledge record with source-backed evidence.
+
+Date: 2026-07-11
+
+### Óscar López se enfrentará a Ayuso en las elecciones de la Comunidad de Madrid en 2027
+
+El secretario general del PSOE de Madrid y ministro para la Transformación Digital y de la Función Pública, Óscar López , se batirá con la presidenta de la Comunidad, Isabel Díaz Ayuso (PP), en mayo de 2027 tras proclamarse candidato socialista al no haber conseguido su rival en primarias, Silvia López Quivira, reunir.
 
 Date: 2026-07-11
 

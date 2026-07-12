@@ -8,7 +8,41 @@
 
 ## Cambios recientes
 
-No recent public changes.
+### Los Cosentino, la familia que hizo del mármol de Almería un gigante global
+
+Mucho del mármol que revestía las grandes villas y hoteles de la Costa del Sol en los años ochenta llevaba el sello de Cosentino . Pero la ambición de la compañía nunca se limitó a Andalucía. Su expansión comercial la llevó pronto a conquistar los mercados de Levante, Madrid y el País Vasco, impulsada en gran medida po.
+
+Date: 2026-07-12
+
+### Euskadi ampliará el acceso a una VPO a las clases medias lo que beneficiará a 13.000 guipuzcoanos
+
+La reforma de Etxebide que ha iniciado hoy el Gobierno Vasco reservará el 30% de viviendas a rentas medias con ingresos entre 20.000 y 46.000 euros.
+
+Date: 2026-07-09
+
+### El CES vasco advierte una caída a la mitad de la inversión extranjera en Euskadi
+
+El informe anual de 2025 destaca un buen comportamiento de la economía en el territorio aunque detecta problemas en el paro y la pobreza de la población inmigrante y una preocupación por la vivienda.
+
+Date: 2026-07-09
+
+### Discovered by Atlas
+
+País Vasco first entered the public knowledge record with source-backed evidence.
+
+Date: 2026-07-08
+
+### Nueve de cada diez convenios sectoriales en Euskadi complementan la prestación por baja
+
+Estos acuerdos agrupan al 88,5% de los trabajadores vascos que ven cubiertas las enfermedades comunes.
+
+Date: 2026-07-08
+
+### País Vasco logra la "participación" de su policía en las expulsiones de inmigrantes que Cataluña ansía
+
+El PSOE prometió a Cataluña en 2025 esta competencia pero jamás otorgó Leer.
+
+Date: 2026-07-08
 
 ## Fuentes
 

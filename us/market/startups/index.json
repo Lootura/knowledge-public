@@ -12,7 +12,13 @@
   "aliases": [
     "startup funding"
   ],
-  "changes": [],
+  "changes": [
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Startups first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-07-10"
+    }
+  ],
   "sources": [],
   "evidenceCount": 0
 }

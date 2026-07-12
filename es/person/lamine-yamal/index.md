@@ -14,6 +14,18 @@ Lamine Yamal first entered the public knowledge record with source-backed eviden
 
 Date: 2026-07-10
 
+### Lamine Yamal: “Si a alguien debe temer Francia es a nosotros”
+
+Entre la pizarra de Luis de la Fuente y el olfato goleador de Mikel Merino , aparece la gambeta de Lamine Yamal. De nuevo elegido el mejor jugador del duelo ante Bélgica ayer. El canterano del Barcelona no necesitó ni marcar ni asistir para llevarse el trofeo individual. “Estoy muy contento por la victoria. Quiero marc.
+
+Date: 2026-07-10
+
+### Tatuajes que son pecado: Lamine Yamal no es el único que no se los hace por su fe
+
+El islam censura estos adornos corporales, aunque no está solo en esta postura. Otros credos también lo hacen...
+
+Date: 2026-07-08
+
 ## Fuentes
 
 - [Konaté responde al dardo de Lamine Yamal: "No hay que tener miedo de nadie"](https://okdiario.com/mundial/konate-responde-dardo-lamine-yamal-no-hay-que-tener-miedo-nadie-18981120/amp?utm_source=lootura.com) — 2026-07-12T16:46:03.000Z

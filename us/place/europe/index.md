@@ -8,7 +8,53 @@
 
 ## Recent changes
 
-No recent public changes.
+### It's Christmas in July as hundreds of Santas go on the march in the middle of a stifling summer heat wave
+
+It's beginning to look a lot like Christmas — if you ignore the calendar, that is. While much of Europe continues to grapple with stifling summer heat, one Danish city looked ready for Christmas. Hundreds of Santa Clauses, Mrs. Clauses and Christmas elves from around the world filled the streets this week for the annua.
+
+Date: 2026-07-12
+
+### Poll: Patriotism in the US, Europe and Canada, charted
+
+What does it mean to be patriotic? It depends on a country's politics. Pride in one’s country is itself relatively common, according to new results from an international edition of The POLITICO Poll: Majorities of adults across the United States, United Kingdom, Spain, Canada, France and Germany all say they are proud.
+
+Date: 2026-07-11
+
+### Europe considering proposals to allow navigational fees in strait of Hormuz
+
+Plans specify tolls must not be compulsory, as US officials urge Iran to make public statement that strait is open and that shipping can safely pass Europe is studying proposals that may allow the charging of navigational fees in the strait of Hormuz so long as the tolls are not compulsory and have the support of the U.
+
+Date: 2026-07-11
+
+### At Least 11 People Die in Southern Spain Wildfire
+
+The blaze in Andalusia prompted a major containment operation. Heat waves across Europe this summer have raised the risk of such fires, forecasters say.
+
+Date: 2026-07-10
+
+### Discovered by Atlas
+
+Europe first entered the public knowledge record with source-backed evidence.
+
+Date: 2026-07-09
+
+### June was the hottest on record for Western Europe, second hottest globally
+
+A new report by the Copernicus Climate Change Service also found that June temperatures in Western Europe were nearly 5.5 degrees above average.
+
+Date: 2026-07-09
+
+### NATO spending pressure returned
+
+While President Trump insulted allies and demanded loyalty, the military alliance moved quietly closer to accepting more European responsibility for defense.
+
+Date: 2026-07-09
+
+### Western Europe records hottest-ever June as heatwaves intensify
+
+Temperatures across ravaged region 3C above average as scientists warn of risks for people, ecosystems and infrastructure Record wildfires in Europe show failure to adapt carries a mounting cost Western Europe has been scorched by its hottest June on record, scientists have said, as the UK enters its third heatwave of.
+
+Date: 2026-07-09
 
 ## Sources
 

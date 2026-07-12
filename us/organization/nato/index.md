@@ -8,7 +8,65 @@
 
 ## Recent changes
 
-No recent public changes.
+### How the Iran War Worsens the Climate Crisis
+
+Members of the 'Red Rebel Brigade', a climate activist group, walk past Iranian flags being displayed as they join a march against the far right, organized by the Together Alliance, in central London on March 28, 2026. —Henry NICHOLLS-AFP via Getty Images On Wednesday, President Donald Trump told reporters at the NATO.
+
+Date: 2026-07-10
+
+### NATO spending pressure returned
+
+It comes from his willingness to violate all norms, rules and laws – and leaving everyone else to pick up the pieces At the Nato summit just ended, Trump lashed out at other Nato members, saying he was “very disappointed with Nato” and asking: “Why are we spending hundreds of billions of dollars, and they’re not there.
+
+Date: 2026-07-10
+
+### NATO spending pressure returned
+
+As the strikes traded between the U.S. and Iran escalate, President Trump casts doubt on the possibility of the two countries reaching a deal. NBC News’ Kelly O’Donnell reports on the latest with the conflict as well as the security reasons behind the President switching planes when he departed the NATO summit this wee.
+
+Date: 2026-07-09
+
+### NATO spending pressure returned
+
+NPR's Michel Martin speaks with New Hampshire Sen. Jeanne Shaheen about President Trump at the NATO summit and more strikes in the war with Iran.
+
+Date: 2026-07-09
+
+### NATO spending pressure returned
+
+Fresh strikes between Iran and the United States and a tense ceasefire scrapped — Is the war with Iran back on?
+
+Date: 2026-07-09
+
+### NATO spending pressure returned
+
+NPR's Scott Detrow speaks with former U.S. Ambassador to NATO Nicholas Burns regarding this week's developments in the U.S.-Iran conflict -- and the NATO summit this week.
+
+Date: 2026-07-09
+
+### NATO spending pressure returned
+
+The agreement on the long-range missiles, which are used to strike targets deep inside enemy territory, was reached this week on the sidelines of the NATO summit in Turkey's capital, Ankara, Merz said.
+
+Date: 2026-07-09
+
+### NATO spending pressure returned
+
+President Trump flew partway home from a NATO summit on an old Air Force One plane instead of the new Qatari-gifted plane, a surprise swap that came as the U.S. and Iran began trading strikes again. (Image credit: Alex Brandon).
+
+Date: 2026-07-09
+
+### NATO spending pressure returned
+
+President Trump wrapped the NATO summit in Turkey on a positive note Wednesday, appearing more favorable towards Ukraine than usual. CBS News contributor Niall Ferguson joins to discuss the summit, Mr. Trump's latest actions in Iran and the Ukraine-Russia war.
+
+Date: 2026-07-09
+
+### NATO spending pressure returned
+
+President Donald Trump returned to Washington, D.C., after a critical NATO summit in Turkey aboard an older Air Force One aircraft rather than the new plane gifted by Qatar. A source familiar with the president’s travel plans tells NBC News the swap was a security decision, coming as Trump warns he considers himself a.
+
+Date: 2026-07-09
 
 ## Sources
 

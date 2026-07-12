@@ -8,7 +8,17 @@
 
 ## Cambios recientes
 
-No recent public changes.
+### Nuevos retrasos en la alta velocidad Madrid-Andalucía por otro robo de cableado en Toledo
+
+Los trenes de alta velocidad entre Andalucía y Madrid registran retrasos por una incidencia en la señalización como consecuencia de un posible robo de cableado en la comarca toledana de La Sagra , ha informado el gestor ferroviario, ADIF, en una publicación en sus redes sociales. ADIF ha detallado que están trabajando.
+
+Date: 2026-07-10
+
+### Discovered by Atlas
+
+La Sagra first entered the public knowledge record with source-backed evidence.
+
+Date: 2026-07-10
 
 ## Fuentes
 

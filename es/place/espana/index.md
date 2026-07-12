@@ -32,11 +32,41 @@ El incendio forestal de Los Gallardos (Almería) continúa activo este domingo 1
 
 Date: 2026-07-12
 
-### Discovered by Atlas
+### La Aemet alerta del grave peligro de incendios en media España: estas son todas las zonas en alerta
 
-España first entered the public knowledge record with source-backed evidence.
+La Agencia Estatal de Meteorología (Aemet) ha advertido de que el riesgo de incendios es muy alto o extremo este domingo en buena parte del país, a causa de las condiciones meteorológicas, y continuará durante los próximos días. Peligro de incendios muy alto o extremo en buena parte de la Península y Baleares. Las cond.
 
-Date: 2026-07-11
+Date: 2026-07-12
+
+### Muere el senador republicano Lindsey Graham, estrecho aliado de Trump, de forma repentina a los 71 años
+
+Su inesperada muerte trunca una carrera política caracterizada por su crítica y posterior respaldo al presidente, Donald Trump, y, recientemente, por su postura inflexible contra España sobre Irán. Leer.
+
+Date: 2026-07-12
+
+### Incendio en Los Gallardos (Almería), en directo: última hora de los 12 muertos, de las 7.000 hectáreas quemadas y de los desaparecidos
+
+El departamento de Biología del servicio de Criminalística de la Guardia Civil ha obtenido ya el perfil genético de los 12 fallecidos en el incendio de Los Gallardos (Almería) , si bien no ha sido posible la identificación de ninguna víctima debido a que sus familiares están viajando a España desde otros países para pr.
+
+Date: 2026-07-12
+
+### Incendio de Los Gallardos, en directo: última hora del fuego en Almería, los desaparecidos y la evolución de las llamas hoy
+
+El incendio forestal de Los Gallardos (Almería) continúa activo este domingo 12 de julio, aunque su evolución es favorable tras una mejora de las condiciones meteorológicas. El balance provisional se mantiene en 12 fallecidos y 18 heridos, cinco de ellos graves. Es el incendio más grave registrado en España en lo que v.
+
+Date: 2026-07-12
+
+### Todavía no ha desaparecido en España, pero los expertos claman por su elevada mortandad cuando se secan los ríos
+
+El cangrejo de río autóctono ibérico ( Austropotamobius pallipes ) no se ha extinguido todavía en España, pero los especialistas lanzan una alerta seria ante su elevada mortandad cuando los ríos y arroyos se secan por completo. La Unión Internacional para la Conservación de la Naturaleza (UICN) lo clasifica como especi.
+
+Date: 2026-07-12
+
+### Incendio en Los Gallardos (Almería), en directo: última hora de los 12 muertos, de las 6.600 hectáreas quemadas y de los desaparecidos
+
+El departamento de Biología del servicio de Criminalística de la Guardia Civil ha obtenido ya el perfil genético de los 12 fallecidos en el incendio de Los Gallardos (Almería) , si bien no ha sido posible la identificación de ninguna víctima debido a que sus familiares están viajando a España desde otros países para pr.
+
+Date: 2026-07-12
 
 ## Fuentes
 
