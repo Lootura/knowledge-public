@@ -3,7 +3,7 @@
 > Follow Artificial intelligence, a tracked topic, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: topic
-- Updated: 2026-07-12T20:25:43.771Z
+- Updated: 2026-07-12T20:42:32.118Z
 - Canonical: https://atlas.lootura.com/us/topic/artificial-intelligence
 
 ## Recent changes
@@ -70,9 +70,9 @@ Date: 2026-07-12
 
 ## Sources
 
-- [Which ‘AI scientist’ suits your lab? A guide for the perplexed](https://www.nature.com/articles/d41586-026-02091-6?utm_source=lootura.com) — 2026-07-12T20:25:48.378Z
+- [Which ‘AI scientist’ suits your lab? A guide for the perplexed](https://www.nature.com/articles/d41586-026-02091-6?utm_source=lootura.com) — 2026-07-12T20:42:36.549Z
 - [Campaign text messages could soon get more effective — and annoying](https://www.npr.org/2026/07/12/nx-s1-5867763/ai-artificial-intelligence-data-texts-bots-voters-campaigns?utm_source=lootura.com) — 2026-07-12T09:00:00.000Z
 - [When managing your money, take a chatbot's 'confidence' with a grain of salt](https://www.pbs.org/newshour/economy/when-managing-your-money-take-a-chatbots-confidence-with-a-grain-of-salt?utm_source=lootura.com) — 2026-07-12T18:57:09.000Z
-- [Does AI work for us, or do we work for AI?](https://www.science.org/doi/abs/10.1126/science.aei9754?af=R&utm_source=lootura.com) — 2026-07-12T20:25:48.371Z
+- [Does AI work for us, or do we work for AI?](https://www.science.org/doi/abs/10.1126/science.aei9754?af=R&utm_source=lootura.com) — 2026-07-12T20:42:36.845Z
 - [Lorde says Ray-Ban Meta AI glasses are ‘not sexy’](https://www.theverge.com/ai-artificial-intelligence/964539/lorde-says-ray-ban-meta-ai-glasses-are-not-sexy?utm_source=lootura.com) — 2026-07-12T20:10:19.000Z
 - [Apple’s failed self-driving car program left a legacy of powerful AI chips](https://www.theverge.com/tech/964519/apple-silicon-self-driving-car-ai-m7-ultra?utm_source=lootura.com) — 2026-07-12T16:27:06.000Z

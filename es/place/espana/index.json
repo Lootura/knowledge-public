@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/espana/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/espana/index.json",
   "description": "Sigue la actividad de España en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-12T20:25:23.406Z",
+  "updatedAt": "2026-07-12T20:42:08.067Z",
   "aliases": [
     "Estado español",
     "Spain"
@@ -30,11 +30,6 @@
       "date": "2026-07-12"
     },
     {
-      "title": "Fernando Alonso: \"Quiero hacer el Camino de Santiago, pero con mi hijo de 3 años no puedo irme a caminar con él por España\"",
-      "summary": "El piloto de Aston Martin no hace planes de futuro sobre su vida personal ni sobre qué va a hacer en la F1.",
-      "date": "2026-07-12"
-    },
-    {
       "title": "De la \"caloreta\" al \"sol de carallo\": el ingenio español para describir el calor extremo",
       "summary": "La diversidad lingüística de España se pone a prueba ante las altas temperaturas con un abanico de expresiones tan variadas como sus regiones.",
       "date": "2026-07-12"
@@ -42,6 +37,21 @@
     {
       "title": "Incendio de Almería, en directo: última hora del fuego en Los Gallardos, búsqueda de los desaparecidos y la evolución de la situación hoy",
       "summary": "El incendio forestal de Los Gallardos (Almería) continúa activo este domingo 12 de julio, aunque su evolución es favorable tras una mejora de las condiciones meteorológicas. El balance provisional se mantiene en 12 fallecidos y 18 heridos, cinco de ellos graves. Es el incendio más grave registrado en España en lo que v.",
+      "date": "2026-07-12"
+    },
+    {
+      "title": "Un juez avala que unos vecinos mantengan su aire acondicionado en la fachada",
+      "summary": "Los magistrados consideran que la instalación contaba con autorización previa de la comunidad y que, en caso de modificarse su ubicación, será esta quien deba asumir los gastos El calor dispara las muertes en España a cifras sin precedentes y amenaza al sistema sanitario El Juzgado de Primera Instancia número 62 de Mad.",
+      "date": "2026-07-12"
+    },
+    {
+      "title": "Fernando Alonso: \"Quiero hacer el Camino de Santiago, pero con mi hijo de 3 años no puedo irme a caminar con él por España\"",
+      "summary": "Fernando Alonso sigue sin despejar una de las incógnitas que rodean al mercado de pilotos de la F1 . A sus 44 años, el español mantiene abierta la duda sobre cuánto tiempo continuará compitiendo y tampoco tiene decidido qué rumbo tomará cuando llegue el momento de poner fin a su trayectoria en la categoría. Mientras As.",
+      "date": "2026-07-12"
+    },
+    {
+      "title": "Fernando Alonso: \"Quiero hacer el Camino de Santiago, pero con mi hijo de 3 años no puedo irme a caminar con él por España\"",
+      "summary": "El piloto de Aston Martin no hace planes de futuro sobre su vida personal ni sobre qué va a hacer en la F1.",
       "date": "2026-07-12"
     },
     {
@@ -53,16 +63,6 @@
       "title": "“Rusia no está ganando la guerra pero esto no evita el desastre para Ucrania”",
       "summary": "El corresponsal de EL PAIS, que ha estado cubriendo el conflicto desde sus inicios, regresa a España sin haber podido asistir a la firma de la paz y con muchas dudas sobre cómo será la reconstrucción del país.",
       "date": "2026-07-12"
-    },
-    {
-      "title": "Incendio de Almería, en directo: última hora del fuego en Los Gallardos, búsqueda de los desaparecidos y la evolución de la situación hoy",
-      "summary": "El incendio forestal de Los Gallardos (Almería) continúa activo este domingo 12 de julio, aunque su evolución es favorable tras una mejora de las condiciones meteorológicas. El balance provisional se mantiene en 12 fallecidos y 18 heridos, cinco de ellos graves. Es el incendio más grave registrado en España en lo que v.",
-      "date": "2026-07-12"
-    },
-    {
-      "title": "La Aemet alerta del grave peligro de incendios en media España: estas son todas las zonas en alerta",
-      "summary": "La Agencia Estatal de Meteorología (Aemet) ha advertido de que el riesgo de incendios es muy alto o extremo este domingo en buena parte del país, a causa de las condiciones meteorológicas, y continuará durante los próximos días. Peligro de incendios muy alto o extremo en buena parte de la Península y Baleares. Las cond.",
-      "date": "2026-07-12"
     }
   ],
   "sources": [
@@ -73,15 +73,21 @@
       "sourceId": "lootura-es-abc"
     },
     {
-      "title": "Fernando Alonso: \"Quiero hacer el Camino de Santiago, pero con mi hijo de 3 años no puedo irme a caminar con él por España\"",
-      "url": "https://www.larazon.es/deportes/formula-1/fernando-alonso-quiero-hacer-camino-santiago-pero-hijo-3-anos-puedo-irme-caminar-espana_202607126a53f59dc48a78681b850936.html?outputType=amp&utm_source=lootura.com",
-      "publishedAt": "2026-07-12T20:14:21.000Z",
-      "sourceId": "lootura-es-la-razon"
+      "title": "Un juez avala que unos vecinos mantengan su aire acondicionado en la fachada",
+      "url": "https://www.eldiario.es/economia/juez-avala-vecinos-mantengan-aire-acondicionado-fachada_1_13375052.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-12T20:31:35.000Z",
+      "sourceId": "lootura-es-eldiario-es"
     },
     {
       "title": "Incendio en Los Gallardos (Almería), en directo: última hora de los 12 muertos, de las 7.000 hectáreas quemadas y de los desaparecidos",
       "url": "https://www.larazon.es/andalucia/incendio-gallardos-almeria-directo-ultima-hora-12-muertos-6600-hectareas-quemadas-desaparecidos-b50m_202607126a5325a8c48a78681b83a961.html?utm_source=lootura.com",
       "publishedAt": "2026-07-12T19:52:17.000Z",
+      "sourceId": "lootura-es-la-razon"
+    },
+    {
+      "title": "Fernando Alonso: \"Quiero hacer el Camino de Santiago, pero con mi hijo de 3 años no puedo irme a caminar con él por España\"",
+      "url": "https://www.larazon.es/deportes/formula-1/fernando-alonso-quiero-hacer-camino-santiago-pero-hijo-3-anos-puedo-irme-caminar-espana_202607126a53f59dc48a78681b850936.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-12T20:14:26.000Z",
       "sourceId": "lootura-es-la-razon"
     },
     {
@@ -103,5 +109,5 @@
       "sourceId": "lootura-es-ok-diario"
     }
   ],
-  "evidenceCount": 6
+  "evidenceCount": 7
 }

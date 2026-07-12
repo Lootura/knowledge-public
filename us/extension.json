@@ -1,16 +1,16 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-12T20:29:52.512Z",
+  "generatedAt": "2026-07-12T20:46:15.582Z",
   "radar": {
     "id": "usa",
     "slug": "us",
     "locale": "en"
   },
   "state": {
-    "signature": "1.15.0|5|1783887943771",
+    "signature": "1.15.0|6|1783888952118",
     "version": "1.15.0",
-    "build": 5,
-    "latestEntityUpdatedAt": "2026-07-12T20:25:43.771Z"
+    "build": 6,
+    "latestEntityUpdatedAt": "2026-07-12T20:42:32.118Z"
   },
   "atlas": {
     "hero": {
@@ -20,7 +20,7 @@
       "title": "‘The fiercest of fighters’: Lindsey Graham remembered by politicians and foreign leaders after sudden death",
       "url": "https://atlas.lootura.com/us/person/donald-trump",
       "path": "/us/person/donald-trump",
-      "updatedAt": "2026-07-12T20:25:43.771Z",
+      "updatedAt": "2026-07-12T20:42:32.118Z",
       "score": 1641,
       "sourceCount": 107,
       "isBreaking": false,
@@ -34,7 +34,7 @@
         "title": "Lindsey Graham Championed Israel, Even as Wars Eroded American Support",
         "url": "https://atlas.lootura.com/us/place/iran",
         "path": "/us/place/iran",
-        "updatedAt": "2026-07-12T20:25:43.771Z",
+        "updatedAt": "2026-07-12T20:42:32.118Z",
         "score": 1599,
         "sourceCount": 83,
         "isBreaking": false,
@@ -47,7 +47,7 @@
         "title": "Trump Sought an Iran War Exit. Putin Pushed On in Ukraine. Now Both Are Stuck.",
         "url": "https://atlas.lootura.com/us/place/ukraine",
         "path": "/us/place/ukraine",
-        "updatedAt": "2026-07-12T20:25:43.771Z",
+        "updatedAt": "2026-07-12T20:42:32.118Z",
         "score": 1563,
         "sourceCount": 21,
         "isBreaking": false,
@@ -60,7 +60,7 @@
         "title": "The World Is Cutting Ties With America. It’s Already Costing Us.",
         "url": "https://atlas.lootura.com/us/place/united-states",
         "path": "/us/place/united-states",
-        "updatedAt": "2026-07-12T20:25:43.771Z",
+        "updatedAt": "2026-07-12T20:42:32.118Z",
         "score": 1563,
         "sourceCount": 129,
         "isBreaking": false,
@@ -73,7 +73,7 @@
         "title": "Shortly before Lindsey Graham's death, he was hopeful about new Russia sanctions bill",
         "url": "https://atlas.lootura.com/us/place/russia",
         "path": "/us/place/russia",
-        "updatedAt": "2026-07-12T20:25:43.771Z",
+        "updatedAt": "2026-07-12T20:42:32.118Z",
         "score": 1550,
         "sourceCount": 13,
         "isBreaking": false,

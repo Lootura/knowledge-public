@@ -3,7 +3,7 @@
 > Sigue la actividad de Madrid en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-12T20:25:23.406Z
+- Actualizado: 2026-07-12T20:42:08.067Z
 - Canonical: https://atlas.lootura.com/es/place/madrid
 
 ## Cambios recientes
