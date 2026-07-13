@@ -3,22 +3,10 @@
 > Follow Democratic Party, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-07-13T17:53:11.557Z
+- Updated: 2026-07-13T20:55:54.181Z
 - Canonical: https://atlas.lootura.com/us/organization/democratic-party
 
 ## Recent changes
-
-### Maine Democrats scramble to select replacement for Platner in Senate race
-
-Maine Democrats now have a process for choosing a replacement for Senate candidate Graham Platner. But voters are still reeling from his fall.
-
-Date: 2026-07-13
-
-### Maine Democrats to Chuck Schumer: Stay Out of Our Senate Race
-
-Local Democrats are warning the top Senate Democrat to keep away as they replace Graham Platner, and the candidates are giving his leadership in Washington low marks.
-
-Date: 2026-07-13
 
 ### Mercurial and Magnetic, Lindsey Graham Was a Force in the Senate
 
@@ -29,6 +17,24 @@ Date: 2026-07-13
 ### Tributes pour in for Lindsey Graham after his death stuns D.C.
 
 Tributes poured in for Sen. Lindsey Graham from Democrats, Republicans, former U.S. presidents and world leaders after his death stunned Capitol Hill. CBS News' Caitlin Huey-Burns has more.
+
+Date: 2026-07-13
+
+### Midwest becomes next theater in Democrats' progressive vs. moderate fight
+
+August primaries in Michigan, Wisconsin and Minnesota will be another gauge of Democratic voters' frustration with the establishment.
+
+Date: 2026-07-13
+
+### Maine Democrats scramble to select replacement for Platner in Senate race
+
+Maine Democrats now have a process for choosing a replacement for Senate candidate Graham Platner. But voters are still reeling from his fall.
+
+Date: 2026-07-13
+
+### Maine Democrats to Chuck Schumer: Stay Out of Our Senate Race
+
+Local Democrats are warning the top Senate Democrat to keep away as they replace Graham Platner, and the candidates are giving his leadership in Washington low marks.
 
 Date: 2026-07-13
 
@@ -62,15 +68,8 @@ Mr. Platner’s withdrawal from a marquee Senate race, under pressure from his p
 
 Date: 2026-07-11
 
-### Discovered by Atlas
-
-Democratic Party first entered the public knowledge record with source-backed evidence.
-
-Date: 2026-07-10
-
 ## Sources
 
 - [Tributes pour in for Lindsey Graham after his death stuns D.C.](https://www.cbsnews.com/video/tributes-pour-in-sen-lindsey-graham-after-death-stuns-dc/?utm_source=lootura.com) — 2026-07-13T14:01:30.000Z
-- [Maine Democrats scramble to select replacement for Platner in Senate race](https://www.npr.org/2026/07/13/nx-s1-5888430/maine-democrats-scramble-to-select-replacement-for-platner-in-senate-race?utm_source=lootura.com) — 2026-07-13T08:48:28.000Z
-- [Maine Democrats to Chuck Schumer: Stay Out of Our Senate Race](https://www.nytimes.com/2026/07/13/us/politics/maine-democrats-schumer-stay-out-senate-race.html?utm_source=lootura.com) — 2026-07-13T09:02:46.000Z
+- [Midwest becomes next theater in Democrats' progressive vs. moderate fight](https://www.pbs.org/newshour/politics/midwest-becomes-next-theater-in-democrats-progressive-vs-moderate-fight?utm_source=lootura.com) — 2026-07-13T18:17:42.000Z
 - [Mercurial and Magnetic, Lindsey Graham Was a Force in the Senate](https://www.nytimes.com/2026/07/13/us/politics/lindsey-graham-senate-force.html?utm_source=lootura.com) — 2026-07-13T12:23:14.000Z

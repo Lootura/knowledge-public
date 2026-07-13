@@ -52,4 +52,4 @@ Date: 2026-07-09
 
 ## Sources
 
-- [Ramiro Córdova: “Francia es muy favorita sobre España” | El Pelotazo](https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/ramiro-cordova-francia-es-muy-favorita-sobre-espana-el-pelotazo-tmvo13203166?utm_source=lootura.com) — 2026-07-13T04:35:55.000Z
+No public source links.

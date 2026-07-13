@@ -3,10 +3,16 @@
 > Follow Graham Platner, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-07-13T17:53:11.557Z
+- Updated: 2026-07-13T20:55:54.181Z
 - Canonical: https://atlas.lootura.com/us/person/graham-platner
 
 ## Recent changes
+
+### Graham Platner's voters figure out what's next as candidates vie for their support
+
+Maine voters are still grappling with Democratic Senate candidate Graham Platner's dramatic departure from the race.
+
+Date: 2026-07-13
 
 ### Maine Democrats scramble to select replacement for Platner in Senate race
 
@@ -62,14 +68,6 @@ Two senior editors discuss the difficult effort to track down allegations agains
 
 Date: 2026-07-11
 
-### Graham Platner officially withdraws from the Maine Senate race
-
-Democrats have already set off a mad dash to find a new candidate, with a July 27 deadline to submit a replacement nominee to face Republican Sen. Susan Collins in the November election.
-
-Date: 2026-07-11
-
 ## Sources
 
-- [Maine Democrats scramble to select replacement for Platner in Senate race](https://www.npr.org/2026/07/13/nx-s1-5888430/maine-democrats-scramble-to-select-replacement-for-platner-in-senate-race?utm_source=lootura.com) — 2026-07-13T08:48:28.000Z
-- [Maine Secretary of State Shenna Bellows on her bid to replace Platner in Senate race](https://www.npr.org/2026/07/13/nx-s1-5888574/maine-secretary-of-state-shenna-bellows-on-her-bid-to-replace-platner-in-senate-race?utm_source=lootura.com) — 2026-07-13T08:48:19.000Z
-- [Maine Democrats to Chuck Schumer: Stay Out of Our Senate Race](https://www.nytimes.com/2026/07/13/us/politics/maine-democrats-schumer-stay-out-senate-race.html?utm_source=lootura.com) — 2026-07-13T09:02:46.000Z
+- [Graham Platner's voters figure out what's next as candidates vie for their support](https://www.npr.org/2026/07/13/nx-s1-5888428/graham-platners-voters-figure-out-whats-next-as-candidates-vie-for-their-support?utm_source=lootura.com) — 2026-07-13T20:22:39.000Z

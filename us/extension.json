@@ -1,42 +1,42 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-13T20:27:17.627Z",
+  "generatedAt": "2026-07-13T20:59:52.130Z",
   "radar": {
     "id": "usa",
     "slug": "us",
     "locale": "en"
   },
   "state": {
-    "signature": "1.15.1|2|1783965191557",
+    "signature": "1.15.1|3|1783976154181",
     "version": "1.15.1",
-    "build": 2,
-    "latestEntityUpdatedAt": "2026-07-13T17:53:11.557Z"
+    "build": 3,
+    "latestEntityUpdatedAt": "2026-07-13T20:55:54.181Z"
   },
   "atlas": {
     "hero": {
       "id": "usa-donald-trump",
       "name": "Donald Trump",
       "type": "person",
-      "title": "Trump urges S.C. governor to appoint Sen. Graham's sister as temporary replacement",
+      "title": "Lindsey Graham’s Sister Appointed to Finish His Senate Term After Trump’s Backing",
       "url": "https://atlas.lootura.com/us/person/donald-trump",
       "path": "/us/person/donald-trump",
-      "updatedAt": "2026-07-13T17:53:11.557Z",
-      "score": 1626,
-      "sourceCount": 108,
+      "updatedAt": "2026-07-13T20:55:54.181Z",
+      "score": 1641,
+      "sourceCount": 117,
       "isBreaking": false,
       "isPinned": false
     },
     "cards": [
       {
-        "id": "usa-united-states",
-        "name": "United States",
+        "id": "usa-maine",
+        "name": "Maine",
         "type": "place",
-        "title": "58 million under heat alerts as extreme temperatures scorch western U.S.",
-        "url": "https://atlas.lootura.com/us/place/united-states",
-        "path": "/us/place/united-states",
-        "updatedAt": "2026-07-13T17:53:11.557Z",
-        "score": 1566,
-        "sourceCount": 140,
+        "title": "ICE Agent Kills Person in Vehicle in Biddeford, Maine, State Officials Say",
+        "url": "https://atlas.lootura.com/us/place/maine",
+        "path": "/us/place/maine",
+        "updatedAt": "2026-07-13T20:55:54.181Z",
+        "score": 1579,
+        "sourceCount": 44,
         "isBreaking": false,
         "isPinned": false
       },
@@ -44,12 +44,12 @@
         "id": "usa-democratic-party",
         "name": "Democratic Party",
         "type": "organization",
-        "title": "Maine Democrats to Chuck Schumer: Stay Out of Our Senate Race",
+        "title": "Tributes pour in for Lindsey Graham after his death stuns D.C.",
         "url": "https://atlas.lootura.com/us/organization/democratic-party",
         "path": "/us/organization/democratic-party",
-        "updatedAt": "2026-07-13T17:53:11.557Z",
-        "score": 1559,
-        "sourceCount": 38,
+        "updatedAt": "2026-07-13T20:55:54.181Z",
+        "score": 1568,
+        "sourceCount": 39,
         "isBreaking": false,
         "isPinned": false
       },
@@ -57,29 +57,29 @@
         "id": "usa-ukraine",
         "name": "Ukraine",
         "type": "place",
-        "title": "With Lindsey Graham Gone, Ukraine Loses an Ally in Trump’s Ear",
+        "title": "Ukraine fears it will have a weaker link to Trump after Sen. Lindsey Graham's sudden death",
         "url": "https://atlas.lootura.com/us/place/ukraine",
         "path": "/us/place/ukraine",
-        "updatedAt": "2026-07-13T17:53:11.557Z",
-        "score": 1547,
-        "sourceCount": 23,
+        "updatedAt": "2026-07-13T20:55:54.181Z",
+        "score": 1565,
+        "sourceCount": 24,
         "isBreaking": false,
         "isPinned": false
       },
       {
-        "id": "usa-maine",
-        "name": "Maine",
+        "id": "usa-iran",
+        "name": "Iran",
         "type": "place",
-        "title": "Maine Democrats to Chuck Schumer: Stay Out of Our Senate Race",
-        "url": "https://atlas.lootura.com/us/place/maine",
-        "path": "/us/place/maine",
-        "updatedAt": "2026-07-13T17:53:11.557Z",
-        "score": 1531,
-        "sourceCount": 40,
+        "title": "Oil Prices Surge After Iran and U.S. Trade Strikes",
+        "url": "https://atlas.lootura.com/us/place/iran",
+        "path": "/us/place/iran",
+        "updatedAt": "2026-07-13T20:55:54.181Z",
+        "score": 1532,
+        "sourceCount": 89,
         "isBreaking": false,
         "isPinned": false
       }
     ],
-    "publicEntityCount": 23
+    "publicEntityCount": 24
   }
 }

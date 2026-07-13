@@ -3,7 +3,7 @@
 > Sigue la actividad de Organización del Tratado del Atlántico Norte en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-13T17:52:48.684Z
+- Actualizado: 2026-07-13T20:55:35.407Z
 - Canonical: https://atlas.lootura.com/es/organization/nato
 
 ## Cambios recientes
@@ -11,6 +11,12 @@
 ### La UE y la OTAN condenan los ciberataques «maliciosos» de Rusia contra los países europeos
 
 Señalan a los servicios de inteligencia del Kremlin de orquestar una ofensiva cibernética contra Francia y Alemania, que han convocado a los embajadores rusos para pedirles explicaciones.
+
+Date: 2026-07-13
+
+### La cumbre de la OTAN confirma el apoyo a Ucrania, pero evidencia la asimetría de la relación transatlántica
+
+Mijansk786/Shutterstock La reciente Cumbre de Ankara de la OTAN (7 y 8 de julio) se ha ajustado al guión establecido si atendemos en el documento suscrito por los jefes de Estado y de Gobierno de los Estados miembros. Más allá de la performance del atrabiliario presidente estadounidense, Donald Trump, impresentable des.
 
 Date: 2026-07-13
 
@@ -62,13 +68,7 @@ La OTAN está en su mejor momento, o eso dijo su secretario general, Mark Rutte,
 
 Date: 2026-07-11
 
-### "Puedes mandar a toda la UME y a toda la OTAN que no lo vas a apagar": qué hace tan extremo un incendio como el de Almería
-
-Expertos explican cómo el calor, el viento, la vegetación, los barrancos y las viviendas convirtieron el fuego de Los Gallardos en un incendio extremo Leer.
-
-Date: 2026-07-10
-
 ## Fuentes
 
 - [La UE y la OTAN condenan los ciberataques «maliciosos» de Rusia contra los países europeos](https://www.elcorreo.com/internacional/europa/ue-otan-condenan-ciberataques-maliciosos-rusia-paises-20260713160238-ntrc_amp.html?utm_source=lootura.com) — 2026-07-13T14:02:38.000Z
-- [El juez Peinado exige a Begoña Gómez que acredite que viajó a Reino Unido a la graduación de su hija](https://www.eldiario.es/politica/juez-peinado-exige-begona-gomez-acredite-viajo-reino-unido-graduacion-hija_1_13377276.html?utm_source=lootura.com) — 2026-07-13T15:29:39.000Z
+- [La cumbre de la OTAN confirma el apoyo a Ucrania, pero evidencia la asimetría de la relación transatlántica](https://theconversation.com/la-cumbre-de-la-otan-confirma-el-apoyo-a-ucrania-pero-evidencia-la-asimetria-de-la-relacion-transatlantica-287214?utm_source=lootura.com) — 2026-07-13T17:35:42.000Z

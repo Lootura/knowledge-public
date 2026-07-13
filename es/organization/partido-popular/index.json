@@ -8,16 +8,11 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/partido-popular/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/partido-popular/index.json",
   "description": "Sigue la actividad de Partido Popular en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-13T17:52:48.684Z",
+  "updatedAt": "2026-07-13T20:55:35.407Z",
   "aliases": [
     "PP"
   ],
   "changes": [
-    {
-      "title": "Fiscalía y Abogacía del Estado rechazan expulsar a la acusación popular, como pide Zapatero",
-      "summary": "Tanto la Fiscalía como la Abogacía General del Estado rechazan la petición del expresidente del Gobierno José Luis Rodríguez Zapatero de que se expulse de la causa de la Audiencia Nacional en la que está investigado por delitos de corrupción a la acusación popular aglutinada en la representación del Partido Popular.La.",
-      "date": "2026-07-13"
-    },
     {
       "title": "El PP defiende a Rajoy tras la queja por \"racismo\" de Francia: \"Son columnas sarcásticas\"",
       "summary": "El portavoz nacional de los populares, Borja Sémper asegura que las palabras del ex presidente acerca de que la selección gala juega \"sin franceses\" iban \"sin mala intención\" Leer.",
@@ -26,6 +21,21 @@
     {
       "title": "La dirección del PP defiende el comentario de Rajoy sobre la selección de Francia como “un sarcasmo” y “sin mala intención”",
       "summary": "La dirección del Partido Popular resta importancia al comentario del expresidente popular Mariano Rajoy sobre la selección nacional de fútbol de Francia, que ha provocado indignación en el país vecino. Rajoy escribió un artículo en El Debate sobre la selección gala en el que afirmaba que “juegan a un gran nivel” pero “.",
+      "date": "2026-07-13"
+    },
+    {
+      "title": "El Gobierno responde a Feijóo que su plan contra catástrofes ya está incluido en el pacto climático y le pide que lo firme: \"Llega tarde\"",
+      "summary": "El líder del Partido Popular, Alberto Núñez Feijóo , se ha comprometido este lunes desde la localidad almeriense de los Gallardos, que ha sufrido el incendio más mortífero de este siglo en España, a elaborar un \"gran acuerdo de prevención, respuesta y coordinación\" ante catástrofes naturales si se convierte en el próxi.",
+      "date": "2026-07-13"
+    },
+    {
+      "title": "Feijóo anuncia desde Almería un plan nacional contra los incendios si llega a La Moncloa",
+      "summary": "El líder del PP, Alberto Núñez Feijóo , ha asegurado que espera que «continúe la colaboración y la coordinación» entre administraciones como se ha visto con el incendio en Los Gallardos (Almería) y que «nadie estropee» la unidad de acción. Dicho esto, ha anunciado un plan de prevención de riesgos naturales si llega al.",
+      "date": "2026-07-13"
+    },
+    {
+      "title": "Fiscalía y Abogacía del Estado rechazan expulsar a la acusación popular, como pide Zapatero",
+      "summary": "Tanto la Fiscalía como la Abogacía General del Estado rechazan la petición del expresidente del Gobierno José Luis Rodríguez Zapatero de que se expulse de la causa de la Audiencia Nacional en la que está investigado por delitos de corrupción a la acusación popular aglutinada en la representación del Partido Popular.La.",
       "date": "2026-07-13"
     },
     {
@@ -52,36 +62,14 @@
       "title": "Imputado el alcalde del PP de Móstoles por acoso sexual y laboral a una exedil de su partido",
       "summary": "La jueza que investiga el caso de presunto acoso sexual y laboral a una exconcejala del PP de Móstoles ha imputado al alcalde de la localidad, el también popular Manuel Bautista . La titular del juzgado número 2 de Violencia sobre la Mujer del Tribunal de Instancia de Móstoles ha citado como investigado al alcalde de l.",
       "date": "2026-07-13"
-    },
-    {
-      "title": "Ángel Víctor Torres: “En 2027 puede haber 500.000 nuevos nacionalizados con derecho a voto”",
-      "summary": "El ministro de Política Territorial y Memoria Democrática, Ángel Víctor Torres (Arucas, Gran Canaria, 60 años), aclara las dudas sobre la llamada ley de nietos tras las acusaciones de intento de pucherazo y manipulación del censo lanzadas por el PP. Filólogo de formación y exprofesor de instituto, fue presidente de Can.",
-      "date": "2026-07-13"
-    },
-    {
-      "title": "El PP de Madrid mantiene su respaldo al alcalde de Móstoles tras su imputación por presunto acoso sexual",
-      "summary": "“Absolutamente” y “por supuesto”. Esas dos expresiones son las que han utilizado los altos cargos del PP de Madrid para reiterar su respaldo al alcalde de Móstoles, el popular Manuel Bautista, después de que este lunes trascendiera su imputación por un presunto delito de acoso sexual y laboral a una exconcejala de ese.",
-      "date": "2026-07-13"
     }
   ],
   "sources": [
     {
-      "title": "Feijóo promete desde Almería impulsar un \"gran acuerdo de prevención, respuesta y coordinación\" ante catástrofes naturales",
-      "url": "https://www.20minutos.es/nacional/feijoo-promete-desde-almeria-impulsar-un-gran-acuerdo-prevencion-respuesta-coordinacion-ante-catastrofes-naturales_7014137_0.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-13T16:56:11.000Z",
+      "title": "El Gobierno responde a Feijóo que su plan contra catástrofes ya está incluido en el pacto climático y le pide que lo firme: \"Llega tarde\"",
+      "url": "https://www.20minutos.es/nacional/gobierno-responde-feijoo-que-su-plan-contra-catastrofes-ya-esta-incluido-pacto-climatico-le-pide-que-firme-llega-tarde_7014189_0.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-13T20:19:40.000Z",
       "sourceId": "lootura-es-20minutos"
-    },
-    {
-      "title": "Fiscalía y Abogacía del Estado rechazan expulsar a la acusación popular, como pide Zapatero",
-      "url": "https://www.abc.es/espana/fiscalia-abogacia-estado-rechazan-expulsar-acusacion-popular-20260713142806-nt.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-13T17:03:29.000Z",
-      "sourceId": "lootura-es-abc"
-    },
-    {
-      "title": "El PP quita hierro a la frase de Rajoy que provocó un choque diplomático con Francia: \"Fue sin mala intención\"",
-      "url": "https://www.elconfidencial.com/espana/2026-07-13/pp-rajoy-francia-choque-fue-sin-mala-intencion_4389268/?utm_source=lootura.com",
-      "publishedAt": "2026-07-13T14:38:00.000Z",
-      "sourceId": "lootura-es-el-confidencial"
     },
     {
       "title": "El PP defiende a Rajoy tras la queja por \"racismo\" de Francia: \"Son columnas sarcásticas\"",
@@ -96,11 +84,11 @@
       "sourceId": "lootura-es-el-pais"
     },
     {
-      "title": "Feijóo sin complejos: “ingeniería electoral”, “concebido y no nacido” y “absentismo laboral»",
-      "url": "https://okdiario.com/opinion/feijoo-sin-complejos-ingenieria-electoral-concebido-no-nacido-absentismo-laboral-18983803?utm_source=lootura.com",
-      "publishedAt": "2026-07-13T17:00:57.000Z",
-      "sourceId": "lootura-es-ok-diario"
+      "title": "Feijóo anuncia desde Almería un plan nacional contra los incendios si llega a La Moncloa",
+      "url": "https://theobjective.com/espana/politica/2026-07-13/feijoo-plan-nacional-incendios-la-moncloa/?utm_source=lootura.com",
+      "publishedAt": "2026-07-13T19:12:57.000Z",
+      "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 7
+  "evidenceCount": 5
 }

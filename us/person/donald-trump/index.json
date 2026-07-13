@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/donald-trump/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/donald-trump/index.json",
   "description": "Follow Donald Trump, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-13T17:53:11.557Z",
+  "updatedAt": "2026-07-13T20:55:54.181Z",
   "aliases": [
     "President Donald Trump",
     "President Trump",
@@ -18,11 +18,6 @@
     {
       "title": "Sen. Lindsey Graham's cause of death was aortic dissection, medical examiner says",
       "summary": "President Trump paid tribute to the late senator, who was reportedly scheduled to do an interview on Sunday.",
-      "date": "2026-07-13"
-    },
-    {
-      "title": "Former member of federal Election Assistance Commission speaks out after dismissal",
-      "summary": "NPR's Michel Martin speaks with Benjamin Hovland, one of three members of the Election Assistance Commission fired last week by President Trump.",
       "date": "2026-07-13"
     },
     {
@@ -46,23 +41,28 @@
       "date": "2026-07-13"
     },
     {
-      "title": "Oil jumps 6% after Trump reimposes Iran blockade on Strait of Hormuz",
-      "summary": "The price of oil jumped after President Trump declared on social media that the U.S. would be “reimbursed” for helping ships transit the Strait of Hormuz.",
-      "date": "2026-07-13"
-    },
-    {
-      "title": "Trump recommends South Carolina’s governor appoint Lindsey Graham’s sister to finish his Senate term",
-      "summary": "President Donald Trump said Monday that he has recommended to South Carolina Gov. Henry McMaster that he choose Lindsey Graham’s sister, Darline Graham Nordone, to serve the remainder of the late Republican senator’s term, which ends in early January.",
-      "date": "2026-07-13"
-    },
-    {
-      "title": "Trump says the U.S. will reinstate its blockade on Iran and charge a toll on ships",
-      "summary": "The move comes after the U.S. and Iran exchanged fire for the third weekend in a row, raising the specter of a return to all-out war after a shaky ceasefire took effect in June. (Image credit: AFPTV).",
-      "date": "2026-07-13"
-    },
-    {
       "title": "Trump urges S.C. governor to appoint Sen. Graham's sister as temporary replacement",
       "summary": "Sen. Lindsey Graham died over the weekend at age 71, and Gov. Henry McMaster is expected to announce his pick later Monday.",
+      "date": "2026-07-13"
+    },
+    {
+      "title": "Trump suggests he has left a standing order to attack Iran if it assassinates him. But Vance would make the call",
+      "summary": "President Trump is suggesting he has left standing orders for the U.S. military to destroy Iran \" at levels they've never seen before \" if Tehran follows through on its long-standing threats to kill him.",
+      "date": "2026-07-13"
+    },
+    {
+      "title": "McMaster, Trump look to Graham's sister for Senate",
+      "summary": "President Donald Trump said Monday he wants South Carolina Gov. Henry McMaster to appoint Lindsey Graham’s sister, Darline Graham Nordone, to serve the remainder of the late senator’s term. One Republican familiar with McMaster’s plans said the governor intends to appoint Nordone to serve in the Senate for the rest of.",
+      "date": "2026-07-13"
+    },
+    {
+      "title": "How Lindsey Graham’s Journey From Trump Critic to Ally Made Him a Power Player",
+      "summary": "He initially called Donald Trump a “kook” who was “unfit for office,” only to join the new president’s Mar-a-Lago circle. “I’m still in the game,” Mr. Graham once explained of his much-analyzed turnabout.",
+      "date": "2026-07-13"
+    },
+    {
+      "title": "Oil surges more than 9% after Trump reimposes Iran blockade",
+      "summary": "The price of oil jumped after President Trump declared on social media that the U.S. would be “reimbursed” for helping ships transit the Strait of Hormuz.",
       "date": "2026-07-13"
     }
   ],
@@ -70,7 +70,7 @@
     {
       "title": "Judge rebukes Trump and DOJ over IRS lawsuit in scathing decision",
       "url": "https://www.cbsnews.com/news/judge-trump-justice-department-irs-lawsuit-anti-weaponization-fund-settlement/?utm_source=lootura.com",
-      "publishedAt": "2026-07-13T17:04:07.000Z",
+      "publishedAt": "2026-07-13T19:48:14.000Z",
       "sourceId": "lootura-us-cbs-news"
     },
     {
@@ -86,34 +86,34 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "Oil jumps 6% after Trump reimposes Iran blockade on Strait of Hormuz",
-      "url": "https://www.nbcnews.com/business/markets/oil-rises-trump-reimposes-hormuz-blockade-rcna587297?utm_source=lootura.com",
-      "publishedAt": "2026-07-13T15:01:13.000Z",
-      "sourceId": "lootura-us-nbc-news"
-    },
-    {
       "title": "US and Iran Trade Strikes as Ceasefire Deal Efforts Unravel",
       "url": "https://www.today.com/video/us-and-iran-trade-strikes-as-ceasefire-deal-efforts-unravel-266581061712?utm_source=lootura.com",
       "publishedAt": "2026-07-13T11:21:19.000Z",
       "sourceId": "lootura-us-nbc-news"
     },
     {
-      "title": "Trump recommends South Carolina’s governor appoint Lindsey Graham’s sister to finish his Senate term",
-      "url": "https://www.nbcnews.com/politics/2026-election/trump-lindsey-graham-sister-darline-mcmaster-appoint-senate-term-rcna587302?utm_source=lootura.com",
-      "publishedAt": "2026-07-13T16:56:24.000Z",
+      "title": "Oil surges more than 9% after Trump reimposes Iran blockade",
+      "url": "https://www.nbcnews.com/business/markets/oil-rises-trump-reimposes-hormuz-blockade-rcna587297?utm_source=lootura.com",
+      "publishedAt": "2026-07-13T15:01:13.000Z",
+      "sourceId": "lootura-us-nbc-news"
+    },
+    {
+      "title": "Appointment of Lindsey Graham's sister to Senate a 'fitting tribute’: Former South Carolina governor",
+      "url": "https://www.nbcnews.com/meet-the-press/video/appointment-of-lindsey-graham-s-sister-to-senate-a-fitting-tribute-former-south-carolina-governor-266606661732?utm_source=lootura.com",
+      "publishedAt": "2026-07-13T20:37:47.000Z",
       "sourceId": "lootura-us-nbc-news-politics"
     },
     {
-      "title": "Former member of federal Election Assistance Commission speaks out after dismissal",
-      "url": "https://www.npr.org/2026/07/13/nx-s1-5891002/former-member-of-federal-election-assistance-commission-speaks-out-after-dismissal?utm_source=lootura.com",
-      "publishedAt": "2026-07-13T08:46:32.000Z",
-      "sourceId": "lootura-us-npr-politics"
+      "title": "Trump's HHS abandons threat to withhold Medicare and Medicaid funding over trans care",
+      "url": "https://www.npr.org/2026/07/13/nx-s1-5888586/transgender-gender-affirming-care-medicare-medicaid-hhs?utm_source=lootura.com",
+      "publishedAt": "2026-07-13T20:22:49.000Z",
+      "sourceId": "lootura-us-npr"
     },
     {
-      "title": "Trump says the U.S. will reinstate its blockade on Iran and charge a toll on ships",
-      "url": "https://www.npr.org/2026/07/13/nx-s1-5891746/us-iran-strait-of-hormuz-updates?utm_source=lootura.com",
-      "publishedAt": "2026-07-13T16:53:40.000Z",
-      "sourceId": "lootura-us-npr-world"
+      "title": "South Carolina's governor names Lindsey Graham's sister to serve out his term",
+      "url": "https://www.npr.org/2026/07/13/nx-s1-5891839/lindsey-graham-senate-seat-darline-graham?utm_source=lootura.com",
+      "publishedAt": "2026-07-13T20:17:53.000Z",
+      "sourceId": "lootura-us-npr-politics"
     },
     {
       "title": "Trump urges S.C. governor to appoint Sen. Graham's sister as temporary replacement",
@@ -122,11 +122,11 @@
       "sourceId": "lootura-us-pbs-newshour"
     },
     {
-      "title": "Trump suggests he has left a standing order to attack Iran if it assassinates him. But Vance would make the call",
-      "url": "https://www.pbs.org/newshour/nation/trump-suggests-he-has-left-a-standing-order-to-attack-iran-if-it-assassinates-him-but-vance-would-make-the-call?utm_source=lootura.com",
-      "publishedAt": "2026-07-13T17:41:47.000Z",
+      "title": "Ukraine fears it will have a weaker link to Trump after Sen. Lindsey Graham's sudden death",
+      "url": "https://www.pbs.org/newshour/world/ukraine-fears-it-will-have-a-weaker-link-to-trump-after-sen-lindsey-grahams-sudden-death?utm_source=lootura.com",
+      "publishedAt": "2026-07-13T19:17:26.000Z",
       "sourceId": "lootura-us-pbs-newshour"
     }
   ],
-  "evidenceCount": 14
+  "evidenceCount": 20
 }

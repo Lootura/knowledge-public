@@ -3,7 +3,7 @@
 > Sigue la actividad de Lamine Yamal en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-13T10:57:59.389Z
+- Actualizado: 2026-07-13T20:55:35.407Z
 - Canonical: https://atlas.lootura.com/es/person/lamine-yamal
 
 ## Cambios recientes
@@ -34,4 +34,4 @@ Date: 2026-07-08
 
 ## Fuentes
 
-No public source links.
+- [Cuándo es el España – Francia: horario del partido de la Selección y dónde ver en directo gratis y en vivo online la semifinal del Mundial 2026](https://okdiario.com/mundial/cuando-espana-francia-horario-del-partido-seleccion-donde-ver-directo-gratis-vivo-online-semifinal-del-mundial-2026-video-18983383?utm_source=lootura.com) — 2026-07-13T19:00:20.000Z

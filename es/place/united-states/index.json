@@ -8,28 +8,13 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/united-states/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/united-states/index.json",
   "description": "Sigue la actividad de Estados Unidos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-13T17:52:48.684Z",
+  "updatedAt": "2026-07-13T20:55:35.407Z",
   "aliases": [
     "America",
     "Estados Unidos",
     "U.S."
   ],
   "changes": [
-    {
-      "title": "La economía circular de los Trump: los hijos invierten en Defensa y el padre inyecta dinero en ella",
-      "summary": "Los hijos del presidente de Estados Unidos, Donald Trump Jr. y Eric Trump, han acumulado una cartera de empresas emergentes de tecnología de defensa que se está beneficiando de las nuevas prioridades y gastos del Pentágono, según revela hoy The Washington Post. esta colisión de intereses puede poner en aprietos legales.",
-      "date": "2026-07-13"
-    },
-    {
-      "title": "Trump anuncia un peaje del 20% para todos los barcos que crucen el estrecho de Ormuz",
-      "summary": "Donald Trump anunció este lunes que Estados Unidos pretende cobrar una tasa del 20% sobre toda la carga transportada por los barcos que atraviesen el estrecho de Ormuz, como compensación por el coste de mantener abierta y protegida una de las rutas marítimas más importantes del mundo. El plan pone de relieve la graveda.",
-      "date": "2026-07-13"
-    },
-    {
-      "title": "Trump: \"EEUU será el guardián de Ormuz\" y cobrará un 20% a cada buque al que franquee el paso",
-      "summary": "Donald Trump ha asegurado este lunes que Estados Unidos será el \"guardián del estrecho de Ormuz\" y garantizará que el paso continúe abierto pese a la nueva escalada...",
-      "date": "2026-07-13"
-    },
     {
       "title": "¿Y si al final EEUU e Irán se ponen de acuerdo y cobran por pasar por Ormuz?",
       "summary": "Cuando, al inicio de la guerra desatada por Estados Unidos e Israel contra Irán, el régimen de los ayatolas cerró el paso por el estrecho de Ormuz a cualquier barco en un intento de conseguir que países dependientes de las importaciones de crudo de la zona presionaran para parar el conflicto, la medida fue criticada po.",
@@ -43,6 +28,21 @@
     {
       "title": "Doce estados de EEUU demandan a Warner Bros y Paramount para bloquear su fusión",
       "summary": "Una coalición de doce estados de Estados Unidos emprendió una demanda que impugna la adquisición de Warner Bros. Discovery, Inc. por parte de Paramount.",
+      "date": "2026-07-13"
+    },
+    {
+      "title": "La economía circular de los Trump: los hijos invierten en Defensa y el padre inyecta dinero en ella",
+      "summary": "Los hijos del presidente de Estados Unidos, Donald Trump Jr. y Eric Trump, han acumulado una cartera de empresas emergentes de tecnología de defensa que se está beneficiando de las nuevas prioridades y gastos del Pentágono, según revela hoy The Washington Post. esta colisión de intereses puede poner en aprietos legales.",
+      "date": "2026-07-13"
+    },
+    {
+      "title": "Trump anuncia un peaje del 20% para todos los barcos que crucen el estrecho de Ormuz",
+      "summary": "Donald Trump anunció este lunes que Estados Unidos pretende cobrar una tasa del 20% sobre toda la carga transportada por los barcos que atraviesen el estrecho de Ormuz, como compensación por el coste de mantener abierta y protegida una de las rutas marítimas más importantes del mundo. El plan pone de relieve la graveda.",
+      "date": "2026-07-13"
+    },
+    {
+      "title": "Trump: \"EEUU será el guardián de Ormuz\" y cobrará un 20% a cada buque al que franquee el paso",
+      "summary": "Donald Trump ha asegurado este lunes que Estados Unidos será el \"guardián del estrecho de Ormuz\" y garantizará que el paso continúe abierto pese a la nueva escalada...",
       "date": "2026-07-13"
     },
     {
@@ -68,28 +68,16 @@
   ],
   "sources": [
     {
-      "title": "Trump anuncia un peaje del 20% para todos los barcos que crucen el estrecho de Ormuz",
-      "url": "https://www.abc.es/internacional/trump-asegura-estados-unidos-controlara-estrecho-ormuz-20260713143412-nt.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-13T17:00:54.000Z",
-      "sourceId": "lootura-es-abc"
-    },
-    {
-      "title": "Trump: \"EEUU será el guardián de Ormuz\" y cobrará un 20% a cada buque al que franquee el paso",
-      "url": "https://amp.expansion.com/economia/2026/07/13/6a54f773468aeb0b788b4577.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-13T14:35:19.000Z",
-      "sourceId": "lootura-es-expansion"
+      "title": "Como en Qatar 2022, Argentina y Messi se rebelan al dominio europeo",
+      "url": "https://elpais.com/deportes/mundial-futbol/2026-07-13/como-en-qatar-2022-argentina-y-messi-se-rebelan-al-dominio-europeo.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-13T12:11:34.000Z",
+      "sourceId": "lootura-es-el-pais"
     },
     {
       "title": "¿Y si al final EEUU e Irán se ponen de acuerdo y cobran por pasar por Ormuz?",
       "url": "https://www.expansion.com/opinion/2026/07/13/6a551d55e5fdea33278b4575.html?utm_source=lootura.com",
       "publishedAt": "2026-07-13T17:24:57.000Z",
       "sourceId": "lootura-es-expansion"
-    },
-    {
-      "title": "La economía circular de los Trump: los hijos invierten en Defensa y el padre inyecta dinero en ella",
-      "url": "https://www.larazon.es/internacional/economia-circular-trump-hijos-invierten-defensa-padre-inyecta-dinero-ella_202607136a54f5ecc48a78681b86d49c.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-13T14:27:56.000Z",
-      "sourceId": "lootura-es-la-razon"
     },
     {
       "title": "Estados Unidos prueba en Marruecos misiles de precisión de largo alcance",
@@ -104,5 +92,5 @@
       "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 6
+  "evidenceCount": 3
 }

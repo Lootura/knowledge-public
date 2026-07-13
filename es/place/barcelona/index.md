@@ -3,20 +3,26 @@
 > Sigue la actividad de Barcelona en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-13T17:52:48.684Z
+- Actualizado: 2026-07-13T20:55:35.407Z
 - Canonical: https://atlas.lootura.com/es/place/barcelona
 
 ## Cambios recientes
 
-### En libertad el exalcalde de Sant Feliu (Girona) investigado por presuntamente masturbarse en una piscina
-
-La sección de Instrucción del Tribunal de Instancia de Arenys de Mar (Barcelona) ha acordado l ibertad a disposición del juez para el exalcalde de Sant Feliu de Guíxols (Girona), Pere Albó, detenido este domingo por un presunto delito de exhibicionismo al masturbarse frente a menores de edad en la piscina de un hotel d.
-
-Date: 2026-07-13
-
 ### El filial del Barcelona de cuarta categoría lleva ya gastado más dinero que 10 equipos de Primera División
 
 El Barcelona ha comenzado este mercado de fichajes con mucho movimiento y millones gastados entre su primer equipo y su filial.
+
+Date: 2026-07-13
+
+### Un muerto y cinco heridos en el incendio de un piso en el Ensanche de Barcelona
+
+Un hombre de unos 60 años ha muerto y otras cinco personas han resultado heridas, ninguna de ellas de gravedad, en el incendio de un piso esta pasada madrugada en el distrito del Ensanche de Barcelona. Según ha informado el Ayuntamiento de Barcelona, los Bomberos han recibido poco después de las cuatro de la madrugada.
+
+Date: 2026-07-13
+
+### En libertad el exalcalde de Sant Feliu (Girona) investigado por presuntamente masturbarse en una piscina
+
+La sección de Instrucción del Tribunal de Instancia de Arenys de Mar (Barcelona) ha acordado l ibertad a disposición del juez para el exalcalde de Sant Feliu de Guíxols (Girona), Pere Albó, detenido este domingo por un presunto delito de exhibicionismo al masturbarse frente a menores de edad en la piscina de un hotel d.
 
 Date: 2026-07-13
 
@@ -62,13 +68,7 @@ Joan Laporta ha mandado un aviso en la noche de este domingo desde Dallas al Atl
 
 Date: 2026-07-12
 
-### La tercera marcha de Flick arranca en Barcelona con una obsesión
-
-El Barcelona arranca la temporada 26/27 este lunes , 13 de julio, a las 9:00 horas en la Ciudad Deportiva Joan Gamper sin los internacionales. El tercer curso de Hansi Flick al frente del equipo blaugrana se pone en marcha con la obsesión de poder ganar la Champions League más de diez años después. Vuelve el Barça al t.
-
-Date: 2026-07-12
-
 ## Fuentes
 
-- [En libertad el exalcalde de Sant Feliu (Girona) investigado por presuntamente masturbarse en una piscina](https://www.elconfidencial.com/espana/cataluna/2026-07-13/detenido-el-exalcalde-de-sant-feliu-pere-albo-masturbarse-piscina_4389218/?utm_source=lootura.com) — 2026-07-13T15:50:00.000Z
 - [El filial del Barcelona de cuarta categoría lleva ya gastado más dinero que 10 equipos de Primera División](https://okdiario.com/deportes/filial-del-barcelona-cuarta-categoria-lleva-ya-gastado-mas-dinero-que-10-equipos-primera-division-18988055/amp?utm_source=lootura.com) — 2026-07-13T17:32:26.000Z
+- [Un muerto y cinco heridos en el incendio de un piso en el Ensanche de Barcelona](https://theobjective.com/sociedad/suceso/2026-07-13/muerto-cinco-heridos-incendio-piso-barcelona/?utm_source=lootura.com) — 2026-07-13T19:46:59.000Z

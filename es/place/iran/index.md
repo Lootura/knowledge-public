@@ -3,7 +3,7 @@
 > Sigue la actividad de Iran en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-13T17:52:48.684Z
+- Actualizado: 2026-07-13T20:55:35.407Z
 - Canonical: https://atlas.lootura.com/es/place/iran
 
 ## Cambios recientes

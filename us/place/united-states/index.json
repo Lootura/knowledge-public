@@ -8,18 +8,13 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/united-states/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/united-states/index.json",
   "description": "Follow United States, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-13T17:53:11.557Z",
+  "updatedAt": "2026-07-13T20:55:54.181Z",
   "aliases": [
     "America",
     "Estados Unidos",
     "U.S."
   ],
   "changes": [
-    {
-      "title": "58 million under heat alerts as extreme temperatures scorch western U.S.",
-      "summary": "Heat alerts were issued for millions across parts of the western U.S. Sunday as an unusually prolonged heat dome reached its peak.",
-      "date": "2026-07-13"
-    },
     {
       "title": "Lindsey Graham, Republican Senator and Trump Ally, Dies From ‘Sudden Illness’",
       "summary": "He consistently pushed for the use of U.S. military power overseas. The Washington, D.C., medical examiner said he died of an aortic dissection, a tear in the body’s main artery.",
@@ -64,19 +59,18 @@
       "title": "Strait of Hormuz Ship Traffic Falls to Lowest Point in a Month After Strikes",
       "summary": "Shipping activity plummeted after Iran attacked a ship, setting off U.S. strikes. Little crude oil is being transported through the critical waterway.",
       "date": "2026-07-13"
+    },
+    {
+      "title": "Trump suggests he has left a standing order to attack Iran if it assassinates him. But Vance would make the call",
+      "summary": "President Trump is suggesting he has left standing orders for the U.S. military to destroy Iran \" at levels they've never seen before \" if Tehran follows through on its long-standing threats to kill him.",
+      "date": "2026-07-13"
     }
   ],
   "sources": [
     {
       "title": "Judge rebukes Trump and DOJ over IRS lawsuit in scathing decision",
       "url": "https://www.cbsnews.com/news/judge-trump-justice-department-irs-lawsuit-anti-weaponization-fund-settlement/?utm_source=lootura.com",
-      "publishedAt": "2026-07-13T17:04:07.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
-    {
-      "title": "58 million under heat alerts as extreme temperatures scorch western U.S.",
-      "url": "https://www.cbsnews.com/news/40-million-under-alerts-heat-dome-peaks-western-us/?utm_source=lootura.com",
-      "publishedAt": "2026-07-13T08:01:33.000Z",
+      "publishedAt": "2026-07-13T19:48:14.000Z",
       "sourceId": "lootura-us-cbs-news"
     },
     {
@@ -92,15 +86,15 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "Oil jumps 6% after Trump reimposes Iran blockade on Strait of Hormuz",
-      "url": "https://www.nbcnews.com/business/markets/oil-rises-trump-reimposes-hormuz-blockade-rcna587297?utm_source=lootura.com",
-      "publishedAt": "2026-07-13T15:01:13.000Z",
-      "sourceId": "lootura-us-nbc-news"
-    },
-    {
       "title": "US and Iran Trade Strikes as Ceasefire Deal Efforts Unravel",
       "url": "https://www.today.com/video/us-and-iran-trade-strikes-as-ceasefire-deal-efforts-unravel-266581061712?utm_source=lootura.com",
       "publishedAt": "2026-07-13T11:21:19.000Z",
+      "sourceId": "lootura-us-nbc-news"
+    },
+    {
+      "title": "Oil surges more than 9% after Trump reimposes Iran blockade",
+      "url": "https://www.nbcnews.com/business/markets/oil-rises-trump-reimposes-hormuz-blockade-rcna587297?utm_source=lootura.com",
+      "publishedAt": "2026-07-13T15:01:13.000Z",
       "sourceId": "lootura-us-nbc-news"
     },
     {
@@ -116,16 +110,22 @@
       "sourceId": "lootura-us-npr"
     },
     {
-      "title": "Georgia's unique in the American Revolution told through its historical markers",
-      "url": "https://www.npr.org/2026/07/12/nx-s1-5886144/georgias-unique-in-the-american-revolution-told-through-its-historical-markers?utm_source=lootura.com",
-      "publishedAt": "2026-07-12T21:08:15.000Z",
-      "sourceId": "lootura-us-npr"
+      "title": "On foreign policy, Graham's influence may have been felt the most",
+      "url": "https://www.npr.org/2026/07/13/nx-s1-5890936/on-foreign-policy-grahams-influence-may-have-been-felt-the-most?utm_source=lootura.com",
+      "publishedAt": "2026-07-13T20:05:24.000Z",
+      "sourceId": "lootura-us-npr-politics"
     },
     {
-      "title": "Trump says the U.S. will reinstate its blockade on Iran and charge a toll on ships",
-      "url": "https://www.npr.org/2026/07/13/nx-s1-5891746/us-iran-strait-of-hormuz-updates?utm_source=lootura.com",
-      "publishedAt": "2026-07-13T16:53:40.000Z",
-      "sourceId": "lootura-us-npr-world"
+      "title": "Trump suggests he has left a standing order to attack Iran if it assassinates him. But Vance would make the call",
+      "url": "https://www.pbs.org/newshour/nation/trump-suggests-he-has-left-a-standing-order-to-attack-iran-if-it-assassinates-him-but-vance-would-make-the-call?utm_source=lootura.com",
+      "publishedAt": "2026-07-13T17:41:47.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
+    },
+    {
+      "title": "Strait of Hormuz Ship Traffic Falls to Lowest Point in a Month After Strikes",
+      "url": "https://www.nytimes.com/2026/07/13/business/strait-hormuz-shipping-traffic-iran-war.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-13T14:18:11.000Z",
+      "sourceId": "lootura-us-the-new-york-times"
     }
   ],
   "evidenceCount": 19

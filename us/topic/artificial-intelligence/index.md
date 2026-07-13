@@ -3,7 +3,7 @@
 > Follow Artificial intelligence, a tracked topic, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: topic
-- Updated: 2026-07-13T17:53:11.557Z
+- Updated: 2026-07-13T20:55:54.181Z
 - Canonical: https://atlas.lootura.com/us/topic/artificial-intelligence
 
 ## Recent changes
@@ -17,6 +17,18 @@ Date: 2026-07-13
 ### AI companies are creating "generative ghosts" of deceased loved ones
 
 Startups are using emails, photos and voice recordings to create AI simulations that family and friends can interact with after a loved one's death.
+
+Date: 2026-07-13
+
+### Developer ecosystem expanded
+
+Siri has been on the Apple Watch since day one, though I'm usually hard-pressed to find people who actually make good use of it. It's kind of just… been there - mostly as a way to set timers when my hands are full. But after playing around with the watchOS 27 developer beta, I get the sense that'll start to change. Not.
+
+Date: 2026-07-13
+
+### Developer ecosystem expanded
+
+Siri AI in iOS 27. iOS 27 escaped the developer world today with the launch of the first public beta. I've been testing the new operating system since early June, looking for quirks and seeing if it can live up to the hype Apple promised in the keynote. This year's iOS upgrades are what one might call a Snow Leopard up.
 
 Date: 2026-07-13
 
@@ -56,21 +68,9 @@ According to a 2025 survey of 2,000 U.S. adults by Pearl.com, a professional ser
 
 Date: 2026-07-12
 
-### Lorde says Ray-Ban Meta AI glasses are ‘not sexy’
-
-Lorde performing at the 2026 Governors Ball. | Photo: Siegfried Anthony/Billboard via Getty Images Lorde was performing at the Real Cool Festival in Madrid on Thursday and took some time during her set to speak out against AI glasses . While she didn't specify any brands in particular, it's likely she was taking a shot.
-
-Date: 2026-07-12
-
-### Machine learning calibration of biosensors for microcystin toxin monitoring in freshwater
-
-Portable screen-printed carbon electrode (SPCE) biosensors offer a rapid, low-cost way to detect microcystin-lysine-arginine (MC-LR), an extremely potent toxin produced by cyanobacteria during harmful algal blooms in freshwater. Even at low concentrations, MC-LR can damage the liver and has been linked to an increased.
-
-Date: 2026-07-12
-
 ## Sources
 
 - [AI companies are creating "generative ghosts" of deceased loved ones](https://www.cbsnews.com/news/ai-ghost-chatbots-deceased-loved-ones/?utm_source=lootura.com) — 2026-07-13T17:04:42.000Z
-- [Does AI work for us, or do we work for AI?](https://www.science.org/doi/abs/10.1126/science.aei9754?af=R&utm_source=lootura.com) — 2026-07-13T17:53:17.064Z
-- [The Asus ROG Flow Z13 gaming tablet with 64GB RAM is down to $2,100](https://www.theverge.com/gadgets/964652/asus-rog-flow-z13-switch-2-camera-amd-ryzen-ddr4-deal-sale?utm_source=lootura.com) — 2026-07-13T14:52:14.000Z
-- [Even Nvidia’s head of automotive fights with Nvidia for compute](https://www.theverge.com/podcast/964614/nvidia-auto-xinzhou-wu-ev-ai-hyperion-autonomy-cars-tesla?utm_source=lootura.com) — 2026-07-13T15:00:00.000Z
+- [Does AI work for us, or do we work for AI?](https://www.science.org/doi/abs/10.1126/science.aei9754?af=R&utm_source=lootura.com) — 2026-07-13T20:55:58.504Z
+- [Siri AI makes the Apple Watch finally feel like a wrist computer](https://www.theverge.com/tech/964800/watchos-27-preview-siri-ai-apple-watch-gestures-smartwatch?utm_source=lootura.com) — 2026-07-13T20:44:20.000Z
+- [Siri AI is already changing how I use my iPhone](https://www.theverge.com/tech/964714/siri-ai-public-beta-preview-ios-27-hands-on?utm_source=lootura.com) — 2026-07-13T20:43:20.000Z

@@ -58,4 +58,4 @@ Date: 2026-07-08
 
 ## Sources
 
-- [Maine Secretary of State Shenna Bellows on her bid to replace Platner in Senate race](https://www.npr.org/2026/07/13/nx-s1-5888574/maine-secretary-of-state-shenna-bellows-on-her-bid-to-replace-platner-in-senate-race?utm_source=lootura.com) — 2026-07-13T08:48:19.000Z
+No public source links.

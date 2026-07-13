@@ -3,20 +3,20 @@
 > Follow China, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-13T17:53:11.557Z
+- Updated: 2026-07-13T20:55:54.181Z
 - Canonical: https://atlas.lootura.com/us/place/china
 
 ## Recent changes
 
-### Himalayan snowfall has been miscalculated for years, here's how we found a new way to measure it
-
-Mountain snow and meltwater from glaciers in the Himalayas determine how much water is available for drinking, farming and hydropower for millions of people in India, Pakistan, Nepal, China and Afghanistan.
-
-Date: 2026-07-13
-
 ### Will Oil Prices Rise as the US-Iran Truce Frays? The Answer Lies With China.
 
 For decades, OPEC influenced the market by how much oil it produced. But China, the largest importer, is demonstrating its remarkable power over prices.
+
+Date: 2026-07-13
+
+### Himalayan snowfall has been miscalculated for years, here's how we found a new way to measure it
+
+Mountain snow and meltwater from glaciers in the Himalayas determine how much water is available for drinking, farming and hydropower for millions of people in India, Pakistan, Nepal, China and Afghanistan.
 
 Date: 2026-07-13
 
@@ -70,5 +70,4 @@ Date: 2026-07-11
 
 ## Sources
 
-- [Himalayan snowfall has been miscalculated for years, here's how we found a new way to measure it](https://phys.org/news/2026-07-himalayan-snowfall-miscalculated-years.html?utm_source=lootura.com) — 2026-07-13T17:40:04.000Z
-- [Will Oil Prices Rise as the US-Iran Truce Frays? The Answer Lies With China.](https://www.nytimes.com/2026/07/13/business/energy-environment/oil-prices-iran-china.html?utm_source=lootura.com) — 2026-07-13T16:34:34.000Z
+- [Will Oil Prices Rise as the US-Iran Truce Frays? The Answer Lies With China.](https://www.nytimes.com/2026/07/13/business/energy-environment/oil-prices-iran-china.html?utm_source=lootura.com) — 2026-07-13T18:00:46.000Z

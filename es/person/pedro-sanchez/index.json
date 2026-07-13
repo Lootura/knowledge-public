@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/pedro-sanchez/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/pedro-sanchez/index.json",
   "description": "Sigue la actividad de Pedro Sánchez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-13T17:52:48.684Z",
+  "updatedAt": "2026-07-13T20:55:35.407Z",
   "aliases": [
     "Sánchez"
   ],
@@ -21,6 +21,11 @@
     {
       "title": "El juez Peinado reclama a Begoña Gómez que “acredite” que solo usó su pasaporte para viajar a Reino Unido",
       "summary": "El magistrado Juan Carlos Peinado, que abrió juicio oral contra Begoña Gómez el 20 de junio y le prohibió salir de España, ha dictado este lunes una resolución para reclamar a la esposa de Pedro Sánchez que “acredite” que solo usó el pasaporte la pasada semana para viajar al Reino Unido. El juzgado le devolvió el docum.",
+      "date": "2026-07-13"
+    },
+    {
+      "title": "Ayuso augura que Sánchez acabará por «bajar la cabeza» tras apoyar a «herederos de ETA»",
+      "summary": "La presidenta madrileña, Isabel Díaz Ayuso, ha augurado este lunes, en alusión a Pedro Sánchez, que «aquellos que apoyaron a los herederos de ETA por un.",
       "date": "2026-07-13"
     },
     {
@@ -57,11 +62,6 @@
       "title": "Pedro Sánchez y Juanma Moreno coinciden en la visita al puesto de mando avanzado del incendio de Los Gallardos",
       "summary": "El presidente del Gobierno, Pedro Sánchez , visitará este lunes, 13 de julio, las zonas afectadas por el incendio forestal de Los Gallardos (Almería) que se declaró el pasado jueves día 9, y que se ha dado por estabilizado este domingo tras cobrarse la vida de doce personas en las primeras horas de su propagación. Tamb.",
       "date": "2026-07-13"
-    },
-    {
-      "title": "Las notas secretas que Zapatero entregó a Sánchez: Junts rompió con el Gobierno por usar a Pumpido para engañarles",
-      "summary": "Junts per Catalunya acusó por escrito al Gobierno de Pedro Sánchez de utilizar al Tribunal Constitucional para blindar su apoyo al Ejecutivo engañando a su cúpula con promesas...",
-      "date": "2026-07-12"
     }
   ],
   "sources": [
@@ -76,7 +76,13 @@
       "url": "https://elpais.com/espana/2026-07-13/el-juez-peinado-reclama-a-begona-gomez-que-acredite-que-solo-uso-su-pasaporte-para-viajar-a-reino-unido.html?utm_source=lootura.com",
       "publishedAt": "2026-07-13T17:45:22.000Z",
       "sourceId": "lootura-es-el-pais"
+    },
+    {
+      "title": "Ayuso augura que Sánchez acabará por «bajar la cabeza» tras apoyar a «herederos de ETA»",
+      "url": "https://theobjective.com/espana/politica/2026-07-13/ayuso-sanchez-apoyo-herederos-eta/?amp=&utm_source=lootura.com",
+      "publishedAt": "2026-07-13T20:21:55.000Z",
+      "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 3
 }

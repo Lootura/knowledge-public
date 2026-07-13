@@ -70,4 +70,4 @@ Date: 2026-07-09
 
 ## Sources
 
-- [Trump Insists U.S. Should 'Run' the Strait of Hormuz and Get Paid For It](https://time.com/article/2026/07/13/us-iran-conflict-oil-prices-strait-of-hormuz-trump-control/?utm_source=lootura.com) — 2026-07-13T16:47:56.000Z
+No public source links.

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/topic/artificial-intelligence/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/topic/artificial-intelligence/index.json",
   "description": "Sigue la actividad de Artificial intelligence en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-13T14:31:13.122Z",
+  "updatedAt": "2026-07-13T20:55:35.407Z",
   "aliases": [
     "AI",
     "machine learning"
@@ -30,6 +30,13 @@
       "date": "2026-07-10"
     }
   ],
-  "sources": [],
+  "sources": [
+    {
+      "title": "Samsung borrará tus datos de salud si no dejas que entrenen su IA con ellos",
+      "url": "https://hipertextual.com/mobile/samsung-health-datos-salud-ia-entrenamiento/?utm_source=lootura.com",
+      "publishedAt": "2026-07-13T18:14:00.000Z",
+      "sourceId": "lootura-es-hipertextual"
+    }
+  ],
   "evidenceCount": 0
 }

@@ -3,10 +3,46 @@
 > Follow Maine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-13T17:53:11.557Z
+- Updated: 2026-07-13T20:55:54.181Z
 - Canonical: https://atlas.lootura.com/us/place/maine
 
 ## Recent changes
+
+### 1 person killed in Maine shooting involving ICE, state house speaker says
+
+A person was shot and killed in Maine involving ICE, the state.
+
+Date: 2026-07-13
+
+### Person reportedly shot and killed in incident involving ICE agent in Maine
+
+A person has been reportedly shot and killed in an incident involving an ICE agent in Biddeford, Maine. NBC News' Julia Ainsley has early details on the incident and how local and federal authorities are responding.
+
+Date: 2026-07-13
+
+### ICE agent shoots and kills motorist in Maine, senator says
+
+Sen. Angus King said he told Homeland Security Secretary Markwayne Mullin that he wanted a transparent investigation into the shooting.
+
+Date: 2026-07-13
+
+### Graham Platner's voters figure out what's next as candidates vie for their support
+
+voters are still grappling with Democratic Senate candidate Graham Platner's dramatic departure from the race.
+
+Date: 2026-07-13
+
+### ICE shot and killed a Colombian man in Maine. This is the 2nd time in a week the agency used deadly force
+
+Bystander video taken after the shooting showed agents trying to slow a white sedan that was driving in circles in an intersection in Biddeford, southwest of Portland.
+
+Date: 2026-07-13
+
+### ICE Agent Kills Person in Vehicle in Biddeford, Maine, State Officials Say
+
+The killing occurred in Biddeford, about 20 miles south of Portland. The Trump administration has stepped up immigration enforcement nationally in recent weeks.
+
+Date: 2026-07-13
 
 ### Maine Democrats scramble to select replacement for Platner in Senate race
 
@@ -26,52 +62,17 @@ Local Democrats are warning the top Senate Democrat to keep away as they replace
 
 Date: 2026-07-13
 
-### 1 person killed in Maine shooting involving ICE, state house speaker says
-
-A person was shot and killed in Maine involving ICE, the state.
-
-Date: 2026-07-13
-
-### Person reportedly shot and killed in incident involving ICE agent in Maine
-
-A person has been reportedly shot and killed in an incident involving an ICE agent in Biddeford, Maine. NBC News' Julia Ainsley has early details on the incident and how local and federal authorities are responding.
-
-Date: 2026-07-13
-
 ### 1 person killed in Maine shooting involving ICE, state House speaker says
 
 A person was killed during a shooting in Maine involving U.S. Immigration and Customs Enforcement on Monday morning, state House Speaker Ryan Fecteau said.
 
 Date: 2026-07-13
 
-### Maine Democrats Will Replace Graham Platner. Here’s What to Know.
-
-Mr. Platner’s withdrawal from a marquee Senate race, under pressure from his party, has set in motion an unusual competition to become the new nominee.
-
-Date: 2026-07-12
-
-### Ro Khanna says he regrets his endorsement of Graham Platner: ‘I got that call wrong’
-
-Rep. Ro Khanna (D-Calif.) joins Meet the Press for an exclusive interview after Graham Platner (D) exits the Maine Senate race amid a sexual assault allegation.
-
-Date: 2026-07-12
-
-### Discovered by Atlas
-
-Maine first entered the public knowledge record with source-backed evidence.
-
-Date: 2026-07-11
-
-### Platner’s Rise and Fall Revives Old Questions About ‘Bernie Bros’ and Women
-
-The collapse of Graham Platner’s Senate bid in Maine after a rape allegation renewed attention to a movement built by Senator Bernie Sanders that some say is too forgiving of male misconduct.
-
-Date: 2026-07-11
-
 ## Sources
 
+- [ICE agent shoots and kills motorist in Maine, senator says](https://www.cbsnews.com/news/maine-shooting-ice-biddeford/?utm_source=lootura.com) — 2026-07-13T20:09:31.000Z
 - [1 person killed in Maine shooting involving ICE, state house speaker says](https://www.cbsnews.com/video/person-killed-maine-shooting-involving-ice-state-house-speaker/?utm_source=lootura.com) — 2026-07-13T17:46:35.000Z
 - [Person reportedly shot and killed in incident involving ICE agent in Maine](https://www.nbcnews.com/now/video/person-reportedly-shot-and-killed-in-incident-involving-ice-agent-in-maine-266592837889?utm_source=lootura.com) — 2026-07-13T16:11:28.000Z
-- [Maine Democrats scramble to select replacement for Platner in Senate race](https://www.npr.org/2026/07/13/nx-s1-5888430/maine-democrats-scramble-to-select-replacement-for-platner-in-senate-race?utm_source=lootura.com) — 2026-07-13T08:48:28.000Z
-- [Maine Secretary of State Shenna Bellows on her bid to replace Platner in Senate race](https://www.npr.org/2026/07/13/nx-s1-5888574/maine-secretary-of-state-shenna-bellows-on-her-bid-to-replace-platner-in-senate-race?utm_source=lootura.com) — 2026-07-13T08:48:19.000Z
-- [Maine Democrats to Chuck Schumer: Stay Out of Our Senate Race](https://www.nytimes.com/2026/07/13/us/politics/maine-democrats-schumer-stay-out-senate-race.html?utm_source=lootura.com) — 2026-07-13T09:02:46.000Z
+- [Graham Platner's voters figure out what's next as candidates vie for their support](https://www.npr.org/2026/07/13/nx-s1-5888428/graham-platners-voters-figure-out-whats-next-as-candidates-vie-for-their-support?utm_source=lootura.com) — 2026-07-13T20:22:39.000Z
+- [ICE shot and killed a Colombian man in Maine. This is the 2nd time in a week the agency used deadly force](https://www.pbs.org/newshour/nation/ice-shot-and-killed-a-colombian-man-in-maine-this-is-the-2nd-time-in-a-week-the-agency-used-deadly-force?utm_source=lootura.com) — 2026-07-13T19:52:22.000Z
+- [ICE Agent Kills Person in Vehicle in Biddeford, Maine, State Officials Say](https://www.nytimes.com/2026/07/13/us/biddeford-maine-ice-shooting.html?utm_source=lootura.com) — 2026-07-13T20:10:56.000Z

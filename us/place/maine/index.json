@@ -8,9 +8,39 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/maine/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/maine/index.json",
   "description": "Follow Maine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-13T17:53:11.557Z",
+  "updatedAt": "2026-07-13T20:55:54.181Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "1 person killed in Maine shooting involving ICE, state house speaker says",
+      "summary": "A person was shot and killed in Maine involving ICE, the state.",
+      "date": "2026-07-13"
+    },
+    {
+      "title": "Person reportedly shot and killed in incident involving ICE agent in Maine",
+      "summary": "A person has been reportedly shot and killed in an incident involving an ICE agent in Biddeford, Maine. NBC News' Julia Ainsley has early details on the incident and how local and federal authorities are responding.",
+      "date": "2026-07-13"
+    },
+    {
+      "title": "ICE agent shoots and kills motorist in Maine, senator says",
+      "summary": "Sen. Angus King said he told Homeland Security Secretary Markwayne Mullin that he wanted a transparent investigation into the shooting.",
+      "date": "2026-07-13"
+    },
+    {
+      "title": "Graham Platner's voters figure out what's next as candidates vie for their support",
+      "summary": "voters are still grappling with Democratic Senate candidate Graham Platner's dramatic departure from the race.",
+      "date": "2026-07-13"
+    },
+    {
+      "title": "ICE shot and killed a Colombian man in Maine. This is the 2nd time in a week the agency used deadly force",
+      "summary": "Bystander video taken after the shooting showed agents trying to slow a white sedan that was driving in circles in an intersection in Biddeford, southwest of Portland.",
+      "date": "2026-07-13"
+    },
+    {
+      "title": "ICE Agent Kills Person in Vehicle in Biddeford, Maine, State Officials Say",
+      "summary": "The killing occurred in Biddeford, about 20 miles south of Portland. The Trump administration has stepped up immigration enforcement nationally in recent weeks.",
+      "date": "2026-07-13"
+    },
     {
       "title": "Maine Democrats scramble to select replacement for Platner in Senate race",
       "summary": "Democrats now have a process for choosing a replacement for Senate candidate Graham Platner. But voters are still reeling from his fall.",
@@ -27,42 +57,18 @@
       "date": "2026-07-13"
     },
     {
-      "title": "1 person killed in Maine shooting involving ICE, state house speaker says",
-      "summary": "A person was shot and killed in Maine involving ICE, the state.",
-      "date": "2026-07-13"
-    },
-    {
-      "title": "Person reportedly shot and killed in incident involving ICE agent in Maine",
-      "summary": "A person has been reportedly shot and killed in an incident involving an ICE agent in Biddeford, Maine. NBC News' Julia Ainsley has early details on the incident and how local and federal authorities are responding.",
-      "date": "2026-07-13"
-    },
-    {
       "title": "1 person killed in Maine shooting involving ICE, state House speaker says",
       "summary": "A person was killed during a shooting in Maine involving U.S. Immigration and Customs Enforcement on Monday morning, state House Speaker Ryan Fecteau said.",
       "date": "2026-07-13"
-    },
-    {
-      "title": "Maine Democrats Will Replace Graham Platner. Here’s What to Know.",
-      "summary": "Mr. Platner’s withdrawal from a marquee Senate race, under pressure from his party, has set in motion an unusual competition to become the new nominee.",
-      "date": "2026-07-12"
-    },
-    {
-      "title": "Ro Khanna says he regrets his endorsement of Graham Platner: ‘I got that call wrong’",
-      "summary": "Rep. Ro Khanna (D-Calif.) joins Meet the Press for an exclusive interview after Graham Platner (D) exits the Maine Senate race amid a sexual assault allegation.",
-      "date": "2026-07-12"
-    },
-    {
-      "title": "Discovered by Atlas",
-      "summary": "Maine first entered the public knowledge record with source-backed evidence.",
-      "date": "2026-07-11"
-    },
-    {
-      "title": "Platner’s Rise and Fall Revives Old Questions About ‘Bernie Bros’ and Women",
-      "summary": "The collapse of Graham Platner’s Senate bid in Maine after a rape allegation renewed attention to a movement built by Senator Bernie Sanders that some say is too forgiving of male misconduct.",
-      "date": "2026-07-11"
     }
   ],
   "sources": [
+    {
+      "title": "ICE agent shoots and kills motorist in Maine, senator says",
+      "url": "https://www.cbsnews.com/news/maine-shooting-ice-biddeford/?utm_source=lootura.com",
+      "publishedAt": "2026-07-13T20:09:31.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
     {
       "title": "1 person killed in Maine shooting involving ICE, state house speaker says",
       "url": "https://www.cbsnews.com/video/person-killed-maine-shooting-involving-ice-state-house-speaker/?utm_source=lootura.com",
@@ -76,23 +82,23 @@
       "sourceId": "lootura-us-nbc-news"
     },
     {
-      "title": "Maine Democrats scramble to select replacement for Platner in Senate race",
-      "url": "https://www.npr.org/2026/07/13/nx-s1-5888430/maine-democrats-scramble-to-select-replacement-for-platner-in-senate-race?utm_source=lootura.com",
-      "publishedAt": "2026-07-13T08:48:28.000Z",
+      "title": "Graham Platner's voters figure out what's next as candidates vie for their support",
+      "url": "https://www.npr.org/2026/07/13/nx-s1-5888428/graham-platners-voters-figure-out-whats-next-as-candidates-vie-for-their-support?utm_source=lootura.com",
+      "publishedAt": "2026-07-13T20:22:39.000Z",
       "sourceId": "lootura-us-npr-politics"
     },
     {
-      "title": "Maine Secretary of State Shenna Bellows on her bid to replace Platner in Senate race",
-      "url": "https://www.npr.org/2026/07/13/nx-s1-5888574/maine-secretary-of-state-shenna-bellows-on-her-bid-to-replace-platner-in-senate-race?utm_source=lootura.com",
-      "publishedAt": "2026-07-13T08:48:19.000Z",
-      "sourceId": "lootura-us-npr-politics"
+      "title": "ICE shot and killed a Colombian man in Maine. This is the 2nd time in a week the agency used deadly force",
+      "url": "https://www.pbs.org/newshour/nation/ice-shot-and-killed-a-colombian-man-in-maine-this-is-the-2nd-time-in-a-week-the-agency-used-deadly-force?utm_source=lootura.com",
+      "publishedAt": "2026-07-13T19:52:22.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
     },
     {
-      "title": "Maine Democrats to Chuck Schumer: Stay Out of Our Senate Race",
-      "url": "https://www.nytimes.com/2026/07/13/us/politics/maine-democrats-schumer-stay-out-senate-race.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-13T09:02:46.000Z",
-      "sourceId": "lootura-us-the-new-york-times-politics"
+      "title": "ICE Agent Kills Person in Vehicle in Biddeford, Maine, State Officials Say",
+      "url": "https://www.nytimes.com/2026/07/13/us/biddeford-maine-ice-shooting.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-13T20:10:56.000Z",
+      "sourceId": "lootura-us-the-new-york-times"
     }
   ],
-  "evidenceCount": 5
+  "evidenceCount": 6
 }

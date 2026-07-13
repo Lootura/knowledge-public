@@ -3,7 +3,7 @@
 > Sigue la actividad de Artificial intelligence en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: topic
-- Actualizado: 2026-07-13T14:31:13.122Z
+- Actualizado: 2026-07-13T20:55:35.407Z
 - Canonical: https://atlas.lootura.com/es/topic/artificial-intelligence
 
 ## Cambios recientes
@@ -28,4 +28,4 @@ Date: 2026-07-10
 
 ## Fuentes
 
-No public source links.
+- [Samsung borrará tus datos de salud si no dejas que entrenen su IA con ellos](https://hipertextual.com/mobile/samsung-health-datos-salud-ia-entrenamiento/?utm_source=lootura.com) — 2026-07-13T18:14:00.000Z

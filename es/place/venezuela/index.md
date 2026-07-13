@@ -3,10 +3,22 @@
 > Sigue la actividad de Venezuela en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-13T10:57:59.389Z
+- Actualizado: 2026-07-13T20:55:35.407Z
 - Canonical: https://atlas.lootura.com/es/place/venezuela
 
 ## Cambios recientes
+
+### Edmundo González recibe el Premio de Convivencia en el Senado y clama contra la tiranía
+
+Los líderes opositores venezolanos Edmundo González y María Corina Machado defendieron este lunes la «convivencia» en Venezuela frente al «régimen tiránico y criminal» del Gobierno venezolano, que usa la «división» como «instrumento del poder».Así se pronunciaron este lunes en el Senado durante el acto de concesión del.
+
+Date: 2026-07-13
+
+### Se eleva a 4.561 la cifra de muertos en Venezuela por los dos terremotos
+
+sumó este lunes otros 71 muertos por el doble terremoto del pasado 24 de junio, lo que elevó la cifra de fallecidos hasta al menos 4.561, informó el presidente del Parlamento, el chavista Jorge Rodríguez. La cantidad de heridos y personas sin vivienda se mantiene en 16.740 y 17.907, respectivamente, dice el b.
+
+Date: 2026-07-13
 
 ### La selección: terremoto en Venezuela
 
@@ -46,4 +58,5 @@ Date: 2026-07-11
 
 ## Fuentes
 
-No public source links.
+- [Edmundo González recibe el Premio de Convivencia en el Senado y clama contra la tiranía](https://www.abc.es/espana/comunidad-valenciana/edmundo-gonzalez-recibe-premio-convivencia-senado-clama-20260713211104-nt.html?utm_source=lootura.com) — 2026-07-13T19:17:50.000Z
+- [Se eleva a 4.561 la cifra de muertos en Venezuela por los dos terremotos](https://theobjective.com/internacional/2026-07-13/balance-muertos-doble-terremoto-venezuela/?utm_source=lootura.com) — 2026-07-13T18:31:53.000Z

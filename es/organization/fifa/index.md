@@ -3,7 +3,7 @@
 > Sigue la actividad de FIFA en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-13T17:52:48.684Z
+- Actualizado: 2026-07-13T20:55:35.407Z
 - Canonical: https://atlas.lootura.com/es/organization/fifa
 
 ## Cambios recientes
@@ -22,4 +22,4 @@ Date: 2026-07-08
 
 ## Fuentes
 
-- [Muere el árbitro que fue apartado del Mundial tras haber sido detenido por agresión sexual](https://theobjective.com/deportes/futbol/mundial/2026-07-13/muere-arbitro-rob-dieperink-apartado-mundial/?utm_source=lootura.com) — 2026-07-13T17:29:40.000Z
+- [La decisión de la FIFA que deja en mal lugar a España](https://www.larazon.es/deportes/decision-fifa-que-deja-mal-lugar-espana_202607136a554049772f745d2c46a82b.html?utm_source=lootura.com) — 2026-07-13T19:45:13.000Z

@@ -8,19 +8,9 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/madrid/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/madrid/index.json",
   "description": "Sigue la actividad de Madrid en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-13T17:52:48.684Z",
+  "updatedAt": "2026-07-13T20:55:35.407Z",
   "aliases": [],
   "changes": [
-    {
-      "title": "Bruno Mars homenajea a España cortando jamón Maldonado en el Metropolitano",
-      "summary": "El cantante estadounidense Bruno Mars protagonizó uno de los momentos más comentados de su regreso a España al cortar y degustar en pleno concierto una pata de jamón ibérico de la firma extremeña Maldonado, ante las 50.000 personas que llenaron el viernes el Riyadh Air Metropolitano de Madrid en la primera de sus dos c.",
-      "date": "2026-07-13"
-    },
-    {
-      "title": "Dos incendios cortan la circulación de cuatro líneas de Cercanías en Madrid",
-      "summary": "La presencia de dos incendios cercanos a las infraestructuras ferroviarias obliga a paralizar la circulación entre l as estaciones de Cercanías Renfe de Pozuelo y Las Rozas, que afecta a las líneas C7 y C10, y de Santa Eugenia y Vicálvaro, que afecta a las líneas C2, C7 y C8. Dos incidentes que han ocurrido con una dif.",
-      "date": "2026-07-13"
-    },
     {
       "title": "La patronal madrileña apoya a Garamendi en las elecciones de CEOE",
       "summary": "Muchos empresarios estaban pendientes de qué decisión adoptaba este lunes la ejecutiva de la Confederación Empresarial de Madrid (CEIM), la patronal más importante de la región. Su presidente, Miguel Garrido, viene sosteniendo un discurso más duro contra el Gobierno que el de Antonio Garamendi, y hubo un momento en que.",
@@ -29,6 +19,21 @@
     {
       "title": "Seis hospitales públicos madrileños, en el \"Top Ten\" de los mejores 25 centros de España",
       "summary": "Seis hospitales públicos de la Comunidad de Madrid forman parte del 'Top Ten' de los 25 mejores hospitales de España en la lista elaborada por la revista Forbes , con otros dos centros de la sanidad madrileña que se cuelan en la misma. En concreto, cuatro centros madrileños lideran el ranking nacional, de modo que la F.",
+      "date": "2026-07-13"
+    },
+    {
+      "title": "KZEN, el clásico asiático que sigue conquistando el barrio de Salamanca",
+      "summary": "es una ciudad que nunca deja de descubrir nuevos restaurantes, pero también es una ciudad donde pocos consiguen mantenerse durante más de veinte años sin perder su personalidad. En un panorama gastronómico marcado por aperturas constantes y tendencias pasajeras, KZEN puede presumir de haber recorrido ese camino.",
+      "date": "2026-07-13"
+    },
+    {
+      "title": "Bruno Mars homenajea a España cortando jamón Maldonado en el Metropolitano",
+      "summary": "El cantante estadounidense Bruno Mars protagonizó uno de los momentos más comentados de su regreso a España al cortar y degustar en pleno concierto una pata de jamón ibérico de la firma extremeña Maldonado, ante las 50.000 personas que llenaron el viernes el Riyadh Air Metropolitano de Madrid en la primera de sus dos c.",
+      "date": "2026-07-13"
+    },
+    {
+      "title": "Dos incendios cortan la circulación de cuatro líneas de Cercanías en Madrid",
+      "summary": "La presencia de dos incendios cercanos a las infraestructuras ferroviarias obliga a paralizar la circulación entre l as estaciones de Cercanías Renfe de Pozuelo y Las Rozas, que afecta a las líneas C7 y C10, y de Santa Eugenia y Vicálvaro, que afecta a las líneas C2, C7 y C8. Dos incidentes que han ocurrido con una dif.",
       "date": "2026-07-13"
     },
     {
@@ -55,20 +60,9 @@
       "title": "Siete heridos, dos graves, en un accidente múltiple con tres coches en Alcorcón (Madrid)",
       "summary": "Siete personas han resultado heridas -dos de ellas de carácter grave y cinco leves- tras un accidente con tres vehículos implicados en el kilómetro 11 de la A-5 , a la altura de Alcorcón , en sentido salida del municipio. Según informa el servicio de Emergencias 112 de la Comunidad de Madrid , la primera llamada se ha.",
       "date": "2026-07-13"
-    },
-    {
-      "title": "La Audiencia Nacional rechaza paralizar la resignificación de Cuelgamuros como pedía Abogados Cristianos",
-      "summary": "La Sala de lo Contencioso-Administrativo desestima la medida cautelar de la asociación ultra contra el acuerdo firmado por el Gobierno y el arzobispo de Madrid José Cobo para transformar el mausoleo La batalla por mantener la obra magna de Franco: ocho años de asedio que aún frenan la resignificación de Cuelgamuros La.",
-      "date": "2026-07-13"
     }
   ],
   "sources": [
-    {
-      "title": "Dos incendios cortan la circulación de cuatro líneas de Cercanías en Madrid",
-      "url": "https://www.abc.es/espana/madrid/interrumpida-circulacion-cercanias-pozuelo-rozas-incendio-20260713180209-nt.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-13T17:13:00.000Z",
-      "sourceId": "lootura-es-abc"
-    },
     {
       "title": "La patronal madrileña apoya a Garamendi en las elecciones de CEOE",
       "url": "https://elpais.com/economia/2026-07-13/la-patronal-madrilena-apoya-a-garamendi-en-las-elecciones-de-ceoe.html?utm_source=lootura.com",
@@ -76,17 +70,17 @@
       "sourceId": "lootura-es-cinco-dias"
     },
     {
+      "title": "KZEN, el clásico asiático que sigue conquistando el barrio de Salamanca",
+      "url": "https://www.larazon.es/gastronomia/kzen-clasico-asiatico-que-sigue-conquistando-barrio-salamanca_202607136a5541ccc48a78681b876181.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-13T19:51:40.000Z",
+      "sourceId": "lootura-es-la-razon"
+    },
+    {
       "title": "Seis hospitales públicos madrileños, en el \"Top Ten\" de los mejores 25 centros de España",
       "url": "https://www.larazon.es/madrid/seis-hospitales-publicos-madrilenos-top-ten-mejores-25-centros-espana_202607136a55224bc0b5fb431c53834b.html?utm_source=lootura.com",
       "publishedAt": "2026-07-13T17:37:16.000Z",
       "sourceId": "lootura-es-la-razon"
-    },
-    {
-      "title": "Bruno Mars homenajea a España cortando jamón Maldonado en el Metropolitano",
-      "url": "https://theobjective.com/cultura/musica/2026-07-13/bruno-mars-corta-jamon-metropolitano/?utm_source=lootura.com",
-      "publishedAt": "2026-07-13T14:12:39.000Z",
-      "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 4
+  "evidenceCount": 3
 }

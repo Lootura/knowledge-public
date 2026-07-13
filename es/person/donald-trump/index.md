@@ -3,22 +3,10 @@
 > Sigue la actividad de Donald Trump en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-13T17:52:48.684Z
+- Actualizado: 2026-07-13T20:55:35.407Z
 - Canonical: https://atlas.lootura.com/es/person/donald-trump
 
 ## Cambios recientes
-
-### La economía circular de los Trump: los hijos invierten en Defensa y el padre inyecta dinero en ella
-
-Los hijos del presidente de Estados Unidos, Donald Trump Jr. y Eric Trump, han acumulado una cartera de empresas emergentes de tecnología de defensa que se está beneficiando de las nuevas prioridades y gastos del Pentágono, según revela hoy The Washington Post. esta colisión de intereses puede poner en aprietos legales.
-
-Date: 2026-07-13
-
-### Trump anuncia un peaje del 20% para todos los barcos que crucen el estrecho de Ormuz
-
-anunció este lunes que Estados Unidos pretende cobrar una tasa del 20% sobre toda la carga transportada por los barcos que atraviesen el estrecho de Ormuz, como compensación por el coste de mantener abierta y protegida una de las rutas marítimas más importantes del mundo. El plan pone de relieve la graveda.
-
-Date: 2026-07-13
 
 ### El petróleo se dispara tras anunciar Trump un bloqueo a Irán y un peaje de EE UU en Ormuz
 
@@ -29,6 +17,30 @@ Date: 2026-07-13
 ### Trump restablece el cerco naval a Irán y dice que cobrará el 20% por proteger a los buques en Ormuz
 
 Washington y Teherán intercambian ataques por sexta noche consecutiva Leer.
+
+Date: 2026-07-13
+
+### California y otros 11 Estados demócratas llevan a los tribunales la fusión Warner-Paramount aprobada por Trump
+
+La posible fusión entre dos gigantes del entretenimiento, Warner y Paramount, tiene pendiente a toda la industria del cine. Donald Trump y su Administración han dado el visto bueno a que Paramount se meta a Warner en el bolsillo por unos 111.000 millones de dólares, pero no todos los Estados están de acuerdo. Una docen.
+
+Date: 2026-07-13
+
+### La cumbre de la OTAN confirma el apoyo a Ucrania, pero evidencia la asimetría de la relación transatlántica
+
+Mijansk786/Shutterstock La reciente Cumbre de Ankara de la OTAN (7 y 8 de julio) se ha ajustado al guión establecido si atendemos en el documento suscrito por los jefes de Estado y de Gobierno de los Estados miembros. Más allá de la performance del atrabiliario presidente estadounidense, Donald Trump, impresentable des.
+
+Date: 2026-07-13
+
+### La economía circular de los Trump: los hijos invierten en Defensa y el padre inyecta dinero en ella
+
+Los hijos del presidente de Estados Unidos, Donald Trump Jr. y Eric Trump, han acumulado una cartera de empresas emergentes de tecnología de defensa que se está beneficiando de las nuevas prioridades y gastos del Pentágono, según revela hoy The Washington Post. esta colisión de intereses puede poner en aprietos legales.
+
+Date: 2026-07-13
+
+### Trump anuncia un peaje del 20% para todos los barcos que crucen el estrecho de Ormuz
+
+anunció este lunes que Estados Unidos pretende cobrar una tasa del 20% sobre toda la carga transportada por los barcos que atraviesen el estrecho de Ormuz, como compensación por el coste de mantener abierta y protegida una de las rutas marítimas más importantes del mundo. El plan pone de relieve la graveda.
 
 Date: 2026-07-13
 
@@ -56,22 +68,9 @@ Agentes de la Comisaría General de Información arrestaron el viernes a James '
 
 Date: 2026-07-13
 
-### Dentro de la Casa Blanca: así ejerce Trump un poder desenfrenado para dejar su huella en la historia
-
-Si hay un punto de inflexión en el legado de Donald Trump como presidente de Estados Unidos, hay que buscarlo en el 20 de enero de 2025, el primer día de su regreso al Despacho Oval tras su abrupta salida en 2021, cuando fue derrotado por Joe Biden y convertido en un paria político por agitar a una muchedumbre enfervor.
-
-Date: 2026-07-13
-
-### Canadá redibuja el mapa energético con un oleoducto para sortear a Trump y acercarse a Asia
-
-Aquella especie de goma negra formaba parte desde hacía mucho tiempo del día a día de los chipewyan, uno de los pueblos indígenas del territorio que hoy ocupa la provincia de Alberta, en el centro oeste de Canadá. La sustancia viscosa afloraba en las orillas del río Athabasca y la usaban para curar heridas e impermeabi.
-
-Date: 2026-07-13
-
 ## Fuentes
 
-- [Trump anuncia un peaje del 20% para todos los barcos que crucen el estrecho de Ormuz](https://www.abc.es/internacional/trump-asegura-estados-unidos-controlara-estrecho-ormuz-20260713143412-nt.html?utm_source=lootura.com) — 2026-07-13T17:00:54.000Z
 - [El petróleo se dispara tras anunciar Trump un bloqueo a Irán y un peaje de EE UU en Ormuz](https://cincodias.elpais.com/mercados-financieros/2026-07-13/la-bolsa-y-el-ibex-35.html?utm_source=lootura.com) — 2026-07-13T16:27:17.000Z
+- [California y otros 11 Estados demócratas llevan a los tribunales la fusión Warner-Paramount aprobada por Trump](https://elpais.com/us/2026-07-13/california-nueva-york-y-otros-10-estados-democratas-contraatacan-en-una-demanda-para-frenar-la-fusion-warner-paramount.html?utm_source=lootura.com) — 2026-07-13T18:10:15.000Z
 - [Trump restablece el cerco naval a Irán y dice que cobrará el 20% por proteger a los buques en Ormuz](https://www.elmundo.es/internacional/2026/07/13/6a54aaaafdddff6b118b45ab.html?utm_source=lootura.com) — 2026-07-13T15:14:15.000Z
-- [Trump: "EEUU será el guardián de Ormuz" y cobrará un 20% a cada buque al que franquee el paso](https://amp.expansion.com/economia/2026/07/13/6a54f773468aeb0b788b4577.html?utm_source=lootura.com) — 2026-07-13T14:35:19.000Z
-- [La economía circular de los Trump: los hijos invierten en Defensa y el padre inyecta dinero en ella](https://www.larazon.es/internacional/economia-circular-trump-hijos-invierten-defensa-padre-inyecta-dinero-ella_202607136a54f5ecc48a78681b86d49c.html?utm_source=lootura.com) — 2026-07-13T14:27:56.000Z
+- [La cumbre de la OTAN confirma el apoyo a Ucrania, pero evidencia la asimetría de la relación transatlántica](https://theconversation.com/la-cumbre-de-la-otan-confirma-el-apoyo-a-ucrania-pero-evidencia-la-asimetria-de-la-relacion-transatlantica-287214?utm_source=lootura.com) — 2026-07-13T17:35:42.000Z

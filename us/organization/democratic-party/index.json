@@ -8,21 +8,11 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/democratic-party/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/democratic-party/index.json",
   "description": "Follow Democratic Party, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-13T17:53:11.557Z",
+  "updatedAt": "2026-07-13T20:55:54.181Z",
   "aliases": [
     "Democrats"
   ],
   "changes": [
-    {
-      "title": "Maine Democrats scramble to select replacement for Platner in Senate race",
-      "summary": "Maine Democrats now have a process for choosing a replacement for Senate candidate Graham Platner. But voters are still reeling from his fall.",
-      "date": "2026-07-13"
-    },
-    {
-      "title": "Maine Democrats to Chuck Schumer: Stay Out of Our Senate Race",
-      "summary": "Local Democrats are warning the top Senate Democrat to keep away as they replace Graham Platner, and the candidates are giving his leadership in Washington low marks.",
-      "date": "2026-07-13"
-    },
     {
       "title": "Mercurial and Magnetic, Lindsey Graham Was a Force in the Senate",
       "summary": "The sharp-witted South Carolinian repaired relations with President Trump to advance his foreign policy goals, was willing to cut deals with Democrats and tried to insert himself into every legislative fight.",
@@ -31,6 +21,21 @@
     {
       "title": "Tributes pour in for Lindsey Graham after his death stuns D.C.",
       "summary": "Tributes poured in for Sen. Lindsey Graham from Democrats, Republicans, former U.S. presidents and world leaders after his death stunned Capitol Hill. CBS News' Caitlin Huey-Burns has more.",
+      "date": "2026-07-13"
+    },
+    {
+      "title": "Midwest becomes next theater in Democrats' progressive vs. moderate fight",
+      "summary": "August primaries in Michigan, Wisconsin and Minnesota will be another gauge of Democratic voters' frustration with the establishment.",
+      "date": "2026-07-13"
+    },
+    {
+      "title": "Maine Democrats scramble to select replacement for Platner in Senate race",
+      "summary": "Maine Democrats now have a process for choosing a replacement for Senate candidate Graham Platner. But voters are still reeling from his fall.",
+      "date": "2026-07-13"
+    },
+    {
+      "title": "Maine Democrats to Chuck Schumer: Stay Out of Our Senate Race",
+      "summary": "Local Democrats are warning the top Senate Democrat to keep away as they replace Graham Platner, and the candidates are giving his leadership in Washington low marks.",
       "date": "2026-07-13"
     },
     {
@@ -57,11 +62,6 @@
       "title": "How Will Maine Democrats Replace Graham Platner? Here’s What to Know.",
       "summary": "Mr. Platner’s withdrawal from a marquee Senate race, under pressure from his party, has set in motion an unusual competition to become the new nominee.",
       "date": "2026-07-11"
-    },
-    {
-      "title": "Discovered by Atlas",
-      "summary": "Democratic Party first entered the public knowledge record with source-backed evidence.",
-      "date": "2026-07-10"
     }
   ],
   "sources": [
@@ -72,16 +72,10 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "Maine Democrats scramble to select replacement for Platner in Senate race",
-      "url": "https://www.npr.org/2026/07/13/nx-s1-5888430/maine-democrats-scramble-to-select-replacement-for-platner-in-senate-race?utm_source=lootura.com",
-      "publishedAt": "2026-07-13T08:48:28.000Z",
-      "sourceId": "lootura-us-npr-politics"
-    },
-    {
-      "title": "Maine Democrats to Chuck Schumer: Stay Out of Our Senate Race",
-      "url": "https://www.nytimes.com/2026/07/13/us/politics/maine-democrats-schumer-stay-out-senate-race.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-13T09:02:46.000Z",
-      "sourceId": "lootura-us-the-new-york-times-politics"
+      "title": "Midwest becomes next theater in Democrats' progressive vs. moderate fight",
+      "url": "https://www.pbs.org/newshour/politics/midwest-becomes-next-theater-in-democrats-progressive-vs-moderate-fight?utm_source=lootura.com",
+      "publishedAt": "2026-07-13T18:17:42.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
     },
     {
       "title": "Mercurial and Magnetic, Lindsey Graham Was a Force in the Senate",
@@ -90,5 +84,5 @@
       "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 4
+  "evidenceCount": 3
 }

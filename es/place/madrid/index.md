@@ -3,22 +3,10 @@
 > Sigue la actividad de Madrid en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-13T17:52:48.684Z
+- Actualizado: 2026-07-13T20:55:35.407Z
 - Canonical: https://atlas.lootura.com/es/place/madrid
 
 ## Cambios recientes
-
-### Bruno Mars homenajea a España cortando jamón Maldonado en el Metropolitano
-
-El cantante estadounidense Bruno Mars protagonizó uno de los momentos más comentados de su regreso a España al cortar y degustar en pleno concierto una pata de jamón ibérico de la firma extremeña Maldonado, ante las 50.000 personas que llenaron el viernes el Riyadh Air Metropolitano de Madrid en la primera de sus dos c.
-
-Date: 2026-07-13
-
-### Dos incendios cortan la circulación de cuatro líneas de Cercanías en Madrid
-
-La presencia de dos incendios cercanos a las infraestructuras ferroviarias obliga a paralizar la circulación entre l as estaciones de Cercanías Renfe de Pozuelo y Las Rozas, que afecta a las líneas C7 y C10, y de Santa Eugenia y Vicálvaro, que afecta a las líneas C2, C7 y C8. Dos incidentes que han ocurrido con una dif.
-
-Date: 2026-07-13
 
 ### La patronal madrileña apoya a Garamendi en las elecciones de CEOE
 
@@ -29,6 +17,24 @@ Date: 2026-07-13
 ### Seis hospitales públicos madrileños, en el "Top Ten" de los mejores 25 centros de España
 
 Seis hospitales públicos de la Comunidad de Madrid forman parte del 'Top Ten' de los 25 mejores hospitales de España en la lista elaborada por la revista Forbes , con otros dos centros de la sanidad madrileña que se cuelan en la misma. En concreto, cuatro centros madrileños lideran el ranking nacional, de modo que la F.
+
+Date: 2026-07-13
+
+### KZEN, el clásico asiático que sigue conquistando el barrio de Salamanca
+
+es una ciudad que nunca deja de descubrir nuevos restaurantes, pero también es una ciudad donde pocos consiguen mantenerse durante más de veinte años sin perder su personalidad. En un panorama gastronómico marcado por aperturas constantes y tendencias pasajeras, KZEN puede presumir de haber recorrido ese camino.
+
+Date: 2026-07-13
+
+### Bruno Mars homenajea a España cortando jamón Maldonado en el Metropolitano
+
+El cantante estadounidense Bruno Mars protagonizó uno de los momentos más comentados de su regreso a España al cortar y degustar en pleno concierto una pata de jamón ibérico de la firma extremeña Maldonado, ante las 50.000 personas que llenaron el viernes el Riyadh Air Metropolitano de Madrid en la primera de sus dos c.
+
+Date: 2026-07-13
+
+### Dos incendios cortan la circulación de cuatro líneas de Cercanías en Madrid
+
+La presencia de dos incendios cercanos a las infraestructuras ferroviarias obliga a paralizar la circulación entre l as estaciones de Cercanías Renfe de Pozuelo y Las Rozas, que afecta a las líneas C7 y C10, y de Santa Eugenia y Vicálvaro, que afecta a las líneas C2, C7 y C8. Dos incidentes que han ocurrido con una dif.
 
 Date: 2026-07-13
 
@@ -62,15 +68,8 @@ Siete personas han resultado heridas -dos de ellas de carácter grave y cinco le
 
 Date: 2026-07-13
 
-### La Audiencia Nacional rechaza paralizar la resignificación de Cuelgamuros como pedía Abogados Cristianos
-
-La Sala de lo Contencioso-Administrativo desestima la medida cautelar de la asociación ultra contra el acuerdo firmado por el Gobierno y el arzobispo de Madrid José Cobo para transformar el mausoleo La batalla por mantener la obra magna de Franco: ocho años de asedio que aún frenan la resignificación de Cuelgamuros La.
-
-Date: 2026-07-13
-
 ## Fuentes
 
-- [Dos incendios cortan la circulación de cuatro líneas de Cercanías en Madrid](https://www.abc.es/espana/madrid/interrumpida-circulacion-cercanias-pozuelo-rozas-incendio-20260713180209-nt.html?utm_source=lootura.com) — 2026-07-13T17:13:00.000Z
 - [La patronal madrileña apoya a Garamendi en las elecciones de CEOE](https://elpais.com/economia/2026-07-13/la-patronal-madrilena-apoya-a-garamendi-en-las-elecciones-de-ceoe.html?utm_source=lootura.com) — 2026-07-13T16:17:31.000Z
+- [KZEN, el clásico asiático que sigue conquistando el barrio de Salamanca](https://www.larazon.es/gastronomia/kzen-clasico-asiatico-que-sigue-conquistando-barrio-salamanca_202607136a5541ccc48a78681b876181.html?utm_source=lootura.com) — 2026-07-13T19:51:40.000Z
 - [Seis hospitales públicos madrileños, en el "Top Ten" de los mejores 25 centros de España](https://www.larazon.es/madrid/seis-hospitales-publicos-madrilenos-top-ten-mejores-25-centros-espana_202607136a55224bc0b5fb431c53834b.html?utm_source=lootura.com) — 2026-07-13T17:37:16.000Z
-- [Bruno Mars homenajea a España cortando jamón Maldonado en el Metropolitano](https://theobjective.com/cultura/musica/2026-07-13/bruno-mars-corta-jamon-metropolitano/?utm_source=lootura.com) — 2026-07-13T14:12:39.000Z

@@ -3,7 +3,7 @@
 > Sigue la actividad de Pedro Sánchez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-13T17:52:48.684Z
+- Actualizado: 2026-07-13T20:55:35.407Z
 - Canonical: https://atlas.lootura.com/es/person/pedro-sanchez
 
 ## Cambios recientes
@@ -17,6 +17,12 @@ Date: 2026-07-13
 ### El juez Peinado reclama a Begoña Gómez que “acredite” que solo usó su pasaporte para viajar a Reino Unido
 
 El magistrado Juan Carlos Peinado, que abrió juicio oral contra Begoña Gómez el 20 de junio y le prohibió salir de España, ha dictado este lunes una resolución para reclamar a la esposa de Pedro Sánchez que “acredite” que solo usó el pasaporte la pasada semana para viajar al Reino Unido. El juzgado le devolvió el docum.
+
+Date: 2026-07-13
+
+### Ayuso augura que Sánchez acabará por «bajar la cabeza» tras apoyar a «herederos de ETA»
+
+La presidenta madrileña, Isabel Díaz Ayuso, ha augurado este lunes, en alusión a Pedro Sánchez, que «aquellos que apoyaron a los herederos de ETA por un.
 
 Date: 2026-07-13
 
@@ -62,13 +68,8 @@ El presidente del Gobierno, Pedro Sánchez , visitará este lunes, 13 de julio, 
 
 Date: 2026-07-13
 
-### Las notas secretas que Zapatero entregó a Sánchez: Junts rompió con el Gobierno por usar a Pumpido para engañarles
-
-Junts per Catalunya acusó por escrito al Gobierno de Pedro Sánchez de utilizar al Tribunal Constitucional para blindar su apoyo al Ejecutivo engañando a su cúpula con promesas...
-
-Date: 2026-07-12
-
 ## Fuentes
 
 - [Pedro Sánchez apela a la firma de un pacto nacional frente a la emergencia climática delante de Juanma Moreno, investido gracias a Vox](https://www.elmundo.es/espana/2026/07/13/6a54c9b9e85ece585a8b4587.html?utm_source=lootura.com) — 2026-07-13T12:36:17.000Z
 - [El juez Peinado reclama a Begoña Gómez que “acredite” que solo usó su pasaporte para viajar a Reino Unido](https://elpais.com/espana/2026-07-13/el-juez-peinado-reclama-a-begona-gomez-que-acredite-que-solo-uso-su-pasaporte-para-viajar-a-reino-unido.html?utm_source=lootura.com) — 2026-07-13T17:45:22.000Z
+- [Ayuso augura que Sánchez acabará por «bajar la cabeza» tras apoyar a «herederos de ETA»](https://theobjective.com/espana/politica/2026-07-13/ayuso-sanchez-apoyo-herederos-eta/?amp=&utm_source=lootura.com) — 2026-07-13T20:21:55.000Z

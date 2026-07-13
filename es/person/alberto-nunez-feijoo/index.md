@@ -3,10 +3,22 @@
 > Sigue la actividad de Alberto Núñez Feijóo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-13T17:52:48.684Z
+- Actualizado: 2026-07-13T20:55:35.407Z
 - Canonical: https://atlas.lootura.com/es/person/alberto-nunez-feijoo
 
 ## Cambios recientes
+
+### El Gobierno responde a Feijóo que su plan contra catástrofes ya está incluido en el pacto climático y le pide que lo firme: "Llega tarde"
+
+El líder del Partido Popular, Alberto Núñez Feijóo , se ha comprometido este lunes desde la localidad almeriense de los Gallardos, que ha sufrido el incendio más mortífero de este siglo en España, a elaborar un "gran acuerdo de prevención, respuesta y coordinación" ante catástrofes naturales si se convierte en el próxi.
+
+Date: 2026-07-13
+
+### Feijóo anuncia desde Almería un plan nacional contra los incendios si llega a La Moncloa
+
+El líder del PP, Alberto Núñez Feijóo , ha asegurado que espera que «continúe la colaboración y la coordinación» entre administraciones como se ha visto con el incendio en Los Gallardos (Almería) y que «nadie estropee» la unidad de acción. Dicho esto, ha anunciado un plan de prevención de riesgos naturales si llega al.
+
+Date: 2026-07-13
 
 ### Feijóo promete desde Almería impulsar un "gran acuerdo de prevención, respuesta y coordinación" ante catástrofes naturales
 
@@ -56,19 +68,7 @@ A sus 25 años, Ignacio Dancausa se ha convertido en el nuevo líder de Nuevas G
 
 Date: 2026-07-11
 
-### Feijóo desafía las críticas a sus propuestas: «Me dedico a esto para mejorar las cosas»
-
-El presidente del PP, Alberto Núñez Feijóo, ha ironizado este sábado sobre las críticas a sus propuestas en las últimas semanas, como la de perseguir el.
-
-Date: 2026-07-11
-
-### Feijóo llama a los jóvenes a liderar el «cambio» y ser «propietarios de su vida»
-
-El presidente del PP clausura el Congreso de Nuevas Generaciones comprometiendo «política decente» y que el «esfuerzo» de la población juvenil «no será en vano».
-
-Date: 2026-07-11
-
 ## Fuentes
 
-- [Feijóo promete desde Almería impulsar un "gran acuerdo de prevención, respuesta y coordinación" ante catástrofes naturales](https://www.20minutos.es/nacional/feijoo-promete-desde-almeria-impulsar-un-gran-acuerdo-prevencion-respuesta-coordinacion-ante-catastrofes-naturales_7014137_0.html?utm_source=lootura.com) — 2026-07-13T16:56:11.000Z
-- [Feijóo sin complejos: “ingeniería electoral”, “concebido y no nacido” y “absentismo laboral»](https://okdiario.com/opinion/feijoo-sin-complejos-ingenieria-electoral-concebido-no-nacido-absentismo-laboral-18983803?utm_source=lootura.com) — 2026-07-13T17:00:57.000Z
+- [El Gobierno responde a Feijóo que su plan contra catástrofes ya está incluido en el pacto climático y le pide que lo firme: "Llega tarde"](https://www.20minutos.es/nacional/gobierno-responde-feijoo-que-su-plan-contra-catastrofes-ya-esta-incluido-pacto-climatico-le-pide-que-firme-llega-tarde_7014189_0.html?utm_source=lootura.com) — 2026-07-13T20:19:40.000Z
+- [Feijóo anuncia desde Almería un plan nacional contra los incendios si llega a La Moncloa](https://theobjective.com/espana/politica/2026-07-13/feijoo-plan-nacional-incendios-la-moncloa/?utm_source=lootura.com) — 2026-07-13T19:12:57.000Z

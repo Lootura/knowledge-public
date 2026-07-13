@@ -58,4 +58,4 @@ Date: 2026-07-09
 
 ## Sources
 
-- [With Threats Rising, Supreme Court Asks Congress to Increase Security Funds](https://www.nytimes.com/2026/07/13/us/politics/supreme-court-security-budget-testimony.html?utm_source=lootura.com) — 2026-07-13T09:02:28.000Z
+No public source links.

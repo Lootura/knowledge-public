@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/portugal/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/portugal/index.json",
   "description": "Sigue la actividad de Portugal en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-13T17:52:48.684Z",
+  "updatedAt": "2026-07-13T20:55:35.407Z",
   "aliases": [],
   "changes": [
     {
@@ -59,10 +59,10 @@
   ],
   "sources": [
     {
-      "title": "Nathalie Picquot abandona Santander tras cinco años ligada al banco",
-      "url": "https://amp.expansion.com/empresas/banca/2026/07/13/6a54fce6468aeb85748b4585.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-13T15:24:39.000Z",
-      "sourceId": "lootura-es-expansion"
+      "title": "España y Portugal se están moviendo de forma inesperada: los científicos detectan un giro de 6 milímetros al año",
+      "url": "https://www.larazon.es/actualidad/espana-portugal-estan-moviendo-forma-inesperada-cientificos-detectan-giro-6-milimetros-ano-p7m_202607136a5520a7c0b5fb431c538035.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-13T17:30:15.000Z",
+      "sourceId": "lootura-es-la-razon"
     }
   ],
   "evidenceCount": 0

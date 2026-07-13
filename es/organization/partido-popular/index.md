@@ -3,16 +3,10 @@
 > Sigue la actividad de Partido Popular en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-13T17:52:48.684Z
+- Actualizado: 2026-07-13T20:55:35.407Z
 - Canonical: https://atlas.lootura.com/es/organization/partido-popular
 
 ## Cambios recientes
-
-### Fiscalía y Abogacía del Estado rechazan expulsar a la acusación popular, como pide Zapatero
-
-Tanto la Fiscalía como la Abogacía General del Estado rechazan la petición del expresidente del Gobierno José Luis Rodríguez Zapatero de que se expulse de la causa de la Audiencia Nacional en la que está investigado por delitos de corrupción a la acusación popular aglutinada en la representación del Partido Popular.La.
-
-Date: 2026-07-13
 
 ### El PP defiende a Rajoy tras la queja por "racismo" de Francia: "Son columnas sarcásticas"
 
@@ -23,6 +17,24 @@ Date: 2026-07-13
 ### La dirección del PP defiende el comentario de Rajoy sobre la selección de Francia como “un sarcasmo” y “sin mala intención”
 
 La dirección del Partido Popular resta importancia al comentario del expresidente popular Mariano Rajoy sobre la selección nacional de fútbol de Francia, que ha provocado indignación en el país vecino. Rajoy escribió un artículo en El Debate sobre la selección gala en el que afirmaba que “juegan a un gran nivel” pero “.
+
+Date: 2026-07-13
+
+### El Gobierno responde a Feijóo que su plan contra catástrofes ya está incluido en el pacto climático y le pide que lo firme: "Llega tarde"
+
+El líder del Partido Popular, Alberto Núñez Feijóo , se ha comprometido este lunes desde la localidad almeriense de los Gallardos, que ha sufrido el incendio más mortífero de este siglo en España, a elaborar un "gran acuerdo de prevención, respuesta y coordinación" ante catástrofes naturales si se convierte en el próxi.
+
+Date: 2026-07-13
+
+### Feijóo anuncia desde Almería un plan nacional contra los incendios si llega a La Moncloa
+
+El líder del PP, Alberto Núñez Feijóo , ha asegurado que espera que «continúe la colaboración y la coordinación» entre administraciones como se ha visto con el incendio en Los Gallardos (Almería) y que «nadie estropee» la unidad de acción. Dicho esto, ha anunciado un plan de prevención de riesgos naturales si llega al.
+
+Date: 2026-07-13
+
+### Fiscalía y Abogacía del Estado rechazan expulsar a la acusación popular, como pide Zapatero
+
+Tanto la Fiscalía como la Abogacía General del Estado rechazan la petición del expresidente del Gobierno José Luis Rodríguez Zapatero de que se expulse de la causa de la Audiencia Nacional en la que está investigado por delitos de corrupción a la acusación popular aglutinada en la representación del Partido Popular.La.
 
 Date: 2026-07-13
 
@@ -56,23 +68,9 @@ La jueza que investiga el caso de presunto acoso sexual y laboral a una exconcej
 
 Date: 2026-07-13
 
-### Ángel Víctor Torres: “En 2027 puede haber 500.000 nuevos nacionalizados con derecho a voto”
-
-El ministro de Política Territorial y Memoria Democrática, Ángel Víctor Torres (Arucas, Gran Canaria, 60 años), aclara las dudas sobre la llamada ley de nietos tras las acusaciones de intento de pucherazo y manipulación del censo lanzadas por el PP. Filólogo de formación y exprofesor de instituto, fue presidente de Can.
-
-Date: 2026-07-13
-
-### El PP de Madrid mantiene su respaldo al alcalde de Móstoles tras su imputación por presunto acoso sexual
-
-“Absolutamente” y “por supuesto”. Esas dos expresiones son las que han utilizado los altos cargos del PP de Madrid para reiterar su respaldo al alcalde de Móstoles, el popular Manuel Bautista, después de que este lunes trascendiera su imputación por un presunto delito de acoso sexual y laboral a una exconcejala de ese.
-
-Date: 2026-07-13
-
 ## Fuentes
 
-- [Feijóo promete desde Almería impulsar un "gran acuerdo de prevención, respuesta y coordinación" ante catástrofes naturales](https://www.20minutos.es/nacional/feijoo-promete-desde-almeria-impulsar-un-gran-acuerdo-prevencion-respuesta-coordinacion-ante-catastrofes-naturales_7014137_0.html?utm_source=lootura.com) — 2026-07-13T16:56:11.000Z
-- [Fiscalía y Abogacía del Estado rechazan expulsar a la acusación popular, como pide Zapatero](https://www.abc.es/espana/fiscalia-abogacia-estado-rechazan-expulsar-acusacion-popular-20260713142806-nt.html?utm_source=lootura.com) — 2026-07-13T17:03:29.000Z
-- [El PP quita hierro a la frase de Rajoy que provocó un choque diplomático con Francia: "Fue sin mala intención"](https://www.elconfidencial.com/espana/2026-07-13/pp-rajoy-francia-choque-fue-sin-mala-intencion_4389268/?utm_source=lootura.com) — 2026-07-13T14:38:00.000Z
+- [El Gobierno responde a Feijóo que su plan contra catástrofes ya está incluido en el pacto climático y le pide que lo firme: "Llega tarde"](https://www.20minutos.es/nacional/gobierno-responde-feijoo-que-su-plan-contra-catastrofes-ya-esta-incluido-pacto-climatico-le-pide-que-firme-llega-tarde_7014189_0.html?utm_source=lootura.com) — 2026-07-13T20:19:40.000Z
 - [El PP defiende a Rajoy tras la queja por "racismo" de Francia: "Son columnas sarcásticas"](https://www.elmundo.es/deportes/futbol/mundial-de-futbol/2026/07/13/6a54dfe821efa065338b4581.html?utm_source=lootura.com) — 2026-07-13T13:07:38.000Z
 - [La dirección del PP defiende el comentario de Rajoy sobre la selección de Francia como “un sarcasmo” y “sin mala intención”](https://elpais.com/espana/2026-07-13/la-direccion-del-pp-defiende-el-comentario-de-rajoy-sobre-la-seleccion-de-francia-como-un-sarcasmo-y-sin-mala-intencion.html?utm_source=lootura.com) — 2026-07-13T12:49:08.000Z
-- [Feijóo sin complejos: “ingeniería electoral”, “concebido y no nacido” y “absentismo laboral»](https://okdiario.com/opinion/feijoo-sin-complejos-ingenieria-electoral-concebido-no-nacido-absentismo-laboral-18983803?utm_source=lootura.com) — 2026-07-13T17:00:57.000Z
+- [Feijóo anuncia desde Almería un plan nacional contra los incendios si llega a La Moncloa](https://theobjective.com/espana/politica/2026-07-13/feijoo-plan-nacional-incendios-la-moncloa/?utm_source=lootura.com) — 2026-07-13T19:12:57.000Z
