@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/partido-popular/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/partido-popular/index.json",
   "description": "Sigue la actividad de Partido Popular en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-13T06:50:56.167Z",
+  "updatedAt": "2026-07-13T10:57:59.389Z",
   "aliases": [
     "PP"
   ],
@@ -34,41 +34,65 @@
       "date": "2026-07-13"
     },
     {
-      "title": "Borja Sémper: «No hemos descartado ni descartamos tampoco la moción de censura. ¿En un tiempo? No lo sé»",
-      "summary": "Siete plantas se levantan sobre el 13 de la calle Génova, sede nacional del PP. No hay un piso intermedio. Mediodía. Viernes 10 de julio, Borja Sémper (Irún, 1976), redivivo en su versión más pizpireta, resuelve el misterio: aquí no existe el centro. No como «un espacio geográfico». Venimos a hablar de su partido. Y de.",
+      "title": "El alcalde de Móstoles, citado a declarar como investigado por acosar a una exconcejal",
+      "summary": "El alcalde de Móstoles, Manuel Bautista (PP) , ha sido citado para declarar como investigado el próximo 9 de octubre dentro de la causa que lo investiga por la querella interpuesta por una exconcejal de su partido por acoso sexual y laboral. Según ha adelantado el diario El País y han confirmado a EFE fuentes judiciale.",
       "date": "2026-07-13"
     },
     {
-      "title": "El PP se compromete en Ermua a aclarar los 376 crímenes impunes de ETA frente a la \"indignidad\" del sanchismo con EH Bildu",
-      "summary": "\"El precio que ha pagado Sánchez es el de presos por votos\", denuncia la vicesecrataria general del PP Cuca Gamarra en el 29 homenaje a Blanco. Leer.",
-      "date": "2026-07-12"
+      "title": "El 'last dance' del eterno De la Torre como alcalde de Málaga: a los 84 años se presentará otra vez",
+      "summary": "Es la tercera vez seguida que el alcalde, Francisco de la Torre , elige los jardines junto a la Casona del Parque, su oficina desde hace 26 años, para este anuncio. Uno que casi todo el mundo se esperaba , una vez más. El regidor ha confirmado este lunes, a escasos cinco días de que el PP en Galicia dé los nombres de l.",
+      "date": "2026-07-13"
     },
     {
-      "title": "El PP pide reformar la asistencia jurídica gratuita para garantizar indemnizaciones «dignas»",
-      "summary": "El Partido Popular ha anunciado este domingo, con motivo del Día de la Justicia Gratuita y del Turno de Oficio, una iniciativa para exigir al Gobierno la reforma de la Ley de Asistencia Jurídica Gratuita con el objetivo de reforzar este servicio y garantizar indemnizaciones «dignas» para los profesionales que prestan a.",
-      "date": "2026-07-12"
+      "title": "El PP de Madrid mantiene su respaldo al alcalde de Móstoles tras su imputación por presunto acoso sexual",
+      "summary": "“Absolutamente” y “por supuesto”. Esas dos expresiones son las que han utilizado los altos cargos del PP de Madrid para reiterar su respaldo al alcalde de Móstoles, el popular Manuel Bautista, después de que este lunes trascendiera su imputación por un presunto delito de acoso sexual y laboral a una exconcejala de ese.",
+      "date": "2026-07-13"
     },
     {
-      "title": "Gamarra defiende que el PP siga abriendo debates, «se llamen absentismo o vivienda»",
-      "summary": "La vicesecretaria de regeneración institucional del Partido Popular, Cuca Gamarra, ha afirmado que el PP no va a dejar de abrir «debates incómodos» para.",
-      "date": "2026-07-12"
+      "title": "Juan Fernández (PP) pide mejor financiación para Cataluña, sin \"concierto fiscal ni singularidad\"",
+      "summary": "Ve en la ley para prohibir la compra especulativa de vivienda \"una gran causa de inconstitucionalidad\".",
+      "date": "2026-07-13"
     },
     {
-      "title": "Marimar Blanco carga contra Sánchez en el aniversario del asesinato de su hermano Miguel Ángel: «Han elegido ponerse al lado de los verdugos»",
-      "summary": "El Partido Popular ha anunciado este domingo, durante el homenaje a Miguel Ángel Blanco en Ermua, su compromiso de reformar la ley penitenciaria para impedir beneficios a condenados por terrorismo que no colaboren con la justicia ni muestren arrepentimiento. En el acto, celebrado 29 años después del asesinato del conce.",
-      "date": "2026-07-12"
+      "title": "Albares pide al PP que deje de “boicotear” la política exterior española y la relación con Francia",
+      "summary": "El ministro de Asuntos Exteriores, José Manuel Albares, no se ha mordido la lengua esta mañana al atacar la línea de política exterior del Partido Popular (PP) y asegurar que están “absolutamente incapacitados para gobernar”. Comentando la crisis desatada por la opinión xenófoba sobre la selección francesa del expresid.",
+      "date": "2026-07-13"
     },
     {
-      "title": "Inquietud en el PP tras los últimos tropiezos de Feijóo: “La sensación es que vamos improvisando”",
-      "summary": "Un estado de ánimo ciclotímico envuelve al PP en el final del curso político. Tras la euforia con la que los populares terminaron el periodo de sesiones, sacando adelante una votación no vinculante sobre la dimisión de Pedro Sánchez con los votos de Vox y de Junts, el clima interno ha cambiado completamente después de.",
-      "date": "2026-07-12"
+      "title": "Vox avisa al PP valenciano de que sin prioridad nacional no habrá presupuestos",
+      "summary": "Vox ha avisado nuevamente al PP de que, si no acepta sus enmiendas sobre prioridad nacional, no aprobará la ley de presupuestos de la Generalitat para 2026, al tiempo que ha defendido que este principio es «sentido común puro y duro» y ha garantizado que excluye «a nadie». Mientras, los populares se muestran abiertos a.",
+      "date": "2026-07-13"
     }
   ],
   "sources": [
     {
+      "title": "Voces del PP piden afinar la estrategia: «Nos hemos metido en todos los charcos posibles»",
+      "url": "https://www.abc.es/espana/voces-pp-piden-afinar-estrategia-metido-charcos-20260712013248-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-13T10:12:37.000Z",
+      "sourceId": "lootura-es-abc"
+    },
+    {
+      "title": "El alcalde de Móstoles, citado a declarar como investigado por acosar a una exconcejal",
+      "url": "https://www.elconfidencial.com/espana/2026-07-13/alcalde-mostoles-citado-declara-invetigacion-acoso_4388880/?utm_source=lootura.com",
+      "publishedAt": "2026-07-13T06:50:00.000Z",
+      "sourceId": "lootura-es-el-confidencial"
+    },
+    {
+      "title": "El 'last dance' del eterno De la Torre como alcalde de Málaga: a los 84 años se presentará otra vez",
+      "url": "https://www.elconfidencial.com/espana/andalucia/2026-07-13/el-last-dance-del-eterno-de-la-torre-como-alcalde-de-malaga-a-los-84-anos-se-presentara-otra-vez_4389016/?utm_source=lootura.com",
+      "publishedAt": "2026-07-13T10:09:00.000Z",
+      "sourceId": "lootura-es-el-confidencial"
+    },
+    {
       "title": "La ‘ley de nietos’ que cuestiona el PP pasó 32 trámites parlamentarios en cinco años",
       "url": "https://elpais.com/espana/2026-07-13/la-ley-de-nietos-que-cuestiona-el-pp-paso-32-tramites-parlamentarios-en-cinco-anos.html?utm_source=lootura.com",
       "publishedAt": "2026-07-13T03:30:01.000Z",
+      "sourceId": "lootura-es-el-pais"
+    },
+    {
+      "title": "El PP de Madrid mantiene su respaldo al alcalde de Móstoles tras su imputación por presunto acoso sexual",
+      "url": "https://elpais.com/espana/2026-07-13/el-pp-de-madrid-mantiene-su-respaldo-al-alcalde-de-mostoles-tras-su-imputacion-por-presunto-acoso-sexual.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-13T09:36:40.000Z",
       "sourceId": "lootura-es-el-pais"
     },
     {
@@ -82,7 +106,25 @@
       "url": "https://elpais.com/espana/2026-07-13/angel-victor-torres-en-2027-puede-haber-500000-nuevos-nacionalizados-con-derecho-a-voto.html?utm_source=lootura.com",
       "publishedAt": "2026-07-13T03:30:01.000Z",
       "sourceId": "lootura-es-el-pais"
+    },
+    {
+      "title": "Juan Fernández (PP) pide mejor financiación para Cataluña, sin \"concierto fiscal ni singularidad\"",
+      "url": "https://www.larazon.es/cataluna/juan-fernandez-pide-mejor-financiacion-cataluna-concierto-fiscal-singularidad_202607136a54c4a4c0b5fb431c52c14f.html?outputType=amp&utm_source=lootura.com",
+      "publishedAt": "2026-07-13T10:57:40.000Z",
+      "sourceId": "lootura-es-la-razon"
+    },
+    {
+      "title": "Albares pide al PP que deje de “boicotear” la política exterior española y la relación con Francia",
+      "url": "https://www.lavanguardia.com/politica/20260713/11590814/albares-pide-pp-deje-boicotear-politica-exterior-espanola-relacion-francia.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-13T08:06:00.000Z",
+      "sourceId": "lootura-es-la-vanguardia"
+    },
+    {
+      "title": "Vox avisa al PP valenciano de que sin prioridad nacional no habrá presupuestos",
+      "url": "https://theobjective.com/espana/politica/2026-07-13/vox-pp-valenciano-prioridad-nacional/?utm_source=lootura.com",
+      "publishedAt": "2026-07-13T10:09:43.000Z",
+      "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 11
 }

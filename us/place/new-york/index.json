@@ -8,11 +8,16 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/new-york/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/new-york/index.json",
   "description": "Follow New York, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-13T06:51:18.851Z",
+  "updatedAt": "2026-07-13T10:58:18.710Z",
   "aliases": [
     "New York City"
   ],
   "changes": [
+    {
+      "title": "Civics Groups Are at Odds With Mamdani Over Push for Open Primaries",
+      "summary": "If a new effort to persuade voters to change New York City’s closed primary system gains steam, a potential showdown between its backers and the mayor awaits.",
+      "date": "2026-07-13"
+    },
     {
       "title": "My holiday from hell: blizzards, black ice, a broken-down bus – would I ever make it to New York?",
       "summary": "Flights were cancelled and we were told we’d be staying in Iceland for the night. But the hotel had no idea we were coming and people started screaming when I fell down, hard, on the ice A couple of days before I was due to take a trip to New York with my mum in February, the city was hit with the worst blizzard it had.",
@@ -57,11 +62,6 @@
       "title": "Too Many Books?",
       "summary": "Mendel Uminer faced a crisis when his landlord objected to the 10,000 volumes in his New York studio apartment.",
       "date": "2026-07-09"
-    },
-    {
-      "title": "Democratic socialist Francesca Hong tests how far left voters will go in battleground Wisconsin",
-      "summary": "Over the last month, Democratic socialists have notched victories in the liberal strongholds of New York City, Washington, D.C., and Denver.",
-      "date": "2026-07-09"
     }
   ],
   "sources": [
@@ -72,10 +72,10 @@
       "sourceId": "lootura-us-npr"
     },
     {
-      "title": "My holiday from hell: blizzards, black ice, a broken-down bus – would I ever make it to New York?",
-      "url": "https://www.theguardian.com/lifeandstyle/2026/jul/13/my-holiday-from-hell-blizzards-black-ice-a-broken-down-bus-would-i-ever-make-it-to-new-york?utm_source=lootura.com",
-      "publishedAt": "2026-07-13T04:00:38.000Z",
-      "sourceId": "lootura-us-the-guardian-us"
+      "title": "Civics Groups Are at Odds With Mamdani Over Push for Open Primaries",
+      "url": "https://www.nytimes.com/2026/07/13/nyregion/open-primaries-ny-bloomberg-mamdani.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-13T07:00:08.000Z",
+      "sourceId": "lootura-us-the-new-york-times"
     }
   ],
   "evidenceCount": 1

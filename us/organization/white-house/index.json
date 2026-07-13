@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/white-house/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/white-house/index.json",
   "description": "Follow White House, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-13T06:51:18.851Z",
+  "updatedAt": "2026-07-13T10:58:18.710Z",
   "aliases": [],
   "changes": [
     {
@@ -68,13 +68,7 @@
       "url": "https://www.nature.com/articles/d41586-026-02135-x?utm_source=lootura.com",
       "publishedAt": "2026-07-13T06:51:23.414Z",
       "sourceId": "lootura-us-nature"
-    },
-    {
-      "title": "Texas Hispanics swung hard to Trump. A new poll shows they’re furious at his deportations.",
-      "url": "https://www.politico.com/news/2026/07/12/trumps-deportation-drive-tests-gop-gains-in-texas-00993955?utm_source=lootura.com",
-      "publishedAt": "2026-07-12T18:00:00.000Z",
-      "sourceId": "lootura-us-politico"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 0
 }

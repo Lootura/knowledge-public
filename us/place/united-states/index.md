@@ -3,7 +3,7 @@
 > Follow United States, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-13T06:51:18.851Z
+- Updated: 2026-07-13T10:58:18.710Z
 - Canonical: https://atlas.lootura.com/us/place/united-states
 
 ## Recent changes
@@ -38,45 +38,45 @@ The renewed hostilities posed fresh risks to ships seeking to navigate the Strai
 
 Date: 2026-07-13
 
-### Oil Rises After Weekend of Back-and-Forth Strikes by U.S. and Iran
+### Eat your ice cream for a long, healthy life? This doctor says so
 
-The renewed hostilities posed fresh risks to ships seeking to navigate the Strait of Hormuz.
+Dr. Zeke Emanuel, a renowned U.S. health policy physician, takes on the wellness industry with a back-to-basics approach to optimizing good health. (Image credit: WeBond Creations).
 
 Date: 2026-07-13
 
-### U.S. and world leaders pay tribute to Lindsey Graham following sudden death
+### Morning news brief
 
-The senior U.S. senator for South Carolina died suddenly at 71 on Saturday.
+The U.S. strikes Iran for a third weekend as Iran retaliates by hitting Gulf nations, Sen. Lindsey Graham died Saturday at the age of 71, Congress returns from recess this week.
 
-Date: 2026-07-12
+Date: 2026-07-13
 
-### A Bible passage is at the center of a debate over how the U.S. should treat immigrants
+### Heat wave smashes records across central US
 
-A debate over the Bible verse Matthew 25 is pitting mainline pastors, Black protestants and the pope against evangelical politicians put on the defensive over President Trump's policies.
+A record-breaking heat wave baked the central United States on Sunday, smashing temperature records from the northern Plains to the Rocky Mountain region.
 
-Date: 2026-07-12
+Date: 2026-07-13
 
-### What a Monopoly importer learned when it tried to make things in the U.S.A.
+### With Lindsey Graham Gone, Ukraine Loses an Ally in Trump’s Ear
 
-After getting hit with tariffs for the imported board games he sells, Jonathan Silva decided to see if he could produce a version of his Monopoly game in the United States. This is what he learned. (Image credit: WS Game Company).
+The South Carolina Republican was Ukraine’s most influential champion inside President Trump’s mostly “America First” political orbit.
 
-Date: 2026-07-12
+Date: 2026-07-13
 
-### Politics chat: Lindsey Graham dies at 71, Congress back in session, U.S. strikes Iran
+### Gap Years Are Wasted on the Young
 
-South Carolina Senator Lindsey Graham's sudden death at 71 has shocked Washington. Once a fierce critic of then-candidate Donald Trump, he became one of the president's most consistent defenders.
+—Photo-Illustration by TIME (Source Images: Maskot, Chunyip Wong—Getty Images) Fresh off the heels of graduation from high school, many rising freshmen are choosing to step off of the treadmill for a year before matriculating in college. Gap years have become a viable option in the United States, where taking a leave o.
 
-Date: 2026-07-12
+Date: 2026-07-13
 
 ## Sources
 
 - [U.S. launches another round of strikes on Iran](https://www.cbsnews.com/video/us-launches-another-round-of-strikes-on-iran/?utm_source=lootura.com) — 2026-07-13T00:55:00.000Z
-- [58 million under heat alerts as extreme temperatures scorch western U.S.](https://www.cbsnews.com/news/40-million-under-alerts-heat-dome-peaks-western-us/?utm_source=lootura.com) — 2026-07-13T01:53:59.000Z
+- [58 million under heat alerts as extreme temperatures scorch western U.S.](https://www.cbsnews.com/news/40-million-under-alerts-heat-dome-peaks-western-us/?utm_source=lootura.com) — 2026-07-13T08:01:33.000Z
 - [Protests grow in Houston after ICE officer kills Mexican man who'd been living in U.S. for 30 years](https://www.cbsnews.com/video/protests-grow-in-houston-after-ice-officer-kills-mexican-man-whod-been-living-in-us-for-30-years/?utm_source=lootura.com) — 2026-07-13T01:03:00.000Z
-- [Transcript: Israeli Ambassador Michael Leiter on](https://www.cbsnews.com/news/israel-michael-leiter-face-the-nation-transcript-07-12-2026/?utm_source=lootura.com) — 2026-07-12T16:56:10.000Z
 - [Keystone Pipeline operator agrees to pay $26.9 million over 2022 oil spill](https://www.cbsnews.com/news/keystone-pipeline-operator-agrees-pay-26-million-2022-oil-spill/?utm_source=lootura.com) — 2026-07-12T19:11:41.000Z
-- [U.S. and world leaders pay tribute to Lindsey Graham following sudden death](https://www.cbsnews.com/news/lindsey-graham-us-world-leaders-pay-tribute-following-sudden-death-trump-netanyahu/?utm_source=lootura.com) — 2026-07-12T16:46:11.000Z
-- [How Sen. Lindsey Graham's death impacts U.S. politics](https://www.cbsnews.com/video/how-sen-lindsey-grahams-death-impacts-us-politics/?utm_source=lootura.com) — 2026-07-12T18:33:39.000Z
 - [Extreme heat, wildfires and severe thunderstorms affecting millions across the U.S.](https://www.cbsnews.com/video/extreme-heat-wildfires-and-severe-thunderstorms-affecting-millions-across-the-us/?utm_source=lootura.com) — 2026-07-13T01:22:00.000Z
-- [Adam Schiff remembers Lindsey Graham as ‘larger than life’: Full interview](https://www.nbcnews.com/meet-the-press/video/adam-schiff-remembers-lindsey-graham-as-larger-than-life-full-interview-266560069770?utm_source=lootura.com) — 2026-07-12T13:55:07.000Z
 - [U.S. and Iran trade strikes and conflicting claims about the Strait of Hormuz](https://www.nbcnews.com/nightly-news/video/u-s-and-iran-trade-strikes-and-conflicting-claims-about-the-strait-of-hormuz-266568261661?utm_source=lootura.com) — 2026-07-12T23:29:25.000Z
+- [Eat your ice cream for a long, healthy life? This doctor says so](https://www.npr.org/2026/07/13/nx-s1-5884664/zeke-emanuel-optimize-health-long-life?utm_source=lootura.com) — 2026-07-13T09:00:00.000Z
+- [Morning news brief](https://www.npr.org/2026/07/13/nx-s1-5885745/morning-news-brief?utm_source=lootura.com) — 2026-07-13T08:48:40.000Z
+- [A Bible passage is at the center of a debate over how the U.S. should treat immigrants](https://www.npr.org/2026/07/12/nx-s1-5885947/a-bibe-passage-is-at-the-center-of-a-debate-over-how-the-u-s-should-treat-immigrants?utm_source=lootura.com) — 2026-07-12T11:57:10.000Z
+- [Georgia's unique in the American Revolution told through its historical markers](https://www.npr.org/2026/07/12/nx-s1-5886144/georgias-unique-in-the-american-revolution-told-through-its-historical-markers?utm_source=lootura.com) — 2026-07-12T21:08:15.000Z

@@ -3,16 +3,34 @@
 > Follow Russia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-13T06:51:18.851Z
+- Updated: 2026-07-13T10:58:18.710Z
 - Canonical: https://atlas.lootura.com/us/place/russia
 
 ## Recent changes
+
+### The Next Phase in Ukraine’s War With Russia: The Battle for Minds
+
+Ukrainians, already drone innovators, are turning their focus to psychological operations aimed at undercutting Russian support for the war.
+
+Date: 2026-07-13
 
 ### Japan Is Building a New Intelligence Agency With Help From the West
 
 Facing threats from Russia and China, Prime Minister Sanae Takaichi is breaking with World War II-era limits on security.
 
 Date: 2026-07-13
+
+### Japan Is Building a New Intelligence Agency With Help From the West
+
+Facing threats from Russia and China, Prime Minister Sanae Takaichi is breaking with World War II-era limits on security.
+
+Date: 2026-07-13
+
+### How Putin Turned Japan Into a Den of Spies
+
+Operating out of a Tokyo high-rise, a military intelligence unit finds the high-tech equipment that Russia needs to wage war.
+
+Date: 2026-07-12
 
 ### Shortly before Lindsey Graham's death, he was hopeful about new Russia sanctions bill
 
@@ -38,12 +56,6 @@ Ed Davey voices concern about the Musk family foundation taking the far-right ac
 
 Date: 2026-07-12
 
-### How Putin Turned Japan Into a Den of Spies
-
-Operating out of a Tokyo high-rise, a military intelligence unit finds the high-tech equipment that Russia needs to wage war.
-
-Date: 2026-07-12
-
 ### 10 injured in overnight Russian strikes on Kyiv
 
 Ukrainian military said its air defenses shot down or suppressed two missiles and 111 drones, while Russia claims its forces targeted drone production facilities in Kyiv.
@@ -56,20 +68,8 @@ The war in Ukraine is now in its fifth year. A bipartisan bill aims to increase 
 
 Date: 2026-07-10
 
-### Discovered by Atlas
-
-Russia first entered the public knowledge record with source-backed evidence.
-
-Date: 2026-07-09
-
-### China, Russia and Others Seek to Inflame Debate Over A.I. Data Centers
-
-State actors in China, Russia and Iran have sought to exploit the U.S. public debate over the effects of the technology.
-
-Date: 2026-07-09
-
 ## Sources
 
-- [Shortly before Lindsey Graham's death, he was hopeful about new Russia sanctions bill](https://www.cbsnews.com/video/shortly-before-lindsey-grahams-death-he-was-hopeful-about-new-russia-sanctions-bill/?utm_source=lootura.com) — 2026-07-12T16:09:37.000Z
-- [Rep. Mike Turner says he hopes Senate will pass Russia sanctions as](https://www.cbsnews.com/news/rep-mike-turner-lindsey-graham-senate-russia-sanctions-bill/?utm_source=lootura.com) — 2026-07-12T16:55:26.000Z
+- [How Putin Turned Japan Into a Den of Spies](https://www.nytimes.com/2026/07/12/world/asia/russia-spies-japan-war-drones-electronics.html?utm_source=lootura.com) — 2026-07-12T12:14:21.000Z
+- [The Next Phase in Ukraine’s War With Russia: The Battle for Minds](https://www.nytimes.com/2026/07/13/world/europe/ukraine-war-russia-cognitive-warfare.html?utm_source=lootura.com) — 2026-07-13T09:02:08.000Z
 - [Japan Is Building a New Intelligence Agency With Help From the West](https://www.nytimes.com/2026/07/13/world/asia/japan-intelligence-agency.html?utm_source=lootura.com) — 2026-07-13T04:37:31.000Z

@@ -8,9 +8,14 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/maine-senate/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/maine-senate/index.json",
   "description": "Follow Maine Senate, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-12T16:56:46.923Z",
+  "updatedAt": "2026-07-13T10:58:18.710Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "Maine Secretary of State Shenna Bellows on her bid to replace Platner in Senate race",
+      "summary": "NPR's Michel Martin speaks with Maine Secretary of State Shenna Bellows about her run to replace Graham Platner in the Maine Senate race.",
+      "date": "2026-07-13"
+    },
     {
       "title": "Ro Khanna says he regrets his endorsement of Graham Platner: ‘I got that call wrong’",
       "summary": "Rep. Ro Khanna (D-Calif.) joins Meet the Press for an exclusive interview after Graham Platner (D) exits the Maine Senate race amid a sexual assault allegation.",
@@ -47,6 +52,13 @@
       "date": "2026-07-08"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Maine Secretary of State Shenna Bellows on her bid to replace Platner in Senate race",
+      "url": "https://www.npr.org/2026/07/13/nx-s1-5888574/maine-secretary-of-state-shenna-bellows-on-her-bid-to-replace-platner-in-senate-race?utm_source=lootura.com",
+      "publishedAt": "2026-07-13T08:48:19.000Z",
+      "sourceId": "lootura-us-npr-politics"
+    }
+  ],
+  "evidenceCount": 1
 }

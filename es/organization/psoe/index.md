@@ -3,10 +3,22 @@
 > Sigue la actividad de Partido Socialista Obrero Español en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-13T06:50:56.167Z
+- Actualizado: 2026-07-13T10:57:59.389Z
 - Canonical: https://atlas.lootura.com/es/organization/psoe
 
 ## Cambios recientes
+
+### El primer abogado de Ábalos declara que Leire Díez le ofreció pagar la defensa del exministro a través de una sociedad
+
+José Aníbal Álvarez, el primer abogado del exministro de Transportes José Luis Ábalos , ha reconocido este lunes como testigo en el caso Leire Díez que la exmilitante del PSOE le ofreció pagar los honorarios de la defensa del político socialista a través de una sociedad que ella tenía, aunque él se negó. El exministro.
+
+Date: 2026-07-13
+
+### Quién es Juan Manuel Serrano: así es la discreta vida personal del expresidente de Correos junto a su mujer, Isaura Leal (PSOE)
+
+La reciente imputación del expresidente de Correos, Juan Manuel Serrano Quintana, en la investigación sobre las denominadas «cloacas del PSOE» ha vuelto a.
+
+Date: 2026-07-13
 
 ### El juez profundiza en la infiltración de Leire Díez en altas instituciones y estrecha el cerco sobre el entorno más cercano a Sánchez
 
@@ -56,18 +68,7 @@ El PSOE de Madrid ha despejado este sábado sus dos grandes incógnitas de cara 
 
 Date: 2026-07-11
 
-### Enma López mantiene el pulso a Ferraz y disputará las primarias del PSOE de Madrid a Reyes Maroto tras reunir los avales
-
-Óscar López despeja su camino al ser el único en lograr los apoyos necesarios a nivel autonómico y será el candidato a la Comunidad frente a Ayuso Leer.
-
-Date: 2026-07-11
-
-### ¿Por qué el PSOE siempre choca con EEUU?… en dos minutos
-
-Gonzalo Bans analiza en dos minutos por qué el PSOE siempre choca con EEUU. [¿Eres anunciante y quieres patrocinar este programa? Escríbenos a comercial@theobjective.com ].
-
-Date: 2026-07-11
-
 ## Fuentes
 
-- [El juez profundiza en la infiltración de Leire Díez en altas instituciones y estrecha el cerco sobre el entorno más cercano a Sánchez](https://www.20minutos.es/nacional/juez-profundiza-infiltracion-leire-diez-altas-instituciones-estrecha-cerco-sobre-entorno-mas-cercano-sanchez_7013272_0.html?utm_source=lootura.com) — 2026-07-13T03:00:00.000Z
+- [El primer abogado de Ábalos declara que Leire Díez le ofreció pagar la defensa del exministro a través de una sociedad](https://www.abc.es/espana/primer-abogado-abalos-declara-leire-diez-ofrecio-20260713122529-nt.html?utm_source=lootura.com) — 2026-07-13T10:28:44.000Z
+- [Quién es Juan Manuel Serrano: así es la discreta vida personal del expresidente de Correos junto a su mujer, Isaura Leal (PSOE)](https://theobjective.com/gente/2026-07-13/quien-es-juan-manuel-serrano-asi-es-la-discreta-vida-personal-del-expresidente-de-correos-junto-a-su-mujer-isaura-leal-psoe/?amp=&utm_source=lootura.com) — 2026-07-13T10:47:42.000Z

@@ -3,10 +3,16 @@
 > Follow Supreme Court, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-07-12T16:56:46.923Z
+- Updated: 2026-07-13T10:58:18.710Z
 - Canonical: https://atlas.lootura.com/us/organization/supreme-court
 
 ## Recent changes
+
+### With Threats Rising, Supreme Court Asks Congress to Increase Security Funds
+
+Justices Amy Coney Barrett and Elena Kagan are scheduled to make a rare appearance at the Capitol to testify about the court’s more than $200 million request.
+
+Date: 2026-07-13
 
 ### Kansans Will Vote on an Elected Supreme Court. The Target: Abortion.
 
@@ -52,4 +58,4 @@ Date: 2026-07-09
 
 ## Sources
 
-No public source links.
+- [With Threats Rising, Supreme Court Asks Congress to Increase Security Funds](https://www.nytimes.com/2026/07/13/us/politics/supreme-court-security-budget-testimony.html?utm_source=lootura.com) — 2026-07-13T09:02:28.000Z

@@ -3,10 +3,16 @@
 > Sigue la actividad de Venezuela en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-13T06:50:56.167Z
+- Actualizado: 2026-07-13T10:57:59.389Z
 - Canonical: https://atlas.lootura.com/es/place/venezuela
 
 ## Cambios recientes
+
+### La selección: terremoto en Venezuela
+
+Un rescatista trabaja en el lugar donde se derrumbó un edificio tras los fuertes terremotos mientras continúan las operaciones de búsqueda, rescate y recuperación en La Guaira. ttanni/Shutterstock “Qué triste está la ciudad, perdida ya de su fe, pero destruida será el día de San Bernabé. Quien lo viviere lo verá”. Con.
+
+Date: 2026-07-13
 
 ### La represión chavista, arma para una venganza por desamor
 
@@ -40,5 +46,4 @@ Date: 2026-07-11
 
 ## Fuentes
 
-- [La represión chavista, arma para una venganza por desamor](https://www.abc.es/internacional/estado-arma-personal-trampa-judicial-chavista-cazar-20260609011400-nt.html?utm_source=lootura.com) — 2026-07-13T04:34:36.000Z
-- [Los muertos en Venezuela a causa del doble terremoto ya son casi 4.500](https://theobjective.com/internacional/2026-07-13/muertos-venezuela-terremoto-4500/?amp=&utm_source=lootura.com) — 2026-07-12T22:10:16.000Z
+- [La selección: terremoto en Venezuela](https://theconversation.com/la-seleccion-terremoto-en-venezuela-287150?utm_source=lootura.com) — 2026-07-13T09:50:52.000Z

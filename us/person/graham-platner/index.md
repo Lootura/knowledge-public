@@ -3,10 +3,28 @@
 > Follow Graham Platner, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-07-13T06:51:18.851Z
+- Updated: 2026-07-13T10:58:18.710Z
 - Canonical: https://atlas.lootura.com/us/person/graham-platner
 
 ## Recent changes
+
+### Maine Democrats scramble to select replacement for Platner in Senate race
+
+Maine Democrats now have a process for choosing a replacement for Senate candidate Graham Platner. But voters are still reeling from his fall.
+
+Date: 2026-07-13
+
+### Maine Secretary of State Shenna Bellows on her bid to replace Platner in Senate race
+
+NPR's Michel Martin speaks with Maine Secretary of State Shenna Bellows about her run to replace Graham Platner in the Maine Senate race.
+
+Date: 2026-07-13
+
+### Maine Democrats to Chuck Schumer: Stay Out of Our Senate Race
+
+Local Democrats are warning the top Senate Democrat to keep away as they replace Graham Platner, and the candidates are giving his leadership in Washington low marks.
+
+Date: 2026-07-13
 
 ### US congressman says ‘IDF is lying’ about his detention by settlers and soldiers
 
@@ -50,24 +68,8 @@ Democrats have already set off a mad dash to find a new candidate, with a July 2
 
 Date: 2026-07-11
 
-### Graham Platner formally drops out of Maine Senate race
-
-had until 5 p.m. on Monday to formally suspend his campaign or he would remain on the ballot in November.
-
-Date: 2026-07-11
-
-### How Will Maine Democrats Replace Graham Platner? Here’s What to Know.
-
-Mr. Platner’s withdrawal from a marquee Senate race, under pressure from his party, has set in motion an unusual competition to become the new nominee.
-
-Date: 2026-07-11
-
-### Graham Platner makes it official in Maine, submitting paperwork to leave Senate race
-
-In his withdrawal notice, Platner said "people are desperate for change" and that's why they made him the Democratic nominee. Now, Maine Democrats have to pick someone to replace him by July 27. (Image credit: CJ Gunther).
-
-Date: 2026-07-10
-
 ## Sources
 
-- [US congressman says ‘IDF is lying’ about his detention by settlers and soldiers](https://www.theguardian.com/us-news/2026/jul/12/ro-khanna-israel-detention-reaction?utm_source=lootura.com) — 2026-07-12T20:25:43.000Z
+- [Maine Democrats scramble to select replacement for Platner in Senate race](https://www.npr.org/2026/07/13/nx-s1-5888430/maine-democrats-scramble-to-select-replacement-for-platner-in-senate-race?utm_source=lootura.com) — 2026-07-13T08:48:28.000Z
+- [Maine Secretary of State Shenna Bellows on her bid to replace Platner in Senate race](https://www.npr.org/2026/07/13/nx-s1-5888574/maine-secretary-of-state-shenna-bellows-on-her-bid-to-replace-platner-in-senate-race?utm_source=lootura.com) — 2026-07-13T08:48:19.000Z
+- [Maine Democrats to Chuck Schumer: Stay Out of Our Senate Race](https://www.nytimes.com/2026/07/13/us/politics/maine-democrats-schumer-stay-out-senate-race.html?utm_source=lootura.com) — 2026-07-13T09:02:46.000Z

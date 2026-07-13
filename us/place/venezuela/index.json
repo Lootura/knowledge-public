@@ -8,9 +8,14 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/venezuela/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/venezuela/index.json",
   "description": "Follow Venezuela, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-12T20:42:32.118Z",
+  "updatedAt": "2026-07-13T10:58:18.710Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "Lindsey Graham’s Unexpected Death, and How Marco Rubio Is Running Venezuela",
+      "summary": "Plus, Sam Neill of “Jurassic Park” fame dies at 78.",
+      "date": "2026-07-13"
+    },
     {
       "title": "After Venezuela Earthquakes, a Youth Baseball League Counts the Dead",
       "summary": "Children who played for Venezuela’s youth baseball league, a symbol of national pride, have been left injured, orphaned or dead.",
@@ -32,6 +37,13 @@
       "date": "2026-07-08"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Lindsey Graham’s Unexpected Death, and How Marco Rubio Is Running Venezuela",
+      "url": "https://www.nytimes.com/2026/07/13/podcasts/the-headlines/lindsey-graham-death-marco-rubio-venezuela-sam-neill.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-13T10:00:18.000Z",
+      "sourceId": "lootura-us-the-new-york-times"
+    }
+  ],
+  "evidenceCount": 1
 }

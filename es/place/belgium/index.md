@@ -3,7 +3,7 @@
 > Sigue la actividad de Bélgica en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-13T06:50:56.167Z
+- Actualizado: 2026-07-13T10:57:59.389Z
 - Canonical: https://atlas.lootura.com/es/place/belgium
 
 ## Cambios recientes

@@ -3,7 +3,7 @@
 > Follow Artificial intelligence, a tracked topic, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: topic
-- Updated: 2026-07-13T06:51:18.851Z
+- Updated: 2026-07-13T10:58:18.710Z
 - Canonical: https://atlas.lootura.com/us/topic/artificial-intelligence
 
 ## Recent changes
@@ -17,6 +17,18 @@ Date: 2026-07-13
 ### Does AI work for us, or do we work for AI?
 
 Science, Volume 393, Issue 6807 , Page 152-152, July 2026.
+
+Date: 2026-07-13
+
+### Daily briefing: Preprints are chock-full of authors’ private info
+
+Nature, Published online: 10 July 2026; doi:10.1038/d41586-026-02198-w Passwords, to-do lists and even derogatory comments litter arXiv preprints. Plus, two huge planets that are lighter than candy floss and which ‘AI scientist’ might suit your lab.
+
+Date: 2026-07-13
+
+### Waze is getting a bunch of new AI-powered features
+
+Waze is getting an AI makeover. Google is integrating its flagship AI assistant, Gemini, into the driving app with the goal of letting users personalize their trips a little more. Of the four new updates, only two are being described as involving Gemini. Waze says its updating its conversation reporting feature, first.
 
 Date: 2026-07-13
 
@@ -56,22 +68,10 @@ Nature, Published online: 10 July 2026; doi:10.1038/d41586-026-02091-6 General p
 
 Date: 2026-07-12
 
-### Does AI work for us, or do we work for AI?
-
-Science, Volume 393, Issue 6807 , Page 152-152, July 2026.
-
-Date: 2026-07-12
-
-### The fight against AI data centers is just beginning
-
-A yard sign opposing a planned data center is displayed along Route 54 in Mount Carmel Township Northumberland County. | Image: Getty Images This is The Stepback , a weekly newsletter breaking down one essential story from the tech world. For more on the data center buildout, follow Emma Roth . The Stepback arrives in.
-
-Date: 2026-07-12
-
 ## Sources
 
-- [Which ‘AI scientist’ suits your lab? A guide for the perplexed](https://www.nature.com/articles/d41586-026-02091-6?utm_source=lootura.com) — 2026-07-13T06:51:23.413Z
-- [When managing your money, take a chatbot's 'confidence' with a grain of salt](https://www.pbs.org/newshour/economy/when-managing-your-money-take-a-chatbots-confidence-with-a-grain-of-salt?utm_source=lootura.com) — 2026-07-12T18:57:09.000Z
-- [Machine learning calibration of biosensors for microcystin toxin monitoring in freshwater](https://phys.org/news/2026-07-machine-calibration-biosensors-microcystin-toxin.html?utm_source=lootura.com) — 2026-07-12T22:20:01.000Z
-- [Does AI work for us, or do we work for AI?](https://www.science.org/doi/abs/10.1126/science.aei9754?af=R&utm_source=lootura.com) — 2026-07-13T06:51:23.647Z
-- [Lorde says Ray-Ban Meta AI glasses are ‘not sexy’](https://www.theverge.com/ai-artificial-intelligence/964539/lorde-says-ray-ban-meta-ai-glasses-are-not-sexy?utm_source=lootura.com) — 2026-07-12T20:10:19.000Z
+- [VHF Propagation: What Every RF Engineer Should Know](https://content.knowledgehub.wiley.com/understanding-vhf-very-high-frequency-propagation/?utm_source=lootura.com) — 2026-07-13T10:00:01.000Z
+- [Daily briefing: Preprints are chock-full of authors’ private info](https://www.nature.com/articles/d41586-026-02198-w?utm_source=lootura.com) — 2026-07-13T10:58:22.942Z
+- [Which ‘AI scientist’ suits your lab? A guide for the perplexed](https://www.nature.com/articles/d41586-026-02091-6?utm_source=lootura.com) — 2026-07-13T10:58:22.941Z
+- [Does AI work for us, or do we work for AI?](https://www.science.org/doi/abs/10.1126/science.aei9754?af=R&utm_source=lootura.com) — 2026-07-13T10:58:23.158Z
+- [Waze is getting a bunch of new AI-powered features](https://www.theverge.com/transportation/964132/waze-gemini-ai-voice-commands-less-chatty?utm_source=lootura.com) — 2026-07-13T09:00:00.000Z

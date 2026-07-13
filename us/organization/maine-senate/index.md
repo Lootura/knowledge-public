@@ -3,10 +3,16 @@
 > Follow Maine Senate, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-07-12T16:56:46.923Z
+- Updated: 2026-07-13T10:58:18.710Z
 - Canonical: https://atlas.lootura.com/us/organization/maine-senate
 
 ## Recent changes
+
+### Maine Secretary of State Shenna Bellows on her bid to replace Platner in Senate race
+
+NPR's Michel Martin speaks with Maine Secretary of State Shenna Bellows about her run to replace Graham Platner in the Maine Senate race.
+
+Date: 2026-07-13
 
 ### Ro Khanna says he regrets his endorsement of Graham Platner: ‘I got that call wrong’
 
@@ -52,4 +58,4 @@ Date: 2026-07-08
 
 ## Sources
 
-No public source links.
+- [Maine Secretary of State Shenna Bellows on her bid to replace Platner in Senate race](https://www.npr.org/2026/07/13/nx-s1-5888574/maine-secretary-of-state-shenna-bellows-on-her-bid-to-replace-platner-in-senate-race?utm_source=lootura.com) — 2026-07-13T08:48:19.000Z

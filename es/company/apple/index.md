@@ -3,10 +3,16 @@
 > Sigue la actividad de Apple en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: company
-- Actualizado: 2026-07-12T16:56:25.039Z
+- Actualizado: 2026-07-13T10:57:59.389Z
 - Canonical: https://atlas.lootura.com/es/company/apple
 
 ## Cambios recientes
+
+### Olvídate de un iPhone 18 sin subida de precio: el plan de Apple ha fallado. Puedes ir ahorrando (más)
+
+Al parecer, dentro de las pésimas noticias sobre los precios de la memoria RAM , compañías como Apple tenían un as guardado en la manga para paliar las subidas drásticas en sus productos. Pues bien, hoy no solo hemos conocido cuál era ese plan maravilloso, también sabemos que la de Cupertino no podrá llevarlo a cabo. E.
+
+Date: 2026-07-13
 
 ### Ni Quick Share, ni AirDrop: esta app para transferir archivos es gratis, multiplataforma y funciona mucho más rápido
 
@@ -46,4 +52,4 @@ Date: 2026-07-10
 
 ## Fuentes
 
-No public source links.
+- [Olvídate de un iPhone 18 sin subida de precio: el plan de Apple ha fallado. Puedes ir ahorrando (más)](https://hipertextual.com/apple/olvidate-de-un-iphone-18-sin-subida-de-precio-el-plan-de-apple-ha-fallado-puedes-ir-ahorrando-mas/?utm_source=lootura.com) — 2026-07-13T07:28:08.000Z

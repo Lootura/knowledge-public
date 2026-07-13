@@ -3,7 +3,7 @@
 > Follow Iran, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-13T06:51:18.851Z
+- Updated: 2026-07-13T10:58:18.710Z
 - Canonical: https://atlas.lootura.com/us/place/iran
 
 ## Recent changes
@@ -20,11 +20,23 @@ The renewed hostilities posed fresh risks to ships seeking to navigate the Strai
 
 Date: 2026-07-13
 
+### Morning news brief
+
+The U.S. strikes Iran for a third weekend as Iran retaliates by hitting Gulf nations, Sen. Lindsey Graham died Saturday at the age of 71, Congress returns from recess this week.
+
+Date: 2026-07-13
+
 ### Oil Rises After Weekend of Back-and-Forth Strikes by U.S. and Iran
 
 The renewed hostilities posed fresh risks to ships seeking to navigate the Strait of Hormuz.
 
 Date: 2026-07-13
+
+### U.S. and Iran trade strikes and conflicting claims about the Strait of Hormuz
+
+U.S. Central Command announced a new wave of strikes against Iran aimed at stopping the attack of commercial ships traveling through the Strait of Hormuz. The strikes come as Iran claims the Strait is closed, something U.S. officials dispute. NBC News’ Raf Sanchez has the latest from the Middle East.
+
+Date: 2026-07-12
 
 ### Politics chat: Lindsey Graham dies at 71, Congress back in session, U.S. strikes Iran
 
@@ -44,12 +56,6 @@ Iran's state-run IRNA news agency cited the governor of Qeshm island near the st
 
 Date: 2026-07-12
 
-### U.S. and Iran trade strikes and conflicting claims about the Strait of Hormuz
-
-U.S. Central Command announced a new wave of strikes against Iran aimed at stopping the attack of commercial ships traveling through the Strait of Hormuz. The strikes come as Iran claims the Strait is closed, something U.S. officials dispute. NBC News’ Raf Sanchez has the latest from the Middle East.
-
-Date: 2026-07-12
-
 ### Trump Sought an Iran War Exit. Putin Pushed On in Ukraine. Now Both Are Stuck.
 
 The Iran and Ukraine wars underline the common limits of military force in achieving political ends, but also the differences between a dug-in Russian president and a vacillating American one.
@@ -62,18 +68,10 @@ The Republican senator from South Carolina had an intense interest in the Middle
 
 Date: 2026-07-12
 
-### NATO spending pressure returned
-
-NBC’s Kristen Welker joins Willie Geist to remember senator Lindsey Graham who has died at 71. Kristen discusses Sen. Graham’s long road through South Carolina and in Washington, his role as one of President Donald Trump’s staunchest allies and his advocacy for a more robust military response to Iran. “What a shocking.
-
-Date: 2026-07-12
-
 ## Sources
 
 - [U.S. launches another round of strikes on Iran](https://www.cbsnews.com/video/us-launches-another-round-of-strikes-on-iran/?utm_source=lootura.com) — 2026-07-13T00:55:00.000Z
 - [Full transcript of "Face the Nation with Margaret Brennan," July 12, 2026](https://www.cbsnews.com/news/face-the-nation-full-transcript-07-12-2026/?utm_source=lootura.com) — 2026-07-13T02:18:42.000Z
-- [Adam Schiff remembers Lindsey Graham as ‘larger than life’: Full interview](https://www.nbcnews.com/meet-the-press/video/adam-schiff-remembers-lindsey-graham-as-larger-than-life-full-interview-266560069770?utm_source=lootura.com) — 2026-07-12T13:55:07.000Z
 - [U.S. and Iran trade strikes and conflicting claims about the Strait of Hormuz](https://www.nbcnews.com/nightly-news/video/u-s-and-iran-trade-strikes-and-conflicting-claims-about-the-strait-of-hormuz-266568261661?utm_source=lootura.com) — 2026-07-12T23:29:25.000Z
-- [Politics chat: Lindsey Graham dies at 71, Congress back in session, U.S. strikes Iran](https://www.npr.org/2026/07/12/nx-s1-5887274/politics-chat-lindsey-graham-dies-at-71-congress-back-in-session-u-s-strikes-iran?utm_source=lootura.com) — 2026-07-12T11:57:11.000Z
-- [Iran reports new attacks on military targets on its largest island near the Strait of Hormuz](https://www.pbs.org/newshour/world/iran-reports-new-attacks-on-military-targets-on-its-largest-island-near-the-strait-of-hormuz?utm_source=lootura.com) — 2026-07-12T15:22:46.000Z
-- [Oil Prices Surge After Iran and U.S. Trade Strikes](https://www.nytimes.com/2026/07/12/business/oil-shipping-iran-hormuz.html?utm_source=lootura.com) — 2026-07-13T06:46:53.000Z
+- [Morning news brief](https://www.npr.org/2026/07/13/nx-s1-5885745/morning-news-brief?utm_source=lootura.com) — 2026-07-13T08:48:40.000Z
+- [Oil Prices Surge After Iran and U.S. Trade Strikes](https://www.nytimes.com/2026/07/12/business/oil-shipping-iran-hormuz.html?utm_source=lootura.com) — 2026-07-13T10:33:50.000Z

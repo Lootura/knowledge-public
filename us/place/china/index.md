@@ -3,7 +3,7 @@
 > Follow China, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-13T06:51:18.851Z
+- Updated: 2026-07-13T10:58:18.710Z
 - Canonical: https://atlas.lootura.com/us/place/china
 
 ## Recent changes
@@ -11,6 +11,18 @@
 ### Graduating without a thesis: meet the people getting ‘practical’ PhDs in China
 
 Nature, Published online: 09 July 2026; doi:10.1038/d41586-026-01242-z Nature spoke to three students from China’s first cohort of PhD candidates who are allowed to graduate with products instead of papers.
+
+Date: 2026-07-13
+
+### China's 'Green Great Wall' tames desert growth, but scientists warn the fight is not over
+
+For half a century, millions of workers have repeated a task across the deserts in northern China: inserting forearm-length sticks into shifting sand, first in a row, then in an intersecting line, gradually forming a grid. Then saplings are planted at the center of each small square.
+
+Date: 2026-07-13
+
+### Japan Is Building a New Intelligence Agency With Help From the West
+
+Facing threats from Russia and China, Prime Minister Sanae Takaichi is breaking with World War II-era limits on security.
 
 Date: 2026-07-13
 
@@ -56,19 +68,8 @@ The German automaker has struggled to compete with fast-growing Chinese companie
 
 Date: 2026-07-10
 
-### Discovered by Atlas
-
-China first entered the public knowledge record with source-backed evidence.
-
-Date: 2026-07-09
-
-### China, Russia and Others Seek to Inflame Debate Over A.I. Data Centers
-
-State actors in China, Russia and Iran have sought to exploit the U.S. public debate over the effects of the technology.
-
-Date: 2026-07-09
-
 ## Sources
 
 - [Graduating without a thesis: meet the people getting ‘practical’ PhDs in China](https://www.nature.com/articles/d41586-026-01242-z?utm_source=lootura.com) — 2026-07-13T06:51:23.414Z
+- [China's 'Green Great Wall' tames desert growth, but scientists warn the fight is not over](https://phys.org/news/2026-07-china-green-great-wall-growth.html?utm_source=lootura.com) — 2026-07-13T08:01:53.000Z
 - [Japan Is Building a New Intelligence Agency With Help From the West](https://www.nytimes.com/2026/07/13/world/asia/japan-intelligence-agency.html?utm_source=lootura.com) — 2026-07-13T04:37:31.000Z

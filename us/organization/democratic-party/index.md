@@ -3,10 +3,28 @@
 > Follow Democratic Party, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-07-12T16:56:46.923Z
+- Updated: 2026-07-13T10:58:18.710Z
 - Canonical: https://atlas.lootura.com/us/organization/democratic-party
 
 ## Recent changes
+
+### Maine Democrats scramble to select replacement for Platner in Senate race
+
+Maine Democrats now have a process for choosing a replacement for Senate candidate Graham Platner. But voters are still reeling from his fall.
+
+Date: 2026-07-13
+
+### Maine Democrats to Chuck Schumer: Stay Out of Our Senate Race
+
+Local Democrats are warning the top Senate Democrat to keep away as they replace Graham Platner, and the candidates are giving his leadership in Washington low marks.
+
+Date: 2026-07-13
+
+### Mercurial and Magnetic, Lindsey Graham Was a Force in the Senate
+
+The sharp-witted South Carolinian repaired relations with President Trump to advance his foreign policy goals, was willing to cut deals with Democrats and tried to insert himself into every legislative fight.
+
+Date: 2026-07-13
 
 ### Maine Democrats Will Replace Graham Platner. Here’s What to Know.
 
@@ -50,24 +68,8 @@ In his withdrawal notice, Platner said "people are desperate for change" and tha
 
 Date: 2026-07-10
 
-### Product availability changed in Europe
-
-The last-minute scramble to name a replacement reminds some in the party of the challenges they faced in 2024.
-
-Date: 2026-07-10
-
-### Graham Platner officially files letter withdrawing candidacy
-
-Graham Platner, who was the Democratic candidate for Senate in Maine, officially filed a letter withdrawing his candidacy following rape allegations which he denies. The filing triggers a process where the Maine Democratic Party can replace him on the ballot.
-
-Date: 2026-07-10
-
-### How American Socialism Changed, and Stormed the Democratic Party
-
-The movement was better at critiquing the system than reshaping it. But it has never had this much mainstream political power.
-
-Date: 2026-07-10
-
 ## Sources
 
-No public source links.
+- [Maine Democrats scramble to select replacement for Platner in Senate race](https://www.npr.org/2026/07/13/nx-s1-5888430/maine-democrats-scramble-to-select-replacement-for-platner-in-senate-race?utm_source=lootura.com) — 2026-07-13T08:48:28.000Z
+- [Maine Democrats to Chuck Schumer: Stay Out of Our Senate Race](https://www.nytimes.com/2026/07/13/us/politics/maine-democrats-schumer-stay-out-senate-race.html?utm_source=lootura.com) — 2026-07-13T09:02:46.000Z
+- [Mercurial and Magnetic, Lindsey Graham Was a Force in the Senate](https://www.nytimes.com/2026/07/13/us/politics/lindsey-graham-senate-force.html?utm_source=lootura.com) — 2026-07-13T09:02:52.000Z

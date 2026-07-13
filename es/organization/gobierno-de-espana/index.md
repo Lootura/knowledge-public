@@ -3,10 +3,22 @@
 > Sigue la actividad de Gobierno de España en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-13T06:50:56.167Z
+- Actualizado: 2026-07-13T10:57:59.389Z
 - Canonical: https://atlas.lootura.com/es/organization/gobierno-de-espana
 
 ## Cambios recientes
+
+### Borja Iglesias responde a Rajoy por sus palabras sobre Francia: "Me sorprende que a estas alturas sigamos con estas cosas"
+
+Las declaraciones del expresidente del Gobierno español, Mariano Rajoy , en las que afirmó que les Bleus son un gran equipo, pero sin franceses, siguen generando multitud de reacciones. El último en pronunciarse al respecto ha sido el internacional español Borja Iglesias . "Francia tiene, además, una plantilla de altís.
+
+Date: 2026-07-13
+
+### Jean-Marie Le Pen debe de estar aplaudiendo a Rajoy desde su tumba
+
+Marine Le Pen debió de sonreír este fin de semana, o tal vez frunció el ceño de estupefacción, al leer las palabras de Mariano Rajoy sobre la selección francesa de fútbol. El expresidente del Gobierno español elogió en un artículo “la plantilla de altísimo nivel” de Francia, y añadió: “Eso sí, sin franceses”. Son palab.
+
+Date: 2026-07-13
 
 ### El fútbol francés responde a Rajoy: "Los jugadores no tienen por qué recibir un certificado de nacionalidad"
 
@@ -56,19 +68,7 @@ El presidente de la Junta detalla que se está trabajando en la identificación 
 
 Date: 2026-07-10
 
-### La Fiscalía de Bolivia pide información a España y Perú por el caso de Zapatero
-
-El Ministerio Público de Bolivia ha pedido a España y Perú información sobre el caso que involucra al expresidente del Gobierno español José Luis.
-
-Date: 2026-07-09
-
-### Trump dice ahora que España «se ha redimido por completo» al prometer «numerosos pagos» a la OTAN
-
-La visión de Trump sobre España ha pasado de la amenaza al halago en menos de 24 horas. Tras una mañana de miércoles donde el presidente de Estados Unidos remetió contra España acusándolo de «socio pésimo» y de «mal pagador», este miércoles el republicano ha asegurado que el Ejecutivo español «se ha redimido por comple.
-
-Date: 2026-07-09
-
 ## Fuentes
 
-- [El fútbol francés responde a Rajoy: "Los jugadores no tienen por qué recibir un certificado de nacionalidad"](https://www.20minutos.es/deportes/futbol/futbol-frances-responde-rajoy-los-jugadores-no-tienen-por-que-recibir-un-certificado-nacionalidad-un-espanol_7013740_0.html?utm_source=lootura.com) — 2026-07-13T05:15:54.000Z
-- [Mariano Rajoy sobre los que le tachan de racista: "No me voy a poner al nivel de ciertos miembros del Gobierno español"](https://www.elmundo.es/deportes/futbol/mundial-de-futbol/2026/07/12/6a53e250e9cf4ae56c8b4571.html?utm_source=lootura.com) — 2026-07-12T21:23:59.000Z
+- [Borja Iglesias responde a Rajoy por sus palabras sobre Francia: "Me sorprende que a estas alturas sigamos con estas cosas"](https://www.20minutos.es/deportes/futbol/borja-iglesias-responde-rajoy-por-sus-palabras-sobre-francia-me-sorprende-que-estas-alturas-sigamos-con-estas-cosas_7013805_0.html?utm_source=lootura.com) — 2026-07-13T07:55:55.000Z
+- [Jean-Marie Le Pen debe de estar aplaudiendo a Rajoy desde su tumba](https://elpais.com/opinion/2026-07-13/jean-marie-le-pen-debe-de-estar-aplaudiendo-a-rajoy-desde-su-tumba.html?utm_source=lootura.com) — 2026-07-13T03:30:01.000Z

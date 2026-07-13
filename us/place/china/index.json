@@ -8,12 +8,22 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/china/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/china/index.json",
   "description": "Follow China, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-13T06:51:18.851Z",
+  "updatedAt": "2026-07-13T10:58:18.710Z",
   "aliases": [],
   "changes": [
     {
       "title": "Graduating without a thesis: meet the people getting ‘practical’ PhDs in China",
       "summary": "Nature, Published online: 09 July 2026; doi:10.1038/d41586-026-01242-z Nature spoke to three students from China’s first cohort of PhD candidates who are allowed to graduate with products instead of papers.",
+      "date": "2026-07-13"
+    },
+    {
+      "title": "China's 'Green Great Wall' tames desert growth, but scientists warn the fight is not over",
+      "summary": "For half a century, millions of workers have repeated a task across the deserts in northern China: inserting forearm-length sticks into shifting sand, first in a row, then in an intersecting line, gradually forming a grid. Then saplings are planted at the center of each small square.",
+      "date": "2026-07-13"
+    },
+    {
+      "title": "Japan Is Building a New Intelligence Agency With Help From the West",
+      "summary": "Facing threats from Russia and China, Prime Minister Sanae Takaichi is breaking with World War II-era limits on security.",
       "date": "2026-07-13"
     },
     {
@@ -50,16 +60,6 @@
       "title": "Volkswagen Is Cutting Production as Sales in China Plunge",
       "summary": "The German automaker has struggled to compete with fast-growing Chinese companies that offer more affordable and sophisticated electric vehicles.",
       "date": "2026-07-10"
-    },
-    {
-      "title": "Discovered by Atlas",
-      "summary": "China first entered the public knowledge record with source-backed evidence.",
-      "date": "2026-07-09"
-    },
-    {
-      "title": "China, Russia and Others Seek to Inflame Debate Over A.I. Data Centers",
-      "summary": "State actors in China, Russia and Iran have sought to exploit the U.S. public debate over the effects of the technology.",
-      "date": "2026-07-09"
     }
   ],
   "sources": [
@@ -70,11 +70,17 @@
       "sourceId": "lootura-us-nature"
     },
     {
+      "title": "China's 'Green Great Wall' tames desert growth, but scientists warn the fight is not over",
+      "url": "https://phys.org/news/2026-07-china-green-great-wall-growth.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-13T08:01:53.000Z",
+      "sourceId": "lootura-us-phys-org"
+    },
+    {
       "title": "Japan Is Building a New Intelligence Agency With Help From the West",
       "url": "https://www.nytimes.com/2026/07/13/world/asia/japan-intelligence-agency.html?utm_source=lootura.com",
       "publishedAt": "2026-07-13T04:37:31.000Z",
-      "sourceId": "lootura-us-the-new-york-times"
+      "sourceId": "lootura-us-the-new-york-times-world"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 3
 }

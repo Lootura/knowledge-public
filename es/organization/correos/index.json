@@ -8,17 +8,22 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/correos/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/correos/index.json",
   "description": "Sigue la actividad de Correos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-11T06:11:02.390Z",
+  "updatedAt": "2026-07-13T10:57:59.389Z",
   "aliases": [],
   "changes": [
     {
-      "title": "El exjefe de gabinete de Sánchez intercambió más de 10.000 mensajes con Leire Díez hasta que la Audiencia Nacional la imputó",
-      "summary": "El exjefe de Gabinete de Pedro Sánchez y expresidente de Correos Juan Manuel Serrano mantuvo una relación muy estrecha con Leire Díez , con quien intercambió más de 10.000 mensajes entre noviembre de 2020 y noviembre de 2025 . Esos mensajes se encuentran en poder de la Unidad Central Operativa (UCO) de la Guardia Civil.",
-      "date": "2026-07-11"
+      "title": "Quién es Juan Manuel Serrano: así es la discreta vida personal del expresidente de Correos junto a su mujer, Isaura Leal (PSOE)",
+      "summary": "La reciente imputación del expresidente de Correos, Juan Manuel Serrano Quintana, en la investigación sobre las denominadas «cloacas del PSOE» ha vuelto a.",
+      "date": "2026-07-13"
     },
     {
       "title": "Discovered by Atlas",
       "summary": "Correos first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-07-11"
+    },
+    {
+      "title": "El exjefe de gabinete de Sánchez intercambió más de 10.000 mensajes con Leire Díez hasta que la Audiencia Nacional la imputó",
+      "summary": "El exjefe de Gabinete de Pedro Sánchez y expresidente de Correos Juan Manuel Serrano mantuvo una relación muy estrecha con Leire Díez , con quien intercambió más de 10.000 mensajes entre noviembre de 2020 y noviembre de 2025 . Esos mensajes se encuentran en poder de la Unidad Central Operativa (UCO) de la Guardia Civil.",
       "date": "2026-07-11"
     },
     {
@@ -55,13 +60,15 @@
       "title": "La UCO implica al expresidente de Correos en la trama para “desestabilizar” causas que salpicaban al PSOE y al Gobierno",
       "summary": "La Unidad Central Operativa (UCO) de la Guardia Civil ha enviado un nuevo informe al juez Santiago Pedraz, instructor del caso Leire Díez en la Audiencia Nacional, que implica a Juan Manuel Serrano, expresidente de Correos, en las presuntas “tramas” urdidas para el amaño de contratos públicos y para “desestabilizar” pr.",
       "date": "2026-07-09"
-    },
-    {
-      "title": "El ex jefe de Gabinete de Sánchez quería seguir con la «movida» antijudicial sin el presidente",
-      "summary": "Juan Manuel Serrano, que fue jefe de gabinete de Pedro Sánchez y presidente de Correos, quería seguir con la «movida» de desacreditar a jueces y fiscales que investigan la corrupción con independencia de si el presidente seguía o se marchaba tras la imputación de su esposa . Serrano se pronunció de esta forma en mensaj.",
-      "date": "2026-07-09"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Quién es Juan Manuel Serrano: así es la discreta vida personal del expresidente de Correos junto a su mujer, Isaura Leal (PSOE)",
+      "url": "https://theobjective.com/gente/2026-07-13/quien-es-juan-manuel-serrano-asi-es-la-discreta-vida-personal-del-expresidente-de-correos-junto-a-su-mujer-isaura-leal-psoe/?amp=&utm_source=lootura.com",
+      "publishedAt": "2026-07-13T10:47:42.000Z",
+      "sourceId": "lootura-es-the-objective"
+    }
+  ],
+  "evidenceCount": 1
 }

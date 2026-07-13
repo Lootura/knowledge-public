@@ -3,10 +3,22 @@
 > Sigue la actividad de Estados Unidos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-13T06:50:56.167Z
+- Actualizado: 2026-07-13T10:57:59.389Z
 - Canonical: https://atlas.lootura.com/es/place/united-states
 
 ## Cambios recientes
+
+### Detenido en Ibiza el activista millonario marxista 'Fergie' Chambers, buscado por EE.UU.
+
+El multimillonario estadounidense James Cox 'Fergie' Chambers Jr. , heredero de la fortuna de Cox Enterprises y uno de los principales financiadores de grupos militantes propalestinos en Estados Unidos, permanece ingresado en el centro penitenciario de Ibiza desde el pasado sábado después de ser detenido en cumplimient.
+
+Date: 2026-07-13
+
+### Dentro de la Casa Blanca: así ejerce Trump un poder desenfrenado para dejar su huella en la historia
+
+Si hay un punto de inflexión en el legado de Donald Trump como presidente de Estados Unidos, hay que buscarlo en el 20 de enero de 2025, el primer día de su regreso al Despacho Oval tras su abrupta salida en 2021, cuando fue derrotado por Joe Biden y convertido en un paria político por agitar a una muchedumbre enfervor.
+
+Date: 2026-07-13
 
 ### Dentro de la Casa Blanca: así ejerce Trump un poder desenfrenado para dejar su huella en la historia
 
@@ -56,21 +68,7 @@ A José Luis Rodríguez Zapatero se le han quedado flácidas las cejas de tanto 
 
 Date: 2026-07-12
 
-### EEUU ataca objetivos iraníes tras el cierre de Ormuz «hasta nuevo aviso»
-
-El Mando Central del Ejército de Estados Unidos (CENTCOM) ha anunciado este domingo ataques contra Irán tras la ofensiva de la Guardia Revolucionaria contra un buque comercial que habría ignorado sus instrucciones, lo que ha provocado el cierre del estrecho de Ormuz «hasta nuevo aviso». De esta manera, Washington ha in.
-
-Date: 2026-07-12
-
-### EE.UU. ataca objetivos iraníes tras el cierre del estrecho de Ormuz «hasta nuevo aviso»
-
-Estados Unidos lanzó este sábado una nueva oleada de ataques aéreos contra Irán después de que la Guardia Revolucionaria alcanzara un buque mercante que trataba de atravesar el estrecho de Ormuz. Es la tercera operación militar estadounidense de esta semana y la confirmación de que el alto el fuego anunciado hace apena.
-
-Date: 2026-07-12
-
 ## Fuentes
 
+- [Detenido en Ibiza el activista millonario marxista 'Fergie' Chambers, buscado por EE.UU.](https://www.abc.es/espana/baleares/detenido-ibiza-activista-marxista-fergie-chambers-buscado-20260713121113-nt.html?utm_source=lootura.com) — 2026-07-13T10:26:09.000Z
 - [Dentro de la Casa Blanca: así ejerce Trump un poder desenfrenado para dejar su huella en la historia](https://elpais.com/internacional/2026-07-13/dentro-de-la-casa-blanca-asi-ejerce-trump-un-poder-desenfrenado-para-dejar-su-huella-en-la-historia.html?utm_source=lootura.com) — 2026-07-13T03:40:00.000Z
-- [BBVA y Santander tienen los bancos de inversión que más crecen de Europa](https://www.expansion.com/empresas/banca/2026/07/13/6a2ff7e3468aeb76448b457b.html?utm_source=lootura.com) — 2026-07-12T22:02:03.000Z
-- [El embajador de EE UU ante la ONU acusa a Cuba de contar con "puestos de inteligencia" de Rusia y China](https://www.larazon.es/internacional/embajador-onu-acusa-cuba-contar-puestos-inteligencia-rusia-china_202607136a548697c48a78681b85e6f6.html?utm_source=lootura.com) — 2026-07-13T06:32:55.000Z
-- [Nueva oleada de ataques iraníes: Jordania y Kuwait interceptan misiles mientras Baréin activa sus sirenas](https://www.larazon.es/internacional/nueva-oleada-ataques-iranies-jordania-kuwait-interceptan-misiles-mientras-barein-activa-sus-sirenas_202607136a54888cc0b5fb431c523f19.html?utm_source=lootura.com) — 2026-07-13T06:41:16.000Z

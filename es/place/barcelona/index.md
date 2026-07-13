@@ -3,7 +3,7 @@
 > Sigue la actividad de Barcelona en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-13T06:50:56.167Z
+- Actualizado: 2026-07-13T10:57:59.389Z
 - Canonical: https://atlas.lootura.com/es/place/barcelona
 
 ## Cambios recientes
@@ -11,6 +11,24 @@
 ### El último recurso de Isak y Jonathan Andic ante el “sufrimiento” por su relación “pésima”
 
 En marzo de 2023, el conflicto entre Isak Andic y su hijo mayor, Jonathan Andic , parece haber llegado a un callejón sin salida. Padre e hijo llevan meses en manos de una mujer muy particular, Julia Lüderwaldt , psicoterapeuta de cabecera de familias adineradas de Barcelona —de los Sánchez Vicario a los Urdangarin— que.
+
+Date: 2026-07-13
+
+### ACS negocia comprar el 51% de la catalana Openchip
+
+ACS ultima los detalles para convertirse en el socio mayoritario de Openchip , la start up catalana apoyada por la Generalitat especializada en el diseño de chips. Según las fuentes consultadas, ACS comprará el 51% en una ronda de financiación en la que la tecnológica con sede en Barcelona pretende captar 250 millones.
+
+Date: 2026-07-13
+
+### Vox llevará a la justicia las ZBE de 7 municipios de la provincia de Barcelona
+
+Vox ha anunciado que interpondrá recursos contenciosos-administrativos contra las Zonas de Bajas Emisiones (ZBE) de 7 municipios de la provincia de Barcelona (L'Hospitalet de Llobregat, Cornellà, Manresa, Terrassa, Santa Coloma de Gramenet, Mataró y Sant Cugat del Vallès) y presentará alegaciones contra el Plan Metropo.
+
+Date: 2026-07-13
+
+### Los Premios Princesa de Girona 2026 impulsan el "talento compartido" de los jóvenes y los seis premiados
+
+La ceremonia de entrega de los Premios Princesa de Girona 2026 —que estará presidida por los Reyes, la Princesa Leonor y la Infanta Sofía— se celebrará este martes en el Gran Teatre del Liceu en Barcelona. Como antesala al acto central, los seis protagonistas de la 17a edición del galardón han llevado a cabo este lunes.
 
 Date: 2026-07-13
 
@@ -50,25 +68,9 @@ Barcelona first entered the public knowledge record with source-backed evidence.
 
 Date: 2026-07-11
 
-### La extrema derecha catalana sería primera fuerza en estas dos capitales de provincia
-
-El PSC ganaría las elecciones al Parlament en la provincia de Barcelona, mientras que ERC lo haría en la de Tarragona y Aliança Catalana (AC) sería la primera fuerza en las provincias de Girona y de Lleida, según los datos de la primera ola del Barómetro de Opinión Política de 2026 del Centre d'Estudis d'Opinió (CEO) d.
-
-Date: 2026-07-11
-
-### De polígono olvidado a fenómeno del verano: la nueva discoteca al aire libre que triunfa en Barcelona
-
-Cuando las últimas persianas de las naves industriales bajaban al final de la jornada, el polígono de Gavà se sumía en el silencio . Las calles quedaban vacías, los aparcamientos desiertos y la plaza John Lennon se convertía en un rincón olvidado donde apenas ocurría nada una vez caía la noche. Hoy cuesta reconocer ese.
-
-Date: 2026-07-11
-
-### García Hornos (CaixaBank): "No innovar también es una decisión y puede tener un coste"
-
-Xavier García Hornos , director comercial de banca de empresas de la dirección territorial de Barcelona de CaixaBank , ha celebrado el buen momento que viven las startups catalanas y la posibilidad de crecimiento gracias a la unión con otras empresas tradicionales . “Barcelona tiene una ventaja competitiva muy potente.
-
-Date: 2026-07-11
-
 ## Fuentes
 
 - [El último recurso de Isak y Jonathan Andic ante el “sufrimiento” por su relación “pésima”](https://elpais.com/espana/catalunya/2026-07-13/el-ultimo-recurso-de-isak-y-jonathan-andic-ante-el-sufrimiento-por-su-relacion-pesima.html?utm_source=lootura.com) — 2026-07-13T03:15:00.000Z
-- [Tercera ola de calor en Barcelona: hasta cuándo durará, pico máximo y temperatura día a día esta semana, según el Meteocat](https://www.larazon.es/cataluna/tercera-ola-calor-barcelona-cuando-durara-pico-maximo-temperatura-dia-dia-esta-semana-segun-meteocat_202607136a548aab772f745d2c4536e2.html?outputType=amp&utm_source=lootura.com) — 2026-07-13T06:50:19.000Z
+- [ACS negocia comprar el 51% de la catalana Openchip](https://www.expansion.com/empresas/inmobiliario/2026/07/13/6a54baaee5fdea0e0b8b457e.html?utm_source=lootura.com) — 2026-07-13T10:15:14.000Z
+- [Vox llevará a la justicia las ZBE de 7 municipios de la provincia de Barcelona](https://www.larazon.es/cataluna/vox-llevara-justicia-zbe-7-municipios-provincia-barcelona_202607136a54c3fdc0b5fb431c52bf83.html?utm_source=lootura.com) — 2026-07-13T10:54:55.000Z
+- [Los Premios Princesa de Girona 2026 impulsan el "talento compartido" de los jóvenes y los seis premiados](https://www.larazon.es/cataluna/premios-princesa-girona-2026-impulsan-talento-compartido-jovenes-seis-premiados_202607136a54bcec772f745d2c45a237.html?utm_source=lootura.com) — 2026-07-13T10:50:19.000Z

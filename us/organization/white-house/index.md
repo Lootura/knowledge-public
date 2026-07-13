@@ -3,7 +3,7 @@
 > Follow White House, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-07-13T06:51:18.851Z
+- Updated: 2026-07-13T10:58:18.710Z
 - Canonical: https://atlas.lootura.com/us/organization/white-house
 
 ## Recent changes
@@ -71,4 +71,3 @@ Date: 2026-07-09
 ## Sources
 
 - [NSF plans cuts to core science programmes to fund White House initiative](https://www.nature.com/articles/d41586-026-02135-x?utm_source=lootura.com) — 2026-07-13T06:51:23.414Z
-- [Texas Hispanics swung hard to Trump. A new poll shows they’re furious at his deportations.](https://www.politico.com/news/2026/07/12/trumps-deportation-drive-tests-gop-gains-in-texas-00993955?utm_source=lootura.com) — 2026-07-12T18:00:00.000Z

@@ -3,10 +3,16 @@
 > Follow New York, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-13T06:51:18.851Z
+- Updated: 2026-07-13T10:58:18.710Z
 - Canonical: https://atlas.lootura.com/us/place/new-york
 
 ## Recent changes
+
+### Civics Groups Are at Odds With Mamdani Over Push for Open Primaries
+
+If a new effort to persuade voters to change New York City’s closed primary system gains steam, a potential showdown between its backers and the mayor awaits.
+
+Date: 2026-07-13
 
 ### My holiday from hell: blizzards, black ice, a broken-down bus – would I ever make it to New York?
 
@@ -62,13 +68,7 @@ Mendel Uminer faced a crisis when his landlord objected to the 10,000 volumes in
 
 Date: 2026-07-09
 
-### Democratic socialist Francesca Hong tests how far left voters will go in battleground Wisconsin
-
-Over the last month, Democratic socialists have notched victories in the liberal strongholds of New York City, Washington, D.C., and Denver.
-
-Date: 2026-07-09
-
 ## Sources
 
 - [Want to own a real T. rex? It could cost you $30 million](https://www.npr.org/2026/07/12/nx-s1-5890988/t-rex-gus-dinosaur-auction-sothebys-millions?utm_source=lootura.com) — 2026-07-13T00:14:03.000Z
-- [My holiday from hell: blizzards, black ice, a broken-down bus – would I ever make it to New York?](https://www.theguardian.com/lifeandstyle/2026/jul/13/my-holiday-from-hell-blizzards-black-ice-a-broken-down-bus-would-i-ever-make-it-to-new-york?utm_source=lootura.com) — 2026-07-13T04:00:38.000Z
+- [Civics Groups Are at Odds With Mamdani Over Push for Open Primaries](https://www.nytimes.com/2026/07/13/nyregion/open-primaries-ny-bloomberg-mamdani.html?utm_source=lootura.com) — 2026-07-13T07:00:08.000Z

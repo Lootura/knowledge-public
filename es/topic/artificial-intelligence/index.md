@@ -3,7 +3,7 @@
 > Sigue la actividad de Artificial intelligence en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: topic
-- Actualizado: 2026-07-13T06:50:56.167Z
+- Actualizado: 2026-07-13T10:57:59.389Z
 - Canonical: https://atlas.lootura.com/es/topic/artificial-intelligence
 
 ## Cambios recientes
@@ -28,4 +28,4 @@ Date: 2026-07-10
 
 ## Fuentes
 
-- [¡Siri, gestióname una hipoteca!: así revolucionará la inteligencia artificial a la banca tradicional](https://elpais.com/economia/2026-07-13/siri-gestioname-una-hipoteca-asi-revolucionara-la-inteligencia-artificial-a-la-banca-tradicional.html?utm_source=lootura.com) — 2026-07-13T03:30:01.000Z
+- [Cambio de planes en Samsung: retrasa su móvil más esperado del año y a cambio va a presentar un modelo completamente nuevo y nunca visto](https://hipertextual.com/mobile/cambio-de-planes-en-samsung-retrasa-su-movil-mas-esperado-del-ano-y-a-cambio-va-a-presentar-un-modelo-completamente-nuevo-y-nunca-visto/?utm_source=lootura.com) — 2026-07-13T07:28:13.000Z

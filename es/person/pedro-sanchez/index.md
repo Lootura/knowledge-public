@@ -3,10 +3,28 @@
 > Sigue la actividad de Pedro Sánchez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-13T06:50:56.167Z
+- Actualizado: 2026-07-13T10:57:59.389Z
 - Canonical: https://atlas.lootura.com/es/person/pedro-sanchez
 
 ## Cambios recientes
+
+### Sánchez comparece sin aceptar preguntas y arremete contra la «desinformación» tras el incendio de Los Gallardos
+
+El presidente del Gobierno, Pedro Sánchez, ha hablado este lunes desde el Puesto de Mando Avanzado de Turre (Almería) en una comparecencia sin preguntas en la que ha arremetido contra la «desinformación» tras el incendio forestal que ha afectado a la zona almeriense de Los Gallardos. Ese fuego ha dejado 13 fallecidos y.
+
+Date: 2026-07-13
+
+### Ayuso defiende la Fórmula 1 en Madrid: «Es una gran inversión que no cuesta al contribuyente madrileño»
+
+Isabel Díaz Ayuso , presidenta de la Comunidad de Madrid, ha arremetido contra el Gobierno de Sánchez por la «falta de apoyo económico» a Madrid para la celebración del Gran Premio de Fórmula 1 en la capital, cargando contra aquellos que no querían que se llevara a cabo el GP de España de F1. La dirigente del Partido P.
+
+Date: 2026-07-13
+
+### Sánchez y Moreno se unen en Almería para respaldar el dispositivo contra los incendios
+
+El presidente del Gobierno, Pedro Sánchez , y el de la Junta de Andalucía, Juanma Moreno (PP-A), han coincidido en el puesto de mando avanzado instalado en Turre ( Almería ) con motivo del incendio forestal declarado el pasado jueves en el término municipal almeriense de Los Gallardos, en el que han muerto al menos 13.
+
+Date: 2026-07-13
 
 ### Pedro Sánchez y Juanma Moreno coinciden en la visita al puesto de mando avanzado del incendio de Los Gallardos
 
@@ -50,25 +68,8 @@ Un estado de ánimo ciclotímico envuelve al PP en el final del curso político.
 
 Date: 2026-07-12
 
-### El gasto militar de Sánchez sólo concita el aplauso de Trump: izquierda y derecha exigen explicaciones y acusan al Gobierno de opacidad
-
-Reproches al Gobierno por traspasar todos los límites de la transparencia hasta crear una enorme factura opaca en la que se mezclan armas, salarios, planes de inversión y programas de inteligencia Leer.
-
-Date: 2026-07-12
-
-### El juez quiere saber si Zapatero comió con Sánchez antes del rescate de Plus Ultra
-
-«¿Usted entre julio y septiembre de 2020 tuvo alguna comida con el presidente del Gobierno , con el ministro Escrivá, con algún alto cargo del Ministerio de Hacienda, en relación con este tema, o sin que fuera por este tema?». Es una de las muchas preguntas, reiterativas, que el juez de la Audiencia Nacional José Luis.
-
-Date: 2026-07-12
-
-### Las tres ventanas de Sánchez para convocar las elecciones: la apresurada, la probable y la letal
-
-El presidente no quiere cerrar ninguna de momento. Los suyos siguen confiando en un milagro, en un giro de guion, en un triple salto mortal… la fe ...
-
-Date: 2026-07-12
-
 ## Fuentes
 
-- [Las notas secretas que Zapatero entregó a Sánchez: Junts rompió con el Gobierno por usar a Pumpido para engañarles](https://amp.elmundo.es/espana/2026/07/12/6a53a8e721efa091308b458c.html?utm_source=lootura.com) — 2026-07-12T20:50:12.000Z
-- [Pedro Sánchez y Juanma Moreno coinciden en la visita al puesto de mando avanzado del incendio de Los Gallardos](https://www.larazon.es/andalucia/pedro-sanchez-juanma-moreno-coinciden-visita-puesto-mando-avanzado-incendio-gallardos_202607136a5485f5772f745d2c452de3.html?utm_source=lootura.com) — 2026-07-13T06:30:13.000Z
+- [Sánchez comparece sin aceptar preguntas y arremete contra la «desinformación» tras el incendio de Los Gallardos](https://okdiario.com/espana/sanchez-comparece-sin-aceptar-preguntas-arremete-contra-desinformacion-incendio-gallardos-18984768/amp?utm_source=lootura.com) — 2026-07-13T10:49:09.000Z
+- [Ayuso defiende la Fórmula 1 en Madrid: «Es una gran inversión que no cuesta al contribuyente madrileño»](https://okdiario.com/deportes/ayuso-carga-contra-gobierno-intentar-que-f1-madrid-no-celebre-cataluna-dan-40-millones-18984483?utm_source=lootura.com) — 2026-07-13T10:27:58.000Z
+- [Sánchez y Moreno se unen en Almería para respaldar el dispositivo contra los incendios](https://theobjective.com/espana/politica/2026-07-13/sanchez-moreno-unen-almeria-respaldar-dispositivo-incendios/?utm_source=lootura.com) — 2026-07-13T10:44:18.000Z

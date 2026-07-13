@@ -3,10 +3,22 @@
 > Sigue la actividad de Donald Trump en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-13T06:50:56.167Z
+- Actualizado: 2026-07-13T10:57:59.389Z
 - Canonical: https://atlas.lootura.com/es/person/donald-trump
 
 ## Cambios recientes
+
+### Dentro de la Casa Blanca: así ejerce Trump un poder desenfrenado para dejar su huella en la historia
+
+Si hay un punto de inflexión en el legado de Donald Trump como presidente de Estados Unidos, hay que buscarlo en el 20 de enero de 2025, el primer día de su regreso al Despacho Oval tras su abrupta salida en 2021, cuando fue derrotado por Joe Biden y convertido en un paria político por agitar a una muchedumbre enfervor.
+
+Date: 2026-07-13
+
+### Detenido en Ibiza un "filántropo" estadounidense al que la administración Trump acusa de financiar la causa palestina
+
+Agentes de la Comisaría General de Información arrestaron el viernes a James 'Fergie' Cox, uno de los herederos del emporio industrial, cumpliendo con una "nota roja" de Interpol a partir de una petición de la Administración Trump Agentes de la Comisaría General de Información detuvieron el pasado viernes en Ibiza a Ja.
+
+Date: 2026-07-13
 
 ### Dentro de la Casa Blanca: así ejerce Trump un poder desenfrenado para dejar su huella en la historia
 
@@ -56,19 +68,7 @@ Su inesperada muerte trunca una carrera política caracterizada por su crítica 
 
 Date: 2026-07-12
 
-### Trump vuelve a bombardear Irán y la crisis en Ormuz entra en una fase crítica
-
-Continúa la escalada de tensión en Oriente Próximo. Estados Unidos e Irán redoblan su pulso tras el colapso del preacuerdo de paz. En esta ocasión, la Administración Trump movía ficha en primer término, ordenando una nueva ronda de bombardeos contra objetivos iraníes después de que la Guardia Revolucionaria – según den.
-
-Date: 2026-07-12
-
-### EEUU bombardea de nuevo Irán tras anunciar Teherán el cierre del estrecho Ormuz y atacar un barco en el paso marítimo
-
-Irán dice que el paso de Ormuz está cerrado de nuevo después de que un buque que seguía una "ruta no autorizada" fuera alcanzado y el Ejército de EEUU anuncia que "está imponiendo un alto coste" a Irán Trump desata el caos con nuevos ataques sobre Irán, insultos a sus aliados de la OTAN, crisis internas y más muertes d.
-
-Date: 2026-07-12
-
 ## Fuentes
 
 - [Dentro de la Casa Blanca: así ejerce Trump un poder desenfrenado para dejar su huella en la historia](https://elpais.com/internacional/2026-07-13/dentro-de-la-casa-blanca-asi-ejerce-trump-un-poder-desenfrenado-para-dejar-su-huella-en-la-historia.html?utm_source=lootura.com) — 2026-07-13T03:40:00.000Z
-- [Canadá redibuja el mapa energético con un oleoducto para sortear a Trump y acercarse a Asia](https://elpais.com/economia/2026-07-13/canada-redibuja-el-mapa-energetico-con-un-oleoducto-para-sortear-a-trump-y-acercarse-a-asia.html?utm_source=lootura.com) — 2026-07-13T03:30:00.000Z
+- [Detenido en Ibiza un "filántropo" estadounidense al que la administración Trump acusa de financiar la causa palestina](https://www.eldiario.es/politica/detenido-ibiza-filantropo-estadounidense-pais-acusa-financiar-causa-palestina_1_13375611.html?utm_source=lootura.com) — 2026-07-13T09:39:29.000Z

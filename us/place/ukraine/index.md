@@ -3,10 +3,28 @@
 > Follow Ukraine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-13T06:51:18.851Z
+- Updated: 2026-07-13T10:58:18.710Z
 - Canonical: https://atlas.lootura.com/us/place/ukraine
 
 ## Recent changes
+
+### With Lindsey Graham Gone, Ukraine Loses an Ally in Trump’s Ear
+
+The South Carolina Republican was Ukraine’s most influential champion inside President Trump’s mostly “America First” political orbit.
+
+Date: 2026-07-13
+
+### The Next Phase in Ukraine’s War With Russia: The Battle for Minds
+
+Ukrainians, already drone innovators, are turning their focus to psychological operations aimed at undercutting Russian support for the war.
+
+Date: 2026-07-13
+
+### A Robot Army Remakes Ground Warfare in Ukraine
+
+They began as supply mules. Now ground robots evacuate the wounded, hold trenches and even do the killing.
+
+Date: 2026-07-13
 
 ### Margaret Brennan: I spoke with Lindsey Graham a day before he died
 
@@ -50,26 +68,8 @@ Lindsey Graham, an Air Force veteran from South Carolina and one of the most inf
 
 Date: 2026-07-12
 
-### Zelensky Announces Leadership Shuffle as War Turns in Ukraine’s Favor
-
-President Volodymyr Zelensky said Ukraine’s prime minister, Yuliia Svyrydenko, would step down amid a broader shake-up in Ukraine’s senior leadership.
-
-Date: 2026-07-12
-
-### Inside the Secret Factory That Supplies Ukraine’s War Drones
-
-With its mass-produced and inexpensive A.I. powered war machines, the German start-up Helsing SE illustrates a profound shift in military spending.
-
-Date: 2026-07-11
-
-### 10 injured in overnight Russian strikes on Kyiv
-
-Ukrainian military said its air defenses shot down or suppressed two missiles and 111 drones, while Russia claims its forces targeted drone production facilities in Kyiv.
-
-Date: 2026-07-11
-
 ## Sources
 
-- [Margaret Brennan: I spoke with Lindsey Graham a day before he died](https://www.cbsnews.com/news/margaret-brennan-lindsey-graham-kyiv-russia-sanctions-ukraine/?utm_source=lootura.com) — 2026-07-12T16:14:25.000Z
-- [Ukraine's prime minister resigns; Zelenskyy shifts several government roles](https://www.cbsnews.com/news/ukraine-prime-minister-resigns-yulia-svyrydenko-volodymyr-zelenskyy-politics/?utm_source=lootura.com) — 2026-07-12T17:46:22.000Z
-- [With Lindsey Graham Gone, Ukraine Loses an Ally in Trump’s Ear](https://www.nytimes.com/2026/07/12/us/lindsey-graham-ukraine.html?utm_source=lootura.com) — 2026-07-12T22:19:18.000Z
+- [With Lindsey Graham Gone, Ukraine Loses an Ally in Trump’s Ear](https://www.nytimes.com/2026/07/12/us/lindsey-graham-ukraine.html?utm_source=lootura.com) — 2026-07-13T09:10:17.000Z
+- [The Next Phase in Ukraine’s War With Russia: The Battle for Minds](https://www.nytimes.com/2026/07/13/world/europe/ukraine-war-russia-cognitive-warfare.html?utm_source=lootura.com) — 2026-07-13T09:02:08.000Z
+- [A Robot Army Remakes Ground Warfare in Ukraine](https://www.nytimes.com/2026/07/13/world/europe/ukraine-ground-robots.html?utm_source=lootura.com) — 2026-07-13T09:00:23.000Z

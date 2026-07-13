@@ -3,20 +3,26 @@
 > Sigue la actividad de Correos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-11T06:11:02.390Z
+- Actualizado: 2026-07-13T10:57:59.389Z
 - Canonical: https://atlas.lootura.com/es/organization/correos
 
 ## Cambios recientes
 
-### El exjefe de gabinete de Sánchez intercambió más de 10.000 mensajes con Leire Díez hasta que la Audiencia Nacional la imputó
+### Quién es Juan Manuel Serrano: así es la discreta vida personal del expresidente de Correos junto a su mujer, Isaura Leal (PSOE)
 
-El exjefe de Gabinete de Pedro Sánchez y expresidente de Correos Juan Manuel Serrano mantuvo una relación muy estrecha con Leire Díez , con quien intercambió más de 10.000 mensajes entre noviembre de 2020 y noviembre de 2025 . Esos mensajes se encuentran en poder de la Unidad Central Operativa (UCO) de la Guardia Civil.
+La reciente imputación del expresidente de Correos, Juan Manuel Serrano Quintana, en la investigación sobre las denominadas «cloacas del PSOE» ha vuelto a.
 
-Date: 2026-07-11
+Date: 2026-07-13
 
 ### Discovered by Atlas
 
 Correos first entered the public knowledge record with source-backed evidence.
+
+Date: 2026-07-11
+
+### El exjefe de gabinete de Sánchez intercambió más de 10.000 mensajes con Leire Díez hasta que la Audiencia Nacional la imputó
+
+El exjefe de Gabinete de Pedro Sánchez y expresidente de Correos Juan Manuel Serrano mantuvo una relación muy estrecha con Leire Díez , con quien intercambió más de 10.000 mensajes entre noviembre de 2020 y noviembre de 2025 . Esos mensajes se encuentran en poder de la Unidad Central Operativa (UCO) de la Guardia Civil.
 
 Date: 2026-07-11
 
@@ -62,12 +68,6 @@ La Unidad Central Operativa (UCO) de la Guardia Civil ha enviado un nuevo inform
 
 Date: 2026-07-09
 
-### El ex jefe de Gabinete de Sánchez quería seguir con la «movida» antijudicial sin el presidente
-
-Juan Manuel Serrano, que fue jefe de gabinete de Pedro Sánchez y presidente de Correos, quería seguir con la «movida» de desacreditar a jueces y fiscales que investigan la corrupción con independencia de si el presidente seguía o se marchaba tras la imputación de su esposa . Serrano se pronunció de esta forma en mensaj.
-
-Date: 2026-07-09
-
 ## Fuentes
 
-No public source links.
+- [Quién es Juan Manuel Serrano: así es la discreta vida personal del expresidente de Correos junto a su mujer, Isaura Leal (PSOE)](https://theobjective.com/gente/2026-07-13/quien-es-juan-manuel-serrano-asi-es-la-discreta-vida-personal-del-expresidente-de-correos-junto-a-su-mujer-isaura-leal-psoe/?amp=&utm_source=lootura.com) — 2026-07-13T10:47:42.000Z

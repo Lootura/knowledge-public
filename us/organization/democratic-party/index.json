@@ -8,11 +8,26 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/democratic-party/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/democratic-party/index.json",
   "description": "Follow Democratic Party, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-12T16:56:46.923Z",
+  "updatedAt": "2026-07-13T10:58:18.710Z",
   "aliases": [
     "Democrats"
   ],
   "changes": [
+    {
+      "title": "Maine Democrats scramble to select replacement for Platner in Senate race",
+      "summary": "Maine Democrats now have a process for choosing a replacement for Senate candidate Graham Platner. But voters are still reeling from his fall.",
+      "date": "2026-07-13"
+    },
+    {
+      "title": "Maine Democrats to Chuck Schumer: Stay Out of Our Senate Race",
+      "summary": "Local Democrats are warning the top Senate Democrat to keep away as they replace Graham Platner, and the candidates are giving his leadership in Washington low marks.",
+      "date": "2026-07-13"
+    },
+    {
+      "title": "Mercurial and Magnetic, Lindsey Graham Was a Force in the Senate",
+      "summary": "The sharp-witted South Carolinian repaired relations with President Trump to advance his foreign policy goals, was willing to cut deals with Democrats and tried to insert himself into every legislative fight.",
+      "date": "2026-07-13"
+    },
     {
       "title": "Maine Democrats Will Replace Graham Platner. Here’s What to Know.",
       "summary": "Mr. Platner’s withdrawal from a marquee Senate race, under pressure from his party, has set in motion an unusual competition to become the new nominee.",
@@ -47,23 +62,27 @@
       "title": "Graham Platner makes it official in Maine, submitting paperwork to leave Senate race",
       "summary": "In his withdrawal notice, Platner said \"people are desperate for change\" and that's why they made him the Democratic nominee. Now, Maine Democrats have to pick someone to replace him by July 27. (Image credit: CJ Gunther).",
       "date": "2026-07-10"
-    },
-    {
-      "title": "Product availability changed in Europe",
-      "summary": "The last-minute scramble to name a replacement reminds some in the party of the challenges they faced in 2024.",
-      "date": "2026-07-10"
-    },
-    {
-      "title": "Graham Platner officially files letter withdrawing candidacy",
-      "summary": "Graham Platner, who was the Democratic candidate for Senate in Maine, officially filed a letter withdrawing his candidacy following rape allegations which he denies. The filing triggers a process where the Maine Democratic Party can replace him on the ballot.",
-      "date": "2026-07-10"
-    },
-    {
-      "title": "How American Socialism Changed, and Stormed the Democratic Party",
-      "summary": "The movement was better at critiquing the system than reshaping it. But it has never had this much mainstream political power.",
-      "date": "2026-07-10"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Maine Democrats scramble to select replacement for Platner in Senate race",
+      "url": "https://www.npr.org/2026/07/13/nx-s1-5888430/maine-democrats-scramble-to-select-replacement-for-platner-in-senate-race?utm_source=lootura.com",
+      "publishedAt": "2026-07-13T08:48:28.000Z",
+      "sourceId": "lootura-us-npr-politics"
+    },
+    {
+      "title": "Maine Democrats to Chuck Schumer: Stay Out of Our Senate Race",
+      "url": "https://www.nytimes.com/2026/07/13/us/politics/maine-democrats-schumer-stay-out-senate-race.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-13T09:02:46.000Z",
+      "sourceId": "lootura-us-the-new-york-times-politics"
+    },
+    {
+      "title": "Mercurial and Magnetic, Lindsey Graham Was a Force in the Senate",
+      "url": "https://www.nytimes.com/2026/07/13/us/politics/lindsey-graham-senate-force.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-13T09:02:52.000Z",
+      "sourceId": "lootura-us-the-new-york-times-politics"
+    }
+  ],
+  "evidenceCount": 3
 }

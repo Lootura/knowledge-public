@@ -3,10 +3,22 @@
 > Sigue la actividad de China en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-13T06:50:56.167Z
+- Actualizado: 2026-07-13T10:57:59.389Z
 - Canonical: https://atlas.lootura.com/es/place/china
 
 ## Cambios recientes
+
+### La Primera de Expansión sobre el apagón, Brookfield, Inditex, Irán, Mitsubishi y la IA china
+
+La Primera de Expansión les cuenta hoy que el Gobierno rechaza que el Consorcio de Compensación de Seguros asuma el pago de las indemnizaciones por el apagón.
+
+Date: 2026-07-13
+
+### Subí a un taxi sin conductor en Shenzhen y esto es lo que he aprendido sobre el futuro del transporte
+
+He estado la semana pasada en China y uno de mis objetivos era probar el servicio de robotaxi, es decir, el de un transporte automatizado sin conductor. En Alemania tuve la oportunidad de probar una conducción semiautónoma , pero las regulaciones euurpoeas están frenando este tipo de iniciativas. China es otra historia.
+
+Date: 2026-07-13
 
 ### El 'boom' de los neumáticos 'made in China' en España pone en jaque a los grandes fabricantes europeos
 
@@ -17,12 +29,6 @@ Date: 2026-07-13
 ### Li Ping, experta en medicina china: «La lengua es el espejo del corazón»
 
 Dicen que nadie conoce mejor su cuerpo que uno mismo. Que podemos ir al médico porque nos duele o nos pasa algo, pero que es el propio paciente quien sabe a la perfección cómo reacciona su organismo. Y es que no todos padecemos o desarrollamos una enfermedad de igual forma. O incluso con síntomas comunes, cada individu.
-
-Date: 2026-07-13
-
-### La Primera de Expansión sobre el apagón, Brookfield, Inditex, Irán, Mitsubishi y la IA china
-
-La Primera de Expansión les cuenta hoy que el Gobierno rechaza que el Consorcio de Compensación de Seguros asuma el pago de las indemnizaciones por el apagón.
 
 Date: 2026-07-13
 
@@ -62,15 +68,7 @@ La expansión global de los medicamentos contra la obesidad ha generado grandes 
 
 Date: 2026-07-09
 
-### Al menos 28 personas mueren tras incendiarse una fábrica de calzado en el sureste de China
-
-Al menos 28 personas murieron este jueves en un incendio registrado en una fábrica de calzado de la provincia suroriental china de Fujian, informaron las autoridades, citadas por medios estatales. El fuego se declaró hacia las 12.00 hora local (04.00 GMT) en una nave de la empresa Fujian Huiteng Shoes , situada en la c.
-
-Date: 2026-07-09
-
 ## Fuentes
 
-- [El 'boom' de los neumáticos 'made in China' en España pone en jaque a los grandes fabricantes europeos](https://www.20minutos.es/lainformacion/economia-y-finanzas/neumaticos-china-contra-cuerdas-europeos-cambiar-estrategia_7012572_0.html?utm_source=lootura.com) — 2026-07-13T03:00:00.000Z
-- [Li Ping, experta en medicina china: «La lengua es el espejo del corazón»](https://www.abc.es/bienestar/ping-experta-medicina-tradicional-china-lengua-espejo-20260713200432-nt.html?utm_source=lootura.com) — 2026-07-13T06:03:52.000Z
 - [La Primera de Expansión sobre el apagón, Brookfield, Inditex, Irán, Mitsubishi y la IA china](https://www.expansion.com/podcasts/la-primera-de-expansion/2026/07/13/6a547333e5fdea310f8b458b.html?utm_source=lootura.com) — 2026-07-13T05:39:53.000Z
-- [El embajador de EE UU ante la ONU acusa a Cuba de contar con "puestos de inteligencia" de Rusia y China](https://www.larazon.es/internacional/embajador-onu-acusa-cuba-contar-puestos-inteligencia-rusia-china_202607136a548697c48a78681b85e6f6.html?utm_source=lootura.com) — 2026-07-13T06:32:55.000Z
+- [Subí a un taxi sin conductor en Shenzhen y esto es lo que he aprendido sobre el futuro del transporte](https://okdiario.com/tecnologia/subi-taxi-sin-conductor-shenzhen-esto-lo-que-he-aprendido-sobre-futuro-del-transporte-18984180?utm_source=lootura.com) — 2026-07-13T10:44:12.000Z

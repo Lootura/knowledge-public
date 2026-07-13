@@ -8,12 +8,22 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/gobierno-de-espana/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/gobierno-de-espana/index.json",
   "description": "Sigue la actividad de Gobierno de España en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-13T06:50:56.167Z",
+  "updatedAt": "2026-07-13T10:57:59.389Z",
   "aliases": [
     "Ejecutivo español",
     "Gobierno español"
   ],
   "changes": [
+    {
+      "title": "Borja Iglesias responde a Rajoy por sus palabras sobre Francia: \"Me sorprende que a estas alturas sigamos con estas cosas\"",
+      "summary": "Las declaraciones del expresidente del Gobierno español, Mariano Rajoy , en las que afirmó que les Bleus son un gran equipo, pero sin franceses, siguen generando multitud de reacciones. El último en pronunciarse al respecto ha sido el internacional español Borja Iglesias . \"Francia tiene, además, una plantilla de altís.",
+      "date": "2026-07-13"
+    },
+    {
+      "title": "Jean-Marie Le Pen debe de estar aplaudiendo a Rajoy desde su tumba",
+      "summary": "Marine Le Pen debió de sonreír este fin de semana, o tal vez frunció el ceño de estupefacción, al leer las palabras de Mariano Rajoy sobre la selección francesa de fútbol. El expresidente del Gobierno español elogió en un artículo “la plantilla de altísimo nivel” de Francia, y añadió: “Eso sí, sin franceses”. Son palab.",
+      "date": "2026-07-13"
+    },
     {
       "title": "El fútbol francés responde a Rajoy: \"Los jugadores no tienen por qué recibir un certificado de nacionalidad\"",
       "summary": "Philippe Diallo, presidente de la Federación Francesa de Fútbol (FFF), criticó este domingo las declaraciones del expresidente del Gobierno español Mariano Rajoy sobre la selección francesa, por tener un \"tufo de racismo intolerable\" y ser contrarias a la realidad del equipo nacional. \"Las palabras de Mariano Rajoy evo.",
@@ -53,30 +63,20 @@
       "title": "Los Reyes, «profundamente consternados», trasladan el pésame a los familiares de las víctimas del incendio de Almería",
       "summary": "El presidente de la Junta detalla que se está trabajando en la identificación de las víctimas, en su mayoría extranjeras, para trasladar los datos al Gobierno de España.",
       "date": "2026-07-10"
-    },
-    {
-      "title": "La Fiscalía de Bolivia pide información a España y Perú por el caso de Zapatero",
-      "summary": "El Ministerio Público de Bolivia ha pedido a España y Perú información sobre el caso que involucra al expresidente del Gobierno español José Luis.",
-      "date": "2026-07-09"
-    },
-    {
-      "title": "Trump dice ahora que España «se ha redimido por completo» al prometer «numerosos pagos» a la OTAN",
-      "summary": "La visión de Trump sobre España ha pasado de la amenaza al halago en menos de 24 horas. Tras una mañana de miércoles donde el presidente de Estados Unidos remetió contra España acusándolo de «socio pésimo» y de «mal pagador», este miércoles el republicano ha asegurado que el Ejecutivo español «se ha redimido por comple.",
-      "date": "2026-07-09"
     }
   ],
   "sources": [
     {
-      "title": "El fútbol francés responde a Rajoy: \"Los jugadores no tienen por qué recibir un certificado de nacionalidad\"",
-      "url": "https://www.20minutos.es/deportes/futbol/futbol-frances-responde-rajoy-los-jugadores-no-tienen-por-que-recibir-un-certificado-nacionalidad-un-espanol_7013740_0.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-13T05:15:54.000Z",
+      "title": "Borja Iglesias responde a Rajoy por sus palabras sobre Francia: \"Me sorprende que a estas alturas sigamos con estas cosas\"",
+      "url": "https://www.20minutos.es/deportes/futbol/borja-iglesias-responde-rajoy-por-sus-palabras-sobre-francia-me-sorprende-que-estas-alturas-sigamos-con-estas-cosas_7013805_0.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-13T07:55:55.000Z",
       "sourceId": "lootura-es-20minutos"
     },
     {
-      "title": "Mariano Rajoy sobre los que le tachan de racista: \"No me voy a poner al nivel de ciertos miembros del Gobierno español\"",
-      "url": "https://www.elmundo.es/deportes/futbol/mundial-de-futbol/2026/07/12/6a53e250e9cf4ae56c8b4571.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-12T21:23:59.000Z",
-      "sourceId": "lootura-es-el-mundo"
+      "title": "Jean-Marie Le Pen debe de estar aplaudiendo a Rajoy desde su tumba",
+      "url": "https://elpais.com/opinion/2026-07-13/jean-marie-le-pen-debe-de-estar-aplaudiendo-a-rajoy-desde-su-tumba.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-13T03:30:01.000Z",
+      "sourceId": "lootura-es-el-pais"
     }
   ],
   "evidenceCount": 2

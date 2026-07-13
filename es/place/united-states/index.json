@@ -8,13 +8,23 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/united-states/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/united-states/index.json",
   "description": "Sigue la actividad de Estados Unidos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-13T06:50:56.167Z",
+  "updatedAt": "2026-07-13T10:57:59.389Z",
   "aliases": [
     "America",
     "Estados Unidos",
     "U.S."
   ],
   "changes": [
+    {
+      "title": "Detenido en Ibiza el activista millonario marxista 'Fergie' Chambers, buscado por EE.UU.",
+      "summary": "El multimillonario estadounidense James Cox 'Fergie' Chambers Jr. , heredero de la fortuna de Cox Enterprises y uno de los principales financiadores de grupos militantes propalestinos en Estados Unidos, permanece ingresado en el centro penitenciario de Ibiza desde el pasado sábado después de ser detenido en cumplimient.",
+      "date": "2026-07-13"
+    },
+    {
+      "title": "Dentro de la Casa Blanca: así ejerce Trump un poder desenfrenado para dejar su huella en la historia",
+      "summary": "Si hay un punto de inflexión en el legado de Donald Trump como presidente de Estados Unidos, hay que buscarlo en el 20 de enero de 2025, el primer día de su regreso al Despacho Oval tras su abrupta salida en 2021, cuando fue derrotado por Joe Biden y convertido en un paria político por agitar a una muchedumbre enfervor.",
+      "date": "2026-07-13"
+    },
     {
       "title": "Dentro de la Casa Blanca: así ejerce Trump un poder desenfrenado para dejar su huella en la historia",
       "summary": "Si hay un punto de inflexión en el legado de Donald Trump como presidente de Estados Unidos, hay que buscarlo en el 20 de enero de 2025, el primer día de su regreso al Despacho Oval tras su abrupta salida en 2021, cuando fue derrotado por Joe Biden y convertido en un paria político por agitar a una muchedumbre enfervor.",
@@ -54,43 +64,21 @@
       "title": "Contreras hace el agosto y Estados Unidos le hace la cobra a Indra",
       "summary": "A José Luis Rodríguez Zapatero se le han quedado flácidas las cejas de tanto 'joyerío' y tanta caradura 'offshore'. Llega el 'contrerismo', que bien pudiera ser como decir el final del 'zapaterismo' y el comienzo de... ¿lo mismo? José Miguel Contreras, socio fundador de Globomedia, La Sexta, fundador de La Coproductora.",
       "date": "2026-07-12"
-    },
-    {
-      "title": "EEUU ataca objetivos iraníes tras el cierre de Ormuz «hasta nuevo aviso»",
-      "summary": "El Mando Central del Ejército de Estados Unidos (CENTCOM) ha anunciado este domingo ataques contra Irán tras la ofensiva de la Guardia Revolucionaria contra un buque comercial que habría ignorado sus instrucciones, lo que ha provocado el cierre del estrecho de Ormuz «hasta nuevo aviso». De esta manera, Washington ha in.",
-      "date": "2026-07-12"
-    },
-    {
-      "title": "EE.UU. ataca objetivos iraníes tras el cierre del estrecho de Ormuz «hasta nuevo aviso»",
-      "summary": "Estados Unidos lanzó este sábado una nueva oleada de ataques aéreos contra Irán después de que la Guardia Revolucionaria alcanzara un buque mercante que trataba de atravesar el estrecho de Ormuz. Es la tercera operación militar estadounidense de esta semana y la confirmación de que el alto el fuego anunciado hace apena.",
-      "date": "2026-07-12"
     }
   ],
   "sources": [
     {
+      "title": "Detenido en Ibiza el activista millonario marxista 'Fergie' Chambers, buscado por EE.UU.",
+      "url": "https://www.abc.es/espana/baleares/detenido-ibiza-activista-marxista-fergie-chambers-buscado-20260713121113-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-13T10:26:09.000Z",
+      "sourceId": "lootura-es-abc"
+    },
+    {
       "title": "Dentro de la Casa Blanca: así ejerce Trump un poder desenfrenado para dejar su huella en la historia",
       "url": "https://elpais.com/internacional/2026-07-13/dentro-de-la-casa-blanca-asi-ejerce-trump-un-poder-desenfrenado-para-dejar-su-huella-en-la-historia.html?utm_source=lootura.com",
       "publishedAt": "2026-07-13T03:40:00.000Z",
-      "sourceId": "lootura-es-cinco-dias"
-    },
-    {
-      "title": "BBVA y Santander tienen los bancos de inversión que más crecen de Europa",
-      "url": "https://www.expansion.com/empresas/banca/2026/07/13/6a2ff7e3468aeb76448b457b.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-12T22:02:03.000Z",
-      "sourceId": "lootura-es-expansion"
-    },
-    {
-      "title": "El embajador de EE UU ante la ONU acusa a Cuba de contar con \"puestos de inteligencia\" de Rusia y China",
-      "url": "https://www.larazon.es/internacional/embajador-onu-acusa-cuba-contar-puestos-inteligencia-rusia-china_202607136a548697c48a78681b85e6f6.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-13T06:32:55.000Z",
-      "sourceId": "lootura-es-la-razon"
-    },
-    {
-      "title": "Nueva oleada de ataques iraníes: Jordania y Kuwait interceptan misiles mientras Baréin activa sus sirenas",
-      "url": "https://www.larazon.es/internacional/nueva-oleada-ataques-iranies-jordania-kuwait-interceptan-misiles-mientras-barein-activa-sus-sirenas_202607136a54888cc0b5fb431c523f19.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-13T06:41:16.000Z",
-      "sourceId": "lootura-es-la-razon"
+      "sourceId": "lootura-es-el-pais"
     }
   ],
-  "evidenceCount": 4
+  "evidenceCount": 2
 }

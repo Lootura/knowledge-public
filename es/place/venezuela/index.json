@@ -8,9 +8,14 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/venezuela/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/venezuela/index.json",
   "description": "Sigue la actividad de Venezuela en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-13T06:50:56.167Z",
+  "updatedAt": "2026-07-13T10:57:59.389Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "La selección: terremoto en Venezuela",
+      "summary": "Un rescatista trabaja en el lugar donde se derrumbó un edificio tras los fuertes terremotos mientras continúan las operaciones de búsqueda, rescate y recuperación en La Guaira. ttanni/Shutterstock “Qué triste está la ciudad, perdida ya de su fe, pero destruida será el día de San Bernabé. Quien lo viviere lo verá”. Con.",
+      "date": "2026-07-13"
+    },
     {
       "title": "La represión chavista, arma para una venganza por desamor",
       "summary": "Los melancólicos de viejas dictaduras dicen que en tiempos pasados se vivía mejor. En Venezuela , quienes añoran el 'orden' que existía durante la época del general Marcos Pérez Jiménez aseguran que, mientras uno no se metiera en política, no había nada que temer a la represión. Una falacia que hoy sigue vigente en la.",
@@ -39,17 +44,11 @@
   ],
   "sources": [
     {
-      "title": "La represión chavista, arma para una venganza por desamor",
-      "url": "https://www.abc.es/internacional/estado-arma-personal-trampa-judicial-chavista-cazar-20260609011400-nt.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-13T04:34:36.000Z",
-      "sourceId": "lootura-es-abc"
-    },
-    {
-      "title": "Los muertos en Venezuela a causa del doble terremoto ya son casi 4.500",
-      "url": "https://theobjective.com/internacional/2026-07-13/muertos-venezuela-terremoto-4500/?amp=&utm_source=lootura.com",
-      "publishedAt": "2026-07-12T22:10:16.000Z",
-      "sourceId": "lootura-es-the-objective"
+      "title": "La selección: terremoto en Venezuela",
+      "url": "https://theconversation.com/la-seleccion-terremoto-en-venezuela-287150?utm_source=lootura.com",
+      "publishedAt": "2026-07-13T09:50:52.000Z",
+      "sourceId": "lootura-es-the-conversation-espana"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

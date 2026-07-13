@@ -3,10 +3,16 @@
 > Follow Venezuela, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-12T20:42:32.118Z
+- Updated: 2026-07-13T10:58:18.710Z
 - Canonical: https://atlas.lootura.com/us/place/venezuela
 
 ## Recent changes
+
+### Lindsey Graham’s Unexpected Death, and How Marco Rubio Is Running Venezuela
+
+Plus, Sam Neill of “Jurassic Park” fame dies at 78.
+
+Date: 2026-07-13
 
 ### After Venezuela Earthquakes, a Youth Baseball League Counts the Dead
 
@@ -34,4 +40,4 @@ Date: 2026-07-08
 
 ## Sources
 
-No public source links.
+- [Lindsey Graham’s Unexpected Death, and How Marco Rubio Is Running Venezuela](https://www.nytimes.com/2026/07/13/podcasts/the-headlines/lindsey-graham-death-marco-rubio-venezuela-sam-neill.html?utm_source=lootura.com) — 2026-07-13T10:00:18.000Z

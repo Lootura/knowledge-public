@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/europe/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/europe/index.json",
   "description": "Follow Europe, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-13T06:51:18.851Z",
+  "updatedAt": "2026-07-13T10:58:18.710Z",
   "aliases": [
     "EU",
     "European Union"
   ],
   "changes": [
+    {
+      "title": "Social media limits are coming for teens across Europe",
+      "summary": "The European Union is weighing sweeping new restrictions on children's and teenagers' access to social media, including age limits, an outright ban, and phased access. Social media platforms could also be forced to prove their services are not harmful before young people are allowed to use them. European Commission Pre.",
+      "date": "2026-07-13"
+    },
     {
       "title": "Lindsey Graham remembered for a vision of American foreign policy that's fading in Washington",
       "summary": "Graham was a rare bridge between President Donald Trump's \"America First\" foreign policy and the traditional Washington consensus prioritizing alliances with Europe and Israel, one falling out of favor with many in both political parties.",
@@ -66,7 +71,13 @@
       "url": "https://www.pbs.org/newshour/politics/lindsey-graham-remembered-for-a-vision-of-american-foreign-policy-thats-fading-in-washington?utm_source=lootura.com",
       "publishedAt": "2026-07-12T22:40:48.000Z",
       "sourceId": "lootura-us-pbs-newshour"
+    },
+    {
+      "title": "Social media limits are coming for teens across Europe",
+      "url": "https://www.theverge.com/tech/964565/eu-children-social-media-online-safety-rules?utm_source=lootura.com",
+      "publishedAt": "2026-07-13T09:22:52.000Z",
+      "sourceId": "lootura-us-the-verge"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 2
 }

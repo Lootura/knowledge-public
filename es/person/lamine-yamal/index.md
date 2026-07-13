@@ -3,10 +3,16 @@
 > Sigue la actividad de Lamine Yamal en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-12T20:42:08.067Z
+- Actualizado: 2026-07-13T10:57:59.389Z
 - Canonical: https://atlas.lootura.com/es/person/lamine-yamal
 
 ## Cambios recientes
+
+### Lamine Yamal cumple 19 a punto de hacer historia: los eventos que han marcado su vida (un apuñalamiento, lujo, varias novias y más)
+
+nació el 13 de julio de 2007 en Esplugues de Llobregat, hijo de Mounir Nasraoui y de Sheila Ebana. Sus padres se separaron cuando era niño, aunque ambos permanecieron muy presentes en su crianza, que transcurrió entre Mataró y Granollers. El barrio de Rocafonda, donde creció, sigue siendo una referencia ce.
+
+Date: 2026-07-13
 
 ### Discovered by Atlas
 
@@ -28,4 +34,4 @@ Date: 2026-07-08
 
 ## Fuentes
 
-No public source links.
+- [Lamine Yamal cumple 19 a punto de hacer historia: los eventos que han marcado su vida (un apuñalamiento, lujo, varias novias y más)](https://theobjective.com/gente/2026-07-13/lamine-yamal-19-anos-historia-eventos/?utm_source=lootura.com) — 2026-07-13T10:23:31.000Z

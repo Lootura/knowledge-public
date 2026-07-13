@@ -8,11 +8,16 @@
   "markdownUrl": "https://atlas.lootura.com/es/company/apple/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/company/apple/index.json",
   "description": "Sigue la actividad de Apple en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-12T16:56:25.039Z",
+  "updatedAt": "2026-07-13T10:57:59.389Z",
   "aliases": [
     "Apple Inc"
   ],
   "changes": [
+    {
+      "title": "Olvídate de un iPhone 18 sin subida de precio: el plan de Apple ha fallado. Puedes ir ahorrando (más)",
+      "summary": "Al parecer, dentro de las pésimas noticias sobre los precios de la memoria RAM , compañías como Apple tenían un as guardado en la manga para paliar las subidas drásticas en sus productos. Pues bien, hoy no solo hemos conocido cuál era ese plan maravilloso, también sabemos que la de Cupertino no podrá llevarlo a cabo. E.",
+      "date": "2026-07-13"
+    },
     {
       "title": "Ni Quick Share, ni AirDrop: esta app para transferir archivos es gratis, multiplataforma y funciona mucho más rápido",
       "summary": "Desde que se abrió la interoperabilidad entre Quick Share y AirDrop , muchos han celebrado disponer de una mayor versatilidad al momento de transferir archivos entre distintos dispositivos sin importar la marca o el sistema operativo. Sin embargo, las tecnologías de Google y Apple están lejos de ser las mejores al mome.",
@@ -44,6 +49,13 @@
       "date": "2026-07-10"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Olvídate de un iPhone 18 sin subida de precio: el plan de Apple ha fallado. Puedes ir ahorrando (más)",
+      "url": "https://hipertextual.com/apple/olvidate-de-un-iphone-18-sin-subida-de-precio-el-plan-de-apple-ha-fallado-puedes-ir-ahorrando-mas/?utm_source=lootura.com",
+      "publishedAt": "2026-07-13T07:28:08.000Z",
+      "sourceId": "lootura-es-hipertextual"
+    }
+  ],
+  "evidenceCount": 1
 }

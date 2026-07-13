@@ -8,9 +8,24 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/maine/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/maine/index.json",
   "description": "Follow Maine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-12T16:56:46.923Z",
+  "updatedAt": "2026-07-13T10:58:18.710Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "Maine Democrats scramble to select replacement for Platner in Senate race",
+      "summary": "Democrats now have a process for choosing a replacement for Senate candidate Graham Platner. But voters are still reeling from his fall.",
+      "date": "2026-07-13"
+    },
+    {
+      "title": "Maine Secretary of State Shenna Bellows on her bid to replace Platner in Senate race",
+      "summary": "NPR's Michel Martin speaks with Maine Secretary of State Shenna Bellows about her run to replace Graham Platner in the Maine Senate race.",
+      "date": "2026-07-13"
+    },
+    {
+      "title": "Maine Democrats to Chuck Schumer: Stay Out of Our Senate Race",
+      "summary": "Local Democrats are warning the top Senate Democrat to keep away as they replace Graham Platner, and the candidates are giving his leadership in Washington low marks.",
+      "date": "2026-07-13"
+    },
     {
       "title": "Maine Democrats Will Replace Graham Platner. Here’s What to Know.",
       "summary": "Mr. Platner’s withdrawal from a marquee Senate race, under pressure from his party, has set in motion an unusual competition to become the new nominee.",
@@ -45,23 +60,27 @@
       "title": "Graham Platner formally drops out of Maine Senate race",
       "summary": "Graham Platner had until 5 p.m. on Monday to formally suspend his campaign or he would remain on the ballot in November.",
       "date": "2026-07-11"
-    },
-    {
-      "title": "How Will Maine Democrats Replace Graham Platner? Here’s What to Know.",
-      "summary": "Mr. Platner’s withdrawal from a marquee Senate race, under pressure from his party, has set in motion an unusual competition to become the new nominee.",
-      "date": "2026-07-11"
-    },
-    {
-      "title": "Graham Platner makes it official in Maine, submitting paperwork to leave Senate race",
-      "summary": "In his withdrawal notice, Platner said \"people are desperate for change\" and that's why they made him the Democratic nominee. Now, Maine Democrats have to pick someone to replace him by July 27. (Image credit: CJ Gunther).",
-      "date": "2026-07-10"
-    },
-    {
-      "title": "Product availability changed in Europe",
-      "summary": "The last-minute scramble to name a replacement reminds some in the party of the challenges they faced in 2024.",
-      "date": "2026-07-10"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Maine Democrats scramble to select replacement for Platner in Senate race",
+      "url": "https://www.npr.org/2026/07/13/nx-s1-5888430/maine-democrats-scramble-to-select-replacement-for-platner-in-senate-race?utm_source=lootura.com",
+      "publishedAt": "2026-07-13T08:48:28.000Z",
+      "sourceId": "lootura-us-npr-politics"
+    },
+    {
+      "title": "Maine Secretary of State Shenna Bellows on her bid to replace Platner in Senate race",
+      "url": "https://www.npr.org/2026/07/13/nx-s1-5888574/maine-secretary-of-state-shenna-bellows-on-her-bid-to-replace-platner-in-senate-race?utm_source=lootura.com",
+      "publishedAt": "2026-07-13T08:48:19.000Z",
+      "sourceId": "lootura-us-npr-politics"
+    },
+    {
+      "title": "Maine Democrats to Chuck Schumer: Stay Out of Our Senate Race",
+      "url": "https://www.nytimes.com/2026/07/13/us/politics/maine-democrats-schumer-stay-out-senate-race.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-13T09:02:46.000Z",
+      "sourceId": "lootura-us-the-new-york-times-politics"
+    }
+  ],
+  "evidenceCount": 3
 }
