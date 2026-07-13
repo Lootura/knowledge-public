@@ -70,5 +70,4 @@ Date: 2026-07-11
 
 ## Fuentes
 
-- [El primer abogado de Ábalos declara que Leire Díez le ofreció pagar la defensa del exministro a través de una sociedad](https://www.abc.es/espana/primer-abogado-abalos-declara-leire-diez-ofrecio-20260713122529-nt.html?utm_source=lootura.com) — 2026-07-13T10:28:44.000Z
-- [Quién es Juan Manuel Serrano: así es la discreta vida personal del expresidente de Correos junto a su mujer, Isaura Leal (PSOE)](https://theobjective.com/gente/2026-07-13/quien-es-juan-manuel-serrano-asi-es-la-discreta-vida-personal-del-expresidente-de-correos-junto-a-su-mujer-isaura-leal-psoe/?amp=&utm_source=lootura.com) — 2026-07-13T10:47:42.000Z
+No public source links.

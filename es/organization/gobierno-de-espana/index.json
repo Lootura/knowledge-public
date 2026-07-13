@@ -8,20 +8,20 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/gobierno-de-espana/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/gobierno-de-espana/index.json",
   "description": "Sigue la actividad de Gobierno de España en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-13T10:57:59.389Z",
+  "updatedAt": "2026-07-13T14:31:13.122Z",
   "aliases": [
     "Ejecutivo español",
     "Gobierno español"
   ],
   "changes": [
     {
-      "title": "Borja Iglesias responde a Rajoy por sus palabras sobre Francia: \"Me sorprende que a estas alturas sigamos con estas cosas\"",
-      "summary": "Las declaraciones del expresidente del Gobierno español, Mariano Rajoy , en las que afirmó que les Bleus son un gran equipo, pero sin franceses, siguen generando multitud de reacciones. El último en pronunciarse al respecto ha sido el internacional español Borja Iglesias . \"Francia tiene, además, una plantilla de altís.",
+      "title": "Jean-Marie Le Pen debe de estar aplaudiendo a Rajoy desde su tumba",
+      "summary": "Marine Le Pen debió de sonreír este fin de semana, o tal vez frunció el ceño de estupefacción, al leer las palabras de Mariano Rajoy sobre la selección francesa de fútbol. El expresidente del Gobierno español elogió en un artículo “la plantilla de altísimo nivel” de Francia, y añadió: “Eso sí, sin franceses”. Son palab.",
       "date": "2026-07-13"
     },
     {
-      "title": "Jean-Marie Le Pen debe de estar aplaudiendo a Rajoy desde su tumba",
-      "summary": "Marine Le Pen debió de sonreír este fin de semana, o tal vez frunció el ceño de estupefacción, al leer las palabras de Mariano Rajoy sobre la selección francesa de fútbol. El expresidente del Gobierno español elogió en un artículo “la plantilla de altísimo nivel” de Francia, y añadió: “Eso sí, sin franceses”. Son palab.",
+      "title": "Borja Iglesias responde a Rajoy por sus palabras sobre Francia: \"Me sorprende que a estas alturas sigamos con estas cosas\"",
+      "summary": "Las declaraciones del expresidente del Gobierno español, Mariano Rajoy , en las que afirmó que les Bleus son un gran equipo, pero sin franceses, siguen generando multitud de reacciones. El último en pronunciarse al respecto ha sido el internacional español Borja Iglesias . \"Francia tiene, además, una plantilla de altís.",
       "date": "2026-07-13"
     },
     {
@@ -67,17 +67,11 @@
   ],
   "sources": [
     {
-      "title": "Borja Iglesias responde a Rajoy por sus palabras sobre Francia: \"Me sorprende que a estas alturas sigamos con estas cosas\"",
-      "url": "https://www.20minutos.es/deportes/futbol/borja-iglesias-responde-rajoy-por-sus-palabras-sobre-francia-me-sorprende-que-estas-alturas-sigamos-con-estas-cosas_7013805_0.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-13T07:55:55.000Z",
-      "sourceId": "lootura-es-20minutos"
-    },
-    {
       "title": "Jean-Marie Le Pen debe de estar aplaudiendo a Rajoy desde su tumba",
       "url": "https://elpais.com/opinion/2026-07-13/jean-marie-le-pen-debe-de-estar-aplaudiendo-a-rajoy-desde-su-tumba.html?utm_source=lootura.com",
       "publishedAt": "2026-07-13T03:30:01.000Z",
       "sourceId": "lootura-es-el-pais"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

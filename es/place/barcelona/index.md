@@ -3,7 +3,7 @@
 > Sigue la actividad de Barcelona en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-13T10:57:59.389Z
+- Actualizado: 2026-07-13T14:31:13.122Z
 - Canonical: https://atlas.lootura.com/es/place/barcelona
 
 ## Cambios recientes
@@ -11,6 +11,12 @@
 ### El último recurso de Isak y Jonathan Andic ante el “sufrimiento” por su relación “pésima”
 
 En marzo de 2023, el conflicto entre Isak Andic y su hijo mayor, Jonathan Andic , parece haber llegado a un callejón sin salida. Padre e hijo llevan meses en manos de una mujer muy particular, Julia Lüderwaldt , psicoterapeuta de cabecera de familias adineradas de Barcelona —de los Sánchez Vicario a los Urdangarin— que.
+
+Date: 2026-07-13
+
+### Detenido el exalcalde de Sant Feliu (Girona) Pere Albó por presuntamente masturbarse en una piscina
+
+La Policía Local de Santa Susanna (Barcelona) detuvo este domingo por la tarde al exalcalde de Sant Feliu de Guíxols (Girona) Pere Albó por presuntamente masturbarse en la piscina de un hotel del municipio, ha podido confirmar Europa Press. Según ha avanzado Ser Catalunya , el exalcalde socialista y exdiputado de Junts.
 
 Date: 2026-07-13
 
@@ -62,15 +68,7 @@ Marc Cucurella atraviesa uno de sus mejores momentos. Lejos de los estadios, los
 
 Date: 2026-07-12
 
-### Discovered by Atlas
-
-Barcelona first entered the public knowledge record with source-backed evidence.
-
-Date: 2026-07-11
-
 ## Fuentes
 
+- [Detenido el exalcalde de Sant Feliu (Girona) Pere Albó por presuntamente masturbarse en una piscina](https://www.elconfidencial.com/espana/cataluna/2026-07-13/detenido-el-exalcalde-de-sant-feliu-pere-albo-masturbarse-piscina_4389218/?utm_source=lootura.com) — 2026-07-13T13:47:00.000Z
 - [El último recurso de Isak y Jonathan Andic ante el “sufrimiento” por su relación “pésima”](https://elpais.com/espana/catalunya/2026-07-13/el-ultimo-recurso-de-isak-y-jonathan-andic-ante-el-sufrimiento-por-su-relacion-pesima.html?utm_source=lootura.com) — 2026-07-13T03:15:00.000Z
-- [ACS negocia comprar el 51% de la catalana Openchip](https://www.expansion.com/empresas/inmobiliario/2026/07/13/6a54baaee5fdea0e0b8b457e.html?utm_source=lootura.com) — 2026-07-13T10:15:14.000Z
-- [Vox llevará a la justicia las ZBE de 7 municipios de la provincia de Barcelona](https://www.larazon.es/cataluna/vox-llevara-justicia-zbe-7-municipios-provincia-barcelona_202607136a54c3fdc0b5fb431c52bf83.html?utm_source=lootura.com) — 2026-07-13T10:54:55.000Z
-- [Los Premios Princesa de Girona 2026 impulsan el "talento compartido" de los jóvenes y los seis premiados](https://www.larazon.es/cataluna/premios-princesa-girona-2026-impulsan-talento-compartido-jovenes-seis-premiados_202607136a54bcec772f745d2c45a237.html?utm_source=lootura.com) — 2026-07-13T10:50:19.000Z

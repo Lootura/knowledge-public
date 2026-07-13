@@ -70,5 +70,4 @@ Date: 2026-07-09
 
 ## Sources
 
-- [Lindsey Graham remembered for a vision of American foreign policy that's fading in Washington](https://www.pbs.org/newshour/politics/lindsey-graham-remembered-for-a-vision-of-american-foreign-policy-thats-fading-in-washington?utm_source=lootura.com) — 2026-07-12T22:40:48.000Z
-- [Social media limits are coming for teens across Europe](https://www.theverge.com/tech/964565/eu-children-social-media-online-safety-rules?utm_source=lootura.com) — 2026-07-13T09:22:52.000Z
+No public source links.

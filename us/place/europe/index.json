@@ -65,19 +65,6 @@
       "date": "2026-07-09"
     }
   ],
-  "sources": [
-    {
-      "title": "Lindsey Graham remembered for a vision of American foreign policy that's fading in Washington",
-      "url": "https://www.pbs.org/newshour/politics/lindsey-graham-remembered-for-a-vision-of-american-foreign-policy-thats-fading-in-washington?utm_source=lootura.com",
-      "publishedAt": "2026-07-12T22:40:48.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
-    },
-    {
-      "title": "Social media limits are coming for teens across Europe",
-      "url": "https://www.theverge.com/tech/964565/eu-children-social-media-online-safety-rules?utm_source=lootura.com",
-      "publishedAt": "2026-07-13T09:22:52.000Z",
-      "sourceId": "lootura-us-the-verge"
-    }
-  ],
-  "evidenceCount": 2
+  "sources": [],
+  "evidenceCount": 0
 }

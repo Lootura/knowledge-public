@@ -3,7 +3,7 @@
 > Sigue la actividad de Artificial intelligence en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: topic
-- Actualizado: 2026-07-13T10:57:59.389Z
+- Actualizado: 2026-07-13T14:31:13.122Z
 - Canonical: https://atlas.lootura.com/es/topic/artificial-intelligence
 
 ## Cambios recientes
@@ -28,4 +28,4 @@ Date: 2026-07-10
 
 ## Fuentes
 
-- [Cambio de planes en Samsung: retrasa su móvil más esperado del año y a cambio va a presentar un modelo completamente nuevo y nunca visto](https://hipertextual.com/mobile/cambio-de-planes-en-samsung-retrasa-su-movil-mas-esperado-del-ano-y-a-cambio-va-a-presentar-un-modelo-completamente-nuevo-y-nunca-visto/?utm_source=lootura.com) — 2026-07-13T07:28:13.000Z
+- [Por qué la Bolsa coreana está disparatada: turbofondos y alta concentración](https://cincodias.elpais.com/mercados-financieros/2026-07-13/por-que-la-bolsa-coreana-esta-disparatada-turbofondos-y-alta-concentracion.html?utm_source=lootura.com) — 2026-07-13T11:48:46.000Z

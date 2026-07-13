@@ -3,10 +3,16 @@
 > Sigue la actividad de Bélgica en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-13T10:57:59.389Z
+- Actualizado: 2026-07-13T14:31:13.122Z
 - Canonical: https://atlas.lootura.com/es/place/belgium
 
 ## Cambios recientes
+
+### Identifican a seis fallecidos en Los Gallardos: un español y cinco extranjeros
+
+El juzgado de Vera (Almería) encargado del incendio originado en Los Gallardos, que se ha cobrado la vida de 13 personas, cuenta ya con la identificación de seis víctimas , que corresponden a un ciudadano español y a cinco extranjeros, un hombre y una mujer de Reino Unido, uno de Francia, uno de Bélgica y una mujer de.
+
+Date: 2026-07-13
 
 ### Bélgica apunta a tres posibles víctimas belgas entre los fallecidos en el incendio de Los Gallardos
 
@@ -62,12 +68,6 @@ Gavi volvió a poner el foco en el mayor patrimonio de la selección española: 
 
 Date: 2026-07-09
 
-### Borja Iglesias: "Lloré al leer el mensaje de Claudio Giráldez tras debutar con España"
-
-Borja Iglesias atendió a los medios de comunicación en la previa del encuentro que enfrentará a España y Bélgica.
-
-Date: 2026-07-09
-
 ## Fuentes
 
-- [Por qué De la Fuente confía en Marco Aurelio para pelear el Mundial](https://elpais.com/deportes/mundial-futbol/2026-07-13/por-que-de-la-fuente-confia-en-marco-aurelio-para-pelear-el-mundial.html?utm_source=lootura.com) — 2026-07-13T03:30:01.000Z
+- [Identifican a seis fallecidos en Los Gallardos: un español y cinco extranjeros](https://www.20minutos.es/andalucia/almeria/identifican-seis-fallecidos-los-gallardos-un-espanol-cinco-extranjeros_7013995_0.html?utm_source=lootura.com) — 2026-07-13T12:30:28.000Z

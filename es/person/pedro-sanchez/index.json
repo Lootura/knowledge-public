@@ -8,11 +8,31 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/pedro-sanchez/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/pedro-sanchez/index.json",
   "description": "Sigue la actividad de Pedro Sánchez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-13T10:57:59.389Z",
+  "updatedAt": "2026-07-13T14:31:13.122Z",
   "aliases": [
     "Sánchez"
   ],
   "changes": [
+    {
+      "title": "Sánchez llama a actuar con \"unidad\" y \"celeridad\" ante los incendios e insiste en impulsar un pacto de Estado climático",
+      "summary": "El presidente del Gobierno, Pedro Sánchez , ha visitado este lunes el Puesto de Mando Avanzado desplegado por el incendio de Los Gallardos, en Almería, desde donde ha reclamado acelerar el Pacto de Estado frente a la emergencia climática que anunció en 2025 y que todavía se negocia con los grupos parlamentarios en el C.",
+      "date": "2026-07-13"
+    },
+    {
+      "title": "Junts confirma que no apoyará la senda de déficit para los Presupuestos en el Congreso",
+      "summary": "El portavoz nacional de Junts per Catalunya, Josep Rius, ha anunciado oficialmente este lunes que su formación no apoyará en el Congreso la senda de déficit que presentará el Gobierno este martes, lo que condiciona los Presupuestos Generales del Estado prometidos por el Ejecutivo de Pedro Sánchez. El partido liderado p.",
+      "date": "2026-07-13"
+    },
+    {
+      "title": "Vox pide a Feijóo centrarse en Sánchez, \"no meterse en jardines\" como el de las bajas laborales y \"estar más preparado\" si les copia en inmigración",
+      "summary": "Casi una semana después de que el presidente del PP, Alberto Núñez Feijóo , se pronunciase sobre las bajas laborales, lo vinculase con absentismo laboral y hablase del asunto como un \"cáncer\" para la economía, encontró respuesta por parte de Vox a través de su portavoz nacional, José Antonio Fúster . También por el lig.",
+      "date": "2026-07-13"
+    },
+    {
+      "title": "Pedro Sánchez apela a la firma de un pacto nacional frente a la emergencia climática delante de Juanma Moreno, investido gracias a Vox",
+      "summary": "El presidente del Gobierno resalta la unidad de todas las administraciones del Estado en la lucha contra el incendio de Los Gallardos Leer.",
+      "date": "2026-07-13"
+    },
     {
       "title": "Sánchez comparece sin aceptar preguntas y arremete contra la «desinformación» tras el incendio de Los Gallardos",
       "summary": "El presidente del Gobierno, Pedro Sánchez, ha hablado este lunes desde el Puesto de Mando Avanzado de Turre (Almería) en una comparecencia sin preguntas en la que ha arremetido contra la «desinformación» tras el incendio forestal que ha afectado a la zona almeriense de Los Gallardos. Ese fuego ha dejado 13 fallecidos y.",
@@ -42,47 +62,33 @@
       "title": "El PP se compromete en Ermua a aclarar los 376 crímenes impunes de ETA frente a la \"indignidad\" del sanchismo con EH Bildu",
       "summary": "\"El precio que ha pagado Sánchez es el de presos por votos\", denuncia la vicesecrataria general del PP Cuca Gamarra en el 29 homenaje a Blanco. Leer.",
       "date": "2026-07-12"
-    },
-    {
-      "title": "Sánchez, a Rajoy tras su opinión sobre Francia: «Que gane el mejor y que pierda el racismo»",
-      "summary": "El presidente del Gobierno, Pedro Sánchez, ha respondido este domingo al expresidente Mariano Rajoy, después de que este afirmara en una columna de.",
-      "date": "2026-07-12"
-    },
-    {
-      "title": "Pedro Sánchez visitará este lunes las zonas afectadas por el incendio forestal de Los Gallardos",
-      "summary": "El presidente del Gobierno, Pedro Sánchez , viajará este lunes 13 de julio a las áreas arrasadas por el incendio forestal de Los Gallardos (Almería), declarado el pasado jueves 9 y estabilizado este domingo, tras causar la muerte de doce personas en sus primeras horas de avance. La Moncloa ha confirmado que en la visit.",
-      "date": "2026-07-12"
-    },
-    {
-      "title": "Marimar Blanco carga contra Sánchez en el aniversario del asesinato de su hermano Miguel Ángel: «Han elegido ponerse al lado de los verdugos»",
-      "summary": "El Partido Popular ha anunciado este domingo, durante el homenaje a Miguel Ángel Blanco en Ermua, su compromiso de reformar la ley penitenciaria para impedir beneficios a condenados por terrorismo que no colaboren con la justicia ni muestren arrepentimiento. En el acto, celebrado 29 años después del asesinato del conce.",
-      "date": "2026-07-12"
-    },
-    {
-      "title": "Inquietud en el PP tras los últimos tropiezos de Feijóo: “La sensación es que vamos improvisando”",
-      "summary": "Un estado de ánimo ciclotímico envuelve al PP en el final del curso político. Tras la euforia con la que los populares terminaron el periodo de sesiones, sacando adelante una votación no vinculante sobre la dimisión de Pedro Sánchez con los votos de Vox y de Junts, el clima interno ha cambiado completamente después de.",
-      "date": "2026-07-12"
     }
   ],
   "sources": [
     {
-      "title": "Sánchez comparece sin aceptar preguntas y arremete contra la «desinformación» tras el incendio de Los Gallardos",
-      "url": "https://okdiario.com/espana/sanchez-comparece-sin-aceptar-preguntas-arremete-contra-desinformacion-incendio-gallardos-18984768/amp?utm_source=lootura.com",
-      "publishedAt": "2026-07-13T10:49:09.000Z",
-      "sourceId": "lootura-es-ok-diario"
+      "title": "Sánchez llama a actuar con \"unidad\" y \"celeridad\" ante los incendios e insiste en impulsar un pacto de Estado climático",
+      "url": "https://www.20minutos.es/nacional/sanchez-llama-actuar-con-unidad-celeridad-ante-los-incendios-insiste-impulsar-un-pacto-estado-climatico_7013945_0.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-13T11:50:11.000Z",
+      "sourceId": "lootura-es-20minutos"
     },
     {
-      "title": "Ayuso defiende la Fórmula 1 en Madrid: «Es una gran inversión que no cuesta al contribuyente madrileño»",
-      "url": "https://okdiario.com/deportes/ayuso-carga-contra-gobierno-intentar-que-f1-madrid-no-celebre-cataluna-dan-40-millones-18984483?utm_source=lootura.com",
-      "publishedAt": "2026-07-13T10:27:58.000Z",
-      "sourceId": "lootura-es-ok-diario"
+      "title": "Junts confirma que no apoyará la senda de déficit para los Presupuestos en el Congreso",
+      "url": "https://elpais.com/espana/catalunya/2026-07-13/junts-confirma-que-no-apoyara-la-senda-de-deficit-para-los-presupuestos-en-el-congreso.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-13T12:20:00.000Z",
+      "sourceId": "lootura-es-cinco-dias"
     },
     {
-      "title": "Sánchez y Moreno se unen en Almería para respaldar el dispositivo contra los incendios",
-      "url": "https://theobjective.com/espana/politica/2026-07-13/sanchez-moreno-unen-almeria-respaldar-dispositivo-incendios/?utm_source=lootura.com",
-      "publishedAt": "2026-07-13T10:44:18.000Z",
-      "sourceId": "lootura-es-the-objective"
+      "title": "Vox pide a Feijóo centrarse en Sánchez, \"no meterse en jardines\" como el de las bajas laborales y \"estar más preparado\" si les copia en inmigración",
+      "url": "https://www.elindependiente.com/espana/2026/07/13/vox-feijoo-no-jardines-sanchez-absentismo-preparado-copiar-inmigracion/?utm_source=lootura.com",
+      "publishedAt": "2026-07-13T12:26:45.000Z",
+      "sourceId": "lootura-es-el-independiente"
+    },
+    {
+      "title": "Pedro Sánchez apela a la firma de un pacto nacional frente a la emergencia climática delante de Juanma Moreno, investido gracias a Vox",
+      "url": "https://www.elmundo.es/espana/2026/07/13/6a54c9b9e85ece585a8b4587.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-13T12:36:17.000Z",
+      "sourceId": "lootura-es-el-mundo"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 4
 }

@@ -3,7 +3,7 @@
 > Follow New York, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-13T10:58:18.710Z
+- Updated: 2026-07-13T14:31:32.442Z
 - Canonical: https://atlas.lootura.com/us/place/new-york
 
 ## Recent changes
@@ -71,4 +71,4 @@ Date: 2026-07-09
 ## Sources
 
 - [Want to own a real T. rex? It could cost you $30 million](https://www.npr.org/2026/07/12/nx-s1-5890988/t-rex-gus-dinosaur-auction-sothebys-millions?utm_source=lootura.com) — 2026-07-13T00:14:03.000Z
-- [Civics Groups Are at Odds With Mamdani Over Push for Open Primaries](https://www.nytimes.com/2026/07/13/nyregion/open-primaries-ny-bloomberg-mamdani.html?utm_source=lootura.com) — 2026-07-13T07:00:08.000Z
+- [Civics Groups Are at Odds With Mamdani Over Push for Open Primaries](https://www.nytimes.com/2026/07/13/nyregion/open-primaries-ny-bloomberg-mamdani.html?utm_source=lootura.com) — 2026-07-13T13:21:23.000Z

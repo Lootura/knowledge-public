@@ -8,9 +8,19 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/iran/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/iran/index.json",
   "description": "Sigue la actividad de Iran en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-13T10:57:59.389Z",
+  "updatedAt": "2026-07-13T14:31:13.122Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "El Ibex amortigua el revés del petróleo",
+      "summary": "La escalada en el conflicto entre Irán y EEUU vuelve a elevar el precio del petróleo. Con el Brent al filo de nuevo de los 80 dólares, los inversores dan un paso atrás en Bolsa. El Ibex no es una excepción, y repite las caídas predominantes la semana pasada.",
+      "date": "2026-07-13"
+    },
+    {
+      "title": "Trump, sobre el estrecho de Ormuz: «Lo vamos a mantener seguro y lo vamos a administrar»",
+      "summary": "El presidente de Estados Unidos , Donald Trump , dijo este lunes que su país se convertirá en el «guardián» del estrecho de Ormuz y aseguró que Washington debería ser compensado por proteger la estratégica vía de comercio, interrumpida por Irán en medio de la actual escalada en el conflicto. «Vamos a golpearlos muy dur.",
+      "date": "2026-07-13"
+    },
     {
       "title": "La Primera de Expansión sobre el apagón, Brookfield, Inditex, Irán, Mitsubishi y la IA china",
       "summary": "La Primera de Expansión les cuenta hoy que el Gobierno rechaza que el Consorcio de Compensación de Seguros asuma el pago de las indemnizaciones por el apagón.",
@@ -19,11 +29,6 @@
     {
       "title": "El petróleo modera las subidas y las Bolsas se giran al alza pese a las tensiones en Irán",
       "summary": "La renovada tensión en Oriente Próximo, con nuevos ataques entre EE UU e Irán, tiñe de rojo las Bolsas e impulsa bruscamente los precios del petróleo. El brent sube un 3% hasta superar los 78 dólares el barril, aunque ha llegado a superar los 79 dólares, reavivando los temores a que el encarecimiento de los costes ener.",
-      "date": "2026-07-13"
-    },
-    {
-      "title": "El Ibex amortigua el revés del petróleo",
-      "summary": "La escalada en el conflicto entre Irán y EEUU vuelve a elevar el precio del petróleo. Con el Brent al filo de nuevo de los 80 dólares, los inversores dan un paso atrás en Bolsa. El Ibex no es una excepción, y repite las caídas predominantes la semana pasada.",
       "date": "2026-07-13"
     },
     {
@@ -55,32 +60,21 @@
       "title": "Muere el senador republicano Lindsey Graham, estrecho aliado de Trump, de forma repentina a los 71 años",
       "summary": "Su inesperada muerte trunca una carrera política caracterizada por su crítica y posterior respaldo al presidente, Donald Trump, y, recientemente, por su postura inflexible contra España sobre Irán. Leer.",
       "date": "2026-07-12"
-    },
-    {
-      "title": "EEUU ataca objetivos iraníes tras el cierre de Ormuz «hasta nuevo aviso»",
-      "summary": "El Mando Central del Ejército de Estados Unidos (CENTCOM) ha anunciado este domingo ataques contra Irán tras la ofensiva de la Guardia Revolucionaria contra un buque comercial que habría ignorado sus instrucciones, lo que ha provocado el cierre del estrecho de Ormuz «hasta nuevo aviso». De esta manera, Washington ha in.",
-      "date": "2026-07-12"
     }
   ],
   "sources": [
     {
-      "title": "El petróleo modera las subidas y las Bolsas se giran al alza pese a las tensiones en Irán",
-      "url": "https://cincodias.elpais.com/mercados-financieros/2026-07-13/la-bolsa-y-el-ibex-35.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-13T09:11:11.000Z",
-      "sourceId": "lootura-es-cinco-dias"
-    },
-    {
-      "title": "La Primera de Expansión sobre el apagón, Brookfield, Inditex, Irán, Mitsubishi y la IA china",
-      "url": "https://www.expansion.com/podcasts/la-primera-de-expansion/2026/07/13/6a547333e5fdea310f8b458b.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-13T05:39:53.000Z",
-      "sourceId": "lootura-es-expansion"
-    },
-    {
       "title": "El Ibex amortigua el revés del petróleo",
       "url": "https://www.expansion.com/mercados/cronica-bolsa/2026/07/13/6a547ba5468aeb78108b457b.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-13T10:40:05.000Z",
+      "publishedAt": "2026-07-13T12:34:44.000Z",
       "sourceId": "lootura-es-expansion"
+    },
+    {
+      "title": "Trump, sobre el estrecho de Ormuz: «Lo vamos a mantener seguro y lo vamos a administrar»",
+      "url": "https://theobjective.com/internacional/2026-07-13/trump-estrecho-ormuz-seguro-administrar/?utm_source=lootura.com",
+      "publishedAt": "2026-07-13T13:18:45.000Z",
+      "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 2
 }

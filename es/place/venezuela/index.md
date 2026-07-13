@@ -46,4 +46,4 @@ Date: 2026-07-11
 
 ## Fuentes
 
-- [La selección: terremoto en Venezuela](https://theconversation.com/la-seleccion-terremoto-en-venezuela-287150?utm_source=lootura.com) — 2026-07-13T09:50:52.000Z
+No public source links.

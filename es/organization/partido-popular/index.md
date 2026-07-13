@@ -3,7 +3,7 @@
 > Sigue la actividad de Partido Popular en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-13T10:57:59.389Z
+- Actualizado: 2026-07-13T14:31:13.122Z
 - Canonical: https://atlas.lootura.com/es/organization/partido-popular
 
 ## Cambios recientes
@@ -26,6 +26,36 @@ El ministro de Política Territorial y Memoria Democrática, Ángel Víctor Torr
 
 Date: 2026-07-13
 
+### El PP de Madrid mantiene su respaldo al alcalde de Móstoles tras su imputación por presunto acoso sexual
+
+“Absolutamente” y “por supuesto”. Esas dos expresiones son las que han utilizado los altos cargos del PP de Madrid para reiterar su respaldo al alcalde de Móstoles, el popular Manuel Bautista, después de que este lunes trascendiera su imputación por un presunto delito de acoso sexual y laboral a una exconcejala de ese.
+
+Date: 2026-07-13
+
+### Fiscalía y Abogacía del Estado rechazan expulsar a la acusación popular, como pide Zapatero
+
+Tanto la Fiscalía como la Abogacía General del Estado rechazan la petición del expresidente del Gobierno, José Luis Rodríguez Zapatero, de que se expulse de la causa de la Audiencia Nacional en la que está investigado por delitos de corrupción a la acusación popular aglutinados en la representación del Partido Popular.
+
+Date: 2026-07-13
+
+### Vox pide a Feijóo centrarse en Sánchez, "no meterse en jardines" como el de las bajas laborales y "estar más preparado" si les copia en inmigración
+
+Casi una semana después de que el presidente del PP, Alberto Núñez Feijóo , se pronunciase sobre las bajas laborales, lo vinculase con absentismo laboral y hablase del asunto como un "cáncer" para la economía, encontró respuesta por parte de Vox a través de su portavoz nacional, José Antonio Fúster . También por el lig.
+
+Date: 2026-07-13
+
+### El PP defiende a Rajoy tras la queja por "racismo" de Francia: "Son columnas sarcásticas"
+
+El portavoz nacional de los populares, Borja Sémper asegura que las palabras del ex presidente acerca de que la selección gala juega "sin franceses" iban "sin mala intención" Leer.
+
+Date: 2026-07-13
+
+### La dirección del PP defiende el comentario de Rajoy sobre la selección de Francia como “un sarcasmo” y “sin mala intención”
+
+La dirección del Partido Popular resta importancia al comentario del expresidente popular Mariano Rajoy sobre la selección nacional de fútbol de Francia, que ha provocado indignación en el país vecino. Rajoy escribió un artículo en El Debate sobre la selección gala en el que afirmaba que “juegan a un gran nivel” pero “.
+
+Date: 2026-07-13
+
 ### Voces del PP piden afinar la estrategia: «Nos hemos metido en todos los charcos posibles»
 
 En un espacio de una semana y media y coincidiendo con una menor presión judicial sobre el Gobierno, el PP ha ido encadenando polémicas que han salido del propio partido. Sucedió primero con la llamada 'ley de nietos', una disposición adicional de la Ley de Memoria Democrática sobre la que el PP ha puesto el foco -cuat.
@@ -38,45 +68,13 @@ El alcalde de Móstoles, Manuel Bautista (PP) , ha sido citado para declarar com
 
 Date: 2026-07-13
 
-### El 'last dance' del eterno De la Torre como alcalde de Málaga: a los 84 años se presentará otra vez
-
-Es la tercera vez seguida que el alcalde, Francisco de la Torre , elige los jardines junto a la Casona del Parque, su oficina desde hace 26 años, para este anuncio. Uno que casi todo el mundo se esperaba , una vez más. El regidor ha confirmado este lunes, a escasos cinco días de que el PP en Galicia dé los nombres de l.
-
-Date: 2026-07-13
-
-### El PP de Madrid mantiene su respaldo al alcalde de Móstoles tras su imputación por presunto acoso sexual
-
-“Absolutamente” y “por supuesto”. Esas dos expresiones son las que han utilizado los altos cargos del PP de Madrid para reiterar su respaldo al alcalde de Móstoles, el popular Manuel Bautista, después de que este lunes trascendiera su imputación por un presunto delito de acoso sexual y laboral a una exconcejala de ese.
-
-Date: 2026-07-13
-
-### Juan Fernández (PP) pide mejor financiación para Cataluña, sin "concierto fiscal ni singularidad"
-
-Ve en la ley para prohibir la compra especulativa de vivienda "una gran causa de inconstitucionalidad".
-
-Date: 2026-07-13
-
-### Albares pide al PP que deje de “boicotear” la política exterior española y la relación con Francia
-
-El ministro de Asuntos Exteriores, José Manuel Albares, no se ha mordido la lengua esta mañana al atacar la línea de política exterior del Partido Popular (PP) y asegurar que están “absolutamente incapacitados para gobernar”. Comentando la crisis desatada por la opinión xenófoba sobre la selección francesa del expresid.
-
-Date: 2026-07-13
-
-### Vox avisa al PP valenciano de que sin prioridad nacional no habrá presupuestos
-
-Vox ha avisado nuevamente al PP de que, si no acepta sus enmiendas sobre prioridad nacional, no aprobará la ley de presupuestos de la Generalitat para 2026, al tiempo que ha defendido que este principio es «sentido común puro y duro» y ha garantizado que excluye «a nadie». Mientras, los populares se muestran abiertos a.
-
-Date: 2026-07-13
-
 ## Fuentes
 
-- [Voces del PP piden afinar la estrategia: «Nos hemos metido en todos los charcos posibles»](https://www.abc.es/espana/voces-pp-piden-afinar-estrategia-metido-charcos-20260712013248-nt.html?utm_source=lootura.com) — 2026-07-13T10:12:37.000Z
-- [El alcalde de Móstoles, citado a declarar como investigado por acosar a una exconcejal](https://www.elconfidencial.com/espana/2026-07-13/alcalde-mostoles-citado-declara-invetigacion-acoso_4388880/?utm_source=lootura.com) — 2026-07-13T06:50:00.000Z
-- [El 'last dance' del eterno De la Torre como alcalde de Málaga: a los 84 años se presentará otra vez](https://www.elconfidencial.com/espana/andalucia/2026-07-13/el-last-dance-del-eterno-de-la-torre-como-alcalde-de-malaga-a-los-84-anos-se-presentara-otra-vez_4389016/?utm_source=lootura.com) — 2026-07-13T10:09:00.000Z
+- [Fiscalía y Abogacía del Estado rechazan expulsar a la acusación popular, como pide Zapatero](https://www.abc.es/espana/fiscalia-abogacia-estado-rechazan-expulsar-acusacion-popular-20260713142806-nt.html?utm_source=lootura.com) — 2026-07-13T13:02:47.000Z
+- [Vox pide a Feijóo centrarse en Sánchez, "no meterse en jardines" como el de las bajas laborales y "estar más preparado" si les copia en inmigración](https://www.elindependiente.com/espana/2026/07/13/vox-feijoo-no-jardines-sanchez-absentismo-preparado-copiar-inmigracion/?utm_source=lootura.com) — 2026-07-13T12:26:45.000Z
+- [El PP defiende a Rajoy tras la queja por "racismo" de Francia: "Son columnas sarcásticas"](https://www.elmundo.es/deportes/futbol/mundial-de-futbol/2026/07/13/6a54dfe821efa065338b4581.html?utm_source=lootura.com) — 2026-07-13T13:07:38.000Z
 - [La ‘ley de nietos’ que cuestiona el PP pasó 32 trámites parlamentarios en cinco años](https://elpais.com/espana/2026-07-13/la-ley-de-nietos-que-cuestiona-el-pp-paso-32-tramites-parlamentarios-en-cinco-anos.html?utm_source=lootura.com) — 2026-07-13T03:30:01.000Z
 - [El PP de Madrid mantiene su respaldo al alcalde de Móstoles tras su imputación por presunto acoso sexual](https://elpais.com/espana/2026-07-13/el-pp-de-madrid-mantiene-su-respaldo-al-alcalde-de-mostoles-tras-su-imputacion-por-presunto-acoso-sexual.html?utm_source=lootura.com) — 2026-07-13T09:36:40.000Z
 - [Imputado el alcalde del PP de Móstoles por acoso sexual y laboral a una exedil de su partido](https://elpais.com/espana/2026-07-13/imputado-el-alcalde-del-pp-de-mostoles-por-el-acoso-sexual-y-laboral-a-una-exedil-de-su-partido.html?utm_source=lootura.com) — 2026-07-13T03:30:01.000Z
+- [La dirección del PP defiende el comentario de Rajoy sobre la selección de Francia como “un sarcasmo” y “sin mala intención”](https://elpais.com/espana/2026-07-13/la-direccion-del-pp-defiende-el-comentario-de-rajoy-sobre-la-seleccion-de-francia-como-un-sarcasmo-y-sin-mala-intencion.html?utm_source=lootura.com) — 2026-07-13T12:49:08.000Z
 - [Ángel Víctor Torres: “En 2027 puede haber 500.000 nuevos nacionalizados con derecho a voto”](https://elpais.com/espana/2026-07-13/angel-victor-torres-en-2027-puede-haber-500000-nuevos-nacionalizados-con-derecho-a-voto.html?utm_source=lootura.com) — 2026-07-13T03:30:01.000Z
-- [Juan Fernández (PP) pide mejor financiación para Cataluña, sin "concierto fiscal ni singularidad"](https://www.larazon.es/cataluna/juan-fernandez-pide-mejor-financiacion-cataluna-concierto-fiscal-singularidad_202607136a54c4a4c0b5fb431c52c14f.html?outputType=amp&utm_source=lootura.com) — 2026-07-13T10:57:40.000Z
-- [Albares pide al PP que deje de “boicotear” la política exterior española y la relación con Francia](https://www.lavanguardia.com/politica/20260713/11590814/albares-pide-pp-deje-boicotear-politica-exterior-espanola-relacion-francia.html?utm_source=lootura.com) — 2026-07-13T08:06:00.000Z
-- [Vox avisa al PP valenciano de que sin prioridad nacional no habrá presupuestos](https://theobjective.com/espana/politica/2026-07-13/vox-pp-valenciano-prioridad-nacional/?utm_source=lootura.com) — 2026-07-13T10:09:43.000Z

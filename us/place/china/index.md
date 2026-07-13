@@ -3,10 +3,16 @@
 > Follow China, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-13T10:58:18.710Z
+- Updated: 2026-07-13T14:31:32.442Z
 - Canonical: https://atlas.lootura.com/us/place/china
 
 ## Recent changes
+
+### Japan Builds Intelligence Agency It Hasn’t Had Since World War II
+
+Facing threats from Russia and China, Prime Minister Sanae Takaichi is turning to help from Western allies in forming a centralized agency.
+
+Date: 2026-07-13
 
 ### Graduating without a thesis: meet the people getting ‘practical’ PhDs in China
 
@@ -62,14 +68,6 @@ For out-of-work factory workers in Kunshan, a region made rich by electronics ma
 
 Date: 2026-07-11
 
-### Volkswagen Is Cutting Production as Sales in China Plunge
-
-The German automaker has struggled to compete with fast-growing Chinese companies that offer more affordable and sophisticated electric vehicles.
-
-Date: 2026-07-10
-
 ## Sources
 
-- [Graduating without a thesis: meet the people getting ‘practical’ PhDs in China](https://www.nature.com/articles/d41586-026-01242-z?utm_source=lootura.com) — 2026-07-13T06:51:23.414Z
-- [China's 'Green Great Wall' tames desert growth, but scientists warn the fight is not over](https://phys.org/news/2026-07-china-green-great-wall-growth.html?utm_source=lootura.com) — 2026-07-13T08:01:53.000Z
-- [Japan Is Building a New Intelligence Agency With Help From the West](https://www.nytimes.com/2026/07/13/world/asia/japan-intelligence-agency.html?utm_source=lootura.com) — 2026-07-13T04:37:31.000Z
+- [Japan Builds Intelligence Agency It Hasn’t Had Since World War II](https://www.nytimes.com/2026/07/13/world/asia/japan-intelligence-agency.html?utm_source=lootura.com) — 2026-07-13T12:57:30.000Z

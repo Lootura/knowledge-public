@@ -52,4 +52,4 @@ Date: 2026-07-10
 
 ## Fuentes
 
-- [Olvídate de un iPhone 18 sin subida de precio: el plan de Apple ha fallado. Puedes ir ahorrando (más)](https://hipertextual.com/apple/olvidate-de-un-iphone-18-sin-subida-de-precio-el-plan-de-apple-ha-fallado-puedes-ir-ahorrando-mas/?utm_source=lootura.com) — 2026-07-13T07:28:08.000Z
+No public source links.

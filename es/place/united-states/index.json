@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/united-states/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/united-states/index.json",
   "description": "Sigue la actividad de Estados Unidos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-13T10:57:59.389Z",
+  "updatedAt": "2026-07-13T14:31:13.122Z",
   "aliases": [
     "America",
     "Estados Unidos",
@@ -16,13 +16,23 @@
   ],
   "changes": [
     {
-      "title": "Detenido en Ibiza el activista millonario marxista 'Fergie' Chambers, buscado por EE.UU.",
-      "summary": "El multimillonario estadounidense James Cox 'Fergie' Chambers Jr. , heredero de la fortuna de Cox Enterprises y uno de los principales financiadores de grupos militantes propalestinos en Estados Unidos, permanece ingresado en el centro penitenciario de Ibiza desde el pasado sábado después de ser detenido en cumplimient.",
+      "title": "Dentro de la Casa Blanca: así ejerce Trump un poder desenfrenado para dejar su huella en la historia",
+      "summary": "Si hay un punto de inflexión en el legado de Donald Trump como presidente de Estados Unidos, hay que buscarlo en el 20 de enero de 2025, el primer día de su regreso al Despacho Oval tras su abrupta salida en 2021, cuando fue derrotado por Joe Biden y convertido en un paria político por agitar a una muchedumbre enfervor.",
       "date": "2026-07-13"
     },
     {
-      "title": "Dentro de la Casa Blanca: así ejerce Trump un poder desenfrenado para dejar su huella en la historia",
-      "summary": "Si hay un punto de inflexión en el legado de Donald Trump como presidente de Estados Unidos, hay que buscarlo en el 20 de enero de 2025, el primer día de su regreso al Despacho Oval tras su abrupta salida en 2021, cuando fue derrotado por Joe Biden y convertido en un paria político por agitar a una muchedumbre enfervor.",
+      "title": "La economía circular de los Trump: los hijos invierten en Defensa y el padre inyecta dinero en ella",
+      "summary": "Los hijos del presidente de Estados Unidos, Donald Trump Jr. y Eric Trump, han acumulado una cartera de empresas emergentes de tecnología de defensa que se está beneficiando de las nuevas prioridades y gastos del Pentágono, según revela hoy The Washington Post. esta colisión de intereses puede poner en aprietos legales.",
+      "date": "2026-07-13"
+    },
+    {
+      "title": "Trump, sobre el estrecho de Ormuz: «Lo vamos a mantener seguro y lo vamos a administrar»",
+      "summary": "El presidente de Estados Unidos , Donald Trump , dijo este lunes que su país se convertirá en el «guardián» del estrecho de Ormuz y aseguró que Washington debería ser compensado por proteger la estratégica vía de comercio, interrumpida por Irán en medio de la actual escalada en el conflicto. «Vamos a golpearlos muy dur.",
+      "date": "2026-07-13"
+    },
+    {
+      "title": "Detenido en Ibiza el activista millonario marxista 'Fergie' Chambers, buscado por EE.UU.",
+      "summary": "El multimillonario estadounidense James Cox 'Fergie' Chambers Jr. , heredero de la fortuna de Cox Enterprises y uno de los principales financiadores de grupos militantes propalestinos en Estados Unidos, permanece ingresado en el centro penitenciario de Ibiza desde el pasado sábado después de ser detenido en cumplimient.",
       "date": "2026-07-13"
     },
     {
@@ -54,31 +64,27 @@
       "title": "¿Cómo queda el tablero de la defensa europea tras el reajuste táctico de la OTAN en Ankara?",
       "summary": "Para los aliados de Estados Unidos, las cumbres de la OTAN de ahora consisten en un ejercicio para contener daños y evitar reproches de Donald Trump. La “relación especial” entre la superpotencia estadounidense y la Unión Europea (UE) está tocada , pues ya no se puede dar por descontado el apoyo de Washington. La cumbr.",
       "date": "2026-07-12"
-    },
-    {
-      "title": "“Trump se ha obsesionado con la idea de que Estados Unidos reclame nuevos territorios”: Daniel Immerwahr",
-      "summary": "El autor de ‘Cómo ocultar un imperio’ sostiene en su libro que el presidente estadounidense es ante todo un obseso de la fuerza bruta, un matón. Pero uno que también profundiza las lógicas de dominación que históricamente han marcado la estrategia internacional de la Casa Blanca.",
-      "date": "2026-07-12"
-    },
-    {
-      "title": "Contreras hace el agosto y Estados Unidos le hace la cobra a Indra",
-      "summary": "A José Luis Rodríguez Zapatero se le han quedado flácidas las cejas de tanto 'joyerío' y tanta caradura 'offshore'. Llega el 'contrerismo', que bien pudiera ser como decir el final del 'zapaterismo' y el comienzo de... ¿lo mismo? José Miguel Contreras, socio fundador de Globomedia, La Sexta, fundador de La Coproductora.",
-      "date": "2026-07-12"
     }
   ],
   "sources": [
-    {
-      "title": "Detenido en Ibiza el activista millonario marxista 'Fergie' Chambers, buscado por EE.UU.",
-      "url": "https://www.abc.es/espana/baleares/detenido-ibiza-activista-marxista-fergie-chambers-buscado-20260713121113-nt.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-13T10:26:09.000Z",
-      "sourceId": "lootura-es-abc"
-    },
     {
       "title": "Dentro de la Casa Blanca: así ejerce Trump un poder desenfrenado para dejar su huella en la historia",
       "url": "https://elpais.com/internacional/2026-07-13/dentro-de-la-casa-blanca-asi-ejerce-trump-un-poder-desenfrenado-para-dejar-su-huella-en-la-historia.html?utm_source=lootura.com",
       "publishedAt": "2026-07-13T03:40:00.000Z",
       "sourceId": "lootura-es-el-pais"
+    },
+    {
+      "title": "La economía circular de los Trump: los hijos invierten en Defensa y el padre inyecta dinero en ella",
+      "url": "https://www.larazon.es/internacional/economia-circular-trump-hijos-invierten-defensa-padre-inyecta-dinero-ella_202607136a54f5ecc48a78681b86d49c.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-13T14:27:56.000Z",
+      "sourceId": "lootura-es-la-razon"
+    },
+    {
+      "title": "Trump, sobre el estrecho de Ormuz: «Lo vamos a mantener seguro y lo vamos a administrar»",
+      "url": "https://theobjective.com/internacional/2026-07-13/trump-estrecho-ormuz-seguro-administrar/?utm_source=lootura.com",
+      "publishedAt": "2026-07-13T13:18:45.000Z",
+      "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 3
 }

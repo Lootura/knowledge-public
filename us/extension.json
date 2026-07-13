@@ -1,45 +1,32 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-13T11:02:36.898Z",
+  "generatedAt": "2026-07-13T14:36:03.941Z",
   "radar": {
     "id": "usa",
     "slug": "us",
     "locale": "en"
   },
   "state": {
-    "signature": "1.15.0|10|1783940298710",
+    "signature": "1.15.0|11|1783953092442",
     "version": "1.15.0",
-    "build": 10,
-    "latestEntityUpdatedAt": "2026-07-13T10:58:18.710Z"
+    "build": 11,
+    "latestEntityUpdatedAt": "2026-07-13T14:31:32.442Z"
   },
   "atlas": {
     "hero": {
       "id": "usa-iran",
       "name": "Iran",
       "type": "place",
-      "title": "Full transcript of \"Face the Nation with Margaret Brennan,\" July 12, 2026",
+      "title": "A Look at Lindsey Graham’s Political Legacy and Impact",
       "url": "https://atlas.lootura.com/us/place/iran",
       "path": "/us/place/iran",
-      "updatedAt": "2026-07-13T10:58:18.710Z",
-      "score": 1595,
-      "sourceCount": 88,
+      "updatedAt": "2026-07-13T14:31:32.442Z",
+      "score": 1569,
+      "sourceCount": 89,
       "isBreaking": false,
       "isPinned": false
     },
     "cards": [
-      {
-        "id": "usa-ukraine",
-        "name": "Ukraine",
-        "type": "place",
-        "title": "With Lindsey Graham Gone, Ukraine Loses an Ally in Trump’s Ear",
-        "url": "https://atlas.lootura.com/us/place/ukraine",
-        "path": "/us/place/ukraine",
-        "updatedAt": "2026-07-13T10:58:18.710Z",
-        "score": 1576,
-        "sourceCount": 24,
-        "isBreaking": false,
-        "isPinned": false
-      },
       {
         "id": "usa-united-states",
         "name": "United States",
@@ -47,9 +34,9 @@
         "title": "58 million under heat alerts as extreme temperatures scorch western U.S.",
         "url": "https://atlas.lootura.com/us/place/united-states",
         "path": "/us/place/united-states",
-        "updatedAt": "2026-07-13T10:58:18.710Z",
-        "score": 1574,
-        "sourceCount": 144,
+        "updatedAt": "2026-07-13T14:31:32.442Z",
+        "score": 1569,
+        "sourceCount": 145,
         "isBreaking": false,
         "isPinned": false
       },
@@ -60,9 +47,22 @@
         "title": "Maine Democrats to Chuck Schumer: Stay Out of Our Senate Race",
         "url": "https://atlas.lootura.com/us/organization/democratic-party",
         "path": "/us/organization/democratic-party",
-        "updatedAt": "2026-07-13T10:58:18.710Z",
-        "score": 1567,
-        "sourceCount": 36,
+        "updatedAt": "2026-07-13T14:31:32.442Z",
+        "score": 1566,
+        "sourceCount": 38,
+        "isBreaking": false,
+        "isPinned": false
+      },
+      {
+        "id": "usa-ukraine",
+        "name": "Ukraine",
+        "type": "place",
+        "title": "With Lindsey Graham Gone, Ukraine Loses an Ally in Trump’s Ear",
+        "url": "https://atlas.lootura.com/us/place/ukraine",
+        "path": "/us/place/ukraine",
+        "updatedAt": "2026-07-13T14:31:32.442Z",
+        "score": 1562,
+        "sourceCount": 23,
         "isBreaking": false,
         "isPinned": false
       },
@@ -73,9 +73,9 @@
         "title": "Michael Cohen Helped Convict Trump. Now, He’s Making Nice Again.",
         "url": "https://atlas.lootura.com/us/person/donald-trump",
         "path": "/us/person/donald-trump",
-        "updatedAt": "2026-07-13T10:58:18.710Z",
-        "score": 1562,
-        "sourceCount": 111,
+        "updatedAt": "2026-07-13T14:31:32.442Z",
+        "score": 1557,
+        "sourceCount": 105,
         "isBreaking": false,
         "isPinned": false
       }

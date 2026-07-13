@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/donald-trump/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/donald-trump/index.json",
   "description": "Follow Donald Trump, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-13T10:58:18.710Z",
+  "updatedAt": "2026-07-13T14:31:32.442Z",
   "aliases": [
     "President Donald Trump",
     "President Trump",
@@ -41,28 +41,28 @@
       "date": "2026-07-13"
     },
     {
+      "title": "Trump says U.S. will get paid to guard Strait of Hormuz: \"Maybe we",
+      "summary": "President Trump said, \"We.",
+      "date": "2026-07-13"
+    },
+    {
+      "title": "US and Iran Trade Strikes as Ceasefire Deal Efforts Unravel",
+      "summary": "The United States and Iran traded even more attacks, some of the most intense in months, as the already fragile ceasefire continues to unravel. On Sunday, President Donald Trump told Kristen Welker on Meet the Press that the Strait of Hormuz remains open – even though Iran said earlier that it was closed. NBC’s Matt Br.",
+      "date": "2026-07-13"
+    },
+    {
+      "title": "As Trump Brands Them ‘Godless Communists,’ Democrats Divided on How to Respond",
+      "summary": "President Donald Trump speaks at the Independence Day celebration on the National Mall in Washington, DC, on July 4, 2026. —Alex Wroblewski–AFP via Getty Images More than three decades after the fall of the Berlin Wall, a U.S. President is once again casting the threat of communism as one of the biggest issues facing A.",
+      "date": "2026-07-13"
+    },
+    {
       "title": "A Bible passage is at the center of a debate over how the U.S. should treat immigrants",
       "summary": "A debate over the Bible verse Matthew 25 is pitting mainline pastors, Black protestants and the pope against evangelical politicians put on the defensive over President Trump's policies.",
       "date": "2026-07-12"
     },
     {
-      "title": "From staunch critic to fierce ally: Graham's long, strange and consequential friendship with Trump",
-      "summary": "After the Capitol riot on Jan. 6, 2021, Sen. Lindsey Graham said he had finally had enough of the man who was championed by the mob that stormed the pillar of American democracy: President Donald Trump.",
-      "date": "2026-07-12"
-    },
-    {
-      "title": "Lindsey Graham remembered for a vision of American foreign policy that's fading in Washington",
-      "summary": "Graham was a rare bridge between President Donald Trump's \"America First\" foreign policy and the traditional Washington consensus prioritizing alliances with Europe and Israel, one falling out of favor with many in both political parties.",
-      "date": "2026-07-12"
-    },
-    {
       "title": "How longtime GOP Senator Lindsey Graham went from critic to ally of President Trump",
       "summary": "Longtime Republican Sen. Lindsey Graham has died at the age of 71. The foreign policy hawk and former critic-turned-ally of President Trump was running for re-election in South Carolina.",
-      "date": "2026-07-12"
-    },
-    {
-      "title": "Politics chat: Lindsey Graham dies at 71, Congress back in session, U.S. strikes Iran",
-      "summary": "South Carolina Senator Lindsey Graham's sudden death at 71 has shocked Washington. Once a fierce critic of then-candidate Donald Trump, he became one of the president's most consistent defenders.",
       "date": "2026-07-12"
     }
   ],
@@ -74,10 +74,16 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "A Bible passage is at the center of a debate over how the U.S. should treat immigrants",
-      "url": "https://www.npr.org/2026/07/12/nx-s1-5885947/a-bibe-passage-is-at-the-center-of-a-debate-over-how-the-u-s-should-treat-immigrants?utm_source=lootura.com",
-      "publishedAt": "2026-07-12T11:57:10.000Z",
-      "sourceId": "lootura-us-npr"
+      "title": "Trump says U.S. will get paid to guard Strait of Hormuz: \"Maybe we",
+      "url": "https://www.cbsnews.com/news/trump-iran-war-us-guardian-strait-of-hormuz-get-paid/?utm_source=lootura.com",
+      "publishedAt": "2026-07-13T14:29:20.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
+    {
+      "title": "US and Iran Trade Strikes as Ceasefire Deal Efforts Unravel",
+      "url": "https://www.today.com/video/us-and-iran-trade-strikes-as-ceasefire-deal-efforts-unravel-266581061712?utm_source=lootura.com",
+      "publishedAt": "2026-07-13T11:21:19.000Z",
+      "sourceId": "lootura-us-nbc-news"
     },
     {
       "title": "Former member of federal Election Assistance Commission speaks out after dismissal",
@@ -86,21 +92,9 @@
       "sourceId": "lootura-us-npr-politics"
     },
     {
-      "title": "From staunch critic to fierce ally: Graham's long, strange and consequential friendship with Trump",
-      "url": "https://www.pbs.org/newshour/politics/from-staunch-critic-to-fierce-ally-grahams-long-strange-and-consequential-friendship-with-trump?utm_source=lootura.com",
-      "publishedAt": "2026-07-12T19:45:01.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
-    },
-    {
-      "title": "Lindsey Graham remembered for a vision of American foreign policy that's fading in Washington",
-      "url": "https://www.pbs.org/newshour/politics/lindsey-graham-remembered-for-a-vision-of-american-foreign-policy-thats-fading-in-washington?utm_source=lootura.com",
-      "publishedAt": "2026-07-12T22:40:48.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
-    },
-    {
       "title": "Mercurial and Magnetic, Lindsey Graham Was a Force in the Senate",
       "url": "https://www.nytimes.com/2026/07/13/us/politics/lindsey-graham-senate-force.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-13T09:02:52.000Z",
+      "publishedAt": "2026-07-13T12:23:14.000Z",
       "sourceId": "lootura-us-the-new-york-times-politics"
     },
     {
@@ -112,9 +106,15 @@
     {
       "title": "With Lindsey Graham Gone, Ukraine Loses an Ally in Trump’s Ear",
       "url": "https://www.nytimes.com/2026/07/12/us/lindsey-graham-ukraine.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-13T09:10:17.000Z",
+      "publishedAt": "2026-07-13T12:12:41.000Z",
       "sourceId": "lootura-us-the-new-york-times-politics"
+    },
+    {
+      "title": "As Trump Brands Them ‘Godless Communists,’ Democrats Divided on How to Respond",
+      "url": "https://time.com/article/2026/07/13/as-trump-brands-them-godless-communists-democrats-divided-on-how-to-respond/?utm_source=lootura.com",
+      "publishedAt": "2026-07-13T11:00:00.000Z",
+      "sourceId": "lootura-us-time"
     }
   ],
-  "evidenceCount": 8
+  "evidenceCount": 9
 }

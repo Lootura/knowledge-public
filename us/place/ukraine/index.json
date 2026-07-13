@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/ukraine/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/ukraine/index.json",
   "description": "Follow Ukraine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-13T10:58:18.710Z",
+  "updatedAt": "2026-07-13T14:31:32.442Z",
   "aliases": [
     "Kyiv"
   ],
@@ -19,19 +19,19 @@
       "date": "2026-07-13"
     },
     {
-      "title": "The Next Phase in Ukraine’s War With Russia: The Battle for Minds",
-      "summary": "Ukrainians, already drone innovators, are turning their focus to psychological operations aimed at undercutting Russian support for the war.",
-      "date": "2026-07-13"
-    },
-    {
       "title": "A Robot Army Remakes Ground Warfare in Ukraine",
       "summary": "They began as supply mules. Now ground robots evacuate the wounded, hold trenches and even do the killing.",
       "date": "2026-07-13"
     },
     {
-      "title": "Margaret Brennan: I spoke with Lindsey Graham a day before he died",
-      "summary": "Fierce Ukraine supporter Lindsey Graham passed away Saturday on the heels of his tenth trip to the warzone, and at a key moment for one of the Republican senator's proudest accomplishments.",
-      "date": "2026-07-12"
+      "title": "A Look at Lindsey Graham’s Political Legacy and Impact",
+      "summary": "Meet the Press Moderator Kristen Welker joins TODAY to discuss Sen. Lindsey Graham’s vast political legacy and share what he was like off camera. She also breaks down how his death impacts United States foreign policy with the wars in Iran and Ukraine.",
+      "date": "2026-07-13"
+    },
+    {
+      "title": "The Next Phase in Ukraine’s War With Russia: The Battle for Minds",
+      "summary": "Ukrainians, already drone innovators, are turning their focus to psychological operations aimed at undercutting Russian support for the war.",
+      "date": "2026-07-13"
     },
     {
       "title": "Ukraine's prime minister resigns; Zelenskyy shifts several government roles",
@@ -59,28 +59,28 @@
       "date": "2026-07-12"
     },
     {
-      "title": "Lindsey Graham Dies at 71: A Look Back at His Influential Career",
-      "summary": "Lindsey Graham, an Air Force veteran from South Carolina and one of the most influential senators in American foreign policy, has died at 71. Graham had just returned from a lengthy trip to Ukraine and Ankara, Turkey. NBC’s Julie Tsirkin reports for Sunday TODAY.",
+      "title": "Zelensky Announces Leadership Shuffle as War Turns in Ukraine’s Favor",
+      "summary": "President Volodymyr Zelensky said Ukraine’s prime minister, Yuliia Svyrydenko, would step down amid a broader shake-up in Ukraine’s senior leadership.",
       "date": "2026-07-12"
     }
   ],
   "sources": [
     {
-      "title": "With Lindsey Graham Gone, Ukraine Loses an Ally in Trump’s Ear",
-      "url": "https://www.nytimes.com/2026/07/12/us/lindsey-graham-ukraine.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-13T09:10:17.000Z",
-      "sourceId": "lootura-us-the-new-york-times-politics"
+      "title": "A Look at Lindsey Graham’s Political Legacy and Impact",
+      "url": "https://www.today.com/video/kristen-welker-shares-what-lindsey-graham-was-like-off-camera-266581061699?utm_source=lootura.com",
+      "publishedAt": "2026-07-13T11:17:27.000Z",
+      "sourceId": "lootura-us-nbc-news-politics"
     },
     {
-      "title": "The Next Phase in Ukraine’s War With Russia: The Battle for Minds",
-      "url": "https://www.nytimes.com/2026/07/13/world/europe/ukraine-war-russia-cognitive-warfare.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-13T09:02:08.000Z",
-      "sourceId": "lootura-us-the-new-york-times-world"
+      "title": "With Lindsey Graham Gone, Ukraine Loses an Ally in Trump’s Ear",
+      "url": "https://www.nytimes.com/2026/07/12/us/lindsey-graham-ukraine.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-13T12:12:41.000Z",
+      "sourceId": "lootura-us-the-new-york-times-politics"
     },
     {
       "title": "A Robot Army Remakes Ground Warfare in Ukraine",
       "url": "https://www.nytimes.com/2026/07/13/world/europe/ukraine-ground-robots.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-13T09:00:23.000Z",
+      "publishedAt": "2026-07-13T12:04:25.000Z",
       "sourceId": "lootura-us-the-new-york-times-world"
     }
   ],

@@ -34,4 +34,4 @@ Date: 2026-07-08
 
 ## Fuentes
 
-- [Lamine Yamal cumple 19 a punto de hacer historia: los eventos que han marcado su vida (un apuñalamiento, lujo, varias novias y más)](https://theobjective.com/gente/2026-07-13/lamine-yamal-19-anos-historia-eventos/?utm_source=lootura.com) — 2026-07-13T10:23:31.000Z
+No public source links.

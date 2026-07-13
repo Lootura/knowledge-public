@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/donald-trump/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/donald-trump/index.json",
   "description": "Sigue la actividad de Donald Trump en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-13T10:57:59.389Z",
+  "updatedAt": "2026-07-13T14:31:13.122Z",
   "aliases": [
     "President Donald Trump",
     "President Trump",
@@ -18,6 +18,16 @@
     {
       "title": "Dentro de la Casa Blanca: así ejerce Trump un poder desenfrenado para dejar su huella en la historia",
       "summary": "Si hay un punto de inflexión en el legado de Donald Trump como presidente de Estados Unidos, hay que buscarlo en el 20 de enero de 2025, el primer día de su regreso al Despacho Oval tras su abrupta salida en 2021, cuando fue derrotado por Joe Biden y convertido en un paria político por agitar a una muchedumbre enfervor.",
+      "date": "2026-07-13"
+    },
+    {
+      "title": "La economía circular de los Trump: los hijos invierten en Defensa y el padre inyecta dinero en ella",
+      "summary": "Los hijos del presidente de Estados Unidos, Donald Trump Jr. y Eric Trump, han acumulado una cartera de empresas emergentes de tecnología de defensa que se está beneficiando de las nuevas prioridades y gastos del Pentágono, según revela hoy The Washington Post. esta colisión de intereses puede poner en aprietos legales.",
+      "date": "2026-07-13"
+    },
+    {
+      "title": "Trump, sobre el estrecho de Ormuz: «Lo vamos a mantener seguro y lo vamos a administrar»",
+      "summary": "El presidente de Estados Unidos , Donald Trump , dijo este lunes que su país se convertirá en el «guardián» del estrecho de Ormuz y aseguró que Washington debería ser compensado por proteger la estratégica vía de comercio, interrumpida por Irán en medio de la actual escalada en el conflicto. «Vamos a golpearlos muy dur.",
       "date": "2026-07-13"
     },
     {
@@ -54,16 +64,6 @@
       "title": "El gasto militar de Sánchez sólo concita el aplauso de Trump: izquierda y derecha exigen explicaciones y acusan al Gobierno de opacidad",
       "summary": "Reproches al Gobierno por traspasar todos los límites de la transparencia hasta crear una enorme factura opaca en la que se mezclan armas, salarios, planes de inversión y programas de inteligencia Leer.",
       "date": "2026-07-12"
-    },
-    {
-      "title": "“Trump se ha obsesionado con la idea de que Estados Unidos reclame nuevos territorios”: Daniel Immerwahr",
-      "summary": "El autor de ‘Cómo ocultar un imperio’ sostiene en su libro que el presidente estadounidense es ante todo un obseso de la fuerza bruta, un matón. Pero uno que también profundiza las lógicas de dominación que históricamente han marcado la estrategia internacional de la Casa Blanca.",
-      "date": "2026-07-12"
-    },
-    {
-      "title": "Muere el senador republicano Lindsey Graham, estrecho aliado de Trump, de forma repentina a los 71 años",
-      "summary": "Su inesperada muerte trunca una carrera política caracterizada por su crítica y posterior respaldo al presidente, Donald Trump, y, recientemente, por su postura inflexible contra España sobre Irán. Leer.",
-      "date": "2026-07-12"
     }
   ],
   "sources": [
@@ -74,11 +74,17 @@
       "sourceId": "lootura-es-el-pais"
     },
     {
-      "title": "Detenido en Ibiza un \"filántropo\" estadounidense al que la administración Trump acusa de financiar la causa palestina",
-      "url": "https://www.eldiario.es/politica/detenido-ibiza-filantropo-estadounidense-pais-acusa-financiar-causa-palestina_1_13375611.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-13T09:39:29.000Z",
-      "sourceId": "lootura-es-eldiario-es"
+      "title": "La economía circular de los Trump: los hijos invierten en Defensa y el padre inyecta dinero en ella",
+      "url": "https://www.larazon.es/internacional/economia-circular-trump-hijos-invierten-defensa-padre-inyecta-dinero-ella_202607136a54f5ecc48a78681b86d49c.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-13T14:27:56.000Z",
+      "sourceId": "lootura-es-la-razon"
+    },
+    {
+      "title": "Trump, sobre el estrecho de Ormuz: «Lo vamos a mantener seguro y lo vamos a administrar»",
+      "url": "https://theobjective.com/internacional/2026-07-13/trump-estrecho-ormuz-seguro-administrar/?utm_source=lootura.com",
+      "publishedAt": "2026-07-13T13:18:45.000Z",
+      "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 3
 }

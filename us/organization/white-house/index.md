@@ -70,4 +70,4 @@ Date: 2026-07-09
 
 ## Sources
 
-- [NSF plans cuts to core science programmes to fund White House initiative](https://www.nature.com/articles/d41586-026-02135-x?utm_source=lootura.com) — 2026-07-13T06:51:23.414Z
+No public source links.

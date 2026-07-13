@@ -3,10 +3,16 @@
 > Sigue la actividad de Organización del Tratado del Atlántico Norte en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-13T02:33:34.884Z
+- Actualizado: 2026-07-13T14:31:13.122Z
 - Canonical: https://atlas.lootura.com/es/organization/nato
 
 ## Cambios recientes
+
+### La UE y la OTAN condenan los ciberataques «maliciosos» de Rusia contra los países europeos
+
+Señalan a los servicios de inteligencia del Kremlin de orquestar una ofensiva cibernética contra Francia y Alemania, que han convocado a los embajadores rusos para pedirles explicaciones.
+
+Date: 2026-07-13
 
 ### ¿Cómo queda el tablero de la defensa europea tras el reajuste táctico de la OTAN en Ankara?
 
@@ -62,12 +68,6 @@ El gobierno de Alemania ha alcanzado un acuerdo con Estados Unidos para la adqui
 
 Date: 2026-07-10
 
-### Sánchez, entre el Spirit of St. Louis y el Plus Ultra
-
-«Uno, dos y tres/ tres banderilleros en el redondel»... Estaban los tres juntos, en el Consejo de Ministros, digo, y en hora y media, cada uno en su avión, rumbo a Ankara, a la cumbre de la OTAN. Corrijo, y cada uno en una aeronave del 45 Grupo del Ejército del Aire y del Espacio, que no es que sean de ellos los tres a.
-
-Date: 2026-07-10
-
 ## Fuentes
 
-No public source links.
+- [La UE y la OTAN condenan los ciberataques «maliciosos» de Rusia contra los países europeos](https://www.elcorreo.com/internacional/europa/ue-otan-condenan-ciberataques-maliciosos-rusia-paises-20260713160238-ntrc_amp.html?utm_source=lootura.com) — 2026-07-13T14:02:38.000Z

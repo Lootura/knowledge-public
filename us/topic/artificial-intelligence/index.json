@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/topic/artificial-intelligence/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/topic/artificial-intelligence/index.json",
   "description": "Follow Artificial intelligence, a tracked topic, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-13T10:58:18.710Z",
+  "updatedAt": "2026-07-13T14:31:32.442Z",
   "aliases": [
     "AI",
     "machine learning"
@@ -67,9 +67,9 @@
   ],
   "sources": [
     {
-      "title": "VHF Propagation: What Every RF Engineer Should Know",
-      "url": "https://content.knowledgehub.wiley.com/understanding-vhf-very-high-frequency-propagation/?utm_source=lootura.com",
-      "publishedAt": "2026-07-13T10:00:01.000Z",
+      "title": "Building a Foundation Stack for General-Purpose Robots",
+      "url": "https://spectrum.ieee.org/x-square-robot-embodied-ai-stack?utm_source=lootura.com",
+      "publishedAt": "2026-07-13T10:19:51.000Z",
       "sourceId": "lootura-us-ieee-spectrum"
     },
     {
@@ -81,21 +81,15 @@
     {
       "title": "Which ‘AI scientist’ suits your lab? A guide for the perplexed",
       "url": "https://www.nature.com/articles/d41586-026-02091-6?utm_source=lootura.com",
-      "publishedAt": "2026-07-13T10:58:22.941Z",
+      "publishedAt": "2026-07-13T14:31:36.786Z",
       "sourceId": "lootura-us-nature"
     },
     {
       "title": "Does AI work for us, or do we work for AI?",
       "url": "https://www.science.org/doi/abs/10.1126/science.aei9754?af=R&utm_source=lootura.com",
-      "publishedAt": "2026-07-13T10:58:23.158Z",
+      "publishedAt": "2026-07-13T14:31:36.969Z",
       "sourceId": "lootura-us-science"
-    },
-    {
-      "title": "Waze is getting a bunch of new AI-powered features",
-      "url": "https://www.theverge.com/transportation/964132/waze-gemini-ai-voice-commands-less-chatty?utm_source=lootura.com",
-      "publishedAt": "2026-07-13T09:00:00.000Z",
-      "sourceId": "lootura-us-the-verge"
     }
   ],
-  "evidenceCount": 4
+  "evidenceCount": 3
 }

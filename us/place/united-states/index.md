@@ -3,7 +3,7 @@
 > Follow United States, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-13T10:58:18.710Z
+- Updated: 2026-07-13T14:31:32.442Z
 - Canonical: https://atlas.lootura.com/us/place/united-states
 
 ## Recent changes
@@ -50,21 +50,21 @@ The U.S. strikes Iran for a third weekend as Iran retaliates by hitting Gulf nat
 
 Date: 2026-07-13
 
-### Heat wave smashes records across central US
-
-A record-breaking heat wave baked the central United States on Sunday, smashing temperature records from the northern Plains to the Rocky Mountain region.
-
-Date: 2026-07-13
-
 ### With Lindsey Graham Gone, Ukraine Loses an Ally in Trump’s Ear
 
 The South Carolina Republican was Ukraine’s most influential champion inside President Trump’s mostly “America First” political orbit.
 
 Date: 2026-07-13
 
-### Gap Years Are Wasted on the Young
+### 1 person killed in Maine shooting involving ICE, state House speaker says
 
-—Photo-Illustration by TIME (Source Images: Maskot, Chunyip Wong—Getty Images) Fresh off the heels of graduation from high school, many rising freshmen are choosing to step off of the treadmill for a year before matriculating in college. Gap years have become a viable option in the United States, where taking a leave o.
+A person was killed during a shooting in Maine involving U.S. Immigration and Customs Enforcement on Monday morning, state House Speaker Ryan Fecteau said.
+
+Date: 2026-07-13
+
+### Tributes pour in for Lindsey Graham after his death stuns D.C.
+
+Tributes poured in for Sen. Lindsey Graham from Democrats, Republicans, former U.S. presidents and world leaders after his death stunned Capitol Hill. CBS News' Caitlin Huey-Burns has more.
 
 Date: 2026-07-13
 
@@ -72,11 +72,11 @@ Date: 2026-07-13
 
 - [U.S. launches another round of strikes on Iran](https://www.cbsnews.com/video/us-launches-another-round-of-strikes-on-iran/?utm_source=lootura.com) — 2026-07-13T00:55:00.000Z
 - [58 million under heat alerts as extreme temperatures scorch western U.S.](https://www.cbsnews.com/news/40-million-under-alerts-heat-dome-peaks-western-us/?utm_source=lootura.com) — 2026-07-13T08:01:33.000Z
+- [1 person killed in Maine shooting involving ICE, state House speaker says](https://www.cbsnews.com/news/maine-shooting-ice-biddeford/?utm_source=lootura.com) — 2026-07-13T13:44:21.000Z
 - [Protests grow in Houston after ICE officer kills Mexican man who'd been living in U.S. for 30 years](https://www.cbsnews.com/video/protests-grow-in-houston-after-ice-officer-kills-mexican-man-whod-been-living-in-us-for-30-years/?utm_source=lootura.com) — 2026-07-13T01:03:00.000Z
-- [Keystone Pipeline operator agrees to pay $26.9 million over 2022 oil spill](https://www.cbsnews.com/news/keystone-pipeline-operator-agrees-pay-26-million-2022-oil-spill/?utm_source=lootura.com) — 2026-07-12T19:11:41.000Z
+- [Tributes pour in for Lindsey Graham after his death stuns D.C.](https://www.cbsnews.com/video/tributes-pour-in-sen-lindsey-graham-after-death-stuns-dc/?utm_source=lootura.com) — 2026-07-13T14:01:30.000Z
+- [Trump says U.S. will get paid to guard Strait of Hormuz: "Maybe we](https://www.cbsnews.com/news/trump-iran-war-us-guardian-strait-of-hormuz-get-paid/?utm_source=lootura.com) — 2026-07-13T14:29:20.000Z
 - [Extreme heat, wildfires and severe thunderstorms affecting millions across the U.S.](https://www.cbsnews.com/video/extreme-heat-wildfires-and-severe-thunderstorms-affecting-millions-across-the-us/?utm_source=lootura.com) — 2026-07-13T01:22:00.000Z
-- [U.S. and Iran trade strikes and conflicting claims about the Strait of Hormuz](https://www.nbcnews.com/nightly-news/video/u-s-and-iran-trade-strikes-and-conflicting-claims-about-the-strait-of-hormuz-266568261661?utm_source=lootura.com) — 2026-07-12T23:29:25.000Z
+- [US and Iran Trade Strikes as Ceasefire Deal Efforts Unravel](https://www.today.com/video/us-and-iran-trade-strikes-as-ceasefire-deal-efforts-unravel-266581061712?utm_source=lootura.com) — 2026-07-13T11:21:19.000Z
+- [A Look at Lindsey Graham’s Political Legacy and Impact](https://www.today.com/video/kristen-welker-shares-what-lindsey-graham-was-like-off-camera-266581061699?utm_source=lootura.com) — 2026-07-13T11:17:27.000Z
 - [Eat your ice cream for a long, healthy life? This doctor says so](https://www.npr.org/2026/07/13/nx-s1-5884664/zeke-emanuel-optimize-health-long-life?utm_source=lootura.com) — 2026-07-13T09:00:00.000Z
-- [Morning news brief](https://www.npr.org/2026/07/13/nx-s1-5885745/morning-news-brief?utm_source=lootura.com) — 2026-07-13T08:48:40.000Z
-- [A Bible passage is at the center of a debate over how the U.S. should treat immigrants](https://www.npr.org/2026/07/12/nx-s1-5885947/a-bibe-passage-is-at-the-center-of-a-debate-over-how-the-u-s-should-treat-immigrants?utm_source=lootura.com) — 2026-07-12T11:57:10.000Z
-- [Georgia's unique in the American Revolution told through its historical markers](https://www.npr.org/2026/07/12/nx-s1-5886144/georgias-unique-in-the-american-revolution-told-through-its-historical-markers?utm_source=lootura.com) — 2026-07-12T21:08:15.000Z

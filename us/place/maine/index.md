@@ -3,7 +3,7 @@
 > Follow Maine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-13T10:58:18.710Z
+- Updated: 2026-07-13T14:31:32.442Z
 - Canonical: https://atlas.lootura.com/us/place/maine
 
 ## Recent changes
@@ -23,6 +23,12 @@ Date: 2026-07-13
 ### Maine Democrats to Chuck Schumer: Stay Out of Our Senate Race
 
 Local Democrats are warning the top Senate Democrat to keep away as they replace Graham Platner, and the candidates are giving his leadership in Washington low marks.
+
+Date: 2026-07-13
+
+### 1 person killed in Maine shooting involving ICE, state House speaker says
+
+A person was killed during a shooting in Maine involving U.S. Immigration and Customs Enforcement on Monday morning, state House Speaker Ryan Fecteau said.
 
 Date: 2026-07-13
 
@@ -62,14 +68,9 @@ Democrats have already set off a mad dash to find a new candidate, with a July 2
 
 Date: 2026-07-11
 
-### Graham Platner formally drops out of Maine Senate race
-
-Graham Platner had until 5 p.m. on Monday to formally suspend his campaign or he would remain on the ballot in November.
-
-Date: 2026-07-11
-
 ## Sources
 
+- [1 person killed in Maine shooting involving ICE, state House speaker says](https://www.cbsnews.com/news/maine-shooting-ice-biddeford/?utm_source=lootura.com) — 2026-07-13T13:44:21.000Z
 - [Maine Democrats scramble to select replacement for Platner in Senate race](https://www.npr.org/2026/07/13/nx-s1-5888430/maine-democrats-scramble-to-select-replacement-for-platner-in-senate-race?utm_source=lootura.com) — 2026-07-13T08:48:28.000Z
 - [Maine Secretary of State Shenna Bellows on her bid to replace Platner in Senate race](https://www.npr.org/2026/07/13/nx-s1-5888574/maine-secretary-of-state-shenna-bellows-on-her-bid-to-replace-platner-in-senate-race?utm_source=lootura.com) — 2026-07-13T08:48:19.000Z
 - [Maine Democrats to Chuck Schumer: Stay Out of Our Senate Race](https://www.nytimes.com/2026/07/13/us/politics/maine-democrats-schumer-stay-out-senate-race.html?utm_source=lootura.com) — 2026-07-13T09:02:46.000Z

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/democratic-party/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/democratic-party/index.json",
   "description": "Follow Democratic Party, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-13T10:58:18.710Z",
+  "updatedAt": "2026-07-13T14:31:32.442Z",
   "aliases": [
     "Democrats"
   ],
@@ -26,6 +26,16 @@
     {
       "title": "Mercurial and Magnetic, Lindsey Graham Was a Force in the Senate",
       "summary": "The sharp-witted South Carolinian repaired relations with President Trump to advance his foreign policy goals, was willing to cut deals with Democrats and tried to insert himself into every legislative fight.",
+      "date": "2026-07-13"
+    },
+    {
+      "title": "Tributes pour in for Lindsey Graham after his death stuns D.C.",
+      "summary": "Tributes poured in for Sen. Lindsey Graham from Democrats, Republicans, former U.S. presidents and world leaders after his death stunned Capitol Hill. CBS News' Caitlin Huey-Burns has more.",
+      "date": "2026-07-13"
+    },
+    {
+      "title": "As Trump Brands Them ‘Godless Communists,’ Democrats Divided on How to Respond",
+      "summary": "President Donald Trump speaks at the Independence Day celebration on the National Mall in Washington, DC, on July 4, 2026. —Alex Wroblewski–AFP via Getty Images More than three decades after the fall of the Berlin Wall, a U.S. President is once again casting the threat of communism as one of the biggest issues facing A.",
       "date": "2026-07-13"
     },
     {
@@ -52,19 +62,15 @@
       "title": "Discovered by Atlas",
       "summary": "Democratic Party first entered the public knowledge record with source-backed evidence.",
       "date": "2026-07-10"
-    },
-    {
-      "title": "The Platner Drama Is Reviving Debate Among Democrats Over a Double Standard",
-      "summary": "His candidacy stoked tensions among Democrats over gender and how to win back working-class voters.",
-      "date": "2026-07-10"
-    },
-    {
-      "title": "Graham Platner makes it official in Maine, submitting paperwork to leave Senate race",
-      "summary": "In his withdrawal notice, Platner said \"people are desperate for change\" and that's why they made him the Democratic nominee. Now, Maine Democrats have to pick someone to replace him by July 27. (Image credit: CJ Gunther).",
-      "date": "2026-07-10"
     }
   ],
   "sources": [
+    {
+      "title": "Tributes pour in for Lindsey Graham after his death stuns D.C.",
+      "url": "https://www.cbsnews.com/video/tributes-pour-in-sen-lindsey-graham-after-death-stuns-dc/?utm_source=lootura.com",
+      "publishedAt": "2026-07-13T14:01:30.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
     {
       "title": "Maine Democrats scramble to select replacement for Platner in Senate race",
       "url": "https://www.npr.org/2026/07/13/nx-s1-5888430/maine-democrats-scramble-to-select-replacement-for-platner-in-senate-race?utm_source=lootura.com",
@@ -80,9 +86,15 @@
     {
       "title": "Mercurial and Magnetic, Lindsey Graham Was a Force in the Senate",
       "url": "https://www.nytimes.com/2026/07/13/us/politics/lindsey-graham-senate-force.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-13T09:02:52.000Z",
+      "publishedAt": "2026-07-13T12:23:14.000Z",
       "sourceId": "lootura-us-the-new-york-times-politics"
+    },
+    {
+      "title": "As Trump Brands Them ‘Godless Communists,’ Democrats Divided on How to Respond",
+      "url": "https://time.com/article/2026/07/13/as-trump-brands-them-godless-communists-democrats-divided-on-how-to-respond/?utm_source=lootura.com",
+      "publishedAt": "2026-07-13T11:00:00.000Z",
+      "sourceId": "lootura-us-time"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 5
 }

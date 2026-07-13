@@ -3,10 +3,28 @@
 > Sigue la actividad de Madrid en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-13T10:57:59.389Z
+- Actualizado: 2026-07-13T14:31:13.122Z
 - Canonical: https://atlas.lootura.com/es/place/madrid
 
 ## Cambios recientes
+
+### El PP de Madrid mantiene su respaldo al alcalde de Móstoles tras su imputación por presunto acoso sexual
+
+“Absolutamente” y “por supuesto”. Esas dos expresiones son las que han utilizado los altos cargos del PP de Madrid para reiterar su respaldo al alcalde de Móstoles, el popular Manuel Bautista, después de que este lunes trascendiera su imputación por un presunto delito de acoso sexual y laboral a una exconcejala de ese.
+
+Date: 2026-07-13
+
+### Ayuso presenta los nuevos trenes automáticos de la Línea 6 del Metro
+
+La presidenta de la Comunidad de Madrid, Isabel Díaz Ayuso, ha presentado hoy el primero de los 48 nuevos trenes automáticos que circularán por la Línea 6 de Metro a lo largo del año 2027. Esta renovación integral convertirá a la conocida como línea Circular en la primera de toda la red madrileña en operar con un siste.
+
+Date: 2026-07-13
+
+### Bruno Mars homenajea a España cortando jamón Maldonado en el Metropolitano
+
+El cantante estadounidense Bruno Mars protagonizó uno de los momentos más comentados de su regreso a España al cortar y degustar en pleno concierto una pata de jamón ibérico de la firma extremeña Maldonado, ante las 50.000 personas que llenaron el viernes el Riyadh Air Metropolitano de Madrid en la primera de sus dos c.
+
+Date: 2026-07-13
 
 ### Dos heridos en un accidente tras caer un coche a las escaleras del Metro en Madrid
 
@@ -23,12 +41,6 @@ Date: 2026-07-13
 ### Siete heridos, dos graves, en un accidente múltiple con tres coches en Alcorcón (Madrid)
 
 Siete personas han resultado heridas -dos de ellas de carácter grave y cinco leves- tras un accidente con tres vehículos implicados en el kilómetro 11 de la A-5 , a la altura de Alcorcón , en sentido salida del municipio. Según informa el servicio de Emergencias 112 de la Comunidad de Madrid , la primera llamada se ha.
-
-Date: 2026-07-13
-
-### El PP de Madrid mantiene su respaldo al alcalde de Móstoles tras su imputación por presunto acoso sexual
-
-“Absolutamente” y “por supuesto”. Esas dos expresiones son las que han utilizado los altos cargos del PP de Madrid para reiterar su respaldo al alcalde de Móstoles, el popular Manuel Bautista, después de que este lunes trascendiera su imputación por un presunto delito de acoso sexual y laboral a una exconcejala de ese.
 
 Date: 2026-07-13
 
@@ -56,24 +68,8 @@ Del Kilómetro Cero de la Puerta del Sol a la Puerta Santa de la Catedral de San
 
 Date: 2026-07-13
 
-### El juez ratifica que Madrid tiene la exclusiva propiedad sobre el Centro de Menores de La Cantueña
-
-La Justicia ha dado la razón a la Comunidad de Madrid sobre el Centro de Menores de primera acogida ubicado en la finca de La Cantueña, ubicado en la localidad de Fuenlabrada. En concreto, la Sección Civil del Tribunal de Instancia de Madrid ha estimado íntegramente la demanda interpuesta por el Gobierno regional contr.
-
-Date: 2026-07-13
-
-### Del hot pilates al Lagree: nuevas formas de entrenar que conquistan Madrid (también cuando aprieta el calor)
-
-El gimnasio tradicional ya no es el único lugar donde ponerse en forma. En los últimos años, Madrid se ha convertido en uno de los principales escaparates del fitness boutique en Europa y la oferta no deja de crecer. A las clásicas salas de musculación se suman ahora estudios especializados y clubes deportivos que busc.
-
-Date: 2026-07-13
-
 ## Fuentes
 
-- [Dos heridos en un accidente tras caer un coche a las escaleras del Metro en Madrid](https://www.elconfidencial.com/espana/madrid/2026-07-13/accidente-trafico-metro-madrid-grave-1tna-1tps_4388842/?utm_source=lootura.com) — 2026-07-13T05:28:00.000Z
-- [Siete heridos, dos graves, en un accidente múltiple con tres coches en Alcorcón (Madrid)](https://www.elconfidencial.com/espana/madrid/2026-07-13/accidente-alcorcon-a5-heridos-1tna-1tps_4388896/?utm_source=lootura.com) — 2026-07-13T07:10:00.000Z
-- [Padres de opositores suspendidos los acompañan a reclamar los ceros: "Puso 'globo' con 'uve' muchas veces, pero se presentó con sus progenitores"](https://www.elmundo.es/espana/2026/07/13/6a53c24421efa0035c8b4598.html?utm_source=lootura.com) — 2026-07-12T23:27:04.000Z
+- [Ayuso presenta los nuevos trenes automáticos de la Línea 6 del Metro](https://www.elindependiente.com/espana/madrid/2026/07/13/ayuso-presenta-los-nuevos-trenes-automaticos-de-la-linea-6-del-metro/?utm_source=lootura.com) — 2026-07-13T12:56:05.000Z
 - [El PP de Madrid mantiene su respaldo al alcalde de Móstoles tras su imputación por presunto acoso sexual](https://elpais.com/espana/2026-07-13/el-pp-de-madrid-mantiene-su-respaldo-al-alcalde-de-mostoles-tras-su-imputacion-por-presunto-acoso-sexual.html?utm_source=lootura.com) — 2026-07-13T09:36:40.000Z
-- [La Audiencia Nacional rechaza paralizar la resignificación de Cuelgamuros como pedía Abogados Cristianos](https://www.eldiario.es/sociedad/audiencia-nacional-rechaza-paralizar-resignificacion-cuelgamuros-pedia-abogados-cristianos_1_13375723.html?utm_source=lootura.com) — 2026-07-13T09:57:04.000Z
-- [Ayuso defiende la Fórmula 1 en Madrid: «Es una gran inversión que no cuesta al contribuyente madrileño»](https://okdiario.com/deportes/ayuso-carga-contra-gobierno-intentar-que-f1-madrid-no-celebre-cataluna-dan-40-millones-18984483?utm_source=lootura.com) — 2026-07-13T10:27:58.000Z
-- [Entramos en la bonita terraza de Ana Belén y Víctor Manuel en Prosperidad: oasis botánico, toque asturiano y perfecta para desayunar](https://theobjective.com/gente/2026-07-13/terraza-ana-belen-victor-manuel-prosperidad/?utm_source=lootura.com) — 2026-07-13T05:30:00.000Z
+- [Bruno Mars homenajea a España cortando jamón Maldonado en el Metropolitano](https://theobjective.com/cultura/musica/2026-07-13/bruno-mars-corta-jamon-metropolitano/?utm_source=lootura.com) — 2026-07-13T14:12:39.000Z

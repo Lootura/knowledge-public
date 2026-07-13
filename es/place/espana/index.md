@@ -3,10 +3,64 @@
 > Sigue la actividad de España en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-13T10:57:59.389Z
+- Actualizado: 2026-07-13T14:31:13.122Z
 - Canonical: https://atlas.lootura.com/es/place/espana
 
 ## Cambios recientes
+
+### Identifican a seis fallecidos en Los Gallardos: un español y cinco extranjeros
+
+El juzgado de Vera (Almería) encargado del incendio originado en Los Gallardos, que se ha cobrado la vida de 13 personas, cuenta ya con la identificación de seis víctimas , que corresponden a un ciudadano español y a cinco extranjeros, un hombre y una mujer de Reino Unido, uno de Francia, uno de Bélgica y una mujer de.
+
+Date: 2026-07-13
+
+### Marta Hazas, sobre por qué no es madre: «De mis 30 a mis 40 no me apetecía pasármelos criando»
+
+Marta Hazas está en un momento dulce de su carrera. Apenas quedan unas semanas para que comienze su gira por España con 'Un matrimonio sin flitros', una comedia en la que comparte escenario con su marido, el también actor Javier Veiga . El tiempo corre y la actriz lo pasa disfrutando de unos días en la playa antes de e.
+
+Date: 2026-07-13
+
+### CEOE carga contra la propuesta de Bruselas de subir el IVA al turismo
+
+El Instituto de Estudios Económicos (IEE), el servicio de estudios de CEOE, ha cargado este lunes contra la propuesta de la Comisión Europea de subir el IVA que grava al turismo desde el actual tipo reducido del 10% al general del 21%. En su último informe de recomendaciones fiscales a España , hecho público a principi.
+
+Date: 2026-07-13
+
+### ¿Cómo ver el eclipse solar en España? Gafas homologadas, lugares y claves para no perderte nada
+
+El próximo gran eclipse solar visible desde España será uno de esos fenómenos que dejen huella. El 12 de agosto de 2026, la franja de totalidad cruzará la península Ibérica de oeste a este y dejará imágenes históricas en buena parte del norte del país, con una observación especialmente delicada porque el Sol estará muy.
+
+Date: 2026-07-13
+
+### La Unión Europea quiere regular el acceso a las redes sociales y propondrá una edad mínima para poder usarlas
+
+Primero fue Australia, y luego varios países en cascada: regular el acceso a las redes sociales para los menores parece central en el debate político en torno a Internet. España ya ha dejado clara su postura , y otros países europeos, pero hasta ahora era una cuestión interna de cada país . Hasta ahora, por primera vez.
+
+Date: 2026-07-13
+
+### Incendios forestales en España hoy, en directo: última hora de la evolución del fuego
+
+El calor extremo y las altas temperaturas siguen complicando las labores de extinción de varios incendios forestales activos en distintos puntos de España. Castilla y León, Cataluña, la Comunidad Valenciana y Andalucía concentran algunos de los principales focos.
+
+Date: 2026-07-13
+
+### Andalucía registra el triple de superficie quemada que el año pasado tras el incendio de Los Gallardos
+
+Los incendios forestales han calcinado 50.750,95 hectáreas en España entre el 1 de enero y el 5 de julio de 2026, según los datos del Ministerio para la Transición Ecológica y el Reto Demográfico (MITECO) recogidos por Europa Press. La cifra más que duplica la registrada un año antes y en Andalucía se triplica tras lo.
+
+Date: 2026-07-13
+
+### Amazon Business Prime refuerza la gestión inteligente del gasto empresarial aplicando la IA
+
+Amazon Business ha informado de que continúa mejorando las funcionalidades que los clientes Business Prime en España tienen a su disposición para.
+
+Date: 2026-07-13
+
+### Bruno Mars homenajea a España cortando jamón Maldonado en el Metropolitano
+
+El cantante estadounidense Bruno Mars protagonizó uno de los momentos más comentados de su regreso a España al cortar y degustar en pleno concierto una pata de jamón ibérico de la firma extremeña Maldonado, ante las 50.000 personas que llenaron el viernes el Riyadh Air Metropolitano de Madrid en la primera de sus dos c.
+
+Date: 2026-07-13
 
 ### Por qué ha sido tan letal el incendio de Los Gallardos: "Parecía una película de terror"
 
@@ -14,67 +68,14 @@ Este de la provincia de Almería es ya uno de los más mortíferos de la histori
 
 Date: 2026-07-13
 
-### La policía desarticula la mayor red de robo de móviles en España con un perjuicio de 1,09 millones para Telefónica
-
-Los Mossos d’Esquadra y la Policía Nacional desarticularon una organización criminal dedicada a la contratación fraudulenta de teléfonos móviles que generó un perjuicio económico de 1,09 millones de euros a Telefónica, en lo que representa el mayor fraude conocido por volumen económico registrado contra una operadora e.
-
-Date: 2026-07-13
-
-### Castilla-La Mancha acusa a Hacienda de "chantaje" en la reforma de la financiación autonómica
-
-El consejero de Hacienda, Administraciones Públicas y Transformación Digital de Castilla-La Mancha, Juan Alfonso Ruiz Molina, ha exigido "transparencia" al ministro de Hacienda, Arcadi España, en la reforma de la financiación autonómica, al tiempo ha hablado de "chantaje" a las comunidades autónomas y ha advertido de q.
-
-Date: 2026-07-13
-
-### Parece un cenote del Caribe pero está en Valencia y dicen que es la piscina natural más bonita de toda España
-
-En el interior de la provincia de Valencia se esconde uno de esos lugares capaces de sorprender incluso a quienes conocen bien la geografía española . El Charco Azul de Chulilla , una espectacular piscina natural formada por las aguas del río Turia , ofrece una imagen difícil de asociar con el paisaje mediterráneo habi.
-
-Date: 2026-07-13
-
-### La reflexión de Hemingway sobre España: si el pueblo español tiene un rasgo común es el orgullo
-
-Ernest Hemingway (1899–1961) fue uno de los periodistas y escritores más influyentes del siglo XX . De origen estadounidense, su estilo directo y su vida aventurera marcaron a toda una generación de autores. Para Hemingway, España no era sólo un simple destino turístico. España se convirtió en un escenario ideal para s.
-
-Date: 2026-07-13
-
-### Ayuso defiende la Fórmula 1 en Madrid: «Es una gran inversión que no cuesta al contribuyente madrileño»
-
-Isabel Díaz Ayuso , presidenta de la Comunidad de Madrid, ha arremetido contra el Gobierno de Sánchez por la «falta de apoyo económico» a Madrid para la celebración del Gran Premio de Fórmula 1 en la capital, cargando contra aquellos que no querían que se llevara a cabo el GP de España de F1. La dirigente del Partido P.
-
-Date: 2026-07-13
-
-### Heineken España innova con lanzamientos en los segmentos de mayor crecimiento
-
-Heineken España refuerza su apuesta por la innovación con nuevos lanzamientos en los segmentos que más crecen en el mercado cervecero. Coincidiendo con el verano, la compañía ha incorporado a su portafolio Cruzcampo 1904, Ladrón de Verano 0,0, Cruzcampo Tostada 0,0 y El Águila Sin Filtrar Limón, propuestas que responde.
-
-Date: 2026-07-13
-
-### El 'boom' de los neumáticos 'made in China' en España pone en jaque a los grandes fabricantes europeos
-
-Muy lejos queda ya la etiqueta que se le puso a China con sus falsificaciones e imitaciones. El gigante asiático ha dado un auténtico salto adelante en los últimos tiempos con un gran avance en la tecnología que ha puesto patas arriba el mundo de la automoción. No solo porque sus coches acaparan cada vez más cuota de m.
-
-Date: 2026-07-13
-
-### España lidera la tasa de bajas en la Unión Europea y es el país donde más crecen desde la pandemia
-
-El drástico incremento en las bajas laborales que ha vivido España en los últimos años ha reavivado un debate que los empresarios sitúan dentro del marco del "absentismo", mientras que los sindicatos colocan como una cuestión exclusivamente de salud pública. Aunque este auge se ha visto también en la gran mayoría de pa.
-
-Date: 2026-07-13
-
-### De Guadalajara a Los Gallardos: el viaje de la UME del recelo a la referencia en los incendios
-
-Juan Montenegro recuerda cómo a la Unidad Militar de Emergencias la llamaban "ejército bolivariano de la república de Zapatero ". Lo sabe porque este teniente general retirado del Ejército de Tierra estuvo en el germen de este cuerpo. Recuerda también cómo un militar venezolano que había viajado a España para conocer e.
-
-Date: 2026-07-13
-
 ## Fuentes
 
-- [Borja Iglesias responde a Rajoy por sus palabras sobre Francia: "Me sorprende que a estas alturas sigamos con estas cosas"](https://www.20minutos.es/deportes/futbol/borja-iglesias-responde-rajoy-por-sus-palabras-sobre-francia-me-sorprende-que-estas-alturas-sigamos-con-estas-cosas_7013805_0.html?utm_source=lootura.com) — 2026-07-13T07:55:55.000Z
-- [La policía desarticula la mayor red de robo de móviles en España con un perjuicio de 1,09 millones para Telefónica](https://elpais.com/economia/2026-07-13/la-policia-desarticula-la-mayor-red-de-robo-de-moviles-en-espana-con-un-perjuicio-de-109-millones-para-telefonica.html?utm_source=lootura.com) — 2026-07-13T10:21:08.000Z
-- [Por qué ha sido tan letal el incendio de Los Gallardos: "Parecía una película de terror"](https://www.elmundo.es/podcasts/el-mundo-al-dia/2026/07/13/6a53d04421efa003768b4572.html?utm_source=lootura.com) — 2026-07-13T00:38:01.000Z
-- [Castilla-La Mancha acusa a Hacienda de "chantaje" en la reforma de la financiación autonómica](https://www.larazon.es/castilla-la-mancha/castillala-mancha-acusa-hacienda-chantaje-reforma-financiacion-autonomica_202607136a54c2e5c0b5fb431c52bcb9.html?utm_source=lootura.com) — 2026-07-13T10:50:13.000Z
-- [Parece un cenote del Caribe pero está en Valencia y dicen que es la piscina natural más bonita de toda España](https://okdiario.com/viajes/parece-cenote-del-caribe-pero-esta-valencia-dicen-que-piscina-natural-mas-bonita-toda-espana-18866609?utm_source=lootura.com) — 2026-07-13T10:30:01.000Z
-- [La reflexión de Hemingway sobre España: si el pueblo español tiene un rasgo común es el orgullo](https://okdiario.com/curiosidades/reflexion-hemingway-sobre-espana-si-pueblo-espanol-tiene-rasgo-comun-orgullo-18984268?utm_source=lootura.com) — 2026-07-13T10:31:57.000Z
-- [Ayuso defiende la Fórmula 1 en Madrid: «Es una gran inversión que no cuesta al contribuyente madrileño»](https://okdiario.com/deportes/ayuso-carga-contra-gobierno-intentar-que-f1-madrid-no-celebre-cataluna-dan-40-millones-18984483?utm_source=lootura.com) — 2026-07-13T10:27:58.000Z
-- [Heineken España innova con lanzamientos en los segmentos de mayor crecimiento](https://theobjective.com/economia/2026-07-13/heineken-lanzamientos-segmentos-mayor-crecimiento/?utm_source=lootura.com) — 2026-07-13T10:17:43.000Z
+- [Identifican a seis fallecidos en Los Gallardos: un español y cinco extranjeros](https://www.20minutos.es/andalucia/almeria/identifican-seis-fallecidos-los-gallardos-un-espanol-cinco-extranjeros_7013995_0.html?utm_source=lootura.com) — 2026-07-13T12:30:28.000Z
+- [Marta Hazas, sobre por qué no es madre: «De mis 30 a mis 40 no me apetecía pasármelos criando»](https://www.abc.es/gente/marta-hazas-actriz-sobre-madre-claro-apetecia-20260713152627-nt.html?utm_source=lootura.com) — 2026-07-13T13:26:27.000Z
+- [CEOE carga contra la propuesta de Bruselas de subir el IVA al turismo](https://elpais.com/economia/2026-07-13/ceoe-carga-contra-la-propuesta-de-bruselas-de-subir-el-iva-al-turismo.html?utm_source=lootura.com) — 2026-07-13T12:43:57.000Z
+- [¿Cómo ver el eclipse solar en España? Gafas homologadas, lugares y claves para no perderte nada](https://www.elindependiente.com/futuro/2026/07/13/como-ver-eclipse-solar-espana-gafas-lugares-claves-no-perderte-nada/?utm_source=lootura.com) — 2026-07-13T13:31:12.000Z
+- [La Unión Europea quiere regular el acceso a las redes sociales y propondrá una edad mínima para poder usarlas](https://hipertextual.com/tecnologia/union-europea-redes-sociales/?utm_source=lootura.com) — 2026-07-13T11:51:04.000Z
+- [Incendios forestales en España hoy, en directo: última hora de la evolución del fuego](https://www.larazon.es/sociedad/incendios-forestales-espana-hoy-directo-ultima-hora-evolucion-fuego_202607136a54beb9772f745d2c45a5fb.html?outputType=amp&utm_source=lootura.com) — 2026-07-13T14:14:32.000Z
+- [Andalucía registra el triple de superficie quemada que el año pasado tras el incendio de Los Gallardos](https://okdiario.com/okgreen/andalucia-registra-triple-superficie-quemada-que-ano-pasado-incendio-gallardos-18986785?utm_source=lootura.com) — 2026-07-13T14:03:53.000Z
+- [Amazon Business Prime refuerza la gestión inteligente del gasto empresarial aplicando la IA](https://theobjective.com/tecnologia/2026-07-13/amazon-business-prime-gestion-inteligente-empresarial-ia/?amp=&utm_source=lootura.com) — 2026-07-13T14:28:46.000Z
+- [Bruno Mars homenajea a España cortando jamón Maldonado en el Metropolitano](https://theobjective.com/cultura/musica/2026-07-13/bruno-mars-corta-jamon-metropolitano/?utm_source=lootura.com) — 2026-07-13T14:12:39.000Z

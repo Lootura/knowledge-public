@@ -8,9 +8,14 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/russia/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/russia/index.json",
   "description": "Follow Russia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-13T10:58:18.710Z",
+  "updatedAt": "2026-07-13T14:31:32.442Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "Japan Builds Intelligence Agency It Hasn’t Had Since World War II",
+      "summary": "Facing threats from Russia and China, Prime Minister Sanae Takaichi is turning to help from Western allies in forming a centralized agency.",
+      "date": "2026-07-13"
+    },
     {
       "title": "The Next Phase in Ukraine’s War With Russia: The Battle for Minds",
       "summary": "Ukrainians, already drone innovators, are turning their focus to psychological operations aimed at undercutting Russian support for the war.",
@@ -55,32 +60,15 @@
       "title": "10 injured in overnight Russian strikes on Kyiv",
       "summary": "Ukrainian military said its air defenses shot down or suppressed two missiles and 111 drones, while Russia claims its forces targeted drone production facilities in Kyiv.",
       "date": "2026-07-11"
-    },
-    {
-      "title": "Trump admin. to support heavy tariffs on Russian oil in effort to end Ukraine war, sources say",
-      "summary": "The war in Ukraine is now in its fifth year. A bipartisan bill aims to increase economic pressure on Russia if it refuses to negotiate peace with Ukraine.",
-      "date": "2026-07-10"
     }
   ],
   "sources": [
     {
-      "title": "How Putin Turned Japan Into a Den of Spies",
-      "url": "https://www.nytimes.com/2026/07/12/world/asia/russia-spies-japan-war-drones-electronics.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-12T12:14:21.000Z",
-      "sourceId": "lootura-us-the-new-york-times"
-    },
-    {
-      "title": "The Next Phase in Ukraine’s War With Russia: The Battle for Minds",
-      "url": "https://www.nytimes.com/2026/07/13/world/europe/ukraine-war-russia-cognitive-warfare.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-13T09:02:08.000Z",
-      "sourceId": "lootura-us-the-new-york-times-world"
-    },
-    {
-      "title": "Japan Is Building a New Intelligence Agency With Help From the West",
+      "title": "Japan Builds Intelligence Agency It Hasn’t Had Since World War II",
       "url": "https://www.nytimes.com/2026/07/13/world/asia/japan-intelligence-agency.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-13T04:37:31.000Z",
+      "publishedAt": "2026-07-13T12:57:30.000Z",
       "sourceId": "lootura-us-the-new-york-times-world"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 1
 }

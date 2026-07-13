@@ -3,20 +3,20 @@
 > Sigue la actividad de Gobierno de España en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-13T10:57:59.389Z
+- Actualizado: 2026-07-13T14:31:13.122Z
 - Canonical: https://atlas.lootura.com/es/organization/gobierno-de-espana
 
 ## Cambios recientes
 
-### Borja Iglesias responde a Rajoy por sus palabras sobre Francia: "Me sorprende que a estas alturas sigamos con estas cosas"
-
-Las declaraciones del expresidente del Gobierno español, Mariano Rajoy , en las que afirmó que les Bleus son un gran equipo, pero sin franceses, siguen generando multitud de reacciones. El último en pronunciarse al respecto ha sido el internacional español Borja Iglesias . "Francia tiene, además, una plantilla de altís.
-
-Date: 2026-07-13
-
 ### Jean-Marie Le Pen debe de estar aplaudiendo a Rajoy desde su tumba
 
 Marine Le Pen debió de sonreír este fin de semana, o tal vez frunció el ceño de estupefacción, al leer las palabras de Mariano Rajoy sobre la selección francesa de fútbol. El expresidente del Gobierno español elogió en un artículo “la plantilla de altísimo nivel” de Francia, y añadió: “Eso sí, sin franceses”. Son palab.
+
+Date: 2026-07-13
+
+### Borja Iglesias responde a Rajoy por sus palabras sobre Francia: "Me sorprende que a estas alturas sigamos con estas cosas"
+
+Las declaraciones del expresidente del Gobierno español, Mariano Rajoy , en las que afirmó que les Bleus son un gran equipo, pero sin franceses, siguen generando multitud de reacciones. El último en pronunciarse al respecto ha sido el internacional español Borja Iglesias . "Francia tiene, además, una plantilla de altís.
 
 Date: 2026-07-13
 
@@ -70,5 +70,4 @@ Date: 2026-07-10
 
 ## Fuentes
 
-- [Borja Iglesias responde a Rajoy por sus palabras sobre Francia: "Me sorprende que a estas alturas sigamos con estas cosas"](https://www.20minutos.es/deportes/futbol/borja-iglesias-responde-rajoy-por-sus-palabras-sobre-francia-me-sorprende-que-estas-alturas-sigamos-con-estas-cosas_7013805_0.html?utm_source=lootura.com) — 2026-07-13T07:55:55.000Z
 - [Jean-Marie Le Pen debe de estar aplaudiendo a Rajoy desde su tumba](https://elpais.com/opinion/2026-07-13/jean-marie-le-pen-debe-de-estar-aplaudiendo-a-rajoy-desde-su-tumba.html?utm_source=lootura.com) — 2026-07-13T03:30:01.000Z

@@ -3,10 +3,16 @@
 > Follow Russia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-13T10:58:18.710Z
+- Updated: 2026-07-13T14:31:32.442Z
 - Canonical: https://atlas.lootura.com/us/place/russia
 
 ## Recent changes
+
+### Japan Builds Intelligence Agency It Hasn’t Had Since World War II
+
+Facing threats from Russia and China, Prime Minister Sanae Takaichi is turning to help from Western allies in forming a centralized agency.
+
+Date: 2026-07-13
 
 ### The Next Phase in Ukraine’s War With Russia: The Battle for Minds
 
@@ -62,14 +68,6 @@ Ukrainian military said its air defenses shot down or suppressed two missiles an
 
 Date: 2026-07-11
 
-### Trump admin. to support heavy tariffs on Russian oil in effort to end Ukraine war, sources say
-
-The war in Ukraine is now in its fifth year. A bipartisan bill aims to increase economic pressure on Russia if it refuses to negotiate peace with Ukraine.
-
-Date: 2026-07-10
-
 ## Sources
 
-- [How Putin Turned Japan Into a Den of Spies](https://www.nytimes.com/2026/07/12/world/asia/russia-spies-japan-war-drones-electronics.html?utm_source=lootura.com) — 2026-07-12T12:14:21.000Z
-- [The Next Phase in Ukraine’s War With Russia: The Battle for Minds](https://www.nytimes.com/2026/07/13/world/europe/ukraine-war-russia-cognitive-warfare.html?utm_source=lootura.com) — 2026-07-13T09:02:08.000Z
-- [Japan Is Building a New Intelligence Agency With Help From the West](https://www.nytimes.com/2026/07/13/world/asia/japan-intelligence-agency.html?utm_source=lootura.com) — 2026-07-13T04:37:31.000Z
+- [Japan Builds Intelligence Agency It Hasn’t Had Since World War II](https://www.nytimes.com/2026/07/13/world/asia/japan-intelligence-agency.html?utm_source=lootura.com) — 2026-07-13T12:57:30.000Z

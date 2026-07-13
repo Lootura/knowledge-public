@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/united-states/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/united-states/index.json",
   "description": "Follow United States, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-13T10:58:18.710Z",
+  "updatedAt": "2026-07-13T14:31:32.442Z",
   "aliases": [
     "America",
     "Estados Unidos",
@@ -51,18 +51,18 @@
       "date": "2026-07-13"
     },
     {
-      "title": "Heat wave smashes records across central US",
-      "summary": "A record-breaking heat wave baked the central United States on Sunday, smashing temperature records from the northern Plains to the Rocky Mountain region.",
-      "date": "2026-07-13"
-    },
-    {
       "title": "With Lindsey Graham Gone, Ukraine Loses an Ally in Trump’s Ear",
       "summary": "The South Carolina Republican was Ukraine’s most influential champion inside President Trump’s mostly “America First” political orbit.",
       "date": "2026-07-13"
     },
     {
-      "title": "Gap Years Are Wasted on the Young",
-      "summary": "—Photo-Illustration by TIME (Source Images: Maskot, Chunyip Wong—Getty Images) Fresh off the heels of graduation from high school, many rising freshmen are choosing to step off of the treadmill for a year before matriculating in college. Gap years have become a viable option in the United States, where taking a leave o.",
+      "title": "1 person killed in Maine shooting involving ICE, state House speaker says",
+      "summary": "A person was killed during a shooting in Maine involving U.S. Immigration and Customs Enforcement on Monday morning, state House Speaker Ryan Fecteau said.",
+      "date": "2026-07-13"
+    },
+    {
+      "title": "Tributes pour in for Lindsey Graham after his death stuns D.C.",
+      "summary": "Tributes poured in for Sen. Lindsey Graham from Democrats, Republicans, former U.S. presidents and world leaders after his death stunned Capitol Hill. CBS News' Caitlin Huey-Burns has more.",
       "date": "2026-07-13"
     }
   ],
@@ -80,15 +80,27 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
+      "title": "1 person killed in Maine shooting involving ICE, state House speaker says",
+      "url": "https://www.cbsnews.com/news/maine-shooting-ice-biddeford/?utm_source=lootura.com",
+      "publishedAt": "2026-07-13T13:44:21.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
+    {
       "title": "Protests grow in Houston after ICE officer kills Mexican man who'd been living in U.S. for 30 years",
       "url": "https://www.cbsnews.com/video/protests-grow-in-houston-after-ice-officer-kills-mexican-man-whod-been-living-in-us-for-30-years/?utm_source=lootura.com",
       "publishedAt": "2026-07-13T01:03:00.000Z",
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "Keystone Pipeline operator agrees to pay $26.9 million over 2022 oil spill",
-      "url": "https://www.cbsnews.com/news/keystone-pipeline-operator-agrees-pay-26-million-2022-oil-spill/?utm_source=lootura.com",
-      "publishedAt": "2026-07-12T19:11:41.000Z",
+      "title": "Tributes pour in for Lindsey Graham after his death stuns D.C.",
+      "url": "https://www.cbsnews.com/video/tributes-pour-in-sen-lindsey-graham-after-death-stuns-dc/?utm_source=lootura.com",
+      "publishedAt": "2026-07-13T14:01:30.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
+    {
+      "title": "Trump says U.S. will get paid to guard Strait of Hormuz: \"Maybe we",
+      "url": "https://www.cbsnews.com/news/trump-iran-war-us-guardian-strait-of-hormuz-get-paid/?utm_source=lootura.com",
+      "publishedAt": "2026-07-13T14:29:20.000Z",
       "sourceId": "lootura-us-cbs-news"
     },
     {
@@ -98,35 +110,23 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "U.S. and Iran trade strikes and conflicting claims about the Strait of Hormuz",
-      "url": "https://www.nbcnews.com/nightly-news/video/u-s-and-iran-trade-strikes-and-conflicting-claims-about-the-strait-of-hormuz-266568261661?utm_source=lootura.com",
-      "publishedAt": "2026-07-12T23:29:25.000Z",
+      "title": "US and Iran Trade Strikes as Ceasefire Deal Efforts Unravel",
+      "url": "https://www.today.com/video/us-and-iran-trade-strikes-as-ceasefire-deal-efforts-unravel-266581061712?utm_source=lootura.com",
+      "publishedAt": "2026-07-13T11:21:19.000Z",
       "sourceId": "lootura-us-nbc-news"
+    },
+    {
+      "title": "A Look at Lindsey Graham’s Political Legacy and Impact",
+      "url": "https://www.today.com/video/kristen-welker-shares-what-lindsey-graham-was-like-off-camera-266581061699?utm_source=lootura.com",
+      "publishedAt": "2026-07-13T11:17:27.000Z",
+      "sourceId": "lootura-us-nbc-news-politics"
     },
     {
       "title": "Eat your ice cream for a long, healthy life? This doctor says so",
       "url": "https://www.npr.org/2026/07/13/nx-s1-5884664/zeke-emanuel-optimize-health-long-life?utm_source=lootura.com",
       "publishedAt": "2026-07-13T09:00:00.000Z",
       "sourceId": "lootura-us-npr"
-    },
-    {
-      "title": "Morning news brief",
-      "url": "https://www.npr.org/2026/07/13/nx-s1-5885745/morning-news-brief?utm_source=lootura.com",
-      "publishedAt": "2026-07-13T08:48:40.000Z",
-      "sourceId": "lootura-us-npr"
-    },
-    {
-      "title": "A Bible passage is at the center of a debate over how the U.S. should treat immigrants",
-      "url": "https://www.npr.org/2026/07/12/nx-s1-5885947/a-bibe-passage-is-at-the-center-of-a-debate-over-how-the-u-s-should-treat-immigrants?utm_source=lootura.com",
-      "publishedAt": "2026-07-12T11:57:10.000Z",
-      "sourceId": "lootura-us-npr"
-    },
-    {
-      "title": "Georgia's unique in the American Revolution told through its historical markers",
-      "url": "https://www.npr.org/2026/07/12/nx-s1-5886144/georgias-unique-in-the-american-revolution-told-through-its-historical-markers?utm_source=lootura.com",
-      "publishedAt": "2026-07-12T21:08:15.000Z",
-      "sourceId": "lootura-us-npr"
     }
   ],
-  "evidenceCount": 16
+  "evidenceCount": 18
 }

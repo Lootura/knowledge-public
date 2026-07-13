@@ -70,4 +70,4 @@ Date: 2026-07-09
 
 ## Fuentes
 
-- [Quién es Juan Manuel Serrano: así es la discreta vida personal del expresidente de Correos junto a su mujer, Isaura Leal (PSOE)](https://theobjective.com/gente/2026-07-13/quien-es-juan-manuel-serrano-asi-es-la-discreta-vida-personal-del-expresidente-de-correos-junto-a-su-mujer-isaura-leal-psoe/?amp=&utm_source=lootura.com) — 2026-07-13T10:47:42.000Z
+No public source links.

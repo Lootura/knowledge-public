@@ -70,5 +70,4 @@ Date: 2026-07-09
 
 ## Fuentes
 
-- [La Primera de Expansión sobre el apagón, Brookfield, Inditex, Irán, Mitsubishi y la IA china](https://www.expansion.com/podcasts/la-primera-de-expansion/2026/07/13/6a547333e5fdea310f8b458b.html?utm_source=lootura.com) — 2026-07-13T05:39:53.000Z
-- [Subí a un taxi sin conductor en Shenzhen y esto es lo que he aprendido sobre el futuro del transporte](https://okdiario.com/tecnologia/subi-taxi-sin-conductor-shenzhen-esto-lo-que-he-aprendido-sobre-futuro-del-transporte-18984180?utm_source=lootura.com) — 2026-07-13T10:44:12.000Z
+No public source links.

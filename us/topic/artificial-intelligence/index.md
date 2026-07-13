@@ -3,7 +3,7 @@
 > Follow Artificial intelligence, a tracked topic, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: topic
-- Updated: 2026-07-13T10:58:18.710Z
+- Updated: 2026-07-13T14:31:32.442Z
 - Canonical: https://atlas.lootura.com/us/topic/artificial-intelligence
 
 ## Recent changes
@@ -70,8 +70,7 @@ Date: 2026-07-12
 
 ## Sources
 
-- [VHF Propagation: What Every RF Engineer Should Know](https://content.knowledgehub.wiley.com/understanding-vhf-very-high-frequency-propagation/?utm_source=lootura.com) — 2026-07-13T10:00:01.000Z
+- [Building a Foundation Stack for General-Purpose Robots](https://spectrum.ieee.org/x-square-robot-embodied-ai-stack?utm_source=lootura.com) — 2026-07-13T10:19:51.000Z
 - [Daily briefing: Preprints are chock-full of authors’ private info](https://www.nature.com/articles/d41586-026-02198-w?utm_source=lootura.com) — 2026-07-13T10:58:22.942Z
-- [Which ‘AI scientist’ suits your lab? A guide for the perplexed](https://www.nature.com/articles/d41586-026-02091-6?utm_source=lootura.com) — 2026-07-13T10:58:22.941Z
-- [Does AI work for us, or do we work for AI?](https://www.science.org/doi/abs/10.1126/science.aei9754?af=R&utm_source=lootura.com) — 2026-07-13T10:58:23.158Z
-- [Waze is getting a bunch of new AI-powered features](https://www.theverge.com/transportation/964132/waze-gemini-ai-voice-commands-less-chatty?utm_source=lootura.com) — 2026-07-13T09:00:00.000Z
+- [Which ‘AI scientist’ suits your lab? A guide for the perplexed](https://www.nature.com/articles/d41586-026-02091-6?utm_source=lootura.com) — 2026-07-13T14:31:36.786Z
+- [Does AI work for us, or do we work for AI?](https://www.science.org/doi/abs/10.1126/science.aei9754?af=R&utm_source=lootura.com) — 2026-07-13T14:31:36.969Z

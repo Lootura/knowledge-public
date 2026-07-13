@@ -3,10 +3,16 @@
 > Sigue la actividad de Alberto Núñez Feijóo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-12T16:56:25.039Z
+- Actualizado: 2026-07-13T14:31:13.122Z
 - Canonical: https://atlas.lootura.com/es/person/alberto-nunez-feijoo
 
 ## Cambios recientes
+
+### Vox pide a Feijóo centrarse en Sánchez, "no meterse en jardines" como el de las bajas laborales y "estar más preparado" si les copia en inmigración
+
+Casi una semana después de que el presidente del PP, Alberto Núñez Feijóo , se pronunciase sobre las bajas laborales, lo vinculase con absentismo laboral y hablase del asunto como un "cáncer" para la economía, encontró respuesta por parte de Vox a través de su portavoz nacional, José Antonio Fúster . También por el lig.
+
+Date: 2026-07-13
 
 ### La espiral xenófoba: así se han endurecido el discurso derechista y el clima social contra la inmigración
 
@@ -62,12 +68,7 @@ Los incendios que están poniendo en jaque a los distintos servicios de extinci�
 
 Date: 2026-07-11
 
-### Objetivo 2027: Feijóo se multiplica por el territorio y convoca a sus alcaldes en Santiago
-
-ha llenado su agenda de actos y reuniones fuera de Madrid en las últimas semanas. Barcelona, Castellón, Murcia, Pamplona, Santander, Bilbao o Valladolid han sido algunas de las ciudades que ha pisado un líder del PP que piensa ya en la carrera de fondo que exige el ciclo electoral que arranca en se.
-
-Date: 2026-07-11
-
 ## Fuentes
 
-No public source links.
+- [Albares acusa a Rajoy de «boicotear la extraordinaria política exterior que tiene ahora España»](https://www.abc.es/espana/albares-acusa-rajoy-boicotear-extraordinaria-politica-exterior-20260713125000-nt.html?utm_source=lootura.com) — 2026-07-13T13:49:30.000Z
+- [Vox pide a Feijóo centrarse en Sánchez, "no meterse en jardines" como el de las bajas laborales y "estar más preparado" si les copia en inmigración](https://www.elindependiente.com/espana/2026/07/13/vox-feijoo-no-jardines-sanchez-absentismo-preparado-copiar-inmigracion/?utm_source=lootura.com) — 2026-07-13T12:26:45.000Z

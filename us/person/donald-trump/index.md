@@ -3,7 +3,7 @@
 > Follow Donald Trump, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-07-13T10:58:18.710Z
+- Updated: 2026-07-13T14:31:32.442Z
 - Canonical: https://atlas.lootura.com/us/person/donald-trump
 
 ## Recent changes
@@ -38,21 +38,27 @@ The South Carolina Republican was Ukraine’s most influential champion inside P
 
 Date: 2026-07-13
 
+### Trump says U.S. will get paid to guard Strait of Hormuz: "Maybe we
+
+President Trump said, "We.
+
+Date: 2026-07-13
+
+### US and Iran Trade Strikes as Ceasefire Deal Efforts Unravel
+
+The United States and Iran traded even more attacks, some of the most intense in months, as the already fragile ceasefire continues to unravel. On Sunday, President Donald Trump told Kristen Welker on Meet the Press that the Strait of Hormuz remains open – even though Iran said earlier that it was closed. NBC’s Matt Br.
+
+Date: 2026-07-13
+
+### As Trump Brands Them ‘Godless Communists,’ Democrats Divided on How to Respond
+
+President Donald Trump speaks at the Independence Day celebration on the National Mall in Washington, DC, on July 4, 2026. —Alex Wroblewski–AFP via Getty Images More than three decades after the fall of the Berlin Wall, a U.S. President is once again casting the threat of communism as one of the biggest issues facing A.
+
+Date: 2026-07-13
+
 ### A Bible passage is at the center of a debate over how the U.S. should treat immigrants
 
 A debate over the Bible verse Matthew 25 is pitting mainline pastors, Black protestants and the pope against evangelical politicians put on the defensive over President Trump's policies.
-
-Date: 2026-07-12
-
-### From staunch critic to fierce ally: Graham's long, strange and consequential friendship with Trump
-
-After the Capitol riot on Jan. 6, 2021, Sen. Lindsey Graham said he had finally had enough of the man who was championed by the mob that stormed the pillar of American democracy: President Donald Trump.
-
-Date: 2026-07-12
-
-### Lindsey Graham remembered for a vision of American foreign policy that's fading in Washington
-
-Graham was a rare bridge between President Donald Trump's "America First" foreign policy and the traditional Washington consensus prioritizing alliances with Europe and Israel, one falling out of favor with many in both political parties.
 
 Date: 2026-07-12
 
@@ -62,19 +68,13 @@ Longtime Republican Sen. Lindsey Graham has died at the age of 71. The foreign p
 
 Date: 2026-07-12
 
-### Politics chat: Lindsey Graham dies at 71, Congress back in session, U.S. strikes Iran
-
-South Carolina Senator Lindsey Graham's sudden death at 71 has shocked Washington. Once a fierce critic of then-candidate Donald Trump, he became one of the president's most consistent defenders.
-
-Date: 2026-07-12
-
 ## Sources
 
 - [Sen. Lindsey Graham's cause of death was aortic dissection, medical examiner says](https://www.cbsnews.com/news/senator-lindsey-graham-dies-after-brief-and-sudden-illness/?utm_source=lootura.com) — 2026-07-13T10:30:00.000Z
-- [A Bible passage is at the center of a debate over how the U.S. should treat immigrants](https://www.npr.org/2026/07/12/nx-s1-5885947/a-bibe-passage-is-at-the-center-of-a-debate-over-how-the-u-s-should-treat-immigrants?utm_source=lootura.com) — 2026-07-12T11:57:10.000Z
+- [Trump says U.S. will get paid to guard Strait of Hormuz: "Maybe we](https://www.cbsnews.com/news/trump-iran-war-us-guardian-strait-of-hormuz-get-paid/?utm_source=lootura.com) — 2026-07-13T14:29:20.000Z
+- [US and Iran Trade Strikes as Ceasefire Deal Efforts Unravel](https://www.today.com/video/us-and-iran-trade-strikes-as-ceasefire-deal-efforts-unravel-266581061712?utm_source=lootura.com) — 2026-07-13T11:21:19.000Z
 - [Former member of federal Election Assistance Commission speaks out after dismissal](https://www.npr.org/2026/07/13/nx-s1-5891002/former-member-of-federal-election-assistance-commission-speaks-out-after-dismissal?utm_source=lootura.com) — 2026-07-13T08:46:32.000Z
-- [From staunch critic to fierce ally: Graham's long, strange and consequential friendship with Trump](https://www.pbs.org/newshour/politics/from-staunch-critic-to-fierce-ally-grahams-long-strange-and-consequential-friendship-with-trump?utm_source=lootura.com) — 2026-07-12T19:45:01.000Z
-- [Lindsey Graham remembered for a vision of American foreign policy that's fading in Washington](https://www.pbs.org/newshour/politics/lindsey-graham-remembered-for-a-vision-of-american-foreign-policy-thats-fading-in-washington?utm_source=lootura.com) — 2026-07-12T22:40:48.000Z
-- [Mercurial and Magnetic, Lindsey Graham Was a Force in the Senate](https://www.nytimes.com/2026/07/13/us/politics/lindsey-graham-senate-force.html?utm_source=lootura.com) — 2026-07-13T09:02:52.000Z
+- [Mercurial and Magnetic, Lindsey Graham Was a Force in the Senate](https://www.nytimes.com/2026/07/13/us/politics/lindsey-graham-senate-force.html?utm_source=lootura.com) — 2026-07-13T12:23:14.000Z
 - [Michael Cohen Helped Convict Trump. Now, He’s Making Nice Again.](https://www.nytimes.com/2026/07/12/us/politics/trump-cohen-meeting-show.html?utm_source=lootura.com) — 2026-07-13T01:17:02.000Z
-- [With Lindsey Graham Gone, Ukraine Loses an Ally in Trump’s Ear](https://www.nytimes.com/2026/07/12/us/lindsey-graham-ukraine.html?utm_source=lootura.com) — 2026-07-13T09:10:17.000Z
+- [With Lindsey Graham Gone, Ukraine Loses an Ally in Trump’s Ear](https://www.nytimes.com/2026/07/12/us/lindsey-graham-ukraine.html?utm_source=lootura.com) — 2026-07-13T12:12:41.000Z
+- [As Trump Brands Them ‘Godless Communists,’ Democrats Divided on How to Respond](https://time.com/article/2026/07/13/as-trump-brands-them-godless-communists-democrats-divided-on-how-to-respond/?utm_source=lootura.com) — 2026-07-13T11:00:00.000Z

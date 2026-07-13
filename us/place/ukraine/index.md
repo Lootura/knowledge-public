@@ -3,7 +3,7 @@
 > Follow Ukraine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-13T10:58:18.710Z
+- Updated: 2026-07-13T14:31:32.442Z
 - Canonical: https://atlas.lootura.com/us/place/ukraine
 
 ## Recent changes
@@ -14,23 +14,23 @@ The South Carolina Republican was Ukraine’s most influential champion inside P
 
 Date: 2026-07-13
 
-### The Next Phase in Ukraine’s War With Russia: The Battle for Minds
-
-Ukrainians, already drone innovators, are turning their focus to psychological operations aimed at undercutting Russian support for the war.
-
-Date: 2026-07-13
-
 ### A Robot Army Remakes Ground Warfare in Ukraine
 
 They began as supply mules. Now ground robots evacuate the wounded, hold trenches and even do the killing.
 
 Date: 2026-07-13
 
-### Margaret Brennan: I spoke with Lindsey Graham a day before he died
+### A Look at Lindsey Graham’s Political Legacy and Impact
 
-Fierce Ukraine supporter Lindsey Graham passed away Saturday on the heels of his tenth trip to the warzone, and at a key moment for one of the Republican senator's proudest accomplishments.
+Meet the Press Moderator Kristen Welker joins TODAY to discuss Sen. Lindsey Graham’s vast political legacy and share what he was like off camera. She also breaks down how his death impacts United States foreign policy with the wars in Iran and Ukraine.
 
-Date: 2026-07-12
+Date: 2026-07-13
+
+### The Next Phase in Ukraine’s War With Russia: The Battle for Minds
+
+Ukrainians, already drone innovators, are turning their focus to psychological operations aimed at undercutting Russian support for the war.
+
+Date: 2026-07-13
 
 ### Ukraine's prime minister resigns; Zelenskyy shifts several government roles
 
@@ -62,14 +62,14 @@ President Volodymyr Zelensky said Ukraine’s prime minister, Yuliia Svyrydenko,
 
 Date: 2026-07-12
 
-### Lindsey Graham Dies at 71: A Look Back at His Influential Career
+### Zelensky Announces Leadership Shuffle as War Turns in Ukraine’s Favor
 
-Lindsey Graham, an Air Force veteran from South Carolina and one of the most influential senators in American foreign policy, has died at 71. Graham had just returned from a lengthy trip to Ukraine and Ankara, Turkey. NBC’s Julie Tsirkin reports for Sunday TODAY.
+President Volodymyr Zelensky said Ukraine’s prime minister, Yuliia Svyrydenko, would step down amid a broader shake-up in Ukraine’s senior leadership.
 
 Date: 2026-07-12
 
 ## Sources
 
-- [With Lindsey Graham Gone, Ukraine Loses an Ally in Trump’s Ear](https://www.nytimes.com/2026/07/12/us/lindsey-graham-ukraine.html?utm_source=lootura.com) — 2026-07-13T09:10:17.000Z
-- [The Next Phase in Ukraine’s War With Russia: The Battle for Minds](https://www.nytimes.com/2026/07/13/world/europe/ukraine-war-russia-cognitive-warfare.html?utm_source=lootura.com) — 2026-07-13T09:02:08.000Z
-- [A Robot Army Remakes Ground Warfare in Ukraine](https://www.nytimes.com/2026/07/13/world/europe/ukraine-ground-robots.html?utm_source=lootura.com) — 2026-07-13T09:00:23.000Z
+- [A Look at Lindsey Graham’s Political Legacy and Impact](https://www.today.com/video/kristen-welker-shares-what-lindsey-graham-was-like-off-camera-266581061699?utm_source=lootura.com) — 2026-07-13T11:17:27.000Z
+- [With Lindsey Graham Gone, Ukraine Loses an Ally in Trump’s Ear](https://www.nytimes.com/2026/07/12/us/lindsey-graham-ukraine.html?utm_source=lootura.com) — 2026-07-13T12:12:41.000Z
+- [A Robot Army Remakes Ground Warfare in Ukraine](https://www.nytimes.com/2026/07/13/world/europe/ukraine-ground-robots.html?utm_source=lootura.com) — 2026-07-13T12:04:25.000Z
