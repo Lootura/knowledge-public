@@ -1,15 +1,15 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-13T17:57:56.218Z",
+  "generatedAt": "2026-07-13T20:27:18.514Z",
   "radar": {
     "id": "es",
     "slug": "es",
     "locale": "es"
   },
   "state": {
-    "signature": "1.15.0|13|1783965168684",
-    "version": "1.15.0",
-    "build": 13,
+    "signature": "1.15.1|2|1783965168684",
+    "version": "1.15.1",
+    "build": 2,
     "latestEntityUpdatedAt": "2026-07-13T17:52:48.684Z"
   },
   "atlas": {
@@ -21,7 +21,7 @@
       "url": "https://atlas.lootura.com/es/person/begona-gomez",
       "path": "/es/person/begona-gomez",
       "updatedAt": "2026-07-13T17:52:48.684Z",
-      "score": 1559,
+      "score": 1547,
       "sourceCount": 11,
       "isBreaking": false,
       "isPinned": false
@@ -35,7 +35,7 @@
         "url": "https://atlas.lootura.com/es/person/pedro-sanchez",
         "path": "/es/person/pedro-sanchez",
         "updatedAt": "2026-07-13T17:52:48.684Z",
-        "score": 1553,
+        "score": 1541,
         "sourceCount": 72,
         "isBreaking": false,
         "isPinned": false
@@ -48,7 +48,7 @@
         "url": "https://atlas.lootura.com/es/place/united-states",
         "path": "/es/place/united-states",
         "updatedAt": "2026-07-13T17:52:48.684Z",
-        "score": 1553,
+        "score": 1540,
         "sourceCount": 56,
         "isBreaking": false,
         "isPinned": false
@@ -61,7 +61,7 @@
         "url": "https://atlas.lootura.com/es/place/iran",
         "path": "/es/place/iran",
         "updatedAt": "2026-07-13T17:52:48.684Z",
-        "score": 1546,
+        "score": 1533,
         "sourceCount": 52,
         "isBreaking": false,
         "isPinned": false
@@ -74,7 +74,7 @@
         "url": "https://atlas.lootura.com/es/organization/partido-popular",
         "path": "/es/organization/partido-popular",
         "updatedAt": "2026-07-13T17:52:48.684Z",
-        "score": 1543,
+        "score": 1531,
         "sourceCount": 61,
         "isBreaking": false,
         "isPinned": false
