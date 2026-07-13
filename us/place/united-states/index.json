@@ -8,13 +8,38 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/united-states/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/united-states/index.json",
   "description": "Follow United States, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-12T20:42:32.118Z",
+  "updatedAt": "2026-07-13T02:33:56.207Z",
   "aliases": [
     "America",
     "Estados Unidos",
     "U.S."
   ],
   "changes": [
+    {
+      "title": "58 million under heat alerts as extreme temperatures scorch western U.S.",
+      "summary": "Heat alerts were issued for millions across parts of the western U.S. Sunday as an unusually prolonged heat dome reached its peak.",
+      "date": "2026-07-13"
+    },
+    {
+      "title": "Protests grow in Houston after ICE officer kills Mexican man who'd been living in U.S. for 30 years",
+      "summary": "Protests have been building in Houston after ICE officers killed a Mexican man who had lived in the U.S. more than 30 years. Local investigators and activists are still searching for video to explain what happened. Jason Allen reports.",
+      "date": "2026-07-13"
+    },
+    {
+      "title": "Extreme heat, wildfires and severe thunderstorms affecting millions across the U.S.",
+      "summary": "More than 58 million Americans under weather alerts Sunday as wildfires burn in the west and severe thunderstorms impact large swaths of the country. Carter Evans reports and Andrew Kozak takes a look at the forecast.",
+      "date": "2026-07-13"
+    },
+    {
+      "title": "Lindsey Graham, Republican Senator and Trump Ally, Dies From ‘Sudden Illness’",
+      "summary": "He consistently pushed for the use of U.S. military power overseas. The Washington, D.C., medical examiner said he died of an aortic dissection, a tear in the body’s main artery.",
+      "date": "2026-07-13"
+    },
+    {
+      "title": "Oil Rises After Weekend of Back-and-Forth Strikes by U.S. and Iran",
+      "summary": "The renewed hostilities posed fresh risks to ships seeking to navigate the Strait of Hormuz.",
+      "date": "2026-07-13"
+    },
     {
       "title": "The World Is Cutting Ties With America. It’s Already Costing Us.",
       "summary": "When other countries cut ties, Americans pay.",
@@ -39,38 +64,25 @@
       "title": "Politics chat: Lindsey Graham dies at 71, Congress back in session, U.S. strikes Iran",
       "summary": "South Carolina Senator Lindsey Graham's sudden death at 71 has shocked Washington. Once a fierce critic of then-candidate Donald Trump, he became one of the president's most consistent defenders.",
       "date": "2026-07-12"
-    },
-    {
-      "title": "Younger Voters Are Propelling the Democratic Socialist Surge in New York",
-      "summary": "Age seemed to be the predominant factor in the Democratic Socialists of America’s primary wins in House races in New York City.",
-      "date": "2026-07-12"
-    },
-    {
-      "title": "40 million under alerts as heat dome peaks across western U.S.",
-      "summary": "Heat alerts were issued for millions across parts of the western U.S. Sunday as an unusually prolonged heat dome reached its peak.",
-      "date": "2026-07-12"
-    },
-    {
-      "title": "Transcript: Israeli Ambassador Michael Leiter on",
-      "summary": "The following is the transcript of an interview with Israeli Ambassador to the U.S. Michael Leiter that aired on.",
-      "date": "2026-07-12"
-    },
-    {
-      "title": "Adam Schiff remembers Lindsey Graham as ‘larger than life’: Full interview",
-      "summary": "Sen. Adam Schiff (D-Calif.) joins Meet the Press to reflect on the passing of his colleague Sen. Lindsey Graham (R-S.C.) and discuss the U.S. war with Iran as both countries continue to trade strikes.",
-      "date": "2026-07-12"
-    },
-    {
-      "title": "Lindsey Graham, Republican Senator and Trump Ally, Dies From ‘Sudden Illness’",
-      "summary": "He died from “a brief and sudden illness,” his office said. Over more than two decades in the Senate, he consistently pushed for the use of U.S. military power overseas.",
-      "date": "2026-07-12"
     }
   ],
   "sources": [
     {
-      "title": "40 million under alerts as heat dome peaks across western U.S.",
+      "title": "U.S. launches another round of strikes on Iran",
+      "url": "https://www.cbsnews.com/video/us-launches-another-round-of-strikes-on-iran/?utm_source=lootura.com",
+      "publishedAt": "2026-07-13T00:55:00.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
+    {
+      "title": "58 million under heat alerts as extreme temperatures scorch western U.S.",
       "url": "https://www.cbsnews.com/news/40-million-under-alerts-heat-dome-peaks-western-us/?utm_source=lootura.com",
-      "publishedAt": "2026-07-12T16:29:09.000Z",
+      "publishedAt": "2026-07-13T01:53:59.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
+    {
+      "title": "Protests grow in Houston after ICE officer kills Mexican man who'd been living in U.S. for 30 years",
+      "url": "https://www.cbsnews.com/video/protests-grow-in-houston-after-ice-officer-kills-mexican-man-whod-been-living-in-us-for-30-years/?utm_source=lootura.com",
+      "publishedAt": "2026-07-13T01:03:00.000Z",
       "sourceId": "lootura-us-cbs-news"
     },
     {
@@ -98,6 +110,12 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
+      "title": "Extreme heat, wildfires and severe thunderstorms affecting millions across the U.S.",
+      "url": "https://www.cbsnews.com/video/extreme-heat-wildfires-and-severe-thunderstorms-affecting-millions-across-the-us/?utm_source=lootura.com",
+      "publishedAt": "2026-07-13T01:22:00.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
+    {
       "title": "Adam Schiff remembers Lindsey Graham as ‘larger than life’: Full interview",
       "url": "https://www.nbcnews.com/meet-the-press/video/adam-schiff-remembers-lindsey-graham-as-larger-than-life-full-interview-266560069770?utm_source=lootura.com",
       "publishedAt": "2026-07-12T13:55:07.000Z",
@@ -108,25 +126,7 @@
       "url": "https://www.npr.org/2026/07/12/nx-s1-5885947/a-bibe-passage-is-at-the-center-of-a-debate-over-how-the-u-s-should-treat-immigrants?utm_source=lootura.com",
       "publishedAt": "2026-07-12T11:57:10.000Z",
       "sourceId": "lootura-us-npr"
-    },
-    {
-      "title": "What a Monopoly importer learned when it tried to make things in the U.S.A.",
-      "url": "https://www.npr.org/2026/07/12/nx-s1-5887378/monopoly-tariffs-china-manufacturing-made-inusa?utm_source=lootura.com",
-      "publishedAt": "2026-07-12T09:00:00.000Z",
-      "sourceId": "lootura-us-npr"
-    },
-    {
-      "title": "Politics chat: Lindsey Graham dies at 71, Congress back in session, U.S. strikes Iran",
-      "url": "https://www.npr.org/2026/07/12/nx-s1-5887274/politics-chat-lindsey-graham-dies-at-71-congress-back-in-session-u-s-strikes-iran?utm_source=lootura.com",
-      "publishedAt": "2026-07-12T11:57:11.000Z",
-      "sourceId": "lootura-us-npr-politics"
-    },
-    {
-      "title": "When managing your money, take a chatbot's 'confidence' with a grain of salt",
-      "url": "https://www.pbs.org/newshour/economy/when-managing-your-money-take-a-chatbots-confidence-with-a-grain-of-salt?utm_source=lootura.com",
-      "publishedAt": "2026-07-12T18:57:09.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
     }
   ],
-  "evidenceCount": 16
+  "evidenceCount": 22
 }

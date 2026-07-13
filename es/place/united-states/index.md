@@ -3,7 +3,7 @@
 > Sigue la actividad de Estados Unidos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-12T20:42:08.067Z
+- Actualizado: 2026-07-13T02:33:34.884Z
 - Canonical: https://atlas.lootura.com/es/place/united-states
 
 ## Cambios recientes
@@ -11,6 +11,18 @@
 ### Irán subraya que el tráfico por Ormuz está detenido por «movimientos ilegales de EEUU»
 
 Las autoridades iraníes han subrayado este domingo que el tráfico por el estrecho de Ormuz se encuentra suspendido provisionalmente, una información que contrasta con la que procede de Estados Unidos , que sostiene que el tráfico «fluye con normalidad». «Debido a los recientes movimientos ilegales de fuerzas militares.
+
+Date: 2026-07-12
+
+### BBVA y Santander tienen los bancos de inversión que más crecen de Europa
+
+No hay banco de inversión en Europa que crezca más en ingresos por comisiones que BBVA y Santander . Los fichajes y el refuerzo que ambos han hecho en centros financieros clave, con Estados Unidos a la cabeza , están permitiendo a las dos entidades distanciarse de todos sus grandes rivales. Seguir leyendo.
+
+Date: 2026-07-12
+
+### ¿Cómo queda el tablero de la defensa europea tras el reajuste táctico de la OTAN en Ankara?
+
+Para los aliados de Estados Unidos, las cumbres de la OTAN de ahora consisten en un ejercicio para contener daños y evitar reproches de Donald Trump. La “relación especial” entre la superpotencia estadounidense y la Unión Europea (UE) está tocada , pues ya no se puede dar por descontado el apoyo de Washington. La cumbr.
 
 Date: 2026-07-12
 
@@ -56,18 +68,8 @@ United States first entered the public knowledge record with source-backed evide
 
 Date: 2026-07-11
 
-### ¿Por qué los estadounidenses están huyendo de su país? "El sueño americano ya no existe allí, estamos buscando una vida mejor en España"
-
-El ideal que durante siglos definió a Estados Unidos como la tierra de las oportunidades , donde el esfuerzo personal garantizaba el acceso a una vivienda propia y la formación de una familia sin hipotecar el futuro, se desmorona ante la realidad económica actual . Según analizan diversos testimonios, el coste de la pr.
-
-Date: 2026-07-11
-
-### EE.UU. se pasa el juego: crea una chaqueta de hidrogel que captura del aire casi un litro de agua potable al día por medio de la energía solar
-
-Algunos países están creando grandes obras de ingeniería para recolectar agua potable . Sin embargo, Estados Unidos (EE.UU.) está apostando por una solución más individualizada. Y, aunque suene a ciencia ficción, se trata de una chaqueta que aprovecha la energía solar . Según recogen en la revista especializada Science.
-
-Date: 2026-07-11
-
 ## Fuentes
 
+- [BBVA y Santander tienen los bancos de inversión que más crecen de Europa](https://www.expansion.com/empresas/banca/2026/07/13/6a2ff7e3468aeb76448b457b.html?utm_source=lootura.com) — 2026-07-12T22:02:03.000Z
+- [¿Cómo queda el tablero de la defensa europea tras el reajuste táctico de la OTAN en Ankara?](https://theconversation.com/como-queda-el-tablero-de-la-defensa-europea-tras-el-reajuste-tactico-de-la-otan-en-ankara-287217?utm_source=lootura.com) — 2026-07-12T21:58:48.000Z
 - [Irán subraya que el tráfico por Ormuz está detenido por «movimientos ilegales de EEUU»](https://theobjective.com/internacional/2026-07-12/iran-ormuz-movimientos-ilegales-eeuu/?utm_source=lootura.com) — 2026-07-12T17:38:51.000Z

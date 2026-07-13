@@ -3,10 +3,22 @@
 > Sigue la actividad de Madrid en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-12T20:42:08.067Z
+- Actualizado: 2026-07-13T02:33:34.884Z
 - Canonical: https://atlas.lootura.com/es/place/madrid
 
 ## Cambios recientes
+
+### Del hot pilates al Lagree: nuevas formas de entrenar que conquistan Madrid (también cuando aprieta el calor)
+
+El gimnasio tradicional ya no es el único lugar donde ponerse en forma. En los últimos años, Madrid se ha convertido en uno de los principales escaparates del fitness boutique en Europa y la oferta no deja de crecer. A las clásicas salas de musculación se suman ahora estudios especializados y clubes deportivos que busc.
+
+Date: 2026-07-13
+
+### Laporta manda un aviso al Atlético por Julián: «No vamos a bailar la música a nadie»
+
+Joan Laporta ha mandado un aviso en la noche de este domingo desde Dallas al Atlético de Madrid por Julián Álvarez. El presidente del Barcelona anunció que han realizado una oferta importante para fichar al delantero argentino, pero también aclaró que esa oferta caduca, ya que no están dispuestos a bailarle al agua a n.
+
+Date: 2026-07-12
 
 ### El pantano de San Juan suma otra víctima: hallan el cadáver de un joven de 28 años en una zona de gran profundidad
 
@@ -56,18 +68,7 @@ En el sorteo de la Bonoloto celebrado este sábado hay un boleto de la primera c
 
 Date: 2026-07-12
 
-### Un juez avala que unos madrileños mantengan su aire acondicionado en la fachada
-
-El Juzgado de Primera Instancia número 62 de Madrid ha desestimado la demanda presentada por una comunidad de propietarios contra los dueños de una vivienda a los que pretendía obligar a trasladar unos aparatos de aire acondicionado instalados en la fachada, al considerar que la instalación contaba con autorización pre.
-
-Date: 2026-07-12
-
-### El tiempo para hoy en Madrid: bajan las máximas y posibles chubascos
-
-La previsión de la Agencia Estatal de Meteorología (Aemet) en la Comunidad de Madrid para este domingo apunta a un descenso generalizado de las temperaturas máximas que irá posiblemente acompañado de algunos chubascos dispersos de madrugada en la mitad occidental de la región. Asimismo, la Aemet prevé mínimas en ascens.
-
-Date: 2026-07-12
-
 ## Fuentes
 
-- [El pantano de San Juan suma otra víctima: hallan el cadáver de un joven de 28 años en una zona de gran profundidad](https://www.abc.es/espana/madrid/pantano-san-juan-suma-victima-encuentran-cadaver-20260712184302-nt.html?utm_source=lootura.com) — 2026-07-12T17:33:30.000Z
+- [Del hot pilates al Lagree: nuevas formas de entrenar que conquistan Madrid (también cuando aprieta el calor)](https://www.larazon.es/madrid/hot-pilates-lagree-nuevas-formas-entrenar-que-conquistan-madrid-tambien-cuando-aprieta-calor_202607136a5440b9772f745d2c44c2cc.html?utm_source=lootura.com) — 2026-07-13T01:34:49.000Z
+- [Laporta manda un aviso al Atlético por Julián: «No vamos a bailar la música a nadie»](https://okdiario.com/deportes/laporta-manda-aviso-atletico-julian-no-vamos-bailar-musica-nadie-18981979?utm_source=lootura.com) — 2026-07-12T22:01:11.000Z

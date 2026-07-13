@@ -3,7 +3,7 @@
 > Sigue la actividad de Donald Trump en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-12T20:42:08.067Z
+- Actualizado: 2026-07-13T02:33:34.884Z
 - Canonical: https://atlas.lootura.com/es/person/donald-trump
 
 ## Cambios recientes
@@ -11,6 +11,12 @@
 ### Muere el senador republicano Lindsey Graham, el último 'gran halcón' de Washington
 
 Principal impulsor de la guerra en Irán, defensor de Israel y de las sanciones a Moscú, se convirtió en uno de los principales asesores de Trump, al que había despreciado y criticado en el pasado Leer.
+
+Date: 2026-07-12
+
+### ¿Cómo queda el tablero de la defensa europea tras el reajuste táctico de la OTAN en Ankara?
+
+Para los aliados de Estados Unidos, las cumbres de la OTAN de ahora consisten en un ejercicio para contener daños y evitar reproches de Donald Trump. La “relación especial” entre la superpotencia estadounidense y la Unión Europea (UE) está tocada , pues ya no se puede dar por descontado el apoyo de Washington. La cumbr.
 
 Date: 2026-07-12
 
@@ -62,12 +68,7 @@ La información aseguraba que el aparato, regalado por Qatar, carecía de alguna
 
 Date: 2026-07-11
 
-### Trump asegura que hay «mil misiles listos» para atacar Irán si cumple su amenaza de muerte
-
-El presidente estadounidense, Donald Trump , ha asegurado que cuenta con hasta un millar de proyectiles listos para cargar contra Irán en caso de que las autoridades de la República Islámica cumplan con sus advertencias y atenten contra la vida del mandatario, en un contexto de renovada tensión en el que Teherán ha acu.
-
-Date: 2026-07-11
-
 ## Fuentes
 
 - [Muere el senador republicano Lindsey Graham, el último 'gran halcón' de Washington](https://www.elmundo.es/internacional/2026/07/12/6a533d57e85ece547c8b458b.html?utm_source=lootura.com) — 2026-07-12T14:55:24.000Z
+- [¿Cómo queda el tablero de la defensa europea tras el reajuste táctico de la OTAN en Ankara?](https://theconversation.com/como-queda-el-tablero-de-la-defensa-europea-tras-el-reajuste-tactico-de-la-otan-en-ankara-287217?utm_source=lootura.com) — 2026-07-12T21:58:48.000Z

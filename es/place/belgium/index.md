@@ -70,4 +70,4 @@ Date: 2026-07-09
 
 ## Fuentes
 
-- [Bélgica apunta a tres posibles víctimas belgas entre los fallecidos en el incendio de Los Gallardos](https://www.20minutos.es/andalucia/almeria/belgica-apunta-posibles-victimas-belgas-entre-fallecidos-incendio-gallardos_7013723_0.html?utm_source=lootura.com) — 2026-07-12T18:44:30.000Z
+No public source links.

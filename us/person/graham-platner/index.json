@@ -8,11 +8,16 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/graham-platner/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/graham-platner/index.json",
   "description": "Follow Graham Platner, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-12T16:56:46.923Z",
+  "updatedAt": "2026-07-13T02:33:56.207Z",
   "aliases": [
     "Platner"
   ],
   "changes": [
+    {
+      "title": "US congressman says ‘IDF is lying’ about his detention by settlers and soldiers",
+      "summary": "Israeli ambassador to US accuses Ro Khanna of political stunt to distract from support for Graham Platner Ro Khanna accused the Israeli government and military of “lying” on Sunday about the US congressman’s detention by armed settlers and Israeli soldiers during a recent visit to the Israeli-occupied West Bank. Khanna.",
+      "date": "2026-07-12"
+    },
     {
       "title": "Maine Democrats Will Replace Graham Platner. Here’s What to Know.",
       "summary": "Mr. Platner’s withdrawal from a marquee Senate race, under pressure from his party, has set in motion an unusual competition to become the new nominee.",
@@ -57,13 +62,15 @@
       "title": "Graham Platner makes it official in Maine, submitting paperwork to leave Senate race",
       "summary": "In his withdrawal notice, Platner said \"people are desperate for change\" and that's why they made him the Democratic nominee. Now, Maine Democrats have to pick someone to replace him by July 27. (Image credit: CJ Gunther).",
       "date": "2026-07-10"
-    },
-    {
-      "title": "Product availability changed in Europe",
-      "summary": "The last-minute scramble to name a replacement reminds some in the party of the challenges they faced in 2024.",
-      "date": "2026-07-10"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "US congressman says ‘IDF is lying’ about his detention by settlers and soldiers",
+      "url": "https://www.theguardian.com/us-news/2026/jul/12/ro-khanna-israel-detention-reaction?utm_source=lootura.com",
+      "publishedAt": "2026-07-12T20:25:43.000Z",
+      "sourceId": "lootura-us-the-guardian-us"
+    }
+  ],
+  "evidenceCount": 1
 }

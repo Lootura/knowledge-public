@@ -3,7 +3,7 @@
 > Sigue la actividad de Mijas en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-12T20:42:08.067Z
+- Actualizado: 2026-07-13T02:33:34.884Z
 - Canonical: https://atlas.lootura.com/es/place/mijas
 
 ## Cambios recientes

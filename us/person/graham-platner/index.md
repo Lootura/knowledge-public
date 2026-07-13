@@ -3,10 +3,16 @@
 > Follow Graham Platner, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-07-12T16:56:46.923Z
+- Updated: 2026-07-13T02:33:56.207Z
 - Canonical: https://atlas.lootura.com/us/person/graham-platner
 
 ## Recent changes
+
+### US congressman says ‘IDF is lying’ about his detention by settlers and soldiers
+
+Israeli ambassador to US accuses Ro Khanna of political stunt to distract from support for Graham Platner Ro Khanna accused the Israeli government and military of “lying” on Sunday about the US congressman’s detention by armed settlers and Israeli soldiers during a recent visit to the Israeli-occupied West Bank. Khanna.
+
+Date: 2026-07-12
 
 ### Maine Democrats Will Replace Graham Platner. Here’s What to Know.
 
@@ -62,12 +68,6 @@ In his withdrawal notice, Platner said "people are desperate for change" and tha
 
 Date: 2026-07-10
 
-### Product availability changed in Europe
-
-The last-minute scramble to name a replacement reminds some in the party of the challenges they faced in 2024.
-
-Date: 2026-07-10
-
 ## Sources
 
-No public source links.
+- [US congressman says ‘IDF is lying’ about his detention by settlers and soldiers](https://www.theguardian.com/us-news/2026/jul/12/ro-khanna-israel-detention-reaction?utm_source=lootura.com) — 2026-07-12T20:25:43.000Z

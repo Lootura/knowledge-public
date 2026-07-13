@@ -3,7 +3,7 @@
 > Sigue la actividad de Artificial intelligence en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: topic
-- Actualizado: 2026-07-12T20:42:08.067Z
+- Actualizado: 2026-07-13T02:33:34.884Z
 - Canonical: https://atlas.lootura.com/es/topic/artificial-intelligence
 
 ## Cambios recientes
@@ -28,5 +28,4 @@ Date: 2026-07-10
 
 ## Fuentes
 
-- [La casa prefabricada más bonita es además expandible: perfecta para una segunda residencia](https://www.larazon.es/tecnologia-consumo/casa-prefabricada-bonita-es-ademas-expandible-perfecta-segunda-residencia_202607126a50911d772f745d2c3e53ed.html?utm_source=lootura.com) — 2026-07-12T20:00:03.000Z
-- [La NASA busca voluntarios para su próxima misión a Marte](https://www.larazon.es/tecnologia/nasa-busca-voluntarios-proxima-mision-marte_202607126a53efcac0b5fb431c5152ea.html?utm_source=lootura.com) — 2026-07-12T19:49:31.000Z
+- [Telefónica se concentra en cuatro países europeos para hacer una gran operación](https://www.abc.es/economia/telefonica-trabaja-gran-operacion-corporativa-mercado-saturado-20260707013444-nt_amp.html?utm_source=lootura.com) — 2026-07-12T23:34:44.000Z

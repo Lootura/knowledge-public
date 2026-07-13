@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/pedro-sanchez/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/pedro-sanchez/index.json",
   "description": "Sigue la actividad de Pedro Sánchez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-12T20:42:08.067Z",
+  "updatedAt": "2026-07-13T02:33:34.884Z",
   "aliases": [
     "Sánchez"
   ],
@@ -19,11 +19,6 @@
       "date": "2026-07-12"
     },
     {
-      "title": "Marimar Blanco carga contra Sánchez en el aniversario del asesinato de su hermano Miguel Ángel: «Han elegido ponerse al lado de los verdugos»",
-      "summary": "El Partido Popular ha anunciado este domingo, durante el homenaje a Miguel Ángel Blanco en Ermua, su compromiso de reformar la ley penitenciaria para impedir beneficios a condenados por terrorismo que no colaboren con la justicia ni muestren arrepentimiento. En el acto, celebrado 29 años después del asesinato del conce.",
-      "date": "2026-07-12"
-    },
-    {
       "title": "Sánchez, a Rajoy tras su opinión sobre Francia: «Que gane el mejor y que pierda el racismo»",
       "summary": "El presidente del Gobierno, Pedro Sánchez, ha respondido este domingo al expresidente Mariano Rajoy, después de que este afirmara en una columna de.",
       "date": "2026-07-12"
@@ -31,6 +26,16 @@
     {
       "title": "Pedro Sánchez visitará este lunes las zonas afectadas por el incendio forestal de Los Gallardos",
       "summary": "El presidente del Gobierno, Pedro Sánchez , viajará este lunes 13 de julio a las áreas arrasadas por el incendio forestal de Los Gallardos (Almería), declarado el pasado jueves 9 y estabilizado este domingo, tras causar la muerte de doce personas en sus primeras horas de avance. La Moncloa ha confirmado que en la visit.",
+      "date": "2026-07-12"
+    },
+    {
+      "title": "Las notas secretas que Zapatero entregó a Sánchez: Junts rompió con el Gobierno por usar a Pumpido para engañarles",
+      "summary": "Junts per Catalunya acusó por escrito al Gobierno de Pedro Sánchez de utilizar al Tribunal Constitucional para blindar su apoyo al Ejecutivo engañando a su cúpula con promesas...",
+      "date": "2026-07-12"
+    },
+    {
+      "title": "Marimar Blanco carga contra Sánchez en el aniversario del asesinato de su hermano Miguel Ángel: «Han elegido ponerse al lado de los verdugos»",
+      "summary": "El Partido Popular ha anunciado este domingo, durante el homenaje a Miguel Ángel Blanco en Ermua, su compromiso de reformar la ley penitenciaria para impedir beneficios a condenados por terrorismo que no colaboren con la justicia ni muestren arrepentimiento. En el acto, celebrado 29 años después del asesinato del conce.",
       "date": "2026-07-12"
     },
     {
@@ -57,20 +62,9 @@
       "title": "Catalunya ante el espejo: del “España nos roba” a la amenaza del “califato”",
       "summary": "La justicia europea se pronunciará la próxima semana sobre la amnistía que el Gobierno de Pedro Sánchez aprobó para los líderes del procés. Si la avala, estará a punto de concluir la mayor crisis constitucional de España en esta etapa democrática. Mientras, la sociedad catalana ha virado en sus preocupaciones desde aqu.",
       "date": "2026-07-12"
-    },
-    {
-      "title": "Sánchez decidirá tras el paréntesis de agosto el calendario del final de mandato",
-      "summary": "“En agosto, con el fresquito, reflexionaremos sobre el calendario”, alegan con ironía en la Moncloa sobre las fechas clave que baraja Pedro Sánchez para la recta final de la legislatura, en la que lo único que no puede prever de antemano son las minas judiciales que aún pueden estallar ante el alud de causas por presun.",
-      "date": "2026-07-12"
     }
   ],
   "sources": [
-    {
-      "title": "Marimar Blanco carga contra Sánchez en el aniversario del asesinato de su hermano Miguel Ángel: «Han elegido ponerse al lado de los verdugos»",
-      "url": "https://www.abc.es/espana/pais-vasco/marimar-blanco-carga-gobierno-aniversario-asesinato-hermano-20260712181711-nt.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-12T16:25:50.000Z",
-      "sourceId": "lootura-es-abc"
-    },
     {
       "title": "Pedro Sánchez visitará este lunes las zonas afectadas por el incendio forestal de Los Gallardos",
       "url": "https://www.elconfidencial.com/espana/2026-07-12/incendio-los-gallardos-almeria-1tps_4388714/?utm_source=lootura.com",
@@ -81,6 +75,12 @@
       "title": "El PP se compromete en Ermua a aclarar los 376 crímenes impunes de ETA frente a la \"indignidad\" del sanchismo con EH Bildu",
       "url": "https://www.elmundo.es/pais-vasco/2026/07/12/6a536b49e4d4d8382d8b4592.html?utm_source=lootura.com",
       "publishedAt": "2026-07-12T10:47:16.000Z",
+      "sourceId": "lootura-es-el-mundo"
+    },
+    {
+      "title": "Las notas secretas que Zapatero entregó a Sánchez: Junts rompió con el Gobierno por usar a Pumpido para engañarles",
+      "url": "https://amp.elmundo.es/espana/2026/07/12/6a53a8e721efa091308b458c.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-12T20:50:12.000Z",
       "sourceId": "lootura-es-el-mundo"
     },
     {

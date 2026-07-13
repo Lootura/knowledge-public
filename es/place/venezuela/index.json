@@ -8,9 +8,19 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/venezuela/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/venezuela/index.json",
   "description": "Sigue la actividad de Venezuela en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-12T06:30:48.397Z",
+  "updatedAt": "2026-07-13T02:33:34.884Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "Los muertos en Venezuela a causa del doble terremoto ya son casi 4.500",
+      "summary": "Las autoridades venezolanas han elevado a casi 4.500 las víctimas mortales derivadas de los devastadores terremotos registrados en el centro de la costa.",
+      "date": "2026-07-12"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Venezuela first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-07-11"
+    },
     {
       "title": "Contratos para la reconstrucción, ajustes de cuentas y advertencias a María Corina Machado: la 'guerra civil' por el \"botín\" de Venezuela",
       "summary": "La líder democrática se convierte en un 'estorbo' para el régimen chavista y sus anhelos de negocios millonarios Leer.",
@@ -20,13 +30,15 @@
       "title": "Los muertos por el doble terremoto de Venezuela ya son más de 4.300",
       "summary": "Las autoridades venezolanas han elevado a más de 4.300 las víctimas mortales derivadas de los devastadores terremotos registrados en el centro de la costa del país el pasado 24 de junio, mientras que la cifra de heridos se mantiene, al igual que en los últimos partes oficiales, en 16.740 personas. El presidente de la A.",
       "date": "2026-07-11"
-    },
-    {
-      "title": "Discovered by Atlas",
-      "summary": "Venezuela first entered the public knowledge record with source-backed evidence.",
-      "date": "2026-07-11"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Los muertos en Venezuela a causa del doble terremoto ya son casi 4.500",
+      "url": "https://theobjective.com/internacional/2026-07-13/muertos-venezuela-terremoto-4500/?amp=&utm_source=lootura.com",
+      "publishedAt": "2026-07-12T22:10:16.000Z",
+      "sourceId": "lootura-es-the-objective"
+    }
+  ],
+  "evidenceCount": 1
 }

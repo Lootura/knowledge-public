@@ -3,20 +3,20 @@
 > Follow White House, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-07-12T20:42:32.118Z
+- Updated: 2026-07-13T02:33:56.207Z
 - Canonical: https://atlas.lootura.com/us/organization/white-house
 
 ## Recent changes
 
-### White House Directed Patel to Oversee Investigation Involving Times Reporting
-
-The F.B.I. director spent about eight hours at the White House Friday focused on the effort, which led to the subpoenaing of several Times reporters who wrote about the security of Air Force One.
-
-Date: 2026-07-12
-
 ### Texas Hispanics swung hard to Trump. A new poll shows they’re furious at his deportations.
 
 Benny Melendez voted for President Donald Trump in 2024. But since Trump returned to the White House, it has been increasingly difficult for Melendez to run his small construction company in south Texas. He says immigration officers have detained workers at his job sites and while driving his company trucks. Since the.
+
+Date: 2026-07-12
+
+### White House Directed Patel to Oversee Investigation Involving Times Reporting
+
+The F.B.I. director spent about eight hours at the White House Friday focused on the effort, which led to the subpoenaing of several Times reporters who wrote about the security of Air Force One.
 
 Date: 2026-07-12
 
@@ -70,6 +70,5 @@ Date: 2026-07-09
 
 ## Sources
 
-- [NSF plans cuts to core science programmes to fund White House initiative](https://www.nature.com/articles/d41586-026-02135-x?utm_source=lootura.com) — 2026-07-12T20:42:36.549Z
+- [NSF plans cuts to core science programmes to fund White House initiative](https://www.nature.com/articles/d41586-026-02135-x?utm_source=lootura.com) — 2026-07-13T02:34:02.208Z
 - [Texas Hispanics swung hard to Trump. A new poll shows they’re furious at his deportations.](https://www.politico.com/news/2026/07/12/trumps-deportation-drive-tests-gop-gains-in-texas-00993955?utm_source=lootura.com) — 2026-07-12T18:00:00.000Z
-- [White House Directed Patel to Oversee Investigation Involving Times Reporting](https://www.nytimes.com/2026/07/11/us/politics/white-house-patel-investigation-times.html?utm_source=lootura.com) — 2026-07-12T04:08:30.000Z

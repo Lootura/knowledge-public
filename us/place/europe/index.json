@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/europe/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/europe/index.json",
   "description": "Follow Europe, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-12T13:15:03.815Z",
+  "updatedAt": "2026-07-13T02:33:56.207Z",
   "aliases": [
     "EU",
     "European Union"
   ],
   "changes": [
+    {
+      "title": "Lindsey Graham remembered for a vision of American foreign policy that's fading in Washington",
+      "summary": "Graham was a rare bridge between President Donald Trump's \"America First\" foreign policy and the traditional Washington consensus prioritizing alliances with Europe and Israel, one falling out of favor with many in both political parties.",
+      "date": "2026-07-12"
+    },
     {
       "title": "It's Christmas in July as hundreds of Santas go on the march in the middle of a stifling summer heat wave",
       "summary": "It's beginning to look a lot like Christmas — if you ignore the calendar, that is. While much of Europe continues to grapple with stifling summer heat, one Danish city looked ready for Christmas. Hundreds of Santa Clauses, Mrs. Clauses and Christmas elves from around the world filled the streets this week for the annua.",
@@ -55,6 +60,13 @@
       "date": "2026-07-09"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Lindsey Graham remembered for a vision of American foreign policy that's fading in Washington",
+      "url": "https://www.pbs.org/newshour/politics/lindsey-graham-remembered-for-a-vision-of-american-foreign-policy-thats-fading-in-washington?utm_source=lootura.com",
+      "publishedAt": "2026-07-12T22:40:48.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
+    }
+  ],
+  "evidenceCount": 1
 }

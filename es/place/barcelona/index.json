@@ -8,9 +8,14 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/barcelona/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/barcelona/index.json",
   "description": "Sigue la actividad de Barcelona en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-12T20:42:08.067Z",
+  "updatedAt": "2026-07-13T02:33:34.884Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "Laporta manda un aviso al Atlético por Julián: «No vamos a bailar la música a nadie»",
+      "summary": "Joan Laporta ha mandado un aviso en la noche de este domingo desde Dallas al Atlético de Madrid por Julián Álvarez. El presidente del Barcelona anunció que han realizado una oferta importante para fichar al delantero argentino, pero también aclaró que esa oferta caduca, ya que no están dispuestos a bailarle al agua a n.",
+      "date": "2026-07-12"
+    },
     {
       "title": "La tercera marcha de Flick arranca en Barcelona con una obsesión",
       "summary": "El Barcelona arranca la temporada 26/27 este lunes , 13 de julio, a las 9:00 horas en la Ciudad Deportiva Joan Gamper sin los internacionales. El tercer curso de Hansi Flick al frente del equipo blaugrana se pone en marcha con la obsesión de poder ganar la Champions League más de diez años después. Vuelve el Barça al t.",
@@ -55,18 +60,13 @@
       "title": "AEMET prevé cielo despejado en Barcelona, con riesgo de tormentas en el Prepirineo y viento moderado",
       "summary": "El tiempo en Barcelona para hoy, 11 de julio de 2026, se presentará con cielos mayormente despejados, aunque en el Prepirineo podrían desarrollarse nubosidades que traigan chubascos con tormenta por la tarde. Las temperaturas descenderán o se mantendrán estables, mientras que se espera un viento moderado del nordeste e.",
       "date": "2026-07-11"
-    },
-    {
-      "title": "Lamine Yamal: “Si a alguien debe temer Francia es a nosotros”",
-      "summary": "Entre la pizarra de Luis de la Fuente y el olfato goleador de Mikel Merino , aparece la gambeta de Lamine Yamal. De nuevo elegido el mejor jugador del duelo ante Bélgica ayer. El canterano del Barcelona no necesitó ni marcar ni asistir para llevarse el trofeo individual. “Estoy muy contento por la victoria. Quiero marc.",
-      "date": "2026-07-10"
     }
   ],
   "sources": [
     {
-      "title": "La tercera marcha de Flick arranca en Barcelona con una obsesión",
-      "url": "https://okdiario.com/deportes/tercera-marcha-flick-arranca-barcelona-obsesion-18981229?utm_source=lootura.com",
-      "publishedAt": "2026-07-12T18:00:03.000Z",
+      "title": "Laporta manda un aviso al Atlético por Julián: «No vamos a bailar la música a nadie»",
+      "url": "https://okdiario.com/deportes/laporta-manda-aviso-atletico-julian-no-vamos-bailar-musica-nadie-18981979?utm_source=lootura.com",
+      "publishedAt": "2026-07-12T22:01:11.000Z",
       "sourceId": "lootura-es-ok-diario"
     }
   ],

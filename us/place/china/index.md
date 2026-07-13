@@ -3,10 +3,16 @@
 > Follow China, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-12T20:42:32.118Z
+- Updated: 2026-07-13T02:33:56.207Z
 - Canonical: https://atlas.lootura.com/us/place/china
 
 ## Recent changes
+
+### Graduating without a thesis: meet the people getting ‘practical’ PhDs in China
+
+Nature, Published online: 09 July 2026; doi:10.1038/d41586-026-01242-z Nature spoke to three students from China’s first cohort of PhD candidates who are allowed to graduate with products instead of papers.
+
+Date: 2026-07-13
 
 ### Graduating without a thesis: meet the people getting ‘practical’ PhDs in China
 
@@ -62,12 +68,6 @@ In our news wrap Thursday, three-time Olympic canoe racer David Hearn pleaded no
 
 Date: 2026-07-09
 
-### Factory Blaze in China’s ‘Shoe Capital’ Kills 28
-
-The country’s leader, Xi Jinping, called on the authorities to investigate the fire, the latest of several deadly workplace accidents in China this year.
-
-Date: 2026-07-09
-
 ## Sources
 
-- [Graduating without a thesis: meet the people getting ‘practical’ PhDs in China](https://www.nature.com/articles/d41586-026-01242-z?utm_source=lootura.com) — 2026-07-12T20:42:36.550Z
+- [Graduating without a thesis: meet the people getting ‘practical’ PhDs in China](https://www.nature.com/articles/d41586-026-01242-z?utm_source=lootura.com) — 2026-07-13T02:34:02.209Z

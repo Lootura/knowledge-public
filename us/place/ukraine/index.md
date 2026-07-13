@@ -3,7 +3,7 @@
 > Follow Ukraine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-12T20:42:32.118Z
+- Updated: 2026-07-13T02:33:56.207Z
 - Canonical: https://atlas.lootura.com/us/place/ukraine
 
 ## Recent changes
@@ -23,6 +23,12 @@ Date: 2026-07-12
 ### Ukraine's prime minister resigns; Zelenskyy shifts several government roles
 
 Ukrainian Prime Minister Yulia Svyrydenko has stepped down as President Volodymyr Zelenskyy announced fresh changes to Ukraine's government.
+
+Date: 2026-07-12
+
+### With Lindsey Graham Gone, Ukraine Loses an Ally in Trump’s Ear
+
+The South Carolina Republican was Ukraine’s most influential champion inside President Trump’s mostly ”America First” political orbit.
 
 Date: 2026-07-12
 
@@ -62,16 +68,9 @@ Ukrainian military said its air defenses shot down or suppressed two missiles an
 
 Date: 2026-07-11
 
-### Trump admin. to support heavy tariffs on Russian oil in effort to end Ukraine war, sources say
-
-The war in Ukraine is now in its fifth year. A bipartisan bill aims to increase economic pressure on Russia if it refuses to negotiate peace with Ukraine.
-
-Date: 2026-07-10
-
 ## Sources
 
 - [Margaret Brennan: I spoke with Lindsey Graham a day before he died](https://www.cbsnews.com/news/margaret-brennan-lindsey-graham-kyiv-russia-sanctions-ukraine/?utm_source=lootura.com) — 2026-07-12T16:14:25.000Z
 - [Ukraine's prime minister resigns; Zelenskyy shifts several government roles](https://www.cbsnews.com/news/ukraine-prime-minister-resigns-yulia-svyrydenko-volodymyr-zelenskyy-politics/?utm_source=lootura.com) — 2026-07-12T17:46:22.000Z
-- [Graham makes final remarks in Ukraine a day before this death](https://www.nbcnews.com/video/graham-makes-final-remarks-in-ukraine-a-day-before-this-death-266563141546?utm_source=lootura.com) — 2026-07-12T16:32:34.000Z
+- [With Lindsey Graham Gone, Ukraine Loses an Ally in Trump’s Ear](https://www.nytimes.com/2026/07/12/us/lindsey-graham-ukraine.html?utm_source=lootura.com) — 2026-07-12T22:19:17.000Z
 - [Trump Sought an Iran War Exit. Putin Pushed On in Ukraine. Now Both Are Stuck.](https://www.nytimes.com/2026/07/12/world/europe/trump-putin-war-iran-ukraine.html?utm_source=lootura.com) — 2026-07-12T09:01:28.000Z
-- [Zelensky Announces Leadership Shuffle as War Turns in Ukraine’s Favor](https://www.nytimes.com/2026/07/12/world/europe/ukraine-zelensky-leadership.html?utm_source=lootura.com) — 2026-07-12T14:51:40.000Z

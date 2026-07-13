@@ -3,10 +3,22 @@
 > Sigue la actividad de Partido Popular en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-12T20:42:08.067Z
+- Actualizado: 2026-07-13T02:33:34.884Z
 - Canonical: https://atlas.lootura.com/es/organization/partido-popular
 
 ## Cambios recientes
+
+### Voces del PP piden afinar la estrategia: «Nos hemos metido en todos los charcos posibles»
+
+En un espacio de una semana y media y coincidiendo con una menor presión judicial sobre el Gobierno, el PP ha ido encadenando polémicas que han salido del propio partido. Sucedió primero con la llamada 'ley de nietos', una disposición adicional de la Ley de Memoria Democrática sobre la que el PP ha puesto el foco -cuat.
+
+Date: 2026-07-13
+
+### Borja Sémper: «No hemos descartado ni descartamos tampoco la moción de censura. ¿En un tiempo? No lo sé»
+
+Siete plantas se levantan sobre el 13 de la calle Génova, sede nacional del PP. No hay un piso intermedio. Mediodía. Viernes 10 de julio, Borja Sémper (Irún, 1976), redivivo en su versión más pizpireta, resuelve el misterio: aquí no existe el centro. No como «un espacio geográfico». Venimos a hablar de su partido. Y de.
+
+Date: 2026-07-13
 
 ### El PP se compromete en Ermua a aclarar los 376 crímenes impunes de ETA frente a la "indignidad" del sanchismo con EH Bildu
 
@@ -56,21 +68,8 @@ La derecha española se encuentra dividida entre dos hipótesis , la que le gust
 
 Date: 2026-07-12
 
-### Discovered by Atlas
-
-Partido Popular first entered the public knowledge record with source-backed evidence.
-
-Date: 2026-07-11
-
-### Óscar López se enfrentará a Ayuso en las elecciones de la Comunidad de Madrid en 2027
-
-El secretario general del PSOE de Madrid y ministro para la Transformación Digital y de la Función Pública, Óscar López , se batirá con la presidenta de la Comunidad, Isabel Díaz Ayuso (PP), en mayo de 2027 tras proclamarse candidato socialista al no haber conseguido su rival en primarias, Silvia López Quivira, reunir.
-
-Date: 2026-07-11
-
 ## Fuentes
 
-- [Marimar Blanco carga contra Sánchez en el aniversario del asesinato de su hermano Miguel Ángel: «Han elegido ponerse al lado de los verdugos»](https://www.abc.es/espana/pais-vasco/marimar-blanco-carga-gobierno-aniversario-asesinato-hermano-20260712181711-nt.html?utm_source=lootura.com) — 2026-07-12T16:25:50.000Z
+- [Voces del PP piden afinar la estrategia: «Nos hemos metido en todos los charcos posibles»](https://www.abc.es/espana/voces-pp-piden-afinar-estrategia-metido-charcos-20260712013248-nt.html?utm_source=lootura.com) — 2026-07-13T00:21:33.000Z
 - [El PP se compromete en Ermua a aclarar los 376 crímenes impunes de ETA frente a la "indignidad" del sanchismo con EH Bildu](https://www.elmundo.es/pais-vasco/2026/07/12/6a536b49e4d4d8382d8b4592.html?utm_source=lootura.com) — 2026-07-12T10:47:16.000Z
-- [El PP pide reformar la asistencia jurídica gratuita para garantizar indemnizaciones «dignas»](https://theobjective.com/espana/politica/2026-07-12/pp-asistencia-juridica-gratuita-indemnizaciones-dignas/?utm_source=lootura.com) — 2026-07-12T11:42:45.000Z
-- [Gamarra defiende que el PP siga abriendo debates, «se llamen absentismo o vivienda»](https://theobjective.com/espana/politica/2026-07-12/gamarra-pp-debates-absentismo-vivienda/?amp=&utm_source=lootura.com) — 2026-07-12T12:44:41.000Z
+- [Borja Sémper: «No hemos descartado ni descartamos tampoco la moción de censura. ¿En un tiempo? No lo sé»](https://www.larazon.es/espana/borja-semper-hemos-descartado-descartamos-tampoco-mocion-censura-tiempo_202607136a53f03dc0b5fb431c5153fb.html?utm_source=lootura.com) — 2026-07-13T01:00:13.000Z

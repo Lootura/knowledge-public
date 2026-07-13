@@ -3,10 +3,22 @@
 > Follow Iran, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-12T20:42:32.118Z
+- Updated: 2026-07-13T02:33:56.207Z
 - Canonical: https://atlas.lootura.com/us/place/iran
 
 ## Recent changes
+
+### Full transcript of "Face the Nation with Margaret Brennan," July 12, 2026
+
+On this "Face the Nation with Margaret Brennan" broadcast, Republican Sen. Tim Scott remembers Lindsey Graham, and Israeli Ambassador Michael Leiter and retired Gen. Frank McKenzie discuss the Iran war.
+
+Date: 2026-07-13
+
+### Oil Rises After Weekend of Back-and-Forth Strikes by U.S. and Iran
+
+The renewed hostilities posed fresh risks to ships seeking to navigate the Strait of Hormuz.
+
+Date: 2026-07-13
 
 ### Politics chat: Lindsey Graham dies at 71, Congress back in session, U.S. strikes Iran
 
@@ -56,23 +68,13 @@ The U.S. and Iran exchanged a barrage of missile and drone airstrikes amid a dis
 
 Date: 2026-07-12
 
-### US and Iran exchange strikes as Tehran again says strait of Hormuz is closed
-
-Tehran says vessel using unapproved route in strait was struck, drawing strikes from US forces to ‘degrade Iran’s ability to attack civilian mariners’ Iran and the US exchanged fresh strikes early on Sunday over what Tehran said was unauthorised use of the strait of Hormuz by a container ship, raising further doubts ab.
-
-Date: 2026-07-12
-
-### US attacks Iran over ship being hit in Strait of Hormuz; Tehran lashes out again at Gulf Arab states
-
-The United States attacked Iran early Sunday morning over an Iranian attack on a vessel in the Strait of Hormuz. Iran apparently responded with strikes targeting Bahrain, Qatar and the United Arab Emirates. (Image credit: Vahid Salemi).
-
-Date: 2026-07-12
-
 ## Sources
 
-- [Retired Gen. Frank McKenzie on the Trump administration's options with Iran](https://www.cbsnews.com/video/retired-gen-frank-mckenzie-on-the-trump-administrations-options-with-iran/?utm_source=lootura.com) — 2026-07-12T16:05:40.000Z
+- [U.S. launches another round of strikes on Iran](https://www.cbsnews.com/video/us-launches-another-round-of-strikes-on-iran/?utm_source=lootura.com) — 2026-07-13T00:55:00.000Z
+- [Full transcript of "Face the Nation with Margaret Brennan," July 12, 2026](https://www.cbsnews.com/news/face-the-nation-full-transcript-07-12-2026/?utm_source=lootura.com) — 2026-07-13T02:18:42.000Z
 - [Adam Schiff remembers Lindsey Graham as ‘larger than life’: Full interview](https://www.nbcnews.com/meet-the-press/video/adam-schiff-remembers-lindsey-graham-as-larger-than-life-full-interview-266560069770?utm_source=lootura.com) — 2026-07-12T13:55:07.000Z
 - [Politics chat: Lindsey Graham dies at 71, Congress back in session, U.S. strikes Iran](https://www.npr.org/2026/07/12/nx-s1-5887274/politics-chat-lindsey-graham-dies-at-71-congress-back-in-session-u-s-strikes-iran?utm_source=lootura.com) — 2026-07-12T11:57:11.000Z
 - [Iran reports new attacks on military targets on its largest island near the Strait of Hormuz](https://www.pbs.org/newshour/world/iran-reports-new-attacks-on-military-targets-on-its-largest-island-near-the-strait-of-hormuz?utm_source=lootura.com) — 2026-07-12T15:22:46.000Z
+- [Oil Rises After Weekend of Back-and-Forth Strikes by U.S. and Iran](https://www.nytimes.com/2026/07/12/business/oil-shipping-iran-hormuz.html?utm_source=lootura.com) — 2026-07-13T01:52:32.000Z
 - [Trump Sought an Iran War Exit. Putin Pushed On in Ukraine. Now Both Are Stuck.](https://www.nytimes.com/2026/07/12/world/europe/trump-putin-war-iran-ukraine.html?utm_source=lootura.com) — 2026-07-12T09:01:28.000Z
 - [Lindsey Graham Championed Israel, Even as Wars Eroded American Support](https://www.nytimes.com/2026/07/12/world/middleeast/lindsey-graham-iran-israel-gaza-war.html?utm_source=lootura.com) — 2026-07-12T19:42:07.000Z

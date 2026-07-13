@@ -8,21 +8,21 @@
   "markdownUrl": "https://atlas.lootura.com/us/topic/artificial-intelligence/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/topic/artificial-intelligence/index.json",
   "description": "Follow Artificial intelligence, a tracked topic, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-12T20:42:32.118Z",
+  "updatedAt": "2026-07-13T02:33:56.207Z",
   "aliases": [
     "AI",
     "machine learning"
   ],
   "changes": [
     {
-      "title": "Apple’s failed self-driving car program left a legacy of powerful AI chips",
-      "summary": "Apple's self-driving car program never really got off the ground , but it may have been what made the company's chips the powerful AI performers they are. Early in the development of the self-driving platform, Apple realized that it would need powerful on-device AI processing . While the car processor was never finishe.",
-      "date": "2026-07-12"
-    },
-    {
       "title": "Which ‘AI scientist’ suits your lab? A guide for the perplexed",
       "summary": "Nature, Published online: 10 July 2026; doi:10.1038/d41586-026-02091-6 General purpose AI tools for science, such as Claude Science, promise to accelerate research. But which is right for you?",
-      "date": "2026-07-12"
+      "date": "2026-07-13"
+    },
+    {
+      "title": "Does AI work for us, or do we work for AI?",
+      "summary": "Science, Volume 393, Issue 6807 , Page 152-152, July 2026.",
+      "date": "2026-07-13"
     },
     {
       "title": "Campaign text messages could soon get more effective — and annoying",
@@ -35,33 +35,33 @@
       "date": "2026-07-12"
     },
     {
-      "title": "Does AI work for us, or do we work for AI?",
-      "summary": "Science, Volume 393, Issue 6807 , Page 152-152, July 2026.",
-      "date": "2026-07-12"
-    },
-    {
       "title": "Lorde says Ray-Ban Meta AI glasses are ‘not sexy’",
       "summary": "Lorde performing at the 2026 Governors Ball. | Photo: Siegfried Anthony/Billboard via Getty Images Lorde was performing at the Real Cool Festival in Madrid on Thursday and took some time during her set to speak out against AI glasses . While she didn't specify any brands in particular, it's likely she was taking a shot.",
       "date": "2026-07-12"
     },
     {
+      "title": "Machine learning calibration of biosensors for microcystin toxin monitoring in freshwater",
+      "summary": "Portable screen-printed carbon electrode (SPCE) biosensors offer a rapid, low-cost way to detect microcystin-lysine-arginine (MC-LR), an extremely potent toxin produced by cyanobacteria during harmful algal blooms in freshwater. Even at low concentrations, MC-LR can damage the liver and has been linked to an increased.",
+      "date": "2026-07-12"
+    },
+    {
+      "title": "Apple’s failed self-driving car program left a legacy of powerful AI chips",
+      "summary": "Apple's self-driving car program never really got off the ground , but it may have been what made the company's chips the powerful AI performers they are. Early in the development of the self-driving platform, Apple realized that it would need powerful on-device AI processing . While the car processor was never finishe.",
+      "date": "2026-07-12"
+    },
+    {
+      "title": "Which ‘AI scientist’ suits your lab? A guide for the perplexed",
+      "summary": "Nature, Published online: 10 July 2026; doi:10.1038/d41586-026-02091-6 General purpose AI tools for science, such as Claude Science, promise to accelerate research. But which is right for you?",
+      "date": "2026-07-12"
+    },
+    {
+      "title": "Does AI work for us, or do we work for AI?",
+      "summary": "Science, Volume 393, Issue 6807 , Page 152-152, July 2026.",
+      "date": "2026-07-12"
+    },
+    {
       "title": "The fight against AI data centers is just beginning",
       "summary": "A yard sign opposing a planned data center is displayed along Route 54 in Mount Carmel Township Northumberland County. | Image: Getty Images This is The Stepback , a weekly newsletter breaking down one essential story from the tech world. For more on the data center buildout, follow Emma Roth . The Stepback arrives in.",
-      "date": "2026-07-12"
-    },
-    {
-      "title": "Some are raising ethical concerns about political text messages using AI",
-      "summary": "Taught to sound like a candidate, bots are engaging voters with personalized text messages making AI-generated texting conversations the latest tool political campaigns are using to connect. (Image credit: Charly Triballeau).",
-      "date": "2026-07-12"
-    },
-    {
-      "title": "TechCrunch Mobility: A robotaxi ultimatum",
-      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, how AI is playing a part.",
-      "date": "2026-07-12"
-    },
-    {
-      "title": "Majority of U.S. workers support an AI wealth fund as tech layoffs surge, survey finds",
-      "summary": "A majority of U.S. employees now want an AI sovereign wealth fund to hold corporations more accountable, according to a recent survey, as tech layoffs rise.",
       "date": "2026-07-12"
     }
   ],
@@ -69,7 +69,7 @@
     {
       "title": "Which ‘AI scientist’ suits your lab? A guide for the perplexed",
       "url": "https://www.nature.com/articles/d41586-026-02091-6?utm_source=lootura.com",
-      "publishedAt": "2026-07-12T20:42:36.549Z",
+      "publishedAt": "2026-07-13T02:34:02.208Z",
       "sourceId": "lootura-us-nature"
     },
     {
@@ -85,21 +85,21 @@
       "sourceId": "lootura-us-pbs-newshour"
     },
     {
+      "title": "Machine learning calibration of biosensors for microcystin toxin monitoring in freshwater",
+      "url": "https://phys.org/news/2026-07-machine-calibration-biosensors-microcystin-toxin.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-12T22:20:01.000Z",
+      "sourceId": "lootura-us-phys-org"
+    },
+    {
       "title": "Does AI work for us, or do we work for AI?",
       "url": "https://www.science.org/doi/abs/10.1126/science.aei9754?af=R&utm_source=lootura.com",
-      "publishedAt": "2026-07-12T20:42:36.845Z",
+      "publishedAt": "2026-07-13T02:34:02.413Z",
       "sourceId": "lootura-us-science"
     },
     {
       "title": "Lorde says Ray-Ban Meta AI glasses are ‘not sexy’",
       "url": "https://www.theverge.com/ai-artificial-intelligence/964539/lorde-says-ray-ban-meta-ai-glasses-are-not-sexy?utm_source=lootura.com",
       "publishedAt": "2026-07-12T20:10:19.000Z",
-      "sourceId": "lootura-us-the-verge"
-    },
-    {
-      "title": "Apple’s failed self-driving car program left a legacy of powerful AI chips",
-      "url": "https://www.theverge.com/tech/964519/apple-silicon-self-driving-car-ai-m7-ultra?utm_source=lootura.com",
-      "publishedAt": "2026-07-12T16:27:06.000Z",
       "sourceId": "lootura-us-the-verge"
     }
   ],

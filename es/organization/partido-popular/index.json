@@ -8,11 +8,21 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/partido-popular/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/partido-popular/index.json",
   "description": "Sigue la actividad de Partido Popular en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-12T20:42:08.067Z",
+  "updatedAt": "2026-07-13T02:33:34.884Z",
   "aliases": [
     "PP"
   ],
   "changes": [
+    {
+      "title": "Voces del PP piden afinar la estrategia: «Nos hemos metido en todos los charcos posibles»",
+      "summary": "En un espacio de una semana y media y coincidiendo con una menor presión judicial sobre el Gobierno, el PP ha ido encadenando polémicas que han salido del propio partido. Sucedió primero con la llamada 'ley de nietos', una disposición adicional de la Ley de Memoria Democrática sobre la que el PP ha puesto el foco -cuat.",
+      "date": "2026-07-13"
+    },
+    {
+      "title": "Borja Sémper: «No hemos descartado ni descartamos tampoco la moción de censura. ¿En un tiempo? No lo sé»",
+      "summary": "Siete plantas se levantan sobre el 13 de la calle Génova, sede nacional del PP. No hay un piso intermedio. Mediodía. Viernes 10 de julio, Borja Sémper (Irún, 1976), redivivo en su versión más pizpireta, resuelve el misterio: aquí no existe el centro. No como «un espacio geográfico». Venimos a hablar de su partido. Y de.",
+      "date": "2026-07-13"
+    },
     {
       "title": "El PP se compromete en Ermua a aclarar los 376 crímenes impunes de ETA frente a la \"indignidad\" del sanchismo con EH Bildu",
       "summary": "\"El precio que ha pagado Sánchez es el de presos por votos\", denuncia la vicesecrataria general del PP Cuca Gamarra en el 29 homenaje a Blanco. Leer.",
@@ -52,23 +62,13 @@
       "title": "El dilema de las derechas que debilita el liderazgo de Feijóo",
       "summary": "La derecha española se encuentra dividida entre dos hipótesis , la que le gustaría al partido dominante, el PP, que es la apuesta de Merz , y la que cada vez va cobrando más peso en Europa, la de Manfred Weber : una alianza entre los populares y los partidos a su derecha . Merz gobierna junto con los socialdemócratas,.",
       "date": "2026-07-12"
-    },
-    {
-      "title": "Discovered by Atlas",
-      "summary": "Partido Popular first entered the public knowledge record with source-backed evidence.",
-      "date": "2026-07-11"
-    },
-    {
-      "title": "Óscar López se enfrentará a Ayuso en las elecciones de la Comunidad de Madrid en 2027",
-      "summary": "El secretario general del PSOE de Madrid y ministro para la Transformación Digital y de la Función Pública, Óscar López , se batirá con la presidenta de la Comunidad, Isabel Díaz Ayuso (PP), en mayo de 2027 tras proclamarse candidato socialista al no haber conseguido su rival en primarias, Silvia López Quivira, reunir.",
-      "date": "2026-07-11"
     }
   ],
   "sources": [
     {
-      "title": "Marimar Blanco carga contra Sánchez en el aniversario del asesinato de su hermano Miguel Ángel: «Han elegido ponerse al lado de los verdugos»",
-      "url": "https://www.abc.es/espana/pais-vasco/marimar-blanco-carga-gobierno-aniversario-asesinato-hermano-20260712181711-nt.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-12T16:25:50.000Z",
+      "title": "Voces del PP piden afinar la estrategia: «Nos hemos metido en todos los charcos posibles»",
+      "url": "https://www.abc.es/espana/voces-pp-piden-afinar-estrategia-metido-charcos-20260712013248-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-13T00:21:33.000Z",
       "sourceId": "lootura-es-abc"
     },
     {
@@ -78,17 +78,11 @@
       "sourceId": "lootura-es-el-mundo"
     },
     {
-      "title": "El PP pide reformar la asistencia jurídica gratuita para garantizar indemnizaciones «dignas»",
-      "url": "https://theobjective.com/espana/politica/2026-07-12/pp-asistencia-juridica-gratuita-indemnizaciones-dignas/?utm_source=lootura.com",
-      "publishedAt": "2026-07-12T11:42:45.000Z",
-      "sourceId": "lootura-es-the-objective"
-    },
-    {
-      "title": "Gamarra defiende que el PP siga abriendo debates, «se llamen absentismo o vivienda»",
-      "url": "https://theobjective.com/espana/politica/2026-07-12/gamarra-pp-debates-absentismo-vivienda/?amp=&utm_source=lootura.com",
-      "publishedAt": "2026-07-12T12:44:41.000Z",
-      "sourceId": "lootura-es-the-objective"
+      "title": "Borja Sémper: «No hemos descartado ni descartamos tampoco la moción de censura. ¿En un tiempo? No lo sé»",
+      "url": "https://www.larazon.es/espana/borja-semper-hemos-descartado-descartamos-tampoco-mocion-censura-tiempo_202607136a53f03dc0b5fb431c5153fb.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-13T01:00:13.000Z",
+      "sourceId": "lootura-es-la-razon"
     }
   ],
-  "evidenceCount": 4
+  "evidenceCount": 3
 }

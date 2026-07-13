@@ -3,10 +3,16 @@
 > Follow Europe, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-12T13:15:03.815Z
+- Updated: 2026-07-13T02:33:56.207Z
 - Canonical: https://atlas.lootura.com/us/place/europe
 
 ## Recent changes
+
+### Lindsey Graham remembered for a vision of American foreign policy that's fading in Washington
+
+Graham was a rare bridge between President Donald Trump's "America First" foreign policy and the traditional Washington consensus prioritizing alliances with Europe and Israel, one falling out of favor with many in both political parties.
+
+Date: 2026-07-12
 
 ### It's Christmas in July as hundreds of Santas go on the march in the middle of a stifling summer heat wave
 
@@ -58,4 +64,4 @@ Date: 2026-07-09
 
 ## Sources
 
-No public source links.
+- [Lindsey Graham remembered for a vision of American foreign policy that's fading in Washington](https://www.pbs.org/newshour/politics/lindsey-graham-remembered-for-a-vision-of-american-foreign-policy-thats-fading-in-washington?utm_source=lootura.com) — 2026-07-12T22:40:48.000Z

@@ -3,10 +3,16 @@
 > Sigue la actividad de Barcelona en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-12T20:42:08.067Z
+- Actualizado: 2026-07-13T02:33:34.884Z
 - Canonical: https://atlas.lootura.com/es/place/barcelona
 
 ## Cambios recientes
+
+### Laporta manda un aviso al Atlético por Julián: «No vamos a bailar la música a nadie»
+
+Joan Laporta ha mandado un aviso en la noche de este domingo desde Dallas al Atlético de Madrid por Julián Álvarez. El presidente del Barcelona anunció que han realizado una oferta importante para fichar al delantero argentino, pero también aclaró que esa oferta caduca, ya que no están dispuestos a bailarle al agua a n.
+
+Date: 2026-07-12
 
 ### La tercera marcha de Flick arranca en Barcelona con una obsesión
 
@@ -62,12 +68,6 @@ El tiempo en Barcelona para hoy, 11 de julio de 2026, se presentará con cielos 
 
 Date: 2026-07-11
 
-### Lamine Yamal: “Si a alguien debe temer Francia es a nosotros”
-
-Entre la pizarra de Luis de la Fuente y el olfato goleador de Mikel Merino , aparece la gambeta de Lamine Yamal. De nuevo elegido el mejor jugador del duelo ante Bélgica ayer. El canterano del Barcelona no necesitó ni marcar ni asistir para llevarse el trofeo individual. “Estoy muy contento por la victoria. Quiero marc.
-
-Date: 2026-07-10
-
 ## Fuentes
 
-- [La tercera marcha de Flick arranca en Barcelona con una obsesión](https://okdiario.com/deportes/tercera-marcha-flick-arranca-barcelona-obsesion-18981229?utm_source=lootura.com) — 2026-07-12T18:00:03.000Z
+- [Laporta manda un aviso al Atlético por Julián: «No vamos a bailar la música a nadie»](https://okdiario.com/deportes/laporta-manda-aviso-atletico-julian-no-vamos-bailar-musica-nadie-18981979?utm_source=lootura.com) — 2026-07-12T22:01:11.000Z

@@ -3,10 +3,16 @@
 > Sigue la actividad de Gobierno de España en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-12T20:42:08.067Z
+- Actualizado: 2026-07-13T02:33:34.884Z
 - Canonical: https://atlas.lootura.com/es/organization/gobierno-de-espana
 
 ## Cambios recientes
+
+### Mariano Rajoy sobre los que le tachan de racista: "No me voy a poner al nivel de ciertos miembros del Gobierno español"
+
+El ex presidente español transmite a EL MUNDO que no va a responder a los insultos escritos por los miembros del Ejecutivo en redes sociales tachándole de «zoquete post franquista corrupto» Leer.
+
+Date: 2026-07-12
 
 ### Francia carga contra Rajoy por decir que su selección es de «altísimo nivel, sin franceses»
 
@@ -62,13 +68,6 @@ El presidente de Estados Unidos , Donald Trump, ha defendido este miércoles que
 
 Date: 2026-07-09
 
-### El Gobierno español ante las amenazas de Trump: "Ha sido lo previsible, barbaridades fuera y dentro nada de nada, ningún reproche"
-
-Se dan golpes. Protagonizan patadas voladoras. Saltan para aplastar al oponente. Maniobras para dañar las articulaciones del rival. Pero en el pressing catch o la lucha libre no...
-
-Date: 2026-07-08
-
 ## Fuentes
 
-- [Francia ve «absolutamente inaceptables» las palabras de Rajoy sobre su selección](https://www.abc.es/deportes/futbol/mundial/francia-considera-absolutamente-inaceptables-palabras-rajoy-sobre-20260712171513-nt.html?utm_source=lootura.com) — 2026-07-12T18:00:55.000Z
-- [Francia carga contra Rajoy por decir que su selección es de «altísimo nivel, sin franceses»](https://theobjective.com/internacional/2026-07-12/francia-rajoy-seleccion-nivel-sin-franceses/?utm_source=lootura.com) — 2026-07-12T13:33:19.000Z
+- [Mariano Rajoy sobre los que le tachan de racista: "No me voy a poner al nivel de ciertos miembros del Gobierno español"](https://www.elmundo.es/deportes/futbol/mundial-de-futbol/2026/07/12/6a53e250e9cf4ae56c8b4571.html?utm_source=lootura.com) — 2026-07-12T21:23:59.000Z

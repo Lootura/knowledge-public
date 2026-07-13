@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/topic/artificial-intelligence/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/topic/artificial-intelligence/index.json",
   "description": "Sigue la actividad de Artificial intelligence en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-12T20:42:08.067Z",
+  "updatedAt": "2026-07-13T02:33:34.884Z",
   "aliases": [
     "AI",
     "machine learning"
@@ -32,16 +32,10 @@
   ],
   "sources": [
     {
-      "title": "La casa prefabricada más bonita es además expandible: perfecta para una segunda residencia",
-      "url": "https://www.larazon.es/tecnologia-consumo/casa-prefabricada-bonita-es-ademas-expandible-perfecta-segunda-residencia_202607126a50911d772f745d2c3e53ed.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-12T20:00:03.000Z",
-      "sourceId": "lootura-es-la-razon"
-    },
-    {
-      "title": "La NASA busca voluntarios para su próxima misión a Marte",
-      "url": "https://www.larazon.es/tecnologia/nasa-busca-voluntarios-proxima-mision-marte_202607126a53efcac0b5fb431c5152ea.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-12T19:49:31.000Z",
-      "sourceId": "lootura-es-la-razon"
+      "title": "Telefónica se concentra en cuatro países europeos para hacer una gran operación",
+      "url": "https://www.abc.es/economia/telefonica-trabaja-gran-operacion-corporativa-mercado-saturado-20260707013444-nt_amp.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-12T23:34:44.000Z",
+      "sourceId": "lootura-es-abc"
     }
   ],
   "evidenceCount": 1

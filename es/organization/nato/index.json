@@ -8,13 +8,18 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/nato/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/nato/index.json",
   "description": "Sigue la actividad de Organización del Tratado del Atlántico Norte en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-12T13:14:40.089Z",
+  "updatedAt": "2026-07-13T02:33:34.884Z",
   "aliases": [
     "North Atlantic Treaty Organization",
     "OTAN",
     "Organización del Tratado del Atlántico Norte"
   ],
   "changes": [
+    {
+      "title": "¿Cómo queda el tablero de la defensa europea tras el reajuste táctico de la OTAN en Ankara?",
+      "summary": "Para los aliados de Estados Unidos, las cumbres de la OTAN de ahora consisten en un ejercicio para contener daños y evitar reproches de Donald Trump. La “relación especial” entre la superpotencia estadounidense y la Unión Europea (UE) está tocada , pues ya no se puede dar por descontado el apoyo de Washington. La cumbr.",
+      "date": "2026-07-12"
+    },
     {
       "title": "Las claves: el mercado deja de comprar defensa europea en bloque",
       "summary": "La tensión bélica en Europa no ha aflojado. El secretario general de la OTAN, Mark Rutte, anunció durante la cumbre de Ankara “decenas de miles de millones” en nuevos contratos para la industria de defensa . Sin embargo, el mercado ha dejado de comprar el sector en bloque. Si durante 2024 y buena parte de 2025 bastaba.",
@@ -59,13 +64,15 @@
       "title": "Sánchez, entre el Spirit of St. Louis y el Plus Ultra",
       "summary": "«Uno, dos y tres/ tres banderilleros en el redondel»... Estaban los tres juntos, en el Consejo de Ministros, digo, y en hora y media, cada uno en su avión, rumbo a Ankara, a la cumbre de la OTAN. Corrijo, y cada uno en una aeronave del 45 Grupo del Ejército del Aire y del Espacio, que no es que sean de ellos los tres a.",
       "date": "2026-07-10"
-    },
-    {
-      "title": "¿Qué papel juega España dentro de la OTAN y por qué es uno de sus socios más fiables?",
-      "summary": "Pedro Sánchez en la reciente cumbre de la OTAN en Ankara, Turquía. La Moncloa A pesar de las siempre broncas palabras de Donald Trump, España es uno de los aliados más fiables y necesarios de la Alianza Atlántica. Hoy, resulta impensable plantear una OTAN sin ella. De hecho, la cumbre que acaba de cerrarse en Ankara (T.",
-      "date": "2026-07-10"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "¿Cómo queda el tablero de la defensa europea tras el reajuste táctico de la OTAN en Ankara?",
+      "url": "https://theconversation.com/como-queda-el-tablero-de-la-defensa-europea-tras-el-reajuste-tactico-de-la-otan-en-ankara-287217?utm_source=lootura.com",
+      "publishedAt": "2026-07-12T21:58:48.000Z",
+      "sourceId": "lootura-es-the-conversation-espana"
+    }
+  ],
+  "evidenceCount": 1
 }

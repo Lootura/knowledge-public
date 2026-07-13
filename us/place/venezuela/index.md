@@ -34,4 +34,4 @@ Date: 2026-07-08
 
 ## Sources
 
-- [How Marco Rubio Is Running Venezuela From Afar](https://www.nytimes.com/2026/07/11/us/politics/how-marco-rubio-runs-venezuela.html?utm_source=lootura.com) — 2026-07-12T01:25:06.000Z
+No public source links.

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/donald-trump/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/donald-trump/index.json",
   "description": "Sigue la actividad de Donald Trump en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-12T20:42:08.067Z",
+  "updatedAt": "2026-07-13T02:33:34.884Z",
   "aliases": [
     "President Donald Trump",
     "President Trump",
@@ -18,6 +18,11 @@
     {
       "title": "Muere el senador republicano Lindsey Graham, el último 'gran halcón' de Washington",
       "summary": "Principal impulsor de la guerra en Irán, defensor de Israel y de las sanciones a Moscú, se convirtió en uno de los principales asesores de Trump, al que había despreciado y criticado en el pasado Leer.",
+      "date": "2026-07-12"
+    },
+    {
+      "title": "¿Cómo queda el tablero de la defensa europea tras el reajuste táctico de la OTAN en Ankara?",
+      "summary": "Para los aliados de Estados Unidos, las cumbres de la OTAN de ahora consisten en un ejercicio para contener daños y evitar reproches de Donald Trump. La “relación especial” entre la superpotencia estadounidense y la Unión Europea (UE) está tocada , pues ya no se puede dar por descontado el apoyo de Washington. La cumbr.",
       "date": "2026-07-12"
     },
     {
@@ -59,11 +64,6 @@
       "title": "Trump, otra vez contra los medios: periodistas de The New York Times reciben citaciones judiciales tras una información sobre el nuevo Air Force One",
       "summary": "La información aseguraba que el aparato, regalado por Qatar, carecía de algunas funciones avanzadas de seguridad, incluidas capacidades antimisiles Leer.",
       "date": "2026-07-11"
-    },
-    {
-      "title": "Trump asegura que hay «mil misiles listos» para atacar Irán si cumple su amenaza de muerte",
-      "summary": "El presidente estadounidense, Donald Trump , ha asegurado que cuenta con hasta un millar de proyectiles listos para cargar contra Irán en caso de que las autoridades de la República Islámica cumplan con sus advertencias y atenten contra la vida del mandatario, en un contexto de renovada tensión en el que Teherán ha acu.",
-      "date": "2026-07-11"
     }
   ],
   "sources": [
@@ -72,7 +72,13 @@
       "url": "https://www.elmundo.es/internacional/2026/07/12/6a533d57e85ece547c8b458b.html?utm_source=lootura.com",
       "publishedAt": "2026-07-12T14:55:24.000Z",
       "sourceId": "lootura-es-el-mundo"
+    },
+    {
+      "title": "¿Cómo queda el tablero de la defensa europea tras el reajuste táctico de la OTAN en Ankara?",
+      "url": "https://theconversation.com/como-queda-el-tablero-de-la-defensa-europea-tras-el-reajuste-tactico-de-la-otan-en-ankara-287217?utm_source=lootura.com",
+      "publishedAt": "2026-07-12T21:58:48.000Z",
+      "sourceId": "lootura-es-the-conversation-espana"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 2
 }

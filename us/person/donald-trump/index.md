@@ -3,10 +3,16 @@
 > Follow Donald Trump, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-07-12T20:42:32.118Z
+- Updated: 2026-07-13T02:33:56.207Z
 - Canonical: https://atlas.lootura.com/us/person/donald-trump
 
 ## Recent changes
+
+### Michael Cohen Helped Convict Trump. Now, He’s Making Nice Again.
+
+A previously unreported encounter last summer set the stage for a rapprochement between the president and his former fixer, who has so far avoided the diatribes and prosecutions that President Trump has directed at other critics.
+
+Date: 2026-07-13
 
 ### A Bible passage is at the center of a debate over how the U.S. should treat immigrants
 
@@ -62,12 +68,6 @@ Trump says US senator was ‘a true American patriot’ while Zelenskyy says he�
 
 Date: 2026-07-12
 
-### Trump Recalls Last Conversation With Lindsey Graham Before His Death
-
-In an interview on Sunday, President Trump recounted his last conversation with Senator Lindsey Graham, hours before his death. Mr. Graham sounded “perfect,” he said.
-
-Date: 2026-07-12
-
 ## Sources
 
 - [Retired Gen. Frank McKenzie on the Trump administration's options with Iran](https://www.cbsnews.com/video/retired-gen-frank-mckenzie-on-the-trump-administrations-options-with-iran/?utm_source=lootura.com) — 2026-07-12T16:05:40.000Z
@@ -78,5 +78,5 @@ Date: 2026-07-12
 - [Politics chat: Lindsey Graham dies at 71, Congress back in session, U.S. strikes Iran](https://www.npr.org/2026/07/12/nx-s1-5887274/politics-chat-lindsey-graham-dies-at-71-congress-back-in-session-u-s-strikes-iran?utm_source=lootura.com) — 2026-07-12T11:57:11.000Z
 - [An artist brought 'I.C.E. pops' to a Texas campus. The show was shut down in days](https://www.npr.org/2026/07/12/nx-s1-5783832/ice-pop-texas-victor-marka27-quinonez-artist?utm_source=lootura.com) — 2026-07-12T09:00:00.000Z
 - [From staunch critic to fierce ally: Graham's long, strange and consequential friendship with Trump](https://www.pbs.org/newshour/politics/from-staunch-critic-to-fierce-ally-grahams-long-strange-and-consequential-friendship-with-trump?utm_source=lootura.com) — 2026-07-12T19:45:01.000Z
+- [Lindsey Graham remembered for a vision of American foreign policy that's fading in Washington](https://www.pbs.org/newshour/politics/lindsey-graham-remembered-for-a-vision-of-american-foreign-policy-thats-fading-in-washington?utm_source=lootura.com) — 2026-07-12T22:40:48.000Z
 - [Texas Hispanics swung hard to Trump. A new poll shows they’re furious at his deportations.](https://www.politico.com/news/2026/07/12/trumps-deportation-drive-tests-gop-gains-in-texas-00993955?utm_source=lootura.com) — 2026-07-12T18:00:00.000Z
-- [‘The fiercest of fighters’: Lindsey Graham remembered by politicians and foreign leaders after sudden death](https://www.theguardian.com/us-news/2026/jul/12/lindsey-graham-death-tributes?utm_source=lootura.com) — 2026-07-12T19:41:37.000Z

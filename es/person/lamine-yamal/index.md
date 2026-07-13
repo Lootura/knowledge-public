@@ -28,4 +28,4 @@ Date: 2026-07-08
 
 ## Fuentes
 
-- [Konaté responde al dardo de Lamine Yamal: "No hay que tener miedo de nadie"](https://okdiario.com/mundial/konate-responde-dardo-lamine-yamal-no-hay-que-tener-miedo-nadie-18981120/amp?utm_source=lootura.com) — 2026-07-12T16:46:03.000Z
+No public source links.

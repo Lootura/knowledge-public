@@ -3,7 +3,7 @@
 > Follow New York, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-12T20:42:32.118Z
+- Updated: 2026-07-13T02:33:56.207Z
 - Canonical: https://atlas.lootura.com/us/place/new-york
 
 ## Recent changes
@@ -70,4 +70,5 @@ Date: 2026-07-09
 
 ## Sources
 
+- [Want to own a real T. rex? It could cost you $30 million](https://www.npr.org/2026/07/12/nx-s1-5890988/t-rex-gus-dinosaur-auction-sothebys-millions?utm_source=lootura.com) — 2026-07-13T00:14:03.000Z
 - [Younger Voters Are Propelling the Democratic Socialist Surge in New York](https://www.nytimes.com/2026/07/12/nyregion/dsa-young-voters-primary-ny.html?utm_source=lootura.com) — 2026-07-12T07:00:23.000Z

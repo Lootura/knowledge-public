@@ -8,13 +8,18 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/donald-trump/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/donald-trump/index.json",
   "description": "Follow Donald Trump, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-12T20:42:32.118Z",
+  "updatedAt": "2026-07-13T02:33:56.207Z",
   "aliases": [
     "President Donald Trump",
     "President Trump",
     "Trump"
   ],
   "changes": [
+    {
+      "title": "Michael Cohen Helped Convict Trump. Now, He’s Making Nice Again.",
+      "summary": "A previously unreported encounter last summer set the stage for a rapprochement between the president and his former fixer, who has so far avoided the diatribes and prosecutions that President Trump has directed at other critics.",
+      "date": "2026-07-13"
+    },
     {
       "title": "A Bible passage is at the center of a debate over how the U.S. should treat immigrants",
       "summary": "A debate over the Bible verse Matthew 25 is pitting mainline pastors, Black protestants and the pope against evangelical politicians put on the defensive over President Trump's policies.",
@@ -58,11 +63,6 @@
     {
       "title": "‘The fiercest of fighters’: Lindsey Graham remembered by politicians and foreign leaders after sudden death",
       "summary": "Trump says US senator was ‘a true American patriot’ while Zelenskyy says he’s ‘deeply saddened’ by his death Graham’s death triggers a scramble to replace him – what happens next? Lindsey Graham dies after sudden illness aged 71 Washington woke up to the unexpected death of Republican senator Lindsey Graham , 71, who c.",
-      "date": "2026-07-12"
-    },
-    {
-      "title": "Trump Recalls Last Conversation With Lindsey Graham Before His Death",
-      "summary": "In an interview on Sunday, President Trump recounted his last conversation with Senator Lindsey Graham, hours before his death. Mr. Graham sounded “perfect,” he said.",
       "date": "2026-07-12"
     }
   ],
@@ -116,17 +116,17 @@
       "sourceId": "lootura-us-pbs-newshour"
     },
     {
+      "title": "Lindsey Graham remembered for a vision of American foreign policy that's fading in Washington",
+      "url": "https://www.pbs.org/newshour/politics/lindsey-graham-remembered-for-a-vision-of-american-foreign-policy-thats-fading-in-washington?utm_source=lootura.com",
+      "publishedAt": "2026-07-12T22:40:48.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
+    },
+    {
       "title": "Texas Hispanics swung hard to Trump. A new poll shows they’re furious at his deportations.",
       "url": "https://www.politico.com/news/2026/07/12/trumps-deportation-drive-tests-gop-gains-in-texas-00993955?utm_source=lootura.com",
       "publishedAt": "2026-07-12T18:00:00.000Z",
       "sourceId": "lootura-us-politico"
-    },
-    {
-      "title": "‘The fiercest of fighters’: Lindsey Graham remembered by politicians and foreign leaders after sudden death",
-      "url": "https://www.theguardian.com/us-news/2026/jul/12/lindsey-graham-death-tributes?utm_source=lootura.com",
-      "publishedAt": "2026-07-12T19:41:37.000Z",
-      "sourceId": "lootura-us-the-guardian-us"
     }
   ],
-  "evidenceCount": 11
+  "evidenceCount": 14
 }

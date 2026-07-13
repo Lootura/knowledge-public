@@ -3,7 +3,7 @@
 > Follow Spain, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-12T20:42:32.118Z
+- Updated: 2026-07-13T02:33:56.207Z
 - Canonical: https://atlas.lootura.com/us/place/espana
 
 ## Recent changes
@@ -52,5 +52,4 @@ Date: 2026-07-09
 
 ## Sources
 
-- [This English professor has run with the bulls in Spain for two decades](https://www.npr.org/2026/07/11/nx-s1-5887431/this-english-professor-has-run-with-the-bulls-in-spain-for-two-decades?utm_source=lootura.com) — 2026-07-11T21:08:27.000Z
-- [Residents of Spanish Towns Caught in Fierce Blazes Recount Harrowing Escapes](https://www.nytimes.com/2026/07/12/world/europe/spain-wildfire-almeria-province.html?utm_source=lootura.com) — 2026-07-12T15:31:34.000Z
+- [World Cup down to final four teams](https://www.cbsnews.com/video/world-cup-down-to-final-four-teams/?utm_source=lootura.com) — 2026-07-13T01:11:46.000Z
