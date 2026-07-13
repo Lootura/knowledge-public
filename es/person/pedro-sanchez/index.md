@@ -3,10 +3,22 @@
 > Sigue la actividad de Pedro Sánchez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-13T02:33:34.884Z
+- Actualizado: 2026-07-13T06:50:56.167Z
 - Canonical: https://atlas.lootura.com/es/person/pedro-sanchez
 
 ## Cambios recientes
+
+### Pedro Sánchez y Juanma Moreno coinciden en la visita al puesto de mando avanzado del incendio de Los Gallardos
+
+El presidente del Gobierno, Pedro Sánchez , visitará este lunes, 13 de julio, las zonas afectadas por el incendio forestal de Los Gallardos (Almería) que se declaró el pasado jueves día 9, y que se ha dado por estabilizado este domingo tras cobrarse la vida de doce personas en las primeras horas de su propagación. Tamb.
+
+Date: 2026-07-13
+
+### Las notas secretas que Zapatero entregó a Sánchez: Junts rompió con el Gobierno por usar a Pumpido para engañarles
+
+Junts per Catalunya acusó por escrito al Gobierno de Pedro Sánchez de utilizar al Tribunal Constitucional para blindar su apoyo al Ejecutivo engañando a su cúpula con promesas...
+
+Date: 2026-07-12
 
 ### El PP se compromete en Ermua a aclarar los 376 crímenes impunes de ETA frente a la "indignidad" del sanchismo con EH Bildu
 
@@ -23,12 +35,6 @@ Date: 2026-07-12
 ### Pedro Sánchez visitará este lunes las zonas afectadas por el incendio forestal de Los Gallardos
 
 El presidente del Gobierno, Pedro Sánchez , viajará este lunes 13 de julio a las áreas arrasadas por el incendio forestal de Los Gallardos (Almería), declarado el pasado jueves 9 y estabilizado este domingo, tras causar la muerte de doce personas en sus primeras horas de avance. La Moncloa ha confirmado que en la visit.
-
-Date: 2026-07-12
-
-### Las notas secretas que Zapatero entregó a Sánchez: Junts rompió con el Gobierno por usar a Pumpido para engañarles
-
-Junts per Catalunya acusó por escrito al Gobierno de Pedro Sánchez de utilizar al Tribunal Constitucional para blindar su apoyo al Ejecutivo engañando a su cúpula con promesas...
 
 Date: 2026-07-12
 
@@ -62,15 +68,7 @@ El presidente no quiere cerrar ninguna de momento. Los suyos siguen confiando en
 
 Date: 2026-07-12
 
-### Catalunya ante el espejo: del “España nos roba” a la amenaza del “califato”
-
-La justicia europea se pronunciará la próxima semana sobre la amnistía que el Gobierno de Pedro Sánchez aprobó para los líderes del procés. Si la avala, estará a punto de concluir la mayor crisis constitucional de España en esta etapa democrática. Mientras, la sociedad catalana ha virado en sus preocupaciones desde aqu.
-
-Date: 2026-07-12
-
 ## Fuentes
 
-- [Pedro Sánchez visitará este lunes las zonas afectadas por el incendio forestal de Los Gallardos](https://www.elconfidencial.com/espana/2026-07-12/incendio-los-gallardos-almeria-1tps_4388714/?utm_source=lootura.com) — 2026-07-12T16:44:00.000Z
-- [El PP se compromete en Ermua a aclarar los 376 crímenes impunes de ETA frente a la "indignidad" del sanchismo con EH Bildu](https://www.elmundo.es/pais-vasco/2026/07/12/6a536b49e4d4d8382d8b4592.html?utm_source=lootura.com) — 2026-07-12T10:47:16.000Z
 - [Las notas secretas que Zapatero entregó a Sánchez: Junts rompió con el Gobierno por usar a Pumpido para engañarles](https://amp.elmundo.es/espana/2026/07/12/6a53a8e721efa091308b458c.html?utm_source=lootura.com) — 2026-07-12T20:50:12.000Z
-- [Sánchez, a Rajoy tras su opinión sobre Francia: «Que gane el mejor y que pierda el racismo»](https://theobjective.com/espana/politica/2026-07-12/sanchez-rajoy-francia-mejor-racismo/?amp=&utm_source=lootura.com) — 2026-07-12T15:43:44.000Z
+- [Pedro Sánchez y Juanma Moreno coinciden en la visita al puesto de mando avanzado del incendio de Los Gallardos](https://www.larazon.es/andalucia/pedro-sanchez-juanma-moreno-coinciden-visita-puesto-mando-avanzado-incendio-gallardos_202607136a5485f5772f745d2c452de3.html?utm_source=lootura.com) — 2026-07-13T06:30:13.000Z

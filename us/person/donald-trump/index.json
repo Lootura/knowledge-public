@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/donald-trump/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/donald-trump/index.json",
   "description": "Follow Donald Trump, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-13T02:33:56.207Z",
+  "updatedAt": "2026-07-13T06:51:18.851Z",
   "aliases": [
     "President Donald Trump",
     "President Trump",
@@ -36,16 +36,6 @@
       "date": "2026-07-12"
     },
     {
-      "title": "An artist brought 'I.C.E. pops' to a Texas campus. The show was shut down in days",
-      "summary": "The Trump administration's executive orders have meant that administrators are questioning what art can — and can't — be seen on campus. (Image credit: Laila AnnMarie Stevens for NPR).",
-      "date": "2026-07-12"
-    },
-    {
-      "title": "Sen. Lindsey Graham of South Carolina, Trump ally and foreign policy hawk, dies at 71",
-      "summary": "His office said Graham died Saturday night after a \"brief and sudden illness.\" The Republican senator was instrumental in enacting Trump's policy and staffing priorities. (Image credit: Jeffrey Collins).",
-      "date": "2026-07-12"
-    },
-    {
       "title": "Trump says ‘I have somebody that I like’ to succeed Lindsey Graham but ‘too soon’ to say who",
       "summary": "President Donald Trump joins Meet the Press in an exclusive interview and weighs in on the decision Gov. Henry McMaster (R-S.C.) now faces to appoint someone to fill the late Sen. Lindsey Graham’s (R-S.C.) seat. “Ultimately they'll have an election,” Trump said. “Some are good, some are bad. And but I have somebody tha.",
       "date": "2026-07-12"
@@ -61,8 +51,18 @@
       "date": "2026-07-12"
     },
     {
-      "title": "‘The fiercest of fighters’: Lindsey Graham remembered by politicians and foreign leaders after sudden death",
-      "summary": "Trump says US senator was ‘a true American patriot’ while Zelenskyy says he’s ‘deeply saddened’ by his death Graham’s death triggers a scramble to replace him – what happens next? Lindsey Graham dies after sudden illness aged 71 Washington woke up to the unexpected death of Republican senator Lindsey Graham , 71, who c.",
+      "title": "Trump Recalls Last Conversation With Lindsey Graham Before His Death",
+      "summary": "In an interview on Sunday, President Trump recounted his last conversation with Senator Lindsey Graham, hours before his death. Mr. Graham sounded “perfect,” he said.",
+      "date": "2026-07-12"
+    },
+    {
+      "title": "Lindsey Graham remembered for a vision of American foreign policy that's fading in Washington",
+      "summary": "Graham was a rare bridge between President Donald Trump's \"America First\" foreign policy and the traditional Washington consensus prioritizing alliances with Europe and Israel, one falling out of favor with many in both political parties.",
+      "date": "2026-07-12"
+    },
+    {
+      "title": "With Lindsey Graham Gone, Ukraine Loses an Ally in Trump’s Ear",
+      "summary": "The South Carolina Republican was Ukraine’s most influential champion inside President Trump’s mostly ”America First” political orbit.",
       "date": "2026-07-12"
     }
   ],
@@ -92,21 +92,9 @@
       "sourceId": "lootura-us-npr-politics"
     },
     {
-      "title": "Sen. Lindsey Graham of South Carolina, Trump ally and foreign policy hawk, dies at 71",
-      "url": "https://www.npr.org/2026/07/12/nx-s1-5890790/us-sen-lindsey-graham-dies?utm_source=lootura.com",
-      "publishedAt": "2026-07-12T07:10:41.000Z",
-      "sourceId": "lootura-us-npr-politics"
-    },
-    {
       "title": "Politics chat: Lindsey Graham dies at 71, Congress back in session, U.S. strikes Iran",
       "url": "https://www.npr.org/2026/07/12/nx-s1-5887274/politics-chat-lindsey-graham-dies-at-71-congress-back-in-session-u-s-strikes-iran?utm_source=lootura.com",
       "publishedAt": "2026-07-12T11:57:11.000Z",
-      "sourceId": "lootura-us-npr-politics"
-    },
-    {
-      "title": "An artist brought 'I.C.E. pops' to a Texas campus. The show was shut down in days",
-      "url": "https://www.npr.org/2026/07/12/nx-s1-5783832/ice-pop-texas-victor-marka27-quinonez-artist?utm_source=lootura.com",
-      "publishedAt": "2026-07-12T09:00:00.000Z",
       "sourceId": "lootura-us-npr-politics"
     },
     {
@@ -126,7 +114,19 @@
       "url": "https://www.politico.com/news/2026/07/12/trumps-deportation-drive-tests-gop-gains-in-texas-00993955?utm_source=lootura.com",
       "publishedAt": "2026-07-12T18:00:00.000Z",
       "sourceId": "lootura-us-politico"
+    },
+    {
+      "title": "Trump Recalls Last Conversation With Lindsey Graham Before His Death",
+      "url": "https://www.nytimes.com/2026/07/12/us/politics/donald-trump-lindsey-graham-death-interview.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-12T17:02:54.000Z",
+      "sourceId": "lootura-us-the-new-york-times-politics"
+    },
+    {
+      "title": "Michael Cohen Helped Convict Trump. Now, He’s Making Nice Again.",
+      "url": "https://www.nytimes.com/2026/07/12/us/politics/trump-cohen-meeting-show.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-13T01:17:02.000Z",
+      "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 14
+  "evidenceCount": 11
 }

@@ -3,10 +3,34 @@
 > Sigue la actividad de China en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-12T06:30:48.397Z
+- Actualizado: 2026-07-13T06:50:56.167Z
 - Canonical: https://atlas.lootura.com/es/place/china
 
 ## Cambios recientes
+
+### El 'boom' de los neumáticos 'made in China' en España pone en jaque a los grandes fabricantes europeos
+
+Muy lejos queda ya la etiqueta que se le puso a China con sus falsificaciones e imitaciones. El gigante asiático ha dado un auténtico salto adelante en los últimos tiempos con un gran avance en la tecnología que ha puesto patas arriba el mundo de la automoción. No solo porque sus coches acaparan cada vez más cuota de m.
+
+Date: 2026-07-13
+
+### Li Ping, experta en medicina china: «La lengua es el espejo del corazón»
+
+Dicen que nadie conoce mejor su cuerpo que uno mismo. Que podemos ir al médico porque nos duele o nos pasa algo, pero que es el propio paciente quien sabe a la perfección cómo reacciona su organismo. Y es que no todos padecemos o desarrollamos una enfermedad de igual forma. O incluso con síntomas comunes, cada individu.
+
+Date: 2026-07-13
+
+### La Primera de Expansión sobre el apagón, Brookfield, Inditex, Irán, Mitsubishi y la IA china
+
+La Primera de Expansión les cuenta hoy que el Gobierno rechaza que el Consorcio de Compensación de Seguros asuma el pago de las indemnizaciones por el apagón.
+
+Date: 2026-07-13
+
+### El embajador de EE UU ante la ONU acusa a Cuba de contar con "puestos de inteligencia" de Rusia y China
+
+El embajador de Estados Unidos ante Naciones Unidas, Mike Waltz, ha afirmado que Cuba supone "una amenaza para su propio pueblo" y también para la "seguridad nacional" estadounidense, alegando que acoge elementos de las inteligencias de Rusia y de China. "El régimen cubano no solo representa una amenaza para su propio.
+
+Date: 2026-07-13
 
 ### ¿Hay café para todos? Nestlé busca conquistar a los bebedores de té de China e India en pleno récord de demanda
 
@@ -44,24 +68,9 @@ Al menos 28 personas murieron este jueves en un incendio registrado en una fábr
 
 Date: 2026-07-09
 
-### Xiaomi acaba de anunciar tu lavadora favorita: no necesita detergente y quita todo el pelo de las mascotas
-
-Xiaomi ha decidido que quiere destrozar el catálogo de Balay, Bosch o Samsung . La compañía china acaba de lanzar una de las lavadoras más inteligentes, avanzadas y completas de todo el mercado, ofreciendo un producto prácticamente sin competencia y a un precio que parece de risa. La protagonista de hoy es la Mijia Was.
-
-Date: 2026-07-09
-
-### ¿Por qué esta vez hay que tomarse muy en serio las amenazas contra España?
-
-En España llevamos demasiado tiempo confiando en la supina ignorancia de Trump. Empezamos mal cuando a los pocos días de su segunda toma de posesión, el presidente situó a España como parte de los BRICS, el bloque de economías emergentes cuyo nombre deriva de las iniciales de sus fundadores: Brasil, Rusia, India, China.
-
-Date: 2026-07-09
-
-### El mercado del coche eléctrico es una burbuja en China: hasta los fabricantes de aspiradoras se lanzan a él
-
-Muchas compañías del sector ya buscan en Europa la salida a la feroz guerra de precios, que está provocada por la masiva entrada de nuevos competidores Leer.
-
-Date: 2026-07-08
-
 ## Fuentes
 
-No public source links.
+- [El 'boom' de los neumáticos 'made in China' en España pone en jaque a los grandes fabricantes europeos](https://www.20minutos.es/lainformacion/economia-y-finanzas/neumaticos-china-contra-cuerdas-europeos-cambiar-estrategia_7012572_0.html?utm_source=lootura.com) — 2026-07-13T03:00:00.000Z
+- [Li Ping, experta en medicina china: «La lengua es el espejo del corazón»](https://www.abc.es/bienestar/ping-experta-medicina-tradicional-china-lengua-espejo-20260713200432-nt.html?utm_source=lootura.com) — 2026-07-13T06:03:52.000Z
+- [La Primera de Expansión sobre el apagón, Brookfield, Inditex, Irán, Mitsubishi y la IA china](https://www.expansion.com/podcasts/la-primera-de-expansion/2026/07/13/6a547333e5fdea310f8b458b.html?utm_source=lootura.com) — 2026-07-13T05:39:53.000Z
+- [El embajador de EE UU ante la ONU acusa a Cuba de contar con "puestos de inteligencia" de Rusia y China](https://www.larazon.es/internacional/embajador-onu-acusa-cuba-contar-puestos-inteligencia-rusia-china_202607136a548697c48a78681b85e6f6.html?utm_source=lootura.com) — 2026-07-13T06:32:55.000Z

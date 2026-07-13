@@ -3,10 +3,22 @@
 > Sigue la actividad de Barcelona en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-13T02:33:34.884Z
+- Actualizado: 2026-07-13T06:50:56.167Z
 - Canonical: https://atlas.lootura.com/es/place/barcelona
 
 ## Cambios recientes
+
+### El último recurso de Isak y Jonathan Andic ante el “sufrimiento” por su relación “pésima”
+
+En marzo de 2023, el conflicto entre Isak Andic y su hijo mayor, Jonathan Andic , parece haber llegado a un callejón sin salida. Padre e hijo llevan meses en manos de una mujer muy particular, Julia Lüderwaldt , psicoterapeuta de cabecera de familias adineradas de Barcelona —de los Sánchez Vicario a los Urdangarin— que.
+
+Date: 2026-07-13
+
+### Tercera ola de calor en Barcelona: hasta cuándo durará, pico máximo y temperatura día a día esta semana, según el Meteocat
+
+La primera coincidió con los primeros días de verano astronómico, y la segunda comenzó el 5 de julio con temperaturas récord.
+
+Date: 2026-07-13
 
 ### Laporta manda un aviso al Atlético por Julián: «No vamos a bailar la música a nadie»
 
@@ -56,18 +68,7 @@ Xavier García Hornos , director comercial de banca de empresas de la dirección
 
 Date: 2026-07-11
 
-### Objetivo 2027: Feijóo se multiplica por el territorio y convoca a sus alcaldes en Santiago
-
-Alberto Núñez Feijóo ha llenado su agenda de actos y reuniones fuera de Madrid en las últimas semanas. Barcelona, Castellón, Murcia, Pamplona, Santander, Bilbao o Valladolid han sido algunas de las ciudades que ha pisado un líder del PP que piensa ya en la carrera de fondo que exige el ciclo electoral que arranca en se.
-
-Date: 2026-07-11
-
-### AEMET prevé cielo despejado en Barcelona, con riesgo de tormentas en el Prepirineo y viento moderado
-
-El tiempo en Barcelona para hoy, 11 de julio de 2026, se presentará con cielos mayormente despejados, aunque en el Prepirineo podrían desarrollarse nubosidades que traigan chubascos con tormenta por la tarde. Las temperaturas descenderán o se mantendrán estables, mientras que se espera un viento moderado del nordeste e.
-
-Date: 2026-07-11
-
 ## Fuentes
 
-- [Laporta manda un aviso al Atlético por Julián: «No vamos a bailar la música a nadie»](https://okdiario.com/deportes/laporta-manda-aviso-atletico-julian-no-vamos-bailar-musica-nadie-18981979?utm_source=lootura.com) — 2026-07-12T22:01:11.000Z
+- [El último recurso de Isak y Jonathan Andic ante el “sufrimiento” por su relación “pésima”](https://elpais.com/espana/catalunya/2026-07-13/el-ultimo-recurso-de-isak-y-jonathan-andic-ante-el-sufrimiento-por-su-relacion-pesima.html?utm_source=lootura.com) — 2026-07-13T03:15:00.000Z
+- [Tercera ola de calor en Barcelona: hasta cuándo durará, pico máximo y temperatura día a día esta semana, según el Meteocat](https://www.larazon.es/cataluna/tercera-ola-calor-barcelona-cuando-durara-pico-maximo-temperatura-dia-dia-esta-semana-segun-meteocat_202607136a548aab772f745d2c4536e2.html?outputType=amp&utm_source=lootura.com) — 2026-07-13T06:50:19.000Z

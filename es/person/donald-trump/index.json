@@ -8,13 +8,23 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/donald-trump/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/donald-trump/index.json",
   "description": "Sigue la actividad de Donald Trump en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-13T02:33:34.884Z",
+  "updatedAt": "2026-07-13T06:50:56.167Z",
   "aliases": [
     "President Donald Trump",
     "President Trump",
     "Trump"
   ],
   "changes": [
+    {
+      "title": "Dentro de la Casa Blanca: así ejerce Trump un poder desenfrenado para dejar su huella en la historia",
+      "summary": "Si hay un punto de inflexión en el legado de Donald Trump como presidente de Estados Unidos, hay que buscarlo en el 20 de enero de 2025, el primer día de su regreso al Despacho Oval tras su abrupta salida en 2021, cuando fue derrotado por Joe Biden y convertido en un paria político por agitar a una muchedumbre enfervor.",
+      "date": "2026-07-13"
+    },
+    {
+      "title": "Canadá redibuja el mapa energético con un oleoducto para sortear a Trump y acercarse a Asia",
+      "summary": "Aquella especie de goma negra formaba parte desde hacía mucho tiempo del día a día de los chipewyan, uno de los pueblos indígenas del territorio que hoy ocupa la provincia de Alberta, en el centro oeste de Canadá. La sustancia viscosa afloraba en las orillas del río Athabasca y la usaban para curar heridas e impermeabi.",
+      "date": "2026-07-13"
+    },
     {
       "title": "Muere el senador republicano Lindsey Graham, el último 'gran halcón' de Washington",
       "summary": "Principal impulsor de la guerra en Irán, defensor de Israel y de las sanciones a Moscú, se convirtió en uno de los principales asesores de Trump, al que había despreciado y criticado en el pasado Leer.",
@@ -54,30 +64,20 @@
       "title": "EEUU bombardea de nuevo Irán tras anunciar Teherán el cierre del estrecho Ormuz y atacar un barco en el paso marítimo",
       "summary": "Irán dice que el paso de Ormuz está cerrado de nuevo después de que un buque que seguía una \"ruta no autorizada\" fuera alcanzado y el Ejército de EEUU anuncia que \"está imponiendo un alto coste\" a Irán Trump desata el caos con nuevos ataques sobre Irán, insultos a sus aliados de la OTAN, crisis internas y más muertes d.",
       "date": "2026-07-12"
-    },
-    {
-      "title": "Discovered by Atlas",
-      "summary": "Donald Trump first entered the public knowledge record with source-backed evidence.",
-      "date": "2026-07-11"
-    },
-    {
-      "title": "Trump, otra vez contra los medios: periodistas de The New York Times reciben citaciones judiciales tras una información sobre el nuevo Air Force One",
-      "summary": "La información aseguraba que el aparato, regalado por Qatar, carecía de algunas funciones avanzadas de seguridad, incluidas capacidades antimisiles Leer.",
-      "date": "2026-07-11"
     }
   ],
   "sources": [
     {
-      "title": "Muere el senador republicano Lindsey Graham, el último 'gran halcón' de Washington",
-      "url": "https://www.elmundo.es/internacional/2026/07/12/6a533d57e85ece547c8b458b.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-12T14:55:24.000Z",
-      "sourceId": "lootura-es-el-mundo"
+      "title": "Dentro de la Casa Blanca: así ejerce Trump un poder desenfrenado para dejar su huella en la historia",
+      "url": "https://elpais.com/internacional/2026-07-13/dentro-de-la-casa-blanca-asi-ejerce-trump-un-poder-desenfrenado-para-dejar-su-huella-en-la-historia.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-13T03:40:00.000Z",
+      "sourceId": "lootura-es-cinco-dias"
     },
     {
-      "title": "¿Cómo queda el tablero de la defensa europea tras el reajuste táctico de la OTAN en Ankara?",
-      "url": "https://theconversation.com/como-queda-el-tablero-de-la-defensa-europea-tras-el-reajuste-tactico-de-la-otan-en-ankara-287217?utm_source=lootura.com",
-      "publishedAt": "2026-07-12T21:58:48.000Z",
-      "sourceId": "lootura-es-the-conversation-espana"
+      "title": "Canadá redibuja el mapa energético con un oleoducto para sortear a Trump y acercarse a Asia",
+      "url": "https://elpais.com/economia/2026-07-13/canada-redibuja-el-mapa-energetico-con-un-oleoducto-para-sortear-a-trump-y-acercarse-a-asia.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-13T03:30:00.000Z",
+      "sourceId": "lootura-es-cinco-dias"
     }
   ],
   "evidenceCount": 2

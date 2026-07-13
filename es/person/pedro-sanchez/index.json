@@ -8,11 +8,21 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/pedro-sanchez/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/pedro-sanchez/index.json",
   "description": "Sigue la actividad de Pedro Sánchez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-13T02:33:34.884Z",
+  "updatedAt": "2026-07-13T06:50:56.167Z",
   "aliases": [
     "Sánchez"
   ],
   "changes": [
+    {
+      "title": "Pedro Sánchez y Juanma Moreno coinciden en la visita al puesto de mando avanzado del incendio de Los Gallardos",
+      "summary": "El presidente del Gobierno, Pedro Sánchez , visitará este lunes, 13 de julio, las zonas afectadas por el incendio forestal de Los Gallardos (Almería) que se declaró el pasado jueves día 9, y que se ha dado por estabilizado este domingo tras cobrarse la vida de doce personas en las primeras horas de su propagación. Tamb.",
+      "date": "2026-07-13"
+    },
+    {
+      "title": "Las notas secretas que Zapatero entregó a Sánchez: Junts rompió con el Gobierno por usar a Pumpido para engañarles",
+      "summary": "Junts per Catalunya acusó por escrito al Gobierno de Pedro Sánchez de utilizar al Tribunal Constitucional para blindar su apoyo al Ejecutivo engañando a su cúpula con promesas...",
+      "date": "2026-07-12"
+    },
     {
       "title": "El PP se compromete en Ermua a aclarar los 376 crímenes impunes de ETA frente a la \"indignidad\" del sanchismo con EH Bildu",
       "summary": "\"El precio que ha pagado Sánchez es el de presos por votos\", denuncia la vicesecrataria general del PP Cuca Gamarra en el 29 homenaje a Blanco. Leer.",
@@ -26,11 +36,6 @@
     {
       "title": "Pedro Sánchez visitará este lunes las zonas afectadas por el incendio forestal de Los Gallardos",
       "summary": "El presidente del Gobierno, Pedro Sánchez , viajará este lunes 13 de julio a las áreas arrasadas por el incendio forestal de Los Gallardos (Almería), declarado el pasado jueves 9 y estabilizado este domingo, tras causar la muerte de doce personas en sus primeras horas de avance. La Moncloa ha confirmado que en la visit.",
-      "date": "2026-07-12"
-    },
-    {
-      "title": "Las notas secretas que Zapatero entregó a Sánchez: Junts rompió con el Gobierno por usar a Pumpido para engañarles",
-      "summary": "Junts per Catalunya acusó por escrito al Gobierno de Pedro Sánchez de utilizar al Tribunal Constitucional para blindar su apoyo al Ejecutivo engañando a su cúpula con promesas...",
       "date": "2026-07-12"
     },
     {
@@ -57,26 +62,9 @@
       "title": "Las tres ventanas de Sánchez para convocar las elecciones: la apresurada, la probable y la letal",
       "summary": "El presidente no quiere cerrar ninguna de momento. Los suyos siguen confiando en un milagro, en un giro de guion, en un triple salto mortal… la fe ...",
       "date": "2026-07-12"
-    },
-    {
-      "title": "Catalunya ante el espejo: del “España nos roba” a la amenaza del “califato”",
-      "summary": "La justicia europea se pronunciará la próxima semana sobre la amnistía que el Gobierno de Pedro Sánchez aprobó para los líderes del procés. Si la avala, estará a punto de concluir la mayor crisis constitucional de España en esta etapa democrática. Mientras, la sociedad catalana ha virado en sus preocupaciones desde aqu.",
-      "date": "2026-07-12"
     }
   ],
   "sources": [
-    {
-      "title": "Pedro Sánchez visitará este lunes las zonas afectadas por el incendio forestal de Los Gallardos",
-      "url": "https://www.elconfidencial.com/espana/2026-07-12/incendio-los-gallardos-almeria-1tps_4388714/?utm_source=lootura.com",
-      "publishedAt": "2026-07-12T16:44:00.000Z",
-      "sourceId": "lootura-es-el-confidencial"
-    },
-    {
-      "title": "El PP se compromete en Ermua a aclarar los 376 crímenes impunes de ETA frente a la \"indignidad\" del sanchismo con EH Bildu",
-      "url": "https://www.elmundo.es/pais-vasco/2026/07/12/6a536b49e4d4d8382d8b4592.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-12T10:47:16.000Z",
-      "sourceId": "lootura-es-el-mundo"
-    },
     {
       "title": "Las notas secretas que Zapatero entregó a Sánchez: Junts rompió con el Gobierno por usar a Pumpido para engañarles",
       "url": "https://amp.elmundo.es/espana/2026/07/12/6a53a8e721efa091308b458c.html?utm_source=lootura.com",
@@ -84,11 +72,11 @@
       "sourceId": "lootura-es-el-mundo"
     },
     {
-      "title": "Sánchez, a Rajoy tras su opinión sobre Francia: «Que gane el mejor y que pierda el racismo»",
-      "url": "https://theobjective.com/espana/politica/2026-07-12/sanchez-rajoy-francia-mejor-racismo/?amp=&utm_source=lootura.com",
-      "publishedAt": "2026-07-12T15:43:44.000Z",
-      "sourceId": "lootura-es-the-objective"
+      "title": "Pedro Sánchez y Juanma Moreno coinciden en la visita al puesto de mando avanzado del incendio de Los Gallardos",
+      "url": "https://www.larazon.es/andalucia/pedro-sanchez-juanma-moreno-coinciden-visita-puesto-mando-avanzado-incendio-gallardos_202607136a5485f5772f745d2c452de3.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-13T06:30:13.000Z",
+      "sourceId": "lootura-es-la-razon"
     }
   ],
-  "evidenceCount": 4
+  "evidenceCount": 2
 }

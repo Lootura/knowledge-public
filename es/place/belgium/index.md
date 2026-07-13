@@ -3,7 +3,7 @@
 > Sigue la actividad de Bélgica en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-12T20:42:08.067Z
+- Actualizado: 2026-07-13T06:50:56.167Z
 - Canonical: https://atlas.lootura.com/es/place/belgium
 
 ## Cambios recientes
@@ -70,4 +70,4 @@ Date: 2026-07-09
 
 ## Fuentes
 
-No public source links.
+- [Por qué De la Fuente confía en Marco Aurelio para pelear el Mundial](https://elpais.com/deportes/mundial-futbol/2026-07-13/por-que-de-la-fuente-confia-en-marco-aurelio-para-pelear-el-mundial.html?utm_source=lootura.com) — 2026-07-13T03:30:01.000Z

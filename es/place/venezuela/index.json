@@ -8,9 +8,14 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/venezuela/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/venezuela/index.json",
   "description": "Sigue la actividad de Venezuela en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-13T02:33:34.884Z",
+  "updatedAt": "2026-07-13T06:50:56.167Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "La represión chavista, arma para una venganza por desamor",
+      "summary": "Los melancólicos de viejas dictaduras dicen que en tiempos pasados se vivía mejor. En Venezuela , quienes añoran el 'orden' que existía durante la época del general Marcos Pérez Jiménez aseguran que, mientras uno no se metiera en política, no había nada que temer a la represión. Una falacia que hoy sigue vigente en la.",
+      "date": "2026-07-13"
+    },
     {
       "title": "Los muertos en Venezuela a causa del doble terremoto ya son casi 4.500",
       "summary": "Las autoridades venezolanas han elevado a casi 4.500 las víctimas mortales derivadas de los devastadores terremotos registrados en el centro de la costa.",
@@ -34,11 +39,17 @@
   ],
   "sources": [
     {
+      "title": "La represión chavista, arma para una venganza por desamor",
+      "url": "https://www.abc.es/internacional/estado-arma-personal-trampa-judicial-chavista-cazar-20260609011400-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-13T04:34:36.000Z",
+      "sourceId": "lootura-es-abc"
+    },
+    {
       "title": "Los muertos en Venezuela a causa del doble terremoto ya son casi 4.500",
       "url": "https://theobjective.com/internacional/2026-07-13/muertos-venezuela-terremoto-4500/?amp=&utm_source=lootura.com",
       "publishedAt": "2026-07-12T22:10:16.000Z",
       "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 2
 }

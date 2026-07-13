@@ -70,5 +70,4 @@ Date: 2026-07-11
 
 ## Sources
 
-- [Toronto police looking for suspects after deadly shooting at festival](https://www.npr.org/2026/07/12/g-s1-133229/toronto-shooting-salsa-festival?utm_source=lootura.com) — 2026-07-12T17:22:29.000Z
-- [Climate change leaves northern tree swallows more vulnerable those in the southern US](https://phys.org/news/2026-07-climate-northern-tree-swallows-vulnerable.html?utm_source=lootura.com) — 2026-07-12T19:00:01.000Z
+No public source links.

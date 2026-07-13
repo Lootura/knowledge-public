@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/psoe/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/psoe/index.json",
   "description": "Sigue la actividad de Partido Socialista Obrero Español en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-13T02:33:34.884Z",
+  "updatedAt": "2026-07-13T06:50:56.167Z",
   "aliases": [
     "Partido Socialista",
     "Partido Socialista Obrero Español"
   ],
   "changes": [
+    {
+      "title": "El juez profundiza en la infiltración de Leire Díez en altas instituciones y estrecha el cerco sobre el entorno más cercano a Sánchez",
+      "summary": "La causa que dirige el juez Santiago Pedraz contra las supuestas cloacas del PSOE estalló públicamente el pasado 27 de mayo y avanza desde entonces a un ritmo considerable. Aquella jornada supuso un hito por las imágenes de la entrada de la UCO en la sede del PSOE, pero también porque trascendió una extensa colección d.",
+      "date": "2026-07-13"
+    },
     {
       "title": "«Estoy convencido de que amañó el voto por correo»",
       "summary": "El día en que la UCO detuvo a Leire Díez en un atasco en plena Castellana , el impacto llegó también a Vega de Pas , el municipio cántabro donde empezó la 'fontanera' del PSOE. Fue el 10 de diciembre de 2025. «Recuerdo perfectamente aquel día. Alguien del pueblo me avisó de que había 'mucho coche' en la cabaña que tien.",
@@ -58,20 +63,15 @@
       "title": "¿Por qué el PSOE siempre choca con EEUU?… en dos minutos",
       "summary": "Gonzalo Bans analiza en dos minutos por qué el PSOE siempre choca con EEUU. [¿Eres anunciante y quieres patrocinar este programa? Escríbenos a comercial@theobjective.com ].",
       "date": "2026-07-11"
-    },
-    {
-      "title": "Pedraz imputa al ex jefe de gabinete de Sánchez y ex presidente de Correos en el 'caso Leire' pero rechaza examinar el teléfono de la gerente del PSOE",
-      "summary": "El juez autoriza a la UCO el volcado y análisis del contenido del móvil de Juan Manuel Serrano, una medida que cuenta además con el respaldo de la Fiscalía Anticorrupción Leer.",
-      "date": "2026-07-10"
     }
   ],
   "sources": [
     {
-      "title": "PSOE y Podemos cargan contra el «racismo» de Rajoy: «Avergüenza a España»",
-      "url": "https://theobjective.com/espana/politica/2026-07-12/psoe-podemos-racismo-rajoy/?utm_source=lootura.com",
-      "publishedAt": "2026-07-12T17:14:16.000Z",
-      "sourceId": "lootura-es-the-objective"
+      "title": "El juez profundiza en la infiltración de Leire Díez en altas instituciones y estrecha el cerco sobre el entorno más cercano a Sánchez",
+      "url": "https://www.20minutos.es/nacional/juez-profundiza-infiltracion-leire-diez-altas-instituciones-estrecha-cerco-sobre-entorno-mas-cercano-sanchez_7013272_0.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-13T03:00:00.000Z",
+      "sourceId": "lootura-es-20minutos"
     }
   ],
-  "evidenceCount": 0
+  "evidenceCount": 1
 }

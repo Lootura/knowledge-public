@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/topic/artificial-intelligence/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/topic/artificial-intelligence/index.json",
   "description": "Sigue la actividad de Artificial intelligence en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-13T02:33:34.884Z",
+  "updatedAt": "2026-07-13T06:50:56.167Z",
   "aliases": [
     "AI",
     "machine learning"
@@ -32,11 +32,11 @@
   ],
   "sources": [
     {
-      "title": "Telefónica se concentra en cuatro países europeos para hacer una gran operación",
-      "url": "https://www.abc.es/economia/telefonica-trabaja-gran-operacion-corporativa-mercado-saturado-20260707013444-nt_amp.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-12T23:34:44.000Z",
-      "sourceId": "lootura-es-abc"
+      "title": "¡Siri, gestióname una hipoteca!: así revolucionará la inteligencia artificial a la banca tradicional",
+      "url": "https://elpais.com/economia/2026-07-13/siri-gestioname-una-hipoteca-asi-revolucionara-la-inteligencia-artificial-a-la-banca-tradicional.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-13T03:30:01.000Z",
+      "sourceId": "lootura-es-cinco-dias"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 0
 }

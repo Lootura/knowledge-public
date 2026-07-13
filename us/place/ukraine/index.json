@@ -8,16 +8,11 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/ukraine/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/ukraine/index.json",
   "description": "Follow Ukraine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-13T02:33:56.207Z",
+  "updatedAt": "2026-07-13T06:51:18.851Z",
   "aliases": [
     "Kyiv"
   ],
   "changes": [
-    {
-      "title": "Trump Sought an Iran War Exit. Putin Pushed On in Ukraine. Now Both Are Stuck.",
-      "summary": "The Iran and Ukraine wars underline the common limits of military force in achieving political ends, but also the differences between a dug-in Russian president and a vacillating American one.",
-      "date": "2026-07-12"
-    },
     {
       "title": "Margaret Brennan: I spoke with Lindsey Graham a day before he died",
       "summary": "Fierce Ukraine supporter Lindsey Graham passed away Saturday on the heels of his tenth trip to the warzone, and at a key moment for one of the Republican senator's proudest accomplishments.",
@@ -31,6 +26,11 @@
     {
       "title": "With Lindsey Graham Gone, Ukraine Loses an Ally in Trump’s Ear",
       "summary": "The South Carolina Republican was Ukraine’s most influential champion inside President Trump’s mostly ”America First” political orbit.",
+      "date": "2026-07-12"
+    },
+    {
+      "title": "Trump Sought an Iran War Exit. Putin Pushed On in Ukraine. Now Both Are Stuck.",
+      "summary": "The Iran and Ukraine wars underline the common limits of military force in achieving political ends, but also the differences between a dug-in Russian president and a vacillating American one.",
       "date": "2026-07-12"
     },
     {
@@ -80,15 +80,9 @@
     {
       "title": "With Lindsey Graham Gone, Ukraine Loses an Ally in Trump’s Ear",
       "url": "https://www.nytimes.com/2026/07/12/us/lindsey-graham-ukraine.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-12T22:19:17.000Z",
-      "sourceId": "lootura-us-the-new-york-times-politics"
-    },
-    {
-      "title": "Trump Sought an Iran War Exit. Putin Pushed On in Ukraine. Now Both Are Stuck.",
-      "url": "https://www.nytimes.com/2026/07/12/world/europe/trump-putin-war-iran-ukraine.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-12T09:01:28.000Z",
+      "publishedAt": "2026-07-12T22:19:18.000Z",
       "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 4
+  "evidenceCount": 3
 }

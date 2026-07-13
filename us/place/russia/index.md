@@ -3,10 +3,16 @@
 > Follow Russia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-13T02:33:56.207Z
+- Updated: 2026-07-13T06:51:18.851Z
 - Canonical: https://atlas.lootura.com/us/place/russia
 
 ## Recent changes
+
+### Japan Is Building a New Intelligence Agency With Help From the West
+
+Facing threats from Russia and China, Prime Minister Sanae Takaichi is breaking with World War II-era limits on security.
+
+Date: 2026-07-13
 
 ### Shortly before Lindsey Graham's death, he was hopeful about new Russia sanctions bill
 
@@ -62,13 +68,8 @@ State actors in China, Russia and Iran have sought to exploit the U.S. public de
 
 Date: 2026-07-09
 
-### News Wrap: Olympian pleads not guilty on Reflecting Pool damage charges
-
-In our news wrap Thursday, three-time Olympic canoe racer David Hearn pleaded not guilty on charges he deliberately damaged the Reflecting Pool in Washington, Ukraine struck more energy targets inside Russia with long-range drones and authorities in southern China say flooding has killed at least 39 people after days o.
-
-Date: 2026-07-09
-
 ## Sources
 
 - [Shortly before Lindsey Graham's death, he was hopeful about new Russia sanctions bill](https://www.cbsnews.com/video/shortly-before-lindsey-grahams-death-he-was-hopeful-about-new-russia-sanctions-bill/?utm_source=lootura.com) — 2026-07-12T16:09:37.000Z
 - [Rep. Mike Turner says he hopes Senate will pass Russia sanctions as](https://www.cbsnews.com/news/rep-mike-turner-lindsey-graham-senate-russia-sanctions-bill/?utm_source=lootura.com) — 2026-07-12T16:55:26.000Z
+- [Japan Is Building a New Intelligence Agency With Help From the West](https://www.nytimes.com/2026/07/13/world/asia/japan-intelligence-agency.html?utm_source=lootura.com) — 2026-07-13T04:37:31.000Z

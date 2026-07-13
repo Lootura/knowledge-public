@@ -22,4 +22,4 @@ Date: 2026-07-08
 
 ## Fuentes
 
-- [El salvadoreño Iván Barton arbitrará el España-Francia](https://okdiario.com/mundial/salvadoreno-ivan-barton-arbitrara-espana-francia-18982095?utm_source=lootura.com) — 2026-07-13T00:48:33.000Z
+No public source links.

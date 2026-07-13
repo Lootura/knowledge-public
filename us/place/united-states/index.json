@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/united-states/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/united-states/index.json",
   "description": "Follow United States, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-13T02:33:56.207Z",
+  "updatedAt": "2026-07-13T06:51:18.851Z",
   "aliases": [
     "America",
     "Estados Unidos",
@@ -36,14 +36,14 @@
       "date": "2026-07-13"
     },
     {
-      "title": "Oil Rises After Weekend of Back-and-Forth Strikes by U.S. and Iran",
+      "title": "Oil Prices Surge After Iran and U.S. Trade Strikes",
       "summary": "The renewed hostilities posed fresh risks to ships seeking to navigate the Strait of Hormuz.",
       "date": "2026-07-13"
     },
     {
-      "title": "The World Is Cutting Ties With America. It’s Already Costing Us.",
-      "summary": "When other countries cut ties, Americans pay.",
-      "date": "2026-07-12"
+      "title": "Oil Rises After Weekend of Back-and-Forth Strikes by U.S. and Iran",
+      "summary": "The renewed hostilities posed fresh risks to ships seeking to navigate the Strait of Hormuz.",
+      "date": "2026-07-13"
     },
     {
       "title": "U.S. and world leaders pay tribute to Lindsey Graham following sudden death",
@@ -122,11 +122,11 @@
       "sourceId": "lootura-us-nbc-news"
     },
     {
-      "title": "A Bible passage is at the center of a debate over how the U.S. should treat immigrants",
-      "url": "https://www.npr.org/2026/07/12/nx-s1-5885947/a-bibe-passage-is-at-the-center-of-a-debate-over-how-the-u-s-should-treat-immigrants?utm_source=lootura.com",
-      "publishedAt": "2026-07-12T11:57:10.000Z",
-      "sourceId": "lootura-us-npr"
+      "title": "U.S. and Iran trade strikes and conflicting claims about the Strait of Hormuz",
+      "url": "https://www.nbcnews.com/nightly-news/video/u-s-and-iran-trade-strikes-and-conflicting-claims-about-the-strait-of-hormuz-266568261661?utm_source=lootura.com",
+      "publishedAt": "2026-07-12T23:29:25.000Z",
+      "sourceId": "lootura-us-nbc-news"
     }
   ],
-  "evidenceCount": 22
+  "evidenceCount": 19
 }

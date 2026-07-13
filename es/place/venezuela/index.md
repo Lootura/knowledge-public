@@ -3,10 +3,16 @@
 > Sigue la actividad de Venezuela en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-13T02:33:34.884Z
+- Actualizado: 2026-07-13T06:50:56.167Z
 - Canonical: https://atlas.lootura.com/es/place/venezuela
 
 ## Cambios recientes
+
+### La represión chavista, arma para una venganza por desamor
+
+Los melancólicos de viejas dictaduras dicen que en tiempos pasados se vivía mejor. En Venezuela , quienes añoran el 'orden' que existía durante la época del general Marcos Pérez Jiménez aseguran que, mientras uno no se metiera en política, no había nada que temer a la represión. Una falacia que hoy sigue vigente en la.
+
+Date: 2026-07-13
 
 ### Los muertos en Venezuela a causa del doble terremoto ya son casi 4.500
 
@@ -34,4 +40,5 @@ Date: 2026-07-11
 
 ## Fuentes
 
+- [La represión chavista, arma para una venganza por desamor](https://www.abc.es/internacional/estado-arma-personal-trampa-judicial-chavista-cazar-20260609011400-nt.html?utm_source=lootura.com) — 2026-07-13T04:34:36.000Z
 - [Los muertos en Venezuela a causa del doble terremoto ya son casi 4.500](https://theobjective.com/internacional/2026-07-13/muertos-venezuela-terremoto-4500/?amp=&utm_source=lootura.com) — 2026-07-12T22:10:16.000Z

@@ -3,7 +3,7 @@
 > Follow United States, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-13T02:33:56.207Z
+- Updated: 2026-07-13T06:51:18.851Z
 - Canonical: https://atlas.lootura.com/us/place/united-states
 
 ## Recent changes
@@ -32,17 +32,17 @@ He consistently pushed for the use of U.S. military power overseas. The Washingt
 
 Date: 2026-07-13
 
-### Oil Rises After Weekend of Back-and-Forth Strikes by U.S. and Iran
+### Oil Prices Surge After Iran and U.S. Trade Strikes
 
 The renewed hostilities posed fresh risks to ships seeking to navigate the Strait of Hormuz.
 
 Date: 2026-07-13
 
-### The World Is Cutting Ties With America. It’s Already Costing Us.
+### Oil Rises After Weekend of Back-and-Forth Strikes by U.S. and Iran
 
-When other countries cut ties, Americans pay.
+The renewed hostilities posed fresh risks to ships seeking to navigate the Strait of Hormuz.
 
-Date: 2026-07-12
+Date: 2026-07-13
 
 ### U.S. and world leaders pay tribute to Lindsey Graham following sudden death
 
@@ -79,4 +79,4 @@ Date: 2026-07-12
 - [How Sen. Lindsey Graham's death impacts U.S. politics](https://www.cbsnews.com/video/how-sen-lindsey-grahams-death-impacts-us-politics/?utm_source=lootura.com) — 2026-07-12T18:33:39.000Z
 - [Extreme heat, wildfires and severe thunderstorms affecting millions across the U.S.](https://www.cbsnews.com/video/extreme-heat-wildfires-and-severe-thunderstorms-affecting-millions-across-the-us/?utm_source=lootura.com) — 2026-07-13T01:22:00.000Z
 - [Adam Schiff remembers Lindsey Graham as ‘larger than life’: Full interview](https://www.nbcnews.com/meet-the-press/video/adam-schiff-remembers-lindsey-graham-as-larger-than-life-full-interview-266560069770?utm_source=lootura.com) — 2026-07-12T13:55:07.000Z
-- [A Bible passage is at the center of a debate over how the U.S. should treat immigrants](https://www.npr.org/2026/07/12/nx-s1-5885947/a-bibe-passage-is-at-the-center-of-a-debate-over-how-the-u-s-should-treat-immigrants?utm_source=lootura.com) — 2026-07-12T11:57:10.000Z
+- [U.S. and Iran trade strikes and conflicting claims about the Strait of Hormuz](https://www.nbcnews.com/nightly-news/video/u-s-and-iran-trade-strikes-and-conflicting-claims-about-the-strait-of-hormuz-266568261661?utm_source=lootura.com) — 2026-07-12T23:29:25.000Z

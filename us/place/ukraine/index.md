@@ -3,16 +3,10 @@
 > Follow Ukraine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-13T02:33:56.207Z
+- Updated: 2026-07-13T06:51:18.851Z
 - Canonical: https://atlas.lootura.com/us/place/ukraine
 
 ## Recent changes
-
-### Trump Sought an Iran War Exit. Putin Pushed On in Ukraine. Now Both Are Stuck.
-
-The Iran and Ukraine wars underline the common limits of military force in achieving political ends, but also the differences between a dug-in Russian president and a vacillating American one.
-
-Date: 2026-07-12
 
 ### Margaret Brennan: I spoke with Lindsey Graham a day before he died
 
@@ -29,6 +23,12 @@ Date: 2026-07-12
 ### With Lindsey Graham Gone, Ukraine Loses an Ally in Trump’s Ear
 
 The South Carolina Republican was Ukraine’s most influential champion inside President Trump’s mostly ”America First” political orbit.
+
+Date: 2026-07-12
+
+### Trump Sought an Iran War Exit. Putin Pushed On in Ukraine. Now Both Are Stuck.
+
+The Iran and Ukraine wars underline the common limits of military force in achieving political ends, but also the differences between a dug-in Russian president and a vacillating American one.
 
 Date: 2026-07-12
 
@@ -72,5 +72,4 @@ Date: 2026-07-11
 
 - [Margaret Brennan: I spoke with Lindsey Graham a day before he died](https://www.cbsnews.com/news/margaret-brennan-lindsey-graham-kyiv-russia-sanctions-ukraine/?utm_source=lootura.com) — 2026-07-12T16:14:25.000Z
 - [Ukraine's prime minister resigns; Zelenskyy shifts several government roles](https://www.cbsnews.com/news/ukraine-prime-minister-resigns-yulia-svyrydenko-volodymyr-zelenskyy-politics/?utm_source=lootura.com) — 2026-07-12T17:46:22.000Z
-- [With Lindsey Graham Gone, Ukraine Loses an Ally in Trump’s Ear](https://www.nytimes.com/2026/07/12/us/lindsey-graham-ukraine.html?utm_source=lootura.com) — 2026-07-12T22:19:17.000Z
-- [Trump Sought an Iran War Exit. Putin Pushed On in Ukraine. Now Both Are Stuck.](https://www.nytimes.com/2026/07/12/world/europe/trump-putin-war-iran-ukraine.html?utm_source=lootura.com) — 2026-07-12T09:01:28.000Z
+- [With Lindsey Graham Gone, Ukraine Loses an Ally in Trump’s Ear](https://www.nytimes.com/2026/07/12/us/lindsey-graham-ukraine.html?utm_source=lootura.com) — 2026-07-12T22:19:18.000Z

@@ -3,10 +3,34 @@
 > Sigue la actividad de Iran en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-13T02:33:34.884Z
+- Actualizado: 2026-07-13T06:50:56.167Z
 - Canonical: https://atlas.lootura.com/es/place/iran
 
 ## Cambios recientes
+
+### El petróleo sube con fuerza y las Bolsas se tiñen de rojo por las tensiones en Irán
+
+La renovada tensión en Oriente Próximo, con nuevos ataques entre EE UU e Irán, tiñe de rojo las Bolsas e impulsa bruscamente los precios del petróleo. El brent sube un 4% hasta superar los 79 dólares el barril, reavivando los temores a que el encarecimiento de los costes energéticos pueda alimentar la inflación y compl.
+
+Date: 2026-07-13
+
+### La Primera de Expansión sobre el apagón, Brookfield, Inditex, Irán, Mitsubishi y la IA china
+
+La Primera de Expansión les cuenta hoy que el Gobierno rechaza que el Consorcio de Compensación de Seguros asuma el pago de las indemnizaciones por el apagón.
+
+Date: 2026-07-13
+
+### El Ibex vuelve a dar marcha atrás por el petróleo
+
+La escalada en el conflicto entre Irán y EEUU vuelve a elevar el precio del petróleo. Con el Brent al filo de nuevo de los 80 dólares, los inversores dan un paso atrás en Bolsa. El Ibex no es una excepción, y repite las caídas predominantes la semana pasada.
+
+Date: 2026-07-13
+
+### Nueva oleada de ataques iraníes: Jordania y Kuwait interceptan misiles mientras Baréin activa sus sirenas
+
+Kuwait y Jordania anunciaron este lunes que han interceptado un nuevo ataque iraní con misiles, mientras que Baréin activó sus sirenas y pidió a sus habitantes permanecer en un lugar seguro por un supuesto lanzamiento contra el país, en el marco de los ataques y represalias entre Irán y Estados Unidos. En Jordania, fue.
+
+Date: 2026-07-13
 
 ### Muere el senador republicano Lindsey Graham, el último 'gran halcón' de Washington
 
@@ -44,31 +68,9 @@ Continúa la escalada de tensión en Oriente Próximo. Estados Unidos e Irán re
 
 Date: 2026-07-12
 
-### EEUU bombardea de nuevo Irán tras anunciar Teherán el cierre del estrecho Ormuz y atacar un barco en el paso marítimo
-
-Irán dice que el paso de Ormuz está cerrado de nuevo después de que un buque que seguía una "ruta no autorizada" fuera alcanzado y el Ejército de EEUU anuncia que "está imponiendo un alto coste" a Irán Trump desata el caos con nuevos ataques sobre Irán, insultos a sus aliados de la OTAN, crisis internas y más muertes d.
-
-Date: 2026-07-12
-
-### EE.UU. ataca objetivos iraníes tras el cierre del estrecho de Ormuz «hasta nuevo aviso» por parte de Teherán
-
-El Mando Central del Ejército de Estados Unidos (CENTCOM) ha anunciado este domingo ataques contra Irán tras la ofensiva de la Guardia Revolucionaria contra un buque comercial que habría ignorado sus instrucciones, lo que ha provocado el cierre del estrecho de Ormuz «hasta nuevo aviso».«Las fuerzas del Comando Central.
-
-Date: 2026-07-12
-
-### Un juez otorga a Hunter Biden, hijo de Joe Biden, una indemnización de 1,7 millones de dólares en un caso de difamación
-
-Patrick Byrne, fundador de Overstock.com, uno de los primeros grandes comercios electrónicos de EE UU, le acusó de participar en una supuesta trama de sobornos por valor de 800 millones de dólares impulsada por Irán.
-
-Date: 2026-07-11
-
-### Trump asegura que hay «mil misiles listos» para atacar Irán si cumple su amenaza de muerte
-
-El presidente estadounidense, Donald Trump , ha asegurado que cuenta con hasta un millar de proyectiles listos para cargar contra Irán en caso de que las autoridades de la República Islámica cumplan con sus advertencias y atenten contra la vida del mandatario, en un contexto de renovada tensión en el que Teherán ha acu.
-
-Date: 2026-07-11
-
 ## Fuentes
 
-- [Muere el senador republicano Lindsey Graham, el último 'gran halcón' de Washington](https://www.elmundo.es/internacional/2026/07/12/6a533d57e85ece547c8b458b.html?utm_source=lootura.com) — 2026-07-12T14:55:24.000Z
-- [Irán subraya que el tráfico por Ormuz está detenido por «movimientos ilegales de EEUU»](https://theobjective.com/internacional/2026-07-12/iran-ormuz-movimientos-ilegales-eeuu/?utm_source=lootura.com) — 2026-07-12T17:38:51.000Z
+- [El petróleo sube con fuerza y las Bolsas se tiñen de rojo por las tensiones en Irán](https://cincodias.elpais.com/mercados-financieros/2026-07-13/la-bolsa-y-el-ibex-35.html?utm_source=lootura.com) — 2026-07-13T04:25:19.000Z
+- [La Primera de Expansión sobre el apagón, Brookfield, Inditex, Irán, Mitsubishi y la IA china](https://www.expansion.com/podcasts/la-primera-de-expansion/2026/07/13/6a547333e5fdea310f8b458b.html?utm_source=lootura.com) — 2026-07-13T05:39:53.000Z
+- [El Ibex vuelve a dar marcha atrás por el petróleo](https://www.expansion.com/mercados/cronica-bolsa/2026/07/13/6a547ba5468aeb78108b457b.html?utm_source=lootura.com) — 2026-07-13T06:32:13.000Z
+- [Nueva oleada de ataques iraníes: Jordania y Kuwait interceptan misiles mientras Baréin activa sus sirenas](https://www.larazon.es/internacional/nueva-oleada-ataques-iranies-jordania-kuwait-interceptan-misiles-mientras-barein-activa-sus-sirenas_202607136a54888cc0b5fb431c523f19.html?utm_source=lootura.com) — 2026-07-13T06:41:16.000Z

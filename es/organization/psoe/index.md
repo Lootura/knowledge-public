@@ -3,10 +3,16 @@
 > Sigue la actividad de Partido Socialista Obrero Español en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-13T02:33:34.884Z
+- Actualizado: 2026-07-13T06:50:56.167Z
 - Canonical: https://atlas.lootura.com/es/organization/psoe
 
 ## Cambios recientes
+
+### El juez profundiza en la infiltración de Leire Díez en altas instituciones y estrecha el cerco sobre el entorno más cercano a Sánchez
+
+La causa que dirige el juez Santiago Pedraz contra las supuestas cloacas del PSOE estalló públicamente el pasado 27 de mayo y avanza desde entonces a un ritmo considerable. Aquella jornada supuso un hito por las imágenes de la entrada de la UCO en la sede del PSOE, pero también porque trascendió una extensa colección d.
+
+Date: 2026-07-13
 
 ### «Estoy convencido de que amañó el voto por correo»
 
@@ -62,12 +68,6 @@ Gonzalo Bans analiza en dos minutos por qué el PSOE siempre choca con EEUU. [¿
 
 Date: 2026-07-11
 
-### Pedraz imputa al ex jefe de gabinete de Sánchez y ex presidente de Correos en el 'caso Leire' pero rechaza examinar el teléfono de la gerente del PSOE
-
-El juez autoriza a la UCO el volcado y análisis del contenido del móvil de Juan Manuel Serrano, una medida que cuenta además con el respaldo de la Fiscalía Anticorrupción Leer.
-
-Date: 2026-07-10
-
 ## Fuentes
 
-- [PSOE y Podemos cargan contra el «racismo» de Rajoy: «Avergüenza a España»](https://theobjective.com/espana/politica/2026-07-12/psoe-podemos-racismo-rajoy/?utm_source=lootura.com) — 2026-07-12T17:14:16.000Z
+- [El juez profundiza en la infiltración de Leire Díez en altas instituciones y estrecha el cerco sobre el entorno más cercano a Sánchez](https://www.20minutos.es/nacional/juez-profundiza-infiltracion-leire-diez-altas-instituciones-estrecha-cerco-sobre-entorno-mas-cercano-sanchez_7013272_0.html?utm_source=lootura.com) — 2026-07-13T03:00:00.000Z

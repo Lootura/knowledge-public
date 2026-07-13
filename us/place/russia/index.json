@@ -8,9 +8,14 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/russia/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/russia/index.json",
   "description": "Follow Russia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-13T02:33:56.207Z",
+  "updatedAt": "2026-07-13T06:51:18.851Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "Japan Is Building a New Intelligence Agency With Help From the West",
+      "summary": "Facing threats from Russia and China, Prime Minister Sanae Takaichi is breaking with World War II-era limits on security.",
+      "date": "2026-07-13"
+    },
     {
       "title": "Shortly before Lindsey Graham's death, he was hopeful about new Russia sanctions bill",
       "summary": "One day before Sen. Lindsey Graham's death Saturday, he told \"Face the Nation\" moderator Margaret Brennan he was excited about new progress on a long-sought bipartisan bill to boost sanctions on Russia by targeting buyers of its oil.",
@@ -55,11 +60,6 @@
       "title": "China, Russia and Others Seek to Inflame Debate Over A.I. Data Centers",
       "summary": "State actors in China, Russia and Iran have sought to exploit the U.S. public debate over the effects of the technology.",
       "date": "2026-07-09"
-    },
-    {
-      "title": "News Wrap: Olympian pleads not guilty on Reflecting Pool damage charges",
-      "summary": "In our news wrap Thursday, three-time Olympic canoe racer David Hearn pleaded not guilty on charges he deliberately damaged the Reflecting Pool in Washington, Ukraine struck more energy targets inside Russia with long-range drones and authorities in southern China say flooding has killed at least 39 people after days o.",
-      "date": "2026-07-09"
     }
   ],
   "sources": [
@@ -74,7 +74,13 @@
       "url": "https://www.cbsnews.com/news/rep-mike-turner-lindsey-graham-senate-russia-sanctions-bill/?utm_source=lootura.com",
       "publishedAt": "2026-07-12T16:55:26.000Z",
       "sourceId": "lootura-us-cbs-news"
+    },
+    {
+      "title": "Japan Is Building a New Intelligence Agency With Help From the West",
+      "url": "https://www.nytimes.com/2026/07/13/world/asia/japan-intelligence-agency.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-13T04:37:31.000Z",
+      "sourceId": "lootura-us-the-new-york-times"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 3
 }

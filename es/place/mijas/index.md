@@ -40,4 +40,4 @@ Date: 2026-07-08
 
 ## Fuentes
 
-- [La jueza envía a prisión al detenido por el doble asesinato de Mijas (Málaga)](https://www.elconfidencial.com/espana/andalucia/2026-07-12/crimen-machista-mijas-malaga-1hms_4388710/?utm_source=lootura.com) — 2026-07-12T16:32:00.000Z
+No public source links.

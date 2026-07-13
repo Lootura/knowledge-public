@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/topic/artificial-intelligence/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/topic/artificial-intelligence/index.json",
   "description": "Follow Artificial intelligence, a tracked topic, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-13T02:33:56.207Z",
+  "updatedAt": "2026-07-13T06:51:18.851Z",
   "aliases": [
     "AI",
     "machine learning"
@@ -25,11 +25,6 @@
       "date": "2026-07-13"
     },
     {
-      "title": "Campaign text messages could soon get more effective — and annoying",
-      "summary": "Taught to sound like a candidate, bots are engaging voters with personalized text messages, making AI-generated texting conversations the latest tool political campaigns are using to connect. (Image credit: Charly Triballeau).",
-      "date": "2026-07-12"
-    },
-    {
       "title": "When managing your money, take a chatbot's 'confidence' with a grain of salt",
       "summary": "According to a 2025 survey of 2,000 U.S. adults by Pearl.com, a professional services platform, 19% said they lost more than $100 by following financial advice from an AI chatbot.",
       "date": "2026-07-12"
@@ -42,6 +37,11 @@
     {
       "title": "Machine learning calibration of biosensors for microcystin toxin monitoring in freshwater",
       "summary": "Portable screen-printed carbon electrode (SPCE) biosensors offer a rapid, low-cost way to detect microcystin-lysine-arginine (MC-LR), an extremely potent toxin produced by cyanobacteria during harmful algal blooms in freshwater. Even at low concentrations, MC-LR can damage the liver and has been linked to an increased.",
+      "date": "2026-07-12"
+    },
+    {
+      "title": "Campaign text messages could soon get more effective — and annoying",
+      "summary": "Taught to sound like a candidate, bots are engaging voters with personalized text messages, making AI-generated texting conversations the latest tool political campaigns are using to connect. (Image credit: Charly Triballeau).",
       "date": "2026-07-12"
     },
     {
@@ -69,14 +69,8 @@
     {
       "title": "Which ‘AI scientist’ suits your lab? A guide for the perplexed",
       "url": "https://www.nature.com/articles/d41586-026-02091-6?utm_source=lootura.com",
-      "publishedAt": "2026-07-13T02:34:02.208Z",
+      "publishedAt": "2026-07-13T06:51:23.413Z",
       "sourceId": "lootura-us-nature"
-    },
-    {
-      "title": "Campaign text messages could soon get more effective — and annoying",
-      "url": "https://www.npr.org/2026/07/12/nx-s1-5867763/ai-artificial-intelligence-data-texts-bots-voters-campaigns?utm_source=lootura.com",
-      "publishedAt": "2026-07-12T09:00:00.000Z",
-      "sourceId": "lootura-us-npr-politics"
     },
     {
       "title": "When managing your money, take a chatbot's 'confidence' with a grain of salt",
@@ -93,7 +87,7 @@
     {
       "title": "Does AI work for us, or do we work for AI?",
       "url": "https://www.science.org/doi/abs/10.1126/science.aei9754?af=R&utm_source=lootura.com",
-      "publishedAt": "2026-07-13T02:34:02.413Z",
+      "publishedAt": "2026-07-13T06:51:23.647Z",
       "sourceId": "lootura-us-science"
     },
     {
@@ -103,5 +97,5 @@
       "sourceId": "lootura-us-the-verge"
     }
   ],
-  "evidenceCount": 6
+  "evidenceCount": 5
 }

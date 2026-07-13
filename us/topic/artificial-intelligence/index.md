@@ -3,7 +3,7 @@
 > Follow Artificial intelligence, a tracked topic, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: topic
-- Updated: 2026-07-13T02:33:56.207Z
+- Updated: 2026-07-13T06:51:18.851Z
 - Canonical: https://atlas.lootura.com/us/topic/artificial-intelligence
 
 ## Recent changes
@@ -20,12 +20,6 @@ Science, Volume 393, Issue 6807 , Page 152-152, July 2026.
 
 Date: 2026-07-13
 
-### Campaign text messages could soon get more effective — and annoying
-
-Taught to sound like a candidate, bots are engaging voters with personalized text messages, making AI-generated texting conversations the latest tool political campaigns are using to connect. (Image credit: Charly Triballeau).
-
-Date: 2026-07-12
-
 ### When managing your money, take a chatbot's 'confidence' with a grain of salt
 
 According to a 2025 survey of 2,000 U.S. adults by Pearl.com, a professional services platform, 19% said they lost more than $100 by following financial advice from an AI chatbot.
@@ -41,6 +35,12 @@ Date: 2026-07-12
 ### Machine learning calibration of biosensors for microcystin toxin monitoring in freshwater
 
 Portable screen-printed carbon electrode (SPCE) biosensors offer a rapid, low-cost way to detect microcystin-lysine-arginine (MC-LR), an extremely potent toxin produced by cyanobacteria during harmful algal blooms in freshwater. Even at low concentrations, MC-LR can damage the liver and has been linked to an increased.
+
+Date: 2026-07-12
+
+### Campaign text messages could soon get more effective — and annoying
+
+Taught to sound like a candidate, bots are engaging voters with personalized text messages, making AI-generated texting conversations the latest tool political campaigns are using to connect. (Image credit: Charly Triballeau).
 
 Date: 2026-07-12
 
@@ -70,9 +70,8 @@ Date: 2026-07-12
 
 ## Sources
 
-- [Which ‘AI scientist’ suits your lab? A guide for the perplexed](https://www.nature.com/articles/d41586-026-02091-6?utm_source=lootura.com) — 2026-07-13T02:34:02.208Z
-- [Campaign text messages could soon get more effective — and annoying](https://www.npr.org/2026/07/12/nx-s1-5867763/ai-artificial-intelligence-data-texts-bots-voters-campaigns?utm_source=lootura.com) — 2026-07-12T09:00:00.000Z
+- [Which ‘AI scientist’ suits your lab? A guide for the perplexed](https://www.nature.com/articles/d41586-026-02091-6?utm_source=lootura.com) — 2026-07-13T06:51:23.413Z
 - [When managing your money, take a chatbot's 'confidence' with a grain of salt](https://www.pbs.org/newshour/economy/when-managing-your-money-take-a-chatbots-confidence-with-a-grain-of-salt?utm_source=lootura.com) — 2026-07-12T18:57:09.000Z
 - [Machine learning calibration of biosensors for microcystin toxin monitoring in freshwater](https://phys.org/news/2026-07-machine-calibration-biosensors-microcystin-toxin.html?utm_source=lootura.com) — 2026-07-12T22:20:01.000Z
-- [Does AI work for us, or do we work for AI?](https://www.science.org/doi/abs/10.1126/science.aei9754?af=R&utm_source=lootura.com) — 2026-07-13T02:34:02.413Z
+- [Does AI work for us, or do we work for AI?](https://www.science.org/doi/abs/10.1126/science.aei9754?af=R&utm_source=lootura.com) — 2026-07-13T06:51:23.647Z
 - [Lorde says Ray-Ban Meta AI glasses are ‘not sexy’](https://www.theverge.com/ai-artificial-intelligence/964539/lorde-says-ray-ban-meta-ai-glasses-are-not-sexy?utm_source=lootura.com) — 2026-07-12T20:10:19.000Z

@@ -3,10 +3,16 @@
 > Follow New York, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-13T02:33:56.207Z
+- Updated: 2026-07-13T06:51:18.851Z
 - Canonical: https://atlas.lootura.com/us/place/new-york
 
 ## Recent changes
+
+### My holiday from hell: blizzards, black ice, a broken-down bus – would I ever make it to New York?
+
+Flights were cancelled and we were told we’d be staying in Iceland for the night. But the hotel had no idea we were coming and people started screaming when I fell down, hard, on the ice A couple of days before I was due to take a trip to New York with my mum in February, the city was hit with the worst blizzard it had.
+
+Date: 2026-07-13
 
 ### Younger Voters Are Propelling the Democratic Socialist Surge in New York
 
@@ -62,13 +68,7 @@ Over the last month, Democratic socialists have notched victories in the liberal
 
 Date: 2026-07-09
 
-### ICE agents are making house calls for online critics
-
-A few hours after checking into a hotel in New York City, David Streever woke up to a call from the front desk saying someone was looking for him. Streever had just landed on a return trip from Finland, where he'd vacationed with his daughter. Though Streever didn't know it yet, while he'd been away, agents with the De.
-
-Date: 2026-07-09
-
 ## Sources
 
 - [Want to own a real T. rex? It could cost you $30 million](https://www.npr.org/2026/07/12/nx-s1-5890988/t-rex-gus-dinosaur-auction-sothebys-millions?utm_source=lootura.com) — 2026-07-13T00:14:03.000Z
-- [Younger Voters Are Propelling the Democratic Socialist Surge in New York](https://www.nytimes.com/2026/07/12/nyregion/dsa-young-voters-primary-ny.html?utm_source=lootura.com) — 2026-07-12T07:00:23.000Z
+- [My holiday from hell: blizzards, black ice, a broken-down bus – would I ever make it to New York?](https://www.theguardian.com/lifeandstyle/2026/jul/13/my-holiday-from-hell-blizzards-black-ice-a-broken-down-bus-would-i-ever-make-it-to-new-york?utm_source=lootura.com) — 2026-07-13T04:00:38.000Z

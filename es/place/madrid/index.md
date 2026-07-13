@@ -3,10 +3,40 @@
 > Sigue la actividad de Madrid en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-13T02:33:34.884Z
+- Actualizado: 2026-07-13T06:50:56.167Z
 - Canonical: https://atlas.lootura.com/es/place/madrid
 
 ## Cambios recientes
+
+### Dos heridos en un accidente tras caer un coche a las escaleras del Metro en Madrid
+
+Un aparatoso accidente de tráfico en el Paseo de la Castellana , en Madrid , ha terminado con uno de los dos vehículos implicados incrustado en unas escaleras del metro, quedando heridos sus dos ocupantes, una de ellas en estado grave , con múltiples traumatismos , ha informado Emergencias Madrid . El suceso ha tenido.
+
+Date: 2026-07-13
+
+### Del Powerpoint al espectáculo: la fórmula con la que Madrid pelea el turismo de reuniones a otras capitales internacionales
+
+En plena metamorfosis del sector, las empresas abandonan los formatos rígidos tradicionales y buscan el impacto emocional a través de la música y el directo.
+
+Date: 2026-07-13
+
+### De la Gran Vía al medievo: la ruta secreta por el Madrid rural que solo conocen los peregrinos
+
+Del Kilómetro Cero de la Puerta del Sol a la Puerta Santa de la Catedral de Santiago, en vísperas de un nuevo año jubilar, hay un recorrido de unos 600 kilómetros . En la capital se inicia la ruta peregrina por uno de los Caminos oficiales más desconocidos de cuantos conectan Europa y Compostela: es el Camino de Madrid.
+
+Date: 2026-07-13
+
+### El juez ratifica que Madrid tiene la exclusiva propiedad sobre el Centro de Menores de La Cantueña
+
+La Justicia ha dado la razón a la Comunidad de Madrid sobre el Centro de Menores de primera acogida ubicado en la finca de La Cantueña, ubicado en la localidad de Fuenlabrada. En concreto, la Sección Civil del Tribunal de Instancia de Madrid ha estimado íntegramente la demanda interpuesta por el Gobierno regional contr.
+
+Date: 2026-07-13
+
+### Entramos en la bonita terraza de Ana Belén y Víctor Manuel en Prosperidad: oasis botánico, toque asturiano y perfecta para desayunar
+
+Ana Belén y Víctor Manuel residen, desde hace muchos años, en Madrid . Concretamente, en la colonia de Alfonso XIII, en el barrio de Prosperidad, donde se compraron un bonito chalé de varias plantas donde cuentan con un impresionante jardín y una preciosa terraza que es ideal para los meses de verano. Lo cierto es que,.
+
+Date: 2026-07-13
 
 ### Del hot pilates al Lagree: nuevas formas de entrenar que conquistan Madrid (también cuando aprieta el calor)
 
@@ -38,37 +68,10 @@ Cuando está a punto de cumplirse medio año del grave siniestro ferroviario de 
 
 Date: 2026-07-12
 
-### Fiestas del Carmen de Vallecas 2026: horarios de los conciertos gratis de Ramoncín, Urrutia y Auserón y el 'mojado' fin de fiesta con la Batalla Naval
-
-Las Fiestas del Carmen de Vallecas volverán a revolucionar Madrid con su mítica Batalla Naval y un espectacular cartel de conciertos gratuitos que reúne a grandes leyendas como Ramoncín, Jaime Urrutia y Santiago Auserón.
-
-Date: 2026-07-12
-
-### La azotea con estrella Michelin que convierte los atardeceres de Madrid en el mejor plan del verano
-
-Cuando el calor aprieta, Madrid demuestra que también sabe vivir el verano. Y si hay un plan que reúne todo lo que se le puede pedir a una tarde de julio o agosto es subir a una azotea, brindar con un buen cóctel y dejarse sorprender por una cocina de altura. Justo esa es la ... Continuar leyendo "La azotea con estrell.
-
-Date: 2026-07-12
-
-### Víctor Sardá, el profesor de los nuevos promotores de viviendas: "El sector inmobiliario tiene que enamorar a la sociedad"
-
-Víctor Sardá (Madrid, 1971) es una de las caras más reconocidas de todo el sector inmobiliario. Extrovertido —y siempre falto de vergüenza— es un habitual de todos los eventos y actos que reúnen al 'ladrillo' patrio. Profesor titular de la Escuela Técnica Superior de Edificación, Sardá es la mente e ideólogo del Grado.
-
-Date: 2026-07-12
-
-### Un joven herido por arma blanca en la plaza de Lavapiés
-
-Un joven de 25 años sufría este sábado una agresión por arma blanca en la plaza de Lavapiés, en Madrid, según ha informado Protección Civil y el servicio de Emergencias SAMUR, que le ha trasladado en estado grave al hospital Clínico. Según estas fuentes, el joven, que recibió una herida por arma blanca penetrante en el.
-
-Date: 2026-07-12
-
-### Un vecino de Alcorcón gana más de dos millones de euros en la Bonoloto
-
-En el sorteo de la Bonoloto celebrado este sábado hay un boleto de la primera categoría (6 aciertos) , premiado con 2.147.800 euros , que ha sido validado en la Administración de Loterías de Alcorcón (Madrid) situada en Plaza de Ondarreta, 1 – local-4. De la segunda categoría (5 aciertos + Complementario) hay un boleto.
-
-Date: 2026-07-12
-
 ## Fuentes
 
-- [Del hot pilates al Lagree: nuevas formas de entrenar que conquistan Madrid (también cuando aprieta el calor)](https://www.larazon.es/madrid/hot-pilates-lagree-nuevas-formas-entrenar-que-conquistan-madrid-tambien-cuando-aprieta-calor_202607136a5440b9772f745d2c44c2cc.html?utm_source=lootura.com) — 2026-07-13T01:34:49.000Z
-- [Laporta manda un aviso al Atlético por Julián: «No vamos a bailar la música a nadie»](https://okdiario.com/deportes/laporta-manda-aviso-atletico-julian-no-vamos-bailar-musica-nadie-18981979?utm_source=lootura.com) — 2026-07-12T22:01:11.000Z
+- [Dos heridos en un accidente tras caer un coche a las escaleras del Metro en Madrid](https://www.elconfidencial.com/espana/madrid/2026-07-13/accidente-trafico-metro-madrid-grave-1tna-1tps_4388842/?utm_source=lootura.com) — 2026-07-13T05:28:00.000Z
+- [Del Powerpoint al espectáculo: la fórmula con la que Madrid pelea el turismo de reuniones a otras capitales internacionales](https://www.elconfidencial.com/espana/madrid/2026-07-13/madrid-eventos-corporativos-bra_4387838/?utm_source=lootura.com) — 2026-07-13T03:00:00.000Z
+- [De la Gran Vía al medievo: la ruta secreta por el Madrid rural que solo conocen los peregrinos](https://www.elconfidencial.com/espana/madrid/2026-07-13/camino-santiago-madrid-bra_4384588/?utm_source=lootura.com) — 2026-07-13T03:00:00.000Z
+- [El juez ratifica que Madrid tiene la exclusiva propiedad sobre el Centro de Menores de La Cantueña](https://www.larazon.es/madrid/juez-ratifica-que-madrid-tiene-exclusiva-propiedad-centro-menores-cantuena_202607136a548995c48a78681b85ecf9.html?utm_source=lootura.com) — 2026-07-13T06:45:42.000Z
+- [Entramos en la bonita terraza de Ana Belén y Víctor Manuel en Prosperidad: oasis botánico, toque asturiano y perfecta para desayunar](https://theobjective.com/gente/2026-07-13/terraza-ana-belen-victor-manuel-prosperidad/?utm_source=lootura.com) — 2026-07-13T05:30:00.000Z

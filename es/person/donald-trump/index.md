@@ -3,10 +3,22 @@
 > Sigue la actividad de Donald Trump en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-13T02:33:34.884Z
+- Actualizado: 2026-07-13T06:50:56.167Z
 - Canonical: https://atlas.lootura.com/es/person/donald-trump
 
 ## Cambios recientes
+
+### Dentro de la Casa Blanca: así ejerce Trump un poder desenfrenado para dejar su huella en la historia
+
+Si hay un punto de inflexión en el legado de Donald Trump como presidente de Estados Unidos, hay que buscarlo en el 20 de enero de 2025, el primer día de su regreso al Despacho Oval tras su abrupta salida en 2021, cuando fue derrotado por Joe Biden y convertido en un paria político por agitar a una muchedumbre enfervor.
+
+Date: 2026-07-13
+
+### Canadá redibuja el mapa energético con un oleoducto para sortear a Trump y acercarse a Asia
+
+Aquella especie de goma negra formaba parte desde hacía mucho tiempo del día a día de los chipewyan, uno de los pueblos indígenas del territorio que hoy ocupa la provincia de Alberta, en el centro oeste de Canadá. La sustancia viscosa afloraba en las orillas del río Athabasca y la usaban para curar heridas e impermeabi.
+
+Date: 2026-07-13
 
 ### Muere el senador republicano Lindsey Graham, el último 'gran halcón' de Washington
 
@@ -56,19 +68,7 @@ Irán dice que el paso de Ormuz está cerrado de nuevo después de que un buque 
 
 Date: 2026-07-12
 
-### Discovered by Atlas
-
-Donald Trump first entered the public knowledge record with source-backed evidence.
-
-Date: 2026-07-11
-
-### Trump, otra vez contra los medios: periodistas de The New York Times reciben citaciones judiciales tras una información sobre el nuevo Air Force One
-
-La información aseguraba que el aparato, regalado por Qatar, carecía de algunas funciones avanzadas de seguridad, incluidas capacidades antimisiles Leer.
-
-Date: 2026-07-11
-
 ## Fuentes
 
-- [Muere el senador republicano Lindsey Graham, el último 'gran halcón' de Washington](https://www.elmundo.es/internacional/2026/07/12/6a533d57e85ece547c8b458b.html?utm_source=lootura.com) — 2026-07-12T14:55:24.000Z
-- [¿Cómo queda el tablero de la defensa europea tras el reajuste táctico de la OTAN en Ankara?](https://theconversation.com/como-queda-el-tablero-de-la-defensa-europea-tras-el-reajuste-tactico-de-la-otan-en-ankara-287217?utm_source=lootura.com) — 2026-07-12T21:58:48.000Z
+- [Dentro de la Casa Blanca: así ejerce Trump un poder desenfrenado para dejar su huella en la historia](https://elpais.com/internacional/2026-07-13/dentro-de-la-casa-blanca-asi-ejerce-trump-un-poder-desenfrenado-para-dejar-su-huella-en-la-historia.html?utm_source=lootura.com) — 2026-07-13T03:40:00.000Z
+- [Canadá redibuja el mapa energético con un oleoducto para sortear a Trump y acercarse a Asia](https://elpais.com/economia/2026-07-13/canada-redibuja-el-mapa-energetico-con-un-oleoducto-para-sortear-a-trump-y-acercarse-a-asia.html?utm_source=lootura.com) — 2026-07-13T03:30:00.000Z

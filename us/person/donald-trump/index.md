@@ -3,7 +3,7 @@
 > Follow Donald Trump, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-07-13T02:33:56.207Z
+- Updated: 2026-07-13T06:51:18.851Z
 - Canonical: https://atlas.lootura.com/us/person/donald-trump
 
 ## Recent changes
@@ -32,18 +32,6 @@ South Carolina Senator Lindsey Graham's sudden death at 71 has shocked Washingto
 
 Date: 2026-07-12
 
-### An artist brought 'I.C.E. pops' to a Texas campus. The show was shut down in days
-
-The Trump administration's executive orders have meant that administrators are questioning what art can — and can't — be seen on campus. (Image credit: Laila AnnMarie Stevens for NPR).
-
-Date: 2026-07-12
-
-### Sen. Lindsey Graham of South Carolina, Trump ally and foreign policy hawk, dies at 71
-
-His office said Graham died Saturday night after a "brief and sudden illness." The Republican senator was instrumental in enacting Trump's policy and staffing priorities. (Image credit: Jeffrey Collins).
-
-Date: 2026-07-12
-
 ### Trump says ‘I have somebody that I like’ to succeed Lindsey Graham but ‘too soon’ to say who
 
 President Donald Trump joins Meet the Press in an exclusive interview and weighs in on the decision Gov. Henry McMaster (R-S.C.) now faces to appoint someone to fill the late Sen. Lindsey Graham’s (R-S.C.) seat. “Ultimately they'll have an election,” Trump said. “Some are good, some are bad. And but I have somebody tha.
@@ -62,9 +50,21 @@ Benny Melendez voted for President Donald Trump in 2024. But since Trump returne
 
 Date: 2026-07-12
 
-### ‘The fiercest of fighters’: Lindsey Graham remembered by politicians and foreign leaders after sudden death
+### Trump Recalls Last Conversation With Lindsey Graham Before His Death
 
-Trump says US senator was ‘a true American patriot’ while Zelenskyy says he’s ‘deeply saddened’ by his death Graham’s death triggers a scramble to replace him – what happens next? Lindsey Graham dies after sudden illness aged 71 Washington woke up to the unexpected death of Republican senator Lindsey Graham , 71, who c.
+In an interview on Sunday, President Trump recounted his last conversation with Senator Lindsey Graham, hours before his death. Mr. Graham sounded “perfect,” he said.
+
+Date: 2026-07-12
+
+### Lindsey Graham remembered for a vision of American foreign policy that's fading in Washington
+
+Graham was a rare bridge between President Donald Trump's "America First" foreign policy and the traditional Washington consensus prioritizing alliances with Europe and Israel, one falling out of favor with many in both political parties.
+
+Date: 2026-07-12
+
+### With Lindsey Graham Gone, Ukraine Loses an Ally in Trump’s Ear
+
+The South Carolina Republican was Ukraine’s most influential champion inside President Trump’s mostly ”America First” political orbit.
 
 Date: 2026-07-12
 
@@ -74,9 +74,9 @@ Date: 2026-07-12
 - [Trump says ‘I have somebody that I like’ to succeed Lindsey Graham but ‘too soon’ to say who](https://www.nbcnews.com/meet-the-press/video/trump-says-i-have-somebody-that-i-like-to-succeed-lindsey-graham-but-too-soon-to-say-who-266560069560?utm_source=lootura.com) — 2026-07-12T13:24:37.000Z
 - [A Bible passage is at the center of a debate over how the U.S. should treat immigrants](https://www.npr.org/2026/07/12/nx-s1-5885947/a-bibe-passage-is-at-the-center-of-a-debate-over-how-the-u-s-should-treat-immigrants?utm_source=lootura.com) — 2026-07-12T11:57:10.000Z
 - [How longtime GOP Senator Lindsey Graham went from critic to ally of President Trump](https://www.npr.org/2026/07/12/nx-s1-5890821/how-longtime-gop-senator-lindsey-graham-went-from-critic-to-ally-of-president-trump?utm_source=lootura.com) — 2026-07-12T11:57:18.000Z
-- [Sen. Lindsey Graham of South Carolina, Trump ally and foreign policy hawk, dies at 71](https://www.npr.org/2026/07/12/nx-s1-5890790/us-sen-lindsey-graham-dies?utm_source=lootura.com) — 2026-07-12T07:10:41.000Z
 - [Politics chat: Lindsey Graham dies at 71, Congress back in session, U.S. strikes Iran](https://www.npr.org/2026/07/12/nx-s1-5887274/politics-chat-lindsey-graham-dies-at-71-congress-back-in-session-u-s-strikes-iran?utm_source=lootura.com) — 2026-07-12T11:57:11.000Z
-- [An artist brought 'I.C.E. pops' to a Texas campus. The show was shut down in days](https://www.npr.org/2026/07/12/nx-s1-5783832/ice-pop-texas-victor-marka27-quinonez-artist?utm_source=lootura.com) — 2026-07-12T09:00:00.000Z
 - [From staunch critic to fierce ally: Graham's long, strange and consequential friendship with Trump](https://www.pbs.org/newshour/politics/from-staunch-critic-to-fierce-ally-grahams-long-strange-and-consequential-friendship-with-trump?utm_source=lootura.com) — 2026-07-12T19:45:01.000Z
 - [Lindsey Graham remembered for a vision of American foreign policy that's fading in Washington](https://www.pbs.org/newshour/politics/lindsey-graham-remembered-for-a-vision-of-american-foreign-policy-thats-fading-in-washington?utm_source=lootura.com) — 2026-07-12T22:40:48.000Z
 - [Texas Hispanics swung hard to Trump. A new poll shows they’re furious at his deportations.](https://www.politico.com/news/2026/07/12/trumps-deportation-drive-tests-gop-gains-in-texas-00993955?utm_source=lootura.com) — 2026-07-12T18:00:00.000Z
+- [Trump Recalls Last Conversation With Lindsey Graham Before His Death](https://www.nytimes.com/2026/07/12/us/politics/donald-trump-lindsey-graham-death-interview.html?utm_source=lootura.com) — 2026-07-12T17:02:54.000Z
+- [Michael Cohen Helped Convict Trump. Now, He’s Making Nice Again.](https://www.nytimes.com/2026/07/12/us/politics/trump-cohen-meeting-show.html?utm_source=lootura.com) — 2026-07-13T01:17:02.000Z

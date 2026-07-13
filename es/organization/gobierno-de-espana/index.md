@@ -3,10 +3,16 @@
 > Sigue la actividad de Gobierno de España en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-13T02:33:34.884Z
+- Actualizado: 2026-07-13T06:50:56.167Z
 - Canonical: https://atlas.lootura.com/es/organization/gobierno-de-espana
 
 ## Cambios recientes
+
+### El fútbol francés responde a Rajoy: "Los jugadores no tienen por qué recibir un certificado de nacionalidad"
+
+Philippe Diallo, presidente de la Federación Francesa de Fútbol (FFF), criticó este domingo las declaraciones del expresidente del Gobierno español Mariano Rajoy sobre la selección francesa, por tener un "tufo de racismo intolerable" y ser contrarias a la realidad del equipo nacional. "Las palabras de Mariano Rajoy evo.
+
+Date: 2026-07-13
 
 ### Mariano Rajoy sobre los que le tachan de racista: "No me voy a poner al nivel de ciertos miembros del Gobierno español"
 
@@ -62,12 +68,7 @@ La visión de Trump sobre España ha pasado de la amenaza al halago en menos de 
 
 Date: 2026-07-09
 
-### Trump dice que España «se ha redimido» tras aceptar realizar «numerosos pagos» a la OTAN
-
-El presidente de Estados Unidos , Donald Trump, ha defendido este miércoles que España «se ha redimido por completo» tras, ha asegurado, haber accedido a una solicitud de «numerosos pagos» a la OTAN , algo que el magnate republicano ha puesto en valor tras haber cargado duramente contra el Ejecutivo español tildándolo.
-
-Date: 2026-07-09
-
 ## Fuentes
 
+- [El fútbol francés responde a Rajoy: "Los jugadores no tienen por qué recibir un certificado de nacionalidad"](https://www.20minutos.es/deportes/futbol/futbol-frances-responde-rajoy-los-jugadores-no-tienen-por-que-recibir-un-certificado-nacionalidad-un-espanol_7013740_0.html?utm_source=lootura.com) — 2026-07-13T05:15:54.000Z
 - [Mariano Rajoy sobre los que le tachan de racista: "No me voy a poner al nivel de ciertos miembros del Gobierno español"](https://www.elmundo.es/deportes/futbol/mundial-de-futbol/2026/07/12/6a53e250e9cf4ae56c8b4571.html?utm_source=lootura.com) — 2026-07-12T21:23:59.000Z

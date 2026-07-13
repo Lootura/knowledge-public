@@ -70,4 +70,4 @@ Date: 2026-07-10
 
 ## Fuentes
 
-- [¿Cómo queda el tablero de la defensa europea tras el reajuste táctico de la OTAN en Ankara?](https://theconversation.com/como-queda-el-tablero-de-la-defensa-europea-tras-el-reajuste-tactico-de-la-otan-en-ankara-287217?utm_source=lootura.com) — 2026-07-12T21:58:48.000Z
+No public source links.

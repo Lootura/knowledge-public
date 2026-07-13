@@ -3,10 +3,28 @@
 > Sigue la actividad de Partido Popular en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-13T02:33:34.884Z
+- Actualizado: 2026-07-13T06:50:56.167Z
 - Canonical: https://atlas.lootura.com/es/organization/partido-popular
 
 ## Cambios recientes
+
+### La ‘ley de nietos’ que cuestiona el PP pasó 32 trámites parlamentarios en cinco años
+
+La ley de nietos , es decir, el apartado de la Ley de Memoria Democrática actualizado hace cinco años para facilitar la nacionalidad a los descendientes de españoles exiliados por culpa del franquismo, ha pasado desde entonces por 32 trámites o pasos parlamentarios: desde nueve debates en pleno y comisiones en el Congr.
+
+Date: 2026-07-13
+
+### Imputado el alcalde del PP de Móstoles por acoso sexual y laboral a una exedil de su partido
+
+La jueza que investiga el caso de presunto acoso sexual y laboral a una exconcejala del PP de Móstoles ha imputado al alcalde de la localidad, el también popular Manuel Bautista . La titular del juzgado número 2 de Violencia sobre la Mujer del Tribunal de Instancia de Móstoles ha citado como investigado al alcalde de l.
+
+Date: 2026-07-13
+
+### Ángel Víctor Torres: “En 2027 puede haber 500.000 nuevos nacionalizados con derecho a voto”
+
+El ministro de Política Territorial y Memoria Democrática, Ángel Víctor Torres (Arucas, Gran Canaria, 60 años), aclara las dudas sobre la llamada ley de nietos tras las acusaciones de intento de pucherazo y manipulación del censo lanzadas por el PP. Filólogo de formación y exprofesor de instituto, fue presidente de Can.
+
+Date: 2026-07-13
 
 ### Voces del PP piden afinar la estrategia: «Nos hemos metido en todos los charcos posibles»
 
@@ -50,26 +68,8 @@ Un estado de ánimo ciclotímico envuelve al PP en el final del curso político.
 
 Date: 2026-07-12
 
-### El PP denuncia el cierre por obras del Albergue del Transeúnte de León y pide un servicio alternativo
-
-El Grupo Municipal del Partido Popular en el Ayuntamiento de León denunció el cierre del Alberque del Transeúnte de la ciudad del 29 de junio al 16 de agosto por obras de mantenimiento y solicitó que se habilite un servicio alternativo temporal. Los ‘populares’ recordaron que Albergue Municipal del Transeúnte de León a.
-
-Date: 2026-07-12
-
-### Homenaje a Miguel Ángel Blanco con motivo del XXIX aniversario de su asesinato
-
-La vicesecretaria de Regeneración Institucional, CucaGamarra, interviene en el homenaje a Miguel Ángel Blanco con motivo del XXIX aniversario de su asesinato por la banda terrorista ETA, junto con el presidente del PP vasco, Javier de Andrés, la senadora del PP Mari Mar Blanco y el presidente de Nuevas Generaciones, Ig.
-
-Date: 2026-07-12
-
-### El dilema de las derechas que debilita el liderazgo de Feijóo
-
-La derecha española se encuentra dividida entre dos hipótesis , la que le gustaría al partido dominante, el PP, que es la apuesta de Merz , y la que cada vez va cobrando más peso en Europa, la de Manfred Weber : una alianza entre los populares y los partidos a su derecha . Merz gobierna junto con los socialdemócratas,.
-
-Date: 2026-07-12
-
 ## Fuentes
 
-- [Voces del PP piden afinar la estrategia: «Nos hemos metido en todos los charcos posibles»](https://www.abc.es/espana/voces-pp-piden-afinar-estrategia-metido-charcos-20260712013248-nt.html?utm_source=lootura.com) — 2026-07-13T00:21:33.000Z
-- [El PP se compromete en Ermua a aclarar los 376 crímenes impunes de ETA frente a la "indignidad" del sanchismo con EH Bildu](https://www.elmundo.es/pais-vasco/2026/07/12/6a536b49e4d4d8382d8b4592.html?utm_source=lootura.com) — 2026-07-12T10:47:16.000Z
-- [Borja Sémper: «No hemos descartado ni descartamos tampoco la moción de censura. ¿En un tiempo? No lo sé»](https://www.larazon.es/espana/borja-semper-hemos-descartado-descartamos-tampoco-mocion-censura-tiempo_202607136a53f03dc0b5fb431c5153fb.html?utm_source=lootura.com) — 2026-07-13T01:00:13.000Z
+- [La ‘ley de nietos’ que cuestiona el PP pasó 32 trámites parlamentarios en cinco años](https://elpais.com/espana/2026-07-13/la-ley-de-nietos-que-cuestiona-el-pp-paso-32-tramites-parlamentarios-en-cinco-anos.html?utm_source=lootura.com) — 2026-07-13T03:30:01.000Z
+- [Imputado el alcalde del PP de Móstoles por acoso sexual y laboral a una exedil de su partido](https://elpais.com/espana/2026-07-13/imputado-el-alcalde-del-pp-de-mostoles-por-el-acoso-sexual-y-laboral-a-una-exedil-de-su-partido.html?utm_source=lootura.com) — 2026-07-13T03:30:01.000Z
+- [Ángel Víctor Torres: “En 2027 puede haber 500.000 nuevos nacionalizados con derecho a voto”](https://elpais.com/espana/2026-07-13/angel-victor-torres-en-2027-puede-haber-500000-nuevos-nacionalizados-con-derecho-a-voto.html?utm_source=lootura.com) — 2026-07-13T03:30:01.000Z

@@ -3,7 +3,7 @@
 > Sigue la actividad de Artificial intelligence en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: topic
-- Actualizado: 2026-07-13T02:33:34.884Z
+- Actualizado: 2026-07-13T06:50:56.167Z
 - Canonical: https://atlas.lootura.com/es/topic/artificial-intelligence
 
 ## Cambios recientes
@@ -28,4 +28,4 @@ Date: 2026-07-10
 
 ## Fuentes
 
-- [Telefónica se concentra en cuatro países europeos para hacer una gran operación](https://www.abc.es/economia/telefonica-trabaja-gran-operacion-corporativa-mercado-saturado-20260707013444-nt_amp.html?utm_source=lootura.com) — 2026-07-12T23:34:44.000Z
+- [¡Siri, gestióname una hipoteca!: así revolucionará la inteligencia artificial a la banca tradicional](https://elpais.com/economia/2026-07-13/siri-gestioname-una-hipoteca-asi-revolucionara-la-inteligencia-artificial-a-la-banca-tradicional.html?utm_source=lootura.com) — 2026-07-13T03:30:01.000Z
