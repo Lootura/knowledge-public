@@ -3,10 +3,16 @@
 > Follow Russia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-13T14:31:32.442Z
+- Updated: 2026-07-13T17:53:11.557Z
 - Canonical: https://atlas.lootura.com/us/place/russia
 
 ## Recent changes
+
+### Ukraine and 9 other countries form coalition to protect Europe from ballistic missiles
+
+Ukraine and nine other countries have announced a coalition to protect Europe from ballistic missiles, taking advantage of Kyiv's experience of fighting Russia.
+
+Date: 2026-07-13
 
 ### Japan Builds Intelligence Agency It Hasn’t Had Since World War II
 
@@ -62,12 +68,6 @@ Ed Davey voices concern about the Musk family foundation taking the far-right ac
 
 Date: 2026-07-12
 
-### 10 injured in overnight Russian strikes on Kyiv
-
-Ukrainian military said its air defenses shot down or suppressed two missiles and 111 drones, while Russia claims its forces targeted drone production facilities in Kyiv.
-
-Date: 2026-07-11
-
 ## Sources
 
-- [Japan Builds Intelligence Agency It Hasn’t Had Since World War II](https://www.nytimes.com/2026/07/13/world/asia/japan-intelligence-agency.html?utm_source=lootura.com) — 2026-07-13T12:57:30.000Z
+- [Ukraine and 9 other countries form coalition to protect Europe from ballistic missiles](https://www.pbs.org/newshour/world/ukraine-and-9-other-countries-form-coalition-to-protect-europe-from-ballistic-missiles?utm_source=lootura.com) — 2026-07-13T17:51:08.000Z

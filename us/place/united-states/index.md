@@ -3,7 +3,7 @@
 > Follow United States, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-13T14:31:32.442Z
+- Updated: 2026-07-13T17:53:11.557Z
 - Canonical: https://atlas.lootura.com/us/place/united-states
 
 ## Recent changes
@@ -11,18 +11,6 @@
 ### 58 million under heat alerts as extreme temperatures scorch western U.S.
 
 Heat alerts were issued for millions across parts of the western U.S. Sunday as an unusually prolonged heat dome reached its peak.
-
-Date: 2026-07-13
-
-### Protests grow in Houston after ICE officer kills Mexican man who'd been living in U.S. for 30 years
-
-Protests have been building in Houston after ICE officers killed a Mexican man who had lived in the U.S. more than 30 years. Local investigators and activists are still searching for video to explain what happened. Jason Allen reports.
-
-Date: 2026-07-13
-
-### Extreme heat, wildfires and severe thunderstorms affecting millions across the U.S.
-
-More than 58 million Americans under weather alerts Sunday as wildfires burn in the west and severe thunderstorms impact large swaths of the country. Carter Evans reports and Andrew Kozak takes a look at the forecast.
 
 Date: 2026-07-13
 
@@ -56,27 +44,39 @@ The South Carolina Republican was Ukraine’s most influential champion inside P
 
 Date: 2026-07-13
 
-### 1 person killed in Maine shooting involving ICE, state House speaker says
-
-A person was killed during a shooting in Maine involving U.S. Immigration and Customs Enforcement on Monday morning, state House Speaker Ryan Fecteau said.
-
-Date: 2026-07-13
-
 ### Tributes pour in for Lindsey Graham after his death stuns D.C.
 
 Tributes poured in for Sen. Lindsey Graham from Democrats, Republicans, former U.S. presidents and world leaders after his death stunned Capitol Hill. CBS News' Caitlin Huey-Burns has more.
 
 Date: 2026-07-13
 
+### Trump says U.S. will get paid to guard Strait of Hormuz: "Maybe we
+
+President Trump said, "We.
+
+Date: 2026-07-13
+
+### US and Iran Trade Strikes as Ceasefire Deal Efforts Unravel
+
+The United States and Iran traded even more attacks, some of the most intense in months, as the already fragile ceasefire continues to unravel. On Sunday, President Donald Trump told Kristen Welker on Meet the Press that the Strait of Hormuz remains open – even though Iran said earlier that it was closed. NBC’s Matt Br.
+
+Date: 2026-07-13
+
+### Strait of Hormuz Ship Traffic Falls to Lowest Point in a Month After Strikes
+
+Shipping activity plummeted after Iran attacked a ship, setting off U.S. strikes. Little crude oil is being transported through the critical waterway.
+
+Date: 2026-07-13
+
 ## Sources
 
-- [U.S. launches another round of strikes on Iran](https://www.cbsnews.com/video/us-launches-another-round-of-strikes-on-iran/?utm_source=lootura.com) — 2026-07-13T00:55:00.000Z
+- [Judge rebukes Trump and DOJ over IRS lawsuit in scathing decision](https://www.cbsnews.com/news/judge-trump-justice-department-irs-lawsuit-anti-weaponization-fund-settlement/?utm_source=lootura.com) — 2026-07-13T17:04:07.000Z
 - [58 million under heat alerts as extreme temperatures scorch western U.S.](https://www.cbsnews.com/news/40-million-under-alerts-heat-dome-peaks-western-us/?utm_source=lootura.com) — 2026-07-13T08:01:33.000Z
-- [1 person killed in Maine shooting involving ICE, state House speaker says](https://www.cbsnews.com/news/maine-shooting-ice-biddeford/?utm_source=lootura.com) — 2026-07-13T13:44:21.000Z
-- [Protests grow in Houston after ICE officer kills Mexican man who'd been living in U.S. for 30 years](https://www.cbsnews.com/video/protests-grow-in-houston-after-ice-officer-kills-mexican-man-whod-been-living-in-us-for-30-years/?utm_source=lootura.com) — 2026-07-13T01:03:00.000Z
 - [Tributes pour in for Lindsey Graham after his death stuns D.C.](https://www.cbsnews.com/video/tributes-pour-in-sen-lindsey-graham-after-death-stuns-dc/?utm_source=lootura.com) — 2026-07-13T14:01:30.000Z
 - [Trump says U.S. will get paid to guard Strait of Hormuz: "Maybe we](https://www.cbsnews.com/news/trump-iran-war-us-guardian-strait-of-hormuz-get-paid/?utm_source=lootura.com) — 2026-07-13T14:29:20.000Z
-- [Extreme heat, wildfires and severe thunderstorms affecting millions across the U.S.](https://www.cbsnews.com/video/extreme-heat-wildfires-and-severe-thunderstorms-affecting-millions-across-the-us/?utm_source=lootura.com) — 2026-07-13T01:22:00.000Z
+- [Oil jumps 6% after Trump reimposes Iran blockade on Strait of Hormuz](https://www.nbcnews.com/business/markets/oil-rises-trump-reimposes-hormuz-blockade-rcna587297?utm_source=lootura.com) — 2026-07-13T15:01:13.000Z
 - [US and Iran Trade Strikes as Ceasefire Deal Efforts Unravel](https://www.today.com/video/us-and-iran-trade-strikes-as-ceasefire-deal-efforts-unravel-266581061712?utm_source=lootura.com) — 2026-07-13T11:21:19.000Z
-- [A Look at Lindsey Graham’s Political Legacy and Impact](https://www.today.com/video/kristen-welker-shares-what-lindsey-graham-was-like-off-camera-266581061699?utm_source=lootura.com) — 2026-07-13T11:17:27.000Z
 - [Eat your ice cream for a long, healthy life? This doctor says so](https://www.npr.org/2026/07/13/nx-s1-5884664/zeke-emanuel-optimize-health-long-life?utm_source=lootura.com) — 2026-07-13T09:00:00.000Z
+- [Morning news brief](https://www.npr.org/2026/07/13/nx-s1-5885745/morning-news-brief?utm_source=lootura.com) — 2026-07-13T08:48:40.000Z
+- [Georgia's unique in the American Revolution told through its historical markers](https://www.npr.org/2026/07/12/nx-s1-5886144/georgias-unique-in-the-american-revolution-told-through-its-historical-markers?utm_source=lootura.com) — 2026-07-12T21:08:15.000Z
+- [Trump says the U.S. will reinstate its blockade on Iran and charge a toll on ships](https://www.npr.org/2026/07/13/nx-s1-5891746/us-iran-strait-of-hormuz-updates?utm_source=lootura.com) — 2026-07-13T16:53:40.000Z

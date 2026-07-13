@@ -8,9 +8,14 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/russia/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/russia/index.json",
   "description": "Follow Russia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-13T14:31:32.442Z",
+  "updatedAt": "2026-07-13T17:53:11.557Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "Ukraine and 9 other countries form coalition to protect Europe from ballistic missiles",
+      "summary": "Ukraine and nine other countries have announced a coalition to protect Europe from ballistic missiles, taking advantage of Kyiv's experience of fighting Russia.",
+      "date": "2026-07-13"
+    },
     {
       "title": "Japan Builds Intelligence Agency It Hasn’t Had Since World War II",
       "summary": "Facing threats from Russia and China, Prime Minister Sanae Takaichi is turning to help from Western allies in forming a centralized agency.",
@@ -55,19 +60,14 @@
       "title": "Tommy Robinson’s Musk-funded Russia trip spurs call to defend UK democracy",
       "summary": "Ed Davey voices concern about the Musk family foundation taking the far-right activist on a visit to Moscow The UK must do more to defend its democracy after it emerged that Elon Musk’s family foundation had taken the far-right activist Tommy Robinson to Russia, Ed Davey has said. Robinson, whose real name is Stephen Y.",
       "date": "2026-07-12"
-    },
-    {
-      "title": "10 injured in overnight Russian strikes on Kyiv",
-      "summary": "Ukrainian military said its air defenses shot down or suppressed two missiles and 111 drones, while Russia claims its forces targeted drone production facilities in Kyiv.",
-      "date": "2026-07-11"
     }
   ],
   "sources": [
     {
-      "title": "Japan Builds Intelligence Agency It Hasn’t Had Since World War II",
-      "url": "https://www.nytimes.com/2026/07/13/world/asia/japan-intelligence-agency.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-13T12:57:30.000Z",
-      "sourceId": "lootura-us-the-new-york-times-world"
+      "title": "Ukraine and 9 other countries form coalition to protect Europe from ballistic missiles",
+      "url": "https://www.pbs.org/newshour/world/ukraine-and-9-other-countries-form-coalition-to-protect-europe-from-ballistic-missiles?utm_source=lootura.com",
+      "publishedAt": "2026-07-13T17:51:08.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
     }
   ],
   "evidenceCount": 1

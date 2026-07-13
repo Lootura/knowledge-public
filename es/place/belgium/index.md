@@ -70,4 +70,4 @@ Date: 2026-07-09
 
 ## Fuentes
 
-- [Identifican a seis fallecidos en Los Gallardos: un español y cinco extranjeros](https://www.20minutos.es/andalucia/almeria/identifican-seis-fallecidos-los-gallardos-un-espanol-cinco-extranjeros_7013995_0.html?utm_source=lootura.com) — 2026-07-13T12:30:28.000Z
+No public source links.

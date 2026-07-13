@@ -3,7 +3,7 @@
 > Follow White House, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-07-13T10:58:18.710Z
+- Updated: 2026-07-13T17:53:11.557Z
 - Canonical: https://atlas.lootura.com/us/organization/white-house
 
 ## Recent changes
@@ -70,4 +70,4 @@ Date: 2026-07-09
 
 ## Sources
 
-No public source links.
+- [Trump Insists U.S. Should 'Run' the Strait of Hormuz and Get Paid For It](https://time.com/article/2026/07/13/us-iran-conflict-oil-prices-strait-of-hormuz-trump-control/?utm_source=lootura.com) — 2026-07-13T16:47:56.000Z

@@ -3,10 +3,28 @@
 > Sigue la actividad de Begoña Gómez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-12T02:31:58.650Z
+- Actualizado: 2026-07-13T17:52:48.684Z
 - Canonical: https://atlas.lootura.com/es/person/begona-gomez
 
 ## Cambios recientes
+
+### Peinado pide a Begoña Gómez pruebas que acrediten que solo usó el pasaporte para viajar a la graduación de su hija
+
+El juez Juan Carlos Peinado ordena a Begoña Gómez que aporte pruebas que acrediten que utilizó su pasaporte sólo para viajar a la graduación de su hija en Londres . El instructor da un plazo de cinco días a la mujer del presiente del Gobierno para que demuestre que realizó el viaje para lo que se le devolvió el pasapor.
+
+Date: 2026-07-13
+
+### El juez Peinado reclama a Begoña Gómez que “acredite” que solo usó su pasaporte para viajar a Reino Unido
+
+El magistrado Juan Carlos Peinado, que abrió juicio oral contra Begoña Gómez el 20 de junio y le prohibió salir de España, ha dictado este lunes una resolución para reclamar a la esposa de Pedro Sánchez que “acredite” que solo usó el pasaporte la pasada semana para viajar al Reino Unido. El juzgado le devolvió el docum.
+
+Date: 2026-07-13
+
+### El juez Peinado exige a Begoña Gómez que acredite que viajó a Reino Unido a la graduación de su hija
+
+Amenaza con imputarle un delito de quebrantamiento de medida cautelar, penado con cárcel de seis meses a un año juez sustituto de Peinado permite viajar a Begoña Gómez a Londres pero no a la cumbre de la OTAN El juez Juan Carlos Peinado ha regresado de vacaciones. Y a su vuelta, una de sus primeras decisiones ha sido s.
+
+Date: 2026-07-13
 
 ### La Fiscalía acusa al juez Peinado de idear una “confabulación” para retirar el pasaporte a Begoña Gómez
 
@@ -50,18 +68,8 @@ La Fiscalía ha salido en defensa de Begoña Gómez, la esposa del presidente de
 
 Date: 2026-07-09
 
-### Discovered by Atlas
-
-Begoña Gómez first entered the public knowledge record with source-backed evidence.
-
-Date: 2026-07-08
-
-### Peinado se negó a revertir la retirada del pasaporte a Begoña Gómez invocando la huida del premier italiano Craxi a Túnez
-
-El juez dice que no quiso "ofender" a la Policía al sugerir que agentes podrían ayudar a la mujer de Sánchez a huir, pero que ha habido "sentencias condenatorias" a policías, incluso a "algún máximo responsable del aeropuerto de Barajas" Leer.
-
-Date: 2026-07-08
-
 ## Fuentes
 
-No public source links.
+- [Peinado pide a Begoña Gómez pruebas que acrediten que solo usó el pasaporte para viajar a la graduación de su hija](https://www.elconfidencial.com/espana/2026-07-13/peinado-pide-a-begona-gomez-pruebas-viaje_4389306/?utm_source=lootura.com) — 2026-07-13T15:54:00.000Z
+- [El juez Peinado reclama a Begoña Gómez que “acredite” que solo usó su pasaporte para viajar a Reino Unido](https://elpais.com/espana/2026-07-13/el-juez-peinado-reclama-a-begona-gomez-que-acredite-que-solo-uso-su-pasaporte-para-viajar-a-reino-unido.html?utm_source=lootura.com) — 2026-07-13T17:45:22.000Z
+- [El juez Peinado exige a Begoña Gómez que acredite que viajó a Reino Unido a la graduación de su hija](https://www.eldiario.es/politica/juez-peinado-exige-begona-gomez-acredite-viajo-reino-unido-graduacion-hija_1_13377276.html?utm_source=lootura.com) — 2026-07-13T15:29:39.000Z

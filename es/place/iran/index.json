@@ -8,9 +8,34 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/iran/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/iran/index.json",
   "description": "Sigue la actividad de Iran en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-13T14:31:13.122Z",
+  "updatedAt": "2026-07-13T17:52:48.684Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "El petróleo se dispara tras anunciar Trump un bloqueo a Irán y un peaje de EE UU en Ormuz",
+      "summary": "Donald Trump ha anunciado al final de la tarde de este lunes que la Marina estadounidense volverá a bloquear el traspaso de embarcaciones iraníes por el estrecho de Ormuz y que además cobrará un peaje del 20% de la carga a cada barco que cruce el paso. El presidente estadounidense no ha detallado cómo aplicará este tri.",
+      "date": "2026-07-13"
+    },
+    {
+      "title": "El plan de Israel para convertir al ex presidente Ahmadineyad en líder del Irán posayatolás, según el 'New York Times'",
+      "summary": "El diario documenta reuniones del jefe del Mossad con Ahmadineyad en 2024 en lugares como Budapest y habla de \"pagos en secreto para cubrir sus gastos de alojamiento y viajes\", pero no sostiene que fuera un agente o informante Leer.",
+      "date": "2026-07-13"
+    },
+    {
+      "title": "Trump restablece el cerco naval a Irán y dice que cobrará el 20% por proteger a los buques en Ormuz",
+      "summary": "Washington y Teherán intercambian ataques por sexta noche consecutiva Leer.",
+      "date": "2026-07-13"
+    },
+    {
+      "title": "El Ibex cierra en rojo ante las nuevas tensiones entre EEUU e Irán",
+      "summary": "La escalada en el conflicto entre Irán y EEUU vuelve a elevar el precio del petróleo. Con el Brent al filo de nuevo de los 80 dólares, los inversores dan un paso atrás en Bolsa. El Ibex no es una excepción, y repite las caídas predominantes la semana pasada.",
+      "date": "2026-07-13"
+    },
+    {
+      "title": "¿Y si al final EEUU e Irán se ponen de acuerdo y cobran por pasar por Ormuz?",
+      "summary": "Cuando, al inicio de la guerra desatada por Estados Unidos e Israel contra Irán, el régimen de los ayatolas cerró el paso por el estrecho de Ormuz a cualquier barco en un intento de conseguir que países dependientes de las importaciones de crudo de la zona presionaran para parar el conflicto, la medida fue criticada po.",
+      "date": "2026-07-13"
+    },
     {
       "title": "El Ibex amortigua el revés del petróleo",
       "summary": "La escalada en el conflicto entre Irán y EEUU vuelve a elevar el precio del petróleo. Con el Brent al filo de nuevo de los 80 dólares, los inversores dan un paso atrás en Bolsa. El Ibex no es una excepción, y repite las caídas predominantes la semana pasada.",
@@ -35,46 +60,39 @@
       "title": "El petróleo sube con fuerza y las Bolsas se tiñen de rojo por las tensiones en Irán",
       "summary": "La renovada tensión en Oriente Próximo, con nuevos ataques entre EE UU e Irán, tiñe de rojo las Bolsas e impulsa bruscamente los precios del petróleo. El brent sube un 4% hasta superar los 79 dólares el barril, reavivando los temores a que el encarecimiento de los costes energéticos pueda alimentar la inflación y compl.",
       "date": "2026-07-13"
-    },
-    {
-      "title": "El Ibex vuelve a dar marcha atrás por el petróleo",
-      "summary": "La escalada en el conflicto entre Irán y EEUU vuelve a elevar el precio del petróleo. Con el Brent al filo de nuevo de los 80 dólares, los inversores dan un paso atrás en Bolsa. El Ibex no es una excepción, y repite las caídas predominantes la semana pasada.",
-      "date": "2026-07-13"
-    },
-    {
-      "title": "Nueva oleada de ataques iraníes: Jordania y Kuwait interceptan misiles mientras Baréin activa sus sirenas",
-      "summary": "Kuwait y Jordania anunciaron este lunes que han interceptado un nuevo ataque iraní con misiles, mientras que Baréin activó sus sirenas y pidió a sus habitantes permanecer en un lugar seguro por un supuesto lanzamiento contra el país, en el marco de los ataques y represalias entre Irán y Estados Unidos. En Jordania, fue.",
-      "date": "2026-07-13"
-    },
-    {
-      "title": "Muere el senador republicano Lindsey Graham, el último 'gran halcón' de Washington",
-      "summary": "Principal impulsor de la guerra en Irán, defensor de Israel y de las sanciones a Moscú, se convirtió en uno de los principales asesores de Trump, al que había despreciado y criticado en el pasado Leer.",
-      "date": "2026-07-12"
-    },
-    {
-      "title": "Irán subraya que el tráfico por Ormuz está detenido por «movimientos ilegales de EEUU»",
-      "summary": "Las autoridades iraníes han subrayado este domingo que el tráfico por el estrecho de Ormuz se encuentra suspendido provisionalmente, una información que contrasta con la que procede de Estados Unidos , que sostiene que el tráfico «fluye con normalidad». «Debido a los recientes movimientos ilegales de fuerzas militares.",
-      "date": "2026-07-12"
-    },
-    {
-      "title": "Muere el senador republicano Lindsey Graham, estrecho aliado de Trump, de forma repentina a los 71 años",
-      "summary": "Su inesperada muerte trunca una carrera política caracterizada por su crítica y posterior respaldo al presidente, Donald Trump, y, recientemente, por su postura inflexible contra España sobre Irán. Leer.",
-      "date": "2026-07-12"
     }
   ],
   "sources": [
     {
-      "title": "El Ibex amortigua el revés del petróleo",
+      "title": "El petróleo se dispara tras anunciar Trump un bloqueo a Irán y un peaje de EE UU en Ormuz",
+      "url": "https://cincodias.elpais.com/mercados-financieros/2026-07-13/la-bolsa-y-el-ibex-35.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-13T16:27:17.000Z",
+      "sourceId": "lootura-es-cinco-dias"
+    },
+    {
+      "title": "El plan de Israel para convertir al ex presidente Ahmadineyad en líder del Irán posayatolás, según el 'New York Times'",
+      "url": "https://www.elmundo.es/internacional/2026/07/13/6a550bc5fc6c83b8168b4593.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-13T16:07:31.000Z",
+      "sourceId": "lootura-es-el-mundo"
+    },
+    {
+      "title": "Trump restablece el cerco naval a Irán y dice que cobrará el 20% por proteger a los buques en Ormuz",
+      "url": "https://www.elmundo.es/internacional/2026/07/13/6a54aaaafdddff6b118b45ab.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-13T15:14:15.000Z",
+      "sourceId": "lootura-es-el-mundo"
+    },
+    {
+      "title": "El Ibex cierra en rojo ante las nuevas tensiones entre EEUU e Irán",
       "url": "https://www.expansion.com/mercados/cronica-bolsa/2026/07/13/6a547ba5468aeb78108b457b.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-13T12:34:44.000Z",
+      "publishedAt": "2026-07-13T16:06:17.000Z",
       "sourceId": "lootura-es-expansion"
     },
     {
-      "title": "Trump, sobre el estrecho de Ormuz: «Lo vamos a mantener seguro y lo vamos a administrar»",
-      "url": "https://theobjective.com/internacional/2026-07-13/trump-estrecho-ormuz-seguro-administrar/?utm_source=lootura.com",
-      "publishedAt": "2026-07-13T13:18:45.000Z",
-      "sourceId": "lootura-es-the-objective"
+      "title": "¿Y si al final EEUU e Irán se ponen de acuerdo y cobran por pasar por Ormuz?",
+      "url": "https://www.expansion.com/opinion/2026/07/13/6a551d55e5fdea33278b4575.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-13T17:24:57.000Z",
+      "sourceId": "lootura-es-expansion"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 5
 }

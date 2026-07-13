@@ -3,7 +3,7 @@
 > Follow Maine Senate, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-07-13T14:31:32.442Z
+- Updated: 2026-07-13T17:53:11.557Z
 - Canonical: https://atlas.lootura.com/us/organization/maine-senate
 
 ## Recent changes

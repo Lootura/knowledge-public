@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/nato/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/nato/index.json",
   "description": "Sigue la actividad de Organización del Tratado del Atlántico Norte en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-13T14:31:13.122Z",
+  "updatedAt": "2026-07-13T17:52:48.684Z",
   "aliases": [
     "North Atlantic Treaty Organization",
     "OTAN",
@@ -18,6 +18,11 @@
     {
       "title": "La UE y la OTAN condenan los ciberataques «maliciosos» de Rusia contra los países europeos",
       "summary": "Señalan a los servicios de inteligencia del Kremlin de orquestar una ofensiva cibernética contra Francia y Alemania, que han convocado a los embajadores rusos para pedirles explicaciones.",
+      "date": "2026-07-13"
+    },
+    {
+      "title": "El juez Peinado exige a Begoña Gómez que acredite que viajó a Reino Unido a la graduación de su hija",
+      "summary": "Amenaza con imputarle un delito de quebrantamiento de medida cautelar, penado con cárcel de seis meses a un año juez sustituto de Peinado permite viajar a Begoña Gómez a Londres pero no a la cumbre de la OTAN El juez Juan Carlos Peinado ha regresado de vacaciones. Y a su vuelta, una de sus primeras decisiones ha sido s.",
       "date": "2026-07-13"
     },
     {
@@ -59,11 +64,6 @@
       "title": "\"Puedes mandar a toda la UME y a toda la OTAN que no lo vas a apagar\": qué hace tan extremo un incendio como el de Almería",
       "summary": "Expertos explican cómo el calor, el viento, la vegetación, los barrancos y las viviendas convirtieron el fuego de Los Gallardos en un incendio extremo Leer.",
       "date": "2026-07-10"
-    },
-    {
-      "title": "Alemania planea comprar misiles Tomahawk tras llegar a un acuerdo con EE UU",
-      "summary": "El gobierno de Alemania ha alcanzado un acuerdo con Estados Unidos para la adquisición de misiles de crucero Tomahawk de lanzamiento terrestre, una medida orientada a f ortalecer sus capacidades de ataque de largo alcance . El anuncio fue realizado por el canciller alemán, Friedrich Merz, tras la cumbre de la OTAN en A.",
-      "date": "2026-07-10"
     }
   ],
   "sources": [
@@ -72,7 +72,13 @@
       "url": "https://www.elcorreo.com/internacional/europa/ue-otan-condenan-ciberataques-maliciosos-rusia-paises-20260713160238-ntrc_amp.html?utm_source=lootura.com",
       "publishedAt": "2026-07-13T14:02:38.000Z",
       "sourceId": "lootura-es-el-correo"
+    },
+    {
+      "title": "El juez Peinado exige a Begoña Gómez que acredite que viajó a Reino Unido a la graduación de su hija",
+      "url": "https://www.eldiario.es/politica/juez-peinado-exige-begona-gomez-acredite-viajo-reino-unido-graduacion-hija_1_13377276.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-13T15:29:39.000Z",
+      "sourceId": "lootura-es-eldiario-es"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 2
 }

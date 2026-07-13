@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/maine/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/maine/index.json",
   "description": "Follow Maine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-13T14:31:32.442Z",
+  "updatedAt": "2026-07-13T17:53:11.557Z",
   "aliases": [],
   "changes": [
     {
@@ -24,6 +24,16 @@
     {
       "title": "Maine Democrats to Chuck Schumer: Stay Out of Our Senate Race",
       "summary": "Local Democrats are warning the top Senate Democrat to keep away as they replace Graham Platner, and the candidates are giving his leadership in Washington low marks.",
+      "date": "2026-07-13"
+    },
+    {
+      "title": "1 person killed in Maine shooting involving ICE, state house speaker says",
+      "summary": "A person was shot and killed in Maine involving ICE, the state.",
+      "date": "2026-07-13"
+    },
+    {
+      "title": "Person reportedly shot and killed in incident involving ICE agent in Maine",
+      "summary": "A person has been reportedly shot and killed in an incident involving an ICE agent in Biddeford, Maine. NBC News' Julia Ainsley has early details on the incident and how local and federal authorities are responding.",
       "date": "2026-07-13"
     },
     {
@@ -50,24 +60,20 @@
       "title": "Platner’s Rise and Fall Revives Old Questions About ‘Bernie Bros’ and Women",
       "summary": "The collapse of Graham Platner’s Senate bid in Maine after a rape allegation renewed attention to a movement built by Senator Bernie Sanders that some say is too forgiving of male misconduct.",
       "date": "2026-07-11"
-    },
-    {
-      "title": "How The Times Reported on Graham Platner",
-      "summary": "Two senior editors discuss the difficult effort to track down allegations against the leading Democrat for Senate in Maine and the questions that soon followed.",
-      "date": "2026-07-11"
-    },
-    {
-      "title": "Graham Platner officially withdraws from the Maine Senate race",
-      "summary": "Democrats have already set off a mad dash to find a new candidate, with a July 27 deadline to submit a replacement nominee to face Republican Sen. Susan Collins in the November election.",
-      "date": "2026-07-11"
     }
   ],
   "sources": [
     {
-      "title": "1 person killed in Maine shooting involving ICE, state House speaker says",
-      "url": "https://www.cbsnews.com/news/maine-shooting-ice-biddeford/?utm_source=lootura.com",
-      "publishedAt": "2026-07-13T13:44:21.000Z",
+      "title": "1 person killed in Maine shooting involving ICE, state house speaker says",
+      "url": "https://www.cbsnews.com/video/person-killed-maine-shooting-involving-ice-state-house-speaker/?utm_source=lootura.com",
+      "publishedAt": "2026-07-13T17:46:35.000Z",
       "sourceId": "lootura-us-cbs-news"
+    },
+    {
+      "title": "Person reportedly shot and killed in incident involving ICE agent in Maine",
+      "url": "https://www.nbcnews.com/now/video/person-reportedly-shot-and-killed-in-incident-involving-ice-agent-in-maine-266592837889?utm_source=lootura.com",
+      "publishedAt": "2026-07-13T16:11:28.000Z",
+      "sourceId": "lootura-us-nbc-news"
     },
     {
       "title": "Maine Democrats scramble to select replacement for Platner in Senate race",
@@ -88,5 +94,5 @@
       "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 4
+  "evidenceCount": 5
 }

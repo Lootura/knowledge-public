@@ -8,11 +8,16 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/san-sebastian/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/san-sebastian/index.json",
   "description": "Sigue la actividad de San Sebastián en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-13T14:31:13.122Z",
+  "updatedAt": "2026-07-13T17:52:48.684Z",
   "aliases": [
     "Donostia"
   ],
   "changes": [
+    {
+      "title": "La tasa de basura de Donostia subirá más de lo previsto en 2027 tras las nuevas tarifas de Gipuzkoa",
+      "summary": "El cambio del método de cálculo de las cantidades a cobrar por GHK a las mancomunidades supondrá subir la cuota que paga Donostia, lo que implicará subir más de un 2,29% el tributo.",
+      "date": "2026-07-13"
+    },
     {
       "title": "La Batalla de San Sebastián según su último combatiente",
       "summary": "Hasta su fallecimiento a los 110 años, Mateo Balbuena recordaba vívidamente los acontecimientos de julio de 1936.",
@@ -35,7 +40,13 @@
       "url": "https://www.diariovasco.com/gipuzkoa/historia/batalla-san-sebastian-segun-ultimo-combatiente-20260713000419-nt_amp.html?utm_source=lootura.com",
       "publishedAt": "2026-07-12T22:04:19.000Z",
       "sourceId": "lootura-es-el-diario-vasco"
+    },
+    {
+      "title": "La tasa de basura de Donostia subirá más de lo previsto en 2027 tras las nuevas tarifas de Gipuzkoa",
+      "url": "https://www.diariovasco.com/san-sebastian/tasa-basura-subira-previsto-2027-tras-nuevas-20260713185247-nt_amp.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-13T16:54:56.000Z",
+      "sourceId": "lootura-es-el-diario-vasco"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 2
 }

@@ -8,9 +8,19 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/china/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/china/index.json",
   "description": "Follow China, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-13T14:31:32.442Z",
+  "updatedAt": "2026-07-13T17:53:11.557Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "Himalayan snowfall has been miscalculated for years, here's how we found a new way to measure it",
+      "summary": "Mountain snow and meltwater from glaciers in the Himalayas determine how much water is available for drinking, farming and hydropower for millions of people in India, Pakistan, Nepal, China and Afghanistan.",
+      "date": "2026-07-13"
+    },
+    {
+      "title": "Will Oil Prices Rise as the US-Iran Truce Frays? The Answer Lies With China.",
+      "summary": "For decades, OPEC influenced the market by how much oil it produced. But China, the largest importer, is demonstrating its remarkable power over prices.",
+      "date": "2026-07-13"
+    },
     {
       "title": "Japan Builds Intelligence Agency It Hasn’t Had Since World War II",
       "summary": "Facing threats from Russia and China, Prime Minister Sanae Takaichi is turning to help from Western allies in forming a centralized agency.",
@@ -50,25 +60,21 @@
       "title": "We Returned From China. We Realized Our Century’s Biggest Challenge.",
       "summary": "A.I. demands a populist approach that treats the technology as a public project.",
       "date": "2026-07-11"
-    },
-    {
-      "title": "Typhoon Bavi makes landfall in eastern China as more than 1 million are evacuated",
-      "summary": "Bavi previously brought strong winds and rain to Japan's southern islands and Taiwan. It was the second typhoon to impact China in just over a week's time.",
-      "date": "2026-07-11"
-    },
-    {
-      "title": "‘They Don’t Need People’: The Workers Left Behind by China’s Robot Drive",
-      "summary": "For out-of-work factory workers in Kunshan, a region made rich by electronics manufacturing, a park is the only place to go.",
-      "date": "2026-07-11"
     }
   ],
   "sources": [
     {
-      "title": "Japan Builds Intelligence Agency It Hasn’t Had Since World War II",
-      "url": "https://www.nytimes.com/2026/07/13/world/asia/japan-intelligence-agency.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-13T12:57:30.000Z",
-      "sourceId": "lootura-us-the-new-york-times-world"
+      "title": "Himalayan snowfall has been miscalculated for years, here's how we found a new way to measure it",
+      "url": "https://phys.org/news/2026-07-himalayan-snowfall-miscalculated-years.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-13T17:40:04.000Z",
+      "sourceId": "lootura-us-phys-org"
+    },
+    {
+      "title": "Will Oil Prices Rise as the US-Iran Truce Frays? The Answer Lies With China.",
+      "url": "https://www.nytimes.com/2026/07/13/business/energy-environment/oil-prices-iran-china.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-13T16:34:34.000Z",
+      "sourceId": "lootura-us-the-new-york-times"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 2
 }

@@ -3,10 +3,22 @@
 > Sigue la actividad de Alberto Núñez Feijóo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-13T14:31:13.122Z
+- Actualizado: 2026-07-13T17:52:48.684Z
 - Canonical: https://atlas.lootura.com/es/person/alberto-nunez-feijoo
 
 ## Cambios recientes
+
+### Feijóo promete desde Almería impulsar un "gran acuerdo de prevención, respuesta y coordinación" ante catástrofes naturales
+
+Desde la localidad que ha sufrido el incendio más mortífero de este siglo en España, Los Gallardos, el presidente del Partido Popular, Alberto Núñez Feijóo , se ha comprometido a elaborar un "gran acuerdo de prevención, respuesta y coordinación" ante catástrofes naturales si se convierte en el próximo presidente del Go.
+
+Date: 2026-07-13
+
+### Feijóo sin complejos: “ingeniería electoral”, “concebido y no nacido” y “absentismo laboral»
+
+Un cambio sustancial en la estrategia política del PP parece consolidarse. En el que la relación con Vox ocupa un papel determinante, con el dominio del espacio político del centroderecha en juego. El motivo tiene su base en que todas las encuestas confirman la consolidación de un voto de «derechas» o liberal conservad.
+
+Date: 2026-07-13
 
 ### Vox pide a Feijóo centrarse en Sánchez, "no meterse en jardines" como el de las bajas laborales y "estar más preparado" si les copia en inmigración
 
@@ -56,19 +68,7 @@ El presidente del PP clausura el Congreso de Nuevas Generaciones comprometiendo 
 
 Date: 2026-07-11
 
-### Feijóo responde a las críticas: «Defiendo al trabajador honrado y perseguiré el absentismo laboral»
-
-El presidente del Partido Popular, Alberto Núñez Feijóo , ha respondido este sábado a las críticas que ha recibido por parte de la izquierda esta semana: «Defiendo al trabajador honrado y perseguiré el absentismo laboral ». Así lo ha sentenciado, destacando que le dan igual las críticas. «Estoy aquí para dar debates va.
-
-Date: 2026-07-11
-
-### Feijóo pide prepararse para un verano "muy complicado" de incendios mientras Bolaños reivindica la "cooperación"
-
-Los incendios que están poniendo en jaque a los distintos servicios de extinción en casi toda España han centrado este sábado el debate político. El líder de la oposición, Alberto Núñez Feijóo , ha pedido más preparación a las administraciones ante los fuegos, mientras que uno de los ministros fuertes del Gobierno, Fél.
-
-Date: 2026-07-11
-
 ## Fuentes
 
-- [Albares acusa a Rajoy de «boicotear la extraordinaria política exterior que tiene ahora España»](https://www.abc.es/espana/albares-acusa-rajoy-boicotear-extraordinaria-politica-exterior-20260713125000-nt.html?utm_source=lootura.com) — 2026-07-13T13:49:30.000Z
-- [Vox pide a Feijóo centrarse en Sánchez, "no meterse en jardines" como el de las bajas laborales y "estar más preparado" si les copia en inmigración](https://www.elindependiente.com/espana/2026/07/13/vox-feijoo-no-jardines-sanchez-absentismo-preparado-copiar-inmigracion/?utm_source=lootura.com) — 2026-07-13T12:26:45.000Z
+- [Feijóo promete desde Almería impulsar un "gran acuerdo de prevención, respuesta y coordinación" ante catástrofes naturales](https://www.20minutos.es/nacional/feijoo-promete-desde-almeria-impulsar-un-gran-acuerdo-prevencion-respuesta-coordinacion-ante-catastrofes-naturales_7014137_0.html?utm_source=lootura.com) — 2026-07-13T16:56:11.000Z
+- [Feijóo sin complejos: “ingeniería electoral”, “concebido y no nacido” y “absentismo laboral»](https://okdiario.com/opinion/feijoo-sin-complejos-ingenieria-electoral-concebido-no-nacido-absentismo-laboral-18983803?utm_source=lootura.com) — 2026-07-13T17:00:57.000Z

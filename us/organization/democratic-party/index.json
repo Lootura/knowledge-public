@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/democratic-party/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/democratic-party/index.json",
   "description": "Follow Democratic Party, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-13T14:31:32.442Z",
+  "updatedAt": "2026-07-13T17:53:11.557Z",
   "aliases": [
     "Democrats"
   ],
@@ -88,13 +88,7 @@
       "url": "https://www.nytimes.com/2026/07/13/us/politics/lindsey-graham-senate-force.html?utm_source=lootura.com",
       "publishedAt": "2026-07-13T12:23:14.000Z",
       "sourceId": "lootura-us-the-new-york-times-politics"
-    },
-    {
-      "title": "As Trump Brands Them ‘Godless Communists,’ Democrats Divided on How to Respond",
-      "url": "https://time.com/article/2026/07/13/as-trump-brands-them-godless-communists-democrats-divided-on-how-to-respond/?utm_source=lootura.com",
-      "publishedAt": "2026-07-13T11:00:00.000Z",
-      "sourceId": "lootura-us-time"
     }
   ],
-  "evidenceCount": 5
+  "evidenceCount": 4
 }

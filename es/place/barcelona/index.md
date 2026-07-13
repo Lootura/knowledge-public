@@ -3,10 +3,22 @@
 > Sigue la actividad de Barcelona en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-13T14:31:13.122Z
+- Actualizado: 2026-07-13T17:52:48.684Z
 - Canonical: https://atlas.lootura.com/es/place/barcelona
 
 ## Cambios recientes
+
+### En libertad el exalcalde de Sant Feliu (Girona) investigado por presuntamente masturbarse en una piscina
+
+La sección de Instrucción del Tribunal de Instancia de Arenys de Mar (Barcelona) ha acordado l ibertad a disposición del juez para el exalcalde de Sant Feliu de Guíxols (Girona), Pere Albó, detenido este domingo por un presunto delito de exhibicionismo al masturbarse frente a menores de edad en la piscina de un hotel d.
+
+Date: 2026-07-13
+
+### El filial del Barcelona de cuarta categoría lleva ya gastado más dinero que 10 equipos de Primera División
+
+El Barcelona ha comenzado este mercado de fichajes con mucho movimiento y millones gastados entre su primer equipo y su filial.
+
+Date: 2026-07-13
 
 ### El último recurso de Isak y Jonathan Andic ante el “sufrimiento” por su relación “pésima”
 
@@ -56,19 +68,7 @@ El Barcelona arranca la temporada 26/27 este lunes , 13 de julio, a las 9:00 hor
 
 Date: 2026-07-12
 
-### El Patio Chico acogerá esta semana el IX Festival Internacional de Jazz, organizado por el Ayuntamiento de Salamanca
-
-El Patio Chico acogerá la novena edición del Festival Internacional de Jazz organizado por el Ayuntamiento de Salamanca, con cinco conciertos programados entre el 14 y el 18 de julio. El primero de los conciertos lo ofrecerá el martes 14 de julio la Barcelona Jazz Orchestra (16 músicos) con el saxofonista de Nueva Orle.
-
-Date: 2026-07-12
-
-### Viñedos naturales, masías y vistas al Mediterráneo: el pueblo a media hora de Barcelona donde desconecta Cucurella
-
-Marc Cucurella atraviesa uno de sus mejores momentos. Lejos de los estadios, los focos y la presión del fútbol de élite, el lateral mantiene un estrecho vínculo con un lugar muy distinto al ritmo frenético de las grandes competiciones: Alella , el municipio barcelonés donde nació y dio sus primeros pasos antes de incor.
-
-Date: 2026-07-12
-
 ## Fuentes
 
-- [Detenido el exalcalde de Sant Feliu (Girona) Pere Albó por presuntamente masturbarse en una piscina](https://www.elconfidencial.com/espana/cataluna/2026-07-13/detenido-el-exalcalde-de-sant-feliu-pere-albo-masturbarse-piscina_4389218/?utm_source=lootura.com) — 2026-07-13T13:47:00.000Z
-- [El último recurso de Isak y Jonathan Andic ante el “sufrimiento” por su relación “pésima”](https://elpais.com/espana/catalunya/2026-07-13/el-ultimo-recurso-de-isak-y-jonathan-andic-ante-el-sufrimiento-por-su-relacion-pesima.html?utm_source=lootura.com) — 2026-07-13T03:15:00.000Z
+- [En libertad el exalcalde de Sant Feliu (Girona) investigado por presuntamente masturbarse en una piscina](https://www.elconfidencial.com/espana/cataluna/2026-07-13/detenido-el-exalcalde-de-sant-feliu-pere-albo-masturbarse-piscina_4389218/?utm_source=lootura.com) — 2026-07-13T15:50:00.000Z
+- [El filial del Barcelona de cuarta categoría lleva ya gastado más dinero que 10 equipos de Primera División](https://okdiario.com/deportes/filial-del-barcelona-cuarta-categoria-lleva-ya-gastado-mas-dinero-que-10-equipos-primera-division-18988055/amp?utm_source=lootura.com) — 2026-07-13T17:32:26.000Z

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/white-house/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/white-house/index.json",
   "description": "Follow White House, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-13T10:58:18.710Z",
+  "updatedAt": "2026-07-13T17:53:11.557Z",
   "aliases": [],
   "changes": [
     {
@@ -62,6 +62,13 @@
       "date": "2026-07-09"
     }
   ],
-  "sources": [],
+  "sources": [
+    {
+      "title": "Trump Insists U.S. Should 'Run' the Strait of Hormuz and Get Paid For It",
+      "url": "https://time.com/article/2026/07/13/us-iran-conflict-oil-prices-strait-of-hormuz-trump-control/?utm_source=lootura.com",
+      "publishedAt": "2026-07-13T16:47:56.000Z",
+      "sourceId": "lootura-us-time"
+    }
+  ],
   "evidenceCount": 0
 }

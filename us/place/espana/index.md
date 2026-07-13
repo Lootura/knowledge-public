@@ -3,7 +3,7 @@
 > Follow Spain, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-13T14:31:32.442Z
+- Updated: 2026-07-13T17:53:11.557Z
 - Canonical: https://atlas.lootura.com/us/place/espana
 
 ## Recent changes
@@ -52,4 +52,4 @@ Date: 2026-07-09
 
 ## Sources
 
-- [World Cup down to final four teams](https://www.cbsnews.com/video/world-cup-down-to-final-four-teams/?utm_source=lootura.com) — 2026-07-13T01:11:46.000Z
+- [Ramiro Córdova: “Francia es muy favorita sobre España” | El Pelotazo](https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/ramiro-cordova-francia-es-muy-favorita-sobre-espana-el-pelotazo-tmvo13203166?utm_source=lootura.com) — 2026-07-13T04:35:55.000Z

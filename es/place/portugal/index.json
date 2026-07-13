@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/portugal/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/portugal/index.json",
   "description": "Sigue la actividad de Portugal en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-12T02:31:58.650Z",
+  "updatedAt": "2026-07-13T17:52:48.684Z",
   "aliases": [],
   "changes": [
     {
@@ -57,6 +57,13 @@
       "date": "2026-07-09"
     }
   ],
-  "sources": [],
+  "sources": [
+    {
+      "title": "Nathalie Picquot abandona Santander tras cinco años ligada al banco",
+      "url": "https://amp.expansion.com/empresas/banca/2026/07/13/6a54fce6468aeb85748b4585.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-13T15:24:39.000Z",
+      "sourceId": "lootura-es-expansion"
+    }
+  ],
   "evidenceCount": 0
 }

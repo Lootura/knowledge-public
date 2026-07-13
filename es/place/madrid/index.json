@@ -8,9 +8,29 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/madrid/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/madrid/index.json",
   "description": "Sigue la actividad de Madrid en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-13T14:31:13.122Z",
+  "updatedAt": "2026-07-13T17:52:48.684Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "Bruno Mars homenajea a España cortando jamón Maldonado en el Metropolitano",
+      "summary": "El cantante estadounidense Bruno Mars protagonizó uno de los momentos más comentados de su regreso a España al cortar y degustar en pleno concierto una pata de jamón ibérico de la firma extremeña Maldonado, ante las 50.000 personas que llenaron el viernes el Riyadh Air Metropolitano de Madrid en la primera de sus dos c.",
+      "date": "2026-07-13"
+    },
+    {
+      "title": "Dos incendios cortan la circulación de cuatro líneas de Cercanías en Madrid",
+      "summary": "La presencia de dos incendios cercanos a las infraestructuras ferroviarias obliga a paralizar la circulación entre l as estaciones de Cercanías Renfe de Pozuelo y Las Rozas, que afecta a las líneas C7 y C10, y de Santa Eugenia y Vicálvaro, que afecta a las líneas C2, C7 y C8. Dos incidentes que han ocurrido con una dif.",
+      "date": "2026-07-13"
+    },
+    {
+      "title": "La patronal madrileña apoya a Garamendi en las elecciones de CEOE",
+      "summary": "Muchos empresarios estaban pendientes de qué decisión adoptaba este lunes la ejecutiva de la Confederación Empresarial de Madrid (CEIM), la patronal más importante de la región. Su presidente, Miguel Garrido, viene sosteniendo un discurso más duro contra el Gobierno que el de Antonio Garamendi, y hubo un momento en que.",
+      "date": "2026-07-13"
+    },
+    {
+      "title": "Seis hospitales públicos madrileños, en el \"Top Ten\" de los mejores 25 centros de España",
+      "summary": "Seis hospitales públicos de la Comunidad de Madrid forman parte del 'Top Ten' de los 25 mejores hospitales de España en la lista elaborada por la revista Forbes , con otros dos centros de la sanidad madrileña que se cuelan en la misma. En concreto, cuatro centros madrileños lideran el ranking nacional, de modo que la F.",
+      "date": "2026-07-13"
+    },
     {
       "title": "El PP de Madrid mantiene su respaldo al alcalde de Móstoles tras su imputación por presunto acoso sexual",
       "summary": "“Absolutamente” y “por supuesto”. Esas dos expresiones son las que han utilizado los altos cargos del PP de Madrid para reiterar su respaldo al alcalde de Móstoles, el popular Manuel Bautista, después de que este lunes trascendiera su imputación por un presunto delito de acoso sexual y laboral a una exconcejala de ese.",
@@ -19,11 +39,6 @@
     {
       "title": "Ayuso presenta los nuevos trenes automáticos de la Línea 6 del Metro",
       "summary": "La presidenta de la Comunidad de Madrid, Isabel Díaz Ayuso, ha presentado hoy el primero de los 48 nuevos trenes automáticos que circularán por la Línea 6 de Metro a lo largo del año 2027. Esta renovación integral convertirá a la conocida como línea Circular en la primera de toda la red madrileña en operar con un siste.",
-      "date": "2026-07-13"
-    },
-    {
-      "title": "Bruno Mars homenajea a España cortando jamón Maldonado en el Metropolitano",
-      "summary": "El cantante estadounidense Bruno Mars protagonizó uno de los momentos más comentados de su regreso a España al cortar y degustar en pleno concierto una pata de jamón ibérico de la firma extremeña Maldonado, ante las 50.000 personas que llenaron el viernes el Riyadh Air Metropolitano de Madrid en la primera de sus dos c.",
       "date": "2026-07-13"
     },
     {
@@ -45,35 +60,26 @@
       "title": "La Audiencia Nacional rechaza paralizar la resignificación de Cuelgamuros como pedía Abogados Cristianos",
       "summary": "La Sala de lo Contencioso-Administrativo desestima la medida cautelar de la asociación ultra contra el acuerdo firmado por el Gobierno y el arzobispo de Madrid José Cobo para transformar el mausoleo La batalla por mantener la obra magna de Franco: ocho años de asedio que aún frenan la resignificación de Cuelgamuros La.",
       "date": "2026-07-13"
-    },
-    {
-      "title": "Ayuso defiende la Fórmula 1 en Madrid: «Es una gran inversión que no cuesta al contribuyente madrileño»",
-      "summary": "Isabel Díaz Ayuso , presidenta de la Comunidad de Madrid, ha arremetido contra el Gobierno de Sánchez por la «falta de apoyo económico» a Madrid para la celebración del Gran Premio de Fórmula 1 en la capital, cargando contra aquellos que no querían que se llevara a cabo el GP de España de F1. La dirigente del Partido P.",
-      "date": "2026-07-13"
-    },
-    {
-      "title": "Del Powerpoint al espectáculo: la fórmula con la que Madrid pelea el turismo de reuniones a otras capitales internacionales",
-      "summary": "En plena metamorfosis del sector, las empresas abandonan los formatos rígidos tradicionales y buscan el impacto emocional a través de la música y el directo.",
-      "date": "2026-07-13"
-    },
-    {
-      "title": "De la Gran Vía al medievo: la ruta secreta por el Madrid rural que solo conocen los peregrinos",
-      "summary": "Del Kilómetro Cero de la Puerta del Sol a la Puerta Santa de la Catedral de Santiago, en vísperas de un nuevo año jubilar, hay un recorrido de unos 600 kilómetros . En la capital se inicia la ruta peregrina por uno de los Caminos oficiales más desconocidos de cuantos conectan Europa y Compostela: es el Camino de Madrid.",
-      "date": "2026-07-13"
     }
   ],
   "sources": [
     {
-      "title": "Ayuso presenta los nuevos trenes automáticos de la Línea 6 del Metro",
-      "url": "https://www.elindependiente.com/espana/madrid/2026/07/13/ayuso-presenta-los-nuevos-trenes-automaticos-de-la-linea-6-del-metro/?utm_source=lootura.com",
-      "publishedAt": "2026-07-13T12:56:05.000Z",
-      "sourceId": "lootura-es-el-independiente"
+      "title": "Dos incendios cortan la circulación de cuatro líneas de Cercanías en Madrid",
+      "url": "https://www.abc.es/espana/madrid/interrumpida-circulacion-cercanias-pozuelo-rozas-incendio-20260713180209-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-13T17:13:00.000Z",
+      "sourceId": "lootura-es-abc"
     },
     {
-      "title": "El PP de Madrid mantiene su respaldo al alcalde de Móstoles tras su imputación por presunto acoso sexual",
-      "url": "https://elpais.com/espana/2026-07-13/el-pp-de-madrid-mantiene-su-respaldo-al-alcalde-de-mostoles-tras-su-imputacion-por-presunto-acoso-sexual.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-13T09:36:40.000Z",
-      "sourceId": "lootura-es-el-pais"
+      "title": "La patronal madrileña apoya a Garamendi en las elecciones de CEOE",
+      "url": "https://elpais.com/economia/2026-07-13/la-patronal-madrilena-apoya-a-garamendi-en-las-elecciones-de-ceoe.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-13T16:17:31.000Z",
+      "sourceId": "lootura-es-cinco-dias"
+    },
+    {
+      "title": "Seis hospitales públicos madrileños, en el \"Top Ten\" de los mejores 25 centros de España",
+      "url": "https://www.larazon.es/madrid/seis-hospitales-publicos-madrilenos-top-ten-mejores-25-centros-espana_202607136a55224bc0b5fb431c53834b.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-13T17:37:16.000Z",
+      "sourceId": "lootura-es-la-razon"
     },
     {
       "title": "Bruno Mars homenajea a España cortando jamón Maldonado en el Metropolitano",
@@ -82,5 +88,5 @@
       "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 4
 }

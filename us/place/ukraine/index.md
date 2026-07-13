@@ -3,7 +3,7 @@
 > Follow Ukraine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-13T14:31:32.442Z
+- Updated: 2026-07-13T17:53:11.557Z
 - Canonical: https://atlas.lootura.com/us/place/ukraine
 
 ## Recent changes
@@ -20,9 +20,9 @@ They began as supply mules. Now ground robots evacuate the wounded, hold trenche
 
 Date: 2026-07-13
 
-### A Look at Lindsey Graham’s Political Legacy and Impact
+### Ukraine and 9 other countries form coalition to protect Europe from ballistic missiles
 
-Meet the Press Moderator Kristen Welker joins TODAY to discuss Sen. Lindsey Graham’s vast political legacy and share what he was like off camera. She also breaks down how his death impacts United States foreign policy with the wars in Iran and Ukraine.
+and nine other countries have announced a coalition to protect Europe from ballistic missiles, taking advantage of Kyiv's experience of fighting Russia.
 
 Date: 2026-07-13
 
@@ -70,6 +70,6 @@ Date: 2026-07-12
 
 ## Sources
 
-- [A Look at Lindsey Graham’s Political Legacy and Impact](https://www.today.com/video/kristen-welker-shares-what-lindsey-graham-was-like-off-camera-266581061699?utm_source=lootura.com) — 2026-07-13T11:17:27.000Z
+- [Ukraine and 9 other countries form coalition to protect Europe from ballistic missiles](https://www.pbs.org/newshour/world/ukraine-and-9-other-countries-form-coalition-to-protect-europe-from-ballistic-missiles?utm_source=lootura.com) — 2026-07-13T17:51:08.000Z
 - [With Lindsey Graham Gone, Ukraine Loses an Ally in Trump’s Ear](https://www.nytimes.com/2026/07/12/us/lindsey-graham-ukraine.html?utm_source=lootura.com) — 2026-07-13T12:12:41.000Z
-- [A Robot Army Remakes Ground Warfare in Ukraine](https://www.nytimes.com/2026/07/13/world/europe/ukraine-ground-robots.html?utm_source=lootura.com) — 2026-07-13T12:04:25.000Z
+- [A Robot Army Remakes Ground Warfare in Ukraine](https://www.nytimes.com/2026/07/13/world/europe/ukraine-ground-robots.html?utm_source=lootura.com) — 2026-07-13T16:09:36.000Z

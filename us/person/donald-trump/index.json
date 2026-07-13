@@ -8,18 +8,13 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/donald-trump/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/donald-trump/index.json",
   "description": "Follow Donald Trump, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-13T14:31:32.442Z",
+  "updatedAt": "2026-07-13T17:53:11.557Z",
   "aliases": [
     "President Donald Trump",
     "President Trump",
     "Trump"
   ],
   "changes": [
-    {
-      "title": "Michael Cohen Helped Convict Trump. Now, He’s Making Nice Again.",
-      "summary": "A previously unreported encounter last summer set the stage for a rapprochement between the president and his former fixer, who has so far avoided the diatribes and prosecutions that President Trump has directed at other critics.",
-      "date": "2026-07-13"
-    },
     {
       "title": "Sen. Lindsey Graham's cause of death was aortic dissection, medical examiner says",
       "summary": "President Trump paid tribute to the late senator, who was reportedly scheduled to do an interview on Sunday.",
@@ -51,22 +46,33 @@
       "date": "2026-07-13"
     },
     {
-      "title": "As Trump Brands Them ‘Godless Communists,’ Democrats Divided on How to Respond",
-      "summary": "President Donald Trump speaks at the Independence Day celebration on the National Mall in Washington, DC, on July 4, 2026. —Alex Wroblewski–AFP via Getty Images More than three decades after the fall of the Berlin Wall, a U.S. President is once again casting the threat of communism as one of the biggest issues facing A.",
+      "title": "Oil jumps 6% after Trump reimposes Iran blockade on Strait of Hormuz",
+      "summary": "The price of oil jumped after President Trump declared on social media that the U.S. would be “reimbursed” for helping ships transit the Strait of Hormuz.",
       "date": "2026-07-13"
     },
     {
-      "title": "A Bible passage is at the center of a debate over how the U.S. should treat immigrants",
-      "summary": "A debate over the Bible verse Matthew 25 is pitting mainline pastors, Black protestants and the pope against evangelical politicians put on the defensive over President Trump's policies.",
-      "date": "2026-07-12"
+      "title": "Trump recommends South Carolina’s governor appoint Lindsey Graham’s sister to finish his Senate term",
+      "summary": "President Donald Trump said Monday that he has recommended to South Carolina Gov. Henry McMaster that he choose Lindsey Graham’s sister, Darline Graham Nordone, to serve the remainder of the late Republican senator’s term, which ends in early January.",
+      "date": "2026-07-13"
     },
     {
-      "title": "How longtime GOP Senator Lindsey Graham went from critic to ally of President Trump",
-      "summary": "Longtime Republican Sen. Lindsey Graham has died at the age of 71. The foreign policy hawk and former critic-turned-ally of President Trump was running for re-election in South Carolina.",
-      "date": "2026-07-12"
+      "title": "Trump says the U.S. will reinstate its blockade on Iran and charge a toll on ships",
+      "summary": "The move comes after the U.S. and Iran exchanged fire for the third weekend in a row, raising the specter of a return to all-out war after a shaky ceasefire took effect in June. (Image credit: AFPTV).",
+      "date": "2026-07-13"
+    },
+    {
+      "title": "Trump urges S.C. governor to appoint Sen. Graham's sister as temporary replacement",
+      "summary": "Sen. Lindsey Graham died over the weekend at age 71, and Gov. Henry McMaster is expected to announce his pick later Monday.",
+      "date": "2026-07-13"
     }
   ],
   "sources": [
+    {
+      "title": "Judge rebukes Trump and DOJ over IRS lawsuit in scathing decision",
+      "url": "https://www.cbsnews.com/news/judge-trump-justice-department-irs-lawsuit-anti-weaponization-fund-settlement/?utm_source=lootura.com",
+      "publishedAt": "2026-07-13T17:04:07.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
     {
       "title": "Sen. Lindsey Graham's cause of death was aortic dissection, medical examiner says",
       "url": "https://www.cbsnews.com/news/senator-lindsey-graham-dies-after-brief-and-sudden-illness/?utm_source=lootura.com",
@@ -80,10 +86,22 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
+      "title": "Oil jumps 6% after Trump reimposes Iran blockade on Strait of Hormuz",
+      "url": "https://www.nbcnews.com/business/markets/oil-rises-trump-reimposes-hormuz-blockade-rcna587297?utm_source=lootura.com",
+      "publishedAt": "2026-07-13T15:01:13.000Z",
+      "sourceId": "lootura-us-nbc-news"
+    },
+    {
       "title": "US and Iran Trade Strikes as Ceasefire Deal Efforts Unravel",
       "url": "https://www.today.com/video/us-and-iran-trade-strikes-as-ceasefire-deal-efforts-unravel-266581061712?utm_source=lootura.com",
       "publishedAt": "2026-07-13T11:21:19.000Z",
       "sourceId": "lootura-us-nbc-news"
+    },
+    {
+      "title": "Trump recommends South Carolina’s governor appoint Lindsey Graham’s sister to finish his Senate term",
+      "url": "https://www.nbcnews.com/politics/2026-election/trump-lindsey-graham-sister-darline-mcmaster-appoint-senate-term-rcna587302?utm_source=lootura.com",
+      "publishedAt": "2026-07-13T16:56:24.000Z",
+      "sourceId": "lootura-us-nbc-news-politics"
     },
     {
       "title": "Former member of federal Election Assistance Commission speaks out after dismissal",
@@ -92,29 +110,23 @@
       "sourceId": "lootura-us-npr-politics"
     },
     {
-      "title": "Mercurial and Magnetic, Lindsey Graham Was a Force in the Senate",
-      "url": "https://www.nytimes.com/2026/07/13/us/politics/lindsey-graham-senate-force.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-13T12:23:14.000Z",
-      "sourceId": "lootura-us-the-new-york-times-politics"
+      "title": "Trump says the U.S. will reinstate its blockade on Iran and charge a toll on ships",
+      "url": "https://www.npr.org/2026/07/13/nx-s1-5891746/us-iran-strait-of-hormuz-updates?utm_source=lootura.com",
+      "publishedAt": "2026-07-13T16:53:40.000Z",
+      "sourceId": "lootura-us-npr-world"
     },
     {
-      "title": "Michael Cohen Helped Convict Trump. Now, He’s Making Nice Again.",
-      "url": "https://www.nytimes.com/2026/07/12/us/politics/trump-cohen-meeting-show.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-13T01:17:02.000Z",
-      "sourceId": "lootura-us-the-new-york-times-politics"
+      "title": "Trump urges S.C. governor to appoint Sen. Graham's sister as temporary replacement",
+      "url": "https://www.pbs.org/newshour/politics/trump-urges-s-c-governor-to-appoint-sen-grahams-sister-as-temporary-replacement?utm_source=lootura.com",
+      "publishedAt": "2026-07-13T17:15:57.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
     },
     {
-      "title": "With Lindsey Graham Gone, Ukraine Loses an Ally in Trump’s Ear",
-      "url": "https://www.nytimes.com/2026/07/12/us/lindsey-graham-ukraine.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-13T12:12:41.000Z",
-      "sourceId": "lootura-us-the-new-york-times-politics"
-    },
-    {
-      "title": "As Trump Brands Them ‘Godless Communists,’ Democrats Divided on How to Respond",
-      "url": "https://time.com/article/2026/07/13/as-trump-brands-them-godless-communists-democrats-divided-on-how-to-respond/?utm_source=lootura.com",
-      "publishedAt": "2026-07-13T11:00:00.000Z",
-      "sourceId": "lootura-us-time"
+      "title": "Trump suggests he has left a standing order to attack Iran if it assassinates him. But Vance would make the call",
+      "url": "https://www.pbs.org/newshour/nation/trump-suggests-he-has-left-a-standing-order-to-attack-iran-if-it-assassinates-him-but-vance-would-make-the-call?utm_source=lootura.com",
+      "publishedAt": "2026-07-13T17:41:47.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
     }
   ],
-  "evidenceCount": 9
+  "evidenceCount": 14
 }

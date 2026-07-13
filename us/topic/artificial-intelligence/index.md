@@ -3,20 +3,38 @@
 > Follow Artificial intelligence, a tracked topic, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: topic
-- Updated: 2026-07-13T14:31:32.442Z
+- Updated: 2026-07-13T17:53:11.557Z
 - Canonical: https://atlas.lootura.com/us/topic/artificial-intelligence
 
 ## Recent changes
 
-### Which ‘AI scientist’ suits your lab? A guide for the perplexed
-
-Nature, Published online: 10 July 2026; doi:10.1038/d41586-026-02091-6 General purpose AI tools for science, such as Claude Science, promise to accelerate research. But which is right for you?
-
-Date: 2026-07-13
-
 ### Does AI work for us, or do we work for AI?
 
 Science, Volume 393, Issue 6807 , Page 152-152, July 2026.
+
+Date: 2026-07-13
+
+### AI companies are creating "generative ghosts" of deceased loved ones
+
+Startups are using emails, photos and voice recordings to create AI simulations that family and friends can interact with after a loved one's death.
+
+Date: 2026-07-13
+
+### The Asus ROG Flow Z13 gaming tablet with 64GB RAM is down to $2,100
+
+Almost all gaming laptops have gone up in price over the past year. Curiously, the surprisingly fast Asus ROG Flow Z13 gaming laptop/tablet combo has not. It’s actually gotten quite a bit cheaper recently. Best Buy has the lowest price on the configuration that includes the AMD Ryzen AI Max Plus 395 “Strix Halo” chipse.
+
+Date: 2026-07-13
+
+### Even Nvidia’s head of automotive fights with Nvidia for compute
+
+Today, I’m talking with Xinzhou Wu, who is the head of automotive at Nvidia. Nvidia is obviously in the news constantly because of the AI boom — it’s one of the most valuable companies in the world, because the AI industry can’t get enough of the company’s GPUs. But Nvidia is also a key supplier to the auto industry. I.
+
+Date: 2026-07-13
+
+### Which ‘AI scientist’ suits your lab? A guide for the perplexed
+
+Nature, Published online: 10 July 2026; doi:10.1038/d41586-026-02091-6 General purpose AI tools for science, such as Claude Science, promise to accelerate research. But which is right for you?
 
 Date: 2026-07-13
 
@@ -50,27 +68,9 @@ Portable screen-printed carbon electrode (SPCE) biosensors offer a rapid, low-co
 
 Date: 2026-07-12
 
-### Campaign text messages could soon get more effective — and annoying
-
-Taught to sound like a candidate, bots are engaging voters with personalized text messages, making AI-generated texting conversations the latest tool political campaigns are using to connect. (Image credit: Charly Triballeau).
-
-Date: 2026-07-12
-
-### Apple’s failed self-driving car program left a legacy of powerful AI chips
-
-Apple's self-driving car program never really got off the ground , but it may have been what made the company's chips the powerful AI performers they are. Early in the development of the self-driving platform, Apple realized that it would need powerful on-device AI processing . While the car processor was never finishe.
-
-Date: 2026-07-12
-
-### Which ‘AI scientist’ suits your lab? A guide for the perplexed
-
-Nature, Published online: 10 July 2026; doi:10.1038/d41586-026-02091-6 General purpose AI tools for science, such as Claude Science, promise to accelerate research. But which is right for you?
-
-Date: 2026-07-12
-
 ## Sources
 
-- [Building a Foundation Stack for General-Purpose Robots](https://spectrum.ieee.org/x-square-robot-embodied-ai-stack?utm_source=lootura.com) — 2026-07-13T10:19:51.000Z
-- [Daily briefing: Preprints are chock-full of authors’ private info](https://www.nature.com/articles/d41586-026-02198-w?utm_source=lootura.com) — 2026-07-13T10:58:22.942Z
-- [Which ‘AI scientist’ suits your lab? A guide for the perplexed](https://www.nature.com/articles/d41586-026-02091-6?utm_source=lootura.com) — 2026-07-13T14:31:36.786Z
-- [Does AI work for us, or do we work for AI?](https://www.science.org/doi/abs/10.1126/science.aei9754?af=R&utm_source=lootura.com) — 2026-07-13T14:31:36.969Z
+- [AI companies are creating "generative ghosts" of deceased loved ones](https://www.cbsnews.com/news/ai-ghost-chatbots-deceased-loved-ones/?utm_source=lootura.com) — 2026-07-13T17:04:42.000Z
+- [Does AI work for us, or do we work for AI?](https://www.science.org/doi/abs/10.1126/science.aei9754?af=R&utm_source=lootura.com) — 2026-07-13T17:53:17.064Z
+- [The Asus ROG Flow Z13 gaming tablet with 64GB RAM is down to $2,100](https://www.theverge.com/gadgets/964652/asus-rog-flow-z13-switch-2-camera-amd-ryzen-ddr4-deal-sale?utm_source=lootura.com) — 2026-07-13T14:52:14.000Z
+- [Even Nvidia’s head of automotive fights with Nvidia for compute](https://www.theverge.com/podcast/964614/nvidia-auto-xinzhou-wu-ev-ai-hyperion-autonomy-cars-tesla?utm_source=lootura.com) — 2026-07-13T15:00:00.000Z

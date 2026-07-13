@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/europe/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/europe/index.json",
   "description": "Follow Europe, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-13T10:58:18.710Z",
+  "updatedAt": "2026-07-13T17:53:11.557Z",
   "aliases": [
     "EU",
     "European Union"
   ],
   "changes": [
+    {
+      "title": "Ukraine and 9 other countries form coalition to protect Europe from ballistic missiles",
+      "summary": "Ukraine and nine other countries have announced a coalition to protect Europe from ballistic missiles, taking advantage of Kyiv's experience of fighting Russia.",
+      "date": "2026-07-13"
+    },
     {
       "title": "Social media limits are coming for teens across Europe",
       "summary": "The European Union is weighing sweeping new restrictions on children's and teenagers' access to social media, including age limits, an outright ban, and phased access. Social media platforms could also be forced to prove their services are not harmful before young people are allowed to use them. European Commission Pre.",
@@ -58,13 +63,15 @@
       "title": "NATO spending pressure returned",
       "summary": "While President Trump insulted allies and demanded loyalty, the military alliance moved quietly closer to accepting more European responsibility for defense.",
       "date": "2026-07-09"
-    },
-    {
-      "title": "Western Europe records hottest-ever June as heatwaves intensify",
-      "summary": "Temperatures across ravaged region 3C above average as scientists warn of risks for people, ecosystems and infrastructure Record wildfires in Europe show failure to adapt carries a mounting cost Western Europe has been scorched by its hottest June on record, scientists have said, as the UK enters its third heatwave of.",
-      "date": "2026-07-09"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Ukraine and 9 other countries form coalition to protect Europe from ballistic missiles",
+      "url": "https://www.pbs.org/newshour/world/ukraine-and-9-other-countries-form-coalition-to-protect-europe-from-ballistic-missiles?utm_source=lootura.com",
+      "publishedAt": "2026-07-13T17:51:08.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
+    }
+  ],
+  "evidenceCount": 1
 }

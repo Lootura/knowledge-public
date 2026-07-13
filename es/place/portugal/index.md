@@ -3,7 +3,7 @@
 > Sigue la actividad de Portugal en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-12T02:31:58.650Z
+- Actualizado: 2026-07-13T17:52:48.684Z
 - Canonical: https://atlas.lootura.com/es/place/portugal
 
 ## Cambios recientes
@@ -64,4 +64,4 @@ Date: 2026-07-09
 
 ## Fuentes
 
-No public source links.
+- [Nathalie Picquot abandona Santander tras cinco años ligada al banco](https://amp.expansion.com/empresas/banca/2026/07/13/6a54fce6468aeb85748b4585.html?utm_source=lootura.com) — 2026-07-13T15:24:39.000Z

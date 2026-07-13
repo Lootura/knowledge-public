@@ -3,10 +3,22 @@
 > Follow China, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-13T14:31:32.442Z
+- Updated: 2026-07-13T17:53:11.557Z
 - Canonical: https://atlas.lootura.com/us/place/china
 
 ## Recent changes
+
+### Himalayan snowfall has been miscalculated for years, here's how we found a new way to measure it
+
+Mountain snow and meltwater from glaciers in the Himalayas determine how much water is available for drinking, farming and hydropower for millions of people in India, Pakistan, Nepal, China and Afghanistan.
+
+Date: 2026-07-13
+
+### Will Oil Prices Rise as the US-Iran Truce Frays? The Answer Lies With China.
+
+For decades, OPEC influenced the market by how much oil it produced. But China, the largest importer, is demonstrating its remarkable power over prices.
+
+Date: 2026-07-13
 
 ### Japan Builds Intelligence Agency It Hasn’t Had Since World War II
 
@@ -56,18 +68,7 @@ A.I. demands a populist approach that treats the technology as a public project.
 
 Date: 2026-07-11
 
-### Typhoon Bavi makes landfall in eastern China as more than 1 million are evacuated
-
-Bavi previously brought strong winds and rain to Japan's southern islands and Taiwan. It was the second typhoon to impact China in just over a week's time.
-
-Date: 2026-07-11
-
-### ‘They Don’t Need People’: The Workers Left Behind by China’s Robot Drive
-
-For out-of-work factory workers in Kunshan, a region made rich by electronics manufacturing, a park is the only place to go.
-
-Date: 2026-07-11
-
 ## Sources
 
-- [Japan Builds Intelligence Agency It Hasn’t Had Since World War II](https://www.nytimes.com/2026/07/13/world/asia/japan-intelligence-agency.html?utm_source=lootura.com) — 2026-07-13T12:57:30.000Z
+- [Himalayan snowfall has been miscalculated for years, here's how we found a new way to measure it](https://phys.org/news/2026-07-himalayan-snowfall-miscalculated-years.html?utm_source=lootura.com) — 2026-07-13T17:40:04.000Z
+- [Will Oil Prices Rise as the US-Iran Truce Frays? The Answer Lies With China.](https://www.nytimes.com/2026/07/13/business/energy-environment/oil-prices-iran-china.html?utm_source=lootura.com) — 2026-07-13T16:34:34.000Z

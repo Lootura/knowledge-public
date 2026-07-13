@@ -3,10 +3,16 @@
 > Sigue la actividad de San Sebastián en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-13T14:31:13.122Z
+- Actualizado: 2026-07-13T17:52:48.684Z
 - Canonical: https://atlas.lootura.com/es/place/san-sebastian
 
 ## Cambios recientes
+
+### La tasa de basura de Donostia subirá más de lo previsto en 2027 tras las nuevas tarifas de Gipuzkoa
+
+El cambio del método de cálculo de las cantidades a cobrar por GHK a las mancomunidades supondrá subir la cuota que paga Donostia, lo que implicará subir más de un 2,29% el tributo.
+
+Date: 2026-07-13
 
 ### La Batalla de San Sebastián según su último combatiente
 
@@ -29,3 +35,4 @@ Date: 2026-07-12
 ## Fuentes
 
 - [La Batalla de San Sebastián según su último combatiente](https://www.diariovasco.com/gipuzkoa/historia/batalla-san-sebastian-segun-ultimo-combatiente-20260713000419-nt_amp.html?utm_source=lootura.com) — 2026-07-12T22:04:19.000Z
+- [La tasa de basura de Donostia subirá más de lo previsto en 2027 tras las nuevas tarifas de Gipuzkoa](https://www.diariovasco.com/san-sebastian/tasa-basura-subira-previsto-2027-tras-nuevas-20260713185247-nt_amp.html?utm_source=lootura.com) — 2026-07-13T16:54:56.000Z

@@ -3,10 +3,40 @@
 > Sigue la actividad de Iran en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-13T14:31:13.122Z
+- Actualizado: 2026-07-13T17:52:48.684Z
 - Canonical: https://atlas.lootura.com/es/place/iran
 
 ## Cambios recientes
+
+### El petróleo se dispara tras anunciar Trump un bloqueo a Irán y un peaje de EE UU en Ormuz
+
+Donald Trump ha anunciado al final de la tarde de este lunes que la Marina estadounidense volverá a bloquear el traspaso de embarcaciones iraníes por el estrecho de Ormuz y que además cobrará un peaje del 20% de la carga a cada barco que cruce el paso. El presidente estadounidense no ha detallado cómo aplicará este tri.
+
+Date: 2026-07-13
+
+### El plan de Israel para convertir al ex presidente Ahmadineyad en líder del Irán posayatolás, según el 'New York Times'
+
+El diario documenta reuniones del jefe del Mossad con Ahmadineyad en 2024 en lugares como Budapest y habla de "pagos en secreto para cubrir sus gastos de alojamiento y viajes", pero no sostiene que fuera un agente o informante Leer.
+
+Date: 2026-07-13
+
+### Trump restablece el cerco naval a Irán y dice que cobrará el 20% por proteger a los buques en Ormuz
+
+Washington y Teherán intercambian ataques por sexta noche consecutiva Leer.
+
+Date: 2026-07-13
+
+### El Ibex cierra en rojo ante las nuevas tensiones entre EEUU e Irán
+
+La escalada en el conflicto entre Irán y EEUU vuelve a elevar el precio del petróleo. Con el Brent al filo de nuevo de los 80 dólares, los inversores dan un paso atrás en Bolsa. El Ibex no es una excepción, y repite las caídas predominantes la semana pasada.
+
+Date: 2026-07-13
+
+### ¿Y si al final EEUU e Irán se ponen de acuerdo y cobran por pasar por Ormuz?
+
+Cuando, al inicio de la guerra desatada por Estados Unidos e Israel contra Irán, el régimen de los ayatolas cerró el paso por el estrecho de Ormuz a cualquier barco en un intento de conseguir que países dependientes de las importaciones de crudo de la zona presionaran para parar el conflicto, la medida fue criticada po.
+
+Date: 2026-07-13
 
 ### El Ibex amortigua el revés del petróleo
 
@@ -38,37 +68,10 @@ La renovada tensión en Oriente Próximo, con nuevos ataques entre EE UU e Irán
 
 Date: 2026-07-13
 
-### El Ibex vuelve a dar marcha atrás por el petróleo
-
-La escalada en el conflicto entre Irán y EEUU vuelve a elevar el precio del petróleo. Con el Brent al filo de nuevo de los 80 dólares, los inversores dan un paso atrás en Bolsa. El Ibex no es una excepción, y repite las caídas predominantes la semana pasada.
-
-Date: 2026-07-13
-
-### Nueva oleada de ataques iraníes: Jordania y Kuwait interceptan misiles mientras Baréin activa sus sirenas
-
-Kuwait y Jordania anunciaron este lunes que han interceptado un nuevo ataque iraní con misiles, mientras que Baréin activó sus sirenas y pidió a sus habitantes permanecer en un lugar seguro por un supuesto lanzamiento contra el país, en el marco de los ataques y represalias entre Irán y Estados Unidos. En Jordania, fue.
-
-Date: 2026-07-13
-
-### Muere el senador republicano Lindsey Graham, el último 'gran halcón' de Washington
-
-Principal impulsor de la guerra en Irán, defensor de Israel y de las sanciones a Moscú, se convirtió en uno de los principales asesores de Trump, al que había despreciado y criticado en el pasado Leer.
-
-Date: 2026-07-12
-
-### Irán subraya que el tráfico por Ormuz está detenido por «movimientos ilegales de EEUU»
-
-Las autoridades iraníes han subrayado este domingo que el tráfico por el estrecho de Ormuz se encuentra suspendido provisionalmente, una información que contrasta con la que procede de Estados Unidos , que sostiene que el tráfico «fluye con normalidad». «Debido a los recientes movimientos ilegales de fuerzas militares.
-
-Date: 2026-07-12
-
-### Muere el senador republicano Lindsey Graham, estrecho aliado de Trump, de forma repentina a los 71 años
-
-Su inesperada muerte trunca una carrera política caracterizada por su crítica y posterior respaldo al presidente, Donald Trump, y, recientemente, por su postura inflexible contra España sobre Irán. Leer.
-
-Date: 2026-07-12
-
 ## Fuentes
 
-- [El Ibex amortigua el revés del petróleo](https://www.expansion.com/mercados/cronica-bolsa/2026/07/13/6a547ba5468aeb78108b457b.html?utm_source=lootura.com) — 2026-07-13T12:34:44.000Z
-- [Trump, sobre el estrecho de Ormuz: «Lo vamos a mantener seguro y lo vamos a administrar»](https://theobjective.com/internacional/2026-07-13/trump-estrecho-ormuz-seguro-administrar/?utm_source=lootura.com) — 2026-07-13T13:18:45.000Z
+- [El petróleo se dispara tras anunciar Trump un bloqueo a Irán y un peaje de EE UU en Ormuz](https://cincodias.elpais.com/mercados-financieros/2026-07-13/la-bolsa-y-el-ibex-35.html?utm_source=lootura.com) — 2026-07-13T16:27:17.000Z
+- [El plan de Israel para convertir al ex presidente Ahmadineyad en líder del Irán posayatolás, según el 'New York Times'](https://www.elmundo.es/internacional/2026/07/13/6a550bc5fc6c83b8168b4593.html?utm_source=lootura.com) — 2026-07-13T16:07:31.000Z
+- [Trump restablece el cerco naval a Irán y dice que cobrará el 20% por proteger a los buques en Ormuz](https://www.elmundo.es/internacional/2026/07/13/6a54aaaafdddff6b118b45ab.html?utm_source=lootura.com) — 2026-07-13T15:14:15.000Z
+- [El Ibex cierra en rojo ante las nuevas tensiones entre EEUU e Irán](https://www.expansion.com/mercados/cronica-bolsa/2026/07/13/6a547ba5468aeb78108b457b.html?utm_source=lootura.com) — 2026-07-13T16:06:17.000Z
+- [¿Y si al final EEUU e Irán se ponen de acuerdo y cobran por pasar por Ormuz?](https://www.expansion.com/opinion/2026/07/13/6a551d55e5fdea33278b4575.html?utm_source=lootura.com) — 2026-07-13T17:24:57.000Z

@@ -3,10 +3,16 @@
 > Follow Europe, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-13T10:58:18.710Z
+- Updated: 2026-07-13T17:53:11.557Z
 - Canonical: https://atlas.lootura.com/us/place/europe
 
 ## Recent changes
+
+### Ukraine and 9 other countries form coalition to protect Europe from ballistic missiles
+
+Ukraine and nine other countries have announced a coalition to protect Europe from ballistic missiles, taking advantage of Kyiv's experience of fighting Russia.
+
+Date: 2026-07-13
 
 ### Social media limits are coming for teens across Europe
 
@@ -62,12 +68,6 @@ While President Trump insulted allies and demanded loyalty, the military allianc
 
 Date: 2026-07-09
 
-### Western Europe records hottest-ever June as heatwaves intensify
-
-Temperatures across ravaged region 3C above average as scientists warn of risks for people, ecosystems and infrastructure Record wildfires in Europe show failure to adapt carries a mounting cost Western Europe has been scorched by its hottest June on record, scientists have said, as the UK enters its third heatwave of.
-
-Date: 2026-07-09
-
 ## Sources
 
-No public source links.
+- [Ukraine and 9 other countries form coalition to protect Europe from ballistic missiles](https://www.pbs.org/newshour/world/ukraine-and-9-other-countries-form-coalition-to-protect-europe-from-ballistic-missiles?utm_source=lootura.com) — 2026-07-13T17:51:08.000Z

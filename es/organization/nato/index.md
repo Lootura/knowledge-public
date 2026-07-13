@@ -3,7 +3,7 @@
 > Sigue la actividad de Organización del Tratado del Atlántico Norte en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-13T14:31:13.122Z
+- Actualizado: 2026-07-13T17:52:48.684Z
 - Canonical: https://atlas.lootura.com/es/organization/nato
 
 ## Cambios recientes
@@ -11,6 +11,12 @@
 ### La UE y la OTAN condenan los ciberataques «maliciosos» de Rusia contra los países europeos
 
 Señalan a los servicios de inteligencia del Kremlin de orquestar una ofensiva cibernética contra Francia y Alemania, que han convocado a los embajadores rusos para pedirles explicaciones.
+
+Date: 2026-07-13
+
+### El juez Peinado exige a Begoña Gómez que acredite que viajó a Reino Unido a la graduación de su hija
+
+Amenaza con imputarle un delito de quebrantamiento de medida cautelar, penado con cárcel de seis meses a un año juez sustituto de Peinado permite viajar a Begoña Gómez a Londres pero no a la cumbre de la OTAN El juez Juan Carlos Peinado ha regresado de vacaciones. Y a su vuelta, una de sus primeras decisiones ha sido s.
 
 Date: 2026-07-13
 
@@ -62,12 +68,7 @@ Expertos explican cómo el calor, el viento, la vegetación, los barrancos y las
 
 Date: 2026-07-10
 
-### Alemania planea comprar misiles Tomahawk tras llegar a un acuerdo con EE UU
-
-El gobierno de Alemania ha alcanzado un acuerdo con Estados Unidos para la adquisición de misiles de crucero Tomahawk de lanzamiento terrestre, una medida orientada a f ortalecer sus capacidades de ataque de largo alcance . El anuncio fue realizado por el canciller alemán, Friedrich Merz, tras la cumbre de la OTAN en A.
-
-Date: 2026-07-10
-
 ## Fuentes
 
 - [La UE y la OTAN condenan los ciberataques «maliciosos» de Rusia contra los países europeos](https://www.elcorreo.com/internacional/europa/ue-otan-condenan-ciberataques-maliciosos-rusia-paises-20260713160238-ntrc_amp.html?utm_source=lootura.com) — 2026-07-13T14:02:38.000Z
+- [El juez Peinado exige a Begoña Gómez que acredite que viajó a Reino Unido a la graduación de su hija](https://www.eldiario.es/politica/juez-peinado-exige-begona-gomez-acredite-viajo-reino-unido-graduacion-hija_1_13377276.html?utm_source=lootura.com) — 2026-07-13T15:29:39.000Z

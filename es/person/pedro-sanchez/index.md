@@ -3,10 +3,22 @@
 > Sigue la actividad de Pedro Sánchez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-13T14:31:13.122Z
+- Actualizado: 2026-07-13T17:52:48.684Z
 - Canonical: https://atlas.lootura.com/es/person/pedro-sanchez
 
 ## Cambios recientes
+
+### Pedro Sánchez apela a la firma de un pacto nacional frente a la emergencia climática delante de Juanma Moreno, investido gracias a Vox
+
+El presidente del Gobierno resalta la unidad de todas las administraciones del Estado en la lucha contra el incendio de Los Gallardos Leer.
+
+Date: 2026-07-13
+
+### El juez Peinado reclama a Begoña Gómez que “acredite” que solo usó su pasaporte para viajar a Reino Unido
+
+El magistrado Juan Carlos Peinado, que abrió juicio oral contra Begoña Gómez el 20 de junio y le prohibió salir de España, ha dictado este lunes una resolución para reclamar a la esposa de Pedro Sánchez que “acredite” que solo usó el pasaporte la pasada semana para viajar al Reino Unido. El juzgado le devolvió el docum.
+
+Date: 2026-07-13
 
 ### Sánchez llama a actuar con "unidad" y "celeridad" ante los incendios e insiste en impulsar un pacto de Estado climático
 
@@ -23,12 +35,6 @@ Date: 2026-07-13
 ### Vox pide a Feijóo centrarse en Sánchez, "no meterse en jardines" como el de las bajas laborales y "estar más preparado" si les copia en inmigración
 
 Casi una semana después de que el presidente del PP, Alberto Núñez Feijóo , se pronunciase sobre las bajas laborales, lo vinculase con absentismo laboral y hablase del asunto como un "cáncer" para la economía, encontró respuesta por parte de Vox a través de su portavoz nacional, José Antonio Fúster . También por el lig.
-
-Date: 2026-07-13
-
-### Pedro Sánchez apela a la firma de un pacto nacional frente a la emergencia climática delante de Juanma Moreno, investido gracias a Vox
-
-El presidente del Gobierno resalta la unidad de todas las administraciones del Estado en la lucha contra el incendio de Los Gallardos Leer.
 
 Date: 2026-07-13
 
@@ -62,15 +68,7 @@ Junts per Catalunya acusó por escrito al Gobierno de Pedro Sánchez de utilizar
 
 Date: 2026-07-12
 
-### El PP se compromete en Ermua a aclarar los 376 crímenes impunes de ETA frente a la "indignidad" del sanchismo con EH Bildu
-
-"El precio que ha pagado Sánchez es el de presos por votos", denuncia la vicesecrataria general del PP Cuca Gamarra en el 29 homenaje a Blanco. Leer.
-
-Date: 2026-07-12
-
 ## Fuentes
 
-- [Sánchez llama a actuar con "unidad" y "celeridad" ante los incendios e insiste en impulsar un pacto de Estado climático](https://www.20minutos.es/nacional/sanchez-llama-actuar-con-unidad-celeridad-ante-los-incendios-insiste-impulsar-un-pacto-estado-climatico_7013945_0.html?utm_source=lootura.com) — 2026-07-13T11:50:11.000Z
-- [Junts confirma que no apoyará la senda de déficit para los Presupuestos en el Congreso](https://elpais.com/espana/catalunya/2026-07-13/junts-confirma-que-no-apoyara-la-senda-de-deficit-para-los-presupuestos-en-el-congreso.html?utm_source=lootura.com) — 2026-07-13T12:20:00.000Z
-- [Vox pide a Feijóo centrarse en Sánchez, "no meterse en jardines" como el de las bajas laborales y "estar más preparado" si les copia en inmigración](https://www.elindependiente.com/espana/2026/07/13/vox-feijoo-no-jardines-sanchez-absentismo-preparado-copiar-inmigracion/?utm_source=lootura.com) — 2026-07-13T12:26:45.000Z
 - [Pedro Sánchez apela a la firma de un pacto nacional frente a la emergencia climática delante de Juanma Moreno, investido gracias a Vox](https://www.elmundo.es/espana/2026/07/13/6a54c9b9e85ece585a8b4587.html?utm_source=lootura.com) — 2026-07-13T12:36:17.000Z
+- [El juez Peinado reclama a Begoña Gómez que “acredite” que solo usó su pasaporte para viajar a Reino Unido](https://elpais.com/espana/2026-07-13/el-juez-peinado-reclama-a-begona-gomez-que-acredite-que-solo-uso-su-pasaporte-para-viajar-a-reino-unido.html?utm_source=lootura.com) — 2026-07-13T17:45:22.000Z

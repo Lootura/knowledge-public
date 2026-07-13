@@ -3,7 +3,7 @@
 > Follow Democratic Party, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-07-13T14:31:32.442Z
+- Updated: 2026-07-13T17:53:11.557Z
 - Canonical: https://atlas.lootura.com/us/organization/democratic-party
 
 ## Recent changes
@@ -74,4 +74,3 @@ Date: 2026-07-10
 - [Maine Democrats scramble to select replacement for Platner in Senate race](https://www.npr.org/2026/07/13/nx-s1-5888430/maine-democrats-scramble-to-select-replacement-for-platner-in-senate-race?utm_source=lootura.com) — 2026-07-13T08:48:28.000Z
 - [Maine Democrats to Chuck Schumer: Stay Out of Our Senate Race](https://www.nytimes.com/2026/07/13/us/politics/maine-democrats-schumer-stay-out-senate-race.html?utm_source=lootura.com) — 2026-07-13T09:02:46.000Z
 - [Mercurial and Magnetic, Lindsey Graham Was a Force in the Senate](https://www.nytimes.com/2026/07/13/us/politics/lindsey-graham-senate-force.html?utm_source=lootura.com) — 2026-07-13T12:23:14.000Z
-- [As Trump Brands Them ‘Godless Communists,’ Democrats Divided on How to Respond](https://time.com/article/2026/07/13/as-trump-brands-them-godless-communists-democrats-divided-on-how-to-respond/?utm_source=lootura.com) — 2026-07-13T11:00:00.000Z

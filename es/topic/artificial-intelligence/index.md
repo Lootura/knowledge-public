@@ -28,4 +28,4 @@ Date: 2026-07-10
 
 ## Fuentes
 
-- [Por qué la Bolsa coreana está disparatada: turbofondos y alta concentración](https://cincodias.elpais.com/mercados-financieros/2026-07-13/por-que-la-bolsa-coreana-esta-disparatada-turbofondos-y-alta-concentracion.html?utm_source=lootura.com) — 2026-07-13T11:48:46.000Z
+No public source links.

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/ukraine/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/ukraine/index.json",
   "description": "Follow Ukraine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-13T14:31:32.442Z",
+  "updatedAt": "2026-07-13T17:53:11.557Z",
   "aliases": [
     "Kyiv"
   ],
@@ -24,8 +24,8 @@
       "date": "2026-07-13"
     },
     {
-      "title": "A Look at Lindsey Graham’s Political Legacy and Impact",
-      "summary": "Meet the Press Moderator Kristen Welker joins TODAY to discuss Sen. Lindsey Graham’s vast political legacy and share what he was like off camera. She also breaks down how his death impacts United States foreign policy with the wars in Iran and Ukraine.",
+      "title": "Ukraine and 9 other countries form coalition to protect Europe from ballistic missiles",
+      "summary": "and nine other countries have announced a coalition to protect Europe from ballistic missiles, taking advantage of Kyiv's experience of fighting Russia.",
       "date": "2026-07-13"
     },
     {
@@ -66,10 +66,10 @@
   ],
   "sources": [
     {
-      "title": "A Look at Lindsey Graham’s Political Legacy and Impact",
-      "url": "https://www.today.com/video/kristen-welker-shares-what-lindsey-graham-was-like-off-camera-266581061699?utm_source=lootura.com",
-      "publishedAt": "2026-07-13T11:17:27.000Z",
-      "sourceId": "lootura-us-nbc-news-politics"
+      "title": "Ukraine and 9 other countries form coalition to protect Europe from ballistic missiles",
+      "url": "https://www.pbs.org/newshour/world/ukraine-and-9-other-countries-form-coalition-to-protect-europe-from-ballistic-missiles?utm_source=lootura.com",
+      "publishedAt": "2026-07-13T17:51:08.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
     },
     {
       "title": "With Lindsey Graham Gone, Ukraine Loses an Ally in Trump’s Ear",
@@ -80,7 +80,7 @@
     {
       "title": "A Robot Army Remakes Ground Warfare in Ukraine",
       "url": "https://www.nytimes.com/2026/07/13/world/europe/ukraine-ground-robots.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-13T12:04:25.000Z",
+      "publishedAt": "2026-07-13T16:09:36.000Z",
       "sourceId": "lootura-us-the-new-york-times-world"
     }
   ],
