@@ -8,17 +8,22 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/barcelona/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/barcelona/index.json",
   "description": "Sigue la actividad de Barcelona en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-13T20:55:35.407Z",
+  "updatedAt": "2026-07-14T02:12:41.111Z",
   "aliases": [],
   "changes": [
     {
-      "title": "El filial del Barcelona de cuarta categoría lleva ya gastado más dinero que 10 equipos de Primera División",
-      "summary": "El Barcelona ha comenzado este mercado de fichajes con mucho movimiento y millones gastados entre su primer equipo y su filial.",
+      "title": "Un muerto y cinco heridos en el incendio de un piso en el Ensanche de Barcelona",
+      "summary": "Un hombre de unos 60 años ha muerto y otras cinco personas han resultado heridas, ninguna de ellas de gravedad, en el incendio de un piso esta pasada madrugada en el distrito del Ensanche de Barcelona. Según ha informado el Ayuntamiento de Barcelona, los Bomberos han recibido poco después de las cuatro de la madrugada.",
       "date": "2026-07-13"
     },
     {
-      "title": "Un muerto y cinco heridos en el incendio de un piso en el Ensanche de Barcelona",
-      "summary": "Un hombre de unos 60 años ha muerto y otras cinco personas han resultado heridas, ninguna de ellas de gravedad, en el incendio de un piso esta pasada madrugada en el distrito del Ensanche de Barcelona. Según ha informado el Ayuntamiento de Barcelona, los Bomberos han recibido poco después de las cuatro de la madrugada.",
+      "title": "Rajoy enoja a Francia mientras el Gobierno acusa al PP de torpedear la política exterior",
+      "summary": "El Partido Popular ya logró concitar la irritación de los gobiernos de Pedro Sánchez y Emmanuel Macron, por bloquear hace una semana en el Senado el tratado de amistad que ambos mandatarios sellaron en la cumbre hispanofrancesa celebrada en Barcelona el 19 de enero del 2023. Y ahora unas polémicas palabras del expresid.",
+      "date": "2026-07-13"
+    },
+    {
+      "title": "El filial del Barcelona de cuarta categoría lleva ya gastado más dinero que 10 equipos de Primera División",
+      "summary": "El Barcelona ha comenzado este mercado de fichajes con mucho movimiento y millones gastados entre su primer equipo y su filial.",
       "date": "2026-07-13"
     },
     {
@@ -55,19 +60,20 @@
       "title": "Tercera ola de calor en Barcelona: hasta cuándo durará, pico máximo y temperatura día a día esta semana, según el Meteocat",
       "summary": "La primera coincidió con los primeros días de verano astronómico, y la segunda comenzó el 5 de julio con temperaturas récord.",
       "date": "2026-07-13"
-    },
-    {
-      "title": "Laporta manda un aviso al Atlético por Julián: «No vamos a bailar la música a nadie»",
-      "summary": "Joan Laporta ha mandado un aviso en la noche de este domingo desde Dallas al Atlético de Madrid por Julián Álvarez. El presidente del Barcelona anunció que han realizado una oferta importante para fichar al delantero argentino, pero también aclaró que esa oferta caduca, ya que no están dispuestos a bailarle al agua a n.",
-      "date": "2026-07-12"
     }
   ],
   "sources": [
     {
-      "title": "El filial del Barcelona de cuarta categoría lleva ya gastado más dinero que 10 equipos de Primera División",
-      "url": "https://okdiario.com/deportes/filial-del-barcelona-cuarta-categoria-lleva-ya-gastado-mas-dinero-que-10-equipos-primera-division-18988055/amp?utm_source=lootura.com",
-      "publishedAt": "2026-07-13T17:32:26.000Z",
-      "sourceId": "lootura-es-ok-diario"
+      "title": "Laporta presiona al Atlético por Julián: «No vamos a bailar la música de nadie»",
+      "url": "https://www.abc.es/deportes/futbol/laporta-presiona-atletico-julian-vamos-bailar-musica-20260713192936-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-14T01:07:09.000Z",
+      "sourceId": "lootura-es-abc"
+    },
+    {
+      "title": "Rajoy enoja a Francia mientras el Gobierno acusa al PP de torpedear la política exterior",
+      "url": "https://www.lavanguardia.com/politica/20260714/11591461/rajoy-enoja-francia-gobierno-acusa-pp-torpedear-politica-exterior.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-13T22:05:00.000Z",
+      "sourceId": "lootura-es-la-vanguardia"
     },
     {
       "title": "Un muerto y cinco heridos en el incendio de un piso en el Ensanche de Barcelona",
@@ -76,5 +82,5 @@
       "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 3
 }

@@ -3,10 +3,28 @@
 > Sigue la actividad de Estados Unidos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-13T20:55:35.407Z
+- Actualizado: 2026-07-14T02:12:41.111Z
 - Canonical: https://atlas.lootura.com/es/place/united-states
 
 ## Cambios recientes
+
+### Trump dice que EEUU investiga si Irán tiene drones almacenados en Cuba
+
+El presidente de Estados Unidos, Donald Trump , ha asegurado este lunes que su Gobierno investiga la posible presencia de drones iraníes almacenados en Cuba y ha advertido de que Washington actuará si confirma esa información. "Si los tienen, y es muy posible que los tengan , nos encargaremos de ello", ha declarado Tru.
+
+Date: 2026-07-14
+
+### Doce estados de EEUU demandan a Warner Bros y Paramount para bloquear su fusión
+
+Una coalición de doce estados de Estados Unidos emprendió una demanda que impugna la adquisición de Warner Bros. Discovery, Inc. por parte de Paramount.
+
+Date: 2026-07-13
+
+### Trump amenaza con volver a atacar a Irán: «Los golpearemos muy duro esta noche y mañana»
+
+El presidente de Estados Unidos, Donald Trump , aseguró este lunes que las fuerzas armadas de su país atacarán con fuerza a Irán «esta noche» y «mañana», en medio del restablecimiento de las hostilidades con Teherán. «Vamos a golpearlos muy duro esta noche y vamos a golpearlos muy duro mañana, y no hay absolutamente na.
+
+Date: 2026-07-13
 
 ### ¿Y si al final EEUU e Irán se ponen de acuerdo y cobran por pasar por Ormuz?
 
@@ -17,12 +35,6 @@ Date: 2026-07-13
 ### Estados Unidos prueba en Marruecos misiles de precisión de largo alcance
 
 Las armas tienen un alcance de 290 kilómetros y se puede lanzar desde diversas plataformas.
-
-Date: 2026-07-13
-
-### Doce estados de EEUU demandan a Warner Bros y Paramount para bloquear su fusión
-
-Una coalición de doce estados de Estados Unidos emprendió una demanda que impugna la adquisición de Warner Bros. Discovery, Inc. por parte de Paramount.
 
 Date: 2026-07-13
 
@@ -56,21 +68,8 @@ El presidente de Estados Unidos , Donald Trump , dijo este lunes que su país se
 
 Date: 2026-07-13
 
-### Detenido en Ibiza el activista millonario marxista 'Fergie' Chambers, buscado por EE.UU.
-
-El multimillonario estadounidense James Cox 'Fergie' Chambers Jr. , heredero de la fortuna de Cox Enterprises y uno de los principales financiadores de grupos militantes propalestinos en Estados Unidos, permanece ingresado en el centro penitenciario de Ibiza desde el pasado sábado después de ser detenido en cumplimient.
-
-Date: 2026-07-13
-
-### Dentro de la Casa Blanca: así ejerce Trump un poder desenfrenado para dejar su huella en la historia
-
-Si hay un punto de inflexión en el legado de Donald Trump como presidente de Estados Unidos, hay que buscarlo en el 20 de enero de 2025, el primer día de su regreso al Despacho Oval tras su abrupta salida en 2021, cuando fue derrotado por Joe Biden y convertido en un paria político por agitar a una muchedumbre enfervor.
-
-Date: 2026-07-13
-
 ## Fuentes
 
-- [Como en Qatar 2022, Argentina y Messi se rebelan al dominio europeo](https://elpais.com/deportes/mundial-futbol/2026-07-13/como-en-qatar-2022-argentina-y-messi-se-rebelan-al-dominio-europeo.html?utm_source=lootura.com) — 2026-07-13T12:11:34.000Z
-- [¿Y si al final EEUU e Irán se ponen de acuerdo y cobran por pasar por Ormuz?](https://www.expansion.com/opinion/2026/07/13/6a551d55e5fdea33278b4575.html?utm_source=lootura.com) — 2026-07-13T17:24:57.000Z
-- [Estados Unidos prueba en Marruecos misiles de precisión de largo alcance](https://www.larazon.es/espana/estados-unidos-prueba-marruecos-misiles-precision-largo-alcance_202607136a5524bec48a78681b87300f.html?outputType=amp&utm_source=lootura.com) — 2026-07-13T17:47:42.000Z
+- [Trump dice que EEUU investiga si Irán tiene drones almacenados en Cuba](https://www.20minutos.es/internacional/trump-dice-que-eeuu-investiga-si-iran-tiene-drones-almacenados-cuba_7014204_0.html?utm_source=lootura.com) — 2026-07-14T00:07:41.000Z
+- [Trump amenaza con volver a atacar a Irán: «Los golpearemos muy duro esta noche y mañana»](https://theobjective.com/internacional/2026-07-13/trump-volvera-atacar-iran/?utm_source=lootura.com) — 2026-07-13T21:00:08.000Z
 - [Doce estados de EEUU demandan a Warner Bros y Paramount para bloquear su fusión](https://theobjective.com/internacional/2026-07-13/doce-estados-demandan-warner-paramount/?amp=&utm_source=lootura.com) — 2026-07-13T17:42:55.000Z

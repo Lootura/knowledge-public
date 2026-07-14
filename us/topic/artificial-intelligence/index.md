@@ -3,7 +3,7 @@
 > Follow Artificial intelligence, a tracked topic, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: topic
-- Updated: 2026-07-13T20:55:54.181Z
+- Updated: 2026-07-14T02:12:59.212Z
 - Canonical: https://atlas.lootura.com/us/topic/artificial-intelligence
 
 ## Recent changes
@@ -12,11 +12,17 @@
 
 Science, Volume 393, Issue 6807 , Page 152-152, July 2026.
 
-Date: 2026-07-13
+Date: 2026-07-14
 
 ### AI companies are creating "generative ghosts" of deceased loved ones
 
 Startups are using emails, photos and voice recordings to create AI simulations that family and friends can interact with after a loved one's death.
+
+Date: 2026-07-13
+
+### Does AI work for us, or do we work for AI?
+
+Science, Volume 393, Issue 6807 , Page 152-152, July 2026.
 
 Date: 2026-07-13
 
@@ -62,15 +68,7 @@ Waze is getting an AI makeover. Google is integrating its flagship AI assistant,
 
 Date: 2026-07-13
 
-### When managing your money, take a chatbot's 'confidence' with a grain of salt
-
-According to a 2025 survey of 2,000 U.S. adults by Pearl.com, a professional services platform, 19% said they lost more than $100 by following financial advice from an AI chatbot.
-
-Date: 2026-07-12
-
 ## Sources
 
 - [AI companies are creating "generative ghosts" of deceased loved ones](https://www.cbsnews.com/news/ai-ghost-chatbots-deceased-loved-ones/?utm_source=lootura.com) — 2026-07-13T17:04:42.000Z
-- [Does AI work for us, or do we work for AI?](https://www.science.org/doi/abs/10.1126/science.aei9754?af=R&utm_source=lootura.com) — 2026-07-13T20:55:58.504Z
-- [Siri AI makes the Apple Watch finally feel like a wrist computer](https://www.theverge.com/tech/964800/watchos-27-preview-siri-ai-apple-watch-gestures-smartwatch?utm_source=lootura.com) — 2026-07-13T20:44:20.000Z
-- [Siri AI is already changing how I use my iPhone](https://www.theverge.com/tech/964714/siri-ai-public-beta-preview-ios-27-hands-on?utm_source=lootura.com) — 2026-07-13T20:43:20.000Z
+- [Does AI work for us, or do we work for AI?](https://www.science.org/doi/abs/10.1126/science.aei9754?af=R&utm_source=lootura.com) — 2026-07-14T02:13:03.377Z

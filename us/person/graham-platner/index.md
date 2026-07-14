@@ -3,7 +3,7 @@
 > Follow Graham Platner, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-07-13T20:55:54.181Z
+- Updated: 2026-07-14T02:12:59.212Z
 - Canonical: https://atlas.lootura.com/us/person/graham-platner
 
 ## Recent changes
@@ -11,6 +11,12 @@
 ### Graham Platner's voters figure out what's next as candidates vie for their support
 
 Maine voters are still grappling with Democratic Senate candidate Graham Platner's dramatic departure from the race.
+
+Date: 2026-07-13
+
+### Tamara Keith and Amy Walter on Lindsey Graham's passing
+
+NPR's Tamara Keith and Amy Walter of the Cook Political Report with Amy Walter join Geoff Bennett to discuss the latest political news, including what the passing of Sen. Lindsey Graham means for South Carolina and the Senate, Sen. Mitch McConnell's health and Democrats scrambling to replace Graham Platner in the Maine.
 
 Date: 2026-07-13
 
@@ -62,12 +68,7 @@ The collapse of Graham Platner’s Senate bid in Maine after a rape allegation r
 
 Date: 2026-07-11
 
-### How The Times Reported on Graham Platner
-
-Two senior editors discuss the difficult effort to track down allegations against the leading Democrat for Senate in Maine and the questions that soon followed.
-
-Date: 2026-07-11
-
 ## Sources
 
 - [Graham Platner's voters figure out what's next as candidates vie for their support](https://www.npr.org/2026/07/13/nx-s1-5888428/graham-platners-voters-figure-out-whats-next-as-candidates-vie-for-their-support?utm_source=lootura.com) — 2026-07-13T20:22:39.000Z
+- [Tamara Keith and Amy Walter on Lindsey Graham's passing](https://www.pbs.org/newshour/show/tamara-keith-and-amy-walter-on-lindsey-grahams-passing?utm_source=lootura.com) — 2026-07-13T22:35:20.000Z

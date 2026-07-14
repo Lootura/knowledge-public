@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/donald-trump/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/donald-trump/index.json",
   "description": "Follow Donald Trump, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-13T20:55:54.181Z",
+  "updatedAt": "2026-07-14T02:12:59.212Z",
   "aliases": [
     "President Donald Trump",
     "President Trump",
@@ -16,28 +16,13 @@
   ],
   "changes": [
     {
-      "title": "Sen. Lindsey Graham's cause of death was aortic dissection, medical examiner says",
-      "summary": "President Trump paid tribute to the late senator, who was reportedly scheduled to do an interview on Sunday.",
-      "date": "2026-07-13"
+      "title": "Democratic Senate Candidates in Maine Denounce Deadly ICE Shooting",
+      "summary": "The killing of a man in Biddeford quickly became an issue in the Senate race, with Democrats aiming to tie Senator Susan Collins to President Trump’s immigration crackdown.",
+      "date": "2026-07-14"
     },
     {
       "title": "Mercurial and Magnetic, Lindsey Graham Was a Force in the Senate",
       "summary": "The sharp-witted South Carolinian repaired relations with President Trump to advance his foreign policy goals, was willing to cut deals with Democrats and tried to insert himself into every legislative fight.",
-      "date": "2026-07-13"
-    },
-    {
-      "title": "With Lindsey Graham Gone, Ukraine Loses an Ally in Trump’s Ear",
-      "summary": "The South Carolina Republican was Ukraine’s most influential champion inside President Trump’s mostly “America First” political orbit.",
-      "date": "2026-07-13"
-    },
-    {
-      "title": "Trump says U.S. will get paid to guard Strait of Hormuz: \"Maybe we",
-      "summary": "President Trump said, \"We.",
-      "date": "2026-07-13"
-    },
-    {
-      "title": "US and Iran Trade Strikes as Ceasefire Deal Efforts Unravel",
-      "summary": "The United States and Iran traded even more attacks, some of the most intense in months, as the already fragile ceasefire continues to unravel. On Sunday, President Donald Trump told Kristen Welker on Meet the Press that the Strait of Hormuz remains open – even though Iran said earlier that it was closed. NBC’s Matt Br.",
       "date": "2026-07-13"
     },
     {
@@ -61,8 +46,23 @@
       "date": "2026-07-13"
     },
     {
-      "title": "Oil surges more than 9% after Trump reimposes Iran blockade",
-      "summary": "The price of oil jumped after President Trump declared on social media that the U.S. would be “reimbursed” for helping ships transit the Strait of Hormuz.",
+      "title": "Funding milestone detected",
+      "summary": "NPR has learned that the Department of Health and Human Services will not be finalizing its most aggressive attempt to end gender-affirming care for youth nationally. (Image credit: Erik McGregor).",
+      "date": "2026-07-13"
+    },
+    {
+      "title": "Ukraine fears it will have a weaker link to Trump after Sen. Lindsey Graham's sudden death",
+      "summary": "Ukraine has lost a close ally in President Donald Trump's orbit, leaving its leaders grappling with the implications for their war-torn country.",
+      "date": "2026-07-13"
+    },
+    {
+      "title": "ICE Agent Kills Person in Vehicle in Biddeford, Maine, State Officials Say",
+      "summary": "The killing occurred in Biddeford, about 20 miles south of Portland. The Trump administration has stepped up immigration enforcement nationally in recent weeks.",
+      "date": "2026-07-13"
+    },
+    {
+      "title": "Trump’s Threat to Impose Fees in the Strait of Hormuz Contradicts His Aides",
+      "summary": "President Trump said the United States could collect tolls or fees, despite Vice President JD Vance and Secretary of State Marco Rubio saying no country could do so.",
       "date": "2026-07-13"
     }
   ],
@@ -74,33 +74,15 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "Sen. Lindsey Graham's cause of death was aortic dissection, medical examiner says",
-      "url": "https://www.cbsnews.com/news/senator-lindsey-graham-dies-after-brief-and-sudden-illness/?utm_source=lootura.com",
-      "publishedAt": "2026-07-13T10:30:00.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
-    {
-      "title": "Trump says U.S. will get paid to guard Strait of Hormuz: \"Maybe we",
-      "url": "https://www.cbsnews.com/news/trump-iran-war-us-guardian-strait-of-hormuz-get-paid/?utm_source=lootura.com",
-      "publishedAt": "2026-07-13T14:29:20.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
-    {
-      "title": "US and Iran Trade Strikes as Ceasefire Deal Efforts Unravel",
-      "url": "https://www.today.com/video/us-and-iran-trade-strikes-as-ceasefire-deal-efforts-unravel-266581061712?utm_source=lootura.com",
-      "publishedAt": "2026-07-13T11:21:19.000Z",
+      "title": "U.S. strikes Iran for third night after Trump reinstates Iran blockade",
+      "url": "https://www.nbcnews.com/nightly-news/video/u-s-strikes-iran-for-third-night-after-trump-reinstates-iran-blockade-266616901697?utm_source=lootura.com",
+      "publishedAt": "2026-07-13T23:15:42.000Z",
       "sourceId": "lootura-us-nbc-news"
     },
     {
-      "title": "Oil surges more than 9% after Trump reimposes Iran blockade",
-      "url": "https://www.nbcnews.com/business/markets/oil-rises-trump-reimposes-hormuz-blockade-rcna587297?utm_source=lootura.com",
-      "publishedAt": "2026-07-13T15:01:13.000Z",
-      "sourceId": "lootura-us-nbc-news"
-    },
-    {
-      "title": "Appointment of Lindsey Graham's sister to Senate a 'fitting tribute’: Former South Carolina governor",
-      "url": "https://www.nbcnews.com/meet-the-press/video/appointment-of-lindsey-graham-s-sister-to-senate-a-fitting-tribute-former-south-carolina-governor-266606661732?utm_source=lootura.com",
-      "publishedAt": "2026-07-13T20:37:47.000Z",
+      "title": "Trump calls late Sen. Lindsey Graham a 'great friend'",
+      "url": "https://www.nbcnews.com/video/trump-calls-late-sen-lindsey-graham-a-great-friend-266614341932?utm_source=lootura.com",
+      "publishedAt": "2026-07-13T22:35:33.000Z",
       "sourceId": "lootura-us-nbc-news-politics"
     },
     {
@@ -110,15 +92,21 @@
       "sourceId": "lootura-us-npr"
     },
     {
-      "title": "South Carolina's governor names Lindsey Graham's sister to serve out his term",
-      "url": "https://www.npr.org/2026/07/13/nx-s1-5891839/lindsey-graham-senate-seat-darline-graham?utm_source=lootura.com",
-      "publishedAt": "2026-07-13T20:17:53.000Z",
-      "sourceId": "lootura-us-npr-politics"
-    },
-    {
       "title": "Trump urges S.C. governor to appoint Sen. Graham's sister as temporary replacement",
       "url": "https://www.pbs.org/newshour/politics/trump-urges-s-c-governor-to-appoint-sen-grahams-sister-as-temporary-replacement?utm_source=lootura.com",
       "publishedAt": "2026-07-13T17:15:57.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
+    },
+    {
+      "title": "Trump reduces the size of 2 national monuments in Utah as Republicans reshape land management",
+      "url": "https://www.pbs.org/newshour/nation/trump-reduces-the-size-of-2-national-monuments-in-utah-as-republicans-reshape-land-management?utm_source=lootura.com",
+      "publishedAt": "2026-07-13T22:28:13.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
+    },
+    {
+      "title": "Trump says U.S. 'taking over the strait' as conflict with Iran reignites",
+      "url": "https://www.pbs.org/newshour/show/trump-says-u-s-taking-over-the-strait-as-conflict-with-iran-reignites?utm_source=lootura.com",
+      "publishedAt": "2026-07-13T22:55:49.000Z",
       "sourceId": "lootura-us-pbs-newshour"
     },
     {
@@ -126,7 +114,19 @@
       "url": "https://www.pbs.org/newshour/world/ukraine-fears-it-will-have-a-weaker-link-to-trump-after-sen-lindsey-grahams-sudden-death?utm_source=lootura.com",
       "publishedAt": "2026-07-13T19:17:26.000Z",
       "sourceId": "lootura-us-pbs-newshour"
+    },
+    {
+      "title": "Lindsey Graham's career and influence on American politics",
+      "url": "https://www.pbs.org/newshour/show/lindsey-grahams-impact-and-influence-on-american-politics?utm_source=lootura.com",
+      "publishedAt": "2026-07-13T22:50:43.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
+    },
+    {
+      "title": "Trump suggests he has left a standing order to attack Iran if it assassinates him. But Vance would make the call",
+      "url": "https://www.pbs.org/newshour/nation/trump-suggests-he-has-left-a-standing-order-to-attack-iran-if-it-assassinates-him-but-vance-would-make-the-call?utm_source=lootura.com",
+      "publishedAt": "2026-07-13T17:41:47.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
     }
   ],
-  "evidenceCount": 20
+  "evidenceCount": 17
 }

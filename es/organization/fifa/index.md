@@ -22,4 +22,4 @@ Date: 2026-07-08
 
 ## Fuentes
 
-- [La decisión de la FIFA que deja en mal lugar a España](https://www.larazon.es/deportes/decision-fifa-que-deja-mal-lugar-espana_202607136a554049772f745d2c46a82b.html?utm_source=lootura.com) — 2026-07-13T19:45:13.000Z
+No public source links.

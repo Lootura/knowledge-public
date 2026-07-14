@@ -34,31 +34,6 @@
       "date": "2026-07-13"
     }
   ],
-  "sources": [
-    {
-      "title": "Apple’s public betas for iOS 27 and more are out now",
-      "url": "https://www.theverge.com/tech/964307/apple-public-betas-ios-27-siri-ai?utm_source=lootura.com",
-      "publishedAt": "2026-07-13T20:45:40.000Z",
-      "sourceId": "lootura-us-the-verge"
-    },
-    {
-      "title": "Siri AI makes the Apple Watch finally feel like a wrist computer",
-      "url": "https://www.theverge.com/tech/964800/watchos-27-preview-siri-ai-apple-watch-gestures-smartwatch?utm_source=lootura.com",
-      "publishedAt": "2026-07-13T20:44:20.000Z",
-      "sourceId": "lootura-us-the-verge"
-    },
-    {
-      "title": "The macOS 27 public beta is worth it just for the Liquid Glass tweaks",
-      "url": "https://www.theverge.com/tech/964701/apple-macos-27-golden-gate-public-beta-impressions-liquid-glass-siri-ai?utm_source=lootura.com",
-      "publishedAt": "2026-07-13T20:43:15.000Z",
-      "sourceId": "lootura-us-the-verge"
-    },
-    {
-      "title": "Siri AI is already changing how I use my iPhone",
-      "url": "https://www.theverge.com/tech/964714/siri-ai-public-beta-preview-ios-27-hands-on?utm_source=lootura.com",
-      "publishedAt": "2026-07-13T20:43:20.000Z",
-      "sourceId": "lootura-us-the-verge"
-    }
-  ],
-  "evidenceCount": 4
+  "sources": [],
+  "evidenceCount": 0
 }

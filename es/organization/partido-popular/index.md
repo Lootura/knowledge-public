@@ -3,7 +3,7 @@
 > Sigue la actividad de Partido Popular en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-13T20:55:35.407Z
+- Actualizado: 2026-07-14T02:12:41.111Z
 - Canonical: https://atlas.lootura.com/es/organization/partido-popular
 
 ## Cambios recientes
@@ -20,15 +20,27 @@ La dirección del Partido Popular resta importancia al comentario del expresiden
 
 Date: 2026-07-13
 
-### El Gobierno responde a Feijóo que su plan contra catástrofes ya está incluido en el pacto climático y le pide que lo firme: "Llega tarde"
-
-El líder del Partido Popular, Alberto Núñez Feijóo , se ha comprometido este lunes desde la localidad almeriense de los Gallardos, que ha sufrido el incendio más mortífero de este siglo en España, a elaborar un "gran acuerdo de prevención, respuesta y coordinación" ante catástrofes naturales si se convierte en el próxi.
-
-Date: 2026-07-13
-
 ### Feijóo anuncia desde Almería un plan nacional contra los incendios si llega a La Moncloa
 
 El líder del PP, Alberto Núñez Feijóo , ha asegurado que espera que «continúe la colaboración y la coordinación» entre administraciones como se ha visto con el incendio en Los Gallardos (Almería) y que «nadie estropee» la unidad de acción. Dicho esto, ha anunciado un plan de prevención de riesgos naturales si llega al.
+
+Date: 2026-07-13
+
+### Errores no forzados en el PP
+
+Más de una vez nos hemos referido a que Alberto Núñez Feijóo estaba mucho más suelto y feliz cuando era presidente de la Xunta de Galicia que ahora que ejerce de jefe de la oposición. No es nada fácil lidiar con Pedro Sánchez y aguantar diariamente la presión de la opinión publicada, que oscila entre los que le critica.
+
+Date: 2026-07-13
+
+### Rajoy enoja a Francia mientras el Gobierno acusa al PP de torpedear la política exterior
+
+El Partido Popular ya logró concitar la irritación de los gobiernos de Pedro Sánchez y Emmanuel Macron, por bloquear hace una semana en el Senado el tratado de amistad que ambos mandatarios sellaron en la cumbre hispanofrancesa celebrada en Barcelona el 19 de enero del 2023. Y ahora unas polémicas palabras del expresid.
+
+Date: 2026-07-13
+
+### El Gobierno responde a Feijóo que su plan contra catástrofes ya está incluido en el pacto climático y le pide que lo firme: "Llega tarde"
+
+El líder del Partido Popular, Alberto Núñez Feijóo , se ha comprometido este lunes desde la localidad almeriense de los Gallardos, que ha sufrido el incendio más mortífero de este siglo en España, a elaborar un "gran acuerdo de prevención, respuesta y coordinación" ante catástrofes naturales si se convierte en el próxi.
 
 Date: 2026-07-13
 
@@ -56,21 +68,10 @@ Un cambio sustancial en la estrategia política del PP parece consolidarse. En e
 
 Date: 2026-07-13
 
-### La ‘ley de nietos’ que cuestiona el PP pasó 32 trámites parlamentarios en cinco años
-
-La ley de nietos , es decir, el apartado de la Ley de Memoria Democrática actualizado hace cinco años para facilitar la nacionalidad a los descendientes de españoles exiliados por culpa del franquismo, ha pasado desde entonces por 32 trámites o pasos parlamentarios: desde nueve debates en pleno y comisiones en el Congr.
-
-Date: 2026-07-13
-
-### Imputado el alcalde del PP de Móstoles por acoso sexual y laboral a una exedil de su partido
-
-La jueza que investiga el caso de presunto acoso sexual y laboral a una exconcejala del PP de Móstoles ha imputado al alcalde de la localidad, el también popular Manuel Bautista . La titular del juzgado número 2 de Violencia sobre la Mujer del Tribunal de Instancia de Móstoles ha citado como investigado al alcalde de l.
-
-Date: 2026-07-13
-
 ## Fuentes
 
-- [El Gobierno responde a Feijóo que su plan contra catástrofes ya está incluido en el pacto climático y le pide que lo firme: "Llega tarde"](https://www.20minutos.es/nacional/gobierno-responde-feijoo-que-su-plan-contra-catastrofes-ya-esta-incluido-pacto-climatico-le-pide-que-firme-llega-tarde_7014189_0.html?utm_source=lootura.com) — 2026-07-13T20:19:40.000Z
 - [El PP defiende a Rajoy tras la queja por "racismo" de Francia: "Son columnas sarcásticas"](https://www.elmundo.es/deportes/futbol/mundial-de-futbol/2026/07/13/6a54dfe821efa065338b4581.html?utm_source=lootura.com) — 2026-07-13T13:07:38.000Z
 - [La dirección del PP defiende el comentario de Rajoy sobre la selección de Francia como “un sarcasmo” y “sin mala intención”](https://elpais.com/espana/2026-07-13/la-direccion-del-pp-defiende-el-comentario-de-rajoy-sobre-la-seleccion-de-francia-como-un-sarcasmo-y-sin-mala-intencion.html?utm_source=lootura.com) — 2026-07-13T12:49:08.000Z
+- [Errores no forzados en el PP](https://www.lavanguardia.com/opinion/20260714/11591530/errores-forzados-pp.html?utm_source=lootura.com) — 2026-07-13T22:08:34.000Z
+- [Rajoy enoja a Francia mientras el Gobierno acusa al PP de torpedear la política exterior](https://www.lavanguardia.com/politica/20260714/11591461/rajoy-enoja-francia-gobierno-acusa-pp-torpedear-politica-exterior.html?utm_source=lootura.com) — 2026-07-13T22:05:00.000Z
 - [Feijóo anuncia desde Almería un plan nacional contra los incendios si llega a La Moncloa](https://theobjective.com/espana/politica/2026-07-13/feijoo-plan-nacional-incendios-la-moncloa/?utm_source=lootura.com) — 2026-07-13T19:12:57.000Z

@@ -34,7 +34,4 @@ Date: 2026-07-13
 
 ## Sources
 
-- [Apple’s public betas for iOS 27 and more are out now](https://www.theverge.com/tech/964307/apple-public-betas-ios-27-siri-ai?utm_source=lootura.com) — 2026-07-13T20:45:40.000Z
-- [Siri AI makes the Apple Watch finally feel like a wrist computer](https://www.theverge.com/tech/964800/watchos-27-preview-siri-ai-apple-watch-gestures-smartwatch?utm_source=lootura.com) — 2026-07-13T20:44:20.000Z
-- [The macOS 27 public beta is worth it just for the Liquid Glass tweaks](https://www.theverge.com/tech/964701/apple-macos-27-golden-gate-public-beta-impressions-liquid-glass-siri-ai?utm_source=lootura.com) — 2026-07-13T20:43:15.000Z
-- [Siri AI is already changing how I use my iPhone](https://www.theverge.com/tech/964714/siri-ai-public-beta-preview-ios-27-hands-on?utm_source=lootura.com) — 2026-07-13T20:43:20.000Z
+No public source links.

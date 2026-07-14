@@ -8,24 +8,34 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/democratic-party/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/democratic-party/index.json",
   "description": "Follow Democratic Party, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-13T20:55:54.181Z",
+  "updatedAt": "2026-07-14T02:12:59.212Z",
   "aliases": [
     "Democrats"
   ],
   "changes": [
+    {
+      "title": "Democratic Senate Candidates in Maine Denounce Deadly ICE Shooting",
+      "summary": "The killing of a man in Biddeford quickly became an issue in the Senate race, with Democrats aiming to tie Senator Susan Collins to President Trump’s immigration crackdown.",
+      "date": "2026-07-14"
+    },
     {
       "title": "Mercurial and Magnetic, Lindsey Graham Was a Force in the Senate",
       "summary": "The sharp-witted South Carolinian repaired relations with President Trump to advance his foreign policy goals, was willing to cut deals with Democrats and tried to insert himself into every legislative fight.",
       "date": "2026-07-13"
     },
     {
-      "title": "Tributes pour in for Lindsey Graham after his death stuns D.C.",
-      "summary": "Tributes poured in for Sen. Lindsey Graham from Democrats, Republicans, former U.S. presidents and world leaders after his death stunned Capitol Hill. CBS News' Caitlin Huey-Burns has more.",
+      "title": "Midwest becomes next theater in Democrats' progressive vs. moderate fight",
+      "summary": "August primaries in Michigan, Wisconsin and Minnesota will be another gauge of Democratic voters' frustration with the establishment.",
       "date": "2026-07-13"
     },
     {
-      "title": "Midwest becomes next theater in Democrats' progressive vs. moderate fight",
-      "summary": "August primaries in Michigan, Wisconsin and Minnesota will be another gauge of Democratic voters' frustration with the establishment.",
+      "title": "Tamara Keith and Amy Walter on Lindsey Graham's passing",
+      "summary": "NPR's Tamara Keith and Amy Walter of the Cook Political Report with Amy Walter join Geoff Bennett to discuss the latest political news, including what the passing of Sen. Lindsey Graham means for South Carolina and the Senate, Sen. Mitch McConnell's health and Democrats scrambling to replace Graham Platner in the Maine.",
+      "date": "2026-07-13"
+    },
+    {
+      "title": "Tributes pour in for Lindsey Graham after his death stuns D.C.",
+      "summary": "Tributes poured in for Sen. Lindsey Graham from Democrats, Republicans, former U.S. presidents and world leaders after his death stunned Capitol Hill. CBS News' Caitlin Huey-Burns has more.",
       "date": "2026-07-13"
     },
     {
@@ -52,24 +62,14 @@
       "title": "Graham Platner officially withdraws from the Maine Senate race",
       "summary": "Democrats have already set off a mad dash to find a new candidate, with a July 27 deadline to submit a replacement nominee to face Republican Sen. Susan Collins in the November election.",
       "date": "2026-07-11"
-    },
-    {
-      "title": "James Carville unloads on far-left Democrats after primary upsets, says ‘you're part of the problem’",
-      "summary": "Political strategist James Carville offered a series of harsh criticisms against the far-left Democrats taking aim at their own party in the ongoing primaries, while calling the candidates’ ongoing cannibalization of longtime incumbents \"part of the problem.\" In a blistering video , Friday, for his \"Politics War Room\".",
-      "date": "2026-07-11"
-    },
-    {
-      "title": "How Will Maine Democrats Replace Graham Platner? Here’s What to Know.",
-      "summary": "Mr. Platner’s withdrawal from a marquee Senate race, under pressure from his party, has set in motion an unusual competition to become the new nominee.",
-      "date": "2026-07-11"
     }
   ],
   "sources": [
     {
-      "title": "Tributes pour in for Lindsey Graham after his death stuns D.C.",
-      "url": "https://www.cbsnews.com/video/tributes-pour-in-sen-lindsey-graham-after-death-stuns-dc/?utm_source=lootura.com",
-      "publishedAt": "2026-07-13T14:01:30.000Z",
-      "sourceId": "lootura-us-cbs-news"
+      "title": "Tamara Keith and Amy Walter on Lindsey Graham's passing",
+      "url": "https://www.pbs.org/newshour/show/tamara-keith-and-amy-walter-on-lindsey-grahams-passing?utm_source=lootura.com",
+      "publishedAt": "2026-07-13T22:35:20.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
     },
     {
       "title": "Midwest becomes next theater in Democrats' progressive vs. moderate fight",
@@ -82,7 +82,13 @@
       "url": "https://www.nytimes.com/2026/07/13/us/politics/lindsey-graham-senate-force.html?utm_source=lootura.com",
       "publishedAt": "2026-07-13T12:23:14.000Z",
       "sourceId": "lootura-us-the-new-york-times-politics"
+    },
+    {
+      "title": "Democratic Senate Candidates in Maine Denounce Deadly ICE Shooting",
+      "url": "https://www.nytimes.com/2026/07/13/us/politics/maine-ice-shooting-senate-graham-platner.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-14T02:01:13.000Z",
+      "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 4
 }

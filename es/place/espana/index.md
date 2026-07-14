@@ -3,16 +3,52 @@
 > Sigue la actividad de España en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-13T20:55:35.407Z
+- Actualizado: 2026-07-14T02:12:41.111Z
 - Canonical: https://atlas.lootura.com/es/place/espana
 
 ## Cambios recientes
+
+### El PSOE usa una empresa pública de Defensa como agencia de colocación
+
+La empresa pública Isdefe (Ingeniería de Sistemas para la Defensa de España), dependiente del Ministerio de Defensa, se ha situado en el centro de la polémica en los últimos días, a raíz de la dimisión de su número dos investigada en el caso Leire. La salida de Teresa Castillo, una de las 25 personas imputadas por las.
+
+Date: 2026-07-14
+
+### Las recetas frente al envejecimiento: planes de pensiones de empresa automáticos y jubilación gradual
+
+El envejecimiento de la población se ha convertido en uno de los principales desafíos económicos para España, en una bomba de relojería si los cimientos del sistema público no se apuntalan para soportar el desembarco masivo de los 'boomers', la generación de 14 millones de personas que comenzó a aterrizar de forma suav.
+
+Date: 2026-07-14
+
+### El abogado de Puigdemont le aconseja no volver ya a España aunque el TJUE le dé la razón
+
+El abogado de Carles Puigdemont, Gonzalo Boye, recomienda al expresidente de la Generalitat que se quede en Waterloo (Bélgica) pese a que el próximo 16 de julio el Tribunal de Justicia de la Unión Europea (TJUE) le dé la razón en relación a la aplicación de la amnistía. Así lo explican fuentes cercanas a Puigdemont a A.
+
+Date: 2026-07-14
+
+### Amazon pone a la venta una casa prefabricada por menos de 7.500 euros: así es la vivienda plegable que triunfa en España
+
+Comprar una vivienda en España exige ya un desembolso medio superior a los 280.000 euros , una cifra que continúa marcando máximos históricos y que dificulta el acceso a la vivienda para miles de personas. Ante este escenario, las casas prefabricadas ganan protagonismo como una alternativa más asequible. Amazon se ha s.
+
+Date: 2026-07-14
 
 ### Incendios forestales en España hoy, en directo: última hora de la evolución del fuego
 
 El calor extremo y las altas temperaturas siguen complicando las labores de extinción de varios incendios forestales activos en distintos puntos de España. Castilla y León, Cataluña, la Comunidad Valenciana y Andalucía concentran algunos de los principales focos.
 
-Date: 2026-07-13
+Date: 2026-07-14
+
+### El equipo que nació a la sombra de la estrella de España
+
+Medias naranjas. Cada tarde, Errol y Joyce van der Byl, vecinos de Blikkiesdorp (Ciudad del Cabo), repartían medias naranjas como merienda entre los peques de esta barriada y les invitaban a echar un partidito de fútbol; de esa forma, poco a poco, se formó un equipo en el que jugar después del cole, un lugar donde apre.
+
+Date: 2026-07-14
+
+### La deuda de los españoles alcanza los 4,2 billones de euros
+
+Los hogares, las empresas y l as Administraciones Públicas españolas arrastran una deuda bruta total de 4,2 billones de euros, según los últimos datos incluidos en las Cuentas Financieras de la Economía Española, correspondientes al primer trimestre del año, recién publicadas por el Banco de España, que gobierna José L.
+
+Date: 2026-07-14
 
 ### El juez Peinado reclama a Begoña Gómez que “acredite” que solo usó su pasaporte para viajar a Reino Unido
 
@@ -20,45 +56,9 @@ El magistrado Juan Carlos Peinado, que abrió juicio oral contra Begoña Gómez 
 
 Date: 2026-07-13
 
-### Seis hospitales públicos madrileños, en el "Top Ten" de los mejores 25 centros de España
-
-Seis hospitales públicos de la Comunidad de Madrid forman parte del 'Top Ten' de los 25 mejores hospitales de España en la lista elaborada por la revista Forbes , con otros dos centros de la sanidad madrileña que se cuelan en la misma. En concreto, cuatro centros madrileños lideran el ranking nacional, de modo que la F.
-
-Date: 2026-07-13
-
-### El 96,1% de los españoles se preocupa por la protección de su hogar
-
-La seguridad ocupa un lugar cada vez más relevante en las decisiones de hogares y negocios en España . Así, el 94% de los encuestados considera importante o muy importante sentirse seguro, según la nueva edición del Observatorio de la Seguridad de Hogares y Negocios de Verisure. El informe, que analiza la evolución de.
-
-Date: 2026-07-13
-
-### El Gobierno responde a Feijóo que su plan contra catástrofes ya está incluido en el pacto climático y le pide que lo firme: "Llega tarde"
-
-El líder del Partido Popular, Alberto Núñez Feijóo , se ha comprometido este lunes desde la localidad almeriense de los Gallardos, que ha sufrido el incendio más mortífero de este siglo en España, a elaborar un "gran acuerdo de prevención, respuesta y coordinación" ante catástrofes naturales si se convierte en el próxi.
-
-Date: 2026-07-13
-
 ### Nueve países europeos acuerdan crear una alianza antibalística con Ucrania
 
 figura entre los integrantes del nuevo programa de defensa para reforzar la seguridad del Viejo Continente.
-
-Date: 2026-07-13
-
-### España se une a la Coalición Antimisiles Balísticos junto a Ucrania y otros ocho países europeos
-
-Los jefes de Estado y de Gobierno de diez países europeos, entre ellos España, anunciaron este lunes la creación de la Coalición Antibalística , una alianza concebida como una iniciativa "puramente defensiva" destinada a impulsar una arquitectura integrada de defensa antimisiles para Europa. El presidente del Gobierno.
-
-Date: 2026-07-13
-
-### Algoritmos y precios dinámicos en vuelos, entradas de conciertos y hoteles: ¿por qué compramos lo mismo a diferente precio?
-
-tsingha25/Shutterstock Con la gira de conciertos del cantante puertorriqueño Bad Bunny en España, muchos criticaron el sistema de fijación de precios de las entradas: los interesados podían ver cómo el importe aumentaba mientras esperaban para hacer su compra. Algo similar ocurre con vuelos, hoteles, y otros servicios.
-
-Date: 2026-07-13
-
-### Manual de supervivencia visual para el eclipse: qué hacer y qué no para mirar al sol
-
-El próximo 12 de agosto de 2026 , entre las siete y las nueve de la tarde, España será testigo de un evento astronómico histórico. La Luna ocultará el Sol en una franja que cruzará media península generando un eclipse total, mientras que en el resto del país se vivirá un eclipse parcial muy profundo. Pero ojo porque, s.
 
 Date: 2026-07-13
 
@@ -70,13 +70,13 @@ Date: 2026-07-13
 
 ## Fuentes
 
-- [El Gobierno responde a Feijóo que su plan contra catástrofes ya está incluido en el pacto climático y le pide que lo firme: "Llega tarde"](https://www.20minutos.es/nacional/gobierno-responde-feijoo-que-su-plan-contra-catastrofes-ya-esta-incluido-pacto-climatico-le-pide-que-firme-llega-tarde_7014189_0.html?utm_source=lootura.com) — 2026-07-13T20:19:40.000Z
+- [El PSOE usa una empresa pública de Defensa como agencia de colocación](https://www.abc.es/espana/psoe-usa-empresa-publica-defensa-isdefe-agencia-20260714023941-nt.html?utm_source=lootura.com) — 2026-07-14T01:10:04.000Z
+- [Las recetas frente al envejecimiento: planes de pensiones de empresa automáticos y jubilación gradual](https://www.abc.es/economia/recetas-frente-envejecimiento-planes-empleo-automaticos-jubilacion-20260713131635-nt.html?utm_source=lootura.com) — 2026-07-14T01:10:15.000Z
+- [El abogado de Puigdemont le aconseja no volver ya a España aunque el TJUE le dé la razón](https://www.abc.es/espana/puigdemont-volvera-espana-tras-sentencia-tjue-desconfianza-20260714024053-nt.html?utm_source=lootura.com) — 2026-07-14T01:11:16.000Z
 - [Nueve países europeos acuerdan crear una alianza antibalística con Ucrania](https://www.elcorreo.com/internacional/europa/nueve-paises-europeos-acuerdan-crear-alianza-antibalistica-20260713215804-ntrc_amp.html?utm_source=lootura.com) — 2026-07-13T19:58:06.000Z
-- [España se une a la Coalición Antimisiles Balísticos junto a Ucrania y otros ocho países europeos](https://www.elindependiente.com/internacional/2026/07/13/espana-se-une-a-la-coalicion-antimisiles-balisticos-junto-a-ucrania-y-otros-ocho-paises-europeos/?utm_source=lootura.com) — 2026-07-13T16:32:21.000Z
+- [La Policía eleva a 3 millones los inmigrantes regularizados con sus familias](https://amp.elmundo.es/espana/2026/07/13/6a5529e321efa0765a8b4581.html?utm_source=lootura.com) — 2026-07-13T20:48:59.000Z
 - [El juez Peinado reclama a Begoña Gómez que “acredite” que solo usó su pasaporte para viajar a Reino Unido](https://elpais.com/espana/2026-07-13/el-juez-peinado-reclama-a-begona-gomez-que-acredite-que-solo-uso-su-pasaporte-para-viajar-a-reino-unido.html?utm_source=lootura.com) — 2026-07-13T17:45:22.000Z
-- [Incendios forestales en España hoy, en directo: última hora de la evolución del fuego](https://www.larazon.es/sociedad/incendios-forestales-espana-hoy-directo-ultima-hora-evolucion-fuego_202607136a54beb9772f745d2c45a5fb.html?outputType=amp&utm_source=lootura.com) — 2026-07-13T20:45:16.000Z
-- [Seis hospitales públicos madrileños, en el "Top Ten" de los mejores 25 centros de España](https://www.larazon.es/madrid/seis-hospitales-publicos-madrilenos-top-ten-mejores-25-centros-espana_202607136a55224bc0b5fb431c53834b.html?utm_source=lootura.com) — 2026-07-13T17:37:16.000Z
-- [Algoritmos y precios dinámicos en vuelos, entradas de conciertos y hoteles: ¿por qué compramos lo mismo a diferente precio?](https://theconversation.com/algoritmos-y-precios-dinamicos-en-vuelos-entradas-de-conciertos-y-hoteles-por-que-compramos-lo-mismo-a-diferente-precio-286540?utm_source=lootura.com) — 2026-07-13T17:38:51.000Z
-- [Manual de supervivencia visual para el eclipse: qué hacer y qué no para mirar al sol](https://theconversation.com/manual-de-supervivencia-visual-para-el-eclipse-que-hacer-y-que-no-para-mirar-al-sol-283403?utm_source=lootura.com) — 2026-07-13T17:34:56.000Z
-- [Quién es Gorka Rodríguez, el nuevo copresentador de ‘Grand prix’: de Vitoria a Aragón hasta llegar a la fiesta del verano](https://theobjective.com/gente/2026-07-13/gorka-rodriguez-nuevo-copresentador-grand-prix/?utm_source=lootura.com) — 2026-07-13T19:00:00.000Z
-- [El 96,1% de los españoles se preocupa por la protección de su hogar](https://theobjective.com/sociedad/2026-07-13/961-espanoles-preocupa-proteccion-hogar/?utm_source=lootura.com) — 2026-07-13T17:03:29.000Z
+- [Microsoft, Amazon y Google disparan la inversión en la nube en España](https://amp.expansion.com/economia-digital/companias/2026/07/14/6a552d68e5fdea0e0b8b4599.html?utm_source=lootura.com) — 2026-07-13T22:00:12.000Z
+- [Ryanair supera los 10.000 empleos e invertirá 700 millones en España](https://www.expansion.com/empresas/transporte/2026/07/14/6a552a33e5fdea1c588b4571.html?utm_source=lootura.com) — 2026-07-13T22:00:18.000Z
+- [Amazon pone a la venta una casa prefabricada por menos de 7.500 euros: así es la vivienda plegable que triunfa en España](https://www.larazon.es/economia/amazon-pone-venta-casa-prefabricada-menos-7500-euros-asi-vivienda-plegable-que-triunfa-espana_202607146a558a20c0b5fb431c542e15.html?utm_source=lootura.com) — 2026-07-14T01:00:16.000Z
+- [Incendios forestales en España hoy, en directo: última hora de la evolución del fuego](https://www.larazon.es/sociedad/incendios-forestales-espana-hoy-directo-ultima-hora-evolucion-fuego_202607136a54beb9772f745d2c45a5fb.html?outputType=amp&utm_source=lootura.com) — 2026-07-14T01:36:38.000Z

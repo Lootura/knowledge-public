@@ -3,7 +3,7 @@
 > Sigue la actividad de Begoña Gómez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-13T20:55:35.407Z
+- Actualizado: 2026-07-14T02:12:41.111Z
 - Canonical: https://atlas.lootura.com/es/person/begona-gomez
 
 ## Cambios recientes
@@ -70,5 +70,4 @@ Date: 2026-07-09
 
 ## Fuentes
 
-- [El juez Peinado pide a Begoña Gómez que acredite que solo utilizó el pasaporte para acudir a la graduación de su hija](https://www.abc.es/espana/juez-peinado-pide-begona-gomez-acredite-utilizo-20260713174402-nt.html?utm_source=lootura.com) — 2026-07-13T18:46:10.000Z
 - [El juez Peinado reclama a Begoña Gómez que “acredite” que solo usó su pasaporte para viajar a Reino Unido](https://elpais.com/espana/2026-07-13/el-juez-peinado-reclama-a-begona-gomez-que-acredite-que-solo-uso-su-pasaporte-para-viajar-a-reino-unido.html?utm_source=lootura.com) — 2026-07-13T17:45:22.000Z

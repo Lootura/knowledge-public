@@ -8,16 +8,11 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/ukraine/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/ukraine/index.json",
   "description": "Follow Ukraine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-13T20:55:54.181Z",
+  "updatedAt": "2026-07-14T02:12:59.212Z",
   "aliases": [
     "Kyiv"
   ],
   "changes": [
-    {
-      "title": "With Lindsey Graham Gone, Ukraine Loses an Ally in Trump’s Ear",
-      "summary": "The South Carolina Republican was Ukraine’s most influential champion inside President Trump’s mostly “America First” political orbit.",
-      "date": "2026-07-13"
-    },
     {
       "title": "Ukraine and 9 other countries form coalition to protect Europe from ballistic missiles",
       "summary": "and nine other countries have announced a coalition to protect Europe from ballistic missiles, taking advantage of Kyiv's experience of fighting Russia.",
@@ -26,6 +21,11 @@
     {
       "title": "Ukraine fears it will have a weaker link to Trump after Sen. Lindsey Graham's sudden death",
       "summary": "has lost a close ally in President Donald Trump's orbit, leaving its leaders grappling with the implications for their war-torn country.",
+      "date": "2026-07-13"
+    },
+    {
+      "title": "With Lindsey Graham Gone, Ukraine Loses an Ally in Trump’s Ear",
+      "summary": "The South Carolina Republican was Ukraine’s most influential champion inside President Trump’s mostly “America First” political orbit.",
       "date": "2026-07-13"
     },
     {
@@ -76,13 +76,7 @@
       "url": "https://www.pbs.org/newshour/world/ukraine-and-9-other-countries-form-coalition-to-protect-europe-from-ballistic-missiles?utm_source=lootura.com",
       "publishedAt": "2026-07-13T17:51:08.000Z",
       "sourceId": "lootura-us-pbs-newshour"
-    },
-    {
-      "title": "With Lindsey Graham Gone, Ukraine Loses an Ally in Trump’s Ear",
-      "url": "https://www.nytimes.com/2026/07/12/us/lindsey-graham-ukraine.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-13T12:12:41.000Z",
-      "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 2
 }

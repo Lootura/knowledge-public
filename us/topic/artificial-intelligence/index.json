@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/topic/artificial-intelligence/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/topic/artificial-intelligence/index.json",
   "description": "Follow Artificial intelligence, a tracked topic, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-13T20:55:54.181Z",
+  "updatedAt": "2026-07-14T02:12:59.212Z",
   "aliases": [
     "AI",
     "machine learning"
@@ -17,11 +17,16 @@
     {
       "title": "Does AI work for us, or do we work for AI?",
       "summary": "Science, Volume 393, Issue 6807 , Page 152-152, July 2026.",
-      "date": "2026-07-13"
+      "date": "2026-07-14"
     },
     {
       "title": "AI companies are creating \"generative ghosts\" of deceased loved ones",
       "summary": "Startups are using emails, photos and voice recordings to create AI simulations that family and friends can interact with after a loved one's death.",
+      "date": "2026-07-13"
+    },
+    {
+      "title": "Does AI work for us, or do we work for AI?",
+      "summary": "Science, Volume 393, Issue 6807 , Page 152-152, July 2026.",
       "date": "2026-07-13"
     },
     {
@@ -58,11 +63,6 @@
       "title": "Waze is getting a bunch of new AI-powered features",
       "summary": "Waze is getting an AI makeover. Google is integrating its flagship AI assistant, Gemini, into the driving app with the goal of letting users personalize their trips a little more. Of the four new updates, only two are being described as involving Gemini. Waze says its updating its conversation reporting feature, first.",
       "date": "2026-07-13"
-    },
-    {
-      "title": "When managing your money, take a chatbot's 'confidence' with a grain of salt",
-      "summary": "According to a 2025 survey of 2,000 U.S. adults by Pearl.com, a professional services platform, 19% said they lost more than $100 by following financial advice from an AI chatbot.",
-      "date": "2026-07-12"
     }
   ],
   "sources": [
@@ -75,21 +75,9 @@
     {
       "title": "Does AI work for us, or do we work for AI?",
       "url": "https://www.science.org/doi/abs/10.1126/science.aei9754?af=R&utm_source=lootura.com",
-      "publishedAt": "2026-07-13T20:55:58.504Z",
+      "publishedAt": "2026-07-14T02:13:03.377Z",
       "sourceId": "lootura-us-science"
-    },
-    {
-      "title": "Siri AI makes the Apple Watch finally feel like a wrist computer",
-      "url": "https://www.theverge.com/tech/964800/watchos-27-preview-siri-ai-apple-watch-gestures-smartwatch?utm_source=lootura.com",
-      "publishedAt": "2026-07-13T20:44:20.000Z",
-      "sourceId": "lootura-us-the-verge"
-    },
-    {
-      "title": "Siri AI is already changing how I use my iPhone",
-      "url": "https://www.theverge.com/tech/964714/siri-ai-public-beta-preview-ios-27-hands-on?utm_source=lootura.com",
-      "publishedAt": "2026-07-13T20:43:20.000Z",
-      "sourceId": "lootura-us-the-verge"
     }
   ],
-  "evidenceCount": 4
+  "evidenceCount": 2
 }

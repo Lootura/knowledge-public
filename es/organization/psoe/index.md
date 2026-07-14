@@ -3,10 +3,16 @@
 > Sigue la actividad de Partido Socialista Obrero Español en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-13T10:57:59.389Z
+- Actualizado: 2026-07-14T02:12:41.111Z
 - Canonical: https://atlas.lootura.com/es/organization/psoe
 
 ## Cambios recientes
+
+### El PSOE usa una empresa pública de Defensa como agencia de colocación
+
+La empresa pública Isdefe (Ingeniería de Sistemas para la Defensa de España), dependiente del Ministerio de Defensa, se ha situado en el centro de la polémica en los últimos días, a raíz de la dimisión de su número dos investigada en el caso Leire. La salida de Teresa Castillo, una de las 25 personas imputadas por las.
+
+Date: 2026-07-14
 
 ### El primer abogado de Ábalos declara que Leire Díez le ofreció pagar la defensa del exministro a través de una sociedad
 
@@ -62,12 +68,6 @@ El secretario general del PSOE de Madrid, Óscar López , será el candidato soc
 
 Date: 2026-07-11
 
-### Enma López logra los avales necesarios y competirá contra Reyes Maroto para ser candidata del PSOE en Madrid
-
-El PSOE de Madrid ha despejado este sábado sus dos grandes incógnitas de cara a las elecciones de 2027, y lo ha hecho con dos escenarios diametralmente opuestos. Mientras que a nivel regional Ferraz ha coronado sin sorpresas ni votaciones al ministro Óscar López como candidato a la Puerta del Sol, la carrera por la Alc.
-
-Date: 2026-07-11
-
 ## Fuentes
 
-No public source links.
+- [El PSOE usa una empresa pública de Defensa como agencia de colocación](https://www.abc.es/espana/psoe-usa-empresa-publica-defensa-isdefe-agencia-20260714023941-nt.html?utm_source=lootura.com) — 2026-07-14T01:10:04.000Z

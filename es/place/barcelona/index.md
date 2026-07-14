@@ -3,20 +3,26 @@
 > Sigue la actividad de Barcelona en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-13T20:55:35.407Z
+- Actualizado: 2026-07-14T02:12:41.111Z
 - Canonical: https://atlas.lootura.com/es/place/barcelona
 
 ## Cambios recientes
 
-### El filial del Barcelona de cuarta categoría lleva ya gastado más dinero que 10 equipos de Primera División
-
-El Barcelona ha comenzado este mercado de fichajes con mucho movimiento y millones gastados entre su primer equipo y su filial.
-
-Date: 2026-07-13
-
 ### Un muerto y cinco heridos en el incendio de un piso en el Ensanche de Barcelona
 
 Un hombre de unos 60 años ha muerto y otras cinco personas han resultado heridas, ninguna de ellas de gravedad, en el incendio de un piso esta pasada madrugada en el distrito del Ensanche de Barcelona. Según ha informado el Ayuntamiento de Barcelona, los Bomberos han recibido poco después de las cuatro de la madrugada.
+
+Date: 2026-07-13
+
+### Rajoy enoja a Francia mientras el Gobierno acusa al PP de torpedear la política exterior
+
+El Partido Popular ya logró concitar la irritación de los gobiernos de Pedro Sánchez y Emmanuel Macron, por bloquear hace una semana en el Senado el tratado de amistad que ambos mandatarios sellaron en la cumbre hispanofrancesa celebrada en Barcelona el 19 de enero del 2023. Y ahora unas polémicas palabras del expresid.
+
+Date: 2026-07-13
+
+### El filial del Barcelona de cuarta categoría lleva ya gastado más dinero que 10 equipos de Primera División
+
+El Barcelona ha comenzado este mercado de fichajes con mucho movimiento y millones gastados entre su primer equipo y su filial.
 
 Date: 2026-07-13
 
@@ -62,13 +68,8 @@ La primera coincidió con los primeros días de verano astronómico, y la segund
 
 Date: 2026-07-13
 
-### Laporta manda un aviso al Atlético por Julián: «No vamos a bailar la música a nadie»
-
-Joan Laporta ha mandado un aviso en la noche de este domingo desde Dallas al Atlético de Madrid por Julián Álvarez. El presidente del Barcelona anunció que han realizado una oferta importante para fichar al delantero argentino, pero también aclaró que esa oferta caduca, ya que no están dispuestos a bailarle al agua a n.
-
-Date: 2026-07-12
-
 ## Fuentes
 
-- [El filial del Barcelona de cuarta categoría lleva ya gastado más dinero que 10 equipos de Primera División](https://okdiario.com/deportes/filial-del-barcelona-cuarta-categoria-lleva-ya-gastado-mas-dinero-que-10-equipos-primera-division-18988055/amp?utm_source=lootura.com) — 2026-07-13T17:32:26.000Z
+- [Laporta presiona al Atlético por Julián: «No vamos a bailar la música de nadie»](https://www.abc.es/deportes/futbol/laporta-presiona-atletico-julian-vamos-bailar-musica-20260713192936-nt.html?utm_source=lootura.com) — 2026-07-14T01:07:09.000Z
+- [Rajoy enoja a Francia mientras el Gobierno acusa al PP de torpedear la política exterior](https://www.lavanguardia.com/politica/20260714/11591461/rajoy-enoja-francia-gobierno-acusa-pp-torpedear-politica-exterior.html?utm_source=lootura.com) — 2026-07-13T22:05:00.000Z
 - [Un muerto y cinco heridos en el incendio de un piso en el Ensanche de Barcelona](https://theobjective.com/sociedad/suceso/2026-07-13/muerto-cinco-heridos-incendio-piso-barcelona/?utm_source=lootura.com) — 2026-07-13T19:46:59.000Z

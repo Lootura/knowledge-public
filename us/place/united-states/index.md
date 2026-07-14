@@ -3,16 +3,22 @@
 > Follow United States, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-13T20:55:54.181Z
+- Updated: 2026-07-14T02:12:59.212Z
 - Canonical: https://atlas.lootura.com/us/place/united-states
 
 ## Recent changes
 
-### Lindsey Graham, Republican Senator and Trump Ally, Dies From ‘Sudden Illness’
+### Maps show heat alerts as extreme temperatures threaten millions
 
-He consistently pushed for the use of U.S. military power overseas. The Washington, D.C., medical examiner said he died of an aortic dissection, a tear in the body’s main artery.
+Heat alerts were issued for millions across parts of the western U.S. Sunday due to an unusually prolonged heat dome, which is starting to move east.
 
-Date: 2026-07-13
+Date: 2026-07-14
+
+### Details on newest U.S. strikes against Iran
+
+The United States is carrying out a third night of airstrikes against Iran. CBS News national security analyst Aaron MacLean has more.
+
+Date: 2026-07-14
 
 ### Oil Prices Surge After Iran and U.S. Trade Strikes
 
@@ -32,30 +38,6 @@ The U.S. strikes Iran for a third weekend as Iran retaliates by hitting Gulf nat
 
 Date: 2026-07-13
 
-### With Lindsey Graham Gone, Ukraine Loses an Ally in Trump’s Ear
-
-The South Carolina Republican was Ukraine’s most influential champion inside President Trump’s mostly “America First” political orbit.
-
-Date: 2026-07-13
-
-### Tributes pour in for Lindsey Graham after his death stuns D.C.
-
-Tributes poured in for Sen. Lindsey Graham from Democrats, Republicans, former U.S. presidents and world leaders after his death stunned Capitol Hill. CBS News' Caitlin Huey-Burns has more.
-
-Date: 2026-07-13
-
-### Trump says U.S. will get paid to guard Strait of Hormuz: "Maybe we
-
-President Trump said, "We.
-
-Date: 2026-07-13
-
-### US and Iran Trade Strikes as Ceasefire Deal Efforts Unravel
-
-The United States and Iran traded even more attacks, some of the most intense in months, as the already fragile ceasefire continues to unravel. On Sunday, President Donald Trump told Kristen Welker on Meet the Press that the Strait of Hormuz remains open – even though Iran said earlier that it was closed. NBC’s Matt Br.
-
-Date: 2026-07-13
-
 ### Strait of Hormuz Ship Traffic Falls to Lowest Point in a Month After Strikes
 
 Shipping activity plummeted after Iran attacked a ship, setting off U.S. strikes. Little crude oil is being transported through the critical waterway.
@@ -68,15 +50,33 @@ President Trump is suggesting he has left standing orders for the U.S. military 
 
 Date: 2026-07-13
 
+### U.S. Electric Vehicle Sales are Down but E.V. Chargers are Booming
+
+Electric vehicle chargers are proliferating in Southern states as fast food restaurants, stores and other businesses try to lure customers.
+
+Date: 2026-07-13
+
+### On foreign policy, Graham's influence may have been felt the most
+
+Over the course of his three decades in Congress, Lindsey Graham was a major influence on Capitol Hill and throughout the world as one of the most vocal advocates for U.S. military might.
+
+Date: 2026-07-13
+
+### Trump’s Threat to Impose Fees in the Strait of Hormuz Contradicts His Aides
+
+President Trump said the United States could collect tolls or fees, despite Vice President JD Vance and Secretary of State Marco Rubio saying no country could do so.
+
+Date: 2026-07-13
+
 ## Sources
 
-- [Judge rebukes Trump and DOJ over IRS lawsuit in scathing decision](https://www.cbsnews.com/news/judge-trump-justice-department-irs-lawsuit-anti-weaponization-fund-settlement/?utm_source=lootura.com) — 2026-07-13T19:48:14.000Z
-- [Tributes pour in for Lindsey Graham after his death stuns D.C.](https://www.cbsnews.com/video/tributes-pour-in-sen-lindsey-graham-after-death-stuns-dc/?utm_source=lootura.com) — 2026-07-13T14:01:30.000Z
-- [Trump says U.S. will get paid to guard Strait of Hormuz: "Maybe we](https://www.cbsnews.com/news/trump-iran-war-us-guardian-strait-of-hormuz-get-paid/?utm_source=lootura.com) — 2026-07-13T14:29:20.000Z
-- [US and Iran Trade Strikes as Ceasefire Deal Efforts Unravel](https://www.today.com/video/us-and-iran-trade-strikes-as-ceasefire-deal-efforts-unravel-266581061712?utm_source=lootura.com) — 2026-07-13T11:21:19.000Z
-- [Oil surges more than 9% after Trump reimposes Iran blockade](https://www.nbcnews.com/business/markets/oil-rises-trump-reimposes-hormuz-blockade-rcna587297?utm_source=lootura.com) — 2026-07-13T15:01:13.000Z
+- [The 2026 FIFA Men](https://www.cbsnews.com/news/world-cup-2026-schedule-how-to-watch/?utm_source=lootura.com) — 2026-07-14T02:05:37.000Z
+- [Maps show heat alerts as extreme temperatures threaten millions](https://www.cbsnews.com/news/heat-wave-alerts-western-northeast-states/?utm_source=lootura.com) — 2026-07-14T01:40:51.000Z
+- [Details on newest U.S. strikes against Iran](https://www.cbsnews.com/video/details-on-newest-us-strikes-against-iran/?utm_source=lootura.com) — 2026-07-14T01:25:44.000Z
+- [U.S. strikes Iran for third night after Trump reinstates Iran blockade](https://www.nbcnews.com/nightly-news/video/u-s-strikes-iran-for-third-night-after-trump-reinstates-iran-blockade-266616901697?utm_source=lootura.com) — 2026-07-13T23:15:42.000Z
 - [Eat your ice cream for a long, healthy life? This doctor says so](https://www.npr.org/2026/07/13/nx-s1-5884664/zeke-emanuel-optimize-health-long-life?utm_source=lootura.com) — 2026-07-13T09:00:00.000Z
 - [Morning news brief](https://www.npr.org/2026/07/13/nx-s1-5885745/morning-news-brief?utm_source=lootura.com) — 2026-07-13T08:48:40.000Z
 - [On foreign policy, Graham's influence may have been felt the most](https://www.npr.org/2026/07/13/nx-s1-5890936/on-foreign-policy-grahams-influence-may-have-been-felt-the-most?utm_source=lootura.com) — 2026-07-13T20:05:24.000Z
+- [Trump says U.S. 'taking over the strait' as conflict with Iran reignites](https://www.pbs.org/newshour/show/trump-says-u-s-taking-over-the-strait-as-conflict-with-iran-reignites?utm_source=lootura.com) — 2026-07-13T22:55:49.000Z
 - [Trump suggests he has left a standing order to attack Iran if it assassinates him. But Vance would make the call](https://www.pbs.org/newshour/nation/trump-suggests-he-has-left-a-standing-order-to-attack-iran-if-it-assassinates-him-but-vance-would-make-the-call?utm_source=lootura.com) — 2026-07-13T17:41:47.000Z
 - [Strait of Hormuz Ship Traffic Falls to Lowest Point in a Month After Strikes](https://www.nytimes.com/2026/07/13/business/strait-hormuz-shipping-traffic-iran-war.html?utm_source=lootura.com) — 2026-07-13T14:18:11.000Z

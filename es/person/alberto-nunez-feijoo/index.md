@@ -3,20 +3,26 @@
 > Sigue la actividad de Alberto Núñez Feijóo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-13T20:55:35.407Z
+- Actualizado: 2026-07-14T02:12:41.111Z
 - Canonical: https://atlas.lootura.com/es/person/alberto-nunez-feijoo
 
 ## Cambios recientes
 
-### El Gobierno responde a Feijóo que su plan contra catástrofes ya está incluido en el pacto climático y le pide que lo firme: "Llega tarde"
-
-El líder del Partido Popular, Alberto Núñez Feijóo , se ha comprometido este lunes desde la localidad almeriense de los Gallardos, que ha sufrido el incendio más mortífero de este siglo en España, a elaborar un "gran acuerdo de prevención, respuesta y coordinación" ante catástrofes naturales si se convierte en el próxi.
-
-Date: 2026-07-13
-
 ### Feijóo anuncia desde Almería un plan nacional contra los incendios si llega a La Moncloa
 
 El líder del PP, Alberto Núñez Feijóo , ha asegurado que espera que «continúe la colaboración y la coordinación» entre administraciones como se ha visto con el incendio en Los Gallardos (Almería) y que «nadie estropee» la unidad de acción. Dicho esto, ha anunciado un plan de prevención de riesgos naturales si llega al.
+
+Date: 2026-07-13
+
+### Errores no forzados en el PP
+
+Más de una vez nos hemos referido a que Alberto Núñez Feijóo estaba mucho más suelto y feliz cuando era presidente de la Xunta de Galicia que ahora que ejerce de jefe de la oposición. No es nada fácil lidiar con Pedro Sánchez y aguantar diariamente la presión de la opinión publicada, que oscila entre los que le critica.
+
+Date: 2026-07-13
+
+### El Gobierno responde a Feijóo que su plan contra catástrofes ya está incluido en el pacto climático y le pide que lo firme: "Llega tarde"
+
+El líder del Partido Popular, Alberto Núñez Feijóo , se ha comprometido este lunes desde la localidad almeriense de los Gallardos, que ha sufrido el incendio más mortífero de este siglo en España, a elaborar un "gran acuerdo de prevención, respuesta y coordinación" ante catástrofes naturales si se convierte en el próxi.
 
 Date: 2026-07-13
 
@@ -62,13 +68,7 @@ El ministro defiende que no se hubiera hecho uso de ese sistema porque este tipo
 
 Date: 2026-07-11
 
-### Ignacio Dancausa logra el aval de Nuevas Generaciones del PP para ser su presidente
-
-A sus 25 años, Ignacio Dancausa se ha convertido en el nuevo líder de Nuevas Generaciones (NNGG) del PP, puesto al que llega con la confianza del líder del partido, Alberto Núñez Feijóo , después de cuatro años al frente de la organización juvenil en Madrid, donde llegó avalado por la presidenta Isabel Díaz Ayuso. Danc.
-
-Date: 2026-07-11
-
 ## Fuentes
 
-- [El Gobierno responde a Feijóo que su plan contra catástrofes ya está incluido en el pacto climático y le pide que lo firme: "Llega tarde"](https://www.20minutos.es/nacional/gobierno-responde-feijoo-que-su-plan-contra-catastrofes-ya-esta-incluido-pacto-climatico-le-pide-que-firme-llega-tarde_7014189_0.html?utm_source=lootura.com) — 2026-07-13T20:19:40.000Z
+- [Errores no forzados en el PP](https://www.lavanguardia.com/opinion/20260714/11591530/errores-forzados-pp.html?utm_source=lootura.com) — 2026-07-13T22:08:34.000Z
 - [Feijóo anuncia desde Almería un plan nacional contra los incendios si llega a La Moncloa](https://theobjective.com/espana/politica/2026-07-13/feijoo-plan-nacional-incendios-la-moncloa/?utm_source=lootura.com) — 2026-07-13T19:12:57.000Z

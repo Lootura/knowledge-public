@@ -3,16 +3,16 @@
 > Sigue la actividad de Donald Trump en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-13T20:55:35.407Z
+- Actualizado: 2026-07-14T02:12:41.111Z
 - Canonical: https://atlas.lootura.com/es/person/donald-trump
 
 ## Cambios recientes
 
-### El petróleo se dispara tras anunciar Trump un bloqueo a Irán y un peaje de EE UU en Ormuz
+### Trump dice que EEUU investiga si Irán tiene drones almacenados en Cuba
 
-ha anunciado al final de la tarde de este lunes que la Marina estadounidense volverá a bloquear el traspaso de embarcaciones iraníes por el estrecho de Ormuz y que además cobrará un peaje del 20% de la carga a cada barco que cruce el paso. El presidente estadounidense no ha detallado cómo aplicará este tri.
+El presidente de Estados Unidos, Donald Trump , ha asegurado este lunes que su Gobierno investiga la posible presencia de drones iraníes almacenados en Cuba y ha advertido de que Washington actuará si confirma esa información. "Si los tienen, y es muy posible que los tengan , nos encargaremos de ello", ha declarado Tru.
 
-Date: 2026-07-13
+Date: 2026-07-14
 
 ### Trump restablece el cerco naval a Irán y dice que cobrará el 20% por proteger a los buques en Ormuz
 
@@ -23,6 +23,18 @@ Date: 2026-07-13
 ### California y otros 11 Estados demócratas llevan a los tribunales la fusión Warner-Paramount aprobada por Trump
 
 La posible fusión entre dos gigantes del entretenimiento, Warner y Paramount, tiene pendiente a toda la industria del cine. Donald Trump y su Administración han dado el visto bueno a que Paramount se meta a Warner en el bolsillo por unos 111.000 millones de dólares, pero no todos los Estados están de acuerdo. Una docen.
+
+Date: 2026-07-13
+
+### Trump amenaza con volver a atacar a Irán: «Los golpearemos muy duro esta noche y mañana»
+
+El presidente de Estados Unidos, Donald Trump , aseguró este lunes que las fuerzas armadas de su país atacarán con fuerza a Irán «esta noche» y «mañana», en medio del restablecimiento de las hostilidades con Teherán. «Vamos a golpearlos muy duro esta noche y vamos a golpearlos muy duro mañana, y no hay absolutamente na.
+
+Date: 2026-07-13
+
+### El petróleo se dispara tras anunciar Trump un bloqueo a Irán y un peaje de EE UU en Ormuz
+
+ha anunciado al final de la tarde de este lunes que la Marina estadounidense volverá a bloquear el traspaso de embarcaciones iraníes por el estrecho de Ormuz y que además cobrará un peaje del 20% de la carga a cada barco que cruce el paso. El presidente estadounidense no ha detallado cómo aplicará este tri.
 
 Date: 2026-07-13
 
@@ -56,21 +68,9 @@ Si hay un punto de inflexión en el legado de Donald Trump como presidente de Es
 
 Date: 2026-07-13
 
-### Trump, sobre el estrecho de Ormuz: «Lo vamos a mantener seguro y lo vamos a administrar»
-
-El presidente de Estados Unidos , Donald Trump , dijo este lunes que su país se convertirá en el «guardián» del estrecho de Ormuz y aseguró que Washington debería ser compensado por proteger la estratégica vía de comercio, interrumpida por Irán en medio de la actual escalada en el conflicto. «Vamos a golpearlos muy dur.
-
-Date: 2026-07-13
-
-### Detenido en Ibiza un "filántropo" estadounidense al que la administración Trump acusa de financiar la causa palestina
-
-Agentes de la Comisaría General de Información arrestaron el viernes a James 'Fergie' Cox, uno de los herederos del emporio industrial, cumpliendo con una "nota roja" de Interpol a partir de una petición de la Administración Trump Agentes de la Comisaría General de Información detuvieron el pasado viernes en Ibiza a Ja.
-
-Date: 2026-07-13
-
 ## Fuentes
 
-- [El petróleo se dispara tras anunciar Trump un bloqueo a Irán y un peaje de EE UU en Ormuz](https://cincodias.elpais.com/mercados-financieros/2026-07-13/la-bolsa-y-el-ibex-35.html?utm_source=lootura.com) — 2026-07-13T16:27:17.000Z
+- [Trump dice que EEUU investiga si Irán tiene drones almacenados en Cuba](https://www.20minutos.es/internacional/trump-dice-que-eeuu-investiga-si-iran-tiene-drones-almacenados-cuba_7014204_0.html?utm_source=lootura.com) — 2026-07-14T00:07:41.000Z
 - [California y otros 11 Estados demócratas llevan a los tribunales la fusión Warner-Paramount aprobada por Trump](https://elpais.com/us/2026-07-13/california-nueva-york-y-otros-10-estados-democratas-contraatacan-en-una-demanda-para-frenar-la-fusion-warner-paramount.html?utm_source=lootura.com) — 2026-07-13T18:10:15.000Z
 - [Trump restablece el cerco naval a Irán y dice que cobrará el 20% por proteger a los buques en Ormuz](https://www.elmundo.es/internacional/2026/07/13/6a54aaaafdddff6b118b45ab.html?utm_source=lootura.com) — 2026-07-13T15:14:15.000Z
-- [La cumbre de la OTAN confirma el apoyo a Ucrania, pero evidencia la asimetría de la relación transatlántica](https://theconversation.com/la-cumbre-de-la-otan-confirma-el-apoyo-a-ucrania-pero-evidencia-la-asimetria-de-la-relacion-transatlantica-287214?utm_source=lootura.com) — 2026-07-13T17:35:42.000Z
+- [Trump amenaza con volver a atacar a Irán: «Los golpearemos muy duro esta noche y mañana»](https://theobjective.com/internacional/2026-07-13/trump-volvera-atacar-iran/?utm_source=lootura.com) — 2026-07-13T21:00:08.000Z

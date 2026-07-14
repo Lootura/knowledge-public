@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/espana/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/espana/index.json",
   "description": "Follow Spain, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-13T17:53:11.557Z",
+  "updatedAt": "2026-07-14T02:12:59.212Z",
   "aliases": [
     "Estado español",
     "Spain"
@@ -50,6 +50,13 @@
       "date": "2026-07-09"
     }
   ],
-  "sources": [],
+  "sources": [
+    {
+      "title": "Breaking down the World Cup semi-final matches",
+      "url": "https://www.cbsnews.com/video/breaking-down-the-world-cup-semi-final-matches/?utm_source=lootura.com",
+      "publishedAt": "2026-07-14T01:18:42.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    }
+  ],
   "evidenceCount": 0
 }

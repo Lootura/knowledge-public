@@ -3,7 +3,7 @@
 > Sigue la actividad de Organización del Tratado del Atlántico Norte en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-13T20:55:35.407Z
+- Actualizado: 2026-07-14T02:12:41.111Z
 - Canonical: https://atlas.lootura.com/es/organization/nato
 
 ## Cambios recientes
@@ -71,4 +71,3 @@ Date: 2026-07-11
 ## Fuentes
 
 - [La UE y la OTAN condenan los ciberataques «maliciosos» de Rusia contra los países europeos](https://www.elcorreo.com/internacional/europa/ue-otan-condenan-ciberataques-maliciosos-rusia-paises-20260713160238-ntrc_amp.html?utm_source=lootura.com) — 2026-07-13T14:02:38.000Z
-- [La cumbre de la OTAN confirma el apoyo a Ucrania, pero evidencia la asimetría de la relación transatlántica](https://theconversation.com/la-cumbre-de-la-otan-confirma-el-apoyo-a-ucrania-pero-evidencia-la-asimetria-de-la-relacion-transatlantica-287214?utm_source=lootura.com) — 2026-07-13T17:35:42.000Z

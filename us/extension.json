@@ -1,16 +1,16 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-13T20:59:52.130Z",
+  "generatedAt": "2026-07-14T02:17:07.830Z",
   "radar": {
     "id": "usa",
     "slug": "us",
     "locale": "en"
   },
   "state": {
-    "signature": "1.15.1|3|1783976154181",
+    "signature": "1.15.1|4|1783995179212",
     "version": "1.15.1",
-    "build": 3,
-    "latestEntityUpdatedAt": "2026-07-13T20:55:54.181Z"
+    "build": 4,
+    "latestEntityUpdatedAt": "2026-07-14T02:12:59.212Z"
   },
   "atlas": {
     "hero": {
@@ -20,26 +20,13 @@
       "title": "Lindsey Graham’s Sister Appointed to Finish His Senate Term After Trump’s Backing",
       "url": "https://atlas.lootura.com/us/person/donald-trump",
       "path": "/us/person/donald-trump",
-      "updatedAt": "2026-07-13T20:55:54.181Z",
-      "score": 1641,
-      "sourceCount": 117,
+      "updatedAt": "2026-07-14T02:12:59.212Z",
+      "score": 1631,
+      "sourceCount": 125,
       "isBreaking": false,
       "isPinned": false
     },
     "cards": [
-      {
-        "id": "usa-maine",
-        "name": "Maine",
-        "type": "place",
-        "title": "ICE Agent Kills Person in Vehicle in Biddeford, Maine, State Officials Say",
-        "url": "https://atlas.lootura.com/us/place/maine",
-        "path": "/us/place/maine",
-        "updatedAt": "2026-07-13T20:55:54.181Z",
-        "score": 1579,
-        "sourceCount": 44,
-        "isBreaking": false,
-        "isPinned": false
-      },
       {
         "id": "usa-democratic-party",
         "name": "Democratic Party",
@@ -47,9 +34,35 @@
         "title": "Tributes pour in for Lindsey Graham after his death stuns D.C.",
         "url": "https://atlas.lootura.com/us/organization/democratic-party",
         "path": "/us/organization/democratic-party",
-        "updatedAt": "2026-07-13T20:55:54.181Z",
-        "score": 1568,
-        "sourceCount": 39,
+        "updatedAt": "2026-07-14T02:12:59.212Z",
+        "score": 1555,
+        "sourceCount": 41,
+        "isBreaking": false,
+        "isPinned": false
+      },
+      {
+        "id": "usa-maine",
+        "name": "Maine",
+        "type": "place",
+        "title": "Democratic Senate Candidates in Maine Denounce Deadly ICE Shooting",
+        "url": "https://atlas.lootura.com/us/place/maine",
+        "path": "/us/place/maine",
+        "updatedAt": "2026-07-14T02:12:59.212Z",
+        "score": 1551,
+        "sourceCount": 47,
+        "isBreaking": false,
+        "isPinned": false
+      },
+      {
+        "id": "usa-graham-platner",
+        "name": "Graham Platner",
+        "type": "person",
+        "title": "Graham Platner's voters figure out what's next as candidates vie for their support",
+        "url": "https://atlas.lootura.com/us/person/graham-platner",
+        "path": "/us/person/graham-platner",
+        "updatedAt": "2026-07-14T02:12:59.212Z",
+        "score": 1541,
+        "sourceCount": 42,
         "isBreaking": false,
         "isPinned": false
       },
@@ -57,25 +70,12 @@
         "id": "usa-ukraine",
         "name": "Ukraine",
         "type": "place",
-        "title": "Ukraine fears it will have a weaker link to Trump after Sen. Lindsey Graham's sudden death",
+        "title": "Ukraine and 9 other countries form coalition to protect Europe from ballistic missiles",
         "url": "https://atlas.lootura.com/us/place/ukraine",
         "path": "/us/place/ukraine",
-        "updatedAt": "2026-07-13T20:55:54.181Z",
-        "score": 1565,
+        "updatedAt": "2026-07-14T02:12:59.212Z",
+        "score": 1540,
         "sourceCount": 24,
-        "isBreaking": false,
-        "isPinned": false
-      },
-      {
-        "id": "usa-iran",
-        "name": "Iran",
-        "type": "place",
-        "title": "Oil Prices Surge After Iran and U.S. Trade Strikes",
-        "url": "https://atlas.lootura.com/us/place/iran",
-        "path": "/us/place/iran",
-        "updatedAt": "2026-07-13T20:55:54.181Z",
-        "score": 1532,
-        "sourceCount": 89,
         "isBreaking": false,
         "isPinned": false
       }

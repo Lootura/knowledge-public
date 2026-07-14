@@ -3,10 +3,22 @@
 > Sigue la actividad de Apple en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: company
-- Actualizado: 2026-07-13T10:57:59.389Z
+- Actualizado: 2026-07-14T02:12:41.111Z
 - Canonical: https://atlas.lootura.com/es/company/apple
 
 ## Cambios recientes
+
+### iOS 27 lanza su beta pública con Siri AI: cómo instalarla y iPhone compatibles
+
+acaba de lanzar la primera beta pública de iOS 27 , su nuevo sistema operativo para el iPhone. Después de iniciar las pruebas con la versión para desarrolladores, los de Cupertino han habilitado el acceso general a la edición todavía no finalizada de su software. Y esto es una gran noticia porque va a permitir a.
+
+Date: 2026-07-13
+
+### Apple prepara una revolución: el chip M7 Ultra triplicará la memoria de sus Mac más potentes
+
+prepara una revolución para su próximo procesador de gama alta. El M7 Ultra podría llegar con soporte para hasta 1,5 TB de memoria unificada según nuevas filtraciones. Esta cifra multiplicaría por tres la capacidad máxima que hasta hace unos meses ofrecía el M3 Ultra en el Mac Studio. Según recoge Bloomberg , App.
+
+Date: 2026-07-13
 
 ### Olvídate de un iPhone 18 sin subida de precio: el plan de Apple ha fallado. Puedes ir ahorrando (más)
 
@@ -52,4 +64,5 @@ Date: 2026-07-10
 
 ## Fuentes
 
-No public source links.
+- [iOS 27 lanza su beta pública con Siri AI: cómo instalarla y iPhone compatibles](https://hipertextual.com/apple/ios-27-beta-publica-ya-disponible-como-instalar-iphone-compatibles/?utm_source=lootura.com) — 2026-07-13T21:40:36.000Z
+- [Apple prepara una revolución: el chip M7 Ultra triplicará la memoria de sus Mac más potentes](https://hipertextual.com/apple/apple-m7-ultra-memoria-unificada-1-5-tb/?utm_source=lootura.com) — 2026-07-13T21:15:00.000Z

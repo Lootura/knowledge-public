@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/russia/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/russia/index.json",
   "description": "Follow Russia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-13T20:55:54.181Z",
+  "updatedAt": "2026-07-14T02:12:59.212Z",
   "aliases": [],
   "changes": [
     {
@@ -63,6 +63,12 @@
     }
   ],
   "sources": [
+    {
+      "title": "News Wrap: Judge says Trump's lawsuit against IRS filed for 'improper purpose'",
+      "url": "https://www.pbs.org/newshour/show/news-wrap-judge-says-trumps-lawsuit-against-irs-filed-for-improper-purpose?utm_source=lootura.com",
+      "publishedAt": "2026-07-13T22:45:40.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
+    },
     {
       "title": "Ukraine and 9 other countries form coalition to protect Europe from ballistic missiles",
       "url": "https://www.pbs.org/newshour/world/ukraine-and-9-other-countries-form-coalition-to-protect-europe-from-ballistic-missiles?utm_source=lootura.com",

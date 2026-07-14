@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/es/topic/artificial-intelligence/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/topic/artificial-intelligence/index.json",
   "description": "Sigue la actividad de Artificial intelligence en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-13T20:55:35.407Z",
+  "updatedAt": "2026-07-14T02:12:41.111Z",
   "aliases": [
     "AI",
     "machine learning"
   ],
   "changes": [
+    {
+      "title": "iOS 27 lanza su beta pública con Siri AI: cómo instalarla y iPhone compatibles",
+      "summary": "Apple acaba de lanzar la primera beta pública de iOS 27 , su nuevo sistema operativo para el iPhone. Después de iniciar las pruebas con la versión para desarrolladores, los de Cupertino han habilitado el acceso general a la edición todavía no finalizada de su software. Y esto es una gran noticia porque va a permitir a.",
+      "date": "2026-07-13"
+    },
     {
       "title": "La NASA busca voluntarios para su próxima misión a Marte",
       "summary": "Cuando pensamos en una misión a Marte solemos imaginar cohetes gigantescos, motores revolucionarios o escudos contra la radiación cósmica. Sin embargo, uno de los mayores obstáculos para llegar al planeta rojo podría no estar fuera de la nave, sino dentro de ella. ¿Cómo reaccionan cuatro personas cuando pasan un año ai.",
@@ -32,11 +37,11 @@
   ],
   "sources": [
     {
-      "title": "Samsung borrará tus datos de salud si no dejas que entrenen su IA con ellos",
-      "url": "https://hipertextual.com/mobile/samsung-health-datos-salud-ia-entrenamiento/?utm_source=lootura.com",
-      "publishedAt": "2026-07-13T18:14:00.000Z",
+      "title": "iOS 27 lanza su beta pública con Siri AI: cómo instalarla y iPhone compatibles",
+      "url": "https://hipertextual.com/apple/ios-27-beta-publica-ya-disponible-como-instalar-iphone-compatibles/?utm_source=lootura.com",
+      "publishedAt": "2026-07-13T21:40:36.000Z",
       "sourceId": "lootura-es-hipertextual"
     }
   ],
-  "evidenceCount": 0
+  "evidenceCount": 1
 }

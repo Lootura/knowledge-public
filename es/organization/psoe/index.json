@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/psoe/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/psoe/index.json",
   "description": "Sigue la actividad de Partido Socialista Obrero Español en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-13T10:57:59.389Z",
+  "updatedAt": "2026-07-14T02:12:41.111Z",
   "aliases": [
     "Partido Socialista",
     "Partido Socialista Obrero Español"
   ],
   "changes": [
+    {
+      "title": "El PSOE usa una empresa pública de Defensa como agencia de colocación",
+      "summary": "La empresa pública Isdefe (Ingeniería de Sistemas para la Defensa de España), dependiente del Ministerio de Defensa, se ha situado en el centro de la polémica en los últimos días, a raíz de la dimisión de su número dos investigada en el caso Leire. La salida de Teresa Castillo, una de las 25 personas imputadas por las.",
+      "date": "2026-07-14"
+    },
     {
       "title": "El primer abogado de Ábalos declara que Leire Díez le ofreció pagar la defensa del exministro a través de una sociedad",
       "summary": "José Aníbal Álvarez, el primer abogado del exministro de Transportes José Luis Ábalos , ha reconocido este lunes como testigo en el caso Leire Díez que la exmilitante del PSOE le ofreció pagar los honorarios de la defensa del político socialista a través de una sociedad que ella tenía, aunque él se negó. El exministro.",
@@ -58,13 +63,15 @@
       "title": "Óscar López será el candidato del PSOE a la Comunidad de Madrid tras no lograr avales su rival en las primarias",
       "summary": "El secretario general del PSOE de Madrid, Óscar López , será el candidato socialista a la Presidencia de la Comunidad de Madrid en las próximas elecciones autonómicas . No habrá votación entre la militancia después de que la única precandidatura alternativa, encabezada por la abogada y militante de base Silvia López Qu.",
       "date": "2026-07-11"
-    },
-    {
-      "title": "Enma López logra los avales necesarios y competirá contra Reyes Maroto para ser candidata del PSOE en Madrid",
-      "summary": "El PSOE de Madrid ha despejado este sábado sus dos grandes incógnitas de cara a las elecciones de 2027, y lo ha hecho con dos escenarios diametralmente opuestos. Mientras que a nivel regional Ferraz ha coronado sin sorpresas ni votaciones al ministro Óscar López como candidato a la Puerta del Sol, la carrera por la Alc.",
-      "date": "2026-07-11"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "El PSOE usa una empresa pública de Defensa como agencia de colocación",
+      "url": "https://www.abc.es/espana/psoe-usa-empresa-publica-defensa-isdefe-agencia-20260714023941-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-14T01:10:04.000Z",
+      "sourceId": "lootura-es-abc"
+    }
+  ],
+  "evidenceCount": 1
 }

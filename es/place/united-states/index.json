@@ -8,13 +8,28 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/united-states/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/united-states/index.json",
   "description": "Sigue la actividad de Estados Unidos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-13T20:55:35.407Z",
+  "updatedAt": "2026-07-14T02:12:41.111Z",
   "aliases": [
     "America",
     "Estados Unidos",
     "U.S."
   ],
   "changes": [
+    {
+      "title": "Trump dice que EEUU investiga si Irán tiene drones almacenados en Cuba",
+      "summary": "El presidente de Estados Unidos, Donald Trump , ha asegurado este lunes que su Gobierno investiga la posible presencia de drones iraníes almacenados en Cuba y ha advertido de que Washington actuará si confirma esa información. \"Si los tienen, y es muy posible que los tengan , nos encargaremos de ello\", ha declarado Tru.",
+      "date": "2026-07-14"
+    },
+    {
+      "title": "Doce estados de EEUU demandan a Warner Bros y Paramount para bloquear su fusión",
+      "summary": "Una coalición de doce estados de Estados Unidos emprendió una demanda que impugna la adquisición de Warner Bros. Discovery, Inc. por parte de Paramount.",
+      "date": "2026-07-13"
+    },
+    {
+      "title": "Trump amenaza con volver a atacar a Irán: «Los golpearemos muy duro esta noche y mañana»",
+      "summary": "El presidente de Estados Unidos, Donald Trump , aseguró este lunes que las fuerzas armadas de su país atacarán con fuerza a Irán «esta noche» y «mañana», en medio del restablecimiento de las hostilidades con Teherán. «Vamos a golpearlos muy duro esta noche y vamos a golpearlos muy duro mañana, y no hay absolutamente na.",
+      "date": "2026-07-13"
+    },
     {
       "title": "¿Y si al final EEUU e Irán se ponen de acuerdo y cobran por pasar por Ormuz?",
       "summary": "Cuando, al inicio de la guerra desatada por Estados Unidos e Israel contra Irán, el régimen de los ayatolas cerró el paso por el estrecho de Ormuz a cualquier barco en un intento de conseguir que países dependientes de las importaciones de crudo de la zona presionaran para parar el conflicto, la medida fue criticada po.",
@@ -23,11 +38,6 @@
     {
       "title": "Estados Unidos prueba en Marruecos misiles de precisión de largo alcance",
       "summary": "Las armas tienen un alcance de 290 kilómetros y se puede lanzar desde diversas plataformas.",
-      "date": "2026-07-13"
-    },
-    {
-      "title": "Doce estados de EEUU demandan a Warner Bros y Paramount para bloquear su fusión",
-      "summary": "Una coalición de doce estados de Estados Unidos emprendió una demanda que impugna la adquisición de Warner Bros. Discovery, Inc. por parte de Paramount.",
       "date": "2026-07-13"
     },
     {
@@ -54,36 +64,20 @@
       "title": "Trump, sobre el estrecho de Ormuz: «Lo vamos a mantener seguro y lo vamos a administrar»",
       "summary": "El presidente de Estados Unidos , Donald Trump , dijo este lunes que su país se convertirá en el «guardián» del estrecho de Ormuz y aseguró que Washington debería ser compensado por proteger la estratégica vía de comercio, interrumpida por Irán en medio de la actual escalada en el conflicto. «Vamos a golpearlos muy dur.",
       "date": "2026-07-13"
-    },
-    {
-      "title": "Detenido en Ibiza el activista millonario marxista 'Fergie' Chambers, buscado por EE.UU.",
-      "summary": "El multimillonario estadounidense James Cox 'Fergie' Chambers Jr. , heredero de la fortuna de Cox Enterprises y uno de los principales financiadores de grupos militantes propalestinos en Estados Unidos, permanece ingresado en el centro penitenciario de Ibiza desde el pasado sábado después de ser detenido en cumplimient.",
-      "date": "2026-07-13"
-    },
-    {
-      "title": "Dentro de la Casa Blanca: así ejerce Trump un poder desenfrenado para dejar su huella en la historia",
-      "summary": "Si hay un punto de inflexión en el legado de Donald Trump como presidente de Estados Unidos, hay que buscarlo en el 20 de enero de 2025, el primer día de su regreso al Despacho Oval tras su abrupta salida en 2021, cuando fue derrotado por Joe Biden y convertido en un paria político por agitar a una muchedumbre enfervor.",
-      "date": "2026-07-13"
     }
   ],
   "sources": [
     {
-      "title": "Como en Qatar 2022, Argentina y Messi se rebelan al dominio europeo",
-      "url": "https://elpais.com/deportes/mundial-futbol/2026-07-13/como-en-qatar-2022-argentina-y-messi-se-rebelan-al-dominio-europeo.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-13T12:11:34.000Z",
-      "sourceId": "lootura-es-el-pais"
+      "title": "Trump dice que EEUU investiga si Irán tiene drones almacenados en Cuba",
+      "url": "https://www.20minutos.es/internacional/trump-dice-que-eeuu-investiga-si-iran-tiene-drones-almacenados-cuba_7014204_0.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-14T00:07:41.000Z",
+      "sourceId": "lootura-es-20minutos"
     },
     {
-      "title": "¿Y si al final EEUU e Irán se ponen de acuerdo y cobran por pasar por Ormuz?",
-      "url": "https://www.expansion.com/opinion/2026/07/13/6a551d55e5fdea33278b4575.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-13T17:24:57.000Z",
-      "sourceId": "lootura-es-expansion"
-    },
-    {
-      "title": "Estados Unidos prueba en Marruecos misiles de precisión de largo alcance",
-      "url": "https://www.larazon.es/espana/estados-unidos-prueba-marruecos-misiles-precision-largo-alcance_202607136a5524bec48a78681b87300f.html?outputType=amp&utm_source=lootura.com",
-      "publishedAt": "2026-07-13T17:47:42.000Z",
-      "sourceId": "lootura-es-la-razon"
+      "title": "Trump amenaza con volver a atacar a Irán: «Los golpearemos muy duro esta noche y mañana»",
+      "url": "https://theobjective.com/internacional/2026-07-13/trump-volvera-atacar-iran/?utm_source=lootura.com",
+      "publishedAt": "2026-07-13T21:00:08.000Z",
+      "sourceId": "lootura-es-the-objective"
     },
     {
       "title": "Doce estados de EEUU demandan a Warner Bros y Paramount para bloquear su fusión",

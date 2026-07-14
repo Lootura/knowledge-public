@@ -8,13 +8,13 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/iran/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/iran/index.json",
   "description": "Sigue la actividad de Iran en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-13T20:55:35.407Z",
+  "updatedAt": "2026-07-14T02:12:41.111Z",
   "aliases": [],
   "changes": [
     {
-      "title": "El petróleo se dispara tras anunciar Trump un bloqueo a Irán y un peaje de EE UU en Ormuz",
-      "summary": "Donald Trump ha anunciado al final de la tarde de este lunes que la Marina estadounidense volverá a bloquear el traspaso de embarcaciones iraníes por el estrecho de Ormuz y que además cobrará un peaje del 20% de la carga a cada barco que cruce el paso. El presidente estadounidense no ha detallado cómo aplicará este tri.",
-      "date": "2026-07-13"
+      "title": "Trump dice que EEUU investiga si Irán tiene drones almacenados en Cuba",
+      "summary": "El presidente de Estados Unidos, Donald Trump , ha asegurado este lunes que su Gobierno investiga la posible presencia de drones iraníes almacenados en Cuba y ha advertido de que Washington actuará si confirma esa información. \"Si los tienen, y es muy posible que los tengan , nos encargaremos de ello\", ha declarado Tru.",
+      "date": "2026-07-14"
     },
     {
       "title": "El plan de Israel para convertir al ex presidente Ahmadineyad en líder del Irán posayatolás, según el 'New York Times'",
@@ -24,6 +24,16 @@
     {
       "title": "Trump restablece el cerco naval a Irán y dice que cobrará el 20% por proteger a los buques en Ormuz",
       "summary": "Washington y Teherán intercambian ataques por sexta noche consecutiva Leer.",
+      "date": "2026-07-13"
+    },
+    {
+      "title": "Trump amenaza con volver a atacar a Irán: «Los golpearemos muy duro esta noche y mañana»",
+      "summary": "El presidente de Estados Unidos, Donald Trump , aseguró este lunes que las fuerzas armadas de su país atacarán con fuerza a Irán «esta noche» y «mañana», en medio del restablecimiento de las hostilidades con Teherán. «Vamos a golpearlos muy duro esta noche y vamos a golpearlos muy duro mañana, y no hay absolutamente na.",
+      "date": "2026-07-13"
+    },
+    {
+      "title": "El petróleo se dispara tras anunciar Trump un bloqueo a Irán y un peaje de EE UU en Ormuz",
+      "summary": "Donald Trump ha anunciado al final de la tarde de este lunes que la Marina estadounidense volverá a bloquear el traspaso de embarcaciones iraníes por el estrecho de Ormuz y que además cobrará un peaje del 20% de la carga a cada barco que cruce el paso. El presidente estadounidense no ha detallado cómo aplicará este tri.",
       "date": "2026-07-13"
     },
     {
@@ -50,24 +60,14 @@
       "title": "La Primera de Expansión sobre el apagón, Brookfield, Inditex, Irán, Mitsubishi y la IA china",
       "summary": "La Primera de Expansión les cuenta hoy que el Gobierno rechaza que el Consorcio de Compensación de Seguros asuma el pago de las indemnizaciones por el apagón.",
       "date": "2026-07-13"
-    },
-    {
-      "title": "El petróleo modera las subidas y las Bolsas se giran al alza pese a las tensiones en Irán",
-      "summary": "La renovada tensión en Oriente Próximo, con nuevos ataques entre EE UU e Irán, tiñe de rojo las Bolsas e impulsa bruscamente los precios del petróleo. El brent sube un 3% hasta superar los 78 dólares el barril, aunque ha llegado a superar los 79 dólares, reavivando los temores a que el encarecimiento de los costes ener.",
-      "date": "2026-07-13"
-    },
-    {
-      "title": "El petróleo sube con fuerza y las Bolsas se tiñen de rojo por las tensiones en Irán",
-      "summary": "La renovada tensión en Oriente Próximo, con nuevos ataques entre EE UU e Irán, tiñe de rojo las Bolsas e impulsa bruscamente los precios del petróleo. El brent sube un 4% hasta superar los 79 dólares el barril, reavivando los temores a que el encarecimiento de los costes energéticos pueda alimentar la inflación y compl.",
-      "date": "2026-07-13"
     }
   ],
   "sources": [
     {
-      "title": "El petróleo se dispara tras anunciar Trump un bloqueo a Irán y un peaje de EE UU en Ormuz",
-      "url": "https://cincodias.elpais.com/mercados-financieros/2026-07-13/la-bolsa-y-el-ibex-35.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-13T16:27:17.000Z",
-      "sourceId": "lootura-es-cinco-dias"
+      "title": "Trump dice que EEUU investiga si Irán tiene drones almacenados en Cuba",
+      "url": "https://www.20minutos.es/internacional/trump-dice-que-eeuu-investiga-si-iran-tiene-drones-almacenados-cuba_7014204_0.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-14T00:07:41.000Z",
+      "sourceId": "lootura-es-20minutos"
     },
     {
       "title": "El plan de Israel para convertir al ex presidente Ahmadineyad en líder del Irán posayatolás, según el 'New York Times'",
@@ -82,17 +82,11 @@
       "sourceId": "lootura-es-el-mundo"
     },
     {
-      "title": "El Ibex cierra en rojo ante las nuevas tensiones entre EEUU e Irán",
-      "url": "https://www.expansion.com/mercados/cronica-bolsa/2026/07/13/6a547ba5468aeb78108b457b.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-13T16:06:17.000Z",
-      "sourceId": "lootura-es-expansion"
-    },
-    {
-      "title": "¿Y si al final EEUU e Irán se ponen de acuerdo y cobran por pasar por Ormuz?",
-      "url": "https://www.expansion.com/opinion/2026/07/13/6a551d55e5fdea33278b4575.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-13T17:24:57.000Z",
-      "sourceId": "lootura-es-expansion"
+      "title": "Trump amenaza con volver a atacar a Irán: «Los golpearemos muy duro esta noche y mañana»",
+      "url": "https://theobjective.com/internacional/2026-07-13/trump-volvera-atacar-iran/?utm_source=lootura.com",
+      "publishedAt": "2026-07-13T21:00:08.000Z",
+      "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 5
+  "evidenceCount": 4
 }

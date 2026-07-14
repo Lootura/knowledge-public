@@ -3,7 +3,7 @@
 > Sigue la actividad de San Sebastián en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-13T20:55:35.407Z
+- Actualizado: 2026-07-14T02:12:41.111Z
 - Canonical: https://atlas.lootura.com/es/place/san-sebastian
 
 ## Cambios recientes
@@ -14,15 +14,21 @@ El cambio del método de cálculo de las cantidades a cobrar por GHK a las manco
 
 Date: 2026-07-13
 
-### La Batalla de San Sebastián según su último combatiente
+### «Mantenemos la misma ilusión por ganar»
 
-Hasta su fallecimiento a los 110 años, Mateo Balbuena recordaba vívidamente los acontecimientos de julio de 1936.
+Lucía Canal y Naroa Landa, remeras de Donostia Arraun Lagunak, celebran haber ondeado todas las banderas en un sobresaliente inicio de temporada.
 
-Date: 2026-07-12
+Date: 2026-07-13
 
 ### Discovered by Atlas
 
 San Sebastián first entered the public knowledge record with source-backed evidence.
+
+Date: 2026-07-12
+
+### La Batalla de San Sebastián según su último combatiente
+
+Hasta su fallecimiento a los 110 años, Mateo Balbuena recordaba vívidamente los acontecimientos de julio de 1936.
 
 Date: 2026-07-12
 
@@ -34,5 +40,5 @@ Date: 2026-07-12
 
 ## Fuentes
 
-- [La Batalla de San Sebastián según su último combatiente](https://www.diariovasco.com/gipuzkoa/historia/batalla-san-sebastian-segun-ultimo-combatiente-20260713000419-nt_amp.html?utm_source=lootura.com) — 2026-07-12T22:04:19.000Z
+- [«Mantenemos la misma ilusión por ganar»](https://www.diariovasco.com/remo/liga-femenina/mantenemos-ilusion-ganar-20260714000156-nt_amp.html?utm_source=lootura.com) — 2026-07-13T22:02:10.000Z
 - [La tasa de basura de Donostia subirá más de lo previsto en 2027 tras las nuevas tarifas de Gipuzkoa](https://www.diariovasco.com/san-sebastian/tasa-basura-subira-previsto-2027-tras-nuevas-20260713185247-nt_amp.html?utm_source=lootura.com) — 2026-07-13T16:54:56.000Z

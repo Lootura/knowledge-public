@@ -3,16 +3,10 @@
 > Follow Ukraine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-13T20:55:54.181Z
+- Updated: 2026-07-14T02:12:59.212Z
 - Canonical: https://atlas.lootura.com/us/place/ukraine
 
 ## Recent changes
-
-### With Lindsey Graham Gone, Ukraine Loses an Ally in Trump’s Ear
-
-The South Carolina Republican was Ukraine’s most influential champion inside President Trump’s mostly “America First” political orbit.
-
-Date: 2026-07-13
 
 ### Ukraine and 9 other countries form coalition to protect Europe from ballistic missiles
 
@@ -23,6 +17,12 @@ Date: 2026-07-13
 ### Ukraine fears it will have a weaker link to Trump after Sen. Lindsey Graham's sudden death
 
 has lost a close ally in President Donald Trump's orbit, leaving its leaders grappling with the implications for their war-torn country.
+
+Date: 2026-07-13
+
+### With Lindsey Graham Gone, Ukraine Loses an Ally in Trump’s Ear
+
+The South Carolina Republican was Ukraine’s most influential champion inside President Trump’s mostly “America First” political orbit.
 
 Date: 2026-07-13
 
@@ -72,4 +72,3 @@ Date: 2026-07-12
 
 - [Ukraine fears it will have a weaker link to Trump after Sen. Lindsey Graham's sudden death](https://www.pbs.org/newshour/world/ukraine-fears-it-will-have-a-weaker-link-to-trump-after-sen-lindsey-grahams-sudden-death?utm_source=lootura.com) — 2026-07-13T19:17:26.000Z
 - [Ukraine and 9 other countries form coalition to protect Europe from ballistic missiles](https://www.pbs.org/newshour/world/ukraine-and-9-other-countries-form-coalition-to-protect-europe-from-ballistic-missiles?utm_source=lootura.com) — 2026-07-13T17:51:08.000Z
-- [With Lindsey Graham Gone, Ukraine Loses an Ally in Trump’s Ear](https://www.nytimes.com/2026/07/12/us/lindsey-graham-ukraine.html?utm_source=lootura.com) — 2026-07-13T12:12:41.000Z

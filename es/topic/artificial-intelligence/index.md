@@ -3,10 +3,16 @@
 > Sigue la actividad de Artificial intelligence en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: topic
-- Actualizado: 2026-07-13T20:55:35.407Z
+- Actualizado: 2026-07-14T02:12:41.111Z
 - Canonical: https://atlas.lootura.com/es/topic/artificial-intelligence
 
 ## Cambios recientes
+
+### iOS 27 lanza su beta pública con Siri AI: cómo instalarla y iPhone compatibles
+
+Apple acaba de lanzar la primera beta pública de iOS 27 , su nuevo sistema operativo para el iPhone. Después de iniciar las pruebas con la versión para desarrolladores, los de Cupertino han habilitado el acceso general a la edición todavía no finalizada de su software. Y esto es una gran noticia porque va a permitir a.
+
+Date: 2026-07-13
 
 ### La NASA busca voluntarios para su próxima misión a Marte
 
@@ -28,4 +34,4 @@ Date: 2026-07-10
 
 ## Fuentes
 
-- [Samsung borrará tus datos de salud si no dejas que entrenen su IA con ellos](https://hipertextual.com/mobile/samsung-health-datos-salud-ia-entrenamiento/?utm_source=lootura.com) — 2026-07-13T18:14:00.000Z
+- [iOS 27 lanza su beta pública con Siri AI: cómo instalarla y iPhone compatibles](https://hipertextual.com/apple/ios-27-beta-publica-ya-disponible-como-instalar-iphone-compatibles/?utm_source=lootura.com) — 2026-07-13T21:40:36.000Z

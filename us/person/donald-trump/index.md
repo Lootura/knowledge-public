@@ -3,38 +3,20 @@
 > Follow Donald Trump, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-07-13T20:55:54.181Z
+- Updated: 2026-07-14T02:12:59.212Z
 - Canonical: https://atlas.lootura.com/us/person/donald-trump
 
 ## Recent changes
 
-### Sen. Lindsey Graham's cause of death was aortic dissection, medical examiner says
+### Democratic Senate Candidates in Maine Denounce Deadly ICE Shooting
 
-President Trump paid tribute to the late senator, who was reportedly scheduled to do an interview on Sunday.
+The killing of a man in Biddeford quickly became an issue in the Senate race, with Democrats aiming to tie Senator Susan Collins to President Trump’s immigration crackdown.
 
-Date: 2026-07-13
+Date: 2026-07-14
 
 ### Mercurial and Magnetic, Lindsey Graham Was a Force in the Senate
 
 The sharp-witted South Carolinian repaired relations with President Trump to advance his foreign policy goals, was willing to cut deals with Democrats and tried to insert himself into every legislative fight.
-
-Date: 2026-07-13
-
-### With Lindsey Graham Gone, Ukraine Loses an Ally in Trump’s Ear
-
-The South Carolina Republican was Ukraine’s most influential champion inside President Trump’s mostly “America First” political orbit.
-
-Date: 2026-07-13
-
-### Trump says U.S. will get paid to guard Strait of Hormuz: "Maybe we
-
-President Trump said, "We.
-
-Date: 2026-07-13
-
-### US and Iran Trade Strikes as Ceasefire Deal Efforts Unravel
-
-The United States and Iran traded even more attacks, some of the most intense in months, as the already fragile ceasefire continues to unravel. On Sunday, President Donald Trump told Kristen Welker on Meet the Press that the Strait of Hormuz remains open – even though Iran said earlier that it was closed. NBC’s Matt Br.
 
 Date: 2026-07-13
 
@@ -62,21 +44,39 @@ He initially called Donald Trump a “kook” who was “unfit for office,” on
 
 Date: 2026-07-13
 
-### Oil surges more than 9% after Trump reimposes Iran blockade
+### Funding milestone detected
 
-The price of oil jumped after President Trump declared on social media that the U.S. would be “reimbursed” for helping ships transit the Strait of Hormuz.
+NPR has learned that the Department of Health and Human Services will not be finalizing its most aggressive attempt to end gender-affirming care for youth nationally. (Image credit: Erik McGregor).
+
+Date: 2026-07-13
+
+### Ukraine fears it will have a weaker link to Trump after Sen. Lindsey Graham's sudden death
+
+Ukraine has lost a close ally in President Donald Trump's orbit, leaving its leaders grappling with the implications for their war-torn country.
+
+Date: 2026-07-13
+
+### ICE Agent Kills Person in Vehicle in Biddeford, Maine, State Officials Say
+
+The killing occurred in Biddeford, about 20 miles south of Portland. The Trump administration has stepped up immigration enforcement nationally in recent weeks.
+
+Date: 2026-07-13
+
+### Trump’s Threat to Impose Fees in the Strait of Hormuz Contradicts His Aides
+
+President Trump said the United States could collect tolls or fees, despite Vice President JD Vance and Secretary of State Marco Rubio saying no country could do so.
 
 Date: 2026-07-13
 
 ## Sources
 
 - [Judge rebukes Trump and DOJ over IRS lawsuit in scathing decision](https://www.cbsnews.com/news/judge-trump-justice-department-irs-lawsuit-anti-weaponization-fund-settlement/?utm_source=lootura.com) — 2026-07-13T19:48:14.000Z
-- [Sen. Lindsey Graham's cause of death was aortic dissection, medical examiner says](https://www.cbsnews.com/news/senator-lindsey-graham-dies-after-brief-and-sudden-illness/?utm_source=lootura.com) — 2026-07-13T10:30:00.000Z
-- [Trump says U.S. will get paid to guard Strait of Hormuz: "Maybe we](https://www.cbsnews.com/news/trump-iran-war-us-guardian-strait-of-hormuz-get-paid/?utm_source=lootura.com) — 2026-07-13T14:29:20.000Z
-- [US and Iran Trade Strikes as Ceasefire Deal Efforts Unravel](https://www.today.com/video/us-and-iran-trade-strikes-as-ceasefire-deal-efforts-unravel-266581061712?utm_source=lootura.com) — 2026-07-13T11:21:19.000Z
-- [Oil surges more than 9% after Trump reimposes Iran blockade](https://www.nbcnews.com/business/markets/oil-rises-trump-reimposes-hormuz-blockade-rcna587297?utm_source=lootura.com) — 2026-07-13T15:01:13.000Z
-- [Appointment of Lindsey Graham's sister to Senate a 'fitting tribute’: Former South Carolina governor](https://www.nbcnews.com/meet-the-press/video/appointment-of-lindsey-graham-s-sister-to-senate-a-fitting-tribute-former-south-carolina-governor-266606661732?utm_source=lootura.com) — 2026-07-13T20:37:47.000Z
+- [U.S. strikes Iran for third night after Trump reinstates Iran blockade](https://www.nbcnews.com/nightly-news/video/u-s-strikes-iran-for-third-night-after-trump-reinstates-iran-blockade-266616901697?utm_source=lootura.com) — 2026-07-13T23:15:42.000Z
+- [Trump calls late Sen. Lindsey Graham a 'great friend'](https://www.nbcnews.com/video/trump-calls-late-sen-lindsey-graham-a-great-friend-266614341932?utm_source=lootura.com) — 2026-07-13T22:35:33.000Z
 - [Trump's HHS abandons threat to withhold Medicare and Medicaid funding over trans care](https://www.npr.org/2026/07/13/nx-s1-5888586/transgender-gender-affirming-care-medicare-medicaid-hhs?utm_source=lootura.com) — 2026-07-13T20:22:49.000Z
-- [South Carolina's governor names Lindsey Graham's sister to serve out his term](https://www.npr.org/2026/07/13/nx-s1-5891839/lindsey-graham-senate-seat-darline-graham?utm_source=lootura.com) — 2026-07-13T20:17:53.000Z
 - [Trump urges S.C. governor to appoint Sen. Graham's sister as temporary replacement](https://www.pbs.org/newshour/politics/trump-urges-s-c-governor-to-appoint-sen-grahams-sister-as-temporary-replacement?utm_source=lootura.com) — 2026-07-13T17:15:57.000Z
+- [Trump reduces the size of 2 national monuments in Utah as Republicans reshape land management](https://www.pbs.org/newshour/nation/trump-reduces-the-size-of-2-national-monuments-in-utah-as-republicans-reshape-land-management?utm_source=lootura.com) — 2026-07-13T22:28:13.000Z
+- [Trump says U.S. 'taking over the strait' as conflict with Iran reignites](https://www.pbs.org/newshour/show/trump-says-u-s-taking-over-the-strait-as-conflict-with-iran-reignites?utm_source=lootura.com) — 2026-07-13T22:55:49.000Z
 - [Ukraine fears it will have a weaker link to Trump after Sen. Lindsey Graham's sudden death](https://www.pbs.org/newshour/world/ukraine-fears-it-will-have-a-weaker-link-to-trump-after-sen-lindsey-grahams-sudden-death?utm_source=lootura.com) — 2026-07-13T19:17:26.000Z
+- [Lindsey Graham's career and influence on American politics](https://www.pbs.org/newshour/show/lindsey-grahams-impact-and-influence-on-american-politics?utm_source=lootura.com) — 2026-07-13T22:50:43.000Z
+- [Trump suggests he has left a standing order to attack Iran if it assassinates him. But Vance would make the call](https://www.pbs.org/newshour/nation/trump-suggests-he-has-left-a-standing-order-to-attack-iran-if-it-assassinates-him-but-vance-would-make-the-call?utm_source=lootura.com) — 2026-07-13T17:41:47.000Z

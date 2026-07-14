@@ -3,10 +3,22 @@
 > Sigue la actividad de Madrid en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-13T20:55:35.407Z
+- Actualizado: 2026-07-14T02:12:41.111Z
 - Canonical: https://atlas.lootura.com/es/place/madrid
 
 ## Cambios recientes
+
+### El primer tren sin conductor de Metro de Madrid se prueba este verano en las líneas 10, 11 y 12
+
+El futuro del suburbano madrileño ya está aquí. El primer tren autónomo del casi medio centenar que circulará por la línea 6 de Metro de Madrid , que lleva meses preparándose para su última y puntera renovación, ya ha llegado a la región desde las plantas de la empresa CAF en Beasain e Irún. Más amplio, más rápido y me.
+
+Date: 2026-07-14
+
+### Una reforma que premia a Cataluña: ganaría 92 euros por habitante, pese a recibir ya 93 más que Madrid
+
+Cataluña aporta a la caja común un 8% de su capacidad tributaria frente al 26% de Madrid, pero tiene más deuda porque gasta más por habitante en el Estado del bienestar Leer.
+
+Date: 2026-07-13
 
 ### La patronal madrileña apoya a Garamendi en las elecciones de CEOE
 
@@ -56,20 +68,7 @@ Un aparatoso accidente de tráfico en el Paseo de la Castellana , en Madrid , ha
 
 Date: 2026-07-13
 
-### Entramos en la bonita terraza de Ana Belén y Víctor Manuel en Prosperidad: oasis botánico, toque asturiano y perfecta para desayunar
-
-Ana Belén y Víctor Manuel residen, desde hace muchos años, en Madrid . Concretamente, en la colonia de Alfonso XIII, en el barrio de Prosperidad, donde se compraron un bonito chalé de varias plantas donde cuentan con un impresionante jardín y una preciosa terraza que es ideal para los meses de verano. Lo cierto es que,.
-
-Date: 2026-07-13
-
-### Siete heridos, dos graves, en un accidente múltiple con tres coches en Alcorcón (Madrid)
-
-Siete personas han resultado heridas -dos de ellas de carácter grave y cinco leves- tras un accidente con tres vehículos implicados en el kilómetro 11 de la A-5 , a la altura de Alcorcón , en sentido salida del municipio. Según informa el servicio de Emergencias 112 de la Comunidad de Madrid , la primera llamada se ha.
-
-Date: 2026-07-13
-
 ## Fuentes
 
-- [La patronal madrileña apoya a Garamendi en las elecciones de CEOE](https://elpais.com/economia/2026-07-13/la-patronal-madrilena-apoya-a-garamendi-en-las-elecciones-de-ceoe.html?utm_source=lootura.com) — 2026-07-13T16:17:31.000Z
-- [KZEN, el clásico asiático que sigue conquistando el barrio de Salamanca](https://www.larazon.es/gastronomia/kzen-clasico-asiatico-que-sigue-conquistando-barrio-salamanca_202607136a5541ccc48a78681b876181.html?utm_source=lootura.com) — 2026-07-13T19:51:40.000Z
-- [Seis hospitales públicos madrileños, en el "Top Ten" de los mejores 25 centros de España](https://www.larazon.es/madrid/seis-hospitales-publicos-madrilenos-top-ten-mejores-25-centros-espana_202607136a55224bc0b5fb431c53834b.html?utm_source=lootura.com) — 2026-07-13T17:37:16.000Z
+- [El primer tren sin conductor de Metro de Madrid se prueba este verano en las líneas 10, 11 y 12](https://www.abc.es/espana/madrid/primer-tren-conductor-metro-madrid-prueba-verano-20260713143326-nt.html?utm_source=lootura.com) — 2026-07-14T01:09:12.000Z
+- [Una reforma que premia a Cataluña: ganaría 92 euros por habitante, pese a recibir ya 93 más que Madrid](https://www.elmundo.es/economia/macroeconomia/2026/07/13/6a54e069e85ece44248b458d.html?utm_source=lootura.com) — 2026-07-13T20:48:37.000Z

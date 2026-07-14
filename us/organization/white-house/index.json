@@ -8,9 +8,14 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/white-house/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/white-house/index.json",
   "description": "Follow White House, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-13T17:53:11.557Z",
+  "updatedAt": "2026-07-14T02:12:59.212Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "How Lindsey Graham’s death quickly changes a busy Senate: From the Politics Desk",
+      "summary": "Welcome to From the Politics Desk, a daily newsletter that brings you the NBC News Politics team’s latest reporting and analysis from the White House, Capitol Hill and the campaign trail.",
+      "date": "2026-07-13"
+    },
     {
       "title": "Texas Hispanics swung hard to Trump. A new poll shows they’re furious at his deportations.",
       "summary": "Benny Melendez voted for President Donald Trump in 2024. But since Trump returned to the White House, it has been increasingly difficult for Melendez to run his small construction company in south Texas. He says immigration officers have detained workers at his job sites and while driving his company trucks. Since the.",
@@ -55,13 +60,15 @@
       "title": "Political Candidates Have An Opening on Clean Energy",
       "summary": "—Andrew Merry—Getty Images It’s 2026, gas prices are still too high, and oil executives are warning the White House that costs could get worse before they get better. The Trump Administration is taking note. And if the Democrats want to win in November they will need to stop talking like policy wonks and start talking.",
       "date": "2026-07-10"
-    },
-    {
-      "title": "Smithsonian chief emphasizes 'accuracy and integrity' after White House report",
-      "summary": "The memo from the Smithsonian's secretary, Lonnie Bunch, responded to a White House report that calls the National Museum of American History driven by \"a radical, activist ideology.\" (Image credit: J. Scott Applewhite).",
-      "date": "2026-07-09"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "How Lindsey Graham’s death quickly changes a busy Senate: From the Politics Desk",
+      "url": "https://www.nbcnews.com/politics/politics-news/lindsey-grahams-death-quickly-changes-busy-senate-politics-desk-rcna587387?utm_source=lootura.com",
+      "publishedAt": "2026-07-13T22:20:31.000Z",
+      "sourceId": "lootura-us-nbc-news-politics"
+    }
+  ],
+  "evidenceCount": 1
 }

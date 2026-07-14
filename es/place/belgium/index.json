@@ -8,11 +8,16 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/belgium/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/belgium/index.json",
   "description": "Sigue la actividad de Bélgica en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-13T14:31:13.122Z",
+  "updatedAt": "2026-07-14T02:12:41.111Z",
   "aliases": [
     "Belgica"
   ],
   "changes": [
+    {
+      "title": "El abogado de Puigdemont le aconseja no volver ya a España aunque el TJUE le dé la razón",
+      "summary": "El abogado de Carles Puigdemont, Gonzalo Boye, recomienda al expresidente de la Generalitat que se quede en Waterloo (Bélgica) pese a que el próximo 16 de julio el Tribunal de Justicia de la Unión Europea (TJUE) le dé la razón en relación a la aplicación de la amnistía. Así lo explican fuentes cercanas a Puigdemont a A.",
+      "date": "2026-07-14"
+    },
     {
       "title": "Identifican a seis fallecidos en Los Gallardos: un español y cinco extranjeros",
       "summary": "El juzgado de Vera (Almería) encargado del incendio originado en Los Gallardos, que se ha cobrado la vida de 13 personas, cuenta ya con la identificación de seis víctimas , que corresponden a un ciudadano español y a cinco extranjeros, un hombre y una mujer de Reino Unido, uno de Francia, uno de Bélgica y una mujer de.",
@@ -57,13 +62,15 @@
       "title": "Un revólver y seis balas: el inesperado regalo de Erdogan en la OTAN",
       "summary": "Cuando el primer ministro de Bélgica, Bart de Wever, aterrizó en Bruselas tras finalizar la cumbre de la OTAN en Ankara (Turquía) el miércoles se dio cuenta de que, entre su equipaje, había una caja con un revólver y seis balas . Se trataba de un regalo del presidente turco, Recep Tayyip Erdogan, que no había sido dete.",
       "date": "2026-07-09"
-    },
-    {
-      "title": "Gavi: «Nuestra mayor fuerza es que todos remamos en la misma dirección»",
-      "summary": "Gavi volvió a poner el foco en el mayor patrimonio de la selección española: el grupo. El centrocampista del Barcelona compareció en la previa del encuentro frente a Bélgica y dejó claro que el éxito del equipo de Luis de la Fuente no depende únicamente del talento de sus futbolistas, sino de la unión que existe dentro.",
-      "date": "2026-07-09"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "El abogado de Puigdemont le aconseja no volver ya a España aunque el TJUE le dé la razón",
+      "url": "https://www.abc.es/espana/puigdemont-volvera-espana-tras-sentencia-tjue-desconfianza-20260714024053-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-14T01:11:16.000Z",
+      "sourceId": "lootura-es-abc"
+    }
+  ],
+  "evidenceCount": 1
 }

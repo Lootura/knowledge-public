@@ -3,10 +3,16 @@
 > Sigue la actividad de Pedro Sánchez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-13T20:55:35.407Z
+- Actualizado: 2026-07-14T02:12:41.111Z
 - Canonical: https://atlas.lootura.com/es/person/pedro-sanchez
 
 ## Cambios recientes
+
+### Pedro Sánchez viajará a Argelia con la ruta de pateras disparada en Baleares y con dos desaparecidos en el mar
+
+Sánchez viajará a Argelia con su ruta de pateras disparada en Baleares y con dos desaparecidos en el mar de las Islas Baleares.
+
+Date: 2026-07-14
 
 ### Pedro Sánchez apela a la firma de un pacto nacional frente a la emergencia climática delante de Juanma Moreno, investido gracias a Vox
 
@@ -26,9 +32,15 @@ La presidenta madrileña, Isabel Díaz Ayuso, ha augurado este lunes, en alusió
 
 Date: 2026-07-13
 
-### Sánchez llama a actuar con "unidad" y "celeridad" ante los incendios e insiste en impulsar un pacto de Estado climático
+### Errores no forzados en el PP
 
-El presidente del Gobierno, Pedro Sánchez , ha visitado este lunes el Puesto de Mando Avanzado desplegado por el incendio de Los Gallardos, en Almería, desde donde ha reclamado acelerar el Pacto de Estado frente a la emergencia climática que anunció en 2025 y que todavía se negocia con los grupos parlamentarios en el C.
+Más de una vez nos hemos referido a que Alberto Núñez Feijóo estaba mucho más suelto y feliz cuando era presidente de la Xunta de Galicia que ahora que ejerce de jefe de la oposición. No es nada fácil lidiar con Pedro Sánchez y aguantar diariamente la presión de la opinión publicada, que oscila entre los que le critica.
+
+Date: 2026-07-13
+
+### Rajoy enoja a Francia mientras el Gobierno acusa al PP de torpedear la política exterior
+
+El Partido Popular ya logró concitar la irritación de los gobiernos de Pedro Sánchez y Emmanuel Macron, por bloquear hace una semana en el Senado el tratado de amistad que ambos mandatarios sellaron en la cumbre hispanofrancesa celebrada en Barcelona el 19 de enero del 2023. Y ahora unas polémicas palabras del expresid.
 
 Date: 2026-07-13
 
@@ -56,20 +68,11 @@ Isabel Díaz Ayuso , presidenta de la Comunidad de Madrid, ha arremetido contra 
 
 Date: 2026-07-13
 
-### Sánchez y Moreno se unen en Almería para respaldar el dispositivo contra los incendios
-
-El presidente del Gobierno, Pedro Sánchez , y el de la Junta de Andalucía, Juanma Moreno (PP-A), han coincidido en el puesto de mando avanzado instalado en Turre ( Almería ) con motivo del incendio forestal declarado el pasado jueves en el término municipal almeriense de Los Gallardos, en el que han muerto al menos 13.
-
-Date: 2026-07-13
-
-### Pedro Sánchez y Juanma Moreno coinciden en la visita al puesto de mando avanzado del incendio de Los Gallardos
-
-El presidente del Gobierno, Pedro Sánchez , visitará este lunes, 13 de julio, las zonas afectadas por el incendio forestal de Los Gallardos (Almería) que se declaró el pasado jueves día 9, y que se ha dado por estabilizado este domingo tras cobrarse la vida de doce personas en las primeras horas de su propagación. Tamb.
-
-Date: 2026-07-13
-
 ## Fuentes
 
 - [Pedro Sánchez apela a la firma de un pacto nacional frente a la emergencia climática delante de Juanma Moreno, investido gracias a Vox](https://www.elmundo.es/espana/2026/07/13/6a54c9b9e85ece585a8b4587.html?utm_source=lootura.com) — 2026-07-13T12:36:17.000Z
 - [El juez Peinado reclama a Begoña Gómez que “acredite” que solo usó su pasaporte para viajar a Reino Unido](https://elpais.com/espana/2026-07-13/el-juez-peinado-reclama-a-begona-gomez-que-acredite-que-solo-uso-su-pasaporte-para-viajar-a-reino-unido.html?utm_source=lootura.com) — 2026-07-13T17:45:22.000Z
+- [Errores no forzados en el PP](https://www.lavanguardia.com/opinion/20260714/11591530/errores-forzados-pp.html?utm_source=lootura.com) — 2026-07-13T22:08:34.000Z
+- [Rajoy enoja a Francia mientras el Gobierno acusa al PP de torpedear la política exterior](https://www.lavanguardia.com/politica/20260714/11591461/rajoy-enoja-francia-gobierno-acusa-pp-torpedear-politica-exterior.html?utm_source=lootura.com) — 2026-07-13T22:05:00.000Z
+- [Pedro Sánchez viajará a Argelia con la ruta de pateras disparada en Baleares y con dos desaparecidos en el mar](https://okdiario.com/baleares/pedro-sanchez-viajara-argelia-ruta-pateras-disparada-baleares-dos-desaparecidos-mar-18984859/amp?utm_source=lootura.com) — 2026-07-14T02:00:50.000Z
 - [Ayuso augura que Sánchez acabará por «bajar la cabeza» tras apoyar a «herederos de ETA»](https://theobjective.com/espana/politica/2026-07-13/ayuso-sanchez-apoyo-herederos-eta/?amp=&utm_source=lootura.com) — 2026-07-13T20:21:55.000Z

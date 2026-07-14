@@ -3,10 +3,16 @@
 > Follow White House, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-07-13T17:53:11.557Z
+- Updated: 2026-07-14T02:12:59.212Z
 - Canonical: https://atlas.lootura.com/us/organization/white-house
 
 ## Recent changes
+
+### How Lindsey Graham’s death quickly changes a busy Senate: From the Politics Desk
+
+Welcome to From the Politics Desk, a daily newsletter that brings you the NBC News Politics team’s latest reporting and analysis from the White House, Capitol Hill and the campaign trail.
+
+Date: 2026-07-13
 
 ### Texas Hispanics swung hard to Trump. A new poll shows they’re furious at his deportations.
 
@@ -62,12 +68,6 @@ Date: 2026-07-10
 
 Date: 2026-07-10
 
-### Smithsonian chief emphasizes 'accuracy and integrity' after White House report
-
-The memo from the Smithsonian's secretary, Lonnie Bunch, responded to a White House report that calls the National Museum of American History driven by "a radical, activist ideology." (Image credit: J. Scott Applewhite).
-
-Date: 2026-07-09
-
 ## Sources
 
-No public source links.
+- [How Lindsey Graham’s death quickly changes a busy Senate: From the Politics Desk](https://www.nbcnews.com/politics/politics-news/lindsey-grahams-death-quickly-changes-busy-senate-politics-desk-rcna587387?utm_source=lootura.com) — 2026-07-13T22:20:31.000Z

@@ -8,9 +8,19 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/iran/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/iran/index.json",
   "description": "Follow Iran, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-13T20:55:54.181Z",
+  "updatedAt": "2026-07-14T02:12:59.212Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "Details on newest U.S. strikes against Iran",
+      "summary": "The United States is carrying out a third night of airstrikes against Iran. CBS News national security analyst Aaron MacLean has more.",
+      "date": "2026-07-14"
+    },
+    {
+      "title": "Trump Says Fighting With Iran Has Resumed as He Orders Blockade and Tolls",
+      "summary": "After several days of strikes, the president notified Congress that fighting had begun again and announced shipping fees that his administration previously deemed illegal.",
+      "date": "2026-07-14"
+    },
     {
       "title": "Oil Prices Surge After Iran and U.S. Trade Strikes",
       "summary": "The renewed hostilities posed fresh risks to ships seeking to navigate the Strait of Hormuz.",
@@ -19,11 +29,6 @@
     {
       "title": "Morning news brief",
       "summary": "The U.S. strikes Iran for a third weekend as Iran retaliates by hitting Gulf nations, Sen. Lindsey Graham died Saturday at the age of 71, Congress returns from recess this week.",
-      "date": "2026-07-13"
-    },
-    {
-      "title": "US and Iran Trade Strikes as Ceasefire Deal Efforts Unravel",
-      "summary": "The United States and Iran traded even more attacks, some of the most intense in months, as the already fragile ceasefire continues to unravel. On Sunday, President Donald Trump told Kristen Welker on Meet the Press that the Strait of Hormuz remains open – even though Iran said earlier that it was closed. NBC’s Matt Br.",
       "date": "2026-07-13"
     },
     {
@@ -42,11 +47,6 @@
       "date": "2026-07-13"
     },
     {
-      "title": "Oil surges more than 9% after Trump reimposes Iran blockade",
-      "summary": "The price of oil jumped after President Trump declared on social media that the U.S. would be “reimbursed” for helping ships transit the Strait of Hormuz.",
-      "date": "2026-07-13"
-    },
-    {
       "title": "UK says Iran-backed group behind arson and vandalism attacks on Jewish community",
       "summary": "The U.K. government says a proxy group backed by Iran is responsible for recent arson and vandalism attacks on Jewish sites in Britain.",
       "date": "2026-07-13"
@@ -57,8 +57,8 @@
       "date": "2026-07-13"
     },
     {
-      "title": "Inside Israel’s Secret Operation to Install Ahmadinejad, Iran’s Former President, as Leader",
-      "summary": "The yearslong effort to groom the former Iranian president as an intelligence asset culminated in a dramatic effort to take him to an Israeli safe house in the early days of the war. But the plan fell apart.",
+      "title": "U.S. strikes Iran for third night after Trump reinstates Iran blockade",
+      "summary": "President Trump ordered a third consecutive night of U.S. strikes in Iran after reinstating a naval blockade of Iranian ports and proposing new fees for ships transiting the Strait of Hormuz. NBC News’ Garrett Haake reports.",
       "date": "2026-07-13"
     }
   ],
@@ -70,15 +70,15 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "US and Iran Trade Strikes as Ceasefire Deal Efforts Unravel",
-      "url": "https://www.today.com/video/us-and-iran-trade-strikes-as-ceasefire-deal-efforts-unravel-266581061712?utm_source=lootura.com",
-      "publishedAt": "2026-07-13T11:21:19.000Z",
-      "sourceId": "lootura-us-nbc-news"
+      "title": "Details on newest U.S. strikes against Iran",
+      "url": "https://www.cbsnews.com/video/details-on-newest-us-strikes-against-iran/?utm_source=lootura.com",
+      "publishedAt": "2026-07-14T01:25:44.000Z",
+      "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "Oil surges more than 9% after Trump reimposes Iran blockade",
-      "url": "https://www.nbcnews.com/business/markets/oil-rises-trump-reimposes-hormuz-blockade-rcna587297?utm_source=lootura.com",
-      "publishedAt": "2026-07-13T15:01:13.000Z",
+      "title": "U.S. strikes Iran for third night after Trump reinstates Iran blockade",
+      "url": "https://www.nbcnews.com/nightly-news/video/u-s-strikes-iran-for-third-night-after-trump-reinstates-iran-blockade-266616901697?utm_source=lootura.com",
+      "publishedAt": "2026-07-13T23:15:42.000Z",
       "sourceId": "lootura-us-nbc-news"
     },
     {
@@ -86,6 +86,12 @@
       "url": "https://www.npr.org/2026/07/13/nx-s1-5885745/morning-news-brief?utm_source=lootura.com",
       "publishedAt": "2026-07-13T08:48:40.000Z",
       "sourceId": "lootura-us-npr"
+    },
+    {
+      "title": "Trump says U.S. 'taking over the strait' as conflict with Iran reignites",
+      "url": "https://www.pbs.org/newshour/show/trump-says-u-s-taking-over-the-strait-as-conflict-with-iran-reignites?utm_source=lootura.com",
+      "publishedAt": "2026-07-13T22:55:49.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
     },
     {
       "title": "UK says Iran-backed group behind arson and vandalism attacks on Jewish community",
@@ -115,12 +121,6 @@
       "title": "Will Oil Prices Rise as the US-Iran Truce Frays? The Answer Lies With China.",
       "url": "https://www.nytimes.com/2026/07/13/business/energy-environment/oil-prices-iran-china.html?utm_source=lootura.com",
       "publishedAt": "2026-07-13T18:00:46.000Z",
-      "sourceId": "lootura-us-the-new-york-times"
-    },
-    {
-      "title": "Oil Prices Surge After Iran and U.S. Trade Strikes",
-      "url": "https://www.nytimes.com/2026/07/12/business/oil-shipping-iran-hormuz.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-13T10:33:50.000Z",
       "sourceId": "lootura-us-the-new-york-times"
     }
   ],

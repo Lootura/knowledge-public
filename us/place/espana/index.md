@@ -3,7 +3,7 @@
 > Follow Spain, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-13T17:53:11.557Z
+- Updated: 2026-07-14T02:12:59.212Z
 - Canonical: https://atlas.lootura.com/us/place/espana
 
 ## Recent changes
@@ -52,4 +52,4 @@ Date: 2026-07-09
 
 ## Sources
 
-No public source links.
+- [Breaking down the World Cup semi-final matches](https://www.cbsnews.com/video/breaking-down-the-world-cup-semi-final-matches/?utm_source=lootura.com) — 2026-07-14T01:18:42.000Z

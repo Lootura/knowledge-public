@@ -3,10 +3,16 @@
 > Sigue la actividad de Bélgica en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-13T14:31:13.122Z
+- Actualizado: 2026-07-14T02:12:41.111Z
 - Canonical: https://atlas.lootura.com/es/place/belgium
 
 ## Cambios recientes
+
+### El abogado de Puigdemont le aconseja no volver ya a España aunque el TJUE le dé la razón
+
+El abogado de Carles Puigdemont, Gonzalo Boye, recomienda al expresidente de la Generalitat que se quede en Waterloo (Bélgica) pese a que el próximo 16 de julio el Tribunal de Justicia de la Unión Europea (TJUE) le dé la razón en relación a la aplicación de la amnistía. Así lo explican fuentes cercanas a Puigdemont a A.
+
+Date: 2026-07-14
 
 ### Identifican a seis fallecidos en Los Gallardos: un español y cinco extranjeros
 
@@ -62,12 +68,6 @@ Cuando el primer ministro de Bélgica, Bart de Wever, aterrizó en Bruselas tras
 
 Date: 2026-07-09
 
-### Gavi: «Nuestra mayor fuerza es que todos remamos en la misma dirección»
-
-Gavi volvió a poner el foco en el mayor patrimonio de la selección española: el grupo. El centrocampista del Barcelona compareció en la previa del encuentro frente a Bélgica y dejó claro que el éxito del equipo de Luis de la Fuente no depende únicamente del talento de sus futbolistas, sino de la unión que existe dentro.
-
-Date: 2026-07-09
-
 ## Fuentes
 
-No public source links.
+- [El abogado de Puigdemont le aconseja no volver ya a España aunque el TJUE le dé la razón](https://www.abc.es/espana/puigdemont-volvera-espana-tras-sentencia-tjue-desconfianza-20260714024053-nt.html?utm_source=lootura.com) — 2026-07-14T01:11:16.000Z

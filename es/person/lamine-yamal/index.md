@@ -3,10 +3,16 @@
 > Sigue la actividad de Lamine Yamal en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-13T20:55:35.407Z
+- Actualizado: 2026-07-14T02:12:41.111Z
 - Canonical: https://atlas.lootura.com/es/person/lamine-yamal
 
 ## Cambios recientes
+
+### Lamine Yamal: "Francia y nosotros somos ejemplo de integración para la sociedad"
+
+Un enorme collar dorado colgaba del cuello de Lamine Yamal cuando apareció en la sala de prensa del estadio de Dallas. Un collar digno de un campeón de los pesos pesados. Un regalo por los 19 años que cumple en el día previo al enfrentamiento contra Francia, aunque con matices. " No es un regalo porque lo he pagado yo.
+
+Date: 2026-07-14
 
 ### Lamine Yamal cumple 19 a punto de hacer historia: los eventos que han marcado su vida (un apuñalamiento, lujo, varias novias y más)
 
@@ -34,4 +40,5 @@ Date: 2026-07-08
 
 ## Fuentes
 
-- [Cuándo es el España – Francia: horario del partido de la Selección y dónde ver en directo gratis y en vivo online la semifinal del Mundial 2026](https://okdiario.com/mundial/cuando-espana-francia-horario-del-partido-seleccion-donde-ver-directo-gratis-vivo-online-semifinal-del-mundial-2026-video-18983383?utm_source=lootura.com) — 2026-07-13T19:00:20.000Z
+- [Lamine Yamal: “Estoy seguro de que mañana va a ser un día especial”](https://elpais.com/deportes/mundial-futbol/2026-07-13/lamine-yamal-estoy-seguro-de-que-manana-va-a-ser-un-dia-especial.html?utm_source=lootura.com) — 2026-07-13T23:49:43.000Z
+- [Lamine Yamal: "Francia y nosotros somos ejemplo de integración para la sociedad"](https://www.larazon.es/deportes/futbol/lamine-yamal-francia-nosotros-somos-ejemplo-integracion-sociedad_202607146a557cfcc48a78681b87be60.html?utm_source=lootura.com) — 2026-07-14T00:05:08.000Z
