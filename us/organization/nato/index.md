@@ -3,10 +3,16 @@
 > Follow NATO, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-07-12T06:31:22.183Z
+- Updated: 2026-07-14T09:56:10.561Z
 - Canonical: https://atlas.lootura.com/us/organization/nato
 
 ## Recent changes
+
+### NATO spending pressure returned
+
+U.S. President Donald Trump holds a press conference at Beştepe Presidential Compound during the NATO Summit in Ankara, Türkiye, on July 8, 2026. —Chris McGrath—Getty Images President Donald Trump announced Monday that he will deliver a “Speech to the Nation” on Thursday evening, though details of exactly what he’ll di.
+
+Date: 2026-07-14
 
 ### How the Iran War Worsens the Climate Crisis
 
@@ -62,12 +68,6 @@ President Trump wrapped the NATO summit in Turkey on a positive note Wednesday, 
 
 Date: 2026-07-09
 
-### NATO spending pressure returned
-
-President Donald Trump returned to Washington, D.C., after a critical NATO summit in Turkey aboard an older Air Force One aircraft rather than the new plane gifted by Qatar. A source familiar with the president’s travel plans tells NBC News the swap was a security decision, coming as Trump warns he considers himself a.
-
-Date: 2026-07-09
-
 ## Sources
 
-No public source links.
+- [Trump to Give Primetime Speech on Thursday: What to Expect](https://time.com/article/2026/07/14/trump-to-give-primetime-speech-on-thursday-what-to-expect/?utm_source=lootura.com) — 2026-07-14T09:31:21.000Z

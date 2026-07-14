@@ -3,7 +3,7 @@
 > Follow Iran, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-14T06:09:23.919Z
+- Updated: 2026-07-14T09:56:10.561Z
 - Canonical: https://atlas.lootura.com/us/place/iran
 
 ## Recent changes
@@ -26,12 +26,6 @@ The renewed hostilities posed fresh risks to ships seeking to navigate the Strai
 
 Date: 2026-07-13
 
-### Morning news brief
-
-The U.S. strikes Iran for a third weekend as Iran retaliates by hitting Gulf nations, Sen. Lindsey Graham died Saturday at the age of 71, Congress returns from recess this week.
-
-Date: 2026-07-13
-
 ### Strait of Hormuz Ship Traffic Falls to Lowest Point in a Month After Strikes
 
 Shipping activity plummeted after Iran attacked a ship, setting off U.S. strikes. Little crude oil is being transported through the critical waterway.
@@ -41,12 +35,6 @@ Date: 2026-07-13
 ### Will Oil Prices Rise as the US-Iran Truce Frays? The Answer Lies With China.
 
 For decades, OPEC influenced the market by how much oil it produced. But China, the largest importer, is demonstrating its remarkable power over prices.
-
-Date: 2026-07-13
-
-### UK says Iran-backed group behind arson and vandalism attacks on Jewish community
-
-The U.K. government says a proxy group backed by Iran is responsible for recent arson and vandalism attacks on Jewish sites in Britain.
 
 Date: 2026-07-13
 
@@ -68,15 +56,26 @@ The U.S. is striking Iran for the third consecutive night and Iran said it fired
 
 Date: 2026-07-13
 
+### Morning news brief
+
+The U.S. strikes Iran for a third weekend as Iran retaliates by hitting Gulf nations, Sen. Lindsey Graham died Saturday at the age of 71, Congress returns from recess this week.
+
+Date: 2026-07-13
+
+### UK says Iran-backed group behind arson and vandalism attacks on Jewish community
+
+The U.K. government says a proxy group backed by Iran is responsible for recent arson and vandalism attacks on Jewish sites in Britain.
+
+Date: 2026-07-13
+
 ## Sources
 
 - [Military action against Iran formally restarted last week, Trump told lawmakers](https://www.cbsnews.com/news/iran-military-action-formally-restarted-trump-lawmakers-war-powers/?utm_source=lootura.com) — 2026-07-13T20:48:39.000Z
 - [Details on newest U.S. strikes against Iran](https://www.cbsnews.com/video/details-on-newest-us-strikes-against-iran/?utm_source=lootura.com) — 2026-07-14T01:25:44.000Z
 - [U.S. strikes Iran for third night after Trump reinstates Iran blockade](https://www.nbcnews.com/nightly-news/video/u-s-strikes-iran-for-third-night-after-trump-reinstates-iran-blockade-266616901697?utm_source=lootura.com) — 2026-07-13T23:15:42.000Z
-- [Morning news brief](https://www.npr.org/2026/07/13/nx-s1-5885745/morning-news-brief?utm_source=lootura.com) — 2026-07-13T08:48:40.000Z
 - [Trump says U.S. 'taking over the strait' as conflict with Iran reignites](https://www.pbs.org/newshour/show/trump-says-u-s-taking-over-the-strait-as-conflict-with-iran-reignites?utm_source=lootura.com) — 2026-07-13T22:55:49.000Z
-- [UK says Iran-backed group behind arson and vandalism attacks on Jewish community](https://www.pbs.org/newshour/world/uk-says-iran-backed-group-behind-arson-and-vandalism-attacks-on-jewish-community?utm_source=lootura.com) — 2026-07-13T18:41:13.000Z
 - [Strait of Hormuz Ship Traffic Falls to Lowest Point in a Month After Strikes](https://www.nytimes.com/2026/07/13/business/strait-hormuz-shipping-traffic-iran-war.html?utm_source=lootura.com) — 2026-07-13T14:18:11.000Z
 - [Yemen’s Fragile Peace in Peril as Houthis Accuse Saudi Arabia of Bombing](https://www.nytimes.com/2026/07/13/world/middleeast/yemen-houthis-saudi-arabia-iran-war.html?utm_source=lootura.com) — 2026-07-13T19:15:52.000Z
 - [Will Oil Prices Rise as the US-Iran Truce Frays? The Answer Lies With China.](https://www.nytimes.com/2026/07/13/business/energy-environment/oil-prices-iran-china.html?utm_source=lootura.com) — 2026-07-13T18:00:46.000Z
 - [Oil Prices Surge After Iran and U.S. Trade Strikes](https://www.nytimes.com/2026/07/12/business/oil-shipping-iran-hormuz.html?utm_source=lootura.com) — 2026-07-13T10:33:50.000Z
+- [Trump Says Fighting With Iran Has Resumed as He Orders Blockade and Tolls](https://www.nytimes.com/2026/07/13/us/politics/trump-iran-ceasefire.html?utm_source=lootura.com) — 2026-07-14T00:38:48.000Z

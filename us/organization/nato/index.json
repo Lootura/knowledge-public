@@ -8,13 +8,18 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/nato/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/nato/index.json",
   "description": "Follow NATO, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-12T06:31:22.183Z",
+  "updatedAt": "2026-07-14T09:56:10.561Z",
   "aliases": [
     "North Atlantic Treaty Organization",
     "OTAN",
     "Organización del Tratado del Atlántico Norte"
   ],
   "changes": [
+    {
+      "title": "NATO spending pressure returned",
+      "summary": "U.S. President Donald Trump holds a press conference at Beştepe Presidential Compound during the NATO Summit in Ankara, Türkiye, on July 8, 2026. —Chris McGrath—Getty Images President Donald Trump announced Monday that he will deliver a “Speech to the Nation” on Thursday evening, though details of exactly what he’ll di.",
+      "date": "2026-07-14"
+    },
     {
       "title": "How the Iran War Worsens the Climate Crisis",
       "summary": "Members of the 'Red Rebel Brigade', a climate activist group, walk past Iranian flags being displayed as they join a march against the far right, organized by the Together Alliance, in central London on March 28, 2026. —Henry NICHOLLS-AFP via Getty Images On Wednesday, President Donald Trump told reporters at the NATO.",
@@ -59,13 +64,15 @@
       "title": "NATO spending pressure returned",
       "summary": "President Trump wrapped the NATO summit in Turkey on a positive note Wednesday, appearing more favorable towards Ukraine than usual. CBS News contributor Niall Ferguson joins to discuss the summit, Mr. Trump's latest actions in Iran and the Ukraine-Russia war.",
       "date": "2026-07-09"
-    },
-    {
-      "title": "NATO spending pressure returned",
-      "summary": "President Donald Trump returned to Washington, D.C., after a critical NATO summit in Turkey aboard an older Air Force One aircraft rather than the new plane gifted by Qatar. A source familiar with the president’s travel plans tells NBC News the swap was a security decision, coming as Trump warns he considers himself a.",
-      "date": "2026-07-09"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Trump to Give Primetime Speech on Thursday: What to Expect",
+      "url": "https://time.com/article/2026/07/14/trump-to-give-primetime-speech-on-thursday-what-to-expect/?utm_source=lootura.com",
+      "publishedAt": "2026-07-14T09:31:21.000Z",
+      "sourceId": "lootura-us-time"
+    }
+  ],
+  "evidenceCount": 1
 }

@@ -3,7 +3,7 @@
 > Follow Warner Bros, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-07-14T06:09:23.919Z
+- Updated: 2026-07-14T09:56:10.561Z
 - Canonical: https://atlas.lootura.com/us/organization/warner-bros
 
 ## Recent changes
@@ -11,6 +11,12 @@
 ### 12 states sue to block Paramount-Warner Bros. Discovery merger
 
 The suit poses a new challenge to the $110 billion deal that would unite two of the nation's largest media companies.
+
+Date: 2026-07-14
+
+### Morning news brief
+
+Trump says the U.S. will collect tolls and impose blockade in the Strait of Hormuz, man killed by federal agents in Maine, states sue to stop Paramount-Warner Bros merger.
 
 Date: 2026-07-14
 
@@ -41,4 +47,5 @@ Date: 2026-07-13
 ## Sources
 
 - [12 states sue to block Paramount-Warner Bros. Discovery merger](https://www.cbsnews.com/news/states-sue-to-block-paramount-warner-bros-discovery-merger/?utm_source=lootura.com) — 2026-07-14T02:16:14.000Z
+- [Morning news brief](https://www.npr.org/2026/07/14/nx-s1-5891540/morning-news-brief?utm_source=lootura.com) — 2026-07-14T09:02:31.000Z
 - [States sue to stop Paramount-Warner Bros blockbuster merger](https://www.npr.org/2026/07/13/nx-s1-5879286/paramount-warner-bros-discovery-lawsuit?utm_source=lootura.com) — 2026-07-13T16:30:12.000Z

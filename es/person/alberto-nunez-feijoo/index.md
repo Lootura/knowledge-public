@@ -70,4 +70,4 @@ Date: 2026-07-11
 
 ## Fuentes
 
-- [El PP defiende plantear "propuestas polémicas" para ofrecer su alternativa ante un Gobierno que "ha gestionado muy mal"](https://www.20minutos.es/nacional/pp-defiende-plantear-propuestas-polemicas-para-ofrecer-su-alternativa-ante-un-gobierno-que-ha-gestionado-muy-mal_7014104_0.html?utm_source=lootura.com) — 2026-07-14T03:00:00.000Z
+No public source links.

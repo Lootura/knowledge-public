@@ -28,5 +28,4 @@ Date: 2026-07-13
 
 ## Fuentes
 
-- [Muere Luis Goytisolo, el submarinista de las palabras](https://www.abc.es/cultura/muere-anos-novelista-academico-luis-goytisolo-20260713233802-nt.html?utm_source=lootura.com) — 2026-07-14T04:32:25.000Z
-- [Muere el escritor y académico Luis Goytisolo](https://theobjective.com/cultura/literatura/2026-07-14/muere-el-escritor-y-academico-luis-goytisolo/?amp=&utm_source=lootura.com) — 2026-07-13T23:27:21.000Z
+No public source links.

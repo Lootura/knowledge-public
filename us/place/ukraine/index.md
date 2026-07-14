@@ -3,7 +3,7 @@
 > Follow Ukraine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-14T06:09:23.919Z
+- Updated: 2026-07-14T09:56:10.561Z
 - Canonical: https://atlas.lootura.com/us/place/ukraine
 
 ## Recent changes
@@ -70,4 +70,4 @@ Date: 2026-07-12
 
 ## Sources
 
-- [Ukraine fears it will have a weaker link to Trump after Sen. Lindsey Graham's sudden death](https://www.pbs.org/newshour/world/ukraine-fears-it-will-have-a-weaker-link-to-trump-after-sen-lindsey-grahams-sudden-death?utm_source=lootura.com) — 2026-07-13T19:17:26.000Z
+- [News Wrap: Judge says Trump's lawsuit against IRS filed for 'improper purpose'](https://www.pbs.org/newshour/show/news-wrap-judge-says-trumps-lawsuit-against-irs-filed-for-improper-purpose?utm_source=lootura.com) — 2026-07-13T22:45:40.000Z

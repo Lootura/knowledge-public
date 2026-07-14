@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/ukraine/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/ukraine/index.json",
   "description": "Follow Ukraine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-14T06:09:23.919Z",
+  "updatedAt": "2026-07-14T09:56:10.561Z",
   "aliases": [
     "Kyiv"
   ],
@@ -66,11 +66,11 @@
   ],
   "sources": [
     {
-      "title": "Ukraine fears it will have a weaker link to Trump after Sen. Lindsey Graham's sudden death",
-      "url": "https://www.pbs.org/newshour/world/ukraine-fears-it-will-have-a-weaker-link-to-trump-after-sen-lindsey-grahams-sudden-death?utm_source=lootura.com",
-      "publishedAt": "2026-07-13T19:17:26.000Z",
+      "title": "News Wrap: Judge says Trump's lawsuit against IRS filed for 'improper purpose'",
+      "url": "https://www.pbs.org/newshour/show/news-wrap-judge-says-trumps-lawsuit-against-irs-filed-for-improper-purpose?utm_source=lootura.com",
+      "publishedAt": "2026-07-13T22:45:40.000Z",
       "sourceId": "lootura-us-pbs-newshour"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 0
 }

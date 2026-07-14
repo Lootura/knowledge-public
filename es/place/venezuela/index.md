@@ -3,7 +3,7 @@
 > Sigue la actividad de Venezuela en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-14T06:09:00.827Z
+- Actualizado: 2026-07-14T09:55:53.939Z
 - Canonical: https://atlas.lootura.com/es/place/venezuela
 
 ## Cambios recientes

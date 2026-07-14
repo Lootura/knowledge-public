@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/iran/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/iran/index.json",
   "description": "Follow Iran, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-14T06:09:23.919Z",
+  "updatedAt": "2026-07-14T09:56:10.561Z",
   "aliases": [],
   "changes": [
     {
@@ -27,11 +27,6 @@
       "date": "2026-07-13"
     },
     {
-      "title": "Morning news brief",
-      "summary": "The U.S. strikes Iran for a third weekend as Iran retaliates by hitting Gulf nations, Sen. Lindsey Graham died Saturday at the age of 71, Congress returns from recess this week.",
-      "date": "2026-07-13"
-    },
-    {
       "title": "Strait of Hormuz Ship Traffic Falls to Lowest Point in a Month After Strikes",
       "summary": "Shipping activity plummeted after Iran attacked a ship, setting off U.S. strikes. Little crude oil is being transported through the critical waterway.",
       "date": "2026-07-13"
@@ -39,11 +34,6 @@
     {
       "title": "Will Oil Prices Rise as the US-Iran Truce Frays? The Answer Lies With China.",
       "summary": "For decades, OPEC influenced the market by how much oil it produced. But China, the largest importer, is demonstrating its remarkable power over prices.",
-      "date": "2026-07-13"
-    },
-    {
-      "title": "UK says Iran-backed group behind arson and vandalism attacks on Jewish community",
-      "summary": "The U.K. government says a proxy group backed by Iran is responsible for recent arson and vandalism attacks on Jewish sites in Britain.",
       "date": "2026-07-13"
     },
     {
@@ -59,6 +49,16 @@
     {
       "title": "Trump says U.S. 'taking over the strait' as conflict with Iran reignites",
       "summary": "The U.S. is striking Iran for the third consecutive night and Iran said it fired a missile at a U.S. Navy ship. The attacks come after President Trump told Congress that the U.S. and Iran have resumed fighting. He also said the U.S. will blockade Iran and the Strait of Hormuz and impose a 20% tax on ships, a move his a.",
+      "date": "2026-07-13"
+    },
+    {
+      "title": "Morning news brief",
+      "summary": "The U.S. strikes Iran for a third weekend as Iran retaliates by hitting Gulf nations, Sen. Lindsey Graham died Saturday at the age of 71, Congress returns from recess this week.",
+      "date": "2026-07-13"
+    },
+    {
+      "title": "UK says Iran-backed group behind arson and vandalism attacks on Jewish community",
+      "summary": "The U.K. government says a proxy group backed by Iran is responsible for recent arson and vandalism attacks on Jewish sites in Britain.",
       "date": "2026-07-13"
     }
   ],
@@ -82,21 +82,9 @@
       "sourceId": "lootura-us-nbc-news"
     },
     {
-      "title": "Morning news brief",
-      "url": "https://www.npr.org/2026/07/13/nx-s1-5885745/morning-news-brief?utm_source=lootura.com",
-      "publishedAt": "2026-07-13T08:48:40.000Z",
-      "sourceId": "lootura-us-npr"
-    },
-    {
       "title": "Trump says U.S. 'taking over the strait' as conflict with Iran reignites",
       "url": "https://www.pbs.org/newshour/show/trump-says-u-s-taking-over-the-strait-as-conflict-with-iran-reignites?utm_source=lootura.com",
       "publishedAt": "2026-07-13T22:55:49.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
-    },
-    {
-      "title": "UK says Iran-backed group behind arson and vandalism attacks on Jewish community",
-      "url": "https://www.pbs.org/newshour/world/uk-says-iran-backed-group-behind-arson-and-vandalism-attacks-on-jewish-community?utm_source=lootura.com",
-      "publishedAt": "2026-07-13T18:41:13.000Z",
       "sourceId": "lootura-us-pbs-newshour"
     },
     {
@@ -122,7 +110,13 @@
       "url": "https://www.nytimes.com/2026/07/12/business/oil-shipping-iran-hormuz.html?utm_source=lootura.com",
       "publishedAt": "2026-07-13T10:33:50.000Z",
       "sourceId": "lootura-us-the-new-york-times"
+    },
+    {
+      "title": "Trump Says Fighting With Iran Has Resumed as He Orders Blockade and Tolls",
+      "url": "https://www.nytimes.com/2026/07/13/us/politics/trump-iran-ceasefire.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-14T00:38:48.000Z",
+      "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 10
+  "evidenceCount": 8
 }

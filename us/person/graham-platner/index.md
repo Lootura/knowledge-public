@@ -3,10 +3,16 @@
 > Follow Graham Platner, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-07-14T06:09:23.919Z
+- Updated: 2026-07-14T09:56:10.561Z
 - Canonical: https://atlas.lootura.com/us/person/graham-platner
 
 ## Recent changes
+
+### Platner's voters are reeling as Maine Democratic Party races to choose his replacement
+
+generated enthusiasm in Maine with his progressive policies. Now he's out of the race, and his supporters have to decide what's next, as Maine Democrats prepare to choose a nominee. (Image credit: Tamara Keith/NPR).
+
+Date: 2026-07-14
 
 ### Graham Platner's voters figure out what's next as candidates vie for their support
 
@@ -62,13 +68,8 @@ Graham Platner first entered the public knowledge record with source-backed evid
 
 Date: 2026-07-11
 
-### Platner’s Rise and Fall Revives Old Questions About ‘Bernie Bros’ and Women
-
-The collapse of Graham Platner’s Senate bid in Maine after a rape allegation renewed attention to a movement built by Senator Bernie Sanders that some say is too forgiving of male misconduct.
-
-Date: 2026-07-11
-
 ## Sources
 
+- [Platner's voters are reeling as Maine Democratic Party races to choose his replacement](https://www.npr.org/2026/07/14/nx-s1-5892502/platner-collins-maine-democratic-party-senate?utm_source=lootura.com) — 2026-07-14T09:00:00.000Z
 - [Graham Platner's voters figure out what's next as candidates vie for their support](https://www.npr.org/2026/07/13/nx-s1-5888428/graham-platners-voters-figure-out-whats-next-as-candidates-vie-for-their-support?utm_source=lootura.com) — 2026-07-13T20:22:39.000Z
 - [Tamara Keith and Amy Walter on Lindsey Graham's passing](https://www.pbs.org/newshour/show/tamara-keith-and-amy-walter-on-lindsey-grahams-passing?utm_source=lootura.com) — 2026-07-13T22:35:20.000Z

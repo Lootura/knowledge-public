@@ -3,7 +3,7 @@
 > Follow Lindsey Graham, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-07-14T06:09:23.919Z
+- Updated: 2026-07-14T09:56:10.561Z
 - Canonical: https://atlas.lootura.com/us/person/lindsey-graham
 
 ## Recent changes
@@ -20,23 +20,11 @@ Sen. Lindsey Graham is being remembered for his wit and political effectiveness 
 
 Date: 2026-07-14
 
-### Morning news brief
+### South Carolina's governor appoints Lindsey Graham's sister to serve out his term
 
-The U.S. strikes Iran for a third weekend as Iran retaliates by hitting Gulf nations, Sen. Lindsey Graham died Saturday at the age of 71, Congress returns from recess this week.
+South Carolina Gov. Henry McMaster says he is appointing Darline Graham to finish the term of her late brother, former Republican Sen. Lindsey Graham, who died in office Saturday at age 71.
 
-Date: 2026-07-13
-
-### Lindsey Graham’s Unexpected Death, and How Marco Rubio Is Running Venezuela
-
-Plus, Sam Neill of “Jurassic Park” fame dies at 78.
-
-Date: 2026-07-13
-
-### McMaster, Trump look to Graham's sister for Senate
-
-President Donald Trump said Monday he wants South Carolina Gov. Henry McMaster to appoint Lindsey Graham’s sister, Darline Graham Nordone, to serve the remainder of the late senator’s term. One Republican familiar with McMaster’s plans said the governor intends to appoint Nordone to serve in the Senate for the rest of.
-
-Date: 2026-07-13
+Date: 2026-07-14
 
 ### How Lindsey Graham tried to stay 'relevant'
 
@@ -50,33 +38,45 @@ Over the course of his three decades in Congress, Lindsey Graham was a major inf
 
 Date: 2026-07-13
 
-### Sen. Lindsey Graham's sudden death spurs false claims
-
-Sen. Lindsey Graham's unexpected death on Saturday night fueled baseless speculation on social media that his passing was the result of a criminal action. Here's a closer look at the facts.
-
-Date: 2026-07-13
-
-### Ukraine fears it will have a weaker link to Trump after Sen. Lindsey Graham's sudden death
-
-Ukraine has lost a close ally in President Donald Trump's orbit, leaving its leaders grappling with the implications for their war-torn country.
-
-Date: 2026-07-13
-
 ### S.C. Gov McMaster appoints Darline Graham Nordone to fill Sen. Lindsey Graham's seat
 
 South Carolina Governor Henry McMaster appoints Darline Graham Nordone, Sen. Lindsey Graham's younger sister, to serve the remainder of the late Republican senator's term, which ends early January 2027.
 
 Date: 2026-07-13
 
+### Tamara Keith and Amy Walter on Lindsey Graham's passing
+
+NPR's Tamara Keith and Amy Walter of the Cook Political Report with Amy Walter join Geoff Bennett to discuss the latest political news, including what the passing of Sen. Lindsey Graham means for South Carolina and the Senate, Sen. Mitch McConnell's health and Democrats scrambling to replace Graham Platner in the Maine.
+
+Date: 2026-07-13
+
+### Who is Darline Graham Nordone, the late Sen. Lindsey Graham's sister?
+
+Nordone, who was appointed to serve the remaining months of the Senate term that her brother left behind when he died over the weekend, hasn't been in office before.
+
+Date: 2026-07-13
+
+### Lindsey Graham's career and influence on American politics
+
+South Carolina Sen. Lindsey Graham died Saturday of an aortic dissection and cardiovascular disease. The Republican served more than 30 years in Congress, becoming one of the nation's most prominent voices on foreign policy and later one of President Trump's top allies. Congressional correspondent Lisa Desjardins has m.
+
+Date: 2026-07-13
+
+### Lindsey Graham’s Sister Appointed to Finish His Senate Term After Trump’s Backing
+
+Gov. Henry McMaster of South Carolina named Darline Graham Nordone to replace Mr. Graham, who died on Saturday.
+
+Date: 2026-07-13
+
 ## Sources
 
-- [Lawmakers remember Lindsey Graham on Senate floor](https://www.cbsnews.com/video/lawmakers-remember-lindsey-graham-on-senate-floor/?utm_source=lootura.com) — 2026-07-13T20:05:51.000Z
-- [Who could replace Lindsey Graham in the Senate after his sudden death?](https://www.cbsnews.com/news/lindsey-graham-replacement/?utm_source=lootura.com) — 2026-07-14T01:09:13.000Z
+- [Who could replace Lindsey Graham in the Senate after his sudden death?](https://www.cbsnews.com/news/lindsey-graham-replacement/?utm_source=lootura.com) — 2026-07-14T06:26:51.000Z
 - [Republican strategist on what he'll remember most about Lindsey Graham](https://www.cbsnews.com/video/republican-strategist-on-what-hell-remember-most-about-lindsey-graham/?utm_source=lootura.com) — 2026-07-14T01:33:41.000Z
 - [S.C. Gov McMaster appoints Darline Graham Nordone to fill Sen. Lindsey Graham's seat](https://www.nbcnews.com/video/s-c-gov-mcmaster-appoints-darline-graham-nordone-to-fill-sen-lindsey-graham-s-seat-266608709594?utm_source=lootura.com) — 2026-07-13T20:34:54.000Z
-- [Trump calls late Sen. Lindsey Graham a 'great friend'](https://www.nbcnews.com/video/trump-calls-late-sen-lindsey-graham-a-great-friend-266614341932?utm_source=lootura.com) — 2026-07-13T22:35:33.000Z
-- [Morning news brief](https://www.npr.org/2026/07/13/nx-s1-5885745/morning-news-brief?utm_source=lootura.com) — 2026-07-13T08:48:40.000Z
 - [How Lindsey Graham tried to stay 'relevant'](https://www.npr.org/2026/07/13/nx-s1-5891751/how-lindsey-graham-tried-to-stay-relevant?utm_source=lootura.com) — 2026-07-13T19:57:12.000Z
+- [South Carolina's governor appoints Lindsey Graham's sister to serve out his term](https://www.npr.org/2026/07/14/nx-s1-5891798/south-carolinas-governor-appoints-lindsey-grahams-sister-to-serve-out-his-term?utm_source=lootura.com) — 2026-07-14T09:01:46.000Z
 - [On foreign policy, Graham's influence may have been felt the most](https://www.npr.org/2026/07/13/nx-s1-5890936/on-foreign-policy-grahams-influence-may-have-been-felt-the-most?utm_source=lootura.com) — 2026-07-13T20:05:24.000Z
 - [Tamara Keith and Amy Walter on Lindsey Graham's passing](https://www.pbs.org/newshour/show/tamara-keith-and-amy-walter-on-lindsey-grahams-passing?utm_source=lootura.com) — 2026-07-13T22:35:20.000Z
-- [Sen. Lindsey Graham's sudden death spurs false claims](https://www.pbs.org/newshour/politics/sen-lindsey-grahams-sudden-death-spurs-false-claims?utm_source=lootura.com) — 2026-07-13T20:06:38.000Z
+- [Who is Darline Graham Nordone, the late Sen. Lindsey Graham's sister?](https://www.pbs.org/newshour/politics/who-is-darline-graham-nordone-the-late-sen-lindsey-grahams-sister?utm_source=lootura.com) — 2026-07-13T22:44:58.000Z
+- [Lindsey Graham's career and influence on American politics](https://www.pbs.org/newshour/show/lindsey-grahams-impact-and-influence-on-american-politics?utm_source=lootura.com) — 2026-07-13T22:50:43.000Z
+- [Lindsey Graham’s Sister Appointed to Finish His Senate Term After Trump’s Backing](https://www.nytimes.com/2026/07/13/us/politics/trump-graham-sister-south-carolina-senate.html?utm_source=lootura.com) — 2026-07-13T23:27:44.000Z

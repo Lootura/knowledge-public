@@ -3,10 +3,16 @@
 > Sigue la actividad de País Vasco en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-13T02:33:34.884Z
+- Actualizado: 2026-07-14T09:55:53.939Z
 - Canonical: https://atlas.lootura.com/es/place/pais-vasco
 
 ## Cambios recientes
+
+### Euskadi suma 7.000 cotizantes extranjeros en dos meses con la regularización
+
+Su cifra se ha disparado hasta los 114.000 afiliados a la Seguridad Social y representan ocho de cada diez nuevos trabajadores incorporados en el último año.
+
+Date: 2026-07-14
 
 ### Los Cosentino, la familia que hizo del mármol de Almería un gigante global
 
@@ -46,4 +52,4 @@ Date: 2026-07-08
 
 ## Fuentes
 
-No public source links.
+- [Euskadi suma 7.000 cotizantes extranjeros en dos meses con la regularización](https://www.elcorreo.com/economia/euskadi-suma-7000-cotizantes-extranjeros-dos-meses-20260714094801-nt_amp.html?utm_source=lootura.com) — 2026-07-14T07:48:01.000Z

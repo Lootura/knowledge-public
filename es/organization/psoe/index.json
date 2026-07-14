@@ -8,12 +8,37 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/psoe/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/psoe/index.json",
   "description": "Sigue la actividad de Partido Socialista Obrero Español en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-14T02:12:41.111Z",
+  "updatedAt": "2026-07-14T09:55:53.939Z",
   "aliases": [
     "Partido Socialista",
     "Partido Socialista Obrero Español"
   ],
   "changes": [
+    {
+      "title": "La UCO confirma que el PSOE pagó 43.225 euros a Leire a través de Zarrías y del exabogado de Koldo",
+      "summary": "Los agentes revelan el «método» para que la fontanera recibiera «cantidades con origen» en el partido.",
+      "date": "2026-07-14"
+    },
+    {
+      "title": "Pedraz extiende la agonía del PSOE por el caso Leire: cita a su gerente en septiembre",
+      "summary": "El magistrado de la Audiencia Nacional pide al empresario Joaquín Parra que aporte «las grabaciones que dice tener sobre las supuestas reuniones celebradas con Jacobo Teijelo», abogado de Santos Cerdán, y con Leire Díez.",
+      "date": "2026-07-14"
+    },
+    {
+      "title": "El juez Pedraz cita a declarar como imputada el 9 de septiembre a la gerente del PSOE por el caso de las cloacas de Ferraz",
+      "summary": "Ese mismo día también ha sido citado a declarar el abogado Ismael Oliver Leer.",
+      "date": "2026-07-14"
+    },
+    {
+      "title": "La UCO concluye que el PSOE usó empresas interpuestas para pagar a Leire Díez 43.225 euros",
+      "summary": "La Unidad Central Operativa (UCO) de la Guardia Civil ha localizado al menos cinco pagos a Leire Díez en 2024 vinculados a las supuestas \"cloacas del PSOE\" y cuyo origen sitúa en Ferraz por un importe total de 43.225 euros, para lo que habría utilizado empresas interpuestas. Así consta en el último informe remitido al.",
+      "date": "2026-07-14"
+    },
+    {
+      "title": "La UCO detalla los pagos del PSOE a Leire Díez a través de tres empresas pantalla: 43.235 € en 5 pagos",
+      "summary": "La Unidad Central Operativa ( UCO ) de la Guardia Civil ha remitido al juez Santiago Pedraz , de la Audiencia Nacional, un nuevo informe en el que se informa de pagos a la ex militante y fontanera del PSOE, Leire Díez , por una cantidad total de 16.000 euros , en cuatro transferencias, a través de la consultora de Gasp.",
+      "date": "2026-07-14"
+    },
     {
       "title": "El PSOE usa una empresa pública de Defensa como agencia de colocación",
       "summary": "La empresa pública Isdefe (Ingeniería de Sistemas para la Defensa de España), dependiente del Ministerio de Defensa, se ha situado en el centro de la polémica en los últimos días, a raíz de la dimisión de su número dos investigada en el caso Leire. La salida de Teresa Castillo, una de las 25 personas imputadas por las.",
@@ -38,33 +63,39 @@
       "title": "«Estoy convencido de que amañó el voto por correo»",
       "summary": "El día en que la UCO detuvo a Leire Díez en un atasco en plena Castellana , el impacto llegó también a Vega de Pas , el municipio cántabro donde empezó la 'fontanera' del PSOE. Fue el 10 de diciembre de 2025. «Recuerdo perfectamente aquel día. Alguien del pueblo me avisó de que había 'mucho coche' en la cabaña que tien.",
       "date": "2026-07-12"
-    },
-    {
-      "title": "Discovered by Atlas",
-      "summary": "PSOE first entered the public knowledge record with source-backed evidence.",
-      "date": "2026-07-11"
-    },
-    {
-      "title": "El PSOE de Madrid irá a primarias: Enma López desafía a Maroto para enfrentarse a Almeida",
-      "summary": "El PSOE de Madrid irá a primarias. Los militantes decidirán quién será la rival de José Luis Martínez-Almeida en las elecciones municipales del año que viene, después de que Reyes Maroto y Enma López hayan superado los 823 avales necesarios , el 15% del censo. La votación se celebrará el domingo 19 de julio . Quien no.",
-      "date": "2026-07-11"
-    },
-    {
-      "title": "Óscar López se enfrentará a Ayuso en las elecciones de la Comunidad de Madrid en 2027",
-      "summary": "El secretario general del PSOE de Madrid y ministro para la Transformación Digital y de la Función Pública, Óscar López , se batirá con la presidenta de la Comunidad, Isabel Díaz Ayuso (PP), en mayo de 2027 tras proclamarse candidato socialista al no haber conseguido su rival en primarias, Silvia López Quivira, reunir.",
-      "date": "2026-07-11"
-    },
-    {
-      "title": "Enma López pasa el corte de los avales y se enfrentará a Reyes Maroto en primarias",
-      "summary": "La candidatura del PSOE de Madrid para la Alcaldía de la capital no está resultando tan sencilla como la de la Comunidad de Madrid, donde Óscar López ya ha sido proclamado este sábado cabeza de lista para enfrentarse a Isabel Díaz Ayuso en las urnas al ser el único precandidato que ha logrado los avales suficientes. Pa.",
-      "date": "2026-07-11"
-    },
-    {
-      "title": "Óscar López será el candidato del PSOE a la Comunidad de Madrid tras no lograr avales su rival en las primarias",
-      "summary": "El secretario general del PSOE de Madrid, Óscar López , será el candidato socialista a la Presidencia de la Comunidad de Madrid en las próximas elecciones autonómicas . No habrá votación entre la militancia después de que la única precandidatura alternativa, encabezada por la abogada y militante de base Silvia López Qu.",
-      "date": "2026-07-11"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "La UCO confirma que el PSOE pagó 43.225 euros a Leire a través de Zarrías y del exabogado de Koldo",
+      "url": "https://www.abc.es/espana/uco-confirma-psoe-pago-43225-euros-leire-20260714113453-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-14T09:34:53.000Z",
+      "sourceId": "lootura-es-abc"
+    },
+    {
+      "title": "Pedraz extiende la agonía del PSOE por el caso Leire: cita a su gerente en septiembre",
+      "url": "https://www.abc.es/espana/pedraz-extiende-agonia-psoe-leire-cita-gerente-20260714112804-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-14T09:28:04.000Z",
+      "sourceId": "lootura-es-abc"
+    },
+    {
+      "title": "El juez Pedraz cita a declarar como imputada el 9 de septiembre a la gerente del PSOE por el caso de las cloacas de Ferraz",
+      "url": "https://www.elmundo.es/espana/2026/07/14/6a55f484fc6c832a5b8b4577.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-14T09:25:43.000Z",
+      "sourceId": "lootura-es-el-mundo"
+    },
+    {
+      "title": "La UCO concluye que el PSOE usó empresas interpuestas para pagar a Leire Díez 43.225 euros",
+      "url": "https://www.larazon.es/espana/uco-concluye-que-psoe-uso-empresas-interpuestas-pagar-leire-diez-43225-euros_202607146a56051cc48a78681b88c281.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-14T09:45:18.000Z",
+      "sourceId": "lootura-es-la-razon"
+    },
+    {
+      "title": "La UCO detalla los pagos del PSOE a Leire Díez a través de tres empresas pantalla: 43.235 € en 5 pagos",
+      "url": "https://okdiario.com/espana/uco-detalla-pagos-del-psoe-leire-diez-traves-tres-empresas-pantalla-43-235-5-pagos-18990659?utm_source=lootura.com",
+      "publishedAt": "2026-07-14T09:48:11.000Z",
+      "sourceId": "lootura-es-ok-diario"
+    }
+  ],
+  "evidenceCount": 5
 }

@@ -3,10 +3,16 @@
 > Sigue la actividad de Organización del Tratado del Atlántico Norte en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-14T06:09:00.827Z
+- Actualizado: 2026-07-14T09:55:53.939Z
 - Canonical: https://atlas.lootura.com/es/organization/nato
 
 ## Cambios recientes
+
+### NATO spending pressure returned
+
+For the US’ allies, Nato summits have largely become a matter of damage control and evading the wrath of Donald Trump. With Washington’s support no longer a given, the special relationship between the US and the European Union (EU) is under increasing strain . The recent Nato summit, held on July 7-8 in Ankara, Turkey,.
+
+Date: 2026-07-14
 
 ### La UE y la OTAN condenan los ciberataques «maliciosos» de Rusia contra los países europeos
 
@@ -62,12 +68,7 @@ NATO first entered the public knowledge record with source-backed evidence.
 
 Date: 2026-07-11
 
-### Inversión masiva, verborrea 'trumpista' y más ayuda a Ucrania: para qué sirvió y para qué no la cumbre de la OTAN en Ankara
-
-La OTAN está en su mejor momento, o eso dijo su secretario general, Mark Rutte, después de la cumbre de Ankara que estuvo marcada por nuevas tensiones con Donald Trump, unas conclusiones algo descafeinadas y pocas escenas que llamasen la atención. De la Alianza sale el mensaje de que si bien la reunión en La Haya el pa.
-
-Date: 2026-07-11
-
 ## Fuentes
 
 - [La UE y la OTAN condenan los ciberataques «maliciosos» de Rusia contra los países europeos](https://www.elcorreo.com/internacional/europa/ue-otan-condenan-ciberataques-maliciosos-rusia-paises-20260713160238-ntrc_amp.html?utm_source=lootura.com) — 2026-07-13T14:02:38.000Z
+- [Nato Ankara Summit: why only a federal, unified EU can mount its own credible military defence](https://theconversation.com/nato-ankara-summit-why-only-a-federal-unified-eu-can-mount-its-own-credible-military-defence-287401?utm_source=lootura.com) — 2026-07-14T08:42:36.000Z

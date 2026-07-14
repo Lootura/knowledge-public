@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/fifa/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/fifa/index.json",
   "description": "Sigue la actividad de FIFA en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-14T06:09:00.827Z",
+  "updatedAt": "2026-07-14T09:55:53.939Z",
   "aliases": [],
   "changes": [
     {
@@ -24,11 +24,11 @@
   ],
   "sources": [
     {
-      "title": "La FIFA, el único ganador económico del Mundial",
-      "url": "https://cincodias.elpais.com/opinion/2026-07-14/la-fifa-el-unico-ganador-economico-del-mundial.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-14T03:40:00.000Z",
-      "sourceId": "lootura-es-cinco-dias"
+      "title": "¿Qué selecciones han sido las mejores en el Mundial? Consulte sus datos partido a partido",
+      "url": "https://elpais.com/deportes/mundial-futbol/2026-07-06/que-dicen-los-datos-de-espana-consulte-las-estadisticas-avanzadas-del-mundial-partido-a-partido.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-14T07:19:22.000Z",
+      "sourceId": "lootura-es-el-pais"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 0
 }

@@ -70,5 +70,4 @@ Date: 2026-07-13
 
 ## Fuentes
 
-- [El PP defiende plantear "propuestas polémicas" para ofrecer su alternativa ante un Gobierno que "ha gestionado muy mal"](https://www.20minutos.es/nacional/pp-defiende-plantear-propuestas-polemicas-para-ofrecer-su-alternativa-ante-un-gobierno-que-ha-gestionado-muy-mal_7014104_0.html?utm_source=lootura.com) — 2026-07-14T03:00:00.000Z
-- [Hacienda amenaza a las comunidades con un déficit cero si el Congreso rechaza dos veces la senda fiscal](https://elpais.com/economia/2026-07-14/hacienda-amenaza-a-las-comunidades-con-un-deficit-cero-si-el-congreso-rechaza-dos-veces-la-senda-fiscal.html?utm_source=lootura.com) — 2026-07-14T03:30:01.000Z
+No public source links.

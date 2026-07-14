@@ -3,10 +3,16 @@
 > Sigue la actividad de Estados Unidos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-14T06:09:00.827Z
+- Actualizado: 2026-07-14T09:55:53.939Z
 - Canonical: https://atlas.lootura.com/es/place/united-states
 
 ## Cambios recientes
+
+### Por qué el mundo debería imitar a Trump por una vez
+
+Aparte del golf, parece que la eponimia narcisista es el pasatiempo favorito de Donald Trump . Durante su segundo mandato como presidente de Estados Unidos, ha extendido su costumbre de bautizar torres con su propio nombre a una amplia gama de instituciones y servicios. Por supuesto, el proceso nunca ha estado extento.
+
+Date: 2026-07-14
 
 ### Trump dice que EEUU investiga si Irán tiene drones almacenados en Cuba
 
@@ -62,12 +68,7 @@ Si hay un punto de inflexión en el legado de Donald Trump como presidente de Es
 
 Date: 2026-07-13
 
-### Trump, sobre el estrecho de Ormuz: «Lo vamos a mantener seguro y lo vamos a administrar»
-
-El presidente de Estados Unidos , Donald Trump , dijo este lunes que su país se convertirá en el «guardián» del estrecho de Ormuz y aseguró que Washington debería ser compensado por proteger la estratégica vía de comercio, interrumpida por Irán en medio de la actual escalada en el conflicto. «Vamos a golpearlos muy dur.
-
-Date: 2026-07-13
-
 ## Fuentes
 
-- [Un agente del ICE mata a una persona que trataba de huir en coche de una casa en Maine](https://theobjective.com/internacional/2026-07-14/agente-ice-mata-persona-maine/?amp=&utm_source=lootura.com) — 2026-07-14T05:33:31.000Z
+- [Lamine Yamal: "Decís que no estoy a mi mejor nivel, entonces no tenéis que esperar nada de mí, pero seguro que va a ser un día especial"](https://www.20minutos.es/deportes/futbol/lamine-yamal-decis-que-no-estoy-mi-mejor-nivel-entonces-no-teneis-que-esperar-nada-mi-pero-seguro-que-va-ser-un-dia-especial_7014232_0.html?utm_source=lootura.com) — 2026-07-14T06:18:16.000Z
+- [Por qué el mundo debería imitar a Trump por una vez](https://www.expansion.com/economia/financial-times/2026/07/14/6a55e533468aeb0b788b45d1.html?utm_source=lootura.com) — 2026-07-14T07:31:43.000Z

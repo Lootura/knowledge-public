@@ -3,10 +3,16 @@
 > Follow Venezuela, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-14T06:09:23.919Z
+- Updated: 2026-07-14T09:56:10.561Z
 - Canonical: https://atlas.lootura.com/us/place/venezuela
 
 ## Recent changes
+
+### ‘God is punishing the politicians’: anger at earthquake response grows in Venezuela
+
+Threat of social unrest rises as public indignation at lack of disaster aid comes on top of fallout from US military intervention • A revolution in ruins: fury amid the rubble of a housing project in quake-hit Venezuela Public anger at what many perceive as the Venezuelan government’s botched response to twin earthquak.
+
+Date: 2026-07-14
 
 ### Lindsey Graham’s Unexpected Death, and How Marco Rubio Is Running Venezuela
 
@@ -40,4 +46,4 @@ Date: 2026-07-08
 
 ## Sources
 
-- [Lindsey Graham’s Unexpected Death, and How Marco Rubio Is Running Venezuela](https://www.nytimes.com/2026/07/13/podcasts/the-headlines/lindsey-graham-death-marco-rubio-venezuela-sam-neill.html?utm_source=lootura.com) — 2026-07-13T10:00:19.000Z
+- [‘God is punishing the politicians’: anger at earthquake response grows in Venezuela](https://www.theguardian.com/world/2026/jul/14/anger-earthquake-response-venezuela?utm_source=lootura.com) — 2026-07-14T09:00:26.000Z

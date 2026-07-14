@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/donald-trump/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/donald-trump/index.json",
   "description": "Follow Donald Trump, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-14T06:09:23.919Z",
+  "updatedAt": "2026-07-14T09:56:10.561Z",
   "aliases": [
     "President Donald Trump",
     "President Trump",
@@ -21,28 +21,33 @@
       "date": "2026-07-14"
     },
     {
-      "title": "Mercurial and Magnetic, Lindsey Graham Was a Force in the Senate",
-      "summary": "The sharp-witted South Carolinian repaired relations with President Trump to advance his foreign policy goals, was willing to cut deals with Democrats and tried to insert himself into every legislative fight.",
-      "date": "2026-07-13"
+      "title": "Morning news brief",
+      "summary": "Trump says the U.S. will collect tolls and impose blockade in the Strait of Hormuz, man killed by federal agents in Maine, states sue to stop Paramount-Warner Bros merger.",
+      "date": "2026-07-14"
     },
     {
-      "title": "McMaster, Trump look to Graham's sister for Senate",
-      "summary": "President Donald Trump said Monday he wants South Carolina Gov. Henry McMaster to appoint Lindsey Graham’s sister, Darline Graham Nordone, to serve the remainder of the late senator’s term. One Republican familiar with McMaster’s plans said the governor intends to appoint Nordone to serve in the Senate for the rest of.",
-      "date": "2026-07-13"
+      "title": "Trump's National Guard deployment in D.C. has been extended until 2029",
+      "summary": "President Trump's deployment of the National Guard to Washington, D.C. has been extended several times. Now, it's set to last until Inauguration Day 2029. (Image credit: Kevin Dietsch).",
+      "date": "2026-07-14"
     },
     {
-      "title": "How Lindsey Graham’s Journey From Trump Critic to Ally Made Him a Power Player",
-      "summary": "He initially called Donald Trump a “kook” who was “unfit for office,” only to join the new president’s Mar-a-Lago circle. “I’m still in the game,” Mr. Graham once explained of his much-analyzed turnabout.",
-      "date": "2026-07-13"
+      "title": "Blanche Was a Driving Force in Retribution Campaign, Emails Show",
+      "summary": "The cooperation of Todd Blanche in President Trump’s retribution against enemies will be a flashpoint in his confirmation hearing to be attorney general on Wednesday.",
+      "date": "2026-07-14"
+    },
+    {
+      "title": "How a Promising Navy Drone Boat Program Got Mired in Politics",
+      "summary": "Navy acquisition reforms upended a $2.1 billion contract competition. When it was over, several companies with ties to the Trump administration had made the cut.",
+      "date": "2026-07-14"
+    },
+    {
+      "title": "NATO spending pressure returned",
+      "summary": "U.S. President Donald Trump holds a press conference at Beştepe Presidential Compound during the NATO Summit in Ankara, Türkiye, on July 8, 2026. —Chris McGrath—Getty Images President Donald Trump announced Monday that he will deliver a “Speech to the Nation” on Thursday evening, though details of exactly what he’ll di.",
+      "date": "2026-07-14"
     },
     {
       "title": "Funding milestone detected",
       "summary": "NPR has learned that the Department of Health and Human Services will not be finalizing its most aggressive attempt to end gender-affirming care for youth nationally. (Image credit: Erik McGregor).",
-      "date": "2026-07-13"
-    },
-    {
-      "title": "Ukraine fears it will have a weaker link to Trump after Sen. Lindsey Graham's sudden death",
-      "summary": "Ukraine has lost a close ally in President Donald Trump's orbit, leaving its leaders grappling with the implications for their war-torn country.",
       "date": "2026-07-13"
     },
     {
@@ -53,11 +58,6 @@
     {
       "title": "U.S. strikes Iran for third night after Trump reinstates Iran blockade",
       "summary": "President Trump ordered a third consecutive night of U.S. strikes in Iran after reinstating a naval blockade of Iranian ports and proposing new fees for ships transiting the Strait of Hormuz. NBC News’ Garrett Haake reports.",
-      "date": "2026-07-13"
-    },
-    {
-      "title": "Trump calls late Sen. Lindsey Graham a 'great friend'",
-      "summary": "In his first on-camera comments since the passing of Sen. Lindsey Graham, R-S.C., President Donald Trump called the late Republican senator a \"great friend\" and that it was \"hard to believe he's gone.\" NBC News' Sahil Kapur discusses how the loss of Graham will affect the Senate and the appointment of his sister to his.",
       "date": "2026-07-13"
     },
     {
@@ -80,16 +80,22 @@
       "sourceId": "lootura-us-nbc-news"
     },
     {
-      "title": "Trump calls late Sen. Lindsey Graham a 'great friend'",
-      "url": "https://www.nbcnews.com/video/trump-calls-late-sen-lindsey-graham-a-great-friend-266614341932?utm_source=lootura.com",
-      "publishedAt": "2026-07-13T22:35:33.000Z",
-      "sourceId": "lootura-us-nbc-news-politics"
+      "title": "Morning news brief",
+      "url": "https://www.npr.org/2026/07/14/nx-s1-5891540/morning-news-brief?utm_source=lootura.com",
+      "publishedAt": "2026-07-14T09:02:31.000Z",
+      "sourceId": "lootura-us-npr"
     },
     {
       "title": "Trump's HHS abandons threat to withhold Medicare and Medicaid funding over trans care",
       "url": "https://www.npr.org/2026/07/13/nx-s1-5888586/transgender-gender-affirming-care-medicare-medicaid-hhs?utm_source=lootura.com",
       "publishedAt": "2026-07-13T20:22:49.000Z",
       "sourceId": "lootura-us-npr"
+    },
+    {
+      "title": "Trump's National Guard deployment in D.C. has been extended until 2029",
+      "url": "https://www.npr.org/2026/07/14/nx-s1-5892498/national-guard-deployment-dc-2029?utm_source=lootura.com",
+      "publishedAt": "2026-07-14T09:00:00.000Z",
+      "sourceId": "lootura-us-npr-politics"
     },
     {
       "title": "Trump reduces the size of 2 national monuments in Utah as Republicans reshape land management",
@@ -104,29 +110,23 @@
       "sourceId": "lootura-us-pbs-newshour"
     },
     {
-      "title": "Ukraine fears it will have a weaker link to Trump after Sen. Lindsey Graham's sudden death",
-      "url": "https://www.pbs.org/newshour/world/ukraine-fears-it-will-have-a-weaker-link-to-trump-after-sen-lindsey-grahams-sudden-death?utm_source=lootura.com",
-      "publishedAt": "2026-07-13T19:17:26.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
-    },
-    {
       "title": "Lindsey Graham's career and influence on American politics",
       "url": "https://www.pbs.org/newshour/show/lindsey-grahams-impact-and-influence-on-american-politics?utm_source=lootura.com",
       "publishedAt": "2026-07-13T22:50:43.000Z",
       "sourceId": "lootura-us-pbs-newshour"
     },
     {
-      "title": "McMaster, Trump look to Graham's sister for Senate",
-      "url": "https://www.politico.com/news/2026/07/13/trump-lindsey-graham-replacement-mcmaster-00994800?utm_source=lootura.com",
-      "publishedAt": "2026-07-13T14:58:32.000Z",
-      "sourceId": "lootura-us-politico"
-    },
-    {
       "title": "Trump’s Strait of Hormuz Fee Could Double the Cost of Shipping",
       "url": "https://www.nytimes.com/2026/07/13/business/trump-hormuz-shipping-fee.html?utm_source=lootura.com",
       "publishedAt": "2026-07-13T23:00:14.000Z",
       "sourceId": "lootura-us-the-new-york-times"
+    },
+    {
+      "title": "Lindsey Graham’s Sister Appointed to Finish His Senate Term After Trump’s Backing",
+      "url": "https://www.nytimes.com/2026/07/13/us/politics/trump-graham-sister-south-carolina-senate.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-13T23:27:44.000Z",
+      "sourceId": "lootura-us-the-new-york-times"
     }
   ],
-  "evidenceCount": 15
+  "evidenceCount": 16
 }

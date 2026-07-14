@@ -3,10 +3,16 @@
 > Follow Supreme Court, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-07-13T17:53:11.557Z
+- Updated: 2026-07-14T09:56:10.561Z
 - Canonical: https://atlas.lootura.com/us/organization/supreme-court
 
 ## Recent changes
+
+### Funding milestone detected
+
+justices are asking lawmakers on Capitol Hill to increase their 2027 budget, with most of the additional funding earmarked for security. Ann E. Marimow, a New York Times reporter, explains why the justices say these measures are necessary to protect them from rising threats.
+
+Date: 2026-07-14
 
 ### With Threats Rising, Supreme Court Asks Congress to Increase Security Funds
 
@@ -58,4 +64,5 @@ Date: 2026-07-09
 
 ## Sources
 
-No public source links.
+- [In Rare Testimony, Supreme Court Justices Will Ask Congress for Security Funds](https://www.nytimes.com/2026/07/14/us/politics/supreme-court-congress-testimony-security.html?utm_source=lootura.com) — 2026-07-14T09:03:34.000Z
+- [Why Supreme Court Justices Are Asking for More Security](https://www.nytimes.com/video/us/politics/100000011017774/why-supreme-court-justices-are-asking-for-more-security.html?utm_source=lootura.com) — 2026-07-14T09:39:08.000Z

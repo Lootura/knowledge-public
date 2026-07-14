@@ -8,13 +8,18 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/united-states/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/united-states/index.json",
   "description": "Sigue la actividad de Estados Unidos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-14T06:09:00.827Z",
+  "updatedAt": "2026-07-14T09:55:53.939Z",
   "aliases": [
     "America",
     "Estados Unidos",
     "U.S."
   ],
   "changes": [
+    {
+      "title": "Por qué el mundo debería imitar a Trump por una vez",
+      "summary": "Aparte del golf, parece que la eponimia narcisista es el pasatiempo favorito de Donald Trump . Durante su segundo mandato como presidente de Estados Unidos, ha extendido su costumbre de bautizar torres con su propio nombre a una amplia gama de instituciones y servicios. Por supuesto, el proceso nunca ha estado extento.",
+      "date": "2026-07-14"
+    },
     {
       "title": "Trump dice que EEUU investiga si Irán tiene drones almacenados en Cuba",
       "summary": "El presidente de Estados Unidos, Donald Trump , ha asegurado este lunes que su Gobierno investiga la posible presencia de drones iraníes almacenados en Cuba y ha advertido de que Washington actuará si confirma esa información. \"Si los tienen, y es muy posible que los tengan , nos encargaremos de ello\", ha declarado Tru.",
@@ -59,20 +64,21 @@
       "title": "Dentro de la Casa Blanca: así ejerce Trump un poder desenfrenado para dejar su huella en la historia",
       "summary": "Si hay un punto de inflexión en el legado de Donald Trump como presidente de Estados Unidos, hay que buscarlo en el 20 de enero de 2025, el primer día de su regreso al Despacho Oval tras su abrupta salida en 2021, cuando fue derrotado por Joe Biden y convertido en un paria político por agitar a una muchedumbre enfervor.",
       "date": "2026-07-13"
-    },
-    {
-      "title": "Trump, sobre el estrecho de Ormuz: «Lo vamos a mantener seguro y lo vamos a administrar»",
-      "summary": "El presidente de Estados Unidos , Donald Trump , dijo este lunes que su país se convertirá en el «guardián» del estrecho de Ormuz y aseguró que Washington debería ser compensado por proteger la estratégica vía de comercio, interrumpida por Irán en medio de la actual escalada en el conflicto. «Vamos a golpearlos muy dur.",
-      "date": "2026-07-13"
     }
   ],
   "sources": [
     {
-      "title": "Un agente del ICE mata a una persona que trataba de huir en coche de una casa en Maine",
-      "url": "https://theobjective.com/internacional/2026-07-14/agente-ice-mata-persona-maine/?amp=&utm_source=lootura.com",
-      "publishedAt": "2026-07-14T05:33:31.000Z",
-      "sourceId": "lootura-es-the-objective"
+      "title": "Lamine Yamal: \"Decís que no estoy a mi mejor nivel, entonces no tenéis que esperar nada de mí, pero seguro que va a ser un día especial\"",
+      "url": "https://www.20minutos.es/deportes/futbol/lamine-yamal-decis-que-no-estoy-mi-mejor-nivel-entonces-no-teneis-que-esperar-nada-mi-pero-seguro-que-va-ser-un-dia-especial_7014232_0.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-14T06:18:16.000Z",
+      "sourceId": "lootura-es-20minutos"
+    },
+    {
+      "title": "Por qué el mundo debería imitar a Trump por una vez",
+      "url": "https://www.expansion.com/economia/financial-times/2026/07/14/6a55e533468aeb0b788b45d1.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-14T07:31:43.000Z",
+      "sourceId": "lootura-es-expansion"
     }
   ],
-  "evidenceCount": 0
+  "evidenceCount": 1
 }

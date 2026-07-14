@@ -3,10 +3,16 @@
 > Follow New York, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-14T06:09:23.919Z
+- Updated: 2026-07-14T09:56:10.561Z
 - Canonical: https://atlas.lootura.com/us/place/new-york
 
 ## Recent changes
+
+### New York becomes the first state to enact a data center moratorium
+
+New hyperscale data centers can't set up shop in New York for up to a year now that Governor Kathy Hochul (D) has signed the nation's first statewide moratorium. But a bill passed by the state legislature that could restrict even more developments still awaits her signature. The order blocks new environmental permits f.
+
+Date: 2026-07-14
 
 ### Civics Groups Are at Odds With Mamdani Over Push for Open Primaries
 
@@ -62,12 +68,7 @@ This month Bronx Documentary Center is hosting the ninth edition of the Latin Am
 
 Date: 2026-07-10
 
-### Too Many Books?
-
-Mendel Uminer faced a crisis when his landlord objected to the 10,000 volumes in his New York studio apartment.
-
-Date: 2026-07-09
-
 ## Sources
 
 - [Civics Groups Are at Odds With Mamdani Over Push for Open Primaries](https://www.nytimes.com/2026/07/13/nyregion/open-primaries-ny-bloomberg-mamdani.html?utm_source=lootura.com) — 2026-07-13T13:21:23.000Z
+- [New York becomes the first state to enact a data center moratorium](https://www.theverge.com/policy/965110/new-york-ai-data-center-moratorium?utm_source=lootura.com) — 2026-07-14T09:00:00.000Z

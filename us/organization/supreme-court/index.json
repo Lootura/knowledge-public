@@ -8,11 +8,16 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/supreme-court/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/supreme-court/index.json",
   "description": "Follow Supreme Court, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-13T17:53:11.557Z",
+  "updatedAt": "2026-07-14T09:56:10.561Z",
   "aliases": [
     "U.S. Supreme Court"
   ],
   "changes": [
+    {
+      "title": "Funding milestone detected",
+      "summary": "justices are asking lawmakers on Capitol Hill to increase their 2027 budget, with most of the additional funding earmarked for security. Ann E. Marimow, a New York Times reporter, explains why the justices say these measures are necessary to protect them from rising threats.",
+      "date": "2026-07-14"
+    },
     {
       "title": "With Threats Rising, Supreme Court Asks Congress to Increase Security Funds",
       "summary": "Justices Amy Coney Barrett and Elena Kagan are scheduled to make a rare appearance at the Capitol to testify about the court’s more than $200 million request.",
@@ -54,6 +59,19 @@
       "date": "2026-07-09"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "In Rare Testimony, Supreme Court Justices Will Ask Congress for Security Funds",
+      "url": "https://www.nytimes.com/2026/07/14/us/politics/supreme-court-congress-testimony-security.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-14T09:03:34.000Z",
+      "sourceId": "lootura-us-the-new-york-times-politics"
+    },
+    {
+      "title": "Why Supreme Court Justices Are Asking for More Security",
+      "url": "https://www.nytimes.com/video/us/politics/100000011017774/why-supreme-court-justices-are-asking-for-more-security.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-14T09:39:08.000Z",
+      "sourceId": "lootura-us-the-new-york-times-politics"
+    }
+  ],
+  "evidenceCount": 1
 }

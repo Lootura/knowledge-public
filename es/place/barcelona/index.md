@@ -70,5 +70,4 @@ Date: 2026-07-13
 
 ## Fuentes
 
-- [Inquietud en Seat por los recortes de Volkswagen: “Sería ingenuo pensar que no nos van a afectar”](https://elpais.com/economia/2026-07-14/inquietud-en-seat-por-los-recortes-de-volkswagen-seria-ingenuo-pensar-que-no-nos-van-a-afectar.html?utm_source=lootura.com) — 2026-07-14T03:30:01.000Z
-- [El teatro de Barcelona que convierte en socios a Aitana y el Mago Pop](https://www.larazon.es/cataluna/teatro-barcelona-que-convierte-socios-aitana-mago-pop_202607146a55c70d772f745d2c476904.html?utm_source=lootura.com) — 2026-07-14T05:20:13.000Z
+No public source links.

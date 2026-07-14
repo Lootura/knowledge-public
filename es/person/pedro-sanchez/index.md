@@ -3,10 +3,28 @@
 > Sigue la actividad de Pedro Sánchez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-14T06:09:00.827Z
+- Actualizado: 2026-07-14T09:55:53.939Z
 - Canonical: https://atlas.lootura.com/es/person/pedro-sanchez
 
 ## Cambios recientes
+
+### Cuándo se sabrá la sentencia del hermano de Pedro Sánchez por prevaricación y tráfico de influencias
+
+Tras el proceso de investigación pertinente, la Audiencia Provincial de Badajoz contempla hacer pública la sentencia alrededor del ‘caso David Sánchez '. El pasado jueves, el tribunal liderado por el magistrado José Antonio Aparicio llevó a cabo la deliberación acerca de dicho escenario con el objetivo de publicar la r.
+
+Date: 2026-07-14
+
+### Vox acusa a Sánchez y Moreno de usar el cambio climático como excusa en los incendios
+
+La portavoz de Vox en el Congreso, Pepa Millán , ha acusado a los presidentes del Gobierno, Pedro Sánchez , y de la Junta de Andalucía , Juanma Moreno , de achacar el incendio de Los Gallardos (Almería) al cambio climático «como excusa para descargar las responsabilidades de las administraciones». En una rueda de prens.
+
+Date: 2026-07-14
+
+### UGT Andalucía apoya al humorista Manu Sánchez tras recibir amenazas de muerte
+
+El Consejo de UGT Andalucía, formado por el secretario General de UGT Andalucía y su Ejecutiva, así como los secretarios Generales de las tres federaciones (SP, FICA y FeSMC) y de las ocho uniones provinciales, ha considerado «inadmisible» que en un Estado social y democrático de derecho se pretenda «coartar», mediante.
+
+Date: 2026-07-14
 
 ### Pedro Sánchez viajará a Argelia con la ruta de pateras disparada en Baleares y con dos desaparecidos en el mar
 
@@ -50,28 +68,8 @@ La presidenta madrileña, Isabel Díaz Ayuso, ha augurado este lunes, en alusió
 
 Date: 2026-07-13
 
-### Errores no forzados en el PP
-
-Más de una vez nos hemos referido a que Alberto Núñez Feijóo estaba mucho más suelto y feliz cuando era presidente de la Xunta de Galicia que ahora que ejerce de jefe de la oposición. No es nada fácil lidiar con Pedro Sánchez y aguantar diariamente la presión de la opinión publicada, que oscila entre los que le critica.
-
-Date: 2026-07-13
-
-### Rajoy enoja a Francia mientras el Gobierno acusa al PP de torpedear la política exterior
-
-El Partido Popular ya logró concitar la irritación de los gobiernos de Pedro Sánchez y Emmanuel Macron, por bloquear hace una semana en el Senado el tratado de amistad que ambos mandatarios sellaron en la cumbre hispanofrancesa celebrada en Barcelona el 19 de enero del 2023. Y ahora unas polémicas palabras del expresid.
-
-Date: 2026-07-13
-
-### Junts confirma que no apoyará la senda de déficit para los Presupuestos en el Congreso
-
-El portavoz nacional de Junts per Catalunya, Josep Rius, ha anunciado oficialmente este lunes que su formación no apoyará en el Congreso la senda de déficit que presentará el Gobierno este martes, lo que condiciona los Presupuestos Generales del Estado prometidos por el Ejecutivo de Pedro Sánchez. El partido liderado p.
-
-Date: 2026-07-13
-
 ## Fuentes
 
-- [El PP defiende plantear "propuestas polémicas" para ofrecer su alternativa ante un Gobierno que "ha gestionado muy mal"](https://www.20minutos.es/nacional/pp-defiende-plantear-propuestas-polemicas-para-ofrecer-su-alternativa-ante-un-gobierno-que-ha-gestionado-muy-mal_7014104_0.html?utm_source=lootura.com) — 2026-07-14T03:00:00.000Z
-- [Moreno resucita su versión 'verde' en Los Gallardos ante Sánchez pese a chocar con su pacto con Vox](https://www.elconfidencial.com/espana/andalucia/2026-07-14/moreno-verde-los-gallardos-pacto-vox-incendio-almeria_4389246/?utm_source=lootura.com) — 2026-07-14T03:00:00.000Z
-- [David Sánchez compone en Moncloa con un piano japonés y sobre una mesa que usaron Suárez y González en sus Consejos de Ministros](https://www.eldebate.com/espana/20260714/david-sanchez-compone-moncloa-piano-japones-sobre-mesa-usaron-suarez-gonzalez-consejos-ministros_439133.html?utm_source=lootura.com) — 2026-07-14T02:25:00.000Z
-- [El juez Peinado reclama a Begoña Gómez que “acredite” que solo usó su pasaporte para viajar a Reino Unido](https://elpais.com/espana/2026-07-13/el-juez-peinado-reclama-a-begona-gomez-que-acredite-que-solo-uso-su-pasaporte-para-viajar-a-reino-unido.html?utm_source=lootura.com) — 2026-07-13T17:45:22.000Z
-- [Pedro Sánchez viajará a Argelia con la ruta de pateras disparada en Baleares y con dos desaparecidos en el mar](https://okdiario.com/baleares/pedro-sanchez-viajara-argelia-ruta-pateras-disparada-baleares-dos-desaparecidos-mar-18984859/amp?utm_source=lootura.com) — 2026-07-14T02:00:50.000Z
+- [Cuándo se sabrá la sentencia del hermano de Pedro Sánchez por prevaricación y tráfico de influencias](https://www.elconfidencial.com/espana/2026-07-14/cuando-sabra-sentencia-hermano-pedro-sanchez-prevaricacion-trafico-influencias_4389525/?utm_source=lootura.com) — 2026-07-14T07:30:00.000Z
+- [Vox acusa a Sánchez y Moreno de usar el cambio climático como excusa en los incendios](https://theobjective.com/espana/politica/2026-07-14/vox-sanchez-moreno-cambio-climatico-excusa-incendios/?utm_source=lootura.com) — 2026-07-14T09:46:23.000Z
+- [UGT Andalucía apoya al humorista Manu Sánchez tras recibir amenazas de muerte](https://theobjective.com/medios/television/2026-07-14/ugt-andalucia-manu-sanchez-amenazas-muerte/?utm_source=lootura.com) — 2026-07-14T09:11:08.000Z

@@ -3,10 +3,16 @@
 > Sigue la actividad de Apple en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: company
-- Actualizado: 2026-07-14T06:09:00.827Z
+- Actualizado: 2026-07-14T09:55:53.939Z
 - Canonical: https://atlas.lootura.com/es/company/apple
 
 ## Cambios recientes
+
+### Apple añade al iPhone un nuevo mensaje de alerta que debes conocer para que no te roben ni te hackeen
+
+A pesar de que Apple está totalmente centrada en las mejoras de iOS 27 que llegarán en septiembre, sigue incluyendo novedades en iOS 26 . Hoy lo ha hecho en la última beta de iOS 26.6 que ya puedes probar en tu iPhone , y aunque no es una revolución, llega con una nueva función que no puede ser más útil. El objetivo es.
+
+Date: 2026-07-14
 
 ### iOS 27 lanza su beta pública con Siri AI: cómo instalarla y iPhone compatibles
 
@@ -64,4 +70,4 @@ Date: 2026-07-10
 
 ## Fuentes
 
-- [iOS 27 lanza su beta pública con Siri AI: cómo instalarla y iPhone compatibles](https://hipertextual.com/apple/ios-27-beta-publica-ya-disponible-como-instalar-iphone-compatibles/?utm_source=lootura.com) — 2026-07-13T21:40:36.000Z
+- [Apple añade al iPhone un nuevo mensaje de alerta que debes conocer para que no te roben ni te hackeen](https://hipertextual.com/apple/apple-anade-al-iphone-un-nuevo-mensaje-de-alerta-que-debes-conocer-para-que-no-te-roben-ni-te-hackeen/?utm_source=lootura.com) — 2026-07-14T07:35:21.000Z

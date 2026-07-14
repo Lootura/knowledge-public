@@ -3,10 +3,16 @@
 > Sigue la actividad de Mijas en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-13T02:33:34.884Z
+- Actualizado: 2026-07-14T09:55:53.939Z
 - Canonical: https://atlas.lootura.com/es/place/mijas
 
 ## Cambios recientes
+
+### Detienen a un hombre relacionado con el atropello mortal de Nikoline, la adolescente noruega atropellada en Mijas tras ver jugar a su selección
+
+Este martes se está realizando el estudio y la inspección ocular de una furgoneta y también se le tomará declaración al detenido Leer.
+
+Date: 2026-07-14
 
 ### La jueza envía a prisión al detenido por el doble asesinato de Mijas (Málaga)
 
@@ -40,4 +46,4 @@ Date: 2026-07-08
 
 ## Fuentes
 
-No public source links.
+- [Detienen a un hombre relacionado con el atropello mortal de Nikoline, la adolescente noruega atropellada en Mijas tras ver jugar a su selección](https://www.elmundo.es/andalucia/2026/07/14/6a55eeea21efa065338b45a4.html?utm_source=lootura.com) — 2026-07-14T08:10:20.000Z

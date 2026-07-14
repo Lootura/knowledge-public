@@ -3,16 +3,10 @@
 > Follow Darline Graham Nordone, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-07-14T06:09:23.919Z
+- Updated: 2026-07-14T09:56:10.561Z
 - Canonical: https://atlas.lootura.com/us/person/darline-graham-nordone
 
 ## Recent changes
-
-### McMaster, Trump look to Graham's sister for Senate
-
-President Donald Trump said Monday he wants South Carolina Gov. Henry McMaster to appoint Lindsey Graham’s sister, Darline Graham Nordone, to serve the remainder of the late senator’s term. One Republican familiar with McMaster’s plans said the governor intends to appoint Nordone to serve in the Senate for the rest of.
-
-Date: 2026-07-13
 
 ### Discovered by Atlas
 
@@ -38,24 +32,6 @@ Gov. Henry McMaster of South Carolina named Darline Graham Nordone to replace Mr
 
 Date: 2026-07-13
 
-### Darline Graham Nordone, Lindsey Graham's sister, appointed to fill Senate seat
-
-South Carolina Gov. Henry McMaster announced his pick to fill the vacancy left by Sen. Lindsey Graham's death.
-
-Date: 2026-07-13
-
-### South Carolina's governor names Lindsey Graham's sister to serve out his term
-
-South Carolina's governor says he is appointing Darline Graham Nordone to finish the term of her late brother. Top Republicans, including President Trump, have coalesced around the pick. (Image credit: Kevin Dietsch).
-
-Date: 2026-07-13
-
-### Lindsey Graham’s Sister Appointed to Finish His Senate Term After Trump’s Backing
-
-Gov. Henry McMaster of South Carolina named Darline Graham Nordone to replace Mr. Graham, who died on Saturday.
-
-Date: 2026-07-13
-
 ### Trump recommends South Carolina’s governor appoint Lindsey Graham’s sister to finish his Senate term
 
 President Donald Trump said Monday that he has recommended to South Carolina Gov. Henry McMaster that he choose Lindsey Graham’s sister, Darline Graham Nordone, to serve the remainder of the late Republican senator’s term, which ends in early January.
@@ -66,5 +42,4 @@ Date: 2026-07-13
 
 - [S.C. Gov McMaster appoints Darline Graham Nordone to fill Sen. Lindsey Graham's seat](https://www.nbcnews.com/video/s-c-gov-mcmaster-appoints-darline-graham-nordone-to-fill-sen-lindsey-graham-s-seat-266608709594?utm_source=lootura.com) — 2026-07-13T20:34:54.000Z
 - [Who is Darline Graham Nordone, the late Sen. Lindsey Graham's sister?](https://www.pbs.org/newshour/politics/who-is-darline-graham-nordone-the-late-sen-lindsey-grahams-sister?utm_source=lootura.com) — 2026-07-13T22:44:58.000Z
-- [McMaster, Trump look to Graham's sister for Senate](https://www.politico.com/news/2026/07/13/trump-lindsey-graham-replacement-mcmaster-00994800?utm_source=lootura.com) — 2026-07-13T14:58:32.000Z
 - [Lindsey Graham’s Sister Appointed to Finish His Senate Term After Trump’s Backing](https://www.nytimes.com/2026/07/13/us/politics/trump-graham-sister-south-carolina-senate.html?utm_source=lootura.com) — 2026-07-13T23:27:44.000Z

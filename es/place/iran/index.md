@@ -3,10 +3,16 @@
 > Sigue la actividad de Iran en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-14T06:09:00.827Z
+- Actualizado: 2026-07-14T09:55:53.939Z
 - Canonical: https://atlas.lootura.com/es/place/iran
 
 ## Cambios recientes
+
+### El petróleo supera los 86 dólares ante la escalada en el Golfo y ya sube un 20% sobre los mínimos de julio
+
+El precio del petróleo extiende las subidas y suma hoy un 2,5%, hasta superar los 85 dólares el barril de brent , tras ganar más del 9% la víspera a medida que se intensifica el enfrentamiento entre EE UU e Irán. El presidente Donald Trump restableció el bloqueo estadounidense a los buques iraníes que transitan por el.
+
+Date: 2026-07-14
 
 ### El petróleo extiende el rally y penaliza las Bolsas
 
@@ -62,13 +68,6 @@ La escalada en el conflicto entre Irán y EEUU vuelve a elevar el precio del pet
 
 Date: 2026-07-13
 
-### Trump, sobre el estrecho de Ormuz: «Lo vamos a mantener seguro y lo vamos a administrar»
-
-El presidente de Estados Unidos , Donald Trump , dijo este lunes que su país se convertirá en el «guardián» del estrecho de Ormuz y aseguró que Washington debería ser compensado por proteger la estratégica vía de comercio, interrumpida por Irán en medio de la actual escalada en el conflicto. «Vamos a golpearlos muy dur.
-
-Date: 2026-07-13
-
 ## Fuentes
 
-- [El petróleo extiende el rally y penaliza las Bolsas](https://cincodias.elpais.com/mercados-financieros/2026-07-14/la-bolsa-y-el-ibex-35.html?utm_source=lootura.com) — 2026-07-14T04:29:01.000Z
-- [El plan de Israel para convertir al ex presidente Ahmadineyad en líder del Irán posayatolás, según el 'New York Times'](https://www.elmundo.es/internacional/2026/07/13/6a550bc5fc6c83b8168b4593.html?utm_source=lootura.com) — 2026-07-13T16:07:31.000Z
+- [El petróleo supera los 86 dólares ante la escalada en el Golfo y ya sube un 20% sobre los mínimos de julio](https://cincodias.elpais.com/mercados-financieros/2026-07-14/la-bolsa-y-el-ibex-35.html?utm_source=lootura.com) — 2026-07-14T07:55:05.000Z

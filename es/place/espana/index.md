@@ -3,58 +3,10 @@
 > Sigue la actividad de España en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-14T06:09:00.827Z
+- Actualizado: 2026-07-14T09:55:53.939Z
 - Canonical: https://atlas.lootura.com/es/place/espana
 
 ## Cambios recientes
-
-### Incendios forestales en España hoy, en directo: última hora de la evolución del fuego
-
-El calor extremo y las altas temperaturas siguen complicando las labores de extinción de varios incendios forestales activos en distintos puntos de España. Castilla y León, Cataluña, la Comunidad Valenciana y Andalucía concentran algunos de los principales focos.
-
-Date: 2026-07-14
-
-### La carnicería que ha logrado convertirse en el líder de los supermercados de España: "Siempre precios bajos"
-
-Cuando en el año 1977 Francisco Roig Ballester y Trinidad Alfonso Mocholí decidieron transformar las carnicerías del negocio familiar en ultramarinos nadie atisbaba lo que supondría esta decisión. Bueno, mejor dicho, nadie no. Probablemente Juan Roig y su esposa, Hortensia Herrero, que junto a los hermanos de Juan -Fer.
-
-Date: 2026-07-14
-
-### Los expertos responden tus dudas sobre las bajas laborales: "Las vacaciones que no se han disfrutado por estar de baja no se pierden"
-
-La incapacidad temporal -el nombre técnico que reciben las bajas médicas- lleva varios días en primera línea del debate público en España. Su incidencia en la población se ha disparado drásticamente desde la pandemia y las dudas sobre la prestación, su duración, cuantía, cómo afecta a las vacaciones... son habituales .
-
-Date: 2026-07-14
-
-### Este es el pueblo de la Comunidad Valenciana más barato para alquilar una casa en la playa este verano
-
-La Comunidad Valenciana es uno de los centros turísticos más importantes en España. Este territorio cerró 2025 con casi 30 millones de turistas, de los cuales 12,5 millones fueron extranjeros y 17,4% son nacionales.Las previsiones para este 2026 apuntan a que los números seguirán al alza en el caso de los turistas proc.
-
-Date: 2026-07-14
-
-### Los universitarios, contra reloj por alquilar una habitación: adelantan la búsqueda por los precios y la competencia
-
-Es la primera vez que muchos estudiantes abandonan la casa de sus padres para irse a estudiar fuera tras conseguir la admisión en la universidad y la carrera que deseaban. Otros continúan el curso buscando un cambio de aires. En ambos casos se encuentran con el mismo problema: encontrar una habitación .En España hay má.
-
-Date: 2026-07-14
-
-### Un conductor del SAMUR explica cuánto dinero gana y cuántos días trabaja al mes
-
-El salario de los trabajadores continúa siendo uno de los indicadores más observados para medir la situación económica de los hogares. Según la Encuesta Anual de Estructura Salarial del Instituto Nacional de Estadística, el sueldo medio en España alcanzó en 2024 los 29.540,26 euros brutos anuales, un 5,3% más que el añ.
-
-Date: 2026-07-14
-
-### Operadores petrolíferos apuntan a Petroprix como receptor del diésel sospechoso por su origen ruso
-
-Petroprix se ha situado en el foco del sector petrolero. La cadena de gasolineras low cost no deja de crecer tanto dentro como fuera de España con sus estaciones de servicio de bajo coste, que se encuentran, según los registros de la Comisión Nacional de los Mercados y la Competencia (CNMC), entre las firmas con el pre.
-
-Date: 2026-07-14
-
-### La revista 'Forbes' sitúa 13 hospitales madrileños entre los 25 mejores de España
-
-La revista Forbes sitúa 13 hospitales de la Comunidad de Madrid en su lista anual de los mejores 25 de España , tanto públicos como privados. A lo largo de la lista, Madrid cuenta con ocho centros públicos, de los cuales seis se colocan entre los diez primeros puestos, y cinco privados. De hecho, los cuatro primeros ho.
-
-Date: 2026-07-14
 
 ### El calor extremo que está por venir: ¿puede España alcanzar los 50 grados?
 
@@ -68,15 +20,63 @@ Ofreuddys Daniel Estrada Leal había sido médico en Venezuela antes de llegar a
 
 Date: 2026-07-14
 
+### España o Francia: ¿quién va a ganar según los datos?
+
+Este martes se disputa uno de esos partidos que paralizan a todo un país. Incluso quienes no siguen habitualmente el fútbol estarán pendientes de lo que ocurra a partir de las 21.00 (hora peninsular) en el estadio de Dallas. El encuentro podrá seguirse en abierto a través de La 1 de TVE. España se juega el pase a la fi.
+
+Date: 2026-07-14
+
+### El precio manda en la elección de gasolinera del conductor español
+
+El comportamiento de los conductores españoles a la hora de acudir al surtidor está experimentando un cambio estructural condicionado, de forma casi exclusiva, por el bolsillo. Según los últimos datos de la tercera entrega del estudio «Hábitos de consumo de combustible en España», elaborado por la firma IO Investigació.
+
+Date: 2026-07-14
+
+### Paz Velasco: «Un psicópata escucha más que habla y se convierte en tu espejo»
+
+Se estima que en España hay alrededor de 1 millón de 'psicópatas puros', lo que supone entre el 1% y el 2% de la población general. Además, hay entre 4 y 6 millones de 'psicópatas integrados' , esto es que no tienen antecedentes delictivos pero sí presentan los rasgos de manipulación o falta de empatía propios de esta.
+
+Date: 2026-07-14
+
+### 'Josu Ternera' retrasa su entrega a España al recurrir su propia absolución en Francia
+
+La defensa del histórico etarra se ampara en que la sentencia, pese a declararle inocente, contiene afirmaciones que le podrían perjudicar en el futuro.
+
+Date: 2026-07-14
+
+### El enigma Victoria Abril: España no supo qué hacer con la mejor actriz de su generación
+
+En la foto oficial de la Berlinale de 1991 , Victoria Abril (Madrid, 67 años) sostiene su Oso de Plata con una mano y eleva la otra como ejecutando un saludo torero, o a punto de atusarse el moño italiano (elija usted). Acaba de imponerse, por su trabajo en Amantes , en la categoría de mejor actriz sobre Vanessa Redgra.
+
+Date: 2026-07-14
+
+### Amazon se convierte en el mayor comprador de renovables en España con 68 proyectos y 3.686 MW desde 2021
+
+Amazon ha invertido 3.000 millones de euros en tecnologías bajas en carbono en España entre 2021 y 2025, una apuesta que ha contribuido a impulsar hasta 24.000 empleos y a generar hasta 2.000 millones de euros de valor añadido bruto (VAB) para la economía española. Así lo revela un nuevo informe independiente elaborado.
+
+Date: 2026-07-14
+
+### El absentismo laboral alcanza un máximo del 7,6% en 2025, con un coste de 59.109 millones
+
+El absentismo laboral alcanzó en España su máximo histórico en 2025 al situarse en el 7,6% de las horas pactadas , lo que generó un coste récord de 59.109 millones de euros para la economía nacional (un 11,7% más que el año anterior), debido principalmente al repunte de la incapacidad temporal, según el ‘XV Informe Anu.
+
+Date: 2026-07-14
+
+### Sumar propone exigir climatización por ley para poder alquilar viviendas
+
+El Grupo Parlamentario Plurinacional Sumar ha propuesto que, para poder tener un contrato de alquiler en España, las viviendas esté climatizadas por ley. Así lo ha avanzado este martes el portavoz de Vivienda de Sumar, Alberto Ibáñez , en rueda de prensa en el Congreso de los Diputados, en la que ha incidido en que las.
+
+Date: 2026-07-14
+
 ## Fuentes
 
-- ["Presos" en sus propias casas por no tener ascensor: "Hace dos años que solo salgo para ir al médico"](https://www.20minutos.es/nacional/presos-sus-propias-casas-por-no-tener-ascensor-hace-dos-anos-que-solo-salgo-calle-para-ir-medico_7013683_0.html?utm_source=lootura.com) — 2026-07-14T03:00:00.000Z
-- [La carnicería que ha logrado convertirse en el líder de los supermercados de España: "Siempre precios bajos"](https://www.20minutos.es/lainformacion/empresas/carniceria-que-se-ha-convertido-supermercado-lider-espana-siempre-precios-bajos_7009641_0.html?utm_source=lootura.com) — 2026-07-14T03:00:00.000Z
-- [Los expertos responden tus dudas sobre las bajas laborales: "Las vacaciones que no se han disfrutado por estar de baja no se pierden"](https://www.20minutos.es/lainformacion/economia-y-finanzas/los-expertos-responden-todas-tus-dudas-sobre-las-bajas-laborales-las-vacaciones-no-disfrutadas-por-estar-baja-no-se-pierden_7014063_0.html?utm_source=lootura.com) — 2026-07-14T03:00:00.000Z
-- [Este es el pueblo de la Comunidad Valenciana más barato para alquilar una casa en la playa este verano](https://www.abc.es/economia/cuentas-corrientes/pueblo-comunidad-valenciana-barato-alquilar-casa-playa-20260714114900-nt.html?utm_source=lootura.com) — 2026-07-14T03:00:07.000Z
-- [Los universitarios, contra reloj por alquilar una habitación: adelantan la búsqueda por los precios y la competencia](https://www.abc.es/economia/cuentas-corrientes/universitarios-contrarreloj-alquilar-habitacion-adelantan-busqueda-precios-20260714020912-nt.html?utm_source=lootura.com) — 2026-07-14T04:29:28.000Z
-- [Un conductor del SAMUR explica cuánto dinero gana y cuántos días trabaja al mes](https://www.abc.es/recreo/conductor-samur-explica-dinero-gana-cuantos-dias-20260714060000-nt.html?utm_source=lootura.com) — 2026-07-14T04:00:10.000Z
-- [Operadores petrolíferos apuntan a Petroprix como receptor del diésel sospechoso por su origen ruso](https://elpais.com/economia/2026-07-14/operadores-petroliferos-apuntan-a-petroprix-como-receptor-del-diesel-sospechoso-por-su-origen-ruso.html?utm_source=lootura.com) — 2026-07-14T03:15:00.000Z
-- [La revista 'Forbes' sitúa 13 hospitales madrileños entre los 25 mejores de España](https://www.elconfidencial.com/espana/madrid/2026-07-14/revista-forbes-hospitales-madrilenos-mejores-espana_4389342/?utm_source=lootura.com) — 2026-07-14T03:00:00.000Z
+- [Lamine Yamal: "Decís que no estoy a mi mejor nivel, entonces no tenéis que esperar nada de mí, pero seguro que va a ser un día especial"](https://www.20minutos.es/deportes/futbol/lamine-yamal-decis-que-no-estoy-mi-mejor-nivel-entonces-no-teneis-que-esperar-nada-mi-pero-seguro-que-va-ser-un-dia-especial_7014232_0.html?utm_source=lootura.com) — 2026-07-14T06:18:16.000Z
+- [El precio manda en la elección de gasolinera del conductor español](https://www.abc.es/motor/economia/precio-manda-eleccion-gasolinera-conductor-espanol-20260714105900-nt.html?utm_source=lootura.com) — 2026-07-14T08:59:00.000Z
+- [Paz Velasco: «Un psicópata escucha más que habla y se convierte en tu espejo»](https://www.abc.es/bienestar/psicologia-sexo/psicologia/paz-velasco-criminologa-psicopata-primera-fase-relacion-20260714111504-nt.html?utm_source=lootura.com) — 2026-07-14T09:15:04.000Z
 - [Nueve países europeos acuerdan crear una alianza antibalística con Ucrania](https://www.elcorreo.com/internacional/europa/nueve-paises-europeos-acuerdan-crear-alianza-antibalistica-20260713215804-ntrc_amp.html?utm_source=lootura.com) — 2026-07-13T19:58:06.000Z
+- ['Josu Ternera' retrasa su entrega a España al recurrir su propia absolución en Francia](https://www.elcorreo.com/politica/josu-ternera-retrasa-entrega-espana-recurrir-propia-20260714112823-nt_amp.html?utm_source=lootura.com) — 2026-07-14T09:28:24.000Z
 - [La Policía eleva a 3 millones los inmigrantes regularizados con sus familias](https://amp.elmundo.es/espana/2026/07/13/6a5529e321efa0765a8b4581.html?utm_source=lootura.com) — 2026-07-13T20:48:59.000Z
+- [El calor extremo que está por venir: ¿puede España alcanzar los 50 grados?](https://elpais.com/clima-y-medio-ambiente/2026-07-14/el-calor-extremo-que-esta-por-venir-puede-espana-alcanzar-los-50-grados.html?utm_source=lootura.com) — 2026-07-14T03:30:01.000Z
+- [Uno de cada 10 médicos en España ya son extranjeros: “Venimos a trabajar duro para sostener y mejorar el sistema de salud”](https://elpais.com/sociedad/2026-07-14/uno-de-cada-10-medicos-en-espana-ya-son-extranjeros-venimos-a-trabajar-duro-para-sostener-y-mejorar-el-sistema-de-salud.html?utm_source=lootura.com) — 2026-07-14T03:30:01.000Z
+- [España o Francia: ¿quién va a ganar según los datos?](https://elpais.com/podcasts/hoy-en-el-pais/2026-07-14/segun-los-datos-quien-va-a-ganar-esta-noche.html?utm_source=lootura.com) — 2026-07-14T03:45:01.000Z
+- [El enigma Victoria Abril: España no supo qué hacer con la mejor actriz de su generación](https://elpais.com/icon/2026-07-14/el-enigma-victoria-abril-por-que-espana-no-supo-que-hacer-con-la-mejor-actriz-de-su-generacion.html?utm_source=lootura.com) — 2026-07-14T03:30:01.000Z

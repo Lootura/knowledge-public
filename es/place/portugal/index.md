@@ -64,4 +64,4 @@ Date: 2026-07-09
 
 ## Fuentes
 
-- [El giro de Portugal con la vivienda para «dar confianza al mercado»: desahucio por impago, fianza libre y fin al control de precios](https://www.abc.es/economia/giro-portugal-vivienda-dar-confianza-mercado-desahucio-20260714070000-nt.html?utm_source=lootura.com) — 2026-07-14T05:00:19.000Z
+No public source links.

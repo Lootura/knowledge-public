@@ -34,4 +34,4 @@ Date: 2026-07-10
 
 ## Fuentes
 
-- [iOS 27 lanza su beta pública con Siri AI: cómo instalarla y iPhone compatibles](https://hipertextual.com/apple/ios-27-beta-publica-ya-disponible-como-instalar-iphone-compatibles/?utm_source=lootura.com) — 2026-07-13T21:40:36.000Z
+No public source links.

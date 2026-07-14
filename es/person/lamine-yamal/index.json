@@ -8,12 +8,22 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/lamine-yamal/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/lamine-yamal/index.json",
   "description": "Sigue la actividad de Lamine Yamal en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-14T06:09:00.827Z",
+  "updatedAt": "2026-07-14T09:55:53.939Z",
   "aliases": [],
   "changes": [
     {
       "title": "Lamine Yamal, una cuestión de genios y de magos: “Es diferente al resto. Tiene algo especial”",
       "summary": "Fue en Múnich, hace poco más de dos años, cuando Europa conoció a un chaval llamado Lamine Yamal. Era la semifinal de la Eurocopa 2024 y todavía no había cumplido 17. Interpretó, sin embargo, cómo lastimar a su rival: “Me di cuenta de que Francia tenía un problema en el medio, dejaban ahí a gente suelta”. Se instaló en.",
+      "date": "2026-07-14"
+    },
+    {
+      "title": "Lamine Yamal responde a Rajoy: \"Francia y nosotros somos ejemplo de integración\"",
+      "summary": "El líder de la selección española, de padres migrantes, corrige al expresidente del Gobierno y reivindica la riqueza de ambas selecciones horas antes de su enfrentamiento en semifinales El ministro de Exteriores francés carga contra Rajoy: “Es una estupidez, racismo o una combinación de ambas cosas” Lamine Yamal es hij.",
+      "date": "2026-07-14"
+    },
+    {
+      "title": "Albares, a Rajoy: \"Señalar por el color de la piel quién puede ser ciudadano o quién no encubre cosas muy peligrosas\"",
+      "summary": "El ministro de Exteriores ha cargado contra el \"veneno del racismo y la xenofobia\" y ha defendido el fútbol como vehículo de diversidad y tolerancia Lamine Yamal responde a Rajoy: “Francia y nosotros somos ejemplo de integración” El ministro de Asuntos Exteriores, José Manuel Albares, ha criticado las declaraciones rac.",
       "date": "2026-07-14"
     },
     {
@@ -44,11 +54,29 @@
   ],
   "sources": [
     {
+      "title": "Lamine Yamal: \"Decís que no estoy a mi mejor nivel, entonces no tenéis que esperar nada de mí, pero seguro que va a ser un día especial\"",
+      "url": "https://www.20minutos.es/deportes/futbol/lamine-yamal-decis-que-no-estoy-mi-mejor-nivel-entonces-no-teneis-que-esperar-nada-mi-pero-seguro-que-va-ser-un-dia-especial_7014232_0.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-14T06:18:16.000Z",
+      "sourceId": "lootura-es-20minutos"
+    },
+    {
       "title": "Lamine Yamal, una cuestión de genios y de magos: “Es diferente al resto. Tiene algo especial”",
       "url": "https://elpais.com/deportes/mundial-futbol/2026-07-14/lamine-yamal-una-cuestion-de-genios-y-de-magos.html?utm_source=lootura.com",
       "publishedAt": "2026-07-14T03:30:01.000Z",
       "sourceId": "lootura-es-el-pais"
+    },
+    {
+      "title": "Lamine Yamal responde a Rajoy: \"Francia y nosotros somos ejemplo de integración\"",
+      "url": "https://www.eldiario.es/rastreador/lamine-yamal-responde-rajoy-francia-ejemplo-integracion_132_13378101.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-14T06:45:09.000Z",
+      "sourceId": "lootura-es-eldiario-es"
+    },
+    {
+      "title": "Albares, a Rajoy: \"Señalar por el color de la piel quién puede ser ciudadano o quién no encubre cosas muy peligrosas\"",
+      "url": "https://www.eldiario.es/politica/albares-rajoy-senalar-color-piel-ciudadano-no-encubre-cosas-peligrosas_1_13378158.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-14T07:03:51.000Z",
+      "sourceId": "lootura-es-eldiario-es"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 5
 }

@@ -27,19 +27,6 @@
       "date": "2026-07-14"
     }
   ],
-  "sources": [
-    {
-      "title": "Este es el pueblo de la Comunidad Valenciana más barato para alquilar una casa en la playa este verano",
-      "url": "https://www.abc.es/economia/cuentas-corrientes/pueblo-comunidad-valenciana-barato-alquilar-casa-playa-20260714114900-nt.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-14T03:00:07.000Z",
-      "sourceId": "lootura-es-abc"
-    },
-    {
-      "title": "Incendios forestales en España hoy, en directo: última hora de la evolución del fuego",
-      "url": "https://www.larazon.es/sociedad/incendios-forestales-espana-hoy-directo-ultima-hora-evolucion-fuego_202607136a54beb9772f745d2c45a5fb.html?outputType=amp&utm_source=lootura.com",
-      "publishedAt": "2026-07-14T01:36:38.000Z",
-      "sourceId": "lootura-es-la-razon"
-    }
-  ],
-  "evidenceCount": 2
+  "sources": [],
+  "evidenceCount": 0
 }
