@@ -3,16 +3,10 @@
 > Follow Democratic Party, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-07-14T13:30:27.465Z
+- Updated: 2026-07-14T17:12:24.301Z
 - Canonical: https://atlas.lootura.com/us/organization/democratic-party
 
 ## Recent changes
-
-### Democratic Senate Candidates in Maine Denounce Deadly ICE Shooting
-
-The killing of a man in Biddeford quickly became an issue in the Senate race, with Democrats aiming to tie Senator Susan Collins to President Trump’s immigration crackdown.
-
-Date: 2026-07-14
 
 ### Funding milestone detected
 
@@ -35,6 +29,12 @@ Date: 2026-07-14
 ### Can Democrats Win Rural Voters Turning Away From Trump? It’s a Tough Sell.
 
 House candidates like Beth Macy, author of “Dopesick,” have crafted messages based on lifetimes in rural regions. But messages need an audience, and many minds are closed to the party.
+
+Date: 2026-07-14
+
+### Democratic Senate Candidates in Maine Denounce Deadly ICE Shooting
+
+The killing of a man in Biddeford quickly became an issue in the Senate race, with Democrats aiming to tie Senator Susan Collins to President Trump’s immigration crackdown.
 
 Date: 2026-07-14
 
@@ -73,5 +73,4 @@ Date: 2026-07-13
 - [Facing funding losses, states call out big businesses with employees on Medicaid](https://www.cbsnews.com/news/medicaid-funding-work-requirement-states-walmart-amazon/?utm_source=lootura.com) — 2026-07-14T09:00:15.000Z
 - [Platner's voters are reeling as Maine Democratic Party races to choose his replacement](https://www.npr.org/2026/07/14/nx-s1-5892502/platner-collins-maine-democratic-party-senate?utm_source=lootura.com) — 2026-07-14T09:00:00.000Z
 - [Can Democrats Win Rural Voters Turning Away From Trump? It’s a Tough Sell.](https://www.nytimes.com/2026/07/14/us/politics/rural-democrats-midterms.html?utm_source=lootura.com) — 2026-07-14T12:21:09.000Z
-- [Democratic Senate Candidates in Maine Denounce Deadly ICE Shooting](https://www.nytimes.com/2026/07/13/us/politics/maine-ice-shooting-senate-graham-platner.html?utm_source=lootura.com) — 2026-07-14T02:01:13.000Z
 - [Red State, Blue Governor: It Could Happen in Iowa. Would It Matter?](https://www.nytimes.com/2026/07/14/us/politics/republican-supermajority-iowa-ohio.html?utm_source=lootura.com) — 2026-07-14T09:02:27.000Z

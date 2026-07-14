@@ -3,10 +3,16 @@
 > Follow Europe, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-14T13:30:27.465Z
+- Updated: 2026-07-14T17:12:24.301Z
 - Canonical: https://atlas.lootura.com/us/place/europe
 
 ## Recent changes
+
+### Ticking time bomb? Europe's aging population brings challenges
+
+The population of the 27-nation European Union will peak in 2029 before falling in the coming decades, according to a report published Tuesday that spotlights the major challenges the bloc faces from an aging population.
+
+Date: 2026-07-14
 
 ### Europe, Flexing Muscle in Ukraine, Is Still on Sidelines in Iran
 
@@ -62,12 +68,6 @@ Europe first entered the public knowledge record with source-backed evidence.
 
 Date: 2026-07-09
 
-### June was the hottest on record for Western Europe, second hottest globally
-
-A new report by the Copernicus Climate Change Service also found that June temperatures in Western Europe were nearly 5.5 degrees above average.
-
-Date: 2026-07-09
-
 ## Sources
 
-- [Europe, Flexing Muscle in Ukraine, Is Still on Sidelines in Iran](https://www.nytimes.com/2026/07/14/world/europe/macron-trump-bastille-day-military-parade.html?utm_source=lootura.com) — 2026-07-14T11:04:35.000Z
+- [Ticking time bomb? Europe's aging population brings challenges](https://phys.org/news/2026-07-europe-aging-population.html?utm_source=lootura.com) — 2026-07-14T16:40:02.000Z

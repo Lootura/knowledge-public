@@ -3,7 +3,7 @@
 > Sigue la actividad de Koldo Garc en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-14T13:30:06.934Z
+- Actualizado: 2026-07-14T17:12:02.446Z
 - Canonical: https://atlas.lootura.com/es/person/koldo-garc
 
 ## Cambios recientes
@@ -16,4 +16,4 @@ Date: 2026-07-14
 
 ## Fuentes
 
-- [La abogada de Koldo García niega ante el juez del caso Leire Díez haber cobrado del PSOE ni directa ni indirectamente](https://www.eldiario.es/politica/abogada-koldo-garcia-niega-juez-caso-leire-diez-haber-cobrado-psoe-directa-indirectamente_1_13378470.html?utm_source=lootura.com) — 2026-07-14T11:15:23.000Z
+- [La UCO confirma que el PSOE pagó 43.225 euros a Leire a través de Zarrías y del exabogado de Koldo](https://www.abc.es/espana/uco-confirma-psoe-pago-43225-euros-leire-20260714113453-nt.html?utm_source=lootura.com) — 2026-07-14T16:25:40.000Z

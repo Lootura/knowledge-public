@@ -3,20 +3,20 @@
 > Sigue la actividad de San Sebastián en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-14T13:30:06.934Z
+- Actualizado: 2026-07-14T17:12:02.446Z
 - Canonical: https://atlas.lootura.com/es/place/san-sebastian
 
 ## Cambios recientes
 
-### La tasa de basura de Donostia subirá más de lo previsto en 2027 tras las nuevas tarifas de Gipuzkoa
-
-El cambio del método de cálculo de las cantidades a cobrar por GHK a las mancomunidades supondrá subir la cuota que paga Donostia, lo que implicará subir más de un 2,29% el tributo.
-
-Date: 2026-07-13
-
 ### «Mantenemos la misma ilusión por ganar»
 
 Lucía Canal y Naroa Landa, remeras de Donostia Arraun Lagunak, celebran haber ondeado todas las banderas en un sobresaliente inicio de temporada.
+
+Date: 2026-07-13
+
+### La tasa de basura de Donostia subirá más de lo previsto en 2027 tras las nuevas tarifas de Gipuzkoa
+
+El cambio del método de cálculo de las cantidades a cobrar por GHK a las mancomunidades supondrá subir la cuota que paga Donostia, lo que implicará subir más de un 2,29% el tributo.
 
 Date: 2026-07-13
 
@@ -41,4 +41,3 @@ Date: 2026-07-12
 ## Fuentes
 
 - [«Mantenemos la misma ilusión por ganar»](https://www.diariovasco.com/remo/liga-femenina/mantenemos-ilusion-ganar-20260714000156-nt_amp.html?utm_source=lootura.com) — 2026-07-13T22:02:10.000Z
-- [La tasa de basura de Donostia subirá más de lo previsto en 2027 tras las nuevas tarifas de Gipuzkoa](https://www.diariovasco.com/san-sebastian/tasa-basura-subira-previsto-2027-tras-nuevas-20260713185247-nt_amp.html?utm_source=lootura.com) — 2026-07-13T16:54:56.000Z

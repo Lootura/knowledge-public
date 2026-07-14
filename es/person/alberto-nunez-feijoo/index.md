@@ -3,7 +3,7 @@
 > Sigue la actividad de Alberto Núñez Feijóo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-14T13:30:06.934Z
+- Actualizado: 2026-07-14T17:12:02.446Z
 - Canonical: https://atlas.lootura.com/es/person/alberto-nunez-feijoo
 
 ## Cambios recientes
@@ -71,4 +71,3 @@ Date: 2026-07-12
 ## Fuentes
 
 - [El PP califica de "histórica" la condena del hermano de Sánchez: "Nadie está por encima de la ley"](https://www.elmundo.es/espana/2026/07/14/6a5621e6e85ece9a268b457b.html?utm_source=lootura.com) — 2026-07-14T11:58:30.000Z
-- [El Gobierno confía en que "instancias superiores" constaten "la inocencia" del hermano de Sánchez pese a su condena](https://www.eldiario.es/politica/gobierno-confia-instancias-superiores-constaten-inocencia-hermano-sanchez-pese-condena_1_13379124.html?utm_source=lootura.com) — 2026-07-14T11:34:23.000Z

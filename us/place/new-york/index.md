@@ -3,10 +3,28 @@
 > Follow New York, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-14T13:30:27.465Z
+- Updated: 2026-07-14T17:12:24.301Z
 - Canonical: https://atlas.lootura.com/us/place/new-york
 
 ## Recent changes
+
+### New York enacts nation's first statewide moratorium on building new data centers
+
+Building new data centers in New York will be paused for a year in order to allow state officials to establish guidelines protecting residents and the environment, Gov. Kathy Hochul said.
+
+Date: 2026-07-14
+
+### 'Gus' the T. rex fetches record $50.1 mn at US auction
+
+A Tyrannosaurus rex skeleton nicknamed "Gus" sold Tuesday for $50.1 million at Sotheby's in New York, making it the most valuable dinosaur fossil bought at auction after a 10-minute battle between seven bidders.
+
+Date: 2026-07-14
+
+### T rex fossil ‘Gus’ sells for $50.1m at New York auction, setting new record
+
+Skeleton judged to be one of the largest and most complete ever unearthed was excavated on a ranch in South Dakota A vast, fossilized Tyrannosaurus rex nicknamed Gus sold at Sotheby’s in New York on Tuesday for $50.1m with fees (£37.4m) to a phone bidder – making it the most valuable dinosaur fossil sold at auction. It.
+
+Date: 2026-07-14
 
 ### New York enacts nation
 
@@ -50,25 +68,8 @@ City is set to move 110 single homeless men into a Brooklyn shelter without cond
 
 Date: 2026-07-12
 
-### The best time to talk to your parents about senior care — before it's too late
-
-Most families wait to talk about senior care until an emergency hits, but experts say having those discussions early can lead to better outcomes and less conflict. Tatyana Zlotsky, CEO of A Place for Mom in New York City, said 77% of the families she works with tell her they wish they’d acted sooner. Planning before a.
-
-Date: 2026-07-12
-
-### 'Die Hard' actor Robert Davi blasts Mamdani after NYC map omits Little Italy
-
-"Die Hard" actor Robert Davi blasted New York City Mayor Zohran Mamdani Friday after a city map highlighting immigrant enclaves omitted Little Italy. The "New York City Immigrant Enclaves" map resurfaced on social media earlier this week after users pointed out it omitted Little Italy, as well as historically Jewish an.
-
-Date: 2026-07-12
-
-### Discovered by Atlas
-
-New York first entered the public knowledge record with source-backed evidence.
-
-Date: 2026-07-10
-
 ## Sources
 
-- [New York enacts nation](https://www.cbsnews.com/newyork/news/new-york-data-center-moratorium-kathy-hochul/?utm_source=lootura.com) — 2026-07-14T13:20:31.000Z
-- [Researchers define new frontier in quantum materials](https://phys.org/news/2026-07-frontier-quantum-materials.html?utm_source=lootura.com) — 2026-07-14T13:00:02.000Z
+- [New York enacts nation's first statewide moratorium on building new data centers](https://www.cbsnews.com/news/new-york-data-center-moratorium-kathy-hochul/?utm_source=lootura.com) — 2026-07-14T16:37:54.000Z
+- ['Gus' the T. rex fetches record $50.1 mn at US auction](https://phys.org/news/2026-07-gus-rex-mn-auction.html?utm_source=lootura.com) — 2026-07-14T16:26:48.000Z
+- [T rex fossil ‘Gus’ sells for $50.1m at New York auction, setting new record](https://www.theguardian.com/us-news/2026/jul/14/t-rex-skeleton-auction-record-price?utm_source=lootura.com) — 2026-07-14T15:31:05.000Z

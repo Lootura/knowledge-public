@@ -8,23 +8,13 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/united-states/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/united-states/index.json",
   "description": "Follow United States, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-14T13:30:27.465Z",
+  "updatedAt": "2026-07-14T17:12:24.301Z",
   "aliases": [
     "America",
     "Estados Unidos",
     "U.S."
   ],
   "changes": [
-    {
-      "title": "Maps show heat alerts as extreme temperatures threaten millions",
-      "summary": "Heat alerts were issued for millions across parts of the western U.S. Sunday due to an unusually prolonged heat dome, which is starting to move east.",
-      "date": "2026-07-14"
-    },
-    {
-      "title": "Details on newest U.S. strikes against Iran",
-      "summary": "The United States is carrying out a third night of airstrikes against Iran. CBS News national security analyst Aaron MacLean has more.",
-      "date": "2026-07-14"
-    },
     {
       "title": "Morning news brief",
       "summary": "Trump says the U.S. will collect tolls and impose blockade in the Strait of Hormuz, man killed by federal agents in Maine, states sue to stop Paramount-Warner Bros merger.",
@@ -41,16 +31,6 @@
       "date": "2026-07-14"
     },
     {
-      "title": "U.S. to reinstate Hormuz blockade. And, states sue over Paramount-Warner deal",
-      "summary": "The United States plans to reinstate a blockade over the Strait of Hormuz today. And, several states are suing to stop the massive Paramount-Warner Bros. merger. (Image credit: -).",
-      "date": "2026-07-14"
-    },
-    {
-      "title": "Big Banks Smash Earnings Records, but ‘Tectonic’ Risks Loom",
-      "summary": "The largest banks in the United States collectively raked in tens of billions of profits in the second quarter, despite the war in Iran and persistent inflation.",
-      "date": "2026-07-14"
-    },
-    {
       "title": "Trump Says U.S. Will ‘Take Over’ Strait of Hormuz, and How Russia Made Japan a Den of Spies",
       "summary": "Plus, scientists find sugar in outer space.",
       "date": "2026-07-14"
@@ -61,28 +41,36 @@
       "date": "2026-07-14"
     },
     {
-      "title": "Europe, Flexing Muscle in Ukraine, Is Still on Sidelines in Iran",
-      "summary": "In a show of collective strength, President Emmanuel Macron of France hosted European allies at the annual Bastille Day parade in Paris. Yet Europe is still a hostage to America’s foreign policy.",
+      "title": "Why your favorite international artist might be reconsidering their next U.S. tour",
+      "summary": "The visa process for visiting artists has always been complicated and expensive. Under the current administration, it's gotten significantly worse.",
+      "date": "2026-07-14"
+    },
+    {
+      "title": "Funding milestone detected",
+      "summary": "President Donald Trump on Tuesday announced a reversal of plans to charge a 20% toll on cargo going through the Strait of Hormuz, saying that Middle Eastern countries will instead make investment and trade deals with the U.S.",
+      "date": "2026-07-14"
+    },
+    {
+      "title": "Maps show heat alerts as extreme temperatures threaten millions",
+      "summary": "Heat alerts were issued for millions across parts of the western U.S. Sunday due to an unusually prolonged heat dome, which is starting to move east.",
+      "date": "2026-07-14"
+    },
+    {
+      "title": "Details on newest U.S. strikes against Iran",
+      "summary": "The United States is carrying out a third night of airstrikes against Iran. CBS News national security analyst Aaron MacLean has more.",
+      "date": "2026-07-14"
+    },
+    {
+      "title": "U.S. to reinstate Hormuz blockade. And, states sue over Paramount-Warner deal",
+      "summary": "The United States plans to reinstate a blockade over the Strait of Hormuz today. And, several states are suing to stop the massive Paramount-Warner Bros. merger. (Image credit: -).",
       "date": "2026-07-14"
     }
   ],
   "sources": [
     {
-      "title": "Judge rebukes Trump and DOJ over IRS lawsuit in scathing decision",
-      "url": "https://www.cbsnews.com/news/judge-trump-justice-department-irs-lawsuit-anti-weaponization-fund-settlement/?utm_source=lootura.com",
-      "publishedAt": "2026-07-14T02:22:08.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
-    {
-      "title": "Maps show heat alerts as extreme temperatures threaten millions",
-      "url": "https://www.cbsnews.com/news/heat-wave-alerts-western-northeast-states/?utm_source=lootura.com",
-      "publishedAt": "2026-07-14T01:40:51.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
-    {
-      "title": "Details on newest U.S. strikes against Iran",
-      "url": "https://www.cbsnews.com/video/details-on-newest-us-strikes-against-iran/?utm_source=lootura.com",
-      "publishedAt": "2026-07-14T01:25:44.000Z",
+      "title": "More U.S. strikes slam Iran as tensions roar over Strait of Hormuz and Bab al-Mandab waterways",
+      "url": "https://www.cbsnews.com/video/more-us-strikes-slam-iran-as-tensions-roar-over-strait-of-hormuz-and-bab-al-mandab-waterways/?utm_source=lootura.com",
+      "publishedAt": "2026-07-14T13:12:26.000Z",
       "sourceId": "lootura-us-cbs-news"
     },
     {
@@ -104,16 +92,16 @@
       "sourceId": "lootura-us-npr"
     },
     {
-      "title": "U.S. to reinstate Hormuz blockade. And, states sue over Paramount-Warner deal",
-      "url": "https://www.npr.org/2026/07/14/g-s1-133443/up-first-newsletter-iran-strait-hormuz-maine-ice-shooting-paramount-warner-bros-merger?utm_source=lootura.com",
-      "publishedAt": "2026-07-14T12:18:58.000Z",
-      "sourceId": "lootura-us-npr-world"
+      "title": "Why your favorite international artist might be reconsidering their next U.S. tour",
+      "url": "https://www.npr.org/2026/07/14/nx-s1-5783845/visa-process-artists-us?utm_source=lootura.com",
+      "publishedAt": "2026-07-14T14:46:11.000Z",
+      "sourceId": "lootura-us-npr"
     },
     {
-      "title": "Big Banks Smash Earnings Records, but ‘Tectonic’ Risks Loom",
-      "url": "https://www.nytimes.com/2026/07/14/business/jpmorgan-goldman-bofa-wells-fargo-bank-earnings.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-14T12:13:14.000Z",
-      "sourceId": "lootura-us-the-new-york-times"
+      "title": "Trump backs away from plans to charge fees in the Strait of Hormuz",
+      "url": "https://www.pbs.org/newshour/world/trump-backs-away-from-plans-to-charge-fees-in-the-strait-of-hormuz?utm_source=lootura.com",
+      "publishedAt": "2026-07-14T16:00:31.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
     },
     {
       "title": "Trump Says U.S. Will ‘Take Over’ Strait of Hormuz, and How Russia Made Japan a Den of Spies",
@@ -128,5 +116,5 @@
       "sourceId": "lootura-us-the-new-york-times"
     }
   ],
-  "evidenceCount": 12
+  "evidenceCount": 7
 }

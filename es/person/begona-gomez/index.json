@@ -8,9 +8,24 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/begona-gomez/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/begona-gomez/index.json",
   "description": "Sigue la actividad de Begoña Gómez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-14T06:09:00.827Z",
+  "updatedAt": "2026-07-14T17:12:02.446Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "El Gobierno denuncia que lo pretenden “derribar” ante “la incapacidad de hacerlo por las urnas” tras la condena al hermano de Sánchez",
+      "summary": "El Gobierno esperaba la absolución de David Sánchez y no estaba preparado para la condena de nueve años de inhabilitación al hermano del presidente por prevaricación. El fallo de la Audiencia Provincial de Badajoz, combinado con las últimas decisiones en la controvertida causa del juez Peinado contra Begoña Gómez, con.",
+      "date": "2026-07-14"
+    },
+    {
+      "title": "David Sánchez, el hijo de Magdalena y Pedro",
+      "summary": "El 22 de julio de 2019, durante el debate de investidura de Pedro Sánchez, los periodistas sentados en la tribuna jugábamos a adivinar el nombre de los presentes en la zona de invitados. Ahí estaba Begoña Gómez, en primera fila, junto a un matrimonio con el que conversaba con cercanía, pero con la distancia suficiente.",
+      "date": "2026-07-14"
+    },
+    {
+      "title": "Última hora de la actualidad política, en directo | Rufián, sobre la condena a David Sánchez: “Es una sobrada importante (…) Luego viene Begoña Gómez”",
+      "summary": "David Sánchez, hermano del presidente del Gobierno, ha sido condenado a nueve años de inhabilitación por un delito de prevaricación, y las reacciones políticas no se han hecho esperar. El portavoz de ERC en el Congreso, Gabriel Rufián, ha considerado que la condena era “previsible”: “La derecha y la ultraderecha deberí.",
+      "date": "2026-07-14"
+    },
     {
       "title": "El juez Peinado reclama a Begoña Gómez que “acredite” que solo usó su pasaporte para viajar a Reino Unido",
       "summary": "El magistrado Juan Carlos Peinado, que abrió juicio oral contra Begoña Gómez el 20 de junio y le prohibió salir de España, ha dictado este lunes una resolución para reclamar a la esposa de Pedro Sánchez que “acredite” que solo usó el pasaporte la pasada semana para viajar al Reino Unido. El juzgado le devolvió el docum.",
@@ -45,23 +60,27 @@
       "title": "La Fiscalía pide absolver a Begoña Gómez y sostiene que no ve delito",
       "summary": "La Fiscalía Provincial de Madrid ha solicitado la absolución de Begoña Gómez , esposa del presidente del Gobierno; de su exasesora Cristina Álvarez y del empresario Juan Carlos Barrabés en la causa que investiga la creación y financiación de la Cátedra Extraordinaria de Transformación Social Competitiva de la Universid.",
       "date": "2026-07-09"
-    },
-    {
-      "title": "Barrabés, ante la causa de Peinado sobre Begoña Gómez: \"Esto son cuatro o cinco mentiras gordas repetidas todo el rato\"",
-      "summary": "El empresario para el que las acusaciones piden seis años de prisión asegura que \"hace muchísimos años\" que no tiene ninguna relación con la esposa del presidente, que tampoco la tiene con Pedro Sánchez y que su participación en la cátedra \"fue inexistente\" La Fiscalía pide la absolución de Begoña Gómez en su escrito d.",
-      "date": "2026-07-09"
-    },
-    {
-      "title": "La Fiscalía acusa a Peinado de inventarse \"una confabulación\" para impedir la salida de España de Begoña Gómez",
-      "summary": "La Fiscalía recurrió el 26 de junio la decisión de Peinado en un escrito en el que le acusa de citar el caso de una organización internacional de narcotráfico sin ahondar en qué paralelismos podría tener con el caso de la mujer del presidente: \"Es no decir nada\" El juez Peinado dice que no pretendía “ofender” a los esc.",
-      "date": "2026-07-09"
-    },
-    {
-      "title": "La Fiscalía pide la absolución de Begoña Gómez en su escrito de conclusiones para el juicio: \"Sin delito no hay autor\"",
-      "summary": "\"Ni Begoña Gómez ni Cristina Álvarez ni Juan Carlos Barrabés obtuvieron remuneración o beneficio directo o indirecto derivado de la Cátedra de Transformación Social Competitiva, ni realizaron presión de ningún tipo sobre las empresas afectadas para su promoción o patrocinios\", alega la Fiscalía La Fiscalía acusa a Pein.",
-      "date": "2026-07-09"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "El Gobierno denuncia que lo pretenden “derribar” ante “la incapacidad de hacerlo por las urnas” tras la condena al hermano de Sánchez",
+      "url": "https://elpais.com/espana/2026-07-14/puente-denuncia-que-se-pretende-derribar-al-gobierno-ante-la-incapacidad-de-hacerlo-por-las-urnas-tras-la-condena-del-hermano-de-sanchez.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-14T11:26:47.000Z",
+      "sourceId": "lootura-es-el-pais"
+    },
+    {
+      "title": "David Sánchez, el hijo de Magdalena y Pedro",
+      "url": "https://elpais.com/espana/2026-07-14/david-sanchez-el-hijo-de-magdalena-y-pedro.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-14T15:37:37.000Z",
+      "sourceId": "lootura-es-el-pais"
+    },
+    {
+      "title": "Última hora de la actualidad política, en directo | Rufián, sobre la condena a David Sánchez: “Es una sobrada importante (…) Luego viene Begoña Gómez”",
+      "url": "https://elpais.com/espana/2026-07-14/ultima-hora-de-la-actualidad-politica-en-directo.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-14T17:03:34.000Z",
+      "sourceId": "lootura-es-el-pais"
+    }
+  ],
+  "evidenceCount": 3
 }

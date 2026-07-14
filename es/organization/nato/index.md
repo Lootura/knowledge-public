@@ -3,10 +3,16 @@
 > Sigue la actividad de Organización del Tratado del Atlántico Norte en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-14T13:30:06.934Z
+- Actualizado: 2026-07-14T17:12:02.446Z
 - Canonical: https://atlas.lootura.com/es/organization/nato
 
 ## Cambios recientes
+
+### Defensa considera que la cumbre de la OTAN abre oportunidades a la industria española
+
+La secretaria de Estado de Defensa , Amparo Valcarce, considera que la cumbre de la OTAN celebrada los pasados 7 y 8 de julio en Ankara marcará un punto de inflexión para la industria española de defensa . Según ha defendido este martes, los seis acuerdos suscritos por España durante la reunión de la Alianza Atlántica.
+
+Date: 2026-07-14
 
 ### NATO spending pressure returned
 
@@ -62,12 +68,6 @@ Irán dice que el paso de Ormuz está cerrado de nuevo después de que un buque 
 
 Date: 2026-07-12
 
-### Discovered by Atlas
-
-NATO first entered the public knowledge record with source-backed evidence.
-
-Date: 2026-07-11
-
 ## Fuentes
 
-- [La UE y la OTAN condenan los ciberataques «maliciosos» de Rusia contra los países europeos](https://www.elcorreo.com/internacional/europa/ue-otan-condenan-ciberataques-maliciosos-rusia-paises-20260713160238-ntrc_amp.html?utm_source=lootura.com) — 2026-07-13T14:02:38.000Z
+- [Defensa considera que la cumbre de la OTAN abre oportunidades a la industria española](https://theobjective.com/espana/2026-07-14/defensa-otan-oportunidades-industria/?utm_source=lootura.com) — 2026-07-14T17:01:11.000Z

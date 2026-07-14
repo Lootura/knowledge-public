@@ -70,5 +70,4 @@ Date: 2026-07-12
 
 ## Sources
 
-- [Will Oil Prices Rise as the US-Iran Truce Frays? The Answer Lies With China.](https://www.nytimes.com/2026/07/13/business/energy-environment/oil-prices-iran-china.html?utm_source=lootura.com) — 2026-07-13T18:00:46.000Z
-- [China Purges Top Official Over Corruption and Sex Charges](https://www.nytimes.com/2026/07/14/world/asia/china-expels-politburo-official-sex-corruption.html?utm_source=lootura.com) — 2026-07-14T10:23:29.000Z
+No public source links.

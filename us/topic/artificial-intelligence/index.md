@@ -3,7 +3,7 @@
 > Follow Artificial intelligence, a tracked topic, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: topic
-- Updated: 2026-07-14T13:30:27.465Z
+- Updated: 2026-07-14T17:12:24.301Z
 - Canonical: https://atlas.lootura.com/us/topic/artificial-intelligence
 
 ## Recent changes
@@ -11,6 +11,18 @@
 ### Does AI work for us, or do we work for AI?
 
 Science, Volume 393, Issue 6807 , Page 152-152, July 2026.
+
+Date: 2026-07-14
+
+### How I Turned AI to the Dark Side
+
+Summary Researcher Dave Kuszmar discovered multiple systemic vulnerabilities that let him bypass LLM safety and obtain dangerous instructions . These exploits worked across nearly all major LLMs revealing an industry-wide security problem. Kuszmar calls for slowing deployment, increasing transparency , and large-scale.
+
+Date: 2026-07-14
+
+### Spotify is now an AI chatbot, too
+
+This is what the “Talk to Spotify” chatbox (left) looks like on the homepage. | Image: Spotify Spotify is experimenting with a new AI feature that allows Premium subscribers to play and explore music, audiobooks, and podcasts by having conversations with a chatbot. The " Talk to Spotify " feature appears across the Hom.
 
 Date: 2026-07-14
 
@@ -56,19 +68,8 @@ Nature, Published online: 10 July 2026; doi:10.1038/d41586-026-02091-6 General p
 
 Date: 2026-07-13
 
-### Daily briefing: Preprints are chock-full of authors’ private info
-
-Nature, Published online: 10 July 2026; doi:10.1038/d41586-026-02198-w Passwords, to-do lists and even derogatory comments litter arXiv preprints. Plus, two huge planets that are lighter than candy floss and which ‘AI scientist’ might suit your lab.
-
-Date: 2026-07-13
-
-### Waze is getting a bunch of new AI-powered features
-
-Waze is getting an AI makeover. Google is integrating its flagship AI assistant, Gemini, into the driving app with the goal of letting users personalize their trips a little more. Of the four new updates, only two are being described as involving Gemini. Waze says its updating its conversation reporting feature, first.
-
-Date: 2026-07-13
-
 ## Sources
 
-- [AI models: one country’s fears become everyone’s constraint](https://www.nature.com/articles/d41586-026-02187-z?utm_source=lootura.com) — 2026-07-14T13:30:32.830Z
-- [Does AI work for us, or do we work for AI?](https://www.science.org/doi/abs/10.1126/science.aei9754?af=R&utm_source=lootura.com) — 2026-07-14T13:30:32.883Z
+- [How I Turned AI to the Dark Side](https://spectrum.ieee.org/jailbreaking-llms?utm_source=lootura.com) — 2026-07-14T15:59:35.000Z
+- [Does AI work for us, or do we work for AI?](https://www.science.org/doi/abs/10.1126/science.aei9754?af=R&utm_source=lootura.com) — 2026-07-14T17:12:29.648Z
+- [Spotify is now an AI chatbot, too](https://www.theverge.com/entertainment/965358/spotify-ai-chatbot-interface-music-audiobooks-podcasts?utm_source=lootura.com) — 2026-07-14T15:47:36.000Z

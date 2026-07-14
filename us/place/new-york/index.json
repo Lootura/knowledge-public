@@ -8,11 +8,26 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/new-york/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/new-york/index.json",
   "description": "Follow New York, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-14T13:30:27.465Z",
+  "updatedAt": "2026-07-14T17:12:24.301Z",
   "aliases": [
     "New York City"
   ],
   "changes": [
+    {
+      "title": "New York enacts nation's first statewide moratorium on building new data centers",
+      "summary": "Building new data centers in New York will be paused for a year in order to allow state officials to establish guidelines protecting residents and the environment, Gov. Kathy Hochul said.",
+      "date": "2026-07-14"
+    },
+    {
+      "title": "'Gus' the T. rex fetches record $50.1 mn at US auction",
+      "summary": "A Tyrannosaurus rex skeleton nicknamed \"Gus\" sold Tuesday for $50.1 million at Sotheby's in New York, making it the most valuable dinosaur fossil bought at auction after a 10-minute battle between seven bidders.",
+      "date": "2026-07-14"
+    },
+    {
+      "title": "T rex fossil ‘Gus’ sells for $50.1m at New York auction, setting new record",
+      "summary": "Skeleton judged to be one of the largest and most complete ever unearthed was excavated on a ranch in South Dakota A vast, fossilized Tyrannosaurus rex nicknamed Gus sold at Sotheby’s in New York on Tuesday for $50.1m with fees (£37.4m) to a phone bidder – making it the most valuable dinosaur fossil sold at auction. It.",
+      "date": "2026-07-14"
+    },
     {
       "title": "New York enacts nation",
       "summary": "Building new data centers in New York will be paused for a year in order to allow state officials to establish guidelines protecting residents and the environment, Gov. Kathy Hochul said.",
@@ -47,36 +62,27 @@
       "title": "NYC to move 110 single homeless men to quiet Brooklyn neighborhood, leaving locals worried: report",
       "summary": "City is set to move 110 single homeless men into a Brooklyn shelter without conducting criminal background checks, according to a new report, sparking outrage among residents who fear the change will bring more crime to their quiet neighborhood. The former Gold Star Inn in Sheepshead Bay, which has operated as.",
       "date": "2026-07-12"
-    },
-    {
-      "title": "The best time to talk to your parents about senior care — before it's too late",
-      "summary": "Most families wait to talk about senior care until an emergency hits, but experts say having those discussions early can lead to better outcomes and less conflict. Tatyana Zlotsky, CEO of A Place for Mom in New York City, said 77% of the families she works with tell her they wish they’d acted sooner. Planning before a.",
-      "date": "2026-07-12"
-    },
-    {
-      "title": "'Die Hard' actor Robert Davi blasts Mamdani after NYC map omits Little Italy",
-      "summary": "\"Die Hard\" actor Robert Davi blasted New York City Mayor Zohran Mamdani Friday after a city map highlighting immigrant enclaves omitted Little Italy. The \"New York City Immigrant Enclaves\" map resurfaced on social media earlier this week after users pointed out it omitted Little Italy, as well as historically Jewish an.",
-      "date": "2026-07-12"
-    },
-    {
-      "title": "Discovered by Atlas",
-      "summary": "New York first entered the public knowledge record with source-backed evidence.",
-      "date": "2026-07-10"
     }
   ],
   "sources": [
     {
-      "title": "New York enacts nation",
-      "url": "https://www.cbsnews.com/newyork/news/new-york-data-center-moratorium-kathy-hochul/?utm_source=lootura.com",
-      "publishedAt": "2026-07-14T13:20:31.000Z",
+      "title": "New York enacts nation's first statewide moratorium on building new data centers",
+      "url": "https://www.cbsnews.com/news/new-york-data-center-moratorium-kathy-hochul/?utm_source=lootura.com",
+      "publishedAt": "2026-07-14T16:37:54.000Z",
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "Researchers define new frontier in quantum materials",
-      "url": "https://phys.org/news/2026-07-frontier-quantum-materials.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-14T13:00:02.000Z",
+      "title": "'Gus' the T. rex fetches record $50.1 mn at US auction",
+      "url": "https://phys.org/news/2026-07-gus-rex-mn-auction.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-14T16:26:48.000Z",
       "sourceId": "lootura-us-phys-org"
+    },
+    {
+      "title": "T rex fossil ‘Gus’ sells for $50.1m at New York auction, setting new record",
+      "url": "https://www.theguardian.com/us-news/2026/jul/14/t-rex-skeleton-auction-record-price?utm_source=lootura.com",
+      "publishedAt": "2026-07-14T15:31:05.000Z",
+      "sourceId": "lootura-us-the-guardian-us"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 3
 }

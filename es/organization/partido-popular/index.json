@@ -8,11 +8,26 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/partido-popular/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/partido-popular/index.json",
   "description": "Sigue la actividad de Partido Popular en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-14T13:30:06.934Z",
+  "updatedAt": "2026-07-14T17:12:02.446Z",
   "aliases": [
     "PP"
   ],
   "changes": [
+    {
+      "title": "El PP califica de \"histórica\" la condena del hermano de Sánchez: \"Nadie está por encima de la ley\"",
+      "summary": "Feijóo celebra que el Estado de Derecho funcione en España para todos, \"sean de la familia que sean\" Leer.",
+      "date": "2026-07-14"
+    },
+    {
+      "title": "El PP considera que la sentencia al hermano de Sánchez “haría caer a un Gobierno” en cualquier otro país",
+      "summary": "El PP ha reivindicado la jornada de hoy como “un día histórico” por la condena de nueve años de inhabilitación al hermano de Pedro Sánchez por un delito de prevaricación administrativa por las supuestas irregularidades en su contratación, en 2017, en la Diputación de Badajoz. La portavoz parlamentaria de los populares,.",
+      "date": "2026-07-14"
+    },
+    {
+      "title": "La polémica de Rajoy revela un viejo debate: ¿quién tiene derecho a representar a un país?",
+      "summary": "Eduardo Camavinga (de la selección francesa), Nico Williams (de la española) y Jules Koundé (de la francesa) se disputan un balón en las semifinales de la Eurocopa 2024. Vitalii Vitleo/Shutterstock El expresidente del Gobierno Mariano Rajoy (PP) ha generado una intensa polémica al afirmar que la selección masculina de.",
+      "date": "2026-07-14"
+    },
     {
       "title": "El PP exige a Sánchez que dimita por ser el primer presidente de la democracia en tener a un familiar condenado: \"Un día histórico\"",
       "summary": "El Partido Popular ha salido en tromba a reaccionar a la condena de nueve años de inhabilitación por prevaricación al hermano del presidente del Gobierno y a exigir la dimisión, de nuevo, de Pedro Sánchez, en lo que consideran otro \"día histórico\" por ser el primer jefe del Ejecutivo de la democracia en tener a un fami.",
@@ -21,16 +36,6 @@
     {
       "title": "El Congreso respalda el nombramiento de Juan José Ganuza como presidente de la CNMC con el veto de PP y Vox",
       "summary": "La Comisión de Economía del Congreso de los Diputados ha respaldado este martes el nombramiento de Juan José Ganuza como nuevo presidente de la Comisión Nacional de los Mercados y la Competencia (CNMC), en sustitución de Cani Fernández, así como de los tres candidatos a consejeros: Carmen Balsa Pascual, Joan Capdevila,.",
-      "date": "2026-07-14"
-    },
-    {
-      "title": "El PP califica de \"histórica\" la condena del hermano de Sánchez: \"Nadie está por encima de la ley\"",
-      "summary": "Feijóo celebra que el Estado de Derecho funcione en España para todos, \"sean de la familia que sean\" Leer.",
-      "date": "2026-07-14"
-    },
-    {
-      "title": "El PP considera que la sentencia al hermano de Sánchez “haría caer a un Gobierno” en cualquier otro país",
-      "summary": "El PP ha celebrado la jornada de hoy como “un día histórico” por la condena de nueve años de inhabilitación al hermano de Pedro Sánchez por un delito de prevaricación administrativa por las supuestas irregularidades en su contratación, en 2017, en la Diputación de Badajoz. La portavoz parlamentaria de los populares, Es.",
       "date": "2026-07-14"
     },
     {
@@ -57,26 +62,9 @@
       "title": "Feijóo anuncia desde Almería un plan nacional contra los incendios si llega a La Moncloa",
       "summary": "El líder del PP, Alberto Núñez Feijóo , ha asegurado que espera que «continúe la colaboración y la coordinación» entre administraciones como se ha visto con el incendio en Los Gallardos (Almería) y que «nadie estropee» la unidad de acción. Dicho esto, ha anunciado un plan de prevención de riesgos naturales si llega al.",
       "date": "2026-07-13"
-    },
-    {
-      "title": "Errores no forzados en el PP",
-      "summary": "Más de una vez nos hemos referido a que Alberto Núñez Feijóo estaba mucho más suelto y feliz cuando era presidente de la Xunta de Galicia que ahora que ejerce de jefe de la oposición. No es nada fácil lidiar con Pedro Sánchez y aguantar diariamente la presión de la opinión publicada, que oscila entre los que le critica.",
-      "date": "2026-07-13"
     }
   ],
   "sources": [
-    {
-      "title": "El PP exige a Sánchez que dimita por ser el primer presidente de la democracia en tener a un familiar condenado: \"Un día histórico\"",
-      "url": "https://www.20minutos.es/nacional/pp-exige-sanchez-que-dimita-por-ser-primer-presidente-democracia-tener-un-familiar-condenado-un-dia-historico_7014438_0.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-14T11:38:15.000Z",
-      "sourceId": "lootura-es-20minutos"
-    },
-    {
-      "title": "El Congreso respalda el nombramiento de Juan José Ganuza como presidente de la CNMC con el veto de PP y Vox",
-      "url": "https://cincodias.elpais.com/companias/2026-07-14/el-congreso-respalda-el-nombramiento-de-juan-jose-ganuza-como-presidente-de-la-cnmc-con-el-veto-de-pp-y-vox.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-14T10:47:17.000Z",
-      "sourceId": "lootura-es-cinco-dias"
-    },
     {
       "title": "El PP califica de \"histórica\" la condena del hermano de Sánchez: \"Nadie está por encima de la ley\"",
       "url": "https://www.elmundo.es/espana/2026/07/14/6a5621e6e85ece9a268b457b.html?utm_source=lootura.com",
@@ -88,7 +76,13 @@
       "url": "https://elpais.com/espana/2026-07-14/el-pp-considera-que-la-sentencia-al-hermano-de-sanchez-haria-caer-a-un-gobierno-en-cualquier-otro-pais.html?utm_source=lootura.com",
       "publishedAt": "2026-07-14T11:25:30.000Z",
       "sourceId": "lootura-es-el-pais"
+    },
+    {
+      "title": "La polémica de Rajoy revela un viejo debate: ¿quién tiene derecho a representar a un país?",
+      "url": "https://theconversation.com/la-polemica-de-rajoy-revela-un-viejo-debate-quien-tiene-derecho-a-representar-a-un-pais-287505?utm_source=lootura.com",
+      "publishedAt": "2026-07-14T16:28:24.000Z",
+      "sourceId": "lootura-es-the-conversation-espana"
     }
   ],
-  "evidenceCount": 4
+  "evidenceCount": 3
 }

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/koldo-garc/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/koldo-garc/index.json",
   "description": "Sigue la actividad de Koldo Garc en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-14T13:30:06.934Z",
+  "updatedAt": "2026-07-14T17:12:02.446Z",
   "aliases": [],
   "changes": [
     {
@@ -19,10 +19,10 @@
   ],
   "sources": [
     {
-      "title": "La abogada de Koldo García niega ante el juez del caso Leire Díez haber cobrado del PSOE ni directa ni indirectamente",
-      "url": "https://www.eldiario.es/politica/abogada-koldo-garcia-niega-juez-caso-leire-diez-haber-cobrado-psoe-directa-indirectamente_1_13378470.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-14T11:15:23.000Z",
-      "sourceId": "lootura-es-eldiario-es"
+      "title": "La UCO confirma que el PSOE pagó 43.225 euros a Leire a través de Zarrías y del exabogado de Koldo",
+      "url": "https://www.abc.es/espana/uco-confirma-psoe-pago-43225-euros-leire-20260714113453-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-14T16:25:40.000Z",
+      "sourceId": "lootura-es-abc"
     }
   ],
   "evidenceCount": 1

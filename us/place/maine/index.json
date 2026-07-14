@@ -8,22 +8,12 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/maine/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/maine/index.json",
   "description": "Follow Maine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-14T13:30:27.465Z",
+  "updatedAt": "2026-07-14T17:12:24.301Z",
   "aliases": [],
   "changes": [
     {
-      "title": "Democratic Senate Candidates in Maine Denounce Deadly ICE Shooting",
-      "summary": "The killing of a man in Biddeford quickly became an issue in the Senate race, with Democrats aiming to tie Senator Susan Collins to President Trump’s immigration crackdown.",
-      "date": "2026-07-14"
-    },
-    {
       "title": "ICE Agent Kills Person in Vehicle in Biddeford, Maine, State Officials Say",
       "summary": "The fatal shooting in Biddeford, Maine, was the second in a week involving an Immigration and Customs Enforcement agent firing into a vehicle.",
-      "date": "2026-07-14"
-    },
-    {
-      "title": "ICE-involved shooting leaves one person dead in Maine",
-      "summary": "The shooting happened Monday morning in Biddeford, Maine. The incident left one person dead. NBC News’ Erin McLaughlin has more.",
       "date": "2026-07-14"
     },
     {
@@ -42,23 +32,33 @@
       "date": "2026-07-14"
     },
     {
+      "title": "ICE halts most vehicle stops following deadly shootings, sources say",
+      "summary": "Neither of the victims of the ICE shootings in Maine or Texas were the target of enforcement operations, according to the Department of Homeland Security.",
+      "date": "2026-07-14"
+    },
+    {
+      "title": "Family of a man shot by agents responding to a 911 call seeks answers",
+      "summary": "A troubling pattern of federal agents fatally shooting civilians is developing, with deaths in Maine, Texas and Tennessee. The family of a man shot by agents told NPR they want answers.",
+      "date": "2026-07-14"
+    },
+    {
+      "title": "DHS says ICE officer who fatally shot driver in Maine was 'fearing for public safety'",
+      "summary": "A witness says he heard driver say, \"I tried to stop.\".",
+      "date": "2026-07-14"
+    },
+    {
+      "title": "Many questions remain after an ICE officer's fatal shooting of a Maine driver",
+      "summary": "Immigrant rights groups are demanding answers and planning more protests Tuesday over an Immigration and Customs Enforcement officer's fatal shooting of a Maine driver.",
+      "date": "2026-07-14"
+    },
+    {
+      "title": "ICE Ordered to Cease Most Vehicle Stops After 2 Killings in a Week",
+      "summary": "Agents fatally shot a man in Houston and another in coastal Maine, both in their vehicles. The killings were the latest in a string of ICE shootings during President Trump’s second term.",
+      "date": "2026-07-14"
+    },
+    {
       "title": "Graham Platner's voters figure out what's next as candidates vie for their support",
       "summary": "voters are still grappling with Democratic Senate candidate Graham Platner's dramatic departure from the race.",
-      "date": "2026-07-13"
-    },
-    {
-      "title": "Tamara Keith and Amy Walter on Lindsey Graham's passing",
-      "summary": "NPR's Tamara Keith and Amy Walter of the Cook Political Report with Amy Walter join Geoff Bennett to discuss the latest political news, including what the passing of Sen. Lindsey Graham means for South Carolina and the Senate, Sen. Mitch McConnell's health and Democrats scrambling to replace Graham Platner in the Maine.",
-      "date": "2026-07-13"
-    },
-    {
-      "title": "ICE shot and killed a Colombian man in Maine. This is the 2nd time in a week the agency used deadly force",
-      "summary": "Bystander video taken after the shooting showed agents trying to slow a white sedan that was driving in circles in an intersection in Biddeford, southwest of Portland.",
-      "date": "2026-07-13"
-    },
-    {
-      "title": "1 person killed in Maine shooting involving ICE, state house speaker says",
-      "summary": "A person was shot and killed in Maine involving ICE, the state.",
       "date": "2026-07-13"
     }
   ],
@@ -70,10 +70,10 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "ICE-involved shooting leaves one person dead in Maine",
-      "url": "https://www.nbcnews.com/nightly-news/video/ice-involved-shooting-leaves-one-person-dead-in-maine-266627141692?utm_source=lootura.com",
-      "publishedAt": "2026-07-14T02:52:48.000Z",
-      "sourceId": "lootura-us-nbc-news"
+      "title": "ICE halts most vehicle stops following deadly shootings, sources say",
+      "url": "https://www.cbsnews.com/news/ice-agents-halt-vehicle-stops-after-shootings-maine-texas/?utm_source=lootura.com",
+      "publishedAt": "2026-07-14T16:50:25.000Z",
+      "sourceId": "lootura-us-cbs-news"
     },
     {
       "title": "Officials Investigate Fatal ICE Shooting in Maine as Fallout Grows",
@@ -88,23 +88,41 @@
       "sourceId": "lootura-us-npr"
     },
     {
+      "title": "Family of a man shot by agents responding to a 911 call seeks answers",
+      "url": "https://www.npr.org/2026/07/14/nx-s1-5891873/family-of-a-man-shot-by-agents-responding-to-a-911-call-seeks-answers?utm_source=lootura.com",
+      "publishedAt": "2026-07-14T11:26:15.000Z",
+      "sourceId": "lootura-us-npr"
+    },
+    {
       "title": "Platner's voters are reeling as Maine Democratic Party races to choose his replacement",
       "url": "https://www.npr.org/2026/07/14/nx-s1-5892502/platner-collins-maine-democratic-party-senate?utm_source=lootura.com",
       "publishedAt": "2026-07-14T09:00:00.000Z",
       "sourceId": "lootura-us-npr-politics"
     },
     {
+      "title": "DHS says ICE officer who fatally shot driver in Maine was 'fearing for public safety'",
+      "url": "https://www.pbs.org/newshour/politics/dhs-says-ice-officer-who-fatally-shot-driver-in-maine-was-fearing-for-public-safety?utm_source=lootura.com",
+      "publishedAt": "2026-07-14T14:31:51.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
+    },
+    {
+      "title": "Many questions remain after an ICE officer's fatal shooting of a Maine driver",
+      "url": "https://www.pbs.org/newshour/politics/many-questions-remain-after-an-ice-officers-fatal-shooting-of-a-maine-driver?utm_source=lootura.com",
+      "publishedAt": "2026-07-14T15:35:24.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
+    },
+    {
+      "title": "ICE Ordered to Cease Most Vehicle Stops After 2 Killings in a Week",
+      "url": "https://www.nytimes.com/2026/07/14/us/ice-agents-traffic-stops.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-14T17:02:06.000Z",
+      "sourceId": "lootura-us-the-new-york-times"
+    },
+    {
       "title": "ICE Agent Kills Person in Vehicle in Biddeford, Maine, State Officials Say",
       "url": "https://www.nytimes.com/2026/07/13/us/biddeford-maine-ice-shooting.html?utm_source=lootura.com",
       "publishedAt": "2026-07-14T04:32:14.000Z",
       "sourceId": "lootura-us-the-new-york-times"
-    },
-    {
-      "title": "Democratic Senate Candidates in Maine Denounce Deadly ICE Shooting",
-      "url": "https://www.nytimes.com/2026/07/13/us/politics/maine-ice-shooting-senate-graham-platner.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-14T02:01:13.000Z",
-      "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 7
+  "evidenceCount": 10
 }

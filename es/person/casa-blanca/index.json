@@ -1,0 +1,45 @@
+{
+  "id": "es-casa-blanca",
+  "name": "Casa Blanca",
+  "type": "person",
+  "locale": "es",
+  "canonicalPath": "/es/person/casa-blanca",
+  "canonicalUrl": "https://atlas.lootura.com/es/person/casa-blanca",
+  "markdownUrl": "https://atlas.lootura.com/es/person/casa-blanca/index.md",
+  "jsonUrl": "https://atlas.lootura.com/es/person/casa-blanca/index.json",
+  "description": "Sigue la actividad de Casa Blanca en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
+  "updatedAt": "2026-07-14T17:12:02.446Z",
+  "aliases": [],
+  "changes": [
+    {
+      "title": "Trump da marcha atrás en el peaje a los barcos que transitan por el estrecho de Ormuz",
+      "summary": "Donald Trump dio marcha atrás este martes en su intención repentina de cobrar una tasa del 20% sobre toda la carga transportada por los barcos que atraviesen el estrecho de Ormuz. El presidente confirmó la retirada del plan durante la reunión bilateral que mantuvo en la Casa Blanca con el primer ministro de Irak, despu.",
+      "date": "2026-07-14"
+    },
+    {
+      "title": "Trump da marcha atrás: sustituirá su peaje del 20% en Ormuz por acuerdos comerciales en el Golfo",
+      "summary": "La espectacular escalada de precios de petróleo registrada este lunes, hasta sus mayores cotas en el último mes, ha llevado este martes al presidente de Estados Unidos, Donald Trump, a protagonizar una de sus famosas marchas atrás. El inquilino de la Casa Blanca ha anunciado que finalmente sustituirá el peaje del 20% q.",
+      "date": "2026-07-14"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Casa Blanca first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-07-14"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Trump da marcha atrás en el peaje a los barcos que transitan por el estrecho de Ormuz",
+      "url": "https://www.abc.es/internacional/trump-marcha-atras-peaje-barcos-transitan-estrecho-20260714174612-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-14T16:38:34.000Z",
+      "sourceId": "lootura-es-abc"
+    },
+    {
+      "title": "Trump da marcha atrás: sustituirá su peaje del 20% en Ormuz por acuerdos comerciales en el Golfo",
+      "url": "https://www.expansion.com/economia/2026/07/14/6a5649a4468aeb7a408b459f.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-14T15:49:13.000Z",
+      "sourceId": "lootura-es-expansion"
+    }
+  ],
+  "evidenceCount": 2
+}

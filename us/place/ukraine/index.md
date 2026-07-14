@@ -70,5 +70,4 @@ Date: 2026-07-12
 
 ## Sources
 
-- [Ukraine Wants to Make Its Own Antimissile System, Not Just Patriots](https://www.nytimes.com/2026/07/14/world/europe/ukraine-fire-point-patriot-missiles.html?utm_source=lootura.com) — 2026-07-14T11:56:53.000Z
-- [Europe, Flexing Muscle in Ukraine, Is Still on Sidelines in Iran](https://www.nytimes.com/2026/07/14/world/europe/macron-trump-bastille-day-military-parade.html?utm_source=lootura.com) — 2026-07-14T11:04:35.000Z
+No public source links.

@@ -3,7 +3,7 @@
 > Follow Lindsey Graham, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-07-14T13:30:27.465Z
+- Updated: 2026-07-14T17:12:24.301Z
 - Canonical: https://atlas.lootura.com/us/person/lindsey-graham
 
 ## Recent changes
@@ -14,15 +14,21 @@ South Carolina Sen. Lindsey Graham's sudden death late Saturday has set off a sc
 
 Date: 2026-07-14
 
-### Republican strategist on what he'll remember most about Lindsey Graham
-
-Sen. Lindsey Graham is being remembered for his wit and political effectiveness after his sudden death over the weekend. Republican strategist Matt Whitlock joins CBS News to discuss.
-
-Date: 2026-07-14
-
 ### South Carolina's governor appoints Lindsey Graham's sister to serve out his term
 
 South Carolina Gov. Henry McMaster says he is appointing Darline Graham to finish the term of her late brother, former Republican Sen. Lindsey Graham, who died in office Saturday at age 71.
+
+Date: 2026-07-14
+
+### Trump says he doesn't see a lot of "evil" in Lindsey Graham's death when asked about FBI probe
+
+President Trump took questions in the Oval Office and commented on an apparent FBI probe into Lindsey Graham's death, saying he doesn't see a lot of "evil" behind the sudden incident.
+
+Date: 2026-07-14
+
+### Republican strategist on what he'll remember most about Lindsey Graham
+
+Sen. Lindsey Graham is being remembered for his wit and political effectiveness after his sudden death over the weekend. Republican strategist Matt Whitlock joins CBS News to discuss.
 
 Date: 2026-07-14
 
@@ -62,16 +68,9 @@ NPR's Tamara Keith and Amy Walter of the Cook Political Report with Amy Walter j
 
 Date: 2026-07-13
 
-### Who is Darline Graham Nordone, the late Sen. Lindsey Graham's sister?
-
-Nordone, who was appointed to serve the remaining months of the Senate term that her brother left behind when he died over the weekend, hasn't been in office before.
-
-Date: 2026-07-13
-
 ## Sources
 
+- [Trump says he doesn't see a lot of "evil" in Lindsey Graham's death when asked about FBI probe](https://www.cbsnews.com/video/trump-says-he-doesnt-see-a-lot-of-evil-in-lindsey-grahams-death-when-asked-about-fbi-probe/?utm_source=lootura.com) — 2026-07-14T16:34:36.000Z
 - [Who could replace Lindsey Graham in the Senate after his sudden death?](https://www.cbsnews.com/news/lindsey-graham-replacement/?utm_source=lootura.com) — 2026-07-14T06:26:51.000Z
-- [Republican strategist on what he'll remember most about Lindsey Graham](https://www.cbsnews.com/video/republican-strategist-on-what-hell-remember-most-about-lindsey-graham/?utm_source=lootura.com) — 2026-07-14T01:33:41.000Z
-- [Lindsey Graham's Sister to Serve the Rest of His Senate Term](https://www.today.com/video/new-details-emerge-about-lindsey-graham-s-final-moments-266634309734?utm_source=lootura.com) — 2026-07-14T11:18:37.000Z
 - [South Carolina's governor appoints Lindsey Graham's sister to serve out his term](https://www.npr.org/2026/07/14/nx-s1-5891798/south-carolinas-governor-appoints-lindsey-grahams-sister-to-serve-out-his-term?utm_source=lootura.com) — 2026-07-14T09:01:46.000Z
 - [Lindsey Graham’s Sister Appointed to Finish His Senate Term After Trump’s Backing](https://www.nytimes.com/2026/07/13/us/politics/trump-graham-sister-south-carolina-senate.html?utm_source=lootura.com) — 2026-07-13T23:27:44.000Z

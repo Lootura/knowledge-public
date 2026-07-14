@@ -3,10 +3,16 @@
 > Sigue la actividad de Madrid en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-14T13:30:06.934Z
+- Actualizado: 2026-07-14T17:12:02.446Z
 - Canonical: https://atlas.lootura.com/es/place/madrid
 
 ## Cambios recientes
+
+### El enigma Victoria Abril: España no supo qué hacer con la mejor actriz de su generación
+
+En la foto oficial de la Berlinale de 1991 , Victoria Abril (Madrid, 67 años) sostiene su Oso de Plata con una mano y eleva la otra como ejecutando un saludo torero, o a punto de atusarse el moño italiano (elija usted). Acaba de imponerse, por su trabajo en Amantes , en la categoría de mejor actriz sobre Vanessa Redgra.
+
+Date: 2026-07-14
 
 ### La Línea 11 de Metro de Madrid llegará a Valdebebas Norte con cuatro nuevas estaciones y una inversión de 880 millones de euros
 
@@ -17,12 +23,6 @@ Date: 2026-07-14
 ### Así es el 'tren bala' para la línea Circular de Metro: sin conductor, máxima velocidad, más puntual y un 70% más de capacidad
 
 La Línea 6 de Metro de Madrid se prepara para estrenar una generación de trenes concebida para transformar por completo el funcionamiento de la línea Circular. Los nuevos convoyes circularán sin conductor, alcanzarán una velocidad superior a la actual y permitirán reducir los intervalos de paso hasta los dos minutos. E.
-
-Date: 2026-07-14
-
-### El enigma Victoria Abril: España no supo qué hacer con la mejor actriz de su generación
-
-En la foto oficial de la Berlinale de 1991 , Victoria Abril (Madrid, 67 años) sostiene su Oso de Plata con una mano y eleva la otra como ejecutando un saludo torero, o a punto de atusarse el moño italiano (elija usted). Acaba de imponerse, por su trabajo en Amantes , en la categoría de mejor actriz sobre Vanessa Redgra.
 
 Date: 2026-07-14
 
@@ -70,7 +70,4 @@ Date: 2026-07-14
 
 ## Fuentes
 
-- [La Línea 11 de Metro de Madrid llegará a Valdebebas Norte con cuatro nuevas estaciones y una inversión de 880 millones de euros](https://www.elconfidencial.com/espana/madrid/2026-07-14/linea-11-metro-madrid-valdebebas-norte-cuatro-estaciones-nuevas-1qrt_4389626/?utm_source=lootura.com) — 2026-07-14T09:55:00.000Z
-- [Así es el 'tren bala' para la línea Circular de Metro: sin conductor, máxima velocidad, más puntual y un 70% más de capacidad](https://www.elconfidencial.com/espana/madrid/2026-07-14/tren-bala-circular-metro-madrid-sin-conductor-1qrt-1tna_4389598/?utm_source=lootura.com) — 2026-07-14T09:41:00.000Z
 - [El enigma Victoria Abril: España no supo qué hacer con la mejor actriz de su generación](https://elpais.com/icon/2026-07-14/el-enigma-victoria-abril-por-que-espana-no-supo-que-hacer-con-la-mejor-actriz-de-su-generacion.html?utm_source=lootura.com) — 2026-07-14T03:30:01.000Z
-- [Almeida defiende a Rajoy y ve una «cortina de humo» en la polémica de la selección francesa](https://theobjective.com/espana/politica/2026-07-14/almeida-rajoy-polemica-seleccion-francesa/?amp=&utm_source=lootura.com) — 2026-07-14T09:46:34.000Z

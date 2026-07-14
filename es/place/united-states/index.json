@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/united-states/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/united-states/index.json",
   "description": "Sigue la actividad de Estados Unidos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-14T13:30:06.934Z",
+  "updatedAt": "2026-07-14T17:12:02.446Z",
   "aliases": [
     "America",
     "Estados Unidos",
@@ -18,6 +18,21 @@
     {
       "title": "La inflación en Estados Unidos registró en junio el primer descenso mensual desde 2020",
       "summary": "La inflación en Estados Unidos se moderó en junio, coincidiendo con el alto el fuego con Irán y la reapertura del estrecho de Ormuz. El índice de precios al consumo (IPC) se moderó hasta el 3,5% en junio, siete décimas menos que el 4,2% registrado en mayo, según el dato difundido este martes por la Oficina de Estadísti.",
+      "date": "2026-07-14"
+    },
+    {
+      "title": "Warsh asegura que “no tolerará” una inflación persistentemente elevada en Estados Unidos",
+      "summary": "Kevin Warsh es un tipo al que no le gustan las sorpresas. El presidente de la Reserva Federal está empeñado en no salirse del guion y repite un discurso en el que no deja margen para la interpretación. El responsable de la política monetaria de Estados Unidos ha comparecido este martes ante el comité de Servicios Finan.",
+      "date": "2026-07-14"
+    },
+    {
+      "title": "Trump da marcha atrás: sustituirá su peaje del 20% en Ormuz por acuerdos comerciales en el Golfo",
+      "summary": "La espectacular escalada de precios de petróleo registrada este lunes, hasta sus mayores cotas en el último mes, ha llevado este martes al presidente de Estados Unidos, Donald Trump, a protagonizar una de sus famosas marchas atrás. El inquilino de la Casa Blanca ha anunciado que finalmente sustituirá el peaje del 20% q.",
+      "date": "2026-07-14"
+    },
+    {
+      "title": "Trump da marcha atrás: no cobrará la tasa del 20% a los buques que transiten por Ormuz",
+      "summary": "El presidente de Estados Unidos, Donald Trump , anunció este martes que finalmente no cobrará la tasa del 20% que había planteado por facilitar el tránsito de buques por el estrecho de Ormuz y aseguró que, en su lugar, los países del golfo Pérsico se comprometieron a invertir en Estados Unidos . «Tras conversaciones mu.",
       "date": "2026-07-14"
     },
     {
@@ -49,21 +64,6 @@
       "title": "Trump amenaza con volver a atacar a Irán: «Los golpearemos muy duro esta noche y mañana»",
       "summary": "El presidente de Estados Unidos, Donald Trump , aseguró este lunes que las fuerzas armadas de su país atacarán con fuerza a Irán «esta noche» y «mañana», en medio del restablecimiento de las hostilidades con Teherán. «Vamos a golpearlos muy duro esta noche y vamos a golpearlos muy duro mañana, y no hay absolutamente na.",
       "date": "2026-07-13"
-    },
-    {
-      "title": "¿Y si al final EEUU e Irán se ponen de acuerdo y cobran por pasar por Ormuz?",
-      "summary": "Cuando, al inicio de la guerra desatada por Estados Unidos e Israel contra Irán, el régimen de los ayatolas cerró el paso por el estrecho de Ormuz a cualquier barco en un intento de conseguir que países dependientes de las importaciones de crudo de la zona presionaran para parar el conflicto, la medida fue criticada po.",
-      "date": "2026-07-13"
-    },
-    {
-      "title": "Estados Unidos prueba en Marruecos misiles de precisión de largo alcance",
-      "summary": "Las armas tienen un alcance de 290 kilómetros y se puede lanzar desde diversas plataformas.",
-      "date": "2026-07-13"
-    },
-    {
-      "title": "La economía circular de los Trump: los hijos invierten en Defensa y el padre inyecta dinero en ella",
-      "summary": "Los hijos del presidente de Estados Unidos, Donald Trump Jr. y Eric Trump, han acumulado una cartera de empresas emergentes de tecnología de defensa que se está beneficiando de las nuevas prioridades y gastos del Pentágono, según revela hoy The Washington Post. esta colisión de intereses puede poner en aprietos legales.",
-      "date": "2026-07-13"
     }
   ],
   "sources": [
@@ -74,17 +74,23 @@
       "sourceId": "lootura-es-cinco-dias"
     },
     {
-      "title": "El Tesoro paga un 2,63% por las letras a nueve meses, el tipo más alto desde noviembre de 2024",
-      "url": "https://cincodias.elpais.com/mercados-financieros/2026-07-14/el-tesoro-paga-un-263-por-las-letras-a-nueve-meses-el-tipo-mas-alto-desde-noviembre-de-2024.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-14T11:24:34.000Z",
+      "title": "Warsh asegura que “no tolerará” una inflación persistentemente elevada en Estados Unidos",
+      "url": "https://elpais.com/economia/2026-07-14/warsh-asegura-que-no-tolerara-una-inflacion-persistentemente-elevada.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-14T15:34:09.000Z",
       "sourceId": "lootura-es-cinco-dias"
     },
     {
-      "title": "Aurora Catà se incorpora a Heidrick & Struggles como socia en España",
-      "url": "https://www.expansion.com/expansion-empleo/desarrollo-de-carrera/2026/07/14/6a561c58e5fdea96238b4598.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-14T11:29:02.000Z",
+      "title": "Trump da marcha atrás: sustituirá su peaje del 20% en Ormuz por acuerdos comerciales en el Golfo",
+      "url": "https://www.expansion.com/economia/2026/07/14/6a5649a4468aeb7a408b459f.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-14T15:49:13.000Z",
       "sourceId": "lootura-es-expansion"
+    },
+    {
+      "title": "Trump da marcha atrás: no cobrará la tasa del 20% a los buques que transiten por Ormuz",
+      "url": "https://theobjective.com/internacional/2026-07-14/trump-no-cobro-tasa-buques-ormuz/?utm_source=lootura.com",
+      "publishedAt": "2026-07-14T16:02:06.000Z",
+      "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 4
 }

@@ -3,7 +3,7 @@
 > Follow Supreme Court, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-07-14T13:30:27.465Z
+- Updated: 2026-07-14T17:12:24.301Z
 - Canonical: https://atlas.lootura.com/us/organization/supreme-court
 
 ## Recent changes
@@ -11,6 +11,18 @@
 ### Funding milestone detected
 
 justices are asking lawmakers on Capitol Hill to increase their 2027 budget, with most of the additional funding earmarked for security. Ann E. Marimow, a New York Times reporter, explains why the justices say these measures are necessary to protect them from rising threats.
+
+Date: 2026-07-14
+
+### Barrett testifies about swatting incident and threatening packages at hearing
+
+During a hearing on the Supreme Court's budget, Justice Amy Coney Barrett shared the security threats she and her family have faced, including a swatting incident and threatening packages sent to her home.
+
+Date: 2026-07-14
+
+### Justice Kagan Tells House Panel That ‘Threats Have Come Very Close’
+
+In her prepared remarks, Justice Elena Kagan said the Supreme Court Police estimated a 38 percent increase in threats this year.
 
 Date: 2026-07-14
 
@@ -56,13 +68,8 @@ More than one year after the Supreme Court restricted the use of nationwide inju
 
 Date: 2026-07-09
 
-### Trump immigration cuts could worsen US caregiver shortage, experts say
-
-The loss of protections for Haitian and Syrian workers could worsen shortages of nurses, aides and home care workers The Trump administration may remove the temporary protected status (TPS) of Haitians and Syrians in the US, the US supreme court ruled in late June – a move that will worsen America’s growing caregiver s.
-
-Date: 2026-07-09
-
 ## Sources
 
-- [In Rare Testimony, Supreme Court Justices Will Ask Congress for Security Funds](https://www.nytimes.com/2026/07/14/us/politics/supreme-court-congress-testimony-security.html?utm_source=lootura.com) — 2026-07-14T09:03:34.000Z
+- [Barrett testifies about swatting incident and threatening packages at hearing](https://www.nbcnews.com/video/justice-barrett-shares-stories-of-security-threats-her-family-has-faced-266649669522?utm_source=lootura.com) — 2026-07-14T15:05:14.000Z
 - [Why Supreme Court Justices Are Asking for More Security](https://www.nytimes.com/video/us/politics/100000011017774/why-supreme-court-justices-are-asking-for-more-security.html?utm_source=lootura.com) — 2026-07-14T10:51:09.000Z
+- [Justice Kagan Tells House Panel That ‘Threats Have Come Very Close’](https://www.nytimes.com/2026/07/14/us/politics/kagan-house-testimony-supreme-court.html?utm_source=lootura.com) — 2026-07-14T14:29:07.000Z

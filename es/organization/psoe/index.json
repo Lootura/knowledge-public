@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/psoe/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/psoe/index.json",
   "description": "Sigue la actividad de Partido Socialista Obrero Español en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-14T13:30:06.934Z",
+  "updatedAt": "2026-07-14T17:12:02.446Z",
   "aliases": [
     "Partido Socialista",
     "Partido Socialista Obrero Español"
@@ -20,18 +20,18 @@
       "date": "2026-07-14"
     },
     {
-      "title": "La abogada de Koldo García niega ante el juez del caso Leire Díez haber cobrado del PSOE ni directa ni indirectamente",
-      "summary": "Indica que la empresaria Carmen Pano declaró que la intentó sobornar por \"venganza\" porque tuvieron desavenencias en un negocio de hidrocarburos El juez del caso Leire Díez cita como investigada el 9 de septiembre a la gerente del PSOE, Ana Fuentes La abogada Leticia de la Hoz ha declarado este martes como imputada ant.",
-      "date": "2026-07-14"
-    },
-    {
       "title": "La abogada de Koldo niega que el PSOE pagase su defensa y la relación con el partido",
       "summary": "La abogada de Koldo García , Leticia de la Hoz, ha negado que el PSOE pagara su defensa y que tuviera relación alguna con el partido, tal y como insinuó la empresaria Carmen Pano , que sugirió que el PSOE estaba detrás del presunto intento de soborno que le atribuye a la letrada para que se retractara de su afirmación.",
       "date": "2026-07-14"
     },
     {
       "title": "La UCO confirma que el PSOE pagó 43.225 euros a Leire a través de Zarrías y del exabogado de Koldo",
-      "summary": "Los agentes revelan el «método» para que la fontanera recibiera «cantidades con origen» en el partido.",
+      "summary": "La Unidad Central Operativa (UCO) de la Guardia Civil ha confirmado al juez de la Audiencia Nacional Santiago Pedraz que el PSOE pagó 43.225 euros a la presunta fontanera del partido, Leire Díez , a través de la consultora del exdirigente socialista Gaspar Zarrías y del despacho del exabogado de Koldo García Ismael Oli.",
+      "date": "2026-07-14"
+    },
+    {
+      "title": "La abogada de Koldo García niega ante el juez del caso Leire Díez haber cobrado del PSOE ni directa ni indirectamente",
+      "summary": "Indica que la empresaria Carmen Pano declaró que la intentó sobornar por \"venganza\" porque tuvieron desavenencias en un negocio de hidrocarburos El juez del caso Leire Díez cita como investigada el 9 de septiembre a la gerente del PSOE, Ana Fuentes La abogada Leticia de la Hoz ha declarado este martes como imputada ant.",
       "date": "2026-07-14"
     },
     {
@@ -67,16 +67,16 @@
   ],
   "sources": [
     {
+      "title": "La UCO confirma que el PSOE pagó 43.225 euros a Leire a través de Zarrías y del exabogado de Koldo",
+      "url": "https://www.abc.es/espana/uco-confirma-psoe-pago-43225-euros-leire-20260714113453-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-14T16:25:40.000Z",
+      "sourceId": "lootura-es-abc"
+    },
+    {
       "title": "El juez Pedraz cita a declarar como imputada el 9 de septiembre a la gerente del PSOE por el caso de las cloacas de Ferraz",
       "url": "https://www.elmundo.es/espana/2026/07/14/6a55f484fc6c832a5b8b4577.html?utm_source=lootura.com",
       "publishedAt": "2026-07-14T09:25:43.000Z",
       "sourceId": "lootura-es-el-mundo"
-    },
-    {
-      "title": "La abogada de Koldo García niega ante el juez del caso Leire Díez haber cobrado del PSOE ni directa ni indirectamente",
-      "url": "https://www.eldiario.es/politica/abogada-koldo-garcia-niega-juez-caso-leire-diez-haber-cobrado-psoe-directa-indirectamente_1_13378470.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-14T11:15:23.000Z",
-      "sourceId": "lootura-es-eldiario-es"
     },
     {
       "title": "La abogada de Koldo niega que el PSOE pagase su defensa y la relación con el partido",

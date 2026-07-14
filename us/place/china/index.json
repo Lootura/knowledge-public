@@ -62,19 +62,6 @@
       "date": "2026-07-12"
     }
   ],
-  "sources": [
-    {
-      "title": "Will Oil Prices Rise as the US-Iran Truce Frays? The Answer Lies With China.",
-      "url": "https://www.nytimes.com/2026/07/13/business/energy-environment/oil-prices-iran-china.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-13T18:00:46.000Z",
-      "sourceId": "lootura-us-the-new-york-times"
-    },
-    {
-      "title": "China Purges Top Official Over Corruption and Sex Charges",
-      "url": "https://www.nytimes.com/2026/07/14/world/asia/china-expels-politburo-official-sex-corruption.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-14T10:23:29.000Z",
-      "sourceId": "lootura-us-the-new-york-times-world"
-    }
-  ],
-  "evidenceCount": 2
+  "sources": [],
+  "evidenceCount": 0
 }

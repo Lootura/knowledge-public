@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/lindsey-graham/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/lindsey-graham/index.json",
   "description": "Follow Lindsey Graham, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-14T13:30:27.465Z",
+  "updatedAt": "2026-07-14T17:12:24.301Z",
   "aliases": [],
   "changes": [
     {
@@ -17,13 +17,18 @@
       "date": "2026-07-14"
     },
     {
-      "title": "Republican strategist on what he'll remember most about Lindsey Graham",
-      "summary": "Sen. Lindsey Graham is being remembered for his wit and political effectiveness after his sudden death over the weekend. Republican strategist Matt Whitlock joins CBS News to discuss.",
+      "title": "South Carolina's governor appoints Lindsey Graham's sister to serve out his term",
+      "summary": "South Carolina Gov. Henry McMaster says he is appointing Darline Graham to finish the term of her late brother, former Republican Sen. Lindsey Graham, who died in office Saturday at age 71.",
       "date": "2026-07-14"
     },
     {
-      "title": "South Carolina's governor appoints Lindsey Graham's sister to serve out his term",
-      "summary": "South Carolina Gov. Henry McMaster says he is appointing Darline Graham to finish the term of her late brother, former Republican Sen. Lindsey Graham, who died in office Saturday at age 71.",
+      "title": "Trump says he doesn't see a lot of \"evil\" in Lindsey Graham's death when asked about FBI probe",
+      "summary": "President Trump took questions in the Oval Office and commented on an apparent FBI probe into Lindsey Graham's death, saying he doesn't see a lot of \"evil\" behind the sudden incident.",
+      "date": "2026-07-14"
+    },
+    {
+      "title": "Republican strategist on what he'll remember most about Lindsey Graham",
+      "summary": "Sen. Lindsey Graham is being remembered for his wit and political effectiveness after his sudden death over the weekend. Republican strategist Matt Whitlock joins CBS News to discuss.",
       "date": "2026-07-14"
     },
     {
@@ -55,31 +60,20 @@
       "title": "Tamara Keith and Amy Walter on Lindsey Graham's passing",
       "summary": "NPR's Tamara Keith and Amy Walter of the Cook Political Report with Amy Walter join Geoff Bennett to discuss the latest political news, including what the passing of Sen. Lindsey Graham means for South Carolina and the Senate, Sen. Mitch McConnell's health and Democrats scrambling to replace Graham Platner in the Maine.",
       "date": "2026-07-13"
-    },
-    {
-      "title": "Who is Darline Graham Nordone, the late Sen. Lindsey Graham's sister?",
-      "summary": "Nordone, who was appointed to serve the remaining months of the Senate term that her brother left behind when he died over the weekend, hasn't been in office before.",
-      "date": "2026-07-13"
     }
   ],
   "sources": [
+    {
+      "title": "Trump says he doesn't see a lot of \"evil\" in Lindsey Graham's death when asked about FBI probe",
+      "url": "https://www.cbsnews.com/video/trump-says-he-doesnt-see-a-lot-of-evil-in-lindsey-grahams-death-when-asked-about-fbi-probe/?utm_source=lootura.com",
+      "publishedAt": "2026-07-14T16:34:36.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
     {
       "title": "Who could replace Lindsey Graham in the Senate after his sudden death?",
       "url": "https://www.cbsnews.com/news/lindsey-graham-replacement/?utm_source=lootura.com",
       "publishedAt": "2026-07-14T06:26:51.000Z",
       "sourceId": "lootura-us-cbs-news"
-    },
-    {
-      "title": "Republican strategist on what he'll remember most about Lindsey Graham",
-      "url": "https://www.cbsnews.com/video/republican-strategist-on-what-hell-remember-most-about-lindsey-graham/?utm_source=lootura.com",
-      "publishedAt": "2026-07-14T01:33:41.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
-    {
-      "title": "Lindsey Graham's Sister to Serve the Rest of His Senate Term",
-      "url": "https://www.today.com/video/new-details-emerge-about-lindsey-graham-s-final-moments-266634309734?utm_source=lootura.com",
-      "publishedAt": "2026-07-14T11:18:37.000Z",
-      "sourceId": "lootura-us-nbc-news-politics"
     },
     {
       "title": "South Carolina's governor appoints Lindsey Graham's sister to serve out his term",
@@ -94,5 +88,5 @@
       "sourceId": "lootura-us-the-new-york-times"
     }
   ],
-  "evidenceCount": 5
+  "evidenceCount": 4
 }

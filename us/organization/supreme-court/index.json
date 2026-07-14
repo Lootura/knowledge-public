@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/supreme-court/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/supreme-court/index.json",
   "description": "Follow Supreme Court, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-14T13:30:27.465Z",
+  "updatedAt": "2026-07-14T17:12:24.301Z",
   "aliases": [
     "U.S. Supreme Court"
   ],
@@ -16,6 +16,16 @@
     {
       "title": "Funding milestone detected",
       "summary": "justices are asking lawmakers on Capitol Hill to increase their 2027 budget, with most of the additional funding earmarked for security. Ann E. Marimow, a New York Times reporter, explains why the justices say these measures are necessary to protect them from rising threats.",
+      "date": "2026-07-14"
+    },
+    {
+      "title": "Barrett testifies about swatting incident and threatening packages at hearing",
+      "summary": "During a hearing on the Supreme Court's budget, Justice Amy Coney Barrett shared the security threats she and her family have faced, including a swatting incident and threatening packages sent to her home.",
+      "date": "2026-07-14"
+    },
+    {
+      "title": "Justice Kagan Tells House Panel That ‘Threats Have Come Very Close’",
+      "summary": "In her prepared remarks, Justice Elena Kagan said the Supreme Court Police estimated a 38 percent increase in threats this year.",
       "date": "2026-07-14"
     },
     {
@@ -52,26 +62,27 @@
       "title": "1 year after Supreme Court limited broad injunctions, groups see shifting landscape",
       "summary": "More than one year after the Supreme Court restricted the use of nationwide injunctions, groups challenging President Trump's agenda have relied on other mechanisms to broadly block his policies.",
       "date": "2026-07-09"
-    },
-    {
-      "title": "Trump immigration cuts could worsen US caregiver shortage, experts say",
-      "summary": "The loss of protections for Haitian and Syrian workers could worsen shortages of nurses, aides and home care workers The Trump administration may remove the temporary protected status (TPS) of Haitians and Syrians in the US, the US supreme court ruled in late June – a move that will worsen America’s growing caregiver s.",
-      "date": "2026-07-09"
     }
   ],
   "sources": [
     {
-      "title": "In Rare Testimony, Supreme Court Justices Will Ask Congress for Security Funds",
-      "url": "https://www.nytimes.com/2026/07/14/us/politics/supreme-court-congress-testimony-security.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-14T09:03:34.000Z",
-      "sourceId": "lootura-us-the-new-york-times-politics"
+      "title": "Barrett testifies about swatting incident and threatening packages at hearing",
+      "url": "https://www.nbcnews.com/video/justice-barrett-shares-stories-of-security-threats-her-family-has-faced-266649669522?utm_source=lootura.com",
+      "publishedAt": "2026-07-14T15:05:14.000Z",
+      "sourceId": "lootura-us-nbc-news-politics"
     },
     {
       "title": "Why Supreme Court Justices Are Asking for More Security",
       "url": "https://www.nytimes.com/video/us/politics/100000011017774/why-supreme-court-justices-are-asking-for-more-security.html?utm_source=lootura.com",
       "publishedAt": "2026-07-14T10:51:09.000Z",
       "sourceId": "lootura-us-the-new-york-times-politics"
+    },
+    {
+      "title": "Justice Kagan Tells House Panel That ‘Threats Have Come Very Close’",
+      "url": "https://www.nytimes.com/2026/07/14/us/politics/kagan-house-testimony-supreme-court.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-14T14:29:07.000Z",
+      "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 3
 }

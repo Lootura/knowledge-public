@@ -8,9 +8,14 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/white-house/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/white-house/index.json",
   "description": "Follow White House, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-14T02:12:59.212Z",
+  "updatedAt": "2026-07-14T17:12:24.301Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "Trump says he will back off plan to toll ships in Strait of Hormuz",
+      "summary": "During a meeting with the prime minister of Iraq, President Trump discussed his decision to reverse his plan to implement tolls for non-Iranian ships passing through the Strait of Hormuz. NBC News' Gabe Gutierrez reports on the decision and other topics the president took questions about in the White House.",
+      "date": "2026-07-14"
+    },
     {
       "title": "How Lindsey Graham’s death quickly changes a busy Senate: From the Politics Desk",
       "summary": "Welcome to From the Politics Desk, a daily newsletter that brings you the NBC News Politics team’s latest reporting and analysis from the White House, Capitol Hill and the campaign trail.",
@@ -55,13 +60,15 @@
       "title": "\"Face the Nation with Margaret Brennan\" guests for July 12, 2026",
       "summary": "This week's guests include White House border czar Tom Homan and retired Gen. Frank McKenzie, president of The Citadel and former commander of U.S. Central Command.",
       "date": "2026-07-10"
-    },
-    {
-      "title": "Political Candidates Have An Opening on Clean Energy",
-      "summary": "—Andrew Merry—Getty Images It’s 2026, gas prices are still too high, and oil executives are warning the White House that costs could get worse before they get better. The Trump Administration is taking note. And if the Democrats want to win in November they will need to stop talking like policy wonks and start talking.",
-      "date": "2026-07-10"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Trump says he will back off plan to toll ships in Strait of Hormuz",
+      "url": "https://www.nbcnews.com/now/video/trump-says-he-will-back-off-plan-to-toll-ships-in-strait-of-hormuz-266653253537?utm_source=lootura.com",
+      "publishedAt": "2026-07-14T16:38:39.000Z",
+      "sourceId": "lootura-us-nbc-news-politics"
+    }
+  ],
+  "evidenceCount": 1
 }

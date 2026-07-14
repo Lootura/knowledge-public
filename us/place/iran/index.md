@@ -3,10 +3,16 @@
 > Follow Iran, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-14T13:30:27.465Z
+- Updated: 2026-07-14T17:12:24.301Z
 - Canonical: https://atlas.lootura.com/us/place/iran
 
 ## Recent changes
+
+### Inflation slowed sharply -- but it may not last
+
+Annual inflation hit 3.5% in June, down from May's more than three-year high — but the resumption of the conflict with Iran threaten to push up inflation as energy costs once again spike. (Image credit: Brandon Bell).
+
+Date: 2026-07-14
 
 ### Details on newest U.S. strikes against Iran
 
@@ -26,27 +32,21 @@ Recent strikes have sent oil prices climbing again, with average gas price per g
 
 Date: 2026-07-14
 
-### Big Banks Smash Earnings Records, but ‘Tectonic’ Risks Loom
-
-The largest banks in the United States collectively raked in tens of billions of profits in the second quarter, despite the war in Iran and persistent inflation.
-
-Date: 2026-07-14
-
 ### Europe, Flexing Muscle in Ukraine, Is Still on Sidelines in Iran
 
 In a show of collective strength, President Emmanuel Macron of France hosted European allies at the annual Bastille Day parade in Paris. Yet Europe is still a hostage to America’s foreign policy.
 
 Date: 2026-07-14
 
-### Will Oil Prices Rise as the US-Iran Truce Frays? The Answer Lies With China.
-
-For decades, OPEC influenced the market by how much oil it produced. But China, the largest importer, is demonstrating its remarkable power over prices.
-
-Date: 2026-07-13
-
 ### Yemen’s Fragile Peace in Peril as Houthis Accuse Saudi Arabia of Bombing
 
 The Iran-backed Houthi rebels in Yemen accused Saudi Arabia of striking Yemen’s main international airport in a dispute over an Iranian plane that tried to land in the capital, Sana.
+
+Date: 2026-07-13
+
+### Will Oil Prices Rise as the US-Iran Truce Frays? The Answer Lies With China.
+
+For decades, OPEC influenced the market by how much oil it produced. But China, the largest importer, is demonstrating its remarkable power over prices.
 
 Date: 2026-07-13
 
@@ -71,10 +71,5 @@ Date: 2026-07-13
 ## Sources
 
 - [More U.S. strikes slam Iran as tensions roar over Strait of Hormuz and Bab al-Mandab waterways](https://www.cbsnews.com/video/more-us-strikes-slam-iran-as-tensions-roar-over-strait-of-hormuz-and-bab-al-mandab-waterways/?utm_source=lootura.com) — 2026-07-14T13:12:26.000Z
-- [Details on newest U.S. strikes against Iran](https://www.cbsnews.com/video/details-on-newest-us-strikes-against-iran/?utm_source=lootura.com) — 2026-07-14T01:25:44.000Z
-- [Inflation cools to 3.5% in June in relief brought by brief US-Iran deal](https://www.theguardian.com/business/2026/jul/14/june-cpi-report-inflation-cools-iran-deal?utm_source=lootura.com) — 2026-07-14T12:39:43.000Z
-- [Big Banks Smash Earnings Records, but ‘Tectonic’ Risks Loom](https://www.nytimes.com/2026/07/14/business/jpmorgan-goldman-bofa-wells-fargo-bank-earnings.html?utm_source=lootura.com) — 2026-07-14T12:13:14.000Z
+- [Inflation slowed sharply -- but it may not last](https://www.npr.org/2026/07/14/nx-s1-5893379/inflation-economy-consumer-prices-federal-reserve?utm_source=lootura.com) — 2026-07-14T14:40:20.000Z
 - [Yemen’s Fragile Peace in Peril as Houthis Accuse Saudi Arabia of Bombing](https://www.nytimes.com/2026/07/13/world/middleeast/yemen-houthis-saudi-arabia-iran-war.html?utm_source=lootura.com) — 2026-07-13T19:15:52.000Z
-- [Will Oil Prices Rise as the US-Iran Truce Frays? The Answer Lies With China.](https://www.nytimes.com/2026/07/13/business/energy-environment/oil-prices-iran-china.html?utm_source=lootura.com) — 2026-07-13T18:00:46.000Z
-- [Trump Says Fighting With Iran Has Resumed as He Orders Blockade and Tolls](https://www.nytimes.com/2026/07/13/us/politics/trump-iran-ceasefire.html?utm_source=lootura.com) — 2026-07-14T00:38:48.000Z
-- [Europe, Flexing Muscle in Ukraine, Is Still on Sidelines in Iran](https://www.nytimes.com/2026/07/14/world/europe/macron-trump-bastille-day-military-parade.html?utm_source=lootura.com) — 2026-07-14T11:04:35.000Z

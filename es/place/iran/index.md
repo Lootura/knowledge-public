@@ -3,7 +3,7 @@
 > Sigue la actividad de Iran en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-14T13:30:06.934Z
+- Actualizado: 2026-07-14T17:12:02.446Z
 - Canonical: https://atlas.lootura.com/es/place/iran
 
 ## Cambios recientes
@@ -71,4 +71,3 @@ Date: 2026-07-13
 ## Fuentes
 
 - [La inflación en Estados Unidos registró en junio el primer descenso mensual desde 2020](https://elpais.com/economia/2026-07-14/la-inflacion-en-estados-unidos-registro-en-junio-el-primer-descenso-mensual-desde-2020.html?utm_source=lootura.com) — 2026-07-14T13:21:48.000Z
-- [El Tesoro paga un 2,63% por las letras a nueve meses, el tipo más alto desde noviembre de 2024](https://cincodias.elpais.com/mercados-financieros/2026-07-14/el-tesoro-paga-un-263-por-las-letras-a-nueve-meses-el-tipo-mas-alto-desde-noviembre-de-2024.html?utm_source=lootura.com) — 2026-07-14T11:24:34.000Z

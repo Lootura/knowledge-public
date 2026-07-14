@@ -8,9 +8,14 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/iran/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/iran/index.json",
   "description": "Follow Iran, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-14T13:30:27.465Z",
+  "updatedAt": "2026-07-14T17:12:24.301Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "Inflation slowed sharply -- but it may not last",
+      "summary": "Annual inflation hit 3.5% in June, down from May's more than three-year high — but the resumption of the conflict with Iran threaten to push up inflation as energy costs once again spike. (Image credit: Brandon Bell).",
+      "date": "2026-07-14"
+    },
     {
       "title": "Details on newest U.S. strikes against Iran",
       "summary": "The United States is carrying out a third night of airstrikes against Iran. CBS News national security analyst Aaron MacLean has more.",
@@ -27,23 +32,18 @@
       "date": "2026-07-14"
     },
     {
-      "title": "Big Banks Smash Earnings Records, but ‘Tectonic’ Risks Loom",
-      "summary": "The largest banks in the United States collectively raked in tens of billions of profits in the second quarter, despite the war in Iran and persistent inflation.",
-      "date": "2026-07-14"
-    },
-    {
       "title": "Europe, Flexing Muscle in Ukraine, Is Still on Sidelines in Iran",
       "summary": "In a show of collective strength, President Emmanuel Macron of France hosted European allies at the annual Bastille Day parade in Paris. Yet Europe is still a hostage to America’s foreign policy.",
       "date": "2026-07-14"
     },
     {
-      "title": "Will Oil Prices Rise as the US-Iran Truce Frays? The Answer Lies With China.",
-      "summary": "For decades, OPEC influenced the market by how much oil it produced. But China, the largest importer, is demonstrating its remarkable power over prices.",
+      "title": "Yemen’s Fragile Peace in Peril as Houthis Accuse Saudi Arabia of Bombing",
+      "summary": "The Iran-backed Houthi rebels in Yemen accused Saudi Arabia of striking Yemen’s main international airport in a dispute over an Iranian plane that tried to land in the capital, Sana.",
       "date": "2026-07-13"
     },
     {
-      "title": "Yemen’s Fragile Peace in Peril as Houthis Accuse Saudi Arabia of Bombing",
-      "summary": "The Iran-backed Houthi rebels in Yemen accused Saudi Arabia of striking Yemen’s main international airport in a dispute over an Iranian plane that tried to land in the capital, Sana.",
+      "title": "Will Oil Prices Rise as the US-Iran Truce Frays? The Answer Lies With China.",
+      "summary": "For decades, OPEC influenced the market by how much oil it produced. But China, the largest importer, is demonstrating its remarkable power over prices.",
       "date": "2026-07-13"
     },
     {
@@ -70,47 +70,17 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "Details on newest U.S. strikes against Iran",
-      "url": "https://www.cbsnews.com/video/details-on-newest-us-strikes-against-iran/?utm_source=lootura.com",
-      "publishedAt": "2026-07-14T01:25:44.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
-    {
-      "title": "Inflation cools to 3.5% in June in relief brought by brief US-Iran deal",
-      "url": "https://www.theguardian.com/business/2026/jul/14/june-cpi-report-inflation-cools-iran-deal?utm_source=lootura.com",
-      "publishedAt": "2026-07-14T12:39:43.000Z",
-      "sourceId": "lootura-us-the-guardian-us"
-    },
-    {
-      "title": "Big Banks Smash Earnings Records, but ‘Tectonic’ Risks Loom",
-      "url": "https://www.nytimes.com/2026/07/14/business/jpmorgan-goldman-bofa-wells-fargo-bank-earnings.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-14T12:13:14.000Z",
-      "sourceId": "lootura-us-the-new-york-times"
+      "title": "Inflation slowed sharply -- but it may not last",
+      "url": "https://www.npr.org/2026/07/14/nx-s1-5893379/inflation-economy-consumer-prices-federal-reserve?utm_source=lootura.com",
+      "publishedAt": "2026-07-14T14:40:20.000Z",
+      "sourceId": "lootura-us-npr"
     },
     {
       "title": "Yemen’s Fragile Peace in Peril as Houthis Accuse Saudi Arabia of Bombing",
       "url": "https://www.nytimes.com/2026/07/13/world/middleeast/yemen-houthis-saudi-arabia-iran-war.html?utm_source=lootura.com",
       "publishedAt": "2026-07-13T19:15:52.000Z",
       "sourceId": "lootura-us-the-new-york-times"
-    },
-    {
-      "title": "Will Oil Prices Rise as the US-Iran Truce Frays? The Answer Lies With China.",
-      "url": "https://www.nytimes.com/2026/07/13/business/energy-environment/oil-prices-iran-china.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-13T18:00:46.000Z",
-      "sourceId": "lootura-us-the-new-york-times"
-    },
-    {
-      "title": "Trump Says Fighting With Iran Has Resumed as He Orders Blockade and Tolls",
-      "url": "https://www.nytimes.com/2026/07/13/us/politics/trump-iran-ceasefire.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-14T00:38:48.000Z",
-      "sourceId": "lootura-us-the-new-york-times-politics"
-    },
-    {
-      "title": "Europe, Flexing Muscle in Ukraine, Is Still on Sidelines in Iran",
-      "url": "https://www.nytimes.com/2026/07/14/world/europe/macron-trump-bastille-day-military-parade.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-14T11:04:35.000Z",
-      "sourceId": "lootura-us-the-new-york-times-world"
     }
   ],
-  "evidenceCount": 8
+  "evidenceCount": 3
 }

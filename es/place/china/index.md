@@ -3,10 +3,22 @@
 > Sigue la actividad de China en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-13T10:57:59.389Z
+- Actualizado: 2026-07-14T17:12:02.446Z
 - Canonical: https://atlas.lootura.com/es/place/china
 
 ## Cambios recientes
+
+### DeepSeek acelera los preparativos para salir a Bolsa
+
+DeepSeek acelera los preparativos para su salida a Bolsa . La empresa china de inteligencia artificial estudia presentar este mismo año la documentación necesaria para cotizar, con el objetivo de debutar en el mercado de Shanghai en 2027, según fuentes de la compañía citadas por Bloomberg. Seguir leyendo.
+
+Date: 2026-07-14
+
+### El último móvil de Samsung es uno de los mejores smartphones compactos de 2026 y está rebajado más de 200 euros
+
+Samsung ha sabido mantenerse como una de las marcas de referencia en teléfonos móviles inteligentes Android. Aunque la competencia desde China es feroz, la compañía surcoreana sigue siendo la favorita de millones de personas, ya que ofrece terminales de buenas características y un soporte de actualizaciones muy extendi.
+
+Date: 2026-07-14
 
 ### La Primera de Expansión sobre el apagón, Brookfield, Inditex, Irán, Mitsubishi y la IA china
 
@@ -56,18 +68,7 @@ Esta mañana China se convertía en el segundo país , tras los Estados Unidos, 
 
 Date: 2026-07-10
 
-### Discovered by Atlas
-
-China first entered the public knowledge record with source-backed evidence.
-
-Date: 2026-07-09
-
-### Un análisis revela que los medicamentos para la obesidad apenas mejoran la calidad de vida
-
-La expansión global de los medicamentos contra la obesidad ha generado grandes expectativas entre pacientes y médicos, pero un nuevo análisis publicado en The BMJ cuestiona la amplitud real de sus beneficios. Según esta revisión, realizada por investigadores de la Universidad de Sichuan (China), la mayoría de los fárma.
-
-Date: 2026-07-09
-
 ## Fuentes
 
-No public source links.
+- [DeepSeek acelera los preparativos para salir a Bolsa](https://cincodias.elpais.com/mercados-financieros/2026-07-14/deepseek-acelera-los-preparativos-para-salir-a-bolsa-este-ano.html?utm_source=lootura.com) — 2026-07-14T16:22:34.000Z
+- [El último móvil de Samsung es uno de los mejores smartphones compactos de 2026 y está rebajado más de 200 euros](https://www.larazon.es/compras/nuestra-eleccion/ultimo-movil-samsung-uno-mejores-smartphones-compactos-2026-esta-rebajado-mas-200-euros_202607146a55f4bcc48a78681b887d9a.html?utm_source=lootura.com) — 2026-07-14T17:00:16.000Z

@@ -3,7 +3,7 @@
 > Sigue la actividad de Artificial intelligence en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: topic
-- Actualizado: 2026-07-14T06:09:00.827Z
+- Actualizado: 2026-07-14T17:12:02.446Z
 - Canonical: https://atlas.lootura.com/es/topic/artificial-intelligence
 
 ## Cambios recientes
@@ -34,4 +34,4 @@ Date: 2026-07-10
 
 ## Fuentes
 
-No public source links.
+- [DeepSeek acelera los preparativos para salir a Bolsa](https://cincodias.elpais.com/mercados-financieros/2026-07-14/deepseek-acelera-los-preparativos-para-salir-a-bolsa-este-ano.html?utm_source=lootura.com) — 2026-07-14T16:22:34.000Z

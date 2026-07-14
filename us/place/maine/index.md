@@ -3,26 +3,14 @@
 > Follow Maine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-14T13:30:27.465Z
+- Updated: 2026-07-14T17:12:24.301Z
 - Canonical: https://atlas.lootura.com/us/place/maine
 
 ## Recent changes
 
-### Democratic Senate Candidates in Maine Denounce Deadly ICE Shooting
-
-The killing of a man in Biddeford quickly became an issue in the Senate race, with Democrats aiming to tie Senator Susan Collins to President Trump’s immigration crackdown.
-
-Date: 2026-07-14
-
 ### ICE Agent Kills Person in Vehicle in Biddeford, Maine, State Officials Say
 
 The fatal shooting in Biddeford, Maine, was the second in a week involving an Immigration and Customs Enforcement agent firing into a vehicle.
-
-Date: 2026-07-14
-
-### ICE-involved shooting leaves one person dead in Maine
-
-The shooting happened Monday morning in Biddeford, Maine. The incident left one person dead. NBC News’ Erin McLaughlin has more.
 
 Date: 2026-07-14
 
@@ -44,36 +32,51 @@ There is a growing demand for answers after a fatal ICE-involved shooting in Mai
 
 Date: 2026-07-14
 
+### ICE halts most vehicle stops following deadly shootings, sources say
+
+Neither of the victims of the ICE shootings in Maine or Texas were the target of enforcement operations, according to the Department of Homeland Security.
+
+Date: 2026-07-14
+
+### Family of a man shot by agents responding to a 911 call seeks answers
+
+A troubling pattern of federal agents fatally shooting civilians is developing, with deaths in Maine, Texas and Tennessee. The family of a man shot by agents told NPR they want answers.
+
+Date: 2026-07-14
+
+### DHS says ICE officer who fatally shot driver in Maine was 'fearing for public safety'
+
+A witness says he heard driver say, "I tried to stop.".
+
+Date: 2026-07-14
+
+### Many questions remain after an ICE officer's fatal shooting of a Maine driver
+
+Immigrant rights groups are demanding answers and planning more protests Tuesday over an Immigration and Customs Enforcement officer's fatal shooting of a Maine driver.
+
+Date: 2026-07-14
+
+### ICE Ordered to Cease Most Vehicle Stops After 2 Killings in a Week
+
+Agents fatally shot a man in Houston and another in coastal Maine, both in their vehicles. The killings were the latest in a string of ICE shootings during President Trump’s second term.
+
+Date: 2026-07-14
+
 ### Graham Platner's voters figure out what's next as candidates vie for their support
 
 voters are still grappling with Democratic Senate candidate Graham Platner's dramatic departure from the race.
 
 Date: 2026-07-13
 
-### Tamara Keith and Amy Walter on Lindsey Graham's passing
-
-NPR's Tamara Keith and Amy Walter of the Cook Political Report with Amy Walter join Geoff Bennett to discuss the latest political news, including what the passing of Sen. Lindsey Graham means for South Carolina and the Senate, Sen. Mitch McConnell's health and Democrats scrambling to replace Graham Platner in the Maine.
-
-Date: 2026-07-13
-
-### ICE shot and killed a Colombian man in Maine. This is the 2nd time in a week the agency used deadly force
-
-Bystander video taken after the shooting showed agents trying to slow a white sedan that was driving in circles in an intersection in Biddeford, southwest of Portland.
-
-Date: 2026-07-13
-
-### 1 person killed in Maine shooting involving ICE, state house speaker says
-
-A person was shot and killed in Maine involving ICE, the state.
-
-Date: 2026-07-13
-
 ## Sources
 
 - [Man fatally shot by ICE in Maine was not intended target of warrant, lawmakers say](https://www.cbsnews.com/news/maine-shooting-ice-biddeford/?utm_source=lootura.com) — 2026-07-14T13:11:47.000Z
-- [ICE-involved shooting leaves one person dead in Maine](https://www.nbcnews.com/nightly-news/video/ice-involved-shooting-leaves-one-person-dead-in-maine-266627141692?utm_source=lootura.com) — 2026-07-14T02:52:48.000Z
+- [ICE halts most vehicle stops following deadly shootings, sources say](https://www.cbsnews.com/news/ice-agents-halt-vehicle-stops-after-shootings-maine-texas/?utm_source=lootura.com) — 2026-07-14T16:50:25.000Z
 - [Officials Investigate Fatal ICE Shooting in Maine as Fallout Grows](https://www.today.com/video/officials-investigate-fatal-ice-shooting-in-maine-as-fallout-grows-266634821667?utm_source=lootura.com) — 2026-07-14T11:27:17.000Z
 - [Morning news brief](https://www.npr.org/2026/07/14/nx-s1-5891540/morning-news-brief?utm_source=lootura.com) — 2026-07-14T09:02:31.000Z
+- [Family of a man shot by agents responding to a 911 call seeks answers](https://www.npr.org/2026/07/14/nx-s1-5891873/family-of-a-man-shot-by-agents-responding-to-a-911-call-seeks-answers?utm_source=lootura.com) — 2026-07-14T11:26:15.000Z
 - [Platner's voters are reeling as Maine Democratic Party races to choose his replacement](https://www.npr.org/2026/07/14/nx-s1-5892502/platner-collins-maine-democratic-party-senate?utm_source=lootura.com) — 2026-07-14T09:00:00.000Z
+- [DHS says ICE officer who fatally shot driver in Maine was 'fearing for public safety'](https://www.pbs.org/newshour/politics/dhs-says-ice-officer-who-fatally-shot-driver-in-maine-was-fearing-for-public-safety?utm_source=lootura.com) — 2026-07-14T14:31:51.000Z
+- [Many questions remain after an ICE officer's fatal shooting of a Maine driver](https://www.pbs.org/newshour/politics/many-questions-remain-after-an-ice-officers-fatal-shooting-of-a-maine-driver?utm_source=lootura.com) — 2026-07-14T15:35:24.000Z
+- [ICE Ordered to Cease Most Vehicle Stops After 2 Killings in a Week](https://www.nytimes.com/2026/07/14/us/ice-agents-traffic-stops.html?utm_source=lootura.com) — 2026-07-14T17:02:06.000Z
 - [ICE Agent Kills Person in Vehicle in Biddeford, Maine, State Officials Say](https://www.nytimes.com/2026/07/13/us/biddeford-maine-ice-shooting.html?utm_source=lootura.com) — 2026-07-14T04:32:14.000Z
-- [Democratic Senate Candidates in Maine Denounce Deadly ICE Shooting](https://www.nytimes.com/2026/07/13/us/politics/maine-ice-shooting-senate-graham-platner.html?utm_source=lootura.com) — 2026-07-14T02:01:13.000Z

@@ -3,10 +3,58 @@
 > Sigue la actividad de Donald Trump en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-14T13:30:06.934Z
+- Actualizado: 2026-07-14T17:12:02.446Z
 - Canonical: https://atlas.lootura.com/es/person/donald-trump
 
 ## Cambios recientes
+
+### Trump da marcha atrás en el peaje a los barcos que transitan por el estrecho de Ormuz
+
+dio marcha atrás este martes en su intención repentina de cobrar una tasa del 20% sobre toda la carga transportada por los barcos que atraviesen el estrecho de Ormuz. El presidente confirmó la retirada del plan durante la reunión bilateral que mantuvo en la Casa Blanca con el primer ministro de Irak, despu.
+
+Date: 2026-07-14
+
+### Botín defiende la compra de Webster en EE UU frente a las tensiones de Trump con España
+
+La presidenta del Santander, Ana Botín, ha defendido este martes en una entrevista con el canal de televisión americano CNBC la adquisición del banco estadounidense Webster , que anunció en febrero y espera se cierre a lo largo del año. La operación coincide en un momento de tensión entre España y el presidente de EE U.
+
+Date: 2026-07-14
+
+### El último giro de Trump alivia las Bolsas y modera el alza del ‘brent’
+
+Los mercados vuelven a enfrentarse a uno de los rasgos más característicos de la presidencia de Donald Trump: la imprevisibilidad. Apenas 24 horas después de que Washington restableciera el bloqueo en el estrecho de Ormuz y anunciara un peaje equivalente al 20% del valor de la carga para cada barco que atravesara este.
+
+Date: 2026-07-14
+
+### Trump dice ahora que aceptará acuerdos de inversión con los países del Golfo en lugar de una tarifa del 20% por usar Ormuz
+
+Explica que el cambio se debe a conversaciones "sumamente productivas" con líderes de Oriente Próximo Leer.
+
+Date: 2026-07-14
+
+### Trump da marcha atrás: sustituirá su peaje del 20% en Ormuz por acuerdos comerciales en el Golfo
+
+La espectacular escalada de precios de petróleo registrada este lunes, hasta sus mayores cotas en el último mes, ha llevado este martes al presidente de Estados Unidos, Donald Trump, a protagonizar una de sus famosas marchas atrás. El inquilino de la Casa Blanca ha anunciado que finalmente sustituirá el peaje del 20% q.
+
+Date: 2026-07-14
+
+### El Ibex salva la jornada pese al pulso del petróleo
+
+El petróleo vuelve a ser protagonista. Los planes de Trump de cobrar un peaje del 20% por cruzar Ormuz han elevado de nuevo el precio del crudo. Las presiones inflacionistas aumentan en un día marcado por el IPC de EEUU, pero también por el inicio de los resultados y por la Fed. El Ibex espera novedades lastrado por el.
+
+Date: 2026-07-14
+
+### Product availability changed in Europe
+
+Con poco más de un año en el mercado, la Nintendo Switch 2 ya vendió casi 20 millones de unidades en todo el mundo. La consola de la firma japonesa se impuso a la incertidumbre de los aranceles de Trump, la escasez de componentes y el encarecimiento de su precio inicial respecto de su predecesora, y consiguió gran éxit.
+
+Date: 2026-07-14
+
+### Trump da marcha atrás: no cobrará la tasa del 20% a los buques que transiten por Ormuz
+
+El presidente de Estados Unidos, Donald Trump , anunció este martes que finalmente no cobrará la tasa del 20% que había planteado por facilitar el tránsito de buques por el estrecho de Ormuz y aseguró que, en su lugar, los países del golfo Pérsico se comprometieron a invertir en Estados Unidos . «Tras conversaciones mu.
+
+Date: 2026-07-14
 
 ### El Ibex, atenazado de nuevo por el petróleo
 
@@ -20,55 +68,13 @@ La presidenta de Santander, Ana Botín, ha remarcado las ventajas que comportar�
 
 Date: 2026-07-14
 
-### El petróleo supera los 86 dólares ante la escalada en el Golfo y ya sube un 20% sobre los mínimos de julio
-
-El precio del petróleo extiende las subidas y suma hoy un 2,5%, hasta superar los 85 dólares el barril de brent , tras ganar más del 9% la víspera a medida que se intensifica el enfrentamiento entre EE UU e Irán. El presidente Donald Trump restableció el bloqueo estadounidense a los buques iraníes que transitan por el.
-
-Date: 2026-07-14
-
-### Por qué el mundo debería imitar a Trump por una vez
-
-Aparte del golf, parece que la eponimia narcisista es el pasatiempo favorito de Donald Trump . Durante su segundo mandato como presidente de Estados Unidos, ha extendido su costumbre de bautizar torres con su propio nombre a una amplia gama de instituciones y servicios. Por supuesto, el proceso nunca ha estado extento.
-
-Date: 2026-07-14
-
-### NATO spending pressure returned
-
-For the US’ allies, Nato summits have largely become a matter of damage control and evading the wrath of Donald Trump. With Washington’s support no longer a given, the special relationship between the US and the European Union (EU) is under increasing strain . The recent Nato summit, held on July 7-8 in Ankara, Turkey,.
-
-Date: 2026-07-14
-
-### El petróleo extiende el rally y penaliza las Bolsas
-
-El precio del petróleo extiende las subidas y suma hoy un 1,5%, hasta superar los 84 dólares el barril de Brent , tras ganar más del 9% la víspera, a medida que se intensifica el enfrentamiento entre EE UU e Irán. El presidente Donald Trump restableció el bloqueo estadounidense a los buques iraníes que transitan por el.
-
-Date: 2026-07-14
-
-### Trump dice que EEUU investiga si Irán tiene drones almacenados en Cuba
-
-El presidente de Estados Unidos, Donald Trump , ha asegurado este lunes que su Gobierno investiga la posible presencia de drones iraníes almacenados en Cuba y ha advertido de que Washington actuará si confirma esa información. "Si los tienen, y es muy posible que los tengan , nos encargaremos de ello", ha declarado Tru.
-
-Date: 2026-07-14
-
-### Trump restablece el cerco naval a Irán y dice que cobrará el 20% por proteger a los buques en Ormuz
-
-Washington y Teherán intercambian ataques por sexta noche consecutiva Leer.
-
-Date: 2026-07-13
-
-### California y otros 11 Estados demócratas llevan a los tribunales la fusión Warner-Paramount aprobada por Trump
-
-La posible fusión entre dos gigantes del entretenimiento, Warner y Paramount, tiene pendiente a toda la industria del cine. Donald Trump y su Administración han dado el visto bueno a que Paramount se meta a Warner en el bolsillo por unos 111.000 millones de dólares, pero no todos los Estados están de acuerdo. Una docen.
-
-Date: 2026-07-13
-
-### Trump amenaza con volver a atacar a Irán: «Los golpearemos muy duro esta noche y mañana»
-
-El presidente de Estados Unidos, Donald Trump , aseguró este lunes que las fuerzas armadas de su país atacarán con fuerza a Irán «esta noche» y «mañana», en medio del restablecimiento de las hostilidades con Teherán. «Vamos a golpearlos muy duro esta noche y vamos a golpearlos muy duro mañana, y no hay absolutamente na.
-
-Date: 2026-07-13
-
 ## Fuentes
 
-- [El Ibex, atenazado de nuevo por el petróleo](https://www.expansion.com/mercados/cronica-bolsa/2026/07/14/6a55ceaa468aeb3a6b8b458b.html?utm_source=lootura.com) — 2026-07-14T12:40:59.000Z
-- [Botín, sobre los ataques de Trump a España: "La compra de Webster por Santander es un win-win"](https://www.expansion.com/empresas/banca/2026/07/14/6a55feb8468aeb864a8b45a3.html?utm_source=lootura.com) — 2026-07-14T10:28:58.000Z
+- [Trump da marcha atrás en el peaje a los barcos que transitan por el estrecho de Ormuz](https://www.abc.es/internacional/trump-marcha-atras-peaje-barcos-transitan-estrecho-20260714174612-nt.html?utm_source=lootura.com) — 2026-07-14T16:38:34.000Z
+- [Botín defiende la compra de Webster en EE UU frente a las tensiones de Trump con España](https://cincodias.elpais.com/companias/2026-07-14/botin-defiende-la-compra-de-webster-en-ee-uu-frente-a-las-tensiones-de-trump-con-espana.html?utm_source=lootura.com) — 2026-07-14T15:36:30.000Z
+- [El último giro de Trump alivia las Bolsas y modera el alza del ‘brent’](https://cincodias.elpais.com/mercados-financieros/2026-07-14/la-bolsa-y-el-ibex-35.html?utm_source=lootura.com) — 2026-07-14T15:48:22.000Z
+- [Trump dice ahora que aceptará acuerdos de inversión con los países del Golfo en lugar de una tarifa del 20% por usar Ormuz](https://www.elmundo.es/internacional/2026/07/14/6a56535ae85ece107b8b4572.html?utm_source=lootura.com) — 2026-07-14T15:40:36.000Z
+- [Trump da marcha atrás: sustituirá su peaje del 20% en Ormuz por acuerdos comerciales en el Golfo](https://www.expansion.com/economia/2026/07/14/6a5649a4468aeb7a408b459f.html?utm_source=lootura.com) — 2026-07-14T15:49:13.000Z
+- [El Ibex salva la jornada pese al pulso del petróleo](https://www.expansion.com/mercados/cronica-bolsa/2026/07/14/6a55ceaa468aeb3a6b8b458b.html?utm_source=lootura.com) — 2026-07-14T15:55:06.000Z
+- [Nintendo ya piensa en una Switch 2 OLED, pero hay un gran problema (es lo que imaginas)](https://hipertextual.com/videojuegos/nintendo-switch-2-oled/?utm_source=lootura.com) — 2026-07-14T13:39:37.000Z
+- [Trump da marcha atrás: no cobrará la tasa del 20% a los buques que transiten por Ormuz](https://theobjective.com/internacional/2026-07-14/trump-no-cobro-tasa-buques-ormuz/?utm_source=lootura.com) — 2026-07-14T16:02:06.000Z

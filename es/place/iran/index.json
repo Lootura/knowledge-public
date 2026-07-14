@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/iran/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/iran/index.json",
   "description": "Sigue la actividad de Iran en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-14T13:30:06.934Z",
+  "updatedAt": "2026-07-14T17:12:02.446Z",
   "aliases": [],
   "changes": [
     {
@@ -68,13 +68,7 @@
       "url": "https://elpais.com/economia/2026-07-14/la-inflacion-en-estados-unidos-registro-en-junio-el-primer-descenso-mensual-desde-2020.html?utm_source=lootura.com",
       "publishedAt": "2026-07-14T13:21:48.000Z",
       "sourceId": "lootura-es-cinco-dias"
-    },
-    {
-      "title": "El Tesoro paga un 2,63% por las letras a nueve meses, el tipo más alto desde noviembre de 2024",
-      "url": "https://cincodias.elpais.com/mercados-financieros/2026-07-14/el-tesoro-paga-un-263-por-las-letras-a-nueve-meses-el-tipo-mas-alto-desde-noviembre-de-2024.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-14T11:24:34.000Z",
-      "sourceId": "lootura-es-cinco-dias"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

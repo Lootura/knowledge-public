@@ -70,4 +70,4 @@ Date: 2026-07-11
 
 ## Sources
 
-- [The 2026 FIFA World Cup schedule and how to watch](https://www.cbsnews.com/news/world-cup-2026-schedule-how-to-watch/?utm_source=lootura.com) — 2026-07-14T02:05:37.000Z
+No public source links.

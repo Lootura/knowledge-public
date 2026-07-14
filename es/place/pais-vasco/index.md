@@ -3,7 +3,7 @@
 > Sigue la actividad de País Vasco en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-14T13:30:06.934Z
+- Actualizado: 2026-07-14T17:12:02.446Z
 - Canonical: https://atlas.lootura.com/es/place/pais-vasco
 
 ## Cambios recientes
@@ -58,5 +58,4 @@ Date: 2026-07-08
 
 ## Fuentes
 
-- [Andaluces contra vascos: estos son los dos próximos pueblos que se enfrentarán en el Grand Prix el 20 de julio](https://www.elconfidencial.com/espana/2026-07-14/andaluces-vs-vascos-pueblos-grand-prix-20-julio-1qrt-1tna_4389649/?utm_source=lootura.com) — 2026-07-14T10:38:00.000Z
 - [Euskadi suma 7.000 cotizantes extranjeros en dos meses con la regularización](https://www.elcorreo.com/economia/euskadi-suma-7000-cotizantes-extranjeros-dos-meses-20260714094801-nt_amp.html?utm_source=lootura.com) — 2026-07-14T07:48:01.000Z

@@ -3,7 +3,7 @@
 > Sigue la actividad de Estados Unidos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-14T13:30:06.934Z
+- Actualizado: 2026-07-14T17:12:02.446Z
 - Canonical: https://atlas.lootura.com/es/place/united-states
 
 ## Cambios recientes
@@ -11,6 +11,24 @@
 ### La inflación en Estados Unidos registró en junio el primer descenso mensual desde 2020
 
 La inflación en Estados Unidos se moderó en junio, coincidiendo con el alto el fuego con Irán y la reapertura del estrecho de Ormuz. El índice de precios al consumo (IPC) se moderó hasta el 3,5% en junio, siete décimas menos que el 4,2% registrado en mayo, según el dato difundido este martes por la Oficina de Estadísti.
+
+Date: 2026-07-14
+
+### Warsh asegura que “no tolerará” una inflación persistentemente elevada en Estados Unidos
+
+Kevin Warsh es un tipo al que no le gustan las sorpresas. El presidente de la Reserva Federal está empeñado en no salirse del guion y repite un discurso en el que no deja margen para la interpretación. El responsable de la política monetaria de Estados Unidos ha comparecido este martes ante el comité de Servicios Finan.
+
+Date: 2026-07-14
+
+### Trump da marcha atrás: sustituirá su peaje del 20% en Ormuz por acuerdos comerciales en el Golfo
+
+La espectacular escalada de precios de petróleo registrada este lunes, hasta sus mayores cotas en el último mes, ha llevado este martes al presidente de Estados Unidos, Donald Trump, a protagonizar una de sus famosas marchas atrás. El inquilino de la Casa Blanca ha anunciado que finalmente sustituirá el peaje del 20% q.
+
+Date: 2026-07-14
+
+### Trump da marcha atrás: no cobrará la tasa del 20% a los buques que transiten por Ormuz
+
+El presidente de Estados Unidos, Donald Trump , anunció este martes que finalmente no cobrará la tasa del 20% que había planteado por facilitar el tránsito de buques por el estrecho de Ormuz y aseguró que, en su lugar, los países del golfo Pérsico se comprometieron a invertir en Estados Unidos . «Tras conversaciones mu.
 
 Date: 2026-07-14
 
@@ -50,26 +68,9 @@ El presidente de Estados Unidos, Donald Trump , aseguró este lunes que las fuer
 
 Date: 2026-07-13
 
-### ¿Y si al final EEUU e Irán se ponen de acuerdo y cobran por pasar por Ormuz?
-
-Cuando, al inicio de la guerra desatada por Estados Unidos e Israel contra Irán, el régimen de los ayatolas cerró el paso por el estrecho de Ormuz a cualquier barco en un intento de conseguir que países dependientes de las importaciones de crudo de la zona presionaran para parar el conflicto, la medida fue criticada po.
-
-Date: 2026-07-13
-
-### Estados Unidos prueba en Marruecos misiles de precisión de largo alcance
-
-Las armas tienen un alcance de 290 kilómetros y se puede lanzar desde diversas plataformas.
-
-Date: 2026-07-13
-
-### La economía circular de los Trump: los hijos invierten en Defensa y el padre inyecta dinero en ella
-
-Los hijos del presidente de Estados Unidos, Donald Trump Jr. y Eric Trump, han acumulado una cartera de empresas emergentes de tecnología de defensa que se está beneficiando de las nuevas prioridades y gastos del Pentágono, según revela hoy The Washington Post. esta colisión de intereses puede poner en aprietos legales.
-
-Date: 2026-07-13
-
 ## Fuentes
 
 - [La inflación en Estados Unidos registró en junio el primer descenso mensual desde 2020](https://elpais.com/economia/2026-07-14/la-inflacion-en-estados-unidos-registro-en-junio-el-primer-descenso-mensual-desde-2020.html?utm_source=lootura.com) — 2026-07-14T13:21:48.000Z
-- [El Tesoro paga un 2,63% por las letras a nueve meses, el tipo más alto desde noviembre de 2024](https://cincodias.elpais.com/mercados-financieros/2026-07-14/el-tesoro-paga-un-263-por-las-letras-a-nueve-meses-el-tipo-mas-alto-desde-noviembre-de-2024.html?utm_source=lootura.com) — 2026-07-14T11:24:34.000Z
-- [Aurora Catà se incorpora a Heidrick & Struggles como socia en España](https://www.expansion.com/expansion-empleo/desarrollo-de-carrera/2026/07/14/6a561c58e5fdea96238b4598.html?utm_source=lootura.com) — 2026-07-14T11:29:02.000Z
+- [Warsh asegura que “no tolerará” una inflación persistentemente elevada en Estados Unidos](https://elpais.com/economia/2026-07-14/warsh-asegura-que-no-tolerara-una-inflacion-persistentemente-elevada.html?utm_source=lootura.com) — 2026-07-14T15:34:09.000Z
+- [Trump da marcha atrás: sustituirá su peaje del 20% en Ormuz por acuerdos comerciales en el Golfo](https://www.expansion.com/economia/2026/07/14/6a5649a4468aeb7a408b459f.html?utm_source=lootura.com) — 2026-07-14T15:49:13.000Z
+- [Trump da marcha atrás: no cobrará la tasa del 20% a los buques que transiten por Ormuz](https://theobjective.com/internacional/2026-07-14/trump-no-cobro-tasa-buques-ormuz/?utm_source=lootura.com) — 2026-07-14T16:02:06.000Z

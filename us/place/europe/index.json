@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/europe/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/europe/index.json",
   "description": "Follow Europe, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-14T13:30:27.465Z",
+  "updatedAt": "2026-07-14T17:12:24.301Z",
   "aliases": [
     "EU",
     "European Union"
   ],
   "changes": [
+    {
+      "title": "Ticking time bomb? Europe's aging population brings challenges",
+      "summary": "The population of the 27-nation European Union will peak in 2029 before falling in the coming decades, according to a report published Tuesday that spotlights the major challenges the bloc faces from an aging population.",
+      "date": "2026-07-14"
+    },
     {
       "title": "Europe, Flexing Muscle in Ukraine, Is Still on Sidelines in Iran",
       "summary": "In a show of collective strength, President Emmanuel Macron of France hosted European allies at the annual Bastille Day parade in Paris. Yet Europe is still a hostage to America’s foreign policy.",
@@ -58,19 +63,14 @@
       "title": "Discovered by Atlas",
       "summary": "Europe first entered the public knowledge record with source-backed evidence.",
       "date": "2026-07-09"
-    },
-    {
-      "title": "June was the hottest on record for Western Europe, second hottest globally",
-      "summary": "A new report by the Copernicus Climate Change Service also found that June temperatures in Western Europe were nearly 5.5 degrees above average.",
-      "date": "2026-07-09"
     }
   ],
   "sources": [
     {
-      "title": "Europe, Flexing Muscle in Ukraine, Is Still on Sidelines in Iran",
-      "url": "https://www.nytimes.com/2026/07/14/world/europe/macron-trump-bastille-day-military-parade.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-14T11:04:35.000Z",
-      "sourceId": "lootura-us-the-new-york-times-world"
+      "title": "Ticking time bomb? Europe's aging population brings challenges",
+      "url": "https://phys.org/news/2026-07-europe-aging-population.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-14T16:40:02.000Z",
+      "sourceId": "lootura-us-phys-org"
     }
   ],
   "evidenceCount": 1

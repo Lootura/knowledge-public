@@ -3,7 +3,7 @@
 > Sigue la actividad de Partido Socialista Obrero Español en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-14T13:30:06.934Z
+- Actualizado: 2026-07-14T17:12:02.446Z
 - Canonical: https://atlas.lootura.com/es/organization/psoe
 
 ## Cambios recientes
@@ -11,12 +11,6 @@
 ### El juez Pedraz cita a declarar como imputada el 9 de septiembre a la gerente del PSOE por el caso de las cloacas de Ferraz
 
 Ese mismo día también ha sido citado a declarar el abogado Ismael Oliver Leer.
-
-Date: 2026-07-14
-
-### La abogada de Koldo García niega ante el juez del caso Leire Díez haber cobrado del PSOE ni directa ni indirectamente
-
-Indica que la empresaria Carmen Pano declaró que la intentó sobornar por "venganza" porque tuvieron desavenencias en un negocio de hidrocarburos El juez del caso Leire Díez cita como investigada el 9 de septiembre a la gerente del PSOE, Ana Fuentes La abogada Leticia de la Hoz ha declarado este martes como imputada ant.
 
 Date: 2026-07-14
 
@@ -28,7 +22,13 @@ Date: 2026-07-14
 
 ### La UCO confirma que el PSOE pagó 43.225 euros a Leire a través de Zarrías y del exabogado de Koldo
 
-Los agentes revelan el «método» para que la fontanera recibiera «cantidades con origen» en el partido.
+La Unidad Central Operativa (UCO) de la Guardia Civil ha confirmado al juez de la Audiencia Nacional Santiago Pedraz que el PSOE pagó 43.225 euros a la presunta fontanera del partido, Leire Díez , a través de la consultora del exdirigente socialista Gaspar Zarrías y del despacho del exabogado de Koldo García Ismael Oli.
+
+Date: 2026-07-14
+
+### La abogada de Koldo García niega ante el juez del caso Leire Díez haber cobrado del PSOE ni directa ni indirectamente
+
+Indica que la empresaria Carmen Pano declaró que la intentó sobornar por "venganza" porque tuvieron desavenencias en un negocio de hidrocarburos El juez del caso Leire Díez cita como investigada el 9 de septiembre a la gerente del PSOE, Ana Fuentes La abogada Leticia de la Hoz ha declarado este martes como imputada ant.
 
 Date: 2026-07-14
 
@@ -70,6 +70,6 @@ Date: 2026-07-13
 
 ## Fuentes
 
+- [La UCO confirma que el PSOE pagó 43.225 euros a Leire a través de Zarrías y del exabogado de Koldo](https://www.abc.es/espana/uco-confirma-psoe-pago-43225-euros-leire-20260714113453-nt.html?utm_source=lootura.com) — 2026-07-14T16:25:40.000Z
 - [El juez Pedraz cita a declarar como imputada el 9 de septiembre a la gerente del PSOE por el caso de las cloacas de Ferraz](https://www.elmundo.es/espana/2026/07/14/6a55f484fc6c832a5b8b4577.html?utm_source=lootura.com) — 2026-07-14T09:25:43.000Z
-- [La abogada de Koldo García niega ante el juez del caso Leire Díez haber cobrado del PSOE ni directa ni indirectamente](https://www.eldiario.es/politica/abogada-koldo-garcia-niega-juez-caso-leire-diez-haber-cobrado-psoe-directa-indirectamente_1_13378470.html?utm_source=lootura.com) — 2026-07-14T11:15:23.000Z
 - [La abogada de Koldo niega que el PSOE pagase su defensa y la relación con el partido](https://theobjective.com/espana/tribunales/2026-07-14/abogada-koldo-niega-psoe-pagase-defensa-relacion-partido/?utm_source=lootura.com) — 2026-07-14T12:36:58.000Z

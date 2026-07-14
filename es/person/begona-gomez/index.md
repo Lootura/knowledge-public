@@ -3,10 +3,28 @@
 > Sigue la actividad de Begoña Gómez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-14T06:09:00.827Z
+- Actualizado: 2026-07-14T17:12:02.446Z
 - Canonical: https://atlas.lootura.com/es/person/begona-gomez
 
 ## Cambios recientes
+
+### El Gobierno denuncia que lo pretenden “derribar” ante “la incapacidad de hacerlo por las urnas” tras la condena al hermano de Sánchez
+
+El Gobierno esperaba la absolución de David Sánchez y no estaba preparado para la condena de nueve años de inhabilitación al hermano del presidente por prevaricación. El fallo de la Audiencia Provincial de Badajoz, combinado con las últimas decisiones en la controvertida causa del juez Peinado contra Begoña Gómez, con.
+
+Date: 2026-07-14
+
+### David Sánchez, el hijo de Magdalena y Pedro
+
+El 22 de julio de 2019, durante el debate de investidura de Pedro Sánchez, los periodistas sentados en la tribuna jugábamos a adivinar el nombre de los presentes en la zona de invitados. Ahí estaba Begoña Gómez, en primera fila, junto a un matrimonio con el que conversaba con cercanía, pero con la distancia suficiente.
+
+Date: 2026-07-14
+
+### Última hora de la actualidad política, en directo | Rufián, sobre la condena a David Sánchez: “Es una sobrada importante (…) Luego viene Begoña Gómez”
+
+David Sánchez, hermano del presidente del Gobierno, ha sido condenado a nueve años de inhabilitación por un delito de prevaricación, y las reacciones políticas no se han hecho esperar. El portavoz de ERC en el Congreso, Gabriel Rufián, ha considerado que la condena era “previsible”: “La derecha y la ultraderecha deberí.
+
+Date: 2026-07-14
 
 ### El juez Peinado reclama a Begoña Gómez que “acredite” que solo usó su pasaporte para viajar a Reino Unido
 
@@ -50,24 +68,8 @@ La Fiscalía Provincial de Madrid ha solicitado la absolución de Begoña Gómez
 
 Date: 2026-07-09
 
-### Barrabés, ante la causa de Peinado sobre Begoña Gómez: "Esto son cuatro o cinco mentiras gordas repetidas todo el rato"
-
-El empresario para el que las acusaciones piden seis años de prisión asegura que "hace muchísimos años" que no tiene ninguna relación con la esposa del presidente, que tampoco la tiene con Pedro Sánchez y que su participación en la cátedra "fue inexistente" La Fiscalía pide la absolución de Begoña Gómez en su escrito d.
-
-Date: 2026-07-09
-
-### La Fiscalía acusa a Peinado de inventarse "una confabulación" para impedir la salida de España de Begoña Gómez
-
-La Fiscalía recurrió el 26 de junio la decisión de Peinado en un escrito en el que le acusa de citar el caso de una organización internacional de narcotráfico sin ahondar en qué paralelismos podría tener con el caso de la mujer del presidente: "Es no decir nada" El juez Peinado dice que no pretendía “ofender” a los esc.
-
-Date: 2026-07-09
-
-### La Fiscalía pide la absolución de Begoña Gómez en su escrito de conclusiones para el juicio: "Sin delito no hay autor"
-
-"Ni Begoña Gómez ni Cristina Álvarez ni Juan Carlos Barrabés obtuvieron remuneración o beneficio directo o indirecto derivado de la Cátedra de Transformación Social Competitiva, ni realizaron presión de ningún tipo sobre las empresas afectadas para su promoción o patrocinios", alega la Fiscalía La Fiscalía acusa a Pein.
-
-Date: 2026-07-09
-
 ## Fuentes
 
-No public source links.
+- [El Gobierno denuncia que lo pretenden “derribar” ante “la incapacidad de hacerlo por las urnas” tras la condena al hermano de Sánchez](https://elpais.com/espana/2026-07-14/puente-denuncia-que-se-pretende-derribar-al-gobierno-ante-la-incapacidad-de-hacerlo-por-las-urnas-tras-la-condena-del-hermano-de-sanchez.html?utm_source=lootura.com) — 2026-07-14T11:26:47.000Z
+- [David Sánchez, el hijo de Magdalena y Pedro](https://elpais.com/espana/2026-07-14/david-sanchez-el-hijo-de-magdalena-y-pedro.html?utm_source=lootura.com) — 2026-07-14T15:37:37.000Z
+- [Última hora de la actualidad política, en directo | Rufián, sobre la condena a David Sánchez: “Es una sobrada importante (…) Luego viene Begoña Gómez”](https://elpais.com/espana/2026-07-14/ultima-hora-de-la-actualidad-politica-en-directo.html?utm_source=lootura.com) — 2026-07-14T17:03:34.000Z

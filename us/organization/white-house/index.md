@@ -3,10 +3,16 @@
 > Follow White House, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-07-14T02:12:59.212Z
+- Updated: 2026-07-14T17:12:24.301Z
 - Canonical: https://atlas.lootura.com/us/organization/white-house
 
 ## Recent changes
+
+### Trump says he will back off plan to toll ships in Strait of Hormuz
+
+During a meeting with the prime minister of Iraq, President Trump discussed his decision to reverse his plan to implement tolls for non-Iranian ships passing through the Strait of Hormuz. NBC News' Gabe Gutierrez reports on the decision and other topics the president took questions about in the White House.
+
+Date: 2026-07-14
 
 ### How Lindsey Graham’s death quickly changes a busy Senate: From the Politics Desk
 
@@ -62,12 +68,6 @@ This week's guests include White House border czar Tom Homan and retired Gen. Fr
 
 Date: 2026-07-10
 
-### Political Candidates Have An Opening on Clean Energy
-
-—Andrew Merry—Getty Images It’s 2026, gas prices are still too high, and oil executives are warning the White House that costs could get worse before they get better. The Trump Administration is taking note. And if the Democrats want to win in November they will need to stop talking like policy wonks and start talking.
-
-Date: 2026-07-10
-
 ## Sources
 
-No public source links.
+- [Trump says he will back off plan to toll ships in Strait of Hormuz](https://www.nbcnews.com/now/video/trump-says-he-will-back-off-plan-to-toll-ships-in-strait-of-hormuz-266653253537?utm_source=lootura.com) — 2026-07-14T16:38:39.000Z
