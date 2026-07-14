@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/democratic-party/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/democratic-party/index.json",
   "description": "Follow Democratic Party, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-14T09:56:10.561Z",
+  "updatedAt": "2026-07-14T13:30:27.465Z",
   "aliases": [
     "Democrats"
   ],
@@ -31,6 +31,11 @@
     {
       "title": "Red State, Blue Governor: It Could Happen in Iowa. Would It Matter?",
       "summary": "Democrats have real hope for candidates for governor in red states like Iowa and Ohio, but if Republicans seize supermajorities in the legislatures, their power would be limited.",
+      "date": "2026-07-14"
+    },
+    {
+      "title": "Can Democrats Win Rural Voters Turning Away From Trump? It’s a Tough Sell.",
+      "summary": "House candidates like Beth Macy, author of “Dopesick,” have crafted messages based on lifetimes in rural regions. But messages need an audience, and many minds are closed to the party.",
       "date": "2026-07-14"
     },
     {
@@ -57,11 +62,6 @@
       "title": "Maine Democrats scramble to select replacement for Platner in Senate race",
       "summary": "Maine Democrats now have a process for choosing a replacement for Senate candidate Graham Platner. But voters are still reeling from his fall.",
       "date": "2026-07-13"
-    },
-    {
-      "title": "Maine Democrats to Chuck Schumer: Stay Out of Our Senate Race",
-      "summary": "Local Democrats are warning the top Senate Democrat to keep away as they replace Graham Platner, and the candidates are giving his leadership in Washington low marks.",
-      "date": "2026-07-13"
     }
   ],
   "sources": [
@@ -78,10 +78,10 @@
       "sourceId": "lootura-us-npr-politics"
     },
     {
-      "title": "Tamara Keith and Amy Walter on Lindsey Graham's passing",
-      "url": "https://www.pbs.org/newshour/show/tamara-keith-and-amy-walter-on-lindsey-grahams-passing?utm_source=lootura.com",
-      "publishedAt": "2026-07-13T22:35:20.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
+      "title": "Can Democrats Win Rural Voters Turning Away From Trump? It’s a Tough Sell.",
+      "url": "https://www.nytimes.com/2026/07/14/us/politics/rural-democrats-midterms.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-14T12:21:09.000Z",
+      "sourceId": "lootura-us-the-new-york-times-politics"
     },
     {
       "title": "Democratic Senate Candidates in Maine Denounce Deadly ICE Shooting",

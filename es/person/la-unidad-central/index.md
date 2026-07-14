@@ -28,5 +28,4 @@ Date: 2026-07-14
 
 ## Fuentes
 
-- [La UCO concluye que el PSOE usó empresas interpuestas para pagar a Leire Díez 43.225 euros](https://www.larazon.es/espana/uco-concluye-que-psoe-uso-empresas-interpuestas-pagar-leire-diez-43225-euros_202607146a56051cc48a78681b88c281.html?utm_source=lootura.com) — 2026-07-14T09:45:18.000Z
-- [La UCO detalla los pagos del PSOE a Leire Díez a través de tres empresas pantalla: 43.235 € en 5 pagos](https://okdiario.com/espana/uco-detalla-pagos-del-psoe-leire-diez-traves-tres-empresas-pantalla-43-235-5-pagos-18990659?utm_source=lootura.com) — 2026-07-14T09:48:11.000Z
+No public source links.

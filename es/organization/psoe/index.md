@@ -3,10 +3,28 @@
 > Sigue la actividad de Partido Socialista Obrero Español en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-14T09:55:53.939Z
+- Actualizado: 2026-07-14T13:30:06.934Z
 - Canonical: https://atlas.lootura.com/es/organization/psoe
 
 ## Cambios recientes
+
+### El juez Pedraz cita a declarar como imputada el 9 de septiembre a la gerente del PSOE por el caso de las cloacas de Ferraz
+
+Ese mismo día también ha sido citado a declarar el abogado Ismael Oliver Leer.
+
+Date: 2026-07-14
+
+### La abogada de Koldo García niega ante el juez del caso Leire Díez haber cobrado del PSOE ni directa ni indirectamente
+
+Indica que la empresaria Carmen Pano declaró que la intentó sobornar por "venganza" porque tuvieron desavenencias en un negocio de hidrocarburos El juez del caso Leire Díez cita como investigada el 9 de septiembre a la gerente del PSOE, Ana Fuentes La abogada Leticia de la Hoz ha declarado este martes como imputada ant.
+
+Date: 2026-07-14
+
+### La abogada de Koldo niega que el PSOE pagase su defensa y la relación con el partido
+
+La abogada de Koldo García , Leticia de la Hoz, ha negado que el PSOE pagara su defensa y que tuviera relación alguna con el partido, tal y como insinuó la empresaria Carmen Pano , que sugirió que el PSOE estaba detrás del presunto intento de soborno que le atribuye a la letrada para que se retractara de su afirmación.
+
+Date: 2026-07-14
 
 ### La UCO confirma que el PSOE pagó 43.225 euros a Leire a través de Zarrías y del exabogado de Koldo
 
@@ -17,12 +35,6 @@ Date: 2026-07-14
 ### Pedraz extiende la agonía del PSOE por el caso Leire: cita a su gerente en septiembre
 
 El magistrado de la Audiencia Nacional pide al empresario Joaquín Parra que aporte «las grabaciones que dice tener sobre las supuestas reuniones celebradas con Jacobo Teijelo», abogado de Santos Cerdán, y con Leire Díez.
-
-Date: 2026-07-14
-
-### El juez Pedraz cita a declarar como imputada el 9 de septiembre a la gerente del PSOE por el caso de las cloacas de Ferraz
-
-Ese mismo día también ha sido citado a declarar el abogado Ismael Oliver Leer.
 
 Date: 2026-07-14
 
@@ -56,22 +68,8 @@ La reciente imputación del expresidente de Correos, Juan Manuel Serrano Quintan
 
 Date: 2026-07-13
 
-### El juez profundiza en la infiltración de Leire Díez en altas instituciones y estrecha el cerco sobre el entorno más cercano a Sánchez
-
-La causa que dirige el juez Santiago Pedraz contra las supuestas cloacas del PSOE estalló públicamente el pasado 27 de mayo y avanza desde entonces a un ritmo considerable. Aquella jornada supuso un hito por las imágenes de la entrada de la UCO en la sede del PSOE, pero también porque trascendió una extensa colección d.
-
-Date: 2026-07-13
-
-### «Estoy convencido de que amañó el voto por correo»
-
-El día en que la UCO detuvo a Leire Díez en un atasco en plena Castellana , el impacto llegó también a Vega de Pas , el municipio cántabro donde empezó la 'fontanera' del PSOE. Fue el 10 de diciembre de 2025. «Recuerdo perfectamente aquel día. Alguien del pueblo me avisó de que había 'mucho coche' en la cabaña que tien.
-
-Date: 2026-07-12
-
 ## Fuentes
 
-- [La UCO confirma que el PSOE pagó 43.225 euros a Leire a través de Zarrías y del exabogado de Koldo](https://www.abc.es/espana/uco-confirma-psoe-pago-43225-euros-leire-20260714113453-nt.html?utm_source=lootura.com) — 2026-07-14T09:34:53.000Z
-- [Pedraz extiende la agonía del PSOE por el caso Leire: cita a su gerente en septiembre](https://www.abc.es/espana/pedraz-extiende-agonia-psoe-leire-cita-gerente-20260714112804-nt.html?utm_source=lootura.com) — 2026-07-14T09:28:04.000Z
 - [El juez Pedraz cita a declarar como imputada el 9 de septiembre a la gerente del PSOE por el caso de las cloacas de Ferraz](https://www.elmundo.es/espana/2026/07/14/6a55f484fc6c832a5b8b4577.html?utm_source=lootura.com) — 2026-07-14T09:25:43.000Z
-- [La UCO concluye que el PSOE usó empresas interpuestas para pagar a Leire Díez 43.225 euros](https://www.larazon.es/espana/uco-concluye-que-psoe-uso-empresas-interpuestas-pagar-leire-diez-43225-euros_202607146a56051cc48a78681b88c281.html?utm_source=lootura.com) — 2026-07-14T09:45:18.000Z
-- [La UCO detalla los pagos del PSOE a Leire Díez a través de tres empresas pantalla: 43.235 € en 5 pagos](https://okdiario.com/espana/uco-detalla-pagos-del-psoe-leire-diez-traves-tres-empresas-pantalla-43-235-5-pagos-18990659?utm_source=lootura.com) — 2026-07-14T09:48:11.000Z
+- [La abogada de Koldo García niega ante el juez del caso Leire Díez haber cobrado del PSOE ni directa ni indirectamente](https://www.eldiario.es/politica/abogada-koldo-garcia-niega-juez-caso-leire-diez-haber-cobrado-psoe-directa-indirectamente_1_13378470.html?utm_source=lootura.com) — 2026-07-14T11:15:23.000Z
+- [La abogada de Koldo niega que el PSOE pagase su defensa y la relación con el partido](https://theobjective.com/espana/tribunales/2026-07-14/abogada-koldo-niega-psoe-pagase-defensa-relacion-partido/?utm_source=lootura.com) — 2026-07-14T12:36:58.000Z

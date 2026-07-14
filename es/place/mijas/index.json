@@ -8,9 +8,14 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/mijas/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/mijas/index.json",
   "description": "Sigue la actividad de Mijas en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-14T09:55:53.939Z",
+  "updatedAt": "2026-07-14T13:30:06.934Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "Detienen a un hombre relacionado con la muerte de Nikoline, la adolescente noruega atropellada en Mijas tras ver jugar a su selección",
+      "summary": "Este martes se está realizando el estudio y la inspección ocular de una furgoneta y también se le tomará declaración al detenido Leer.",
+      "date": "2026-07-14"
+    },
     {
       "title": "Detienen a un hombre relacionado con el atropello mortal de Nikoline, la adolescente noruega atropellada en Mijas tras ver jugar a su selección",
       "summary": "Este martes se está realizando el estudio y la inspección ocular de una furgoneta y también se le tomará declaración al detenido Leer.",
@@ -44,7 +49,7 @@
   ],
   "sources": [
     {
-      "title": "Detienen a un hombre relacionado con el atropello mortal de Nikoline, la adolescente noruega atropellada en Mijas tras ver jugar a su selección",
+      "title": "Detienen a un hombre relacionado con la muerte de Nikoline, la adolescente noruega atropellada en Mijas tras ver jugar a su selección",
       "url": "https://www.elmundo.es/andalucia/2026/07/14/6a55eeea21efa065338b45a4.html?utm_source=lootura.com",
       "publishedAt": "2026-07-14T08:10:20.000Z",
       "sourceId": "lootura-es-el-mundo"

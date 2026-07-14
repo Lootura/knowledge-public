@@ -8,9 +8,19 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/iran/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/iran/index.json",
   "description": "Sigue la actividad de Iran en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-14T09:55:53.939Z",
+  "updatedAt": "2026-07-14T13:30:06.934Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "La inflación en Estados Unidos registró en junio el primer descenso mensual desde 2020",
+      "summary": "La inflación en Estados Unidos se moderó en junio, coincidiendo con el alto el fuego con Irán y la reapertura del estrecho de Ormuz. El índice de precios al consumo (IPC) se moderó hasta el 3,5% en junio, siete décimas menos que el 4,2% registrado en mayo, según el dato difundido este martes por la Oficina de Estadísti.",
+      "date": "2026-07-14"
+    },
+    {
+      "title": "El Tesoro paga un 2,63% por las letras a nueve meses, el tipo más alto desde noviembre de 2024",
+      "summary": "A punto de cumplirse un mes desde la firma del memorándum de entendimiento que abrió un periodo de negociación entre Estados Unidos e Irán, las tensiones siguen sin remitir e incluso se han agravado . Los enfrentamientos entre ambas partes se han intensificado, la actividad en el estrecho de Ormuz vuelve a verse altera.",
+      "date": "2026-07-14"
+    },
     {
       "title": "El petróleo supera los 86 dólares ante la escalada en el Golfo y ya sube un 20% sobre los mínimos de julio",
       "summary": "El precio del petróleo extiende las subidas y suma hoy un 2,5%, hasta superar los 85 dólares el barril de brent , tras ganar más del 9% la víspera a medida que se intensifica el enfrentamiento entre EE UU e Irán. El presidente Donald Trump restableció el bloqueo estadounidense a los buques iraníes que transitan por el.",
@@ -50,25 +60,21 @@
       "title": "El Ibex cierra en rojo ante las nuevas tensiones entre EEUU e Irán",
       "summary": "La escalada en el conflicto entre Irán y EEUU vuelve a elevar el precio del petróleo. Con el Brent al filo de nuevo de los 80 dólares, los inversores dan un paso atrás en Bolsa. El Ibex no es una excepción, y repite las caídas predominantes la semana pasada.",
       "date": "2026-07-13"
-    },
-    {
-      "title": "¿Y si al final EEUU e Irán se ponen de acuerdo y cobran por pasar por Ormuz?",
-      "summary": "Cuando, al inicio de la guerra desatada por Estados Unidos e Israel contra Irán, el régimen de los ayatolas cerró el paso por el estrecho de Ormuz a cualquier barco en un intento de conseguir que países dependientes de las importaciones de crudo de la zona presionaran para parar el conflicto, la medida fue criticada po.",
-      "date": "2026-07-13"
-    },
-    {
-      "title": "El Ibex amortigua el revés del petróleo",
-      "summary": "La escalada en el conflicto entre Irán y EEUU vuelve a elevar el precio del petróleo. Con el Brent al filo de nuevo de los 80 dólares, los inversores dan un paso atrás en Bolsa. El Ibex no es una excepción, y repite las caídas predominantes la semana pasada.",
-      "date": "2026-07-13"
     }
   ],
   "sources": [
     {
-      "title": "El petróleo supera los 86 dólares ante la escalada en el Golfo y ya sube un 20% sobre los mínimos de julio",
-      "url": "https://cincodias.elpais.com/mercados-financieros/2026-07-14/la-bolsa-y-el-ibex-35.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-14T07:55:05.000Z",
+      "title": "La inflación en Estados Unidos registró en junio el primer descenso mensual desde 2020",
+      "url": "https://elpais.com/economia/2026-07-14/la-inflacion-en-estados-unidos-registro-en-junio-el-primer-descenso-mensual-desde-2020.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-14T13:21:48.000Z",
+      "sourceId": "lootura-es-cinco-dias"
+    },
+    {
+      "title": "El Tesoro paga un 2,63% por las letras a nueve meses, el tipo más alto desde noviembre de 2024",
+      "url": "https://cincodias.elpais.com/mercados-financieros/2026-07-14/el-tesoro-paga-un-263-por-las-letras-a-nueve-meses-el-tipo-mas-alto-desde-noviembre-de-2024.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-14T11:24:34.000Z",
       "sourceId": "lootura-es-cinco-dias"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 2
 }

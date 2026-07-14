@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/pais-vasco/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/pais-vasco/index.json",
   "description": "Sigue la actividad de País Vasco en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-14T09:55:53.939Z",
+  "updatedAt": "2026-07-14T13:30:06.934Z",
   "aliases": [
     "Basque Country",
     "Euskadi"
@@ -17,6 +17,11 @@
     {
       "title": "Euskadi suma 7.000 cotizantes extranjeros en dos meses con la regularización",
       "summary": "Su cifra se ha disparado hasta los 114.000 afiliados a la Seguridad Social y representan ocho de cada diez nuevos trabajadores incorporados en el último año.",
+      "date": "2026-07-14"
+    },
+    {
+      "title": "Andaluces contra vascos: estos son los dos próximos pueblos que se enfrentarán en el Grand Prix el 20 de julio",
+      "summary": "El Grand Prix del Verano 2026 ya tiene preparado su próximo duelo, el próximo lunes 20 de julio. La segunda entrega del concurso enfrentará a dos municipios separados por más de 800 kilómetros, con paisajes, dimensiones y tradiciones muy diferentes. Andalucía y el País Vasco medirán sus fuerzas en las pruebas más popul.",
       "date": "2026-07-14"
     },
     {
@@ -52,11 +57,17 @@
   ],
   "sources": [
     {
+      "title": "Andaluces contra vascos: estos son los dos próximos pueblos que se enfrentarán en el Grand Prix el 20 de julio",
+      "url": "https://www.elconfidencial.com/espana/2026-07-14/andaluces-vs-vascos-pueblos-grand-prix-20-julio-1qrt-1tna_4389649/?utm_source=lootura.com",
+      "publishedAt": "2026-07-14T10:38:00.000Z",
+      "sourceId": "lootura-es-el-confidencial"
+    },
+    {
       "title": "Euskadi suma 7.000 cotizantes extranjeros en dos meses con la regularización",
       "url": "https://www.elcorreo.com/economia/euskadi-suma-7000-cotizantes-extranjeros-dos-meses-20260714094801-nt_amp.html?utm_source=lootura.com",
       "publishedAt": "2026-07-14T07:48:01.000Z",
       "sourceId": "lootura-es-el-correo"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 2
 }

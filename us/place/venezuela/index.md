@@ -46,4 +46,4 @@ Date: 2026-07-08
 
 ## Sources
 
-- [‘God is punishing the politicians’: anger at earthquake response grows in Venezuela](https://www.theguardian.com/world/2026/jul/14/anger-earthquake-response-venezuela?utm_source=lootura.com) — 2026-07-14T09:00:26.000Z
+No public source links.

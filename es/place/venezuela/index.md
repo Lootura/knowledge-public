@@ -3,7 +3,7 @@
 > Sigue la actividad de Venezuela en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-14T09:55:53.939Z
+- Actualizado: 2026-07-14T13:30:06.934Z
 - Canonical: https://atlas.lootura.com/es/place/venezuela
 
 ## Cambios recientes
@@ -11,6 +11,12 @@
 ### Uno de cada 10 médicos en España ya son extranjeros: “Venimos a trabajar duro para sostener y mejorar el sistema de salud”
 
 Ofreuddys Daniel Estrada Leal había sido médico en Venezuela antes de llegar a España. Aquí, durante casi dos años, ese oficio quedó suspendido en un limbo administrativo. Mientras esperaba la homologación de su título , trabajó como expendedor de combustible en estaciones de servicio, como asistente administrativo en.
+
+Date: 2026-07-14
+
+### Los latinoamericanos afiliados a la Seguridad Social superan por primera vez a los europeos
+
+Colombia, Venezuela, Perú, Ecuador, Argentina, Honduras... Los afiliados a la Seguridad Social de estas nacionalidades, y del resto que completan la veintena de Estados que forman Latinoamérica , ya superan al conjunto de cotizantes europeos en España. Por primera vez desde que hay registros consolidados (empiezan en 2.
 
 Date: 2026-07-14
 
@@ -64,4 +70,5 @@ Date: 2026-07-11
 
 ## Fuentes
 
+- [Los latinoamericanos afiliados a la Seguridad Social superan por primera vez a los europeos](https://elpais.com/economia/2026-07-14/los-latinoamericanos-afiliados-a-la-seguridad-social-superan-por-primera-vez-a-los-europeos.html?utm_source=lootura.com) — 2026-07-14T13:13:24.000Z
 - [Uno de cada 10 médicos en España ya son extranjeros: “Venimos a trabajar duro para sostener y mejorar el sistema de salud”](https://elpais.com/sociedad/2026-07-14/uno-de-cada-10-medicos-en-espana-ya-son-extranjeros-venimos-a-trabajar-duro-para-sostener-y-mejorar-el-sistema-de-salud.html?utm_source=lootura.com) — 2026-07-14T03:30:01.000Z

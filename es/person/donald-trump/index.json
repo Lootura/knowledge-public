@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/donald-trump/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/donald-trump/index.json",
   "description": "Sigue la actividad de Donald Trump en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-14T09:55:53.939Z",
+  "updatedAt": "2026-07-14T13:30:06.934Z",
   "aliases": [
     "President Donald Trump",
     "President Trump",
@@ -18,6 +18,11 @@
     {
       "title": "El Ibex, atenazado de nuevo por el petróleo",
       "summary": "El petróleo vuelve a ser protagonista. Los planes de Trump de cobrar un peaje del 20% por cruzar Ormuz han elevado de nuevo el precio del crudo. Las presiones inflacionistas aumentan en un día marcado por el IPC de EEUU, pero también por el inicio de los resultados y por la Fed. El Ibex espera novedades lastrado por el.",
+      "date": "2026-07-14"
+    },
+    {
+      "title": "Botín, sobre los ataques de Trump a España: \"La compra de Webster por Santander es un win-win\"",
+      "summary": "La presidenta de Santander, Ana Botín, ha remarcado las ventajas que comportará para todas las partes implicadas la compra de Webster por Santander, en un escenario marcado por los ataques que el presidente de EEUU, Donald Trump, viene lanzando a España a raíz de las tensiones surgidas entre ambos países por la guerra.",
       "date": "2026-07-14"
     },
     {
@@ -59,38 +64,21 @@
       "title": "Trump amenaza con volver a atacar a Irán: «Los golpearemos muy duro esta noche y mañana»",
       "summary": "El presidente de Estados Unidos, Donald Trump , aseguró este lunes que las fuerzas armadas de su país atacarán con fuerza a Irán «esta noche» y «mañana», en medio del restablecimiento de las hostilidades con Teherán. «Vamos a golpearlos muy duro esta noche y vamos a golpearlos muy duro mañana, y no hay absolutamente na.",
       "date": "2026-07-13"
-    },
-    {
-      "title": "El petróleo se dispara tras anunciar Trump un bloqueo a Irán y un peaje de EE UU en Ormuz",
-      "summary": "ha anunciado al final de la tarde de este lunes que la Marina estadounidense volverá a bloquear el traspaso de embarcaciones iraníes por el estrecho de Ormuz y que además cobrará un peaje del 20% de la carga a cada barco que cruce el paso. El presidente estadounidense no ha detallado cómo aplicará este tri.",
-      "date": "2026-07-13"
     }
   ],
   "sources": [
     {
-      "title": "El petróleo supera los 86 dólares ante la escalada en el Golfo y ya sube un 20% sobre los mínimos de julio",
-      "url": "https://cincodias.elpais.com/mercados-financieros/2026-07-14/la-bolsa-y-el-ibex-35.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-14T07:55:05.000Z",
-      "sourceId": "lootura-es-cinco-dias"
-    },
-    {
       "title": "El Ibex, atenazado de nuevo por el petróleo",
       "url": "https://www.expansion.com/mercados/cronica-bolsa/2026/07/14/6a55ceaa468aeb3a6b8b458b.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-14T09:24:22.000Z",
+      "publishedAt": "2026-07-14T12:40:59.000Z",
       "sourceId": "lootura-es-expansion"
     },
     {
-      "title": "Por qué el mundo debería imitar a Trump por una vez",
-      "url": "https://www.expansion.com/economia/financial-times/2026/07/14/6a55e533468aeb0b788b45d1.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-14T07:31:43.000Z",
+      "title": "Botín, sobre los ataques de Trump a España: \"La compra de Webster por Santander es un win-win\"",
+      "url": "https://www.expansion.com/empresas/banca/2026/07/14/6a55feb8468aeb864a8b45a3.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-14T10:28:58.000Z",
       "sourceId": "lootura-es-expansion"
-    },
-    {
-      "title": "Nato Ankara Summit: why only a federal, unified EU can mount its own credible military defence",
-      "url": "https://theconversation.com/nato-ankara-summit-why-only-a-federal-unified-eu-can-mount-its-own-credible-military-defence-287401?utm_source=lootura.com",
-      "publishedAt": "2026-07-14T08:42:36.000Z",
-      "sourceId": "lootura-es-the-conversation-espana"
     }
   ],
-  "evidenceCount": 4
+  "evidenceCount": 2
 }

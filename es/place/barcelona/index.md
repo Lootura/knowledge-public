@@ -3,10 +3,16 @@
 > Sigue la actividad de Barcelona en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-14T06:09:00.827Z
+- Actualizado: 2026-07-14T13:30:06.934Z
 - Canonical: https://atlas.lootura.com/es/place/barcelona
 
 ## Cambios recientes
+
+### Salvador Illa improvisa una reunión con la cónsul de Francia en Barcelona para agitar la polémica sobre las declaraciones de Mariano Rajoy
+
+El encuentro no estaba previsto en la agenda del presidente catalán hasta primera hora de esta mañana Leer.
+
+Date: 2026-07-14
 
 ### Inquietud en Seat por los recortes de Volkswagen: “Sería ingenuo pensar que no nos van a afectar”
 
@@ -62,12 +68,6 @@ ACS ultima los detalles para convertirse en el socio mayoritario de Openchip , l
 
 Date: 2026-07-13
 
-### Vox llevará a la justicia las ZBE de 7 municipios de la provincia de Barcelona
-
-Vox ha anunciado que interpondrá recursos contenciosos-administrativos contra las Zonas de Bajas Emisiones (ZBE) de 7 municipios de la provincia de Barcelona (L'Hospitalet de Llobregat, Cornellà, Manresa, Terrassa, Santa Coloma de Gramenet, Mataró y Sant Cugat del Vallès) y presentará alegaciones contra el Plan Metropo.
-
-Date: 2026-07-13
-
 ## Fuentes
 
-No public source links.
+- [Salvador Illa improvisa una reunión con la cónsul de Francia en Barcelona para agitar la polémica sobre las declaraciones de Mariano Rajoy](https://www.elmundo.es/cataluna/2026/07/14/6a56057121efa0446c8b458e.html?utm_source=lootura.com) — 2026-07-14T09:57:34.000Z

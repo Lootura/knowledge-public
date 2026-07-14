@@ -3,10 +3,16 @@
 > Follow Spain, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-14T09:56:10.561Z
+- Updated: 2026-07-14T13:30:27.465Z
 - Canonical: https://atlas.lootura.com/us/place/espana
 
 ## Recent changes
+
+### Man describes harrowing escape from wildfire that killed wife and friends
+
+A last minute decision meant Malcolm Timbrell survived one of Spain's deadliest wildfires ever, but his wife and friends were trapped by a wall of flames.
+
+Date: 2026-07-14
 
 ### Residents of Spanish Towns Caught in Fierce Blazes Recount Harrowing Escapes
 
@@ -52,4 +58,4 @@ Date: 2026-07-09
 
 ## Sources
 
-- [Breaking down the World Cup semi-final matches](https://www.cbsnews.com/video/breaking-down-the-world-cup-semi-final-matches/?utm_source=lootura.com) — 2026-07-14T01:18:42.000Z
+- [Man describes harrowing escape from wildfire that killed wife and friends](https://www.cbsnews.com/news/spain-wildfire-uk-man-harrowing-escape-killed-wife-friends/?utm_source=lootura.com) — 2026-07-14T13:14:29.000Z

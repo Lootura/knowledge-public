@@ -3,7 +3,7 @@
 > Follow Supreme Court, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-07-14T09:56:10.561Z
+- Updated: 2026-07-14T13:30:27.465Z
 - Canonical: https://atlas.lootura.com/us/organization/supreme-court
 
 ## Recent changes
@@ -65,4 +65,4 @@ Date: 2026-07-09
 ## Sources
 
 - [In Rare Testimony, Supreme Court Justices Will Ask Congress for Security Funds](https://www.nytimes.com/2026/07/14/us/politics/supreme-court-congress-testimony-security.html?utm_source=lootura.com) — 2026-07-14T09:03:34.000Z
-- [Why Supreme Court Justices Are Asking for More Security](https://www.nytimes.com/video/us/politics/100000011017774/why-supreme-court-justices-are-asking-for-more-security.html?utm_source=lootura.com) — 2026-07-14T09:39:08.000Z
+- [Why Supreme Court Justices Are Asking for More Security](https://www.nytimes.com/video/us/politics/100000011017774/why-supreme-court-justices-are-asking-for-more-security.html?utm_source=lootura.com) — 2026-07-14T10:51:09.000Z

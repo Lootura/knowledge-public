@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/topic/artificial-intelligence/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/topic/artificial-intelligence/index.json",
   "description": "Follow Artificial intelligence, a tracked topic, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-14T09:56:10.561Z",
+  "updatedAt": "2026-07-14T13:30:27.465Z",
   "aliases": [
     "AI",
     "machine learning"
@@ -69,13 +69,13 @@
     {
       "title": "AI models: one country’s fears become everyone’s constraint",
       "url": "https://www.nature.com/articles/d41586-026-02187-z?utm_source=lootura.com",
-      "publishedAt": "2026-07-14T09:56:14.997Z",
+      "publishedAt": "2026-07-14T13:30:32.830Z",
       "sourceId": "lootura-us-nature"
     },
     {
       "title": "Does AI work for us, or do we work for AI?",
       "url": "https://www.science.org/doi/abs/10.1126/science.aei9754?af=R&utm_source=lootura.com",
-      "publishedAt": "2026-07-14T09:56:15.136Z",
+      "publishedAt": "2026-07-14T13:30:32.883Z",
       "sourceId": "lootura-us-science"
     }
   ],

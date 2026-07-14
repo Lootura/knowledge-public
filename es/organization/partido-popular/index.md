@@ -3,10 +3,34 @@
 > Sigue la actividad de Partido Popular en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-14T06:09:00.827Z
+- Actualizado: 2026-07-14T13:30:06.934Z
 - Canonical: https://atlas.lootura.com/es/organization/partido-popular
 
 ## Cambios recientes
+
+### El PP exige a Sánchez que dimita por ser el primer presidente de la democracia en tener a un familiar condenado: "Un día histórico"
+
+El Partido Popular ha salido en tromba a reaccionar a la condena de nueve años de inhabilitación por prevaricación al hermano del presidente del Gobierno y a exigir la dimisión, de nuevo, de Pedro Sánchez, en lo que consideran otro "día histórico" por ser el primer jefe del Ejecutivo de la democracia en tener a un fami.
+
+Date: 2026-07-14
+
+### El Congreso respalda el nombramiento de Juan José Ganuza como presidente de la CNMC con el veto de PP y Vox
+
+La Comisión de Economía del Congreso de los Diputados ha respaldado este martes el nombramiento de Juan José Ganuza como nuevo presidente de la Comisión Nacional de los Mercados y la Competencia (CNMC), en sustitución de Cani Fernández, así como de los tres candidatos a consejeros: Carmen Balsa Pascual, Joan Capdevila,.
+
+Date: 2026-07-14
+
+### El PP califica de "histórica" la condena del hermano de Sánchez: "Nadie está por encima de la ley"
+
+Feijóo celebra que el Estado de Derecho funcione en España para todos, "sean de la familia que sean" Leer.
+
+Date: 2026-07-14
+
+### El PP considera que la sentencia al hermano de Sánchez “haría caer a un Gobierno” en cualquier otro país
+
+El PP ha celebrado la jornada de hoy como “un día histórico” por la condena de nueve años de inhabilitación al hermano de Pedro Sánchez por un delito de prevaricación administrativa por las supuestas irregularidades en su contratación, en 2017, en la Diputación de Badajoz. La portavoz parlamentaria de los populares, Es.
+
+Date: 2026-07-14
 
 ### El PP defiende plantear "propuestas polémicas" para ofrecer su alternativa ante un Gobierno que "ha gestionado muy mal"
 
@@ -44,30 +68,9 @@ Más de una vez nos hemos referido a que Alberto Núñez Feijóo estaba mucho m�
 
 Date: 2026-07-13
 
-### Rajoy enoja a Francia mientras el Gobierno acusa al PP de torpedear la política exterior
-
-El Partido Popular ya logró concitar la irritación de los gobiernos de Pedro Sánchez y Emmanuel Macron, por bloquear hace una semana en el Senado el tratado de amistad que ambos mandatarios sellaron en la cumbre hispanofrancesa celebrada en Barcelona el 19 de enero del 2023. Y ahora unas polémicas palabras del expresid.
-
-Date: 2026-07-13
-
-### El Gobierno responde a Feijóo que su plan contra catástrofes ya está incluido en el pacto climático y le pide que lo firme: "Llega tarde"
-
-El líder del Partido Popular, Alberto Núñez Feijóo , se ha comprometido este lunes desde la localidad almeriense de los Gallardos, que ha sufrido el incendio más mortífero de este siglo en España, a elaborar un "gran acuerdo de prevención, respuesta y coordinación" ante catástrofes naturales si se convierte en el próxi.
-
-Date: 2026-07-13
-
-### Fiscalía y Abogacía del Estado rechazan expulsar a la acusación popular, como pide Zapatero
-
-Tanto la Fiscalía como la Abogacía General del Estado rechazan la petición del expresidente del Gobierno José Luis Rodríguez Zapatero de que se expulse de la causa de la Audiencia Nacional en la que está investigado por delitos de corrupción a la acusación popular aglutinada en la representación del Partido Popular.La.
-
-Date: 2026-07-13
-
-### Feijóo promete desde Almería impulsar un "gran acuerdo de prevención, respuesta y coordinación" ante catástrofes naturales
-
-Desde la localidad que ha sufrido el incendio más mortífero de este siglo en España, Los Gallardos, el presidente del Partido Popular, Alberto Núñez Feijóo , se ha comprometido a elaborar un "gran acuerdo de prevención, respuesta y coordinación" ante catástrofes naturales si se convierte en el próximo presidente del Go.
-
-Date: 2026-07-13
-
 ## Fuentes
 
-No public source links.
+- [El PP exige a Sánchez que dimita por ser el primer presidente de la democracia en tener a un familiar condenado: "Un día histórico"](https://www.20minutos.es/nacional/pp-exige-sanchez-que-dimita-por-ser-primer-presidente-democracia-tener-un-familiar-condenado-un-dia-historico_7014438_0.html?utm_source=lootura.com) — 2026-07-14T11:38:15.000Z
+- [El Congreso respalda el nombramiento de Juan José Ganuza como presidente de la CNMC con el veto de PP y Vox](https://cincodias.elpais.com/companias/2026-07-14/el-congreso-respalda-el-nombramiento-de-juan-jose-ganuza-como-presidente-de-la-cnmc-con-el-veto-de-pp-y-vox.html?utm_source=lootura.com) — 2026-07-14T10:47:17.000Z
+- [El PP califica de "histórica" la condena del hermano de Sánchez: "Nadie está por encima de la ley"](https://www.elmundo.es/espana/2026/07/14/6a5621e6e85ece9a268b457b.html?utm_source=lootura.com) — 2026-07-14T11:58:30.000Z
+- [El PP considera que la sentencia al hermano de Sánchez “haría caer a un Gobierno” en cualquier otro país](https://elpais.com/espana/2026-07-14/el-pp-considera-que-la-sentencia-al-hermano-de-sanchez-haria-caer-a-un-gobierno-en-cualquier-otro-pais.html?utm_source=lootura.com) — 2026-07-14T11:25:30.000Z

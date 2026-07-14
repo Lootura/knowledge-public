@@ -3,10 +3,16 @@
 > Follow Europe, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-14T09:56:10.561Z
+- Updated: 2026-07-14T13:30:27.465Z
 - Canonical: https://atlas.lootura.com/us/place/europe
 
 ## Recent changes
+
+### Europe, Flexing Muscle in Ukraine, Is Still on Sidelines in Iran
+
+In a show of collective strength, President Emmanuel Macron of France hosted European allies at the annual Bastille Day parade in Paris. Yet Europe is still a hostage to America’s foreign policy.
+
+Date: 2026-07-14
 
 ### Ukraine and 9 other countries form coalition to protect Europe from ballistic missiles
 
@@ -62,12 +68,6 @@ A new report by the Copernicus Climate Change Service also found that June tempe
 
 Date: 2026-07-09
 
-### NATO spending pressure returned
-
-While President Trump insulted allies and demanded loyalty, the military alliance moved quietly closer to accepting more European responsibility for defense.
-
-Date: 2026-07-09
-
 ## Sources
 
-- [News Wrap: Judge says Trump's lawsuit against IRS filed for 'improper purpose'](https://www.pbs.org/newshour/show/news-wrap-judge-says-trumps-lawsuit-against-irs-filed-for-improper-purpose?utm_source=lootura.com) — 2026-07-13T22:45:40.000Z
+- [Europe, Flexing Muscle in Ukraine, Is Still on Sidelines in Iran](https://www.nytimes.com/2026/07/14/world/europe/macron-trump-bastille-day-military-parade.html?utm_source=lootura.com) — 2026-07-14T11:04:35.000Z

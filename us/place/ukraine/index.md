@@ -3,10 +3,22 @@
 > Follow Ukraine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-14T09:56:10.561Z
+- Updated: 2026-07-14T13:30:27.465Z
 - Canonical: https://atlas.lootura.com/us/place/ukraine
 
 ## Recent changes
+
+### Ukraine Wants to Make Its Own Antimissile System, Not Just Patriots
+
+The Ukrainian firm Fire Point has produced weapons that hit Russian territory. Its next goal, developing an antimissile system, is a much bigger challenge, experts said.
+
+Date: 2026-07-14
+
+### Europe, Flexing Muscle in Ukraine, Is Still on Sidelines in Iran
+
+In a show of collective strength, President Emmanuel Macron of France hosted European allies at the annual Bastille Day parade in Paris. Yet Europe is still a hostage to America’s foreign policy.
+
+Date: 2026-07-14
 
 ### Ukraine fears it will have a weaker link to Trump after Sen. Lindsey Graham's sudden death
 
@@ -56,18 +68,7 @@ The Iran and Ukraine wars underline the common limits of military force in achie
 
 Date: 2026-07-12
 
-### Graham makes final remarks in Ukraine a day before this death
-
-Sen. Lindsey Graham met with Ukrainian President Volodymyr Zelenskyy and made public remarks during a trip to Kyiv just one day before his death. Graham said he was focused on advancing legislation aimed at imposing sanctions on Russian oil.
-
-Date: 2026-07-12
-
-### Zelensky Announces Leadership Shuffle as War Turns in Ukraine’s Favor
-
-President Volodymyr Zelensky said Ukraine’s prime minister, Yuliia Svyrydenko, would step down amid a broader shake-up in Ukraine’s senior leadership.
-
-Date: 2026-07-12
-
 ## Sources
 
-- [News Wrap: Judge says Trump's lawsuit against IRS filed for 'improper purpose'](https://www.pbs.org/newshour/show/news-wrap-judge-says-trumps-lawsuit-against-irs-filed-for-improper-purpose?utm_source=lootura.com) — 2026-07-13T22:45:40.000Z
+- [Ukraine Wants to Make Its Own Antimissile System, Not Just Patriots](https://www.nytimes.com/2026/07/14/world/europe/ukraine-fire-point-patriot-missiles.html?utm_source=lootura.com) — 2026-07-14T11:56:53.000Z
+- [Europe, Flexing Muscle in Ukraine, Is Still on Sidelines in Iran](https://www.nytimes.com/2026/07/14/world/europe/macron-trump-bastille-day-military-parade.html?utm_source=lootura.com) — 2026-07-14T11:04:35.000Z

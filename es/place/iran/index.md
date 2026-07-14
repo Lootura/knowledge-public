@@ -3,10 +3,22 @@
 > Sigue la actividad de Iran en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-14T09:55:53.939Z
+- Actualizado: 2026-07-14T13:30:06.934Z
 - Canonical: https://atlas.lootura.com/es/place/iran
 
 ## Cambios recientes
+
+### La inflación en Estados Unidos registró en junio el primer descenso mensual desde 2020
+
+La inflación en Estados Unidos se moderó en junio, coincidiendo con el alto el fuego con Irán y la reapertura del estrecho de Ormuz. El índice de precios al consumo (IPC) se moderó hasta el 3,5% en junio, siete décimas menos que el 4,2% registrado en mayo, según el dato difundido este martes por la Oficina de Estadísti.
+
+Date: 2026-07-14
+
+### El Tesoro paga un 2,63% por las letras a nueve meses, el tipo más alto desde noviembre de 2024
+
+A punto de cumplirse un mes desde la firma del memorándum de entendimiento que abrió un periodo de negociación entre Estados Unidos e Irán, las tensiones siguen sin remitir e incluso se han agravado . Los enfrentamientos entre ambas partes se han intensificado, la actividad en el estrecho de Ormuz vuelve a verse altera.
+
+Date: 2026-07-14
 
 ### El petróleo supera los 86 dólares ante la escalada en el Golfo y ya sube un 20% sobre los mínimos de julio
 
@@ -56,18 +68,7 @@ La escalada en el conflicto entre Irán y EEUU vuelve a elevar el precio del pet
 
 Date: 2026-07-13
 
-### ¿Y si al final EEUU e Irán se ponen de acuerdo y cobran por pasar por Ormuz?
-
-Cuando, al inicio de la guerra desatada por Estados Unidos e Israel contra Irán, el régimen de los ayatolas cerró el paso por el estrecho de Ormuz a cualquier barco en un intento de conseguir que países dependientes de las importaciones de crudo de la zona presionaran para parar el conflicto, la medida fue criticada po.
-
-Date: 2026-07-13
-
-### El Ibex amortigua el revés del petróleo
-
-La escalada en el conflicto entre Irán y EEUU vuelve a elevar el precio del petróleo. Con el Brent al filo de nuevo de los 80 dólares, los inversores dan un paso atrás en Bolsa. El Ibex no es una excepción, y repite las caídas predominantes la semana pasada.
-
-Date: 2026-07-13
-
 ## Fuentes
 
-- [El petróleo supera los 86 dólares ante la escalada en el Golfo y ya sube un 20% sobre los mínimos de julio](https://cincodias.elpais.com/mercados-financieros/2026-07-14/la-bolsa-y-el-ibex-35.html?utm_source=lootura.com) — 2026-07-14T07:55:05.000Z
+- [La inflación en Estados Unidos registró en junio el primer descenso mensual desde 2020](https://elpais.com/economia/2026-07-14/la-inflacion-en-estados-unidos-registro-en-junio-el-primer-descenso-mensual-desde-2020.html?utm_source=lootura.com) — 2026-07-14T13:21:48.000Z
+- [El Tesoro paga un 2,63% por las letras a nueve meses, el tipo más alto desde noviembre de 2024](https://cincodias.elpais.com/mercados-financieros/2026-07-14/el-tesoro-paga-un-263-por-las-letras-a-nueve-meses-el-tipo-mas-alto-desde-noviembre-de-2024.html?utm_source=lootura.com) — 2026-07-14T11:24:34.000Z

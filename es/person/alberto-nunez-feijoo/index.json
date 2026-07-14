@@ -8,12 +8,22 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/alberto-nunez-feijoo/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/alberto-nunez-feijoo/index.json",
   "description": "Sigue la actividad de Alberto Núñez Feijóo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-14T06:09:00.827Z",
+  "updatedAt": "2026-07-14T13:30:06.934Z",
   "aliases": [
     "Feijóo",
     "Núñez Feijóo"
   ],
   "changes": [
+    {
+      "title": "El PP califica de \"histórica\" la condena del hermano de Sánchez: \"Nadie está por encima de la ley\"",
+      "summary": "Feijóo celebra que el Estado de Derecho funcione en España para todos, \"sean de la familia que sean\" Leer.",
+      "date": "2026-07-14"
+    },
+    {
+      "title": "El Gobierno confía en que \"instancias superiores\" constaten \"la inocencia\" del hermano de Sánchez pese a su condena",
+      "summary": "Sumar y los socios del Ejecutivo consideran \"desproporcionada\" la sentencia de la Audiencia de Badajoz y Feijóo destaca que es \"la tercera condena\" al entorno del presidente del Gobierno, que demuestra que \"nadie está por encima de la ley\" La Justicia condena al hermano de Pedro Sánchez a nueve años de inhabilitación p.",
+      "date": "2026-07-14"
+    },
     {
       "title": "El PP defiende plantear \"propuestas polémicas\" para ofrecer su alternativa ante un Gobierno que \"ha gestionado muy mal\"",
       "summary": "A lo largo de las dos últimas semanas, Alberto Núñez Feijóo ha puesto sobe la mesa debates que el Ejecutivo ha usado como combustible para recuperar la idea de que un Gobierno del PP \"recortará derechos\", tal y como aseguró el propio Pedro Sánchez después de que el presidente del PP apuntara a revisar las razones del i.",
@@ -53,18 +63,21 @@
       "title": "La espiral xenófoba: así se han endurecido el discurso derechista y el clima social contra la inmigración",
       "summary": "Auxiliar a los 630 inmigrantes del Aquarius , el barco a la deriva que España iba a recibir, era una cuestión “humanitaria”, solemnizó el presidente gallego, Alberto Núñez Feijóo, que incluso ofreció su tierra para acoger náufragos. Era junio de 2018. Casi nadie sabía qué es un “mena” . La “prioridad nacional” era una.",
       "date": "2026-07-12"
-    },
-    {
-      "title": "Inquietud en el PP tras los últimos tropiezos de Feijóo: “La sensación es que vamos improvisando”",
-      "summary": "Un estado de ánimo ciclotímico envuelve al PP en el final del curso político. Tras la euforia con la que los populares terminaron el periodo de sesiones, sacando adelante una votación no vinculante sobre la dimisión de Pedro Sánchez con los votos de Vox y de Junts, el clima interno ha cambiado completamente después de.",
-      "date": "2026-07-12"
-    },
-    {
-      "title": "Discovered by Atlas",
-      "summary": "Alberto Núñez Feijóo first entered the public knowledge record with source-backed evidence.",
-      "date": "2026-07-11"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "El PP califica de \"histórica\" la condena del hermano de Sánchez: \"Nadie está por encima de la ley\"",
+      "url": "https://www.elmundo.es/espana/2026/07/14/6a5621e6e85ece9a268b457b.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-14T11:58:30.000Z",
+      "sourceId": "lootura-es-el-mundo"
+    },
+    {
+      "title": "El Gobierno confía en que \"instancias superiores\" constaten \"la inocencia\" del hermano de Sánchez pese a su condena",
+      "url": "https://www.eldiario.es/politica/gobierno-confia-instancias-superiores-constaten-inocencia-hermano-sanchez-pese-condena_1_13379124.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-14T11:34:23.000Z",
+      "sourceId": "lootura-es-eldiario-es"
+    }
+  ],
+  "evidenceCount": 2
 }

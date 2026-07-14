@@ -70,4 +70,4 @@ Date: 2026-07-09
 
 ## Sources
 
-- [Trump to Give Primetime Speech on Thursday: What to Expect](https://time.com/article/2026/07/14/trump-to-give-primetime-speech-on-thursday-what-to-expect/?utm_source=lootura.com) — 2026-07-14T09:31:21.000Z
+No public source links.

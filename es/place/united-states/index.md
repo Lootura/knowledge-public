@@ -3,10 +3,28 @@
 > Sigue la actividad de Estados Unidos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-14T09:55:53.939Z
+- Actualizado: 2026-07-14T13:30:06.934Z
 - Canonical: https://atlas.lootura.com/es/place/united-states
 
 ## Cambios recientes
+
+### La inflación en Estados Unidos registró en junio el primer descenso mensual desde 2020
+
+La inflación en Estados Unidos se moderó en junio, coincidiendo con el alto el fuego con Irán y la reapertura del estrecho de Ormuz. El índice de precios al consumo (IPC) se moderó hasta el 3,5% en junio, siete décimas menos que el 4,2% registrado en mayo, según el dato difundido este martes por la Oficina de Estadísti.
+
+Date: 2026-07-14
+
+### El Tesoro paga un 2,63% por las letras a nueve meses, el tipo más alto desde noviembre de 2024
+
+A punto de cumplirse un mes desde la firma del memorándum de entendimiento que abrió un periodo de negociación entre Estados Unidos e Irán, las tensiones siguen sin remitir e incluso se han agravado . Los enfrentamientos entre ambas partes se han intensificado, la actividad en el estrecho de Ormuz vuelve a verse altera.
+
+Date: 2026-07-14
+
+### Aurora Catà se incorpora a Heidrick & Struggles como socia en España
+
+Con más de treinta años de experiencia en liderazgo ejecutivo, inició su carrera en el sector financiero antes de asumir responsabilidades ejecutivas en compañías como Bank of America, Nissan Motor Ibérica, RTVE Cataluña, Grupo Planeta y Recoletos Grupo de Comunicación.
+
+Date: 2026-07-14
 
 ### Por qué el mundo debería imitar a Trump por una vez
 
@@ -50,25 +68,8 @@ Los hijos del presidente de Estados Unidos, Donald Trump Jr. y Eric Trump, han a
 
 Date: 2026-07-13
 
-### Trump anuncia un peaje del 20% para todos los barcos que crucen el estrecho de Ormuz
-
-Donald Trump anunció este lunes que Estados Unidos pretende cobrar una tasa del 20% sobre toda la carga transportada por los barcos que atraviesen el estrecho de Ormuz, como compensación por el coste de mantener abierta y protegida una de las rutas marítimas más importantes del mundo. El plan pone de relieve la graveda.
-
-Date: 2026-07-13
-
-### Trump: "EEUU será el guardián de Ormuz" y cobrará un 20% a cada buque al que franquee el paso
-
-Donald Trump ha asegurado este lunes que Estados Unidos será el "guardián del estrecho de Ormuz" y garantizará que el paso continúe abierto pese a la nueva escalada...
-
-Date: 2026-07-13
-
-### Dentro de la Casa Blanca: así ejerce Trump un poder desenfrenado para dejar su huella en la historia
-
-Si hay un punto de inflexión en el legado de Donald Trump como presidente de Estados Unidos, hay que buscarlo en el 20 de enero de 2025, el primer día de su regreso al Despacho Oval tras su abrupta salida en 2021, cuando fue derrotado por Joe Biden y convertido en un paria político por agitar a una muchedumbre enfervor.
-
-Date: 2026-07-13
-
 ## Fuentes
 
-- [Lamine Yamal: "Decís que no estoy a mi mejor nivel, entonces no tenéis que esperar nada de mí, pero seguro que va a ser un día especial"](https://www.20minutos.es/deportes/futbol/lamine-yamal-decis-que-no-estoy-mi-mejor-nivel-entonces-no-teneis-que-esperar-nada-mi-pero-seguro-que-va-ser-un-dia-especial_7014232_0.html?utm_source=lootura.com) — 2026-07-14T06:18:16.000Z
-- [Por qué el mundo debería imitar a Trump por una vez](https://www.expansion.com/economia/financial-times/2026/07/14/6a55e533468aeb0b788b45d1.html?utm_source=lootura.com) — 2026-07-14T07:31:43.000Z
+- [La inflación en Estados Unidos registró en junio el primer descenso mensual desde 2020](https://elpais.com/economia/2026-07-14/la-inflacion-en-estados-unidos-registro-en-junio-el-primer-descenso-mensual-desde-2020.html?utm_source=lootura.com) — 2026-07-14T13:21:48.000Z
+- [El Tesoro paga un 2,63% por las letras a nueve meses, el tipo más alto desde noviembre de 2024](https://cincodias.elpais.com/mercados-financieros/2026-07-14/el-tesoro-paga-un-263-por-las-letras-a-nueve-meses-el-tipo-mas-alto-desde-noviembre-de-2024.html?utm_source=lootura.com) — 2026-07-14T11:24:34.000Z
+- [Aurora Catà se incorpora a Heidrick & Struggles como socia en España](https://www.expansion.com/expansion-empleo/desarrollo-de-carrera/2026/07/14/6a561c58e5fdea96238b4598.html?utm_source=lootura.com) — 2026-07-14T11:29:02.000Z

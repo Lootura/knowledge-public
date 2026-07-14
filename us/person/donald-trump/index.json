@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/donald-trump/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/donald-trump/index.json",
   "description": "Follow Donald Trump, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-14T09:56:10.561Z",
+  "updatedAt": "2026-07-14T13:30:27.465Z",
   "aliases": [
     "President Donald Trump",
     "President Trump",
@@ -27,7 +27,22 @@
     },
     {
       "title": "Trump's National Guard deployment in D.C. has been extended until 2029",
-      "summary": "President Trump's deployment of the National Guard to Washington, D.C. has been extended several times. Now, it's set to last until Inauguration Day 2029. (Image credit: Kevin Dietsch).",
+      "summary": "President Trump's deployment of the National Guard to Washington, D.C., has been extended several times. Now it's set to last until Inauguration Day 2029. (Image credit: Kevin Dietsch).",
+      "date": "2026-07-14"
+    },
+    {
+      "title": "How a Promising Navy Drone Boat Program Got Mired in Politics",
+      "summary": "Navy acquisition reforms upended a $2.1 billion contract competition. When it was over, several companies with ties to the Trump administration had made the cut.",
+      "date": "2026-07-14"
+    },
+    {
+      "title": "Trump to Deliver Rare Prime-Time Speech: Here's What to Expect",
+      "summary": "President Donald Trump announced plans to deliver a rare prime-time speech to the nation Thursday night. The president will reportedly address newly declassified intelligence which the administration claims reveals plans by foreign nations to interfere with the 2020 election. NBC’s Gabe Gutierrez reports for TODAY.",
+      "date": "2026-07-14"
+    },
+    {
+      "title": "Can Democrats Win Rural Voters Turning Away From Trump? It’s a Tough Sell.",
+      "summary": "House candidates like Beth Macy, author of “Dopesick,” have crafted messages based on lifetimes in rural regions. But messages need an audience, and many minds are closed to the party.",
       "date": "2026-07-14"
     },
     {
@@ -36,8 +51,8 @@
       "date": "2026-07-14"
     },
     {
-      "title": "How a Promising Navy Drone Boat Program Got Mired in Politics",
-      "summary": "Navy acquisition reforms upended a $2.1 billion contract competition. When it was over, several companies with ties to the Trump administration had made the cut.",
+      "title": "Blanche Was a Driving Force in Retribution Campaign, Emails Show",
+      "summary": "The cooperation of Todd Blanche in President Trump’s retribution against enemies will be a flashpoint in his confirmation hearing to be attorney general on Wednesday.",
       "date": "2026-07-14"
     },
     {
@@ -49,21 +64,6 @@
       "title": "Funding milestone detected",
       "summary": "NPR has learned that the Department of Health and Human Services will not be finalizing its most aggressive attempt to end gender-affirming care for youth nationally. (Image credit: Erik McGregor).",
       "date": "2026-07-13"
-    },
-    {
-      "title": "Trump’s Threat to Impose Fees in the Strait of Hormuz Contradicts His Aides",
-      "summary": "President Trump said the United States could collect tolls or fees, despite Vice President JD Vance and Secretary of State Marco Rubio saying no country could do so.",
-      "date": "2026-07-13"
-    },
-    {
-      "title": "U.S. strikes Iran for third night after Trump reinstates Iran blockade",
-      "summary": "President Trump ordered a third consecutive night of U.S. strikes in Iran after reinstating a naval blockade of Iranian ports and proposing new fees for ships transiting the Strait of Hormuz. NBC News’ Garrett Haake reports.",
-      "date": "2026-07-13"
-    },
-    {
-      "title": "Trump reduces the size of 2 national monuments in Utah as Republicans reshape land management",
-      "summary": "The move to shrink Bears Ears and Grand Staircase-Escalante national monuments unravels protections established by former presidents for areas with unique archaeological and historical features.",
-      "date": "2026-07-13"
     }
   ],
   "sources": [
@@ -74,10 +74,10 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "U.S. strikes Iran for third night after Trump reinstates Iran blockade",
-      "url": "https://www.nbcnews.com/nightly-news/video/u-s-strikes-iran-for-third-night-after-trump-reinstates-iran-blockade-266616901697?utm_source=lootura.com",
-      "publishedAt": "2026-07-13T23:15:42.000Z",
-      "sourceId": "lootura-us-nbc-news"
+      "title": "Trump to Deliver Rare Prime-Time Speech: Here's What to Expect",
+      "url": "https://www.today.com/video/trump-to-deliver-rare-prime-time-speech-here-s-what-to-expect-266634309744?utm_source=lootura.com",
+      "publishedAt": "2026-07-14T11:26:31.000Z",
+      "sourceId": "lootura-us-nbc-news-politics"
     },
     {
       "title": "Morning news brief",
@@ -98,24 +98,6 @@
       "sourceId": "lootura-us-npr-politics"
     },
     {
-      "title": "Trump reduces the size of 2 national monuments in Utah as Republicans reshape land management",
-      "url": "https://www.pbs.org/newshour/nation/trump-reduces-the-size-of-2-national-monuments-in-utah-as-republicans-reshape-land-management?utm_source=lootura.com",
-      "publishedAt": "2026-07-13T22:28:13.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
-    },
-    {
-      "title": "Trump says U.S. 'taking over the strait' as conflict with Iran reignites",
-      "url": "https://www.pbs.org/newshour/show/trump-says-u-s-taking-over-the-strait-as-conflict-with-iran-reignites?utm_source=lootura.com",
-      "publishedAt": "2026-07-13T22:55:49.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
-    },
-    {
-      "title": "Lindsey Graham's career and influence on American politics",
-      "url": "https://www.pbs.org/newshour/show/lindsey-grahams-impact-and-influence-on-american-politics?utm_source=lootura.com",
-      "publishedAt": "2026-07-13T22:50:43.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
-    },
-    {
       "title": "Trump’s Strait of Hormuz Fee Could Double the Cost of Shipping",
       "url": "https://www.nytimes.com/2026/07/13/business/trump-hormuz-shipping-fee.html?utm_source=lootura.com",
       "publishedAt": "2026-07-13T23:00:14.000Z",
@@ -126,7 +108,25 @@
       "url": "https://www.nytimes.com/2026/07/13/us/politics/trump-graham-sister-south-carolina-senate.html?utm_source=lootura.com",
       "publishedAt": "2026-07-13T23:27:44.000Z",
       "sourceId": "lootura-us-the-new-york-times"
+    },
+    {
+      "title": "This California Oil Pipeline Was Dormant for 11 Years. Trump Reopened It.",
+      "url": "https://www.nytimes.com/2026/07/13/us/santa-barbara-california-oil-pipeline.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-13T20:18:49.000Z",
+      "sourceId": "lootura-us-the-new-york-times"
+    },
+    {
+      "title": "Can Democrats Win Rural Voters Turning Away From Trump? It’s a Tough Sell.",
+      "url": "https://www.nytimes.com/2026/07/14/us/politics/rural-democrats-midterms.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-14T12:21:09.000Z",
+      "sourceId": "lootura-us-the-new-york-times-politics"
+    },
+    {
+      "title": "Democratic Senate Candidates in Maine Denounce Deadly ICE Shooting",
+      "url": "https://www.nytimes.com/2026/07/13/us/politics/maine-ice-shooting-senate-graham-platner.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-14T02:01:13.000Z",
+      "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 16
+  "evidenceCount": 12
 }

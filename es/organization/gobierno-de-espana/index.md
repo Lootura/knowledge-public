@@ -3,10 +3,22 @@
 > Sigue la actividad de Gobierno de España en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-13T14:31:13.122Z
+- Actualizado: 2026-07-14T13:30:06.934Z
 - Canonical: https://atlas.lootura.com/es/organization/gobierno-de-espana
 
 ## Cambios recientes
+
+### El Gobierno espera que se absuelva a David Sánchez en «instancias superiores»
+
+El Gobierno de España espera que «instancias superiores» a la Audiencia de Bajadoz, que ha condenado a nueve años de inhabilitación a David Sánchez , hermano del presidente del Gobierno, constaten su «inocencia» cuando se resuelva el recurso a la sentencia. Así lo ha manifestado la ministra portavoz del Gobierno, Elma.
+
+Date: 2026-07-14
+
+### El Supremo archiva la querella del conseller valenciano de Sanidad contra Diana Morant
+
+La sala de lo Penal del Tribunal Supremo (TS) ha inadmitido la querella interpuesta por el conseller de Sanidad , Marciano Gómez, contra la ministra de Ciencia, Innovación y Universidades del Gobierno de España, Diana Morant, por presuntas calumnias, en relación a unas manifestaciones de la ministra , cuando acusó a Gó.
+
+Date: 2026-07-14
 
 ### Jean-Marie Le Pen debe de estar aplaudiendo a Rajoy desde su tumba
 
@@ -56,18 +68,7 @@ Date: 2026-07-10
 
 Date: 2026-07-10
 
-### Pedro Sánchez habla con Juanma Moreno y le ofrece toda la cooperación posible contra el incendio de Los Gallardos: "Lo que necesitéis"
-
-"Máxima coordinación" entre el Gobierno: "Todos los medios materiales y humanos del Gobierno de España están ya desplegados" Leer.
-
-Date: 2026-07-10
-
-### Los Reyes, «profundamente consternados», trasladan el pésame a los familiares de las víctimas del incendio de Almería
-
-El presidente de la Junta detalla que se está trabajando en la identificación de las víctimas, en su mayoría extranjeras, para trasladar los datos al Gobierno de España.
-
-Date: 2026-07-10
-
 ## Fuentes
 
-No public source links.
+- [El Gobierno espera que se absuelva a David Sánchez en «instancias superiores»](https://theobjective.com/espana/politica/2026-07-14/gobierno-absuelva-david-sanchez-instancias-superiores/?utm_source=lootura.com) — 2026-07-14T11:45:21.000Z
+- [El Supremo archiva la querella del conseller valenciano de Sanidad contra Diana Morant](https://theobjective.com/espana/tribunales/2026-07-14/supremo-querella-conseller-valenciano-diana-morant/?utm_source=lootura.com) — 2026-07-14T12:28:56.000Z

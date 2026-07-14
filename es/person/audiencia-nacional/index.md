@@ -28,5 +28,4 @@ Date: 2026-07-14
 
 ## Fuentes
 
-- [Pedraz extiende la agonía del PSOE por el caso Leire: cita a su gerente en septiembre](https://www.abc.es/espana/pedraz-extiende-agonia-psoe-leire-cita-gerente-20260714112804-nt.html?utm_source=lootura.com) — 2026-07-14T09:28:04.000Z
-- [La UCO detalla los pagos del PSOE a Leire Díez a través de tres empresas pantalla: 43.235 € en 5 pagos](https://okdiario.com/espana/uco-detalla-pagos-del-psoe-leire-diez-traves-tres-empresas-pantalla-43-235-5-pagos-18990659?utm_source=lootura.com) — 2026-07-14T09:48:11.000Z
+No public source links.

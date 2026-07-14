@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/espana/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/espana/index.json",
   "description": "Sigue la actividad de España en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-14T09:55:53.939Z",
+  "updatedAt": "2026-07-14T13:30:06.934Z",
   "aliases": [
     "Estado español",
     "Spain"
@@ -30,16 +30,6 @@
       "date": "2026-07-14"
     },
     {
-      "title": "El precio manda en la elección de gasolinera del conductor español",
-      "summary": "El comportamiento de los conductores españoles a la hora de acudir al surtidor está experimentando un cambio estructural condicionado, de forma casi exclusiva, por el bolsillo. Según los últimos datos de la tercera entrega del estudio «Hábitos de consumo de combustible en España», elaborado por la firma IO Investigació.",
-      "date": "2026-07-14"
-    },
-    {
-      "title": "Paz Velasco: «Un psicópata escucha más que habla y se convierte en tu espejo»",
-      "summary": "Se estima que en España hay alrededor de 1 millón de 'psicópatas puros', lo que supone entre el 1% y el 2% de la población general. Además, hay entre 4 y 6 millones de 'psicópatas integrados' , esto es que no tienen antecedentes delictivos pero sí presentan los rasgos de manipulación o falta de empatía propios de esta.",
-      "date": "2026-07-14"
-    },
-    {
       "title": "'Josu Ternera' retrasa su entrega a España al recurrir su propia absolución en Francia",
       "summary": "La defensa del histórico etarra se ampara en que la sentencia, pese a declararle inocente, contiene afirmaciones que le podrían perjudicar en el futuro.",
       "date": "2026-07-14"
@@ -47,11 +37,6 @@
     {
       "title": "El enigma Victoria Abril: España no supo qué hacer con la mejor actriz de su generación",
       "summary": "En la foto oficial de la Berlinale de 1991 , Victoria Abril (Madrid, 67 años) sostiene su Oso de Plata con una mano y eleva la otra como ejecutando un saludo torero, o a punto de atusarse el moño italiano (elija usted). Acaba de imponerse, por su trabajo en Amantes , en la categoría de mejor actriz sobre Vanessa Redgra.",
-      "date": "2026-07-14"
-    },
-    {
-      "title": "Amazon se convierte en el mayor comprador de renovables en España con 68 proyectos y 3.686 MW desde 2021",
-      "summary": "Amazon ha invertido 3.000 millones de euros en tecnologías bajas en carbono en España entre 2021 y 2025, una apuesta que ha contribuido a impulsar hasta 24.000 empleos y a generar hasta 2.000 millones de euros de valor añadido bruto (VAB) para la economía española. Así lo revela un nuevo informe independiente elaborado.",
       "date": "2026-07-14"
     },
     {
@@ -63,26 +48,41 @@
       "title": "Sumar propone exigir climatización por ley para poder alquilar viviendas",
       "summary": "El Grupo Parlamentario Plurinacional Sumar ha propuesto que, para poder tener un contrato de alquiler en España, las viviendas esté climatizadas por ley. Así lo ha avanzado este martes el portavoz de Vivienda de Sumar, Alberto Ibáñez , en rueda de prensa en el Congreso de los Diputados, en la que ha incidido en que las.",
       "date": "2026-07-14"
+    },
+    {
+      "title": "Hacienda confirma que presentará en una semana una nueva senda de déficit si el Congreso la tumba hoy",
+      "summary": "\"Algunos plantearán esta votación como éxito o fracaso del Gobierno\", ha advertido este martes el titular de Hacienda, Arcadi España, durante su intervención desde la tribuna del Congreso de los Diputados, para defender la nueva senda de estabilidad (los objetivos de déficit público y deuda a tres años) con los que el.",
+      "date": "2026-07-14"
+    },
+    {
+      "title": "Madres cuidadoras: «Somos una forma encubierta de esclavitud moderna»",
+      "summary": "No tienen vacaciones, ni ahora en verano, ni nunca. En caso de enfermar, no se pueden coger una baja, y tampoco pueden prejubilarse. Esa es la realidad de miles de familias que sostienen el sistema de cuidados de familiares dependientes en España y el motivo detrás de la concentración que tendrá lugar este martes a las.",
+      "date": "2026-07-14"
+    },
+    {
+      "title": "Los latinoamericanos afiliados a la Seguridad Social superan por primera vez a los europeos",
+      "summary": "Colombia, Venezuela, Perú, Ecuador, Argentina, Honduras... Los afiliados a la Seguridad Social de estas nacionalidades, y del resto que completan la veintena de Estados que forman Latinoamérica , ya superan al conjunto de cotizantes europeos en España. Por primera vez desde que hay registros consolidados (empiezan en 2.",
+      "date": "2026-07-14"
     }
   ],
   "sources": [
     {
-      "title": "Lamine Yamal: \"Decís que no estoy a mi mejor nivel, entonces no tenéis que esperar nada de mí, pero seguro que va a ser un día especial\"",
-      "url": "https://www.20minutos.es/deportes/futbol/lamine-yamal-decis-que-no-estoy-mi-mejor-nivel-entonces-no-teneis-que-esperar-nada-mi-pero-seguro-que-va-ser-un-dia-especial_7014232_0.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-14T06:18:16.000Z",
+      "title": "Hacienda confirma que presentará en una semana una nueva senda de déficit si el Congreso la tumba hoy",
+      "url": "https://www.20minutos.es/lainformacion/economia-y-finanzas/hacienda-confirma-que-presentara-una-semana-una-nueva-senda-deficit-si-tumba-hoy-congreso_7014385_0.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-14T11:37:44.000Z",
       "sourceId": "lootura-es-20minutos"
     },
     {
-      "title": "El precio manda en la elección de gasolinera del conductor español",
-      "url": "https://www.abc.es/motor/economia/precio-manda-eleccion-gasolinera-conductor-espanol-20260714105900-nt.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-14T08:59:00.000Z",
+      "title": "Madres cuidadoras: «Somos una forma encubierta de esclavitud moderna»",
+      "url": "https://www.abc.es/familia/mujeres/madres-cuidadoras-20260714021756-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-14T12:43:48.000Z",
       "sourceId": "lootura-es-abc"
     },
     {
-      "title": "Paz Velasco: «Un psicópata escucha más que habla y se convierte en tu espejo»",
-      "url": "https://www.abc.es/bienestar/psicologia-sexo/psicologia/paz-velasco-criminologa-psicopata-primera-fase-relacion-20260714111504-nt.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-14T09:15:04.000Z",
-      "sourceId": "lootura-es-abc"
+      "title": "Los latinoamericanos afiliados a la Seguridad Social superan por primera vez a los europeos",
+      "url": "https://elpais.com/economia/2026-07-14/los-latinoamericanos-afiliados-a-la-seguridad-social-superan-por-primera-vez-a-los-europeos.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-14T13:13:24.000Z",
+      "sourceId": "lootura-es-cinco-dias"
     },
     {
       "title": "Nueve países europeos acuerdan crear una alianza antibalística con Ucrania",
@@ -97,9 +97,9 @@
       "sourceId": "lootura-es-el-correo"
     },
     {
-      "title": "La Policía eleva a 3 millones los inmigrantes regularizados con sus familias",
-      "url": "https://amp.elmundo.es/espana/2026/07/13/6a5529e321efa0765a8b4581.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-13T20:48:59.000Z",
+      "title": "El PP califica de \"histórica\" la condena del hermano de Sánchez: \"Nadie está por encima de la ley\"",
+      "url": "https://www.elmundo.es/espana/2026/07/14/6a5621e6e85ece9a268b457b.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-14T11:58:30.000Z",
       "sourceId": "lootura-es-el-mundo"
     },
     {
@@ -127,5 +127,5 @@
       "sourceId": "lootura-es-el-pais"
     }
   ],
-  "evidenceCount": 15
+  "evidenceCount": 16
 }

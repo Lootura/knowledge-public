@@ -3,7 +3,7 @@
 > Sigue la actividad de España en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-14T09:55:53.939Z
+- Actualizado: 2026-07-14T13:30:06.934Z
 - Canonical: https://atlas.lootura.com/es/place/espana
 
 ## Cambios recientes
@@ -26,18 +26,6 @@ Este martes se disputa uno de esos partidos que paralizan a todo un país. Inclu
 
 Date: 2026-07-14
 
-### El precio manda en la elección de gasolinera del conductor español
-
-El comportamiento de los conductores españoles a la hora de acudir al surtidor está experimentando un cambio estructural condicionado, de forma casi exclusiva, por el bolsillo. Según los últimos datos de la tercera entrega del estudio «Hábitos de consumo de combustible en España», elaborado por la firma IO Investigació.
-
-Date: 2026-07-14
-
-### Paz Velasco: «Un psicópata escucha más que habla y se convierte en tu espejo»
-
-Se estima que en España hay alrededor de 1 millón de 'psicópatas puros', lo que supone entre el 1% y el 2% de la población general. Además, hay entre 4 y 6 millones de 'psicópatas integrados' , esto es que no tienen antecedentes delictivos pero sí presentan los rasgos de manipulación o falta de empatía propios de esta.
-
-Date: 2026-07-14
-
 ### 'Josu Ternera' retrasa su entrega a España al recurrir su propia absolución en Francia
 
 La defensa del histórico etarra se ampara en que la sentencia, pese a declararle inocente, contiene afirmaciones que le podrían perjudicar en el futuro.
@@ -47,12 +35,6 @@ Date: 2026-07-14
 ### El enigma Victoria Abril: España no supo qué hacer con la mejor actriz de su generación
 
 En la foto oficial de la Berlinale de 1991 , Victoria Abril (Madrid, 67 años) sostiene su Oso de Plata con una mano y eleva la otra como ejecutando un saludo torero, o a punto de atusarse el moño italiano (elija usted). Acaba de imponerse, por su trabajo en Amantes , en la categoría de mejor actriz sobre Vanessa Redgra.
-
-Date: 2026-07-14
-
-### Amazon se convierte en el mayor comprador de renovables en España con 68 proyectos y 3.686 MW desde 2021
-
-Amazon ha invertido 3.000 millones de euros en tecnologías bajas en carbono en España entre 2021 y 2025, una apuesta que ha contribuido a impulsar hasta 24.000 empleos y a generar hasta 2.000 millones de euros de valor añadido bruto (VAB) para la economía española. Así lo revela un nuevo informe independiente elaborado.
 
 Date: 2026-07-14
 
@@ -68,14 +50,32 @@ El Grupo Parlamentario Plurinacional Sumar ha propuesto que, para poder tener un
 
 Date: 2026-07-14
 
+### Hacienda confirma que presentará en una semana una nueva senda de déficit si el Congreso la tumba hoy
+
+"Algunos plantearán esta votación como éxito o fracaso del Gobierno", ha advertido este martes el titular de Hacienda, Arcadi España, durante su intervención desde la tribuna del Congreso de los Diputados, para defender la nueva senda de estabilidad (los objetivos de déficit público y deuda a tres años) con los que el.
+
+Date: 2026-07-14
+
+### Madres cuidadoras: «Somos una forma encubierta de esclavitud moderna»
+
+No tienen vacaciones, ni ahora en verano, ni nunca. En caso de enfermar, no se pueden coger una baja, y tampoco pueden prejubilarse. Esa es la realidad de miles de familias que sostienen el sistema de cuidados de familiares dependientes en España y el motivo detrás de la concentración que tendrá lugar este martes a las.
+
+Date: 2026-07-14
+
+### Los latinoamericanos afiliados a la Seguridad Social superan por primera vez a los europeos
+
+Colombia, Venezuela, Perú, Ecuador, Argentina, Honduras... Los afiliados a la Seguridad Social de estas nacionalidades, y del resto que completan la veintena de Estados que forman Latinoamérica , ya superan al conjunto de cotizantes europeos en España. Por primera vez desde que hay registros consolidados (empiezan en 2.
+
+Date: 2026-07-14
+
 ## Fuentes
 
-- [Lamine Yamal: "Decís que no estoy a mi mejor nivel, entonces no tenéis que esperar nada de mí, pero seguro que va a ser un día especial"](https://www.20minutos.es/deportes/futbol/lamine-yamal-decis-que-no-estoy-mi-mejor-nivel-entonces-no-teneis-que-esperar-nada-mi-pero-seguro-que-va-ser-un-dia-especial_7014232_0.html?utm_source=lootura.com) — 2026-07-14T06:18:16.000Z
-- [El precio manda en la elección de gasolinera del conductor español](https://www.abc.es/motor/economia/precio-manda-eleccion-gasolinera-conductor-espanol-20260714105900-nt.html?utm_source=lootura.com) — 2026-07-14T08:59:00.000Z
-- [Paz Velasco: «Un psicópata escucha más que habla y se convierte en tu espejo»](https://www.abc.es/bienestar/psicologia-sexo/psicologia/paz-velasco-criminologa-psicopata-primera-fase-relacion-20260714111504-nt.html?utm_source=lootura.com) — 2026-07-14T09:15:04.000Z
+- [Hacienda confirma que presentará en una semana una nueva senda de déficit si el Congreso la tumba hoy](https://www.20minutos.es/lainformacion/economia-y-finanzas/hacienda-confirma-que-presentara-una-semana-una-nueva-senda-deficit-si-tumba-hoy-congreso_7014385_0.html?utm_source=lootura.com) — 2026-07-14T11:37:44.000Z
+- [Madres cuidadoras: «Somos una forma encubierta de esclavitud moderna»](https://www.abc.es/familia/mujeres/madres-cuidadoras-20260714021756-nt.html?utm_source=lootura.com) — 2026-07-14T12:43:48.000Z
+- [Los latinoamericanos afiliados a la Seguridad Social superan por primera vez a los europeos](https://elpais.com/economia/2026-07-14/los-latinoamericanos-afiliados-a-la-seguridad-social-superan-por-primera-vez-a-los-europeos.html?utm_source=lootura.com) — 2026-07-14T13:13:24.000Z
 - [Nueve países europeos acuerdan crear una alianza antibalística con Ucrania](https://www.elcorreo.com/internacional/europa/nueve-paises-europeos-acuerdan-crear-alianza-antibalistica-20260713215804-ntrc_amp.html?utm_source=lootura.com) — 2026-07-13T19:58:06.000Z
 - ['Josu Ternera' retrasa su entrega a España al recurrir su propia absolución en Francia](https://www.elcorreo.com/politica/josu-ternera-retrasa-entrega-espana-recurrir-propia-20260714112823-nt_amp.html?utm_source=lootura.com) — 2026-07-14T09:28:24.000Z
-- [La Policía eleva a 3 millones los inmigrantes regularizados con sus familias](https://amp.elmundo.es/espana/2026/07/13/6a5529e321efa0765a8b4581.html?utm_source=lootura.com) — 2026-07-13T20:48:59.000Z
+- [El PP califica de "histórica" la condena del hermano de Sánchez: "Nadie está por encima de la ley"](https://www.elmundo.es/espana/2026/07/14/6a5621e6e85ece9a268b457b.html?utm_source=lootura.com) — 2026-07-14T11:58:30.000Z
 - [El calor extremo que está por venir: ¿puede España alcanzar los 50 grados?](https://elpais.com/clima-y-medio-ambiente/2026-07-14/el-calor-extremo-que-esta-por-venir-puede-espana-alcanzar-los-50-grados.html?utm_source=lootura.com) — 2026-07-14T03:30:01.000Z
 - [Uno de cada 10 médicos en España ya son extranjeros: “Venimos a trabajar duro para sostener y mejorar el sistema de salud”](https://elpais.com/sociedad/2026-07-14/uno-de-cada-10-medicos-en-espana-ya-son-extranjeros-venimos-a-trabajar-duro-para-sostener-y-mejorar-el-sistema-de-salud.html?utm_source=lootura.com) — 2026-07-14T03:30:01.000Z
 - [España o Francia: ¿quién va a ganar según los datos?](https://elpais.com/podcasts/hoy-en-el-pais/2026-07-14/segun-los-datos-quien-va-a-ganar-esta-noche.html?utm_source=lootura.com) — 2026-07-14T03:45:01.000Z

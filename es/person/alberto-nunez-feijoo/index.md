@@ -3,10 +3,22 @@
 > Sigue la actividad de Alberto Núñez Feijóo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-14T06:09:00.827Z
+- Actualizado: 2026-07-14T13:30:06.934Z
 - Canonical: https://atlas.lootura.com/es/person/alberto-nunez-feijoo
 
 ## Cambios recientes
+
+### El PP califica de "histórica" la condena del hermano de Sánchez: "Nadie está por encima de la ley"
+
+Feijóo celebra que el Estado de Derecho funcione en España para todos, "sean de la familia que sean" Leer.
+
+Date: 2026-07-14
+
+### El Gobierno confía en que "instancias superiores" constaten "la inocencia" del hermano de Sánchez pese a su condena
+
+Sumar y los socios del Ejecutivo consideran "desproporcionada" la sentencia de la Audiencia de Badajoz y Feijóo destaca que es "la tercera condena" al entorno del presidente del Gobierno, que demuestra que "nadie está por encima de la ley" La Justicia condena al hermano de Pedro Sánchez a nueve años de inhabilitación p.
+
+Date: 2026-07-14
 
 ### El PP defiende plantear "propuestas polémicas" para ofrecer su alternativa ante un Gobierno que "ha gestionado muy mal"
 
@@ -56,18 +68,7 @@ Auxiliar a los 630 inmigrantes del Aquarius , el barco a la deriva que España i
 
 Date: 2026-07-12
 
-### Inquietud en el PP tras los últimos tropiezos de Feijóo: “La sensación es que vamos improvisando”
-
-Un estado de ánimo ciclotímico envuelve al PP en el final del curso político. Tras la euforia con la que los populares terminaron el periodo de sesiones, sacando adelante una votación no vinculante sobre la dimisión de Pedro Sánchez con los votos de Vox y de Junts, el clima interno ha cambiado completamente después de.
-
-Date: 2026-07-12
-
-### Discovered by Atlas
-
-Alberto Núñez Feijóo first entered the public knowledge record with source-backed evidence.
-
-Date: 2026-07-11
-
 ## Fuentes
 
-No public source links.
+- [El PP califica de "histórica" la condena del hermano de Sánchez: "Nadie está por encima de la ley"](https://www.elmundo.es/espana/2026/07/14/6a5621e6e85ece9a268b457b.html?utm_source=lootura.com) — 2026-07-14T11:58:30.000Z
+- [El Gobierno confía en que "instancias superiores" constaten "la inocencia" del hermano de Sánchez pese a su condena](https://www.eldiario.es/politica/gobierno-confia-instancias-superiores-constaten-inocencia-hermano-sanchez-pese-condena_1_13379124.html?utm_source=lootura.com) — 2026-07-14T11:34:23.000Z

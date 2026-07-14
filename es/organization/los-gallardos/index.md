@@ -3,7 +3,7 @@
 > Sigue la actividad de Los Gallardos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-14T09:55:53.939Z
+- Actualizado: 2026-07-14T13:30:06.934Z
 - Canonical: https://atlas.lootura.com/es/organization/los-gallardos
 
 ## Cambios recientes

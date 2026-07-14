@@ -3,10 +3,22 @@
 > Follow New York, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-14T09:56:10.561Z
+- Updated: 2026-07-14T13:30:27.465Z
 - Canonical: https://atlas.lootura.com/us/place/new-york
 
 ## Recent changes
+
+### New York enacts nation
+
+Building new data centers in New York will be paused for a year in order to allow state officials to establish guidelines protecting residents and the environment, Gov. Kathy Hochul said.
+
+Date: 2026-07-14
+
+### Researchers define new frontier in quantum materials
+
+Researchers at City College of New York physicist Vinod M. Menon's Laboratory for Nano and Micro Photonics (LaNMP) have outlined an emerging frontier in quantum materials: atomically thin systems in which light, magnetism and electric charge are strongly intertwined. This rapidly evolving field could enable next-genera.
+
+Date: 2026-07-14
 
 ### New York becomes the first state to enact a data center moratorium
 
@@ -56,19 +68,7 @@ New York first entered the public knowledge record with source-backed evidence.
 
 Date: 2026-07-10
 
-### Buckling Manhattan High Rise Becomes Focus of Criminal Investigation
-
-The inquiry, being conducted by the New York City Department of Investigation and the Manhattan district attorney’s office, was in an early stage, and its focus was unclear.
-
-Date: 2026-07-10
-
-### Indigenous rebels, migrant bravery and joyful dance: New York’s Latin American Foto Festival – in pictures
-
-This month Bronx Documentary Center is hosting the ninth edition of the Latin American Foto Festival , on view in New York from 11 to 26 July. The show brings together the work of photographers exploring social, environmental, and political issues from across Latin America and the Caribbean. Continue reading...
-
-Date: 2026-07-10
-
 ## Sources
 
-- [Civics Groups Are at Odds With Mamdani Over Push for Open Primaries](https://www.nytimes.com/2026/07/13/nyregion/open-primaries-ny-bloomberg-mamdani.html?utm_source=lootura.com) — 2026-07-13T13:21:23.000Z
-- [New York becomes the first state to enact a data center moratorium](https://www.theverge.com/policy/965110/new-york-ai-data-center-moratorium?utm_source=lootura.com) — 2026-07-14T09:00:00.000Z
+- [New York enacts nation](https://www.cbsnews.com/newyork/news/new-york-data-center-moratorium-kathy-hochul/?utm_source=lootura.com) — 2026-07-14T13:20:31.000Z
+- [Researchers define new frontier in quantum materials](https://phys.org/news/2026-07-frontier-quantum-materials.html?utm_source=lootura.com) — 2026-07-14T13:00:02.000Z

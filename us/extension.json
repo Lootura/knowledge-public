@@ -1,16 +1,16 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-14T10:00:37.855Z",
+  "generatedAt": "2026-07-14T13:35:10.889Z",
   "radar": {
     "id": "usa",
     "slug": "us",
     "locale": "en"
   },
   "state": {
-    "signature": "1.15.1|8|1784022970561",
+    "signature": "1.15.1|9|1784035827465",
     "version": "1.15.1",
-    "build": 8,
-    "latestEntityUpdatedAt": "2026-07-14T09:56:10.561Z"
+    "build": 9,
+    "latestEntityUpdatedAt": "2026-07-14T13:30:27.465Z"
   },
   "atlas": {
     "hero": {
@@ -20,9 +20,9 @@
       "title": "Who could replace Lindsey Graham in the Senate after his sudden death?",
       "url": "https://atlas.lootura.com/us/person/lindsey-graham",
       "path": "/us/person/lindsey-graham",
-      "updatedAt": "2026-07-14T09:56:10.561Z",
-      "score": 1635,
-      "sourceCount": 42,
+      "updatedAt": "2026-07-14T13:30:27.465Z",
+      "score": 1587,
+      "sourceCount": 43,
       "isBreaking": false,
       "isPinned": false
     },
@@ -34,8 +34,8 @@
         "title": "South Carolina's governor appoints Lindsey Graham's sister to serve out his term",
         "url": "https://atlas.lootura.com/us/person/south-carolina",
         "path": "/us/person/south-carolina",
-        "updatedAt": "2026-07-14T09:56:10.561Z",
-        "score": 1603,
+        "updatedAt": "2026-07-14T13:30:27.465Z",
+        "score": 1558,
         "sourceCount": 10,
         "isBreaking": false,
         "isPinned": false
@@ -47,22 +47,9 @@
         "title": "Morning news brief",
         "url": "https://atlas.lootura.com/us/person/donald-trump",
         "path": "/us/person/donald-trump",
-        "updatedAt": "2026-07-14T09:56:10.561Z",
-        "score": 1593,
-        "sourceCount": 130,
-        "isBreaking": false,
-        "isPinned": false
-      },
-      {
-        "id": "usa-darline-graham-nordone",
-        "name": "Darline Graham Nordone",
-        "type": "person",
-        "title": "Lindsey Graham’s Sister Appointed to Finish His Senate Term After Trump’s Backing",
-        "url": "https://atlas.lootura.com/us/person/darline-graham-nordone",
-        "path": "/us/person/darline-graham-nordone",
-        "updatedAt": "2026-07-14T09:56:10.561Z",
-        "score": 1565,
-        "sourceCount": 4,
+        "updatedAt": "2026-07-14T13:30:27.465Z",
+        "score": 1555,
+        "sourceCount": 133,
         "isBreaking": false,
         "isPinned": false
       },
@@ -70,12 +57,25 @@
         "id": "usa-maine",
         "name": "Maine",
         "type": "place",
-        "title": "Democratic Senate Candidates in Maine Denounce Deadly ICE Shooting",
+        "title": "Officials Investigate Fatal ICE Shooting in Maine as Fallout Grows",
         "url": "https://atlas.lootura.com/us/place/maine",
         "path": "/us/place/maine",
-        "updatedAt": "2026-07-14T09:56:10.561Z",
-        "score": 1557,
-        "sourceCount": 50,
+        "updatedAt": "2026-07-14T13:30:27.465Z",
+        "score": 1533,
+        "sourceCount": 51,
+        "isBreaking": false,
+        "isPinned": false
+      },
+      {
+        "id": "usa-iran",
+        "name": "Iran",
+        "type": "place",
+        "title": "Details on newest U.S. strikes against Iran",
+        "url": "https://atlas.lootura.com/us/place/iran",
+        "path": "/us/place/iran",
+        "updatedAt": "2026-07-14T13:30:27.465Z",
+        "score": 1532,
+        "sourceCount": 96,
         "isBreaking": false,
         "isPinned": false
       }

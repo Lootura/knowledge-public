@@ -8,9 +8,14 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/russia/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/russia/index.json",
   "description": "Follow Russia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-14T09:56:10.561Z",
+  "updatedAt": "2026-07-14T13:30:27.465Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "Trump Says U.S. Will ‘Take Over’ Strait of Hormuz, and How Russia Made Japan a Den of Spies",
+      "summary": "Plus, scientists find sugar in outer space.",
+      "date": "2026-07-14"
+    },
     {
       "title": "Ukraine and 9 other countries form coalition to protect Europe from ballistic missiles",
       "summary": "Ukraine and nine other countries have announced a coalition to protect Europe from ballistic missiles, taking advantage of Kyiv's experience of fighting Russia.",
@@ -55,20 +60,15 @@
       "title": "How Putin Turned Japan Into a Den of Spies",
       "summary": "Operating out of a Tokyo high-rise, a military intelligence unit finds the high-tech equipment that Russia needs to wage war.",
       "date": "2026-07-12"
-    },
-    {
-      "title": "Tommy Robinson’s Musk-funded Russia trip spurs call to defend UK democracy",
-      "summary": "Ed Davey voices concern about the Musk family foundation taking the far-right activist on a visit to Moscow The UK must do more to defend its democracy after it emerged that Elon Musk’s family foundation had taken the far-right activist Tommy Robinson to Russia, Ed Davey has said. Robinson, whose real name is Stephen Y.",
-      "date": "2026-07-12"
     }
   ],
   "sources": [
     {
-      "title": "News Wrap: Judge says Trump's lawsuit against IRS filed for 'improper purpose'",
-      "url": "https://www.pbs.org/newshour/show/news-wrap-judge-says-trumps-lawsuit-against-irs-filed-for-improper-purpose?utm_source=lootura.com",
-      "publishedAt": "2026-07-13T22:45:40.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
+      "title": "Trump Says U.S. Will ‘Take Over’ Strait of Hormuz, and How Russia Made Japan a Den of Spies",
+      "url": "https://www.nytimes.com/2026/07/14/podcasts/the-headlines/trump-strait-of-hormuz-russia-japan-ukraine-war-space-sugar.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-14T10:00:14.000Z",
+      "sourceId": "lootura-us-the-new-york-times"
     }
   ],
-  "evidenceCount": 0
+  "evidenceCount": 1
 }

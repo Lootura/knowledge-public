@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/europe/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/europe/index.json",
   "description": "Follow Europe, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-14T09:56:10.561Z",
+  "updatedAt": "2026-07-14T13:30:27.465Z",
   "aliases": [
     "EU",
     "European Union"
   ],
   "changes": [
+    {
+      "title": "Europe, Flexing Muscle in Ukraine, Is Still on Sidelines in Iran",
+      "summary": "In a show of collective strength, President Emmanuel Macron of France hosted European allies at the annual Bastille Day parade in Paris. Yet Europe is still a hostage to America’s foreign policy.",
+      "date": "2026-07-14"
+    },
     {
       "title": "Ukraine and 9 other countries form coalition to protect Europe from ballistic missiles",
       "summary": "Ukraine and nine other countries have announced a coalition to protect Europe from ballistic missiles, taking advantage of Kyiv's experience of fighting Russia.",
@@ -58,20 +63,15 @@
       "title": "June was the hottest on record for Western Europe, second hottest globally",
       "summary": "A new report by the Copernicus Climate Change Service also found that June temperatures in Western Europe were nearly 5.5 degrees above average.",
       "date": "2026-07-09"
-    },
-    {
-      "title": "NATO spending pressure returned",
-      "summary": "While President Trump insulted allies and demanded loyalty, the military alliance moved quietly closer to accepting more European responsibility for defense.",
-      "date": "2026-07-09"
     }
   ],
   "sources": [
     {
-      "title": "News Wrap: Judge says Trump's lawsuit against IRS filed for 'improper purpose'",
-      "url": "https://www.pbs.org/newshour/show/news-wrap-judge-says-trumps-lawsuit-against-irs-filed-for-improper-purpose?utm_source=lootura.com",
-      "publishedAt": "2026-07-13T22:45:40.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
+      "title": "Europe, Flexing Muscle in Ukraine, Is Still on Sidelines in Iran",
+      "url": "https://www.nytimes.com/2026/07/14/world/europe/macron-trump-bastille-day-military-parade.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-14T11:04:35.000Z",
+      "sourceId": "lootura-us-the-new-york-times-world"
     }
   ],
-  "evidenceCount": 0
+  "evidenceCount": 1
 }

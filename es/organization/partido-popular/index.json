@@ -8,11 +8,31 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/partido-popular/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/partido-popular/index.json",
   "description": "Sigue la actividad de Partido Popular en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-14T06:09:00.827Z",
+  "updatedAt": "2026-07-14T13:30:06.934Z",
   "aliases": [
     "PP"
   ],
   "changes": [
+    {
+      "title": "El PP exige a Sánchez que dimita por ser el primer presidente de la democracia en tener a un familiar condenado: \"Un día histórico\"",
+      "summary": "El Partido Popular ha salido en tromba a reaccionar a la condena de nueve años de inhabilitación por prevaricación al hermano del presidente del Gobierno y a exigir la dimisión, de nuevo, de Pedro Sánchez, en lo que consideran otro \"día histórico\" por ser el primer jefe del Ejecutivo de la democracia en tener a un fami.",
+      "date": "2026-07-14"
+    },
+    {
+      "title": "El Congreso respalda el nombramiento de Juan José Ganuza como presidente de la CNMC con el veto de PP y Vox",
+      "summary": "La Comisión de Economía del Congreso de los Diputados ha respaldado este martes el nombramiento de Juan José Ganuza como nuevo presidente de la Comisión Nacional de los Mercados y la Competencia (CNMC), en sustitución de Cani Fernández, así como de los tres candidatos a consejeros: Carmen Balsa Pascual, Joan Capdevila,.",
+      "date": "2026-07-14"
+    },
+    {
+      "title": "El PP califica de \"histórica\" la condena del hermano de Sánchez: \"Nadie está por encima de la ley\"",
+      "summary": "Feijóo celebra que el Estado de Derecho funcione en España para todos, \"sean de la familia que sean\" Leer.",
+      "date": "2026-07-14"
+    },
+    {
+      "title": "El PP considera que la sentencia al hermano de Sánchez “haría caer a un Gobierno” en cualquier otro país",
+      "summary": "El PP ha celebrado la jornada de hoy como “un día histórico” por la condena de nueve años de inhabilitación al hermano de Pedro Sánchez por un delito de prevaricación administrativa por las supuestas irregularidades en su contratación, en 2017, en la Diputación de Badajoz. La portavoz parlamentaria de los populares, Es.",
+      "date": "2026-07-14"
+    },
     {
       "title": "El PP defiende plantear \"propuestas polémicas\" para ofrecer su alternativa ante un Gobierno que \"ha gestionado muy mal\"",
       "summary": "A lo largo de las dos últimas semanas, Alberto Núñez Feijóo ha puesto sobe la mesa debates que el Ejecutivo ha usado como combustible para recuperar la idea de que un Gobierno del PP \"recortará derechos\", tal y como aseguró el propio Pedro Sánchez después de que el presidente del PP apuntara a revisar las razones del i.",
@@ -42,28 +62,33 @@
       "title": "Errores no forzados en el PP",
       "summary": "Más de una vez nos hemos referido a que Alberto Núñez Feijóo estaba mucho más suelto y feliz cuando era presidente de la Xunta de Galicia que ahora que ejerce de jefe de la oposición. No es nada fácil lidiar con Pedro Sánchez y aguantar diariamente la presión de la opinión publicada, que oscila entre los que le critica.",
       "date": "2026-07-13"
-    },
-    {
-      "title": "Rajoy enoja a Francia mientras el Gobierno acusa al PP de torpedear la política exterior",
-      "summary": "El Partido Popular ya logró concitar la irritación de los gobiernos de Pedro Sánchez y Emmanuel Macron, por bloquear hace una semana en el Senado el tratado de amistad que ambos mandatarios sellaron en la cumbre hispanofrancesa celebrada en Barcelona el 19 de enero del 2023. Y ahora unas polémicas palabras del expresid.",
-      "date": "2026-07-13"
-    },
-    {
-      "title": "El Gobierno responde a Feijóo que su plan contra catástrofes ya está incluido en el pacto climático y le pide que lo firme: \"Llega tarde\"",
-      "summary": "El líder del Partido Popular, Alberto Núñez Feijóo , se ha comprometido este lunes desde la localidad almeriense de los Gallardos, que ha sufrido el incendio más mortífero de este siglo en España, a elaborar un \"gran acuerdo de prevención, respuesta y coordinación\" ante catástrofes naturales si se convierte en el próxi.",
-      "date": "2026-07-13"
-    },
-    {
-      "title": "Fiscalía y Abogacía del Estado rechazan expulsar a la acusación popular, como pide Zapatero",
-      "summary": "Tanto la Fiscalía como la Abogacía General del Estado rechazan la petición del expresidente del Gobierno José Luis Rodríguez Zapatero de que se expulse de la causa de la Audiencia Nacional en la que está investigado por delitos de corrupción a la acusación popular aglutinada en la representación del Partido Popular.La.",
-      "date": "2026-07-13"
-    },
-    {
-      "title": "Feijóo promete desde Almería impulsar un \"gran acuerdo de prevención, respuesta y coordinación\" ante catástrofes naturales",
-      "summary": "Desde la localidad que ha sufrido el incendio más mortífero de este siglo en España, Los Gallardos, el presidente del Partido Popular, Alberto Núñez Feijóo , se ha comprometido a elaborar un \"gran acuerdo de prevención, respuesta y coordinación\" ante catástrofes naturales si se convierte en el próximo presidente del Go.",
-      "date": "2026-07-13"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "El PP exige a Sánchez que dimita por ser el primer presidente de la democracia en tener a un familiar condenado: \"Un día histórico\"",
+      "url": "https://www.20minutos.es/nacional/pp-exige-sanchez-que-dimita-por-ser-primer-presidente-democracia-tener-un-familiar-condenado-un-dia-historico_7014438_0.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-14T11:38:15.000Z",
+      "sourceId": "lootura-es-20minutos"
+    },
+    {
+      "title": "El Congreso respalda el nombramiento de Juan José Ganuza como presidente de la CNMC con el veto de PP y Vox",
+      "url": "https://cincodias.elpais.com/companias/2026-07-14/el-congreso-respalda-el-nombramiento-de-juan-jose-ganuza-como-presidente-de-la-cnmc-con-el-veto-de-pp-y-vox.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-14T10:47:17.000Z",
+      "sourceId": "lootura-es-cinco-dias"
+    },
+    {
+      "title": "El PP califica de \"histórica\" la condena del hermano de Sánchez: \"Nadie está por encima de la ley\"",
+      "url": "https://www.elmundo.es/espana/2026/07/14/6a5621e6e85ece9a268b457b.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-14T11:58:30.000Z",
+      "sourceId": "lootura-es-el-mundo"
+    },
+    {
+      "title": "El PP considera que la sentencia al hermano de Sánchez “haría caer a un Gobierno” en cualquier otro país",
+      "url": "https://elpais.com/espana/2026-07-14/el-pp-considera-que-la-sentencia-al-hermano-de-sanchez-haria-caer-a-un-gobierno-en-cualquier-otro-pais.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-14T11:25:30.000Z",
+      "sourceId": "lootura-es-el-pais"
+    }
+  ],
+  "evidenceCount": 4
 }

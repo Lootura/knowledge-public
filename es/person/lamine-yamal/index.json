@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/lamine-yamal/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/lamine-yamal/index.json",
   "description": "Sigue la actividad de Lamine Yamal en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-14T09:55:53.939Z",
+  "updatedAt": "2026-07-14T13:30:06.934Z",
   "aliases": [],
   "changes": [
     {
@@ -54,29 +54,11 @@
   ],
   "sources": [
     {
-      "title": "Lamine Yamal: \"Decís que no estoy a mi mejor nivel, entonces no tenéis que esperar nada de mí, pero seguro que va a ser un día especial\"",
-      "url": "https://www.20minutos.es/deportes/futbol/lamine-yamal-decis-que-no-estoy-mi-mejor-nivel-entonces-no-teneis-que-esperar-nada-mi-pero-seguro-que-va-ser-un-dia-especial_7014232_0.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-14T06:18:16.000Z",
-      "sourceId": "lootura-es-20minutos"
-    },
-    {
       "title": "Lamine Yamal, una cuestión de genios y de magos: “Es diferente al resto. Tiene algo especial”",
       "url": "https://elpais.com/deportes/mundial-futbol/2026-07-14/lamine-yamal-una-cuestion-de-genios-y-de-magos.html?utm_source=lootura.com",
       "publishedAt": "2026-07-14T03:30:01.000Z",
       "sourceId": "lootura-es-el-pais"
-    },
-    {
-      "title": "Lamine Yamal responde a Rajoy: \"Francia y nosotros somos ejemplo de integración\"",
-      "url": "https://www.eldiario.es/rastreador/lamine-yamal-responde-rajoy-francia-ejemplo-integracion_132_13378101.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-14T06:45:09.000Z",
-      "sourceId": "lootura-es-eldiario-es"
-    },
-    {
-      "title": "Albares, a Rajoy: \"Señalar por el color de la piel quién puede ser ciudadano o quién no encubre cosas muy peligrosas\"",
-      "url": "https://www.eldiario.es/politica/albares-rajoy-senalar-color-piel-ciudadano-no-encubre-cosas-peligrosas_1_13378158.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-14T07:03:51.000Z",
-      "sourceId": "lootura-es-eldiario-es"
     }
   ],
-  "evidenceCount": 5
+  "evidenceCount": 1
 }

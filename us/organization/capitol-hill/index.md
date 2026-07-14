@@ -3,7 +3,7 @@
 > Follow Capitol Hill, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-07-14T09:56:10.561Z
+- Updated: 2026-07-14T13:30:27.465Z
 - Canonical: https://atlas.lootura.com/us/organization/capitol-hill
 
 ## Recent changes
@@ -52,5 +52,5 @@ Date: 2026-07-12
 
 ## Sources
 
-- [On foreign policy, Graham's influence may have been felt the most](https://www.npr.org/2026/07/13/nx-s1-5890936/on-foreign-policy-grahams-influence-may-have-been-felt-the-most?utm_source=lootura.com) — 2026-07-13T20:05:24.000Z
-- [Why Supreme Court Justices Are Asking for More Security](https://www.nytimes.com/video/us/politics/100000011017774/why-supreme-court-justices-are-asking-for-more-security.html?utm_source=lootura.com) — 2026-07-14T09:39:08.000Z
+- [Sen. John Thune gets emotional during speech honoring Lindsey Graham](https://www.cbsnews.com/video/sen-john-thune-gets-emotional-during-speech-honoring-lindsey-graham/?utm_source=lootura.com) — 2026-07-14T13:16:53.000Z
+- [Why Supreme Court Justices Are Asking for More Security](https://www.nytimes.com/video/us/politics/100000011017774/why-supreme-court-justices-are-asking-for-more-security.html?utm_source=lootura.com) — 2026-07-14T10:51:09.000Z

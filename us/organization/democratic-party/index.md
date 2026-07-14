@@ -3,7 +3,7 @@
 > Follow Democratic Party, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-07-14T09:56:10.561Z
+- Updated: 2026-07-14T13:30:27.465Z
 - Canonical: https://atlas.lootura.com/us/organization/democratic-party
 
 ## Recent changes
@@ -29,6 +29,12 @@ Date: 2026-07-14
 ### Red State, Blue Governor: It Could Happen in Iowa. Would It Matter?
 
 Democrats have real hope for candidates for governor in red states like Iowa and Ohio, but if Republicans seize supermajorities in the legislatures, their power would be limited.
+
+Date: 2026-07-14
+
+### Can Democrats Win Rural Voters Turning Away From Trump? It’s a Tough Sell.
+
+House candidates like Beth Macy, author of “Dopesick,” have crafted messages based on lifetimes in rural regions. But messages need an audience, and many minds are closed to the party.
 
 Date: 2026-07-14
 
@@ -62,16 +68,10 @@ Maine Democrats now have a process for choosing a replacement for Senate candida
 
 Date: 2026-07-13
 
-### Maine Democrats to Chuck Schumer: Stay Out of Our Senate Race
-
-Local Democrats are warning the top Senate Democrat to keep away as they replace Graham Platner, and the candidates are giving his leadership in Washington low marks.
-
-Date: 2026-07-13
-
 ## Sources
 
 - [Facing funding losses, states call out big businesses with employees on Medicaid](https://www.cbsnews.com/news/medicaid-funding-work-requirement-states-walmart-amazon/?utm_source=lootura.com) — 2026-07-14T09:00:15.000Z
 - [Platner's voters are reeling as Maine Democratic Party races to choose his replacement](https://www.npr.org/2026/07/14/nx-s1-5892502/platner-collins-maine-democratic-party-senate?utm_source=lootura.com) — 2026-07-14T09:00:00.000Z
-- [Tamara Keith and Amy Walter on Lindsey Graham's passing](https://www.pbs.org/newshour/show/tamara-keith-and-amy-walter-on-lindsey-grahams-passing?utm_source=lootura.com) — 2026-07-13T22:35:20.000Z
+- [Can Democrats Win Rural Voters Turning Away From Trump? It’s a Tough Sell.](https://www.nytimes.com/2026/07/14/us/politics/rural-democrats-midterms.html?utm_source=lootura.com) — 2026-07-14T12:21:09.000Z
 - [Democratic Senate Candidates in Maine Denounce Deadly ICE Shooting](https://www.nytimes.com/2026/07/13/us/politics/maine-ice-shooting-senate-graham-platner.html?utm_source=lootura.com) — 2026-07-14T02:01:13.000Z
 - [Red State, Blue Governor: It Could Happen in Iowa. Would It Matter?](https://www.nytimes.com/2026/07/14/us/politics/republican-supermajority-iowa-ohio.html?utm_source=lootura.com) — 2026-07-14T09:02:27.000Z

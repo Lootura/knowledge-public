@@ -3,16 +3,10 @@
 > Sigue la actividad de Pedro Sánchez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-14T09:55:53.939Z
+- Actualizado: 2026-07-14T13:30:06.934Z
 - Canonical: https://atlas.lootura.com/es/person/pedro-sanchez
 
 ## Cambios recientes
-
-### Cuándo se sabrá la sentencia del hermano de Pedro Sánchez por prevaricación y tráfico de influencias
-
-Tras el proceso de investigación pertinente, la Audiencia Provincial de Badajoz contempla hacer pública la sentencia alrededor del ‘caso David Sánchez '. El pasado jueves, el tribunal liderado por el magistrado José Antonio Aparicio llevó a cabo la deliberación acerca de dicho escenario con el objetivo de publicar la r.
-
-Date: 2026-07-14
 
 ### Vox acusa a Sánchez y Moreno de usar el cambio climático como excusa en los incendios
 
@@ -20,56 +14,69 @@ La portavoz de Vox en el Congreso, Pepa Millán , ha acusado a los presidentes d
 
 Date: 2026-07-14
 
-### UGT Andalucía apoya al humorista Manu Sánchez tras recibir amenazas de muerte
+### El PP exige a Sánchez que dimita por ser el primer presidente de la democracia en tener a un familiar condenado: "Un día histórico"
 
-El Consejo de UGT Andalucía, formado por el secretario General de UGT Andalucía y su Ejecutiva, así como los secretarios Generales de las tres federaciones (SP, FICA y FeSMC) y de las ocho uniones provinciales, ha considerado «inadmisible» que en un Estado social y democrático de derecho se pretenda «coartar», mediante.
-
-Date: 2026-07-14
-
-### Pedro Sánchez viajará a Argelia con la ruta de pateras disparada en Baleares y con dos desaparecidos en el mar
-
-Sánchez viajará a Argelia con su ruta de pateras disparada en Baleares y con dos desaparecidos en el mar de las Islas Baleares.
+El Partido Popular ha salido en tromba a reaccionar a la condena de nueve años de inhabilitación por prevaricación al hermano del presidente del Gobierno y a exigir la dimisión, de nuevo, de Pedro Sánchez, en lo que consideran otro "día histórico" por ser el primer jefe del Ejecutivo de la democracia en tener a un fami.
 
 Date: 2026-07-14
 
-### El PP defiende plantear "propuestas polémicas" para ofrecer su alternativa ante un Gobierno que "ha gestionado muy mal"
+### El hermano de Sánchez y Gallardo, condenados a nueve y 18 años de inhabilitación por prevaricación
 
-A lo largo de las dos últimas semanas, Alberto Núñez Feijóo ha puesto sobe la mesa debates que el Ejecutivo ha usado como combustible para recuperar la idea de que un Gobierno del PP "recortará derechos", tal y como aseguró el propio Pedro Sánchez después de que el presidente del PP apuntara a revisar las razones del i.
-
-Date: 2026-07-14
-
-### Moreno resucita su versión 'verde' en Los Gallardos ante Sánchez pese a chocar con su pacto con Vox
-
-Juanma Moreno anunció una "revolución verde" cuando logró su mayoría absoluta en 2022. Puso el foco en el impulso a las energías renovables y creó una consejería de Sostenibilidad que acabó asociando a la portavocía en sus primeros dos años. Una legislatura después, el pacto con Vox para seguir como inquilino en el pal.
+Un mes después de que el juicio quedase visto para sentencia, la Audiencia Provincial de Badajoz ha condenado este lunes a David Sánchez Pérez-Castejón, hermano del presidente del Gobierno, y al expresidente de la Diputación pacense, Miguel Ángel Gallardo, a nueve y 18 años, respectivamente, de inhabilitación por preva.
 
 Date: 2026-07-14
 
-### David Sánchez compone en Moncloa con un piano japonés y sobre una mesa que usaron Suárez y González en sus Consejos de Ministros
+### Un prevaricador en la Moncloa
 
-David Sánchez, hermano del presidente del Gobierno, Pedro Sánchez, espera el fallo de la sentencia de la Audiencia de Badajoz en el interior del Pa...
+El periodismo está para denunciar los abusos del poder y el caso de David Sánchez es una manifestación más de ese tipo de abusos. Y El Debate ha cu...
 
 Date: 2026-07-14
 
-### El juez Peinado reclama a Begoña Gómez que “acredite” que solo usó su pasaporte para viajar a Reino Unido
+### El PP califica de "histórica" la condena del hermano de Sánchez: "Nadie está por encima de la ley"
 
-El magistrado Juan Carlos Peinado, que abrió juicio oral contra Begoña Gómez el 20 de junio y le prohibió salir de España, ha dictado este lunes una resolución para reclamar a la esposa de Pedro Sánchez que “acredite” que solo usó el pasaporte la pasada semana para viajar al Reino Unido. El juzgado le devolvió el docum.
+Feijóo celebra que el Estado de Derecho funcione en España para todos, "sean de la familia que sean" Leer.
 
-Date: 2026-07-13
+Date: 2026-07-14
 
-### Pedro Sánchez apela a la firma de un pacto nacional frente a la emergencia climática delante de Juanma Moreno, investido gracias a Vox
+### El PP considera que la sentencia al hermano de Sánchez “haría caer a un Gobierno” en cualquier otro país
 
-El presidente del Gobierno resalta la unidad de todas las administraciones del Estado en la lucha contra el incendio de Los Gallardos Leer.
+El PP ha celebrado la jornada de hoy como “un día histórico” por la condena de nueve años de inhabilitación al hermano de Pedro Sánchez por un delito de prevaricación administrativa por las supuestas irregularidades en su contratación, en 2017, en la Diputación de Badajoz. La portavoz parlamentaria de los populares, Es.
 
-Date: 2026-07-13
+Date: 2026-07-14
 
-### Ayuso augura que Sánchez acabará por «bajar la cabeza» tras apoyar a «herederos de ETA»
+### Puente denuncia que se pretende “derribar” al Gobierno “ante la incapacidad de hacerlo por las urnas” tras la condena del hermano de Sánchez
 
-La presidenta madrileña, Isabel Díaz Ayuso, ha augurado este lunes, en alusión a Pedro Sánchez, que «aquellos que apoyaron a los herederos de ETA por un.
+El Ejecutivo cierra filas después de que se haya conocido la sentencia que condena a nueve años de inhabilitación a David Sánchez , el hermano del presidente del Gobierno. El ministro de Transportes, Óscar Puente, ha defendido que la condena por un delito de prevaricación responde a “la única finalidad de derribar a un.
 
-Date: 2026-07-13
+Date: 2026-07-14
+
+### Las “dudas” del tribunal sobre la contratación de David Sánchez: sin tráfico de influencias ni presiones acreditadas
+
+La Audiencia Provincial de Badajoz considera probado que el expresidente de la Diputación de Badajoz, Miguel Ángel Gallardo, y otras nueve personas prevaricaron para crear un puesto a la medida del hermano de Pedro Sánchez, David Sánchez, condenado por el mismo delito, pero los jueces admiten que no se ha conseguido pr.
+
+Date: 2026-07-14
+
+### Claves de una sentencia inédita: sin cárcel ni tráfico de influencias, pero con largas penas de inhabilitación
+
+La Audiencia Provincial de Badajoz ha dictado la primera sentencia sobre un familiar directo del presidente del Gobierno. Y es condenatoria: nueve años de inhabilitación para David Sánchez, hermano de Pedro Sánchez, como cooperador necesario de un delito de prevaricación administrativa por obtener el puesto de jefe de.
+
+Date: 2026-07-14
+
+### La Justicia condena al hermano de Pedro Sánchez a nueve años de inhabilitación por prevaricar pero le absuelve de tráfico de influencias
+
+El exlíder socialistas extremeño, Miguel Ángel Gallardo, ha sido condenado a 18 años de inhabilitación por dos delitos de prevaricación. El tribunal descarta las penas de cárcel que solicitaban las acusaciones populares, en un caso donde la Fiscalía pedía la absolución DOCUMENTO - Consulta íntegra la sentencia del caso.
+
+Date: 2026-07-14
 
 ## Fuentes
 
-- [Cuándo se sabrá la sentencia del hermano de Pedro Sánchez por prevaricación y tráfico de influencias](https://www.elconfidencial.com/espana/2026-07-14/cuando-sabra-sentencia-hermano-pedro-sanchez-prevaricacion-trafico-influencias_4389525/?utm_source=lootura.com) — 2026-07-14T07:30:00.000Z
-- [Vox acusa a Sánchez y Moreno de usar el cambio climático como excusa en los incendios](https://theobjective.com/espana/politica/2026-07-14/vox-sanchez-moreno-cambio-climatico-excusa-incendios/?utm_source=lootura.com) — 2026-07-14T09:46:23.000Z
-- [UGT Andalucía apoya al humorista Manu Sánchez tras recibir amenazas de muerte](https://theobjective.com/medios/television/2026-07-14/ugt-andalucia-manu-sanchez-amenazas-muerte/?utm_source=lootura.com) — 2026-07-14T09:11:08.000Z
+- [El PP exige a Sánchez que dimita por ser el primer presidente de la democracia en tener a un familiar condenado: "Un día histórico"](https://www.20minutos.es/nacional/pp-exige-sanchez-que-dimita-por-ser-primer-presidente-democracia-tener-un-familiar-condenado-un-dia-historico_7014438_0.html?utm_source=lootura.com) — 2026-07-14T11:38:15.000Z
+- [El hermano de Sánchez y Gallardo, condenados a nueve y 18 años de inhabilitación por prevaricación](https://www.abc.es/espana/extremadura/hermano-sanchez-gallardo-condenados-prevariacion-20260714122527-nt.html?utm_source=lootura.com) — 2026-07-14T12:51:03.000Z
+- [Un prevaricador en la Moncloa](https://www.eldebate.com/opinion/20260714/prevaricador-moncloa_439468.html?utm_source=lootura.com) — 2026-07-14T11:04:53.000Z
+- [El PP califica de "histórica" la condena del hermano de Sánchez: "Nadie está por encima de la ley"](https://www.elmundo.es/espana/2026/07/14/6a5621e6e85ece9a268b457b.html?utm_source=lootura.com) — 2026-07-14T11:58:30.000Z
+- [El PP considera que la sentencia al hermano de Sánchez “haría caer a un Gobierno” en cualquier otro país](https://elpais.com/espana/2026-07-14/el-pp-considera-que-la-sentencia-al-hermano-de-sanchez-haria-caer-a-un-gobierno-en-cualquier-otro-pais.html?utm_source=lootura.com) — 2026-07-14T11:25:30.000Z
+- [Puente denuncia que se pretende “derribar” al Gobierno “ante la incapacidad de hacerlo por las urnas” tras la condena del hermano de Sánchez](https://elpais.com/espana/2026-07-14/puente-denuncia-que-se-pretende-derribar-al-gobierno-ante-la-incapacidad-de-hacerlo-por-las-urnas-tras-la-condena-del-hermano-de-sanchez.html?utm_source=lootura.com) — 2026-07-14T11:26:47.000Z
+- [Las “dudas” del tribunal sobre la contratación de David Sánchez: sin tráfico de influencias ni presiones acreditadas](https://elpais.com/espana/2026-07-14/las-dudas-del-tribunal-sobre-la-contratacion-de-david-sanchez-sin-trafico-de-influencias-ni-presiones-acreditadas.html?utm_source=lootura.com) — 2026-07-14T13:15:01.000Z
+- [Claves de una sentencia inédita: sin cárcel ni tráfico de influencias, pero con largas penas de inhabilitación](https://elpais.com/espana/2026-07-14/claves-de-una-sentencia-inedita-sin-carcel-ni-trafico-de-influencias-pero-con-largas-penas-de-inhabilitacion-por-prevaricacion.html?utm_source=lootura.com) — 2026-07-14T12:03:55.000Z
+- [La Justicia condena al hermano de Pedro Sánchez a nueve años de inhabilitación por prevaricar pero le absuelve de tráfico de influencias](https://www.eldiario.es/extremadura/politica/audiencia-badajoz-condena-hermano-pedro-sanchez-nueve-anos-inhabilitacion-ejercer-cargo-publico-contrato-diputacion_1_13377235.html?utm_source=lootura.com) — 2026-07-14T10:20:07.000Z
+- [Claves de una condena extraña a David Sánchez: inhabilitado por prevaricación sin pruebas sólidas de tráfico de influencias](https://www.eldiario.es/politica/claves-condena-extrana-david-sanchez-inhabilitado-prevaricacion-pruebas-solidas-trafico-influencias_129_13379318.html?utm_source=lootura.com) — 2026-07-14T11:55:52.000Z

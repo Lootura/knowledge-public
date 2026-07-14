@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/united-states/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/united-states/index.json",
   "description": "Follow United States, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-14T09:56:10.561Z",
+  "updatedAt": "2026-07-14T13:30:27.465Z",
   "aliases": [
     "America",
     "Estados Unidos",
@@ -31,39 +31,39 @@
       "date": "2026-07-14"
     },
     {
-      "title": "NATO spending pressure returned",
-      "summary": "U.S. President Donald Trump holds a press conference at Beştepe Presidential Compound during the NATO Summit in Ankara, Türkiye, on July 8, 2026. —Chris McGrath—Getty Images President Donald Trump announced Monday that he will deliver a “Speech to the Nation” on Thursday evening, though details of exactly what he’ll di.",
+      "title": "More extreme heat across parts of U.S.",
+      "summary": "CBS News meteorologist Rob Marciano tracks high temperatures across parts of the U.S.",
       "date": "2026-07-14"
     },
     {
-      "title": "Deputy U.S. marshal shot dead while serving arrest warrant on fugitive in Louisiana, agency says",
-      "summary": "A deputy U.S. marshal was shot and killed while serving an arrest warrant on a fugitive in Louisiana, authorities say. The suspect is in custody.",
+      "title": "Cyclosporiasis Outbreaks Hits More Than Half of the US",
+      "summary": "Cases of a severe stomach bug called Cyclosporiasis are surging across the United States, sickening thousands of Americans and even sending some to the hospital. NBC’s medical contributor Dr. John Torress joins TODAY to break down the symptoms and how you can stay safe.",
       "date": "2026-07-14"
     },
     {
-      "title": "Oil Prices Surge After Iran and U.S. Trade Strikes",
-      "summary": "The renewed hostilities posed fresh risks to ships seeking to navigate the Strait of Hormuz.",
-      "date": "2026-07-13"
+      "title": "U.S. to reinstate Hormuz blockade. And, states sue over Paramount-Warner deal",
+      "summary": "The United States plans to reinstate a blockade over the Strait of Hormuz today. And, several states are suing to stop the massive Paramount-Warner Bros. merger. (Image credit: -).",
+      "date": "2026-07-14"
     },
     {
-      "title": "Strait of Hormuz Ship Traffic Falls to Lowest Point in a Month After Strikes",
-      "summary": "Shipping activity plummeted after Iran attacked a ship, setting off U.S. strikes. Little crude oil is being transported through the critical waterway.",
-      "date": "2026-07-13"
+      "title": "Big Banks Smash Earnings Records, but ‘Tectonic’ Risks Loom",
+      "summary": "The largest banks in the United States collectively raked in tens of billions of profits in the second quarter, despite the war in Iran and persistent inflation.",
+      "date": "2026-07-14"
     },
     {
-      "title": "On foreign policy, Graham's influence may have been felt the most",
-      "summary": "Over the course of his three decades in Congress, Lindsey Graham was a major influence on Capitol Hill and throughout the world as one of the most vocal advocates for U.S. military might.",
-      "date": "2026-07-13"
+      "title": "Trump Says U.S. Will ‘Take Over’ Strait of Hormuz, and How Russia Made Japan a Den of Spies",
+      "summary": "Plus, scientists find sugar in outer space.",
+      "date": "2026-07-14"
     },
     {
-      "title": "Trump’s Threat to Impose Fees in the Strait of Hormuz Contradicts His Aides",
-      "summary": "President Trump said the United States could collect tolls or fees, despite Vice President JD Vance and Secretary of State Marco Rubio saying no country could do so.",
-      "date": "2026-07-13"
+      "title": "U.S. Workers Are More Productive Than Ever. A.I. Isn’t the Key.",
+      "summary": "Companies have been getting more out of employees for several years. Tight labor markets, digitization and remote work are among the reasons.",
+      "date": "2026-07-14"
     },
     {
-      "title": "Trump Administration Announces New Attack on the International Criminal Court",
-      "summary": "Secretary of State Marco Rubio said that the United States will “dismantle” the international court that tries grave crimes “brick by brick, if necessary.”.",
-      "date": "2026-07-13"
+      "title": "Europe, Flexing Muscle in Ukraine, Is Still on Sidelines in Iran",
+      "summary": "In a show of collective strength, President Emmanuel Macron of France hosted European allies at the annual Bastille Day parade in Paris. Yet Europe is still a hostage to America’s foreign policy.",
+      "date": "2026-07-14"
     }
   ],
   "sources": [
@@ -86,9 +86,15 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "U.S. strikes Iran for third night after Trump reinstates Iran blockade",
-      "url": "https://www.nbcnews.com/nightly-news/video/u-s-strikes-iran-for-third-night-after-trump-reinstates-iran-blockade-266616901697?utm_source=lootura.com",
-      "publishedAt": "2026-07-13T23:15:42.000Z",
+      "title": "More extreme heat across parts of U.S.",
+      "url": "https://www.cbsnews.com/video/more-extreme-heat-across-parts-of-us/?utm_source=lootura.com",
+      "publishedAt": "2026-07-14T12:51:33.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
+    {
+      "title": "Cyclosporiasis Outbreaks Hits More Than Half of the US",
+      "url": "https://www.today.com/video/parasitic-outbreaks-spreads-across-us-how-to-stay-safe-266638405733?utm_source=lootura.com",
+      "publishedAt": "2026-07-14T12:17:31.000Z",
       "sourceId": "lootura-us-nbc-news"
     },
     {
@@ -98,34 +104,28 @@
       "sourceId": "lootura-us-npr"
     },
     {
-      "title": "On foreign policy, Graham's influence may have been felt the most",
-      "url": "https://www.npr.org/2026/07/13/nx-s1-5890936/on-foreign-policy-grahams-influence-may-have-been-felt-the-most?utm_source=lootura.com",
-      "publishedAt": "2026-07-13T20:05:24.000Z",
-      "sourceId": "lootura-us-npr-politics"
+      "title": "U.S. to reinstate Hormuz blockade. And, states sue over Paramount-Warner deal",
+      "url": "https://www.npr.org/2026/07/14/g-s1-133443/up-first-newsletter-iran-strait-hormuz-maine-ice-shooting-paramount-warner-bros-merger?utm_source=lootura.com",
+      "publishedAt": "2026-07-14T12:18:58.000Z",
+      "sourceId": "lootura-us-npr-world"
     },
     {
-      "title": "Trump says U.S. 'taking over the strait' as conflict with Iran reignites",
-      "url": "https://www.pbs.org/newshour/show/trump-says-u-s-taking-over-the-strait-as-conflict-with-iran-reignites?utm_source=lootura.com",
-      "publishedAt": "2026-07-13T22:55:49.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
-    },
-    {
-      "title": "Strait of Hormuz Ship Traffic Falls to Lowest Point in a Month After Strikes",
-      "url": "https://www.nytimes.com/2026/07/13/business/strait-hormuz-shipping-traffic-iran-war.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-13T14:18:11.000Z",
+      "title": "Big Banks Smash Earnings Records, but ‘Tectonic’ Risks Loom",
+      "url": "https://www.nytimes.com/2026/07/14/business/jpmorgan-goldman-bofa-wells-fargo-bank-earnings.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-14T12:13:14.000Z",
       "sourceId": "lootura-us-the-new-york-times"
     },
     {
-      "title": "Oil Prices Surge After Iran and U.S. Trade Strikes",
-      "url": "https://www.nytimes.com/2026/07/12/business/oil-shipping-iran-hormuz.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-13T10:33:50.000Z",
+      "title": "Trump Says U.S. Will ‘Take Over’ Strait of Hormuz, and How Russia Made Japan a Den of Spies",
+      "url": "https://www.nytimes.com/2026/07/14/podcasts/the-headlines/trump-strait-of-hormuz-russia-japan-ukraine-war-space-sugar.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-14T10:00:14.000Z",
       "sourceId": "lootura-us-the-new-york-times"
     },
     {
-      "title": "Trump’s Threat to Impose Fees in the Strait of Hormuz Contradicts His Aides",
-      "url": "https://www.nytimes.com/2026/07/13/us/politics/trump-iran-hormuz-fees-vance-rubio.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-13T20:00:41.000Z",
-      "sourceId": "lootura-us-the-new-york-times-politics"
+      "title": "U.S. Workers Are More Productive Than Ever. A.I. Isn’t the Key.",
+      "url": "https://www.nytimes.com/2026/07/14/business/worker-productivity-artificial-intelligence-economy.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-14T12:25:43.000Z",
+      "sourceId": "lootura-us-the-new-york-times"
     }
   ],
   "evidenceCount": 12

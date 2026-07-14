@@ -3,7 +3,7 @@
 > Follow Artificial intelligence, a tracked topic, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: topic
-- Updated: 2026-07-14T09:56:10.561Z
+- Updated: 2026-07-14T13:30:27.465Z
 - Canonical: https://atlas.lootura.com/us/topic/artificial-intelligence
 
 ## Recent changes
@@ -70,5 +70,5 @@ Date: 2026-07-13
 
 ## Sources
 
-- [AI models: one country’s fears become everyone’s constraint](https://www.nature.com/articles/d41586-026-02187-z?utm_source=lootura.com) — 2026-07-14T09:56:14.997Z
-- [Does AI work for us, or do we work for AI?](https://www.science.org/doi/abs/10.1126/science.aei9754?af=R&utm_source=lootura.com) — 2026-07-14T09:56:15.136Z
+- [AI models: one country’s fears become everyone’s constraint](https://www.nature.com/articles/d41586-026-02187-z?utm_source=lootura.com) — 2026-07-14T13:30:32.830Z
+- [Does AI work for us, or do we work for AI?](https://www.science.org/doi/abs/10.1126/science.aei9754?af=R&utm_source=lootura.com) — 2026-07-14T13:30:32.883Z

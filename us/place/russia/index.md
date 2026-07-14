@@ -3,10 +3,16 @@
 > Follow Russia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-14T09:56:10.561Z
+- Updated: 2026-07-14T13:30:27.465Z
 - Canonical: https://atlas.lootura.com/us/place/russia
 
 ## Recent changes
+
+### Trump Says U.S. Will ‘Take Over’ Strait of Hormuz, and How Russia Made Japan a Den of Spies
+
+Plus, scientists find sugar in outer space.
+
+Date: 2026-07-14
 
 ### Ukraine and 9 other countries form coalition to protect Europe from ballistic missiles
 
@@ -62,12 +68,6 @@ Operating out of a Tokyo high-rise, a military intelligence unit finds the high-
 
 Date: 2026-07-12
 
-### Tommy Robinson’s Musk-funded Russia trip spurs call to defend UK democracy
-
-Ed Davey voices concern about the Musk family foundation taking the far-right activist on a visit to Moscow The UK must do more to defend its democracy after it emerged that Elon Musk’s family foundation had taken the far-right activist Tommy Robinson to Russia, Ed Davey has said. Robinson, whose real name is Stephen Y.
-
-Date: 2026-07-12
-
 ## Sources
 
-- [News Wrap: Judge says Trump's lawsuit against IRS filed for 'improper purpose'](https://www.pbs.org/newshour/show/news-wrap-judge-says-trumps-lawsuit-against-irs-filed-for-improper-purpose?utm_source=lootura.com) — 2026-07-13T22:45:40.000Z
+- [Trump Says U.S. Will ‘Take Over’ Strait of Hormuz, and How Russia Made Japan a Den of Spies](https://www.nytimes.com/2026/07/14/podcasts/the-headlines/trump-strait-of-hormuz-russia-japan-ukraine-war-space-sugar.html?utm_source=lootura.com) — 2026-07-14T10:00:14.000Z

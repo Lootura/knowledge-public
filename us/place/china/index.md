@@ -3,10 +3,16 @@
 > Follow China, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-14T09:56:10.561Z
+- Updated: 2026-07-14T13:30:27.465Z
 - Canonical: https://atlas.lootura.com/us/place/china
 
 ## Recent changes
+
+### China Purges Top Official Over Corruption and Sex Charges
+
+Ma Xingrui is the third member of the Politburo to be purged since 2022. He once led the Xinjiang region and was previously head of China’s space program.
+
+Date: 2026-07-14
 
 ### Will Oil Prices Rise as the US-Iran Truce Frays? The Answer Lies With China.
 
@@ -62,12 +68,7 @@ Typhoon Bavi made landfall in China after killing 17 in the Philippines, skirtin
 
 Date: 2026-07-12
 
-### We Returned From China. We Realized Our Century’s Biggest Challenge.
-
-A.I. demands a populist approach that treats the technology as a public project.
-
-Date: 2026-07-11
-
 ## Sources
 
 - [Will Oil Prices Rise as the US-Iran Truce Frays? The Answer Lies With China.](https://www.nytimes.com/2026/07/13/business/energy-environment/oil-prices-iran-china.html?utm_source=lootura.com) — 2026-07-13T18:00:46.000Z
+- [China Purges Top Official Over Corruption and Sex Charges](https://www.nytimes.com/2026/07/14/world/asia/china-expels-politburo-official-sex-corruption.html?utm_source=lootura.com) — 2026-07-14T10:23:29.000Z

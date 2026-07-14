@@ -8,11 +8,21 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/new-york/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/new-york/index.json",
   "description": "Follow New York, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-14T09:56:10.561Z",
+  "updatedAt": "2026-07-14T13:30:27.465Z",
   "aliases": [
     "New York City"
   ],
   "changes": [
+    {
+      "title": "New York enacts nation",
+      "summary": "Building new data centers in New York will be paused for a year in order to allow state officials to establish guidelines protecting residents and the environment, Gov. Kathy Hochul said.",
+      "date": "2026-07-14"
+    },
+    {
+      "title": "Researchers define new frontier in quantum materials",
+      "summary": "Researchers at City College of New York physicist Vinod M. Menon's Laboratory for Nano and Micro Photonics (LaNMP) have outlined an emerging frontier in quantum materials: atomically thin systems in which light, magnetism and electric charge are strongly intertwined. This rapidly evolving field could enable next-genera.",
+      "date": "2026-07-14"
+    },
     {
       "title": "New York becomes the first state to enact a data center moratorium",
       "summary": "New hyperscale data centers can't set up shop in New York for up to a year now that Governor Kathy Hochul (D) has signed the nation's first statewide moratorium. But a bill passed by the state legislature that could restrict even more developments still awaits her signature. The order blocks new environmental permits f.",
@@ -52,30 +62,20 @@
       "title": "Discovered by Atlas",
       "summary": "New York first entered the public knowledge record with source-backed evidence.",
       "date": "2026-07-10"
-    },
-    {
-      "title": "Buckling Manhattan High Rise Becomes Focus of Criminal Investigation",
-      "summary": "The inquiry, being conducted by the New York City Department of Investigation and the Manhattan district attorney’s office, was in an early stage, and its focus was unclear.",
-      "date": "2026-07-10"
-    },
-    {
-      "title": "Indigenous rebels, migrant bravery and joyful dance: New York’s Latin American Foto Festival – in pictures",
-      "summary": "This month Bronx Documentary Center is hosting the ninth edition of the Latin American Foto Festival , on view in New York from 11 to 26 July. The show brings together the work of photographers exploring social, environmental, and political issues from across Latin America and the Caribbean. Continue reading...",
-      "date": "2026-07-10"
     }
   ],
   "sources": [
     {
-      "title": "Civics Groups Are at Odds With Mamdani Over Push for Open Primaries",
-      "url": "https://www.nytimes.com/2026/07/13/nyregion/open-primaries-ny-bloomberg-mamdani.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-13T13:21:23.000Z",
-      "sourceId": "lootura-us-the-new-york-times"
+      "title": "New York enacts nation",
+      "url": "https://www.cbsnews.com/newyork/news/new-york-data-center-moratorium-kathy-hochul/?utm_source=lootura.com",
+      "publishedAt": "2026-07-14T13:20:31.000Z",
+      "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "New York becomes the first state to enact a data center moratorium",
-      "url": "https://www.theverge.com/policy/965110/new-york-ai-data-center-moratorium?utm_source=lootura.com",
-      "publishedAt": "2026-07-14T09:00:00.000Z",
-      "sourceId": "lootura-us-the-verge"
+      "title": "Researchers define new frontier in quantum materials",
+      "url": "https://phys.org/news/2026-07-frontier-quantum-materials.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-14T13:00:02.000Z",
+      "sourceId": "lootura-us-phys-org"
     }
   ],
   "evidenceCount": 2

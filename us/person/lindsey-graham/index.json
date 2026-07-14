@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/lindsey-graham/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/lindsey-graham/index.json",
   "description": "Follow Lindsey Graham, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-14T09:56:10.561Z",
+  "updatedAt": "2026-07-14T13:30:27.465Z",
   "aliases": [],
   "changes": [
     {
@@ -25,6 +25,16 @@
       "title": "South Carolina's governor appoints Lindsey Graham's sister to serve out his term",
       "summary": "South Carolina Gov. Henry McMaster says he is appointing Darline Graham to finish the term of her late brother, former Republican Sen. Lindsey Graham, who died in office Saturday at age 71.",
       "date": "2026-07-14"
+    },
+    {
+      "title": "Lindsey Graham's Sister to Serve the Rest of His Senate Term",
+      "summary": "New details are emerging about the final moments of the late Sen. Lindsey Graham and what may have been his final phone call. It comes as his sister, Darline Graham Nordone, prepares to take the oath of office to serve the rest of her brother’s term, which ends in January. NBC’s Ryan Nobles reports for TODAY.",
+      "date": "2026-07-14"
+    },
+    {
+      "title": "Lindsey Graham’s Sister Appointed to Finish His Senate Term After Trump’s Backing",
+      "summary": "Gov. Henry McMaster of South Carolina named Darline Graham Nordone to replace Mr. Graham, who died on Saturday.",
+      "date": "2026-07-13"
     },
     {
       "title": "How Lindsey Graham tried to stay 'relevant'",
@@ -50,16 +60,6 @@
       "title": "Who is Darline Graham Nordone, the late Sen. Lindsey Graham's sister?",
       "summary": "Nordone, who was appointed to serve the remaining months of the Senate term that her brother left behind when he died over the weekend, hasn't been in office before.",
       "date": "2026-07-13"
-    },
-    {
-      "title": "Lindsey Graham's career and influence on American politics",
-      "summary": "South Carolina Sen. Lindsey Graham died Saturday of an aortic dissection and cardiovascular disease. The Republican served more than 30 years in Congress, becoming one of the nation's most prominent voices on foreign policy and later one of President Trump's top allies. Congressional correspondent Lisa Desjardins has m.",
-      "date": "2026-07-13"
-    },
-    {
-      "title": "Lindsey Graham’s Sister Appointed to Finish His Senate Term After Trump’s Backing",
-      "summary": "Gov. Henry McMaster of South Carolina named Darline Graham Nordone to replace Mr. Graham, who died on Saturday.",
-      "date": "2026-07-13"
     }
   ],
   "sources": [
@@ -76,16 +76,10 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "S.C. Gov McMaster appoints Darline Graham Nordone to fill Sen. Lindsey Graham's seat",
-      "url": "https://www.nbcnews.com/video/s-c-gov-mcmaster-appoints-darline-graham-nordone-to-fill-sen-lindsey-graham-s-seat-266608709594?utm_source=lootura.com",
-      "publishedAt": "2026-07-13T20:34:54.000Z",
-      "sourceId": "lootura-us-nbc-news"
-    },
-    {
-      "title": "How Lindsey Graham tried to stay 'relevant'",
-      "url": "https://www.npr.org/2026/07/13/nx-s1-5891751/how-lindsey-graham-tried-to-stay-relevant?utm_source=lootura.com",
-      "publishedAt": "2026-07-13T19:57:12.000Z",
-      "sourceId": "lootura-us-npr-politics"
+      "title": "Lindsey Graham's Sister to Serve the Rest of His Senate Term",
+      "url": "https://www.today.com/video/new-details-emerge-about-lindsey-graham-s-final-moments-266634309734?utm_source=lootura.com",
+      "publishedAt": "2026-07-14T11:18:37.000Z",
+      "sourceId": "lootura-us-nbc-news-politics"
     },
     {
       "title": "South Carolina's governor appoints Lindsey Graham's sister to serve out his term",
@@ -94,35 +88,11 @@
       "sourceId": "lootura-us-npr-politics"
     },
     {
-      "title": "On foreign policy, Graham's influence may have been felt the most",
-      "url": "https://www.npr.org/2026/07/13/nx-s1-5890936/on-foreign-policy-grahams-influence-may-have-been-felt-the-most?utm_source=lootura.com",
-      "publishedAt": "2026-07-13T20:05:24.000Z",
-      "sourceId": "lootura-us-npr-politics"
-    },
-    {
-      "title": "Tamara Keith and Amy Walter on Lindsey Graham's passing",
-      "url": "https://www.pbs.org/newshour/show/tamara-keith-and-amy-walter-on-lindsey-grahams-passing?utm_source=lootura.com",
-      "publishedAt": "2026-07-13T22:35:20.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
-    },
-    {
-      "title": "Who is Darline Graham Nordone, the late Sen. Lindsey Graham's sister?",
-      "url": "https://www.pbs.org/newshour/politics/who-is-darline-graham-nordone-the-late-sen-lindsey-grahams-sister?utm_source=lootura.com",
-      "publishedAt": "2026-07-13T22:44:58.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
-    },
-    {
-      "title": "Lindsey Graham's career and influence on American politics",
-      "url": "https://www.pbs.org/newshour/show/lindsey-grahams-impact-and-influence-on-american-politics?utm_source=lootura.com",
-      "publishedAt": "2026-07-13T22:50:43.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
-    },
-    {
       "title": "Lindsey Graham’s Sister Appointed to Finish His Senate Term After Trump’s Backing",
       "url": "https://www.nytimes.com/2026/07/13/us/politics/trump-graham-sister-south-carolina-senate.html?utm_source=lootura.com",
       "publishedAt": "2026-07-13T23:27:44.000Z",
       "sourceId": "lootura-us-the-new-york-times"
     }
   ],
-  "evidenceCount": 11
+  "evidenceCount": 5
 }

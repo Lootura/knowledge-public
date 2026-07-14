@@ -3,7 +3,7 @@
 > Sigue la actividad de Donald Trump en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-14T09:55:53.939Z
+- Actualizado: 2026-07-14T13:30:06.934Z
 - Canonical: https://atlas.lootura.com/es/person/donald-trump
 
 ## Cambios recientes
@@ -11,6 +11,12 @@
 ### El Ibex, atenazado de nuevo por el petróleo
 
 El petróleo vuelve a ser protagonista. Los planes de Trump de cobrar un peaje del 20% por cruzar Ormuz han elevado de nuevo el precio del crudo. Las presiones inflacionistas aumentan en un día marcado por el IPC de EEUU, pero también por el inicio de los resultados y por la Fed. El Ibex espera novedades lastrado por el.
+
+Date: 2026-07-14
+
+### Botín, sobre los ataques de Trump a España: "La compra de Webster por Santander es un win-win"
+
+La presidenta de Santander, Ana Botín, ha remarcado las ventajas que comportará para todas las partes implicadas la compra de Webster por Santander, en un escenario marcado por los ataques que el presidente de EEUU, Donald Trump, viene lanzando a España a raíz de las tensiones surgidas entre ambos países por la guerra.
 
 Date: 2026-07-14
 
@@ -62,15 +68,7 @@ El presidente de Estados Unidos, Donald Trump , aseguró este lunes que las fuer
 
 Date: 2026-07-13
 
-### El petróleo se dispara tras anunciar Trump un bloqueo a Irán y un peaje de EE UU en Ormuz
-
-ha anunciado al final de la tarde de este lunes que la Marina estadounidense volverá a bloquear el traspaso de embarcaciones iraníes por el estrecho de Ormuz y que además cobrará un peaje del 20% de la carga a cada barco que cruce el paso. El presidente estadounidense no ha detallado cómo aplicará este tri.
-
-Date: 2026-07-13
-
 ## Fuentes
 
-- [El petróleo supera los 86 dólares ante la escalada en el Golfo y ya sube un 20% sobre los mínimos de julio](https://cincodias.elpais.com/mercados-financieros/2026-07-14/la-bolsa-y-el-ibex-35.html?utm_source=lootura.com) — 2026-07-14T07:55:05.000Z
-- [El Ibex, atenazado de nuevo por el petróleo](https://www.expansion.com/mercados/cronica-bolsa/2026/07/14/6a55ceaa468aeb3a6b8b458b.html?utm_source=lootura.com) — 2026-07-14T09:24:22.000Z
-- [Por qué el mundo debería imitar a Trump por una vez](https://www.expansion.com/economia/financial-times/2026/07/14/6a55e533468aeb0b788b45d1.html?utm_source=lootura.com) — 2026-07-14T07:31:43.000Z
-- [Nato Ankara Summit: why only a federal, unified EU can mount its own credible military defence](https://theconversation.com/nato-ankara-summit-why-only-a-federal-unified-eu-can-mount-its-own-credible-military-defence-287401?utm_source=lootura.com) — 2026-07-14T08:42:36.000Z
+- [El Ibex, atenazado de nuevo por el petróleo](https://www.expansion.com/mercados/cronica-bolsa/2026/07/14/6a55ceaa468aeb3a6b8b458b.html?utm_source=lootura.com) — 2026-07-14T12:40:59.000Z
+- [Botín, sobre los ataques de Trump a España: "La compra de Webster por Santander es un win-win"](https://www.expansion.com/empresas/banca/2026/07/14/6a55feb8468aeb864a8b45a3.html?utm_source=lootura.com) — 2026-07-14T10:28:58.000Z
