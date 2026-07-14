@@ -3,10 +3,16 @@
 > Follow China, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-14T13:30:27.465Z
+- Updated: 2026-07-14T20:58:39.119Z
 - Canonical: https://atlas.lootura.com/us/place/china
 
 ## Recent changes
+
+### A new smart coating could improve the cleanup of nuclear wastewater
+
+Scientists in China have developed a smart coating that could make it easier to remove tritium (a radioactive form of hydrogen) from nuclear power plant wastewater.
+
+Date: 2026-07-14
 
 ### China Purges Top Official Over Corruption and Sex Charges
 
@@ -62,12 +68,6 @@ Nature, Published online: 09 July 2026; doi:10.1038/d41586-026-01242-z Nature sp
 
 Date: 2026-07-12
 
-### Typhoon Bavi Hits China, Causing Evacuations, Floods and Flight Delays
-
-Typhoon Bavi made landfall in China after killing 17 in the Philippines, skirting Japan and hitting Taiwan. At its largest, the storm was about the width of France.
-
-Date: 2026-07-12
-
 ## Sources
 
-No public source links.
+- [A new smart coating could improve the cleanup of nuclear wastewater](https://phys.org/news/2026-07-smart-coating-cleanup-nuclear-wastewater.html?utm_source=lootura.com) — 2026-07-14T20:20:07.000Z

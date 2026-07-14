@@ -8,9 +8,19 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/madrid/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/madrid/index.json",
   "description": "Sigue la actividad de Madrid en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-14T17:12:02.446Z",
+  "updatedAt": "2026-07-14T20:58:20.799Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "Madrid Río explota con el tanto de Oyarzabal: miles de aficionados lo celebran",
+      "summary": "Varias capitales españolas han dispuesto pantallas gigantes para ver el partido de la selección española. En Madrid, dos escenarios diferentes están concentrando a miles de aficionados de La Roj a: Colón y Madrid Río. En este segundo escenario, a orillas de Manzanares y bajo un sol de justicia, el partido se está vivie.",
+      "date": "2026-07-14"
+    },
+    {
+      "title": "Madrid: rescatan a 7 personas en el incendio de un piso en Canillas",
+      "summary": "Bomberos del Ayuntamiento de Madrid han rescatado este martes a siete vecinos del interior de un edificio del barrio de Canillas, en el distrito de Hortaleza, donde se ha originado un incendio en una vivienda a causa del cual ha sido necesario atender a 17 personas por intoxicación leve de humo, siete de las cuales han.",
+      "date": "2026-07-14"
+    },
     {
       "title": "El enigma Victoria Abril: España no supo qué hacer con la mejor actriz de su generación",
       "summary": "En la foto oficial de la Berlinale de 1991 , Victoria Abril (Madrid, 67 años) sostiene su Oso de Plata con una mano y eleva la otra como ejecutando un saludo torero, o a punto de atusarse el moño italiano (elija usted). Acaba de imponerse, por su trabajo en Amantes , en la categoría de mejor actriz sobre Vanessa Redgra.",
@@ -50,25 +60,21 @@
       "title": "La revista 'Forbes' sitúa 13 hospitales madrileños entre los 25 mejores de España",
       "summary": "La revista Forbes sitúa 13 hospitales de la Comunidad de Madrid en su lista anual de los mejores 25 de España , tanto públicos como privados. A lo largo de la lista, Madrid cuenta con ocho centros públicos, de los cuales seis se colocan entre los diez primeros puestos, y cinco privados. De hecho, los cuatro primeros ho.",
       "date": "2026-07-14"
-    },
-    {
-      "title": "El centro de Madrid estará cortado durante hoy y mañana en estas zonas muy concurridas: las calles afectadas",
-      "summary": "La capital afronta dos jornadas con importantes alteraciones en la circulación por varias convocatorias que obligarán a desviar el tráfico en algunos de los principales ejes.",
-      "date": "2026-07-14"
-    },
-    {
-      "title": "Madrid: en estado grave un hombre tras sufrir un golpe de calor en plena calle",
-      "summary": "Samur-Protección Civil ha atendido este lunes a un hombre de 46 años que presentaba una patología grave por golpe de calor en la calle Illescas de Madrid. Según informa Emergencias Madrid, el hombre presentaba una temperatura de 41 grados y un bajo nivel de consciencia. A su llegada, la unidad avanzada ha procedido a s.",
-      "date": "2026-07-14"
     }
   ],
   "sources": [
     {
-      "title": "El enigma Victoria Abril: España no supo qué hacer con la mejor actriz de su generación",
-      "url": "https://elpais.com/icon/2026-07-14/el-enigma-victoria-abril-por-que-espana-no-supo-que-hacer-con-la-mejor-actriz-de-su-generacion.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-14T03:30:01.000Z",
-      "sourceId": "lootura-es-el-pais"
+      "title": "Madrid Río explota con el tanto de Oyarzabal: miles de aficionados lo celebran",
+      "url": "https://www.20minutos.es/deportes/futbol/madrid-rio-explota-con-tanto-oyarzabal_7014679_0.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-14T19:37:12.000Z",
+      "sourceId": "lootura-es-20minutos"
+    },
+    {
+      "title": "Madrid: rescatan a 7 personas en el incendio de un piso en Canillas",
+      "url": "https://www.larazon.es/madrid/madrid-rescatan-7-personas-incendio-piso-canillas_202607146a569c35772f745d2c49206c.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-14T20:29:43.000Z",
+      "sourceId": "lootura-es-la-razon"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 2
 }

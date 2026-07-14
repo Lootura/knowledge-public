@@ -3,7 +3,7 @@
 > Sigue la actividad de Barcelona en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-14T17:12:02.446Z
+- Actualizado: 2026-07-14T20:58:20.799Z
 - Canonical: https://atlas.lootura.com/es/place/barcelona
 
 ## Cambios recientes
@@ -11,6 +11,12 @@
 ### Salvador Illa improvisa una reunión con la cónsul de Francia en Barcelona para agitar la polémica sobre las declaraciones de Mariano Rajoy
 
 El encuentro no estaba previsto en la agenda del presidente catalán hasta primera hora de esta mañana Leer.
+
+Date: 2026-07-14
+
+### La Princesa Leonor reivindica a los «Inteligentes Naturales»: «Son mis 'influencers' favoritos»
+
+El Gran Teatre del Liceu de Barcelona volvió a convertirse esta tarde en el escaparate del talento joven. Científicos capaces de acercar a la humanidad a la respuesta de si existe vida fuera de la Tierra, emprendedoras que quieren acabar con los plásticos o facilitar créditos a quienes nunca lo han tenido, un líder soc.
 
 Date: 2026-07-14
 
@@ -62,12 +68,7 @@ La Policía Local de Santa Susanna (Barcelona) detuvo este domingo por la tarde 
 
 Date: 2026-07-13
 
-### ACS negocia comprar el 51% de la catalana Openchip
-
-ACS ultima los detalles para convertirse en el socio mayoritario de Openchip , la start up catalana apoyada por la Generalitat especializada en el diseño de chips. Según las fuentes consultadas, ACS comprará el 51% en una ronda de financiación en la que la tecnológica con sede en Barcelona pretende captar 250 millones.
-
-Date: 2026-07-13
-
 ## Fuentes
 
+- [La Princesa Leonor reivindica a los «Inteligentes Naturales»: «Son mis 'influencers' favoritos»](https://www.abc.es/espana/casa-real/familia-real-preside-tarde-ceremonia-premios-princesa-20260714185612-nt.html?utm_source=lootura.com) — 2026-07-14T19:47:43.000Z
 - [Salvador Illa improvisa una reunión con la cónsul de Francia en Barcelona para agitar la polémica sobre las declaraciones de Mariano Rajoy](https://www.elmundo.es/cataluna/2026/07/14/6a56057121efa0446c8b458e.html?utm_source=lootura.com) — 2026-07-14T09:57:34.000Z

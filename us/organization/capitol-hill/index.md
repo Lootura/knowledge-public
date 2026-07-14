@@ -3,7 +3,7 @@
 > Follow Capitol Hill, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-07-14T17:12:24.301Z
+- Updated: 2026-07-14T20:58:39.119Z
 - Canonical: https://atlas.lootura.com/us/organization/capitol-hill
 
 ## Recent changes

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/united-states/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/united-states/index.json",
   "description": "Follow United States, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-14T17:12:24.301Z",
+  "updatedAt": "2026-07-14T20:58:39.119Z",
   "aliases": [
     "America",
     "Estados Unidos",
@@ -41,28 +41,28 @@
       "date": "2026-07-14"
     },
     {
-      "title": "Why your favorite international artist might be reconsidering their next U.S. tour",
-      "summary": "The visa process for visiting artists has always been complicated and expensive. Under the current administration, it's gotten significantly worse.",
-      "date": "2026-07-14"
-    },
-    {
       "title": "Funding milestone detected",
       "summary": "President Donald Trump on Tuesday announced a reversal of plans to charge a 20% toll on cargo going through the Strait of Hormuz, saying that Middle Eastern countries will instead make investment and trade deals with the U.S.",
       "date": "2026-07-14"
     },
     {
-      "title": "Maps show heat alerts as extreme temperatures threaten millions",
-      "summary": "Heat alerts were issued for millions across parts of the western U.S. Sunday due to an unusually prolonged heat dome, which is starting to move east.",
+      "title": "Europe, Flexing Muscle in Ukraine, Is Still on Sidelines in Iran",
+      "summary": "In a show of collective strength, President Emmanuel Macron of France hosted European allies at the annual Bastille Day parade in Paris. Yet Europe is still a hostage to America’s foreign policy.",
       "date": "2026-07-14"
     },
     {
-      "title": "Details on newest U.S. strikes against Iran",
-      "summary": "The United States is carrying out a third night of airstrikes against Iran. CBS News national security analyst Aaron MacLean has more.",
+      "title": "Some international artists are skipping U.S. tours. Others may follow suit",
+      "summary": "The visa process for visiting artists has always been complicated and expensive. Under the current administration, it's gotten significantly worse.",
       "date": "2026-07-14"
     },
     {
-      "title": "U.S. to reinstate Hormuz blockade. And, states sue over Paramount-Warner deal",
-      "summary": "The United States plans to reinstate a blockade over the Strait of Hormuz today. And, several states are suing to stop the massive Paramount-Warner Bros. merger. (Image credit: -).",
+      "title": "In the aftermath of deadly shootings, ICE pauses most traffic stops",
+      "summary": "U.S. Immigration and Customs Enforcement will pause non-urgent vehicle stops after two deadly shootings in less than a week, Maine U.S. Sen. Angus King's office tells NPR. (Image credit: Joseph Prezioso).",
+      "date": "2026-07-14"
+    },
+    {
+      "title": "VLA sky survey sets new standard for high-resolution, wide-area radio astronomy",
+      "summary": "The U.S. National Science Foundation National Radio Astronomy Observatory (NSF NRAO) has completed observations for the Very Large Array Sky Survey (VLASS), the most detailed radio survey of the sky ever conducted, providing an unprecedented view of the dynamic radio universe.",
       "date": "2026-07-14"
     }
   ],
@@ -92,10 +92,16 @@
       "sourceId": "lootura-us-npr"
     },
     {
-      "title": "Why your favorite international artist might be reconsidering their next U.S. tour",
+      "title": "Some international artists are skipping U.S. tours. Others may follow suit",
       "url": "https://www.npr.org/2026/07/14/nx-s1-5783845/visa-process-artists-us?utm_source=lootura.com",
       "publishedAt": "2026-07-14T14:46:11.000Z",
       "sourceId": "lootura-us-npr"
+    },
+    {
+      "title": "In the aftermath of deadly shootings, ICE pauses most traffic stops",
+      "url": "https://www.npr.org/2026/07/14/nx-s1-5893456/ice-vehicle-biddeford-houston?utm_source=lootura.com",
+      "publishedAt": "2026-07-14T19:54:53.000Z",
+      "sourceId": "lootura-us-npr-politics"
     },
     {
       "title": "Trump backs away from plans to charge fees in the Strait of Hormuz",
@@ -104,17 +110,23 @@
       "sourceId": "lootura-us-pbs-newshour"
     },
     {
-      "title": "Trump Says U.S. Will ‘Take Over’ Strait of Hormuz, and How Russia Made Japan a Den of Spies",
-      "url": "https://www.nytimes.com/2026/07/14/podcasts/the-headlines/trump-strait-of-hormuz-russia-japan-ukraine-war-space-sugar.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-14T10:00:14.000Z",
-      "sourceId": "lootura-us-the-new-york-times"
+      "title": "VLA sky survey sets new standard for high-resolution, wide-area radio astronomy",
+      "url": "https://phys.org/news/2026-07-vla-sky-survey-standard-high.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-14T20:00:01.000Z",
+      "sourceId": "lootura-us-phys-org"
     },
     {
-      "title": "U.S. Workers Are More Productive Than Ever. A.I. Isn’t the Key.",
-      "url": "https://www.nytimes.com/2026/07/14/business/worker-productivity-artificial-intelligence-economy.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-14T12:25:43.000Z",
+      "title": "New study analyzes how electronic trading is changing the retail investment market",
+      "url": "https://phys.org/news/2026-07-electronic-retail-investment.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-14T19:20:01.000Z",
+      "sourceId": "lootura-us-phys-org"
+    },
+    {
+      "title": "Trump Flip-Flops on Strait of Hormuz, Creating New Risks for Global Economy",
+      "url": "https://www.nytimes.com/2026/07/14/business/trump-strait-of-hormuz.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-14T18:50:34.000Z",
       "sourceId": "lootura-us-the-new-york-times"
     }
   ],
-  "evidenceCount": 7
+  "evidenceCount": 12
 }

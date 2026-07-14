@@ -8,11 +8,21 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/new-york/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/new-york/index.json",
   "description": "Follow New York, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-14T17:12:24.301Z",
+  "updatedAt": "2026-07-14T20:58:39.119Z",
   "aliases": [
     "New York City"
   ],
   "changes": [
+    {
+      "title": "N.Y. enacts nation's first statewide moratorium on building new data centers",
+      "summary": "Building new data centers in New York will be paused for a year in order to allow state officials to establish guidelines protecting residents and the environment, Gov. Kathy Hochul said.",
+      "date": "2026-07-14"
+    },
+    {
+      "title": "Gov. Hochul orders a pause on data centers in New York for up to a year",
+      "summary": "Gov. Kathy Hochul signed an order pausing construction of large data centers — the first statewide pause in the country.",
+      "date": "2026-07-14"
+    },
     {
       "title": "New York enacts nation's first statewide moratorium on building new data centers",
       "summary": "Building new data centers in New York will be paused for a year in order to allow state officials to establish guidelines protecting residents and the environment, Gov. Kathy Hochul said.",
@@ -52,37 +62,21 @@
       "title": "My holiday from hell: blizzards, black ice, a broken-down bus – would I ever make it to New York?",
       "summary": "Flights were cancelled and we were told we’d be staying in Iceland for the night. But the hotel had no idea we were coming and people started screaming when I fell down, hard, on the ice A couple of days before I was due to take a trip to New York with my mum in February, the city was hit with the worst blizzard it had.",
       "date": "2026-07-13"
-    },
-    {
-      "title": "Younger Voters Are Propelling the Democratic Socialist Surge in New York",
-      "summary": "Age seemed to be the predominant factor in the Democratic Socialists of America’s primary wins in House races in New York City.",
-      "date": "2026-07-12"
-    },
-    {
-      "title": "NYC to move 110 single homeless men to quiet Brooklyn neighborhood, leaving locals worried: report",
-      "summary": "City is set to move 110 single homeless men into a Brooklyn shelter without conducting criminal background checks, according to a new report, sparking outrage among residents who fear the change will bring more crime to their quiet neighborhood. The former Gold Star Inn in Sheepshead Bay, which has operated as.",
-      "date": "2026-07-12"
     }
   ],
   "sources": [
     {
-      "title": "New York enacts nation's first statewide moratorium on building new data centers",
+      "title": "N.Y. enacts nation's first statewide moratorium on building new data centers",
       "url": "https://www.cbsnews.com/news/new-york-data-center-moratorium-kathy-hochul/?utm_source=lootura.com",
-      "publishedAt": "2026-07-14T16:37:54.000Z",
+      "publishedAt": "2026-07-14T19:54:35.000Z",
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "'Gus' the T. rex fetches record $50.1 mn at US auction",
-      "url": "https://phys.org/news/2026-07-gus-rex-mn-auction.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-14T16:26:48.000Z",
-      "sourceId": "lootura-us-phys-org"
-    },
-    {
-      "title": "T rex fossil ‘Gus’ sells for $50.1m at New York auction, setting new record",
-      "url": "https://www.theguardian.com/us-news/2026/jul/14/t-rex-skeleton-auction-record-price?utm_source=lootura.com",
-      "publishedAt": "2026-07-14T15:31:05.000Z",
-      "sourceId": "lootura-us-the-guardian-us"
+      "title": "Gov. Hochul orders a pause on data centers in New York for up to a year",
+      "url": "https://www.npr.org/2026/07/14/nx-s1-5893396/gov-hochul-orders-a-pause-on-data-centers-in-new-york-for-up-to-a-year?utm_source=lootura.com",
+      "publishedAt": "2026-07-14T20:24:20.000Z",
+      "sourceId": "lootura-us-npr-politics"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 2
 }

@@ -3,7 +3,7 @@
 > Follow White House, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-07-14T17:12:24.301Z
+- Updated: 2026-07-14T20:58:39.119Z
 - Canonical: https://atlas.lootura.com/us/organization/white-house
 
 ## Recent changes
@@ -70,4 +70,4 @@ Date: 2026-07-10
 
 ## Sources
 
-- [Trump says he will back off plan to toll ships in Strait of Hormuz](https://www.nbcnews.com/now/video/trump-says-he-will-back-off-plan-to-toll-ships-in-strait-of-hormuz-266653253537?utm_source=lootura.com) — 2026-07-14T16:38:39.000Z
+- [Trump Says the FBI Would Be ‘Wasting Their Time’ Investigating Lindsey Graham’s Death](https://time.com/article/2026/07/14/trump-lindsey-graham-death-conspiracy-theories-fbi/?utm_source=lootura.com) — 2026-07-14T20:20:18.000Z

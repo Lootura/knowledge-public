@@ -3,7 +3,7 @@
 > Sigue la actividad de Alberto Núñez Feijóo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-14T17:12:02.446Z
+- Actualizado: 2026-07-14T20:58:20.799Z
 - Canonical: https://atlas.lootura.com/es/person/alberto-nunez-feijoo
 
 ## Cambios recientes
@@ -11,6 +11,12 @@
 ### El PP califica de "histórica" la condena del hermano de Sánchez: "Nadie está por encima de la ley"
 
 Feijóo celebra que el Estado de Derecho funcione en España para todos, "sean de la familia que sean" Leer.
+
+Date: 2026-07-14
+
+### Feijóo critica que el Gobierno «descalifique» la sentencia de David Sánchez: «Me preocupa»
+
+El líder del PP, Alberto Núñez Feijóo , ha recriminado este martes al Gobierno que «descalifique» la sentencia que condena a David Sánchez , hermano del jefe del Ejecutivo, y ha subrayado que le «preocupa» esta «actitud» del gabinete de Pedro Sánchez, que «lo que tiene que hacer es acatar» el fallo. «Empezamos a entrar.
 
 Date: 2026-07-14
 
@@ -62,12 +68,7 @@ Casi una semana después de que el presidente del PP, Alberto Núñez Feijóo , 
 
 Date: 2026-07-13
 
-### La espiral xenófoba: así se han endurecido el discurso derechista y el clima social contra la inmigración
-
-Auxiliar a los 630 inmigrantes del Aquarius , el barco a la deriva que España iba a recibir, era una cuestión “humanitaria”, solemnizó el presidente gallego, Alberto Núñez Feijóo, que incluso ofreció su tierra para acoger náufragos. Era junio de 2018. Casi nadie sabía qué es un “mena” . La “prioridad nacional” era una.
-
-Date: 2026-07-12
-
 ## Fuentes
 
 - [El PP califica de "histórica" la condena del hermano de Sánchez: "Nadie está por encima de la ley"](https://www.elmundo.es/espana/2026/07/14/6a5621e6e85ece9a268b457b.html?utm_source=lootura.com) — 2026-07-14T11:58:30.000Z
+- [Feijóo critica que el Gobierno «descalifique» la sentencia de David Sánchez: «Me preocupa»](https://theobjective.com/espana/politica/2026-07-14/feijoo-gobierno-sentencia-david-sanchez/?utm_source=lootura.com) — 2026-07-14T19:22:32.000Z

@@ -3,7 +3,7 @@
 > Sigue la actividad de Portugal en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-14T06:09:00.827Z
+- Actualizado: 2026-07-14T20:58:20.799Z
 - Canonical: https://atlas.lootura.com/es/place/portugal
 
 ## Cambios recientes
@@ -64,4 +64,4 @@ Date: 2026-07-09
 
 ## Fuentes
 
-No public source links.
+- [Qué día es la final del Mundial 2026: fecha y hora exacta, dónde se juega y estadio](https://okdiario.com/mundial/que-dia-final-mundial-2026-fecha-exacta-donde-juega-estadio-18886473?utm_source=lootura.com) — 2026-07-14T20:17:45.000Z

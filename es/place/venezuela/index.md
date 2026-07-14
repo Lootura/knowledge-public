@@ -3,10 +3,22 @@
 > Sigue la actividad de Venezuela en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-14T17:12:02.446Z
+- Actualizado: 2026-07-14T20:58:20.799Z
 - Canonical: https://atlas.lootura.com/es/place/venezuela
 
 ## Cambios recientes
+
+### Félix Plasencia, el hombre que negoció el deshielo con Washington y ahora dirige la diplomacia venezolana
+
+En febrero de este año, Félix Plasencia aterrizó en una capital donde Venezuela llevaba casi siete años sin representación oficial. Su encargo: reabrir los canales entre Caracas y Washington . En marzo lo consiguió. Ambos países retomaron relaciones . Este lunes, cinco meses después, lo llamaron de vuelta para dirigir.
+
+Date: 2026-07-14
+
+### Nuevo balance de víctimas en Venezuela por el doble terremoto: 4.734 muertos
+
+La cifra de muertos por el doble terremoto ocurrido hace casi tres semanas en la zona norte de Venezuela ascendió este martes a 4.734, tras sumarse 173 nuevos fallecimientos, informó el presidente del Parlamento, el chavista Jorge Rodríguez. Las cifras de heridos y personas sin viviendas se mantienen en 16.740 y 17.907.
+
+Date: 2026-07-14
 
 ### Uno de cada 10 médicos en España ya son extranjeros: “Venimos a trabajar duro para sostener y mejorar el sistema de salud”
 
@@ -56,19 +68,7 @@ Venezuela first entered the public knowledge record with source-backed evidence.
 
 Date: 2026-07-11
 
-### Contratos para la reconstrucción, ajustes de cuentas y advertencias a María Corina Machado: la 'guerra civil' por el "botín" de Venezuela
-
-La líder democrática se convierte en un 'estorbo' para el régimen chavista y sus anhelos de negocios millonarios Leer.
-
-Date: 2026-07-11
-
-### Los muertos por el doble terremoto de Venezuela ya son más de 4.300
-
-Las autoridades venezolanas han elevado a más de 4.300 las víctimas mortales derivadas de los devastadores terremotos registrados en el centro de la costa del país el pasado 24 de junio, mientras que la cifra de heridos se mantiene, al igual que en los últimos partes oficiales, en 16.740 personas. El presidente de la A.
-
-Date: 2026-07-11
-
 ## Fuentes
 
-- [Los latinoamericanos afiliados a la Seguridad Social superan por primera vez a los europeos](https://elpais.com/economia/2026-07-14/los-latinoamericanos-afiliados-a-la-seguridad-social-superan-por-primera-vez-a-los-europeos.html?utm_source=lootura.com) — 2026-07-14T13:13:24.000Z
-- [Uno de cada 10 médicos en España ya son extranjeros: “Venimos a trabajar duro para sostener y mejorar el sistema de salud”](https://elpais.com/sociedad/2026-07-14/uno-de-cada-10-medicos-en-espana-ya-son-extranjeros-venimos-a-trabajar-duro-para-sostener-y-mejorar-el-sistema-de-salud.html?utm_source=lootura.com) — 2026-07-14T03:30:01.000Z
+- [Félix Plasencia, el hombre que negoció el deshielo con Washington y ahora dirige la diplomacia venezolana](https://www.abc.es/internacional/perfil-plasencia-20260714194502-nt.html?utm_source=lootura.com) — 2026-07-14T19:51:41.000Z
+- [Nuevo balance de víctimas en Venezuela por el doble terremoto: 4.734 muertos](https://theobjective.com/internacional/2026-07-14/nuevo-balance-victimas-venezuela/?utm_source=lootura.com) — 2026-07-14T20:08:59.000Z

@@ -3,10 +3,22 @@
 > Follow Graham Platner, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-07-14T17:12:24.301Z
+- Updated: 2026-07-14T20:58:39.119Z
 - Canonical: https://atlas.lootura.com/us/person/graham-platner
 
 ## Recent changes
+
+### ICE needs to be ‘dismantled’: Senate candidate Dan Kleban after ICE-involved shooting in Maine
+
+Dan Kleban (D-Maine) joins Meet the Press NOW to discuss his run to replace Graham Platner in the Senate race. Kelban also reacts to the fatal ICE shooting in Maine.
+
+Date: 2026-07-14
+
+### Maine Democrats will square off in Senate debate Thursday
+
+Democrats vying to replace former Maine Senate nominee Graham Platner on the ballot are set to battle on the debate stage Thursday night. News Center Maine confirmed the debate, which will be held at 7 p.m. EDT in Portland and include three former gubernatorial hopefuls — Troy Jackson , Shenna Bellows and Nirav Shah —.
+
+Date: 2026-07-14
 
 ### Platner's voters are reeling as Maine Democratic Party races to choose his replacement
 
@@ -56,18 +68,7 @@ Mr. Platner’s withdrawal from a marquee Senate race, under pressure from his p
 
 Date: 2026-07-12
 
-### Ro Khanna says he regrets his endorsement of Graham Platner: ‘I got that call wrong’
-
-Rep. Ro Khanna (D-Calif.) joins Meet the Press for an exclusive interview after Graham Platner (D) exits the Maine Senate race amid a sexual assault allegation.
-
-Date: 2026-07-12
-
-### Discovered by Atlas
-
-Graham Platner first entered the public knowledge record with source-backed evidence.
-
-Date: 2026-07-11
-
 ## Sources
 
-- [Platner's voters are reeling as Maine Democratic Party races to choose his replacement](https://www.npr.org/2026/07/14/nx-s1-5892502/platner-collins-maine-democratic-party-senate?utm_source=lootura.com) — 2026-07-14T09:00:00.000Z
+- [ICE needs to be ‘dismantled’: Senate candidate Dan Kleban after ICE-involved shooting in Maine](https://www.nbcnews.com/meet-the-press/video/ice-needs-to-be-dismantled-senate-candidate-dan-kleban-after-ice-involved-shooting-in-maine-266666565710?utm_source=lootura.com) — 2026-07-14T20:35:29.000Z
+- [Maine Democrats will square off in Senate debate Thursday](https://www.politico.com/news/2026/07/14/maine-democrats-senate-debate-platner-00997107?utm_source=lootura.com) — 2026-07-14T18:34:24.000Z

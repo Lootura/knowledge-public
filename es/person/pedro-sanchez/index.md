@@ -3,16 +3,10 @@
 > Sigue la actividad de Pedro Sánchez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-14T17:12:02.446Z
+- Actualizado: 2026-07-14T20:58:20.799Z
 - Canonical: https://atlas.lootura.com/es/person/pedro-sanchez
 
 ## Cambios recientes
-
-### El hermano de Sánchez y Gallardo, condenados a nueve y 18 años de inhabilitación por prevaricación
-
-Un mes después de que el juicio quedase visto para sentencia, la Audiencia Provincial de Badajoz ha condenado este lunes a David Sánchez Pérez-Castejón, hermano del presidente del Gobierno, y al expresidente de la Diputación pacense Miguel Ángel Gallardo a nueve y 18 años, respectivamente, de inhabilitación por prevari.
-
-Date: 2026-07-14
 
 ### El PP califica de "histórica" la condena del hermano de Sánchez: "Nadie está por encima de la ley"
 
@@ -29,18 +23,6 @@ Date: 2026-07-14
 ### Las “dudas” del tribunal sobre la contratación de David Sánchez: sin tráfico de influencias ni presiones acreditadas
 
 La Audiencia Provincial de Badajoz considera probado que el expresidente de la Diputación, Miguel Ángel Gallardo, y otras ocho personas prevaricaron para crear un puesto a la medida del hermano de Pedro Sánchez, David Sánchez, condenado por el mismo delito, pero los jueces admiten que no se ha conseguido probar quién r.
-
-Date: 2026-07-14
-
-### Claves de una condena extraña a David Sánchez: inhabilitado por prevaricación sin pruebas sólidas de tráfico de influencias
-
-La Audiencia Provincial de Badajoz castiga al hermano del presidente por un “espurio” trato de favor pero sin presiones de nadie La Justicia condena al hermano de Pedro Sánchez a nueve años de inhabilitación por prevaricar pero le absuelve de tráfico de influencias Documento - Consulta íntegra la sentencia del caso de.
-
-Date: 2026-07-14
-
-### El Gobierno espera que se absuelva a David Sánchez en «instancias superiores»
-
-El Gobierno de España espera que «instancias superiores» a la Audiencia de Bajadoz, que ha condenado a nueve años de inhabilitación a David Sánchez , hermano del presidente del Gobierno, constaten su «inocencia» cuando se resuelva el recurso a la sentencia. Así lo ha manifestado la ministra portavoz del Gobierno, Elma.
 
 Date: 2026-07-14
 
@@ -68,15 +50,33 @@ La Audiencia Provincial de Badajoz ha dictado la primera sentencia sobre un fami
 
 Date: 2026-07-14
 
+### Sánchez se disculpa ante el primer ministro francés por Rajoy: «Estoy muy avergonzado»
+
+se ha disculpado este martes ante las autoridades francesas por las polémicas palabras del expresidente del Gobierno Mariano Rajoy sobre la selección de Francia. « Lo siento mucho por las palabras de nuestro expresidente. Estoy muy avergonzado », les ha trasladado el jefe del Ejecutivo durante los actos c.
+
+Date: 2026-07-14
+
+### La defensa de David Sánchez recurrirá la sentencia de la Audiencia de Badajoz
+
+La defensa de David Sánchez, hermano del presidente del Gobierno, recurrirá la sentencia de la Audiencia de Badajoz que condena a este a nueve años de.
+
+Date: 2026-07-14
+
+### La ruina política de Pedro Sánchez
+
+Los magistrados de la Audiencia Provincial de Badajoz que, por unanimidad, han condenado a nueve años de inhabilitación al hermano de Pedro Sánchez, como cooperador necesario de un delito de prevaricación, han descrito con claridad lo que sucedió en la Diputación provincial pacense: que una red de prevaricadores colocó.
+
+Date: 2026-07-14
+
 ## Fuentes
 
-- [El hermano de Sánchez y Gallardo, condenados a nueve y 18 años de inhabilitación por prevaricación](https://www.abc.es/espana/extremadura/hermano-sanchez-gallardo-condenados-prevariacion-20260714122527-nt.html?utm_source=lootura.com) — 2026-07-14T16:18:09.000Z
+- [La ruina política de Pedro Sánchez](https://www.abc.es/opinion/editorial-ruina-politica-pedro-sanchez-20260714192549-nt.html?utm_source=lootura.com) — 2026-07-14T19:18:10.000Z
+- [El PP augura un calvario largo para Pedro Sánchez: "Les queda lo peor"](https://www.elmundo.es/espana/2026/07/14/6a566e14e85ece461a8b4597.html?utm_source=lootura.com) — 2026-07-14T17:47:00.000Z
 - [El PP califica de "histórica" la condena del hermano de Sánchez: "Nadie está por encima de la ley"](https://www.elmundo.es/espana/2026/07/14/6a5621e6e85ece9a268b457b.html?utm_source=lootura.com) — 2026-07-14T11:58:30.000Z
+- [La condena al hermano de Sánchez, un aval a la juez Biedma y a la investigación de la UCO](https://amp.elmundo.es/espana/2026/07/14/6a566535e9cf4aae3c8b4586.html?utm_source=lootura.com) — 2026-07-14T18:52:50.000Z
 - [El PP considera que la sentencia al hermano de Sánchez “haría caer a un Gobierno” en cualquier otro país](https://elpais.com/espana/2026-07-14/el-pp-considera-que-la-sentencia-al-hermano-de-sanchez-haria-caer-a-un-gobierno-en-cualquier-otro-pais.html?utm_source=lootura.com) — 2026-07-14T11:25:30.000Z
 - [El Gobierno denuncia que lo pretenden “derribar” ante “la incapacidad de hacerlo por las urnas” tras la condena al hermano de Sánchez](https://elpais.com/espana/2026-07-14/puente-denuncia-que-se-pretende-derribar-al-gobierno-ante-la-incapacidad-de-hacerlo-por-las-urnas-tras-la-condena-del-hermano-de-sanchez.html?utm_source=lootura.com) — 2026-07-14T11:26:47.000Z
 - [David Sánchez, el hijo de Magdalena y Pedro](https://elpais.com/espana/2026-07-14/david-sanchez-el-hijo-de-magdalena-y-pedro.html?utm_source=lootura.com) — 2026-07-14T15:37:37.000Z
 - [Última hora de la actualidad política, en directo | Rufián, sobre la condena a David Sánchez: “Es una sobrada importante (…) Luego viene Begoña Gómez”](https://elpais.com/espana/2026-07-14/ultima-hora-de-la-actualidad-politica-en-directo.html?utm_source=lootura.com) — 2026-07-14T17:03:34.000Z
 - [Claves de una sentencia inédita: un trabajo “a medida” sin prueba de presiones externas](https://elpais.com/espana/2026-07-14/claves-de-una-sentencia-inedita-sin-carcel-ni-trafico-de-influencias-pero-con-largas-penas-de-inhabilitacion-por-prevaricacion.html?utm_source=lootura.com) — 2026-07-14T12:03:55.000Z
 - [Las “dudas” del tribunal sobre la contratación de David Sánchez: sin tráfico de influencias ni presiones acreditadas](https://elpais.com/espana/2026-07-14/las-dudas-del-tribunal-sobre-la-contratacion-de-david-sanchez-sin-trafico-de-influencias-ni-presiones-acreditadas.html?utm_source=lootura.com) — 2026-07-14T13:15:01.000Z
-- [Claves de una condena extraña a David Sánchez: inhabilitado por prevaricación sin pruebas sólidas de tráfico de influencias](https://www.eldiario.es/politica/claves-condena-extrana-david-sanchez-inhabilitado-prevaricacion-pruebas-solidas-trafico-influencias_129_13379318.html?utm_source=lootura.com) — 2026-07-14T11:55:52.000Z
-- [España contra la Legión Extranjera](https://okdiario.com/opinion/espana-contra-legion-extranjera-18993135?utm_source=lootura.com) — 2026-07-14T17:00:39.000Z

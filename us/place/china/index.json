@@ -8,9 +8,14 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/china/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/china/index.json",
   "description": "Follow China, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-14T13:30:27.465Z",
+  "updatedAt": "2026-07-14T20:58:39.119Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "A new smart coating could improve the cleanup of nuclear wastewater",
+      "summary": "Scientists in China have developed a smart coating that could make it easier to remove tritium (a radioactive form of hydrogen) from nuclear power plant wastewater.",
+      "date": "2026-07-14"
+    },
     {
       "title": "China Purges Top Official Over Corruption and Sex Charges",
       "summary": "Ma Xingrui is the third member of the Politburo to be purged since 2022. He once led the Xinjiang region and was previously head of China’s space program.",
@@ -55,13 +60,15 @@
       "title": "Graduating without a thesis: meet the people getting ‘practical’ PhDs in China",
       "summary": "Nature, Published online: 09 July 2026; doi:10.1038/d41586-026-01242-z Nature spoke to three students from China’s first cohort of PhD candidates who are allowed to graduate with products instead of papers.",
       "date": "2026-07-12"
-    },
-    {
-      "title": "Typhoon Bavi Hits China, Causing Evacuations, Floods and Flight Delays",
-      "summary": "Typhoon Bavi made landfall in China after killing 17 in the Philippines, skirting Japan and hitting Taiwan. At its largest, the storm was about the width of France.",
-      "date": "2026-07-12"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "A new smart coating could improve the cleanup of nuclear wastewater",
+      "url": "https://phys.org/news/2026-07-smart-coating-cleanup-nuclear-wastewater.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-14T20:20:07.000Z",
+      "sourceId": "lootura-us-phys-org"
+    }
+  ],
+  "evidenceCount": 1
 }

@@ -3,10 +3,22 @@
 > Follow New York, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-14T17:12:24.301Z
+- Updated: 2026-07-14T20:58:39.119Z
 - Canonical: https://atlas.lootura.com/us/place/new-york
 
 ## Recent changes
+
+### N.Y. enacts nation's first statewide moratorium on building new data centers
+
+Building new data centers in New York will be paused for a year in order to allow state officials to establish guidelines protecting residents and the environment, Gov. Kathy Hochul said.
+
+Date: 2026-07-14
+
+### Gov. Hochul orders a pause on data centers in New York for up to a year
+
+Gov. Kathy Hochul signed an order pausing construction of large data centers — the first statewide pause in the country.
+
+Date: 2026-07-14
 
 ### New York enacts nation's first statewide moratorium on building new data centers
 
@@ -56,20 +68,7 @@ Flights were cancelled and we were told we’d be staying in Iceland for the nig
 
 Date: 2026-07-13
 
-### Younger Voters Are Propelling the Democratic Socialist Surge in New York
-
-Age seemed to be the predominant factor in the Democratic Socialists of America’s primary wins in House races in New York City.
-
-Date: 2026-07-12
-
-### NYC to move 110 single homeless men to quiet Brooklyn neighborhood, leaving locals worried: report
-
-City is set to move 110 single homeless men into a Brooklyn shelter without conducting criminal background checks, according to a new report, sparking outrage among residents who fear the change will bring more crime to their quiet neighborhood. The former Gold Star Inn in Sheepshead Bay, which has operated as.
-
-Date: 2026-07-12
-
 ## Sources
 
-- [New York enacts nation's first statewide moratorium on building new data centers](https://www.cbsnews.com/news/new-york-data-center-moratorium-kathy-hochul/?utm_source=lootura.com) — 2026-07-14T16:37:54.000Z
-- ['Gus' the T. rex fetches record $50.1 mn at US auction](https://phys.org/news/2026-07-gus-rex-mn-auction.html?utm_source=lootura.com) — 2026-07-14T16:26:48.000Z
-- [T rex fossil ‘Gus’ sells for $50.1m at New York auction, setting new record](https://www.theguardian.com/us-news/2026/jul/14/t-rex-skeleton-auction-record-price?utm_source=lootura.com) — 2026-07-14T15:31:05.000Z
+- [N.Y. enacts nation's first statewide moratorium on building new data centers](https://www.cbsnews.com/news/new-york-data-center-moratorium-kathy-hochul/?utm_source=lootura.com) — 2026-07-14T19:54:35.000Z
+- [Gov. Hochul orders a pause on data centers in New York for up to a year](https://www.npr.org/2026/07/14/nx-s1-5893396/gov-hochul-orders-a-pause-on-data-centers-in-new-york-for-up-to-a-year?utm_source=lootura.com) — 2026-07-14T20:24:20.000Z

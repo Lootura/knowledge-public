@@ -1,32 +1,58 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-14T17:16:50.544Z",
+  "generatedAt": "2026-07-14T21:02:57.547Z",
   "radar": {
     "id": "usa",
     "slug": "us",
     "locale": "en"
   },
   "state": {
-    "signature": "1.15.1|11|1784049144301",
+    "signature": "1.15.1|12|1784062719119",
     "version": "1.15.1",
-    "build": 11,
-    "latestEntityUpdatedAt": "2026-07-14T17:12:24.301Z"
+    "build": 12,
+    "latestEntityUpdatedAt": "2026-07-14T20:58:39.119Z"
   },
   "atlas": {
     "hero": {
-      "id": "usa-united-states",
-      "name": "United States",
-      "type": "place",
-      "title": "Morning news brief",
-      "url": "https://atlas.lootura.com/us/place/united-states",
-      "path": "/us/place/united-states",
-      "updatedAt": "2026-07-14T17:12:24.301Z",
-      "score": 1607,
-      "sourceCount": 160,
+      "id": "usa-lindsey-graham",
+      "name": "Lindsey Graham",
+      "type": "person",
+      "title": "Darline Graham, sister of Lindsey Graham, sworn in to fulfill his Senate term",
+      "url": "https://atlas.lootura.com/us/person/lindsey-graham",
+      "path": "/us/person/lindsey-graham",
+      "updatedAt": "2026-07-14T20:58:39.119Z",
+      "score": 1634,
+      "sourceCount": 29,
       "isBreaking": false,
       "isPinned": false
     },
     "cards": [
+      {
+        "id": "usa-maine",
+        "name": "Maine",
+        "type": "place",
+        "title": "ICE needs to be ‘dismantled’: Senate candidate Dan Kleban after ICE-involved shooting in Maine",
+        "url": "https://atlas.lootura.com/us/place/maine",
+        "path": "/us/place/maine",
+        "updatedAt": "2026-07-14T20:58:39.119Z",
+        "score": 1611,
+        "sourceCount": 57,
+        "isBreaking": false,
+        "isPinned": false
+      },
+      {
+        "id": "usa-united-states",
+        "name": "United States",
+        "type": "place",
+        "title": "Morning news brief",
+        "url": "https://atlas.lootura.com/us/place/united-states",
+        "path": "/us/place/united-states",
+        "updatedAt": "2026-07-14T20:58:39.119Z",
+        "score": 1611,
+        "sourceCount": 165,
+        "isBreaking": false,
+        "isPinned": false
+      },
       {
         "id": "usa-donald-trump",
         "name": "Donald Trump",
@@ -34,52 +60,26 @@
         "title": "Morning news brief",
         "url": "https://atlas.lootura.com/us/person/donald-trump",
         "path": "/us/person/donald-trump",
-        "updatedAt": "2026-07-14T17:12:24.301Z",
-        "score": 1583,
-        "sourceCount": 135,
+        "updatedAt": "2026-07-14T20:58:39.119Z",
+        "score": 1592,
+        "sourceCount": 139,
         "isBreaking": false,
         "isPinned": false
       },
       {
-        "id": "usa-lindsey-graham",
-        "name": "Lindsey Graham",
+        "id": "usa-darline-graham",
+        "name": "Darline Graham",
         "type": "person",
-        "title": "Who could replace Lindsey Graham in the Senate after his sudden death?",
-        "url": "https://atlas.lootura.com/us/person/lindsey-graham",
-        "path": "/us/person/lindsey-graham",
-        "updatedAt": "2026-07-14T17:12:24.301Z",
-        "score": 1582,
-        "sourceCount": 44,
-        "isBreaking": false,
-        "isPinned": false
-      },
-      {
-        "id": "usa-maine",
-        "name": "Maine",
-        "type": "place",
-        "title": "Many questions remain after an ICE officer's fatal shooting of a Maine driver",
-        "url": "https://atlas.lootura.com/us/place/maine",
-        "path": "/us/place/maine",
-        "updatedAt": "2026-07-14T17:12:24.301Z",
-        "score": 1573,
-        "sourceCount": 53,
-        "isBreaking": false,
-        "isPinned": false
-      },
-      {
-        "id": "usa-south-carolina",
-        "name": "South Carolina",
-        "type": "person",
-        "title": "South Carolina's governor appoints Lindsey Graham's sister to serve out his term",
-        "url": "https://atlas.lootura.com/us/person/south-carolina",
-        "path": "/us/person/south-carolina",
-        "updatedAt": "2026-07-14T17:12:24.301Z",
-        "score": 1553,
-        "sourceCount": 10,
+        "title": "Darline Graham, sister of Lindsey Graham, sworn in to fulfill his Senate term",
+        "url": "https://atlas.lootura.com/us/person/darline-graham",
+        "path": "/us/person/darline-graham",
+        "updatedAt": "2026-07-14T20:58:39.119Z",
+        "score": 1577,
+        "sourceCount": 5,
         "isBreaking": false,
         "isPinned": false
       }
     ],
-    "publicEntityCount": 28
+    "publicEntityCount": 37
   }
 }

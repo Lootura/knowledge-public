@@ -3,20 +3,20 @@
 > Follow Europe, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-14T17:12:24.301Z
+- Updated: 2026-07-14T20:58:39.119Z
 - Canonical: https://atlas.lootura.com/us/place/europe
 
 ## Recent changes
 
-### Ticking time bomb? Europe's aging population brings challenges
-
-The population of the 27-nation European Union will peak in 2029 before falling in the coming decades, according to a report published Tuesday that spotlights the major challenges the bloc faces from an aging population.
-
-Date: 2026-07-14
-
 ### Europe, Flexing Muscle in Ukraine, Is Still on Sidelines in Iran
 
 In a show of collective strength, President Emmanuel Macron of France hosted European allies at the annual Bastille Day parade in Paris. Yet Europe is still a hostage to America’s foreign policy.
+
+Date: 2026-07-14
+
+### Ticking time bomb? Europe's aging population brings challenges
+
+The population of the 27-nation European Union will peak in 2029 before falling in the coming decades, according to a report published Tuesday that spotlights the major challenges the bloc faces from an aging population.
 
 Date: 2026-07-14
 
@@ -70,4 +70,4 @@ Date: 2026-07-09
 
 ## Sources
 
-- [Ticking time bomb? Europe's aging population brings challenges](https://phys.org/news/2026-07-europe-aging-population.html?utm_source=lootura.com) — 2026-07-14T16:40:02.000Z
+- [Europe, Flexing Muscle in Ukraine, Is Still on Sidelines in Iran](https://www.nytimes.com/2026/07/14/world/europe/macron-trump-bastille-day-military-parade.html?utm_source=lootura.com) — 2026-07-14T19:17:56.000Z

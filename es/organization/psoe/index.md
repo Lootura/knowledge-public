@@ -3,7 +3,7 @@
 > Sigue la actividad de Partido Socialista Obrero Español en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-14T17:12:02.446Z
+- Actualizado: 2026-07-14T20:58:20.799Z
 - Canonical: https://atlas.lootura.com/es/organization/psoe
 
 ## Cambios recientes
@@ -11,6 +11,12 @@
 ### El juez Pedraz cita a declarar como imputada el 9 de septiembre a la gerente del PSOE por el caso de las cloacas de Ferraz
 
 Ese mismo día también ha sido citado a declarar el abogado Ismael Oliver Leer.
+
+Date: 2026-07-14
+
+### El Congreso da un paso más para eliminar los delitos de las injurias al rey o de ofensa a los sentimientos religiosos
+
+La mayoría de la Cámara Baja tumba las enmiendas a la totalidad de PP y Vox a una norma impulsada por PSOE y Sumar que también plantea despenalizar las calumnias e injurias a las altas instituciones del Estado PSOE y Sumar reactivan la despenalización de las ofensas a los sentimientos religiosos y a la Corona La mayorí.
 
 Date: 2026-07-14
 
@@ -62,14 +68,7 @@ José Aníbal Álvarez, el primer abogado del exministro de Transportes José Lu
 
 Date: 2026-07-13
 
-### Quién es Juan Manuel Serrano: así es la discreta vida personal del expresidente de Correos junto a su mujer, Isaura Leal (PSOE)
-
-La reciente imputación del expresidente de Correos, Juan Manuel Serrano Quintana, en la investigación sobre las denominadas «cloacas del PSOE» ha vuelto a.
-
-Date: 2026-07-13
-
 ## Fuentes
 
-- [La UCO confirma que el PSOE pagó 43.225 euros a Leire a través de Zarrías y del exabogado de Koldo](https://www.abc.es/espana/uco-confirma-psoe-pago-43225-euros-leire-20260714113453-nt.html?utm_source=lootura.com) — 2026-07-14T16:25:40.000Z
 - [El juez Pedraz cita a declarar como imputada el 9 de septiembre a la gerente del PSOE por el caso de las cloacas de Ferraz](https://www.elmundo.es/espana/2026/07/14/6a55f484fc6c832a5b8b4577.html?utm_source=lootura.com) — 2026-07-14T09:25:43.000Z
-- [La abogada de Koldo niega que el PSOE pagase su defensa y la relación con el partido](https://theobjective.com/espana/tribunales/2026-07-14/abogada-koldo-niega-psoe-pagase-defensa-relacion-partido/?utm_source=lootura.com) — 2026-07-14T12:36:58.000Z
+- [El Congreso da un paso más para eliminar los delitos de las injurias al rey o de ofensa a los sentimientos religiosos](https://www.eldiario.es/politica/congreso-da-paso-eliminar-delitos-injurias-rey-ofensa-sentimientos-religiosos_1_13380526.html?utm_source=lootura.com) — 2026-07-14T18:07:19.000Z

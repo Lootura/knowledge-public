@@ -3,10 +3,22 @@
 > Sigue la actividad de Madrid en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-14T17:12:02.446Z
+- Actualizado: 2026-07-14T20:58:20.799Z
 - Canonical: https://atlas.lootura.com/es/place/madrid
 
 ## Cambios recientes
+
+### Madrid Río explota con el tanto de Oyarzabal: miles de aficionados lo celebran
+
+Varias capitales españolas han dispuesto pantallas gigantes para ver el partido de la selección española. En Madrid, dos escenarios diferentes están concentrando a miles de aficionados de La Roj a: Colón y Madrid Río. En este segundo escenario, a orillas de Manzanares y bajo un sol de justicia, el partido se está vivie.
+
+Date: 2026-07-14
+
+### Madrid: rescatan a 7 personas en el incendio de un piso en Canillas
+
+Bomberos del Ayuntamiento de Madrid han rescatado este martes a siete vecinos del interior de un edificio del barrio de Canillas, en el distrito de Hortaleza, donde se ha originado un incendio en una vivienda a causa del cual ha sido necesario atender a 17 personas por intoxicación leve de humo, siete de las cuales han.
+
+Date: 2026-07-14
 
 ### El enigma Victoria Abril: España no supo qué hacer con la mejor actriz de su generación
 
@@ -56,18 +68,7 @@ La revista Forbes sitúa 13 hospitales de la Comunidad de Madrid en su lista anu
 
 Date: 2026-07-14
 
-### El centro de Madrid estará cortado durante hoy y mañana en estas zonas muy concurridas: las calles afectadas
-
-La capital afronta dos jornadas con importantes alteraciones en la circulación por varias convocatorias que obligarán a desviar el tráfico en algunos de los principales ejes.
-
-Date: 2026-07-14
-
-### Madrid: en estado grave un hombre tras sufrir un golpe de calor en plena calle
-
-Samur-Protección Civil ha atendido este lunes a un hombre de 46 años que presentaba una patología grave por golpe de calor en la calle Illescas de Madrid. Según informa Emergencias Madrid, el hombre presentaba una temperatura de 41 grados y un bajo nivel de consciencia. A su llegada, la unidad avanzada ha procedido a s.
-
-Date: 2026-07-14
-
 ## Fuentes
 
-- [El enigma Victoria Abril: España no supo qué hacer con la mejor actriz de su generación](https://elpais.com/icon/2026-07-14/el-enigma-victoria-abril-por-que-espana-no-supo-que-hacer-con-la-mejor-actriz-de-su-generacion.html?utm_source=lootura.com) — 2026-07-14T03:30:01.000Z
+- [Madrid Río explota con el tanto de Oyarzabal: miles de aficionados lo celebran](https://www.20minutos.es/deportes/futbol/madrid-rio-explota-con-tanto-oyarzabal_7014679_0.html?utm_source=lootura.com) — 2026-07-14T19:37:12.000Z
+- [Madrid: rescatan a 7 personas en el incendio de un piso en Canillas](https://www.larazon.es/madrid/madrid-rescatan-7-personas-incendio-piso-canillas_202607146a569c35772f745d2c49206c.html?utm_source=lootura.com) — 2026-07-14T20:29:43.000Z

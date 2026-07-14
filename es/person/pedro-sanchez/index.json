@@ -8,16 +8,11 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/pedro-sanchez/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/pedro-sanchez/index.json",
   "description": "Sigue la actividad de Pedro Sánchez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-14T17:12:02.446Z",
+  "updatedAt": "2026-07-14T20:58:20.799Z",
   "aliases": [
     "Sánchez"
   ],
   "changes": [
-    {
-      "title": "El hermano de Sánchez y Gallardo, condenados a nueve y 18 años de inhabilitación por prevaricación",
-      "summary": "Un mes después de que el juicio quedase visto para sentencia, la Audiencia Provincial de Badajoz ha condenado este lunes a David Sánchez Pérez-Castejón, hermano del presidente del Gobierno, y al expresidente de la Diputación pacense Miguel Ángel Gallardo a nueve y 18 años, respectivamente, de inhabilitación por prevari.",
-      "date": "2026-07-14"
-    },
     {
       "title": "El PP califica de \"histórica\" la condena del hermano de Sánchez: \"Nadie está por encima de la ley\"",
       "summary": "Feijóo celebra que el Estado de Derecho funcione en España para todos, \"sean de la familia que sean\" Leer.",
@@ -31,16 +26,6 @@
     {
       "title": "Las “dudas” del tribunal sobre la contratación de David Sánchez: sin tráfico de influencias ni presiones acreditadas",
       "summary": "La Audiencia Provincial de Badajoz considera probado que el expresidente de la Diputación, Miguel Ángel Gallardo, y otras ocho personas prevaricaron para crear un puesto a la medida del hermano de Pedro Sánchez, David Sánchez, condenado por el mismo delito, pero los jueces admiten que no se ha conseguido probar quién r.",
-      "date": "2026-07-14"
-    },
-    {
-      "title": "Claves de una condena extraña a David Sánchez: inhabilitado por prevaricación sin pruebas sólidas de tráfico de influencias",
-      "summary": "La Audiencia Provincial de Badajoz castiga al hermano del presidente por un “espurio” trato de favor pero sin presiones de nadie La Justicia condena al hermano de Pedro Sánchez a nueve años de inhabilitación por prevaricar pero le absuelve de tráfico de influencias Documento - Consulta íntegra la sentencia del caso de.",
-      "date": "2026-07-14"
-    },
-    {
-      "title": "El Gobierno espera que se absuelva a David Sánchez en «instancias superiores»",
-      "summary": "El Gobierno de España espera que «instancias superiores» a la Audiencia de Bajadoz, que ha condenado a nueve años de inhabilitación a David Sánchez , hermano del presidente del Gobierno, constaten su «inocencia» cuando se resuelva el recurso a la sentencia. Así lo ha manifestado la ministra portavoz del Gobierno, Elma.",
       "date": "2026-07-14"
     },
     {
@@ -62,19 +47,46 @@
       "title": "Claves de una sentencia inédita: un trabajo “a medida” sin prueba de presiones externas",
       "summary": "La Audiencia Provincial de Badajoz ha dictado la primera sentencia sobre un familiar directo del presidente del Gobierno. Y es condenatoria: nueve años de inhabilitación para David Sánchez, hermano de Pedro Sánchez, como cooperador necesario de un delito de prevaricación administrativa por obtener el puesto de jefe de.",
       "date": "2026-07-14"
+    },
+    {
+      "title": "Sánchez se disculpa ante el primer ministro francés por Rajoy: «Estoy muy avergonzado»",
+      "summary": "se ha disculpado este martes ante las autoridades francesas por las polémicas palabras del expresidente del Gobierno Mariano Rajoy sobre la selección de Francia. « Lo siento mucho por las palabras de nuestro expresidente. Estoy muy avergonzado », les ha trasladado el jefe del Ejecutivo durante los actos c.",
+      "date": "2026-07-14"
+    },
+    {
+      "title": "La defensa de David Sánchez recurrirá la sentencia de la Audiencia de Badajoz",
+      "summary": "La defensa de David Sánchez, hermano del presidente del Gobierno, recurrirá la sentencia de la Audiencia de Badajoz que condena a este a nueve años de.",
+      "date": "2026-07-14"
+    },
+    {
+      "title": "La ruina política de Pedro Sánchez",
+      "summary": "Los magistrados de la Audiencia Provincial de Badajoz que, por unanimidad, han condenado a nueve años de inhabilitación al hermano de Pedro Sánchez, como cooperador necesario de un delito de prevaricación, han descrito con claridad lo que sucedió en la Diputación provincial pacense: que una red de prevaricadores colocó.",
+      "date": "2026-07-14"
     }
   ],
   "sources": [
     {
-      "title": "El hermano de Sánchez y Gallardo, condenados a nueve y 18 años de inhabilitación por prevaricación",
-      "url": "https://www.abc.es/espana/extremadura/hermano-sanchez-gallardo-condenados-prevariacion-20260714122527-nt.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-14T16:18:09.000Z",
+      "title": "La ruina política de Pedro Sánchez",
+      "url": "https://www.abc.es/opinion/editorial-ruina-politica-pedro-sanchez-20260714192549-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-14T19:18:10.000Z",
       "sourceId": "lootura-es-abc"
+    },
+    {
+      "title": "El PP augura un calvario largo para Pedro Sánchez: \"Les queda lo peor\"",
+      "url": "https://www.elmundo.es/espana/2026/07/14/6a566e14e85ece461a8b4597.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-14T17:47:00.000Z",
+      "sourceId": "lootura-es-el-mundo"
     },
     {
       "title": "El PP califica de \"histórica\" la condena del hermano de Sánchez: \"Nadie está por encima de la ley\"",
       "url": "https://www.elmundo.es/espana/2026/07/14/6a5621e6e85ece9a268b457b.html?utm_source=lootura.com",
       "publishedAt": "2026-07-14T11:58:30.000Z",
+      "sourceId": "lootura-es-el-mundo"
+    },
+    {
+      "title": "La condena al hermano de Sánchez, un aval a la juez Biedma y a la investigación de la UCO",
+      "url": "https://amp.elmundo.es/espana/2026/07/14/6a566535e9cf4aae3c8b4586.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-14T18:52:50.000Z",
       "sourceId": "lootura-es-el-mundo"
     },
     {
@@ -112,18 +124,6 @@
       "url": "https://elpais.com/espana/2026-07-14/las-dudas-del-tribunal-sobre-la-contratacion-de-david-sanchez-sin-trafico-de-influencias-ni-presiones-acreditadas.html?utm_source=lootura.com",
       "publishedAt": "2026-07-14T13:15:01.000Z",
       "sourceId": "lootura-es-el-pais"
-    },
-    {
-      "title": "Claves de una condena extraña a David Sánchez: inhabilitado por prevaricación sin pruebas sólidas de tráfico de influencias",
-      "url": "https://www.eldiario.es/politica/claves-condena-extrana-david-sanchez-inhabilitado-prevaricacion-pruebas-solidas-trafico-influencias_129_13379318.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-14T11:55:52.000Z",
-      "sourceId": "lootura-es-eldiario-es"
-    },
-    {
-      "title": "España contra la Legión Extranjera",
-      "url": "https://okdiario.com/opinion/espana-contra-legion-extranjera-18993135?utm_source=lootura.com",
-      "publishedAt": "2026-07-14T17:00:39.000Z",
-      "sourceId": "lootura-es-ok-diario"
     }
   ],
   "evidenceCount": 13

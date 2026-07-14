@@ -3,7 +3,7 @@
 > Sigue la actividad de Lamine Yamal en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-14T17:12:02.446Z
+- Actualizado: 2026-07-14T20:58:20.799Z
 - Canonical: https://atlas.lootura.com/es/person/lamine-yamal
 
 ## Cambios recientes
@@ -58,4 +58,4 @@ Date: 2026-07-08
 
 ## Fuentes
 
-- [Lamine Yamal, una cuestión de genios y de magos: “Es diferente al resto. Tiene algo especial”](https://elpais.com/deportes/mundial-futbol/2026-07-14/lamine-yamal-una-cuestion-de-genios-y-de-magos.html?utm_source=lootura.com) — 2026-07-14T03:30:01.000Z
+- [Francia - España, el partido de semifinales del Mundial 2026 en imágenes](https://elpais.com/deportes/mundial-futbol/2026-07-14/francia-espana-el-partido-de-semifinales-del-mundial-en-imagenes.html?utm_source=lootura.com) — 2026-07-14T19:52:39.000Z

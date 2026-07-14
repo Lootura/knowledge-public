@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/white-house/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/white-house/index.json",
   "description": "Follow White House, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-14T17:12:24.301Z",
+  "updatedAt": "2026-07-14T20:58:39.119Z",
   "aliases": [],
   "changes": [
     {
@@ -64,11 +64,11 @@
   ],
   "sources": [
     {
-      "title": "Trump says he will back off plan to toll ships in Strait of Hormuz",
-      "url": "https://www.nbcnews.com/now/video/trump-says-he-will-back-off-plan-to-toll-ships-in-strait-of-hormuz-266653253537?utm_source=lootura.com",
-      "publishedAt": "2026-07-14T16:38:39.000Z",
-      "sourceId": "lootura-us-nbc-news-politics"
+      "title": "Trump Says the FBI Would Be ‘Wasting Their Time’ Investigating Lindsey Graham’s Death",
+      "url": "https://time.com/article/2026/07/14/trump-lindsey-graham-death-conspiracy-theories-fbi/?utm_source=lootura.com",
+      "publishedAt": "2026-07-14T20:20:18.000Z",
+      "sourceId": "lootura-us-time"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 0
 }

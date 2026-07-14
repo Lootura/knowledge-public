@@ -8,11 +8,21 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/graham-platner/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/graham-platner/index.json",
   "description": "Follow Graham Platner, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-14T17:12:24.301Z",
+  "updatedAt": "2026-07-14T20:58:39.119Z",
   "aliases": [
     "Platner"
   ],
   "changes": [
+    {
+      "title": "ICE needs to be ‘dismantled’: Senate candidate Dan Kleban after ICE-involved shooting in Maine",
+      "summary": "Dan Kleban (D-Maine) joins Meet the Press NOW to discuss his run to replace Graham Platner in the Senate race. Kelban also reacts to the fatal ICE shooting in Maine.",
+      "date": "2026-07-14"
+    },
+    {
+      "title": "Maine Democrats will square off in Senate debate Thursday",
+      "summary": "Democrats vying to replace former Maine Senate nominee Graham Platner on the ballot are set to battle on the debate stage Thursday night. News Center Maine confirmed the debate, which will be held at 7 p.m. EDT in Portland and include three former gubernatorial hopefuls — Troy Jackson , Shenna Bellows and Nirav Shah —.",
+      "date": "2026-07-14"
+    },
     {
       "title": "Platner's voters are reeling as Maine Democratic Party races to choose his replacement",
       "summary": "generated enthusiasm in Maine with his progressive policies. Now he's out of the race, and his supporters have to decide what's next, as Maine Democrats prepare to choose a nominee. (Image credit: Tamara Keith/NPR).",
@@ -52,25 +62,21 @@
       "title": "Maine Democrats Will Replace Graham Platner. Here’s What to Know.",
       "summary": "Mr. Platner’s withdrawal from a marquee Senate race, under pressure from his party, has set in motion an unusual competition to become the new nominee.",
       "date": "2026-07-12"
-    },
-    {
-      "title": "Ro Khanna says he regrets his endorsement of Graham Platner: ‘I got that call wrong’",
-      "summary": "Rep. Ro Khanna (D-Calif.) joins Meet the Press for an exclusive interview after Graham Platner (D) exits the Maine Senate race amid a sexual assault allegation.",
-      "date": "2026-07-12"
-    },
-    {
-      "title": "Discovered by Atlas",
-      "summary": "Graham Platner first entered the public knowledge record with source-backed evidence.",
-      "date": "2026-07-11"
     }
   ],
   "sources": [
     {
-      "title": "Platner's voters are reeling as Maine Democratic Party races to choose his replacement",
-      "url": "https://www.npr.org/2026/07/14/nx-s1-5892502/platner-collins-maine-democratic-party-senate?utm_source=lootura.com",
-      "publishedAt": "2026-07-14T09:00:00.000Z",
-      "sourceId": "lootura-us-npr-politics"
+      "title": "ICE needs to be ‘dismantled’: Senate candidate Dan Kleban after ICE-involved shooting in Maine",
+      "url": "https://www.nbcnews.com/meet-the-press/video/ice-needs-to-be-dismantled-senate-candidate-dan-kleban-after-ice-involved-shooting-in-maine-266666565710?utm_source=lootura.com",
+      "publishedAt": "2026-07-14T20:35:29.000Z",
+      "sourceId": "lootura-us-nbc-news-politics"
+    },
+    {
+      "title": "Maine Democrats will square off in Senate debate Thursday",
+      "url": "https://www.politico.com/news/2026/07/14/maine-democrats-senate-debate-platner-00997107?utm_source=lootura.com",
+      "publishedAt": "2026-07-14T18:34:24.000Z",
+      "sourceId": "lootura-us-politico"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 2
 }

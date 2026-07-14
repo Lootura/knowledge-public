@@ -8,11 +8,16 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/belgium/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/belgium/index.json",
   "description": "Sigue la actividad de Bélgica en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-14T02:12:41.111Z",
+  "updatedAt": "2026-07-14T20:58:20.799Z",
   "aliases": [
     "Belgica"
   ],
   "changes": [
+    {
+      "title": "De la Fuente vuelve a apostar por Fabián en la semifinal ante Francia",
+      "summary": "Luis de la Fuente ha apostado por repetir el mismo once que batió a Bélgica en cuartos de final para medirse a la todopoderosa Francia en la semifinal de Dallas. Eso significa que en el centro del campo volverá a iniciar Fabián y Pedri estará en el banquillo. Seguir leyendo...",
+      "date": "2026-07-14"
+    },
     {
       "title": "El abogado de Puigdemont le aconseja no volver ya a España aunque el TJUE le dé la razón",
       "summary": "El abogado de Carles Puigdemont, Gonzalo Boye, recomienda al expresidente de la Generalitat que se quede en Waterloo (Bélgica) pese a que el próximo 16 de julio el Tribunal de Justicia de la Unión Europea (TJUE) le dé la razón en relación a la aplicación de la amnistía. Así lo explican fuentes cercanas a Puigdemont a A.",
@@ -57,13 +62,15 @@
       "title": "Eloy Olaya: «El gol de Iniesta nos liberó a todos de esa vitola de perdedores»",
       "summary": "El infausto protagonista del España-Bélgica de 1986 compara dos citas separadas por un abismo de 40 años: «Hoy habría sido muy duro para mí, en las redes sociales hay gente muy cruel».",
       "date": "2026-07-09"
-    },
-    {
-      "title": "Un revólver y seis balas: el inesperado regalo de Erdogan en la OTAN",
-      "summary": "Cuando el primer ministro de Bélgica, Bart de Wever, aterrizó en Bruselas tras finalizar la cumbre de la OTAN en Ankara (Turquía) el miércoles se dio cuenta de que, entre su equipaje, había una caja con un revólver y seis balas . Se trataba de un regalo del presidente turco, Recep Tayyip Erdogan, que no había sido dete.",
-      "date": "2026-07-09"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "De la Fuente vuelve a apostar por Fabián en la semifinal ante Francia",
+      "url": "https://www.lavanguardia.com/deportes/futbol/20260714/11592350/espana-francia-alineaciones-semifinal-mundial-2026.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-14T17:11:29.000Z",
+      "sourceId": "lootura-es-la-vanguardia"
+    }
+  ],
+  "evidenceCount": 1
 }

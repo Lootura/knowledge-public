@@ -8,9 +8,14 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/iran/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/iran/index.json",
   "description": "Sigue la actividad de Iran en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-14T17:12:02.446Z",
+  "updatedAt": "2026-07-14T20:58:20.799Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "EEUU restablece el bloqueo naval a Irán y lanza una nueva ola de bombardeos",
+      "summary": "Las Fuerzas Armadas estadounidenses reimpusieron este martes el bloqueo naval a Irán en el estrecho de Ormuz , además de lanzar una nueva ola de bombardeos, según anunció el Comando Central del Ejército de Estados Unidos (Centcom). El organismo, con sede en Florida, expuso en un comunicado que el Ejército estadounidens.",
+      "date": "2026-07-14"
+    },
     {
       "title": "La inflación en Estados Unidos registró en junio el primer descenso mensual desde 2020",
       "summary": "La inflación en Estados Unidos se moderó en junio, coincidiendo con el alto el fuego con Irán y la reapertura del estrecho de Ormuz. El índice de precios al consumo (IPC) se moderó hasta el 3,5% en junio, siete décimas menos que el 4,2% registrado en mayo, según el dato difundido este martes por la Oficina de Estadísti.",
@@ -55,19 +60,14 @@
       "title": "El petróleo se dispara tras anunciar Trump un bloqueo a Irán y un peaje de EE UU en Ormuz",
       "summary": "Donald Trump ha anunciado al final de la tarde de este lunes que la Marina estadounidense volverá a bloquear el traspaso de embarcaciones iraníes por el estrecho de Ormuz y que además cobrará un peaje del 20% de la carga a cada barco que cruce el paso. El presidente estadounidense no ha detallado cómo aplicará este tri.",
       "date": "2026-07-13"
-    },
-    {
-      "title": "El Ibex cierra en rojo ante las nuevas tensiones entre EEUU e Irán",
-      "summary": "La escalada en el conflicto entre Irán y EEUU vuelve a elevar el precio del petróleo. Con el Brent al filo de nuevo de los 80 dólares, los inversores dan un paso atrás en Bolsa. El Ibex no es una excepción, y repite las caídas predominantes la semana pasada.",
-      "date": "2026-07-13"
     }
   ],
   "sources": [
     {
-      "title": "La inflación en Estados Unidos registró en junio el primer descenso mensual desde 2020",
-      "url": "https://elpais.com/economia/2026-07-14/la-inflacion-en-estados-unidos-registro-en-junio-el-primer-descenso-mensual-desde-2020.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-14T13:21:48.000Z",
-      "sourceId": "lootura-es-cinco-dias"
+      "title": "EEUU restablece el bloqueo naval a Irán y lanza una nueva ola de bombardeos",
+      "url": "https://theobjective.com/internacional/2026-07-14/eeuu-bloqueo-naval-bombardeo-iran/?utm_source=lootura.com",
+      "publishedAt": "2026-07-14T20:40:14.000Z",
+      "sourceId": "lootura-es-the-objective"
     }
   ],
   "evidenceCount": 1

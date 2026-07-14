@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/supreme-court/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/supreme-court/index.json",
   "description": "Follow Supreme Court, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-14T17:12:24.301Z",
+  "updatedAt": "2026-07-14T20:58:39.119Z",
   "aliases": [
     "U.S. Supreme Court"
   ],
@@ -19,13 +19,18 @@
       "date": "2026-07-14"
     },
     {
-      "title": "Barrett testifies about swatting incident and threatening packages at hearing",
-      "summary": "During a hearing on the Supreme Court's budget, Justice Amy Coney Barrett shared the security threats she and her family have faced, including a swatting incident and threatening packages sent to her home.",
+      "title": "Justice Kagan Tells House Panel That ‘Threats Have Come Very Close’",
+      "summary": "In her prepared remarks, Justice Elena Kagan said the Supreme Court Police estimated a 38 percent increase in threats this year.",
       "date": "2026-07-14"
     },
     {
-      "title": "Justice Kagan Tells House Panel That ‘Threats Have Come Very Close’",
-      "summary": "In her prepared remarks, Justice Elena Kagan said the Supreme Court Police estimated a 38 percent increase in threats this year.",
+      "title": "Takeaways From Justices Kagan and Barrett’s Congressional Testimony on Supreme Court Security",
+      "summary": "Elena Kagan and Amy Coney Barrett, the first Supreme Court justices to testify since 2019, talked about ethics and security threats during a collegial hearing.",
+      "date": "2026-07-14"
+    },
+    {
+      "title": "Barrett testifies about swatting incident and threatening packages at hearing",
+      "summary": "During a hearing on the Supreme Court's budget, Justice Amy Coney Barrett shared the security threats she and her family have faced, including a swatting incident and threatening packages sent to her home.",
       "date": "2026-07-14"
     },
     {
@@ -57,19 +62,14 @@
       "title": "Trump Says He’ll Ask Supreme Court to Rehear Citizenship Case, an Unlikely Event",
       "summary": "The last time the justices granted a rehearing request after a case decision was in 1965. The court has only once reversed itself after rehearing a case.",
       "date": "2026-07-09"
-    },
-    {
-      "title": "1 year after Supreme Court limited broad injunctions, groups see shifting landscape",
-      "summary": "More than one year after the Supreme Court restricted the use of nationwide injunctions, groups challenging President Trump's agenda have relied on other mechanisms to broadly block his policies.",
-      "date": "2026-07-09"
     }
   ],
   "sources": [
     {
-      "title": "Barrett testifies about swatting incident and threatening packages at hearing",
-      "url": "https://www.nbcnews.com/video/justice-barrett-shares-stories-of-security-threats-her-family-has-faced-266649669522?utm_source=lootura.com",
-      "publishedAt": "2026-07-14T15:05:14.000Z",
-      "sourceId": "lootura-us-nbc-news-politics"
+      "title": "Takeaways From Justices Kagan and Barrett’s Congressional Testimony on Supreme Court Security",
+      "url": "https://www.nytimes.com/2026/07/14/us/politics/supreme-court-congress-takeaways.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-14T18:41:03.000Z",
+      "sourceId": "lootura-us-the-new-york-times"
     },
     {
       "title": "Why Supreme Court Justices Are Asking for More Security",

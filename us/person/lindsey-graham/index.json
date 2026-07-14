@@ -8,14 +8,9 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/lindsey-graham/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/lindsey-graham/index.json",
   "description": "Follow Lindsey Graham, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-14T17:12:24.301Z",
+  "updatedAt": "2026-07-14T20:58:39.119Z",
   "aliases": [],
   "changes": [
-    {
-      "title": "Who could replace Lindsey Graham in the Senate after his sudden death?",
-      "summary": "South Carolina Sen. Lindsey Graham's sudden death late Saturday has set off a scramble for who will succeed him in the Senate.",
-      "date": "2026-07-14"
-    },
     {
       "title": "South Carolina's governor appoints Lindsey Graham's sister to serve out his term",
       "summary": "South Carolina Gov. Henry McMaster says he is appointing Darline Graham to finish the term of her late brother, former Republican Sen. Lindsey Graham, who died in office Saturday at age 71.",
@@ -24,6 +19,31 @@
     {
       "title": "Trump says he doesn't see a lot of \"evil\" in Lindsey Graham's death when asked about FBI probe",
       "summary": "President Trump took questions in the Oval Office and commented on an apparent FBI probe into Lindsey Graham's death, saying he doesn't see a lot of \"evil\" behind the sudden incident.",
+      "date": "2026-07-14"
+    },
+    {
+      "title": "Darline Graham is sworn in as senator to fill her brother Lindsey Graham’s seat",
+      "summary": "Darline Graham was sworn in Tuesday afternoon to fill the seat of her older brother, Sen. Lindsey Graham, R-S.C., three days after he died unexpectedly.",
+      "date": "2026-07-14"
+    },
+    {
+      "title": "Lindsey Graham's sister sworn in to Senate to fill his seat",
+      "summary": "Sen. Darline Graham was sworn in to fill the vacant seat of her brother, Sen. Lindsey Graham, after he died unexpectedly.",
+      "date": "2026-07-14"
+    },
+    {
+      "title": "Darline Graham sworn in as senator after her brother's death",
+      "summary": "Darline Graham, the sister of the late South Carolina Sen. Lindsey Graham, was sworn in by the Senate on Tuesday afternoon — filling the seat just three days after her brother's death.",
+      "date": "2026-07-14"
+    },
+    {
+      "title": "Darline Graham, sister of Lindsey Graham, sworn in to fulfill his Senate term",
+      "summary": "Lindsey Graham’s younger sister appointed by South Carolina’s governor three days after senator’s death Darline Graham Nordone: Lindsey Graham’s sister and interim US senator Darline Graham, the sister of the late Republican senator Lindsey Graham, was sworn in to temporarily fill his Senate seat on Tuesday, just three.",
+      "date": "2026-07-14"
+    },
+    {
+      "title": "Who could replace Lindsey Graham in the Senate after his sudden death?",
+      "summary": "South Carolina Sen. Lindsey Graham's sudden death late Saturday has set off a scramble for who will succeed him in the Senate.",
       "date": "2026-07-14"
     },
     {
@@ -40,26 +60,6 @@
       "title": "Lindsey Graham’s Sister Appointed to Finish His Senate Term After Trump’s Backing",
       "summary": "Gov. Henry McMaster of South Carolina named Darline Graham Nordone to replace Mr. Graham, who died on Saturday.",
       "date": "2026-07-13"
-    },
-    {
-      "title": "How Lindsey Graham tried to stay 'relevant'",
-      "summary": "NPR's Scott Detrow speaks with Mark Leibovich, staff writer for The Atlantic , about the trajectory of late Sen. Lindsey Graham as he tried to maintain relevance within his Republican Party.",
-      "date": "2026-07-13"
-    },
-    {
-      "title": "On foreign policy, Graham's influence may have been felt the most",
-      "summary": "Over the course of his three decades in Congress, Lindsey Graham was a major influence on Capitol Hill and throughout the world as one of the most vocal advocates for U.S. military might.",
-      "date": "2026-07-13"
-    },
-    {
-      "title": "S.C. Gov McMaster appoints Darline Graham Nordone to fill Sen. Lindsey Graham's seat",
-      "summary": "South Carolina Governor Henry McMaster appoints Darline Graham Nordone, Sen. Lindsey Graham's younger sister, to serve the remainder of the late Republican senator's term, which ends early January 2027.",
-      "date": "2026-07-13"
-    },
-    {
-      "title": "Tamara Keith and Amy Walter on Lindsey Graham's passing",
-      "summary": "NPR's Tamara Keith and Amy Walter of the Cook Political Report with Amy Walter join Geoff Bennett to discuss the latest political news, including what the passing of Sen. Lindsey Graham means for South Carolina and the Senate, Sen. Mitch McConnell's health and Democrats scrambling to replace Graham Platner in the Maine.",
-      "date": "2026-07-13"
     }
   ],
   "sources": [
@@ -70,10 +70,16 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "Who could replace Lindsey Graham in the Senate after his sudden death?",
-      "url": "https://www.cbsnews.com/news/lindsey-graham-replacement/?utm_source=lootura.com",
-      "publishedAt": "2026-07-14T06:26:51.000Z",
-      "sourceId": "lootura-us-cbs-news"
+      "title": "Darline Graham is sworn in as senator to fill her brother Lindsey Graham’s seat",
+      "url": "https://www.nbcnews.com/politics/congress/darline-graham-sworn-senator-fill-brother-lindsey-grahams-seat-rcna587457?utm_source=lootura.com",
+      "publishedAt": "2026-07-14T19:01:03.000Z",
+      "sourceId": "lootura-us-nbc-news-politics"
+    },
+    {
+      "title": "Lindsey Graham's sister sworn in to Senate to fill his seat",
+      "url": "https://www.nbcnews.com/now/video/lindsey-graham-s-sister-sworn-in-to-senate-to-fill-his-seat-266662469889?utm_source=lootura.com",
+      "publishedAt": "2026-07-14T19:24:49.000Z",
+      "sourceId": "lootura-us-nbc-news-politics"
     },
     {
       "title": "South Carolina's governor appoints Lindsey Graham's sister to serve out his term",
@@ -82,11 +88,23 @@
       "sourceId": "lootura-us-npr-politics"
     },
     {
+      "title": "WATCH: Darline Graham sworn in as senator after her brother's death",
+      "url": "https://www.pbs.org/newshour/politics/watch-darline-graham-sworn-in-as-senator-after-her-brothers-death?utm_source=lootura.com",
+      "publishedAt": "2026-07-14T19:10:45.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
+    },
+    {
+      "title": "Darline Graham, sister of Lindsey Graham, sworn in to fulfill his Senate term",
+      "url": "https://www.theguardian.com/us-news/2026/jul/14/darline-graham-nordone-south-carolina-senator?utm_source=lootura.com",
+      "publishedAt": "2026-07-14T20:35:20.000Z",
+      "sourceId": "lootura-us-the-guardian-us"
+    },
+    {
       "title": "Lindsey Graham’s Sister Appointed to Finish His Senate Term After Trump’s Backing",
       "url": "https://www.nytimes.com/2026/07/13/us/politics/trump-graham-sister-south-carolina-senate.html?utm_source=lootura.com",
       "publishedAt": "2026-07-13T23:27:44.000Z",
       "sourceId": "lootura-us-the-new-york-times"
     }
   ],
-  "evidenceCount": 4
+  "evidenceCount": 7
 }

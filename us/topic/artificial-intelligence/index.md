@@ -3,7 +3,7 @@
 > Follow Artificial intelligence, a tracked topic, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: topic
-- Updated: 2026-07-14T17:12:24.301Z
+- Updated: 2026-07-14T20:58:39.119Z
 - Canonical: https://atlas.lootura.com/us/topic/artificial-intelligence
 
 ## Recent changes
@@ -11,6 +11,18 @@
 ### Does AI work for us, or do we work for AI?
 
 Science, Volume 393, Issue 6807 , Page 152-152, July 2026.
+
+Date: 2026-07-14
+
+### How do young people feel about AI? 7 teens weigh in
+
+What's it like to grow up and learn in the age of AI? NPR put that question to seven teenagers across the country.
+
+Date: 2026-07-14
+
+### SpaceXAI’s Grok programming tool was uploading its users’ entire codebase to cloud storage
+
+SpaceXAI's Grok Build AI coding tool was spotted uploading users' entire codebases to Google Cloud before it was reported, and the company turned it off. The Register reports that Cereblab published findings on Monday showing how the Grok Build CLI was packaging and uploading entire code repositories, "including files.
 
 Date: 2026-07-14
 
@@ -56,20 +68,8 @@ Almost all gaming laptops have gone up in price over the past year. Curiously, t
 
 Date: 2026-07-13
 
-### Even Nvidia’s head of automotive fights with Nvidia for compute
-
-Today, I’m talking with Xinzhou Wu, who is the head of automotive at Nvidia. Nvidia is obviously in the news constantly because of the AI boom — it’s one of the most valuable companies in the world, because the AI industry can’t get enough of the company’s GPUs. But Nvidia is also a key supplier to the auto industry. I.
-
-Date: 2026-07-13
-
-### Which ‘AI scientist’ suits your lab? A guide for the perplexed
-
-Nature, Published online: 10 July 2026; doi:10.1038/d41586-026-02091-6 General purpose AI tools for science, such as Claude Science, promise to accelerate research. But which is right for you?
-
-Date: 2026-07-13
-
 ## Sources
 
-- [How I Turned AI to the Dark Side](https://spectrum.ieee.org/jailbreaking-llms?utm_source=lootura.com) — 2026-07-14T15:59:35.000Z
-- [Does AI work for us, or do we work for AI?](https://www.science.org/doi/abs/10.1126/science.aei9754?af=R&utm_source=lootura.com) — 2026-07-14T17:12:29.648Z
-- [Spotify is now an AI chatbot, too](https://www.theverge.com/entertainment/965358/spotify-ai-chatbot-interface-music-audiobooks-podcasts?utm_source=lootura.com) — 2026-07-14T15:47:36.000Z
+- [How do young people feel about AI? 7 teens weigh in](https://www.npr.org/2026/07/14/nx-s1-5863025/teens-artificial-intelligence-ai-school?utm_source=lootura.com) — 2026-07-14T20:00:00.000Z
+- [Does AI work for us, or do we work for AI?](https://www.science.org/doi/abs/10.1126/science.aei9754?af=R&utm_source=lootura.com) — 2026-07-14T20:58:43.196Z
+- [SpaceXAI’s Grok programming tool was uploading its users’ entire codebase to cloud storage](https://www.theverge.com/ai-artificial-intelligence/965600/spacexai-grok-build-repository-upload?utm_source=lootura.com) — 2026-07-14T19:25:00.000Z

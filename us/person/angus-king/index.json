@@ -1,0 +1,40 @@
+{
+  "id": "usa-angus-king",
+  "name": "Angus King",
+  "type": "person",
+  "locale": "en",
+  "canonicalPath": "/us/person/angus-king",
+  "canonicalUrl": "https://atlas.lootura.com/us/person/angus-king",
+  "markdownUrl": "https://atlas.lootura.com/us/person/angus-king/index.md",
+  "jsonUrl": "https://atlas.lootura.com/us/person/angus-king/index.json",
+  "description": "Follow Angus King, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
+  "updatedAt": "2026-07-14T20:58:39.119Z",
+  "aliases": [],
+  "changes": [
+    {
+      "title": "In the aftermath of deadly shootings, ICE pauses most traffic stops",
+      "summary": "U.S. Immigration and Customs Enforcement will pause non-urgent vehicle stops after two deadly shootings in less than a week, Maine U.S. Sen. Angus King's office tells NPR. (Image credit: Joseph Prezioso).",
+      "date": "2026-07-14"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Angus King first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-07-14"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Man fatally shot by ICE in Maine was not intended target of warrant, lawmakers say",
+      "url": "https://www.cbsnews.com/news/maine-shooting-ice-biddeford/?utm_source=lootura.com",
+      "publishedAt": "2026-07-14T19:59:27.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
+    {
+      "title": "In the aftermath of deadly shootings, ICE pauses most traffic stops",
+      "url": "https://www.npr.org/2026/07/14/nx-s1-5893456/ice-vehicle-biddeford-houston?utm_source=lootura.com",
+      "publishedAt": "2026-07-14T19:54:53.000Z",
+      "sourceId": "lootura-us-npr-politics"
+    }
+  ],
+  "evidenceCount": 2
+}

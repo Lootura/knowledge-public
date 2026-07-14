@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/democratic-party/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/democratic-party/index.json",
   "description": "Follow Democratic Party, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-14T17:12:24.301Z",
+  "updatedAt": "2026-07-14T20:58:39.119Z",
   "aliases": [
     "Democrats"
   ],
@@ -19,11 +19,6 @@
       "date": "2026-07-14"
     },
     {
-      "title": "Platner's voters are reeling as Maine Democratic Party races to choose his replacement",
-      "summary": "Graham Platner generated enthusiasm in Maine with his progressive policies. Now he's out of the race, and his supporters have to decide what's next, as Maine Democrats prepare to choose a nominee. (Image credit: Tamara Keith/NPR).",
-      "date": "2026-07-14"
-    },
-    {
       "title": "Red State, Blue Governor: It Could Happen in Iowa. Would It Matter?",
       "summary": "Democrats have real hope for candidates for governor in red states like Iowa and Ohio, but if Republicans seize supermajorities in the legislatures, their power would be limited.",
       "date": "2026-07-14"
@@ -31,6 +26,21 @@
     {
       "title": "Can Democrats Win Rural Voters Turning Away From Trump? It’s a Tough Sell.",
       "summary": "House candidates like Beth Macy, author of “Dopesick,” have crafted messages based on lifetimes in rural regions. But messages need an audience, and many minds are closed to the party.",
+      "date": "2026-07-14"
+    },
+    {
+      "title": "Maine Democrats will square off in Senate debate Thursday",
+      "summary": "Democrats vying to replace former Maine Senate nominee Graham Platner on the ballot are set to battle on the debate stage Thursday night. News Center Maine confirmed the debate, which will be held at 7 p.m. EDT in Portland and include three former gubernatorial hopefuls — Troy Jackson , Shenna Bellows and Nirav Shah —.",
+      "date": "2026-07-14"
+    },
+    {
+      "title": "Senate Democrats Block Defense Bill Over War in Iran",
+      "summary": "The vote reflected how the political debate over the conflict in the Middle East has sapped bipartisan support for a normally popular measure.",
+      "date": "2026-07-14"
+    },
+    {
+      "title": "Platner's voters are reeling as Maine Democratic Party races to choose his replacement",
+      "summary": "Graham Platner generated enthusiasm in Maine with his progressive policies. Now he's out of the race, and his supporters have to decide what's next, as Maine Democrats prepare to choose a nominee. (Image credit: Tamara Keith/NPR).",
       "date": "2026-07-14"
     },
     {
@@ -52,16 +62,6 @@
       "title": "Midwest becomes next theater in Democrats' progressive vs. moderate fight",
       "summary": "August primaries in Michigan, Wisconsin and Minnesota will be another gauge of Democratic voters' frustration with the establishment.",
       "date": "2026-07-13"
-    },
-    {
-      "title": "Tributes pour in for Lindsey Graham after his death stuns D.C.",
-      "summary": "Tributes poured in for Sen. Lindsey Graham from Democrats, Republicans, former U.S. presidents and world leaders after his death stunned Capitol Hill. CBS News' Caitlin Huey-Burns has more.",
-      "date": "2026-07-13"
-    },
-    {
-      "title": "Maine Democrats scramble to select replacement for Platner in Senate race",
-      "summary": "Maine Democrats now have a process for choosing a replacement for Senate candidate Graham Platner. But voters are still reeling from his fall.",
-      "date": "2026-07-13"
     }
   ],
   "sources": [
@@ -72,10 +72,16 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "Platner's voters are reeling as Maine Democratic Party races to choose his replacement",
-      "url": "https://www.npr.org/2026/07/14/nx-s1-5892502/platner-collins-maine-democratic-party-senate?utm_source=lootura.com",
-      "publishedAt": "2026-07-14T09:00:00.000Z",
-      "sourceId": "lootura-us-npr-politics"
+      "title": "Maine Democrats will square off in Senate debate Thursday",
+      "url": "https://www.politico.com/news/2026/07/14/maine-democrats-senate-debate-platner-00997107?utm_source=lootura.com",
+      "publishedAt": "2026-07-14T18:34:24.000Z",
+      "sourceId": "lootura-us-politico"
+    },
+    {
+      "title": "Senate Democrats Block Defense Bill Over War in Iran",
+      "url": "https://www.nytimes.com/2026/07/14/us/politics/senate-democrats-defense-bill.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-14T19:43:54.000Z",
+      "sourceId": "lootura-us-the-new-york-times"
     },
     {
       "title": "Can Democrats Win Rural Voters Turning Away From Trump? It’s a Tough Sell.",
@@ -90,5 +96,5 @@
       "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 4
+  "evidenceCount": 5
 }

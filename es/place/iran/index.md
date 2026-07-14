@@ -3,10 +3,16 @@
 > Sigue la actividad de Iran en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-14T17:12:02.446Z
+- Actualizado: 2026-07-14T20:58:20.799Z
 - Canonical: https://atlas.lootura.com/es/place/iran
 
 ## Cambios recientes
+
+### EEUU restablece el bloqueo naval a Irán y lanza una nueva ola de bombardeos
+
+Las Fuerzas Armadas estadounidenses reimpusieron este martes el bloqueo naval a Irán en el estrecho de Ormuz , además de lanzar una nueva ola de bombardeos, según anunció el Comando Central del Ejército de Estados Unidos (Centcom). El organismo, con sede en Florida, expuso en un comunicado que el Ejército estadounidens.
+
+Date: 2026-07-14
 
 ### La inflación en Estados Unidos registró en junio el primer descenso mensual desde 2020
 
@@ -62,12 +68,6 @@ Donald Trump ha anunciado al final de la tarde de este lunes que la Marina estad
 
 Date: 2026-07-13
 
-### El Ibex cierra en rojo ante las nuevas tensiones entre EEUU e Irán
-
-La escalada en el conflicto entre Irán y EEUU vuelve a elevar el precio del petróleo. Con el Brent al filo de nuevo de los 80 dólares, los inversores dan un paso atrás en Bolsa. El Ibex no es una excepción, y repite las caídas predominantes la semana pasada.
-
-Date: 2026-07-13
-
 ## Fuentes
 
-- [La inflación en Estados Unidos registró en junio el primer descenso mensual desde 2020](https://elpais.com/economia/2026-07-14/la-inflacion-en-estados-unidos-registro-en-junio-el-primer-descenso-mensual-desde-2020.html?utm_source=lootura.com) — 2026-07-14T13:21:48.000Z
+- [EEUU restablece el bloqueo naval a Irán y lanza una nueva ola de bombardeos](https://theobjective.com/internacional/2026-07-14/eeuu-bloqueo-naval-bombardeo-iran/?utm_source=lootura.com) — 2026-07-14T20:40:14.000Z

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/maine/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/maine/index.json",
   "description": "Follow Maine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-14T17:12:24.301Z",
+  "updatedAt": "2026-07-14T20:58:39.119Z",
   "aliases": [],
   "changes": [
     {
@@ -19,11 +19,6 @@
     {
       "title": "Morning news brief",
       "summary": "Trump says the U.S. will collect tolls and impose blockade in the Strait of Hormuz, man killed by federal agents in Maine, states sue to stop Paramount-Warner Bros merger.",
-      "date": "2026-07-14"
-    },
-    {
-      "title": "Platner's voters are reeling as Maine Democratic Party races to choose his replacement",
-      "summary": "Graham Platner generated enthusiasm in Maine with his progressive policies. Now he's out of the race, and his supporters have to decide what's next, as Maine Democrats prepare to choose a nominee. (Image credit: Tamara Keith/NPR).",
       "date": "2026-07-14"
     },
     {
@@ -52,27 +47,32 @@
       "date": "2026-07-14"
     },
     {
-      "title": "ICE Ordered to Cease Most Vehicle Stops After 2 Killings in a Week",
-      "summary": "Agents fatally shot a man in Houston and another in coastal Maine, both in their vehicles. The killings were the latest in a string of ICE shootings during President Trump’s second term.",
+      "title": "ICE needs to be ‘dismantled’: Senate candidate Dan Kleban after ICE-involved shooting in Maine",
+      "summary": "Dan Kleban (D-Maine) joins Meet the Press NOW to discuss his run to replace Graham Platner in the Senate race. Kelban also reacts to the fatal ICE shooting in Maine.",
       "date": "2026-07-14"
     },
     {
-      "title": "Graham Platner's voters figure out what's next as candidates vie for their support",
-      "summary": "voters are still grappling with Democratic Senate candidate Graham Platner's dramatic departure from the race.",
-      "date": "2026-07-13"
+      "title": "In the aftermath of deadly shootings, ICE pauses most traffic stops",
+      "summary": "U.S. Immigration and Customs Enforcement will pause non-urgent vehicle stops after two deadly shootings in less than a week, Maine U.S. Sen. Angus King's office tells NPR. (Image credit: Joseph Prezioso).",
+      "date": "2026-07-14"
+    },
+    {
+      "title": "Maine Democrats will square off in Senate debate Thursday",
+      "summary": "Democrats vying to replace former Maine Senate nominee Graham Platner on the ballot are set to battle on the debate stage Thursday night. News Center Maine confirmed the debate, which will be held at 7 p.m. EDT in Portland and include three former gubernatorial hopefuls — Troy Jackson , Shenna Bellows and Nirav Shah —.",
+      "date": "2026-07-14"
     }
   ],
   "sources": [
     {
       "title": "Man fatally shot by ICE in Maine was not intended target of warrant, lawmakers say",
       "url": "https://www.cbsnews.com/news/maine-shooting-ice-biddeford/?utm_source=lootura.com",
-      "publishedAt": "2026-07-14T13:11:47.000Z",
+      "publishedAt": "2026-07-14T19:59:27.000Z",
       "sourceId": "lootura-us-cbs-news"
     },
     {
       "title": "ICE halts most vehicle stops following deadly shootings, sources say",
       "url": "https://www.cbsnews.com/news/ice-agents-halt-vehicle-stops-after-shootings-maine-texas/?utm_source=lootura.com",
-      "publishedAt": "2026-07-14T16:50:25.000Z",
+      "publishedAt": "2026-07-14T20:06:11.000Z",
       "sourceId": "lootura-us-cbs-news"
     },
     {
@@ -80,6 +80,12 @@
       "url": "https://www.today.com/video/officials-investigate-fatal-ice-shooting-in-maine-as-fallout-grows-266634821667?utm_source=lootura.com",
       "publishedAt": "2026-07-14T11:27:17.000Z",
       "sourceId": "lootura-us-nbc-news"
+    },
+    {
+      "title": "ICE needs to be ‘dismantled’: Senate candidate Dan Kleban after ICE-involved shooting in Maine",
+      "url": "https://www.nbcnews.com/meet-the-press/video/ice-needs-to-be-dismantled-senate-candidate-dan-kleban-after-ice-involved-shooting-in-maine-266666565710?utm_source=lootura.com",
+      "publishedAt": "2026-07-14T20:35:29.000Z",
+      "sourceId": "lootura-us-nbc-news-politics"
     },
     {
       "title": "Morning news brief",
@@ -94,9 +100,9 @@
       "sourceId": "lootura-us-npr"
     },
     {
-      "title": "Platner's voters are reeling as Maine Democratic Party races to choose his replacement",
-      "url": "https://www.npr.org/2026/07/14/nx-s1-5892502/platner-collins-maine-democratic-party-senate?utm_source=lootura.com",
-      "publishedAt": "2026-07-14T09:00:00.000Z",
+      "title": "In the aftermath of deadly shootings, ICE pauses most traffic stops",
+      "url": "https://www.npr.org/2026/07/14/nx-s1-5893456/ice-vehicle-biddeford-houston?utm_source=lootura.com",
+      "publishedAt": "2026-07-14T19:54:53.000Z",
       "sourceId": "lootura-us-npr-politics"
     },
     {
@@ -112,17 +118,11 @@
       "sourceId": "lootura-us-pbs-newshour"
     },
     {
-      "title": "ICE Ordered to Cease Most Vehicle Stops After 2 Killings in a Week",
-      "url": "https://www.nytimes.com/2026/07/14/us/ice-agents-traffic-stops.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-14T17:02:06.000Z",
-      "sourceId": "lootura-us-the-new-york-times"
-    },
-    {
-      "title": "ICE Agent Kills Person in Vehicle in Biddeford, Maine, State Officials Say",
-      "url": "https://www.nytimes.com/2026/07/13/us/biddeford-maine-ice-shooting.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-14T04:32:14.000Z",
-      "sourceId": "lootura-us-the-new-york-times"
+      "title": "Maine Democrats will square off in Senate debate Thursday",
+      "url": "https://www.politico.com/news/2026/07/14/maine-democrats-senate-debate-platner-00997107?utm_source=lootura.com",
+      "publishedAt": "2026-07-14T18:34:24.000Z",
+      "sourceId": "lootura-us-politico"
     }
   ],
-  "evidenceCount": 10
+  "evidenceCount": 13
 }

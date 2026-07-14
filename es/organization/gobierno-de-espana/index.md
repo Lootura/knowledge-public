@@ -70,5 +70,4 @@ Date: 2026-07-10
 
 ## Fuentes
 
-- [El Gobierno espera que se absuelva a David Sánchez en «instancias superiores»](https://theobjective.com/espana/politica/2026-07-14/gobierno-absuelva-david-sanchez-instancias-superiores/?utm_source=lootura.com) — 2026-07-14T11:45:21.000Z
-- [El Supremo archiva la querella del conseller valenciano de Sanidad contra Diana Morant](https://theobjective.com/espana/tribunales/2026-07-14/supremo-querella-conseller-valenciano-diana-morant/?utm_source=lootura.com) — 2026-07-14T12:28:56.000Z
+No public source links.

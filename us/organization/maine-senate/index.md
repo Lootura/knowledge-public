@@ -3,10 +3,16 @@
 > Follow Maine Senate, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-07-13T17:53:11.557Z
+- Updated: 2026-07-14T20:58:39.119Z
 - Canonical: https://atlas.lootura.com/us/organization/maine-senate
 
 ## Recent changes
+
+### Maine Democrats will square off in Senate debate Thursday
+
+Democrats vying to replace former Maine Senate nominee Graham Platner on the ballot are set to battle on the debate stage Thursday night. News Center Maine confirmed the debate, which will be held at 7 p.m. EDT in Portland and include three former gubernatorial hopefuls — Troy Jackson , Shenna Bellows and Nirav Shah —.
+
+Date: 2026-07-14
 
 ### Maine Secretary of State Shenna Bellows on her bid to replace Platner in Senate race
 
@@ -58,4 +64,4 @@ Date: 2026-07-08
 
 ## Sources
 
-No public source links.
+- [Maine Democrats will square off in Senate debate Thursday](https://www.politico.com/news/2026/07/14/maine-democrats-senate-debate-platner-00997107?utm_source=lootura.com) — 2026-07-14T18:34:24.000Z

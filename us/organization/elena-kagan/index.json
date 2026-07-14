@@ -1,0 +1,34 @@
+{
+  "id": "usa-elena-kagan",
+  "name": "Elena Kagan",
+  "type": "organization",
+  "locale": "en",
+  "canonicalPath": "/us/organization/elena-kagan",
+  "canonicalUrl": "https://atlas.lootura.com/us/organization/elena-kagan",
+  "markdownUrl": "https://atlas.lootura.com/us/organization/elena-kagan/index.md",
+  "jsonUrl": "https://atlas.lootura.com/us/organization/elena-kagan/index.json",
+  "description": "Follow Elena Kagan, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
+  "updatedAt": "2026-07-14T20:58:39.119Z",
+  "aliases": [],
+  "changes": [
+    {
+      "title": "Takeaways From Justices Kagan and Barrett’s Congressional Testimony on Supreme Court Security",
+      "summary": "and Amy Coney Barrett, the first Supreme Court justices to testify since 2019, talked about ethics and security threats during a collegial hearing.",
+      "date": "2026-07-14"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Elena Kagan first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-07-14"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Takeaways From Justices Kagan and Barrett’s Congressional Testimony on Supreme Court Security",
+      "url": "https://www.nytimes.com/2026/07/14/us/politics/supreme-court-congress-takeaways.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-14T18:41:03.000Z",
+      "sourceId": "lootura-us-the-new-york-times"
+    }
+  ],
+  "evidenceCount": 1
+}

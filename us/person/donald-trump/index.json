@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/donald-trump/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/donald-trump/index.json",
   "description": "Follow Donald Trump, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-14T17:12:24.301Z",
+  "updatedAt": "2026-07-14T20:58:39.119Z",
   "aliases": [
     "President Donald Trump",
     "President Trump",
@@ -36,11 +36,6 @@
       "date": "2026-07-14"
     },
     {
-      "title": "Trump says FBI is \"wasting their time\" if they",
-      "summary": "\"I don.",
-      "date": "2026-07-14"
-    },
-    {
       "title": "Trump says he doesn't see a lot of \"evil\" in Lindsey Graham's death when asked about FBI probe",
       "summary": "President Trump took questions in the Oval Office and commented on an apparent FBI probe into Lindsey Graham's death, saying he doesn't see a lot of \"evil\" behind the sudden incident.",
       "date": "2026-07-14"
@@ -51,28 +46,27 @@
       "date": "2026-07-14"
     },
     {
-      "title": "Trump says he will back off plan to toll ships in Strait of Hormuz",
-      "summary": "During a meeting with the prime minister of Iraq, President Trump discussed his decision to reverse his plan to implement tolls for non-Iranian ships passing through the Strait of Hormuz. NBC News' Gabe Gutierrez reports on the decision and other topics the president took questions about in the White House.",
-      "date": "2026-07-14"
-    },
-    {
       "title": "Funding milestone detected",
       "summary": "President Donald Trump on Tuesday announced a reversal of plans to charge a 20% toll on cargo going through the Strait of Hormuz, saying that Middle Eastern countries will instead make investment and trade deals with the U.S.",
       "date": "2026-07-14"
     },
     {
-      "title": "Trump Paid $2 Million by South Korean Company Facing Trade Investigation",
-      "summary": "The payment illustrates the minefield Mr. Trump has created by maintaining personal financial ties with foreign businesses while he is in office.",
+      "title": "E. Jean Carroll Receives $5.6 Million Payment From Trump in Civil Case",
+      "summary": "A federal jury found President Trump liable for sexually abusing and defaming Ms. Carroll. He exhausted his appeals last month, prompting a judge to order that the money be paid.",
+      "date": "2026-07-14"
+    },
+    {
+      "title": "‘I Am Frustrated’: Emails Show Blanche’s Role in Trump’s Retribution Campaign",
+      "summary": "The cooperation of Todd Blanche will be a flashpoint in his confirmation hearing to be attorney general on Wednesday.",
+      "date": "2026-07-14"
+    },
+    {
+      "title": "Trump administration orders ICE to suspend most vehicle stops after deadly shootings",
+      "summary": "The suspension is not absolute and there's room for exceptions when executing a criminal warrant or working with partner agencies.",
       "date": "2026-07-14"
     }
   ],
   "sources": [
-    {
-      "title": "Trump says FBI is \"wasting their time\" if they",
-      "url": "https://www.cbsnews.com/news/trump-fbi-lindsey-graham-death-conspiracy-theories/?utm_source=lootura.com",
-      "publishedAt": "2026-07-14T17:02:12.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
     {
       "title": "Trump says he doesn't see a lot of \"evil\" in Lindsey Graham's death when asked about FBI probe",
       "url": "https://www.cbsnews.com/video/trump-says-he-doesnt-see-a-lot-of-evil-in-lindsey-grahams-death-when-asked-about-fbi-probe/?utm_source=lootura.com",
@@ -86,21 +80,9 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "Trump says he will back off plan to toll ships in Strait of Hormuz",
-      "url": "https://www.nbcnews.com/now/video/trump-says-he-will-back-off-plan-to-toll-ships-in-strait-of-hormuz-266653253537?utm_source=lootura.com",
-      "publishedAt": "2026-07-14T16:38:39.000Z",
-      "sourceId": "lootura-us-nbc-news-politics"
-    },
-    {
       "title": "Morning news brief",
       "url": "https://www.npr.org/2026/07/14/nx-s1-5891540/morning-news-brief?utm_source=lootura.com",
       "publishedAt": "2026-07-14T09:02:31.000Z",
-      "sourceId": "lootura-us-npr"
-    },
-    {
-      "title": "Trump's HHS abandons threat to withhold Medicare and Medicaid funding over trans care",
-      "url": "https://www.npr.org/2026/07/13/nx-s1-5888586/transgender-gender-affirming-care-medicare-medicaid-hhs?utm_source=lootura.com",
-      "publishedAt": "2026-07-13T20:22:49.000Z",
       "sourceId": "lootura-us-npr"
     },
     {
@@ -110,23 +92,41 @@
       "sourceId": "lootura-us-npr-politics"
     },
     {
+      "title": "Trump administration orders ICE to suspend most vehicle stops after deadly shootings",
+      "url": "https://www.pbs.org/newshour/politics/trump-administration-orders-ice-to-suspend-most-vehicle-stops-after-deadly-shootings?utm_source=lootura.com",
+      "publishedAt": "2026-07-14T20:23:02.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
+    },
+    {
       "title": "Trump backs away from plans to charge fees in the Strait of Hormuz",
       "url": "https://www.pbs.org/newshour/world/trump-backs-away-from-plans-to-charge-fees-in-the-strait-of-hormuz?utm_source=lootura.com",
       "publishedAt": "2026-07-14T16:00:31.000Z",
       "sourceId": "lootura-us-pbs-newshour"
     },
     {
-      "title": "Trump Paid $2 Million by South Korean Company Facing Trade Investigation",
-      "url": "https://www.nytimes.com/2026/07/14/us/politics/trump-south-korea-aluminum.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-14T16:35:57.000Z",
+      "title": "ICE Ordered to Cease Most Vehicle Stops After Fatal Shootings in Maine and Houston",
+      "url": "https://www.nytimes.com/2026/07/14/us/ice-agents-traffic-stops.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-14T17:02:07.000Z",
       "sourceId": "lootura-us-the-new-york-times"
     },
     {
-      "title": "ICE Ordered to Cease Most Vehicle Stops After 2 Killings in a Week",
-      "url": "https://www.nytimes.com/2026/07/14/us/ice-agents-traffic-stops.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-14T17:02:06.000Z",
+      "title": "Trump’s Strait of Hormuz Fee Could Double the Cost of Shipping",
+      "url": "https://www.nytimes.com/2026/07/13/business/trump-hormuz-shipping-fee.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-13T23:00:14.000Z",
+      "sourceId": "lootura-us-the-new-york-times"
+    },
+    {
+      "title": "Lindsey Graham’s Sister Appointed to Finish His Senate Term After Trump’s Backing",
+      "url": "https://www.nytimes.com/2026/07/13/us/politics/trump-graham-sister-south-carolina-senate.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-13T23:27:44.000Z",
+      "sourceId": "lootura-us-the-new-york-times"
+    },
+    {
+      "title": "E. Jean Carroll Receives $5.6 Million Payment From Trump in Civil Case",
+      "url": "https://www.nytimes.com/2026/07/14/nyregion/carroll-trump-settlement-million.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-14T18:58:25.000Z",
       "sourceId": "lootura-us-the-new-york-times"
     }
   ],
-  "evidenceCount": 17
+  "evidenceCount": 16
 }

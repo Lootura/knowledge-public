@@ -3,20 +3,20 @@
 > Follow Ukraine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-14T13:30:27.465Z
+- Updated: 2026-07-14T20:58:39.119Z
 - Canonical: https://atlas.lootura.com/us/place/ukraine
 
 ## Recent changes
 
-### Ukraine Wants to Make Its Own Antimissile System, Not Just Patriots
-
-The Ukrainian firm Fire Point has produced weapons that hit Russian territory. Its next goal, developing an antimissile system, is a much bigger challenge, experts said.
-
-Date: 2026-07-14
-
 ### Europe, Flexing Muscle in Ukraine, Is Still on Sidelines in Iran
 
 In a show of collective strength, President Emmanuel Macron of France hosted European allies at the annual Bastille Day parade in Paris. Yet Europe is still a hostage to America’s foreign policy.
+
+Date: 2026-07-14
+
+### Ukraine Wants to Make Its Own Antimissile System, Not Just Patriots
+
+The Ukrainian firm Fire Point has produced weapons that hit Russian territory. Its next goal, developing an antimissile system, is a much bigger challenge, experts said.
 
 Date: 2026-07-14
 
@@ -70,4 +70,4 @@ Date: 2026-07-12
 
 ## Sources
 
-No public source links.
+- [Europe, Flexing Muscle in Ukraine, Is Still on Sidelines in Iran](https://www.nytimes.com/2026/07/14/world/europe/macron-trump-bastille-day-military-parade.html?utm_source=lootura.com) — 2026-07-14T19:17:56.000Z

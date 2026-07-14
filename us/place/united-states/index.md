@@ -3,7 +3,7 @@
 > Follow United States, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-14T17:12:24.301Z
+- Updated: 2026-07-14T20:58:39.119Z
 - Canonical: https://atlas.lootura.com/us/place/united-states
 
 ## Recent changes
@@ -38,33 +38,33 @@ Companies have been getting more out of employees for several years. Tight labor
 
 Date: 2026-07-14
 
-### Why your favorite international artist might be reconsidering their next U.S. tour
-
-The visa process for visiting artists has always been complicated and expensive. Under the current administration, it's gotten significantly worse.
-
-Date: 2026-07-14
-
 ### Funding milestone detected
 
 President Donald Trump on Tuesday announced a reversal of plans to charge a 20% toll on cargo going through the Strait of Hormuz, saying that Middle Eastern countries will instead make investment and trade deals with the U.S.
 
 Date: 2026-07-14
 
-### Maps show heat alerts as extreme temperatures threaten millions
+### Europe, Flexing Muscle in Ukraine, Is Still on Sidelines in Iran
 
-Heat alerts were issued for millions across parts of the western U.S. Sunday due to an unusually prolonged heat dome, which is starting to move east.
-
-Date: 2026-07-14
-
-### Details on newest U.S. strikes against Iran
-
-The United States is carrying out a third night of airstrikes against Iran. CBS News national security analyst Aaron MacLean has more.
+In a show of collective strength, President Emmanuel Macron of France hosted European allies at the annual Bastille Day parade in Paris. Yet Europe is still a hostage to America’s foreign policy.
 
 Date: 2026-07-14
 
-### U.S. to reinstate Hormuz blockade. And, states sue over Paramount-Warner deal
+### Some international artists are skipping U.S. tours. Others may follow suit
 
-The United States plans to reinstate a blockade over the Strait of Hormuz today. And, several states are suing to stop the massive Paramount-Warner Bros. merger. (Image credit: -).
+The visa process for visiting artists has always been complicated and expensive. Under the current administration, it's gotten significantly worse.
+
+Date: 2026-07-14
+
+### In the aftermath of deadly shootings, ICE pauses most traffic stops
+
+U.S. Immigration and Customs Enforcement will pause non-urgent vehicle stops after two deadly shootings in less than a week, Maine U.S. Sen. Angus King's office tells NPR. (Image credit: Joseph Prezioso).
+
+Date: 2026-07-14
+
+### VLA sky survey sets new standard for high-resolution, wide-area radio astronomy
+
+The U.S. National Science Foundation National Radio Astronomy Observatory (NSF NRAO) has completed observations for the Very Large Array Sky Survey (VLASS), the most detailed radio survey of the sky ever conducted, providing an unprecedented view of the dynamic radio universe.
 
 Date: 2026-07-14
 
@@ -74,7 +74,9 @@ Date: 2026-07-14
 - [More extreme heat across parts of U.S.](https://www.cbsnews.com/video/more-extreme-heat-across-parts-of-us/?utm_source=lootura.com) — 2026-07-14T12:51:33.000Z
 - [Cyclosporiasis Outbreaks Hits More Than Half of the US](https://www.today.com/video/parasitic-outbreaks-spreads-across-us-how-to-stay-safe-266638405733?utm_source=lootura.com) — 2026-07-14T12:17:31.000Z
 - [Morning news brief](https://www.npr.org/2026/07/14/nx-s1-5891540/morning-news-brief?utm_source=lootura.com) — 2026-07-14T09:02:31.000Z
-- [Why your favorite international artist might be reconsidering their next U.S. tour](https://www.npr.org/2026/07/14/nx-s1-5783845/visa-process-artists-us?utm_source=lootura.com) — 2026-07-14T14:46:11.000Z
+- [Some international artists are skipping U.S. tours. Others may follow suit](https://www.npr.org/2026/07/14/nx-s1-5783845/visa-process-artists-us?utm_source=lootura.com) — 2026-07-14T14:46:11.000Z
+- [In the aftermath of deadly shootings, ICE pauses most traffic stops](https://www.npr.org/2026/07/14/nx-s1-5893456/ice-vehicle-biddeford-houston?utm_source=lootura.com) — 2026-07-14T19:54:53.000Z
 - [Trump backs away from plans to charge fees in the Strait of Hormuz](https://www.pbs.org/newshour/world/trump-backs-away-from-plans-to-charge-fees-in-the-strait-of-hormuz?utm_source=lootura.com) — 2026-07-14T16:00:31.000Z
-- [Trump Says U.S. Will ‘Take Over’ Strait of Hormuz, and How Russia Made Japan a Den of Spies](https://www.nytimes.com/2026/07/14/podcasts/the-headlines/trump-strait-of-hormuz-russia-japan-ukraine-war-space-sugar.html?utm_source=lootura.com) — 2026-07-14T10:00:14.000Z
-- [U.S. Workers Are More Productive Than Ever. A.I. Isn’t the Key.](https://www.nytimes.com/2026/07/14/business/worker-productivity-artificial-intelligence-economy.html?utm_source=lootura.com) — 2026-07-14T12:25:43.000Z
+- [VLA sky survey sets new standard for high-resolution, wide-area radio astronomy](https://phys.org/news/2026-07-vla-sky-survey-standard-high.html?utm_source=lootura.com) — 2026-07-14T20:00:01.000Z
+- [New study analyzes how electronic trading is changing the retail investment market](https://phys.org/news/2026-07-electronic-retail-investment.html?utm_source=lootura.com) — 2026-07-14T19:20:01.000Z
+- [Trump Flip-Flops on Strait of Hormuz, Creating New Risks for Global Economy](https://www.nytimes.com/2026/07/14/business/trump-strait-of-hormuz.html?utm_source=lootura.com) — 2026-07-14T18:50:34.000Z

@@ -3,22 +3,10 @@
 > Sigue la actividad de Estados Unidos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-14T17:12:02.446Z
+- Actualizado: 2026-07-14T20:58:20.799Z
 - Canonical: https://atlas.lootura.com/es/place/united-states
 
 ## Cambios recientes
-
-### La inflación en Estados Unidos registró en junio el primer descenso mensual desde 2020
-
-La inflación en Estados Unidos se moderó en junio, coincidiendo con el alto el fuego con Irán y la reapertura del estrecho de Ormuz. El índice de precios al consumo (IPC) se moderó hasta el 3,5% en junio, siete décimas menos que el 4,2% registrado en mayo, según el dato difundido este martes por la Oficina de Estadísti.
-
-Date: 2026-07-14
-
-### Warsh asegura que “no tolerará” una inflación persistentemente elevada en Estados Unidos
-
-Kevin Warsh es un tipo al que no le gustan las sorpresas. El presidente de la Reserva Federal está empeñado en no salirse del guion y repite un discurso en el que no deja margen para la interpretación. El responsable de la política monetaria de Estados Unidos ha comparecido este martes ante el comité de Servicios Finan.
-
-Date: 2026-07-14
 
 ### Trump da marcha atrás: sustituirá su peaje del 20% en Ormuz por acuerdos comerciales en el Golfo
 
@@ -29,6 +17,30 @@ Date: 2026-07-14
 ### Trump da marcha atrás: no cobrará la tasa del 20% a los buques que transiten por Ormuz
 
 El presidente de Estados Unidos, Donald Trump , anunció este martes que finalmente no cobrará la tasa del 20% que había planteado por facilitar el tránsito de buques por el estrecho de Ormuz y aseguró que, en su lugar, los países del golfo Pérsico se comprometieron a invertir en Estados Unidos . «Tras conversaciones mu.
+
+Date: 2026-07-14
+
+### Trump paga 5,6 millones a la escritora Carroll tras ser condenado por abuso sexual y difamación
+
+El presidente de Estados Unidos, Donald Trump, ha pagado 5,6 millones de dólares a la escritora E. Jean Carroll después de que ganara en 2023 un caso civil por abuso sexual y difamación en su contra. El magnate todavía le debe otros 83 millones, derivados de un caso posterior, por difamarla.«Hace tres años, un jurado .
+
+Date: 2026-07-14
+
+### EEUU restablece el bloqueo naval a Irán y lanza una nueva ola de bombardeos
+
+Las Fuerzas Armadas estadounidenses reimpusieron este martes el bloqueo naval a Irán en el estrecho de Ormuz , además de lanzar una nueva ola de bombardeos, según anunció el Comando Central del Ejército de Estados Unidos (Centcom). El organismo, con sede en Florida, expuso en un comunicado que el Ejército estadounidens.
+
+Date: 2026-07-14
+
+### La inflación en Estados Unidos registró en junio el primer descenso mensual desde 2020
+
+La inflación en Estados Unidos se moderó en junio, coincidiendo con el alto el fuego con Irán y la reapertura del estrecho de Ormuz. El índice de precios al consumo (IPC) se moderó hasta el 3,5% en junio, siete décimas menos que el 4,2% registrado en mayo, según el dato difundido este martes por la Oficina de Estadísti.
+
+Date: 2026-07-14
+
+### Warsh asegura que “no tolerará” una inflación persistentemente elevada en Estados Unidos
+
+Kevin Warsh es un tipo al que no le gustan las sorpresas. El presidente de la Reserva Federal está empeñado en no salirse del guion y repite un discurso en el que no deja margen para la interpretación. El responsable de la política monetaria de Estados Unidos ha comparecido este martes ante el comité de Servicios Finan.
 
 Date: 2026-07-14
 
@@ -56,21 +68,10 @@ El presidente de Estados Unidos, Donald Trump , ha asegurado este lunes que su G
 
 Date: 2026-07-14
 
-### Doce estados de EEUU demandan a Warner Bros y Paramount para bloquear su fusión
-
-Una coalición de doce estados de Estados Unidos emprendió una demanda que impugna la adquisición de Warner Bros. Discovery, Inc. por parte de Paramount.
-
-Date: 2026-07-13
-
-### Trump amenaza con volver a atacar a Irán: «Los golpearemos muy duro esta noche y mañana»
-
-El presidente de Estados Unidos, Donald Trump , aseguró este lunes que las fuerzas armadas de su país atacarán con fuerza a Irán «esta noche» y «mañana», en medio del restablecimiento de las hostilidades con Teherán. «Vamos a golpearlos muy duro esta noche y vamos a golpearlos muy duro mañana, y no hay absolutamente na.
-
-Date: 2026-07-13
-
 ## Fuentes
 
-- [La inflación en Estados Unidos registró en junio el primer descenso mensual desde 2020](https://elpais.com/economia/2026-07-14/la-inflacion-en-estados-unidos-registro-en-junio-el-primer-descenso-mensual-desde-2020.html?utm_source=lootura.com) — 2026-07-14T13:21:48.000Z
-- [Warsh asegura que “no tolerará” una inflación persistentemente elevada en Estados Unidos](https://elpais.com/economia/2026-07-14/warsh-asegura-que-no-tolerara-una-inflacion-persistentemente-elevada.html?utm_source=lootura.com) — 2026-07-14T15:34:09.000Z
+- [El Gobierno acude por primera vez a Estados Unidos para ver a España en el Mundial](https://www.eldebate.com/deportes/mundial-futbol-2026/20260714/gobierno-acude-primera-vez-estados-unidos-ver-espana-mundial_439693.html?utm_source=lootura.com) — 2026-07-14T17:41:40.000Z
 - [Trump da marcha atrás: sustituirá su peaje del 20% en Ormuz por acuerdos comerciales en el Golfo](https://www.expansion.com/economia/2026/07/14/6a5649a4468aeb7a408b459f.html?utm_source=lootura.com) — 2026-07-14T15:49:13.000Z
+- [Trump paga 5,6 millones a la escritora Carroll tras ser condenado por abuso sexual y difamación](https://okdiario.com/internacional/trump-paga-56-millones-escritora-carroll-ser-condenado-abuso-sexual-difamacion-18996513/amp?utm_source=lootura.com) — 2026-07-14T20:48:58.000Z
+- [EEUU restablece el bloqueo naval a Irán y lanza una nueva ola de bombardeos](https://theobjective.com/internacional/2026-07-14/eeuu-bloqueo-naval-bombardeo-iran/?utm_source=lootura.com) — 2026-07-14T20:40:14.000Z
 - [Trump da marcha atrás: no cobrará la tasa del 20% a los buques que transiten por Ormuz](https://theobjective.com/internacional/2026-07-14/trump-no-cobro-tasa-buques-ormuz/?utm_source=lootura.com) — 2026-07-14T16:02:06.000Z

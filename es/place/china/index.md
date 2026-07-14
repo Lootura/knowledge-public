@@ -3,7 +3,7 @@
 > Sigue la actividad de China en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-14T17:12:02.446Z
+- Actualizado: 2026-07-14T20:58:20.799Z
 - Canonical: https://atlas.lootura.com/es/place/china
 
 ## Cambios recientes
@@ -71,4 +71,3 @@ Date: 2026-07-10
 ## Fuentes
 
 - [DeepSeek acelera los preparativos para salir a Bolsa](https://cincodias.elpais.com/mercados-financieros/2026-07-14/deepseek-acelera-los-preparativos-para-salir-a-bolsa-este-ano.html?utm_source=lootura.com) — 2026-07-14T16:22:34.000Z
-- [El último móvil de Samsung es uno de los mejores smartphones compactos de 2026 y está rebajado más de 200 euros](https://www.larazon.es/compras/nuestra-eleccion/ultimo-movil-samsung-uno-mejores-smartphones-compactos-2026-esta-rebajado-mas-200-euros_202607146a55f4bcc48a78681b887d9a.html?utm_source=lootura.com) — 2026-07-14T17:00:16.000Z

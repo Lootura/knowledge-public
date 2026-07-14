@@ -3,10 +3,16 @@
 > Sigue la actividad de Bélgica en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-14T02:12:41.111Z
+- Actualizado: 2026-07-14T20:58:20.799Z
 - Canonical: https://atlas.lootura.com/es/place/belgium
 
 ## Cambios recientes
+
+### De la Fuente vuelve a apostar por Fabián en la semifinal ante Francia
+
+Luis de la Fuente ha apostado por repetir el mismo once que batió a Bélgica en cuartos de final para medirse a la todopoderosa Francia en la semifinal de Dallas. Eso significa que en el centro del campo volverá a iniciar Fabián y Pedri estará en el banquillo. Seguir leyendo...
+
+Date: 2026-07-14
 
 ### El abogado de Puigdemont le aconseja no volver ya a España aunque el TJUE le dé la razón
 
@@ -62,12 +68,6 @@ El infausto protagonista del España-Bélgica de 1986 compara dos citas separada
 
 Date: 2026-07-09
 
-### Un revólver y seis balas: el inesperado regalo de Erdogan en la OTAN
-
-Cuando el primer ministro de Bélgica, Bart de Wever, aterrizó en Bruselas tras finalizar la cumbre de la OTAN en Ankara (Turquía) el miércoles se dio cuenta de que, entre su equipaje, había una caja con un revólver y seis balas . Se trataba de un regalo del presidente turco, Recep Tayyip Erdogan, que no había sido dete.
-
-Date: 2026-07-09
-
 ## Fuentes
 
-No public source links.
+- [De la Fuente vuelve a apostar por Fabián en la semifinal ante Francia](https://www.lavanguardia.com/deportes/futbol/20260714/11592350/espana-francia-alineaciones-semifinal-mundial-2026.html?utm_source=lootura.com) — 2026-07-14T17:11:29.000Z

@@ -16,4 +16,4 @@ Date: 2026-07-14
 
 ## Fuentes
 
-- [La UCO confirma que el PSOE pagó 43.225 euros a Leire a través de Zarrías y del exabogado de Koldo](https://www.abc.es/espana/uco-confirma-psoe-pago-43225-euros-leire-20260714113453-nt.html?utm_source=lootura.com) — 2026-07-14T16:25:40.000Z
+No public source links.
