@@ -70,4 +70,4 @@ Date: 2026-07-09
 
 ## Fuentes
 
-- [El abogado de Puigdemont le aconseja no volver ya a España aunque el TJUE le dé la razón](https://www.abc.es/espana/puigdemont-volvera-espana-tras-sentencia-tjue-desconfianza-20260714024053-nt.html?utm_source=lootura.com) — 2026-07-14T01:11:16.000Z
+No public source links.

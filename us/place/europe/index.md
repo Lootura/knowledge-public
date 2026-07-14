@@ -3,7 +3,7 @@
 > Follow Europe, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-14T02:12:59.212Z
+- Updated: 2026-07-14T06:09:23.919Z
 - Canonical: https://atlas.lootura.com/us/place/europe
 
 ## Recent changes
@@ -71,4 +71,3 @@ Date: 2026-07-09
 ## Sources
 
 - [News Wrap: Judge says Trump's lawsuit against IRS filed for 'improper purpose'](https://www.pbs.org/newshour/show/news-wrap-judge-says-trumps-lawsuit-against-irs-filed-for-improper-purpose?utm_source=lootura.com) — 2026-07-13T22:45:40.000Z
-- [Ukraine and 9 other countries form coalition to protect Europe from ballistic missiles](https://www.pbs.org/newshour/world/ukraine-and-9-other-countries-form-coalition-to-protect-europe-from-ballistic-missiles?utm_source=lootura.com) — 2026-07-13T17:51:08.000Z

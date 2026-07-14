@@ -3,10 +3,22 @@
 > Sigue la actividad de Partido Popular en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-14T02:12:41.111Z
+- Actualizado: 2026-07-14T06:09:00.827Z
 - Canonical: https://atlas.lootura.com/es/organization/partido-popular
 
 ## Cambios recientes
+
+### El PP defiende plantear "propuestas polémicas" para ofrecer su alternativa ante un Gobierno que "ha gestionado muy mal"
+
+A lo largo de las dos últimas semanas, Alberto Núñez Feijóo ha puesto sobe la mesa debates que el Ejecutivo ha usado como combustible para recuperar la idea de que un Gobierno del PP "recortará derechos", tal y como aseguró el propio Pedro Sánchez después de que el presidente del PP apuntara a revisar las razones del i.
+
+Date: 2026-07-14
+
+### Hacienda amenaza a las comunidades con un déficit cero si el Congreso rechaza dos veces la senda fiscal
+
+Hacienda vuelve a tropezar con la misma piedra, pero en un camino diferente. Este martes presentará la senda de estabilidad de las cuentas públicas al Congreso, consciente de que se dará de nuevo de bruces con la falta de apoyos políticos, como ha ocurrido los dos últimos años. Al rechazo ya asumido de PP y Vox se suma.
+
+Date: 2026-07-14
 
 ### El PP defiende a Rajoy tras la queja por "racismo" de Francia: "Son columnas sarcásticas"
 
@@ -56,22 +68,7 @@ Desde la localidad que ha sufrido el incendio más mortífero de este siglo en E
 
 Date: 2026-07-13
 
-### El PP quita hierro a la frase de Rajoy que provocó un choque diplomático con Francia: "Fue sin mala intención"
-
-El Partido Popular ha salido en defensa del expresidente Mariano Rajoy y de su polémica columna después de que esta provocase un choque diplomático con Francia . En su texto, el exlíder del PP afirmó que la selección gala de fútbol tiene una buena plantilla , pero "sin franceses", una frase que generó una cascada de cr.
-
-Date: 2026-07-13
-
-### Feijóo sin complejos: “ingeniería electoral”, “concebido y no nacido” y “absentismo laboral»
-
-Un cambio sustancial en la estrategia política del PP parece consolidarse. En el que la relación con Vox ocupa un papel determinante, con el dominio del espacio político del centroderecha en juego. El motivo tiene su base en que todas las encuestas confirman la consolidación de un voto de «derechas» o liberal conservad.
-
-Date: 2026-07-13
-
 ## Fuentes
 
-- [El PP defiende a Rajoy tras la queja por "racismo" de Francia: "Son columnas sarcásticas"](https://www.elmundo.es/deportes/futbol/mundial-de-futbol/2026/07/13/6a54dfe821efa065338b4581.html?utm_source=lootura.com) — 2026-07-13T13:07:38.000Z
-- [La dirección del PP defiende el comentario de Rajoy sobre la selección de Francia como “un sarcasmo” y “sin mala intención”](https://elpais.com/espana/2026-07-13/la-direccion-del-pp-defiende-el-comentario-de-rajoy-sobre-la-seleccion-de-francia-como-un-sarcasmo-y-sin-mala-intencion.html?utm_source=lootura.com) — 2026-07-13T12:49:08.000Z
-- [Errores no forzados en el PP](https://www.lavanguardia.com/opinion/20260714/11591530/errores-forzados-pp.html?utm_source=lootura.com) — 2026-07-13T22:08:34.000Z
-- [Rajoy enoja a Francia mientras el Gobierno acusa al PP de torpedear la política exterior](https://www.lavanguardia.com/politica/20260714/11591461/rajoy-enoja-francia-gobierno-acusa-pp-torpedear-politica-exterior.html?utm_source=lootura.com) — 2026-07-13T22:05:00.000Z
-- [Feijóo anuncia desde Almería un plan nacional contra los incendios si llega a La Moncloa](https://theobjective.com/espana/politica/2026-07-13/feijoo-plan-nacional-incendios-la-moncloa/?utm_source=lootura.com) — 2026-07-13T19:12:57.000Z
+- [El PP defiende plantear "propuestas polémicas" para ofrecer su alternativa ante un Gobierno que "ha gestionado muy mal"](https://www.20minutos.es/nacional/pp-defiende-plantear-propuestas-polemicas-para-ofrecer-su-alternativa-ante-un-gobierno-que-ha-gestionado-muy-mal_7014104_0.html?utm_source=lootura.com) — 2026-07-14T03:00:00.000Z
+- [Hacienda amenaza a las comunidades con un déficit cero si el Congreso rechaza dos veces la senda fiscal](https://elpais.com/economia/2026-07-14/hacienda-amenaza-a-las-comunidades-con-un-deficit-cero-si-el-congreso-rechaza-dos-veces-la-senda-fiscal.html?utm_source=lootura.com) — 2026-07-14T03:30:01.000Z

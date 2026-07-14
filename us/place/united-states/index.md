@@ -3,7 +3,7 @@
 > Follow United States, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-14T02:12:59.212Z
+- Updated: 2026-07-14T06:09:23.919Z
 - Canonical: https://atlas.lootura.com/us/place/united-states
 
 ## Recent changes
@@ -17,6 +17,12 @@ Date: 2026-07-14
 ### Details on newest U.S. strikes against Iran
 
 The United States is carrying out a third night of airstrikes against Iran. CBS News national security analyst Aaron MacLean has more.
+
+Date: 2026-07-14
+
+### Deputy U.S. marshal shot dead while serving arrest warrant on fugitive in Louisiana, agency says
+
+A deputy U.S. marshal was shot and killed while serving an arrest warrant on a fugitive in Louisiana, authorities say. The suspect is in custody.
 
 Date: 2026-07-14
 
@@ -44,12 +50,6 @@ Shipping activity plummeted after Iran attacked a ship, setting off U.S. strikes
 
 Date: 2026-07-13
 
-### Trump suggests he has left a standing order to attack Iran if it assassinates him. But Vance would make the call
-
-President Trump is suggesting he has left standing orders for the U.S. military to destroy Iran " at levels they've never seen before " if Tehran follows through on its long-standing threats to kill him.
-
-Date: 2026-07-13
-
 ### U.S. Electric Vehicle Sales are Down but E.V. Chargers are Booming
 
 Electric vehicle chargers are proliferating in Southern states as fast food restaurants, stores and other businesses try to lure customers.
@@ -70,7 +70,8 @@ Date: 2026-07-13
 
 ## Sources
 
-- [The 2026 FIFA Men](https://www.cbsnews.com/news/world-cup-2026-schedule-how-to-watch/?utm_source=lootura.com) — 2026-07-14T02:05:37.000Z
+- [Judge rebukes Trump and DOJ over IRS lawsuit in scathing decision](https://www.cbsnews.com/news/judge-trump-justice-department-irs-lawsuit-anti-weaponization-fund-settlement/?utm_source=lootura.com) — 2026-07-14T02:22:08.000Z
+- [Deputy U.S. marshal shot dead while serving arrest warrant on fugitive in Louisiana, agency says](https://www.cbsnews.com/news/deputy-us-marshal-shot-dead-serving-arrest-warrant-louisiana-fbi/?utm_source=lootura.com) — 2026-07-14T06:04:24.000Z
 - [Maps show heat alerts as extreme temperatures threaten millions](https://www.cbsnews.com/news/heat-wave-alerts-western-northeast-states/?utm_source=lootura.com) — 2026-07-14T01:40:51.000Z
 - [Details on newest U.S. strikes against Iran](https://www.cbsnews.com/video/details-on-newest-us-strikes-against-iran/?utm_source=lootura.com) — 2026-07-14T01:25:44.000Z
 - [U.S. strikes Iran for third night after Trump reinstates Iran blockade](https://www.nbcnews.com/nightly-news/video/u-s-strikes-iran-for-third-night-after-trump-reinstates-iran-blockade-266616901697?utm_source=lootura.com) — 2026-07-13T23:15:42.000Z
@@ -78,5 +79,4 @@ Date: 2026-07-13
 - [Morning news brief](https://www.npr.org/2026/07/13/nx-s1-5885745/morning-news-brief?utm_source=lootura.com) — 2026-07-13T08:48:40.000Z
 - [On foreign policy, Graham's influence may have been felt the most](https://www.npr.org/2026/07/13/nx-s1-5890936/on-foreign-policy-grahams-influence-may-have-been-felt-the-most?utm_source=lootura.com) — 2026-07-13T20:05:24.000Z
 - [Trump says U.S. 'taking over the strait' as conflict with Iran reignites](https://www.pbs.org/newshour/show/trump-says-u-s-taking-over-the-strait-as-conflict-with-iran-reignites?utm_source=lootura.com) — 2026-07-13T22:55:49.000Z
-- [Trump suggests he has left a standing order to attack Iran if it assassinates him. But Vance would make the call](https://www.pbs.org/newshour/nation/trump-suggests-he-has-left-a-standing-order-to-attack-iran-if-it-assassinates-him-but-vance-would-make-the-call?utm_source=lootura.com) — 2026-07-13T17:41:47.000Z
 - [Strait of Hormuz Ship Traffic Falls to Lowest Point in a Month After Strikes](https://www.nytimes.com/2026/07/13/business/strait-hormuz-shipping-traffic-iran-war.html?utm_source=lootura.com) — 2026-07-13T14:18:11.000Z

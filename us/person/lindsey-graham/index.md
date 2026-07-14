@@ -3,7 +3,7 @@
 > Follow Lindsey Graham, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-07-14T02:12:59.212Z
+- Updated: 2026-07-14T06:09:23.919Z
 - Canonical: https://atlas.lootura.com/us/person/lindsey-graham
 
 ## Recent changes
@@ -29,12 +29,6 @@ Date: 2026-07-13
 ### Lindsey Graham’s Unexpected Death, and How Marco Rubio Is Running Venezuela
 
 Plus, Sam Neill of “Jurassic Park” fame dies at 78.
-
-Date: 2026-07-13
-
-### Trump urges S.C. governor to appoint Sen. Graham's sister as temporary replacement
-
-Sen. Lindsey Graham died over the weekend at age 71, and Gov. Henry McMaster is expected to announce his pick later Monday.
 
 Date: 2026-07-13
 
@@ -65,6 +59,12 @@ Date: 2026-07-13
 ### Ukraine fears it will have a weaker link to Trump after Sen. Lindsey Graham's sudden death
 
 Ukraine has lost a close ally in President Donald Trump's orbit, leaving its leaders grappling with the implications for their war-torn country.
+
+Date: 2026-07-13
+
+### S.C. Gov McMaster appoints Darline Graham Nordone to fill Sen. Lindsey Graham's seat
+
+South Carolina Governor Henry McMaster appoints Darline Graham Nordone, Sen. Lindsey Graham's younger sister, to serve the remainder of the late Republican senator's term, which ends early January 2027.
 
 Date: 2026-07-13
 

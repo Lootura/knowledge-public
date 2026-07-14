@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/united-states/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/united-states/index.json",
   "description": "Sigue la actividad de Estados Unidos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-14T02:12:41.111Z",
+  "updatedAt": "2026-07-14T06:09:00.827Z",
   "aliases": [
     "America",
     "Estados Unidos",
@@ -68,23 +68,11 @@
   ],
   "sources": [
     {
-      "title": "Trump dice que EEUU investiga si Irán tiene drones almacenados en Cuba",
-      "url": "https://www.20minutos.es/internacional/trump-dice-que-eeuu-investiga-si-iran-tiene-drones-almacenados-cuba_7014204_0.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-14T00:07:41.000Z",
-      "sourceId": "lootura-es-20minutos"
-    },
-    {
-      "title": "Trump amenaza con volver a atacar a Irán: «Los golpearemos muy duro esta noche y mañana»",
-      "url": "https://theobjective.com/internacional/2026-07-13/trump-volvera-atacar-iran/?utm_source=lootura.com",
-      "publishedAt": "2026-07-13T21:00:08.000Z",
-      "sourceId": "lootura-es-the-objective"
-    },
-    {
-      "title": "Doce estados de EEUU demandan a Warner Bros y Paramount para bloquear su fusión",
-      "url": "https://theobjective.com/internacional/2026-07-13/doce-estados-demandan-warner-paramount/?amp=&utm_source=lootura.com",
-      "publishedAt": "2026-07-13T17:42:55.000Z",
+      "title": "Un agente del ICE mata a una persona que trataba de huir en coche de una casa en Maine",
+      "url": "https://theobjective.com/internacional/2026-07-14/agente-ice-mata-persona-maine/?amp=&utm_source=lootura.com",
+      "publishedAt": "2026-07-14T05:33:31.000Z",
       "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 0
 }

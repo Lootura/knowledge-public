@@ -8,9 +8,29 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/madrid/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/madrid/index.json",
   "description": "Sigue la actividad de Madrid en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-14T02:12:41.111Z",
+  "updatedAt": "2026-07-14T06:09:00.827Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "La revista 'Forbes' sitúa 13 hospitales madrileños entre los 25 mejores de España",
+      "summary": "La revista Forbes sitúa 13 hospitales de la Comunidad de Madrid en su lista anual de los mejores 25 de España , tanto públicos como privados. A lo largo de la lista, Madrid cuenta con ocho centros públicos, de los cuales seis se colocan entre los diez primeros puestos, y cinco privados. De hecho, los cuatro primeros ho.",
+      "date": "2026-07-14"
+    },
+    {
+      "title": "El centro de Madrid estará cortado durante hoy y mañana en estas zonas muy concurridas: las calles afectadas",
+      "summary": "La capital afronta dos jornadas con importantes alteraciones en la circulación por varias convocatorias que obligarán a desviar el tráfico en algunos de los principales ejes.",
+      "date": "2026-07-14"
+    },
+    {
+      "title": "Madrid: en estado grave un hombre tras sufrir un golpe de calor en plena calle",
+      "summary": "Samur-Protección Civil ha atendido este lunes a un hombre de 46 años que presentaba una patología grave por golpe de calor en la calle Illescas de Madrid. Según informa Emergencias Madrid, el hombre presentaba una temperatura de 41 grados y un bajo nivel de consciencia. A su llegada, la unidad avanzada ha procedido a s.",
+      "date": "2026-07-14"
+    },
+    {
+      "title": "Qué se come en los restaurantes flexitarianos de Madrid",
+      "summary": "Carne, pescado o zanahorias. Elegir es renunciar y algunos, con la ideología en la mano, no deberían caer en esa disyuntiva tan negativa. En ese sentido, el flexitarianismo, llevar una dieta vegetariana que se practica de forma flexible, podría ser para muchos la mejor opción. Sin duda de eso sabe mucho el que fue camp.",
+      "date": "2026-07-14"
+    },
     {
       "title": "El primer tren sin conductor de Metro de Madrid se prueba este verano en las líneas 10, 11 y 12",
       "summary": "El futuro del suburbano madrileño ya está aquí. El primer tren autónomo del casi medio centenar que circulará por la línea 6 de Metro de Madrid , que lleva meses preparándose para su última y puntera renovación, ya ha llegado a la región desde las plantas de la empresa CAF en Beasain e Irún. Más amplio, más rápido y me.",
@@ -40,41 +60,39 @@
       "title": "Bruno Mars homenajea a España cortando jamón Maldonado en el Metropolitano",
       "summary": "El cantante estadounidense Bruno Mars protagonizó uno de los momentos más comentados de su regreso a España al cortar y degustar en pleno concierto una pata de jamón ibérico de la firma extremeña Maldonado, ante las 50.000 personas que llenaron el viernes el Riyadh Air Metropolitano de Madrid en la primera de sus dos c.",
       "date": "2026-07-13"
-    },
-    {
-      "title": "Dos incendios cortan la circulación de cuatro líneas de Cercanías en Madrid",
-      "summary": "La presencia de dos incendios cercanos a las infraestructuras ferroviarias obliga a paralizar la circulación entre l as estaciones de Cercanías Renfe de Pozuelo y Las Rozas, que afecta a las líneas C7 y C10, y de Santa Eugenia y Vicálvaro, que afecta a las líneas C2, C7 y C8. Dos incidentes que han ocurrido con una dif.",
-      "date": "2026-07-13"
-    },
-    {
-      "title": "El PP de Madrid mantiene su respaldo al alcalde de Móstoles tras su imputación por presunto acoso sexual",
-      "summary": "“Absolutamente” y “por supuesto”. Esas dos expresiones son las que han utilizado los altos cargos del PP de Madrid para reiterar su respaldo al alcalde de Móstoles, el popular Manuel Bautista, después de que este lunes trascendiera su imputación por un presunto delito de acoso sexual y laboral a una exconcejala de ese.",
-      "date": "2026-07-13"
-    },
-    {
-      "title": "Ayuso presenta los nuevos trenes automáticos de la Línea 6 del Metro",
-      "summary": "La presidenta de la Comunidad de Madrid, Isabel Díaz Ayuso, ha presentado hoy el primero de los 48 nuevos trenes automáticos que circularán por la Línea 6 de Metro a lo largo del año 2027. Esta renovación integral convertirá a la conocida como línea Circular en la primera de toda la red madrileña en operar con un siste.",
-      "date": "2026-07-13"
-    },
-    {
-      "title": "Dos heridos en un accidente tras caer un coche a las escaleras del Metro en Madrid",
-      "summary": "Un aparatoso accidente de tráfico en el Paseo de la Castellana , en Madrid , ha terminado con uno de los dos vehículos implicados incrustado en unas escaleras del metro, quedando heridos sus dos ocupantes, una de ellas en estado grave , con múltiples traumatismos , ha informado Emergencias Madrid . El suceso ha tenido.",
-      "date": "2026-07-13"
     }
   ],
   "sources": [
     {
-      "title": "El primer tren sin conductor de Metro de Madrid se prueba este verano en las líneas 10, 11 y 12",
-      "url": "https://www.abc.es/espana/madrid/primer-tren-conductor-metro-madrid-prueba-verano-20260713143326-nt.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-14T01:09:12.000Z",
-      "sourceId": "lootura-es-abc"
+      "title": "La revista 'Forbes' sitúa 13 hospitales madrileños entre los 25 mejores de España",
+      "url": "https://www.elconfidencial.com/espana/madrid/2026-07-14/revista-forbes-hospitales-madrilenos-mejores-espana_4389342/?utm_source=lootura.com",
+      "publishedAt": "2026-07-14T03:00:00.000Z",
+      "sourceId": "lootura-es-el-confidencial"
+    },
+    {
+      "title": "El centro de Madrid estará cortado durante hoy y mañana en estas zonas muy concurridas: las calles afectadas",
+      "url": "https://www.elconfidencial.com/espana/madrid/2026-07-14/centro-madrid-hoy-manana-zonas-concurridas-1qrt_4389188/?utm_source=lootura.com",
+      "publishedAt": "2026-07-14T03:45:00.000Z",
+      "sourceId": "lootura-es-el-confidencial"
     },
     {
       "title": "Una reforma que premia a Cataluña: ganaría 92 euros por habitante, pese a recibir ya 93 más que Madrid",
       "url": "https://www.elmundo.es/economia/macroeconomia/2026/07/13/6a54e069e85ece44248b458d.html?utm_source=lootura.com",
       "publishedAt": "2026-07-13T20:48:37.000Z",
       "sourceId": "lootura-es-el-mundo"
+    },
+    {
+      "title": "Madrid: en estado grave un hombre tras sufrir un golpe de calor en plena calle",
+      "url": "https://www.larazon.es/madrid/madrid-estado-grave-hombre-sufrir-golpe-calor-plena-calle_202607146a55cf13c48a78681b88233f.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-14T05:54:29.000Z",
+      "sourceId": "lootura-es-la-razon"
+    },
+    {
+      "title": "Qué se come en los restaurantes flexitarianos de Madrid",
+      "url": "https://www.larazon.es/madrid/que-come-restaurantes-flexitarianos-madrid_202607146a55cf45772f745d2c476e89.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-14T05:55:17.000Z",
+      "sourceId": "lootura-es-la-razon"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 5
 }

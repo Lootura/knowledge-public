@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/united-states/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/united-states/index.json",
   "description": "Follow United States, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-14T02:12:59.212Z",
+  "updatedAt": "2026-07-14T06:09:23.919Z",
   "aliases": [
     "America",
     "Estados Unidos",
@@ -23,6 +23,11 @@
     {
       "title": "Details on newest U.S. strikes against Iran",
       "summary": "The United States is carrying out a third night of airstrikes against Iran. CBS News national security analyst Aaron MacLean has more.",
+      "date": "2026-07-14"
+    },
+    {
+      "title": "Deputy U.S. marshal shot dead while serving arrest warrant on fugitive in Louisiana, agency says",
+      "summary": "A deputy U.S. marshal was shot and killed while serving an arrest warrant on a fugitive in Louisiana, authorities say. The suspect is in custody.",
       "date": "2026-07-14"
     },
     {
@@ -46,11 +51,6 @@
       "date": "2026-07-13"
     },
     {
-      "title": "Trump suggests he has left a standing order to attack Iran if it assassinates him. But Vance would make the call",
-      "summary": "President Trump is suggesting he has left standing orders for the U.S. military to destroy Iran \" at levels they've never seen before \" if Tehran follows through on its long-standing threats to kill him.",
-      "date": "2026-07-13"
-    },
-    {
       "title": "U.S. Electric Vehicle Sales are Down but E.V. Chargers are Booming",
       "summary": "Electric vehicle chargers are proliferating in Southern states as fast food restaurants, stores and other businesses try to lure customers.",
       "date": "2026-07-13"
@@ -68,9 +68,15 @@
   ],
   "sources": [
     {
-      "title": "The 2026 FIFA Men",
-      "url": "https://www.cbsnews.com/news/world-cup-2026-schedule-how-to-watch/?utm_source=lootura.com",
-      "publishedAt": "2026-07-14T02:05:37.000Z",
+      "title": "Judge rebukes Trump and DOJ over IRS lawsuit in scathing decision",
+      "url": "https://www.cbsnews.com/news/judge-trump-justice-department-irs-lawsuit-anti-weaponization-fund-settlement/?utm_source=lootura.com",
+      "publishedAt": "2026-07-14T02:22:08.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
+    {
+      "title": "Deputy U.S. marshal shot dead while serving arrest warrant on fugitive in Louisiana, agency says",
+      "url": "https://www.cbsnews.com/news/deputy-us-marshal-shot-dead-serving-arrest-warrant-louisiana-fbi/?utm_source=lootura.com",
+      "publishedAt": "2026-07-14T06:04:24.000Z",
       "sourceId": "lootura-us-cbs-news"
     },
     {
@@ -113,12 +119,6 @@
       "title": "Trump says U.S. 'taking over the strait' as conflict with Iran reignites",
       "url": "https://www.pbs.org/newshour/show/trump-says-u-s-taking-over-the-strait-as-conflict-with-iran-reignites?utm_source=lootura.com",
       "publishedAt": "2026-07-13T22:55:49.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
-    },
-    {
-      "title": "Trump suggests he has left a standing order to attack Iran if it assassinates him. But Vance would make the call",
-      "url": "https://www.pbs.org/newshour/nation/trump-suggests-he-has-left-a-standing-order-to-attack-iran-if-it-assassinates-him-but-vance-would-make-the-call?utm_source=lootura.com",
-      "publishedAt": "2026-07-13T17:41:47.000Z",
       "sourceId": "lootura-us-pbs-newshour"
     },
     {

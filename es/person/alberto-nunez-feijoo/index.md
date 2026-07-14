@@ -3,10 +3,16 @@
 > Sigue la actividad de Alberto Núñez Feijóo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-14T02:12:41.111Z
+- Actualizado: 2026-07-14T06:09:00.827Z
 - Canonical: https://atlas.lootura.com/es/person/alberto-nunez-feijoo
 
 ## Cambios recientes
+
+### El PP defiende plantear "propuestas polémicas" para ofrecer su alternativa ante un Gobierno que "ha gestionado muy mal"
+
+A lo largo de las dos últimas semanas, Alberto Núñez Feijóo ha puesto sobe la mesa debates que el Ejecutivo ha usado como combustible para recuperar la idea de que un Gobierno del PP "recortará derechos", tal y como aseguró el propio Pedro Sánchez después de que el presidente del PP apuntara a revisar las razones del i.
+
+Date: 2026-07-14
 
 ### Feijóo anuncia desde Almería un plan nacional contra los incendios si llega a La Moncloa
 
@@ -62,13 +68,6 @@ Alberto Núñez Feijóo first entered the public knowledge record with source-ba
 
 Date: 2026-07-11
 
-### El Gobierno valida la decisión de la Junta de no haber enviado un EsAlert: Bolaños y Feijóo huyen de la bronca y abogan por la coordinación
-
-El ministro defiende que no se hubiera hecho uso de ese sistema porque este tipo de decisiones "se adoptan desde criterios técnicos" y él no puede "ni desautorizarla y ni siquiera cuestionarla" Leer.
-
-Date: 2026-07-11
-
 ## Fuentes
 
-- [Errores no forzados en el PP](https://www.lavanguardia.com/opinion/20260714/11591530/errores-forzados-pp.html?utm_source=lootura.com) — 2026-07-13T22:08:34.000Z
-- [Feijóo anuncia desde Almería un plan nacional contra los incendios si llega a La Moncloa](https://theobjective.com/espana/politica/2026-07-13/feijoo-plan-nacional-incendios-la-moncloa/?utm_source=lootura.com) — 2026-07-13T19:12:57.000Z
+- [El PP defiende plantear "propuestas polémicas" para ofrecer su alternativa ante un Gobierno que "ha gestionado muy mal"](https://www.20minutos.es/nacional/pp-defiende-plantear-propuestas-polemicas-para-ofrecer-su-alternativa-ante-un-gobierno-que-ha-gestionado-muy-mal_7014104_0.html?utm_source=lootura.com) — 2026-07-14T03:00:00.000Z

@@ -1,0 +1,45 @@
+{
+  "id": "es-comunidad-valenciana",
+  "name": "Comunidad Valenciana",
+  "type": "place",
+  "locale": "es",
+  "canonicalPath": "/es/place/comunidad-valenciana",
+  "canonicalUrl": "https://atlas.lootura.com/es/place/comunidad-valenciana",
+  "markdownUrl": "https://atlas.lootura.com/es/place/comunidad-valenciana/index.md",
+  "jsonUrl": "https://atlas.lootura.com/es/place/comunidad-valenciana/index.json",
+  "description": "Sigue la actividad de Comunidad Valenciana en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
+  "updatedAt": "2026-07-14T06:09:00.827Z",
+  "aliases": [],
+  "changes": [
+    {
+      "title": "Este es el pueblo de la Comunidad Valenciana más barato para alquilar una casa en la playa este verano",
+      "summary": "La Comunidad Valenciana es uno de los centros turísticos más importantes en España. Este territorio cerró 2025 con casi 30 millones de turistas, de los cuales 12,5 millones fueron extranjeros y 17,4% son nacionales.Las previsiones para este 2026 apuntan a que los números seguirán al alza en el caso de los turistas proc.",
+      "date": "2026-07-14"
+    },
+    {
+      "title": "Incendios forestales en España hoy, en directo: última hora de la evolución del fuego",
+      "summary": "El calor extremo y las altas temperaturas siguen complicando las labores de extinción de varios incendios forestales activos en distintos puntos de España. Castilla y León, Cataluña, la Comunidad Valenciana y Andalucía concentran algunos de los principales focos.",
+      "date": "2026-07-14"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Comunidad Valenciana first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-07-14"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Este es el pueblo de la Comunidad Valenciana más barato para alquilar una casa en la playa este verano",
+      "url": "https://www.abc.es/economia/cuentas-corrientes/pueblo-comunidad-valenciana-barato-alquilar-casa-playa-20260714114900-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-14T03:00:07.000Z",
+      "sourceId": "lootura-es-abc"
+    },
+    {
+      "title": "Incendios forestales en España hoy, en directo: última hora de la evolución del fuego",
+      "url": "https://www.larazon.es/sociedad/incendios-forestales-espana-hoy-directo-ultima-hora-evolucion-fuego_202607136a54beb9772f745d2c45a5fb.html?outputType=amp&utm_source=lootura.com",
+      "publishedAt": "2026-07-14T01:36:38.000Z",
+      "sourceId": "lootura-es-la-razon"
+    }
+  ],
+  "evidenceCount": 2
+}

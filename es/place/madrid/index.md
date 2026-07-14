@@ -3,10 +3,34 @@
 > Sigue la actividad de Madrid en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-14T02:12:41.111Z
+- Actualizado: 2026-07-14T06:09:00.827Z
 - Canonical: https://atlas.lootura.com/es/place/madrid
 
 ## Cambios recientes
+
+### La revista 'Forbes' sitúa 13 hospitales madrileños entre los 25 mejores de España
+
+La revista Forbes sitúa 13 hospitales de la Comunidad de Madrid en su lista anual de los mejores 25 de España , tanto públicos como privados. A lo largo de la lista, Madrid cuenta con ocho centros públicos, de los cuales seis se colocan entre los diez primeros puestos, y cinco privados. De hecho, los cuatro primeros ho.
+
+Date: 2026-07-14
+
+### El centro de Madrid estará cortado durante hoy y mañana en estas zonas muy concurridas: las calles afectadas
+
+La capital afronta dos jornadas con importantes alteraciones en la circulación por varias convocatorias que obligarán a desviar el tráfico en algunos de los principales ejes.
+
+Date: 2026-07-14
+
+### Madrid: en estado grave un hombre tras sufrir un golpe de calor en plena calle
+
+Samur-Protección Civil ha atendido este lunes a un hombre de 46 años que presentaba una patología grave por golpe de calor en la calle Illescas de Madrid. Según informa Emergencias Madrid, el hombre presentaba una temperatura de 41 grados y un bajo nivel de consciencia. A su llegada, la unidad avanzada ha procedido a s.
+
+Date: 2026-07-14
+
+### Qué se come en los restaurantes flexitarianos de Madrid
+
+Carne, pescado o zanahorias. Elegir es renunciar y algunos, con la ideología en la mano, no deberían caer en esa disyuntiva tan negativa. En ese sentido, el flexitarianismo, llevar una dieta vegetariana que se practica de forma flexible, podría ser para muchos la mejor opción. Sin duda de eso sabe mucho el que fue camp.
+
+Date: 2026-07-14
 
 ### El primer tren sin conductor de Metro de Madrid se prueba este verano en las líneas 10, 11 y 12
 
@@ -44,31 +68,10 @@ El cantante estadounidense Bruno Mars protagonizó uno de los momentos más come
 
 Date: 2026-07-13
 
-### Dos incendios cortan la circulación de cuatro líneas de Cercanías en Madrid
-
-La presencia de dos incendios cercanos a las infraestructuras ferroviarias obliga a paralizar la circulación entre l as estaciones de Cercanías Renfe de Pozuelo y Las Rozas, que afecta a las líneas C7 y C10, y de Santa Eugenia y Vicálvaro, que afecta a las líneas C2, C7 y C8. Dos incidentes que han ocurrido con una dif.
-
-Date: 2026-07-13
-
-### El PP de Madrid mantiene su respaldo al alcalde de Móstoles tras su imputación por presunto acoso sexual
-
-“Absolutamente” y “por supuesto”. Esas dos expresiones son las que han utilizado los altos cargos del PP de Madrid para reiterar su respaldo al alcalde de Móstoles, el popular Manuel Bautista, después de que este lunes trascendiera su imputación por un presunto delito de acoso sexual y laboral a una exconcejala de ese.
-
-Date: 2026-07-13
-
-### Ayuso presenta los nuevos trenes automáticos de la Línea 6 del Metro
-
-La presidenta de la Comunidad de Madrid, Isabel Díaz Ayuso, ha presentado hoy el primero de los 48 nuevos trenes automáticos que circularán por la Línea 6 de Metro a lo largo del año 2027. Esta renovación integral convertirá a la conocida como línea Circular en la primera de toda la red madrileña en operar con un siste.
-
-Date: 2026-07-13
-
-### Dos heridos en un accidente tras caer un coche a las escaleras del Metro en Madrid
-
-Un aparatoso accidente de tráfico en el Paseo de la Castellana , en Madrid , ha terminado con uno de los dos vehículos implicados incrustado en unas escaleras del metro, quedando heridos sus dos ocupantes, una de ellas en estado grave , con múltiples traumatismos , ha informado Emergencias Madrid . El suceso ha tenido.
-
-Date: 2026-07-13
-
 ## Fuentes
 
-- [El primer tren sin conductor de Metro de Madrid se prueba este verano en las líneas 10, 11 y 12](https://www.abc.es/espana/madrid/primer-tren-conductor-metro-madrid-prueba-verano-20260713143326-nt.html?utm_source=lootura.com) — 2026-07-14T01:09:12.000Z
+- [La revista 'Forbes' sitúa 13 hospitales madrileños entre los 25 mejores de España](https://www.elconfidencial.com/espana/madrid/2026-07-14/revista-forbes-hospitales-madrilenos-mejores-espana_4389342/?utm_source=lootura.com) — 2026-07-14T03:00:00.000Z
+- [El centro de Madrid estará cortado durante hoy y mañana en estas zonas muy concurridas: las calles afectadas](https://www.elconfidencial.com/espana/madrid/2026-07-14/centro-madrid-hoy-manana-zonas-concurridas-1qrt_4389188/?utm_source=lootura.com) — 2026-07-14T03:45:00.000Z
 - [Una reforma que premia a Cataluña: ganaría 92 euros por habitante, pese a recibir ya 93 más que Madrid](https://www.elmundo.es/economia/macroeconomia/2026/07/13/6a54e069e85ece44248b458d.html?utm_source=lootura.com) — 2026-07-13T20:48:37.000Z
+- [Madrid: en estado grave un hombre tras sufrir un golpe de calor en plena calle](https://www.larazon.es/madrid/madrid-estado-grave-hombre-sufrir-golpe-calor-plena-calle_202607146a55cf13c48a78681b88233f.html?utm_source=lootura.com) — 2026-07-14T05:54:29.000Z
+- [Qué se come en los restaurantes flexitarianos de Madrid](https://www.larazon.es/madrid/que-come-restaurantes-flexitarianos-madrid_202607146a55cf45772f745d2c476e89.html?utm_source=lootura.com) — 2026-07-14T05:55:17.000Z

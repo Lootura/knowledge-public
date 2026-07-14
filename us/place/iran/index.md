@@ -3,7 +3,7 @@
 > Follow Iran, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-14T02:12:59.212Z
+- Updated: 2026-07-14T06:09:23.919Z
 - Canonical: https://atlas.lootura.com/us/place/iran
 
 ## Recent changes
@@ -38,12 +38,6 @@ Shipping activity plummeted after Iran attacked a ship, setting off U.S. strikes
 
 Date: 2026-07-13
 
-### Trump suggests he has left a standing order to attack Iran if it assassinates him. But Vance would make the call
-
-President Trump is suggesting he has left standing orders for the U.S. military to destroy Iran " at levels they've never seen before " if Tehran follows through on its long-standing threats to kill him.
-
-Date: 2026-07-13
-
 ### Will Oil Prices Rise as the US-Iran Truce Frays? The Answer Lies With China.
 
 For decades, OPEC influenced the market by how much oil it produced. But China, the largest importer, is demonstrating its remarkable power over prices.
@@ -68,6 +62,12 @@ President Trump ordered a third consecutive night of U.S. strikes in Iran after 
 
 Date: 2026-07-13
 
+### Trump says U.S. 'taking over the strait' as conflict with Iran reignites
+
+The U.S. is striking Iran for the third consecutive night and Iran said it fired a missile at a U.S. Navy ship. The attacks come after President Trump told Congress that the U.S. and Iran have resumed fighting. He also said the U.S. will blockade Iran and the Strait of Hormuz and impose a 20% tax on ships, a move his a.
+
+Date: 2026-07-13
+
 ## Sources
 
 - [Military action against Iran formally restarted last week, Trump told lawmakers](https://www.cbsnews.com/news/iran-military-action-formally-restarted-trump-lawmakers-war-powers/?utm_source=lootura.com) — 2026-07-13T20:48:39.000Z
@@ -76,7 +76,7 @@ Date: 2026-07-13
 - [Morning news brief](https://www.npr.org/2026/07/13/nx-s1-5885745/morning-news-brief?utm_source=lootura.com) — 2026-07-13T08:48:40.000Z
 - [Trump says U.S. 'taking over the strait' as conflict with Iran reignites](https://www.pbs.org/newshour/show/trump-says-u-s-taking-over-the-strait-as-conflict-with-iran-reignites?utm_source=lootura.com) — 2026-07-13T22:55:49.000Z
 - [UK says Iran-backed group behind arson and vandalism attacks on Jewish community](https://www.pbs.org/newshour/world/uk-says-iran-backed-group-behind-arson-and-vandalism-attacks-on-jewish-community?utm_source=lootura.com) — 2026-07-13T18:41:13.000Z
-- [Trump suggests he has left a standing order to attack Iran if it assassinates him. But Vance would make the call](https://www.pbs.org/newshour/nation/trump-suggests-he-has-left-a-standing-order-to-attack-iran-if-it-assassinates-him-but-vance-would-make-the-call?utm_source=lootura.com) — 2026-07-13T17:41:47.000Z
 - [Strait of Hormuz Ship Traffic Falls to Lowest Point in a Month After Strikes](https://www.nytimes.com/2026/07/13/business/strait-hormuz-shipping-traffic-iran-war.html?utm_source=lootura.com) — 2026-07-13T14:18:11.000Z
 - [Yemen’s Fragile Peace in Peril as Houthis Accuse Saudi Arabia of Bombing](https://www.nytimes.com/2026/07/13/world/middleeast/yemen-houthis-saudi-arabia-iran-war.html?utm_source=lootura.com) — 2026-07-13T19:15:52.000Z
 - [Will Oil Prices Rise as the US-Iran Truce Frays? The Answer Lies With China.](https://www.nytimes.com/2026/07/13/business/energy-environment/oil-prices-iran-china.html?utm_source=lootura.com) — 2026-07-13T18:00:46.000Z
+- [Oil Prices Surge After Iran and U.S. Trade Strikes](https://www.nytimes.com/2026/07/12/business/oil-shipping-iran-hormuz.html?utm_source=lootura.com) — 2026-07-13T10:33:50.000Z

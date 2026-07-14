@@ -70,4 +70,4 @@ Date: 2026-07-10
 
 ## Sources
 
-- [How Lindsey Graham’s death quickly changes a busy Senate: From the Politics Desk](https://www.nbcnews.com/politics/politics-news/lindsey-grahams-death-quickly-changes-busy-senate-politics-desk-rcna587387?utm_source=lootura.com) — 2026-07-13T22:20:31.000Z
+No public source links.

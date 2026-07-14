@@ -3,7 +3,7 @@
 > Sigue la actividad de Pedro Sánchez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-14T02:12:41.111Z
+- Actualizado: 2026-07-14T06:09:00.827Z
 - Canonical: https://atlas.lootura.com/es/person/pedro-sanchez
 
 ## Cambios recientes
@@ -14,15 +14,33 @@ Sánchez viajará a Argelia con su ruta de pateras disparada en Baleares y con d
 
 Date: 2026-07-14
 
-### Pedro Sánchez apela a la firma de un pacto nacional frente a la emergencia climática delante de Juanma Moreno, investido gracias a Vox
+### El PP defiende plantear "propuestas polémicas" para ofrecer su alternativa ante un Gobierno que "ha gestionado muy mal"
 
-El presidente del Gobierno resalta la unidad de todas las administraciones del Estado en la lucha contra el incendio de Los Gallardos Leer.
+A lo largo de las dos últimas semanas, Alberto Núñez Feijóo ha puesto sobe la mesa debates que el Ejecutivo ha usado como combustible para recuperar la idea de que un Gobierno del PP "recortará derechos", tal y como aseguró el propio Pedro Sánchez después de que el presidente del PP apuntara a revisar las razones del i.
 
-Date: 2026-07-13
+Date: 2026-07-14
+
+### Moreno resucita su versión 'verde' en Los Gallardos ante Sánchez pese a chocar con su pacto con Vox
+
+Juanma Moreno anunció una "revolución verde" cuando logró su mayoría absoluta en 2022. Puso el foco en el impulso a las energías renovables y creó una consejería de Sostenibilidad que acabó asociando a la portavocía en sus primeros dos años. Una legislatura después, el pacto con Vox para seguir como inquilino en el pal.
+
+Date: 2026-07-14
+
+### David Sánchez compone en Moncloa con un piano japonés y sobre una mesa que usaron Suárez y González en sus Consejos de Ministros
+
+David Sánchez, hermano del presidente del Gobierno, Pedro Sánchez, espera el fallo de la sentencia de la Audiencia de Badajoz en el interior del Pa...
+
+Date: 2026-07-14
 
 ### El juez Peinado reclama a Begoña Gómez que “acredite” que solo usó su pasaporte para viajar a Reino Unido
 
 El magistrado Juan Carlos Peinado, que abrió juicio oral contra Begoña Gómez el 20 de junio y le prohibió salir de España, ha dictado este lunes una resolución para reclamar a la esposa de Pedro Sánchez que “acredite” que solo usó el pasaporte la pasada semana para viajar al Reino Unido. El juzgado le devolvió el docum.
+
+Date: 2026-07-13
+
+### Pedro Sánchez apela a la firma de un pacto nacional frente a la emergencia climática delante de Juanma Moreno, investido gracias a Vox
+
+El presidente del Gobierno resalta la unidad de todas las administraciones del Estado en la lucha contra el incendio de Los Gallardos Leer.
 
 Date: 2026-07-13
 
@@ -50,29 +68,10 @@ El portavoz nacional de Junts per Catalunya, Josep Rius, ha anunciado oficialmen
 
 Date: 2026-07-13
 
-### Vox pide a Feijóo centrarse en Sánchez, "no meterse en jardines" como el de las bajas laborales y "estar más preparado" si les copia en inmigración
-
-Casi una semana después de que el presidente del PP, Alberto Núñez Feijóo , se pronunciase sobre las bajas laborales, lo vinculase con absentismo laboral y hablase del asunto como un "cáncer" para la economía, encontró respuesta por parte de Vox a través de su portavoz nacional, José Antonio Fúster . También por el lig.
-
-Date: 2026-07-13
-
-### Sánchez comparece sin aceptar preguntas y arremete contra la «desinformación» tras el incendio de Los Gallardos
-
-El presidente del Gobierno, Pedro Sánchez, ha hablado este lunes desde el Puesto de Mando Avanzado de Turre (Almería) en una comparecencia sin preguntas en la que ha arremetido contra la «desinformación» tras el incendio forestal que ha afectado a la zona almeriense de Los Gallardos. Ese fuego ha dejado 13 fallecidos y.
-
-Date: 2026-07-13
-
-### Ayuso defiende la Fórmula 1 en Madrid: «Es una gran inversión que no cuesta al contribuyente madrileño»
-
-Isabel Díaz Ayuso , presidenta de la Comunidad de Madrid, ha arremetido contra el Gobierno de Sánchez por la «falta de apoyo económico» a Madrid para la celebración del Gran Premio de Fórmula 1 en la capital, cargando contra aquellos que no querían que se llevara a cabo el GP de España de F1. La dirigente del Partido P.
-
-Date: 2026-07-13
-
 ## Fuentes
 
-- [Pedro Sánchez apela a la firma de un pacto nacional frente a la emergencia climática delante de Juanma Moreno, investido gracias a Vox](https://www.elmundo.es/espana/2026/07/13/6a54c9b9e85ece585a8b4587.html?utm_source=lootura.com) — 2026-07-13T12:36:17.000Z
+- [El PP defiende plantear "propuestas polémicas" para ofrecer su alternativa ante un Gobierno que "ha gestionado muy mal"](https://www.20minutos.es/nacional/pp-defiende-plantear-propuestas-polemicas-para-ofrecer-su-alternativa-ante-un-gobierno-que-ha-gestionado-muy-mal_7014104_0.html?utm_source=lootura.com) — 2026-07-14T03:00:00.000Z
+- [Moreno resucita su versión 'verde' en Los Gallardos ante Sánchez pese a chocar con su pacto con Vox](https://www.elconfidencial.com/espana/andalucia/2026-07-14/moreno-verde-los-gallardos-pacto-vox-incendio-almeria_4389246/?utm_source=lootura.com) — 2026-07-14T03:00:00.000Z
+- [David Sánchez compone en Moncloa con un piano japonés y sobre una mesa que usaron Suárez y González en sus Consejos de Ministros](https://www.eldebate.com/espana/20260714/david-sanchez-compone-moncloa-piano-japones-sobre-mesa-usaron-suarez-gonzalez-consejos-ministros_439133.html?utm_source=lootura.com) — 2026-07-14T02:25:00.000Z
 - [El juez Peinado reclama a Begoña Gómez que “acredite” que solo usó su pasaporte para viajar a Reino Unido](https://elpais.com/espana/2026-07-13/el-juez-peinado-reclama-a-begona-gomez-que-acredite-que-solo-uso-su-pasaporte-para-viajar-a-reino-unido.html?utm_source=lootura.com) — 2026-07-13T17:45:22.000Z
-- [Errores no forzados en el PP](https://www.lavanguardia.com/opinion/20260714/11591530/errores-forzados-pp.html?utm_source=lootura.com) — 2026-07-13T22:08:34.000Z
-- [Rajoy enoja a Francia mientras el Gobierno acusa al PP de torpedear la política exterior](https://www.lavanguardia.com/politica/20260714/11591461/rajoy-enoja-francia-gobierno-acusa-pp-torpedear-politica-exterior.html?utm_source=lootura.com) — 2026-07-13T22:05:00.000Z
 - [Pedro Sánchez viajará a Argelia con la ruta de pateras disparada en Baleares y con dos desaparecidos en el mar](https://okdiario.com/baleares/pedro-sanchez-viajara-argelia-ruta-pateras-disparada-baleares-dos-desaparecidos-mar-18984859/amp?utm_source=lootura.com) — 2026-07-14T02:00:50.000Z
-- [Ayuso augura que Sánchez acabará por «bajar la cabeza» tras apoyar a «herederos de ETA»](https://theobjective.com/espana/politica/2026-07-13/ayuso-sanchez-apoyo-herederos-eta/?amp=&utm_source=lootura.com) — 2026-07-13T20:21:55.000Z

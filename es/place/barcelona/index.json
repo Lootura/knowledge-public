@@ -8,9 +8,19 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/barcelona/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/barcelona/index.json",
   "description": "Sigue la actividad de Barcelona en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-14T02:12:41.111Z",
+  "updatedAt": "2026-07-14T06:09:00.827Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "Inquietud en Seat por los recortes de Volkswagen: “Sería ingenuo pensar que no nos van a afectar”",
+      "summary": "El centro de Barcelona empieza a vestirse ya de los colores del arcoíris para celebrar el Orgullo esta semana. También lo ha hecho Casa Cupra Raval desde su vistoso edificio del paseo de Gràcia. La tienda insignia de la histórica automovilística ha dejado de llamarse, aunque sea de forma temporal, Casa Seat y ha adopta.",
+      "date": "2026-07-14"
+    },
+    {
+      "title": "El teatro de Barcelona que convierte en socios a Aitana y el Mago Pop",
+      "summary": "No suele ser habitual que dos estrellas de la magnitud de Aitana y Antonio Díaz, más conocido como El Mago Pop, unan fuerzas más allá del escenario para embarcarse en una aventura empresarial. Pero así ha sido con la adquisición del Teatre Aquitània de Barcelona , un espacio con historia que intenta renacer, por enésim.",
+      "date": "2026-07-14"
+    },
     {
       "title": "Un muerto y cinco heridos en el incendio de un piso en el Ensanche de Barcelona",
       "summary": "Un hombre de unos 60 años ha muerto y otras cinco personas han resultado heridas, ninguna de ellas de gravedad, en el incendio de un piso esta pasada madrugada en el distrito del Ensanche de Barcelona. Según ha informado el Ayuntamiento de Barcelona, los Bomberos han recibido poco después de las cuatro de la madrugada.",
@@ -50,37 +60,21 @@
       "title": "Vox llevará a la justicia las ZBE de 7 municipios de la provincia de Barcelona",
       "summary": "Vox ha anunciado que interpondrá recursos contenciosos-administrativos contra las Zonas de Bajas Emisiones (ZBE) de 7 municipios de la provincia de Barcelona (L'Hospitalet de Llobregat, Cornellà, Manresa, Terrassa, Santa Coloma de Gramenet, Mataró y Sant Cugat del Vallès) y presentará alegaciones contra el Plan Metropo.",
       "date": "2026-07-13"
-    },
-    {
-      "title": "Los Premios Princesa de Girona 2026 impulsan el \"talento compartido\" de los jóvenes y los seis premiados",
-      "summary": "La ceremonia de entrega de los Premios Princesa de Girona 2026 —que estará presidida por los Reyes, la Princesa Leonor y la Infanta Sofía— se celebrará este martes en el Gran Teatre del Liceu en Barcelona. Como antesala al acto central, los seis protagonistas de la 17a edición del galardón han llevado a cabo este lunes.",
-      "date": "2026-07-13"
-    },
-    {
-      "title": "Tercera ola de calor en Barcelona: hasta cuándo durará, pico máximo y temperatura día a día esta semana, según el Meteocat",
-      "summary": "La primera coincidió con los primeros días de verano astronómico, y la segunda comenzó el 5 de julio con temperaturas récord.",
-      "date": "2026-07-13"
     }
   ],
   "sources": [
     {
-      "title": "Laporta presiona al Atlético por Julián: «No vamos a bailar la música de nadie»",
-      "url": "https://www.abc.es/deportes/futbol/laporta-presiona-atletico-julian-vamos-bailar-musica-20260713192936-nt.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-14T01:07:09.000Z",
-      "sourceId": "lootura-es-abc"
+      "title": "Inquietud en Seat por los recortes de Volkswagen: “Sería ingenuo pensar que no nos van a afectar”",
+      "url": "https://elpais.com/economia/2026-07-14/inquietud-en-seat-por-los-recortes-de-volkswagen-seria-ingenuo-pensar-que-no-nos-van-a-afectar.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-14T03:30:01.000Z",
+      "sourceId": "lootura-es-cinco-dias"
     },
     {
-      "title": "Rajoy enoja a Francia mientras el Gobierno acusa al PP de torpedear la política exterior",
-      "url": "https://www.lavanguardia.com/politica/20260714/11591461/rajoy-enoja-francia-gobierno-acusa-pp-torpedear-politica-exterior.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-13T22:05:00.000Z",
-      "sourceId": "lootura-es-la-vanguardia"
-    },
-    {
-      "title": "Un muerto y cinco heridos en el incendio de un piso en el Ensanche de Barcelona",
-      "url": "https://theobjective.com/sociedad/suceso/2026-07-13/muerto-cinco-heridos-incendio-piso-barcelona/?utm_source=lootura.com",
-      "publishedAt": "2026-07-13T19:46:59.000Z",
-      "sourceId": "lootura-es-the-objective"
+      "title": "El teatro de Barcelona que convierte en socios a Aitana y el Mago Pop",
+      "url": "https://www.larazon.es/cataluna/teatro-barcelona-que-convierte-socios-aitana-mago-pop_202607146a55c70d772f745d2c476904.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-14T05:20:13.000Z",
+      "sourceId": "lootura-es-la-razon"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 2
 }

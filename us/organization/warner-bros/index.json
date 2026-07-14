@@ -8,9 +8,14 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/warner-bros/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/warner-bros/index.json",
   "description": "Follow Warner Bros, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-14T02:12:59.212Z",
+  "updatedAt": "2026-07-14T06:09:23.919Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "12 states sue to block Paramount-Warner Bros. Discovery merger",
+      "summary": "The suit poses a new challenge to the $110 billion deal that would unite two of the nation's largest media companies.",
+      "date": "2026-07-14"
+    },
     {
       "title": "12 states sue to block merger between Paramount, Warner Bros. Discovery",
       "summary": "A coalition of a dozen states on Monday sued to block Paramount Skydance.",
@@ -34,9 +39,9 @@
   ],
   "sources": [
     {
-      "title": "12 states sue to block merger between Paramount, Warner Bros. Discovery",
-      "url": "https://www.cbsnews.com/video/12-states-sue-to-block-merger-between-paramount-warner-bros-discovery/?utm_source=lootura.com",
-      "publishedAt": "2026-07-14T01:59:46.000Z",
+      "title": "12 states sue to block Paramount-Warner Bros. Discovery merger",
+      "url": "https://www.cbsnews.com/news/states-sue-to-block-paramount-warner-bros-discovery-merger/?utm_source=lootura.com",
+      "publishedAt": "2026-07-14T02:16:14.000Z",
       "sourceId": "lootura-us-cbs-news"
     },
     {

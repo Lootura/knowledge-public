@@ -3,10 +3,16 @@
 > Sigue la actividad de Venezuela en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-14T02:12:41.111Z
+- Actualizado: 2026-07-14T06:09:00.827Z
 - Canonical: https://atlas.lootura.com/es/place/venezuela
 
 ## Cambios recientes
+
+### Uno de cada 10 médicos en España ya son extranjeros: “Venimos a trabajar duro para sostener y mejorar el sistema de salud”
+
+Ofreuddys Daniel Estrada Leal había sido médico en Venezuela antes de llegar a España. Aquí, durante casi dos años, ese oficio quedó suspendido en un limbo administrativo. Mientras esperaba la homologación de su título , trabajó como expendedor de combustible en estaciones de servicio, como asistente administrativo en.
+
+Date: 2026-07-14
 
 ### Se eleva a 4.561 la cifra de muertos en Venezuela por los dos terremotos
 
@@ -58,4 +64,4 @@ Date: 2026-07-11
 
 ## Fuentes
 
-- [Se eleva a 4.561 la cifra de muertos en Venezuela por los dos terremotos](https://theobjective.com/internacional/2026-07-13/balance-muertos-doble-terremoto-venezuela/?utm_source=lootura.com) — 2026-07-13T18:31:53.000Z
+- [Uno de cada 10 médicos en España ya son extranjeros: “Venimos a trabajar duro para sostener y mejorar el sistema de salud”](https://elpais.com/sociedad/2026-07-14/uno-de-cada-10-medicos-en-espana-ya-son-extranjeros-venimos-a-trabajar-duro-para-sostener-y-mejorar-el-sistema-de-salud.html?utm_source=lootura.com) — 2026-07-14T03:30:01.000Z

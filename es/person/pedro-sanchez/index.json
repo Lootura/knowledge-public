@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/pedro-sanchez/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/pedro-sanchez/index.json",
   "description": "Sigue la actividad de Pedro Sánchez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-14T02:12:41.111Z",
+  "updatedAt": "2026-07-14T06:09:00.827Z",
   "aliases": [
     "Sánchez"
   ],
@@ -19,13 +19,28 @@
       "date": "2026-07-14"
     },
     {
-      "title": "Pedro Sánchez apela a la firma de un pacto nacional frente a la emergencia climática delante de Juanma Moreno, investido gracias a Vox",
-      "summary": "El presidente del Gobierno resalta la unidad de todas las administraciones del Estado en la lucha contra el incendio de Los Gallardos Leer.",
-      "date": "2026-07-13"
+      "title": "El PP defiende plantear \"propuestas polémicas\" para ofrecer su alternativa ante un Gobierno que \"ha gestionado muy mal\"",
+      "summary": "A lo largo de las dos últimas semanas, Alberto Núñez Feijóo ha puesto sobe la mesa debates que el Ejecutivo ha usado como combustible para recuperar la idea de que un Gobierno del PP \"recortará derechos\", tal y como aseguró el propio Pedro Sánchez después de que el presidente del PP apuntara a revisar las razones del i.",
+      "date": "2026-07-14"
+    },
+    {
+      "title": "Moreno resucita su versión 'verde' en Los Gallardos ante Sánchez pese a chocar con su pacto con Vox",
+      "summary": "Juanma Moreno anunció una \"revolución verde\" cuando logró su mayoría absoluta en 2022. Puso el foco en el impulso a las energías renovables y creó una consejería de Sostenibilidad que acabó asociando a la portavocía en sus primeros dos años. Una legislatura después, el pacto con Vox para seguir como inquilino en el pal.",
+      "date": "2026-07-14"
+    },
+    {
+      "title": "David Sánchez compone en Moncloa con un piano japonés y sobre una mesa que usaron Suárez y González en sus Consejos de Ministros",
+      "summary": "David Sánchez, hermano del presidente del Gobierno, Pedro Sánchez, espera el fallo de la sentencia de la Audiencia de Badajoz en el interior del Pa...",
+      "date": "2026-07-14"
     },
     {
       "title": "El juez Peinado reclama a Begoña Gómez que “acredite” que solo usó su pasaporte para viajar a Reino Unido",
       "summary": "El magistrado Juan Carlos Peinado, que abrió juicio oral contra Begoña Gómez el 20 de junio y le prohibió salir de España, ha dictado este lunes una resolución para reclamar a la esposa de Pedro Sánchez que “acredite” que solo usó el pasaporte la pasada semana para viajar al Reino Unido. El juzgado le devolvió el docum.",
+      "date": "2026-07-13"
+    },
+    {
+      "title": "Pedro Sánchez apela a la firma de un pacto nacional frente a la emergencia climática delante de Juanma Moreno, investido gracias a Vox",
+      "summary": "El presidente del Gobierno resalta la unidad de todas las administraciones del Estado en la lucha contra el incendio de Los Gallardos Leer.",
       "date": "2026-07-13"
     },
     {
@@ -47,29 +62,26 @@
       "title": "Junts confirma que no apoyará la senda de déficit para los Presupuestos en el Congreso",
       "summary": "El portavoz nacional de Junts per Catalunya, Josep Rius, ha anunciado oficialmente este lunes que su formación no apoyará en el Congreso la senda de déficit que presentará el Gobierno este martes, lo que condiciona los Presupuestos Generales del Estado prometidos por el Ejecutivo de Pedro Sánchez. El partido liderado p.",
       "date": "2026-07-13"
-    },
-    {
-      "title": "Vox pide a Feijóo centrarse en Sánchez, \"no meterse en jardines\" como el de las bajas laborales y \"estar más preparado\" si les copia en inmigración",
-      "summary": "Casi una semana después de que el presidente del PP, Alberto Núñez Feijóo , se pronunciase sobre las bajas laborales, lo vinculase con absentismo laboral y hablase del asunto como un \"cáncer\" para la economía, encontró respuesta por parte de Vox a través de su portavoz nacional, José Antonio Fúster . También por el lig.",
-      "date": "2026-07-13"
-    },
-    {
-      "title": "Sánchez comparece sin aceptar preguntas y arremete contra la «desinformación» tras el incendio de Los Gallardos",
-      "summary": "El presidente del Gobierno, Pedro Sánchez, ha hablado este lunes desde el Puesto de Mando Avanzado de Turre (Almería) en una comparecencia sin preguntas en la que ha arremetido contra la «desinformación» tras el incendio forestal que ha afectado a la zona almeriense de Los Gallardos. Ese fuego ha dejado 13 fallecidos y.",
-      "date": "2026-07-13"
-    },
-    {
-      "title": "Ayuso defiende la Fórmula 1 en Madrid: «Es una gran inversión que no cuesta al contribuyente madrileño»",
-      "summary": "Isabel Díaz Ayuso , presidenta de la Comunidad de Madrid, ha arremetido contra el Gobierno de Sánchez por la «falta de apoyo económico» a Madrid para la celebración del Gran Premio de Fórmula 1 en la capital, cargando contra aquellos que no querían que se llevara a cabo el GP de España de F1. La dirigente del Partido P.",
-      "date": "2026-07-13"
     }
   ],
   "sources": [
     {
-      "title": "Pedro Sánchez apela a la firma de un pacto nacional frente a la emergencia climática delante de Juanma Moreno, investido gracias a Vox",
-      "url": "https://www.elmundo.es/espana/2026/07/13/6a54c9b9e85ece585a8b4587.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-13T12:36:17.000Z",
-      "sourceId": "lootura-es-el-mundo"
+      "title": "El PP defiende plantear \"propuestas polémicas\" para ofrecer su alternativa ante un Gobierno que \"ha gestionado muy mal\"",
+      "url": "https://www.20minutos.es/nacional/pp-defiende-plantear-propuestas-polemicas-para-ofrecer-su-alternativa-ante-un-gobierno-que-ha-gestionado-muy-mal_7014104_0.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-14T03:00:00.000Z",
+      "sourceId": "lootura-es-20minutos"
+    },
+    {
+      "title": "Moreno resucita su versión 'verde' en Los Gallardos ante Sánchez pese a chocar con su pacto con Vox",
+      "url": "https://www.elconfidencial.com/espana/andalucia/2026-07-14/moreno-verde-los-gallardos-pacto-vox-incendio-almeria_4389246/?utm_source=lootura.com",
+      "publishedAt": "2026-07-14T03:00:00.000Z",
+      "sourceId": "lootura-es-el-confidencial"
+    },
+    {
+      "title": "David Sánchez compone en Moncloa con un piano japonés y sobre una mesa que usaron Suárez y González en sus Consejos de Ministros",
+      "url": "https://www.eldebate.com/espana/20260714/david-sanchez-compone-moncloa-piano-japones-sobre-mesa-usaron-suarez-gonzalez-consejos-ministros_439133.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-14T02:25:00.000Z",
+      "sourceId": "lootura-es-el-debate"
     },
     {
       "title": "El juez Peinado reclama a Begoña Gómez que “acredite” que solo usó su pasaporte para viajar a Reino Unido",
@@ -78,29 +90,11 @@
       "sourceId": "lootura-es-el-pais"
     },
     {
-      "title": "Errores no forzados en el PP",
-      "url": "https://www.lavanguardia.com/opinion/20260714/11591530/errores-forzados-pp.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-13T22:08:34.000Z",
-      "sourceId": "lootura-es-la-vanguardia"
-    },
-    {
-      "title": "Rajoy enoja a Francia mientras el Gobierno acusa al PP de torpedear la política exterior",
-      "url": "https://www.lavanguardia.com/politica/20260714/11591461/rajoy-enoja-francia-gobierno-acusa-pp-torpedear-politica-exterior.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-13T22:05:00.000Z",
-      "sourceId": "lootura-es-la-vanguardia"
-    },
-    {
       "title": "Pedro Sánchez viajará a Argelia con la ruta de pateras disparada en Baleares y con dos desaparecidos en el mar",
       "url": "https://okdiario.com/baleares/pedro-sanchez-viajara-argelia-ruta-pateras-disparada-baleares-dos-desaparecidos-mar-18984859/amp?utm_source=lootura.com",
       "publishedAt": "2026-07-14T02:00:50.000Z",
       "sourceId": "lootura-es-ok-diario"
-    },
-    {
-      "title": "Ayuso augura que Sánchez acabará por «bajar la cabeza» tras apoyar a «herederos de ETA»",
-      "url": "https://theobjective.com/espana/politica/2026-07-13/ayuso-sanchez-apoyo-herederos-eta/?amp=&utm_source=lootura.com",
-      "publishedAt": "2026-07-13T20:21:55.000Z",
-      "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 6
+  "evidenceCount": 5
 }

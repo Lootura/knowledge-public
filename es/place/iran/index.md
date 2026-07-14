@@ -3,10 +3,16 @@
 > Sigue la actividad de Iran en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-14T02:12:41.111Z
+- Actualizado: 2026-07-14T06:09:00.827Z
 - Canonical: https://atlas.lootura.com/es/place/iran
 
 ## Cambios recientes
+
+### El petróleo extiende el rally y penaliza las Bolsas
+
+El precio del petróleo extiende las subidas y suma hoy un 1,5%, hasta superar los 84 dólares el barril de Brent , tras ganar más del 9% la víspera, a medida que se intensifica el enfrentamiento entre EE UU e Irán. El presidente Donald Trump restableció el bloqueo estadounidense a los buques iraníes que transitan por el.
+
+Date: 2026-07-14
 
 ### Trump dice que EEUU investiga si Irán tiene drones almacenados en Cuba
 
@@ -62,15 +68,7 @@ El presidente de Estados Unidos , Donald Trump , dijo este lunes que su país se
 
 Date: 2026-07-13
 
-### La Primera de Expansión sobre el apagón, Brookfield, Inditex, Irán, Mitsubishi y la IA china
-
-La Primera de Expansión les cuenta hoy que el Gobierno rechaza que el Consorcio de Compensación de Seguros asuma el pago de las indemnizaciones por el apagón.
-
-Date: 2026-07-13
-
 ## Fuentes
 
-- [Trump dice que EEUU investiga si Irán tiene drones almacenados en Cuba](https://www.20minutos.es/internacional/trump-dice-que-eeuu-investiga-si-iran-tiene-drones-almacenados-cuba_7014204_0.html?utm_source=lootura.com) — 2026-07-14T00:07:41.000Z
+- [El petróleo extiende el rally y penaliza las Bolsas](https://cincodias.elpais.com/mercados-financieros/2026-07-14/la-bolsa-y-el-ibex-35.html?utm_source=lootura.com) — 2026-07-14T04:29:01.000Z
 - [El plan de Israel para convertir al ex presidente Ahmadineyad en líder del Irán posayatolás, según el 'New York Times'](https://www.elmundo.es/internacional/2026/07/13/6a550bc5fc6c83b8168b4593.html?utm_source=lootura.com) — 2026-07-13T16:07:31.000Z
-- [Trump restablece el cerco naval a Irán y dice que cobrará el 20% por proteger a los buques en Ormuz](https://www.elmundo.es/internacional/2026/07/13/6a54aaaafdddff6b118b45ab.html?utm_source=lootura.com) — 2026-07-13T15:14:15.000Z
-- [Trump amenaza con volver a atacar a Irán: «Los golpearemos muy duro esta noche y mañana»](https://theobjective.com/internacional/2026-07-13/trump-volvera-atacar-iran/?utm_source=lootura.com) — 2026-07-13T21:00:08.000Z

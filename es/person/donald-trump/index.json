@@ -8,13 +8,23 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/donald-trump/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/donald-trump/index.json",
   "description": "Sigue la actividad de Donald Trump en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-14T02:12:41.111Z",
+  "updatedAt": "2026-07-14T06:09:00.827Z",
   "aliases": [
     "President Donald Trump",
     "President Trump",
     "Trump"
   ],
   "changes": [
+    {
+      "title": "El petróleo extiende el rally y penaliza las Bolsas",
+      "summary": "El precio del petróleo extiende las subidas y suma hoy un 1,5%, hasta superar los 84 dólares el barril de Brent , tras ganar más del 9% la víspera, a medida que se intensifica el enfrentamiento entre EE UU e Irán. El presidente Donald Trump restableció el bloqueo estadounidense a los buques iraníes que transitan por el.",
+      "date": "2026-07-14"
+    },
+    {
+      "title": "El Ibex, atenazado de nuevo por el petróleo",
+      "summary": "El petróleo vuelve a ser protagonista. Los planes de Trump de cobrar un peaje del 20% por cruzar Ormuz han elevado de nuevo el precio del crudo. Las presiones inflacionistas aumentan en un día marcado por el IPC de EEUU, pero también por el inicio de los resultados y por la Fed. El Ibex espera novedades lastrado por el.",
+      "date": "2026-07-14"
+    },
     {
       "title": "Trump dice que EEUU investiga si Irán tiene drones almacenados en Cuba",
       "summary": "El presidente de Estados Unidos, Donald Trump , ha asegurado este lunes que su Gobierno investiga la posible presencia de drones iraníes almacenados en Cuba y ha advertido de que Washington actuará si confirma esa información. \"Si los tienen, y es muy posible que los tengan , nos encargaremos de ello\", ha declarado Tru.",
@@ -54,43 +64,21 @@
       "title": "Trump anuncia un peaje del 20% para todos los barcos que crucen el estrecho de Ormuz",
       "summary": "anunció este lunes que Estados Unidos pretende cobrar una tasa del 20% sobre toda la carga transportada por los barcos que atraviesen el estrecho de Ormuz, como compensación por el coste de mantener abierta y protegida una de las rutas marítimas más importantes del mundo. El plan pone de relieve la graveda.",
       "date": "2026-07-13"
-    },
-    {
-      "title": "Trump: \"EEUU será el guardián de Ormuz\" y cobrará un 20% a cada buque al que franquee el paso",
-      "summary": "ha asegurado este lunes que Estados Unidos será el \"guardián del estrecho de Ormuz\" y garantizará que el paso continúe abierto pese a la nueva escalada...",
-      "date": "2026-07-13"
-    },
-    {
-      "title": "Dentro de la Casa Blanca: así ejerce Trump un poder desenfrenado para dejar su huella en la historia",
-      "summary": "Si hay un punto de inflexión en el legado de Donald Trump como presidente de Estados Unidos, hay que buscarlo en el 20 de enero de 2025, el primer día de su regreso al Despacho Oval tras su abrupta salida en 2021, cuando fue derrotado por Joe Biden y convertido en un paria político por agitar a una muchedumbre enfervor.",
-      "date": "2026-07-13"
     }
   ],
   "sources": [
     {
-      "title": "Trump dice que EEUU investiga si Irán tiene drones almacenados en Cuba",
-      "url": "https://www.20minutos.es/internacional/trump-dice-que-eeuu-investiga-si-iran-tiene-drones-almacenados-cuba_7014204_0.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-14T00:07:41.000Z",
-      "sourceId": "lootura-es-20minutos"
-    },
-    {
-      "title": "California y otros 11 Estados demócratas llevan a los tribunales la fusión Warner-Paramount aprobada por Trump",
-      "url": "https://elpais.com/us/2026-07-13/california-nueva-york-y-otros-10-estados-democratas-contraatacan-en-una-demanda-para-frenar-la-fusion-warner-paramount.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-13T18:10:15.000Z",
+      "title": "El petróleo extiende el rally y penaliza las Bolsas",
+      "url": "https://cincodias.elpais.com/mercados-financieros/2026-07-14/la-bolsa-y-el-ibex-35.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-14T04:29:01.000Z",
       "sourceId": "lootura-es-cinco-dias"
     },
     {
-      "title": "Trump restablece el cerco naval a Irán y dice que cobrará el 20% por proteger a los buques en Ormuz",
-      "url": "https://www.elmundo.es/internacional/2026/07/13/6a54aaaafdddff6b118b45ab.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-13T15:14:15.000Z",
-      "sourceId": "lootura-es-el-mundo"
-    },
-    {
-      "title": "Trump amenaza con volver a atacar a Irán: «Los golpearemos muy duro esta noche y mañana»",
-      "url": "https://theobjective.com/internacional/2026-07-13/trump-volvera-atacar-iran/?utm_source=lootura.com",
-      "publishedAt": "2026-07-13T21:00:08.000Z",
-      "sourceId": "lootura-es-the-objective"
+      "title": "El Ibex, atenazado de nuevo por el petróleo",
+      "url": "https://www.expansion.com/mercados/cronica-bolsa/2026/07/14/6a55ceaa468aeb3a6b8b458b.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-14T05:53:10.000Z",
+      "sourceId": "lootura-es-expansion"
     }
   ],
-  "evidenceCount": 4
+  "evidenceCount": 2
 }

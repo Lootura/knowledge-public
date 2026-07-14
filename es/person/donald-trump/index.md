@@ -3,10 +3,22 @@
 > Sigue la actividad de Donald Trump en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-14T02:12:41.111Z
+- Actualizado: 2026-07-14T06:09:00.827Z
 - Canonical: https://atlas.lootura.com/es/person/donald-trump
 
 ## Cambios recientes
+
+### El petróleo extiende el rally y penaliza las Bolsas
+
+El precio del petróleo extiende las subidas y suma hoy un 1,5%, hasta superar los 84 dólares el barril de Brent , tras ganar más del 9% la víspera, a medida que se intensifica el enfrentamiento entre EE UU e Irán. El presidente Donald Trump restableció el bloqueo estadounidense a los buques iraníes que transitan por el.
+
+Date: 2026-07-14
+
+### El Ibex, atenazado de nuevo por el petróleo
+
+El petróleo vuelve a ser protagonista. Los planes de Trump de cobrar un peaje del 20% por cruzar Ormuz han elevado de nuevo el precio del crudo. Las presiones inflacionistas aumentan en un día marcado por el IPC de EEUU, pero también por el inicio de los resultados y por la Fed. El Ibex espera novedades lastrado por el.
+
+Date: 2026-07-14
 
 ### Trump dice que EEUU investiga si Irán tiene drones almacenados en Cuba
 
@@ -56,21 +68,7 @@ anunció este lunes que Estados Unidos pretende cobrar una tasa del 20% sobre to
 
 Date: 2026-07-13
 
-### Trump: "EEUU será el guardián de Ormuz" y cobrará un 20% a cada buque al que franquee el paso
-
-ha asegurado este lunes que Estados Unidos será el "guardián del estrecho de Ormuz" y garantizará que el paso continúe abierto pese a la nueva escalada...
-
-Date: 2026-07-13
-
-### Dentro de la Casa Blanca: así ejerce Trump un poder desenfrenado para dejar su huella en la historia
-
-Si hay un punto de inflexión en el legado de Donald Trump como presidente de Estados Unidos, hay que buscarlo en el 20 de enero de 2025, el primer día de su regreso al Despacho Oval tras su abrupta salida en 2021, cuando fue derrotado por Joe Biden y convertido en un paria político por agitar a una muchedumbre enfervor.
-
-Date: 2026-07-13
-
 ## Fuentes
 
-- [Trump dice que EEUU investiga si Irán tiene drones almacenados en Cuba](https://www.20minutos.es/internacional/trump-dice-que-eeuu-investiga-si-iran-tiene-drones-almacenados-cuba_7014204_0.html?utm_source=lootura.com) — 2026-07-14T00:07:41.000Z
-- [California y otros 11 Estados demócratas llevan a los tribunales la fusión Warner-Paramount aprobada por Trump](https://elpais.com/us/2026-07-13/california-nueva-york-y-otros-10-estados-democratas-contraatacan-en-una-demanda-para-frenar-la-fusion-warner-paramount.html?utm_source=lootura.com) — 2026-07-13T18:10:15.000Z
-- [Trump restablece el cerco naval a Irán y dice que cobrará el 20% por proteger a los buques en Ormuz](https://www.elmundo.es/internacional/2026/07/13/6a54aaaafdddff6b118b45ab.html?utm_source=lootura.com) — 2026-07-13T15:14:15.000Z
-- [Trump amenaza con volver a atacar a Irán: «Los golpearemos muy duro esta noche y mañana»](https://theobjective.com/internacional/2026-07-13/trump-volvera-atacar-iran/?utm_source=lootura.com) — 2026-07-13T21:00:08.000Z
+- [El petróleo extiende el rally y penaliza las Bolsas](https://cincodias.elpais.com/mercados-financieros/2026-07-14/la-bolsa-y-el-ibex-35.html?utm_source=lootura.com) — 2026-07-14T04:29:01.000Z
+- [El Ibex, atenazado de nuevo por el petróleo](https://www.expansion.com/mercados/cronica-bolsa/2026/07/14/6a55ceaa468aeb3a6b8b458b.html?utm_source=lootura.com) — 2026-07-14T05:53:10.000Z

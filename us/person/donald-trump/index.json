@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/donald-trump/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/donald-trump/index.json",
   "description": "Follow Donald Trump, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-14T02:12:59.212Z",
+  "updatedAt": "2026-07-14T06:09:23.919Z",
   "aliases": [
     "President Donald Trump",
     "President Trump",
@@ -23,16 +23,6 @@
     {
       "title": "Mercurial and Magnetic, Lindsey Graham Was a Force in the Senate",
       "summary": "The sharp-witted South Carolinian repaired relations with President Trump to advance his foreign policy goals, was willing to cut deals with Democrats and tried to insert himself into every legislative fight.",
-      "date": "2026-07-13"
-    },
-    {
-      "title": "Trump urges S.C. governor to appoint Sen. Graham's sister as temporary replacement",
-      "summary": "Sen. Lindsey Graham died over the weekend at age 71, and Gov. Henry McMaster is expected to announce his pick later Monday.",
-      "date": "2026-07-13"
-    },
-    {
-      "title": "Trump suggests he has left a standing order to attack Iran if it assassinates him. But Vance would make the call",
-      "summary": "President Trump is suggesting he has left standing orders for the U.S. military to destroy Iran \" at levels they've never seen before \" if Tehran follows through on its long-standing threats to kill him.",
       "date": "2026-07-13"
     },
     {
@@ -56,13 +46,23 @@
       "date": "2026-07-13"
     },
     {
-      "title": "ICE Agent Kills Person in Vehicle in Biddeford, Maine, State Officials Say",
-      "summary": "The killing occurred in Biddeford, about 20 miles south of Portland. The Trump administration has stepped up immigration enforcement nationally in recent weeks.",
+      "title": "Trump’s Threat to Impose Fees in the Strait of Hormuz Contradicts His Aides",
+      "summary": "President Trump said the United States could collect tolls or fees, despite Vice President JD Vance and Secretary of State Marco Rubio saying no country could do so.",
       "date": "2026-07-13"
     },
     {
-      "title": "Trump’s Threat to Impose Fees in the Strait of Hormuz Contradicts His Aides",
-      "summary": "President Trump said the United States could collect tolls or fees, despite Vice President JD Vance and Secretary of State Marco Rubio saying no country could do so.",
+      "title": "U.S. strikes Iran for third night after Trump reinstates Iran blockade",
+      "summary": "President Trump ordered a third consecutive night of U.S. strikes in Iran after reinstating a naval blockade of Iranian ports and proposing new fees for ships transiting the Strait of Hormuz. NBC News’ Garrett Haake reports.",
+      "date": "2026-07-13"
+    },
+    {
+      "title": "Trump calls late Sen. Lindsey Graham a 'great friend'",
+      "summary": "In his first on-camera comments since the passing of Sen. Lindsey Graham, R-S.C., President Donald Trump called the late Republican senator a \"great friend\" and that it was \"hard to believe he's gone.\" NBC News' Sahil Kapur discusses how the loss of Graham will affect the Senate and the appointment of his sister to his.",
+      "date": "2026-07-13"
+    },
+    {
+      "title": "Trump reduces the size of 2 national monuments in Utah as Republicans reshape land management",
+      "summary": "The move to shrink Bears Ears and Grand Staircase-Escalante national monuments unravels protections established by former presidents for areas with unique archaeological and historical features.",
       "date": "2026-07-13"
     }
   ],
@@ -70,7 +70,7 @@
     {
       "title": "Judge rebukes Trump and DOJ over IRS lawsuit in scathing decision",
       "url": "https://www.cbsnews.com/news/judge-trump-justice-department-irs-lawsuit-anti-weaponization-fund-settlement/?utm_source=lootura.com",
-      "publishedAt": "2026-07-13T19:48:14.000Z",
+      "publishedAt": "2026-07-14T02:22:08.000Z",
       "sourceId": "lootura-us-cbs-news"
     },
     {
@@ -90,12 +90,6 @@
       "url": "https://www.npr.org/2026/07/13/nx-s1-5888586/transgender-gender-affirming-care-medicare-medicaid-hhs?utm_source=lootura.com",
       "publishedAt": "2026-07-13T20:22:49.000Z",
       "sourceId": "lootura-us-npr"
-    },
-    {
-      "title": "Trump urges S.C. governor to appoint Sen. Graham's sister as temporary replacement",
-      "url": "https://www.pbs.org/newshour/politics/trump-urges-s-c-governor-to-appoint-sen-grahams-sister-as-temporary-replacement?utm_source=lootura.com",
-      "publishedAt": "2026-07-13T17:15:57.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
     },
     {
       "title": "Trump reduces the size of 2 national monuments in Utah as Republicans reshape land management",
@@ -122,11 +116,17 @@
       "sourceId": "lootura-us-pbs-newshour"
     },
     {
-      "title": "Trump suggests he has left a standing order to attack Iran if it assassinates him. But Vance would make the call",
-      "url": "https://www.pbs.org/newshour/nation/trump-suggests-he-has-left-a-standing-order-to-attack-iran-if-it-assassinates-him-but-vance-would-make-the-call?utm_source=lootura.com",
-      "publishedAt": "2026-07-13T17:41:47.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
+      "title": "McMaster, Trump look to Graham's sister for Senate",
+      "url": "https://www.politico.com/news/2026/07/13/trump-lindsey-graham-replacement-mcmaster-00994800?utm_source=lootura.com",
+      "publishedAt": "2026-07-13T14:58:32.000Z",
+      "sourceId": "lootura-us-politico"
+    },
+    {
+      "title": "Trump’s Strait of Hormuz Fee Could Double the Cost of Shipping",
+      "url": "https://www.nytimes.com/2026/07/13/business/trump-hormuz-shipping-fee.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-13T23:00:14.000Z",
+      "sourceId": "lootura-us-the-new-york-times"
     }
   ],
-  "evidenceCount": 17
+  "evidenceCount": 15
 }

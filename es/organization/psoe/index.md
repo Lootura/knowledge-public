@@ -70,4 +70,4 @@ Date: 2026-07-11
 
 ## Fuentes
 
-- [El PSOE usa una empresa pública de Defensa como agencia de colocación](https://www.abc.es/espana/psoe-usa-empresa-publica-defensa-isdefe-agencia-20260714023941-nt.html?utm_source=lootura.com) — 2026-07-14T01:10:04.000Z
+No public source links.

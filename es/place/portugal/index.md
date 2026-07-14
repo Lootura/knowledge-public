@@ -3,7 +3,7 @@
 > Sigue la actividad de Portugal en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-14T02:12:41.111Z
+- Actualizado: 2026-07-14T06:09:00.827Z
 - Canonical: https://atlas.lootura.com/es/place/portugal
 
 ## Cambios recientes
@@ -64,4 +64,4 @@ Date: 2026-07-09
 
 ## Fuentes
 
-- [España liderará las alzas de precios en vivienda los próximos años](https://amp.expansion.com/inmobiliario/mercado/2026/07/14/6a55464fe5fdea7d7c8b4585.html?utm_source=lootura.com) — 2026-07-13T22:00:14.000Z
+- [El giro de Portugal con la vivienda para «dar confianza al mercado»: desahucio por impago, fianza libre y fin al control de precios](https://www.abc.es/economia/giro-portugal-vivienda-dar-confianza-mercado-desahucio-20260714070000-nt.html?utm_source=lootura.com) — 2026-07-14T05:00:19.000Z

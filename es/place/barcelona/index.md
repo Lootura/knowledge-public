@@ -3,10 +3,22 @@
 > Sigue la actividad de Barcelona en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-14T02:12:41.111Z
+- Actualizado: 2026-07-14T06:09:00.827Z
 - Canonical: https://atlas.lootura.com/es/place/barcelona
 
 ## Cambios recientes
+
+### Inquietud en Seat por los recortes de Volkswagen: “Sería ingenuo pensar que no nos van a afectar”
+
+El centro de Barcelona empieza a vestirse ya de los colores del arcoíris para celebrar el Orgullo esta semana. También lo ha hecho Casa Cupra Raval desde su vistoso edificio del paseo de Gràcia. La tienda insignia de la histórica automovilística ha dejado de llamarse, aunque sea de forma temporal, Casa Seat y ha adopta.
+
+Date: 2026-07-14
+
+### El teatro de Barcelona que convierte en socios a Aitana y el Mago Pop
+
+No suele ser habitual que dos estrellas de la magnitud de Aitana y Antonio Díaz, más conocido como El Mago Pop, unan fuerzas más allá del escenario para embarcarse en una aventura empresarial. Pero así ha sido con la adquisición del Teatre Aquitània de Barcelona , un espacio con historia que intenta renacer, por enésim.
+
+Date: 2026-07-14
 
 ### Un muerto y cinco heridos en el incendio de un piso en el Ensanche de Barcelona
 
@@ -56,20 +68,7 @@ Vox ha anunciado que interpondrá recursos contenciosos-administrativos contra l
 
 Date: 2026-07-13
 
-### Los Premios Princesa de Girona 2026 impulsan el "talento compartido" de los jóvenes y los seis premiados
-
-La ceremonia de entrega de los Premios Princesa de Girona 2026 —que estará presidida por los Reyes, la Princesa Leonor y la Infanta Sofía— se celebrará este martes en el Gran Teatre del Liceu en Barcelona. Como antesala al acto central, los seis protagonistas de la 17a edición del galardón han llevado a cabo este lunes.
-
-Date: 2026-07-13
-
-### Tercera ola de calor en Barcelona: hasta cuándo durará, pico máximo y temperatura día a día esta semana, según el Meteocat
-
-La primera coincidió con los primeros días de verano astronómico, y la segunda comenzó el 5 de julio con temperaturas récord.
-
-Date: 2026-07-13
-
 ## Fuentes
 
-- [Laporta presiona al Atlético por Julián: «No vamos a bailar la música de nadie»](https://www.abc.es/deportes/futbol/laporta-presiona-atletico-julian-vamos-bailar-musica-20260713192936-nt.html?utm_source=lootura.com) — 2026-07-14T01:07:09.000Z
-- [Rajoy enoja a Francia mientras el Gobierno acusa al PP de torpedear la política exterior](https://www.lavanguardia.com/politica/20260714/11591461/rajoy-enoja-francia-gobierno-acusa-pp-torpedear-politica-exterior.html?utm_source=lootura.com) — 2026-07-13T22:05:00.000Z
-- [Un muerto y cinco heridos en el incendio de un piso en el Ensanche de Barcelona](https://theobjective.com/sociedad/suceso/2026-07-13/muerto-cinco-heridos-incendio-piso-barcelona/?utm_source=lootura.com) — 2026-07-13T19:46:59.000Z
+- [Inquietud en Seat por los recortes de Volkswagen: “Sería ingenuo pensar que no nos van a afectar”](https://elpais.com/economia/2026-07-14/inquietud-en-seat-por-los-recortes-de-volkswagen-seria-ingenuo-pensar-que-no-nos-van-a-afectar.html?utm_source=lootura.com) — 2026-07-14T03:30:01.000Z
+- [El teatro de Barcelona que convierte en socios a Aitana y el Mago Pop](https://www.larazon.es/cataluna/teatro-barcelona-que-convierte-socios-aitana-mago-pop_202607146a55c70d772f745d2c476904.html?utm_source=lootura.com) — 2026-07-14T05:20:13.000Z

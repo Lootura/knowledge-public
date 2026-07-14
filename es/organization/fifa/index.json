@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/fifa/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/fifa/index.json",
   "description": "Sigue la actividad de FIFA en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-13T20:55:35.407Z",
+  "updatedAt": "2026-07-14T06:09:00.827Z",
   "aliases": [],
   "changes": [
     {
@@ -22,6 +22,13 @@
       "date": "2026-07-08"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "La FIFA, el único ganador económico del Mundial",
+      "url": "https://cincodias.elpais.com/opinion/2026-07-14/la-fifa-el-unico-ganador-economico-del-mundial.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-14T03:40:00.000Z",
+      "sourceId": "lootura-es-cinco-dias"
+    }
+  ],
+  "evidenceCount": 1
 }

@@ -3,10 +3,16 @@
 > Sigue la actividad de Lamine Yamal en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-14T02:12:41.111Z
+- Actualizado: 2026-07-14T06:09:00.827Z
 - Canonical: https://atlas.lootura.com/es/person/lamine-yamal
 
 ## Cambios recientes
+
+### Lamine Yamal, una cuestión de genios y de magos: “Es diferente al resto. Tiene algo especial”
+
+Fue en Múnich, hace poco más de dos años, cuando Europa conoció a un chaval llamado Lamine Yamal. Era la semifinal de la Eurocopa 2024 y todavía no había cumplido 17. Interpretó, sin embargo, cómo lastimar a su rival: “Me di cuenta de que Francia tenía un problema en el medio, dejaban ahí a gente suelta”. Se instaló en.
+
+Date: 2026-07-14
 
 ### Lamine Yamal: "Francia y nosotros somos ejemplo de integración para la sociedad"
 
@@ -40,5 +46,4 @@ Date: 2026-07-08
 
 ## Fuentes
 
-- [Lamine Yamal: “Estoy seguro de que mañana va a ser un día especial”](https://elpais.com/deportes/mundial-futbol/2026-07-13/lamine-yamal-estoy-seguro-de-que-manana-va-a-ser-un-dia-especial.html?utm_source=lootura.com) — 2026-07-13T23:49:43.000Z
-- [Lamine Yamal: "Francia y nosotros somos ejemplo de integración para la sociedad"](https://www.larazon.es/deportes/futbol/lamine-yamal-francia-nosotros-somos-ejemplo-integracion-sociedad_202607146a557cfcc48a78681b87be60.html?utm_source=lootura.com) — 2026-07-14T00:05:08.000Z
+- [Lamine Yamal, una cuestión de genios y de magos: “Es diferente al resto. Tiene algo especial”](https://elpais.com/deportes/mundial-futbol/2026-07-14/lamine-yamal-una-cuestion-de-genios-y-de-magos.html?utm_source=lootura.com) — 2026-07-14T03:30:01.000Z

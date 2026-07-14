@@ -3,7 +3,7 @@
 > Sigue la actividad de Estados Unidos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-14T02:12:41.111Z
+- Actualizado: 2026-07-14T06:09:00.827Z
 - Canonical: https://atlas.lootura.com/es/place/united-states
 
 ## Cambios recientes
@@ -70,6 +70,4 @@ Date: 2026-07-13
 
 ## Fuentes
 
-- [Trump dice que EEUU investiga si Irán tiene drones almacenados en Cuba](https://www.20minutos.es/internacional/trump-dice-que-eeuu-investiga-si-iran-tiene-drones-almacenados-cuba_7014204_0.html?utm_source=lootura.com) — 2026-07-14T00:07:41.000Z
-- [Trump amenaza con volver a atacar a Irán: «Los golpearemos muy duro esta noche y mañana»](https://theobjective.com/internacional/2026-07-13/trump-volvera-atacar-iran/?utm_source=lootura.com) — 2026-07-13T21:00:08.000Z
-- [Doce estados de EEUU demandan a Warner Bros y Paramount para bloquear su fusión](https://theobjective.com/internacional/2026-07-13/doce-estados-demandan-warner-paramount/?amp=&utm_source=lootura.com) — 2026-07-13T17:42:55.000Z
+- [Un agente del ICE mata a una persona que trataba de huir en coche de una casa en Maine](https://theobjective.com/internacional/2026-07-14/agente-ice-mata-persona-maine/?amp=&utm_source=lootura.com) — 2026-07-14T05:33:31.000Z

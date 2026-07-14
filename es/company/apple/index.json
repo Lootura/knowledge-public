@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/company/apple/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/company/apple/index.json",
   "description": "Sigue la actividad de Apple en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-14T02:12:41.111Z",
+  "updatedAt": "2026-07-14T06:09:00.827Z",
   "aliases": [
     "Apple Inc"
   ],
@@ -65,13 +65,7 @@
       "url": "https://hipertextual.com/apple/ios-27-beta-publica-ya-disponible-como-instalar-iphone-compatibles/?utm_source=lootura.com",
       "publishedAt": "2026-07-13T21:40:36.000Z",
       "sourceId": "lootura-es-hipertextual"
-    },
-    {
-      "title": "Apple prepara una revolución: el chip M7 Ultra triplicará la memoria de sus Mac más potentes",
-      "url": "https://hipertextual.com/apple/apple-m7-ultra-memoria-unificada-1-5-tb/?utm_source=lootura.com",
-      "publishedAt": "2026-07-13T21:15:00.000Z",
-      "sourceId": "lootura-es-hipertextual"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

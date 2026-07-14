@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/maine/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/maine/index.json",
   "description": "Follow Maine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-14T02:12:59.212Z",
+  "updatedAt": "2026-07-14T06:09:23.919Z",
   "aliases": [],
   "changes": [
     {
@@ -17,9 +17,9 @@
       "date": "2026-07-14"
     },
     {
-      "title": "1 person killed in Maine shooting involving ICE, state house speaker says",
-      "summary": "A person was shot and killed in Maine involving ICE, the state.",
-      "date": "2026-07-13"
+      "title": "ICE Agent Kills Person in Vehicle in Biddeford, Maine, State Officials Say",
+      "summary": "The fatal shooting in Biddeford, Maine, was the second in a week involving an Immigration and Customs Enforcement agent firing into a vehicle.",
+      "date": "2026-07-14"
     },
     {
       "title": "Graham Platner's voters figure out what's next as candidates vie for their support",
@@ -32,13 +32,18 @@
       "date": "2026-07-13"
     },
     {
-      "title": "ICE Agent Kills Person in Vehicle in Biddeford, Maine, State Officials Say",
-      "summary": "The killing occurred in Biddeford, about 20 miles south of Portland. The Trump administration has stepped up immigration enforcement nationally in recent weeks.",
+      "title": "Tamara Keith and Amy Walter on Lindsey Graham's passing",
+      "summary": "NPR's Tamara Keith and Amy Walter of the Cook Political Report with Amy Walter join Geoff Bennett to discuss the latest political news, including what the passing of Sen. Lindsey Graham means for South Carolina and the Senate, Sen. Mitch McConnell's health and Democrats scrambling to replace Graham Platner in the Maine.",
       "date": "2026-07-13"
     },
     {
-      "title": "Tamara Keith and Amy Walter on Lindsey Graham's passing",
-      "summary": "NPR's Tamara Keith and Amy Walter of the Cook Political Report with Amy Walter join Geoff Bennett to discuss the latest political news, including what the passing of Sen. Lindsey Graham means for South Carolina and the Senate, Sen. Mitch McConnell's health and Democrats scrambling to replace Graham Platner in the Maine.",
+      "title": "1 person killed in Maine shooting involving ICE, state house speaker says",
+      "summary": "A person was shot and killed in Maine involving ICE, the state.",
+      "date": "2026-07-13"
+    },
+    {
+      "title": "ICE Agent Kills Person in Vehicle in Biddeford, Maine, State Officials Say",
+      "summary": "The killing occurred in Biddeford, about 20 miles south of Portland. The Trump administration has stepped up immigration enforcement nationally in recent weeks.",
       "date": "2026-07-13"
     },
     {
@@ -55,24 +60,13 @@
       "title": "Maine Democrats scramble to select replacement for Platner in Senate race",
       "summary": "Democrats now have a process for choosing a replacement for Senate candidate Graham Platner. But voters are still reeling from his fall.",
       "date": "2026-07-13"
-    },
-    {
-      "title": "Maine Secretary of State Shenna Bellows on her bid to replace Platner in Senate race",
-      "summary": "NPR's Michel Martin speaks with Maine Secretary of State Shenna Bellows about her run to replace Graham Platner in the Maine Senate race.",
-      "date": "2026-07-13"
     }
   ],
   "sources": [
     {
       "title": "Man fatally shot by ICE in Maine was not intended target of warrant, lawmakers say",
       "url": "https://www.cbsnews.com/news/maine-shooting-ice-biddeford/?utm_source=lootura.com",
-      "publishedAt": "2026-07-14T01:36:03.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
-    {
-      "title": "1 person killed in Maine shooting involving ICE, state house speaker says",
-      "url": "https://www.cbsnews.com/video/person-killed-maine-shooting-involving-ice-state-house-speaker/?utm_source=lootura.com",
-      "publishedAt": "2026-07-13T17:46:35.000Z",
+      "publishedAt": "2026-07-14T03:18:09.000Z",
       "sourceId": "lootura-us-cbs-news"
     },
     {
@@ -96,7 +90,7 @@
     {
       "title": "ICE Agent Kills Person in Vehicle in Biddeford, Maine, State Officials Say",
       "url": "https://www.nytimes.com/2026/07/13/us/biddeford-maine-ice-shooting.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-13T20:10:56.000Z",
+      "publishedAt": "2026-07-14T04:32:14.000Z",
       "sourceId": "lootura-us-the-new-york-times"
     },
     {
@@ -106,5 +100,5 @@
       "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 7
+  "evidenceCount": 6
 }

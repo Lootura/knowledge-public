@@ -3,7 +3,7 @@
 > Sigue la actividad de Apple en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: company
-- Actualizado: 2026-07-14T02:12:41.111Z
+- Actualizado: 2026-07-14T06:09:00.827Z
 - Canonical: https://atlas.lootura.com/es/company/apple
 
 ## Cambios recientes
@@ -65,4 +65,3 @@ Date: 2026-07-10
 ## Fuentes
 
 - [iOS 27 lanza su beta pública con Siri AI: cómo instalarla y iPhone compatibles](https://hipertextual.com/apple/ios-27-beta-publica-ya-disponible-como-instalar-iphone-compatibles/?utm_source=lootura.com) — 2026-07-13T21:40:36.000Z
-- [Apple prepara una revolución: el chip M7 Ultra triplicará la memoria de sus Mac más potentes](https://hipertextual.com/apple/apple-m7-ultra-memoria-unificada-1-5-tb/?utm_source=lootura.com) — 2026-07-13T21:15:00.000Z
