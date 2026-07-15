@@ -3,10 +3,22 @@
 > Follow Democratic Party, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-07-15T02:11:36.851Z
+- Updated: 2026-07-15T06:12:31.661Z
 - Canonical: https://atlas.lootura.com/us/organization/democratic-party
 
 ## Recent changes
+
+### House Votes for Permanent Daylight Saving Time
+
+House Republicans and Democrats united in favor of a bill to eliminate semiannual clock-changing, but it faces an uncertain fate in the Senate.
+
+Date: 2026-07-15
+
+### An ICE Shooting in Maine Puts Pressure on Senator Susan Collins
+
+The Democrats hoping to challenge Ms. Collins, a vulnerable Republican, have seized on the fatal incident, drawing attention to her record on immigration matters.
+
+Date: 2026-07-15
 
 ### Maine Democrats criticize GOP Sen. Susan Collins after fatal ICE shooting of motorist in the state
 
@@ -17,6 +29,12 @@ Date: 2026-07-14
 ### Maine Democrats will square off in first Senate debate since Platner's withdrawal
 
 The first debate on Thursday in Maine's flash Democratic primary may feature a crowded stage. Eight candidates to replace Graham Platner on the ballot have been invited to the debate in Portland, the organizer said Tuesday. News Center Maine, which is sponsoring the event, had initially invited three people who ran for.
+
+Date: 2026-07-14
+
+### Senate Democrats Block Defense Bill Over War in Iran
+
+The vote reflected how the political debate over the conflict in the Middle East has sapped bipartisan support for a normally popular measure.
 
 Date: 2026-07-14
 
@@ -50,26 +68,10 @@ Democrats vying to replace former Maine Senate nominee Graham Platner on the bal
 
 Date: 2026-07-14
 
-### Senate Democrats Block Defense Bill Over War in Iran
-
-The vote reflected how the political debate over the conflict in the Middle East has sapped bipartisan support for a normally popular measure.
-
-Date: 2026-07-14
-
-### Platner's voters are reeling as Maine Democratic Party races to choose his replacement
-
-Graham Platner generated enthusiasm in Maine with his progressive policies. Now he's out of the race, and his supporters have to decide what's next, as Maine Democrats prepare to choose a nominee. (Image credit: Tamara Keith/NPR).
-
-Date: 2026-07-14
-
-### Democratic Senate Candidates in Maine Denounce Deadly ICE Shooting
-
-The killing of a man in Biddeford quickly became an issue in the Senate race, with Democrats aiming to tie Senator Susan Collins to President Trump’s immigration crackdown.
-
-Date: 2026-07-14
-
 ## Sources
 
 - [Maine Democrats criticize GOP Sen. Susan Collins after fatal ICE shooting of motorist in the state](https://www.pbs.org/newshour/politics/maine-democrats-criticize-gop-sen-susan-collins-after-fatal-ice-shooting-of-motorist-in-the-state?utm_source=lootura.com) — 2026-07-14T23:05:04.000Z
 - [Maine Democrats will square off in first Senate debate since Platner's withdrawal](https://www.politico.com/news/2026/07/14/maine-democrats-senate-debate-platner-00997107?utm_source=lootura.com) — 2026-07-14T18:34:24.000Z
 - [Senate Democrats Block Defense Bill Over War in Iran](https://www.nytimes.com/2026/07/14/us/politics/senate-democrats-defense-bill.html?utm_source=lootura.com) — 2026-07-14T19:44:27.000Z
+- [House Votes for Permanent Daylight Saving Time](https://www.nytimes.com/2026/07/14/us/politics/house-daylight-savings-time-sunshine-protection-act.html?utm_source=lootura.com) — 2026-07-15T01:33:07.000Z
+- [An ICE Shooting in Maine Puts Pressure on Senator Susan Collins](https://www.nytimes.com/2026/07/14/us/politics/ice-shooting-maine-susan-collins.html?utm_source=lootura.com) — 2026-07-15T03:12:35.000Z

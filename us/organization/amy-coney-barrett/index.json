@@ -8,9 +8,14 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/amy-coney-barrett/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/amy-coney-barrett/index.json",
   "description": "Follow Amy Coney Barrett, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-15T02:11:36.851Z",
+  "updatedAt": "2026-07-15T06:12:31.661Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "Funding milestone detected",
+      "summary": "Supreme Court Justices Elena Kagan and Amy Coney Barrett spoke with lawmakers about funding for security and other needs for the court on Tuesday. (Image credit: Anna Moneymaker).",
+      "date": "2026-07-15"
+    },
     {
       "title": "Takeaways From Justices Kagan and Barrett’s Congressional Testimony on Supreme Court Security",
       "summary": "Elena Kagan and Amy Coney Barrett, the first Supreme Court justices to testify since 2019, talked about ethics and security threats during a collegial hearing.",
@@ -25,9 +30,26 @@
       "title": "Funding milestone detected",
       "summary": "Supreme Court Justices Elena Kagan and Amy Coney Barrett testified before Congress as the nation's highest court looks to increase security funding in the wake of threats. It's the first time Supreme Court justices have appeared before Congress since 2019. Congressional correspondent Lisa Desjardins reports.",
       "date": "2026-07-14"
+    },
+    {
+      "title": "Funding milestone detected",
+      "summary": "Justices Elena Kagan and Amy Coney Barrett met with lawmakers on Tuesday for a regular budget hearing.",
+      "date": "2026-07-14"
     }
   ],
   "sources": [
+    {
+      "title": "Supreme Court Justices give chilling accounts of threats to their safety",
+      "url": "https://www.npr.org/2026/07/14/nx-s1-5893664/supreme-court-justices-kagan-barrett-give-chilling-accounts-of-threats-to-their-safety?utm_source=lootura.com",
+      "publishedAt": "2026-07-15T03:19:25.000Z",
+      "sourceId": "lootura-us-npr"
+    },
+    {
+      "title": "Supreme Court Justices Barrett and Kagan discuss security funding on Capitol Hill",
+      "url": "https://www.npr.org/2026/07/14/nx-s1-5888645/supreme-court-justices-barrett-and-kagan-discuss-security-funding-on-capitol-hill?utm_source=lootura.com",
+      "publishedAt": "2026-07-14T20:29:34.000Z",
+      "sourceId": "lootura-us-npr"
+    },
     {
       "title": "Supreme Court justices make case for more security funding",
       "url": "https://www.pbs.org/newshour/show/supreme-court-justices-make-case-for-more-security-funding?utm_source=lootura.com",
@@ -41,5 +63,5 @@
       "sourceId": "lootura-us-the-new-york-times"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 4
 }

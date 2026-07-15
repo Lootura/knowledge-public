@@ -8,11 +8,21 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/democratic-party/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/democratic-party/index.json",
   "description": "Follow Democratic Party, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-15T02:11:36.851Z",
+  "updatedAt": "2026-07-15T06:12:31.661Z",
   "aliases": [
     "Democrats"
   ],
   "changes": [
+    {
+      "title": "House Votes for Permanent Daylight Saving Time",
+      "summary": "House Republicans and Democrats united in favor of a bill to eliminate semiannual clock-changing, but it faces an uncertain fate in the Senate.",
+      "date": "2026-07-15"
+    },
+    {
+      "title": "An ICE Shooting in Maine Puts Pressure on Senator Susan Collins",
+      "summary": "The Democrats hoping to challenge Ms. Collins, a vulnerable Republican, have seized on the fatal incident, drawing attention to her record on immigration matters.",
+      "date": "2026-07-15"
+    },
     {
       "title": "Maine Democrats criticize GOP Sen. Susan Collins after fatal ICE shooting of motorist in the state",
       "summary": "A federal immigration agent fatally shot a motorist just south of Maine's largest city on Monday, the second time in a week that ICE has used deadly force on American soil and at least the ninth death since President Donald Trump began his immigration crackdown.",
@@ -21,6 +31,11 @@
     {
       "title": "Maine Democrats will square off in first Senate debate since Platner's withdrawal",
       "summary": "The first debate on Thursday in Maine's flash Democratic primary may feature a crowded stage. Eight candidates to replace Graham Platner on the ballot have been invited to the debate in Portland, the organizer said Tuesday. News Center Maine, which is sponsoring the event, had initially invited three people who ran for.",
+      "date": "2026-07-14"
+    },
+    {
+      "title": "Senate Democrats Block Defense Bill Over War in Iran",
+      "summary": "The vote reflected how the political debate over the conflict in the Middle East has sapped bipartisan support for a normally popular measure.",
       "date": "2026-07-14"
     },
     {
@@ -47,21 +62,6 @@
       "title": "Maine Democrats will square off in Senate debate Thursday",
       "summary": "Democrats vying to replace former Maine Senate nominee Graham Platner on the ballot are set to battle on the debate stage Thursday night. News Center Maine confirmed the debate, which will be held at 7 p.m. EDT in Portland and include three former gubernatorial hopefuls — Troy Jackson , Shenna Bellows and Nirav Shah —.",
       "date": "2026-07-14"
-    },
-    {
-      "title": "Senate Democrats Block Defense Bill Over War in Iran",
-      "summary": "The vote reflected how the political debate over the conflict in the Middle East has sapped bipartisan support for a normally popular measure.",
-      "date": "2026-07-14"
-    },
-    {
-      "title": "Platner's voters are reeling as Maine Democratic Party races to choose his replacement",
-      "summary": "Graham Platner generated enthusiasm in Maine with his progressive policies. Now he's out of the race, and his supporters have to decide what's next, as Maine Democrats prepare to choose a nominee. (Image credit: Tamara Keith/NPR).",
-      "date": "2026-07-14"
-    },
-    {
-      "title": "Democratic Senate Candidates in Maine Denounce Deadly ICE Shooting",
-      "summary": "The killing of a man in Biddeford quickly became an issue in the Senate race, with Democrats aiming to tie Senator Susan Collins to President Trump’s immigration crackdown.",
-      "date": "2026-07-14"
     }
   ],
   "sources": [
@@ -81,8 +81,20 @@
       "title": "Senate Democrats Block Defense Bill Over War in Iran",
       "url": "https://www.nytimes.com/2026/07/14/us/politics/senate-democrats-defense-bill.html?utm_source=lootura.com",
       "publishedAt": "2026-07-14T19:44:27.000Z",
+      "sourceId": "lootura-us-the-new-york-times"
+    },
+    {
+      "title": "House Votes for Permanent Daylight Saving Time",
+      "url": "https://www.nytimes.com/2026/07/14/us/politics/house-daylight-savings-time-sunshine-protection-act.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-15T01:33:07.000Z",
+      "sourceId": "lootura-us-the-new-york-times-politics"
+    },
+    {
+      "title": "An ICE Shooting in Maine Puts Pressure on Senator Susan Collins",
+      "url": "https://www.nytimes.com/2026/07/14/us/politics/ice-shooting-maine-susan-collins.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-15T03:12:35.000Z",
       "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 5
 }

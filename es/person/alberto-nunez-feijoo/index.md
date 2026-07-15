@@ -70,5 +70,4 @@ Date: 2026-07-13
 
 ## Fuentes
 
-- [El PP califica de "histórica" la condena del hermano de Sánchez: "Nadie está por encima de la ley"](https://www.elmundo.es/espana/2026/07/14/6a5621e6e85ece9a268b457b.html?utm_source=lootura.com) — 2026-07-14T11:58:30.000Z
-- [Feijóo critica que el Gobierno «descalifique» la sentencia de David Sánchez: «Me preocupa»](https://theobjective.com/espana/politica/2026-07-14/feijoo-gobierno-sentencia-david-sanchez/?utm_source=lootura.com) — 2026-07-14T19:22:32.000Z
+No public source links.

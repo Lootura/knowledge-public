@@ -3,10 +3,22 @@
 > Sigue la actividad de Donald Trump en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-15T02:11:09.495Z
+- Actualizado: 2026-07-15T06:12:14.832Z
 - Canonical: https://atlas.lootura.com/es/person/donald-trump
 
 ## Cambios recientes
+
+### Trump estrecha el cerco sobre Cuba con sanciones, bloqueo y amenaza militar
+
+Sin grandes anuncios ni gestos solemnes, Donald Trump ha situado a Cuba en el centro de su estrategia de presión máxima en el continente americano. Después de concentrar durante meses su atención en Venezuela e Irán, la Casa Blanca investiga ahora si la isla almacena drones iraníes, y el propio presidente ha advertido.
+
+Date: 2026-07-15
+
+### Trump agita las elecciones de medio mandato con la supuesta aparición de pruebas de fraude electoral en 2020
+
+El jueves dirigirá a la nación un discurso en el que retomará la batalla de los comicios que perdió con Joe Biden: "Nuestras elecciones son corruptas y tenemos que enderezarlas", ha dicho. Revisará miles de páginas de documentos clasificados de inteligencia Leer.
+
+Date: 2026-07-14
 
 ### El último giro de Trump alivia las Bolsas y modera el alza del ‘brent’
 
@@ -17,12 +29,6 @@ Date: 2026-07-14
 ### Trump dice ahora que aceptará acuerdos de inversión con los países del Golfo en lugar de una tarifa del 20% por usar Ormuz
 
 Explica que el cambio se debe a conversaciones "sumamente productivas" con líderes de Oriente Próximo Leer.
-
-Date: 2026-07-14
-
-### Trump agita las elecciones de medio mandato con la supuesta aparición de pruebas de fraude electoral en 2020
-
-El jueves dirigirá a la nación un discurso en el que retomará la batalla de los comicios que perdió con Joe Biden: "Nuestras elecciones son corruptas y tenemos que enderezarlas", ha dicho. Revisará miles de páginas de documentos clasificados de inteligencia Leer.
 
 Date: 2026-07-14
 
@@ -62,14 +68,7 @@ El presidente de Estados Unidos, Donald Trump, ha pagado 5,6 millones de dólare
 
 Date: 2026-07-14
 
-### Product availability changed in Europe
-
-Con poco más de un año en el mercado, la Nintendo Switch 2 ya vendió casi 20 millones de unidades en todo el mundo. La consola de la firma japonesa se impuso a la incertidumbre de los aranceles de Trump, la escasez de componentes y el encarecimiento de su precio inicial respecto de su predecesora, y consiguió gran éxit.
-
-Date: 2026-07-14
-
 ## Fuentes
 
-- [El último giro de Trump alivia las Bolsas y modera el alza del ‘brent’](https://cincodias.elpais.com/mercados-financieros/2026-07-14/la-bolsa-y-el-ibex-35.html?utm_source=lootura.com) — 2026-07-14T21:15:19.000Z
+- [Trump estrecha el cerco sobre Cuba con sanciones, bloqueo y amenaza militar](https://www.abc.es/internacional/trump-estrecha-cerco-sobre-cuba-sanciones-bloqueo-20260713023226-nt.html?utm_source=lootura.com) — 2026-07-15T05:44:23.000Z
 - [Trump agita las elecciones de medio mandato con la supuesta aparición de pruebas de fraude electoral en 2020](https://www.elmundo.es/internacional/2026/07/14/6a562113fc6c83c1428b4581.html?utm_source=lootura.com) — 2026-07-14T20:42:28.000Z
-- [Trump dice ahora que aceptará acuerdos de inversión con los países del Golfo en lugar de una tarifa del 20% por usar Ormuz](https://www.elmundo.es/internacional/2026/07/14/6a56535ae85ece107b8b4572.html?utm_source=lootura.com) — 2026-07-14T15:40:36.000Z

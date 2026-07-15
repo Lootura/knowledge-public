@@ -3,10 +3,16 @@
 > Follow China, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-14T20:58:39.119Z
+- Updated: 2026-07-15T06:12:31.661Z
 - Canonical: https://atlas.lootura.com/us/place/china
 
 ## Recent changes
+
+### China’s Economy Grows at Slowest Pace in Years
+
+Economic growth of 4.3 percent in the second quarter, versus the same period last year, reflected a broad slump outside of the country’s export-oriented manufacturing might.
+
+Date: 2026-07-15
 
 ### A new smart coating could improve the cleanup of nuclear wastewater
 
@@ -62,12 +68,6 @@ Facing threats from Russia and China, Prime Minister Sanae Takaichi is breaking 
 
 Date: 2026-07-13
 
-### Graduating without a thesis: meet the people getting ‘practical’ PhDs in China
-
-Nature, Published online: 09 July 2026; doi:10.1038/d41586-026-01242-z Nature spoke to three students from China’s first cohort of PhD candidates who are allowed to graduate with products instead of papers.
-
-Date: 2026-07-12
-
 ## Sources
 
-No public source links.
+- [China’s Economy Grows at Slowest Pace in Years](https://www.nytimes.com/2026/07/15/business/china-economy-gdp-growth.html?utm_source=lootura.com) — 2026-07-15T04:41:25.000Z

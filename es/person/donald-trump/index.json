@@ -8,13 +8,23 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/donald-trump/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/donald-trump/index.json",
   "description": "Sigue la actividad de Donald Trump en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-15T02:11:09.495Z",
+  "updatedAt": "2026-07-15T06:12:14.832Z",
   "aliases": [
     "President Donald Trump",
     "President Trump",
     "Trump"
   ],
   "changes": [
+    {
+      "title": "Trump estrecha el cerco sobre Cuba con sanciones, bloqueo y amenaza militar",
+      "summary": "Sin grandes anuncios ni gestos solemnes, Donald Trump ha situado a Cuba en el centro de su estrategia de presión máxima en el continente americano. Después de concentrar durante meses su atención en Venezuela e Irán, la Casa Blanca investiga ahora si la isla almacena drones iraníes, y el propio presidente ha advertido.",
+      "date": "2026-07-15"
+    },
+    {
+      "title": "Trump agita las elecciones de medio mandato con la supuesta aparición de pruebas de fraude electoral en 2020",
+      "summary": "El jueves dirigirá a la nación un discurso en el que retomará la batalla de los comicios que perdió con Joe Biden: \"Nuestras elecciones son corruptas y tenemos que enderezarlas\", ha dicho. Revisará miles de páginas de documentos clasificados de inteligencia Leer.",
+      "date": "2026-07-14"
+    },
     {
       "title": "El último giro de Trump alivia las Bolsas y modera el alza del ‘brent’",
       "summary": "Los mercados vuelven a enfrentarse a uno de los rasgos más característicos de la presidencia de Donald Trump: la imprevisibilidad. Apenas 24 horas después de que Washington restableciera el bloqueo en el estrecho de Ormuz y anunciara un peaje equivalente al 20% del valor de la carga para cada barco que atravesara este.",
@@ -23,11 +33,6 @@
     {
       "title": "Trump dice ahora que aceptará acuerdos de inversión con los países del Golfo en lugar de una tarifa del 20% por usar Ormuz",
       "summary": "Explica que el cambio se debe a conversaciones \"sumamente productivas\" con líderes de Oriente Próximo Leer.",
-      "date": "2026-07-14"
-    },
-    {
-      "title": "Trump agita las elecciones de medio mandato con la supuesta aparición de pruebas de fraude electoral en 2020",
-      "summary": "El jueves dirigirá a la nación un discurso en el que retomará la batalla de los comicios que perdió con Joe Biden: \"Nuestras elecciones son corruptas y tenemos que enderezarlas\", ha dicho. Revisará miles de páginas de documentos clasificados de inteligencia Leer.",
       "date": "2026-07-14"
     },
     {
@@ -59,32 +64,21 @@
       "title": "Trump paga 5,6 millones a la escritora Carroll tras ser condenado por abuso sexual y difamación",
       "summary": "El presidente de Estados Unidos, Donald Trump, ha pagado 5,6 millones de dólares a la escritora E. Jean Carroll después de que ganara en 2023 un caso civil por abuso sexual y difamación en su contra. El magnate todavía le debe otros 83 millones, derivados de un caso posterior, por difamarla.«Hace tres años, un jurado .",
       "date": "2026-07-14"
-    },
-    {
-      "title": "Product availability changed in Europe",
-      "summary": "Con poco más de un año en el mercado, la Nintendo Switch 2 ya vendió casi 20 millones de unidades en todo el mundo. La consola de la firma japonesa se impuso a la incertidumbre de los aranceles de Trump, la escasez de componentes y el encarecimiento de su precio inicial respecto de su predecesora, y consiguió gran éxit.",
-      "date": "2026-07-14"
     }
   ],
   "sources": [
     {
-      "title": "El último giro de Trump alivia las Bolsas y modera el alza del ‘brent’",
-      "url": "https://cincodias.elpais.com/mercados-financieros/2026-07-14/la-bolsa-y-el-ibex-35.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-14T21:15:19.000Z",
-      "sourceId": "lootura-es-cinco-dias"
+      "title": "Trump estrecha el cerco sobre Cuba con sanciones, bloqueo y amenaza militar",
+      "url": "https://www.abc.es/internacional/trump-estrecha-cerco-sobre-cuba-sanciones-bloqueo-20260713023226-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-15T05:44:23.000Z",
+      "sourceId": "lootura-es-abc"
     },
     {
       "title": "Trump agita las elecciones de medio mandato con la supuesta aparición de pruebas de fraude electoral en 2020",
       "url": "https://www.elmundo.es/internacional/2026/07/14/6a562113fc6c83c1428b4581.html?utm_source=lootura.com",
       "publishedAt": "2026-07-14T20:42:28.000Z",
       "sourceId": "lootura-es-el-mundo"
-    },
-    {
-      "title": "Trump dice ahora que aceptará acuerdos de inversión con los países del Golfo en lugar de una tarifa del 20% por usar Ormuz",
-      "url": "https://www.elmundo.es/internacional/2026/07/14/6a56535ae85ece107b8b4572.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-14T15:40:36.000Z",
-      "sourceId": "lootura-es-el-mundo"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 2
 }

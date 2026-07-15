@@ -8,15 +8,15 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/partido-popular/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/partido-popular/index.json",
   "description": "Sigue la actividad de Partido Popular en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-15T02:11:09.495Z",
+  "updatedAt": "2026-07-15T06:12:14.832Z",
   "aliases": [
     "PP"
   ],
   "changes": [
     {
-      "title": "El PP califica de \"histórica\" la condena del hermano de Sánchez: \"Nadie está por encima de la ley\"",
-      "summary": "Feijóo celebra que el Estado de Derecho funcione en España para todos, \"sean de la familia que sean\" Leer.",
-      "date": "2026-07-14"
+      "title": "Vox fuerza a Llorca a quitar ayudas a Cruz Roja para pagar un estudio que asocia inmigración y delincuencia",
+      "summary": "Vox ha convertido el trámite de enmiendas al proyecto de ley de Presupuestos de la Generalitat para 2026 en la vía de entrada de sus propuestas políticas más controvertidas con el aval del Partido Popular de Juanfran Pérez Llorca, que necesita su voto para sacar adelante las cuentas autonómicas. El grupo parlamentario.",
+      "date": "2026-07-15"
     },
     {
       "title": "El PP augura un calvario largo para Pedro Sánchez: \"Les queda lo peor\"",
@@ -26,6 +26,11 @@
     {
       "title": "El Congreso tumba con 178 votos y cinco abstenciones la senda de estabilidad presupuestaria y anticipa ya el fracaso de las cuentas públicas para 2027",
       "summary": "Para el PP, el acuerdo que esperan los ciudadanos es la convocatoria de elecciones; Junts cree que el Gobierno intenta tapar \"el latrocinio de los suyos\" y Vox acusa al Ejecutivo de \"castigar a los españoles\" Leer.",
+      "date": "2026-07-14"
+    },
+    {
+      "title": "El PP califica de \"histórica\" la condena del hermano de Sánchez: \"Nadie está por encima de la ley\"",
+      "summary": "Feijóo celebra que el Estado de Derecho funcione en España para todos, \"sean de la familia que sean\" Leer.",
       "date": "2026-07-14"
     },
     {
@@ -57,14 +62,15 @@
       "title": "PP, Vox y Junts unen fuerzas para asestar un golpe al Gobierno y tumban el primer examen del Congreso al Presupuesto",
       "summary": "El Ministerio de Hacienda aprobará la semana que viene la misma senda de estabilidad que ha decaído este martes, con el objetivo de acelerar la redacción de las cuentas públicas después del verano Hacienda recupera una idea de Montoro en 2013 para tentar a las comunidades del PP peor financiadas El Congreso de los Dipu.",
       "date": "2026-07-14"
-    },
-    {
-      "title": "El Congreso da un paso más para eliminar los delitos de las injurias al rey o de ofensa a los sentimientos religiosos",
-      "summary": "La mayoría de la Cámara Baja tumba las enmiendas a la totalidad de PP y Vox a una norma impulsada por PSOE y Sumar que también plantea despenalizar las calumnias e injurias a las altas instituciones del Estado PSOE y Sumar reactivan la despenalización de las ofensas a los sentimientos religiosos y a la Corona La mayorí.",
-      "date": "2026-07-14"
     }
   ],
   "sources": [
+    {
+      "title": "Vox fuerza a Llorca a quitar ayudas a Cruz Roja para pagar un estudio que asocia inmigración y delincuencia",
+      "url": "https://www.elconfidencial.com/espana/comunidad-valenciana/2026-07-15/vox-llorca-ayudas-cruz-roja-inmigracion-delincuencia_4389907/?utm_source=lootura.com",
+      "publishedAt": "2026-07-15T03:00:00.000Z",
+      "sourceId": "lootura-es-el-confidencial"
+    },
     {
       "title": "El PP augura un calvario largo para Pedro Sánchez: \"Les queda lo peor\"",
       "url": "https://www.elmundo.es/espana/2026/07/14/6a566e14e85ece461a8b4597.html?utm_source=lootura.com",
@@ -72,29 +78,11 @@
       "sourceId": "lootura-es-el-mundo"
     },
     {
-      "title": "El PP califica de \"histórica\" la condena del hermano de Sánchez: \"Nadie está por encima de la ley\"",
-      "url": "https://www.elmundo.es/espana/2026/07/14/6a5621e6e85ece9a268b457b.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-14T11:58:30.000Z",
-      "sourceId": "lootura-es-el-mundo"
-    },
-    {
       "title": "El Congreso tumba con 178 votos y cinco abstenciones la senda de estabilidad presupuestaria y anticipa ya el fracaso de las cuentas públicas para 2027",
       "url": "https://www.elmundo.es/espana/2026/07/14/6a562a72fdddff361b8b456e.html?utm_source=lootura.com",
       "publishedAt": "2026-07-14T18:03:15.000Z",
       "sourceId": "lootura-es-el-mundo"
-    },
-    {
-      "title": "El Congreso aprueba la reforma de la dependencia que añade 6.200 millones con el único voto en contra de Vox",
-      "url": "https://www.eldiario.es/sociedad/congreso-aprueba-reformas-dependencia-discapacidad-unico-voto-vox_1_13379081.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-14T18:08:28.000Z",
-      "sourceId": "lootura-es-eldiario-es"
-    },
-    {
-      "title": "Feijóo critica que el Gobierno «descalifique» la sentencia de David Sánchez: «Me preocupa»",
-      "url": "https://theobjective.com/espana/politica/2026-07-14/feijoo-gobierno-sentencia-david-sanchez/?utm_source=lootura.com",
-      "publishedAt": "2026-07-14T19:22:32.000Z",
-      "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 5
+  "evidenceCount": 3
 }

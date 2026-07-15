@@ -8,9 +8,14 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/venezuela/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/venezuela/index.json",
   "description": "Sigue la actividad de Venezuela en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-15T02:11:09.495Z",
+  "updatedAt": "2026-07-15T06:12:14.832Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "Trump estrecha el cerco sobre Cuba con sanciones, bloqueo y amenaza militar",
+      "summary": "Sin grandes anuncios ni gestos solemnes, Donald Trump ha situado a Cuba en el centro de su estrategia de presión máxima en el continente americano. Después de concentrar durante meses su atención en Venezuela e Irán, la Casa Blanca investiga ahora si la isla almacena drones iraníes, y el propio presidente ha advertido.",
+      "date": "2026-07-15"
+    },
     {
       "title": "Nuevo balance de víctimas en Venezuela por el doble terremoto: 4.734 muertos",
       "summary": "La cifra de muertos por el doble terremoto ocurrido hace casi tres semanas en la zona norte de Venezuela ascendió este martes a 4.734, tras sumarse 173 nuevos fallecimientos, informó el presidente del Parlamento, el chavista Jorge Rodríguez. Las cifras de heridos y personas sin viviendas se mantienen en 16.740 y 17.907.",
@@ -55,19 +60,14 @@
       "title": "Los muertos en Venezuela a causa del doble terremoto ya son casi 4.500",
       "summary": "Las autoridades venezolanas han elevado a casi 4.500 las víctimas mortales derivadas de los devastadores terremotos registrados en el centro de la costa.",
       "date": "2026-07-12"
-    },
-    {
-      "title": "Discovered by Atlas",
-      "summary": "Venezuela first entered the public knowledge record with source-backed evidence.",
-      "date": "2026-07-11"
     }
   ],
   "sources": [
     {
-      "title": "Nuevo balance de víctimas en Venezuela por el doble terremoto: 4.734 muertos",
-      "url": "https://theobjective.com/internacional/2026-07-14/nuevo-balance-victimas-venezuela/?utm_source=lootura.com",
-      "publishedAt": "2026-07-14T20:08:59.000Z",
-      "sourceId": "lootura-es-the-objective"
+      "title": "Trump estrecha el cerco sobre Cuba con sanciones, bloqueo y amenaza militar",
+      "url": "https://www.abc.es/internacional/trump-estrecha-cerco-sobre-cuba-sanciones-bloqueo-20260713023226-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-15T05:44:23.000Z",
+      "sourceId": "lootura-es-abc"
     }
   ],
   "evidenceCount": 1

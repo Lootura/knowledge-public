@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/donald-trump/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/donald-trump/index.json",
   "description": "Follow Donald Trump, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-15T02:11:36.851Z",
+  "updatedAt": "2026-07-15T06:12:31.661Z",
   "aliases": [
     "President Donald Trump",
     "President Trump",
@@ -21,18 +21,18 @@
       "date": "2026-07-15"
     },
     {
-      "title": "Morning news brief",
-      "summary": "Trump says the U.S. will collect tolls and impose blockade in the Strait of Hormuz, man killed by federal agents in Maine, states sue to stop Paramount-Warner Bros merger.",
-      "date": "2026-07-14"
+      "title": "Flights grounded at D.C.-area airport due to security concerns for Iraqi leader",
+      "summary": "The Iraqi leader was in Washington to meet with President Trump.",
+      "date": "2026-07-15"
+    },
+    {
+      "title": "Trump will speak on elections in Thursday primetime address",
+      "summary": "The speech comes as President Trump has escalated calls for Republicans to pass tighter federal voting rules for November's midterm elections. (Image credit: Julia Demaree Nikhinson).",
+      "date": "2026-07-15"
     },
     {
       "title": "E. Jean Carroll Receives $5.6 Million Payment From Trump in Civil Case",
       "summary": "A federal jury found President Trump liable for sexually abusing and defaming Ms. Carroll. He exhausted his appeals last month, prompting a judge to order that the money be paid.",
-      "date": "2026-07-14"
-    },
-    {
-      "title": "‘I Am Frustrated’: Emails Show Blanche’s Role in Trump’s Retribution Campaign",
-      "summary": "The cooperation of Todd Blanche will be a flashpoint in his confirmation hearing to be attorney general on Wednesday.",
       "date": "2026-07-14"
     },
     {
@@ -74,10 +74,16 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "Morning news brief",
-      "url": "https://www.npr.org/2026/07/14/nx-s1-5891540/morning-news-brief?utm_source=lootura.com",
-      "publishedAt": "2026-07-14T09:02:31.000Z",
-      "sourceId": "lootura-us-npr"
+      "title": "Flights grounded at D.C.-area airport due to security concerns for Iraqi leader",
+      "url": "https://www.cbsnews.com/news/washington-dca-flight-delays-iraq-pm-trump-security/?utm_source=lootura.com",
+      "publishedAt": "2026-07-15T04:23:07.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
+    {
+      "title": "Trump will speak on elections in Thursday primetime address",
+      "url": "https://www.npr.org/2026/07/15/nx-s1-5894580/trump-elections-primetime-address?utm_source=lootura.com",
+      "publishedAt": "2026-07-15T06:00:46.000Z",
+      "sourceId": "lootura-us-npr-politics"
     },
     {
       "title": "Maine Democrats criticize GOP Sen. Susan Collins after fatal ICE shooting of motorist in the state",
@@ -107,12 +113,6 @@
       "title": "E. Jean Carroll Receives $5.6 Million Payment From Trump in Civil Case",
       "url": "https://www.nytimes.com/2026/07/14/nyregion/carroll-trump-settlement-million.html?utm_source=lootura.com",
       "publishedAt": "2026-07-14T18:58:25.000Z",
-      "sourceId": "lootura-us-the-new-york-times"
-    },
-    {
-      "title": "ICE Shootings Put Spotlight on Lack of Body Cameras",
-      "url": "https://www.nytimes.com/2026/07/14/us/politics/ice-body-cameras.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-14T21:55:35.000Z",
       "sourceId": "lootura-us-the-new-york-times"
     },
     {

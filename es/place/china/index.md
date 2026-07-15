@@ -3,10 +3,22 @@
 > Sigue la actividad de China en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-14T20:58:20.799Z
+- Actualizado: 2026-07-15T06:12:14.832Z
 - Canonical: https://atlas.lootura.com/es/place/china
 
 ## Cambios recientes
+
+### China acelera su ofensiva comercial sobre Europa
+
+El gigante asiático bate un nuevo récord de exportaciones impulsado por los chips para la IA y los coches eléctricos, pero afronta una desaceleración del crecimiento que evidencia la debilidad del consumo interno Leer.
+
+Date: 2026-07-15
+
+### El Ibex vuelve a atascarse
+
+La minitregua en el petróleo, y el alivio ayer en el IPC de EEUU, no logran generalizar las subidas, más allá del rebote de las tecnológicas. El freno en el PIB de China y el tono agresivo de la Fed obstaculizan los avances. El Ibex vuelve a atascarse cerca de los 19.300 puntos de las últimas jornadas.
+
+Date: 2026-07-15
 
 ### DeepSeek acelera los preparativos para salir a Bolsa
 
@@ -56,18 +68,8 @@ El café se ha convertido en una de las piedras angulares de la nueva hoja de ru
 
 Date: 2026-07-12
 
-### La Policía Nacional detiene a 16 personas y libera a 26 mujeres de una red china de prostitución
-
-La Policía Nacional ha desarticulado una red de prostitución de origen chino en una operación conjunta con Vigilancia Aduanera de la Agencia Tributaria , que se ha saldado con 16 detenidos y la liberación de 26 mujeres explotadas sexualmente. El dispositivo, desarrollado en seis provincias, ha conllevado además el cier.
-
-Date: 2026-07-10
-
-### China se convierte en el segundo país capaz de recuperar la primera etapa de un cohete con el lanzamiento con éxito del primer Larga Marcha 10B
-
-Esta mañana China se convertía en el segundo país , tras los Estados Unidos, capaz de recuperar la primera etapa de un cohete con el lanzamiento con éxito del primer Larga Marcha 10B , cuya segunda etapa además puso en órbita sin problemas la carga útil que llevaba, lo que hace que la misión haya sido un éxito completo.
-
-Date: 2026-07-10
-
 ## Fuentes
 
-No public source links.
+- [ASML supera las previsiones en el segundo trimestre gracias al impulso de la IA](https://cincodias.elpais.com/companias/2026-07-15/asml-supera-las-previsiones-en-el-segundo-trimestre-gracias-al-impulso-de-la-ia.html?utm_source=lootura.com) — 2026-07-15T05:24:17.000Z
+- [China acelera su ofensiva comercial sobre Europa](https://www.elmundo.es/economia/macroeconomia/2026/07/15/6a56f882fdddffac3c8b4587.html?utm_source=lootura.com) — 2026-07-15T05:08:14.000Z
+- [El Ibex vuelve a atascarse](https://www.expansion.com/mercados/cronica-bolsa/2026/07/15/6a571f27e5fdea9c048b4584.html?utm_source=lootura.com) — 2026-07-15T06:09:56.000Z

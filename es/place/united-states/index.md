@@ -3,7 +3,7 @@
 > Sigue la actividad de Estados Unidos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-15T02:11:09.495Z
+- Actualizado: 2026-07-15T06:12:14.832Z
 - Canonical: https://atlas.lootura.com/es/place/united-states
 
 ## Cambios recientes
@@ -70,4 +70,4 @@ Date: 2026-07-14
 
 ## Fuentes
 
-- [EEUU restablece el bloqueo naval a Irán y lanza una nueva ola de bombardeos](https://theobjective.com/internacional/2026-07-14/eeuu-bloqueo-naval-bombardeo-iran/?utm_source=lootura.com) — 2026-07-14T20:40:14.000Z
+- [La emotiva celebración de los Reyes y sus hijas por el pase de España a la final: apretones de manos, sonrisas y un abrazo que lo dice todo](https://theobjective.com/gente/2026-07-15/emotiva-celebracion-reyes-hijas-semifinal-mundial/?utm_source=lootura.com) — 2026-07-15T05:28:54.000Z

@@ -3,7 +3,7 @@
 > Follow Angus King, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-07-15T02:11:36.851Z
+- Updated: 2026-07-15T06:12:31.661Z
 - Canonical: https://atlas.lootura.com/us/person/angus-king
 
 ## Recent changes

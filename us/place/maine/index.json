@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/maine/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/maine/index.json",
   "description": "Follow Maine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-15T02:11:36.851Z",
+  "updatedAt": "2026-07-15T06:12:31.661Z",
   "aliases": [],
   "changes": [
     {
@@ -22,9 +22,14 @@
       "date": "2026-07-15"
     },
     {
-      "title": "Morning news brief",
-      "summary": "Trump says the U.S. will collect tolls and impose blockade in the Strait of Hormuz, man killed by federal agents in Maine, states sue to stop Paramount-Warner Bros merger.",
-      "date": "2026-07-14"
+      "title": "After ICE fatally shot multiple people, officials speak out: \"We want them out\"",
+      "summary": "U.S. Immigration and Customs Enforcement officials shot and killed two men in the last week in Maine and in Texas. Maine's House speaker, a Houston prosecutor and a Minnesota attorney spoke with CBS News about the violence.",
+      "date": "2026-07-15"
+    },
+    {
+      "title": "An ICE Shooting in Maine Puts Pressure on Senator Susan Collins",
+      "summary": "The Democrats hoping to challenge Ms. Collins, a vulnerable Republican, have seized on the fatal incident, drawing attention to her record on immigration matters.",
+      "date": "2026-07-15"
     },
     {
       "title": "Family of a man shot by agents responding to a 911 call seeks answers",
@@ -55,11 +60,6 @@
       "title": "Maine Democrats will square off in first Senate debate since Platner's withdrawal",
       "summary": "The first debate on Thursday in Maine's flash Democratic primary may feature a crowded stage. Eight candidates to replace Graham Platner on the ballot have been invited to the debate in Portland, the organizer said Tuesday. News Center Maine, which is sponsoring the event, had initially invited three people who ran for.",
       "date": "2026-07-14"
-    },
-    {
-      "title": "ICE Agent Kills Person in Vehicle in Biddeford, Maine, State Officials Say",
-      "summary": "The fatal shooting in Biddeford, Maine, was the second in a week involving an Immigration and Customs Enforcement agent firing into a vehicle.",
-      "date": "2026-07-14"
     }
   ],
   "sources": [
@@ -76,10 +76,10 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "Morning news brief",
-      "url": "https://www.npr.org/2026/07/14/nx-s1-5891540/morning-news-brief?utm_source=lootura.com",
-      "publishedAt": "2026-07-14T09:02:31.000Z",
-      "sourceId": "lootura-us-npr"
+      "title": "After ICE fatally shot multiple people, officials speak out: \"We want them out\"",
+      "url": "https://www.cbsnews.com/video/after-ice-fatally-shot-multiple-people-officials-speak-out/?utm_source=lootura.com",
+      "publishedAt": "2026-07-15T02:35:00.000Z",
+      "sourceId": "lootura-us-cbs-news"
     },
     {
       "title": "Family of a man shot by agents responding to a 911 call seeks answers",
@@ -124,5 +124,5 @@
       "sourceId": "lootura-us-the-new-york-times"
     }
   ],
-  "evidenceCount": 10
+  "evidenceCount": 12
 }

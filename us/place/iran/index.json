@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/iran/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/iran/index.json",
   "description": "Follow Iran, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-15T02:11:36.851Z",
+  "updatedAt": "2026-07-15T06:12:31.661Z",
   "aliases": [],
   "changes": [
     {
@@ -22,6 +22,21 @@
       "date": "2026-07-14"
     },
     {
+      "title": "‘We Love Iraq,’ Trump Tells New Prime Minister in Oval Office Meeting",
+      "summary": "The meeting comes as President Trump’s administration has been ratcheting up pressure on Baghdad to diminish Iran’s influence in Iraq.",
+      "date": "2026-07-14"
+    },
+    {
+      "title": "Senate Democrats Block Defense Bill Over War in Iran",
+      "summary": "The vote reflected how the political debate over the conflict in the Middle East has sapped bipartisan support for a normally popular measure.",
+      "date": "2026-07-14"
+    },
+    {
+      "title": "At War With Iran Again, Trump Finds an Opponent He Cannot Easily Dominate",
+      "summary": "The president is accustomed to forcing other countries to bend to his will. But he is struggling to come up with a strategy to extract Iranian concessions as the cease-fire he brokered collapses.",
+      "date": "2026-07-14"
+    },
+    {
       "title": "At War With Iran Again, Trump Finds an Opponent He Cannot Easily Dominate",
       "summary": "The president is accustomed to forcing other countries to bend to his will. But he is struggling to come up with a strategy to extract Iranian concessions as the cease-fire he brokered collapses.",
       "date": "2026-07-14"
@@ -32,18 +47,8 @@
       "date": "2026-07-14"
     },
     {
-      "title": "‘We Love Iraq,’ Trump Tells New Prime Minister in Oval Office Meeting",
-      "summary": "The meeting comes as President Trump’s administration has been ratcheting up pressure on Baghdad to diminish Iran’s influence in Iraq.",
-      "date": "2026-07-14"
-    },
-    {
       "title": "Europe, Flexing Muscle in Ukraine, Is Still on Sidelines in Iran",
       "summary": "In a show of collective strength, President Emmanuel Macron of France hosted European allies at the annual Bastille Day parade in Paris. Yet Europe is still a hostage to America’s foreign policy.",
-      "date": "2026-07-14"
-    },
-    {
-      "title": "Senate Democrats Block Defense Bill Over War in Iran",
-      "summary": "The vote reflected how the political debate over the conflict in the Middle East has sapped bipartisan support for a normally popular measure.",
       "date": "2026-07-14"
     },
     {
@@ -54,11 +59,6 @@
     {
       "title": "Trump Says Fighting With Iran Has Resumed as He Orders Blockade and Tolls",
       "summary": "After several days of strikes, the president notified Congress that fighting had begun again and announced shipping fees that his administration previously deemed illegal.",
-      "date": "2026-07-14"
-    },
-    {
-      "title": "Inflation cools to 3.5% in June in relief brought by brief US-Iran deal",
-      "summary": "Recent strikes have sent oil prices climbing again, with average gas price per gallon up by 70 cents on last year Inflation cooled to an annual rate of 3.5% in June as the brief US-Iran ceasefire, which has since ended, brought energy prices down, according to new data from the Bureau of Labor Statistics. The consumer.",
       "date": "2026-07-14"
     }
   ],
@@ -76,15 +76,15 @@
       "sourceId": "lootura-us-npr"
     },
     {
-      "title": "At War With Iran Again, Trump Finds an Opponent He Cannot Easily Dominate",
-      "url": "https://www.nytimes.com/2026/07/14/us/politics/iran-trump-war.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-14T23:01:39.000Z",
-      "sourceId": "lootura-us-the-new-york-times"
-    },
-    {
       "title": "Senate Democrats Block Defense Bill Over War in Iran",
       "url": "https://www.nytimes.com/2026/07/14/us/politics/senate-democrats-defense-bill.html?utm_source=lootura.com",
       "publishedAt": "2026-07-14T19:44:27.000Z",
+      "sourceId": "lootura-us-the-new-york-times"
+    },
+    {
+      "title": "At War With Iran Again, Trump Finds an Opponent He Cannot Easily Dominate",
+      "url": "https://www.nytimes.com/2026/07/14/us/politics/iran-trump-war.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-14T23:01:39.000Z",
       "sourceId": "lootura-us-the-new-york-times-politics"
     },
     {

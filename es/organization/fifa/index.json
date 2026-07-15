@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/fifa/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/fifa/index.json",
   "description": "Sigue la actividad de FIFA en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-14T20:58:20.799Z",
+  "updatedAt": "2026-07-15T06:12:14.832Z",
   "aliases": [],
   "changes": [
     {
@@ -22,6 +22,13 @@
       "date": "2026-07-08"
     }
   ],
-  "sources": [],
+  "sources": [
+    {
+      "title": "Didier Deschamps raja del arbitraje: «¿Tiene la calidad suficiente para arbitrar una semifinal?»",
+      "url": "https://theobjective.com/deportes/futbol/mundial/2026-07-15/deschamps-arbitraje-semifinal-espana/?utm_source=lootura.com",
+      "publishedAt": "2026-07-15T05:20:49.000Z",
+      "sourceId": "lootura-es-the-objective"
+    }
+  ],
   "evidenceCount": 0
 }

@@ -3,10 +3,16 @@
 > Sigue la actividad de Partido Socialista Obrero Español en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-15T02:11:09.495Z
+- Actualizado: 2026-07-15T06:12:14.832Z
 - Canonical: https://atlas.lootura.com/es/organization/psoe
 
 ## Cambios recientes
+
+### La sombra del presidente planea por toda la sentencia: aparece hasta seis veces
+
+La sombra del presidente del Gobierno, Pedro Sánchez, planea por toda la sentencia de 378 páginas de la Audiencia de Badajoz que condena a su hermano, David Sánchez. Los magistrados recuerdan su posición en el PSOE tanto en el momento de la contratación del músico en la Diputación de Badajoz presidida por Miguel Ángel.
+
+Date: 2026-07-15
 
 ### Los antitaurinos vuelven a la carga, esta vez de la mano de los socios de Sánchez
 
@@ -62,12 +68,6 @@ La Unidad Central Operativa ( UCO ) de la Guardia Civil ha remitido al juez Sant
 
 Date: 2026-07-14
 
-### El PSOE usa una empresa pública de Defensa como agencia de colocación
-
-La empresa pública Isdefe (Ingeniería de Sistemas para la Defensa de España), dependiente del Ministerio de Defensa, se ha situado en el centro de la polémica en los últimos días, a raíz de la dimisión de su número dos investigada en el caso Leire. La salida de Teresa Castillo, una de las 25 personas imputadas por las.
-
-Date: 2026-07-14
-
 ## Fuentes
 
-- [Los antitaurinos vuelven a la carga, esta vez de la mano de los socios de Sánchez](https://www.abc.es/cultura/antitaurinos-vuelven-carga-mano-socios-sanchez-20260714131926-nt.html?utm_source=lootura.com) — 2026-07-15T01:17:23.000Z
+- [La sombra del presidente planea por toda la sentencia: aparece hasta seis veces](https://www.abc.es/espana/sombra-presidente-planea-sentencia-20260715022849-nt.html?utm_source=lootura.com) — 2026-07-15T05:57:25.000Z

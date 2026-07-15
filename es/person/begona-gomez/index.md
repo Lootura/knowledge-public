@@ -70,5 +70,4 @@ Date: 2026-07-09
 
 ## Fuentes
 
-- [David Sánchez, el hijo de Magdalena y Pedro](https://elpais.com/espana/2026-07-14/david-sanchez-el-hijo-de-magdalena-y-pedro.html?utm_source=lootura.com) — 2026-07-14T15:37:37.000Z
-- [Última hora de la actualidad política, en directo | Rufián, sobre la condena a David Sánchez: “Es una sobrada importante (…) Luego viene Begoña Gómez”](https://elpais.com/espana/2026-07-14/ultima-hora-de-la-actualidad-politica-en-directo.html?utm_source=lootura.com) — 2026-07-14T17:03:34.000Z
+No public source links.

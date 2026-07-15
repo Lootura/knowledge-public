@@ -3,7 +3,7 @@
 > Follow Maine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-15T02:11:36.851Z
+- Updated: 2026-07-15T06:12:31.661Z
 - Canonical: https://atlas.lootura.com/us/place/maine
 
 ## Recent changes
@@ -20,11 +20,17 @@ Footage obtained by The New York Times shows ICE agents in the moments before an
 
 Date: 2026-07-15
 
-### Morning news brief
+### After ICE fatally shot multiple people, officials speak out: "We want them out"
 
-Trump says the U.S. will collect tolls and impose blockade in the Strait of Hormuz, man killed by federal agents in Maine, states sue to stop Paramount-Warner Bros merger.
+U.S. Immigration and Customs Enforcement officials shot and killed two men in the last week in Maine and in Texas. Maine's House speaker, a Houston prosecutor and a Minnesota attorney spoke with CBS News about the violence.
 
-Date: 2026-07-14
+Date: 2026-07-15
+
+### An ICE Shooting in Maine Puts Pressure on Senator Susan Collins
+
+The Democrats hoping to challenge Ms. Collins, a vulnerable Republican, have seized on the fatal incident, drawing attention to her record on immigration matters.
+
+Date: 2026-07-15
 
 ### Family of a man shot by agents responding to a 911 call seeks answers
 
@@ -62,17 +68,11 @@ The first debate on Thursday in Maine's flash Democratic primary may feature a c
 
 Date: 2026-07-14
 
-### ICE Agent Kills Person in Vehicle in Biddeford, Maine, State Officials Say
-
-The fatal shooting in Biddeford, Maine, was the second in a week involving an Immigration and Customs Enforcement agent firing into a vehicle.
-
-Date: 2026-07-14
-
 ## Sources
 
 - [Man fatally shot by ICE in Maine was not intended target of warrant, lawmakers say](https://www.cbsnews.com/news/maine-shooting-ice-biddeford/?utm_source=lootura.com) — 2026-07-14T19:59:27.000Z
 - [ICE halts most vehicle stops following deadly shootings, sources say](https://www.cbsnews.com/news/ice-agents-halt-vehicle-stops-after-shootings-maine-texas/?utm_source=lootura.com) — 2026-07-15T00:07:35.000Z
-- [Morning news brief](https://www.npr.org/2026/07/14/nx-s1-5891540/morning-news-brief?utm_source=lootura.com) — 2026-07-14T09:02:31.000Z
+- [After ICE fatally shot multiple people, officials speak out: "We want them out"](https://www.cbsnews.com/video/after-ice-fatally-shot-multiple-people-officials-speak-out/?utm_source=lootura.com) — 2026-07-15T02:35:00.000Z
 - [Family of a man shot by agents responding to a 911 call seeks answers](https://www.npr.org/2026/07/14/nx-s1-5891873/family-of-a-man-shot-by-agents-responding-to-a-911-call-seeks-answers?utm_source=lootura.com) — 2026-07-14T11:26:15.000Z
 - [In the aftermath of deadly shootings, ICE pauses most traffic stops](https://www.npr.org/2026/07/14/nx-s1-5893456/ice-vehicle-biddeford-houston?utm_source=lootura.com) — 2026-07-14T19:54:53.000Z
 - [Maine Democrats criticize GOP Sen. Susan Collins after fatal ICE shooting of motorist in the state](https://www.pbs.org/newshour/politics/maine-democrats-criticize-gop-sen-susan-collins-after-fatal-ice-shooting-of-motorist-in-the-state?utm_source=lootura.com) — 2026-07-14T23:05:04.000Z

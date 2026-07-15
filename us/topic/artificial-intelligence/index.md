@@ -3,7 +3,7 @@
 > Follow Artificial intelligence, a tracked topic, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: topic
-- Updated: 2026-07-15T02:11:36.851Z
+- Updated: 2026-07-15T06:12:31.661Z
 - Canonical: https://atlas.lootura.com/us/topic/artificial-intelligence
 
 ## Recent changes
@@ -70,7 +70,6 @@ Date: 2026-07-13
 
 ## Sources
 
-- [AI models: one country’s fears become everyone’s constraint](https://www.nature.com/articles/d41586-026-02187-z?utm_source=lootura.com) — 2026-07-15T02:11:41.414Z
+- [Anthropic launches "Claude for Teachers," giving educators a year of free access to AI tools](https://www.cbsnews.com/video/anthropic-launches-claude-for-teachers/?utm_source=lootura.com) — 2026-07-15T02:17:48.000Z
 - [How do young people feel about AI? 7 teens weigh in](https://www.npr.org/2026/07/14/nx-s1-5863025/teens-artificial-intelligence-ai-school?utm_source=lootura.com) — 2026-07-14T20:00:00.000Z
-- [More than 50% of Australian university assignments used AI. How should universities respond?](https://phys.org/news/2026-07-australian-university-assignments-ai-universities.html?utm_source=lootura.com) — 2026-07-14T23:20:04.000Z
-- [Does AI work for us, or do we work for AI?](https://www.science.org/doi/abs/10.1126/science.aei9754?af=R&utm_source=lootura.com) — 2026-07-15T02:11:41.641Z
+- [Does AI work for us, or do we work for AI?](https://www.science.org/doi/abs/10.1126/science.aei9754?af=R&utm_source=lootura.com) — 2026-07-15T06:12:36.151Z

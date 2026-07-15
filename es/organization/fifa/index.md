@@ -3,7 +3,7 @@
 > Sigue la actividad de FIFA en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-14T20:58:20.799Z
+- Actualizado: 2026-07-15T06:12:14.832Z
 - Canonical: https://atlas.lootura.com/es/organization/fifa
 
 ## Cambios recientes
@@ -22,4 +22,4 @@ Date: 2026-07-08
 
 ## Fuentes
 
-No public source links.
+- [Didier Deschamps raja del arbitraje: «¿Tiene la calidad suficiente para arbitrar una semifinal?»](https://theobjective.com/deportes/futbol/mundial/2026-07-15/deschamps-arbitraje-semifinal-espana/?utm_source=lootura.com) — 2026-07-15T05:20:49.000Z

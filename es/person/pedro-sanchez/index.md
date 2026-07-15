@@ -3,16 +3,46 @@
 > Sigue la actividad de Pedro Sánchez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-15T02:11:09.495Z
+- Actualizado: 2026-07-15T06:12:14.832Z
 - Canonical: https://atlas.lootura.com/es/person/pedro-sanchez
 
 ## Cambios recientes
+
+### La sombra del presidente planea por toda la sentencia: aparece hasta seis veces
+
+La sombra del presidente del Gobierno, Pedro Sánchez, planea por toda la sentencia de 378 páginas de la Audiencia de Badajoz que condena a su hermano, David Sánchez. Los magistrados recuerdan su posición en el PSOE tanto en el momento de la contratación del músico en la Diputación de Badajoz presidida por Miguel Ángel.
+
+Date: 2026-07-15
+
+### 🎙 PODCAST | ¿Por qué han condenado exactamente al hermano de Pedro Sánchez?
+
+Dos años pidiendo cárcel al hermano del presidente, por un enchufe, por tráfico de influencias, por amañar un concurso público. Llega la sentencia y le declaran culpable, pero no hay tráfico de influencias ni condena por el enchufe. ¿Entonces? Un tema Al día, ¡en el teatro! Ven a verlo en directo el 3 de octubre en Mad.
+
+Date: 2026-07-15
 
 ### El diario de Amilibia: El Apolo ya no excita
 
 Leo: “La natalidad se desploma en la era Sánchez. Desde su llegada a la Moncloa, el descenso supera los 50.000 nacimientos al año. España está a la cola de Europa”. ¿Estamos a la cola por culpa, culpita de la colita o esto quiere decir que el Apolo de la Moncloa, el hombre más apuesto y guapo que vieron los siglos, ya.
 
 Date: 2026-07-15
+
+### El PP augura un calvario largo para Pedro Sánchez: "Les queda lo peor"
+
+"A partir de ahora, no hay semana en la que no haya que mirar a un juzgado", destacan los 'populares' tras la codena al hermano del presidente del Gobierno Leer.
+
+Date: 2026-07-14
+
+### La condena al hermano de Sánchez, un aval a la juez Biedma y a la investigación de la UCO
+
+La sentencia de la Audiencia de Badajoz supone una condena y, al mismo tiempo, un aval. Lo es para la magistrada que instruyó el caso, Beatriz Biedma, y para los miembros de la...
+
+Date: 2026-07-14
+
+### David Sánchez y Miguel Ángel Gallardo: diez años de amistad y un último café en un hotel de Villanueva de la Serena antes de la inhabilitación
+
+Ambos se reunieron hace dos semanas ya con el 'run-run' de que la sentencia estaba a punto de salir Leer.
+
+Date: 2026-07-14
 
 ### El PP califica de "histórica" la condena del hermano de Sánchez: "Nadie está por encima de la ley"
 
@@ -38,45 +68,10 @@ David Sánchez, hermano del presidente del Gobierno, ha sido condenado a nueve a
 
 Date: 2026-07-14
 
-### Claves de una sentencia inédita: un trabajo “a medida” sin prueba de presiones externas
-
-La Audiencia Provincial de Badajoz ha dictado la primera sentencia sobre un familiar directo del presidente del Gobierno. Y es condenatoria: nueve años de inhabilitación para David Sánchez, hermano de Pedro Sánchez, como cooperador necesario de un delito de prevaricación administrativa por obtener el puesto de jefe de.
-
-Date: 2026-07-14
-
-### El PP augura un calvario largo para Pedro Sánchez: "Les queda lo peor"
-
-"A partir de ahora, no hay semana en la que no haya que mirar a un juzgado", destacan los 'populares' tras la codena al hermano del presidente del Gobierno Leer.
-
-Date: 2026-07-14
-
-### La condena al hermano de Sánchez, un aval a la juez Biedma y a la investigación de la UCO
-
-La sentencia de la Audiencia de Badajoz supone una condena y, al mismo tiempo, un aval. Lo es para la magistrada que instruyó el caso, Beatriz Biedma, y para los miembros de la...
-
-Date: 2026-07-14
-
-### Feijóo critica que el Gobierno «descalifique» la sentencia de David Sánchez: «Me preocupa»
-
-El líder del PP, Alberto Núñez Feijóo , ha recriminado este martes al Gobierno que «descalifique» la sentencia que condena a David Sánchez , hermano del jefe del Ejecutivo, y ha subrayado que le «preocupa» esta «actitud» del gabinete de Pedro Sánchez, que «lo que tiene que hacer es acatar» el fallo. «Empezamos a entrar.
-
-Date: 2026-07-14
-
-### David Sánchez y Miguel Ángel Gallardo: diez años de amistad y un último café en un hotel de Villanueva de la Serena antes de la inhabilitación
-
-Ambos se reunieron hace dos semanas ya con el 'run-run' de que la sentencia estaba a punto de salir Leer.
-
-Date: 2026-07-14
-
 ## Fuentes
 
+- [La sombra del presidente planea por toda la sentencia: aparece hasta seis veces](https://www.abc.es/espana/sombra-presidente-planea-sentencia-20260715022849-nt.html?utm_source=lootura.com) — 2026-07-15T05:57:25.000Z
 - [El PP augura un calvario largo para Pedro Sánchez: "Les queda lo peor"](https://www.elmundo.es/espana/2026/07/14/6a566e14e85ece461a8b4597.html?utm_source=lootura.com) — 2026-07-14T17:47:00.000Z
 - [David Sánchez y Miguel Ángel Gallardo: diez años de amistad y un último café en un hotel de Villanueva de la Serena antes de la inhabilitación](https://www.elmundo.es/espana/2026/07/14/6a56711ee85ece82578b458d.html?utm_source=lootura.com) — 2026-07-14T20:43:19.000Z
-- [El PP califica de "histórica" la condena del hermano de Sánchez: "Nadie está por encima de la ley"](https://www.elmundo.es/espana/2026/07/14/6a5621e6e85ece9a268b457b.html?utm_source=lootura.com) — 2026-07-14T11:58:30.000Z
 - [La condena al hermano de Sánchez, un aval a la juez Biedma y a la investigación de la UCO](https://amp.elmundo.es/espana/2026/07/14/6a566535e9cf4aae3c8b4586.html?utm_source=lootura.com) — 2026-07-14T18:52:50.000Z
-- [David Sánchez, el hijo de Magdalena y Pedro](https://elpais.com/espana/2026-07-14/david-sanchez-el-hijo-de-magdalena-y-pedro.html?utm_source=lootura.com) — 2026-07-14T15:37:37.000Z
-- [Última hora de la actualidad política, en directo | Rufián, sobre la condena a David Sánchez: “Es una sobrada importante (…) Luego viene Begoña Gómez”](https://elpais.com/espana/2026-07-14/ultima-hora-de-la-actualidad-politica-en-directo.html?utm_source=lootura.com) — 2026-07-14T17:03:34.000Z
-- [Claves de una sentencia inédita: un trabajo “a medida” sin prueba de presiones externas](https://elpais.com/espana/2026-07-14/claves-de-una-sentencia-inedita-sin-carcel-ni-trafico-de-influencias-pero-con-largas-penas-de-inhabilitacion-por-prevaricacion.html?utm_source=lootura.com) — 2026-07-14T12:03:55.000Z
-- [Las “dudas” del tribunal sobre la contratación de David Sánchez: sin tráfico de influencias ni presiones acreditadas](https://elpais.com/espana/2026-07-14/las-dudas-del-tribunal-sobre-la-contratacion-de-david-sanchez-sin-trafico-de-influencias-ni-presiones-acreditadas.html?utm_source=lootura.com) — 2026-07-14T13:15:01.000Z
-- [El diario de Amilibia: El Apolo ya no excita](https://www.larazon.es/gente/famosos/diario-amilibia-apolo-excita_202607156a56cd93772f745d2c496284.html?utm_source=lootura.com) — 2026-07-15T00:00:19.000Z
-- [Feijóo critica que el Gobierno «descalifique» la sentencia de David Sánchez: «Me preocupa»](https://theobjective.com/espana/politica/2026-07-14/feijoo-gobierno-sentencia-david-sanchez/?utm_source=lootura.com) — 2026-07-14T19:22:32.000Z
+- [🎙 PODCAST | ¿Por qué han condenado exactamente al hermano de Pedro Sánchez?](https://www.eldiario.es/blog/al-dia/podcast-han-condenado-exactamente-hermano-pedro-sanchez_132_13380102.html?utm_source=lootura.com) — 2026-07-15T06:30:00.000Z

@@ -3,7 +3,7 @@
 > Follow White House, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-07-15T02:11:36.851Z
+- Updated: 2026-07-15T06:12:31.661Z
 - Canonical: https://atlas.lootura.com/us/organization/white-house
 
 ## Recent changes
@@ -70,5 +70,4 @@ Date: 2026-07-11
 
 ## Sources
 
-- [WATCH: House passes bill to make daylight saving time permanent](https://www.pbs.org/newshour/politics/watch-house-passes-bill-to-make-daylight-saving-time-permanent?utm_source=lootura.com) — 2026-07-15T00:18:34.000Z
 - [Climate: An extraordinary White House meeting](https://www.nytimes.com/2026/07/14/climate/climate-an-extraordinary-white-house-meeting.html?utm_source=lootura.com) — 2026-07-14T21:22:22.000Z

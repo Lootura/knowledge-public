@@ -8,9 +8,14 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/china/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/china/index.json",
   "description": "Follow China, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-14T20:58:39.119Z",
+  "updatedAt": "2026-07-15T06:12:31.661Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "China’s Economy Grows at Slowest Pace in Years",
+      "summary": "Economic growth of 4.3 percent in the second quarter, versus the same period last year, reflected a broad slump outside of the country’s export-oriented manufacturing might.",
+      "date": "2026-07-15"
+    },
     {
       "title": "A new smart coating could improve the cleanup of nuclear wastewater",
       "summary": "Scientists in China have developed a smart coating that could make it easier to remove tritium (a radioactive form of hydrogen) from nuclear power plant wastewater.",
@@ -55,13 +60,15 @@
       "title": "Japan Is Building a New Intelligence Agency With Help From the West",
       "summary": "Facing threats from Russia and China, Prime Minister Sanae Takaichi is breaking with World War II-era limits on security.",
       "date": "2026-07-13"
-    },
-    {
-      "title": "Graduating without a thesis: meet the people getting ‘practical’ PhDs in China",
-      "summary": "Nature, Published online: 09 July 2026; doi:10.1038/d41586-026-01242-z Nature spoke to three students from China’s first cohort of PhD candidates who are allowed to graduate with products instead of papers.",
-      "date": "2026-07-12"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "China’s Economy Grows at Slowest Pace in Years",
+      "url": "https://www.nytimes.com/2026/07/15/business/china-economy-gdp-growth.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-15T04:41:25.000Z",
+      "sourceId": "lootura-us-the-new-york-times"
+    }
+  ],
+  "evidenceCount": 1
 }

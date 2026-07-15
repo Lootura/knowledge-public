@@ -3,7 +3,7 @@
 > Follow Iran, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-15T02:11:36.851Z
+- Updated: 2026-07-15T06:12:31.661Z
 - Canonical: https://atlas.lootura.com/us/place/iran
 
 ## Recent changes
@@ -20,6 +20,24 @@ Annual inflation hit 3.5% in June, down from May's more than three-year high —
 
 Date: 2026-07-14
 
+### ‘We Love Iraq,’ Trump Tells New Prime Minister in Oval Office Meeting
+
+The meeting comes as President Trump’s administration has been ratcheting up pressure on Baghdad to diminish Iran’s influence in Iraq.
+
+Date: 2026-07-14
+
+### Senate Democrats Block Defense Bill Over War in Iran
+
+The vote reflected how the political debate over the conflict in the Middle East has sapped bipartisan support for a normally popular measure.
+
+Date: 2026-07-14
+
+### At War With Iran Again, Trump Finds an Opponent He Cannot Easily Dominate
+
+The president is accustomed to forcing other countries to bend to his will. But he is struggling to come up with a strategy to extract Iranian concessions as the cease-fire he brokered collapses.
+
+Date: 2026-07-14
+
 ### At War With Iran Again, Trump Finds an Opponent He Cannot Easily Dominate
 
 The president is accustomed to forcing other countries to bend to his will. But he is struggling to come up with a strategy to extract Iranian concessions as the cease-fire he brokered collapses.
@@ -32,21 +50,9 @@ The vote reflected how the political debate over the conflict in the Middle East
 
 Date: 2026-07-14
 
-### ‘We Love Iraq,’ Trump Tells New Prime Minister in Oval Office Meeting
-
-The meeting comes as President Trump’s administration has been ratcheting up pressure on Baghdad to diminish Iran’s influence in Iraq.
-
-Date: 2026-07-14
-
 ### Europe, Flexing Muscle in Ukraine, Is Still on Sidelines in Iran
 
 In a show of collective strength, President Emmanuel Macron of France hosted European allies at the annual Bastille Day parade in Paris. Yet Europe is still a hostage to America’s foreign policy.
-
-Date: 2026-07-14
-
-### Senate Democrats Block Defense Bill Over War in Iran
-
-The vote reflected how the political debate over the conflict in the Middle East has sapped bipartisan support for a normally popular measure.
 
 Date: 2026-07-14
 
@@ -62,16 +68,10 @@ After several days of strikes, the president notified Congress that fighting had
 
 Date: 2026-07-14
 
-### Inflation cools to 3.5% in June in relief brought by brief US-Iran deal
-
-Recent strikes have sent oil prices climbing again, with average gas price per gallon up by 70 cents on last year Inflation cooled to an annual rate of 3.5% in June as the brief US-Iran ceasefire, which has since ended, brought energy prices down, according to new data from the Bureau of Labor Statistics. The consumer.
-
-Date: 2026-07-14
-
 ## Sources
 
 - [Trump says he won't rule out sending ground troops to Iran](https://www.cbsnews.com/video/trump-says-he-wont-rule-out-sending-ground-troops-to-iran/?utm_source=lootura.com) — 2026-07-15T00:48:43.000Z
 - [Inflation slowed sharply -- but it may not last](https://www.npr.org/2026/07/14/nx-s1-5893379/inflation-economy-consumer-prices-federal-reserve?utm_source=lootura.com) — 2026-07-14T14:40:20.000Z
-- [At War With Iran Again, Trump Finds an Opponent He Cannot Easily Dominate](https://www.nytimes.com/2026/07/14/us/politics/iran-trump-war.html?utm_source=lootura.com) — 2026-07-14T23:01:39.000Z
 - [Senate Democrats Block Defense Bill Over War in Iran](https://www.nytimes.com/2026/07/14/us/politics/senate-democrats-defense-bill.html?utm_source=lootura.com) — 2026-07-14T19:44:27.000Z
+- [At War With Iran Again, Trump Finds an Opponent He Cannot Easily Dominate](https://www.nytimes.com/2026/07/14/us/politics/iran-trump-war.html?utm_source=lootura.com) — 2026-07-14T23:01:39.000Z
 - [‘We Love Iraq,’ Trump Tells New Prime Minister in Oval Office Meeting](https://www.nytimes.com/2026/07/14/us/politics/iraq-trump-oval-office-meeting.html?utm_source=lootura.com) — 2026-07-14T19:09:58.000Z

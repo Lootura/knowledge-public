@@ -70,4 +70,4 @@ Date: 2026-07-10
 
 ## Sources
 
-- [Report details ecological characterization of peatlands and coastal lagoons in EU](https://phys.org/news/2026-07-ecological-characterization-peatlands-coastal-lagoons.html?utm_source=lootura.com) — 2026-07-15T01:20:01.000Z
+No public source links.

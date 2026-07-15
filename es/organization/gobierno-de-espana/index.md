@@ -70,4 +70,4 @@ Date: 2026-07-10
 
 ## Fuentes
 
-- [El trilero y Gibraltar](https://www.larazon.es/espana/trilero-gibraltar_202607156a551c53c48a78681b8720e5.html?utm_source=lootura.com) — 2026-07-15T00:00:21.000Z
+No public source links.

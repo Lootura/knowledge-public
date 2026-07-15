@@ -3,16 +3,16 @@
 > Sigue la actividad de Partido Popular en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-15T02:11:09.495Z
+- Actualizado: 2026-07-15T06:12:14.832Z
 - Canonical: https://atlas.lootura.com/es/organization/partido-popular
 
 ## Cambios recientes
 
-### El PP califica de "histórica" la condena del hermano de Sánchez: "Nadie está por encima de la ley"
+### Vox fuerza a Llorca a quitar ayudas a Cruz Roja para pagar un estudio que asocia inmigración y delincuencia
 
-Feijóo celebra que el Estado de Derecho funcione en España para todos, "sean de la familia que sean" Leer.
+Vox ha convertido el trámite de enmiendas al proyecto de ley de Presupuestos de la Generalitat para 2026 en la vía de entrada de sus propuestas políticas más controvertidas con el aval del Partido Popular de Juanfran Pérez Llorca, que necesita su voto para sacar adelante las cuentas autonómicas. El grupo parlamentario.
 
-Date: 2026-07-14
+Date: 2026-07-15
 
 ### El PP augura un calvario largo para Pedro Sánchez: "Les queda lo peor"
 
@@ -23,6 +23,12 @@ Date: 2026-07-14
 ### El Congreso tumba con 178 votos y cinco abstenciones la senda de estabilidad presupuestaria y anticipa ya el fracaso de las cuentas públicas para 2027
 
 Para el PP, el acuerdo que esperan los ciudadanos es la convocatoria de elecciones; Junts cree que el Gobierno intenta tapar "el latrocinio de los suyos" y Vox acusa al Ejecutivo de "castigar a los españoles" Leer.
+
+Date: 2026-07-14
+
+### El PP califica de "histórica" la condena del hermano de Sánchez: "Nadie está por encima de la ley"
+
+Feijóo celebra que el Estado de Derecho funcione en España para todos, "sean de la familia que sean" Leer.
 
 Date: 2026-07-14
 
@@ -62,16 +68,8 @@ El Ministerio de Hacienda aprobará la semana que viene la misma senda de estabi
 
 Date: 2026-07-14
 
-### El Congreso da un paso más para eliminar los delitos de las injurias al rey o de ofensa a los sentimientos religiosos
-
-La mayoría de la Cámara Baja tumba las enmiendas a la totalidad de PP y Vox a una norma impulsada por PSOE y Sumar que también plantea despenalizar las calumnias e injurias a las altas instituciones del Estado PSOE y Sumar reactivan la despenalización de las ofensas a los sentimientos religiosos y a la Corona La mayorí.
-
-Date: 2026-07-14
-
 ## Fuentes
 
+- [Vox fuerza a Llorca a quitar ayudas a Cruz Roja para pagar un estudio que asocia inmigración y delincuencia](https://www.elconfidencial.com/espana/comunidad-valenciana/2026-07-15/vox-llorca-ayudas-cruz-roja-inmigracion-delincuencia_4389907/?utm_source=lootura.com) — 2026-07-15T03:00:00.000Z
 - [El PP augura un calvario largo para Pedro Sánchez: "Les queda lo peor"](https://www.elmundo.es/espana/2026/07/14/6a566e14e85ece461a8b4597.html?utm_source=lootura.com) — 2026-07-14T17:47:00.000Z
-- [El PP califica de "histórica" la condena del hermano de Sánchez: "Nadie está por encima de la ley"](https://www.elmundo.es/espana/2026/07/14/6a5621e6e85ece9a268b457b.html?utm_source=lootura.com) — 2026-07-14T11:58:30.000Z
 - [El Congreso tumba con 178 votos y cinco abstenciones la senda de estabilidad presupuestaria y anticipa ya el fracaso de las cuentas públicas para 2027](https://www.elmundo.es/espana/2026/07/14/6a562a72fdddff361b8b456e.html?utm_source=lootura.com) — 2026-07-14T18:03:15.000Z
-- [El Congreso aprueba la reforma de la dependencia que añade 6.200 millones con el único voto en contra de Vox](https://www.eldiario.es/sociedad/congreso-aprueba-reformas-dependencia-discapacidad-unico-voto-vox_1_13379081.html?utm_source=lootura.com) — 2026-07-14T18:08:28.000Z
-- [Feijóo critica que el Gobierno «descalifique» la sentencia de David Sánchez: «Me preocupa»](https://theobjective.com/espana/politica/2026-07-14/feijoo-gobierno-sentencia-david-sanchez/?utm_source=lootura.com) — 2026-07-14T19:22:32.000Z

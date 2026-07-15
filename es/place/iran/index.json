@@ -8,9 +8,19 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/iran/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/iran/index.json",
   "description": "Sigue la actividad de Iran en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-15T02:11:09.495Z",
+  "updatedAt": "2026-07-15T06:12:14.832Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "Trump estrecha el cerco sobre Cuba con sanciones, bloqueo y amenaza militar",
+      "summary": "Sin grandes anuncios ni gestos solemnes, Donald Trump ha situado a Cuba en el centro de su estrategia de presión máxima en el continente americano. Después de concentrar durante meses su atención en Venezuela e Irán, la Casa Blanca investiga ahora si la isla almacena drones iraníes, y el propio presidente ha advertido.",
+      "date": "2026-07-15"
+    },
+    {
+      "title": "Los fabricantes de drones derrotan en Bolsa a las grandes firmas de defensa tradicional",
+      "summary": "Moscú y varias ciudades de Kuwait, Baréin y Omán han amanecido esta semana con el sonido de las bombas. Fueron los disparos de drones de Ucrania e Irán en medio de las dos guerras con mayor impacto económico de las últimas décadas. Mientras estas máquinas autónomas sobrevuelan hoy los lugares más peligrosos del planeta.",
+      "date": "2026-07-15"
+    },
     {
       "title": "EEUU restablece el bloqueo naval a Irán y lanza una nueva ola de bombardeos",
       "summary": "Las Fuerzas Armadas estadounidenses reimpusieron este martes el bloqueo naval a Irán en el estrecho de Ormuz , además de lanzar una nueva ola de bombardeos, según anunció el Comando Central del Ejército de Estados Unidos (Centcom). El organismo, con sede en Florida, expuso en un comunicado que el Ejército estadounidens.",
@@ -50,30 +60,20 @@
       "title": "El plan de Israel para convertir al ex presidente Ahmadineyad en líder del Irán posayatolás, según el 'New York Times'",
       "summary": "El diario documenta reuniones del jefe del Mossad con Ahmadineyad en 2024 en lugares como Budapest y habla de \"pagos en secreto para cubrir sus gastos de alojamiento y viajes\", pero no sostiene que fuera un agente o informante Leer.",
       "date": "2026-07-13"
-    },
-    {
-      "title": "Trump restablece el cerco naval a Irán y dice que cobrará el 20% por proteger a los buques en Ormuz",
-      "summary": "Washington y Teherán intercambian ataques por sexta noche consecutiva Leer.",
-      "date": "2026-07-13"
-    },
-    {
-      "title": "Trump amenaza con volver a atacar a Irán: «Los golpearemos muy duro esta noche y mañana»",
-      "summary": "El presidente de Estados Unidos, Donald Trump , aseguró este lunes que las fuerzas armadas de su país atacarán con fuerza a Irán «esta noche» y «mañana», en medio del restablecimiento de las hostilidades con Teherán. «Vamos a golpearlos muy duro esta noche y vamos a golpearlos muy duro mañana, y no hay absolutamente na.",
-      "date": "2026-07-13"
     }
   ],
   "sources": [
     {
-      "title": "Irán, la Fed y las 'midterm', un cóctel explosivo para la Bolsa en verano",
-      "url": "https://www.expansion.com/mercados/2026/07/14/6a563af3e5fdea526e8b4576.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-14T18:41:54.000Z",
-      "sourceId": "lootura-es-expansion"
+      "title": "Trump estrecha el cerco sobre Cuba con sanciones, bloqueo y amenaza militar",
+      "url": "https://www.abc.es/internacional/trump-estrecha-cerco-sobre-cuba-sanciones-bloqueo-20260713023226-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-15T05:44:23.000Z",
+      "sourceId": "lootura-es-abc"
     },
     {
-      "title": "EEUU restablece el bloqueo naval a Irán y lanza una nueva ola de bombardeos",
-      "url": "https://theobjective.com/internacional/2026-07-14/eeuu-bloqueo-naval-bombardeo-iran/?utm_source=lootura.com",
-      "publishedAt": "2026-07-14T20:40:14.000Z",
-      "sourceId": "lootura-es-the-objective"
+      "title": "Los fabricantes de drones derrotan en Bolsa a las grandes firmas de defensa tradicional",
+      "url": "https://cincodias.elpais.com/mercados-financieros/2026-07-15/los-fabricantes-de-drones-derrotan-en-bolsa-a-las-grandes-firmas-de-defensa-tradicional.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-15T03:25:00.000Z",
+      "sourceId": "lootura-es-cinco-dias"
     }
   ],
   "evidenceCount": 2

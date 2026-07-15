@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/topic/artificial-intelligence/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/topic/artificial-intelligence/index.json",
   "description": "Follow Artificial intelligence, a tracked topic, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-15T02:11:36.851Z",
+  "updatedAt": "2026-07-15T06:12:31.661Z",
   "aliases": [
     "AI",
     "machine learning"
@@ -67,10 +67,10 @@
   ],
   "sources": [
     {
-      "title": "AI models: one country’s fears become everyone’s constraint",
-      "url": "https://www.nature.com/articles/d41586-026-02187-z?utm_source=lootura.com",
-      "publishedAt": "2026-07-15T02:11:41.414Z",
-      "sourceId": "lootura-us-nature"
+      "title": "Anthropic launches \"Claude for Teachers,\" giving educators a year of free access to AI tools",
+      "url": "https://www.cbsnews.com/video/anthropic-launches-claude-for-teachers/?utm_source=lootura.com",
+      "publishedAt": "2026-07-15T02:17:48.000Z",
+      "sourceId": "lootura-us-cbs-news"
     },
     {
       "title": "How do young people feel about AI? 7 teens weigh in",
@@ -79,15 +79,9 @@
       "sourceId": "lootura-us-npr"
     },
     {
-      "title": "More than 50% of Australian university assignments used AI. How should universities respond?",
-      "url": "https://phys.org/news/2026-07-australian-university-assignments-ai-universities.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-14T23:20:04.000Z",
-      "sourceId": "lootura-us-phys-org"
-    },
-    {
       "title": "Does AI work for us, or do we work for AI?",
       "url": "https://www.science.org/doi/abs/10.1126/science.aei9754?af=R&utm_source=lootura.com",
-      "publishedAt": "2026-07-15T02:11:41.641Z",
+      "publishedAt": "2026-07-15T06:12:36.151Z",
       "sourceId": "lootura-us-science"
     }
   ],

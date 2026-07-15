@@ -3,10 +3,22 @@
 > Sigue la actividad de Iran en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-15T02:11:09.495Z
+- Actualizado: 2026-07-15T06:12:14.832Z
 - Canonical: https://atlas.lootura.com/es/place/iran
 
 ## Cambios recientes
+
+### Trump estrecha el cerco sobre Cuba con sanciones, bloqueo y amenaza militar
+
+Sin grandes anuncios ni gestos solemnes, Donald Trump ha situado a Cuba en el centro de su estrategia de presión máxima en el continente americano. Después de concentrar durante meses su atención en Venezuela e Irán, la Casa Blanca investiga ahora si la isla almacena drones iraníes, y el propio presidente ha advertido.
+
+Date: 2026-07-15
+
+### Los fabricantes de drones derrotan en Bolsa a las grandes firmas de defensa tradicional
+
+Moscú y varias ciudades de Kuwait, Baréin y Omán han amanecido esta semana con el sonido de las bombas. Fueron los disparos de drones de Ucrania e Irán en medio de las dos guerras con mayor impacto económico de las últimas décadas. Mientras estas máquinas autónomas sobrevuelan hoy los lugares más peligrosos del planeta.
+
+Date: 2026-07-15
 
 ### EEUU restablece el bloqueo naval a Irán y lanza una nueva ola de bombardeos
 
@@ -56,19 +68,7 @@ El diario documenta reuniones del jefe del Mossad con Ahmadineyad en 2024 en lug
 
 Date: 2026-07-13
 
-### Trump restablece el cerco naval a Irán y dice que cobrará el 20% por proteger a los buques en Ormuz
-
-Washington y Teherán intercambian ataques por sexta noche consecutiva Leer.
-
-Date: 2026-07-13
-
-### Trump amenaza con volver a atacar a Irán: «Los golpearemos muy duro esta noche y mañana»
-
-El presidente de Estados Unidos, Donald Trump , aseguró este lunes que las fuerzas armadas de su país atacarán con fuerza a Irán «esta noche» y «mañana», en medio del restablecimiento de las hostilidades con Teherán. «Vamos a golpearlos muy duro esta noche y vamos a golpearlos muy duro mañana, y no hay absolutamente na.
-
-Date: 2026-07-13
-
 ## Fuentes
 
-- [Irán, la Fed y las 'midterm', un cóctel explosivo para la Bolsa en verano](https://www.expansion.com/mercados/2026/07/14/6a563af3e5fdea526e8b4576.html?utm_source=lootura.com) — 2026-07-14T18:41:54.000Z
-- [EEUU restablece el bloqueo naval a Irán y lanza una nueva ola de bombardeos](https://theobjective.com/internacional/2026-07-14/eeuu-bloqueo-naval-bombardeo-iran/?utm_source=lootura.com) — 2026-07-14T20:40:14.000Z
+- [Trump estrecha el cerco sobre Cuba con sanciones, bloqueo y amenaza militar](https://www.abc.es/internacional/trump-estrecha-cerco-sobre-cuba-sanciones-bloqueo-20260713023226-nt.html?utm_source=lootura.com) — 2026-07-15T05:44:23.000Z
+- [Los fabricantes de drones derrotan en Bolsa a las grandes firmas de defensa tradicional](https://cincodias.elpais.com/mercados-financieros/2026-07-15/los-fabricantes-de-drones-derrotan-en-bolsa-a-las-grandes-firmas-de-defensa-tradicional.html?utm_source=lootura.com) — 2026-07-15T03:25:00.000Z

@@ -8,9 +8,19 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/china/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/china/index.json",
   "description": "Sigue la actividad de China en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-14T20:58:20.799Z",
+  "updatedAt": "2026-07-15T06:12:14.832Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "China acelera su ofensiva comercial sobre Europa",
+      "summary": "El gigante asiático bate un nuevo récord de exportaciones impulsado por los chips para la IA y los coches eléctricos, pero afronta una desaceleración del crecimiento que evidencia la debilidad del consumo interno Leer.",
+      "date": "2026-07-15"
+    },
+    {
+      "title": "El Ibex vuelve a atascarse",
+      "summary": "La minitregua en el petróleo, y el alivio ayer en el IPC de EEUU, no logran generalizar las subidas, más allá del rebote de las tecnológicas. El freno en el PIB de China y el tono agresivo de la Fed obstaculizan los avances. El Ibex vuelve a atascarse cerca de los 19.300 puntos de las últimas jornadas.",
+      "date": "2026-07-15"
+    },
     {
       "title": "DeepSeek acelera los preparativos para salir a Bolsa",
       "summary": "DeepSeek acelera los preparativos para su salida a Bolsa . La empresa china de inteligencia artificial estudia presentar este mismo año la documentación necesaria para cotizar, con el objetivo de debutar en el mercado de Shanghai en 2027, según fuentes de la compañía citadas por Bloomberg. Seguir leyendo.",
@@ -50,18 +60,27 @@
       "title": "¿Hay café para todos? Nestlé busca conquistar a los bebedores de té de China e India en pleno récord de demanda",
       "summary": "El café se ha convertido en una de las piedras angulares de la nueva hoja de ruta estratégica de Nestlé. El gigante alimentario suizo, que intenta enderezar su rumbo ahora bajo la dirección de Philip Navratil como consejero delegado y de Pablo Isla como presidente , ha identificado cuatro sectores sobre los que quiere.",
       "date": "2026-07-12"
-    },
-    {
-      "title": "La Policía Nacional detiene a 16 personas y libera a 26 mujeres de una red china de prostitución",
-      "summary": "La Policía Nacional ha desarticulado una red de prostitución de origen chino en una operación conjunta con Vigilancia Aduanera de la Agencia Tributaria , que se ha saldado con 16 detenidos y la liberación de 26 mujeres explotadas sexualmente. El dispositivo, desarrollado en seis provincias, ha conllevado además el cier.",
-      "date": "2026-07-10"
-    },
-    {
-      "title": "China se convierte en el segundo país capaz de recuperar la primera etapa de un cohete con el lanzamiento con éxito del primer Larga Marcha 10B",
-      "summary": "Esta mañana China se convertía en el segundo país , tras los Estados Unidos, capaz de recuperar la primera etapa de un cohete con el lanzamiento con éxito del primer Larga Marcha 10B , cuya segunda etapa además puso en órbita sin problemas la carga útil que llevaba, lo que hace que la misión haya sido un éxito completo.",
-      "date": "2026-07-10"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "ASML supera las previsiones en el segundo trimestre gracias al impulso de la IA",
+      "url": "https://cincodias.elpais.com/companias/2026-07-15/asml-supera-las-previsiones-en-el-segundo-trimestre-gracias-al-impulso-de-la-ia.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-15T05:24:17.000Z",
+      "sourceId": "lootura-es-cinco-dias"
+    },
+    {
+      "title": "China acelera su ofensiva comercial sobre Europa",
+      "url": "https://www.elmundo.es/economia/macroeconomia/2026/07/15/6a56f882fdddffac3c8b4587.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-15T05:08:14.000Z",
+      "sourceId": "lootura-es-el-mundo"
+    },
+    {
+      "title": "El Ibex vuelve a atascarse",
+      "url": "https://www.expansion.com/mercados/cronica-bolsa/2026/07/15/6a571f27e5fdea9c048b4584.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-15T06:09:56.000Z",
+      "sourceId": "lootura-es-expansion"
+    }
+  ],
+  "evidenceCount": 2
 }

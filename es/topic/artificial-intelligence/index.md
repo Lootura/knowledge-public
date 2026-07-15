@@ -3,7 +3,7 @@
 > Sigue la actividad de Artificial intelligence en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: topic
-- Actualizado: 2026-07-15T02:11:09.495Z
+- Actualizado: 2026-07-15T06:12:14.832Z
 - Canonical: https://atlas.lootura.com/es/topic/artificial-intelligence
 
 ## Cambios recientes
@@ -34,4 +34,4 @@ Date: 2026-07-10
 
 ## Fuentes
 
-- [¿Quién ganará el Mundial? Así avanzan nuestras predicciones](https://elpais.com/deportes/mundial-futbol/2026-06-11/quien-ganara-el-mundial-asi-arrancan-nuestras-predicciones.html?utm_source=lootura.com) — 2026-07-14T17:53:23.000Z
+- [ASML supera las previsiones en el segundo trimestre gracias al impulso de la IA](https://cincodias.elpais.com/companias/2026-07-15/asml-supera-las-previsiones-en-el-segundo-trimestre-gracias-al-impulso-de-la-ia.html?utm_source=lootura.com) — 2026-07-15T05:24:17.000Z

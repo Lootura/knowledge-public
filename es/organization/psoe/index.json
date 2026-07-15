@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/psoe/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/psoe/index.json",
   "description": "Sigue la actividad de Partido Socialista Obrero Español en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-15T02:11:09.495Z",
+  "updatedAt": "2026-07-15T06:12:14.832Z",
   "aliases": [
     "Partido Socialista",
     "Partido Socialista Obrero Español"
   ],
   "changes": [
+    {
+      "title": "La sombra del presidente planea por toda la sentencia: aparece hasta seis veces",
+      "summary": "La sombra del presidente del Gobierno, Pedro Sánchez, planea por toda la sentencia de 378 páginas de la Audiencia de Badajoz que condena a su hermano, David Sánchez. Los magistrados recuerdan su posición en el PSOE tanto en el momento de la contratación del músico en la Diputación de Badajoz presidida por Miguel Ángel.",
+      "date": "2026-07-15"
+    },
     {
       "title": "Los antitaurinos vuelven a la carga, esta vez de la mano de los socios de Sánchez",
       "summary": "Medio centenar de diputados han registrado una proposición de ley que reactiva la iniciativa legislativa popular (ILP) contra los toros que el año pasado fracasó en el Congreso por la abstención del PSOE. Sumar, Podemos, Junts, ERC, BNG, Compromís y Bildu han presentado este martes el mismo texto que la plataforma 'No.",
@@ -58,18 +63,13 @@
       "title": "La UCO detalla los pagos del PSOE a Leire Díez a través de tres empresas pantalla: 43.235 € en 5 pagos",
       "summary": "La Unidad Central Operativa ( UCO ) de la Guardia Civil ha remitido al juez Santiago Pedraz , de la Audiencia Nacional, un nuevo informe en el que se informa de pagos a la ex militante y fontanera del PSOE, Leire Díez , por una cantidad total de 16.000 euros , en cuatro transferencias, a través de la consultora de Gasp.",
       "date": "2026-07-14"
-    },
-    {
-      "title": "El PSOE usa una empresa pública de Defensa como agencia de colocación",
-      "summary": "La empresa pública Isdefe (Ingeniería de Sistemas para la Defensa de España), dependiente del Ministerio de Defensa, se ha situado en el centro de la polémica en los últimos días, a raíz de la dimisión de su número dos investigada en el caso Leire. La salida de Teresa Castillo, una de las 25 personas imputadas por las.",
-      "date": "2026-07-14"
     }
   ],
   "sources": [
     {
-      "title": "Los antitaurinos vuelven a la carga, esta vez de la mano de los socios de Sánchez",
-      "url": "https://www.abc.es/cultura/antitaurinos-vuelven-carga-mano-socios-sanchez-20260714131926-nt.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-15T01:17:23.000Z",
+      "title": "La sombra del presidente planea por toda la sentencia: aparece hasta seis veces",
+      "url": "https://www.abc.es/espana/sombra-presidente-planea-sentencia-20260715022849-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-15T05:57:25.000Z",
       "sourceId": "lootura-es-abc"
     }
   ],

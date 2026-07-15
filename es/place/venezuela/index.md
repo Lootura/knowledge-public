@@ -3,10 +3,16 @@
 > Sigue la actividad de Venezuela en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-15T02:11:09.495Z
+- Actualizado: 2026-07-15T06:12:14.832Z
 - Canonical: https://atlas.lootura.com/es/place/venezuela
 
 ## Cambios recientes
+
+### Trump estrecha el cerco sobre Cuba con sanciones, bloqueo y amenaza militar
+
+Sin grandes anuncios ni gestos solemnes, Donald Trump ha situado a Cuba en el centro de su estrategia de presión máxima en el continente americano. Después de concentrar durante meses su atención en Venezuela e Irán, la Casa Blanca investiga ahora si la isla almacena drones iraníes, y el propio presidente ha advertido.
+
+Date: 2026-07-15
 
 ### Nuevo balance de víctimas en Venezuela por el doble terremoto: 4.734 muertos
 
@@ -62,12 +68,6 @@ Las autoridades venezolanas han elevado a casi 4.500 las víctimas mortales deri
 
 Date: 2026-07-12
 
-### Discovered by Atlas
-
-Venezuela first entered the public knowledge record with source-backed evidence.
-
-Date: 2026-07-11
-
 ## Fuentes
 
-- [Nuevo balance de víctimas en Venezuela por el doble terremoto: 4.734 muertos](https://theobjective.com/internacional/2026-07-14/nuevo-balance-victimas-venezuela/?utm_source=lootura.com) — 2026-07-14T20:08:59.000Z
+- [Trump estrecha el cerco sobre Cuba con sanciones, bloqueo y amenaza militar](https://www.abc.es/internacional/trump-estrecha-cerco-sobre-cuba-sanciones-bloqueo-20260713023226-nt.html?utm_source=lootura.com) — 2026-07-15T05:44:23.000Z
