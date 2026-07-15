@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/iran/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/iran/index.json",
   "description": "Follow Iran, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-15T10:00:29.427Z",
+  "updatedAt": "2026-07-15T13:39:02.263Z",
   "aliases": [],
   "changes": [
     {
@@ -24,6 +24,16 @@
     {
       "title": "For Israel, the U.S.-Iran Hostilities Have Created an Uneasy Limbo",
       "summary": "Officials see a return to full-blown war as preferable to an agreement that fails to curb the threats Iran poses to Israel. Meanwhile, they wait.",
+      "date": "2026-07-15"
+    },
+    {
+      "title": "US Resumes Hormuz Blockade as Trump Threatens More Strikes",
+      "summary": "The United States is escalating its attacks on Iran, striking military targets including coastal defense systems and missile and drone sites. It comes as President Donald Trump in an interview warned that the U.S. will begin striking civilian infrastructure including energy targets unless Iran agrees to negotiate. NBC’.",
+      "date": "2026-07-15"
+    },
+    {
+      "title": "U.S. and Iran standoff over the Strait of Hormuz intensifies",
+      "summary": "threatened to block all oil exporting routes in the region on Wednesday in response to the U.S. maritime blockade of Iranian ports in the Strait of Hormuz. (Image credit: AFP via Getty Images).",
       "date": "2026-07-15"
     },
     {
@@ -50,16 +60,6 @@
       "title": "At War With Iran Again, Trump Finds an Opponent He Cannot Easily Dominate",
       "summary": "The president is accustomed to forcing other countries to bend to his will. But he is struggling to come up with a strategy to extract Iranian concessions as the cease-fire he brokered collapses.",
       "date": "2026-07-14"
-    },
-    {
-      "title": "Senate Democrats Block Defense Bill Over War in Iran",
-      "summary": "The vote reflected how the political debate over the conflict in the Middle East has sapped bipartisan support for a normally popular measure.",
-      "date": "2026-07-14"
-    },
-    {
-      "title": "Europe, Flexing Muscle in Ukraine, Is Still on Sidelines in Iran",
-      "summary": "In a show of collective strength, President Emmanuel Macron of France hosted European allies at the annual Bastille Day parade in Paris. Yet Europe is still a hostage to America’s foreign policy.",
-      "date": "2026-07-14"
     }
   ],
   "sources": [
@@ -68,6 +68,12 @@
       "url": "https://www.cbsnews.com/video/trump-says-he-wont-rule-out-sending-ground-troops-to-iran/?utm_source=lootura.com",
       "publishedAt": "2026-07-15T00:48:43.000Z",
       "sourceId": "lootura-us-cbs-news"
+    },
+    {
+      "title": "US Resumes Hormuz Blockade as Trump Threatens More Strikes",
+      "url": "https://www.today.com/video/us-resumes-hormuz-blockade-as-trump-threatens-more-strikes-266707013862?utm_source=lootura.com",
+      "publishedAt": "2026-07-15T11:21:18.000Z",
+      "sourceId": "lootura-us-nbc-news"
     },
     {
       "title": "Inflation slowed sharply -- but it may not last",
@@ -82,6 +88,12 @@
       "sourceId": "lootura-us-npr"
     },
     {
+      "title": "U.S. and Iran standoff over the Strait of Hormuz intensifies",
+      "url": "https://www.npr.org/2026/07/15/nx-s1-5894582/us-iran-updates?utm_source=lootura.com",
+      "publishedAt": "2026-07-15T09:56:31.000Z",
+      "sourceId": "lootura-us-npr-world"
+    },
+    {
       "title": "Senate Democrats Block Defense Bill Over War in Iran",
       "url": "https://www.nytimes.com/2026/07/14/us/politics/senate-democrats-defense-bill.html?utm_source=lootura.com",
       "publishedAt": "2026-07-14T19:44:27.000Z",
@@ -92,13 +104,7 @@
       "url": "https://www.nytimes.com/2026/07/15/world/middleeast/for-israel-the-us-iran-hostilities-have-created-an-uneasy-limbo.html?utm_source=lootura.com",
       "publishedAt": "2026-07-15T09:03:46.000Z",
       "sourceId": "lootura-us-the-new-york-times"
-    },
-    {
-      "title": "At War With Iran Again, Trump Finds an Opponent He Cannot Easily Dominate",
-      "url": "https://www.nytimes.com/2026/07/14/us/politics/iran-trump-war.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-14T23:01:39.000Z",
-      "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 6
+  "evidenceCount": 7
 }

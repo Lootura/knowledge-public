@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/donald-trump/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/donald-trump/index.json",
   "description": "Follow Donald Trump, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-15T10:00:29.427Z",
+  "updatedAt": "2026-07-15T13:39:02.263Z",
   "aliases": [
     "President Donald Trump",
     "President Trump",
@@ -32,7 +32,7 @@
     },
     {
       "title": "CDC director nominee Erica Schwartz faces Senate for confirmation hearing",
-      "summary": "Dr. Erica Schwartz, Trump's nominee for CDC director, faces the Senate health committee for her confirmation hearing on July 15. If confirmed, she will lead an agency dealing with workforce and leadership shortages, and new layers of political review. (Image credit: U.S. Department of Health and Human Services).",
+      "summary": "Trump's nominee faces the Senate health committee for her confirmation hearing on July 15. If confirmed, she will lead an agency dealing with workforce and leadership shortages and new layers of political review. (Image credit: U.S. Department of Health and Human Services).",
       "date": "2026-07-15"
     },
     {
@@ -46,27 +46,33 @@
       "date": "2026-07-15"
     },
     {
+      "title": "Watch Live: Jay Clayton, Trump",
+      "summary": "Clayton, currently the U.S. attorney for the Southern District of New York, is expected to succeed Bill Pulte, Trump.",
+      "date": "2026-07-15"
+    },
+    {
+      "title": "US Resumes Hormuz Blockade as Trump Threatens More Strikes",
+      "summary": "The United States is escalating its attacks on Iran, striking military targets including coastal defense systems and missile and drone sites. It comes as President Donald Trump in an interview warned that the U.S. will begin striking civilian infrastructure including energy targets unless Iran agrees to negotiate. NBC’.",
+      "date": "2026-07-15"
+    },
+    {
+      "title": "ICE Halts Most Vehicle Stops After Fatal Texas, Maine Shootings",
+      "summary": "In the wake of two fatal ICE-involved shootings in less than a week, the Department of Homeland Security is now instructing agents to suspend most vehicle stops amid growing uproar. On Truth Social, President Donald Trump wrote, “We cannot give up one of ICE’s most important and effective crime fighting tools,” adding,.",
+      "date": "2026-07-15"
+    },
+    {
       "title": "E. Jean Carroll Receives $5.6 Million Payment From Trump in Civil Case",
       "summary": "A federal jury found President Trump liable for sexually abusing and defaming Ms. Carroll. He exhausted his appeals last month, prompting a judge to order that the money be paid.",
-      "date": "2026-07-14"
-    },
-    {
-      "title": "ICE Ordered to Cease Most Vehicle Stops After Fatal Shootings in Maine and Houston",
-      "summary": "Agents fatally shot a man in Houston and another in coastal Maine, both in their vehicles. The killings were the latest in a string of ICE shootings during President Trump’s second term.",
-      "date": "2026-07-14"
-    },
-    {
-      "title": "Maine Democrats criticize GOP Sen. Susan Collins after fatal ICE shooting of motorist in the state",
-      "summary": "A federal immigration agent fatally shot a motorist just south of Maine's largest city on Monday, the second time in a week that ICE has used deadly force on American soil and at least the ninth death since President Donald Trump began his immigration crackdown.",
-      "date": "2026-07-14"
-    },
-    {
-      "title": "Inflation eased in June, but Americans still feel pressure from high prices",
-      "summary": "A report shows inflation eased more than expected in June. It's welcome news for President Trump, who has made lowering prices a focus of his economic agenda. But months of higher-than-expected inflation have continued to squeeze many households and raised questions about when consumers will feel relief. Liz Landers re.",
       "date": "2026-07-14"
     }
   ],
   "sources": [
+    {
+      "title": "Watch Live: Jay Clayton, Trump",
+      "url": "https://www.cbsnews.com/news/jay-clayton-trumps-dni-nominee-senate-confirmation-hearing/?utm_source=lootura.com",
+      "publishedAt": "2026-07-15T13:38:23.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
     {
       "title": "Trump says he won't rule out sending ground troops to Iran",
       "url": "https://www.cbsnews.com/video/trump-says-he-wont-rule-out-sending-ground-troops-to-iran/?utm_source=lootura.com",
@@ -80,6 +86,18 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
+      "title": "US Resumes Hormuz Blockade as Trump Threatens More Strikes",
+      "url": "https://www.today.com/video/us-resumes-hormuz-blockade-as-trump-threatens-more-strikes-266707013862?utm_source=lootura.com",
+      "publishedAt": "2026-07-15T11:21:18.000Z",
+      "sourceId": "lootura-us-nbc-news"
+    },
+    {
+      "title": "ICE Halts Most Vehicle Stops After Fatal Texas, Maine Shootings",
+      "url": "https://www.today.com/video/ice-halts-most-vehicle-stops-after-fatal-texas-maine-shootings-266708549768?utm_source=lootura.com",
+      "publishedAt": "2026-07-15T11:25:40.000Z",
+      "sourceId": "lootura-us-nbc-news-politics"
+    },
+    {
       "title": "Trump will speak on elections in Thursday primetime address",
       "url": "https://www.npr.org/2026/07/15/nx-s1-5894580/trump-elections-primetime-address?utm_source=lootura.com",
       "publishedAt": "2026-07-15T06:00:46.000Z",
@@ -90,24 +108,6 @@
       "url": "https://www.npr.org/2026/07/15/nx-s1-5892482/cdc-director-erica-schwartz-senate-confirmation-hearing?utm_source=lootura.com",
       "publishedAt": "2026-07-15T09:00:00.000Z",
       "sourceId": "lootura-us-npr-politics"
-    },
-    {
-      "title": "Maine Democrats criticize GOP Sen. Susan Collins after fatal ICE shooting of motorist in the state",
-      "url": "https://www.pbs.org/newshour/politics/maine-democrats-criticize-gop-sen-susan-collins-after-fatal-ice-shooting-of-motorist-in-the-state?utm_source=lootura.com",
-      "publishedAt": "2026-07-14T23:05:04.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
-    },
-    {
-      "title": "Inflation eased in June, but Americans still feel pressure from high prices",
-      "url": "https://www.pbs.org/newshour/show/inflation-eased-in-june-but-americans-still-feel-pressure-from-high-prices?utm_source=lootura.com",
-      "publishedAt": "2026-07-14T22:40:47.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
-    },
-    {
-      "title": "ICE Ordered to Cease Most Vehicle Stops After Fatal Shootings in Maine and Houston",
-      "url": "https://www.nytimes.com/2026/07/14/us/ice-agents-traffic-stops.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-14T17:02:07.000Z",
-      "sourceId": "lootura-us-the-new-york-times"
     },
     {
       "title": "E. Jean Carroll Receives $5.6 Million Payment From Trump in Civil Case",
@@ -124,9 +124,9 @@
     {
       "title": "Todd Blanche Faces Crucial Hurdle Ahead of Confirmation as Attorney General",
       "url": "https://www.nytimes.com/2026/07/15/us/politics/todd-blanche-attorney-general-confirmation-doj.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-15T09:03:34.000Z",
+      "publishedAt": "2026-07-15T13:16:59.000Z",
       "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 12
+  "evidenceCount": 11
 }

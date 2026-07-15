@@ -3,7 +3,7 @@
 > Follow Iran, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-15T10:00:29.427Z
+- Updated: 2026-07-15T13:39:02.263Z
 - Canonical: https://atlas.lootura.com/us/place/iran
 
 ## Recent changes
@@ -23,6 +23,18 @@ Date: 2026-07-15
 ### For Israel, the U.S.-Iran Hostilities Have Created an Uneasy Limbo
 
 Officials see a return to full-blown war as preferable to an agreement that fails to curb the threats Iran poses to Israel. Meanwhile, they wait.
+
+Date: 2026-07-15
+
+### US Resumes Hormuz Blockade as Trump Threatens More Strikes
+
+The United States is escalating its attacks on Iran, striking military targets including coastal defense systems and missile and drone sites. It comes as President Donald Trump in an interview warned that the U.S. will begin striking civilian infrastructure including energy targets unless Iran agrees to negotiate. NBC’.
+
+Date: 2026-07-15
+
+### U.S. and Iran standoff over the Strait of Hormuz intensifies
+
+threatened to block all oil exporting routes in the region on Wednesday in response to the U.S. maritime blockade of Iranian ports in the Strait of Hormuz. (Image credit: AFP via Getty Images).
 
 Date: 2026-07-15
 
@@ -56,23 +68,12 @@ The president is accustomed to forcing other countries to bend to his will. But 
 
 Date: 2026-07-14
 
-### Senate Democrats Block Defense Bill Over War in Iran
-
-The vote reflected how the political debate over the conflict in the Middle East has sapped bipartisan support for a normally popular measure.
-
-Date: 2026-07-14
-
-### Europe, Flexing Muscle in Ukraine, Is Still on Sidelines in Iran
-
-In a show of collective strength, President Emmanuel Macron of France hosted European allies at the annual Bastille Day parade in Paris. Yet Europe is still a hostage to America’s foreign policy.
-
-Date: 2026-07-14
-
 ## Sources
 
 - [Trump says he won't rule out sending ground troops to Iran](https://www.cbsnews.com/video/trump-says-he-wont-rule-out-sending-ground-troops-to-iran/?utm_source=lootura.com) — 2026-07-15T00:48:43.000Z
+- [US Resumes Hormuz Blockade as Trump Threatens More Strikes](https://www.today.com/video/us-resumes-hormuz-blockade-as-trump-threatens-more-strikes-266707013862?utm_source=lootura.com) — 2026-07-15T11:21:18.000Z
 - [Inflation slowed sharply -- but it may not last](https://www.npr.org/2026/07/14/nx-s1-5893379/inflation-economy-consumer-prices-federal-reserve?utm_source=lootura.com) — 2026-07-14T14:40:20.000Z
 - [Morning news brief](https://www.npr.org/2026/07/15/nx-s1-5891559/morning-news-brief?utm_source=lootura.com) — 2026-07-15T08:50:19.000Z
+- [U.S. and Iran standoff over the Strait of Hormuz intensifies](https://www.npr.org/2026/07/15/nx-s1-5894582/us-iran-updates?utm_source=lootura.com) — 2026-07-15T09:56:31.000Z
 - [Senate Democrats Block Defense Bill Over War in Iran](https://www.nytimes.com/2026/07/14/us/politics/senate-democrats-defense-bill.html?utm_source=lootura.com) — 2026-07-14T19:44:27.000Z
 - [For Israel, the U.S.-Iran Hostilities Have Created an Uneasy Limbo](https://www.nytimes.com/2026/07/15/world/middleeast/for-israel-the-us-iran-hostilities-have-created-an-uneasy-limbo.html?utm_source=lootura.com) — 2026-07-15T09:03:46.000Z
-- [At War With Iran Again, Trump Finds an Opponent He Cannot Easily Dominate](https://www.nytimes.com/2026/07/14/us/politics/iran-trump-war.html?utm_source=lootura.com) — 2026-07-14T23:01:39.000Z

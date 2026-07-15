@@ -3,10 +3,40 @@
 > Sigue la actividad de Madrid en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-15T10:00:08.251Z
+- Actualizado: 2026-07-15T13:38:34.657Z
 - Canonical: https://atlas.lootura.com/es/place/madrid
 
 ## Cambios recientes
+
+### Las cámaras graban a un mena reincidente asaltando a ancianos en Majadahonda (Madrid)
+
+Las cámaras graban a un mena marroquí reincidente golpeando a ancianos para robarles en Majadahonda (Madrid).
+
+Date: 2026-07-15
+
+### Alcalá de Henares contará con el primer intercambiador comarcal en 2027
+
+Favorecerá la movilidad de 11 municipios del este de la Comunidad de Madrid y concentrará un total de 16 líneas, entre autobuses urbanos e interurbanos.
+
+Date: 2026-07-15
+
+### El asesinato de Facundo por la espalda en una urbanización de lujo en Madrid
+
+Cinco vehículos policiales y dos camiones de bomberos indicaban este martes que algo grave había sucedido en la urbanización ubicada en el número 4 de la calle de Cirauqui de Madrid. En esta zona acomodada, sede de grandes empresas y poblada de fincas con piscina, no son habituales los altercados. Poco después de las d.
+
+Date: 2026-07-15
+
+### El Gobierno de Ayuso cree que Sánchez quiere «cargarse» la acusación popular
+
+El consejero de Presidencia, Justicia y Administración Local de la Comunidad de Madrid, Miguel Ángel García Martín, ha afirmado este miércoles que el.
+
+Date: 2026-07-15
+
+### Almeida reprocha al «delincuente» hermano de Sánchez su «golfada y deshonestidad»
+
+El alcalde de Madrid, José Luis Martínez-Almeida (PP), ha reprochado al «delincuente» hermano del presidente del Gobierno, Pedro Sánchez , por su «golfada y deshonestidad» después de que la Audiencia Provincial de Badajoz haya condenado a David Sánchez Pérez-Castejón a la pena de inhabilitación especial para empleo o c.
+
+Date: 2026-07-15
 
 ### La Primera de Expansión sobre ACS, Ferrovial, Mubadala, Burger King, UBS y Buffett
 
@@ -32,46 +62,16 @@ La Comunidad de Madrid ha ejecutado el derribo de doce construcciones ilegales e
 
 Date: 2026-07-15
 
-### Las cámaras graban a un mena reincidente asaltando a ancianos en Majadahonda (Madrid)
-
-Las cámaras graban a un mena marroquí reincidente golpeando a ancianos para robarles en Majadahonda (Madrid).
-
-Date: 2026-07-15
-
 ### Al banquillo en Madrid una banda que asaltaba a hombres captados por aplicaciones de citas para robarles
 
 La Audiencia Provincial de Madrid juzga a partir de este miércoles a tres hombres acusados de formar parte de un grupo que, entre junio y septiembre de 2024, cometió una cadena de robos violentos contra hombres contactados a través de aplicaciones de citas, a quienes supuestamente abordaban en sus domicilios o en lugar.
 
 Date: 2026-07-15
 
-### Momad sitúa a Madrid en el epicentro de la moda
-
-El pabellón 5 del Recinto Ferial de Ifema Madrid acogerá una nueva edición de Momad, la Feria Internacional de Moda, Calzado y Accesorios. La cita estrena un formato renovado con el objetivo de convertirse en el primer gran encuentro profesional del calendario ferial de la moda, reuniendo a marcas, compradores y profes.
-
-Date: 2026-07-15
-
-### El pueblo de la Sierra de Madrid donde mejor se verá el eclipse solar el 12 de agosto: quedará a totalmente a oscuras durante 1 minuto y 29 segundos
-
-El 12 de agosto no va a ser un día cualquiera ya que todos sabemos que ese día va a tener lugar un eclipse total de Sol que se podrá ver desde buena parte de España , algo que no sucede en estas condiciones desde hace décadas. Durante poco más de un minuto, la luz desaparecerá casi por completo en algunos puntos y el a.
-
-Date: 2026-07-15
-
-### Cataluña, Madrid y Andalucía asumen el 49% del coste total del absentismo
-
-El absentismo se ha convertido en uno de los debates centrales del plano político y social. El Gobierno mantiene abierta una mesa de negociación con patronales y sindicatos que de momento ha resultado infructuosa, pero en la que se han planteado medidas para tratar contener el creciente impacto económico que desde CEOE.
-
-Date: 2026-07-14
-
-### ACS, Acciona, Ferrovial y Sacyr se lanzan a por obras de 5.000 millones en Madrid
-
-se va a convertir en los próximos 12-24 meses en el gran polo de atracción del mercado de obra pública en España, gracias a la madurez de proyectos que en poco tiempo saldrán a licitación pública con presupuestos de inversión que, globalmente, superan los 5.000 millones. Seguir leyendo.
-
-Date: 2026-07-14
-
 ## Fuentes
 
-- [Muere el histórico boxeador español José Legrá a los 83 años](https://www.abc.es/deportes/muere-historico-boxeador-espanol-jose-legra-anos-20260715105459-nt.html?utm_source=lootura.com) — 2026-07-15T09:10:47.000Z
-- [Las doce puñaladas que acabaron con Facundo en su ático de lujo de Las Tablas](https://www.abc.es/espana/madrid/doce-punaladas-facundo-piso-lujo-tablas-20260714023658-nt.html?utm_source=lootura.com) — 2026-07-15T09:20:30.000Z
-- [Madrid derriba 12 construcciones ilegales en Fuente el Saz de Jarama para preservar el suelo protegido](https://www.abc.es/espana/madrid/madrid-derriba-construcciones-ilegales-fuente-saz-jarama-20260715111638-nt.html?utm_source=lootura.com) — 2026-07-15T09:16:38.000Z
-- [La Primera de Expansión sobre ACS, Ferrovial, Mubadala, Burger King, UBS y Buffett](https://www.expansion.com/podcasts/la-primera-de-expansion/2026/07/15/6a571462e5fdeac7688b459f.html?utm_source=lootura.com) — 2026-07-15T05:28:47.000Z
+- [Alcalá de Henares contará con el primer intercambiador comarcal en 2027](https://www.abc.es/espana/madrid/alcala-henares-contara-primer-intercambiador-comarcal-2027-20260715150944-nt.html?utm_source=lootura.com) — 2026-07-15T13:09:44.000Z
+- [El asesinato de Facundo por la espalda en una urbanización de lujo en Madrid](https://elpais.com/espana/madrid/2026-07-15/el-asesinato-de-facundo-por-la-espalda-en-una-urbanizacion-de-lujo-en-madrid.html?utm_source=lootura.com) — 2026-07-15T03:30:01.000Z
 - [Las cámaras graban a un mena reincidente asaltando a ancianos en Majadahonda (Madrid)](https://okdiario.com/sucesos/camaras-graban-mena-marroqui-reincidente-golpeando-ancianos-robarles-madrid-18999583/amp?utm_source=lootura.com) — 2026-07-15T09:52:27.000Z
+- [El Gobierno de Ayuso cree que Sánchez quiere «cargarse» la acusación popular](https://theobjective.com/espana/politica/2026-07-15/gobierno-ayuso-sanchez-acusacion-popular/?amp=&utm_source=lootura.com) — 2026-07-15T13:22:26.000Z
+- [Almeida reprocha al «delincuente» hermano de Sánchez su «golfada y deshonestidad»](https://theobjective.com/espana/politica/2026-07-15/almeida-delincuente-hermano-sanchez-golfada-deshonestidad/?utm_source=lootura.com) — 2026-07-15T12:06:32.000Z

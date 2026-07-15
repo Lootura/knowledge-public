@@ -3,7 +3,7 @@
 > Sigue la actividad de China en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-15T10:00:08.251Z
+- Actualizado: 2026-07-15T13:38:34.657Z
 - Canonical: https://atlas.lootura.com/es/place/china
 
 ## Cambios recientes
@@ -70,6 +70,5 @@ Date: 2026-07-13
 
 ## Fuentes
 
-- [ASML supera las previsiones en el segundo trimestre gracias al impulso de la IA](https://cincodias.elpais.com/companias/2026-07-15/asml-supera-las-previsiones-en-el-segundo-trimestre-gracias-al-impulso-de-la-ia.html?utm_source=lootura.com) — 2026-07-15T05:24:17.000Z
 - [China acelera su ofensiva comercial sobre Europa](https://www.elmundo.es/economia/macroeconomia/2026/07/15/6a56f882fdddffac3c8b4587.html?utm_source=lootura.com) — 2026-07-15T05:08:14.000Z
-- [El Ibex vuelve a frenarse](https://www.expansion.com/mercados/cronica-bolsa/2026/07/15/6a571f27e5fdea9c048b4584.html?utm_source=lootura.com) — 2026-07-15T09:38:19.000Z
+- [El Ibex vuelve a frenarse](https://www.expansion.com/mercados/cronica-bolsa/2026/07/15/6a571f27e5fdea9c048b4584.html?utm_source=lootura.com) — 2026-07-15T12:28:46.000Z

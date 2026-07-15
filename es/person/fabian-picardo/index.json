@@ -1,0 +1,45 @@
+{
+  "id": "es-fabian-picardo",
+  "name": "Fabian Picardo",
+  "type": "person",
+  "locale": "es",
+  "canonicalPath": "/es/person/fabian-picardo",
+  "canonicalUrl": "https://atlas.lootura.com/es/person/fabian-picardo",
+  "markdownUrl": "https://atlas.lootura.com/es/person/fabian-picardo/index.md",
+  "jsonUrl": "https://atlas.lootura.com/es/person/fabian-picardo/index.json",
+  "description": "Sigue la actividad de Fabian Picardo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
+  "updatedAt": "2026-07-15T13:38:34.657Z",
+  "aliases": [],
+  "changes": [
+    {
+      "title": "Sánchez se arroga el logro de cerrar la \"herida\" de la Verja tras el mazazo de su hermano",
+      "summary": "\"Estamos haciendo historia de la buena\". Pedro Sánchez ha utilizado una frase de Fabian Picardo , ministro principal de Gibraltar después de participar en el derribo simbólico de la frontera que hasta la pasada medianoche separaba a Gibraltar y La Línea de la Concepción. El presidente del Gobierno se ha congratulado po.",
+      "date": "2026-07-15"
+    },
+    {
+      "title": "Picardo: «Quitamos la valla de Franco, hay que ponérsela encima para que nunca se levante nadie como él»",
+      "summary": "El ministro principal de Gibraltar , Fabian Picardo , ha manifestado, tras el fin de la Verja : «Hemos quitado esa valla de Franco, que le gustaba tanto y que la cerró, y deberíamos llevarla a la Almudena y ponérsela encima a Franco , para asegurarnos de que nunca se levanta ni él ni nadie como él». En declaraciones a.",
+      "date": "2026-07-15"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Fabian Picardo first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-07-15"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Sánchez se arroga el logro de cerrar la \"herida\" de la Verja tras el mazazo de su hermano",
+      "url": "https://www.elconfidencial.com/espana/andalucia/2026-07-15/sanchez-herida-verja-mazazo-hermano-gibraltar_4390289/?utm_source=lootura.com",
+      "publishedAt": "2026-07-15T11:02:00.000Z",
+      "sourceId": "lootura-es-el-confidencial"
+    },
+    {
+      "title": "Picardo: «Quitamos la valla de Franco, hay que ponérsela encima para que nunca se levante nadie como él»",
+      "url": "https://theobjective.com/espana/politica/2026-07-15/picardo-valla-franco-gibraltar/?utm_source=lootura.com",
+      "publishedAt": "2026-07-15T13:20:36.000Z",
+      "sourceId": "lootura-es-the-objective"
+    }
+  ],
+  "evidenceCount": 2
+}

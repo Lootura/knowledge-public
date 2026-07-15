@@ -8,11 +8,16 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/graham-platner/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/graham-platner/index.json",
   "description": "Follow Graham Platner, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-15T10:00:29.427Z",
+  "updatedAt": "2026-07-15T13:39:02.263Z",
   "aliases": [
     "Platner"
   ],
   "changes": [
+    {
+      "title": "Maine Democrats aren’t coalescing behind a Graham Platner replacement",
+      "summary": "Maine Democrats want to hold onto Graham Platner’s progressive base — but they can’t agree on who is best positioned to carry the torch. That indecision is creating a fractured field heading into an unpredictable late July nominating convention for one of the most important Senate races on the 2026 map. Now, various ca.",
+      "date": "2026-07-15"
+    },
     {
       "title": "Maine Democrats grapple with who is best to take over Graham Platner’s movement",
       "summary": "Maine Democrats want to hold onto Graham Platner’s progressive base — but they can’t agree on who is best positioned to carry the torch. That indecision is creating a fractured field heading into an unpredictable late July nominating convention for one of the most important Senate races on the 2026 map. Now, various ca.",
@@ -57,16 +62,11 @@
       "title": "Maine Secretary of State Shenna Bellows on her bid to replace Platner in Senate race",
       "summary": "NPR's Michel Martin speaks with Maine Secretary of State Shenna Bellows about her run to replace Graham Platner in the Maine Senate race.",
       "date": "2026-07-13"
-    },
-    {
-      "title": "Maine Democrats to Chuck Schumer: Stay Out of Our Senate Race",
-      "summary": "Local Democrats are warning the top Senate Democrat to keep away as they replace Graham Platner, and the candidates are giving his leadership in Washington low marks.",
-      "date": "2026-07-13"
     }
   ],
   "sources": [
     {
-      "title": "Maine Democrats grapple with who is best to take over Graham Platner’s movement",
+      "title": "Maine Democrats aren’t coalescing behind a Graham Platner replacement",
       "url": "https://www.politico.com/news/2026/07/15/maine-democrats-fractures-platner-replacement-00997729?utm_source=lootura.com",
       "publishedAt": "2026-07-15T09:55:00.000Z",
       "sourceId": "lootura-us-politico"

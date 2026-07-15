@@ -3,10 +3,22 @@
 > Sigue la actividad de Audiencia Provincial en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-14T20:58:20.799Z
+- Actualizado: 2026-07-15T13:38:34.657Z
 - Canonical: https://atlas.lootura.com/es/person/audiencia-provincial
 
 ## Cambios recientes
+
+### CIS de Tezanos | El PSOE engorda con los casos judiciales y amplía la ventaja sobre el PP a casi 8 puntos
+
+El PSOE recupera posiciones en el CIS de Tezanos . Los socialistas avanzan 1,7 puntos en el primer barómetro desde que se conocieran las condenas a José Luis Ábalos y Koldo García en el denominado caso mascarillas y apenas 24 horas después de que la Audiencia Provincial de Badajoz condenara a David Sánchez , hermano de.
+
+Date: 2026-07-15
+
+### Almeida reprocha al «delincuente» hermano de Sánchez su «golfada y deshonestidad»
+
+El alcalde de Madrid, José Luis Martínez-Almeida (PP), ha reprochado al «delincuente» hermano del presidente del Gobierno, Pedro Sánchez , por su «golfada y deshonestidad» después de que la Audiencia Provincial de Badajoz haya condenado a David Sánchez Pérez-Castejón a la pena de inhabilitación especial para empleo o c.
+
+Date: 2026-07-15
 
 ### Discovered by Atlas
 
@@ -40,4 +52,5 @@ Date: 2026-07-14
 
 ## Fuentes
 
-No public source links.
+- [CIS de Tezanos | El PSOE engorda con los casos judiciales y amplía la ventaja sobre el PP a casi 8 puntos](https://www.elconfidencial.com/espana/2026-07-15/psoe-engorda-casos-judiciales-amplia-ventaja-sobre-pp-cis_4390347/?utm_source=lootura.com) — 2026-07-15T10:37:00.000Z
+- [Almeida reprocha al «delincuente» hermano de Sánchez su «golfada y deshonestidad»](https://theobjective.com/espana/politica/2026-07-15/almeida-delincuente-hermano-sanchez-golfada-deshonestidad/?utm_source=lootura.com) — 2026-07-15T12:06:32.000Z

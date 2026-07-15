@@ -3,10 +3,40 @@
 > Sigue la actividad de Alberto Núñez Feijóo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-15T02:11:09.495Z
+- Actualizado: 2026-07-15T13:38:34.657Z
 - Canonical: https://atlas.lootura.com/es/person/alberto-nunez-feijoo
 
 ## Cambios recientes
+
+### Feijóo eleva al máximo su crítica a Sánchez tras la condena de su hermano y lo llama "presidente autoritario"
+
+En un foro con líderes europeos e hispanoamericanos, acusa al PSOE de "agredir" a la democracia "desde las más altas instancias" Leer.
+
+Date: 2026-07-15
+
+### El CIS de Tezanos remonta al PSOE y le da una ventaja de casi ocho puntos sobre el PP en el mes de la condena a Ábalos
+
+Feijóo cae dos puntos en porcentaje de voto y Abascal también retrocede ligeramente Leer.
+
+Date: 2026-07-15
+
+### Feijóo, ante la derecha internacional: “Les hablo desde una España amenazada, con una democracia agredida desde las altas instancias”
+
+El líder del PP inaugura el Foro Libertas, que ha reunido a líderes de la derecha europea y de Latinoamérica, como la presidenta de Perú, Keiko Fujimori. Frente a ellos ha asegurado que si un líder "recela de los jueces" o "desprecia las mayorías cuando no le favorece", se trata de un "presidente autoritario" Los socio.
+
+Date: 2026-07-15
+
+### Ester Muñoz responde a Puente tras su polémico tuit insultando a Feijóo: "No ha sido tajante, ha sido maleducado"
+
+Ester Muñoz ha respondido con firmeza a Óscar Puente tras el tuit que publicó insultando a Alberto Núñez Feijóo por sus palabras sobre la condena al hermano del presidente del Gobierno, David Sánchez. En una intervención en Al Rojo Vivo , la portavoz del PP ha asegurado que el ministro de Transportes no fue tajante, si.
+
+Date: 2026-07-15
+
+### Feijóo acusa a Sánchez de ser un «presidente autoritario» y de «agredir» la democracia
+
+El líder del PP , Alberto Núñez Feijóo , ha asegurado este miércoles que el jefe del Ejecutivo, Pedro Sánchez , es un «presidente autoritario» —aunque no lo ha citado expresamente en ningún momento— y ha advertido de que España sufre «la amenaza de una democracia debilitada» y «agredida». Además, ha avisado de que no p.
+
+Date: 2026-07-15
 
 ### El PP califica de "histórica" la condena del hermano de Sánchez: "Nadie está por encima de la ley"
 
@@ -38,36 +68,10 @@ El líder del PP, Alberto Núñez Feijóo , ha asegurado que espera que «contin
 
 Date: 2026-07-13
 
-### Errores no forzados en el PP
-
-Más de una vez nos hemos referido a que Alberto Núñez Feijóo estaba mucho más suelto y feliz cuando era presidente de la Xunta de Galicia que ahora que ejerce de jefe de la oposición. No es nada fácil lidiar con Pedro Sánchez y aguantar diariamente la presión de la opinión publicada, que oscila entre los que le critica.
-
-Date: 2026-07-13
-
-### El Gobierno responde a Feijóo que su plan contra catástrofes ya está incluido en el pacto climático y le pide que lo firme: "Llega tarde"
-
-El líder del Partido Popular, Alberto Núñez Feijóo , se ha comprometido este lunes desde la localidad almeriense de los Gallardos, que ha sufrido el incendio más mortífero de este siglo en España, a elaborar un "gran acuerdo de prevención, respuesta y coordinación" ante catástrofes naturales si se convierte en el próxi.
-
-Date: 2026-07-13
-
-### Feijóo promete desde Almería impulsar un "gran acuerdo de prevención, respuesta y coordinación" ante catástrofes naturales
-
-Desde la localidad que ha sufrido el incendio más mortífero de este siglo en España, Los Gallardos, el presidente del Partido Popular, Alberto Núñez Feijóo , se ha comprometido a elaborar un "gran acuerdo de prevención, respuesta y coordinación" ante catástrofes naturales si se convierte en el próximo presidente del Go.
-
-Date: 2026-07-13
-
-### Feijóo sin complejos: “ingeniería electoral”, “concebido y no nacido” y “absentismo laboral»
-
-Un cambio sustancial en la estrategia política del PP parece consolidarse. En el que la relación con Vox ocupa un papel determinante, con el dominio del espacio político del centroderecha en juego. El motivo tiene su base en que todas las encuestas confirman la consolidación de un voto de «derechas» o liberal conservad.
-
-Date: 2026-07-13
-
-### Vox pide a Feijóo centrarse en Sánchez, "no meterse en jardines" como el de las bajas laborales y "estar más preparado" si les copia en inmigración
-
-Casi una semana después de que el presidente del PP, Alberto Núñez Feijóo , se pronunciase sobre las bajas laborales, lo vinculase con absentismo laboral y hablase del asunto como un "cáncer" para la economía, encontró respuesta por parte de Vox a través de su portavoz nacional, José Antonio Fúster . También por el lig.
-
-Date: 2026-07-13
-
 ## Fuentes
 
-No public source links.
+- [Feijóo eleva al máximo su crítica a Sánchez tras la condena de su hermano y lo llama "presidente autoritario"](https://www.elmundo.es/espana/2026/07/15/6a5765cffc6c83df118b4582.html?utm_source=lootura.com) — 2026-07-15T10:50:27.000Z
+- [El CIS de Tezanos remonta al PSOE y le da una ventaja de casi ocho puntos sobre el PP en el mes de la condena a Ábalos](https://www.elmundo.es/espana/2026/07/15/6a574fee21efa0e10d8b4582.html?utm_source=lootura.com) — 2026-07-15T10:40:39.000Z
+- [Feijóo, ante la derecha internacional: “Les hablo desde una España amenazada, con una democracia agredida desde las altas instancias”](https://www.eldiario.es/politica/feijoo-derecha-internacional-les-hablo-espana-amenazada-democracia-debilitada-agredida-altas-instancias_1_13381825.html?utm_source=lootura.com) — 2026-07-15T10:54:26.000Z
+- [Ester Muñoz responde a Puente tras su polémico tuit insultando a Feijóo: "No ha sido tajante, ha sido maleducado"](https://www.larazon.es/espana/ester-munoz-responde-puente-polemico-tuit-insultando-feijoo-sido-tajante-sido-maleducado_202607156a57867ee9f2e84b5c69a7c5.html?utm_source=lootura.com) — 2026-07-15T13:22:11.000Z
+- [Feijóo acusa a Sánchez de ser un «presidente autoritario» y de «agredir» la democracia](https://theobjective.com/espana/politica/2026-07-15/feijoo-sanchez-presidente-autoritario-agredir-democracia/?utm_source=lootura.com) — 2026-07-15T12:32:30.000Z

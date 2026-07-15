@@ -3,10 +3,16 @@
 > Follow Graham Platner, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-07-15T10:00:29.427Z
+- Updated: 2026-07-15T13:39:02.263Z
 - Canonical: https://atlas.lootura.com/us/person/graham-platner
 
 ## Recent changes
+
+### Maine Democrats aren’t coalescing behind a Graham Platner replacement
+
+Maine Democrats want to hold onto Graham Platner’s progressive base — but they can’t agree on who is best positioned to carry the torch. That indecision is creating a fractured field heading into an unpredictable late July nominating convention for one of the most important Senate races on the 2026 map. Now, various ca.
+
+Date: 2026-07-15
 
 ### Maine Democrats grapple with who is best to take over Graham Platner’s movement
 
@@ -62,12 +68,6 @@ NPR's Michel Martin speaks with Maine Secretary of State Shenna Bellows about he
 
 Date: 2026-07-13
 
-### Maine Democrats to Chuck Schumer: Stay Out of Our Senate Race
-
-Local Democrats are warning the top Senate Democrat to keep away as they replace Graham Platner, and the candidates are giving his leadership in Washington low marks.
-
-Date: 2026-07-13
-
 ## Sources
 
-- [Maine Democrats grapple with who is best to take over Graham Platner’s movement](https://www.politico.com/news/2026/07/15/maine-democrats-fractures-platner-replacement-00997729?utm_source=lootura.com) — 2026-07-15T09:55:00.000Z
+- [Maine Democrats aren’t coalescing behind a Graham Platner replacement](https://www.politico.com/news/2026/07/15/maine-democrats-fractures-platner-replacement-00997729?utm_source=lootura.com) — 2026-07-15T09:55:00.000Z

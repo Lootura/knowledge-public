@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/europe/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/europe/index.json",
   "description": "Follow Europe, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-15T02:11:36.851Z",
+  "updatedAt": "2026-07-15T13:39:02.263Z",
   "aliases": [
     "EU",
     "European Union"
   ],
   "changes": [
+    {
+      "title": "Ultraviolet light uncovers the first known juveniles of a mysterious Jurassic fish family",
+      "summary": "For more than 150 years, fossils of Jurassic fish scattered across Europe's museums were studied and drawn by generations of scientists. However, when a paleontologist decided to shine an ultraviolet light on them, a hidden world lit up.",
+      "date": "2026-07-15"
+    },
     {
       "title": "Report details ecological characterization of peatlands and coastal lagoons in EU",
       "summary": "A new synthesis report, titled \"Ecological Characterisation of Peatlands and Coastal Lagoons in Europe,\" has been published to support the assessment, monitoring and restoration of European wetlands under EU environmental legislation. The report was prepared in response to a policy request submitted by the Directorate-.",
@@ -58,13 +63,15 @@
       "title": "Europe considering proposals to allow navigational fees in strait of Hormuz",
       "summary": "Plans specify tolls must not be compulsory, as US officials urge Iran to make public statement that strait is open and that shipping can safely pass Europe is studying proposals that may allow the charging of navigational fees in the strait of Hormuz so long as the tolls are not compulsory and have the support of the U.",
       "date": "2026-07-11"
-    },
-    {
-      "title": "At Least 11 People Die in Southern Spain Wildfire",
-      "summary": "The blaze in Andalusia prompted a major containment operation. Heat waves across Europe this summer have raised the risk of such fires, forecasters say.",
-      "date": "2026-07-10"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Ultraviolet light uncovers the first known juveniles of a mysterious Jurassic fish family",
+      "url": "https://phys.org/news/2026-07-ultraviolet-uncovers-juveniles-mysterious-jurassic.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-15T13:00:01.000Z",
+      "sourceId": "lootura-us-phys-org"
+    }
+  ],
+  "evidenceCount": 1
 }

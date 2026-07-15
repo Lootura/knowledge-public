@@ -8,9 +8,14 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/canada/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/canada/index.json",
   "description": "Follow Canada, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-15T10:00:29.427Z",
+  "updatedAt": "2026-07-15T13:39:02.263Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "Wildfires expose millions in Midwest, Northeast to dangerous smoke",
+      "summary": "Heavy smoke from several large wildfires blazing in Canada and Minnesota is expected to engulf large swaths of the Midwest and Northeast U.S. this week.",
+      "date": "2026-07-15"
+    },
     {
       "title": "Wildfires expose millions in the Midwest and Northeast US to dangerous smoke",
       "summary": "Heavy smoke from several large wildfires blazing in Canada and Minnesota is expected to engulf large swaths of the Midwest and Northeast U.S. this week, exposing millions of people to dangerous air pollution.",
@@ -55,19 +60,14 @@
       "title": "Gordie Howe Bridge connecting Detroit, Canada expected to open in late July",
       "summary": "The 1.5-mile-long bridge, which spans the Detroit River and connects the Motor City with Windsor, Ontario, is expected to open on July 27.",
       "date": "2026-07-11"
-    },
-    {
-      "title": "Poll: Politics shapes patriotism, from the US to the UK",
-      "summary": "What does it mean to be patriotic? It depends on a country's politics. Pride in one’s country is itself relatively common, according to new results from an international edition of The POLITICO Poll: Majorities of adults across the United States, United Kingdom, Spain, Canada, France and Germany all say they are proud.",
-      "date": "2026-07-11"
     }
   ],
   "sources": [
     {
-      "title": "Wildfires expose millions in the Midwest and Northeast US to dangerous smoke",
-      "url": "https://phys.org/news/2026-07-wildfires-expose-millions-midwest-northeast.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-15T08:40:21.000Z",
-      "sourceId": "lootura-us-phys-org"
+      "title": "Wildfires expose millions in Midwest, Northeast to dangerous smoke",
+      "url": "https://www.cbsnews.com/news/wildfires-smoke-millions-exposed-midwest-northeast-us/?utm_source=lootura.com",
+      "publishedAt": "2026-07-15T13:23:51.000Z",
+      "sourceId": "lootura-us-cbs-news"
     }
   ],
   "evidenceCount": 1

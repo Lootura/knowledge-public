@@ -3,7 +3,7 @@
 > Follow Russia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-15T10:00:29.427Z
+- Updated: 2026-07-15T13:39:02.263Z
 - Canonical: https://atlas.lootura.com/us/place/russia
 
 ## Recent changes
@@ -71,4 +71,3 @@ Date: 2026-07-12
 ## Sources
 
 - [Ukraine Pounds Russian Ships in Its Campaign to Cut Off Crimea](https://www.nytimes.com/2026/07/15/world/europe/ukraine-russia-crimea-azov-sea.html?utm_source=lootura.com) — 2026-07-15T09:38:52.000Z
-- [Lindsey Graham’s Death Leaves Fate of Russia Sanctions Bill Uncertain](https://www.nytimes.com/2026/07/14/us/politics/graham-death-russia-sanctions-trump.html?utm_source=lootura.com) — 2026-07-14T20:55:01.000Z

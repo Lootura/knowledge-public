@@ -3,10 +3,16 @@
 > Sigue la actividad de País Vasco en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-15T06:12:14.832Z
+- Actualizado: 2026-07-15T13:38:34.657Z
 - Canonical: https://atlas.lootura.com/es/place/pais-vasco
 
 ## Cambios recientes
+
+### Las familias de Gipuzkoa son las que más gastan en Euskadi y disparan su inversión en salud un 33%
+
+La factura total de los hogares alcanza los 40.917 euros por el precio de la vivienda y los alimentos, una cifra muy superior al registrado en Bizkaia y Araba.
+
+Date: 2026-07-15
 
 ### Euskadi suma 7.000 cotizantes extranjeros en dos meses con la regularización
 
@@ -58,4 +64,4 @@ Date: 2026-07-08
 
 ## Fuentes
 
-No public source links.
+- [Las familias de Gipuzkoa son las que más gastan en Euskadi y disparan su inversión en salud un 33%](https://www.diariovasco.com/gipuzkoa/gipuzkoa-territorio-vasco-gasto-medio-hogar-40917-20260715120830-nt_amp.html?utm_source=lootura.com) — 2026-07-15T10:08:31.000Z

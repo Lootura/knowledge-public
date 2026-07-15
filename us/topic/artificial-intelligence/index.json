@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/topic/artificial-intelligence/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/topic/artificial-intelligence/index.json",
   "description": "Follow Artificial intelligence, a tracked topic, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-15T10:00:29.427Z",
+  "updatedAt": "2026-07-15T13:39:02.263Z",
   "aliases": [
     "AI",
     "machine learning"
@@ -25,13 +25,18 @@
       "date": "2026-07-15"
     },
     {
-      "title": "Product availability changed in Europe",
-      "summary": "AI is a fast-growing business expense. Some companies are cutting costs by switching to cheaper Chinese AI models. (Image credit: Imen Ben Youssef/Hans Lucas).",
+      "title": "Google's AI search features pose 'unacceptable risk' to children, new report finds",
+      "summary": "Common Sense Media found that across more than 2,600 test interactions, Google's two built-in AI search functions routinely failed to recognize risky and harmful behavior.",
       "date": "2026-07-15"
     },
     {
-      "title": "Google's AI search features pose 'unacceptable risk' to children, new report finds",
-      "summary": "Common Sense Media found that across more than 2,600 test interactions, Google's two built-in AI search functions routinely failed to recognize risky and harmful behavior.",
+      "title": "Battle against data centers grows nationwide amid concerns over electricity, water usage",
+      "summary": "There's growing backlash nationwide against AI data centers and now New York is hitting pause. Gov. Kathy Hochul signed an executive order to delay the building boom. Kelly O'Grady has more.",
+      "date": "2026-07-15"
+    },
+    {
+      "title": "Product availability changed in Europe",
+      "summary": "AI is a fast-growing business expense. Some companies are cutting costs by switching to cheaper Chinese AI models. (Image credit: Imen Ben Youssef/Hans Lucas).",
       "date": "2026-07-15"
     },
     {
@@ -58,11 +63,6 @@
       "title": "SpaceXAI’s Grok programming tool was uploading its users’ entire codebase to cloud storage",
       "summary": "SpaceXAI's Grok Build AI coding tool was spotted uploading users' entire codebases to Google Cloud before it was reported, and the company turned it off. The Register reports that Cereblab published findings on Monday showing how the Grok Build CLI was packaging and uploading entire code repositories, \"including files.",
       "date": "2026-07-14"
-    },
-    {
-      "title": "How I Turned AI to the Dark Side",
-      "summary": "Summary Researcher Dave Kuszmar discovered multiple systemic vulnerabilities that let him bypass LLM safety and obtain dangerous instructions . These exploits worked across nearly all major LLMs revealing an industry-wide security problem. Kuszmar calls for slowing deployment, increasing transparency , and large-scale.",
-      "date": "2026-07-14"
     }
   ],
   "sources": [
@@ -79,16 +79,16 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
+      "title": "Battle against data centers grows nationwide amid concerns over electricity, water usage",
+      "url": "https://www.cbsnews.com/video/battle-against-data-centers-grows-nationwide/?utm_source=lootura.com",
+      "publishedAt": "2026-07-15T13:28:19.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
+    {
       "title": "How do young people feel about AI? 7 teens weigh in",
       "url": "https://www.npr.org/2026/07/14/nx-s1-5863025/teens-artificial-intelligence-ai-school?utm_source=lootura.com",
       "publishedAt": "2026-07-14T20:00:00.000Z",
       "sourceId": "lootura-us-npr"
-    },
-    {
-      "title": "American AI is expensive. Some startups are turning to cheap Chinese models",
-      "url": "https://www.npr.org/2026/07/15/nx-s1-5886476/startups-cheap-chinese-ai-models?utm_source=lootura.com",
-      "publishedAt": "2026-07-15T09:00:00.000Z",
-      "sourceId": "lootura-us-npr-world"
     },
     {
       "title": "Google's AI search features pose 'unacceptable risk' to children, new report finds",
@@ -97,17 +97,11 @@
       "sourceId": "lootura-us-pbs-newshour"
     },
     {
-      "title": "Generative AI's power sparks fears of dumbing humans down",
-      "url": "https://phys.org/news/2026-07-generative-ai-power-dumbing-humans.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-15T09:00:08.000Z",
-      "sourceId": "lootura-us-phys-org"
-    },
-    {
       "title": "Does AI work for us, or do we work for AI?",
       "url": "https://www.science.org/doi/abs/10.1126/science.aei9754?af=R&utm_source=lootura.com",
-      "publishedAt": "2026-07-15T10:00:34.378Z",
+      "publishedAt": "2026-07-15T13:39:06.568Z",
       "sourceId": "lootura-us-science"
     }
   ],
-  "evidenceCount": 7
+  "evidenceCount": 6
 }

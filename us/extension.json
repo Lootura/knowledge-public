@@ -1,16 +1,16 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-15T10:05:26.968Z",
+  "generatedAt": "2026-07-15T13:43:34.330Z",
   "radar": {
     "id": "usa",
     "slug": "us",
     "locale": "en"
   },
   "state": {
-    "signature": "1.15.1|16|1784109629427",
+    "signature": "1.15.1|17|1784122742263",
     "version": "1.15.1",
-    "build": 16,
-    "latestEntityUpdatedAt": "2026-07-15T10:00:29.427Z"
+    "build": 17,
+    "latestEntityUpdatedAt": "2026-07-15T13:39:02.263Z"
   },
   "atlas": {
     "hero": {
@@ -20,13 +20,26 @@
       "title": "Morning news brief",
       "url": "https://atlas.lootura.com/us/place/united-states",
       "path": "/us/place/united-states",
-      "updatedAt": "2026-07-15T10:00:29.427Z",
-      "score": 1600,
-      "sourceCount": 174,
+      "updatedAt": "2026-07-15T13:39:02.263Z",
+      "score": 1622,
+      "sourceCount": 183,
       "isBreaking": false,
       "isPinned": false
     },
     "cards": [
+      {
+        "id": "usa-todd-blanche",
+        "name": "Todd Blanche",
+        "type": "person",
+        "title": "Todd Blanche Faces Crucial Hurdle Ahead of Confirmation as Attorney General",
+        "url": "https://atlas.lootura.com/us/person/todd-blanche",
+        "path": "/us/person/todd-blanche",
+        "updatedAt": "2026-07-15T13:39:02.263Z",
+        "score": 1586,
+        "sourceCount": 9,
+        "isBreaking": false,
+        "isPinned": false
+      },
       {
         "id": "usa-maine",
         "name": "Maine",
@@ -34,22 +47,9 @@
         "title": "An ICE Shooting in Maine Puts Pressure on Senator Susan Collins",
         "url": "https://atlas.lootura.com/us/place/maine",
         "path": "/us/place/maine",
-        "updatedAt": "2026-07-15T10:00:29.427Z",
-        "score": 1588,
-        "sourceCount": 63,
-        "isBreaking": false,
-        "isPinned": false
-      },
-      {
-        "id": "usa-supreme-court",
-        "name": "Supreme Court",
-        "type": "organization",
-        "title": "Funding milestone detected",
-        "url": "https://atlas.lootura.com/us/organization/supreme-court",
-        "path": "/us/organization/supreme-court",
-        "updatedAt": "2026-07-15T10:00:29.427Z",
-        "score": 1552,
-        "sourceCount": 13,
+        "updatedAt": "2026-07-15T13:39:02.263Z",
+        "score": 1575,
+        "sourceCount": 65,
         "isBreaking": false,
         "isPinned": false
       },
@@ -57,12 +57,12 @@
         "id": "usa-democratic-party",
         "name": "Democratic Party",
         "type": "organization",
-        "title": "Maine Democrats grapple with who is best to take over Graham Platner’s movement",
+        "title": "An ICE Shooting in Maine Puts Pressure on Senator Susan Collins",
         "url": "https://atlas.lootura.com/us/organization/democratic-party",
         "path": "/us/organization/democratic-party",
-        "updatedAt": "2026-07-15T10:00:29.427Z",
-        "score": 1528,
-        "sourceCount": 56,
+        "updatedAt": "2026-07-15T13:39:02.263Z",
+        "score": 1571,
+        "sourceCount": 57,
         "isBreaking": false,
         "isPinned": false
       },
@@ -73,13 +73,13 @@
         "title": "Trump says he won't rule out sending ground troops to Iran",
         "url": "https://atlas.lootura.com/us/person/donald-trump",
         "path": "/us/person/donald-trump",
-        "updatedAt": "2026-07-15T10:00:29.427Z",
-        "score": 1528,
-        "sourceCount": 149,
+        "updatedAt": "2026-07-15T13:39:02.263Z",
+        "score": 1550,
+        "sourceCount": 151,
         "isBreaking": false,
         "isPinned": false
       }
     ],
-    "publicEntityCount": 35
+    "publicEntityCount": 39
   }
 }

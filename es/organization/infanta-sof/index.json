@@ -1,0 +1,29 @@
+{
+  "id": "es-infanta-sof",
+  "name": "Infanta Sof",
+  "type": "organization",
+  "locale": "es",
+  "canonicalPath": "/es/organization/infanta-sof",
+  "canonicalUrl": "https://atlas.lootura.com/es/organization/infanta-sof",
+  "markdownUrl": "https://atlas.lootura.com/es/organization/infanta-sof/index.md",
+  "jsonUrl": "https://atlas.lootura.com/es/organization/infanta-sof/index.json",
+  "description": "Sigue la actividad de Infanta Sof en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
+  "updatedAt": "2026-07-15T13:38:34.657Z",
+  "aliases": [],
+  "changes": [
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Infanta Sof first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-07-15"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Del dios Asclepio a una vasija recién descubierta: la Princesa Leonor y la Infanta Sofía visitan Empúries",
+      "url": "https://www.abc.es/cultura/dios-asclepio-vasija-recien-descubierta-princesa-leonor-20260715141836-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-15T12:30:07.000Z",
+      "sourceId": "lootura-es-abc"
+    }
+  ],
+  "evidenceCount": 1
+}

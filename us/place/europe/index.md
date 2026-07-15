@@ -3,10 +3,16 @@
 > Follow Europe, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-15T02:11:36.851Z
+- Updated: 2026-07-15T13:39:02.263Z
 - Canonical: https://atlas.lootura.com/us/place/europe
 
 ## Recent changes
+
+### Ultraviolet light uncovers the first known juveniles of a mysterious Jurassic fish family
+
+For more than 150 years, fossils of Jurassic fish scattered across Europe's museums were studied and drawn by generations of scientists. However, when a paleontologist decided to shine an ultraviolet light on them, a hidden world lit up.
+
+Date: 2026-07-15
 
 ### Report details ecological characterization of peatlands and coastal lagoons in EU
 
@@ -62,12 +68,6 @@ Plans specify tolls must not be compulsory, as US officials urge Iran to make pu
 
 Date: 2026-07-11
 
-### At Least 11 People Die in Southern Spain Wildfire
-
-The blaze in Andalusia prompted a major containment operation. Heat waves across Europe this summer have raised the risk of such fires, forecasters say.
-
-Date: 2026-07-10
-
 ## Sources
 
-No public source links.
+- [Ultraviolet light uncovers the first known juveniles of a mysterious Jurassic fish family](https://phys.org/news/2026-07-ultraviolet-uncovers-juveniles-mysterious-jurassic.html?utm_source=lootura.com) — 2026-07-15T13:00:01.000Z

@@ -8,9 +8,14 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/venezuela/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/venezuela/index.json",
   "description": "Sigue la actividad de Venezuela en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-15T10:00:08.251Z",
+  "updatedAt": "2026-07-15T13:38:34.657Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "Machado defiende su regreso a Venezuela como fuerza «estabilizadora» y «pacificadora»",
+      "summary": "La líder de la oposición y premio Nobel de la Paz, María Corina Machado , ha defendido este miércoles su regreso a Venezuela como una fuerza «estabilizadora» y «pacificadora», insistiendo en que solo una transición democrática llevará la estabilidad al país tras la caída de Nicolás Maduro. «Ese es mi propósito ahora qu.",
+      "date": "2026-07-15"
+    },
     {
       "title": "El chavismo y parte de la oposición abrirán una vía de diálogo el 1 de agosto: María Corina Machado aún evalúa su participación",
       "summary": "El chavismo y un grupo de exdiputados opositores han abierto una vía de diálogo que comenzará el próximo 1 de agosto para promover la democracia en Venezuela, mientras los líderes opositores María Corina Machado y Edmundo González Urrutia comunicaron que evaluarán este miércoles su postura frente a este planteamiento,.",
@@ -55,19 +60,14 @@
       "title": "La selección: terremoto en Venezuela",
       "summary": "Un rescatista trabaja en el lugar donde se derrumbó un edificio tras los fuertes terremotos mientras continúan las operaciones de búsqueda, rescate y recuperación en La Guaira. ttanni/Shutterstock “Qué triste está la ciudad, perdida ya de su fe, pero destruida será el día de San Bernabé. Quien lo viviere lo verá”. Con.",
       "date": "2026-07-13"
-    },
-    {
-      "title": "La represión chavista, arma para una venganza por desamor",
-      "summary": "Los melancólicos de viejas dictaduras dicen que en tiempos pasados se vivía mejor. En Venezuela , quienes añoran el 'orden' que existía durante la época del general Marcos Pérez Jiménez aseguran que, mientras uno no se metiera en política, no había nada que temer a la represión. Una falacia que hoy sigue vigente en la.",
-      "date": "2026-07-13"
     }
   ],
   "sources": [
     {
-      "title": "El chavismo y parte de la oposición abrirán una vía de diálogo el 1 de agosto: María Corina Machado aún evalúa su participación",
-      "url": "https://www.larazon.es/internacional/chavismo-parte-oposicion-abriran-via-dialogo-1-agosto-maria-corina-machado-aun-evalua-participacion_202607156a57565a0500ab412c963bde.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-15T09:49:00.000Z",
-      "sourceId": "lootura-es-la-razon"
+      "title": "Machado defiende su regreso a Venezuela como fuerza «estabilizadora» y «pacificadora»",
+      "url": "https://theobjective.com/internacional/2026-07-15/machado-regreso-venezuela-estabilizadora-pacificadora/?utm_source=lootura.com",
+      "publishedAt": "2026-07-15T12:43:17.000Z",
+      "sourceId": "lootura-es-the-objective"
     }
   ],
   "evidenceCount": 1

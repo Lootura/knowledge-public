@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/espana/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/espana/index.json",
   "description": "Follow Spain, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-15T10:00:29.427Z",
+  "updatedAt": "2026-07-15T13:39:02.263Z",
   "aliases": [
     "Estado español",
     "Spain"
@@ -57,10 +57,10 @@
   ],
   "sources": [
     {
-      "title": "Spain defeats France 2-0 to reach FIFA World Cup final",
-      "url": "https://www.cbsnews.com/video/spain-defeats-france-2-0-to-reach-world-cup-final/?utm_source=lootura.com",
-      "publishedAt": "2026-07-15T00:16:27.000Z",
-      "sourceId": "lootura-us-cbs-news"
+      "title": "Spain sparkles to shock France 2-0 and advance to the World Cup final",
+      "url": "https://www.npr.org/2026/07/14/nx-s1-5893692/2026-world-cup-fifa-spain-france-semifinal?utm_source=lootura.com",
+      "publishedAt": "2026-07-14T20:59:10.000Z",
+      "sourceId": "lootura-us-npr"
     }
   ],
   "evidenceCount": 0

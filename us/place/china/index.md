@@ -3,7 +3,7 @@
 > Follow China, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-15T10:00:29.427Z
+- Updated: 2026-07-15T13:39:02.263Z
 - Canonical: https://atlas.lootura.com/us/place/china
 
 ## Recent changes
@@ -70,5 +70,5 @@ Date: 2026-07-13
 
 ## Sources
 
-- [China’s Chip Champion to Raise Billions in Race for A.I. Control](https://www.nytimes.com/2026/07/15/business/china-chips-cxmt-ipo.html?utm_source=lootura.com) — 2026-07-15T07:29:52.000Z
-- [China’s Economy Grows at Slowest Pace in Years](https://www.nytimes.com/2026/07/15/business/china-economy-gdp-growth.html?utm_source=lootura.com) — 2026-07-15T06:38:34.000Z
+- [AI avatars are reshaping society in China – the law is trying to catch up](https://www.nature.com/articles/d41586-026-01674-7?utm_source=lootura.com) — 2026-07-15T13:39:06.384Z
+- [China’s Economy Grows at Slowest Pace in Years](https://www.nytimes.com/2026/07/15/business/china-economy-gdp-growth.html?utm_source=lootura.com) — 2026-07-15T11:10:18.000Z

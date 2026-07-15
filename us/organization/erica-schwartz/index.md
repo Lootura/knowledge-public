@@ -3,14 +3,14 @@
 > Follow Erica Schwartz, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-07-15T10:00:29.427Z
+- Updated: 2026-07-15T13:39:02.263Z
 - Canonical: https://atlas.lootura.com/us/organization/erica-schwartz
 
 ## Recent changes
 
 ### CDC director nominee Erica Schwartz faces Senate for confirmation hearing
 
-Dr. Erica Schwartz, Trump's nominee for CDC director, faces the Senate health committee for her confirmation hearing on July 15. If confirmed, she will lead an agency dealing with workforce and leadership shortages, and new layers of political review. (Image credit: U.S. Department of Health and Human Services).
+Trump's nominee faces the Senate health committee for her confirmation hearing on July 15. If confirmed, she will lead an agency dealing with workforce and leadership shortages and new layers of political review. (Image credit: U.S. Department of Health and Human Services).
 
 Date: 2026-07-15
 

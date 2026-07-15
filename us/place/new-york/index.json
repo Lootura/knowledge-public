@@ -8,11 +8,21 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/new-york/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/new-york/index.json",
   "description": "Follow New York, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-15T10:00:29.427Z",
+  "updatedAt": "2026-07-15T13:39:02.263Z",
   "aliases": [
     "New York City"
   ],
   "changes": [
+    {
+      "title": "Watch Live: Jay Clayton, Trump",
+      "summary": "Clayton, currently the U.S. attorney for the Southern District of New York, is expected to succeed Bill Pulte, Trump.",
+      "date": "2026-07-15"
+    },
+    {
+      "title": "Battle against data centers grows nationwide amid concerns over electricity, water usage",
+      "summary": "There's growing backlash nationwide against AI data centers and now New York is hitting pause. Gov. Kathy Hochul signed an executive order to delay the building boom. Kelly O'Grady has more.",
+      "date": "2026-07-15"
+    },
     {
       "title": "Gov. Hochul orders a pause on data centers in New York for up to a year",
       "summary": "Gov. Kathy Hochul signed an order pausing construction of large data centers — the first statewide pause in the country.",
@@ -52,30 +62,20 @@
       "title": "Researchers define new frontier in quantum materials",
       "summary": "Researchers at City College of New York physicist Vinod M. Menon's Laboratory for Nano and Micro Photonics (LaNMP) have outlined an emerging frontier in quantum materials: atomically thin systems in which light, magnetism and electric charge are strongly intertwined. This rapidly evolving field could enable next-genera.",
       "date": "2026-07-14"
-    },
-    {
-      "title": "New York becomes the first state to enact a data center moratorium",
-      "summary": "New hyperscale data centers can't set up shop in New York for up to a year now that Governor Kathy Hochul (D) has signed the nation's first statewide moratorium. But a bill passed by the state legislature that could restrict even more developments still awaits her signature. The order blocks new environmental permits f.",
-      "date": "2026-07-14"
-    },
-    {
-      "title": "Civics Groups Are at Odds With Mamdani Over Push for Open Primaries",
-      "summary": "If a new effort to persuade voters to change New York City’s closed primary system gains steam, a potential showdown between its backers and the mayor awaits.",
-      "date": "2026-07-13"
     }
   ],
   "sources": [
     {
-      "title": "Gov. Hochul orders a pause on data centers in New York for up to a year",
-      "url": "https://www.npr.org/2026/07/14/nx-s1-5893396/gov-hochul-orders-a-pause-on-data-centers-in-new-york-for-up-to-a-year?utm_source=lootura.com",
-      "publishedAt": "2026-07-14T20:24:20.000Z",
-      "sourceId": "lootura-us-npr-politics"
+      "title": "Watch Live: Jay Clayton, Trump",
+      "url": "https://www.cbsnews.com/news/jay-clayton-trumps-dni-nominee-senate-confirmation-hearing/?utm_source=lootura.com",
+      "publishedAt": "2026-07-15T13:38:23.000Z",
+      "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "News Wrap: Fed Chair Warsh pledges inflation will be 'thing of the past'",
-      "url": "https://www.pbs.org/newshour/show/news-wrap-fed-chair-warsh-pledges-inflation-will-be-thing-of-the-past?utm_source=lootura.com",
-      "publishedAt": "2026-07-14T22:45:35.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
+      "title": "Battle against data centers grows nationwide amid concerns over electricity, water usage",
+      "url": "https://www.cbsnews.com/video/battle-against-data-centers-grows-nationwide/?utm_source=lootura.com",
+      "publishedAt": "2026-07-15T13:28:19.000Z",
+      "sourceId": "lootura-us-cbs-news"
     }
   ],
   "evidenceCount": 2

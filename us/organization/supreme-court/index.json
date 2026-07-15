@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/supreme-court/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/supreme-court/index.json",
   "description": "Follow Supreme Court, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-15T10:00:29.427Z",
+  "updatedAt": "2026-07-15T13:39:02.263Z",
   "aliases": [
     "U.S. Supreme Court"
   ],
@@ -25,12 +25,12 @@
     },
     {
       "title": "Funding milestone detected",
-      "summary": "Justices Elena Kagan and Amy Coney Barrett testified before Congress as the nation's highest court looks to increase security funding in the wake of threats. It's the first time Supreme Court justices have appeared before Congress since 2019. Congressional correspondent Lisa Desjardins reports.",
+      "summary": "Justices Elena Kagan and Amy Coney Barrett met with lawmakers on Tuesday for a regular budget hearing.",
       "date": "2026-07-14"
     },
     {
       "title": "Funding milestone detected",
-      "summary": "Justices Elena Kagan and Amy Coney Barrett met with lawmakers on Tuesday for a regular budget hearing.",
+      "summary": "Justices Elena Kagan and Amy Coney Barrett testified before Congress as the nation's highest court looks to increase security funding in the wake of threats. It's the first time Supreme Court justices have appeared before Congress since 2019. Congressional correspondent Lisa Desjardins reports.",
       "date": "2026-07-14"
     },
     {
@@ -78,17 +78,11 @@
       "sourceId": "lootura-us-npr"
     },
     {
-      "title": "Supreme Court justices make case for more security funding",
-      "url": "https://www.pbs.org/newshour/show/supreme-court-justices-make-case-for-more-security-funding?utm_source=lootura.com",
-      "publishedAt": "2026-07-14T22:35:41.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
-    },
-    {
       "title": "Takeaways From Justices Kagan and Barrett’s Congressional Testimony on Supreme Court Security",
       "url": "https://www.nytimes.com/2026/07/14/us/politics/supreme-court-congress-takeaways.html?utm_source=lootura.com",
       "publishedAt": "2026-07-14T18:41:03.000Z",
       "sourceId": "lootura-us-the-new-york-times"
     }
   ],
-  "evidenceCount": 4
+  "evidenceCount": 3
 }

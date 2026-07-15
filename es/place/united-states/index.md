@@ -3,7 +3,7 @@
 > Sigue la actividad de Estados Unidos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-15T10:00:08.251Z
+- Actualizado: 2026-07-15T13:38:34.657Z
 - Canonical: https://atlas.lootura.com/es/place/united-states
 
 ## Cambios recientes
@@ -17,6 +17,12 @@ Date: 2026-07-15
 ### EE.UU. quiere acabar con la noche: aprobados los satélites que convierten la noche en día reflejando la luz del sol
 
 La FCC de Estados Unidos acaba de aprobar el lanzamiento de nuevos satélites a nuestro cielo. Concretamente, los de Reflect Orbital , una compañía que cree en la posibilidad de iluminar la noche desde el espacio con diferentes objetivos . Las críticas no han tardado en llegar, aunque la comisión no las ha tenido en cue.
+
+Date: 2026-07-15
+
+### Bank of America enfría su visión sobre BBVA y Unicaja a las puertas de los resultados
+
+Bancos centrales, tensiones energéticas, dudas sobre el sector tecnológico, indicadores macroeconómicos... La lista de asuntos que vigilan los inversores no deja de crecer. A partir de la próxima semana se añadirá uno más: la temporada de resultados. Mientras los mercados intentan descifrar las intenciones del presiden.
 
 Date: 2026-07-15
 
@@ -62,14 +68,8 @@ A punto de cumplirse un mes desde la firma del memorándum de entendimiento que 
 
 Date: 2026-07-14
 
-### Aurora Catà se incorpora a Heidrick & Struggles como socia en España
-
-Con más de treinta años de experiencia en liderazgo ejecutivo, inició su carrera en el sector financiero antes de asumir responsabilidades ejecutivas en compañías como Bank of America, Nissan Motor Ibérica, RTVE Cataluña, Grupo Planeta y Recoletos Grupo de Comunicación.
-
-Date: 2026-07-14
-
 ## Fuentes
 
-- [El análisis de Iñaki Angulo: "La victoria de España sobre Francia ha sido un meneo, hombres jugando contra niños"](https://www.20minutos.es/deportes/futbol/analisis-inaki-angulo-victoria-espana-sobre-francia-ha-sido-un-meneo-hombres-jugando-contra-ninos_7014833_0.html?utm_source=lootura.com) — 2026-07-15T09:40:47.000Z
-- [Bank of America retira su consejo de compra sobre BBVA por Turquía](https://www.expansion.com/mercados/2026/07/15/6a57533be5fdeab7658b4592.html?utm_source=lootura.com) — 2026-07-15T09:59:18.000Z
+- [Bank of America enfría su visión sobre BBVA y Unicaja a las puertas de los resultados](https://cincodias.elpais.com/mercados-financieros/2026-07-15/bank-of-america-enfria-su-vision-sobre-bbva-y-unicaja-a-las-puertas-de-los-resultados.html?utm_source=lootura.com) — 2026-07-15T12:07:36.000Z
+- [Bank of America retira su consejo de compra sobre BBVA por Turquía](https://www.expansion.com/mercados/2026/07/15/6a57533be5fdeab7658b4592.html?utm_source=lootura.com) — 2026-07-15T10:10:30.000Z
 - [EE.UU. quiere acabar con la noche: aprobados los satélites que convierten la noche en día reflejando la luz del sol](https://hipertextual.com/actualidad/ee-uu-quiere-acabar-con-la-noche-aprobados-los-satelites-que-convierten-la-noche-en-dia-reflejando-la-luz-del-sol/?utm_source=lootura.com) — 2026-07-15T09:41:59.000Z

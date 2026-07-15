@@ -3,7 +3,7 @@
 > Follow United States, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-15T10:00:29.427Z
+- Updated: 2026-07-15T13:39:02.263Z
 - Canonical: https://atlas.lootura.com/us/place/united-states
 
 ## Recent changes
@@ -34,13 +34,7 @@ Date: 2026-07-15
 
 ### CDC director nominee Erica Schwartz faces Senate for confirmation hearing
 
-Dr. Erica Schwartz, Trump's nominee for CDC director, faces the Senate health committee for her confirmation hearing on July 15. If confirmed, she will lead an agency dealing with workforce and leadership shortages, and new layers of political review. (Image credit: U.S. Department of Health and Human Services).
-
-Date: 2026-07-15
-
-### Wildfires expose millions in the Midwest and Northeast US to dangerous smoke
-
-Heavy smoke from several large wildfires blazing in Canada and Minnesota is expected to engulf large swaths of the Midwest and Northeast U.S. this week, exposing millions of people to dangerous air pollution.
+Trump's nominee faces the Senate health committee for her confirmation hearing on July 15. If confirmed, she will lead an agency dealing with workforce and leadership shortages and new layers of political review. (Image credit: U.S. Department of Health and Human Services).
 
 Date: 2026-07-15
 
@@ -56,27 +50,33 @@ The parasite, which has sickened thousands across the U.S., is notoriously diffi
 
 Date: 2026-07-15
 
-### Jay Clayton Expected to Face Tough Questions in Confirmation Hearing
+### How to protect yourself from the diarrhea-causing parasite as cyclosporiasis cases rise
 
-His nomination to lead the U.S. intelligence community comes as the White House pushes to use declassified intelligence to show concerns about election security.
+Federal and state health officials are looking for the source of a cyclosporiasis outbreak as cases rise in the U.S. Carter Evans has more information on the spread of the cyclospora parasite.
 
 Date: 2026-07-15
 
-### Some international artists are skipping U.S. tours. Others may follow suit
+### Watch Live: Jay Clayton, Trump
 
-The visa process for visiting artists has always been complicated and expensive. Under the current administration, it's gotten significantly worse.
+Clayton, currently the U.S. attorney for the Southern District of New York, is expected to succeed Bill Pulte, Trump.
 
-Date: 2026-07-14
+Date: 2026-07-15
+
+### Wildfires expose millions in Midwest, Northeast to dangerous smoke
+
+Heavy smoke from several large wildfires blazing in Canada and Minnesota is expected to engulf large swaths of the Midwest and Northeast U.S. this week.
+
+Date: 2026-07-15
 
 ## Sources
 
+- [How to protect yourself from the diarrhea-causing parasite as cyclosporiasis cases rise](https://www.cbsnews.com/video/how-to-protect-yourself-from-diarrhea-causing-parasite-cyclosporiasis-as-cases-rise/?utm_source=lootura.com) — 2026-07-15T13:23:40.000Z
 - [The Uplift: The American Dream](https://www.cbsnews.com/video/the-uplift-the-american-dream/?utm_source=lootura.com) — 2026-07-27T10:30:00.000Z
+- [Watch Live: Jay Clayton, Trump](https://www.cbsnews.com/news/jay-clayton-trumps-dni-nominee-senate-confirmation-hearing/?utm_source=lootura.com) — 2026-07-15T13:38:23.000Z
 - [After ICE fatally shot multiple people, officials speak out: "We want them out"](https://www.cbsnews.com/video/after-ice-fatally-shot-multiple-people-officials-speak-out/?utm_source=lootura.com) — 2026-07-15T02:35:00.000Z
+- [Wildfires expose millions in Midwest, Northeast to dangerous smoke](https://www.cbsnews.com/news/wildfires-smoke-millions-exposed-midwest-northeast-us/?utm_source=lootura.com) — 2026-07-15T13:23:51.000Z
 - [Trump says he won't rule out sending ground troops to Iran](https://www.cbsnews.com/video/trump-says-he-wont-rule-out-sending-ground-troops-to-iran/?utm_source=lootura.com) — 2026-07-15T00:48:43.000Z
+- [US Resumes Hormuz Blockade as Trump Threatens More Strikes](https://www.today.com/video/us-resumes-hormuz-blockade-as-trump-threatens-more-strikes-266707013862?utm_source=lootura.com) — 2026-07-15T11:21:18.000Z
 - [Some international artists are skipping U.S. tours. Others may follow suit](https://www.npr.org/2026/07/14/nx-s1-5783845/visa-process-artists-us?utm_source=lootura.com) — 2026-07-14T14:46:11.000Z
 - [Morning news brief](https://www.npr.org/2026/07/15/nx-s1-5891559/morning-news-brief?utm_source=lootura.com) — 2026-07-15T08:50:19.000Z
 - [CDC director nominee Erica Schwartz faces Senate for confirmation hearing](https://www.npr.org/2026/07/15/nx-s1-5892482/cdc-director-erica-schwartz-senate-confirmation-hearing?utm_source=lootura.com) — 2026-07-15T09:00:00.000Z
-- [In the aftermath of deadly shootings, ICE pauses most traffic stops](https://www.npr.org/2026/07/14/nx-s1-5893456/ice-vehicle-biddeford-houston?utm_source=lootura.com) — 2026-07-14T19:54:53.000Z
-- [Wildfires expose millions in the Midwest and Northeast US to dangerous smoke](https://phys.org/news/2026-07-wildfires-expose-millions-midwest-northeast.html?utm_source=lootura.com) — 2026-07-15T08:40:21.000Z
-- [Trump Flip-Flops on Strait of Hormuz, Creating New Risks for Global Economy](https://www.nytimes.com/2026/07/14/business/trump-strait-of-hormuz.html?utm_source=lootura.com) — 2026-07-14T18:50:34.000Z
-- [For Israel, the U.S.-Iran Hostilities Have Created an Uneasy Limbo](https://www.nytimes.com/2026/07/15/world/middleeast/for-israel-the-us-iran-hostilities-have-created-an-uneasy-limbo.html?utm_source=lootura.com) — 2026-07-15T09:03:46.000Z

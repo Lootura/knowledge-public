@@ -70,5 +70,4 @@ Date: 2026-07-13
 
 ## Fuentes
 
-- [Mariano Rajoy evita disculparse por sus palabras sobre la selección francesa en una nueva columna: “Ellos no piden perdón por nada”](https://elpais.com/deportes/mundial-futbol/2026-07-14/mariano-rajoy-evita-disculparse-por-sus-palabras-sobre-la-seleccion-francesa-en-una-nueva-columna-ellos-no-piden-perdon-por-nada.html?utm_source=lootura.com) — 2026-07-14T22:27:00.000Z
-- [Rajoy acusa al Gobierno de usar sus palabras sobre la selección francesa para «distraer»](https://theobjective.com/espana/politica/2026-07-15/rajoy-gobierno-seleccion-francesa/?utm_source=lootura.com) — 2026-07-15T08:55:21.000Z
+No public source links.

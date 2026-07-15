@@ -8,19 +8,19 @@
   "markdownUrl": "https://atlas.lootura.com/es/company/apple/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/company/apple/index.json",
   "description": "Sigue la actividad de Apple en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-15T10:00:08.251Z",
+  "updatedAt": "2026-07-15T13:38:34.657Z",
   "aliases": [
     "Apple Inc"
   ],
   "changes": [
     {
-      "title": "LEGO y Apple podrían colaborar para lanzar uno de los sets más bonitos de la historia",
-      "summary": "Si te gusta LEGO y la tecnología, a partir de hoy tienes un nuevo set favorito. La compañía de los bloques acaba de anunciar que uno de los sets publicados en su web de ideas ha pasado a la siguiente fase. Y, como bien puedes leer en el título, se trata de un set donde el protagonista es un producto de Apple . No un iP.",
+      "title": "Anya Taylor Joy (‘Lucky’): «Me frustraba ver a hombres moralmente ambiguos y no a mujeres»",
+      "summary": "La actriz Anya Taylor-Joy acaba de estrenar su nuevo gran proyecto, la serie Lucky . La argentina protagoniza un thriller con mucho drama y acción que puede verse en Apple TV . En ella, además, la intérprete es también productora. Y como guinda del pastel, comparte reparto con rostros de la talla de Timothy Olyphant ,.",
       "date": "2026-07-15"
     },
     {
-      "title": "Anya Taylor Joy (‘Lucky’): «Me frustraba ver a hombres moralmente ambiguos y no a mujeres»",
-      "summary": "La actriz Anya Taylor-Joy acaba de estrenar su nuevo gran proyecto, la serie Lucky . La argentina protagoniza un thriller con mucho drama y acción que puede verse en Apple TV . En ella, además, la intérprete es también productora. Y como guinda del pastel, comparte reparto con rostros de la talla de Timothy Olyphant ,.",
+      "title": "LEGO y Apple podrían colaborar para lanzar uno de los sets más bonitos de la historia",
+      "summary": "Si te gusta LEGO y la tecnología, a partir de hoy tienes un nuevo set favorito. La compañía de los bloques acaba de anunciar que uno de los sets publicados en su web de ideas ha pasado a la siguiente fase. Y, como bien puedes leer en el título, se trata de un set donde el protagonista es un producto de Apple . No un iP.",
       "date": "2026-07-15"
     },
     {
@@ -66,17 +66,11 @@
   ],
   "sources": [
     {
-      "title": "LEGO y Apple podrían colaborar para lanzar uno de los sets más bonitos de la historia",
-      "url": "https://hipertextual.com/apple/lego-y-apple-podrian-colaborar-para-lanzar-uno-de-los-sets-mas-bonitos-de-la-historia/?utm_source=lootura.com",
-      "publishedAt": "2026-07-15T08:12:19.000Z",
-      "sourceId": "lootura-es-hipertextual"
-    },
-    {
       "title": "Anya Taylor Joy (‘Lucky’): «Me frustraba ver a hombres moralmente ambiguos y no a mujeres»",
       "url": "https://hipertextual.com/cine-television/anya-taylor-joy-lucky-me-frustraba-ver-a-hombres-moralmente-ambiguos-y-no-a-mujeres/?utm_source=lootura.com",
       "publishedAt": "2026-07-15T10:00:00.000Z",
       "sourceId": "lootura-es-hipertextual"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

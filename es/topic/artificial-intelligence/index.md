@@ -3,7 +3,7 @@
 > Sigue la actividad de Artificial intelligence en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: topic
-- Actualizado: 2026-07-15T10:00:08.251Z
+- Actualizado: 2026-07-15T13:38:34.657Z
 - Canonical: https://atlas.lootura.com/es/topic/artificial-intelligence
 
 ## Cambios recientes
@@ -34,4 +34,4 @@ Date: 2026-07-10
 
 ## Fuentes
 
-- [ASML supera las previsiones en el segundo trimestre gracias al impulso de la IA](https://cincodias.elpais.com/companias/2026-07-15/asml-supera-las-previsiones-en-el-segundo-trimestre-gracias-al-impulso-de-la-ia.html?utm_source=lootura.com) — 2026-07-15T05:24:17.000Z
+- [Por 150 euros menos puedes tener esta tablet de Samsung de alta gama con 5G y mucho almacenamiento](https://www.larazon.es/compras/nuestra-eleccion/150-euros-menos-puedes-tener-esta-tablet-samsung-alta-gama-mucho-almacenamiento_202607156a56096c772f745d2c481787.html?utm_source=lootura.com) — 2026-07-15T13:30:21.000Z

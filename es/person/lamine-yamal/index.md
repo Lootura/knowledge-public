@@ -58,4 +58,4 @@ Date: 2026-07-08
 
 ## Fuentes
 
-- [El inalterable Oyarzabal, la euforia de Porro y un seleccionador emocionado: "Es un orgullo dirigir a este grupo, sólo los elegidos van a la final"](https://amp.elmundo.es/deportes/futbol/mundial-de-futbol/2026/07/14/6a567086e85ece28388b4572.html?utm_source=lootura.com) — 2026-07-14T21:33:05.000Z
+No public source links.

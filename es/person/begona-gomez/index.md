@@ -3,10 +3,22 @@
 > Sigue la actividad de Begoña Gómez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-15T02:11:09.495Z
+- Actualizado: 2026-07-15T13:38:34.657Z
 - Canonical: https://atlas.lootura.com/es/person/begona-gomez
 
 ## Cambios recientes
+
+### Begoña Gómez entrega al juez Peinado los billetes de su viaje a Londres para la graduación de su hija
+
+ha entregado al juzgado los billetes de avión de su viaje a Londres de la pasada semana y ha presentado un recurso contra la iniciativa del magistrado Juan Carlos Peinado de reclamarle que “acredite” que solo usó el pasaporte para acudir a Reino Unido a la graduación de su hija. En su escrito de alegacione.
+
+Date: 2026-07-15
+
+### Begoña Gómez entrega los billetes de avión y reprocha a Peinado que le exija unos sellos de pasaporte que Reino Unido no estampa
+
+La defensa de la mujer del presidente advierte al juez de que le está exigiendo una “prueba diabólica”, que no existe, y critica que sea la investigada quien deba demostrar el viaje y no al revés, así que insta a Peinado a que se diriga a Reino Unido, único actor que puede acreditar la estancia El juez Peinado exige a.
+
+Date: 2026-07-15
 
 ### David Sánchez, el hijo de Magdalena y Pedro
 
@@ -56,18 +68,7 @@ A la Fiscalía de Madrid se le empiezan a acabar los calificativos para referirs
 
 Date: 2026-07-09
 
-### Barrabés, empresario investigado en el ‘caso Begoña Gómez’: “No soy una víctima, soy un elemento necesario para los objetivos del proceso”
-
-Juan Carlos Barrabés se define a sí mismo así: “Un tío de Benasque (Huesca) que casi no he estudiado y he hecho un montón de cosas”. El empresario, de 56 años, creó a mediados de los noventa su primera tienda online de ropa de montaña con su apellido. En el año 2000 gestó Barrabés Internet, una empresa que ofrecía form.
-
-Date: 2026-07-09
-
-### La Fiscalía pide absolver a Begoña Gómez y sostiene que no ve delito
-
-La Fiscalía Provincial de Madrid ha solicitado la absolución de Begoña Gómez , esposa del presidente del Gobierno; de su exasesora Cristina Álvarez y del empresario Juan Carlos Barrabés en la causa que investiga la creación y financiación de la Cátedra Extraordinaria de Transformación Social Competitiva de la Universid.
-
-Date: 2026-07-09
-
 ## Fuentes
 
-No public source links.
+- [Begoña Gómez entrega al juez Peinado los billetes de su viaje a Londres para la graduación de su hija](https://elpais.com/espana/2026-07-15/begona-gomez-entrega-al-juez-peinado-los-billetes-de-su-viaje-a-londres.html?utm_source=lootura.com) — 2026-07-15T13:31:17.000Z
+- [Begoña Gómez entrega los billetes de avión y reprocha a Peinado que le exija unos sellos de pasaporte que Reino Unido no estampa](https://www.eldiario.es/politica/begona-gomez-entrega-billetes-avion-reprocha-peinado-le-exija-sellos-pasaporte-reino-unido-no-estampa_1_13382518.html?utm_source=lootura.com) — 2026-07-15T13:09:31.000Z

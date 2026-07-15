@@ -3,10 +3,22 @@
 > Follow New York, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-15T10:00:29.427Z
+- Updated: 2026-07-15T13:39:02.263Z
 - Canonical: https://atlas.lootura.com/us/place/new-york
 
 ## Recent changes
+
+### Watch Live: Jay Clayton, Trump
+
+Clayton, currently the U.S. attorney for the Southern District of New York, is expected to succeed Bill Pulte, Trump.
+
+Date: 2026-07-15
+
+### Battle against data centers grows nationwide amid concerns over electricity, water usage
+
+There's growing backlash nationwide against AI data centers and now New York is hitting pause. Gov. Kathy Hochul signed an executive order to delay the building boom. Kelly O'Grady has more.
+
+Date: 2026-07-15
 
 ### Gov. Hochul orders a pause on data centers in New York for up to a year
 
@@ -56,19 +68,7 @@ Researchers at City College of New York physicist Vinod M. Menon's Laboratory fo
 
 Date: 2026-07-14
 
-### New York becomes the first state to enact a data center moratorium
-
-New hyperscale data centers can't set up shop in New York for up to a year now that Governor Kathy Hochul (D) has signed the nation's first statewide moratorium. But a bill passed by the state legislature that could restrict even more developments still awaits her signature. The order blocks new environmental permits f.
-
-Date: 2026-07-14
-
-### Civics Groups Are at Odds With Mamdani Over Push for Open Primaries
-
-If a new effort to persuade voters to change New York City’s closed primary system gains steam, a potential showdown between its backers and the mayor awaits.
-
-Date: 2026-07-13
-
 ## Sources
 
-- [Gov. Hochul orders a pause on data centers in New York for up to a year](https://www.npr.org/2026/07/14/nx-s1-5893396/gov-hochul-orders-a-pause-on-data-centers-in-new-york-for-up-to-a-year?utm_source=lootura.com) — 2026-07-14T20:24:20.000Z
-- [News Wrap: Fed Chair Warsh pledges inflation will be 'thing of the past'](https://www.pbs.org/newshour/show/news-wrap-fed-chair-warsh-pledges-inflation-will-be-thing-of-the-past?utm_source=lootura.com) — 2026-07-14T22:45:35.000Z
+- [Watch Live: Jay Clayton, Trump](https://www.cbsnews.com/news/jay-clayton-trumps-dni-nominee-senate-confirmation-hearing/?utm_source=lootura.com) — 2026-07-15T13:38:23.000Z
+- [Battle against data centers grows nationwide amid concerns over electricity, water usage](https://www.cbsnews.com/video/battle-against-data-centers-grows-nationwide/?utm_source=lootura.com) — 2026-07-15T13:28:19.000Z

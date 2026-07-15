@@ -3,10 +3,16 @@
 > Sigue la actividad de Venezuela en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-15T10:00:08.251Z
+- Actualizado: 2026-07-15T13:38:34.657Z
 - Canonical: https://atlas.lootura.com/es/place/venezuela
 
 ## Cambios recientes
+
+### Machado defiende su regreso a Venezuela como fuerza «estabilizadora» y «pacificadora»
+
+La líder de la oposición y premio Nobel de la Paz, María Corina Machado , ha defendido este miércoles su regreso a Venezuela como una fuerza «estabilizadora» y «pacificadora», insistiendo en que solo una transición democrática llevará la estabilidad al país tras la caída de Nicolás Maduro. «Ese es mi propósito ahora qu.
+
+Date: 2026-07-15
 
 ### El chavismo y parte de la oposición abrirán una vía de diálogo el 1 de agosto: María Corina Machado aún evalúa su participación
 
@@ -62,12 +68,6 @@ Un rescatista trabaja en el lugar donde se derrumbó un edificio tras los fuerte
 
 Date: 2026-07-13
 
-### La represión chavista, arma para una venganza por desamor
-
-Los melancólicos de viejas dictaduras dicen que en tiempos pasados se vivía mejor. En Venezuela , quienes añoran el 'orden' que existía durante la época del general Marcos Pérez Jiménez aseguran que, mientras uno no se metiera en política, no había nada que temer a la represión. Una falacia que hoy sigue vigente en la.
-
-Date: 2026-07-13
-
 ## Fuentes
 
-- [El chavismo y parte de la oposición abrirán una vía de diálogo el 1 de agosto: María Corina Machado aún evalúa su participación](https://www.larazon.es/internacional/chavismo-parte-oposicion-abriran-via-dialogo-1-agosto-maria-corina-machado-aun-evalua-participacion_202607156a57565a0500ab412c963bde.html?utm_source=lootura.com) — 2026-07-15T09:49:00.000Z
+- [Machado defiende su regreso a Venezuela como fuerza «estabilizadora» y «pacificadora»](https://theobjective.com/internacional/2026-07-15/machado-regreso-venezuela-estabilizadora-pacificadora/?utm_source=lootura.com) — 2026-07-15T12:43:17.000Z

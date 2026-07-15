@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/united-states/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/united-states/index.json",
   "description": "Follow United States, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-15T10:00:29.427Z",
+  "updatedAt": "2026-07-15T13:39:02.263Z",
   "aliases": [
     "America",
     "Estados Unidos",
@@ -37,12 +37,7 @@
     },
     {
       "title": "CDC director nominee Erica Schwartz faces Senate for confirmation hearing",
-      "summary": "Dr. Erica Schwartz, Trump's nominee for CDC director, faces the Senate health committee for her confirmation hearing on July 15. If confirmed, she will lead an agency dealing with workforce and leadership shortages, and new layers of political review. (Image credit: U.S. Department of Health and Human Services).",
-      "date": "2026-07-15"
-    },
-    {
-      "title": "Wildfires expose millions in the Midwest and Northeast US to dangerous smoke",
-      "summary": "Heavy smoke from several large wildfires blazing in Canada and Minnesota is expected to engulf large swaths of the Midwest and Northeast U.S. this week, exposing millions of people to dangerous air pollution.",
+      "summary": "Trump's nominee faces the Senate health committee for her confirmation hearing on July 15. If confirmed, she will lead an agency dealing with workforce and leadership shortages and new layers of political review. (Image credit: U.S. Department of Health and Human Services).",
       "date": "2026-07-15"
     },
     {
@@ -56,21 +51,38 @@
       "date": "2026-07-15"
     },
     {
-      "title": "Jay Clayton Expected to Face Tough Questions in Confirmation Hearing",
-      "summary": "His nomination to lead the U.S. intelligence community comes as the White House pushes to use declassified intelligence to show concerns about election security.",
+      "title": "How to protect yourself from the diarrhea-causing parasite as cyclosporiasis cases rise",
+      "summary": "Federal and state health officials are looking for the source of a cyclosporiasis outbreak as cases rise in the U.S. Carter Evans has more information on the spread of the cyclospora parasite.",
       "date": "2026-07-15"
     },
     {
-      "title": "Some international artists are skipping U.S. tours. Others may follow suit",
-      "summary": "The visa process for visiting artists has always been complicated and expensive. Under the current administration, it's gotten significantly worse.",
-      "date": "2026-07-14"
+      "title": "Watch Live: Jay Clayton, Trump",
+      "summary": "Clayton, currently the U.S. attorney for the Southern District of New York, is expected to succeed Bill Pulte, Trump.",
+      "date": "2026-07-15"
+    },
+    {
+      "title": "Wildfires expose millions in Midwest, Northeast to dangerous smoke",
+      "summary": "Heavy smoke from several large wildfires blazing in Canada and Minnesota is expected to engulf large swaths of the Midwest and Northeast U.S. this week.",
+      "date": "2026-07-15"
     }
   ],
   "sources": [
     {
+      "title": "How to protect yourself from the diarrhea-causing parasite as cyclosporiasis cases rise",
+      "url": "https://www.cbsnews.com/video/how-to-protect-yourself-from-diarrhea-causing-parasite-cyclosporiasis-as-cases-rise/?utm_source=lootura.com",
+      "publishedAt": "2026-07-15T13:23:40.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
+    {
       "title": "The Uplift: The American Dream",
       "url": "https://www.cbsnews.com/video/the-uplift-the-american-dream/?utm_source=lootura.com",
       "publishedAt": "2026-07-27T10:30:00.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
+    {
+      "title": "Watch Live: Jay Clayton, Trump",
+      "url": "https://www.cbsnews.com/news/jay-clayton-trumps-dni-nominee-senate-confirmation-hearing/?utm_source=lootura.com",
+      "publishedAt": "2026-07-15T13:38:23.000Z",
       "sourceId": "lootura-us-cbs-news"
     },
     {
@@ -80,10 +92,22 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
+      "title": "Wildfires expose millions in Midwest, Northeast to dangerous smoke",
+      "url": "https://www.cbsnews.com/news/wildfires-smoke-millions-exposed-midwest-northeast-us/?utm_source=lootura.com",
+      "publishedAt": "2026-07-15T13:23:51.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
+    {
       "title": "Trump says he won't rule out sending ground troops to Iran",
       "url": "https://www.cbsnews.com/video/trump-says-he-wont-rule-out-sending-ground-troops-to-iran/?utm_source=lootura.com",
       "publishedAt": "2026-07-15T00:48:43.000Z",
       "sourceId": "lootura-us-cbs-news"
+    },
+    {
+      "title": "US Resumes Hormuz Blockade as Trump Threatens More Strikes",
+      "url": "https://www.today.com/video/us-resumes-hormuz-blockade-as-trump-threatens-more-strikes-266707013862?utm_source=lootura.com",
+      "publishedAt": "2026-07-15T11:21:18.000Z",
+      "sourceId": "lootura-us-nbc-news"
     },
     {
       "title": "Some international artists are skipping U.S. tours. Others may follow suit",
@@ -102,31 +126,7 @@
       "url": "https://www.npr.org/2026/07/15/nx-s1-5892482/cdc-director-erica-schwartz-senate-confirmation-hearing?utm_source=lootura.com",
       "publishedAt": "2026-07-15T09:00:00.000Z",
       "sourceId": "lootura-us-npr-politics"
-    },
-    {
-      "title": "In the aftermath of deadly shootings, ICE pauses most traffic stops",
-      "url": "https://www.npr.org/2026/07/14/nx-s1-5893456/ice-vehicle-biddeford-houston?utm_source=lootura.com",
-      "publishedAt": "2026-07-14T19:54:53.000Z",
-      "sourceId": "lootura-us-npr-politics"
-    },
-    {
-      "title": "Wildfires expose millions in the Midwest and Northeast US to dangerous smoke",
-      "url": "https://phys.org/news/2026-07-wildfires-expose-millions-midwest-northeast.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-15T08:40:21.000Z",
-      "sourceId": "lootura-us-phys-org"
-    },
-    {
-      "title": "Trump Flip-Flops on Strait of Hormuz, Creating New Risks for Global Economy",
-      "url": "https://www.nytimes.com/2026/07/14/business/trump-strait-of-hormuz.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-14T18:50:34.000Z",
-      "sourceId": "lootura-us-the-new-york-times"
-    },
-    {
-      "title": "For Israel, the U.S.-Iran Hostilities Have Created an Uneasy Limbo",
-      "url": "https://www.nytimes.com/2026/07/15/world/middleeast/for-israel-the-us-iran-hostilities-have-created-an-uneasy-limbo.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-15T09:03:46.000Z",
-      "sourceId": "lootura-us-the-new-york-times"
     }
   ],
-  "evidenceCount": 12
+  "evidenceCount": 18
 }

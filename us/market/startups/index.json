@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/market/startups/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/market/startups/index.json",
   "description": "Follow Startups, a tracked market, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-15T10:00:29.427Z",
+  "updatedAt": "2026-07-15T13:39:02.263Z",
   "aliases": [
     "startup funding"
   ],
@@ -35,13 +35,7 @@
       "url": "https://www.npr.org/2026/07/14/nx-s1-5893664/supreme-court-justices-kagan-barrett-give-chilling-accounts-of-threats-to-their-safety?utm_source=lootura.com",
       "publishedAt": "2026-07-15T03:19:25.000Z",
       "sourceId": "lootura-us-npr"
-    },
-    {
-      "title": "American AI is expensive. Some startups are turning to cheap Chinese models",
-      "url": "https://www.npr.org/2026/07/15/nx-s1-5886476/startups-cheap-chinese-ai-models?utm_source=lootura.com",
-      "publishedAt": "2026-07-15T09:00:00.000Z",
-      "sourceId": "lootura-us-npr-world"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 0
 }

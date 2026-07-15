@@ -3,20 +3,20 @@
 > Sigue la actividad de Apple en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: company
-- Actualizado: 2026-07-15T10:00:08.251Z
+- Actualizado: 2026-07-15T13:38:34.657Z
 - Canonical: https://atlas.lootura.com/es/company/apple
 
 ## Cambios recientes
 
-### LEGO y Apple podrían colaborar para lanzar uno de los sets más bonitos de la historia
-
-Si te gusta LEGO y la tecnología, a partir de hoy tienes un nuevo set favorito. La compañía de los bloques acaba de anunciar que uno de los sets publicados en su web de ideas ha pasado a la siguiente fase. Y, como bien puedes leer en el título, se trata de un set donde el protagonista es un producto de Apple . No un iP.
-
-Date: 2026-07-15
-
 ### Anya Taylor Joy (‘Lucky’): «Me frustraba ver a hombres moralmente ambiguos y no a mujeres»
 
 La actriz Anya Taylor-Joy acaba de estrenar su nuevo gran proyecto, la serie Lucky . La argentina protagoniza un thriller con mucho drama y acción que puede verse en Apple TV . En ella, además, la intérprete es también productora. Y como guinda del pastel, comparte reparto con rostros de la talla de Timothy Olyphant ,.
+
+Date: 2026-07-15
+
+### LEGO y Apple podrían colaborar para lanzar uno de los sets más bonitos de la historia
+
+Si te gusta LEGO y la tecnología, a partir de hoy tienes un nuevo set favorito. La compañía de los bloques acaba de anunciar que uno de los sets publicados en su web de ideas ha pasado a la siguiente fase. Y, como bien puedes leer en el título, se trata de un set donde el protagonista es un producto de Apple . No un iP.
 
 Date: 2026-07-15
 
@@ -70,5 +70,4 @@ Date: 2026-07-10
 
 ## Fuentes
 
-- [LEGO y Apple podrían colaborar para lanzar uno de los sets más bonitos de la historia](https://hipertextual.com/apple/lego-y-apple-podrian-colaborar-para-lanzar-uno-de-los-sets-mas-bonitos-de-la-historia/?utm_source=lootura.com) — 2026-07-15T08:12:19.000Z
 - [Anya Taylor Joy (‘Lucky’): «Me frustraba ver a hombres moralmente ambiguos y no a mujeres»](https://hipertextual.com/cine-television/anya-taylor-joy-lucky-me-frustraba-ver-a-hombres-moralmente-ambiguos-y-no-a-mujeres/?utm_source=lootura.com) — 2026-07-15T10:00:00.000Z

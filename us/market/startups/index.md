@@ -3,7 +3,7 @@
 > Follow Startups, a tracked market, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: market
-- Updated: 2026-07-15T10:00:29.427Z
+- Updated: 2026-07-15T13:39:02.263Z
 - Canonical: https://atlas.lootura.com/us/market/startups
 
 ## Recent changes
@@ -29,4 +29,3 @@ Date: 2026-07-10
 ## Sources
 
 - [Supreme Court Justices give chilling accounts of threats to their safety](https://www.npr.org/2026/07/14/nx-s1-5893664/supreme-court-justices-kagan-barrett-give-chilling-accounts-of-threats-to-their-safety?utm_source=lootura.com) — 2026-07-15T03:19:25.000Z
-- [American AI is expensive. Some startups are turning to cheap Chinese models](https://www.npr.org/2026/07/15/nx-s1-5886476/startups-cheap-chinese-ai-models?utm_source=lootura.com) — 2026-07-15T09:00:00.000Z

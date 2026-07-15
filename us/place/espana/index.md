@@ -3,7 +3,7 @@
 > Follow Spain, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-15T10:00:29.427Z
+- Updated: 2026-07-15T13:39:02.263Z
 - Canonical: https://atlas.lootura.com/us/place/espana
 
 ## Recent changes
@@ -58,4 +58,4 @@ Date: 2026-07-09
 
 ## Sources
 
-- [Spain defeats France 2-0 to reach FIFA World Cup final](https://www.cbsnews.com/video/spain-defeats-france-2-0-to-reach-world-cup-final/?utm_source=lootura.com) — 2026-07-15T00:16:27.000Z
+- [Spain sparkles to shock France 2-0 and advance to the World Cup final](https://www.npr.org/2026/07/14/nx-s1-5893692/2026-world-cup-fifa-spain-france-semifinal?utm_source=lootura.com) — 2026-07-14T20:59:10.000Z
