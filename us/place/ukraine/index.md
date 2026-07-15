@@ -70,4 +70,4 @@ Date: 2026-07-12
 
 ## Sources
 
-- [Ukraine Pounds Russian Ships in Its Campaign to Cut Off Crimea](https://www.nytimes.com/2026/07/15/world/europe/ukraine-russia-crimea-azov-sea.html?utm_source=lootura.com) — 2026-07-15T09:38:52.000Z
+No public source links.

@@ -3,44 +3,14 @@
 > Sigue la actividad de Pedro Sánchez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-15T13:38:34.657Z
+- Actualizado: 2026-07-15T17:14:56.110Z
 - Canonical: https://atlas.lootura.com/es/person/pedro-sanchez
 
 ## Cambios recientes
 
-### El PP recuerda que fue Podemos quien denunció a David Sánchez en 2017
-
-La portavoz del Grupo Popular en el Congreso, Ester Muñoz , ha recordado hoy que Podemos fue el primero en denunciar «nepotismo» en 2017 contra el hermano de Pedro Sánchez y ha acusado al Gobierno de «engañar» al afirmar que no existen pruebas contra David Sánchez , condenado ayer como cooperador necesario en un delito.
-
-Date: 2026-07-15
-
-### La sentencia no aporta pruebas que justifiquen la condena a David Sánchez, según su abogado
-
-Emilio Cortés, letrado de David Sánchez , ha afirmado que recurrirá la pena de nueve años de inhabilitación establecida por la Audiencia de Badajoz , al expresar que la sentencia «no aporta pruebas de cargo que justifiquen esta condena». En declaraciones a EFE, el abogado ha expresado que «está totalmente en desacuerdo.
-
-Date: 2026-07-15
-
-### CIS de Tezanos | El PSOE engorda con los casos judiciales y amplía la ventaja sobre el PP a casi 8 puntos
-
-El PSOE recupera posiciones en el CIS de Tezanos . Los socialistas avanzan 1,7 puntos en el primer barómetro desde que se conocieran las condenas a José Luis Ábalos y Koldo García en el denominado caso mascarillas y apenas 24 horas después de que la Audiencia Provincial de Badajoz condenara a David Sánchez , hermano de.
-
-Date: 2026-07-15
-
-### Sánchez se arroga el logro de cerrar la "herida" de la Verja tras el mazazo de su hermano
-
-"Estamos haciendo historia de la buena". Pedro Sánchez ha utilizado una frase de Fabian Picardo , ministro principal de Gibraltar después de participar en el derribo simbólico de la frontera que hasta la pasada medianoche separaba a Gibraltar y La Línea de la Concepción. El presidente del Gobierno se ha congratulado po.
-
-Date: 2026-07-15
-
 ### Feijóo eleva al máximo su crítica a Sánchez tras la condena de su hermano y lo llama "presidente autoritario"
 
 En un foro con líderes europeos e hispanoamericanos, acusa al PSOE de "agredir" a la democracia "desde las más altas instancias" Leer.
-
-Date: 2026-07-15
-
-### Ester Muñoz responde a Puente tras su polémico tuit insultando a Feijóo: "No ha sido tajante, ha sido maleducado"
-
-Ester Muñoz ha respondido con firmeza a Óscar Puente tras el tuit que publicó insultando a Alberto Núñez Feijóo por sus palabras sobre la condena al hermano del presidente del Gobierno, David Sánchez. En una intervención en Al Rojo Vivo , la portavoz del PP ha asegurado que el ministro de Transportes no fue tajante, si.
 
 Date: 2026-07-15
 
@@ -62,21 +32,51 @@ El alcalde de Madrid, José Luis Martínez-Almeida (PP), ha reprochado al «deli
 
 Date: 2026-07-15
 
-### 🎙 PODCAST | ¿Por qué han condenado exactamente al hermano de Pedro Sánchez?
+### El Hilo | No es lo mismo una que 23.600 millones
 
-Dos años pidiendo cárcel al hermano del presidente, por un enchufe, por tráfico de influencias, por amañar un concurso público. Llega la sentencia y le declaran culpable, pero no hay tráfico de influencias ni condena por el enchufe. ¿Entonces? Un tema Al día, ¡en el teatro! Ven a verlo en directo el 3 de octubre en Mad.
+Este es un fragmento de la newsletter El Hilo. Puedes suscribirte gratis para recibirla en tu correo electrónico todos los miércoles, y siempre que haya un gran caso, haciendo click aquí . ¡No te lo pierdas! El músico David Sánchez Pérez-Castejón, hermano de Pedro Sánchez, ha sido condenado a 9 años de inhabilitación p.
+
+Date: 2026-07-15
+
+### Pedro Sánchez, tras la retirada de la Verja de Gibraltar, que ya es historia: "Los conflictos no están para gestionarlos sino para resolverlos"
+
+El presidente del Gobierno asiste al acto simbólico de la eliminación de la frontera física junto al ministro principal del Peñón, el embajador del Reino Unido y los alcaldes de la comarca Leer.
+
+Date: 2026-07-15
+
+### Feijóo y Ayuso acusan a Sánchez de ser un “presidente autoritario” y un “autócrata sin escrúpulos”ante los líderes del PP europeo
+
+Ante algunos de los principales líderes del Partido Popular Europeo, reunidos este miércoles en Madrid, Alberto Núñez Feijóo ha lanzado la acusación más gruesa hasta la fecha contra Pedro Sánchez. El líder del PP no ha dudado en describir al líder socialista como “un presidente autoritario” delante del presidente del P.
+
+Date: 2026-07-15
+
+### El fiscal, al juez Peinado: "Las medidas cautelares contra Begoña Gómez son injustificadas, desproporcionadas e innecesarias"
+
+Afea al juez que se creyera el bulo de "ciertos medios" de que la esposa de Pedro Sánchez tiene pasaporte dominicano Begoña Gómez recurre la decisión de Peinado de retirarle el pasaporte y cree que su frase sobre la escolta es especulativa El fiscal José Manuel San Baldomero ha informado a la Audiencia Provincial de Ma.
+
+Date: 2026-07-15
+
+### Ayuso acusa a Sánchez de «utilizar» medios de comunicación y herramientas del Estado para «dañar la democracia»
+
+La presidenta de la Comunidad de Madrid, Isabel Díaz Ayuso , ha acusado a Pedro Sánchez de «utilizar» a los medios de comunicación y las herramientas del Estado para « dañar la salud democrática del paí s». Durante su intervención en el EPP Libertas Forum de este miércoles, la líder madrileña ha denunciado ante el Part.
+
+Date: 2026-07-15
+
+### David Sánchez, condenado por prevaricar
+
+Nuevo embate judicial al entorno de Pedro Sánchez. Tras la condena a su fiscal general del Estado por revelación de secretos, tras la demoledora sentencia contra su ex mano derecha, José Luis Ábalos , a 24 años de prisión por cinco delitos, llega la condena a su hermano. La Audiencia Provincial de Badajoz ha condenado.
 
 Date: 2026-07-15
 
 ## Fuentes
 
-- [Sánchez no tiene previsto acudir a la final del Mundial en Nueva York](https://www.abc.es/espana/sanchez-acudira-final-mundial-nueva-york-20260715123355-nt.html?utm_source=lootura.com) — 2026-07-15T13:01:14.000Z
-- [CIS de Tezanos | El PSOE engorda con los casos judiciales y amplía la ventaja sobre el PP a casi 8 puntos](https://www.elconfidencial.com/espana/2026-07-15/psoe-engorda-casos-judiciales-amplia-ventaja-sobre-pp-cis_4390347/?utm_source=lootura.com) — 2026-07-15T10:37:00.000Z
-- [Sánchez se arroga el logro de cerrar la "herida" de la Verja tras el mazazo de su hermano](https://www.elconfidencial.com/espana/andalucia/2026-07-15/sanchez-herida-verja-mazazo-hermano-gibraltar_4390289/?utm_source=lootura.com) — 2026-07-15T11:02:00.000Z
+- [El Hilo | No es lo mismo una que 23.600 millones](https://www.elconfidencial.com/espana/2026-07-15/cronologia-caso-zapatero_4362495/?utm_source=lootura.com) — 2026-07-15T15:41:00.000Z
 - [Feijóo eleva al máximo su crítica a Sánchez tras la condena de su hermano y lo llama "presidente autoritario"](https://www.elmundo.es/espana/2026/07/15/6a5765cffc6c83df118b4582.html?utm_source=lootura.com) — 2026-07-15T10:50:27.000Z
-- [Ester Muñoz responde a Puente tras su polémico tuit insultando a Feijóo: "No ha sido tajante, ha sido maleducado"](https://www.larazon.es/espana/ester-munoz-responde-puente-polemico-tuit-insultando-feijoo-sido-tajante-sido-maleducado_202607156a57867ee9f2e84b5c69a7c5.html?utm_source=lootura.com) — 2026-07-15T13:22:11.000Z
+- [Pedro Sánchez, tras la retirada de la Verja de Gibraltar, que ya es historia: "Los conflictos no están para gestionarlos sino para resolverlos"](https://www.elmundo.es/andalucia/2026/07/15/6a576f46e9cf4a65338b4578.html?utm_source=lootura.com) — 2026-07-15T11:36:24.000Z
+- [Feijóo y Ayuso acusan a Sánchez de ser un “presidente autoritario” y un “autócrata sin escrúpulos”ante los líderes del PP europeo](https://elpais.com/espana/2026-07-15/feijoo-acusa-a-sanchez-de-ser-un-presidente-autoritario-ante-los-lideres-del-pp-europeo.html?utm_source=lootura.com) — 2026-07-15T10:33:12.000Z
+- [El fiscal, al juez Peinado: "Las medidas cautelares contra Begoña Gómez son injustificadas, desproporcionadas e innecesarias"](https://www.eldiario.es/politica/fiscal-juez-peinado-medidas-cautelares-begona-gomez-son-injustificadas-desproporcionadas-e-innecesarias_1_13383138.html?utm_source=lootura.com) — 2026-07-15T16:18:54.000Z
+- [Ayuso acusa a Sánchez de «utilizar» medios de comunicación y herramientas del Estado para «dañar la democracia»](https://okdiario.com/madrid/ayuso-acusa-sanchez-utilizar-medios-comunicacion-herramientas-del-estado-danar-democracia-19003233?utm_source=lootura.com) — 2026-07-15T16:41:52.000Z
 - [Feijóo acusa a Sánchez de ser un «presidente autoritario» y de «agredir» la democracia](https://theobjective.com/espana/politica/2026-07-15/feijoo-sanchez-presidente-autoritario-agredir-democracia/?utm_source=lootura.com) — 2026-07-15T12:32:30.000Z
 - [El Gobierno de Ayuso cree que Sánchez quiere «cargarse» la acusación popular](https://theobjective.com/espana/politica/2026-07-15/gobierno-ayuso-sanchez-acusacion-popular/?amp=&utm_source=lootura.com) — 2026-07-15T13:22:26.000Z
-- [El PP recuerda que fue Podemos quien denunció a David Sánchez en 2017](https://theobjective.com/espana/politica/2026-07-15/pp-podemos-david-sanchez/?utm_source=lootura.com) — 2026-07-15T09:48:37.000Z
-- [La sentencia no aporta pruebas que justifiquen la condena a David Sánchez, según su abogado](https://theobjective.com/espana/tribunales/2026-07-15/abogado-david-sanchez-sentencia/?utm_source=lootura.com) — 2026-07-15T09:48:53.000Z
-- [Almeida reprocha al «delincuente» hermano de Sánchez su «golfada y deshonestidad»](https://theobjective.com/espana/politica/2026-07-15/almeida-delincuente-hermano-sanchez-golfada-deshonestidad/?utm_source=lootura.com) — 2026-07-15T12:06:32.000Z
+- [David Sánchez, condenado por prevaricar](https://theobjective.com/espana/2026-07-15/objetivo-directo-david-sanchez-condenado-prevaricacion/?utm_source=lootura.com) — 2026-07-15T16:25:36.000Z
+- [Sánchez celebra el fin de la Verja de Gibraltar: «Se cierra una herida abierta durante siglos»](https://theobjective.com/espana/politica/2026-07-15/sanchez-fin-verja-gibraltar/?amp=&utm_source=lootura.com) — 2026-07-15T17:03:59.000Z

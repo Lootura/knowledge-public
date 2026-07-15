@@ -3,7 +3,7 @@
 > Sigue la actividad de Lamine Yamal en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-15T10:00:08.251Z
+- Actualizado: 2026-07-15T17:14:56.110Z
 - Canonical: https://atlas.lootura.com/es/person/lamine-yamal
 
 ## Cambios recientes
@@ -58,4 +58,4 @@ Date: 2026-07-08
 
 ## Fuentes
 
-No public source links.
+- [La reacción de Mbappé después del penalti de Digne a Lamine Yamal: una sonrisa y un saludo que dicen mucho](https://www.larazon.es/deportes/futbol/reaccion-mbappe-despues-penalti-digne-lamine-yamal-sonrisa-saludo-que-dicen-mucho_202607156a57be8a0500ab412c97163d.html?outputType=amp&utm_source=lootura.com) — 2026-07-15T17:09:36.000Z

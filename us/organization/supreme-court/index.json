@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/supreme-court/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/supreme-court/index.json",
   "description": "Follow Supreme Court, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-15T13:39:02.263Z",
+  "updatedAt": "2026-07-15T17:15:23.220Z",
   "aliases": [
     "U.S. Supreme Court"
   ],
@@ -19,13 +19,13 @@
       "date": "2026-07-15"
     },
     {
-      "title": "Takeaways From Justices Kagan and Barrett’s Congressional Testimony on Supreme Court Security",
-      "summary": "Elena Kagan and Amy Coney Barrett, the first Supreme Court justices to testify since 2019, talked about ethics and security threats during a collegial hearing.",
+      "title": "Funding milestone detected",
+      "summary": "Justices Elena Kagan and Amy Coney Barrett met with lawmakers on Tuesday for a regular budget hearing.",
       "date": "2026-07-14"
     },
     {
-      "title": "Funding milestone detected",
-      "summary": "Justices Elena Kagan and Amy Coney Barrett met with lawmakers on Tuesday for a regular budget hearing.",
+      "title": "Takeaways From Justices Kagan and Barrett’s Congressional Testimony on Supreme Court Security",
+      "summary": "Elena Kagan and Amy Coney Barrett, the first Supreme Court justices to testify since 2019, talked about ethics and security threats during a collegial hearing.",
       "date": "2026-07-14"
     },
     {
@@ -76,13 +76,7 @@
       "url": "https://www.npr.org/2026/07/14/nx-s1-5888645/supreme-court-justices-barrett-and-kagan-discuss-security-funding-on-capitol-hill?utm_source=lootura.com",
       "publishedAt": "2026-07-14T20:29:34.000Z",
       "sourceId": "lootura-us-npr"
-    },
-    {
-      "title": "Takeaways From Justices Kagan and Barrett’s Congressional Testimony on Supreme Court Security",
-      "url": "https://www.nytimes.com/2026/07/14/us/politics/supreme-court-congress-takeaways.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-14T18:41:03.000Z",
-      "sourceId": "lootura-us-the-new-york-times"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 2
 }

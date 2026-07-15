@@ -3,7 +3,7 @@
 > Follow Spain, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-15T13:39:02.263Z
+- Updated: 2026-07-15T17:15:23.220Z
 - Canonical: https://atlas.lootura.com/us/place/espana
 
 ## Recent changes
@@ -58,4 +58,4 @@ Date: 2026-07-09
 
 ## Sources
 
-- [Spain sparkles to shock France 2-0 and advance to the World Cup final](https://www.npr.org/2026/07/14/nx-s1-5893692/2026-world-cup-fifa-spain-france-semifinal?utm_source=lootura.com) — 2026-07-14T20:59:10.000Z
+- [England looks to end 60-year World Cup drought against defending champions](https://www.nbcnews.com/sports/soccer/sports-newsletter-argentina-england-renew-rivalry-world-cup-semifinal-rcna587640?utm_source=lootura.com) — 2026-07-15T14:43:30.000Z

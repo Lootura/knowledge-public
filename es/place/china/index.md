@@ -3,7 +3,7 @@
 > Sigue la actividad de China en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-15T13:38:34.657Z
+- Actualizado: 2026-07-15T17:14:56.110Z
 - Canonical: https://atlas.lootura.com/es/place/china
 
 ## Cambios recientes
@@ -11,6 +11,12 @@
 ### China acelera su ofensiva comercial sobre Europa
 
 El gigante asiático bate un nuevo récord de exportaciones impulsado por los chips para la IA y los coches eléctricos, pero afronta una desaceleración del crecimiento que evidencia la debilidad del consumo interno Leer.
+
+Date: 2026-07-15
+
+### El Ibex pierde los 19.300 puntos por las energéticas y los bancos
+
+La minitregua en el petróleo, y el alivio ayer en el IPC de EEUU, no logran generalizar las subidas, más allá del rebote de las tecnológicas. El freno en el PIB de China y el tono agresivo de la Fed obstaculizan los avances. El Ibex vuelve a atascarse cerca de los 19.300 puntos de las últimas jornadas.
 
 Date: 2026-07-15
 
@@ -62,13 +68,7 @@ Dicen que nadie conoce mejor su cuerpo que uno mismo. Que podemos ir al médico 
 
 Date: 2026-07-13
 
-### El embajador de EE UU ante la ONU acusa a Cuba de contar con "puestos de inteligencia" de Rusia y China
-
-El embajador de Estados Unidos ante Naciones Unidas, Mike Waltz, ha afirmado que Cuba supone "una amenaza para su propio pueblo" y también para la "seguridad nacional" estadounidense, alegando que acoge elementos de las inteligencias de Rusia y de China. "El régimen cubano no solo representa una amenaza para su propio.
-
-Date: 2026-07-13
-
 ## Fuentes
 
 - [China acelera su ofensiva comercial sobre Europa](https://www.elmundo.es/economia/macroeconomia/2026/07/15/6a56f882fdddffac3c8b4587.html?utm_source=lootura.com) — 2026-07-15T05:08:14.000Z
-- [El Ibex vuelve a frenarse](https://www.expansion.com/mercados/cronica-bolsa/2026/07/15/6a571f27e5fdea9c048b4584.html?utm_source=lootura.com) — 2026-07-15T12:28:46.000Z
+- [El Ibex pierde los 19.300 puntos por las energéticas y los bancos](https://www.expansion.com/mercados/cronica-bolsa/2026/07/15/6a571f27e5fdea9c048b4584.html?utm_source=lootura.com) — 2026-07-15T16:15:25.000Z

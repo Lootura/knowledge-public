@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/new-york/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/new-york/index.json",
   "description": "Follow New York, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-15T13:39:02.263Z",
+  "updatedAt": "2026-07-15T17:15:23.220Z",
   "aliases": [
     "New York City"
   ],
@@ -21,6 +21,11 @@
     {
       "title": "Battle against data centers grows nationwide amid concerns over electricity, water usage",
       "summary": "There's growing backlash nationwide against AI data centers and now New York is hitting pause. Gov. Kathy Hochul signed an executive order to delay the building boom. Kelly O'Grady has more.",
+      "date": "2026-07-15"
+    },
+    {
+      "title": "Wildfires Rage in Ontario as Smoke Affects Toronto’s Air Quality",
+      "summary": "Air quality in Canada’s largest city was at times the worst in the world on Wednesday, as wildfires across Ontario sent smoke drifting into New York City and beyond.",
       "date": "2026-07-15"
     },
     {
@@ -57,11 +62,6 @@
       "title": "New York enacts nation",
       "summary": "Building new data centers in New York will be paused for a year in order to allow state officials to establish guidelines protecting residents and the environment, Gov. Kathy Hochul said.",
       "date": "2026-07-14"
-    },
-    {
-      "title": "Researchers define new frontier in quantum materials",
-      "summary": "Researchers at City College of New York physicist Vinod M. Menon's Laboratory for Nano and Micro Photonics (LaNMP) have outlined an emerging frontier in quantum materials: atomically thin systems in which light, magnetism and electric charge are strongly intertwined. This rapidly evolving field could enable next-genera.",
-      "date": "2026-07-14"
     }
   ],
   "sources": [
@@ -76,7 +76,13 @@
       "url": "https://www.cbsnews.com/video/battle-against-data-centers-grows-nationwide/?utm_source=lootura.com",
       "publishedAt": "2026-07-15T13:28:19.000Z",
       "sourceId": "lootura-us-cbs-news"
+    },
+    {
+      "title": "Wildfires Rage in Ontario as Smoke Affects Toronto’s Air Quality",
+      "url": "https://www.nytimes.com/2026/07/15/world/canada/wildfire-smoke-toronto-ontario-northeast.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-15T16:32:24.000Z",
+      "sourceId": "lootura-us-the-new-york-times-world"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 3
 }

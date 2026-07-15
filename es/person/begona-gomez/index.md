@@ -3,7 +3,7 @@
 > Sigue la actividad de Begoña Gómez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-15T13:38:34.657Z
+- Actualizado: 2026-07-15T17:14:56.110Z
 - Canonical: https://atlas.lootura.com/es/person/begona-gomez
 
 ## Cambios recientes
@@ -17,6 +17,24 @@ Date: 2026-07-15
 ### Begoña Gómez entrega los billetes de avión y reprocha a Peinado que le exija unos sellos de pasaporte que Reino Unido no estampa
 
 La defensa de la mujer del presidente advierte al juez de que le está exigiendo una “prueba diabólica”, que no existe, y critica que sea la investigada quien deba demostrar el viaje y no al revés, así que insta a Peinado a que se diriga a Reino Unido, único actor que puede acreditar la estancia El juez Peinado exige a.
+
+Date: 2026-07-15
+
+### Begoña Gómez aporta los billetes de su viaje a Londres y critica al juez por cuestionar su presunción de inocencia
+
+, la esposa del presidente del Gobierno, ha entregado al juez Juan Carlos Peinado los billetes de avión que certifican que viajó a Londres para acudir a la celebración de la graduación de su hija y que, por tanto, no quebrantó la medida cautelar impuesta por el magistrado, que le autorizó a desplazarse fue.
+
+Date: 2026-07-15
+
+### Begoña Gómez entrega al juez sus billetes de avión al Reino Unido y critica a Peinado por formular una exigencia "materialmente imposible"
+
+Denuncia que el requerimiento es contrario a la presunción de inocencia y subraya que Reino Unido ha sustituido los sellos físicos por un sistema digital Leer.
+
+Date: 2026-07-15
+
+### El fiscal, al juez Peinado: "Las medidas cautelares contra Begoña Gómez son injustificadas, desproporcionadas e innecesarias"
+
+Afea al juez que se creyera el bulo de "ciertos medios" de que la esposa de Pedro Sánchez tiene pasaporte dominicano Begoña Gómez recurre la decisión de Peinado de retirarle el pasaporte y cree que su frase sobre la escolta es especulativa El fiscal José Manuel San Baldomero ha informado a la Audiencia Provincial de Ma.
 
 Date: 2026-07-15
 
@@ -50,25 +68,10 @@ El juez Juan Carlos Peinado ha pedido a Begoña Gómez , la esposa del president
 
 Date: 2026-07-13
 
-### Peinado pide a Begoña Gómez pruebas que acrediten que solo usó el pasaporte para viajar a la graduación de su hija
-
-El juez Juan Carlos Peinado ordena a Begoña Gómez que aporte pruebas que acrediten que utilizó su pasaporte sólo para viajar a la graduación de su hija en Londres . El instructor da un plazo de cinco días a la mujer del presiente del Gobierno para que demuestre que realizó el viaje para lo que se le devolvió el pasapor.
-
-Date: 2026-07-13
-
-### El juez Peinado exige a Begoña Gómez que acredite que viajó a Reino Unido a la graduación de su hija
-
-Amenaza con imputarle un delito de quebrantamiento de medida cautelar, penado con cárcel de seis meses a un año juez sustituto de Peinado permite viajar a Begoña Gómez a Londres pero no a la cumbre de la OTAN El juez Juan Carlos Peinado ha regresado de vacaciones. Y a su vuelta, una de sus primeras decisiones ha sido s.
-
-Date: 2026-07-13
-
-### La Fiscalía acusa al juez Peinado de idear una “confabulación” para retirar el pasaporte a Begoña Gómez
-
-A la Fiscalía de Madrid se le empiezan a acabar los calificativos para referirse a la investigación del juez Juan Carlos Peinado sobre Begoña Gómez, así como a su decisión de retirarle el pasaporte y prohibirle salir de España . En un duro recurso enviado a la Audiencia Provincial de Madrid, el ministerio público arrem.
-
-Date: 2026-07-09
-
 ## Fuentes
 
-- [Begoña Gómez entrega al juez Peinado los billetes de su viaje a Londres para la graduación de su hija](https://elpais.com/espana/2026-07-15/begona-gomez-entrega-al-juez-peinado-los-billetes-de-su-viaje-a-londres.html?utm_source=lootura.com) — 2026-07-15T13:31:17.000Z
+- [Begoña Gómez aporta los billetes de su viaje a Londres y critica al juez por cuestionar su presunción de inocencia](https://www.abc.es/espana/begona-gomez-aporta-billetes-viaje-londres-critica-20260715155146-nt.html?utm_source=lootura.com) — 2026-07-15T16:32:24.000Z
+- [Begoña Gómez entrega al juez sus billetes de avión al Reino Unido y critica a Peinado por formular una exigencia "materialmente imposible"](https://www.elmundo.es/espana/2026/07/15/6a57963821efa0c20b8b456d.html?utm_source=lootura.com) — 2026-07-15T14:57:25.000Z
+- [Begoña Gómez entrega al juez Peinado los billetes de su viaje a Londres para la graduación de su hija](https://elpais.com/espana/2026-07-15/begona-gomez-entrega-al-juez-peinado-los-billetes-de-su-viaje-a-londres.html?utm_source=lootura.com) — 2026-07-15T15:04:17.000Z
 - [Begoña Gómez entrega los billetes de avión y reprocha a Peinado que le exija unos sellos de pasaporte que Reino Unido no estampa](https://www.eldiario.es/politica/begona-gomez-entrega-billetes-avion-reprocha-peinado-le-exija-sellos-pasaporte-reino-unido-no-estampa_1_13382518.html?utm_source=lootura.com) — 2026-07-15T13:09:31.000Z
+- [El fiscal, al juez Peinado: "Las medidas cautelares contra Begoña Gómez son injustificadas, desproporcionadas e innecesarias"](https://www.eldiario.es/politica/fiscal-juez-peinado-medidas-cautelares-begona-gomez-son-injustificadas-desproporcionadas-e-innecesarias_1_13383138.html?utm_source=lootura.com) — 2026-07-15T16:18:54.000Z

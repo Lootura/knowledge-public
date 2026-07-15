@@ -1,42 +1,42 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-15T15:09:30.939Z",
+  "generatedAt": "2026-07-15T17:20:20.132Z",
   "radar": {
     "id": "es",
     "slug": "es",
     "locale": "es"
   },
   "state": {
-    "signature": "1.15.1|18|1784122714657",
+    "signature": "1.15.1|19|1784135696110",
     "version": "1.15.1",
-    "build": 18,
-    "latestEntityUpdatedAt": "2026-07-15T13:38:34.657Z"
+    "build": 19,
+    "latestEntityUpdatedAt": "2026-07-15T17:14:56.110Z"
   },
   "atlas": {
     "hero": {
-      "id": "es-begona-gomez",
-      "name": "Begoña Gómez",
+      "id": "es-pedro-sanchez",
+      "name": "Pedro Sánchez",
       "type": "person",
-      "title": "Begoña Gómez entrega al juez Peinado los billetes de su viaje a Londres para la graduación de su hija",
-      "url": "https://atlas.lootura.com/es/person/begona-gomez",
-      "path": "/es/person/begona-gomez",
-      "updatedAt": "2026-07-15T13:38:34.657Z",
-      "score": 1575,
-      "sourceCount": 17,
+      "title": "Ayuso acusa a Sánchez de «utilizar» medios de comunicación y herramientas del Estado para «dañar la democracia»",
+      "url": "https://atlas.lootura.com/es/person/pedro-sanchez",
+      "path": "/es/person/pedro-sanchez",
+      "updatedAt": "2026-07-15T17:14:56.110Z",
+      "score": 1619,
+      "sourceCount": 124,
       "isBreaking": false,
       "isPinned": false
     },
     "cards": [
       {
-        "id": "es-alberto-nunez-feijoo",
-        "name": "Alberto Núñez Feijóo",
+        "id": "es-begona-gomez",
+        "name": "Begoña Gómez",
         "type": "person",
-        "title": "Feijóo acusa a Sánchez de ser un «presidente autoritario» y de «agredir» la democracia",
-        "url": "https://atlas.lootura.com/es/person/alberto-nunez-feijoo",
-        "path": "/es/person/alberto-nunez-feijoo",
-        "updatedAt": "2026-07-15T13:38:34.657Z",
-        "score": 1565,
-        "sourceCount": 36,
+        "title": "Begoña Gómez aporta los billetes de su viaje a Londres y critica al juez por cuestionar su presunción de inocencia",
+        "url": "https://atlas.lootura.com/es/person/begona-gomez",
+        "path": "/es/person/begona-gomez",
+        "updatedAt": "2026-07-15T17:14:56.110Z",
+        "score": 1586,
+        "sourceCount": 15,
         "isBreaking": false,
         "isPinned": false
       },
@@ -47,39 +47,39 @@
         "title": "Bank of America enfría su visión sobre BBVA y Unicaja a las puertas de los resultados",
         "url": "https://atlas.lootura.com/es/place/united-states",
         "path": "/es/place/united-states",
-        "updatedAt": "2026-07-15T13:38:34.657Z",
-        "score": 1561,
-        "sourceCount": 70,
+        "updatedAt": "2026-07-15T17:14:56.110Z",
+        "score": 1563,
+        "sourceCount": 74,
         "isBreaking": false,
         "isPinned": false
       },
       {
-        "id": "es-espana",
-        "name": "España",
-        "type": "place",
-        "title": "Fragmento del día: España",
-        "url": "https://atlas.lootura.com/es/place/espana",
-        "path": "/es/place/espana",
-        "updatedAt": "2026-07-15T13:38:34.657Z",
-        "score": 1549,
-        "sourceCount": 254,
-        "isBreaking": false,
-        "isPinned": false
-      },
-      {
-        "id": "es-pedro-sanchez",
-        "name": "Pedro Sánchez",
+        "id": "es-alberto-nunez-feijoo",
+        "name": "Alberto Núñez Feijóo",
         "type": "person",
-        "title": "El PP recuerda que fue Podemos quien denunció a David Sánchez en 2017",
-        "url": "https://atlas.lootura.com/es/person/pedro-sanchez",
-        "path": "/es/person/pedro-sanchez",
-        "updatedAt": "2026-07-15T13:38:34.657Z",
-        "score": 1549,
-        "sourceCount": 119,
+        "title": "Feijóo acusa a Sánchez de ser un «presidente autoritario» y de «agredir» la democracia",
+        "url": "https://atlas.lootura.com/es/person/alberto-nunez-feijoo",
+        "path": "/es/person/alberto-nunez-feijoo",
+        "updatedAt": "2026-07-15T17:14:56.110Z",
+        "score": 1562,
+        "sourceCount": 34,
+        "isBreaking": false,
+        "isPinned": false
+      },
+      {
+        "id": "es-reino-unido",
+        "name": "Reino Unido",
+        "type": "person",
+        "title": "Begoña Gómez entrega al juez Peinado los billetes de su viaje a Londres para la graduación de su hija",
+        "url": "https://atlas.lootura.com/es/person/reino-unido",
+        "path": "/es/person/reino-unido",
+        "updatedAt": "2026-07-15T17:14:56.110Z",
+        "score": 1562,
+        "sourceCount": 9,
         "isBreaking": false,
         "isPinned": false
       }
     ],
-    "publicEntityCount": 34
+    "publicEntityCount": 35
   }
 }

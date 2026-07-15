@@ -3,7 +3,7 @@
 > Follow White House, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-07-15T13:39:02.263Z
+- Updated: 2026-07-15T17:15:23.220Z
 - Canonical: https://atlas.lootura.com/us/organization/white-house
 
 ## Recent changes
@@ -11,6 +11,12 @@
 ### Jay Clayton Expected to Face Tough Questions in Confirmation Hearing
 
 His nomination to lead the U.S. intelligence community comes as the White House pushes to use declassified intelligence to show concerns about election security.
+
+Date: 2026-07-15
+
+### White House overturns DHS halt to ICE traffic stops despite killings of two men
+
+Move comes after Trump rebuked his own homeland security department and insisted ICE maintain policy The White House overturned a one-day old homeland security department (DHS) memo that said they would be halting traffic stops in the wake of recent stops that left two men killed in the space of a week on Wednesday mor.
 
 Date: 2026-07-15
 
@@ -62,12 +68,8 @@ White House first entered the public knowledge record with source-backed evidenc
 
 Date: 2026-07-11
 
-### White House taps the guy who keeps crying ‘aliens’ to run UFO group
-
-Harvard astrophysicist Avi Loeb will head the UAP Science Advisory Council established by the White House, the Pentagon, the Office of the Director of National Intelligence, the FBI, and "the intelligence community." The Council will provide scientific reports and advice to the UAP Governing Board, in an effort to "res.
-
-Date: 2026-07-11
-
 ## Sources
 
+- [Watch: Lawmaker presses Blanche on his role in alleged Epstein files mishandlings](https://www.cbsnews.com/video/watch-lawmaker-presses-blanche-on-his-role-in-epstein-files-mishandling-allegations/?utm_source=lootura.com) — 2026-07-15T16:06:00.000Z
+- [White House overturns DHS halt to ICE traffic stops despite killings of two men](https://www.theguardian.com/us-news/2026/jul/15/trump-ice-traffic-stops?utm_source=lootura.com) — 2026-07-15T15:40:27.000Z
 - [Jay Clayton Expected to Face Tough Questions in Confirmation Hearing](https://www.nytimes.com/2026/07/15/us/politics/jay-clayton-confirmation-hearing-director-national-intelligence.html?utm_source=lootura.com) — 2026-07-15T09:03:51.000Z

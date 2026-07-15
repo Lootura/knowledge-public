@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/maine/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/maine/index.json",
   "description": "Follow Maine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-15T13:39:02.263Z",
+  "updatedAt": "2026-07-15T17:15:23.220Z",
   "aliases": [],
   "changes": [
     {
@@ -17,18 +17,8 @@
       "date": "2026-07-15"
     },
     {
-      "title": "After ICE fatally shot multiple people, officials speak out: \"We want them out\"",
-      "summary": "U.S. Immigration and Customs Enforcement officials shot and killed two men in the last week in Maine and in Texas. Maine's House speaker, a Houston prosecutor and a Minnesota attorney spoke with CBS News about the violence.",
-      "date": "2026-07-15"
-    },
-    {
       "title": "An ICE Shooting in Maine Puts Pressure on Senator Susan Collins",
       "summary": "The Democrats hoping to challenge Ms. Collins, a vulnerable Republican, have seized on the fatal incident, drawing attention to her record on immigration matters.",
-      "date": "2026-07-15"
-    },
-    {
-      "title": "ICE Halts Most Vehicle Stops After Fatal Texas, Maine Shootings",
-      "summary": "In the wake of two fatal ICE-involved shootings in less than a week, the Department of Homeland Security is now instructing agents to suspend most vehicle stops amid growing uproar. On Truth Social, President Donald Trump wrote, “We cannot give up one of ICE’s most important and effective crime fighting tools,” adding,.",
       "date": "2026-07-15"
     },
     {
@@ -39,6 +29,21 @@
     {
       "title": "Colombian Immigrant Killed by ICE in Maine Had Legal Status, Father Says",
       "summary": "The father of Joan Sebastian Guerrero, the man fatally shot by a federal immigration agent on Monday, said his son had been working two jobs to support his wife and daughter.",
+      "date": "2026-07-15"
+    },
+    {
+      "title": "ICE Halts Most Vehicle Stops After Fatal Texas, Maine Shootings",
+      "summary": "In the wake of two fatal ICE-involved shootings in less than a week, the Department of Homeland Security is now instructing agents to suspend most vehicle stops amid growing uproar. On Truth Social, President Donald Trump wrote, “We cannot give up one of ICE’s most important and effective crime fighting tools,” adding,.",
+      "date": "2026-07-15"
+    },
+    {
+      "title": "After ICE fatally shot multiple people, officials speak out: \"We want them out\"",
+      "summary": "U.S. Immigration and Customs Enforcement officials shot and killed two men in the last week in Maine and in Texas. Maine's House speaker, a Houston prosecutor and a Minnesota attorney spoke with CBS News about the violence.",
+      "date": "2026-07-15"
+    },
+    {
+      "title": "ICE Halts Most Vehicle Stops After Fatal Texas, Maine Shootings",
+      "summary": "In the wake of two fatal ICE-involved shootings in less than a week, the Department of Homeland Security is now instructing agents to suspend most vehicle stops amid growing uproar. On Truth Social, President Donald Trump wrote, “We cannot give up one of ICE’s most important and effective crime fighting tools,” adding,.",
       "date": "2026-07-15"
     },
     {
@@ -55,31 +60,14 @@
       "title": "An ICE Shooting in Maine Puts Pressure on Senator Susan Collins",
       "summary": "The Democrats hoping to challenge Ms. Collins, a vulnerable Republican, have seized on the fatal incident, drawing attention to her record on immigration matters.",
       "date": "2026-07-15"
-    },
-    {
-      "title": "In the aftermath of deadly shootings, ICE pauses most traffic stops",
-      "summary": "U.S. Immigration and Customs Enforcement will pause non-urgent vehicle stops after two deadly shootings in less than a week, Maine U.S. Sen. Angus King's office tells NPR. (Image credit: Joseph Prezioso).",
-      "date": "2026-07-14"
     }
   ],
   "sources": [
     {
-      "title": "Security video captures moments after man was fatally shot by ICE in Maine",
-      "url": "https://www.cbsnews.com/news/security-video-man-fatally-shot-ice-maine-johan-sebastian-duran-guerrero/?utm_source=lootura.com",
-      "publishedAt": "2026-07-15T01:30:44.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
-    {
-      "title": "After ICE fatally shot multiple people, officials speak out: \"We want them out\"",
-      "url": "https://www.cbsnews.com/video/after-ice-fatally-shot-multiple-people-officials-speak-out/?utm_source=lootura.com",
-      "publishedAt": "2026-07-15T02:35:00.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
-    {
       "title": "ICE Halts Most Vehicle Stops After Fatal Texas, Maine Shootings",
       "url": "https://www.today.com/video/ice-halts-most-vehicle-stops-after-fatal-texas-maine-shootings-266708549768?utm_source=lootura.com",
       "publishedAt": "2026-07-15T11:25:40.000Z",
-      "sourceId": "lootura-us-nbc-news-politics"
+      "sourceId": "lootura-us-nbc-news"
     },
     {
       "title": "Maine Democrats aren’t coalescing behind a Graham Platner replacement",
@@ -90,7 +78,7 @@
     {
       "title": "Videos Detail Moments Surrounding Fatal ICE Shooting in Biddeford, Maine",
       "url": "https://www.nytimes.com/2026/07/14/us/maine-ice-shooting-video-joan-sebastian-guerrero.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-15T00:31:20.000Z",
+      "publishedAt": "2026-07-15T16:00:34.000Z",
       "sourceId": "lootura-us-the-new-york-times"
     },
     {
@@ -102,9 +90,9 @@
     {
       "title": "Colombian Immigrant Killed by ICE in Maine Had Legal Status, Father Says",
       "url": "https://www.nytimes.com/2026/07/14/us/joan-sebastian-guerrero-maine-ice-shooting.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-15T11:31:33.000Z",
+      "publishedAt": "2026-07-15T15:37:10.000Z",
       "sourceId": "lootura-us-the-new-york-times"
     }
   ],
-  "evidenceCount": 7
+  "evidenceCount": 5
 }

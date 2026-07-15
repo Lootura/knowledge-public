@@ -3,10 +3,16 @@
 > Follow Apple, a tracked company, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: company
-- Updated: 2026-07-13T20:55:54.181Z
+- Updated: 2026-07-15T17:15:23.220Z
 - Canonical: https://atlas.lootura.com/us/company/apple
 
 ## Recent changes
+
+### Discovered by Atlas
+
+Apple first entered the public knowledge record with source-backed evidence.
+
+Date: 2026-07-13
 
 ### Developer ecosystem expanded
 
@@ -26,12 +32,6 @@ Siri AI in iOS 27. iOS 27 escaped the developer world today with the launch of t
 
 Date: 2026-07-13
 
-### Discovered by Atlas
-
-Apple first entered the public knowledge record with source-backed evidence.
-
-Date: 2026-07-13
-
 ## Sources
 
-No public source links.
+- [OpenAI finally launches hardware… for Codex](https://www.theverge.com/ai-artificial-intelligence/965901/openai-hardware-codex-micro-launch?utm_source=lootura.com) — 2026-07-15T16:00:00.000Z

@@ -8,9 +8,14 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/iran/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/iran/index.json",
   "description": "Sigue la actividad de Iran en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-15T06:12:14.832Z",
+  "updatedAt": "2026-07-15T17:14:56.110Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "Trump amenaza con atacar infraestructuras civiles si Irán no vuelve a negociar",
+      "summary": "Estados Unidos ha reimpuesto el bloqueo naval sobre los puertos iraníes y ha intensificado su campaña de bombardeos contra la república islámica, en una nueva escalada de ataques que amenaza con devolver a Oriente Próximo a una guerra abierta y que vuelve a situar el estrecho de Ormuz en el centro del enfrentamiento.La.",
+      "date": "2026-07-15"
+    },
     {
       "title": "Trump estrecha el cerco sobre Cuba con sanciones, bloqueo y amenaza militar",
       "summary": "Sin grandes anuncios ni gestos solemnes, Donald Trump ha situado a Cuba en el centro de su estrategia de presión máxima en el continente americano. Después de concentrar durante meses su atención en Venezuela e Irán, la Casa Blanca investiga ahora si la isla almacena drones iraníes, y el propio presidente ha advertido.",
@@ -55,13 +60,15 @@
       "title": "Trump dice que EEUU investiga si Irán tiene drones almacenados en Cuba",
       "summary": "El presidente de Estados Unidos, Donald Trump , ha asegurado este lunes que su Gobierno investiga la posible presencia de drones iraníes almacenados en Cuba y ha advertido de que Washington actuará si confirma esa información. \"Si los tienen, y es muy posible que los tengan , nos encargaremos de ello\", ha declarado Tru.",
       "date": "2026-07-14"
-    },
-    {
-      "title": "El plan de Israel para convertir al ex presidente Ahmadineyad en líder del Irán posayatolás, según el 'New York Times'",
-      "summary": "El diario documenta reuniones del jefe del Mossad con Ahmadineyad en 2024 en lugares como Budapest y habla de \"pagos en secreto para cubrir sus gastos de alojamiento y viajes\", pero no sostiene que fuera un agente o informante Leer.",
-      "date": "2026-07-13"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Trump amenaza con atacar infraestructuras civiles si Irán no vuelve a negociar",
+      "url": "https://www.abc.es/internacional/trump-amenaza-atacar-infraestructuras-civiles-iran-vuelve-20260715174230-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-15T16:31:52.000Z",
+      "sourceId": "lootura-es-abc"
+    }
+  ],
+  "evidenceCount": 1
 }

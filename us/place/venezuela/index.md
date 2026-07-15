@@ -3,10 +3,16 @@
 > Follow Venezuela, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-14T09:56:10.561Z
+- Updated: 2026-07-15T17:15:23.220Z
 - Canonical: https://atlas.lootura.com/us/place/venezuela
 
 ## Recent changes
+
+### He Has a $25 Million Bounty on His Head but Is Also a U.S. Partner in Venezuela
+
+A list of alleged crimes has not prevented Diosdado Cabello, and other Venezuelan officials, from working with a U.S. government that once hounded them.
+
+Date: 2026-07-15
 
 ### ‘God is punishing the politicians’: anger at earthquake response grows in Venezuela
 
@@ -46,4 +52,4 @@ Date: 2026-07-08
 
 ## Sources
 
-No public source links.
+- [He Has a $25 Million Bounty on His Head but Is Also a U.S. Partner in Venezuela](https://www.nytimes.com/2026/07/15/world/americas/us-bounty-diosdado-cabello-venezuela.html?utm_source=lootura.com) — 2026-07-15T15:37:17.000Z

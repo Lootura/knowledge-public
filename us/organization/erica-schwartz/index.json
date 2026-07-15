@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/erica-schwartz/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/erica-schwartz/index.json",
   "description": "Follow Erica Schwartz, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-15T13:39:02.263Z",
+  "updatedAt": "2026-07-15T17:15:23.220Z",
   "aliases": [],
   "changes": [
     {
@@ -17,13 +17,18 @@
       "date": "2026-07-15"
     },
     {
+      "title": "Discovered by Atlas",
+      "summary": "Erica Schwartz first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-07-15"
+    },
+    {
       "title": "Trump’s Latest Nominee for C.D.C. Director Will Face Senate Panel",
       "summary": "Dr. Erica Schwartz supports vaccines and is seen as a mainstream choice to lead an agency that has been a target of Health Secretary Robert F. Kennedy Jr.’s efforts to change federal immunization policies.",
       "date": "2026-07-15"
     },
     {
-      "title": "Discovered by Atlas",
-      "summary": "Erica Schwartz first entered the public knowledge record with source-backed evidence.",
+      "title": "Trump’s Latest Nominee for C.D.C. Director Will Face Senate Panel",
+      "summary": "Dr. Erica Schwartz supports vaccines and is seen as a mainstream choice to lead an agency that has been a target of Health Secretary Robert F. Kennedy Jr.’s efforts to change federal immunization policies.",
       "date": "2026-07-15"
     }
   ],
@@ -38,7 +43,7 @@
       "title": "Trump’s Latest Nominee for C.D.C. Director Will Face Senate Panel",
       "url": "https://www.nytimes.com/2026/07/15/health/cdc-erica-schwartz.html?utm_source=lootura.com",
       "publishedAt": "2026-07-15T09:03:28.000Z",
-      "sourceId": "lootura-us-the-new-york-times-politics"
+      "sourceId": "lootura-us-the-new-york-times"
     }
   ],
   "evidenceCount": 2

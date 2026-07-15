@@ -70,4 +70,4 @@ Date: 2026-07-11
 
 ## Sources
 
-- [Ultraviolet light uncovers the first known juveniles of a mysterious Jurassic fish family](https://phys.org/news/2026-07-ultraviolet-uncovers-juveniles-mysterious-jurassic.html?utm_source=lootura.com) — 2026-07-15T13:00:01.000Z
+No public source links.

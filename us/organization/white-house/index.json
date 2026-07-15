@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/white-house/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/white-house/index.json",
   "description": "Follow White House, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-15T13:39:02.263Z",
+  "updatedAt": "2026-07-15T17:15:23.220Z",
   "aliases": [],
   "changes": [
     {
       "title": "Jay Clayton Expected to Face Tough Questions in Confirmation Hearing",
       "summary": "His nomination to lead the U.S. intelligence community comes as the White House pushes to use declassified intelligence to show concerns about election security.",
+      "date": "2026-07-15"
+    },
+    {
+      "title": "White House overturns DHS halt to ICE traffic stops despite killings of two men",
+      "summary": "Move comes after Trump rebuked his own homeland security department and insisted ICE maintain policy The White House overturned a one-day old homeland security department (DHS) memo that said they would be halting traffic stops in the wake of recent stops that left two men killed in the space of a week on Wednesday mor.",
       "date": "2026-07-15"
     },
     {
@@ -55,14 +60,21 @@
       "title": "Discovered by Atlas",
       "summary": "White House first entered the public knowledge record with source-backed evidence.",
       "date": "2026-07-11"
-    },
-    {
-      "title": "White House taps the guy who keeps crying ‘aliens’ to run UFO group",
-      "summary": "Harvard astrophysicist Avi Loeb will head the UAP Science Advisory Council established by the White House, the Pentagon, the Office of the Director of National Intelligence, the FBI, and \"the intelligence community.\" The Council will provide scientific reports and advice to the UAP Governing Board, in an effort to \"res.",
-      "date": "2026-07-11"
     }
   ],
   "sources": [
+    {
+      "title": "Watch: Lawmaker presses Blanche on his role in alleged Epstein files mishandlings",
+      "url": "https://www.cbsnews.com/video/watch-lawmaker-presses-blanche-on-his-role-in-epstein-files-mishandling-allegations/?utm_source=lootura.com",
+      "publishedAt": "2026-07-15T16:06:00.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
+    {
+      "title": "White House overturns DHS halt to ICE traffic stops despite killings of two men",
+      "url": "https://www.theguardian.com/us-news/2026/jul/15/trump-ice-traffic-stops?utm_source=lootura.com",
+      "publishedAt": "2026-07-15T15:40:27.000Z",
+      "sourceId": "lootura-us-the-guardian-us"
+    },
     {
       "title": "Jay Clayton Expected to Face Tough Questions in Confirmation Hearing",
       "url": "https://www.nytimes.com/2026/07/15/us/politics/jay-clayton-confirmation-hearing-director-national-intelligence.html?utm_source=lootura.com",
@@ -70,5 +82,5 @@
       "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 3
 }

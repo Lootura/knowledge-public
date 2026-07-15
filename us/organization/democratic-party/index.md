@@ -3,7 +3,7 @@
 > Follow Democratic Party, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-07-15T13:39:02.263Z
+- Updated: 2026-07-15T17:15:23.220Z
 - Canonical: https://atlas.lootura.com/us/organization/democratic-party
 
 ## Recent changes

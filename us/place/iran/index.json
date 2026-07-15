@@ -8,22 +8,12 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/iran/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/iran/index.json",
   "description": "Follow Iran, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-15T13:39:02.263Z",
+  "updatedAt": "2026-07-15T17:15:23.220Z",
   "aliases": [],
   "changes": [
     {
-      "title": "Trump says he won't rule out sending ground troops to Iran",
-      "summary": "President Trump told Fox News on Tuesday that he won't rule out a ground invasion of Iran. The comments come amid another round of U.S. strikes against Iranian targets. CBS News' Eleanor Watson reports.",
-      "date": "2026-07-15"
-    },
-    {
       "title": "Morning news brief",
       "summary": "Acting Attorney General Todd Blanche to appear for confirmation hearing, U.S. restarts blockade against Iran amid standoff over the Strait of Hormuz, ICE suspends traffic stops after deadly shootings.",
-      "date": "2026-07-15"
-    },
-    {
-      "title": "For Israel, the U.S.-Iran Hostilities Have Created an Uneasy Limbo",
-      "summary": "Officials see a return to full-blown war as preferable to an agreement that fails to curb the threats Iran poses to Israel. Meanwhile, they wait.",
       "date": "2026-07-15"
     },
     {
@@ -32,41 +22,51 @@
       "date": "2026-07-15"
     },
     {
+      "title": "Son of couple jailed in Iran \"desperately worried\" as stepdad's sentence extended",
+      "summary": "A man whose mother and stepfather are imprisoned in Iran tells CBS News \"the hardest part is the uncertainty.\".",
+      "date": "2026-07-15"
+    },
+    {
+      "title": "House Republicans push for $95B for Iran war, election measures and farm aid",
+      "summary": "House Republicans kicked off their plans for a third reconciliation bill for $90 billion in new money for the military during the Iran war and election-related measures.",
+      "date": "2026-07-15"
+    },
+    {
+      "title": "U.S. reimposes blockade and steps up strikes as Iran threatens to halt all energy exports from the region",
+      "summary": "Iranian officials said Wednesday that the American strikes hit an Iranian army barracks, killed at least seven troops and wounded more than 260 people across the country.",
+      "date": "2026-07-15"
+    },
+    {
+      "title": "Giant Statue Mocking Trump's War in Iran Draws Attention in D.C.",
+      "summary": "An \"Iran War Participation Trophy\" dedicated to President Donald Trump appears next to the MLK Jr. Memorial Bookstore in Washington, D.C. on July 13, 2026. —The Washington Post via Getty Images A golden statue titled the “Iran War Participation Trophy” is the latest piece of art to appear on the National Mall in Washin.",
+      "date": "2026-07-15"
+    },
+    {
+      "title": "Trump says he won't rule out sending ground troops to Iran",
+      "summary": "President Trump told Fox News on Tuesday that he won't rule out a ground invasion of Iran. The comments come amid another round of U.S. strikes against Iranian targets. CBS News' Eleanor Watson reports.",
+      "date": "2026-07-15"
+    },
+    {
+      "title": "For Israel, the U.S.-Iran Hostilities Have Created an Uneasy Limbo",
+      "summary": "Officials see a return to full-blown war as preferable to an agreement that fails to curb the threats Iran poses to Israel. Meanwhile, they wait.",
+      "date": "2026-07-15"
+    },
+    {
       "title": "U.S. and Iran standoff over the Strait of Hormuz intensifies",
       "summary": "threatened to block all oil exporting routes in the region on Wednesday in response to the U.S. maritime blockade of Iranian ports in the Strait of Hormuz. (Image credit: AFP via Getty Images).",
       "date": "2026-07-15"
     },
     {
-      "title": "Inflation slowed sharply -- but it may not last",
-      "summary": "Annual inflation hit 3.5% in June, down from May's more than three-year high — but the resumption of the conflict with Iran threaten to push up inflation as energy costs once again spike. (Image credit: Brandon Bell).",
-      "date": "2026-07-14"
-    },
-    {
       "title": "Senate Democrats Block Defense Bill Over War in Iran",
       "summary": "The vote reflected how the political debate over the conflict in the Middle East has sapped bipartisan support for a normally popular measure.",
-      "date": "2026-07-14"
-    },
-    {
-      "title": "At War With Iran Again, Trump Finds an Opponent He Cannot Easily Dominate",
-      "summary": "The president is accustomed to forcing other countries to bend to his will. But he is struggling to come up with a strategy to extract Iranian concessions as the cease-fire he brokered collapses.",
-      "date": "2026-07-14"
-    },
-    {
-      "title": "‘We Love Iraq,’ Trump Tells New Prime Minister in Oval Office Meeting",
-      "summary": "The meeting comes as President Trump’s administration has been ratcheting up pressure on Baghdad to diminish Iran’s influence in Iraq.",
-      "date": "2026-07-14"
-    },
-    {
-      "title": "At War With Iran Again, Trump Finds an Opponent He Cannot Easily Dominate",
-      "summary": "The president is accustomed to forcing other countries to bend to his will. But he is struggling to come up with a strategy to extract Iranian concessions as the cease-fire he brokered collapses.",
       "date": "2026-07-14"
     }
   ],
   "sources": [
     {
-      "title": "Trump says he won't rule out sending ground troops to Iran",
-      "url": "https://www.cbsnews.com/video/trump-says-he-wont-rule-out-sending-ground-troops-to-iran/?utm_source=lootura.com",
-      "publishedAt": "2026-07-15T00:48:43.000Z",
+      "title": "Son of couple jailed in Iran \"desperately worried\" as stepdad's sentence extended",
+      "url": "https://www.cbsnews.com/news/iran-uk-lindsay-craig-foreman-prison-sentence-hunger-strike-son-worried/?utm_source=lootura.com",
+      "publishedAt": "2026-07-15T16:52:30.000Z",
       "sourceId": "lootura-us-cbs-news"
     },
     {
@@ -76,10 +76,10 @@
       "sourceId": "lootura-us-nbc-news"
     },
     {
-      "title": "Inflation slowed sharply -- but it may not last",
-      "url": "https://www.npr.org/2026/07/14/nx-s1-5893379/inflation-economy-consumer-prices-federal-reserve?utm_source=lootura.com",
-      "publishedAt": "2026-07-14T14:40:20.000Z",
-      "sourceId": "lootura-us-npr"
+      "title": "House Republicans push for $95B for Iran war, election measures and farm aid",
+      "url": "https://www.nbcnews.com/politics/congress/house-republicans-push-90-billion-iran-war-election-measures-farm-aid-rcna587635?utm_source=lootura.com",
+      "publishedAt": "2026-07-15T16:13:38.000Z",
+      "sourceId": "lootura-us-nbc-news-politics"
     },
     {
       "title": "Morning news brief",
@@ -88,10 +88,10 @@
       "sourceId": "lootura-us-npr"
     },
     {
-      "title": "U.S. and Iran standoff over the Strait of Hormuz intensifies",
-      "url": "https://www.npr.org/2026/07/15/nx-s1-5894582/us-iran-updates?utm_source=lootura.com",
-      "publishedAt": "2026-07-15T09:56:31.000Z",
-      "sourceId": "lootura-us-npr-world"
+      "title": "U.S. reimposes blockade and steps up strikes as Iran threatens to halt all energy exports from the region",
+      "url": "https://www.pbs.org/newshour/world/u-s-reimposes-blockade-and-steps-up-strikes-as-iran-threatens-to-halt-all-energy-exports-from-the-region?utm_source=lootura.com",
+      "publishedAt": "2026-07-15T15:23:45.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
     },
     {
       "title": "Senate Democrats Block Defense Bill Over War in Iran",
@@ -100,10 +100,10 @@
       "sourceId": "lootura-us-the-new-york-times"
     },
     {
-      "title": "For Israel, the U.S.-Iran Hostilities Have Created an Uneasy Limbo",
-      "url": "https://www.nytimes.com/2026/07/15/world/middleeast/for-israel-the-us-iran-hostilities-have-created-an-uneasy-limbo.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-15T09:03:46.000Z",
-      "sourceId": "lootura-us-the-new-york-times"
+      "title": "Giant Statue Mocking Trump's War in Iran Draws Attention in D.C.",
+      "url": "https://time.com/article/2026/07/15/giant-protest-statue-mocks-trump-iran-war-washington-dc/?utm_source=lootura.com",
+      "publishedAt": "2026-07-15T15:38:17.000Z",
+      "sourceId": "lootura-us-time"
     }
   ],
   "evidenceCount": 7

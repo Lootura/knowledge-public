@@ -8,11 +8,16 @@
   "markdownUrl": "https://atlas.lootura.com/us/company/apple/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/company/apple/index.json",
   "description": "Follow Apple, a tracked company, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-13T20:55:54.181Z",
+  "updatedAt": "2026-07-15T17:15:23.220Z",
   "aliases": [
     "Apple Inc"
   ],
   "changes": [
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Apple first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-07-13"
+    },
     {
       "title": "Developer ecosystem expanded",
       "summary": "Siri has been on the Apple Watch since day one, though I'm usually hard-pressed to find people who actually make good use of it. It's kind of just… been there - mostly as a way to set timers when my hands are full. But after playing around with the watchOS 27 developer beta, I get the sense that'll start to change. Not.",
@@ -27,13 +32,15 @@
       "title": "Developer ecosystem expanded",
       "summary": "Siri AI in iOS 27. iOS 27 escaped the developer world today with the launch of the first public beta. I've been testing the new operating system since early June, looking for quirks and seeing if it can live up to the hype Apple promised in the keynote. This year's iOS upgrades are what one might call a Snow Leopard up.",
       "date": "2026-07-13"
-    },
-    {
-      "title": "Discovered by Atlas",
-      "summary": "Apple first entered the public knowledge record with source-backed evidence.",
-      "date": "2026-07-13"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "OpenAI finally launches hardware… for Codex",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/965901/openai-hardware-codex-micro-launch?utm_source=lootura.com",
+      "publishedAt": "2026-07-15T16:00:00.000Z",
+      "sourceId": "lootura-us-the-verge"
+    }
+  ],
+  "evidenceCount": 1
 }

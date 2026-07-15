@@ -3,10 +3,16 @@
 > Sigue la actividad de Iran en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-15T06:12:14.832Z
+- Actualizado: 2026-07-15T17:14:56.110Z
 - Canonical: https://atlas.lootura.com/es/place/iran
 
 ## Cambios recientes
+
+### Trump amenaza con atacar infraestructuras civiles si Irán no vuelve a negociar
+
+Estados Unidos ha reimpuesto el bloqueo naval sobre los puertos iraníes y ha intensificado su campaña de bombardeos contra la república islámica, en una nueva escalada de ataques que amenaza con devolver a Oriente Próximo a una guerra abierta y que vuelve a situar el estrecho de Ormuz en el centro del enfrentamiento.La.
+
+Date: 2026-07-15
 
 ### Trump estrecha el cerco sobre Cuba con sanciones, bloqueo y amenaza militar
 
@@ -62,12 +68,6 @@ El presidente de Estados Unidos, Donald Trump , ha asegurado este lunes que su G
 
 Date: 2026-07-14
 
-### El plan de Israel para convertir al ex presidente Ahmadineyad en líder del Irán posayatolás, según el 'New York Times'
-
-El diario documenta reuniones del jefe del Mossad con Ahmadineyad en 2024 en lugares como Budapest y habla de "pagos en secreto para cubrir sus gastos de alojamiento y viajes", pero no sostiene que fuera un agente o informante Leer.
-
-Date: 2026-07-13
-
 ## Fuentes
 
-No public source links.
+- [Trump amenaza con atacar infraestructuras civiles si Irán no vuelve a negociar](https://www.abc.es/internacional/trump-amenaza-atacar-infraestructuras-civiles-iran-vuelve-20260715174230-nt.html?utm_source=lootura.com) — 2026-07-15T16:31:52.000Z

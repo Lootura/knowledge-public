@@ -3,26 +3,14 @@
 > Follow Iran, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-15T13:39:02.263Z
+- Updated: 2026-07-15T17:15:23.220Z
 - Canonical: https://atlas.lootura.com/us/place/iran
 
 ## Recent changes
 
-### Trump says he won't rule out sending ground troops to Iran
-
-President Trump told Fox News on Tuesday that he won't rule out a ground invasion of Iran. The comments come amid another round of U.S. strikes against Iranian targets. CBS News' Eleanor Watson reports.
-
-Date: 2026-07-15
-
 ### Morning news brief
 
 Acting Attorney General Todd Blanche to appear for confirmation hearing, U.S. restarts blockade against Iran amid standoff over the Strait of Hormuz, ICE suspends traffic stops after deadly shootings.
-
-Date: 2026-07-15
-
-### For Israel, the U.S.-Iran Hostilities Have Created an Uneasy Limbo
-
-Officials see a return to full-blown war as preferable to an agreement that fails to curb the threats Iran poses to Israel. Meanwhile, they wait.
 
 Date: 2026-07-15
 
@@ -32,17 +20,47 @@ The United States is escalating its attacks on Iran, striking military targets i
 
 Date: 2026-07-15
 
+### Son of couple jailed in Iran "desperately worried" as stepdad's sentence extended
+
+A man whose mother and stepfather are imprisoned in Iran tells CBS News "the hardest part is the uncertainty.".
+
+Date: 2026-07-15
+
+### House Republicans push for $95B for Iran war, election measures and farm aid
+
+House Republicans kicked off their plans for a third reconciliation bill for $90 billion in new money for the military during the Iran war and election-related measures.
+
+Date: 2026-07-15
+
+### U.S. reimposes blockade and steps up strikes as Iran threatens to halt all energy exports from the region
+
+Iranian officials said Wednesday that the American strikes hit an Iranian army barracks, killed at least seven troops and wounded more than 260 people across the country.
+
+Date: 2026-07-15
+
+### Giant Statue Mocking Trump's War in Iran Draws Attention in D.C.
+
+An "Iran War Participation Trophy" dedicated to President Donald Trump appears next to the MLK Jr. Memorial Bookstore in Washington, D.C. on July 13, 2026. —The Washington Post via Getty Images A golden statue titled the “Iran War Participation Trophy” is the latest piece of art to appear on the National Mall in Washin.
+
+Date: 2026-07-15
+
+### Trump says he won't rule out sending ground troops to Iran
+
+President Trump told Fox News on Tuesday that he won't rule out a ground invasion of Iran. The comments come amid another round of U.S. strikes against Iranian targets. CBS News' Eleanor Watson reports.
+
+Date: 2026-07-15
+
+### For Israel, the U.S.-Iran Hostilities Have Created an Uneasy Limbo
+
+Officials see a return to full-blown war as preferable to an agreement that fails to curb the threats Iran poses to Israel. Meanwhile, they wait.
+
+Date: 2026-07-15
+
 ### U.S. and Iran standoff over the Strait of Hormuz intensifies
 
 threatened to block all oil exporting routes in the region on Wednesday in response to the U.S. maritime blockade of Iranian ports in the Strait of Hormuz. (Image credit: AFP via Getty Images).
 
 Date: 2026-07-15
-
-### Inflation slowed sharply -- but it may not last
-
-Annual inflation hit 3.5% in June, down from May's more than three-year high — but the resumption of the conflict with Iran threaten to push up inflation as energy costs once again spike. (Image credit: Brandon Bell).
-
-Date: 2026-07-14
 
 ### Senate Democrats Block Defense Bill Over War in Iran
 
@@ -50,30 +68,12 @@ The vote reflected how the political debate over the conflict in the Middle East
 
 Date: 2026-07-14
 
-### At War With Iran Again, Trump Finds an Opponent He Cannot Easily Dominate
-
-The president is accustomed to forcing other countries to bend to his will. But he is struggling to come up with a strategy to extract Iranian concessions as the cease-fire he brokered collapses.
-
-Date: 2026-07-14
-
-### ‘We Love Iraq,’ Trump Tells New Prime Minister in Oval Office Meeting
-
-The meeting comes as President Trump’s administration has been ratcheting up pressure on Baghdad to diminish Iran’s influence in Iraq.
-
-Date: 2026-07-14
-
-### At War With Iran Again, Trump Finds an Opponent He Cannot Easily Dominate
-
-The president is accustomed to forcing other countries to bend to his will. But he is struggling to come up with a strategy to extract Iranian concessions as the cease-fire he brokered collapses.
-
-Date: 2026-07-14
-
 ## Sources
 
-- [Trump says he won't rule out sending ground troops to Iran](https://www.cbsnews.com/video/trump-says-he-wont-rule-out-sending-ground-troops-to-iran/?utm_source=lootura.com) — 2026-07-15T00:48:43.000Z
+- [Son of couple jailed in Iran "desperately worried" as stepdad's sentence extended](https://www.cbsnews.com/news/iran-uk-lindsay-craig-foreman-prison-sentence-hunger-strike-son-worried/?utm_source=lootura.com) — 2026-07-15T16:52:30.000Z
 - [US Resumes Hormuz Blockade as Trump Threatens More Strikes](https://www.today.com/video/us-resumes-hormuz-blockade-as-trump-threatens-more-strikes-266707013862?utm_source=lootura.com) — 2026-07-15T11:21:18.000Z
-- [Inflation slowed sharply -- but it may not last](https://www.npr.org/2026/07/14/nx-s1-5893379/inflation-economy-consumer-prices-federal-reserve?utm_source=lootura.com) — 2026-07-14T14:40:20.000Z
+- [House Republicans push for $95B for Iran war, election measures and farm aid](https://www.nbcnews.com/politics/congress/house-republicans-push-90-billion-iran-war-election-measures-farm-aid-rcna587635?utm_source=lootura.com) — 2026-07-15T16:13:38.000Z
 - [Morning news brief](https://www.npr.org/2026/07/15/nx-s1-5891559/morning-news-brief?utm_source=lootura.com) — 2026-07-15T08:50:19.000Z
-- [U.S. and Iran standoff over the Strait of Hormuz intensifies](https://www.npr.org/2026/07/15/nx-s1-5894582/us-iran-updates?utm_source=lootura.com) — 2026-07-15T09:56:31.000Z
+- [U.S. reimposes blockade and steps up strikes as Iran threatens to halt all energy exports from the region](https://www.pbs.org/newshour/world/u-s-reimposes-blockade-and-steps-up-strikes-as-iran-threatens-to-halt-all-energy-exports-from-the-region?utm_source=lootura.com) — 2026-07-15T15:23:45.000Z
 - [Senate Democrats Block Defense Bill Over War in Iran](https://www.nytimes.com/2026/07/14/us/politics/senate-democrats-defense-bill.html?utm_source=lootura.com) — 2026-07-14T19:44:27.000Z
-- [For Israel, the U.S.-Iran Hostilities Have Created an Uneasy Limbo](https://www.nytimes.com/2026/07/15/world/middleeast/for-israel-the-us-iran-hostilities-have-created-an-uneasy-limbo.html?utm_source=lootura.com) — 2026-07-15T09:03:46.000Z
+- [Giant Statue Mocking Trump's War in Iran Draws Attention in D.C.](https://time.com/article/2026/07/15/giant-protest-statue-mocks-trump-iran-war-washington-dc/?utm_source=lootura.com) — 2026-07-15T15:38:17.000Z

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/reino-unido/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/reino-unido/index.json",
   "description": "Sigue la actividad de Reino Unido en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-15T13:38:34.657Z",
+  "updatedAt": "2026-07-15T17:14:56.110Z",
   "aliases": [],
   "changes": [
     {
@@ -29,6 +29,16 @@
     {
       "title": "El PP califica de «fraude» la aplicación provisional del acuerdo sobre Gibraltar",
       "summary": "El Partido Popular ha calificado de «fraude» la entrada en vigor del Tratado entre la Unión Europea y Reino Unido sobre Gibraltar , por el que ha entrado en vigor un sistema «sin ningún tipo de aprobación parlamentaria» y tampoco la del Parlamento Europeo. Así lo ha afirmado en un comunicado el partido liderado por Alb.",
+      "date": "2026-07-15"
+    },
+    {
+      "title": "Pedro Sánchez, tras la retirada de la Verja de Gibraltar, que ya es historia: \"Los conflictos no están para gestionarlos sino para resolverlos\"",
+      "summary": "El presidente del Gobierno asiste al acto simbólico de la eliminación de la frontera física junto al ministro principal del Peñón, el embajador del Reino Unido y los alcaldes de la comarca Leer.",
+      "date": "2026-07-15"
+    },
+    {
+      "title": "Begoña Gómez entrega al juez sus billetes de avión al Reino Unido y critica a Peinado por formular una exigencia \"materialmente imposible\"",
+      "summary": "Denuncia que el requerimiento es contrario a la presunción de inocencia y subraya que Reino Unido ha sustituido los sellos físicos por un sistema digital Leer.",
       "date": "2026-07-15"
     },
     {
@@ -54,9 +64,21 @@
   ],
   "sources": [
     {
+      "title": "Pedro Sánchez, tras la retirada de la Verja de Gibraltar, que ya es historia: \"Los conflictos no están para gestionarlos sino para resolverlos\"",
+      "url": "https://www.elmundo.es/andalucia/2026/07/15/6a576f46e9cf4a65338b4578.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-15T11:36:24.000Z",
+      "sourceId": "lootura-es-el-mundo"
+    },
+    {
+      "title": "Begoña Gómez entrega al juez sus billetes de avión al Reino Unido y critica a Peinado por formular una exigencia \"materialmente imposible\"",
+      "url": "https://www.elmundo.es/espana/2026/07/15/6a57963821efa0c20b8b456d.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-15T14:57:25.000Z",
+      "sourceId": "lootura-es-el-mundo"
+    },
+    {
       "title": "Begoña Gómez entrega al juez Peinado los billetes de su viaje a Londres para la graduación de su hija",
       "url": "https://elpais.com/espana/2026-07-15/begona-gomez-entrega-al-juez-peinado-los-billetes-de-su-viaje-a-londres.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-15T13:31:17.000Z",
+      "publishedAt": "2026-07-15T15:04:17.000Z",
       "sourceId": "lootura-es-el-pais"
     },
     {
@@ -72,5 +94,5 @@
       "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 5
 }

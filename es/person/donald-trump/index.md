@@ -3,10 +3,28 @@
 > Sigue la actividad de Donald Trump en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-15T06:12:14.832Z
+- Actualizado: 2026-07-15T17:14:56.110Z
 - Canonical: https://atlas.lootura.com/es/person/donald-trump
 
 ## Cambios recientes
+
+### Trump amenaza con atacar infraestructuras civiles si Irán no vuelve a negociar
+
+Estados Unidos ha reimpuesto el bloqueo naval sobre los puertos iraníes y ha intensificado su campaña de bombardeos contra la república islámica, en una nueva escalada de ataques que amenaza con devolver a Oriente Próximo a una guerra abierta y que vuelve a situar el estrecho de Ormuz en el centro del enfrentamiento.La.
+
+Date: 2026-07-15
+
+### La implacable transformación ejecutada por Jane Fraser en Citigroup
+
+El banco ha vendido activos, recortado puestos de trabajo y realizado contrataciones controvertidas, al tiempo que ha estrechado su relación con Trump. ¿Será suficiente para volver a situarse entre los grandes?
+
+Date: 2026-07-15
+
+### Estados Unidos acuñará una moneda de un dólar con la imagen de Trump
+
+El secretario del Tesoro de Estados Unidos, Scott Bessent, ha anunciado este miércoles que la Casa de la Moneda empezará a acuñar una moneda de un dólar con la imagen del presidente, Donald Trump , que conmemorará los 250 años de la declaración de independencia estadounidense. Bessent ha confirmado en un mensaje en red.
+
+Date: 2026-07-15
 
 ### Trump estrecha el cerco sobre Cuba con sanciones, bloqueo y amenaza militar
 
@@ -50,24 +68,8 @@ La espectacular escalada de precios de petróleo registrada este lunes, hasta su
 
 Date: 2026-07-14
 
-### El Ibex salva la jornada pese al pulso del petróleo
-
-El petróleo vuelve a ser protagonista. Los planes de Trump de cobrar un peaje del 20% por cruzar Ormuz han elevado de nuevo el precio del crudo. Las presiones inflacionistas aumentan en un día marcado por el IPC de EEUU, pero también por el inicio de los resultados y por la Fed. El Ibex espera novedades lastrado por el.
-
-Date: 2026-07-14
-
-### Trump da marcha atrás: no cobrará la tasa del 20% a los buques que transiten por Ormuz
-
-El presidente de Estados Unidos, Donald Trump , anunció este martes que finalmente no cobrará la tasa del 20% que había planteado por facilitar el tránsito de buques por el estrecho de Ormuz y aseguró que, en su lugar, los países del golfo Pérsico se comprometieron a invertir en Estados Unidos . «Tras conversaciones mu.
-
-Date: 2026-07-14
-
-### Trump paga 5,6 millones a la escritora Carroll tras ser condenado por abuso sexual y difamación
-
-El presidente de Estados Unidos, Donald Trump, ha pagado 5,6 millones de dólares a la escritora E. Jean Carroll después de que ganara en 2023 un caso civil por abuso sexual y difamación en su contra. El magnate todavía le debe otros 83 millones, derivados de un caso posterior, por difamarla.«Hace tres años, un jurado .
-
-Date: 2026-07-14
-
 ## Fuentes
 
-No public source links.
+- [Trump amenaza con atacar infraestructuras civiles si Irán no vuelve a negociar](https://www.abc.es/internacional/trump-amenaza-atacar-infraestructuras-civiles-iran-vuelve-20260715174230-nt.html?utm_source=lootura.com) — 2026-07-15T16:31:52.000Z
+- [La implacable transformación ejecutada por Jane Fraser en Citigroup](https://www.expansion.com/economia/financial-times/2026/07/15/6a578863468aeb38698b458b.html?utm_source=lootura.com) — 2026-07-15T16:11:06.000Z
+- [Estados Unidos acuñará una moneda de un dólar con la imagen de Trump](https://theobjective.com/internacional/2026-07-15/eeuu-moneda-dolar-trump/?utm_source=lootura.com) — 2026-07-15T16:00:10.000Z

@@ -3,7 +3,7 @@
 > Follow Erica Schwartz, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-07-15T13:39:02.263Z
+- Updated: 2026-07-15T17:15:23.220Z
 - Canonical: https://atlas.lootura.com/us/organization/erica-schwartz
 
 ## Recent changes
@@ -14,15 +14,21 @@ Trump's nominee faces the Senate health committee for her confirmation hearing o
 
 Date: 2026-07-15
 
+### Discovered by Atlas
+
+Erica Schwartz first entered the public knowledge record with source-backed evidence.
+
+Date: 2026-07-15
+
 ### Trump’s Latest Nominee for C.D.C. Director Will Face Senate Panel
 
 Dr. Erica Schwartz supports vaccines and is seen as a mainstream choice to lead an agency that has been a target of Health Secretary Robert F. Kennedy Jr.’s efforts to change federal immunization policies.
 
 Date: 2026-07-15
 
-### Discovered by Atlas
+### Trump’s Latest Nominee for C.D.C. Director Will Face Senate Panel
 
-Erica Schwartz first entered the public knowledge record with source-backed evidence.
+Dr. Erica Schwartz supports vaccines and is seen as a mainstream choice to lead an agency that has been a target of Health Secretary Robert F. Kennedy Jr.’s efforts to change federal immunization policies.
 
 Date: 2026-07-15
 

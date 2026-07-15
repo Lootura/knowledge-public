@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/china/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/china/index.json",
   "description": "Sigue la actividad de China en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-15T13:38:34.657Z",
+  "updatedAt": "2026-07-15T17:14:56.110Z",
   "aliases": [],
   "changes": [
     {
       "title": "China acelera su ofensiva comercial sobre Europa",
       "summary": "El gigante asiático bate un nuevo récord de exportaciones impulsado por los chips para la IA y los coches eléctricos, pero afronta una desaceleración del crecimiento que evidencia la debilidad del consumo interno Leer.",
+      "date": "2026-07-15"
+    },
+    {
+      "title": "El Ibex pierde los 19.300 puntos por las energéticas y los bancos",
+      "summary": "La minitregua en el petróleo, y el alivio ayer en el IPC de EEUU, no logran generalizar las subidas, más allá del rebote de las tecnológicas. El freno en el PIB de China y el tono agresivo de la Fed obstaculizan los avances. El Ibex vuelve a atascarse cerca de los 19.300 puntos de las últimas jornadas.",
       "date": "2026-07-15"
     },
     {
@@ -55,11 +60,6 @@
       "title": "Li Ping, experta en medicina china: «La lengua es el espejo del corazón»",
       "summary": "Dicen que nadie conoce mejor su cuerpo que uno mismo. Que podemos ir al médico porque nos duele o nos pasa algo, pero que es el propio paciente quien sabe a la perfección cómo reacciona su organismo. Y es que no todos padecemos o desarrollamos una enfermedad de igual forma. O incluso con síntomas comunes, cada individu.",
       "date": "2026-07-13"
-    },
-    {
-      "title": "El embajador de EE UU ante la ONU acusa a Cuba de contar con \"puestos de inteligencia\" de Rusia y China",
-      "summary": "El embajador de Estados Unidos ante Naciones Unidas, Mike Waltz, ha afirmado que Cuba supone \"una amenaza para su propio pueblo\" y también para la \"seguridad nacional\" estadounidense, alegando que acoge elementos de las inteligencias de Rusia y de China. \"El régimen cubano no solo representa una amenaza para su propio.",
-      "date": "2026-07-13"
     }
   ],
   "sources": [
@@ -70,9 +70,9 @@
       "sourceId": "lootura-es-el-mundo"
     },
     {
-      "title": "El Ibex vuelve a frenarse",
+      "title": "El Ibex pierde los 19.300 puntos por las energéticas y los bancos",
       "url": "https://www.expansion.com/mercados/cronica-bolsa/2026/07/15/6a571f27e5fdea9c048b4584.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-15T12:28:46.000Z",
+      "publishedAt": "2026-07-15T16:15:25.000Z",
       "sourceId": "lootura-es-expansion"
     }
   ],

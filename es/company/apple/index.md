@@ -70,4 +70,4 @@ Date: 2026-07-10
 
 ## Fuentes
 
-- [Anya Taylor Joy (‘Lucky’): «Me frustraba ver a hombres moralmente ambiguos y no a mujeres»](https://hipertextual.com/cine-television/anya-taylor-joy-lucky-me-frustraba-ver-a-hombres-moralmente-ambiguos-y-no-a-mujeres/?utm_source=lootura.com) — 2026-07-15T10:00:00.000Z
+No public source links.

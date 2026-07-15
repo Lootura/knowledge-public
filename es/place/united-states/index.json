@@ -8,13 +8,33 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/united-states/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/united-states/index.json",
   "description": "Sigue la actividad de Estados Unidos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-15T13:38:34.657Z",
+  "updatedAt": "2026-07-15T17:14:56.110Z",
   "aliases": [
     "America",
     "Estados Unidos",
     "U.S."
   ],
   "changes": [
+    {
+      "title": "Bank of America enfría su visión sobre BBVA y Unicaja a las puertas de los resultados",
+      "summary": "Bancos centrales, tensiones energéticas, dudas sobre el sector tecnológico, indicadores macroeconómicos... La lista de asuntos que vigilan los inversores no deja de crecer. A partir de la próxima semana se añadirá uno más: la temporada de resultados. Mientras los mercados intentan descifrar las intenciones del presiden.",
+      "date": "2026-07-15"
+    },
+    {
+      "title": "Trump amenaza con atacar infraestructuras civiles si Irán no vuelve a negociar",
+      "summary": "Estados Unidos ha reimpuesto el bloqueo naval sobre los puertos iraníes y ha intensificado su campaña de bombardeos contra la república islámica, en una nueva escalada de ataques que amenaza con devolver a Oriente Próximo a una guerra abierta y que vuelve a situar el estrecho de Ormuz en el centro del enfrentamiento.La.",
+      "date": "2026-07-15"
+    },
+    {
+      "title": "ACS y el fondo GIP estrenan su alianza con un centro de datos en Texas",
+      "summary": "El grupo ACS y su socio financiero para el desarrollo de centros de datos, Global Infrastructure Partners (GIP) , tienen ya en pista de despegue un primer proyecto en común en Estados Unidos al asegurar un contrato a largo plazo con una de las grandes tecnológicas en su campus de Dallas-Fort Worth (Texas). Este hito co.",
+      "date": "2026-07-15"
+    },
+    {
+      "title": "Estados Unidos acuñará una moneda de un dólar con la imagen de Trump",
+      "summary": "El secretario del Tesoro de Estados Unidos, Scott Bessent, ha anunciado este miércoles que la Casa de la Moneda empezará a acuñar una moneda de un dólar con la imagen del presidente, Donald Trump , que conmemorará los 250 años de la declaración de independencia estadounidense. Bessent ha confirmado en un mensaje en red.",
+      "date": "2026-07-15"
+    },
     {
       "title": "Bank of America retira su consejo de compra sobre BBVA por Turquía",
       "summary": "La cotización de BBVA se inclina por los descensos en una jornada en la que el banco pierde un apoyo. Los analistas de Bank of America han revisado a la baja su recomendación sobre el valor del Ibex. La firma ha retirado su consejo de comprar . Su propuesta ahora se limita a mantener uan posición neutral en BBVA. Segui.",
@@ -23,11 +43,6 @@
     {
       "title": "EE.UU. quiere acabar con la noche: aprobados los satélites que convierten la noche en día reflejando la luz del sol",
       "summary": "La FCC de Estados Unidos acaba de aprobar el lanzamiento de nuevos satélites a nuestro cielo. Concretamente, los de Reflect Orbital , una compañía que cree en la posibilidad de iluminar la noche desde el espacio con diferentes objetivos . Las críticas no han tardado en llegar, aunque la comisión no las ha tenido en cue.",
-      "date": "2026-07-15"
-    },
-    {
-      "title": "Bank of America enfría su visión sobre BBVA y Unicaja a las puertas de los resultados",
-      "summary": "Bancos centrales, tensiones energéticas, dudas sobre el sector tecnológico, indicadores macroeconómicos... La lista de asuntos que vigilan los inversores no deja de crecer. A partir de la próxima semana se añadirá uno más: la temporada de resultados. Mientras los mercados intentan descifrar las intenciones del presiden.",
       "date": "2026-07-15"
     },
     {
@@ -49,24 +64,21 @@
       "title": "Trump paga 5,6 millones a la escritora Carroll tras ser condenado por abuso sexual y difamación",
       "summary": "El presidente de Estados Unidos, Donald Trump, ha pagado 5,6 millones de dólares a la escritora E. Jean Carroll después de que ganara en 2023 un caso civil por abuso sexual y difamación en su contra. El magnate todavía le debe otros 83 millones, derivados de un caso posterior, por difamarla.«Hace tres años, un jurado .",
       "date": "2026-07-14"
-    },
-    {
-      "title": "La inflación en Estados Unidos registró en junio el primer descenso mensual desde 2020",
-      "summary": "La inflación en Estados Unidos se moderó en junio, coincidiendo con el alto el fuego con Irán y la reapertura del estrecho de Ormuz. El índice de precios al consumo (IPC) se moderó hasta el 3,5% en junio, siete décimas menos que el 4,2% registrado en mayo, según el dato difundido este martes por la Oficina de Estadísti.",
-      "date": "2026-07-14"
-    },
-    {
-      "title": "Warsh asegura que “no tolerará” una inflación persistentemente elevada en Estados Unidos",
-      "summary": "Kevin Warsh es un tipo al que no le gustan las sorpresas. El presidente de la Reserva Federal está empeñado en no salirse del guion y repite un discurso en el que no deja margen para la interpretación. El responsable de la política monetaria de Estados Unidos ha comparecido este martes ante el comité de Servicios Finan.",
-      "date": "2026-07-14"
-    },
-    {
-      "title": "El Tesoro paga un 2,63% por las letras a nueve meses, el tipo más alto desde noviembre de 2024",
-      "summary": "A punto de cumplirse un mes desde la firma del memorándum de entendimiento que abrió un periodo de negociación entre Estados Unidos e Irán, las tensiones siguen sin remitir e incluso se han agravado . Los enfrentamientos entre ambas partes se han intensificado, la actividad en el estrecho de Ormuz vuelve a verse altera.",
-      "date": "2026-07-14"
     }
   ],
   "sources": [
+    {
+      "title": "Precios de locura para la final en Nueva York: las entradas más baratas superan los 6.000 euros",
+      "url": "https://www.20minutos.es/deportes/futbol/precios-locura-final-mundial-nueva-york-entradas-mas-baratas-superan-euros_7015108_0.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-15T16:23:17.000Z",
+      "sourceId": "lootura-es-20minutos"
+    },
+    {
+      "title": "Trump amenaza con atacar infraestructuras civiles si Irán no vuelve a negociar",
+      "url": "https://www.abc.es/internacional/trump-amenaza-atacar-infraestructuras-civiles-iran-vuelve-20260715174230-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-15T16:31:52.000Z",
+      "sourceId": "lootura-es-abc"
+    },
     {
       "title": "Bank of America enfría su visión sobre BBVA y Unicaja a las puertas de los resultados",
       "url": "https://cincodias.elpais.com/mercados-financieros/2026-07-15/bank-of-america-enfria-su-vision-sobre-bbva-y-unicaja-a-las-puertas-de-los-resultados.html?utm_source=lootura.com",
@@ -74,17 +86,17 @@
       "sourceId": "lootura-es-cinco-dias"
     },
     {
-      "title": "Bank of America retira su consejo de compra sobre BBVA por Turquía",
-      "url": "https://www.expansion.com/mercados/2026/07/15/6a57533be5fdeab7658b4592.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-15T10:10:30.000Z",
-      "sourceId": "lootura-es-expansion"
+      "title": "ACS y el fondo GIP estrenan su alianza con un centro de datos en Texas",
+      "url": "https://cincodias.elpais.com/companias/2026-07-15/acs-y-el-fondo-gip-estrenan-su-alianza-con-un-centro-de-datos-en-texas.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-15T14:34:55.000Z",
+      "sourceId": "lootura-es-cinco-dias"
     },
     {
-      "title": "EE.UU. quiere acabar con la noche: aprobados los satélites que convierten la noche en día reflejando la luz del sol",
-      "url": "https://hipertextual.com/actualidad/ee-uu-quiere-acabar-con-la-noche-aprobados-los-satelites-que-convierten-la-noche-en-dia-reflejando-la-luz-del-sol/?utm_source=lootura.com",
-      "publishedAt": "2026-07-15T09:41:59.000Z",
-      "sourceId": "lootura-es-hipertextual"
+      "title": "Estados Unidos acuñará una moneda de un dólar con la imagen de Trump",
+      "url": "https://theobjective.com/internacional/2026-07-15/eeuu-moneda-dolar-trump/?utm_source=lootura.com",
+      "publishedAt": "2026-07-15T16:00:10.000Z",
+      "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 4
 }

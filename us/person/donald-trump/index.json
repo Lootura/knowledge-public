@@ -8,23 +8,13 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/donald-trump/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/donald-trump/index.json",
   "description": "Follow Donald Trump, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-15T13:39:02.263Z",
+  "updatedAt": "2026-07-15T17:15:23.220Z",
   "aliases": [
     "President Donald Trump",
     "President Trump",
     "Trump"
   ],
   "changes": [
-    {
-      "title": "Trump says he won't rule out sending ground troops to Iran",
-      "summary": "President Trump told Fox News on Tuesday that he won't rule out a ground invasion of Iran. The comments come amid another round of U.S. strikes against Iranian targets. CBS News' Eleanor Watson reports.",
-      "date": "2026-07-15"
-    },
-    {
-      "title": "Flights grounded at D.C.-area airport due to security concerns for Iraqi leader",
-      "summary": "The Iraqi leader was in Washington to meet with President Trump.",
-      "date": "2026-07-15"
-    },
     {
       "title": "Trump will speak on elections in Thursday primetime address",
       "summary": "The speech comes as President Trump has escalated calls for Republicans to pass tighter federal voting rules for November's midterm elections. (Image credit: Julia Demaree Nikhinson).",
@@ -41,11 +31,6 @@
       "date": "2026-07-15"
     },
     {
-      "title": "Trump’s Latest Nominee for C.D.C. Director Will Face Senate Panel",
-      "summary": "Dr. Erica Schwartz supports vaccines and is seen as a mainstream choice to lead an agency that has been a target of Health Secretary Robert F. Kennedy Jr.’s efforts to change federal immunization policies.",
-      "date": "2026-07-15"
-    },
-    {
       "title": "Watch Live: Jay Clayton, Trump",
       "summary": "Clayton, currently the U.S. attorney for the Southern District of New York, is expected to succeed Bill Pulte, Trump.",
       "date": "2026-07-15"
@@ -56,17 +41,44 @@
       "date": "2026-07-15"
     },
     {
+      "title": "Trump's intelligence head pick Jay Clayton gives opening statement at Senate committee hearing",
+      "summary": "Trump's pick for director of national intelligence, Jay Clayton, addressed the Senate Intelligence Committee before his confirmation hearing on Tuesday.",
+      "date": "2026-07-15"
+    },
+    {
+      "title": "Sen. Whitehouse clashes with Todd Blanche over his relationship with Trump: \"It takes 2 to collude\"",
+      "summary": "Rhode Island Democratic Sen. Sheldon Whitehouse slammed Acting Attorney General Todd Blanche during his confirmation hearing over his relationship with President Trump, accusing the pair of colluding.",
+      "date": "2026-07-15"
+    },
+    {
       "title": "ICE Halts Most Vehicle Stops After Fatal Texas, Maine Shootings",
       "summary": "In the wake of two fatal ICE-involved shootings in less than a week, the Department of Homeland Security is now instructing agents to suspend most vehicle stops amid growing uproar. On Truth Social, President Donald Trump wrote, “We cannot give up one of ICE’s most important and effective crime fighting tools,” adding,.",
       "date": "2026-07-15"
     },
     {
-      "title": "E. Jean Carroll Receives $5.6 Million Payment From Trump in Civil Case",
-      "summary": "A federal jury found President Trump liable for sexually abusing and defaming Ms. Carroll. He exhausted his appeals last month, prompting a judge to order that the money be paid.",
-      "date": "2026-07-14"
+      "title": "ICE should continue traffic stops despite recent shootings, Trump says on social media",
+      "summary": "Trump wrote that \"we must be strong, tough and smart and we CANNOT give up one of ICE's most important and effective Crime Fighting tools, THE TRAFFIC STOP!\".",
+      "date": "2026-07-15"
+    },
+    {
+      "title": "White House overturns DHS halt to ICE traffic stops despite killings of two men",
+      "summary": "Move comes after Trump rebuked his own homeland security department and insisted ICE maintain policy The White House overturned a one-day old homeland security department (DHS) memo that said they would be halting traffic stops in the wake of recent stops that left two men killed in the space of a week on Wednesday mor.",
+      "date": "2026-07-15"
     }
   ],
   "sources": [
+    {
+      "title": "Watch: Lawmaker presses Blanche on his role in alleged Epstein files mishandlings",
+      "url": "https://www.cbsnews.com/video/watch-lawmaker-presses-blanche-on-his-role-in-epstein-files-mishandling-allegations/?utm_source=lootura.com",
+      "publishedAt": "2026-07-15T16:06:00.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
+    {
+      "title": "Trump's intelligence head pick Jay Clayton gives opening statement at Senate committee hearing",
+      "url": "https://www.cbsnews.com/video/trumps-intel-head-pick-jay-clayton-gives-opening-statement-at-senate-hearing/?utm_source=lootura.com",
+      "publishedAt": "2026-07-15T16:22:57.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
     {
       "title": "Watch Live: Jay Clayton, Trump",
       "url": "https://www.cbsnews.com/news/jay-clayton-trumps-dni-nominee-senate-confirmation-hearing/?utm_source=lootura.com",
@@ -74,28 +86,22 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "Trump says he won't rule out sending ground troops to Iran",
-      "url": "https://www.cbsnews.com/video/trump-says-he-wont-rule-out-sending-ground-troops-to-iran/?utm_source=lootura.com",
-      "publishedAt": "2026-07-15T00:48:43.000Z",
+      "title": "Sen. Whitehouse clashes with Todd Blanche over his relationship with Trump: \"It takes 2 to collude\"",
+      "url": "https://www.cbsnews.com/video/sen-whitehouse-clashes-with-todd-blanche-over-his-relationship-with-trump-it-takes-2-to-collude/?utm_source=lootura.com",
+      "publishedAt": "2026-07-15T16:51:25.000Z",
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "Flights grounded at D.C.-area airport due to security concerns for Iraqi leader",
-      "url": "https://www.cbsnews.com/news/washington-dca-flight-delays-iraq-pm-trump-security/?utm_source=lootura.com",
-      "publishedAt": "2026-07-15T04:23:07.000Z",
-      "sourceId": "lootura-us-cbs-news"
+      "title": "ICE Halts Most Vehicle Stops After Fatal Texas, Maine Shootings",
+      "url": "https://www.today.com/video/ice-halts-most-vehicle-stops-after-fatal-texas-maine-shootings-266708549768?utm_source=lootura.com",
+      "publishedAt": "2026-07-15T11:25:40.000Z",
+      "sourceId": "lootura-us-nbc-news"
     },
     {
       "title": "US Resumes Hormuz Blockade as Trump Threatens More Strikes",
       "url": "https://www.today.com/video/us-resumes-hormuz-blockade-as-trump-threatens-more-strikes-266707013862?utm_source=lootura.com",
       "publishedAt": "2026-07-15T11:21:18.000Z",
       "sourceId": "lootura-us-nbc-news"
-    },
-    {
-      "title": "ICE Halts Most Vehicle Stops After Fatal Texas, Maine Shootings",
-      "url": "https://www.today.com/video/ice-halts-most-vehicle-stops-after-fatal-texas-maine-shootings-266708549768?utm_source=lootura.com",
-      "publishedAt": "2026-07-15T11:25:40.000Z",
-      "sourceId": "lootura-us-nbc-news-politics"
     },
     {
       "title": "Trump will speak on elections in Thursday primetime address",
@@ -110,23 +116,17 @@
       "sourceId": "lootura-us-npr-politics"
     },
     {
-      "title": "E. Jean Carroll Receives $5.6 Million Payment From Trump in Civil Case",
-      "url": "https://www.nytimes.com/2026/07/14/nyregion/carroll-trump-settlement-million.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-14T18:58:25.000Z",
-      "sourceId": "lootura-us-the-new-york-times"
+      "title": "ICE should continue traffic stops despite recent shootings, Trump says on social media",
+      "url": "https://www.pbs.org/newshour/politics/ice-should-continue-traffic-stops-despite-recent-shootings-trump-on-social-media?utm_source=lootura.com",
+      "publishedAt": "2026-07-15T14:47:25.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
     },
     {
-      "title": "ICE Shootings Put Spotlight on Lack of Body Cameras",
-      "url": "https://www.nytimes.com/2026/07/14/us/politics/ice-body-cameras.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-14T21:55:35.000Z",
-      "sourceId": "lootura-us-the-new-york-times"
-    },
-    {
-      "title": "Todd Blanche Faces Crucial Hurdle Ahead of Confirmation as Attorney General",
-      "url": "https://www.nytimes.com/2026/07/15/us/politics/todd-blanche-attorney-general-confirmation-doj.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-15T13:16:59.000Z",
-      "sourceId": "lootura-us-the-new-york-times-politics"
+      "title": "White House overturns DHS halt to ICE traffic stops despite killings of two men",
+      "url": "https://www.theguardian.com/us-news/2026/jul/15/trump-ice-traffic-stops?utm_source=lootura.com",
+      "publishedAt": "2026-07-15T15:40:27.000Z",
+      "sourceId": "lootura-us-the-guardian-us"
     }
   ],
-  "evidenceCount": 11
+  "evidenceCount": 13
 }

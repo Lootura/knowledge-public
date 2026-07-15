@@ -3,7 +3,7 @@
 > Follow Artificial intelligence, a tracked topic, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: topic
-- Updated: 2026-07-15T13:39:02.263Z
+- Updated: 2026-07-15T17:15:23.220Z
 - Canonical: https://atlas.lootura.com/us/topic/artificial-intelligence
 
 ## Recent changes
@@ -32,6 +32,30 @@ There's growing backlash nationwide against AI data centers and now New York is 
 
 Date: 2026-07-15
 
+### The First Chatbot’s Multiple Personalities
+
+ELIZA is remembered as the world’s first AI star, a kindly therapist in chatbot form that gently probed users’ worries. Even its creator, Joseph Weizenbaum, was surprised by the warm reception given to his experiment in human-machine interaction. For some, it heralded an age of automated psychotherapy, while others bel.
+
+Date: 2026-07-15
+
+### Highly fragmented European wetlands with uneven restoration needs
+
+Nature, Published online: 15 July 2026; doi:10.1038/s41586-026-10760-9 Satellite imagery and machine learning used for the mapping of six seminatural open wetland types and land-use disturbance in European countries shows that wetlands are highly fragmented and have uneven restoration needs.
+
+Date: 2026-07-15
+
+### Sustainability reports: What 10 years of corporate data reveal—and conceal
+
+A new study finds that companies are increasingly disclosing climate data—yet coverage of value chains and social factors remains patchy. Using an AI-powered method, a team from LMU Munich and the University of Cologne analyzed 2.9 million sustainability indicators from 10 years of annual reports. They found that compa.
+
+Date: 2026-07-15
+
+### Bridging the gap: Connecting math and AI for discovery
+
+In science, researchers often focus their entire careers on the pursuit of one primary field.
+
+Date: 2026-07-15
+
 ### Product availability changed in Europe
 
 AI is a fast-growing business expense. Some companies are cutting costs by switching to cheaper Chinese AI models. (Image credit: Imen Ben Youssef/Hans Lucas).
@@ -44,35 +68,14 @@ Generative AI chatbots capable of writing emails and computer code, translating,
 
 Date: 2026-07-15
 
-### How do young people feel about AI? 7 teens weigh in
-
-What's it like to grow up and learn in the age of AI? NPR put that question to seven teenagers across the country.
-
-Date: 2026-07-14
-
-### More than 50% of Australian university assignments used AI. How should universities respond?
-
-Last week, the U.S. software company Turnitin revealed 53.6% of Australian tertiary education submissions run through its system used some form of AI in the period from October 2025–April 2026. The company, whose plagiarism-detection technology is widely used in universities, also reported 10% of these submissions cont.
-
-Date: 2026-07-14
-
-### Does AI work for us, or do we work for AI?
-
-Science, Volume 393, Issue 6807 , Page 152-152, July 2026.
-
-Date: 2026-07-14
-
-### SpaceXAI’s Grok programming tool was uploading its users’ entire codebase to cloud storage
-
-SpaceXAI's Grok Build AI coding tool was spotted uploading users' entire codebases to Google Cloud before it was reported, and the company turned it off. The Register reports that Cereblab published findings on Monday showing how the Grok Build CLI was packaging and uploading entire code repositories, "including files.
-
-Date: 2026-07-14
-
 ## Sources
 
-- [Anthropic launches "Claude for Teachers," giving educators a year of free access to AI tools](https://www.cbsnews.com/video/anthropic-launches-claude-for-teachers/?utm_source=lootura.com) — 2026-07-15T02:17:48.000Z
 - [26 Meta workers sue over alleged AI-aided layoffs targeting employees on medical or family leave](https://www.cbsnews.com/news/26-meta-workers-sue-ai-aided-layoffs-medical-family-leave/?utm_source=lootura.com) — 2026-07-15T09:45:00.000Z
 - [Battle against data centers grows nationwide amid concerns over electricity, water usage](https://www.cbsnews.com/video/battle-against-data-centers-grows-nationwide/?utm_source=lootura.com) — 2026-07-15T13:28:19.000Z
+- [The First Chatbot’s Multiple Personalities](https://spectrum.ieee.org/eliza-chatbot-source-code?utm_source=lootura.com) — 2026-07-15T15:35:53.000Z
+- [Highly fragmented European wetlands with uneven restoration needs](https://www.nature.com/articles/s41586-026-10760-9?utm_source=lootura.com) — 2026-07-15T17:15:28.038Z
 - [How do young people feel about AI? 7 teens weigh in](https://www.npr.org/2026/07/14/nx-s1-5863025/teens-artificial-intelligence-ai-school?utm_source=lootura.com) — 2026-07-14T20:00:00.000Z
 - [Google's AI search features pose 'unacceptable risk' to children, new report finds](https://www.pbs.org/newshour/nation/googles-ai-search-features-pose-unacceptable-risk-to-children-new-report-finds?utm_source=lootura.com) — 2026-07-15T09:00:00.000Z
-- [Does AI work for us, or do we work for AI?](https://www.science.org/doi/abs/10.1126/science.aei9754?af=R&utm_source=lootura.com) — 2026-07-15T13:39:06.568Z
+- [Sustainability reports: What 10 years of corporate data reveal—and conceal](https://phys.org/news/2026-07-sustainability-years-corporate-reveal-conceal.html?utm_source=lootura.com) — 2026-07-15T15:40:03.000Z
+- [Bridging the gap: Connecting math and AI for discovery](https://phys.org/news/2026-07-bridging-gap-math-ai-discovery.html?utm_source=lootura.com) — 2026-07-15T17:00:12.000Z
+- [Does AI work for us, or do we work for AI?](https://www.science.org/doi/abs/10.1126/science.aei9754?af=R&utm_source=lootura.com) — 2026-07-15T17:15:28.515Z

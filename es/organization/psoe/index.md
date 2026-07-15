@@ -3,22 +3,10 @@
 > Sigue la actividad de Partido Socialista Obrero Español en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-15T13:38:34.657Z
+- Actualizado: 2026-07-15T17:14:56.110Z
 - Canonical: https://atlas.lootura.com/es/organization/psoe
 
 ## Cambios recientes
-
-### Villafañe reconoce que informó a García Ortiz sobre las reuniones con Leire Díez y Jacobo Teijelo
-
-Diego Villafañe, mano derecha del exfiscal general del Estado, Álvaro García Ortiz , ha reconocido que se reunió dos veces la primavera del año pasado en la sede de la Fiscalía General del Estado con Leire Díez y Jacobo Teijelo, abogado del exsecretario de Organización del PSOE Santos Cerdán, investigado junto a la pri.
-
-Date: 2026-07-15
-
-### CIS de Tezanos | El PSOE engorda con los casos judiciales y amplía la ventaja sobre el PP a casi 8 puntos
-
-El PSOE recupera posiciones en el CIS de Tezanos . Los socialistas avanzan 1,7 puntos en el primer barómetro desde que se conocieran las condenas a José Luis Ábalos y Koldo García en el denominado caso mascarillas y apenas 24 horas después de que la Audiencia Provincial de Badajoz condenara a David Sánchez , hermano de.
-
-Date: 2026-07-15
 
 ### Feijóo eleva al máximo su crítica a Sánchez tras la condena de su hermano y lo llama "presidente autoritario"
 
@@ -35,6 +23,18 @@ Date: 2026-07-15
 ### El CIS de Tezanos remonta al PSOE y le da una ventaja de casi ocho puntos sobre el PP en el mes de la condena a Ábalos
 
 Feijóo cae dos puntos en porcentaje de voto y Abascal también retrocede ligeramente Leer.
+
+Date: 2026-07-15
+
+### La presidenta del PSOE asegura al juez que hay «indicios preocupantes» sobre Leire Díez
+
+La presidenta del PSOE, Cristina Narbona , ha declarado este miércoles ante el juez Santiago Pedraz que instruye el caso Leire Díez en la Audiencia Nacional que hay «indicios preocupantes» sobre la actuación de la exmilitante del partido, aunque al ser repreguntada no ha ahondado en el asunto, según fuentes jurídicas p.
+
+Date: 2026-07-15
+
+### CIS de Tezanos | El PSOE engorda con los casos judiciales y amplía la ventaja sobre el PP a casi 8 puntos
+
+El PSOE recupera posiciones en el CIS de Tezanos . Los socialistas avanzan 1,7 puntos en el primer barómetro desde que se conocieran las condenas a José Luis Ábalos y Koldo García en el denominado caso mascarillas y apenas 24 horas después de que la Audiencia Provincial de Badajoz condenara a David Sánchez , hermano de.
 
 Date: 2026-07-15
 
@@ -70,8 +70,7 @@ Date: 2026-07-14
 
 ## Fuentes
 
-- [Villafañe reconoce que informó a García Ortiz sobre las reuniones con Leire Díez y Jacobo Teijelo](https://www.abc.es/espana/garcia-ortiz-vio-villafane-lopez-salida-reunion-20260715130231-nt.html?utm_source=lootura.com) — 2026-07-15T12:45:34.000Z
-- [CIS de Tezanos | El PSOE engorda con los casos judiciales y amplía la ventaja sobre el PP a casi 8 puntos](https://www.elconfidencial.com/espana/2026-07-15/psoe-engorda-casos-judiciales-amplia-ventaja-sobre-pp-cis_4390347/?utm_source=lootura.com) — 2026-07-15T10:37:00.000Z
+- [La presidenta del PSOE asegura al juez que hay «indicios preocupantes» sobre Leire Díez](https://www.abc.es/espana/narbona-asegura-indicios-preocupantes-sobre-leire-diez-20260715121708-nt.html?utm_source=lootura.com) — 2026-07-15T16:05:43.000Z
 - [Feijóo eleva al máximo su crítica a Sánchez tras la condena de su hermano y lo llama "presidente autoritario"](https://www.elmundo.es/espana/2026/07/15/6a5765cffc6c83df118b4582.html?utm_source=lootura.com) — 2026-07-15T10:50:27.000Z
 - [La mano derecha de García Ortiz admite que contó la reunión con la 'fontanera' del PSOE al ex fiscal general pero asegura que no le dio importancia](https://www.elmundo.es/espana/2026/07/15/6a577004e9cf4a42658b4588.html?utm_source=lootura.com) — 2026-07-15T12:20:44.000Z
 - [El CIS de Tezanos remonta al PSOE y le da una ventaja de casi ocho puntos sobre el PP en el mes de la condena a Ábalos](https://www.elmundo.es/espana/2026/07/15/6a574fee21efa0e10d8b4582.html?utm_source=lootura.com) — 2026-07-15T10:40:39.000Z

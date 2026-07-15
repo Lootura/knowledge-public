@@ -3,20 +3,26 @@
 > Sigue la actividad de Audiencia Provincial en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-15T13:38:34.657Z
+- Actualizado: 2026-07-15T17:14:56.110Z
 - Canonical: https://atlas.lootura.com/es/person/audiencia-provincial
 
 ## Cambios recientes
 
-### CIS de Tezanos | El PSOE engorda con los casos judiciales y amplía la ventaja sobre el PP a casi 8 puntos
-
-El PSOE recupera posiciones en el CIS de Tezanos . Los socialistas avanzan 1,7 puntos en el primer barómetro desde que se conocieran las condenas a José Luis Ábalos y Koldo García en el denominado caso mascarillas y apenas 24 horas después de que la Audiencia Provincial de Badajoz condenara a David Sánchez , hermano de.
-
-Date: 2026-07-15
-
 ### Almeida reprocha al «delincuente» hermano de Sánchez su «golfada y deshonestidad»
 
 El alcalde de Madrid, José Luis Martínez-Almeida (PP), ha reprochado al «delincuente» hermano del presidente del Gobierno, Pedro Sánchez , por su «golfada y deshonestidad» después de que la Audiencia Provincial de Badajoz haya condenado a David Sánchez Pérez-Castejón a la pena de inhabilitación especial para empleo o c.
+
+Date: 2026-07-15
+
+### El fiscal, al juez Peinado: "Las medidas cautelares contra Begoña Gómez son injustificadas, desproporcionadas e innecesarias"
+
+Afea al juez que se creyera el bulo de "ciertos medios" de que la esposa de Pedro Sánchez tiene pasaporte dominicano Begoña Gómez recurre la decisión de Peinado de retirarle el pasaporte y cree que su frase sobre la escolta es especulativa El fiscal José Manuel San Baldomero ha informado a la Audiencia Provincial de Ma.
+
+Date: 2026-07-15
+
+### CIS de Tezanos | El PSOE engorda con los casos judiciales y amplía la ventaja sobre el PP a casi 8 puntos
+
+El PSOE recupera posiciones en el CIS de Tezanos . Los socialistas avanzan 1,7 puntos en el primer barómetro desde que se conocieran las condenas a José Luis Ábalos y Koldo García en el denominado caso mascarillas y apenas 24 horas después de que la Audiencia Provincial de Badajoz condenara a David Sánchez , hermano de.
 
 Date: 2026-07-15
 
@@ -52,5 +58,5 @@ Date: 2026-07-14
 
 ## Fuentes
 
-- [CIS de Tezanos | El PSOE engorda con los casos judiciales y amplía la ventaja sobre el PP a casi 8 puntos](https://www.elconfidencial.com/espana/2026-07-15/psoe-engorda-casos-judiciales-amplia-ventaja-sobre-pp-cis_4390347/?utm_source=lootura.com) — 2026-07-15T10:37:00.000Z
+- [El fiscal, al juez Peinado: "Las medidas cautelares contra Begoña Gómez son injustificadas, desproporcionadas e innecesarias"](https://www.eldiario.es/politica/fiscal-juez-peinado-medidas-cautelares-begona-gomez-son-injustificadas-desproporcionadas-e-innecesarias_1_13383138.html?utm_source=lootura.com) — 2026-07-15T16:18:54.000Z
 - [Almeida reprocha al «delincuente» hermano de Sánchez su «golfada y deshonestidad»](https://theobjective.com/espana/politica/2026-07-15/almeida-delincuente-hermano-sanchez-golfada-deshonestidad/?utm_source=lootura.com) — 2026-07-15T12:06:32.000Z

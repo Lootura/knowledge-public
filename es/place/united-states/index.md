@@ -3,10 +3,34 @@
 > Sigue la actividad de Estados Unidos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-15T13:38:34.657Z
+- Actualizado: 2026-07-15T17:14:56.110Z
 - Canonical: https://atlas.lootura.com/es/place/united-states
 
 ## Cambios recientes
+
+### Bank of America enfría su visión sobre BBVA y Unicaja a las puertas de los resultados
+
+Bancos centrales, tensiones energéticas, dudas sobre el sector tecnológico, indicadores macroeconómicos... La lista de asuntos que vigilan los inversores no deja de crecer. A partir de la próxima semana se añadirá uno más: la temporada de resultados. Mientras los mercados intentan descifrar las intenciones del presiden.
+
+Date: 2026-07-15
+
+### Trump amenaza con atacar infraestructuras civiles si Irán no vuelve a negociar
+
+Estados Unidos ha reimpuesto el bloqueo naval sobre los puertos iraníes y ha intensificado su campaña de bombardeos contra la república islámica, en una nueva escalada de ataques que amenaza con devolver a Oriente Próximo a una guerra abierta y que vuelve a situar el estrecho de Ormuz en el centro del enfrentamiento.La.
+
+Date: 2026-07-15
+
+### ACS y el fondo GIP estrenan su alianza con un centro de datos en Texas
+
+El grupo ACS y su socio financiero para el desarrollo de centros de datos, Global Infrastructure Partners (GIP) , tienen ya en pista de despegue un primer proyecto en común en Estados Unidos al asegurar un contrato a largo plazo con una de las grandes tecnológicas en su campus de Dallas-Fort Worth (Texas). Este hito co.
+
+Date: 2026-07-15
+
+### Estados Unidos acuñará una moneda de un dólar con la imagen de Trump
+
+El secretario del Tesoro de Estados Unidos, Scott Bessent, ha anunciado este miércoles que la Casa de la Moneda empezará a acuñar una moneda de un dólar con la imagen del presidente, Donald Trump , que conmemorará los 250 años de la declaración de independencia estadounidense. Bessent ha confirmado en un mensaje en red.
+
+Date: 2026-07-15
 
 ### Bank of America retira su consejo de compra sobre BBVA por Turquía
 
@@ -17,12 +41,6 @@ Date: 2026-07-15
 ### EE.UU. quiere acabar con la noche: aprobados los satélites que convierten la noche en día reflejando la luz del sol
 
 La FCC de Estados Unidos acaba de aprobar el lanzamiento de nuevos satélites a nuestro cielo. Concretamente, los de Reflect Orbital , una compañía que cree en la posibilidad de iluminar la noche desde el espacio con diferentes objetivos . Las críticas no han tardado en llegar, aunque la comisión no las ha tenido en cue.
-
-Date: 2026-07-15
-
-### Bank of America enfría su visión sobre BBVA y Unicaja a las puertas de los resultados
-
-Bancos centrales, tensiones energéticas, dudas sobre el sector tecnológico, indicadores macroeconómicos... La lista de asuntos que vigilan los inversores no deja de crecer. A partir de la próxima semana se añadirá uno más: la temporada de resultados. Mientras los mercados intentan descifrar las intenciones del presiden.
 
 Date: 2026-07-15
 
@@ -50,26 +68,10 @@ El presidente de Estados Unidos, Donald Trump, ha pagado 5,6 millones de dólare
 
 Date: 2026-07-14
 
-### La inflación en Estados Unidos registró en junio el primer descenso mensual desde 2020
-
-La inflación en Estados Unidos se moderó en junio, coincidiendo con el alto el fuego con Irán y la reapertura del estrecho de Ormuz. El índice de precios al consumo (IPC) se moderó hasta el 3,5% en junio, siete décimas menos que el 4,2% registrado en mayo, según el dato difundido este martes por la Oficina de Estadísti.
-
-Date: 2026-07-14
-
-### Warsh asegura que “no tolerará” una inflación persistentemente elevada en Estados Unidos
-
-Kevin Warsh es un tipo al que no le gustan las sorpresas. El presidente de la Reserva Federal está empeñado en no salirse del guion y repite un discurso en el que no deja margen para la interpretación. El responsable de la política monetaria de Estados Unidos ha comparecido este martes ante el comité de Servicios Finan.
-
-Date: 2026-07-14
-
-### El Tesoro paga un 2,63% por las letras a nueve meses, el tipo más alto desde noviembre de 2024
-
-A punto de cumplirse un mes desde la firma del memorándum de entendimiento que abrió un periodo de negociación entre Estados Unidos e Irán, las tensiones siguen sin remitir e incluso se han agravado . Los enfrentamientos entre ambas partes se han intensificado, la actividad en el estrecho de Ormuz vuelve a verse altera.
-
-Date: 2026-07-14
-
 ## Fuentes
 
+- [Precios de locura para la final en Nueva York: las entradas más baratas superan los 6.000 euros](https://www.20minutos.es/deportes/futbol/precios-locura-final-mundial-nueva-york-entradas-mas-baratas-superan-euros_7015108_0.html?utm_source=lootura.com) — 2026-07-15T16:23:17.000Z
+- [Trump amenaza con atacar infraestructuras civiles si Irán no vuelve a negociar](https://www.abc.es/internacional/trump-amenaza-atacar-infraestructuras-civiles-iran-vuelve-20260715174230-nt.html?utm_source=lootura.com) — 2026-07-15T16:31:52.000Z
 - [Bank of America enfría su visión sobre BBVA y Unicaja a las puertas de los resultados](https://cincodias.elpais.com/mercados-financieros/2026-07-15/bank-of-america-enfria-su-vision-sobre-bbva-y-unicaja-a-las-puertas-de-los-resultados.html?utm_source=lootura.com) — 2026-07-15T12:07:36.000Z
-- [Bank of America retira su consejo de compra sobre BBVA por Turquía](https://www.expansion.com/mercados/2026/07/15/6a57533be5fdeab7658b4592.html?utm_source=lootura.com) — 2026-07-15T10:10:30.000Z
-- [EE.UU. quiere acabar con la noche: aprobados los satélites que convierten la noche en día reflejando la luz del sol](https://hipertextual.com/actualidad/ee-uu-quiere-acabar-con-la-noche-aprobados-los-satelites-que-convierten-la-noche-en-dia-reflejando-la-luz-del-sol/?utm_source=lootura.com) — 2026-07-15T09:41:59.000Z
+- [ACS y el fondo GIP estrenan su alianza con un centro de datos en Texas](https://cincodias.elpais.com/companias/2026-07-15/acs-y-el-fondo-gip-estrenan-su-alianza-con-un-centro-de-datos-en-texas.html?utm_source=lootura.com) — 2026-07-15T14:34:55.000Z
+- [Estados Unidos acuñará una moneda de un dólar con la imagen de Trump](https://theobjective.com/internacional/2026-07-15/eeuu-moneda-dolar-trump/?utm_source=lootura.com) — 2026-07-15T16:00:10.000Z

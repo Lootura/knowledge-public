@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/united-states/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/united-states/index.json",
   "description": "Follow United States, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-15T13:39:02.263Z",
+  "updatedAt": "2026-07-15T17:15:23.220Z",
   "aliases": [
     "America",
     "Estados Unidos",
@@ -21,16 +21,6 @@
       "date": "2026-07-27"
     },
     {
-      "title": "Trump says he won't rule out sending ground troops to Iran",
-      "summary": "President Trump told Fox News on Tuesday that he won't rule out a ground invasion of Iran. The comments come amid another round of U.S. strikes against Iranian targets. CBS News' Eleanor Watson reports.",
-      "date": "2026-07-15"
-    },
-    {
-      "title": "After ICE fatally shot multiple people, officials speak out: \"We want them out\"",
-      "summary": "U.S. Immigration and Customs Enforcement officials shot and killed two men in the last week in Maine and in Texas. Maine's House speaker, a Houston prosecutor and a Minnesota attorney spoke with CBS News about the violence.",
-      "date": "2026-07-15"
-    },
-    {
       "title": "Morning news brief",
       "summary": "Acting Attorney General Todd Blanche to appear for confirmation hearing, U.S. restarts blockade against Iran amid standoff over the Strait of Hormuz, ICE suspends traffic stops after deadly shootings.",
       "date": "2026-07-15"
@@ -38,11 +28,6 @@
     {
       "title": "CDC director nominee Erica Schwartz faces Senate for confirmation hearing",
       "summary": "Trump's nominee faces the Senate health committee for her confirmation hearing on July 15. If confirmed, she will lead an agency dealing with workforce and leadership shortages and new layers of political review. (Image credit: U.S. Department of Health and Human Services).",
-      "date": "2026-07-15"
-    },
-    {
-      "title": "For Israel, the U.S.-Iran Hostilities Have Created an Uneasy Limbo",
-      "summary": "Officials see a return to full-blown war as preferable to an agreement that fails to curb the threats Iran poses to Israel. Meanwhile, they wait.",
       "date": "2026-07-15"
     },
     {
@@ -63,6 +48,21 @@
     {
       "title": "Wildfires expose millions in Midwest, Northeast to dangerous smoke",
       "summary": "Heavy smoke from several large wildfires blazing in Canada and Minnesota is expected to engulf large swaths of the Midwest and Northeast U.S. this week.",
+      "date": "2026-07-15"
+    },
+    {
+      "title": "US Resumes Hormuz Blockade as Trump Threatens More Strikes",
+      "summary": "The United States is escalating its attacks on Iran, striking military targets including coastal defense systems and missile and drone sites. It comes as President Donald Trump in an interview warned that the U.S. will begin striking civilian infrastructure including energy targets unless Iran agrees to negotiate. NBC’.",
+      "date": "2026-07-15"
+    },
+    {
+      "title": "Trump Flip-Flops on Strait of Hormuz Plan, and U.S. Cyclospora Outbreak Spreads",
+      "summary": "Plus, Chipotle is coming to Mexico.",
+      "date": "2026-07-15"
+    },
+    {
+      "title": "Jay Clayton Expected to Face Tough Questions in Confirmation Hearing",
+      "summary": "His nomination to lead the U.S. intelligence community comes as the White House pushes to use declassified intelligence to show concerns about election security.",
       "date": "2026-07-15"
     }
   ],
@@ -86,21 +86,9 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "After ICE fatally shot multiple people, officials speak out: \"We want them out\"",
-      "url": "https://www.cbsnews.com/video/after-ice-fatally-shot-multiple-people-officials-speak-out/?utm_source=lootura.com",
-      "publishedAt": "2026-07-15T02:35:00.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
-    {
       "title": "Wildfires expose millions in Midwest, Northeast to dangerous smoke",
       "url": "https://www.cbsnews.com/news/wildfires-smoke-millions-exposed-midwest-northeast-us/?utm_source=lootura.com",
-      "publishedAt": "2026-07-15T13:23:51.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
-    {
-      "title": "Trump says he won't rule out sending ground troops to Iran",
-      "url": "https://www.cbsnews.com/video/trump-says-he-wont-rule-out-sending-ground-troops-to-iran/?utm_source=lootura.com",
-      "publishedAt": "2026-07-15T00:48:43.000Z",
+      "publishedAt": "2026-07-15T16:07:00.000Z",
       "sourceId": "lootura-us-cbs-news"
     },
     {
@@ -108,12 +96,6 @@
       "url": "https://www.today.com/video/us-resumes-hormuz-blockade-as-trump-threatens-more-strikes-266707013862?utm_source=lootura.com",
       "publishedAt": "2026-07-15T11:21:18.000Z",
       "sourceId": "lootura-us-nbc-news"
-    },
-    {
-      "title": "Some international artists are skipping U.S. tours. Others may follow suit",
-      "url": "https://www.npr.org/2026/07/14/nx-s1-5783845/visa-process-artists-us?utm_source=lootura.com",
-      "publishedAt": "2026-07-14T14:46:11.000Z",
-      "sourceId": "lootura-us-npr"
     },
     {
       "title": "Morning news brief",
@@ -126,7 +108,25 @@
       "url": "https://www.npr.org/2026/07/15/nx-s1-5892482/cdc-director-erica-schwartz-senate-confirmation-hearing?utm_source=lootura.com",
       "publishedAt": "2026-07-15T09:00:00.000Z",
       "sourceId": "lootura-us-npr-politics"
+    },
+    {
+      "title": "U.S. reimposes blockade and steps up strikes as Iran threatens to halt all energy exports from the region",
+      "url": "https://www.pbs.org/newshour/world/u-s-reimposes-blockade-and-steps-up-strikes-as-iran-threatens-to-halt-all-energy-exports-from-the-region?utm_source=lootura.com",
+      "publishedAt": "2026-07-15T15:23:45.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
+    },
+    {
+      "title": "Trump Flip-Flops on Strait of Hormuz Plan, and U.S. Cyclospora Outbreak Spreads",
+      "url": "https://www.nytimes.com/2026/07/15/podcasts/the-headlines/trump-trait-of-hormuz-plan-us-cyclospora-outbreak.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-15T10:00:15.000Z",
+      "sourceId": "lootura-us-the-new-york-times"
+    },
+    {
+      "title": "Cyclospora Cases Rise Rapidly, With No Source Yet Confirmed",
+      "url": "https://www.nytimes.com/2026/07/15/well/eat/cyclospora-outbreak-response.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-15T09:02:19.000Z",
+      "sourceId": "lootura-us-the-new-york-times"
     }
   ],
-  "evidenceCount": 18
+  "evidenceCount": 12
 }

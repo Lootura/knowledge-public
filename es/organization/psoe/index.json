@@ -8,22 +8,12 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/psoe/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/psoe/index.json",
   "description": "Sigue la actividad de Partido Socialista Obrero Español en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-15T13:38:34.657Z",
+  "updatedAt": "2026-07-15T17:14:56.110Z",
   "aliases": [
     "Partido Socialista",
     "Partido Socialista Obrero Español"
   ],
   "changes": [
-    {
-      "title": "Villafañe reconoce que informó a García Ortiz sobre las reuniones con Leire Díez y Jacobo Teijelo",
-      "summary": "Diego Villafañe, mano derecha del exfiscal general del Estado, Álvaro García Ortiz , ha reconocido que se reunió dos veces la primavera del año pasado en la sede de la Fiscalía General del Estado con Leire Díez y Jacobo Teijelo, abogado del exsecretario de Organización del PSOE Santos Cerdán, investigado junto a la pri.",
-      "date": "2026-07-15"
-    },
-    {
-      "title": "CIS de Tezanos | El PSOE engorda con los casos judiciales y amplía la ventaja sobre el PP a casi 8 puntos",
-      "summary": "El PSOE recupera posiciones en el CIS de Tezanos . Los socialistas avanzan 1,7 puntos en el primer barómetro desde que se conocieran las condenas a José Luis Ábalos y Koldo García en el denominado caso mascarillas y apenas 24 horas después de que la Audiencia Provincial de Badajoz condenara a David Sánchez , hermano de.",
-      "date": "2026-07-15"
-    },
     {
       "title": "Feijóo eleva al máximo su crítica a Sánchez tras la condena de su hermano y lo llama \"presidente autoritario\"",
       "summary": "En un foro con líderes europeos e hispanoamericanos, acusa al PSOE de \"agredir\" a la democracia \"desde las más altas instancias\" Leer.",
@@ -37,6 +27,16 @@
     {
       "title": "El CIS de Tezanos remonta al PSOE y le da una ventaja de casi ocho puntos sobre el PP en el mes de la condena a Ábalos",
       "summary": "Feijóo cae dos puntos en porcentaje de voto y Abascal también retrocede ligeramente Leer.",
+      "date": "2026-07-15"
+    },
+    {
+      "title": "La presidenta del PSOE asegura al juez que hay «indicios preocupantes» sobre Leire Díez",
+      "summary": "La presidenta del PSOE, Cristina Narbona , ha declarado este miércoles ante el juez Santiago Pedraz que instruye el caso Leire Díez en la Audiencia Nacional que hay «indicios preocupantes» sobre la actuación de la exmilitante del partido, aunque al ser repreguntada no ha ahondado en el asunto, según fuentes jurídicas p.",
+      "date": "2026-07-15"
+    },
+    {
+      "title": "CIS de Tezanos | El PSOE engorda con los casos judiciales y amplía la ventaja sobre el PP a casi 8 puntos",
+      "summary": "El PSOE recupera posiciones en el CIS de Tezanos . Los socialistas avanzan 1,7 puntos en el primer barómetro desde que se conocieran las condenas a José Luis Ábalos y Koldo García en el denominado caso mascarillas y apenas 24 horas después de que la Audiencia Provincial de Badajoz condenara a David Sánchez , hermano de.",
       "date": "2026-07-15"
     },
     {
@@ -67,16 +67,10 @@
   ],
   "sources": [
     {
-      "title": "Villafañe reconoce que informó a García Ortiz sobre las reuniones con Leire Díez y Jacobo Teijelo",
-      "url": "https://www.abc.es/espana/garcia-ortiz-vio-villafane-lopez-salida-reunion-20260715130231-nt.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-15T12:45:34.000Z",
+      "title": "La presidenta del PSOE asegura al juez que hay «indicios preocupantes» sobre Leire Díez",
+      "url": "https://www.abc.es/espana/narbona-asegura-indicios-preocupantes-sobre-leire-diez-20260715121708-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-15T16:05:43.000Z",
       "sourceId": "lootura-es-abc"
-    },
-    {
-      "title": "CIS de Tezanos | El PSOE engorda con los casos judiciales y amplía la ventaja sobre el PP a casi 8 puntos",
-      "url": "https://www.elconfidencial.com/espana/2026-07-15/psoe-engorda-casos-judiciales-amplia-ventaja-sobre-pp-cis_4390347/?utm_source=lootura.com",
-      "publishedAt": "2026-07-15T10:37:00.000Z",
-      "sourceId": "lootura-es-el-confidencial"
     },
     {
       "title": "Feijóo eleva al máximo su crítica a Sánchez tras la condena de su hermano y lo llama \"presidente autoritario\"",
@@ -97,5 +91,5 @@
       "sourceId": "lootura-es-el-mundo"
     }
   ],
-  "evidenceCount": 5
+  "evidenceCount": 4
 }
