@@ -37,19 +37,6 @@
       "date": "2026-07-14"
     }
   ],
-  "sources": [
-    {
-      "title": "La ruina política de Pedro Sánchez",
-      "url": "https://www.abc.es/opinion/editorial-ruina-politica-pedro-sanchez-20260714192549-nt.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-14T19:18:10.000Z",
-      "sourceId": "lootura-es-abc"
-    },
-    {
-      "title": "El Gobierno denuncia que lo pretenden “derribar” ante “la incapacidad de hacerlo por las urnas” tras la condena al hermano de Sánchez",
-      "url": "https://elpais.com/espana/2026-07-14/puente-denuncia-que-se-pretende-derribar-al-gobierno-ante-la-incapacidad-de-hacerlo-por-las-urnas-tras-la-condena-del-hermano-de-sanchez.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-14T11:26:47.000Z",
-      "sourceId": "lootura-es-el-pais"
-    }
-  ],
-  "evidenceCount": 2
+  "sources": [],
+  "evidenceCount": 0
 }

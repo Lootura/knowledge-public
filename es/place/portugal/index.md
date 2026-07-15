@@ -64,4 +64,4 @@ Date: 2026-07-09
 
 ## Fuentes
 
-- [Qué día es la final del Mundial 2026: fecha y hora exacta, dónde se juega y estadio](https://okdiario.com/mundial/que-dia-final-mundial-2026-fecha-exacta-donde-juega-estadio-18886473?utm_source=lootura.com) — 2026-07-14T20:17:45.000Z
+No public source links.

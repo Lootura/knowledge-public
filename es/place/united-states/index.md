@@ -3,10 +3,16 @@
 > Sigue la actividad de Estados Unidos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-14T20:58:20.799Z
+- Actualizado: 2026-07-15T02:11:09.495Z
 - Canonical: https://atlas.lootura.com/es/place/united-states
 
 ## Cambios recientes
+
+### EEUU restablece el bloqueo naval a Irán y lanza una nueva ola de bombardeos
+
+Las Fuerzas Armadas estadounidenses reimpusieron este martes el bloqueo naval a Irán en el estrecho de Ormuz , además de lanzar una nueva ola de bombardeos, según anunció el Comando Central del Ejército de Estados Unidos (Centcom). El organismo, con sede en Florida, expuso en un comunicado que el Ejército estadounidens.
+
+Date: 2026-07-14
 
 ### Trump da marcha atrás: sustituirá su peaje del 20% en Ormuz por acuerdos comerciales en el Golfo
 
@@ -23,12 +29,6 @@ Date: 2026-07-14
 ### Trump paga 5,6 millones a la escritora Carroll tras ser condenado por abuso sexual y difamación
 
 El presidente de Estados Unidos, Donald Trump, ha pagado 5,6 millones de dólares a la escritora E. Jean Carroll después de que ganara en 2023 un caso civil por abuso sexual y difamación en su contra. El magnate todavía le debe otros 83 millones, derivados de un caso posterior, por difamarla.«Hace tres años, un jurado .
-
-Date: 2026-07-14
-
-### EEUU restablece el bloqueo naval a Irán y lanza una nueva ola de bombardeos
-
-Las Fuerzas Armadas estadounidenses reimpusieron este martes el bloqueo naval a Irán en el estrecho de Ormuz , además de lanzar una nueva ola de bombardeos, según anunció el Comando Central del Ejército de Estados Unidos (Centcom). El organismo, con sede en Florida, expuso en un comunicado que el Ejército estadounidens.
 
 Date: 2026-07-14
 
@@ -70,8 +70,4 @@ Date: 2026-07-14
 
 ## Fuentes
 
-- [El Gobierno acude por primera vez a Estados Unidos para ver a España en el Mundial](https://www.eldebate.com/deportes/mundial-futbol-2026/20260714/gobierno-acude-primera-vez-estados-unidos-ver-espana-mundial_439693.html?utm_source=lootura.com) — 2026-07-14T17:41:40.000Z
-- [Trump da marcha atrás: sustituirá su peaje del 20% en Ormuz por acuerdos comerciales en el Golfo](https://www.expansion.com/economia/2026/07/14/6a5649a4468aeb7a408b459f.html?utm_source=lootura.com) — 2026-07-14T15:49:13.000Z
-- [Trump paga 5,6 millones a la escritora Carroll tras ser condenado por abuso sexual y difamación](https://okdiario.com/internacional/trump-paga-56-millones-escritora-carroll-ser-condenado-abuso-sexual-difamacion-18996513/amp?utm_source=lootura.com) — 2026-07-14T20:48:58.000Z
 - [EEUU restablece el bloqueo naval a Irán y lanza una nueva ola de bombardeos](https://theobjective.com/internacional/2026-07-14/eeuu-bloqueo-naval-bombardeo-iran/?utm_source=lootura.com) — 2026-07-14T20:40:14.000Z
-- [Trump da marcha atrás: no cobrará la tasa del 20% a los buques que transiten por Ormuz](https://theobjective.com/internacional/2026-07-14/trump-no-cobro-tasa-buques-ormuz/?utm_source=lootura.com) — 2026-07-14T16:02:06.000Z

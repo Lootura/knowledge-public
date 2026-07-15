@@ -28,5 +28,4 @@ Date: 2026-07-14
 
 ## Fuentes
 
-- [PP, Vox y Junts unen fuerzas para asestar un golpe al Gobierno y tumban el primer examen del Congreso al Presupuesto](https://www.eldiario.es/economia/pp-vox-junts-unen-fuerzas-asestar-golpe-gobierno-tumban-primer-examen-congreso-presupuesto_1_13379988.html?utm_source=lootura.com) — 2026-07-14T18:02:49.000Z
-- [Pleno "exprés" y por correo electrónico para abordar este jueves el Estatuto Marco](https://www.larazon.es/sociedad/pleno-expres-correo-electronico-abordar-este-jueves-estatuto-marco_202607146a563e95772f745d2c488bc9.html?utm_source=lootura.com) — 2026-07-14T17:10:14.000Z
+No public source links.

@@ -3,10 +3,16 @@
 > Follow Europe, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-14T20:58:39.119Z
+- Updated: 2026-07-15T02:11:36.851Z
 - Canonical: https://atlas.lootura.com/us/place/europe
 
 ## Recent changes
+
+### Report details ecological characterization of peatlands and coastal lagoons in EU
+
+A new synthesis report, titled "Ecological Characterisation of Peatlands and Coastal Lagoons in Europe," has been published to support the assessment, monitoring and restoration of European wetlands under EU environmental legislation. The report was prepared in response to a policy request submitted by the Directorate-.
+
+Date: 2026-07-15
 
 ### Europe, Flexing Muscle in Ukraine, Is Still on Sidelines in Iran
 
@@ -62,12 +68,6 @@ The blaze in Andalusia prompted a major containment operation. Heat waves across
 
 Date: 2026-07-10
 
-### Discovered by Atlas
-
-Europe first entered the public knowledge record with source-backed evidence.
-
-Date: 2026-07-09
-
 ## Sources
 
-- [Europe, Flexing Muscle in Ukraine, Is Still on Sidelines in Iran](https://www.nytimes.com/2026/07/14/world/europe/macron-trump-bastille-day-military-parade.html?utm_source=lootura.com) — 2026-07-14T19:17:56.000Z
+- [Report details ecological characterization of peatlands and coastal lagoons in EU](https://phys.org/news/2026-07-ecological-characterization-peatlands-coastal-lagoons.html?utm_source=lootura.com) — 2026-07-15T01:20:01.000Z

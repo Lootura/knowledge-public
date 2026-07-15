@@ -28,5 +28,4 @@ Date: 2026-07-14
 
 ## Sources
 
-- [Daily fragment: 2016 Nice truck attack](https://en.wikipedia.org/wiki/2016_Nice_truck_attack?utm_source=lootura.com) — 2026-07-14T04:00:00.000Z
-- [Europe, Flexing Muscle in Ukraine, Is Still on Sidelines in Iran](https://www.nytimes.com/2026/07/14/world/europe/macron-trump-bastille-day-military-parade.html?utm_source=lootura.com) — 2026-07-14T19:17:56.000Z
+No public source links.

@@ -8,11 +8,26 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/democratic-party/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/democratic-party/index.json",
   "description": "Follow Democratic Party, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-14T20:58:39.119Z",
+  "updatedAt": "2026-07-15T02:11:36.851Z",
   "aliases": [
     "Democrats"
   ],
   "changes": [
+    {
+      "title": "Maine Democrats criticize GOP Sen. Susan Collins after fatal ICE shooting of motorist in the state",
+      "summary": "A federal immigration agent fatally shot a motorist just south of Maine's largest city on Monday, the second time in a week that ICE has used deadly force on American soil and at least the ninth death since President Donald Trump began his immigration crackdown.",
+      "date": "2026-07-14"
+    },
+    {
+      "title": "Maine Democrats will square off in first Senate debate since Platner's withdrawal",
+      "summary": "The first debate on Thursday in Maine's flash Democratic primary may feature a crowded stage. Eight candidates to replace Graham Platner on the ballot have been invited to the debate in Portland, the organizer said Tuesday. News Center Maine, which is sponsoring the event, had initially invited three people who ran for.",
+      "date": "2026-07-14"
+    },
+    {
+      "title": "Senate Democrats Block Defense Bill Over War in Iran",
+      "summary": "The vote reflected how the political debate over the conflict in the Middle East has sapped bipartisan support for a normally popular measure.",
+      "date": "2026-07-14"
+    },
     {
       "title": "Funding milestone detected",
       "summary": "With the federal Medicaid work requirement looming in January, Democrats are considering state legislation to call out big companies that employ workers enrolled in the safety net health program.",
@@ -47,32 +62,17 @@
       "title": "Democratic Senate Candidates in Maine Denounce Deadly ICE Shooting",
       "summary": "The killing of a man in Biddeford quickly became an issue in the Senate race, with Democrats aiming to tie Senator Susan Collins to President Trump’s immigration crackdown.",
       "date": "2026-07-14"
-    },
-    {
-      "title": "Tamara Keith and Amy Walter on Lindsey Graham's passing",
-      "summary": "NPR's Tamara Keith and Amy Walter of the Cook Political Report with Amy Walter join Geoff Bennett to discuss the latest political news, including what the passing of Sen. Lindsey Graham means for South Carolina and the Senate, Sen. Mitch McConnell's health and Democrats scrambling to replace Graham Platner in the Maine.",
-      "date": "2026-07-13"
-    },
-    {
-      "title": "Mercurial and Magnetic, Lindsey Graham Was a Force in the Senate",
-      "summary": "The sharp-witted South Carolinian repaired relations with President Trump to advance his foreign policy goals, was willing to cut deals with Democrats and tried to insert himself into every legislative fight.",
-      "date": "2026-07-13"
-    },
-    {
-      "title": "Midwest becomes next theater in Democrats' progressive vs. moderate fight",
-      "summary": "August primaries in Michigan, Wisconsin and Minnesota will be another gauge of Democratic voters' frustration with the establishment.",
-      "date": "2026-07-13"
     }
   ],
   "sources": [
     {
-      "title": "Facing funding losses, states call out big businesses with employees on Medicaid",
-      "url": "https://www.cbsnews.com/news/medicaid-funding-work-requirement-states-walmart-amazon/?utm_source=lootura.com",
-      "publishedAt": "2026-07-14T09:00:15.000Z",
-      "sourceId": "lootura-us-cbs-news"
+      "title": "Maine Democrats criticize GOP Sen. Susan Collins after fatal ICE shooting of motorist in the state",
+      "url": "https://www.pbs.org/newshour/politics/maine-democrats-criticize-gop-sen-susan-collins-after-fatal-ice-shooting-of-motorist-in-the-state?utm_source=lootura.com",
+      "publishedAt": "2026-07-14T23:05:04.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
     },
     {
-      "title": "Maine Democrats will square off in Senate debate Thursday",
+      "title": "Maine Democrats will square off in first Senate debate since Platner's withdrawal",
       "url": "https://www.politico.com/news/2026/07/14/maine-democrats-senate-debate-platner-00997107?utm_source=lootura.com",
       "publishedAt": "2026-07-14T18:34:24.000Z",
       "sourceId": "lootura-us-politico"
@@ -80,21 +80,9 @@
     {
       "title": "Senate Democrats Block Defense Bill Over War in Iran",
       "url": "https://www.nytimes.com/2026/07/14/us/politics/senate-democrats-defense-bill.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-14T19:43:54.000Z",
-      "sourceId": "lootura-us-the-new-york-times"
-    },
-    {
-      "title": "Can Democrats Win Rural Voters Turning Away From Trump? It’s a Tough Sell.",
-      "url": "https://www.nytimes.com/2026/07/14/us/politics/rural-democrats-midterms.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-14T12:21:09.000Z",
-      "sourceId": "lootura-us-the-new-york-times-politics"
-    },
-    {
-      "title": "Red State, Blue Governor: It Could Happen in Iowa. Would It Matter?",
-      "url": "https://www.nytimes.com/2026/07/14/us/politics/republican-supermajority-iowa-ohio.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-14T09:02:27.000Z",
+      "publishedAt": "2026-07-14T19:44:27.000Z",
       "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 5
+  "evidenceCount": 3
 }

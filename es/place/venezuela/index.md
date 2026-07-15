@@ -3,20 +3,20 @@
 > Sigue la actividad de Venezuela en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-14T20:58:20.799Z
+- Actualizado: 2026-07-15T02:11:09.495Z
 - Canonical: https://atlas.lootura.com/es/place/venezuela
 
 ## Cambios recientes
 
-### Félix Plasencia, el hombre que negoció el deshielo con Washington y ahora dirige la diplomacia venezolana
-
-En febrero de este año, Félix Plasencia aterrizó en una capital donde Venezuela llevaba casi siete años sin representación oficial. Su encargo: reabrir los canales entre Caracas y Washington . En marzo lo consiguió. Ambos países retomaron relaciones . Este lunes, cinco meses después, lo llamaron de vuelta para dirigir.
-
-Date: 2026-07-14
-
 ### Nuevo balance de víctimas en Venezuela por el doble terremoto: 4.734 muertos
 
 La cifra de muertos por el doble terremoto ocurrido hace casi tres semanas en la zona norte de Venezuela ascendió este martes a 4.734, tras sumarse 173 nuevos fallecimientos, informó el presidente del Parlamento, el chavista Jorge Rodríguez. Las cifras de heridos y personas sin viviendas se mantienen en 16.740 y 17.907.
+
+Date: 2026-07-14
+
+### Félix Plasencia, el hombre que negoció el deshielo con Washington y ahora dirige la diplomacia venezolana
+
+En febrero de este año, Félix Plasencia aterrizó en una capital donde Venezuela llevaba casi siete años sin representación oficial. Su encargo: reabrir los canales entre Caracas y Washington . En marzo lo consiguió. Ambos países retomaron relaciones . Este lunes, cinco meses después, lo llamaron de vuelta para dirigir.
 
 Date: 2026-07-14
 
@@ -70,5 +70,4 @@ Date: 2026-07-11
 
 ## Fuentes
 
-- [Félix Plasencia, el hombre que negoció el deshielo con Washington y ahora dirige la diplomacia venezolana](https://www.abc.es/internacional/perfil-plasencia-20260714194502-nt.html?utm_source=lootura.com) — 2026-07-14T19:51:41.000Z
 - [Nuevo balance de víctimas en Venezuela por el doble terremoto: 4.734 muertos](https://theobjective.com/internacional/2026-07-14/nuevo-balance-victimas-venezuela/?utm_source=lootura.com) — 2026-07-14T20:08:59.000Z

@@ -40,4 +40,4 @@ Date: 2026-07-12
 
 ## Fuentes
 
-- [«Mantenemos la misma ilusión por ganar»](https://www.diariovasco.com/remo/liga-femenina/mantenemos-ilusion-ganar-20260714000156-nt_amp.html?utm_source=lootura.com) — 2026-07-13T22:02:10.000Z
+No public source links.

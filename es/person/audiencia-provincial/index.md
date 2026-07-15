@@ -40,5 +40,4 @@ Date: 2026-07-14
 
 ## Fuentes
 
-- [La ruina política de Pedro Sánchez](https://www.abc.es/opinion/editorial-ruina-politica-pedro-sanchez-20260714192549-nt.html?utm_source=lootura.com) — 2026-07-14T19:18:10.000Z
-- [El Gobierno denuncia que lo pretenden “derribar” ante “la incapacidad de hacerlo por las urnas” tras la condena al hermano de Sánchez](https://elpais.com/espana/2026-07-14/puente-denuncia-que-se-pretende-derribar-al-gobierno-ante-la-incapacidad-de-hacerlo-por-las-urnas-tras-la-condena-del-hermano-de-sanchez.html?utm_source=lootura.com) — 2026-07-14T11:26:47.000Z
+No public source links.

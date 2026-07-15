@@ -28,4 +28,4 @@ Date: 2026-07-13
 
 ## Sources
 
-- [Trump Sharply Cuts the Size of Two National Monuments in Utah](https://www.nytimes.com/2026/07/13/climate/trump-national-monuments-utah.html?utm_source=lootura.com) — 2026-07-13T23:32:55.000Z
+No public source links.

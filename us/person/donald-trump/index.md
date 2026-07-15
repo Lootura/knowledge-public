@@ -3,50 +3,20 @@
 > Follow Donald Trump, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-07-14T20:58:39.119Z
+- Updated: 2026-07-15T02:11:36.851Z
 - Canonical: https://atlas.lootura.com/us/person/donald-trump
 
 ## Recent changes
 
+### Trump says he won't rule out sending ground troops to Iran
+
+President Trump told Fox News on Tuesday that he won't rule out a ground invasion of Iran. The comments come amid another round of U.S. strikes against Iranian targets. CBS News' Eleanor Watson reports.
+
+Date: 2026-07-15
+
 ### Morning news brief
 
 Trump says the U.S. will collect tolls and impose blockade in the Strait of Hormuz, man killed by federal agents in Maine, states sue to stop Paramount-Warner Bros merger.
-
-Date: 2026-07-14
-
-### Trump's National Guard deployment in D.C. has been extended until 2029
-
-President Trump's deployment of the National Guard to Washington, D.C., has been extended several times. Now it's set to last until Inauguration Day 2029. (Image credit: Kevin Dietsch).
-
-Date: 2026-07-14
-
-### How a Promising Navy Drone Boat Program Got Mired in Politics
-
-Navy acquisition reforms upended a $2.1 billion contract competition. When it was over, several companies with ties to the Trump administration had made the cut.
-
-Date: 2026-07-14
-
-### Can Democrats Win Rural Voters Turning Away From Trump? It’s a Tough Sell.
-
-House candidates like Beth Macy, author of “Dopesick,” have crafted messages based on lifetimes in rural regions. But messages need an audience, and many minds are closed to the party.
-
-Date: 2026-07-14
-
-### Trump says he doesn't see a lot of "evil" in Lindsey Graham's death when asked about FBI probe
-
-President Trump took questions in the Oval Office and commented on an apparent FBI probe into Lindsey Graham's death, saying he doesn't see a lot of "evil" behind the sudden incident.
-
-Date: 2026-07-14
-
-### Shippers say Strait of Hormuz fee would open "dangerous Pandora's Box"
-
-Industry insiders say "there is no legal basis" for Trump to impose a 20% fee on cargo transiting the Strait of Hormuz, something he now says he's decided not to do.
-
-Date: 2026-07-14
-
-### Funding milestone detected
-
-President Donald Trump on Tuesday announced a reversal of plans to charge a 20% toll on cargo going through the Strait of Hormuz, saying that Middle Eastern countries will instead make investment and trade deals with the U.S.
 
 Date: 2026-07-14
 
@@ -68,15 +38,45 @@ The suspension is not absolute and there's room for exceptions when executing a 
 
 Date: 2026-07-14
 
+### ICE Ordered to Cease Most Vehicle Stops After Fatal Shootings in Maine and Houston
+
+Agents fatally shot a man in Houston and another in coastal Maine, both in their vehicles. The killings were the latest in a string of ICE shootings during President Trump’s second term.
+
+Date: 2026-07-14
+
+### Trump Paid $2 Million by South Korean Company Facing Trade Investigation
+
+The payment illustrates the minefield Mr. Trump has created by maintaining personal financial ties with foreign businesses while he is in office.
+
+Date: 2026-07-14
+
+### Trump’s Canceled Plan to Charge a Toll in the Strait of Hormuz: What to Know
+
+A day after President Trump announced a hefty 20 percent fee on cargo through the waterway, he reversed his decision.
+
+Date: 2026-07-14
+
+### Maine Democrats criticize GOP Sen. Susan Collins after fatal ICE shooting of motorist in the state
+
+A federal immigration agent fatally shot a motorist just south of Maine's largest city on Monday, the second time in a week that ICE has used deadly force on American soil and at least the ninth death since President Donald Trump began his immigration crackdown.
+
+Date: 2026-07-14
+
+### Inflation eased in June, but Americans still feel pressure from high prices
+
+A report shows inflation eased more than expected in June. It's welcome news for President Trump, who has made lowering prices a focus of his economic agenda. But months of higher-than-expected inflation have continued to squeeze many households and raised questions about when consumers will feel relief. Liz Landers re.
+
+Date: 2026-07-14
+
 ## Sources
 
-- [Trump says he doesn't see a lot of "evil" in Lindsey Graham's death when asked about FBI probe](https://www.cbsnews.com/video/trump-says-he-doesnt-see-a-lot-of-evil-in-lindsey-grahams-death-when-asked-about-fbi-probe/?utm_source=lootura.com) — 2026-07-14T16:34:36.000Z
-- [Shippers say Strait of Hormuz fee would open "dangerous Pandora's Box"](https://www.cbsnews.com/news/trump-strait-of-hormuz-fee-shipping-oil-gas-costs-legality-pandoras-box/?utm_source=lootura.com) — 2026-07-14T16:39:48.000Z
+- [Trump says he won't rule out sending ground troops to Iran](https://www.cbsnews.com/video/trump-says-he-wont-rule-out-sending-ground-troops-to-iran/?utm_source=lootura.com) — 2026-07-15T00:48:43.000Z
 - [Morning news brief](https://www.npr.org/2026/07/14/nx-s1-5891540/morning-news-brief?utm_source=lootura.com) — 2026-07-14T09:02:31.000Z
-- [Trump's National Guard deployment in D.C. has been extended until 2029](https://www.npr.org/2026/07/14/nx-s1-5892498/national-guard-deployment-dc-2029?utm_source=lootura.com) — 2026-07-14T09:00:00.000Z
+- [Maine Democrats criticize GOP Sen. Susan Collins after fatal ICE shooting of motorist in the state](https://www.pbs.org/newshour/politics/maine-democrats-criticize-gop-sen-susan-collins-after-fatal-ice-shooting-of-motorist-in-the-state?utm_source=lootura.com) — 2026-07-14T23:05:04.000Z
+- [Inflation eased in June, but Americans still feel pressure from high prices](https://www.pbs.org/newshour/show/inflation-eased-in-june-but-americans-still-feel-pressure-from-high-prices?utm_source=lootura.com) — 2026-07-14T22:40:47.000Z
 - [Trump administration orders ICE to suspend most vehicle stops after deadly shootings](https://www.pbs.org/newshour/politics/trump-administration-orders-ice-to-suspend-most-vehicle-stops-after-deadly-shootings?utm_source=lootura.com) — 2026-07-14T20:23:02.000Z
-- [Trump backs away from plans to charge fees in the Strait of Hormuz](https://www.pbs.org/newshour/world/trump-backs-away-from-plans-to-charge-fees-in-the-strait-of-hormuz?utm_source=lootura.com) — 2026-07-14T16:00:31.000Z
 - [ICE Ordered to Cease Most Vehicle Stops After Fatal Shootings in Maine and Houston](https://www.nytimes.com/2026/07/14/us/ice-agents-traffic-stops.html?utm_source=lootura.com) — 2026-07-14T17:02:07.000Z
-- [Trump’s Strait of Hormuz Fee Could Double the Cost of Shipping](https://www.nytimes.com/2026/07/13/business/trump-hormuz-shipping-fee.html?utm_source=lootura.com) — 2026-07-13T23:00:14.000Z
-- [Lindsey Graham’s Sister Appointed to Finish His Senate Term After Trump’s Backing](https://www.nytimes.com/2026/07/13/us/politics/trump-graham-sister-south-carolina-senate.html?utm_source=lootura.com) — 2026-07-13T23:27:44.000Z
 - [E. Jean Carroll Receives $5.6 Million Payment From Trump in Civil Case](https://www.nytimes.com/2026/07/14/nyregion/carroll-trump-settlement-million.html?utm_source=lootura.com) — 2026-07-14T18:58:25.000Z
+- [ICE Shootings Put Spotlight on Lack of Body Cameras](https://www.nytimes.com/2026/07/14/us/politics/ice-body-cameras.html?utm_source=lootura.com) — 2026-07-14T21:55:35.000Z
+- [Trump Paid $2 Million by South Korean Company Facing Trade Investigation](https://www.nytimes.com/2026/07/14/us/politics/trump-south-korea-aluminum.html?utm_source=lootura.com) — 2026-07-14T16:35:57.000Z
+- [Trump’s Canceled Plan to Charge a Toll in the Strait of Hormuz: What to Know](https://www.nytimes.com/2026/07/14/world/middleeast/trump-iran-strait-hormuz-toll-oil.html?utm_source=lootura.com) — 2026-07-14T19:25:33.000Z

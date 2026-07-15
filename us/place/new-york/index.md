@@ -3,20 +3,26 @@
 > Follow New York, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-14T20:58:39.119Z
+- Updated: 2026-07-15T02:11:36.851Z
 - Canonical: https://atlas.lootura.com/us/place/new-york
 
 ## Recent changes
 
-### N.Y. enacts nation's first statewide moratorium on building new data centers
-
-Building new data centers in New York will be paused for a year in order to allow state officials to establish guidelines protecting residents and the environment, Gov. Kathy Hochul said.
-
-Date: 2026-07-14
-
 ### Gov. Hochul orders a pause on data centers in New York for up to a year
 
 Gov. Kathy Hochul signed an order pausing construction of large data centers — the first statewide pause in the country.
+
+Date: 2026-07-14
+
+### News Wrap: Fed Chair Warsh pledges inflation will be 'thing of the past'
+
+In our news wrap Tuesday, Federal Reserve Chair Kevin Warsh told the House Financial Services Committee that inflation will be "a thing of the past," the CDC says there are now nearly 7,000 confirmed or suspected cases of cyclosporiasis nationwide and New York is now the first state to issue a moratorium on building ne.
+
+Date: 2026-07-14
+
+### N.Y. enacts nation's first statewide moratorium on building new data centers
+
+Building new data centers in New York will be paused for a year in order to allow state officials to establish guidelines protecting residents and the environment, Gov. Kathy Hochul said.
 
 Date: 2026-07-14
 
@@ -62,13 +68,7 @@ If a new effort to persuade voters to change New York City’s closed primary sy
 
 Date: 2026-07-13
 
-### My holiday from hell: blizzards, black ice, a broken-down bus – would I ever make it to New York?
-
-Flights were cancelled and we were told we’d be staying in Iceland for the night. But the hotel had no idea we were coming and people started screaming when I fell down, hard, on the ice A couple of days before I was due to take a trip to New York with my mum in February, the city was hit with the worst blizzard it had.
-
-Date: 2026-07-13
-
 ## Sources
 
-- [N.Y. enacts nation's first statewide moratorium on building new data centers](https://www.cbsnews.com/news/new-york-data-center-moratorium-kathy-hochul/?utm_source=lootura.com) — 2026-07-14T19:54:35.000Z
 - [Gov. Hochul orders a pause on data centers in New York for up to a year](https://www.npr.org/2026/07/14/nx-s1-5893396/gov-hochul-orders-a-pause-on-data-centers-in-new-york-for-up-to-a-year?utm_source=lootura.com) — 2026-07-14T20:24:20.000Z
+- [News Wrap: Fed Chair Warsh pledges inflation will be 'thing of the past'](https://www.pbs.org/newshour/show/news-wrap-fed-chair-warsh-pledges-inflation-will-be-thing-of-the-past?utm_source=lootura.com) — 2026-07-14T22:45:35.000Z

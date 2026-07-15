@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/lamine-yamal/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/lamine-yamal/index.json",
   "description": "Sigue la actividad de Lamine Yamal en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-14T20:58:20.799Z",
+  "updatedAt": "2026-07-15T02:11:09.495Z",
   "aliases": [],
   "changes": [
     {
@@ -54,10 +54,10 @@
   ],
   "sources": [
     {
-      "title": "Francia - España, el partido de semifinales del Mundial 2026 en imágenes",
-      "url": "https://elpais.com/deportes/mundial-futbol/2026-07-14/francia-espana-el-partido-de-semifinales-del-mundial-en-imagenes.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-14T19:52:39.000Z",
-      "sourceId": "lootura-es-el-pais"
+      "title": "El inalterable Oyarzabal, la euforia de Porro y un seleccionador emocionado: \"Es un orgullo dirigir a este grupo, sólo los elegidos van a la final\"",
+      "url": "https://amp.elmundo.es/deportes/futbol/mundial-de-futbol/2026/07/14/6a567086e85ece28388b4572.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-14T21:33:05.000Z",
+      "sourceId": "lootura-es-el-mundo"
     }
   ],
   "evidenceCount": 0

@@ -3,10 +3,16 @@
 > Sigue la actividad de Partido Socialista Obrero Español en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-14T20:58:20.799Z
+- Actualizado: 2026-07-15T02:11:09.495Z
 - Canonical: https://atlas.lootura.com/es/organization/psoe
 
 ## Cambios recientes
+
+### Los antitaurinos vuelven a la carga, esta vez de la mano de los socios de Sánchez
+
+Medio centenar de diputados han registrado una proposición de ley que reactiva la iniciativa legislativa popular (ILP) contra los toros que el año pasado fracasó en el Congreso por la abstención del PSOE. Sumar, Podemos, Junts, ERC, BNG, Compromís y Bildu han presentado este martes el mismo texto que la plataforma 'No.
+
+Date: 2026-07-15
 
 ### El juez Pedraz cita a declarar como imputada el 9 de septiembre a la gerente del PSOE por el caso de las cloacas de Ferraz
 
@@ -62,13 +68,6 @@ La empresa pública Isdefe (Ingeniería de Sistemas para la Defensa de España),
 
 Date: 2026-07-14
 
-### El primer abogado de Ábalos declara que Leire Díez le ofreció pagar la defensa del exministro a través de una sociedad
-
-José Aníbal Álvarez, el primer abogado del exministro de Transportes José Luis Ábalos , ha reconocido este lunes como testigo en el caso Leire Díez que la exmilitante del PSOE le ofreció pagar los honorarios de la defensa del político socialista a través de una sociedad que ella tenía, aunque él se negó. El exministro.
-
-Date: 2026-07-13
-
 ## Fuentes
 
-- [El juez Pedraz cita a declarar como imputada el 9 de septiembre a la gerente del PSOE por el caso de las cloacas de Ferraz](https://www.elmundo.es/espana/2026/07/14/6a55f484fc6c832a5b8b4577.html?utm_source=lootura.com) — 2026-07-14T09:25:43.000Z
-- [El Congreso da un paso más para eliminar los delitos de las injurias al rey o de ofensa a los sentimientos religiosos](https://www.eldiario.es/politica/congreso-da-paso-eliminar-delitos-injurias-rey-ofensa-sentimientos-religiosos_1_13380526.html?utm_source=lootura.com) — 2026-07-14T18:07:19.000Z
+- [Los antitaurinos vuelven a la carga, esta vez de la mano de los socios de Sánchez](https://www.abc.es/cultura/antitaurinos-vuelven-carga-mano-socios-sanchez-20260714131926-nt.html?utm_source=lootura.com) — 2026-07-15T01:17:23.000Z

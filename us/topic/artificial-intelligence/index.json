@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/topic/artificial-intelligence/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/topic/artificial-intelligence/index.json",
   "description": "Follow Artificial intelligence, a tracked topic, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-14T20:58:39.119Z",
+  "updatedAt": "2026-07-15T02:11:36.851Z",
   "aliases": [
     "AI",
     "machine learning"
@@ -17,11 +17,21 @@
     {
       "title": "Does AI work for us, or do we work for AI?",
       "summary": "Science, Volume 393, Issue 6807 , Page 152-152, July 2026.",
-      "date": "2026-07-14"
+      "date": "2026-07-15"
     },
     {
       "title": "How do young people feel about AI? 7 teens weigh in",
       "summary": "What's it like to grow up and learn in the age of AI? NPR put that question to seven teenagers across the country.",
+      "date": "2026-07-14"
+    },
+    {
+      "title": "More than 50% of Australian university assignments used AI. How should universities respond?",
+      "summary": "Last week, the U.S. software company Turnitin revealed 53.6% of Australian tertiary education submissions run through its system used some form of AI in the period from October 2025–April 2026. The company, whose plagiarism-detection technology is widely used in universities, also reported 10% of these submissions cont.",
+      "date": "2026-07-14"
+    },
+    {
+      "title": "Does AI work for us, or do we work for AI?",
+      "summary": "Science, Volume 393, Issue 6807 , Page 152-152, July 2026.",
       "date": "2026-07-14"
     },
     {
@@ -53,19 +63,15 @@
       "title": "Developer ecosystem expanded",
       "summary": "Siri has been on the Apple Watch since day one, though I'm usually hard-pressed to find people who actually make good use of it. It's kind of just… been there - mostly as a way to set timers when my hands are full. But after playing around with the watchOS 27 developer beta, I get the sense that'll start to change. Not.",
       "date": "2026-07-13"
-    },
-    {
-      "title": "Developer ecosystem expanded",
-      "summary": "Siri AI in iOS 27. iOS 27 escaped the developer world today with the launch of the first public beta. I've been testing the new operating system since early June, looking for quirks and seeing if it can live up to the hype Apple promised in the keynote. This year's iOS upgrades are what one might call a Snow Leopard up.",
-      "date": "2026-07-13"
-    },
-    {
-      "title": "The Asus ROG Flow Z13 gaming tablet with 64GB RAM is down to $2,100",
-      "summary": "Almost all gaming laptops have gone up in price over the past year. Curiously, the surprisingly fast Asus ROG Flow Z13 gaming laptop/tablet combo has not. It’s actually gotten quite a bit cheaper recently. Best Buy has the lowest price on the configuration that includes the AMD Ryzen AI Max Plus 395 “Strix Halo” chipse.",
-      "date": "2026-07-13"
     }
   ],
   "sources": [
+    {
+      "title": "AI models: one country’s fears become everyone’s constraint",
+      "url": "https://www.nature.com/articles/d41586-026-02187-z?utm_source=lootura.com",
+      "publishedAt": "2026-07-15T02:11:41.414Z",
+      "sourceId": "lootura-us-nature"
+    },
     {
       "title": "How do young people feel about AI? 7 teens weigh in",
       "url": "https://www.npr.org/2026/07/14/nx-s1-5863025/teens-artificial-intelligence-ai-school?utm_source=lootura.com",
@@ -73,16 +79,16 @@
       "sourceId": "lootura-us-npr"
     },
     {
-      "title": "Does AI work for us, or do we work for AI?",
-      "url": "https://www.science.org/doi/abs/10.1126/science.aei9754?af=R&utm_source=lootura.com",
-      "publishedAt": "2026-07-14T20:58:43.196Z",
-      "sourceId": "lootura-us-science"
+      "title": "More than 50% of Australian university assignments used AI. How should universities respond?",
+      "url": "https://phys.org/news/2026-07-australian-university-assignments-ai-universities.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-14T23:20:04.000Z",
+      "sourceId": "lootura-us-phys-org"
     },
     {
-      "title": "SpaceXAI’s Grok programming tool was uploading its users’ entire codebase to cloud storage",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/965600/spacexai-grok-build-repository-upload?utm_source=lootura.com",
-      "publishedAt": "2026-07-14T19:25:00.000Z",
-      "sourceId": "lootura-us-the-verge"
+      "title": "Does AI work for us, or do we work for AI?",
+      "url": "https://www.science.org/doi/abs/10.1126/science.aei9754?af=R&utm_source=lootura.com",
+      "publishedAt": "2026-07-15T02:11:41.641Z",
+      "sourceId": "lootura-us-science"
     }
   ],
   "evidenceCount": 3

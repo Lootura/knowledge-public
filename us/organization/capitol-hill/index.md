@@ -52,5 +52,4 @@ Date: 2026-07-12
 
 ## Sources
 
-- [Sen. John Thune gets emotional during speech honoring Lindsey Graham](https://www.cbsnews.com/video/sen-john-thune-gets-emotional-during-speech-honoring-lindsey-graham/?utm_source=lootura.com) — 2026-07-14T13:16:53.000Z
-- [Why Supreme Court Justices Are Asking for More Security](https://www.nytimes.com/video/us/politics/100000011017774/why-supreme-court-justices-are-asking-for-more-security.html?utm_source=lootura.com) — 2026-07-14T10:51:09.000Z
+No public source links.

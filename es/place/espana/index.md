@@ -3,10 +3,34 @@
 > Sigue la actividad de España en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-14T20:58:20.799Z
+- Actualizado: 2026-07-15T02:11:09.495Z
 - Canonical: https://atlas.lootura.com/es/place/espana
 
 ## Cambios recientes
+
+### El diario de Amilibia: El Apolo ya no excita
+
+Leo: “La natalidad se desploma en la era Sánchez. Desde su llegada a la Moncloa, el descenso supera los 50.000 nacimientos al año. España está a la cola de Europa”. ¿Estamos a la cola por culpa, culpita de la colita o esto quiere decir que el Apolo de la Moncloa, el hombre más apuesto y guapo que vieron los siglos, ya.
+
+Date: 2026-07-15
+
+### Gibraltar: cae la Verja, sigue el contencioso
+
+En la firma ayer en Bruselas del Tratado de Gibraltar después de más de cinco años de arduas negociaciones se escucharon el tipo de declaración que se deja para las grandes ocasiones. La Unión Europea y Reino Unido ponían fin al único gran escollo que aún pendía sobre sus cabezas tras el Brexit y España y Gibraltar ina.
+
+Date: 2026-07-15
+
+### El sector turístico prevé tocar techo este verano
+
+El sector turístico andaluz encara la temporada de verano con un optimismo contenido. Exceltur prevé que las ventas aumenten un 1% respecto al verano de 2025, un avance que no deja de ser positivo, aunque inferior al 3,2% estimado para el conjunto de España. La comparación, además, parte de una temporada estival anteri.
+
+Date: 2026-07-15
+
+### Fragmento del día: España
+
+En España se rinde tributo a las víctimas de la pandemia de COVID-19 y se reconoce el trabajo del personal sanitario en un Homenaje de Estado centrado en la esperanza.
+
+Date: 2026-07-15
 
 ### 'Josu Ternera' retrasa su entrega a España al recurrir su propia absolución en Francia
 
@@ -20,62 +44,39 @@ Feijóo celebra que el Estado de Derecho funcione en España para todos, "sean d
 
 Date: 2026-07-14
 
-### Botín defiende la compra de Webster en EE UU frente a las tensiones de Trump con España
-
-La presidenta del Santander, Ana Botín, ha defendido este martes en una entrevista con el canal de televisión americano CNBC la adquisición del banco estadounidense Webster , que anunció en febrero y espera se cierre a lo largo del año. La operación coincide en un momento de tensión entre España y el presidente de EE U.
-
-Date: 2026-07-14
-
-### Aena crece un 3,7% en tráfico hasta junio y las aerolíneas denuncian previsiones a la baja que encarecen las tarifas
-
-El gestor aeroportuario Aena y las aerolíneas representadas por ALA han vuelto a la batalla sobre el tráfico aéreo en España en la antesala de la aprobación del tercer Documento de Regulación Aeroportuaria (DORA III) , en el que la senda tarifaria para el quinquenio 2027-2031 depende en gran parte de las estimaciones d.
-
-Date: 2026-07-14
-
-### Defensa considera que la cumbre de la OTAN abre oportunidades a la industria española
-
-La secretaria de Estado de Defensa , Amparo Valcarce, considera que la cumbre de la OTAN celebrada los pasados 7 y 8 de julio en Ankara marcará un punto de inflexión para la industria española de defensa . Según ha defendido este martes, los seis acuerdos suscritos por España durante la reunión de la Alianza Atlántica.
-
-Date: 2026-07-14
-
 ### El Congreso aprueba la reforma de la dependencia que añade 6.200 millones con el único voto en contra de Vox
 
 El ministro Bustinduy califica los cambios como "la mayor reforma social" que ha visto España en todo el siglo, a la altura de la educación o la sanidad universal; el PP reprocha al Gobierno que solo "busca votos" y no tiene fondos para sus propuestas y se abstiene Consulta los principales cambios en la reforma de la D.
 
 Date: 2026-07-14
 
-### Incendios forestales en España hoy, en directo: última hora de la evolución de los fuegos activos
+### Una España contra los miedos de todo un país: son los mejores y lo saben
 
-El calor extremo mantiene en alerta a los servicios de emergencia ante la evolución de varios incendios forestales activos en distintos puntos de España. Castilla y León, Cataluña, Andalucía y la Comunidad Valenciana concentran algunos de los principales operativos en una jornada marcada por nuevos focos y las altas te.
-
-Date: 2026-07-14
-
-### Quién es Pedro Porro: edad, su novia actual, en qué equipo juega y su relación con la ex de Joao Félix
-
-Pedro Porro es uno de los defensas más destacados del fútbol español de cara a los próximos años, si bien su carrera internacional ya le ha llevado a debutar con la selección española y a formar parte de grandes equipos. Lateral derecho con vocación ofensiva, Porro es uno de los hombres de confianza de Luis de la Fuent.
+Leer.
 
 Date: 2026-07-14
 
-### El calor extremo que está por venir: ¿puede España alcanzar los 50 grados?
+### Para las grandes citas, Mikel Oyarzabal
 
-La temperatura más alta registrada en la historia en España es de 47,6 °C y se dio el 14 de agosto de 2021 en La Rambla (Córdoba) . Esto es con los sistemas de medición oficiales de la Agencia Española de Meteorología (Aemet), siguiendo siempre los mismos criterios, y en sitios donde no incide directamente el sol, pues.
+Ya no es casualidad: en las grandes citas, Mikel Oyarzabal. En Berlín, cuando España derrotó a Inglaterra para llevar la cuarta Eurocopa a las vitrinas de Las Rozas, el delantero de la Real Sociedad, ese tipo serio que compaginó el campo con las aulas —se graduó en ADE—, apareció para firmar la victoria. Ayer, contra F.
 
 Date: 2026-07-14
 
-### Uno de cada 10 médicos en España ya son extranjeros: “Venimos a trabajar duro para sostener y mejorar el sistema de salud”
+### ACS, Acciona, Ferrovial y Sacyr se lanzan a por obras de 5.000 millones en Madrid
 
-Ofreuddys Daniel Estrada Leal había sido médico en Venezuela antes de llegar a España. Aquí, durante casi dos años, ese oficio quedó suspendido en un limbo administrativo. Mientras esperaba la homologación de su título , trabajó como expendedor de combustible en estaciones de servicio, como asistente administrativo en.
+Madrid se va a convertir en los próximos 12-24 meses en el gran polo de atracción del mercado de obra pública en España, gracias a la madurez de proyectos que en poco tiempo saldrán a licitación pública con presupuestos de inversión que, globalmente, superan los 5.000 millones. Seguir leyendo.
 
 Date: 2026-07-14
 
 ## Fuentes
 
-- [Cuándo jugaría España el siguiente partido del Mundial 2026](https://www.20minutos.es/deportes/futbol/cuando-jugaria-espana-final-mundial-partido-para-tercer-cuarto-puesto-fechas-horas-rivales_7014439_0.html?utm_source=lootura.com) — 2026-07-14T19:24:34.000Z
-- [Botín defiende la compra de Webster en EE UU frente a las tensiones de Trump con España](https://cincodias.elpais.com/companias/2026-07-14/botin-defiende-la-compra-de-webster-en-ee-uu-frente-a-las-tensiones-de-trump-con-espana.html?utm_source=lootura.com) — 2026-07-14T15:36:30.000Z
-- [Aena crece un 3,7% en tráfico hasta junio y las aerolíneas denuncian previsiones a la baja que encarecen las tarifas](https://cincodias.elpais.com/companias/2026-07-14/aena-crece-un-37-en-trafico-hasta-junio-y-las-aerolineas-denuncian-previsiones-a-la-baja-que-encarecen-las-tarifas.html?utm_source=lootura.com) — 2026-07-14T15:45:40.000Z
+- [Así queda la clasificación de máximos goleadores del Mundial 2026: Oyarzabal se mete en la pelea y Mbappé se estanca](https://www.20minutos.es/deportes/futbol/asi-queda-clasificacion-maximos-goleadores-mundial-2026-oyarzabal-se-mete-pelea-mbappe-se-estanca_7010584_0.html?utm_source=lootura.com) — 2026-07-14T21:57:14.000Z
 - ['Josu Ternera' retrasa su entrega a España al recurrir su propia absolución en Francia](https://www.elcorreo.com/politica/josu-ternera-retrasa-entrega-espana-recurrir-propia-20260714112823-nt_amp.html?utm_source=lootura.com) — 2026-07-14T09:28:24.000Z
 - [El PP califica de "histórica" la condena del hermano de Sánchez: "Nadie está por encima de la ley"](https://www.elmundo.es/espana/2026/07/14/6a5621e6e85ece9a268b457b.html?utm_source=lootura.com) — 2026-07-14T11:58:30.000Z
+- [Una España contra los miedos de todo un país: son los mejores y lo saben](https://www.elmundo.es/deportes/futbol/mundial-de-futbol/2026/07/14/6a56a09efc6c8356718b458c.html?utm_source=lootura.com) — 2026-07-14T20:59:07.000Z
+- [Para las grandes citas, Mikel Oyarzabal](https://elpais.com/deportes/mundial-futbol/2026-07-14/para-las-grandes-citas-mikel-oyarzabal.html?utm_source=lootura.com) — 2026-07-14T22:19:38.000Z
 - [El Congreso aprueba la reforma de la dependencia que añade 6.200 millones con el único voto en contra de Vox](https://www.eldiario.es/sociedad/congreso-aprueba-reformas-dependencia-discapacidad-unico-voto-vox_1_13379081.html?utm_source=lootura.com) — 2026-07-14T18:08:28.000Z
-- [Incendios forestales en España hoy, en directo: última hora de la evolución de los fuegos activos](https://www.larazon.es/sociedad/incendios-forestales-espana-hoy-directo-ultima-hora-evolucion-fuegos-activos_202607146a55e2e1c0b5fb431c549c96.html?outputType=amp&utm_source=lootura.com) — 2026-07-14T20:57:09.000Z
-- [Quién es Pedro Porro: edad, su novia actual, en qué equipo juega y su relación con la ex de Joao Félix](https://okdiario.com/deportes/quien-pedro-porro-novia-que-equipo-juega-relacion-ex-joao-felix-13628929?utm_source=lootura.com) — 2026-07-14T20:18:16.000Z
-- [Defensa considera que la cumbre de la OTAN abre oportunidades a la industria española](https://theobjective.com/espana/2026-07-14/defensa-otan-oportunidades-industria/?utm_source=lootura.com) — 2026-07-14T17:01:11.000Z
+- [ACS, Acciona, Ferrovial y Sacyr se lanzan a por obras de 5.000 millones en Madrid](https://www.expansion.com/empresas/inmobiliario/2026/07/15/6a56a126468aeb676e8b4596.html?utm_source=lootura.com) — 2026-07-14T22:01:22.000Z
+- [El diario de Amilibia: El Apolo ya no excita](https://www.larazon.es/gente/famosos/diario-amilibia-apolo-excita_202607156a56cd93772f745d2c496284.html?utm_source=lootura.com) — 2026-07-15T00:00:19.000Z
+- [Gibraltar: cae la Verja, sigue el contencioso](https://www.larazon.es/espana/gibraltar-cae-verja-sigue-contencioso_202607156a567609c0b5fb431c560044.html?utm_source=lootura.com) — 2026-07-15T00:00:18.000Z
+- [El sector turístico prevé tocar techo este verano](https://www.larazon.es/andalucia/sector-turistico-preve-tocar-techo-este-verano_202607156a56cd8fc0b5fb431c567e1a.html?utm_source=lootura.com) — 2026-07-15T00:00:15.000Z

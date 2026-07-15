@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/donald-trump/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/donald-trump/index.json",
   "description": "Follow Donald Trump, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-14T20:58:39.119Z",
+  "updatedAt": "2026-07-15T02:11:36.851Z",
   "aliases": [
     "President Donald Trump",
     "President Trump",
@@ -16,38 +16,13 @@
   ],
   "changes": [
     {
+      "title": "Trump says he won't rule out sending ground troops to Iran",
+      "summary": "President Trump told Fox News on Tuesday that he won't rule out a ground invasion of Iran. The comments come amid another round of U.S. strikes against Iranian targets. CBS News' Eleanor Watson reports.",
+      "date": "2026-07-15"
+    },
+    {
       "title": "Morning news brief",
       "summary": "Trump says the U.S. will collect tolls and impose blockade in the Strait of Hormuz, man killed by federal agents in Maine, states sue to stop Paramount-Warner Bros merger.",
-      "date": "2026-07-14"
-    },
-    {
-      "title": "Trump's National Guard deployment in D.C. has been extended until 2029",
-      "summary": "President Trump's deployment of the National Guard to Washington, D.C., has been extended several times. Now it's set to last until Inauguration Day 2029. (Image credit: Kevin Dietsch).",
-      "date": "2026-07-14"
-    },
-    {
-      "title": "How a Promising Navy Drone Boat Program Got Mired in Politics",
-      "summary": "Navy acquisition reforms upended a $2.1 billion contract competition. When it was over, several companies with ties to the Trump administration had made the cut.",
-      "date": "2026-07-14"
-    },
-    {
-      "title": "Can Democrats Win Rural Voters Turning Away From Trump? It’s a Tough Sell.",
-      "summary": "House candidates like Beth Macy, author of “Dopesick,” have crafted messages based on lifetimes in rural regions. But messages need an audience, and many minds are closed to the party.",
-      "date": "2026-07-14"
-    },
-    {
-      "title": "Trump says he doesn't see a lot of \"evil\" in Lindsey Graham's death when asked about FBI probe",
-      "summary": "President Trump took questions in the Oval Office and commented on an apparent FBI probe into Lindsey Graham's death, saying he doesn't see a lot of \"evil\" behind the sudden incident.",
-      "date": "2026-07-14"
-    },
-    {
-      "title": "Shippers say Strait of Hormuz fee would open \"dangerous Pandora's Box\"",
-      "summary": "Industry insiders say \"there is no legal basis\" for Trump to impose a 20% fee on cargo transiting the Strait of Hormuz, something he now says he's decided not to do.",
-      "date": "2026-07-14"
-    },
-    {
-      "title": "Funding milestone detected",
-      "summary": "President Donald Trump on Tuesday announced a reversal of plans to charge a 20% toll on cargo going through the Strait of Hormuz, saying that Middle Eastern countries will instead make investment and trade deals with the U.S.",
       "date": "2026-07-14"
     },
     {
@@ -64,19 +39,38 @@
       "title": "Trump administration orders ICE to suspend most vehicle stops after deadly shootings",
       "summary": "The suspension is not absolute and there's room for exceptions when executing a criminal warrant or working with partner agencies.",
       "date": "2026-07-14"
+    },
+    {
+      "title": "ICE Ordered to Cease Most Vehicle Stops After Fatal Shootings in Maine and Houston",
+      "summary": "Agents fatally shot a man in Houston and another in coastal Maine, both in their vehicles. The killings were the latest in a string of ICE shootings during President Trump’s second term.",
+      "date": "2026-07-14"
+    },
+    {
+      "title": "Trump Paid $2 Million by South Korean Company Facing Trade Investigation",
+      "summary": "The payment illustrates the minefield Mr. Trump has created by maintaining personal financial ties with foreign businesses while he is in office.",
+      "date": "2026-07-14"
+    },
+    {
+      "title": "Trump’s Canceled Plan to Charge a Toll in the Strait of Hormuz: What to Know",
+      "summary": "A day after President Trump announced a hefty 20 percent fee on cargo through the waterway, he reversed his decision.",
+      "date": "2026-07-14"
+    },
+    {
+      "title": "Maine Democrats criticize GOP Sen. Susan Collins after fatal ICE shooting of motorist in the state",
+      "summary": "A federal immigration agent fatally shot a motorist just south of Maine's largest city on Monday, the second time in a week that ICE has used deadly force on American soil and at least the ninth death since President Donald Trump began his immigration crackdown.",
+      "date": "2026-07-14"
+    },
+    {
+      "title": "Inflation eased in June, but Americans still feel pressure from high prices",
+      "summary": "A report shows inflation eased more than expected in June. It's welcome news for President Trump, who has made lowering prices a focus of his economic agenda. But months of higher-than-expected inflation have continued to squeeze many households and raised questions about when consumers will feel relief. Liz Landers re.",
+      "date": "2026-07-14"
     }
   ],
   "sources": [
     {
-      "title": "Trump says he doesn't see a lot of \"evil\" in Lindsey Graham's death when asked about FBI probe",
-      "url": "https://www.cbsnews.com/video/trump-says-he-doesnt-see-a-lot-of-evil-in-lindsey-grahams-death-when-asked-about-fbi-probe/?utm_source=lootura.com",
-      "publishedAt": "2026-07-14T16:34:36.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
-    {
-      "title": "Shippers say Strait of Hormuz fee would open \"dangerous Pandora's Box\"",
-      "url": "https://www.cbsnews.com/news/trump-strait-of-hormuz-fee-shipping-oil-gas-costs-legality-pandoras-box/?utm_source=lootura.com",
-      "publishedAt": "2026-07-14T16:39:48.000Z",
+      "title": "Trump says he won't rule out sending ground troops to Iran",
+      "url": "https://www.cbsnews.com/video/trump-says-he-wont-rule-out-sending-ground-troops-to-iran/?utm_source=lootura.com",
+      "publishedAt": "2026-07-15T00:48:43.000Z",
       "sourceId": "lootura-us-cbs-news"
     },
     {
@@ -86,21 +80,21 @@
       "sourceId": "lootura-us-npr"
     },
     {
-      "title": "Trump's National Guard deployment in D.C. has been extended until 2029",
-      "url": "https://www.npr.org/2026/07/14/nx-s1-5892498/national-guard-deployment-dc-2029?utm_source=lootura.com",
-      "publishedAt": "2026-07-14T09:00:00.000Z",
-      "sourceId": "lootura-us-npr-politics"
+      "title": "Maine Democrats criticize GOP Sen. Susan Collins after fatal ICE shooting of motorist in the state",
+      "url": "https://www.pbs.org/newshour/politics/maine-democrats-criticize-gop-sen-susan-collins-after-fatal-ice-shooting-of-motorist-in-the-state?utm_source=lootura.com",
+      "publishedAt": "2026-07-14T23:05:04.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
+    },
+    {
+      "title": "Inflation eased in June, but Americans still feel pressure from high prices",
+      "url": "https://www.pbs.org/newshour/show/inflation-eased-in-june-but-americans-still-feel-pressure-from-high-prices?utm_source=lootura.com",
+      "publishedAt": "2026-07-14T22:40:47.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
     },
     {
       "title": "Trump administration orders ICE to suspend most vehicle stops after deadly shootings",
       "url": "https://www.pbs.org/newshour/politics/trump-administration-orders-ice-to-suspend-most-vehicle-stops-after-deadly-shootings?utm_source=lootura.com",
       "publishedAt": "2026-07-14T20:23:02.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
-    },
-    {
-      "title": "Trump backs away from plans to charge fees in the Strait of Hormuz",
-      "url": "https://www.pbs.org/newshour/world/trump-backs-away-from-plans-to-charge-fees-in-the-strait-of-hormuz?utm_source=lootura.com",
-      "publishedAt": "2026-07-14T16:00:31.000Z",
       "sourceId": "lootura-us-pbs-newshour"
     },
     {
@@ -110,23 +104,29 @@
       "sourceId": "lootura-us-the-new-york-times"
     },
     {
-      "title": "Trump’s Strait of Hormuz Fee Could Double the Cost of Shipping",
-      "url": "https://www.nytimes.com/2026/07/13/business/trump-hormuz-shipping-fee.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-13T23:00:14.000Z",
-      "sourceId": "lootura-us-the-new-york-times"
-    },
-    {
-      "title": "Lindsey Graham’s Sister Appointed to Finish His Senate Term After Trump’s Backing",
-      "url": "https://www.nytimes.com/2026/07/13/us/politics/trump-graham-sister-south-carolina-senate.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-13T23:27:44.000Z",
-      "sourceId": "lootura-us-the-new-york-times"
-    },
-    {
       "title": "E. Jean Carroll Receives $5.6 Million Payment From Trump in Civil Case",
       "url": "https://www.nytimes.com/2026/07/14/nyregion/carroll-trump-settlement-million.html?utm_source=lootura.com",
       "publishedAt": "2026-07-14T18:58:25.000Z",
       "sourceId": "lootura-us-the-new-york-times"
+    },
+    {
+      "title": "ICE Shootings Put Spotlight on Lack of Body Cameras",
+      "url": "https://www.nytimes.com/2026/07/14/us/politics/ice-body-cameras.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-14T21:55:35.000Z",
+      "sourceId": "lootura-us-the-new-york-times"
+    },
+    {
+      "title": "Trump Paid $2 Million by South Korean Company Facing Trade Investigation",
+      "url": "https://www.nytimes.com/2026/07/14/us/politics/trump-south-korea-aluminum.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-14T16:35:57.000Z",
+      "sourceId": "lootura-us-the-new-york-times-politics"
+    },
+    {
+      "title": "Trump’s Canceled Plan to Charge a Toll in the Strait of Hormuz: What to Know",
+      "url": "https://www.nytimes.com/2026/07/14/world/middleeast/trump-iran-strait-hormuz-toll-oil.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-14T19:25:33.000Z",
+      "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 16
+  "evidenceCount": 13
 }

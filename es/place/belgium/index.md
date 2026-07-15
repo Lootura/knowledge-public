@@ -70,4 +70,4 @@ Date: 2026-07-09
 
 ## Fuentes
 
-- [De la Fuente vuelve a apostar por Fabián en la semifinal ante Francia](https://www.lavanguardia.com/deportes/futbol/20260714/11592350/espana-francia-alineaciones-semifinal-mundial-2026.html?utm_source=lootura.com) — 2026-07-14T17:11:29.000Z
+No public source links.

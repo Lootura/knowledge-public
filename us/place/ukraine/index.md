@@ -70,4 +70,4 @@ Date: 2026-07-12
 
 ## Sources
 
-- [Europe, Flexing Muscle in Ukraine, Is Still on Sidelines in Iran](https://www.nytimes.com/2026/07/14/world/europe/macron-trump-bastille-day-military-parade.html?utm_source=lootura.com) — 2026-07-14T19:17:56.000Z
+No public source links.

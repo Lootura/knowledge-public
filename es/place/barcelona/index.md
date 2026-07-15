@@ -3,10 +3,16 @@
 > Sigue la actividad de Barcelona en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-14T20:58:20.799Z
+- Actualizado: 2026-07-15T02:11:09.495Z
 - Canonical: https://atlas.lootura.com/es/place/barcelona
 
 ## Cambios recientes
+
+### Maribel Martínez de Murguía: «La felicidad solo se consigue jugando para ganar»
+
+«Estamos dormidos, anestesiados, y nos estamos perdiendo muchas oportunidades». Maribel Martínez de Murguía , campeona olímpica en Barcelona'92 con el equipo nacional de hockey hierba y actualmente entrenadora de talento en empresas y organizaciones, lo tiene claro y pone el ejemplo de la gente que al final de sus días.
+
+Date: 2026-07-15
 
 ### Salvador Illa improvisa una reunión con la cónsul de Francia en Barcelona para agitar la polémica sobre las declaraciones de Mariano Rajoy
 
@@ -62,13 +68,6 @@ En marzo de 2023, el conflicto entre Isak Andic y su hijo mayor, Jonathan Andic 
 
 Date: 2026-07-13
 
-### Detenido el exalcalde de Sant Feliu (Girona) Pere Albó por presuntamente masturbarse en una piscina
-
-La Policía Local de Santa Susanna (Barcelona) detuvo este domingo por la tarde al exalcalde de Sant Feliu de Guíxols (Girona) Pere Albó por presuntamente masturbarse en la piscina de un hotel del municipio, ha podido confirmar Europa Press. Según ha avanzado Ser Catalunya , el exalcalde socialista y exdiputado de Junts.
-
-Date: 2026-07-13
-
 ## Fuentes
 
-- [La Princesa Leonor reivindica a los «Inteligentes Naturales»: «Son mis 'influencers' favoritos»](https://www.abc.es/espana/casa-real/familia-real-preside-tarde-ceremonia-premios-princesa-20260714185612-nt.html?utm_source=lootura.com) — 2026-07-14T19:47:43.000Z
-- [Salvador Illa improvisa una reunión con la cónsul de Francia en Barcelona para agitar la polémica sobre las declaraciones de Mariano Rajoy](https://www.elmundo.es/cataluna/2026/07/14/6a56057121efa0446c8b458e.html?utm_source=lootura.com) — 2026-07-14T09:57:34.000Z
+- [Maribel Martínez de Murguía: «La felicidad solo se consigue jugando para ganar»](https://www.abc.es/bienestar/maribel-martinez-murguia-campeona-olimpica-coach-felicidad-20260526015947-nt.html?utm_source=lootura.com) — 2026-07-15T01:17:57.000Z

@@ -22,4 +22,4 @@ Date: 2026-07-08
 
 ## Fuentes
 
-- [¿Qué selecciones han sido las mejores en el Mundial? Consulte sus datos partido a partido](https://elpais.com/deportes/mundial-futbol/2026-07-06/que-dicen-los-datos-de-espana-consulte-las-estadisticas-avanzadas-del-mundial-partido-a-partido.html?utm_source=lootura.com) — 2026-07-14T07:19:22.000Z
+No public source links.

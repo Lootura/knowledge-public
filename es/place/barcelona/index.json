@@ -8,9 +8,14 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/barcelona/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/barcelona/index.json",
   "description": "Sigue la actividad de Barcelona en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-14T20:58:20.799Z",
+  "updatedAt": "2026-07-15T02:11:09.495Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "Maribel Martínez de Murguía: «La felicidad solo se consigue jugando para ganar»",
+      "summary": "«Estamos dormidos, anestesiados, y nos estamos perdiendo muchas oportunidades». Maribel Martínez de Murguía , campeona olímpica en Barcelona'92 con el equipo nacional de hockey hierba y actualmente entrenadora de talento en empresas y organizaciones, lo tiene claro y pone el ejemplo de la gente que al final de sus días.",
+      "date": "2026-07-15"
+    },
     {
       "title": "Salvador Illa improvisa una reunión con la cónsul de Francia en Barcelona para agitar la polémica sobre las declaraciones de Mariano Rajoy",
       "summary": "El encuentro no estaba previsto en la agenda del presidente catalán hasta primera hora de esta mañana Leer.",
@@ -55,26 +60,15 @@
       "title": "El último recurso de Isak y Jonathan Andic ante el “sufrimiento” por su relación “pésima”",
       "summary": "En marzo de 2023, el conflicto entre Isak Andic y su hijo mayor, Jonathan Andic , parece haber llegado a un callejón sin salida. Padre e hijo llevan meses en manos de una mujer muy particular, Julia Lüderwaldt , psicoterapeuta de cabecera de familias adineradas de Barcelona —de los Sánchez Vicario a los Urdangarin— que.",
       "date": "2026-07-13"
-    },
-    {
-      "title": "Detenido el exalcalde de Sant Feliu (Girona) Pere Albó por presuntamente masturbarse en una piscina",
-      "summary": "La Policía Local de Santa Susanna (Barcelona) detuvo este domingo por la tarde al exalcalde de Sant Feliu de Guíxols (Girona) Pere Albó por presuntamente masturbarse en la piscina de un hotel del municipio, ha podido confirmar Europa Press. Según ha avanzado Ser Catalunya , el exalcalde socialista y exdiputado de Junts.",
-      "date": "2026-07-13"
     }
   ],
   "sources": [
     {
-      "title": "La Princesa Leonor reivindica a los «Inteligentes Naturales»: «Son mis 'influencers' favoritos»",
-      "url": "https://www.abc.es/espana/casa-real/familia-real-preside-tarde-ceremonia-premios-princesa-20260714185612-nt.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-14T19:47:43.000Z",
+      "title": "Maribel Martínez de Murguía: «La felicidad solo se consigue jugando para ganar»",
+      "url": "https://www.abc.es/bienestar/maribel-martinez-murguia-campeona-olimpica-coach-felicidad-20260526015947-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-15T01:17:57.000Z",
       "sourceId": "lootura-es-abc"
-    },
-    {
-      "title": "Salvador Illa improvisa una reunión con la cónsul de Francia en Barcelona para agitar la polémica sobre las declaraciones de Mariano Rajoy",
-      "url": "https://www.elmundo.es/cataluna/2026/07/14/6a56057121efa0446c8b458e.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-14T09:57:34.000Z",
-      "sourceId": "lootura-es-el-mundo"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

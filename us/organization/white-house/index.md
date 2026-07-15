@@ -3,10 +3,22 @@
 > Follow White House, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-07-14T20:58:39.119Z
+- Updated: 2026-07-15T02:11:36.851Z
 - Canonical: https://atlas.lootura.com/us/organization/white-house
 
 ## Recent changes
+
+### House passes bill to make daylight saving time permanent
+
+There will be no turning back the clock if the House has its way. The House passed a bill Tuesday that would make daylight saving time permanent. Proponents, including the White House, argued the change would provide more daylight during the times that Americans are most active.
+
+Date: 2026-07-15
+
+### Climate: An extraordinary White House meeting
+
+A new book sheds light on President Trump’s affinity for fossil fuels.
+
+Date: 2026-07-14
 
 ### Trump says he will back off plan to toll ships in Strait of Hormuz
 
@@ -56,18 +68,7 @@ This week's guests include White House border czar Tom Homan and retired Gen. Fr
 
 Date: 2026-07-11
 
-### Harvard astronomer tapped to lead White House UFO council says US government 'baffled by what they are seeing'
-
-Avi Loeb, the Harvard astronomer who was chosen last month by the White House to lead a UFO advisory council, believes he was brought on because federal officials are "baffled" by the many unidentified objects the U.S. military has captured over the past several decades. Loeb, known for arguing that alien spacecraft ma.
-
-Date: 2026-07-11
-
-### "Face the Nation with Margaret Brennan" guests for July 12, 2026
-
-This week's guests include White House border czar Tom Homan and retired Gen. Frank McKenzie, president of The Citadel and former commander of U.S. Central Command.
-
-Date: 2026-07-10
-
 ## Sources
 
-- [Trump Says the FBI Would Be ‘Wasting Their Time’ Investigating Lindsey Graham’s Death](https://time.com/article/2026/07/14/trump-lindsey-graham-death-conspiracy-theories-fbi/?utm_source=lootura.com) — 2026-07-14T20:20:18.000Z
+- [WATCH: House passes bill to make daylight saving time permanent](https://www.pbs.org/newshour/politics/watch-house-passes-bill-to-make-daylight-saving-time-permanent?utm_source=lootura.com) — 2026-07-15T00:18:34.000Z
+- [Climate: An extraordinary White House meeting](https://www.nytimes.com/2026/07/14/climate/climate-an-extraordinary-white-house-meeting.html?utm_source=lootura.com) — 2026-07-14T21:22:22.000Z

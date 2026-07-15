@@ -22,4 +22,4 @@ Date: 2026-07-14
 
 ## Sources
 
-- [Trump says he doesn't see a lot of "evil" in Lindsey Graham's death when asked about FBI probe](https://www.cbsnews.com/video/trump-says-he-doesnt-see-a-lot-of-evil-in-lindsey-grahams-death-when-asked-about-fbi-probe/?utm_source=lootura.com) — 2026-07-14T16:34:36.000Z
+No public source links.

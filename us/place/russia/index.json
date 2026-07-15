@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/russia/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/russia/index.json",
   "description": "Follow Russia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-14T20:58:39.119Z",
+  "updatedAt": "2026-07-15T02:11:36.851Z",
   "aliases": [],
   "changes": [
     {
       "title": "Trump Says U.S. Will ‘Take Over’ Strait of Hormuz, and How Russia Made Japan a Den of Spies",
       "summary": "Plus, scientists find sugar in outer space.",
+      "date": "2026-07-14"
+    },
+    {
+      "title": "Lindsey Graham’s Death Leaves Fate of Russia Sanctions Bill Uncertain",
+      "summary": "Supporters in both parties hope the measure to penalize Russia, championed by Senator Lindsey Graham, will gain momentum in his honor.",
       "date": "2026-07-14"
     },
     {
@@ -55,11 +60,6 @@
       "title": "Rep. Mike Turner says he hopes Senate will pass Russia sanctions as",
       "summary": "GOP Rep. Mike Turner of Ohio said that he.",
       "date": "2026-07-12"
-    },
-    {
-      "title": "How Putin Turned Japan Into a Den of Spies",
-      "summary": "Operating out of a Tokyo high-rise, a military intelligence unit finds the high-tech equipment that Russia needs to wage war.",
-      "date": "2026-07-12"
     }
   ],
   "sources": [
@@ -68,7 +68,13 @@
       "url": "https://www.nytimes.com/2026/07/14/podcasts/the-headlines/trump-strait-of-hormuz-russia-japan-ukraine-war-space-sugar.html?utm_source=lootura.com",
       "publishedAt": "2026-07-14T10:00:14.000Z",
       "sourceId": "lootura-us-the-new-york-times"
+    },
+    {
+      "title": "Lindsey Graham’s Death Leaves Fate of Russia Sanctions Bill Uncertain",
+      "url": "https://www.nytimes.com/2026/07/14/us/politics/graham-death-russia-sanctions-trump.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-14T20:55:01.000Z",
+      "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 2
 }

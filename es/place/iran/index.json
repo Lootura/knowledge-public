@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/iran/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/iran/index.json",
   "description": "Sigue la actividad de Iran en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-14T20:58:20.799Z",
+  "updatedAt": "2026-07-15T02:11:09.495Z",
   "aliases": [],
   "changes": [
     {
       "title": "EEUU restablece el bloqueo naval a Irán y lanza una nueva ola de bombardeos",
       "summary": "Las Fuerzas Armadas estadounidenses reimpusieron este martes el bloqueo naval a Irán en el estrecho de Ormuz , además de lanzar una nueva ola de bombardeos, según anunció el Comando Central del Ejército de Estados Unidos (Centcom). El organismo, con sede en Florida, expuso en un comunicado que el Ejército estadounidens.",
+      "date": "2026-07-14"
+    },
+    {
+      "title": "Irán, la Fed y las 'midterm', un cóctel explosivo para la Bolsa en verano",
+      "summary": "El conflicto en Irán sigue dando coletazos que mantienen la tensión en el estrecho de Ormuz y unos precios elevados del petróleo. Seguir leyendo.",
       "date": "2026-07-14"
     },
     {
@@ -55,14 +60,15 @@
       "title": "Trump amenaza con volver a atacar a Irán: «Los golpearemos muy duro esta noche y mañana»",
       "summary": "El presidente de Estados Unidos, Donald Trump , aseguró este lunes que las fuerzas armadas de su país atacarán con fuerza a Irán «esta noche» y «mañana», en medio del restablecimiento de las hostilidades con Teherán. «Vamos a golpearlos muy duro esta noche y vamos a golpearlos muy duro mañana, y no hay absolutamente na.",
       "date": "2026-07-13"
-    },
-    {
-      "title": "El petróleo se dispara tras anunciar Trump un bloqueo a Irán y un peaje de EE UU en Ormuz",
-      "summary": "Donald Trump ha anunciado al final de la tarde de este lunes que la Marina estadounidense volverá a bloquear el traspaso de embarcaciones iraníes por el estrecho de Ormuz y que además cobrará un peaje del 20% de la carga a cada barco que cruce el paso. El presidente estadounidense no ha detallado cómo aplicará este tri.",
-      "date": "2026-07-13"
     }
   ],
   "sources": [
+    {
+      "title": "Irán, la Fed y las 'midterm', un cóctel explosivo para la Bolsa en verano",
+      "url": "https://www.expansion.com/mercados/2026/07/14/6a563af3e5fdea526e8b4576.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-14T18:41:54.000Z",
+      "sourceId": "lootura-es-expansion"
+    },
     {
       "title": "EEUU restablece el bloqueo naval a Irán y lanza una nueva ola de bombardeos",
       "url": "https://theobjective.com/internacional/2026-07-14/eeuu-bloqueo-naval-bombardeo-iran/?utm_source=lootura.com",
@@ -70,5 +76,5 @@
       "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 2
 }

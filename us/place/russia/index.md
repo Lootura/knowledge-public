@@ -3,7 +3,7 @@
 > Follow Russia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-14T20:58:39.119Z
+- Updated: 2026-07-15T02:11:36.851Z
 - Canonical: https://atlas.lootura.com/us/place/russia
 
 ## Recent changes
@@ -11,6 +11,12 @@
 ### Trump Says U.S. Will ‘Take Over’ Strait of Hormuz, and How Russia Made Japan a Den of Spies
 
 Plus, scientists find sugar in outer space.
+
+Date: 2026-07-14
+
+### Lindsey Graham’s Death Leaves Fate of Russia Sanctions Bill Uncertain
+
+Supporters in both parties hope the measure to penalize Russia, championed by Senator Lindsey Graham, will gain momentum in his honor.
 
 Date: 2026-07-14
 
@@ -62,12 +68,7 @@ GOP Rep. Mike Turner of Ohio said that he.
 
 Date: 2026-07-12
 
-### How Putin Turned Japan Into a Den of Spies
-
-Operating out of a Tokyo high-rise, a military intelligence unit finds the high-tech equipment that Russia needs to wage war.
-
-Date: 2026-07-12
-
 ## Sources
 
 - [Trump Says U.S. Will ‘Take Over’ Strait of Hormuz, and How Russia Made Japan a Den of Spies](https://www.nytimes.com/2026/07/14/podcasts/the-headlines/trump-strait-of-hormuz-russia-japan-ukraine-war-space-sugar.html?utm_source=lootura.com) — 2026-07-14T10:00:14.000Z
+- [Lindsey Graham’s Death Leaves Fate of Russia Sanctions Bill Uncertain](https://www.nytimes.com/2026/07/14/us/politics/graham-death-russia-sanctions-trump.html?utm_source=lootura.com) — 2026-07-14T20:55:01.000Z

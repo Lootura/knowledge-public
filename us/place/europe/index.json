@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/europe/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/europe/index.json",
   "description": "Follow Europe, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-14T20:58:39.119Z",
+  "updatedAt": "2026-07-15T02:11:36.851Z",
   "aliases": [
     "EU",
     "European Union"
   ],
   "changes": [
+    {
+      "title": "Report details ecological characterization of peatlands and coastal lagoons in EU",
+      "summary": "A new synthesis report, titled \"Ecological Characterisation of Peatlands and Coastal Lagoons in Europe,\" has been published to support the assessment, monitoring and restoration of European wetlands under EU environmental legislation. The report was prepared in response to a policy request submitted by the Directorate-.",
+      "date": "2026-07-15"
+    },
     {
       "title": "Europe, Flexing Muscle in Ukraine, Is Still on Sidelines in Iran",
       "summary": "In a show of collective strength, President Emmanuel Macron of France hosted European allies at the annual Bastille Day parade in Paris. Yet Europe is still a hostage to America’s foreign policy.",
@@ -58,19 +63,14 @@
       "title": "At Least 11 People Die in Southern Spain Wildfire",
       "summary": "The blaze in Andalusia prompted a major containment operation. Heat waves across Europe this summer have raised the risk of such fires, forecasters say.",
       "date": "2026-07-10"
-    },
-    {
-      "title": "Discovered by Atlas",
-      "summary": "Europe first entered the public knowledge record with source-backed evidence.",
-      "date": "2026-07-09"
     }
   ],
   "sources": [
     {
-      "title": "Europe, Flexing Muscle in Ukraine, Is Still on Sidelines in Iran",
-      "url": "https://www.nytimes.com/2026/07/14/world/europe/macron-trump-bastille-day-military-parade.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-14T19:17:56.000Z",
-      "sourceId": "lootura-us-the-new-york-times-world"
+      "title": "Report details ecological characterization of peatlands and coastal lagoons in EU",
+      "url": "https://phys.org/news/2026-07-ecological-characterization-peatlands-coastal-lagoons.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-15T01:20:01.000Z",
+      "sourceId": "lootura-us-phys-org"
     }
   ],
   "evidenceCount": 1

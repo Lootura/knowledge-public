@@ -3,16 +3,10 @@
 > Follow Supreme Court, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-07-14T20:58:39.119Z
+- Updated: 2026-07-15T02:11:36.851Z
 - Canonical: https://atlas.lootura.com/us/organization/supreme-court
 
 ## Recent changes
-
-### Funding milestone detected
-
-justices are asking lawmakers on Capitol Hill to increase their 2027 budget, with most of the additional funding earmarked for security. Ann E. Marimow, a New York Times reporter, explains why the justices say these measures are necessary to protect them from rising threats.
-
-Date: 2026-07-14
 
 ### Justice Kagan Tells House Panel That ‘Threats Have Come Very Close’
 
@@ -23,6 +17,18 @@ Date: 2026-07-14
 ### Takeaways From Justices Kagan and Barrett’s Congressional Testimony on Supreme Court Security
 
 Elena Kagan and Amy Coney Barrett, the first Supreme Court justices to testify since 2019, talked about ethics and security threats during a collegial hearing.
+
+Date: 2026-07-14
+
+### Funding milestone detected
+
+Justices Elena Kagan and Amy Coney Barrett testified before Congress as the nation's highest court looks to increase security funding in the wake of threats. It's the first time Supreme Court justices have appeared before Congress since 2019. Congressional correspondent Lisa Desjardins reports.
+
+Date: 2026-07-14
+
+### Funding milestone detected
+
+justices are asking lawmakers on Capitol Hill to increase their 2027 budget, with most of the additional funding earmarked for security. Ann E. Marimow, a New York Times reporter, explains why the justices say these measures are necessary to protect them from rising threats.
 
 Date: 2026-07-14
 
@@ -62,14 +68,8 @@ The legal status of nearly 1.3 million immigrants facing war or environmental di
 
 Date: 2026-07-09
 
-### Trump Says He’ll Ask Supreme Court to Rehear Citizenship Case, an Unlikely Event
-
-The last time the justices granted a rehearing request after a case decision was in 1965. The court has only once reversed itself after rehearing a case.
-
-Date: 2026-07-09
-
 ## Sources
 
+- [Supreme Court justices make case for more security funding](https://www.pbs.org/newshour/show/supreme-court-justices-make-case-for-more-security-funding?utm_source=lootura.com) — 2026-07-14T22:35:41.000Z
 - [Takeaways From Justices Kagan and Barrett’s Congressional Testimony on Supreme Court Security](https://www.nytimes.com/2026/07/14/us/politics/supreme-court-congress-takeaways.html?utm_source=lootura.com) — 2026-07-14T18:41:03.000Z
-- [Why Supreme Court Justices Are Asking for More Security](https://www.nytimes.com/video/us/politics/100000011017774/why-supreme-court-justices-are-asking-for-more-security.html?utm_source=lootura.com) — 2026-07-14T10:51:09.000Z
 - [Justice Kagan Tells House Panel That ‘Threats Have Come Very Close’](https://www.nytimes.com/2026/07/14/us/politics/kagan-house-testimony-supreme-court.html?utm_source=lootura.com) — 2026-07-14T14:29:07.000Z

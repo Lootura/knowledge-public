@@ -3,10 +3,22 @@
 > Sigue la actividad de Madrid en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-14T20:58:20.799Z
+- Actualizado: 2026-07-15T02:11:09.495Z
 - Canonical: https://atlas.lootura.com/es/place/madrid
 
 ## Cambios recientes
+
+### Cataluña, Madrid y Andalucía asumen el 49% del coste total del absentismo
+
+El absentismo se ha convertido en uno de los debates centrales del plano político y social. El Gobierno mantiene abierta una mesa de negociación con patronales y sindicatos que de momento ha resultado infructuosa, pero en la que se han planteado medidas para tratar contener el creciente impacto económico que desde CEOE.
+
+Date: 2026-07-14
+
+### ACS, Acciona, Ferrovial y Sacyr se lanzan a por obras de 5.000 millones en Madrid
+
+se va a convertir en los próximos 12-24 meses en el gran polo de atracción del mercado de obra pública en España, gracias a la madurez de proyectos que en poco tiempo saldrán a licitación pública con presupuestos de inversión que, globalmente, superan los 5.000 millones. Seguir leyendo.
+
+Date: 2026-07-14
 
 ### Madrid Río explota con el tanto de Oyarzabal: miles de aficionados lo celebran
 
@@ -56,19 +68,7 @@ Date: 2026-07-14
 
 Date: 2026-07-14
 
-### «Me echaron de los bares»: la reflexión más sincera de Joaquín Sabina
-
-Joaquín Sabina ha lanzado Hola y adiós , un disco doble en el que se puede ver y escuchar el concierto de despedida de su última gira en el Movistar Arena de Madrid, celebrado el pasado mes de noviembre de 2025. Con motivo de su publicación, el cantautor de Úbeda ha compartido una profunda reflexión sobre su trayectori.
-
-Date: 2026-07-14
-
-### La revista 'Forbes' sitúa 13 hospitales madrileños entre los 25 mejores de España
-
-La revista Forbes sitúa 13 hospitales de la Comunidad de Madrid en su lista anual de los mejores 25 de España , tanto públicos como privados. A lo largo de la lista, Madrid cuenta con ocho centros públicos, de los cuales seis se colocan entre los diez primeros puestos, y cinco privados. De hecho, los cuatro primeros ho.
-
-Date: 2026-07-14
-
 ## Fuentes
 
-- [Madrid Río explota con el tanto de Oyarzabal: miles de aficionados lo celebran](https://www.20minutos.es/deportes/futbol/madrid-rio-explota-con-tanto-oyarzabal_7014679_0.html?utm_source=lootura.com) — 2026-07-14T19:37:12.000Z
-- [Madrid: rescatan a 7 personas en el incendio de un piso en Canillas](https://www.larazon.es/madrid/madrid-rescatan-7-personas-incendio-piso-canillas_202607146a569c35772f745d2c49206c.html?utm_source=lootura.com) — 2026-07-14T20:29:43.000Z
+- [Cataluña, Madrid y Andalucía asumen el 49% del coste total del absentismo](https://www.expansion.com/economia/2026/07/15/6a5661e0e5fdeaa5338b4599.html?utm_source=lootura.com) — 2026-07-14T22:01:25.000Z
+- [ACS, Acciona, Ferrovial y Sacyr se lanzan a por obras de 5.000 millones en Madrid](https://www.expansion.com/empresas/inmobiliario/2026/07/15/6a56a126468aeb676e8b4596.html?utm_source=lootura.com) — 2026-07-14T22:01:22.000Z

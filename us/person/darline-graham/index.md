@@ -3,10 +3,28 @@
 > Follow Darline Graham, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-07-14T20:58:39.119Z
+- Updated: 2026-07-15T02:11:36.851Z
 - Canonical: https://atlas.lootura.com/us/person/darline-graham
 
 ## Recent changes
+
+### Darline Graham sworn in as senator after her brother's death
+
+Darline Graham, the sister of the late South Carolina Sen. Lindsey Graham, was sworn in by the Senate on Tuesday afternoon — filling the seat just three days after her brother's death.
+
+Date: 2026-07-14
+
+### Discovered by Atlas
+
+Darline Graham first entered the public knowledge record with source-backed evidence.
+
+Date: 2026-07-14
+
+### Lindsey Graham’s Sister, Darline Graham, Is Sworn In to Finish His Senate Term
+
+Three days after Lindsey Graham died, his younger sister Darline Graham took the oath to hold his seat until his term ends in January.
+
+Date: 2026-07-14
 
 ### Darline Graham is sworn in as senator to fill her brother Lindsey Graham’s seat
 
@@ -26,28 +44,13 @@ South Carolina Gov. Henry McMaster says he is appointing Darline Graham to finis
 
 Date: 2026-07-14
 
-### Darline Graham sworn in as senator after her brother's death
-
-Darline Graham, the sister of the late South Carolina Sen. Lindsey Graham, was sworn in by the Senate on Tuesday afternoon — filling the seat just three days after her brother's death.
-
-Date: 2026-07-14
-
 ### Darline Graham, sister of Lindsey Graham, sworn in to fulfill his Senate term
 
 Lindsey Graham’s younger sister appointed by South Carolina’s governor three days after senator’s death Darline Graham Nordone: Lindsey Graham’s sister and interim US senator Darline Graham, the sister of the late Republican senator Lindsey Graham, was sworn in to temporarily fill his Senate seat on Tuesday, just three.
 
 Date: 2026-07-14
 
-### Discovered by Atlas
-
-Darline Graham first entered the public knowledge record with source-backed evidence.
-
-Date: 2026-07-14
-
 ## Sources
 
-- [Darline Graham is sworn in as senator to fill her brother Lindsey Graham’s seat](https://www.nbcnews.com/politics/congress/darline-graham-sworn-senator-fill-brother-lindsey-grahams-seat-rcna587457?utm_source=lootura.com) — 2026-07-14T19:01:03.000Z
-- [Lindsey Graham's sister sworn in to Senate to fill his seat](https://www.nbcnews.com/now/video/lindsey-graham-s-sister-sworn-in-to-senate-to-fill-his-seat-266662469889?utm_source=lootura.com) — 2026-07-14T19:24:49.000Z
-- [South Carolina's governor appoints Lindsey Graham's sister to serve out his term](https://www.npr.org/2026/07/14/nx-s1-5891798/south-carolinas-governor-appoints-lindsey-grahams-sister-to-serve-out-his-term?utm_source=lootura.com) — 2026-07-14T09:01:46.000Z
 - [WATCH: Darline Graham sworn in as senator after her brother's death](https://www.pbs.org/newshour/politics/watch-darline-graham-sworn-in-as-senator-after-her-brothers-death?utm_source=lootura.com) — 2026-07-14T19:10:45.000Z
-- [Darline Graham, sister of Lindsey Graham, sworn in to fulfill his Senate term](https://www.theguardian.com/us-news/2026/jul/14/darline-graham-nordone-south-carolina-senator?utm_source=lootura.com) — 2026-07-14T20:35:20.000Z
+- [Lindsey Graham’s Sister, Darline Graham, Is Sworn In to Finish His Senate Term](https://www.nytimes.com/2026/07/14/us/politics/darline-graham-south-carolina-senate.html?utm_source=lootura.com) — 2026-07-14T21:25:18.000Z

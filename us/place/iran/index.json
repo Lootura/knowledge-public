@@ -8,12 +8,32 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/iran/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/iran/index.json",
   "description": "Follow Iran, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-14T20:58:39.119Z",
+  "updatedAt": "2026-07-15T02:11:36.851Z",
   "aliases": [],
   "changes": [
     {
+      "title": "Trump says he won't rule out sending ground troops to Iran",
+      "summary": "President Trump told Fox News on Tuesday that he won't rule out a ground invasion of Iran. The comments come amid another round of U.S. strikes against Iranian targets. CBS News' Eleanor Watson reports.",
+      "date": "2026-07-15"
+    },
+    {
       "title": "Inflation slowed sharply -- but it may not last",
       "summary": "Annual inflation hit 3.5% in June, down from May's more than three-year high — but the resumption of the conflict with Iran threaten to push up inflation as energy costs once again spike. (Image credit: Brandon Bell).",
+      "date": "2026-07-14"
+    },
+    {
+      "title": "At War With Iran Again, Trump Finds an Opponent He Cannot Easily Dominate",
+      "summary": "The president is accustomed to forcing other countries to bend to his will. But he is struggling to come up with a strategy to extract Iranian concessions as the cease-fire he brokered collapses.",
+      "date": "2026-07-14"
+    },
+    {
+      "title": "Senate Democrats Block Defense Bill Over War in Iran",
+      "summary": "The vote reflected how the political debate over the conflict in the Middle East has sapped bipartisan support for a normally popular measure.",
+      "date": "2026-07-14"
+    },
+    {
+      "title": "‘We Love Iraq,’ Trump Tells New Prime Minister in Oval Office Meeting",
+      "summary": "The meeting comes as President Trump’s administration has been ratcheting up pressure on Baghdad to diminish Iran’s influence in Iraq.",
       "date": "2026-07-14"
     },
     {
@@ -40,33 +60,13 @@
       "title": "Inflation cools to 3.5% in June in relief brought by brief US-Iran deal",
       "summary": "Recent strikes have sent oil prices climbing again, with average gas price per gallon up by 70 cents on last year Inflation cooled to an annual rate of 3.5% in June as the brief US-Iran ceasefire, which has since ended, brought energy prices down, according to new data from the Bureau of Labor Statistics. The consumer.",
       "date": "2026-07-14"
-    },
-    {
-      "title": "Yemen’s Fragile Peace in Peril as Houthis Accuse Saudi Arabia of Bombing",
-      "summary": "The Iran-backed Houthi rebels in Yemen accused Saudi Arabia of striking Yemen’s main international airport in a dispute over an Iranian plane that tried to land in the capital, Sana.",
-      "date": "2026-07-13"
-    },
-    {
-      "title": "Will Oil Prices Rise as the US-Iran Truce Frays? The Answer Lies With China.",
-      "summary": "For decades, OPEC influenced the market by how much oil it produced. But China, the largest importer, is demonstrating its remarkable power over prices.",
-      "date": "2026-07-13"
-    },
-    {
-      "title": "Oil Prices Surge After Iran and U.S. Trade Strikes",
-      "summary": "The renewed hostilities posed fresh risks to ships seeking to navigate the Strait of Hormuz.",
-      "date": "2026-07-13"
-    },
-    {
-      "title": "Strait of Hormuz Ship Traffic Falls to Lowest Point in a Month After Strikes",
-      "summary": "Shipping activity plummeted after Iran attacked a ship, setting off U.S. strikes. Little crude oil is being transported through the critical waterway.",
-      "date": "2026-07-13"
     }
   ],
   "sources": [
     {
-      "title": "More U.S. strikes slam Iran as tensions roar over Strait of Hormuz and Bab al-Mandab waterways",
-      "url": "https://www.cbsnews.com/video/more-us-strikes-slam-iran-as-tensions-roar-over-strait-of-hormuz-and-bab-al-mandab-waterways/?utm_source=lootura.com",
-      "publishedAt": "2026-07-14T13:12:26.000Z",
+      "title": "Trump says he won't rule out sending ground troops to Iran",
+      "url": "https://www.cbsnews.com/video/trump-says-he-wont-rule-out-sending-ground-troops-to-iran/?utm_source=lootura.com",
+      "publishedAt": "2026-07-15T00:48:43.000Z",
       "sourceId": "lootura-us-cbs-news"
     },
     {
@@ -76,17 +76,23 @@
       "sourceId": "lootura-us-npr"
     },
     {
-      "title": "Senate Democrats Block Defense Bill Over War in Iran",
-      "url": "https://www.nytimes.com/2026/07/14/us/politics/senate-democrats-defense-bill.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-14T19:43:54.000Z",
+      "title": "At War With Iran Again, Trump Finds an Opponent He Cannot Easily Dominate",
+      "url": "https://www.nytimes.com/2026/07/14/us/politics/iran-trump-war.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-14T23:01:39.000Z",
       "sourceId": "lootura-us-the-new-york-times"
     },
     {
-      "title": "Europe, Flexing Muscle in Ukraine, Is Still on Sidelines in Iran",
-      "url": "https://www.nytimes.com/2026/07/14/world/europe/macron-trump-bastille-day-military-parade.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-14T19:17:56.000Z",
-      "sourceId": "lootura-us-the-new-york-times-world"
+      "title": "Senate Democrats Block Defense Bill Over War in Iran",
+      "url": "https://www.nytimes.com/2026/07/14/us/politics/senate-democrats-defense-bill.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-14T19:44:27.000Z",
+      "sourceId": "lootura-us-the-new-york-times-politics"
+    },
+    {
+      "title": "‘We Love Iraq,’ Trump Tells New Prime Minister in Oval Office Meeting",
+      "url": "https://www.nytimes.com/2026/07/14/us/politics/iraq-trump-oval-office-meeting.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-14T19:09:58.000Z",
+      "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 4
+  "evidenceCount": 5
 }

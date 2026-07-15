@@ -3,16 +3,10 @@
 > Sigue la actividad de Begoña Gómez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-14T20:58:20.799Z
+- Actualizado: 2026-07-15T02:11:09.495Z
 - Canonical: https://atlas.lootura.com/es/person/begona-gomez
 
 ## Cambios recientes
-
-### El Gobierno denuncia que lo pretenden “derribar” ante “la incapacidad de hacerlo por las urnas” tras la condena al hermano de Sánchez
-
-El Gobierno esperaba la absolución de David Sánchez y no estaba preparado para la condena de nueve años de inhabilitación al hermano del presidente por prevaricación. El fallo de la Audiencia Provincial de Badajoz, combinado con las últimas decisiones en la controvertida causa del juez Peinado contra Begoña Gómez, con.
-
-Date: 2026-07-14
 
 ### David Sánchez, el hijo de Magdalena y Pedro
 
@@ -23,6 +17,12 @@ Date: 2026-07-14
 ### Última hora de la actualidad política, en directo | Rufián, sobre la condena a David Sánchez: “Es una sobrada importante (…) Luego viene Begoña Gómez”
 
 David Sánchez, hermano del presidente del Gobierno, ha sido condenado a nueve años de inhabilitación por un delito de prevaricación, y las reacciones políticas no se han hecho esperar. El portavoz de ERC en el Congreso, Gabriel Rufián, ha considerado que la condena era “previsible”: “La derecha y la ultraderecha deberí.
+
+Date: 2026-07-14
+
+### El Gobierno denuncia que lo pretenden “derribar” ante “la incapacidad de hacerlo por las urnas” tras la condena al hermano de Sánchez
+
+El Gobierno esperaba la absolución de David Sánchez y no estaba preparado para la condena de nueve años de inhabilitación al hermano del presidente por prevaricación. El fallo de la Audiencia Provincial de Badajoz, combinado con las últimas decisiones en la controvertida causa del juez Peinado contra Begoña Gómez, con.
 
 Date: 2026-07-14
 
@@ -70,6 +70,5 @@ Date: 2026-07-09
 
 ## Fuentes
 
-- [El Gobierno denuncia que lo pretenden “derribar” ante “la incapacidad de hacerlo por las urnas” tras la condena al hermano de Sánchez](https://elpais.com/espana/2026-07-14/puente-denuncia-que-se-pretende-derribar-al-gobierno-ante-la-incapacidad-de-hacerlo-por-las-urnas-tras-la-condena-del-hermano-de-sanchez.html?utm_source=lootura.com) — 2026-07-14T11:26:47.000Z
 - [David Sánchez, el hijo de Magdalena y Pedro](https://elpais.com/espana/2026-07-14/david-sanchez-el-hijo-de-magdalena-y-pedro.html?utm_source=lootura.com) — 2026-07-14T15:37:37.000Z
 - [Última hora de la actualidad política, en directo | Rufián, sobre la condena a David Sánchez: “Es una sobrada importante (…) Luego viene Begoña Gómez”](https://elpais.com/espana/2026-07-14/ultima-hora-de-la-actualidad-politica-en-directo.html?utm_source=lootura.com) — 2026-07-14T17:03:34.000Z

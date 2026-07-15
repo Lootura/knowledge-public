@@ -64,4 +64,4 @@ Date: 2026-07-08
 
 ## Sources
 
-- [Maine Democrats will square off in Senate debate Thursday](https://www.politico.com/news/2026/07/14/maine-democrats-senate-debate-platner-00997107?utm_source=lootura.com) — 2026-07-14T18:34:24.000Z
+No public source links.

@@ -8,14 +8,9 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/begona-gomez/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/begona-gomez/index.json",
   "description": "Sigue la actividad de Begoña Gómez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-14T20:58:20.799Z",
+  "updatedAt": "2026-07-15T02:11:09.495Z",
   "aliases": [],
   "changes": [
-    {
-      "title": "El Gobierno denuncia que lo pretenden “derribar” ante “la incapacidad de hacerlo por las urnas” tras la condena al hermano de Sánchez",
-      "summary": "El Gobierno esperaba la absolución de David Sánchez y no estaba preparado para la condena de nueve años de inhabilitación al hermano del presidente por prevaricación. El fallo de la Audiencia Provincial de Badajoz, combinado con las últimas decisiones en la controvertida causa del juez Peinado contra Begoña Gómez, con.",
-      "date": "2026-07-14"
-    },
     {
       "title": "David Sánchez, el hijo de Magdalena y Pedro",
       "summary": "El 22 de julio de 2019, durante el debate de investidura de Pedro Sánchez, los periodistas sentados en la tribuna jugábamos a adivinar el nombre de los presentes en la zona de invitados. Ahí estaba Begoña Gómez, en primera fila, junto a un matrimonio con el que conversaba con cercanía, pero con la distancia suficiente.",
@@ -24,6 +19,11 @@
     {
       "title": "Última hora de la actualidad política, en directo | Rufián, sobre la condena a David Sánchez: “Es una sobrada importante (…) Luego viene Begoña Gómez”",
       "summary": "David Sánchez, hermano del presidente del Gobierno, ha sido condenado a nueve años de inhabilitación por un delito de prevaricación, y las reacciones políticas no se han hecho esperar. El portavoz de ERC en el Congreso, Gabriel Rufián, ha considerado que la condena era “previsible”: “La derecha y la ultraderecha deberí.",
+      "date": "2026-07-14"
+    },
+    {
+      "title": "El Gobierno denuncia que lo pretenden “derribar” ante “la incapacidad de hacerlo por las urnas” tras la condena al hermano de Sánchez",
+      "summary": "El Gobierno esperaba la absolución de David Sánchez y no estaba preparado para la condena de nueve años de inhabilitación al hermano del presidente por prevaricación. El fallo de la Audiencia Provincial de Badajoz, combinado con las últimas decisiones en la controvertida causa del juez Peinado contra Begoña Gómez, con.",
       "date": "2026-07-14"
     },
     {
@@ -64,12 +64,6 @@
   ],
   "sources": [
     {
-      "title": "El Gobierno denuncia que lo pretenden “derribar” ante “la incapacidad de hacerlo por las urnas” tras la condena al hermano de Sánchez",
-      "url": "https://elpais.com/espana/2026-07-14/puente-denuncia-que-se-pretende-derribar-al-gobierno-ante-la-incapacidad-de-hacerlo-por-las-urnas-tras-la-condena-del-hermano-de-sanchez.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-14T11:26:47.000Z",
-      "sourceId": "lootura-es-el-pais"
-    },
-    {
       "title": "David Sánchez, el hijo de Magdalena y Pedro",
       "url": "https://elpais.com/espana/2026-07-14/david-sanchez-el-hijo-de-magdalena-y-pedro.html?utm_source=lootura.com",
       "publishedAt": "2026-07-14T15:37:37.000Z",
@@ -82,5 +76,5 @@
       "sourceId": "lootura-es-el-pais"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 2
 }

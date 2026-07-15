@@ -8,16 +8,11 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/supreme-court/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/supreme-court/index.json",
   "description": "Follow Supreme Court, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-14T20:58:39.119Z",
+  "updatedAt": "2026-07-15T02:11:36.851Z",
   "aliases": [
     "U.S. Supreme Court"
   ],
   "changes": [
-    {
-      "title": "Funding milestone detected",
-      "summary": "justices are asking lawmakers on Capitol Hill to increase their 2027 budget, with most of the additional funding earmarked for security. Ann E. Marimow, a New York Times reporter, explains why the justices say these measures are necessary to protect them from rising threats.",
-      "date": "2026-07-14"
-    },
     {
       "title": "Justice Kagan Tells House Panel That ‘Threats Have Come Very Close’",
       "summary": "In her prepared remarks, Justice Elena Kagan said the Supreme Court Police estimated a 38 percent increase in threats this year.",
@@ -26,6 +21,16 @@
     {
       "title": "Takeaways From Justices Kagan and Barrett’s Congressional Testimony on Supreme Court Security",
       "summary": "Elena Kagan and Amy Coney Barrett, the first Supreme Court justices to testify since 2019, talked about ethics and security threats during a collegial hearing.",
+      "date": "2026-07-14"
+    },
+    {
+      "title": "Funding milestone detected",
+      "summary": "Justices Elena Kagan and Amy Coney Barrett testified before Congress as the nation's highest court looks to increase security funding in the wake of threats. It's the first time Supreme Court justices have appeared before Congress since 2019. Congressional correspondent Lisa Desjardins reports.",
+      "date": "2026-07-14"
+    },
+    {
+      "title": "Funding milestone detected",
+      "summary": "justices are asking lawmakers on Capitol Hill to increase their 2027 budget, with most of the additional funding earmarked for security. Ann E. Marimow, a New York Times reporter, explains why the justices say these measures are necessary to protect them from rising threats.",
       "date": "2026-07-14"
     },
     {
@@ -57,25 +62,20 @@
       "title": "What's next for immigrants with TPS status after Supreme Court ruling?",
       "summary": "The legal status of nearly 1.3 million immigrants facing war or environmental disasters in their home countries is up in the air following a U.S. Supreme Court ruling on the Temporary Protected Status (TPS) program. In a 6-3 decision, the high court ruled last month that the Homeland Security secretary's decision to gr.",
       "date": "2026-07-09"
-    },
-    {
-      "title": "Trump Says He’ll Ask Supreme Court to Rehear Citizenship Case, an Unlikely Event",
-      "summary": "The last time the justices granted a rehearing request after a case decision was in 1965. The court has only once reversed itself after rehearing a case.",
-      "date": "2026-07-09"
     }
   ],
   "sources": [
+    {
+      "title": "Supreme Court justices make case for more security funding",
+      "url": "https://www.pbs.org/newshour/show/supreme-court-justices-make-case-for-more-security-funding?utm_source=lootura.com",
+      "publishedAt": "2026-07-14T22:35:41.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
+    },
     {
       "title": "Takeaways From Justices Kagan and Barrett’s Congressional Testimony on Supreme Court Security",
       "url": "https://www.nytimes.com/2026/07/14/us/politics/supreme-court-congress-takeaways.html?utm_source=lootura.com",
       "publishedAt": "2026-07-14T18:41:03.000Z",
       "sourceId": "lootura-us-the-new-york-times"
-    },
-    {
-      "title": "Why Supreme Court Justices Are Asking for More Security",
-      "url": "https://www.nytimes.com/video/us/politics/100000011017774/why-supreme-court-justices-are-asking-for-more-security.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-14T10:51:09.000Z",
-      "sourceId": "lootura-us-the-new-york-times-politics"
     },
     {
       "title": "Justice Kagan Tells House Panel That ‘Threats Have Come Very Close’",

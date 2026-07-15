@@ -3,10 +3,28 @@
 > Follow Democratic Party, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-07-14T20:58:39.119Z
+- Updated: 2026-07-15T02:11:36.851Z
 - Canonical: https://atlas.lootura.com/us/organization/democratic-party
 
 ## Recent changes
+
+### Maine Democrats criticize GOP Sen. Susan Collins after fatal ICE shooting of motorist in the state
+
+A federal immigration agent fatally shot a motorist just south of Maine's largest city on Monday, the second time in a week that ICE has used deadly force on American soil and at least the ninth death since President Donald Trump began his immigration crackdown.
+
+Date: 2026-07-14
+
+### Maine Democrats will square off in first Senate debate since Platner's withdrawal
+
+The first debate on Thursday in Maine's flash Democratic primary may feature a crowded stage. Eight candidates to replace Graham Platner on the ballot have been invited to the debate in Portland, the organizer said Tuesday. News Center Maine, which is sponsoring the event, had initially invited three people who ran for.
+
+Date: 2026-07-14
+
+### Senate Democrats Block Defense Bill Over War in Iran
+
+The vote reflected how the political debate over the conflict in the Middle East has sapped bipartisan support for a normally popular measure.
+
+Date: 2026-07-14
 
 ### Funding milestone detected
 
@@ -50,28 +68,8 @@ The killing of a man in Biddeford quickly became an issue in the Senate race, wi
 
 Date: 2026-07-14
 
-### Tamara Keith and Amy Walter on Lindsey Graham's passing
-
-NPR's Tamara Keith and Amy Walter of the Cook Political Report with Amy Walter join Geoff Bennett to discuss the latest political news, including what the passing of Sen. Lindsey Graham means for South Carolina and the Senate, Sen. Mitch McConnell's health and Democrats scrambling to replace Graham Platner in the Maine.
-
-Date: 2026-07-13
-
-### Mercurial and Magnetic, Lindsey Graham Was a Force in the Senate
-
-The sharp-witted South Carolinian repaired relations with President Trump to advance his foreign policy goals, was willing to cut deals with Democrats and tried to insert himself into every legislative fight.
-
-Date: 2026-07-13
-
-### Midwest becomes next theater in Democrats' progressive vs. moderate fight
-
-August primaries in Michigan, Wisconsin and Minnesota will be another gauge of Democratic voters' frustration with the establishment.
-
-Date: 2026-07-13
-
 ## Sources
 
-- [Facing funding losses, states call out big businesses with employees on Medicaid](https://www.cbsnews.com/news/medicaid-funding-work-requirement-states-walmart-amazon/?utm_source=lootura.com) — 2026-07-14T09:00:15.000Z
-- [Maine Democrats will square off in Senate debate Thursday](https://www.politico.com/news/2026/07/14/maine-democrats-senate-debate-platner-00997107?utm_source=lootura.com) — 2026-07-14T18:34:24.000Z
-- [Senate Democrats Block Defense Bill Over War in Iran](https://www.nytimes.com/2026/07/14/us/politics/senate-democrats-defense-bill.html?utm_source=lootura.com) — 2026-07-14T19:43:54.000Z
-- [Can Democrats Win Rural Voters Turning Away From Trump? It’s a Tough Sell.](https://www.nytimes.com/2026/07/14/us/politics/rural-democrats-midterms.html?utm_source=lootura.com) — 2026-07-14T12:21:09.000Z
-- [Red State, Blue Governor: It Could Happen in Iowa. Would It Matter?](https://www.nytimes.com/2026/07/14/us/politics/republican-supermajority-iowa-ohio.html?utm_source=lootura.com) — 2026-07-14T09:02:27.000Z
+- [Maine Democrats criticize GOP Sen. Susan Collins after fatal ICE shooting of motorist in the state](https://www.pbs.org/newshour/politics/maine-democrats-criticize-gop-sen-susan-collins-after-fatal-ice-shooting-of-motorist-in-the-state?utm_source=lootura.com) — 2026-07-14T23:05:04.000Z
+- [Maine Democrats will square off in first Senate debate since Platner's withdrawal](https://www.politico.com/news/2026/07/14/maine-democrats-senate-debate-platner-00997107?utm_source=lootura.com) — 2026-07-14T18:34:24.000Z
+- [Senate Democrats Block Defense Bill Over War in Iran](https://www.nytimes.com/2026/07/14/us/politics/senate-democrats-defense-bill.html?utm_source=lootura.com) — 2026-07-14T19:44:27.000Z

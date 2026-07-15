@@ -47,19 +47,6 @@
       "date": "2026-07-12"
     }
   ],
-  "sources": [
-    {
-      "title": "Sen. John Thune gets emotional during speech honoring Lindsey Graham",
-      "url": "https://www.cbsnews.com/video/sen-john-thune-gets-emotional-during-speech-honoring-lindsey-graham/?utm_source=lootura.com",
-      "publishedAt": "2026-07-14T13:16:53.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
-    {
-      "title": "Why Supreme Court Justices Are Asking for More Security",
-      "url": "https://www.nytimes.com/video/us/politics/100000011017774/why-supreme-court-justices-are-asking-for-more-security.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-14T10:51:09.000Z",
-      "sourceId": "lootura-us-the-new-york-times-politics"
-    }
-  ],
-  "evidenceCount": 1
+  "sources": [],
+  "evidenceCount": 0
 }

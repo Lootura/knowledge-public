@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/topic/artificial-intelligence/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/topic/artificial-intelligence/index.json",
   "description": "Sigue la actividad de Artificial intelligence en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-14T20:58:20.799Z",
+  "updatedAt": "2026-07-15T02:11:09.495Z",
   "aliases": [
     "AI",
     "machine learning"
@@ -37,10 +37,10 @@
   ],
   "sources": [
     {
-      "title": "DeepSeek acelera los preparativos para salir a Bolsa",
-      "url": "https://cincodias.elpais.com/mercados-financieros/2026-07-14/deepseek-acelera-los-preparativos-para-salir-a-bolsa-este-ano.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-14T16:22:34.000Z",
-      "sourceId": "lootura-es-cinco-dias"
+      "title": "¿Quién ganará el Mundial? Así avanzan nuestras predicciones",
+      "url": "https://elpais.com/deportes/mundial-futbol/2026-06-11/quien-ganara-el-mundial-asi-arrancan-nuestras-predicciones.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-14T17:53:23.000Z",
+      "sourceId": "lootura-es-el-pais"
     }
   ],
   "evidenceCount": 0

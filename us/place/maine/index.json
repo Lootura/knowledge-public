@@ -8,27 +8,22 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/maine/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/maine/index.json",
   "description": "Follow Maine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-14T20:58:39.119Z",
+  "updatedAt": "2026-07-15T02:11:36.851Z",
   "aliases": [],
   "changes": [
     {
-      "title": "ICE Agent Kills Person in Vehicle in Biddeford, Maine, State Officials Say",
-      "summary": "The fatal shooting in Biddeford, Maine, was the second in a week involving an Immigration and Customs Enforcement agent firing into a vehicle.",
-      "date": "2026-07-14"
+      "title": "ICE halts most vehicle stops following deadly shootings, sources say",
+      "summary": "Neither of the victims of the ICE shootings in Maine or Texas were the target of enforcement operations, according to the Department of Homeland Security.",
+      "date": "2026-07-15"
+    },
+    {
+      "title": "Videos Detail Moments Surrounding Fatal ICE Shooting in Biddeford, Maine",
+      "summary": "Footage obtained by The New York Times shows ICE agents in the moments before and after the killing of Joan Sebastian Guerrero. The circumstances of the shooting remain unclear.",
+      "date": "2026-07-15"
     },
     {
       "title": "Morning news brief",
       "summary": "Trump says the U.S. will collect tolls and impose blockade in the Strait of Hormuz, man killed by federal agents in Maine, states sue to stop Paramount-Warner Bros merger.",
-      "date": "2026-07-14"
-    },
-    {
-      "title": "Officials Investigate Fatal ICE Shooting in Maine as Fallout Grows",
-      "summary": "There is a growing demand for answers after a fatal ICE-involved shooting in Maine. According to an ICE spokesperson, the shooting happened when agents tried to conduct a traffic stop and, they say, the vehicle tried to get away. That’s when ICE says an agent opened fire “fearing for public safety.” The incident, which.",
-      "date": "2026-07-14"
-    },
-    {
-      "title": "ICE halts most vehicle stops following deadly shootings, sources say",
-      "summary": "Neither of the victims of the ICE shootings in Maine or Texas were the target of enforcement operations, according to the Department of Homeland Security.",
       "date": "2026-07-14"
     },
     {
@@ -37,28 +32,33 @@
       "date": "2026-07-14"
     },
     {
-      "title": "DHS says ICE officer who fatally shot driver in Maine was 'fearing for public safety'",
-      "summary": "A witness says he heard driver say, \"I tried to stop.\".",
-      "date": "2026-07-14"
-    },
-    {
-      "title": "Many questions remain after an ICE officer's fatal shooting of a Maine driver",
-      "summary": "Immigrant rights groups are demanding answers and planning more protests Tuesday over an Immigration and Customs Enforcement officer's fatal shooting of a Maine driver.",
-      "date": "2026-07-14"
-    },
-    {
-      "title": "ICE needs to be ‘dismantled’: Senate candidate Dan Kleban after ICE-involved shooting in Maine",
-      "summary": "Dan Kleban (D-Maine) joins Meet the Press NOW to discuss his run to replace Graham Platner in the Senate race. Kelban also reacts to the fatal ICE shooting in Maine.",
-      "date": "2026-07-14"
-    },
-    {
       "title": "In the aftermath of deadly shootings, ICE pauses most traffic stops",
       "summary": "U.S. Immigration and Customs Enforcement will pause non-urgent vehicle stops after two deadly shootings in less than a week, Maine U.S. Sen. Angus King's office tells NPR. (Image credit: Joseph Prezioso).",
       "date": "2026-07-14"
     },
     {
-      "title": "Maine Democrats will square off in Senate debate Thursday",
-      "summary": "Democrats vying to replace former Maine Senate nominee Graham Platner on the ballot are set to battle on the debate stage Thursday night. News Center Maine confirmed the debate, which will be held at 7 p.m. EDT in Portland and include three former gubernatorial hopefuls — Troy Jackson , Shenna Bellows and Nirav Shah —.",
+      "title": "ICE Ordered to Cease Most Vehicle Stops After Fatal Shootings in Maine and Houston",
+      "summary": "Agents fatally shot a man in Houston and another in coastal Maine, both in their vehicles. The killings were the latest in a string of ICE shootings during President Trump’s second term.",
+      "date": "2026-07-14"
+    },
+    {
+      "title": "Maine Democrats criticize GOP Sen. Susan Collins after fatal ICE shooting of motorist in the state",
+      "summary": "A federal immigration agent fatally shot a motorist just south of Maine's largest city on Monday, the second time in a week that ICE has used deadly force on American soil and at least the ninth death since President Donald Trump began his immigration crackdown.",
+      "date": "2026-07-14"
+    },
+    {
+      "title": "Maine Sen. King says feds lack credibility, locals need role in ICE shooting investigation",
+      "summary": "A 26-year-old Colombian national was shot and killed in Maine after ICE agents attempted to pull him over while he was driving. ICE said Joan Sebastian Guerrero tried to flee and used his vehicle as a weapon, prompting an agent to fire in self-defense. It comes after a man in Houston was killed by ICE while behind the.",
+      "date": "2026-07-14"
+    },
+    {
+      "title": "Maine Democrats will square off in first Senate debate since Platner's withdrawal",
+      "summary": "The first debate on Thursday in Maine's flash Democratic primary may feature a crowded stage. Eight candidates to replace Graham Platner on the ballot have been invited to the debate in Portland, the organizer said Tuesday. News Center Maine, which is sponsoring the event, had initially invited three people who ran for.",
+      "date": "2026-07-14"
+    },
+    {
+      "title": "ICE Agent Kills Person in Vehicle in Biddeford, Maine, State Officials Say",
+      "summary": "The fatal shooting in Biddeford, Maine, was the second in a week involving an Immigration and Customs Enforcement agent firing into a vehicle.",
       "date": "2026-07-14"
     }
   ],
@@ -72,20 +72,8 @@
     {
       "title": "ICE halts most vehicle stops following deadly shootings, sources say",
       "url": "https://www.cbsnews.com/news/ice-agents-halt-vehicle-stops-after-shootings-maine-texas/?utm_source=lootura.com",
-      "publishedAt": "2026-07-14T20:06:11.000Z",
+      "publishedAt": "2026-07-15T00:07:35.000Z",
       "sourceId": "lootura-us-cbs-news"
-    },
-    {
-      "title": "Officials Investigate Fatal ICE Shooting in Maine as Fallout Grows",
-      "url": "https://www.today.com/video/officials-investigate-fatal-ice-shooting-in-maine-as-fallout-grows-266634821667?utm_source=lootura.com",
-      "publishedAt": "2026-07-14T11:27:17.000Z",
-      "sourceId": "lootura-us-nbc-news"
-    },
-    {
-      "title": "ICE needs to be ‘dismantled’: Senate candidate Dan Kleban after ICE-involved shooting in Maine",
-      "url": "https://www.nbcnews.com/meet-the-press/video/ice-needs-to-be-dismantled-senate-candidate-dan-kleban-after-ice-involved-shooting-in-maine-266666565710?utm_source=lootura.com",
-      "publishedAt": "2026-07-14T20:35:29.000Z",
-      "sourceId": "lootura-us-nbc-news-politics"
     },
     {
       "title": "Morning news brief",
@@ -106,23 +94,35 @@
       "sourceId": "lootura-us-npr-politics"
     },
     {
-      "title": "DHS says ICE officer who fatally shot driver in Maine was 'fearing for public safety'",
-      "url": "https://www.pbs.org/newshour/politics/dhs-says-ice-officer-who-fatally-shot-driver-in-maine-was-fearing-for-public-safety?utm_source=lootura.com",
-      "publishedAt": "2026-07-14T14:31:51.000Z",
+      "title": "Maine Democrats criticize GOP Sen. Susan Collins after fatal ICE shooting of motorist in the state",
+      "url": "https://www.pbs.org/newshour/politics/maine-democrats-criticize-gop-sen-susan-collins-after-fatal-ice-shooting-of-motorist-in-the-state?utm_source=lootura.com",
+      "publishedAt": "2026-07-14T23:05:04.000Z",
       "sourceId": "lootura-us-pbs-newshour"
     },
     {
-      "title": "Many questions remain after an ICE officer's fatal shooting of a Maine driver",
-      "url": "https://www.pbs.org/newshour/politics/many-questions-remain-after-an-ice-officers-fatal-shooting-of-a-maine-driver?utm_source=lootura.com",
-      "publishedAt": "2026-07-14T15:35:24.000Z",
+      "title": "Maine Sen. King says feds lack credibility, locals need role in ICE shooting investigation",
+      "url": "https://www.pbs.org/newshour/show/maine-sen-king-says-feds-lack-credibility-locals-need-role-in-ice-shooting-investigation?utm_source=lootura.com",
+      "publishedAt": "2026-07-14T22:55:25.000Z",
       "sourceId": "lootura-us-pbs-newshour"
     },
     {
-      "title": "Maine Democrats will square off in Senate debate Thursday",
+      "title": "Maine Democrats will square off in first Senate debate since Platner's withdrawal",
       "url": "https://www.politico.com/news/2026/07/14/maine-democrats-senate-debate-platner-00997107?utm_source=lootura.com",
       "publishedAt": "2026-07-14T18:34:24.000Z",
       "sourceId": "lootura-us-politico"
+    },
+    {
+      "title": "ICE Ordered to Cease Most Vehicle Stops After Fatal Shootings in Maine and Houston",
+      "url": "https://www.nytimes.com/2026/07/14/us/ice-agents-traffic-stops.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-14T17:02:07.000Z",
+      "sourceId": "lootura-us-the-new-york-times"
+    },
+    {
+      "title": "Videos Detail Moments Surrounding Fatal ICE Shooting in Biddeford, Maine",
+      "url": "https://www.nytimes.com/2026/07/14/us/maine-ice-shooting-video-joan-sebastian-guerrero.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-15T00:31:20.000Z",
+      "sourceId": "lootura-us-the-new-york-times"
     }
   ],
-  "evidenceCount": 13
+  "evidenceCount": 10
 }

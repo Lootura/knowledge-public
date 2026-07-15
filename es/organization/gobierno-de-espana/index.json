@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/gobierno-de-espana/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/gobierno-de-espana/index.json",
   "description": "Sigue la actividad de Gobierno de España en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-14T17:12:02.446Z",
+  "updatedAt": "2026-07-15T02:11:09.495Z",
   "aliases": [
     "Ejecutivo español",
     "Gobierno español"
   ],
   "changes": [
+    {
+      "title": "El trilero y Gibraltar",
+      "summary": "La tramitación del Tratado entre la Unión Europea y el Reino Unido sobre Gibraltar semeja a la de un juego trilero hilvanado por el Gobierno español y la Comisión de la Unión Europea. Con ello se busca desmontar las bazas que ciertamente tienen la oposición para bloquear un tratado traidor a nuestra historia y a nuestr.",
+      "date": "2026-07-15"
+    },
     {
       "title": "El Gobierno espera que se absuelva a David Sánchez en «instancias superiores»",
       "summary": "El Gobierno de España espera que «instancias superiores» a la Audiencia de Bajadoz, que ha condenado a nueve años de inhabilitación a David Sánchez , hermano del presidente del Gobierno, constaten su «inocencia» cuando se resuelva el recurso a la sentencia. Así lo ha manifestado la ministra portavoz del Gobierno, Elma.",
@@ -58,13 +63,15 @@
       "title": "Discovered by Atlas",
       "summary": "Gobierno de España first entered the public knowledge record with source-backed evidence.",
       "date": "2026-07-10"
-    },
-    {
-      "title": "Renfe pone rumbo a Portugal con Talgo tras el retroceso en Francia",
-      "summary": "\"Renfe va a ser el único operador con capacidad para prestar servicios internacionales ferroviarios de alta velocidad con Portugal, lo que le da una clara ventaja competitiva para liderar el mercado ibérico del tren\". Así se manifiestan representantes del Gobierno español para explicar las ventajas del acuerdo firmado.",
-      "date": "2026-07-10"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "El trilero y Gibraltar",
+      "url": "https://www.larazon.es/espana/trilero-gibraltar_202607156a551c53c48a78681b8720e5.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-15T00:00:21.000Z",
+      "sourceId": "lootura-es-la-razon"
+    }
+  ],
+  "evidenceCount": 1
 }

@@ -70,4 +70,4 @@ Date: 2026-07-12
 
 ## Fuentes
 
-- [Defensa considera que la cumbre de la OTAN abre oportunidades a la industria española](https://theobjective.com/espana/2026-07-14/defensa-otan-oportunidades-industria/?utm_source=lootura.com) — 2026-07-14T17:01:11.000Z
+No public source links.

@@ -3,14 +3,38 @@
 > Follow Iran, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-14T20:58:39.119Z
+- Updated: 2026-07-15T02:11:36.851Z
 - Canonical: https://atlas.lootura.com/us/place/iran
 
 ## Recent changes
 
+### Trump says he won't rule out sending ground troops to Iran
+
+President Trump told Fox News on Tuesday that he won't rule out a ground invasion of Iran. The comments come amid another round of U.S. strikes against Iranian targets. CBS News' Eleanor Watson reports.
+
+Date: 2026-07-15
+
 ### Inflation slowed sharply -- but it may not last
 
 Annual inflation hit 3.5% in June, down from May's more than three-year high — but the resumption of the conflict with Iran threaten to push up inflation as energy costs once again spike. (Image credit: Brandon Bell).
+
+Date: 2026-07-14
+
+### At War With Iran Again, Trump Finds an Opponent He Cannot Easily Dominate
+
+The president is accustomed to forcing other countries to bend to his will. But he is struggling to come up with a strategy to extract Iranian concessions as the cease-fire he brokered collapses.
+
+Date: 2026-07-14
+
+### Senate Democrats Block Defense Bill Over War in Iran
+
+The vote reflected how the political debate over the conflict in the Middle East has sapped bipartisan support for a normally popular measure.
+
+Date: 2026-07-14
+
+### ‘We Love Iraq,’ Trump Tells New Prime Minister in Oval Office Meeting
+
+The meeting comes as President Trump’s administration has been ratcheting up pressure on Baghdad to diminish Iran’s influence in Iraq.
 
 Date: 2026-07-14
 
@@ -44,33 +68,10 @@ Recent strikes have sent oil prices climbing again, with average gas price per g
 
 Date: 2026-07-14
 
-### Yemen’s Fragile Peace in Peril as Houthis Accuse Saudi Arabia of Bombing
-
-The Iran-backed Houthi rebels in Yemen accused Saudi Arabia of striking Yemen’s main international airport in a dispute over an Iranian plane that tried to land in the capital, Sana.
-
-Date: 2026-07-13
-
-### Will Oil Prices Rise as the US-Iran Truce Frays? The Answer Lies With China.
-
-For decades, OPEC influenced the market by how much oil it produced. But China, the largest importer, is demonstrating its remarkable power over prices.
-
-Date: 2026-07-13
-
-### Oil Prices Surge After Iran and U.S. Trade Strikes
-
-The renewed hostilities posed fresh risks to ships seeking to navigate the Strait of Hormuz.
-
-Date: 2026-07-13
-
-### Strait of Hormuz Ship Traffic Falls to Lowest Point in a Month After Strikes
-
-Shipping activity plummeted after Iran attacked a ship, setting off U.S. strikes. Little crude oil is being transported through the critical waterway.
-
-Date: 2026-07-13
-
 ## Sources
 
-- [More U.S. strikes slam Iran as tensions roar over Strait of Hormuz and Bab al-Mandab waterways](https://www.cbsnews.com/video/more-us-strikes-slam-iran-as-tensions-roar-over-strait-of-hormuz-and-bab-al-mandab-waterways/?utm_source=lootura.com) — 2026-07-14T13:12:26.000Z
+- [Trump says he won't rule out sending ground troops to Iran](https://www.cbsnews.com/video/trump-says-he-wont-rule-out-sending-ground-troops-to-iran/?utm_source=lootura.com) — 2026-07-15T00:48:43.000Z
 - [Inflation slowed sharply -- but it may not last](https://www.npr.org/2026/07/14/nx-s1-5893379/inflation-economy-consumer-prices-federal-reserve?utm_source=lootura.com) — 2026-07-14T14:40:20.000Z
-- [Senate Democrats Block Defense Bill Over War in Iran](https://www.nytimes.com/2026/07/14/us/politics/senate-democrats-defense-bill.html?utm_source=lootura.com) — 2026-07-14T19:43:54.000Z
-- [Europe, Flexing Muscle in Ukraine, Is Still on Sidelines in Iran](https://www.nytimes.com/2026/07/14/world/europe/macron-trump-bastille-day-military-parade.html?utm_source=lootura.com) — 2026-07-14T19:17:56.000Z
+- [At War With Iran Again, Trump Finds an Opponent He Cannot Easily Dominate](https://www.nytimes.com/2026/07/14/us/politics/iran-trump-war.html?utm_source=lootura.com) — 2026-07-14T23:01:39.000Z
+- [Senate Democrats Block Defense Bill Over War in Iran](https://www.nytimes.com/2026/07/14/us/politics/senate-democrats-defense-bill.html?utm_source=lootura.com) — 2026-07-14T19:44:27.000Z
+- [‘We Love Iraq,’ Trump Tells New Prime Minister in Oval Office Meeting](https://www.nytimes.com/2026/07/14/us/politics/iraq-trump-oval-office-meeting.html?utm_source=lootura.com) — 2026-07-14T19:09:58.000Z

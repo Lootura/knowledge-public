@@ -47,25 +47,6 @@
       "date": "2026-07-12"
     }
   ],
-  "sources": [
-    {
-      "title": "South Carolina's governor appoints Lindsey Graham's sister to serve out his term",
-      "url": "https://www.npr.org/2026/07/14/nx-s1-5891798/south-carolinas-governor-appoints-lindsey-grahams-sister-to-serve-out-his-term?utm_source=lootura.com",
-      "publishedAt": "2026-07-14T09:01:46.000Z",
-      "sourceId": "lootura-us-npr-politics"
-    },
-    {
-      "title": "Darline Graham, sister of Lindsey Graham, sworn in to fulfill his Senate term",
-      "url": "https://www.theguardian.com/us-news/2026/jul/14/darline-graham-nordone-south-carolina-senator?utm_source=lootura.com",
-      "publishedAt": "2026-07-14T20:35:20.000Z",
-      "sourceId": "lootura-us-the-guardian-us"
-    },
-    {
-      "title": "Lindsey Graham’s Sister Appointed to Finish His Senate Term After Trump’s Backing",
-      "url": "https://www.nytimes.com/2026/07/13/us/politics/trump-graham-sister-south-carolina-senate.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-13T23:27:44.000Z",
-      "sourceId": "lootura-us-the-new-york-times"
-    }
-  ],
-  "evidenceCount": 3
+  "sources": [],
+  "evidenceCount": 0
 }

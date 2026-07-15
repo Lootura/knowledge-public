@@ -3,10 +3,16 @@
 > Sigue la actividad de Gobierno de España en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-14T17:12:02.446Z
+- Actualizado: 2026-07-15T02:11:09.495Z
 - Canonical: https://atlas.lootura.com/es/organization/gobierno-de-espana
 
 ## Cambios recientes
+
+### El trilero y Gibraltar
+
+La tramitación del Tratado entre la Unión Europea y el Reino Unido sobre Gibraltar semeja a la de un juego trilero hilvanado por el Gobierno español y la Comisión de la Unión Europea. Con ello se busca desmontar las bazas que ciertamente tienen la oposición para bloquear un tratado traidor a nuestra historia y a nuestr.
+
+Date: 2026-07-15
 
 ### El Gobierno espera que se absuelva a David Sánchez en «instancias superiores»
 
@@ -62,12 +68,6 @@ Gobierno de España first entered the public knowledge record with source-backed
 
 Date: 2026-07-10
 
-### Renfe pone rumbo a Portugal con Talgo tras el retroceso en Francia
-
-"Renfe va a ser el único operador con capacidad para prestar servicios internacionales ferroviarios de alta velocidad con Portugal, lo que le da una clara ventaja competitiva para liderar el mercado ibérico del tren". Así se manifiestan representantes del Gobierno español para explicar las ventajas del acuerdo firmado.
-
-Date: 2026-07-10
-
 ## Fuentes
 
-No public source links.
+- [El trilero y Gibraltar](https://www.larazon.es/espana/trilero-gibraltar_202607156a551c53c48a78681b8720e5.html?utm_source=lootura.com) — 2026-07-15T00:00:21.000Z

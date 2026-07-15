@@ -3,7 +3,7 @@
 > Sigue la actividad de Iran en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-14T20:58:20.799Z
+- Actualizado: 2026-07-15T02:11:09.495Z
 - Canonical: https://atlas.lootura.com/es/place/iran
 
 ## Cambios recientes
@@ -11,6 +11,12 @@
 ### EEUU restablece el bloqueo naval a Irán y lanza una nueva ola de bombardeos
 
 Las Fuerzas Armadas estadounidenses reimpusieron este martes el bloqueo naval a Irán en el estrecho de Ormuz , además de lanzar una nueva ola de bombardeos, según anunció el Comando Central del Ejército de Estados Unidos (Centcom). El organismo, con sede en Florida, expuso en un comunicado que el Ejército estadounidens.
+
+Date: 2026-07-14
+
+### Irán, la Fed y las 'midterm', un cóctel explosivo para la Bolsa en verano
+
+El conflicto en Irán sigue dando coletazos que mantienen la tensión en el estrecho de Ormuz y unos precios elevados del petróleo. Seguir leyendo.
 
 Date: 2026-07-14
 
@@ -62,12 +68,7 @@ El presidente de Estados Unidos, Donald Trump , aseguró este lunes que las fuer
 
 Date: 2026-07-13
 
-### El petróleo se dispara tras anunciar Trump un bloqueo a Irán y un peaje de EE UU en Ormuz
-
-Donald Trump ha anunciado al final de la tarde de este lunes que la Marina estadounidense volverá a bloquear el traspaso de embarcaciones iraníes por el estrecho de Ormuz y que además cobrará un peaje del 20% de la carga a cada barco que cruce el paso. El presidente estadounidense no ha detallado cómo aplicará este tri.
-
-Date: 2026-07-13
-
 ## Fuentes
 
+- [Irán, la Fed y las 'midterm', un cóctel explosivo para la Bolsa en verano](https://www.expansion.com/mercados/2026/07/14/6a563af3e5fdea526e8b4576.html?utm_source=lootura.com) — 2026-07-14T18:41:54.000Z
 - [EEUU restablece el bloqueo naval a Irán y lanza una nueva ola de bombardeos](https://theobjective.com/internacional/2026-07-14/eeuu-bloqueo-naval-bombardeo-iran/?utm_source=lootura.com) — 2026-07-14T20:40:14.000Z

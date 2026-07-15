@@ -8,11 +8,16 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/graham-platner/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/graham-platner/index.json",
   "description": "Follow Graham Platner, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-14T20:58:39.119Z",
+  "updatedAt": "2026-07-15T02:11:36.851Z",
   "aliases": [
     "Platner"
   ],
   "changes": [
+    {
+      "title": "Maine Democrats will square off in first Senate debate since Platner's withdrawal",
+      "summary": "The first debate on Thursday in Maine's flash Democratic primary may feature a crowded stage. Eight candidates to replace Graham Platner on the ballot have been invited to the debate in Portland, the organizer said Tuesday. News Center Maine, which is sponsoring the event, had initially invited three people who ran for.",
+      "date": "2026-07-14"
+    },
     {
       "title": "ICE needs to be ‘dismantled’: Senate candidate Dan Kleban after ICE-involved shooting in Maine",
       "summary": "Dan Kleban (D-Maine) joins Meet the Press NOW to discuss his run to replace Graham Platner in the Senate race. Kelban also reacts to the fatal ICE shooting in Maine.",
@@ -57,26 +62,15 @@
       "title": "US congressman says ‘IDF is lying’ about his detention by settlers and soldiers",
       "summary": "Israeli ambassador to US accuses Ro Khanna of political stunt to distract from support for Graham Platner Ro Khanna accused the Israeli government and military of “lying” on Sunday about the US congressman’s detention by armed settlers and Israeli soldiers during a recent visit to the Israeli-occupied West Bank. Khanna.",
       "date": "2026-07-12"
-    },
-    {
-      "title": "Maine Democrats Will Replace Graham Platner. Here’s What to Know.",
-      "summary": "Mr. Platner’s withdrawal from a marquee Senate race, under pressure from his party, has set in motion an unusual competition to become the new nominee.",
-      "date": "2026-07-12"
     }
   ],
   "sources": [
     {
-      "title": "ICE needs to be ‘dismantled’: Senate candidate Dan Kleban after ICE-involved shooting in Maine",
-      "url": "https://www.nbcnews.com/meet-the-press/video/ice-needs-to-be-dismantled-senate-candidate-dan-kleban-after-ice-involved-shooting-in-maine-266666565710?utm_source=lootura.com",
-      "publishedAt": "2026-07-14T20:35:29.000Z",
-      "sourceId": "lootura-us-nbc-news-politics"
-    },
-    {
-      "title": "Maine Democrats will square off in Senate debate Thursday",
+      "title": "Maine Democrats will square off in first Senate debate since Platner's withdrawal",
       "url": "https://www.politico.com/news/2026/07/14/maine-democrats-senate-debate-platner-00997107?utm_source=lootura.com",
       "publishedAt": "2026-07-14T18:34:24.000Z",
       "sourceId": "lootura-us-politico"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

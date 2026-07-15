@@ -28,5 +28,4 @@ Date: 2026-07-14
 
 ## Fuentes
 
-- [Trump da marcha atrás en el peaje a los barcos que transitan por el estrecho de Ormuz](https://www.abc.es/internacional/trump-marcha-atras-peaje-barcos-transitan-estrecho-20260714174612-nt.html?utm_source=lootura.com) — 2026-07-14T19:44:14.000Z
-- [Trump da marcha atrás: sustituirá su peaje del 20% en Ormuz por acuerdos comerciales en el Golfo](https://www.expansion.com/economia/2026/07/14/6a5649a4468aeb7a408b459f.html?utm_source=lootura.com) — 2026-07-14T15:49:13.000Z
+No public source links.

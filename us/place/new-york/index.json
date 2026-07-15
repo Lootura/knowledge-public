@@ -8,19 +8,24 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/new-york/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/new-york/index.json",
   "description": "Follow New York, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-14T20:58:39.119Z",
+  "updatedAt": "2026-07-15T02:11:36.851Z",
   "aliases": [
     "New York City"
   ],
   "changes": [
     {
-      "title": "N.Y. enacts nation's first statewide moratorium on building new data centers",
-      "summary": "Building new data centers in New York will be paused for a year in order to allow state officials to establish guidelines protecting residents and the environment, Gov. Kathy Hochul said.",
+      "title": "Gov. Hochul orders a pause on data centers in New York for up to a year",
+      "summary": "Gov. Kathy Hochul signed an order pausing construction of large data centers — the first statewide pause in the country.",
       "date": "2026-07-14"
     },
     {
-      "title": "Gov. Hochul orders a pause on data centers in New York for up to a year",
-      "summary": "Gov. Kathy Hochul signed an order pausing construction of large data centers — the first statewide pause in the country.",
+      "title": "News Wrap: Fed Chair Warsh pledges inflation will be 'thing of the past'",
+      "summary": "In our news wrap Tuesday, Federal Reserve Chair Kevin Warsh told the House Financial Services Committee that inflation will be \"a thing of the past,\" the CDC says there are now nearly 7,000 confirmed or suspected cases of cyclosporiasis nationwide and New York is now the first state to issue a moratorium on building ne.",
+      "date": "2026-07-14"
+    },
+    {
+      "title": "N.Y. enacts nation's first statewide moratorium on building new data centers",
+      "summary": "Building new data centers in New York will be paused for a year in order to allow state officials to establish guidelines protecting residents and the environment, Gov. Kathy Hochul said.",
       "date": "2026-07-14"
     },
     {
@@ -57,25 +62,20 @@
       "title": "Civics Groups Are at Odds With Mamdani Over Push for Open Primaries",
       "summary": "If a new effort to persuade voters to change New York City’s closed primary system gains steam, a potential showdown between its backers and the mayor awaits.",
       "date": "2026-07-13"
-    },
-    {
-      "title": "My holiday from hell: blizzards, black ice, a broken-down bus – would I ever make it to New York?",
-      "summary": "Flights were cancelled and we were told we’d be staying in Iceland for the night. But the hotel had no idea we were coming and people started screaming when I fell down, hard, on the ice A couple of days before I was due to take a trip to New York with my mum in February, the city was hit with the worst blizzard it had.",
-      "date": "2026-07-13"
     }
   ],
   "sources": [
-    {
-      "title": "N.Y. enacts nation's first statewide moratorium on building new data centers",
-      "url": "https://www.cbsnews.com/news/new-york-data-center-moratorium-kathy-hochul/?utm_source=lootura.com",
-      "publishedAt": "2026-07-14T19:54:35.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
     {
       "title": "Gov. Hochul orders a pause on data centers in New York for up to a year",
       "url": "https://www.npr.org/2026/07/14/nx-s1-5893396/gov-hochul-orders-a-pause-on-data-centers-in-new-york-for-up-to-a-year?utm_source=lootura.com",
       "publishedAt": "2026-07-14T20:24:20.000Z",
       "sourceId": "lootura-us-npr-politics"
+    },
+    {
+      "title": "News Wrap: Fed Chair Warsh pledges inflation will be 'thing of the past'",
+      "url": "https://www.pbs.org/newshour/show/news-wrap-fed-chair-warsh-pledges-inflation-will-be-thing-of-the-past?utm_source=lootura.com",
+      "publishedAt": "2026-07-14T22:45:35.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
     }
   ],
   "evidenceCount": 2

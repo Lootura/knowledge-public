@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/psoe/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/psoe/index.json",
   "description": "Sigue la actividad de Partido Socialista Obrero Español en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-14T20:58:20.799Z",
+  "updatedAt": "2026-07-15T02:11:09.495Z",
   "aliases": [
     "Partido Socialista",
     "Partido Socialista Obrero Español"
   ],
   "changes": [
+    {
+      "title": "Los antitaurinos vuelven a la carga, esta vez de la mano de los socios de Sánchez",
+      "summary": "Medio centenar de diputados han registrado una proposición de ley que reactiva la iniciativa legislativa popular (ILP) contra los toros que el año pasado fracasó en el Congreso por la abstención del PSOE. Sumar, Podemos, Junts, ERC, BNG, Compromís y Bildu han presentado este martes el mismo texto que la plataforma 'No.",
+      "date": "2026-07-15"
+    },
     {
       "title": "El juez Pedraz cita a declarar como imputada el 9 de septiembre a la gerente del PSOE por el caso de las cloacas de Ferraz",
       "summary": "Ese mismo día también ha sido citado a declarar el abogado Ismael Oliver Leer.",
@@ -58,26 +63,15 @@
       "title": "El PSOE usa una empresa pública de Defensa como agencia de colocación",
       "summary": "La empresa pública Isdefe (Ingeniería de Sistemas para la Defensa de España), dependiente del Ministerio de Defensa, se ha situado en el centro de la polémica en los últimos días, a raíz de la dimisión de su número dos investigada en el caso Leire. La salida de Teresa Castillo, una de las 25 personas imputadas por las.",
       "date": "2026-07-14"
-    },
-    {
-      "title": "El primer abogado de Ábalos declara que Leire Díez le ofreció pagar la defensa del exministro a través de una sociedad",
-      "summary": "José Aníbal Álvarez, el primer abogado del exministro de Transportes José Luis Ábalos , ha reconocido este lunes como testigo en el caso Leire Díez que la exmilitante del PSOE le ofreció pagar los honorarios de la defensa del político socialista a través de una sociedad que ella tenía, aunque él se negó. El exministro.",
-      "date": "2026-07-13"
     }
   ],
   "sources": [
     {
-      "title": "El juez Pedraz cita a declarar como imputada el 9 de septiembre a la gerente del PSOE por el caso de las cloacas de Ferraz",
-      "url": "https://www.elmundo.es/espana/2026/07/14/6a55f484fc6c832a5b8b4577.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-14T09:25:43.000Z",
-      "sourceId": "lootura-es-el-mundo"
-    },
-    {
-      "title": "El Congreso da un paso más para eliminar los delitos de las injurias al rey o de ofensa a los sentimientos religiosos",
-      "url": "https://www.eldiario.es/politica/congreso-da-paso-eliminar-delitos-injurias-rey-ofensa-sentimientos-religiosos_1_13380526.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-14T18:07:19.000Z",
-      "sourceId": "lootura-es-eldiario-es"
+      "title": "Los antitaurinos vuelven a la carga, esta vez de la mano de los socios de Sánchez",
+      "url": "https://www.abc.es/cultura/antitaurinos-vuelven-carga-mano-socios-sanchez-20260714131926-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-15T01:17:23.000Z",
+      "sourceId": "lootura-es-abc"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

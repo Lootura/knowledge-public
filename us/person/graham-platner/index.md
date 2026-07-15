@@ -3,10 +3,16 @@
 > Follow Graham Platner, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-07-14T20:58:39.119Z
+- Updated: 2026-07-15T02:11:36.851Z
 - Canonical: https://atlas.lootura.com/us/person/graham-platner
 
 ## Recent changes
+
+### Maine Democrats will square off in first Senate debate since Platner's withdrawal
+
+The first debate on Thursday in Maine's flash Democratic primary may feature a crowded stage. Eight candidates to replace Graham Platner on the ballot have been invited to the debate in Portland, the organizer said Tuesday. News Center Maine, which is sponsoring the event, had initially invited three people who ran for.
+
+Date: 2026-07-14
 
 ### ICE needs to be ‘dismantled’: Senate candidate Dan Kleban after ICE-involved shooting in Maine
 
@@ -62,13 +68,6 @@ Israeli ambassador to US accuses Ro Khanna of political stunt to distract from s
 
 Date: 2026-07-12
 
-### Maine Democrats Will Replace Graham Platner. Here’s What to Know.
-
-Mr. Platner’s withdrawal from a marquee Senate race, under pressure from his party, has set in motion an unusual competition to become the new nominee.
-
-Date: 2026-07-12
-
 ## Sources
 
-- [ICE needs to be ‘dismantled’: Senate candidate Dan Kleban after ICE-involved shooting in Maine](https://www.nbcnews.com/meet-the-press/video/ice-needs-to-be-dismantled-senate-candidate-dan-kleban-after-ice-involved-shooting-in-maine-266666565710?utm_source=lootura.com) — 2026-07-14T20:35:29.000Z
-- [Maine Democrats will square off in Senate debate Thursday](https://www.politico.com/news/2026/07/14/maine-democrats-senate-debate-platner-00997107?utm_source=lootura.com) — 2026-07-14T18:34:24.000Z
+- [Maine Democrats will square off in first Senate debate since Platner's withdrawal](https://www.politico.com/news/2026/07/14/maine-democrats-senate-debate-platner-00997107?utm_source=lootura.com) — 2026-07-14T18:34:24.000Z

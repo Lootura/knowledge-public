@@ -52,4 +52,4 @@ Date: 2026-07-08
 
 ## Fuentes
 
-- [Detienen a un hombre relacionado con la muerte de Nikoline, la adolescente noruega atropellada en Mijas tras ver jugar a su selección](https://www.elmundo.es/andalucia/2026/07/14/6a55eeea21efa065338b45a4.html?utm_source=lootura.com) — 2026-07-14T08:10:20.000Z
+No public source links.

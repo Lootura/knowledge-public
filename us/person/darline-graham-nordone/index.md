@@ -52,5 +52,4 @@ Date: 2026-07-13
 
 ## Sources
 
-- [Darline Graham, sister of Lindsey Graham, sworn in to fulfill his Senate term](https://www.theguardian.com/us-news/2026/jul/14/darline-graham-nordone-south-carolina-senator?utm_source=lootura.com) — 2026-07-14T20:35:20.000Z
-- [Lindsey Graham’s Sister Appointed to Finish His Senate Term After Trump’s Backing](https://www.nytimes.com/2026/07/13/us/politics/trump-graham-sister-south-carolina-senate.html?utm_source=lootura.com) — 2026-07-13T23:27:44.000Z
+No public source links.

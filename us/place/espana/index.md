@@ -3,7 +3,7 @@
 > Follow Spain, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-14T20:58:39.119Z
+- Updated: 2026-07-15T02:11:36.851Z
 - Canonical: https://atlas.lootura.com/us/place/espana
 
 ## Recent changes
@@ -58,4 +58,4 @@ Date: 2026-07-09
 
 ## Sources
 
-- [Man describes harrowing escape from wildfire that killed wife and friends](https://www.cbsnews.com/news/spain-wildfire-uk-man-harrowing-escape-killed-wife-friends/?utm_source=lootura.com) — 2026-07-14T13:14:29.000Z
+- [Spain defeats France 2-0 to reach FIFA World Cup final](https://www.cbsnews.com/video/spain-defeats-france-2-0-to-reach-world-cup-final/?utm_source=lootura.com) — 2026-07-15T00:16:27.000Z

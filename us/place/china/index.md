@@ -70,4 +70,4 @@ Date: 2026-07-12
 
 ## Sources
 
-- [A new smart coating could improve the cleanup of nuclear wastewater](https://phys.org/news/2026-07-smart-coating-cleanup-nuclear-wastewater.html?utm_source=lootura.com) — 2026-07-14T20:20:07.000Z
+No public source links.

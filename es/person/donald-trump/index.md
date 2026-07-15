@@ -3,22 +3,10 @@
 > Sigue la actividad de Donald Trump en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-14T20:58:20.799Z
+- Actualizado: 2026-07-15T02:11:09.495Z
 - Canonical: https://atlas.lootura.com/es/person/donald-trump
 
 ## Cambios recientes
-
-### Trump da marcha atrás en el peaje a los barcos que transitan por el estrecho de Ormuz
-
-dio marcha atrás este martes en su intención repentina de cobrar una tasa del 20% sobre toda la carga transportada por los barcos que atraviesen el estrecho de Ormuz. El presidente confirmó la retirada del plan durante la reunión bilateral que mantuvo en la Casa Blanca con el primer ministro de Irak, despu.
-
-Date: 2026-07-14
-
-### Botín defiende la compra de Webster en EE UU frente a las tensiones de Trump con España
-
-La presidenta del Santander, Ana Botín, ha defendido este martes en una entrevista con el canal de televisión americano CNBC la adquisición del banco estadounidense Webster , que anunció en febrero y espera se cierre a lo largo del año. La operación coincide en un momento de tensión entre España y el presidente de EE U.
-
-Date: 2026-07-14
 
 ### El último giro de Trump alivia las Bolsas y modera el alza del ‘brent’
 
@@ -29,6 +17,24 @@ Date: 2026-07-14
 ### Trump dice ahora que aceptará acuerdos de inversión con los países del Golfo en lugar de una tarifa del 20% por usar Ormuz
 
 Explica que el cambio se debe a conversaciones "sumamente productivas" con líderes de Oriente Próximo Leer.
+
+Date: 2026-07-14
+
+### Trump agita las elecciones de medio mandato con la supuesta aparición de pruebas de fraude electoral en 2020
+
+El jueves dirigirá a la nación un discurso en el que retomará la batalla de los comicios que perdió con Joe Biden: "Nuestras elecciones son corruptas y tenemos que enderezarlas", ha dicho. Revisará miles de páginas de documentos clasificados de inteligencia Leer.
+
+Date: 2026-07-14
+
+### Trump da marcha atrás en el peaje a los barcos que transitan por el estrecho de Ormuz
+
+dio marcha atrás este martes en su intención repentina de cobrar una tasa del 20% sobre toda la carga transportada por los barcos que atraviesen el estrecho de Ormuz. El presidente confirmó la retirada del plan durante la reunión bilateral que mantuvo en la Casa Blanca con el primer ministro de Irak, despu.
+
+Date: 2026-07-14
+
+### Botín defiende la compra de Webster en EE UU frente a las tensiones de Trump con España
+
+La presidenta del Santander, Ana Botín, ha defendido este martes en una entrevista con el canal de televisión americano CNBC la adquisición del banco estadounidense Webster , que anunció en febrero y espera se cierre a lo largo del año. La operación coincide en un momento de tensión entre España y el presidente de EE U.
 
 Date: 2026-07-14
 
@@ -62,19 +68,8 @@ Con poco más de un año en el mercado, la Nintendo Switch 2 ya vendió casi 20 
 
 Date: 2026-07-14
 
-### El Ibex, atenazado de nuevo por el petróleo
-
-El petróleo vuelve a ser protagonista. Los planes de Trump de cobrar un peaje del 20% por cruzar Ormuz han elevado de nuevo el precio del crudo. Las presiones inflacionistas aumentan en un día marcado por el IPC de EEUU, pero también por el inicio de los resultados y por la Fed. El Ibex espera novedades lastrado por el.
-
-Date: 2026-07-14
-
 ## Fuentes
 
-- [Trump da marcha atrás en el peaje a los barcos que transitan por el estrecho de Ormuz](https://www.abc.es/internacional/trump-marcha-atras-peaje-barcos-transitan-estrecho-20260714174612-nt.html?utm_source=lootura.com) — 2026-07-14T19:44:14.000Z
-- [Botín defiende la compra de Webster en EE UU frente a las tensiones de Trump con España](https://cincodias.elpais.com/companias/2026-07-14/botin-defiende-la-compra-de-webster-en-ee-uu-frente-a-las-tensiones-de-trump-con-espana.html?utm_source=lootura.com) — 2026-07-14T15:36:30.000Z
-- [El último giro de Trump alivia las Bolsas y modera el alza del ‘brent’](https://cincodias.elpais.com/mercados-financieros/2026-07-14/la-bolsa-y-el-ibex-35.html?utm_source=lootura.com) — 2026-07-14T15:48:22.000Z
+- [El último giro de Trump alivia las Bolsas y modera el alza del ‘brent’](https://cincodias.elpais.com/mercados-financieros/2026-07-14/la-bolsa-y-el-ibex-35.html?utm_source=lootura.com) — 2026-07-14T21:15:19.000Z
+- [Trump agita las elecciones de medio mandato con la supuesta aparición de pruebas de fraude electoral en 2020](https://www.elmundo.es/internacional/2026/07/14/6a562113fc6c83c1428b4581.html?utm_source=lootura.com) — 2026-07-14T20:42:28.000Z
 - [Trump dice ahora que aceptará acuerdos de inversión con los países del Golfo en lugar de una tarifa del 20% por usar Ormuz](https://www.elmundo.es/internacional/2026/07/14/6a56535ae85ece107b8b4572.html?utm_source=lootura.com) — 2026-07-14T15:40:36.000Z
-- [Trump da marcha atrás: sustituirá su peaje del 20% en Ormuz por acuerdos comerciales en el Golfo](https://www.expansion.com/economia/2026/07/14/6a5649a4468aeb7a408b459f.html?utm_source=lootura.com) — 2026-07-14T15:49:13.000Z
-- [El Ibex salva la jornada pese al pulso del petróleo](https://www.expansion.com/mercados/cronica-bolsa/2026/07/14/6a55ceaa468aeb3a6b8b458b.html?utm_source=lootura.com) — 2026-07-14T15:55:06.000Z
-- [Trump paga 5,6 millones a la escritora Carroll tras ser condenado por abuso sexual y difamación](https://okdiario.com/internacional/trump-paga-56-millones-escritora-carroll-ser-condenado-abuso-sexual-difamacion-18996513/amp?utm_source=lootura.com) — 2026-07-14T20:48:58.000Z
-- [Trump da marcha atrás: no cobrará la tasa del 20% a los buques que transiten por Ormuz](https://theobjective.com/internacional/2026-07-14/trump-no-cobro-tasa-buques-ormuz/?utm_source=lootura.com) — 2026-07-14T16:02:06.000Z

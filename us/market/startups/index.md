@@ -3,7 +3,7 @@
 > Follow Startups, a tracked market, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: market
-- Updated: 2026-07-14T20:58:39.119Z
+- Updated: 2026-07-15T02:11:36.851Z
 - Canonical: https://atlas.lootura.com/us/market/startups
 
 ## Recent changes
@@ -22,4 +22,4 @@ Date: 2026-07-10
 
 ## Sources
 
-- [Facing funding losses, states call out big businesses with employees on Medicaid](https://www.cbsnews.com/news/medicaid-funding-work-requirement-states-walmart-amazon/?utm_source=lootura.com) — 2026-07-14T09:00:15.000Z
+- [Supreme Court justices make case for more security funding](https://www.pbs.org/newshour/show/supreme-court-justices-make-case-for-more-security-funding?utm_source=lootura.com) — 2026-07-14T22:35:41.000Z
