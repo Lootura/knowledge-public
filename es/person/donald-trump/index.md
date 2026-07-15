@@ -3,16 +3,10 @@
 > Sigue la actividad de Donald Trump en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-15T17:14:56.110Z
+- Actualizado: 2026-07-15T20:57:56.208Z
 - Canonical: https://atlas.lootura.com/es/person/donald-trump
 
 ## Cambios recientes
-
-### Trump amenaza con atacar infraestructuras civiles si Irán no vuelve a negociar
-
-Estados Unidos ha reimpuesto el bloqueo naval sobre los puertos iraníes y ha intensificado su campaña de bombardeos contra la república islámica, en una nueva escalada de ataques que amenaza con devolver a Oriente Próximo a una guerra abierta y que vuelve a situar el estrecho de Ormuz en el centro del enfrentamiento.La.
-
-Date: 2026-07-15
 
 ### La implacable transformación ejecutada por Jane Fraser en Citigroup
 
@@ -23,6 +17,18 @@ Date: 2026-07-15
 ### Estados Unidos acuñará una moneda de un dólar con la imagen de Trump
 
 El secretario del Tesoro de Estados Unidos, Scott Bessent, ha anunciado este miércoles que la Casa de la Moneda empezará a acuñar una moneda de un dólar con la imagen del presidente, Donald Trump , que conmemorará los 250 años de la declaración de independencia estadounidense. Bessent ha confirmado en un mensaje en red.
+
+Date: 2026-07-15
+
+### El Ibex cae un 0,4% mientras la incertidumbre sobre Ormuz mantiene en vilo a los mercados
+
+La ambigüedad y las contradicciones son dos de los principales enemigos de la inversión. Pocos líderes encarnan mejor ambas características que el presidente de Estados Unidos, Donald Trump. Apenas unas horas después de renunciar a imponer un peaje del 20% a los buques que atraviesan el estrecho de Ormuz, el republican.
+
+Date: 2026-07-15
+
+### Trump amenaza con atacar infraestructuras civiles si Irán no vuelve a negociar
+
+Estados Unidos ha reimpuesto el bloqueo naval sobre los puertos iraníes y ha intensificado su campaña de bombardeos contra la república islámica, en una nueva escalada de ataques que amenaza con devolver a Oriente Próximo a una guerra abierta y que vuelve a situar el estrecho de Ormuz en el centro del enfrentamiento.La.
 
 Date: 2026-07-15
 
@@ -62,14 +68,8 @@ La presidenta del Santander, Ana Botín, ha defendido este martes en una entrevi
 
 Date: 2026-07-14
 
-### Trump da marcha atrás: sustituirá su peaje del 20% en Ormuz por acuerdos comerciales en el Golfo
-
-La espectacular escalada de precios de petróleo registrada este lunes, hasta sus mayores cotas en el último mes, ha llevado este martes al presidente de Estados Unidos, Donald Trump, a protagonizar una de sus famosas marchas atrás. El inquilino de la Casa Blanca ha anunciado que finalmente sustituirá el peaje del 20% q.
-
-Date: 2026-07-14
-
 ## Fuentes
 
-- [Trump amenaza con atacar infraestructuras civiles si Irán no vuelve a negociar](https://www.abc.es/internacional/trump-amenaza-atacar-infraestructuras-civiles-iran-vuelve-20260715174230-nt.html?utm_source=lootura.com) — 2026-07-15T16:31:52.000Z
+- [El Ibex cae un 0,4% mientras la incertidumbre sobre Ormuz mantiene en vilo a los mercados](https://cincodias.elpais.com/mercados-financieros/2026-07-15/la-bolsa-y-el-ibex-35.html?utm_source=lootura.com) — 2026-07-15T20:22:26.000Z
 - [La implacable transformación ejecutada por Jane Fraser en Citigroup](https://www.expansion.com/economia/financial-times/2026/07/15/6a578863468aeb38698b458b.html?utm_source=lootura.com) — 2026-07-15T16:11:06.000Z
 - [Estados Unidos acuñará una moneda de un dólar con la imagen de Trump](https://theobjective.com/internacional/2026-07-15/eeuu-moneda-dolar-trump/?utm_source=lootura.com) — 2026-07-15T16:00:10.000Z

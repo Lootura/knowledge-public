@@ -8,12 +8,22 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/china/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/china/index.json",
   "description": "Follow China, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-15T17:15:23.220Z",
+  "updatedAt": "2026-07-15T20:58:15.661Z",
   "aliases": [],
   "changes": [
     {
       "title": "China’s Economy Grows at Slowest Pace in Years",
       "summary": "Economic growth of 4.3 percent in the second quarter, versus the same period last year, reflected a broad slump outside of the country’s export-oriented manufacturing might.",
+      "date": "2026-07-15"
+    },
+    {
+      "title": "China and Xi favored over US and Trump in many nations: Survey",
+      "summary": "The change is driven by improved perceptions of China and declining views of the United States. (Image credit: Mark Schiefelbein).",
+      "date": "2026-07-15"
+    },
+    {
+      "title": "After traveling a billion kilometers, China's asteroid hunter finally arrives",
+      "summary": "What does it take to catch up with a small, tumbling rock hundreds of thousands of kilometers from Earth? For China's Tianwen-2 mission, the answer was a 400-day chase covering roughly 1 billion kilometers (621 million miles) of deep space—one that has just ended in success. The China National Space Administration has.",
       "date": "2026-07-15"
     },
     {
@@ -50,24 +60,20 @@
       "title": "China's 'Green Great Wall' tames desert growth, but scientists warn the fight is not over",
       "summary": "For half a century, millions of workers have repeated a task across the deserts in northern China: inserting forearm-length sticks into shifting sand, first in a row, then in an intersecting line, gradually forming a grid. Then saplings are planted at the center of each small square.",
       "date": "2026-07-13"
-    },
-    {
-      "title": "Japan Is Building a New Intelligence Agency With Help From the West",
-      "summary": "Facing threats from Russia and China, Prime Minister Sanae Takaichi is breaking with World War II-era limits on security.",
-      "date": "2026-07-13"
-    },
-    {
-      "title": "Japan Is Building a New Intelligence Agency With Help From the West",
-      "summary": "Facing threats from Russia and China, Prime Minister Sanae Takaichi is breaking with World War II-era limits on security.",
-      "date": "2026-07-13"
     }
   ],
   "sources": [
     {
-      "title": "China’s Chip Champion to Raise Billions in Race for A.I. Control",
-      "url": "https://www.nytimes.com/2026/07/15/business/china-chips-cxmt-ipo.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-15T07:29:52.000Z",
-      "sourceId": "lootura-us-the-new-york-times"
+      "title": "China and Xi favored over US and Trump in many nations: Survey",
+      "url": "https://www.npr.org/2026/07/15/g-s1-133827/china-and-xi-favored-over-us-and-trump-in-many-nations-survey?utm_source=lootura.com",
+      "publishedAt": "2026-07-15T20:34:30.000Z",
+      "sourceId": "lootura-us-npr-world"
+    },
+    {
+      "title": "After traveling a billion kilometers, China's asteroid hunter finally arrives",
+      "url": "https://phys.org/news/2026-07-billion-kilometers-china-asteroid-hunter.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-15T20:20:01.000Z",
+      "sourceId": "lootura-us-phys-org"
     },
     {
       "title": "China’s Economy Grows at Slowest Pace in Years",
@@ -76,5 +82,5 @@
       "sourceId": "lootura-us-the-new-york-times"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 3
 }

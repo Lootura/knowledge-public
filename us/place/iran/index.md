@@ -3,7 +3,7 @@
 > Follow Iran, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-15T17:15:23.220Z
+- Updated: 2026-07-15T20:58:15.661Z
 - Canonical: https://atlas.lootura.com/us/place/iran
 
 ## Recent changes
@@ -26,15 +26,15 @@ A man whose mother and stepfather are imprisoned in Iran tells CBS News "the har
 
 Date: 2026-07-15
 
-### House Republicans push for $95B for Iran war, election measures and farm aid
-
-House Republicans kicked off their plans for a third reconciliation bill for $90 billion in new money for the military during the Iran war and election-related measures.
-
-Date: 2026-07-15
-
 ### U.S. reimposes blockade and steps up strikes as Iran threatens to halt all energy exports from the region
 
 Iranian officials said Wednesday that the American strikes hit an Iranian army barracks, killed at least seven troops and wounded more than 260 people across the country.
+
+Date: 2026-07-15
+
+### House Republicans push for $95B for Iran war, election measures and farm aid
+
+House Republicans kicked off their plans for a third reconciliation bill for $90 billion in new money for the military during the Iran war and election-related measures.
 
 Date: 2026-07-15
 
@@ -70,10 +70,8 @@ Date: 2026-07-14
 
 ## Sources
 
+- [U.S. launches back-to-back waves of strikes against Iran](https://www.cbsnews.com/video/us-launches-back-to-back-waves-of-strikes-against-iran/?utm_source=lootura.com) — 2026-07-15T20:12:07.000Z
 - [Son of couple jailed in Iran "desperately worried" as stepdad's sentence extended](https://www.cbsnews.com/news/iran-uk-lindsay-craig-foreman-prison-sentence-hunger-strike-son-worried/?utm_source=lootura.com) — 2026-07-15T16:52:30.000Z
 - [US Resumes Hormuz Blockade as Trump Threatens More Strikes](https://www.today.com/video/us-resumes-hormuz-blockade-as-trump-threatens-more-strikes-266707013862?utm_source=lootura.com) — 2026-07-15T11:21:18.000Z
-- [House Republicans push for $95B for Iran war, election measures and farm aid](https://www.nbcnews.com/politics/congress/house-republicans-push-90-billion-iran-war-election-measures-farm-aid-rcna587635?utm_source=lootura.com) — 2026-07-15T16:13:38.000Z
 - [Morning news brief](https://www.npr.org/2026/07/15/nx-s1-5891559/morning-news-brief?utm_source=lootura.com) — 2026-07-15T08:50:19.000Z
 - [U.S. reimposes blockade and steps up strikes as Iran threatens to halt all energy exports from the region](https://www.pbs.org/newshour/world/u-s-reimposes-blockade-and-steps-up-strikes-as-iran-threatens-to-halt-all-energy-exports-from-the-region?utm_source=lootura.com) — 2026-07-15T15:23:45.000Z
-- [Senate Democrats Block Defense Bill Over War in Iran](https://www.nytimes.com/2026/07/14/us/politics/senate-democrats-defense-bill.html?utm_source=lootura.com) — 2026-07-14T19:44:27.000Z
-- [Giant Statue Mocking Trump's War in Iran Draws Attention in D.C.](https://time.com/article/2026/07/15/giant-protest-statue-mocks-trump-iran-war-washington-dc/?utm_source=lootura.com) — 2026-07-15T15:38:17.000Z

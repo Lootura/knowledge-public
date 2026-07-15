@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/psoe/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/psoe/index.json",
   "description": "Sigue la actividad de Partido Socialista Obrero Español en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-15T17:14:56.110Z",
+  "updatedAt": "2026-07-15T20:57:56.208Z",
   "aliases": [
     "Partido Socialista",
     "Partido Socialista Obrero Español"
@@ -27,6 +27,11 @@
     {
       "title": "El CIS de Tezanos remonta al PSOE y le da una ventaja de casi ocho puntos sobre el PP en el mes de la condena a Ábalos",
       "summary": "Feijóo cae dos puntos en porcentaje de voto y Abascal también retrocede ligeramente Leer.",
+      "date": "2026-07-15"
+    },
+    {
+      "title": "Un micro abierto pilla a dos diputados de Vox en Valencia hablando de la filtración de una fiscal",
+      "summary": "El PSPV-PSOE ha denunciado el «machismo rancio de la ultraderecha» después de que un micrófono abierto durante la Comisión de Economía de las Cortes valencianas de este miércoles «haya delatado» a dos diputados de Vox que han llamado «bruja» a la diputada socialista Alicia Andújar. «Les molestan las mujeres que hablan.",
       "date": "2026-07-15"
     },
     {
@@ -58,20 +63,9 @@
       "title": "El Congreso da un paso más para eliminar los delitos de las injurias al rey o de ofensa a los sentimientos religiosos",
       "summary": "La mayoría de la Cámara Baja tumba las enmiendas a la totalidad de PP y Vox a una norma impulsada por PSOE y Sumar que también plantea despenalizar las calumnias e injurias a las altas instituciones del Estado PSOE y Sumar reactivan la despenalización de las ofensas a los sentimientos religiosos y a la Corona La mayorí.",
       "date": "2026-07-14"
-    },
-    {
-      "title": "La abogada de Koldo niega que el PSOE pagase su defensa y la relación con el partido",
-      "summary": "La abogada de Koldo García , Leticia de la Hoz, ha negado que el PSOE pagara su defensa y que tuviera relación alguna con el partido, tal y como insinuó la empresaria Carmen Pano , que sugirió que el PSOE estaba detrás del presunto intento de soborno que le atribuye a la letrada para que se retractara de su afirmación.",
-      "date": "2026-07-14"
     }
   ],
   "sources": [
-    {
-      "title": "La presidenta del PSOE asegura al juez que hay «indicios preocupantes» sobre Leire Díez",
-      "url": "https://www.abc.es/espana/narbona-asegura-indicios-preocupantes-sobre-leire-diez-20260715121708-nt.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-15T16:05:43.000Z",
-      "sourceId": "lootura-es-abc"
-    },
     {
       "title": "Feijóo eleva al máximo su crítica a Sánchez tras la condena de su hermano y lo llama \"presidente autoritario\"",
       "url": "https://www.elmundo.es/espana/2026/07/15/6a5765cffc6c83df118b4582.html?utm_source=lootura.com",
@@ -89,6 +83,12 @@
       "url": "https://www.elmundo.es/espana/2026/07/15/6a574fee21efa0e10d8b4582.html?utm_source=lootura.com",
       "publishedAt": "2026-07-15T10:40:39.000Z",
       "sourceId": "lootura-es-el-mundo"
+    },
+    {
+      "title": "Un micro abierto pilla a dos diputados de Vox en Valencia hablando de la filtración de una fiscal",
+      "url": "https://theobjective.com/espana/comunidad-valenciana/2026-07-15/micro-abierto-diputados-vox-filtracion-fiscal/?utm_source=lootura.com",
+      "publishedAt": "2026-07-15T18:24:00.000Z",
+      "sourceId": "lootura-es-the-objective"
     }
   ],
   "evidenceCount": 4

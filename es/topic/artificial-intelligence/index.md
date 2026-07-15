@@ -3,7 +3,7 @@
 > Sigue la actividad de Artificial intelligence en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: topic
-- Actualizado: 2026-07-15T17:14:56.110Z
+- Actualizado: 2026-07-15T20:57:56.208Z
 - Canonical: https://atlas.lootura.com/es/topic/artificial-intelligence
 
 ## Cambios recientes
@@ -34,4 +34,4 @@ Date: 2026-07-10
 
 ## Fuentes
 
-- [Por 150 euros menos puedes tener esta tablet de Samsung de alta gama con 5G y mucho almacenamiento](https://www.larazon.es/compras/nuestra-eleccion/150-euros-menos-puedes-tener-esta-tablet-samsung-alta-gama-mucho-almacenamiento_202607156a56096c772f745d2c481787.html?utm_source=lootura.com) — 2026-07-15T13:30:21.000Z
+- [OpenAI lanza su primer hardware, aunque no es lo que imaginas](https://hipertextual.com/inteligencia-artificial/codex-micro-hardware-openai/?utm_source=lootura.com) — 2026-07-15T17:30:00.000Z

@@ -3,7 +3,7 @@
 > Follow White House, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-07-15T17:15:23.220Z
+- Updated: 2026-07-15T20:58:15.661Z
 - Canonical: https://atlas.lootura.com/us/organization/white-house
 
 ## Recent changes
@@ -71,5 +71,3 @@ Date: 2026-07-11
 ## Sources
 
 - [Watch: Lawmaker presses Blanche on his role in alleged Epstein files mishandlings](https://www.cbsnews.com/video/watch-lawmaker-presses-blanche-on-his-role-in-epstein-files-mishandling-allegations/?utm_source=lootura.com) — 2026-07-15T16:06:00.000Z
-- [White House overturns DHS halt to ICE traffic stops despite killings of two men](https://www.theguardian.com/us-news/2026/jul/15/trump-ice-traffic-stops?utm_source=lootura.com) — 2026-07-15T15:40:27.000Z
-- [Jay Clayton Expected to Face Tough Questions in Confirmation Hearing](https://www.nytimes.com/2026/07/15/us/politics/jay-clayton-confirmation-hearing-director-national-intelligence.html?utm_source=lootura.com) — 2026-07-15T09:03:51.000Z

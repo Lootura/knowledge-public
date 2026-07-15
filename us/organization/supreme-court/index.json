@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/supreme-court/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/supreme-court/index.json",
   "description": "Follow Supreme Court, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-15T17:15:23.220Z",
+  "updatedAt": "2026-07-15T20:58:15.661Z",
   "aliases": [
     "U.S. Supreme Court"
   ],
@@ -70,13 +70,7 @@
       "url": "https://www.npr.org/2026/07/14/nx-s1-5893664/supreme-court-justices-kagan-barrett-give-chilling-accounts-of-threats-to-their-safety?utm_source=lootura.com",
       "publishedAt": "2026-07-15T03:19:25.000Z",
       "sourceId": "lootura-us-npr"
-    },
-    {
-      "title": "Supreme Court Justices Barrett and Kagan discuss security funding on Capitol Hill",
-      "url": "https://www.npr.org/2026/07/14/nx-s1-5888645/supreme-court-justices-barrett-and-kagan-discuss-security-funding-on-capitol-hill?utm_source=lootura.com",
-      "publishedAt": "2026-07-14T20:29:34.000Z",
-      "sourceId": "lootura-us-npr"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

@@ -1,16 +1,16 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-15T17:20:19.071Z",
+  "generatedAt": "2026-07-15T21:02:40.024Z",
   "radar": {
     "id": "usa",
     "slug": "us",
     "locale": "en"
   },
   "state": {
-    "signature": "1.15.1|19|1784135723220",
+    "signature": "1.15.1|20|1784149095661",
     "version": "1.15.1",
-    "build": 19,
-    "latestEntityUpdatedAt": "2026-07-15T17:15:23.220Z"
+    "build": 20,
+    "latestEntityUpdatedAt": "2026-07-15T20:58:15.661Z"
   },
   "atlas": {
     "hero": {
@@ -20,8 +20,8 @@
       "title": "Morning news brief",
       "url": "https://atlas.lootura.com/us/place/united-states",
       "path": "/us/place/united-states",
-      "updatedAt": "2026-07-15T17:15:23.220Z",
-      "score": 1623,
+      "updatedAt": "2026-07-15T20:58:15.661Z",
+      "score": 1600,
       "sourceCount": 185,
       "isBreaking": false,
       "isPinned": false
@@ -34,9 +34,22 @@
         "title": "Morning news brief",
         "url": "https://atlas.lootura.com/us/place/iran",
         "path": "/us/place/iran",
-        "updatedAt": "2026-07-15T17:15:23.220Z",
-        "score": 1574,
-        "sourceCount": 109,
+        "updatedAt": "2026-07-15T20:58:15.661Z",
+        "score": 1588,
+        "sourceCount": 110,
+        "isBreaking": false,
+        "isPinned": false
+      },
+      {
+        "id": "usa-todd-blanche",
+        "name": "Todd Blanche",
+        "type": "person",
+        "title": "Todd Blanche refuses to commit to meeting with Epstein survivors, says DOJ staff will",
+        "url": "https://atlas.lootura.com/us/person/todd-blanche",
+        "path": "/us/person/todd-blanche",
+        "updatedAt": "2026-07-15T20:58:15.661Z",
+        "score": 1581,
+        "sourceCount": 11,
         "isBreaking": false,
         "isPinned": false
       },
@@ -47,39 +60,26 @@
         "title": "An ICE Shooting in Maine Puts Pressure on Senator Susan Collins",
         "url": "https://atlas.lootura.com/us/organization/democratic-party",
         "path": "/us/organization/democratic-party",
-        "updatedAt": "2026-07-15T17:15:23.220Z",
-        "score": 1572,
-        "sourceCount": 57,
+        "updatedAt": "2026-07-15T20:58:15.661Z",
+        "score": 1566,
+        "sourceCount": 60,
         "isBreaking": false,
         "isPinned": false
       },
       {
-        "id": "usa-white-house",
-        "name": "White House",
-        "type": "organization",
-        "title": "Jay Clayton Expected to Face Tough Questions in Confirmation Hearing",
-        "url": "https://atlas.lootura.com/us/organization/white-house",
-        "path": "/us/organization/white-house",
-        "updatedAt": "2026-07-15T17:15:23.220Z",
-        "score": 1556,
-        "sourceCount": 19,
-        "isBreaking": false,
-        "isPinned": false
-      },
-      {
-        "id": "usa-donald-trump",
-        "name": "Donald Trump",
+        "id": "usa-justice-department",
+        "name": "Justice Department",
         "type": "person",
-        "title": "Trump will speak on elections in Thursday primetime address",
-        "url": "https://atlas.lootura.com/us/person/donald-trump",
-        "path": "/us/person/donald-trump",
-        "updatedAt": "2026-07-15T17:15:23.220Z",
-        "score": 1551,
-        "sourceCount": 159,
+        "title": "Todd Blanche refuses to commit to meeting with Epstein survivors, says DOJ staff will",
+        "url": "https://atlas.lootura.com/us/person/justice-department",
+        "path": "/us/person/justice-department",
+        "updatedAt": "2026-07-15T20:58:15.661Z",
+        "score": 1547,
+        "sourceCount": 5,
         "isBreaking": false,
         "isPinned": false
       }
     ],
-    "publicEntityCount": 33
+    "publicEntityCount": 34
   }
 }

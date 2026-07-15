@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/partido-popular/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/partido-popular/index.json",
   "description": "Sigue la actividad de Partido Popular en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-15T17:14:56.110Z",
+  "updatedAt": "2026-07-15T20:57:56.208Z",
   "aliases": [
     "PP"
   ],
@@ -16,6 +16,11 @@
     {
       "title": "El CIS de Tezanos remonta al PSOE y le da una ventaja de casi ocho puntos sobre el PP en el mes de la condena a Ábalos",
       "summary": "Feijóo cae dos puntos en porcentaje de voto y Abascal también retrocede ligeramente Leer.",
+      "date": "2026-07-15"
+    },
+    {
+      "title": "Feijóo y Ayuso acusan a Sánchez de ser un “presidente autoritario” y un “autócrata sin escrúpulos”ante los líderes del PP europeo",
+      "summary": "Ante algunos de los principales líderes del Partido Popular Europeo, reunidos este miércoles en Madrid, Alberto Núñez Feijóo ha lanzado la acusación más gruesa hasta la fecha contra Pedro Sánchez. El líder del PP no ha dudado en describir al líder socialista como “un presidente autoritario” delante del presidente del P.",
       "date": "2026-07-15"
     },
     {
@@ -31,11 +36,6 @@
     {
       "title": "Almeida reprocha al «delincuente» hermano de Sánchez su «golfada y deshonestidad»",
       "summary": "El alcalde de Madrid, José Luis Martínez-Almeida (PP), ha reprochado al «delincuente» hermano del presidente del Gobierno, Pedro Sánchez , por su «golfada y deshonestidad» después de que la Audiencia Provincial de Badajoz haya condenado a David Sánchez Pérez-Castejón a la pena de inhabilitación especial para empleo o c.",
-      "date": "2026-07-15"
-    },
-    {
-      "title": "Feijóo y Ayuso acusan a Sánchez de ser un “presidente autoritario” y un “autócrata sin escrúpulos”ante los líderes del PP europeo",
-      "summary": "Ante algunos de los principales líderes del Partido Popular Europeo, reunidos este miércoles en Madrid, Alberto Núñez Feijóo ha lanzado la acusación más gruesa hasta la fecha contra Pedro Sánchez. El líder del PP no ha dudado en describir al líder socialista como “un presidente autoritario” delante del presidente del P.",
       "date": "2026-07-15"
     },
     {
@@ -76,25 +76,7 @@
       "url": "https://elpais.com/espana/2026-07-15/feijoo-acusa-a-sanchez-de-ser-un-presidente-autoritario-ante-los-lideres-del-pp-europeo.html?utm_source=lootura.com",
       "publishedAt": "2026-07-15T10:33:12.000Z",
       "sourceId": "lootura-es-el-pais"
-    },
-    {
-      "title": "Feijóo acusa a Sánchez de ser un «presidente autoritario» y de «agredir» la democracia",
-      "url": "https://theobjective.com/espana/politica/2026-07-15/feijoo-sanchez-presidente-autoritario-agredir-democracia/?utm_source=lootura.com",
-      "publishedAt": "2026-07-15T12:32:30.000Z",
-      "sourceId": "lootura-es-the-objective"
-    },
-    {
-      "title": "El PP califica de «fraude» la aplicación provisional del acuerdo sobre Gibraltar",
-      "url": "https://theobjective.com/espana/politica/2026-07-15/pp-fraude-provisional-acuerdo-gibraltar/?utm_source=lootura.com",
-      "publishedAt": "2026-07-15T13:04:26.000Z",
-      "sourceId": "lootura-es-the-objective"
-    },
-    {
-      "title": "Almeida reprocha al «delincuente» hermano de Sánchez su «golfada y deshonestidad»",
-      "url": "https://theobjective.com/espana/politica/2026-07-15/almeida-delincuente-hermano-sanchez-golfada-deshonestidad/?utm_source=lootura.com",
-      "publishedAt": "2026-07-15T12:06:32.000Z",
-      "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 5
+  "evidenceCount": 2
 }

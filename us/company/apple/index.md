@@ -34,4 +34,4 @@ Date: 2026-07-13
 
 ## Sources
 
-- [OpenAI finally launches hardware… for Codex](https://www.theverge.com/ai-artificial-intelligence/965901/openai-hardware-codex-micro-launch?utm_source=lootura.com) — 2026-07-15T16:00:00.000Z
+No public source links.

@@ -1,0 +1,36 @@
+{
+  "id": "es-lionel-messi",
+  "name": "Lionel Messi",
+  "type": "person",
+  "locale": "es",
+  "canonicalPath": "/es/person/lionel-messi",
+  "canonicalUrl": "https://atlas.lootura.com/es/person/lionel-messi",
+  "markdownUrl": "https://atlas.lootura.com/es/person/lionel-messi/index.md",
+  "jsonUrl": "https://atlas.lootura.com/es/person/lionel-messi/index.json",
+  "description": "Sigue la actividad de Lionel Messi en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
+  "updatedAt": "2026-07-15T20:57:56.208Z",
+  "aliases": [
+    "Messi"
+  ],
+  "changes": [
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Lionel Messi first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-07-15"
+    },
+    {
+      "title": "El momento de la verdad para Kane y Bellingham, el momento para la eternidad de Messi",
+      "summary": "«No nos queremos enfocar en toda la historia de alrededor». Lo decía Harry Kane, el capitán de Inglaterra, en la previa del duelo en semifinales contra Argentina. Será imposible bajar el ruido de una rivalidad dura , los cánticos sobre Malvinas, el recuerdo de 'la mano de Dios'... Pero al final lo decisivo será lo que.",
+      "date": "2026-07-15"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Así es la vida de Leo Messi: edad, cuánto cobra, palmarés y cuántos Balones de Oro tiene",
+      "url": "https://okdiario.com/deportes/asi-vida-leo-messi-edad-cuanto-cobra-palmares-cuantos-balones-oro-tiene-18509905?utm_source=lootura.com",
+      "publishedAt": "2026-07-15T19:30:17.000Z",
+      "sourceId": "lootura-es-ok-diario"
+    }
+  ],
+  "evidenceCount": 0
+}

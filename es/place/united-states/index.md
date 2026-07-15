@@ -3,10 +3,40 @@
 > Sigue la actividad de Estados Unidos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-15T17:14:56.110Z
+- Actualizado: 2026-07-15T20:57:56.208Z
 - Canonical: https://atlas.lootura.com/es/place/united-states
 
 ## Cambios recientes
+
+### Estados Unidos acuñará una moneda de un dólar con la imagen de Trump
+
+El secretario del Tesoro de Estados Unidos, Scott Bessent, ha anunciado este miércoles que la Casa de la Moneda empezará a acuñar una moneda de un dólar con la imagen del presidente, Donald Trump , que conmemorará los 250 años de la declaración de independencia estadounidense. Bessent ha confirmado en un mensaje en red.
+
+Date: 2026-07-15
+
+### Un científico estadounidense lleva 18 meses detenido en China por investigar sus pruebas nucleares
+
+El Gobierno de Estados Unidos ha reclamado la liberación de un científico estadounidense detenido en China desde hace 18 meses. El sismólogo Chen Youlin llevaba más de dos años estudiando pruebas nucleares subterráneas en el país asiático cuando fue encarcelado el 5 de noviembre de 2024 acusado de espionaje. Desde ento.
+
+Date: 2026-07-15
+
+### El Ibex cae un 0,4% mientras la incertidumbre sobre Ormuz mantiene en vilo a los mercados
+
+La ambigüedad y las contradicciones son dos de los principales enemigos de la inversión. Pocos líderes encarnan mejor ambas características que el presidente de Estados Unidos, Donald Trump. Apenas unas horas después de renunciar a imponer un peaje del 20% a los buques que atraviesan el estrecho de Ormuz, el republican.
+
+Date: 2026-07-15
+
+### Así es el Corsair, el primer dron naval kamikaze que EE. UU. ha usado en combate
+
+Estados Unidos ha utilizado por primera vez en combate un dron naval cargado de explosivos. Tres embarcaciones autónomas Corsair atacaron durante la noche del 12 de julio un submarino y unas instalaciones de mantenimiento de buques situadas en la base naval iraní de Bandar Abbas , junto al estratégico estrecho de Ormuz.
+
+Date: 2026-07-15
+
+### Adiós a OnePlus: la marca de Oppo abandona Europa y Estados Unidos esta misma semana
+
+Durante sus primeros años, especialmente entre 2014 y 2019, OnePlus se ganó una excelente reputación en el mercado de los smartphones gracias a dispositivos asequibles y potentes que incluso le granjearon la fama de ‘flagship killer’ . Pero pasaron los años, se integró en Oppo y tanto la filosofía de la marca como el m.
+
+Date: 2026-07-15
 
 ### Bank of America enfría su visión sobre BBVA y Unicaja a las puertas de los resultados
 
@@ -26,12 +56,6 @@ El grupo ACS y su socio financiero para el desarrollo de centros de datos, Globa
 
 Date: 2026-07-15
 
-### Estados Unidos acuñará una moneda de un dólar con la imagen de Trump
-
-El secretario del Tesoro de Estados Unidos, Scott Bessent, ha anunciado este miércoles que la Casa de la Moneda empezará a acuñar una moneda de un dólar con la imagen del presidente, Donald Trump , que conmemorará los 250 años de la declaración de independencia estadounidense. Bessent ha confirmado en un mensaje en red.
-
-Date: 2026-07-15
-
 ### Bank of America retira su consejo de compra sobre BBVA por Turquía
 
 La cotización de BBVA se inclina por los descensos en una jornada en la que el banco pierde un apoyo. Los analistas de Bank of America han revisado a la baja su recomendación sobre el valor del Ibex. La firma ha retirado su consejo de comprar . Su propuesta ahora se limita a mantener uan posición neutral en BBVA. Segui.
@@ -44,34 +68,10 @@ La FCC de Estados Unidos acaba de aprobar el lanzamiento de nuevos satélites a 
 
 Date: 2026-07-15
 
-### EEUU restablece el bloqueo naval a Irán y lanza una nueva ola de bombardeos
-
-Las Fuerzas Armadas estadounidenses reimpusieron este martes el bloqueo naval a Irán en el estrecho de Ormuz , además de lanzar una nueva ola de bombardeos, según anunció el Comando Central del Ejército de Estados Unidos (Centcom). El organismo, con sede en Florida, expuso en un comunicado que el Ejército estadounidens.
-
-Date: 2026-07-14
-
-### Trump da marcha atrás: sustituirá su peaje del 20% en Ormuz por acuerdos comerciales en el Golfo
-
-La espectacular escalada de precios de petróleo registrada este lunes, hasta sus mayores cotas en el último mes, ha llevado este martes al presidente de Estados Unidos, Donald Trump, a protagonizar una de sus famosas marchas atrás. El inquilino de la Casa Blanca ha anunciado que finalmente sustituirá el peaje del 20% q.
-
-Date: 2026-07-14
-
-### Trump da marcha atrás: no cobrará la tasa del 20% a los buques que transiten por Ormuz
-
-El presidente de Estados Unidos, Donald Trump , anunció este martes que finalmente no cobrará la tasa del 20% que había planteado por facilitar el tránsito de buques por el estrecho de Ormuz y aseguró que, en su lugar, los países del golfo Pérsico se comprometieron a invertir en Estados Unidos . «Tras conversaciones mu.
-
-Date: 2026-07-14
-
-### Trump paga 5,6 millones a la escritora Carroll tras ser condenado por abuso sexual y difamación
-
-El presidente de Estados Unidos, Donald Trump, ha pagado 5,6 millones de dólares a la escritora E. Jean Carroll después de que ganara en 2023 un caso civil por abuso sexual y difamación en su contra. El magnate todavía le debe otros 83 millones, derivados de un caso posterior, por difamarla.«Hace tres años, un jurado .
-
-Date: 2026-07-14
-
 ## Fuentes
 
-- [Precios de locura para la final en Nueva York: las entradas más baratas superan los 6.000 euros](https://www.20minutos.es/deportes/futbol/precios-locura-final-mundial-nueva-york-entradas-mas-baratas-superan-euros_7015108_0.html?utm_source=lootura.com) — 2026-07-15T16:23:17.000Z
-- [Trump amenaza con atacar infraestructuras civiles si Irán no vuelve a negociar](https://www.abc.es/internacional/trump-amenaza-atacar-infraestructuras-civiles-iran-vuelve-20260715174230-nt.html?utm_source=lootura.com) — 2026-07-15T16:31:52.000Z
-- [Bank of America enfría su visión sobre BBVA y Unicaja a las puertas de los resultados](https://cincodias.elpais.com/mercados-financieros/2026-07-15/bank-of-america-enfria-su-vision-sobre-bbva-y-unicaja-a-las-puertas-de-los-resultados.html?utm_source=lootura.com) — 2026-07-15T12:07:36.000Z
-- [ACS y el fondo GIP estrenan su alianza con un centro de datos en Texas](https://cincodias.elpais.com/companias/2026-07-15/acs-y-el-fondo-gip-estrenan-su-alianza-con-un-centro-de-datos-en-texas.html?utm_source=lootura.com) — 2026-07-15T14:34:55.000Z
+- [Un científico estadounidense lleva 18 meses detenido en China por investigar sus pruebas nucleares](https://www.abc.es/internacional/cientifico-estadounidense-permanece-detenido-china-investigar-pruebas-20260715212653-nt.html?utm_source=lootura.com) — 2026-07-15T19:26:53.000Z
+- [El Ibex cae un 0,4% mientras la incertidumbre sobre Ormuz mantiene en vilo a los mercados](https://cincodias.elpais.com/mercados-financieros/2026-07-15/la-bolsa-y-el-ibex-35.html?utm_source=lootura.com) — 2026-07-15T20:22:26.000Z
+- [Así es el Corsair, el primer dron naval kamikaze que EE. UU. ha usado en combate](https://www.larazon.es/tecnologia/asi-corsair-primer-dron-naval-kamikaze-que-usado-combate_202607156a57af6fe9f2e84b5c69f653.html?utm_source=lootura.com) — 2026-07-15T20:10:13.000Z
+- [Adiós a OnePlus: la marca de Oppo abandona Europa y Estados Unidos esta misma semana](https://www.larazon.es/tecnologia/adios-oneplus-marca-oppo-abandona-europa-estados-unidos-esta-misma-semana_202607156a57e0300500ab412c974985.html?utm_source=lootura.com) — 2026-07-15T19:50:13.000Z
 - [Estados Unidos acuñará una moneda de un dólar con la imagen de Trump](https://theobjective.com/internacional/2026-07-15/eeuu-moneda-dolar-trump/?utm_source=lootura.com) — 2026-07-15T16:00:10.000Z

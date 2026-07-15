@@ -3,7 +3,7 @@
 > Sigue la actividad de Partido Socialista Obrero Español en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-15T17:14:56.110Z
+- Actualizado: 2026-07-15T20:57:56.208Z
 - Canonical: https://atlas.lootura.com/es/organization/psoe
 
 ## Cambios recientes
@@ -23,6 +23,12 @@ Date: 2026-07-15
 ### El CIS de Tezanos remonta al PSOE y le da una ventaja de casi ocho puntos sobre el PP en el mes de la condena a Ábalos
 
 Feijóo cae dos puntos en porcentaje de voto y Abascal también retrocede ligeramente Leer.
+
+Date: 2026-07-15
+
+### Un micro abierto pilla a dos diputados de Vox en Valencia hablando de la filtración de una fiscal
+
+El PSPV-PSOE ha denunciado el «machismo rancio de la ultraderecha» después de que un micrófono abierto durante la Comisión de Economía de las Cortes valencianas de este miércoles «haya delatado» a dos diputados de Vox que han llamado «bruja» a la diputada socialista Alicia Andújar. «Les molestan las mujeres que hablan.
 
 Date: 2026-07-15
 
@@ -62,15 +68,9 @@ La mayoría de la Cámara Baja tumba las enmiendas a la totalidad de PP y Vox a 
 
 Date: 2026-07-14
 
-### La abogada de Koldo niega que el PSOE pagase su defensa y la relación con el partido
-
-La abogada de Koldo García , Leticia de la Hoz, ha negado que el PSOE pagara su defensa y que tuviera relación alguna con el partido, tal y como insinuó la empresaria Carmen Pano , que sugirió que el PSOE estaba detrás del presunto intento de soborno que le atribuye a la letrada para que se retractara de su afirmación.
-
-Date: 2026-07-14
-
 ## Fuentes
 
-- [La presidenta del PSOE asegura al juez que hay «indicios preocupantes» sobre Leire Díez](https://www.abc.es/espana/narbona-asegura-indicios-preocupantes-sobre-leire-diez-20260715121708-nt.html?utm_source=lootura.com) — 2026-07-15T16:05:43.000Z
 - [Feijóo eleva al máximo su crítica a Sánchez tras la condena de su hermano y lo llama "presidente autoritario"](https://www.elmundo.es/espana/2026/07/15/6a5765cffc6c83df118b4582.html?utm_source=lootura.com) — 2026-07-15T10:50:27.000Z
 - [La mano derecha de García Ortiz admite que contó la reunión con la 'fontanera' del PSOE al ex fiscal general pero asegura que no le dio importancia](https://www.elmundo.es/espana/2026/07/15/6a577004e9cf4a42658b4588.html?utm_source=lootura.com) — 2026-07-15T12:20:44.000Z
 - [El CIS de Tezanos remonta al PSOE y le da una ventaja de casi ocho puntos sobre el PP en el mes de la condena a Ábalos](https://www.elmundo.es/espana/2026/07/15/6a574fee21efa0e10d8b4582.html?utm_source=lootura.com) — 2026-07-15T10:40:39.000Z
+- [Un micro abierto pilla a dos diputados de Vox en Valencia hablando de la filtración de una fiscal](https://theobjective.com/espana/comunidad-valenciana/2026-07-15/micro-abierto-diputados-vox-filtracion-fiscal/?utm_source=lootura.com) — 2026-07-15T18:24:00.000Z

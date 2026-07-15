@@ -3,7 +3,7 @@
 > Follow Attorney General, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-07-15T17:15:23.220Z
+- Updated: 2026-07-15T20:58:15.661Z
 - Canonical: https://atlas.lootura.com/us/person/attorney-general
 
 ## Recent changes

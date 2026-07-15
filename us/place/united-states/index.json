@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/united-states/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/united-states/index.json",
   "description": "Follow United States, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-15T17:15:23.220Z",
+  "updatedAt": "2026-07-15T20:58:15.661Z",
   "aliases": [
     "America",
     "Estados Unidos",
@@ -23,11 +23,6 @@
     {
       "title": "Morning news brief",
       "summary": "Acting Attorney General Todd Blanche to appear for confirmation hearing, U.S. restarts blockade against Iran amid standoff over the Strait of Hormuz, ICE suspends traffic stops after deadly shootings.",
-      "date": "2026-07-15"
-    },
-    {
-      "title": "CDC director nominee Erica Schwartz faces Senate for confirmation hearing",
-      "summary": "Trump's nominee faces the Senate health committee for her confirmation hearing on July 15. If confirmed, she will lead an agency dealing with workforce and leadership shortages and new layers of political review. (Image credit: U.S. Department of Health and Human Services).",
       "date": "2026-07-15"
     },
     {
@@ -61,8 +56,13 @@
       "date": "2026-07-15"
     },
     {
-      "title": "Jay Clayton Expected to Face Tough Questions in Confirmation Hearing",
-      "summary": "His nomination to lead the U.S. intelligence community comes as the White House pushes to use declassified intelligence to show concerns about election security.",
+      "title": "U.S. reimposes blockade and steps up strikes as Iran threatens to halt all energy exports from the region",
+      "summary": "Iranian officials said Wednesday that the American strikes hit an Iranian army barracks, killed at least seven troops and wounded more than 260 people across the country.",
+      "date": "2026-07-15"
+    },
+    {
+      "title": "Funding milestone detected",
+      "summary": "Indian business magnate Gautam Adani said his pledge to invest billions of dollars in the U.S. did not influence the Justice Department’s decision to move to drop the criminal case against him.",
       "date": "2026-07-15"
     }
   ],
@@ -88,7 +88,7 @@
     {
       "title": "Wildfires expose millions in Midwest, Northeast to dangerous smoke",
       "url": "https://www.cbsnews.com/news/wildfires-smoke-millions-exposed-midwest-northeast-us/?utm_source=lootura.com",
-      "publishedAt": "2026-07-15T16:07:00.000Z",
+      "publishedAt": "2026-07-15T19:57:42.000Z",
       "sourceId": "lootura-us-cbs-news"
     },
     {
@@ -98,16 +98,22 @@
       "sourceId": "lootura-us-nbc-news"
     },
     {
+      "title": "Indian billionaire denies U.S. investment pledge influenced DOJ to seek case dismissal",
+      "url": "https://www.nbcnews.com/politics/justice-department/indian-billionaire-denies-us-investment-pledge-influenced-doj-seek-cas-rcna587704?utm_source=lootura.com",
+      "publishedAt": "2026-07-15T20:00:51.000Z",
+      "sourceId": "lootura-us-nbc-news-politics"
+    },
+    {
       "title": "Morning news brief",
       "url": "https://www.npr.org/2026/07/15/nx-s1-5891559/morning-news-brief?utm_source=lootura.com",
       "publishedAt": "2026-07-15T08:50:19.000Z",
       "sourceId": "lootura-us-npr"
     },
     {
-      "title": "CDC director nominee Erica Schwartz faces Senate for confirmation hearing",
-      "url": "https://www.npr.org/2026/07/15/nx-s1-5892482/cdc-director-erica-schwartz-senate-confirmation-hearing?utm_source=lootura.com",
-      "publishedAt": "2026-07-15T09:00:00.000Z",
-      "sourceId": "lootura-us-npr-politics"
+      "title": "China and Xi favored over US and Trump in many nations: Survey",
+      "url": "https://www.npr.org/2026/07/15/g-s1-133827/china-and-xi-favored-over-us-and-trump-in-many-nations-survey?utm_source=lootura.com",
+      "publishedAt": "2026-07-15T20:34:30.000Z",
+      "sourceId": "lootura-us-npr-world"
     },
     {
       "title": "U.S. reimposes blockade and steps up strikes as Iran threatens to halt all energy exports from the region",
@@ -116,17 +122,11 @@
       "sourceId": "lootura-us-pbs-newshour"
     },
     {
-      "title": "Trump Flip-Flops on Strait of Hormuz Plan, and U.S. Cyclospora Outbreak Spreads",
-      "url": "https://www.nytimes.com/2026/07/15/podcasts/the-headlines/trump-trait-of-hormuz-plan-us-cyclospora-outbreak.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-15T10:00:15.000Z",
-      "sourceId": "lootura-us-the-new-york-times"
-    },
-    {
-      "title": "Cyclospora Cases Rise Rapidly, With No Source Yet Confirmed",
-      "url": "https://www.nytimes.com/2026/07/15/well/eat/cyclospora-outbreak-response.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-15T09:02:19.000Z",
-      "sourceId": "lootura-us-the-new-york-times"
+      "title": "WATCH: Erica Schwartz testifies in confirmation hearing for CDC director",
+      "url": "https://www.pbs.org/newshour/politics/watch-erica-schwartz-testifies-in-confirmation-hearing-for-cdc-director?utm_source=lootura.com",
+      "publishedAt": "2026-07-15T20:12:02.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
     }
   ],
-  "evidenceCount": 12
+  "evidenceCount": 15
 }

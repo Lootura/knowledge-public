@@ -3,7 +3,7 @@
 > Follow Canada, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-15T17:15:23.220Z
+- Updated: 2026-07-15T20:58:15.661Z
 - Canonical: https://atlas.lootura.com/us/place/canada
 
 ## Recent changes
@@ -14,15 +14,15 @@ Heavy smoke from several large wildfires blazing in Canada and Minnesota is expe
 
 Date: 2026-07-15
 
-### Wildfires Rage in Ontario as Smoke Affects Toronto’s Air Quality
+### Heavy smoke from wildfires blankets the Northeast and Mideast, prompting evacuations
 
-Air quality in Canada’s largest city was at times the worst in the world on Wednesday, as wildfires across Ontario sent smoke drifting into New York City and beyond.
+More than 100 wildfires are burning in Canada and winds are carrying the smoke southeast.
 
 Date: 2026-07-15
 
-### Wildfires expose millions in the Midwest and Northeast US to dangerous smoke
+### Wildfires Rage in Ontario as Smoke Affects Toronto’s Air Quality
 
-Heavy smoke from several large wildfires blazing in Canada and Minnesota is expected to engulf large swaths of the Midwest and Northeast U.S. this week, exposing millions of people to dangerous air pollution.
+Air quality in Canada’s largest city was at times the worst in the world on Wednesday, as wildfires across Ontario sent smoke drifting into New York City and beyond.
 
 Date: 2026-07-15
 
@@ -70,5 +70,5 @@ Date: 2026-07-11
 
 ## Sources
 
-- [Wildfires expose millions in Midwest, Northeast to dangerous smoke](https://www.cbsnews.com/news/wildfires-smoke-millions-exposed-midwest-northeast-us/?utm_source=lootura.com) — 2026-07-15T16:07:00.000Z
-- [Wildfires Rage in Ontario as Smoke Affects Toronto’s Air Quality](https://www.nytimes.com/2026/07/15/world/canada/wildfire-smoke-toronto-ontario-northeast.html?utm_source=lootura.com) — 2026-07-15T16:32:24.000Z
+- [Wildfires expose millions in Midwest, Northeast to dangerous smoke](https://www.cbsnews.com/news/wildfires-smoke-millions-exposed-midwest-northeast-us/?utm_source=lootura.com) — 2026-07-15T19:57:42.000Z
+- [Heavy smoke from wildfires blankets the Northeast and Mideast, prompting evacuations](https://www.pbs.org/newshour/nation/heavy-smoke-from-wildfires-blankets-the-northeast-and-mideast-prompting-evacuations?utm_source=lootura.com) — 2026-07-15T20:35:35.000Z

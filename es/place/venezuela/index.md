@@ -70,4 +70,4 @@ Date: 2026-07-13
 
 ## Fuentes
 
-- [Machado defiende su regreso a Venezuela como fuerza «estabilizadora» y «pacificadora»](https://theobjective.com/internacional/2026-07-15/machado-regreso-venezuela-estabilizadora-pacificadora/?utm_source=lootura.com) — 2026-07-15T12:43:17.000Z
+No public source links.

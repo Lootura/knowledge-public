@@ -3,10 +3,16 @@
 > Sigue la actividad de Apple en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: company
-- Actualizado: 2026-07-15T13:38:34.657Z
+- Actualizado: 2026-07-15T20:57:56.208Z
 - Canonical: https://atlas.lootura.com/es/company/apple
 
 ## Cambios recientes
+
+### Esta fue la causa por la que se rompieron las negociaciones entre Apple y OpenAI antes de la demanda
+
+Un correo mal dirigido ha sido el causante de que la relación entre OpenAI y Apple se rompiera. Previo a la demanda, las dos empresas intentaron resolver sus diferencias para no tener que llegar a los tribunales. No obstante, un simple error de destinatario terminó por complicar las negociaciones y cerrar esa puerta de.
+
+Date: 2026-07-15
 
 ### Anya Taylor Joy (‘Lucky’): «Me frustraba ver a hombres moralmente ambiguos y no a mujeres»
 
@@ -62,12 +68,6 @@ A menos que vivas bajo una piedra, ya lo sabes. Apple TV se ha convertido en la 
 
 Date: 2026-07-11
 
-### Discovered by Atlas
-
-Apple first entered the public knowledge record with source-backed evidence.
-
-Date: 2026-07-10
-
 ## Fuentes
 
-No public source links.
+- [Esta fue la causa por la que se rompieron las negociaciones entre Apple y OpenAI antes de la demanda](https://hipertextual.com/apple/apple-openai-email-error-demanda-secretos/?utm_source=lootura.com) — 2026-07-15T20:39:00.000Z

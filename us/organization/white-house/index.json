@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/white-house/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/white-house/index.json",
   "description": "Follow White House, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-15T17:15:23.220Z",
+  "updatedAt": "2026-07-15T20:58:15.661Z",
   "aliases": [],
   "changes": [
     {
@@ -68,19 +68,7 @@
       "url": "https://www.cbsnews.com/video/watch-lawmaker-presses-blanche-on-his-role-in-epstein-files-mishandling-allegations/?utm_source=lootura.com",
       "publishedAt": "2026-07-15T16:06:00.000Z",
       "sourceId": "lootura-us-cbs-news"
-    },
-    {
-      "title": "White House overturns DHS halt to ICE traffic stops despite killings of two men",
-      "url": "https://www.theguardian.com/us-news/2026/jul/15/trump-ice-traffic-stops?utm_source=lootura.com",
-      "publishedAt": "2026-07-15T15:40:27.000Z",
-      "sourceId": "lootura-us-the-guardian-us"
-    },
-    {
-      "title": "Jay Clayton Expected to Face Tough Questions in Confirmation Hearing",
-      "url": "https://www.nytimes.com/2026/07/15/us/politics/jay-clayton-confirmation-hearing-director-national-intelligence.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-15T09:03:51.000Z",
-      "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 1
 }

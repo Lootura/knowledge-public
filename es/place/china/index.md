@@ -3,20 +3,26 @@
 > Sigue la actividad de China en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-15T17:14:56.110Z
+- Actualizado: 2026-07-15T20:57:56.208Z
 - Canonical: https://atlas.lootura.com/es/place/china
 
 ## Cambios recientes
 
-### China acelera su ofensiva comercial sobre Europa
-
-El gigante asiático bate un nuevo récord de exportaciones impulsado por los chips para la IA y los coches eléctricos, pero afronta una desaceleración del crecimiento que evidencia la debilidad del consumo interno Leer.
-
-Date: 2026-07-15
-
 ### El Ibex pierde los 19.300 puntos por las energéticas y los bancos
 
 La minitregua en el petróleo, y el alivio ayer en el IPC de EEUU, no logran generalizar las subidas, más allá del rebote de las tecnológicas. El freno en el PIB de China y el tono agresivo de la Fed obstaculizan los avances. El Ibex vuelve a atascarse cerca de los 19.300 puntos de las últimas jornadas.
+
+Date: 2026-07-15
+
+### Un científico estadounidense lleva 18 meses detenido en China por investigar sus pruebas nucleares
+
+El Gobierno de Estados Unidos ha reclamado la liberación de un científico estadounidense detenido en China desde hace 18 meses. El sismólogo Chen Youlin llevaba más de dos años estudiando pruebas nucleares subterráneas en el país asiático cuando fue encarcelado el 5 de noviembre de 2024 acusado de espionaje. Desde ento.
+
+Date: 2026-07-15
+
+### China acelera su ofensiva comercial sobre Europa
+
+El gigante asiático bate un nuevo récord de exportaciones impulsado por los chips para la IA y los coches eléctricos, pero afronta una desaceleración del crecimiento que evidencia la debilidad del consumo interno Leer.
 
 Date: 2026-07-15
 
@@ -62,13 +68,7 @@ Muy lejos queda ya la etiqueta que se le puso a China con sus falsificaciones e 
 
 Date: 2026-07-13
 
-### Li Ping, experta en medicina china: «La lengua es el espejo del corazón»
-
-Dicen que nadie conoce mejor su cuerpo que uno mismo. Que podemos ir al médico porque nos duele o nos pasa algo, pero que es el propio paciente quien sabe a la perfección cómo reacciona su organismo. Y es que no todos padecemos o desarrollamos una enfermedad de igual forma. O incluso con síntomas comunes, cada individu.
-
-Date: 2026-07-13
-
 ## Fuentes
 
-- [China acelera su ofensiva comercial sobre Europa](https://www.elmundo.es/economia/macroeconomia/2026/07/15/6a56f882fdddffac3c8b4587.html?utm_source=lootura.com) — 2026-07-15T05:08:14.000Z
+- [Un científico estadounidense lleva 18 meses detenido en China por investigar sus pruebas nucleares](https://www.abc.es/internacional/cientifico-estadounidense-permanece-detenido-china-investigar-pruebas-20260715212653-nt.html?utm_source=lootura.com) — 2026-07-15T19:26:53.000Z
 - [El Ibex pierde los 19.300 puntos por las energéticas y los bancos](https://www.expansion.com/mercados/cronica-bolsa/2026/07/15/6a571f27e5fdea9c048b4584.html?utm_source=lootura.com) — 2026-07-15T16:15:25.000Z

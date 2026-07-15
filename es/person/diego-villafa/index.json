@@ -1,0 +1,29 @@
+{
+  "id": "es-diego-villafa",
+  "name": "Diego Villafa",
+  "type": "person",
+  "locale": "es",
+  "canonicalPath": "/es/person/diego-villafa",
+  "canonicalUrl": "https://atlas.lootura.com/es/person/diego-villafa",
+  "markdownUrl": "https://atlas.lootura.com/es/person/diego-villafa/index.md",
+  "jsonUrl": "https://atlas.lootura.com/es/person/diego-villafa/index.json",
+  "description": "Sigue la actividad de Diego Villafa en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
+  "updatedAt": "2026-07-15T20:57:56.208Z",
+  "aliases": [],
+  "changes": [
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Diego Villafa first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-07-15"
+    }
+  ],
+  "sources": [
+    {
+      "title": "El 'número dos' de García Ortiz admite que comentó con el fiscal de Badajoz la denuncia a Leire por presiones a la jueza del 'caso David Sánchez'",
+      "url": "https://www.elindependiente.com/espana/2026/07/15/numero-dos-garcia-ortiz-comento-fiscal-badajoz-denuncia-leire-presiones-jueza-hermano-sanchez/?utm_source=lootura.com",
+      "publishedAt": "2026-07-15T17:14:07.000Z",
+      "sourceId": "lootura-es-el-independiente"
+    }
+  ],
+  "evidenceCount": 1
+}

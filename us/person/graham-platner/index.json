@@ -8,11 +8,16 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/graham-platner/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/graham-platner/index.json",
   "description": "Follow Graham Platner, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-15T17:15:23.220Z",
+  "updatedAt": "2026-07-15T20:58:15.661Z",
   "aliases": [
     "Platner"
   ],
   "changes": [
+    {
+      "title": "Inside Maine Democrats’ Search for a New Senate Nominee After Graham Platner’s Exit",
+      "summary": "Democratic candidates are hastily building bare-bones campaigns and forgoing traditional outreach like TV ads in a sprint to appeal to party delegates, rather than Maine voters.",
+      "date": "2026-07-15"
+    },
     {
       "title": "Maine Democrats aren’t coalescing behind a Graham Platner replacement",
       "summary": "Maine Democrats want to hold onto Graham Platner’s progressive base — but they can’t agree on who is best positioned to carry the torch. That indecision is creating a fractured field heading into an unpredictable late July nominating convention for one of the most important Senate races on the 2026 map. Now, various ca.",
@@ -57,19 +62,14 @@
       "title": "Maine Democrats scramble to select replacement for Platner in Senate race",
       "summary": "Maine Democrats now have a process for choosing a replacement for Senate candidate Graham Platner. But voters are still reeling from his fall.",
       "date": "2026-07-13"
-    },
-    {
-      "title": "Maine Secretary of State Shenna Bellows on her bid to replace Platner in Senate race",
-      "summary": "NPR's Michel Martin speaks with Maine Secretary of State Shenna Bellows about her run to replace Graham Platner in the Maine Senate race.",
-      "date": "2026-07-13"
     }
   ],
   "sources": [
     {
-      "title": "Maine Democrats aren’t coalescing behind a Graham Platner replacement",
-      "url": "https://www.politico.com/news/2026/07/15/maine-democrats-fractures-platner-replacement-00997729?utm_source=lootura.com",
-      "publishedAt": "2026-07-15T09:55:00.000Z",
-      "sourceId": "lootura-us-politico"
+      "title": "Inside Maine Democrats’ Search for a New Senate Nominee After Graham Platner’s Exit",
+      "url": "https://www.nytimes.com/2026/07/15/us/politics/maine-democrats-senate-convention.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-15T18:52:42.000Z",
+      "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
   "evidenceCount": 1

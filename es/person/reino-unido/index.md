@@ -3,7 +3,7 @@
 > Sigue la actividad de Reino Unido en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-15T17:14:56.110Z
+- Actualizado: 2026-07-15T20:57:56.208Z
 - Canonical: https://atlas.lootura.com/es/person/reino-unido
 
 ## Cambios recientes
@@ -20,18 +20,6 @@ Begoña Gómez ha entregado al juzgado los billetes de avión de su viaje a Lond
 
 Date: 2026-07-15
 
-### Begoña Gómez entrega los billetes de avión y reprocha a Peinado que le exija unos sellos de pasaporte que Reino Unido no estampa
-
-La defensa de la mujer del presidente advierte al juez de que le está exigiendo una “prueba diabólica”, que no existe, y critica que sea la investigada quien deba demostrar el viaje y no al revés, así que insta a Peinado a que se diriga a Reino Unido, único actor que puede acreditar la estancia El juez Peinado exige a.
-
-Date: 2026-07-15
-
-### El PP califica de «fraude» la aplicación provisional del acuerdo sobre Gibraltar
-
-El Partido Popular ha calificado de «fraude» la entrada en vigor del Tratado entre la Unión Europea y Reino Unido sobre Gibraltar , por el que ha entrado en vigor un sistema «sin ningún tipo de aprobación parlamentaria» y tampoco la del Parlamento Europeo. Así lo ha afirmado en un comunicado el partido liderado por Alb.
-
-Date: 2026-07-15
-
 ### Pedro Sánchez, tras la retirada de la Verja de Gibraltar, que ya es historia: "Los conflictos no están para gestionarlos sino para resolverlos"
 
 El presidente del Gobierno asiste al acto simbólico de la eliminación de la frontera física junto al ministro principal del Peñón, el embajador del Reino Unido y los alcaldes de la comarca Leer.
@@ -41,6 +29,18 @@ Date: 2026-07-15
 ### Begoña Gómez entrega al juez sus billetes de avión al Reino Unido y critica a Peinado por formular una exigencia "materialmente imposible"
 
 Denuncia que el requerimiento es contrario a la presunción de inocencia y subraya que Reino Unido ha sustituido los sellos físicos por un sistema digital Leer.
+
+Date: 2026-07-15
+
+### Begoña Gómez entrega los billetes de avión y reprocha a Peinado que le exija unos sellos de pasaporte que Reino Unido no estampa
+
+La defensa de la mujer del presidente advierte al juez de que le está exigiendo una “prueba diabólica”, que no existe, y critica que sea la investigada quien deba demostrar el viaje y no al revés, así que insta a Peinado a que se diriga a Reino Unido, único actor que puede acreditar la estancia El juez Peinado exige a.
+
+Date: 2026-07-15
+
+### El PP califica de «fraude» la aplicación provisional del acuerdo sobre Gibraltar
+
+El Partido Popular ha calificado de «fraude» la entrada en vigor del Tratado entre la Unión Europea y Reino Unido sobre Gibraltar , por el que ha entrado en vigor un sistema «sin ningún tipo de aprobación parlamentaria» y tampoco la del Parlamento Europeo. Así lo ha afirmado en un comunicado el partido liderado por Alb.
 
 Date: 2026-07-15
 
@@ -73,5 +73,3 @@ Date: 2026-07-15
 - [Pedro Sánchez, tras la retirada de la Verja de Gibraltar, que ya es historia: "Los conflictos no están para gestionarlos sino para resolverlos"](https://www.elmundo.es/andalucia/2026/07/15/6a576f46e9cf4a65338b4578.html?utm_source=lootura.com) — 2026-07-15T11:36:24.000Z
 - [Begoña Gómez entrega al juez sus billetes de avión al Reino Unido y critica a Peinado por formular una exigencia "materialmente imposible"](https://www.elmundo.es/espana/2026/07/15/6a57963821efa0c20b8b456d.html?utm_source=lootura.com) — 2026-07-15T14:57:25.000Z
 - [Begoña Gómez entrega al juez Peinado los billetes de su viaje a Londres para la graduación de su hija](https://elpais.com/espana/2026-07-15/begona-gomez-entrega-al-juez-peinado-los-billetes-de-su-viaje-a-londres.html?utm_source=lootura.com) — 2026-07-15T15:04:17.000Z
-- [Begoña Gómez entrega los billetes de avión y reprocha a Peinado que le exija unos sellos de pasaporte que Reino Unido no estampa](https://www.eldiario.es/politica/begona-gomez-entrega-billetes-avion-reprocha-peinado-le-exija-sellos-pasaporte-reino-unido-no-estampa_1_13382518.html?utm_source=lootura.com) — 2026-07-15T13:09:31.000Z
-- [El PP califica de «fraude» la aplicación provisional del acuerdo sobre Gibraltar](https://theobjective.com/espana/politica/2026-07-15/pp-fraude-provisional-acuerdo-gibraltar/?utm_source=lootura.com) — 2026-07-15T13:04:26.000Z

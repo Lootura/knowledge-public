@@ -3,7 +3,7 @@
 > Follow Maine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-15T17:15:23.220Z
+- Updated: 2026-07-15T20:58:15.661Z
 - Canonical: https://atlas.lootura.com/us/place/maine
 
 ## Recent changes
@@ -20,12 +20,6 @@ The Democrats hoping to challenge Ms. Collins, a vulnerable Republican, have sei
 
 Date: 2026-07-15
 
-### Maine Democrats aren’t coalescing behind a Graham Platner replacement
-
-Democrats want to hold onto Graham Platner’s progressive base — but they can’t agree on who is best positioned to carry the torch. That indecision is creating a fractured field heading into an unpredictable late July nominating convention for one of the most important Senate races on the 2026 map. Now, various ca.
-
-Date: 2026-07-15
-
 ### Colombian Immigrant Killed by ICE in Maine Had Legal Status, Father Says
 
 The father of Joan Sebastian Guerrero, the man fatally shot by a federal immigration agent on Monday, said his son had been working two jobs to support his wife and daughter.
@@ -35,6 +29,24 @@ Date: 2026-07-15
 ### ICE Halts Most Vehicle Stops After Fatal Texas, Maine Shootings
 
 In the wake of two fatal ICE-involved shootings in less than a week, the Department of Homeland Security is now instructing agents to suspend most vehicle stops amid growing uproar. On Truth Social, President Donald Trump wrote, “We cannot give up one of ICE’s most important and effective crime fighting tools,” adding,.
+
+Date: 2026-07-15
+
+### Man fleeing immigration officers in Florida struck and killed by tractor trailer, police say
+
+It was the third death in a week involving encounters with U.S. Immigration and Customs Enforcement agents, following shootings in Texas and Maine.
+
+Date: 2026-07-15
+
+### Inside Maine Democrats’ Search for a New Senate Nominee After Graham Platner’s Exit
+
+Democratic candidates are hastily building bare-bones campaigns and forgoing traditional outreach like TV ads in a sprint to appeal to party delegates, rather than Maine voters.
+
+Date: 2026-07-15
+
+### Maine Democrats aren’t coalescing behind a Graham Platner replacement
+
+Democrats want to hold onto Graham Platner’s progressive base — but they can’t agree on who is best positioned to carry the torch. That indecision is creating a fractured field heading into an unpredictable late July nominating convention for one of the most important Senate races on the 2026 map. Now, various ca.
 
 Date: 2026-07-15
 
@@ -56,22 +68,11 @@ Neither of the victims of the ICE shootings in Maine or Texas were the target of
 
 Date: 2026-07-15
 
-### Maine Democrats grapple with who is best to take over Graham Platner’s movement
-
-Democrats want to hold onto Graham Platner’s progressive base — but they can’t agree on who is best positioned to carry the torch. That indecision is creating a fractured field heading into an unpredictable late July nominating convention for one of the most important Senate races on the 2026 map. Now, various ca.
-
-Date: 2026-07-15
-
-### An ICE Shooting in Maine Puts Pressure on Senator Susan Collins
-
-The Democrats hoping to challenge Ms. Collins, a vulnerable Republican, have seized on the fatal incident, drawing attention to her record on immigration matters.
-
-Date: 2026-07-15
-
 ## Sources
 
 - [ICE Halts Most Vehicle Stops After Fatal Texas, Maine Shootings](https://www.today.com/video/ice-halts-most-vehicle-stops-after-fatal-texas-maine-shootings-266708549768?utm_source=lootura.com) — 2026-07-15T11:25:40.000Z
-- [Maine Democrats aren’t coalescing behind a Graham Platner replacement](https://www.politico.com/news/2026/07/15/maine-democrats-fractures-platner-replacement-00997729?utm_source=lootura.com) — 2026-07-15T09:55:00.000Z
+- [Man fleeing immigration officers in Florida struck and killed by tractor trailer, police say](https://www.pbs.org/newshour/nation/man-fleeing-immigration-officers-in-florida-struck-and-killed-by-tractor-trailer-police-say?utm_source=lootura.com) — 2026-07-15T18:29:41.000Z
 - [Videos Detail Moments Surrounding Fatal ICE Shooting in Biddeford, Maine](https://www.nytimes.com/2026/07/14/us/maine-ice-shooting-video-joan-sebastian-guerrero.html?utm_source=lootura.com) — 2026-07-15T16:00:34.000Z
 - [An ICE Shooting in Maine Puts Pressure on Senator Susan Collins](https://www.nytimes.com/2026/07/14/us/politics/ice-shooting-maine-susan-collins.html?utm_source=lootura.com) — 2026-07-15T03:12:35.000Z
 - [Colombian Immigrant Killed by ICE in Maine Had Legal Status, Father Says](https://www.nytimes.com/2026/07/14/us/joan-sebastian-guerrero-maine-ice-shooting.html?utm_source=lootura.com) — 2026-07-15T15:37:10.000Z
+- [Inside Maine Democrats’ Search for a New Senate Nominee After Graham Platner’s Exit](https://www.nytimes.com/2026/07/15/us/politics/maine-democrats-senate-convention.html?utm_source=lootura.com) — 2026-07-15T18:52:42.000Z

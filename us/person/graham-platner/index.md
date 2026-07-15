@@ -3,10 +3,16 @@
 > Follow Graham Platner, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-07-15T17:15:23.220Z
+- Updated: 2026-07-15T20:58:15.661Z
 - Canonical: https://atlas.lootura.com/us/person/graham-platner
 
 ## Recent changes
+
+### Inside Maine Democrats’ Search for a New Senate Nominee After Graham Platner’s Exit
+
+Democratic candidates are hastily building bare-bones campaigns and forgoing traditional outreach like TV ads in a sprint to appeal to party delegates, rather than Maine voters.
+
+Date: 2026-07-15
 
 ### Maine Democrats aren’t coalescing behind a Graham Platner replacement
 
@@ -62,12 +68,6 @@ Maine Democrats now have a process for choosing a replacement for Senate candida
 
 Date: 2026-07-13
 
-### Maine Secretary of State Shenna Bellows on her bid to replace Platner in Senate race
-
-NPR's Michel Martin speaks with Maine Secretary of State Shenna Bellows about her run to replace Graham Platner in the Maine Senate race.
-
-Date: 2026-07-13
-
 ## Sources
 
-- [Maine Democrats aren’t coalescing behind a Graham Platner replacement](https://www.politico.com/news/2026/07/15/maine-democrats-fractures-platner-replacement-00997729?utm_source=lootura.com) — 2026-07-15T09:55:00.000Z
+- [Inside Maine Democrats’ Search for a New Senate Nominee After Graham Platner’s Exit](https://www.nytimes.com/2026/07/15/us/politics/maine-democrats-senate-convention.html?utm_source=lootura.com) — 2026-07-15T18:52:42.000Z

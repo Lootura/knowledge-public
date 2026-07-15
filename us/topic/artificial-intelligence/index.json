@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/topic/artificial-intelligence/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/topic/artificial-intelligence/index.json",
   "description": "Follow Artificial intelligence, a tracked topic, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-15T17:15:23.220Z",
+  "updatedAt": "2026-07-15T20:58:15.661Z",
   "aliases": [
     "AI",
     "machine learning"
@@ -17,6 +17,26 @@
     {
       "title": "Does AI work for us, or do we work for AI?",
       "summary": "Science, Volume 393, Issue 6807 , Page 152-152, July 2026.",
+      "date": "2026-07-15"
+    },
+    {
+      "title": "Battle against data centers grows nationwide amid concerns over electricity, water usage",
+      "summary": "There's growing backlash nationwide against AI data centers and now New York is hitting pause. Gov. Kathy Hochul signed an executive order to delay the building boom. Kelly O'Grady has more.",
+      "date": "2026-07-15"
+    },
+    {
+      "title": "Highly fragmented European wetlands with uneven restoration needs",
+      "summary": "Nature, Published online: 15 July 2026; doi:10.1038/s41586-026-10760-9 Satellite imagery and machine learning used for the mapping of six seminatural open wetland types and land-use disturbance in European countries shows that wetlands are highly fragmented and have uneven restoration needs.",
+      "date": "2026-07-15"
+    },
+    {
+      "title": "Helpful microbes could battle pathogens in our hospitals and schools—with the help of AI to make it work",
+      "summary": "Helpful microbes that combat harmful pathogens could be the answer to rising antimicrobial resistance—particularly within built environments such as hospitals, homes and schools.",
+      "date": "2026-07-15"
+    },
+    {
+      "title": "AI slop movies are the new direct-to-video cash grabs",
+      "summary": "This weekend, cinephiles across the world will march to their local theaters to feast their eyes on Christopher Nolan's new adaptation of The Odyssey . It's on track to rake in anywhere between $80-$100 million in just a few days. People are clearly excited to see how Nolan uses cutting-edge filmmaking tech to make the.",
       "date": "2026-07-15"
     },
     {
@@ -30,18 +50,8 @@
       "date": "2026-07-15"
     },
     {
-      "title": "Battle against data centers grows nationwide amid concerns over electricity, water usage",
-      "summary": "There's growing backlash nationwide against AI data centers and now New York is hitting pause. Gov. Kathy Hochul signed an executive order to delay the building boom. Kelly O'Grady has more.",
-      "date": "2026-07-15"
-    },
-    {
       "title": "The First Chatbot’s Multiple Personalities",
       "summary": "ELIZA is remembered as the world’s first AI star, a kindly therapist in chatbot form that gently probed users’ worries. Even its creator, Joseph Weizenbaum, was surprised by the warm reception given to his experiment in human-machine interaction. For some, it heralded an age of automated psychotherapy, while others bel.",
-      "date": "2026-07-15"
-    },
-    {
-      "title": "Highly fragmented European wetlands with uneven restoration needs",
-      "summary": "Nature, Published online: 15 July 2026; doi:10.1038/s41586-026-10760-9 Satellite imagery and machine learning used for the mapping of six seminatural open wetland types and land-use disturbance in European countries shows that wetlands are highly fragmented and have uneven restoration needs.",
       "date": "2026-07-15"
     },
     {
@@ -53,25 +63,9 @@
       "title": "Bridging the gap: Connecting math and AI for discovery",
       "summary": "In science, researchers often focus their entire careers on the pursuit of one primary field.",
       "date": "2026-07-15"
-    },
-    {
-      "title": "Product availability changed in Europe",
-      "summary": "AI is a fast-growing business expense. Some companies are cutting costs by switching to cheaper Chinese AI models. (Image credit: Imen Ben Youssef/Hans Lucas).",
-      "date": "2026-07-15"
-    },
-    {
-      "title": "Generative AI's power sparks fears of dumbing humans down",
-      "summary": "Generative AI chatbots capable of writing emails and computer code, translating, organizing a trip or coming up with gift ideas are now readily available, prompting some to ask whether human brainpower could suffer for lack of use.",
-      "date": "2026-07-15"
     }
   ],
   "sources": [
-    {
-      "title": "26 Meta workers sue over alleged AI-aided layoffs targeting employees on medical or family leave",
-      "url": "https://www.cbsnews.com/news/26-meta-workers-sue-ai-aided-layoffs-medical-family-leave/?utm_source=lootura.com",
-      "publishedAt": "2026-07-15T09:45:00.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
     {
       "title": "Battle against data centers grows nationwide amid concerns over electricity, water usage",
       "url": "https://www.cbsnews.com/video/battle-against-data-centers-grows-nationwide/?utm_source=lootura.com",
@@ -79,47 +73,29 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "The First Chatbot’s Multiple Personalities",
-      "url": "https://spectrum.ieee.org/eliza-chatbot-source-code?utm_source=lootura.com",
-      "publishedAt": "2026-07-15T15:35:53.000Z",
-      "sourceId": "lootura-us-ieee-spectrum"
-    },
-    {
       "title": "Highly fragmented European wetlands with uneven restoration needs",
       "url": "https://www.nature.com/articles/s41586-026-10760-9?utm_source=lootura.com",
-      "publishedAt": "2026-07-15T17:15:28.038Z",
+      "publishedAt": "2026-07-15T20:58:20.082Z",
       "sourceId": "lootura-us-nature"
     },
     {
-      "title": "How do young people feel about AI? 7 teens weigh in",
-      "url": "https://www.npr.org/2026/07/14/nx-s1-5863025/teens-artificial-intelligence-ai-school?utm_source=lootura.com",
-      "publishedAt": "2026-07-14T20:00:00.000Z",
-      "sourceId": "lootura-us-npr"
-    },
-    {
-      "title": "Google's AI search features pose 'unacceptable risk' to children, new report finds",
-      "url": "https://www.pbs.org/newshour/nation/googles-ai-search-features-pose-unacceptable-risk-to-children-new-report-finds?utm_source=lootura.com",
-      "publishedAt": "2026-07-15T09:00:00.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
-    },
-    {
-      "title": "Sustainability reports: What 10 years of corporate data reveal—and conceal",
-      "url": "https://phys.org/news/2026-07-sustainability-years-corporate-reveal-conceal.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-15T15:40:03.000Z",
-      "sourceId": "lootura-us-phys-org"
-    },
-    {
-      "title": "Bridging the gap: Connecting math and AI for discovery",
-      "url": "https://phys.org/news/2026-07-bridging-gap-math-ai-discovery.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-15T17:00:12.000Z",
+      "title": "Helpful microbes could battle pathogens in our hospitals and schools—with the help of AI to make it work",
+      "url": "https://phys.org/news/2026-07-microbes-pathogens-hospitals-schools-ai.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-15T20:40:05.000Z",
       "sourceId": "lootura-us-phys-org"
     },
     {
       "title": "Does AI work for us, or do we work for AI?",
       "url": "https://www.science.org/doi/abs/10.1126/science.aei9754?af=R&utm_source=lootura.com",
-      "publishedAt": "2026-07-15T17:15:28.515Z",
+      "publishedAt": "2026-07-15T20:58:20.316Z",
       "sourceId": "lootura-us-science"
+    },
+    {
+      "title": "AI slop movies are the new direct-to-video cash grabs",
+      "url": "https://www.theverge.com/entertainment/965616/ash-koosha-odysseus-the-fall-foundtain-zero-tilly-norwood?utm_source=lootura.com",
+      "publishedAt": "2026-07-15T20:00:00.000Z",
+      "sourceId": "lootura-us-the-verge"
     }
   ],
-  "evidenceCount": 9
+  "evidenceCount": 5
 }

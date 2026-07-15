@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/iran/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/iran/index.json",
   "description": "Follow Iran, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-15T17:15:23.220Z",
+  "updatedAt": "2026-07-15T20:58:15.661Z",
   "aliases": [],
   "changes": [
     {
@@ -27,13 +27,13 @@
       "date": "2026-07-15"
     },
     {
-      "title": "House Republicans push for $95B for Iran war, election measures and farm aid",
-      "summary": "House Republicans kicked off their plans for a third reconciliation bill for $90 billion in new money for the military during the Iran war and election-related measures.",
+      "title": "U.S. reimposes blockade and steps up strikes as Iran threatens to halt all energy exports from the region",
+      "summary": "Iranian officials said Wednesday that the American strikes hit an Iranian army barracks, killed at least seven troops and wounded more than 260 people across the country.",
       "date": "2026-07-15"
     },
     {
-      "title": "U.S. reimposes blockade and steps up strikes as Iran threatens to halt all energy exports from the region",
-      "summary": "Iranian officials said Wednesday that the American strikes hit an Iranian army barracks, killed at least seven troops and wounded more than 260 people across the country.",
+      "title": "House Republicans push for $95B for Iran war, election measures and farm aid",
+      "summary": "House Republicans kicked off their plans for a third reconciliation bill for $90 billion in new money for the military during the Iran war and election-related measures.",
       "date": "2026-07-15"
     },
     {
@@ -64,6 +64,12 @@
   ],
   "sources": [
     {
+      "title": "U.S. launches back-to-back waves of strikes against Iran",
+      "url": "https://www.cbsnews.com/video/us-launches-back-to-back-waves-of-strikes-against-iran/?utm_source=lootura.com",
+      "publishedAt": "2026-07-15T20:12:07.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
+    {
       "title": "Son of couple jailed in Iran \"desperately worried\" as stepdad's sentence extended",
       "url": "https://www.cbsnews.com/news/iran-uk-lindsay-craig-foreman-prison-sentence-hunger-strike-son-worried/?utm_source=lootura.com",
       "publishedAt": "2026-07-15T16:52:30.000Z",
@@ -76,12 +82,6 @@
       "sourceId": "lootura-us-nbc-news"
     },
     {
-      "title": "House Republicans push for $95B for Iran war, election measures and farm aid",
-      "url": "https://www.nbcnews.com/politics/congress/house-republicans-push-90-billion-iran-war-election-measures-farm-aid-rcna587635?utm_source=lootura.com",
-      "publishedAt": "2026-07-15T16:13:38.000Z",
-      "sourceId": "lootura-us-nbc-news-politics"
-    },
-    {
       "title": "Morning news brief",
       "url": "https://www.npr.org/2026/07/15/nx-s1-5891559/morning-news-brief?utm_source=lootura.com",
       "publishedAt": "2026-07-15T08:50:19.000Z",
@@ -92,19 +92,7 @@
       "url": "https://www.pbs.org/newshour/world/u-s-reimposes-blockade-and-steps-up-strikes-as-iran-threatens-to-halt-all-energy-exports-from-the-region?utm_source=lootura.com",
       "publishedAt": "2026-07-15T15:23:45.000Z",
       "sourceId": "lootura-us-pbs-newshour"
-    },
-    {
-      "title": "Senate Democrats Block Defense Bill Over War in Iran",
-      "url": "https://www.nytimes.com/2026/07/14/us/politics/senate-democrats-defense-bill.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-14T19:44:27.000Z",
-      "sourceId": "lootura-us-the-new-york-times"
-    },
-    {
-      "title": "Giant Statue Mocking Trump's War in Iran Draws Attention in D.C.",
-      "url": "https://time.com/article/2026/07/15/giant-protest-statue-mocks-trump-iran-war-washington-dc/?utm_source=lootura.com",
-      "publishedAt": "2026-07-15T15:38:17.000Z",
-      "sourceId": "lootura-us-time"
     }
   ],
-  "evidenceCount": 7
+  "evidenceCount": 4
 }

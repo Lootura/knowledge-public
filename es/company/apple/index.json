@@ -8,11 +8,16 @@
   "markdownUrl": "https://atlas.lootura.com/es/company/apple/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/company/apple/index.json",
   "description": "Sigue la actividad de Apple en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-15T13:38:34.657Z",
+  "updatedAt": "2026-07-15T20:57:56.208Z",
   "aliases": [
     "Apple Inc"
   ],
   "changes": [
+    {
+      "title": "Esta fue la causa por la que se rompieron las negociaciones entre Apple y OpenAI antes de la demanda",
+      "summary": "Un correo mal dirigido ha sido el causante de que la relación entre OpenAI y Apple se rompiera. Previo a la demanda, las dos empresas intentaron resolver sus diferencias para no tener que llegar a los tribunales. No obstante, un simple error de destinatario terminó por complicar las negociaciones y cerrar esa puerta de.",
+      "date": "2026-07-15"
+    },
     {
       "title": "Anya Taylor Joy (‘Lucky’): «Me frustraba ver a hombres moralmente ambiguos y no a mujeres»",
       "summary": "La actriz Anya Taylor-Joy acaba de estrenar su nuevo gran proyecto, la serie Lucky . La argentina protagoniza un thriller con mucho drama y acción que puede verse en Apple TV . En ella, además, la intérprete es también productora. Y como guinda del pastel, comparte reparto con rostros de la talla de Timothy Olyphant ,.",
@@ -57,13 +62,15 @@
       "title": "Las 5 grandes series que debes ver si quieres sacarle el jugo a Apple TV",
       "summary": "A menos que vivas bajo una piedra, ya lo sabes. Apple TV se ha convertido en la plataforma ideal para los amantes de las series . Y eso se debe a un motivo muy específico . Su éxito no se mide por la cantidad masiva de su catálogo, sino por una apuesta por la máxima calidad. Además del prestigio artístico y la distinci.",
       "date": "2026-07-11"
-    },
-    {
-      "title": "Discovered by Atlas",
-      "summary": "Apple first entered the public knowledge record with source-backed evidence.",
-      "date": "2026-07-10"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Esta fue la causa por la que se rompieron las negociaciones entre Apple y OpenAI antes de la demanda",
+      "url": "https://hipertextual.com/apple/apple-openai-email-error-demanda-secretos/?utm_source=lootura.com",
+      "publishedAt": "2026-07-15T20:39:00.000Z",
+      "sourceId": "lootura-es-hipertextual"
+    }
+  ],
+  "evidenceCount": 1
 }

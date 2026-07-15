@@ -3,10 +3,22 @@
 > Sigue la actividad de Madrid en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-15T17:14:56.110Z
+- Actualizado: 2026-07-15T20:57:56.208Z
 - Canonical: https://atlas.lootura.com/es/place/madrid
 
 ## Cambios recientes
+
+### Feijóo y Ayuso acusan a Sánchez de ser un “presidente autoritario” y un “autócrata sin escrúpulos”ante los líderes del PP europeo
+
+Ante algunos de los principales líderes del Partido Popular Europeo, reunidos este miércoles en Madrid, Alberto Núñez Feijóo ha lanzado la acusación más gruesa hasta la fecha contra Pedro Sánchez. El líder del PP no ha dudado en describir al líder socialista como “un presidente autoritario” delante del presidente del P.
+
+Date: 2026-07-15
+
+### Muere a los 68 años el periodista y escritor Tomás Bárbulo
+
+El periodista y escritor Tomás Bárbulo ha muerto este miércoles en Madrid a los 68 años, según ha informado El País , el periódico del Grupo Prisa donde trabajó tres décadas. Como periodista ha sido miembro fundador de los diarios Expansión , La Gaceta de los Negocios y El Sol , y durante treinta años trabajó en El Paí.
+
+Date: 2026-07-15
 
 ### El asesinato de Facundo por la espalda en una urbanización de lujo en Madrid
 
@@ -23,12 +35,6 @@ Date: 2026-07-15
 ### Almeida reprocha al «delincuente» hermano de Sánchez su «golfada y deshonestidad»
 
 El alcalde de Madrid, José Luis Martínez-Almeida (PP), ha reprochado al «delincuente» hermano del presidente del Gobierno, Pedro Sánchez , por su «golfada y deshonestidad» después de que la Audiencia Provincial de Badajoz haya condenado a David Sánchez Pérez-Castejón a la pena de inhabilitación especial para empleo o c.
-
-Date: 2026-07-15
-
-### Feijóo y Ayuso acusan a Sánchez de ser un “presidente autoritario” y un “autócrata sin escrúpulos”ante los líderes del PP europeo
-
-Ante algunos de los principales líderes del Partido Popular Europeo, reunidos este miércoles en Madrid, Alberto Núñez Feijóo ha lanzado la acusación más gruesa hasta la fecha contra Pedro Sánchez. El líder del PP no ha dudado en describir al líder socialista como “un presidente autoritario” delante del presidente del P.
 
 Date: 2026-07-15
 
@@ -62,16 +68,8 @@ El histórico boxeador español José Legrá ha fallecido este jueves a los 83 a
 
 Date: 2026-07-15
 
-### Las doce puñaladas que acabaron con Facundo en su ático de lujo de Las Tablas
-
-Calurosa mañana de julio en Las Tablas. Una vecina del número 4 de la calle Cirauqui, en el distrito de Fuencarral-El Pardo, el de mayor extensión de Europa pero también uno de los más tranquilos de Madrid, se levanta escamada: un fuerte olor a producto químico le llega desde un piso superior. Concretamente, el 5º B, d.
-
-Date: 2026-07-15
-
 ## Fuentes
 
+- [Air Europa lanza un vuelo especial de Madrid a Nueva York para la final del Mundial](https://www.20minutos.es/madrid/air-europa-lanza-un-vuelo-especial-madrid-nueva-york-para-final-mundial_7015112_0.html?utm_source=lootura.com) — 2026-07-15T18:11:24.000Z
 - [Feijóo y Ayuso acusan a Sánchez de ser un “presidente autoritario” y un “autócrata sin escrúpulos”ante los líderes del PP europeo](https://elpais.com/espana/2026-07-15/feijoo-acusa-a-sanchez-de-ser-un-presidente-autoritario-ante-los-lideres-del-pp-europeo.html?utm_source=lootura.com) — 2026-07-15T10:33:12.000Z
-- [El asesinato de Facundo por la espalda en una urbanización de lujo en Madrid](https://elpais.com/espana/madrid/2026-07-15/el-asesinato-de-facundo-por-la-espalda-en-una-urbanizacion-de-lujo-en-madrid.html?utm_source=lootura.com) — 2026-07-15T03:30:01.000Z
-- [Ayuso acusa a Sánchez de «utilizar» medios de comunicación y herramientas del Estado para «dañar la democracia»](https://okdiario.com/madrid/ayuso-acusa-sanchez-utilizar-medios-comunicacion-herramientas-del-estado-danar-democracia-19003233?utm_source=lootura.com) — 2026-07-15T16:41:52.000Z
-- [El Gobierno de Ayuso cree que Sánchez quiere «cargarse» la acusación popular](https://theobjective.com/espana/politica/2026-07-15/gobierno-ayuso-sanchez-acusacion-popular/?amp=&utm_source=lootura.com) — 2026-07-15T13:22:26.000Z
-- [Almeida reprocha al «delincuente» hermano de Sánchez su «golfada y deshonestidad»](https://theobjective.com/espana/politica/2026-07-15/almeida-delincuente-hermano-sanchez-golfada-deshonestidad/?utm_source=lootura.com) — 2026-07-15T12:06:32.000Z
+- [Muere a los 68 años el periodista y escritor Tomás Bárbulo](https://theobjective.com/cultura/2026-07-15/muere-periodista-escritor-tomas-barbulo/?utm_source=lootura.com) — 2026-07-15T19:40:43.000Z

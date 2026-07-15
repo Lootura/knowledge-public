@@ -3,7 +3,7 @@
 > Sigue la actividad de Barcelona en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-15T02:11:09.495Z
+- Actualizado: 2026-07-15T20:57:56.208Z
 - Canonical: https://atlas.lootura.com/es/place/barcelona
 
 ## Cambios recientes
@@ -70,4 +70,4 @@ Date: 2026-07-13
 
 ## Fuentes
 
-No public source links.
+- [Rodri Hernández, el paradójico heredero de Busquets: corre hasta 12 kilómetros por partido](https://elpais.com/deportes/mundial-futbol/2026-07-15/el-paradojico-heredero-de-busquets-rodri-hernandez-rompe-el-gps.html?utm_source=lootura.com) — 2026-07-15T16:55:01.000Z

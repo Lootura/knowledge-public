@@ -3,7 +3,7 @@
 > Follow New York, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-15T17:15:23.220Z
+- Updated: 2026-07-15T20:58:15.661Z
 - Canonical: https://atlas.lootura.com/us/place/new-york
 
 ## Recent changes
@@ -72,4 +72,3 @@ Date: 2026-07-14
 
 - [Watch Live: Jay Clayton, Trump](https://www.cbsnews.com/news/jay-clayton-trumps-dni-nominee-senate-confirmation-hearing/?utm_source=lootura.com) — 2026-07-15T13:38:23.000Z
 - [Battle against data centers grows nationwide amid concerns over electricity, water usage](https://www.cbsnews.com/video/battle-against-data-centers-grows-nationwide/?utm_source=lootura.com) — 2026-07-15T13:28:19.000Z
-- [Wildfires Rage in Ontario as Smoke Affects Toronto’s Air Quality](https://www.nytimes.com/2026/07/15/world/canada/wildfire-smoke-toronto-ontario-northeast.html?utm_source=lootura.com) — 2026-07-15T16:32:24.000Z

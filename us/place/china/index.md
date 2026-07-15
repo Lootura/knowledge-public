@@ -3,7 +3,7 @@
 > Follow China, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-15T17:15:23.220Z
+- Updated: 2026-07-15T20:58:15.661Z
 - Canonical: https://atlas.lootura.com/us/place/china
 
 ## Recent changes
@@ -11,6 +11,18 @@
 ### China’s Economy Grows at Slowest Pace in Years
 
 Economic growth of 4.3 percent in the second quarter, versus the same period last year, reflected a broad slump outside of the country’s export-oriented manufacturing might.
+
+Date: 2026-07-15
+
+### China and Xi favored over US and Trump in many nations: Survey
+
+The change is driven by improved perceptions of China and declining views of the United States. (Image credit: Mark Schiefelbein).
+
+Date: 2026-07-15
+
+### After traveling a billion kilometers, China's asteroid hunter finally arrives
+
+What does it take to catch up with a small, tumbling rock hundreds of thousands of kilometers from Earth? For China's Tianwen-2 mission, the answer was a 400-day chase covering roughly 1 billion kilometers (621 million miles) of deep space—one that has just ended in success. The China National Space Administration has.
 
 Date: 2026-07-15
 
@@ -56,19 +68,8 @@ For half a century, millions of workers have repeated a task across the deserts 
 
 Date: 2026-07-13
 
-### Japan Is Building a New Intelligence Agency With Help From the West
-
-Facing threats from Russia and China, Prime Minister Sanae Takaichi is breaking with World War II-era limits on security.
-
-Date: 2026-07-13
-
-### Japan Is Building a New Intelligence Agency With Help From the West
-
-Facing threats from Russia and China, Prime Minister Sanae Takaichi is breaking with World War II-era limits on security.
-
-Date: 2026-07-13
-
 ## Sources
 
-- [China’s Chip Champion to Raise Billions in Race for A.I. Control](https://www.nytimes.com/2026/07/15/business/china-chips-cxmt-ipo.html?utm_source=lootura.com) — 2026-07-15T07:29:52.000Z
+- [China and Xi favored over US and Trump in many nations: Survey](https://www.npr.org/2026/07/15/g-s1-133827/china-and-xi-favored-over-us-and-trump-in-many-nations-survey?utm_source=lootura.com) — 2026-07-15T20:34:30.000Z
+- [After traveling a billion kilometers, China's asteroid hunter finally arrives](https://phys.org/news/2026-07-billion-kilometers-china-asteroid-hunter.html?utm_source=lootura.com) — 2026-07-15T20:20:01.000Z
 - [China’s Economy Grows at Slowest Pace in Years](https://www.nytimes.com/2026/07/15/business/china-economy-gdp-growth.html?utm_source=lootura.com) — 2026-07-15T11:10:18.000Z

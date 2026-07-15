@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/barcelona/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/barcelona/index.json",
   "description": "Sigue la actividad de Barcelona en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-15T02:11:09.495Z",
+  "updatedAt": "2026-07-15T20:57:56.208Z",
   "aliases": [],
   "changes": [
     {
@@ -62,6 +62,13 @@
       "date": "2026-07-13"
     }
   ],
-  "sources": [],
+  "sources": [
+    {
+      "title": "Rodri Hernández, el paradójico heredero de Busquets: corre hasta 12 kilómetros por partido",
+      "url": "https://elpais.com/deportes/mundial-futbol/2026-07-15/el-paradojico-heredero-de-busquets-rodri-hernandez-rompe-el-gps.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-15T16:55:01.000Z",
+      "sourceId": "lootura-es-el-pais"
+    }
+  ],
   "evidenceCount": 0
 }

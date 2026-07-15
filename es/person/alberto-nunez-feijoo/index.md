@@ -3,7 +3,7 @@
 > Sigue la actividad de Alberto Núñez Feijóo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-15T17:14:56.110Z
+- Actualizado: 2026-07-15T20:57:56.208Z
 - Canonical: https://atlas.lootura.com/es/person/alberto-nunez-feijoo
 
 ## Cambios recientes
@@ -20,15 +20,15 @@ Feijóo cae dos puntos en porcentaje de voto y Abascal también retrocede ligera
 
 Date: 2026-07-15
 
-### Feijóo acusa a Sánchez de ser un «presidente autoritario» y de «agredir» la democracia
-
-El líder del PP , Alberto Núñez Feijóo , ha asegurado este miércoles que el jefe del Ejecutivo, Pedro Sánchez , es un «presidente autoritario» —aunque no lo ha citado expresamente en ningún momento— y ha advertido de que España sufre «la amenaza de una democracia debilitada» y «agredida». Además, ha avisado de que no p.
-
-Date: 2026-07-15
-
 ### Feijóo y Ayuso acusan a Sánchez de ser un “presidente autoritario” y un “autócrata sin escrúpulos”ante los líderes del PP europeo
 
 Ante algunos de los principales líderes del Partido Popular Europeo, reunidos este miércoles en Madrid, Alberto Núñez Feijóo ha lanzado la acusación más gruesa hasta la fecha contra Pedro Sánchez. El líder del PP no ha dudado en describir al líder socialista como “un presidente autoritario” delante del presidente del P.
+
+Date: 2026-07-15
+
+### Feijóo acusa a Sánchez de ser un «presidente autoritario» y de «agredir» la democracia
+
+El líder del PP , Alberto Núñez Feijóo , ha asegurado este miércoles que el jefe del Ejecutivo, Pedro Sánchez , es un «presidente autoritario» —aunque no lo ha citado expresamente en ningún momento— y ha advertido de que España sufre «la amenaza de una democracia debilitada» y «agredida». Además, ha avisado de que no p.
 
 Date: 2026-07-15
 
@@ -73,4 +73,3 @@ Date: 2026-07-13
 - [Feijóo eleva al máximo su crítica a Sánchez tras la condena de su hermano y lo llama "presidente autoritario"](https://www.elmundo.es/espana/2026/07/15/6a5765cffc6c83df118b4582.html?utm_source=lootura.com) — 2026-07-15T10:50:27.000Z
 - [El CIS de Tezanos remonta al PSOE y le da una ventaja de casi ocho puntos sobre el PP en el mes de la condena a Ábalos](https://www.elmundo.es/espana/2026/07/15/6a574fee21efa0e10d8b4582.html?utm_source=lootura.com) — 2026-07-15T10:40:39.000Z
 - [Feijóo y Ayuso acusan a Sánchez de ser un “presidente autoritario” y un “autócrata sin escrúpulos”ante los líderes del PP europeo](https://elpais.com/espana/2026-07-15/feijoo-acusa-a-sanchez-de-ser-un-presidente-autoritario-ante-los-lideres-del-pp-europeo.html?utm_source=lootura.com) — 2026-07-15T10:33:12.000Z
-- [Feijóo acusa a Sánchez de ser un «presidente autoritario» y de «agredir» la democracia](https://theobjective.com/espana/politica/2026-07-15/feijoo-sanchez-presidente-autoritario-agredir-democracia/?utm_source=lootura.com) — 2026-07-15T12:32:30.000Z

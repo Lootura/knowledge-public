@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/maine/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/maine/index.json",
   "description": "Follow Maine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-15T17:15:23.220Z",
+  "updatedAt": "2026-07-15T20:58:15.661Z",
   "aliases": [],
   "changes": [
     {
@@ -22,11 +22,6 @@
       "date": "2026-07-15"
     },
     {
-      "title": "Maine Democrats aren’t coalescing behind a Graham Platner replacement",
-      "summary": "Democrats want to hold onto Graham Platner’s progressive base — but they can’t agree on who is best positioned to carry the torch. That indecision is creating a fractured field heading into an unpredictable late July nominating convention for one of the most important Senate races on the 2026 map. Now, various ca.",
-      "date": "2026-07-15"
-    },
-    {
       "title": "Colombian Immigrant Killed by ICE in Maine Had Legal Status, Father Says",
       "summary": "The father of Joan Sebastian Guerrero, the man fatally shot by a federal immigration agent on Monday, said his son had been working two jobs to support his wife and daughter.",
       "date": "2026-07-15"
@@ -34,6 +29,21 @@
     {
       "title": "ICE Halts Most Vehicle Stops After Fatal Texas, Maine Shootings",
       "summary": "In the wake of two fatal ICE-involved shootings in less than a week, the Department of Homeland Security is now instructing agents to suspend most vehicle stops amid growing uproar. On Truth Social, President Donald Trump wrote, “We cannot give up one of ICE’s most important and effective crime fighting tools,” adding,.",
+      "date": "2026-07-15"
+    },
+    {
+      "title": "Man fleeing immigration officers in Florida struck and killed by tractor trailer, police say",
+      "summary": "It was the third death in a week involving encounters with U.S. Immigration and Customs Enforcement agents, following shootings in Texas and Maine.",
+      "date": "2026-07-15"
+    },
+    {
+      "title": "Inside Maine Democrats’ Search for a New Senate Nominee After Graham Platner’s Exit",
+      "summary": "Democratic candidates are hastily building bare-bones campaigns and forgoing traditional outreach like TV ads in a sprint to appeal to party delegates, rather than Maine voters.",
+      "date": "2026-07-15"
+    },
+    {
+      "title": "Maine Democrats aren’t coalescing behind a Graham Platner replacement",
+      "summary": "Democrats want to hold onto Graham Platner’s progressive base — but they can’t agree on who is best positioned to carry the torch. That indecision is creating a fractured field heading into an unpredictable late July nominating convention for one of the most important Senate races on the 2026 map. Now, various ca.",
       "date": "2026-07-15"
     },
     {
@@ -50,16 +60,6 @@
       "title": "ICE halts most vehicle stops following deadly shootings, sources say",
       "summary": "Neither of the victims of the ICE shootings in Maine or Texas were the target of enforcement operations, according to the Department of Homeland Security.",
       "date": "2026-07-15"
-    },
-    {
-      "title": "Maine Democrats grapple with who is best to take over Graham Platner’s movement",
-      "summary": "Democrats want to hold onto Graham Platner’s progressive base — but they can’t agree on who is best positioned to carry the torch. That indecision is creating a fractured field heading into an unpredictable late July nominating convention for one of the most important Senate races on the 2026 map. Now, various ca.",
-      "date": "2026-07-15"
-    },
-    {
-      "title": "An ICE Shooting in Maine Puts Pressure on Senator Susan Collins",
-      "summary": "The Democrats hoping to challenge Ms. Collins, a vulnerable Republican, have seized on the fatal incident, drawing attention to her record on immigration matters.",
-      "date": "2026-07-15"
     }
   ],
   "sources": [
@@ -70,10 +70,10 @@
       "sourceId": "lootura-us-nbc-news"
     },
     {
-      "title": "Maine Democrats aren’t coalescing behind a Graham Platner replacement",
-      "url": "https://www.politico.com/news/2026/07/15/maine-democrats-fractures-platner-replacement-00997729?utm_source=lootura.com",
-      "publishedAt": "2026-07-15T09:55:00.000Z",
-      "sourceId": "lootura-us-politico"
+      "title": "Man fleeing immigration officers in Florida struck and killed by tractor trailer, police say",
+      "url": "https://www.pbs.org/newshour/nation/man-fleeing-immigration-officers-in-florida-struck-and-killed-by-tractor-trailer-police-say?utm_source=lootura.com",
+      "publishedAt": "2026-07-15T18:29:41.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
     },
     {
       "title": "Videos Detail Moments Surrounding Fatal ICE Shooting in Biddeford, Maine",
@@ -92,7 +92,13 @@
       "url": "https://www.nytimes.com/2026/07/14/us/joan-sebastian-guerrero-maine-ice-shooting.html?utm_source=lootura.com",
       "publishedAt": "2026-07-15T15:37:10.000Z",
       "sourceId": "lootura-us-the-new-york-times"
+    },
+    {
+      "title": "Inside Maine Democrats’ Search for a New Senate Nominee After Graham Platner’s Exit",
+      "url": "https://www.nytimes.com/2026/07/15/us/politics/maine-democrats-senate-convention.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-15T18:52:42.000Z",
+      "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 5
+  "evidenceCount": 6
 }

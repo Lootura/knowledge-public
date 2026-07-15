@@ -2,8 +2,8 @@
 
 > Sigue la actividad de Cinco Villas en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
-- Type: organization
-- Actualizado: 2026-07-15T17:14:56.110Z
+- Type: place
+- Actualizado: 2026-07-15T20:57:56.208Z
 - Canonical: https://atlas.lootura.com/es/organization/cinco-villas
 
 ## Cambios recientes
@@ -14,19 +14,19 @@ El incendio forestal declarado este miércoles en el término municipal de Orés
 
 Date: 2026-07-15
 
-### Un incendio que arrasa 200 hectáreas en Orés (Zaragoza) obliga a evacuar el municipio
-
-El incendio declarado este miércoles en el término municipal de Orés, en la Comarca de Cinco Villas, ha obligado al Gobierno de Aragón a enviar un Es-Alert para ordenar la evacuación de las poblaciones de Orés y Asín, instando a los vecinos a seguir las recomendaciones de las autoridades. Las llamas afectan a una super.
-
-Date: 2026-07-15
-
 ### Discovered by Atlas
 
 Cinco Villas first entered the public knowledge record with source-backed evidence.
 
 Date: 2026-07-15
 
+### Evacuadas tres localidades por un incendio con "gran potencial de crecimiento y destrucción" en Zaragoza
+
+El fuego declarado en el mediodía de este miércoles en el término municipal de Orés , en la comarca zaragozana de las Cinco Villas y que ya ha obligado a evacuar esa localidad y las vecinas de Asín y Luesia , es uno de los incendios forestales de Aragón "con mayor potencial de crecimiento y mayor potencial de destrucci.
+
+Date: 2026-07-15
+
 ## Fuentes
 
+- [Evacuadas tres localidades por un incendio con "gran potencial de crecimiento y destrucción" en Zaragoza](https://www.elindependiente.com/espana/2026/07/15/evacuadas-tres-localidades-por-un-incendio-con-gran-potencial-de-crecimiento-y-destruccion-en-zaragoza/?utm_source=lootura.com) — 2026-07-15T20:06:09.000Z
 - [Incendio forestal en Zaragoza, en directo: Última hora de los desalojos en Orés y Asín](https://www.larazon.es/actualidad/incendio-forestal-zaragoza-directo-ultima-hora-desalojo-pueblos-ores-asin_202607156a57b08c0500ab412c97009c.html?utm_source=lootura.com) — 2026-07-15T17:05:15.000Z
-- [Un incendio que arrasa 200 hectáreas en Orés (Zaragoza) obliga a evacuar el municipio](https://theobjective.com/sociedad/suceso/2026-07-15/incendio-ores-zaragoza-desalojo/?utm_source=lootura.com) — 2026-07-15T15:00:09.000Z
