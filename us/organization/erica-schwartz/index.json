@@ -1,0 +1,45 @@
+{
+  "id": "usa-erica-schwartz",
+  "name": "Erica Schwartz",
+  "type": "organization",
+  "locale": "en",
+  "canonicalPath": "/us/organization/erica-schwartz",
+  "canonicalUrl": "https://atlas.lootura.com/us/organization/erica-schwartz",
+  "markdownUrl": "https://atlas.lootura.com/us/organization/erica-schwartz/index.md",
+  "jsonUrl": "https://atlas.lootura.com/us/organization/erica-schwartz/index.json",
+  "description": "Follow Erica Schwartz, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
+  "updatedAt": "2026-07-15T10:00:29.427Z",
+  "aliases": [],
+  "changes": [
+    {
+      "title": "CDC director nominee Erica Schwartz faces Senate for confirmation hearing",
+      "summary": "Dr. Erica Schwartz, Trump's nominee for CDC director, faces the Senate health committee for her confirmation hearing on July 15. If confirmed, she will lead an agency dealing with workforce and leadership shortages, and new layers of political review. (Image credit: U.S. Department of Health and Human Services).",
+      "date": "2026-07-15"
+    },
+    {
+      "title": "Trump’s Latest Nominee for C.D.C. Director Will Face Senate Panel",
+      "summary": "Dr. Erica Schwartz supports vaccines and is seen as a mainstream choice to lead an agency that has been a target of Health Secretary Robert F. Kennedy Jr.’s efforts to change federal immunization policies.",
+      "date": "2026-07-15"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Erica Schwartz first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-07-15"
+    }
+  ],
+  "sources": [
+    {
+      "title": "CDC director nominee Erica Schwartz faces Senate for confirmation hearing",
+      "url": "https://www.npr.org/2026/07/15/nx-s1-5892482/cdc-director-erica-schwartz-senate-confirmation-hearing?utm_source=lootura.com",
+      "publishedAt": "2026-07-15T09:00:00.000Z",
+      "sourceId": "lootura-us-npr-politics"
+    },
+    {
+      "title": "Trump’s Latest Nominee for C.D.C. Director Will Face Senate Panel",
+      "url": "https://www.nytimes.com/2026/07/15/health/cdc-erica-schwartz.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-15T09:03:28.000Z",
+      "sourceId": "lootura-us-the-new-york-times-politics"
+    }
+  ],
+  "evidenceCount": 2
+}

@@ -70,4 +70,4 @@ Date: 2026-07-14
 
 ## Fuentes
 
-- [La sombra del presidente planea por toda la sentencia: aparece hasta seis veces](https://www.abc.es/espana/sombra-presidente-planea-sentencia-20260715022849-nt.html?utm_source=lootura.com) — 2026-07-15T05:57:25.000Z
+No public source links.

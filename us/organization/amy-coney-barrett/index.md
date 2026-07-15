@@ -3,7 +3,7 @@
 > Follow Amy Coney Barrett, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-07-15T06:12:31.661Z
+- Updated: 2026-07-15T10:00:29.427Z
 - Canonical: https://atlas.lootura.com/us/organization/amy-coney-barrett
 
 ## Recent changes

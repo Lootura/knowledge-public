@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/china/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/china/index.json",
   "description": "Sigue la actividad de China en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-15T06:12:14.832Z",
+  "updatedAt": "2026-07-15T10:00:08.251Z",
   "aliases": [],
   "changes": [
     {
       "title": "China acelera su ofensiva comercial sobre Europa",
       "summary": "El gigante asiático bate un nuevo récord de exportaciones impulsado por los chips para la IA y los coches eléctricos, pero afronta una desaceleración del crecimiento que evidencia la debilidad del consumo interno Leer.",
+      "date": "2026-07-15"
+    },
+    {
+      "title": "El Ibex vuelve a frenarse",
+      "summary": "La minitregua en el petróleo, y el alivio ayer en el IPC de EEUU, no logran generalizar las subidas, más allá del rebote de las tecnológicas. El freno en el PIB de China y el tono agresivo de la Fed obstaculizan los avances. El Ibex vuelve a atascarse cerca de los 19.300 puntos de las últimas jornadas.",
       "date": "2026-07-15"
     },
     {
@@ -55,11 +60,6 @@
       "title": "El embajador de EE UU ante la ONU acusa a Cuba de contar con \"puestos de inteligencia\" de Rusia y China",
       "summary": "El embajador de Estados Unidos ante Naciones Unidas, Mike Waltz, ha afirmado que Cuba supone \"una amenaza para su propio pueblo\" y también para la \"seguridad nacional\" estadounidense, alegando que acoge elementos de las inteligencias de Rusia y de China. \"El régimen cubano no solo representa una amenaza para su propio.",
       "date": "2026-07-13"
-    },
-    {
-      "title": "¿Hay café para todos? Nestlé busca conquistar a los bebedores de té de China e India en pleno récord de demanda",
-      "summary": "El café se ha convertido en una de las piedras angulares de la nueva hoja de ruta estratégica de Nestlé. El gigante alimentario suizo, que intenta enderezar su rumbo ahora bajo la dirección de Philip Navratil como consejero delegado y de Pablo Isla como presidente , ha identificado cuatro sectores sobre los que quiere.",
-      "date": "2026-07-12"
     }
   ],
   "sources": [
@@ -76,9 +76,9 @@
       "sourceId": "lootura-es-el-mundo"
     },
     {
-      "title": "El Ibex vuelve a atascarse",
+      "title": "El Ibex vuelve a frenarse",
       "url": "https://www.expansion.com/mercados/cronica-bolsa/2026/07/15/6a571f27e5fdea9c048b4584.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-15T06:09:56.000Z",
+      "publishedAt": "2026-07-15T09:38:19.000Z",
       "sourceId": "lootura-es-expansion"
     }
   ],

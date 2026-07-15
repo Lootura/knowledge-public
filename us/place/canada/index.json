@@ -8,9 +8,14 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/canada/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/canada/index.json",
   "description": "Follow Canada, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-14T13:30:27.465Z",
+  "updatedAt": "2026-07-15T10:00:29.427Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "Wildfires expose millions in the Midwest and Northeast US to dangerous smoke",
+      "summary": "Heavy smoke from several large wildfires blazing in Canada and Minnesota is expected to engulf large swaths of the Midwest and Northeast U.S. this week, exposing millions of people to dangerous air pollution.",
+      "date": "2026-07-15"
+    },
     {
       "title": "Toronto police looking for suspects after deadly shooting at festival",
       "summary": "At least two people are dead and at least four people are injured after a shooting on Saturday night at a festival celebrating Latin culture in Canada's biggest city. (Image credit: Keito Newman).",
@@ -55,13 +60,15 @@
       "title": "Poll: Politics shapes patriotism, from the US to the UK",
       "summary": "What does it mean to be patriotic? It depends on a country's politics. Pride in one’s country is itself relatively common, according to new results from an international edition of The POLITICO Poll: Majorities of adults across the United States, United Kingdom, Spain, Canada, France and Germany all say they are proud.",
       "date": "2026-07-11"
-    },
-    {
-      "title": "After Being Delayed by Trump, a Canada-U.S. Bridge is Set to Open",
-      "summary": "A deal ended the Trump administration’s blocking of a new bridge that will ease congestion at the busiest trade corridor between the United States and Canada.",
-      "date": "2026-07-11"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Wildfires expose millions in the Midwest and Northeast US to dangerous smoke",
+      "url": "https://phys.org/news/2026-07-wildfires-expose-millions-midwest-northeast.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-15T08:40:21.000Z",
+      "sourceId": "lootura-us-phys-org"
+    }
+  ],
+  "evidenceCount": 1
 }

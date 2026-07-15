@@ -3,7 +3,7 @@
 > Sigue la actividad de China en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-15T06:12:14.832Z
+- Actualizado: 2026-07-15T10:00:08.251Z
 - Canonical: https://atlas.lootura.com/es/place/china
 
 ## Cambios recientes
@@ -11,6 +11,12 @@
 ### China acelera su ofensiva comercial sobre Europa
 
 El gigante asiático bate un nuevo récord de exportaciones impulsado por los chips para la IA y los coches eléctricos, pero afronta una desaceleración del crecimiento que evidencia la debilidad del consumo interno Leer.
+
+Date: 2026-07-15
+
+### El Ibex vuelve a frenarse
+
+La minitregua en el petróleo, y el alivio ayer en el IPC de EEUU, no logran generalizar las subidas, más allá del rebote de las tecnológicas. El freno en el PIB de China y el tono agresivo de la Fed obstaculizan los avances. El Ibex vuelve a atascarse cerca de los 19.300 puntos de las últimas jornadas.
 
 Date: 2026-07-15
 
@@ -62,14 +68,8 @@ El embajador de Estados Unidos ante Naciones Unidas, Mike Waltz, ha afirmado que
 
 Date: 2026-07-13
 
-### ¿Hay café para todos? Nestlé busca conquistar a los bebedores de té de China e India en pleno récord de demanda
-
-El café se ha convertido en una de las piedras angulares de la nueva hoja de ruta estratégica de Nestlé. El gigante alimentario suizo, que intenta enderezar su rumbo ahora bajo la dirección de Philip Navratil como consejero delegado y de Pablo Isla como presidente , ha identificado cuatro sectores sobre los que quiere.
-
-Date: 2026-07-12
-
 ## Fuentes
 
 - [ASML supera las previsiones en el segundo trimestre gracias al impulso de la IA](https://cincodias.elpais.com/companias/2026-07-15/asml-supera-las-previsiones-en-el-segundo-trimestre-gracias-al-impulso-de-la-ia.html?utm_source=lootura.com) — 2026-07-15T05:24:17.000Z
 - [China acelera su ofensiva comercial sobre Europa](https://www.elmundo.es/economia/macroeconomia/2026/07/15/6a56f882fdddffac3c8b4587.html?utm_source=lootura.com) — 2026-07-15T05:08:14.000Z
-- [El Ibex vuelve a atascarse](https://www.expansion.com/mercados/cronica-bolsa/2026/07/15/6a571f27e5fdea9c048b4584.html?utm_source=lootura.com) — 2026-07-15T06:09:56.000Z
+- [El Ibex vuelve a frenarse](https://www.expansion.com/mercados/cronica-bolsa/2026/07/15/6a571f27e5fdea9c048b4584.html?utm_source=lootura.com) — 2026-07-15T09:38:19.000Z

@@ -3,20 +3,26 @@
 > Follow Russia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-15T06:12:31.661Z
+- Updated: 2026-07-15T10:00:29.427Z
 - Canonical: https://atlas.lootura.com/us/place/russia
 
 ## Recent changes
 
-### Trump Says U.S. Will ‘Take Over’ Strait of Hormuz, and How Russia Made Japan a Den of Spies
+### Ukraine Pounds Russian Ships in Its Campaign to Cut Off Crimea
 
-Plus, scientists find sugar in outer space.
+After striking roads and railways, Kyiv is now focusing on sea routes as it tries to disrupt fuel supplies and pressure Russia to end the war.
 
-Date: 2026-07-14
+Date: 2026-07-15
 
 ### Lindsey Graham’s Death Leaves Fate of Russia Sanctions Bill Uncertain
 
 Supporters in both parties hope the measure to penalize Russia, championed by Senator Lindsey Graham, will gain momentum in his honor.
+
+Date: 2026-07-14
+
+### Trump Says U.S. Will ‘Take Over’ Strait of Hormuz, and How Russia Made Japan a Den of Spies
+
+Plus, scientists find sugar in outer space.
 
 Date: 2026-07-14
 
@@ -62,13 +68,7 @@ One day before Sen. Lindsey Graham's death Saturday, he told "Face the Nation" m
 
 Date: 2026-07-12
 
-### Rep. Mike Turner says he hopes Senate will pass Russia sanctions as
-
-GOP Rep. Mike Turner of Ohio said that he.
-
-Date: 2026-07-12
-
 ## Sources
 
-- [Trump Says U.S. Will ‘Take Over’ Strait of Hormuz, and How Russia Made Japan a Den of Spies](https://www.nytimes.com/2026/07/14/podcasts/the-headlines/trump-strait-of-hormuz-russia-japan-ukraine-war-space-sugar.html?utm_source=lootura.com) — 2026-07-14T10:00:14.000Z
+- [Ukraine Pounds Russian Ships in Its Campaign to Cut Off Crimea](https://www.nytimes.com/2026/07/15/world/europe/ukraine-russia-crimea-azov-sea.html?utm_source=lootura.com) — 2026-07-15T09:38:52.000Z
 - [Lindsey Graham’s Death Leaves Fate of Russia Sanctions Bill Uncertain](https://www.nytimes.com/2026/07/14/us/politics/graham-death-russia-sanctions-trump.html?utm_source=lootura.com) — 2026-07-14T20:55:01.000Z

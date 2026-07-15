@@ -3,10 +3,16 @@
 > Follow Graham Platner, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-07-15T06:12:31.661Z
+- Updated: 2026-07-15T10:00:29.427Z
 - Canonical: https://atlas.lootura.com/us/person/graham-platner
 
 ## Recent changes
+
+### Maine Democrats grapple with who is best to take over Graham Platner’s movement
+
+Maine Democrats want to hold onto Graham Platner’s progressive base — but they can’t agree on who is best positioned to carry the torch. That indecision is creating a fractured field heading into an unpredictable late July nominating convention for one of the most important Senate races on the 2026 map. Now, various ca.
+
+Date: 2026-07-15
 
 ### Maine Democrats will square off in first Senate debate since Platner's withdrawal
 
@@ -62,12 +68,6 @@ Local Democrats are warning the top Senate Democrat to keep away as they replace
 
 Date: 2026-07-13
 
-### US congressman says ‘IDF is lying’ about his detention by settlers and soldiers
-
-Israeli ambassador to US accuses Ro Khanna of political stunt to distract from support for Graham Platner Ro Khanna accused the Israeli government and military of “lying” on Sunday about the US congressman’s detention by armed settlers and Israeli soldiers during a recent visit to the Israeli-occupied West Bank. Khanna.
-
-Date: 2026-07-12
-
 ## Sources
 
-- [Maine Democrats will square off in first Senate debate since Platner's withdrawal](https://www.politico.com/news/2026/07/14/maine-democrats-senate-debate-platner-00997107?utm_source=lootura.com) — 2026-07-14T18:34:24.000Z
+- [Maine Democrats grapple with who is best to take over Graham Platner’s movement](https://www.politico.com/news/2026/07/15/maine-democrats-fractures-platner-replacement-00997729?utm_source=lootura.com) — 2026-07-15T09:55:00.000Z

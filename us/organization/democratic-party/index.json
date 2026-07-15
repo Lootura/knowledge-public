@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/democratic-party/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/democratic-party/index.json",
   "description": "Follow Democratic Party, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-15T06:12:31.661Z",
+  "updatedAt": "2026-07-15T10:00:29.427Z",
   "aliases": [
     "Democrats"
   ],
@@ -16,6 +16,21 @@
     {
       "title": "House Votes for Permanent Daylight Saving Time",
       "summary": "House Republicans and Democrats united in favor of a bill to eliminate semiannual clock-changing, but it faces an uncertain fate in the Senate.",
+      "date": "2026-07-15"
+    },
+    {
+      "title": "Maine Democrats grapple with who is best to take over Graham Platner’s movement",
+      "summary": "Maine Democrats want to hold onto Graham Platner’s progressive base — but they can’t agree on who is best positioned to carry the torch. That indecision is creating a fractured field heading into an unpredictable late July nominating convention for one of the most important Senate races on the 2026 map. Now, various ca.",
+      "date": "2026-07-15"
+    },
+    {
+      "title": "An ICE Shooting in Maine Puts Pressure on Senator Susan Collins",
+      "summary": "The Democrats hoping to challenge Ms. Collins, a vulnerable Republican, have seized on the fatal incident, drawing attention to her record on immigration matters.",
+      "date": "2026-07-15"
+    },
+    {
+      "title": "Platner Was Toxic. But Democrats Could Learn From His Politics.",
+      "summary": "His progressive, populist message was able to occupy a kind of middle ground in the party’s primary electorate.",
       "date": "2026-07-15"
     },
     {
@@ -29,13 +44,13 @@
       "date": "2026-07-14"
     },
     {
-      "title": "Maine Democrats will square off in first Senate debate since Platner's withdrawal",
-      "summary": "The first debate on Thursday in Maine's flash Democratic primary may feature a crowded stage. Eight candidates to replace Graham Platner on the ballot have been invited to the debate in Portland, the organizer said Tuesday. News Center Maine, which is sponsoring the event, had initially invited three people who ran for.",
+      "title": "Senate Democrats Block Defense Bill Over War in Iran",
+      "summary": "The vote reflected how the political debate over the conflict in the Middle East has sapped bipartisan support for a normally popular measure.",
       "date": "2026-07-14"
     },
     {
-      "title": "Senate Democrats Block Defense Bill Over War in Iran",
-      "summary": "The vote reflected how the political debate over the conflict in the Middle East has sapped bipartisan support for a normally popular measure.",
+      "title": "Maine Democrats will square off in first Senate debate since Platner's withdrawal",
+      "summary": "The first debate on Thursday in Maine's flash Democratic primary may feature a crowded stage. Eight candidates to replace Graham Platner on the ballot have been invited to the debate in Portland, the organizer said Tuesday. News Center Maine, which is sponsoring the event, had initially invited three people who ran for.",
       "date": "2026-07-14"
     },
     {
@@ -47,24 +62,15 @@
       "title": "Funding milestone detected",
       "summary": "With the federal Medicaid work requirement looming in January, Democrats are considering state legislation to call out big companies that employ workers enrolled in the safety net health program.",
       "date": "2026-07-14"
-    },
-    {
-      "title": "Red State, Blue Governor: It Could Happen in Iowa. Would It Matter?",
-      "summary": "Democrats have real hope for candidates for governor in red states like Iowa and Ohio, but if Republicans seize supermajorities in the legislatures, their power would be limited.",
-      "date": "2026-07-14"
-    },
-    {
-      "title": "Can Democrats Win Rural Voters Turning Away From Trump? It’s a Tough Sell.",
-      "summary": "House candidates like Beth Macy, author of “Dopesick,” have crafted messages based on lifetimes in rural regions. But messages need an audience, and many minds are closed to the party.",
-      "date": "2026-07-14"
-    },
-    {
-      "title": "Maine Democrats will square off in Senate debate Thursday",
-      "summary": "Democrats vying to replace former Maine Senate nominee Graham Platner on the ballot are set to battle on the debate stage Thursday night. News Center Maine confirmed the debate, which will be held at 7 p.m. EDT in Portland and include three former gubernatorial hopefuls — Troy Jackson , Shenna Bellows and Nirav Shah —.",
-      "date": "2026-07-14"
     }
   ],
   "sources": [
+    {
+      "title": "Nominee for top intel post faces lawmakers eager to see him replace the current leader",
+      "url": "https://www.nbcnews.com/politics/national-security/nominee-top-intel-post-faces-lawmakers-eager-see-replace-current-leade-rcna587368?utm_source=lootura.com",
+      "publishedAt": "2026-07-15T09:00:00.000Z",
+      "sourceId": "lootura-us-nbc-news-politics"
+    },
     {
       "title": "Maine Democrats criticize GOP Sen. Susan Collins after fatal ICE shooting of motorist in the state",
       "url": "https://www.pbs.org/newshour/politics/maine-democrats-criticize-gop-sen-susan-collins-after-fatal-ice-shooting-of-motorist-in-the-state?utm_source=lootura.com",
@@ -72,9 +78,9 @@
       "sourceId": "lootura-us-pbs-newshour"
     },
     {
-      "title": "Maine Democrats will square off in first Senate debate since Platner's withdrawal",
-      "url": "https://www.politico.com/news/2026/07/14/maine-democrats-senate-debate-platner-00997107?utm_source=lootura.com",
-      "publishedAt": "2026-07-14T18:34:24.000Z",
+      "title": "Maine Democrats grapple with who is best to take over Graham Platner’s movement",
+      "url": "https://www.politico.com/news/2026/07/15/maine-democrats-fractures-platner-replacement-00997729?utm_source=lootura.com",
+      "publishedAt": "2026-07-15T09:55:00.000Z",
       "sourceId": "lootura-us-politico"
     },
     {
@@ -84,17 +90,23 @@
       "sourceId": "lootura-us-the-new-york-times"
     },
     {
-      "title": "House Votes for Permanent Daylight Saving Time",
-      "url": "https://www.nytimes.com/2026/07/14/us/politics/house-daylight-savings-time-sunshine-protection-act.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-15T01:33:07.000Z",
-      "sourceId": "lootura-us-the-new-york-times-politics"
-    },
-    {
       "title": "An ICE Shooting in Maine Puts Pressure on Senator Susan Collins",
       "url": "https://www.nytimes.com/2026/07/14/us/politics/ice-shooting-maine-susan-collins.html?utm_source=lootura.com",
       "publishedAt": "2026-07-15T03:12:35.000Z",
+      "sourceId": "lootura-us-the-new-york-times"
+    },
+    {
+      "title": "House Votes for Permanent Daylight Saving Time",
+      "url": "https://www.nytimes.com/2026/07/14/us/politics/house-daylight-savings-time-sunshine-protection-act.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-15T08:40:14.000Z",
+      "sourceId": "lootura-us-the-new-york-times-politics"
+    },
+    {
+      "title": "Platner Was Toxic. But Democrats Could Learn From His Politics.",
+      "url": "https://www.nytimes.com/2026/07/15/upshot/platner-democrats-progressives-liberals.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-15T09:03:26.000Z",
       "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 5
+  "evidenceCount": 6
 }

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/united-states/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/united-states/index.json",
   "description": "Follow United States, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-15T06:12:31.661Z",
+  "updatedAt": "2026-07-15T10:00:29.427Z",
   "aliases": [
     "America",
     "Estados Unidos",
@@ -31,38 +31,38 @@
       "date": "2026-07-15"
     },
     {
-      "title": "Trump Says U.S. Will ‘Take Over’ Strait of Hormuz, and How Russia Made Japan a Den of Spies",
-      "summary": "Plus, scientists find sugar in outer space.",
-      "date": "2026-07-14"
+      "title": "Morning news brief",
+      "summary": "Acting Attorney General Todd Blanche to appear for confirmation hearing, U.S. restarts blockade against Iran amid standoff over the Strait of Hormuz, ICE suspends traffic stops after deadly shootings.",
+      "date": "2026-07-15"
     },
     {
-      "title": "U.S. Workers Are More Productive Than Ever. A.I. Isn’t the Key.",
-      "summary": "Companies have been getting more out of employees for several years. Tight labor markets, digitization and remote work are among the reasons.",
-      "date": "2026-07-14"
+      "title": "CDC director nominee Erica Schwartz faces Senate for confirmation hearing",
+      "summary": "Dr. Erica Schwartz, Trump's nominee for CDC director, faces the Senate health committee for her confirmation hearing on July 15. If confirmed, she will lead an agency dealing with workforce and leadership shortages, and new layers of political review. (Image credit: U.S. Department of Health and Human Services).",
+      "date": "2026-07-15"
+    },
+    {
+      "title": "Wildfires expose millions in the Midwest and Northeast US to dangerous smoke",
+      "summary": "Heavy smoke from several large wildfires blazing in Canada and Minnesota is expected to engulf large swaths of the Midwest and Northeast U.S. this week, exposing millions of people to dangerous air pollution.",
+      "date": "2026-07-15"
+    },
+    {
+      "title": "For Israel, the U.S.-Iran Hostilities Have Created an Uneasy Limbo",
+      "summary": "Officials see a return to full-blown war as preferable to an agreement that fails to curb the threats Iran poses to Israel. Meanwhile, they wait.",
+      "date": "2026-07-15"
+    },
+    {
+      "title": "Funding milestone detected",
+      "summary": "The parasite, which has sickened thousands across the U.S., is notoriously difficult to track. Funding cuts haven’t made the job easier.",
+      "date": "2026-07-15"
+    },
+    {
+      "title": "Jay Clayton Expected to Face Tough Questions in Confirmation Hearing",
+      "summary": "His nomination to lead the U.S. intelligence community comes as the White House pushes to use declassified intelligence to show concerns about election security.",
+      "date": "2026-07-15"
     },
     {
       "title": "Some international artists are skipping U.S. tours. Others may follow suit",
       "summary": "The visa process for visiting artists has always been complicated and expensive. Under the current administration, it's gotten significantly worse.",
-      "date": "2026-07-14"
-    },
-    {
-      "title": "In the aftermath of deadly shootings, ICE pauses most traffic stops",
-      "summary": "U.S. Immigration and Customs Enforcement will pause non-urgent vehicle stops after two deadly shootings in less than a week, Maine U.S. Sen. Angus King's office tells NPR. (Image credit: Joseph Prezioso).",
-      "date": "2026-07-14"
-    },
-    {
-      "title": "Trump Flip-Flops on Strait of Hormuz, Creating New Risks for Global Economy",
-      "summary": "The president now wants Gulf nations to invest in the U.S. in exchange for safe passage. Shipping industry experts worry other nations will follow that lead.",
-      "date": "2026-07-14"
-    },
-    {
-      "title": "Morning news brief",
-      "summary": "Trump says the U.S. will collect tolls and impose blockade in the Strait of Hormuz, man killed by federal agents in Maine, states sue to stop Paramount-Warner Bros merger.",
-      "date": "2026-07-14"
-    },
-    {
-      "title": "More than 50% of Australian university assignments used AI. How should universities respond?",
-      "summary": "Last week, the U.S. software company Turnitin revealed 53.6% of Australian tertiary education submissions run through its system used some form of AI in the period from October 2025–April 2026. The company, whose plagiarism-detection technology is widely used in universities, also reported 10% of these submissions cont.",
       "date": "2026-07-14"
     }
   ],
@@ -92,10 +92,28 @@
       "sourceId": "lootura-us-npr"
     },
     {
+      "title": "Morning news brief",
+      "url": "https://www.npr.org/2026/07/15/nx-s1-5891559/morning-news-brief?utm_source=lootura.com",
+      "publishedAt": "2026-07-15T08:50:19.000Z",
+      "sourceId": "lootura-us-npr"
+    },
+    {
+      "title": "CDC director nominee Erica Schwartz faces Senate for confirmation hearing",
+      "url": "https://www.npr.org/2026/07/15/nx-s1-5892482/cdc-director-erica-schwartz-senate-confirmation-hearing?utm_source=lootura.com",
+      "publishedAt": "2026-07-15T09:00:00.000Z",
+      "sourceId": "lootura-us-npr-politics"
+    },
+    {
       "title": "In the aftermath of deadly shootings, ICE pauses most traffic stops",
       "url": "https://www.npr.org/2026/07/14/nx-s1-5893456/ice-vehicle-biddeford-houston?utm_source=lootura.com",
       "publishedAt": "2026-07-14T19:54:53.000Z",
       "sourceId": "lootura-us-npr-politics"
+    },
+    {
+      "title": "Wildfires expose millions in the Midwest and Northeast US to dangerous smoke",
+      "url": "https://phys.org/news/2026-07-wildfires-expose-millions-midwest-northeast.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-15T08:40:21.000Z",
+      "sourceId": "lootura-us-phys-org"
     },
     {
       "title": "Trump Flip-Flops on Strait of Hormuz, Creating New Risks for Global Economy",
@@ -104,17 +122,11 @@
       "sourceId": "lootura-us-the-new-york-times"
     },
     {
-      "title": "Trump Says U.S. Will ‘Take Over’ Strait of Hormuz, and How Russia Made Japan a Den of Spies",
-      "url": "https://www.nytimes.com/2026/07/14/podcasts/the-headlines/trump-strait-of-hormuz-russia-japan-ukraine-war-space-sugar.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-14T10:00:14.000Z",
-      "sourceId": "lootura-us-the-new-york-times"
-    },
-    {
-      "title": "U.S. Workers Are More Productive Than Ever. A.I. Isn’t the Key.",
-      "url": "https://www.nytimes.com/2026/07/14/business/worker-productivity-artificial-intelligence-economy.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-14T12:25:43.000Z",
+      "title": "For Israel, the U.S.-Iran Hostilities Have Created an Uneasy Limbo",
+      "url": "https://www.nytimes.com/2026/07/15/world/middleeast/for-israel-the-us-iran-hostilities-have-created-an-uneasy-limbo.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-15T09:03:46.000Z",
       "sourceId": "lootura-us-the-new-york-times"
     }
   ],
-  "evidenceCount": 8
+  "evidenceCount": 12
 }

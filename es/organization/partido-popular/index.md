@@ -3,10 +3,16 @@
 > Sigue la actividad de Partido Popular en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-15T06:12:14.832Z
+- Actualizado: 2026-07-15T10:00:08.251Z
 - Canonical: https://atlas.lootura.com/es/organization/partido-popular
 
 ## Cambios recientes
+
+### El PP recuerda que fue Podemos quien denunció a David Sánchez en 2017
+
+La portavoz del Grupo Popular en el Congreso, Ester Muñoz , ha recordado hoy que Podemos fue el primero en denunciar «nepotismo» en 2017 contra el hermano de Pedro Sánchez y ha acusado al Gobierno de «engañar» al afirmar que no existen pruebas contra David Sánchez , condenado ayer como cooperador necesario en un delito.
+
+Date: 2026-07-15
 
 ### Vox fuerza a Llorca a quitar ayudas a Cruz Roja para pagar un estudio que asocia inmigración y delincuencia
 
@@ -62,14 +68,7 @@ El Congreso , en una jornada estival, extraordinaria, ha escenificado este marte
 
 Date: 2026-07-14
 
-### PP, Vox y Junts unen fuerzas para asestar un golpe al Gobierno y tumban el primer examen del Congreso al Presupuesto
-
-El Ministerio de Hacienda aprobará la semana que viene la misma senda de estabilidad que ha decaído este martes, con el objetivo de acelerar la redacción de las cuentas públicas después del verano Hacienda recupera una idea de Montoro en 2013 para tentar a las comunidades del PP peor financiadas El Congreso de los Dipu.
-
-Date: 2026-07-14
-
 ## Fuentes
 
-- [Vox fuerza a Llorca a quitar ayudas a Cruz Roja para pagar un estudio que asocia inmigración y delincuencia](https://www.elconfidencial.com/espana/comunidad-valenciana/2026-07-15/vox-llorca-ayudas-cruz-roja-inmigracion-delincuencia_4389907/?utm_source=lootura.com) — 2026-07-15T03:00:00.000Z
-- [El PP augura un calvario largo para Pedro Sánchez: "Les queda lo peor"](https://www.elmundo.es/espana/2026/07/14/6a566e14e85ece461a8b4597.html?utm_source=lootura.com) — 2026-07-14T17:47:00.000Z
-- [El Congreso tumba con 178 votos y cinco abstenciones la senda de estabilidad presupuestaria y anticipa ya el fracaso de las cuentas públicas para 2027](https://www.elmundo.es/espana/2026/07/14/6a562a72fdddff361b8b456e.html?utm_source=lootura.com) — 2026-07-14T18:03:15.000Z
+- [¿Un eje España-Francia en la UE? Lo que está en juego más allá de la polémica de Rajoy](https://elordenmundial.com/blitz-espana-francia-intereses-politica-ue-rajoy/?utm_source=lootura.com) — 2026-07-15T05:48:46.000Z
+- [El PP recuerda que fue Podemos quien denunció a David Sánchez en 2017](https://theobjective.com/espana/politica/2026-07-15/pp-podemos-david-sanchez/?utm_source=lootura.com) — 2026-07-15T09:48:37.000Z

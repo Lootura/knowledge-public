@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/iran/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/iran/index.json",
   "description": "Follow Iran, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-15T06:12:31.661Z",
+  "updatedAt": "2026-07-15T10:00:29.427Z",
   "aliases": [],
   "changes": [
     {
@@ -17,13 +17,18 @@
       "date": "2026-07-15"
     },
     {
-      "title": "Inflation slowed sharply -- but it may not last",
-      "summary": "Annual inflation hit 3.5% in June, down from May's more than three-year high — but the resumption of the conflict with Iran threaten to push up inflation as energy costs once again spike. (Image credit: Brandon Bell).",
-      "date": "2026-07-14"
+      "title": "Morning news brief",
+      "summary": "Acting Attorney General Todd Blanche to appear for confirmation hearing, U.S. restarts blockade against Iran amid standoff over the Strait of Hormuz, ICE suspends traffic stops after deadly shootings.",
+      "date": "2026-07-15"
     },
     {
-      "title": "‘We Love Iraq,’ Trump Tells New Prime Minister in Oval Office Meeting",
-      "summary": "The meeting comes as President Trump’s administration has been ratcheting up pressure on Baghdad to diminish Iran’s influence in Iraq.",
+      "title": "For Israel, the U.S.-Iran Hostilities Have Created an Uneasy Limbo",
+      "summary": "Officials see a return to full-blown war as preferable to an agreement that fails to curb the threats Iran poses to Israel. Meanwhile, they wait.",
+      "date": "2026-07-15"
+    },
+    {
+      "title": "Inflation slowed sharply -- but it may not last",
+      "summary": "Annual inflation hit 3.5% in June, down from May's more than three-year high — but the resumption of the conflict with Iran threaten to push up inflation as energy costs once again spike. (Image credit: Brandon Bell).",
       "date": "2026-07-14"
     },
     {
@@ -34,6 +39,11 @@
     {
       "title": "At War With Iran Again, Trump Finds an Opponent He Cannot Easily Dominate",
       "summary": "The president is accustomed to forcing other countries to bend to his will. But he is struggling to come up with a strategy to extract Iranian concessions as the cease-fire he brokered collapses.",
+      "date": "2026-07-14"
+    },
+    {
+      "title": "‘We Love Iraq,’ Trump Tells New Prime Minister in Oval Office Meeting",
+      "summary": "The meeting comes as President Trump’s administration has been ratcheting up pressure on Baghdad to diminish Iran’s influence in Iraq.",
       "date": "2026-07-14"
     },
     {
@@ -49,16 +59,6 @@
     {
       "title": "Europe, Flexing Muscle in Ukraine, Is Still on Sidelines in Iran",
       "summary": "In a show of collective strength, President Emmanuel Macron of France hosted European allies at the annual Bastille Day parade in Paris. Yet Europe is still a hostage to America’s foreign policy.",
-      "date": "2026-07-14"
-    },
-    {
-      "title": "Details on newest U.S. strikes against Iran",
-      "summary": "The United States is carrying out a third night of airstrikes against Iran. CBS News national security analyst Aaron MacLean has more.",
-      "date": "2026-07-14"
-    },
-    {
-      "title": "Trump Says Fighting With Iran Has Resumed as He Orders Blockade and Tolls",
-      "summary": "After several days of strikes, the president notified Congress that fighting had begun again and announced shipping fees that his administration previously deemed illegal.",
       "date": "2026-07-14"
     }
   ],
@@ -76,9 +76,21 @@
       "sourceId": "lootura-us-npr"
     },
     {
+      "title": "Morning news brief",
+      "url": "https://www.npr.org/2026/07/15/nx-s1-5891559/morning-news-brief?utm_source=lootura.com",
+      "publishedAt": "2026-07-15T08:50:19.000Z",
+      "sourceId": "lootura-us-npr"
+    },
+    {
       "title": "Senate Democrats Block Defense Bill Over War in Iran",
       "url": "https://www.nytimes.com/2026/07/14/us/politics/senate-democrats-defense-bill.html?utm_source=lootura.com",
       "publishedAt": "2026-07-14T19:44:27.000Z",
+      "sourceId": "lootura-us-the-new-york-times"
+    },
+    {
+      "title": "For Israel, the U.S.-Iran Hostilities Have Created an Uneasy Limbo",
+      "url": "https://www.nytimes.com/2026/07/15/world/middleeast/for-israel-the-us-iran-hostilities-have-created-an-uneasy-limbo.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-15T09:03:46.000Z",
       "sourceId": "lootura-us-the-new-york-times"
     },
     {
@@ -86,13 +98,7 @@
       "url": "https://www.nytimes.com/2026/07/14/us/politics/iran-trump-war.html?utm_source=lootura.com",
       "publishedAt": "2026-07-14T23:01:39.000Z",
       "sourceId": "lootura-us-the-new-york-times-politics"
-    },
-    {
-      "title": "‘We Love Iraq,’ Trump Tells New Prime Minister in Oval Office Meeting",
-      "url": "https://www.nytimes.com/2026/07/14/us/politics/iraq-trump-oval-office-meeting.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-14T19:09:58.000Z",
-      "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 5
+  "evidenceCount": 6
 }

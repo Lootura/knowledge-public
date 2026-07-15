@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/china/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/china/index.json",
   "description": "Follow China, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-15T06:12:31.661Z",
+  "updatedAt": "2026-07-15T10:00:29.427Z",
   "aliases": [],
   "changes": [
     {
@@ -64,9 +64,15 @@
   ],
   "sources": [
     {
+      "title": "China’s Chip Champion to Raise Billions in Race for A.I. Control",
+      "url": "https://www.nytimes.com/2026/07/15/business/china-chips-cxmt-ipo.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-15T07:29:52.000Z",
+      "sourceId": "lootura-us-the-new-york-times"
+    },
+    {
       "title": "China’s Economy Grows at Slowest Pace in Years",
       "url": "https://www.nytimes.com/2026/07/15/business/china-economy-gdp-growth.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-15T04:41:25.000Z",
+      "publishedAt": "2026-07-15T06:38:34.000Z",
       "sourceId": "lootura-us-the-new-york-times"
     }
   ],

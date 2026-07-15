@@ -8,11 +8,16 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/partido-popular/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/partido-popular/index.json",
   "description": "Sigue la actividad de Partido Popular en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-15T06:12:14.832Z",
+  "updatedAt": "2026-07-15T10:00:08.251Z",
   "aliases": [
     "PP"
   ],
   "changes": [
+    {
+      "title": "El PP recuerda que fue Podemos quien denunció a David Sánchez en 2017",
+      "summary": "La portavoz del Grupo Popular en el Congreso, Ester Muñoz , ha recordado hoy que Podemos fue el primero en denunciar «nepotismo» en 2017 contra el hermano de Pedro Sánchez y ha acusado al Gobierno de «engañar» al afirmar que no existen pruebas contra David Sánchez , condenado ayer como cooperador necesario en un delito.",
+      "date": "2026-07-15"
+    },
     {
       "title": "Vox fuerza a Llorca a quitar ayudas a Cruz Roja para pagar un estudio que asocia inmigración y delincuencia",
       "summary": "Vox ha convertido el trámite de enmiendas al proyecto de ley de Presupuestos de la Generalitat para 2026 en la vía de entrada de sus propuestas políticas más controvertidas con el aval del Partido Popular de Juanfran Pérez Llorca, que necesita su voto para sacar adelante las cuentas autonómicas. El grupo parlamentario.",
@@ -57,32 +62,21 @@
       "title": "PP, Vox y Junts tumban otra vez la senda de déficit y no dan margen a los presupuestos",
       "summary": "El Congreso , en una jornada estival, extraordinaria, ha escenificado este martes una obra teatral. El tiempo, caluroso, era el de un campamento de verano. Y a los diputados, en el patio y los pasillos de la Cámara Baja, los acompañaban amigos y familiares llenos de curiosidad. En el hemiciclo, los actores leían un gui.",
       "date": "2026-07-14"
-    },
-    {
-      "title": "PP, Vox y Junts unen fuerzas para asestar un golpe al Gobierno y tumban el primer examen del Congreso al Presupuesto",
-      "summary": "El Ministerio de Hacienda aprobará la semana que viene la misma senda de estabilidad que ha decaído este martes, con el objetivo de acelerar la redacción de las cuentas públicas después del verano Hacienda recupera una idea de Montoro en 2013 para tentar a las comunidades del PP peor financiadas El Congreso de los Dipu.",
-      "date": "2026-07-14"
     }
   ],
   "sources": [
     {
-      "title": "Vox fuerza a Llorca a quitar ayudas a Cruz Roja para pagar un estudio que asocia inmigración y delincuencia",
-      "url": "https://www.elconfidencial.com/espana/comunidad-valenciana/2026-07-15/vox-llorca-ayudas-cruz-roja-inmigracion-delincuencia_4389907/?utm_source=lootura.com",
-      "publishedAt": "2026-07-15T03:00:00.000Z",
-      "sourceId": "lootura-es-el-confidencial"
+      "title": "¿Un eje España-Francia en la UE? Lo que está en juego más allá de la polémica de Rajoy",
+      "url": "https://elordenmundial.com/blitz-espana-francia-intereses-politica-ue-rajoy/?utm_source=lootura.com",
+      "publishedAt": "2026-07-15T05:48:46.000Z",
+      "sourceId": "lootura-es-el-orden-mundial"
     },
     {
-      "title": "El PP augura un calvario largo para Pedro Sánchez: \"Les queda lo peor\"",
-      "url": "https://www.elmundo.es/espana/2026/07/14/6a566e14e85ece461a8b4597.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-14T17:47:00.000Z",
-      "sourceId": "lootura-es-el-mundo"
-    },
-    {
-      "title": "El Congreso tumba con 178 votos y cinco abstenciones la senda de estabilidad presupuestaria y anticipa ya el fracaso de las cuentas públicas para 2027",
-      "url": "https://www.elmundo.es/espana/2026/07/14/6a562a72fdddff361b8b456e.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-14T18:03:15.000Z",
-      "sourceId": "lootura-es-el-mundo"
+      "title": "El PP recuerda que fue Podemos quien denunció a David Sánchez en 2017",
+      "url": "https://theobjective.com/espana/politica/2026-07-15/pp-podemos-david-sanchez/?utm_source=lootura.com",
+      "publishedAt": "2026-07-15T09:48:37.000Z",
+      "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 1
 }

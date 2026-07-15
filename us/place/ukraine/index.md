@@ -3,10 +3,16 @@
 > Follow Ukraine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-14T20:58:39.119Z
+- Updated: 2026-07-15T10:00:29.427Z
 - Canonical: https://atlas.lootura.com/us/place/ukraine
 
 ## Recent changes
+
+### Ukraine Pounds Russian Ships in Its Campaign to Cut Off Crimea
+
+After striking roads and railways, Kyiv is now focusing on sea routes as it tries to disrupt fuel supplies and pressure Russia to end the war.
+
+Date: 2026-07-15
 
 ### Europe, Flexing Muscle in Ukraine, Is Still on Sidelines in Iran
 
@@ -62,12 +68,6 @@ The South Carolina Republican was Ukraine’s most influential champion inside P
 
 Date: 2026-07-12
 
-### Trump Sought an Iran War Exit. Putin Pushed On in Ukraine. Now Both Are Stuck.
-
-The Iran and Ukraine wars underline the common limits of military force in achieving political ends, but also the differences between a dug-in Russian president and a vacillating American one.
-
-Date: 2026-07-12
-
 ## Sources
 
-No public source links.
+- [Ukraine Pounds Russian Ships in Its Campaign to Cut Off Crimea](https://www.nytimes.com/2026/07/15/world/europe/ukraine-russia-crimea-azov-sea.html?utm_source=lootura.com) — 2026-07-15T09:38:52.000Z

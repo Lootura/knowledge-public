@@ -8,11 +8,16 @@
   "markdownUrl": "https://atlas.lootura.com/us/market/startups/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/market/startups/index.json",
   "description": "Follow Startups, a tracked market, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-15T06:12:31.661Z",
+  "updatedAt": "2026-07-15T10:00:29.427Z",
   "aliases": [
     "startup funding"
   ],
   "changes": [
+    {
+      "title": "Product availability changed in Europe",
+      "summary": "AI is a fast-growing business expense. Some companies are cutting costs by switching to cheaper Chinese AI models. (Image credit: Imen Ben Youssef/Hans Lucas).",
+      "date": "2026-07-15"
+    },
     {
       "title": "AI companies are creating \"generative ghosts\" of deceased loved ones",
       "summary": "are using emails, photos and voice recordings to create AI simulations that family and friends can interact with after a loved one's death.",
@@ -30,7 +35,13 @@
       "url": "https://www.npr.org/2026/07/14/nx-s1-5893664/supreme-court-justices-kagan-barrett-give-chilling-accounts-of-threats-to-their-safety?utm_source=lootura.com",
       "publishedAt": "2026-07-15T03:19:25.000Z",
       "sourceId": "lootura-us-npr"
+    },
+    {
+      "title": "American AI is expensive. Some startups are turning to cheap Chinese models",
+      "url": "https://www.npr.org/2026/07/15/nx-s1-5886476/startups-cheap-chinese-ai-models?utm_source=lootura.com",
+      "publishedAt": "2026-07-15T09:00:00.000Z",
+      "sourceId": "lootura-us-npr-world"
     }
   ],
-  "evidenceCount": 0
+  "evidenceCount": 1
 }

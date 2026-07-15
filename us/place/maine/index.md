@@ -3,7 +3,7 @@
 > Follow Maine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-15T06:12:31.661Z
+- Updated: 2026-07-15T10:00:29.427Z
 - Canonical: https://atlas.lootura.com/us/place/maine
 
 ## Recent changes
@@ -26,17 +26,23 @@ U.S. Immigration and Customs Enforcement officials shot and killed two men in th
 
 Date: 2026-07-15
 
+### Maine Democrats grapple with who is best to take over Graham Platner’s movement
+
+Democrats want to hold onto Graham Platner’s progressive base — but they can’t agree on who is best positioned to carry the torch. That indecision is creating a fractured field heading into an unpredictable late July nominating convention for one of the most important Senate races on the 2026 map. Now, various ca.
+
+Date: 2026-07-15
+
 ### An ICE Shooting in Maine Puts Pressure on Senator Susan Collins
 
 The Democrats hoping to challenge Ms. Collins, a vulnerable Republican, have seized on the fatal incident, drawing attention to her record on immigration matters.
 
 Date: 2026-07-15
 
-### Family of a man shot by agents responding to a 911 call seeks answers
+### An ICE Shooting in Maine Puts Pressure on Senator Susan Collins
 
-A troubling pattern of federal agents fatally shooting civilians is developing, with deaths in Maine, Texas and Tennessee. The family of a man shot by agents told NPR they want answers.
+The Democrats hoping to challenge Ms. Collins, a vulnerable Republican, have seized on the fatal incident, drawing attention to her record on immigration matters.
 
-Date: 2026-07-14
+Date: 2026-07-15
 
 ### In the aftermath of deadly shootings, ICE pauses most traffic stops
 
@@ -62,21 +68,15 @@ A 26-year-old Colombian national was shot and killed in Maine after ICE agents a
 
 Date: 2026-07-14
 
-### Maine Democrats will square off in first Senate debate since Platner's withdrawal
-
-The first debate on Thursday in Maine's flash Democratic primary may feature a crowded stage. Eight candidates to replace Graham Platner on the ballot have been invited to the debate in Portland, the organizer said Tuesday. News Center Maine, which is sponsoring the event, had initially invited three people who ran for.
-
-Date: 2026-07-14
-
 ## Sources
 
-- [Man fatally shot by ICE in Maine was not intended target of warrant, lawmakers say](https://www.cbsnews.com/news/maine-shooting-ice-biddeford/?utm_source=lootura.com) — 2026-07-14T19:59:27.000Z
+- [Security video captures moments after man was fatally shot by ICE in Maine](https://www.cbsnews.com/news/security-video-man-fatally-shot-ice-maine-johan-sebastian-duran-guerrero/?utm_source=lootura.com) — 2026-07-15T01:30:44.000Z
 - [ICE halts most vehicle stops following deadly shootings, sources say](https://www.cbsnews.com/news/ice-agents-halt-vehicle-stops-after-shootings-maine-texas/?utm_source=lootura.com) — 2026-07-15T00:07:35.000Z
 - [After ICE fatally shot multiple people, officials speak out: "We want them out"](https://www.cbsnews.com/video/after-ice-fatally-shot-multiple-people-officials-speak-out/?utm_source=lootura.com) — 2026-07-15T02:35:00.000Z
-- [Family of a man shot by agents responding to a 911 call seeks answers](https://www.npr.org/2026/07/14/nx-s1-5891873/family-of-a-man-shot-by-agents-responding-to-a-911-call-seeks-answers?utm_source=lootura.com) — 2026-07-14T11:26:15.000Z
 - [In the aftermath of deadly shootings, ICE pauses most traffic stops](https://www.npr.org/2026/07/14/nx-s1-5893456/ice-vehicle-biddeford-houston?utm_source=lootura.com) — 2026-07-14T19:54:53.000Z
 - [Maine Democrats criticize GOP Sen. Susan Collins after fatal ICE shooting of motorist in the state](https://www.pbs.org/newshour/politics/maine-democrats-criticize-gop-sen-susan-collins-after-fatal-ice-shooting-of-motorist-in-the-state?utm_source=lootura.com) — 2026-07-14T23:05:04.000Z
 - [Maine Sen. King says feds lack credibility, locals need role in ICE shooting investigation](https://www.pbs.org/newshour/show/maine-sen-king-says-feds-lack-credibility-locals-need-role-in-ice-shooting-investigation?utm_source=lootura.com) — 2026-07-14T22:55:25.000Z
-- [Maine Democrats will square off in first Senate debate since Platner's withdrawal](https://www.politico.com/news/2026/07/14/maine-democrats-senate-debate-platner-00997107?utm_source=lootura.com) — 2026-07-14T18:34:24.000Z
+- [Maine Democrats grapple with who is best to take over Graham Platner’s movement](https://www.politico.com/news/2026/07/15/maine-democrats-fractures-platner-replacement-00997729?utm_source=lootura.com) — 2026-07-15T09:55:00.000Z
 - [ICE Ordered to Cease Most Vehicle Stops After Fatal Shootings in Maine and Houston](https://www.nytimes.com/2026/07/14/us/ice-agents-traffic-stops.html?utm_source=lootura.com) — 2026-07-14T17:02:07.000Z
 - [Videos Detail Moments Surrounding Fatal ICE Shooting in Biddeford, Maine](https://www.nytimes.com/2026/07/14/us/maine-ice-shooting-video-joan-sebastian-guerrero.html?utm_source=lootura.com) — 2026-07-15T00:31:20.000Z
+- [An ICE Shooting in Maine Puts Pressure on Senator Susan Collins](https://www.nytimes.com/2026/07/14/us/politics/ice-shooting-maine-susan-collins.html?utm_source=lootura.com) — 2026-07-15T03:12:35.000Z

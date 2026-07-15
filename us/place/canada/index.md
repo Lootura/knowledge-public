@@ -3,10 +3,16 @@
 > Follow Canada, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-14T13:30:27.465Z
+- Updated: 2026-07-15T10:00:29.427Z
 - Canonical: https://atlas.lootura.com/us/place/canada
 
 ## Recent changes
+
+### Wildfires expose millions in the Midwest and Northeast US to dangerous smoke
+
+Heavy smoke from several large wildfires blazing in Canada and Minnesota is expected to engulf large swaths of the Midwest and Northeast U.S. this week, exposing millions of people to dangerous air pollution.
+
+Date: 2026-07-15
 
 ### Toronto police looking for suspects after deadly shooting at festival
 
@@ -62,12 +68,6 @@ What does it mean to be patriotic? It depends on a country's politics. Pride in 
 
 Date: 2026-07-11
 
-### After Being Delayed by Trump, a Canada-U.S. Bridge is Set to Open
-
-A deal ended the Trump administration’s blocking of a new bridge that will ease congestion at the busiest trade corridor between the United States and Canada.
-
-Date: 2026-07-11
-
 ## Sources
 
-No public source links.
+- [Wildfires expose millions in the Midwest and Northeast US to dangerous smoke](https://phys.org/news/2026-07-wildfires-expose-millions-midwest-northeast.html?utm_source=lootura.com) — 2026-07-15T08:40:21.000Z

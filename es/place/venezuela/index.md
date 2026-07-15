@@ -3,10 +3,16 @@
 > Sigue la actividad de Venezuela en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-15T06:12:14.832Z
+- Actualizado: 2026-07-15T10:00:08.251Z
 - Canonical: https://atlas.lootura.com/es/place/venezuela
 
 ## Cambios recientes
+
+### El chavismo y parte de la oposición abrirán una vía de diálogo el 1 de agosto: María Corina Machado aún evalúa su participación
+
+El chavismo y un grupo de exdiputados opositores han abierto una vía de diálogo que comenzará el próximo 1 de agosto para promover la democracia en Venezuela, mientras los líderes opositores María Corina Machado y Edmundo González Urrutia comunicaron que evaluarán este miércoles su postura frente a este planteamiento,.
+
+Date: 2026-07-15
 
 ### Trump estrecha el cerco sobre Cuba con sanciones, bloqueo y amenaza militar
 
@@ -62,12 +68,6 @@ Los melancólicos de viejas dictaduras dicen que en tiempos pasados se vivía me
 
 Date: 2026-07-13
 
-### Los muertos en Venezuela a causa del doble terremoto ya son casi 4.500
-
-Las autoridades venezolanas han elevado a casi 4.500 las víctimas mortales derivadas de los devastadores terremotos registrados en el centro de la costa.
-
-Date: 2026-07-12
-
 ## Fuentes
 
-- [Trump estrecha el cerco sobre Cuba con sanciones, bloqueo y amenaza militar](https://www.abc.es/internacional/trump-estrecha-cerco-sobre-cuba-sanciones-bloqueo-20260713023226-nt.html?utm_source=lootura.com) — 2026-07-15T05:44:23.000Z
+- [El chavismo y parte de la oposición abrirán una vía de diálogo el 1 de agosto: María Corina Machado aún evalúa su participación](https://www.larazon.es/internacional/chavismo-parte-oposicion-abriran-via-dialogo-1-agosto-maria-corina-machado-aun-evalua-participacion_202607156a57565a0500ab412c963bde.html?utm_source=lootura.com) — 2026-07-15T09:49:00.000Z

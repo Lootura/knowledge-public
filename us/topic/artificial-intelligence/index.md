@@ -3,7 +3,7 @@
 > Follow Artificial intelligence, a tracked topic, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: topic
-- Updated: 2026-07-15T06:12:31.661Z
+- Updated: 2026-07-15T10:00:29.427Z
 - Canonical: https://atlas.lootura.com/us/topic/artificial-intelligence
 
 ## Recent changes
@@ -11,6 +11,30 @@
 ### Does AI work for us, or do we work for AI?
 
 Science, Volume 393, Issue 6807 , Page 152-152, July 2026.
+
+Date: 2026-07-15
+
+### 26 Meta workers sue over alleged AI-aided layoffs targeting employees on medical or family leave
+
+A group of 26 Meta employees has sued the company, claiming it used AI to choose people for layoffs, disproportionately targeting those on medical, parental or family leave.
+
+Date: 2026-07-15
+
+### Product availability changed in Europe
+
+AI is a fast-growing business expense. Some companies are cutting costs by switching to cheaper Chinese AI models. (Image credit: Imen Ben Youssef/Hans Lucas).
+
+Date: 2026-07-15
+
+### Google's AI search features pose 'unacceptable risk' to children, new report finds
+
+Common Sense Media found that across more than 2,600 test interactions, Google's two built-in AI search functions routinely failed to recognize risky and harmful behavior.
+
+Date: 2026-07-15
+
+### Generative AI's power sparks fears of dumbing humans down
+
+Generative AI chatbots capable of writing emails and computer code, translating, organizing a trip or coming up with gift ideas are now readily available, prompting some to ask whether human brainpower could suffer for lack of use.
 
 Date: 2026-07-15
 
@@ -44,32 +68,12 @@ Summary Researcher Dave Kuszmar discovered multiple systemic vulnerabilities tha
 
 Date: 2026-07-14
 
-### Spotify is now an AI chatbot, too
-
-This is what the “Talk to Spotify” chatbox (left) looks like on the homepage. | Image: Spotify Spotify is experimenting with a new AI feature that allows Premium subscribers to play and explore music, audiobooks, and podcasts by having conversations with a chatbot. The " Talk to Spotify " feature appears across the Hom.
-
-Date: 2026-07-14
-
-### AI companies are creating "generative ghosts" of deceased loved ones
-
-Startups are using emails, photos and voice recordings to create AI simulations that family and friends can interact with after a loved one's death.
-
-Date: 2026-07-13
-
-### Does AI work for us, or do we work for AI?
-
-Science, Volume 393, Issue 6807 , Page 152-152, July 2026.
-
-Date: 2026-07-13
-
-### Developer ecosystem expanded
-
-Siri has been on the Apple Watch since day one, though I'm usually hard-pressed to find people who actually make good use of it. It's kind of just… been there - mostly as a way to set timers when my hands are full. But after playing around with the watchOS 27 developer beta, I get the sense that'll start to change. Not.
-
-Date: 2026-07-13
-
 ## Sources
 
 - [Anthropic launches "Claude for Teachers," giving educators a year of free access to AI tools](https://www.cbsnews.com/video/anthropic-launches-claude-for-teachers/?utm_source=lootura.com) — 2026-07-15T02:17:48.000Z
+- [26 Meta workers sue over alleged AI-aided layoffs targeting employees on medical or family leave](https://www.cbsnews.com/news/26-meta-workers-sue-ai-aided-layoffs-medical-family-leave/?utm_source=lootura.com) — 2026-07-15T09:45:00.000Z
 - [How do young people feel about AI? 7 teens weigh in](https://www.npr.org/2026/07/14/nx-s1-5863025/teens-artificial-intelligence-ai-school?utm_source=lootura.com) — 2026-07-14T20:00:00.000Z
-- [Does AI work for us, or do we work for AI?](https://www.science.org/doi/abs/10.1126/science.aei9754?af=R&utm_source=lootura.com) — 2026-07-15T06:12:36.151Z
+- [American AI is expensive. Some startups are turning to cheap Chinese models](https://www.npr.org/2026/07/15/nx-s1-5886476/startups-cheap-chinese-ai-models?utm_source=lootura.com) — 2026-07-15T09:00:00.000Z
+- [Google's AI search features pose 'unacceptable risk' to children, new report finds](https://www.pbs.org/newshour/nation/googles-ai-search-features-pose-unacceptable-risk-to-children-new-report-finds?utm_source=lootura.com) — 2026-07-15T09:00:00.000Z
+- [Generative AI's power sparks fears of dumbing humans down](https://phys.org/news/2026-07-generative-ai-power-dumbing-humans.html?utm_source=lootura.com) — 2026-07-15T09:00:08.000Z
+- [Does AI work for us, or do we work for AI?](https://www.science.org/doi/abs/10.1126/science.aei9754?af=R&utm_source=lootura.com) — 2026-07-15T10:00:34.378Z

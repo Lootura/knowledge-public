@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/maine/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/maine/index.json",
   "description": "Follow Maine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-15T06:12:31.661Z",
+  "updatedAt": "2026-07-15T10:00:29.427Z",
   "aliases": [],
   "changes": [
     {
@@ -27,14 +27,19 @@
       "date": "2026-07-15"
     },
     {
+      "title": "Maine Democrats grapple with who is best to take over Graham Platner’s movement",
+      "summary": "Democrats want to hold onto Graham Platner’s progressive base — but they can’t agree on who is best positioned to carry the torch. That indecision is creating a fractured field heading into an unpredictable late July nominating convention for one of the most important Senate races on the 2026 map. Now, various ca.",
+      "date": "2026-07-15"
+    },
+    {
       "title": "An ICE Shooting in Maine Puts Pressure on Senator Susan Collins",
       "summary": "The Democrats hoping to challenge Ms. Collins, a vulnerable Republican, have seized on the fatal incident, drawing attention to her record on immigration matters.",
       "date": "2026-07-15"
     },
     {
-      "title": "Family of a man shot by agents responding to a 911 call seeks answers",
-      "summary": "A troubling pattern of federal agents fatally shooting civilians is developing, with deaths in Maine, Texas and Tennessee. The family of a man shot by agents told NPR they want answers.",
-      "date": "2026-07-14"
+      "title": "An ICE Shooting in Maine Puts Pressure on Senator Susan Collins",
+      "summary": "The Democrats hoping to challenge Ms. Collins, a vulnerable Republican, have seized on the fatal incident, drawing attention to her record on immigration matters.",
+      "date": "2026-07-15"
     },
     {
       "title": "In the aftermath of deadly shootings, ICE pauses most traffic stops",
@@ -55,18 +60,13 @@
       "title": "Maine Sen. King says feds lack credibility, locals need role in ICE shooting investigation",
       "summary": "A 26-year-old Colombian national was shot and killed in Maine after ICE agents attempted to pull him over while he was driving. ICE said Joan Sebastian Guerrero tried to flee and used his vehicle as a weapon, prompting an agent to fire in self-defense. It comes after a man in Houston was killed by ICE while behind the.",
       "date": "2026-07-14"
-    },
-    {
-      "title": "Maine Democrats will square off in first Senate debate since Platner's withdrawal",
-      "summary": "The first debate on Thursday in Maine's flash Democratic primary may feature a crowded stage. Eight candidates to replace Graham Platner on the ballot have been invited to the debate in Portland, the organizer said Tuesday. News Center Maine, which is sponsoring the event, had initially invited three people who ran for.",
-      "date": "2026-07-14"
     }
   ],
   "sources": [
     {
-      "title": "Man fatally shot by ICE in Maine was not intended target of warrant, lawmakers say",
-      "url": "https://www.cbsnews.com/news/maine-shooting-ice-biddeford/?utm_source=lootura.com",
-      "publishedAt": "2026-07-14T19:59:27.000Z",
+      "title": "Security video captures moments after man was fatally shot by ICE in Maine",
+      "url": "https://www.cbsnews.com/news/security-video-man-fatally-shot-ice-maine-johan-sebastian-duran-guerrero/?utm_source=lootura.com",
+      "publishedAt": "2026-07-15T01:30:44.000Z",
       "sourceId": "lootura-us-cbs-news"
     },
     {
@@ -80,12 +80,6 @@
       "url": "https://www.cbsnews.com/video/after-ice-fatally-shot-multiple-people-officials-speak-out/?utm_source=lootura.com",
       "publishedAt": "2026-07-15T02:35:00.000Z",
       "sourceId": "lootura-us-cbs-news"
-    },
-    {
-      "title": "Family of a man shot by agents responding to a 911 call seeks answers",
-      "url": "https://www.npr.org/2026/07/14/nx-s1-5891873/family-of-a-man-shot-by-agents-responding-to-a-911-call-seeks-answers?utm_source=lootura.com",
-      "publishedAt": "2026-07-14T11:26:15.000Z",
-      "sourceId": "lootura-us-npr"
     },
     {
       "title": "In the aftermath of deadly shootings, ICE pauses most traffic stops",
@@ -106,9 +100,9 @@
       "sourceId": "lootura-us-pbs-newshour"
     },
     {
-      "title": "Maine Democrats will square off in first Senate debate since Platner's withdrawal",
-      "url": "https://www.politico.com/news/2026/07/14/maine-democrats-senate-debate-platner-00997107?utm_source=lootura.com",
-      "publishedAt": "2026-07-14T18:34:24.000Z",
+      "title": "Maine Democrats grapple with who is best to take over Graham Platner’s movement",
+      "url": "https://www.politico.com/news/2026/07/15/maine-democrats-fractures-platner-replacement-00997729?utm_source=lootura.com",
+      "publishedAt": "2026-07-15T09:55:00.000Z",
       "sourceId": "lootura-us-politico"
     },
     {
@@ -122,7 +116,13 @@
       "url": "https://www.nytimes.com/2026/07/14/us/maine-ice-shooting-video-joan-sebastian-guerrero.html?utm_source=lootura.com",
       "publishedAt": "2026-07-15T00:31:20.000Z",
       "sourceId": "lootura-us-the-new-york-times"
+    },
+    {
+      "title": "An ICE Shooting in Maine Puts Pressure on Senator Susan Collins",
+      "url": "https://www.nytimes.com/2026/07/14/us/politics/ice-shooting-maine-susan-collins.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-15T03:12:35.000Z",
+      "sourceId": "lootura-us-the-new-york-times"
     }
   ],
-  "evidenceCount": 12
+  "evidenceCount": 11
 }

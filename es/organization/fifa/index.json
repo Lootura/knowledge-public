@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/fifa/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/fifa/index.json",
   "description": "Sigue la actividad de FIFA en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-15T06:12:14.832Z",
+  "updatedAt": "2026-07-15T10:00:08.251Z",
   "aliases": [],
   "changes": [
     {
@@ -24,10 +24,10 @@
   ],
   "sources": [
     {
-      "title": "Didier Deschamps raja del arbitraje: «¿Tiene la calidad suficiente para arbitrar una semifinal?»",
-      "url": "https://theobjective.com/deportes/futbol/mundial/2026-07-15/deschamps-arbitraje-semifinal-espana/?utm_source=lootura.com",
-      "publishedAt": "2026-07-15T05:20:49.000Z",
-      "sourceId": "lootura-es-the-objective"
+      "title": "Quién es Emilia Ferrero, pareja de Julián Álvarez: su edad, de dónde es y cuál es su profesión",
+      "url": "https://okdiario.com/happyfm/quien-emilia-ferrero-pareja-julian-alvarez-edad-donde-cual-profesion-18998903?utm_source=lootura.com",
+      "publishedAt": "2026-07-15T09:33:06.000Z",
+      "sourceId": "lootura-es-ok-diario"
     }
   ],
   "evidenceCount": 0

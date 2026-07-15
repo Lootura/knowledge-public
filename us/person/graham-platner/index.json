@@ -8,11 +8,16 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/graham-platner/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/graham-platner/index.json",
   "description": "Follow Graham Platner, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-15T06:12:31.661Z",
+  "updatedAt": "2026-07-15T10:00:29.427Z",
   "aliases": [
     "Platner"
   ],
   "changes": [
+    {
+      "title": "Maine Democrats grapple with who is best to take over Graham Platner’s movement",
+      "summary": "Maine Democrats want to hold onto Graham Platner’s progressive base — but they can’t agree on who is best positioned to carry the torch. That indecision is creating a fractured field heading into an unpredictable late July nominating convention for one of the most important Senate races on the 2026 map. Now, various ca.",
+      "date": "2026-07-15"
+    },
     {
       "title": "Maine Democrats will square off in first Senate debate since Platner's withdrawal",
       "summary": "The first debate on Thursday in Maine's flash Democratic primary may feature a crowded stage. Eight candidates to replace Graham Platner on the ballot have been invited to the debate in Portland, the organizer said Tuesday. News Center Maine, which is sponsoring the event, had initially invited three people who ran for.",
@@ -57,18 +62,13 @@
       "title": "Maine Democrats to Chuck Schumer: Stay Out of Our Senate Race",
       "summary": "Local Democrats are warning the top Senate Democrat to keep away as they replace Graham Platner, and the candidates are giving his leadership in Washington low marks.",
       "date": "2026-07-13"
-    },
-    {
-      "title": "US congressman says ‘IDF is lying’ about his detention by settlers and soldiers",
-      "summary": "Israeli ambassador to US accuses Ro Khanna of political stunt to distract from support for Graham Platner Ro Khanna accused the Israeli government and military of “lying” on Sunday about the US congressman’s detention by armed settlers and Israeli soldiers during a recent visit to the Israeli-occupied West Bank. Khanna.",
-      "date": "2026-07-12"
     }
   ],
   "sources": [
     {
-      "title": "Maine Democrats will square off in first Senate debate since Platner's withdrawal",
-      "url": "https://www.politico.com/news/2026/07/14/maine-democrats-senate-debate-platner-00997107?utm_source=lootura.com",
-      "publishedAt": "2026-07-14T18:34:24.000Z",
+      "title": "Maine Democrats grapple with who is best to take over Graham Platner’s movement",
+      "url": "https://www.politico.com/news/2026/07/15/maine-democrats-fractures-platner-replacement-00997729?utm_source=lootura.com",
+      "publishedAt": "2026-07-15T09:55:00.000Z",
       "sourceId": "lootura-us-politico"
     }
   ],

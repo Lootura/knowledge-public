@@ -3,7 +3,7 @@
 > Sigue la actividad de España en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-15T06:12:14.832Z
+- Actualizado: 2026-07-15T10:00:08.251Z
 - Canonical: https://atlas.lootura.com/es/place/espana
 
 ## Cambios recientes
@@ -14,69 +14,69 @@ En España se rinde tributo a las víctimas de la pandemia de COVID-19 y se reco
 
 Date: 2026-07-15
 
-### Análisis visual de un partido en el que España se convirtió en invencible
-
-Código Desktop .v-scr{width:100%!important;max-width:960px!important;margin:1.1rem auto!important;}.v-a--d-s-1 .v-a-p-t{color:#0e3a6f!important;}.v-a--d-s-1{height:auto!important;min-height:unset!important;}.v-a--d-s-1 .v-a-img-c:after{height:0px!important;}.v-a--d-s-1 .v-a-t{color:#202020;}.v-a--d-s-1 .v-a-img-c{paddi.
-
-Date: 2026-07-15
-
-### Salva, electricista: «En España ganaba 1.600 euros y en Alemania unos 3.000, dependiendo de las horas que trabajara»
-
-lleva años entre los países de Europa donde los salarios han evolucionado peor.
-
-Date: 2026-07-15
-
-### España reordena el mapa de frecuencias para el nuevo sistema ferroviario europeo y el 5G privado
-
-El Ministerio para la Transformación Digital publicará esta semana una Orden Ministerial que modifica de forma estructural el Cuadro Nacional de Atribución de Frecuencias (CNAF). Esta reforma legal reasigna bandas críticas de frecuencia para desplegar el nuevo sistema europeo de comunicaciones móviles ferroviarias y mu.
-
-Date: 2026-07-15
-
-### Los valencianos que construyen el relato de las grandes marcas de consumo de España
-
-En un momento de alta competencia por captar la atención de los consumidores cada vez más expuestos a estímulos, la comunicación basada en el servicio y los contenidos útiles y divulgativos se ha convertido en una disciplina que va más allá del marketing tradicional . En estas tareas hoy intervienen realizadores, fotóg.
-
-Date: 2026-07-15
-
-### Alfonso Bullón de Mendoza: "El Ministerio de Educación está empeñado en que todas las universidades seamos iguales"
-
-El sector educativo concertado y privado en España vigila con lupa un escenario político y legislativo en ebullición. El avance normativo de la LOMLOE , la llamada 'Ley Celaá' ; y, de forma más inmediata, el debate en torno al proyecto de ley para la reducción de las ratios máximas por aula ha puesto en preaviso a los.
-
-Date: 2026-07-15
-
 ### La Primera de Expansión sobre ACS, Ferrovial, Mubadala, Burger King, UBS y Buffett
 
 La Primera de Expansión les cuenta hoy que Madrid se convertirá en los próximos meses en un gran polo de atracción de la obra pública en España. Grandes empresas como ACS y Sacyr se preparan para ello.
 
 Date: 2026-07-15
 
-### Así es el AstraUX AL6, el microcoche eléctrico que aterriza en España desde 10.000 euros
+### Muere el histórico boxeador español José Legrá a los 83 años
 
-El AstraUX AL6 no es una moto ni un coche de los de carné B: es un microcoche eléctrico de cuatro plazas que se ha colado en el peldaño que el patinete deja libre cuando llueve, cuando vas con alguien o cuando toca cargar la compra. Marcas chinas como esta llevan meses desembarcando en España a través de AliExpress, ju.
-
-Date: 2026-07-15
-
-### El pueblo de la Sierra de Madrid donde mejor se verá el eclipse solar el 12 de agosto: quedará a totalmente a oscuras durante 1 minuto y 29 segundos
-
-El 12 de agosto no va a ser un día cualquiera ya que todos sabemos que ese día va a tener lugar un eclipse total de Sol que se podrá ver desde buena parte de España , algo que no sucede en estas condiciones desde hace décadas. Durante poco más de un minuto, la luz desaparecerá casi por completo en algunos puntos y el a.
+El histórico boxeador español José Legrá ha fallecido este jueves a los 83 años en el Hospital Gómez Ulla de Madrid por una grave enfermedad que le fue diagnosticada recientemente. Apodado como 'El Puma de Baracoa', el púgil de origen cubano llegó a España en 1963 y aquí se convirtió en una leyenda de este deporte. Fue.
 
 Date: 2026-07-15
 
-### Media España en alerta por calor extremo hoy: la AEMET activa el nivel máximo de aviso por temperaturas nunca vistas
+### El exjefe de ETA Josu Ternera recurre su absolución en Francia y retrasa su entrega a España
 
-La AEMET activa el nivel máximo de aviso por temperaturas nunca vistas , media España en alerta por calor extremo hoy. Será mejor que nos empecemos a preparar para una serie de cambios que llegan a toda velocidad. A medida que nos acercamos a un giro radical que puede ser clave y que quizás hasta ahora no habíamos vist.
+La entrega a España del histórico dirigente de la banda terrorista ETA Josu Ternera tendrá que esperar. La defensa de José Antonio Urrutikoetxea (nombre real del exmiembro de ETA) ha recurrido este miércoles la sentencia del Tribunal de Apelación de París que hace tan solo dos semanas le declaró inocente de la última c.
+
+Date: 2026-07-15
+
+### La Seguridad Social revisará los «tiempos óptimos» de las bajas para frenar su crecimiento
+
+El desbordamiento de casos de incapacidad temporal que afronta España en los últimos años ha llevado al Ministerio de Seguridad Social a estudiar medidas que mitiguen esta coyuntura con una revisión de los «tiempos óptimos» que pueden durar las bajas en función de la patología que se trate. El departamento dirigido por.
+
+Date: 2026-07-15
+
+### Vodafone España aumenta un 2% sus ingresos en su primer trimestre fiscal
+
+Vodafone España registró un incremento del 2% en los ingresos durante el primer trimestre de su año fiscal 2027 (cerrado el 30 de junio), alcanzando los 916 millones de euros en comparación con los 895 millones de euros registrados en el mismo periodo del año anterior. Este resultado representa el tercer trimestre cons.
+
+Date: 2026-07-15
+
+### La jugada total de España que sintetiza todas sus virtudes, fotograma a fotograma
+
+anuló al mejor ataque del torneo. Francia había marcado 2,6 goles por partido, pero anoche su juego no mereció ni medio gol. España se impuso con sus virtudes: presión, agresividad, esfuerzo coral, juego fluido y confianza. Lo analizamos con la secuencia que acaba en el segundo gol español. Seguir leyendo.
+
+Date: 2026-07-15
+
+### Francia - España, cable rojo y cable azul
+
+Hay muchas cosas que decir. Si quisiera soltarlas todas de golpe, sueltas y sin filtro, el texto saldría acelerado. A mordiscos. Sería como perseguir ideas, sombras que se escapan. Y cuando no las pudiera atrapar, me frustraría y golpearía rabiosa el teclado. A lo Francia. Puede que sea mejor si, sobre un guión, voy av.
+
+Date: 2026-07-15
+
+### Disney+ lanza una oferta muy jugosa por tiempo limitado: te da un mes «gratis» para disfrutar de todos sus estrenos
+
+Disney+ celebra la llegada de nuevos estrenos veraniegos como Camp Rock 3 , El diablo viste de Prada 2 o Campeones: Oliver y Benji , con una oferta imperdible que no puedes dejar pasar si buscabas ahorrar con tu suscripción. Si vives en España, ahora puedes darte de alta en Disney+ durante tres meses al precio de dos.
+
+Date: 2026-07-15
+
+### Análisis visual de un partido en el que España se convirtió en invencible
+
+Código Desktop .v-scr{width:100%!important;max-width:960px!important;margin:1.1rem auto!important;}.v-a--d-s-1 .v-a-p-t{color:#0e3a6f!important;}.v-a--d-s-1{height:auto!important;min-height:unset!important;}.v-a--d-s-1 .v-a-img-c:after{height:0px!important;}.v-a--d-s-1 .v-a-t{color:#202020;}.v-a--d-s-1 .v-a-img-c{paddi.
 
 Date: 2026-07-15
 
 ## Fuentes
 
-- [Sale a la luz la llamada personal del rey Felipe VI a Luis de la Fuente: "Que se preocupe..."](https://www.20minutos.es/gente/sale-luz-llamada-personal-rey-felipe-vi-luis-fuente-que-se-preocupe_7014718_0.html?utm_source=lootura.com) — 2026-07-15T05:33:51.000Z
-- [Análisis visual de un partido en el que España se convirtió en invencible](https://www.abc.es/deportes/futbol/mundial/espana-juega-quiere-graficos-explican-imponente-victoria-20260715074738-nt.html?utm_source=lootura.com) — 2026-07-15T05:56:12.000Z
-- [Salva, electricista: «En España ganaba 1.600 euros y en Alemania unos 3.000, dependiendo de las horas que trabajara»](https://www.abc.es/recreo/salva-electricista-espana-ganaba-1600-euros-alemania-20260715073000-nt_amp.html?utm_source=lootura.com) — 2026-07-15T05:30:05.000Z
-- [España reordena el mapa de frecuencias para el nuevo sistema ferroviario europeo y el 5G privado](https://cincodias.elpais.com/companias/2026-07-15/espana-reordena-el-mapa-de-frecuencias-para-el-nuevo-sistema-ferroviario-europeo-y-el-5g-privado.html?utm_source=lootura.com) — 2026-07-15T03:15:00.000Z
-- [Los valencianos que construyen el relato de las grandes marcas de consumo de España](https://www.elconfidencial.com/espana/comunidad-valenciana/2026-07-15/elca-agencia-comunicacion-mercadona-bra_4363276/?utm_source=lootura.com) — 2026-07-15T03:00:00.000Z
-- [Alfonso Bullón de Mendoza: "El Ministerio de Educación está empeñado en que todas las universidades seamos iguales"](https://www.elconfidencial.com/espana/2026-07-15/entrevista-alfonso-bullon-de-mendoza_4389677/?utm_source=lootura.com) — 2026-07-15T03:00:00.000Z
-- ['Josu Ternera' retrasa su entrega a España al recurrir su propia absolución en Francia](https://www.elcorreo.com/politica/josu-ternera-retrasa-entrega-espana-recurrir-propia-20260714112823-nt_amp.html?utm_source=lootura.com) — 2026-07-14T09:28:24.000Z
+- [A qué hora es el partido Inglaterra - Argentina: horario y dónde ver hoy las semifinales del Mundial 2026](https://www.20minutos.es/deportes/futbol/hora-partido-inglaterra-argentina-horario-donde-ver-hoy-las-semifinales-mundial-2026_7014810_0.html?utm_source=lootura.com) — 2026-07-15T09:02:47.000Z
+- [Muere el histórico boxeador español José Legrá a los 83 años](https://www.abc.es/deportes/muere-historico-boxeador-espanol-jose-legra-anos-20260715105459-nt.html?utm_source=lootura.com) — 2026-07-15T09:10:47.000Z
+- [El exjefe de ETA Josu Ternera recurre su absolución en Francia y retrasa su entrega a España](https://www.abc.es/espana/exjefe-eta-josu-ternera-recurre-absolucion-francia-20260715105108-nt.html?utm_source=lootura.com) — 2026-07-15T08:54:33.000Z
+- [La Seguridad Social revisará los «tiempos óptimos» de las bajas para frenar su crecimiento](https://www.abc.es/economia/cuentas-corrientes/seguridad-social-prepara-revision-tiempos-optimos-bajas-20260715023329-nt.html?utm_source=lootura.com) — 2026-07-15T08:53:48.000Z
+- [Vodafone España aumenta un 2% sus ingresos en su primer trimestre fiscal](https://cincodias.elpais.com/companias/2026-07-15/vodafone-espana-aumenta-un-2-sus-ingresos-en-su-primer-trimestre-fiscal.html?utm_source=lootura.com) — 2026-07-15T07:02:39.000Z
 - [Una España contra los miedos de todo un país: son los mejores y lo saben](https://www.elmundo.es/deportes/futbol/mundial-de-futbol/2026/07/14/6a56a09efc6c8356718b458c.html?utm_source=lootura.com) — 2026-07-14T20:59:07.000Z
+- [La jugada total de España que sintetiza todas sus virtudes, fotograma a fotograma](https://elpais.com/deportes/mundial-futbol/2026-07-15/la-jugada-total-de-espana-que-sintetiza-todas-sus-virtudes-fotograma-a-fotograma.html?utm_source=lootura.com) — 2026-07-15T09:39:22.000Z
+- [Francia - España, cable rojo y cable azul](https://elpais.com/deportes/mundial-futbol/2026-07-15/francia-espana-cable-rojo-y-cable-azul.html?utm_source=lootura.com) — 2026-07-15T09:30:50.000Z
 - [Para las grandes citas, Mikel Oyarzabal](https://elpais.com/deportes/mundial-futbol/2026-07-14/para-las-grandes-citas-mikel-oyarzabal.html?utm_source=lootura.com) — 2026-07-14T22:19:38.000Z
-- [ACS, Acciona, Ferrovial y Sacyr se lanzan a por obras de 5.000 millones en Madrid](https://www.expansion.com/empresas/inmobiliario/2026/07/15/6a56a126468aeb676e8b4596.html?utm_source=lootura.com) — 2026-07-14T22:01:22.000Z
+- [La Primera de Expansión sobre ACS, Ferrovial, Mubadala, Burger King, UBS y Buffett](https://www.expansion.com/podcasts/la-primera-de-expansion/2026/07/15/6a571462e5fdeac7688b459f.html?utm_source=lootura.com) — 2026-07-15T05:28:47.000Z

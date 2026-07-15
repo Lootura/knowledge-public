@@ -3,7 +3,7 @@
 > Follow United States, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-15T06:12:31.661Z
+- Updated: 2026-07-15T10:00:29.427Z
 - Canonical: https://atlas.lootura.com/us/place/united-states
 
 ## Recent changes
@@ -26,45 +26,45 @@ U.S. Immigration and Customs Enforcement officials shot and killed two men in th
 
 Date: 2026-07-15
 
-### Trump Says U.S. Will ‘Take Over’ Strait of Hormuz, and How Russia Made Japan a Den of Spies
+### Morning news brief
 
-Plus, scientists find sugar in outer space.
+Acting Attorney General Todd Blanche to appear for confirmation hearing, U.S. restarts blockade against Iran amid standoff over the Strait of Hormuz, ICE suspends traffic stops after deadly shootings.
 
-Date: 2026-07-14
+Date: 2026-07-15
 
-### U.S. Workers Are More Productive Than Ever. A.I. Isn’t the Key.
+### CDC director nominee Erica Schwartz faces Senate for confirmation hearing
 
-Companies have been getting more out of employees for several years. Tight labor markets, digitization and remote work are among the reasons.
+Dr. Erica Schwartz, Trump's nominee for CDC director, faces the Senate health committee for her confirmation hearing on July 15. If confirmed, she will lead an agency dealing with workforce and leadership shortages, and new layers of political review. (Image credit: U.S. Department of Health and Human Services).
 
-Date: 2026-07-14
+Date: 2026-07-15
+
+### Wildfires expose millions in the Midwest and Northeast US to dangerous smoke
+
+Heavy smoke from several large wildfires blazing in Canada and Minnesota is expected to engulf large swaths of the Midwest and Northeast U.S. this week, exposing millions of people to dangerous air pollution.
+
+Date: 2026-07-15
+
+### For Israel, the U.S.-Iran Hostilities Have Created an Uneasy Limbo
+
+Officials see a return to full-blown war as preferable to an agreement that fails to curb the threats Iran poses to Israel. Meanwhile, they wait.
+
+Date: 2026-07-15
+
+### Funding milestone detected
+
+The parasite, which has sickened thousands across the U.S., is notoriously difficult to track. Funding cuts haven’t made the job easier.
+
+Date: 2026-07-15
+
+### Jay Clayton Expected to Face Tough Questions in Confirmation Hearing
+
+His nomination to lead the U.S. intelligence community comes as the White House pushes to use declassified intelligence to show concerns about election security.
+
+Date: 2026-07-15
 
 ### Some international artists are skipping U.S. tours. Others may follow suit
 
 The visa process for visiting artists has always been complicated and expensive. Under the current administration, it's gotten significantly worse.
-
-Date: 2026-07-14
-
-### In the aftermath of deadly shootings, ICE pauses most traffic stops
-
-U.S. Immigration and Customs Enforcement will pause non-urgent vehicle stops after two deadly shootings in less than a week, Maine U.S. Sen. Angus King's office tells NPR. (Image credit: Joseph Prezioso).
-
-Date: 2026-07-14
-
-### Trump Flip-Flops on Strait of Hormuz, Creating New Risks for Global Economy
-
-The president now wants Gulf nations to invest in the U.S. in exchange for safe passage. Shipping industry experts worry other nations will follow that lead.
-
-Date: 2026-07-14
-
-### Morning news brief
-
-Trump says the U.S. will collect tolls and impose blockade in the Strait of Hormuz, man killed by federal agents in Maine, states sue to stop Paramount-Warner Bros merger.
-
-Date: 2026-07-14
-
-### More than 50% of Australian university assignments used AI. How should universities respond?
-
-Last week, the U.S. software company Turnitin revealed 53.6% of Australian tertiary education submissions run through its system used some form of AI in the period from October 2025–April 2026. The company, whose plagiarism-detection technology is widely used in universities, also reported 10% of these submissions cont.
 
 Date: 2026-07-14
 
@@ -74,7 +74,9 @@ Date: 2026-07-14
 - [After ICE fatally shot multiple people, officials speak out: "We want them out"](https://www.cbsnews.com/video/after-ice-fatally-shot-multiple-people-officials-speak-out/?utm_source=lootura.com) — 2026-07-15T02:35:00.000Z
 - [Trump says he won't rule out sending ground troops to Iran](https://www.cbsnews.com/video/trump-says-he-wont-rule-out-sending-ground-troops-to-iran/?utm_source=lootura.com) — 2026-07-15T00:48:43.000Z
 - [Some international artists are skipping U.S. tours. Others may follow suit](https://www.npr.org/2026/07/14/nx-s1-5783845/visa-process-artists-us?utm_source=lootura.com) — 2026-07-14T14:46:11.000Z
+- [Morning news brief](https://www.npr.org/2026/07/15/nx-s1-5891559/morning-news-brief?utm_source=lootura.com) — 2026-07-15T08:50:19.000Z
+- [CDC director nominee Erica Schwartz faces Senate for confirmation hearing](https://www.npr.org/2026/07/15/nx-s1-5892482/cdc-director-erica-schwartz-senate-confirmation-hearing?utm_source=lootura.com) — 2026-07-15T09:00:00.000Z
 - [In the aftermath of deadly shootings, ICE pauses most traffic stops](https://www.npr.org/2026/07/14/nx-s1-5893456/ice-vehicle-biddeford-houston?utm_source=lootura.com) — 2026-07-14T19:54:53.000Z
+- [Wildfires expose millions in the Midwest and Northeast US to dangerous smoke](https://phys.org/news/2026-07-wildfires-expose-millions-midwest-northeast.html?utm_source=lootura.com) — 2026-07-15T08:40:21.000Z
 - [Trump Flip-Flops on Strait of Hormuz, Creating New Risks for Global Economy](https://www.nytimes.com/2026/07/14/business/trump-strait-of-hormuz.html?utm_source=lootura.com) — 2026-07-14T18:50:34.000Z
-- [Trump Says U.S. Will ‘Take Over’ Strait of Hormuz, and How Russia Made Japan a Den of Spies](https://www.nytimes.com/2026/07/14/podcasts/the-headlines/trump-strait-of-hormuz-russia-japan-ukraine-war-space-sugar.html?utm_source=lootura.com) — 2026-07-14T10:00:14.000Z
-- [U.S. Workers Are More Productive Than Ever. A.I. Isn’t the Key.](https://www.nytimes.com/2026/07/14/business/worker-productivity-artificial-intelligence-economy.html?utm_source=lootura.com) — 2026-07-14T12:25:43.000Z
+- [For Israel, the U.S.-Iran Hostilities Have Created an Uneasy Limbo](https://www.nytimes.com/2026/07/15/world/middleeast/for-israel-the-us-iran-hostilities-have-created-an-uneasy-limbo.html?utm_source=lootura.com) — 2026-07-15T09:03:46.000Z

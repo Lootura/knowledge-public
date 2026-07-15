@@ -70,5 +70,4 @@ Date: 2026-07-14
 
 ## Fuentes
 
-- [Trump estrecha el cerco sobre Cuba con sanciones, bloqueo y amenaza militar](https://www.abc.es/internacional/trump-estrecha-cerco-sobre-cuba-sanciones-bloqueo-20260713023226-nt.html?utm_source=lootura.com) — 2026-07-15T05:44:23.000Z
-- [Trump agita las elecciones de medio mandato con la supuesta aparición de pruebas de fraude electoral en 2020](https://www.elmundo.es/internacional/2026/07/14/6a562113fc6c83c1428b4581.html?utm_source=lootura.com) — 2026-07-14T20:42:28.000Z
+No public source links.

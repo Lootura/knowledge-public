@@ -70,5 +70,4 @@ Date: 2026-07-13
 
 ## Fuentes
 
-- [Trump estrecha el cerco sobre Cuba con sanciones, bloqueo y amenaza militar](https://www.abc.es/internacional/trump-estrecha-cerco-sobre-cuba-sanciones-bloqueo-20260713023226-nt.html?utm_source=lootura.com) — 2026-07-15T05:44:23.000Z
-- [Los fabricantes de drones derrotan en Bolsa a las grandes firmas de defensa tradicional](https://cincodias.elpais.com/mercados-financieros/2026-07-15/los-fabricantes-de-drones-derrotan-en-bolsa-a-las-grandes-firmas-de-defensa-tradicional.html?utm_source=lootura.com) — 2026-07-15T03:25:00.000Z
+No public source links.

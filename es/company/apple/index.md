@@ -3,10 +3,22 @@
 > Sigue la actividad de Apple en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: company
-- Actualizado: 2026-07-14T09:55:53.939Z
+- Actualizado: 2026-07-15T10:00:08.251Z
 - Canonical: https://atlas.lootura.com/es/company/apple
 
 ## Cambios recientes
+
+### LEGO y Apple podrían colaborar para lanzar uno de los sets más bonitos de la historia
+
+Si te gusta LEGO y la tecnología, a partir de hoy tienes un nuevo set favorito. La compañía de los bloques acaba de anunciar que uno de los sets publicados en su web de ideas ha pasado a la siguiente fase. Y, como bien puedes leer en el título, se trata de un set donde el protagonista es un producto de Apple . No un iP.
+
+Date: 2026-07-15
+
+### Anya Taylor Joy (‘Lucky’): «Me frustraba ver a hombres moralmente ambiguos y no a mujeres»
+
+La actriz Anya Taylor-Joy acaba de estrenar su nuevo gran proyecto, la serie Lucky . La argentina protagoniza un thriller con mucho drama y acción que puede verse en Apple TV . En ella, además, la intérprete es también productora. Y como guinda del pastel, comparte reparto con rostros de la talla de Timothy Olyphant ,.
+
+Date: 2026-07-15
 
 ### Apple añade al iPhone un nuevo mensaje de alerta que debes conocer para que no te roben ni te hackeen
 
@@ -56,18 +68,7 @@ Apple first entered the public knowledge record with source-backed evidence.
 
 Date: 2026-07-10
 
-### Apple demanda a OpenAI por robo de información confidencial
-
-ha presentado una demanda contra OpenAI y dos exempleados de la compañía ante un tribunal federal de Estados Unidos. Los de Cupertino acusan a la empresa de IA de robo de información confidencial sobre diseño de productos y procesos de fabricación. Según el documento legal, el objetivo de OpenAI habría sido acele.
-
-Date: 2026-07-10
-
-### Netflix planea renovar su plataforma con canales en directo y nuevas opciones de suscripción
-
-Hay un dicho que dice "renovarse o morir", y esto es algo que parece tener en cuenta Netflix para desmarcarse de la feroz competencia . El mercado de las plataformas de streaming se ha vuelto muy competitivo en los últimos años. Prime Video y Apple TV+, junto con la gran mayoría de sus competidores directos, no lo está.
-
-Date: 2026-07-10
-
 ## Fuentes
 
-No public source links.
+- [LEGO y Apple podrían colaborar para lanzar uno de los sets más bonitos de la historia](https://hipertextual.com/apple/lego-y-apple-podrian-colaborar-para-lanzar-uno-de-los-sets-mas-bonitos-de-la-historia/?utm_source=lootura.com) — 2026-07-15T08:12:19.000Z
+- [Anya Taylor Joy (‘Lucky’): «Me frustraba ver a hombres moralmente ambiguos y no a mujeres»](https://hipertextual.com/cine-television/anya-taylor-joy-lucky-me-frustraba-ver-a-hombres-moralmente-ambiguos-y-no-a-mujeres/?utm_source=lootura.com) — 2026-07-15T10:00:00.000Z

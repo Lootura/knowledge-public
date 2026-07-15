@@ -3,7 +3,7 @@
 > Sigue la actividad de FIFA en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-15T06:12:14.832Z
+- Actualizado: 2026-07-15T10:00:08.251Z
 - Canonical: https://atlas.lootura.com/es/organization/fifa
 
 ## Cambios recientes
@@ -22,4 +22,4 @@ Date: 2026-07-08
 
 ## Fuentes
 
-- [Didier Deschamps raja del arbitraje: «¿Tiene la calidad suficiente para arbitrar una semifinal?»](https://theobjective.com/deportes/futbol/mundial/2026-07-15/deschamps-arbitraje-semifinal-espana/?utm_source=lootura.com) — 2026-07-15T05:20:49.000Z
+- [Quién es Emilia Ferrero, pareja de Julián Álvarez: su edad, de dónde es y cuál es su profesión](https://okdiario.com/happyfm/quien-emilia-ferrero-pareja-julian-alvarez-edad-donde-cual-profesion-18998903?utm_source=lootura.com) — 2026-07-15T09:33:06.000Z
