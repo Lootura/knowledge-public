@@ -1,15 +1,15 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-15T02:16:03.508Z",
+  "generatedAt": "2026-07-15T04:27:52.133Z",
   "radar": {
     "id": "es",
     "slug": "es",
     "locale": "es"
   },
   "state": {
-    "signature": "1.15.1|13|1784081469495",
+    "signature": "1.15.1|14|1784081469495",
     "version": "1.15.1",
-    "build": 13,
+    "build": 14,
     "latestEntityUpdatedAt": "2026-07-15T02:11:09.495Z"
   },
   "atlas": {
@@ -21,7 +21,7 @@
       "url": "https://atlas.lootura.com/es/person/pedro-sanchez",
       "path": "/es/person/pedro-sanchez",
       "updatedAt": "2026-07-15T02:11:09.495Z",
-      "score": 1557,
+      "score": 1545,
       "sourceCount": 106,
       "isBreaking": false,
       "isPinned": false
@@ -35,7 +35,7 @@
         "url": "https://atlas.lootura.com/es/place/espana",
         "path": "/es/place/espana",
         "updatedAt": "2026-07-15T02:11:09.495Z",
-        "score": 1556,
+        "score": 1544,
         "sourceCount": 233,
         "isBreaking": false,
         "isPinned": false
@@ -48,7 +48,7 @@
         "url": "https://atlas.lootura.com/es/organization/mikel-oyarzabal",
         "path": "/es/organization/mikel-oyarzabal",
         "updatedAt": "2026-07-15T02:11:09.495Z",
-        "score": 1523,
+        "score": 1511,
         "sourceCount": 2,
         "isBreaking": false,
         "isPinned": false
@@ -61,7 +61,7 @@
         "url": "https://atlas.lootura.com/es/person/begona-gomez",
         "path": "/es/person/begona-gomez",
         "updatedAt": "2026-07-15T02:11:09.495Z",
-        "score": 1521,
+        "score": 1509,
         "sourceCount": 15,
         "isBreaking": false,
         "isPinned": false
@@ -74,7 +74,7 @@
         "url": "https://atlas.lootura.com/es/person/mariano-rajoy",
         "path": "/es/person/mariano-rajoy",
         "updatedAt": "2026-07-15T02:11:09.495Z",
-        "score": 1520,
+        "score": 1507,
         "sourceCount": 14,
         "isBreaking": false,
         "isPinned": false
