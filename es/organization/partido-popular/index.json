@@ -8,11 +8,21 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/partido-popular/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/partido-popular/index.json",
   "description": "Sigue la actividad de Partido Popular en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-15T20:57:56.208Z",
+  "updatedAt": "2026-07-16T02:23:49.655Z",
   "aliases": [
     "PP"
   ],
   "changes": [
+    {
+      "title": "La presión electoral calienta las listas del PP",
+      "summary": "Feijóo anticipa a sus cabeza de cartel municipales. Los necesita para tensar la batalla de las generales.",
+      "date": "2026-07-16"
+    },
+    {
+      "title": "El PP impulsa el vínculo con Latinoamérica en la UE para competir con China",
+      "summary": "La reunión de líderes europeos e hispanoamericanos de centroderecha en el Foro Libertas, ayer en Madrid, sirvió para que Alberto Núñez Feijóo les trasladase su vocación de...",
+      "date": "2026-07-15"
+    },
     {
       "title": "El CIS de Tezanos remonta al PSOE y le da una ventaja de casi ocho puntos sobre el PP en el mes de la condena a Ábalos",
       "summary": "Feijóo cae dos puntos en porcentaje de voto y Abascal también retrocede ligeramente Leer.",
@@ -52,30 +62,20 @@
       "title": "Ester Muñoz responde a Puente tras su polémico tuit insultando a Feijóo: \"No ha sido tajante, ha sido maleducado\"",
       "summary": "Ester Muñoz ha respondido con firmeza a Óscar Puente tras el tuit que publicó insultando a Alberto Núñez Feijóo por sus palabras sobre la condena al hermano del presidente del Gobierno, David Sánchez. En una intervención en Al Rojo Vivo , la portavoz del PP ha asegurado que el ministro de Transportes no fue tajante, si.",
       "date": "2026-07-15"
-    },
-    {
-      "title": "Vox fuerza a Llorca a quitar ayudas a Cruz Roja para pagar un estudio que asocia inmigración y delincuencia",
-      "summary": "Vox ha convertido el trámite de enmiendas al proyecto de ley de Presupuestos de la Generalitat para 2026 en la vía de entrada de sus propuestas políticas más controvertidas con el aval del Partido Popular de Juanfran Pérez Llorca, que necesita su voto para sacar adelante las cuentas autonómicas. El grupo parlamentario.",
-      "date": "2026-07-15"
-    },
-    {
-      "title": "El PP augura un calvario largo para Pedro Sánchez: \"Les queda lo peor\"",
-      "summary": "\"A partir de ahora, no hay semana en la que no haya que mirar a un juzgado\", destacan los 'populares' tras la codena al hermano del presidente del Gobierno Leer.",
-      "date": "2026-07-14"
     }
   ],
   "sources": [
     {
-      "title": "El CIS de Tezanos remonta al PSOE y le da una ventaja de casi ocho puntos sobre el PP en el mes de la condena a Ábalos",
-      "url": "https://www.elmundo.es/espana/2026/07/15/6a574fee21efa0e10d8b4582.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-15T10:40:39.000Z",
+      "title": "El PP impulsa el vínculo con Latinoamérica en la UE para competir con China",
+      "url": "https://amp.elmundo.es/espana/2026/07/15/6a57c369fc6c83c54b8b458d.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-15T20:46:18.000Z",
       "sourceId": "lootura-es-el-mundo"
     },
     {
-      "title": "Feijóo y Ayuso acusan a Sánchez de ser un “presidente autoritario” y un “autócrata sin escrúpulos”ante los líderes del PP europeo",
-      "url": "https://elpais.com/espana/2026-07-15/feijoo-acusa-a-sanchez-de-ser-un-presidente-autoritario-ante-los-lideres-del-pp-europeo.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-15T10:33:12.000Z",
-      "sourceId": "lootura-es-el-pais"
+      "title": "La presión electoral calienta las listas del PP",
+      "url": "https://www.larazon.es/espana/presion-electoral-calienta-listas_202607166a582f2ce9f2e84b5c6aa9ab.html?outputType=amp&utm_source=lootura.com",
+      "publishedAt": "2026-07-16T01:09:00.000Z",
+      "sourceId": "lootura-es-la-razon"
     }
   ],
   "evidenceCount": 2

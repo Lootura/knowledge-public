@@ -3,10 +3,22 @@
 > Sigue la actividad de Estados Unidos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-15T20:57:56.208Z
+- Actualizado: 2026-07-16T02:23:49.655Z
 - Canonical: https://atlas.lootura.com/es/place/united-states
 
 ## Cambios recientes
+
+### El Ibex cae un 0,4% mientras la incertidumbre sobre Ormuz mantiene en vilo a los mercados
+
+La ambigüedad y las contradicciones son dos de los principales enemigos de la inversión. Pocos líderes encarnan mejor ambas características que el presidente de Estados Unidos, Donald Trump. Apenas unas horas después de renunciar a imponer un peaje del 20% a los buques que atraviesan el estrecho de Ormuz, el republican.
+
+Date: 2026-07-15
+
+### BofA apuesta en banca española por Santander y CaixaBank
+
+Bank of America (BofA) ha dado un espaldarazo a la mayoría de los de los bancos españoles antes de la publicación de los resultados del segundo trimestre del año. Seguir leyendo.
+
+Date: 2026-07-15
 
 ### Estados Unidos acuñará una moneda de un dólar con la imagen de Trump
 
@@ -17,12 +29,6 @@ Date: 2026-07-15
 ### Un científico estadounidense lleva 18 meses detenido en China por investigar sus pruebas nucleares
 
 El Gobierno de Estados Unidos ha reclamado la liberación de un científico estadounidense detenido en China desde hace 18 meses. El sismólogo Chen Youlin llevaba más de dos años estudiando pruebas nucleares subterráneas en el país asiático cuando fue encarcelado el 5 de noviembre de 2024 acusado de espionaje. Desde ento.
-
-Date: 2026-07-15
-
-### El Ibex cae un 0,4% mientras la incertidumbre sobre Ormuz mantiene en vilo a los mercados
-
-La ambigüedad y las contradicciones son dos de los principales enemigos de la inversión. Pocos líderes encarnan mejor ambas características que el presidente de Estados Unidos, Donald Trump. Apenas unas horas después de renunciar a imponer un peaje del 20% a los buques que atraviesan el estrecho de Ormuz, el republican.
 
 Date: 2026-07-15
 
@@ -62,16 +68,7 @@ La cotización de BBVA se inclina por los descensos en una jornada en la que el 
 
 Date: 2026-07-15
 
-### EE.UU. quiere acabar con la noche: aprobados los satélites que convierten la noche en día reflejando la luz del sol
-
-La FCC de Estados Unidos acaba de aprobar el lanzamiento de nuevos satélites a nuestro cielo. Concretamente, los de Reflect Orbital , una compañía que cree en la posibilidad de iluminar la noche desde el espacio con diferentes objetivos . Las críticas no han tardado en llegar, aunque la comisión no las ha tenido en cue.
-
-Date: 2026-07-15
-
 ## Fuentes
 
-- [Un científico estadounidense lleva 18 meses detenido en China por investigar sus pruebas nucleares](https://www.abc.es/internacional/cientifico-estadounidense-permanece-detenido-china-investigar-pruebas-20260715212653-nt.html?utm_source=lootura.com) — 2026-07-15T19:26:53.000Z
 - [El Ibex cae un 0,4% mientras la incertidumbre sobre Ormuz mantiene en vilo a los mercados](https://cincodias.elpais.com/mercados-financieros/2026-07-15/la-bolsa-y-el-ibex-35.html?utm_source=lootura.com) — 2026-07-15T20:22:26.000Z
-- [Así es el Corsair, el primer dron naval kamikaze que EE. UU. ha usado en combate](https://www.larazon.es/tecnologia/asi-corsair-primer-dron-naval-kamikaze-que-usado-combate_202607156a57af6fe9f2e84b5c69f653.html?utm_source=lootura.com) — 2026-07-15T20:10:13.000Z
-- [Adiós a OnePlus: la marca de Oppo abandona Europa y Estados Unidos esta misma semana](https://www.larazon.es/tecnologia/adios-oneplus-marca-oppo-abandona-europa-estados-unidos-esta-misma-semana_202607156a57e0300500ab412c974985.html?utm_source=lootura.com) — 2026-07-15T19:50:13.000Z
-- [Estados Unidos acuñará una moneda de un dólar con la imagen de Trump](https://theobjective.com/internacional/2026-07-15/eeuu-moneda-dolar-trump/?utm_source=lootura.com) — 2026-07-15T16:00:10.000Z
+- [BofA apuesta en banca española por Santander y CaixaBank](https://www.expansion.com/mercados/2026/07/16/6a57f165468aeb5f238b458d.html?utm_source=lootura.com) — 2026-07-15T22:09:30.000Z

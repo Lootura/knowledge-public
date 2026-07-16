@@ -3,14 +3,38 @@
 > Follow Todd Blanche, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-07-15T20:58:15.661Z
+- Updated: 2026-07-16T02:24:09.281Z
 - Canonical: https://atlas.lootura.com/us/person/todd-blanche
 
 ## Recent changes
 
+### Todd Blanche, Trump’s Attorney General Pick, Faces Crucial Hurdle After Rocky Hearing
+
+Even a single Republican “no” vote would block Mr. Blanche’s nomination from consideration by the full Senate, which could sink his confirmation.
+
+Date: 2026-07-16
+
 ### Morning news brief
 
 Acting Attorney General Todd Blanche to appear for confirmation hearing, U.S. restarts blockade against Iran amid standoff over the Strait of Hormuz, ICE suspends traffic stops after deadly shootings.
+
+Date: 2026-07-15
+
+### Senators Grill Justice Dept. Officials on New York Times Subpoenas
+
+Democrats questioned the acting attorney general, Todd Blanche, and a U.S. attorney about subpoenas issued to Times journalists who reported on security concerns with the president’s new plane.
+
+Date: 2026-07-15
+
+### Takeaways from Todd Blanche's confirmation hearing for attorney general
+
+remained composed throughout the hours-long hearing, but faced several testy moments during questioning as he seeks to win the support of all Republican senators on the committee. (Image credit: Eric Lee).
+
+Date: 2026-07-15
+
+### What Blanche said about Trump, Epstein files during confirmation hearing for attorney general
+
+Acting Attorney General Todd Blanche tried to assert his independence from President Donald Trump during his confirmation hearing Wednesday before the Senate Judiciary Committee.
 
 Date: 2026-07-15
 
@@ -44,37 +68,10 @@ Acting Attorney General Todd Blanche will be on Capitol Hill Wednesday for his h
 
 Date: 2026-07-15
 
-### Senators Grill Justice Dept. Officials on New York Times Subpoenas
-
-Democrats questioned the acting attorney general, Todd Blanche, and a U.S. attorney about subpoenas issued to Times journalists who reported on security concerns with the president’s new plane.
-
-Date: 2026-07-15
-
-### Todd Blanche's confirmation brings one Epstein survivor to center stage
-
-Dani Bensky and a group of women who were abused by Jeffrey Epstein have formed a bond they call a "survivor sisterhood." They live in two worlds, of advocacy and everyday life and motherhood. (Image credit: Corrie Aune for NPR).
-
-Date: 2026-07-15
-
-### Blanche set to face harsh questioning at Senate confirmation hearing
-
-Acting Attorney General Todd Blanche will appear Wednesday before the Senate Judiciary Committee for his confirmation hearing to take over the role on a permanent basis.
-
-Date: 2026-07-14
-
-### Discovered by Atlas
-
-Todd Blanche first entered the public knowledge record with source-backed evidence.
-
-Date: 2026-07-12
-
 ## Sources
 
-- [Watch: Lawmaker presses Blanche on his role in alleged Epstein files mishandlings](https://www.cbsnews.com/video/watch-lawmaker-presses-blanche-on-his-role-in-epstein-files-mishandling-allegations/?utm_source=lootura.com) — 2026-07-15T16:06:00.000Z
-- [Sen. Whitehouse clashes with Todd Blanche over his relationship with Trump: "It takes 2 to collude"](https://www.cbsnews.com/video/sen-whitehouse-clashes-with-todd-blanche-over-his-relationship-with-trump-it-takes-2-to-collude/?utm_source=lootura.com) — 2026-07-15T16:51:25.000Z
-- [Watch: Todd Blanche refuses to commit to meeting with Epstein survivors, says DOJ staff will](https://www.cbsnews.com/video/watch-blanche-refuses-to-commit-to-meeting-with-epstein-survivors-says-doj-staff-will/?utm_source=lootura.com) — 2026-07-15T16:43:15.000Z
 - [Morning news brief](https://www.npr.org/2026/07/15/nx-s1-5891559/morning-news-brief?utm_source=lootura.com) — 2026-07-15T08:50:19.000Z
-- [Sen. Adam Schiff, D-Calif., on the confirmation hearing for AG nominee Todd Blanche](https://www.npr.org/2026/07/15/nx-s1-5893449/sen-adam-schiff-d-calif-on-the-confirmation-hearing-for-ag-nominee-todd-blanche?utm_source=lootura.com) — 2026-07-15T10:49:00.000Z
-- [Acting AG Todd Blanche faces high-stakes confirmation hearing](https://www.npr.org/2026/07/15/nx-s1-5891835/acting-ag-todd-blanche-faces-high-stakes-confirmation-hearing?utm_source=lootura.com) — 2026-07-15T10:49:09.000Z
+- [Takeaways from Todd Blanche's confirmation hearing for attorney general](https://www.npr.org/2026/07/15/nx-s1-5895105/todd-blanche-senate-confirmation-attorney-general-takeaways?utm_source=lootura.com) — 2026-07-15T21:09:09.000Z
+- [What Blanche said about Trump, Epstein files during confirmation hearing for attorney general](https://www.pbs.org/newshour/politics/what-blanche-said-about-trump-epstein-files-during-confirmation-hearing?utm_source=lootura.com) — 2026-07-15T23:34:19.000Z
+- [Todd Blanche, Trump’s Attorney General Pick, Faces Crucial Hurdle After Rocky Hearing](https://www.nytimes.com/2026/07/15/us/politics/todd-blanche-attorney-general-confirmation.html?utm_source=lootura.com) — 2026-07-16T00:49:30.000Z
 - [Senators Grill Justice Dept. Officials on New York Times Subpoenas](https://www.nytimes.com/2026/07/15/business/media/blanche-clayton-senate-nyt-subpoenas.html?utm_source=lootura.com) — 2026-07-15T19:59:04.000Z
-- [Todd Blanche Faces Crucial Hurdle Ahead of Confirmation as Attorney General](https://www.nytimes.com/2026/07/15/us/politics/todd-blanche-attorney-general-confirmation-doj.html?utm_source=lootura.com) — 2026-07-15T13:16:59.000Z

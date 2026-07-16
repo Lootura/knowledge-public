@@ -3,10 +3,16 @@
 > Sigue la actividad de China en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-15T20:57:56.208Z
+- Actualizado: 2026-07-16T02:23:49.655Z
 - Canonical: https://atlas.lootura.com/es/place/china
 
 ## Cambios recientes
+
+### El PP impulsa el vínculo con Latinoamérica en la UE para competir con China
+
+La reunión de líderes europeos e hispanoamericanos de centroderecha en el Foro Libertas, ayer en Madrid, sirvió para que Alberto Núñez Feijóo les trasladase su vocación de...
+
+Date: 2026-07-15
 
 ### El Ibex pierde los 19.300 puntos por las energéticas y los bancos
 
@@ -62,13 +68,6 @@ He estado la semana pasada en China y uno de mis objetivos era probar el servici
 
 Date: 2026-07-13
 
-### El 'boom' de los neumáticos 'made in China' en España pone en jaque a los grandes fabricantes europeos
-
-Muy lejos queda ya la etiqueta que se le puso a China con sus falsificaciones e imitaciones. El gigante asiático ha dado un auténtico salto adelante en los últimos tiempos con un gran avance en la tecnología que ha puesto patas arriba el mundo de la automoción. No solo porque sus coches acaparan cada vez más cuota de m.
-
-Date: 2026-07-13
-
 ## Fuentes
 
-- [Un científico estadounidense lleva 18 meses detenido en China por investigar sus pruebas nucleares](https://www.abc.es/internacional/cientifico-estadounidense-permanece-detenido-china-investigar-pruebas-20260715212653-nt.html?utm_source=lootura.com) — 2026-07-15T19:26:53.000Z
-- [El Ibex pierde los 19.300 puntos por las energéticas y los bancos](https://www.expansion.com/mercados/cronica-bolsa/2026/07/15/6a571f27e5fdea9c048b4584.html?utm_source=lootura.com) — 2026-07-15T16:15:25.000Z
+- [El PP impulsa el vínculo con Latinoamérica en la UE para competir con China](https://amp.elmundo.es/espana/2026/07/15/6a57c369fc6c83c54b8b458d.html?utm_source=lootura.com) — 2026-07-15T20:46:18.000Z

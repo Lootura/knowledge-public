@@ -8,9 +8,19 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/venezuela/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/venezuela/index.json",
   "description": "Sigue la actividad de Venezuela en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-15T17:14:56.110Z",
+  "updatedAt": "2026-07-16T02:23:49.655Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "El contraste tras la tragedia en Venezuela",
+      "summary": "La sucesora de Nicolás Maduro, Delcy Rodríguez, ha prometido soluciones habitacionales antes de concluir este año producto de los dos terremotos sufridos el pasado 24 de junio. Al mismo tiempo, eleva el tono del discurso, enfocándose más en sus enemigos políticos que en la atención de la crisis. Las preguntas de la pre.",
+      "date": "2026-07-16"
+    },
+    {
+      "title": "Sube a 4.829 la cifra de muertos por los terremotos de hace tres semanas en Venezuela",
+      "summary": "El balance de muertos por el doble terremoto de magnitud 7,2 y 7,5 ocurrido hace tres semanas en la zona norte de Venezuela ha ascendido este miércoles a.",
+      "date": "2026-07-15"
+    },
     {
       "title": "Machado defiende su regreso a Venezuela como fuerza «estabilizadora» y «pacificadora»",
       "summary": "La líder de la oposición y premio Nobel de la Paz, María Corina Machado , ha defendido este miércoles su regreso a Venezuela como una fuerza «estabilizadora» y «pacificadora», insistiendo en que solo una transición democrática llevará la estabilidad al país tras la caída de Nicolás Maduro. «Ese es mi propósito ahora qu.",
@@ -50,18 +60,21 @@
       "title": "Se eleva a 4.561 la cifra de muertos en Venezuela por los dos terremotos",
       "summary": "sumó este lunes otros 71 muertos por el doble terremoto del pasado 24 de junio, lo que elevó la cifra de fallecidos hasta al menos 4.561, informó el presidente del Parlamento, el chavista Jorge Rodríguez. La cantidad de heridos y personas sin vivienda se mantiene en 16.740 y 17.907, respectivamente, dice el b.",
       "date": "2026-07-13"
-    },
-    {
-      "title": "Edmundo González recibe el Premio de Convivencia en el Senado y clama contra la tiranía",
-      "summary": "Los líderes opositores venezolanos Edmundo González y María Corina Machado defendieron este lunes la «convivencia» en Venezuela frente al «régimen tiránico y criminal» del Gobierno venezolano, que usa la «división» como «instrumento del poder».Así se pronunciaron este lunes en el Senado durante el acto de concesión del.",
-      "date": "2026-07-13"
-    },
-    {
-      "title": "La selección: terremoto en Venezuela",
-      "summary": "Un rescatista trabaja en el lugar donde se derrumbó un edificio tras los fuertes terremotos mientras continúan las operaciones de búsqueda, rescate y recuperación en La Guaira. ttanni/Shutterstock “Qué triste está la ciudad, perdida ya de su fe, pero destruida será el día de San Bernabé. Quien lo viviere lo verá”. Con.",
-      "date": "2026-07-13"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "El contraste tras la tragedia en Venezuela",
+      "url": "https://www.larazon.es/internacional/contraste-tragedia-venezuela_202607166a5828951db8de040990c0eb.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-16T00:40:53.000Z",
+      "sourceId": "lootura-es-la-razon"
+    },
+    {
+      "title": "Sube a 4.829 la cifra de muertos por los terremotos de hace tres semanas en Venezuela",
+      "url": "https://theobjective.com/internacional/2026-07-15/4829-cifra-muertos-terremotos-venezuela/?amp=&utm_source=lootura.com",
+      "publishedAt": "2026-07-15T21:34:09.000Z",
+      "sourceId": "lootura-es-the-objective"
+    }
+  ],
+  "evidenceCount": 2
 }

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/lionel-messi/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/lionel-messi/index.json",
   "description": "Sigue la actividad de Lionel Messi en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-15T20:57:56.208Z",
+  "updatedAt": "2026-07-16T02:23:49.655Z",
   "aliases": [
     "Messi"
   ],
@@ -19,6 +19,11 @@
       "date": "2026-07-15"
     },
     {
+      "title": "Messi emula a Maradona ante Inglaterra y va a por Pelé",
+      "summary": "le dio más al fútbol que lo que el fútbol le dio a Messi pero el 10 argentino se encontró de repente ante una nueva misión, una casi más patriótica que deportiva: emular, 40 años después, el festejo de Diego Maradona ante Inglaterra, sus goles con las manos y los pies por los cuartos de final de México 198.",
+      "date": "2026-07-15"
+    },
+    {
       "title": "El momento de la verdad para Kane y Bellingham, el momento para la eternidad de Messi",
       "summary": "«No nos queremos enfocar en toda la historia de alrededor». Lo decía Harry Kane, el capitán de Inglaterra, en la previa del duelo en semifinales contra Argentina. Será imposible bajar el ruido de una rivalidad dura , los cánticos sobre Malvinas, el recuerdo de 'la mano de Dios'... Pero al final lo decisivo será lo que.",
       "date": "2026-07-15"
@@ -26,11 +31,17 @@
   ],
   "sources": [
     {
-      "title": "Así es la vida de Leo Messi: edad, cuánto cobra, palmarés y cuántos Balones de Oro tiene",
-      "url": "https://okdiario.com/deportes/asi-vida-leo-messi-edad-cuanto-cobra-palmares-cuantos-balones-oro-tiene-18509905?utm_source=lootura.com",
-      "publishedAt": "2026-07-15T19:30:17.000Z",
-      "sourceId": "lootura-es-ok-diario"
+      "title": "Atlanta fue el Azteca: Argentina renace por y para Messi en la batalla emocional contra Inglaterra y se medirá a España en la final del Mundial",
+      "url": "https://www.elmundo.es/deportes/futbol/mundial-de-futbol/2026/07/15/6a57cbd3e9cf4ab9528b459e.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-15T21:37:44.000Z",
+      "sourceId": "lootura-es-el-mundo"
+    },
+    {
+      "title": "Messi emula a Maradona ante Inglaterra y va a por Pelé",
+      "url": "https://elpais.com/deportes/mundial-futbol/2026-07-15/messi-emula-a-maradona-ante-inglaterra-y-va-a-por-pele.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-15T21:51:57.000Z",
+      "sourceId": "lootura-es-el-pais"
     }
   ],
-  "evidenceCount": 0
+  "evidenceCount": 1
 }

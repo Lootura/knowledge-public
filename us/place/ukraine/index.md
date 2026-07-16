@@ -3,10 +3,16 @@
 > Follow Ukraine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-15T13:39:02.263Z
+- Updated: 2026-07-16T02:24:09.281Z
 - Canonical: https://atlas.lootura.com/us/place/ukraine
 
 ## Recent changes
+
+### How drones are reshaping modern warfare in Ukraine, Middle East
+
+Drones have become a defining feature of the conflict between Russia and Ukraine. They.
+
+Date: 2026-07-16
 
 ### Ukraine Pounds Russian Ships in Its Campaign to Cut Off Crimea
 
@@ -62,12 +68,6 @@ Ukrainian Prime Minister Yulia Svyrydenko has stepped down as President Volodymy
 
 Date: 2026-07-12
 
-### With Lindsey Graham Gone, Ukraine Loses an Ally in Trump’s Ear
-
-The South Carolina Republican was Ukraine’s most influential champion inside President Trump’s mostly ”America First” political orbit.
-
-Date: 2026-07-12
-
 ## Sources
 
-No public source links.
+- [How drones are reshaping modern warfare in Ukraine, Middle East](https://www.cbsnews.com/video/drones-warfare-iran-ukraine-russia-middle-east/?utm_source=lootura.com) — 2026-07-16T02:13:49.000Z

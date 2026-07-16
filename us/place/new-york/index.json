@@ -64,19 +64,6 @@
       "date": "2026-07-14"
     }
   ],
-  "sources": [
-    {
-      "title": "Watch Live: Jay Clayton, Trump",
-      "url": "https://www.cbsnews.com/news/jay-clayton-trumps-dni-nominee-senate-confirmation-hearing/?utm_source=lootura.com",
-      "publishedAt": "2026-07-15T13:38:23.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
-    {
-      "title": "Battle against data centers grows nationwide amid concerns over electricity, water usage",
-      "url": "https://www.cbsnews.com/video/battle-against-data-centers-grows-nationwide/?utm_source=lootura.com",
-      "publishedAt": "2026-07-15T13:28:19.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    }
-  ],
-  "evidenceCount": 2
+  "sources": [],
+  "evidenceCount": 0
 }

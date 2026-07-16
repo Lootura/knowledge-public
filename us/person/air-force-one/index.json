@@ -1,0 +1,56 @@
+{
+  "id": "usa-air-force-one",
+  "name": "Air Force One",
+  "type": "person",
+  "locale": "en",
+  "canonicalPath": "/us/person/air-force-one",
+  "canonicalUrl": "https://atlas.lootura.com/us/person/air-force-one",
+  "markdownUrl": "https://atlas.lootura.com/us/person/air-force-one/index.md",
+  "jsonUrl": "https://atlas.lootura.com/us/person/air-force-one/index.json",
+  "description": "Follow Air Force One, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
+  "updatedAt": "2026-07-16T02:24:09.281Z",
+  "aliases": [],
+  "changes": [
+    {
+      "title": "Investigators Seek Information From Government Officials as Part of Air Force One Leak Investigation",
+      "summary": "After The New York Times reported on security concerns related to the Qatari-donated jet, the F.B.I. sought to speak with several people who flew aboard the plane with President Trump last week and asked for their phones.",
+      "date": "2026-07-16"
+    },
+    {
+      "title": "New York Times Files Motion to Quash Subpoenas of Its Journalists",
+      "summary": "The Justice Department is seeking to compel grand jury testimony as part of an investigation into Times reporting on the president’s new Air Force One jet.",
+      "date": "2026-07-16"
+    },
+    {
+      "title": "Subpoenas over New York Times report on Air Force One raise press freedom concerns",
+      "summary": "Several New York Times reporters were subpoenaed to appear before a federal grand jury after the paper published stories raising security concerns about the new Air Force One. White House correspondent Liz Landers discusses questions the case is raising about freedom of the press with Will Creeley.",
+      "date": "2026-07-15"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Air Force One first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-07-15"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Subpoenas over New York Times report on Air Force One raise press freedom concerns",
+      "url": "https://www.pbs.org/newshour/show/subpoenas-over-new-york-times-report-on-air-force-one-raise-press-freedom-concerns?utm_source=lootura.com",
+      "publishedAt": "2026-07-15T22:40:19.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
+    },
+    {
+      "title": "Investigators Seek Information From Government Officials as Part of Air Force One Leak Investigation",
+      "url": "https://www.nytimes.com/2026/07/15/us/politics/air-force-one-lead-investigation-government-officials.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-16T00:36:50.000Z",
+      "sourceId": "lootura-us-the-new-york-times-politics"
+    },
+    {
+      "title": "New York Times Files Motion to Quash Subpoenas of Its Journalists",
+      "url": "https://www.nytimes.com/2026/07/15/business/media/new-york-times-subpoenas-quash.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-16T01:38:22.000Z",
+      "sourceId": "lootura-us-the-new-york-times-politics"
+    }
+  ],
+  "evidenceCount": 3
+}

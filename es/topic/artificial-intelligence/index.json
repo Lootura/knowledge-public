@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/es/topic/artificial-intelligence/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/topic/artificial-intelligence/index.json",
   "description": "Sigue la actividad de Artificial intelligence en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-15T20:57:56.208Z",
+  "updatedAt": "2026-07-16T02:23:49.655Z",
   "aliases": [
     "AI",
     "machine learning"
   ],
   "changes": [
+    {
+      "title": "Este pequeño, pero matón portátil de Acer está hecho para la IA y acaba de tocar su precio mínimo en MediaMarkt",
+      "summary": "Disponer de una herramienta compacta que responda con inmediatez al abrir múltiples programas a la vez es una prioridad para quienes trabajan o estudian en constante movimiento. El Acer Aspire 14 AI A14-52M Copilot+ PC corta de raíz este problema al integrar funciones de inteligencia artificial nativas que automatizan.",
+      "date": "2026-07-16"
+    },
     {
       "title": "iOS 27 lanza su beta pública con Siri AI: cómo instalarla y iPhone compatibles",
       "summary": "Apple acaba de lanzar la primera beta pública de iOS 27 , su nuevo sistema operativo para el iPhone. Después de iniciar las pruebas con la versión para desarrolladores, los de Cupertino han habilitado el acceso general a la edición todavía no finalizada de su software. Y esto es una gran noticia porque va a permitir a.",
@@ -41,7 +46,13 @@
       "url": "https://hipertextual.com/inteligencia-artificial/codex-micro-hardware-openai/?utm_source=lootura.com",
       "publishedAt": "2026-07-15T17:30:00.000Z",
       "sourceId": "lootura-es-hipertextual"
+    },
+    {
+      "title": "Este pequeño, pero matón portátil de Acer está hecho para la IA y acaba de tocar su precio mínimo en MediaMarkt",
+      "url": "https://www.larazon.es/compras/nuestra-eleccion/este-pequeno-pero-maton-portatil-acer-esta-hecho-acaba-tocar-precio-minimo-mediamarkt_202607166a563c84c48a78681b89415c.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-16T00:30:13.000Z",
+      "sourceId": "lootura-es-la-razon"
     }
   ],
-  "evidenceCount": 0
+  "evidenceCount": 1
 }

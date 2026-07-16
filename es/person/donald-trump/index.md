@@ -3,10 +3,16 @@
 > Sigue la actividad de Donald Trump en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-15T20:57:56.208Z
+- Actualizado: 2026-07-16T02:23:49.655Z
 - Canonical: https://atlas.lootura.com/es/person/donald-trump
 
 ## Cambios recientes
+
+### El Ibex cae un 0,4% mientras la incertidumbre sobre Ormuz mantiene en vilo a los mercados
+
+La ambigüedad y las contradicciones son dos de los principales enemigos de la inversión. Pocos líderes encarnan mejor ambas características que el presidente de Estados Unidos, Donald Trump. Apenas unas horas después de renunciar a imponer un peaje del 20% a los buques que atraviesan el estrecho de Ormuz, el republican.
+
+Date: 2026-07-15
 
 ### La implacable transformación ejecutada por Jane Fraser en Citigroup
 
@@ -17,12 +23,6 @@ Date: 2026-07-15
 ### Estados Unidos acuñará una moneda de un dólar con la imagen de Trump
 
 El secretario del Tesoro de Estados Unidos, Scott Bessent, ha anunciado este miércoles que la Casa de la Moneda empezará a acuñar una moneda de un dólar con la imagen del presidente, Donald Trump , que conmemorará los 250 años de la declaración de independencia estadounidense. Bessent ha confirmado en un mensaje en red.
-
-Date: 2026-07-15
-
-### El Ibex cae un 0,4% mientras la incertidumbre sobre Ormuz mantiene en vilo a los mercados
-
-La ambigüedad y las contradicciones son dos de los principales enemigos de la inversión. Pocos líderes encarnan mejor ambas características que el presidente de Estados Unidos, Donald Trump. Apenas unas horas después de renunciar a imponer un peaje del 20% a los buques que atraviesan el estrecho de Ormuz, el republican.
 
 Date: 2026-07-15
 
@@ -71,5 +71,3 @@ Date: 2026-07-14
 ## Fuentes
 
 - [El Ibex cae un 0,4% mientras la incertidumbre sobre Ormuz mantiene en vilo a los mercados](https://cincodias.elpais.com/mercados-financieros/2026-07-15/la-bolsa-y-el-ibex-35.html?utm_source=lootura.com) — 2026-07-15T20:22:26.000Z
-- [La implacable transformación ejecutada por Jane Fraser en Citigroup](https://www.expansion.com/economia/financial-times/2026/07/15/6a578863468aeb38698b458b.html?utm_source=lootura.com) — 2026-07-15T16:11:06.000Z
-- [Estados Unidos acuñará una moneda de un dólar con la imagen de Trump](https://theobjective.com/internacional/2026-07-15/eeuu-moneda-dolar-trump/?utm_source=lootura.com) — 2026-07-15T16:00:10.000Z

@@ -1,55 +1,42 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-15T21:02:41.219Z",
+  "generatedAt": "2026-07-16T02:28:53.854Z",
   "radar": {
     "id": "es",
     "slug": "es",
     "locale": "es"
   },
   "state": {
-    "signature": "1.15.1|20|1784149076208",
+    "signature": "1.15.1|21|1784168629655",
     "version": "1.15.1",
-    "build": 20,
-    "latestEntityUpdatedAt": "2026-07-15T20:57:56.208Z"
+    "build": 21,
+    "latestEntityUpdatedAt": "2026-07-16T02:23:49.655Z"
   },
   "atlas": {
     "hero": {
       "id": "es-pedro-sanchez",
       "name": "Pedro Sánchez",
       "type": "person",
-      "title": "Ayuso acusa a Sánchez de «utilizar» medios de comunicación y herramientas del Estado para «dañar la democracia»",
+      "title": "España 'pasa de pantalla' en Gibraltar y deja atrás el conflicto por la soberanía: \"Un brexit con una Verja cerrada sería una tragedia para el pueblo\"",
       "url": "https://atlas.lootura.com/es/person/pedro-sanchez",
       "path": "/es/person/pedro-sanchez",
-      "updatedAt": "2026-07-15T20:57:56.208Z",
-      "score": 1641,
+      "updatedAt": "2026-07-16T02:23:49.655Z",
+      "score": 1569,
       "sourceCount": 128,
       "isBreaking": false,
       "isPinned": false
     },
     "cards": [
       {
-        "id": "es-madrid",
-        "name": "Madrid",
+        "id": "es-pais-vasco",
+        "name": "País Vasco",
         "type": "place",
-        "title": "Ayuso acusa a Sánchez de «utilizar» medios de comunicación y herramientas del Estado para «dañar la democracia»",
-        "url": "https://atlas.lootura.com/es/place/madrid",
-        "path": "/es/place/madrid",
-        "updatedAt": "2026-07-15T20:57:56.208Z",
-        "score": 1580,
-        "sourceCount": 132,
-        "isBreaking": false,
-        "isPinned": false
-      },
-      {
-        "id": "es-united-states",
-        "name": "Estados Unidos",
-        "type": "place",
-        "title": "Adiós a OnePlus: la marca de Oppo abandona Europa y Estados Unidos esta misma semana",
-        "url": "https://atlas.lootura.com/es/place/united-states",
-        "path": "/es/place/united-states",
-        "updatedAt": "2026-07-15T20:57:56.208Z",
-        "score": 1575,
-        "sourceCount": 77,
+        "title": "Las familias de Gipuzkoa son las que más gastan en Euskadi y disparan su inversión en salud un 33%",
+        "url": "https://atlas.lootura.com/es/place/pais-vasco",
+        "path": "/es/place/pais-vasco",
+        "updatedAt": "2026-07-16T02:23:49.655Z",
+        "score": 1548,
+        "sourceCount": 9,
         "isBreaking": false,
         "isPinned": false
       },
@@ -60,26 +47,39 @@
         "title": "Begoña Gómez aporta los billetes de su viaje a Londres y critica al juez por cuestionar su presunción de inocencia",
         "url": "https://atlas.lootura.com/es/person/begona-gomez",
         "path": "/es/person/begona-gomez",
-        "updatedAt": "2026-07-15T20:57:56.208Z",
-        "score": 1565,
+        "updatedAt": "2026-07-16T02:23:49.655Z",
+        "score": 1544,
         "sourceCount": 15,
         "isBreaking": false,
         "isPinned": false
       },
       {
-        "id": "es-espana",
-        "name": "España",
+        "id": "es-united-states",
+        "name": "Estados Unidos",
         "type": "place",
-        "title": "Fragmento del día: España",
-        "url": "https://atlas.lootura.com/es/place/espana",
-        "path": "/es/place/espana",
-        "updatedAt": "2026-07-15T20:57:56.208Z",
-        "score": 1563,
-        "sourceCount": 258,
+        "title": "Adiós a OnePlus: la marca de Oppo abandona Europa y Estados Unidos esta misma semana",
+        "url": "https://atlas.lootura.com/es/place/united-states",
+        "path": "/es/place/united-states",
+        "updatedAt": "2026-07-16T02:23:49.655Z",
+        "score": 1543,
+        "sourceCount": 78,
+        "isBreaking": false,
+        "isPinned": false
+      },
+      {
+        "id": "es-lionel-messi",
+        "name": "Lionel Messi",
+        "type": "person",
+        "title": "Messi emula a Maradona ante Inglaterra y va a por Pelé",
+        "url": "https://atlas.lootura.com/es/person/lionel-messi",
+        "path": "/es/person/lionel-messi",
+        "updatedAt": "2026-07-16T02:23:49.655Z",
+        "score": 1522,
+        "sourceCount": 3,
         "isBreaking": false,
         "isPinned": false
       }
     ],
-    "publicEntityCount": 33
+    "publicEntityCount": 31
   }
 }

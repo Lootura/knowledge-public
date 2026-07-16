@@ -3,10 +3,22 @@
 > Follow White House, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-07-15T20:58:15.661Z
+- Updated: 2026-07-16T02:24:09.281Z
 - Canonical: https://atlas.lootura.com/us/organization/white-house
 
 ## Recent changes
+
+### Subpoenas over New York Times report on Air Force One raise press freedom concerns
+
+Several New York Times reporters were subpoenaed to appear before a federal grand jury after the paper published stories raising security concerns about the new Air Force One. White House correspondent Liz Landers discusses questions the case is raising about freedom of the press with Will Creeley.
+
+Date: 2026-07-15
+
+### Clayton Dodges Question on 2020 Election, and Democrats Call Him on It
+
+Jay Clayton’s nomination to lead the U.S. intelligence community comes as the White House pushes to use declassified intelligence to show concerns about election security.
+
+Date: 2026-07-15
 
 ### Jay Clayton Expected to Face Tough Questions in Confirmation Hearing
 
@@ -56,18 +68,7 @@ Benny Melendez voted for President Donald Trump in 2024. But since Trump returne
 
 Date: 2026-07-12
 
-### White House Directed Patel to Oversee Investigation Involving Times Reporting
-
-The F.B.I. director spent about eight hours at the White House Friday focused on the effort, which led to the subpoenaing of several Times reporters who wrote about the security of Air Force One.
-
-Date: 2026-07-12
-
-### Discovered by Atlas
-
-White House first entered the public knowledge record with source-backed evidence.
-
-Date: 2026-07-11
-
 ## Sources
 
-- [Watch: Lawmaker presses Blanche on his role in alleged Epstein files mishandlings](https://www.cbsnews.com/video/watch-lawmaker-presses-blanche-on-his-role-in-epstein-files-mishandling-allegations/?utm_source=lootura.com) — 2026-07-15T16:06:00.000Z
+- [Subpoenas over New York Times report on Air Force One raise press freedom concerns](https://www.pbs.org/newshour/show/subpoenas-over-new-york-times-report-on-air-force-one-raise-press-freedom-concerns?utm_source=lootura.com) — 2026-07-15T22:40:19.000Z
+- [Clayton Dodges Question on 2020 Election, and Democrats Call Him on It](https://www.nytimes.com/2026/07/15/us/politics/jay-clayton-confirmation-hearing-director-national-intelligence.html?utm_source=lootura.com) — 2026-07-15T21:50:43.000Z

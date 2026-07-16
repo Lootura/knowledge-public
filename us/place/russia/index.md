@@ -3,10 +3,16 @@
 > Follow Russia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-15T13:39:02.263Z
+- Updated: 2026-07-16T02:24:09.281Z
 - Canonical: https://atlas.lootura.com/us/place/russia
 
 ## Recent changes
+
+### How drones are reshaping modern warfare in Ukraine, Middle East
+
+Drones have become a defining feature of the conflict between Russia and Ukraine. They.
+
+Date: 2026-07-16
 
 ### Ukraine Pounds Russian Ships in Its Campaign to Cut Off Crimea
 
@@ -62,12 +68,6 @@ Operating out of a Tokyo high-rise, a military intelligence unit finds the high-
 
 Date: 2026-07-12
 
-### Shortly before Lindsey Graham's death, he was hopeful about new Russia sanctions bill
-
-One day before Sen. Lindsey Graham's death Saturday, he told "Face the Nation" moderator Margaret Brennan he was excited about new progress on a long-sought bipartisan bill to boost sanctions on Russia by targeting buyers of its oil.
-
-Date: 2026-07-12
-
 ## Sources
 
-No public source links.
+- [How drones are reshaping modern warfare in Ukraine, Middle East](https://www.cbsnews.com/video/drones-warfare-iran-ukraine-russia-middle-east/?utm_source=lootura.com) — 2026-07-16T02:13:49.000Z

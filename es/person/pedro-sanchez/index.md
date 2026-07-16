@@ -3,10 +3,34 @@
 > Sigue la actividad de Pedro Sánchez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-15T20:57:56.208Z
+- Actualizado: 2026-07-16T02:23:49.655Z
 - Canonical: https://atlas.lootura.com/es/person/pedro-sanchez
 
 ## Cambios recientes
+
+### Pedro Sánchez, tras la retirada de la Verja de Gibraltar, que ya es historia: "Los conflictos no están para gestionarlos sino para resolverlos"
+
+El presidente del Gobierno asiste al acto simbólico de la eliminación de la frontera física junto al ministro principal del Peñón, el embajador del Reino Unido y los alcaldes de la comarca Leer.
+
+Date: 2026-07-15
+
+### España 'pasa de pantalla' en Gibraltar y deja atrás el conflicto por la soberanía: "Un brexit con una Verja cerrada sería una tragedia para el pueblo"
+
+«Los conflictos no están para gestionarlos sino para resolverlos», afirma Pedro Sánchez sin hablar de soberanía durante la retirada de la Verja de Gibraltar, tras la entrada en vigor de forma provisional de los acuerdos firmados por la UE y el Reino Unido Leer.
+
+Date: 2026-07-15
+
+### La ONU nombra a Pedro Sánchez copresidente del grupo de Defensores de los ODS
+
+El secretario general de Naciones Unidas, António Guterres , ha designado al presidente del Gobierno, Pedro Sánchez , nuevo copresidente de los Defensores de los Objetivos de Desarrollo Sostenible (ODS), que forman parte de lo que se conoce como Agenda 2030, junto a la primera ministra de Barbados, Mia Mottley. Guterre.
+
+Date: 2026-07-15
+
+### Podcast | David Sánchez, condenado por prevaricar
+
+Nuevo embate judicial al entorno de Pedro Sánchez. Tras la condena a su fiscal general del Estado por revelación de secretos, tras la demoledora sentencia contra su ex mano derecha, José Luis Ábalos , a 24 años de prisión por cinco delitos, llega la condena a su hermano. La Audiencia Provincial de Badajoz ha condenado.
+
+Date: 2026-07-15
 
 ### Feijóo eleva al máximo su crítica a Sánchez tras la condena de su hermano y lo llama "presidente autoritario"
 
@@ -17,12 +41,6 @@ Date: 2026-07-15
 ### El Hilo | No es lo mismo una que 23.600 millones
 
 Este es un fragmento de la newsletter El Hilo. Puedes suscribirte gratis para recibirla en tu correo electrónico todos los miércoles, y siempre que haya un gran caso, haciendo click aquí . ¡No te lo pierdas! El músico David Sánchez Pérez-Castejón, hermano de Pedro Sánchez, ha sido condenado a 9 años de inhabilitación p.
-
-Date: 2026-07-15
-
-### Pedro Sánchez, tras la retirada de la Verja de Gibraltar, que ya es historia: "Los conflictos no están para gestionarlos sino para resolverlos"
-
-El presidente del Gobierno asiste al acto simbólico de la eliminación de la frontera física junto al ministro principal del Peñón, el embajador del Reino Unido y los alcaldes de la comarca Leer.
 
 Date: 2026-07-15
 
@@ -50,33 +68,9 @@ El fiscal Diego Villafañe , quien fuera mano derecha del exfiscal general del E
 
 Date: 2026-07-15
 
-### España 'pasa de pantalla' en Gibraltar y deja atrás el conflicto por la soberanía: "Un brexit con una Verja cerrada sería una tragedia para el pueblo"
-
-«Los conflictos no están para gestionarlos sino para resolverlos», afirma Pedro Sánchez sin hablar de soberanía durante la retirada de la Verja de Gibraltar, tras la entrada en vigor de forma provisional de los acuerdos firmados por la UE y el Reino Unido Leer.
-
-Date: 2026-07-15
-
-### La ONU nombra a Pedro Sánchez copresidente del grupo de Defensores de los ODS
-
-El secretario general de Naciones Unidas, António Guterres , ha designado al presidente del Gobierno, Pedro Sánchez , nuevo copresidente de los Defensores de los Objetivos de Desarrollo Sostenible (ODS), que forman parte de lo que se conoce como Agenda 2030, junto a la primera ministra de Barbados, Mia Mottley. Guterre.
-
-Date: 2026-07-15
-
-### Podcast | David Sánchez, condenado por prevaricar
-
-Nuevo embate judicial al entorno de Pedro Sánchez. Tras la condena a su fiscal general del Estado por revelación de secretos, tras la demoledora sentencia contra su ex mano derecha, José Luis Ábalos , a 24 años de prisión por cinco delitos, llega la condena a su hermano. La Audiencia Provincial de Badajoz ha condenado.
-
-Date: 2026-07-15
-
 ## Fuentes
 
-- [El Hilo | No es lo mismo una que 23.600 millones](https://www.elconfidencial.com/espana/2026-07-15/cronologia-caso-zapatero_4362495/?utm_source=lootura.com) — 2026-07-15T15:41:00.000Z
-- [El 'número dos' de García Ortiz admite que comentó con el fiscal de Badajoz la denuncia a Leire por presiones a la jueza del 'caso David Sánchez'](https://www.elindependiente.com/espana/2026/07/15/numero-dos-garcia-ortiz-comento-fiscal-badajoz-denuncia-leire-presiones-jueza-hermano-sanchez/?utm_source=lootura.com) — 2026-07-15T17:14:07.000Z
-- [Feijóo eleva al máximo su crítica a Sánchez tras la condena de su hermano y lo llama "presidente autoritario"](https://www.elmundo.es/espana/2026/07/15/6a5765cffc6c83df118b4582.html?utm_source=lootura.com) — 2026-07-15T10:50:27.000Z
 - [Pedro Sánchez, tras la retirada de la Verja de Gibraltar, que ya es historia: "Los conflictos no están para gestionarlos sino para resolverlos"](https://www.elmundo.es/andalucia/2026/07/15/6a576f46e9cf4a65338b4578.html?utm_source=lootura.com) — 2026-07-15T11:36:24.000Z
 - [España 'pasa de pantalla' en Gibraltar y deja atrás el conflicto por la soberanía: "Un brexit con una Verja cerrada sería una tragedia para el pueblo"](https://www.elmundo.es/espana/2026/07/15/6a57c142e85ece02588b4574.html?utm_source=lootura.com) — 2026-07-15T18:48:53.000Z
-- [Feijóo y Ayuso acusan a Sánchez de ser un “presidente autoritario” y un “autócrata sin escrúpulos”ante los líderes del PP europeo](https://elpais.com/espana/2026-07-15/feijoo-acusa-a-sanchez-de-ser-un-presidente-autoritario-ante-los-lideres-del-pp-europeo.html?utm_source=lootura.com) — 2026-07-15T10:33:12.000Z
-- [El fiscal, al juez Peinado: "Las medidas cautelares contra Begoña Gómez son injustificadas, desproporcionadas e innecesarias"](https://www.eldiario.es/politica/fiscal-juez-peinado-medidas-cautelares-begona-gomez-son-injustificadas-desproporcionadas-e-innecesarias_1_13383138.html?utm_source=lootura.com) — 2026-07-15T16:18:54.000Z
 - [La ONU nombra a Pedro Sánchez copresidente del grupo de Defensores de los ODS](https://theobjective.com/internacional/2026-07-15/onu-sanchez-copresidente-defensores-ods/?utm_source=lootura.com) — 2026-07-15T19:14:35.000Z
 - [Podcast | David Sánchez, condenado por prevaricar](https://theobjective.com/podcasts/objetivo-directo-podcast/podcast-objetivo-directo-david-sanchez-condenado-prevaricacion/?utm_source=lootura.com) — 2026-07-15T18:18:02.000Z
-- [Sánchez celebra el fin de la Verja de Gibraltar: «Se cierra una herida abierta durante siglos»](https://theobjective.com/espana/politica/2026-07-15/sanchez-fin-verja-gibraltar/?amp=&utm_source=lootura.com) — 2026-07-15T17:03:59.000Z

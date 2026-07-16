@@ -8,12 +8,22 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/iran/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/iran/index.json",
   "description": "Follow Iran, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-15T20:58:15.661Z",
+  "updatedAt": "2026-07-16T02:24:09.281Z",
   "aliases": [],
   "changes": [
     {
+      "title": "U.S. citizen departs Iran after being barred from leaving for over a year",
+      "summary": "A U.S.-Iranian woman who was trapped in Iran on allegations of espionage and collaborating with a hostile state that her attorney called \"bogus\" has departed the country, CBS News learned Wednesday.",
+      "date": "2026-07-16"
+    },
+    {
       "title": "Morning news brief",
       "summary": "Acting Attorney General Todd Blanche to appear for confirmation hearing, U.S. restarts blockade against Iran amid standoff over the Strait of Hormuz, ICE suspends traffic stops after deadly shootings.",
+      "date": "2026-07-15"
+    },
+    {
+      "title": "U.S. Military Again Blockades Iranian Ports After Collapse of Cease-Fire",
+      "summary": "President Trump ordered U.S. warships and aircraft to stop vessels going to and from Iran. Enforcing a blockade takes a huge commitment of warships and aircraft.",
       "date": "2026-07-15"
     },
     {
@@ -50,36 +60,14 @@
       "title": "For Israel, the U.S.-Iran Hostilities Have Created an Uneasy Limbo",
       "summary": "Officials see a return to full-blown war as preferable to an agreement that fails to curb the threats Iran poses to Israel. Meanwhile, they wait.",
       "date": "2026-07-15"
-    },
-    {
-      "title": "U.S. and Iran standoff over the Strait of Hormuz intensifies",
-      "summary": "threatened to block all oil exporting routes in the region on Wednesday in response to the U.S. maritime blockade of Iranian ports in the Strait of Hormuz. (Image credit: AFP via Getty Images).",
-      "date": "2026-07-15"
-    },
-    {
-      "title": "Senate Democrats Block Defense Bill Over War in Iran",
-      "summary": "The vote reflected how the political debate over the conflict in the Middle East has sapped bipartisan support for a normally popular measure.",
-      "date": "2026-07-14"
     }
   ],
   "sources": [
     {
-      "title": "U.S. launches back-to-back waves of strikes against Iran",
-      "url": "https://www.cbsnews.com/video/us-launches-back-to-back-waves-of-strikes-against-iran/?utm_source=lootura.com",
-      "publishedAt": "2026-07-15T20:12:07.000Z",
+      "title": "U.S. citizen departs Iran after being barred from leaving for over a year",
+      "url": "https://www.cbsnews.com/news/trapped-u-s-citizen-departs-iran/?utm_source=lootura.com",
+      "publishedAt": "2026-07-16T01:39:19.000Z",
       "sourceId": "lootura-us-cbs-news"
-    },
-    {
-      "title": "Son of couple jailed in Iran \"desperately worried\" as stepdad's sentence extended",
-      "url": "https://www.cbsnews.com/news/iran-uk-lindsay-craig-foreman-prison-sentence-hunger-strike-son-worried/?utm_source=lootura.com",
-      "publishedAt": "2026-07-15T16:52:30.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
-    {
-      "title": "US Resumes Hormuz Blockade as Trump Threatens More Strikes",
-      "url": "https://www.today.com/video/us-resumes-hormuz-blockade-as-trump-threatens-more-strikes-266707013862?utm_source=lootura.com",
-      "publishedAt": "2026-07-15T11:21:18.000Z",
-      "sourceId": "lootura-us-nbc-news"
     },
     {
       "title": "Morning news brief",
@@ -88,11 +76,11 @@
       "sourceId": "lootura-us-npr"
     },
     {
-      "title": "U.S. reimposes blockade and steps up strikes as Iran threatens to halt all energy exports from the region",
-      "url": "https://www.pbs.org/newshour/world/u-s-reimposes-blockade-and-steps-up-strikes-as-iran-threatens-to-halt-all-energy-exports-from-the-region?utm_source=lootura.com",
-      "publishedAt": "2026-07-15T15:23:45.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
+      "title": "U.S. Military Again Blockades Iranian Ports After Collapse of Cease-Fire",
+      "url": "https://www.nytimes.com/2026/07/15/us/politics/us-blockade-iran.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-15T23:02:36.000Z",
+      "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 4
+  "evidenceCount": 3
 }

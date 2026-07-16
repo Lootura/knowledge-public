@@ -70,4 +70,4 @@ Date: 2026-07-10
 
 ## Sources
 
-- [Supreme Court Justices give chilling accounts of threats to their safety](https://www.npr.org/2026/07/14/nx-s1-5893664/supreme-court-justices-kagan-barrett-give-chilling-accounts-of-threats-to-their-safety?utm_source=lootura.com) — 2026-07-15T03:19:25.000Z
+No public source links.

@@ -3,7 +3,7 @@
 > Sigue la actividad de Begoña Gómez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-15T20:57:56.208Z
+- Actualizado: 2026-07-16T02:23:49.655Z
 - Canonical: https://atlas.lootura.com/es/person/begona-gomez
 
 ## Cambios recientes
@@ -72,4 +72,3 @@ Date: 2026-07-13
 
 - [Begoña Gómez entrega al juez sus billetes de avión al Reino Unido y critica a Peinado por formular una exigencia "materialmente imposible"](https://www.elmundo.es/espana/2026/07/15/6a57963821efa0c20b8b456d.html?utm_source=lootura.com) — 2026-07-15T14:57:25.000Z
 - [Begoña Gómez entrega al juez Peinado los billetes de su viaje a Londres para la graduación de su hija](https://elpais.com/espana/2026-07-15/begona-gomez-entrega-al-juez-peinado-los-billetes-de-su-viaje-a-londres.html?utm_source=lootura.com) — 2026-07-15T15:04:17.000Z
-- [El fiscal, al juez Peinado: "Las medidas cautelares contra Begoña Gómez son injustificadas, desproporcionadas e innecesarias"](https://www.eldiario.es/politica/fiscal-juez-peinado-medidas-cautelares-begona-gomez-son-injustificadas-desproporcionadas-e-innecesarias_1_13383138.html?utm_source=lootura.com) — 2026-07-15T16:18:54.000Z

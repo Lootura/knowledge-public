@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/china/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/china/index.json",
   "description": "Follow China, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-15T20:58:15.661Z",
+  "updatedAt": "2026-07-16T02:24:09.281Z",
   "aliases": [],
   "changes": [
     {
@@ -64,23 +64,11 @@
   ],
   "sources": [
     {
-      "title": "China and Xi favored over US and Trump in many nations: Survey",
-      "url": "https://www.npr.org/2026/07/15/g-s1-133827/china-and-xi-favored-over-us-and-trump-in-many-nations-survey?utm_source=lootura.com",
-      "publishedAt": "2026-07-15T20:34:30.000Z",
-      "sourceId": "lootura-us-npr-world"
-    },
-    {
-      "title": "After traveling a billion kilometers, China's asteroid hunter finally arrives",
-      "url": "https://phys.org/news/2026-07-billion-kilometers-china-asteroid-hunter.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-15T20:20:01.000Z",
-      "sourceId": "lootura-us-phys-org"
-    },
-    {
       "title": "China’s Economy Grows at Slowest Pace in Years",
       "url": "https://www.nytimes.com/2026/07/15/business/china-economy-gdp-growth.html?utm_source=lootura.com",
       "publishedAt": "2026-07-15T11:10:18.000Z",
       "sourceId": "lootura-us-the-new-york-times"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 1
 }

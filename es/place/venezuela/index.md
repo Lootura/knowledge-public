@@ -3,10 +3,22 @@
 > Sigue la actividad de Venezuela en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-15T17:14:56.110Z
+- Actualizado: 2026-07-16T02:23:49.655Z
 - Canonical: https://atlas.lootura.com/es/place/venezuela
 
 ## Cambios recientes
+
+### El contraste tras la tragedia en Venezuela
+
+La sucesora de Nicolás Maduro, Delcy Rodríguez, ha prometido soluciones habitacionales antes de concluir este año producto de los dos terremotos sufridos el pasado 24 de junio. Al mismo tiempo, eleva el tono del discurso, enfocándose más en sus enemigos políticos que en la atención de la crisis. Las preguntas de la pre.
+
+Date: 2026-07-16
+
+### Sube a 4.829 la cifra de muertos por los terremotos de hace tres semanas en Venezuela
+
+El balance de muertos por el doble terremoto de magnitud 7,2 y 7,5 ocurrido hace tres semanas en la zona norte de Venezuela ha ascendido este miércoles a.
+
+Date: 2026-07-15
 
 ### Machado defiende su regreso a Venezuela como fuerza «estabilizadora» y «pacificadora»
 
@@ -56,18 +68,7 @@ sumó este lunes otros 71 muertos por el doble terremoto del pasado 24 de junio,
 
 Date: 2026-07-13
 
-### Edmundo González recibe el Premio de Convivencia en el Senado y clama contra la tiranía
-
-Los líderes opositores venezolanos Edmundo González y María Corina Machado defendieron este lunes la «convivencia» en Venezuela frente al «régimen tiránico y criminal» del Gobierno venezolano, que usa la «división» como «instrumento del poder».Así se pronunciaron este lunes en el Senado durante el acto de concesión del.
-
-Date: 2026-07-13
-
-### La selección: terremoto en Venezuela
-
-Un rescatista trabaja en el lugar donde se derrumbó un edificio tras los fuertes terremotos mientras continúan las operaciones de búsqueda, rescate y recuperación en La Guaira. ttanni/Shutterstock “Qué triste está la ciudad, perdida ya de su fe, pero destruida será el día de San Bernabé. Quien lo viviere lo verá”. Con.
-
-Date: 2026-07-13
-
 ## Fuentes
 
-No public source links.
+- [El contraste tras la tragedia en Venezuela](https://www.larazon.es/internacional/contraste-tragedia-venezuela_202607166a5828951db8de040990c0eb.html?utm_source=lootura.com) — 2026-07-16T00:40:53.000Z
+- [Sube a 4.829 la cifra de muertos por los terremotos de hace tres semanas en Venezuela](https://theobjective.com/internacional/2026-07-15/4829-cifra-muertos-terremotos-venezuela/?amp=&utm_source=lootura.com) — 2026-07-15T21:34:09.000Z

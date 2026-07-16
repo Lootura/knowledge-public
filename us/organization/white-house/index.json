@@ -8,9 +8,19 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/white-house/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/white-house/index.json",
   "description": "Follow White House, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-15T20:58:15.661Z",
+  "updatedAt": "2026-07-16T02:24:09.281Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "Subpoenas over New York Times report on Air Force One raise press freedom concerns",
+      "summary": "Several New York Times reporters were subpoenaed to appear before a federal grand jury after the paper published stories raising security concerns about the new Air Force One. White House correspondent Liz Landers discusses questions the case is raising about freedom of the press with Will Creeley.",
+      "date": "2026-07-15"
+    },
+    {
+      "title": "Clayton Dodges Question on 2020 Election, and Democrats Call Him on It",
+      "summary": "Jay Clayton’s nomination to lead the U.S. intelligence community comes as the White House pushes to use declassified intelligence to show concerns about election security.",
+      "date": "2026-07-15"
+    },
     {
       "title": "Jay Clayton Expected to Face Tough Questions in Confirmation Hearing",
       "summary": "His nomination to lead the U.S. intelligence community comes as the White House pushes to use declassified intelligence to show concerns about election security.",
@@ -50,25 +60,21 @@
       "title": "Texas Hispanics swung hard to Trump. A new poll shows they’re furious at his deportations.",
       "summary": "Benny Melendez voted for President Donald Trump in 2024. But since Trump returned to the White House, it has been increasingly difficult for Melendez to run his small construction company in south Texas. He says immigration officers have detained workers at his job sites and while driving his company trucks. Since the.",
       "date": "2026-07-12"
-    },
-    {
-      "title": "White House Directed Patel to Oversee Investigation Involving Times Reporting",
-      "summary": "The F.B.I. director spent about eight hours at the White House Friday focused on the effort, which led to the subpoenaing of several Times reporters who wrote about the security of Air Force One.",
-      "date": "2026-07-12"
-    },
-    {
-      "title": "Discovered by Atlas",
-      "summary": "White House first entered the public knowledge record with source-backed evidence.",
-      "date": "2026-07-11"
     }
   ],
   "sources": [
     {
-      "title": "Watch: Lawmaker presses Blanche on his role in alleged Epstein files mishandlings",
-      "url": "https://www.cbsnews.com/video/watch-lawmaker-presses-blanche-on-his-role-in-epstein-files-mishandling-allegations/?utm_source=lootura.com",
-      "publishedAt": "2026-07-15T16:06:00.000Z",
-      "sourceId": "lootura-us-cbs-news"
+      "title": "Subpoenas over New York Times report on Air Force One raise press freedom concerns",
+      "url": "https://www.pbs.org/newshour/show/subpoenas-over-new-york-times-report-on-air-force-one-raise-press-freedom-concerns?utm_source=lootura.com",
+      "publishedAt": "2026-07-15T22:40:19.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
+    },
+    {
+      "title": "Clayton Dodges Question on 2020 Election, and Democrats Call Him on It",
+      "url": "https://www.nytimes.com/2026/07/15/us/politics/jay-clayton-confirmation-hearing-director-national-intelligence.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-15T21:50:43.000Z",
+      "sourceId": "lootura-us-the-new-york-times"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 2
 }

@@ -3,7 +3,7 @@
 > Follow China, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-15T20:58:15.661Z
+- Updated: 2026-07-16T02:24:09.281Z
 - Canonical: https://atlas.lootura.com/us/place/china
 
 ## Recent changes
@@ -70,6 +70,4 @@ Date: 2026-07-13
 
 ## Sources
 
-- [China and Xi favored over US and Trump in many nations: Survey](https://www.npr.org/2026/07/15/g-s1-133827/china-and-xi-favored-over-us-and-trump-in-many-nations-survey?utm_source=lootura.com) — 2026-07-15T20:34:30.000Z
-- [After traveling a billion kilometers, China's asteroid hunter finally arrives](https://phys.org/news/2026-07-billion-kilometers-china-asteroid-hunter.html?utm_source=lootura.com) — 2026-07-15T20:20:01.000Z
 - [China’s Economy Grows at Slowest Pace in Years](https://www.nytimes.com/2026/07/15/business/china-economy-gdp-growth.html?utm_source=lootura.com) — 2026-07-15T11:10:18.000Z

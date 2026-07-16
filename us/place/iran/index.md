@@ -3,14 +3,26 @@
 > Follow Iran, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-15T20:58:15.661Z
+- Updated: 2026-07-16T02:24:09.281Z
 - Canonical: https://atlas.lootura.com/us/place/iran
 
 ## Recent changes
 
+### U.S. citizen departs Iran after being barred from leaving for over a year
+
+A U.S.-Iranian woman who was trapped in Iran on allegations of espionage and collaborating with a hostile state that her attorney called "bogus" has departed the country, CBS News learned Wednesday.
+
+Date: 2026-07-16
+
 ### Morning news brief
 
 Acting Attorney General Todd Blanche to appear for confirmation hearing, U.S. restarts blockade against Iran amid standoff over the Strait of Hormuz, ICE suspends traffic stops after deadly shootings.
+
+Date: 2026-07-15
+
+### U.S. Military Again Blockades Iranian Ports After Collapse of Cease-Fire
+
+President Trump ordered U.S. warships and aircraft to stop vessels going to and from Iran. Enforcing a blockade takes a huge commitment of warships and aircraft.
 
 Date: 2026-07-15
 
@@ -56,22 +68,8 @@ Officials see a return to full-blown war as preferable to an agreement that fail
 
 Date: 2026-07-15
 
-### U.S. and Iran standoff over the Strait of Hormuz intensifies
-
-threatened to block all oil exporting routes in the region on Wednesday in response to the U.S. maritime blockade of Iranian ports in the Strait of Hormuz. (Image credit: AFP via Getty Images).
-
-Date: 2026-07-15
-
-### Senate Democrats Block Defense Bill Over War in Iran
-
-The vote reflected how the political debate over the conflict in the Middle East has sapped bipartisan support for a normally popular measure.
-
-Date: 2026-07-14
-
 ## Sources
 
-- [U.S. launches back-to-back waves of strikes against Iran](https://www.cbsnews.com/video/us-launches-back-to-back-waves-of-strikes-against-iran/?utm_source=lootura.com) — 2026-07-15T20:12:07.000Z
-- [Son of couple jailed in Iran "desperately worried" as stepdad's sentence extended](https://www.cbsnews.com/news/iran-uk-lindsay-craig-foreman-prison-sentence-hunger-strike-son-worried/?utm_source=lootura.com) — 2026-07-15T16:52:30.000Z
-- [US Resumes Hormuz Blockade as Trump Threatens More Strikes](https://www.today.com/video/us-resumes-hormuz-blockade-as-trump-threatens-more-strikes-266707013862?utm_source=lootura.com) — 2026-07-15T11:21:18.000Z
+- [U.S. citizen departs Iran after being barred from leaving for over a year](https://www.cbsnews.com/news/trapped-u-s-citizen-departs-iran/?utm_source=lootura.com) — 2026-07-16T01:39:19.000Z
 - [Morning news brief](https://www.npr.org/2026/07/15/nx-s1-5891559/morning-news-brief?utm_source=lootura.com) — 2026-07-15T08:50:19.000Z
-- [U.S. reimposes blockade and steps up strikes as Iran threatens to halt all energy exports from the region](https://www.pbs.org/newshour/world/u-s-reimposes-blockade-and-steps-up-strikes-as-iran-threatens-to-halt-all-energy-exports-from-the-region?utm_source=lootura.com) — 2026-07-15T15:23:45.000Z
+- [U.S. Military Again Blockades Iranian Ports After Collapse of Cease-Fire](https://www.nytimes.com/2026/07/15/us/politics/us-blockade-iran.html?utm_source=lootura.com) — 2026-07-15T23:02:36.000Z

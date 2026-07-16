@@ -3,10 +3,16 @@
 > Sigue la actividad de San Sebastián en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-14T20:58:20.799Z
+- Actualizado: 2026-07-16T02:23:49.655Z
 - Canonical: https://atlas.lootura.com/es/place/san-sebastian
 
 ## Cambios recientes
+
+### El Muelle, Gros, Amara Berri y Añorga celebran las fiestas del Carmen en Donostia
+
+En el puerto donostiarra realizan este jueves una ofrenda a Aita Mari y en Amara Berri homenajean a los pescateros y pescateras del barrio.
+
+Date: 2026-07-15
 
 ### «Mantenemos la misma ilusión por ganar»
 
@@ -40,4 +46,4 @@ Date: 2026-07-12
 
 ## Fuentes
 
-No public source links.
+- [El Muelle, Gros, Amara Berri y Añorga celebran las fiestas del Carmen en Donostia](https://www.diariovasco.com/san-sebastian/muelle-gros-amara-berri-anorga-celebran-fiestas-20260716001250-nt_amp.html?utm_source=lootura.com) — 2026-07-15T22:12:50.000Z

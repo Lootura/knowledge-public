@@ -8,9 +8,14 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/china/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/china/index.json",
   "description": "Sigue la actividad de China en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-15T20:57:56.208Z",
+  "updatedAt": "2026-07-16T02:23:49.655Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "El PP impulsa el vínculo con Latinoamérica en la UE para competir con China",
+      "summary": "La reunión de líderes europeos e hispanoamericanos de centroderecha en el Foro Libertas, ayer en Madrid, sirvió para que Alberto Núñez Feijóo les trasladase su vocación de...",
+      "date": "2026-07-15"
+    },
     {
       "title": "El Ibex pierde los 19.300 puntos por las energéticas y los bancos",
       "summary": "La minitregua en el petróleo, y el alivio ayer en el IPC de EEUU, no logran generalizar las subidas, más allá del rebote de las tecnológicas. El freno en el PIB de China y el tono agresivo de la Fed obstaculizan los avances. El Ibex vuelve a atascarse cerca de los 19.300 puntos de las últimas jornadas.",
@@ -55,26 +60,15 @@
       "title": "Subí a un taxi sin conductor en Shenzhen y esto es lo que he aprendido sobre el futuro del transporte",
       "summary": "He estado la semana pasada en China y uno de mis objetivos era probar el servicio de robotaxi, es decir, el de un transporte automatizado sin conductor. En Alemania tuve la oportunidad de probar una conducción semiautónoma , pero las regulaciones euurpoeas están frenando este tipo de iniciativas. China es otra historia.",
       "date": "2026-07-13"
-    },
-    {
-      "title": "El 'boom' de los neumáticos 'made in China' en España pone en jaque a los grandes fabricantes europeos",
-      "summary": "Muy lejos queda ya la etiqueta que se le puso a China con sus falsificaciones e imitaciones. El gigante asiático ha dado un auténtico salto adelante en los últimos tiempos con un gran avance en la tecnología que ha puesto patas arriba el mundo de la automoción. No solo porque sus coches acaparan cada vez más cuota de m.",
-      "date": "2026-07-13"
     }
   ],
   "sources": [
     {
-      "title": "Un científico estadounidense lleva 18 meses detenido en China por investigar sus pruebas nucleares",
-      "url": "https://www.abc.es/internacional/cientifico-estadounidense-permanece-detenido-china-investigar-pruebas-20260715212653-nt.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-15T19:26:53.000Z",
-      "sourceId": "lootura-es-abc"
-    },
-    {
-      "title": "El Ibex pierde los 19.300 puntos por las energéticas y los bancos",
-      "url": "https://www.expansion.com/mercados/cronica-bolsa/2026/07/15/6a571f27e5fdea9c048b4584.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-15T16:15:25.000Z",
-      "sourceId": "lootura-es-expansion"
+      "title": "El PP impulsa el vínculo con Latinoamérica en la UE para competir con China",
+      "url": "https://amp.elmundo.es/espana/2026/07/15/6a57c369fc6c83c54b8b458d.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-15T20:46:18.000Z",
+      "sourceId": "lootura-es-el-mundo"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

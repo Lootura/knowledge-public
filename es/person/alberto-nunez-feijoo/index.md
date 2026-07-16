@@ -3,10 +3,22 @@
 > Sigue la actividad de Alberto Núñez Feijóo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-15T20:57:56.208Z
+- Actualizado: 2026-07-16T02:23:49.655Z
 - Canonical: https://atlas.lootura.com/es/person/alberto-nunez-feijoo
 
 ## Cambios recientes
+
+### La presión electoral calienta las listas del PP
+
+Feijóo anticipa a sus cabeza de cartel municipales. Los necesita para tensar la batalla de las generales.
+
+Date: 2026-07-16
+
+### El PP impulsa el vínculo con Latinoamérica en la UE para competir con China
+
+La reunión de líderes europeos e hispanoamericanos de centroderecha en el Foro Libertas, ayer en Madrid, sirvió para que Alberto Núñez Feijóo les trasladase su vocación de...
+
+Date: 2026-07-15
 
 ### Feijóo eleva al máximo su crítica a Sánchez tras la condena de su hermano y lo llama "presidente autoritario"
 
@@ -56,20 +68,7 @@ Sumar y los socios del Ejecutivo consideran "desproporcionada" la sentencia de l
 
 Date: 2026-07-14
 
-### El PP defiende plantear "propuestas polémicas" para ofrecer su alternativa ante un Gobierno que "ha gestionado muy mal"
-
-A lo largo de las dos últimas semanas, Alberto Núñez Feijóo ha puesto sobe la mesa debates que el Ejecutivo ha usado como combustible para recuperar la idea de que un Gobierno del PP "recortará derechos", tal y como aseguró el propio Pedro Sánchez después de que el presidente del PP apuntara a revisar las razones del i.
-
-Date: 2026-07-14
-
-### Feijóo anuncia desde Almería un plan nacional contra los incendios si llega a La Moncloa
-
-El líder del PP, Alberto Núñez Feijóo , ha asegurado que espera que «continúe la colaboración y la coordinación» entre administraciones como se ha visto con el incendio en Los Gallardos (Almería) y que «nadie estropee» la unidad de acción. Dicho esto, ha anunciado un plan de prevención de riesgos naturales si llega al.
-
-Date: 2026-07-13
-
 ## Fuentes
 
-- [Feijóo eleva al máximo su crítica a Sánchez tras la condena de su hermano y lo llama "presidente autoritario"](https://www.elmundo.es/espana/2026/07/15/6a5765cffc6c83df118b4582.html?utm_source=lootura.com) — 2026-07-15T10:50:27.000Z
-- [El CIS de Tezanos remonta al PSOE y le da una ventaja de casi ocho puntos sobre el PP en el mes de la condena a Ábalos](https://www.elmundo.es/espana/2026/07/15/6a574fee21efa0e10d8b4582.html?utm_source=lootura.com) — 2026-07-15T10:40:39.000Z
-- [Feijóo y Ayuso acusan a Sánchez de ser un “presidente autoritario” y un “autócrata sin escrúpulos”ante los líderes del PP europeo](https://elpais.com/espana/2026-07-15/feijoo-acusa-a-sanchez-de-ser-un-presidente-autoritario-ante-los-lideres-del-pp-europeo.html?utm_source=lootura.com) — 2026-07-15T10:33:12.000Z
+- [El PP impulsa el vínculo con Latinoamérica en la UE para competir con China](https://amp.elmundo.es/espana/2026/07/15/6a57c369fc6c83c54b8b458d.html?utm_source=lootura.com) — 2026-07-15T20:46:18.000Z
+- [La presión electoral calienta las listas del PP](https://www.larazon.es/espana/presion-electoral-calienta-listas_202607166a582f2ce9f2e84b5c6aa9ab.html?outputType=amp&utm_source=lootura.com) — 2026-07-16T01:09:00.000Z

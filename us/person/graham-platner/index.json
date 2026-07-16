@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/graham-platner/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/graham-platner/index.json",
   "description": "Follow Graham Platner, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-15T20:58:15.661Z",
+  "updatedAt": "2026-07-16T02:24:09.281Z",
   "aliases": [
     "Platner"
   ],
@@ -16,6 +16,11 @@
     {
       "title": "Inside Maine Democrats’ Search for a New Senate Nominee After Graham Platner’s Exit",
       "summary": "Democratic candidates are hastily building bare-bones campaigns and forgoing traditional outreach like TV ads in a sprint to appeal to party delegates, rather than Maine voters.",
+      "date": "2026-07-15"
+    },
+    {
+      "title": "Here Are the Maine Democrats Running to Replace Graham Platner",
+      "summary": "To win, they’ll have to convince Democrats at a July 25 convention that they’re the best candidate to take on Senator Susan Collins, a Republican.",
       "date": "2026-07-15"
     },
     {
@@ -57,14 +62,15 @@
       "title": "Tamara Keith and Amy Walter on Lindsey Graham's passing",
       "summary": "NPR's Tamara Keith and Amy Walter of the Cook Political Report with Amy Walter join Geoff Bennett to discuss the latest political news, including what the passing of Sen. Lindsey Graham means for South Carolina and the Senate, Sen. Mitch McConnell's health and Democrats scrambling to replace Graham Platner in the Maine.",
       "date": "2026-07-13"
-    },
-    {
-      "title": "Maine Democrats scramble to select replacement for Platner in Senate race",
-      "summary": "Maine Democrats now have a process for choosing a replacement for Senate candidate Graham Platner. But voters are still reeling from his fall.",
-      "date": "2026-07-13"
     }
   ],
   "sources": [
+    {
+      "title": "Here Are the Maine Democrats Running to Replace Graham Platner",
+      "url": "https://www.nytimes.com/2026/07/15/us/politics/maine-democrats-senate-candidates.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-15T21:21:03.000Z",
+      "sourceId": "lootura-us-the-new-york-times-politics"
+    },
     {
       "title": "Inside Maine Democrats’ Search for a New Senate Nominee After Graham Platner’s Exit",
       "url": "https://www.nytimes.com/2026/07/15/us/politics/maine-democrats-senate-convention.html?utm_source=lootura.com",
@@ -72,5 +78,5 @@
       "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 2
 }

@@ -3,10 +3,22 @@
 > Sigue la actividad de Partido Popular en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-15T20:57:56.208Z
+- Actualizado: 2026-07-16T02:23:49.655Z
 - Canonical: https://atlas.lootura.com/es/organization/partido-popular
 
 ## Cambios recientes
+
+### La presión electoral calienta las listas del PP
+
+Feijóo anticipa a sus cabeza de cartel municipales. Los necesita para tensar la batalla de las generales.
+
+Date: 2026-07-16
+
+### El PP impulsa el vínculo con Latinoamérica en la UE para competir con China
+
+La reunión de líderes europeos e hispanoamericanos de centroderecha en el Foro Libertas, ayer en Madrid, sirvió para que Alberto Núñez Feijóo les trasladase su vocación de...
+
+Date: 2026-07-15
 
 ### El CIS de Tezanos remonta al PSOE y le da una ventaja de casi ocho puntos sobre el PP en el mes de la condena a Ábalos
 
@@ -56,19 +68,7 @@ Ester Muñoz ha respondido con firmeza a Óscar Puente tras el tuit que publicó
 
 Date: 2026-07-15
 
-### Vox fuerza a Llorca a quitar ayudas a Cruz Roja para pagar un estudio que asocia inmigración y delincuencia
-
-Vox ha convertido el trámite de enmiendas al proyecto de ley de Presupuestos de la Generalitat para 2026 en la vía de entrada de sus propuestas políticas más controvertidas con el aval del Partido Popular de Juanfran Pérez Llorca, que necesita su voto para sacar adelante las cuentas autonómicas. El grupo parlamentario.
-
-Date: 2026-07-15
-
-### El PP augura un calvario largo para Pedro Sánchez: "Les queda lo peor"
-
-"A partir de ahora, no hay semana en la que no haya que mirar a un juzgado", destacan los 'populares' tras la codena al hermano del presidente del Gobierno Leer.
-
-Date: 2026-07-14
-
 ## Fuentes
 
-- [El CIS de Tezanos remonta al PSOE y le da una ventaja de casi ocho puntos sobre el PP en el mes de la condena a Ábalos](https://www.elmundo.es/espana/2026/07/15/6a574fee21efa0e10d8b4582.html?utm_source=lootura.com) — 2026-07-15T10:40:39.000Z
-- [Feijóo y Ayuso acusan a Sánchez de ser un “presidente autoritario” y un “autócrata sin escrúpulos”ante los líderes del PP europeo](https://elpais.com/espana/2026-07-15/feijoo-acusa-a-sanchez-de-ser-un-presidente-autoritario-ante-los-lideres-del-pp-europeo.html?utm_source=lootura.com) — 2026-07-15T10:33:12.000Z
+- [El PP impulsa el vínculo con Latinoamérica en la UE para competir con China](https://amp.elmundo.es/espana/2026/07/15/6a57c369fc6c83c54b8b458d.html?utm_source=lootura.com) — 2026-07-15T20:46:18.000Z
+- [La presión electoral calienta las listas del PP](https://www.larazon.es/espana/presion-electoral-calienta-listas_202607166a582f2ce9f2e84b5c6aa9ab.html?outputType=amp&utm_source=lootura.com) — 2026-07-16T01:09:00.000Z

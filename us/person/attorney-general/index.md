@@ -28,5 +28,4 @@ Date: 2026-07-15
 
 ## Sources
 
-- [Sen. Adam Schiff, D-Calif., on the confirmation hearing for AG nominee Todd Blanche](https://www.npr.org/2026/07/15/nx-s1-5893449/sen-adam-schiff-d-calif-on-the-confirmation-hearing-for-ag-nominee-todd-blanche?utm_source=lootura.com) — 2026-07-15T10:49:00.000Z
-- [Todd Blanche Faces Crucial Hurdle Ahead of Confirmation as Attorney General](https://www.nytimes.com/2026/07/15/us/politics/todd-blanche-attorney-general-confirmation-doj.html?utm_source=lootura.com) — 2026-07-15T13:16:59.000Z
+No public source links.

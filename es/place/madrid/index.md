@@ -3,20 +3,32 @@
 > Sigue la actividad de Madrid en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-15T20:57:56.208Z
+- Actualizado: 2026-07-16T02:23:49.655Z
 - Canonical: https://atlas.lootura.com/es/place/madrid
 
 ## Cambios recientes
 
-### Feijóo y Ayuso acusan a Sánchez de ser un “presidente autoritario” y un “autócrata sin escrúpulos”ante los líderes del PP europeo
-
-Ante algunos de los principales líderes del Partido Popular Europeo, reunidos este miércoles en Madrid, Alberto Núñez Feijóo ha lanzado la acusación más gruesa hasta la fecha contra Pedro Sánchez. El líder del PP no ha dudado en describir al líder socialista como “un presidente autoritario” delante del presidente del P.
-
-Date: 2026-07-15
-
 ### Muere a los 68 años el periodista y escritor Tomás Bárbulo
 
 El periodista y escritor Tomás Bárbulo ha muerto este miércoles en Madrid a los 68 años, según ha informado El País , el periódico del Grupo Prisa donde trabajó tres décadas. Como periodista ha sido miembro fundador de los diarios Expansión , La Gaceta de los Negocios y El Sol , y durante treinta años trabajó en El Paí.
+
+Date: 2026-07-15
+
+### El PP impulsa el vínculo con Latinoamérica en la UE para competir con China
+
+La reunión de líderes europeos e hispanoamericanos de centroderecha en el Foro Libertas, ayer en Madrid, sirvió para que Alberto Núñez Feijóo les trasladase su vocación de...
+
+Date: 2026-07-15
+
+### Amundi, Bestinver y Wellington acuden a la salida a Bolsa de Digi
+
+Amundi, Bestinver, Janus Henderson, Thornburg y Wellington son algunos de los principales inversores institucionales que han acudido a la salida a Bolsa de Digi España, la filial de la operadora rumana de telecomunicaciones, que tocará hoy la campana en la Bolsa de Madrid , según coinciden varias fuentes del mercado co.
+
+Date: 2026-07-15
+
+### Feijóo y Ayuso acusan a Sánchez de ser un “presidente autoritario” y un “autócrata sin escrúpulos”ante los líderes del PP europeo
+
+Ante algunos de los principales líderes del Partido Popular Europeo, reunidos este miércoles en Madrid, Alberto Núñez Feijóo ha lanzado la acusación más gruesa hasta la fecha contra Pedro Sánchez. El líder del PP no ha dudado en describir al líder socialista como “un presidente autoritario” delante del presidente del P.
 
 Date: 2026-07-15
 
@@ -56,20 +68,8 @@ Favorecerá la movilidad de 11 municipios del este de la Comunidad de Madrid y c
 
 Date: 2026-07-15
 
-### La Primera de Expansión sobre ACS, Ferrovial, Mubadala, Burger King, UBS y Buffett
-
-La Primera de Expansión les cuenta hoy que Madrid se convertirá en los próximos meses en un gran polo de atracción de la obra pública en España. Grandes empresas como ACS y Sacyr se preparan para ello.
-
-Date: 2026-07-15
-
-### Muere el histórico boxeador español José Legrá a los 83 años
-
-El histórico boxeador español José Legrá ha fallecido este jueves a los 83 años en el Hospital Gómez Ulla de Madrid por una grave enfermedad que le fue diagnosticada recientemente. Apodado como 'El Puma de Baracoa', el púgil de origen cubano llegó a España en 1963 y aquí se convirtió en una leyenda de este deporte. Fue.
-
-Date: 2026-07-15
-
 ## Fuentes
 
-- [Air Europa lanza un vuelo especial de Madrid a Nueva York para la final del Mundial](https://www.20minutos.es/madrid/air-europa-lanza-un-vuelo-especial-madrid-nueva-york-para-final-mundial_7015112_0.html?utm_source=lootura.com) — 2026-07-15T18:11:24.000Z
-- [Feijóo y Ayuso acusan a Sánchez de ser un “presidente autoritario” y un “autócrata sin escrúpulos”ante los líderes del PP europeo](https://elpais.com/espana/2026-07-15/feijoo-acusa-a-sanchez-de-ser-un-presidente-autoritario-ante-los-lideres-del-pp-europeo.html?utm_source=lootura.com) — 2026-07-15T10:33:12.000Z
+- [El PP impulsa el vínculo con Latinoamérica en la UE para competir con China](https://amp.elmundo.es/espana/2026/07/15/6a57c369fc6c83c54b8b458d.html?utm_source=lootura.com) — 2026-07-15T20:46:18.000Z
+- [Amundi, Bestinver y Wellington acuden a la salida a Bolsa de Digi](https://www.expansion.com/empresas/tecnologia/2026/07/16/6a57f55c468aeb95538b457f.html?utm_source=lootura.com) — 2026-07-15T22:25:56.000Z
 - [Muere a los 68 años el periodista y escritor Tomás Bárbulo](https://theobjective.com/cultura/2026-07-15/muere-periodista-escritor-tomas-barbulo/?utm_source=lootura.com) — 2026-07-15T19:40:43.000Z

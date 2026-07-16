@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/begona-gomez/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/begona-gomez/index.json",
   "description": "Sigue la actividad de Begoña Gómez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-15T20:57:56.208Z",
+  "updatedAt": "2026-07-16T02:23:49.655Z",
   "aliases": [],
   "changes": [
     {
@@ -74,13 +74,7 @@
       "url": "https://elpais.com/espana/2026-07-15/begona-gomez-entrega-al-juez-peinado-los-billetes-de-su-viaje-a-londres.html?utm_source=lootura.com",
       "publishedAt": "2026-07-15T15:04:17.000Z",
       "sourceId": "lootura-es-el-pais"
-    },
-    {
-      "title": "El fiscal, al juez Peinado: \"Las medidas cautelares contra Begoña Gómez son injustificadas, desproporcionadas e innecesarias\"",
-      "url": "https://www.eldiario.es/politica/fiscal-juez-peinado-medidas-cautelares-begona-gomez-son-injustificadas-desproporcionadas-e-innecesarias_1_13383138.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-15T16:18:54.000Z",
-      "sourceId": "lootura-es-eldiario-es"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 2
 }

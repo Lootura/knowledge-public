@@ -3,7 +3,7 @@
 > Sigue la actividad de Lionel Messi en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-15T20:57:56.208Z
+- Actualizado: 2026-07-16T02:23:49.655Z
 - Canonical: https://atlas.lootura.com/es/person/lionel-messi
 
 ## Cambios recientes
@@ -11,6 +11,12 @@
 ### Discovered by Atlas
 
 Lionel Messi first entered the public knowledge record with source-backed evidence.
+
+Date: 2026-07-15
+
+### Messi emula a Maradona ante Inglaterra y va a por Pelé
+
+le dio más al fútbol que lo que el fútbol le dio a Messi pero el 10 argentino se encontró de repente ante una nueva misión, una casi más patriótica que deportiva: emular, 40 años después, el festejo de Diego Maradona ante Inglaterra, sus goles con las manos y los pies por los cuartos de final de México 198.
 
 Date: 2026-07-15
 
@@ -22,4 +28,5 @@ Date: 2026-07-15
 
 ## Fuentes
 
-- [Así es la vida de Leo Messi: edad, cuánto cobra, palmarés y cuántos Balones de Oro tiene](https://okdiario.com/deportes/asi-vida-leo-messi-edad-cuanto-cobra-palmares-cuantos-balones-oro-tiene-18509905?utm_source=lootura.com) — 2026-07-15T19:30:17.000Z
+- [Atlanta fue el Azteca: Argentina renace por y para Messi en la batalla emocional contra Inglaterra y se medirá a España en la final del Mundial](https://www.elmundo.es/deportes/futbol/mundial-de-futbol/2026/07/15/6a57cbd3e9cf4ab9528b459e.html?utm_source=lootura.com) — 2026-07-15T21:37:44.000Z
+- [Messi emula a Maradona ante Inglaterra y va a por Pelé](https://elpais.com/deportes/mundial-futbol/2026-07-15/messi-emula-a-maradona-ante-inglaterra-y-va-a-por-pele.html?utm_source=lootura.com) — 2026-07-15T21:51:57.000Z

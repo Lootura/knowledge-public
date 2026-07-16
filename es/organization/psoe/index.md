@@ -3,16 +3,16 @@
 > Sigue la actividad de Partido Socialista Obrero Español en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-15T20:57:56.208Z
+- Actualizado: 2026-07-16T02:23:49.655Z
 - Canonical: https://atlas.lootura.com/es/organization/psoe
 
 ## Cambios recientes
 
-### Feijóo eleva al máximo su crítica a Sánchez tras la condena de su hermano y lo llama "presidente autoritario"
+### El "sí" de Europa a la amnistía no servirá para que Junts se acerque a Sánchez
 
-En un foro con líderes europeos e hispanoamericanos, acusa al PSOE de "agredir" a la democracia "desde las más altas instancias" Leer.
+El PSOE alienta que el dictamen del TJUE recompondrá relaciones. Los de Puigdemont enfrían el pronóstico.
 
-Date: 2026-07-15
+Date: 2026-07-16
 
 ### La mano derecha de García Ortiz admite que contó la reunión con la 'fontanera' del PSOE al ex fiscal general pero asegura que no le dio importancia
 
@@ -20,15 +20,21 @@ Diego Villafañe no redactó nota alguna sobre los encuentros con Leire Díez ni
 
 Date: 2026-07-15
 
-### El CIS de Tezanos remonta al PSOE y le da una ventaja de casi ocho puntos sobre el PP en el mes de la condena a Ábalos
-
-Feijóo cae dos puntos en porcentaje de voto y Abascal también retrocede ligeramente Leer.
-
-Date: 2026-07-15
-
 ### Un micro abierto pilla a dos diputados de Vox en Valencia hablando de la filtración de una fiscal
 
 El PSPV-PSOE ha denunciado el «machismo rancio de la ultraderecha» después de que un micrófono abierto durante la Comisión de Economía de las Cortes valencianas de este miércoles «haya delatado» a dos diputados de Vox que han llamado «bruja» a la diputada socialista Alicia Andújar. «Les molestan las mujeres que hablan.
+
+Date: 2026-07-15
+
+### Feijóo eleva al máximo su crítica a Sánchez tras la condena de su hermano y lo llama "presidente autoritario"
+
+En un foro con líderes europeos e hispanoamericanos, acusa al PSOE de "agredir" a la democracia "desde las más altas instancias" Leer.
+
+Date: 2026-07-15
+
+### El CIS de Tezanos remonta al PSOE y le da una ventaja de casi ocho puntos sobre el PP en el mes de la condena a Ábalos
+
+Feijóo cae dos puntos en porcentaje de voto y Abascal también retrocede ligeramente Leer.
 
 Date: 2026-07-15
 
@@ -62,15 +68,8 @@ Ese mismo día también ha sido citado a declarar el abogado Ismael Oliver Leer.
 
 Date: 2026-07-14
 
-### El Congreso da un paso más para eliminar los delitos de las injurias al rey o de ofensa a los sentimientos religiosos
-
-La mayoría de la Cámara Baja tumba las enmiendas a la totalidad de PP y Vox a una norma impulsada por PSOE y Sumar que también plantea despenalizar las calumnias e injurias a las altas instituciones del Estado PSOE y Sumar reactivan la despenalización de las ofensas a los sentimientos religiosos y a la Corona La mayorí.
-
-Date: 2026-07-14
-
 ## Fuentes
 
-- [Feijóo eleva al máximo su crítica a Sánchez tras la condena de su hermano y lo llama "presidente autoritario"](https://www.elmundo.es/espana/2026/07/15/6a5765cffc6c83df118b4582.html?utm_source=lootura.com) — 2026-07-15T10:50:27.000Z
 - [La mano derecha de García Ortiz admite que contó la reunión con la 'fontanera' del PSOE al ex fiscal general pero asegura que no le dio importancia](https://www.elmundo.es/espana/2026/07/15/6a577004e9cf4a42658b4588.html?utm_source=lootura.com) — 2026-07-15T12:20:44.000Z
-- [El CIS de Tezanos remonta al PSOE y le da una ventaja de casi ocho puntos sobre el PP en el mes de la condena a Ábalos](https://www.elmundo.es/espana/2026/07/15/6a574fee21efa0e10d8b4582.html?utm_source=lootura.com) — 2026-07-15T10:40:39.000Z
+- [El "sí" de Europa a la amnistía no servirá para que Junts se acerque a Sánchez](https://www.larazon.es/espana/europa-amnistia-servira-que-junts-acerque-sanchez_202607166a57d75ae9f2e84b5c6a33eb.html?outputType=amp&utm_source=lootura.com) — 2026-07-16T01:09:36.000Z
 - [Un micro abierto pilla a dos diputados de Vox en Valencia hablando de la filtración de una fiscal](https://theobjective.com/espana/comunidad-valenciana/2026-07-15/micro-abierto-diputados-vox-filtracion-fiscal/?utm_source=lootura.com) — 2026-07-15T18:24:00.000Z

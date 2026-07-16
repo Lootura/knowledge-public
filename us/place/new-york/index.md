@@ -70,5 +70,4 @@ Date: 2026-07-14
 
 ## Sources
 
-- [Watch Live: Jay Clayton, Trump](https://www.cbsnews.com/news/jay-clayton-trumps-dni-nominee-senate-confirmation-hearing/?utm_source=lootura.com) — 2026-07-15T13:38:23.000Z
-- [Battle against data centers grows nationwide amid concerns over electricity, water usage](https://www.cbsnews.com/video/battle-against-data-centers-grows-nationwide/?utm_source=lootura.com) — 2026-07-15T13:28:19.000Z
+No public source links.
