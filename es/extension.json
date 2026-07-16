@@ -1,15 +1,15 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-16T13:50:18.768Z",
+  "generatedAt": "2026-07-16T15:19:53.493Z",
   "radar": {
     "id": "es",
     "slug": "es",
     "locale": "es"
   },
   "state": {
-    "signature": "1.16.0|4|1784209506103",
+    "signature": "1.16.0|5|1784209506103",
     "version": "1.16.0",
-    "build": 4,
+    "build": 5,
     "latestEntityUpdatedAt": "2026-07-16T13:45:06.103Z"
   },
   "atlas": {
@@ -21,7 +21,7 @@
       "url": "https://atlas.lootura.com/es/organization/el-tribunal",
       "path": "/es/organization/el-tribunal",
       "updatedAt": "2026-07-16T13:45:06.103Z",
-      "score": 1633,
+      "score": 1627,
       "sourceCount": 12,
       "isBreaking": false,
       "isPinned": false
@@ -35,7 +35,7 @@
         "url": "https://atlas.lootura.com/es/place/madrid",
         "path": "/es/place/madrid",
         "updatedAt": "2026-07-16T13:45:06.103Z",
-        "score": 1610,
+        "score": 1602,
         "sourceCount": 149,
         "isBreaking": false,
         "isPinned": false
@@ -48,7 +48,7 @@
         "url": "https://atlas.lootura.com/es/person/begona-gomez",
         "path": "/es/person/begona-gomez",
         "updatedAt": "2026-07-16T13:45:06.103Z",
-        "score": 1609,
+        "score": 1601,
         "sourceCount": 22,
         "isBreaking": false,
         "isPinned": false
@@ -61,7 +61,7 @@
         "url": "https://atlas.lootura.com/es/organization/guardia-civil",
         "path": "/es/organization/guardia-civil",
         "updatedAt": "2026-07-16T13:45:06.103Z",
-        "score": 1590,
+        "score": 1582,
         "sourceCount": 14,
         "isBreaking": false,
         "isPinned": false
@@ -74,7 +74,7 @@
         "url": "https://atlas.lootura.com/es/organization/el-gobierno",
         "path": "/es/organization/el-gobierno",
         "updatedAt": "2026-07-16T13:45:06.103Z",
-        "score": 1587,
+        "score": 1581,
         "sourceCount": 19,
         "isBreaking": false,
         "isPinned": false
