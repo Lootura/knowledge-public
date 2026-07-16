@@ -3,7 +3,7 @@
 > Sigue la actividad de Pedro Sánchez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-16T17:13:06.098Z
+- Actualizado: 2026-07-16T20:54:41.819Z
 - Canonical: https://atlas.lootura.com/es/person/pedro-sanchez
 
 ## Cambios recientes
@@ -26,6 +26,30 @@ El independentismo se ha mostrado exultante este jueves ante el fallo de la just
 
 Date: 2026-07-16
 
+### El DAO niega ante el juez presiones a la UCO y que les ordenase "ponerse de perfil" con la investigación del hermano de Pedro Sánchez
+
+Manuel Llamas enmarca las informaciones reservadas incoadas contra la UCO dentro del normal funcionamiento interno de la Guardia Civil. Leer.
+
+Date: 2026-07-16
+
+### Sánchez se ha enfurruñado
+
+Se ha enfadado el yerno de Sabiniano, el padre de Begoña, que hizo fortuna con el sudor y las lágrimas de los hombres y mujeres a los que explotaba en sus puticlubs y saunas sexuales. Ya sé que resulta cansino nombrar a su suegro cada vez que se menciona al presidente del Gobierno, pero es obligado repetir hasta la sac.
+
+Date: 2026-07-16
+
+### Paty, la hija de Quique Sánchez-Flores, da la bienvenida al mundo a Nicolás, su primer hijo: «Muy a mi pesar, terminó en cesárea»
+
+La familia Sánchez-Flores está de celebración. Paty Sánchez-Flores, hija del exfutbolista y entrenador Quique Sánchez Flores, ha dado la bienvenida a su primer hijo, un niño llamado Nicolás. La joven ha compartido la feliz noticia este 16 de julio a través de sus redes sociales, donde ha relatado cómo han sido las inte.
+
+Date: 2026-07-16
+
+### Feijóo acata el aval a la amnistía entre reproches a Sánchez: «Mintió y vendió a los españoles»
+
+El presidente del Partido Popular, Alberto Núñez Feijóo , ha subrayado este miércoles en Las Palmas de Gran Canaria que un demócrata «respeta las sentencias, todas las sentencias y de todos los tribunales » y, además, «no ordena a sus ministros salir a señalar a jueces con nombres y apellidos». Núñez Feijóo ha hecho es.
+
+Date: 2026-07-16
+
 ### Albert Sánchez, nuevo director general de Philip Morris para España, Andorra y Gibraltar
 
 Philip Morris International (PMI) ha designado a Albert Sánchez como nuevo director general de la compañía en España , Andorra y Gibraltar, cargo que entrará en vigor el próximo día 1 de agosto . De este modo, toma el relevo de Daniel Cuevas, quien, tras tres años liderando el negocio, ha sido designado presidente de l.
@@ -44,38 +68,12 @@ El Gobierno reitera que Begoña Gómez , la mujer del presidente Pedro Sánchez 
 
 Date: 2026-07-16
 
-### El DAO niega ante el juez presiones a la UCO y que les ordenase "ponerse de perfil" con la investigación del hermano de Pedro Sánchez
-
-Manuel Llamas enmarca las informaciones reservadas incoadas contra la UCO dentro del normal funcionamiento interno de la Guardia Civil. Leer.
-
-Date: 2026-07-16
-
-### El PP respeta el fallo del Tribunal, pero carga contra Sánchez: “Ningún presidente debe cambiar poder por impunidad”
-
-Tras l a decisión del Tribunal de Justicia de la Unión Europea (TJUE) de avalar la ley de amnistía , que zanja el debate jurídico, el Partido Popular ha tratado de reorientar su rechazo a la norma al terreno político y moral. Los populares han declarado su “respeto absoluto al fallo del Tribunal” en un breve comunicado.
-
-Date: 2026-07-16
-
-### Sánchez se ha enfurruñado
-
-Se ha enfadado el yerno de Sabiniano, el padre de Begoña, que hizo fortuna con el sudor y las lágrimas de los hombres y mujeres a los que explotaba en sus puticlubs y saunas sexuales. Ya sé que resulta cansino nombrar a su suegro cada vez que se menciona al presidente del Gobierno, pero es obligado repetir hasta la sac.
-
-Date: 2026-07-16
-
-### La condena de David Sánchez espolea al PSOE: “La derecha política y judicial está logrando el efecto contrario”
-
-“En la sentencia a David Sánchez hay un daño personal al presidente, pero el daño electoral es cero. Lo mismo que con su esposa. Sí que lo hubo con [José Luis] Ábalos, condenado a 24 años, pero los casos de la familia se han convertido en un ataque personal. Y podrían convertirse en un bumerán contra la derecha”, afirm.
-
-Date: 2026-07-16
-
 ## Fuentes
 
 - [El DAO niega ante el juez presiones a la UCO y que les ordenase "ponerse de perfil" con la investigación del hermano de Pedro Sánchez](https://www.elmundo.es/espana/2026/07/16/6a589907e85ece26028b45b3.html?utm_source=lootura.com) — 2026-07-16T16:23:11.000Z
 - [El Gobierno celebra la ley de amnistía como un “logro colectivo” que ha contribuido a recuperar “la convivencia y la reconciliación”](https://elpais.com/espana/2026-07-16/el-gobierno-celebra-que-la-ley-de-amnistia-es-constitucional-y-conforme-al-derecho-europeo.html?utm_source=lootura.com) — 2026-07-16T10:06:55.000Z
 - [La Audiencia de Madrid avala que la causa contra Begoña Gómez siga adelante por jurado por dos delitos](https://elpais.com/espana/2026-07-16/la-audiencia-de-madrid-avala-que-la-causa-contra-begona-gomez-siga-adelante-por-jurado-por-dos-delitos.html?utm_source=lootura.com) — 2026-07-16T15:21:22.000Z
-- [El PP respeta el fallo del Tribunal, pero carga contra Sánchez: “Ningún presidente debe cambiar poder por impunidad”](https://elpais.com/espana/2026-07-16/el-pp-respeta-el-fallo-del-tribunal-pero-carga-contra-sanchez-ningun-presidente-debe-cambiar-poder-por-impunidad.html?utm_source=lootura.com) — 2026-07-16T09:20:49.000Z
 - [Puigdemont enfría un regreso inminente a España: “El camino para acabar con la represión no ha terminado”](https://elpais.com/espana/catalunya/2026-07-16/jordi-turull-el-tc-no-se-puede-ir-de-vacaciones-teniendo-a-gente-a-la-que-se-le-vulneran-derechos-fundamentales.html?utm_source=lootura.com) — 2026-07-16T12:10:59.000Z
 - [Sánchez se ha enfurruñado](https://okdiario.com/opinion/sanchez-enfurrunado-19010738?utm_source=lootura.com) — 2026-07-16T17:00:38.000Z
-- [Albert Sánchez, nuevo director general de Philip Morris para España, Andorra y Gibraltar](https://theobjective.com/economia/2026-07-16/albert-sanchez-philip-morris-espana/?utm_source=lootura.com) — 2026-07-16T11:52:55.000Z
-- [Gonzalo Sánchez, reelegido presidente de PwC hasta 2031](https://theobjective.com/economia/2026-07-16/gonzalo-sanchez-reelegido-presidente-pwc-2031/?utm_source=lootura.com) — 2026-07-16T13:09:03.000Z
-- [El Gobierno tilda de «causa política» el juicio contra Gómez tras la decisión de la Audiencia](https://theobjective.com/espana/politica/2026-07-16/gobierno-causa-politica-juicio-gomez-audiencia/?utm_source=lootura.com) — 2026-07-16T12:56:16.000Z
+- [Paty, la hija de Quique Sánchez-Flores, da la bienvenida al mundo a Nicolás, su primer hijo: «Muy a mi pesar, terminó en cesárea»](https://okdiario.com/cool/famosos/paty-hija-quique-sanchez-flores-da-bienvenida-mundo-nicolas-primer-hijo-muy-pesar-termino-cesarea-19012625?utm_source=lootura.com) — 2026-07-16T20:01:35.000Z
+- [Feijóo acata el aval a la amnistía entre reproches a Sánchez: «Mintió y vendió a los españoles»](https://theobjective.com/espana/politica/2026-07-16/feijoo-amnistia-sanchez-mintio-vendio-espanoles/?utm_source=lootura.com) — 2026-07-16T19:44:14.000Z

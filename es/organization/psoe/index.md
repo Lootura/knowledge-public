@@ -3,7 +3,7 @@
 > Sigue la actividad de Partido Socialista Obrero Español en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-16T17:13:06.098Z
+- Actualizado: 2026-07-16T20:54:41.819Z
 - Canonical: https://atlas.lootura.com/es/organization/psoe
 
 ## Cambios recientes
@@ -71,4 +71,3 @@ Date: 2026-07-15
 ## Fuentes
 
 - [La directora de la Guardia Civil declara como imputada en el 'caso cloacas del PSOE' por obstrucción a la Justicia](https://www.elmundo.es/espana/2026/07/15/6a57ddb9fc6c838e4d8b45a4.html?utm_source=lootura.com) — 2026-07-16T08:21:52.000Z
-- [El PSOE extremeño dice que el informe sobre Almaraz «allana el camino para su continuidad»](https://theobjective.com/espana/politica/2026-07-16/psoe-extremeno-informe-almaraz/?utm_source=lootura.com) — 2026-07-16T12:47:41.000Z

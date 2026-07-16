@@ -3,7 +3,7 @@
 > Sigue la actividad de Artificial intelligence en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: topic
-- Actualizado: 2026-07-16T17:13:06.098Z
+- Actualizado: 2026-07-16T20:54:41.819Z
 - Canonical: https://atlas.lootura.com/es/topic/artificial-intelligence
 
 ## Cambios recientes
@@ -40,4 +40,4 @@ Date: 2026-07-10
 
 ## Fuentes
 
-- [Bruselas fuerza a Google a abrir Android a asistentes de inteligencia artificial de la competencia](https://elpais.com/economia/2026-07-16/bruselas-fuerza-a-google-a-abrir-android-a-asistentes-de-inteligencia-artificial-de-la-competencia.html?utm_source=lootura.com) — 2026-07-16T12:17:23.000Z
+- [Apple pisa el acelerador con el iPad mini con pantalla OLED, que llegará este mismo año](https://hipertextual.com/apple/apple-pisa-acelerador-ipad-mini-oled/?utm_source=lootura.com) — 2026-07-16T16:35:00.000Z

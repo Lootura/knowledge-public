@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/ukraine/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/ukraine/index.json",
   "description": "Follow Ukraine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-16T17:13:33.353Z",
+  "updatedAt": "2026-07-16T20:55:05.764Z",
   "aliases": [
     "Kyiv"
   ],
@@ -16,6 +16,21 @@
     {
       "title": "Ukrainian's Zelenskyy faces major backlash for ousting defense chief Mykhailo Fedorov amid progress vs. Russia",
       "summary": "Ukrainians are demonstrating in Kyiv and senior figures announcing their resignations over President Volodymyr Zelenksyy's move to oust his popular defense chief.",
+      "date": "2026-07-16"
+    },
+    {
+      "title": "Ukrainians protest Zelenskyy's ouster of his popular defense minister",
+      "summary": "President Volodymyr Zelenskyy shook up his wartime government, drawing thousands into the streets Thursday across Ukraine to protest the ouster of his youthful defense minister — seen as an innovator of the country's successful drone technology but who clashed with the traditional military establishment.",
+      "date": "2026-07-16"
+    },
+    {
+      "title": "Ukraine Was on a Roll. Then a Clash Over War Strategy Exploded Into View.",
+      "summary": "From an underground parking garage, Ukraine’s newly dismissed defense minister aired the most dramatic, public critique of the military command to emerge during the war.",
+      "date": "2026-07-16"
+    },
+    {
+      "title": "Meet Sergii Koretskyi, Ukraine’s New Prime Minister After Major Government Reshuffle",
+      "summary": "Sergii Koretskyi speaks during a briefing with government officials in Kyiv, Ukraine, on March 5, 2026. —Danylo Antoniuk/Ukrinform—Getty Images Sergii Koretskyi was confirmed as Ukraine’s new Prime Minister on Thursday as part of a government reshuffle led by President Volodymyr Zelensky . Koretskyi's appointment , bac.",
       "date": "2026-07-16"
     },
     {
@@ -47,21 +62,6 @@
       "title": "Ukrainians protest over Zelenskyy's move to oust popular defense chief",
       "summary": "Ukrainians are demonstrating in Kyiv and senior figures announcing their resignations over President Volodymyr Zelenksyy's move to oust his popular defense chief.",
       "date": "2026-07-16"
-    },
-    {
-      "title": "Dismissal of Ukraine's popular defense minister draws intense criticism",
-      "summary": "As Ukraine signs drone deals and awaits licenses for Patriot missiles, the country's popular, tech-savvy defense minister, who helped Ukraine turn the tables on Russia through drone warfare, is fired.",
-      "date": "2026-07-16"
-    },
-    {
-      "title": "Ukraine Pounds Russian Ships in Its Campaign to Cut Off Crimea",
-      "summary": "After striking roads and railways, Kyiv is now focusing on sea routes as it tries to disrupt fuel supplies and pressure Russia to end the war.",
-      "date": "2026-07-15"
-    },
-    {
-      "title": "Europe, Flexing Muscle in Ukraine, Is Still on Sidelines in Iran",
-      "summary": "In a show of collective strength, President Emmanuel Macron of France hosted European allies at the annual Bastille Day parade in Paris. Yet Europe is still a hostage to America’s foreign policy.",
-      "date": "2026-07-14"
     }
   ],
   "sources": [
@@ -72,17 +72,23 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "Ukraine’s Ousted Defense Minister Attacks the Military’s Old Guard",
-      "url": "https://www.nytimes.com/2026/07/16/world/europe/ukraine-fedorov-protests.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-16T16:19:50.000Z",
-      "sourceId": "lootura-us-the-new-york-times-world"
+      "title": "Ukrainians protest Zelenskyy's ouster of his popular defense minister",
+      "url": "https://www.pbs.org/newshour/world/ukrainians-protest-zelenskyys-ouster-of-his-popular-defense-minister?utm_source=lootura.com",
+      "publishedAt": "2026-07-16T17:21:53.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
     },
     {
-      "title": "The Essentials About Mykhailo Fedorov, the Ousted Ukrainian Minister",
-      "url": "https://www.nytimes.com/2026/07/16/world/europe/who-mykhailo-fedorov-ukraine-defense-minister.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-16T15:34:12.000Z",
-      "sourceId": "lootura-us-the-new-york-times-world"
+      "title": "Ukraine Was on a Roll. Then a Clash Over War Strategy Exploded Into View.",
+      "url": "https://www.nytimes.com/2026/07/16/world/europe/ukraine-military-defense-minister-drones.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-16T20:02:43.000Z",
+      "sourceId": "lootura-us-the-new-york-times"
+    },
+    {
+      "title": "Meet Sergii Koretskyi, Ukraine’s New Prime Minister After Major Government Reshuffle",
+      "url": "https://time.com/article/2026/07/16/meet-sergii-koretskyi-ukraine-new-prime-minister-energy-official-zelensky/?utm_source=lootura.com",
+      "publishedAt": "2026-07-16T20:26:59.000Z",
+      "sourceId": "lootura-us-time"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 4
 }

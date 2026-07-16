@@ -3,7 +3,7 @@
 > Sigue la actividad de China en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-16T13:45:06.103Z
+- Actualizado: 2026-07-16T20:54:41.819Z
 - Canonical: https://atlas.lootura.com/es/place/china
 
 ## Cambios recientes
@@ -70,4 +70,4 @@ Date: 2026-07-14
 
 ## Fuentes
 
-No public source links.
+- [Kimi K3: así es la nueva IA china que pone en apuros a Claude Opus 4.8 y GPT-5.5](https://hipertextual.com/inteligencia-artificial/kimi-k3-nueva-ia-moonshot/?utm_source=lootura.com) — 2026-07-16T20:32:22.000Z

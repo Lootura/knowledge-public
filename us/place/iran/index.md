@@ -3,16 +3,10 @@
 > Follow Iran, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-16T17:13:33.353Z
+- Updated: 2026-07-16T20:55:05.764Z
 - Canonical: https://atlas.lootura.com/us/place/iran
 
 ## Recent changes
-
-### Trump's Iran notice aims to reset war powers clock amid growing political risks
-
-The Trump administration's notification to restart the war with Iran aims to reset a 60-day clock for military action, but questions are mounting about public support as midterms approach.
-
-Date: 2026-07-16
 
 ### Diesel Prices Hit $5 a Gallon Again, Up 33% Since Start of Iran War
 
@@ -29,6 +23,24 @@ Date: 2026-07-16
 ### How the NYT Reported on Khamenei’s Funeral in Iran
 
 Our correspondent talked about the challenges of covering major news while under surveillance and filing his work without reliable internet access.
+
+Date: 2026-07-16
+
+### Karoline Leavitt answers questions on Trump's primetime speech, new Iran strikes
+
+White House press secretary Karoline Leavitt spoke to reporters Thursday about President Trump's upcoming primetime speech, the latest strikes against Iran and more.
+
+Date: 2026-07-16
+
+### On the War Against Iran, the Pentagon Has Said Little
+
+Defense Secretary Pete Hegseth has spoken about a range of issues in recent days — from testosterone to leak investigations — but he has said little about the war.
+
+Date: 2026-07-16
+
+### Trump's Iran notice aims to reset war powers clock amid growing political risks
+
+The Trump administration's notification to restart the war with Iran aims to reset a 60-day clock for military action, but questions are mounting about public support as midterms approach.
 
 Date: 2026-07-16
 
@@ -56,21 +68,10 @@ Fracking billionaire Harold Hamm is co-chair of a non-profit that has aggressive
 
 Date: 2026-07-16
 
-### In Iran war, Trump Risks Another American ‘Forever War’
-
-President Trump, who promised to “end wars,” not start them, may have fallen into a familiar presidential trap.
-
-Date: 2026-07-16
-
-### U.S. Military Again Blockades Iranian Ports After Collapse of Cease-Fire
-
-President Trump ordered U.S. warships and aircraft to stop vessels going to and from Iran. Enforcing a blockade takes a huge commitment of warships and aircraft.
-
-Date: 2026-07-15
-
 ## Sources
 
+- [Watch: Karoline Leavitt answers questions on Trump's primetime speech, new Iran strikes](https://www.cbsnews.com/video/karoline-leavitt-answers-questions-ahead-of-trumps-speech-on-election-integrity/?utm_source=lootura.com) — 2026-07-16T20:06:39.000Z
 - [H.R. McMaster on the U.S.-Iran feud over the Strait of Hormuz](https://www.cbsnews.com/video/hr-mcmaster-on-u-s-iran-feud-over-strait-of-hormuz/?utm_source=lootura.com) — 2026-07-16T16:01:26.000Z
-- [Trump's Iran notice aims to reset war powers clock amid growing political risks](https://www.npr.org/2026/07/16/nx-s1-5894928/trumps-iran-notice-aims-to-reset-war-powers-clock-amid-growing-political-risks?utm_source=lootura.com) — 2026-07-16T08:43:30.000Z
 - [Diesel Prices Hit $5 a Gallon Again, Up 33% Since Start of Iran War](https://www.nytimes.com/2026/07/16/business/diesel-prices-us-iran-war.html?utm_source=lootura.com) — 2026-07-16T11:51:15.000Z
 - [How the NYT Reported on Khamenei’s Funeral in Iran](https://www.nytimes.com/2026/07/16/insider/iran-funeral-coverage.html?utm_source=lootura.com) — 2026-07-16T16:46:32.000Z
+- [On the War Against Iran, the Pentagon Has Said Little](https://www.nytimes.com/2026/07/16/us/politics/hegseth-iran-war-briefings.html?utm_source=lootura.com) — 2026-07-16T20:33:25.000Z

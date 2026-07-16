@@ -2,8 +2,8 @@
 
 > Sigue la actividad de El Gobierno en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
-- Type: person
-- Actualizado: 2026-07-16T17:13:06.098Z
+- Type: organization
+- Actualizado: 2026-07-16T20:54:41.819Z
 - Canonical: https://atlas.lootura.com/es/organization/el-gobierno
 
 ## Cambios recientes
@@ -14,15 +14,15 @@ El ministro de la Presidencia, Justicia y Relaciones con las Cortes, Félix Bola
 
 Date: 2026-07-16
 
-### EE UU impone nuevos aranceles del 25% a gran parte de productos brasileños y acusa a Lula de no negociar “de buena fe”
-
-El Gobierno del presidente de Estados Unidos, Donald Trump, ha ordenado la imposición de un nuevo arancel del 25% sobre la mayor parte de productos brasileños importados desde este país, con fecha de aplicación a partir del 22 de julio. Es la conclusión de una investigación que acusaba a Brasil de competencia desleal.
-
-Date: 2026-07-16
-
 ### El Gobierno celebra la ley de amnistía como un “logro colectivo” que ha contribuido a recuperar “la convivencia y la reconciliación”
 
 La ley de amnistía, la clave de bóveda de la legislatura que posibilitó la investidura de Pedro Sánchez y al mismo tiempo le ha supuesto un enorme desgaste al Gobierno, ha recibido el espaldarazo de la justicia europea más de dos años después de que fuese aprobada en el Congreso. El respaldo del Tribunal de Justicia de.
+
+Date: 2026-07-16
+
+### EE UU impone nuevos aranceles del 25% a gran parte de productos brasileños y acusa a Lula de no negociar “de buena fe”
+
+El Gobierno del presidente de Estados Unidos, Donald Trump, ha ordenado la imposición de un nuevo arancel del 25% sobre la mayor parte de productos brasileños importados desde este país, con fecha de aplicación a partir del 22 de julio. Es la conclusión de una investigación que acusaba a Brasil de competencia desleal.
 
 Date: 2026-07-16
 
@@ -70,8 +70,5 @@ Date: 2026-07-15
 
 ## Fuentes
 
-- [Un incendio en La Mierla y otro en Lozoyuela, ambos de nivel dos, obligan a desalojar a los vecinos](https://www.20minutos.es/nacional/incendios-espana-directo-castilla-macha-pide-ayuda-ume-por-fuego-guadalajara-que-avanza-30-metros-por-minuto_7015589_6.html?utm_source=lootura.com) — 2026-07-16T16:07:19.000Z
-- [EE UU impone nuevos aranceles del 25% a gran parte de productos brasileños y acusa a Lula de no negociar “de buena fe”](https://elpais.com/economia/2026-07-16/estados-unidos-impone-nuevos-aranceles-del-25-a-la-mayor-parte-de-productos-brasilenos-y-acusa-a-lula-de-no-negociar-de-buena-fe.html?utm_source=lootura.com) — 2026-07-16T12:29:57.000Z
 - [El Gobierno celebra la ley de amnistía como un “logro colectivo” que ha contribuido a recuperar “la convivencia y la reconciliación”](https://elpais.com/espana/2026-07-16/el-gobierno-celebra-que-la-ley-de-amnistia-es-constitucional-y-conforme-al-derecho-europeo.html?utm_source=lootura.com) — 2026-07-16T10:06:55.000Z
 - [Ley de Amnistía por TJUE, en directo | El Gobierno celebra que la ley de amnistía “es constitucional y conforme al derecho europeo”](https://elpais.com/espana/2026-07-16/ultima-hora-de-la-sentencia-de-ley-de-amnistia-por-el-tjue-y-el-futuro-de-puigdemont-en-directo.html?utm_source=lootura.com) — 2026-07-16T10:01:27.000Z
-- [El Gobierno tilda de «causa política» el juicio contra Gómez tras la decisión de la Audiencia](https://theobjective.com/espana/politica/2026-07-16/gobierno-causa-politica-juicio-gomez-audiencia/?utm_source=lootura.com) — 2026-07-16T12:56:16.000Z

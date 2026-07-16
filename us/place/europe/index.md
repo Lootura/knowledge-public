@@ -70,4 +70,4 @@ Date: 2026-07-12
 
 ## Sources
 
-- [Devastating Asian beetle detected in EU for first time](https://phys.org/news/2026-07-devastating-asian-beetle-eu.html?utm_source=lootura.com) — 2026-07-16T16:20:01.000Z
+No public source links.

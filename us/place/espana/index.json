@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/espana/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/espana/index.json",
   "description": "Follow Spain, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-16T17:13:33.353Z",
+  "updatedAt": "2026-07-16T20:55:05.764Z",
   "aliases": [
     "Estado español",
     "Spain"
   ],
   "changes": [
+    {
+      "title": "Deadly helicopter crash in Hudson River likely caused by bird strike, NTSB says",
+      "summary": "A family of five from Spain, including three children, and the pilot died in the April 2025 crash.",
+      "date": "2026-07-16"
+    },
     {
       "title": "Man describes harrowing escape from wildfire that killed wife and friends",
       "summary": "A last minute decision meant Malcolm Timbrell survived one of Spain's deadliest wildfires ever, but his wife and friends were trapped by a wall of flames.",
@@ -61,7 +66,13 @@
       "url": "https://www.cbsnews.com/video/who-will-win-the-world-cup-spain-or-argentina/?utm_source=lootura.com",
       "publishedAt": "2026-07-16T13:28:44.000Z",
       "sourceId": "lootura-us-cbs-news"
+    },
+    {
+      "title": "Deadly helicopter crash in Hudson River likely caused by bird strike, NTSB says",
+      "url": "https://www.cbsnews.com/news/new-york-helicopter-crash-hudson-river-bird-strike-ntsb/?utm_source=lootura.com",
+      "publishedAt": "2026-07-16T20:28:10.000Z",
+      "sourceId": "lootura-us-cbs-news"
     }
   ],
-  "evidenceCount": 0
+  "evidenceCount": 1
 }

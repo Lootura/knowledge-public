@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/psoe/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/psoe/index.json",
   "description": "Sigue la actividad de Partido Socialista Obrero Español en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-16T17:13:06.098Z",
+  "updatedAt": "2026-07-16T20:54:41.819Z",
   "aliases": [
     "Partido Socialista",
     "Partido Socialista Obrero Español"
@@ -71,13 +71,7 @@
       "url": "https://www.elmundo.es/espana/2026/07/15/6a57ddb9fc6c838e4d8b45a4.html?utm_source=lootura.com",
       "publishedAt": "2026-07-16T08:21:52.000Z",
       "sourceId": "lootura-es-el-mundo"
-    },
-    {
-      "title": "El PSOE extremeño dice que el informe sobre Almaraz «allana el camino para su continuidad»",
-      "url": "https://theobjective.com/espana/politica/2026-07-16/psoe-extremeno-informe-almaraz/?utm_source=lootura.com",
-      "publishedAt": "2026-07-16T12:47:41.000Z",
-      "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

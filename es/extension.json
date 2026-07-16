@@ -1,16 +1,16 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-16T17:18:25.492Z",
+  "generatedAt": "2026-07-16T20:59:37.430Z",
   "radar": {
     "id": "es",
     "slug": "es",
     "locale": "es"
   },
   "state": {
-    "signature": "1.16.0|6|1784221986098",
+    "signature": "1.16.0|7|1784235281819",
     "version": "1.16.0",
-    "build": 6,
-    "latestEntityUpdatedAt": "2026-07-16T17:13:06.098Z"
+    "build": 7,
+    "latestEntityUpdatedAt": "2026-07-16T20:54:41.819Z"
   },
   "atlas": {
     "hero": {
@@ -20,9 +20,9 @@
       "title": "La Audiencia de Madrid avala que la causa contra Begoña Gómez siga adelante por jurado por dos delitos",
       "url": "https://atlas.lootura.com/es/person/begona-gomez",
       "path": "/es/person/begona-gomez",
-      "updatedAt": "2026-07-16T17:13:06.098Z",
-      "score": 1582,
-      "sourceCount": 22,
+      "updatedAt": "2026-07-16T20:54:41.819Z",
+      "score": 1598,
+      "sourceCount": 23,
       "isBreaking": false,
       "isPinned": false
     },
@@ -34,9 +34,9 @@
         "title": "La Audiencia de Madrid avala que la causa contra Begoña Gómez siga adelante por jurado por dos delitos",
         "url": "https://atlas.lootura.com/es/place/madrid",
         "path": "/es/place/madrid",
-        "updatedAt": "2026-07-16T17:13:06.098Z",
-        "score": 1579,
-        "sourceCount": 152,
+        "updatedAt": "2026-07-16T20:54:41.819Z",
+        "score": 1585,
+        "sourceCount": 159,
         "isBreaking": false,
         "isPinned": false
       },
@@ -47,39 +47,39 @@
         "title": "La Audiencia de Madrid avala que la causa contra Begoña Gómez siga adelante por jurado por dos delitos",
         "url": "https://atlas.lootura.com/es/person/pedro-sanchez",
         "path": "/es/person/pedro-sanchez",
-        "updatedAt": "2026-07-16T17:13:06.098Z",
-        "score": 1553,
-        "sourceCount": 148,
+        "updatedAt": "2026-07-16T20:54:41.819Z",
+        "score": 1562,
+        "sourceCount": 150,
         "isBreaking": false,
         "isPinned": false
       },
       {
-        "id": "es-el-gobierno",
-        "name": "El Gobierno",
+        "id": "es-juan-carlos-peinado",
+        "name": "Juan Carlos Peinado",
         "type": "person",
-        "title": "El Gobierno pide que se aplique la amnistía tras el \"éxito\" en el TJUE y poner fin a un debate que en España \"no fue jurídico, sino visceral\"",
-        "url": "https://atlas.lootura.com/es/organization/el-gobierno",
-        "path": "/es/organization/el-gobierno",
-        "updatedAt": "2026-07-16T17:13:06.098Z",
-        "score": 1531,
-        "sourceCount": 20,
+        "title": "La Audiencia de Madrid avala que la causa contra Begoña Gómez siga adelante por jurado por dos delitos",
+        "url": "https://atlas.lootura.com/es/person/juan-carlos-peinado",
+        "path": "/es/person/juan-carlos-peinado",
+        "updatedAt": "2026-07-16T20:54:41.819Z",
+        "score": 1540,
+        "sourceCount": 7,
         "isBreaking": false,
         "isPinned": false
       },
       {
-        "id": "es-espana",
-        "name": "España",
-        "type": "place",
-        "title": "Puigdemont enfría un regreso inminente a España: “El camino para acabar con la represión no ha terminado”",
-        "url": "https://atlas.lootura.com/es/place/espana",
-        "path": "/es/place/espana",
-        "updatedAt": "2026-07-16T17:13:06.098Z",
+        "id": "es-la-audiencia-provincial",
+        "name": "La Audiencia Provincial",
+        "type": "person",
+        "title": "La Audiencia de Madrid avala que la causa contra Begoña Gómez siga adelante por jurado por dos delitos",
+        "url": "https://atlas.lootura.com/es/person/la-audiencia-provincial",
+        "path": "/es/person/la-audiencia-provincial",
+        "updatedAt": "2026-07-16T20:54:41.819Z",
         "score": 1531,
-        "sourceCount": 292,
+        "sourceCount": 12,
         "isBreaking": false,
         "isPinned": false
       }
     ],
-    "publicEntityCount": 43
+    "publicEntityCount": 41
   }
 }

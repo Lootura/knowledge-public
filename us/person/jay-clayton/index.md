@@ -40,5 +40,4 @@ Date: 2026-07-15
 
 ## Sources
 
-- [Lawmakers grill national intelligence director nominee at confirmation hearing](https://www.npr.org/2026/07/16/nx-s1-5894893/lawmakers-grill-national-intelligence-director-nominee-at-confirmation-hearing?utm_source=lootura.com) — 2026-07-16T08:41:11.000Z
-- [Clayton Dodges Question on 2020 Election, and Democrats Call Him on It](https://www.nytimes.com/2026/07/15/us/politics/jay-clayton-confirmation-hearing-director-national-intelligence.html?utm_source=lootura.com) — 2026-07-15T21:50:43.000Z
+No public source links.

@@ -3,7 +3,7 @@
 > Sigue la actividad de España en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-16T17:13:06.098Z
+- Actualizado: 2026-07-16T20:54:41.819Z
 - Canonical: https://atlas.lootura.com/es/place/espana
 
 ## Cambios recientes
@@ -14,33 +14,9 @@ El independentismo se ha mostrado exultante este jueves ante el fallo de la just
 
 Date: 2026-07-16
 
-### Gran formato a precio de derribo: Xiaomi lanza en Europa su nuevo televisor de 75 pulgadas con tecnología Mini-LED
-
-El nuevo Xiaomi TV FX Mini-LED de gran diagonal desembarca por 849 euros en mercados vecinos a la espera de su llegada a España y apostando por el ecosistema Fire TV de Amazon.
-
-Date: 2026-07-16
-
-### Albert Sánchez, nuevo director general de Philip Morris para España, Andorra y Gibraltar
-
-Philip Morris International (PMI) ha designado a Albert Sánchez como nuevo director general de la compañía en España , Andorra y Gibraltar, cargo que entrará en vigor el próximo día 1 de agosto . De este modo, toma el relevo de Daniel Cuevas, quien, tras tres años liderando el negocio, ha sido designado presidente de l.
-
-Date: 2026-07-16
-
-### Gonzalo Sánchez, reelegido presidente de PwC hasta 2031
-
-La Junta de Socios de PwC España ha reelegido hoy a Gonzalo Sánchez presidente de la Firma para un nuevo mandato hasta 2031, en una reelección que ha sido realizada mediante un sistema de votación secreta, único entre las firmas de socios. La renovación supone el reconocimiento a su gestión al frente de PwC, dando cont.
-
-Date: 2026-07-16
-
 ### Burger King elimina de su carta el menú de El Xocas tras las polémicas del 'streamer'
 
 En un movimiento inesperado y en medio de una intensa presión en las redes sociales, Burger King España parece haber retirado de su catálogo el menú.
-
-Date: 2026-07-16
-
-### Luces y sombras en el estreno de Digi en Bolsa: empezó la jornada con una caída del 7% y acabó con un batacazo del 8%
-
-El tradicional toque de campana del Palacio de la Bolsa de Madrid ha anunciado este mediodía la cotización de Digi Spain Telecom, la filial española del Grupo Digi , en el Mercado Continuo. La empresa ha debutado a un precio de 6 euros por acción, lo que supone una subida del 7% en los primeros minutos. La operación, a.
 
 Date: 2026-07-16
 
@@ -68,15 +44,38 @@ El buque escuela Juan Sebastián Elcano no asistió a la ceremonia al encontrars
 
 Date: 2026-07-16
 
+### Qué pasa tras la sentencia del Tribunal de Justicia de la UE sobre la amnistía
+
+Carles Puigdemont está más cerca de volver a España... pero todavía no es definitivo su regreso pese a que este jueves la justicia europea avalara la ley de amnistía . Falta todavía una parte del camino porque la sentencia del TJUE simplemente devuelve la pelota a los tribunales nacionales, que serán los que decidan so.
+
+Date: 2026-07-16
+
+### Luces y sombras en el estreno de Digi en Bolsa: empezó la jornada con una subida del 7% y acabó con un batacazo del 8%
+
+El tradicional toque de campana del Palacio de la Bolsa de Madrid ha anunciado este mediodía la cotización de Digi Spain Telecom, la filial española del Grupo Digi , en el mercado continuo. Los títulos de la empresa debutaron a un precio de 5,6 euros por acción (equivalente a una valoración de 1.662 millones) y en los.
+
+Date: 2026-07-16
+
+### Gran formato a precio de derribo: Xiaomi lanza en Europa su nuevo televisor de 75 pulgadas con tecnología Mini-LED
+
+El nuevo Xiaomi TV FX Mini-LED de gran diagonal desembarca por 849 euros en mercados vecinos a la espera de su llegada a España y apostando por el ecosistema Fire TV de Amazon.
+
+Date: 2026-07-16
+
+### Albert Sánchez, nuevo director general de Philip Morris para España, Andorra y Gibraltar
+
+Philip Morris International (PMI) ha designado a Albert Sánchez como nuevo director general de la compañía en España , Andorra y Gibraltar, cargo que entrará en vigor el próximo día 1 de agosto . De este modo, toma el relevo de Daniel Cuevas, quien, tras tres años liderando el negocio, ha sido designado presidente de l.
+
+Date: 2026-07-16
+
 ## Fuentes
 
-- [La Junta Electoral exige justificar en qué provincia se inscribe al nacionalizado por la ley de nietos para "garantizar la transparencia"](https://www.20minutos.es/nacional/junta-electoral-exige-motivar-provincia-inscripcion-nacionalizado-por-ley-nietos-para-garantizar-transparencia_7015506_0.html?utm_source=lootura.com) — 2026-07-16T13:46:46.000Z
-- [Luces y sombras en el estreno de Digi en Bolsa: empezó la jornada con una caída del 7% y acabó con un batacazo del 8%](https://www.abc.es/economia/digi-estrena-hoy-bolsa-espanola-20260716094030-nt.html?utm_source=lootura.com) — 2026-07-16T16:37:58.000Z
+- [Qué pasa tras la sentencia del Tribunal de Justicia de la UE sobre la amnistía](https://www.20minutos.es/nacional/que-pasa-tras-sentencia-tjue-sobre-amnistia-puigdemont-mas-cerca-volver-pero-deciden-constitucional-supremo_7015368_0.html?utm_source=lootura.com) — 2026-07-16T17:10:30.000Z
+- [Luces y sombras en el estreno de Digi en Bolsa: empezó la jornada con una subida del 7% y acabó con un batacazo del 8%](https://www.abc.es/economia/digi-estrena-hoy-bolsa-espanola-20260716094030-nt.html?utm_source=lootura.com) — 2026-07-16T18:00:51.000Z
 - [Digi cede un 8% en su debut a pesar de su arranque con fuertes alzas](https://cincodias.elpais.com/mercados-financieros/2026-07-16/digi-se-prepara-para-debutar-en-bolsa-con-fuertes-subidas-a-pesar-de-las-tensiones-geopoliticas.html?utm_source=lootura.com) — 2026-07-16T16:08:03.000Z
 - [La cifra de muertes por calor en Bizkaia desde mayo duplica a la de todo el verano pasado](https://www.elcorreo.com/sociedad/cifra-muertes-calor-bizkaia-mayo-duplica-verano-20260715005400-nt_amp.html?utm_source=lootura.com) — 2026-07-15T22:54:01.000Z
 - [Puigdemont enfría un regreso inminente a España: “El camino para acabar con la represión no ha terminado”](https://elpais.com/espana/catalunya/2026-07-16/jordi-turull-el-tc-no-se-puede-ir-de-vacaciones-teniendo-a-gente-a-la-que-se-le-vulneran-derechos-fundamentales.html?utm_source=lootura.com) — 2026-07-16T12:10:59.000Z
-- [Gran formato a precio de derribo: Xiaomi lanza en Europa su nuevo televisor de 75 pulgadas con tecnología Mini-LED](https://www.larazon.es/tecnologia-consumo/xiaomi/gran-formato-precio-derribo-xiaomi-lanza-europa-su-nuevo-televisor-75-pulgadas-tecnologia-mini-led_202607166a58a02e0500ab412c9852cc.html?utm_source=lootura.com) — 2026-07-16T13:45:00.000Z
 - [Incendios de Aragón, en directo: última hora de la evacuación de Uncastillo y otros cuatros pueblos de Zaragoza](https://www.larazon.es/sociedad/incendio-ores-aragon-ultima-hora-pueblos-evacuados-avance-fuego_202607166a58f1ea1db8de04099258d4.html?outputType=amp&utm_source=lootura.com) — 2026-07-16T17:10:20.000Z
 - [España asume el liderazgo de la fuerza naval de la OTAN con maniobras junto a Japón y Canadá](https://theobjective.com/espana/2026-07-16/espana-otan-japon-canada/?utm_source=lootura.com) — 2026-07-16T15:56:32.000Z
 - [Felipe VI entrega los despachos de la Armada a 125 nuevos oficiales en un acto sin Elcano](https://theobjective.com/espana/2026-07-16/felipe-vi-despachos-armada/?amp=&utm_source=lootura.com) — 2026-07-16T17:12:38.000Z
-- [Albert Sánchez, nuevo director general de Philip Morris para España, Andorra y Gibraltar](https://theobjective.com/economia/2026-07-16/albert-sanchez-philip-morris-espana/?utm_source=lootura.com) — 2026-07-16T11:52:55.000Z
+- [Burger King elimina de su carta el menú de El Xocas tras las polémicas del 'streamer'](https://theobjective.com/gente/2026-07-16/burger-king-elimina-menu-xocas-polemicas-streamer/?amp=&utm_source=lootura.com) — 2026-07-16T13:39:16.000Z

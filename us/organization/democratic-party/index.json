@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/democratic-party/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/democratic-party/index.json",
   "description": "Follow Democratic Party, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-16T17:13:33.353Z",
+  "updatedAt": "2026-07-16T20:55:05.764Z",
   "aliases": [
     "Democrats"
   ],
@@ -66,18 +66,6 @@
   ],
   "sources": [
     {
-      "title": "Clayton Dodges Question on 2020 Election, and Democrats Call Him on It",
-      "url": "https://www.nytimes.com/2026/07/15/us/politics/jay-clayton-confirmation-hearing-director-national-intelligence.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-15T21:50:43.000Z",
-      "sourceId": "lootura-us-the-new-york-times"
-    },
-    {
-      "title": "Almost Half of House Democrats Vote to End Aid to Israel",
-      "url": "https://www.nytimes.com/2026/07/15/us/politics/democrats-house-israel-vote-aid.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-15T21:42:59.000Z",
-      "sourceId": "lootura-us-the-new-york-times"
-    },
-    {
       "title": "Wildfire Smoke Turns Skies Orange Across the U.S., and Democrats Make a Big Shift on Israel",
       "url": "https://www.nytimes.com/2026/07/16/podcasts/the-headlines/wildfire-smoke-democrats-israel.html?utm_source=lootura.com",
       "publishedAt": "2026-07-16T10:00:15.000Z",
@@ -90,5 +78,5 @@
       "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 4
+  "evidenceCount": 2
 }

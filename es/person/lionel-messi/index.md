@@ -3,7 +3,7 @@
 > Sigue la actividad de Lionel Messi en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-16T17:13:06.098Z
+- Actualizado: 2026-07-16T20:54:41.819Z
 - Canonical: https://atlas.lootura.com/es/person/lionel-messi
 
 ## Cambios recientes
@@ -34,5 +34,5 @@ Date: 2026-07-15
 
 ## Fuentes
 
-- [Los niños de Messi van a por su corona](https://www.abc.es/deportes/futbol/mundial/ninos-messi-van-corona-20260716132452-ntrc.html?utm_source=lootura.com) — 2026-07-16T16:53:21.000Z
+- [Los niños de Messi van a por su corona](https://www.abc.es/deportes/futbol/mundial/ninos-messi-van-corona-20260716132452-ntrc.html?utm_source=lootura.com) — 2026-07-16T18:14:51.000Z
 - [La intrahistoria de las fotos de Leo Messi junto a un Lamine Yamal de seis meses](https://okdiario.com/mundial/intrahistoria-fotos-leo-messi-junto-lamine-yamal-seis-meses-19010630/amp?utm_source=lootura.com) — 2026-07-16T17:08:51.000Z

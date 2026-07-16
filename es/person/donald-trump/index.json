@@ -8,13 +8,23 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/donald-trump/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/donald-trump/index.json",
   "description": "Sigue la actividad de Donald Trump en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-16T17:13:06.098Z",
+  "updatedAt": "2026-07-16T20:54:41.819Z",
   "aliases": [
     "President Donald Trump",
     "President Trump",
     "Trump"
   ],
   "changes": [
+    {
+      "title": "Trump impone un arancel del 25% a Brasil por \"no negociar de buena fe\"",
+      "summary": "El presidente de Estados Unidos, Donald Trump, acaba de iniciar un nuevo capítulo en su ya extenso historial de batallas comerciales. Su Administración ha anunciado la imposición de un arancel general del 25% sobre el grueso de importaciones procedentes de Brasil, país al que acusa de actuar \"con mala fe\" en las relaci.",
+      "date": "2026-07-16"
+    },
+    {
+      "title": "Un operador del teleprónter de Trump ganó casi 90.000 euros en apuestas sobre sus discursos",
+      "summary": "El hombre que opera el sistema de teleprónter que emplea el presidente de EEUU, Donald Trump, para pronunciar discursos está siendo investigado por.",
+      "date": "2026-07-16"
+    },
     {
       "title": "EE UU impone nuevos aranceles del 25% a gran parte de productos brasileños y acusa a Lula de no negociar “de buena fe”",
       "summary": "El Gobierno del presidente de Estados Unidos, Donald Trump, ha ordenado la imposición de un nuevo arancel del 25% sobre la mayor parte de productos brasileños importados desde este país, con fecha de aplicación a partir del 22 de julio. Es la conclusión de una investigación que acusaba a Brasil de competencia desleal.",
@@ -54,25 +64,27 @@
       "title": "Trump amenaza con atacar infraestructuras civiles si Irán no vuelve a negociar",
       "summary": "Estados Unidos ha reimpuesto el bloqueo naval sobre los puertos iraníes y ha intensificado su campaña de bombardeos contra la república islámica, en una nueva escalada de ataques que amenaza con devolver a Oriente Próximo a una guerra abierta y que vuelve a situar el estrecho de Ormuz en el centro del enfrentamiento.La.",
       "date": "2026-07-15"
-    },
-    {
-      "title": "Trump estrecha el cerco sobre Cuba con sanciones, bloqueo y amenaza militar",
-      "summary": "Sin grandes anuncios ni gestos solemnes, Donald Trump ha situado a Cuba en el centro de su estrategia de presión máxima en el continente americano. Después de concentrar durante meses su atención en Venezuela e Irán, la Casa Blanca investiga ahora si la isla almacena drones iraníes, y el propio presidente ha advertido.",
-      "date": "2026-07-15"
-    },
-    {
-      "title": "Trump agita las elecciones de medio mandato con la supuesta aparición de pruebas de fraude electoral en 2020",
-      "summary": "El jueves dirigirá a la nación un discurso en el que retomará la batalla de los comicios que perdió con Joe Biden: \"Nuestras elecciones son corruptas y tenemos que enderezarlas\", ha dicho. Revisará miles de páginas de documentos clasificados de inteligencia Leer.",
-      "date": "2026-07-14"
     }
   ],
   "sources": [
     {
-      "title": "EE UU impone nuevos aranceles del 25% a gran parte de productos brasileños y acusa a Lula de no negociar “de buena fe”",
-      "url": "https://elpais.com/economia/2026-07-16/estados-unidos-impone-nuevos-aranceles-del-25-a-la-mayor-parte-de-productos-brasilenos-y-acusa-a-lula-de-no-negociar-de-buena-fe.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-16T12:29:57.000Z",
-      "sourceId": "lootura-es-cinco-dias"
+      "title": "El ayudante de Trump encargado de su teleprónter ganó 90.000 dólares en apuestas sobre lo que iba a decir en sus discursos",
+      "url": "https://www.elmundo.es/internacional/2026/07/16/6a591d59e4d4d83b218b457b.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-16T19:06:08.000Z",
+      "sourceId": "lootura-es-el-mundo"
+    },
+    {
+      "title": "Trump impone un arancel del 25% a Brasil por \"no negociar de buena fe\"",
+      "url": "https://www.expansion.com/economia/2026/07/16/6a592512468aeba63e8b4587.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-16T18:43:27.000Z",
+      "sourceId": "lootura-es-expansion"
+    },
+    {
+      "title": "Un operador del teleprónter de Trump ganó casi 90.000 euros en apuestas sobre sus discursos",
+      "url": "https://theobjective.com/internacional/2026-07-16/operador-telepronter-trump-apuestas-discursos/?amp=&utm_source=lootura.com",
+      "publishedAt": "2026-07-16T20:22:55.000Z",
+      "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 2
 }

@@ -3,7 +3,7 @@
 > Sigue la actividad de Juan Carlos Peinado en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-16T17:13:06.098Z
+- Actualizado: 2026-07-16T20:54:41.819Z
 - Canonical: https://atlas.lootura.com/es/person/juan-carlos-peinado
 
 ## Cambios recientes
@@ -11,6 +11,12 @@
 ### La Audiencia de Madrid avala que la causa contra Begoña Gómez siga adelante por jurado por dos delitos
 
 La Audiencia Provincial de Madrid ha dado luz verde a que el proceso por jurado popular contra Begoña Gómez, esposa de Pedro Sánchez, siga adelante por dos delitos: tráfico de influencias y malversación. El tribunal avala así parcialmente la decisión del juez Juan Carlos Peinado de enviar al banquillo a la pareja del p.
+
+Date: 2026-07-16
+
+### Begoña Gómez será juzgada por un jurado popular por tráfico de influencias y malversación
+
+La Audiencia Provincial de Madrid ha avalado al juez Juan Carlos Peinado y ha confirmado su decisión de que Begoña Gómez, la esposa del presidente del Gobierno, sea juzgada por un jurado popular junto a su asesora en Moncloa, Cristina Álvarez, aunque excluye de la vista oral al empresario Juan Carlos Barrabés.En un aut.
 
 Date: 2026-07-16
 
@@ -52,5 +58,5 @@ Date: 2026-07-15
 
 ## Fuentes
 
+- [Begoña Gómez será juzgada por un jurado popular por tráfico de influencias y malversación](https://www.abc.es/espana/audiencia-confirma-begona-gomez-juzgada-jurado-popular-20260716132736-nt.html?utm_source=lootura.com) — 2026-07-16T18:52:48.000Z
 - [La Audiencia de Madrid avala que la causa contra Begoña Gómez siga adelante por jurado por dos delitos](https://elpais.com/espana/2026-07-16/la-audiencia-de-madrid-avala-que-la-causa-contra-begona-gomez-siga-adelante-por-jurado-por-dos-delitos.html?utm_source=lootura.com) — 2026-07-16T15:21:22.000Z
-- [El Gobierno tilda de «causa política» el juicio contra Gómez tras la decisión de la Audiencia](https://theobjective.com/espana/politica/2026-07-16/gobierno-causa-politica-juicio-gomez-audiencia/?utm_source=lootura.com) — 2026-07-16T12:56:16.000Z

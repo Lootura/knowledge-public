@@ -1,0 +1,50 @@
+{
+  "id": "es-la-mierla",
+  "name": "La Mierla",
+  "type": "place",
+  "locale": "es",
+  "canonicalPath": "/es/place/la-mierla",
+  "canonicalUrl": "https://atlas.lootura.com/es/place/la-mierla",
+  "markdownUrl": "https://atlas.lootura.com/es/place/la-mierla/index.md",
+  "jsonUrl": "https://atlas.lootura.com/es/place/la-mierla/index.json",
+  "description": "Sigue la actividad de La Mierla en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
+  "updatedAt": "2026-07-16T20:54:41.819Z",
+  "aliases": [],
+  "changes": [
+    {
+      "title": "Incendio en Guadalajara, en directo: última hora de la evacuación de La Mierla y confinamiento de la zona del embalse de Beleña",
+      "summary": "El incendio forestal declarado este jueves en el municipio guadalajareño de La Mierla mantiene en máxima alerta a los servicios de emergencia.",
+      "date": "2026-07-16"
+    },
+    {
+      "title": "La UME despliega un centenar de efectivos en el incendio de La Mierla (Guadalajara)",
+      "summary": "Cerca de un centenar de militares de la Unidad Militar de Emergencias (UME) se despliegan para hacer frente a la extinción del incendio forestal originado.",
+      "date": "2026-07-16"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "La Mierla first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-07-16"
+    },
+    {
+      "title": "Un incendio en La Mierla y otro en Lozoyuela, ambos de nivel dos, obligan a desalojar a los vecinos",
+      "summary": "El incendio forestal declarado este jueves en La Mierla (Guadalajara) avanza a 30 metros por minuto y se encuentra en nivel 2, por lo que ya se ha activado a la Unidad Militar de Emergencias (UME). El Gobierno de Castilla-La Mancha ha enviado un mensaje ES-alert a la población para pedir el desalojado del municipio de.",
+      "date": "2026-07-16"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Incendio en Guadalajara, en directo: última hora de la evacuación de La Mierla y confinamiento de la zona del embalse de Beleña",
+      "url": "https://www.larazon.es/sociedad/incendio-guadalajara-directo-ultima-hora-evacuacion-mierla-confinamiento-zona-embalse-belena_202607166a59040c1db8de0409927d9b.html?outputType=amp&utm_source=lootura.com",
+      "publishedAt": "2026-07-16T17:10:50.000Z",
+      "sourceId": "lootura-es-la-razon"
+    },
+    {
+      "title": "La UME despliega un centenar de efectivos en el incendio de La Mierla (Guadalajara)",
+      "url": "https://theobjective.com/sociedad/suceso/2026-07-16/ume-incendio-la-mierla/?amp=&utm_source=lootura.com",
+      "publishedAt": "2026-07-16T17:01:08.000Z",
+      "sourceId": "lootura-es-the-objective"
+    }
+  ],
+  "evidenceCount": 2
+}

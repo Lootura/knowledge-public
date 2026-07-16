@@ -3,7 +3,7 @@
 > Sigue la actividad de Barcelona en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-16T17:13:06.098Z
+- Actualizado: 2026-07-16T20:54:41.819Z
 - Canonical: https://atlas.lootura.com/es/place/barcelona
 
 ## Cambios recientes
@@ -70,4 +70,4 @@ Date: 2026-07-13
 
 ## Fuentes
 
-- [Los niños de Messi van a por su corona](https://www.abc.es/deportes/futbol/mundial/ninos-messi-van-corona-20260716132452-ntrc.html?utm_source=lootura.com) — 2026-07-16T16:53:21.000Z
+- [Los niños de Messi van a por su corona](https://www.abc.es/deportes/futbol/mundial/ninos-messi-van-corona-20260716132452-ntrc.html?utm_source=lootura.com) — 2026-07-16T18:14:51.000Z

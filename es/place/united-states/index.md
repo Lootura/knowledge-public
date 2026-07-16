@@ -3,10 +3,22 @@
 > Sigue la actividad de Estados Unidos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-16T17:13:06.098Z
+- Actualizado: 2026-07-16T20:54:41.819Z
 - Canonical: https://atlas.lootura.com/es/place/united-states
 
 ## Cambios recientes
+
+### Trump impone un arancel del 25% a Brasil por "no negociar de buena fe"
+
+El presidente de Estados Unidos, Donald Trump, acaba de iniciar un nuevo capítulo en su ya extenso historial de batallas comerciales. Su Administración ha anunciado la imposición de un arancel general del 25% sobre el grueso de importaciones procedentes de Brasil, país al que acusa de actuar "con mala fe" en las relaci.
+
+Date: 2026-07-16
+
+### EE UU pisa el acelerador en la carrera por los motores hipersónicos con un nuevo fondo de 400 millones de dólares
+
+El desarrollo de nuevos sistemas hipersónicos acaba de recibir el apoyo del Departamento de Guerra de los Estados Unidos tras la decisión de adjudicar aproximadamente 400 millones de euros a la empresa Kratos Defense & Security Solutions . Este nuevo fondo está destinado a acelerar diversos programas de este tipo de si.
+
+Date: 2026-07-16
 
 ### EE UU impone nuevos aranceles del 25% a gran parte de productos brasileños y acusa a Lula de no negociar “de buena fe”
 
@@ -56,18 +68,7 @@ En las jornadas posteriores al ataque conjunto de Israel y Estados Unidos contra
 
 Date: 2026-07-16
 
-### El Ibex cae un 0,4% mientras la incertidumbre sobre Ormuz mantiene en vilo a los mercados
-
-La ambigüedad y las contradicciones son dos de los principales enemigos de la inversión. Pocos líderes encarnan mejor ambas características que el presidente de Estados Unidos, Donald Trump. Apenas unas horas después de renunciar a imponer un peaje del 20% a los buques que atraviesan el estrecho de Ormuz, el republican.
-
-Date: 2026-07-15
-
-### BofA apuesta en banca española por Santander y CaixaBank
-
-Bank of America (BofA) ha dado un espaldarazo a la mayoría de los de los bancos españoles antes de la publicación de los resultados del segundo trimestre del año. Seguir leyendo.
-
-Date: 2026-07-15
-
 ## Fuentes
 
-- [EE UU impone nuevos aranceles del 25% a gran parte de productos brasileños y acusa a Lula de no negociar “de buena fe”](https://elpais.com/economia/2026-07-16/estados-unidos-impone-nuevos-aranceles-del-25-a-la-mayor-parte-de-productos-brasilenos-y-acusa-a-lula-de-no-negociar-de-buena-fe.html?utm_source=lootura.com) — 2026-07-16T12:29:57.000Z
+- [Trump impone un arancel del 25% a Brasil por "no negociar de buena fe"](https://www.expansion.com/economia/2026/07/16/6a592512468aeba63e8b4587.html?utm_source=lootura.com) — 2026-07-16T18:43:27.000Z
+- [EE UU pisa el acelerador en la carrera por los motores hipersónicos con un nuevo fondo de 400 millones de dólares](https://www.larazon.es/tecnologia-consumo/ee-uu-pisa-acelerador-carrera-motores-hipersonicos-nuevo-fondo-400-millones-dolares_202607166a587c1f0500ab412c980104.html?utm_source=lootura.com) — 2026-07-16T20:00:00.000Z

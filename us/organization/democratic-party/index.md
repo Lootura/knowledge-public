@@ -3,7 +3,7 @@
 > Follow Democratic Party, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-07-16T17:13:33.353Z
+- Updated: 2026-07-16T20:55:05.764Z
 - Canonical: https://atlas.lootura.com/us/organization/democratic-party
 
 ## Recent changes
@@ -70,7 +70,5 @@ Date: 2026-07-15
 
 ## Sources
 
-- [Clayton Dodges Question on 2020 Election, and Democrats Call Him on It](https://www.nytimes.com/2026/07/15/us/politics/jay-clayton-confirmation-hearing-director-national-intelligence.html?utm_source=lootura.com) — 2026-07-15T21:50:43.000Z
-- [Almost Half of House Democrats Vote to End Aid to Israel](https://www.nytimes.com/2026/07/15/us/politics/democrats-house-israel-vote-aid.html?utm_source=lootura.com) — 2026-07-15T21:42:59.000Z
 - [Wildfire Smoke Turns Skies Orange Across the U.S., and Democrats Make a Big Shift on Israel](https://www.nytimes.com/2026/07/16/podcasts/the-headlines/wildfire-smoke-democrats-israel.html?utm_source=lootura.com) — 2026-07-16T10:00:15.000Z
 - [Democratic Senate Candidates Trounce Republicans in Fund-Raising](https://www.nytimes.com/2026/07/16/us/politics/senate-midterm-elections-fundraising.html?utm_source=lootura.com) — 2026-07-16T15:40:16.000Z

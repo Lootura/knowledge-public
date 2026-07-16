@@ -3,10 +3,22 @@
 > Sigue la actividad de Donald Trump en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-16T17:13:06.098Z
+- Actualizado: 2026-07-16T20:54:41.819Z
 - Canonical: https://atlas.lootura.com/es/person/donald-trump
 
 ## Cambios recientes
+
+### Trump impone un arancel del 25% a Brasil por "no negociar de buena fe"
+
+El presidente de Estados Unidos, Donald Trump, acaba de iniciar un nuevo capítulo en su ya extenso historial de batallas comerciales. Su Administración ha anunciado la imposición de un arancel general del 25% sobre el grueso de importaciones procedentes de Brasil, país al que acusa de actuar "con mala fe" en las relaci.
+
+Date: 2026-07-16
+
+### Un operador del teleprónter de Trump ganó casi 90.000 euros en apuestas sobre sus discursos
+
+El hombre que opera el sistema de teleprónter que emplea el presidente de EEUU, Donald Trump, para pronunciar discursos está siendo investigado por.
+
+Date: 2026-07-16
 
 ### EE UU impone nuevos aranceles del 25% a gran parte de productos brasileños y acusa a Lula de no negociar “de buena fe”
 
@@ -56,18 +68,8 @@ Estados Unidos ha reimpuesto el bloqueo naval sobre los puertos iraníes y ha in
 
 Date: 2026-07-15
 
-### Trump estrecha el cerco sobre Cuba con sanciones, bloqueo y amenaza militar
-
-Sin grandes anuncios ni gestos solemnes, Donald Trump ha situado a Cuba en el centro de su estrategia de presión máxima en el continente americano. Después de concentrar durante meses su atención en Venezuela e Irán, la Casa Blanca investiga ahora si la isla almacena drones iraníes, y el propio presidente ha advertido.
-
-Date: 2026-07-15
-
-### Trump agita las elecciones de medio mandato con la supuesta aparición de pruebas de fraude electoral en 2020
-
-El jueves dirigirá a la nación un discurso en el que retomará la batalla de los comicios que perdió con Joe Biden: "Nuestras elecciones son corruptas y tenemos que enderezarlas", ha dicho. Revisará miles de páginas de documentos clasificados de inteligencia Leer.
-
-Date: 2026-07-14
-
 ## Fuentes
 
-- [EE UU impone nuevos aranceles del 25% a gran parte de productos brasileños y acusa a Lula de no negociar “de buena fe”](https://elpais.com/economia/2026-07-16/estados-unidos-impone-nuevos-aranceles-del-25-a-la-mayor-parte-de-productos-brasilenos-y-acusa-a-lula-de-no-negociar-de-buena-fe.html?utm_source=lootura.com) — 2026-07-16T12:29:57.000Z
+- [El ayudante de Trump encargado de su teleprónter ganó 90.000 dólares en apuestas sobre lo que iba a decir en sus discursos](https://www.elmundo.es/internacional/2026/07/16/6a591d59e4d4d83b218b457b.html?utm_source=lootura.com) — 2026-07-16T19:06:08.000Z
+- [Trump impone un arancel del 25% a Brasil por "no negociar de buena fe"](https://www.expansion.com/economia/2026/07/16/6a592512468aeba63e8b4587.html?utm_source=lootura.com) — 2026-07-16T18:43:27.000Z
+- [Un operador del teleprónter de Trump ganó casi 90.000 euros en apuestas sobre sus discursos](https://theobjective.com/internacional/2026-07-16/operador-telepronter-trump-apuestas-discursos/?amp=&utm_source=lootura.com) — 2026-07-16T20:22:55.000Z

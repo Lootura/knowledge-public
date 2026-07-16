@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/china/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/china/index.json",
   "description": "Sigue la actividad de China en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-16T13:45:06.103Z",
+  "updatedAt": "2026-07-16T20:54:41.819Z",
   "aliases": [],
   "changes": [
     {
@@ -62,6 +62,13 @@
       "date": "2026-07-14"
     }
   ],
-  "sources": [],
+  "sources": [
+    {
+      "title": "Kimi K3: así es la nueva IA china que pone en apuros a Claude Opus 4.8 y GPT-5.5",
+      "url": "https://hipertextual.com/inteligencia-artificial/kimi-k3-nueva-ia-moonshot/?utm_source=lootura.com",
+      "publishedAt": "2026-07-16T20:32:22.000Z",
+      "sourceId": "lootura-es-hipertextual"
+    }
+  ],
   "evidenceCount": 0
 }

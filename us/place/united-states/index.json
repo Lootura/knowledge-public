@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/united-states/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/united-states/index.json",
   "description": "Follow United States, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-16T17:13:33.353Z",
+  "updatedAt": "2026-07-16T20:55:05.764Z",
   "aliases": [
     "America",
     "Estados Unidos",
@@ -61,8 +61,8 @@
       "date": "2026-07-16"
     },
     {
-      "title": "Devastating Asian beetle detected in EU for first time",
-      "summary": "A tiny Asian-origin beetle that has devastated ash forests in North America has been detected in the European Union for the first time, in Hungary and Slovakia, authorities said.",
+      "title": "America already tried permanent daylight saving time. Could it work now?",
+      "summary": "It's an idea whose time, as it were, may have come — again.",
       "date": "2026-07-16"
     }
   ],
@@ -86,12 +86,6 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "Fear and hope in Utah in the shadow of America's largest wildfire",
-      "url": "https://www.npr.org/2026/07/15/nx-s1-5892509/fear-and-hope-in-utah-in-the-shadow-of-americas-largest-wildfire?utm_source=lootura.com",
-      "publishedAt": "2026-07-15T21:55:00.000Z",
-      "sourceId": "lootura-us-npr"
-    },
-    {
       "title": "Trump wants a permanent fence around the D.C. park known for White House protests",
       "url": "https://www.npr.org/2026/07/16/nx-s1-5893465/dc-lafayette-square-park-permanent-fencing-proposal?utm_source=lootura.com",
       "publishedAt": "2026-07-16T12:13:23.000Z",
@@ -104,16 +98,10 @@
       "sourceId": "lootura-us-pbs-newshour"
     },
     {
-      "title": "Devastating Asian beetle detected in EU for first time",
-      "url": "https://phys.org/news/2026-07-devastating-asian-beetle-eu.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-16T16:20:01.000Z",
-      "sourceId": "lootura-us-phys-org"
-    },
-    {
-      "title": "Clayton Dodges Question on 2020 Election, and Democrats Call Him on It",
-      "url": "https://www.nytimes.com/2026/07/15/us/politics/jay-clayton-confirmation-hearing-director-national-intelligence.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-15T21:50:43.000Z",
-      "sourceId": "lootura-us-the-new-york-times"
+      "title": "America already tried permanent daylight saving time. Could it work now?",
+      "url": "https://www.pbs.org/newshour/nation/america-already-tried-permanent-daylight-saving-time-could-it-work-now?utm_source=lootura.com",
+      "publishedAt": "2026-07-16T20:09:29.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
     },
     {
       "title": "Maps Show Where Wildfire Smoke Will Darken Skies on Thursday",
@@ -126,7 +114,19 @@
       "url": "https://www.nytimes.com/2026/07/16/business/diesel-prices-us-iran-war.html?utm_source=lootura.com",
       "publishedAt": "2026-07-16T11:51:15.000Z",
       "sourceId": "lootura-us-the-new-york-times"
+    },
+    {
+      "title": "Trump Administration to Impose New Tariffs on Brazil",
+      "url": "https://www.nytimes.com/2026/07/15/business/economy/trump-brazil-tariffs.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-16T04:43:45.000Z",
+      "sourceId": "lootura-us-the-new-york-times"
+    },
+    {
+      "title": "Wildfire Smoke Turns Skies Orange Across the U.S., and Democrats Make a Big Shift on Israel",
+      "url": "https://www.nytimes.com/2026/07/16/podcasts/the-headlines/wildfire-smoke-democrats-israel.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-16T10:00:15.000Z",
+      "sourceId": "lootura-us-the-new-york-times"
     }
   ],
-  "evidenceCount": 12
+  "evidenceCount": 11
 }

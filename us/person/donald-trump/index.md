@@ -3,7 +3,7 @@
 > Follow Donald Trump, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-07-16T17:13:33.353Z
+- Updated: 2026-07-16T20:55:05.764Z
 - Canonical: https://atlas.lootura.com/us/person/donald-trump
 
 ## Recent changes
@@ -23,18 +23,6 @@ Date: 2026-07-16
 ### The use of force has become a 'default tool' for ICE officers, a new report finds
 
 An ACLU report looks at the widespread use of force in immigration enforcement in the first year of President Trump's return to office. Recent fatal shootings in Texas and Maine have brought renewed scrutiny to the agency's tactics. (Image credit: Scott Olson).
-
-Date: 2026-07-16
-
-### Trump earned billions last year. Some Pennsylvania swing voters say they don't care
-
-Key voters in Pennsylvania are split on whether President Trump earning a big windfall last year is a big deal or not. Their reaction reveals a level of cynicism about many in the political class. (Image credit: Alex Wong).
-
-Date: 2026-07-16
-
-### Trump's Iran notice aims to reset war powers clock amid growing political risks
-
-The Trump administration's notification to restart the war with Iran aims to reset a 60-day clock for military action, but questions are mounting about public support as midterms approach.
 
 Date: 2026-07-16
 
@@ -68,15 +56,27 @@ When major disasters strike, Americans are routinely waiting weeks — or even m
 
 Date: 2026-07-16
 
+### Trump immediately fires the new court-appointed top prosecutor in Seattle
+
+President Donald Trump fired the new top U.S. prosecutor in Seattle on Wednesday less than an hour after the attorney was unanimously appointed by the federal judges in the district, highlighting tensions between the courts and the president over the powerful positions.
+
+Date: 2026-07-16
+
+### Trump is expected to make election conspiracies a focus of his national address
+
+President Donald Trump is set to address the nation on Thursday night on topics he said will include elections and voting machines, suggesting he is likely to revisit some of the unproven claims he has previously made about Republican losses, particularly his own in 2020.
+
+Date: 2026-07-16
+
 ## Sources
 
 - [Why the Trump administration is looking at Cuba military options](https://www.cbsnews.com/video/why-the-trump-administration-is-looking-at-cuba-military-options/?utm_source=lootura.com) — 2026-07-16T15:43:00.000Z
+- [Watch: Karoline Leavitt answers questions on Trump's primetime speech, new Iran strikes](https://www.cbsnews.com/video/karoline-leavitt-answers-questions-ahead-of-trumps-speech-on-election-integrity/?utm_source=lootura.com) — 2026-07-16T20:06:39.000Z
+- [Schiff presses Ashcroft over Trump's calls for prosecution of perceived political enemies](https://www.cbsnews.com/video/schiff-ashcroft-clash-over-president-trumps-prosecution-of-political-enemies/?utm_source=lootura.com) — 2026-07-16T20:03:10.000Z
 - [H.R. McMaster on the U.S.-Iran feud over the Strait of Hormuz](https://www.cbsnews.com/video/hr-mcmaster-on-u-s-iran-feud-over-strait-of-hormuz/?utm_source=lootura.com) — 2026-07-16T16:01:26.000Z
 - [Blanche faces sharp questioning over Epstein files, relationship with Trump at hearing](https://www.cbsnews.com/video/blanche-questioning-epstein-files-relationship-with-trump-confirmation-hearing/?utm_source=lootura.com) — 2026-07-16T13:17:30.000Z
 - [TrumpRx promised a supermarket for cheaper drugs but delivered a boutique](https://www.npr.org/2026/07/16/nx-s1-5894947/trump-rx-medicine-drugs-health-care-pfizer-low-prices-gilead?utm_source=lootura.com) — 2026-07-16T09:00:00.000Z
+- [After years of false claims on voting, Trump to give an address on election integrity](https://www.npr.org/2026/07/16/nx-s1-5896448/trump-election-address?utm_source=lootura.com) — 2026-07-16T20:50:26.000Z
 - [The use of force has become a 'default tool' for ICE officers, a new report finds](https://www.npr.org/2026/07/16/nx-s1-5891834/ice-use-of-force-aclu-report?utm_source=lootura.com) — 2026-07-16T09:00:00.000Z
-- [Trump earned billions last year. Some Pennsylvania swing voters say they don't care](https://www.npr.org/2026/07/16/nx-s1-5893599/pennsylvania-focus-groups-trump-corruption?utm_source=lootura.com) — 2026-07-16T09:00:00.000Z
 - [Trump wants a permanent fence around the D.C. park known for White House protests](https://www.npr.org/2026/07/16/nx-s1-5893465/dc-lafayette-square-park-permanent-fencing-proposal?utm_source=lootura.com) — 2026-07-16T12:13:23.000Z
-- [Trump's Iran notice aims to reset war powers clock amid growing political risks](https://www.npr.org/2026/07/16/nx-s1-5894928/trumps-iran-notice-aims-to-reset-war-powers-clock-amid-growing-political-risks?utm_source=lootura.com) — 2026-07-16T08:43:30.000Z
-- [Trump is taking longer to approve disaster aid and denying Democratic states more frequently](https://www.pbs.org/newshour/politics/trump-is-taking-longer-to-approve-disaster-aid-and-denying-democratic-states-more-frequently?utm_source=lootura.com) — 2026-07-16T16:14:57.000Z
-- [Trump immediately fires the new court-appointed top prosecutor in Seattle](https://www.pbs.org/newshour/politics/trump-immediately-fires-the-new-court-appointed-top-prosecutor-in-seattle?utm_source=lootura.com) — 2026-07-16T16:43:28.000Z
+- [President Trump to deliver prime time address on elections, though details are slim](https://www.npr.org/2026/07/16/nx-s1-5896195/president-trump-to-deliver-prime-time-address-on-elections-though-details-are-slim?utm_source=lootura.com) — 2026-07-16T20:12:37.000Z

@@ -1,42 +1,42 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-16T17:18:24.180Z",
+  "generatedAt": "2026-07-16T20:59:35.970Z",
   "radar": {
     "id": "usa",
     "slug": "us",
     "locale": "en"
   },
   "state": {
-    "signature": "1.16.0|6|1784222013353",
+    "signature": "1.16.0|7|1784235305764",
     "version": "1.16.0",
-    "build": 6,
-    "latestEntityUpdatedAt": "2026-07-16T17:13:33.353Z"
+    "build": 7,
+    "latestEntityUpdatedAt": "2026-07-16T20:55:05.764Z"
   },
   "atlas": {
     "hero": {
       "id": "usa-todd-blanche",
       "name": "Todd Blanche",
       "type": "person",
-      "title": "Jennifer Bos makes emotional opening statement about daughter's death in Blanche confirmation hearing",
+      "title": "Tillis says he won't support Blanche unless he meets with Epstein survivors",
       "url": "https://atlas.lootura.com/us/person/todd-blanche",
       "path": "/us/person/todd-blanche",
-      "updatedAt": "2026-07-16T17:13:33.353Z",
-      "score": 1615,
-      "sourceCount": 19,
+      "updatedAt": "2026-07-16T20:55:05.764Z",
+      "score": 1607,
+      "sourceCount": 21,
       "isBreaking": false,
       "isPinned": false
     },
     "cards": [
       {
-        "id": "usa-white-house",
-        "name": "White House",
-        "type": "organization",
-        "title": "Trump wants to fence off the park closest to the White House, a popular protest spot",
-        "url": "https://atlas.lootura.com/us/organization/white-house",
-        "path": "/us/organization/white-house",
-        "updatedAt": "2026-07-16T17:13:33.353Z",
-        "score": 1544,
-        "sourceCount": 25,
+        "id": "usa-ukraine",
+        "name": "Ukraine",
+        "type": "place",
+        "title": "Ukrainians protest Zelenskyy's ouster of his popular defense minister",
+        "url": "https://atlas.lootura.com/us/place/ukraine",
+        "path": "/us/place/ukraine",
+        "updatedAt": "2026-07-16T20:55:05.764Z",
+        "score": 1533,
+        "sourceCount": 38,
         "isBreaking": false,
         "isPinned": false
       },
@@ -47,22 +47,22 @@
         "title": "Wildfire Smoke Turns Skies Orange Across the U.S., and Democrats Make a Big Shift on Israel",
         "url": "https://atlas.lootura.com/us/place/united-states",
         "path": "/us/place/united-states",
-        "updatedAt": "2026-07-16T17:13:33.353Z",
-        "score": 1522,
-        "sourceCount": 205,
+        "updatedAt": "2026-07-16T20:55:05.764Z",
+        "score": 1532,
+        "sourceCount": 207,
         "isBreaking": false,
         "isPinned": false
       },
       {
-        "id": "usa-ukraine",
-        "name": "Ukraine",
-        "type": "place",
-        "title": "Ukrainian's Zelenskyy faces major backlash for ousting defense chief Mykhailo Fedorov amid progress vs. Russia",
-        "url": "https://atlas.lootura.com/us/place/ukraine",
-        "path": "/us/place/ukraine",
-        "updatedAt": "2026-07-16T17:13:33.353Z",
-        "score": 1508,
-        "sourceCount": 35,
+        "id": "usa-senate-judiciary-committee",
+        "name": "Senate Judiciary Committee",
+        "type": "person",
+        "title": "Tillis says he won't support Blanche unless he meets with Epstein survivors",
+        "url": "https://atlas.lootura.com/us/person/senate-judiciary-committee",
+        "path": "/us/person/senate-judiciary-committee",
+        "updatedAt": "2026-07-16T20:55:05.764Z",
+        "score": 1514,
+        "sourceCount": 3,
         "isBreaking": false,
         "isPinned": false
       },
@@ -70,16 +70,16 @@
         "id": "usa-iran",
         "name": "Iran",
         "type": "place",
-        "title": "Trump's Iran notice aims to reset war powers clock amid growing political risks",
+        "title": "Diesel Prices Hit $5 a Gallon Again, Up 33% Since Start of Iran War",
         "url": "https://atlas.lootura.com/us/place/iran",
         "path": "/us/place/iran",
-        "updatedAt": "2026-07-16T17:13:33.353Z",
+        "updatedAt": "2026-07-16T20:55:05.764Z",
         "score": 1506,
-        "sourceCount": 119,
+        "sourceCount": 121,
         "isBreaking": false,
         "isPinned": false
       }
     ],
-    "publicEntityCount": 35
+    "publicEntityCount": 36
   }
 }

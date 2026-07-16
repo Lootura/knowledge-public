@@ -3,7 +3,7 @@
 > Sigue la actividad de Alberto Núñez Feijóo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-16T17:13:06.098Z
+- Actualizado: 2026-07-16T20:54:41.819Z
 - Canonical: https://atlas.lootura.com/es/person/alberto-nunez-feijoo
 
 ## Cambios recientes
@@ -11,6 +11,18 @@
 ### CC OO exige a CEOE la retirada de una polémica campaña publicitaria sobre el absentismo: “Mientras unos no están, otros esperan”
 
 Las ausencias al trabajo que provocan las bajas por enfermedad centraron el debate público la semana pasada cuando el presidente del Partido Popular, Alberto Núñez Feijóo, se refirió a este fenómeno como “un cáncer” . Una semana después, la polémica continúa con una campaña publicitaria que CEOE ha desplegado en Cantab.
+
+Date: 2026-07-16
+
+### Feijóo: “Los demócratas respetamos las sentencias y punto”
+
+Tras l a decisión del Tribunal de Justicia de la Unión Europea (TJUE) de avalar la ley de amnistía , que zanja el debate jurídico, el Partido Popular ha tratado de reorientar su rechazo a la norma al terreno político y moral. Los populares han declarado su “respeto absoluto al fallo del Tribunal” en un breve comunicado.
+
+Date: 2026-07-16
+
+### Feijóo acata el aval a la amnistía entre reproches a Sánchez: «Mintió y vendió a los españoles»
+
+El presidente del Partido Popular, Alberto Núñez Feijóo , ha subrayado este miércoles en Las Palmas de Gran Canaria que un demócrata «respeta las sentencias, todas las sentencias y de todos los tribunales » y, además, «no ordena a sus ministros salir a señalar a jueces con nombres y apellidos». Núñez Feijóo ha hecho es.
 
 Date: 2026-07-16
 
@@ -56,18 +68,8 @@ Ester Muñoz ha respondido con firmeza a Óscar Puente tras el tuit que publicó
 
 Date: 2026-07-15
 
-### El PP califica de "histórica" la condena del hermano de Sánchez: "Nadie está por encima de la ley"
-
-Feijóo celebra que el Estado de Derecho funcione en España para todos, "sean de la familia que sean" Leer.
-
-Date: 2026-07-14
-
-### Feijóo critica que el Gobierno «descalifique» la sentencia de David Sánchez: «Me preocupa»
-
-El líder del PP, Alberto Núñez Feijóo , ha recriminado este martes al Gobierno que «descalifique» la sentencia que condena a David Sánchez , hermano del jefe del Ejecutivo, y ha subrayado que le «preocupa» esta «actitud» del gabinete de Pedro Sánchez, que «lo que tiene que hacer es acatar» el fallo. «Empezamos a entrar.
-
-Date: 2026-07-14
-
 ## Fuentes
 
 - [CC OO exige a CEOE la retirada de una polémica campaña publicitaria sobre el absentismo: “Mientras unos no están, otros esperan”](https://elpais.com/economia/2026-07-16/cc-oo-exige-a-ceoe-la-retirada-de-una-polemica-campana-publicitaria-sobre-el-absentismo-mientras-unos-no-estan-otros-esperan.html?utm_source=lootura.com) — 2026-07-16T15:01:53.000Z
+- [Feijóo: “Los demócratas respetamos las sentencias y punto”](https://elpais.com/espana/2026-07-16/el-pp-respeta-el-fallo-del-tribunal-pero-carga-contra-sanchez-ningun-presidente-debe-cambiar-poder-por-impunidad.html?utm_source=lootura.com) — 2026-07-16T09:20:49.000Z
+- [Feijóo acata el aval a la amnistía entre reproches a Sánchez: «Mintió y vendió a los españoles»](https://theobjective.com/espana/politica/2026-07-16/feijoo-amnistia-sanchez-mintio-vendio-espanoles/?utm_source=lootura.com) — 2026-07-16T19:44:14.000Z

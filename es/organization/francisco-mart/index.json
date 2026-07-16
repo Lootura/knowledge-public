@@ -1,0 +1,29 @@
+{
+  "id": "es-francisco-mart",
+  "name": "Francisco Mart",
+  "type": "organization",
+  "locale": "es",
+  "canonicalPath": "/es/organization/francisco-mart",
+  "canonicalUrl": "https://atlas.lootura.com/es/organization/francisco-mart",
+  "markdownUrl": "https://atlas.lootura.com/es/organization/francisco-mart/index.md",
+  "jsonUrl": "https://atlas.lootura.com/es/organization/francisco-mart/index.json",
+  "description": "Sigue la actividad de Francisco Mart en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
+  "updatedAt": "2026-07-16T20:54:41.819Z",
+  "aliases": [],
+  "changes": [
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Francisco Mart first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-07-16"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Un detenido por el incendio forestal de Lozoyuela (Madrid) en el que ha intervenido la UME",
+      "url": "https://okdiario.com/sucesos/detenido-incendio-forestal-lozoyuela-madrid-que-intervenido-ume-19012690/amp?utm_source=lootura.com",
+      "publishedAt": "2026-07-16T20:14:04.000Z",
+      "sourceId": "lootura-es-ok-diario"
+    }
+  ],
+  "evidenceCount": 1
+}

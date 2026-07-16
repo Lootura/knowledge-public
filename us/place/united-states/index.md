@@ -3,7 +3,7 @@
 > Follow United States, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-16T17:13:33.353Z
+- Updated: 2026-07-16T20:55:05.764Z
 - Canonical: https://atlas.lootura.com/us/place/united-states
 
 ## Recent changes
@@ -62,9 +62,9 @@ President Donald Trump fired the new top U.S. prosecutor in Seattle on Wednesday
 
 Date: 2026-07-16
 
-### Devastating Asian beetle detected in EU for first time
+### America already tried permanent daylight saving time. Could it work now?
 
-A tiny Asian-origin beetle that has devastated ash forests in North America has been detected in the European Union for the first time, in Hungary and Slovakia, authorities said.
+It's an idea whose time, as it were, may have come — again.
 
 Date: 2026-07-16
 
@@ -73,10 +73,10 @@ Date: 2026-07-16
 - [H.R. McMaster on the U.S.-Iran feud over the Strait of Hormuz](https://www.cbsnews.com/video/hr-mcmaster-on-u-s-iran-feud-over-strait-of-hormuz/?utm_source=lootura.com) — 2026-07-16T16:01:26.000Z
 - [The Uplift: The American Dream](https://www.cbsnews.com/video/the-uplift-the-american-dream/?utm_source=lootura.com) — 2026-07-27T10:30:00.000Z
 - [Climate extremes fuel explosive wildfires in Canada and the U.S., experts say](https://www.cbsnews.com/news/climate-extremes-wildfires-canada-us-west/?utm_source=lootura.com) — 2026-07-16T17:06:08.000Z
-- [Fear and hope in Utah in the shadow of America's largest wildfire](https://www.npr.org/2026/07/15/nx-s1-5892509/fear-and-hope-in-utah-in-the-shadow-of-americas-largest-wildfire?utm_source=lootura.com) — 2026-07-15T21:55:00.000Z
 - [Trump wants a permanent fence around the D.C. park known for White House protests](https://www.npr.org/2026/07/16/nx-s1-5893465/dc-lafayette-square-park-permanent-fencing-proposal?utm_source=lootura.com) — 2026-07-16T12:13:23.000Z
 - [Trump immediately fires the new court-appointed top prosecutor in Seattle](https://www.pbs.org/newshour/politics/trump-immediately-fires-the-new-court-appointed-top-prosecutor-in-seattle?utm_source=lootura.com) — 2026-07-16T16:43:28.000Z
-- [Devastating Asian beetle detected in EU for first time](https://phys.org/news/2026-07-devastating-asian-beetle-eu.html?utm_source=lootura.com) — 2026-07-16T16:20:01.000Z
-- [Clayton Dodges Question on 2020 Election, and Democrats Call Him on It](https://www.nytimes.com/2026/07/15/us/politics/jay-clayton-confirmation-hearing-director-national-intelligence.html?utm_source=lootura.com) — 2026-07-15T21:50:43.000Z
+- [America already tried permanent daylight saving time. Could it work now?](https://www.pbs.org/newshour/nation/america-already-tried-permanent-daylight-saving-time-could-it-work-now?utm_source=lootura.com) — 2026-07-16T20:09:29.000Z
 - [Maps Show Where Wildfire Smoke Will Darken Skies on Thursday](https://www.nytimes.com/2026/07/16/weather/canada-wildfire-smoke-us.html?utm_source=lootura.com) — 2026-07-16T13:15:46.000Z
 - [Diesel Prices Hit $5 a Gallon Again, Up 33% Since Start of Iran War](https://www.nytimes.com/2026/07/16/business/diesel-prices-us-iran-war.html?utm_source=lootura.com) — 2026-07-16T11:51:15.000Z
+- [Trump Administration to Impose New Tariffs on Brazil](https://www.nytimes.com/2026/07/15/business/economy/trump-brazil-tariffs.html?utm_source=lootura.com) — 2026-07-16T04:43:45.000Z
+- [Wildfire Smoke Turns Skies Orange Across the U.S., and Democrats Make a Big Shift on Israel](https://www.nytimes.com/2026/07/16/podcasts/the-headlines/wildfire-smoke-democrats-israel.html?utm_source=lootura.com) — 2026-07-16T10:00:15.000Z

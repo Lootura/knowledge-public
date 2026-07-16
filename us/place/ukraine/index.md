@@ -3,7 +3,7 @@
 > Follow Ukraine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-16T17:13:33.353Z
+- Updated: 2026-07-16T20:55:05.764Z
 - Canonical: https://atlas.lootura.com/us/place/ukraine
 
 ## Recent changes
@@ -11,6 +11,24 @@
 ### Ukrainian's Zelenskyy faces major backlash for ousting defense chief Mykhailo Fedorov amid progress vs. Russia
 
 Ukrainians are demonstrating in Kyiv and senior figures announcing their resignations over President Volodymyr Zelenksyy's move to oust his popular defense chief.
+
+Date: 2026-07-16
+
+### Ukrainians protest Zelenskyy's ouster of his popular defense minister
+
+President Volodymyr Zelenskyy shook up his wartime government, drawing thousands into the streets Thursday across Ukraine to protest the ouster of his youthful defense minister — seen as an innovator of the country's successful drone technology but who clashed with the traditional military establishment.
+
+Date: 2026-07-16
+
+### Ukraine Was on a Roll. Then a Clash Over War Strategy Exploded Into View.
+
+From an underground parking garage, Ukraine’s newly dismissed defense minister aired the most dramatic, public critique of the military command to emerge during the war.
+
+Date: 2026-07-16
+
+### Meet Sergii Koretskyi, Ukraine’s New Prime Minister After Major Government Reshuffle
+
+Sergii Koretskyi speaks during a briefing with government officials in Kyiv, Ukraine, on March 5, 2026. —Danylo Antoniuk/Ukrinform—Getty Images Sergii Koretskyi was confirmed as Ukraine’s new Prime Minister on Thursday as part of a government reshuffle led by President Volodymyr Zelensky . Koretskyi's appointment , bac.
 
 Date: 2026-07-16
 
@@ -50,26 +68,9 @@ Ukrainians are demonstrating in Kyiv and senior figures announcing their resigna
 
 Date: 2026-07-16
 
-### Dismissal of Ukraine's popular defense minister draws intense criticism
-
-As Ukraine signs drone deals and awaits licenses for Patriot missiles, the country's popular, tech-savvy defense minister, who helped Ukraine turn the tables on Russia through drone warfare, is fired.
-
-Date: 2026-07-16
-
-### Ukraine Pounds Russian Ships in Its Campaign to Cut Off Crimea
-
-After striking roads and railways, Kyiv is now focusing on sea routes as it tries to disrupt fuel supplies and pressure Russia to end the war.
-
-Date: 2026-07-15
-
-### Europe, Flexing Muscle in Ukraine, Is Still on Sidelines in Iran
-
-In a show of collective strength, President Emmanuel Macron of France hosted European allies at the annual Bastille Day parade in Paris. Yet Europe is still a hostage to America’s foreign policy.
-
-Date: 2026-07-14
-
 ## Sources
 
 - [Ukrainian's Zelenskyy faces major backlash for ousting defense chief Mykhailo Fedorov amid progress vs. Russia](https://www.cbsnews.com/news/ukrainian-protest-zelenskyy-oust-defense-chief-mykhailo-fedorov-russia-war/?utm_source=lootura.com) — 2026-07-16T13:39:04.000Z
-- [Ukraine’s Ousted Defense Minister Attacks the Military’s Old Guard](https://www.nytimes.com/2026/07/16/world/europe/ukraine-fedorov-protests.html?utm_source=lootura.com) — 2026-07-16T16:19:50.000Z
-- [The Essentials About Mykhailo Fedorov, the Ousted Ukrainian Minister](https://www.nytimes.com/2026/07/16/world/europe/who-mykhailo-fedorov-ukraine-defense-minister.html?utm_source=lootura.com) — 2026-07-16T15:34:12.000Z
+- [Ukrainians protest Zelenskyy's ouster of his popular defense minister](https://www.pbs.org/newshour/world/ukrainians-protest-zelenskyys-ouster-of-his-popular-defense-minister?utm_source=lootura.com) — 2026-07-16T17:21:53.000Z
+- [Ukraine Was on a Roll. Then a Clash Over War Strategy Exploded Into View.](https://www.nytimes.com/2026/07/16/world/europe/ukraine-military-defense-minister-drones.html?utm_source=lootura.com) — 2026-07-16T20:02:43.000Z
+- [Meet Sergii Koretskyi, Ukraine’s New Prime Minister After Major Government Reshuffle](https://time.com/article/2026/07/16/meet-sergii-koretskyi-ukraine-new-prime-minister-energy-official-zelensky/?utm_source=lootura.com) — 2026-07-16T20:26:59.000Z

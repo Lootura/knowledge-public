@@ -3,7 +3,7 @@
 > Follow Maine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-16T17:13:33.353Z
+- Updated: 2026-07-16T20:55:05.764Z
 - Canonical: https://atlas.lootura.com/us/place/maine
 
 ## Recent changes
@@ -11,6 +11,12 @@
 ### The use of force has become a 'default tool' for ICE officers, a new report finds
 
 An ACLU report looks at the widespread use of force in immigration enforcement in the first year of President Trump's return to office. Recent fatal shootings in Texas and Maine have brought renewed scrutiny to the agency's tactics. (Image credit: Scott Olson).
+
+Date: 2026-07-16
+
+### I See My Father in the Fathers Killed by ICE
+
+A makeshift memorial for Joan Sebastian Guerrero who was fatally shot by U.S. Immigration and Customs Enforcement (ICE) agents, on July 14, 2026 in Biddeford, Maine. —Ryan Murphy—Getty Images Joan Sebastian Guerrero, the 26-year-old man shot by ICE while driving to work on Monday, attended the same school my mother did.
 
 Date: 2026-07-16
 
@@ -62,12 +68,7 @@ It was the third death in a week involving encounters with U.S. Immigration and 
 
 Date: 2026-07-15
 
-### An ICE Shooting in Maine Puts Pressure on Senator Susan Collins
-
-The Democrats hoping to challenge Ms. Collins, a vulnerable Republican, have seized on the fatal incident, drawing attention to her record on immigration matters.
-
-Date: 2026-07-15
-
 ## Sources
 
 - [The use of force has become a 'default tool' for ICE officers, a new report finds](https://www.npr.org/2026/07/16/nx-s1-5891834/ice-use-of-force-aclu-report?utm_source=lootura.com) — 2026-07-16T09:00:00.000Z
+- [I See My Father in the Fathers Killed by ICE](https://time.com/article/2026/07/16/i-see-my-father-in-the-fathers-killed-by-ice/?utm_source=lootura.com) — 2026-07-16T20:05:24.000Z

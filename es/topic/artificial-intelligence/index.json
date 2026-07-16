@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/topic/artificial-intelligence/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/topic/artificial-intelligence/index.json",
   "description": "Sigue la actividad de Artificial intelligence en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-16T17:13:06.098Z",
+  "updatedAt": "2026-07-16T20:54:41.819Z",
   "aliases": [
     "AI",
     "machine learning"
@@ -42,10 +42,10 @@
   ],
   "sources": [
     {
-      "title": "Bruselas fuerza a Google a abrir Android a asistentes de inteligencia artificial de la competencia",
-      "url": "https://elpais.com/economia/2026-07-16/bruselas-fuerza-a-google-a-abrir-android-a-asistentes-de-inteligencia-artificial-de-la-competencia.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-16T12:17:23.000Z",
-      "sourceId": "lootura-es-cinco-dias"
+      "title": "Apple pisa el acelerador con el iPad mini con pantalla OLED, que llegará este mismo año",
+      "url": "https://hipertextual.com/apple/apple-pisa-acelerador-ipad-mini-oled/?utm_source=lootura.com",
+      "publishedAt": "2026-07-16T16:35:00.000Z",
+      "sourceId": "lootura-es-hipertextual"
     }
   ],
   "evidenceCount": 0

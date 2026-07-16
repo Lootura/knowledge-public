@@ -40,4 +40,4 @@ Date: 2026-07-13
 
 ## Sources
 
-- [Apple’s OLED iPad Mini upgrade is on the way as prices continue to rise](https://www.theverge.com/tech/966535/apple-oled-ipad-mini-rumor?utm_source=lootura.com) — 2026-07-16T15:04:12.000Z
+No public source links.
