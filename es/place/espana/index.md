@@ -46,7 +46,7 @@ Date: 2026-07-16
 
 ### Transportes rechaza ante Bruselas adaptar el ancho de vía ibérico al europeo porque costaría 30.000 millones
 
-se planta para no embarcarse en una reforma integral de la red ferroviaria convencional , de 13.000 kilómetros, con el fin de unificarla con la de alta velocidad (4.000 kilómetros). El proyecto supondría contar con un único ancho de vía, el estándar o europeo, de 1.435 milímetros, en detrimento del ibérico de 1.
+España se planta para no embarcarse en una reforma integral de la red ferroviaria convencional , de 13.000 kilómetros, con el fin de unificarla con la de alta velocidad (4.000 kilómetros). El proyecto supondría contar con un único ancho de vía, el estándar o europeo, de 1.435 milímetros, en detrimento del ibérico de 1.
 
 Date: 2026-07-16
 

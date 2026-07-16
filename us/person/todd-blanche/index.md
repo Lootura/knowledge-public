@@ -22,7 +22,7 @@ Date: 2026-07-15
 
 ### Takeaways from Todd Blanche's confirmation hearing for attorney general
 
-remained composed throughout the hours-long hearing, but faced several testy moments during questioning as he seeks to win the support of all Republican senators on the committee. (Image credit: Eric Lee).
+Todd Blanche remained composed throughout the hours-long hearing, but faced several testy moments during questioning as he seeks to win the support of all Republican senators on the committee. (Image credit: Eric Lee).
 
 Date: 2026-07-15
 

@@ -16,7 +16,7 @@ Date: 2026-07-15
 
 ### Messi emula a Maradona ante Inglaterra y va a por Pelé
 
-le dio más al fútbol que lo que el fútbol le dio a Messi pero el 10 argentino se encontró de repente ante una nueva misión, una casi más patriótica que deportiva: emular, 40 años después, el festejo de Diego Maradona ante Inglaterra, sus goles con las manos y los pies por los cuartos de final de México 198.
+Lionel Messi le dio más al fútbol que lo que el fútbol le dio a Messi pero el 10 argentino se encontró de repente ante una nueva misión, una casi más patriótica que deportiva: emular, 40 años después, el festejo de Diego Maradona ante Inglaterra, sus goles con las manos y los pies por los cuartos de final de México 198.
 
 Date: 2026-07-15
 
