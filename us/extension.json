@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-16T07:00:13.665Z",
+  "generatedAt": "2026-07-16T07:03:22.332Z",
   "radar": {
     "id": "usa",
     "slug": "us",
     "locale": "en"
   },
   "state": {
-    "signature": "1.15.3|1|1784183291623",
-    "version": "1.15.3",
+    "signature": "1.16.0|1|1784183291623",
+    "version": "1.16.0",
     "build": 1,
     "latestEntityUpdatedAt": "2026-07-16T06:28:11.623Z"
   },
