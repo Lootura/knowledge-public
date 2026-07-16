@@ -3,10 +3,16 @@
 > Sigue la actividad de Alberto Núñez Feijóo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-16T06:27:44.347Z
+- Actualizado: 2026-07-16T17:13:06.098Z
 - Canonical: https://atlas.lootura.com/es/person/alberto-nunez-feijoo
 
 ## Cambios recientes
+
+### CC OO exige a CEOE la retirada de una polémica campaña publicitaria sobre el absentismo: “Mientras unos no están, otros esperan”
+
+Las ausencias al trabajo que provocan las bajas por enfermedad centraron el debate público la semana pasada cuando el presidente del Partido Popular, Alberto Núñez Feijóo, se refirió a este fenómeno como “un cáncer” . Una semana después, la polémica continúa con una campaña publicitaria que CEOE ha desplegado en Cantab.
+
+Date: 2026-07-16
 
 ### La presión electoral calienta las listas del PP
 
@@ -62,12 +68,6 @@ El líder del PP, Alberto Núñez Feijóo , ha recriminado este martes al Gobier
 
 Date: 2026-07-14
 
-### El Gobierno confía en que "instancias superiores" constaten "la inocencia" del hermano de Sánchez pese a su condena
-
-Sumar y los socios del Ejecutivo consideran "desproporcionada" la sentencia de la Audiencia de Badajoz y Feijóo destaca que es "la tercera condena" al entorno del presidente del Gobierno, que demuestra que "nadie está por encima de la ley" La Justicia condena al hermano de Pedro Sánchez a nueve años de inhabilitación p.
-
-Date: 2026-07-14
-
 ## Fuentes
 
-No public source links.
+- [CC OO exige a CEOE la retirada de una polémica campaña publicitaria sobre el absentismo: “Mientras unos no están, otros esperan”](https://elpais.com/economia/2026-07-16/cc-oo-exige-a-ceoe-la-retirada-de-una-polemica-campana-publicitaria-sobre-el-absentismo-mientras-unos-no-estan-otros-esperan.html?utm_source=lootura.com) — 2026-07-16T15:01:53.000Z

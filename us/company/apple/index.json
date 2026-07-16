@@ -8,11 +8,16 @@
   "markdownUrl": "https://atlas.lootura.com/us/company/apple/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/company/apple/index.json",
   "description": "Follow Apple, a tracked company, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-15T17:15:23.220Z",
+  "updatedAt": "2026-07-16T17:13:33.353Z",
   "aliases": [
     "Apple Inc"
   ],
   "changes": [
+    {
+      "title": "Apple’s OLED iPad Mini upgrade is on the way as prices continue to rise",
+      "summary": "The current 7th-generation iPad Mini includes a Liquid Retina display. | Photo: David Pierce / The Verge The iPad Mini could get an OLED display upgrade as soon as October, according to Bloomberg 's Mark Gurman. It would be the most significant refresh for the Mini since its 2021 redesign. An OLED iPad Mini has been ru.",
+      "date": "2026-07-16"
+    },
     {
       "title": "Discovered by Atlas",
       "summary": "Apple first entered the public knowledge record with source-backed evidence.",
@@ -34,6 +39,13 @@
       "date": "2026-07-13"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Apple’s OLED iPad Mini upgrade is on the way as prices continue to rise",
+      "url": "https://www.theverge.com/tech/966535/apple-oled-ipad-mini-rumor?utm_source=lootura.com",
+      "publishedAt": "2026-07-16T15:04:12.000Z",
+      "sourceId": "lootura-us-the-verge"
+    }
+  ],
+  "evidenceCount": 1
 }

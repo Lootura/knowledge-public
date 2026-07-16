@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/united-states/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/united-states/index.json",
   "description": "Sigue la actividad de Estados Unidos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-16T13:45:06.103Z",
+  "updatedAt": "2026-07-16T17:13:06.098Z",
   "aliases": [
     "America",
     "Estados Unidos",
@@ -72,13 +72,7 @@
       "url": "https://elpais.com/economia/2026-07-16/estados-unidos-impone-nuevos-aranceles-del-25-a-la-mayor-parte-de-productos-brasilenos-y-acusa-a-lula-de-no-negociar-de-buena-fe.html?utm_source=lootura.com",
       "publishedAt": "2026-07-16T12:29:57.000Z",
       "sourceId": "lootura-es-cinco-dias"
-    },
-    {
-      "title": "Un estudio revela la huella del caballo español en buena parte de la caballería americana",
-      "url": "https://www.larazon.es/andalucia/estudio-revela-huella-caballo-espanol-buena-parte-caballeria-americana_202607166a58dcec1db8de04099216b4.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-16T13:30:20.000Z",
-      "sourceId": "lootura-es-la-razon"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

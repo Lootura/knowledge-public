@@ -8,9 +8,14 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/canada/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/canada/index.json",
   "description": "Follow Canada, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-16T13:45:32.280Z",
+  "updatedAt": "2026-07-16T17:13:33.353Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "Climate extremes fuel explosive wildfires in Canada and the U.S., experts say",
+      "summary": "One climatologist said \"a perfect storm\" of climate extremes primed the western U.S. for one of its worst fire seasons in a decade. Meanwhile, Canadian wildfire smoke fills the air.",
+      "date": "2026-07-16"
+    },
     {
       "title": "Wildfires expose millions in Midwest, Northeast to dangerous smoke",
       "summary": "Heavy smoke from several large wildfires blazing in Canada and Minnesota is engulfing large swaths of the Midwest and Northeast U.S. this week.",
@@ -55,18 +60,13 @@
       "title": "Toronto shooting: two dead and four injured near street festival, with suspect still at large",
       "summary": "Police in the city in Canada say suspect has not been apprehended after finding six people with gunshot wounds near Salsa on St Clair Festival A shooting near a Toronto street festival killed two people and wounded four others on Saturday, prompting police to warn of an active shooter before later saying the scene was.",
       "date": "2026-07-12"
-    },
-    {
-      "title": "Discovered by Atlas",
-      "summary": "Canada first entered the public knowledge record with source-backed evidence.",
-      "date": "2026-07-11"
     }
   ],
   "sources": [
     {
-      "title": "Wildfires expose millions in Midwest, Northeast to dangerous smoke",
-      "url": "https://www.cbsnews.com/news/wildfires-smoke-millions-exposed-midwest-northeast-us/?utm_source=lootura.com",
-      "publishedAt": "2026-07-16T04:27:00.000Z",
+      "title": "Climate extremes fuel explosive wildfires in Canada and the U.S., experts say",
+      "url": "https://www.cbsnews.com/news/climate-extremes-wildfires-canada-us-west/?utm_source=lootura.com",
+      "publishedAt": "2026-07-16T17:06:08.000Z",
       "sourceId": "lootura-us-cbs-news"
     }
   ],

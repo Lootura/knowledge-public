@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/barcelona/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/barcelona/index.json",
   "description": "Sigue la actividad de Barcelona en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-16T06:27:44.347Z",
+  "updatedAt": "2026-07-16T17:13:06.098Z",
   "aliases": [],
   "changes": [
     {
@@ -62,6 +62,13 @@
       "date": "2026-07-13"
     }
   ],
-  "sources": [],
+  "sources": [
+    {
+      "title": "Los niños de Messi van a por su corona",
+      "url": "https://www.abc.es/deportes/futbol/mundial/ninos-messi-van-corona-20260716132452-ntrc.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-16T16:53:21.000Z",
+      "sourceId": "lootura-es-abc"
+    }
+  ],
   "evidenceCount": 0
 }

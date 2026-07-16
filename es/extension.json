@@ -1,28 +1,28 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-16T15:19:53.493Z",
+  "generatedAt": "2026-07-16T17:18:25.492Z",
   "radar": {
     "id": "es",
     "slug": "es",
     "locale": "es"
   },
   "state": {
-    "signature": "1.16.0|5|1784209506103",
+    "signature": "1.16.0|6|1784221986098",
     "version": "1.16.0",
-    "build": 5,
-    "latestEntityUpdatedAt": "2026-07-16T13:45:06.103Z"
+    "build": 6,
+    "latestEntityUpdatedAt": "2026-07-16T17:13:06.098Z"
   },
   "atlas": {
     "hero": {
-      "id": "es-el-tribunal",
-      "name": "El Tribunal",
-      "type": "organization",
-      "title": "El TJUE avala la ley de Amnistía pero Puigdemont no volverá de momento",
-      "url": "https://atlas.lootura.com/es/organization/el-tribunal",
-      "path": "/es/organization/el-tribunal",
-      "updatedAt": "2026-07-16T13:45:06.103Z",
-      "score": 1627,
-      "sourceCount": 12,
+      "id": "es-begona-gomez",
+      "name": "Begoña Gómez",
+      "type": "person",
+      "title": "La Audiencia de Madrid avala que la causa contra Begoña Gómez siga adelante por jurado por dos delitos",
+      "url": "https://atlas.lootura.com/es/person/begona-gomez",
+      "path": "/es/person/begona-gomez",
+      "updatedAt": "2026-07-16T17:13:06.098Z",
+      "score": 1582,
+      "sourceCount": 22,
       "isBreaking": false,
       "isPinned": false
     },
@@ -34,35 +34,22 @@
         "title": "La Audiencia de Madrid avala que la causa contra Begoña Gómez siga adelante por jurado por dos delitos",
         "url": "https://atlas.lootura.com/es/place/madrid",
         "path": "/es/place/madrid",
-        "updatedAt": "2026-07-16T13:45:06.103Z",
-        "score": 1602,
-        "sourceCount": 149,
+        "updatedAt": "2026-07-16T17:13:06.098Z",
+        "score": 1579,
+        "sourceCount": 152,
         "isBreaking": false,
         "isPinned": false
       },
       {
-        "id": "es-begona-gomez",
-        "name": "Begoña Gómez",
+        "id": "es-pedro-sanchez",
+        "name": "Pedro Sánchez",
         "type": "person",
         "title": "La Audiencia de Madrid avala que la causa contra Begoña Gómez siga adelante por jurado por dos delitos",
-        "url": "https://atlas.lootura.com/es/person/begona-gomez",
-        "path": "/es/person/begona-gomez",
-        "updatedAt": "2026-07-16T13:45:06.103Z",
-        "score": 1601,
-        "sourceCount": 22,
-        "isBreaking": false,
-        "isPinned": false
-      },
-      {
-        "id": "es-guardia-civil",
-        "name": "Guardia Civil",
-        "type": "person",
-        "title": "El DAO de la Guardia Civil abrió un expediente a la UCO tras recibir una llamada de queja de Marlaska",
-        "url": "https://atlas.lootura.com/es/organization/guardia-civil",
-        "path": "/es/organization/guardia-civil",
-        "updatedAt": "2026-07-16T13:45:06.103Z",
-        "score": 1582,
-        "sourceCount": 14,
+        "url": "https://atlas.lootura.com/es/person/pedro-sanchez",
+        "path": "/es/person/pedro-sanchez",
+        "updatedAt": "2026-07-16T17:13:06.098Z",
+        "score": 1553,
+        "sourceCount": 148,
         "isBreaking": false,
         "isPinned": false
       },
@@ -73,13 +60,26 @@
         "title": "El Gobierno pide que se aplique la amnistía tras el \"éxito\" en el TJUE y poner fin a un debate que en España \"no fue jurídico, sino visceral\"",
         "url": "https://atlas.lootura.com/es/organization/el-gobierno",
         "path": "/es/organization/el-gobierno",
-        "updatedAt": "2026-07-16T13:45:06.103Z",
-        "score": 1581,
-        "sourceCount": 19,
+        "updatedAt": "2026-07-16T17:13:06.098Z",
+        "score": 1531,
+        "sourceCount": 20,
+        "isBreaking": false,
+        "isPinned": false
+      },
+      {
+        "id": "es-espana",
+        "name": "España",
+        "type": "place",
+        "title": "Puigdemont enfría un regreso inminente a España: “El camino para acabar con la represión no ha terminado”",
+        "url": "https://atlas.lootura.com/es/place/espana",
+        "path": "/es/place/espana",
+        "updatedAt": "2026-07-16T17:13:06.098Z",
+        "score": 1531,
+        "sourceCount": 292,
         "isBreaking": false,
         "isPinned": false
       }
     ],
-    "publicEntityCount": 45
+    "publicEntityCount": 43
   }
 }

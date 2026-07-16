@@ -3,10 +3,16 @@
 > Sigue la actividad de Iran en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-16T13:45:06.103Z
+- Actualizado: 2026-07-16T17:13:06.098Z
 - Canonical: https://atlas.lootura.com/es/place/iran
 
 ## Cambios recientes
+
+### El Ibex salva la sesión con un alza del 0,15% que le lleva a superar los 19.300 puntos
+
+Los mercados siguen encontrando obstáculos que atenazan sus subidas. La nueva espiral de ataques de EEUU sobre Irán y la subida de tipos en Corea mantienen en guardia a los inversores. El Ibex, con movimientos estrechos durante toda la semana, vuelve a consolidar niveles en el día del estreno en Bolsa de Digi.
+
+Date: 2026-07-16
 
 ### El Ibex pierde los 19.200 puntos atento a resultados y tecnológicas
 
@@ -62,12 +68,6 @@ Las Fuerzas Armadas estadounidenses reimpusieron este martes el bloqueo naval a 
 
 Date: 2026-07-14
 
-### Irán, la Fed y las 'midterm', un cóctel explosivo para la Bolsa en verano
-
-El conflicto en Irán sigue dando coletazos que mantienen la tensión en el estrecho de Ormuz y unos precios elevados del petróleo. Seguir leyendo.
-
-Date: 2026-07-14
-
 ## Fuentes
 
-- [El Ibex pierde los 19.200 puntos atento a resultados y tecnológicas](https://www.expansion.com/mercados/cronica-bolsa/2026/07/16/6a58713e468aeb64098b4570.html?utm_source=lootura.com) — 2026-07-16T12:20:53.000Z
+- [El Ibex salva la sesión con un alza del 0,15% que le lleva a superar los 19.300 puntos](https://www.expansion.com/mercados/cronica-bolsa/2026/07/16/6a58713e468aeb64098b4570.html?utm_source=lootura.com) — 2026-07-16T15:43:29.000Z

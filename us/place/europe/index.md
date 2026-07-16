@@ -3,10 +3,16 @@
 > Follow Europe, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-16T13:45:32.280Z
+- Updated: 2026-07-16T17:13:33.353Z
 - Canonical: https://atlas.lootura.com/us/place/europe
 
 ## Recent changes
+
+### Devastating Asian beetle detected in EU for first time
+
+A tiny Asian-origin beetle that has devastated ash forests in North America has been detected in the European Union for the first time, in Hungary and Slovakia, authorities said.
+
+Date: 2026-07-16
 
 ### Understanding Bavaria's Indigeneity
 
@@ -62,12 +68,6 @@ It's beginning to look a lot like Christmas — if you ignore the calendar, that
 
 Date: 2026-07-12
 
-### Poll: Patriotism in the US, Europe and Canada, charted
-
-What does it mean to be patriotic? It depends on a country's politics. Pride in one’s country is itself relatively common, according to new results from an international edition of The POLITICO Poll: Majorities of adults across the United States, United Kingdom, Spain, Canada, France and Germany all say they are proud.
-
-Date: 2026-07-11
-
 ## Sources
 
-- [The Quest for ‘Technological Sovereignty’ in Europe (and Why It’s So Hard)](https://www.nytimes.com/2026/07/16/world/europe/digital-autonomy-ai.html?utm_source=lootura.com) — 2026-07-16T13:24:22.000Z
+- [Devastating Asian beetle detected in EU for first time](https://phys.org/news/2026-07-devastating-asian-beetle-eu.html?utm_source=lootura.com) — 2026-07-16T16:20:01.000Z

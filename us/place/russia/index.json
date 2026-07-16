@@ -8,17 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/russia/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/russia/index.json",
   "description": "Follow Russia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-16T13:45:32.280Z",
+  "updatedAt": "2026-07-16T17:13:33.353Z",
   "aliases": [],
   "changes": [
     {
-      "title": "How drones are reshaping modern warfare in Ukraine, Middle East",
-      "summary": "Drones have become a defining feature of the conflict between Russia and Ukraine. They.",
+      "title": "Ukrainian's Zelenskyy faces major backlash for ousting defense chief Mykhailo Fedorov amid progress vs. Russia",
+      "summary": "Ukrainians are demonstrating in Kyiv and senior figures announcing their resignations over President Volodymyr Zelenksyy's move to oust his popular defense chief.",
       "date": "2026-07-16"
     },
     {
-      "title": "Ukrainian's Zelenskyy faces major backlash for ousting defense chief Mykhailo Fedorov amid progress vs. Russia",
-      "summary": "Ukrainians are demonstrating in Kyiv and senior figures announcing their resignations over President Volodymyr Zelenksyy's move to oust his popular defense chief.",
+      "title": "How drones are reshaping modern warfare in Ukraine, Middle East",
+      "summary": "Drones have become a defining feature of the conflict between Russia and Ukraine. They.",
       "date": "2026-07-16"
     },
     {
@@ -68,19 +68,7 @@
       "url": "https://www.cbsnews.com/news/ukrainian-protest-zelenskyy-oust-defense-chief-mykhailo-fedorov-russia-war/?utm_source=lootura.com",
       "publishedAt": "2026-07-16T13:39:04.000Z",
       "sourceId": "lootura-us-cbs-news"
-    },
-    {
-      "title": "How drones are reshaping modern warfare in Ukraine, Middle East",
-      "url": "https://www.cbsnews.com/video/drones-warfare-iran-ukraine-russia-middle-east/?utm_source=lootura.com",
-      "publishedAt": "2026-07-16T02:13:49.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
-    {
-      "title": "Zelenskyy fires Ukraine's tech-savvy defense minister in government reshuffle",
-      "url": "https://www.npr.org/2026/07/16/g-s1-133920/ukraine-defense-minister-fired?utm_source=lootura.com",
-      "publishedAt": "2026-07-16T11:33:11.000Z",
-      "sourceId": "lootura-us-npr-world"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 1
 }

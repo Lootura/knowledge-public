@@ -3,7 +3,7 @@
 > Sigue la actividad de Gobierno de España en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-15T02:11:09.495Z
+- Actualizado: 2026-07-16T17:13:06.098Z
 - Canonical: https://atlas.lootura.com/es/organization/gobierno-de-espana
 
 ## Cambios recientes
@@ -70,4 +70,4 @@ Date: 2026-07-10
 
 ## Fuentes
 
-No public source links.
+- [El Gobierno recurrirá los presupuestos valencianos si incluyen la «prioridad nacional»](https://theobjective.com/espana/politica/2026-07-16/gobierno-recurrira-presupuestos-valencianos-prioridad-nacional/?utm_source=lootura.com) — 2026-07-16T15:41:13.000Z

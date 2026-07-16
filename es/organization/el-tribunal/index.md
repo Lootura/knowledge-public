@@ -3,7 +3,7 @@
 > Sigue la actividad de El Tribunal en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-16T13:45:06.103Z
+- Actualizado: 2026-07-16T17:13:06.098Z
 - Canonical: https://atlas.lootura.com/es/organization/el-tribunal
 
 ## Cambios recientes
@@ -72,4 +72,3 @@ Date: 2026-07-16
 
 - [El Tribunal de la UE concluye que la Ley de Amnistía no choca con la normativa comunitaria y allana el regreso de Puigdemont](https://amp.elmundo.es/espana/2026/07/16/6a5894afe9cf4a42658b45a2.html?utm_source=lootura.com) — 2026-07-16T08:22:26.000Z
 - [La justicia europea avala la amnistía a los CDR procesados por terrorismo: “Es un alivio”](https://elpais.com/espana/catalunya/2026-07-16/la-justicia-europea-avala-la-amnistia-a-los-cdr-que-estan-procesados-por-terrorismo.html?utm_source=lootura.com) — 2026-07-16T10:06:38.000Z
-- [El aval europeo no implica la amnistía inmediata para Puigdemont y Junqueras, que deberán esperar al Constitucional](https://www.eldiario.es/catalunya/aval-europeo-no-implica-amnistia-inmediata-puigdemont-junqueras-deberan-esperar-constitucional_1_13384183.html?utm_source=lootura.com) — 2026-07-16T09:27:20.000Z

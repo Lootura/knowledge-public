@@ -3,7 +3,7 @@
 > Follow New York, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-15T20:58:15.661Z
+- Updated: 2026-07-16T17:13:33.353Z
 - Canonical: https://atlas.lootura.com/us/place/new-york
 
 ## Recent changes
@@ -70,4 +70,4 @@ Date: 2026-07-14
 
 ## Sources
 
-No public source links.
+- [Husband of Code Pink founder being investigated under federal agent and tax laws](https://www.cbsnews.com/news/husband-code-pink-founder-neville-roy-singham-investigation-tax-laws/?utm_source=lootura.com) — 2026-07-16T17:01:59.000Z

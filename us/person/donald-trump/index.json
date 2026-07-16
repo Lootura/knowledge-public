@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/donald-trump/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/donald-trump/index.json",
   "description": "Follow Donald Trump, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-16T13:45:32.280Z",
+  "updatedAt": "2026-07-16T17:13:33.353Z",
   "aliases": [
     "President Donald Trump",
     "President Trump",
@@ -46,27 +46,39 @@
       "date": "2026-07-16"
     },
     {
-      "title": "Trump wants to fence off the park closest to the White House, a popular protest spot",
+      "title": "Why the Trump administration is looking at Cuba military options",
+      "summary": "Senior defense officials are examining potential military options in Cuba, CBS News has learned. CBS News contributor Sam Vinograd has more.",
+      "date": "2026-07-16"
+    },
+    {
+      "title": "H.R. McMaster on the U.S.-Iran feud over the Strait of Hormuz",
+      "summary": "H.R. McMaster, a CBS News contributor and President Trump's former national security adviser in his first term, joins CBS News 24/7 Mornings to discuss the current situation in the Strait of Hormuz as the U.S.-Iran feud ramps up.",
+      "date": "2026-07-16"
+    },
+    {
+      "title": "Trump wants a permanent fence around the D.C. park known for White House protests",
       "summary": "The Trump administration wants to install permanent fencing around Lafayette Park, directly outside the White House. It's long been a popular spot for protesters, who worry barriers will change that. (Image credit: U.S. Commission of Fine Arts).",
       "date": "2026-07-16"
     },
     {
-      "title": "The political risks from war in Iran. And, ICE's use of force is rising, report finds",
-      "summary": "The political implications the war in Iran is having on the GOP. And, a new report has found that ICE officers' use of force is not rare since President Trump took office for his second term. (Image credit: -/AFP via Getty Images).",
-      "date": "2026-07-16"
-    },
-    {
-      "title": "How Trump’s ‘original oil guy’ boosted US-Israel ties and played down risks of Iran war",
-      "summary": "Fracking billionaire Harold Hamm is co-chair of a non-profit that has aggressively pushed for US energy dominance Tycoon Harold Hamm is one of the US’s most successful oilmen, the son of Oklahoma sharecroppers who hit it rich as a “wildcatter” and pioneered fracking techniques that drove the shale boom in 2008 that rev.",
-      "date": "2026-07-16"
-    },
-    {
-      "title": "In Iran war, Trump Risks Another American ‘Forever War’",
-      "summary": "President Trump, who promised to “end wars,” not start them, may have fallen into a familiar presidential trap.",
+      "title": "Trump is taking longer to approve disaster aid and denying Democratic states more frequently",
+      "summary": "When major disasters strike, Americans are routinely waiting weeks — or even months — to receive presidential approval for aid. And if they live in a state that didn't support President Donald Trump, chances are greater that aid will be denied.",
       "date": "2026-07-16"
     }
   ],
   "sources": [
+    {
+      "title": "Why the Trump administration is looking at Cuba military options",
+      "url": "https://www.cbsnews.com/video/why-the-trump-administration-is-looking-at-cuba-military-options/?utm_source=lootura.com",
+      "publishedAt": "2026-07-16T15:43:00.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
+    {
+      "title": "H.R. McMaster on the U.S.-Iran feud over the Strait of Hormuz",
+      "url": "https://www.cbsnews.com/video/hr-mcmaster-on-u-s-iran-feud-over-strait-of-hormuz/?utm_source=lootura.com",
+      "publishedAt": "2026-07-16T16:01:26.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
     {
       "title": "Blanche faces sharp questioning over Epstein files, relationship with Trump at hearing",
       "url": "https://www.cbsnews.com/video/blanche-questioning-epstein-files-relationship-with-trump-confirmation-hearing/?utm_source=lootura.com",
@@ -92,7 +104,7 @@
       "sourceId": "lootura-us-npr-politics"
     },
     {
-      "title": "Trump wants to fence off the park closest to the White House, a popular protest spot",
+      "title": "Trump wants a permanent fence around the D.C. park known for White House protests",
       "url": "https://www.npr.org/2026/07/16/nx-s1-5893465/dc-lafayette-square-park-permanent-fencing-proposal?utm_source=lootura.com",
       "publishedAt": "2026-07-16T12:13:23.000Z",
       "sourceId": "lootura-us-npr-politics"
@@ -104,29 +116,17 @@
       "sourceId": "lootura-us-npr-politics"
     },
     {
-      "title": "The political risks from war in Iran. And, ICE's use of force is rising, report finds",
-      "url": "https://www.npr.org/2026/07/16/g-s1-133918/up-first-newsletter-iran-us-trump-jay-clayton-ice-use-of-force?utm_source=lootura.com",
-      "publishedAt": "2026-07-16T11:29:01.000Z",
-      "sourceId": "lootura-us-npr-world"
+      "title": "Trump is taking longer to approve disaster aid and denying Democratic states more frequently",
+      "url": "https://www.pbs.org/newshour/politics/trump-is-taking-longer-to-approve-disaster-aid-and-denying-democratic-states-more-frequently?utm_source=lootura.com",
+      "publishedAt": "2026-07-16T16:14:57.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
     },
     {
-      "title": "How Trump’s ‘original oil guy’ boosted US-Israel ties and played down risks of Iran war",
-      "url": "https://www.theguardian.com/us-news/2026/jul/16/harold-hamm-trump-oil-israel-iran?utm_source=lootura.com",
-      "publishedAt": "2026-07-16T12:00:39.000Z",
-      "sourceId": "lootura-us-the-guardian-us"
-    },
-    {
-      "title": "Todd Blanche, Trump’s Attorney General Pick, Faces Crucial Hurdle After Rocky Hearing",
-      "url": "https://www.nytimes.com/2026/07/15/us/politics/todd-blanche-attorney-general-confirmation.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-16T00:49:30.000Z",
-      "sourceId": "lootura-us-the-new-york-times"
-    },
-    {
-      "title": "Trump’s Latest C.D.C. Nominee Vows Not to ‘Betray the Science’",
-      "url": "https://www.nytimes.com/2026/07/15/health/cdc-erica-schwartz.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-15T19:07:08.000Z",
-      "sourceId": "lootura-us-the-new-york-times"
+      "title": "Trump immediately fires the new court-appointed top prosecutor in Seattle",
+      "url": "https://www.pbs.org/newshour/politics/trump-immediately-fires-the-new-court-appointed-top-prosecutor-in-seattle?utm_source=lootura.com",
+      "publishedAt": "2026-07-16T16:43:28.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
     }
   ],
-  "evidenceCount": 11
+  "evidenceCount": 15
 }

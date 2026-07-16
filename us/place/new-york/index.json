@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/new-york/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/new-york/index.json",
   "description": "Follow New York, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-15T20:58:15.661Z",
+  "updatedAt": "2026-07-16T17:13:33.353Z",
   "aliases": [
     "New York City"
   ],
@@ -64,6 +64,13 @@
       "date": "2026-07-14"
     }
   ],
-  "sources": [],
+  "sources": [
+    {
+      "title": "Husband of Code Pink founder being investigated under federal agent and tax laws",
+      "url": "https://www.cbsnews.com/news/husband-code-pink-founder-neville-roy-singham-investigation-tax-laws/?utm_source=lootura.com",
+      "publishedAt": "2026-07-16T17:01:59.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    }
+  ],
   "evidenceCount": 0
 }

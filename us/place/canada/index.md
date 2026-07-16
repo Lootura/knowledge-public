@@ -3,10 +3,16 @@
 > Follow Canada, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-16T13:45:32.280Z
+- Updated: 2026-07-16T17:13:33.353Z
 - Canonical: https://atlas.lootura.com/us/place/canada
 
 ## Recent changes
+
+### Climate extremes fuel explosive wildfires in Canada and the U.S., experts say
+
+One climatologist said "a perfect storm" of climate extremes primed the western U.S. for one of its worst fire seasons in a decade. Meanwhile, Canadian wildfire smoke fills the air.
+
+Date: 2026-07-16
 
 ### Wildfires expose millions in Midwest, Northeast to dangerous smoke
 
@@ -62,12 +68,6 @@ Police in the city in Canada say suspect has not been apprehended after finding 
 
 Date: 2026-07-12
 
-### Discovered by Atlas
-
-Canada first entered the public knowledge record with source-backed evidence.
-
-Date: 2026-07-11
-
 ## Sources
 
-- [Wildfires expose millions in Midwest, Northeast to dangerous smoke](https://www.cbsnews.com/news/wildfires-smoke-millions-exposed-midwest-northeast-us/?utm_source=lootura.com) — 2026-07-16T04:27:00.000Z
+- [Climate extremes fuel explosive wildfires in Canada and the U.S., experts say](https://www.cbsnews.com/news/climate-extremes-wildfires-canada-us-west/?utm_source=lootura.com) — 2026-07-16T17:06:08.000Z

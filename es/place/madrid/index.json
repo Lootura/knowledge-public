@@ -8,32 +8,12 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/madrid/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/madrid/index.json",
   "description": "Sigue la actividad de Madrid en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-16T13:45:06.103Z",
+  "updatedAt": "2026-07-16T17:13:06.098Z",
   "aliases": [],
   "changes": [
     {
-      "title": "La Audiencia de Madrid avala enjuiciar ante un jurado a Begoña Gómez y le devuelve el pasaporte",
-      "summary": "La Audiencia Provincial de Madrid ha avalado la decisión del juez Juan Carlos Peinado de enviar a Begoña Gómez a juicio ante el tribunal del jurado por delitos de malversación y tráfico de influencias . En cambio, ha revocado el enjuiciamiento por delitos de corrupción en los negocios y apropiación indebida, y ha acord.",
-      "date": "2026-07-16"
-    },
-    {
-      "title": "El humorista Héctor de Miguel, Quequé, queda libre tras ser detenido por un delito de desobediencia",
-      "summary": "El humorista Héctor de Miguel, conocido como Quequé, ha quedado en libertad este jueves tras ser detenido por la Policía Nacional la pasada noche en Salamanca por un delito de desobediencia por el que está siendo investigado en un juzgado de Madrid, según ha informado el Tribunal Superior de Justicia de Castilla y León.",
-      "date": "2026-07-16"
-    },
-    {
-      "title": "En libertad el humorista Quequé tras ser detenido en Salamanca por una reclamación judicial",
-      "summary": "El humorista Héctor de Miguel, conocido como Quequé , ha quedado en libertad este jueves tras ser detenido por la Policía Nacional la pasada noche en Salamanca por un delito de desobediencia por el que está siendo investigado en un juzgado de Madrid , según ha informado el Tribunal Superior de Justicia de Castilla y Le.",
-      "date": "2026-07-16"
-    },
-    {
       "title": "La Audiencia de Madrid avala que la causa contra Begoña Gómez siga adelante por jurado por dos delitos",
       "summary": "La Audiencia Provincial de Madrid ha dado luz verde a que el proceso por jurado popular contra Begoña Gómez, esposa de Pedro Sánchez, siga adelante por dos delitos: tráfico de influencias y malversación. El tribunal avala así parcialmente la decisión del juez Juan Carlos Peinado de enviar al banquillo a la pareja del p.",
-      "date": "2026-07-16"
-    },
-    {
-      "title": "Moncloa también rabia contra la Audiencia por ratificar el juicio a Begoña Gómez: «Es una causa política»",
-      "summary": "El Gobierno de Pedro Sánchez ha estallado contra la decisión de la Audiencia de Madrid que avala el procesamiento de Begoña Gómez , esposa del líder socialista, por presuntos delitos de tráfico de influencias y malversación de caudales públicos tras la instrucción del juez Juan Carlos Peinado . «Se trata de una causa p.",
       "date": "2026-07-16"
     },
     {
@@ -52,51 +32,65 @@
       "date": "2026-07-16"
     },
     {
-      "title": "Los Cines Callao de Madrid celebran sus 100 años con una proyección de 'Regreso al futuro' al aire libre, agua y palomitas gratis",
-      "summary": "Los Cines Callao de Madrid celebran 100 años de historia con un cine de verano gratuito en la plaza de Callao , donde proyectarán Regreso al futuro y repartirán palomitas y agua entre los asistentes. Cuando cae la tarde, la plaza de Callao cambia el ritmo frenético del centro de Madrid por un ambiente completamente dis.",
+      "title": "Un incendio en Lozoyuela obliga a desalojar una urbanización en la Sierra de Madrid y confinar el municipio de Puentes Viejas",
+      "summary": "Un incendio en el municipio de Lozoyuela obliga a activar la Situación Operativa 2 del Plan de Protección Civil. La situación en la sierra de Madrid ha obligado a desalojar viviendas de la urbanización de San Lázaro (en Lozoyuela) y a confinar el municipio de Puentes Viejas. Junto a estas actuaciones, se ha cortado la.",
       "date": "2026-07-16"
     },
     {
-      "title": "Detienen al humorista Quequé en Salamanca por una reclamación judicial en Madrid",
-      "summary": "El humorista Héctor de Miguel , popularmente conocido como Quequé, fue arrestado anoche en Salamanca por la Policía Nacional debido a una reclamación judicial cursada por un juzgado de Madrid. Según confirmaron a EFE fuentes de la Delegación del Gobierno en Castilla y León , el cómico permanece bajo custodia en su ciud.",
+      "title": "Luces y sombras en el estreno de Digi en Bolsa: empezó la jornada con una caída del 7% y acabó con un batacazo del 8%",
+      "summary": "El tradicional toque de campana del Palacio de la Bolsa de Madrid ha anunciado este mediodía la cotización de Digi Spain Telecom, la filial española del Grupo Digi , en el Mercado Continuo. La empresa ha debutado a un precio de 6 euros por acción, lo que supone una subida del 7% en los primeros minutos. La operación, a.",
+      "date": "2026-07-16"
+    },
+    {
+      "title": "Un incendio en Lozoyuela (Madrid) obliga a confinar varios pueblos tras el envío de la alerta",
+      "summary": "La Comunidad de Madrid ha activado la Situación Operativa 2 del Plan Infoma por el incendio forestal de Lozoyuela y ha mandado un mensaje a través del sistema Es-Alert para ordenar el confinamiento de la población afectada en la localidad de Buitrago de Lozoya y las pedanías de Cinco Villas y Manjirón , ambas en el mun.",
+      "date": "2026-07-16"
+    },
+    {
+      "title": "La Audiencia de Madrid avala enjuiciar ante un jurado a Begoña Gómez y le devuelve el pasaporte",
+      "summary": "La Audiencia Provincial de Madrid ha avalado la decisión del juez Juan Carlos Peinado de enviar a Begoña Gómez a juicio ante el tribunal del jurado por delitos de malversación y tráfico de influencias . En cambio, ha revocado el enjuiciamiento por delitos de corrupción en los negocios y apropiación indebida, y ha acord.",
+      "date": "2026-07-16"
+    },
+    {
+      "title": "El humorista Héctor de Miguel, Quequé, queda libre tras ser detenido por un delito de desobediencia",
+      "summary": "El humorista Héctor de Miguel, conocido como Quequé, ha quedado en libertad este jueves tras ser detenido por la Policía Nacional la pasada noche en Salamanca por un delito de desobediencia por el que está siendo investigado en un juzgado de Madrid, según ha informado el Tribunal Superior de Justicia de Castilla y León.",
+      "date": "2026-07-16"
+    },
+    {
+      "title": "En libertad el humorista Quequé tras ser detenido en Salamanca por una reclamación judicial",
+      "summary": "El humorista Héctor de Miguel, conocido como Quequé , ha quedado en libertad este jueves tras ser detenido por la Policía Nacional la pasada noche en Salamanca por un delito de desobediencia por el que está siendo investigado en un juzgado de Madrid , según ha informado el Tribunal Superior de Justicia de Castilla y Le.",
       "date": "2026-07-16"
     }
   ],
   "sources": [
     {
-      "title": "La Audiencia de Madrid avala enjuiciar ante un jurado a Begoña Gómez y le devuelve el pasaporte",
-      "url": "https://www.20minutos.es/nacional/audiencia-madrid-avala-enjuiciar-ante-un-jurado-begona-gomez-por-dos-los-cuatro-delitos-le-devuelve-pasaporte_7015448_0.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-16T11:38:05.000Z",
+      "title": "Un incendio en Lozoyuela obliga a desalojar una urbanización en la Sierra de Madrid y confinar el municipio de Puentes Viejas",
+      "url": "https://www.20minutos.es/madrid/un-incendio-lozoyuela-obliga-desalojar-una-urbanizacion-sierra-madrid-confinar-municipio-puentes-viejas_7015611_0.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-16T17:01:43.000Z",
       "sourceId": "lootura-es-20minutos"
     },
     {
-      "title": "El humorista Héctor de Miguel, Quequé, queda libre tras ser detenido por un delito de desobediencia",
-      "url": "https://www.20minutos.es/gente/libertad-humorista-hector-miguel-queque-tras-ser-detenido-por-un-delito-desobediencia_7015480_0.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-16T12:38:49.000Z",
-      "sourceId": "lootura-es-20minutos"
-    },
-    {
-      "title": "En libertad el humorista Quequé tras ser detenido en Salamanca por una reclamación judicial",
-      "url": "https://www.elconfidencial.com/espana/2026-07-16/queque-detenido-salamanca-reclamacion-judicial-1tna-1tps_4390995/?utm_source=lootura.com",
-      "publishedAt": "2026-07-16T09:58:00.000Z",
-      "sourceId": "lootura-es-el-confidencial"
+      "title": "Luces y sombras en el estreno de Digi en Bolsa: empezó la jornada con una caída del 7% y acabó con un batacazo del 8%",
+      "url": "https://www.abc.es/economia/digi-estrena-hoy-bolsa-espanola-20260716094030-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-16T16:37:58.000Z",
+      "sourceId": "lootura-es-abc"
     },
     {
       "title": "La Audiencia de Madrid avala que la causa contra Begoña Gómez siga adelante por jurado por dos delitos",
       "url": "https://elpais.com/espana/2026-07-16/la-audiencia-de-madrid-avala-que-la-causa-contra-begona-gomez-siga-adelante-por-jurado-por-dos-delitos.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-16T13:25:57.000Z",
+      "publishedAt": "2026-07-16T15:21:22.000Z",
       "sourceId": "lootura-es-el-pais"
-    },
-    {
-      "title": "Moncloa también rabia contra la Audiencia por ratificar el juicio a Begoña Gómez: «Es una causa política»",
-      "url": "https://okdiario.com/espana/moncloa-tambien-rabia-contra-audiencia-ratificar-juicio-begona-gomez-causa-politica-19009566?utm_source=lootura.com",
-      "publishedAt": "2026-07-16T13:17:34.000Z",
-      "sourceId": "lootura-es-ok-diario"
     },
     {
       "title": "El PP, tras mantenerse el juicio con jurado a Begoña Gómez: «Una situación inconcebible»",
       "url": "https://theobjective.com/espana/politica/2026-07-16/pp-juicio-jurado-gomez-situacion-inconcebible/?utm_source=lootura.com",
       "publishedAt": "2026-07-16T13:20:44.000Z",
+      "sourceId": "lootura-es-the-objective"
+    },
+    {
+      "title": "Un incendio en Lozoyuela (Madrid) obliga a confinar varios pueblos tras el envío de la alerta",
+      "url": "https://theobjective.com/sociedad/suceso/2026-07-16/incendio-lozoyuela-madrid/?utm_source=lootura.com",
+      "publishedAt": "2026-07-16T16:52:21.000Z",
       "sourceId": "lootura-es-the-objective"
     },
     {
@@ -112,5 +106,5 @@
       "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 8
+  "evidenceCount": 7
 }

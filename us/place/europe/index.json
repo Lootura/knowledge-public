@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/europe/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/europe/index.json",
   "description": "Follow Europe, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-16T13:45:32.280Z",
+  "updatedAt": "2026-07-16T17:13:33.353Z",
   "aliases": [
     "EU",
     "European Union"
   ],
   "changes": [
+    {
+      "title": "Devastating Asian beetle detected in EU for first time",
+      "summary": "A tiny Asian-origin beetle that has devastated ash forests in North America has been detected in the European Union for the first time, in Hungary and Slovakia, authorities said.",
+      "date": "2026-07-16"
+    },
     {
       "title": "Understanding Bavaria's Indigeneity",
       "summary": "When I tell people that I am a proud Boarisch-Schwob—Bavarian-Swabian—Indigenous person, I am often met with disbelief. I am white. I am European. I come from Bavaria, one of Europe's wealthiest regions. For some people, those facts settle the question before I have explained anything else.",
@@ -58,20 +63,15 @@
       "title": "It's Christmas in July as hundreds of Santas go on the march in the middle of a stifling summer heat wave",
       "summary": "It's beginning to look a lot like Christmas — if you ignore the calendar, that is. While much of Europe continues to grapple with stifling summer heat, one Danish city looked ready for Christmas. Hundreds of Santa Clauses, Mrs. Clauses and Christmas elves from around the world filled the streets this week for the annua.",
       "date": "2026-07-12"
-    },
-    {
-      "title": "Poll: Patriotism in the US, Europe and Canada, charted",
-      "summary": "What does it mean to be patriotic? It depends on a country's politics. Pride in one’s country is itself relatively common, according to new results from an international edition of The POLITICO Poll: Majorities of adults across the United States, United Kingdom, Spain, Canada, France and Germany all say they are proud.",
-      "date": "2026-07-11"
     }
   ],
   "sources": [
     {
-      "title": "The Quest for ‘Technological Sovereignty’ in Europe (and Why It’s So Hard)",
-      "url": "https://www.nytimes.com/2026/07/16/world/europe/digital-autonomy-ai.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-16T13:24:22.000Z",
-      "sourceId": "lootura-us-the-new-york-times-world"
+      "title": "Devastating Asian beetle detected in EU for first time",
+      "url": "https://phys.org/news/2026-07-devastating-asian-beetle-eu.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-16T16:20:01.000Z",
+      "sourceId": "lootura-us-phys-org"
     }
   ],
-  "evidenceCount": 0
+  "evidenceCount": 1
 }

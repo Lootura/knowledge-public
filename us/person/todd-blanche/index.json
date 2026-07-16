@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/todd-blanche/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/todd-blanche/index.json",
   "description": "Follow Todd Blanche, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-16T13:45:32.280Z",
+  "updatedAt": "2026-07-16T17:13:33.353Z",
   "aliases": [],
   "changes": [
     {
@@ -24,6 +24,21 @@
     {
       "title": "Sen. Cory Booker on why he believes Todd Blanche shouldn't be confirmed as AG",
       "summary": "NPR's Leila Fadel asks Democratic Sen. Cory Booker of New Jersey why he says Todd Blanche should not be confirmed as attorney general.",
+      "date": "2026-07-16"
+    },
+    {
+      "title": "Epstein survivor Dani Bensky says Blanche has never responded to them in opening statement",
+      "summary": "She implored senators on the Judiciary Committee to \"think about the girls in these photos\" when casting their confirmation votes for attorney general nominee Todd Blanche.",
+      "date": "2026-07-16"
+    },
+    {
+      "title": "Tillis says he won't vote to confirm Blanche unless nominee meets with Epstein survivors",
+      "summary": "To clear the committee, attorney general nominee Todd Blanche needs the support of all Republicans.",
+      "date": "2026-07-16"
+    },
+    {
+      "title": "Jennifer Bos makes emotional opening statement about daughter's death in Blanche confirmation hearing",
+      "summary": "\"Illegal immigration, sanctuary policies, the fentanyl crisis and cashless bail. I'm so grateful that the whole of this administration with Todd Blanche leading the DOJ has prioritized all four of these issues,\" Bos said.",
       "date": "2026-07-16"
     },
     {
@@ -45,24 +60,15 @@
       "title": "Morning news brief",
       "summary": "Acting Attorney General Todd Blanche to appear for confirmation hearing, U.S. restarts blockade against Iran amid standoff over the Strait of Hormuz, ICE suspends traffic stops after deadly shootings.",
       "date": "2026-07-15"
-    },
-    {
-      "title": "Todd Blanche Faces Crucial Hurdle Ahead of Confirmation as Attorney General",
-      "summary": "Todd Blanche’s nomination is broadly a referendum on President Trump’s vision of the Justice Department as a projection of his power.",
-      "date": "2026-07-15"
-    },
-    {
-      "title": "Sen. Adam Schiff, D-Calif., on the confirmation hearing for AG nominee Todd Blanche",
-      "summary": "NPR's Leila Fadel asks Democratic Sen. Adam Schiff what he plans to ask Attorney General nominee Todd Blanche at his confirmation hearing.",
-      "date": "2026-07-15"
-    },
-    {
-      "title": "Sen. Whitehouse clashes with Todd Blanche over his relationship with Trump: \"It takes 2 to collude\"",
-      "summary": "Rhode Island Democratic Sen. Sheldon Whitehouse slammed Acting Attorney General Todd Blanche during his confirmation hearing over his relationship with President Trump, accusing the pair of colluding.",
-      "date": "2026-07-15"
     }
   ],
   "sources": [
+    {
+      "title": "Fired DOJ lawyer attorney accuses Blanche of enforcing Trump's \"pointless vendettas\"",
+      "url": "https://www.cbsnews.com/video/fired-doj-attorney-accuses-blanche-of-enforcing-trumps-pointless-vendettas-confirmation-hearing/?utm_source=lootura.com",
+      "publishedAt": "2026-07-16T15:49:00.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
     {
       "title": "Blanche faces sharp questioning over Epstein files, relationship with Trump at hearing",
       "url": "https://www.cbsnews.com/video/blanche-questioning-epstein-files-relationship-with-trump-confirmation-hearing/?utm_source=lootura.com",
@@ -76,11 +82,29 @@
       "sourceId": "lootura-us-npr-politics"
     },
     {
+      "title": "WATCH: Epstein survivor Dani Bensky says Blanche has never responded to them in opening statement",
+      "url": "https://www.pbs.org/newshour/politics/watch-epstein-survivor-dani-bensky-says-blanche-has-never-responded-to-them-in-opening-statement?utm_source=lootura.com",
+      "publishedAt": "2026-07-16T16:00:19.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
+    },
+    {
+      "title": "WATCH: Tillis says he won't vote to confirm Blanche unless nominee meets with Epstein survivors",
+      "url": "https://www.pbs.org/newshour/politics/watch-tillis-says-he-wont-vote-to-confirm-blanche-unless-nominee-meets-with-epstein-survivors?utm_source=lootura.com",
+      "publishedAt": "2026-07-16T16:39:06.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
+    },
+    {
+      "title": "WATCH: Jennifer Bos makes emotional opening statement about daughter's death in Blanche confirmation hearing",
+      "url": "https://www.pbs.org/newshour/politics/watch-jennifer-bos-makes-emotional-opening-statement-about-daughters-death-in-blanche-confirmation-hearing?utm_source=lootura.com",
+      "publishedAt": "2026-07-16T17:06:25.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
+    },
+    {
       "title": "Todd Blanche, Trump’s Attorney General Pick, Faces Crucial Hurdle After Rocky Hearing",
       "url": "https://www.nytimes.com/2026/07/15/us/politics/todd-blanche-attorney-general-confirmation.html?utm_source=lootura.com",
       "publishedAt": "2026-07-16T00:49:30.000Z",
       "sourceId": "lootura-us-the-new-york-times"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 6
 }

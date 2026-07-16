@@ -3,20 +3,20 @@
 > Follow Maine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-16T13:45:32.280Z
+- Updated: 2026-07-16T17:13:33.353Z
 - Canonical: https://atlas.lootura.com/us/place/maine
 
 ## Recent changes
 
-### Biddeford, Maine, mayor on ICE shooting, community's response
-
-Liam LaFountain, mayor of Biddeford, Maine, joins "The Daily Report" to discuss his town's response to Monday's incident where an ICE officer shot and killed a man.
-
-Date: 2026-07-16
-
 ### The use of force has become a 'default tool' for ICE officers, a new report finds
 
 An ACLU report looks at the widespread use of force in immigration enforcement in the first year of President Trump's return to office. Recent fatal shootings in Texas and Maine have brought renewed scrutiny to the agency's tactics. (Image credit: Scott Olson).
+
+Date: 2026-07-16
+
+### Biddeford, Maine, mayor on ICE shooting, community's response
+
+Liam LaFountain, mayor of Biddeford, Maine, joins "The Daily Report" to discuss his town's response to Monday's incident where an ICE officer shot and killed a man.
 
 Date: 2026-07-16
 
@@ -70,7 +70,4 @@ Date: 2026-07-15
 
 ## Sources
 
-- [Biddeford, Maine, mayor on ICE shooting, community's response](https://www.cbsnews.com/video/mayor-of-maine-town-where-ice-shooting-took-place-on-his-communitys-response/?utm_source=lootura.com) — 2026-07-16T01:35:42.000Z
 - [The use of force has become a 'default tool' for ICE officers, a new report finds](https://www.npr.org/2026/07/16/nx-s1-5891834/ice-use-of-force-aclu-report?utm_source=lootura.com) — 2026-07-16T09:00:00.000Z
-- [Videos Detail Moments Surrounding Fatal ICE Shooting in Biddeford, Maine](https://www.nytimes.com/2026/07/14/us/maine-ice-shooting-video-joan-sebastian-guerrero.html?utm_source=lootura.com) — 2026-07-15T16:00:34.000Z
-- [Colombian Immigrant Killed by ICE in Maine Had Legal Status, Father Says](https://www.nytimes.com/2026/07/14/us/joan-sebastian-guerrero-maine-ice-shooting.html?utm_source=lootura.com) — 2026-07-15T15:37:10.000Z

@@ -3,10 +3,16 @@
 > Sigue la actividad de Lionel Messi en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-16T13:45:06.103Z
+- Actualizado: 2026-07-16T17:13:06.098Z
 - Canonical: https://atlas.lootura.com/es/person/lionel-messi
 
 ## Cambios recientes
+
+### La intrahistoria de las fotos de Leo Messi junto a un Lamine Yamal de seis meses
+
+Las redes sociales se han inundado con la recordada imagen de Leo Messi junto a un Lamine Yamal de seis meses de edad. Descubre su historia.
+
+Date: 2026-07-16
 
 ### Discovered by Atlas
 
@@ -28,4 +34,5 @@ Date: 2026-07-15
 
 ## Fuentes
 
-- [La reivindicación de Messi y Scaloni en una Argentina "única" camino de la final con España: "Digan lo que digan, no nos regalan nada"](https://www.elmundo.es/deportes/futbol/mundial-de-futbol/2026/07/16/6a584d10e85ece460c8b4598.html?utm_source=lootura.com) — 2026-07-16T13:07:03.000Z
+- [Los niños de Messi van a por su corona](https://www.abc.es/deportes/futbol/mundial/ninos-messi-van-corona-20260716132452-ntrc.html?utm_source=lootura.com) — 2026-07-16T16:53:21.000Z
+- [La intrahistoria de las fotos de Leo Messi junto a un Lamine Yamal de seis meses](https://okdiario.com/mundial/intrahistoria-fotos-leo-messi-junto-lamine-yamal-seis-meses-19010630/amp?utm_source=lootura.com) — 2026-07-16T17:08:51.000Z

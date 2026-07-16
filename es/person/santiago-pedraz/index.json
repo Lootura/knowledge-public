@@ -8,22 +8,27 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/santiago-pedraz/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/santiago-pedraz/index.json",
   "description": "Sigue la actividad de Santiago Pedraz en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-16T13:45:06.103Z",
+  "updatedAt": "2026-07-16T17:13:06.098Z",
   "aliases": [],
   "changes": [
     {
       "title": "El DAO de la Guardia Civil abrió un expediente a la UCO tras recibir una llamada de queja de Marlaska",
-      "summary": "El director adjunto operativo (DAO) de la Guardia Civil Manuel Llamas ha afirmado durante su declaración como investigado ante el juez del caso Leire, Santiago Pedraz, que abrió una información reservada a la Unidad Central Operativa (UCO) de la Guardia Civil en 2024, después de que la dirección de correo corporativo d.",
-      "date": "2026-07-16"
-    },
-    {
-      "title": "El jefe operativo de la Guardia Civil niega presiones a la UCO en las investigaciones que afectan al Gobierno",
-      "summary": "El teniente general Manuel Llamas, número dos de la Guardia Civil en su condición de director adjunto operativo (DAO), ha negado este jueves ante el juez Santiago Pedraz, instructor del llamado caso Leire, que él hubiera pedido a los agentes de la Unidad Central Operativa (UCO) que se “pusieran de perfil” en las invest.",
+      "summary": "El director adjunto operativo (DAO) de la Guardia Civil, Manuel Llamas, ha afirmado durante su declaración como investigado ante el juez del caso Leire, Santiago Pedraz, que abrió una información reservada a la Unidad Central Operativa (UCO) de la Guardia Civil en 2024, después de que la dirección de correo corporativo.",
       "date": "2026-07-16"
     },
     {
       "title": "Discovered by Atlas",
       "summary": "Santiago Pedraz first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-07-16"
+    },
+    {
+      "title": "El jefe operativo de la Guardia Civil niega presiones a la UCO y denuncia una campaña contra él",
+      "summary": "El teniente general Manuel Llamas, número dos de la Guardia Civil en su condición de director adjunto operativo (DAO), ha negado este jueves ante el juez Santiago Pedraz, instructor del llamado caso Leire Díez, que él haya presionado a los agentes de la Unidad Central Operativa (UCO) o les haya pedido que se “pusieran.",
+      "date": "2026-07-16"
+    },
+    {
+      "title": "El jefe operativo de la Guardia Civil niega presiones a la UCO en las investigaciones que afectan al Gobierno",
+      "summary": "El teniente general Manuel Llamas, número dos de la Guardia Civil en su condición de director adjunto operativo (DAO), ha negado este jueves ante el juez Santiago Pedraz, instructor del llamado caso Leire, que él hubiera pedido a los agentes de la Unidad Central Operativa (UCO) que se “pusieran de perfil” en las invest.",
       "date": "2026-07-16"
     }
   ],
@@ -31,13 +36,13 @@
     {
       "title": "El DAO de la Guardia Civil abrió un expediente a la UCO tras recibir una llamada de queja de Marlaska",
       "url": "https://www.abc.es/espana/exdao-guardia-civil-niega-haber-indicado-uco-20260716133058-nt.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-16T13:17:22.000Z",
+      "publishedAt": "2026-07-16T16:42:15.000Z",
       "sourceId": "lootura-es-abc"
     },
     {
-      "title": "El jefe operativo de la Guardia Civil niega presiones a la UCO en las investigaciones que afectan al Gobierno",
+      "title": "El jefe operativo de la Guardia Civil niega presiones a la UCO y denuncia una campaña contra él",
       "url": "https://elpais.com/espana/2026-07-16/la-directora-de-la-guardia-civil-y-su-jefe-operativo-declaran-como-imputados-en-la-audiencia-nacional-por-el-caso-leire-diez.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-16T13:17:16.000Z",
+      "publishedAt": "2026-07-16T16:14:40.000Z",
       "sourceId": "lootura-es-el-pais"
     }
   ],

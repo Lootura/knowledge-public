@@ -8,13 +8,18 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/nato/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/nato/index.json",
   "description": "Sigue la actividad de Organización del Tratado del Atlántico Norte en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-16T10:06:17.457Z",
+  "updatedAt": "2026-07-16T17:13:06.098Z",
   "aliases": [
     "North Atlantic Treaty Organization",
     "OTAN",
     "Organización del Tratado del Atlántico Norte"
   ],
   "changes": [
+    {
+      "title": "España asume el liderazgo de la fuerza naval de la OTAN con maniobras junto a Japón y Canadá",
+      "summary": "España ha asumido por primera vez el mando de la fuerza naval de la OTAN encargada de vigilar el Atlántico Norte , una responsabilidad que sitúa a la Armada en el centro del nuevo dispositivo de disuasión diseñado por la Alianza. El estreno de este liderazgo ha llegado acompañado de ejercicios navales con las marinas d.",
+      "date": "2026-07-16"
+    },
     {
       "title": "La OTAN se plantea cómo defender Europa oriental ante la retirada de Estados Unidos",
       "summary": "Esas extrañas criaturas emergen del bosque con estruendo, con el cuerpo cubierto de musgo, tela rasgada y hierba de plástico, y la cabeza velada por mallas negras. Los tanques Leopard y los vehículos de combate de infantería Puma de la 45.ª Brigada Panzer alemana llevan un camuflaje especial para ocultarse de los drone.",
@@ -59,13 +64,15 @@
       "title": "La ruleta geopolítica abre oportunidades en la defensa europea, pero el mercado ya no compra a ciegas",
       "summary": "La ruleta geopolítica sigue girando y, mientras las alianzas globales se reconfiguran, los inversores evalúan si el sector europeo de la defensa todavía esconde oportunidades. Durante la reciente cumbre de la OTAN en Ankara , el secretario general, Mark Rutte, anunció “decenas de miles de millones” en nuevos contratos.",
       "date": "2026-07-12"
-    },
-    {
-      "title": "La OTAN resucita el A400M de Sevilla que el sector ya daba por muerto",
-      "summary": "En la línea de montaje del A400M de la planta sevillana de San Pablo ya habían empezado a apagar las luces. El sector veía la continuidad del programa del mayor avión de transporte militar de Airbus más allá de 2028 muy comprometida por la falta de nuevos contratos , y la propia factoría sevillana había empezado a actu.",
-      "date": "2026-07-12"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "España asume el liderazgo de la fuerza naval de la OTAN con maniobras junto a Japón y Canadá",
+      "url": "https://theobjective.com/espana/2026-07-16/espana-otan-japon-canada/?utm_source=lootura.com",
+      "publishedAt": "2026-07-16T15:56:32.000Z",
+      "sourceId": "lootura-es-the-objective"
+    }
+  ],
+  "evidenceCount": 1
 }

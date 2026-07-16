@@ -3,7 +3,7 @@
 > Sigue la actividad de Tribunal Constitucional en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-16T13:45:06.103Z
+- Actualizado: 2026-07-16T17:13:06.098Z
 - Canonical: https://atlas.lootura.com/es/organization/tribunal-constitucional
 
 ## Cambios recientes
@@ -28,5 +28,5 @@ Date: 2026-07-16
 
 ## Fuentes
 
-- [Las diez claves de la decisión de la justicia europea sobre la amnistía](https://www.abc.es/espana/claves-decision-justicia-europea-sobre-amnistia-20260716125048-nt.html?utm_source=lootura.com) — 2026-07-16T13:01:08.000Z
+- [Las diez claves de la decisión de la justicia europea sobre la amnistía](https://www.abc.es/espana/claves-decision-justicia-europea-sobre-amnistia-20260716125048-nt.html?utm_source=lootura.com) — 2026-07-16T16:22:20.000Z
 - [Satisfacción en el independentismo y el Gobierno catalán por el respaldo europeo a la amnistía](https://www.elcorreo.com/politica/satisfaccion-independentismo-gobierno-catalan-aval-europeo-amnistia-20260716112812-ntrc_amp.html?utm_source=lootura.com) — 2026-07-16T09:28:12.000Z

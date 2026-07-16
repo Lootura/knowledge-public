@@ -3,16 +3,10 @@
 > Sigue la actividad de Partido Socialista Obrero Español en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-16T13:45:06.103Z
+- Actualizado: 2026-07-16T17:13:06.098Z
 - Canonical: https://atlas.lootura.com/es/organization/psoe
 
 ## Cambios recientes
-
-### La condena de David Sánchez espolea al PSOE: “La derecha política y judicial está logrando el efecto contrario”
-
-“En la sentencia a David Sánchez hay un daño personal al presidente, pero el daño electoral es cero. Lo mismo que con su esposa. Sí que lo hubo con [José Luis] Ábalos, condenado a 24 años, pero los casos de la familia se han convertido en un ataque personal. Y podrían convertirse en un bumerán contra la derecha”, afirm.
-
-Date: 2026-07-16
 
 ### La directora de la Guardia Civil declara como imputada en el 'caso cloacas del PSOE' por obstrucción a la Justicia
 
@@ -23,6 +17,12 @@ Date: 2026-07-16
 ### El PSOE extremeño dice que el informe sobre Almaraz «allana el camino para su continuidad»
 
 El secretario general del PSOE de Extremadura, Álvaro Sánchez Cotrina , ha valorado este jueves el informe favorable emitido por el pleno del Consejo de Seguridad Nuclear (CSN) sobre la Central Nuclear de Almaraz, al considerar que «supone un paso decisivo para hacer posible la prórroga de la instalación». Sánchez Cotr.
+
+Date: 2026-07-16
+
+### La condena de David Sánchez espolea al PSOE: “La derecha política y judicial está logrando el efecto contrario”
+
+“En la sentencia a David Sánchez hay un daño personal al presidente, pero el daño electoral es cero. Lo mismo que con su esposa. Sí que lo hubo con [José Luis] Ábalos, condenado a 24 años, pero los casos de la familia se han convertido en un ataque personal. Y podrían convertirse en un bumerán contra la derecha”, afirm.
 
 Date: 2026-07-16
 
@@ -71,5 +71,4 @@ Date: 2026-07-15
 ## Fuentes
 
 - [La directora de la Guardia Civil declara como imputada en el 'caso cloacas del PSOE' por obstrucción a la Justicia](https://www.elmundo.es/espana/2026/07/15/6a57ddb9fc6c838e4d8b45a4.html?utm_source=lootura.com) — 2026-07-16T08:21:52.000Z
-- [La condena de David Sánchez espolea al PSOE: “La derecha política y judicial está logrando el efecto contrario”](https://elpais.com/espana/2026-07-16/la-condena-de-david-sanchez-espolea-al-psoe-la-derecha-politica-y-judicial-esta-logrando-el-efecto-contrario.html?utm_source=lootura.com) — 2026-07-16T03:30:01.000Z
 - [El PSOE extremeño dice que el informe sobre Almaraz «allana el camino para su continuidad»](https://theobjective.com/espana/politica/2026-07-16/psoe-extremeno-informe-almaraz/?utm_source=lootura.com) — 2026-07-16T12:47:41.000Z

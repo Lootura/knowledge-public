@@ -8,27 +8,12 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/espana/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/espana/index.json",
   "description": "Sigue la actividad de España en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-16T13:45:06.103Z",
+  "updatedAt": "2026-07-16T17:13:06.098Z",
   "aliases": [
     "Estado español",
     "Spain"
   ],
   "changes": [
-    {
-      "title": "Enric Juliana, periodista y escritor: \"España no es un país decadente\"",
-      "summary": "Vincula el éxito deportivo con el momento social y político que atraviesa el país.",
-      "date": "2026-07-16"
-    },
-    {
-      "title": "El Gobierno pide que se aplique la amnistía tras el \"éxito\" en el TJUE y poner fin a un debate que en España \"no fue jurídico, sino visceral\"",
-      "summary": "El Gobierno ha reclamado este jueves a los tribunales españoles la aplicación plena de la ley de amnistía después del aval del Tribunal de Justicia de la Unión Europea (TJUE). El ministro de Presidencia y Justicia, Félix Bolaños , ha celebrado como un \"éxito\" las sentencias europeas y considera que dejan \"despejado el.",
-      "date": "2026-07-16"
-    },
-    {
-      "title": "Digi afloja y repite el precio de salida a Bolsa después de estrenarse con un alza del 7%",
-      "summary": "Digi marca un hito en España. Tras haber desembarcado en 2007, con una agresiva oferta a precios como operadora móvil low cost y haber desarrollado intensas inversiones que la han llevado a disponer de una potente red propia de fibra óptica , este jueves estrena en la Bolsa su negocio en el país. Más de 50 inversores i.",
-      "date": "2026-07-16"
-    },
     {
       "title": "Puigdemont enfría un regreso inminente a España: “El camino para acabar con la represión no ha terminado”",
       "summary": "El independentismo se ha mostrado exultante este jueves ante el fallo de la justicia europea que avala la ley de amnistía , pactada en su día por ERC y Junts per Catalunya a cambio de investir a Pedro Sánchez. Ambas formaciones han coincidido en advertir que no más hay excusas posibles para una aplicación efectiva de l.",
@@ -37,11 +22,6 @@
     {
       "title": "Gran formato a precio de derribo: Xiaomi lanza en Europa su nuevo televisor de 75 pulgadas con tecnología Mini-LED",
       "summary": "El nuevo Xiaomi TV FX Mini-LED de gran diagonal desembarca por 849 euros en mercados vecinos a la espera de su llegada a España y apostando por el ecosistema Fire TV de Amazon.",
-      "date": "2026-07-16"
-    },
-    {
-      "title": "La Ley de Bienestar Animal lo avala: multas de 50.000 euros a los dueños de perros que hagan esto en sus casas",
-      "summary": "En España, hay alrededor de 15 millones de mascotas, todo de acuerdo a los datos del Ministerio de Derechos Sociales , de los que cerca de la mitad (7,5 millones) son perros , aunque los gatos también se quedan con una amplia presencia en los hogares (5,5 millones). Es por ello que el Gobierno ha aprobado una normativa.",
       "date": "2026-07-16"
     },
     {
@@ -60,35 +40,49 @@
       "date": "2026-07-16"
     },
     {
-      "title": "La Justicia europea avala la amnistía y allana la vuelta de Puigdemont a España",
-      "summary": "El Tribunal de Justicia de la Unión Europea (TJUE) ha respaldado este jueves la ley de amnistía, siguiendo los puntos que había marcado el pasado mes de noviembre el abogado general de la UE. La justicia europea asegura que la ley \"no se opone\" a la normativa comunitaria; además, añade que no va en contra de los intere.",
+      "title": "Luces y sombras en el estreno de Digi en Bolsa: empezó la jornada con una caída del 7% y acabó con un batacazo del 8%",
+      "summary": "El tradicional toque de campana del Palacio de la Bolsa de Madrid ha anunciado este mediodía la cotización de Digi Spain Telecom, la filial española del Grupo Digi , en el Mercado Continuo. La empresa ha debutado a un precio de 6 euros por acción, lo que supone una subida del 7% en los primeros minutos. La operación, a.",
+      "date": "2026-07-16"
+    },
+    {
+      "title": "Digi cede un 8% en su debut a pesar de su arranque con fuertes alzas",
+      "summary": "Digi marca un hito en España. Tras haber desembarcado en 2007 con una agresiva oferta a precios como operadora móvil low cost y haber desarrollado intensas inversiones que la han llevado a disponer de una potente red propia de fibra óptica , este jueves ha estrenado en la Bolsa su negocio en el país. Más de 50 inversor.",
+      "date": "2026-07-16"
+    },
+    {
+      "title": "Incendios de Aragón, en directo: última hora de la evacuación de Uncastillo y otros cuatros pueblos de Zaragoza",
+      "summary": "El incendio de Orés continúa siendo el principal foco activo de España tras arrasar más de 4.500 hectáreas y obligar a evacuar cinco municipios, mientras el riesgo extremo de incendios persiste en gran parte del país.",
+      "date": "2026-07-16"
+    },
+    {
+      "title": "España asume el liderazgo de la fuerza naval de la OTAN con maniobras junto a Japón y Canadá",
+      "summary": "España ha asumido por primera vez el mando de la fuerza naval de la OTAN encargada de vigilar el Atlántico Norte , una responsabilidad que sitúa a la Armada en el centro del nuevo dispositivo de disuasión diseñado por la Alianza. El estreno de este liderazgo ha llegado acompañado de ejercicios navales con las marinas d.",
+      "date": "2026-07-16"
+    },
+    {
+      "title": "Felipe VI entrega los despachos de la Armada a 125 nuevos oficiales en un acto sin Elcano",
+      "summary": "El buque escuela Juan Sebastián Elcano no asistió a la ceremonia al encontrarse de regreso a España tras completar su crucero de instrucción.",
       "date": "2026-07-16"
     }
   ],
   "sources": [
     {
-      "title": "El Gobierno pide que se aplique la amnistía tras el \"éxito\" en el TJUE y poner fin a un debate que en España \"no fue jurídico, sino visceral\"",
-      "url": "https://www.20minutos.es/nacional/gobierno-pide-aplicar-amnistia-tras-exito-tjue-poner-fin-un-debate-que-espana-no-fue-juridico-sino-visceral_7015374_0.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-16T10:28:16.000Z",
+      "title": "La Junta Electoral exige justificar en qué provincia se inscribe al nacionalizado por la ley de nietos para \"garantizar la transparencia\"",
+      "url": "https://www.20minutos.es/nacional/junta-electoral-exige-motivar-provincia-inscripcion-nacionalizado-por-ley-nietos-para-garantizar-transparencia_7015506_0.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-16T13:46:46.000Z",
       "sourceId": "lootura-es-20minutos"
     },
     {
-      "title": "Digi afloja y repite el precio de salida a Bolsa después de estrenarse con un alza del 7%",
+      "title": "Luces y sombras en el estreno de Digi en Bolsa: empezó la jornada con una caída del 7% y acabó con un batacazo del 8%",
+      "url": "https://www.abc.es/economia/digi-estrena-hoy-bolsa-espanola-20260716094030-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-16T16:37:58.000Z",
+      "sourceId": "lootura-es-abc"
+    },
+    {
+      "title": "Digi cede un 8% en su debut a pesar de su arranque con fuertes alzas",
       "url": "https://cincodias.elpais.com/mercados-financieros/2026-07-16/digi-se-prepara-para-debutar-en-bolsa-con-fuertes-subidas-a-pesar-de-las-tensiones-geopoliticas.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-16T12:54:31.000Z",
+      "publishedAt": "2026-07-16T16:08:03.000Z",
       "sourceId": "lootura-es-cinco-dias"
-    },
-    {
-      "title": "Enric Juliana, periodista y escritor: \"España no es un país decadente\"",
-      "url": "https://www.elconfidencial.com/espana/2026-07-16/enric-juliana-escritor-espana-decadente-1qrt_4390985/?utm_source=lootura.com",
-      "publishedAt": "2026-07-16T09:57:00.000Z",
-      "sourceId": "lootura-es-el-confidencial"
-    },
-    {
-      "title": "La reacción de Iñaki Williams cuando Nico le dijo que renovaba: «Estaba en Ibiza, me hizo una videollamada y le dije a mi mujer...»",
-      "url": "https://www.elcorreo.com/athletic/reaccion-inaki-williams-nico-dijo-renovaba-ibiza-20260715155817-nt_amp.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-15T13:58:17.000Z",
-      "sourceId": "lootura-es-el-correo"
     },
     {
       "title": "La cifra de muertes por calor en Bizkaia desde mayo duplica a la de todo el verano pasado",
@@ -109,21 +103,27 @@
       "sourceId": "lootura-es-la-razon"
     },
     {
-      "title": "La Ley de Bienestar Animal lo avala: multas de 50.000 euros a los dueños de perros que hagan esto en sus casas",
-      "url": "https://okdiario.com/mascotas/ley-bienestar-animal-lo-avala-multas-50-000-euros-duenos-perros-que-hagan-esto-sus-casas-19004465?utm_source=lootura.com",
-      "publishedAt": "2026-07-16T13:20:33.000Z",
-      "sourceId": "lootura-es-ok-diario"
+      "title": "Incendios de Aragón, en directo: última hora de la evacuación de Uncastillo y otros cuatros pueblos de Zaragoza",
+      "url": "https://www.larazon.es/sociedad/incendio-ores-aragon-ultima-hora-pueblos-evacuados-avance-fuego_202607166a58f1ea1db8de04099258d4.html?outputType=amp&utm_source=lootura.com",
+      "publishedAt": "2026-07-16T17:10:20.000Z",
+      "sourceId": "lootura-es-la-razon"
+    },
+    {
+      "title": "España asume el liderazgo de la fuerza naval de la OTAN con maniobras junto a Japón y Canadá",
+      "url": "https://theobjective.com/espana/2026-07-16/espana-otan-japon-canada/?utm_source=lootura.com",
+      "publishedAt": "2026-07-16T15:56:32.000Z",
+      "sourceId": "lootura-es-the-objective"
+    },
+    {
+      "title": "Felipe VI entrega los despachos de la Armada a 125 nuevos oficiales en un acto sin Elcano",
+      "url": "https://theobjective.com/espana/2026-07-16/felipe-vi-despachos-armada/?amp=&utm_source=lootura.com",
+      "publishedAt": "2026-07-16T17:12:38.000Z",
+      "sourceId": "lootura-es-the-objective"
     },
     {
       "title": "Albert Sánchez, nuevo director general de Philip Morris para España, Andorra y Gibraltar",
       "url": "https://theobjective.com/economia/2026-07-16/albert-sanchez-philip-morris-espana/?utm_source=lootura.com",
       "publishedAt": "2026-07-16T11:52:55.000Z",
-      "sourceId": "lootura-es-the-objective"
-    },
-    {
-      "title": "Gonzalo Sánchez, reelegido presidente de PwC hasta 2031",
-      "url": "https://theobjective.com/economia/2026-07-16/gonzalo-sanchez-reelegido-presidente-pwc-2031/?utm_source=lootura.com",
-      "publishedAt": "2026-07-16T13:09:03.000Z",
       "sourceId": "lootura-es-the-objective"
     }
   ],

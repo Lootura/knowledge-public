@@ -8,11 +8,16 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/lionel-messi/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/lionel-messi/index.json",
   "description": "Sigue la actividad de Lionel Messi en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-16T13:45:06.103Z",
+  "updatedAt": "2026-07-16T17:13:06.098Z",
   "aliases": [
     "Messi"
   ],
   "changes": [
+    {
+      "title": "La intrahistoria de las fotos de Leo Messi junto a un Lamine Yamal de seis meses",
+      "summary": "Las redes sociales se han inundado con la recordada imagen de Leo Messi junto a un Lamine Yamal de seis meses de edad. Descubre su historia.",
+      "date": "2026-07-16"
+    },
     {
       "title": "Discovered by Atlas",
       "summary": "Lionel Messi first entered the public knowledge record with source-backed evidence.",
@@ -31,11 +36,17 @@
   ],
   "sources": [
     {
-      "title": "La reivindicación de Messi y Scaloni en una Argentina \"única\" camino de la final con España: \"Digan lo que digan, no nos regalan nada\"",
-      "url": "https://www.elmundo.es/deportes/futbol/mundial-de-futbol/2026/07/16/6a584d10e85ece460c8b4598.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-16T13:07:03.000Z",
-      "sourceId": "lootura-es-el-mundo"
+      "title": "Los niños de Messi van a por su corona",
+      "url": "https://www.abc.es/deportes/futbol/mundial/ninos-messi-van-corona-20260716132452-ntrc.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-16T16:53:21.000Z",
+      "sourceId": "lootura-es-abc"
+    },
+    {
+      "title": "La intrahistoria de las fotos de Leo Messi junto a un Lamine Yamal de seis meses",
+      "url": "https://okdiario.com/mundial/intrahistoria-fotos-leo-messi-junto-lamine-yamal-seis-meses-19010630/amp?utm_source=lootura.com",
+      "publishedAt": "2026-07-16T17:08:51.000Z",
+      "sourceId": "lootura-es-ok-diario"
     }
   ],
-  "evidenceCount": 0
+  "evidenceCount": 1
 }

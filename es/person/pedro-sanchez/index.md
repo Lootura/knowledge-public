@@ -3,22 +3,10 @@
 > Sigue la actividad de Pedro Sánchez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-16T13:45:06.103Z
+- Actualizado: 2026-07-16T17:13:06.098Z
 - Canonical: https://atlas.lootura.com/es/person/pedro-sanchez
 
 ## Cambios recientes
-
-### La condena de David Sánchez espolea al PSOE: “La derecha política y judicial está logrando el efecto contrario”
-
-“En la sentencia a David Sánchez hay un daño personal al presidente, pero el daño electoral es cero. Lo mismo que con su esposa. Sí que lo hubo con [José Luis] Ábalos, condenado a 24 años, pero los casos de la familia se han convertido en un ataque personal. Y podrían convertirse en un bumerán contra la derecha”, afirm.
-
-Date: 2026-07-16
-
-### “Nepotismo” y “absentismo”: el tribunal del ‘caso David Sánchez’ traza la línea entre lo “éticamente censurable” y el delito
-
-La Audiencia Provincial de Badajoz no ha rehuido el debate público y ha recogido en su sentencia dos de las conductas que han marcado la causa por la que David Sánchez, el hermano del presidente del Gobierno, Pedro Sánchez, ha sido condenado a nueve años de inhabilitación por prevaricación administrativa . Los magistra.
-
-Date: 2026-07-16
 
 ### El Gobierno celebra la ley de amnistía como un “logro colectivo” que ha contribuido a recuperar “la convivencia y la reconciliación”
 
@@ -35,12 +23,6 @@ Date: 2026-07-16
 ### Puigdemont enfría un regreso inminente a España: “El camino para acabar con la represión no ha terminado”
 
 El independentismo se ha mostrado exultante este jueves ante el fallo de la justicia europea que avala la ley de amnistía , pactada en su día por ERC y Junts per Catalunya a cambio de investir a Pedro Sánchez. Ambas formaciones han coincidido en advertir que no más hay excusas posibles para una aplicación efectiva de l.
-
-Date: 2026-07-16
-
-### Moncloa también rabia contra la Audiencia por ratificar el juicio a Begoña Gómez: «Es una causa política»
-
-El Gobierno de Pedro Sánchez ha estallado contra la decisión de la Audiencia de Madrid que avala el procesamiento de Begoña Gómez , esposa del líder socialista, por presuntos delitos de tráfico de influencias y malversación de caudales públicos tras la instrucción del juez Juan Carlos Peinado . «Se trata de una causa p.
 
 Date: 2026-07-16
 
@@ -62,21 +44,38 @@ El Gobierno reitera que Begoña Gómez , la mujer del presidente Pedro Sánchez 
 
 Date: 2026-07-16
 
-### Y ahora, a por Begoña Gómez
+### El DAO niega ante el juez presiones a la UCO y que les ordenase "ponerse de perfil" con la investigación del hermano de Pedro Sánchez
 
-Los tribunales ya no son ese lugar donde se imparte justicia sino la plaza donde se libra la verdadera batalla política. Primero cayó el fiscal general, después el hermano de Pedro Sánchez y la próxima será la esposa. Aumenta tanto la sospecha sobre la coincidencia del calendario judicial y la existencia de un plan com.
+Manuel Llamas enmarca las informaciones reservadas incoadas contra la UCO dentro del normal funcionamiento interno de la Guardia Civil. Leer.
+
+Date: 2026-07-16
+
+### El PP respeta el fallo del Tribunal, pero carga contra Sánchez: “Ningún presidente debe cambiar poder por impunidad”
+
+Tras l a decisión del Tribunal de Justicia de la Unión Europea (TJUE) de avalar la ley de amnistía , que zanja el debate jurídico, el Partido Popular ha tratado de reorientar su rechazo a la norma al terreno político y moral. Los populares han declarado su “respeto absoluto al fallo del Tribunal” en un breve comunicado.
+
+Date: 2026-07-16
+
+### Sánchez se ha enfurruñado
+
+Se ha enfadado el yerno de Sabiniano, el padre de Begoña, que hizo fortuna con el sudor y las lágrimas de los hombres y mujeres a los que explotaba en sus puticlubs y saunas sexuales. Ya sé que resulta cansino nombrar a su suegro cada vez que se menciona al presidente del Gobierno, pero es obligado repetir hasta la sac.
+
+Date: 2026-07-16
+
+### La condena de David Sánchez espolea al PSOE: “La derecha política y judicial está logrando el efecto contrario”
+
+“En la sentencia a David Sánchez hay un daño personal al presidente, pero el daño electoral es cero. Lo mismo que con su esposa. Sí que lo hubo con [José Luis] Ábalos, condenado a 24 años, pero los casos de la familia se han convertido en un ataque personal. Y podrían convertirse en un bumerán contra la derecha”, afirm.
 
 Date: 2026-07-16
 
 ## Fuentes
 
-- [Begoña Gómez logró la cátedra de la Complutense «de inmediato» y «sin control» por "su privilegiada posición de esposa del presidente del Gobierno"](https://www.eldebate.com/espana/20260716/fiscalia-defensa-begona-gomez-insisten-recuperar-pasaporte-autoricen-futuras-salidas-europa_440348.html?utm_source=lootura.com) — 2026-07-16T11:14:41.000Z
+- [El DAO niega ante el juez presiones a la UCO y que les ordenase "ponerse de perfil" con la investigación del hermano de Pedro Sánchez](https://www.elmundo.es/espana/2026/07/16/6a589907e85ece26028b45b3.html?utm_source=lootura.com) — 2026-07-16T16:23:11.000Z
 - [El Gobierno celebra la ley de amnistía como un “logro colectivo” que ha contribuido a recuperar “la convivencia y la reconciliación”](https://elpais.com/espana/2026-07-16/el-gobierno-celebra-que-la-ley-de-amnistia-es-constitucional-y-conforme-al-derecho-europeo.html?utm_source=lootura.com) — 2026-07-16T10:06:55.000Z
-- [La condena de David Sánchez espolea al PSOE: “La derecha política y judicial está logrando el efecto contrario”](https://elpais.com/espana/2026-07-16/la-condena-de-david-sanchez-espolea-al-psoe-la-derecha-politica-y-judicial-esta-logrando-el-efecto-contrario.html?utm_source=lootura.com) — 2026-07-16T03:30:01.000Z
-- [La Audiencia de Madrid avala que la causa contra Begoña Gómez siga adelante por jurado por dos delitos](https://elpais.com/espana/2026-07-16/la-audiencia-de-madrid-avala-que-la-causa-contra-begona-gomez-siga-adelante-por-jurado-por-dos-delitos.html?utm_source=lootura.com) — 2026-07-16T13:25:57.000Z
-- [“Nepotismo” y “absentismo”: el tribunal del ‘caso David Sánchez’ traza la línea entre lo “éticamente censurable” y el delito](https://elpais.com/espana/2026-07-16/nepotismo-y-absentismo-el-tribunal-del-caso-david-sanchez-traza-la-linea-entre-lo-eticamente-censurable-y-el-delito.html?utm_source=lootura.com) — 2026-07-16T03:30:01.000Z
+- [La Audiencia de Madrid avala que la causa contra Begoña Gómez siga adelante por jurado por dos delitos](https://elpais.com/espana/2026-07-16/la-audiencia-de-madrid-avala-que-la-causa-contra-begona-gomez-siga-adelante-por-jurado-por-dos-delitos.html?utm_source=lootura.com) — 2026-07-16T15:21:22.000Z
+- [El PP respeta el fallo del Tribunal, pero carga contra Sánchez: “Ningún presidente debe cambiar poder por impunidad”](https://elpais.com/espana/2026-07-16/el-pp-respeta-el-fallo-del-tribunal-pero-carga-contra-sanchez-ningun-presidente-debe-cambiar-poder-por-impunidad.html?utm_source=lootura.com) — 2026-07-16T09:20:49.000Z
 - [Puigdemont enfría un regreso inminente a España: “El camino para acabar con la represión no ha terminado”](https://elpais.com/espana/catalunya/2026-07-16/jordi-turull-el-tc-no-se-puede-ir-de-vacaciones-teniendo-a-gente-a-la-que-se-le-vulneran-derechos-fundamentales.html?utm_source=lootura.com) — 2026-07-16T12:10:59.000Z
-- [Moncloa también rabia contra la Audiencia por ratificar el juicio a Begoña Gómez: «Es una causa política»](https://okdiario.com/espana/moncloa-tambien-rabia-contra-audiencia-ratificar-juicio-begona-gomez-causa-politica-19009566?utm_source=lootura.com) — 2026-07-16T13:17:34.000Z
+- [Sánchez se ha enfurruñado](https://okdiario.com/opinion/sanchez-enfurrunado-19010738?utm_source=lootura.com) — 2026-07-16T17:00:38.000Z
 - [Albert Sánchez, nuevo director general de Philip Morris para España, Andorra y Gibraltar](https://theobjective.com/economia/2026-07-16/albert-sanchez-philip-morris-espana/?utm_source=lootura.com) — 2026-07-16T11:52:55.000Z
 - [Gonzalo Sánchez, reelegido presidente de PwC hasta 2031](https://theobjective.com/economia/2026-07-16/gonzalo-sanchez-reelegido-presidente-pwc-2031/?utm_source=lootura.com) — 2026-07-16T13:09:03.000Z
 - [El Gobierno tilda de «causa política» el juicio contra Gómez tras la decisión de la Audiencia](https://theobjective.com/espana/politica/2026-07-16/gobierno-causa-politica-juicio-gomez-audiencia/?utm_source=lootura.com) — 2026-07-16T12:56:16.000Z

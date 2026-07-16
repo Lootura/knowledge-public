@@ -3,10 +3,28 @@
 > Sigue la actividad de Begoña Gómez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-16T13:45:06.103Z
+- Actualizado: 2026-07-16T17:13:06.098Z
 - Canonical: https://atlas.lootura.com/es/person/begona-gomez
 
 ## Cambios recientes
+
+### La Audiencia de Madrid avala que la causa contra Begoña Gómez siga adelante por jurado por dos delitos
+
+La Audiencia Provincial de Madrid ha dado luz verde a que el proceso por jurado popular contra Begoña Gómez, esposa de Pedro Sánchez, siga adelante por dos delitos: tráfico de influencias y malversación. El tribunal avala así parcialmente la decisión del juez Juan Carlos Peinado de enviar al banquillo a la pareja del p.
+
+Date: 2026-07-16
+
+### El PP, tras mantenerse el juicio con jurado a Begoña Gómez: «Una situación inconcebible»
+
+El Partido Popular ha asegurado este jueves que la Audiencia Provincial de Madrid ha confirmado que Begoña Gómez , esposa del presidente del Gobierno, «se sentará en un banquillo» y ha recalcado que se trata de una situación «sin precedentes en la democracia española e inconcebible en cualquier democracia europea », se.
+
+Date: 2026-07-16
+
+### El Gobierno tilda de «causa política» el juicio contra Gómez tras la decisión de la Audiencia
+
+El Gobierno reitera que Begoña Gómez , la mujer del presidente Pedro Sánchez es « inocente » y la causa judicial en la que está inmersa es « política », después de que la Audiencia Provincial de Madrid haya confirmado la decisión del juez instructor Juan Carlos Peinado de enviarla a juicio con jurado popular. No obstan.
+
+Date: 2026-07-16
 
 ### La Audiencia de Madrid avala enjuiciar ante un jurado a Begoña Gómez y le devuelve el pasaporte
 
@@ -20,27 +38,9 @@ Esta decisión procesal vuelve a poner el foco en una de las instituciones más 
 
 Date: 2026-07-16
 
-### La Audiencia de Madrid avala que la causa contra Begoña Gómez siga adelante por jurado por dos delitos
-
-La Audiencia Provincial de Madrid ha dado luz verde a que el proceso por jurado popular contra Begoña Gómez, esposa de Pedro Sánchez, siga adelante por dos delitos: tráfico de influencias y malversación. El tribunal avala así parcialmente la decisión del juez Juan Carlos Peinado de enviar al banquillo a la pareja del p.
-
-Date: 2026-07-16
-
 ### Moncloa también rabia contra la Audiencia por ratificar el juicio a Begoña Gómez: «Es una causa política»
 
 El Gobierno de Pedro Sánchez ha estallado contra la decisión de la Audiencia de Madrid que avala el procesamiento de Begoña Gómez , esposa del líder socialista, por presuntos delitos de tráfico de influencias y malversación de caudales públicos tras la instrucción del juez Juan Carlos Peinado . «Se trata de una causa p.
-
-Date: 2026-07-16
-
-### El PP, tras mantenerse el juicio con jurado a Begoña Gómez: «Una situación inconcebible»
-
-El Partido Popular ha asegurado este jueves que la Audiencia Provincial de Madrid ha confirmado que Begoña Gómez , esposa del presidente del Gobierno, «se sentará en un banquillo» y ha recalcado que se trata de una situación «sin precedentes en la democracia española e inconcebible en cualquier democracia europea », se.
-
-Date: 2026-07-16
-
-### El Gobierno tilda de «causa política» el juicio contra Gómez tras la decisión de la Audiencia
-
-El Gobierno reitera que Begoña Gómez , la mujer del presidente Pedro Sánchez es « inocente » y la causa judicial en la que está inmersa es « política », después de que la Audiencia Provincial de Madrid haya confirmado la decisión del juez instructor Juan Carlos Peinado de enviarla a juicio con jurado popular. No obstan.
 
 Date: 2026-07-16
 
@@ -70,9 +70,6 @@ Date: 2026-07-15
 
 ## Fuentes
 
-- [La Audiencia de Madrid avala enjuiciar ante un jurado a Begoña Gómez y le devuelve el pasaporte](https://www.20minutos.es/nacional/audiencia-madrid-avala-enjuiciar-ante-un-jurado-begona-gomez-por-dos-los-cuatro-delitos-le-devuelve-pasaporte_7015448_0.html?utm_source=lootura.com) — 2026-07-16T11:38:05.000Z
-- [¿Podrías juzgar tú a Begoña Gómez? Los requisitos de la ley para formar parte de su jurado popular](https://www.eldebate.com/espana/20260716/podrias-juzgar-begona-gomez-requisitos-ley-formar-parte-jurado-popular-cns_440378.html?utm_source=lootura.com) — 2026-07-16T11:49:59.000Z
-- [La Audiencia de Madrid avala que la causa contra Begoña Gómez siga adelante por jurado por dos delitos](https://elpais.com/espana/2026-07-16/la-audiencia-de-madrid-avala-que-la-causa-contra-begona-gomez-siga-adelante-por-jurado-por-dos-delitos.html?utm_source=lootura.com) — 2026-07-16T13:25:57.000Z
-- [Moncloa también rabia contra la Audiencia por ratificar el juicio a Begoña Gómez: «Es una causa política»](https://okdiario.com/espana/moncloa-tambien-rabia-contra-audiencia-ratificar-juicio-begona-gomez-causa-politica-19009566?utm_source=lootura.com) — 2026-07-16T13:17:34.000Z
+- [La Audiencia de Madrid avala que la causa contra Begoña Gómez siga adelante por jurado por dos delitos](https://elpais.com/espana/2026-07-16/la-audiencia-de-madrid-avala-que-la-causa-contra-begona-gomez-siga-adelante-por-jurado-por-dos-delitos.html?utm_source=lootura.com) — 2026-07-16T15:21:22.000Z
 - [El PP, tras mantenerse el juicio con jurado a Begoña Gómez: «Una situación inconcebible»](https://theobjective.com/espana/politica/2026-07-16/pp-juicio-jurado-gomez-situacion-inconcebible/?utm_source=lootura.com) — 2026-07-16T13:20:44.000Z
 - [El Gobierno tilda de «causa política» el juicio contra Gómez tras la decisión de la Audiencia](https://theobjective.com/espana/politica/2026-07-16/gobierno-causa-politica-juicio-gomez-audiencia/?utm_source=lootura.com) — 2026-07-16T12:56:16.000Z

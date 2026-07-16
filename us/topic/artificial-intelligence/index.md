@@ -3,16 +3,10 @@
 > Follow Artificial intelligence, a tracked topic, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: topic
-- Updated: 2026-07-16T13:45:32.280Z
+- Updated: 2026-07-16T17:13:33.353Z
 - Canonical: https://atlas.lootura.com/us/topic/artificial-intelligence
 
 ## Recent changes
-
-### Highly fragmented European wetlands with uneven restoration needs
-
-Nature, Published online: 15 July 2026; doi:10.1038/s41586-026-10760-9 Satellite imagery and machine learning used for the mapping of six seminatural open wetland types and land-use disturbance in European countries shows that wetlands are highly fragmented and have uneven restoration needs.
-
-Date: 2026-07-16
 
 ### Does AI work for us, or do we work for AI?
 
@@ -23,6 +17,36 @@ Date: 2026-07-16
 ### Meta says it's creating new safety features to help protect teens. Here's how
 
 Meta announced it is introducing new features to help protect teens using Instagram, Facebook and WhatsApp, including alerting a parent if their child discusses self-harm with one of its AI chatbots. Kelly O'Grady explains.
+
+Date: 2026-07-16
+
+### Connect more of your apps to Search
+
+You’ll be able to securely link and interact with your go-to services directly in AI Mode.
+
+Date: 2026-07-16
+
+### Developer ecosystem expanded
+
+Nature, Published online: 16 July 2026; doi:10.1038/d41586-026-02214-z As automated tools accelerate both the discovery and the exploitation of software vulnerabilities, organizations must redesign their defences and workflows to keep pace.
+
+Date: 2026-07-16
+
+### A global capital for AI safety is emerging — and it's not in Silicon Valley
+
+Nature, Published online: 16 July 2026; doi:10.1038/d41586-026-01389-9 The United Kingdom is gaining influence through its growing AI-safety ecosystem.
+
+Date: 2026-07-16
+
+### Google is renaming NotebookLM to Gemini Notebook
+
+Google is giving its AI note-taking app a new name. The company announced on Thursday that NotebookLM is becoming Gemini Notebook, but will remain a standalone app even as it integrates more deeply across Gemini and Google Search. Google first revealed Gemini Notebook - then called Project Tailwind - in May 2023 before.
+
+Date: 2026-07-16
+
+### Highly fragmented European wetlands with uneven restoration needs
+
+Nature, Published online: 15 July 2026; doi:10.1038/s41586-026-10760-9 Satellite imagery and machine learning used for the mapping of six seminatural open wetland types and land-use disturbance in European countries shows that wetlands are highly fragmented and have uneven restoration needs.
 
 Date: 2026-07-16
 
@@ -44,32 +68,11 @@ Nature, Published online: 15 July 2026; doi:10.1038/s41586-026-10760-9 Satellite
 
 Date: 2026-07-15
 
-### Helpful microbes could battle pathogens in our hospitals and schools—with the help of AI to make it work
-
-Helpful microbes that combat harmful pathogens could be the answer to rising antimicrobial resistance—particularly within built environments such as hospitals, homes and schools.
-
-Date: 2026-07-15
-
-### AI slop movies are the new direct-to-video cash grabs
-
-This weekend, cinephiles across the world will march to their local theaters to feast their eyes on Christopher Nolan's new adaptation of The Odyssey . It's on track to rake in anywhere between $80-$100 million in just a few days. People are clearly excited to see how Nolan uses cutting-edge filmmaking tech to make the.
-
-Date: 2026-07-15
-
-### 26 Meta workers sue over alleged AI-aided layoffs targeting employees on medical or family leave
-
-A group of 26 Meta employees has sued the company, claiming it used AI to choose people for layoffs, disproportionately targeting those on medical, parental or family leave.
-
-Date: 2026-07-15
-
-### Google's AI search features pose 'unacceptable risk' to children, new report finds
-
-Common Sense Media found that across more than 2,600 test interactions, Google's two built-in AI search functions routinely failed to recognize risky and harmful behavior.
-
-Date: 2026-07-15
-
 ## Sources
 
 - [Meta says it's creating new safety features to help protect teens. Here's how](https://www.cbsnews.com/video/meta-says-its-creating-new-safety-features-to-help-protect-teens-heres-how/?utm_source=lootura.com) — 2026-07-16T13:11:19.000Z
-- [Highly fragmented European wetlands with uneven restoration needs](https://www.nature.com/articles/s41586-026-10760-9?utm_source=lootura.com) — 2026-07-16T13:45:36.474Z
-- [Does AI work for us, or do we work for AI?](https://www.science.org/doi/abs/10.1126/science.aei9754?af=R&utm_source=lootura.com) — 2026-07-16T13:45:36.606Z
+- [Connect more of your apps to Search](https://blog.google/products-and-platforms/products/search/connected-apps/?utm_source=lootura.com) — 2026-07-16T16:00:00.000Z
+- [AI is set to completely transform cybersecurity — here’s how researchers must prepare](https://www.nature.com/articles/d41586-026-02214-z?utm_source=lootura.com) — 2026-07-16T17:13:37.866Z
+- [A global capital for AI safety is emerging — and it's not in Silicon Valley](https://www.nature.com/articles/d41586-026-01389-9?utm_source=lootura.com) — 2026-07-16T17:13:37.866Z
+- [Does AI work for us, or do we work for AI?](https://www.science.org/doi/abs/10.1126/science.aei9754?af=R&utm_source=lootura.com) — 2026-07-16T17:13:38.102Z
+- [Google is renaming NotebookLM to Gemini Notebook](https://www.theverge.com/tech/966112/google-gemini-notebook-notebooklm?utm_source=lootura.com) — 2026-07-16T16:00:00.000Z

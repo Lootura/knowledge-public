@@ -3,7 +3,7 @@
 > Follow White House, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-07-16T13:45:32.280Z
+- Updated: 2026-07-16T17:13:33.353Z
 - Canonical: https://atlas.lootura.com/us/organization/white-house
 
 ## Recent changes
@@ -11,6 +11,18 @@
 ### Trump Administration Argues for Fencing Off Park Next to White House
 
 The Commission of Fine Arts is set to consider the administration’s proposal regarding Lafayette Square Park, which has been the site of numerous protests.
+
+Date: 2026-07-16
+
+### Trump wants a permanent fence around the D.C. park known for White House protests
+
+The Trump administration wants to install permanent fencing around Lafayette Park, directly outside the White House. It's long been a popular spot for protesters, who worry barriers will change that. (Image credit: U.S. Commission of Fine Arts).
+
+Date: 2026-07-16
+
+### How Nike’s Diversity Efforts Made It a Trump Target
+
+A civil-rights investigation, which grew out of a 26-page memo by a political appointee, provides a road map for the White House’s assault on D.E.I.
 
 Date: 2026-07-16
 
@@ -56,20 +68,9 @@ His nomination to lead the U.S. intelligence community comes as the White House 
 
 Date: 2026-07-15
 
-### House passes bill to make daylight saving time permanent
-
-There will be no turning back the clock if the House has its way. The House passed a bill Tuesday that would make daylight saving time permanent. Proponents, including the White House, argued the change would provide more daylight during the times that Americans are most active.
-
-Date: 2026-07-15
-
-### Climate: An extraordinary White House meeting
-
-A new book sheds light on President Trump’s affinity for fossil fuels.
-
-Date: 2026-07-14
-
 ## Sources
 
-- [Trump wants to fence off the park closest to the White House, a popular protest spot](https://www.npr.org/2026/07/16/nx-s1-5893465/dc-lafayette-square-park-permanent-fencing-proposal?utm_source=lootura.com) — 2026-07-16T12:13:23.000Z
+- [Trump wants a permanent fence around the D.C. park known for White House protests](https://www.npr.org/2026/07/16/nx-s1-5893465/dc-lafayette-square-park-permanent-fencing-proposal?utm_source=lootura.com) — 2026-07-16T12:13:23.000Z
 - [Clayton Dodges Question on 2020 Election, and Democrats Call Him on It](https://www.nytimes.com/2026/07/15/us/politics/jay-clayton-confirmation-hearing-director-national-intelligence.html?utm_source=lootura.com) — 2026-07-15T21:50:43.000Z
 - [Trump Administration Argues for Fencing Off Park Next to White House](https://www.nytimes.com/2026/07/16/us/politics/trump-fine-arts-commission-lafayette-park.html?utm_source=lootura.com) — 2026-07-16T09:04:07.000Z
+- [How Nike’s Diversity Efforts Made It a Trump Target](https://www.nytimes.com/2026/07/16/us/politics/nike-dei-trump-eeoc.html?utm_source=lootura.com) — 2026-07-16T16:27:24.000Z

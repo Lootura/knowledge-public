@@ -3,10 +3,16 @@
 > Sigue la actividad de Organización del Tratado del Atlántico Norte en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-16T10:06:17.457Z
+- Actualizado: 2026-07-16T17:13:06.098Z
 - Canonical: https://atlas.lootura.com/es/organization/nato
 
 ## Cambios recientes
+
+### España asume el liderazgo de la fuerza naval de la OTAN con maniobras junto a Japón y Canadá
+
+España ha asumido por primera vez el mando de la fuerza naval de la OTAN encargada de vigilar el Atlántico Norte , una responsabilidad que sitúa a la Armada en el centro del nuevo dispositivo de disuasión diseñado por la Alianza. El estreno de este liderazgo ha llegado acompañado de ejercicios navales con las marinas d.
+
+Date: 2026-07-16
 
 ### La OTAN se plantea cómo defender Europa oriental ante la retirada de Estados Unidos
 
@@ -62,12 +68,6 @@ La ruleta geopolítica sigue girando y, mientras las alianzas globales se reconf
 
 Date: 2026-07-12
 
-### La OTAN resucita el A400M de Sevilla que el sector ya daba por muerto
-
-En la línea de montaje del A400M de la planta sevillana de San Pablo ya habían empezado a apagar las luces. El sector veía la continuidad del programa del mayor avión de transporte militar de Airbus más allá de 2028 muy comprometida por la falta de nuevos contratos , y la propia factoría sevillana había empezado a actu.
-
-Date: 2026-07-12
-
 ## Fuentes
 
-No public source links.
+- [España asume el liderazgo de la fuerza naval de la OTAN con maniobras junto a Japón y Canadá](https://theobjective.com/espana/2026-07-16/espana-otan-japon-canada/?utm_source=lootura.com) — 2026-07-16T15:56:32.000Z

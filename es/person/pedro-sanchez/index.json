@@ -8,21 +8,11 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/pedro-sanchez/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/pedro-sanchez/index.json",
   "description": "Sigue la actividad de Pedro Sánchez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-16T13:45:06.103Z",
+  "updatedAt": "2026-07-16T17:13:06.098Z",
   "aliases": [
     "Sánchez"
   ],
   "changes": [
-    {
-      "title": "La condena de David Sánchez espolea al PSOE: “La derecha política y judicial está logrando el efecto contrario”",
-      "summary": "“En la sentencia a David Sánchez hay un daño personal al presidente, pero el daño electoral es cero. Lo mismo que con su esposa. Sí que lo hubo con [José Luis] Ábalos, condenado a 24 años, pero los casos de la familia se han convertido en un ataque personal. Y podrían convertirse en un bumerán contra la derecha”, afirm.",
-      "date": "2026-07-16"
-    },
-    {
-      "title": "“Nepotismo” y “absentismo”: el tribunal del ‘caso David Sánchez’ traza la línea entre lo “éticamente censurable” y el delito",
-      "summary": "La Audiencia Provincial de Badajoz no ha rehuido el debate público y ha recogido en su sentencia dos de las conductas que han marcado la causa por la que David Sánchez, el hermano del presidente del Gobierno, Pedro Sánchez, ha sido condenado a nueve años de inhabilitación por prevaricación administrativa . Los magistra.",
-      "date": "2026-07-16"
-    },
     {
       "title": "El Gobierno celebra la ley de amnistía como un “logro colectivo” que ha contribuido a recuperar “la convivencia y la reconciliación”",
       "summary": "La ley de amnistía, la clave de bóveda de la legislatura que posibilitó la investidura de Pedro Sánchez y al mismo tiempo le ha supuesto un enorme desgaste al Gobierno, ha recibido el espaldarazo de la justicia europea más de dos años después de que fuese aprobada en el Congreso. El respaldo del Tribunal de Justicia de.",
@@ -36,11 +26,6 @@
     {
       "title": "Puigdemont enfría un regreso inminente a España: “El camino para acabar con la represión no ha terminado”",
       "summary": "El independentismo se ha mostrado exultante este jueves ante el fallo de la justicia europea que avala la ley de amnistía , pactada en su día por ERC y Junts per Catalunya a cambio de investir a Pedro Sánchez. Ambas formaciones han coincidido en advertir que no más hay excusas posibles para una aplicación efectiva de l.",
-      "date": "2026-07-16"
-    },
-    {
-      "title": "Moncloa también rabia contra la Audiencia por ratificar el juicio a Begoña Gómez: «Es una causa política»",
-      "summary": "El Gobierno de Pedro Sánchez ha estallado contra la decisión de la Audiencia de Madrid que avala el procesamiento de Begoña Gómez , esposa del líder socialista, por presuntos delitos de tráfico de influencias y malversación de caudales públicos tras la instrucción del juez Juan Carlos Peinado . «Se trata de una causa p.",
       "date": "2026-07-16"
     },
     {
@@ -59,17 +44,32 @@
       "date": "2026-07-16"
     },
     {
-      "title": "Y ahora, a por Begoña Gómez",
-      "summary": "Los tribunales ya no son ese lugar donde se imparte justicia sino la plaza donde se libra la verdadera batalla política. Primero cayó el fiscal general, después el hermano de Pedro Sánchez y la próxima será la esposa. Aumenta tanto la sospecha sobre la coincidencia del calendario judicial y la existencia de un plan com.",
+      "title": "El DAO niega ante el juez presiones a la UCO y que les ordenase \"ponerse de perfil\" con la investigación del hermano de Pedro Sánchez",
+      "summary": "Manuel Llamas enmarca las informaciones reservadas incoadas contra la UCO dentro del normal funcionamiento interno de la Guardia Civil. Leer.",
+      "date": "2026-07-16"
+    },
+    {
+      "title": "El PP respeta el fallo del Tribunal, pero carga contra Sánchez: “Ningún presidente debe cambiar poder por impunidad”",
+      "summary": "Tras l a decisión del Tribunal de Justicia de la Unión Europea (TJUE) de avalar la ley de amnistía , que zanja el debate jurídico, el Partido Popular ha tratado de reorientar su rechazo a la norma al terreno político y moral. Los populares han declarado su “respeto absoluto al fallo del Tribunal” en un breve comunicado.",
+      "date": "2026-07-16"
+    },
+    {
+      "title": "Sánchez se ha enfurruñado",
+      "summary": "Se ha enfadado el yerno de Sabiniano, el padre de Begoña, que hizo fortuna con el sudor y las lágrimas de los hombres y mujeres a los que explotaba en sus puticlubs y saunas sexuales. Ya sé que resulta cansino nombrar a su suegro cada vez que se menciona al presidente del Gobierno, pero es obligado repetir hasta la sac.",
+      "date": "2026-07-16"
+    },
+    {
+      "title": "La condena de David Sánchez espolea al PSOE: “La derecha política y judicial está logrando el efecto contrario”",
+      "summary": "“En la sentencia a David Sánchez hay un daño personal al presidente, pero el daño electoral es cero. Lo mismo que con su esposa. Sí que lo hubo con [José Luis] Ábalos, condenado a 24 años, pero los casos de la familia se han convertido en un ataque personal. Y podrían convertirse en un bumerán contra la derecha”, afirm.",
       "date": "2026-07-16"
     }
   ],
   "sources": [
     {
-      "title": "Begoña Gómez logró la cátedra de la Complutense «de inmediato» y «sin control» por \"su privilegiada posición de esposa del presidente del Gobierno\"",
-      "url": "https://www.eldebate.com/espana/20260716/fiscalia-defensa-begona-gomez-insisten-recuperar-pasaporte-autoricen-futuras-salidas-europa_440348.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-16T11:14:41.000Z",
-      "sourceId": "lootura-es-el-debate"
+      "title": "El DAO niega ante el juez presiones a la UCO y que les ordenase \"ponerse de perfil\" con la investigación del hermano de Pedro Sánchez",
+      "url": "https://www.elmundo.es/espana/2026/07/16/6a589907e85ece26028b45b3.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-16T16:23:11.000Z",
+      "sourceId": "lootura-es-el-mundo"
     },
     {
       "title": "El Gobierno celebra la ley de amnistía como un “logro colectivo” que ha contribuido a recuperar “la convivencia y la reconciliación”",
@@ -78,21 +78,15 @@
       "sourceId": "lootura-es-el-pais"
     },
     {
-      "title": "La condena de David Sánchez espolea al PSOE: “La derecha política y judicial está logrando el efecto contrario”",
-      "url": "https://elpais.com/espana/2026-07-16/la-condena-de-david-sanchez-espolea-al-psoe-la-derecha-politica-y-judicial-esta-logrando-el-efecto-contrario.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-16T03:30:01.000Z",
-      "sourceId": "lootura-es-el-pais"
-    },
-    {
       "title": "La Audiencia de Madrid avala que la causa contra Begoña Gómez siga adelante por jurado por dos delitos",
       "url": "https://elpais.com/espana/2026-07-16/la-audiencia-de-madrid-avala-que-la-causa-contra-begona-gomez-siga-adelante-por-jurado-por-dos-delitos.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-16T13:25:57.000Z",
+      "publishedAt": "2026-07-16T15:21:22.000Z",
       "sourceId": "lootura-es-el-pais"
     },
     {
-      "title": "“Nepotismo” y “absentismo”: el tribunal del ‘caso David Sánchez’ traza la línea entre lo “éticamente censurable” y el delito",
-      "url": "https://elpais.com/espana/2026-07-16/nepotismo-y-absentismo-el-tribunal-del-caso-david-sanchez-traza-la-linea-entre-lo-eticamente-censurable-y-el-delito.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-16T03:30:01.000Z",
+      "title": "El PP respeta el fallo del Tribunal, pero carga contra Sánchez: “Ningún presidente debe cambiar poder por impunidad”",
+      "url": "https://elpais.com/espana/2026-07-16/el-pp-respeta-el-fallo-del-tribunal-pero-carga-contra-sanchez-ningun-presidente-debe-cambiar-poder-por-impunidad.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-16T09:20:49.000Z",
       "sourceId": "lootura-es-el-pais"
     },
     {
@@ -102,9 +96,9 @@
       "sourceId": "lootura-es-el-pais"
     },
     {
-      "title": "Moncloa también rabia contra la Audiencia por ratificar el juicio a Begoña Gómez: «Es una causa política»",
-      "url": "https://okdiario.com/espana/moncloa-tambien-rabia-contra-audiencia-ratificar-juicio-begona-gomez-causa-politica-19009566?utm_source=lootura.com",
-      "publishedAt": "2026-07-16T13:17:34.000Z",
+      "title": "Sánchez se ha enfurruñado",
+      "url": "https://okdiario.com/opinion/sanchez-enfurrunado-19010738?utm_source=lootura.com",
+      "publishedAt": "2026-07-16T17:00:38.000Z",
       "sourceId": "lootura-es-ok-diario"
     },
     {

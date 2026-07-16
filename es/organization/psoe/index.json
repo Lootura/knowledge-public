@@ -8,17 +8,12 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/psoe/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/psoe/index.json",
   "description": "Sigue la actividad de Partido Socialista Obrero Español en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-16T13:45:06.103Z",
+  "updatedAt": "2026-07-16T17:13:06.098Z",
   "aliases": [
     "Partido Socialista",
     "Partido Socialista Obrero Español"
   ],
   "changes": [
-    {
-      "title": "La condena de David Sánchez espolea al PSOE: “La derecha política y judicial está logrando el efecto contrario”",
-      "summary": "“En la sentencia a David Sánchez hay un daño personal al presidente, pero el daño electoral es cero. Lo mismo que con su esposa. Sí que lo hubo con [José Luis] Ábalos, condenado a 24 años, pero los casos de la familia se han convertido en un ataque personal. Y podrían convertirse en un bumerán contra la derecha”, afirm.",
-      "date": "2026-07-16"
-    },
     {
       "title": "La directora de la Guardia Civil declara como imputada en el 'caso cloacas del PSOE' por obstrucción a la Justicia",
       "summary": "González está imputada por un delito continuado de prevaricación y otro de obstrucción a la Justicia Leer.",
@@ -27,6 +22,11 @@
     {
       "title": "El PSOE extremeño dice que el informe sobre Almaraz «allana el camino para su continuidad»",
       "summary": "El secretario general del PSOE de Extremadura, Álvaro Sánchez Cotrina , ha valorado este jueves el informe favorable emitido por el pleno del Consejo de Seguridad Nuclear (CSN) sobre la Central Nuclear de Almaraz, al considerar que «supone un paso decisivo para hacer posible la prórroga de la instalación». Sánchez Cotr.",
+      "date": "2026-07-16"
+    },
+    {
+      "title": "La condena de David Sánchez espolea al PSOE: “La derecha política y judicial está logrando el efecto contrario”",
+      "summary": "“En la sentencia a David Sánchez hay un daño personal al presidente, pero el daño electoral es cero. Lo mismo que con su esposa. Sí que lo hubo con [José Luis] Ábalos, condenado a 24 años, pero los casos de la familia se han convertido en un ataque personal. Y podrían convertirse en un bumerán contra la derecha”, afirm.",
       "date": "2026-07-16"
     },
     {
@@ -73,17 +73,11 @@
       "sourceId": "lootura-es-el-mundo"
     },
     {
-      "title": "La condena de David Sánchez espolea al PSOE: “La derecha política y judicial está logrando el efecto contrario”",
-      "url": "https://elpais.com/espana/2026-07-16/la-condena-de-david-sanchez-espolea-al-psoe-la-derecha-politica-y-judicial-esta-logrando-el-efecto-contrario.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-16T03:30:01.000Z",
-      "sourceId": "lootura-es-el-pais"
-    },
-    {
       "title": "El PSOE extremeño dice que el informe sobre Almaraz «allana el camino para su continuidad»",
       "url": "https://theobjective.com/espana/politica/2026-07-16/psoe-extremeno-informe-almaraz/?utm_source=lootura.com",
       "publishedAt": "2026-07-16T12:47:41.000Z",
       "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 2
 }

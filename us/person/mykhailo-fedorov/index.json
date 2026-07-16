@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/mykhailo-fedorov/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/mykhailo-fedorov/index.json",
   "description": "Follow Mykhailo Fedorov, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-16T13:45:32.280Z",
+  "updatedAt": "2026-07-16T17:13:33.353Z",
   "aliases": [],
   "changes": [
     {
@@ -22,11 +22,6 @@
       "date": "2026-07-16"
     },
     {
-      "title": "Ukraine’s Minister of Defense, a Proponent of Drone Warfare, Is Forced Out",
-      "summary": "Mykhailo Fedorov announced he was leaving the ministry on Wednesday after conflicts with generals and military contractors over the role of innovative weaponry.",
-      "date": "2026-07-16"
-    },
-    {
       "title": "The Essentials About Mykhailo Fedorov, the Ousted Ukrainian Minister",
       "summary": "Mr. Fedorov became the youthful face of Ukraine’s successful drone warfare program. The move to replace him has prompted street protests.",
       "date": "2026-07-16"
@@ -34,6 +29,11 @@
     {
       "title": "Discovered by Atlas",
       "summary": "Mykhailo Fedorov first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-07-16"
+    },
+    {
+      "title": "Ukraine’s Minister of Defense, a Proponent of Drone Warfare, Is Forced Out",
+      "summary": "Mykhailo Fedorov announced he was leaving the ministry on Wednesday after conflicts with generals and military contractors over the role of innovative weaponry.",
       "date": "2026-07-16"
     }
   ],
@@ -47,21 +47,15 @@
     {
       "title": "Ukraine’s Ousted Defense Minister Attacks the Military’s Old Guard",
       "url": "https://www.nytimes.com/2026/07/16/world/europe/ukraine-fedorov-protests.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-16T13:37:50.000Z",
-      "sourceId": "lootura-us-the-new-york-times-world"
-    },
-    {
-      "title": "Ukraine’s Minister of Defense, a Proponent of Drone Warfare, Is Forced Out",
-      "url": "https://www.nytimes.com/2026/07/15/world/europe/ukraine-minister-of-defense-mykhailo-fedorov-zelensky-war-russia.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-16T11:41:48.000Z",
+      "publishedAt": "2026-07-16T16:19:50.000Z",
       "sourceId": "lootura-us-the-new-york-times-world"
     },
     {
       "title": "The Essentials About Mykhailo Fedorov, the Ousted Ukrainian Minister",
       "url": "https://www.nytimes.com/2026/07/16/world/europe/who-mykhailo-fedorov-ukraine-defense-minister.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-16T13:21:39.000Z",
+      "publishedAt": "2026-07-16T15:34:12.000Z",
       "sourceId": "lootura-us-the-new-york-times-world"
     }
   ],
-  "evidenceCount": 4
+  "evidenceCount": 3
 }

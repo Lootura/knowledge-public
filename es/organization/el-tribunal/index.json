@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/el-tribunal/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/el-tribunal/index.json",
   "description": "Sigue la actividad de El Tribunal en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-16T13:45:06.103Z",
+  "updatedAt": "2026-07-16T17:13:06.098Z",
   "aliases": [],
   "changes": [
     {
@@ -74,13 +74,7 @@
       "url": "https://elpais.com/espana/catalunya/2026-07-16/la-justicia-europea-avala-la-amnistia-a-los-cdr-que-estan-procesados-por-terrorismo.html?utm_source=lootura.com",
       "publishedAt": "2026-07-16T10:06:38.000Z",
       "sourceId": "lootura-es-el-pais"
-    },
-    {
-      "title": "El aval europeo no implica la amnistía inmediata para Puigdemont y Junqueras, que deberán esperar al Constitucional",
-      "url": "https://www.eldiario.es/catalunya/aval-europeo-no-implica-amnistia-inmediata-puigdemont-junqueras-deberan-esperar-constitucional_1_13384183.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-16T09:27:20.000Z",
-      "sourceId": "lootura-es-eldiario-es"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 2
 }

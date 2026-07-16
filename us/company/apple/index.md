@@ -3,10 +3,16 @@
 > Follow Apple, a tracked company, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: company
-- Updated: 2026-07-15T17:15:23.220Z
+- Updated: 2026-07-16T17:13:33.353Z
 - Canonical: https://atlas.lootura.com/us/company/apple
 
 ## Recent changes
+
+### Apple’s OLED iPad Mini upgrade is on the way as prices continue to rise
+
+The current 7th-generation iPad Mini includes a Liquid Retina display. | Photo: David Pierce / The Verge The iPad Mini could get an OLED display upgrade as soon as October, according to Bloomberg 's Mark Gurman. It would be the most significant refresh for the Mini since its 2021 redesign. An OLED iPad Mini has been ru.
+
+Date: 2026-07-16
 
 ### Discovered by Atlas
 
@@ -34,4 +40,4 @@ Date: 2026-07-13
 
 ## Sources
 
-No public source links.
+- [Apple’s OLED iPad Mini upgrade is on the way as prices continue to rise](https://www.theverge.com/tech/966535/apple-oled-ipad-mini-rumor?utm_source=lootura.com) — 2026-07-16T15:04:12.000Z

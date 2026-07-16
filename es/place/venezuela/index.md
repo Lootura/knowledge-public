@@ -70,4 +70,4 @@ Date: 2026-07-13
 
 ## Fuentes
 
-- [Delcy Rodríguez se querella contra Aldama al no retractarse en relación al sobre de PDVSA](https://theobjective.com/espana/tribunales/2026-07-16/delcy-rodriguez-querella-aldama-no-retractarse-sobre-pdvsa/?utm_source=lootura.com) — 2026-07-16T09:30:38.000Z
+No public source links.

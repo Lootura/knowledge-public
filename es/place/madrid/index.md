@@ -3,38 +3,14 @@
 > Sigue la actividad de Madrid en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-16T13:45:06.103Z
+- Actualizado: 2026-07-16T17:13:06.098Z
 - Canonical: https://atlas.lootura.com/es/place/madrid
 
 ## Cambios recientes
 
-### La Audiencia de Madrid avala enjuiciar ante un jurado a Begoña Gómez y le devuelve el pasaporte
-
-La Audiencia Provincial de Madrid ha avalado la decisión del juez Juan Carlos Peinado de enviar a Begoña Gómez a juicio ante el tribunal del jurado por delitos de malversación y tráfico de influencias . En cambio, ha revocado el enjuiciamiento por delitos de corrupción en los negocios y apropiación indebida, y ha acord.
-
-Date: 2026-07-16
-
-### El humorista Héctor de Miguel, Quequé, queda libre tras ser detenido por un delito de desobediencia
-
-El humorista Héctor de Miguel, conocido como Quequé, ha quedado en libertad este jueves tras ser detenido por la Policía Nacional la pasada noche en Salamanca por un delito de desobediencia por el que está siendo investigado en un juzgado de Madrid, según ha informado el Tribunal Superior de Justicia de Castilla y León.
-
-Date: 2026-07-16
-
-### En libertad el humorista Quequé tras ser detenido en Salamanca por una reclamación judicial
-
-El humorista Héctor de Miguel, conocido como Quequé , ha quedado en libertad este jueves tras ser detenido por la Policía Nacional la pasada noche en Salamanca por un delito de desobediencia por el que está siendo investigado en un juzgado de Madrid , según ha informado el Tribunal Superior de Justicia de Castilla y Le.
-
-Date: 2026-07-16
-
 ### La Audiencia de Madrid avala que la causa contra Begoña Gómez siga adelante por jurado por dos delitos
 
 La Audiencia Provincial de Madrid ha dado luz verde a que el proceso por jurado popular contra Begoña Gómez, esposa de Pedro Sánchez, siga adelante por dos delitos: tráfico de influencias y malversación. El tribunal avala así parcialmente la decisión del juez Juan Carlos Peinado de enviar al banquillo a la pareja del p.
-
-Date: 2026-07-16
-
-### Moncloa también rabia contra la Audiencia por ratificar el juicio a Begoña Gómez: «Es una causa política»
-
-El Gobierno de Pedro Sánchez ha estallado contra la decisión de la Audiencia de Madrid que avala el procesamiento de Begoña Gómez , esposa del líder socialista, por presuntos delitos de tráfico de influencias y malversación de caudales públicos tras la instrucción del juez Juan Carlos Peinado . «Se trata de una causa p.
 
 Date: 2026-07-16
 
@@ -56,25 +32,48 @@ La vida sentimental de Ana de Armas vuelve a estar en el centro de todas las con
 
 Date: 2026-07-16
 
-### Los Cines Callao de Madrid celebran sus 100 años con una proyección de 'Regreso al futuro' al aire libre, agua y palomitas gratis
+### Un incendio en Lozoyuela obliga a desalojar una urbanización en la Sierra de Madrid y confinar el municipio de Puentes Viejas
 
-Los Cines Callao de Madrid celebran 100 años de historia con un cine de verano gratuito en la plaza de Callao , donde proyectarán Regreso al futuro y repartirán palomitas y agua entre los asistentes. Cuando cae la tarde, la plaza de Callao cambia el ritmo frenético del centro de Madrid por un ambiente completamente dis.
+Un incendio en el municipio de Lozoyuela obliga a activar la Situación Operativa 2 del Plan de Protección Civil. La situación en la sierra de Madrid ha obligado a desalojar viviendas de la urbanización de San Lázaro (en Lozoyuela) y a confinar el municipio de Puentes Viejas. Junto a estas actuaciones, se ha cortado la.
 
 Date: 2026-07-16
 
-### Detienen al humorista Quequé en Salamanca por una reclamación judicial en Madrid
+### Luces y sombras en el estreno de Digi en Bolsa: empezó la jornada con una caída del 7% y acabó con un batacazo del 8%
 
-El humorista Héctor de Miguel , popularmente conocido como Quequé, fue arrestado anoche en Salamanca por la Policía Nacional debido a una reclamación judicial cursada por un juzgado de Madrid. Según confirmaron a EFE fuentes de la Delegación del Gobierno en Castilla y León , el cómico permanece bajo custodia en su ciud.
+El tradicional toque de campana del Palacio de la Bolsa de Madrid ha anunciado este mediodía la cotización de Digi Spain Telecom, la filial española del Grupo Digi , en el Mercado Continuo. La empresa ha debutado a un precio de 6 euros por acción, lo que supone una subida del 7% en los primeros minutos. La operación, a.
+
+Date: 2026-07-16
+
+### Un incendio en Lozoyuela (Madrid) obliga a confinar varios pueblos tras el envío de la alerta
+
+La Comunidad de Madrid ha activado la Situación Operativa 2 del Plan Infoma por el incendio forestal de Lozoyuela y ha mandado un mensaje a través del sistema Es-Alert para ordenar el confinamiento de la población afectada en la localidad de Buitrago de Lozoya y las pedanías de Cinco Villas y Manjirón , ambas en el mun.
+
+Date: 2026-07-16
+
+### La Audiencia de Madrid avala enjuiciar ante un jurado a Begoña Gómez y le devuelve el pasaporte
+
+La Audiencia Provincial de Madrid ha avalado la decisión del juez Juan Carlos Peinado de enviar a Begoña Gómez a juicio ante el tribunal del jurado por delitos de malversación y tráfico de influencias . En cambio, ha revocado el enjuiciamiento por delitos de corrupción en los negocios y apropiación indebida, y ha acord.
+
+Date: 2026-07-16
+
+### El humorista Héctor de Miguel, Quequé, queda libre tras ser detenido por un delito de desobediencia
+
+El humorista Héctor de Miguel, conocido como Quequé, ha quedado en libertad este jueves tras ser detenido por la Policía Nacional la pasada noche en Salamanca por un delito de desobediencia por el que está siendo investigado en un juzgado de Madrid, según ha informado el Tribunal Superior de Justicia de Castilla y León.
+
+Date: 2026-07-16
+
+### En libertad el humorista Quequé tras ser detenido en Salamanca por una reclamación judicial
+
+El humorista Héctor de Miguel, conocido como Quequé , ha quedado en libertad este jueves tras ser detenido por la Policía Nacional la pasada noche en Salamanca por un delito de desobediencia por el que está siendo investigado en un juzgado de Madrid , según ha informado el Tribunal Superior de Justicia de Castilla y Le.
 
 Date: 2026-07-16
 
 ## Fuentes
 
-- [La Audiencia de Madrid avala enjuiciar ante un jurado a Begoña Gómez y le devuelve el pasaporte](https://www.20minutos.es/nacional/audiencia-madrid-avala-enjuiciar-ante-un-jurado-begona-gomez-por-dos-los-cuatro-delitos-le-devuelve-pasaporte_7015448_0.html?utm_source=lootura.com) — 2026-07-16T11:38:05.000Z
-- [El humorista Héctor de Miguel, Quequé, queda libre tras ser detenido por un delito de desobediencia](https://www.20minutos.es/gente/libertad-humorista-hector-miguel-queque-tras-ser-detenido-por-un-delito-desobediencia_7015480_0.html?utm_source=lootura.com) — 2026-07-16T12:38:49.000Z
-- [En libertad el humorista Quequé tras ser detenido en Salamanca por una reclamación judicial](https://www.elconfidencial.com/espana/2026-07-16/queque-detenido-salamanca-reclamacion-judicial-1tna-1tps_4390995/?utm_source=lootura.com) — 2026-07-16T09:58:00.000Z
-- [La Audiencia de Madrid avala que la causa contra Begoña Gómez siga adelante por jurado por dos delitos](https://elpais.com/espana/2026-07-16/la-audiencia-de-madrid-avala-que-la-causa-contra-begona-gomez-siga-adelante-por-jurado-por-dos-delitos.html?utm_source=lootura.com) — 2026-07-16T13:25:57.000Z
-- [Moncloa también rabia contra la Audiencia por ratificar el juicio a Begoña Gómez: «Es una causa política»](https://okdiario.com/espana/moncloa-tambien-rabia-contra-audiencia-ratificar-juicio-begona-gomez-causa-politica-19009566?utm_source=lootura.com) — 2026-07-16T13:17:34.000Z
+- [Un incendio en Lozoyuela obliga a desalojar una urbanización en la Sierra de Madrid y confinar el municipio de Puentes Viejas](https://www.20minutos.es/madrid/un-incendio-lozoyuela-obliga-desalojar-una-urbanizacion-sierra-madrid-confinar-municipio-puentes-viejas_7015611_0.html?utm_source=lootura.com) — 2026-07-16T17:01:43.000Z
+- [Luces y sombras en el estreno de Digi en Bolsa: empezó la jornada con una caída del 7% y acabó con un batacazo del 8%](https://www.abc.es/economia/digi-estrena-hoy-bolsa-espanola-20260716094030-nt.html?utm_source=lootura.com) — 2026-07-16T16:37:58.000Z
+- [La Audiencia de Madrid avala que la causa contra Begoña Gómez siga adelante por jurado por dos delitos](https://elpais.com/espana/2026-07-16/la-audiencia-de-madrid-avala-que-la-causa-contra-begona-gomez-siga-adelante-por-jurado-por-dos-delitos.html?utm_source=lootura.com) — 2026-07-16T15:21:22.000Z
 - [El PP, tras mantenerse el juicio con jurado a Begoña Gómez: «Una situación inconcebible»](https://theobjective.com/espana/politica/2026-07-16/pp-juicio-jurado-gomez-situacion-inconcebible/?utm_source=lootura.com) — 2026-07-16T13:20:44.000Z
+- [Un incendio en Lozoyuela (Madrid) obliga a confinar varios pueblos tras el envío de la alerta](https://theobjective.com/sociedad/suceso/2026-07-16/incendio-lozoyuela-madrid/?utm_source=lootura.com) — 2026-07-16T16:52:21.000Z
 - [El Gobierno tilda de «causa política» el juicio contra Gómez tras la decisión de la Audiencia](https://theobjective.com/espana/politica/2026-07-16/gobierno-causa-politica-juicio-gomez-audiencia/?utm_source=lootura.com) — 2026-07-16T12:56:16.000Z
 - [Ana de Armas olvida a Tom Cruise y pasa página: sus románticas citas con el cantante Beto Montenegro por Madrid](https://theobjective.com/gente/2026-07-16/ana-de-armas-olvida-a-tom-cruise-y-pasa-pagina-sus-especiales-citas-con-el-cantante-beto-montenegro-por-madrid/?utm_source=lootura.com) — 2026-07-16T12:37:36.000Z

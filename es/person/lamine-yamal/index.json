@@ -8,9 +8,14 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/lamine-yamal/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/lamine-yamal/index.json",
   "description": "Sigue la actividad de Lamine Yamal en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-16T10:06:17.457Z",
+  "updatedAt": "2026-07-16T17:13:06.098Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "La intrahistoria de las fotos de Leo Messi junto a un Lamine Yamal de seis meses",
+      "summary": "Las redes sociales se han inundado con la recordada imagen de Leo Messi junto a un Lamine Yamal de seis meses de edad. Descubre su historia.",
+      "date": "2026-07-16"
+    },
     {
       "title": "Lamine Yamal, una cuestión de genios y de magos: “Es diferente al resto. Tiene algo especial”",
       "summary": "Fue en Múnich, hace poco más de dos años, cuando Europa conoció a un chaval llamado Lamine Yamal. Era la semifinal de la Eurocopa 2024 y todavía no había cumplido 17. Interpretó, sin embargo, cómo lastimar a su rival: “Me di cuenta de que Francia tenía un problema en el medio, dejaban ahí a gente suelta”. Se instaló en.",
@@ -52,6 +57,13 @@
       "date": "2026-07-08"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "La intrahistoria de las fotos de Leo Messi junto a un Lamine Yamal de seis meses",
+      "url": "https://okdiario.com/mundial/intrahistoria-fotos-leo-messi-junto-lamine-yamal-seis-meses-19010630/amp?utm_source=lootura.com",
+      "publishedAt": "2026-07-16T17:08:51.000Z",
+      "sourceId": "lootura-es-ok-diario"
+    }
+  ],
+  "evidenceCount": 1
 }

@@ -3,28 +3,10 @@
 > Sigue la actividad de España en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-16T13:45:06.103Z
+- Actualizado: 2026-07-16T17:13:06.098Z
 - Canonical: https://atlas.lootura.com/es/place/espana
 
 ## Cambios recientes
-
-### Enric Juliana, periodista y escritor: "España no es un país decadente"
-
-Vincula el éxito deportivo con el momento social y político que atraviesa el país.
-
-Date: 2026-07-16
-
-### El Gobierno pide que se aplique la amnistía tras el "éxito" en el TJUE y poner fin a un debate que en España "no fue jurídico, sino visceral"
-
-El Gobierno ha reclamado este jueves a los tribunales españoles la aplicación plena de la ley de amnistía después del aval del Tribunal de Justicia de la Unión Europea (TJUE). El ministro de Presidencia y Justicia, Félix Bolaños , ha celebrado como un "éxito" las sentencias europeas y considera que dejan "despejado el.
-
-Date: 2026-07-16
-
-### Digi afloja y repite el precio de salida a Bolsa después de estrenarse con un alza del 7%
-
-Digi marca un hito en España. Tras haber desembarcado en 2007, con una agresiva oferta a precios como operadora móvil low cost y haber desarrollado intensas inversiones que la han llevado a disponer de una potente red propia de fibra óptica , este jueves estrena en la Bolsa su negocio en el país. Más de 50 inversores i.
-
-Date: 2026-07-16
 
 ### Puigdemont enfría un regreso inminente a España: “El camino para acabar con la represión no ha terminado”
 
@@ -35,12 +17,6 @@ Date: 2026-07-16
 ### Gran formato a precio de derribo: Xiaomi lanza en Europa su nuevo televisor de 75 pulgadas con tecnología Mini-LED
 
 El nuevo Xiaomi TV FX Mini-LED de gran diagonal desembarca por 849 euros en mercados vecinos a la espera de su llegada a España y apostando por el ecosistema Fire TV de Amazon.
-
-Date: 2026-07-16
-
-### La Ley de Bienestar Animal lo avala: multas de 50.000 euros a los dueños de perros que hagan esto en sus casas
-
-En España, hay alrededor de 15 millones de mascotas, todo de acuerdo a los datos del Ministerio de Derechos Sociales , de los que cerca de la mitad (7,5 millones) son perros , aunque los gatos también se quedan con una amplia presencia en los hogares (5,5 millones). Es por ello que el Gobierno ha aprobado una normativa.
 
 Date: 2026-07-16
 
@@ -62,21 +38,45 @@ En un movimiento inesperado y en medio de una intensa presión en las redes soci
 
 Date: 2026-07-16
 
-### La Justicia europea avala la amnistía y allana la vuelta de Puigdemont a España
+### Luces y sombras en el estreno de Digi en Bolsa: empezó la jornada con una caída del 7% y acabó con un batacazo del 8%
 
-El Tribunal de Justicia de la Unión Europea (TJUE) ha respaldado este jueves la ley de amnistía, siguiendo los puntos que había marcado el pasado mes de noviembre el abogado general de la UE. La justicia europea asegura que la ley "no se opone" a la normativa comunitaria; además, añade que no va en contra de los intere.
+El tradicional toque de campana del Palacio de la Bolsa de Madrid ha anunciado este mediodía la cotización de Digi Spain Telecom, la filial española del Grupo Digi , en el Mercado Continuo. La empresa ha debutado a un precio de 6 euros por acción, lo que supone una subida del 7% en los primeros minutos. La operación, a.
+
+Date: 2026-07-16
+
+### Digi cede un 8% en su debut a pesar de su arranque con fuertes alzas
+
+Digi marca un hito en España. Tras haber desembarcado en 2007 con una agresiva oferta a precios como operadora móvil low cost y haber desarrollado intensas inversiones que la han llevado a disponer de una potente red propia de fibra óptica , este jueves ha estrenado en la Bolsa su negocio en el país. Más de 50 inversor.
+
+Date: 2026-07-16
+
+### Incendios de Aragón, en directo: última hora de la evacuación de Uncastillo y otros cuatros pueblos de Zaragoza
+
+El incendio de Orés continúa siendo el principal foco activo de España tras arrasar más de 4.500 hectáreas y obligar a evacuar cinco municipios, mientras el riesgo extremo de incendios persiste en gran parte del país.
+
+Date: 2026-07-16
+
+### España asume el liderazgo de la fuerza naval de la OTAN con maniobras junto a Japón y Canadá
+
+España ha asumido por primera vez el mando de la fuerza naval de la OTAN encargada de vigilar el Atlántico Norte , una responsabilidad que sitúa a la Armada en el centro del nuevo dispositivo de disuasión diseñado por la Alianza. El estreno de este liderazgo ha llegado acompañado de ejercicios navales con las marinas d.
+
+Date: 2026-07-16
+
+### Felipe VI entrega los despachos de la Armada a 125 nuevos oficiales en un acto sin Elcano
+
+El buque escuela Juan Sebastián Elcano no asistió a la ceremonia al encontrarse de regreso a España tras completar su crucero de instrucción.
 
 Date: 2026-07-16
 
 ## Fuentes
 
-- [El Gobierno pide que se aplique la amnistía tras el "éxito" en el TJUE y poner fin a un debate que en España "no fue jurídico, sino visceral"](https://www.20minutos.es/nacional/gobierno-pide-aplicar-amnistia-tras-exito-tjue-poner-fin-un-debate-que-espana-no-fue-juridico-sino-visceral_7015374_0.html?utm_source=lootura.com) — 2026-07-16T10:28:16.000Z
-- [Digi afloja y repite el precio de salida a Bolsa después de estrenarse con un alza del 7%](https://cincodias.elpais.com/mercados-financieros/2026-07-16/digi-se-prepara-para-debutar-en-bolsa-con-fuertes-subidas-a-pesar-de-las-tensiones-geopoliticas.html?utm_source=lootura.com) — 2026-07-16T12:54:31.000Z
-- [Enric Juliana, periodista y escritor: "España no es un país decadente"](https://www.elconfidencial.com/espana/2026-07-16/enric-juliana-escritor-espana-decadente-1qrt_4390985/?utm_source=lootura.com) — 2026-07-16T09:57:00.000Z
-- [La reacción de Iñaki Williams cuando Nico le dijo que renovaba: «Estaba en Ibiza, me hizo una videollamada y le dije a mi mujer...»](https://www.elcorreo.com/athletic/reaccion-inaki-williams-nico-dijo-renovaba-ibiza-20260715155817-nt_amp.html?utm_source=lootura.com) — 2026-07-15T13:58:17.000Z
+- [La Junta Electoral exige justificar en qué provincia se inscribe al nacionalizado por la ley de nietos para "garantizar la transparencia"](https://www.20minutos.es/nacional/junta-electoral-exige-motivar-provincia-inscripcion-nacionalizado-por-ley-nietos-para-garantizar-transparencia_7015506_0.html?utm_source=lootura.com) — 2026-07-16T13:46:46.000Z
+- [Luces y sombras en el estreno de Digi en Bolsa: empezó la jornada con una caída del 7% y acabó con un batacazo del 8%](https://www.abc.es/economia/digi-estrena-hoy-bolsa-espanola-20260716094030-nt.html?utm_source=lootura.com) — 2026-07-16T16:37:58.000Z
+- [Digi cede un 8% en su debut a pesar de su arranque con fuertes alzas](https://cincodias.elpais.com/mercados-financieros/2026-07-16/digi-se-prepara-para-debutar-en-bolsa-con-fuertes-subidas-a-pesar-de-las-tensiones-geopoliticas.html?utm_source=lootura.com) — 2026-07-16T16:08:03.000Z
 - [La cifra de muertes por calor en Bizkaia desde mayo duplica a la de todo el verano pasado](https://www.elcorreo.com/sociedad/cifra-muertes-calor-bizkaia-mayo-duplica-verano-20260715005400-nt_amp.html?utm_source=lootura.com) — 2026-07-15T22:54:01.000Z
 - [Puigdemont enfría un regreso inminente a España: “El camino para acabar con la represión no ha terminado”](https://elpais.com/espana/catalunya/2026-07-16/jordi-turull-el-tc-no-se-puede-ir-de-vacaciones-teniendo-a-gente-a-la-que-se-le-vulneran-derechos-fundamentales.html?utm_source=lootura.com) — 2026-07-16T12:10:59.000Z
 - [Gran formato a precio de derribo: Xiaomi lanza en Europa su nuevo televisor de 75 pulgadas con tecnología Mini-LED](https://www.larazon.es/tecnologia-consumo/xiaomi/gran-formato-precio-derribo-xiaomi-lanza-europa-su-nuevo-televisor-75-pulgadas-tecnologia-mini-led_202607166a58a02e0500ab412c9852cc.html?utm_source=lootura.com) — 2026-07-16T13:45:00.000Z
-- [La Ley de Bienestar Animal lo avala: multas de 50.000 euros a los dueños de perros que hagan esto en sus casas](https://okdiario.com/mascotas/ley-bienestar-animal-lo-avala-multas-50-000-euros-duenos-perros-que-hagan-esto-sus-casas-19004465?utm_source=lootura.com) — 2026-07-16T13:20:33.000Z
+- [Incendios de Aragón, en directo: última hora de la evacuación de Uncastillo y otros cuatros pueblos de Zaragoza](https://www.larazon.es/sociedad/incendio-ores-aragon-ultima-hora-pueblos-evacuados-avance-fuego_202607166a58f1ea1db8de04099258d4.html?outputType=amp&utm_source=lootura.com) — 2026-07-16T17:10:20.000Z
+- [España asume el liderazgo de la fuerza naval de la OTAN con maniobras junto a Japón y Canadá](https://theobjective.com/espana/2026-07-16/espana-otan-japon-canada/?utm_source=lootura.com) — 2026-07-16T15:56:32.000Z
+- [Felipe VI entrega los despachos de la Armada a 125 nuevos oficiales en un acto sin Elcano](https://theobjective.com/espana/2026-07-16/felipe-vi-despachos-armada/?amp=&utm_source=lootura.com) — 2026-07-16T17:12:38.000Z
 - [Albert Sánchez, nuevo director general de Philip Morris para España, Andorra y Gibraltar](https://theobjective.com/economia/2026-07-16/albert-sanchez-philip-morris-espana/?utm_source=lootura.com) — 2026-07-16T11:52:55.000Z
-- [Gonzalo Sánchez, reelegido presidente de PwC hasta 2031](https://theobjective.com/economia/2026-07-16/gonzalo-sanchez-reelegido-presidente-pwc-2031/?utm_source=lootura.com) — 2026-07-16T13:09:03.000Z

@@ -3,7 +3,7 @@
 > Follow China, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-16T13:45:32.280Z
+- Updated: 2026-07-16T17:13:33.353Z
 - Canonical: https://atlas.lootura.com/us/place/china
 
 ## Recent changes
@@ -70,4 +70,4 @@ Date: 2026-07-13
 
 ## Sources
 
-- [The Quest for ‘Technological Sovereignty’ in Europe (and Why It’s So Hard)](https://www.nytimes.com/2026/07/16/world/europe/digital-autonomy-ai.html?utm_source=lootura.com) — 2026-07-16T13:24:22.000Z
+- [Husband of Code Pink founder being investigated under federal agent and tax laws](https://www.cbsnews.com/news/husband-code-pink-founder-neville-roy-singham-investigation-tax-laws/?utm_source=lootura.com) — 2026-07-16T17:01:59.000Z

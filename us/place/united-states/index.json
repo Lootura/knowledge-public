@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/united-states/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/united-states/index.json",
   "description": "Follow United States, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-16T13:45:32.280Z",
+  "updatedAt": "2026-07-16T17:13:33.353Z",
   "aliases": [
     "America",
     "Estados Unidos",
@@ -21,33 +21,8 @@
       "date": "2026-07-27"
     },
     {
-      "title": "U.S. citizen departs Iran after being barred from leaving for over a year",
-      "summary": "A U.S.-Iranian woman who was trapped in Iran on allegations of espionage and collaborating with a hostile state that her attorney called \"bogus\" has departed the country, CBS News learned Wednesday.",
-      "date": "2026-07-16"
-    },
-    {
-      "title": "U.S., Iran in a \"new phase\" of the conflict, retired Navy vice admiral explains",
-      "summary": "U.S. Central Command confirmed it began a second wave of strikes against Iran on Wednesday, following a round of attacks earlier in the day. Retired Navy Vice Adm. Robert Murrett joins CBS News to discuss.",
-      "date": "2026-07-16"
-    },
-    {
-      "title": "Wildfires expose millions in Midwest, Northeast to dangerous smoke",
-      "summary": "Heavy smoke from several large wildfires blazing in Canada and Minnesota is engulfing large swaths of the Midwest and Northeast U.S. this week.",
-      "date": "2026-07-16"
-    },
-    {
       "title": "Trump Administration to Impose New Tariffs on Brazil",
       "summary": "The United States accused the country of unfair trade practices. The tariff will replace ones that the Supreme Court struck down.",
-      "date": "2026-07-16"
-    },
-    {
-      "title": "Coast Guard suspends search for 3 missing boaters in San Francisco Bay",
-      "summary": "The U.S. Coast Guard announced Wednesday that the search for three boaters missing after their vessel sank in San Francisco Bay will be suspended at sunset.",
-      "date": "2026-07-16"
-    },
-    {
-      "title": "U.S. to impose 25% tariffs on Brazilian imports over unfair trade practices",
-      "summary": "The United States is imposing 25% tariffs on imports from Brazil after finding a range of what it deemed unfair trade practices by the world's 10th-biggest economy.",
       "date": "2026-07-16"
     },
     {
@@ -56,27 +31,46 @@
       "date": "2026-07-16"
     },
     {
-      "title": "Trump wants to fence off the park closest to the White House, a popular protest spot",
+      "title": "Maps Show Where Wildfire Smoke Will Darken Skies on Thursday",
+      "summary": "Air quality in several cities reached hazardous levels on Thursday morning as smoke was expected to move across North America.",
+      "date": "2026-07-16"
+    },
+    {
+      "title": "Wildfire Smoke Turns Skies Orange Across the U.S., and Democrats Make a Big Shift on Israel",
+      "summary": "Plus, why Gen Z is turning to trade schools.",
+      "date": "2026-07-16"
+    },
+    {
+      "title": "H.R. McMaster on the U.S.-Iran feud over the Strait of Hormuz",
+      "summary": "H.R. McMaster, a CBS News contributor and President Trump's former national security adviser in his first term, joins CBS News 24/7 Mornings to discuss the current situation in the Strait of Hormuz as the U.S.-Iran feud ramps up.",
+      "date": "2026-07-16"
+    },
+    {
+      "title": "Climate extremes fuel explosive wildfires in Canada and the U.S., experts say",
+      "summary": "One climatologist said \"a perfect storm\" of climate extremes primed the western U.S. for one of its worst fire seasons in a decade. Meanwhile, Canadian wildfire smoke fills the air.",
+      "date": "2026-07-16"
+    },
+    {
+      "title": "Trump wants a permanent fence around the D.C. park known for White House protests",
       "summary": "The Trump administration wants to install permanent fencing around Lafayette Park, directly outside the White House. It's long been a popular spot for protesters, who worry barriers will change that. (Image credit: U.S. Commission of Fine Arts).",
       "date": "2026-07-16"
     },
     {
-      "title": "Maps Show Where Wildfire Smoke Will Darken Skies on Thursday",
-      "summary": "Air quality in several cities reached hazardous levels on Thursday morning as smoke was expected to move across North America.",
+      "title": "Trump immediately fires the new court-appointed top prosecutor in Seattle",
+      "summary": "President Donald Trump fired the new top U.S. prosecutor in Seattle on Wednesday less than an hour after the attorney was unanimously appointed by the federal judges in the district, highlighting tensions between the courts and the president over the powerful positions.",
+      "date": "2026-07-16"
+    },
+    {
+      "title": "Devastating Asian beetle detected in EU for first time",
+      "summary": "A tiny Asian-origin beetle that has devastated ash forests in North America has been detected in the European Union for the first time, in Hungary and Slovakia, authorities said.",
       "date": "2026-07-16"
     }
   ],
   "sources": [
     {
-      "title": "U.S. citizen departs Iran after being barred from leaving for over a year",
-      "url": "https://www.cbsnews.com/news/trapped-u-s-citizen-departs-iran/?utm_source=lootura.com",
-      "publishedAt": "2026-07-16T01:39:19.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
-    {
-      "title": "U.S., Iran in a \"new phase\" of the conflict, retired Navy vice admiral explains",
-      "url": "https://www.cbsnews.com/video/us-iran-new-phase-conflict-former-intelligence-officer-explains/?utm_source=lootura.com",
-      "publishedAt": "2026-07-16T03:25:00.000Z",
+      "title": "H.R. McMaster on the U.S.-Iran feud over the Strait of Hormuz",
+      "url": "https://www.cbsnews.com/video/hr-mcmaster-on-u-s-iran-feud-over-strait-of-hormuz/?utm_source=lootura.com",
+      "publishedAt": "2026-07-16T16:01:26.000Z",
       "sourceId": "lootura-us-cbs-news"
     },
     {
@@ -86,21 +80,9 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "Coast Guard suspends search for 3 missing boaters in San Francisco Bay",
-      "url": "https://www.cbsnews.com/news/boat-sinks-alcatraz-san-francisco-bay-fatal-capsizing-victims/?utm_source=lootura.com",
-      "publishedAt": "2026-07-16T04:05:00.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
-    {
-      "title": "Wildfires expose millions in Midwest, Northeast to dangerous smoke",
-      "url": "https://www.cbsnews.com/news/wildfires-smoke-millions-exposed-midwest-northeast-us/?utm_source=lootura.com",
-      "publishedAt": "2026-07-16T04:27:00.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
-    {
-      "title": "U.S. to impose 25% tariffs on Brazilian imports over unfair trade practices",
-      "url": "https://www.cbsnews.com/news/us-to-impose-25-percent-tariffs-on-brazil/?utm_source=lootura.com",
-      "publishedAt": "2026-07-16T05:02:07.000Z",
+      "title": "Climate extremes fuel explosive wildfires in Canada and the U.S., experts say",
+      "url": "https://www.cbsnews.com/news/climate-extremes-wildfires-canada-us-west/?utm_source=lootura.com",
+      "publishedAt": "2026-07-16T17:06:08.000Z",
       "sourceId": "lootura-us-cbs-news"
     },
     {
@@ -110,10 +92,22 @@
       "sourceId": "lootura-us-npr"
     },
     {
-      "title": "Trump wants to fence off the park closest to the White House, a popular protest spot",
+      "title": "Trump wants a permanent fence around the D.C. park known for White House protests",
       "url": "https://www.npr.org/2026/07/16/nx-s1-5893465/dc-lafayette-square-park-permanent-fencing-proposal?utm_source=lootura.com",
       "publishedAt": "2026-07-16T12:13:23.000Z",
       "sourceId": "lootura-us-npr-politics"
+    },
+    {
+      "title": "Trump immediately fires the new court-appointed top prosecutor in Seattle",
+      "url": "https://www.pbs.org/newshour/politics/trump-immediately-fires-the-new-court-appointed-top-prosecutor-in-seattle?utm_source=lootura.com",
+      "publishedAt": "2026-07-16T16:43:28.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
+    },
+    {
+      "title": "Devastating Asian beetle detected in EU for first time",
+      "url": "https://phys.org/news/2026-07-devastating-asian-beetle-eu.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-16T16:20:01.000Z",
+      "sourceId": "lootura-us-phys-org"
     },
     {
       "title": "Clayton Dodges Question on 2020 Election, and Democrats Call Him on It",
@@ -126,7 +120,13 @@
       "url": "https://www.nytimes.com/2026/07/16/weather/canada-wildfire-smoke-us.html?utm_source=lootura.com",
       "publishedAt": "2026-07-16T13:15:46.000Z",
       "sourceId": "lootura-us-the-new-york-times"
+    },
+    {
+      "title": "Diesel Prices Hit $5 a Gallon Again, Up 33% Since Start of Iran War",
+      "url": "https://www.nytimes.com/2026/07/16/business/diesel-prices-us-iran-war.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-16T11:51:15.000Z",
+      "sourceId": "lootura-us-the-new-york-times"
     }
   ],
-  "evidenceCount": 15
+  "evidenceCount": 12
 }

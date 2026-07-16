@@ -3,7 +3,7 @@
 > Sigue la actividad de FIFA en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-16T13:45:06.103Z
+- Actualizado: 2026-07-16T17:13:06.098Z
 - Canonical: https://atlas.lootura.com/es/organization/fifa
 
 ## Cambios recientes
@@ -28,5 +28,4 @@ Date: 2026-07-08
 
 ## Fuentes
 
-- [Del «Gibraltar es español» al «Las Malvinas son argentinas»: la FIFA tendría que sancionar al equipo albiceleste](https://www.abc.es/deportes/futbol/mundial/gibraltar-espanol-maldivas-argentinas-fifa-sancionar-equipo-20260716095103-nt.html?utm_source=lootura.com) — 2026-07-16T12:41:59.000Z
-- [La posible sanción de FIFA a Argentina por una pancarta: "Las Malvinas son argentinas"](https://www.elmundo.es/deportes/futbol/mundial-de-futbol/2026/07/16/6a587a34fc6c83393c8b45b9.html?utm_source=lootura.com) — 2026-07-16T13:22:56.000Z
+- [La posible sanción de FIFA a Argentina por una pancarta: "Las Malvinas son argentinas"](https://www.elmundo.es/deportes/futbol/mundial-de-futbol/2026/07/16/6a587a34fc6c83393c8b45b9.html?utm_source=lootura.com) — 2026-07-16T13:56:21.000Z

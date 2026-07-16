@@ -3,10 +3,16 @@
 > Sigue la actividad de Lamine Yamal en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-16T10:06:17.457Z
+- Actualizado: 2026-07-16T17:13:06.098Z
 - Canonical: https://atlas.lootura.com/es/person/lamine-yamal
 
 ## Cambios recientes
+
+### La intrahistoria de las fotos de Leo Messi junto a un Lamine Yamal de seis meses
+
+Las redes sociales se han inundado con la recordada imagen de Leo Messi junto a un Lamine Yamal de seis meses de edad. Descubre su historia.
+
+Date: 2026-07-16
 
 ### Lamine Yamal, una cuestión de genios y de magos: “Es diferente al resto. Tiene algo especial”
 
@@ -58,4 +64,4 @@ Date: 2026-07-08
 
 ## Fuentes
 
-No public source links.
+- [La intrahistoria de las fotos de Leo Messi junto a un Lamine Yamal de seis meses](https://okdiario.com/mundial/intrahistoria-fotos-leo-messi-junto-lamine-yamal-seis-meses-19010630/amp?utm_source=lootura.com) — 2026-07-16T17:08:51.000Z

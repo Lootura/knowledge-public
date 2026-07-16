@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/company/apple/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/company/apple/index.json",
   "description": "Sigue la actividad de Apple en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-16T10:06:17.457Z",
+  "updatedAt": "2026-07-16T17:13:06.098Z",
   "aliases": [
     "Apple Inc"
   ],
@@ -64,6 +64,13 @@
       "date": "2026-07-11"
     }
   ],
-  "sources": [],
+  "sources": [
+    {
+      "title": "Apple pisa el acelerador con el iPad mini con pantalla OLED, que llegará este mismo año",
+      "url": "https://hipertextual.com/apple/apple-pisa-acelerador-ipad-mini-oled/?utm_source=lootura.com",
+      "publishedAt": "2026-07-16T16:35:00.000Z",
+      "sourceId": "lootura-es-hipertextual"
+    }
+  ],
   "evidenceCount": 0
 }

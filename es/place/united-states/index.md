@@ -3,7 +3,7 @@
 > Sigue la actividad de Estados Unidos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-16T13:45:06.103Z
+- Actualizado: 2026-07-16T17:13:06.098Z
 - Canonical: https://atlas.lootura.com/es/place/united-states
 
 ## Cambios recientes
@@ -71,4 +71,3 @@ Date: 2026-07-15
 ## Fuentes
 
 - [EE UU impone nuevos aranceles del 25% a gran parte de productos brasileños y acusa a Lula de no negociar “de buena fe”](https://elpais.com/economia/2026-07-16/estados-unidos-impone-nuevos-aranceles-del-25-a-la-mayor-parte-de-productos-brasilenos-y-acusa-a-lula-de-no-negociar-de-buena-fe.html?utm_source=lootura.com) — 2026-07-16T12:29:57.000Z
-- [Un estudio revela la huella del caballo español en buena parte de la caballería americana](https://www.larazon.es/andalucia/estudio-revela-huella-caballo-espanol-buena-parte-caballeria-americana_202607166a58dcec1db8de04099216b4.html?utm_source=lootura.com) — 2026-07-16T13:30:20.000Z

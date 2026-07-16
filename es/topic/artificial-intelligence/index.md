@@ -3,7 +3,7 @@
 > Sigue la actividad de Artificial intelligence en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: topic
-- Actualizado: 2026-07-16T13:45:06.103Z
+- Actualizado: 2026-07-16T17:13:06.098Z
 - Canonical: https://atlas.lootura.com/es/topic/artificial-intelligence
 
 ## Cambios recientes
@@ -40,4 +40,4 @@ Date: 2026-07-10
 
 ## Fuentes
 
-- [Consigue el Samsung Galaxy A57 5G y simplifica tu día a día con la IA](https://okdiario.com/okshopping/tecnologia/consigue-samsung-galaxy-a57-5g-simplifica-tu-dia-dia-ia-19009489?utm_source=lootura.com) — 2026-07-16T13:00:47.000Z
+- [Bruselas fuerza a Google a abrir Android a asistentes de inteligencia artificial de la competencia](https://elpais.com/economia/2026-07-16/bruselas-fuerza-a-google-a-abrir-android-a-asistentes-de-inteligencia-artificial-de-la-competencia.html?utm_source=lootura.com) — 2026-07-16T12:17:23.000Z

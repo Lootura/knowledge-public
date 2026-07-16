@@ -3,7 +3,7 @@
 > Sigue la actividad de Mercados Digitales en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-16T13:45:06.103Z
+- Actualizado: 2026-07-16T17:13:06.098Z
 - Canonical: https://atlas.lootura.com/es/organization/mercados-digitales
 
 ## Cambios recientes

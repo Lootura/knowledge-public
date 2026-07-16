@@ -3,20 +3,26 @@
 > Follow Democratic Party, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-07-16T13:45:32.280Z
+- Updated: 2026-07-16T17:13:33.353Z
 - Canonical: https://atlas.lootura.com/us/organization/democratic-party
 
 ## Recent changes
 
-### Dems have a big cash advantage in key Senate races
-
-Democrats continue to rake in cash across some of the nation’s most pivotal Senate races, outpacing their Republican counterparts several times over. In Georgia, Democratic Sen. Jon Ossoff has 20 times as much cash on hand as his Republican challenger, Rep. Mike Collins. In North Carolina, perhaps Democrats’ best picku.
-
-Date: 2026-07-16
-
 ### Wildfire Smoke Turns Skies Orange Across the U.S., and Democrats Make a Big Shift on Israel
 
 Plus, why Gen Z is turning to trade schools.
+
+Date: 2026-07-16
+
+### Democratic Senate Candidates Trounce Republicans in Fund-Raising
+
+In the first half of this year, Democrats raised more cash in every key Senate race except Iowa.
+
+Date: 2026-07-16
+
+### Dems have a big cash advantage in key Senate races
+
+Democrats continue to rake in cash across some of the nation’s most pivotal Senate races, outpacing their Republican counterparts several times over. In Georgia, Democratic Sen. Jon Ossoff has 20 times as much cash on hand as his Republican challenger, Rep. Mike Collins. In North Carolina, perhaps Democrats’ best picku.
 
 Date: 2026-07-16
 
@@ -62,15 +68,9 @@ Democratic candidates are hastily building bare-bones campaigns and forgoing tra
 
 Date: 2026-07-15
 
-### Almost Half of House Democrats Vote to End Aid to Israel
-
-The measure failed, but the level of support among Democrats exposed a stark shift in the party away from backing the Jewish state.
-
-Date: 2026-07-15
-
 ## Sources
 
-- [Dems have a big cash advantage in key Senate races](https://www.politico.com/news/2026/07/16/democrats-senate-map-cash-advantage-elections-01000497?utm_source=lootura.com) — 2026-07-16T04:05:46.000Z
 - [Clayton Dodges Question on 2020 Election, and Democrats Call Him on It](https://www.nytimes.com/2026/07/15/us/politics/jay-clayton-confirmation-hearing-director-national-intelligence.html?utm_source=lootura.com) — 2026-07-15T21:50:43.000Z
 - [Almost Half of House Democrats Vote to End Aid to Israel](https://www.nytimes.com/2026/07/15/us/politics/democrats-house-israel-vote-aid.html?utm_source=lootura.com) — 2026-07-15T21:42:59.000Z
 - [Wildfire Smoke Turns Skies Orange Across the U.S., and Democrats Make a Big Shift on Israel](https://www.nytimes.com/2026/07/16/podcasts/the-headlines/wildfire-smoke-democrats-israel.html?utm_source=lootura.com) — 2026-07-16T10:00:15.000Z
+- [Democratic Senate Candidates Trounce Republicans in Fund-Raising](https://www.nytimes.com/2026/07/16/us/politics/senate-midterm-elections-fundraising.html?utm_source=lootura.com) — 2026-07-16T15:40:16.000Z

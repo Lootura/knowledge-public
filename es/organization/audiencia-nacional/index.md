@@ -70,4 +70,4 @@ Date: 2026-07-15
 
 ## Fuentes
 
-- [El juez retrasa a mañana la declaración de la directora de la Guardia Civil por el caso Leire](https://www.elconfidencial.com/espana/2026-07-16/directora-guarrdia-civil-no-declara-caso-leire_4391044/?utm_source=lootura.com) — 2026-07-16T10:38:00.000Z
+No public source links.
