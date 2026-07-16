@@ -1,0 +1,40 @@
+{
+  "id": "es-las-malvinas",
+  "name": "Las Malvinas",
+  "type": "organization",
+  "locale": "es",
+  "canonicalPath": "/es/organization/las-malvinas",
+  "canonicalUrl": "https://atlas.lootura.com/es/organization/las-malvinas",
+  "markdownUrl": "https://atlas.lootura.com/es/organization/las-malvinas/index.md",
+  "jsonUrl": "https://atlas.lootura.com/es/organization/las-malvinas/index.json",
+  "description": "Sigue la actividad de Las Malvinas en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
+  "updatedAt": "2026-07-16T06:15:06.275Z",
+  "aliases": [],
+  "changes": [
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Las Malvinas first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-07-16"
+    },
+    {
+      "title": "Los futbolistas de la Albiceleste festejan el triunfo ante Inglaterra con una bandera: “Las Malvinas son argentinas”",
+      "summary": "A 200 metros del estadio de Atlanta, atravesando la plaza internacional de Georgia -en cuyo centro se erige una estatua de bronce dedicada a los atletas, herencia de los Juegos Olímpicos celebrados en esta ciudad en 1996-, los televisores del restaurante del Centro de Convenciones de Georgia sintonizaban canales deport.",
+      "date": "2026-07-15"
+    }
+  ],
+  "sources": [
+    {
+      "title": "La polémica pancarta de Argentina sobre la soberanía de Las Malvinas... y una posible sanción para la final contra España",
+      "url": "https://www.elcorreo.com/deportes/futbol/mundial/colleja-bellingham-pancarta-sobre-soberania-malvinas-posible-20260716073213-nt_amp.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-16T05:32:13.000Z",
+      "sourceId": "lootura-es-el-correo"
+    },
+    {
+      "title": "Los futbolistas de la Albiceleste festejan el triunfo ante Inglaterra con una bandera: “Las Malvinas son argentinas”",
+      "url": "https://elpais.com/deportes/mundial-futbol/2026-07-15/los-futbolistas-de-la-albiceleste-festejan-el-triunfo-ante-inglaterra-con-una-bandera-las-malvinas-son-argentinas.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-15T23:07:25.000Z",
+      "sourceId": "lootura-es-el-pais"
+    }
+  ],
+  "evidenceCount": 1
+}

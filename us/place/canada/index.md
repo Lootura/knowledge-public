@@ -3,20 +3,26 @@
 > Follow Canada, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-16T02:24:09.281Z
+- Updated: 2026-07-16T06:15:30.586Z
 - Canonical: https://atlas.lootura.com/us/place/canada
 
 ## Recent changes
 
 ### Wildfires expose millions in Midwest, Northeast to dangerous smoke
 
-Heavy smoke from several large wildfires blazing in Canada and Minnesota is expected to engulf large swaths of the Midwest and Northeast U.S. this week.
+Heavy smoke from several large wildfires blazing in Canada and Minnesota is engulfing large swaths of the Midwest and Northeast U.S. this week.
 
-Date: 2026-07-15
+Date: 2026-07-16
 
 ### Heavy smoke from wildfires blankets the Northeast and Mideast, prompting evacuations
 
 More than 100 wildfires are burning in Canada and winds are carrying the smoke southeast.
+
+Date: 2026-07-15
+
+### Wildfires expose millions in Midwest, Northeast to dangerous smoke
+
+Heavy smoke from several large wildfires blazing in Canada and Minnesota is expected to engulf large swaths of the Midwest and Northeast U.S. this week.
 
 Date: 2026-07-15
 
@@ -62,13 +68,7 @@ Canada first entered the public knowledge record with source-backed evidence.
 
 Date: 2026-07-11
 
-### Poll: Patriotism in the US, Europe and Canada, charted
-
-What does it mean to be patriotic? It depends on a country's politics. Pride in one’s country is itself relatively common, according to new results from an international edition of The POLITICO Poll: Majorities of adults across the United States, United Kingdom, Spain, Canada, France and Germany all say they are proud.
-
-Date: 2026-07-11
-
 ## Sources
 
-- [Wildfires expose millions in Midwest, Northeast to dangerous smoke](https://www.cbsnews.com/news/wildfires-smoke-millions-exposed-midwest-northeast-us/?utm_source=lootura.com) — 2026-07-15T19:57:42.000Z
+- [Wildfires expose millions in Midwest, Northeast to dangerous smoke](https://www.cbsnews.com/news/wildfires-smoke-millions-exposed-midwest-northeast-us/?utm_source=lootura.com) — 2026-07-16T04:27:00.000Z
 - [Heavy smoke from wildfires blankets the Northeast and Mideast, prompting evacuations](https://www.pbs.org/newshour/nation/heavy-smoke-from-wildfires-blankets-the-northeast-and-mideast-prompting-evacuations?utm_source=lootura.com) — 2026-07-15T20:35:35.000Z

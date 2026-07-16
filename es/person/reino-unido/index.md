@@ -70,6 +70,4 @@ Date: 2026-07-15
 
 ## Fuentes
 
-- [Pedro Sánchez, tras la retirada de la Verja de Gibraltar, que ya es historia: "Los conflictos no están para gestionarlos sino para resolverlos"](https://www.elmundo.es/andalucia/2026/07/15/6a576f46e9cf4a65338b4578.html?utm_source=lootura.com) — 2026-07-15T11:36:24.000Z
-- [Begoña Gómez entrega al juez sus billetes de avión al Reino Unido y critica a Peinado por formular una exigencia "materialmente imposible"](https://www.elmundo.es/espana/2026/07/15/6a57963821efa0c20b8b456d.html?utm_source=lootura.com) — 2026-07-15T14:57:25.000Z
-- [Begoña Gómez entrega al juez Peinado los billetes de su viaje a Londres para la graduación de su hija](https://elpais.com/espana/2026-07-15/begona-gomez-entrega-al-juez-peinado-los-billetes-de-su-viaje-a-londres.html?utm_source=lootura.com) — 2026-07-15T15:04:17.000Z
+No public source links.

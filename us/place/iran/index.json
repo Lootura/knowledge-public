@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/iran/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/iran/index.json",
   "description": "Follow Iran, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-16T02:24:09.281Z",
+  "updatedAt": "2026-07-16T06:15:30.586Z",
   "aliases": [],
   "changes": [
     {
@@ -17,13 +17,18 @@
       "date": "2026-07-16"
     },
     {
-      "title": "Morning news brief",
-      "summary": "Acting Attorney General Todd Blanche to appear for confirmation hearing, U.S. restarts blockade against Iran amid standoff over the Strait of Hormuz, ICE suspends traffic stops after deadly shootings.",
-      "date": "2026-07-15"
+      "title": "U.S., Iran in a \"new phase\" of the conflict, retired Navy vice admiral explains",
+      "summary": "U.S. Central Command confirmed it began a second wave of strikes against Iran on Wednesday, following a round of attacks earlier in the day. Retired Navy Vice Adm. Robert Murrett joins CBS News to discuss.",
+      "date": "2026-07-16"
     },
     {
       "title": "U.S. Military Again Blockades Iranian Ports After Collapse of Cease-Fire",
       "summary": "President Trump ordered U.S. warships and aircraft to stop vessels going to and from Iran. Enforcing a blockade takes a huge commitment of warships and aircraft.",
+      "date": "2026-07-15"
+    },
+    {
+      "title": "Morning news brief",
+      "summary": "Acting Attorney General Todd Blanche to appear for confirmation hearing, U.S. restarts blockade against Iran amid standoff over the Strait of Hormuz, ICE suspends traffic stops after deadly shootings.",
       "date": "2026-07-15"
     },
     {
@@ -55,11 +60,6 @@
       "title": "Trump says he won't rule out sending ground troops to Iran",
       "summary": "President Trump told Fox News on Tuesday that he won't rule out a ground invasion of Iran. The comments come amid another round of U.S. strikes against Iranian targets. CBS News' Eleanor Watson reports.",
       "date": "2026-07-15"
-    },
-    {
-      "title": "For Israel, the U.S.-Iran Hostilities Have Created an Uneasy Limbo",
-      "summary": "Officials see a return to full-blown war as preferable to an agreement that fails to curb the threats Iran poses to Israel. Meanwhile, they wait.",
-      "date": "2026-07-15"
     }
   ],
   "sources": [
@@ -70,10 +70,10 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "Morning news brief",
-      "url": "https://www.npr.org/2026/07/15/nx-s1-5891559/morning-news-brief?utm_source=lootura.com",
-      "publishedAt": "2026-07-15T08:50:19.000Z",
-      "sourceId": "lootura-us-npr"
+      "title": "U.S., Iran in a \"new phase\" of the conflict, retired Navy vice admiral explains",
+      "url": "https://www.cbsnews.com/video/us-iran-new-phase-conflict-former-intelligence-officer-explains/?utm_source=lootura.com",
+      "publishedAt": "2026-07-16T03:25:00.000Z",
+      "sourceId": "lootura-us-cbs-news"
     },
     {
       "title": "U.S. Military Again Blockades Iranian Ports After Collapse of Cease-Fire",

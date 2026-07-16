@@ -8,11 +8,16 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/supreme-court/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/supreme-court/index.json",
   "description": "Follow Supreme Court, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-15T20:58:15.661Z",
+  "updatedAt": "2026-07-16T06:15:30.586Z",
   "aliases": [
     "U.S. Supreme Court"
   ],
   "changes": [
+    {
+      "title": "Trump Administration to Impose New Tariffs on Brazil",
+      "summary": "The United States accused the country of unfair trade practices. The tariff will replace ones that the Supreme Court struck down.",
+      "date": "2026-07-16"
+    },
     {
       "title": "Funding milestone detected",
       "summary": "Justices Elena Kagan and Amy Coney Barrett spoke with lawmakers about funding for security and other needs for the court on Tuesday. (Image credit: Anna Moneymaker).",
@@ -57,13 +62,15 @@
       "title": "Discovered by Atlas",
       "summary": "Supreme Court first entered the public knowledge record with source-backed evidence.",
       "date": "2026-07-10"
-    },
-    {
-      "title": "Where trans advocates are focusing efforts after recent court defeats",
-      "summary": "The Supreme Court wrapped up one of its most consequential terms for shaping LGBTQ rights. In one of the major decisions, the justices upheld state bans on transgender athletes in girls' and women's sports. But more challenges are already emerging. Liz Landers reports on the legal battle ahead.",
-      "date": "2026-07-10"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Trump Administration to Impose New Tariffs on Brazil",
+      "url": "https://www.nytimes.com/2026/07/15/business/economy/trump-brazil-tariffs.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-16T04:43:45.000Z",
+      "sourceId": "lootura-us-the-new-york-times"
+    }
+  ],
+  "evidenceCount": 1
 }

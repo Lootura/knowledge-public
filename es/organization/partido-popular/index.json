@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/partido-popular/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/partido-popular/index.json",
   "description": "Sigue la actividad de Partido Popular en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-16T02:23:49.655Z",
+  "updatedAt": "2026-07-16T06:15:06.275Z",
   "aliases": [
     "PP"
   ],
@@ -70,13 +70,7 @@
       "url": "https://amp.elmundo.es/espana/2026/07/15/6a57c369fc6c83c54b8b458d.html?utm_source=lootura.com",
       "publishedAt": "2026-07-15T20:46:18.000Z",
       "sourceId": "lootura-es-el-mundo"
-    },
-    {
-      "title": "La presión electoral calienta las listas del PP",
-      "url": "https://www.larazon.es/espana/presion-electoral-calienta-listas_202607166a582f2ce9f2e84b5c6aa9ab.html?outputType=amp&utm_source=lootura.com",
-      "publishedAt": "2026-07-16T01:09:00.000Z",
-      "sourceId": "lootura-es-la-razon"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

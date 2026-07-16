@@ -3,7 +3,7 @@
 > Sigue la actividad de Portugal en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-14T20:58:20.799Z
+- Actualizado: 2026-07-16T06:15:06.275Z
 - Canonical: https://atlas.lootura.com/es/place/portugal
 
 ## Cambios recientes
@@ -64,4 +64,4 @@ Date: 2026-07-09
 
 ## Fuentes
 
-No public source links.
+- [España y Portugal viven una explosión de anuncios de nuevos centros de datos que multiplican por 18 la capacidad actual](https://cincodias.elpais.com/companias/2026-07-16/espana-y-portugal-viven-una-explosion-de-anuncios-de-nuevos-centros-de-datos-que-multiplican-por-18-la-capacidad-actual.html?utm_source=lootura.com) — 2026-07-16T03:15:00.000Z

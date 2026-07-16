@@ -40,19 +40,6 @@
       "date": "2026-07-10"
     }
   ],
-  "sources": [
-    {
-      "title": "OpenAI lanza su primer hardware, aunque no es lo que imaginas",
-      "url": "https://hipertextual.com/inteligencia-artificial/codex-micro-hardware-openai/?utm_source=lootura.com",
-      "publishedAt": "2026-07-15T17:30:00.000Z",
-      "sourceId": "lootura-es-hipertextual"
-    },
-    {
-      "title": "Este pequeño, pero matón portátil de Acer está hecho para la IA y acaba de tocar su precio mínimo en MediaMarkt",
-      "url": "https://www.larazon.es/compras/nuestra-eleccion/este-pequeno-pero-maton-portatil-acer-esta-hecho-acaba-tocar-precio-minimo-mediamarkt_202607166a563c84c48a78681b89415c.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-16T00:30:13.000Z",
-      "sourceId": "lootura-es-la-razon"
-    }
-  ],
-  "evidenceCount": 1
+  "sources": [],
+  "evidenceCount": 0
 }

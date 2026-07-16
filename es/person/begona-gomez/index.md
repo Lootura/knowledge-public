@@ -3,10 +3,16 @@
 > Sigue la actividad de Begoña Gómez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-16T02:23:49.655Z
+- Actualizado: 2026-07-16T06:15:06.275Z
 - Canonical: https://atlas.lootura.com/es/person/begona-gomez
 
 ## Cambios recientes
+
+### Y ahora, a por Begoña Gómez
+
+Los tribunales ya no son ese lugar donde se imparte justicia sino la plaza donde se libra la verdadera batalla política. Primero cayó el fiscal general, después el hermano de Pedro Sánchez y la próxima será la esposa. Aumenta tanto la sospecha sobre la coincidencia del calendario judicial y la existencia de un plan com.
+
+Date: 2026-07-16
 
 ### Begoña Gómez entrega al juez Peinado los billetes de su viaje a Londres para la graduación de su hija
 
@@ -62,13 +68,6 @@ El magistrado Juan Carlos Peinado, que abrió juicio oral contra Begoña Gómez 
 
 Date: 2026-07-13
 
-### El juez Peinado pide a Begoña Gómez que acredite que solo utilizó el pasaporte para acudir a la graduación de su hija
-
-El juez Juan Carlos Peinado ha pedido a Begoña Gómez , la esposa del presidente del Gobierno, que acredite que utilizó el pasaporte únicamente para acudir a la celebración de la graduación de su hija en Londres, como así se le había autorizado, «y que no ha sido llevado a cabo acto alguno que pudiera ser constitutivo d.
-
-Date: 2026-07-13
-
 ## Fuentes
 
-- [Begoña Gómez entrega al juez sus billetes de avión al Reino Unido y critica a Peinado por formular una exigencia "materialmente imposible"](https://www.elmundo.es/espana/2026/07/15/6a57963821efa0c20b8b456d.html?utm_source=lootura.com) — 2026-07-15T14:57:25.000Z
-- [Begoña Gómez entrega al juez Peinado los billetes de su viaje a Londres para la graduación de su hija](https://elpais.com/espana/2026-07-15/begona-gomez-entrega-al-juez-peinado-los-billetes-de-su-viaje-a-londres.html?utm_source=lootura.com) — 2026-07-15T15:04:17.000Z
+- [Y ahora, a por Begoña Gómez](https://www.eldiario.es/blog/sin-filtro/ahora-begona-gomez_132_13382867.html?utm_source=lootura.com) — 2026-07-16T05:49:19.000Z

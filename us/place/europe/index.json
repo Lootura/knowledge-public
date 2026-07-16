@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/europe/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/europe/index.json",
   "description": "Follow Europe, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-15T13:39:02.263Z",
+  "updatedAt": "2026-07-16T06:15:30.586Z",
   "aliases": [
     "EU",
     "European Union"
   ],
   "changes": [
+    {
+      "title": "Understanding Bavaria's Indigeneity",
+      "summary": "When I tell people that I am a proud Boarisch-Schwob—Bavarian-Swabian—Indigenous person, I am often met with disbelief. I am white. I am European. I come from Bavaria, one of Europe's wealthiest regions. For some people, those facts settle the question before I have explained anything else.",
+      "date": "2026-07-16"
+    },
     {
       "title": "Ultraviolet light uncovers the first known juveniles of a mysterious Jurassic fish family",
       "summary": "For more than 150 years, fossils of Jurassic fish scattered across Europe's museums were studied and drawn by generations of scientists. However, when a paleontologist decided to shine an ultraviolet light on them, a hidden world lit up.",
@@ -58,13 +63,15 @@
       "title": "Poll: Patriotism in the US, Europe and Canada, charted",
       "summary": "What does it mean to be patriotic? It depends on a country's politics. Pride in one’s country is itself relatively common, according to new results from an international edition of The POLITICO Poll: Majorities of adults across the United States, United Kingdom, Spain, Canada, France and Germany all say they are proud.",
       "date": "2026-07-11"
-    },
-    {
-      "title": "Europe considering proposals to allow navigational fees in strait of Hormuz",
-      "summary": "Plans specify tolls must not be compulsory, as US officials urge Iran to make public statement that strait is open and that shipping can safely pass Europe is studying proposals that may allow the charging of navigational fees in the strait of Hormuz so long as the tolls are not compulsory and have the support of the U.",
-      "date": "2026-07-11"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Understanding Bavaria's Indigeneity",
+      "url": "https://phys.org/news/2026-07-bavaria-indigeneity.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-16T03:20:01.000Z",
+      "sourceId": "lootura-us-phys-org"
+    }
+  ],
+  "evidenceCount": 1
 }

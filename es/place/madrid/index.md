@@ -3,16 +3,40 @@
 > Sigue la actividad de Madrid en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-16T02:23:49.655Z
+- Actualizado: 2026-07-16T06:15:06.275Z
 - Canonical: https://atlas.lootura.com/es/place/madrid
 
 ## Cambios recientes
 
-### Muere a los 68 años el periodista y escritor Tomás Bárbulo
+### El Tribunal de Cuentas señala a Renfe por infringir la ley de contratos con los trenes alpinos de Madrid
 
-El periodista y escritor Tomás Bárbulo ha muerto este miércoles en Madrid a los 68 años, según ha informado El País , el periódico del Grupo Prisa donde trabajó tres décadas. Como periodista ha sido miembro fundador de los diarios Expansión , La Gaceta de los Negocios y El Sol , y durante treinta años trabajó en El Paí.
+El Tribunal de Cuentas ha puesto el foco en Renfe Viajeros por la mala gestión de la compra y puesta en funcionamiento de seis trenes alpinos para la línea C-9 de la Comunidad de Madrid. El órgano fiscalizador señala a la empresa pública por infringir la Ley de Contratos del Sector Público al modificar los plazos y con.
 
-Date: 2026-07-15
+Date: 2026-07-16
+
+### Los Cines Callao de Madrid celebran sus 100 años con una proyección de 'Regreso al futuro' al aire libre, agua y palomitas gratis
+
+Los Cines Callao de Madrid celebran 100 años de historia con un cine de verano gratuito en la plaza de Callao , donde proyectarán Regreso al futuro y repartirán palomitas y agua entre los asistentes. Cuando cae la tarde, la plaza de Callao cambia el ritmo frenético del centro de Madrid por un ambiente completamente dis.
+
+Date: 2026-07-16
+
+### La ola de calor afloja en Madrid este jueves
+
+El calor extremo nos deja durante una par de días en la Comunidad de Madrid. La previsión de la Agencia Estatal de Meteorología (Aemet) en la región para este jueves apunta a que las temperaturas se mantendrán con pocos cambios en el entorno de los 34 grados. En concreto, se espera que las temperaturas máximas desciend.
+
+Date: 2026-07-16
+
+### Montañas y piscinas naturales: el mejor plan de fin de semana en Madrid
+
+El calor ha acelerado su presencia en la ciudad. Estas son algunas de las opciones acuáticas para estos picos de temperaturas.
+
+Date: 2026-07-16
+
+### Precio de la gasolina hoy 16 de julio: localiza las gasolineras más baratas de Madrid
+
+Hemos llegado el jueves, y dado que se acerca el fin de semana, cada vez más, aumenta el número de personas que empiezan a organizar sus desplazamientos para los próximos días. Algunos ya se preparan para irse vacaciones , mientras que otros tal vez, tienen prevista una escapada de fin de semana o muchos simplemente ap.
+
+Date: 2026-07-16
 
 ### El PP impulsa el vínculo con Latinoamérica en la UE para competir con China
 
@@ -23,6 +47,12 @@ Date: 2026-07-15
 ### Amundi, Bestinver y Wellington acuden a la salida a Bolsa de Digi
 
 Amundi, Bestinver, Janus Henderson, Thornburg y Wellington son algunos de los principales inversores institucionales que han acudido a la salida a Bolsa de Digi España, la filial de la operadora rumana de telecomunicaciones, que tocará hoy la campana en la Bolsa de Madrid , según coinciden varias fuentes del mercado co.
+
+Date: 2026-07-15
+
+### Muere a los 68 años el periodista y escritor Tomás Bárbulo
+
+El periodista y escritor Tomás Bárbulo ha muerto este miércoles en Madrid a los 68 años, según ha informado El País , el periódico del Grupo Prisa donde trabajó tres décadas. Como periodista ha sido miembro fundador de los diarios Expansión , La Gaceta de los Negocios y El Sol , y durante treinta años trabajó en El Paí.
 
 Date: 2026-07-15
 
@@ -38,38 +68,12 @@ Cinco vehículos policiales y dos camiones de bomberos indicaban este martes que
 
 Date: 2026-07-15
 
-### El Gobierno de Ayuso cree que Sánchez quiere «cargarse» la acusación popular
-
-El consejero de Presidencia, Justicia y Administración Local de la Comunidad de Madrid, Miguel Ángel García Martín, ha afirmado este miércoles que el.
-
-Date: 2026-07-15
-
-### Almeida reprocha al «delincuente» hermano de Sánchez su «golfada y deshonestidad»
-
-El alcalde de Madrid, José Luis Martínez-Almeida (PP), ha reprochado al «delincuente» hermano del presidente del Gobierno, Pedro Sánchez , por su «golfada y deshonestidad» después de que la Audiencia Provincial de Badajoz haya condenado a David Sánchez Pérez-Castejón a la pena de inhabilitación especial para empleo o c.
-
-Date: 2026-07-15
-
-### Ayuso acusa a Sánchez de «utilizar» medios de comunicación y herramientas del Estado para «dañar la democracia»
-
-La presidenta de la Comunidad de Madrid, Isabel Díaz Ayuso , ha acusado a Pedro Sánchez de «utilizar» a los medios de comunicación y las herramientas del Estado para « dañar la salud democrática del paí s». Durante su intervención en el EPP Libertas Forum de este miércoles, la líder madrileña ha denunciado ante el Part.
-
-Date: 2026-07-15
-
-### Las cámaras graban a un mena reincidente asaltando a ancianos en Majadahonda (Madrid)
-
-Las cámaras graban a un mena marroquí reincidente golpeando a ancianos para robarles en Majadahonda (Madrid).
-
-Date: 2026-07-15
-
-### Alcalá de Henares contará con el primer intercambiador comarcal en 2027
-
-Favorecerá la movilidad de 11 municipios del este de la Comunidad de Madrid y concentrará un total de 16 líneas, entre autobuses urbanos e interurbanos.
-
-Date: 2026-07-15
-
 ## Fuentes
 
+- [El Tribunal de Cuentas señala a Renfe por infringir la ley de contratos con los trenes alpinos de Madrid](https://www.elconfidencial.com/espana/madrid/2026-07-16/el-tribunal-de-cuentas-senala-a-renfe-por-infringir-la-ley-de-contratos-con-los-trenes-alpinos-de-madrid_4378932/?utm_source=lootura.com) — 2026-07-16T03:00:00.000Z
+- [Los Cines Callao de Madrid celebran sus 100 años con una proyección de 'Regreso al futuro' al aire libre, agua y palomitas gratis](https://www.elconfidencial.com/espana/madrid/2026-07-16/cines-callao-madrid-regreso-al-futuro-1tna-1qrt_4390413/?utm_source=lootura.com) — 2026-07-16T05:48:00.000Z
 - [El PP impulsa el vínculo con Latinoamérica en la UE para competir con China](https://amp.elmundo.es/espana/2026/07/15/6a57c369fc6c83c54b8b458d.html?utm_source=lootura.com) — 2026-07-15T20:46:18.000Z
 - [Amundi, Bestinver y Wellington acuden a la salida a Bolsa de Digi](https://www.expansion.com/empresas/tecnologia/2026/07/16/6a57f55c468aeb95538b457f.html?utm_source=lootura.com) — 2026-07-15T22:25:56.000Z
-- [Muere a los 68 años el periodista y escritor Tomás Bárbulo](https://theobjective.com/cultura/2026-07-15/muere-periodista-escritor-tomas-barbulo/?utm_source=lootura.com) — 2026-07-15T19:40:43.000Z
+- [La ola de calor afloja en Madrid este jueves](https://www.larazon.es/madrid/ola-calor-afloja-madrid-este-jueves_202607166a5870981db8de04099108b3.html?utm_source=lootura.com) — 2026-07-16T05:48:08.000Z
+- [Montañas y piscinas naturales: el mejor plan de fin de semana en Madrid](https://www.larazon.es/madrid/montanas-piscinas-naturales-mejor-plan-fin-semana-madrid_202607166a587577e9f2e84b5c6af1d6.html?outputType=amp&utm_source=lootura.com) — 2026-07-16T06:08:55.000Z
+- [Precio de la gasolina hoy 16 de julio: localiza las gasolineras más baratas de Madrid](https://okdiario.com/madrid/precio-gasolina-hoy-16-julio-localiza-gasolineras-mas-baratas-madrid-18983979?utm_source=lootura.com) — 2026-07-16T06:00:27.000Z

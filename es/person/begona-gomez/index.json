@@ -8,9 +8,14 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/begona-gomez/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/begona-gomez/index.json",
   "description": "Sigue la actividad de Begoña Gómez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-16T02:23:49.655Z",
+  "updatedAt": "2026-07-16T06:15:06.275Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "Y ahora, a por Begoña Gómez",
+      "summary": "Los tribunales ya no son ese lugar donde se imparte justicia sino la plaza donde se libra la verdadera batalla política. Primero cayó el fiscal general, después el hermano de Pedro Sánchez y la próxima será la esposa. Aumenta tanto la sospecha sobre la coincidencia del calendario judicial y la existencia de un plan com.",
+      "date": "2026-07-16"
+    },
     {
       "title": "Begoña Gómez entrega al juez Peinado los billetes de su viaje a Londres para la graduación de su hija",
       "summary": "ha entregado al juzgado los billetes de avión de su viaje a Londres de la pasada semana y ha presentado un recurso contra la iniciativa del magistrado Juan Carlos Peinado de reclamarle que “acredite” que solo usó el pasaporte para acudir a Reino Unido a la graduación de su hija. En su escrito de alegacione.",
@@ -55,26 +60,15 @@
       "title": "El juez Peinado reclama a Begoña Gómez que “acredite” que solo usó su pasaporte para viajar a Reino Unido",
       "summary": "El magistrado Juan Carlos Peinado, que abrió juicio oral contra Begoña Gómez el 20 de junio y le prohibió salir de España, ha dictado este lunes una resolución para reclamar a la esposa de Pedro Sánchez que “acredite” que solo usó el pasaporte la pasada semana para viajar al Reino Unido. El juzgado le devolvió el docum.",
       "date": "2026-07-13"
-    },
-    {
-      "title": "El juez Peinado pide a Begoña Gómez que acredite que solo utilizó el pasaporte para acudir a la graduación de su hija",
-      "summary": "El juez Juan Carlos Peinado ha pedido a Begoña Gómez , la esposa del presidente del Gobierno, que acredite que utilizó el pasaporte únicamente para acudir a la celebración de la graduación de su hija en Londres, como así se le había autorizado, «y que no ha sido llevado a cabo acto alguno que pudiera ser constitutivo d.",
-      "date": "2026-07-13"
     }
   ],
   "sources": [
     {
-      "title": "Begoña Gómez entrega al juez sus billetes de avión al Reino Unido y critica a Peinado por formular una exigencia \"materialmente imposible\"",
-      "url": "https://www.elmundo.es/espana/2026/07/15/6a57963821efa0c20b8b456d.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-15T14:57:25.000Z",
-      "sourceId": "lootura-es-el-mundo"
-    },
-    {
-      "title": "Begoña Gómez entrega al juez Peinado los billetes de su viaje a Londres para la graduación de su hija",
-      "url": "https://elpais.com/espana/2026-07-15/begona-gomez-entrega-al-juez-peinado-los-billetes-de-su-viaje-a-londres.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-15T15:04:17.000Z",
-      "sourceId": "lootura-es-el-pais"
+      "title": "Y ahora, a por Begoña Gómez",
+      "url": "https://www.eldiario.es/blog/sin-filtro/ahora-begona-gomez_132_13382867.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-16T05:49:19.000Z",
+      "sourceId": "lootura-es-eldiario-es"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

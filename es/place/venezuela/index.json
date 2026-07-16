@@ -62,19 +62,6 @@
       "date": "2026-07-13"
     }
   ],
-  "sources": [
-    {
-      "title": "El contraste tras la tragedia en Venezuela",
-      "url": "https://www.larazon.es/internacional/contraste-tragedia-venezuela_202607166a5828951db8de040990c0eb.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-16T00:40:53.000Z",
-      "sourceId": "lootura-es-la-razon"
-    },
-    {
-      "title": "Sube a 4.829 la cifra de muertos por los terremotos de hace tres semanas en Venezuela",
-      "url": "https://theobjective.com/internacional/2026-07-15/4829-cifra-muertos-terremotos-venezuela/?amp=&utm_source=lootura.com",
-      "publishedAt": "2026-07-15T21:34:09.000Z",
-      "sourceId": "lootura-es-the-objective"
-    }
-  ],
-  "evidenceCount": 2
+  "sources": [],
+  "evidenceCount": 0
 }

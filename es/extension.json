@@ -1,32 +1,45 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-16T04:39:13.616Z",
+  "generatedAt": "2026-07-16T06:19:57.437Z",
   "radar": {
     "id": "es",
     "slug": "es",
     "locale": "es"
   },
   "state": {
-    "signature": "1.15.1|22|1784168629655",
+    "signature": "1.15.1|23|1784182506275",
     "version": "1.15.1",
-    "build": 22,
-    "latestEntityUpdatedAt": "2026-07-16T02:23:49.655Z"
+    "build": 23,
+    "latestEntityUpdatedAt": "2026-07-16T06:15:06.275Z"
   },
   "atlas": {
     "hero": {
-      "id": "es-pedro-sanchez",
-      "name": "Pedro Sánchez",
-      "type": "person",
-      "title": "España 'pasa de pantalla' en Gibraltar y deja atrás el conflicto por la soberanía: \"Un brexit con una Verja cerrada sería una tragedia para el pueblo\"",
-      "url": "https://atlas.lootura.com/es/person/pedro-sanchez",
-      "path": "/es/person/pedro-sanchez",
-      "updatedAt": "2026-07-16T02:23:49.655Z",
-      "score": 1557,
-      "sourceCount": 128,
+      "id": "es-espana",
+      "name": "España",
+      "type": "place",
+      "title": "El bolso 'made in Spain' de la Princesa Leonor y el look en armonía de la Infanta Sofía en su visita a Empúries",
+      "url": "https://atlas.lootura.com/es/place/espana",
+      "path": "/es/place/espana",
+      "updatedAt": "2026-07-16T06:15:06.275Z",
+      "score": 1531,
+      "sourceCount": 269,
       "isBreaking": false,
       "isPinned": false
     },
     "cards": [
+      {
+        "id": "es-pedro-sanchez",
+        "name": "Pedro Sánchez",
+        "type": "person",
+        "title": "El exjefe de Gabinete de Sánchez se enteró de su imputación tomando una cerveza: «Ahora sí que tenemos un problema»",
+        "url": "https://atlas.lootura.com/es/person/pedro-sanchez",
+        "path": "/es/person/pedro-sanchez",
+        "updatedAt": "2026-07-16T06:15:06.275Z",
+        "score": 1531,
+        "sourceCount": 136,
+        "isBreaking": false,
+        "isPinned": false
+      },
       {
         "id": "es-pais-vasco",
         "name": "País Vasco",
@@ -34,52 +47,39 @@
         "title": "Las familias de Gipuzkoa son las que más gastan en Euskadi y disparan su inversión en salud un 33%",
         "url": "https://atlas.lootura.com/es/place/pais-vasco",
         "path": "/es/place/pais-vasco",
-        "updatedAt": "2026-07-16T02:23:49.655Z",
-        "score": 1536,
+        "updatedAt": "2026-07-16T06:15:06.275Z",
+        "score": 1524,
         "sourceCount": 9,
         "isBreaking": false,
         "isPinned": false
       },
       {
-        "id": "es-begona-gomez",
-        "name": "Begoña Gómez",
-        "type": "person",
-        "title": "Begoña Gómez aporta los billetes de su viaje a Londres y critica al juez por cuestionar su presunción de inocencia",
-        "url": "https://atlas.lootura.com/es/person/begona-gomez",
-        "path": "/es/person/begona-gomez",
-        "updatedAt": "2026-07-16T02:23:49.655Z",
-        "score": 1532,
-        "sourceCount": 15,
-        "isBreaking": false,
-        "isPinned": false
-      },
-      {
-        "id": "es-united-states",
-        "name": "Estados Unidos",
+        "id": "es-madrid",
+        "name": "Madrid",
         "type": "place",
-        "title": "Adiós a OnePlus: la marca de Oppo abandona Europa y Estados Unidos esta misma semana",
-        "url": "https://atlas.lootura.com/es/place/united-states",
-        "path": "/es/place/united-states",
-        "updatedAt": "2026-07-16T02:23:49.655Z",
-        "score": 1531,
-        "sourceCount": 78,
+        "title": "El Tribunal de Cuentas señala a Renfe por infringir la ley de contratos con los trenes alpinos de Madrid",
+        "url": "https://atlas.lootura.com/es/place/madrid",
+        "path": "/es/place/madrid",
+        "updatedAt": "2026-07-16T06:15:06.275Z",
+        "score": 1518,
+        "sourceCount": 138,
         "isBreaking": false,
         "isPinned": false
       },
       {
-        "id": "es-lionel-messi",
-        "name": "Lionel Messi",
-        "type": "person",
-        "title": "Messi emula a Maradona ante Inglaterra y va a por Pelé",
-        "url": "https://atlas.lootura.com/es/person/lionel-messi",
-        "path": "/es/person/lionel-messi",
-        "updatedAt": "2026-07-16T02:23:49.655Z",
-        "score": 1510,
-        "sourceCount": 3,
+        "id": "es-iran",
+        "name": "Iran",
+        "type": "place",
+        "title": "Trump amenaza con atacar infraestructuras civiles si Irán no vuelve a negociar",
+        "url": "https://atlas.lootura.com/es/place/iran",
+        "path": "/es/place/iran",
+        "updatedAt": "2026-07-16T06:15:06.275Z",
+        "score": 1501,
+        "sourceCount": 66,
         "isBreaking": false,
         "isPinned": false
       }
     ],
-    "publicEntityCount": 31
+    "publicEntityCount": 33
   }
 }

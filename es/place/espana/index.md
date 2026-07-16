@@ -3,75 +3,80 @@
 > Sigue la actividad de España en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-16T02:23:49.655Z
+- Actualizado: 2026-07-16T06:15:06.275Z
 - Canonical: https://atlas.lootura.com/es/place/espana
 
 ## Cambios recientes
 
-### Análisis visual de un partido en el que España se convirtió en invencible
+### Muere Fina García, la profesora sevillana de 27 años que emocionó con su despedida: "Me voy feliz"
 
-Código Desktop .v-scr{width:100%!important;max-width:960px!important;margin:1.1rem auto!important;}.v-a--d-s-1 .v-a-p-t{color:#0e3a6f!important;}.v-a--d-s-1{height:auto!important;min-height:unset!important;}.v-a--d-s-1 .v-a-img-c:after{height:0px!important;}.v-a--d-s-1 .v-a-t{color:#202020;}.v-a--d-s-1 .v-a-img-c{paddi.
+Fina García , la joven sevillana de 27 años que estaba en cuidados paliativos a causa de un cárncer y que emocionó a toda España con su mensaje de despedida , ha fallecido . Recientemente, la profesora pudo cumplir recientemente su sueño de volver una vez más a la que sonsideraba su playa y su refigio, La Antilla , en.
 
 Date: 2026-07-16
 
-### España 'pasa de pantalla' en Gibraltar y deja atrás el conflicto por la soberanía: "Un brexit con una Verja cerrada sería una tragedia para el pueblo"
+### El mal estado del asfalto coloca en una situación crítica a las carreteras españolas
 
-«Los conflictos no están para gestionarlos sino para resolverlos», afirma Pedro Sánchez sin hablar de soberanía durante la retirada de la Verja de Gibraltar, tras la entrada en vigor de forma provisional de los acuerdos firmados por la UE y el Reino Unido Leer.
+El arranque del verano ha dejado al descubierto una realidad preocupante para la seguridad vial en España. Coincidiendo con los primeros grandes desplazamientos de la temporada estival, un informe publicado por Sumauto (Grupo Vocento) revela un diagnóstico alarmante, ya que la red de carreteras del país no está prepara.
 
-Date: 2026-07-15
+Date: 2026-07-16
 
-### La cifra de muertes por calor en Bizkaia desde mayo duplica a la de todo el verano pasado
+### El bolso 'made in Spain' de la Princesa Leonor y el look en armonía de la Infanta Sofía en su visita a Empúries
 
-Euskadi anota 282 fallecidos, la segunda cifra más alta de España por detrás de Cataluña, que contó 389 decesos.
+La Princesa Leonor y la Infanta Sofía continúan con su agenda en el marco de la entrega de los Premios Princesa de Girona 2026 que tuvieron lugar la pasada tarde de este martes, en el que ambas estuvieron acompañadas de sus padres el Rey Felipe VI y la Reina Letizia . En esta ocasión, la jornada ha estado dedicada a vi.
 
-Date: 2026-07-15
+Date: 2026-07-16
 
-### Amundi, Bestinver y Wellington acuden a la salida a Bolsa de Digi
+### El Banco de España acelera su preparación para el euro digital con una licitación de hasta 70 millones
 
-Amundi, Bestinver, Janus Henderson, Thornburg y Wellington son algunos de los principales inversores institucionales que han acudido a la salida a Bolsa de Digi España, la filial de la operadora rumana de telecomunicaciones, que tocará hoy la campana en la Bolsa de Madrid , según coinciden varias fuentes del mercado co.
+El Banco de España ha sacado a concurso el mayor contrato público hasta la fecha relacionado con el euro digital . Se trata de un expediente valorado en hasta 70 millones de euros en el que se busca un nuevo equipo de ingenieros informáticos y arquitectos de sistemas que permita a la institución que preside José Luis E.
 
-Date: 2026-07-15
+Date: 2026-07-16
 
-### Fragmento del día: España
+### Digi confía en su fuerte demanda para estrenarse en la Bolsa a pesar de la tensión en Oriente Próximo
 
-En España se rinde tributo a las víctimas de la pandemia de COVID-19 y se reconoce el trabajo del personal sanitario en un Homenaje de Estado centrado en la esperanza.
+Será el segundo estreno en la Bolsa española . Este jueves a las 12.00 horas, Digi Spain debuta a través del tradicional toque de campana en una operación que le otorga, de entrada, un valor de 1.662 millones de euros. La demanda recabada por los bancos colocadores, liderados por el Santander, UBS y Barclays, se sitúa.
 
-Date: 2026-07-15
+Date: 2026-07-16
 
-### La jugada total de España que sintetiza todas sus virtudes, fotograma a fotograma
+### La banca de inversión se prepara para disparar sus ingresos ante la oleada de salidas a Bolsa en España
 
-anuló al mejor ataque del torneo. Francia había marcado 2,6 goles por partido, pero anoche su juego no mereció ni medio gol. España se impuso con sus virtudes: presión, agresividad, esfuerzo coral, juego fluido y confianza. Lo analizamos con la secuencia que acaba en el segundo gol español. Seguir leyendo.
+Oriente Próximo es un problema para la banca de inversión, pero no tanto. Pese al conflicto, los ingresos por comisiones en España se dispararon un 56,5%, a 815 millones de euros en el primer semestre frente al mismo periodo de 2025, según los datos definitivos de la consultora Dealogic. El triunvirato de bancos venced.
 
-Date: 2026-07-15
+Date: 2026-07-16
 
-### Francia - España, cable rojo y cable azul
+### Transportes rechaza ante Bruselas adaptar el ancho de vía ibérico al europeo porque costaría 30.000 millones
 
-Hay muchas cosas que decir. Si quisiera soltarlas todas de golpe, sueltas y sin filtro, el texto saldría acelerado. A mordiscos. Sería como perseguir ideas, sombras que se escapan. Y cuando no las pudiera atrapar, me frustraría y golpearía rabiosa el teclado. A lo Francia. Puede que sea mejor si, sobre un guión, voy av.
+se planta para no embarcarse en una reforma integral de la red ferroviaria convencional , de 13.000 kilómetros, con el fin de unificarla con la de alta velocidad (4.000 kilómetros). El proyecto supondría contar con un único ancho de vía, el estándar o europeo, de 1.435 milímetros, en detrimento del ibérico de 1.
 
-Date: 2026-07-15
+Date: 2026-07-16
 
-### El "puto recital" de España que hizo saltar al Rey y otro mensajito de Lamine a Francia: "Pardon (Perdón)"
+### Desde el 12 de agosto pagarás 10 céntimos más por cada lata o botella: así podrás recuperarlos
 
-"¡Vaya puto recital!", gritó Cucurella al entrar al vestuario. "Está cerca, así que vamos a por ello. Estaba escrito: empezamos en Atlanta y acabamos en Nueva...
+Comprar una bebida en España será diferente a partir del próximo 12 de agosto . Desde esa fecha, los consumidores deberán abonar un depósito adicional de 10 céntimos por cada lata, botella de plástico de un solo uso o brik de hasta tres litros que adquieran en supermercados, bares, restaurantes y otros establecimientos.
 
-Date: 2026-07-15
+Date: 2026-07-16
 
-### La primera mitad del verano de 2026, la más cálida en España desde 1961
+### La sorprendente hoja de marihuana esculpida en esta iglesia de la España Vaciada
 
-La Aemet avisa de una posible nueva ola de calor con máximas de 44ºC en la mitad sur del país.
+Son muchas las sorpresas, ahora que estamos en verano y hay tiempo, por descubrir en el medio rural español. Y el de Castilla y León es más que especial, al contar con infinidad de pueblos diseminados por todo su territorio y que cuentan, en muchos casos, con verdaderas joyas patrimoniales y curiosidades dignas de ver,.
 
-Date: 2026-07-15
+Date: 2026-07-16
 
-### Spain’s schools are still glossing over the Spanish civil war and the Franco dictatorship. How do we teach these crucial events properly?
+### El BOE lo hace oficial: el 28 de julio será festivo y habrá puente en estas comunidades de España
 
-EF Stock/Shutterstock The Spanish civil war lasted from 1936 to 1939, and led to the repressive Francisco Franco dictatorship, which lasted until 1975. Today, 90 years after the war broke out, it remains a traumatic, controversial part of Spain’s collective memory, and still weighs heavily on ideological and political.
+El 28 de julio será festivo en España, pero no para todos. Sólo una comunidad autónoma tendrá ese día como no laborable, algo que cada año genera cierta confusión porque el calendario no es el mismo en todo el país. Este tipo de diferencias no siempre se tienen en cuenta hasta que llega la fecha y alguien se da cuenta.
 
-Date: 2026-07-15
+Date: 2026-07-16
 
 ## Fuentes
 
-- [Así se gestó el 'remontadón' de Argentina frente a Inglaterra para citarse con España en la final del Mundial](https://www.20minutos.es/deportes/futbol/asi-se-gesto-remontadon-argentina-frente-inglaterra-para-citarse-con-espana-final-mundial_7015200_0.html?utm_source=lootura.com) — 2026-07-15T21:07:57.000Z
-- [Análisis visual de un partido en el que España se convirtió en invencible](https://www.abc.es/deportes/futbol/mundial/espana-juega-quiere-graficos-explican-imponente-victoria-20260715074738-nt.html?utm_source=lootura.com) — 2026-07-16T00:22:49.000Z
+- [Muere Fina García, la profesora sevillana de 27 años que emocionó con su despedida: "Me voy feliz"](https://www.20minutos.es/gente/muere-fina-garcia-profesora-sevillana-27-anos-que-emociono-espana-con-su-despedida-me-voy-feliz_7015227_0.html?utm_source=lootura.com) — 2026-07-16T05:30:25.000Z
+- [El mal estado del asfalto coloca en una situación crítica a las carreteras españolas](https://www.abc.es/motor/reportajes/estado-carreteras-espanolas-critico-mal-estado-asfalto-20260715081400-nt.html?utm_source=lootura.com) — 2026-07-16T05:21:07.000Z
+- [El bolso 'made in Spain' de la Princesa Leonor y el look en armonía de la Infanta Sofía en su visita a Empúries](https://www.abc.es/estilo/moda/bolso-made-spain-princesa-leonor-look-armonia-20260715124128-nt.html?utm_source=lootura.com) — 2026-07-16T05:25:14.000Z
+- [El Banco de España acelera su preparación para el euro digital con una licitación de hasta 70 millones](https://cincodias.elpais.com/companias/2026-07-16/el-banco-de-espana-acelera-su-preparacion-para-el-euro-digital-con-una-licitacion-de-hasta-70-millones.html?utm_source=lootura.com) — 2026-07-16T03:15:00.000Z
+- [Digi confía en su fuerte demanda para estrenarse en la Bolsa a pesar de la tensión en Oriente Próximo](https://cincodias.elpais.com/mercados-financieros/2026-07-16/digi-confia-en-su-fuerte-demanda-para-estrenarse-en-la-bolsa-a-pesar-de-la-tension-en-oriente-proximo.html?utm_source=lootura.com) — 2026-07-16T03:25:00.000Z
+- [La banca de inversión se prepara para disparar sus ingresos ante la oleada de salidas a Bolsa en España](https://cincodias.elpais.com/mercados-financieros/2026-07-16/la-banca-de-inversion-se-prepara-para-disparar-sus-ingresos-ante-la-oleada-de-salidas-a-bolsa-en-espana.html?utm_source=lootura.com) — 2026-07-16T03:25:00.000Z
+- [Transportes rechaza ante Bruselas adaptar el ancho de vía ibérico al europeo porque costaría 30.000 millones](https://elpais.com/economia/2026-07-16/transportes-rechaza-ante-bruselas-adaptar-el-ancho-de-via-espanol-al-europeo-por-un-coste-de-30000-millones.html?utm_source=lootura.com) — 2026-07-16T03:15:00.000Z
 - [La cifra de muertes por calor en Bizkaia desde mayo duplica a la de todo el verano pasado](https://www.elcorreo.com/sociedad/cifra-muertes-calor-bizkaia-mayo-duplica-verano-20260715005400-nt_amp.html?utm_source=lootura.com) — 2026-07-15T22:54:01.000Z
 - [España 'pasa de pantalla' en Gibraltar y deja atrás el conflicto por la soberanía: "Un brexit con una Verja cerrada sería una tragedia para el pueblo"](https://www.elmundo.es/espana/2026/07/15/6a57c142e85ece02588b4574.html?utm_source=lootura.com) — 2026-07-15T18:48:53.000Z
 - [Amundi, Bestinver y Wellington acuden a la salida a Bolsa de Digi](https://www.expansion.com/empresas/tecnologia/2026/07/16/6a57f55c468aeb95538b457f.html?utm_source=lootura.com) — 2026-07-15T22:25:56.000Z

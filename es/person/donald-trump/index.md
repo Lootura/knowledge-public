@@ -3,10 +3,22 @@
 > Sigue la actividad de Donald Trump en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-16T02:23:49.655Z
+- Actualizado: 2026-07-16T06:15:06.275Z
 - Canonical: https://atlas.lootura.com/es/person/donald-trump
 
 ## Cambios recientes
+
+### Trump amenaza con atacar infraestructuras civiles si Irán no vuelve a negociar
+
+Estados Unidos ha reimpuesto el bloqueo naval sobre los puertos iraníes y ha intensificado su campaña de bombardeos contra la república islámica, en una nueva escalada de ataques que amenaza con devolver a Oriente Próximo a una guerra abierta y que vuelve a situar el estrecho de Ormuz en el centro del enfrentamiento.La.
+
+Date: 2026-07-16
+
+### Trump se enreda de nuevo en una guerra de Irán sin salida clara
+
+En las jornadas posteriores al ataque conjunto de Israel y Estados Unidos contra Irán del pasado 28 de febrero, Donald Trump cambió al menos una docena de veces de argumentos para justificar una operación militar que evitó llamar por su nombre (“guerra”, palabra que aún se resiste a emplear). Sobre su duración también.
+
+Date: 2026-07-16
 
 ### El Ibex cae un 0,4% mientras la incertidumbre sobre Ormuz mantiene en vilo a los mercados
 
@@ -56,18 +68,7 @@ Explica que el cambio se debe a conversaciones "sumamente productivas" con líde
 
 Date: 2026-07-14
 
-### Trump da marcha atrás en el peaje a los barcos que transitan por el estrecho de Ormuz
-
-dio marcha atrás este martes en su intención repentina de cobrar una tasa del 20% sobre toda la carga transportada por los barcos que atraviesen el estrecho de Ormuz. El presidente confirmó la retirada del plan durante la reunión bilateral que mantuvo en la Casa Blanca con el primer ministro de Irak, despu.
-
-Date: 2026-07-14
-
-### Botín defiende la compra de Webster en EE UU frente a las tensiones de Trump con España
-
-La presidenta del Santander, Ana Botín, ha defendido este martes en una entrevista con el canal de televisión americano CNBC la adquisición del banco estadounidense Webster , que anunció en febrero y espera se cierre a lo largo del año. La operación coincide en un momento de tensión entre España y el presidente de EE U.
-
-Date: 2026-07-14
-
 ## Fuentes
 
-- [El Ibex cae un 0,4% mientras la incertidumbre sobre Ormuz mantiene en vilo a los mercados](https://cincodias.elpais.com/mercados-financieros/2026-07-15/la-bolsa-y-el-ibex-35.html?utm_source=lootura.com) — 2026-07-15T20:22:26.000Z
+- [Trump amenaza con atacar infraestructuras civiles si Irán no vuelve a negociar](https://www.abc.es/internacional/trump-amenaza-atacar-infraestructuras-civiles-iran-vuelve-20260715174230-nt.html?utm_source=lootura.com) — 2026-07-16T05:22:48.000Z
+- [Trump se enreda de nuevo en una guerra de Irán sin salida clara](https://elpais.com/internacional/2026-07-16/trump-se-enreda-de-nuevo-en-una-guerra-de-iran-sin-salida-clara.html?utm_source=lootura.com) — 2026-07-16T03:40:00.000Z

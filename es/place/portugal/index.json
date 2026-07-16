@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/portugal/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/portugal/index.json",
   "description": "Sigue la actividad de Portugal en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-14T20:58:20.799Z",
+  "updatedAt": "2026-07-16T06:15:06.275Z",
   "aliases": [],
   "changes": [
     {
@@ -57,6 +57,13 @@
       "date": "2026-07-09"
     }
   ],
-  "sources": [],
+  "sources": [
+    {
+      "title": "España y Portugal viven una explosión de anuncios de nuevos centros de datos que multiplican por 18 la capacidad actual",
+      "url": "https://cincodias.elpais.com/companias/2026-07-16/espana-y-portugal-viven-una-explosion-de-anuncios-de-nuevos-centros-de-datos-que-multiplican-por-18-la-capacidad-actual.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-16T03:15:00.000Z",
+      "sourceId": "lootura-es-cinco-dias"
+    }
+  ],
   "evidenceCount": 0
 }

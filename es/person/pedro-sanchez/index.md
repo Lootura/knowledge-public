@@ -3,16 +3,58 @@
 > Sigue la actividad de Pedro Sánchez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-16T02:23:49.655Z
+- Actualizado: 2026-07-16T06:15:06.275Z
 - Canonical: https://atlas.lootura.com/es/person/pedro-sanchez
 
 ## Cambios recientes
 
-### Pedro Sánchez, tras la retirada de la Verja de Gibraltar, que ya es historia: "Los conflictos no están para gestionarlos sino para resolverlos"
+### La Airef exige al Gobierno adoptar ya ajustes de gasto para no concentrarlos todos en la siguiente legislatura
 
-El presidente del Gobierno asiste al acto simbólico de la eliminación de la frontera física junto al ministro principal del Peñón, el embajador del Reino Unido y los alcaldes de la comarca Leer.
+La Autoridad Independiente de Responsabilidad Fiscal (Airef) ha recordado los deberes que debe acometer el Gobierno presidido por Pedro Sánchez para ajustar de forma inminente el gasto, cumplir con las reglas europeas y las propias nacionales, y no dejar el grueso de todas estas decisiones al siguiente Gobierno, el que.
 
-Date: 2026-07-15
+Date: 2026-07-16
+
+### Todos los trucos de los conductores españoles para ahorrar en gasolina
+
+Llegar a Coruña nunca había sido tan costoso para Jesús Sánchez . El precio de los combustibles y de los gastos de mantenimiento de sus vehículos lo tienen al “borde de la locura”, porque no puede repercutir esta situación en los precios de sus mudanzas y servicios de mensajería. Tiene 62 años y ha pasado más de la mit.
+
+Date: 2026-07-16
+
+### El exjefe de Gabinete de Sánchez se enteró de su imputación tomando una cerveza: «Ahora sí que tenemos un problema»
+
+Juan Manuel Serrano, exjefe de Gabinete del presidente del Gobierno, Pedro Sánchez, se enteró de su imputación en la trama de las cloacas del PSOE ...
+
+Date: 2026-07-16
+
+### Gobierno e independentistas confían en el aval de la Justicia europea a la amnistía tras dos años de bloqueo
+
+La gran apuesta del Gobierno de Pedro Sánchez por la amnistía a los independentistas catalanes se somete hoy a una importante prueba. El Tribunal de Justicia de la Unión Europea (TJUE) se pronunciará sobre las cuestiones prejudiciales elevadas por varios tribunales españoles y tanto desde Esquerra Republicana como desd.
+
+Date: 2026-07-16
+
+### La condena de David Sánchez espolea al PSOE: “La derecha política y judicial está logrando el efecto contrario”
+
+“En la sentencia a David Sánchez hay un daño personal al presidente, pero el daño electoral es cero. Lo mismo que con su esposa. Sí que lo hubo con [José Luis] Ábalos, condenado a 24 años, pero los casos de la familia se han convertido en un ataque personal. Y podrían convertirse en un bumerán contra la derecha”, afirm.
+
+Date: 2026-07-16
+
+### “Nepotismo” y “absentismo”: el tribunal del ‘caso David Sánchez’ traza la línea entre lo “éticamente censurable” y el delito
+
+La Audiencia Provincial de Badajoz no ha rehuido el debate público y ha recogido en su sentencia dos de las conductas que han marcado la causa por la que David Sánchez, el hermano del presidente del Gobierno, Pedro Sánchez, ha sido condenado a nueve años de inhabilitación por prevaricación administrativa . Los magistra.
+
+Date: 2026-07-16
+
+### Y ahora, a por Begoña Gómez
+
+Los tribunales ya no son ese lugar donde se imparte justicia sino la plaza donde se libra la verdadera batalla política. Primero cayó el fiscal general, después el hermano de Pedro Sánchez y la próxima será la esposa. Aumenta tanto la sospecha sobre la coincidencia del calendario judicial y la existencia de un plan com.
+
+Date: 2026-07-16
+
+### El Supremo ante la justicia europea
+
+La sentencia del Tribunal de Justicia de la UE sobre la amnistía a los líderes del procés es el colofón del creciente enfrentamiento entre el Gobierno de Pedro Sánchez y la judicatura. El Ejecutivo apenas disimula ya y acusa a algunos jueces de actuar de forma torticera, movidos por fines políticos. En el otro lado, ma.
+
+Date: 2026-07-16
 
 ### España 'pasa de pantalla' en Gibraltar y deja atrás el conflicto por la soberanía: "Un brexit con una Verja cerrada sería una tragedia para el pueblo"
 
@@ -20,57 +62,20 @@ Date: 2026-07-15
 
 Date: 2026-07-15
 
-### La ONU nombra a Pedro Sánchez copresidente del grupo de Defensores de los ODS
+### Pedro Sánchez, tras la retirada de la Verja de Gibraltar, que ya es historia: "Los conflictos no están para gestionarlos sino para resolverlos"
 
-El secretario general de Naciones Unidas, António Guterres , ha designado al presidente del Gobierno, Pedro Sánchez , nuevo copresidente de los Defensores de los Objetivos de Desarrollo Sostenible (ODS), que forman parte de lo que se conoce como Agenda 2030, junto a la primera ministra de Barbados, Mia Mottley. Guterre.
-
-Date: 2026-07-15
-
-### Podcast | David Sánchez, condenado por prevaricar
-
-Nuevo embate judicial al entorno de Pedro Sánchez. Tras la condena a su fiscal general del Estado por revelación de secretos, tras la demoledora sentencia contra su ex mano derecha, José Luis Ábalos , a 24 años de prisión por cinco delitos, llega la condena a su hermano. La Audiencia Provincial de Badajoz ha condenado.
-
-Date: 2026-07-15
-
-### Feijóo eleva al máximo su crítica a Sánchez tras la condena de su hermano y lo llama "presidente autoritario"
-
-En un foro con líderes europeos e hispanoamericanos, acusa al PSOE de "agredir" a la democracia "desde las más altas instancias" Leer.
-
-Date: 2026-07-15
-
-### El Hilo | No es lo mismo una que 23.600 millones
-
-Este es un fragmento de la newsletter El Hilo. Puedes suscribirte gratis para recibirla en tu correo electrónico todos los miércoles, y siempre que haya un gran caso, haciendo click aquí . ¡No te lo pierdas! El músico David Sánchez Pérez-Castejón, hermano de Pedro Sánchez, ha sido condenado a 9 años de inhabilitación p.
-
-Date: 2026-07-15
-
-### Feijóo y Ayuso acusan a Sánchez de ser un “presidente autoritario” y un “autócrata sin escrúpulos”ante los líderes del PP europeo
-
-Ante algunos de los principales líderes del Partido Popular Europeo, reunidos este miércoles en Madrid, Alberto Núñez Feijóo ha lanzado la acusación más gruesa hasta la fecha contra Pedro Sánchez. El líder del PP no ha dudado en describir al líder socialista como “un presidente autoritario” delante del presidente del P.
-
-Date: 2026-07-15
-
-### El fiscal, al juez Peinado: "Las medidas cautelares contra Begoña Gómez son injustificadas, desproporcionadas e innecesarias"
-
-Afea al juez que se creyera el bulo de "ciertos medios" de que la esposa de Pedro Sánchez tiene pasaporte dominicano Begoña Gómez recurre la decisión de Peinado de retirarle el pasaporte y cree que su frase sobre la escolta es especulativa El fiscal José Manuel San Baldomero ha informado a la Audiencia Provincial de Ma.
-
-Date: 2026-07-15
-
-### Sánchez celebra el fin de la Verja de Gibraltar: «Se cierra una herida abierta durante siglos»
-
-El presidente del Gobierno, Pedro Sánchez, ha afirmado este miércoles que el fin de la Verja entre La Línea de la Concepción y Gibraltar abre una nueva.
-
-Date: 2026-07-15
-
-### El 'número dos' de García Ortiz admite que comentó con el fiscal de Badajoz la denuncia a Leire por presiones a la jueza del 'caso David Sánchez'
-
-El fiscal Diego Villafañe , quien fuera mano derecha del exfiscal general del Estado Álvaro García Ortiz, ha reconocido este miércoles ante el juez de la Audiencia Nacional Santiago Pedraz que habló con la Fiscalía de Badajoz sobre la denuncia presentada contra la exmilitante socialista Leire Díez por las presuntas pre.
+El presidente del Gobierno asiste al acto simbólico de la eliminación de la frontera física junto al ministro principal del Peñón, el embajador del Reino Unido y los alcaldes de la comarca Leer.
 
 Date: 2026-07-15
 
 ## Fuentes
 
-- [Pedro Sánchez, tras la retirada de la Verja de Gibraltar, que ya es historia: "Los conflictos no están para gestionarlos sino para resolverlos"](https://www.elmundo.es/andalucia/2026/07/15/6a576f46e9cf4a65338b4578.html?utm_source=lootura.com) — 2026-07-15T11:36:24.000Z
+- [La Airef exige al Gobierno adoptar ya ajustes de gasto para no concentrarlos todos en la siguiente legislatura](https://www.abc.es/economia/airef-exige-gobierno-adoptar-ajustes-gasto-concentrarlos-20260715123105-nt.html?utm_source=lootura.com) — 2026-07-16T05:20:20.000Z
+- [Todos los trucos de los conductores españoles para ahorrar en gasolina](https://www.elconfidencial.com/espana/2026-07-16/combustible-gasolina-diesel-conductores-coches_4390636/?utm_source=lootura.com) — 2026-07-16T03:00:00.000Z
+- [El exjefe de Gabinete de Sánchez se enteró de su imputación tomando una cerveza: «Ahora sí que tenemos un problema»](https://www.eldebate.com/espana/20260716/exjefe-gabinete-sanchez-entero-imputacion-tomando-cerveza-ahora-tenemos-problema_440098.html?utm_source=lootura.com) — 2026-07-16T02:20:00.000Z
 - [España 'pasa de pantalla' en Gibraltar y deja atrás el conflicto por la soberanía: "Un brexit con una Verja cerrada sería una tragedia para el pueblo"](https://www.elmundo.es/espana/2026/07/15/6a57c142e85ece02588b4574.html?utm_source=lootura.com) — 2026-07-15T18:48:53.000Z
-- [La ONU nombra a Pedro Sánchez copresidente del grupo de Defensores de los ODS](https://theobjective.com/internacional/2026-07-15/onu-sanchez-copresidente-defensores-ods/?utm_source=lootura.com) — 2026-07-15T19:14:35.000Z
-- [Podcast | David Sánchez, condenado por prevaricar](https://theobjective.com/podcasts/objetivo-directo-podcast/podcast-objetivo-directo-david-sanchez-condenado-prevaricacion/?utm_source=lootura.com) — 2026-07-15T18:18:02.000Z
+- [Gobierno e independentistas confían en el aval de la Justicia europea a la amnistía tras dos años de bloqueo](https://elpais.com/espana/catalunya/2026-07-16/gobierno-e-independentistas-confian-en-el-aval-de-la-justicia-europea-a-la-amnistia-tras-dos-anos-de-bloqueo.html?utm_source=lootura.com) — 2026-07-16T03:30:01.000Z
+- [La condena de David Sánchez espolea al PSOE: “La derecha política y judicial está logrando el efecto contrario”](https://elpais.com/espana/2026-07-16/la-condena-de-david-sanchez-espolea-al-psoe-la-derecha-politica-y-judicial-esta-logrando-el-efecto-contrario.html?utm_source=lootura.com) — 2026-07-16T03:30:01.000Z
+- [“Nepotismo” y “absentismo”: el tribunal del ‘caso David Sánchez’ traza la línea entre lo “éticamente censurable” y el delito](https://elpais.com/espana/2026-07-16/nepotismo-y-absentismo-el-tribunal-del-caso-david-sanchez-traza-la-linea-entre-lo-eticamente-censurable-y-el-delito.html?utm_source=lootura.com) — 2026-07-16T03:30:01.000Z
+- [Y ahora, a por Begoña Gómez](https://www.eldiario.es/blog/sin-filtro/ahora-begona-gomez_132_13382867.html?utm_source=lootura.com) — 2026-07-16T05:49:19.000Z
+- [El Supremo ante la justicia europea](https://www.lavanguardia.com/politica/20260716/11593163/supremo-justicia-europea.html?utm_source=lootura.com) — 2026-07-16T04:00:00.000Z

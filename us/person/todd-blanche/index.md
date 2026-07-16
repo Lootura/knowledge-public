@@ -3,7 +3,7 @@
 > Follow Todd Blanche, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-07-16T02:24:09.281Z
+- Updated: 2026-07-16T06:15:30.586Z
 - Canonical: https://atlas.lootura.com/us/person/todd-blanche
 
 ## Recent changes
@@ -13,12 +13,6 @@
 Even a single Republican “no” vote would block Mr. Blanche’s nomination from consideration by the full Senate, which could sink his confirmation.
 
 Date: 2026-07-16
-
-### Morning news brief
-
-Acting Attorney General Todd Blanche to appear for confirmation hearing, U.S. restarts blockade against Iran amid standoff over the Strait of Hormuz, ICE suspends traffic stops after deadly shootings.
-
-Date: 2026-07-15
 
 ### Senators Grill Justice Dept. Officials on New York Times Subpoenas
 
@@ -35,6 +29,12 @@ Date: 2026-07-15
 ### What Blanche said about Trump, Epstein files during confirmation hearing for attorney general
 
 Acting Attorney General Todd Blanche tried to assert his independence from President Donald Trump during his confirmation hearing Wednesday before the Senate Judiciary Committee.
+
+Date: 2026-07-15
+
+### Morning news brief
+
+Acting Attorney General Todd Blanche to appear for confirmation hearing, U.S. restarts blockade against Iran amid standoff over the Strait of Hormuz, ICE suspends traffic stops after deadly shootings.
 
 Date: 2026-07-15
 
@@ -70,7 +70,6 @@ Date: 2026-07-15
 
 ## Sources
 
-- [Morning news brief](https://www.npr.org/2026/07/15/nx-s1-5891559/morning-news-brief?utm_source=lootura.com) — 2026-07-15T08:50:19.000Z
 - [Takeaways from Todd Blanche's confirmation hearing for attorney general](https://www.npr.org/2026/07/15/nx-s1-5895105/todd-blanche-senate-confirmation-attorney-general-takeaways?utm_source=lootura.com) — 2026-07-15T21:09:09.000Z
 - [What Blanche said about Trump, Epstein files during confirmation hearing for attorney general](https://www.pbs.org/newshour/politics/what-blanche-said-about-trump-epstein-files-during-confirmation-hearing?utm_source=lootura.com) — 2026-07-15T23:34:19.000Z
 - [Todd Blanche, Trump’s Attorney General Pick, Faces Crucial Hurdle After Rocky Hearing](https://www.nytimes.com/2026/07/15/us/politics/todd-blanche-attorney-general-confirmation.html?utm_source=lootura.com) — 2026-07-16T00:49:30.000Z

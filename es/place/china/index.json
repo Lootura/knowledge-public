@@ -8,9 +8,14 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/china/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/china/index.json",
   "description": "Sigue la actividad de China en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-16T02:23:49.655Z",
+  "updatedAt": "2026-07-16T06:15:06.275Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "Los récords de exportación de coches de China marcan rumbo de colisión",
+      "summary": "Los fabricantes de automóviles chinos siguen impulsando la disrupción en el sector. Las exportaciones mensuales de coches del país acaban de superar por primera vez la barrera de los siete dígitos y no muestran signos de desaceleración . Esto reavivará los argumentos proteccionistas, acelerará la producción en el extra.",
+      "date": "2026-07-16"
+    },
     {
       "title": "El PP impulsa el vínculo con Latinoamérica en la UE para competir con China",
       "summary": "La reunión de líderes europeos e hispanoamericanos de centroderecha en el Foro Libertas, ayer en Madrid, sirvió para que Alberto Núñez Feijóo les trasladase su vocación de...",
@@ -55,14 +60,15 @@
       "title": "La Primera de Expansión sobre el apagón, Brookfield, Inditex, Irán, Mitsubishi y la IA china",
       "summary": "La Primera de Expansión les cuenta hoy que el Gobierno rechaza que el Consorcio de Compensación de Seguros asuma el pago de las indemnizaciones por el apagón.",
       "date": "2026-07-13"
-    },
-    {
-      "title": "Subí a un taxi sin conductor en Shenzhen y esto es lo que he aprendido sobre el futuro del transporte",
-      "summary": "He estado la semana pasada en China y uno de mis objetivos era probar el servicio de robotaxi, es decir, el de un transporte automatizado sin conductor. En Alemania tuve la oportunidad de probar una conducción semiautónoma , pero las regulaciones euurpoeas están frenando este tipo de iniciativas. China es otra historia.",
-      "date": "2026-07-13"
     }
   ],
   "sources": [
+    {
+      "title": "Los récords de exportación de coches de China marcan rumbo de colisión",
+      "url": "https://cincodias.elpais.com/opinion/2026-07-16/los-records-de-exportacion-de-coches-de-china-marcan-rumbo-de-colision.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-16T03:40:00.000Z",
+      "sourceId": "lootura-es-cinco-dias"
+    },
     {
       "title": "El PP impulsa el vínculo con Latinoamérica en la UE para competir con China",
       "url": "https://amp.elmundo.es/espana/2026/07/15/6a57c369fc6c83c54b8b458d.html?utm_source=lootura.com",
@@ -70,5 +76,5 @@
       "sourceId": "lootura-es-el-mundo"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 2
 }

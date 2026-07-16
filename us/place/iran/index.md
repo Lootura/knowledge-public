@@ -3,7 +3,7 @@
 > Follow Iran, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-16T02:24:09.281Z
+- Updated: 2026-07-16T06:15:30.586Z
 - Canonical: https://atlas.lootura.com/us/place/iran
 
 ## Recent changes
@@ -14,15 +14,21 @@ A U.S.-Iranian woman who was trapped in Iran on allegations of espionage and col
 
 Date: 2026-07-16
 
-### Morning news brief
+### U.S., Iran in a "new phase" of the conflict, retired Navy vice admiral explains
 
-Acting Attorney General Todd Blanche to appear for confirmation hearing, U.S. restarts blockade against Iran amid standoff over the Strait of Hormuz, ICE suspends traffic stops after deadly shootings.
+U.S. Central Command confirmed it began a second wave of strikes against Iran on Wednesday, following a round of attacks earlier in the day. Retired Navy Vice Adm. Robert Murrett joins CBS News to discuss.
 
-Date: 2026-07-15
+Date: 2026-07-16
 
 ### U.S. Military Again Blockades Iranian Ports After Collapse of Cease-Fire
 
 President Trump ordered U.S. warships and aircraft to stop vessels going to and from Iran. Enforcing a blockade takes a huge commitment of warships and aircraft.
+
+Date: 2026-07-15
+
+### Morning news brief
+
+Acting Attorney General Todd Blanche to appear for confirmation hearing, U.S. restarts blockade against Iran amid standoff over the Strait of Hormuz, ICE suspends traffic stops after deadly shootings.
 
 Date: 2026-07-15
 
@@ -62,14 +68,8 @@ President Trump told Fox News on Tuesday that he won't rule out a ground invasio
 
 Date: 2026-07-15
 
-### For Israel, the U.S.-Iran Hostilities Have Created an Uneasy Limbo
-
-Officials see a return to full-blown war as preferable to an agreement that fails to curb the threats Iran poses to Israel. Meanwhile, they wait.
-
-Date: 2026-07-15
-
 ## Sources
 
 - [U.S. citizen departs Iran after being barred from leaving for over a year](https://www.cbsnews.com/news/trapped-u-s-citizen-departs-iran/?utm_source=lootura.com) — 2026-07-16T01:39:19.000Z
-- [Morning news brief](https://www.npr.org/2026/07/15/nx-s1-5891559/morning-news-brief?utm_source=lootura.com) — 2026-07-15T08:50:19.000Z
+- [U.S., Iran in a "new phase" of the conflict, retired Navy vice admiral explains](https://www.cbsnews.com/video/us-iran-new-phase-conflict-former-intelligence-officer-explains/?utm_source=lootura.com) — 2026-07-16T03:25:00.000Z
 - [U.S. Military Again Blockades Iranian Ports After Collapse of Cease-Fire](https://www.nytimes.com/2026/07/15/us/politics/us-blockade-iran.html?utm_source=lootura.com) — 2026-07-15T23:02:36.000Z

@@ -3,10 +3,16 @@
 > Sigue la actividad de China en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-16T02:23:49.655Z
+- Actualizado: 2026-07-16T06:15:06.275Z
 - Canonical: https://atlas.lootura.com/es/place/china
 
 ## Cambios recientes
+
+### Los récords de exportación de coches de China marcan rumbo de colisión
+
+Los fabricantes de automóviles chinos siguen impulsando la disrupción en el sector. Las exportaciones mensuales de coches del país acaban de superar por primera vez la barrera de los siete dígitos y no muestran signos de desaceleración . Esto reavivará los argumentos proteccionistas, acelerará la producción en el extra.
+
+Date: 2026-07-16
 
 ### El PP impulsa el vínculo con Latinoamérica en la UE para competir con China
 
@@ -62,12 +68,7 @@ La Primera de Expansión les cuenta hoy que el Gobierno rechaza que el Consorcio
 
 Date: 2026-07-13
 
-### Subí a un taxi sin conductor en Shenzhen y esto es lo que he aprendido sobre el futuro del transporte
-
-He estado la semana pasada en China y uno de mis objetivos era probar el servicio de robotaxi, es decir, el de un transporte automatizado sin conductor. En Alemania tuve la oportunidad de probar una conducción semiautónoma , pero las regulaciones euurpoeas están frenando este tipo de iniciativas. China es otra historia.
-
-Date: 2026-07-13
-
 ## Fuentes
 
+- [Los récords de exportación de coches de China marcan rumbo de colisión](https://cincodias.elpais.com/opinion/2026-07-16/los-records-de-exportacion-de-coches-de-china-marcan-rumbo-de-colision.html?utm_source=lootura.com) — 2026-07-16T03:40:00.000Z
 - [El PP impulsa el vínculo con Latinoamérica en la UE para competir con China](https://amp.elmundo.es/espana/2026/07/15/6a57c369fc6c83c54b8b458d.html?utm_source=lootura.com) — 2026-07-15T20:46:18.000Z

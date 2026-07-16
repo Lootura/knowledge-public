@@ -3,7 +3,7 @@
 > Sigue la actividad de Alberto Núñez Feijóo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-16T02:23:49.655Z
+- Actualizado: 2026-07-16T06:15:06.275Z
 - Canonical: https://atlas.lootura.com/es/person/alberto-nunez-feijoo
 
 ## Cambios recientes
@@ -71,4 +71,3 @@ Date: 2026-07-14
 ## Fuentes
 
 - [El PP impulsa el vínculo con Latinoamérica en la UE para competir con China](https://amp.elmundo.es/espana/2026/07/15/6a57c369fc6c83c54b8b458d.html?utm_source=lootura.com) — 2026-07-15T20:46:18.000Z
-- [La presión electoral calienta las listas del PP](https://www.larazon.es/espana/presion-electoral-calienta-listas_202607166a582f2ce9f2e84b5c6aa9ab.html?outputType=amp&utm_source=lootura.com) — 2026-07-16T01:09:00.000Z

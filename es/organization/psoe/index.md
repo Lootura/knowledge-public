@@ -3,16 +3,40 @@
 > Sigue la actividad de Partido Socialista Obrero Español en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-16T02:23:49.655Z
+- Actualizado: 2026-07-16T06:15:06.275Z
 - Canonical: https://atlas.lootura.com/es/organization/psoe
 
 ## Cambios recientes
+
+### Narbona replica ante el juez la estrategia de usar a Cerdán como cortafuegos del PSOE: "Todas las facultades las tenía él"
+
+La presidenta del PSOE , Cristina Narbona , compareció este miércoles ante el juez que instruye el caso Leire Díez y realizó una declaración testifical completamente alineada con los pronunciamientos públicos de su formación. La testigo admitió que en la causa existen "indicios preocupantes", pero cargó en Santos Cerdá.
+
+Date: 2026-07-16
+
+### El exjefe de Gabinete de Sánchez se enteró de su imputación tomando una cerveza: «Ahora sí que tenemos un problema»
+
+Juan Manuel Serrano, exjefe de Gabinete del presidente del Gobierno, Pedro Sánchez, se enteró de su imputación en la trama de las cloacas del PSOE ...
+
+Date: 2026-07-16
+
+### La condena de David Sánchez espolea al PSOE: “La derecha política y judicial está logrando el efecto contrario”
+
+“En la sentencia a David Sánchez hay un daño personal al presidente, pero el daño electoral es cero. Lo mismo que con su esposa. Sí que lo hubo con [José Luis] Ábalos, condenado a 24 años, pero los casos de la familia se han convertido en un ataque personal. Y podrían convertirse en un bumerán contra la derecha”, afirm.
+
+Date: 2026-07-16
 
 ### El "sí" de Europa a la amnistía no servirá para que Junts se acerque a Sánchez
 
 El PSOE alienta que el dictamen del TJUE recompondrá relaciones. Los de Puigdemont enfrían el pronóstico.
 
 Date: 2026-07-16
+
+### La directora de la Guardia Civil declara como imputada en el 'caso cloacas del PSOE' por obstrucción a la Justicia
+
+González está imputada por un delito continuado de prevaricación y otro de obstrucción a la Justicia Leer.
+
+Date: 2026-07-15
 
 ### La mano derecha de García Ortiz admite que contó la reunión con la 'fontanera' del PSOE al ex fiscal general pero asegura que no le dio importancia
 
@@ -44,32 +68,9 @@ La presidenta del PSOE, Cristina Narbona , ha declarado este miércoles ante el 
 
 Date: 2026-07-15
 
-### CIS de Tezanos | El PSOE engorda con los casos judiciales y amplía la ventaja sobre el PP a casi 8 puntos
-
-El PSOE recupera posiciones en el CIS de Tezanos . Los socialistas avanzan 1,7 puntos en el primer barómetro desde que se conocieran las condenas a José Luis Ábalos y Koldo García en el denominado caso mascarillas y apenas 24 horas después de que la Audiencia Provincial de Badajoz condenara a David Sánchez , hermano de.
-
-Date: 2026-07-15
-
-### La sombra del presidente planea por toda la sentencia: aparece hasta seis veces
-
-La sombra del presidente del Gobierno, Pedro Sánchez, planea por toda la sentencia de 378 páginas de la Audiencia de Badajoz que condena a su hermano, David Sánchez. Los magistrados recuerdan su posición en el PSOE tanto en el momento de la contratación del músico en la Diputación de Badajoz presidida por Miguel Ángel.
-
-Date: 2026-07-15
-
-### Los antitaurinos vuelven a la carga, esta vez de la mano de los socios de Sánchez
-
-Medio centenar de diputados han registrado una proposición de ley que reactiva la iniciativa legislativa popular (ILP) contra los toros que el año pasado fracasó en el Congreso por la abstención del PSOE. Sumar, Podemos, Junts, ERC, BNG, Compromís y Bildu han presentado este martes el mismo texto que la plataforma 'No.
-
-Date: 2026-07-15
-
-### El juez Pedraz cita a declarar como imputada el 9 de septiembre a la gerente del PSOE por el caso de las cloacas de Ferraz
-
-Ese mismo día también ha sido citado a declarar el abogado Ismael Oliver Leer.
-
-Date: 2026-07-14
-
 ## Fuentes
 
-- [La mano derecha de García Ortiz admite que contó la reunión con la 'fontanera' del PSOE al ex fiscal general pero asegura que no le dio importancia](https://www.elmundo.es/espana/2026/07/15/6a577004e9cf4a42658b4588.html?utm_source=lootura.com) — 2026-07-15T12:20:44.000Z
-- [El "sí" de Europa a la amnistía no servirá para que Junts se acerque a Sánchez](https://www.larazon.es/espana/europa-amnistia-servira-que-junts-acerque-sanchez_202607166a57d75ae9f2e84b5c6a33eb.html?outputType=amp&utm_source=lootura.com) — 2026-07-16T01:09:36.000Z
-- [Un micro abierto pilla a dos diputados de Vox en Valencia hablando de la filtración de una fiscal](https://theobjective.com/espana/comunidad-valenciana/2026-07-15/micro-abierto-diputados-vox-filtracion-fiscal/?utm_source=lootura.com) — 2026-07-15T18:24:00.000Z
+- [Narbona replica ante el juez la estrategia de usar a Cerdán como cortafuegos del PSOE: "Todas las facultades las tenía él"](https://www.20minutos.es/nacional/narbona-replica-ante-juez-estrategia-usar-cerdan-como-cortafuegos-psoe-todas-las-facultades-las-tenia_7015082_0.html?utm_source=lootura.com) — 2026-07-16T03:00:00.000Z
+- [El exjefe de Gabinete de Sánchez se enteró de su imputación tomando una cerveza: «Ahora sí que tenemos un problema»](https://www.eldebate.com/espana/20260716/exjefe-gabinete-sanchez-entero-imputacion-tomando-cerveza-ahora-tenemos-problema_440098.html?utm_source=lootura.com) — 2026-07-16T02:20:00.000Z
+- [La directora de la Guardia Civil declara como imputada en el 'caso cloacas del PSOE' por obstrucción a la Justicia](https://www.elmundo.es/espana/2026/07/15/6a57ddb9fc6c838e4d8b45a4.html?utm_source=lootura.com) — 2026-07-15T20:45:45.000Z
+- [La condena de David Sánchez espolea al PSOE: “La derecha política y judicial está logrando el efecto contrario”](https://elpais.com/espana/2026-07-16/la-condena-de-david-sanchez-espolea-al-psoe-la-derecha-politica-y-judicial-esta-logrando-el-efecto-contrario.html?utm_source=lootura.com) — 2026-07-16T03:30:01.000Z

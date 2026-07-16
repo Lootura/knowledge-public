@@ -3,7 +3,7 @@
 > Follow Artificial intelligence, a tracked topic, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: topic
-- Updated: 2026-07-16T02:24:09.281Z
+- Updated: 2026-07-16T06:15:30.586Z
 - Canonical: https://atlas.lootura.com/us/topic/artificial-intelligence
 
 ## Recent changes
@@ -71,4 +71,4 @@ Date: 2026-07-15
 ## Sources
 
 - [Highly fragmented European wetlands with uneven restoration needs](https://www.nature.com/articles/s41586-026-10760-9?utm_source=lootura.com) — 2026-07-16T02:24:13.662Z
-- [Does AI work for us, or do we work for AI?](https://www.science.org/doi/abs/10.1126/science.aei9754?af=R&utm_source=lootura.com) — 2026-07-16T02:24:13.864Z
+- [Does AI work for us, or do we work for AI?](https://www.science.org/doi/abs/10.1126/science.aei9754?af=R&utm_source=lootura.com) — 2026-07-16T06:15:34.902Z

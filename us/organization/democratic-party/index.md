@@ -3,16 +3,16 @@
 > Follow Democratic Party, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-07-16T02:24:09.281Z
+- Updated: 2026-07-16T06:15:30.586Z
 - Canonical: https://atlas.lootura.com/us/organization/democratic-party
 
 ## Recent changes
 
-### Democrats' witness opposing Blanche's confirmation is more than an Epstein survivor
+### Dems have a big cash advantage in key Senate races
 
-Dani Bensky and a group of women who were abused by Jeffrey Epstein have formed a bond they call a "survivor sisterhood." They live in two worlds, of advocacy and everyday life and motherhood. (Image credit: Corrie Aune for NPR).
+Democrats continue to rake in cash across some of the nation’s most pivotal Senate races, outpacing their Republican counterparts several times over. In Georgia, Democratic Sen. Jon Ossoff has 20 times as much cash on hand as his Republican challenger, Rep. Mike Collins. In North Carolina, perhaps Democrats’ best picku.
 
-Date: 2026-07-15
+Date: 2026-07-16
 
 ### Funding milestone detected
 
@@ -56,22 +56,22 @@ The party’s leaders have a political experiment on their hands.
 
 Date: 2026-07-15
 
+### Democrats' witness opposing Blanche's confirmation is more than an Epstein survivor
+
+Dani Bensky and a group of women who were abused by Jeffrey Epstein have formed a bond they call a "survivor sisterhood." They live in two worlds, of advocacy and everyday life and motherhood. (Image credit: Corrie Aune for NPR).
+
+Date: 2026-07-15
+
 ### An ICE Shooting in Maine Puts Pressure on Senator Susan Collins
 
 The Democrats hoping to challenge Ms. Collins, a vulnerable Republican, have seized on the fatal incident, drawing attention to her record on immigration matters.
 
 Date: 2026-07-15
 
-### Platner Was Toxic. But Democrats Could Learn From His Politics.
-
-His progressive, populist message was able to occupy a kind of middle ground in the party’s primary electorate.
-
-Date: 2026-07-15
-
 ## Sources
 
 - [House vote to end Israel aid divides Democrats, with 103 voting to cut off funding](https://www.cbsnews.com/news/us-israel-aid-house-democrats-massie-amendment/?utm_source=lootura.com) — 2026-07-15T20:49:56.000Z
-- [Democrats' witness opposing Blanche's confirmation is more than an Epstein survivor](https://www.npr.org/2026/07/15/nx-s1-5850397/jeffrey-epstein-todd-blanche-dani-bensky-survivor-victims-sexual-abuse-trafficking?utm_source=lootura.com) — 2026-07-15T09:00:00.000Z
+- [Dems have a big cash advantage in key Senate races](https://www.politico.com/news/2026/07/16/democrats-senate-map-cash-advantage-elections-01000497?utm_source=lootura.com) — 2026-07-16T04:05:46.000Z
 - [Clayton Dodges Question on 2020 Election, and Democrats Call Him on It](https://www.nytimes.com/2026/07/15/us/politics/jay-clayton-confirmation-hearing-director-national-intelligence.html?utm_source=lootura.com) — 2026-07-15T21:50:43.000Z
 - [Senators Grill Justice Dept. Officials on New York Times Subpoenas](https://www.nytimes.com/2026/07/15/business/media/blanche-clayton-senate-nyt-subpoenas.html?utm_source=lootura.com) — 2026-07-15T19:59:04.000Z
 - [Here Are the Maine Democrats Running to Replace Graham Platner](https://www.nytimes.com/2026/07/15/us/politics/maine-democrats-senate-candidates.html?utm_source=lootura.com) — 2026-07-15T21:21:03.000Z

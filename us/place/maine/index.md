@@ -3,7 +3,7 @@
 > Follow Maine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-16T02:24:09.281Z
+- Updated: 2026-07-16T06:15:30.586Z
 - Canonical: https://atlas.lootura.com/us/place/maine
 
 ## Recent changes
@@ -32,12 +32,6 @@ The father of Joan Sebastian Guerrero, the man fatally shot by a federal immigra
 
 Date: 2026-07-15
 
-### Man fleeing immigration officers in Florida struck and killed by tractor trailer, police say
-
-It was the third death in a week involving encounters with U.S. Immigration and Customs Enforcement agents, following shootings in Texas and Maine.
-
-Date: 2026-07-15
-
 ### Inside Maine Democrats’ Search for a New Senate Nominee After Graham Platner’s Exit
 
 Democratic candidates are hastily building bare-bones campaigns and forgoing traditional outreach like TV ads in a sprint to appeal to party delegates, rather than Maine voters.
@@ -53,6 +47,12 @@ Date: 2026-07-15
 ### Maine Democrats’ Adventurous Political Experiment
 
 The party’s leaders have a political experiment on their hands.
+
+Date: 2026-07-15
+
+### Man fleeing immigration officers in Florida struck and killed by tractor trailer, police say
+
+It was the third death in a week involving encounters with U.S. Immigration and Customs Enforcement agents, following shootings in Texas and Maine.
 
 Date: 2026-07-15
 
@@ -72,7 +72,6 @@ Date: 2026-07-15
 
 - [Trump overturns pause of ICE vehicle stops implemented after deadly shootings](https://www.cbsnews.com/news/ice-agents-halt-vehicle-stops-after-shootings-maine-texas/?utm_source=lootura.com) — 2026-07-16T01:21:16.000Z
 - [Biddeford, Maine, mayor on ICE shooting, community's response](https://www.cbsnews.com/video/mayor-of-maine-town-where-ice-shooting-took-place-on-his-communitys-response/?utm_source=lootura.com) — 2026-07-16T01:35:42.000Z
-- [Man fleeing immigration officers in Florida struck and killed by tractor trailer, police say](https://www.pbs.org/newshour/nation/man-fleeing-immigration-officers-in-florida-struck-and-killed-by-tractor-trailer-police-say?utm_source=lootura.com) — 2026-07-15T18:29:41.000Z
 - [Videos Detail Moments Surrounding Fatal ICE Shooting in Biddeford, Maine](https://www.nytimes.com/2026/07/14/us/maine-ice-shooting-video-joan-sebastian-guerrero.html?utm_source=lootura.com) — 2026-07-15T16:00:34.000Z
 - [Colombian Immigrant Killed by ICE in Maine Had Legal Status, Father Says](https://www.nytimes.com/2026/07/14/us/joan-sebastian-guerrero-maine-ice-shooting.html?utm_source=lootura.com) — 2026-07-15T15:37:10.000Z
 - [Here Are the Maine Democrats Running to Replace Graham Platner](https://www.nytimes.com/2026/07/15/us/politics/maine-democrats-senate-candidates.html?utm_source=lootura.com) — 2026-07-15T21:21:03.000Z

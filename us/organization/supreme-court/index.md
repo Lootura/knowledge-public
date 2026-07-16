@@ -3,10 +3,16 @@
 > Follow Supreme Court, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-07-15T20:58:15.661Z
+- Updated: 2026-07-16T06:15:30.586Z
 - Canonical: https://atlas.lootura.com/us/organization/supreme-court
 
 ## Recent changes
+
+### Trump Administration to Impose New Tariffs on Brazil
+
+The United States accused the country of unfair trade practices. The tariff will replace ones that the Supreme Court struck down.
+
+Date: 2026-07-16
 
 ### Funding milestone detected
 
@@ -62,12 +68,6 @@ Supreme Court first entered the public knowledge record with source-backed evide
 
 Date: 2026-07-10
 
-### Where trans advocates are focusing efforts after recent court defeats
-
-The Supreme Court wrapped up one of its most consequential terms for shaping LGBTQ rights. In one of the major decisions, the justices upheld state bans on transgender athletes in girls' and women's sports. But more challenges are already emerging. Liz Landers reports on the legal battle ahead.
-
-Date: 2026-07-10
-
 ## Sources
 
-No public source links.
+- [Trump Administration to Impose New Tariffs on Brazil](https://www.nytimes.com/2026/07/15/business/economy/trump-brazil-tariffs.html?utm_source=lootura.com) — 2026-07-16T04:43:45.000Z

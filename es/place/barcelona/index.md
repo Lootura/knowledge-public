@@ -3,10 +3,16 @@
 > Sigue la actividad de Barcelona en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-16T02:23:49.655Z
+- Actualizado: 2026-07-16T06:15:06.275Z
 - Canonical: https://atlas.lootura.com/es/place/barcelona
 
 ## Cambios recientes
+
+### La impresionante casa de Ferran Torres en Gavá Mar: un refugio de lujo con piscina privada, gimnasio y máxima privacidad
+
+Así es la espectacular casa de Ferran Torres a las afueras de Barcelona: un chalet de lujo con piscina, gimnasio, sauna y un enorme jardín.
+
+Date: 2026-07-16
 
 ### Maribel Martínez de Murguía: «La felicidad solo se consigue jugando para ganar»
 
@@ -62,12 +68,7 @@ La sección de Instrucción del Tribunal de Instancia de Arenys de Mar (Barcelon
 
 Date: 2026-07-13
 
-### El último recurso de Isak y Jonathan Andic ante el “sufrimiento” por su relación “pésima”
-
-En marzo de 2023, el conflicto entre Isak Andic y su hijo mayor, Jonathan Andic , parece haber llegado a un callejón sin salida. Padre e hijo llevan meses en manos de una mujer muy particular, Julia Lüderwaldt , psicoterapeuta de cabecera de familias adineradas de Barcelona —de los Sánchez Vicario a los Urdangarin— que.
-
-Date: 2026-07-13
-
 ## Fuentes
 
 - [Rodri Hernández, el paradójico heredero de Busquets: corre hasta 12 kilómetros por partido](https://elpais.com/deportes/mundial-futbol/2026-07-15/el-paradojico-heredero-de-busquets-rodri-hernandez-rompe-el-gps.html?utm_source=lootura.com) — 2026-07-15T16:55:01.000Z
+- [La impresionante casa de Ferran Torres en Gavá Mar: un refugio de lujo con piscina privada, gimnasio y máxima privacidad](https://okdiario.com/cool/famosos/casa-ferran-torres-barcelona-19001156/amp?utm_source=lootura.com) — 2026-07-16T06:05:35.000Z

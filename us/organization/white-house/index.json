@@ -8,9 +8,14 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/white-house/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/white-house/index.json",
   "description": "Follow White House, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-16T02:24:09.281Z",
+  "updatedAt": "2026-07-16T06:15:30.586Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "U.S. to impose 25% tariffs on Brazilian imports over unfair trade practices, White House says",
+      "summary": "The United States is imposing 25% tariffs on imports from Brazil after finding a range of what it deemed unfair trade practices by the world.",
+      "date": "2026-07-16"
+    },
     {
       "title": "Subpoenas over New York Times report on Air Force One raise press freedom concerns",
       "summary": "Several New York Times reporters were subpoenaed to appear before a federal grand jury after the paper published stories raising security concerns about the new Air Force One. White House correspondent Liz Landers discusses questions the case is raising about freedom of the press with Will Creeley.",
@@ -55,14 +60,15 @@
       "title": "How Lindsey Graham’s death quickly changes a busy Senate: From the Politics Desk",
       "summary": "Welcome to From the Politics Desk, a daily newsletter that brings you the NBC News Politics team’s latest reporting and analysis from the White House, Capitol Hill and the campaign trail.",
       "date": "2026-07-13"
-    },
-    {
-      "title": "Texas Hispanics swung hard to Trump. A new poll shows they’re furious at his deportations.",
-      "summary": "Benny Melendez voted for President Donald Trump in 2024. But since Trump returned to the White House, it has been increasingly difficult for Melendez to run his small construction company in south Texas. He says immigration officers have detained workers at his job sites and while driving his company trucks. Since the.",
-      "date": "2026-07-12"
     }
   ],
   "sources": [
+    {
+      "title": "U.S. to impose 25% tariffs on Brazilian imports over unfair trade practices, White House says",
+      "url": "https://www.cbsnews.com/news/us-to-impose-25-percent-tariffs-on-brazil/?utm_source=lootura.com",
+      "publishedAt": "2026-07-16T05:02:07.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
     {
       "title": "Subpoenas over New York Times report on Air Force One raise press freedom concerns",
       "url": "https://www.pbs.org/newshour/show/subpoenas-over-new-york-times-report-on-air-force-one-raise-press-freedom-concerns?utm_source=lootura.com",
@@ -76,5 +82,5 @@
       "sourceId": "lootura-us-the-new-york-times"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 3
 }

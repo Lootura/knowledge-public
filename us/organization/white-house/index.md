@@ -3,10 +3,16 @@
 > Follow White House, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-07-16T02:24:09.281Z
+- Updated: 2026-07-16T06:15:30.586Z
 - Canonical: https://atlas.lootura.com/us/organization/white-house
 
 ## Recent changes
+
+### U.S. to impose 25% tariffs on Brazilian imports over unfair trade practices, White House says
+
+The United States is imposing 25% tariffs on imports from Brazil after finding a range of what it deemed unfair trade practices by the world.
+
+Date: 2026-07-16
 
 ### Subpoenas over New York Times report on Air Force One raise press freedom concerns
 
@@ -62,13 +68,8 @@ Welcome to From the Politics Desk, a daily newsletter that brings you the NBC Ne
 
 Date: 2026-07-13
 
-### Texas Hispanics swung hard to Trump. A new poll shows they’re furious at his deportations.
-
-Benny Melendez voted for President Donald Trump in 2024. But since Trump returned to the White House, it has been increasingly difficult for Melendez to run his small construction company in south Texas. He says immigration officers have detained workers at his job sites and while driving his company trucks. Since the.
-
-Date: 2026-07-12
-
 ## Sources
 
+- [U.S. to impose 25% tariffs on Brazilian imports over unfair trade practices, White House says](https://www.cbsnews.com/news/us-to-impose-25-percent-tariffs-on-brazil/?utm_source=lootura.com) — 2026-07-16T05:02:07.000Z
 - [Subpoenas over New York Times report on Air Force One raise press freedom concerns](https://www.pbs.org/newshour/show/subpoenas-over-new-york-times-report-on-air-force-one-raise-press-freedom-concerns?utm_source=lootura.com) — 2026-07-15T22:40:19.000Z
 - [Clayton Dodges Question on 2020 Election, and Democrats Call Him on It](https://www.nytimes.com/2026/07/15/us/politics/jay-clayton-confirmation-hearing-director-national-intelligence.html?utm_source=lootura.com) — 2026-07-15T21:50:43.000Z

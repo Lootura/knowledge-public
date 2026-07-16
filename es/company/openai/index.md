@@ -28,5 +28,4 @@ Date: 2026-07-15
 
 ## Fuentes
 
-- [OpenAI lanza su primer hardware, aunque no es lo que imaginas](https://hipertextual.com/inteligencia-artificial/codex-micro-hardware-openai/?utm_source=lootura.com) — 2026-07-15T17:30:00.000Z
-- [Esta fue la causa por la que se rompieron las negociaciones entre Apple y OpenAI antes de la demanda](https://hipertextual.com/apple/apple-openai-email-error-demanda-secretos/?utm_source=lootura.com) — 2026-07-15T20:39:00.000Z
+No public source links.

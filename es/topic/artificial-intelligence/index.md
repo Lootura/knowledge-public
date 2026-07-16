@@ -40,5 +40,4 @@ Date: 2026-07-10
 
 ## Fuentes
 
-- [OpenAI lanza su primer hardware, aunque no es lo que imaginas](https://hipertextual.com/inteligencia-artificial/codex-micro-hardware-openai/?utm_source=lootura.com) — 2026-07-15T17:30:00.000Z
-- [Este pequeño, pero matón portátil de Acer está hecho para la IA y acaba de tocar su precio mínimo en MediaMarkt](https://www.larazon.es/compras/nuestra-eleccion/este-pequeno-pero-maton-portatil-acer-esta-hecho-acaba-tocar-precio-minimo-mediamarkt_202607166a563c84c48a78681b89415c.html?utm_source=lootura.com) — 2026-07-16T00:30:13.000Z
+No public source links.

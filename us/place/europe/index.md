@@ -3,10 +3,16 @@
 > Follow Europe, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-15T13:39:02.263Z
+- Updated: 2026-07-16T06:15:30.586Z
 - Canonical: https://atlas.lootura.com/us/place/europe
 
 ## Recent changes
+
+### Understanding Bavaria's Indigeneity
+
+When I tell people that I am a proud Boarisch-Schwob—Bavarian-Swabian—Indigenous person, I am often met with disbelief. I am white. I am European. I come from Bavaria, one of Europe's wealthiest regions. For some people, those facts settle the question before I have explained anything else.
+
+Date: 2026-07-16
 
 ### Ultraviolet light uncovers the first known juveniles of a mysterious Jurassic fish family
 
@@ -62,12 +68,6 @@ What does it mean to be patriotic? It depends on a country's politics. Pride in 
 
 Date: 2026-07-11
 
-### Europe considering proposals to allow navigational fees in strait of Hormuz
-
-Plans specify tolls must not be compulsory, as US officials urge Iran to make public statement that strait is open and that shipping can safely pass Europe is studying proposals that may allow the charging of navigational fees in the strait of Hormuz so long as the tolls are not compulsory and have the support of the U.
-
-Date: 2026-07-11
-
 ## Sources
 
-No public source links.
+- [Understanding Bavaria's Indigeneity](https://phys.org/news/2026-07-bavaria-indigeneity.html?utm_source=lootura.com) — 2026-07-16T03:20:01.000Z

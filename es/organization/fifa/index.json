@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/fifa/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/fifa/index.json",
   "description": "Sigue la actividad de FIFA en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-16T02:23:49.655Z",
+  "updatedAt": "2026-07-16T06:15:06.275Z",
   "aliases": [],
   "changes": [
     {
@@ -24,10 +24,10 @@
   ],
   "sources": [
     {
-      "title": "Argentina sortea a la FIFA y exhibe una pancarta reclamando la soberanía de las Malvinas",
-      "url": "https://okdiario.com/mundial/argentina-sortea-fifa-exhibe-pancarta-reclamando-soberania-malvinas-19005256?utm_source=lootura.com",
-      "publishedAt": "2026-07-15T21:43:37.000Z",
-      "sourceId": "lootura-es-ok-diario"
+      "title": "Las derrotas que hemos dejado atrás",
+      "url": "https://elpais.com/podcasts/hoy-en-el-pais/2026-07-16/las-derrotas-que-hemos-dejado-atras.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-16T03:45:01.000Z",
+      "sourceId": "lootura-es-el-pais"
     }
   ],
   "evidenceCount": 0

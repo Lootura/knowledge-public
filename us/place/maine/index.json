@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/maine/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/maine/index.json",
   "description": "Follow Maine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-16T02:24:09.281Z",
+  "updatedAt": "2026-07-16T06:15:30.586Z",
   "aliases": [],
   "changes": [
     {
@@ -32,11 +32,6 @@
       "date": "2026-07-15"
     },
     {
-      "title": "Man fleeing immigration officers in Florida struck and killed by tractor trailer, police say",
-      "summary": "It was the third death in a week involving encounters with U.S. Immigration and Customs Enforcement agents, following shootings in Texas and Maine.",
-      "date": "2026-07-15"
-    },
-    {
       "title": "Inside Maine Democrats’ Search for a New Senate Nominee After Graham Platner’s Exit",
       "summary": "Democratic candidates are hastily building bare-bones campaigns and forgoing traditional outreach like TV ads in a sprint to appeal to party delegates, rather than Maine voters.",
       "date": "2026-07-15"
@@ -49,6 +44,11 @@
     {
       "title": "Maine Democrats’ Adventurous Political Experiment",
       "summary": "The party’s leaders have a political experiment on their hands.",
+      "date": "2026-07-15"
+    },
+    {
+      "title": "Man fleeing immigration officers in Florida struck and killed by tractor trailer, police say",
+      "summary": "It was the third death in a week involving encounters with U.S. Immigration and Customs Enforcement agents, following shootings in Texas and Maine.",
       "date": "2026-07-15"
     },
     {
@@ -74,12 +74,6 @@
       "url": "https://www.cbsnews.com/video/mayor-of-maine-town-where-ice-shooting-took-place-on-his-communitys-response/?utm_source=lootura.com",
       "publishedAt": "2026-07-16T01:35:42.000Z",
       "sourceId": "lootura-us-cbs-news"
-    },
-    {
-      "title": "Man fleeing immigration officers in Florida struck and killed by tractor trailer, police say",
-      "url": "https://www.pbs.org/newshour/nation/man-fleeing-immigration-officers-in-florida-struck-and-killed-by-tractor-trailer-police-say?utm_source=lootura.com",
-      "publishedAt": "2026-07-15T18:29:41.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
     },
     {
       "title": "Videos Detail Moments Surrounding Fatal ICE Shooting in Biddeford, Maine",
@@ -112,5 +106,5 @@
       "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 8
+  "evidenceCount": 7
 }

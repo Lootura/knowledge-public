@@ -3,7 +3,7 @@
 > Sigue la actividad de FIFA en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-16T02:23:49.655Z
+- Actualizado: 2026-07-16T06:15:06.275Z
 - Canonical: https://atlas.lootura.com/es/organization/fifa
 
 ## Cambios recientes
@@ -22,4 +22,4 @@ Date: 2026-07-08
 
 ## Fuentes
 
-- [Argentina sortea a la FIFA y exhibe una pancarta reclamando la soberanía de las Malvinas](https://okdiario.com/mundial/argentina-sortea-fifa-exhibe-pancarta-reclamando-soberania-malvinas-19005256?utm_source=lootura.com) — 2026-07-15T21:43:37.000Z
+- [Las derrotas que hemos dejado atrás](https://elpais.com/podcasts/hoy-en-el-pais/2026-07-16/las-derrotas-que-hemos-dejado-atras.html?utm_source=lootura.com) — 2026-07-16T03:45:01.000Z

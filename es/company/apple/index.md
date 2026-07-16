@@ -70,4 +70,4 @@ Date: 2026-07-11
 
 ## Fuentes
 
-- [Esta fue la causa por la que se rompieron las negociaciones entre Apple y OpenAI antes de la demanda](https://hipertextual.com/apple/apple-openai-email-error-demanda-secretos/?utm_source=lootura.com) — 2026-07-15T20:39:00.000Z
+No public source links.

@@ -3,7 +3,7 @@
 > Follow Donald Trump, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-07-16T02:24:09.281Z
+- Updated: 2026-07-16T06:15:30.586Z
 - Canonical: https://atlas.lootura.com/us/person/donald-trump
 
 ## Recent changes
@@ -25,12 +25,6 @@ Date: 2026-07-16
 After The New York Times reported on security concerns related to the Qatari-donated jet, the F.B.I. sought to speak with several people who flew aboard the plane with President Trump last week and asked for their phones.
 
 Date: 2026-07-16
-
-### Sen. Schiff and Blanche argue about conflicts of interest, Trump's IRS settlement
-
-Sen. Adam Schiff and acting Attorney General Todd Blanche argued over President Trump's IRS settlement during Blanche's Senate confirmation hearing on Wednesday. See the exchange.
-
-Date: 2026-07-15
 
 ### Trump relished in being compared to dictators like Hitler and Stalin, journalist says
 
@@ -68,9 +62,14 @@ Acting Attorney General Todd Blanche tried to assert his independence from Presi
 
 Date: 2026-07-15
 
+### U.S. Military Again Blockades Iranian Ports After Collapse of Cease-Fire
+
+President Trump ordered U.S. warships and aircraft to stop vessels going to and from Iran. Enforcing a blockade takes a huge commitment of warships and aircraft.
+
+Date: 2026-07-15
+
 ## Sources
 
-- [Sen. Schiff and Blanche argue about conflicts of interest, Trump's IRS settlement](https://www.cbsnews.com/video/sen-schiff-and-blanche-argue-over-trumps-tax-returns/?utm_source=lootura.com) — 2026-07-15T19:23:41.000Z
 - [Trump overturns pause of ICE vehicle stops implemented after deadly shootings](https://www.cbsnews.com/news/ice-agents-halt-vehicle-stops-after-shootings-maine-texas/?utm_source=lootura.com) — 2026-07-16T01:21:16.000Z
 - [Trump relished in being compared to dictators like Hitler and Stalin, journalist says](https://www.npr.org/2026/07/15/nx-s1-5893633/trump-regime-change-jonathan-swan-maggie-haberman?utm_source=lootura.com) — 2026-07-15T18:56:56.000Z
 - [Trump's intelligence nominee refuses to say who won 2020 election](https://www.pbs.org/newshour/show/trumps-intelligence-nominee-refuses-to-say-who-won-2020-election?utm_source=lootura.com) — 2026-07-15T22:50:24.000Z
@@ -80,3 +79,4 @@ Date: 2026-07-15
 - [U.S. Military Again Blockades Iranian Ports After Collapse of Cease-Fire](https://www.nytimes.com/2026/07/15/us/politics/us-blockade-iran.html?utm_source=lootura.com) — 2026-07-15T23:02:36.000Z
 - [Treasury to Begin Minting $1 Gold Trump Coin Featuring President’s Face](https://www.nytimes.com/2026/07/15/us/politics/gold-trump-coins.html?utm_source=lootura.com) — 2026-07-15T18:05:07.000Z
 - [Investigators Seek Information From Government Officials as Part of Air Force One Leak Investigation](https://www.nytimes.com/2026/07/15/us/politics/air-force-one-lead-investigation-government-officials.html?utm_source=lootura.com) — 2026-07-16T00:36:50.000Z
+- [Senator Presses for Scrutiny of Blanche’s Role in Spiking Clemency Inquiry](https://www.nytimes.com/2026/07/15/us/politics/blumenthal-blanche-trump-clemency.html?utm_source=lootura.com) — 2026-07-15T17:30:53.000Z

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/donald-trump/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/donald-trump/index.json",
   "description": "Follow Donald Trump, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-16T02:24:09.281Z",
+  "updatedAt": "2026-07-16T06:15:30.586Z",
   "aliases": [
     "President Donald Trump",
     "President Trump",
@@ -29,11 +29,6 @@
       "title": "Investigators Seek Information From Government Officials as Part of Air Force One Leak Investigation",
       "summary": "After The New York Times reported on security concerns related to the Qatari-donated jet, the F.B.I. sought to speak with several people who flew aboard the plane with President Trump last week and asked for their phones.",
       "date": "2026-07-16"
-    },
-    {
-      "title": "Sen. Schiff and Blanche argue about conflicts of interest, Trump's IRS settlement",
-      "summary": "Sen. Adam Schiff and acting Attorney General Todd Blanche argued over President Trump's IRS settlement during Blanche's Senate confirmation hearing on Wednesday. See the exchange.",
-      "date": "2026-07-15"
     },
     {
       "title": "Trump relished in being compared to dictators like Hitler and Stalin, journalist says",
@@ -64,15 +59,14 @@
       "title": "What Blanche said about Trump, Epstein files during confirmation hearing for attorney general",
       "summary": "Acting Attorney General Todd Blanche tried to assert his independence from President Donald Trump during his confirmation hearing Wednesday before the Senate Judiciary Committee.",
       "date": "2026-07-15"
+    },
+    {
+      "title": "U.S. Military Again Blockades Iranian Ports After Collapse of Cease-Fire",
+      "summary": "President Trump ordered U.S. warships and aircraft to stop vessels going to and from Iran. Enforcing a blockade takes a huge commitment of warships and aircraft.",
+      "date": "2026-07-15"
     }
   ],
   "sources": [
-    {
-      "title": "Sen. Schiff and Blanche argue about conflicts of interest, Trump's IRS settlement",
-      "url": "https://www.cbsnews.com/video/sen-schiff-and-blanche-argue-over-trumps-tax-returns/?utm_source=lootura.com",
-      "publishedAt": "2026-07-15T19:23:41.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
     {
       "title": "Trump overturns pause of ICE vehicle stops implemented after deadly shootings",
       "url": "https://www.cbsnews.com/news/ice-agents-halt-vehicle-stops-after-shootings-maine-texas/?utm_source=lootura.com",
@@ -126,7 +120,13 @@
       "url": "https://www.nytimes.com/2026/07/15/us/politics/air-force-one-lead-investigation-government-officials.html?utm_source=lootura.com",
       "publishedAt": "2026-07-16T00:36:50.000Z",
       "sourceId": "lootura-us-the-new-york-times-politics"
+    },
+    {
+      "title": "Senator Presses for Scrutiny of Blanche’s Role in Spiking Clemency Inquiry",
+      "url": "https://www.nytimes.com/2026/07/15/us/politics/blumenthal-blanche-trump-clemency.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-15T17:30:53.000Z",
+      "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 12
+  "evidenceCount": 11
 }

@@ -3,10 +3,34 @@
 > Sigue la actividad de Iran en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-15T17:14:56.110Z
+- Actualizado: 2026-07-16T06:15:06.275Z
 - Canonical: https://atlas.lootura.com/es/place/iran
 
 ## Cambios recientes
+
+### Trump amenaza con atacar infraestructuras civiles si Irán no vuelve a negociar
+
+Estados Unidos ha reimpuesto el bloqueo naval sobre los puertos iraníes y ha intensificado su campaña de bombardeos contra la república islámica, en una nueva escalada de ataques que amenaza con devolver a Oriente Próximo a una guerra abierta y que vuelve a situar el estrecho de Ormuz en el centro del enfrentamiento.La.
+
+Date: 2026-07-16
+
+### Trump se enreda de nuevo en una guerra de Irán sin salida clara
+
+En las jornadas posteriores al ataque conjunto de Israel y Estados Unidos contra Irán del pasado 28 de febrero, Donald Trump cambió al menos una docena de veces de argumentos para justificar una operación militar que evitó llamar por su nombre (“guerra”, palabra que aún se resiste a emplear). Sobre su duración también.
+
+Date: 2026-07-16
+
+### Las Bolsas europeas se estabilizan con el foco en los resultados y el petróleo
+
+Los datos de inflación en EE UU más suaves de lo esperado han disipado las preocupaciones en torno a que la Reserva Federal (Fed) suba los tipos de interés a corto plazo, aunque la cautela en torno a Irán y las fuertes pérdidas en los valores de semiconductores mantienen la prudencia en los mercados. EE UU e Irán conti.
+
+Date: 2026-07-16
+
+### El Ibex vuelve a consolidar niveles
+
+Los mercados siguen encontrando obstáculos que atenazan sus subidas. La nueva espiral de ataques de EEUU sobre Irán y la subida de tipos en Corea mantienen en guardia a los inversores. El Ibex, con movimientos estrechos durante toda la semana, vuelve a consolidar niveles en el día del estreno en Bolsa de Digi.
+
+Date: 2026-07-16
 
 ### Trump amenaza con atacar infraestructuras civiles si Irán no vuelve a negociar
 
@@ -44,30 +68,9 @@ La inflación en Estados Unidos se moderó en junio, coincidiendo con el alto el
 
 Date: 2026-07-14
 
-### El Tesoro paga un 2,63% por las letras a nueve meses, el tipo más alto desde noviembre de 2024
-
-A punto de cumplirse un mes desde la firma del memorándum de entendimiento que abrió un periodo de negociación entre Estados Unidos e Irán, las tensiones siguen sin remitir e incluso se han agravado . Los enfrentamientos entre ambas partes se han intensificado, la actividad en el estrecho de Ormuz vuelve a verse altera.
-
-Date: 2026-07-14
-
-### El petróleo supera los 86 dólares ante la escalada en el Golfo y ya sube un 20% sobre los mínimos de julio
-
-El precio del petróleo extiende las subidas y suma hoy un 2,5%, hasta superar los 85 dólares el barril de brent , tras ganar más del 9% la víspera a medida que se intensifica el enfrentamiento entre EE UU e Irán. El presidente Donald Trump restableció el bloqueo estadounidense a los buques iraníes que transitan por el.
-
-Date: 2026-07-14
-
-### El petróleo extiende el rally y penaliza las Bolsas
-
-El precio del petróleo extiende las subidas y suma hoy un 1,5%, hasta superar los 84 dólares el barril de Brent , tras ganar más del 9% la víspera, a medida que se intensifica el enfrentamiento entre EE UU e Irán. El presidente Donald Trump restableció el bloqueo estadounidense a los buques iraníes que transitan por el.
-
-Date: 2026-07-14
-
-### Trump dice que EEUU investiga si Irán tiene drones almacenados en Cuba
-
-El presidente de Estados Unidos, Donald Trump , ha asegurado este lunes que su Gobierno investiga la posible presencia de drones iraníes almacenados en Cuba y ha advertido de que Washington actuará si confirma esa información. "Si los tienen, y es muy posible que los tengan , nos encargaremos de ello", ha declarado Tru.
-
-Date: 2026-07-14
-
 ## Fuentes
 
-No public source links.
+- [Trump amenaza con atacar infraestructuras civiles si Irán no vuelve a negociar](https://www.abc.es/internacional/trump-amenaza-atacar-infraestructuras-civiles-iran-vuelve-20260715174230-nt.html?utm_source=lootura.com) — 2026-07-16T05:22:48.000Z
+- [Trump se enreda de nuevo en una guerra de Irán sin salida clara](https://elpais.com/internacional/2026-07-16/trump-se-enreda-de-nuevo-en-una-guerra-de-iran-sin-salida-clara.html?utm_source=lootura.com) — 2026-07-16T03:40:00.000Z
+- [Las Bolsas europeas se estabilizan con el foco en los resultados y el petróleo](https://cincodias.elpais.com/mercados-financieros/2026-07-16/la-bolsa-y-el-ibex-35.html?utm_source=lootura.com) — 2026-07-16T04:34:20.000Z
+- [El Ibex vuelve a consolidar niveles](https://www.expansion.com/mercados/cronica-bolsa/2026/07/16/6a58713e468aeb64098b4570.html?utm_source=lootura.com) — 2026-07-16T06:12:08.000Z

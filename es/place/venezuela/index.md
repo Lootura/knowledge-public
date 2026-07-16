@@ -70,5 +70,4 @@ Date: 2026-07-13
 
 ## Fuentes
 
-- [El contraste tras la tragedia en Venezuela](https://www.larazon.es/internacional/contraste-tragedia-venezuela_202607166a5828951db8de040990c0eb.html?utm_source=lootura.com) — 2026-07-16T00:40:53.000Z
-- [Sube a 4.829 la cifra de muertos por los terremotos de hace tres semanas en Venezuela](https://theobjective.com/internacional/2026-07-15/4829-cifra-muertos-terremotos-venezuela/?amp=&utm_source=lootura.com) — 2026-07-15T21:34:09.000Z
+No public source links.

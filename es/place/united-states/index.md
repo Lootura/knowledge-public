@@ -3,10 +3,22 @@
 > Sigue la actividad de Estados Unidos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-16T02:23:49.655Z
+- Actualizado: 2026-07-16T06:15:06.275Z
 - Canonical: https://atlas.lootura.com/es/place/united-states
 
 ## Cambios recientes
+
+### Trump amenaza con atacar infraestructuras civiles si Irán no vuelve a negociar
+
+Estados Unidos ha reimpuesto el bloqueo naval sobre los puertos iraníes y ha intensificado su campaña de bombardeos contra la república islámica, en una nueva escalada de ataques que amenaza con devolver a Oriente Próximo a una guerra abierta y que vuelve a situar el estrecho de Ormuz en el centro del enfrentamiento.La.
+
+Date: 2026-07-16
+
+### Trump se enreda de nuevo en una guerra de Irán sin salida clara
+
+En las jornadas posteriores al ataque conjunto de Israel y Estados Unidos contra Irán del pasado 28 de febrero, Donald Trump cambió al menos una docena de veces de argumentos para justificar una operación militar que evitó llamar por su nombre (“guerra”, palabra que aún se resiste a emplear). Sobre su duración también.
+
+Date: 2026-07-16
 
 ### El Ibex cae un 0,4% mientras la incertidumbre sobre Ormuz mantiene en vilo a los mercados
 
@@ -56,19 +68,7 @@ Estados Unidos ha reimpuesto el bloqueo naval sobre los puertos iraníes y ha in
 
 Date: 2026-07-15
 
-### ACS y el fondo GIP estrenan su alianza con un centro de datos en Texas
-
-El grupo ACS y su socio financiero para el desarrollo de centros de datos, Global Infrastructure Partners (GIP) , tienen ya en pista de despegue un primer proyecto en común en Estados Unidos al asegurar un contrato a largo plazo con una de las grandes tecnológicas en su campus de Dallas-Fort Worth (Texas). Este hito co.
-
-Date: 2026-07-15
-
-### Bank of America retira su consejo de compra sobre BBVA por Turquía
-
-La cotización de BBVA se inclina por los descensos en una jornada en la que el banco pierde un apoyo. Los analistas de Bank of America han revisado a la baja su recomendación sobre el valor del Ibex. La firma ha retirado su consejo de comprar . Su propuesta ahora se limita a mantener uan posición neutral en BBVA. Segui.
-
-Date: 2026-07-15
-
 ## Fuentes
 
-- [El Ibex cae un 0,4% mientras la incertidumbre sobre Ormuz mantiene en vilo a los mercados](https://cincodias.elpais.com/mercados-financieros/2026-07-15/la-bolsa-y-el-ibex-35.html?utm_source=lootura.com) — 2026-07-15T20:22:26.000Z
-- [BofA apuesta en banca española por Santander y CaixaBank](https://www.expansion.com/mercados/2026/07/16/6a57f165468aeb5f238b458d.html?utm_source=lootura.com) — 2026-07-15T22:09:30.000Z
+- [Trump amenaza con atacar infraestructuras civiles si Irán no vuelve a negociar](https://www.abc.es/internacional/trump-amenaza-atacar-infraestructuras-civiles-iran-vuelve-20260715174230-nt.html?utm_source=lootura.com) — 2026-07-16T05:22:48.000Z
+- [Trump se enreda de nuevo en una guerra de Irán sin salida clara](https://elpais.com/internacional/2026-07-16/trump-se-enreda-de-nuevo-en-una-guerra-de-iran-sin-salida-clara.html?utm_source=lootura.com) — 2026-07-16T03:40:00.000Z

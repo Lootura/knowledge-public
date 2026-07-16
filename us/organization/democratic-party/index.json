@@ -8,15 +8,15 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/democratic-party/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/democratic-party/index.json",
   "description": "Follow Democratic Party, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-16T02:24:09.281Z",
+  "updatedAt": "2026-07-16T06:15:30.586Z",
   "aliases": [
     "Democrats"
   ],
   "changes": [
     {
-      "title": "Democrats' witness opposing Blanche's confirmation is more than an Epstein survivor",
-      "summary": "Dani Bensky and a group of women who were abused by Jeffrey Epstein have formed a bond they call a \"survivor sisterhood.\" They live in two worlds, of advocacy and everyday life and motherhood. (Image credit: Corrie Aune for NPR).",
-      "date": "2026-07-15"
+      "title": "Dems have a big cash advantage in key Senate races",
+      "summary": "Democrats continue to rake in cash across some of the nation’s most pivotal Senate races, outpacing their Republican counterparts several times over. In Georgia, Democratic Sen. Jon Ossoff has 20 times as much cash on hand as his Republican challenger, Rep. Mike Collins. In North Carolina, perhaps Democrats’ best picku.",
+      "date": "2026-07-16"
     },
     {
       "title": "Funding milestone detected",
@@ -54,13 +54,13 @@
       "date": "2026-07-15"
     },
     {
-      "title": "An ICE Shooting in Maine Puts Pressure on Senator Susan Collins",
-      "summary": "The Democrats hoping to challenge Ms. Collins, a vulnerable Republican, have seized on the fatal incident, drawing attention to her record on immigration matters.",
+      "title": "Democrats' witness opposing Blanche's confirmation is more than an Epstein survivor",
+      "summary": "Dani Bensky and a group of women who were abused by Jeffrey Epstein have formed a bond they call a \"survivor sisterhood.\" They live in two worlds, of advocacy and everyday life and motherhood. (Image credit: Corrie Aune for NPR).",
       "date": "2026-07-15"
     },
     {
-      "title": "Platner Was Toxic. But Democrats Could Learn From His Politics.",
-      "summary": "His progressive, populist message was able to occupy a kind of middle ground in the party’s primary electorate.",
+      "title": "An ICE Shooting in Maine Puts Pressure on Senator Susan Collins",
+      "summary": "The Democrats hoping to challenge Ms. Collins, a vulnerable Republican, have seized on the fatal incident, drawing attention to her record on immigration matters.",
       "date": "2026-07-15"
     }
   ],
@@ -72,10 +72,10 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "Democrats' witness opposing Blanche's confirmation is more than an Epstein survivor",
-      "url": "https://www.npr.org/2026/07/15/nx-s1-5850397/jeffrey-epstein-todd-blanche-dani-bensky-survivor-victims-sexual-abuse-trafficking?utm_source=lootura.com",
-      "publishedAt": "2026-07-15T09:00:00.000Z",
-      "sourceId": "lootura-us-npr"
+      "title": "Dems have a big cash advantage in key Senate races",
+      "url": "https://www.politico.com/news/2026/07/16/democrats-senate-map-cash-advantage-elections-01000497?utm_source=lootura.com",
+      "publishedAt": "2026-07-16T04:05:46.000Z",
+      "sourceId": "lootura-us-politico"
     },
     {
       "title": "Clayton Dodges Question on 2020 Election, and Democrats Call Him on It",
