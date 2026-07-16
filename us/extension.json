@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-16T07:03:22.332Z",
+  "generatedAt": "2026-07-16T07:13:18.150Z",
   "radar": {
     "id": "usa",
     "slug": "us",
@@ -21,7 +21,7 @@
       "url": "https://atlas.lootura.com/us/place/maine",
       "path": "/us/place/maine",
       "updatedAt": "2026-07-16T06:28:11.623Z",
-      "score": 1595,
+      "score": 1592,
       "sourceCount": 71,
       "isBreaking": false,
       "isPinned": false
@@ -35,7 +35,7 @@
         "url": "https://atlas.lootura.com/us/person/todd-blanche",
         "path": "/us/person/todd-blanche",
         "updatedAt": "2026-07-16T06:28:11.623Z",
-        "score": 1561,
+        "score": 1558,
         "sourceCount": 13,
         "isBreaking": false,
         "isPinned": false
@@ -48,21 +48,8 @@
         "url": "https://atlas.lootura.com/us/place/canada",
         "path": "/us/place/canada",
         "updatedAt": "2026-07-16T06:28:11.623Z",
-        "score": 1531,
+        "score": 1527,
         "sourceCount": 13,
-        "isBreaking": false,
-        "isPinned": false
-      },
-      {
-        "id": "usa-united-states",
-        "name": "United States",
-        "type": "place",
-        "title": "U.S. citizen departs Iran after being barred from leaving for over a year",
-        "url": "https://atlas.lootura.com/us/place/united-states",
-        "path": "/us/place/united-states",
-        "updatedAt": "2026-07-16T06:28:11.623Z",
-        "score": 1529,
-        "sourceCount": 192,
         "isBreaking": false,
         "isPinned": false
       },
@@ -74,8 +61,21 @@
         "url": "https://atlas.lootura.com/us/person/donald-trump",
         "path": "/us/person/donald-trump",
         "updatedAt": "2026-07-16T06:28:11.623Z",
-        "score": 1528,
+        "score": 1525,
         "sourceCount": 165,
+        "isBreaking": false,
+        "isPinned": false
+      },
+      {
+        "id": "usa-united-states",
+        "name": "United States",
+        "type": "place",
+        "title": "U.S. citizen departs Iran after being barred from leaving for over a year",
+        "url": "https://atlas.lootura.com/us/place/united-states",
+        "path": "/us/place/united-states",
+        "updatedAt": "2026-07-16T06:28:11.623Z",
+        "score": 1525,
+        "sourceCount": 192,
         "isBreaking": false,
         "isPinned": false
       }

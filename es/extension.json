@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-16T07:03:23.637Z",
+  "generatedAt": "2026-07-16T07:13:19.579Z",
   "radar": {
     "id": "es",
     "slug": "es",
@@ -21,7 +21,7 @@
       "url": "https://atlas.lootura.com/es/person/pedro-sanchez",
       "path": "/es/person/pedro-sanchez",
       "updatedAt": "2026-07-16T06:27:44.347Z",
-      "score": 1554,
+      "score": 1551,
       "sourceCount": 137,
       "isBreaking": false,
       "isPinned": false
@@ -35,7 +35,7 @@
         "url": "https://atlas.lootura.com/es/place/espana",
         "path": "/es/place/espana",
         "updatedAt": "2026-07-16T06:27:44.347Z",
-        "score": 1530,
+        "score": 1527,
         "sourceCount": 270,
         "isBreaking": false,
         "isPinned": false
@@ -48,7 +48,7 @@
         "url": "https://atlas.lootura.com/es/place/pais-vasco",
         "path": "/es/place/pais-vasco",
         "updatedAt": "2026-07-16T06:27:44.347Z",
-        "score": 1523,
+        "score": 1520,
         "sourceCount": 9,
         "isBreaking": false,
         "isPinned": false
@@ -61,7 +61,7 @@
         "url": "https://atlas.lootura.com/es/place/madrid",
         "path": "/es/place/madrid",
         "updatedAt": "2026-07-16T06:27:44.347Z",
-        "score": 1517,
+        "score": 1514,
         "sourceCount": 138,
         "isBreaking": false,
         "isPinned": false
@@ -74,7 +74,7 @@
         "url": "https://atlas.lootura.com/es/place/iran",
         "path": "/es/place/iran",
         "updatedAt": "2026-07-16T06:27:44.347Z",
-        "score": 1500,
+        "score": 1496,
         "sourceCount": 66,
         "isBreaking": false,
         "isPinned": false
