@@ -3,16 +3,10 @@
 > Sigue la actividad de Partido Popular en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-16T10:06:17.457Z
+- Actualizado: 2026-07-16T13:45:06.103Z
 - Canonical: https://atlas.lootura.com/es/organization/partido-popular
 
 ## Cambios recientes
-
-### Para Illa, la UE avala la agenda del reencuentro, pero Junqueras dice que el conflicto sigue
-
-TJUE sentencia por la Ley de Amnistía, en directo El TJUE avala el núcleo de la ley de amnistía, pero no implica la vuelta inmediata de Puigdemont "Hay que zanjar el debate": el PP pasa página de la amnistía para seguir centrado en la corrupción El presidente de la Generalitat, Salvador Illa , ha discrepado de manera s.
-
-Date: 2026-07-16
 
 ### Génova le quita importancia al fallo del TJUE y Aznar reclama que "la agresión sediciosa no quede impune"
 
@@ -20,15 +14,45 @@ El PP relativiza el alcance de la sentencia: "No examina la constitucionalidad n
 
 Date: 2026-07-16
 
-### El PP «respeta» la sentencia de la amnistía, pero recuerda que «ningún presidente debe cambiar poder por impunidad»
-
-El Partido Popular ha señalado que «respeta» el fallo emitido este jueves por el Tribunal de Justicia de la Unión Europea (TJUE) que avala la Ley de Amnistía , aunque recuerda que « ningún presidente debe cambiar poder por impunidad » y «mucho menos hacerlo contra la voluntad de los españoles». « Es lo que hizo Pedro S.
-
-Date: 2026-07-16
-
 ### El PP puntualiza que el fallo del TJUE sobre la amnistía no examina su constitucionalidad
 
 El PP ha puntualizado este jueves que el fallo del Tribunal de Justicia de la Unión Europea (TJUE) sobre la ley de amnistía es «un paso más» de un largo.
+
+Date: 2026-07-16
+
+### La Justicia europea desmonta el relato del Supremo y el PP: no ve 'autoamnistía' ni quiebra de la igualdad
+
+La resolución de los jueces de Luxemburgo comparte la visión de reconciliación en la norma y rechaza adentrarse en las consideraciones políticas que realizó la Comisión Europea El TJUE avala la ley de amnistía como vía para la “reconciliación nacional” La ley de amnistía dio un trato “ostensiblemente privilegiado” a lo.
+
+Date: 2026-07-16
+
+### Puigdemont: vuelve, a casa vuelve, por Navidad
+
+Si esperan que el PP convoque un carrusel de airadas manifestaciones por la sentencia europea sobre la amnistía, aguarden sentados. Como en casi todas las decisiones difíciles de la historia reciente de la democracia española, la izquierda decide y paga la cuenta, la derecha reza y espera llevarse los beneficios Claves.
+
+Date: 2026-07-16
+
+### Nuevo tirón de orejas de Vox al alcalde del PP de Palma: «La Oficina Antiokupación no funciona, es nula»
+
+Nuevo tirón de orejas de Vox al alcalde del PP de Palma, Jaime Martínez : la Oficina Antiokupación no funciona , «es nula», ha denunciado el líder del partido de Santiago Abascal en el Ayuntamiento de Palma, el concejal y portavoz Fulgencio Coll . El consistorio presentó la puesta en marcha en mayo de 2025 de su Oficin.
+
+Date: 2026-07-16
+
+### El PP, tras mantenerse el juicio con jurado a Begoña Gómez: «Una situación inconcebible»
+
+El Partido Popular ha asegurado este jueves que la Audiencia Provincial de Madrid ha confirmado que Begoña Gómez , esposa del presidente del Gobierno, «se sentará en un banquillo» y ha recalcado que se trata de una situación «sin precedentes en la democracia española e inconcebible en cualquier democracia europea », se.
+
+Date: 2026-07-16
+
+### Para Illa, la UE avala la agenda del reencuentro, pero Junqueras dice que el conflicto sigue
+
+TJUE sentencia por la Ley de Amnistía, en directo El TJUE avala el núcleo de la ley de amnistía, pero no implica la vuelta inmediata de Puigdemont "Hay que zanjar el debate": el PP pasa página de la amnistía para seguir centrado en la corrupción El presidente de la Generalitat, Salvador Illa , ha discrepado de manera s.
+
+Date: 2026-07-16
+
+### El PP «respeta» la sentencia de la amnistía, pero recuerda que «ningún presidente debe cambiar poder por impunidad»
+
+El Partido Popular ha señalado que «respeta» el fallo emitido este jueves por el Tribunal de Justicia de la Unión Europea (TJUE) que avala la Ley de Amnistía , aunque recuerda que « ningún presidente debe cambiar poder por impunidad » y «mucho menos hacerlo contra la voluntad de los españoles». « Es lo que hizo Pedro S.
 
 Date: 2026-07-16
 
@@ -44,33 +68,11 @@ La reunión de líderes europeos e hispanoamericanos de centroderecha en el Foro
 
 Date: 2026-07-15
 
-### El CIS de Tezanos remonta al PSOE y le da una ventaja de casi ocho puntos sobre el PP en el mes de la condena a Ábalos
-
-Feijóo cae dos puntos en porcentaje de voto y Abascal también retrocede ligeramente Leer.
-
-Date: 2026-07-15
-
-### Feijóo y Ayuso acusan a Sánchez de ser un “presidente autoritario” y un “autócrata sin escrúpulos”ante los líderes del PP europeo
-
-Ante algunos de los principales líderes del Partido Popular Europeo, reunidos este miércoles en Madrid, Alberto Núñez Feijóo ha lanzado la acusación más gruesa hasta la fecha contra Pedro Sánchez. El líder del PP no ha dudado en describir al líder socialista como “un presidente autoritario” delante del presidente del P.
-
-Date: 2026-07-15
-
-### Feijóo acusa a Sánchez de ser un «presidente autoritario» y de «agredir» la democracia
-
-El líder del PP , Alberto Núñez Feijóo , ha asegurado este miércoles que el jefe del Ejecutivo, Pedro Sánchez , es un «presidente autoritario» —aunque no lo ha citado expresamente en ningún momento— y ha advertido de que España sufre «la amenaza de una democracia debilitada» y «agredida». Además, ha avisado de que no p.
-
-Date: 2026-07-15
-
-### El PP califica de «fraude» la aplicación provisional del acuerdo sobre Gibraltar
-
-El Partido Popular ha calificado de «fraude» la entrada en vigor del Tratado entre la Unión Europea y Reino Unido sobre Gibraltar , por el que ha entrado en vigor un sistema «sin ningún tipo de aprobación parlamentaria» y tampoco la del Parlamento Europeo. Así lo ha afirmado en un comunicado el partido liderado por Alb.
-
-Date: 2026-07-15
-
 ## Fuentes
 
-- [Para Illa, la UE avala la agenda del reencuentro, pero Junqueras dice que el conflicto sigue](https://www.elconfidencial.com/espana/cataluna/2026-07-16/illa-tjue-reencuentro-junqueras-conflicto-sigue_4390965/?utm_source=lootura.com) — 2026-07-16T09:27:00.000Z
 - [Génova le quita importancia al fallo del TJUE y Aznar reclama que "la agresión sediciosa no quede impune"](https://www.elmundo.es/espana/2026/07/16/6a58a2b4e4d4d8a8558b45a5.html?utm_source=lootura.com) — 2026-07-16T09:22:12.000Z
-- [El PP «respeta» la sentencia de la amnistía, pero recuerda que «ningún presidente debe cambiar poder por impunidad»](https://okdiario.com/espana/pp-respeta-sentencia-amnistia-pero-recuerda-que-ningun-presidente-debe-cambiar-poder-impunidad-19007506?utm_source=lootura.com) — 2026-07-16T09:57:58.000Z
+- [La Justicia europea desmonta el relato del Supremo y el PP: no ve 'autoamnistía' ni quiebra de la igualdad](https://www.eldiario.es/catalunya/autoamnistia-quiebra-igualdad-fallo-tjue-desecha-relato-supremo-pp-ley_1_13384941.html?utm_source=lootura.com) — 2026-07-16T11:06:54.000Z
+- [Puigdemont: vuelve, a casa vuelve, por Navidad](https://www.eldiario.es/opinion/zona-critica/puigdemont-vuelve-casa-vuelve-navidad_129_13385052.html?utm_source=lootura.com) — 2026-07-16T11:24:28.000Z
+- [Nuevo tirón de orejas de Vox al alcalde del PP de Palma: «La Oficina Antiokupación no funciona, es nula»](https://okdiario.com/baleares/nuevo-tiron-orejas-vox-alcalde-del-pp-palma-oficina-antiokupacion-no-funciona-nula-19009279?utm_source=lootura.com) — 2026-07-16T13:13:56.000Z
+- [El PP, tras mantenerse el juicio con jurado a Begoña Gómez: «Una situación inconcebible»](https://theobjective.com/espana/politica/2026-07-16/pp-juicio-jurado-gomez-situacion-inconcebible/?utm_source=lootura.com) — 2026-07-16T13:20:44.000Z
 - [El PP puntualiza que el fallo del TJUE sobre la amnistía no examina su constitucionalidad](https://theobjective.com/espana/politica/2026-07-16/pp-fallo-ley-amnistia/?amp=&utm_source=lootura.com) — 2026-07-16T09:53:40.000Z

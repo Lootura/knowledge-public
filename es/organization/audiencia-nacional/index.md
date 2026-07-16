@@ -3,10 +3,16 @@
 > Sigue la actividad de Audiencia Nacional en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-16T10:06:17.457Z
+- Actualizado: 2026-07-16T13:45:06.103Z
 - Canonical: https://atlas.lootura.com/es/organization/audiencia-nacional
 
 ## Cambios recientes
+
+### El juez retrasa a mañana la declaración de la directora de la Guardia Civil por el caso Leire
+
+El juez de la Audiencia Nacional que investiga el caso Leire Díez ha acordado posponer a este viernes la declaración como investigada de la directora de la Guardia Civil , Mercedes González , que estaba citada para este jueves, debido a la extensión del interrogatorio al director adjunto operativo (DAO) del Cuerpo, Man.
+
+Date: 2026-07-16
 
 ### La Justicia europea descarta que la amnistía de Puigdemont afecte a los intereses económicos comunitarios
 
@@ -62,14 +68,6 @@ La presidenta del PSOE, Cristina Narbona , ha declarado este miércoles ante el 
 
 Date: 2026-07-15
 
-### Discovered by Atlas
-
-Audiencia Nacional first entered the public knowledge record with source-backed evidence.
-
-Date: 2026-07-14
-
 ## Fuentes
 
-- [La Justicia europea descarta que la amnistía de Puigdemont afecte a los intereses económicos comunitarios](https://www.eldebate.com/espana/20260716/justicia-euroepa-descarta-amnistia-puigdemont-afecte-intereses-economicos-union_440173.html?utm_source=lootura.com) — 2026-07-16T08:24:36.000Z
-- [La directora de la Guardia Civil y su jefe operativo declaran como imputados en la Audiencia Nacional por el ‘caso Leire Díez’](https://elpais.com/espana/2026-07-16/la-directora-de-la-guardia-civil-y-su-jefe-operativo-declaran-como-imputados-en-la-audiencia-nacional-por-el-caso-leire-diez.html?utm_source=lootura.com) — 2026-07-16T08:08:48.000Z
-- [¿Cuál es el recorrido judicial de Puigdemont tras el aval de la justicia europea a la amnistía?](https://www.lavanguardia.com/politica/20260716/11593540/cual-recorrido-judicial-puigdemont-aval-justicia-europea-amnistia.html?utm_source=lootura.com) — 2026-07-16T08:23:28.000Z
+- [El juez retrasa a mañana la declaración de la directora de la Guardia Civil por el caso Leire](https://www.elconfidencial.com/espana/2026-07-16/directora-guarrdia-civil-no-declara-caso-leire_4391044/?utm_source=lootura.com) — 2026-07-16T10:38:00.000Z

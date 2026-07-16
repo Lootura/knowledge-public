@@ -1,0 +1,45 @@
+{
+  "id": "usa-getty-images",
+  "name": "Getty Images",
+  "type": "person",
+  "locale": "en",
+  "canonicalPath": "/us/person/getty-images",
+  "canonicalUrl": "https://atlas.lootura.com/us/person/getty-images",
+  "markdownUrl": "https://atlas.lootura.com/us/person/getty-images/index.md",
+  "jsonUrl": "https://atlas.lootura.com/us/person/getty-images/index.json",
+  "description": "Follow Getty Images, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
+  "updatedAt": "2026-07-16T13:45:32.280Z",
+  "aliases": [],
+  "changes": [
+    {
+      "title": "'Gossip' had godly origins. Here's how it gained its sinful reputation",
+      "summary": "We've all engaged in a little 'gossip.' But did you know its origins were tied to family and friendship? (Image credit: Fox Photos/Getty Images).",
+      "date": "2026-07-16"
+    },
+    {
+      "title": "The political risks from war in Iran. And, ICE's use of force is rising, report finds",
+      "summary": "The political implications the war in Iran is having on the GOP. And, a new report has found that ICE officers' use of force is not rare since President Trump took office for his second term. (Image credit: -/AFP via Getty Images).",
+      "date": "2026-07-16"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Getty Images first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-07-16"
+    }
+  ],
+  "sources": [
+    {
+      "title": "'Gossip' had godly origins. Here's how it gained its sinful reputation",
+      "url": "https://www.npr.org/2026/07/16/nx-s1-5884780/gossip-word-origins-etymology?utm_source=lootura.com",
+      "publishedAt": "2026-07-16T09:00:00.000Z",
+      "sourceId": "lootura-us-npr"
+    },
+    {
+      "title": "The political risks from war in Iran. And, ICE's use of force is rising, report finds",
+      "url": "https://www.npr.org/2026/07/16/g-s1-133918/up-first-newsletter-iran-us-trump-jay-clayton-ice-use-of-force?utm_source=lootura.com",
+      "publishedAt": "2026-07-16T11:29:01.000Z",
+      "sourceId": "lootura-us-npr-world"
+    }
+  ],
+  "evidenceCount": 2
+}

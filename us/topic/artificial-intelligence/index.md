@@ -3,7 +3,7 @@
 > Follow Artificial intelligence, a tracked topic, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: topic
-- Updated: 2026-07-16T10:06:43.244Z
+- Updated: 2026-07-16T13:45:32.280Z
 - Canonical: https://atlas.lootura.com/us/topic/artificial-intelligence
 
 ## Recent changes
@@ -17,6 +17,12 @@ Date: 2026-07-16
 ### Does AI work for us, or do we work for AI?
 
 Science, Volume 393, Issue 6807 , Page 152-152, July 2026.
+
+Date: 2026-07-16
+
+### Meta says it's creating new safety features to help protect teens. Here's how
+
+Meta announced it is introducing new features to help protect teens using Instagram, Facebook and WhatsApp, including alerting a parent if their child discusses self-harm with one of its AI chatbots. Kelly O'Grady explains.
 
 Date: 2026-07-16
 
@@ -62,14 +68,8 @@ Common Sense Media found that across more than 2,600 test interactions, Google's
 
 Date: 2026-07-15
 
-### The First Chatbot’s Multiple Personalities
-
-ELIZA is remembered as the world’s first AI star, a kindly therapist in chatbot form that gently probed users’ worries. Even its creator, Joseph Weizenbaum, was surprised by the warm reception given to his experiment in human-machine interaction. For some, it heralded an age of automated psychotherapy, while others bel.
-
-Date: 2026-07-15
-
 ## Sources
 
-- [Our approach to bioresilience](https://deepmind.google/blog/our-approach-to-bioresilience/?utm_source=lootura.com) — 2026-07-16T09:30:42.000Z
-- [Highly fragmented European wetlands with uneven restoration needs](https://www.nature.com/articles/s41586-026-10760-9?utm_source=lootura.com) — 2026-07-16T10:06:47.440Z
-- [Does AI work for us, or do we work for AI?](https://www.science.org/doi/abs/10.1126/science.aei9754?af=R&utm_source=lootura.com) — 2026-07-16T10:06:47.398Z
+- [Meta says it's creating new safety features to help protect teens. Here's how](https://www.cbsnews.com/video/meta-says-its-creating-new-safety-features-to-help-protect-teens-heres-how/?utm_source=lootura.com) — 2026-07-16T13:11:19.000Z
+- [Highly fragmented European wetlands with uneven restoration needs](https://www.nature.com/articles/s41586-026-10760-9?utm_source=lootura.com) — 2026-07-16T13:45:36.474Z
+- [Does AI work for us, or do we work for AI?](https://www.science.org/doi/abs/10.1126/science.aei9754?af=R&utm_source=lootura.com) — 2026-07-16T13:45:36.606Z

@@ -8,14 +8,9 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/maine/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/maine/index.json",
   "description": "Follow Maine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-16T10:06:43.244Z",
+  "updatedAt": "2026-07-16T13:45:32.280Z",
   "aliases": [],
   "changes": [
-    {
-      "title": "Trump overturns pause of ICE vehicle stops implemented after deadly shootings",
-      "summary": "Neither of the victims of the ICE shootings in Maine or Texas were the target of enforcement operations, according to the Department of Homeland Security.",
-      "date": "2026-07-16"
-    },
     {
       "title": "Biddeford, Maine, mayor on ICE shooting, community's response",
       "summary": "Liam LaFountain, mayor of Biddeford, Maine, joins \"The Daily Report\" to discuss his town's response to Monday's incident where an ICE officer shot and killed a man.",
@@ -24,6 +19,11 @@
     {
       "title": "The use of force has become a 'default tool' for ICE officers, a new report finds",
       "summary": "An ACLU report looks at the widespread use of force in immigration enforcement in the first year of President Trump's return to office. Recent fatal shootings in Texas and Maine have brought renewed scrutiny to the agency's tactics. (Image credit: Scott Olson).",
+      "date": "2026-07-16"
+    },
+    {
+      "title": "Trump overturns pause of ICE vehicle stops implemented after deadly shootings",
+      "summary": "Neither of the victims of the ICE shootings in Maine or Texas were the target of enforcement operations, according to the Department of Homeland Security.",
       "date": "2026-07-16"
     },
     {
@@ -64,12 +64,6 @@
   ],
   "sources": [
     {
-      "title": "Trump overturns pause of ICE vehicle stops implemented after deadly shootings",
-      "url": "https://www.cbsnews.com/news/ice-agents-halt-vehicle-stops-after-shootings-maine-texas/?utm_source=lootura.com",
-      "publishedAt": "2026-07-16T01:21:16.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
-    {
       "title": "Biddeford, Maine, mayor on ICE shooting, community's response",
       "url": "https://www.cbsnews.com/video/mayor-of-maine-town-where-ice-shooting-took-place-on-his-communitys-response/?utm_source=lootura.com",
       "publishedAt": "2026-07-16T01:35:42.000Z",
@@ -92,19 +86,7 @@
       "url": "https://www.nytimes.com/2026/07/14/us/joan-sebastian-guerrero-maine-ice-shooting.html?utm_source=lootura.com",
       "publishedAt": "2026-07-15T15:37:10.000Z",
       "sourceId": "lootura-us-the-new-york-times"
-    },
-    {
-      "title": "Here Are the Maine Democrats Running to Replace Graham Platner",
-      "url": "https://www.nytimes.com/2026/07/15/us/politics/maine-democrats-senate-candidates.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-15T21:21:03.000Z",
-      "sourceId": "lootura-us-the-new-york-times-politics"
-    },
-    {
-      "title": "Maine Democrats’ Adventurous Political Experiment",
-      "url": "https://www.nytimes.com/2026/07/15/us/politics/maine-democrats-senate-adventure.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-15T22:10:18.000Z",
-      "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 7
+  "evidenceCount": 4
 }

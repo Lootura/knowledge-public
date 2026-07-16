@@ -3,7 +3,7 @@
 > Follow Europe, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-16T10:06:43.244Z
+- Updated: 2026-07-16T13:45:32.280Z
 - Canonical: https://atlas.lootura.com/us/place/europe
 
 ## Recent changes
@@ -70,4 +70,4 @@ Date: 2026-07-11
 
 ## Sources
 
-- [OnePlus officially gives up on the US and Europe](https://www.theverge.com/tech/966404/oneplus-oppo-us-europe-withdrawal-realme?utm_source=lootura.com) — 2026-07-16T09:00:00.000Z
+- [The Quest for ‘Technological Sovereignty’ in Europe (and Why It’s So Hard)](https://www.nytimes.com/2026/07/16/world/europe/digital-autonomy-ai.html?utm_source=lootura.com) — 2026-07-16T13:24:22.000Z

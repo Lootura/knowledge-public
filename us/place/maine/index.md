@@ -3,16 +3,10 @@
 > Follow Maine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-16T10:06:43.244Z
+- Updated: 2026-07-16T13:45:32.280Z
 - Canonical: https://atlas.lootura.com/us/place/maine
 
 ## Recent changes
-
-### Trump overturns pause of ICE vehicle stops implemented after deadly shootings
-
-Neither of the victims of the ICE shootings in Maine or Texas were the target of enforcement operations, according to the Department of Homeland Security.
-
-Date: 2026-07-16
 
 ### Biddeford, Maine, mayor on ICE shooting, community's response
 
@@ -23,6 +17,12 @@ Date: 2026-07-16
 ### The use of force has become a 'default tool' for ICE officers, a new report finds
 
 An ACLU report looks at the widespread use of force in immigration enforcement in the first year of President Trump's return to office. Recent fatal shootings in Texas and Maine have brought renewed scrutiny to the agency's tactics. (Image credit: Scott Olson).
+
+Date: 2026-07-16
+
+### Trump overturns pause of ICE vehicle stops implemented after deadly shootings
+
+Neither of the victims of the ICE shootings in Maine or Texas were the target of enforcement operations, according to the Department of Homeland Security.
 
 Date: 2026-07-16
 
@@ -70,10 +70,7 @@ Date: 2026-07-15
 
 ## Sources
 
-- [Trump overturns pause of ICE vehicle stops implemented after deadly shootings](https://www.cbsnews.com/news/ice-agents-halt-vehicle-stops-after-shootings-maine-texas/?utm_source=lootura.com) — 2026-07-16T01:21:16.000Z
 - [Biddeford, Maine, mayor on ICE shooting, community's response](https://www.cbsnews.com/video/mayor-of-maine-town-where-ice-shooting-took-place-on-his-communitys-response/?utm_source=lootura.com) — 2026-07-16T01:35:42.000Z
 - [The use of force has become a 'default tool' for ICE officers, a new report finds](https://www.npr.org/2026/07/16/nx-s1-5891834/ice-use-of-force-aclu-report?utm_source=lootura.com) — 2026-07-16T09:00:00.000Z
 - [Videos Detail Moments Surrounding Fatal ICE Shooting in Biddeford, Maine](https://www.nytimes.com/2026/07/14/us/maine-ice-shooting-video-joan-sebastian-guerrero.html?utm_source=lootura.com) — 2026-07-15T16:00:34.000Z
 - [Colombian Immigrant Killed by ICE in Maine Had Legal Status, Father Says](https://www.nytimes.com/2026/07/14/us/joan-sebastian-guerrero-maine-ice-shooting.html?utm_source=lootura.com) — 2026-07-15T15:37:10.000Z
-- [Here Are the Maine Democrats Running to Replace Graham Platner](https://www.nytimes.com/2026/07/15/us/politics/maine-democrats-senate-candidates.html?utm_source=lootura.com) — 2026-07-15T21:21:03.000Z
-- [Maine Democrats’ Adventurous Political Experiment](https://www.nytimes.com/2026/07/15/us/politics/maine-democrats-senate-adventure.html?utm_source=lootura.com) — 2026-07-15T22:10:18.000Z

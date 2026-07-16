@@ -28,4 +28,4 @@ Date: 2026-07-10
 
 ## Sources
 
-- [Cancer disparities researchers say federal funding changes have disrupted their work](https://www.npr.org/2026/07/15/nx-s1-5893653/cancer-disparities-gaps-research-funding-grant-disruptions?utm_source=lootura.com) — 2026-07-15T15:16:35.000Z
+No public source links.

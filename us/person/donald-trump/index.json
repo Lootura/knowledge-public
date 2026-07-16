@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/donald-trump/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/donald-trump/index.json",
   "description": "Follow Donald Trump, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-16T10:06:43.244Z",
+  "updatedAt": "2026-07-16T13:45:32.280Z",
   "aliases": [
     "President Donald Trump",
     "President Trump",
@@ -16,18 +16,8 @@
   ],
   "changes": [
     {
-      "title": "Trump overturns pause of ICE vehicle stops implemented after deadly shootings",
-      "summary": "Neither of the victims of the ICE shootings in Maine or Texas were the target of enforcement operations, according to the Department of Homeland Security.",
-      "date": "2026-07-16"
-    },
-    {
       "title": "Todd Blanche, Trump’s Attorney General Pick, Faces Crucial Hurdle After Rocky Hearing",
       "summary": "Even a single Republican “no” vote would block Mr. Blanche’s nomination from consideration by the full Senate, which could sink his confirmation.",
-      "date": "2026-07-16"
-    },
-    {
-      "title": "Investigators Seek Information From Government Officials as Part of Air Force One Leak Investigation",
-      "summary": "After The New York Times reported on security concerns related to the Qatari-donated jet, the F.B.I. sought to speak with several people who flew aboard the plane with President Trump last week and asked for their phones.",
       "date": "2026-07-16"
     },
     {
@@ -51,26 +41,36 @@
       "date": "2026-07-16"
     },
     {
-      "title": "Trump’s Latest C.D.C. Nominee Vows Not to ‘Betray the Science’",
-      "summary": "Dr. Erica Schwartz told senators in a confirmation hearing that she did not think Robert F. Kennedy Jr. or President Trump would ask her to do anything to hurt public health. Some senators were incredulous.",
-      "date": "2026-07-15"
+      "title": "Blanche faces sharp questioning over Epstein files, relationship with Trump at hearing",
+      "summary": "During a five-hour confirmation hearing, acting AG Todd Blanche faced bipartisan scrutiny. He was questioned on his handling of the Jeffrey Epstein files and his personal relationship with President Trump. Caitlin Huey-Burns reports.",
+      "date": "2026-07-16"
     },
     {
-      "title": "Trump's intelligence nominee refuses to say who won 2020 election",
-      "summary": "Jay Clayton appeared before the Senate Intelligence Committee for his confirmation hearing to become director of national intelligence. The job is largely focused on foreign threats and national security, but much of the hearing focused instead on the recent past. Nick Schifrin reports and discusses the hearing with Fr.",
-      "date": "2026-07-15"
+      "title": "Trump wants to fence off the park closest to the White House, a popular protest spot",
+      "summary": "The Trump administration wants to install permanent fencing around Lafayette Park, directly outside the White House. It's long been a popular spot for protesters, who worry barriers will change that. (Image credit: U.S. Commission of Fine Arts).",
+      "date": "2026-07-16"
     },
     {
-      "title": "What Blanche said about Trump, Epstein files during confirmation hearing for attorney general",
-      "summary": "Acting Attorney General Todd Blanche tried to assert his independence from President Donald Trump during his confirmation hearing Wednesday before the Senate Judiciary Committee.",
-      "date": "2026-07-15"
+      "title": "The political risks from war in Iran. And, ICE's use of force is rising, report finds",
+      "summary": "The political implications the war in Iran is having on the GOP. And, a new report has found that ICE officers' use of force is not rare since President Trump took office for his second term. (Image credit: -/AFP via Getty Images).",
+      "date": "2026-07-16"
+    },
+    {
+      "title": "How Trump’s ‘original oil guy’ boosted US-Israel ties and played down risks of Iran war",
+      "summary": "Fracking billionaire Harold Hamm is co-chair of a non-profit that has aggressively pushed for US energy dominance Tycoon Harold Hamm is one of the US’s most successful oilmen, the son of Oklahoma sharecroppers who hit it rich as a “wildcatter” and pioneered fracking techniques that drove the shale boom in 2008 that rev.",
+      "date": "2026-07-16"
+    },
+    {
+      "title": "In Iran war, Trump Risks Another American ‘Forever War’",
+      "summary": "President Trump, who promised to “end wars,” not start them, may have fallen into a familiar presidential trap.",
+      "date": "2026-07-16"
     }
   ],
   "sources": [
     {
-      "title": "Trump overturns pause of ICE vehicle stops implemented after deadly shootings",
-      "url": "https://www.cbsnews.com/news/ice-agents-halt-vehicle-stops-after-shootings-maine-texas/?utm_source=lootura.com",
-      "publishedAt": "2026-07-16T01:21:16.000Z",
+      "title": "Blanche faces sharp questioning over Epstein files, relationship with Trump at hearing",
+      "url": "https://www.cbsnews.com/video/blanche-questioning-epstein-files-relationship-with-trump-confirmation-hearing/?utm_source=lootura.com",
+      "publishedAt": "2026-07-16T13:17:30.000Z",
       "sourceId": "lootura-us-cbs-news"
     },
     {
@@ -92,22 +92,28 @@
       "sourceId": "lootura-us-npr-politics"
     },
     {
+      "title": "Trump wants to fence off the park closest to the White House, a popular protest spot",
+      "url": "https://www.npr.org/2026/07/16/nx-s1-5893465/dc-lafayette-square-park-permanent-fencing-proposal?utm_source=lootura.com",
+      "publishedAt": "2026-07-16T12:13:23.000Z",
+      "sourceId": "lootura-us-npr-politics"
+    },
+    {
       "title": "Trump's Iran notice aims to reset war powers clock amid growing political risks",
       "url": "https://www.npr.org/2026/07/16/nx-s1-5894928/trumps-iran-notice-aims-to-reset-war-powers-clock-amid-growing-political-risks?utm_source=lootura.com",
       "publishedAt": "2026-07-16T08:43:30.000Z",
       "sourceId": "lootura-us-npr-politics"
     },
     {
-      "title": "Trump's intelligence nominee refuses to say who won 2020 election",
-      "url": "https://www.pbs.org/newshour/show/trumps-intelligence-nominee-refuses-to-say-who-won-2020-election?utm_source=lootura.com",
-      "publishedAt": "2026-07-15T22:50:24.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
+      "title": "The political risks from war in Iran. And, ICE's use of force is rising, report finds",
+      "url": "https://www.npr.org/2026/07/16/g-s1-133918/up-first-newsletter-iran-us-trump-jay-clayton-ice-use-of-force?utm_source=lootura.com",
+      "publishedAt": "2026-07-16T11:29:01.000Z",
+      "sourceId": "lootura-us-npr-world"
     },
     {
-      "title": "What Blanche said about Trump, Epstein files during confirmation hearing for attorney general",
-      "url": "https://www.pbs.org/newshour/politics/what-blanche-said-about-trump-epstein-files-during-confirmation-hearing?utm_source=lootura.com",
-      "publishedAt": "2026-07-15T23:34:19.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
+      "title": "How Trump’s ‘original oil guy’ boosted US-Israel ties and played down risks of Iran war",
+      "url": "https://www.theguardian.com/us-news/2026/jul/16/harold-hamm-trump-oil-israel-iran?utm_source=lootura.com",
+      "publishedAt": "2026-07-16T12:00:39.000Z",
+      "sourceId": "lootura-us-the-guardian-us"
     },
     {
       "title": "Todd Blanche, Trump’s Attorney General Pick, Faces Crucial Hurdle After Rocky Hearing",
@@ -120,13 +126,7 @@
       "url": "https://www.nytimes.com/2026/07/15/health/cdc-erica-schwartz.html?utm_source=lootura.com",
       "publishedAt": "2026-07-15T19:07:08.000Z",
       "sourceId": "lootura-us-the-new-york-times"
-    },
-    {
-      "title": "U.S. Military Again Blockades Iranian Ports After Collapse of Cease-Fire",
-      "url": "https://www.nytimes.com/2026/07/15/us/politics/us-blockade-iran.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-15T23:02:36.000Z",
-      "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 12
+  "evidenceCount": 11
 }

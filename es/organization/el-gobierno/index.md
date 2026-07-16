@@ -2,8 +2,8 @@
 
 > Sigue la actividad de El Gobierno en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
-- Type: organization
-- Actualizado: 2026-07-16T10:06:17.457Z
+- Type: person
+- Actualizado: 2026-07-16T13:45:06.103Z
 - Canonical: https://atlas.lootura.com/es/organization/el-gobierno
 
 ## Cambios recientes
@@ -11,6 +11,42 @@
 ### Ley de Amnistía por TJUE, en directo | El Gobierno celebra que la ley de amnistía “es constitucional y conforme al derecho europeo”
 
 El ministro de la Presidencia, Justicia y Relaciones con las Cortes, Félix Bolaños, ha valorado que el fallo del Tribunal de Justicia de la Unión Europea (TJUE) avale la ley de amnistía. “La ley de amnistía es plenamente compatible con el derecho europeo y queda avalada”, ha afirmado en una declaración institucional en.
+
+Date: 2026-07-16
+
+### El Gobierno pide que se aplique la amnistía tras el "éxito" en el TJUE y poner fin a un debate que en España "no fue jurídico, sino visceral"
+
+El Gobierno ha reclamado este jueves a los tribunales españoles la aplicación plena de la ley de amnistía después del aval del Tribunal de Justicia de la Unión Europea (TJUE). El ministro de Presidencia y Justicia, Félix Bolaños , ha celebrado como un "éxito" las sentencias europeas y considera que dejan "despejado el.
+
+Date: 2026-07-16
+
+### El Gobierno traspasó el palacete al PNV pese a que Hacienda avisó de que no había base para hacerlo
+
+El Consejo de Ministros cedió la titularidad de la sede del Instituto Cervantes en París al PNV en diciembre de 2024, pese a haber archivado esa petición en mayo del mismo año porque los jeltzales no habían acreditado que las sociedades que adquirieron el inmueble en 1937 actuaran por cuenta del partido. «Teniendo en c.
+
+Date: 2026-07-16
+
+### EE UU impone nuevos aranceles del 25% a gran parte de productos brasileños y acusa a Lula de no negociar “de buena fe”
+
+El Gobierno del presidente de Estados Unidos, Donald Trump, ha ordenado la imposición de un nuevo arancel del 25% sobre la mayor parte de productos brasileños importados desde este país, con fecha de aplicación a partir del 22 de julio. Es la conclusión de una investigación que acusaba a Brasil de competencia desleal.
+
+Date: 2026-07-16
+
+### El Gobierno celebra la ley de amnistía como un “logro colectivo” que ha contribuido a recuperar “la convivencia y la reconciliación”
+
+La ley de amnistía, la clave de bóveda de la legislatura que posibilitó la investidura de Pedro Sánchez y al mismo tiempo le ha supuesto un enorme desgaste al Gobierno, ha recibido el espaldarazo de la justicia europea más de dos años después de que fuese aprobada en el Congreso. El respaldo del Tribunal de Justicia de.
+
+Date: 2026-07-16
+
+### Moncloa también rabia contra la Audiencia por ratificar el juicio a Begoña Gómez: «Es una causa política»
+
+El Gobierno de Pedro Sánchez ha estallado contra la decisión de la Audiencia de Madrid que avala el procesamiento de Begoña Gómez , esposa del líder socialista, por presuntos delitos de tráfico de influencias y malversación de caudales públicos tras la instrucción del juez Juan Carlos Peinado . «Se trata de una causa p.
+
+Date: 2026-07-16
+
+### El Gobierno tilda de «causa política» el juicio contra Gómez tras la decisión de la Audiencia
+
+El Gobierno reitera que Begoña Gómez , la mujer del presidente Pedro Sánchez es « inocente » y la causa judicial en la que está inmersa es « política », después de que la Audiencia Provincial de Madrid haya confirmado la decisión del juez instructor Juan Carlos Peinado de enviarla a juicio con jurado popular. No obstan.
 
 Date: 2026-07-16
 
@@ -32,43 +68,12 @@ El consejero de Presidencia, Justicia y Administración Local de la Comunidad de
 
 Date: 2026-07-15
 
-### Discovered by Atlas
-
-El Gobierno first entered the public knowledge record with source-backed evidence.
-
-Date: 2026-07-14
-
-### Cataluña, Madrid y Andalucía asumen el 49% del coste total del absentismo
-
-El absentismo se ha convertido en uno de los debates centrales del plano político y social. El Gobierno mantiene abierta una mesa de negociación con patronales y sindicatos que de momento ha resultado infructuosa, pero en la que se han planteado medidas para tratar contener el creciente impacto económico que desde CEOE.
-
-Date: 2026-07-14
-
-### El Gobierno denuncia que lo pretenden “derribar” ante “la incapacidad de hacerlo por las urnas” tras la condena al hermano de Sánchez
-
-esperaba la absolución de David Sánchez y no estaba preparado para la condena de nueve años de inhabilitación al hermano del presidente por prevaricación. El fallo de la Audiencia Provincial de Badajoz, combinado con las últimas decisiones en la controvertida causa del juez Peinado contra Begoña Gómez, con.
-
-Date: 2026-07-14
-
-### ¿Qué pasa ahora tras el rechazo a la senda fiscal? El Gobierno afrontará una segunda votación que anticipa un escenario inédito
-
-Primer revés para el Gobierno. El Congreso de los Diputados ha tumbado en la tarde de este martes la senda de estabilidad que el Ejecutivo necesita para poner en marcha la elaboración del proyecto de Presupuestos Generales del Estado, después de tres años consecutivos de prórrogas . Sin embargo, aunque esperada desde h.
-
-Date: 2026-07-14
-
-### El Congreso tumba la senda de déficit para los Presupuestos con los votos de PP, Junts y Vox
-
-sigue adelante con su plan, aunque no está resultando como desearía. Este martes, el pleno del Congreso de los Diputados ha tumbado la senda de déficit que serviría de base para los Presupuestos Generales del Estado (PGE) correspondientes al ejercicio 2027. Como se preveía, la mayoría de la cámara baja, inc.
-
-Date: 2026-07-14
-
-### El Gobierno aprueba la ley contra la violencia vicaria que suspende la patria potestad a los maltratadores condenados
-
-ha aprobado este martes en segunda ronda el anteproyecto de ley contra la violencia vicaria que se establece como una circunstancia agravante por razón de género y prevé la suspensión de forma automática de la patria potestad a los maltratadores en caso de que haya una sentencia firme de delitos de género o.
-
-Date: 2026-07-14
-
 ## Fuentes
 
+- [El Gobierno pide que se aplique la amnistía tras el "éxito" en el TJUE y poner fin a un debate que en España "no fue jurídico, sino visceral"](https://www.20minutos.es/nacional/gobierno-pide-aplicar-amnistia-tras-exito-tjue-poner-fin-un-debate-que-espana-no-fue-juridico-sino-visceral_7015374_0.html?utm_source=lootura.com) — 2026-07-16T10:28:16.000Z
+- [El Gobierno traspasó el palacete al PNV pese a que Hacienda avisó de que no había base para hacerlo](https://www.abc.es/espana/hacienda-concluyo-pruebas-entregar-pnv-palacete-paris-20260716015436-nt.html?utm_source=lootura.com) — 2026-07-16T12:30:42.000Z
+- [EE UU impone nuevos aranceles del 25% a gran parte de productos brasileños y acusa a Lula de no negociar “de buena fe”](https://elpais.com/economia/2026-07-16/estados-unidos-impone-nuevos-aranceles-del-25-a-la-mayor-parte-de-productos-brasilenos-y-acusa-a-lula-de-no-negociar-de-buena-fe.html?utm_source=lootura.com) — 2026-07-16T12:29:57.000Z
+- [El Gobierno celebra la ley de amnistía como un “logro colectivo” que ha contribuido a recuperar “la convivencia y la reconciliación”](https://elpais.com/espana/2026-07-16/el-gobierno-celebra-que-la-ley-de-amnistia-es-constitucional-y-conforme-al-derecho-europeo.html?utm_source=lootura.com) — 2026-07-16T10:06:55.000Z
 - [Ley de Amnistía por TJUE, en directo | El Gobierno celebra que la ley de amnistía “es constitucional y conforme al derecho europeo”](https://elpais.com/espana/2026-07-16/ultima-hora-de-la-sentencia-de-ley-de-amnistia-por-el-tjue-y-el-futuro-de-puigdemont-en-directo.html?utm_source=lootura.com) — 2026-07-16T10:01:27.000Z
-- [Lula da Silva activa la ley de reciprocidad contra los aranceles de EEUU y culpa a los Bolsonaro: "Son falsos patriotas"](https://www.larazon.es/internacional/lula-silva-activa-ley-reciprocidad-aranceles-eeuu-culpa-bolsonaro-son-falsos-patriotas_202607166a58ac55e9f2e84b5c6b696f.html?utm_source=lootura.com) — 2026-07-16T10:03:01.000Z
+- [Moncloa también rabia contra la Audiencia por ratificar el juicio a Begoña Gómez: «Es una causa política»](https://okdiario.com/espana/moncloa-tambien-rabia-contra-audiencia-ratificar-juicio-begona-gomez-causa-politica-19009566?utm_source=lootura.com) — 2026-07-16T13:17:34.000Z
+- [El Gobierno tilda de «causa política» el juicio contra Gómez tras la decisión de la Audiencia](https://theobjective.com/espana/politica/2026-07-16/gobierno-causa-politica-juicio-gomez-audiencia/?utm_source=lootura.com) — 2026-07-16T12:56:16.000Z

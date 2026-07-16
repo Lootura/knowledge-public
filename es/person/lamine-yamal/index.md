@@ -58,4 +58,4 @@ Date: 2026-07-08
 
 ## Fuentes
 
-- [Leo Messi bañando al bebé Lamine Yamal: la fotografía de la final del Mundial nació hace casi dos décadas](https://elpais.com/deportes/mundial-futbol/2026-07-15/leo-messi-banando-al-bebe-lamine-yamal-la-fotografia-de-la-final-del-mundial-nacio-hace-casi-dos-decadas.html?utm_source=lootura.com) — 2026-07-15T22:16:26.000Z
+No public source links.

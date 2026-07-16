@@ -3,7 +3,7 @@
 > Sigue la actividad de Lionel Messi en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-16T10:06:17.457Z
+- Actualizado: 2026-07-16T13:45:06.103Z
 - Canonical: https://atlas.lootura.com/es/person/lionel-messi
 
 ## Cambios recientes
@@ -28,5 +28,4 @@ Date: 2026-07-15
 
 ## Fuentes
 
-- [Victoria Beckham y Antonela Roccuzzo, el otro gran duelo de la semifinal del Mundial](https://www.abc.es/estilo/moda/victoria-beckham-antonela-roccuzzo-gran-duelo-semifinal-20260716105052-nt.html?utm_source=lootura.com) — 2026-07-16T09:51:13.000Z
-- [Messi emula a Maradona ante Inglaterra y va a por Pelé](https://elpais.com/deportes/mundial-futbol/2026-07-15/messi-emula-a-maradona-ante-inglaterra-y-va-a-por-pele.html?utm_source=lootura.com) — 2026-07-15T21:51:57.000Z
+- [La reivindicación de Messi y Scaloni en una Argentina "única" camino de la final con España: "Digan lo que digan, no nos regalan nada"](https://www.elmundo.es/deportes/futbol/mundial-de-futbol/2026/07/16/6a584d10e85ece460c8b4598.html?utm_source=lootura.com) — 2026-07-16T13:07:03.000Z

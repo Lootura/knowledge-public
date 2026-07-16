@@ -8,9 +8,14 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/iran/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/iran/index.json",
   "description": "Sigue la actividad de Iran en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-16T10:06:17.457Z",
+  "updatedAt": "2026-07-16T13:45:06.103Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "El Ibex pierde los 19.200 puntos atento a resultados y tecnológicas",
+      "summary": "Los mercados siguen encontrando obstáculos que atenazan sus subidas. La nueva espiral de ataques de EEUU sobre Irán y la subida de tipos en Corea mantienen en guardia a los inversores. El Ibex, con movimientos estrechos durante toda la semana, vuelve a consolidar niveles en el día del estreno en Bolsa de Digi.",
+      "date": "2026-07-16"
+    },
     {
       "title": "Las Bolsas europeas se estabilizan con el foco en los resultados y el petróleo",
       "summary": "Los datos de inflación en EE UU más suaves de lo esperado han disipado las preocupaciones en torno a que la Reserva Federal (Fed) suba los tipos de interés a corto plazo, aunque la cautela en torno a Irán y las fuertes pérdidas en los valores de semiconductores mantienen la prudencia en los mercados. EE UU e Irán conti.",
@@ -55,26 +60,15 @@
       "title": "Irán, la Fed y las 'midterm', un cóctel explosivo para la Bolsa en verano",
       "summary": "El conflicto en Irán sigue dando coletazos que mantienen la tensión en el estrecho de Ormuz y unos precios elevados del petróleo. Seguir leyendo.",
       "date": "2026-07-14"
-    },
-    {
-      "title": "La inflación en Estados Unidos registró en junio el primer descenso mensual desde 2020",
-      "summary": "La inflación en Estados Unidos se moderó en junio, coincidiendo con el alto el fuego con Irán y la reapertura del estrecho de Ormuz. El índice de precios al consumo (IPC) se moderó hasta el 3,5% en junio, siete décimas menos que el 4,2% registrado en mayo, según el dato difundido este martes por la Oficina de Estadísti.",
-      "date": "2026-07-14"
     }
   ],
   "sources": [
     {
-      "title": "Las Bolsas europeas se estabilizan con el foco en los resultados y el petróleo",
-      "url": "https://cincodias.elpais.com/mercados-financieros/2026-07-16/la-bolsa-y-el-ibex-35.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-16T04:34:20.000Z",
-      "sourceId": "lootura-es-cinco-dias"
-    },
-    {
-      "title": "El Ibex vuelve a consolidar niveles",
+      "title": "El Ibex pierde los 19.200 puntos atento a resultados y tecnológicas",
       "url": "https://www.expansion.com/mercados/cronica-bolsa/2026/07/16/6a58713e468aeb64098b4570.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-16T08:09:31.000Z",
+      "publishedAt": "2026-07-16T12:20:53.000Z",
       "sourceId": "lootura-es-expansion"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

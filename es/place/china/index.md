@@ -3,20 +3,20 @@
 > Sigue la actividad de China en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-16T10:06:17.457Z
+- Actualizado: 2026-07-16T13:45:06.103Z
 - Canonical: https://atlas.lootura.com/es/place/china
 
 ## Cambios recientes
 
-### El 'efecto Trump': China ya es más popular que Estados Unidos
-
-Un año y medio después de su regreso a la Casa Blanca, Donald Trump ya ha logrado un vuelco planetario: por primera vez, China tiene una visión más favorable que Estados Unidos a nivel global . Así lo demuestra la última edición del estudio anual de opinión pública realizado por el Pew Research Center, publicada este j.
-
-Date: 2026-07-16
-
 ### Cómo el ‘Temu Range Rover’ de China se convirtió en el coche más vendido de Gran Bretaña
 
 Los Land Rover son tan británicos como el rey, los crumpets y el críquet. Este robusto todoterreno ha sido un caballo de batalla para el ejército británico desde 1948. La familia real cuenta con una flota de Landys en su castillo de Escocia. Y en los Cotswolds —el destino de fin de semana por excelencia de Inglaterra,.
+
+Date: 2026-07-16
+
+### El 'efecto Trump': China ya es más popular que Estados Unidos
+
+Un año y medio después de su regreso a la Casa Blanca, Donald Trump ya ha logrado un vuelco planetario: por primera vez, China tiene una visión más favorable que Estados Unidos a nivel global . Así lo demuestra la última edición del estudio anual de opinión pública realizado por el Pew Research Center, publicada este j.
 
 Date: 2026-07-16
 
@@ -70,5 +70,4 @@ Date: 2026-07-14
 
 ## Fuentes
 
-- [El 'efecto Trump': China ya es más popular que Estados Unidos](https://www.abc.es/internacional/efecto-trump-china-popular-estados-unidos-20260716113053-nt.html?utm_source=lootura.com) — 2026-07-16T09:35:43.000Z
 - [Cómo el ‘Temu Range Rover’ de China se convirtió en el coche más vendido de Gran Bretaña](https://cincodias.elpais.com/companias/2026-07-16/como-el-temu-range-rover-de-china-se-convirtio-en-el-coche-mas-vendido-de-gran-bretana.html?utm_source=lootura.com) — 2026-07-16T09:46:24.000Z

@@ -8,20 +8,20 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/pais-vasco/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/pais-vasco/index.json",
   "description": "Sigue la actividad de País Vasco en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-16T10:06:17.457Z",
+  "updatedAt": "2026-07-16T13:45:06.103Z",
   "aliases": [
     "Basque Country",
     "Euskadi"
   ],
   "changes": [
     {
-      "title": "Las familias de Gipuzkoa son las que más gastan en Euskadi y disparan su inversión en salud un 33%",
-      "summary": "La factura total de los hogares alcanza los 40.917 euros por el precio de la vivienda y los alimentos, una cifra muy superior al registrado en Bizkaia y Araba.",
+      "title": "La cifra de muertes por calor en Bizkaia desde mayo duplica a la de todo el verano pasado",
+      "summary": "Euskadi anota 282 fallecidos, la segunda cifra más alta de España por detrás de Cataluña, que contó 389 decesos.",
       "date": "2026-07-15"
     },
     {
-      "title": "La cifra de muertes por calor en Bizkaia desde mayo duplica a la de todo el verano pasado",
-      "summary": "Euskadi anota 282 fallecidos, la segunda cifra más alta de España por detrás de Cataluña, que contó 389 decesos.",
+      "title": "Las familias de Gipuzkoa son las que más gastan en Euskadi y disparan su inversión en salud un 33%",
+      "summary": "La factura total de los hogares alcanza los 40.917 euros por el precio de la vivienda y los alimentos, una cifra muy superior al registrado en Bizkaia y Araba.",
       "date": "2026-07-15"
     },
     {
@@ -71,13 +71,7 @@
       "url": "https://www.elcorreo.com/sociedad/cifra-muertes-calor-bizkaia-mayo-duplica-verano-20260715005400-nt_amp.html?utm_source=lootura.com",
       "publishedAt": "2026-07-15T22:54:01.000Z",
       "sourceId": "lootura-es-el-correo"
-    },
-    {
-      "title": "Las familias de Gipuzkoa son las que más gastan en Euskadi y disparan su inversión en salud un 33%",
-      "url": "https://www.diariovasco.com/gipuzkoa/gipuzkoa-territorio-vasco-gasto-medio-hogar-40917-20260715120830-nt_amp.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-15T10:08:31.000Z",
-      "sourceId": "lootura-es-el-diario-vasco"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

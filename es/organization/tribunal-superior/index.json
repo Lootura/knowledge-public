@@ -1,0 +1,45 @@
+{
+  "id": "es-tribunal-superior",
+  "name": "Tribunal Superior",
+  "type": "organization",
+  "locale": "es",
+  "canonicalPath": "/es/organization/tribunal-superior",
+  "canonicalUrl": "https://atlas.lootura.com/es/organization/tribunal-superior",
+  "markdownUrl": "https://atlas.lootura.com/es/organization/tribunal-superior/index.md",
+  "jsonUrl": "https://atlas.lootura.com/es/organization/tribunal-superior/index.json",
+  "description": "Sigue la actividad de Tribunal Superior en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
+  "updatedAt": "2026-07-16T13:45:06.103Z",
+  "aliases": [],
+  "changes": [
+    {
+      "title": "El humorista Héctor de Miguel, Quequé, queda libre tras ser detenido por un delito de desobediencia",
+      "summary": "El humorista Héctor de Miguel, conocido como Quequé, ha quedado en libertad este jueves tras ser detenido por la Policía Nacional la pasada noche en Salamanca por un delito de desobediencia por el que está siendo investigado en un juzgado de Madrid, según ha informado el Tribunal Superior de Justicia de Castilla y León.",
+      "date": "2026-07-16"
+    },
+    {
+      "title": "En libertad el humorista Quequé tras ser detenido en Salamanca por una reclamación judicial",
+      "summary": "El humorista Héctor de Miguel, conocido como Quequé , ha quedado en libertad este jueves tras ser detenido por la Policía Nacional la pasada noche en Salamanca por un delito de desobediencia por el que está siendo investigado en un juzgado de Madrid , según ha informado el Tribunal Superior de Justicia de Castilla y Le.",
+      "date": "2026-07-16"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Tribunal Superior first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-07-16"
+    }
+  ],
+  "sources": [
+    {
+      "title": "El humorista Héctor de Miguel, Quequé, queda libre tras ser detenido por un delito de desobediencia",
+      "url": "https://www.20minutos.es/gente/libertad-humorista-hector-miguel-queque-tras-ser-detenido-por-un-delito-desobediencia_7015480_0.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-16T12:38:49.000Z",
+      "sourceId": "lootura-es-20minutos"
+    },
+    {
+      "title": "En libertad el humorista Quequé tras ser detenido en Salamanca por una reclamación judicial",
+      "url": "https://www.elconfidencial.com/espana/2026-07-16/queque-detenido-salamanca-reclamacion-judicial-1tna-1tps_4390995/?utm_source=lootura.com",
+      "publishedAt": "2026-07-16T09:58:00.000Z",
+      "sourceId": "lootura-es-el-confidencial"
+    }
+  ],
+  "evidenceCount": 2
+}

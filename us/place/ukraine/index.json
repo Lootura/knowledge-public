@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/ukraine/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/ukraine/index.json",
   "description": "Follow Ukraine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-16T10:06:43.244Z",
+  "updatedAt": "2026-07-16T13:45:32.280Z",
   "aliases": [
     "Kyiv"
   ],
@@ -16,6 +16,31 @@
     {
       "title": "How drones are reshaping modern warfare in Ukraine, Middle East",
       "summary": "Drones have become a defining feature of the conflict between Russia and Ukraine. They.",
+      "date": "2026-07-16"
+    },
+    {
+      "title": "Ukrainian's Zelenskyy faces major backlash for ousting defense chief Mykhailo Fedorov amid progress vs. Russia",
+      "summary": "Ukrainians are demonstrating in Kyiv and senior figures announcing their resignations over President Volodymyr Zelenksyy's move to oust his popular defense chief.",
+      "date": "2026-07-16"
+    },
+    {
+      "title": "Zelenskyy fires Ukraine's tech-savvy defense minister in government reshuffle",
+      "summary": "Ukraine's President Volodymyr Zelenskyy has fired the country's popular defense minister, who pushed for innovation in the battlefield through the use of drones and turned the tables on Russia. (Image credit: ROMAN PILIPEY).",
+      "date": "2026-07-16"
+    },
+    {
+      "title": "Ukraine’s Ousted Defense Minister Attacks the Military’s Old Guard",
+      "summary": "Mykhailo Fedorov defended his efforts to modernize the Ukrainian armed forces as thousands of people protested his dismissal.",
+      "date": "2026-07-16"
+    },
+    {
+      "title": "Ukraine’s Minister of Defense, a Proponent of Drone Warfare, Is Forced Out",
+      "summary": "Mykhailo Fedorov announced he was leaving the ministry on Wednesday after conflicts with generals and military contractors over the role of innovative weaponry.",
+      "date": "2026-07-16"
+    },
+    {
+      "title": "The Essentials About Mykhailo Fedorov, the Ousted Ukrainian Minister",
+      "summary": "Mr. Fedorov became the youthful face of Ukraine’s successful drone warfare program. The move to replace him has prompted street protests.",
       "date": "2026-07-16"
     },
     {
@@ -37,38 +62,13 @@
       "title": "Europe, Flexing Muscle in Ukraine, Is Still on Sidelines in Iran",
       "summary": "In a show of collective strength, President Emmanuel Macron of France hosted European allies at the annual Bastille Day parade in Paris. Yet Europe is still a hostage to America’s foreign policy.",
       "date": "2026-07-14"
-    },
-    {
-      "title": "Ukraine Wants to Make Its Own Antimissile System, Not Just Patriots",
-      "summary": "The Ukrainian firm Fire Point has produced weapons that hit Russian territory. Its next goal, developing an antimissile system, is a much bigger challenge, experts said.",
-      "date": "2026-07-14"
-    },
-    {
-      "title": "Ukraine fears it will have a weaker link to Trump after Sen. Lindsey Graham's sudden death",
-      "summary": "has lost a close ally in President Donald Trump's orbit, leaving its leaders grappling with the implications for their war-torn country.",
-      "date": "2026-07-13"
-    },
-    {
-      "title": "Ukraine and 9 other countries form coalition to protect Europe from ballistic missiles",
-      "summary": "and nine other countries have announced a coalition to protect Europe from ballistic missiles, taking advantage of Kyiv's experience of fighting Russia.",
-      "date": "2026-07-13"
-    },
-    {
-      "title": "With Lindsey Graham Gone, Ukraine Loses an Ally in Trump’s Ear",
-      "summary": "The South Carolina Republican was Ukraine’s most influential champion inside President Trump’s mostly “America First” political orbit.",
-      "date": "2026-07-13"
-    },
-    {
-      "title": "A Robot Army Remakes Ground Warfare in Ukraine",
-      "summary": "They began as supply mules. Now ground robots evacuate the wounded, hold trenches and even do the killing.",
-      "date": "2026-07-13"
     }
   ],
   "sources": [
     {
-      "title": "Ukrainians protest over Zelenskyy's move to oust popular defense chief",
+      "title": "Ukrainian's Zelenskyy faces major backlash for ousting defense chief Mykhailo Fedorov amid progress vs. Russia",
       "url": "https://www.cbsnews.com/news/ukrainian-protest-zelenskyy-oust-defense-chief-mykhailo-fedorov-russia-war/?utm_source=lootura.com",
-      "publishedAt": "2026-07-16T09:33:04.000Z",
+      "publishedAt": "2026-07-16T13:39:04.000Z",
       "sourceId": "lootura-us-cbs-news"
     },
     {
@@ -78,11 +78,29 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "Dismissal of Ukraine's popular defense minister draws intense criticism",
-      "url": "https://www.npr.org/2026/07/16/nx-s1-5894781/dismissal-of-ukraines-popular-defense-minister-draws-intense-criticism?utm_source=lootura.com",
-      "publishedAt": "2026-07-16T08:44:04.000Z",
+      "title": "Zelenskyy fires Ukraine's tech-savvy defense minister in government reshuffle",
+      "url": "https://www.npr.org/2026/07/16/g-s1-133920/ukraine-defense-minister-fired?utm_source=lootura.com",
+      "publishedAt": "2026-07-16T11:33:11.000Z",
       "sourceId": "lootura-us-npr-world"
+    },
+    {
+      "title": "Ukraine’s Ousted Defense Minister Attacks the Military’s Old Guard",
+      "url": "https://www.nytimes.com/2026/07/16/world/europe/ukraine-fedorov-protests.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-16T13:37:50.000Z",
+      "sourceId": "lootura-us-the-new-york-times-world"
+    },
+    {
+      "title": "Ukraine’s Minister of Defense, a Proponent of Drone Warfare, Is Forced Out",
+      "url": "https://www.nytimes.com/2026/07/15/world/europe/ukraine-minister-of-defense-mykhailo-fedorov-zelensky-war-russia.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-16T11:41:48.000Z",
+      "sourceId": "lootura-us-the-new-york-times-world"
+    },
+    {
+      "title": "The Essentials About Mykhailo Fedorov, the Ousted Ukrainian Minister",
+      "url": "https://www.nytimes.com/2026/07/16/world/europe/who-mykhailo-fedorov-ukraine-defense-minister.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-16T13:21:39.000Z",
+      "sourceId": "lootura-us-the-new-york-times-world"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 6
 }

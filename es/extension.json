@@ -1,86 +1,85 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-16T10:11:35.635Z",
+  "generatedAt": "2026-07-16T13:50:18.768Z",
   "radar": {
     "id": "es",
     "slug": "es",
     "locale": "es"
   },
   "state": {
-    "signature": "1.16.0|3|1784196377457",
+    "signature": "1.16.0|4|1784209506103",
     "version": "1.16.0",
-    "build": 3,
-    "latestEntityUpdatedAt": "2026-07-16T10:06:17.457Z"
+    "build": 4,
+    "latestEntityUpdatedAt": "2026-07-16T13:45:06.103Z"
   },
   "atlas": {
     "hero": {
-      "id": "es-la-justicia",
-      "name": "La Justicia",
+      "id": "es-el-tribunal",
+      "name": "El Tribunal",
       "type": "organization",
-      "title": "La Justicia europea avala la amnistía y allana la vuelta de Puigdemont a España",
-      "url": "https://atlas.lootura.com/es/organization/la-justicia",
-      "path": "/es/organization/la-justicia",
-      "updatedAt": "2026-07-16T10:06:17.457Z",
-      "score": 11545,
-      "sourceCount": 3,
-      "isBreaking": true,
-      "isPinned": false,
-      "badgeLabel": "Breaking"
+      "title": "El TJUE avala la ley de Amnistía pero Puigdemont no volverá de momento",
+      "url": "https://atlas.lootura.com/es/organization/el-tribunal",
+      "path": "/es/organization/el-tribunal",
+      "updatedAt": "2026-07-16T13:45:06.103Z",
+      "score": 1633,
+      "sourceCount": 12,
+      "isBreaking": false,
+      "isPinned": false
     },
     "cards": [
       {
-        "id": "es-el-tribunal",
-        "name": "El Tribunal",
-        "type": "organization",
-        "title": "El TJUE avala la ley de Amnistía pero Puigdemont no volverá de momento",
-        "url": "https://atlas.lootura.com/es/organization/el-tribunal",
-        "path": "/es/organization/el-tribunal",
-        "updatedAt": "2026-07-16T10:06:17.457Z",
-        "score": 1641,
+        "id": "es-madrid",
+        "name": "Madrid",
+        "type": "place",
+        "title": "La Audiencia de Madrid avala que la causa contra Begoña Gómez siga adelante por jurado por dos delitos",
+        "url": "https://atlas.lootura.com/es/place/madrid",
+        "path": "/es/place/madrid",
+        "updatedAt": "2026-07-16T13:45:06.103Z",
+        "score": 1610,
+        "sourceCount": 149,
+        "isBreaking": false,
+        "isPinned": false
+      },
+      {
+        "id": "es-begona-gomez",
+        "name": "Begoña Gómez",
+        "type": "person",
+        "title": "La Audiencia de Madrid avala que la causa contra Begoña Gómez siga adelante por jurado por dos delitos",
+        "url": "https://atlas.lootura.com/es/person/begona-gomez",
+        "path": "/es/person/begona-gomez",
+        "updatedAt": "2026-07-16T13:45:06.103Z",
+        "score": 1609,
+        "sourceCount": 22,
+        "isBreaking": false,
+        "isPinned": false
+      },
+      {
+        "id": "es-guardia-civil",
+        "name": "Guardia Civil",
+        "type": "person",
+        "title": "El DAO de la Guardia Civil abrió un expediente a la UCO tras recibir una llamada de queja de Marlaska",
+        "url": "https://atlas.lootura.com/es/organization/guardia-civil",
+        "path": "/es/organization/guardia-civil",
+        "updatedAt": "2026-07-16T13:45:06.103Z",
+        "score": 1590,
         "sourceCount": 14,
         "isBreaking": false,
         "isPinned": false
       },
       {
-        "id": "es-pedro-sanchez",
-        "name": "Pedro Sánchez",
+        "id": "es-el-gobierno",
+        "name": "El Gobierno",
         "type": "person",
-        "title": "La condena de David Sánchez espolea al PSOE: “La derecha política y judicial está logrando el efecto contrario”",
-        "url": "https://atlas.lootura.com/es/person/pedro-sanchez",
-        "path": "/es/person/pedro-sanchez",
-        "updatedAt": "2026-07-16T10:06:17.457Z",
-        "score": 1584,
-        "sourceCount": 139,
-        "isBreaking": false,
-        "isPinned": false
-      },
-      {
-        "id": "es-united-states",
-        "name": "Estados Unidos",
-        "type": "place",
-        "title": "La OTAN se plantea cómo defender Europa oriental ante la retirada de Estados Unidos",
-        "url": "https://atlas.lootura.com/es/place/united-states",
-        "path": "/es/place/united-states",
-        "updatedAt": "2026-07-16T10:06:17.457Z",
-        "score": 1566,
-        "sourceCount": 83,
-        "isBreaking": false,
-        "isPinned": false
-      },
-      {
-        "id": "es-espana",
-        "name": "España",
-        "type": "place",
-        "title": "La Justicia europea avala la amnistía y allana la vuelta de Puigdemont a España",
-        "url": "https://atlas.lootura.com/es/place/espana",
-        "path": "/es/place/espana",
-        "updatedAt": "2026-07-16T10:06:17.457Z",
-        "score": 1563,
-        "sourceCount": 277,
+        "title": "El Gobierno pide que se aplique la amnistía tras el \"éxito\" en el TJUE y poner fin a un debate que en España \"no fue jurídico, sino visceral\"",
+        "url": "https://atlas.lootura.com/es/organization/el-gobierno",
+        "path": "/es/organization/el-gobierno",
+        "updatedAt": "2026-07-16T13:45:06.103Z",
+        "score": 1587,
+        "sourceCount": 19,
         "isBreaking": false,
         "isPinned": false
       }
     ],
-    "publicEntityCount": 39
+    "publicEntityCount": 45
   }
 }

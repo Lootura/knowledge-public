@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/espana/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/espana/index.json",
   "description": "Follow Spain, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-16T10:06:43.244Z",
+  "updatedAt": "2026-07-16T13:45:32.280Z",
   "aliases": [
     "Estado español",
     "Spain"
@@ -57,11 +57,11 @@
   ],
   "sources": [
     {
-      "title": "Argentina rallies past bitter rival England to book spot in World Cup final",
-      "url": "https://www.cbsnews.com/news/argentina-beats-england-world-cup-final/?utm_source=lootura.com",
-      "publishedAt": "2026-07-16T01:18:24.000Z",
+      "title": "Who will win the World Cup: Spain or Argentina?",
+      "url": "https://www.cbsnews.com/video/who-will-win-the-world-cup-spain-or-argentina/?utm_source=lootura.com",
+      "publishedAt": "2026-07-16T13:28:44.000Z",
       "sourceId": "lootura-us-cbs-news"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 0
 }

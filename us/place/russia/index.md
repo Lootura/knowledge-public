@@ -3,7 +3,7 @@
 > Follow Russia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-16T10:06:43.244Z
+- Updated: 2026-07-16T13:45:32.280Z
 - Canonical: https://atlas.lootura.com/us/place/russia
 
 ## Recent changes
@@ -11,6 +11,18 @@
 ### How drones are reshaping modern warfare in Ukraine, Middle East
 
 Drones have become a defining feature of the conflict between Russia and Ukraine. They.
+
+Date: 2026-07-16
+
+### Ukrainian's Zelenskyy faces major backlash for ousting defense chief Mykhailo Fedorov amid progress vs. Russia
+
+Ukrainians are demonstrating in Kyiv and senior figures announcing their resignations over President Volodymyr Zelenksyy's move to oust his popular defense chief.
+
+Date: 2026-07-16
+
+### Zelenskyy fires Ukraine's tech-savvy defense minister in government reshuffle
+
+Ukraine's President Volodymyr Zelenskyy has fired the country's popular defense minister, who pushed for innovation in the battlefield through the use of drones and turned the tables on Russia. (Image credit: ROMAN PILIPEY).
 
 Date: 2026-07-16
 
@@ -56,19 +68,8 @@ Ukrainians, already drone innovators, are turning their focus to psychological o
 
 Date: 2026-07-13
 
-### Japan Is Building a New Intelligence Agency With Help From the West
-
-Facing threats from Russia and China, Prime Minister Sanae Takaichi is breaking with World War II-era limits on security.
-
-Date: 2026-07-13
-
-### Japan Is Building a New Intelligence Agency With Help From the West
-
-Facing threats from Russia and China, Prime Minister Sanae Takaichi is breaking with World War II-era limits on security.
-
-Date: 2026-07-13
-
 ## Sources
 
+- [Ukrainian's Zelenskyy faces major backlash for ousting defense chief Mykhailo Fedorov amid progress vs. Russia](https://www.cbsnews.com/news/ukrainian-protest-zelenskyy-oust-defense-chief-mykhailo-fedorov-russia-war/?utm_source=lootura.com) — 2026-07-16T13:39:04.000Z
 - [How drones are reshaping modern warfare in Ukraine, Middle East](https://www.cbsnews.com/video/drones-warfare-iran-ukraine-russia-middle-east/?utm_source=lootura.com) — 2026-07-16T02:13:49.000Z
-- [Dismissal of Ukraine's popular defense minister draws intense criticism](https://www.npr.org/2026/07/16/nx-s1-5894781/dismissal-of-ukraines-popular-defense-minister-draws-intense-criticism?utm_source=lootura.com) — 2026-07-16T08:44:04.000Z
+- [Zelenskyy fires Ukraine's tech-savvy defense minister in government reshuffle](https://www.npr.org/2026/07/16/g-s1-133920/ukraine-defense-minister-fired?utm_source=lootura.com) — 2026-07-16T11:33:11.000Z

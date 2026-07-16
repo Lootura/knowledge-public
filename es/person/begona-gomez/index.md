@@ -3,10 +3,46 @@
 > Sigue la actividad de Begoña Gómez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-16T10:06:17.457Z
+- Actualizado: 2026-07-16T13:45:06.103Z
 - Canonical: https://atlas.lootura.com/es/person/begona-gomez
 
 ## Cambios recientes
+
+### La Audiencia de Madrid avala enjuiciar ante un jurado a Begoña Gómez y le devuelve el pasaporte
+
+La Audiencia Provincial de Madrid ha avalado la decisión del juez Juan Carlos Peinado de enviar a Begoña Gómez a juicio ante el tribunal del jurado por delitos de malversación y tráfico de influencias . En cambio, ha revocado el enjuiciamiento por delitos de corrupción en los negocios y apropiación indebida, y ha acord.
+
+Date: 2026-07-16
+
+### ¿Podrías juzgar tú a Begoña Gómez? Los requisitos de la ley para formar parte de su jurado popular
+
+Esta decisión procesal vuelve a poner el foco en una de las instituciones más singulares de la justicia, donde el veredicto final recae sobre perso...
+
+Date: 2026-07-16
+
+### La Audiencia de Madrid avala que la causa contra Begoña Gómez siga adelante por jurado por dos delitos
+
+La Audiencia Provincial de Madrid ha dado luz verde a que el proceso por jurado popular contra Begoña Gómez, esposa de Pedro Sánchez, siga adelante por dos delitos: tráfico de influencias y malversación. El tribunal avala así parcialmente la decisión del juez Juan Carlos Peinado de enviar al banquillo a la pareja del p.
+
+Date: 2026-07-16
+
+### Moncloa también rabia contra la Audiencia por ratificar el juicio a Begoña Gómez: «Es una causa política»
+
+El Gobierno de Pedro Sánchez ha estallado contra la decisión de la Audiencia de Madrid que avala el procesamiento de Begoña Gómez , esposa del líder socialista, por presuntos delitos de tráfico de influencias y malversación de caudales públicos tras la instrucción del juez Juan Carlos Peinado . «Se trata de una causa p.
+
+Date: 2026-07-16
+
+### El PP, tras mantenerse el juicio con jurado a Begoña Gómez: «Una situación inconcebible»
+
+El Partido Popular ha asegurado este jueves que la Audiencia Provincial de Madrid ha confirmado que Begoña Gómez , esposa del presidente del Gobierno, «se sentará en un banquillo» y ha recalcado que se trata de una situación «sin precedentes en la democracia española e inconcebible en cualquier democracia europea », se.
+
+Date: 2026-07-16
+
+### El Gobierno tilda de «causa política» el juicio contra Gómez tras la decisión de la Audiencia
+
+El Gobierno reitera que Begoña Gómez , la mujer del presidente Pedro Sánchez es « inocente » y la causa judicial en la que está inmersa es « política », después de que la Audiencia Provincial de Madrid haya confirmado la decisión del juez instructor Juan Carlos Peinado de enviarla a juicio con jurado popular. No obstan.
+
+Date: 2026-07-16
 
 ### Y ahora, a por Begoña Gómez
 
@@ -32,42 +68,11 @@ Afea al juez que se creyera el bulo de "ciertos medios" de que la esposa de Pedr
 
 Date: 2026-07-15
 
-### Begoña Gómez entrega los billetes de avión y reprocha a Peinado que le exija unos sellos de pasaporte que Reino Unido no estampa
-
-La defensa de la mujer del presidente advierte al juez de que le está exigiendo una “prueba diabólica”, que no existe, y critica que sea la investigada quien deba demostrar el viaje y no al revés, así que insta a Peinado a que se diriga a Reino Unido, único actor que puede acreditar la estancia El juez Peinado exige a.
-
-Date: 2026-07-15
-
-### Begoña Gómez aporta los billetes de su viaje a Londres y critica al juez por cuestionar su presunción de inocencia
-
-, la esposa del presidente del Gobierno, ha entregado al juez Juan Carlos Peinado los billetes de avión que certifican que viajó a Londres para acudir a la celebración de la graduación de su hija y que, por tanto, no quebrantó la medida cautelar impuesta por el magistrado, que le autorizó a desplazarse fue.
-
-Date: 2026-07-15
-
-### David Sánchez, el hijo de Magdalena y Pedro
-
-El 22 de julio de 2019, durante el debate de investidura de Pedro Sánchez, los periodistas sentados en la tribuna jugábamos a adivinar el nombre de los presentes en la zona de invitados. Ahí estaba Begoña Gómez, en primera fila, junto a un matrimonio con el que conversaba con cercanía, pero con la distancia suficiente.
-
-Date: 2026-07-14
-
-### Última hora de la actualidad política, en directo | Rufián, sobre la condena a David Sánchez: “Es una sobrada importante (…) Luego viene Begoña Gómez”
-
-David Sánchez, hermano del presidente del Gobierno, ha sido condenado a nueve años de inhabilitación por un delito de prevaricación, y las reacciones políticas no se han hecho esperar. El portavoz de ERC en el Congreso, Gabriel Rufián, ha considerado que la condena era “previsible”: “La derecha y la ultraderecha deberí.
-
-Date: 2026-07-14
-
-### El Gobierno denuncia que lo pretenden “derribar” ante “la incapacidad de hacerlo por las urnas” tras la condena al hermano de Sánchez
-
-El Gobierno esperaba la absolución de David Sánchez y no estaba preparado para la condena de nueve años de inhabilitación al hermano del presidente por prevaricación. El fallo de la Audiencia Provincial de Badajoz, combinado con las últimas decisiones en la controvertida causa del juez Peinado contra Begoña Gómez, con.
-
-Date: 2026-07-14
-
-### El juez Peinado reclama a Begoña Gómez que “acredite” que solo usó su pasaporte para viajar a Reino Unido
-
-El magistrado Juan Carlos Peinado, que abrió juicio oral contra Begoña Gómez el 20 de junio y le prohibió salir de España, ha dictado este lunes una resolución para reclamar a la esposa de Pedro Sánchez que “acredite” que solo usó el pasaporte la pasada semana para viajar al Reino Unido. El juzgado le devolvió el docum.
-
-Date: 2026-07-13
-
 ## Fuentes
 
-- [Y ahora, a por Begoña Gómez](https://www.eldiario.es/blog/sin-filtro/ahora-begona-gomez_132_13382867.html?utm_source=lootura.com) — 2026-07-16T05:49:19.000Z
+- [La Audiencia de Madrid avala enjuiciar ante un jurado a Begoña Gómez y le devuelve el pasaporte](https://www.20minutos.es/nacional/audiencia-madrid-avala-enjuiciar-ante-un-jurado-begona-gomez-por-dos-los-cuatro-delitos-le-devuelve-pasaporte_7015448_0.html?utm_source=lootura.com) — 2026-07-16T11:38:05.000Z
+- [¿Podrías juzgar tú a Begoña Gómez? Los requisitos de la ley para formar parte de su jurado popular](https://www.eldebate.com/espana/20260716/podrias-juzgar-begona-gomez-requisitos-ley-formar-parte-jurado-popular-cns_440378.html?utm_source=lootura.com) — 2026-07-16T11:49:59.000Z
+- [La Audiencia de Madrid avala que la causa contra Begoña Gómez siga adelante por jurado por dos delitos](https://elpais.com/espana/2026-07-16/la-audiencia-de-madrid-avala-que-la-causa-contra-begona-gomez-siga-adelante-por-jurado-por-dos-delitos.html?utm_source=lootura.com) — 2026-07-16T13:25:57.000Z
+- [Moncloa también rabia contra la Audiencia por ratificar el juicio a Begoña Gómez: «Es una causa política»](https://okdiario.com/espana/moncloa-tambien-rabia-contra-audiencia-ratificar-juicio-begona-gomez-causa-politica-19009566?utm_source=lootura.com) — 2026-07-16T13:17:34.000Z
+- [El PP, tras mantenerse el juicio con jurado a Begoña Gómez: «Una situación inconcebible»](https://theobjective.com/espana/politica/2026-07-16/pp-juicio-jurado-gomez-situacion-inconcebible/?utm_source=lootura.com) — 2026-07-16T13:20:44.000Z
+- [El Gobierno tilda de «causa política» el juicio contra Gómez tras la decisión de la Audiencia](https://theobjective.com/espana/politica/2026-07-16/gobierno-causa-politica-juicio-gomez-audiencia/?utm_source=lootura.com) — 2026-07-16T12:56:16.000Z

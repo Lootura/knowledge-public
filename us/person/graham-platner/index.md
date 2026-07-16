@@ -70,4 +70,4 @@ Date: 2026-07-13
 
 ## Sources
 
-- [Here Are the Maine Democrats Running to Replace Graham Platner](https://www.nytimes.com/2026/07/15/us/politics/maine-democrats-senate-candidates.html?utm_source=lootura.com) — 2026-07-15T21:21:03.000Z
+No public source links.

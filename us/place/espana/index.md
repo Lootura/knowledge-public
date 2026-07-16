@@ -3,7 +3,7 @@
 > Follow Spain, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-16T10:06:43.244Z
+- Updated: 2026-07-16T13:45:32.280Z
 - Canonical: https://atlas.lootura.com/us/place/espana
 
 ## Recent changes
@@ -58,4 +58,4 @@ Date: 2026-07-09
 
 ## Sources
 
-- [Argentina rallies past bitter rival England to book spot in World Cup final](https://www.cbsnews.com/news/argentina-beats-england-world-cup-final/?utm_source=lootura.com) — 2026-07-16T01:18:24.000Z
+- [Who will win the World Cup: Spain or Argentina?](https://www.cbsnews.com/video/who-will-win-the-world-cup-spain-or-argentina/?utm_source=lootura.com) — 2026-07-16T13:28:44.000Z

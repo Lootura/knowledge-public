@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/democratic-party/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/democratic-party/index.json",
   "description": "Follow Democratic Party, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-16T10:06:43.244Z",
+  "updatedAt": "2026-07-16T13:45:32.280Z",
   "aliases": [
     "Democrats"
   ],
@@ -19,13 +19,23 @@
       "date": "2026-07-16"
     },
     {
-      "title": "Senators Grill Justice Dept. Officials on New York Times Subpoenas",
-      "summary": "Democrats questioned the acting attorney general, Todd Blanche, and a U.S. attorney about subpoenas issued to Times journalists who reported on security concerns with the president’s new plane.",
-      "date": "2026-07-15"
+      "title": "Wildfire Smoke Turns Skies Orange Across the U.S., and Democrats Make a Big Shift on Israel",
+      "summary": "Plus, why Gen Z is turning to trade schools.",
+      "date": "2026-07-16"
     },
     {
       "title": "Clayton Dodges Question on 2020 Election, and Democrats Call Him on It",
       "summary": "Jay Clayton’s nomination to lead the U.S. intelligence community comes as the White House pushes to use declassified intelligence to show concerns about election security.",
+      "date": "2026-07-15"
+    },
+    {
+      "title": "Almost Half of House Democrats Vote to End Aid to Israel",
+      "summary": "The measure failed, but the level of support among Democrats exposed a stark shift in the party away from backing the Jewish state.",
+      "date": "2026-07-15"
+    },
+    {
+      "title": "Senators Grill Justice Dept. Officials on New York Times Subpoenas",
+      "summary": "Democrats questioned the acting attorney general, Todd Blanche, and a U.S. attorney about subpoenas issued to Times journalists who reported on security concerns with the president’s new plane.",
       "date": "2026-07-15"
     },
     {
@@ -36,11 +46,6 @@
     {
       "title": "Maine Democrats’ Adventurous Political Experiment",
       "summary": "The party’s leaders have a political experiment on their hands.",
-      "date": "2026-07-15"
-    },
-    {
-      "title": "Almost Half of House Democrats Vote to End Aid to Israel",
-      "summary": "The measure failed, but the level of support among Democrats exposed a stark shift in the party away from backing the Jewish state.",
       "date": "2026-07-15"
     },
     {
@@ -56,11 +61,6 @@
     {
       "title": "Almost Half of House Democrats Vote to End Aid to Israel",
       "summary": "The measure failed, but the level of support among Democrats exposed a stark shift in the party away from backing the Jewish state.",
-      "date": "2026-07-15"
-    },
-    {
-      "title": "Democrats' witness opposing Blanche's confirmation is more than an Epstein survivor",
-      "summary": "Dani Bensky and a group of women who were abused by Jeffrey Epstein have formed a bond they call a \"survivor sisterhood.\" They live in two worlds, of advocacy and everyday life and motherhood. (Image credit: Corrie Aune for NPR).",
       "date": "2026-07-15"
     }
   ],
@@ -84,23 +84,11 @@
       "sourceId": "lootura-us-the-new-york-times"
     },
     {
-      "title": "Senators Grill Justice Dept. Officials on New York Times Subpoenas",
-      "url": "https://www.nytimes.com/2026/07/15/business/media/blanche-clayton-senate-nyt-subpoenas.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-15T19:59:04.000Z",
-      "sourceId": "lootura-us-the-new-york-times-politics"
-    },
-    {
-      "title": "Here Are the Maine Democrats Running to Replace Graham Platner",
-      "url": "https://www.nytimes.com/2026/07/15/us/politics/maine-democrats-senate-candidates.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-15T21:21:03.000Z",
-      "sourceId": "lootura-us-the-new-york-times-politics"
-    },
-    {
-      "title": "Maine Democrats’ Adventurous Political Experiment",
-      "url": "https://www.nytimes.com/2026/07/15/us/politics/maine-democrats-senate-adventure.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-15T22:10:18.000Z",
-      "sourceId": "lootura-us-the-new-york-times-politics"
+      "title": "Wildfire Smoke Turns Skies Orange Across the U.S., and Democrats Make a Big Shift on Israel",
+      "url": "https://www.nytimes.com/2026/07/16/podcasts/the-headlines/wildfire-smoke-democrats-israel.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-16T10:00:15.000Z",
+      "sourceId": "lootura-us-the-new-york-times"
     }
   ],
-  "evidenceCount": 6
+  "evidenceCount": 4
 }

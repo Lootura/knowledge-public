@@ -3,7 +3,7 @@
 > Follow China, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-16T06:28:11.623Z
+- Updated: 2026-07-16T13:45:32.280Z
 - Canonical: https://atlas.lootura.com/us/place/china
 
 ## Recent changes
@@ -70,4 +70,4 @@ Date: 2026-07-13
 
 ## Sources
 
-No public source links.
+- [The Quest for ‘Technological Sovereignty’ in Europe (and Why It’s So Hard)](https://www.nytimes.com/2026/07/16/world/europe/digital-autonomy-ai.html?utm_source=lootura.com) — 2026-07-16T13:24:22.000Z

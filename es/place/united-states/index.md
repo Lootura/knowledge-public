@@ -3,10 +3,22 @@
 > Sigue la actividad de Estados Unidos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-16T10:06:17.457Z
+- Actualizado: 2026-07-16T13:45:06.103Z
 - Canonical: https://atlas.lootura.com/es/place/united-states
 
 ## Cambios recientes
+
+### EE UU impone nuevos aranceles del 25% a gran parte de productos brasileños y acusa a Lula de no negociar “de buena fe”
+
+El Gobierno del presidente de Estados Unidos, Donald Trump, ha ordenado la imposición de un nuevo arancel del 25% sobre la mayor parte de productos brasileños importados desde este país, con fecha de aplicación a partir del 22 de julio. Es la conclusión de una investigación que acusaba a Brasil de competencia desleal.
+
+Date: 2026-07-16
+
+### Un estudio revela la huella del caballo español en buena parte de la caballería americana
+
+Un estudio internacional con participación de la Facultad de Veterinaria de la Universidad de Córdoba (UCO) ha analizado por primera vez el genoma completo de las razas Barrocas y desvela la huella imborrable de la Pura Raza Española en el Lipizzano, Lusitano, Murgese y en las razas criollas de América del Sur. La UCO.
+
+Date: 2026-07-16
 
 ### La OTAN se plantea cómo defender Europa oriental ante la retirada de Estados Unidos
 
@@ -56,21 +68,7 @@ Bank of America (BofA) ha dado un espaldarazo a la mayoría de los de los bancos
 
 Date: 2026-07-15
 
-### Estados Unidos acuñará una moneda de un dólar con la imagen de Trump
-
-El secretario del Tesoro de Estados Unidos, Scott Bessent, ha anunciado este miércoles que la Casa de la Moneda empezará a acuñar una moneda de un dólar con la imagen del presidente, Donald Trump , que conmemorará los 250 años de la declaración de independencia estadounidense. Bessent ha confirmado en un mensaje en red.
-
-Date: 2026-07-15
-
-### Un científico estadounidense lleva 18 meses detenido en China por investigar sus pruebas nucleares
-
-El Gobierno de Estados Unidos ha reclamado la liberación de un científico estadounidense detenido en China desde hace 18 meses. El sismólogo Chen Youlin llevaba más de dos años estudiando pruebas nucleares subterráneas en el país asiático cuando fue encarcelado el 5 de noviembre de 2024 acusado de espionaje. Desde ento.
-
-Date: 2026-07-15
-
 ## Fuentes
 
-- [La OTAN se plantea cómo defender Europa oriental ante la retirada de Estados Unidos](https://www.abc.es/internacional/otan-plantea-defender-europa-oriental-ante-retirada-20260716014015-nt.html?utm_source=lootura.com) — 2026-07-16T09:54:03.000Z
-- [El 'efecto Trump': China ya es más popular que Estados Unidos](https://www.abc.es/internacional/efecto-trump-china-popular-estados-unidos-20260716113053-nt.html?utm_source=lootura.com) — 2026-07-16T09:35:43.000Z
-- [Uber lanza una oferta por el 100% de Delivery Hero, que vende el negocio de Glovo en España a un fondo de Estados Unidos](https://cincodias.elpais.com/companias/2026-07-16/uber-lanza-una-oferta-por-el-100-de-delivery-hero-duena-de-glovo-bajo-una-valoracion-de-13000-millones-de-euros.html?utm_source=lootura.com) — 2026-07-16T07:21:30.000Z
-- [Lula da Silva activa la ley de reciprocidad contra los aranceles de EEUU y culpa a los Bolsonaro: "Son falsos patriotas"](https://www.larazon.es/internacional/lula-silva-activa-ley-reciprocidad-aranceles-eeuu-culpa-bolsonaro-son-falsos-patriotas_202607166a58ac55e9f2e84b5c6b696f.html?utm_source=lootura.com) — 2026-07-16T10:03:01.000Z
+- [EE UU impone nuevos aranceles del 25% a gran parte de productos brasileños y acusa a Lula de no negociar “de buena fe”](https://elpais.com/economia/2026-07-16/estados-unidos-impone-nuevos-aranceles-del-25-a-la-mayor-parte-de-productos-brasilenos-y-acusa-a-lula-de-no-negociar-de-buena-fe.html?utm_source=lootura.com) — 2026-07-16T12:29:57.000Z
+- [Un estudio revela la huella del caballo español en buena parte de la caballería americana](https://www.larazon.es/andalucia/estudio-revela-huella-caballo-espanol-buena-parte-caballeria-americana_202607166a58dcec1db8de04099216b4.html?utm_source=lootura.com) — 2026-07-16T13:30:20.000Z

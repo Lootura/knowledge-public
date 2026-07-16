@@ -3,7 +3,7 @@
 > Follow Ukraine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-16T10:06:43.244Z
+- Updated: 2026-07-16T13:45:32.280Z
 - Canonical: https://atlas.lootura.com/us/place/ukraine
 
 ## Recent changes
@@ -11,6 +11,36 @@
 ### How drones are reshaping modern warfare in Ukraine, Middle East
 
 Drones have become a defining feature of the conflict between Russia and Ukraine. They.
+
+Date: 2026-07-16
+
+### Ukrainian's Zelenskyy faces major backlash for ousting defense chief Mykhailo Fedorov amid progress vs. Russia
+
+Ukrainians are demonstrating in Kyiv and senior figures announcing their resignations over President Volodymyr Zelenksyy's move to oust his popular defense chief.
+
+Date: 2026-07-16
+
+### Zelenskyy fires Ukraine's tech-savvy defense minister in government reshuffle
+
+Ukraine's President Volodymyr Zelenskyy has fired the country's popular defense minister, who pushed for innovation in the battlefield through the use of drones and turned the tables on Russia. (Image credit: ROMAN PILIPEY).
+
+Date: 2026-07-16
+
+### Ukraine’s Ousted Defense Minister Attacks the Military’s Old Guard
+
+Mykhailo Fedorov defended his efforts to modernize the Ukrainian armed forces as thousands of people protested his dismissal.
+
+Date: 2026-07-16
+
+### Ukraine’s Minister of Defense, a Proponent of Drone Warfare, Is Forced Out
+
+Mykhailo Fedorov announced he was leaving the ministry on Wednesday after conflicts with generals and military contractors over the role of innovative weaponry.
+
+Date: 2026-07-16
+
+### The Essentials About Mykhailo Fedorov, the Ousted Ukrainian Minister
+
+Mr. Fedorov became the youthful face of Ukraine’s successful drone warfare program. The move to replace him has prompted street protests.
 
 Date: 2026-07-16
 
@@ -38,38 +68,11 @@ In a show of collective strength, President Emmanuel Macron of France hosted Eur
 
 Date: 2026-07-14
 
-### Ukraine Wants to Make Its Own Antimissile System, Not Just Patriots
-
-The Ukrainian firm Fire Point has produced weapons that hit Russian territory. Its next goal, developing an antimissile system, is a much bigger challenge, experts said.
-
-Date: 2026-07-14
-
-### Ukraine fears it will have a weaker link to Trump after Sen. Lindsey Graham's sudden death
-
-has lost a close ally in President Donald Trump's orbit, leaving its leaders grappling with the implications for their war-torn country.
-
-Date: 2026-07-13
-
-### Ukraine and 9 other countries form coalition to protect Europe from ballistic missiles
-
-and nine other countries have announced a coalition to protect Europe from ballistic missiles, taking advantage of Kyiv's experience of fighting Russia.
-
-Date: 2026-07-13
-
-### With Lindsey Graham Gone, Ukraine Loses an Ally in Trump’s Ear
-
-The South Carolina Republican was Ukraine’s most influential champion inside President Trump’s mostly “America First” political orbit.
-
-Date: 2026-07-13
-
-### A Robot Army Remakes Ground Warfare in Ukraine
-
-They began as supply mules. Now ground robots evacuate the wounded, hold trenches and even do the killing.
-
-Date: 2026-07-13
-
 ## Sources
 
-- [Ukrainians protest over Zelenskyy's move to oust popular defense chief](https://www.cbsnews.com/news/ukrainian-protest-zelenskyy-oust-defense-chief-mykhailo-fedorov-russia-war/?utm_source=lootura.com) — 2026-07-16T09:33:04.000Z
+- [Ukrainian's Zelenskyy faces major backlash for ousting defense chief Mykhailo Fedorov amid progress vs. Russia](https://www.cbsnews.com/news/ukrainian-protest-zelenskyy-oust-defense-chief-mykhailo-fedorov-russia-war/?utm_source=lootura.com) — 2026-07-16T13:39:04.000Z
 - [How drones are reshaping modern warfare in Ukraine, Middle East](https://www.cbsnews.com/video/drones-warfare-iran-ukraine-russia-middle-east/?utm_source=lootura.com) — 2026-07-16T02:13:49.000Z
-- [Dismissal of Ukraine's popular defense minister draws intense criticism](https://www.npr.org/2026/07/16/nx-s1-5894781/dismissal-of-ukraines-popular-defense-minister-draws-intense-criticism?utm_source=lootura.com) — 2026-07-16T08:44:04.000Z
+- [Zelenskyy fires Ukraine's tech-savvy defense minister in government reshuffle](https://www.npr.org/2026/07/16/g-s1-133920/ukraine-defense-minister-fired?utm_source=lootura.com) — 2026-07-16T11:33:11.000Z
+- [Ukraine’s Ousted Defense Minister Attacks the Military’s Old Guard](https://www.nytimes.com/2026/07/16/world/europe/ukraine-fedorov-protests.html?utm_source=lootura.com) — 2026-07-16T13:37:50.000Z
+- [Ukraine’s Minister of Defense, a Proponent of Drone Warfare, Is Forced Out](https://www.nytimes.com/2026/07/15/world/europe/ukraine-minister-of-defense-mykhailo-fedorov-zelensky-war-russia.html?utm_source=lootura.com) — 2026-07-16T11:41:48.000Z
+- [The Essentials About Mykhailo Fedorov, the Ousted Ukrainian Minister](https://www.nytimes.com/2026/07/16/world/europe/who-mykhailo-fedorov-ukraine-defense-minister.html?utm_source=lootura.com) — 2026-07-16T13:21:39.000Z

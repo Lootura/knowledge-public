@@ -70,4 +70,4 @@ Date: 2026-07-11
 
 ## Fuentes
 
-- [Gracias, Apple. Por fin has llevado a los AirPods la función MÁS pedida desde hace 10 años](https://hipertextual.com/apple/gracias-apple-por-fin-has-llevado-a-los-airpods-la-funcion-mas-pedida-desde-hace-10-anos/?utm_source=lootura.com) — 2026-07-16T07:50:50.000Z
+No public source links.

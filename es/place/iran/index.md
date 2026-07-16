@@ -3,10 +3,16 @@
 > Sigue la actividad de Iran en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-16T10:06:17.457Z
+- Actualizado: 2026-07-16T13:45:06.103Z
 - Canonical: https://atlas.lootura.com/es/place/iran
 
 ## Cambios recientes
+
+### El Ibex pierde los 19.200 puntos atento a resultados y tecnológicas
+
+Los mercados siguen encontrando obstáculos que atenazan sus subidas. La nueva espiral de ataques de EEUU sobre Irán y la subida de tipos en Corea mantienen en guardia a los inversores. El Ibex, con movimientos estrechos durante toda la semana, vuelve a consolidar niveles en el día del estreno en Bolsa de Digi.
+
+Date: 2026-07-16
 
 ### Las Bolsas europeas se estabilizan con el foco en los resultados y el petróleo
 
@@ -62,13 +68,6 @@ El conflicto en Irán sigue dando coletazos que mantienen la tensión en el estr
 
 Date: 2026-07-14
 
-### La inflación en Estados Unidos registró en junio el primer descenso mensual desde 2020
-
-La inflación en Estados Unidos se moderó en junio, coincidiendo con el alto el fuego con Irán y la reapertura del estrecho de Ormuz. El índice de precios al consumo (IPC) se moderó hasta el 3,5% en junio, siete décimas menos que el 4,2% registrado en mayo, según el dato difundido este martes por la Oficina de Estadísti.
-
-Date: 2026-07-14
-
 ## Fuentes
 
-- [Las Bolsas europeas se estabilizan con el foco en los resultados y el petróleo](https://cincodias.elpais.com/mercados-financieros/2026-07-16/la-bolsa-y-el-ibex-35.html?utm_source=lootura.com) — 2026-07-16T04:34:20.000Z
-- [El Ibex vuelve a consolidar niveles](https://www.expansion.com/mercados/cronica-bolsa/2026/07/16/6a58713e468aeb64098b4570.html?utm_source=lootura.com) — 2026-07-16T08:09:31.000Z
+- [El Ibex pierde los 19.200 puntos atento a resultados y tecnológicas](https://www.expansion.com/mercados/cronica-bolsa/2026/07/16/6a58713e468aeb64098b4570.html?utm_source=lootura.com) — 2026-07-16T12:20:53.000Z

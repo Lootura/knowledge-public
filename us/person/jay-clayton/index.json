@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/jay-clayton/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/jay-clayton/index.json",
   "description": "Follow Jay Clayton, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-16T10:06:43.244Z",
+  "updatedAt": "2026-07-16T13:45:32.280Z",
   "aliases": [],
   "changes": [
     {
@@ -17,13 +17,13 @@
       "date": "2026-07-15"
     },
     {
-      "title": "Trump's intelligence nominee refuses to say who won 2020 election",
-      "summary": "Jay Clayton appeared before the Senate Intelligence Committee for his confirmation hearing to become director of national intelligence. The job is largely focused on foreign threats and national security, but much of the hearing focused instead on the recent past. Nick Schifrin reports and discusses the hearing with Fr.",
+      "title": "Clayton Dodges Question on 2020 Election, and Democrats Call Him on It",
+      "summary": "Jay Clayton’s nomination to lead the U.S. intelligence community comes as the White House pushes to use declassified intelligence to show concerns about election security.",
       "date": "2026-07-15"
     },
     {
-      "title": "Clayton Dodges Question on 2020 Election, and Democrats Call Him on It",
-      "summary": "Jay Clayton’s nomination to lead the U.S. intelligence community comes as the White House pushes to use declassified intelligence to show concerns about election security.",
+      "title": "Trump's intelligence nominee refuses to say who won 2020 election",
+      "summary": "Jay Clayton appeared before the Senate Intelligence Committee for his confirmation hearing to become director of national intelligence. The job is largely focused on foreign threats and national security, but much of the hearing focused instead on the recent past. Nick Schifrin reports and discusses the hearing with Fr.",
       "date": "2026-07-15"
     },
     {
@@ -45,17 +45,11 @@
       "sourceId": "lootura-us-npr-politics"
     },
     {
-      "title": "Trump's intelligence nominee refuses to say who won 2020 election",
-      "url": "https://www.pbs.org/newshour/show/trumps-intelligence-nominee-refuses-to-say-who-won-2020-election?utm_source=lootura.com",
-      "publishedAt": "2026-07-15T22:50:24.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
-    },
-    {
       "title": "Clayton Dodges Question on 2020 Election, and Democrats Call Him on It",
       "url": "https://www.nytimes.com/2026/07/15/us/politics/jay-clayton-confirmation-hearing-director-national-intelligence.html?utm_source=lootura.com",
       "publishedAt": "2026-07-15T21:50:43.000Z",
       "sourceId": "lootura-us-the-new-york-times"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

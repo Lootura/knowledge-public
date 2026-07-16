@@ -3,7 +3,7 @@
 > Follow United States, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-16T10:06:43.244Z
+- Updated: 2026-07-16T13:45:32.280Z
 - Canonical: https://atlas.lootura.com/us/place/united-states
 
 ## Recent changes
@@ -50,21 +50,21 @@ The United States is imposing 25% tariffs on imports from Brazil after finding a
 
 Date: 2026-07-16
 
-### Heavy smoke from wildfires blankets the US Midwest and Northeast, prompting evacuations
-
-Thousands of visitors were told to evacuate a remote Minnesota wilderness area accessible only by boat as wildfires send dangerously heavy smoke over the U.S. Midwest and Northeast this week.
-
-Date: 2026-07-16
-
 ### Diesel Prices Hit $5 a Gallon Again, Up 33% Since Start of Iran War
 
 U.S. diesel prices first surpassed $5 a gallon in March. Renewed fighting in the Persian Gulf and reduced refinery capacity is once again pushing up prices.
 
 Date: 2026-07-16
 
-### U.S. to impose 25% tariffs on Brazilian imports over unfair trade practices, White House says
+### Trump wants to fence off the park closest to the White House, a popular protest spot
 
-The United States is imposing 25% tariffs on imports from Brazil after finding a range of what it deemed unfair trade practices by the world's 10th-biggest economy.
+The Trump administration wants to install permanent fencing around Lafayette Park, directly outside the White House. It's long been a popular spot for protesters, who worry barriers will change that. (Image credit: U.S. Commission of Fine Arts).
+
+Date: 2026-07-16
+
+### Maps Show Where Wildfire Smoke Will Darken Skies on Thursday
+
+Air quality in several cities reached hazardous levels on Thursday morning as smoke was expected to move across North America.
 
 Date: 2026-07-16
 
@@ -77,6 +77,6 @@ Date: 2026-07-16
 - [Wildfires expose millions in Midwest, Northeast to dangerous smoke](https://www.cbsnews.com/news/wildfires-smoke-millions-exposed-midwest-northeast-us/?utm_source=lootura.com) — 2026-07-16T04:27:00.000Z
 - [U.S. to impose 25% tariffs on Brazilian imports over unfair trade practices](https://www.cbsnews.com/news/us-to-impose-25-percent-tariffs-on-brazil/?utm_source=lootura.com) — 2026-07-16T05:02:07.000Z
 - [Fear and hope in Utah in the shadow of America's largest wildfire](https://www.npr.org/2026/07/15/nx-s1-5892509/fear-and-hope-in-utah-in-the-shadow-of-americas-largest-wildfire?utm_source=lootura.com) — 2026-07-15T21:55:00.000Z
-- [Heavy smoke from wildfires blankets the US Midwest and Northeast, prompting evacuations](https://phys.org/news/2026-07-heavy-wildfires-blankets-midwest-northeast.html?utm_source=lootura.com) — 2026-07-16T08:19:40.000Z
+- [Trump wants to fence off the park closest to the White House, a popular protest spot](https://www.npr.org/2026/07/16/nx-s1-5893465/dc-lafayette-square-park-permanent-fencing-proposal?utm_source=lootura.com) — 2026-07-16T12:13:23.000Z
 - [Clayton Dodges Question on 2020 Election, and Democrats Call Him on It](https://www.nytimes.com/2026/07/15/us/politics/jay-clayton-confirmation-hearing-director-national-intelligence.html?utm_source=lootura.com) — 2026-07-15T21:50:43.000Z
-- [Diesel Prices Hit $5 a Gallon Again, Up 33% Since Start of Iran War](https://www.nytimes.com/2026/07/16/business/diesel-prices-us-iran-war.html?utm_source=lootura.com) — 2026-07-16T08:57:51.000Z
+- [Maps Show Where Wildfire Smoke Will Darken Skies on Thursday](https://www.nytimes.com/2026/07/16/weather/canada-wildfire-smoke-us.html?utm_source=lootura.com) — 2026-07-16T13:15:46.000Z

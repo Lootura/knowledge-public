@@ -8,11 +8,16 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/audiencia-nacional/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/audiencia-nacional/index.json",
   "description": "Sigue la actividad de Audiencia Nacional en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-16T10:06:17.457Z",
+  "updatedAt": "2026-07-16T13:45:06.103Z",
   "aliases": [
     "La Audiencia Nacional"
   ],
   "changes": [
+    {
+      "title": "El juez retrasa a mañana la declaración de la directora de la Guardia Civil por el caso Leire",
+      "summary": "El juez de la Audiencia Nacional que investiga el caso Leire Díez ha acordado posponer a este viernes la declaración como investigada de la directora de la Guardia Civil , Mercedes González , que estaba citada para este jueves, debido a la extensión del interrogatorio al director adjunto operativo (DAO) del Cuerpo, Man.",
+      "date": "2026-07-16"
+    },
     {
       "title": "La Justicia europea descarta que la amnistía de Puigdemont afecte a los intereses económicos comunitarios",
       "summary": "La Corte europea ha dado lectura al fallo por el que resuelve las cuestiones prejudiciales planteadas por la Audiencia Nacional y el Tribunal de C...",
@@ -57,32 +62,15 @@
       "title": "La presidenta del PSOE asegura al juez que hay «indicios preocupantes» sobre Leire Díez",
       "summary": "La presidenta del PSOE, Cristina Narbona , ha declarado este miércoles ante el juez Santiago Pedraz que instruye el caso Leire Díez en la Audiencia Nacional que hay «indicios preocupantes» sobre la actuación de la exmilitante del partido, aunque al ser repreguntada no ha ahondado en el asunto, según fuentes jurídicas p.",
       "date": "2026-07-15"
-    },
-    {
-      "title": "Discovered by Atlas",
-      "summary": "Audiencia Nacional first entered the public knowledge record with source-backed evidence.",
-      "date": "2026-07-14"
     }
   ],
   "sources": [
     {
-      "title": "La Justicia europea descarta que la amnistía de Puigdemont afecte a los intereses económicos comunitarios",
-      "url": "https://www.eldebate.com/espana/20260716/justicia-euroepa-descarta-amnistia-puigdemont-afecte-intereses-economicos-union_440173.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-16T08:24:36.000Z",
-      "sourceId": "lootura-es-el-debate"
-    },
-    {
-      "title": "La directora de la Guardia Civil y su jefe operativo declaran como imputados en la Audiencia Nacional por el ‘caso Leire Díez’",
-      "url": "https://elpais.com/espana/2026-07-16/la-directora-de-la-guardia-civil-y-su-jefe-operativo-declaran-como-imputados-en-la-audiencia-nacional-por-el-caso-leire-diez.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-16T08:08:48.000Z",
-      "sourceId": "lootura-es-el-pais"
-    },
-    {
-      "title": "¿Cuál es el recorrido judicial de Puigdemont tras el aval de la justicia europea a la amnistía?",
-      "url": "https://www.lavanguardia.com/politica/20260716/11593540/cual-recorrido-judicial-puigdemont-aval-justicia-europea-amnistia.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-16T08:23:28.000Z",
-      "sourceId": "lootura-es-la-vanguardia"
+      "title": "El juez retrasa a mañana la declaración de la directora de la Guardia Civil por el caso Leire",
+      "url": "https://www.elconfidencial.com/espana/2026-07-16/directora-guarrdia-civil-no-declara-caso-leire_4391044/?utm_source=lootura.com",
+      "publishedAt": "2026-07-16T10:38:00.000Z",
+      "sourceId": "lootura-es-el-confidencial"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 1
 }

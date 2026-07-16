@@ -70,4 +70,4 @@ Date: 2026-07-12
 
 ## Fuentes
 
-- [La OTAN se plantea cómo defender Europa oriental ante la retirada de Estados Unidos](https://www.abc.es/internacional/otan-plantea-defender-europa-oriental-ante-retirada-20260716014015-nt.html?utm_source=lootura.com) — 2026-07-16T09:54:03.000Z
+No public source links.

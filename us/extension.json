@@ -1,32 +1,45 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-16T10:11:34.568Z",
+  "generatedAt": "2026-07-16T13:50:17.583Z",
   "radar": {
     "id": "usa",
     "slug": "us",
     "locale": "en"
   },
   "state": {
-    "signature": "1.16.0|3|1784196403244",
+    "signature": "1.16.0|4|1784209532280",
     "version": "1.16.0",
-    "build": 3,
-    "latestEntityUpdatedAt": "2026-07-16T10:06:43.244Z"
+    "build": 4,
+    "latestEntityUpdatedAt": "2026-07-16T13:45:32.280Z"
   },
   "atlas": {
     "hero": {
-      "id": "usa-todd-blanche",
-      "name": "Todd Blanche",
+      "id": "usa-donald-trump",
+      "name": "Donald Trump",
       "type": "person",
-      "title": "Todd Blanche, Trump’s Attorney General Pick, Faces Crucial Hurdle After Rocky Hearing",
-      "url": "https://atlas.lootura.com/us/person/todd-blanche",
-      "path": "/us/person/todd-blanche",
-      "updatedAt": "2026-07-16T10:06:43.244Z",
-      "score": 1546,
-      "sourceCount": 13,
+      "title": "Blanche faces sharp questioning over Epstein files, relationship with Trump at hearing",
+      "url": "https://atlas.lootura.com/us/person/donald-trump",
+      "path": "/us/person/donald-trump",
+      "updatedAt": "2026-07-16T13:45:32.280Z",
+      "score": 1614,
+      "sourceCount": 173,
       "isBreaking": false,
       "isPinned": false
     },
     "cards": [
+      {
+        "id": "usa-todd-blanche",
+        "name": "Todd Blanche",
+        "type": "person",
+        "title": "Blanche faces sharp questioning over Epstein files, relationship with Trump at hearing",
+        "url": "https://atlas.lootura.com/us/person/todd-blanche",
+        "path": "/us/person/todd-blanche",
+        "updatedAt": "2026-07-16T13:45:32.280Z",
+        "score": 1599,
+        "sourceCount": 15,
+        "isBreaking": false,
+        "isPinned": false
+      },
       {
         "id": "usa-maine",
         "name": "Maine",
@@ -34,22 +47,22 @@
         "title": "Biddeford, Maine, mayor on ICE shooting, community's response",
         "url": "https://atlas.lootura.com/us/place/maine",
         "path": "/us/place/maine",
-        "updatedAt": "2026-07-16T10:06:43.244Z",
-        "score": 1543,
+        "updatedAt": "2026-07-16T13:45:32.280Z",
+        "score": 1544,
         "sourceCount": 72,
         "isBreaking": false,
         "isPinned": false
       },
       {
-        "id": "usa-canada",
-        "name": "Canada",
-        "type": "place",
-        "title": "Wildfires expose millions in Midwest, Northeast to dangerous smoke",
-        "url": "https://atlas.lootura.com/us/place/canada",
-        "path": "/us/place/canada",
-        "updatedAt": "2026-07-16T10:06:43.244Z",
-        "score": 1526,
-        "sourceCount": 13,
+        "id": "usa-white-house",
+        "name": "White House",
+        "type": "organization",
+        "title": "Trump wants to fence off the park closest to the White House, a popular protest spot",
+        "url": "https://atlas.lootura.com/us/organization/white-house",
+        "path": "/us/organization/white-house",
+        "updatedAt": "2026-07-16T13:45:32.280Z",
+        "score": 1537,
+        "sourceCount": 23,
         "isBreaking": false,
         "isPinned": false
       },
@@ -60,26 +73,13 @@
         "title": "U.S. citizen departs Iran after being barred from leaving for over a year",
         "url": "https://atlas.lootura.com/us/place/united-states",
         "path": "/us/place/united-states",
-        "updatedAt": "2026-07-16T10:06:43.244Z",
-        "score": 1524,
-        "sourceCount": 196,
-        "isBreaking": false,
-        "isPinned": false
-      },
-      {
-        "id": "usa-donald-trump",
-        "name": "Donald Trump",
-        "type": "person",
-        "title": "Trump overturns pause of ICE vehicle stops implemented after deadly shootings",
-        "url": "https://atlas.lootura.com/us/person/donald-trump",
-        "path": "/us/person/donald-trump",
-        "updatedAt": "2026-07-16T10:06:43.244Z",
-        "score": 1513,
-        "sourceCount": 168,
+        "updatedAt": "2026-07-16T13:45:32.280Z",
+        "score": 1520,
+        "sourceCount": 200,
         "isBreaking": false,
         "isPinned": false
       }
     ],
-    "publicEntityCount": 34
+    "publicEntityCount": 35
   }
 }

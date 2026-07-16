@@ -8,13 +8,18 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/donald-trump/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/donald-trump/index.json",
   "description": "Sigue la actividad de Donald Trump en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-16T10:06:17.457Z",
+  "updatedAt": "2026-07-16T13:45:06.103Z",
   "aliases": [
     "President Donald Trump",
     "President Trump",
     "Trump"
   ],
   "changes": [
+    {
+      "title": "EE UU impone nuevos aranceles del 25% a gran parte de productos brasileños y acusa a Lula de no negociar “de buena fe”",
+      "summary": "El Gobierno del presidente de Estados Unidos, Donald Trump, ha ordenado la imposición de un nuevo arancel del 25% sobre la mayor parte de productos brasileños importados desde este país, con fecha de aplicación a partir del 22 de julio. Es la conclusión de una investigación que acusaba a Brasil de competencia desleal.",
+      "date": "2026-07-16"
+    },
     {
       "title": "El 'efecto Trump': China ya es más popular que Estados Unidos",
       "summary": "Un año y medio después de su regreso a la Casa Blanca, Donald Trump ya ha logrado un vuelco planetario: por primera vez, China tiene una visión más favorable que Estados Unidos a nivel global . Así lo demuestra la última edición del estudio anual de opinión pública realizado por el Pew Research Center, publicada este j.",
@@ -59,19 +64,14 @@
       "title": "Trump agita las elecciones de medio mandato con la supuesta aparición de pruebas de fraude electoral en 2020",
       "summary": "El jueves dirigirá a la nación un discurso en el que retomará la batalla de los comicios que perdió con Joe Biden: \"Nuestras elecciones son corruptas y tenemos que enderezarlas\", ha dicho. Revisará miles de páginas de documentos clasificados de inteligencia Leer.",
       "date": "2026-07-14"
-    },
-    {
-      "title": "El último giro de Trump alivia las Bolsas y modera el alza del ‘brent’",
-      "summary": "Los mercados vuelven a enfrentarse a uno de los rasgos más característicos de la presidencia de Donald Trump: la imprevisibilidad. Apenas 24 horas después de que Washington restableciera el bloqueo en el estrecho de Ormuz y anunciara un peaje equivalente al 20% del valor de la carga para cada barco que atravesara este.",
-      "date": "2026-07-14"
     }
   ],
   "sources": [
     {
-      "title": "El 'efecto Trump': China ya es más popular que Estados Unidos",
-      "url": "https://www.abc.es/internacional/efecto-trump-china-popular-estados-unidos-20260716113053-nt.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-16T09:35:43.000Z",
-      "sourceId": "lootura-es-abc"
+      "title": "EE UU impone nuevos aranceles del 25% a gran parte de productos brasileños y acusa a Lula de no negociar “de buena fe”",
+      "url": "https://elpais.com/economia/2026-07-16/estados-unidos-impone-nuevos-aranceles-del-25-a-la-mayor-parte-de-productos-brasilenos-y-acusa-a-lula-de-no-negociar-de-buena-fe.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-16T12:29:57.000Z",
+      "sourceId": "lootura-es-cinco-dias"
     }
   ],
   "evidenceCount": 1

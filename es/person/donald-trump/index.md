@@ -3,10 +3,16 @@
 > Sigue la actividad de Donald Trump en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-16T10:06:17.457Z
+- Actualizado: 2026-07-16T13:45:06.103Z
 - Canonical: https://atlas.lootura.com/es/person/donald-trump
 
 ## Cambios recientes
+
+### EE UU impone nuevos aranceles del 25% a gran parte de productos brasileños y acusa a Lula de no negociar “de buena fe”
+
+El Gobierno del presidente de Estados Unidos, Donald Trump, ha ordenado la imposición de un nuevo arancel del 25% sobre la mayor parte de productos brasileños importados desde este país, con fecha de aplicación a partir del 22 de julio. Es la conclusión de una investigación que acusaba a Brasil de competencia desleal.
+
+Date: 2026-07-16
 
 ### El 'efecto Trump': China ya es más popular que Estados Unidos
 
@@ -62,12 +68,6 @@ El jueves dirigirá a la nación un discurso en el que retomará la batalla de l
 
 Date: 2026-07-14
 
-### El último giro de Trump alivia las Bolsas y modera el alza del ‘brent’
-
-Los mercados vuelven a enfrentarse a uno de los rasgos más característicos de la presidencia de Donald Trump: la imprevisibilidad. Apenas 24 horas después de que Washington restableciera el bloqueo en el estrecho de Ormuz y anunciara un peaje equivalente al 20% del valor de la carga para cada barco que atravesara este.
-
-Date: 2026-07-14
-
 ## Fuentes
 
-- [El 'efecto Trump': China ya es más popular que Estados Unidos](https://www.abc.es/internacional/efecto-trump-china-popular-estados-unidos-20260716113053-nt.html?utm_source=lootura.com) — 2026-07-16T09:35:43.000Z
+- [EE UU impone nuevos aranceles del 25% a gran parte de productos brasileños y acusa a Lula de no negociar “de buena fe”](https://elpais.com/economia/2026-07-16/estados-unidos-impone-nuevos-aranceles-del-25-a-la-mayor-parte-de-productos-brasilenos-y-acusa-a-lula-de-no-negociar-de-buena-fe.html?utm_source=lootura.com) — 2026-07-16T12:29:57.000Z

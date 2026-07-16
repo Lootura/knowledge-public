@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/united-states/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/united-states/index.json",
   "description": "Follow United States, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-16T10:06:43.244Z",
+  "updatedAt": "2026-07-16T13:45:32.280Z",
   "aliases": [
     "America",
     "Estados Unidos",
@@ -51,18 +51,18 @@
       "date": "2026-07-16"
     },
     {
-      "title": "Heavy smoke from wildfires blankets the US Midwest and Northeast, prompting evacuations",
-      "summary": "Thousands of visitors were told to evacuate a remote Minnesota wilderness area accessible only by boat as wildfires send dangerously heavy smoke over the U.S. Midwest and Northeast this week.",
-      "date": "2026-07-16"
-    },
-    {
       "title": "Diesel Prices Hit $5 a Gallon Again, Up 33% Since Start of Iran War",
       "summary": "U.S. diesel prices first surpassed $5 a gallon in March. Renewed fighting in the Persian Gulf and reduced refinery capacity is once again pushing up prices.",
       "date": "2026-07-16"
     },
     {
-      "title": "U.S. to impose 25% tariffs on Brazilian imports over unfair trade practices, White House says",
-      "summary": "The United States is imposing 25% tariffs on imports from Brazil after finding a range of what it deemed unfair trade practices by the world's 10th-biggest economy.",
+      "title": "Trump wants to fence off the park closest to the White House, a popular protest spot",
+      "summary": "The Trump administration wants to install permanent fencing around Lafayette Park, directly outside the White House. It's long been a popular spot for protesters, who worry barriers will change that. (Image credit: U.S. Commission of Fine Arts).",
+      "date": "2026-07-16"
+    },
+    {
+      "title": "Maps Show Where Wildfire Smoke Will Darken Skies on Thursday",
+      "summary": "Air quality in several cities reached hazardous levels on Thursday morning as smoke was expected to move across North America.",
       "date": "2026-07-16"
     }
   ],
@@ -110,10 +110,10 @@
       "sourceId": "lootura-us-npr"
     },
     {
-      "title": "Heavy smoke from wildfires blankets the US Midwest and Northeast, prompting evacuations",
-      "url": "https://phys.org/news/2026-07-heavy-wildfires-blankets-midwest-northeast.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-16T08:19:40.000Z",
-      "sourceId": "lootura-us-phys-org"
+      "title": "Trump wants to fence off the park closest to the White House, a popular protest spot",
+      "url": "https://www.npr.org/2026/07/16/nx-s1-5893465/dc-lafayette-square-park-permanent-fencing-proposal?utm_source=lootura.com",
+      "publishedAt": "2026-07-16T12:13:23.000Z",
+      "sourceId": "lootura-us-npr-politics"
     },
     {
       "title": "Clayton Dodges Question on 2020 Election, and Democrats Call Him on It",
@@ -122,11 +122,11 @@
       "sourceId": "lootura-us-the-new-york-times"
     },
     {
-      "title": "Diesel Prices Hit $5 a Gallon Again, Up 33% Since Start of Iran War",
-      "url": "https://www.nytimes.com/2026/07/16/business/diesel-prices-us-iran-war.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-16T08:57:51.000Z",
+      "title": "Maps Show Where Wildfire Smoke Will Darken Skies on Thursday",
+      "url": "https://www.nytimes.com/2026/07/16/weather/canada-wildfire-smoke-us.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-16T13:15:46.000Z",
       "sourceId": "lootura-us-the-new-york-times"
     }
   ],
-  "evidenceCount": 14
+  "evidenceCount": 15
 }

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/topic/artificial-intelligence/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/topic/artificial-intelligence/index.json",
   "description": "Sigue la actividad de Artificial intelligence en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-16T02:23:49.655Z",
+  "updatedAt": "2026-07-16T13:45:06.103Z",
   "aliases": [
     "AI",
     "machine learning"
@@ -40,6 +40,13 @@
       "date": "2026-07-10"
     }
   ],
-  "sources": [],
+  "sources": [
+    {
+      "title": "Consigue el Samsung Galaxy A57 5G y simplifica tu día a día con la IA",
+      "url": "https://okdiario.com/okshopping/tecnologia/consigue-samsung-galaxy-a57-5g-simplifica-tu-dia-dia-ia-19009489?utm_source=lootura.com",
+      "publishedAt": "2026-07-16T13:00:47.000Z",
+      "sourceId": "lootura-es-ok-diario"
+    }
+  ],
   "evidenceCount": 0
 }

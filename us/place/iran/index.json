@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/iran/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/iran/index.json",
   "description": "Follow Iran, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-16T10:06:43.244Z",
+  "updatedAt": "2026-07-16T13:45:32.280Z",
   "aliases": [],
   "changes": [
     {
@@ -32,6 +32,21 @@
       "date": "2026-07-16"
     },
     {
+      "title": "The political risks from war in Iran. And, ICE's use of force is rising, report finds",
+      "summary": "The political implications the war in Iran is having on the GOP. And, a new report has found that ICE officers' use of force is not rare since President Trump took office for his second term. (Image credit: -/AFP via Getty Images).",
+      "date": "2026-07-16"
+    },
+    {
+      "title": "How Trump’s ‘original oil guy’ boosted US-Israel ties and played down risks of Iran war",
+      "summary": "Fracking billionaire Harold Hamm is co-chair of a non-profit that has aggressively pushed for US energy dominance Tycoon Harold Hamm is one of the US’s most successful oilmen, the son of Oklahoma sharecroppers who hit it rich as a “wildcatter” and pioneered fracking techniques that drove the shale boom in 2008 that rev.",
+      "date": "2026-07-16"
+    },
+    {
+      "title": "In Iran war, Trump Risks Another American ‘Forever War’",
+      "summary": "President Trump, who promised to “end wars,” not start them, may have fallen into a familiar presidential trap.",
+      "date": "2026-07-16"
+    },
+    {
       "title": "U.S. Military Again Blockades Iranian Ports After Collapse of Cease-Fire",
       "summary": "President Trump ordered U.S. warships and aircraft to stop vessels going to and from Iran. Enforcing a blockade takes a huge commitment of warships and aircraft.",
       "date": "2026-07-15"
@@ -44,21 +59,6 @@
     {
       "title": "US Resumes Hormuz Blockade as Trump Threatens More Strikes",
       "summary": "The United States is escalating its attacks on Iran, striking military targets including coastal defense systems and missile and drone sites. It comes as President Donald Trump in an interview warned that the U.S. will begin striking civilian infrastructure including energy targets unless Iran agrees to negotiate. NBC’.",
-      "date": "2026-07-15"
-    },
-    {
-      "title": "Son of couple jailed in Iran \"desperately worried\" as stepdad's sentence extended",
-      "summary": "A man whose mother and stepfather are imprisoned in Iran tells CBS News \"the hardest part is the uncertainty.\".",
-      "date": "2026-07-15"
-    },
-    {
-      "title": "U.S. reimposes blockade and steps up strikes as Iran threatens to halt all energy exports from the region",
-      "summary": "Iranian officials said Wednesday that the American strikes hit an Iranian army barracks, killed at least seven troops and wounded more than 260 people across the country.",
-      "date": "2026-07-15"
-    },
-    {
-      "title": "House Republicans push for $95B for Iran war, election measures and farm aid",
-      "summary": "House Republicans kicked off their plans for a third reconciliation bill for $90 billion in new money for the military during the Iran war and election-related measures.",
       "date": "2026-07-15"
     }
   ],
@@ -82,17 +82,29 @@
       "sourceId": "lootura-us-npr-politics"
     },
     {
+      "title": "The political risks from war in Iran. And, ICE's use of force is rising, report finds",
+      "url": "https://www.npr.org/2026/07/16/g-s1-133918/up-first-newsletter-iran-us-trump-jay-clayton-ice-use-of-force?utm_source=lootura.com",
+      "publishedAt": "2026-07-16T11:29:01.000Z",
+      "sourceId": "lootura-us-npr-world"
+    },
+    {
+      "title": "How Trump’s ‘original oil guy’ boosted US-Israel ties and played down risks of Iran war",
+      "url": "https://www.theguardian.com/us-news/2026/jul/16/harold-hamm-trump-oil-israel-iran?utm_source=lootura.com",
+      "publishedAt": "2026-07-16T12:00:39.000Z",
+      "sourceId": "lootura-us-the-guardian-us"
+    },
+    {
       "title": "Diesel Prices Hit $5 a Gallon Again, Up 33% Since Start of Iran War",
       "url": "https://www.nytimes.com/2026/07/16/business/diesel-prices-us-iran-war.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-16T08:57:51.000Z",
+      "publishedAt": "2026-07-16T11:51:15.000Z",
       "sourceId": "lootura-us-the-new-york-times"
     },
     {
-      "title": "U.S. Military Again Blockades Iranian Ports After Collapse of Cease-Fire",
-      "url": "https://www.nytimes.com/2026/07/15/us/politics/us-blockade-iran.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-15T23:02:36.000Z",
-      "sourceId": "lootura-us-the-new-york-times-politics"
+      "title": "In Iran war, Trump Risks Another American ‘Forever War’",
+      "url": "https://www.nytimes.com/2026/07/16/world/middleeast/forever-war-trump-iran.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-16T13:20:24.000Z",
+      "sourceId": "lootura-us-the-new-york-times-world"
     }
   ],
-  "evidenceCount": 5
+  "evidenceCount": 7
 }
