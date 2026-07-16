@@ -8,19 +8,9 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/iran/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/iran/index.json",
   "description": "Sigue la actividad de Iran en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-16T06:27:44.347Z",
+  "updatedAt": "2026-07-16T10:06:17.457Z",
   "aliases": [],
   "changes": [
-    {
-      "title": "Trump amenaza con atacar infraestructuras civiles si Irán no vuelve a negociar",
-      "summary": "Estados Unidos ha reimpuesto el bloqueo naval sobre los puertos iraníes y ha intensificado su campaña de bombardeos contra la república islámica, en una nueva escalada de ataques que amenaza con devolver a Oriente Próximo a una guerra abierta y que vuelve a situar el estrecho de Ormuz en el centro del enfrentamiento.La.",
-      "date": "2026-07-16"
-    },
-    {
-      "title": "Trump se enreda de nuevo en una guerra de Irán sin salida clara",
-      "summary": "En las jornadas posteriores al ataque conjunto de Israel y Estados Unidos contra Irán del pasado 28 de febrero, Donald Trump cambió al menos una docena de veces de argumentos para justificar una operación militar que evitó llamar por su nombre (“guerra”, palabra que aún se resiste a emplear). Sobre su duración también.",
-      "date": "2026-07-16"
-    },
     {
       "title": "Las Bolsas europeas se estabilizan con el foco en los resultados y el petróleo",
       "summary": "Los datos de inflación en EE UU más suaves de lo esperado han disipado las preocupaciones en torno a que la Reserva Federal (Fed) suba los tipos de interés a corto plazo, aunque la cautela en torno a Irán y las fuertes pérdidas en los valores de semiconductores mantienen la prudencia en los mercados. EE UU e Irán conti.",
@@ -29,6 +19,16 @@
     {
       "title": "El Ibex vuelve a consolidar niveles",
       "summary": "Los mercados siguen encontrando obstáculos que atenazan sus subidas. La nueva espiral de ataques de EEUU sobre Irán y la subida de tipos en Corea mantienen en guardia a los inversores. El Ibex, con movimientos estrechos durante toda la semana, vuelve a consolidar niveles en el día del estreno en Bolsa de Digi.",
+      "date": "2026-07-16"
+    },
+    {
+      "title": "Trump amenaza con atacar infraestructuras civiles si Irán no vuelve a negociar",
+      "summary": "Estados Unidos ha reimpuesto el bloqueo naval sobre los puertos iraníes y ha intensificado su campaña de bombardeos contra la república islámica, en una nueva escalada de ataques que amenaza con devolver a Oriente Próximo a una guerra abierta y que vuelve a situar el estrecho de Ormuz en el centro del enfrentamiento.La.",
+      "date": "2026-07-16"
+    },
+    {
+      "title": "Trump se enreda de nuevo en una guerra de Irán sin salida clara",
+      "summary": "En las jornadas posteriores al ataque conjunto de Israel y Estados Unidos contra Irán del pasado 28 de febrero, Donald Trump cambió al menos una docena de veces de argumentos para justificar una operación militar que evitó llamar por su nombre (“guerra”, palabra que aún se resiste a emplear). Sobre su duración también.",
       "date": "2026-07-16"
     },
     {
@@ -64,18 +64,6 @@
   ],
   "sources": [
     {
-      "title": "Trump amenaza con atacar infraestructuras civiles si Irán no vuelve a negociar",
-      "url": "https://www.abc.es/internacional/trump-amenaza-atacar-infraestructuras-civiles-iran-vuelve-20260715174230-nt.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-16T05:22:48.000Z",
-      "sourceId": "lootura-es-abc"
-    },
-    {
-      "title": "Trump se enreda de nuevo en una guerra de Irán sin salida clara",
-      "url": "https://elpais.com/internacional/2026-07-16/trump-se-enreda-de-nuevo-en-una-guerra-de-iran-sin-salida-clara.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-16T03:40:00.000Z",
-      "sourceId": "lootura-es-cinco-dias"
-    },
-    {
       "title": "Las Bolsas europeas se estabilizan con el foco en los resultados y el petróleo",
       "url": "https://cincodias.elpais.com/mercados-financieros/2026-07-16/la-bolsa-y-el-ibex-35.html?utm_source=lootura.com",
       "publishedAt": "2026-07-16T04:34:20.000Z",
@@ -84,9 +72,9 @@
     {
       "title": "El Ibex vuelve a consolidar niveles",
       "url": "https://www.expansion.com/mercados/cronica-bolsa/2026/07/16/6a58713e468aeb64098b4570.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-16T06:21:28.000Z",
+      "publishedAt": "2026-07-16T08:09:31.000Z",
       "sourceId": "lootura-es-expansion"
     }
   ],
-  "evidenceCount": 4
+  "evidenceCount": 2
 }

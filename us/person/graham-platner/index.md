@@ -3,20 +3,20 @@
 > Follow Graham Platner, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-07-16T06:28:11.623Z
+- Updated: 2026-07-16T10:06:43.244Z
 - Canonical: https://atlas.lootura.com/us/person/graham-platner
 
 ## Recent changes
 
-### Inside Maine Democrats’ Search for a New Senate Nominee After Graham Platner’s Exit
-
-Democratic candidates are hastily building bare-bones campaigns and forgoing traditional outreach like TV ads in a sprint to appeal to party delegates, rather than Maine voters.
-
-Date: 2026-07-15
-
 ### Here Are the Maine Democrats Running to Replace Graham Platner
 
 To win, they’ll have to convince Democrats at a July 25 convention that they’re the best candidate to take on Senator Susan Collins, a Republican.
+
+Date: 2026-07-15
+
+### Inside Maine Democrats’ Search for a New Senate Nominee After Graham Platner’s Exit
+
+Democratic candidates are hastily building bare-bones campaigns and forgoing traditional outreach like TV ads in a sprint to appeal to party delegates, rather than Maine voters.
 
 Date: 2026-07-15
 
@@ -71,4 +71,3 @@ Date: 2026-07-13
 ## Sources
 
 - [Here Are the Maine Democrats Running to Replace Graham Platner](https://www.nytimes.com/2026/07/15/us/politics/maine-democrats-senate-candidates.html?utm_source=lootura.com) — 2026-07-15T21:21:03.000Z
-- [Inside Maine Democrats’ Search for a New Senate Nominee After Graham Platner’s Exit](https://www.nytimes.com/2026/07/15/us/politics/maine-democrats-senate-convention.html?utm_source=lootura.com) — 2026-07-15T18:52:42.000Z

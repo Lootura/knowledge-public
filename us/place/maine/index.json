@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/maine/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/maine/index.json",
   "description": "Follow Maine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-16T06:28:11.623Z",
+  "updatedAt": "2026-07-16T10:06:43.244Z",
   "aliases": [],
   "changes": [
     {
@@ -22,6 +22,11 @@
       "date": "2026-07-16"
     },
     {
+      "title": "The use of force has become a 'default tool' for ICE officers, a new report finds",
+      "summary": "An ACLU report looks at the widespread use of force in immigration enforcement in the first year of President Trump's return to office. Recent fatal shootings in Texas and Maine have brought renewed scrutiny to the agency's tactics. (Image credit: Scott Olson).",
+      "date": "2026-07-16"
+    },
+    {
       "title": "Videos Detail Moments Surrounding Fatal ICE Shooting in Biddeford, Maine",
       "summary": "Footage obtained by The New York Times shows ICE agents in the moments before and after the killing of Joan Sebastian Guerrero. The circumstances of the shooting remain unclear.",
       "date": "2026-07-15"
@@ -29,11 +34,6 @@
     {
       "title": "Colombian Immigrant Killed by ICE in Maine Had Legal Status, Father Says",
       "summary": "The father of Joan Sebastian Guerrero, the man fatally shot by a federal immigration agent on Monday, said his son had been working two jobs to support his wife and daughter.",
-      "date": "2026-07-15"
-    },
-    {
-      "title": "Inside Maine Democrats’ Search for a New Senate Nominee After Graham Platner’s Exit",
-      "summary": "Democratic candidates are hastily building bare-bones campaigns and forgoing traditional outreach like TV ads in a sprint to appeal to party delegates, rather than Maine voters.",
       "date": "2026-07-15"
     },
     {
@@ -47,6 +47,11 @@
       "date": "2026-07-15"
     },
     {
+      "title": "Inside Maine Democrats’ Search for a New Senate Nominee After Graham Platner’s Exit",
+      "summary": "Democratic candidates are hastily building bare-bones campaigns and forgoing traditional outreach like TV ads in a sprint to appeal to party delegates, rather than Maine voters.",
+      "date": "2026-07-15"
+    },
+    {
       "title": "Man fleeing immigration officers in Florida struck and killed by tractor trailer, police say",
       "summary": "It was the third death in a week involving encounters with U.S. Immigration and Customs Enforcement agents, following shootings in Texas and Maine.",
       "date": "2026-07-15"
@@ -54,11 +59,6 @@
     {
       "title": "An ICE Shooting in Maine Puts Pressure on Senator Susan Collins",
       "summary": "The Democrats hoping to challenge Ms. Collins, a vulnerable Republican, have seized on the fatal incident, drawing attention to her record on immigration matters.",
-      "date": "2026-07-15"
-    },
-    {
-      "title": "ICE Halts Most Vehicle Stops After Fatal Texas, Maine Shootings",
-      "summary": "In the wake of two fatal ICE-involved shootings in less than a week, the Department of Homeland Security is now instructing agents to suspend most vehicle stops amid growing uproar. On Truth Social, President Donald Trump wrote, “We cannot give up one of ICE’s most important and effective crime fighting tools,” adding,.",
       "date": "2026-07-15"
     }
   ],
@@ -76,6 +76,12 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
+      "title": "The use of force has become a 'default tool' for ICE officers, a new report finds",
+      "url": "https://www.npr.org/2026/07/16/nx-s1-5891834/ice-use-of-force-aclu-report?utm_source=lootura.com",
+      "publishedAt": "2026-07-16T09:00:00.000Z",
+      "sourceId": "lootura-us-npr"
+    },
+    {
       "title": "Videos Detail Moments Surrounding Fatal ICE Shooting in Biddeford, Maine",
       "url": "https://www.nytimes.com/2026/07/14/us/maine-ice-shooting-video-joan-sebastian-guerrero.html?utm_source=lootura.com",
       "publishedAt": "2026-07-15T16:00:34.000Z",
@@ -91,12 +97,6 @@
       "title": "Here Are the Maine Democrats Running to Replace Graham Platner",
       "url": "https://www.nytimes.com/2026/07/15/us/politics/maine-democrats-senate-candidates.html?utm_source=lootura.com",
       "publishedAt": "2026-07-15T21:21:03.000Z",
-      "sourceId": "lootura-us-the-new-york-times-politics"
-    },
-    {
-      "title": "Inside Maine Democrats’ Search for a New Senate Nominee After Graham Platner’s Exit",
-      "url": "https://www.nytimes.com/2026/07/15/us/politics/maine-democrats-senate-convention.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-15T18:52:42.000Z",
       "sourceId": "lootura-us-the-new-york-times-politics"
     },
     {

@@ -70,5 +70,4 @@ Date: 2026-07-13
 
 ## Fuentes
 
-- [Así ha sido el gol de Gordon para Inglaterra que abrió el marcador ante Argentina en el Mundial](https://elpais.com/deportes/mundial-futbol/2026-07-15/asi-ha-sido-el-gol-de-gordon-para-inglaterra-que-abrio-el-marcador-ante-argentina-en-el-mundial.html?utm_source=lootura.com) — 2026-07-15T21:19:53.000Z
-- [La impresionante casa de Ferran Torres en Gavá Mar: un refugio de lujo con piscina privada, gimnasio y máxima privacidad](https://okdiario.com/cool/famosos/casa-ferran-torres-barcelona-19001156/amp?utm_source=lootura.com) — 2026-07-16T06:05:35.000Z
+No public source links.

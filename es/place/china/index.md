@@ -3,10 +3,22 @@
 > Sigue la actividad de China en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-16T06:27:44.347Z
+- Actualizado: 2026-07-16T10:06:17.457Z
 - Canonical: https://atlas.lootura.com/es/place/china
 
 ## Cambios recientes
+
+### El 'efecto Trump': China ya es más popular que Estados Unidos
+
+Un año y medio después de su regreso a la Casa Blanca, Donald Trump ya ha logrado un vuelco planetario: por primera vez, China tiene una visión más favorable que Estados Unidos a nivel global . Así lo demuestra la última edición del estudio anual de opinión pública realizado por el Pew Research Center, publicada este j.
+
+Date: 2026-07-16
+
+### Cómo el ‘Temu Range Rover’ de China se convirtió en el coche más vendido de Gran Bretaña
+
+Los Land Rover son tan británicos como el rey, los crumpets y el críquet. Este robusto todoterreno ha sido un caballo de batalla para el ejército británico desde 1948. La familia real cuenta con una flota de Landys en su castillo de Escocia. Y en los Cotswolds —el destino de fin de semana por excelencia de Inglaterra,.
+
+Date: 2026-07-16
 
 ### Los récords de exportación de coches de China marcan rumbo de colisión
 
@@ -56,19 +68,7 @@ DeepSeek acelera los preparativos para su salida a Bolsa . La empresa china de i
 
 Date: 2026-07-14
 
-### El último móvil de Samsung es uno de los mejores smartphones compactos de 2026 y está rebajado más de 200 euros
-
-Samsung ha sabido mantenerse como una de las marcas de referencia en teléfonos móviles inteligentes Android. Aunque la competencia desde China es feroz, la compañía surcoreana sigue siendo la favorita de millones de personas, ya que ofrece terminales de buenas características y un soporte de actualizaciones muy extendi.
-
-Date: 2026-07-14
-
-### La Primera de Expansión sobre el apagón, Brookfield, Inditex, Irán, Mitsubishi y la IA china
-
-La Primera de Expansión les cuenta hoy que el Gobierno rechaza que el Consorcio de Compensación de Seguros asuma el pago de las indemnizaciones por el apagón.
-
-Date: 2026-07-13
-
 ## Fuentes
 
-- [Los récords de exportación de coches de China marcan rumbo de colisión](https://cincodias.elpais.com/opinion/2026-07-16/los-records-de-exportacion-de-coches-de-china-marcan-rumbo-de-colision.html?utm_source=lootura.com) — 2026-07-16T03:40:00.000Z
-- [El PP impulsa el vínculo con Latinoamérica en la UE para competir con China](https://amp.elmundo.es/espana/2026/07/15/6a57c369fc6c83c54b8b458d.html?utm_source=lootura.com) — 2026-07-15T20:46:18.000Z
+- [El 'efecto Trump': China ya es más popular que Estados Unidos](https://www.abc.es/internacional/efecto-trump-china-popular-estados-unidos-20260716113053-nt.html?utm_source=lootura.com) — 2026-07-16T09:35:43.000Z
+- [Cómo el ‘Temu Range Rover’ de China se convirtió en el coche más vendido de Gran Bretaña](https://cincodias.elpais.com/companias/2026-07-16/como-el-temu-range-rover-de-china-se-convirtio-en-el-coche-mas-vendido-de-gran-bretana.html?utm_source=lootura.com) — 2026-07-16T09:46:24.000Z

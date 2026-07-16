@@ -8,9 +8,19 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/china/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/china/index.json",
   "description": "Sigue la actividad de China en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-16T06:27:44.347Z",
+  "updatedAt": "2026-07-16T10:06:17.457Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "El 'efecto Trump': China ya es más popular que Estados Unidos",
+      "summary": "Un año y medio después de su regreso a la Casa Blanca, Donald Trump ya ha logrado un vuelco planetario: por primera vez, China tiene una visión más favorable que Estados Unidos a nivel global . Así lo demuestra la última edición del estudio anual de opinión pública realizado por el Pew Research Center, publicada este j.",
+      "date": "2026-07-16"
+    },
+    {
+      "title": "Cómo el ‘Temu Range Rover’ de China se convirtió en el coche más vendido de Gran Bretaña",
+      "summary": "Los Land Rover son tan británicos como el rey, los crumpets y el críquet. Este robusto todoterreno ha sido un caballo de batalla para el ejército británico desde 1948. La familia real cuenta con una flota de Landys en su castillo de Escocia. Y en los Cotswolds —el destino de fin de semana por excelencia de Inglaterra,.",
+      "date": "2026-07-16"
+    },
     {
       "title": "Los récords de exportación de coches de China marcan rumbo de colisión",
       "summary": "Los fabricantes de automóviles chinos siguen impulsando la disrupción en el sector. Las exportaciones mensuales de coches del país acaban de superar por primera vez la barrera de los siete dígitos y no muestran signos de desaceleración . Esto reavivará los argumentos proteccionistas, acelerará la producción en el extra.",
@@ -50,30 +60,20 @@
       "title": "DeepSeek acelera los preparativos para salir a Bolsa",
       "summary": "DeepSeek acelera los preparativos para su salida a Bolsa . La empresa china de inteligencia artificial estudia presentar este mismo año la documentación necesaria para cotizar, con el objetivo de debutar en el mercado de Shanghai en 2027, según fuentes de la compañía citadas por Bloomberg. Seguir leyendo.",
       "date": "2026-07-14"
-    },
-    {
-      "title": "El último móvil de Samsung es uno de los mejores smartphones compactos de 2026 y está rebajado más de 200 euros",
-      "summary": "Samsung ha sabido mantenerse como una de las marcas de referencia en teléfonos móviles inteligentes Android. Aunque la competencia desde China es feroz, la compañía surcoreana sigue siendo la favorita de millones de personas, ya que ofrece terminales de buenas características y un soporte de actualizaciones muy extendi.",
-      "date": "2026-07-14"
-    },
-    {
-      "title": "La Primera de Expansión sobre el apagón, Brookfield, Inditex, Irán, Mitsubishi y la IA china",
-      "summary": "La Primera de Expansión les cuenta hoy que el Gobierno rechaza que el Consorcio de Compensación de Seguros asuma el pago de las indemnizaciones por el apagón.",
-      "date": "2026-07-13"
     }
   ],
   "sources": [
     {
-      "title": "Los récords de exportación de coches de China marcan rumbo de colisión",
-      "url": "https://cincodias.elpais.com/opinion/2026-07-16/los-records-de-exportacion-de-coches-de-china-marcan-rumbo-de-colision.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-16T03:40:00.000Z",
-      "sourceId": "lootura-es-cinco-dias"
+      "title": "El 'efecto Trump': China ya es más popular que Estados Unidos",
+      "url": "https://www.abc.es/internacional/efecto-trump-china-popular-estados-unidos-20260716113053-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-16T09:35:43.000Z",
+      "sourceId": "lootura-es-abc"
     },
     {
-      "title": "El PP impulsa el vínculo con Latinoamérica en la UE para competir con China",
-      "url": "https://amp.elmundo.es/espana/2026/07/15/6a57c369fc6c83c54b8b458d.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-15T20:46:18.000Z",
-      "sourceId": "lootura-es-el-mundo"
+      "title": "Cómo el ‘Temu Range Rover’ de China se convirtió en el coche más vendido de Gran Bretaña",
+      "url": "https://cincodias.elpais.com/companias/2026-07-16/como-el-temu-range-rover-de-china-se-convirtio-en-el-coche-mas-vendido-de-gran-bretana.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-16T09:46:24.000Z",
+      "sourceId": "lootura-es-cinco-dias"
     }
   ],
   "evidenceCount": 2

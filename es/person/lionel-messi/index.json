@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/lionel-messi/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/lionel-messi/index.json",
   "description": "Sigue la actividad de Lionel Messi en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-16T06:27:44.347Z",
+  "updatedAt": "2026-07-16T10:06:17.457Z",
   "aliases": [
     "Messi"
   ],
@@ -31,10 +31,10 @@
   ],
   "sources": [
     {
-      "title": "Atlanta fue el Azteca: Argentina renace por y para Messi en la batalla emocional contra Inglaterra y se medirá a España en la final del Mundial",
-      "url": "https://www.elmundo.es/deportes/futbol/mundial-de-futbol/2026/07/15/6a57cbd3e9cf4ab9528b459e.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-15T21:37:44.000Z",
-      "sourceId": "lootura-es-el-mundo"
+      "title": "Victoria Beckham y Antonela Roccuzzo, el otro gran duelo de la semifinal del Mundial",
+      "url": "https://www.abc.es/estilo/moda/victoria-beckham-antonela-roccuzzo-gran-duelo-semifinal-20260716105052-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-16T09:51:13.000Z",
+      "sourceId": "lootura-es-abc"
     },
     {
       "title": "Messi emula a Maradona ante Inglaterra y va a por Pelé",
@@ -43,5 +43,5 @@
       "sourceId": "lootura-es-el-pais"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 2
 }

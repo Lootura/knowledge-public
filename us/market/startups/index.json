@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/market/startups/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/market/startups/index.json",
   "description": "Follow Startups, a tracked market, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-16T06:28:11.623Z",
+  "updatedAt": "2026-07-16T10:06:43.244Z",
   "aliases": [
     "startup funding"
   ],
@@ -31,11 +31,11 @@
   ],
   "sources": [
     {
-      "title": "House vote to end Israel aid divides Democrats, with 103 voting to cut off funding",
-      "url": "https://www.cbsnews.com/news/us-israel-aid-house-democrats-massie-amendment/?utm_source=lootura.com",
-      "publishedAt": "2026-07-15T20:49:56.000Z",
-      "sourceId": "lootura-us-cbs-news"
+      "title": "Cancer disparities researchers say federal funding changes have disrupted their work",
+      "url": "https://www.npr.org/2026/07/15/nx-s1-5893653/cancer-disparities-gaps-research-funding-grant-disruptions?utm_source=lootura.com",
+      "publishedAt": "2026-07-15T15:16:35.000Z",
+      "sourceId": "lootura-us-npr"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 0
 }

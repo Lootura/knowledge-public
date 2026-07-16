@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/topic/artificial-intelligence/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/topic/artificial-intelligence/index.json",
   "description": "Follow Artificial intelligence, a tracked topic, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-16T06:28:11.623Z",
+  "updatedAt": "2026-07-16T10:06:43.244Z",
   "aliases": [
     "AI",
     "machine learning"
@@ -67,15 +67,21 @@
   ],
   "sources": [
     {
+      "title": "Our approach to bioresilience",
+      "url": "https://deepmind.google/blog/our-approach-to-bioresilience/?utm_source=lootura.com",
+      "publishedAt": "2026-07-16T09:30:42.000Z",
+      "sourceId": "lootura-us-google-deepmind"
+    },
+    {
       "title": "Highly fragmented European wetlands with uneven restoration needs",
       "url": "https://www.nature.com/articles/s41586-026-10760-9?utm_source=lootura.com",
-      "publishedAt": "2026-07-16T06:28:22.350Z",
+      "publishedAt": "2026-07-16T10:06:47.440Z",
       "sourceId": "lootura-us-nature"
     },
     {
       "title": "Does AI work for us, or do we work for AI?",
       "url": "https://www.science.org/doi/abs/10.1126/science.aei9754?af=R&utm_source=lootura.com",
-      "publishedAt": "2026-07-16T06:28:22.512Z",
+      "publishedAt": "2026-07-16T10:06:47.398Z",
       "sourceId": "lootura-us-science"
     }
   ],

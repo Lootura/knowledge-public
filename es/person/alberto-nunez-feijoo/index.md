@@ -70,4 +70,4 @@ Date: 2026-07-14
 
 ## Fuentes
 
-- [El PP impulsa el vínculo con Latinoamérica en la UE para competir con China](https://amp.elmundo.es/espana/2026/07/15/6a57c369fc6c83c54b8b458d.html?utm_source=lootura.com) — 2026-07-15T20:46:18.000Z
+No public source links.

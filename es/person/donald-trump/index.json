@@ -8,13 +8,18 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/donald-trump/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/donald-trump/index.json",
   "description": "Sigue la actividad de Donald Trump en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-16T06:27:44.347Z",
+  "updatedAt": "2026-07-16T10:06:17.457Z",
   "aliases": [
     "President Donald Trump",
     "President Trump",
     "Trump"
   ],
   "changes": [
+    {
+      "title": "El 'efecto Trump': China ya es más popular que Estados Unidos",
+      "summary": "Un año y medio después de su regreso a la Casa Blanca, Donald Trump ya ha logrado un vuelco planetario: por primera vez, China tiene una visión más favorable que Estados Unidos a nivel global . Así lo demuestra la última edición del estudio anual de opinión pública realizado por el Pew Research Center, publicada este j.",
+      "date": "2026-07-16"
+    },
     {
       "title": "Trump amenaza con atacar infraestructuras civiles si Irán no vuelve a negociar",
       "summary": "Estados Unidos ha reimpuesto el bloqueo naval sobre los puertos iraníes y ha intensificado su campaña de bombardeos contra la república islámica, en una nueva escalada de ataques que amenaza con devolver a Oriente Próximo a una guerra abierta y que vuelve a situar el estrecho de Ormuz en el centro del enfrentamiento.La.",
@@ -59,26 +64,15 @@
       "title": "El último giro de Trump alivia las Bolsas y modera el alza del ‘brent’",
       "summary": "Los mercados vuelven a enfrentarse a uno de los rasgos más característicos de la presidencia de Donald Trump: la imprevisibilidad. Apenas 24 horas después de que Washington restableciera el bloqueo en el estrecho de Ormuz y anunciara un peaje equivalente al 20% del valor de la carga para cada barco que atravesara este.",
       "date": "2026-07-14"
-    },
-    {
-      "title": "Trump dice ahora que aceptará acuerdos de inversión con los países del Golfo en lugar de una tarifa del 20% por usar Ormuz",
-      "summary": "Explica que el cambio se debe a conversaciones \"sumamente productivas\" con líderes de Oriente Próximo Leer.",
-      "date": "2026-07-14"
     }
   ],
   "sources": [
     {
-      "title": "Trump amenaza con atacar infraestructuras civiles si Irán no vuelve a negociar",
-      "url": "https://www.abc.es/internacional/trump-amenaza-atacar-infraestructuras-civiles-iran-vuelve-20260715174230-nt.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-16T05:22:48.000Z",
+      "title": "El 'efecto Trump': China ya es más popular que Estados Unidos",
+      "url": "https://www.abc.es/internacional/efecto-trump-china-popular-estados-unidos-20260716113053-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-16T09:35:43.000Z",
       "sourceId": "lootura-es-abc"
-    },
-    {
-      "title": "Trump se enreda de nuevo en una guerra de Irán sin salida clara",
-      "url": "https://elpais.com/internacional/2026-07-16/trump-se-enreda-de-nuevo-en-una-guerra-de-iran-sin-salida-clara.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-16T03:40:00.000Z",
-      "sourceId": "lootura-es-cinco-dias"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

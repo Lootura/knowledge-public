@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/venezuela/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/venezuela/index.json",
   "description": "Sigue la actividad de Venezuela en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-16T02:23:49.655Z",
+  "updatedAt": "2026-07-16T10:06:17.457Z",
   "aliases": [],
   "changes": [
     {
@@ -62,6 +62,13 @@
       "date": "2026-07-13"
     }
   ],
-  "sources": [],
+  "sources": [
+    {
+      "title": "Delcy Rodríguez se querella contra Aldama al no retractarse en relación al sobre de PDVSA",
+      "url": "https://theobjective.com/espana/tribunales/2026-07-16/delcy-rodriguez-querella-aldama-no-retractarse-sobre-pdvsa/?utm_source=lootura.com",
+      "publishedAt": "2026-07-16T09:30:38.000Z",
+      "sourceId": "lootura-es-the-objective"
+    }
+  ],
   "evidenceCount": 0
 }

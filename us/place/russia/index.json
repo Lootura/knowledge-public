@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/russia/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/russia/index.json",
   "description": "Follow Russia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-16T06:28:11.623Z",
+  "updatedAt": "2026-07-16T10:06:43.244Z",
   "aliases": [],
   "changes": [
     {
       "title": "How drones are reshaping modern warfare in Ukraine, Middle East",
       "summary": "Drones have become a defining feature of the conflict between Russia and Ukraine. They.",
+      "date": "2026-07-16"
+    },
+    {
+      "title": "Dismissal of Ukraine's popular defense minister draws intense criticism",
+      "summary": "As Ukraine signs drone deals and awaits licenses for Patriot missiles, the country's popular, tech-savvy defense minister, who helped Ukraine turn the tables on Russia through drone warfare, is fired.",
       "date": "2026-07-16"
     },
     {
@@ -55,11 +60,6 @@
       "title": "Japan Is Building a New Intelligence Agency With Help From the West",
       "summary": "Facing threats from Russia and China, Prime Minister Sanae Takaichi is breaking with World War II-era limits on security.",
       "date": "2026-07-13"
-    },
-    {
-      "title": "How Putin Turned Japan Into a Den of Spies",
-      "summary": "Operating out of a Tokyo high-rise, a military intelligence unit finds the high-tech equipment that Russia needs to wage war.",
-      "date": "2026-07-12"
     }
   ],
   "sources": [
@@ -68,7 +68,13 @@
       "url": "https://www.cbsnews.com/video/drones-warfare-iran-ukraine-russia-middle-east/?utm_source=lootura.com",
       "publishedAt": "2026-07-16T02:13:49.000Z",
       "sourceId": "lootura-us-cbs-news"
+    },
+    {
+      "title": "Dismissal of Ukraine's popular defense minister draws intense criticism",
+      "url": "https://www.npr.org/2026/07/16/nx-s1-5894781/dismissal-of-ukraines-popular-defense-minister-draws-intense-criticism?utm_source=lootura.com",
+      "publishedAt": "2026-07-16T08:44:04.000Z",
+      "sourceId": "lootura-us-npr-world"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 2
 }

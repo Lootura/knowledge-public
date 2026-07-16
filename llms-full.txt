@@ -8,8 +8,12 @@
 - [OpenAI](https://atlas.lootura.com/es/company/openai): Sigue la actividad de OpenAI en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 - [Audiencia Nacional](https://atlas.lootura.com/es/organization/audiencia-nacional): Sigue la actividad de Audiencia Nacional en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 - [Correos](https://atlas.lootura.com/es/organization/correos): Sigue la actividad de Correos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
+- [El Gobierno](https://atlas.lootura.com/es/organization/el-gobierno): Sigue la actividad de El Gobierno en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
+- [El Tribunal](https://atlas.lootura.com/es/organization/el-tribunal): Sigue la actividad de El Tribunal en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 - [FIFA](https://atlas.lootura.com/es/organization/fifa): Sigue la actividad de FIFA en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 - [Gobierno de España](https://atlas.lootura.com/es/organization/gobierno-de-espana): Sigue la actividad de Gobierno de España en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
+- [Guardia Civil](https://atlas.lootura.com/es/organization/guardia-civil): Sigue la actividad de Guardia Civil en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
+- [La Justicia](https://atlas.lootura.com/es/organization/la-justicia): Sigue la actividad de La Justicia en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 - [Las Malvinas](https://atlas.lootura.com/es/organization/las-malvinas): Sigue la actividad de Las Malvinas en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 - [Organización del Tratado del Atlántico Norte](https://atlas.lootura.com/es/organization/nato): Sigue la actividad de Organización del Tratado del Atlántico Norte en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 - [Partido Popular](https://atlas.lootura.com/es/organization/partido-popular): Sigue la actividad de Partido Popular en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
@@ -21,8 +25,10 @@
 - [Lionel Messi](https://atlas.lootura.com/es/person/lionel-messi): Sigue la actividad de Lionel Messi en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 - [Luis Goytisolo](https://atlas.lootura.com/es/person/luis-goytisolo): Sigue la actividad de Luis Goytisolo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 - [Mariano Rajoy](https://atlas.lootura.com/es/person/mariano-rajoy): Sigue la actividad de Mariano Rajoy en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
+- [Oriol Junqueras](https://atlas.lootura.com/es/person/oriol-junqueras): Sigue la actividad de Oriol Junqueras en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 - [Pedro Sánchez](https://atlas.lootura.com/es/person/pedro-sanchez): Sigue la actividad de Pedro Sánchez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 - [Reino Unido](https://atlas.lootura.com/es/person/reino-unido): Sigue la actividad de Reino Unido en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
+- [Salvador Illa](https://atlas.lootura.com/es/person/salvador-illa): Sigue la actividad de Salvador Illa en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 - [Barcelona](https://atlas.lootura.com/es/place/barcelona): Sigue la actividad de Barcelona en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 - [Bélgica](https://atlas.lootura.com/es/place/belgium): Sigue la actividad de Bélgica en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 - [China](https://atlas.lootura.com/es/place/china): Sigue la actividad de China en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
@@ -54,7 +60,7 @@
 - [Donald Trump](https://atlas.lootura.com/us/person/donald-trump): Follow Donald Trump, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 - [Graham Platner](https://atlas.lootura.com/us/person/graham-platner): Follow Graham Platner, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 - [Grand Staircase](https://atlas.lootura.com/us/person/grand-staircase): Follow Grand Staircase, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
-- [Kennedy Jr](https://atlas.lootura.com/us/person/kennedy-jr): Follow Kennedy Jr, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
+- [Jay Clayton](https://atlas.lootura.com/us/person/jay-clayton): Follow Jay Clayton, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 - [Oval Office](https://atlas.lootura.com/us/person/oval-office): Follow Oval Office, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 - [South Carolina](https://atlas.lootura.com/us/person/south-carolina): Follow South Carolina, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 - [Todd Blanche](https://atlas.lootura.com/us/person/todd-blanche): Follow Todd Blanche, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.

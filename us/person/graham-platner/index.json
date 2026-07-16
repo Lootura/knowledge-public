@@ -8,19 +8,19 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/graham-platner/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/graham-platner/index.json",
   "description": "Follow Graham Platner, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-16T06:28:11.623Z",
+  "updatedAt": "2026-07-16T10:06:43.244Z",
   "aliases": [
     "Platner"
   ],
   "changes": [
     {
-      "title": "Inside Maine Democrats’ Search for a New Senate Nominee After Graham Platner’s Exit",
-      "summary": "Democratic candidates are hastily building bare-bones campaigns and forgoing traditional outreach like TV ads in a sprint to appeal to party delegates, rather than Maine voters.",
+      "title": "Here Are the Maine Democrats Running to Replace Graham Platner",
+      "summary": "To win, they’ll have to convince Democrats at a July 25 convention that they’re the best candidate to take on Senator Susan Collins, a Republican.",
       "date": "2026-07-15"
     },
     {
-      "title": "Here Are the Maine Democrats Running to Replace Graham Platner",
-      "summary": "To win, they’ll have to convince Democrats at a July 25 convention that they’re the best candidate to take on Senator Susan Collins, a Republican.",
+      "title": "Inside Maine Democrats’ Search for a New Senate Nominee After Graham Platner’s Exit",
+      "summary": "Democratic candidates are hastily building bare-bones campaigns and forgoing traditional outreach like TV ads in a sprint to appeal to party delegates, rather than Maine voters.",
       "date": "2026-07-15"
     },
     {
@@ -70,13 +70,7 @@
       "url": "https://www.nytimes.com/2026/07/15/us/politics/maine-democrats-senate-candidates.html?utm_source=lootura.com",
       "publishedAt": "2026-07-15T21:21:03.000Z",
       "sourceId": "lootura-us-the-new-york-times-politics"
-    },
-    {
-      "title": "Inside Maine Democrats’ Search for a New Senate Nominee After Graham Platner’s Exit",
-      "url": "https://www.nytimes.com/2026/07/15/us/politics/maine-democrats-senate-convention.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-15T18:52:42.000Z",
-      "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

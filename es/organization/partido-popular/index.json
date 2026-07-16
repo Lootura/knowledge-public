@@ -8,11 +8,31 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/partido-popular/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/partido-popular/index.json",
   "description": "Sigue la actividad de Partido Popular en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-16T06:27:44.347Z",
+  "updatedAt": "2026-07-16T10:06:17.457Z",
   "aliases": [
     "PP"
   ],
   "changes": [
+    {
+      "title": "Para Illa, la UE avala la agenda del reencuentro, pero Junqueras dice que el conflicto sigue",
+      "summary": "TJUE sentencia por la Ley de Amnistía, en directo El TJUE avala el núcleo de la ley de amnistía, pero no implica la vuelta inmediata de Puigdemont \"Hay que zanjar el debate\": el PP pasa página de la amnistía para seguir centrado en la corrupción El presidente de la Generalitat, Salvador Illa , ha discrepado de manera s.",
+      "date": "2026-07-16"
+    },
+    {
+      "title": "Génova le quita importancia al fallo del TJUE y Aznar reclama que \"la agresión sediciosa no quede impune\"",
+      "summary": "El PP relativiza el alcance de la sentencia: \"No examina la constitucionalidad ni abarca toda la Ley de Amnistía\" Leer.",
+      "date": "2026-07-16"
+    },
+    {
+      "title": "El PP «respeta» la sentencia de la amnistía, pero recuerda que «ningún presidente debe cambiar poder por impunidad»",
+      "summary": "El Partido Popular ha señalado que «respeta» el fallo emitido este jueves por el Tribunal de Justicia de la Unión Europea (TJUE) que avala la Ley de Amnistía , aunque recuerda que « ningún presidente debe cambiar poder por impunidad » y «mucho menos hacerlo contra la voluntad de los españoles». « Es lo que hizo Pedro S.",
+      "date": "2026-07-16"
+    },
+    {
+      "title": "El PP puntualiza que el fallo del TJUE sobre la amnistía no examina su constitucionalidad",
+      "summary": "El PP ha puntualizado este jueves que el fallo del Tribunal de Justicia de la Unión Europea (TJUE) sobre la ley de amnistía es «un paso más» de un largo.",
+      "date": "2026-07-16"
+    },
     {
       "title": "La presión electoral calienta las listas del PP",
       "summary": "Feijóo anticipa a sus cabeza de cartel municipales. Los necesita para tensar la batalla de las generales.",
@@ -42,35 +62,33 @@
       "title": "El PP califica de «fraude» la aplicación provisional del acuerdo sobre Gibraltar",
       "summary": "El Partido Popular ha calificado de «fraude» la entrada en vigor del Tratado entre la Unión Europea y Reino Unido sobre Gibraltar , por el que ha entrado en vigor un sistema «sin ningún tipo de aprobación parlamentaria» y tampoco la del Parlamento Europeo. Así lo ha afirmado en un comunicado el partido liderado por Alb.",
       "date": "2026-07-15"
-    },
-    {
-      "title": "Almeida reprocha al «delincuente» hermano de Sánchez su «golfada y deshonestidad»",
-      "summary": "El alcalde de Madrid, José Luis Martínez-Almeida (PP), ha reprochado al «delincuente» hermano del presidente del Gobierno, Pedro Sánchez , por su «golfada y deshonestidad» después de que la Audiencia Provincial de Badajoz haya condenado a David Sánchez Pérez-Castejón a la pena de inhabilitación especial para empleo o c.",
-      "date": "2026-07-15"
-    },
-    {
-      "title": "El PP recuerda que fue Podemos quien denunció a David Sánchez en 2017",
-      "summary": "La portavoz del Grupo Popular en el Congreso, Ester Muñoz , ha recordado hoy que Podemos fue el primero en denunciar «nepotismo» en 2017 contra el hermano de Pedro Sánchez y ha acusado al Gobierno de «engañar» al afirmar que no existen pruebas contra David Sánchez , condenado ayer como cooperador necesario en un delito.",
-      "date": "2026-07-15"
-    },
-    {
-      "title": "CIS de Tezanos | El PSOE engorda con los casos judiciales y amplía la ventaja sobre el PP a casi 8 puntos",
-      "summary": "El PSOE recupera posiciones en el CIS de Tezanos . Los socialistas avanzan 1,7 puntos en el primer barómetro desde que se conocieran las condenas a José Luis Ábalos y Koldo García en el denominado caso mascarillas y apenas 24 horas después de que la Audiencia Provincial de Badajoz condenara a David Sánchez , hermano de.",
-      "date": "2026-07-15"
-    },
-    {
-      "title": "Ester Muñoz responde a Puente tras su polémico tuit insultando a Feijóo: \"No ha sido tajante, ha sido maleducado\"",
-      "summary": "Ester Muñoz ha respondido con firmeza a Óscar Puente tras el tuit que publicó insultando a Alberto Núñez Feijóo por sus palabras sobre la condena al hermano del presidente del Gobierno, David Sánchez. En una intervención en Al Rojo Vivo , la portavoz del PP ha asegurado que el ministro de Transportes no fue tajante, si.",
-      "date": "2026-07-15"
     }
   ],
   "sources": [
     {
-      "title": "El PP impulsa el vínculo con Latinoamérica en la UE para competir con China",
-      "url": "https://amp.elmundo.es/espana/2026/07/15/6a57c369fc6c83c54b8b458d.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-15T20:46:18.000Z",
+      "title": "Para Illa, la UE avala la agenda del reencuentro, pero Junqueras dice que el conflicto sigue",
+      "url": "https://www.elconfidencial.com/espana/cataluna/2026-07-16/illa-tjue-reencuentro-junqueras-conflicto-sigue_4390965/?utm_source=lootura.com",
+      "publishedAt": "2026-07-16T09:27:00.000Z",
+      "sourceId": "lootura-es-el-confidencial"
+    },
+    {
+      "title": "Génova le quita importancia al fallo del TJUE y Aznar reclama que \"la agresión sediciosa no quede impune\"",
+      "url": "https://www.elmundo.es/espana/2026/07/16/6a58a2b4e4d4d8a8558b45a5.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-16T09:22:12.000Z",
       "sourceId": "lootura-es-el-mundo"
+    },
+    {
+      "title": "El PP «respeta» la sentencia de la amnistía, pero recuerda que «ningún presidente debe cambiar poder por impunidad»",
+      "url": "https://okdiario.com/espana/pp-respeta-sentencia-amnistia-pero-recuerda-que-ningun-presidente-debe-cambiar-poder-impunidad-19007506?utm_source=lootura.com",
+      "publishedAt": "2026-07-16T09:57:58.000Z",
+      "sourceId": "lootura-es-ok-diario"
+    },
+    {
+      "title": "El PP puntualiza que el fallo del TJUE sobre la amnistía no examina su constitucionalidad",
+      "url": "https://theobjective.com/espana/politica/2026-07-16/pp-fallo-ley-amnistia/?amp=&utm_source=lootura.com",
+      "publishedAt": "2026-07-16T09:53:40.000Z",
+      "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 4
 }

@@ -3,7 +3,7 @@
 > Follow Startups, a tracked market, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: market
-- Updated: 2026-07-16T06:28:11.623Z
+- Updated: 2026-07-16T10:06:43.244Z
 - Canonical: https://atlas.lootura.com/us/market/startups
 
 ## Recent changes
@@ -28,4 +28,4 @@ Date: 2026-07-10
 
 ## Sources
 
-- [House vote to end Israel aid divides Democrats, with 103 voting to cut off funding](https://www.cbsnews.com/news/us-israel-aid-house-democrats-massie-amendment/?utm_source=lootura.com) — 2026-07-15T20:49:56.000Z
+- [Cancer disparities researchers say federal funding changes have disrupted their work](https://www.npr.org/2026/07/15/nx-s1-5893653/cancer-disparities-gaps-research-funding-grant-disruptions?utm_source=lootura.com) — 2026-07-15T15:16:35.000Z

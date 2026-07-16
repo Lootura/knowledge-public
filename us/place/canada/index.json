@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/canada/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/canada/index.json",
   "description": "Follow Canada, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-16T06:28:11.623Z",
+  "updatedAt": "2026-07-16T10:06:43.244Z",
   "aliases": [],
   "changes": [
     {
@@ -68,13 +68,7 @@
       "url": "https://www.cbsnews.com/news/wildfires-smoke-millions-exposed-midwest-northeast-us/?utm_source=lootura.com",
       "publishedAt": "2026-07-16T04:27:00.000Z",
       "sourceId": "lootura-us-cbs-news"
-    },
-    {
-      "title": "Heavy smoke from wildfires blankets the Northeast and Mideast, prompting evacuations",
-      "url": "https://www.pbs.org/newshour/nation/heavy-smoke-from-wildfires-blankets-the-northeast-and-mideast-prompting-evacuations?utm_source=lootura.com",
-      "publishedAt": "2026-07-15T20:35:35.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

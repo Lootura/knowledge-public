@@ -3,10 +3,16 @@
 > Follow White House, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-07-16T06:28:11.623Z
+- Updated: 2026-07-16T10:06:43.244Z
 - Canonical: https://atlas.lootura.com/us/organization/white-house
 
 ## Recent changes
+
+### Trump Administration Argues for Fencing Off Park Next to White House
+
+The Commission of Fine Arts is set to consider the administration’s proposal regarding Lafayette Square Park, which has been the site of numerous protests.
+
+Date: 2026-07-16
 
 ### U.S. to impose 25% tariffs on Brazilian imports over unfair trade practices, White House says
 
@@ -62,14 +68,8 @@ During a meeting with the prime minister of Iraq, President Trump discussed his 
 
 Date: 2026-07-14
 
-### How Lindsey Graham’s death quickly changes a busy Senate: From the Politics Desk
-
-Welcome to From the Politics Desk, a daily newsletter that brings you the NBC News Politics team’s latest reporting and analysis from the White House, Capitol Hill and the campaign trail.
-
-Date: 2026-07-13
-
 ## Sources
 
-- [U.S. to impose 25% tariffs on Brazilian imports over unfair trade practices, White House says](https://www.cbsnews.com/news/us-to-impose-25-percent-tariffs-on-brazil/?utm_source=lootura.com) — 2026-07-16T05:02:07.000Z
 - [Subpoenas over New York Times report on Air Force One raise press freedom concerns](https://www.pbs.org/newshour/show/subpoenas-over-new-york-times-report-on-air-force-one-raise-press-freedom-concerns?utm_source=lootura.com) — 2026-07-15T22:40:19.000Z
 - [Clayton Dodges Question on 2020 Election, and Democrats Call Him on It](https://www.nytimes.com/2026/07/15/us/politics/jay-clayton-confirmation-hearing-director-national-intelligence.html?utm_source=lootura.com) — 2026-07-15T21:50:43.000Z
+- [Trump Administration Argues for Fencing Off Park Next to White House](https://www.nytimes.com/2026/07/16/us/politics/trump-fine-arts-commission-lafayette-park.html?utm_source=lootura.com) — 2026-07-16T09:04:06.000Z

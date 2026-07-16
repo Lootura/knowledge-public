@@ -3,7 +3,7 @@
 > Follow Canada, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-16T06:28:11.623Z
+- Updated: 2026-07-16T10:06:43.244Z
 - Canonical: https://atlas.lootura.com/us/place/canada
 
 ## Recent changes
@@ -71,4 +71,3 @@ Date: 2026-07-11
 ## Sources
 
 - [Wildfires expose millions in Midwest, Northeast to dangerous smoke](https://www.cbsnews.com/news/wildfires-smoke-millions-exposed-midwest-northeast-us/?utm_source=lootura.com) — 2026-07-16T04:27:00.000Z
-- [Heavy smoke from wildfires blankets the Northeast and Mideast, prompting evacuations](https://www.pbs.org/newshour/nation/heavy-smoke-from-wildfires-blankets-the-northeast-and-mideast-prompting-evacuations?utm_source=lootura.com) — 2026-07-15T20:35:35.000Z

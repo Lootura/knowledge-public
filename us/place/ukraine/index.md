@@ -3,7 +3,7 @@
 > Follow Ukraine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-16T06:28:11.623Z
+- Updated: 2026-07-16T10:06:43.244Z
 - Canonical: https://atlas.lootura.com/us/place/ukraine
 
 ## Recent changes
@@ -11,6 +11,18 @@
 ### How drones are reshaping modern warfare in Ukraine, Middle East
 
 Drones have become a defining feature of the conflict between Russia and Ukraine. They.
+
+Date: 2026-07-16
+
+### Ukrainians protest over Zelenskyy's move to oust popular defense chief
+
+Ukrainians are demonstrating in Kyiv and senior figures announcing their resignations over President Volodymyr Zelenksyy's move to oust his popular defense chief.
+
+Date: 2026-07-16
+
+### Dismissal of Ukraine's popular defense minister draws intense criticism
+
+As Ukraine signs drone deals and awaits licenses for Patriot missiles, the country's popular, tech-savvy defense minister, who helped Ukraine turn the tables on Russia through drone warfare, is fired.
 
 Date: 2026-07-16
 
@@ -56,18 +68,8 @@ They began as supply mules. Now ground robots evacuate the wounded, hold trenche
 
 Date: 2026-07-13
 
-### The Next Phase in Ukraine’s War With Russia: The Battle for Minds
-
-Ukrainians, already drone innovators, are turning their focus to psychological operations aimed at undercutting Russian support for the war.
-
-Date: 2026-07-13
-
-### Ukraine's prime minister resigns; Zelenskyy shifts several government roles
-
-Ukrainian Prime Minister Yulia Svyrydenko has stepped down as President Volodymyr Zelenskyy announced fresh changes to Ukraine's government.
-
-Date: 2026-07-12
-
 ## Sources
 
+- [Ukrainians protest over Zelenskyy's move to oust popular defense chief](https://www.cbsnews.com/news/ukrainian-protest-zelenskyy-oust-defense-chief-mykhailo-fedorov-russia-war/?utm_source=lootura.com) — 2026-07-16T09:33:04.000Z
 - [How drones are reshaping modern warfare in Ukraine, Middle East](https://www.cbsnews.com/video/drones-warfare-iran-ukraine-russia-middle-east/?utm_source=lootura.com) — 2026-07-16T02:13:49.000Z
+- [Dismissal of Ukraine's popular defense minister draws intense criticism](https://www.npr.org/2026/07/16/nx-s1-5894781/dismissal-of-ukraines-popular-defense-minister-draws-intense-criticism?utm_source=lootura.com) — 2026-07-16T08:44:04.000Z

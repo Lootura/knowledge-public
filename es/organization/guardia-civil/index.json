@@ -1,0 +1,92 @@
+{
+  "id": "es-guardia-civil",
+  "name": "Guardia Civil",
+  "type": "organization",
+  "locale": "es",
+  "canonicalPath": "/es/organization/guardia-civil",
+  "canonicalUrl": "https://atlas.lootura.com/es/organization/guardia-civil",
+  "markdownUrl": "https://atlas.lootura.com/es/organization/guardia-civil/index.md",
+  "jsonUrl": "https://atlas.lootura.com/es/organization/guardia-civil/index.json",
+  "description": "Sigue la actividad de Guardia Civil en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
+  "updatedAt": "2026-07-16T10:06:17.457Z",
+  "aliases": [],
+  "changes": [
+    {
+      "title": "La directora de la Guardia Civil declara como imputada en el 'caso cloacas del PSOE' por obstrucción a la Justicia",
+      "summary": "González está imputada por un delito continuado de prevaricación y otro de obstrucción a la Justicia Leer.",
+      "date": "2026-07-16"
+    },
+    {
+      "title": "La directora de la Guardia Civil y su jefe operativo declaran como imputados en la Audiencia Nacional por el ‘caso Leire Díez’",
+      "summary": "La directora general de la Guardia Civil, Mercedes González, y el teniente general Manuel Llamas, actual director adjunto operativo (DAO) del instituto armado, ya se encuentran en el interior de la Audiencia Nacional, donde declaran este jueves como imputados en las pesquisas sobre una supuesta red organizada por la ex.",
+      "date": "2026-07-16"
+    },
+    {
+      "title": "Madrid pide al Gobierno que aclare si la Guardia Civil intentó «boicotear» el 2 de mayo",
+      "summary": "La Comunidad de Madrid ha exigido este jueves explicaciones al Gobierno de Pedro Sánchez por la información publicada hoy en ABC sobre un supuesto boicot instigado desde la Dirección de la Guardia Civil contra la presidenta regional, Isabel Díaz Ayuso , en el acto central del 2 de Mayo de 2025. Según publica el diario.",
+      "date": "2026-07-16"
+    },
+    {
+      "title": "Caso Leire Díez, en directo: Declaran la directora de la Guardia Civil y el DAO en la Audiencia Nacional",
+      "summary": "La Audiencia Nacional afronta este jueves una jornada clave del ' caso Leire Díez '. El juez Santiago Pedraz interrogará como investigados a la directora general de la Guardia Civil, Mercedes González, y al director adjunto operativo (DAO), Manuel Llamas. Todo ello, dentro de la investigación sobre la presunta trama pa.",
+      "date": "2026-07-16"
+    },
+    {
+      "title": "Un general denuncia a la cúpula de la Guardia Civil por coaccionarle para boicotear a Ayuso",
+      "summary": "Nunca antes en la historia de la Guardia Civil un general de división había presentado una denuncia contra un teniente general. Se trata de un caso paradigmático en un cuerpo de naturaleza militar que arrastra el descrédito de haber visto al director adjunto operativo (DAO), Manuel Llamas, ordenar a la Unidad Central O.",
+      "date": "2026-07-16"
+    },
+    {
+      "title": "La directora de la Guardia Civil declara como imputada en el 'caso cloacas del PSOE' por obstrucción a la Justicia",
+      "summary": "González está imputada por un delito continuado de prevaricación y otro de obstrucción a la Justicia Leer.",
+      "date": "2026-07-15"
+    },
+    {
+      "title": "La directora de la Guardia Civil declara como imputada en el 'caso Leire' por obstrucción a la Justicia",
+      "summary": "González está imputada por un delito continuado de prevaricación y otro de obstrucción a la Justicia Leer.",
+      "date": "2026-07-15"
+    },
+    {
+      "title": "Mueren una mujer y sus dos hijos en la presa de Roncal (Navarra)",
+      "summary": "Una mujer y sus dos hijos menores de edad han fallecido este miércoles en la presa de la localidad navarra de Roncal, en el río Esca, según ha detallado la Guardia Civil en un comunicado. La causa de la muerte es presuntamente un ahogamiento, extremo que deberá ser confirmado por la investigación en curso.Los hechos ha.",
+      "date": "2026-07-15"
+    },
+    {
+      "title": "El juez que investiga a Leire Díez prorroga la instrucción 6 meses y no le da la causa completa a la AN",
+      "summary": "El magistrado de Plaza de Castilla que instruye la causa contra la exmilitante socialista Leire Díez por presuntas presiones a jueces, fiscales y mandos de la Guardia Civil ha acordado ampliar seis meses la investigación . La decisión se adopta a la espera de un informe de la Policía que, una vez incorporado, servirá p.",
+      "date": "2026-07-15"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Guardia Civil first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-07-14"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Madrid exige explicaciones al Gobierno por el «inaudito» boicot a Ayuso en el Dos de Mayo",
+      "url": "https://www.abc.es/espana/madrid-exige-explicaciones-gobierno-supuesto-boicot-ayuso-20260716095914-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-16T07:59:14.000Z",
+      "sourceId": "lootura-es-abc"
+    },
+    {
+      "title": "La directora de la Guardia Civil declara como imputada en el 'caso cloacas del PSOE' por obstrucción a la Justicia",
+      "url": "https://www.elmundo.es/espana/2026/07/15/6a57ddb9fc6c838e4d8b45a4.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-16T08:21:52.000Z",
+      "sourceId": "lootura-es-el-mundo"
+    },
+    {
+      "title": "La directora de la Guardia Civil y su jefe operativo declaran como imputados en la Audiencia Nacional por el ‘caso Leire Díez’",
+      "url": "https://elpais.com/espana/2026-07-16/la-directora-de-la-guardia-civil-y-su-jefe-operativo-declaran-como-imputados-en-la-audiencia-nacional-por-el-caso-leire-diez.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-16T08:08:48.000Z",
+      "sourceId": "lootura-es-el-pais"
+    },
+    {
+      "title": "Madrid pide al Gobierno que aclare si la Guardia Civil intentó «boicotear» el 2 de mayo",
+      "url": "https://theobjective.com/espana/politica/2026-07-16/madrid-gobierno-guardia-civil-intento-boicotear-2-mayo/?utm_source=lootura.com",
+      "publishedAt": "2026-07-16T09:06:51.000Z",
+      "sourceId": "lootura-es-the-objective"
+    }
+  ],
+  "evidenceCount": 4
+}

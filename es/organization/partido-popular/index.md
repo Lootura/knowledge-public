@@ -3,10 +3,34 @@
 > Sigue la actividad de Partido Popular en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-16T06:27:44.347Z
+- Actualizado: 2026-07-16T10:06:17.457Z
 - Canonical: https://atlas.lootura.com/es/organization/partido-popular
 
 ## Cambios recientes
+
+### Para Illa, la UE avala la agenda del reencuentro, pero Junqueras dice que el conflicto sigue
+
+TJUE sentencia por la Ley de Amnistía, en directo El TJUE avala el núcleo de la ley de amnistía, pero no implica la vuelta inmediata de Puigdemont "Hay que zanjar el debate": el PP pasa página de la amnistía para seguir centrado en la corrupción El presidente de la Generalitat, Salvador Illa , ha discrepado de manera s.
+
+Date: 2026-07-16
+
+### Génova le quita importancia al fallo del TJUE y Aznar reclama que "la agresión sediciosa no quede impune"
+
+El PP relativiza el alcance de la sentencia: "No examina la constitucionalidad ni abarca toda la Ley de Amnistía" Leer.
+
+Date: 2026-07-16
+
+### El PP «respeta» la sentencia de la amnistía, pero recuerda que «ningún presidente debe cambiar poder por impunidad»
+
+El Partido Popular ha señalado que «respeta» el fallo emitido este jueves por el Tribunal de Justicia de la Unión Europea (TJUE) que avala la Ley de Amnistía , aunque recuerda que « ningún presidente debe cambiar poder por impunidad » y «mucho menos hacerlo contra la voluntad de los españoles». « Es lo que hizo Pedro S.
+
+Date: 2026-07-16
+
+### El PP puntualiza que el fallo del TJUE sobre la amnistía no examina su constitucionalidad
+
+El PP ha puntualizado este jueves que el fallo del Tribunal de Justicia de la Unión Europea (TJUE) sobre la ley de amnistía es «un paso más» de un largo.
+
+Date: 2026-07-16
 
 ### La presión electoral calienta las listas del PP
 
@@ -44,30 +68,9 @@ El Partido Popular ha calificado de «fraude» la entrada en vigor del Tratado e
 
 Date: 2026-07-15
 
-### Almeida reprocha al «delincuente» hermano de Sánchez su «golfada y deshonestidad»
-
-El alcalde de Madrid, José Luis Martínez-Almeida (PP), ha reprochado al «delincuente» hermano del presidente del Gobierno, Pedro Sánchez , por su «golfada y deshonestidad» después de que la Audiencia Provincial de Badajoz haya condenado a David Sánchez Pérez-Castejón a la pena de inhabilitación especial para empleo o c.
-
-Date: 2026-07-15
-
-### El PP recuerda que fue Podemos quien denunció a David Sánchez en 2017
-
-La portavoz del Grupo Popular en el Congreso, Ester Muñoz , ha recordado hoy que Podemos fue el primero en denunciar «nepotismo» en 2017 contra el hermano de Pedro Sánchez y ha acusado al Gobierno de «engañar» al afirmar que no existen pruebas contra David Sánchez , condenado ayer como cooperador necesario en un delito.
-
-Date: 2026-07-15
-
-### CIS de Tezanos | El PSOE engorda con los casos judiciales y amplía la ventaja sobre el PP a casi 8 puntos
-
-El PSOE recupera posiciones en el CIS de Tezanos . Los socialistas avanzan 1,7 puntos en el primer barómetro desde que se conocieran las condenas a José Luis Ábalos y Koldo García en el denominado caso mascarillas y apenas 24 horas después de que la Audiencia Provincial de Badajoz condenara a David Sánchez , hermano de.
-
-Date: 2026-07-15
-
-### Ester Muñoz responde a Puente tras su polémico tuit insultando a Feijóo: "No ha sido tajante, ha sido maleducado"
-
-Ester Muñoz ha respondido con firmeza a Óscar Puente tras el tuit que publicó insultando a Alberto Núñez Feijóo por sus palabras sobre la condena al hermano del presidente del Gobierno, David Sánchez. En una intervención en Al Rojo Vivo , la portavoz del PP ha asegurado que el ministro de Transportes no fue tajante, si.
-
-Date: 2026-07-15
-
 ## Fuentes
 
-- [El PP impulsa el vínculo con Latinoamérica en la UE para competir con China](https://amp.elmundo.es/espana/2026/07/15/6a57c369fc6c83c54b8b458d.html?utm_source=lootura.com) — 2026-07-15T20:46:18.000Z
+- [Para Illa, la UE avala la agenda del reencuentro, pero Junqueras dice que el conflicto sigue](https://www.elconfidencial.com/espana/cataluna/2026-07-16/illa-tjue-reencuentro-junqueras-conflicto-sigue_4390965/?utm_source=lootura.com) — 2026-07-16T09:27:00.000Z
+- [Génova le quita importancia al fallo del TJUE y Aznar reclama que "la agresión sediciosa no quede impune"](https://www.elmundo.es/espana/2026/07/16/6a58a2b4e4d4d8a8558b45a5.html?utm_source=lootura.com) — 2026-07-16T09:22:12.000Z
+- [El PP «respeta» la sentencia de la amnistía, pero recuerda que «ningún presidente debe cambiar poder por impunidad»](https://okdiario.com/espana/pp-respeta-sentencia-amnistia-pero-recuerda-que-ningun-presidente-debe-cambiar-poder-impunidad-19007506?utm_source=lootura.com) — 2026-07-16T09:57:58.000Z
+- [El PP puntualiza que el fallo del TJUE sobre la amnistía no examina su constitucionalidad](https://theobjective.com/espana/politica/2026-07-16/pp-fallo-ley-amnistia/?amp=&utm_source=lootura.com) — 2026-07-16T09:53:40.000Z

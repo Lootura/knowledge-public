@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/united-states/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/united-states/index.json",
   "description": "Follow United States, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-16T06:28:11.623Z",
+  "updatedAt": "2026-07-16T10:06:43.244Z",
   "aliases": [
     "America",
     "Estados Unidos",
@@ -23,11 +23,6 @@
     {
       "title": "U.S. citizen departs Iran after being barred from leaving for over a year",
       "summary": "A U.S.-Iranian woman who was trapped in Iran on allegations of espionage and collaborating with a hostile state that her attorney called \"bogus\" has departed the country, CBS News learned Wednesday.",
-      "date": "2026-07-16"
-    },
-    {
-      "title": "U.S. to impose 25% tariffs on Brazilian imports over unfair trade practices, White House says",
-      "summary": "The United States is imposing 25% tariffs on imports from Brazil after finding a range of what it deemed unfair trade practices by the world's 10th-biggest economy.",
       "date": "2026-07-16"
     },
     {
@@ -46,24 +41,29 @@
       "date": "2026-07-16"
     },
     {
-      "title": "Erica Schwartz testifies in confirmation hearing for CDC director",
-      "summary": "Schwartz told the Senate health committee she \"will never betray the science\" and pledged to use \"radical transparency\" in a bid to rebuild public trust in the agency. But several senators questioned how she might handle pressure from Health Secretary Robert F. Kennedy Jr., who has repeatedly moved to alter U.S. vaccin.",
-      "date": "2026-07-15"
+      "title": "Coast Guard suspends search for 3 missing boaters in San Francisco Bay",
+      "summary": "The U.S. Coast Guard announced Wednesday that the search for three boaters missing after their vessel sank in San Francisco Bay will be suspended at sunset.",
+      "date": "2026-07-16"
     },
     {
-      "title": "Senators Grill Justice Dept. Officials on New York Times Subpoenas",
-      "summary": "Democrats questioned the acting attorney general, Todd Blanche, and a U.S. attorney about subpoenas issued to Times journalists who reported on security concerns with the president’s new plane.",
-      "date": "2026-07-15"
+      "title": "U.S. to impose 25% tariffs on Brazilian imports over unfair trade practices",
+      "summary": "The United States is imposing 25% tariffs on imports from Brazil after finding a range of what it deemed unfair trade practices by the world's 10th-biggest economy.",
+      "date": "2026-07-16"
     },
     {
-      "title": "Fear and hope in Utah in the shadow of America's largest wildfire",
-      "summary": "People in Monticello, Utah have been tense and preparing to evacuate since shortly after the Babylon fire started June 26th (Image credit: Inciweb).",
-      "date": "2026-07-15"
+      "title": "Heavy smoke from wildfires blankets the US Midwest and Northeast, prompting evacuations",
+      "summary": "Thousands of visitors were told to evacuate a remote Minnesota wilderness area accessible only by boat as wildfires send dangerously heavy smoke over the U.S. Midwest and Northeast this week.",
+      "date": "2026-07-16"
     },
     {
-      "title": "Clayton Dodges Question on 2020 Election, and Democrats Call Him on It",
-      "summary": "Jay Clayton’s nomination to lead the U.S. intelligence community comes as the White House pushes to use declassified intelligence to show concerns about election security.",
-      "date": "2026-07-15"
+      "title": "Diesel Prices Hit $5 a Gallon Again, Up 33% Since Start of Iran War",
+      "summary": "U.S. diesel prices first surpassed $5 a gallon in March. Renewed fighting in the Persian Gulf and reduced refinery capacity is once again pushing up prices.",
+      "date": "2026-07-16"
+    },
+    {
+      "title": "U.S. to impose 25% tariffs on Brazilian imports over unfair trade practices, White House says",
+      "summary": "The United States is imposing 25% tariffs on imports from Brazil after finding a range of what it deemed unfair trade practices by the world's 10th-biggest economy.",
+      "date": "2026-07-16"
     }
   ],
   "sources": [
@@ -71,12 +71,6 @@
       "title": "U.S. citizen departs Iran after being barred from leaving for over a year",
       "url": "https://www.cbsnews.com/news/trapped-u-s-citizen-departs-iran/?utm_source=lootura.com",
       "publishedAt": "2026-07-16T01:39:19.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
-    {
-      "title": "U.S. to impose 25% tariffs on Brazilian imports over unfair trade practices, White House says",
-      "url": "https://www.cbsnews.com/news/us-to-impose-25-percent-tariffs-on-brazil/?utm_source=lootura.com",
-      "publishedAt": "2026-07-16T05:02:07.000Z",
       "sourceId": "lootura-us-cbs-news"
     },
     {
@@ -92,9 +86,21 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
+      "title": "Coast Guard suspends search for 3 missing boaters in San Francisco Bay",
+      "url": "https://www.cbsnews.com/news/boat-sinks-alcatraz-san-francisco-bay-fatal-capsizing-victims/?utm_source=lootura.com",
+      "publishedAt": "2026-07-16T04:05:00.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
+    {
       "title": "Wildfires expose millions in Midwest, Northeast to dangerous smoke",
       "url": "https://www.cbsnews.com/news/wildfires-smoke-millions-exposed-midwest-northeast-us/?utm_source=lootura.com",
       "publishedAt": "2026-07-16T04:27:00.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
+    {
+      "title": "U.S. to impose 25% tariffs on Brazilian imports over unfair trade practices",
+      "url": "https://www.cbsnews.com/news/us-to-impose-25-percent-tariffs-on-brazil/?utm_source=lootura.com",
+      "publishedAt": "2026-07-16T05:02:07.000Z",
       "sourceId": "lootura-us-cbs-news"
     },
     {
@@ -104,10 +110,10 @@
       "sourceId": "lootura-us-npr"
     },
     {
-      "title": "WATCH: Erica Schwartz testifies in confirmation hearing for CDC director",
-      "url": "https://www.pbs.org/newshour/politics/watch-erica-schwartz-testifies-in-confirmation-hearing-for-cdc-director?utm_source=lootura.com",
-      "publishedAt": "2026-07-15T20:12:02.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
+      "title": "Heavy smoke from wildfires blankets the US Midwest and Northeast, prompting evacuations",
+      "url": "https://phys.org/news/2026-07-heavy-wildfires-blankets-midwest-northeast.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-16T08:19:40.000Z",
+      "sourceId": "lootura-us-phys-org"
     },
     {
       "title": "Clayton Dodges Question on 2020 Election, and Democrats Call Him on It",
@@ -116,17 +122,11 @@
       "sourceId": "lootura-us-the-new-york-times"
     },
     {
-      "title": "Trump Administration to Impose New Tariffs on Brazil",
-      "url": "https://www.nytimes.com/2026/07/15/business/economy/trump-brazil-tariffs.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-16T04:43:45.000Z",
+      "title": "Diesel Prices Hit $5 a Gallon Again, Up 33% Since Start of Iran War",
+      "url": "https://www.nytimes.com/2026/07/16/business/diesel-prices-us-iran-war.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-16T08:57:51.000Z",
       "sourceId": "lootura-us-the-new-york-times"
-    },
-    {
-      "title": "Senators Grill Justice Dept. Officials on New York Times Subpoenas",
-      "url": "https://www.nytimes.com/2026/07/15/business/media/blanche-clayton-senate-nyt-subpoenas.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-15T19:59:04.000Z",
-      "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 12
+  "evidenceCount": 14
 }

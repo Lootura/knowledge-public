@@ -64,4 +64,4 @@ Date: 2026-07-09
 
 ## Fuentes
 
-- [España y Portugal viven una explosión de anuncios de nuevos centros de datos que multiplican por 18 la capacidad actual](https://cincodias.elpais.com/companias/2026-07-16/espana-y-portugal-viven-una-explosion-de-anuncios-de-nuevos-centros-de-datos-que-multiplican-por-18-la-capacidad-actual.html?utm_source=lootura.com) — 2026-07-16T03:15:00.000Z
+No public source links.

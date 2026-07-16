@@ -8,11 +8,16 @@
   "markdownUrl": "https://atlas.lootura.com/es/company/apple/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/company/apple/index.json",
   "description": "Sigue la actividad de Apple en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-16T02:23:49.655Z",
+  "updatedAt": "2026-07-16T10:06:17.457Z",
   "aliases": [
     "Apple Inc"
   ],
   "changes": [
+    {
+      "title": "Gracias, Apple. Por fin has llevado a los AirPods la función MÁS pedida desde hace 10 años",
+      "summary": "Apple acaba de darnos una de esas novedades que muchos ya habíamos dado por perdidas con la compañía. Sin avisar a nadie, ha lanzado una versión beta del software de los AirPods que incluye un nuevo modo de personalización que miles de usuarios llevan años pidiendo. No es cualquier cosa: se trata de un básico cuando co.",
+      "date": "2026-07-16"
+    },
     {
       "title": "Esta fue la causa por la que se rompieron las negociaciones entre Apple y OpenAI antes de la demanda",
       "summary": "Un correo mal dirigido ha sido el causante de que la relación entre OpenAI y Apple se rompiera. Previo a la demanda, las dos empresas intentaron resolver sus diferencias para no tener que llegar a los tribunales. No obstante, un simple error de destinatario terminó por complicar las negociaciones y cerrar esa puerta de.",
@@ -57,13 +62,15 @@
       "title": "Hacen lo mismo y cuestan mucho menos: las 3 mejores alternativas al AirTag de Apple",
       "summary": "El AirTag es uno de los mejores productos de Apple . Es relativamente económico, muy útil (especialmente si tienes un iPhone) y, además, hace tan solo unos meses mejoraba con una segunda generación mucho más precisa y con mejor sonido. Pero el localizador de objetos de la compañía de Cupertino no es el único que se ven.",
       "date": "2026-07-11"
-    },
-    {
-      "title": "Las 5 grandes series que debes ver si quieres sacarle el jugo a Apple TV",
-      "summary": "A menos que vivas bajo una piedra, ya lo sabes. Apple TV se ha convertido en la plataforma ideal para los amantes de las series . Y eso se debe a un motivo muy específico . Su éxito no se mide por la cantidad masiva de su catálogo, sino por una apuesta por la máxima calidad. Además del prestigio artístico y la distinci.",
-      "date": "2026-07-11"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Gracias, Apple. Por fin has llevado a los AirPods la función MÁS pedida desde hace 10 años",
+      "url": "https://hipertextual.com/apple/gracias-apple-por-fin-has-llevado-a-los-airpods-la-funcion-mas-pedida-desde-hace-10-anos/?utm_source=lootura.com",
+      "publishedAt": "2026-07-16T07:50:50.000Z",
+      "sourceId": "lootura-es-hipertextual"
+    }
+  ],
+  "evidenceCount": 1
 }

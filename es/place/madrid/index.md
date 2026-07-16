@@ -3,20 +3,38 @@
 > Sigue la actividad de Madrid en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-16T06:27:44.347Z
+- Actualizado: 2026-07-16T10:06:17.457Z
 - Canonical: https://atlas.lootura.com/es/place/madrid
 
 ## Cambios recientes
 
-### El Tribunal de Cuentas señala a Renfe por infringir la ley de contratos con los trenes alpinos de Madrid
-
-El Tribunal de Cuentas ha puesto el foco en Renfe Viajeros por la mala gestión de la compra y puesta en funcionamiento de seis trenes alpinos para la línea C-9 de la Comunidad de Madrid. El órgano fiscalizador señala a la empresa pública por infringir la Ley de Contratos del Sector Público al modificar los plazos y con.
-
-Date: 2026-07-16
-
 ### Los Cines Callao de Madrid celebran sus 100 años con una proyección de 'Regreso al futuro' al aire libre, agua y palomitas gratis
 
 Los Cines Callao de Madrid celebran 100 años de historia con un cine de verano gratuito en la plaza de Callao , donde proyectarán Regreso al futuro y repartirán palomitas y agua entre los asistentes. Cuando cae la tarde, la plaza de Callao cambia el ritmo frenético del centro de Madrid por un ambiente completamente dis.
+
+Date: 2026-07-16
+
+### Detienen al humorista Quequé en Salamanca por una reclamación judicial en Madrid
+
+El humorista Héctor de Miguel , popularmente conocido como Quequé, fue arrestado anoche en Salamanca por la Policía Nacional debido a una reclamación judicial cursada por un juzgado de Madrid. Según confirmaron a EFE fuentes de la Delegación del Gobierno en Castilla y León , el cómico permanece bajo custodia en su ciud.
+
+Date: 2026-07-16
+
+### Chiringuito, socorrista y aguas fresquitas: la mejor piscina natural cerca de Madrid está a menos de 90 minutos del centro
+
+Descubre la Charca de la Nieta en Ávila, un refugio natural con piscinas, socorrista y zonas de picnic: un plan familiar refrescante en Gredos.
+
+Date: 2026-07-16
+
+### Madrid pide al Gobierno que aclare si la Guardia Civil intentó «boicotear» el 2 de mayo
+
+La Comunidad de Madrid ha exigido este jueves explicaciones al Gobierno de Pedro Sánchez por la información publicada hoy en ABC sobre un supuesto boicot instigado desde la Dirección de la Guardia Civil contra la presidenta regional, Isabel Díaz Ayuso , en el acto central del 2 de Mayo de 2025. Según publica el diario.
+
+Date: 2026-07-16
+
+### El Tribunal de Cuentas señala a Renfe por infringir la ley de contratos con los trenes alpinos de Madrid
+
+El Tribunal de Cuentas ha puesto el foco en Renfe Viajeros por la mala gestión de la compra y puesta en funcionamiento de seis trenes alpinos para la línea C-9 de la Comunidad de Madrid. El órgano fiscalizador señala a la empresa pública por infringir la Ley de Contratos del Sector Público al modificar los plazos y con.
 
 Date: 2026-07-16
 
@@ -50,30 +68,10 @@ Amundi, Bestinver, Janus Henderson, Thornburg y Wellington son algunos de los pr
 
 Date: 2026-07-15
 
-### Muere a los 68 años el periodista y escritor Tomás Bárbulo
-
-El periodista y escritor Tomás Bárbulo ha muerto este miércoles en Madrid a los 68 años, según ha informado El País , el periódico del Grupo Prisa donde trabajó tres décadas. Como periodista ha sido miembro fundador de los diarios Expansión , La Gaceta de los Negocios y El Sol , y durante treinta años trabajó en El Paí.
-
-Date: 2026-07-15
-
-### Feijóo y Ayuso acusan a Sánchez de ser un “presidente autoritario” y un “autócrata sin escrúpulos”ante los líderes del PP europeo
-
-Ante algunos de los principales líderes del Partido Popular Europeo, reunidos este miércoles en Madrid, Alberto Núñez Feijóo ha lanzado la acusación más gruesa hasta la fecha contra Pedro Sánchez. El líder del PP no ha dudado en describir al líder socialista como “un presidente autoritario” delante del presidente del P.
-
-Date: 2026-07-15
-
-### El asesinato de Facundo por la espalda en una urbanización de lujo en Madrid
-
-Cinco vehículos policiales y dos camiones de bomberos indicaban este martes que algo grave había sucedido en la urbanización ubicada en el número 4 de la calle de Cirauqui de Madrid. En esta zona acomodada, sede de grandes empresas y poblada de fincas con piscina, no son habituales los altercados. Poco después de las d.
-
-Date: 2026-07-15
-
 ## Fuentes
 
-- [El Tribunal de Cuentas señala a Renfe por infringir la ley de contratos con los trenes alpinos de Madrid](https://www.elconfidencial.com/espana/madrid/2026-07-16/el-tribunal-de-cuentas-senala-a-renfe-por-infringir-la-ley-de-contratos-con-los-trenes-alpinos-de-madrid_4378932/?utm_source=lootura.com) — 2026-07-16T03:00:00.000Z
+- [Madrid exige explicaciones al Gobierno por el «inaudito» boicot a Ayuso en el Dos de Mayo](https://www.abc.es/espana/madrid-exige-explicaciones-gobierno-supuesto-boicot-ayuso-20260716095914-nt.html?utm_source=lootura.com) — 2026-07-16T07:59:14.000Z
+- [Detienen al humorista Quequé en Salamanca por una reclamación judicial en Madrid](https://www.elconfidencial.com/espana/2026-07-16/queque-detenido-salamanca-reclamacion-judicial-1tna-1tps_4390995/?utm_source=lootura.com) — 2026-07-16T09:58:00.000Z
 - [Los Cines Callao de Madrid celebran sus 100 años con una proyección de 'Regreso al futuro' al aire libre, agua y palomitas gratis](https://www.elconfidencial.com/espana/madrid/2026-07-16/cines-callao-madrid-regreso-al-futuro-1tna-1qrt_4390413/?utm_source=lootura.com) — 2026-07-16T05:48:00.000Z
-- [El PP impulsa el vínculo con Latinoamérica en la UE para competir con China](https://amp.elmundo.es/espana/2026/07/15/6a57c369fc6c83c54b8b458d.html?utm_source=lootura.com) — 2026-07-15T20:46:18.000Z
-- [Amundi, Bestinver y Wellington acuden a la salida a Bolsa de Digi](https://www.expansion.com/empresas/tecnologia/2026/07/16/6a57f55c468aeb95538b457f.html?utm_source=lootura.com) — 2026-07-15T22:25:56.000Z
-- [La ola de calor afloja en Madrid este jueves](https://www.larazon.es/madrid/ola-calor-afloja-madrid-este-jueves_202607166a5870981db8de04099108b3.html?utm_source=lootura.com) — 2026-07-16T05:48:08.000Z
-- [Montañas y piscinas naturales: el mejor plan de fin de semana en Madrid](https://www.larazon.es/madrid/montanas-piscinas-naturales-mejor-plan-fin-semana-madrid_202607166a587577e9f2e84b5c6af1d6.html?outputType=amp&utm_source=lootura.com) — 2026-07-16T06:08:55.000Z
-- [Precio de la gasolina hoy 16 de julio: localiza las gasolineras más baratas de Madrid](https://okdiario.com/madrid/precio-gasolina-hoy-16-julio-localiza-gasolineras-mas-baratas-madrid-18983979?utm_source=lootura.com) — 2026-07-16T06:00:27.000Z
+- [Chiringuito, socorrista y aguas fresquitas: la mejor piscina natural cerca de Madrid está a menos de 90 minutos del centro](https://okdiario.com/viajes/chiringuito-socorrista-aguas-fresquitas-mejor-piscina-natural-cerca-madrid-esta-menos-90-minutos-del-centro-18892100/amp?utm_source=lootura.com) — 2026-07-16T10:00:25.000Z
+- [Madrid pide al Gobierno que aclare si la Guardia Civil intentó «boicotear» el 2 de mayo](https://theobjective.com/espana/politica/2026-07-16/madrid-gobierno-guardia-civil-intento-boicotear-2-mayo/?utm_source=lootura.com) — 2026-07-16T09:06:51.000Z

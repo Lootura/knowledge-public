@@ -3,10 +3,34 @@
 > Sigue la actividad de Estados Unidos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-16T06:27:44.347Z
+- Actualizado: 2026-07-16T10:06:17.457Z
 - Canonical: https://atlas.lootura.com/es/place/united-states
 
 ## Cambios recientes
+
+### La OTAN se plantea cómo defender Europa oriental ante la retirada de Estados Unidos
+
+Esas extrañas criaturas emergen del bosque con estruendo, con el cuerpo cubierto de musgo, tela rasgada y hierba de plástico, y la cabeza velada por mallas negras. Los tanques Leopard y los vehículos de combate de infantería Puma de la 45.ª Brigada Panzer alemana llevan un camuflaje especial para ocultarse de los drone.
+
+Date: 2026-07-16
+
+### El 'efecto Trump': China ya es más popular que Estados Unidos
+
+Un año y medio después de su regreso a la Casa Blanca, Donald Trump ya ha logrado un vuelco planetario: por primera vez, China tiene una visión más favorable que Estados Unidos a nivel global . Así lo demuestra la última edición del estudio anual de opinión pública realizado por el Pew Research Center, publicada este j.
+
+Date: 2026-07-16
+
+### Uber lanza una oferta por el 100% de Delivery Hero, que vende el negocio de Glovo en España a un fondo de Estados Unidos
+
+Uber inicia oficialmente el proceso para hacerse con el 100% de las acciones de Delivery Hero, el grupo alemán de reparto de comida a domicilio propietario de la española Glovo. La compañía estadounidense, que ya opera en este sector bajo la enseña Uber Eats, ha lanzado formalmente una oferta pública de adquisición de.
+
+Date: 2026-07-16
+
+### Lula da Silva activa la ley de reciprocidad contra los aranceles de EEUU y culpa a los Bolsonaro: "Son falsos patriotas"
+
+El Gobierno de Brasil anunció este jueves que iniciará "inmediatamente" los trámites para aplicar la ley de reciprocidad en respuesta a los aranceles del 25% decretados por Estados Unidos a ciertos productos brasileños y culpó de ello a la familia del expresidente Jair Bolsonaro, informa la agencia Efe. "El 15 de julio.
+
+Date: 2026-07-16
 
 ### Trump amenaza con atacar infraestructuras civiles si Irán no vuelve a negociar
 
@@ -44,31 +68,9 @@ El Gobierno de Estados Unidos ha reclamado la liberación de un científico esta
 
 Date: 2026-07-15
 
-### Así es el Corsair, el primer dron naval kamikaze que EE. UU. ha usado en combate
-
-Estados Unidos ha utilizado por primera vez en combate un dron naval cargado de explosivos. Tres embarcaciones autónomas Corsair atacaron durante la noche del 12 de julio un submarino y unas instalaciones de mantenimiento de buques situadas en la base naval iraní de Bandar Abbas , junto al estratégico estrecho de Ormuz.
-
-Date: 2026-07-15
-
-### Adiós a OnePlus: la marca de Oppo abandona Europa y Estados Unidos esta misma semana
-
-Durante sus primeros años, especialmente entre 2014 y 2019, OnePlus se ganó una excelente reputación en el mercado de los smartphones gracias a dispositivos asequibles y potentes que incluso le granjearon la fama de ‘flagship killer’ . Pero pasaron los años, se integró en Oppo y tanto la filosofía de la marca como el m.
-
-Date: 2026-07-15
-
-### Bank of America enfría su visión sobre BBVA y Unicaja a las puertas de los resultados
-
-Bancos centrales, tensiones energéticas, dudas sobre el sector tecnológico, indicadores macroeconómicos... La lista de asuntos que vigilan los inversores no deja de crecer. A partir de la próxima semana se añadirá uno más: la temporada de resultados. Mientras los mercados intentan descifrar las intenciones del presiden.
-
-Date: 2026-07-15
-
-### Trump amenaza con atacar infraestructuras civiles si Irán no vuelve a negociar
-
-Estados Unidos ha reimpuesto el bloqueo naval sobre los puertos iraníes y ha intensificado su campaña de bombardeos contra la república islámica, en una nueva escalada de ataques que amenaza con devolver a Oriente Próximo a una guerra abierta y que vuelve a situar el estrecho de Ormuz en el centro del enfrentamiento.La.
-
-Date: 2026-07-15
-
 ## Fuentes
 
-- [Trump amenaza con atacar infraestructuras civiles si Irán no vuelve a negociar](https://www.abc.es/internacional/trump-amenaza-atacar-infraestructuras-civiles-iran-vuelve-20260715174230-nt.html?utm_source=lootura.com) — 2026-07-16T05:22:48.000Z
-- [Trump se enreda de nuevo en una guerra de Irán sin salida clara](https://elpais.com/internacional/2026-07-16/trump-se-enreda-de-nuevo-en-una-guerra-de-iran-sin-salida-clara.html?utm_source=lootura.com) — 2026-07-16T03:40:00.000Z
+- [La OTAN se plantea cómo defender Europa oriental ante la retirada de Estados Unidos](https://www.abc.es/internacional/otan-plantea-defender-europa-oriental-ante-retirada-20260716014015-nt.html?utm_source=lootura.com) — 2026-07-16T09:54:03.000Z
+- [El 'efecto Trump': China ya es más popular que Estados Unidos](https://www.abc.es/internacional/efecto-trump-china-popular-estados-unidos-20260716113053-nt.html?utm_source=lootura.com) — 2026-07-16T09:35:43.000Z
+- [Uber lanza una oferta por el 100% de Delivery Hero, que vende el negocio de Glovo en España a un fondo de Estados Unidos](https://cincodias.elpais.com/companias/2026-07-16/uber-lanza-una-oferta-por-el-100-de-delivery-hero-duena-de-glovo-bajo-una-valoracion-de-13000-millones-de-euros.html?utm_source=lootura.com) — 2026-07-16T07:21:30.000Z
+- [Lula da Silva activa la ley de reciprocidad contra los aranceles de EEUU y culpa a los Bolsonaro: "Son falsos patriotas"](https://www.larazon.es/internacional/lula-silva-activa-ley-reciprocidad-aranceles-eeuu-culpa-bolsonaro-son-falsos-patriotas_202607166a58ac55e9f2e84b5c6b696f.html?utm_source=lootura.com) — 2026-07-16T10:03:01.000Z

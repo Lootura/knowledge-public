@@ -3,10 +3,16 @@
 > Sigue la actividad de Organización del Tratado del Atlántico Norte en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-14T20:58:20.799Z
+- Actualizado: 2026-07-16T10:06:17.457Z
 - Canonical: https://atlas.lootura.com/es/organization/nato
 
 ## Cambios recientes
+
+### La OTAN se plantea cómo defender Europa oriental ante la retirada de Estados Unidos
+
+Esas extrañas criaturas emergen del bosque con estruendo, con el cuerpo cubierto de musgo, tela rasgada y hierba de plástico, y la cabeza velada por mallas negras. Los tanques Leopard y los vehículos de combate de infantería Puma de la 45.ª Brigada Panzer alemana llevan un camuflaje especial para ocultarse de los drone.
+
+Date: 2026-07-16
 
 ### Defensa considera que la cumbre de la OTAN abre oportunidades a la industria española
 
@@ -62,12 +68,6 @@ En la línea de montaje del A400M de la planta sevillana de San Pablo ya habían
 
 Date: 2026-07-12
 
-### EEUU bombardea de nuevo Irán tras anunciar Teherán el cierre del estrecho Ormuz y atacar un barco en el paso marítimo
-
-Irán dice que el paso de Ormuz está cerrado de nuevo después de que un buque que seguía una "ruta no autorizada" fuera alcanzado y el Ejército de EEUU anuncia que "está imponiendo un alto coste" a Irán Trump desata el caos con nuevos ataques sobre Irán, insultos a sus aliados de la OTAN, crisis internas y más muertes d.
-
-Date: 2026-07-12
-
 ## Fuentes
 
-No public source links.
+- [La OTAN se plantea cómo defender Europa oriental ante la retirada de Estados Unidos](https://www.abc.es/internacional/otan-plantea-defender-europa-oriental-ante-retirada-20260716014015-nt.html?utm_source=lootura.com) — 2026-07-16T09:54:03.000Z

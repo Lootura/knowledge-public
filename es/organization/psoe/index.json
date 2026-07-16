@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/psoe/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/psoe/index.json",
   "description": "Sigue la actividad de Partido Socialista Obrero Español en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-16T06:27:44.347Z",
+  "updatedAt": "2026-07-16T10:06:17.457Z",
   "aliases": [
     "Partido Socialista",
     "Partido Socialista Obrero Español"
@@ -17,6 +17,16 @@
     {
       "title": "La condena de David Sánchez espolea al PSOE: “La derecha política y judicial está logrando el efecto contrario”",
       "summary": "“En la sentencia a David Sánchez hay un daño personal al presidente, pero el daño electoral es cero. Lo mismo que con su esposa. Sí que lo hubo con [José Luis] Ábalos, condenado a 24 años, pero los casos de la familia se han convertido en un ataque personal. Y podrían convertirse en un bumerán contra la derecha”, afirm.",
+      "date": "2026-07-16"
+    },
+    {
+      "title": "La directora de la Guardia Civil declara como imputada en el 'caso cloacas del PSOE' por obstrucción a la Justicia",
+      "summary": "González está imputada por un delito continuado de prevaricación y otro de obstrucción a la Justicia Leer.",
+      "date": "2026-07-16"
+    },
+    {
+      "title": "El PSOE defiende que ya ha dado «todas las explicaciones posibles» del caso Leire Díez",
+      "summary": "La portavoz de la Ejecutiva Federal del PSOE, Montse Mínguez , ha defendido que el partido ya ha dado «todas las explicaciones posibles» sobre el caso Leire Díez e insiste en que es el tiempo de la investigación judicial con la que, asegura, están colaborando. Mínguez ha respondido así al ser cuestionada por el último.",
       "date": "2026-07-16"
     },
     {
@@ -53,23 +63,13 @@
       "title": "Feijóo eleva al máximo su crítica a Sánchez tras la condena de su hermano y lo llama \"presidente autoritario\"",
       "summary": "En un foro con líderes europeos e hispanoamericanos, acusa al PSOE de \"agredir\" a la democracia \"desde las más altas instancias\" Leer.",
       "date": "2026-07-15"
-    },
-    {
-      "title": "El CIS de Tezanos remonta al PSOE y le da una ventaja de casi ocho puntos sobre el PP en el mes de la condena a Ábalos",
-      "summary": "Feijóo cae dos puntos en porcentaje de voto y Abascal también retrocede ligeramente Leer.",
-      "date": "2026-07-15"
-    },
-    {
-      "title": "La presidenta del PSOE asegura al juez que hay «indicios preocupantes» sobre Leire Díez",
-      "summary": "La presidenta del PSOE, Cristina Narbona , ha declarado este miércoles ante el juez Santiago Pedraz que instruye el caso Leire Díez en la Audiencia Nacional que hay «indicios preocupantes» sobre la actuación de la exmilitante del partido, aunque al ser repreguntada no ha ahondado en el asunto, según fuentes jurídicas p.",
-      "date": "2026-07-15"
     }
   ],
   "sources": [
     {
       "title": "La directora de la Guardia Civil declara como imputada en el 'caso cloacas del PSOE' por obstrucción a la Justicia",
       "url": "https://www.elmundo.es/espana/2026/07/15/6a57ddb9fc6c838e4d8b45a4.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-15T20:45:45.000Z",
+      "publishedAt": "2026-07-16T08:21:52.000Z",
       "sourceId": "lootura-es-el-mundo"
     },
     {
@@ -77,7 +77,13 @@
       "url": "https://elpais.com/espana/2026-07-16/la-condena-de-david-sanchez-espolea-al-psoe-la-derecha-politica-y-judicial-esta-logrando-el-efecto-contrario.html?utm_source=lootura.com",
       "publishedAt": "2026-07-16T03:30:01.000Z",
       "sourceId": "lootura-es-el-pais"
+    },
+    {
+      "title": "El PSOE defiende que ya ha dado «todas las explicaciones posibles» del caso Leire Díez",
+      "url": "https://theobjective.com/espana/politica/2026-07-16/psoe-explicaciones-caso-leire-diez/?utm_source=lootura.com",
+      "publishedAt": "2026-07-16T09:06:53.000Z",
+      "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 3
 }

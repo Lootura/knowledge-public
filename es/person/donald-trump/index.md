@@ -3,10 +3,16 @@
 > Sigue la actividad de Donald Trump en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-16T06:27:44.347Z
+- Actualizado: 2026-07-16T10:06:17.457Z
 - Canonical: https://atlas.lootura.com/es/person/donald-trump
 
 ## Cambios recientes
+
+### El 'efecto Trump': China ya es más popular que Estados Unidos
+
+Un año y medio después de su regreso a la Casa Blanca, Donald Trump ya ha logrado un vuelco planetario: por primera vez, China tiene una visión más favorable que Estados Unidos a nivel global . Así lo demuestra la última edición del estudio anual de opinión pública realizado por el Pew Research Center, publicada este j.
+
+Date: 2026-07-16
 
 ### Trump amenaza con atacar infraestructuras civiles si Irán no vuelve a negociar
 
@@ -62,13 +68,6 @@ Los mercados vuelven a enfrentarse a uno de los rasgos más característicos de 
 
 Date: 2026-07-14
 
-### Trump dice ahora que aceptará acuerdos de inversión con los países del Golfo en lugar de una tarifa del 20% por usar Ormuz
-
-Explica que el cambio se debe a conversaciones "sumamente productivas" con líderes de Oriente Próximo Leer.
-
-Date: 2026-07-14
-
 ## Fuentes
 
-- [Trump amenaza con atacar infraestructuras civiles si Irán no vuelve a negociar](https://www.abc.es/internacional/trump-amenaza-atacar-infraestructuras-civiles-iran-vuelve-20260715174230-nt.html?utm_source=lootura.com) — 2026-07-16T05:22:48.000Z
-- [Trump se enreda de nuevo en una guerra de Irán sin salida clara](https://elpais.com/internacional/2026-07-16/trump-se-enreda-de-nuevo-en-una-guerra-de-iran-sin-salida-clara.html?utm_source=lootura.com) — 2026-07-16T03:40:00.000Z
+- [El 'efecto Trump': China ya es más popular que Estados Unidos](https://www.abc.es/internacional/efecto-trump-china-popular-estados-unidos-20260716113053-nt.html?utm_source=lootura.com) — 2026-07-16T09:35:43.000Z

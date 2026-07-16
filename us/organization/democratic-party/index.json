@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/democratic-party/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/democratic-party/index.json",
   "description": "Follow Democratic Party, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-16T06:28:11.623Z",
+  "updatedAt": "2026-07-16T10:06:43.244Z",
   "aliases": [
     "Democrats"
   ],
@@ -19,18 +19,8 @@
       "date": "2026-07-16"
     },
     {
-      "title": "Funding milestone detected",
-      "summary": "The amendment, which had no chance of passing, put Democrats in a politically tough spot.",
-      "date": "2026-07-15"
-    },
-    {
       "title": "Senators Grill Justice Dept. Officials on New York Times Subpoenas",
       "summary": "Democrats questioned the acting attorney general, Todd Blanche, and a U.S. attorney about subpoenas issued to Times journalists who reported on security concerns with the president’s new plane.",
-      "date": "2026-07-15"
-    },
-    {
-      "title": "Inside Maine Democrats’ Search for a New Senate Nominee After Graham Platner’s Exit",
-      "summary": "Democratic candidates are hastily building bare-bones campaigns and forgoing traditional outreach like TV ads in a sprint to appeal to party delegates, rather than Maine voters.",
       "date": "2026-07-15"
     },
     {
@@ -44,33 +34,37 @@
       "date": "2026-07-15"
     },
     {
+      "title": "Maine Democrats’ Adventurous Political Experiment",
+      "summary": "The party’s leaders have a political experiment on their hands.",
+      "date": "2026-07-15"
+    },
+    {
       "title": "Almost Half of House Democrats Vote to End Aid to Israel",
       "summary": "The measure failed, but the level of support among Democrats exposed a stark shift in the party away from backing the Jewish state.",
       "date": "2026-07-15"
     },
     {
-      "title": "Maine Democrats’ Adventurous Political Experiment",
-      "summary": "The party’s leaders have a political experiment on their hands.",
+      "title": "Funding milestone detected",
+      "summary": "The amendment, which had no chance of passing, put Democrats in a politically tough spot.",
+      "date": "2026-07-15"
+    },
+    {
+      "title": "Inside Maine Democrats’ Search for a New Senate Nominee After Graham Platner’s Exit",
+      "summary": "Democratic candidates are hastily building bare-bones campaigns and forgoing traditional outreach like TV ads in a sprint to appeal to party delegates, rather than Maine voters.",
+      "date": "2026-07-15"
+    },
+    {
+      "title": "Almost Half of House Democrats Vote to End Aid to Israel",
+      "summary": "The measure failed, but the level of support among Democrats exposed a stark shift in the party away from backing the Jewish state.",
       "date": "2026-07-15"
     },
     {
       "title": "Democrats' witness opposing Blanche's confirmation is more than an Epstein survivor",
       "summary": "Dani Bensky and a group of women who were abused by Jeffrey Epstein have formed a bond they call a \"survivor sisterhood.\" They live in two worlds, of advocacy and everyday life and motherhood. (Image credit: Corrie Aune for NPR).",
       "date": "2026-07-15"
-    },
-    {
-      "title": "An ICE Shooting in Maine Puts Pressure on Senator Susan Collins",
-      "summary": "The Democrats hoping to challenge Ms. Collins, a vulnerable Republican, have seized on the fatal incident, drawing attention to her record on immigration matters.",
-      "date": "2026-07-15"
     }
   ],
   "sources": [
-    {
-      "title": "House vote to end Israel aid divides Democrats, with 103 voting to cut off funding",
-      "url": "https://www.cbsnews.com/news/us-israel-aid-house-democrats-massie-amendment/?utm_source=lootura.com",
-      "publishedAt": "2026-07-15T20:49:56.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
     {
       "title": "Dems have a big cash advantage in key Senate races",
       "url": "https://www.politico.com/news/2026/07/16/democrats-senate-map-cash-advantage-elections-01000497?utm_source=lootura.com",
@@ -81,6 +75,12 @@
       "title": "Clayton Dodges Question on 2020 Election, and Democrats Call Him on It",
       "url": "https://www.nytimes.com/2026/07/15/us/politics/jay-clayton-confirmation-hearing-director-national-intelligence.html?utm_source=lootura.com",
       "publishedAt": "2026-07-15T21:50:43.000Z",
+      "sourceId": "lootura-us-the-new-york-times"
+    },
+    {
+      "title": "Almost Half of House Democrats Vote to End Aid to Israel",
+      "url": "https://www.nytimes.com/2026/07/15/us/politics/democrats-house-israel-vote-aid.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-15T21:42:59.000Z",
       "sourceId": "lootura-us-the-new-york-times"
     },
     {
@@ -96,23 +96,11 @@
       "sourceId": "lootura-us-the-new-york-times-politics"
     },
     {
-      "title": "Inside Maine Democrats’ Search for a New Senate Nominee After Graham Platner’s Exit",
-      "url": "https://www.nytimes.com/2026/07/15/us/politics/maine-democrats-senate-convention.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-15T18:52:42.000Z",
-      "sourceId": "lootura-us-the-new-york-times-politics"
-    },
-    {
-      "title": "Almost Half of House Democrats Vote to End Aid to Israel",
-      "url": "https://www.nytimes.com/2026/07/15/us/politics/democrats-house-israel-vote-aid.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-15T21:42:59.000Z",
-      "sourceId": "lootura-us-the-new-york-times-politics"
-    },
-    {
       "title": "Maine Democrats’ Adventurous Political Experiment",
       "url": "https://www.nytimes.com/2026/07/15/us/politics/maine-democrats-senate-adventure.html?utm_source=lootura.com",
       "publishedAt": "2026-07-15T22:10:18.000Z",
       "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 8
+  "evidenceCount": 6
 }

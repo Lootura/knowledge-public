@@ -3,22 +3,10 @@
 > Sigue la actividad de Iran en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-16T06:27:44.347Z
+- Actualizado: 2026-07-16T10:06:17.457Z
 - Canonical: https://atlas.lootura.com/es/place/iran
 
 ## Cambios recientes
-
-### Trump amenaza con atacar infraestructuras civiles si Irán no vuelve a negociar
-
-Estados Unidos ha reimpuesto el bloqueo naval sobre los puertos iraníes y ha intensificado su campaña de bombardeos contra la república islámica, en una nueva escalada de ataques que amenaza con devolver a Oriente Próximo a una guerra abierta y que vuelve a situar el estrecho de Ormuz en el centro del enfrentamiento.La.
-
-Date: 2026-07-16
-
-### Trump se enreda de nuevo en una guerra de Irán sin salida clara
-
-En las jornadas posteriores al ataque conjunto de Israel y Estados Unidos contra Irán del pasado 28 de febrero, Donald Trump cambió al menos una docena de veces de argumentos para justificar una operación militar que evitó llamar por su nombre (“guerra”, palabra que aún se resiste a emplear). Sobre su duración también.
-
-Date: 2026-07-16
 
 ### Las Bolsas europeas se estabilizan con el foco en los resultados y el petróleo
 
@@ -29,6 +17,18 @@ Date: 2026-07-16
 ### El Ibex vuelve a consolidar niveles
 
 Los mercados siguen encontrando obstáculos que atenazan sus subidas. La nueva espiral de ataques de EEUU sobre Irán y la subida de tipos en Corea mantienen en guardia a los inversores. El Ibex, con movimientos estrechos durante toda la semana, vuelve a consolidar niveles en el día del estreno en Bolsa de Digi.
+
+Date: 2026-07-16
+
+### Trump amenaza con atacar infraestructuras civiles si Irán no vuelve a negociar
+
+Estados Unidos ha reimpuesto el bloqueo naval sobre los puertos iraníes y ha intensificado su campaña de bombardeos contra la república islámica, en una nueva escalada de ataques que amenaza con devolver a Oriente Próximo a una guerra abierta y que vuelve a situar el estrecho de Ormuz en el centro del enfrentamiento.La.
+
+Date: 2026-07-16
+
+### Trump se enreda de nuevo en una guerra de Irán sin salida clara
+
+En las jornadas posteriores al ataque conjunto de Israel y Estados Unidos contra Irán del pasado 28 de febrero, Donald Trump cambió al menos una docena de veces de argumentos para justificar una operación militar que evitó llamar por su nombre (“guerra”, palabra que aún se resiste a emplear). Sobre su duración también.
 
 Date: 2026-07-16
 
@@ -70,7 +70,5 @@ Date: 2026-07-14
 
 ## Fuentes
 
-- [Trump amenaza con atacar infraestructuras civiles si Irán no vuelve a negociar](https://www.abc.es/internacional/trump-amenaza-atacar-infraestructuras-civiles-iran-vuelve-20260715174230-nt.html?utm_source=lootura.com) — 2026-07-16T05:22:48.000Z
-- [Trump se enreda de nuevo en una guerra de Irán sin salida clara](https://elpais.com/internacional/2026-07-16/trump-se-enreda-de-nuevo-en-una-guerra-de-iran-sin-salida-clara.html?utm_source=lootura.com) — 2026-07-16T03:40:00.000Z
 - [Las Bolsas europeas se estabilizan con el foco en los resultados y el petróleo](https://cincodias.elpais.com/mercados-financieros/2026-07-16/la-bolsa-y-el-ibex-35.html?utm_source=lootura.com) — 2026-07-16T04:34:20.000Z
-- [El Ibex vuelve a consolidar niveles](https://www.expansion.com/mercados/cronica-bolsa/2026/07/16/6a58713e468aeb64098b4570.html?utm_source=lootura.com) — 2026-07-16T06:21:28.000Z
+- [El Ibex vuelve a consolidar niveles](https://www.expansion.com/mercados/cronica-bolsa/2026/07/16/6a58713e468aeb64098b4570.html?utm_source=lootura.com) — 2026-07-16T08:09:31.000Z

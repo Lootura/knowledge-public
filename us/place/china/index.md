@@ -70,4 +70,4 @@ Date: 2026-07-13
 
 ## Sources
 
-- [China’s Economy Grows at Slowest Pace in Years](https://www.nytimes.com/2026/07/15/business/china-economy-gdp-growth.html?utm_source=lootura.com) — 2026-07-15T11:10:18.000Z
+No public source links.

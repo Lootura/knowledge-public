@@ -3,7 +3,7 @@
 > Sigue la actividad de Venezuela en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-16T02:23:49.655Z
+- Actualizado: 2026-07-16T10:06:17.457Z
 - Canonical: https://atlas.lootura.com/es/place/venezuela
 
 ## Cambios recientes
@@ -70,4 +70,4 @@ Date: 2026-07-13
 
 ## Fuentes
 
-No public source links.
+- [Delcy Rodríguez se querella contra Aldama al no retractarse en relación al sobre de PDVSA](https://theobjective.com/espana/tribunales/2026-07-16/delcy-rodriguez-querella-aldama-no-retractarse-sobre-pdvsa/?utm_source=lootura.com) — 2026-07-16T09:30:38.000Z

@@ -3,7 +3,7 @@
 > Follow Todd Blanche, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-07-16T06:28:11.623Z
+- Updated: 2026-07-16T10:06:43.244Z
 - Canonical: https://atlas.lootura.com/us/person/todd-blanche
 
 ## Recent changes

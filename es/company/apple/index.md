@@ -3,10 +3,16 @@
 > Sigue la actividad de Apple en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: company
-- Actualizado: 2026-07-16T02:23:49.655Z
+- Actualizado: 2026-07-16T10:06:17.457Z
 - Canonical: https://atlas.lootura.com/es/company/apple
 
 ## Cambios recientes
+
+### Gracias, Apple. Por fin has llevado a los AirPods la función MÁS pedida desde hace 10 años
+
+Apple acaba de darnos una de esas novedades que muchos ya habíamos dado por perdidas con la compañía. Sin avisar a nadie, ha lanzado una versión beta del software de los AirPods que incluye un nuevo modo de personalización que miles de usuarios llevan años pidiendo. No es cualquier cosa: se trata de un básico cuando co.
+
+Date: 2026-07-16
 
 ### Esta fue la causa por la que se rompieron las negociaciones entre Apple y OpenAI antes de la demanda
 
@@ -62,12 +68,6 @@ El AirTag es uno de los mejores productos de Apple . Es relativamente económico
 
 Date: 2026-07-11
 
-### Las 5 grandes series que debes ver si quieres sacarle el jugo a Apple TV
-
-A menos que vivas bajo una piedra, ya lo sabes. Apple TV se ha convertido en la plataforma ideal para los amantes de las series . Y eso se debe a un motivo muy específico . Su éxito no se mide por la cantidad masiva de su catálogo, sino por una apuesta por la máxima calidad. Además del prestigio artístico y la distinci.
-
-Date: 2026-07-11
-
 ## Fuentes
 
-No public source links.
+- [Gracias, Apple. Por fin has llevado a los AirPods la función MÁS pedida desde hace 10 años](https://hipertextual.com/apple/gracias-apple-por-fin-has-llevado-a-los-airpods-la-funcion-mas-pedida-desde-hace-10-anos/?utm_source=lootura.com) — 2026-07-16T07:50:50.000Z

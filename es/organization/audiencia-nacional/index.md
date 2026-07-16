@@ -3,10 +3,28 @@
 > Sigue la actividad de Audiencia Nacional en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-16T06:27:44.347Z
+- Actualizado: 2026-07-16T10:06:17.457Z
 - Canonical: https://atlas.lootura.com/es/organization/audiencia-nacional
 
 ## Cambios recientes
+
+### La Justicia europea descarta que la amnistía de Puigdemont afecte a los intereses económicos comunitarios
+
+La Corte europea ha dado lectura al fallo por el que resuelve las cuestiones prejudiciales planteadas por la Audiencia Nacional y el Tribunal de C...
+
+Date: 2026-07-16
+
+### La directora de la Guardia Civil y su jefe operativo declaran como imputados en la Audiencia Nacional por el ‘caso Leire Díez’
+
+La directora general de la Guardia Civil, Mercedes González, y el teniente general Manuel Llamas, actual director adjunto operativo (DAO) del instituto armado, ya se encuentran en el interior de la Audiencia Nacional, donde declaran este jueves como imputados en las pesquisas sobre una supuesta red organizada por la ex.
+
+Date: 2026-07-16
+
+### ¿Cuál es el recorrido judicial de Puigdemont tras el aval de la justicia europea a la amnistía?
+
+El Tribunal de Justicia de la Unión Europea (TJUE) ha avalado este jueves la ley de Amnistía que aprobó el Congreso en el 2024 en respuesta a las cuestiones prejudiciales que elevaron sobre el olvido penal tanto el Tribunal de Cuentas como la Audiencia Nacional , sobre la posibilidad de amnistiar los delitos de malvers.
+
+Date: 2026-07-16
 
 ### Caso Leire Díez, en directo: Declaran la directora de la Guardia Civil y el DAO en la Audiencia Nacional
 
@@ -50,19 +68,8 @@ Audiencia Nacional first entered the public knowledge record with source-backed 
 
 Date: 2026-07-14
 
-### Pedraz extiende la agonía del PSOE por el caso Leire: cita a su gerente en septiembre
-
-El magistrado de la Audiencia Nacional pide al empresario Joaquín Parra que aporte «las grabaciones que dice tener sobre las supuestas reuniones celebradas con Jacobo Teijelo», abogado de Santos Cerdán, y con Leire Díez.
-
-Date: 2026-07-14
-
-### La UCO detalla los pagos del PSOE a Leire Díez a través de tres empresas pantalla: 43.235 € en 5 pagos
-
-La Unidad Central Operativa ( UCO ) de la Guardia Civil ha remitido al juez Santiago Pedraz , de la Audiencia Nacional, un nuevo informe en el que se informa de pagos a la ex militante y fontanera del PSOE, Leire Díez , por una cantidad total de 16.000 euros , en cuatro transferencias, a través de la consultora de Gasp.
-
-Date: 2026-07-14
-
 ## Fuentes
 
-- [La Audiencia Nacional confirma el cártel de las consultoras con más de una veintena de firmas implicadas](https://cincodias.elpais.com/companias/2026-07-16/la-audiencia-nacional-confirma-el-cartel-de-las-consultoras-con-mas-de-una-veintena-de-firmas-implicadas.html?utm_source=lootura.com) — 2026-07-16T03:15:00.000Z
-- [Caso Leire Díez, en directo: Declaran la directora de la Guardia Civil y el DAO en la Audiencia Nacional](https://www.larazon.es/espana/caso-leire-diez-directo-declaran-directora-guardia-civil-dao-audiencia-nacional_202607166a5858791db8de040990f115.html?utm_source=lootura.com) — 2026-07-16T06:20:57.000Z
+- [La Justicia europea descarta que la amnistía de Puigdemont afecte a los intereses económicos comunitarios](https://www.eldebate.com/espana/20260716/justicia-euroepa-descarta-amnistia-puigdemont-afecte-intereses-economicos-union_440173.html?utm_source=lootura.com) — 2026-07-16T08:24:36.000Z
+- [La directora de la Guardia Civil y su jefe operativo declaran como imputados en la Audiencia Nacional por el ‘caso Leire Díez’](https://elpais.com/espana/2026-07-16/la-directora-de-la-guardia-civil-y-su-jefe-operativo-declaran-como-imputados-en-la-audiencia-nacional-por-el-caso-leire-diez.html?utm_source=lootura.com) — 2026-07-16T08:08:48.000Z
+- [¿Cuál es el recorrido judicial de Puigdemont tras el aval de la justicia europea a la amnistía?](https://www.lavanguardia.com/politica/20260716/11593540/cual-recorrido-judicial-puigdemont-aval-justicia-europea-amnistia.html?utm_source=lootura.com) — 2026-07-16T08:23:28.000Z

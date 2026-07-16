@@ -3,7 +3,7 @@
 > Follow Russia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-16T06:28:11.623Z
+- Updated: 2026-07-16T10:06:43.244Z
 - Canonical: https://atlas.lootura.com/us/place/russia
 
 ## Recent changes
@@ -11,6 +11,12 @@
 ### How drones are reshaping modern warfare in Ukraine, Middle East
 
 Drones have become a defining feature of the conflict between Russia and Ukraine. They.
+
+Date: 2026-07-16
+
+### Dismissal of Ukraine's popular defense minister draws intense criticism
+
+As Ukraine signs drone deals and awaits licenses for Patriot missiles, the country's popular, tech-savvy defense minister, who helped Ukraine turn the tables on Russia through drone warfare, is fired.
 
 Date: 2026-07-16
 
@@ -62,12 +68,7 @@ Facing threats from Russia and China, Prime Minister Sanae Takaichi is breaking 
 
 Date: 2026-07-13
 
-### How Putin Turned Japan Into a Den of Spies
-
-Operating out of a Tokyo high-rise, a military intelligence unit finds the high-tech equipment that Russia needs to wage war.
-
-Date: 2026-07-12
-
 ## Sources
 
 - [How drones are reshaping modern warfare in Ukraine, Middle East](https://www.cbsnews.com/video/drones-warfare-iran-ukraine-russia-middle-east/?utm_source=lootura.com) — 2026-07-16T02:13:49.000Z
+- [Dismissal of Ukraine's popular defense minister draws intense criticism](https://www.npr.org/2026/07/16/nx-s1-5894781/dismissal-of-ukraines-popular-defense-minister-draws-intense-criticism?utm_source=lootura.com) — 2026-07-16T08:44:04.000Z

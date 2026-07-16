@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/donald-trump/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/donald-trump/index.json",
   "description": "Follow Donald Trump, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-16T06:28:11.623Z",
+  "updatedAt": "2026-07-16T10:06:43.244Z",
   "aliases": [
     "President Donald Trump",
     "President Trump",
@@ -31,23 +31,28 @@
       "date": "2026-07-16"
     },
     {
-      "title": "Trump relished in being compared to dictators like Hitler and Stalin, journalist says",
-      "summary": "The New York Times journalist Jonathan Swan says the president is fixated on becoming a \"great man of history\" during his second term. Swan's new book, written with Maggie Haberman, is Regime Change. (Image credit: Jacquelyn Martin).",
-      "date": "2026-07-15"
+      "title": "TrumpRx promised a supermarket for cheaper drugs but delivered a boutique",
+      "summary": "President Trump said TrumpRx is the biggest thing to happen in healthcare in decades. But an NPR analysis finds drugmakers are only offering deals on a few of their medicines.",
+      "date": "2026-07-16"
+    },
+    {
+      "title": "The use of force has become a 'default tool' for ICE officers, a new report finds",
+      "summary": "An ACLU report looks at the widespread use of force in immigration enforcement in the first year of President Trump's return to office. Recent fatal shootings in Texas and Maine have brought renewed scrutiny to the agency's tactics. (Image credit: Scott Olson).",
+      "date": "2026-07-16"
+    },
+    {
+      "title": "Trump earned billions last year. Some Pennsylvania swing voters say they don't care",
+      "summary": "Key voters in Pennsylvania are split on whether President Trump earning a big windfall last year is a big deal or not. Their reaction reveals a level of cynicism about many in the political class. (Image credit: Alex Wong).",
+      "date": "2026-07-16"
+    },
+    {
+      "title": "Trump's Iran notice aims to reset war powers clock amid growing political risks",
+      "summary": "The Trump administration's notification to restart the war with Iran aims to reset a 60-day clock for military action, but questions are mounting about public support as midterms approach.",
+      "date": "2026-07-16"
     },
     {
       "title": "Trump’s Latest C.D.C. Nominee Vows Not to ‘Betray the Science’",
       "summary": "Dr. Erica Schwartz told senators in a confirmation hearing that she did not think Robert F. Kennedy Jr. or President Trump would ask her to do anything to hurt public health. Some senators were incredulous.",
-      "date": "2026-07-15"
-    },
-    {
-      "title": "Treasury to Begin Minting $1 Gold Trump Coin Featuring President’s Face",
-      "summary": "Critics question whether the coins are legal and argue that President Trump is using the currency to celebrate himself.",
-      "date": "2026-07-15"
-    },
-    {
-      "title": "Senator Presses for Scrutiny of Blanche’s Role in Spiking Clemency Inquiry",
-      "summary": "During his confirmation hearing, the acting attorney general refused to discuss the termination of an investigation into a commutation issued by President Trump.",
       "date": "2026-07-15"
     },
     {
@@ -59,11 +64,6 @@
       "title": "What Blanche said about Trump, Epstein files during confirmation hearing for attorney general",
       "summary": "Acting Attorney General Todd Blanche tried to assert his independence from President Donald Trump during his confirmation hearing Wednesday before the Senate Judiciary Committee.",
       "date": "2026-07-15"
-    },
-    {
-      "title": "U.S. Military Again Blockades Iranian Ports After Collapse of Cease-Fire",
-      "summary": "President Trump ordered U.S. warships and aircraft to stop vessels going to and from Iran. Enforcing a blockade takes a huge commitment of warships and aircraft.",
-      "date": "2026-07-15"
     }
   ],
   "sources": [
@@ -74,9 +74,27 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "Trump relished in being compared to dictators like Hitler and Stalin, journalist says",
-      "url": "https://www.npr.org/2026/07/15/nx-s1-5893633/trump-regime-change-jonathan-swan-maggie-haberman?utm_source=lootura.com",
-      "publishedAt": "2026-07-15T18:56:56.000Z",
+      "title": "TrumpRx promised a supermarket for cheaper drugs but delivered a boutique",
+      "url": "https://www.npr.org/2026/07/16/nx-s1-5894947/trump-rx-medicine-drugs-health-care-pfizer-low-prices-gilead?utm_source=lootura.com",
+      "publishedAt": "2026-07-16T09:00:00.000Z",
+      "sourceId": "lootura-us-npr"
+    },
+    {
+      "title": "The use of force has become a 'default tool' for ICE officers, a new report finds",
+      "url": "https://www.npr.org/2026/07/16/nx-s1-5891834/ice-use-of-force-aclu-report?utm_source=lootura.com",
+      "publishedAt": "2026-07-16T09:00:00.000Z",
+      "sourceId": "lootura-us-npr"
+    },
+    {
+      "title": "Trump earned billions last year. Some Pennsylvania swing voters say they don't care",
+      "url": "https://www.npr.org/2026/07/16/nx-s1-5893599/pennsylvania-focus-groups-trump-corruption?utm_source=lootura.com",
+      "publishedAt": "2026-07-16T09:00:00.000Z",
+      "sourceId": "lootura-us-npr-politics"
+    },
+    {
+      "title": "Trump's Iran notice aims to reset war powers clock amid growing political risks",
+      "url": "https://www.npr.org/2026/07/16/nx-s1-5894928/trumps-iran-notice-aims-to-reset-war-powers-clock-amid-growing-political-risks?utm_source=lootura.com",
+      "publishedAt": "2026-07-16T08:43:30.000Z",
       "sourceId": "lootura-us-npr-politics"
     },
     {
@@ -108,25 +126,7 @@
       "url": "https://www.nytimes.com/2026/07/15/us/politics/us-blockade-iran.html?utm_source=lootura.com",
       "publishedAt": "2026-07-15T23:02:36.000Z",
       "sourceId": "lootura-us-the-new-york-times-politics"
-    },
-    {
-      "title": "Treasury to Begin Minting $1 Gold Trump Coin Featuring President’s Face",
-      "url": "https://www.nytimes.com/2026/07/15/us/politics/gold-trump-coins.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-15T18:05:07.000Z",
-      "sourceId": "lootura-us-the-new-york-times-politics"
-    },
-    {
-      "title": "Investigators Seek Information From Government Officials as Part of Air Force One Leak Investigation",
-      "url": "https://www.nytimes.com/2026/07/15/us/politics/air-force-one-lead-investigation-government-officials.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-16T00:36:50.000Z",
-      "sourceId": "lootura-us-the-new-york-times-politics"
-    },
-    {
-      "title": "Senator Presses for Scrutiny of Blanche’s Role in Spiking Clemency Inquiry",
-      "url": "https://www.nytimes.com/2026/07/15/us/politics/blumenthal-blanche-trump-clemency.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-15T17:30:53.000Z",
-      "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 11
+  "evidenceCount": 12
 }

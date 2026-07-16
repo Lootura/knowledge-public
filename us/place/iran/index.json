@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/iran/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/iran/index.json",
   "description": "Follow Iran, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-16T06:28:11.623Z",
+  "updatedAt": "2026-07-16T10:06:43.244Z",
   "aliases": [],
   "changes": [
     {
@@ -19,6 +19,16 @@
     {
       "title": "U.S., Iran in a \"new phase\" of the conflict, retired Navy vice admiral explains",
       "summary": "U.S. Central Command confirmed it began a second wave of strikes against Iran on Wednesday, following a round of attacks earlier in the day. Retired Navy Vice Adm. Robert Murrett joins CBS News to discuss.",
+      "date": "2026-07-16"
+    },
+    {
+      "title": "Trump's Iran notice aims to reset war powers clock amid growing political risks",
+      "summary": "The Trump administration's notification to restart the war with Iran aims to reset a 60-day clock for military action, but questions are mounting about public support as midterms approach.",
+      "date": "2026-07-16"
+    },
+    {
+      "title": "Diesel Prices Hit $5 a Gallon Again, Up 33% Since Start of Iran War",
+      "summary": "U.S. diesel prices first surpassed $5 a gallon in March. Renewed fighting in the Persian Gulf and reduced refinery capacity is once again pushing up prices.",
       "date": "2026-07-16"
     },
     {
@@ -50,16 +60,6 @@
       "title": "House Republicans push for $95B for Iran war, election measures and farm aid",
       "summary": "House Republicans kicked off their plans for a third reconciliation bill for $90 billion in new money for the military during the Iran war and election-related measures.",
       "date": "2026-07-15"
-    },
-    {
-      "title": "Giant Statue Mocking Trump's War in Iran Draws Attention in D.C.",
-      "summary": "An \"Iran War Participation Trophy\" dedicated to President Donald Trump appears next to the MLK Jr. Memorial Bookstore in Washington, D.C. on July 13, 2026. —The Washington Post via Getty Images A golden statue titled the “Iran War Participation Trophy” is the latest piece of art to appear on the National Mall in Washin.",
-      "date": "2026-07-15"
-    },
-    {
-      "title": "Trump says he won't rule out sending ground troops to Iran",
-      "summary": "President Trump told Fox News on Tuesday that he won't rule out a ground invasion of Iran. The comments come amid another round of U.S. strikes against Iranian targets. CBS News' Eleanor Watson reports.",
-      "date": "2026-07-15"
     }
   ],
   "sources": [
@@ -76,11 +76,23 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
+      "title": "Trump's Iran notice aims to reset war powers clock amid growing political risks",
+      "url": "https://www.npr.org/2026/07/16/nx-s1-5894928/trumps-iran-notice-aims-to-reset-war-powers-clock-amid-growing-political-risks?utm_source=lootura.com",
+      "publishedAt": "2026-07-16T08:43:30.000Z",
+      "sourceId": "lootura-us-npr-politics"
+    },
+    {
+      "title": "Diesel Prices Hit $5 a Gallon Again, Up 33% Since Start of Iran War",
+      "url": "https://www.nytimes.com/2026/07/16/business/diesel-prices-us-iran-war.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-16T08:57:51.000Z",
+      "sourceId": "lootura-us-the-new-york-times"
+    },
+    {
       "title": "U.S. Military Again Blockades Iranian Ports After Collapse of Cease-Fire",
       "url": "https://www.nytimes.com/2026/07/15/us/politics/us-blockade-iran.html?utm_source=lootura.com",
       "publishedAt": "2026-07-15T23:02:36.000Z",
       "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 5
 }
