@@ -1,0 +1,45 @@
+{
+  "id": "es-la-audiencia-nacional",
+  "name": "La Audiencia Nacional",
+  "type": "person",
+  "locale": "es",
+  "canonicalPath": "/es/person/la-audiencia-nacional",
+  "canonicalUrl": "https://atlas.lootura.com/es/person/la-audiencia-nacional",
+  "markdownUrl": "https://atlas.lootura.com/es/person/la-audiencia-nacional/index.md",
+  "jsonUrl": "https://atlas.lootura.com/es/person/la-audiencia-nacional/index.json",
+  "description": "Sigue la actividad de La Audiencia Nacional en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
+  "updatedAt": "2026-07-16T06:27:44.347Z",
+  "aliases": [],
+  "changes": [
+    {
+      "title": "La Audiencia Nacional confirma el cártel de las consultoras con más de una veintena de firmas implicadas",
+      "summary": "ha confirmado que, entre los años 2008 y 2018, existió un cártel formado por empresas de consultoría , que intercambiaron información comercial sensible y se sirvieron de estrategias comunes para garantizarse licitaciones públicas. En cinco sentencias, consultadas por este periódico, la Sala de lo.",
+      "date": "2026-07-16"
+    },
+    {
+      "title": "Caso Leire Díez, en directo: Declaran la directora de la Guardia Civil y el DAO en la Audiencia Nacional",
+      "summary": "afronta este jueves una jornada clave del ' caso Leire Díez '. El juez Santiago Pedraz interrogará como investigados a la directora general de la Guardia Civil, Mercedes González, y al director adjunto operativo (DAO), Manuel Llamas. Todo ello, dentro de la investigación sobre la presunta trama pa.",
+      "date": "2026-07-16"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "La Audiencia Nacional first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-07-16"
+    }
+  ],
+  "sources": [
+    {
+      "title": "La Audiencia Nacional confirma el cártel de las consultoras con más de una veintena de firmas implicadas",
+      "url": "https://cincodias.elpais.com/companias/2026-07-16/la-audiencia-nacional-confirma-el-cartel-de-las-consultoras-con-mas-de-una-veintena-de-firmas-implicadas.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-16T03:15:00.000Z",
+      "sourceId": "lootura-es-cinco-dias"
+    },
+    {
+      "title": "Caso Leire Díez, en directo: Declaran la directora de la Guardia Civil y el DAO en la Audiencia Nacional",
+      "url": "https://www.larazon.es/espana/caso-leire-diez-directo-declaran-directora-guardia-civil-dao-audiencia-nacional_202607166a5858791db8de040990f115.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-16T06:20:57.000Z",
+      "sourceId": "lootura-es-la-razon"
+    }
+  ],
+  "evidenceCount": 2
+}

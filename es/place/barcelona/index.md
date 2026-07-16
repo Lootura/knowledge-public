@@ -3,7 +3,7 @@
 > Sigue la actividad de Barcelona en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-16T06:15:06.275Z
+- Actualizado: 2026-07-16T06:27:44.347Z
 - Canonical: https://atlas.lootura.com/es/place/barcelona
 
 ## Cambios recientes
@@ -70,5 +70,5 @@ Date: 2026-07-13
 
 ## Fuentes
 
-- [Rodri Hernández, el paradójico heredero de Busquets: corre hasta 12 kilómetros por partido](https://elpais.com/deportes/mundial-futbol/2026-07-15/el-paradojico-heredero-de-busquets-rodri-hernandez-rompe-el-gps.html?utm_source=lootura.com) — 2026-07-15T16:55:01.000Z
+- [Así ha sido el gol de Gordon para Inglaterra que abrió el marcador ante Argentina en el Mundial](https://elpais.com/deportes/mundial-futbol/2026-07-15/asi-ha-sido-el-gol-de-gordon-para-inglaterra-que-abrio-el-marcador-ante-argentina-en-el-mundial.html?utm_source=lootura.com) — 2026-07-15T21:19:53.000Z
 - [La impresionante casa de Ferran Torres en Gavá Mar: un refugio de lujo con piscina privada, gimnasio y máxima privacidad](https://okdiario.com/cool/famosos/casa-ferran-torres-barcelona-19001156/amp?utm_source=lootura.com) — 2026-07-16T06:05:35.000Z

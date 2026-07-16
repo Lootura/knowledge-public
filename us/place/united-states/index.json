@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/united-states/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/united-states/index.json",
   "description": "Follow United States, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-16T06:15:30.586Z",
+  "updatedAt": "2026-07-16T06:28:11.623Z",
   "aliases": [
     "America",
     "Estados Unidos",
@@ -27,7 +27,7 @@
     },
     {
       "title": "U.S. to impose 25% tariffs on Brazilian imports over unfair trade practices, White House says",
-      "summary": "The United States is imposing 25% tariffs on imports from Brazil after finding a range of what it deemed unfair trade practices by the world.",
+      "summary": "The United States is imposing 25% tariffs on imports from Brazil after finding a range of what it deemed unfair trade practices by the world's 10th-biggest economy.",
       "date": "2026-07-16"
     },
     {
@@ -46,11 +46,6 @@
       "date": "2026-07-16"
     },
     {
-      "title": "Trump Flip-Flops on Strait of Hormuz Plan, and U.S. Cyclospora Outbreak Spreads",
-      "summary": "Plus, Chipotle is coming to Mexico.",
-      "date": "2026-07-15"
-    },
-    {
       "title": "Erica Schwartz testifies in confirmation hearing for CDC director",
       "summary": "Schwartz told the Senate health committee she \"will never betray the science\" and pledged to use \"radical transparency\" in a bid to rebuild public trust in the agency. But several senators questioned how she might handle pressure from Health Secretary Robert F. Kennedy Jr., who has repeatedly moved to alter U.S. vaccin.",
       "date": "2026-07-15"
@@ -63,6 +58,11 @@
     {
       "title": "Fear and hope in Utah in the shadow of America's largest wildfire",
       "summary": "People in Monticello, Utah have been tense and preparing to evacuate since shortly after the Babylon fire started June 26th (Image credit: Inciweb).",
+      "date": "2026-07-15"
+    },
+    {
+      "title": "Clayton Dodges Question on 2020 Election, and Democrats Call Him on It",
+      "summary": "Jay Clayton’s nomination to lead the U.S. intelligence community comes as the White House pushes to use declassified intelligence to show concerns about election security.",
       "date": "2026-07-15"
     }
   ],
@@ -116,17 +116,17 @@
       "sourceId": "lootura-us-the-new-york-times"
     },
     {
-      "title": "Trump Flip-Flops on Strait of Hormuz Plan, and U.S. Cyclospora Outbreak Spreads",
-      "url": "https://www.nytimes.com/2026/07/15/podcasts/the-headlines/trump-trait-of-hormuz-plan-us-cyclospora-outbreak.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-15T10:00:15.000Z",
-      "sourceId": "lootura-us-the-new-york-times"
-    },
-    {
       "title": "Trump Administration to Impose New Tariffs on Brazil",
       "url": "https://www.nytimes.com/2026/07/15/business/economy/trump-brazil-tariffs.html?utm_source=lootura.com",
       "publishedAt": "2026-07-16T04:43:45.000Z",
       "sourceId": "lootura-us-the-new-york-times"
+    },
+    {
+      "title": "Senators Grill Justice Dept. Officials on New York Times Subpoenas",
+      "url": "https://www.nytimes.com/2026/07/15/business/media/blanche-clayton-senate-nyt-subpoenas.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-15T19:59:04.000Z",
+      "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 13
+  "evidenceCount": 12
 }

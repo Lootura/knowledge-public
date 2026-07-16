@@ -3,10 +3,16 @@
 > Sigue la actividad de San Sebastián en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-16T06:15:06.275Z
+- Actualizado: 2026-07-16T06:27:44.347Z
 - Canonical: https://atlas.lootura.com/es/place/san-sebastian
 
 ## Cambios recientes
+
+### «¡Más sangre azul es imposible!»
+
+Año 1926. En 'La Voz de Guipúzcoa' hicieron el cálculo. Hace un siglo coincidieron en San Sebastián nada menos que quince duques, 33 marqueses, 22 condes, un vizconde y tres barones. La aristocracia elegía nuestra ciudad para veranear.
+
+Date: 2026-07-16
 
 ### El Muelle, Gros, Amara Berri y Añorga celebran las fiestas del Carmen en Donostia
 
@@ -46,4 +52,5 @@ Date: 2026-07-12
 
 ## Fuentes
 
+- [«¡Más sangre azul es imposible!»](https://www.diariovasco.com/gipuzkoa/memoria/sangre-azul-imposible-20260716075415-nt_amp.html?utm_source=lootura.com) — 2026-07-16T05:54:15.000Z
 - [El Muelle, Gros, Amara Berri y Añorga celebran las fiestas del Carmen en Donostia](https://www.diariovasco.com/san-sebastian/muelle-gros-amara-berri-anorga-celebran-fiestas-20260716001250-nt_amp.html?utm_source=lootura.com) — 2026-07-15T22:12:50.000Z

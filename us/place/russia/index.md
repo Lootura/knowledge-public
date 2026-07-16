@@ -3,7 +3,7 @@
 > Follow Russia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-16T06:15:30.586Z
+- Updated: 2026-07-16T06:28:11.623Z
 - Canonical: https://atlas.lootura.com/us/place/russia
 
 ## Recent changes

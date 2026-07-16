@@ -3,14 +3,14 @@
 > Follow White House, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-07-16T06:15:30.586Z
+- Updated: 2026-07-16T06:28:11.623Z
 - Canonical: https://atlas.lootura.com/us/organization/white-house
 
 ## Recent changes
 
 ### U.S. to impose 25% tariffs on Brazilian imports over unfair trade practices, White House says
 
-The United States is imposing 25% tariffs on imports from Brazil after finding a range of what it deemed unfair trade practices by the world.
+The United States is imposing 25% tariffs on imports from Brazil after finding a range of what it deemed unfair trade practices by the world's 10th-biggest economy.
 
 Date: 2026-07-16
 

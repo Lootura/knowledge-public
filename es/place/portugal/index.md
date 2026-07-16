@@ -3,7 +3,7 @@
 > Sigue la actividad de Portugal en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-16T06:15:06.275Z
+- Actualizado: 2026-07-16T06:27:44.347Z
 - Canonical: https://atlas.lootura.com/es/place/portugal
 
 ## Cambios recientes

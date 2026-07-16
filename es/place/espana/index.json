@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/espana/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/espana/index.json",
   "description": "Sigue la actividad de España en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-16T06:15:06.275Z",
+  "updatedAt": "2026-07-16T06:27:44.347Z",
   "aliases": [
     "Estado español",
     "Spain"
@@ -121,11 +121,11 @@
       "sourceId": "lootura-es-el-mundo"
     },
     {
-      "title": "Amundi, Bestinver y Wellington acuden a la salida a Bolsa de Digi",
-      "url": "https://www.expansion.com/empresas/tecnologia/2026/07/16/6a57f55c468aeb95538b457f.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-15T22:25:56.000Z",
+      "title": "Digi debuta en Bolsa hoy a 5,60 euros",
+      "url": "https://www.expansion.com/inversion/2026/07/16/6a577d6ae5fdea7f5b8b45a2.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-16T05:39:05.000Z",
       "sourceId": "lootura-es-expansion"
     }
   ],
-  "evidenceCount": 13
+  "evidenceCount": 14
 }

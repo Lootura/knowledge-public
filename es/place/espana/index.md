@@ -3,7 +3,7 @@
 > Sigue la actividad de España en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-16T06:15:06.275Z
+- Actualizado: 2026-07-16T06:27:44.347Z
 - Canonical: https://atlas.lootura.com/es/place/espana
 
 ## Cambios recientes
@@ -79,4 +79,4 @@ Date: 2026-07-16
 - [Transportes rechaza ante Bruselas adaptar el ancho de vía ibérico al europeo porque costaría 30.000 millones](https://elpais.com/economia/2026-07-16/transportes-rechaza-ante-bruselas-adaptar-el-ancho-de-via-espanol-al-europeo-por-un-coste-de-30000-millones.html?utm_source=lootura.com) — 2026-07-16T03:15:00.000Z
 - [La cifra de muertes por calor en Bizkaia desde mayo duplica a la de todo el verano pasado](https://www.elcorreo.com/sociedad/cifra-muertes-calor-bizkaia-mayo-duplica-verano-20260715005400-nt_amp.html?utm_source=lootura.com) — 2026-07-15T22:54:01.000Z
 - [España 'pasa de pantalla' en Gibraltar y deja atrás el conflicto por la soberanía: "Un brexit con una Verja cerrada sería una tragedia para el pueblo"](https://www.elmundo.es/espana/2026/07/15/6a57c142e85ece02588b4574.html?utm_source=lootura.com) — 2026-07-15T18:48:53.000Z
-- [Amundi, Bestinver y Wellington acuden a la salida a Bolsa de Digi](https://www.expansion.com/empresas/tecnologia/2026/07/16/6a57f55c468aeb95538b457f.html?utm_source=lootura.com) — 2026-07-15T22:25:56.000Z
+- [Digi debuta en Bolsa hoy a 5,60 euros](https://www.expansion.com/inversion/2026/07/16/6a577d6ae5fdea7f5b8b45a2.html?utm_source=lootura.com) — 2026-07-16T05:39:05.000Z

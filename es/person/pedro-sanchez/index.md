@@ -3,7 +3,7 @@
 > Sigue la actividad de Pedro Sánchez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-16T06:15:06.275Z
+- Actualizado: 2026-07-16T06:27:44.347Z
 - Canonical: https://atlas.lootura.com/es/person/pedro-sanchez
 
 ## Cambios recientes
@@ -17,18 +17,6 @@ Date: 2026-07-16
 ### Todos los trucos de los conductores españoles para ahorrar en gasolina
 
 Llegar a Coruña nunca había sido tan costoso para Jesús Sánchez . El precio de los combustibles y de los gastos de mantenimiento de sus vehículos lo tienen al “borde de la locura”, porque no puede repercutir esta situación en los precios de sus mudanzas y servicios de mensajería. Tiene 62 años y ha pasado más de la mit.
-
-Date: 2026-07-16
-
-### El exjefe de Gabinete de Sánchez se enteró de su imputación tomando una cerveza: «Ahora sí que tenemos un problema»
-
-Juan Manuel Serrano, exjefe de Gabinete del presidente del Gobierno, Pedro Sánchez, se enteró de su imputación en la trama de las cloacas del PSOE ...
-
-Date: 2026-07-16
-
-### Gobierno e independentistas confían en el aval de la Justicia europea a la amnistía tras dos años de bloqueo
-
-La gran apuesta del Gobierno de Pedro Sánchez por la amnistía a los independentistas catalanes se somete hoy a una importante prueba. El Tribunal de Justicia de la Unión Europea (TJUE) se pronunciará sobre las cuestiones prejudiciales elevadas por varios tribunales españoles y tanto desde Esquerra Republicana como desd.
 
 Date: 2026-07-16
 
@@ -56,15 +44,27 @@ La sentencia del Tribunal de Justicia de la UE sobre la amnistía a los líderes
 
 Date: 2026-07-16
 
+### El 3% de los independentistas
+
+Sánchez busca una legislatura como la actual y está dispuesto a disponer de los votos del independentismo catalán, aunque sea a costa de lo que es de todos.
+
+Date: 2026-07-16
+
+### El exjefe de Gabinete de Sánchez se enteró de su imputación tomando una cerveza: «Ahora sí que tenemos un problema»
+
+Juan Manuel Serrano, exjefe de Gabinete del presidente del Gobierno, Pedro Sánchez, se enteró de su imputación en la trama de las cloacas del PSOE ...
+
+Date: 2026-07-16
+
+### Gobierno e independentistas confían en el aval de la Justicia europea a la amnistía tras dos años de bloqueo
+
+La gran apuesta del Gobierno de Pedro Sánchez por la amnistía a los independentistas catalanes se somete hoy a una importante prueba. El Tribunal de Justicia de la Unión Europea (TJUE) se pronunciará sobre las cuestiones prejudiciales elevadas por varios tribunales españoles y tanto desde Esquerra Republicana como desd.
+
+Date: 2026-07-16
+
 ### España 'pasa de pantalla' en Gibraltar y deja atrás el conflicto por la soberanía: "Un brexit con una Verja cerrada sería una tragedia para el pueblo"
 
 «Los conflictos no están para gestionarlos sino para resolverlos», afirma Pedro Sánchez sin hablar de soberanía durante la retirada de la Verja de Gibraltar, tras la entrada en vigor de forma provisional de los acuerdos firmados por la UE y el Reino Unido Leer.
-
-Date: 2026-07-15
-
-### Pedro Sánchez, tras la retirada de la Verja de Gibraltar, que ya es historia: "Los conflictos no están para gestionarlos sino para resolverlos"
-
-El presidente del Gobierno asiste al acto simbólico de la eliminación de la frontera física junto al ministro principal del Peñón, el embajador del Reino Unido y los alcaldes de la comarca Leer.
 
 Date: 2026-07-15
 
@@ -72,10 +72,9 @@ Date: 2026-07-15
 
 - [La Airef exige al Gobierno adoptar ya ajustes de gasto para no concentrarlos todos en la siguiente legislatura](https://www.abc.es/economia/airef-exige-gobierno-adoptar-ajustes-gasto-concentrarlos-20260715123105-nt.html?utm_source=lootura.com) — 2026-07-16T05:20:20.000Z
 - [Todos los trucos de los conductores españoles para ahorrar en gasolina](https://www.elconfidencial.com/espana/2026-07-16/combustible-gasolina-diesel-conductores-coches_4390636/?utm_source=lootura.com) — 2026-07-16T03:00:00.000Z
-- [El exjefe de Gabinete de Sánchez se enteró de su imputación tomando una cerveza: «Ahora sí que tenemos un problema»](https://www.eldebate.com/espana/20260716/exjefe-gabinete-sanchez-entero-imputacion-tomando-cerveza-ahora-tenemos-problema_440098.html?utm_source=lootura.com) — 2026-07-16T02:20:00.000Z
 - [España 'pasa de pantalla' en Gibraltar y deja atrás el conflicto por la soberanía: "Un brexit con una Verja cerrada sería una tragedia para el pueblo"](https://www.elmundo.es/espana/2026/07/15/6a57c142e85ece02588b4574.html?utm_source=lootura.com) — 2026-07-15T18:48:53.000Z
-- [Gobierno e independentistas confían en el aval de la Justicia europea a la amnistía tras dos años de bloqueo](https://elpais.com/espana/catalunya/2026-07-16/gobierno-e-independentistas-confian-en-el-aval-de-la-justicia-europea-a-la-amnistia-tras-dos-anos-de-bloqueo.html?utm_source=lootura.com) — 2026-07-16T03:30:01.000Z
 - [La condena de David Sánchez espolea al PSOE: “La derecha política y judicial está logrando el efecto contrario”](https://elpais.com/espana/2026-07-16/la-condena-de-david-sanchez-espolea-al-psoe-la-derecha-politica-y-judicial-esta-logrando-el-efecto-contrario.html?utm_source=lootura.com) — 2026-07-16T03:30:01.000Z
 - [“Nepotismo” y “absentismo”: el tribunal del ‘caso David Sánchez’ traza la línea entre lo “éticamente censurable” y el delito](https://elpais.com/espana/2026-07-16/nepotismo-y-absentismo-el-tribunal-del-caso-david-sanchez-traza-la-linea-entre-lo-eticamente-censurable-y-el-delito.html?utm_source=lootura.com) — 2026-07-16T03:30:01.000Z
 - [Y ahora, a por Begoña Gómez](https://www.eldiario.es/blog/sin-filtro/ahora-begona-gomez_132_13382867.html?utm_source=lootura.com) — 2026-07-16T05:49:19.000Z
+- [El 3% de los independentistas](https://www.larazon.es/espana/3-independentistas_202607166a58784b0500ab412c97fa2c.html?outputType=amp&utm_source=lootura.com) — 2026-07-16T06:21:33.000Z
 - [El Supremo ante la justicia europea](https://www.lavanguardia.com/politica/20260716/11593163/supremo-justicia-europea.html?utm_source=lootura.com) — 2026-07-16T04:00:00.000Z

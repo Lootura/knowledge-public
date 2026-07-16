@@ -8,11 +8,16 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/san-sebastian/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/san-sebastian/index.json",
   "description": "Sigue la actividad de San Sebastián en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-16T06:15:06.275Z",
+  "updatedAt": "2026-07-16T06:27:44.347Z",
   "aliases": [
     "Donostia"
   ],
   "changes": [
+    {
+      "title": "«¡Más sangre azul es imposible!»",
+      "summary": "Año 1926. En 'La Voz de Guipúzcoa' hicieron el cálculo. Hace un siglo coincidieron en San Sebastián nada menos que quince duques, 33 marqueses, 22 condes, un vizconde y tres barones. La aristocracia elegía nuestra ciudad para veranear.",
+      "date": "2026-07-16"
+    },
     {
       "title": "El Muelle, Gros, Amara Berri y Añorga celebran las fiestas del Carmen en Donostia",
       "summary": "En el puerto donostiarra realizan este jueves una ofrenda a Aita Mari y en Amara Berri homenajean a los pescateros y pescateras del barrio.",
@@ -46,11 +51,17 @@
   ],
   "sources": [
     {
+      "title": "«¡Más sangre azul es imposible!»",
+      "url": "https://www.diariovasco.com/gipuzkoa/memoria/sangre-azul-imposible-20260716075415-nt_amp.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-16T05:54:15.000Z",
+      "sourceId": "lootura-es-el-diario-vasco"
+    },
+    {
       "title": "El Muelle, Gros, Amara Berri y Añorga celebran las fiestas del Carmen en Donostia",
       "url": "https://www.diariovasco.com/san-sebastian/muelle-gros-amara-berri-anorga-celebran-fiestas-20260716001250-nt_amp.html?utm_source=lootura.com",
       "publishedAt": "2026-07-15T22:12:50.000Z",
       "sourceId": "lootura-es-el-diario-vasco"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 2
 }

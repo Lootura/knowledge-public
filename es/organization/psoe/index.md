@@ -3,10 +3,16 @@
 > Sigue la actividad de Partido Socialista Obrero Español en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-16T06:15:06.275Z
+- Actualizado: 2026-07-16T06:27:44.347Z
 - Canonical: https://atlas.lootura.com/es/organization/psoe
 
 ## Cambios recientes
+
+### La condena de David Sánchez espolea al PSOE: “La derecha política y judicial está logrando el efecto contrario”
+
+“En la sentencia a David Sánchez hay un daño personal al presidente, pero el daño electoral es cero. Lo mismo que con su esposa. Sí que lo hubo con [José Luis] Ábalos, condenado a 24 años, pero los casos de la familia se han convertido en un ataque personal. Y podrían convertirse en un bumerán contra la derecha”, afirm.
+
+Date: 2026-07-16
 
 ### Narbona replica ante el juez la estrategia de usar a Cerdán como cortafuegos del PSOE: "Todas las facultades las tenía él"
 
@@ -17,12 +23,6 @@ Date: 2026-07-16
 ### El exjefe de Gabinete de Sánchez se enteró de su imputación tomando una cerveza: «Ahora sí que tenemos un problema»
 
 Juan Manuel Serrano, exjefe de Gabinete del presidente del Gobierno, Pedro Sánchez, se enteró de su imputación en la trama de las cloacas del PSOE ...
-
-Date: 2026-07-16
-
-### La condena de David Sánchez espolea al PSOE: “La derecha política y judicial está logrando el efecto contrario”
-
-“En la sentencia a David Sánchez hay un daño personal al presidente, pero el daño electoral es cero. Lo mismo que con su esposa. Sí que lo hubo con [José Luis] Ábalos, condenado a 24 años, pero los casos de la familia se han convertido en un ataque personal. Y podrían convertirse en un bumerán contra la derecha”, afirm.
 
 Date: 2026-07-16
 
@@ -70,7 +70,5 @@ Date: 2026-07-15
 
 ## Fuentes
 
-- [Narbona replica ante el juez la estrategia de usar a Cerdán como cortafuegos del PSOE: "Todas las facultades las tenía él"](https://www.20minutos.es/nacional/narbona-replica-ante-juez-estrategia-usar-cerdan-como-cortafuegos-psoe-todas-las-facultades-las-tenia_7015082_0.html?utm_source=lootura.com) — 2026-07-16T03:00:00.000Z
-- [El exjefe de Gabinete de Sánchez se enteró de su imputación tomando una cerveza: «Ahora sí que tenemos un problema»](https://www.eldebate.com/espana/20260716/exjefe-gabinete-sanchez-entero-imputacion-tomando-cerveza-ahora-tenemos-problema_440098.html?utm_source=lootura.com) — 2026-07-16T02:20:00.000Z
 - [La directora de la Guardia Civil declara como imputada en el 'caso cloacas del PSOE' por obstrucción a la Justicia](https://www.elmundo.es/espana/2026/07/15/6a57ddb9fc6c838e4d8b45a4.html?utm_source=lootura.com) — 2026-07-15T20:45:45.000Z
 - [La condena de David Sánchez espolea al PSOE: “La derecha política y judicial está logrando el efecto contrario”](https://elpais.com/espana/2026-07-16/la-condena-de-david-sanchez-espolea-al-psoe-la-derecha-politica-y-judicial-esta-logrando-el-efecto-contrario.html?utm_source=lootura.com) — 2026-07-16T03:30:01.000Z
