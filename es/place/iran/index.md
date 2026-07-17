@@ -70,4 +70,4 @@ Date: 2026-07-14
 
 ## Fuentes
 
-- [El Ibex salva la sesión con un alza del 0,15% que le lleva a superar los 19.300 puntos](https://www.expansion.com/mercados/cronica-bolsa/2026/07/16/6a58713e468aeb64098b4570.html?utm_source=lootura.com) — 2026-07-16T15:43:29.000Z
+No public source links.

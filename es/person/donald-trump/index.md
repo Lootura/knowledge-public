@@ -3,10 +3,34 @@
 > Sigue la actividad de Donald Trump en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-16T20:54:41.819Z
+- Actualizado: 2026-07-17T02:26:45.462Z
 - Canonical: https://atlas.lootura.com/es/person/donald-trump
 
 ## Cambios recientes
+
+### Trump desclasifica documentos de la CIA que demuestran el fraude electoral del chavismo
+
+El presidente denuncia la vulnerabilidad de las máquinas de voto, acusa a China de robar datos de 220 millones de electores y exige al Congreso una ley con identificación y prueba de ciudadanía.
+
+Date: 2026-07-17
+
+### Trump resucita en un discurso a la nación el bulo del fraude electoral de 2020 y acusa a China de influir en su derrota
+
+Donald Trump, líder de un país en guerra y con el coste de la vida en alza, se dirigió este jueves por la noche a la nación para hablar de las elecciones... de hace seis años. No fue solo un intento de ajuste de cuentas con un fracaso personal; el presidente de Estados Unidos, cuya impopularidad bate récords, habló con.
+
+Date: 2026-07-17
+
+### Trump anuncia la desclasificación de documentos sobre una supuesta injerencia electoral china en 2020
+
+El presidente sostuvo que Pekín obtuvo de forma ilícita acceso a los datos de más de 220 millones de votantes estadounidenses.
+
+Date: 2026-07-17
+
+### Trump desclasifica informes de la CIA que «prueban que el sistema electoral ha sido manipulado» y acusa a China
+
+El presidente estadounidense, Donald Trump, ha anunciado esta madrugada que ha desclasificado informes de la CIA que «prueban que el sistema electoral de EEUU es vulnerable ». «Hay niveles de hackeo y de interferencia extranjera nunca vistos», ha llegado a asegurar, y ha acusado sobre todo a China de las «graves injere.
+
+Date: 2026-07-17
 
 ### Trump impone un arancel del 25% a Brasil por "no negociar de buena fe"
 
@@ -44,32 +68,11 @@ En las jornadas posteriores al ataque conjunto de Israel y Estados Unidos contra
 
 Date: 2026-07-16
 
-### El Ibex cae un 0,4% mientras la incertidumbre sobre Ormuz mantiene en vilo a los mercados
-
-La ambigüedad y las contradicciones son dos de los principales enemigos de la inversión. Pocos líderes encarnan mejor ambas características que el presidente de Estados Unidos, Donald Trump. Apenas unas horas después de renunciar a imponer un peaje del 20% a los buques que atraviesan el estrecho de Ormuz, el republican.
-
-Date: 2026-07-15
-
-### La implacable transformación ejecutada por Jane Fraser en Citigroup
-
-El banco ha vendido activos, recortado puestos de trabajo y realizado contrataciones controvertidas, al tiempo que ha estrechado su relación con Trump. ¿Será suficiente para volver a situarse entre los grandes?
-
-Date: 2026-07-15
-
-### Estados Unidos acuñará una moneda de un dólar con la imagen de Trump
-
-El secretario del Tesoro de Estados Unidos, Scott Bessent, ha anunciado este miércoles que la Casa de la Moneda empezará a acuñar una moneda de un dólar con la imagen del presidente, Donald Trump , que conmemorará los 250 años de la declaración de independencia estadounidense. Bessent ha confirmado en un mensaje en red.
-
-Date: 2026-07-15
-
-### Trump amenaza con atacar infraestructuras civiles si Irán no vuelve a negociar
-
-Estados Unidos ha reimpuesto el bloqueo naval sobre los puertos iraníes y ha intensificado su campaña de bombardeos contra la república islámica, en una nueva escalada de ataques que amenaza con devolver a Oriente Próximo a una guerra abierta y que vuelve a situar el estrecho de Ormuz en el centro del enfrentamiento.La.
-
-Date: 2026-07-15
-
 ## Fuentes
 
-- [El ayudante de Trump encargado de su teleprónter ganó 90.000 dólares en apuestas sobre lo que iba a decir en sus discursos](https://www.elmundo.es/internacional/2026/07/16/6a591d59e4d4d83b218b457b.html?utm_source=lootura.com) — 2026-07-16T19:06:08.000Z
+- [Trump desclasifica documentos de la CIA que demuestran el fraude electoral del chavismo](https://www.abc.es/internacional/trump-desclasifica-documentos-cia-muestran-fraude-electoral-20260717034114-nt_amp.html?utm_source=lootura.com) — 2026-07-17T01:41:15.000Z
+- [Trump resucita en un discurso a la nación el bulo del fraude electoral de 2020 y acusa a China de influir en su derrota](https://elpais.com/internacional/2026-07-17/trump-resucita-en-un-discurso-a-la-nacion-el-bulo-del-fraude-electoral-de-2020-y-acusa-a-china-de-influir-en-su-derrota.html?utm_source=lootura.com) — 2026-07-17T01:28:02.000Z
 - [Trump impone un arancel del 25% a Brasil por "no negociar de buena fe"](https://www.expansion.com/economia/2026/07/16/6a592512468aeba63e8b4587.html?utm_source=lootura.com) — 2026-07-16T18:43:27.000Z
+- [Trump anuncia la desclasificación de documentos sobre una supuesta injerencia electoral china en 2020](https://www.larazon.es/internacional/trump-anuncia-desclasificacion-documentos-supuesta-injerencia-electoral-china-2020_202607176a598bc90500ab412c9a1bc3.html?outputType=amp&utm_source=lootura.com) — 2026-07-17T01:56:25.000Z
+- [Trump desclasifica informes de la CIA que «prueban que el sistema electoral ha sido manipulado» y acusa a China](https://okdiario.com/internacional/trump-desclasifica-informes-cia-que-prueban-que-sistema-electoral-vulnerable-acusa-china-anuncia-medidas-antifraude-19013194?utm_source=lootura.com) — 2026-07-17T01:52:08.000Z
 - [Un operador del teleprónter de Trump ganó casi 90.000 euros en apuestas sobre sus discursos](https://theobjective.com/internacional/2026-07-16/operador-telepronter-trump-apuestas-discursos/?amp=&utm_source=lootura.com) — 2026-07-16T20:22:55.000Z

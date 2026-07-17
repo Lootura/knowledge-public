@@ -8,16 +8,11 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/ukraine/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/ukraine/index.json",
   "description": "Follow Ukraine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-16T20:55:05.764Z",
+  "updatedAt": "2026-07-17T02:27:10.364Z",
   "aliases": [
     "Kyiv"
   ],
   "changes": [
-    {
-      "title": "Ukrainian's Zelenskyy faces major backlash for ousting defense chief Mykhailo Fedorov amid progress vs. Russia",
-      "summary": "Ukrainians are demonstrating in Kyiv and senior figures announcing their resignations over President Volodymyr Zelenksyy's move to oust his popular defense chief.",
-      "date": "2026-07-16"
-    },
     {
       "title": "Ukrainians protest Zelenskyy's ouster of his popular defense minister",
       "summary": "President Volodymyr Zelenskyy shook up his wartime government, drawing thousands into the streets Thursday across Ukraine to protest the ouster of his youthful defense minister — seen as an innovator of the country's successful drone technology but who clashed with the traditional military establishment.",
@@ -26,6 +21,11 @@
     {
       "title": "Ukraine Was on a Roll. Then a Clash Over War Strategy Exploded Into View.",
       "summary": "From an underground parking garage, Ukraine’s newly dismissed defense minister aired the most dramatic, public critique of the military command to emerge during the war.",
+      "date": "2026-07-16"
+    },
+    {
+      "title": "Ukrainian's Zelenskyy faces major backlash for ousting defense chief Mykhailo Fedorov amid progress vs. Russia",
+      "summary": "Ukrainians are demonstrating in Kyiv and senior figures announcing their resignations over President Volodymyr Zelenksyy's move to oust his popular defense chief.",
       "date": "2026-07-16"
     },
     {
@@ -66,12 +66,6 @@
   ],
   "sources": [
     {
-      "title": "Ukrainian's Zelenskyy faces major backlash for ousting defense chief Mykhailo Fedorov amid progress vs. Russia",
-      "url": "https://www.cbsnews.com/news/ukrainian-protest-zelenskyy-oust-defense-chief-mykhailo-fedorov-russia-war/?utm_source=lootura.com",
-      "publishedAt": "2026-07-16T13:39:04.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
-    {
       "title": "Ukrainians protest Zelenskyy's ouster of his popular defense minister",
       "url": "https://www.pbs.org/newshour/world/ukrainians-protest-zelenskyys-ouster-of-his-popular-defense-minister?utm_source=lootura.com",
       "publishedAt": "2026-07-16T17:21:53.000Z",
@@ -80,15 +74,9 @@
     {
       "title": "Ukraine Was on a Roll. Then a Clash Over War Strategy Exploded Into View.",
       "url": "https://www.nytimes.com/2026/07/16/world/europe/ukraine-military-defense-minister-drones.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-16T20:02:43.000Z",
+      "publishedAt": "2026-07-16T22:01:29.000Z",
       "sourceId": "lootura-us-the-new-york-times"
-    },
-    {
-      "title": "Meet Sergii Koretskyi, Ukraine’s New Prime Minister After Major Government Reshuffle",
-      "url": "https://time.com/article/2026/07/16/meet-sergii-koretskyi-ukraine-new-prime-minister-energy-official-zelensky/?utm_source=lootura.com",
-      "publishedAt": "2026-07-16T20:26:59.000Z",
-      "sourceId": "lootura-us-time"
     }
   ],
-  "evidenceCount": 4
+  "evidenceCount": 2
 }

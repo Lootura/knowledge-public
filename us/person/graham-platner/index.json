@@ -8,11 +8,16 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/graham-platner/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/graham-platner/index.json",
   "description": "Follow Graham Platner, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-16T10:06:43.244Z",
+  "updatedAt": "2026-07-17T02:27:10.364Z",
   "aliases": [
     "Platner"
   ],
   "changes": [
+    {
+      "title": "Maine Democratic Senate candidates discuss which of Platner's ideas they would use",
+      "summary": "Maine Democratic Senate candidates Nirav Shah, Shenna Bellows, Jordan Wood and Troy Jackson discuss which ideas from Graham Platner's platform they would use if they are chosen as the nominee.",
+      "date": "2026-07-17"
+    },
     {
       "title": "Here Are the Maine Democrats Running to Replace Graham Platner",
       "summary": "To win, they’ll have to convince Democrats at a July 25 convention that they’re the best candidate to take on Senator Susan Collins, a Republican.",
@@ -57,13 +62,15 @@
       "title": "Graham Platner's voters figure out what's next as candidates vie for their support",
       "summary": "Maine voters are still grappling with Democratic Senate candidate Graham Platner's dramatic departure from the race.",
       "date": "2026-07-13"
-    },
-    {
-      "title": "Tamara Keith and Amy Walter on Lindsey Graham's passing",
-      "summary": "NPR's Tamara Keith and Amy Walter of the Cook Political Report with Amy Walter join Geoff Bennett to discuss the latest political news, including what the passing of Sen. Lindsey Graham means for South Carolina and the Senate, Sen. Mitch McConnell's health and Democrats scrambling to replace Graham Platner in the Maine.",
-      "date": "2026-07-13"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Maine Democratic Senate candidates discuss which of Platner's ideas they would use",
+      "url": "https://www.nbcnews.com/video/maine-democratic-senate-candidates-discuss-which-of-platner-s-ideas-they-would-use-266814533841?utm_source=lootura.com",
+      "publishedAt": "2026-07-17T00:59:32.000Z",
+      "sourceId": "lootura-us-nbc-news"
+    }
+  ],
+  "evidenceCount": 1
 }

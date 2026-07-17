@@ -70,4 +70,4 @@ Date: 2026-07-08
 
 ## Fuentes
 
-- [La cifra de muertes por calor en Bizkaia desde mayo duplica a la de todo el verano pasado](https://www.elcorreo.com/sociedad/cifra-muertes-calor-bizkaia-mayo-duplica-verano-20260715005400-nt_amp.html?utm_source=lootura.com) — 2026-07-15T22:54:01.000Z
+No public source links.

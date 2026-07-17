@@ -3,10 +3,16 @@
 > Sigue la actividad de Juan Carlos Peinado en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-16T20:54:41.819Z
+- Actualizado: 2026-07-17T02:26:45.462Z
 - Canonical: https://atlas.lootura.com/es/person/juan-carlos-peinado
 
 ## Cambios recientes
+
+### La Audiencia Provincial respalda la decisión de Peinado y descarta que sea «contraria a derecho»
+
+La Audiencia Provincial de Madrid ha respaldado la decisión del juez Juan Carlos Peinado de enviar a Begoña Gómez al banquillo frente a un jurado popular, una «opción» que «no puede reputarse arbitraria ni contraria a Derecho, en la medida en que identifica los delitos que, de manera indiciaria, pudieran resultar aplic.
+
+Date: 2026-07-17
 
 ### La Audiencia de Madrid avala que la causa contra Begoña Gómez siga adelante por jurado por dos delitos
 
@@ -58,5 +64,5 @@ Date: 2026-07-15
 
 ## Fuentes
 
-- [Begoña Gómez será juzgada por un jurado popular por tráfico de influencias y malversación](https://www.abc.es/espana/audiencia-confirma-begona-gomez-juzgada-jurado-popular-20260716132736-nt.html?utm_source=lootura.com) — 2026-07-16T18:52:48.000Z
+- [La Audiencia Provincial respalda la decisión de Peinado y descarta que sea «contraria a derecho»](https://www.abc.es/espana/audiencia-provincial-respalda-decision-peinado-descarta-arbitraria-20260717015223-nt.html?utm_source=lootura.com) — 2026-07-17T01:10:18.000Z
 - [La Audiencia de Madrid avala que la causa contra Begoña Gómez siga adelante por jurado por dos delitos](https://elpais.com/espana/2026-07-16/la-audiencia-de-madrid-avala-que-la-causa-contra-begona-gomez-siga-adelante-por-jurado-por-dos-delitos.html?utm_source=lootura.com) — 2026-07-16T15:21:22.000Z

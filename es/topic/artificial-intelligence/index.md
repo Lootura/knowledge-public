@@ -3,7 +3,7 @@
 > Sigue la actividad de Artificial intelligence en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: topic
-- Actualizado: 2026-07-16T20:54:41.819Z
+- Actualizado: 2026-07-17T02:26:45.462Z
 - Canonical: https://atlas.lootura.com/es/topic/artificial-intelligence
 
 ## Cambios recientes
@@ -40,4 +40,4 @@ Date: 2026-07-10
 
 ## Fuentes
 
-- [Apple pisa el acelerador con el iPad mini con pantalla OLED, que llegará este mismo año](https://hipertextual.com/apple/apple-pisa-acelerador-ipad-mini-oled/?utm_source=lootura.com) — 2026-07-16T16:35:00.000Z
+- [El Ibex bate al Nasdaq en la 'era de ChatGPT' sin cocer una burbuja](https://www.expansion.com/mercados/2026/07/16/6a58ff4f468aeb13038b45b0.html?utm_source=lootura.com) — 2026-07-16T23:33:05.000Z

@@ -3,10 +3,28 @@
 > Follow China, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-16T20:55:05.764Z
+- Updated: 2026-07-17T02:27:10.364Z
 - Canonical: https://atlas.lootura.com/us/place/china
 
 ## Recent changes
+
+### Trump administration to declassify documents relating to China and U.S. elections
+
+President Donald Trump addressed the nation from the White House, announcing that the administration will declassify documents related to the 2020 election and alleged influence by China.
+
+Date: 2026-07-17
+
+### How paper ballots make digital manipulation of results unlikely
+
+NBC News’ Jane Timm analyzes President Trump’s claims about digital manipulation of ballot results in the U.S., as Trump said that the White House will declassify documents related to the 2020 election and alleged influence by China during his speech to the nation.
+
+Date: 2026-07-17
+
+### Special Report: Trump delivers speech on election infrastructure
+
+NBC News correspondents break down President Trump's address to the nation on election integrity where the president described information he says is now declassified related to allegations about voter fraud, including accusations against China.
+
+Date: 2026-07-17
 
 ### China’s Economy Grows at Slowest Pace in Years
 
@@ -50,24 +68,9 @@ Mountain snow and meltwater from glaciers in the Himalayas determine how much wa
 
 Date: 2026-07-13
 
-### Japan Builds Intelligence Agency It Hasn’t Had Since World War II
-
-Facing threats from Russia and China, Prime Minister Sanae Takaichi is turning to help from Western allies in forming a centralized agency.
-
-Date: 2026-07-13
-
-### Graduating without a thesis: meet the people getting ‘practical’ PhDs in China
-
-Nature, Published online: 09 July 2026; doi:10.1038/d41586-026-01242-z Nature spoke to three students from China’s first cohort of PhD candidates who are allowed to graduate with products instead of papers.
-
-Date: 2026-07-13
-
-### China's 'Green Great Wall' tames desert growth, but scientists warn the fight is not over
-
-For half a century, millions of workers have repeated a task across the deserts in northern China: inserting forearm-length sticks into shifting sand, first in a row, then in an intersecting line, gradually forming a grid. Then saplings are planted at the center of each small square.
-
-Date: 2026-07-13
-
 ## Sources
 
 - [Husband of Code Pink founder being investigated under federal agent and tax laws](https://www.cbsnews.com/news/husband-code-pink-founder-neville-roy-singham-investigation-tax-laws/?utm_source=lootura.com) — 2026-07-16T17:01:59.000Z
+- [Trump administration to declassify documents relating to China and U.S. elections](https://www.nbcnews.com/video/trump-administration-to-declassify-documents-relating-to-china-and-u-s-elections-266817605523?utm_source=lootura.com) — 2026-07-17T01:31:09.000Z
+- [How paper ballots make digital manipulation of results unlikely](https://www.nbcnews.com/video/how-paper-ballots-make-digital-manipulation-of-results-unlikely-266817605727?utm_source=lootura.com) — 2026-07-17T02:02:40.000Z
+- [Special Report: Trump delivers speech on election infrastructure](https://www.nbcnews.com/video/special-report-trump-delivers-speech-on-election-infrastructure-266817605765?utm_source=lootura.com) — 2026-07-17T02:12:35.000Z

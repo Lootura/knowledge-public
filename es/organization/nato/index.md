@@ -70,4 +70,4 @@ Date: 2026-07-12
 
 ## Fuentes
 
-- [España asume el liderazgo de la fuerza naval de la OTAN con maniobras junto a Japón y Canadá](https://theobjective.com/espana/2026-07-16/espana-otan-japon-canada/?utm_source=lootura.com) — 2026-07-16T15:56:32.000Z
+No public source links.

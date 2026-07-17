@@ -3,16 +3,28 @@
 > Follow White House, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-07-16T20:55:05.764Z
+- Updated: 2026-07-17T02:27:10.364Z
 - Canonical: https://atlas.lootura.com/us/organization/white-house
 
 ## Recent changes
 
-### Trump wants a permanent fence around the D.C. park known for White House protests
+### Trump administration to declassify documents relating to China and U.S. elections
 
-The Trump administration wants to install permanent fencing around Lafayette Park, directly outside the White House. It's long been a popular spot for protesters, who worry barriers will change that. (Image credit: U.S. Commission of Fine Arts).
+President Donald Trump addressed the nation from the White House, announcing that the administration will declassify documents related to the 2020 election and alleged influence by China.
 
-Date: 2026-07-16
+Date: 2026-07-17
+
+### How paper ballots make digital manipulation of results unlikely
+
+NBC News’ Jane Timm analyzes President Trump’s claims about digital manipulation of ballot results in the U.S., as Trump said that the White House will declassify documents related to the 2020 election and alleged influence by China during his speech to the nation.
+
+Date: 2026-07-17
+
+### Trump Has Dismantled Election Security Efforts. Here’s How.
+
+Since his return to the White House, the lead federal partner for states on election security has lost around a third of its work force.
+
+Date: 2026-07-17
 
 ### How Nike’s Diversity Efforts Made It a Trump Target
 
@@ -23,12 +35,6 @@ Date: 2026-07-16
 ### Karoline Leavitt answers questions on Trump's primetime speech, new Iran strikes
 
 White House press secretary Karoline Leavitt spoke to reporters Thursday about President Trump's upcoming primetime speech, the latest strikes against Iran and more.
-
-Date: 2026-07-16
-
-### President Trump to deliver prime time address on elections, though details are slim
-
-President Trump is scheduled to deliver a primetime address from the White House focused on election security, though details about the speech are slim.
 
 Date: 2026-07-16
 
@@ -50,30 +56,27 @@ President Donald Trump's teleprompter operator is on unpaid leave after reports 
 
 Date: 2026-07-16
 
-### Trump Administration Argues for Fencing Off Park Next to White House
+### White House says ICE traffic stops will continue after deadly shootings
 
-The Commission of Fine Arts is set to consider the administration’s proposal regarding Lafayette Square Park, which has been the site of numerous protests.
-
-Date: 2026-07-16
-
-### Trump wants to fence off the park closest to the White House, a popular protest spot
-
-The Trump administration wants to install permanent fencing around Lafayette Park, directly outside the White House. It's long been a popular spot for protesters, who worry barriers will change that. (Image credit: U.S. Commission of Fine Arts).
+The comments came following widespread reports earlier in the week that those stops would be put on pause after two immigrants were fatally shot by ICE agents in early July. (Image credit: Saul Loeb).
 
 Date: 2026-07-16
 
-### U.S. to impose 25% tariffs on Brazilian imports over unfair trade practices, White House says
+### Trump setting stage to declare emergency around midterms, former White House attorney says
 
-The United States is imposing 25% tariffs on imports from Brazil after finding a range of what it deemed unfair trade practices by the world's 10th-biggest economy.
+For perspective on what President Trump is trying to achieve with Thursday night's speech, the limits of his authority and the potential consequences for future elections, Geoff Bennett spoke with Ty Cobb. He was a White House attorney in the first Trump administration, managing the response to special counsel Robert M.
 
 Date: 2026-07-16
 
 ## Sources
 
 - [Watch: Karoline Leavitt answers questions on Trump's primetime speech, new Iran strikes](https://www.cbsnews.com/video/karoline-leavitt-answers-questions-ahead-of-trumps-speech-on-election-integrity/?utm_source=lootura.com) — 2026-07-16T20:06:39.000Z
-- [Trump wants a permanent fence around the D.C. park known for White House protests](https://www.npr.org/2026/07/16/nx-s1-5893465/dc-lafayette-square-park-permanent-fencing-proposal?utm_source=lootura.com) — 2026-07-16T12:13:23.000Z
-- [President Trump to deliver prime time address on elections, though details are slim](https://www.npr.org/2026/07/16/nx-s1-5896195/president-trump-to-deliver-prime-time-address-on-elections-though-details-are-slim?utm_source=lootura.com) — 2026-07-16T20:12:37.000Z
+- [Trump administration to declassify documents relating to China and U.S. elections](https://www.nbcnews.com/video/trump-administration-to-declassify-documents-relating-to-china-and-u-s-elections-266817605523?utm_source=lootura.com) — 2026-07-17T01:31:09.000Z
+- [How paper ballots make digital manipulation of results unlikely](https://www.nbcnews.com/video/how-paper-ballots-make-digital-manipulation-of-results-unlikely-266817605727?utm_source=lootura.com) — 2026-07-17T02:02:40.000Z
+- [White House says ICE traffic stops will continue after deadly shootings](https://www.npr.org/2026/07/16/nx-s1-5896396/ice-traffic-stops-shootings?utm_source=lootura.com) — 2026-07-16T21:31:23.000Z
 - [Officials probe whether White House teleprompter operator profited off Trump's words](https://www.npr.org/2026/07/16/nx-s1-5896223/kalshi-trump-white-house-teleprompter-operator-bet?utm_source=lootura.com) — 2026-07-16T17:10:29.000Z
 - [WATCH: Trump believes his Kalshi-betting teleprompter operator is a 'disgrace,' Leavitt says](https://www.pbs.org/newshour/politics/watch-trump-believes-his-kalshi-betting-teleprompter-operator-is-a-disgrace-leavitt-says?utm_source=lootura.com) — 2026-07-16T18:26:00.000Z
+- [Trump setting stage to declare emergency around midterms, former White House attorney says](https://www.pbs.org/newshour/show/trump-setting-stage-to-declare-emergency-around-midterms-former-white-house-attorney-says?utm_source=lootura.com) — 2026-07-16T22:52:35.000Z
 - [Trump's teleprompter operator on unpaid leave over alleged Kalshi bets on Trump speeches](https://www.pbs.org/newshour/politics/trumps-teleprompter-operator-on-unpaid-leave-over-alleged-kalshi-bets-on-trump-speeches?utm_source=lootura.com) — 2026-07-16T20:21:52.000Z
+- [Trump Has Dismantled Election Security Efforts. Here’s How.](https://www.nytimes.com/2026/07/16/us/politics/trump-election-security-cisa.html?utm_source=lootura.com) — 2026-07-17T02:16:06.000Z
 - [How Nike’s Diversity Efforts Made It a Trump Target](https://www.nytimes.com/2026/07/16/us/politics/nike-dei-trump-eeoc.html?utm_source=lootura.com) — 2026-07-16T16:27:24.000Z

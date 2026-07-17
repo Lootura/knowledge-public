@@ -3,10 +3,16 @@
 > Sigue la actividad de Lionel Messi en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-16T20:54:41.819Z
+- Actualizado: 2026-07-17T02:26:45.462Z
 - Canonical: https://atlas.lootura.com/es/person/lionel-messi
 
 ## Cambios recientes
+
+### La fotografía que anticipó una final: "Messi se encontró de sopetón con un bebé y se quedó más tieso que una tabla de planchar"
+
+Para el ser humano es difícil creer en el destino, aceptar que todo está escrito de antemano y que nada depende de lo que uno haga, pero hay situaciones que escapan completamente a la lógica. Una de ellas es la foto que unió en 2007 a dos estrellas actuales del fútbol, cuando uno, Leo Messi , estaba empezando su carrer.
+
+Date: 2026-07-17
 
 ### La intrahistoria de las fotos de Leo Messi junto a un Lamine Yamal de seis meses
 
@@ -34,5 +40,5 @@ Date: 2026-07-15
 
 ## Fuentes
 
-- [Los niños de Messi van a por su corona](https://www.abc.es/deportes/futbol/mundial/ninos-messi-van-corona-20260716132452-ntrc.html?utm_source=lootura.com) — 2026-07-16T18:14:51.000Z
-- [La intrahistoria de las fotos de Leo Messi junto a un Lamine Yamal de seis meses](https://okdiario.com/mundial/intrahistoria-fotos-leo-messi-junto-lamine-yamal-seis-meses-19010630/amp?utm_source=lootura.com) — 2026-07-16T17:08:51.000Z
+- [La reivindicación de Messi y Scaloni en una Argentina "única" camino de la final con España: "Digan lo que digan, no nos regalan nada"](https://www.elmundo.es/deportes/futbol/mundial-de-futbol/2026/07/16/6a584d10e85ece460c8b4598.html?utm_source=lootura.com) — 2026-07-16T13:07:03.000Z
+- [La fotografía que anticipó una final: "Messi se encontró de sopetón con un bebé y se quedó más tieso que una tabla de planchar"](https://www.larazon.es/deportes/futbol/fotografia-que-anticipo-final-messi-encontro-sopeton-bebe-quedo-mas-tieso-que-tabla-planchar_202607176a5946e4e9f2e84b5c6cc789.html?utm_source=lootura.com) — 2026-07-17T01:04:10.000Z

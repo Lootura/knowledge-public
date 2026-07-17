@@ -3,7 +3,7 @@
 > Sigue la actividad de Pedro Sánchez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-16T20:54:41.819Z
+- Actualizado: 2026-07-17T02:26:45.462Z
 - Canonical: https://atlas.lootura.com/es/person/pedro-sanchez
 
 ## Cambios recientes
@@ -32,6 +32,30 @@ Manuel Llamas enmarca las informaciones reservadas incoadas contra la UCO dentro
 
 Date: 2026-07-16
 
+### Feijóo acata el aval a la amnistía entre reproches a Sánchez: «Mintió y vendió a los españoles»
+
+El presidente del Partido Popular, Alberto Núñez Feijóo , ha subrayado este miércoles en Las Palmas de Gran Canaria que un demócrata «respeta las sentencias, todas las sentencias y de todos los tribunales » y, además, «no ordena a sus ministros salir a señalar a jueces con nombres y apellidos». Núñez Feijóo ha hecho es.
+
+Date: 2026-07-16
+
+### El primer documental sobre Ángela Figuera busca fondos para completar la producción
+
+La escritora murciana María Sánchez-Saorín dirige 'Ángela. Una mujer de barro', que reivindica su lugar en la poesía.
+
+Date: 2026-07-16
+
+### ING duplicará antes de fin de año su equipo de banqueros privados
+
+Sandra Sánchez. Madrid ING sigue dando muestras de su apetito por crecer en el segmento de la banca privada en España. El banco neerlandés, que recientemente ha acordado la...
+
+Date: 2026-07-16
+
+### Abascal acusa a «Bruselas» de estar «encubriéndolo todo» tras su sentencia de la amnistía
+
+El líder de Vox, Santiago Abascal, ha cargado contra el Gobierno por el juicio a la mujer del presidente Pedro Sánchez , y las «cloacas» del ministro del Interior, Fernando Grande-Marlaska, y ha acusado a «Bruselas» de estar «encubriéndolo todo» tras el aval del Tribunal de Justicia de la Unión Europea a la Ley de Amni.
+
+Date: 2026-07-16
+
 ### Sánchez se ha enfurruñado
 
 Se ha enfadado el yerno de Sabiniano, el padre de Begoña, que hizo fortuna con el sudor y las lágrimas de los hombres y mujeres a los que explotaba en sus puticlubs y saunas sexuales. Ya sé que resulta cansino nombrar a su suegro cada vez que se menciona al presidente del Gobierno, pero es obligado repetir hasta la sac.
@@ -44,36 +68,13 @@ La familia Sánchez-Flores está de celebración. Paty Sánchez-Flores, hija del
 
 Date: 2026-07-16
 
-### Feijóo acata el aval a la amnistía entre reproches a Sánchez: «Mintió y vendió a los españoles»
-
-El presidente del Partido Popular, Alberto Núñez Feijóo , ha subrayado este miércoles en Las Palmas de Gran Canaria que un demócrata «respeta las sentencias, todas las sentencias y de todos los tribunales » y, además, «no ordena a sus ministros salir a señalar a jueces con nombres y apellidos». Núñez Feijóo ha hecho es.
-
-Date: 2026-07-16
-
-### Albert Sánchez, nuevo director general de Philip Morris para España, Andorra y Gibraltar
-
-Philip Morris International (PMI) ha designado a Albert Sánchez como nuevo director general de la compañía en España , Andorra y Gibraltar, cargo que entrará en vigor el próximo día 1 de agosto . De este modo, toma el relevo de Daniel Cuevas, quien, tras tres años liderando el negocio, ha sido designado presidente de l.
-
-Date: 2026-07-16
-
-### Gonzalo Sánchez, reelegido presidente de PwC hasta 2031
-
-La Junta de Socios de PwC España ha reelegido hoy a Gonzalo Sánchez presidente de la Firma para un nuevo mandato hasta 2031, en una reelección que ha sido realizada mediante un sistema de votación secreta, único entre las firmas de socios. La renovación supone el reconocimiento a su gestión al frente de PwC, dando cont.
-
-Date: 2026-07-16
-
-### El Gobierno tilda de «causa política» el juicio contra Gómez tras la decisión de la Audiencia
-
-El Gobierno reitera que Begoña Gómez , la mujer del presidente Pedro Sánchez es « inocente » y la causa judicial en la que está inmersa es « política », después de que la Audiencia Provincial de Madrid haya confirmado la decisión del juez instructor Juan Carlos Peinado de enviarla a juicio con jurado popular. No obstan.
-
-Date: 2026-07-16
-
 ## Fuentes
 
+- [El primer documental sobre Ángela Figuera busca fondos para completar la producción](https://www.elcorreo.com/culturas/cine/primer-documental-sobre-angela-figuera-busca-fondos-20260716174814-nt_amp.html?utm_source=lootura.com) — 2026-07-16T22:59:05.000Z
 - [El DAO niega ante el juez presiones a la UCO y que les ordenase "ponerse de perfil" con la investigación del hermano de Pedro Sánchez](https://www.elmundo.es/espana/2026/07/16/6a589907e85ece26028b45b3.html?utm_source=lootura.com) — 2026-07-16T16:23:11.000Z
 - [El Gobierno celebra la ley de amnistía como un “logro colectivo” que ha contribuido a recuperar “la convivencia y la reconciliación”](https://elpais.com/espana/2026-07-16/el-gobierno-celebra-que-la-ley-de-amnistia-es-constitucional-y-conforme-al-derecho-europeo.html?utm_source=lootura.com) — 2026-07-16T10:06:55.000Z
 - [La Audiencia de Madrid avala que la causa contra Begoña Gómez siga adelante por jurado por dos delitos](https://elpais.com/espana/2026-07-16/la-audiencia-de-madrid-avala-que-la-causa-contra-begona-gomez-siga-adelante-por-jurado-por-dos-delitos.html?utm_source=lootura.com) — 2026-07-16T15:21:22.000Z
 - [Puigdemont enfría un regreso inminente a España: “El camino para acabar con la represión no ha terminado”](https://elpais.com/espana/catalunya/2026-07-16/jordi-turull-el-tc-no-se-puede-ir-de-vacaciones-teniendo-a-gente-a-la-que-se-le-vulneran-derechos-fundamentales.html?utm_source=lootura.com) — 2026-07-16T12:10:59.000Z
-- [Sánchez se ha enfurruñado](https://okdiario.com/opinion/sanchez-enfurrunado-19010738?utm_source=lootura.com) — 2026-07-16T17:00:38.000Z
-- [Paty, la hija de Quique Sánchez-Flores, da la bienvenida al mundo a Nicolás, su primer hijo: «Muy a mi pesar, terminó en cesárea»](https://okdiario.com/cool/famosos/paty-hija-quique-sanchez-flores-da-bienvenida-mundo-nicolas-primer-hijo-muy-pesar-termino-cesarea-19012625?utm_source=lootura.com) — 2026-07-16T20:01:35.000Z
+- [ING duplicará antes de fin de año su equipo de banqueros privados](https://amp.expansion.com/empresas/banca/2026/07/17/6a594b0ae5fdeac1458b4588.html?utm_source=lootura.com) — 2026-07-16T23:10:37.000Z
+- [Abascal acusa a «Bruselas» de estar «encubriéndolo todo» tras su sentencia de la amnistía](https://okdiario.com/espana/abascal-acusa-bruselas-estar-encubriendolo-todo-sentencia-amnistia-19013116?utm_source=lootura.com) — 2026-07-16T23:36:14.000Z
 - [Feijóo acata el aval a la amnistía entre reproches a Sánchez: «Mintió y vendió a los españoles»](https://theobjective.com/espana/politica/2026-07-16/feijoo-amnistia-sanchez-mintio-vendio-espanoles/?utm_source=lootura.com) — 2026-07-16T19:44:14.000Z

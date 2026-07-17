@@ -3,10 +3,16 @@
 > Sigue la actividad de Alberto Núñez Feijóo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-16T20:54:41.819Z
+- Actualizado: 2026-07-17T02:26:45.462Z
 - Canonical: https://atlas.lootura.com/es/person/alberto-nunez-feijoo
 
 ## Cambios recientes
+
+### Feijóo acata el aval a la amnistía entre reproches a Sánchez: «Mintió y vendió a los españoles»
+
+El presidente del Partido Popular, Alberto Núñez Feijóo , ha subrayado este miércoles en Las Palmas de Gran Canaria que un demócrata «respeta las sentencias, todas las sentencias y de todos los tribunales » y, además, «no ordena a sus ministros salir a señalar a jueces con nombres y apellidos». Núñez Feijóo ha hecho es.
+
+Date: 2026-07-16
 
 ### CC OO exige a CEOE la retirada de una polémica campaña publicitaria sobre el absentismo: “Mientras unos no están, otros esperan”
 
@@ -17,12 +23,6 @@ Date: 2026-07-16
 ### Feijóo: “Los demócratas respetamos las sentencias y punto”
 
 Tras l a decisión del Tribunal de Justicia de la Unión Europea (TJUE) de avalar la ley de amnistía , que zanja el debate jurídico, el Partido Popular ha tratado de reorientar su rechazo a la norma al terreno político y moral. Los populares han declarado su “respeto absoluto al fallo del Tribunal” en un breve comunicado.
-
-Date: 2026-07-16
-
-### Feijóo acata el aval a la amnistía entre reproches a Sánchez: «Mintió y vendió a los españoles»
-
-El presidente del Partido Popular, Alberto Núñez Feijóo , ha subrayado este miércoles en Las Palmas de Gran Canaria que un demócrata «respeta las sentencias, todas las sentencias y de todos los tribunales » y, además, «no ordena a sus ministros salir a señalar a jueces con nombres y apellidos». Núñez Feijóo ha hecho es.
 
 Date: 2026-07-16
 
@@ -70,6 +70,5 @@ Date: 2026-07-15
 
 ## Fuentes
 
-- [CC OO exige a CEOE la retirada de una polémica campaña publicitaria sobre el absentismo: “Mientras unos no están, otros esperan”](https://elpais.com/economia/2026-07-16/cc-oo-exige-a-ceoe-la-retirada-de-una-polemica-campana-publicitaria-sobre-el-absentismo-mientras-unos-no-estan-otros-esperan.html?utm_source=lootura.com) — 2026-07-16T15:01:53.000Z
-- [Feijóo: “Los demócratas respetamos las sentencias y punto”](https://elpais.com/espana/2026-07-16/el-pp-respeta-el-fallo-del-tribunal-pero-carga-contra-sanchez-ningun-presidente-debe-cambiar-poder-por-impunidad.html?utm_source=lootura.com) — 2026-07-16T09:20:49.000Z
+- [Feijóo defiende que el PP tenía "razón" al denunciar falta de control en la ley de nietos tras la exigencia de la Junta Electoral](https://www.20minutos.es/nacional/feijoo-defiende-que-pp-tenia-razon-denunciar-falta-control-ley-nietos-tras-exigencia-junta-electoral_7015673_0.html?utm_source=lootura.com) — 2026-07-16T22:32:19.000Z
 - [Feijóo acata el aval a la amnistía entre reproches a Sánchez: «Mintió y vendió a los españoles»](https://theobjective.com/espana/politica/2026-07-16/feijoo-amnistia-sanchez-mintio-vendio-espanoles/?utm_source=lootura.com) — 2026-07-16T19:44:14.000Z

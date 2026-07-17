@@ -3,16 +3,10 @@
 > Follow Ukraine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-16T20:55:05.764Z
+- Updated: 2026-07-17T02:27:10.364Z
 - Canonical: https://atlas.lootura.com/us/place/ukraine
 
 ## Recent changes
-
-### Ukrainian's Zelenskyy faces major backlash for ousting defense chief Mykhailo Fedorov amid progress vs. Russia
-
-Ukrainians are demonstrating in Kyiv and senior figures announcing their resignations over President Volodymyr Zelenksyy's move to oust his popular defense chief.
-
-Date: 2026-07-16
 
 ### Ukrainians protest Zelenskyy's ouster of his popular defense minister
 
@@ -23,6 +17,12 @@ Date: 2026-07-16
 ### Ukraine Was on a Roll. Then a Clash Over War Strategy Exploded Into View.
 
 From an underground parking garage, Ukraine’s newly dismissed defense minister aired the most dramatic, public critique of the military command to emerge during the war.
+
+Date: 2026-07-16
+
+### Ukrainian's Zelenskyy faces major backlash for ousting defense chief Mykhailo Fedorov amid progress vs. Russia
+
+Ukrainians are demonstrating in Kyiv and senior figures announcing their resignations over President Volodymyr Zelenksyy's move to oust his popular defense chief.
 
 Date: 2026-07-16
 
@@ -70,7 +70,5 @@ Date: 2026-07-16
 
 ## Sources
 
-- [Ukrainian's Zelenskyy faces major backlash for ousting defense chief Mykhailo Fedorov amid progress vs. Russia](https://www.cbsnews.com/news/ukrainian-protest-zelenskyy-oust-defense-chief-mykhailo-fedorov-russia-war/?utm_source=lootura.com) — 2026-07-16T13:39:04.000Z
 - [Ukrainians protest Zelenskyy's ouster of his popular defense minister](https://www.pbs.org/newshour/world/ukrainians-protest-zelenskyys-ouster-of-his-popular-defense-minister?utm_source=lootura.com) — 2026-07-16T17:21:53.000Z
-- [Ukraine Was on a Roll. Then a Clash Over War Strategy Exploded Into View.](https://www.nytimes.com/2026/07/16/world/europe/ukraine-military-defense-minister-drones.html?utm_source=lootura.com) — 2026-07-16T20:02:43.000Z
-- [Meet Sergii Koretskyi, Ukraine’s New Prime Minister After Major Government Reshuffle](https://time.com/article/2026/07/16/meet-sergii-koretskyi-ukraine-new-prime-minister-energy-official-zelensky/?utm_source=lootura.com) — 2026-07-16T20:26:59.000Z
+- [Ukraine Was on a Roll. Then a Clash Over War Strategy Exploded Into View.](https://www.nytimes.com/2026/07/16/world/europe/ukraine-military-defense-minister-drones.html?utm_source=lootura.com) — 2026-07-16T22:01:29.000Z

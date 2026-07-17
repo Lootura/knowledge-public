@@ -1,0 +1,45 @@
+{
+  "id": "es-carles-puigdemont",
+  "name": "Carles Puigdemont",
+  "type": "person",
+  "locale": "es",
+  "canonicalPath": "/es/person/carles-puigdemont",
+  "canonicalUrl": "https://atlas.lootura.com/es/person/carles-puigdemont",
+  "markdownUrl": "https://atlas.lootura.com/es/person/carles-puigdemont/index.md",
+  "jsonUrl": "https://atlas.lootura.com/es/person/carles-puigdemont/index.json",
+  "description": "Sigue la actividad de Carles Puigdemont en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
+  "updatedAt": "2026-07-17T02:26:45.462Z",
+  "aliases": [],
+  "changes": [
+    {
+      "title": "Junts fía su futuro electoral al regreso de Puigdemont",
+      "summary": "Ayer, el Tribunal de Justicia de la Unión Europea (TJUE) dio un auténtico espaldarazo a la Ley de Amnistía y allanó el camino, aunque todavía queda una parte por recorrer, para el regreso a España de Carles Puigdemont . Desde Junts se anotaron así una importante victoria política y vendieron en sus círculos que habían.",
+      "date": "2026-07-17"
+    },
+    {
+      "title": "El Supremo mantiene el motivo clave por el que rechazó amnistiar la malversación de Puigdemont",
+      "summary": "Aunque el ex presidente catalán Carles Puigdemont celebró ayer el fallo del Tribunal de Justicia de la Unión Europea (TJUE) sobre la amnistía, lo cierto es que tendrá que...",
+      "date": "2026-07-16"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Carles Puigdemont first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-07-16"
+    }
+  ],
+  "sources": [
+    {
+      "title": "El Supremo mantiene el motivo clave por el que rechazó amnistiar la malversación de Puigdemont",
+      "url": "https://amp.elmundo.es/espana/2026/07/16/6a592344e85ecec83c8b456d.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-16T20:33:54.000Z",
+      "sourceId": "lootura-es-el-mundo"
+    },
+    {
+      "title": "Junts fía su futuro electoral al regreso de Puigdemont",
+      "url": "https://www.larazon.es/espana/junts-fia-futuro-electoral-regreso-puigdemont_202607176a59290ce9f2e84b5c6c9cd2.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-17T01:14:17.000Z",
+      "sourceId": "lootura-es-la-razon"
+    }
+  ],
+  "evidenceCount": 2
+}

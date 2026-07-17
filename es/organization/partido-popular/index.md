@@ -3,10 +3,16 @@
 > Sigue la actividad de Partido Popular en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-16T20:54:41.819Z
+- Actualizado: 2026-07-17T02:26:45.462Z
 - Canonical: https://atlas.lootura.com/es/organization/partido-popular
 
 ## Cambios recientes
+
+### Feijóo acata el aval a la amnistía entre reproches a Sánchez: «Mintió y vendió a los españoles»
+
+El presidente del Partido Popular, Alberto Núñez Feijóo , ha subrayado este miércoles en Las Palmas de Gran Canaria que un demócrata «respeta las sentencias, todas las sentencias y de todos los tribunales » y, además, «no ordena a sus ministros salir a señalar a jueces con nombres y apellidos». Núñez Feijóo ha hecho es.
+
+Date: 2026-07-16
 
 ### Génova le quita importancia al fallo del TJUE y Aznar reclama que "la agresión sediciosa no quede impune"
 
@@ -38,12 +44,6 @@ El Partido Popular ha firmado este jueves sus conclusiones conjuntas tras el EPP
 
 Date: 2026-07-16
 
-### Feijóo acata el aval a la amnistía entre reproches a Sánchez: «Mintió y vendió a los españoles»
-
-El presidente del Partido Popular, Alberto Núñez Feijóo , ha subrayado este miércoles en Las Palmas de Gran Canaria que un demócrata «respeta las sentencias, todas las sentencias y de todos los tribunales » y, además, «no ordena a sus ministros salir a señalar a jueces con nombres y apellidos». Núñez Feijóo ha hecho es.
-
-Date: 2026-07-16
-
 ### La Justicia europea desmonta el relato del Supremo y el PP: no ve 'autoamnistía' ni quiebra de la igualdad
 
 La resolución de los jueces de Luxemburgo comparte la visión de reconciliación en la norma y rechaza adentrarse en las consideraciones políticas que realizó la Comisión Europea El TJUE avala la ley de amnistía como vía para la “reconciliación nacional” La ley de amnistía dio un trato “ostensiblemente privilegiado” a lo.
@@ -70,9 +70,5 @@ Date: 2026-07-16
 
 ## Fuentes
 
-- [CC OO exige a CEOE la retirada de una polémica campaña publicitaria sobre el absentismo: “Mientras unos no están, otros esperan”](https://elpais.com/economia/2026-07-16/cc-oo-exige-a-ceoe-la-retirada-de-una-polemica-campana-publicitaria-sobre-el-absentismo-mientras-unos-no-estan-otros-esperan.html?utm_source=lootura.com) — 2026-07-16T15:01:53.000Z
-- [Génova le quita importancia al fallo del TJUE y Aznar reclama que "la agresión sediciosa no quede impune"](https://www.elmundo.es/espana/2026/07/16/6a58a2b4e4d4d8a8558b45a5.html?utm_source=lootura.com) — 2026-07-16T09:22:12.000Z
-- [Feijóo: “Los demócratas respetamos las sentencias y punto”](https://elpais.com/espana/2026-07-16/el-pp-respeta-el-fallo-del-tribunal-pero-carga-contra-sanchez-ningun-presidente-debe-cambiar-poder-por-impunidad.html?utm_source=lootura.com) — 2026-07-16T09:20:49.000Z
-- [El PP sella su compromiso con sus socios globales: «Europa fuerte y unida a Iberoamérica, la mejor respuesta al populismo»](https://okdiario.com/espana/pp-sella-compromiso-sus-socios-globales-europa-fuerte-unida-iberoamerica-mejor-respuesta-populismo-19012324?utm_source=lootura.com) — 2026-07-16T19:25:40.000Z
-- [El PP, tras mantenerse el juicio con jurado a Begoña Gómez: «Una situación inconcebible»](https://theobjective.com/espana/politica/2026-07-16/pp-juicio-jurado-gomez-situacion-inconcebible/?utm_source=lootura.com) — 2026-07-16T13:20:44.000Z
+- [Feijóo defiende que el PP tenía "razón" al denunciar falta de control en la ley de nietos tras la exigencia de la Junta Electoral](https://www.20minutos.es/nacional/feijoo-defiende-que-pp-tenia-razon-denunciar-falta-control-ley-nietos-tras-exigencia-junta-electoral_7015673_0.html?utm_source=lootura.com) — 2026-07-16T22:32:19.000Z
 - [Feijóo acata el aval a la amnistía entre reproches a Sánchez: «Mintió y vendió a los españoles»](https://theobjective.com/espana/politica/2026-07-16/feijoo-amnistia-sanchez-mintio-vendio-espanoles/?utm_source=lootura.com) — 2026-07-16T19:44:14.000Z

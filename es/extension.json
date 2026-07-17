@@ -1,42 +1,68 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-16T20:59:37.430Z",
+  "generatedAt": "2026-07-17T02:31:37.677Z",
   "radar": {
     "id": "es",
     "slug": "es",
     "locale": "es"
   },
   "state": {
-    "signature": "1.16.0|7|1784235281819",
+    "signature": "1.16.0|8|1784255205462",
     "version": "1.16.0",
-    "build": 7,
-    "latestEntityUpdatedAt": "2026-07-16T20:54:41.819Z"
+    "build": 8,
+    "latestEntityUpdatedAt": "2026-07-17T02:26:45.462Z"
   },
   "atlas": {
     "hero": {
-      "id": "es-begona-gomez",
-      "name": "Begoña Gómez",
-      "type": "person",
-      "title": "La Audiencia de Madrid avala que la causa contra Begoña Gómez siga adelante por jurado por dos delitos",
-      "url": "https://atlas.lootura.com/es/person/begona-gomez",
-      "path": "/es/person/begona-gomez",
-      "updatedAt": "2026-07-16T20:54:41.819Z",
-      "score": 1598,
-      "sourceCount": 23,
+      "id": "es-madrid",
+      "name": "Madrid",
+      "type": "place",
+      "title": "Incendio en Lozoyuela, en directo: Madrid eleva a situación 2 y pide ayuda a la UME",
+      "url": "https://atlas.lootura.com/es/place/madrid",
+      "path": "/es/place/madrid",
+      "updatedAt": "2026-07-17T02:26:45.462Z",
+      "score": 1579,
+      "sourceCount": 163,
       "isBreaking": false,
       "isPinned": false
     },
     "cards": [
       {
-        "id": "es-madrid",
-        "name": "Madrid",
+        "id": "es-china",
+        "name": "China",
         "type": "place",
+        "title": "Trump anuncia la desclasificación de documentos sobre una supuesta injerencia electoral china en 2020",
+        "url": "https://atlas.lootura.com/es/place/china",
+        "path": "/es/place/china",
+        "updatedAt": "2026-07-17T02:26:45.462Z",
+        "score": 1577,
+        "sourceCount": 29,
+        "isBreaking": false,
+        "isPinned": false
+      },
+      {
+        "id": "es-donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "title": "Trump anuncia la desclasificación de documentos sobre una supuesta injerencia electoral china en 2020",
+        "url": "https://atlas.lootura.com/es/person/donald-trump",
+        "path": "/es/person/donald-trump",
+        "updatedAt": "2026-07-17T02:26:45.462Z",
+        "score": 1577,
+        "sourceCount": 104,
+        "isBreaking": false,
+        "isPinned": false
+      },
+      {
+        "id": "es-begona-gomez",
+        "name": "Begoña Gómez",
+        "type": "person",
         "title": "La Audiencia de Madrid avala que la causa contra Begoña Gómez siga adelante por jurado por dos delitos",
-        "url": "https://atlas.lootura.com/es/place/madrid",
-        "path": "/es/place/madrid",
-        "updatedAt": "2026-07-16T20:54:41.819Z",
-        "score": 1585,
-        "sourceCount": 159,
+        "url": "https://atlas.lootura.com/es/person/begona-gomez",
+        "path": "/es/person/begona-gomez",
+        "updatedAt": "2026-07-17T02:26:45.462Z",
+        "score": 1571,
+        "sourceCount": 25,
         "isBreaking": false,
         "isPinned": false
       },
@@ -47,39 +73,13 @@
         "title": "La Audiencia de Madrid avala que la causa contra Begoña Gómez siga adelante por jurado por dos delitos",
         "url": "https://atlas.lootura.com/es/person/pedro-sanchez",
         "path": "/es/person/pedro-sanchez",
-        "updatedAt": "2026-07-16T20:54:41.819Z",
-        "score": 1562,
-        "sourceCount": 150,
-        "isBreaking": false,
-        "isPinned": false
-      },
-      {
-        "id": "es-juan-carlos-peinado",
-        "name": "Juan Carlos Peinado",
-        "type": "person",
-        "title": "La Audiencia de Madrid avala que la causa contra Begoña Gómez siga adelante por jurado por dos delitos",
-        "url": "https://atlas.lootura.com/es/person/juan-carlos-peinado",
-        "path": "/es/person/juan-carlos-peinado",
-        "updatedAt": "2026-07-16T20:54:41.819Z",
+        "updatedAt": "2026-07-17T02:26:45.462Z",
         "score": 1540,
-        "sourceCount": 7,
-        "isBreaking": false,
-        "isPinned": false
-      },
-      {
-        "id": "es-la-audiencia-provincial",
-        "name": "La Audiencia Provincial",
-        "type": "person",
-        "title": "La Audiencia de Madrid avala que la causa contra Begoña Gómez siga adelante por jurado por dos delitos",
-        "url": "https://atlas.lootura.com/es/person/la-audiencia-provincial",
-        "path": "/es/person/la-audiencia-provincial",
-        "updatedAt": "2026-07-16T20:54:41.819Z",
-        "score": 1531,
-        "sourceCount": 12,
+        "sourceCount": 153,
         "isBreaking": false,
         "isPinned": false
       }
     ],
-    "publicEntityCount": 41
+    "publicEntityCount": 38
   }
 }

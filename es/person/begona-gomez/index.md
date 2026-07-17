@@ -3,14 +3,26 @@
 > Sigue la actividad de Begoña Gómez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-16T20:54:41.819Z
+- Actualizado: 2026-07-17T02:26:45.462Z
 - Canonical: https://atlas.lootura.com/es/person/begona-gomez
 
 ## Cambios recientes
 
+### La Audiencia Provincial respalda la decisión de Peinado y descarta que sea «contraria a derecho»
+
+La Audiencia Provincial de Madrid ha respaldado la decisión del juez Juan Carlos Peinado de enviar a Begoña Gómez al banquillo frente a un jurado popular, una «opción» que «no puede reputarse arbitraria ni contraria a Derecho, en la medida en que identifica los delitos que, de manera indiciaria, pudieran resultar aplic.
+
+Date: 2026-07-17
+
 ### La Audiencia de Madrid avala que la causa contra Begoña Gómez siga adelante por jurado por dos delitos
 
 La Audiencia Provincial de Madrid ha dado luz verde a que el proceso por jurado popular contra Begoña Gómez, esposa de Pedro Sánchez, siga adelante por dos delitos: tráfico de influencias y malversación. El tribunal avala así parcialmente la decisión del juez Juan Carlos Peinado de enviar al banquillo a la pareja del p.
+
+Date: 2026-07-16
+
+### Los 13 indicios de malversación con el 'software' de la Universidad Complutense que hunden a Begoña Gómez
+
+La esposa del presidente dejó varias pistas "con fuerza incriminatoria" al usar el 'software' de la UCM sin respeto al interés público que la abocan al juicio Leer.
 
 Date: 2026-07-16
 
@@ -56,20 +68,8 @@ Los tribunales ya no son ese lugar donde se imparte justicia sino la plaza donde
 
 Date: 2026-07-16
 
-### Begoña Gómez entrega al juez Peinado los billetes de su viaje a Londres para la graduación de su hija
-
-ha entregado al juzgado los billetes de avión de su viaje a Londres de la pasada semana y ha presentado un recurso contra la iniciativa del magistrado Juan Carlos Peinado de reclamarle que “acredite” que solo usó el pasaporte para acudir a Reino Unido a la graduación de su hija. En su escrito de alegacione.
-
-Date: 2026-07-15
-
-### Begoña Gómez entrega al juez sus billetes de avión al Reino Unido y critica a Peinado por formular una exigencia "materialmente imposible"
-
-Denuncia que el requerimiento es contrario a la presunción de inocencia y subraya que Reino Unido ha sustituido los sellos físicos por un sistema digital Leer.
-
-Date: 2026-07-15
-
 ## Fuentes
 
-- [Begoña Gómez será juzgada por un jurado popular por tráfico de influencias y malversación](https://www.abc.es/espana/audiencia-confirma-begona-gomez-juzgada-jurado-popular-20260716132736-nt.html?utm_source=lootura.com) — 2026-07-16T18:52:48.000Z
+- [La Audiencia Provincial respalda la decisión de Peinado y descarta que sea «contraria a derecho»](https://www.abc.es/espana/audiencia-provincial-respalda-decision-peinado-descarta-arbitraria-20260717015223-nt.html?utm_source=lootura.com) — 2026-07-17T01:10:18.000Z
+- [Los 13 indicios de malversación con el 'software' de la Universidad Complutense que hunden a Begoña Gómez](https://www.elmundo.es/espana/2026/07/16/6a592f7721efa0437e8b4570.html?utm_source=lootura.com) — 2026-07-16T20:52:41.000Z
 - [La Audiencia de Madrid avala que la causa contra Begoña Gómez siga adelante por jurado por dos delitos](https://elpais.com/espana/2026-07-16/la-audiencia-de-madrid-avala-que-la-causa-contra-begona-gomez-siga-adelante-por-jurado-por-dos-delitos.html?utm_source=lootura.com) — 2026-07-16T15:21:22.000Z
-- [El PP, tras mantenerse el juicio con jurado a Begoña Gómez: «Una situación inconcebible»](https://theobjective.com/espana/politica/2026-07-16/pp-juicio-jurado-gomez-situacion-inconcebible/?utm_source=lootura.com) — 2026-07-16T13:20:44.000Z

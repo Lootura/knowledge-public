@@ -70,4 +70,4 @@ Date: 2026-07-13
 
 ## Sources
 
-- [Ukrainian's Zelenskyy faces major backlash for ousting defense chief Mykhailo Fedorov amid progress vs. Russia](https://www.cbsnews.com/news/ukrainian-protest-zelenskyy-oust-defense-chief-mykhailo-fedorov-russia-war/?utm_source=lootura.com) — 2026-07-16T13:39:04.000Z
+No public source links.

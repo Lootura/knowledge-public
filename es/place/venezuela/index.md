@@ -3,10 +3,16 @@
 > Sigue la actividad de Venezuela en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-16T13:45:06.103Z
+- Actualizado: 2026-07-17T02:26:45.462Z
 - Canonical: https://atlas.lootura.com/es/place/venezuela
 
 ## Cambios recientes
+
+### Delcy, sobre su viaje a España en 2020: «Me invitó Ábalos para ver a las autoridades»
+
+Delcy Rodríguez ha confirmado que fue José Luis Ábalos quien la invitó a viajar a España en enero de 2020 para mantener reuniones «con las autoridades». La presidenta encargada de Venezuela sostiene que conserva la carta de invitación remitida por quien entonces era ministro de Transportes y secretario de Organización.
+
+Date: 2026-07-16
 
 ### El contraste tras la tragedia en Venezuela
 
@@ -62,12 +68,6 @@ Colombia, Venezuela, Perú, Ecuador, Argentina, Honduras... Los afiliados a la S
 
 Date: 2026-07-14
 
-### Se eleva a 4.561 la cifra de muertos en Venezuela por los dos terremotos
-
-sumó este lunes otros 71 muertos por el doble terremoto del pasado 24 de junio, lo que elevó la cifra de fallecidos hasta al menos 4.561, informó el presidente del Parlamento, el chavista Jorge Rodríguez. La cantidad de heridos y personas sin vivienda se mantiene en 16.740 y 17.907, respectivamente, dice el b.
-
-Date: 2026-07-13
-
 ## Fuentes
 
-No public source links.
+- [Delcy, sobre su viaje a España en 2020: «Me invitó Ábalos para ver a las autoridades»](https://theobjective.com/internacional/2026-07-16/delcy-rodriguez-viaje-espana-invitacion-abalos/?utm_source=lootura.com) — 2026-07-16T21:10:23.000Z

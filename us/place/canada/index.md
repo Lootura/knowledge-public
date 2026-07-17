@@ -3,14 +3,32 @@
 > Follow Canada, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-16T20:55:05.764Z
+- Updated: 2026-07-17T02:27:10.364Z
 - Canonical: https://atlas.lootura.com/us/place/canada
 
 ## Recent changes
 
+### Maps show wildfire smoke forecast, air quality alerts due to pollution from Canadian, Minnesota fires
+
+Heavy smoke from several large wildfires blazing in Canada and Minnesota is engulfing large swaths of the Midwest and Northeast U.S. this week.
+
+Date: 2026-07-17
+
 ### Climate extremes fuel explosive wildfires in Canada and the U.S., experts say
 
 One climatologist said "a perfect storm" of climate extremes primed the western U.S. for one of its worst fire seasons in a decade. Meanwhile, Canadian wildfire smoke fills the air.
+
+Date: 2026-07-16
+
+### Dangerous wildfire smoke continues to blanket parts of the U.S.
+
+Orange skies and heavy smoke covered large parts of the U.S. on Thursday as Canada and Minnesota grapple with wildfires. Hazardous air quality is expected to continue. (Image credit: Spencer Platt).
+
+Date: 2026-07-16
+
+### Canada’s Wildfires Are Burning Through the Night
+
+As overnight temperatures climb across Canada, fires that once spread more slowly after dark are burning around the clock, straining fire crews.
 
 Date: 2026-07-16
 
@@ -50,24 +68,9 @@ Tree swallows in the northern U.S. and Canada face the greatest risk from climat
 
 Date: 2026-07-12
 
-### At least 2 killed in shooting at Toronto street festival, police say
-
-At least two people were killed and several more wounded in a shooting Saturday evening at a street festival in Toronto, Canada, authorities said.
-
-Date: 2026-07-12
-
-### At least 2 killed in mass shooting at Toronto street festival, police say
-
-At least two people were killed and several more wounded in a shooting Saturday evening at a street festival in Toronto, Canada, authorities said.
-
-Date: 2026-07-12
-
-### Toronto shooting: two dead and four injured near street festival, with suspect still at large
-
-Police in the city in Canada say suspect has not been apprehended after finding six people with gunshot wounds near Salsa on St Clair Festival A shooting near a Toronto street festival killed two people and wounded four others on Saturday, prompting police to warn of an active shooter before later saying the scene was.
-
-Date: 2026-07-12
-
 ## Sources
 
+- [Maps show wildfire smoke forecast, air quality alerts due to pollution from Canadian, Minnesota fires](https://www.cbsnews.com/news/wildfires-smoke-millions-exposed-midwest-northeast-us/?utm_source=lootura.com) — 2026-07-17T02:26:09.000Z
 - [Climate extremes fuel explosive wildfires in Canada and the U.S., experts say](https://www.cbsnews.com/news/climate-extremes-wildfires-canada-us-west/?utm_source=lootura.com) — 2026-07-16T17:06:08.000Z
+- [Dangerous wildfire smoke continues to blanket parts of the U.S.](https://www.npr.org/2026/07/16/nx-s1-5894857/wildfire-smoke-fires-ontario-minnesota?utm_source=lootura.com) — 2026-07-16T20:32:27.000Z
+- [Canada’s Wildfires Are Burning Through the Night](https://www.nytimes.com/2026/07/16/world/canada/canada-wildfires-firefighters-heat.html?utm_source=lootura.com) — 2026-07-16T22:08:16.000Z

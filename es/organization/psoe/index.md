@@ -70,4 +70,4 @@ Date: 2026-07-15
 
 ## Fuentes
 
-- [La directora de la Guardia Civil declara como imputada en el 'caso cloacas del PSOE' por obstrucción a la Justicia](https://www.elmundo.es/espana/2026/07/15/6a57ddb9fc6c838e4d8b45a4.html?utm_source=lootura.com) — 2026-07-16T08:21:52.000Z
+No public source links.

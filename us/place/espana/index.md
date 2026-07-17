@@ -3,10 +3,16 @@
 > Follow Spain, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-16T20:55:05.764Z
+- Updated: 2026-07-17T02:27:10.364Z
 - Canonical: https://atlas.lootura.com/us/place/espana
 
 ## Recent changes
+
+### Deadly helicopter crash in Hudson River likely caused by bird strike, NTSB says
+
+A family of five from Spain, including three children, and the pilot died in the April 2025 crash.
+
+Date: 2026-07-17
 
 ### Deadly helicopter crash in Hudson River likely caused by bird strike, NTSB says
 
@@ -64,5 +70,4 @@ Date: 2026-07-09
 
 ## Sources
 
-- [Who will win the World Cup: Spain or Argentina?](https://www.cbsnews.com/video/who-will-win-the-world-cup-spain-or-argentina/?utm_source=lootura.com) — 2026-07-16T13:28:44.000Z
-- [Deadly helicopter crash in Hudson River likely caused by bird strike, NTSB says](https://www.cbsnews.com/news/new-york-helicopter-crash-hudson-river-bird-strike-ntsb/?utm_source=lootura.com) — 2026-07-16T20:28:10.000Z
+- [Deadly helicopter crash in Hudson River likely caused by bird strike, NTSB says](https://www.cbsnews.com/news/new-york-helicopter-crash-hudson-river-bird-strike-ntsb/?utm_source=lootura.com) — 2026-07-17T01:58:53.000Z

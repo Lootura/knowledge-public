@@ -8,13 +8,23 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/united-states/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/united-states/index.json",
   "description": "Sigue la actividad de Estados Unidos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-16T20:54:41.819Z",
+  "updatedAt": "2026-07-17T02:26:45.462Z",
   "aliases": [
     "America",
     "Estados Unidos",
     "U.S."
   ],
   "changes": [
+    {
+      "title": "La ley del «Bebé Moisés»: en Nebraska se permitía abandonar a niños en hospitales",
+      "summary": "Hubo un tiempo en Estados Unidos en el que un padre podía entregar a su hijo en un hospital sin ser procesado por abandono. Ocurrió en Nebraska durante unos meses del no tan lejano 2008, cuando la llamada ley Safe Haven, conocida popularmente como la ley del «Bebé Moisés» , contenía un vacío legal: a diferencia del res.",
+      "date": "2026-07-17"
+    },
+    {
+      "title": "Trump resucita en un discurso a la nación el bulo del fraude electoral de 2020 y acusa a China de influir en su derrota",
+      "summary": "Donald Trump, líder de un país en guerra y con el coste de la vida en alza, se dirigió este jueves por la noche a la nación para hablar de las elecciones... de hace seis años. No fue solo un intento de ajuste de cuentas con un fracaso personal; el presidente de Estados Unidos, cuya impopularidad bate récords, habló con.",
+      "date": "2026-07-17"
+    },
     {
       "title": "Trump impone un arancel del 25% a Brasil por \"no negociar de buena fe\"",
       "summary": "El presidente de Estados Unidos, Donald Trump, acaba de iniciar un nuevo capítulo en su ya extenso historial de batallas comerciales. Su Administración ha anunciado la imposición de un arancel general del 25% sobre el grueso de importaciones procedentes de Brasil, país al que acusa de actuar \"con mala fe\" en las relaci.",
@@ -54,31 +64,27 @@
       "title": "Lula da Silva activa la ley de reciprocidad contra los aranceles de EEUU y culpa a los Bolsonaro: \"Son falsos patriotas\"",
       "summary": "El Gobierno de Brasil anunció este jueves que iniciará \"inmediatamente\" los trámites para aplicar la ley de reciprocidad en respuesta a los aranceles del 25% decretados por Estados Unidos a ciertos productos brasileños y culpó de ello a la familia del expresidente Jair Bolsonaro, informa la agencia Efe. \"El 15 de julio.",
       "date": "2026-07-16"
-    },
-    {
-      "title": "Trump amenaza con atacar infraestructuras civiles si Irán no vuelve a negociar",
-      "summary": "Estados Unidos ha reimpuesto el bloqueo naval sobre los puertos iraníes y ha intensificado su campaña de bombardeos contra la república islámica, en una nueva escalada de ataques que amenaza con devolver a Oriente Próximo a una guerra abierta y que vuelve a situar el estrecho de Ormuz en el centro del enfrentamiento.La.",
-      "date": "2026-07-16"
-    },
-    {
-      "title": "Trump se enreda de nuevo en una guerra de Irán sin salida clara",
-      "summary": "En las jornadas posteriores al ataque conjunto de Israel y Estados Unidos contra Irán del pasado 28 de febrero, Donald Trump cambió al menos una docena de veces de argumentos para justificar una operación militar que evitó llamar por su nombre (“guerra”, palabra que aún se resiste a emplear). Sobre su duración también.",
-      "date": "2026-07-16"
     }
   ],
   "sources": [
+    {
+      "title": "La ley del «Bebé Moisés»: en Nebraska se permitía abandonar a niños en hospitales",
+      "url": "https://www.abc.es/play/cine/ley-bebe-moises-nebraska-permitia-abandonar-ninos-20260717013407-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-17T01:00:41.000Z",
+      "sourceId": "lootura-es-abc"
+    },
+    {
+      "title": "Trump resucita en un discurso a la nación el bulo del fraude electoral de 2020 y acusa a China de influir en su derrota",
+      "url": "https://elpais.com/internacional/2026-07-17/trump-resucita-en-un-discurso-a-la-nacion-el-bulo-del-fraude-electoral-de-2020-y-acusa-a-china-de-influir-en-su-derrota.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-17T01:28:02.000Z",
+      "sourceId": "lootura-es-el-pais"
+    },
     {
       "title": "Trump impone un arancel del 25% a Brasil por \"no negociar de buena fe\"",
       "url": "https://www.expansion.com/economia/2026/07/16/6a592512468aeba63e8b4587.html?utm_source=lootura.com",
       "publishedAt": "2026-07-16T18:43:27.000Z",
       "sourceId": "lootura-es-expansion"
-    },
-    {
-      "title": "EE UU pisa el acelerador en la carrera por los motores hipersónicos con un nuevo fondo de 400 millones de dólares",
-      "url": "https://www.larazon.es/tecnologia-consumo/ee-uu-pisa-acelerador-carrera-motores-hipersonicos-nuevo-fondo-400-millones-dolares_202607166a587c1f0500ab412c980104.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-16T20:00:00.000Z",
-      "sourceId": "lootura-es-la-razon"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 3
 }

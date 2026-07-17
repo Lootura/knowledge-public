@@ -3,10 +3,40 @@
 > Sigue la actividad de China en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-16T20:54:41.819Z
+- Actualizado: 2026-07-17T02:26:45.462Z
 - Canonical: https://atlas.lootura.com/es/place/china
 
 ## Cambios recientes
+
+### Trump desclasifica documentos de la CIA que demuestran el fraude electoral del chavismo
+
+El presidente denuncia la vulnerabilidad de las máquinas de voto, acusa a China de robar datos de 220 millones de electores y exige al Congreso una ley con identificación y prueba de ciudadanía.
+
+Date: 2026-07-17
+
+### Trump resucita en un discurso a la nación el bulo del fraude electoral de 2020 y acusa a China de influir en su derrota
+
+Donald Trump, líder de un país en guerra y con el coste de la vida en alza, se dirigió este jueves por la noche a la nación para hablar de las elecciones... de hace seis años. No fue solo un intento de ajuste de cuentas con un fracaso personal; el presidente de Estados Unidos, cuya impopularidad bate récords, habló con.
+
+Date: 2026-07-17
+
+### La pesadilla de financiar ensayos cuando el mono es un «artículo de lujo»
+
+El meteórico avance de la terapia génica y la neurociencia es rehén de su propia naturaleza. La explosión de ensayos farmacéuticos en China ha provocado el secado global del mercado del Macaca fascicularis, el único primate capaz de replicar con altísima precisión el comportamiento inmunológico humano. Con la demanda d.
+
+Date: 2026-07-17
+
+### Trump anuncia la desclasificación de documentos sobre una supuesta injerencia electoral china en 2020
+
+El presidente sostuvo que Pekín obtuvo de forma ilícita acceso a los datos de más de 220 millones de votantes estadounidenses.
+
+Date: 2026-07-17
+
+### Trump desclasifica informes de la CIA que «prueban que el sistema electoral ha sido manipulado» y acusa a China
+
+El presidente estadounidense, Donald Trump, ha anunciado esta madrugada que ha desclasificado informes de la CIA que «prueban que el sistema electoral de EEUU es vulnerable ». «Hay niveles de hackeo y de interferencia extranjera nunca vistos», ha llegado a asegurar, y ha acusado sobre todo a China de las «graves injere.
+
+Date: 2026-07-17
 
 ### Cómo el ‘Temu Range Rover’ de China se convirtió en el coche más vendido de Gran Bretaña
 
@@ -38,36 +68,10 @@ La minitregua en el petróleo, y el alivio ayer en el IPC de EEUU, no logran gen
 
 Date: 2026-07-15
 
-### Un científico estadounidense lleva 18 meses detenido en China por investigar sus pruebas nucleares
-
-El Gobierno de Estados Unidos ha reclamado la liberación de un científico estadounidense detenido en China desde hace 18 meses. El sismólogo Chen Youlin llevaba más de dos años estudiando pruebas nucleares subterráneas en el país asiático cuando fue encarcelado el 5 de noviembre de 2024 acusado de espionaje. Desde ento.
-
-Date: 2026-07-15
-
-### China acelera su ofensiva comercial sobre Europa
-
-El gigante asiático bate un nuevo récord de exportaciones impulsado por los chips para la IA y los coches eléctricos, pero afronta una desaceleración del crecimiento que evidencia la debilidad del consumo interno Leer.
-
-Date: 2026-07-15
-
-### El Ibex vuelve a frenarse
-
-La minitregua en el petróleo, y el alivio ayer en el IPC de EEUU, no logran generalizar las subidas, más allá del rebote de las tecnológicas. El freno en el PIB de China y el tono agresivo de la Fed obstaculizan los avances. El Ibex vuelve a atascarse cerca de los 19.300 puntos de las últimas jornadas.
-
-Date: 2026-07-15
-
-### El Ibex vuelve a atascarse
-
-La minitregua en el petróleo, y el alivio ayer en el IPC de EEUU, no logran generalizar las subidas, más allá del rebote de las tecnológicas. El freno en el PIB de China y el tono agresivo de la Fed obstaculizan los avances. El Ibex vuelve a atascarse cerca de los 19.300 puntos de las últimas jornadas.
-
-Date: 2026-07-15
-
-### DeepSeek acelera los preparativos para salir a Bolsa
-
-DeepSeek acelera los preparativos para su salida a Bolsa . La empresa china de inteligencia artificial estudia presentar este mismo año la documentación necesaria para cotizar, con el objetivo de debutar en el mercado de Shanghai en 2027, según fuentes de la compañía citadas por Bloomberg. Seguir leyendo.
-
-Date: 2026-07-14
-
 ## Fuentes
 
-- [Kimi K3: así es la nueva IA china que pone en apuros a Claude Opus 4.8 y GPT-5.5](https://hipertextual.com/inteligencia-artificial/kimi-k3-nueva-ia-moonshot/?utm_source=lootura.com) — 2026-07-16T20:32:22.000Z
+- [Trump desclasifica documentos de la CIA que demuestran el fraude electoral del chavismo](https://www.abc.es/internacional/trump-desclasifica-documentos-cia-muestran-fraude-electoral-20260717034114-nt_amp.html?utm_source=lootura.com) — 2026-07-17T01:41:15.000Z
+- [Trump resucita en un discurso a la nación el bulo del fraude electoral de 2020 y acusa a China de influir en su derrota](https://elpais.com/internacional/2026-07-17/trump-resucita-en-un-discurso-a-la-nacion-el-bulo-del-fraude-electoral-de-2020-y-acusa-a-china-de-influir-en-su-derrota.html?utm_source=lootura.com) — 2026-07-17T01:28:02.000Z
+- [La pesadilla de financiar ensayos cuando el mono es un «artículo de lujo»](https://www.larazon.es/sociedad/pesadilla-financiar-ensayos-cuando-mono-articulo-lujo_202607176a59801be9f2e84b5c6d0d78.html?utm_source=lootura.com) — 2026-07-17T01:06:35.000Z
+- [Trump anuncia la desclasificación de documentos sobre una supuesta injerencia electoral china en 2020](https://www.larazon.es/internacional/trump-anuncia-desclasificacion-documentos-supuesta-injerencia-electoral-china-2020_202607176a598bc90500ab412c9a1bc3.html?outputType=amp&utm_source=lootura.com) — 2026-07-17T01:56:25.000Z
+- [Trump desclasifica informes de la CIA que «prueban que el sistema electoral ha sido manipulado» y acusa a China](https://okdiario.com/internacional/trump-desclasifica-informes-cia-que-prueban-que-sistema-electoral-vulnerable-acusa-china-anuncia-medidas-antifraude-19013194?utm_source=lootura.com) — 2026-07-17T01:52:08.000Z

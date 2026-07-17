@@ -8,12 +8,22 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/begona-gomez/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/begona-gomez/index.json",
   "description": "Sigue la actividad de Begoña Gómez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-16T20:54:41.819Z",
+  "updatedAt": "2026-07-17T02:26:45.462Z",
   "aliases": [],
   "changes": [
     {
+      "title": "La Audiencia Provincial respalda la decisión de Peinado y descarta que sea «contraria a derecho»",
+      "summary": "La Audiencia Provincial de Madrid ha respaldado la decisión del juez Juan Carlos Peinado de enviar a Begoña Gómez al banquillo frente a un jurado popular, una «opción» que «no puede reputarse arbitraria ni contraria a Derecho, en la medida en que identifica los delitos que, de manera indiciaria, pudieran resultar aplic.",
+      "date": "2026-07-17"
+    },
+    {
       "title": "La Audiencia de Madrid avala que la causa contra Begoña Gómez siga adelante por jurado por dos delitos",
       "summary": "La Audiencia Provincial de Madrid ha dado luz verde a que el proceso por jurado popular contra Begoña Gómez, esposa de Pedro Sánchez, siga adelante por dos delitos: tráfico de influencias y malversación. El tribunal avala así parcialmente la decisión del juez Juan Carlos Peinado de enviar al banquillo a la pareja del p.",
+      "date": "2026-07-16"
+    },
+    {
+      "title": "Los 13 indicios de malversación con el 'software' de la Universidad Complutense que hunden a Begoña Gómez",
+      "summary": "La esposa del presidente dejó varias pistas \"con fuerza incriminatoria\" al usar el 'software' de la UCM sin respeto al interés público que la abocan al juicio Leer.",
       "date": "2026-07-16"
     },
     {
@@ -50,37 +60,27 @@
       "title": "Y ahora, a por Begoña Gómez",
       "summary": "Los tribunales ya no son ese lugar donde se imparte justicia sino la plaza donde se libra la verdadera batalla política. Primero cayó el fiscal general, después el hermano de Pedro Sánchez y la próxima será la esposa. Aumenta tanto la sospecha sobre la coincidencia del calendario judicial y la existencia de un plan com.",
       "date": "2026-07-16"
-    },
-    {
-      "title": "Begoña Gómez entrega al juez Peinado los billetes de su viaje a Londres para la graduación de su hija",
-      "summary": "ha entregado al juzgado los billetes de avión de su viaje a Londres de la pasada semana y ha presentado un recurso contra la iniciativa del magistrado Juan Carlos Peinado de reclamarle que “acredite” que solo usó el pasaporte para acudir a Reino Unido a la graduación de su hija. En su escrito de alegacione.",
-      "date": "2026-07-15"
-    },
-    {
-      "title": "Begoña Gómez entrega al juez sus billetes de avión al Reino Unido y critica a Peinado por formular una exigencia \"materialmente imposible\"",
-      "summary": "Denuncia que el requerimiento es contrario a la presunción de inocencia y subraya que Reino Unido ha sustituido los sellos físicos por un sistema digital Leer.",
-      "date": "2026-07-15"
     }
   ],
   "sources": [
     {
-      "title": "Begoña Gómez será juzgada por un jurado popular por tráfico de influencias y malversación",
-      "url": "https://www.abc.es/espana/audiencia-confirma-begona-gomez-juzgada-jurado-popular-20260716132736-nt.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-16T18:52:48.000Z",
+      "title": "La Audiencia Provincial respalda la decisión de Peinado y descarta que sea «contraria a derecho»",
+      "url": "https://www.abc.es/espana/audiencia-provincial-respalda-decision-peinado-descarta-arbitraria-20260717015223-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-17T01:10:18.000Z",
       "sourceId": "lootura-es-abc"
+    },
+    {
+      "title": "Los 13 indicios de malversación con el 'software' de la Universidad Complutense que hunden a Begoña Gómez",
+      "url": "https://www.elmundo.es/espana/2026/07/16/6a592f7721efa0437e8b4570.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-16T20:52:41.000Z",
+      "sourceId": "lootura-es-el-mundo"
     },
     {
       "title": "La Audiencia de Madrid avala que la causa contra Begoña Gómez siga adelante por jurado por dos delitos",
       "url": "https://elpais.com/espana/2026-07-16/la-audiencia-de-madrid-avala-que-la-causa-contra-begona-gomez-siga-adelante-por-jurado-por-dos-delitos.html?utm_source=lootura.com",
       "publishedAt": "2026-07-16T15:21:22.000Z",
       "sourceId": "lootura-es-el-pais"
-    },
-    {
-      "title": "El PP, tras mantenerse el juicio con jurado a Begoña Gómez: «Una situación inconcebible»",
-      "url": "https://theobjective.com/espana/politica/2026-07-16/pp-juicio-jurado-gomez-situacion-inconcebible/?utm_source=lootura.com",
-      "publishedAt": "2026-07-16T13:20:44.000Z",
-      "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 4
+  "evidenceCount": 3
 }

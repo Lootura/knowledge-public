@@ -3,7 +3,7 @@
 > Sigue la actividad de Lamine Yamal en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-16T20:54:41.819Z
+- Actualizado: 2026-07-17T02:26:45.462Z
 - Canonical: https://atlas.lootura.com/es/person/lamine-yamal
 
 ## Cambios recientes
@@ -64,4 +64,4 @@ Date: 2026-07-08
 
 ## Fuentes
 
-- [La intrahistoria de las fotos de Leo Messi junto a un Lamine Yamal de seis meses](https://okdiario.com/mundial/intrahistoria-fotos-leo-messi-junto-lamine-yamal-seis-meses-19010630/amp?utm_source=lootura.com) — 2026-07-16T17:08:51.000Z
+- [Lamine Yamal y Pedro Porro, al margen en el primer entrenamiento antes de la final](https://theobjective.com/deportes/futbol/mundial/2026-07-16/lamine-yamal-porro-al-margen-entrenamiento/?utm_source=lootura.com) — 2026-07-16T16:35:12.000Z

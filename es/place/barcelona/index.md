@@ -70,4 +70,4 @@ Date: 2026-07-13
 
 ## Fuentes
 
-- [Los niños de Messi van a por su corona](https://www.abc.es/deportes/futbol/mundial/ninos-messi-van-corona-20260716132452-ntrc.html?utm_source=lootura.com) — 2026-07-16T18:14:51.000Z
+No public source links.

@@ -8,11 +8,16 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/democratic-party/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/democratic-party/index.json",
   "description": "Follow Democratic Party, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-16T20:55:05.764Z",
+  "updatedAt": "2026-07-17T02:27:10.364Z",
   "aliases": [
     "Democrats"
   ],
   "changes": [
+    {
+      "title": "5 Takeaways From a Maine Debate That Showed Replacing Platner Isn’t Easy",
+      "summary": "Maine Democrats vying to become the state’s new Senate nominee met, and mostly agreed, at a debate filled with halting answers and stilted deliveries.",
+      "date": "2026-07-17"
+    },
     {
       "title": "Wildfire Smoke Turns Skies Orange Across the U.S., and Democrats Make a Big Shift on Israel",
       "summary": "Plus, why Gen Z is turning to trade schools.",
@@ -57,11 +62,6 @@
       "title": "Funding milestone detected",
       "summary": "The amendment, which had no chance of passing, put Democrats in a politically tough spot.",
       "date": "2026-07-15"
-    },
-    {
-      "title": "Inside Maine Democrats’ Search for a New Senate Nominee After Graham Platner’s Exit",
-      "summary": "Democratic candidates are hastily building bare-bones campaigns and forgoing traditional outreach like TV ads in a sprint to appeal to party delegates, rather than Maine voters.",
-      "date": "2026-07-15"
     }
   ],
   "sources": [
@@ -76,7 +76,13 @@
       "url": "https://www.nytimes.com/2026/07/16/us/politics/senate-midterm-elections-fundraising.html?utm_source=lootura.com",
       "publishedAt": "2026-07-16T15:40:16.000Z",
       "sourceId": "lootura-us-the-new-york-times-politics"
+    },
+    {
+      "title": "5 Takeaways From a Maine Debate That Showed Replacing Platner Isn’t Easy",
+      "url": "https://www.nytimes.com/2026/07/16/us/politics/maine-senate-debate-takeaways.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-17T02:07:46.000Z",
+      "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 3
 }

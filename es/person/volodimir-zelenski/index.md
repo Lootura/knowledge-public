@@ -28,5 +28,4 @@ Date: 2026-07-16
 
 ## Fuentes
 
-- [El Parlamento ucraniano aprueba a Serhi Koretski como nuevo primer ministro](https://www.abc.es/internacional/parlamento-ucraniano-aprueba-nombramiento-serhi-koretski-nuevo-20260716140754-nt.html?utm_source=lootura.com) — 2026-07-16T17:31:45.000Z
-- [Zelenski retoca el liderazgo del servicio de seguridad al designar a Jmara para Defensa](https://www.larazon.es/internacional/zelenski-retoca-liderazgo-servicio-seguridad-designar-jmara-defensa_202607166a593969e9f2e84b5c6cb4e4.html?utm_source=lootura.com) — 2026-07-16T20:04:57.000Z
+No public source links.

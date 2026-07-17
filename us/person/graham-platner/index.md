@@ -3,10 +3,16 @@
 > Follow Graham Platner, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-07-16T10:06:43.244Z
+- Updated: 2026-07-17T02:27:10.364Z
 - Canonical: https://atlas.lootura.com/us/person/graham-platner
 
 ## Recent changes
+
+### Maine Democratic Senate candidates discuss which of Platner's ideas they would use
+
+Maine Democratic Senate candidates Nirav Shah, Shenna Bellows, Jordan Wood and Troy Jackson discuss which ideas from Graham Platner's platform they would use if they are chosen as the nominee.
+
+Date: 2026-07-17
 
 ### Here Are the Maine Democrats Running to Replace Graham Platner
 
@@ -62,12 +68,6 @@ Maine voters are still grappling with Democratic Senate candidate Graham Platner
 
 Date: 2026-07-13
 
-### Tamara Keith and Amy Walter on Lindsey Graham's passing
-
-NPR's Tamara Keith and Amy Walter of the Cook Political Report with Amy Walter join Geoff Bennett to discuss the latest political news, including what the passing of Sen. Lindsey Graham means for South Carolina and the Senate, Sen. Mitch McConnell's health and Democrats scrambling to replace Graham Platner in the Maine.
-
-Date: 2026-07-13
-
 ## Sources
 
-No public source links.
+- [Maine Democratic Senate candidates discuss which of Platner's ideas they would use](https://www.nbcnews.com/video/maine-democratic-senate-candidates-discuss-which-of-platner-s-ideas-they-would-use-266814533841?utm_source=lootura.com) — 2026-07-17T00:59:32.000Z

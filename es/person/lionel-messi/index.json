@@ -8,11 +8,16 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/lionel-messi/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/lionel-messi/index.json",
   "description": "Sigue la actividad de Lionel Messi en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-16T20:54:41.819Z",
+  "updatedAt": "2026-07-17T02:26:45.462Z",
   "aliases": [
     "Messi"
   ],
   "changes": [
+    {
+      "title": "La fotografía que anticipó una final: \"Messi se encontró de sopetón con un bebé y se quedó más tieso que una tabla de planchar\"",
+      "summary": "Para el ser humano es difícil creer en el destino, aceptar que todo está escrito de antemano y que nada depende de lo que uno haga, pero hay situaciones que escapan completamente a la lógica. Una de ellas es la foto que unió en 2007 a dos estrellas actuales del fútbol, cuando uno, Leo Messi , estaba empezando su carrer.",
+      "date": "2026-07-17"
+    },
     {
       "title": "La intrahistoria de las fotos de Leo Messi junto a un Lamine Yamal de seis meses",
       "summary": "Las redes sociales se han inundado con la recordada imagen de Leo Messi junto a un Lamine Yamal de seis meses de edad. Descubre su historia.",
@@ -36,16 +41,16 @@
   ],
   "sources": [
     {
-      "title": "Los niños de Messi van a por su corona",
-      "url": "https://www.abc.es/deportes/futbol/mundial/ninos-messi-van-corona-20260716132452-ntrc.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-16T18:14:51.000Z",
-      "sourceId": "lootura-es-abc"
+      "title": "La reivindicación de Messi y Scaloni en una Argentina \"única\" camino de la final con España: \"Digan lo que digan, no nos regalan nada\"",
+      "url": "https://www.elmundo.es/deportes/futbol/mundial-de-futbol/2026/07/16/6a584d10e85ece460c8b4598.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-16T13:07:03.000Z",
+      "sourceId": "lootura-es-el-mundo"
     },
     {
-      "title": "La intrahistoria de las fotos de Leo Messi junto a un Lamine Yamal de seis meses",
-      "url": "https://okdiario.com/mundial/intrahistoria-fotos-leo-messi-junto-lamine-yamal-seis-meses-19010630/amp?utm_source=lootura.com",
-      "publishedAt": "2026-07-16T17:08:51.000Z",
-      "sourceId": "lootura-es-ok-diario"
+      "title": "La fotografía que anticipó una final: \"Messi se encontró de sopetón con un bebé y se quedó más tieso que una tabla de planchar\"",
+      "url": "https://www.larazon.es/deportes/futbol/fotografia-que-anticipo-final-messi-encontro-sopeton-bebe-quedo-mas-tieso-que-tabla-planchar_202607176a5946e4e9f2e84b5c6cc789.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-17T01:04:10.000Z",
+      "sourceId": "lootura-es-la-razon"
     }
   ],
   "evidenceCount": 1

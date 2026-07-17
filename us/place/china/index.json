@@ -8,9 +8,24 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/china/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/china/index.json",
   "description": "Follow China, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-16T20:55:05.764Z",
+  "updatedAt": "2026-07-17T02:27:10.364Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "Trump administration to declassify documents relating to China and U.S. elections",
+      "summary": "President Donald Trump addressed the nation from the White House, announcing that the administration will declassify documents related to the 2020 election and alleged influence by China.",
+      "date": "2026-07-17"
+    },
+    {
+      "title": "How paper ballots make digital manipulation of results unlikely",
+      "summary": "NBC News’ Jane Timm analyzes President Trump’s claims about digital manipulation of ballot results in the U.S., as Trump said that the White House will declassify documents related to the 2020 election and alleged influence by China during his speech to the nation.",
+      "date": "2026-07-17"
+    },
+    {
+      "title": "Special Report: Trump delivers speech on election infrastructure",
+      "summary": "NBC News correspondents break down President Trump's address to the nation on election integrity where the president described information he says is now declassified related to allegations about voter fraud, including accusations against China.",
+      "date": "2026-07-17"
+    },
     {
       "title": "China’s Economy Grows at Slowest Pace in Years",
       "summary": "Economic growth of 4.3 percent in the second quarter, versus the same period last year, reflected a broad slump outside of the country’s export-oriented manufacturing might.",
@@ -45,21 +60,6 @@
       "title": "Himalayan snowfall has been miscalculated for years, here's how we found a new way to measure it",
       "summary": "Mountain snow and meltwater from glaciers in the Himalayas determine how much water is available for drinking, farming and hydropower for millions of people in India, Pakistan, Nepal, China and Afghanistan.",
       "date": "2026-07-13"
-    },
-    {
-      "title": "Japan Builds Intelligence Agency It Hasn’t Had Since World War II",
-      "summary": "Facing threats from Russia and China, Prime Minister Sanae Takaichi is turning to help from Western allies in forming a centralized agency.",
-      "date": "2026-07-13"
-    },
-    {
-      "title": "Graduating without a thesis: meet the people getting ‘practical’ PhDs in China",
-      "summary": "Nature, Published online: 09 July 2026; doi:10.1038/d41586-026-01242-z Nature spoke to three students from China’s first cohort of PhD candidates who are allowed to graduate with products instead of papers.",
-      "date": "2026-07-13"
-    },
-    {
-      "title": "China's 'Green Great Wall' tames desert growth, but scientists warn the fight is not over",
-      "summary": "For half a century, millions of workers have repeated a task across the deserts in northern China: inserting forearm-length sticks into shifting sand, first in a row, then in an intersecting line, gradually forming a grid. Then saplings are planted at the center of each small square.",
-      "date": "2026-07-13"
     }
   ],
   "sources": [
@@ -68,7 +68,25 @@
       "url": "https://www.cbsnews.com/news/husband-code-pink-founder-neville-roy-singham-investigation-tax-laws/?utm_source=lootura.com",
       "publishedAt": "2026-07-16T17:01:59.000Z",
       "sourceId": "lootura-us-cbs-news"
+    },
+    {
+      "title": "Trump administration to declassify documents relating to China and U.S. elections",
+      "url": "https://www.nbcnews.com/video/trump-administration-to-declassify-documents-relating-to-china-and-u-s-elections-266817605523?utm_source=lootura.com",
+      "publishedAt": "2026-07-17T01:31:09.000Z",
+      "sourceId": "lootura-us-nbc-news"
+    },
+    {
+      "title": "How paper ballots make digital manipulation of results unlikely",
+      "url": "https://www.nbcnews.com/video/how-paper-ballots-make-digital-manipulation-of-results-unlikely-266817605727?utm_source=lootura.com",
+      "publishedAt": "2026-07-17T02:02:40.000Z",
+      "sourceId": "lootura-us-nbc-news-politics"
+    },
+    {
+      "title": "Special Report: Trump delivers speech on election infrastructure",
+      "url": "https://www.nbcnews.com/video/special-report-trump-delivers-speech-on-election-infrastructure-266817605765?utm_source=lootura.com",
+      "publishedAt": "2026-07-17T02:12:35.000Z",
+      "sourceId": "lootura-us-nbc-news-politics"
     }
   ],
-  "evidenceCount": 0
+  "evidenceCount": 3
 }

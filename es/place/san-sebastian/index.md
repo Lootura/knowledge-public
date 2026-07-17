@@ -3,7 +3,7 @@
 > Sigue la actividad de San Sebastián en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-16T20:54:41.819Z
+- Actualizado: 2026-07-17T02:26:45.462Z
 - Canonical: https://atlas.lootura.com/es/place/san-sebastian
 
 ## Cambios recientes
@@ -53,4 +53,3 @@ Date: 2026-07-12
 ## Fuentes
 
 - [«¡Más sangre azul es imposible!»](https://www.diariovasco.com/gipuzkoa/memoria/sangre-azul-imposible-20260716075415-nt_amp.html?utm_source=lootura.com) — 2026-07-16T05:54:15.000Z
-- [El Muelle, Gros, Amara Berri y Añorga celebran las fiestas del Carmen en Donostia](https://www.diariovasco.com/san-sebastian/muelle-gros-amara-berri-anorga-celebran-fiestas-20260716001250-nt_amp.html?utm_source=lootura.com) — 2026-07-15T22:12:50.000Z

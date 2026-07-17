@@ -70,4 +70,4 @@ Date: 2026-07-10
 
 ## Sources
 
-- [Trump Administration to Impose New Tariffs on Brazil](https://www.nytimes.com/2026/07/15/business/economy/trump-brazil-tariffs.html?utm_source=lootura.com) — 2026-07-16T04:43:45.000Z
+No public source links.

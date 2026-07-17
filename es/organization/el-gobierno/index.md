@@ -3,20 +3,26 @@
 > Sigue la actividad de El Gobierno en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-16T20:54:41.819Z
+- Actualizado: 2026-07-17T02:26:45.462Z
 - Canonical: https://atlas.lootura.com/es/organization/el-gobierno
 
 ## Cambios recientes
 
-### Ley de Amnistía por TJUE, en directo | El Gobierno celebra que la ley de amnistía “es constitucional y conforme al derecho europeo”
-
-El ministro de la Presidencia, Justicia y Relaciones con las Cortes, Félix Bolaños, ha valorado que el fallo del Tribunal de Justicia de la Unión Europea (TJUE) avale la ley de amnistía. “La ley de amnistía es plenamente compatible con el derecho europeo y queda avalada”, ha afirmado en una declaración institucional en.
-
-Date: 2026-07-16
-
 ### El Gobierno celebra la ley de amnistía como un “logro colectivo” que ha contribuido a recuperar “la convivencia y la reconciliación”
 
 La ley de amnistía, la clave de bóveda de la legislatura que posibilitó la investidura de Pedro Sánchez y al mismo tiempo le ha supuesto un enorme desgaste al Gobierno, ha recibido el espaldarazo de la justicia europea más de dos años después de que fuese aprobada en el Congreso. El respaldo del Tribunal de Justicia de.
+
+Date: 2026-07-16
+
+### El Gobierno se aferra al TJUE para convencer a los nacionalistas de que cumple ante las próximas elecciones: "Necesitamos dar todos los pasos"
+
+Cuando en el Gobierno movían las manos alrededor de la bola de cristal para atisbar el futuro política, situaban la aplicación de la amnistía a los líderes del procés, como...
+
+Date: 2026-07-16
+
+### Ley de Amnistía por TJUE, en directo | El Gobierno celebra que la ley de amnistía “es constitucional y conforme al derecho europeo”
+
+El ministro de la Presidencia, Justicia y Relaciones con las Cortes, Félix Bolaños, ha valorado que el fallo del Tribunal de Justicia de la Unión Europea (TJUE) avale la ley de amnistía. “La ley de amnistía es plenamente compatible con el derecho europeo y queda avalada”, ha afirmado en una declaración institucional en.
 
 Date: 2026-07-16
 
@@ -62,13 +68,7 @@ El Gobierno de Brasil anunció este jueves que iniciará "inmediatamente" los tr
 
 Date: 2026-07-16
 
-### Un científico estadounidense lleva 18 meses detenido en China por investigar sus pruebas nucleares
-
-de Estados Unidos ha reclamado la liberación de un científico estadounidense detenido en China desde hace 18 meses. El sismólogo Chen Youlin llevaba más de dos años estudiando pruebas nucleares subterráneas en el país asiático cuando fue encarcelado el 5 de noviembre de 2024 acusado de espionaje. Desde ento.
-
-Date: 2026-07-15
-
 ## Fuentes
 
+- [El Gobierno se aferra al TJUE para convencer a los nacionalistas de que cumple ante las próximas elecciones: "Necesitamos dar todos los pasos"](https://amp.elmundo.es/espana/2026/07/16/6a59274de4d4d8b6168b45ac.html?utm_source=lootura.com) — 2026-07-16T20:33:35.000Z
 - [El Gobierno celebra la ley de amnistía como un “logro colectivo” que ha contribuido a recuperar “la convivencia y la reconciliación”](https://elpais.com/espana/2026-07-16/el-gobierno-celebra-que-la-ley-de-amnistia-es-constitucional-y-conforme-al-derecho-europeo.html?utm_source=lootura.com) — 2026-07-16T10:06:55.000Z
-- [Ley de Amnistía por TJUE, en directo | El Gobierno celebra que la ley de amnistía “es constitucional y conforme al derecho europeo”](https://elpais.com/espana/2026-07-16/ultima-hora-de-la-sentencia-de-ley-de-amnistia-por-el-tjue-y-el-futuro-de-puigdemont-en-directo.html?utm_source=lootura.com) — 2026-07-16T10:01:27.000Z

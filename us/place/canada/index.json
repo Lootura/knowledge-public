@@ -8,12 +8,27 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/canada/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/canada/index.json",
   "description": "Follow Canada, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-16T20:55:05.764Z",
+  "updatedAt": "2026-07-17T02:27:10.364Z",
   "aliases": [],
   "changes": [
     {
+      "title": "Maps show wildfire smoke forecast, air quality alerts due to pollution from Canadian, Minnesota fires",
+      "summary": "Heavy smoke from several large wildfires blazing in Canada and Minnesota is engulfing large swaths of the Midwest and Northeast U.S. this week.",
+      "date": "2026-07-17"
+    },
+    {
       "title": "Climate extremes fuel explosive wildfires in Canada and the U.S., experts say",
       "summary": "One climatologist said \"a perfect storm\" of climate extremes primed the western U.S. for one of its worst fire seasons in a decade. Meanwhile, Canadian wildfire smoke fills the air.",
+      "date": "2026-07-16"
+    },
+    {
+      "title": "Dangerous wildfire smoke continues to blanket parts of the U.S.",
+      "summary": "Orange skies and heavy smoke covered large parts of the U.S. on Thursday as Canada and Minnesota grapple with wildfires. Hazardous air quality is expected to continue. (Image credit: Spencer Platt).",
+      "date": "2026-07-16"
+    },
+    {
+      "title": "Canada’s Wildfires Are Burning Through the Night",
+      "summary": "As overnight temperatures climb across Canada, fires that once spread more slowly after dark are burning around the clock, straining fire crews.",
       "date": "2026-07-16"
     },
     {
@@ -45,30 +60,33 @@
       "title": "Climate change leaves northern tree swallows more vulnerable those in the southern US",
       "summary": "Tree swallows in the northern U.S. and Canada face the greatest risk from climate change despite responding to temperature the same way as tree swallows in the southern U.S., according to a new study led by Cornell researchers that analyzed nearly 95,000 nests across five decades. The findings, published in Proceedings.",
       "date": "2026-07-12"
-    },
-    {
-      "title": "At least 2 killed in shooting at Toronto street festival, police say",
-      "summary": "At least two people were killed and several more wounded in a shooting Saturday evening at a street festival in Toronto, Canada, authorities said.",
-      "date": "2026-07-12"
-    },
-    {
-      "title": "At least 2 killed in mass shooting at Toronto street festival, police say",
-      "summary": "At least two people were killed and several more wounded in a shooting Saturday evening at a street festival in Toronto, Canada, authorities said.",
-      "date": "2026-07-12"
-    },
-    {
-      "title": "Toronto shooting: two dead and four injured near street festival, with suspect still at large",
-      "summary": "Police in the city in Canada say suspect has not been apprehended after finding six people with gunshot wounds near Salsa on St Clair Festival A shooting near a Toronto street festival killed two people and wounded four others on Saturday, prompting police to warn of an active shooter before later saying the scene was.",
-      "date": "2026-07-12"
     }
   ],
   "sources": [
+    {
+      "title": "Maps show wildfire smoke forecast, air quality alerts due to pollution from Canadian, Minnesota fires",
+      "url": "https://www.cbsnews.com/news/wildfires-smoke-millions-exposed-midwest-northeast-us/?utm_source=lootura.com",
+      "publishedAt": "2026-07-17T02:26:09.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
     {
       "title": "Climate extremes fuel explosive wildfires in Canada and the U.S., experts say",
       "url": "https://www.cbsnews.com/news/climate-extremes-wildfires-canada-us-west/?utm_source=lootura.com",
       "publishedAt": "2026-07-16T17:06:08.000Z",
       "sourceId": "lootura-us-cbs-news"
+    },
+    {
+      "title": "Dangerous wildfire smoke continues to blanket parts of the U.S.",
+      "url": "https://www.npr.org/2026/07/16/nx-s1-5894857/wildfire-smoke-fires-ontario-minnesota?utm_source=lootura.com",
+      "publishedAt": "2026-07-16T20:32:27.000Z",
+      "sourceId": "lootura-us-npr"
+    },
+    {
+      "title": "Canada’s Wildfires Are Burning Through the Night",
+      "url": "https://www.nytimes.com/2026/07/16/world/canada/canada-wildfires-firefighters-heat.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-16T22:08:16.000Z",
+      "sourceId": "lootura-us-the-new-york-times"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 4
 }

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/pedro-sanchez/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/pedro-sanchez/index.json",
   "description": "Sigue la actividad de Pedro Sánchez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-16T20:54:41.819Z",
+  "updatedAt": "2026-07-17T02:26:45.462Z",
   "aliases": [
     "Sánchez"
   ],
@@ -34,6 +34,26 @@
       "date": "2026-07-16"
     },
     {
+      "title": "Feijóo acata el aval a la amnistía entre reproches a Sánchez: «Mintió y vendió a los españoles»",
+      "summary": "El presidente del Partido Popular, Alberto Núñez Feijóo , ha subrayado este miércoles en Las Palmas de Gran Canaria que un demócrata «respeta las sentencias, todas las sentencias y de todos los tribunales » y, además, «no ordena a sus ministros salir a señalar a jueces con nombres y apellidos». Núñez Feijóo ha hecho es.",
+      "date": "2026-07-16"
+    },
+    {
+      "title": "El primer documental sobre Ángela Figuera busca fondos para completar la producción",
+      "summary": "La escritora murciana María Sánchez-Saorín dirige 'Ángela. Una mujer de barro', que reivindica su lugar en la poesía.",
+      "date": "2026-07-16"
+    },
+    {
+      "title": "ING duplicará antes de fin de año su equipo de banqueros privados",
+      "summary": "Sandra Sánchez. Madrid ING sigue dando muestras de su apetito por crecer en el segmento de la banca privada en España. El banco neerlandés, que recientemente ha acordado la...",
+      "date": "2026-07-16"
+    },
+    {
+      "title": "Abascal acusa a «Bruselas» de estar «encubriéndolo todo» tras su sentencia de la amnistía",
+      "summary": "El líder de Vox, Santiago Abascal, ha cargado contra el Gobierno por el juicio a la mujer del presidente Pedro Sánchez , y las «cloacas» del ministro del Interior, Fernando Grande-Marlaska, y ha acusado a «Bruselas» de estar «encubriéndolo todo» tras el aval del Tribunal de Justicia de la Unión Europea a la Ley de Amni.",
+      "date": "2026-07-16"
+    },
+    {
       "title": "Sánchez se ha enfurruñado",
       "summary": "Se ha enfadado el yerno de Sabiniano, el padre de Begoña, que hizo fortuna con el sudor y las lágrimas de los hombres y mujeres a los que explotaba en sus puticlubs y saunas sexuales. Ya sé que resulta cansino nombrar a su suegro cada vez que se menciona al presidente del Gobierno, pero es obligado repetir hasta la sac.",
       "date": "2026-07-16"
@@ -42,29 +62,15 @@
       "title": "Paty, la hija de Quique Sánchez-Flores, da la bienvenida al mundo a Nicolás, su primer hijo: «Muy a mi pesar, terminó en cesárea»",
       "summary": "La familia Sánchez-Flores está de celebración. Paty Sánchez-Flores, hija del exfutbolista y entrenador Quique Sánchez Flores, ha dado la bienvenida a su primer hijo, un niño llamado Nicolás. La joven ha compartido la feliz noticia este 16 de julio a través de sus redes sociales, donde ha relatado cómo han sido las inte.",
       "date": "2026-07-16"
-    },
-    {
-      "title": "Feijóo acata el aval a la amnistía entre reproches a Sánchez: «Mintió y vendió a los españoles»",
-      "summary": "El presidente del Partido Popular, Alberto Núñez Feijóo , ha subrayado este miércoles en Las Palmas de Gran Canaria que un demócrata «respeta las sentencias, todas las sentencias y de todos los tribunales » y, además, «no ordena a sus ministros salir a señalar a jueces con nombres y apellidos». Núñez Feijóo ha hecho es.",
-      "date": "2026-07-16"
-    },
-    {
-      "title": "Albert Sánchez, nuevo director general de Philip Morris para España, Andorra y Gibraltar",
-      "summary": "Philip Morris International (PMI) ha designado a Albert Sánchez como nuevo director general de la compañía en España , Andorra y Gibraltar, cargo que entrará en vigor el próximo día 1 de agosto . De este modo, toma el relevo de Daniel Cuevas, quien, tras tres años liderando el negocio, ha sido designado presidente de l.",
-      "date": "2026-07-16"
-    },
-    {
-      "title": "Gonzalo Sánchez, reelegido presidente de PwC hasta 2031",
-      "summary": "La Junta de Socios de PwC España ha reelegido hoy a Gonzalo Sánchez presidente de la Firma para un nuevo mandato hasta 2031, en una reelección que ha sido realizada mediante un sistema de votación secreta, único entre las firmas de socios. La renovación supone el reconocimiento a su gestión al frente de PwC, dando cont.",
-      "date": "2026-07-16"
-    },
-    {
-      "title": "El Gobierno tilda de «causa política» el juicio contra Gómez tras la decisión de la Audiencia",
-      "summary": "El Gobierno reitera que Begoña Gómez , la mujer del presidente Pedro Sánchez es « inocente » y la causa judicial en la que está inmersa es « política », después de que la Audiencia Provincial de Madrid haya confirmado la decisión del juez instructor Juan Carlos Peinado de enviarla a juicio con jurado popular. No obstan.",
-      "date": "2026-07-16"
     }
   ],
   "sources": [
+    {
+      "title": "El primer documental sobre Ángela Figuera busca fondos para completar la producción",
+      "url": "https://www.elcorreo.com/culturas/cine/primer-documental-sobre-angela-figuera-busca-fondos-20260716174814-nt_amp.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-16T22:59:05.000Z",
+      "sourceId": "lootura-es-el-correo"
+    },
     {
       "title": "El DAO niega ante el juez presiones a la UCO y que les ordenase \"ponerse de perfil\" con la investigación del hermano de Pedro Sánchez",
       "url": "https://www.elmundo.es/espana/2026/07/16/6a589907e85ece26028b45b3.html?utm_source=lootura.com",
@@ -90,15 +96,15 @@
       "sourceId": "lootura-es-el-pais"
     },
     {
-      "title": "Sánchez se ha enfurruñado",
-      "url": "https://okdiario.com/opinion/sanchez-enfurrunado-19010738?utm_source=lootura.com",
-      "publishedAt": "2026-07-16T17:00:38.000Z",
-      "sourceId": "lootura-es-ok-diario"
+      "title": "ING duplicará antes de fin de año su equipo de banqueros privados",
+      "url": "https://amp.expansion.com/empresas/banca/2026/07/17/6a594b0ae5fdeac1458b4588.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-16T23:10:37.000Z",
+      "sourceId": "lootura-es-expansion"
     },
     {
-      "title": "Paty, la hija de Quique Sánchez-Flores, da la bienvenida al mundo a Nicolás, su primer hijo: «Muy a mi pesar, terminó en cesárea»",
-      "url": "https://okdiario.com/cool/famosos/paty-hija-quique-sanchez-flores-da-bienvenida-mundo-nicolas-primer-hijo-muy-pesar-termino-cesarea-19012625?utm_source=lootura.com",
-      "publishedAt": "2026-07-16T20:01:35.000Z",
+      "title": "Abascal acusa a «Bruselas» de estar «encubriéndolo todo» tras su sentencia de la amnistía",
+      "url": "https://okdiario.com/espana/abascal-acusa-bruselas-estar-encubriendolo-todo-sentencia-amnistia-19013116?utm_source=lootura.com",
+      "publishedAt": "2026-07-16T23:36:14.000Z",
       "sourceId": "lootura-es-ok-diario"
     },
     {
@@ -108,5 +114,5 @@
       "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 7
+  "evidenceCount": 8
 }

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/donald-trump/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/donald-trump/index.json",
   "description": "Follow Donald Trump, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-16T20:55:05.764Z",
+  "updatedAt": "2026-07-17T02:27:10.364Z",
   "aliases": [
     "President Donald Trump",
     "President Trump",
@@ -16,9 +16,34 @@
   ],
   "changes": [
     {
-      "title": "Todd Blanche, Trump’s Attorney General Pick, Faces Crucial Hurdle After Rocky Hearing",
-      "summary": "Even a single Republican “no” vote would block Mr. Blanche’s nomination from consideration by the full Senate, which could sink his confirmation.",
-      "date": "2026-07-16"
+      "title": "Sen. Mark Warner slams Trump's primetime speech: \"Incredible lies\"",
+      "summary": "Sen. Mark Warner joined CBS News with his reaction to President Trump's primetime address on U.S. election security.",
+      "date": "2026-07-17"
+    },
+    {
+      "title": "Trump administration to declassify documents relating to China and U.S. elections",
+      "summary": "President Donald Trump addressed the nation from the White House, announcing that the administration will declassify documents related to the 2020 election and alleged influence by China.",
+      "date": "2026-07-17"
+    },
+    {
+      "title": "How paper ballots make digital manipulation of results unlikely",
+      "summary": "NBC News’ Jane Timm analyzes President Trump’s claims about digital manipulation of ballot results in the U.S., as Trump said that the White House will declassify documents related to the 2020 election and alleged influence by China during his speech to the nation.",
+      "date": "2026-07-17"
+    },
+    {
+      "title": "Special Report: Trump delivers speech on election infrastructure",
+      "summary": "NBC News correspondents break down President Trump's address to the nation on election integrity where the president described information he says is now declassified related to allegations about voter fraud, including accusations against China.",
+      "date": "2026-07-17"
+    },
+    {
+      "title": "An analysis of President Trump's address",
+      "summary": "President Trump gave a primetime address Thursday night in which he spoke about the integrity of U.S. elections — a topic he has spread disinformation about for much of his political career.",
+      "date": "2026-07-17"
+    },
+    {
+      "title": "What to Know About Trump’s Attacks on Mail Voting",
+      "summary": "Many of President Trump’s attempts to curtail mail voting have been blocked by the courts. Before Trump, Republicans actually embraced absentee voting.",
+      "date": "2026-07-17"
     },
     {
       "title": "TrumpRx promised a supermarket for cheaper drugs but delivered a boutique",
@@ -31,26 +56,6 @@
       "date": "2026-07-16"
     },
     {
-      "title": "Blanche faces sharp questioning over Epstein files, relationship with Trump at hearing",
-      "summary": "During a five-hour confirmation hearing, acting AG Todd Blanche faced bipartisan scrutiny. He was questioned on his handling of the Jeffrey Epstein files and his personal relationship with President Trump. Caitlin Huey-Burns reports.",
-      "date": "2026-07-16"
-    },
-    {
-      "title": "Why the Trump administration is looking at Cuba military options",
-      "summary": "Senior defense officials are examining potential military options in Cuba, CBS News has learned. CBS News contributor Sam Vinograd has more.",
-      "date": "2026-07-16"
-    },
-    {
-      "title": "H.R. McMaster on the U.S.-Iran feud over the Strait of Hormuz",
-      "summary": "H.R. McMaster, a CBS News contributor and President Trump's former national security adviser in his first term, joins CBS News 24/7 Mornings to discuss the current situation in the Strait of Hormuz as the U.S.-Iran feud ramps up.",
-      "date": "2026-07-16"
-    },
-    {
-      "title": "Trump wants a permanent fence around the D.C. park known for White House protests",
-      "summary": "The Trump administration wants to install permanent fencing around Lafayette Park, directly outside the White House. It's long been a popular spot for protesters, who worry barriers will change that. (Image credit: U.S. Commission of Fine Arts).",
-      "date": "2026-07-16"
-    },
-    {
       "title": "Trump is taking longer to approve disaster aid and denying Democratic states more frequently",
       "summary": "When major disasters strike, Americans are routinely waiting weeks — or even months — to receive presidential approval for aid. And if they live in a state that didn't support President Donald Trump, chances are greater that aid will be denied.",
       "date": "2026-07-16"
@@ -59,18 +64,13 @@
       "title": "Trump immediately fires the new court-appointed top prosecutor in Seattle",
       "summary": "President Donald Trump fired the new top U.S. prosecutor in Seattle on Wednesday less than an hour after the attorney was unanimously appointed by the federal judges in the district, highlighting tensions between the courts and the president over the powerful positions.",
       "date": "2026-07-16"
-    },
-    {
-      "title": "Trump is expected to make election conspiracies a focus of his national address",
-      "summary": "President Donald Trump is set to address the nation on Thursday night on topics he said will include elections and voting machines, suggesting he is likely to revisit some of the unproven claims he has previously made about Republican losses, particularly his own in 2020.",
-      "date": "2026-07-16"
     }
   ],
   "sources": [
     {
-      "title": "Why the Trump administration is looking at Cuba military options",
-      "url": "https://www.cbsnews.com/video/why-the-trump-administration-is-looking-at-cuba-military-options/?utm_source=lootura.com",
-      "publishedAt": "2026-07-16T15:43:00.000Z",
+      "title": "Federal judge slams Trump, DOJ over IRS lawsuit",
+      "url": "https://www.cbsnews.com/video/federal-judge-slams-trump-doj-irs-lawsuit/?utm_source=lootura.com",
+      "publishedAt": "2026-07-17T01:19:46.000Z",
       "sourceId": "lootura-us-cbs-news"
     },
     {
@@ -86,27 +86,33 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "H.R. McMaster on the U.S.-Iran feud over the Strait of Hormuz",
-      "url": "https://www.cbsnews.com/video/hr-mcmaster-on-u-s-iran-feud-over-strait-of-hormuz/?utm_source=lootura.com",
-      "publishedAt": "2026-07-16T16:01:26.000Z",
+      "title": "Sen. Mark Warner slams Trump's primetime speech: \"Incredible lies\"",
+      "url": "https://www.cbsnews.com/video/sen-mark-warner-slams-trumps-primetime-speech/?utm_source=lootura.com",
+      "publishedAt": "2026-07-17T02:04:32.000Z",
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "Blanche faces sharp questioning over Epstein files, relationship with Trump at hearing",
-      "url": "https://www.cbsnews.com/video/blanche-questioning-epstein-files-relationship-with-trump-confirmation-hearing/?utm_source=lootura.com",
-      "publishedAt": "2026-07-16T13:17:30.000Z",
-      "sourceId": "lootura-us-cbs-news"
+      "title": "Trump administration to declassify documents relating to China and U.S. elections",
+      "url": "https://www.nbcnews.com/video/trump-administration-to-declassify-documents-relating-to-china-and-u-s-elections-266817605523?utm_source=lootura.com",
+      "publishedAt": "2026-07-17T01:31:09.000Z",
+      "sourceId": "lootura-us-nbc-news"
+    },
+    {
+      "title": "How paper ballots make digital manipulation of results unlikely",
+      "url": "https://www.nbcnews.com/video/how-paper-ballots-make-digital-manipulation-of-results-unlikely-266817605727?utm_source=lootura.com",
+      "publishedAt": "2026-07-17T02:02:40.000Z",
+      "sourceId": "lootura-us-nbc-news-politics"
+    },
+    {
+      "title": "Special Report: Trump delivers speech on election infrastructure",
+      "url": "https://www.nbcnews.com/video/special-report-trump-delivers-speech-on-election-infrastructure-266817605765?utm_source=lootura.com",
+      "publishedAt": "2026-07-17T02:12:35.000Z",
+      "sourceId": "lootura-us-nbc-news-politics"
     },
     {
       "title": "TrumpRx promised a supermarket for cheaper drugs but delivered a boutique",
       "url": "https://www.npr.org/2026/07/16/nx-s1-5894947/trump-rx-medicine-drugs-health-care-pfizer-low-prices-gilead?utm_source=lootura.com",
       "publishedAt": "2026-07-16T09:00:00.000Z",
-      "sourceId": "lootura-us-npr"
-    },
-    {
-      "title": "After years of false claims on voting, Trump to give an address on election integrity",
-      "url": "https://www.npr.org/2026/07/16/nx-s1-5896448/trump-election-address?utm_source=lootura.com",
-      "publishedAt": "2026-07-16T20:50:26.000Z",
       "sourceId": "lootura-us-npr"
     },
     {
@@ -116,17 +122,11 @@
       "sourceId": "lootura-us-npr"
     },
     {
-      "title": "Trump wants a permanent fence around the D.C. park known for White House protests",
-      "url": "https://www.npr.org/2026/07/16/nx-s1-5893465/dc-lafayette-square-park-permanent-fencing-proposal?utm_source=lootura.com",
-      "publishedAt": "2026-07-16T12:13:23.000Z",
-      "sourceId": "lootura-us-npr-politics"
-    },
-    {
-      "title": "President Trump to deliver prime time address on elections, though details are slim",
-      "url": "https://www.npr.org/2026/07/16/nx-s1-5896195/president-trump-to-deliver-prime-time-address-on-elections-though-details-are-slim?utm_source=lootura.com",
-      "publishedAt": "2026-07-16T20:12:37.000Z",
+      "title": "Officials probe whether White House teleprompter operator profited off Trump's words",
+      "url": "https://www.npr.org/2026/07/16/nx-s1-5896223/kalshi-trump-white-house-teleprompter-operator-bet?utm_source=lootura.com",
+      "publishedAt": "2026-07-16T17:10:29.000Z",
       "sourceId": "lootura-us-npr-politics"
     }
   ],
-  "evidenceCount": 24
+  "evidenceCount": 23
 }

@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/alberto-nunez-feijoo/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/alberto-nunez-feijoo/index.json",
   "description": "Sigue la actividad de Alberto Núñez Feijóo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-16T20:54:41.819Z",
+  "updatedAt": "2026-07-17T02:26:45.462Z",
   "aliases": [
     "Feijóo",
     "Núñez Feijóo"
   ],
   "changes": [
+    {
+      "title": "Feijóo acata el aval a la amnistía entre reproches a Sánchez: «Mintió y vendió a los españoles»",
+      "summary": "El presidente del Partido Popular, Alberto Núñez Feijóo , ha subrayado este miércoles en Las Palmas de Gran Canaria que un demócrata «respeta las sentencias, todas las sentencias y de todos los tribunales » y, además, «no ordena a sus ministros salir a señalar a jueces con nombres y apellidos». Núñez Feijóo ha hecho es.",
+      "date": "2026-07-16"
+    },
     {
       "title": "CC OO exige a CEOE la retirada de una polémica campaña publicitaria sobre el absentismo: “Mientras unos no están, otros esperan”",
       "summary": "Las ausencias al trabajo que provocan las bajas por enfermedad centraron el debate público la semana pasada cuando el presidente del Partido Popular, Alberto Núñez Feijóo, se refirió a este fenómeno como “un cáncer” . Una semana después, la polémica continúa con una campaña publicitaria que CEOE ha desplegado en Cantab.",
@@ -22,11 +27,6 @@
     {
       "title": "Feijóo: “Los demócratas respetamos las sentencias y punto”",
       "summary": "Tras l a decisión del Tribunal de Justicia de la Unión Europea (TJUE) de avalar la ley de amnistía , que zanja el debate jurídico, el Partido Popular ha tratado de reorientar su rechazo a la norma al terreno político y moral. Los populares han declarado su “respeto absoluto al fallo del Tribunal” en un breve comunicado.",
-      "date": "2026-07-16"
-    },
-    {
-      "title": "Feijóo acata el aval a la amnistía entre reproches a Sánchez: «Mintió y vendió a los españoles»",
-      "summary": "El presidente del Partido Popular, Alberto Núñez Feijóo , ha subrayado este miércoles en Las Palmas de Gran Canaria que un demócrata «respeta las sentencias, todas las sentencias y de todos los tribunales » y, además, «no ordena a sus ministros salir a señalar a jueces con nombres y apellidos». Núñez Feijóo ha hecho es.",
       "date": "2026-07-16"
     },
     {
@@ -67,16 +67,10 @@
   ],
   "sources": [
     {
-      "title": "CC OO exige a CEOE la retirada de una polémica campaña publicitaria sobre el absentismo: “Mientras unos no están, otros esperan”",
-      "url": "https://elpais.com/economia/2026-07-16/cc-oo-exige-a-ceoe-la-retirada-de-una-polemica-campana-publicitaria-sobre-el-absentismo-mientras-unos-no-estan-otros-esperan.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-16T15:01:53.000Z",
-      "sourceId": "lootura-es-cinco-dias"
-    },
-    {
-      "title": "Feijóo: “Los demócratas respetamos las sentencias y punto”",
-      "url": "https://elpais.com/espana/2026-07-16/el-pp-respeta-el-fallo-del-tribunal-pero-carga-contra-sanchez-ningun-presidente-debe-cambiar-poder-por-impunidad.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-16T09:20:49.000Z",
-      "sourceId": "lootura-es-el-pais"
+      "title": "Feijóo defiende que el PP tenía \"razón\" al denunciar falta de control en la ley de nietos tras la exigencia de la Junta Electoral",
+      "url": "https://www.20minutos.es/nacional/feijoo-defiende-que-pp-tenia-razon-denunciar-falta-control-ley-nietos-tras-exigencia-junta-electoral_7015673_0.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-16T22:32:19.000Z",
+      "sourceId": "lootura-es-20minutos"
     },
     {
       "title": "Feijóo acata el aval a la amnistía entre reproches a Sánchez: «Mintió y vendió a los españoles»",
@@ -85,5 +79,5 @@
       "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 1
 }

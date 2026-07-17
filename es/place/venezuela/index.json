@@ -8,9 +8,14 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/venezuela/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/venezuela/index.json",
   "description": "Sigue la actividad de Venezuela en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-16T13:45:06.103Z",
+  "updatedAt": "2026-07-17T02:26:45.462Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "Delcy, sobre su viaje a España en 2020: «Me invitó Ábalos para ver a las autoridades»",
+      "summary": "Delcy Rodríguez ha confirmado que fue José Luis Ábalos quien la invitó a viajar a España en enero de 2020 para mantener reuniones «con las autoridades». La presidenta encargada de Venezuela sostiene que conserva la carta de invitación remitida por quien entonces era ministro de Transportes y secretario de Organización.",
+      "date": "2026-07-16"
+    },
     {
       "title": "El contraste tras la tragedia en Venezuela",
       "summary": "La sucesora de Nicolás Maduro, Delcy Rodríguez, ha prometido soluciones habitacionales antes de concluir este año producto de los dos terremotos sufridos el pasado 24 de junio. Al mismo tiempo, eleva el tono del discurso, enfocándose más en sus enemigos políticos que en la atención de la crisis. Las preguntas de la pre.",
@@ -55,13 +60,15 @@
       "title": "Los latinoamericanos afiliados a la Seguridad Social superan por primera vez a los europeos",
       "summary": "Colombia, Venezuela, Perú, Ecuador, Argentina, Honduras... Los afiliados a la Seguridad Social de estas nacionalidades, y del resto que completan la veintena de Estados que forman Latinoamérica , ya superan al conjunto de cotizantes europeos en España. Por primera vez desde que hay registros consolidados (empiezan en 2.",
       "date": "2026-07-14"
-    },
-    {
-      "title": "Se eleva a 4.561 la cifra de muertos en Venezuela por los dos terremotos",
-      "summary": "sumó este lunes otros 71 muertos por el doble terremoto del pasado 24 de junio, lo que elevó la cifra de fallecidos hasta al menos 4.561, informó el presidente del Parlamento, el chavista Jorge Rodríguez. La cantidad de heridos y personas sin vivienda se mantiene en 16.740 y 17.907, respectivamente, dice el b.",
-      "date": "2026-07-13"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Delcy, sobre su viaje a España en 2020: «Me invitó Ábalos para ver a las autoridades»",
+      "url": "https://theobjective.com/internacional/2026-07-16/delcy-rodriguez-viaje-espana-invitacion-abalos/?utm_source=lootura.com",
+      "publishedAt": "2026-07-16T21:10:23.000Z",
+      "sourceId": "lootura-es-the-objective"
+    }
+  ],
+  "evidenceCount": 1
 }

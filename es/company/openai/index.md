@@ -3,10 +3,16 @@
 > Sigue la actividad de OpenAI en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: company
-- Actualizado: 2026-07-16T02:23:49.655Z
+- Actualizado: 2026-07-17T02:26:45.462Z
 - Canonical: https://atlas.lootura.com/es/company/openai
 
 ## Cambios recientes
+
+### Discovered by Atlas
+
+OpenAI first entered the public knowledge record with source-backed evidence.
+
+Date: 2026-07-15
 
 ### OpenAI lanza su primer hardware, aunque no es lo que imaginas
 
@@ -20,12 +26,6 @@ Un correo mal dirigido ha sido el causante de que la relación entre OpenAI y Ap
 
 Date: 2026-07-15
 
-### Discovered by Atlas
-
-OpenAI first entered the public knowledge record with source-backed evidence.
-
-Date: 2026-07-15
-
 ## Fuentes
 
-No public source links.
+- [El Ibex bate al Nasdaq en la 'era de ChatGPT' sin cocer una burbuja](https://www.expansion.com/mercados/2026/07/16/6a58ff4f468aeb13038b45b0.html?utm_source=lootura.com) — 2026-07-16T23:33:05.000Z

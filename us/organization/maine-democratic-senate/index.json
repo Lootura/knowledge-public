@@ -8,9 +8,14 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/maine-democratic-senate/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/maine-democratic-senate/index.json",
   "description": "Follow Maine Democratic Senate, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-10T17:46:15.034Z",
+  "updatedAt": "2026-07-17T02:27:10.364Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "Maine Democratic Senate candidates discuss which of Platner's ideas they would use",
+      "summary": "Maine Democratic Senate candidates Nirav Shah, Shenna Bellows, Jordan Wood and Troy Jackson discuss which ideas from Graham Platner's platform they would use if they are chosen as the nominee.",
+      "date": "2026-07-17"
+    },
     {
       "title": "Here's who's vying to replace Graham Platner as Maine Democratic Senate nominee",
       "summary": "Graham Platner's move to suspend his Senate campaign after a sexual assault allegation has prompted a mad dash in Maine, as Democrats position themselves as replacements to take on GOP Sen. Susan Collins.",
@@ -37,6 +42,13 @@
       "date": "2026-07-09"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Maine Democratic Senate candidates discuss which of Platner's ideas they would use",
+      "url": "https://www.nbcnews.com/video/maine-democratic-senate-candidates-discuss-which-of-platner-s-ideas-they-would-use-266814533841?utm_source=lootura.com",
+      "publishedAt": "2026-07-17T00:59:32.000Z",
+      "sourceId": "lootura-us-nbc-news"
+    }
+  ],
+  "evidenceCount": 1
 }

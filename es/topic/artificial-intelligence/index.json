@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/topic/artificial-intelligence/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/topic/artificial-intelligence/index.json",
   "description": "Sigue la actividad de Artificial intelligence en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-16T20:54:41.819Z",
+  "updatedAt": "2026-07-17T02:26:45.462Z",
   "aliases": [
     "AI",
     "machine learning"
@@ -42,10 +42,10 @@
   ],
   "sources": [
     {
-      "title": "Apple pisa el acelerador con el iPad mini con pantalla OLED, que llegará este mismo año",
-      "url": "https://hipertextual.com/apple/apple-pisa-acelerador-ipad-mini-oled/?utm_source=lootura.com",
-      "publishedAt": "2026-07-16T16:35:00.000Z",
-      "sourceId": "lootura-es-hipertextual"
+      "title": "El Ibex bate al Nasdaq en la 'era de ChatGPT' sin cocer una burbuja",
+      "url": "https://www.expansion.com/mercados/2026/07/16/6a58ff4f468aeb13038b45b0.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-16T23:33:05.000Z",
+      "sourceId": "lootura-es-expansion"
     }
   ],
   "evidenceCount": 0

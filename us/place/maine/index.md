@@ -3,10 +3,22 @@
 > Follow Maine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-16T20:55:05.764Z
+- Updated: 2026-07-17T02:27:10.364Z
 - Canonical: https://atlas.lootura.com/us/place/maine
 
 ## Recent changes
+
+### Maine Democratic Senate candidates discuss which of Platner's ideas they would use
+
+Maine Democratic Senate candidates Nirav Shah, Shenna Bellows, Jordan Wood and Troy Jackson discuss which ideas from Graham Platner's platform they would use if they are chosen as the nominee.
+
+Date: 2026-07-17
+
+### 5 Takeaways From a Maine Debate That Showed Replacing Platner Isn’t Easy
+
+Maine Democrats vying to become the state’s new Senate nominee met, and mostly agreed, at a debate filled with halting answers and stilted deliveries.
+
+Date: 2026-07-17
 
 ### The use of force has become a 'default tool' for ICE officers, a new report finds
 
@@ -56,19 +68,9 @@ The party’s leaders have a political experiment on their hands.
 
 Date: 2026-07-15
 
-### Inside Maine Democrats’ Search for a New Senate Nominee After Graham Platner’s Exit
-
-Democratic candidates are hastily building bare-bones campaigns and forgoing traditional outreach like TV ads in a sprint to appeal to party delegates, rather than Maine voters.
-
-Date: 2026-07-15
-
-### Man fleeing immigration officers in Florida struck and killed by tractor trailer, police say
-
-It was the third death in a week involving encounters with U.S. Immigration and Customs Enforcement agents, following shootings in Texas and Maine.
-
-Date: 2026-07-15
-
 ## Sources
 
+- [Wife of Colombian father killed by ICE in Maine says they had planned to grow old together](https://www.nbcnews.com/news/us-news/wife-colombian-father-killed-ice-biddeford-maine-immigration-rcna587909?utm_source=lootura.com) — 2026-07-16T21:40:22.000Z
+- [Maine Democratic Senate candidates discuss which of Platner's ideas they would use](https://www.nbcnews.com/video/maine-democratic-senate-candidates-discuss-which-of-platner-s-ideas-they-would-use-266814533841?utm_source=lootura.com) — 2026-07-17T00:59:32.000Z
 - [The use of force has become a 'default tool' for ICE officers, a new report finds](https://www.npr.org/2026/07/16/nx-s1-5891834/ice-use-of-force-aclu-report?utm_source=lootura.com) — 2026-07-16T09:00:00.000Z
-- [I See My Father in the Fathers Killed by ICE](https://time.com/article/2026/07/16/i-see-my-father-in-the-fathers-killed-by-ice/?utm_source=lootura.com) — 2026-07-16T20:05:24.000Z
+- [5 Takeaways From a Maine Debate That Showed Replacing Platner Isn’t Easy](https://www.nytimes.com/2026/07/16/us/politics/maine-senate-debate-takeaways.html?utm_source=lootura.com) — 2026-07-17T02:07:46.000Z

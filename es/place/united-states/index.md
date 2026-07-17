@@ -3,10 +3,22 @@
 > Sigue la actividad de Estados Unidos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-16T20:54:41.819Z
+- Actualizado: 2026-07-17T02:26:45.462Z
 - Canonical: https://atlas.lootura.com/es/place/united-states
 
 ## Cambios recientes
+
+### La ley del «Bebé Moisés»: en Nebraska se permitía abandonar a niños en hospitales
+
+Hubo un tiempo en Estados Unidos en el que un padre podía entregar a su hijo en un hospital sin ser procesado por abandono. Ocurrió en Nebraska durante unos meses del no tan lejano 2008, cuando la llamada ley Safe Haven, conocida popularmente como la ley del «Bebé Moisés» , contenía un vacío legal: a diferencia del res.
+
+Date: 2026-07-17
+
+### Trump resucita en un discurso a la nación el bulo del fraude electoral de 2020 y acusa a China de influir en su derrota
+
+Donald Trump, líder de un país en guerra y con el coste de la vida en alza, se dirigió este jueves por la noche a la nación para hablar de las elecciones... de hace seis años. No fue solo un intento de ajuste de cuentas con un fracaso personal; el presidente de Estados Unidos, cuya impopularidad bate récords, habló con.
+
+Date: 2026-07-17
 
 ### Trump impone un arancel del 25% a Brasil por "no negociar de buena fe"
 
@@ -56,19 +68,8 @@ El Gobierno de Brasil anunció este jueves que iniciará "inmediatamente" los tr
 
 Date: 2026-07-16
 
-### Trump amenaza con atacar infraestructuras civiles si Irán no vuelve a negociar
-
-Estados Unidos ha reimpuesto el bloqueo naval sobre los puertos iraníes y ha intensificado su campaña de bombardeos contra la república islámica, en una nueva escalada de ataques que amenaza con devolver a Oriente Próximo a una guerra abierta y que vuelve a situar el estrecho de Ormuz en el centro del enfrentamiento.La.
-
-Date: 2026-07-16
-
-### Trump se enreda de nuevo en una guerra de Irán sin salida clara
-
-En las jornadas posteriores al ataque conjunto de Israel y Estados Unidos contra Irán del pasado 28 de febrero, Donald Trump cambió al menos una docena de veces de argumentos para justificar una operación militar que evitó llamar por su nombre (“guerra”, palabra que aún se resiste a emplear). Sobre su duración también.
-
-Date: 2026-07-16
-
 ## Fuentes
 
+- [La ley del «Bebé Moisés»: en Nebraska se permitía abandonar a niños en hospitales](https://www.abc.es/play/cine/ley-bebe-moises-nebraska-permitia-abandonar-ninos-20260717013407-nt.html?utm_source=lootura.com) — 2026-07-17T01:00:41.000Z
+- [Trump resucita en un discurso a la nación el bulo del fraude electoral de 2020 y acusa a China de influir en su derrota](https://elpais.com/internacional/2026-07-17/trump-resucita-en-un-discurso-a-la-nacion-el-bulo-del-fraude-electoral-de-2020-y-acusa-a-china-de-influir-en-su-derrota.html?utm_source=lootura.com) — 2026-07-17T01:28:02.000Z
 - [Trump impone un arancel del 25% a Brasil por "no negociar de buena fe"](https://www.expansion.com/economia/2026/07/16/6a592512468aeba63e8b4587.html?utm_source=lootura.com) — 2026-07-16T18:43:27.000Z
-- [EE UU pisa el acelerador en la carrera por los motores hipersónicos con un nuevo fondo de 400 millones de dólares](https://www.larazon.es/tecnologia-consumo/ee-uu-pisa-acelerador-carrera-motores-hipersonicos-nuevo-fondo-400-millones-dolares_202607166a587c1f0500ab412c980104.html?utm_source=lootura.com) — 2026-07-16T20:00:00.000Z

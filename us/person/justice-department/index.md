@@ -3,10 +3,16 @@
 > Follow Justice Department, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-07-16T20:55:05.764Z
+- Updated: 2026-07-17T02:27:10.364Z
 - Canonical: https://atlas.lootura.com/us/person/justice-department
 
 ## Recent changes
+
+### Blanche holds meeting with Epstein accusers after Tillis' request
+
+Acting Attorney General Todd Blanche met with accusers of Jeffrey Epstein following a demand to do so by a Republican senator whose support is crucial to advancing his nomination to lead the Justice Department.
+
+Date: 2026-07-17
 
 ### New York Times files motion to quash subpoenas served on journalists over Air Force One coverage
 
@@ -52,5 +58,5 @@ Date: 2026-07-15
 
 ## Sources
 
-- [Todd Blanche faces tense questioning during confirmation hearing for attorney general](https://www.npr.org/2026/07/16/nx-s1-5894875/todd-blanche-faces-tense-questioning-during-confirmation-hearing-for-attorney-general?utm_source=lootura.com) — 2026-07-16T10:44:27.000Z
-- [New York Times files motion to quash subpoenas served on journalists over Air Force One coverage](https://www.pbs.org/newshour/politics/new-york-times-files-motion-to-quash-subpoenas-served-on-journalists-over-air-force-one-coverage?utm_source=lootura.com) — 2026-07-16T15:06:20.000Z
+- [Federal judge slams Trump, DOJ over IRS lawsuit](https://www.cbsnews.com/video/federal-judge-slams-trump-doj-irs-lawsuit/?utm_source=lootura.com) — 2026-07-17T01:19:46.000Z
+- [Blanche holds meeting with Epstein accusers after Tillis' request](https://www.cbsnews.com/news/todd-blanche-meeting-epstein-accusers/?utm_source=lootura.com) — 2026-07-17T01:51:54.000Z

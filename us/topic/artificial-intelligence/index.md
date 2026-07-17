@@ -3,10 +3,28 @@
 > Follow Artificial intelligence, a tracked topic, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: topic
-- Updated: 2026-07-16T20:55:05.764Z
+- Updated: 2026-07-17T02:27:10.364Z
 - Canonical: https://atlas.lootura.com/us/topic/artificial-intelligence
 
 ## Recent changes
+
+### Developer ecosystem expanded
+
+Nature, Published online: 16 July 2026; doi:10.1038/d41586-026-02214-z As automated tools accelerate both the discovery and the exploitation of software vulnerabilities, organizations must redesign their defences and workflows to keep pace.
+
+Date: 2026-07-17
+
+### A global capital for AI safety is emerging — and it's not in Silicon Valley
+
+Nature, Published online: 16 July 2026; doi:10.1038/d41586-026-01389-9 The United Kingdom is gaining influence through its growing AI-safety ecosystem.
+
+Date: 2026-07-17
+
+### PathSay Project uses AI to cross language barriers
+
+Thousands of the world's languages remain largely invisible to modern translation technology, but researchers and students at Brigham Young University are working to change that. Through a project called Pathsay, students in the BYU MATRIX lab are partnering with international BYU-Pathway Worldwide students to collect.
+
+Date: 2026-07-17
 
 ### Meta says it's creating new safety features to help protect teens. Here's how
 
@@ -50,26 +68,8 @@ Nature, Published online: 15 July 2026; doi:10.1038/s41586-026-10760-9 Satellite
 
 Date: 2026-07-16
 
-### Does AI work for us, or do we work for AI?
-
-Science, Volume 393, Issue 6807 , Page 152-152, July 2026.
-
-Date: 2026-07-15
-
-### Battle against data centers grows nationwide amid concerns over electricity, water usage
-
-There's growing backlash nationwide against AI data centers and now New York is hitting pause. Gov. Kathy Hochul signed an executive order to delay the building boom. Kelly O'Grady has more.
-
-Date: 2026-07-15
-
-### Highly fragmented European wetlands with uneven restoration needs
-
-Nature, Published online: 15 July 2026; doi:10.1038/s41586-026-10760-9 Satellite imagery and machine learning used for the mapping of six seminatural open wetland types and land-use disturbance in European countries shows that wetlands are highly fragmented and have uneven restoration needs.
-
-Date: 2026-07-15
-
 ## Sources
 
-- [Meta says it's creating new safety features to help protect teens. Here's how](https://www.cbsnews.com/video/meta-says-its-creating-new-safety-features-to-help-protect-teens-heres-how/?utm_source=lootura.com) — 2026-07-16T13:11:19.000Z
-- [AI is set to completely transform cybersecurity — here’s how researchers must prepare](https://www.nature.com/articles/d41586-026-02214-z?utm_source=lootura.com) — 2026-07-16T20:55:10.057Z
-- [A global capital for AI safety is emerging — and it's not in Silicon Valley](https://www.nature.com/articles/d41586-026-01389-9?utm_source=lootura.com) — 2026-07-16T20:55:10.057Z
+- [AI is set to completely transform cybersecurity — here’s how researchers must prepare](https://www.nature.com/articles/d41586-026-02214-z?utm_source=lootura.com) — 2026-07-17T02:27:14.341Z
+- [A global capital for AI safety is emerging — and it's not in Silicon Valley](https://www.nature.com/articles/d41586-026-01389-9?utm_source=lootura.com) — 2026-07-17T02:27:14.341Z
+- [PathSay Project uses AI to cross language barriers](https://phys.org/news/2026-07-pathsay-ai-language-barriers.html?utm_source=lootura.com) — 2026-07-17T01:00:01.000Z

@@ -8,17 +8,12 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/iran/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/iran/index.json",
   "description": "Follow Iran, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-16T20:55:05.764Z",
+  "updatedAt": "2026-07-17T02:27:10.364Z",
   "aliases": [],
   "changes": [
     {
       "title": "Diesel Prices Hit $5 a Gallon Again, Up 33% Since Start of Iran War",
       "summary": "U.S. diesel prices first surpassed $5 a gallon in March. Renewed fighting in the Persian Gulf and reduced refinery capacity is once again pushing up prices.",
-      "date": "2026-07-16"
-    },
-    {
-      "title": "H.R. McMaster on the U.S.-Iran feud over the Strait of Hormuz",
-      "summary": "H.R. McMaster, a CBS News contributor and President Trump's former national security adviser in his first term, joins CBS News 24/7 Mornings to discuss the current situation in the Strait of Hormuz as the U.S.-Iran feud ramps up.",
       "date": "2026-07-16"
     },
     {
@@ -34,6 +29,11 @@
     {
       "title": "On the War Against Iran, the Pentagon Has Said Little",
       "summary": "Defense Secretary Pete Hegseth has spoken about a range of issues in recent days — from testosterone to leak investigations — but he has said little about the war.",
+      "date": "2026-07-16"
+    },
+    {
+      "title": "H.R. McMaster on the U.S.-Iran feud over the Strait of Hormuz",
+      "summary": "H.R. McMaster, a CBS News contributor and President Trump's former national security adviser in his first term, joins CBS News 24/7 Mornings to discuss the current situation in the Strait of Hormuz as the U.S.-Iran feud ramps up.",
       "date": "2026-07-16"
     },
     {
@@ -67,12 +67,6 @@
       "title": "Watch: Karoline Leavitt answers questions on Trump's primetime speech, new Iran strikes",
       "url": "https://www.cbsnews.com/video/karoline-leavitt-answers-questions-ahead-of-trumps-speech-on-election-integrity/?utm_source=lootura.com",
       "publishedAt": "2026-07-16T20:06:39.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
-    {
-      "title": "H.R. McMaster on the U.S.-Iran feud over the Strait of Hormuz",
-      "url": "https://www.cbsnews.com/video/hr-mcmaster-on-u-s-iran-feud-over-strait-of-hormuz/?utm_source=lootura.com",
-      "publishedAt": "2026-07-16T16:01:26.000Z",
       "sourceId": "lootura-us-cbs-news"
     },
     {
