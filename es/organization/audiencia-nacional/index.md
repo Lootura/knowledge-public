@@ -3,10 +3,16 @@
 > Sigue la actividad de Audiencia Nacional en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-16T13:45:06.103Z
+- Actualizado: 2026-07-17T09:54:46.288Z
 - Canonical: https://atlas.lootura.com/es/organization/audiencia-nacional
 
 ## Cambios recientes
+
+### Declaración de Mercedes González, en directo: última hora de su comparecencia como imputada en el caso Leire
+
+La directora de la Guardia Civil, Mercedes González, comparece este viernes ante el juez de la Audiencia Nacional Santiago Pedraz como investigada en el denominado caso Leire, después de que su declaración fuera aplazada el jueves por la duración del interrogatorio al DAO.
+
+Date: 2026-07-17
 
 ### El juez retrasa a mañana la declaración de la directora de la Guardia Civil por el caso Leire
 
@@ -62,12 +68,6 @@ La Audiencia Nacional ha confirmado que, entre los años 2008 y 2018, existió u
 
 Date: 2026-07-16
 
-### La presidenta del PSOE asegura al juez que hay «indicios preocupantes» sobre Leire Díez
-
-La presidenta del PSOE, Cristina Narbona , ha declarado este miércoles ante el juez Santiago Pedraz que instruye el caso Leire Díez en la Audiencia Nacional que hay «indicios preocupantes» sobre la actuación de la exmilitante del partido, aunque al ser repreguntada no ha ahondado en el asunto, según fuentes jurídicas p.
-
-Date: 2026-07-15
-
 ## Fuentes
 
-No public source links.
+- [Declaración de Mercedes González, en directo: última hora de su comparecencia como imputada en el caso Leire](https://www.larazon.es/espana/declaracion-mercedes-gonzalez-directo-ultima-hora-comparecencia-como-imputada-caso-leire_202607176a59ec781db8de040993b943.html?outputType=amp&utm_source=lootura.com) — 2026-07-17T09:45:17.000Z

@@ -70,4 +70,4 @@ Date: 2026-07-12
 
 ## Sources
 
-- [EU's AI 'guardrails' cannot absorb rapid changes in technology, study warns](https://phys.org/news/2026-07-eu-ai-guardrails-absorb-rapid.html?utm_source=lootura.com) — 2026-07-17T03:20:01.000Z
+No public source links.

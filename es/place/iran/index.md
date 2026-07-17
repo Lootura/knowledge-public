@@ -70,6 +70,4 @@ Date: 2026-07-15
 
 ## Fuentes
 
-- [Los economistas prevén que los alimentos suban hasta un 9 % en 2027 por la guerra en Irán y el clima extremo](https://www.20minutos.es/lainformacion/economia-y-finanzas/los-economistas-preven-subidas-los-precios-los-alimentos-hasta-9-2027-por-guerra-clima-extremo_7015625_0.html?utm_source=lootura.com) — 2026-07-17T03:00:00.000Z
-- [Fragilidad en las Bolsas por la ola de ventas en tecnología y las tensiones con Irán](https://cincodias.elpais.com/mercados-financieros/2026-07-17/la-bolsa-y-el-ibex-35.html?utm_source=lootura.com) — 2026-07-17T04:32:39.000Z
-- [El mercado se abona a la incertidumbre: las Bolsas borran el alto al fuego de Trump](https://cincodias.elpais.com/mercados-financieros/2026-07-17/el-mercado-se-abona-a-la-incertidumbre-las-bolsas-borran-el-alto-al-fuego-de-trump.html?utm_source=lootura.com) — 2026-07-17T03:25:00.000Z
+No public source links.

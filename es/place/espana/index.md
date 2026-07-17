@@ -3,58 +3,10 @@
 > Sigue la actividad de España en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-17T06:12:48.444Z
+- Actualizado: 2026-07-17T09:54:46.288Z
 - Canonical: https://atlas.lootura.com/es/place/espana
 
 ## Cambios recientes
-
-### Una masa de aire africano dispara las temperaturas este fin de semana y acerca a España a la tercera ola de calor del verano
-
-Las altas temperaturas siguen azotando este viernes gran parte de España, aunque lo peor está por llegar. A partir del sábado, una masa de aire muy cálido procedente del norte de África y las altas presiones propiciarán una subida progresiva de las temperaturas. Estas circunstancia podrían desembocar, si se cumplen los.
-
-Date: 2026-07-17
-
-### Menos madera, más paisaje: la revolución de la barrica de vino
-
-En una mesa de cuatro comensales en cualquier rincón de Madrid, Barcelona, Sevilla, Valencia o Logroño, una botella de tinto bien escogido puede desaparecer en cuestión de diez o doce minutos. No es por una sed desenfrenada ni por falta de modales; es el síntoma de un cambio de paradigma en el consumo de vino en España.
-
-Date: 2026-07-17
-
-### Antonio Tajani: «No podemos dejar África solo en manos de China y Rusia»
-
-El vicepresidente del Gobierno y ministro de Asuntos Exteriores de Italia, Antonio Tajani , aboga por seguir trabajando en un mercado único europeo para competir con las grandes potencias en el nuevo tablero global y llama a España a ser un socio estratégico para Italia dentro del plan de inversiones que el país transa.
-
-Date: 2026-07-17
-
-### La huelga en Airbus España se extiende por todos los centros con la rebaja del teletrabajo como detonante
-
-El comité de empresa de Airbus España se ve fuerte para mantener un pulso con la empresa a lo largo de todo el mes de julio con una huelga que puede afectar notablemente a la producción . Los sindicatos cifran el seguimiento de la protesta por encima del 80%, saltando en los últimos días desde la planta de Getafe (Madr.
-
-Date: 2026-07-17
-
-### Las alarmantes cifras de ahogados: 254 hasta el 15 de julio, un junio negro y Andalucía a la cabeza
-
-El reciente fallecimiento de una madre junto con sus dos hijos en la presa de Roncal (Navarra) es el último episodio de ahogamientos que se ha vivido en España. El suceso de este mismo miércoles supone las tres primeras muertes por ahogamiento en el mes de julio en esa comunidad del norte de España y amplía la trágica.
-
-Date: 2026-07-17
-
-### Incendios en España, en directo: última hora de los fuegos activos y de la evolución de la situación
-
-Sigue en directo la última hora de los incendios forestales activos en España, con todas las novedades sobre la evolución de los fuegos, los dispositivos desplegados y posibles evacuaciones.
-
-Date: 2026-07-17
-
-### Los siete lugares imprescindibles con los que alucinarás en Sanabria
-
-Visitamos una de las provincias con más encanto de España y en especial una comarca, la de Sanabria, muy de moda en los últimos días por la concentración motera que ha vivido en el Puente de Sanabria, por las decenas y decenas de visitantes que se acercan hasta el Lago para refrescarse y, a las puertas de uno de los me.
-
-Date: 2026-07-17
-
-### La estás pisoteando en el campo, pero es una planta extinta en España y solo se conservan algunos ejemplares en el Delta del Ebro
-
-Mientras millones de personas asocian el trébol de cuatro hojas con la buena suerte, existe una planta que comparte esa característica y cuya historia dista mucho de ser afortunada. Se trata de la Marsilea quadrifolia , conocida popularmente como trébol de agua , un pequeño helecho acuático que durante décadas formó pa.
-
-Date: 2026-07-17
 
 ### La ruta de Jesús Calleja por su rincón favorito de Castilla y León que no puedes perderte: «Parece Alaska, pero es España»
 
@@ -62,21 +14,69 @@ Jesús Calleja es un apasionado de las rutas de montaña y, por eso, tiene su pr
 
 Date: 2026-07-17
 
-### Una avería camino de la playa: qué hacer cuando el imprevisto llega en plenas vacaciones
+### Turull critica a Puente por decir que si él fuera Puigdemont volvería hoy mismo a España: "Cuánta miseria y frivolidad"
 
-¿Cuánto tardarías en reunir 300 euros un martes de agosto, con la cuenta ya tocada por las vacaciones y el coche en el taller a media España de casa? Esa es la cuenta mental que echa cualquiera cuando el imprevisto llega en el peor momento. La reparación no espera a septiembre, y para salir del paso hay dos caminos: pr.
+El secretario general de JxCat, Jordi Turull , ha criticado este viernes al ministro de Transportes, Óscar Puente, por afirmar en una entrevista que si él fuera Carles Puigdemont, volvería a España de forma inmediata tras el aval de la justicia europea a la ley de amnistía . "Cuánta miseria y frivolidad", ha escrito Tu.
+
+Date: 2026-07-17
+
+### Óscar Puente instiga la vuelta de Puigdemont: «Yo si fuera él me plantaba hoy en España»
+
+El ministro de Transportes, Óscar Puente, ha instado a Puigdemont que vuelva a España tras el fallo del Tribunal de Justicia de la Unión Europea (TJUE) . « Yo no soy quién para dar consejos a nadie, pero si yo fuera el señor Puigdemont , yo me plantaba hoy en España. Sin ninguna duda», ha defendido en los micrófonos de.
+
+Date: 2026-07-17
+
+### El Santander y los sindicatos acuerdan el plan de prejubilaciones a partir de 55 años con hasta el 95% de la pensión
+
+El Banco Santander y los sindicatos han alcanzado este viernes un acuerdo para el plan de prejubilaciones que permitirá a los trabajadores en España con 55 años que quieran abandonar voluntariamente su puesto cobrar hasta el 95% de la pensión, según han avanzado a Efe fuentes de CC OO. Seguir leyendo.
+
+Date: 2026-07-17
+
+### Las 7 comunidades con alerta naranja en España según la AEMET: temperaturas de hasta 42º con posibles tormentas y lluvias
+
+Las alertas de la AEMET por altas temperaturas mantienen este viernes avisos meteorológicos en siete comunidades autónomas , con nivel naranja en las zonas de mayor riesgo por máximas de hasta 42 grados. Además del intenso calor, la Agencia Estatal de Meteorología advierte de la posibilidad de tormentas y lluvias en un.
+
+Date: 2026-07-17
+
+### Cinco jóvenes investigados por insultar y agredir a un hombre con la camiseta de España en el paseo de La Concha de San Sebastián
+
+La víctima ha tenido que ser atendida en el cuarto de socorro, tras lo cual ha interpuesto una denuncia por lo ocurrido.
+
+Date: 2026-07-17
+
+### Óscar Puente invita a Puigdemont a volver a España hoy mismo tras el aval el TJUE a la amnistía: "Lo tiene a huevo"
+
+"Si yo fuera el señor Puigdemont, yo me plantaba hoy en España sin ninguna duda", ha afirmado el ministro de Transportes El Constitucional logra el aval europeo ante el conflicto con el Supremo por la amnistía a Puigdemont El ministro de Transportes, Óscar Puente, ha defendido este viernes la aplicación inmediata de la.
+
+Date: 2026-07-17
+
+### El calor extremo ya influye en las vacaciones de siete de cada diez españoles: por qué el interior de Cataluña es el gran beneficiado
+
+Las constantes olas de calor que sufre la mayoría de las comunidades autónomas están redibujando el mapa turístico de España . Según un informe realizado por Ávoris Travel Insights, el 83% de los españoles asegura que l as altas temperaturas condicionarán sus planes de viaje este verano, y siete de cada diez llegarían.
+
+Date: 2026-07-17
+
+### Incendios en España, en directo: preocupa el avance del fuego en Mierla, Guadalajara, dejando más de 1500 hectáreas afectadas
+
+España mantiene una jornada de máxima vigilancia ante la evolución de varios incendios forestales que permanecen activos en distintos puntos del país. Los dispositivos de extinción continúan desplegados sobre el terreno, con especial atención a aquellos fuegos que han obligado a evacuar localidades, ordenar confinamien.
+
+Date: 2026-07-17
+
+### La deuda bajó al 100,2% del PIB en mayo, aunque el importe total se elevó a 1,73 billones
+
+La deuda del conjunto de las administraciones públicas alcanzó un importe en mayo de 1,73 billones de euros , el 4% más que un año antes, si bien se redujo al 100,2% del PIB , lo que supone 2 puntos porcentuales menos que hace un año, de acuerdo con los datos avanzados este viernes por el Banco de España. Por subsector.
 
 Date: 2026-07-17
 
 ## Fuentes
 
-- [Temor en España por la final: el duro juego argentino y el arbitraje preocupan a los fans](https://www.20minutos.es/deportes/futbol/temor-espana-por-final-mundial-duro-juego-argentino-arbitraje-preocupan-los-aficionados_7015570_0.html?utm_source=lootura.com) — 2026-07-17T05:10:18.000Z
-- [Una masa de aire africano dispara las temperaturas este fin de semana y acerca a España a la tercera ola de calor del verano](https://www.20minutos.es/nacional/una-masa-aire-africano-dispara-las-temperaturas-este-fin-semana-acerca-espana-tercera-ola-calor-verano_7015549_0.html?utm_source=lootura.com) — 2026-07-17T03:00:00.000Z
-- [Menos madera, más paisaje: la revolución de la barrica de vino](https://www.abc.es/gastronomia/vinos/virtud-silencio-madera-vino-busca-frescura-20260716155912-nt.html?utm_source=lootura.com) — 2026-07-17T05:24:46.000Z
-- [Antonio Tajani: «No podemos dejar África solo en manos de China y Rusia»](https://www.abc.es/economia/antonio-tajani-podemos-dejar-africa-solo-manos-20260716134700-nt.html?utm_source=lootura.com) — 2026-07-17T05:23:39.000Z
-- [La huelga en Airbus España se extiende por todos los centros con la rebaja del teletrabajo como detonante](https://cincodias.elpais.com/companias/2026-07-17/la-huelga-en-airbus-espana-se-extiende-por-todos-los-centros-con-la-rebaja-del-teletrabajo-como-detonante.html?utm_source=lootura.com) — 2026-07-17T03:15:00.000Z
-- [Las alarmantes cifras de ahogados: 254 hasta el 15 de julio, un junio negro y Andalucía a la cabeza](https://www.elconfidencial.com/espana/2026-07-17/cifras-muertes-ahogamiento-junio-negro-andalucia_4391278/?utm_source=lootura.com) — 2026-07-17T03:00:00.000Z
+- [Pedro Sánchez acudirá a la final del Mundial donde se encontrará con Trump y los Reyes... pero no con Milei](https://www.20minutos.es/nacional/pedro-sanchez-acudira-final-mundial-donde-se-encontrara-con-trump-los-reyes-pero-no-con-milei_7015784_0.html?utm_source=lootura.com) — 2026-07-17T08:11:33.000Z
+- [Turull critica a Puente por decir que si él fuera Puigdemont volvería hoy mismo a España: "Cuánta miseria y frivolidad"](https://www.20minutos.es/cataluna/turull-critica-puente-por-decir-que-si-fuera-puigdemont-volveria-hoy-mismo-espana-cuanta-miseria-frivolidad_7015827_0.html?utm_source=lootura.com) — 2026-07-17T09:12:28.000Z
+- [Óscar Puente instiga la vuelta de Puigdemont: «Yo si fuera él me plantaba hoy en España»](https://www.abc.es/espana/oscar-puente-instiga-vuelta-puigdemont-tras-fallo-20260717103713-nt.html?utm_source=lootura.com) — 2026-07-17T09:12:04.000Z
+- [El Santander y los sindicatos acuerdan el plan de prejubilaciones a partir de 55 años con hasta el 95% de la pensión](https://elpais.com/economia/2026-07-17/el-santander-y-los-sindicatos-acuerdan-el-plan-de-prejubilaciones-a-partir-de-55-anos-con-hasta-el-95-de-la-pension.html?utm_source=lootura.com) — 2026-07-17T09:31:49.000Z
+- [Las 7 comunidades con alerta naranja en España según la AEMET: temperaturas de hasta 42º con posibles tormentas y lluvias](https://www.elconfidencial.com/espana/2026-07-17/aemet-alerta-naranja-7-comunidades-42-grados-1qrt_4391523/?utm_source=lootura.com) — 2026-07-17T07:12:00.000Z
+- [Cinco jóvenes investigados por insultar y agredir a un hombre con la camiseta de España en el paseo de La Concha de San Sebastián](https://www.diariovasco.com/san-sebastian/cinco-jovenes-investigados-insultar-agredir-hombre-camiseta-espana-20260717112639-nt_amp.html?utm_source=lootura.com) — 2026-07-17T09:28:07.000Z
 - [Morante de la Puebla, en su verano más intenso: "Quiero aprovechar el tiempo para dejar escrita la historia"](https://www.elmundo.es/papel/lideres/2026/07/16/6a589087e4d4d82e4f8b456f.html?utm_source=lootura.com) — 2026-07-16T20:51:35.000Z
-- [Digi: montaña rusa en su estreno en Bolsa](https://www.expansion.com/mercados/2026/07/17/6a592581e5fdea4a758b458e.html?utm_source=lootura.com) — 2026-07-16T23:34:50.000Z
-- [Incendios en España, en directo: última hora de los fuegos activos y de la evolución de la situación](https://www.larazon.es/sociedad/incendios-espana-directo-ultima-hora-fuegos-activos-evolucion-situacion_202607176a59a9f91db8de04099359cb.html?outputType=amp&utm_source=lootura.com) — 2026-07-17T06:06:11.000Z
-- [Los siete lugares imprescindibles con los que alucinarás en Sanabria](https://www.larazon.es/castilla-y-leon/siete-lugares-imprescindibles-que-alucinaras-sanabria_202607176a59c4f20500ab412c9a604d.html?utm_source=lootura.com) — 2026-07-17T06:00:18.000Z
+- [Óscar Puente invita a Puigdemont a volver a España hoy mismo tras el aval el TJUE a la amnistía: "Lo tiene a huevo"](https://www.eldiario.es/politica/oscar-puente-invita-puigdemont-volver-espana-hoy-aval-tjue-amnistia-huevo_1_13387411.html?utm_source=lootura.com) — 2026-07-17T09:21:36.000Z
+- [El calor extremo ya influye en las vacaciones de siete de cada diez españoles: por qué el interior de Cataluña es el gran beneficiado](https://www.larazon.es/cataluna/calor-extremo-influye-vacaciones-siete-cada-diez-espanoles-que-interior-cataluna-gran-beneficiado_202607176a59f6990500ab412c9ab2ce.html?utm_source=lootura.com) — 2026-07-17T09:32:24.000Z
+- [Incendios en España, en directo: preocupa el avance del fuego en Mierla, Guadalajara, dejando más de 1500 hectáreas afectadas](https://www.larazon.es/sociedad/incendios-espana-directo-ultima-hora-fuegos-activos-evolucion-situacion_202607176a59a9f91db8de04099359cb.html?utm_source=lootura.com) — 2026-07-17T09:35:56.000Z

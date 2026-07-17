@@ -3,10 +3,16 @@
 > Follow Ukraine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-17T06:13:09.528Z
+- Updated: 2026-07-17T09:55:08.806Z
 - Canonical: https://atlas.lootura.com/us/place/ukraine
 
 ## Recent changes
+
+### He Was a Russian Political Survivor, Until the Masked Men Appeared
+
+Boris B. Nadezhdin, an outspoken opponent of the war in Ukraine, says he knows why he was detained: “Among our leadership, there is panic and chaos.”.
+
+Date: 2026-07-17
 
 ### He Was a Russian Political Survivor, Until the Masked Men Appeared
 
@@ -62,13 +68,7 @@ Ukraine's President Volodymyr Zelenskyy has fired the country's popular defense 
 
 Date: 2026-07-16
 
-### Ukraine’s Minister of Defense, a Proponent of Drone Warfare, Is Forced Out
-
-Mykhailo Fedorov announced he was leaving the ministry on Wednesday after conflicts with generals and military contractors over the role of innovative weaponry.
-
-Date: 2026-07-16
-
 ## Sources
 
 - [Ukraine Was on a Roll. Then a Clash Over War Strategy Exploded Into View.](https://www.nytimes.com/2026/07/16/world/europe/ukraine-military-defense-minister-drones.html?utm_source=lootura.com) — 2026-07-16T22:01:29.000Z
-- [He Was a Russian Political Survivor, Until the Masked Men Appeared](https://www.nytimes.com/2026/07/17/world/europe/russia-politics-election-nadezhdin.html?utm_source=lootura.com) — 2026-07-17T04:01:08.000Z
+- [He Was a Russian Political Survivor, Until the Masked Men Appeared](https://www.nytimes.com/2026/07/17/world/europe/russia-politics-election-nadezhdin.html?utm_source=lootura.com) — 2026-07-17T08:31:14.000Z

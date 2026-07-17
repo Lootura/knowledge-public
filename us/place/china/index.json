@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/china/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/china/index.json",
   "description": "Follow China, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-17T06:13:09.528Z",
+  "updatedAt": "2026-07-17T09:55:08.806Z",
   "aliases": [],
   "changes": [
     {
@@ -24,6 +24,21 @@
     {
       "title": "How paper ballots make digital manipulation of results unlikely",
       "summary": "NBC News’ Jane Timm analyzes President Trump’s claims about digital manipulation of ballot results in the U.S., as Trump said that the White House will declassify documents related to the 2020 election and alleged influence by China during his speech to the nation.",
+      "date": "2026-07-17"
+    },
+    {
+      "title": "US politicians push agencies to restrict research collaboration with China",
+      "summary": "Nature, Published online: 16 July 2026; doi:10.1038/d41586-026-02226-9 Republicans and Democrats worry about research theft and exploitation — but don’t agree on how to solve the problem.",
+      "date": "2026-07-17"
+    },
+    {
+      "title": "China's Xi calls for step up of global effort in AI, as US curbs squeeze China's tech access",
+      "summary": "American-led restrictions have blocked China from accessing some of the world's most advanced technologies, spurring China's efforts to build its own know-how and intensifying the tech race between the world's two biggest economies. (Image credit: Ng Han Guan).",
+      "date": "2026-07-17"
+    },
+    {
+      "title": "Philippines Condemns AI Video Posted by Chinese State Media Depicting It as a Monkey",
+      "summary": "It lodged a diplomatic complaint with Beijing over an A.I.-generated video centered on territorial disputes in the South China Sea.",
       "date": "2026-07-17"
     },
     {
@@ -45,21 +60,6 @@
       "title": "China’s Economy Grows at Slowest Pace in Years",
       "summary": "Economic growth of 4.3 percent in the second quarter, versus the same period last year, reflected a broad slump outside of the country’s export-oriented manufacturing might.",
       "date": "2026-07-15"
-    },
-    {
-      "title": "China and Xi favored over US and Trump in many nations: Survey",
-      "summary": "The change is driven by improved perceptions of China and declining views of the United States. (Image credit: Mark Schiefelbein).",
-      "date": "2026-07-15"
-    },
-    {
-      "title": "After traveling a billion kilometers, China's asteroid hunter finally arrives",
-      "summary": "What does it take to catch up with a small, tumbling rock hundreds of thousands of kilometers from Earth? For China's Tianwen-2 mission, the answer was a 400-day chase covering roughly 1 billion kilometers (621 million miles) of deep space—one that has just ended in success. The China National Space Administration has.",
-      "date": "2026-07-15"
-    },
-    {
-      "title": "A new smart coating could improve the cleanup of nuclear wastewater",
-      "summary": "Scientists in China have developed a smart coating that could make it easier to remove tritium (a radioactive form of hydrogen) from nuclear power plant wastewater.",
-      "date": "2026-07-14"
     }
   ],
   "sources": [
@@ -68,6 +68,12 @@
       "url": "https://www.cbsnews.com/video/watch-trump-speaks-on-elections-alleges-chinese-access-to-voter-data-special-report/?utm_source=lootura.com",
       "publishedAt": "2026-07-17T02:27:00.000Z",
       "sourceId": "lootura-us-cbs-news"
+    },
+    {
+      "title": "US politicians push agencies to restrict research collaboration with China",
+      "url": "https://www.nature.com/articles/d41586-026-02226-9?utm_source=lootura.com",
+      "publishedAt": "2026-07-17T09:55:12.239Z",
+      "sourceId": "lootura-us-nature"
     },
     {
       "title": "Trump administration to declassify documents relating to China and U.S. elections",
@@ -82,11 +88,17 @@
       "sourceId": "lootura-us-nbc-news"
     },
     {
-      "title": "How Trump's election allegations against China could impact relations with U.S.",
-      "url": "https://www.nbcnews.com/video/how-trump-s-election-allegations-against-china-could-impact-relations-with-u-s-266824261975?utm_source=lootura.com",
-      "publishedAt": "2026-07-17T03:40:45.000Z",
-      "sourceId": "lootura-us-nbc-news-politics"
+      "title": "China's Xi calls for step up of global effort in AI, as US curbs squeeze China's tech access",
+      "url": "https://www.npr.org/2026/07/17/nx-s1-5897285/chinas-xi-calls-for-step-up-of-global-effort-in-ai-as-us-curbs-squeeze-chinas-tech-access?utm_source=lootura.com",
+      "publishedAt": "2026-07-17T07:17:04.000Z",
+      "sourceId": "lootura-us-npr-world"
+    },
+    {
+      "title": "Philippines Condemns AI Video Posted by Chinese State Media Depicting It as a Monkey",
+      "url": "https://www.nytimes.com/2026/07/17/world/asia/philippines-ai-video-china-racist.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-17T08:31:06.000Z",
+      "sourceId": "lootura-us-the-new-york-times-world"
     }
   ],
-  "evidenceCount": 4
+  "evidenceCount": 7
 }

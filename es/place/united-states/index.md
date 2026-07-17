@@ -3,16 +3,10 @@
 > Sigue la actividad de Estados Unidos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-17T06:12:48.444Z
+- Actualizado: 2026-07-17T09:54:46.288Z
 - Canonical: https://atlas.lootura.com/es/place/united-states
 
 ## Cambios recientes
-
-### El mercado se abona a la incertidumbre: las Bolsas borran el alto al fuego de Trump
-
-Nadie dijo que fuera a ser fácil. El memorándum de Islamabad nació como un intento de ganar tiempo más que como una solución definitiva. El acuerdo frenó las hostilidades entre Estados Unidos e Irán y abrió una ventana de negociación de 60 días que los mercados interpretaron como el principio del fin de la crisis. Un m.
-
-Date: 2026-07-17
 
 ### Trump resucita en un discurso a la nación el bulo del fraude electoral de 2020 y exagera la influencia de China en su derrota
 
@@ -23,6 +17,18 @@ Date: 2026-07-17
 ### Trump anuncia una desclasificación que probaría injerencia electoral de China en EEUU
 
 El presidente de Estados Unidos, Donald Trump, ha anunciado este jueves la desclasificación y publicación de información «crítica» de inteligencia que.
+
+Date: 2026-07-17
+
+### Un emulador y una demo del ordenador de bolsillo + calculadora científica Casio FX-870P
+
+Los ordenadores de bolsillo fueron durante años una herramienta muy popular entre estudiantes e ingenieros japoneses, aunque en Europa y Estados Unidos nunca llegaron a despegar; quizá por eso no haya tanta documentación como de otros gadgets. Ahora un proyecto de esos creados artesanalmente, por amor al arte , permite.
+
+Date: 2026-07-17
+
+### El mercado se abona a la incertidumbre: las Bolsas borran el alto al fuego de Trump
+
+Nadie dijo que fuera a ser fácil. El memorándum de Islamabad nació como un intento de ganar tiempo más que como una solución definitiva. El acuerdo frenó las hostilidades entre Estados Unidos e Irán y abrió una ventana de negociación de 60 días que los mercados interpretaron como el principio del fin de la crisis. Un m.
 
 Date: 2026-07-17
 
@@ -62,16 +68,9 @@ El Gobierno del presidente de Estados Unidos, Donald Trump, ha ordenado la impos
 
 Date: 2026-07-16
 
-### Un estudio revela la huella del caballo español en buena parte de la caballería americana
-
-Un estudio internacional con participación de la Facultad de Veterinaria de la Universidad de Córdoba (UCO) ha analizado por primera vez el genoma completo de las razas Barrocas y desvela la huella imborrable de la Pura Raza Española en el Lipizzano, Lusitano, Murgese y en las razas criollas de América del Sur. La UCO.
-
-Date: 2026-07-16
-
 ## Fuentes
 
-- [Temor en España por la final: el duro juego argentino y el arbitraje preocupan a los fans](https://www.20minutos.es/deportes/futbol/temor-espana-por-final-mundial-duro-juego-argentino-arbitraje-preocupan-los-aficionados_7015570_0.html?utm_source=lootura.com) — 2026-07-17T05:10:18.000Z
-- [El mercado se abona a la incertidumbre: las Bolsas borran el alto al fuego de Trump](https://cincodias.elpais.com/mercados-financieros/2026-07-17/el-mercado-se-abona-a-la-incertidumbre-las-bolsas-borran-el-alto-al-fuego-de-trump.html?utm_source=lootura.com) — 2026-07-17T03:25:00.000Z
 - [Trump resucita en un discurso a la nación el bulo del fraude electoral de 2020 y exagera la influencia de China en su derrota](https://elpais.com/internacional/2026-07-17/trump-resucita-en-un-discurso-a-la-nacion-el-bulo-del-fraude-electoral-de-2020-y-acusa-a-china-de-influir-en-su-derrota.html?utm_source=lootura.com) — 2026-07-17T01:28:02.000Z
 - [Trump despide a su operador de teleprompter, acusado de apostar ilegalmente en Kalshi sobre sus discursos](https://elpais.com/internacional/2026-07-16/trump-suspende-a-su-operador-de-teleprompter-acusado-de-apostar-ilegalmente-en-kalshi-sobre-sus-discursos.html?utm_source=lootura.com) — 2026-07-16T22:29:37.000Z
+- [Un emulador y una demo del ordenador de bolsillo + calculadora científica Casio FX-870P](http://www.microsiervos.com/archivo/gadgets/emulador-ordenador-bolsillo-calculadora-cientifica-casio-fx-870p.html?utm_source=lootura.com) — 2026-07-17T10:38:56.000Z
 - [Trump anuncia una desclasificación que probaría injerencia electoral de China en EEUU](https://theobjective.com/internacional/2026-07-17/trump-desclasificacion-injerencia-electoral-china-eeuu/?amp=&utm_source=lootura.com) — 2026-07-17T05:41:49.000Z

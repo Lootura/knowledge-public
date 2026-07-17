@@ -8,9 +8,24 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/begona-gomez/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/begona-gomez/index.json",
   "description": "Sigue la actividad de Begoña Gómez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-17T06:12:48.444Z",
+  "updatedAt": "2026-07-17T09:54:46.288Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "Vicente Vallés, contundente tras ver que Begoña Gómez será juzgada por un jurado popular",
+      "summary": "Begoña Gómez será juzgada por un jurado popular junto a su asesora en Moncloa, Cristina Álvarez. La Audiencia Provincial de Madrid ha avalado el criterio del juez Juan Carlos Peinado y ha confirmado que la causa se tramite por esta vía.La esposa de Pedro Sánchez está acusada de un presunto delito de tráfico de influenc.",
+      "date": "2026-07-17"
+    },
+    {
+      "title": "Cómo se elegirán a los nueve miembros del jurado que juzgarán a Begoña Gómez: así es la lista de los candidatos",
+      "summary": "La elección de los nueve miembros del jurado que juzgarán a Begoña Gómez partirá de una lista de 2.846 candidatos de la Comunidad de Madrid . De ese registro se convocará a 30 ciudadanos , entre los que se escogerá a los nueve titulares y a dos suplentes que participarán en el juicio. La Audiencia Provincial de Madrid.",
+      "date": "2026-07-17"
+    },
+    {
+      "title": "Bolaños cree que la respuesta judicial al 'caso Begoña Gómez' no es adecuada ni contundente",
+      "summary": "El ministro de la Presidencia, Justicia y Relaciones con las Cortes, Félix Bolaños, considera que no ha sido ni «adecuada» ni «contundente» la respuesta.",
+      "date": "2026-07-17"
+    },
     {
       "title": "La condena de Urdangarín servirá para juzgar a Begoña Gómez por usar su «vínculo matrimonial» para dirigir la cátedra de la Complutense",
       "summary": "La esposa de Pedro Sánchez se sentará en el banquillo de los acusados, a la vuelta del verano, por malversación y tráfico de influencias, tras prev...",
@@ -45,36 +60,39 @@
       "title": "El Gobierno tilda de «causa política» el juicio contra Gómez tras la decisión de la Audiencia",
       "summary": "El Gobierno reitera que Begoña Gómez , la mujer del presidente Pedro Sánchez es « inocente » y la causa judicial en la que está inmersa es « política », después de que la Audiencia Provincial de Madrid haya confirmado la decisión del juez instructor Juan Carlos Peinado de enviarla a juicio con jurado popular. No obstan.",
       "date": "2026-07-16"
-    },
-    {
-      "title": "La Audiencia de Madrid avala enjuiciar ante un jurado a Begoña Gómez y le devuelve el pasaporte",
-      "summary": "La Audiencia Provincial de Madrid ha avalado la decisión del juez Juan Carlos Peinado de enviar a Begoña Gómez a juicio ante el tribunal del jurado por delitos de malversación y tráfico de influencias . En cambio, ha revocado el enjuiciamiento por delitos de corrupción en los negocios y apropiación indebida, y ha acord.",
-      "date": "2026-07-16"
-    },
-    {
-      "title": "¿Podrías juzgar tú a Begoña Gómez? Los requisitos de la ley para formar parte de su jurado popular",
-      "summary": "Esta decisión procesal vuelve a poner el foco en una de las instituciones más singulares de la justicia, donde el veredicto final recae sobre perso...",
-      "date": "2026-07-16"
-    },
-    {
-      "title": "Moncloa también rabia contra la Audiencia por ratificar el juicio a Begoña Gómez: «Es una causa política»",
-      "summary": "El Gobierno de Pedro Sánchez ha estallado contra la decisión de la Audiencia de Madrid que avala el procesamiento de Begoña Gómez , esposa del líder socialista, por presuntos delitos de tráfico de influencias y malversación de caudales públicos tras la instrucción del juez Juan Carlos Peinado . «Se trata de una causa p.",
-      "date": "2026-07-16"
     }
   ],
   "sources": [
     {
-      "title": "La condena de Urdangarín servirá para juzgar a Begoña Gómez por usar su «vínculo matrimonial» para dirigir la cátedra de la Complutense",
-      "url": "https://www.eldebate.com/espana/20260717/precedente-supremo-servira-juzgar-begona-gomez-usar-vinculo-matrimonial-dirigir-catedra-complutense_440607.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-17T04:04:41.000Z",
-      "sourceId": "lootura-es-el-debate"
+      "title": "Pedro Sánchez finalmente sí acudirá a la final del Mundial, pero no le acompañará Begoña Gómez",
+      "url": "https://www.abc.es/espana/sanchez-finalmente-acudira-final-mundial-futbol-disputa-20260717095804-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-17T09:28:02.000Z",
+      "sourceId": "lootura-es-abc"
+    },
+    {
+      "title": "Vicente Vallés, contundente tras ver que Begoña Gómez será juzgada por un jurado popular",
+      "url": "https://www.abc.es/play/television/noticias/vicente-valles-contundente-tras-ver-begona-gomez-20260717111808-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-17T09:30:55.000Z",
+      "sourceId": "lootura-es-abc"
+    },
+    {
+      "title": "Cómo se elegirán a los nueve miembros del jurado que juzgarán a Begoña Gómez: así es la lista de los candidatos",
+      "url": "https://www.elconfidencial.com/espana/2026-07-17/como-elegiran-nueve-miembros-jurado-begona-gomez_4391555/?utm_source=lootura.com",
+      "publishedAt": "2026-07-17T09:22:00.000Z",
+      "sourceId": "lootura-es-el-confidencial"
     },
     {
       "title": "Los 13 indicios de malversación con el 'software' de la Universidad Complutense que hunden a Begoña Gómez",
       "url": "https://www.elmundo.es/espana/2026/07/16/6a592f7721efa0437e8b4570.html?utm_source=lootura.com",
       "publishedAt": "2026-07-16T20:52:41.000Z",
       "sourceId": "lootura-es-el-mundo"
+    },
+    {
+      "title": "Bolaños cree que la respuesta judicial al 'caso Begoña Gómez' no es adecuada ni contundente",
+      "url": "https://theobjective.com/espana/politica/2026-07-17/bolanos-respuesta-judicial-caso-begona/?amp=&utm_source=lootura.com",
+      "publishedAt": "2026-07-17T09:39:42.000Z",
+      "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 5
 }

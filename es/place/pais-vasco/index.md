@@ -3,10 +3,16 @@
 > Sigue la actividad de País Vasco en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-16T20:54:41.819Z
+- Actualizado: 2026-07-17T09:54:46.288Z
 - Canonical: https://atlas.lootura.com/es/place/pais-vasco
 
 ## Cambios recientes
+
+### La economía vasca mantiene el pulso y avanza un 2,1% en el segundo trimestre
+
+Euskadi desafía la incertidumbre de la guerra gracias al tirón de los servicios y la construcción.
+
+Date: 2026-07-17
 
 ### La cifra de muertes por calor en Bizkaia desde mayo duplica a la de todo el verano pasado
 
@@ -62,12 +68,6 @@ Estos acuerdos agrupan al 88,5% de los trabajadores vascos que ven cubiertas las
 
 Date: 2026-07-08
 
-### País Vasco logra la "participación" de su policía en las expulsiones de inmigrantes que Cataluña ansía
-
-El PSOE prometió a Cataluña en 2025 esta competencia pero jamás otorgó Leer.
-
-Date: 2026-07-08
-
 ## Fuentes
 
-No public source links.
+- [La economía vasca mantiene el pulso y avanza un 2,1% en el segundo trimestre](https://www.elcorreo.com/economia/economia-vasca-mantiene-pulso-avanza-segundo-trimestre-20260717102753-nt_amp.html?utm_source=lootura.com) — 2026-07-17T08:27:53.000Z

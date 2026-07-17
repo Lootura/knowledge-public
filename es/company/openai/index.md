@@ -3,7 +3,7 @@
 > Sigue la actividad de OpenAI en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: company
-- Actualizado: 2026-07-17T06:12:48.444Z
+- Actualizado: 2026-07-17T09:54:46.288Z
 - Canonical: https://atlas.lootura.com/es/company/openai
 
 ## Cambios recientes
@@ -28,4 +28,4 @@ Date: 2026-07-15
 
 ## Fuentes
 
-- [El Ibex bate al Nasdaq en la 'era de ChatGPT' sin cocer una burbuja](https://www.expansion.com/mercados/2026/07/16/6a58ff4f468aeb13038b45b0.html?utm_source=lootura.com) — 2026-07-16T23:33:05.000Z
+- [OpenAI lanza un hardware de IA que es una mini-consola de control con aspiraciones de convertirse en el nuevo iPhone (o algo así)](http://www.microsiervos.com/archivo/gadgets/openai-codex-micro-hardware-ia.html?utm_source=lootura.com) — 2026-07-17T09:34:02.000Z

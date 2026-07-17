@@ -3,7 +3,7 @@
 > Follow Maine Democratic Senate, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-07-17T06:13:09.528Z
+- Updated: 2026-07-17T09:55:08.806Z
 - Canonical: https://atlas.lootura.com/us/organization/maine-democratic-senate
 
 ## Recent changes

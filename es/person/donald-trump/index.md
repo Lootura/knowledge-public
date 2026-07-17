@@ -3,7 +3,7 @@
 > Sigue la actividad de Donald Trump en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-17T06:12:48.444Z
+- Actualizado: 2026-07-17T09:54:46.288Z
 - Canonical: https://atlas.lootura.com/es/person/donald-trump
 
 ## Cambios recientes
@@ -70,7 +70,7 @@ Date: 2026-07-16
 
 ## Fuentes
 
-- [El ayudante de Trump encargado de su teleprónter ganó 90.000 dólares en apuestas sobre lo que iba a decir en sus discursos](https://www.elmundo.es/internacional/2026/07/16/6a591d59e4d4d83b218b457b.html?utm_source=lootura.com) — 2026-07-16T19:06:08.000Z
+- [Pedro Sánchez acudirá a la final del Mundial donde se encontrará con Trump y los Reyes... pero no con Milei](https://www.20minutos.es/nacional/pedro-sanchez-acudira-final-mundial-donde-se-encontrara-con-trump-los-reyes-pero-no-con-milei_7015784_0.html?utm_source=lootura.com) — 2026-07-17T08:11:33.000Z
 - [Trump resucita en un discurso a la nación el bulo del fraude electoral de 2020 y exagera la influencia de China en su derrota](https://elpais.com/internacional/2026-07-17/trump-resucita-en-un-discurso-a-la-nacion-el-bulo-del-fraude-electoral-de-2020-y-acusa-a-china-de-influir-en-su-derrota.html?utm_source=lootura.com) — 2026-07-17T01:28:02.000Z
 - [Trump despide a su operador de teleprompter, acusado de apostar ilegalmente en Kalshi sobre sus discursos](https://elpais.com/internacional/2026-07-16/trump-suspende-a-su-operador-de-teleprompter-acusado-de-apostar-ilegalmente-en-kalshi-sobre-sus-discursos.html?utm_source=lootura.com) — 2026-07-16T22:29:37.000Z
 - [Trump anuncia una desclasificación que probaría injerencia electoral de China en EEUU](https://theobjective.com/internacional/2026-07-17/trump-desclasificacion-injerencia-electoral-china-eeuu/?amp=&utm_source=lootura.com) — 2026-07-17T05:41:49.000Z

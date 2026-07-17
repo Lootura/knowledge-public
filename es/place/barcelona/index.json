@@ -8,9 +8,14 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/barcelona/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/barcelona/index.json",
   "description": "Sigue la actividad de Barcelona en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-17T06:12:48.444Z",
+  "updatedAt": "2026-07-17T09:54:46.288Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "Detenida una empleada del hogar en Barcelona por robar dinero y joyas por valor de 390.000 euros",
+      "summary": "Los Mossos d'Esquadra han detenido en Barcelona a una empleada del hogar acusada de robar dinero y joyas en varias casas en las que trabajaba por valor de 390.000 euro s, y han arrestado también a otra mujer que le ayudaba a vender las alhajas sustraídas, ha informado este viernes la policía catalana. Agentes de la Uni.",
+      "date": "2026-07-17"
+    },
     {
       "title": "Menos madera, más paisaje: la revolución de la barrica de vino",
       "summary": "En una mesa de cuatro comensales en cualquier rincón de Madrid, Barcelona, Sevilla, Valencia o Logroño, una botella de tinto bien escogido puede desaparecer en cuestión de diez o doce minutos. No es por una sed desenfrenada ni por falta de modales; es el síntoma de un cambio de paradigma en el consumo de vino en España.",
@@ -55,19 +60,20 @@
       "title": "Rajoy enoja a Francia mientras el Gobierno acusa al PP de torpedear la política exterior",
       "summary": "El Partido Popular ya logró concitar la irritación de los gobiernos de Pedro Sánchez y Emmanuel Macron, por bloquear hace una semana en el Senado el tratado de amistad que ambos mandatarios sellaron en la cumbre hispanofrancesa celebrada en Barcelona el 19 de enero del 2023. Y ahora unas polémicas palabras del expresid.",
       "date": "2026-07-13"
-    },
-    {
-      "title": "El filial del Barcelona de cuarta categoría lleva ya gastado más dinero que 10 equipos de Primera División",
-      "summary": "El Barcelona ha comenzado este mercado de fichajes con mucho movimiento y millones gastados entre su primer equipo y su filial.",
-      "date": "2026-07-13"
     }
   ],
   "sources": [
     {
-      "title": "Menos madera, más paisaje: la revolución de la barrica de vino",
-      "url": "https://www.abc.es/gastronomia/vinos/virtud-silencio-madera-vino-busca-frescura-20260716155912-nt.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-17T05:24:46.000Z",
-      "sourceId": "lootura-es-abc"
+      "title": "Estos son los genes que hacen que seas más susceptible a la depresión, a la irritabilidad o a la inestabilidad emocional",
+      "url": "https://www.larazon.es/salud/estos-son-genes-que-hacen-que-seas-mas-susceptibles-depresion-irritabilidad-inestabilidad-emocional_202607176a59f9030500ab412c9ab702.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-17T09:43:19.000Z",
+      "sourceId": "lootura-es-la-razon"
+    },
+    {
+      "title": "Detenida una empleada del hogar en Barcelona por robar dinero y joyas por valor de 390.000 euros",
+      "url": "https://www.larazon.es/cataluna/detenida-empleada-hogar-barcelona-robar-dinero-joyas-valor-390000-euros_202607176a59f8ae1db8de040993cfd1.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-17T09:41:02.000Z",
+      "sourceId": "lootura-es-la-razon"
     }
   ],
   "evidenceCount": 1

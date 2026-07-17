@@ -3,10 +3,16 @@
 > Sigue la actividad de Carles Puigdemont en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-17T06:12:48.444Z
+- Actualizado: 2026-07-17T09:54:46.288Z
 - Canonical: https://atlas.lootura.com/es/person/carles-puigdemont
 
 ## Cambios recientes
+
+### Turull critica a Puente por decir que si él fuera Puigdemont volvería hoy mismo a España: "Cuánta miseria y frivolidad"
+
+El secretario general de JxCat, Jordi Turull , ha criticado este viernes al ministro de Transportes, Óscar Puente, por afirmar en una entrevista que si él fuera Carles Puigdemont, volvería a España de forma inmediata tras el aval de la justicia europea a la ley de amnistía . "Cuánta miseria y frivolidad", ha escrito Tu.
+
+Date: 2026-07-17
 
 ### Puigdemont opta por no mover ficha tras el fallo de la Justicia europea y lo fía todo a que el Constitucional corrija al Supremo
 
@@ -34,5 +40,5 @@ Date: 2026-07-16
 
 ## Fuentes
 
-- [Puigdemont opta por no mover ficha tras el fallo de la Justicia europea y lo fía todo a que el Constitucional corrija al Supremo](https://www.20minutos.es/nacional/puigdemont-opta-por-no-mover-ficha-tras-fallo-tjue-fia-todo-que-constitucional-corrija-supremo_7015573_0.html?utm_source=lootura.com) — 2026-07-17T03:00:00.000Z
+- [Turull critica a Puente por decir que si él fuera Puigdemont volvería hoy mismo a España: "Cuánta miseria y frivolidad"](https://www.20minutos.es/cataluna/turull-critica-puente-por-decir-que-si-fuera-puigdemont-volveria-hoy-mismo-espana-cuanta-miseria-frivolidad_7015827_0.html?utm_source=lootura.com) — 2026-07-17T09:12:28.000Z
 - [El Supremo mantiene el motivo clave por el que rechazó amnistiar la malversación de Puigdemont](https://amp.elmundo.es/espana/2026/07/16/6a592344e85ecec83c8b456d.html?utm_source=lootura.com) — 2026-07-16T20:33:54.000Z

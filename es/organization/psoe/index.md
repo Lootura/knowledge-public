@@ -3,10 +3,16 @@
 > Sigue la actividad de Partido Socialista Obrero Español en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-16T20:54:41.819Z
+- Actualizado: 2026-07-17T09:54:46.288Z
 - Canonical: https://atlas.lootura.com/es/organization/psoe
 
 ## Cambios recientes
+
+### Junqueras dice que el PSOE le «defraudó» y que «no hay confianza» en la legislatura
+
+El presidente de ERC , Oriol Junqueras , ha escenificado este viernes la contradicción que marca la relación de su partido con el Gobierno de Pedro Sánchez: asegura que el PSOE le ha «defraudado, una vez más» por los casos de corrupción que le afectan, pero mantiene su respaldo a la legislatura al considerar que la alt.
+
+Date: 2026-07-17
 
 ### La directora de la Guardia Civil declara como imputada en el 'caso cloacas del PSOE' por obstrucción a la Justicia
 
@@ -62,12 +68,6 @@ Diego Villafañe no redactó nota alguna sobre los encuentros con Leire Díez ni
 
 Date: 2026-07-15
 
-### Un micro abierto pilla a dos diputados de Vox en Valencia hablando de la filtración de una fiscal
-
-El PSPV-PSOE ha denunciado el «machismo rancio de la ultraderecha» después de que un micrófono abierto durante la Comisión de Economía de las Cortes valencianas de este miércoles «haya delatado» a dos diputados de Vox que han llamado «bruja» a la diputada socialista Alicia Andújar. «Les molestan las mujeres que hablan.
-
-Date: 2026-07-15
-
 ## Fuentes
 
-No public source links.
+- [Junqueras dice que el PSOE le «defraudó» y que «no hay confianza» en la legislatura](https://theobjective.com/espana/politica/2026-07-17/junqueras-psoe-defraudo-no-confianza-legislatura/?utm_source=lootura.com) — 2026-07-17T08:54:39.000Z

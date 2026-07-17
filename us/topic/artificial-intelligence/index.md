@@ -3,7 +3,7 @@
 > Follow Artificial intelligence, a tracked topic, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: topic
-- Updated: 2026-07-17T06:13:09.528Z
+- Updated: 2026-07-17T09:55:08.806Z
 - Canonical: https://atlas.lootura.com/us/topic/artificial-intelligence
 
 ## Recent changes
@@ -17,6 +17,18 @@ Date: 2026-07-17
 ### A global capital for AI safety is emerging — and it's not in Silicon Valley
 
 Nature, Published online: 16 July 2026; doi:10.1038/d41586-026-01389-9 The United Kingdom is gaining influence through its growing AI-safety ecosystem.
+
+Date: 2026-07-17
+
+### China's Xi calls for step up of global effort in AI, as US curbs squeeze China's tech access
+
+American-led restrictions have blocked China from accessing some of the world's most advanced technologies, spurring China's efforts to build its own know-how and intensifying the tech race between the world's two biggest economies. (Image credit: Ng Han Guan).
+
+Date: 2026-07-17
+
+### Philippines Condemns AI Video Posted by Chinese State Media Depicting It as a Monkey
+
+It lodged a diplomatic complaint with Beijing over an A.I.-generated video centered on territorial disputes in the South China Sea.
 
 Date: 2026-07-17
 
@@ -56,20 +68,9 @@ Science, Volume 393, Issue 6807 , Page 152-152, July 2026.
 
 Date: 2026-07-16
 
-### Connect more of your apps to Search
-
-You’ll be able to securely link and interact with your go-to services directly in AI Mode.
-
-Date: 2026-07-16
-
-### Google is renaming NotebookLM to Gemini Notebook
-
-Google is giving its AI note-taking app a new name. The company announced on Thursday that NotebookLM is becoming Gemini Notebook, but will remain a standalone app even as it integrates more deeply across Gemini and Google Search. Google first revealed Gemini Notebook - then called Project Tailwind - in May 2023 before.
-
-Date: 2026-07-16
-
 ## Sources
 
-- [AI is set to completely transform cybersecurity — here’s how researchers must prepare](https://www.nature.com/articles/d41586-026-02214-z?utm_source=lootura.com) — 2026-07-17T06:13:13.110Z
-- [A global capital for AI safety is emerging — and it's not in Silicon Valley](https://www.nature.com/articles/d41586-026-01389-9?utm_source=lootura.com) — 2026-07-17T06:13:13.110Z
-- [EU's AI 'guardrails' cannot absorb rapid changes in technology, study warns](https://phys.org/news/2026-07-eu-ai-guardrails-absorb-rapid.html?utm_source=lootura.com) — 2026-07-17T03:20:01.000Z
+- [AI is set to completely transform cybersecurity — here’s how researchers must prepare](https://www.nature.com/articles/d41586-026-02214-z?utm_source=lootura.com) — 2026-07-17T09:55:12.238Z
+- [A global capital for AI safety is emerging — and it's not in Silicon Valley](https://www.nature.com/articles/d41586-026-01389-9?utm_source=lootura.com) — 2026-07-17T09:55:12.239Z
+- [China's Xi calls for step up of global effort in AI, as US curbs squeeze China's tech access](https://www.npr.org/2026/07/17/nx-s1-5897285/chinas-xi-calls-for-step-up-of-global-effort-in-ai-as-us-curbs-squeeze-chinas-tech-access?utm_source=lootura.com) — 2026-07-17T07:17:04.000Z
+- [Philippines Condemns AI Video Posted by Chinese State Media Depicting It as a Monkey](https://www.nytimes.com/2026/07/17/world/asia/philippines-ai-video-china-racist.html?utm_source=lootura.com) — 2026-07-17T08:31:06.000Z

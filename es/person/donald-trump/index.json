@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/donald-trump/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/donald-trump/index.json",
   "description": "Sigue la actividad de Donald Trump en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-17T06:12:48.444Z",
+  "updatedAt": "2026-07-17T09:54:46.288Z",
   "aliases": [
     "President Donald Trump",
     "President Trump",
@@ -68,10 +68,10 @@
   ],
   "sources": [
     {
-      "title": "El ayudante de Trump encargado de su teleprónter ganó 90.000 dólares en apuestas sobre lo que iba a decir en sus discursos",
-      "url": "https://www.elmundo.es/internacional/2026/07/16/6a591d59e4d4d83b218b457b.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-16T19:06:08.000Z",
-      "sourceId": "lootura-es-el-mundo"
+      "title": "Pedro Sánchez acudirá a la final del Mundial donde se encontrará con Trump y los Reyes... pero no con Milei",
+      "url": "https://www.20minutos.es/nacional/pedro-sanchez-acudira-final-mundial-donde-se-encontrara-con-trump-los-reyes-pero-no-con-milei_7015784_0.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-17T08:11:33.000Z",
+      "sourceId": "lootura-es-20minutos"
     },
     {
       "title": "Trump resucita en un discurso a la nación el bulo del fraude electoral de 2020 y exagera la influencia de China en su derrota",
@@ -92,5 +92,5 @@
       "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 4
 }

@@ -3,10 +3,16 @@
 > Follow Venezuela, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-15T17:15:23.220Z
+- Updated: 2026-07-17T09:55:08.806Z
 - Canonical: https://atlas.lootura.com/us/place/venezuela
 
 ## Recent changes
+
+### Venezuela Earthquakes Force a Grim Homecoming for Migrants
+
+Mass migration, which defines modern Venezuela, has heavily marked the earthquake, too, saving many who had left, but also making their grief harder.
+
+Date: 2026-07-17
 
 ### He Has a $25 Million Bounty on His Head but Is Also a U.S. Partner in Venezuela
 
@@ -52,4 +58,5 @@ Date: 2026-07-08
 
 ## Sources
 
-No public source links.
+- [Is Venezuela a Colony Now? A Sovereign State? Modern Empires Rule in Ambiguity.](https://www.nytimes.com/2026/07/17/magazine/venezuela-empires-colony.html?utm_source=lootura.com) — 2026-07-17T09:02:04.000Z
+- [Venezuela Earthquakes Force a Grim Homecoming for Migrants](https://www.nytimes.com/2026/07/17/world/americas/venezuela-earthquakes-families-migration.html?utm_source=lootura.com) — 2026-07-17T09:01:42.000Z

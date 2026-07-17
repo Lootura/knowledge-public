@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/company/openai/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/company/openai/index.json",
   "description": "Sigue la actividad de OpenAI en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-17T06:12:48.444Z",
+  "updatedAt": "2026-07-17T09:54:46.288Z",
   "aliases": [
     "ChatGPT maker"
   ],
@@ -31,11 +31,11 @@
   ],
   "sources": [
     {
-      "title": "El Ibex bate al Nasdaq en la 'era de ChatGPT' sin cocer una burbuja",
-      "url": "https://www.expansion.com/mercados/2026/07/16/6a58ff4f468aeb13038b45b0.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-16T23:33:05.000Z",
-      "sourceId": "lootura-es-expansion"
+      "title": "OpenAI lanza un hardware de IA que es una mini-consola de control con aspiraciones de convertirse en el nuevo iPhone (o algo así)",
+      "url": "http://www.microsiervos.com/archivo/gadgets/openai-codex-micro-hardware-ia.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-17T09:34:02.000Z",
+      "sourceId": "lootura-es-microsiervos"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 0
 }

@@ -8,14 +8,9 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/china/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/china/index.json",
   "description": "Sigue la actividad de China en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-17T06:12:48.444Z",
+  "updatedAt": "2026-07-17T09:54:46.288Z",
   "aliases": [],
   "changes": [
-    {
-      "title": "Antonio Tajani: «No podemos dejar África solo en manos de China y Rusia»",
-      "summary": "El vicepresidente del Gobierno y ministro de Asuntos Exteriores de Italia, Antonio Tajani , aboga por seguir trabajando en un mercado único europeo para competir con las grandes potencias en el nuevo tablero global y llama a España a ser un socio estratégico para Italia dentro del plan de inversiones que el país transa.",
-      "date": "2026-07-17"
-    },
     {
       "title": "Trump resucita en un discurso a la nación el bulo del fraude electoral de 2020 y exagera la influencia de China en su derrota",
       "summary": "Donald Trump, líder de un país en guerra y con el coste de la vida en alza, se dirigió este jueves por la noche a la nación para hablar de las elecciones... de hace seis años. No fue solo un intento de ajuste de cuentas con un fracaso personal; el presidente de Estados Unidos, cuya impopularidad bate récords, habló con.",
@@ -24,6 +19,11 @@
     {
       "title": "Trump anuncia una desclasificación que probaría injerencia electoral de China en EEUU",
       "summary": "El presidente de Estados Unidos, Donald Trump, ha anunciado este jueves la desclasificación y publicación de información «crítica» de inteligencia que.",
+      "date": "2026-07-17"
+    },
+    {
+      "title": "Antonio Tajani: «No podemos dejar África solo en manos de China y Rusia»",
+      "summary": "El vicepresidente del Gobierno y ministro de Asuntos Exteriores de Italia, Antonio Tajani , aboga por seguir trabajando en un mercado único europeo para competir con las grandes potencias en el nuevo tablero global y llama a España a ser un socio estratégico para Italia dentro del plan de inversiones que el país transa.",
       "date": "2026-07-17"
     },
     {
@@ -64,12 +64,6 @@
   ],
   "sources": [
     {
-      "title": "Antonio Tajani: «No podemos dejar África solo en manos de China y Rusia»",
-      "url": "https://www.abc.es/economia/antonio-tajani-podemos-dejar-africa-solo-manos-20260716134700-nt.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-17T05:23:39.000Z",
-      "sourceId": "lootura-es-abc"
-    },
-    {
       "title": "Trump resucita en un discurso a la nación el bulo del fraude electoral de 2020 y exagera la influencia de China en su derrota",
       "url": "https://elpais.com/internacional/2026-07-17/trump-resucita-en-un-discurso-a-la-nacion-el-bulo-del-fraude-electoral-de-2020-y-acusa-a-china-de-influir-en-su-derrota.html?utm_source=lootura.com",
       "publishedAt": "2026-07-17T01:28:02.000Z",
@@ -82,5 +76,5 @@
       "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 2
 }

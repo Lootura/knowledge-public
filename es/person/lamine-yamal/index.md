@@ -64,4 +64,4 @@ Date: 2026-07-08
 
 ## Fuentes
 
-- [La pantalla grande para ver la final del Mundial entre Leo Messi y Lamine Yamal en Barcelona: ubicación para apoyar a La Roja](https://www.elconfidencial.com/espana/cataluna/2026-07-17/pantalla-grande-barcelona-mundial-final-espana-1qrt-1tna_4391079/?utm_source=lootura.com) — 2026-07-17T03:00:00.000Z
+No public source links.

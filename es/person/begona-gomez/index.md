@@ -3,10 +3,28 @@
 > Sigue la actividad de Begoña Gómez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-17T06:12:48.444Z
+- Actualizado: 2026-07-17T09:54:46.288Z
 - Canonical: https://atlas.lootura.com/es/person/begona-gomez
 
 ## Cambios recientes
+
+### Vicente Vallés, contundente tras ver que Begoña Gómez será juzgada por un jurado popular
+
+Begoña Gómez será juzgada por un jurado popular junto a su asesora en Moncloa, Cristina Álvarez. La Audiencia Provincial de Madrid ha avalado el criterio del juez Juan Carlos Peinado y ha confirmado que la causa se tramite por esta vía.La esposa de Pedro Sánchez está acusada de un presunto delito de tráfico de influenc.
+
+Date: 2026-07-17
+
+### Cómo se elegirán a los nueve miembros del jurado que juzgarán a Begoña Gómez: así es la lista de los candidatos
+
+La elección de los nueve miembros del jurado que juzgarán a Begoña Gómez partirá de una lista de 2.846 candidatos de la Comunidad de Madrid . De ese registro se convocará a 30 ciudadanos , entre los que se escogerá a los nueve titulares y a dos suplentes que participarán en el juicio. La Audiencia Provincial de Madrid.
+
+Date: 2026-07-17
+
+### Bolaños cree que la respuesta judicial al 'caso Begoña Gómez' no es adecuada ni contundente
+
+El ministro de la Presidencia, Justicia y Relaciones con las Cortes, Félix Bolaños, considera que no ha sido ni «adecuada» ni «contundente» la respuesta.
+
+Date: 2026-07-17
 
 ### La condena de Urdangarín servirá para juzgar a Begoña Gómez por usar su «vínculo matrimonial» para dirigir la cátedra de la Complutense
 
@@ -50,25 +68,10 @@ El Gobierno reitera que Begoña Gómez , la mujer del presidente Pedro Sánchez 
 
 Date: 2026-07-16
 
-### La Audiencia de Madrid avala enjuiciar ante un jurado a Begoña Gómez y le devuelve el pasaporte
-
-La Audiencia Provincial de Madrid ha avalado la decisión del juez Juan Carlos Peinado de enviar a Begoña Gómez a juicio ante el tribunal del jurado por delitos de malversación y tráfico de influencias . En cambio, ha revocado el enjuiciamiento por delitos de corrupción en los negocios y apropiación indebida, y ha acord.
-
-Date: 2026-07-16
-
-### ¿Podrías juzgar tú a Begoña Gómez? Los requisitos de la ley para formar parte de su jurado popular
-
-Esta decisión procesal vuelve a poner el foco en una de las instituciones más singulares de la justicia, donde el veredicto final recae sobre perso...
-
-Date: 2026-07-16
-
-### Moncloa también rabia contra la Audiencia por ratificar el juicio a Begoña Gómez: «Es una causa política»
-
-El Gobierno de Pedro Sánchez ha estallado contra la decisión de la Audiencia de Madrid que avala el procesamiento de Begoña Gómez , esposa del líder socialista, por presuntos delitos de tráfico de influencias y malversación de caudales públicos tras la instrucción del juez Juan Carlos Peinado . «Se trata de una causa p.
-
-Date: 2026-07-16
-
 ## Fuentes
 
-- [La condena de Urdangarín servirá para juzgar a Begoña Gómez por usar su «vínculo matrimonial» para dirigir la cátedra de la Complutense](https://www.eldebate.com/espana/20260717/precedente-supremo-servira-juzgar-begona-gomez-usar-vinculo-matrimonial-dirigir-catedra-complutense_440607.html?utm_source=lootura.com) — 2026-07-17T04:04:41.000Z
+- [Pedro Sánchez finalmente sí acudirá a la final del Mundial, pero no le acompañará Begoña Gómez](https://www.abc.es/espana/sanchez-finalmente-acudira-final-mundial-futbol-disputa-20260717095804-nt.html?utm_source=lootura.com) — 2026-07-17T09:28:02.000Z
+- [Vicente Vallés, contundente tras ver que Begoña Gómez será juzgada por un jurado popular](https://www.abc.es/play/television/noticias/vicente-valles-contundente-tras-ver-begona-gomez-20260717111808-nt.html?utm_source=lootura.com) — 2026-07-17T09:30:55.000Z
+- [Cómo se elegirán a los nueve miembros del jurado que juzgarán a Begoña Gómez: así es la lista de los candidatos](https://www.elconfidencial.com/espana/2026-07-17/como-elegiran-nueve-miembros-jurado-begona-gomez_4391555/?utm_source=lootura.com) — 2026-07-17T09:22:00.000Z
 - [Los 13 indicios de malversación con el 'software' de la Universidad Complutense que hunden a Begoña Gómez](https://www.elmundo.es/espana/2026/07/16/6a592f7721efa0437e8b4570.html?utm_source=lootura.com) — 2026-07-16T20:52:41.000Z
+- [Bolaños cree que la respuesta judicial al 'caso Begoña Gómez' no es adecuada ni contundente](https://theobjective.com/espana/politica/2026-07-17/bolanos-respuesta-judicial-caso-begona/?amp=&utm_source=lootura.com) — 2026-07-17T09:39:42.000Z

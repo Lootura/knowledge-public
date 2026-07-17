@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/fifa/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/fifa/index.json",
   "description": "Sigue la actividad de FIFA en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-17T06:12:48.444Z",
+  "updatedAt": "2026-07-17T09:54:46.288Z",
   "aliases": [],
   "changes": [
     {
@@ -29,9 +29,9 @@
   ],
   "sources": [
     {
-      "title": "Las Islas Malvinas, dos siglos de disputa entre Argentina y Reino Unido y una guerra en 1982",
-      "url": "https://www.20minutos.es/internacional/las-malvinas-las-islas-que-enfrentan-argentina-reino-unido-desde-hace-dos-siglos-que-llevaron-una-guerra-1982_7015380_0.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-17T03:00:00.000Z",
+      "title": "Pedro Sánchez acudirá a la final del Mundial donde se encontrará con Trump y los Reyes... pero no con Milei",
+      "url": "https://www.20minutos.es/nacional/pedro-sanchez-acudira-final-mundial-donde-se-encontrara-con-trump-los-reyes-pero-no-con-milei_7015784_0.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-17T08:11:33.000Z",
       "sourceId": "lootura-es-20minutos"
     }
   ],

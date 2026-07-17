@@ -3,7 +3,7 @@
 > Follow Donald Trump, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-07-17T06:13:09.528Z
+- Updated: 2026-07-17T09:55:08.806Z
 - Canonical: https://atlas.lootura.com/us/person/donald-trump
 
 ## Recent changes
@@ -56,15 +56,15 @@ NBC News’ Jane Timm analyzes President Trump’s claims about digital manipula
 
 Date: 2026-07-17
 
-### How Trump's election allegations against China could impact relations with U.S.
+### A Trump Obsession That Carries a Cost for Democracy
 
-President Trump accused China of having a role in influencing the 2020 election during his speech about election interference. NBC News' Garrett Haake has more on how this could impact China's relationship with the U.S.
+In demanding steps to address the integrity of voting, President Trump persisted in relitigating his 2020 election defeat while finding ways to cast doubt on the 2026 outcome.
 
 Date: 2026-07-17
 
-### Federal panel signals it could support permanent fencing around White House park known for protests
+### Trump again makes unverifiable claims of noncitizen voting
 
-A historic hub for free speech and protest is under the spotlight as the Trump administration proposes adding permanent fencing around Lafayette Square.
+The president offered no concrete evidence, and at least one state — Nevada — rejected his claims immediately.
 
 Date: 2026-07-17
 
@@ -72,11 +72,11 @@ Date: 2026-07-17
 
 - [Federal judge slams Trump, DOJ over IRS lawsuit](https://www.cbsnews.com/video/federal-judge-slams-trump-doj-irs-lawsuit/?utm_source=lootura.com) — 2026-07-17T01:19:46.000Z
 - [Watch: Trump speaks on elections, alleges Chinese access to voter data | Special Report](https://www.cbsnews.com/video/watch-trump-speaks-on-elections-alleges-chinese-access-to-voter-data-special-report/?utm_source=lootura.com) — 2026-07-17T02:27:00.000Z
-- [Watch: Karoline Leavitt answers questions on Trump's primetime speech, new Iran strikes](https://www.cbsnews.com/video/karoline-leavitt-answers-questions-ahead-of-trumps-speech-on-election-integrity/?utm_source=lootura.com) — 2026-07-16T20:06:39.000Z
-- [Schiff presses Ashcroft over Trump's calls for prosecution of perceived political enemies](https://www.cbsnews.com/video/schiff-ashcroft-clash-over-president-trumps-prosecution-of-political-enemies/?utm_source=lootura.com) — 2026-07-16T20:03:10.000Z
 - [Fact checking Trump speech on election security](https://www.cbsnews.com/news/fact-checking-trump-speech-on-election-security/?utm_source=lootura.com) — 2026-07-17T04:07:32.000Z
 - [Sen. Mark Warner slams Trump's primetime speech: "Incredible lies"](https://www.cbsnews.com/video/sen-mark-warner-slams-trumps-primetime-speech/?utm_source=lootura.com) — 2026-07-17T02:04:00.000Z
 - [In primetime speech, Trump revisits disputed claims about election security and declassifies documents](https://www.cbsnews.com/news/trump-election-primetime-speech-declassified-documents-revisits-disputed-claims/?utm_source=lootura.com) — 2026-07-17T06:11:59.000Z
 - [Trump administration to declassify documents relating to China and U.S. elections](https://www.nbcnews.com/video/trump-administration-to-declassify-documents-relating-to-china-and-u-s-elections-266817605523?utm_source=lootura.com) — 2026-07-17T01:31:09.000Z
 - [How paper ballots make digital manipulation of results unlikely](https://www.nbcnews.com/video/how-paper-ballots-make-digital-manipulation-of-results-unlikely-266817605727?utm_source=lootura.com) — 2026-07-17T02:02:40.000Z
-- [How Trump's election allegations against China could impact relations with U.S.](https://www.nbcnews.com/video/how-trump-s-election-allegations-against-china-could-impact-relations-with-u-s-266824261975?utm_source=lootura.com) — 2026-07-17T03:40:45.000Z
+- [Rep. Jim Himes reacts to Trump's speech on election security](https://www.npr.org/2026/07/17/nx-s1-5896138/rep-jim-himes-reacts-to-trumps-speech-on-election-security?utm_source=lootura.com) — 2026-07-17T08:42:48.000Z
+- [World leaders meet in D.C. to discuss left-wing political violence](https://www.npr.org/2026/07/17/nx-s1-5888660/world-leaders-meet-in-d-c-to-discuss-left-wing-political-violence?utm_source=lootura.com) — 2026-07-17T08:43:23.000Z
+- [An analysis of President Trump's address](https://www.npr.org/2026/07/16/nx-s1-5896487/an-analysis-of-president-trumps-address?utm_source=lootura.com) — 2026-07-17T01:38:04.000Z

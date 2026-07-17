@@ -3,7 +3,7 @@
 > Follow Democratic Party, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-07-17T06:13:09.528Z
+- Updated: 2026-07-17T09:55:08.806Z
 - Canonical: https://atlas.lootura.com/us/organization/democratic-party
 
 ## Recent changes
@@ -11,6 +11,24 @@
 ### 5 Takeaways From a Maine Debate That Showed Replacing Platner Isn’t Easy
 
 Maine Democrats vying to become the state’s new Senate nominee met, and mostly agreed, at a debate filled with halting answers and stilted deliveries.
+
+Date: 2026-07-17
+
+### US politicians push agencies to restrict research collaboration with China
+
+Nature, Published online: 16 July 2026; doi:10.1038/d41586-026-02226-9 Republicans and Democrats worry about research theft and exploitation — but don’t agree on how to solve the problem.
+
+Date: 2026-07-17
+
+### Republican campaigns see immigration as a winning issue for midterms
+
+Republicans are spending more money and running more ads on immigration than Democrats are ahead of the November midterm elections, according to an NPR analysis of advertisement data. (Image credit: Joseph Prezioso).
+
+Date: 2026-07-17
+
+### Republicans in North Carolina Try to Reduce Early Voting on Sundays and on Campuses
+
+Voting-rights activists said the changes are a blatant attempt by G.O.P. leaders to make it harder for Black voters and students, who tend to vote for Democrats, to cast ballots this fall.
 
 Date: 2026-07-17
 
@@ -50,25 +68,9 @@ Democrats questioned the acting attorney general, Todd Blanche, and a U.S. attor
 
 Date: 2026-07-15
 
-### Here Are the Maine Democrats Running to Replace Graham Platner
-
-To win, they’ll have to convince Democrats at a July 25 convention that they’re the best candidate to take on Senator Susan Collins, a Republican.
-
-Date: 2026-07-15
-
-### Maine Democrats’ Adventurous Political Experiment
-
-The party’s leaders have a political experiment on their hands.
-
-Date: 2026-07-15
-
-### Funding milestone detected
-
-The amendment, which had no chance of passing, put Democrats in a politically tough spot.
-
-Date: 2026-07-15
-
 ## Sources
 
-- [Wildfire Smoke Turns Skies Orange Across the U.S., and Democrats Make a Big Shift on Israel](https://www.nytimes.com/2026/07/16/podcasts/the-headlines/wildfire-smoke-democrats-israel.html?utm_source=lootura.com) — 2026-07-16T10:00:15.000Z
+- [US politicians push agencies to restrict research collaboration with China](https://www.nature.com/articles/d41586-026-02226-9?utm_source=lootura.com) — 2026-07-17T09:55:12.239Z
+- [Republican campaigns see immigration as a winning issue for midterms](https://www.npr.org/2026/07/17/g-s1-133702/midterm-election-ads-immigration-republicans-democrats?utm_source=lootura.com) — 2026-07-17T09:00:00.000Z
+- [Republicans in North Carolina Try to Reduce Early Voting on Sundays and on Campuses](https://www.nytimes.com/2026/07/17/us/politics/republicans-in-north-carolina-try-to-reduce-early-voting-on-sundays-and-on-campuses.html?utm_source=lootura.com) — 2026-07-17T09:01:29.000Z
 - [5 Takeaways From a Maine Debate That Showed Replacing Platner Isn’t Easy](https://www.nytimes.com/2026/07/16/us/politics/maine-senate-debate-takeaways.html?utm_source=lootura.com) — 2026-07-17T02:07:46.000Z

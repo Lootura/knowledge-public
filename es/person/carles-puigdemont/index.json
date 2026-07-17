@@ -8,9 +8,14 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/carles-puigdemont/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/carles-puigdemont/index.json",
   "description": "Sigue la actividad de Carles Puigdemont en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-17T06:12:48.444Z",
+  "updatedAt": "2026-07-17T09:54:46.288Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "Turull critica a Puente por decir que si él fuera Puigdemont volvería hoy mismo a España: \"Cuánta miseria y frivolidad\"",
+      "summary": "El secretario general de JxCat, Jordi Turull , ha criticado este viernes al ministro de Transportes, Óscar Puente, por afirmar en una entrevista que si él fuera Carles Puigdemont, volvería a España de forma inmediata tras el aval de la justicia europea a la ley de amnistía . \"Cuánta miseria y frivolidad\", ha escrito Tu.",
+      "date": "2026-07-17"
+    },
     {
       "title": "Puigdemont opta por no mover ficha tras el fallo de la Justicia europea y lo fía todo a que el Constitucional corrija al Supremo",
       "summary": "Sin movimiento en la Plaza de la Villa de París . Ni el instructor del Tribunal Supremo Pablo Llarena piensa reaccionar al fallo que emitió este jueves el Tribunal de Luxemburgo, ni la defensa de Carles Puigdemont tiene previsto pedirle que levante la orden de detención nacional que permanece vigente sobre el expreside.",
@@ -34,9 +39,9 @@
   ],
   "sources": [
     {
-      "title": "Puigdemont opta por no mover ficha tras el fallo de la Justicia europea y lo fía todo a que el Constitucional corrija al Supremo",
-      "url": "https://www.20minutos.es/nacional/puigdemont-opta-por-no-mover-ficha-tras-fallo-tjue-fia-todo-que-constitucional-corrija-supremo_7015573_0.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-17T03:00:00.000Z",
+      "title": "Turull critica a Puente por decir que si él fuera Puigdemont volvería hoy mismo a España: \"Cuánta miseria y frivolidad\"",
+      "url": "https://www.20minutos.es/cataluna/turull-critica-puente-por-decir-que-si-fuera-puigdemont-volveria-hoy-mismo-espana-cuanta-miseria-frivolidad_7015827_0.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-17T09:12:28.000Z",
       "sourceId": "lootura-es-20minutos"
     },
     {

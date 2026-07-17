@@ -8,11 +8,16 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/ukraine/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/ukraine/index.json",
   "description": "Follow Ukraine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-17T06:13:09.528Z",
+  "updatedAt": "2026-07-17T09:55:08.806Z",
   "aliases": [
     "Kyiv"
   ],
   "changes": [
+    {
+      "title": "He Was a Russian Political Survivor, Until the Masked Men Appeared",
+      "summary": "Boris B. Nadezhdin, an outspoken opponent of the war in Ukraine, says he knows why he was detained: “Among our leadership, there is panic and chaos.”.",
+      "date": "2026-07-17"
+    },
     {
       "title": "He Was a Russian Political Survivor, Until the Masked Men Appeared",
       "summary": "Boris B. Nadezhdin, an outspoken opponent of the war in Ukraine, says he knows why he was detained: “Among our leadership, there is panic and chaos.”.",
@@ -57,11 +62,6 @@
       "title": "Zelenskyy fires Ukraine's tech-savvy defense minister in government reshuffle",
       "summary": "Ukraine's President Volodymyr Zelenskyy has fired the country's popular defense minister, who pushed for innovation in the battlefield through the use of drones and turned the tables on Russia. (Image credit: ROMAN PILIPEY).",
       "date": "2026-07-16"
-    },
-    {
-      "title": "Ukraine’s Minister of Defense, a Proponent of Drone Warfare, Is Forced Out",
-      "summary": "Mykhailo Fedorov announced he was leaving the ministry on Wednesday after conflicts with generals and military contractors over the role of innovative weaponry.",
-      "date": "2026-07-16"
     }
   ],
   "sources": [
@@ -74,8 +74,8 @@
     {
       "title": "He Was a Russian Political Survivor, Until the Masked Men Appeared",
       "url": "https://www.nytimes.com/2026/07/17/world/europe/russia-politics-election-nadezhdin.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-17T04:01:08.000Z",
-      "sourceId": "lootura-us-the-new-york-times"
+      "publishedAt": "2026-07-17T08:31:14.000Z",
+      "sourceId": "lootura-us-the-new-york-times-world"
     }
   ],
   "evidenceCount": 2

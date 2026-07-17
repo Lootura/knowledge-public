@@ -8,9 +8,14 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/venezuela/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/venezuela/index.json",
   "description": "Sigue la actividad de Venezuela en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-17T02:26:45.462Z",
+  "updatedAt": "2026-07-17T09:54:46.288Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "Venezuela supera las 4.900 víctimas mortales por los fuertes terremotos",
+      "summary": "Las autoridades venezolanas han elevado este jueves a más de 4.900 el número de fallecidos por cuenta de los devastadores terremotos que sacudieron al país el pasado 24 de junio, mientras que el saldo de heridos se mantiene en 16.740 personas. Concretamente, el presidente de la Asamblea Nacional de Venezuela , Jorge Ro.",
+      "date": "2026-07-17"
+    },
     {
       "title": "Delcy, sobre su viaje a España en 2020: «Me invitó Ábalos para ver a las autoridades»",
       "summary": "Delcy Rodríguez ha confirmado que fue José Luis Ábalos quien la invitó a viajar a España en enero de 2020 para mantener reuniones «con las autoridades». La presidenta encargada de Venezuela sostiene que conserva la carta de invitación remitida por quien entonces era ministro de Transportes y secretario de Organización.",
@@ -55,13 +60,15 @@
       "title": "Uno de cada 10 médicos en España ya son extranjeros: “Venimos a trabajar duro para sostener y mejorar el sistema de salud”",
       "summary": "Ofreuddys Daniel Estrada Leal había sido médico en Venezuela antes de llegar a España. Aquí, durante casi dos años, ese oficio quedó suspendido en un limbo administrativo. Mientras esperaba la homologación de su título , trabajó como expendedor de combustible en estaciones de servicio, como asistente administrativo en.",
       "date": "2026-07-14"
-    },
-    {
-      "title": "Los latinoamericanos afiliados a la Seguridad Social superan por primera vez a los europeos",
-      "summary": "Colombia, Venezuela, Perú, Ecuador, Argentina, Honduras... Los afiliados a la Seguridad Social de estas nacionalidades, y del resto que completan la veintena de Estados que forman Latinoamérica , ya superan al conjunto de cotizantes europeos en España. Por primera vez desde que hay registros consolidados (empiezan en 2.",
-      "date": "2026-07-14"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Venezuela supera las 4.900 víctimas mortales por los fuertes terremotos",
+      "url": "https://theobjective.com/internacional/2026-07-17/venezuela-supera-4900-victimas/?utm_source=lootura.com",
+      "publishedAt": "2026-07-17T08:21:18.000Z",
+      "sourceId": "lootura-es-the-objective"
+    }
+  ],
+  "evidenceCount": 1
 }

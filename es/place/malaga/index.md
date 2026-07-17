@@ -3,10 +3,22 @@
 > Sigue la actividad de Málaga en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-17T06:12:48.444Z
+- Actualizado: 2026-07-17T09:54:46.288Z
 - Canonical: https://atlas.lootura.com/es/place/malaga
 
 ## Cambios recientes
+
+### Discovered by Atlas
+
+Málaga first entered the public knowledge record with source-backed evidence.
+
+Date: 2026-07-17
+
+### Los hoteleros de Málaga rechazan la moratoria que prohíbe levantar establecimientos turísticos
+
+La patronal hotelera de la Costa del Sol (Aehcos) ha apelado este viernes al diálogo y a la seguridad jurídica ante la moratoria de tres años aprobada por el Ayuntamiento de Málaga para nuevos hoteles y apartamentos turísticos en suelo residencial, una medida que considera ineficaz para resolver el problema del acceso.
+
+Date: 2026-07-17
 
 ### La autovía que nunca llega a Ronda: 30 años de espera y un exiguo primer paso
 
@@ -26,14 +38,6 @@ Cuatro firmas y una foto muy medida. Los presidentes de los clústeres Andalucí
 
 Date: 2026-07-17
 
-### Discovered by Atlas
-
-Málaga first entered the public knowledge record with source-backed evidence.
-
-Date: 2026-07-17
-
 ## Fuentes
 
-- [La autovía que nunca llega a Ronda: 30 años de espera y un exiguo primer paso](https://www.elconfidencial.com/espana/andalucia/2026-07-17/la-autovia-que-nunca-llega-a-ronda-30-anos-de-espera-y-un-exiguo-primer-paso_4391065/?utm_source=lootura.com) — 2026-07-17T03:00:00.000Z
-- [Registrado un ligero terremoto en la provincia de Málaga](https://www.elconfidencial.com/espana/2026-07-17/registrado-un-ligero-terremoto-en-la-provincia-de-malaga_4391448/?utm_source=lootura.com) — 2026-07-17T00:29:02.000Z
-- [La batalla por liderar la industria andaluza de defensa entra en una nueva fase](https://www.elconfidencial.com/espana/andalucia/2026-07-17/la-batalla-por-liderar-la-industria-andaluza-de-defensa-entra-en-una-nueva-fase_4391136/?utm_source=lootura.com) — 2026-07-17T03:00:00.000Z
+- [Los hoteleros de Málaga rechazan la moratoria que prohíbe levantar establecimientos turísticos](https://www.larazon.es/andalucia/hoteleros-malaga-rechazan-moratoria-que-prohibe-levantar-establecimientos-turisticos_202607176a59f6a8e9f2e84b5c6db1fa.html?utm_source=lootura.com) — 2026-07-17T09:32:51.000Z

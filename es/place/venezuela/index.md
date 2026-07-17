@@ -3,10 +3,16 @@
 > Sigue la actividad de Venezuela en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-17T02:26:45.462Z
+- Actualizado: 2026-07-17T09:54:46.288Z
 - Canonical: https://atlas.lootura.com/es/place/venezuela
 
 ## Cambios recientes
+
+### Venezuela supera las 4.900 víctimas mortales por los fuertes terremotos
+
+Las autoridades venezolanas han elevado este jueves a más de 4.900 el número de fallecidos por cuenta de los devastadores terremotos que sacudieron al país el pasado 24 de junio, mientras que el saldo de heridos se mantiene en 16.740 personas. Concretamente, el presidente de la Asamblea Nacional de Venezuela , Jorge Ro.
+
+Date: 2026-07-17
 
 ### Delcy, sobre su viaje a España en 2020: «Me invitó Ábalos para ver a las autoridades»
 
@@ -62,12 +68,6 @@ Ofreuddys Daniel Estrada Leal había sido médico en Venezuela antes de llegar a
 
 Date: 2026-07-14
 
-### Los latinoamericanos afiliados a la Seguridad Social superan por primera vez a los europeos
-
-Colombia, Venezuela, Perú, Ecuador, Argentina, Honduras... Los afiliados a la Seguridad Social de estas nacionalidades, y del resto que completan la veintena de Estados que forman Latinoamérica , ya superan al conjunto de cotizantes europeos en España. Por primera vez desde que hay registros consolidados (empiezan en 2.
-
-Date: 2026-07-14
-
 ## Fuentes
 
-No public source links.
+- [Venezuela supera las 4.900 víctimas mortales por los fuertes terremotos](https://theobjective.com/internacional/2026-07-17/venezuela-supera-4900-victimas/?utm_source=lootura.com) — 2026-07-17T08:21:18.000Z

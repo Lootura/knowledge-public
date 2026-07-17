@@ -1,16 +1,16 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-17T06:18:02.588Z",
+  "generatedAt": "2026-07-17T10:00:23.653Z",
   "radar": {
     "id": "es",
     "slug": "es",
     "locale": "es"
   },
   "state": {
-    "signature": "1.16.0|10|1784268768444",
+    "signature": "1.16.0|11|1784282086288",
     "version": "1.16.0",
-    "build": 10,
-    "latestEntityUpdatedAt": "2026-07-17T06:12:48.444Z"
+    "build": 11,
+    "latestEntityUpdatedAt": "2026-07-17T09:54:46.288Z"
   },
   "atlas": {
     "hero": {
@@ -20,66 +20,66 @@
       "title": "Trump anuncia una desclasificación que probaría injerencia electoral de China en EEUU",
       "url": "https://atlas.lootura.com/es/person/donald-trump",
       "path": "/es/person/donald-trump",
-      "updatedAt": "2026-07-17T06:12:48.444Z",
-      "score": 1568,
+      "updatedAt": "2026-07-17T09:54:46.288Z",
+      "score": 1616,
       "sourceCount": 108,
       "isBreaking": false,
       "isPinned": false
     },
     "cards": [
       {
-        "id": "es-espana",
-        "name": "España",
-        "type": "place",
-        "title": "Una masa de aire africano dispara las temperaturas este fin de semana y acerca a España a la tercera ola de calor del verano",
-        "url": "https://atlas.lootura.com/es/place/espana",
-        "path": "/es/place/espana",
-        "updatedAt": "2026-07-17T06:12:48.444Z",
-        "score": 1538,
-        "sourceCount": 311,
-        "isBreaking": false,
-        "isPinned": false
-      },
-      {
-        "id": "es-united-states",
-        "name": "Estados Unidos",
-        "type": "place",
-        "title": "Trump anuncia una desclasificación que probaría injerencia electoral de China en EEUU",
-        "url": "https://atlas.lootura.com/es/place/united-states",
-        "path": "/es/place/united-states",
-        "updatedAt": "2026-07-17T06:12:48.444Z",
-        "score": 1536,
-        "sourceCount": 94,
-        "isBreaking": false,
-        "isPinned": false
-      },
-      {
-        "id": "es-el-gobierno",
-        "name": "El Gobierno",
-        "type": "organization",
-        "title": "El Gobierno lo confirma y entra en vigor en noviembre de 2026: será obligatorio devolver las botellas de plástico para recuperar dinero",
-        "url": "https://atlas.lootura.com/es/organization/el-gobierno",
-        "path": "/es/organization/el-gobierno",
-        "updatedAt": "2026-07-17T06:12:48.444Z",
-        "score": 1525,
-        "sourceCount": 23,
-        "isBreaking": false,
-        "isPinned": false
-      },
-      {
         "id": "es-begona-gomez",
         "name": "Begoña Gómez",
         "type": "person",
-        "title": "La condena de Urdangarín servirá para juzgar a Begoña Gómez por usar su «vínculo matrimonial» para dirigir la cátedra de la Complutense",
+        "title": "Bolaños cree que la respuesta judicial al 'caso Begoña Gómez' no es adecuada ni contundente",
         "url": "https://atlas.lootura.com/es/person/begona-gomez",
         "path": "/es/person/begona-gomez",
-        "updatedAt": "2026-07-17T06:12:48.444Z",
-        "score": 1521,
-        "sourceCount": 26,
+        "updatedAt": "2026-07-17T09:54:46.288Z",
+        "score": 1584,
+        "sourceCount": 30,
+        "isBreaking": false,
+        "isPinned": false
+      },
+      {
+        "id": "es-pedro-sanchez",
+        "name": "Pedro Sánchez",
+        "type": "person",
+        "title": "Vicente Vallés, contundente tras ver que Begoña Gómez será juzgada por un jurado popular",
+        "url": "https://atlas.lootura.com/es/person/pedro-sanchez",
+        "path": "/es/person/pedro-sanchez",
+        "updatedAt": "2026-07-17T09:54:46.288Z",
+        "score": 1575,
+        "sourceCount": 158,
+        "isBreaking": false,
+        "isPinned": false
+      },
+      {
+        "id": "es-china",
+        "name": "China",
+        "type": "place",
+        "title": "Trump anuncia una desclasificación que probaría injerencia electoral de China en EEUU",
+        "url": "https://atlas.lootura.com/es/place/china",
+        "path": "/es/place/china",
+        "updatedAt": "2026-07-17T09:54:46.288Z",
+        "score": 1563,
+        "sourceCount": 32,
+        "isBreaking": false,
+        "isPinned": false
+      },
+      {
+        "id": "es-espana",
+        "name": "España",
+        "type": "place",
+        "title": "La ruta de Jesús Calleja por su rincón favorito de Castilla y León que no puedes perderte: «Parece Alaska, pero es España»",
+        "url": "https://atlas.lootura.com/es/place/espana",
+        "path": "/es/place/espana",
+        "updatedAt": "2026-07-17T09:54:46.288Z",
+        "score": 1563,
+        "sourceCount": 320,
         "isBreaking": false,
         "isPinned": false
       }
     ],
-    "publicEntityCount": 40
+    "publicEntityCount": 41
   }
 }

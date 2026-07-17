@@ -3,10 +3,16 @@
 > Sigue la actividad de Barcelona en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-17T06:12:48.444Z
+- Actualizado: 2026-07-17T09:54:46.288Z
 - Canonical: https://atlas.lootura.com/es/place/barcelona
 
 ## Cambios recientes
+
+### Detenida una empleada del hogar en Barcelona por robar dinero y joyas por valor de 390.000 euros
+
+Los Mossos d'Esquadra han detenido en Barcelona a una empleada del hogar acusada de robar dinero y joyas en varias casas en las que trabajaba por valor de 390.000 euro s, y han arrestado también a otra mujer que le ayudaba a vender las alhajas sustraídas, ha informado este viernes la policía catalana. Agentes de la Uni.
+
+Date: 2026-07-17
 
 ### Menos madera, más paisaje: la revolución de la barrica de vino
 
@@ -62,12 +68,7 @@ El Partido Popular ya logró concitar la irritación de los gobiernos de Pedro S
 
 Date: 2026-07-13
 
-### El filial del Barcelona de cuarta categoría lleva ya gastado más dinero que 10 equipos de Primera División
-
-El Barcelona ha comenzado este mercado de fichajes con mucho movimiento y millones gastados entre su primer equipo y su filial.
-
-Date: 2026-07-13
-
 ## Fuentes
 
-- [Menos madera, más paisaje: la revolución de la barrica de vino](https://www.abc.es/gastronomia/vinos/virtud-silencio-madera-vino-busca-frescura-20260716155912-nt.html?utm_source=lootura.com) — 2026-07-17T05:24:46.000Z
+- [Estos son los genes que hacen que seas más susceptible a la depresión, a la irritabilidad o a la inestabilidad emocional](https://www.larazon.es/salud/estos-son-genes-que-hacen-que-seas-mas-susceptibles-depresion-irritabilidad-inestabilidad-emocional_202607176a59f9030500ab412c9ab702.html?utm_source=lootura.com) — 2026-07-17T09:43:19.000Z
+- [Detenida una empleada del hogar en Barcelona por robar dinero y joyas por valor de 390.000 euros](https://www.larazon.es/cataluna/detenida-empleada-hogar-barcelona-robar-dinero-joyas-valor-390000-euros_202607176a59f8ae1db8de040993cfd1.html?utm_source=lootura.com) — 2026-07-17T09:41:02.000Z

@@ -3,7 +3,7 @@
 > Follow Maine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-17T06:13:09.528Z
+- Updated: 2026-07-17T09:55:08.806Z
 - Canonical: https://atlas.lootura.com/us/place/maine
 
 ## Recent changes
@@ -70,6 +70,5 @@ Date: 2026-07-15
 
 ## Sources
 
-- [Wife of Colombian father killed by ICE in Maine says they had planned to grow old together](https://www.nbcnews.com/news/us-news/wife-colombian-father-killed-ice-biddeford-maine-immigration-rcna587909?utm_source=lootura.com) — 2026-07-16T21:40:22.000Z
 - [Maine Democratic Senate candidates discuss which of Platner's ideas they would use](https://www.nbcnews.com/video/maine-democratic-senate-candidates-discuss-which-of-platner-s-ideas-they-would-use-266814533841?utm_source=lootura.com) — 2026-07-17T00:59:32.000Z
 - [5 Takeaways From a Maine Debate That Showed Replacing Platner Isn’t Easy](https://www.nytimes.com/2026/07/16/us/politics/maine-senate-debate-takeaways.html?utm_source=lootura.com) — 2026-07-17T02:07:46.000Z

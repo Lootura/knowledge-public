@@ -3,10 +3,28 @@
 > Sigue la actividad de Pedro Sánchez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-17T06:12:48.444Z
+- Actualizado: 2026-07-17T09:54:46.288Z
 - Canonical: https://atlas.lootura.com/es/person/pedro-sanchez
 
 ## Cambios recientes
+
+### Vicente Vallés, contundente tras ver que Begoña Gómez será juzgada por un jurado popular
+
+Begoña Gómez será juzgada por un jurado popular junto a su asesora en Moncloa, Cristina Álvarez. La Audiencia Provincial de Madrid ha avalado el criterio del juez Juan Carlos Peinado y ha confirmado que la causa se tramite por esta vía.La esposa de Pedro Sánchez está acusada de un presunto delito de tráfico de influenc.
+
+Date: 2026-07-17
+
+### Activistas despliegan una lona en protesta contra Sánchez en el Arco de Moncloa: «Pedro, cumple tu palabra»
+
+La mañana madrileña todavía refrescaba cuando, en torno a las 9.00 de la mañana, una imagen sorprendía en Moncloa. El Arco de la Victoria se convertía en improvisado escenario de una protesta encabezada por los activistas de la asociación ecológica Greenpeace. «Pedro, cumple tu palabra. Di NO a la nuclear» es lo que re.
+
+Date: 2026-07-17
+
+### Junqueras dice que el PSOE le «defraudó» y que «no hay confianza» en la legislatura
+
+El presidente de ERC , Oriol Junqueras , ha escenificado este viernes la contradicción que marca la relación de su partido con el Gobierno de Pedro Sánchez: asegura que el PSOE le ha «defraudado, una vez más» por los casos de corrupción que le afectan, pero mantiene su respaldo a la legislatura al considerar que la alt.
+
+Date: 2026-07-17
 
 ### La condena de Urdangarín servirá para juzgar a Begoña Gómez por usar su «vínculo matrimonial» para dirigir la cátedra de la Complutense
 
@@ -14,15 +32,15 @@ La esposa de Pedro Sánchez se sentará en el banquillo de los acusados, a la vu
 
 Date: 2026-07-17
 
-### El DAO niega ante el juez presiones a la UCO y que les ordenase "ponerse de perfil" con la investigación del hermano de Pedro Sánchez
-
-Manuel Llamas enmarca las informaciones reservadas incoadas contra la UCO dentro del normal funcionamiento interno de la Guardia Civil. Leer.
-
-Date: 2026-07-16
-
 ### El primer documental sobre Ángela Figuera busca fondos para completar la producción
 
 La escritora murciana María Sánchez-Saorín dirige 'Ángela. Una mujer de barro', que reivindica su lugar en la poesía.
+
+Date: 2026-07-16
+
+### El DAO niega ante el juez presiones a la UCO y que les ordenase "ponerse de perfil" con la investigación del hermano de Pedro Sánchez
+
+Manuel Llamas enmarca las informaciones reservadas incoadas contra la UCO dentro del normal funcionamiento interno de la Guardia Civil. Leer.
 
 Date: 2026-07-16
 
@@ -50,26 +68,10 @@ El presidente del Partido Popular, Alberto Núñez Feijóo , ha subrayado este m
 
 Date: 2026-07-16
 
-### ING duplicará antes de fin de año su equipo de banqueros privados
-
-Sandra Sánchez. Madrid ING sigue dando muestras de su apetito por crecer en el segmento de la banca privada en España. El banco neerlandés, que recientemente ha acordado la...
-
-Date: 2026-07-16
-
-### Abascal acusa a «Bruselas» de estar «encubriéndolo todo» tras su sentencia de la amnistía
-
-El líder de Vox, Santiago Abascal, ha cargado contra el Gobierno por el juicio a la mujer del presidente Pedro Sánchez , y las «cloacas» del ministro del Interior, Fernando Grande-Marlaska, y ha acusado a «Bruselas» de estar «encubriéndolo todo» tras el aval del Tribunal de Justicia de la Unión Europea a la Ley de Amni.
-
-Date: 2026-07-16
-
-### Sánchez se ha enfurruñado
-
-Se ha enfadado el yerno de Sabiniano, el padre de Begoña, que hizo fortuna con el sudor y las lágrimas de los hombres y mujeres a los que explotaba en sus puticlubs y saunas sexuales. Ya sé que resulta cansino nombrar a su suegro cada vez que se menciona al presidente del Gobierno, pero es obligado repetir hasta la sac.
-
-Date: 2026-07-16
-
 ## Fuentes
 
+- [Pedro Sánchez acudirá a la final del Mundial donde se encontrará con Trump y los Reyes... pero no con Milei](https://www.20minutos.es/nacional/pedro-sanchez-acudira-final-mundial-donde-se-encontrara-con-trump-los-reyes-pero-no-con-milei_7015784_0.html?utm_source=lootura.com) — 2026-07-17T08:11:33.000Z
+- [Vicente Vallés, contundente tras ver que Begoña Gómez será juzgada por un jurado popular](https://www.abc.es/play/television/noticias/vicente-valles-contundente-tras-ver-begona-gomez-20260717111808-nt.html?utm_source=lootura.com) — 2026-07-17T09:30:55.000Z
+- [Activistas despliegan una lona en protesta contra Sánchez en el Arco de Moncloa: «Pedro, cumple tu palabra»](https://www.abc.es/espana/madrid/activistas-despliegan-lona-protesta-sanchez-arco-moncloa-20260717105437-nt.html?utm_source=lootura.com) — 2026-07-17T09:04:21.000Z
 - [El primer documental sobre Ángela Figuera busca fondos para completar la producción](https://www.elcorreo.com/culturas/cine/primer-documental-sobre-angela-figuera-busca-fondos-20260716174814-nt_amp.html?utm_source=lootura.com) — 2026-07-16T22:59:05.000Z
-- [La condena de Urdangarín servirá para juzgar a Begoña Gómez por usar su «vínculo matrimonial» para dirigir la cátedra de la Complutense](https://www.eldebate.com/espana/20260717/precedente-supremo-servira-juzgar-begona-gomez-usar-vinculo-matrimonial-dirigir-catedra-complutense_440607.html?utm_source=lootura.com) — 2026-07-17T04:04:41.000Z
-- [El DAO niega ante el juez presiones a la UCO y que les ordenase "ponerse de perfil" con la investigación del hermano de Pedro Sánchez](https://www.elmundo.es/espana/2026/07/16/6a589907e85ece26028b45b3.html?utm_source=lootura.com) — 2026-07-16T16:23:11.000Z
+- [Junqueras dice que el PSOE le «defraudó» y que «no hay confianza» en la legislatura](https://theobjective.com/espana/politica/2026-07-17/junqueras-psoe-defraudo-no-confianza-legislatura/?utm_source=lootura.com) — 2026-07-17T08:54:39.000Z

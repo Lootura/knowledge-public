@@ -3,16 +3,10 @@
 > Sigue la actividad de China en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-17T06:12:48.444Z
+- Actualizado: 2026-07-17T09:54:46.288Z
 - Canonical: https://atlas.lootura.com/es/place/china
 
 ## Cambios recientes
-
-### Antonio Tajani: «No podemos dejar África solo en manos de China y Rusia»
-
-El vicepresidente del Gobierno y ministro de Asuntos Exteriores de Italia, Antonio Tajani , aboga por seguir trabajando en un mercado único europeo para competir con las grandes potencias en el nuevo tablero global y llama a España a ser un socio estratégico para Italia dentro del plan de inversiones que el país transa.
-
-Date: 2026-07-17
 
 ### Trump resucita en un discurso a la nación el bulo del fraude electoral de 2020 y exagera la influencia de China en su derrota
 
@@ -23,6 +17,12 @@ Date: 2026-07-17
 ### Trump anuncia una desclasificación que probaría injerencia electoral de China en EEUU
 
 El presidente de Estados Unidos, Donald Trump, ha anunciado este jueves la desclasificación y publicación de información «crítica» de inteligencia que.
+
+Date: 2026-07-17
+
+### Antonio Tajani: «No podemos dejar África solo en manos de China y Rusia»
+
+El vicepresidente del Gobierno y ministro de Asuntos Exteriores de Italia, Antonio Tajani , aboga por seguir trabajando en un mercado único europeo para competir con las grandes potencias en el nuevo tablero global y llama a España a ser un socio estratégico para Italia dentro del plan de inversiones que el país transa.
 
 Date: 2026-07-17
 
@@ -70,6 +70,5 @@ Date: 2026-07-16
 
 ## Fuentes
 
-- [Antonio Tajani: «No podemos dejar África solo en manos de China y Rusia»](https://www.abc.es/economia/antonio-tajani-podemos-dejar-africa-solo-manos-20260716134700-nt.html?utm_source=lootura.com) — 2026-07-17T05:23:39.000Z
 - [Trump resucita en un discurso a la nación el bulo del fraude electoral de 2020 y exagera la influencia de China en su derrota](https://elpais.com/internacional/2026-07-17/trump-resucita-en-un-discurso-a-la-nacion-el-bulo-del-fraude-electoral-de-2020-y-acusa-a-china-de-influir-en-su-derrota.html?utm_source=lootura.com) — 2026-07-17T01:28:02.000Z
 - [Trump anuncia una desclasificación que probaría injerencia electoral de China en EEUU](https://theobjective.com/internacional/2026-07-17/trump-desclasificacion-injerencia-electoral-china-eeuu/?amp=&utm_source=lootura.com) — 2026-07-17T05:41:49.000Z

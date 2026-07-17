@@ -3,7 +3,7 @@
 > Follow United States, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-17T06:13:09.528Z
+- Updated: 2026-07-17T09:55:08.806Z
 - Canonical: https://atlas.lootura.com/us/place/united-states
 
 ## Recent changes
@@ -56,15 +56,15 @@ NBC News’ Jane Timm analyzes President Trump’s claims about digital manipula
 
 Date: 2026-07-17
 
-### How Trump's election allegations against China could impact relations with U.S.
-
-President Trump accused China of having a role in influencing the 2020 election during his speech about election interference. NBC News' Garrett Haake has more on how this could impact China's relationship with the U.S.
-
-Date: 2026-07-17
-
 ### What to Know About Canada Wildfire Smoke and Air Quality in U.S. Cities
 
 A thick plume of smoke swept across the Midwest and New England, and those conditions could linger on Friday.
+
+Date: 2026-07-17
+
+### Wildfire smoke makes air unhealthy from the US Midwest to East Coast. Officials say stay inside
+
+Heavy, pungent wildfire smoke darkened skies in the U.S. on Thursday from the Great Lakes to parts of the East Coast, reducing visibility and prompting warnings that breathing the air outside could be dangerous.
 
 Date: 2026-07-17
 
@@ -78,5 +78,5 @@ Date: 2026-07-17
 - [Trump administration to declassify documents relating to China and U.S. elections](https://www.nbcnews.com/video/trump-administration-to-declassify-documents-relating-to-china-and-u-s-elections-266817605523?utm_source=lootura.com) — 2026-07-17T01:31:09.000Z
 - [How paper ballots make digital manipulation of results unlikely](https://www.nbcnews.com/video/how-paper-ballots-make-digital-manipulation-of-results-unlikely-266817605727?utm_source=lootura.com) — 2026-07-17T02:02:40.000Z
 - [Midwest sees world's worst air quality as wildfire smoke spreads](https://www.nbcnews.com/nightly-news/video/midwest-sees-world-s-worst-air-quality-as-wildfire-smoke-spreads-266808901711?utm_source=lootura.com) — 2026-07-16T22:45:59.000Z
-- [How Trump's election allegations against China could impact relations with U.S.](https://www.nbcnews.com/video/how-trump-s-election-allegations-against-china-could-impact-relations-with-u-s-266824261975?utm_source=lootura.com) — 2026-07-17T03:40:45.000Z
 - [Flood sirens blare in South Central Texas as rivers reach perilous heights](https://www.npr.org/2026/07/16/nx-s1-5896458/flood-sirens-texas-rivers-reach-dangerous-heights?utm_source=lootura.com) — 2026-07-16T21:30:03.000Z
+- [Dangerous wildfire smoke continues to blanket parts of the U.S.](https://www.npr.org/2026/07/16/nx-s1-5894857/wildfire-smoke-fires-ontario-minnesota?utm_source=lootura.com) — 2026-07-16T20:32:27.000Z

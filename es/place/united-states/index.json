@@ -8,18 +8,13 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/united-states/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/united-states/index.json",
   "description": "Sigue la actividad de Estados Unidos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-17T06:12:48.444Z",
+  "updatedAt": "2026-07-17T09:54:46.288Z",
   "aliases": [
     "America",
     "Estados Unidos",
     "U.S."
   ],
   "changes": [
-    {
-      "title": "El mercado se abona a la incertidumbre: las Bolsas borran el alto al fuego de Trump",
-      "summary": "Nadie dijo que fuera a ser fácil. El memorándum de Islamabad nació como un intento de ganar tiempo más que como una solución definitiva. El acuerdo frenó las hostilidades entre Estados Unidos e Irán y abrió una ventana de negociación de 60 días que los mercados interpretaron como el principio del fin de la crisis. Un m.",
-      "date": "2026-07-17"
-    },
     {
       "title": "Trump resucita en un discurso a la nación el bulo del fraude electoral de 2020 y exagera la influencia de China en su derrota",
       "summary": "Donald Trump, líder de un país en guerra y con el coste de la vida en alza, se dirigió este jueves por la noche a la nación para hablar de las elecciones... de hace seis años. No fue solo un intento de ajuste de cuentas con un fracaso personal; el presidente de Estados Unidos, cuya impopularidad bate récords, habló con.",
@@ -28,6 +23,16 @@
     {
       "title": "Trump anuncia una desclasificación que probaría injerencia electoral de China en EEUU",
       "summary": "El presidente de Estados Unidos, Donald Trump, ha anunciado este jueves la desclasificación y publicación de información «crítica» de inteligencia que.",
+      "date": "2026-07-17"
+    },
+    {
+      "title": "Un emulador y una demo del ordenador de bolsillo + calculadora científica Casio FX-870P",
+      "summary": "Los ordenadores de bolsillo fueron durante años una herramienta muy popular entre estudiantes e ingenieros japoneses, aunque en Europa y Estados Unidos nunca llegaron a despegar; quizá por eso no haya tanta documentación como de otros gadgets. Ahora un proyecto de esos creados artesanalmente, por amor al arte , permite.",
+      "date": "2026-07-17"
+    },
+    {
+      "title": "El mercado se abona a la incertidumbre: las Bolsas borran el alto al fuego de Trump",
+      "summary": "Nadie dijo que fuera a ser fácil. El memorándum de Islamabad nació como un intento de ganar tiempo más que como una solución definitiva. El acuerdo frenó las hostilidades entre Estados Unidos e Irán y abrió una ventana de negociación de 60 días que los mercados interpretaron como el principio del fin de la crisis. Un m.",
       "date": "2026-07-17"
     },
     {
@@ -59,26 +64,9 @@
       "title": "EE UU impone nuevos aranceles del 25% a gran parte de productos brasileños y acusa a Lula de no negociar “de buena fe”",
       "summary": "El Gobierno del presidente de Estados Unidos, Donald Trump, ha ordenado la imposición de un nuevo arancel del 25% sobre la mayor parte de productos brasileños importados desde este país, con fecha de aplicación a partir del 22 de julio. Es la conclusión de una investigación que acusaba a Brasil de competencia desleal.",
       "date": "2026-07-16"
-    },
-    {
-      "title": "Un estudio revela la huella del caballo español en buena parte de la caballería americana",
-      "summary": "Un estudio internacional con participación de la Facultad de Veterinaria de la Universidad de Córdoba (UCO) ha analizado por primera vez el genoma completo de las razas Barrocas y desvela la huella imborrable de la Pura Raza Española en el Lipizzano, Lusitano, Murgese y en las razas criollas de América del Sur. La UCO.",
-      "date": "2026-07-16"
     }
   ],
   "sources": [
-    {
-      "title": "Temor en España por la final: el duro juego argentino y el arbitraje preocupan a los fans",
-      "url": "https://www.20minutos.es/deportes/futbol/temor-espana-por-final-mundial-duro-juego-argentino-arbitraje-preocupan-los-aficionados_7015570_0.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-17T05:10:18.000Z",
-      "sourceId": "lootura-es-20minutos"
-    },
-    {
-      "title": "El mercado se abona a la incertidumbre: las Bolsas borran el alto al fuego de Trump",
-      "url": "https://cincodias.elpais.com/mercados-financieros/2026-07-17/el-mercado-se-abona-a-la-incertidumbre-las-bolsas-borran-el-alto-al-fuego-de-trump.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-17T03:25:00.000Z",
-      "sourceId": "lootura-es-cinco-dias"
-    },
     {
       "title": "Trump resucita en un discurso a la nación el bulo del fraude electoral de 2020 y exagera la influencia de China en su derrota",
       "url": "https://elpais.com/internacional/2026-07-17/trump-resucita-en-un-discurso-a-la-nacion-el-bulo-del-fraude-electoral-de-2020-y-acusa-a-china-de-influir-en-su-derrota.html?utm_source=lootura.com",
@@ -92,11 +80,17 @@
       "sourceId": "lootura-es-el-pais"
     },
     {
+      "title": "Un emulador y una demo del ordenador de bolsillo + calculadora científica Casio FX-870P",
+      "url": "http://www.microsiervos.com/archivo/gadgets/emulador-ordenador-bolsillo-calculadora-cientifica-casio-fx-870p.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-17T10:38:56.000Z",
+      "sourceId": "lootura-es-microsiervos"
+    },
+    {
       "title": "Trump anuncia una desclasificación que probaría injerencia electoral de China en EEUU",
       "url": "https://theobjective.com/internacional/2026-07-17/trump-desclasificacion-injerencia-electoral-china-eeuu/?amp=&utm_source=lootura.com",
       "publishedAt": "2026-07-17T05:41:49.000Z",
       "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 5
+  "evidenceCount": 4
 }

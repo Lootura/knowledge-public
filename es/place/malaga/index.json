@@ -8,9 +8,19 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/malaga/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/malaga/index.json",
   "description": "Sigue la actividad de Málaga en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-17T06:12:48.444Z",
+  "updatedAt": "2026-07-17T09:54:46.288Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Málaga first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-07-17"
+    },
+    {
+      "title": "Los hoteleros de Málaga rechazan la moratoria que prohíbe levantar establecimientos turísticos",
+      "summary": "La patronal hotelera de la Costa del Sol (Aehcos) ha apelado este viernes al diálogo y a la seguridad jurídica ante la moratoria de tres años aprobada por el Ayuntamiento de Málaga para nuevos hoteles y apartamentos turísticos en suelo residencial, una medida que considera ineficaz para resolver el problema del acceso.",
+      "date": "2026-07-17"
+    },
     {
       "title": "La autovía que nunca llega a Ronda: 30 años de espera y un exiguo primer paso",
       "summary": "Cuando un viajero llega en coche a Ronda desde Málaga , el paisaje da paso a una postal icónica del patrimonio andaluz: el Tajo, una espectacular garganta excavada por el río Guadalevín. Este verano, la apertura de la segunda fase del Camino del Desfiladero permitirá recorrer el interior de este famoso cortado, pasando.",
@@ -25,32 +35,15 @@
       "title": "La batalla por liderar la industria andaluza de defensa entra en una nueva fase",
       "summary": "Cuatro firmas y una foto muy medida. Los presidentes de los clústeres Andalucía Aerospace (Sevilla), Andalucía Logistics (Córdoba), Clúster Marítimo Naval de Cádiz y Railway Innovation Hub (Málaga) han suscrito este jueves en la Tecnoincubadora Marie Curie de Sevilla TechPark el acuerdo de constitución de la Alianza An.",
       "date": "2026-07-17"
-    },
-    {
-      "title": "Discovered by Atlas",
-      "summary": "Málaga first entered the public knowledge record with source-backed evidence.",
-      "date": "2026-07-17"
     }
   ],
   "sources": [
     {
-      "title": "La autovía que nunca llega a Ronda: 30 años de espera y un exiguo primer paso",
-      "url": "https://www.elconfidencial.com/espana/andalucia/2026-07-17/la-autovia-que-nunca-llega-a-ronda-30-anos-de-espera-y-un-exiguo-primer-paso_4391065/?utm_source=lootura.com",
-      "publishedAt": "2026-07-17T03:00:00.000Z",
-      "sourceId": "lootura-es-el-confidencial"
-    },
-    {
-      "title": "Registrado un ligero terremoto en la provincia de Málaga",
-      "url": "https://www.elconfidencial.com/espana/2026-07-17/registrado-un-ligero-terremoto-en-la-provincia-de-malaga_4391448/?utm_source=lootura.com",
-      "publishedAt": "2026-07-17T00:29:02.000Z",
-      "sourceId": "lootura-es-el-confidencial"
-    },
-    {
-      "title": "La batalla por liderar la industria andaluza de defensa entra en una nueva fase",
-      "url": "https://www.elconfidencial.com/espana/andalucia/2026-07-17/la-batalla-por-liderar-la-industria-andaluza-de-defensa-entra-en-una-nueva-fase_4391136/?utm_source=lootura.com",
-      "publishedAt": "2026-07-17T03:00:00.000Z",
-      "sourceId": "lootura-es-el-confidencial"
+      "title": "Los hoteleros de Málaga rechazan la moratoria que prohíbe levantar establecimientos turísticos",
+      "url": "https://www.larazon.es/andalucia/hoteleros-malaga-rechazan-moratoria-que-prohibe-levantar-establecimientos-turisticos_202607176a59f6a8e9f2e84b5c6db1fa.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-17T09:32:51.000Z",
+      "sourceId": "lootura-es-la-razon"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 1
 }

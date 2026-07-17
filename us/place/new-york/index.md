@@ -70,4 +70,4 @@ Date: 2026-07-14
 
 ## Sources
 
-- [‘Everybody Watches’: TIME100 Sports Honorees on Red Carpet Celebrate Rise of Women’s Sports](https://time.com/article/2026/07/17/time100-sports-gala-red-carpet-women-eileen-gu-hilary-knight-trinity-rodman/?utm_source=lootura.com) — 2026-07-17T06:00:09.000Z
+No public source links.

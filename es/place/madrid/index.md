@@ -3,20 +3,50 @@
 > Sigue la actividad de Madrid en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-17T06:12:48.444Z
+- Actualizado: 2026-07-17T09:54:46.288Z
 - Canonical: https://atlas.lootura.com/es/place/madrid
 
 ## Cambios recientes
 
-### Menos madera, más paisaje: la revolución de la barrica de vino
+### 🎙 PODCAST | ¿Acabará Feijóo siendo presidente gracias a la amnistía?
 
-En una mesa de cuatro comensales en cualquier rincón de Madrid, Barcelona, Sevilla, Valencia o Logroño, una botella de tinto bien escogido puede desaparecer en cuestión de diez o doce minutos. No es por una sed desenfrenada ni por falta de modales; es el síntoma de un cambio de paradigma en el consumo de vino en España.
+Dijo que era terrorismo, golpe de Estado, delincuencia, corrupción, que había que ilegalizarlos, que negociar era traicionar a la patria, secuestrar la democracia. Y ahora puede beneficiarse de lo que intentó boicotear Un tema Al día, ¡en el teatro! Ven a verlo en directo el 3 de octubre en Madrid. Consigue ya tus entr.
 
 Date: 2026-07-17
 
-### 🎙 PODCAST | ¿Acabará Feijóo siendo presidente gracias a la amnistía?
+### México decidirá si las obras de Frida Kahlo en manos privadas podrán exhibirse fuera del país
 
-Dijo que era terrorismo, golpe de Estado, delincuecia, corrupcion, que había que ilegalizarlos, que negociar era traicionar a la patria, secuestrar la democracia. Y ahora puede beneficiarse de lo que intentó boicotear Un tema Al día, ¡en el teatro! Ven a verlo en directo el 3 de octubre en Madrid. Consigue ya tus entra.
+El máximo tribunal debe resolver un debate expuesto. Por un lado, un decreto presidencial emitido en 1984 por el presidente Miguel de la Madrid Hurtado declaró monumento artístico toda la obra de Frida Kahlo (incluyendo sus pinturas de caballete, obra gráfica y documentos) y prohibió estrictamente su salida del país.Po.
+
+Date: 2026-07-17
+
+### Vicente Vallés, contundente tras ver que Begoña Gómez será juzgada por un jurado popular
+
+Begoña Gómez será juzgada por un jurado popular junto a su asesora en Moncloa, Cristina Álvarez. La Audiencia Provincial de Madrid ha avalado el criterio del juez Juan Carlos Peinado y ha confirmado que la causa se tramite por esta vía.La esposa de Pedro Sánchez está acusada de un presunto delito de tráfico de influenc.
+
+Date: 2026-07-17
+
+### Detenidos dos hombres tras ser sorprendidos robando en un restaurante de Chamberí (Madrid)
+
+Agentes de la Policía Nacional han detenido a dos hombres como presuntos autores de delitos de robo con fuerza tras sorprenderlos 'in fraganti' mientras cometían un robo en un restaurante del distrito madrileño de Chamberí y relacionarlos posteriormente con otros dos asaltos en establecimientos de la zona. Los hechos o.
+
+Date: 2026-07-17
+
+### Cómo se elegirán a los nueve miembros del jurado que juzgarán a Begoña Gómez: así es la lista de los candidatos
+
+La elección de los nueve miembros del jurado que juzgarán a Begoña Gómez partirá de una lista de 2.846 candidatos de la Comunidad de Madrid . De ese registro se convocará a 30 ciudadanos , entre los que se escogerá a los nueve titulares y a dos suplentes que participarán en el juicio. La Audiencia Provincial de Madrid.
+
+Date: 2026-07-17
+
+### Carmen Lomana, madrina del bautizo que celebró el futuro de dos grandes sagas de la aristocracia española
+
+En la aristocracia española, los bautizos representan el relevo generacional de algunos de los apellidos más ilustres del país. Así ha ocurrido con el bautizo del hijo de Casilda Ghisla Fernández de Córdoba y Guerrero-Burgos y Rodrigo Moreno de Borbón-Dos Sicilias , duques de Cardona, una cita que ha reunido en Madrid.
+
+Date: 2026-07-17
+
+### Menos madera, más paisaje: la revolución de la barrica de vino
+
+En una mesa de cuatro comensales en cualquier rincón de Madrid, Barcelona, Sevilla, Valencia o Logroño, una botella de tinto bien escogido puede desaparecer en cuestión de diez o doce minutos. No es por una sed desenfrenada ni por falta de modales; es el síntoma de un cambio de paradigma en el consumo de vino en España.
 
 Date: 2026-07-17
 
@@ -38,40 +68,11 @@ La Audiencia Provincial de Madrid ha respaldado la decisión del juez Juan Carlo
 
 Date: 2026-07-17
 
-### Aún le puede tocar juzgar a Begoña
-
-A la vuelta de las vacaciones, en el mes de septiembre, se producirá el sorteo para determinar la lista de ciudadanos madrileños que formarán parte de los jurados populares de la Audiencia de Madrid durante los dos próximos años. Entre los que resulten de ese proceso se encontrarán, sí o sí, los nueve jurados más dos s.
-
-Date: 2026-07-17
-
-### Incendio en Lozoyuela, en directo: Madrid eleva a situación 2 y pide ayuda a la UME
-
-Sigue en directo la última hora del incendio forestal declarado en Lozoyuela, en la Comunidad de Madrid.
-
-Date: 2026-07-17
-
-### Digi: montaña rusa en su estreno en Bolsa
-
-Lleno total en la Bolsa de Madrid ayer, que vivió el debut de Digi Spain y se engalanó de azul para la ocasión. Pero la empresa de telecomunicaciones, aunque arrancó con fuerza, fue perdiendo brío y al cierre bajó un 8,04, hasta los 5,15 euros. Protagonizó el peor estreno del parqué español desde la escisión de Inmocem.
-
-Date: 2026-07-16
-
-### La Audiencia de Madrid avala que la causa contra Begoña Gómez siga adelante por jurado por dos delitos
-
-La Audiencia Provincial de Madrid ha dado luz verde a que el proceso por jurado popular contra Begoña Gómez, esposa de Pedro Sánchez, siga adelante por dos delitos: tráfico de influencias y malversación. El tribunal avala así parcialmente la decisión del juez Juan Carlos Peinado de enviar al banquillo a la pareja del p.
-
-Date: 2026-07-16
-
-### Un incendio en Lozoyuela (Madrid) obliga a confinar varios pueblos tras el envío de la alerta
-
-La Comunidad de Madrid ha activado la Situación Operativa 2 del Plan Infoma por el incendio forestal de Lozoyuela y ha mandado un mensaje a través del sistema Es-Alert para ordenar el confinamiento de la población afectada en la localidad de Buitrago de Lozoya y las pedanías de Cinco Villas y Manjirón , ambas en el mun.
-
-Date: 2026-07-16
-
 ## Fuentes
 
-- [Menos madera, más paisaje: la revolución de la barrica de vino](https://www.abc.es/gastronomia/vinos/virtud-silencio-madera-vino-busca-frescura-20260716155912-nt.html?utm_source=lootura.com) — 2026-07-17T05:24:46.000Z
+- [México decidirá si las obras de Frida Kahlo en manos privadas podrán exhibirse fuera del país](https://www.abc.es/cultura/arte/mexico-decidira-obras-frida-kahlo-manos-privadas-20260717111429-nt.html?utm_source=lootura.com) — 2026-07-17T09:14:29.000Z
+- [Vicente Vallés, contundente tras ver que Begoña Gómez será juzgada por un jurado popular](https://www.abc.es/play/television/noticias/vicente-valles-contundente-tras-ver-begona-gomez-20260717111808-nt.html?utm_source=lootura.com) — 2026-07-17T09:30:55.000Z
+- [Detenidos dos hombres tras ser sorprendidos robando en un restaurante de Chamberí (Madrid)](https://www.elconfidencial.com/espana/madrid/2026-07-17/robo-restaurante-chamberi-policia-1tna-1tps_4391551/?utm_source=lootura.com) — 2026-07-17T07:35:00.000Z
+- [Cómo se elegirán a los nueve miembros del jurado que juzgarán a Begoña Gómez: así es la lista de los candidatos](https://www.elconfidencial.com/espana/2026-07-17/como-elegiran-nueve-miembros-jurado-begona-gomez_4391555/?utm_source=lootura.com) — 2026-07-17T09:22:00.000Z
 - [🎙 PODCAST | ¿Acabará Feijóo siendo presidente gracias a la amnistía?](https://www.eldiario.es/blog/al-dia/podcast-acabara-feijoo-siendo-presidente-gracias-amnistia_132_13386027.html?utm_source=lootura.com) — 2026-07-17T06:30:00.000Z
-- [Digi: montaña rusa en su estreno en Bolsa](https://www.expansion.com/mercados/2026/07/17/6a592581e5fdea4a758b458e.html?utm_source=lootura.com) — 2026-07-16T23:34:50.000Z
-- [Así es el “gran pantano subterráneo” de Madrid](https://www.larazon.es/madrid/asi-gran-pantano-subterraneo-madrid_202607176a59c3df0500ab412c9a5f0f.html?utm_source=lootura.com) — 2026-07-17T05:55:44.000Z
-- [Los trenes Extremadura-Madrid iniciarán y finalizarán su recorrido en Leganés desde este viernes](https://www.larazon.es/madrid/trenes-extremaduramadrid-iniciaran-finalizaran-recorrido-leganes-este-viernes_202607176a59c2a21db8de040993762c.html?utm_source=lootura.com) — 2026-07-17T05:50:26.000Z
+- [Carmen Lomana, madrina del bautizo que celebró el futuro de dos grandes sagas de la aristocracia española](https://okdiario.com/cool/famosos/carmen-lomana-madrina-del-bautizo-que-celebro-futuro-dos-grandes-sagas-aristocracia-espanola-19015126?utm_source=lootura.com) — 2026-07-17T09:38:41.000Z
