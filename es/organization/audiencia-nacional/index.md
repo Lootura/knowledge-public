@@ -3,10 +3,28 @@
 > Sigue la actividad de Audiencia Nacional en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-17T09:54:46.288Z
+- Actualizado: 2026-07-17T13:22:29.680Z
 - Canonical: https://atlas.lootura.com/es/organization/audiencia-nacional
 
 ## Cambios recientes
+
+### Mercedes González, sobre las presiones a un general para boicotear a Ayuso: «Yo no dicté la orden»
+
+«Yo no la dicté». Esa ha sido la respuesta de la directora de la Guardia Civil Mercedes González cuando le han preguntado este viernes en la Audiencia Nacional si ella fue la persona que dictó la «instrucción política» para que el general jefe de la zona de Madrid, Fernando Mora, plantará al Gobierno de Isabel Díaz Ayu.
+
+Date: 2026-07-17
+
+### El imputado DAO de la Guardia Civil critica las pesquisas de la UCO con «proactividad tóxica»
+
+Al director adjunto operativo (DAO) de la Guardia Civil, el teniente general Manuel Llamas, se le acumulan las explicaciones. Este jueves declaró como investigado ante la Audiencia Nacional por dos presuntos delitos de prevaricación y obstrucción a la Justicia en el marco de las 'cloacas' del PSOE, presuntamente lidera.
+
+Date: 2026-07-17
+
+### Puente anima a Puigdemont a regresar a España y ser detenido: “Sería un gesto de liderazgo político”
+
+El ministro de Transportes, el socialista Óscar Puente, se ha manifestado este viernes sobre las sentencias del TJUE que la víspera avalaron la amnistía. “Son muy graves, no solo porque ponen de manifiesto el error jurídico en el que incurren el Tribunal Supremo o la Audiencia Nacional a la hora de plantear que la ley.
+
+Date: 2026-07-17
 
 ### Declaración de Mercedes González, en directo: última hora de su comparecencia como imputada en el caso Leire
 
@@ -50,24 +68,8 @@ ha confirmado que, entre los años 2008 y 2018, existió un cártel formado por 
 
 Date: 2026-07-16
 
-### Caso Leire Díez, en directo: Declaran la directora de la Guardia Civil y el DAO en la Audiencia Nacional
-
-afronta este jueves una jornada clave del ' caso Leire Díez '. El juez Santiago Pedraz interrogará como investigados a la directora general de la Guardia Civil, Mercedes González, y al director adjunto operativo (DAO), Manuel Llamas. Todo ello, dentro de la investigación sobre la presunta trama pa.
-
-Date: 2026-07-16
-
-### Discovered by Atlas
-
-La Audiencia Nacional first entered the public knowledge record with source-backed evidence.
-
-Date: 2026-07-16
-
-### La Audiencia Nacional confirma el cártel de las consultoras con más de una veintena de firmas implicadas
-
-La Audiencia Nacional ha confirmado que, entre los años 2008 y 2018, existió un cártel formado por empresas de consultoría , que intercambiaron información comercial sensible y se sirvieron de estrategias comunes para garantizarse licitaciones públicas. En cinco sentencias, consultadas por este periódico, la Sala de lo.
-
-Date: 2026-07-16
-
 ## Fuentes
 
-- [Declaración de Mercedes González, en directo: última hora de su comparecencia como imputada en el caso Leire](https://www.larazon.es/espana/declaracion-mercedes-gonzalez-directo-ultima-hora-comparecencia-como-imputada-caso-leire_202607176a59ec781db8de040993b943.html?outputType=amp&utm_source=lootura.com) — 2026-07-17T09:45:17.000Z
+- [Mercedes González, sobre las presiones a un general para boicotear a Ayuso: «Yo no dicté la orden»](https://www.abc.es/espana/gonzalez-sobre-presiones-general-boicotear-ayuso-dicte-20260717140052-nt.html?utm_source=lootura.com) — 2026-07-17T12:30:21.000Z
+- [El imputado DAO de la Guardia Civil critica las pesquisas de la UCO con «proactividad tóxica»](https://www.abc.es/espana/imputado-dao-guardia-civil-aprecia-exceso-protagonismo-20260717135305-nt.html?utm_source=lootura.com) — 2026-07-17T12:51:51.000Z
+- [Puente anima a Puigdemont a regresar a España y ser detenido: “Sería un gesto de liderazgo político”](https://www.lavanguardia.com/politica/20260717/11594602/puente-anima-puigdemont-regresar-espana-detenido-seria-gesto-liderazgo-politico.html?utm_source=lootura.com) — 2026-07-17T10:26:10.000Z

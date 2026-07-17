@@ -3,7 +3,7 @@
 > Sigue la actividad de FIFA en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-17T09:54:46.288Z
+- Actualizado: 2026-07-17T13:22:29.680Z
 - Canonical: https://atlas.lootura.com/es/organization/fifa
 
 ## Cambios recientes
@@ -28,4 +28,4 @@ Date: 2026-07-08
 
 ## Fuentes
 
-- [Pedro Sánchez acudirá a la final del Mundial donde se encontrará con Trump y los Reyes... pero no con Milei](https://www.20minutos.es/nacional/pedro-sanchez-acudira-final-mundial-donde-se-encontrara-con-trump-los-reyes-pero-no-con-milei_7015784_0.html?utm_source=lootura.com) — 2026-07-17T08:11:33.000Z
+- [La FIFA escoge al árbitro esloveno Slavko Vincic para dirigir la final del Mundial entre España y Argentina](https://elpais.com/deportes/mundial-futbol/2026-07-17/la-fifa-escoge-al-arbitro-esloveno-slavko-vincic-para-dirigir-la-final-del-mundial-entre-espana-y-argentina.html?utm_source=lootura.com) — 2026-07-17T09:48:44.000Z

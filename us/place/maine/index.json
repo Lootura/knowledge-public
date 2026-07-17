@@ -8,17 +8,22 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/maine/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/maine/index.json",
   "description": "Follow Maine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-17T09:55:08.806Z",
+  "updatedAt": "2026-07-17T13:22:45.540Z",
   "aliases": [],
   "changes": [
     {
-      "title": "Maine Democratic Senate candidates discuss which of Platner's ideas they would use",
-      "summary": "Maine Democratic Senate candidates Nirav Shah, Shenna Bellows, Jordan Wood and Troy Jackson discuss which ideas from Graham Platner's platform they would use if they are chosen as the nominee.",
+      "title": "5 Takeaways From a Maine Debate That Showed Replacing Platner Isn’t Easy",
+      "summary": "Maine Democrats vying to become the state’s new Senate nominee met, and mostly agreed, at a debate filled with halting answers and stilted deliveries.",
       "date": "2026-07-17"
     },
     {
-      "title": "5 Takeaways From a Maine Debate That Showed Replacing Platner Isn’t Easy",
-      "summary": "Maine Democrats vying to become the state’s new Senate nominee met, and mostly agreed, at a debate filled with halting answers and stilted deliveries.",
+      "title": "‘Professional malpractice’: The Platner fallout engulfs the operatives who made him",
+      "summary": "When Daniel Moraff showed up on Graham Platner's doorstep last summer, the oyster farmer had a message for the young political operative who had traveled to the Maine coast to convince him to run for the U.S. Senate: \"Get the fuck off my property.\" It took weeks of prodding before Platner relented, according to two peo.",
+      "date": "2026-07-17"
+    },
+    {
+      "title": "Maine Democratic Senate candidates discuss which of Platner's ideas they would use",
+      "summary": "Maine Democratic Senate candidates Nirav Shah, Shenna Bellows, Jordan Wood and Troy Jackson discuss which ideas from Graham Platner's platform they would use if they are chosen as the nominee.",
       "date": "2026-07-17"
     },
     {
@@ -55,19 +60,14 @@
       "title": "Here Are the Maine Democrats Running to Replace Graham Platner",
       "summary": "To win, they’ll have to convince Democrats at a July 25 convention that they’re the best candidate to take on Senator Susan Collins, a Republican.",
       "date": "2026-07-15"
-    },
-    {
-      "title": "Maine Democrats’ Adventurous Political Experiment",
-      "summary": "The party’s leaders have a political experiment on their hands.",
-      "date": "2026-07-15"
     }
   ],
   "sources": [
     {
-      "title": "Maine Democratic Senate candidates discuss which of Platner's ideas they would use",
-      "url": "https://www.nbcnews.com/video/maine-democratic-senate-candidates-discuss-which-of-platner-s-ideas-they-would-use-266814533841?utm_source=lootura.com",
-      "publishedAt": "2026-07-17T00:59:32.000Z",
-      "sourceId": "lootura-us-nbc-news"
+      "title": "‘Professional malpractice’: The Platner fallout engulfs the operatives who made him",
+      "url": "https://www.politico.com/news/2026/07/17/platner-is-finished-does-the-same-fate-await-the-out-of-state-consultants-who-recruited-him-01002652?utm_source=lootura.com",
+      "publishedAt": "2026-07-17T09:55:00.000Z",
+      "sourceId": "lootura-us-politico"
     },
     {
       "title": "5 Takeaways From a Maine Debate That Showed Replacing Platner Isn’t Easy",

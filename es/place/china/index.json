@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/china/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/china/index.json",
   "description": "Sigue la actividad de China en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-17T09:54:46.288Z",
+  "updatedAt": "2026-07-17T13:22:29.680Z",
   "aliases": [],
   "changes": [
     {
       "title": "Trump resucita en un discurso a la nación el bulo del fraude electoral de 2020 y exagera la influencia de China en su derrota",
       "summary": "Donald Trump, líder de un país en guerra y con el coste de la vida en alza, se dirigió este jueves por la noche a la nación para hablar de las elecciones... de hace seis años. No fue solo un intento de ajuste de cuentas con un fracaso personal; el presidente de Estados Unidos, cuya impopularidad bate récords, habló con.",
+      "date": "2026-07-17"
+    },
+    {
+      "title": "XPENG L03: el SUV chino con diseño español",
+      "summary": "La marca china Xpeng crece sin parar en el mercado global. Por ello ha realizado una macro-presentación en Múnich con miles de invitados para mostrar su alto nivel tecnológico (que excede del mundo del automóvil), como su taxi volador o su humanoide IRON. Aunque la estrella fue el nuevo L03, un SUV de segmento C y tecn.",
       "date": "2026-07-17"
     },
     {
@@ -55,11 +60,6 @@
       "title": "Cómo el ‘Temu Range Rover’ de China se convirtió en el coche más vendido de Gran Bretaña",
       "summary": "Los Land Rover son tan británicos como el rey, los crumpets y el críquet. Este robusto todoterreno ha sido un caballo de batalla para el ejército británico desde 1948. La familia real cuenta con una flota de Landys en su castillo de Escocia. Y en los Cotswolds —el destino de fin de semana por excelencia de Inglaterra,.",
       "date": "2026-07-16"
-    },
-    {
-      "title": "El 'efecto Trump': China ya es más popular que Estados Unidos",
-      "summary": "Un año y medio después de su regreso a la Casa Blanca, Donald Trump ya ha logrado un vuelco planetario: por primera vez, China tiene una visión más favorable que Estados Unidos a nivel global . Así lo demuestra la última edición del estudio anual de opinión pública realizado por el Pew Research Center, publicada este j.",
-      "date": "2026-07-16"
     }
   ],
   "sources": [
@@ -70,10 +70,10 @@
       "sourceId": "lootura-es-el-pais"
     },
     {
-      "title": "Trump anuncia una desclasificación que probaría injerencia electoral de China en EEUU",
-      "url": "https://theobjective.com/internacional/2026-07-17/trump-desclasificacion-injerencia-electoral-china-eeuu/?amp=&utm_source=lootura.com",
-      "publishedAt": "2026-07-17T05:41:49.000Z",
-      "sourceId": "lootura-es-the-objective"
+      "title": "XPENG L03: el SUV chino con diseño español",
+      "url": "https://www.larazon.es/motor/xpeng-l03-suv-chino-diseno-espanol_202607176a5a27640500ab412c9b1226.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-17T13:00:20.000Z",
+      "sourceId": "lootura-es-la-razon"
     }
   ],
   "evidenceCount": 2

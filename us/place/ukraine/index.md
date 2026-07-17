@@ -3,10 +3,16 @@
 > Follow Ukraine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-17T09:55:08.806Z
+- Updated: 2026-07-17T13:22:45.540Z
 - Canonical: https://atlas.lootura.com/us/place/ukraine
 
 ## Recent changes
+
+### A Russian Political Battle Ends With a Visit From Masked Men
+
+Boris B. Nadezhdin, an outspoken opponent of the war in Ukraine, says he knows why he was detained: “Among our leadership, there is panic and chaos.”.
+
+Date: 2026-07-17
 
 ### He Was a Russian Political Survivor, Until the Masked Men Appeared
 
@@ -62,13 +68,7 @@ Drones have become a defining feature of the conflict between Russia and Ukraine
 
 Date: 2026-07-16
 
-### Zelenskyy fires Ukraine's tech-savvy defense minister in government reshuffle
-
-Ukraine's President Volodymyr Zelenskyy has fired the country's popular defense minister, who pushed for innovation in the battlefield through the use of drones and turned the tables on Russia. (Image credit: ROMAN PILIPEY).
-
-Date: 2026-07-16
-
 ## Sources
 
 - [Ukraine Was on a Roll. Then a Clash Over War Strategy Exploded Into View.](https://www.nytimes.com/2026/07/16/world/europe/ukraine-military-defense-minister-drones.html?utm_source=lootura.com) — 2026-07-16T22:01:29.000Z
-- [He Was a Russian Political Survivor, Until the Masked Men Appeared](https://www.nytimes.com/2026/07/17/world/europe/russia-politics-election-nadezhdin.html?utm_source=lootura.com) — 2026-07-17T08:31:14.000Z
+- [A Russian Political Battle Ends With a Visit From Masked Men](https://www.nytimes.com/2026/07/17/world/europe/russia-politics-election-nadezhdin.html?utm_source=lootura.com) — 2026-07-17T13:02:30.000Z

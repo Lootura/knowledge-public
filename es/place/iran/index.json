@@ -8,9 +8,14 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/iran/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/iran/index.json",
   "description": "Sigue la actividad de Iran en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-17T06:12:48.444Z",
+  "updatedAt": "2026-07-17T13:22:29.680Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "El primer portaviones nuclear de Estados Unidos camino al desguace y no tiene nada que ver con Irán",
+      "summary": "La Armada de Estados Unidos ha adjudicado un contrato histórico de 418 millones de dólares para desguazar el USS Enterprise. La primera embarcación de su clase propulsada por energía nuclear será desmantelada.",
+      "date": "2026-07-17"
+    },
     {
       "title": "Los economistas prevén que los alimentos suban hasta un 9 % en 2027 por la guerra en Irán y el clima extremo",
       "summary": "El encarecimiento de las materias primas por la guerra en Irán y el actual episodio de fenómenos meteorológicos extremos impulsarán el precio de los alimentos el año que viene , si bien es el segundo de estos dos factores el que más preocupa a los economistas. Tanto las previsiones del Banco Central Europeo (BCE) como.",
@@ -55,13 +60,15 @@
       "title": "Trump se enreda de nuevo en una guerra de Irán sin salida clara",
       "summary": "En las jornadas posteriores al ataque conjunto de Israel y Estados Unidos contra Irán del pasado 28 de febrero, Donald Trump cambió al menos una docena de veces de argumentos para justificar una operación militar que evitó llamar por su nombre (“guerra”, palabra que aún se resiste a emplear). Sobre su duración también.",
       "date": "2026-07-16"
-    },
-    {
-      "title": "Trump amenaza con atacar infraestructuras civiles si Irán no vuelve a negociar",
-      "summary": "Estados Unidos ha reimpuesto el bloqueo naval sobre los puertos iraníes y ha intensificado su campaña de bombardeos contra la república islámica, en una nueva escalada de ataques que amenaza con devolver a Oriente Próximo a una guerra abierta y que vuelve a situar el estrecho de Ormuz en el centro del enfrentamiento.La.",
-      "date": "2026-07-15"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "El primer portaviones nuclear de Estados Unidos camino al desguace y no tiene nada que ver con Irán",
+      "url": "https://www.larazon.es/tecnologia-consumo/primer-portaviones-nuclear-estados-unidos-camino-desguace-no-tiene-nada-ver-iran_202607176a59ee4c1db8de040993bc9d.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-17T13:18:00.000Z",
+      "sourceId": "lootura-es-la-razon"
+    }
+  ],
+  "evidenceCount": 1
 }

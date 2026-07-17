@@ -3,10 +3,46 @@
 > Sigue la actividad de Madrid en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-17T09:54:46.288Z
+- Actualizado: 2026-07-17T13:22:29.680Z
 - Canonical: https://atlas.lootura.com/es/place/madrid
 
 ## Cambios recientes
+
+### Cómo se elegirán a los nueve miembros del jurado que juzgarán a Begoña Gómez: así es la lista de los candidatos
+
+La elección de los nueve miembros del jurado que juzgarán a Begoña Gómez partirá de una lista de 2.846 candidatos de la Comunidad de Madrid . De ese registro se convocará a 30 ciudadanos , entre los que se escogerá a los nueve titulares y a dos suplentes que participarán en el juicio. La Audiencia Provincial de Madrid.
+
+Date: 2026-07-17
+
+### El cierre de unas clínicas dentales en Madrid deja sin tratamientos a decenas de clientes: "Son unos ladrones"
+
+El repentino cierre de la cadena de clínicas dentales Lashen, con cuatro establecimientos en la Comunidad de Madrid (dos en la capital, uno en Alcorcón y otro en Torrejón de Ardoz), ha dejado a decenas de clientes con tratamientos iniciados sin completar y, en algunos casos, habiendo pagado importantes cantidades de di.
+
+Date: 2026-07-17
+
+### Mercedes González, sobre las presiones a un general para boicotear a Ayuso: «Yo no dicté la orden»
+
+«Yo no la dicté». Esa ha sido la respuesta de la directora de la Guardia Civil Mercedes González cuando le han preguntado este viernes en la Audiencia Nacional si ella fue la persona que dictó la «instrucción política» para que el general jefe de la zona de Madrid, Fernando Mora, plantará al Gobierno de Isabel Díaz Ayu.
+
+Date: 2026-07-17
+
+### La directora de la Guardia Civil sopesó destituir a Mora, pero desistió: «No podemos hacer otro mártir»
+
+La amenaza del cese sobrevoló al general Fernando Mora apenas unos meses después de su nombramiento como general jefe de zona de Madrid en septiembre de 2024. Al mes de asumir el mando tuvo su primer enfrentamiento a cuenta de su toma de posesión, un acto de naturaleza castrense en el que se traspasa el mando de la fue.
+
+Date: 2026-07-17
+
+### Cuándo será el juicio a Begoña Gómez: delitos de los que se le acusan y previsión de fechas
+
+El calendario judicial apunta a 2027 como el horizonte más probable para la celebración de uno de los juicios con mayor repercusión pública de los últimos años. Aunque todavía no existe una fecha concreta , los trámites pendientes, la composición del tribunal y la carga de trabajo de la Audiencia Provincial de Madrid h.
+
+Date: 2026-07-17
+
+### Cerdán quiso que Servinabar le comprara un piso de lujo de un millón en el centro de Madrid
+
+El ex secretario de Organización del PSOE Santos Cerdán intentó adquirir en 2021 una vivienda en el conocido Edificio Princesa, en el centro de Madrid,.
+
+Date: 2026-07-17
 
 ### 🎙 PODCAST | ¿Acabará Feijóo siendo presidente gracias a la amnistía?
 
@@ -32,47 +68,12 @@ Agentes de la Policía Nacional han detenido a dos hombres como presuntos autore
 
 Date: 2026-07-17
 
-### Cómo se elegirán a los nueve miembros del jurado que juzgarán a Begoña Gómez: así es la lista de los candidatos
-
-La elección de los nueve miembros del jurado que juzgarán a Begoña Gómez partirá de una lista de 2.846 candidatos de la Comunidad de Madrid . De ese registro se convocará a 30 ciudadanos , entre los que se escogerá a los nueve titulares y a dos suplentes que participarán en el juicio. La Audiencia Provincial de Madrid.
-
-Date: 2026-07-17
-
-### Carmen Lomana, madrina del bautizo que celebró el futuro de dos grandes sagas de la aristocracia española
-
-En la aristocracia española, los bautizos representan el relevo generacional de algunos de los apellidos más ilustres del país. Así ha ocurrido con el bautizo del hijo de Casilda Ghisla Fernández de Córdoba y Guerrero-Burgos y Rodrigo Moreno de Borbón-Dos Sicilias , duques de Cardona, una cita que ha reunido en Madrid.
-
-Date: 2026-07-17
-
-### Menos madera, más paisaje: la revolución de la barrica de vino
-
-En una mesa de cuatro comensales en cualquier rincón de Madrid, Barcelona, Sevilla, Valencia o Logroño, una botella de tinto bien escogido puede desaparecer en cuestión de diez o doce minutos. No es por una sed desenfrenada ni por falta de modales; es el síntoma de un cambio de paradigma en el consumo de vino en España.
-
-Date: 2026-07-17
-
-### Así es el “gran pantano subterráneo” de Madrid
-
-“Fui sobre agua edificada, mis muros de fuego son, esta es mi insignia y blasón”. De esta manera tan poética rezaba la leyenda del que probablemente fuera el primer emblema de Madrid , allá por el siglo XII . Sin duda, una buena introducción para tomar el pulso a la situación de la calidad y cantidad de las aguas en la.
-
-Date: 2026-07-17
-
-### Los trenes Extremadura-Madrid iniciarán y finalizarán su recorrido en Leganés desde este viernes
-
-Los trenes de Media Distancia que conectan Extremadura y Talavera de la Reina con Madrid iniciarán y finalizarán su recorrido en Leganés desde este viernes al miércoles por las obras de mejora que está acometiendo Adif en la estación de Atocha. En un comunicado, Renfe han indicado que los viajeros con salida o destino.
-
-Date: 2026-07-17
-
-### La Audiencia Provincial respalda la decisión de Peinado y descarta que sea «contraria a derecho»
-
-La Audiencia Provincial de Madrid ha respaldado la decisión del juez Juan Carlos Peinado de enviar a Begoña Gómez al banquillo frente a un jurado popular, una «opción» que «no puede reputarse arbitraria ni contraria a Derecho, en la medida en que identifica los delitos que, de manera indiciaria, pudieran resultar aplic.
-
-Date: 2026-07-17
-
 ## Fuentes
 
-- [México decidirá si las obras de Frida Kahlo en manos privadas podrán exhibirse fuera del país](https://www.abc.es/cultura/arte/mexico-decidira-obras-frida-kahlo-manos-privadas-20260717111429-nt.html?utm_source=lootura.com) — 2026-07-17T09:14:29.000Z
-- [Vicente Vallés, contundente tras ver que Begoña Gómez será juzgada por un jurado popular](https://www.abc.es/play/television/noticias/vicente-valles-contundente-tras-ver-begona-gomez-20260717111808-nt.html?utm_source=lootura.com) — 2026-07-17T09:30:55.000Z
-- [Detenidos dos hombres tras ser sorprendidos robando en un restaurante de Chamberí (Madrid)](https://www.elconfidencial.com/espana/madrid/2026-07-17/robo-restaurante-chamberi-policia-1tna-1tps_4391551/?utm_source=lootura.com) — 2026-07-17T07:35:00.000Z
+- [El incendio de Lozoyuela (Madrid) ya está "perimetrado", pero sigue sin controlarse aún y afronta un día "complejo"](https://www.20minutos.es/madrid/incendio-lozoyuela-madrid-sigue-fase-estabilizacion-pero-sin-controlarse-aun-afronta-un-dia-complejo_7015868_0.html?utm_source=lootura.com) — 2026-07-17T10:11:25.000Z
+- [El cierre de unas clínicas dentales en Madrid deja sin tratamientos a decenas de clientes: "Son unos ladrones"](https://www.20minutos.es/madrid/cierre-las-clinicas-dentales-lahsen-deja-sin-tratamientos-pagados-decenas-clientes-sois-unos-ladrones_7015860_0.html?utm_source=lootura.com) — 2026-07-17T10:52:11.000Z
+- [Mercedes González, sobre las presiones a un general para boicotear a Ayuso: «Yo no dicté la orden»](https://www.abc.es/espana/gonzalez-sobre-presiones-general-boicotear-ayuso-dicte-20260717140052-nt.html?utm_source=lootura.com) — 2026-07-17T12:30:21.000Z
+- [La directora de la Guardia Civil sopesó destituir a Mora, pero desistió: «No podemos hacer otro mártir»](https://www.abc.es/espana/directora-guardia-civil-barajo-cese-general-mora-20260717015133-nt.html?utm_source=lootura.com) — 2026-07-17T12:23:30.000Z
+- [Cuándo será el juicio a Begoña Gómez: delitos de los que se le acusan y previsión de fechas](https://www.elconfidencial.com/espana/2026-07-17/juicio-begona-gomez-delitos-prevision-fecha_4391691/?utm_source=lootura.com) — 2026-07-17T11:44:00.000Z
 - [Cómo se elegirán a los nueve miembros del jurado que juzgarán a Begoña Gómez: así es la lista de los candidatos](https://www.elconfidencial.com/espana/2026-07-17/como-elegiran-nueve-miembros-jurado-begona-gomez_4391555/?utm_source=lootura.com) — 2026-07-17T09:22:00.000Z
-- [🎙 PODCAST | ¿Acabará Feijóo siendo presidente gracias a la amnistía?](https://www.eldiario.es/blog/al-dia/podcast-acabara-feijoo-siendo-presidente-gracias-amnistia_132_13386027.html?utm_source=lootura.com) — 2026-07-17T06:30:00.000Z
-- [Carmen Lomana, madrina del bautizo que celebró el futuro de dos grandes sagas de la aristocracia española](https://okdiario.com/cool/famosos/carmen-lomana-madrina-del-bautizo-que-celebro-futuro-dos-grandes-sagas-aristocracia-espanola-19015126?utm_source=lootura.com) — 2026-07-17T09:38:41.000Z
+- [Cerdán quiso que Servinabar le comprara un piso de lujo de un millón en el centro de Madrid](https://theobjective.com/espana/tribunales/2026-07-17/cerdan-servinabar-piso-centro-madrid/?amp=&utm_source=lootura.com) — 2026-07-17T13:10:34.000Z

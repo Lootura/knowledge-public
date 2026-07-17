@@ -8,11 +8,16 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/graham-platner/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/graham-platner/index.json",
   "description": "Follow Graham Platner, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-17T09:55:08.806Z",
+  "updatedAt": "2026-07-17T13:22:45.540Z",
   "aliases": [
     "Platner"
   ],
   "changes": [
+    {
+      "title": "‘Professional malpractice’: The Platner fallout engulfs the operatives who made him",
+      "summary": "When Daniel Moraff showed up on Graham Platner's doorstep last summer, the oyster farmer had a message for the young political operative who had traveled to the Maine coast to convince him to run for the U.S. Senate: \"Get the fuck off my property.\" It took weeks of prodding before Platner relented, according to two peo.",
+      "date": "2026-07-17"
+    },
     {
       "title": "Maine Democratic Senate candidates discuss which of Platner's ideas they would use",
       "summary": "Maine Democratic Senate candidates Nirav Shah, Shenna Bellows, Jordan Wood and Troy Jackson discuss which ideas from Graham Platner's platform they would use if they are chosen as the nominee.",
@@ -57,19 +62,14 @@
       "title": "Platner's voters are reeling as Maine Democratic Party races to choose his replacement",
       "summary": "generated enthusiasm in Maine with his progressive policies. Now he's out of the race, and his supporters have to decide what's next, as Maine Democrats prepare to choose a nominee. (Image credit: Tamara Keith/NPR).",
       "date": "2026-07-14"
-    },
-    {
-      "title": "Graham Platner's voters figure out what's next as candidates vie for their support",
-      "summary": "Maine voters are still grappling with Democratic Senate candidate Graham Platner's dramatic departure from the race.",
-      "date": "2026-07-13"
     }
   ],
   "sources": [
     {
-      "title": "Maine Democratic Senate candidates discuss which of Platner's ideas they would use",
-      "url": "https://www.nbcnews.com/video/maine-democratic-senate-candidates-discuss-which-of-platner-s-ideas-they-would-use-266814533841?utm_source=lootura.com",
-      "publishedAt": "2026-07-17T00:59:32.000Z",
-      "sourceId": "lootura-us-nbc-news"
+      "title": "‘Professional malpractice’: The Platner fallout engulfs the operatives who made him",
+      "url": "https://www.politico.com/news/2026/07/17/platner-is-finished-does-the-same-fate-await-the-out-of-state-consultants-who-recruited-him-01002652?utm_source=lootura.com",
+      "publishedAt": "2026-07-17T09:55:00.000Z",
+      "sourceId": "lootura-us-politico"
     }
   ],
   "evidenceCount": 1

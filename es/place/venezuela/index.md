@@ -70,4 +70,4 @@ Date: 2026-07-14
 
 ## Fuentes
 
-- [Venezuela supera las 4.900 víctimas mortales por los fuertes terremotos](https://theobjective.com/internacional/2026-07-17/venezuela-supera-4900-victimas/?utm_source=lootura.com) — 2026-07-17T08:21:18.000Z
+No public source links.

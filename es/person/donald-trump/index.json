@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/donald-trump/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/donald-trump/index.json",
   "description": "Sigue la actividad de Donald Trump en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-17T09:54:46.288Z",
+  "updatedAt": "2026-07-17T13:22:29.680Z",
   "aliases": [
     "President Donald Trump",
     "President Trump",
@@ -18,6 +18,11 @@
     {
       "title": "Trump resucita en un discurso a la nación el bulo del fraude electoral de 2020 y exagera la influencia de China en su derrota",
       "summary": "Donald Trump, líder de un país en guerra y con el coste de la vida en alza, se dirigió este jueves por la noche a la nación para hablar de las elecciones... de hace seis años. No fue solo un intento de ajuste de cuentas con un fracaso personal; el presidente de Estados Unidos, cuya impopularidad bate récords, habló con.",
+      "date": "2026-07-17"
+    },
+    {
+      "title": "El Puerto de Bilbao registra entre febrero y junio su mayor actividad desde hace 18 años",
+      "summary": "Advierten de un incremento de las importaciones que recuerda a la acumulación de stock que produjeron los aranceles de Trump el año pasado y al que siguió una caída de tráficos.",
       "date": "2026-07-17"
     },
     {
@@ -59,38 +64,21 @@
       "title": "Un operador del teleprónter de Trump ganó casi 90.000 euros en apuestas sobre sus discursos",
       "summary": "El hombre que opera el sistema de teleprónter que emplea el presidente de EEUU, Donald Trump, para pronunciar discursos está siendo investigado por.",
       "date": "2026-07-16"
-    },
-    {
-      "title": "EE UU impone nuevos aranceles del 25% a gran parte de productos brasileños y acusa a Lula de no negociar “de buena fe”",
-      "summary": "El Gobierno del presidente de Estados Unidos, Donald Trump, ha ordenado la imposición de un nuevo arancel del 25% sobre la mayor parte de productos brasileños importados desde este país, con fecha de aplicación a partir del 22 de julio. Es la conclusión de una investigación que acusaba a Brasil de competencia desleal.",
-      "date": "2026-07-16"
     }
   ],
   "sources": [
     {
-      "title": "Pedro Sánchez acudirá a la final del Mundial donde se encontrará con Trump y los Reyes... pero no con Milei",
-      "url": "https://www.20minutos.es/nacional/pedro-sanchez-acudira-final-mundial-donde-se-encontrara-con-trump-los-reyes-pero-no-con-milei_7015784_0.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-17T08:11:33.000Z",
-      "sourceId": "lootura-es-20minutos"
+      "title": "El Puerto de Bilbao registra entre febrero y junio su mayor actividad desde hace 18 años",
+      "url": "https://www.elcorreo.com/economia/puerto-bilbao-registra-febrero-junio-mayor-actividad-20260717132549-nt_amp.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-17T11:36:22.000Z",
+      "sourceId": "lootura-es-el-correo"
     },
     {
       "title": "Trump resucita en un discurso a la nación el bulo del fraude electoral de 2020 y exagera la influencia de China en su derrota",
       "url": "https://elpais.com/internacional/2026-07-17/trump-resucita-en-un-discurso-a-la-nacion-el-bulo-del-fraude-electoral-de-2020-y-acusa-a-china-de-influir-en-su-derrota.html?utm_source=lootura.com",
       "publishedAt": "2026-07-17T01:28:02.000Z",
       "sourceId": "lootura-es-el-pais"
-    },
-    {
-      "title": "Trump despide a su operador de teleprompter, acusado de apostar ilegalmente en Kalshi sobre sus discursos",
-      "url": "https://elpais.com/internacional/2026-07-16/trump-suspende-a-su-operador-de-teleprompter-acusado-de-apostar-ilegalmente-en-kalshi-sobre-sus-discursos.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-16T22:29:37.000Z",
-      "sourceId": "lootura-es-el-pais"
-    },
-    {
-      "title": "Trump anuncia una desclasificación que probaría injerencia electoral de China en EEUU",
-      "url": "https://theobjective.com/internacional/2026-07-17/trump-desclasificacion-injerencia-electoral-china-eeuu/?amp=&utm_source=lootura.com",
-      "publishedAt": "2026-07-17T05:41:49.000Z",
-      "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 4
+  "evidenceCount": 2
 }

@@ -3,10 +3,16 @@
 > Sigue la actividad de Iran en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-17T06:12:48.444Z
+- Actualizado: 2026-07-17T13:22:29.680Z
 - Canonical: https://atlas.lootura.com/es/place/iran
 
 ## Cambios recientes
+
+### El primer portaviones nuclear de Estados Unidos camino al desguace y no tiene nada que ver con Irán
+
+La Armada de Estados Unidos ha adjudicado un contrato histórico de 418 millones de dólares para desguazar el USS Enterprise. La primera embarcación de su clase propulsada por energía nuclear será desmantelada.
+
+Date: 2026-07-17
 
 ### Los economistas prevén que los alimentos suban hasta un 9 % en 2027 por la guerra en Irán y el clima extremo
 
@@ -62,12 +68,6 @@ En las jornadas posteriores al ataque conjunto de Israel y Estados Unidos contra
 
 Date: 2026-07-16
 
-### Trump amenaza con atacar infraestructuras civiles si Irán no vuelve a negociar
-
-Estados Unidos ha reimpuesto el bloqueo naval sobre los puertos iraníes y ha intensificado su campaña de bombardeos contra la república islámica, en una nueva escalada de ataques que amenaza con devolver a Oriente Próximo a una guerra abierta y que vuelve a situar el estrecho de Ormuz en el centro del enfrentamiento.La.
-
-Date: 2026-07-15
-
 ## Fuentes
 
-No public source links.
+- [El primer portaviones nuclear de Estados Unidos camino al desguace y no tiene nada que ver con Irán](https://www.larazon.es/tecnologia-consumo/primer-portaviones-nuclear-estados-unidos-camino-desguace-no-tiene-nada-ver-iran_202607176a59ee4c1db8de040993bc9d.html?utm_source=lootura.com) — 2026-07-17T13:18:00.000Z

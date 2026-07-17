@@ -46,5 +46,4 @@ Date: 2026-07-16
 
 ## Fuentes
 
-- [Junqueras cree que el Supremo hará "todo lo posible" para no aplicar la ley de amnistía](https://www.20minutos.es/cataluna/junqueras-cree-que-supremo-hara-todo-posible-para-no-aplicar-ley-amnistia_7015765_0.html?utm_source=lootura.com) — 2026-07-17T07:38:20.000Z
-- [Junqueras dice que el PSOE le «defraudó» y que «no hay confianza» en la legislatura](https://theobjective.com/espana/politica/2026-07-17/junqueras-psoe-defraudo-no-confianza-legislatura/?utm_source=lootura.com) — 2026-07-17T08:54:39.000Z
+No public source links.

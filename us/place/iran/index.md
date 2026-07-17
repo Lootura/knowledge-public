@@ -3,10 +3,22 @@
 > Follow Iran, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-17T09:55:08.806Z
+- Updated: 2026-07-17T13:22:45.540Z
 - Canonical: https://atlas.lootura.com/us/place/iran
 
 ## Recent changes
+
+### Iranian bridges severely damaged after sixth night of U.S. strikes
+
+Bridges were severely damaged in Iran after the U.S. military said it completed its sixth consecutive night of strikes against the country. CENTCOM said in a statement posted on X that it targeted “coastal surveillance and air defense sites, military logistics infrastructure, and maritime capabilities.”.
+
+Date: 2026-07-17
+
+### What a Times Reporter Saw in Iran, and Takeaways from Trump’s Speech on Election Security
+
+Plus, the Friday news quiz.
+
+Date: 2026-07-17
 
 ### How the NYT Reported on Khamenei’s Funeral in Iran
 
@@ -56,19 +68,8 @@ The political implications the war in Iran is having on the GOP. And, a new repo
 
 Date: 2026-07-16
 
-### How Trump’s ‘original oil guy’ boosted US-Israel ties and played down risks of Iran war
-
-Fracking billionaire Harold Hamm is co-chair of a non-profit that has aggressively pushed for US energy dominance Tycoon Harold Hamm is one of the US’s most successful oilmen, the son of Oklahoma sharecroppers who hit it rich as a “wildcatter” and pioneered fracking techniques that drove the shale boom in 2008 that rev.
-
-Date: 2026-07-16
-
-### In Iran war, Trump Risks Another American ‘Forever War’
-
-President Trump, who promised to “end wars,” not start them, may have fallen into a familiar presidential trap.
-
-Date: 2026-07-16
-
 ## Sources
 
-- [U.S. strikes bridges around key port in Iran, expanding campaign in battle over Hormuz](https://www.nbcnews.com/world/iran/us-strikes-bridges-iran-port-hormuz-bandar-abbas-syria-rcna587959?utm_source=lootura.com) — 2026-07-17T09:39:27.000Z
+- [Iranian bridges severely damaged after sixth night of U.S. strikes](https://www.nbcnews.com/video/iranian-bridges-severely-damaged-after-sixth-night-of-u-s-strikes-266827845917?utm_source=lootura.com) — 2026-07-17T07:53:48.000Z
+- [What a Times Reporter Saw in Iran, and Takeaways from Trump’s Speech on Election Security](https://www.nytimes.com/2026/07/17/podcasts/the-headlines/iran-trump-speech-election-security.html?utm_source=lootura.com) — 2026-07-17T11:24:48.000Z
 - [How the NYT Reported on Khamenei’s Funeral in Iran](https://www.nytimes.com/2026/07/16/insider/iran-funeral-coverage.html?utm_source=lootura.com) — 2026-07-16T16:46:32.000Z

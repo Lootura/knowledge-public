@@ -3,7 +3,7 @@
 > Follow Venezuela, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-17T09:55:08.806Z
+- Updated: 2026-07-17T13:22:45.540Z
 - Canonical: https://atlas.lootura.com/us/place/venezuela
 
 ## Recent changes
@@ -59,4 +59,3 @@ Date: 2026-07-08
 ## Sources
 
 - [Is Venezuela a Colony Now? A Sovereign State? Modern Empires Rule in Ambiguity.](https://www.nytimes.com/2026/07/17/magazine/venezuela-empires-colony.html?utm_source=lootura.com) — 2026-07-17T09:02:04.000Z
-- [Venezuela Earthquakes Force a Grim Homecoming for Migrants](https://www.nytimes.com/2026/07/17/world/americas/venezuela-earthquakes-families-migration.html?utm_source=lootura.com) — 2026-07-17T09:01:42.000Z

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/venezuela/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/venezuela/index.json",
   "description": "Follow Venezuela, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-17T09:55:08.806Z",
+  "updatedAt": "2026-07-17T13:22:45.540Z",
   "aliases": [],
   "changes": [
     {
@@ -58,13 +58,7 @@
       "url": "https://www.nytimes.com/2026/07/17/magazine/venezuela-empires-colony.html?utm_source=lootura.com",
       "publishedAt": "2026-07-17T09:02:04.000Z",
       "sourceId": "lootura-us-the-new-york-times-politics"
-    },
-    {
-      "title": "Venezuela Earthquakes Force a Grim Homecoming for Migrants",
-      "url": "https://www.nytimes.com/2026/07/17/world/americas/venezuela-earthquakes-families-migration.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-17T09:01:42.000Z",
-      "sourceId": "lootura-us-the-new-york-times-world"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 0
 }

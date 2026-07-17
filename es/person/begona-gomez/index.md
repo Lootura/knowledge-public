@@ -3,20 +3,26 @@
 > Sigue la actividad de Begoña Gómez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-17T09:54:46.288Z
+- Actualizado: 2026-07-17T13:22:29.680Z
 - Canonical: https://atlas.lootura.com/es/person/begona-gomez
 
 ## Cambios recientes
 
-### Vicente Vallés, contundente tras ver que Begoña Gómez será juzgada por un jurado popular
-
-Begoña Gómez será juzgada por un jurado popular junto a su asesora en Moncloa, Cristina Álvarez. La Audiencia Provincial de Madrid ha avalado el criterio del juez Juan Carlos Peinado y ha confirmado que la causa se tramite por esta vía.La esposa de Pedro Sánchez está acusada de un presunto delito de tráfico de influenc.
-
-Date: 2026-07-17
-
 ### Cómo se elegirán a los nueve miembros del jurado que juzgarán a Begoña Gómez: así es la lista de los candidatos
 
 La elección de los nueve miembros del jurado que juzgarán a Begoña Gómez partirá de una lista de 2.846 candidatos de la Comunidad de Madrid . De ese registro se convocará a 30 ciudadanos , entre los que se escogerá a los nueve titulares y a dos suplentes que participarán en el juicio. La Audiencia Provincial de Madrid.
+
+Date: 2026-07-17
+
+### Cuándo será el juicio a Begoña Gómez: delitos de los que se le acusan y previsión de fechas
+
+El calendario judicial apunta a 2027 como el horizonte más probable para la celebración de uno de los juicios con mayor repercusión pública de los últimos años. Aunque todavía no existe una fecha concreta , los trámites pendientes, la composición del tribunal y la carga de trabajo de la Audiencia Provincial de Madrid h.
+
+Date: 2026-07-17
+
+### Vicente Vallés, contundente tras ver que Begoña Gómez será juzgada por un jurado popular
+
+Begoña Gómez será juzgada por un jurado popular junto a su asesora en Moncloa, Cristina Álvarez. La Audiencia Provincial de Madrid ha avalado el criterio del juez Juan Carlos Peinado y ha confirmado que la causa se tramite por esta vía.La esposa de Pedro Sánchez está acusada de un presunto delito de tráfico de influenc.
 
 Date: 2026-07-17
 
@@ -62,16 +68,7 @@ La Audiencia Provincial de Madrid ha avalado al juez Juan Carlos Peinado y ha co
 
 Date: 2026-07-16
 
-### El Gobierno tilda de «causa política» el juicio contra Gómez tras la decisión de la Audiencia
-
-El Gobierno reitera que Begoña Gómez , la mujer del presidente Pedro Sánchez es « inocente » y la causa judicial en la que está inmersa es « política », después de que la Audiencia Provincial de Madrid haya confirmado la decisión del juez instructor Juan Carlos Peinado de enviarla a juicio con jurado popular. No obstan.
-
-Date: 2026-07-16
-
 ## Fuentes
 
-- [Pedro Sánchez finalmente sí acudirá a la final del Mundial, pero no le acompañará Begoña Gómez](https://www.abc.es/espana/sanchez-finalmente-acudira-final-mundial-futbol-disputa-20260717095804-nt.html?utm_source=lootura.com) — 2026-07-17T09:28:02.000Z
-- [Vicente Vallés, contundente tras ver que Begoña Gómez será juzgada por un jurado popular](https://www.abc.es/play/television/noticias/vicente-valles-contundente-tras-ver-begona-gomez-20260717111808-nt.html?utm_source=lootura.com) — 2026-07-17T09:30:55.000Z
+- [Cuándo será el juicio a Begoña Gómez: delitos de los que se le acusan y previsión de fechas](https://www.elconfidencial.com/espana/2026-07-17/juicio-begona-gomez-delitos-prevision-fecha_4391691/?utm_source=lootura.com) — 2026-07-17T11:44:00.000Z
 - [Cómo se elegirán a los nueve miembros del jurado que juzgarán a Begoña Gómez: así es la lista de los candidatos](https://www.elconfidencial.com/espana/2026-07-17/como-elegiran-nueve-miembros-jurado-begona-gomez_4391555/?utm_source=lootura.com) — 2026-07-17T09:22:00.000Z
-- [Los 13 indicios de malversación con el 'software' de la Universidad Complutense que hunden a Begoña Gómez](https://www.elmundo.es/espana/2026/07/16/6a592f7721efa0437e8b4570.html?utm_source=lootura.com) — 2026-07-16T20:52:41.000Z
-- [Bolaños cree que la respuesta judicial al 'caso Begoña Gómez' no es adecuada ni contundente](https://theobjective.com/espana/politica/2026-07-17/bolanos-respuesta-judicial-caso-begona/?amp=&utm_source=lootura.com) — 2026-07-17T09:39:42.000Z

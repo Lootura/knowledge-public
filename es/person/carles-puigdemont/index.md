@@ -40,5 +40,4 @@ Date: 2026-07-16
 
 ## Fuentes
 
-- [Turull critica a Puente por decir que si él fuera Puigdemont volvería hoy mismo a España: "Cuánta miseria y frivolidad"](https://www.20minutos.es/cataluna/turull-critica-puente-por-decir-que-si-fuera-puigdemont-volveria-hoy-mismo-espana-cuanta-miseria-frivolidad_7015827_0.html?utm_source=lootura.com) — 2026-07-17T09:12:28.000Z
-- [El Supremo mantiene el motivo clave por el que rechazó amnistiar la malversación de Puigdemont](https://amp.elmundo.es/espana/2026/07/16/6a592344e85ecec83c8b456d.html?utm_source=lootura.com) — 2026-07-16T20:33:54.000Z
+No public source links.

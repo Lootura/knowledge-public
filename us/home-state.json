@@ -1,8 +1,8 @@
 {
   "radar": "usa",
-  "signature": "1.16.0|11|1784282108806",
+  "signature": "1.16.0|12|1784294565540",
   "version": "1.16.0",
-  "build": 11,
-  "latestEntityUpdatedAt": "2026-07-17T09:55:08.806Z",
-  "generatedAt": "2026-07-17T10:00:24.275Z"
+  "build": 12,
+  "latestEntityUpdatedAt": "2026-07-17T13:22:45.540Z",
+  "generatedAt": "2026-07-17T13:27:37.492Z"
 }

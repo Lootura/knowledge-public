@@ -3,7 +3,7 @@
 > Follow Canada, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-17T09:55:08.806Z
+- Updated: 2026-07-17T13:22:45.540Z
 - Canonical: https://atlas.lootura.com/us/place/canada
 
 ## Recent changes
@@ -17,6 +17,12 @@ Date: 2026-07-17
 ### What to Know About Canada Wildfire Smoke and Air Quality in U.S. Cities
 
 A thick plume of smoke swept across the Midwest and New England, and those conditions could linger on Friday.
+
+Date: 2026-07-17
+
+### 100 million Americans across 14 states impacted by heavy smoke from Canadian wildfires
+
+Smoke from wildfires in Canada is creating dangerous air quality conditions for approximately 100 million Americans in more than a dozen states. Rob Marciano has the latest.
 
 Date: 2026-07-17
 
@@ -62,14 +68,9 @@ Heavy smoke from several large wildfires blazing in Canada and Minnesota is expe
 
 Date: 2026-07-15
 
-### Wildfires Rage in Ontario as Smoke Affects Toronto’s Air Quality
-
-Air quality in Canada’s largest city was at times the worst in the world on Wednesday, as wildfires across Ontario sent smoke drifting into New York City and beyond.
-
-Date: 2026-07-15
-
 ## Sources
 
+- [100 million Americans across 14 states impacted by heavy smoke from Canadian wildfires](https://www.cbsnews.com/video/100-million-americans-impacted-heavy-smoke-canadian-wildfires/?utm_source=lootura.com) — 2026-07-17T13:01:14.000Z
 - [Maps show wildfire smoke forecast, air quality alerts in swath of U.S.](https://www.cbsnews.com/news/wildfires-smoke-millions-exposed-midwest-northeast-us/?utm_source=lootura.com) — 2026-07-17T02:26:00.000Z
 - [Dangerous wildfire smoke continues to blanket parts of the U.S.](https://www.npr.org/2026/07/16/nx-s1-5894857/wildfire-smoke-fires-ontario-minnesota?utm_source=lootura.com) — 2026-07-16T20:32:27.000Z
 - [What to Know About Canada Wildfire Smoke and Air Quality in U.S. Cities](https://www.nytimes.com/2026/07/16/weather/what-to-know-canada-wildfires-smoke.html?utm_source=lootura.com) — 2026-07-17T01:02:04.000Z

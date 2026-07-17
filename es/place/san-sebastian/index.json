@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/san-sebastian/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/san-sebastian/index.json",
   "description": "Sigue la actividad de San Sebastián en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-17T09:54:46.288Z",
+  "updatedAt": "2026-07-17T13:22:29.680Z",
   "aliases": [
     "Donostia"
   ],
@@ -19,13 +19,13 @@
       "date": "2026-07-17"
     },
     {
-      "title": "Un incendio deja cinco intoxicados por humo en una galería de arte de Cieza (Murcia)",
-      "summary": "Los servicios de emergencia extinguieron este jueves un incendio declarado en el interior de la Galería Francisco Serrano , situada en la calle San Sebastián de Cieza. Como consecuencia del incendio, cinco personas fueron atendidas por inhalación de humo , sin que ninguna precisara traslado hospitalario. El Centro de C.",
+      "title": "Cinco jóvenes investigados por insultar y agredir a un hombre con la camiseta de España en el paseo de La Concha de San Sebastián",
+      "summary": "La víctima ha tenido que ser atendida en el cuarto de socorro, tras lo cual ha interpuesto una denuncia por lo ocurrido.",
       "date": "2026-07-17"
     },
     {
-      "title": "Cinco jóvenes investigados por insultar y agredir a un hombre con la camiseta de España en el paseo de La Concha de San Sebastián",
-      "summary": "La víctima ha tenido que ser atendida en el cuarto de socorro, tras lo cual ha interpuesto una denuncia por lo ocurrido.",
+      "title": "Un incendio deja cinco intoxicados por humo en una galería de arte de Cieza (Murcia)",
+      "summary": "Los servicios de emergencia extinguieron este jueves un incendio declarado en el interior de la Galería Francisco Serrano , situada en la calle San Sebastián de Cieza. Como consecuencia del incendio, cinco personas fueron atendidas por inhalación de humo , sin que ninguna precisara traslado hospitalario. El Centro de C.",
       "date": "2026-07-17"
     },
     {
@@ -66,12 +66,6 @@
   ],
   "sources": [
     {
-      "title": "Un incendio deja cinco intoxicados por humo en una galería de arte de Cieza (Murcia)",
-      "url": "https://www.elconfidencial.com/espana/2026-07-17/incendio-galeria-cieza-murcia-1tna-1tps_4391545/?utm_source=lootura.com",
-      "publishedAt": "2026-07-17T07:29:00.000Z",
-      "sourceId": "lootura-es-el-confidencial"
-    },
-    {
       "title": "Rincones a la sombra en los que sentarse",
       "url": "https://www.diariovasco.com/gipuzkoa/memoria/rincones-sombra-sentarse-20260717125556-nt_amp.html?utm_source=lootura.com",
       "publishedAt": "2026-07-17T05:52:32.000Z",
@@ -84,5 +78,5 @@
       "sourceId": "lootura-es-el-diario-vasco"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 2
 }

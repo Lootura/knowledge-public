@@ -46,4 +46,4 @@ Date: 2026-07-09
 
 ## Sources
 
-- [Maine Democratic Senate candidates discuss which of Platner's ideas they would use](https://www.nbcnews.com/video/maine-democratic-senate-candidates-discuss-which-of-platner-s-ideas-they-would-use-266814533841?utm_source=lootura.com) — 2026-07-17T00:59:32.000Z
+No public source links.

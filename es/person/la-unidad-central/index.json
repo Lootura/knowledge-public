@@ -1,0 +1,71 @@
+{
+  "id": "es-la-unidad-central",
+  "name": "La Unidad Central",
+  "type": "person",
+  "locale": "es",
+  "canonicalPath": "/es/person/la-unidad-central",
+  "canonicalUrl": "https://atlas.lootura.com/es/person/la-unidad-central",
+  "markdownUrl": "https://atlas.lootura.com/es/person/la-unidad-central/index.md",
+  "jsonUrl": "https://atlas.lootura.com/es/person/la-unidad-central/index.json",
+  "description": "Sigue la actividad de La Unidad Central en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
+  "updatedAt": "2026-07-17T13:22:29.680Z",
+  "aliases": [],
+  "changes": [
+    {
+      "title": "La UCO concluye que Cerdán dispuso de \"numeroso dinero en metálico en la etapa ministerial de Ábalos\"",
+      "summary": "La Unidad Central Operativa (UCO) de la Guardia Civil concluye que Santos Cerdán dispuso de \"fuentes de ingresos\" no declaradas y que su constructora Servinabar llegó a...",
+      "date": "2026-07-17"
+    },
+    {
+      "title": "La UCO cifra en más de 300.000 euros lo que Cerdán habría obtenido de la trama Koldo",
+      "summary": "La Unidad Central Operativa (UCO) de la Guardia Civil pone de manifiesto en un nuevo informe sobre el patrimonio del ex secretario de Organización del PSOE, Santos Cerdán , que sus ingresos aumentaron de forma considerable en los años en los que José Luis Ábalos estuvo al frente del Ministerio de Transportes, en concre.",
+      "date": "2026-07-17"
+    },
+    {
+      "title": "La UCO detecta que Cerdán logró sus mayores beneficios en la etapa de Ábalos de ministro",
+      "summary": "La Unidad Central Operativa (UCO) de la Guardia Civil ha detectado que Santos Cerdán y su familia obtuvieron 323.178 euros de «beneficios» entre 2015 y.",
+      "date": "2026-07-17"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "La Unidad Central first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-07-14"
+    },
+    {
+      "title": "La UCO confirma que el PSOE pagó 43.225 euros a Leire a través de Zarrías y del exabogado de Koldo",
+      "summary": "Operativa (UCO) de la Guardia Civil ha confirmado al juez de la Audiencia Nacional Santiago Pedraz que el PSOE pagó 43.225 euros a la presunta fontanera del partido, Leire Díez , a través de la consultora del exdirigente socialista Gaspar Zarrías y del despacho del exabogado de Koldo García Ismael Oli.",
+      "date": "2026-07-14"
+    },
+    {
+      "title": "La UCO concluye que el PSOE usó empresas interpuestas para pagar a Leire Díez 43.225 euros",
+      "summary": "Operativa (UCO) de la Guardia Civil ha localizado al menos cinco pagos a Leire Díez en 2024 vinculados a las supuestas \"cloacas del PSOE\" y cuyo origen sitúa en Ferraz por un importe total de 43.225 euros, para lo que habría utilizado empresas interpuestas. Así consta en el último informe remitido al.",
+      "date": "2026-07-14"
+    },
+    {
+      "title": "La UCO detalla los pagos del PSOE a Leire Díez a través de tres empresas pantalla: 43.235 € en 5 pagos",
+      "summary": "Operativa ( UCO ) de la Guardia Civil ha remitido al juez Santiago Pedraz , de la Audiencia Nacional, un nuevo informe en el que se informa de pagos a la ex militante y fontanera del PSOE, Leire Díez , por una cantidad total de 16.000 euros , en cuatro transferencias, a través de la consultora de Gasp.",
+      "date": "2026-07-14"
+    }
+  ],
+  "sources": [
+    {
+      "title": "La UCO concluye que Cerdán dispuso de \"numeroso dinero en metálico en la etapa ministerial de Ábalos\"",
+      "url": "https://amp.elmundo.es/espana/2026/07/17/6a5a14e821efa0ed1b8b4590.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-17T11:44:04.000Z",
+      "sourceId": "lootura-es-el-mundo"
+    },
+    {
+      "title": "La UCO cifra en más de 300.000 euros lo que Cerdán habría obtenido de la trama Koldo",
+      "url": "https://theobjective.com/espana/tribunales/2026-07-17/uco-euros-cerdan-trama-koldo/?utm_source=lootura.com",
+      "publishedAt": "2026-07-17T12:30:59.000Z",
+      "sourceId": "lootura-es-the-objective"
+    },
+    {
+      "title": "La UCO detecta que Cerdán logró sus mayores beneficios en la etapa de Ábalos de ministro",
+      "url": "https://theobjective.com/espana/tribunales/2026-07-17/uco-cerdan-mayores-beneficios-etapa-abalos-ministro/?amp=&utm_source=lootura.com",
+      "publishedAt": "2026-07-17T12:49:21.000Z",
+      "sourceId": "lootura-es-the-objective"
+    }
+  ],
+  "evidenceCount": 3
+}

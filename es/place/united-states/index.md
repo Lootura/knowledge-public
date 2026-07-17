@@ -3,7 +3,7 @@
 > Sigue la actividad de Estados Unidos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-17T09:54:46.288Z
+- Actualizado: 2026-07-17T13:22:29.680Z
 - Canonical: https://atlas.lootura.com/es/place/united-states
 
 ## Cambios recientes
@@ -14,15 +14,21 @@ Donald Trump, líder de un país en guerra y con el coste de la vida en alza, se
 
 Date: 2026-07-17
 
-### Trump anuncia una desclasificación que probaría injerencia electoral de China en EEUU
-
-El presidente de Estados Unidos, Donald Trump, ha anunciado este jueves la desclasificación y publicación de información «crítica» de inteligencia que.
-
-Date: 2026-07-17
-
 ### Un emulador y una demo del ordenador de bolsillo + calculadora científica Casio FX-870P
 
 Los ordenadores de bolsillo fueron durante años una herramienta muy popular entre estudiantes e ingenieros japoneses, aunque en Europa y Estados Unidos nunca llegaron a despegar; quizá por eso no haya tanta documentación como de otros gadgets. Ahora un proyecto de esos creados artesanalmente, por amor al arte , permite.
+
+Date: 2026-07-17
+
+### El primer portaviones nuclear de Estados Unidos camino al desguace y no tiene nada que ver con Irán
+
+La Armada de Estados Unidos ha adjudicado un contrato histórico de 418 millones de dólares para desguazar el USS Enterprise. La primera embarcación de su clase propulsada por energía nuclear será desmantelada.
+
+Date: 2026-07-17
+
+### Trump anuncia una desclasificación que probaría injerencia electoral de China en EEUU
+
+El presidente de Estados Unidos, Donald Trump, ha anunciado este jueves la desclasificación y publicación de información «crítica» de inteligencia que.
 
 Date: 2026-07-17
 
@@ -62,15 +68,8 @@ El desarrollo de nuevos sistemas hipersónicos acaba de recibir el apoyo del Dep
 
 Date: 2026-07-16
 
-### EE UU impone nuevos aranceles del 25% a gran parte de productos brasileños y acusa a Lula de no negociar “de buena fe”
-
-El Gobierno del presidente de Estados Unidos, Donald Trump, ha ordenado la imposición de un nuevo arancel del 25% sobre la mayor parte de productos brasileños importados desde este país, con fecha de aplicación a partir del 22 de julio. Es la conclusión de una investigación que acusaba a Brasil de competencia desleal.
-
-Date: 2026-07-16
-
 ## Fuentes
 
 - [Trump resucita en un discurso a la nación el bulo del fraude electoral de 2020 y exagera la influencia de China en su derrota](https://elpais.com/internacional/2026-07-17/trump-resucita-en-un-discurso-a-la-nacion-el-bulo-del-fraude-electoral-de-2020-y-acusa-a-china-de-influir-en-su-derrota.html?utm_source=lootura.com) — 2026-07-17T01:28:02.000Z
-- [Trump despide a su operador de teleprompter, acusado de apostar ilegalmente en Kalshi sobre sus discursos](https://elpais.com/internacional/2026-07-16/trump-suspende-a-su-operador-de-teleprompter-acusado-de-apostar-ilegalmente-en-kalshi-sobre-sus-discursos.html?utm_source=lootura.com) — 2026-07-16T22:29:37.000Z
+- [El primer portaviones nuclear de Estados Unidos camino al desguace y no tiene nada que ver con Irán](https://www.larazon.es/tecnologia-consumo/primer-portaviones-nuclear-estados-unidos-camino-desguace-no-tiene-nada-ver-iran_202607176a59ee4c1db8de040993bc9d.html?utm_source=lootura.com) — 2026-07-17T13:18:00.000Z
 - [Un emulador y una demo del ordenador de bolsillo + calculadora científica Casio FX-870P](http://www.microsiervos.com/archivo/gadgets/emulador-ordenador-bolsillo-calculadora-cientifica-casio-fx-870p.html?utm_source=lootura.com) — 2026-07-17T10:38:56.000Z
-- [Trump anuncia una desclasificación que probaría injerencia electoral de China en EEUU](https://theobjective.com/internacional/2026-07-17/trump-desclasificacion-injerencia-electoral-china-eeuu/?amp=&utm_source=lootura.com) — 2026-07-17T05:41:49.000Z

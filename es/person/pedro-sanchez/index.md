@@ -3,10 +3,34 @@
 > Sigue la actividad de Pedro Sánchez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-17T09:54:46.288Z
+- Actualizado: 2026-07-17T13:22:29.680Z
 - Canonical: https://atlas.lootura.com/es/person/pedro-sanchez
 
 ## Cambios recientes
+
+### Bruselas reprende a España por no reformar el sistema de elección del CGPJ pese a los múltiples requerimientos
+
+La Comisión Europea ha vuelto a instar al Gobierno de Pedro Sánchez a impulsar la reforma del sistema de elección del Consejo General del Poder Judicial , para que doce de sus vocales sean elegidos por los propios jueces. Se trata de una recomendación constante en los informes sobre el Estado de derecho que el órgano c.
+
+Date: 2026-07-17
+
+### La Comisión Europea ve “avances limitados” en el plan anticorrupción de Sánchez y reclama más reformas
+
+La Comisión Europea avisa de que España solo ha logrado “avances limitados” en sus reformas para luchar contra la corrupción y que el plan aprobado por el Gobierno de Pedro Sánchez aún no se ha implementado. En su informe sobre el cumplimiento en 2025 del Estado de derecho de la Unión Europea hecho publico este viernes.
+
+Date: 2026-07-17
+
+### La UE alerta sobre las contrataciones del Gobierno: «Sigue siendo un ámbito vulnerable a los riesgos de corrupción»
+
+La Unión Europea ha alertado sobre las contrataciones públicas, que mayoritariamente son realizadas por el Gobierno de Pedro Sánchez . «Sigue siendo un ámbito vulnerable a los riesgos de corrupción», recoge el informe sobre el Estado de Derecho 2026 publicado este viernes por la Comisión Europea, en su capítulo dedicad.
+
+Date: 2026-07-17
+
+### Bruselas reprende al Gobierno por no luchar contra la corrupción y presionar a jueces
+
+El último informe sobre el Estado de derecho de la Comisión Europea ha supuesto un duro varapalo para el Gobierno de Pedro Sánchez . En un documento que evalúa anualmente la salud democrática de los Estados miembros, el Ejecutivo comunitario ha puesto el foco sobre España por su inacción frente a la corrupción y las de.
+
+Date: 2026-07-17
 
 ### Vicente Vallés, contundente tras ver que Begoña Gómez será juzgada por un jurado popular
 
@@ -44,34 +68,10 @@ Manuel Llamas enmarca las informaciones reservadas incoadas contra la UCO dentro
 
 Date: 2026-07-16
 
-### El Gobierno celebra la ley de amnistía como un “logro colectivo” que ha contribuido a recuperar “la convivencia y la reconciliación”
-
-La ley de amnistía, la clave de bóveda de la legislatura que posibilitó la investidura de Pedro Sánchez y al mismo tiempo le ha supuesto un enorme desgaste al Gobierno, ha recibido el espaldarazo de la justicia europea más de dos años después de que fuese aprobada en el Congreso. El respaldo del Tribunal de Justicia de.
-
-Date: 2026-07-16
-
-### La Audiencia de Madrid avala que la causa contra Begoña Gómez siga adelante por jurado por dos delitos
-
-La Audiencia Provincial de Madrid ha dado luz verde a que el proceso por jurado popular contra Begoña Gómez, esposa de Pedro Sánchez, siga adelante por dos delitos: tráfico de influencias y malversación. El tribunal avala así parcialmente la decisión del juez Juan Carlos Peinado de enviar al banquillo a la pareja del p.
-
-Date: 2026-07-16
-
-### Puigdemont enfría un regreso inminente a España: “El camino para acabar con la represión no ha terminado”
-
-El independentismo se ha mostrado exultante este jueves ante el fallo de la justicia europea que avala la ley de amnistía , pactada en su día por ERC y Junts per Catalunya a cambio de investir a Pedro Sánchez. Ambas formaciones han coincidido en advertir que no más hay excusas posibles para una aplicación efectiva de l.
-
-Date: 2026-07-16
-
-### Feijóo acata el aval a la amnistía entre reproches a Sánchez: «Mintió y vendió a los españoles»
-
-El presidente del Partido Popular, Alberto Núñez Feijóo , ha subrayado este miércoles en Las Palmas de Gran Canaria que un demócrata «respeta las sentencias, todas las sentencias y de todos los tribunales » y, además, «no ordena a sus ministros salir a señalar a jueces con nombres y apellidos». Núñez Feijóo ha hecho es.
-
-Date: 2026-07-16
-
 ## Fuentes
 
-- [Pedro Sánchez acudirá a la final del Mundial donde se encontrará con Trump y los Reyes... pero no con Milei](https://www.20minutos.es/nacional/pedro-sanchez-acudira-final-mundial-donde-se-encontrara-con-trump-los-reyes-pero-no-con-milei_7015784_0.html?utm_source=lootura.com) — 2026-07-17T08:11:33.000Z
-- [Vicente Vallés, contundente tras ver que Begoña Gómez será juzgada por un jurado popular](https://www.abc.es/play/television/noticias/vicente-valles-contundente-tras-ver-begona-gomez-20260717111808-nt.html?utm_source=lootura.com) — 2026-07-17T09:30:55.000Z
-- [Activistas despliegan una lona en protesta contra Sánchez en el Arco de Moncloa: «Pedro, cumple tu palabra»](https://www.abc.es/espana/madrid/activistas-despliegan-lona-protesta-sanchez-arco-moncloa-20260717105437-nt.html?utm_source=lootura.com) — 2026-07-17T09:04:21.000Z
+- [Bruselas reprende a España por no reformar el sistema de elección del CGPJ pese a los múltiples requerimientos](https://www.abc.es/espana/bruselas-reprende-espana-reformar-sistema-eleccion-cgpj-20260717132124-nt.html?utm_source=lootura.com) — 2026-07-17T12:55:59.000Z
 - [El primer documental sobre Ángela Figuera busca fondos para completar la producción](https://www.elcorreo.com/culturas/cine/primer-documental-sobre-angela-figuera-busca-fondos-20260716174814-nt_amp.html?utm_source=lootura.com) — 2026-07-16T22:59:05.000Z
-- [Junqueras dice que el PSOE le «defraudó» y que «no hay confianza» en la legislatura](https://theobjective.com/espana/politica/2026-07-17/junqueras-psoe-defraudo-no-confianza-legislatura/?utm_source=lootura.com) — 2026-07-17T08:54:39.000Z
+- [La Comisión Europea ve “avances limitados” en el plan anticorrupción de Sánchez y reclama más reformas](https://elpais.com/espana/2026-07-17/la-comision-europea-ve-avances-limitados-en-el-plan-anticorrupcion-de-sanchez-y-reclama-mas-reformas.html?utm_source=lootura.com) — 2026-07-17T11:27:24.000Z
+- [La UE alerta sobre las contrataciones del Gobierno: «Sigue siendo un ámbito vulnerable a los riesgos de corrupción»](https://okdiario.com/espana/ue-alerta-sobre-contrataciones-del-gobierno-sigue-siendo-ambito-vulnerable-riesgos-corrupcion-19017275?utm_source=lootura.com) — 2026-07-17T13:12:25.000Z
+- [Bruselas reprende al Gobierno por no luchar contra la corrupción y presionar a jueces](https://theobjective.com/espana/politica/2026-07-17/bruselas-toque-atencion-gobierno-corrupcion-jueces/?utm_source=lootura.com) — 2026-07-17T11:56:04.000Z

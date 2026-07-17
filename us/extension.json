@@ -1,16 +1,16 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-17T10:00:22.554Z",
+  "generatedAt": "2026-07-17T13:27:35.308Z",
   "radar": {
     "id": "usa",
     "slug": "us",
     "locale": "en"
   },
   "state": {
-    "signature": "1.16.0|11|1784282108806",
+    "signature": "1.16.0|12|1784294565540",
     "version": "1.16.0",
-    "build": 11,
-    "latestEntityUpdatedAt": "2026-07-17T09:55:08.806Z"
+    "build": 12,
+    "latestEntityUpdatedAt": "2026-07-17T13:22:45.540Z"
   },
   "atlas": {
     "hero": {
@@ -20,23 +20,49 @@
       "title": "Fact checking Trump speech on election security",
       "url": "https://atlas.lootura.com/us/organization/white-house",
       "path": "/us/organization/white-house",
-      "updatedAt": "2026-07-17T09:55:08.806Z",
+      "updatedAt": "2026-07-17T13:22:45.540Z",
       "score": 1614,
-      "sourceCount": 37,
+      "sourceCount": 38,
       "isBreaking": false,
       "isPinned": false
     },
     "cards": [
       {
+        "id": "usa-united-states",
+        "name": "United States",
+        "type": "place",
+        "title": "In primetime speech, Trump revisits disputed claims about election security and declassifies documents",
+        "url": "https://atlas.lootura.com/us/place/united-states",
+        "path": "/us/place/united-states",
+        "updatedAt": "2026-07-17T13:22:45.540Z",
+        "score": 1585,
+        "sourceCount": 227,
+        "isBreaking": false,
+        "isPinned": false
+      },
+      {
         "id": "usa-china",
         "name": "China",
         "type": "place",
-        "title": "Trump speaks on elections, alleges Chinese access to voter data | Special Report",
+        "title": "Trump Uses Prime-Time Speech to Revive False Election Claims",
         "url": "https://atlas.lootura.com/us/place/china",
         "path": "/us/place/china",
-        "updatedAt": "2026-07-17T09:55:08.806Z",
-        "score": 1578,
+        "updatedAt": "2026-07-17T13:22:45.540Z",
+        "score": 1573,
         "sourceCount": 31,
+        "isBreaking": false,
+        "isPinned": false
+      },
+      {
+        "id": "usa-donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "title": "Takeaways from Trump's primetime speech. And, at least 2 dead in major Texas flooding",
+        "url": "https://atlas.lootura.com/us/person/donald-trump",
+        "path": "/us/person/donald-trump",
+        "updatedAt": "2026-07-17T13:22:45.540Z",
+        "score": 1573,
+        "sourceCount": 219,
         "isBreaking": false,
         "isPinned": false
       },
@@ -47,35 +73,9 @@
         "title": "Maps show wildfire smoke forecast, air quality alerts due to pollution from Canadian, Minnesota fires",
         "url": "https://atlas.lootura.com/us/place/canada",
         "path": "/us/place/canada",
-        "updatedAt": "2026-07-17T09:55:08.806Z",
-        "score": 1570,
-        "sourceCount": 19,
-        "isBreaking": false,
-        "isPinned": false
-      },
-      {
-        "id": "usa-united-states",
-        "name": "United States",
-        "type": "place",
-        "title": "Dozens of Marineland's whales coming to U.S. through rescue plan",
-        "url": "https://atlas.lootura.com/us/place/united-states",
-        "path": "/us/place/united-states",
-        "updatedAt": "2026-07-17T09:55:08.806Z",
-        "score": 1554,
-        "sourceCount": 224,
-        "isBreaking": false,
-        "isPinned": false
-      },
-      {
-        "id": "usa-ukraine",
-        "name": "Ukraine",
-        "type": "place",
-        "title": "He Was a Russian Political Survivor, Until the Masked Men Appeared",
-        "url": "https://atlas.lootura.com/us/place/ukraine",
-        "path": "/us/place/ukraine",
-        "updatedAt": "2026-07-17T09:55:08.806Z",
-        "score": 1508,
-        "sourceCount": 40,
+        "updatedAt": "2026-07-17T13:22:45.540Z",
+        "score": 1555,
+        "sourceCount": 20,
         "isBreaking": false,
         "isPinned": false
       }

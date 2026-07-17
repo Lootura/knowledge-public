@@ -40,4 +40,4 @@ Date: 2026-07-17
 
 ## Fuentes
 
-- [Los hoteleros de Málaga rechazan la moratoria que prohíbe levantar establecimientos turísticos](https://www.larazon.es/andalucia/hoteleros-malaga-rechazan-moratoria-que-prohibe-levantar-establecimientos-turisticos_202607176a59f6a8e9f2e84b5c6db1fa.html?utm_source=lootura.com) — 2026-07-17T09:32:51.000Z
+No public source links.

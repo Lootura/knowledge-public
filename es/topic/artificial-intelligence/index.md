@@ -3,7 +3,7 @@
 > Sigue la actividad de Artificial intelligence en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: topic
-- Actualizado: 2026-07-17T09:54:46.288Z
+- Actualizado: 2026-07-17T13:22:29.680Z
 - Canonical: https://atlas.lootura.com/es/topic/artificial-intelligence
 
 ## Cambios recientes
@@ -40,4 +40,4 @@ Date: 2026-07-10
 
 ## Fuentes
 
-- [Las dudas sobre la IA desatan una venta masiva de tecnológicas y sacuden las Bolsas](https://cincodias.elpais.com/mercados-financieros/2026-07-17/la-bolsa-y-el-ibex-35.html?utm_source=lootura.com) — 2026-07-17T09:29:16.000Z
+- [Las dudas sobre la IA desatan una venta masiva de tecnológicas y sacuden las Bolsas](https://cincodias.elpais.com/mercados-financieros/2026-07-17/la-bolsa-y-el-ibex-35.html?utm_source=lootura.com) — 2026-07-17T12:19:45.000Z

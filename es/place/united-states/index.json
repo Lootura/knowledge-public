@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/united-states/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/united-states/index.json",
   "description": "Sigue la actividad de Estados Unidos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-17T09:54:46.288Z",
+  "updatedAt": "2026-07-17T13:22:29.680Z",
   "aliases": [
     "America",
     "Estados Unidos",
@@ -21,13 +21,18 @@
       "date": "2026-07-17"
     },
     {
-      "title": "Trump anuncia una desclasificación que probaría injerencia electoral de China en EEUU",
-      "summary": "El presidente de Estados Unidos, Donald Trump, ha anunciado este jueves la desclasificación y publicación de información «crítica» de inteligencia que.",
+      "title": "Un emulador y una demo del ordenador de bolsillo + calculadora científica Casio FX-870P",
+      "summary": "Los ordenadores de bolsillo fueron durante años una herramienta muy popular entre estudiantes e ingenieros japoneses, aunque en Europa y Estados Unidos nunca llegaron a despegar; quizá por eso no haya tanta documentación como de otros gadgets. Ahora un proyecto de esos creados artesanalmente, por amor al arte , permite.",
       "date": "2026-07-17"
     },
     {
-      "title": "Un emulador y una demo del ordenador de bolsillo + calculadora científica Casio FX-870P",
-      "summary": "Los ordenadores de bolsillo fueron durante años una herramienta muy popular entre estudiantes e ingenieros japoneses, aunque en Europa y Estados Unidos nunca llegaron a despegar; quizá por eso no haya tanta documentación como de otros gadgets. Ahora un proyecto de esos creados artesanalmente, por amor al arte , permite.",
+      "title": "El primer portaviones nuclear de Estados Unidos camino al desguace y no tiene nada que ver con Irán",
+      "summary": "La Armada de Estados Unidos ha adjudicado un contrato histórico de 418 millones de dólares para desguazar el USS Enterprise. La primera embarcación de su clase propulsada por energía nuclear será desmantelada.",
+      "date": "2026-07-17"
+    },
+    {
+      "title": "Trump anuncia una desclasificación que probaría injerencia electoral de China en EEUU",
+      "summary": "El presidente de Estados Unidos, Donald Trump, ha anunciado este jueves la desclasificación y publicación de información «crítica» de inteligencia que.",
       "date": "2026-07-17"
     },
     {
@@ -59,11 +64,6 @@
       "title": "EE UU pisa el acelerador en la carrera por los motores hipersónicos con un nuevo fondo de 400 millones de dólares",
       "summary": "El desarrollo de nuevos sistemas hipersónicos acaba de recibir el apoyo del Departamento de Guerra de los Estados Unidos tras la decisión de adjudicar aproximadamente 400 millones de euros a la empresa Kratos Defense & Security Solutions . Este nuevo fondo está destinado a acelerar diversos programas de este tipo de si.",
       "date": "2026-07-16"
-    },
-    {
-      "title": "EE UU impone nuevos aranceles del 25% a gran parte de productos brasileños y acusa a Lula de no negociar “de buena fe”",
-      "summary": "El Gobierno del presidente de Estados Unidos, Donald Trump, ha ordenado la imposición de un nuevo arancel del 25% sobre la mayor parte de productos brasileños importados desde este país, con fecha de aplicación a partir del 22 de julio. Es la conclusión de una investigación que acusaba a Brasil de competencia desleal.",
-      "date": "2026-07-16"
     }
   ],
   "sources": [
@@ -74,23 +74,17 @@
       "sourceId": "lootura-es-el-pais"
     },
     {
-      "title": "Trump despide a su operador de teleprompter, acusado de apostar ilegalmente en Kalshi sobre sus discursos",
-      "url": "https://elpais.com/internacional/2026-07-16/trump-suspende-a-su-operador-de-teleprompter-acusado-de-apostar-ilegalmente-en-kalshi-sobre-sus-discursos.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-16T22:29:37.000Z",
-      "sourceId": "lootura-es-el-pais"
+      "title": "El primer portaviones nuclear de Estados Unidos camino al desguace y no tiene nada que ver con Irán",
+      "url": "https://www.larazon.es/tecnologia-consumo/primer-portaviones-nuclear-estados-unidos-camino-desguace-no-tiene-nada-ver-iran_202607176a59ee4c1db8de040993bc9d.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-17T13:18:00.000Z",
+      "sourceId": "lootura-es-la-razon"
     },
     {
       "title": "Un emulador y una demo del ordenador de bolsillo + calculadora científica Casio FX-870P",
       "url": "http://www.microsiervos.com/archivo/gadgets/emulador-ordenador-bolsillo-calculadora-cientifica-casio-fx-870p.html?utm_source=lootura.com",
       "publishedAt": "2026-07-17T10:38:56.000Z",
       "sourceId": "lootura-es-microsiervos"
-    },
-    {
-      "title": "Trump anuncia una desclasificación que probaría injerencia electoral de China en EEUU",
-      "url": "https://theobjective.com/internacional/2026-07-17/trump-desclasificacion-injerencia-electoral-china-eeuu/?amp=&utm_source=lootura.com",
-      "publishedAt": "2026-07-17T05:41:49.000Z",
-      "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 4
+  "evidenceCount": 3
 }

@@ -3,7 +3,7 @@
 > Sigue la actividad de San Sebastián en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-17T09:54:46.288Z
+- Actualizado: 2026-07-17T13:22:29.680Z
 - Canonical: https://atlas.lootura.com/es/place/san-sebastian
 
 ## Cambios recientes
@@ -14,15 +14,15 @@ Año 1951. Para «pasear o sentarse a descansar, sin sentir los rigores del sol�
 
 Date: 2026-07-17
 
-### Un incendio deja cinco intoxicados por humo en una galería de arte de Cieza (Murcia)
-
-Los servicios de emergencia extinguieron este jueves un incendio declarado en el interior de la Galería Francisco Serrano , situada en la calle San Sebastián de Cieza. Como consecuencia del incendio, cinco personas fueron atendidas por inhalación de humo , sin que ninguna precisara traslado hospitalario. El Centro de C.
-
-Date: 2026-07-17
-
 ### Cinco jóvenes investigados por insultar y agredir a un hombre con la camiseta de España en el paseo de La Concha de San Sebastián
 
 La víctima ha tenido que ser atendida en el cuarto de socorro, tras lo cual ha interpuesto una denuncia por lo ocurrido.
+
+Date: 2026-07-17
+
+### Un incendio deja cinco intoxicados por humo en una galería de arte de Cieza (Murcia)
+
+Los servicios de emergencia extinguieron este jueves un incendio declarado en el interior de la Galería Francisco Serrano , situada en la calle San Sebastián de Cieza. Como consecuencia del incendio, cinco personas fueron atendidas por inhalación de humo , sin que ninguna precisara traslado hospitalario. El Centro de C.
 
 Date: 2026-07-17
 
@@ -70,6 +70,5 @@ Date: 2026-07-12
 
 ## Fuentes
 
-- [Un incendio deja cinco intoxicados por humo en una galería de arte de Cieza (Murcia)](https://www.elconfidencial.com/espana/2026-07-17/incendio-galeria-cieza-murcia-1tna-1tps_4391545/?utm_source=lootura.com) — 2026-07-17T07:29:00.000Z
 - [Rincones a la sombra en los que sentarse](https://www.diariovasco.com/gipuzkoa/memoria/rincones-sombra-sentarse-20260717125556-nt_amp.html?utm_source=lootura.com) — 2026-07-17T05:52:32.000Z
 - [Cinco jóvenes investigados por insultar y agredir a un hombre con la camiseta de España en el paseo de La Concha de San Sebastián](https://www.diariovasco.com/san-sebastian/cinco-jovenes-investigados-insultar-agredir-hombre-camiseta-espana-20260717112639-nt_amp.html?utm_source=lootura.com) — 2026-07-17T09:28:07.000Z

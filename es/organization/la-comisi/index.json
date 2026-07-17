@@ -1,0 +1,29 @@
+{
+  "id": "es-la-comisi",
+  "name": "La Comisi",
+  "type": "organization",
+  "locale": "es",
+  "canonicalPath": "/es/organization/la-comisi",
+  "canonicalUrl": "https://atlas.lootura.com/es/organization/la-comisi",
+  "markdownUrl": "https://atlas.lootura.com/es/organization/la-comisi/index.md",
+  "jsonUrl": "https://atlas.lootura.com/es/organization/la-comisi/index.json",
+  "description": "Sigue la actividad de La Comisi en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
+  "updatedAt": "2026-07-17T13:22:29.680Z",
+  "aliases": [],
+  "changes": [
+    {
+      "title": "Discovered by Atlas",
+      "summary": "La Comisi first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-07-17"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Bruselas reprende a España por no reformar el sistema de elección del CGPJ pese a los múltiples requerimientos",
+      "url": "https://www.abc.es/espana/bruselas-reprende-espana-reformar-sistema-eleccion-cgpj-20260717132124-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-17T12:55:59.000Z",
+      "sourceId": "lootura-es-abc"
+    }
+  ],
+  "evidenceCount": 1
+}

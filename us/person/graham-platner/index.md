@@ -3,10 +3,16 @@
 > Follow Graham Platner, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-07-17T09:55:08.806Z
+- Updated: 2026-07-17T13:22:45.540Z
 - Canonical: https://atlas.lootura.com/us/person/graham-platner
 
 ## Recent changes
+
+### ‘Professional malpractice’: The Platner fallout engulfs the operatives who made him
+
+When Daniel Moraff showed up on Graham Platner's doorstep last summer, the oyster farmer had a message for the young political operative who had traveled to the Maine coast to convince him to run for the U.S. Senate: "Get the fuck off my property." It took weeks of prodding before Platner relented, according to two peo.
+
+Date: 2026-07-17
 
 ### Maine Democratic Senate candidates discuss which of Platner's ideas they would use
 
@@ -62,12 +68,6 @@ generated enthusiasm in Maine with his progressive policies. Now he's out of the
 
 Date: 2026-07-14
 
-### Graham Platner's voters figure out what's next as candidates vie for their support
-
-Maine voters are still grappling with Democratic Senate candidate Graham Platner's dramatic departure from the race.
-
-Date: 2026-07-13
-
 ## Sources
 
-- [Maine Democratic Senate candidates discuss which of Platner's ideas they would use](https://www.nbcnews.com/video/maine-democratic-senate-candidates-discuss-which-of-platner-s-ideas-they-would-use-266814533841?utm_source=lootura.com) — 2026-07-17T00:59:32.000Z
+- [‘Professional malpractice’: The Platner fallout engulfs the operatives who made him](https://www.politico.com/news/2026/07/17/platner-is-finished-does-the-same-fate-await-the-out-of-state-consultants-who-recruited-him-01002652?utm_source=lootura.com) — 2026-07-17T09:55:00.000Z

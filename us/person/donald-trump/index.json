@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/donald-trump/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/donald-trump/index.json",
   "description": "Follow Donald Trump, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-17T09:55:08.806Z",
+  "updatedAt": "2026-07-17T13:22:45.540Z",
   "aliases": [
     "President Donald Trump",
     "President Trump",
@@ -46,23 +46,23 @@
       "date": "2026-07-17"
     },
     {
-      "title": "In primetime speech, Trump revisits disputed claims about election security and declassifies documents",
-      "summary": "In a primetime address, President Trump alleged the U.S. election system falls \"catastrophically short,\" revisiting a topic that has drawn his attention for years - and making claims that election experts have heavily disputed.",
-      "date": "2026-07-17"
-    },
-    {
       "title": "How paper ballots make digital manipulation of results unlikely",
       "summary": "NBC News’ Jane Timm analyzes President Trump’s claims about digital manipulation of ballot results in the U.S., as Trump said that the White House will declassify documents related to the 2020 election and alleged influence by China during his speech to the nation.",
       "date": "2026-07-17"
     },
     {
-      "title": "A Trump Obsession That Carries a Cost for Democracy",
-      "summary": "In demanding steps to address the integrity of voting, President Trump persisted in relitigating his 2020 election defeat while finding ways to cast doubt on the 2026 outcome.",
+      "title": "Trump again makes unverifiable claims of noncitizen voting",
+      "summary": "The president offered no concrete evidence, and at least one state — Nevada — rejected his claims immediately.",
       "date": "2026-07-17"
     },
     {
-      "title": "Trump again makes unverifiable claims of noncitizen voting",
-      "summary": "The president offered no concrete evidence, and at least one state — Nevada — rejected his claims immediately.",
+      "title": "Rep. Jim Himes reacts to Trump's speech on election security",
+      "summary": "NPR's A Martinez discusses President Trump's speech on election security with Connecticut Rep. Jim Himes, the ranking Democrat on the House Intelligence Committee.",
+      "date": "2026-07-17"
+    },
+    {
+      "title": "World leaders meet in D.C. to discuss left-wing political violence",
+      "summary": "Leaders from roughly 60 countries gathered in Washington, DC, to discuss what top Trump administration officials are calling an urgent threat: far left terrorism.",
       "date": "2026-07-17"
     }
   ],
@@ -80,6 +80,12 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
+      "title": "White House teleprompter operator allegedly made over $100K betting on Trump's speeches",
+      "url": "https://www.cbsnews.com/video/white-house-teleprompter-operator-allegedly-made-over-100k-betting-on-trumps-speeches/?utm_source=lootura.com",
+      "publishedAt": "2026-07-17T12:59:09.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
+    {
       "title": "Fact checking Trump speech on election security",
       "url": "https://www.cbsnews.com/news/fact-checking-trump-speech-on-election-security/?utm_source=lootura.com",
       "publishedAt": "2026-07-17T04:07:32.000Z",
@@ -89,12 +95,6 @@
       "title": "Sen. Mark Warner slams Trump's primetime speech: \"Incredible lies\"",
       "url": "https://www.cbsnews.com/video/sen-mark-warner-slams-trumps-primetime-speech/?utm_source=lootura.com",
       "publishedAt": "2026-07-17T02:04:00.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
-    {
-      "title": "In primetime speech, Trump revisits disputed claims about election security and declassifies documents",
-      "url": "https://www.cbsnews.com/news/trump-election-primetime-speech-declassified-documents-revisits-disputed-claims/?utm_source=lootura.com",
-      "publishedAt": "2026-07-17T06:11:59.000Z",
       "sourceId": "lootura-us-cbs-news"
     },
     {
@@ -110,23 +110,23 @@
       "sourceId": "lootura-us-nbc-news"
     },
     {
+      "title": "Trump Uses Prime-Time Speech to Revive False Election Claims",
+      "url": "https://www.today.com/video/trump-revives-false-election-claims-ahead-of-crucial-midterms-266832965531?utm_source=lootura.com",
+      "publishedAt": "2026-07-17T11:19:29.000Z",
+      "sourceId": "lootura-us-nbc-news-politics"
+    },
+    {
+      "title": "Trump's team says 'no children' died from USAID cuts. Consider these 3 cases",
+      "url": "https://www.npr.org/2026/07/17/g-s1-133651/usaid-elon-musk-rubio-deaths?utm_source=lootura.com",
+      "publishedAt": "2026-07-17T10:37:02.000Z",
+      "sourceId": "lootura-us-npr"
+    },
+    {
       "title": "Rep. Jim Himes reacts to Trump's speech on election security",
       "url": "https://www.npr.org/2026/07/17/nx-s1-5896138/rep-jim-himes-reacts-to-trumps-speech-on-election-security?utm_source=lootura.com",
       "publishedAt": "2026-07-17T08:42:48.000Z",
       "sourceId": "lootura-us-npr-politics"
-    },
-    {
-      "title": "World leaders meet in D.C. to discuss left-wing political violence",
-      "url": "https://www.npr.org/2026/07/17/nx-s1-5888660/world-leaders-meet-in-d-c-to-discuss-left-wing-political-violence?utm_source=lootura.com",
-      "publishedAt": "2026-07-17T08:43:23.000Z",
-      "sourceId": "lootura-us-npr-politics"
-    },
-    {
-      "title": "An analysis of President Trump's address",
-      "url": "https://www.npr.org/2026/07/16/nx-s1-5896487/an-analysis-of-president-trumps-address?utm_source=lootura.com",
-      "publishedAt": "2026-07-17T01:38:04.000Z",
-      "sourceId": "lootura-us-npr-politics"
     }
   ],
-  "evidenceCount": 18
+  "evidenceCount": 19
 }

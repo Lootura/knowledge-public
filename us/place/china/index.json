@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/china/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/china/index.json",
   "description": "Follow China, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-17T09:55:08.806Z",
+  "updatedAt": "2026-07-17T13:22:45.540Z",
   "aliases": [],
   "changes": [
     {
@@ -32,6 +32,11 @@
       "date": "2026-07-17"
     },
     {
+      "title": "Trump Uses Prime-Time Speech to Revive False Election Claims",
+      "summary": "President Donald Trump used his prime-time speech Thursday to raise questions about election integrity in the build-up to November’s key midterms while reviving false claims about the 2020 election and asserting that China targeted his campaign. NBC’s Gabe Gutierrez reports for TODAY.",
+      "date": "2026-07-17"
+    },
+    {
       "title": "China's Xi calls for step up of global effort in AI, as US curbs squeeze China's tech access",
       "summary": "American-led restrictions have blocked China from accessing some of the world's most advanced technologies, spurring China's efforts to build its own know-how and intensifying the tech race between the world's two biggest economies. (Image credit: Ng Han Guan).",
       "date": "2026-07-17"
@@ -52,11 +57,6 @@
       "date": "2026-07-17"
     },
     {
-      "title": "Special Report: Trump delivers speech on election infrastructure",
-      "summary": "NBC News correspondents break down President Trump's address to the nation on election integrity where the president described information he says is now declassified related to allegations about voter fraud, including accusations against China.",
-      "date": "2026-07-17"
-    },
-    {
       "title": "China’s Economy Grows at Slowest Pace in Years",
       "summary": "Economic growth of 4.3 percent in the second quarter, versus the same period last year, reflected a broad slump outside of the country’s export-oriented manufacturing might.",
       "date": "2026-07-15"
@@ -72,7 +72,7 @@
     {
       "title": "US politicians push agencies to restrict research collaboration with China",
       "url": "https://www.nature.com/articles/d41586-026-02226-9?utm_source=lootura.com",
-      "publishedAt": "2026-07-17T09:55:12.239Z",
+      "publishedAt": "2026-07-17T13:22:49.286Z",
       "sourceId": "lootura-us-nature"
     },
     {
@@ -88,17 +88,11 @@
       "sourceId": "lootura-us-nbc-news"
     },
     {
-      "title": "China's Xi calls for step up of global effort in AI, as US curbs squeeze China's tech access",
-      "url": "https://www.npr.org/2026/07/17/nx-s1-5897285/chinas-xi-calls-for-step-up-of-global-effort-in-ai-as-us-curbs-squeeze-chinas-tech-access?utm_source=lootura.com",
-      "publishedAt": "2026-07-17T07:17:04.000Z",
-      "sourceId": "lootura-us-npr-world"
-    },
-    {
-      "title": "Philippines Condemns AI Video Posted by Chinese State Media Depicting It as a Monkey",
-      "url": "https://www.nytimes.com/2026/07/17/world/asia/philippines-ai-video-china-racist.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-17T08:31:06.000Z",
-      "sourceId": "lootura-us-the-new-york-times-world"
+      "title": "Trump Uses Prime-Time Speech to Revive False Election Claims",
+      "url": "https://www.today.com/video/trump-revives-false-election-claims-ahead-of-crucial-midterms-266832965531?utm_source=lootura.com",
+      "publishedAt": "2026-07-17T11:19:29.000Z",
+      "sourceId": "lootura-us-nbc-news-politics"
     }
   ],
-  "evidenceCount": 7
+  "evidenceCount": 5
 }
