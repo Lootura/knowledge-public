@@ -3,7 +3,7 @@
 > Sigue la actividad de Lamine Yamal en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-17T02:26:45.462Z
+- Actualizado: 2026-07-17T06:12:48.444Z
 - Canonical: https://atlas.lootura.com/es/person/lamine-yamal
 
 ## Cambios recientes
@@ -64,4 +64,4 @@ Date: 2026-07-08
 
 ## Fuentes
 
-- [Lamine Yamal y Pedro Porro, al margen en el primer entrenamiento antes de la final](https://theobjective.com/deportes/futbol/mundial/2026-07-16/lamine-yamal-porro-al-margen-entrenamiento/?utm_source=lootura.com) — 2026-07-16T16:35:12.000Z
+- [La pantalla grande para ver la final del Mundial entre Leo Messi y Lamine Yamal en Barcelona: ubicación para apoyar a La Roja](https://www.elconfidencial.com/espana/cataluna/2026-07-17/pantalla-grande-barcelona-mundial-final-espana-1qrt-1tna_4391079/?utm_source=lootura.com) — 2026-07-17T03:00:00.000Z

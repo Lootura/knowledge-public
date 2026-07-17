@@ -70,4 +70,4 @@ Date: 2026-07-14
 
 ## Fuentes
 
-- [Delcy, sobre su viaje a España en 2020: «Me invitó Ábalos para ver a las autoridades»](https://theobjective.com/internacional/2026-07-16/delcy-rodriguez-viaje-espana-invitacion-abalos/?utm_source=lootura.com) — 2026-07-16T21:10:23.000Z
+No public source links.

@@ -3,10 +3,22 @@
 > Sigue la actividad de Donald Trump en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-17T02:26:45.462Z
+- Actualizado: 2026-07-17T06:12:48.444Z
 - Canonical: https://atlas.lootura.com/es/person/donald-trump
 
 ## Cambios recientes
+
+### Trump resucita en un discurso a la nación el bulo del fraude electoral de 2020 y exagera la influencia de China en su derrota
+
+Donald Trump, líder de un país en guerra y con el coste de la vida en alza, se dirigió este jueves por la noche a la nación para hablar de las elecciones... de hace seis años. No fue solo un intento de ajuste de cuentas con un fracaso personal; el presidente de Estados Unidos, cuya impopularidad bate récords, habló con.
+
+Date: 2026-07-17
+
+### Trump anuncia una desclasificación que probaría injerencia electoral de China en EEUU
+
+El presidente de Estados Unidos, Donald Trump, ha anunciado este jueves la desclasificación y publicación de información «crítica» de inteligencia que.
+
+Date: 2026-07-17
 
 ### Trump desclasifica documentos de la CIA que demuestran el fraude electoral del chavismo
 
@@ -32,6 +44,12 @@ El presidente estadounidense, Donald Trump, ha anunciado esta madrugada que ha d
 
 Date: 2026-07-17
 
+### Trump despide a su operador de teleprompter, acusado de apostar ilegalmente en Kalshi sobre sus discursos
+
+El presidente de Estados Unidos, Donald Trump, tiene un problema con sus discursos. Su técnico de teleprompter, la pantalla de visualización transparente sobre la que se proyectan textos, Gabriel Pérez, ha sido acusado de apostar ilegalmente en la plataforma de predicción Kalshi , la rival de Polymarket, sobre el conte.
+
+Date: 2026-07-16
+
 ### Trump impone un arancel del 25% a Brasil por "no negociar de buena fe"
 
 El presidente de Estados Unidos, Donald Trump, acaba de iniciar un nuevo capítulo en su ya extenso historial de batallas comerciales. Su Administración ha anunciado la imposición de un arancel general del 25% sobre el grueso de importaciones procedentes de Brasil, país al que acusa de actuar "con mala fe" en las relaci.
@@ -50,29 +68,9 @@ El Gobierno del presidente de Estados Unidos, Donald Trump, ha ordenado la impos
 
 Date: 2026-07-16
 
-### El 'efecto Trump': China ya es más popular que Estados Unidos
-
-Un año y medio después de su regreso a la Casa Blanca, Donald Trump ya ha logrado un vuelco planetario: por primera vez, China tiene una visión más favorable que Estados Unidos a nivel global . Así lo demuestra la última edición del estudio anual de opinión pública realizado por el Pew Research Center, publicada este j.
-
-Date: 2026-07-16
-
-### Trump amenaza con atacar infraestructuras civiles si Irán no vuelve a negociar
-
-Estados Unidos ha reimpuesto el bloqueo naval sobre los puertos iraníes y ha intensificado su campaña de bombardeos contra la república islámica, en una nueva escalada de ataques que amenaza con devolver a Oriente Próximo a una guerra abierta y que vuelve a situar el estrecho de Ormuz en el centro del enfrentamiento.La.
-
-Date: 2026-07-16
-
-### Trump se enreda de nuevo en una guerra de Irán sin salida clara
-
-En las jornadas posteriores al ataque conjunto de Israel y Estados Unidos contra Irán del pasado 28 de febrero, Donald Trump cambió al menos una docena de veces de argumentos para justificar una operación militar que evitó llamar por su nombre (“guerra”, palabra que aún se resiste a emplear). Sobre su duración también.
-
-Date: 2026-07-16
-
 ## Fuentes
 
-- [Trump desclasifica documentos de la CIA que demuestran el fraude electoral del chavismo](https://www.abc.es/internacional/trump-desclasifica-documentos-cia-muestran-fraude-electoral-20260717034114-nt_amp.html?utm_source=lootura.com) — 2026-07-17T01:41:15.000Z
-- [Trump resucita en un discurso a la nación el bulo del fraude electoral de 2020 y acusa a China de influir en su derrota](https://elpais.com/internacional/2026-07-17/trump-resucita-en-un-discurso-a-la-nacion-el-bulo-del-fraude-electoral-de-2020-y-acusa-a-china-de-influir-en-su-derrota.html?utm_source=lootura.com) — 2026-07-17T01:28:02.000Z
-- [Trump impone un arancel del 25% a Brasil por "no negociar de buena fe"](https://www.expansion.com/economia/2026/07/16/6a592512468aeba63e8b4587.html?utm_source=lootura.com) — 2026-07-16T18:43:27.000Z
-- [Trump anuncia la desclasificación de documentos sobre una supuesta injerencia electoral china en 2020](https://www.larazon.es/internacional/trump-anuncia-desclasificacion-documentos-supuesta-injerencia-electoral-china-2020_202607176a598bc90500ab412c9a1bc3.html?outputType=amp&utm_source=lootura.com) — 2026-07-17T01:56:25.000Z
-- [Trump desclasifica informes de la CIA que «prueban que el sistema electoral ha sido manipulado» y acusa a China](https://okdiario.com/internacional/trump-desclasifica-informes-cia-que-prueban-que-sistema-electoral-vulnerable-acusa-china-anuncia-medidas-antifraude-19013194?utm_source=lootura.com) — 2026-07-17T01:52:08.000Z
-- [Un operador del teleprónter de Trump ganó casi 90.000 euros en apuestas sobre sus discursos](https://theobjective.com/internacional/2026-07-16/operador-telepronter-trump-apuestas-discursos/?amp=&utm_source=lootura.com) — 2026-07-16T20:22:55.000Z
+- [El ayudante de Trump encargado de su teleprónter ganó 90.000 dólares en apuestas sobre lo que iba a decir en sus discursos](https://www.elmundo.es/internacional/2026/07/16/6a591d59e4d4d83b218b457b.html?utm_source=lootura.com) — 2026-07-16T19:06:08.000Z
+- [Trump resucita en un discurso a la nación el bulo del fraude electoral de 2020 y exagera la influencia de China en su derrota](https://elpais.com/internacional/2026-07-17/trump-resucita-en-un-discurso-a-la-nacion-el-bulo-del-fraude-electoral-de-2020-y-acusa-a-china-de-influir-en-su-derrota.html?utm_source=lootura.com) — 2026-07-17T01:28:02.000Z
+- [Trump despide a su operador de teleprompter, acusado de apostar ilegalmente en Kalshi sobre sus discursos](https://elpais.com/internacional/2026-07-16/trump-suspende-a-su-operador-de-teleprompter-acusado-de-apostar-ilegalmente-en-kalshi-sobre-sus-discursos.html?utm_source=lootura.com) — 2026-07-16T22:29:37.000Z
+- [Trump anuncia una desclasificación que probaría injerencia electoral de China en EEUU](https://theobjective.com/internacional/2026-07-17/trump-desclasificacion-injerencia-electoral-china-eeuu/?amp=&utm_source=lootura.com) — 2026-07-17T05:41:49.000Z

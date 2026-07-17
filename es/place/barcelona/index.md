@@ -3,10 +3,16 @@
 > Sigue la actividad de Barcelona en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-16T20:54:41.819Z
+- Actualizado: 2026-07-17T06:12:48.444Z
 - Canonical: https://atlas.lootura.com/es/place/barcelona
 
 ## Cambios recientes
+
+### Menos madera, más paisaje: la revolución de la barrica de vino
+
+En una mesa de cuatro comensales en cualquier rincón de Madrid, Barcelona, Sevilla, Valencia o Logroño, una botella de tinto bien escogido puede desaparecer en cuestión de diez o doce minutos. No es por una sed desenfrenada ni por falta de modales; es el síntoma de un cambio de paradigma en el consumo de vino en España.
+
+Date: 2026-07-17
 
 ### La impresionante casa de Ferran Torres en Gavá Mar: un refugio de lujo con piscina privada, gimnasio y máxima privacidad
 
@@ -62,12 +68,6 @@ El Barcelona ha comenzado este mercado de fichajes con mucho movimiento y millon
 
 Date: 2026-07-13
 
-### En libertad el exalcalde de Sant Feliu (Girona) investigado por presuntamente masturbarse en una piscina
-
-La sección de Instrucción del Tribunal de Instancia de Arenys de Mar (Barcelona) ha acordado l ibertad a disposición del juez para el exalcalde de Sant Feliu de Guíxols (Girona), Pere Albó, detenido este domingo por un presunto delito de exhibicionismo al masturbarse frente a menores de edad en la piscina de un hotel d.
-
-Date: 2026-07-13
-
 ## Fuentes
 
-No public source links.
+- [Menos madera, más paisaje: la revolución de la barrica de vino](https://www.abc.es/gastronomia/vinos/virtud-silencio-madera-vino-busca-frescura-20260716155912-nt.html?utm_source=lootura.com) — 2026-07-17T05:24:46.000Z

@@ -3,32 +3,20 @@
 > Follow Donald Trump, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-07-17T02:27:10.364Z
+- Updated: 2026-07-17T06:13:09.528Z
 - Canonical: https://atlas.lootura.com/us/person/donald-trump
 
 ## Recent changes
 
 ### Sen. Mark Warner slams Trump's primetime speech: "Incredible lies"
 
-Sen. Mark Warner joined CBS News with his reaction to President Trump's primetime address on U.S. election security.
+Sen. Mark Warner joins CBS News with his reaction to President Trump's primetime address on Thursday about U.S. election security.
 
 Date: 2026-07-17
 
 ### Trump administration to declassify documents relating to China and U.S. elections
 
 President Donald Trump addressed the nation from the White House, announcing that the administration will declassify documents related to the 2020 election and alleged influence by China.
-
-Date: 2026-07-17
-
-### How paper ballots make digital manipulation of results unlikely
-
-NBC News’ Jane Timm analyzes President Trump’s claims about digital manipulation of ballot results in the U.S., as Trump said that the White House will declassify documents related to the 2020 election and alleged influence by China during his speech to the nation.
-
-Date: 2026-07-17
-
-### Special Report: Trump delivers speech on election infrastructure
-
-NBC News correspondents break down President Trump's address to the nation on election integrity where the president described information he says is now declassified related to allegations about voter fraud, including accusations against China.
 
 Date: 2026-07-17
 
@@ -44,39 +32,51 @@ Many of President Trump’s attempts to curtail mail voting have been blocked by
 
 Date: 2026-07-17
 
-### TrumpRx promised a supermarket for cheaper drugs but delivered a boutique
+### Trump speaks on elections, alleges Chinese access to voter data | Special Report
 
-President Trump said TrumpRx is the biggest thing to happen in healthcare in decades. But an NPR analysis finds drugmakers are only offering deals on a few of their medicines.
+President Trump on Thursday delivered a primetime address about election security where he railed against China. Tony Dokoupil anchored CBS News' special report.
 
-Date: 2026-07-16
+Date: 2026-07-17
 
-### The use of force has become a 'default tool' for ICE officers, a new report finds
+### Fact checking Trump speech on election security
 
-An ACLU report looks at the widespread use of force in immigration enforcement in the first year of President Trump's return to office. Recent fatal shootings in Texas and Maine have brought renewed scrutiny to the agency's tactics. (Image credit: Scott Olson).
+President Trump is delivering a speech on election security Thursday night at the White House.
 
-Date: 2026-07-16
+Date: 2026-07-17
 
-### Trump is taking longer to approve disaster aid and denying Democratic states more frequently
+### In primetime speech, Trump revisits disputed claims about election security and declassifies documents
 
-When major disasters strike, Americans are routinely waiting weeks — or even months — to receive presidential approval for aid. And if they live in a state that didn't support President Donald Trump, chances are greater that aid will be denied.
+In a primetime address, President Trump alleged the U.S. election system falls "catastrophically short," revisiting a topic that has drawn his attention for years - and making claims that election experts have heavily disputed.
 
-Date: 2026-07-16
+Date: 2026-07-17
 
-### Trump immediately fires the new court-appointed top prosecutor in Seattle
+### How paper ballots make digital manipulation of results unlikely
 
-President Donald Trump fired the new top U.S. prosecutor in Seattle on Wednesday less than an hour after the attorney was unanimously appointed by the federal judges in the district, highlighting tensions between the courts and the president over the powerful positions.
+NBC News’ Jane Timm analyzes President Trump’s claims about digital manipulation of ballot results in the U.S., as Trump said that the White House will declassify documents related to the 2020 election and alleged influence by China during his speech to the nation.
 
-Date: 2026-07-16
+Date: 2026-07-17
+
+### How Trump's election allegations against China could impact relations with U.S.
+
+President Trump accused China of having a role in influencing the 2020 election during his speech about election interference. NBC News' Garrett Haake has more on how this could impact China's relationship with the U.S.
+
+Date: 2026-07-17
+
+### Federal panel signals it could support permanent fencing around White House park known for protests
+
+A historic hub for free speech and protest is under the spotlight as the Trump administration proposes adding permanent fencing around Lafayette Square.
+
+Date: 2026-07-17
 
 ## Sources
 
 - [Federal judge slams Trump, DOJ over IRS lawsuit](https://www.cbsnews.com/video/federal-judge-slams-trump-doj-irs-lawsuit/?utm_source=lootura.com) — 2026-07-17T01:19:46.000Z
+- [Watch: Trump speaks on elections, alleges Chinese access to voter data | Special Report](https://www.cbsnews.com/video/watch-trump-speaks-on-elections-alleges-chinese-access-to-voter-data-special-report/?utm_source=lootura.com) — 2026-07-17T02:27:00.000Z
 - [Watch: Karoline Leavitt answers questions on Trump's primetime speech, new Iran strikes](https://www.cbsnews.com/video/karoline-leavitt-answers-questions-ahead-of-trumps-speech-on-election-integrity/?utm_source=lootura.com) — 2026-07-16T20:06:39.000Z
 - [Schiff presses Ashcroft over Trump's calls for prosecution of perceived political enemies](https://www.cbsnews.com/video/schiff-ashcroft-clash-over-president-trumps-prosecution-of-political-enemies/?utm_source=lootura.com) — 2026-07-16T20:03:10.000Z
-- [Sen. Mark Warner slams Trump's primetime speech: "Incredible lies"](https://www.cbsnews.com/video/sen-mark-warner-slams-trumps-primetime-speech/?utm_source=lootura.com) — 2026-07-17T02:04:32.000Z
+- [Fact checking Trump speech on election security](https://www.cbsnews.com/news/fact-checking-trump-speech-on-election-security/?utm_source=lootura.com) — 2026-07-17T04:07:32.000Z
+- [Sen. Mark Warner slams Trump's primetime speech: "Incredible lies"](https://www.cbsnews.com/video/sen-mark-warner-slams-trumps-primetime-speech/?utm_source=lootura.com) — 2026-07-17T02:04:00.000Z
+- [In primetime speech, Trump revisits disputed claims about election security and declassifies documents](https://www.cbsnews.com/news/trump-election-primetime-speech-declassified-documents-revisits-disputed-claims/?utm_source=lootura.com) — 2026-07-17T06:11:59.000Z
 - [Trump administration to declassify documents relating to China and U.S. elections](https://www.nbcnews.com/video/trump-administration-to-declassify-documents-relating-to-china-and-u-s-elections-266817605523?utm_source=lootura.com) — 2026-07-17T01:31:09.000Z
 - [How paper ballots make digital manipulation of results unlikely](https://www.nbcnews.com/video/how-paper-ballots-make-digital-manipulation-of-results-unlikely-266817605727?utm_source=lootura.com) — 2026-07-17T02:02:40.000Z
-- [Special Report: Trump delivers speech on election infrastructure](https://www.nbcnews.com/video/special-report-trump-delivers-speech-on-election-infrastructure-266817605765?utm_source=lootura.com) — 2026-07-17T02:12:35.000Z
-- [TrumpRx promised a supermarket for cheaper drugs but delivered a boutique](https://www.npr.org/2026/07/16/nx-s1-5894947/trump-rx-medicine-drugs-health-care-pfizer-low-prices-gilead?utm_source=lootura.com) — 2026-07-16T09:00:00.000Z
-- [The use of force has become a 'default tool' for ICE officers, a new report finds](https://www.npr.org/2026/07/16/nx-s1-5891834/ice-use-of-force-aclu-report?utm_source=lootura.com) — 2026-07-16T09:00:00.000Z
-- [Officials probe whether White House teleprompter operator profited off Trump's words](https://www.npr.org/2026/07/16/nx-s1-5896223/kalshi-trump-white-house-teleprompter-operator-bet?utm_source=lootura.com) — 2026-07-16T17:10:29.000Z
+- [How Trump's election allegations against China could impact relations with U.S.](https://www.nbcnews.com/video/how-trump-s-election-allegations-against-china-could-impact-relations-with-u-s-266824261975?utm_source=lootura.com) — 2026-07-17T03:40:45.000Z

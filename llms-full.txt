@@ -16,6 +16,7 @@
 - [Organización del Tratado del Atlántico Norte](https://atlas.lootura.com/es/organization/nato): Sigue la actividad de Organización del Tratado del Atlántico Norte en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 - [Partido Popular](https://atlas.lootura.com/es/organization/partido-popular): Sigue la actividad de Partido Popular en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 - [Partido Socialista Obrero Español](https://atlas.lootura.com/es/organization/psoe): Sigue la actividad de Partido Socialista Obrero Español en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
+- [Reino Unido](https://atlas.lootura.com/es/organization/reino-unido): Sigue la actividad de Reino Unido en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 - [Tribunal Superior](https://atlas.lootura.com/es/organization/tribunal-superior): Sigue la actividad de Tribunal Superior en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 - [Alberto Núñez Feijóo](https://atlas.lootura.com/es/person/alberto-nunez-feijoo): Sigue la actividad de Alberto Núñez Feijóo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 - [Begoña Gómez](https://atlas.lootura.com/es/person/begona-gomez): Sigue la actividad de Begoña Gómez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
@@ -35,6 +36,7 @@
 - [Iran](https://atlas.lootura.com/es/place/iran): Sigue la actividad de Iran en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 - [La Sagra](https://atlas.lootura.com/es/place/la-sagra): Sigue la actividad de La Sagra en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 - [Madrid](https://atlas.lootura.com/es/place/madrid): Sigue la actividad de Madrid en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
+- [Málaga](https://atlas.lootura.com/es/place/malaga): Sigue la actividad de Málaga en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 - [Mijas](https://atlas.lootura.com/es/place/mijas): Sigue la actividad de Mijas en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 - [País Vasco](https://atlas.lootura.com/es/place/pais-vasco): Sigue la actividad de País Vasco en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 - [Portugal](https://atlas.lootura.com/es/place/portugal): Sigue la actividad de Portugal en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
@@ -55,7 +57,6 @@
 - [Bears Ears](https://atlas.lootura.com/us/person/bears-ears): Follow Bears Ears, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 - [Charlie Kirk](https://atlas.lootura.com/us/person/charlie-kirk): Follow Charlie Kirk, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 - [Darline Graham Nordone](https://atlas.lootura.com/us/person/darline-graham-nordone): Follow Darline Graham Nordone, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
-- [Defense Secretary Pete](https://atlas.lootura.com/us/person/defense-secretary-pete): Follow Defense Secretary Pete, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 - [Donald Trump](https://atlas.lootura.com/us/person/donald-trump): Follow Donald Trump, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 - [Graham Platner](https://atlas.lootura.com/us/person/graham-platner): Follow Graham Platner, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 - [Grand Staircase](https://atlas.lootura.com/us/person/grand-staircase): Follow Grand Staircase, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.

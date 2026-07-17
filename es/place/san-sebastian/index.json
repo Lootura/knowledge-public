@@ -8,11 +8,16 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/san-sebastian/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/san-sebastian/index.json",
   "description": "Sigue la actividad de San Sebastián en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-17T02:26:45.462Z",
+  "updatedAt": "2026-07-17T06:12:48.444Z",
   "aliases": [
     "Donostia"
   ],
   "changes": [
+    {
+      "title": "Rincones a la sombra en los que sentarse",
+      "summary": "Año 1951. Para «pasear o sentarse a descansar, sin sentir los rigores del sol», Donostia ofrece espacios archiconocidos y otros, menos frecuentados. Hace 75 años, citaban el paseo de los Fueros o los jardines situados tras el hotel María Cristina.",
+      "date": "2026-07-17"
+    },
     {
       "title": "«¡Más sangre azul es imposible!»",
       "summary": "Año 1926. En 'La Voz de Guipúzcoa' hicieron el cálculo. Hace un siglo coincidieron en San Sebastián nada menos que quince duques, 33 marqueses, 22 condes, un vizconde y tres barones. La aristocracia elegía nuestra ciudad para veranear.",
@@ -51,9 +56,9 @@
   ],
   "sources": [
     {
-      "title": "«¡Más sangre azul es imposible!»",
-      "url": "https://www.diariovasco.com/gipuzkoa/memoria/sangre-azul-imposible-20260716075415-nt_amp.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-16T05:54:15.000Z",
+      "title": "Rincones a la sombra en los que sentarse",
+      "url": "https://www.diariovasco.com/gipuzkoa/memoria/rincones-sombra-sentarse-20260717125556-nt_amp.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-17T05:52:32.000Z",
       "sourceId": "lootura-es-el-diario-vasco"
     }
   ],

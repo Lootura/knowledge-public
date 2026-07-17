@@ -3,10 +3,16 @@
 > Follow Europe, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-16T17:13:33.353Z
+- Updated: 2026-07-17T06:13:09.528Z
 - Canonical: https://atlas.lootura.com/us/place/europe
 
 ## Recent changes
+
+### EU's AI 'guardrails' cannot absorb rapid changes in technology, study warns
+
+"Guardrails" built by the EU to govern AI fall short in both ambition and execution and have become too heavy to absorb rapid changes in technology, a new study in Big Data & Society warns.
+
+Date: 2026-07-17
 
 ### Devastating Asian beetle detected in EU for first time
 
@@ -62,12 +68,6 @@ Graham was a rare bridge between President Donald Trump's "America First" foreig
 
 Date: 2026-07-12
 
-### It's Christmas in July as hundreds of Santas go on the march in the middle of a stifling summer heat wave
-
-It's beginning to look a lot like Christmas — if you ignore the calendar, that is. While much of Europe continues to grapple with stifling summer heat, one Danish city looked ready for Christmas. Hundreds of Santa Clauses, Mrs. Clauses and Christmas elves from around the world filled the streets this week for the annua.
-
-Date: 2026-07-12
-
 ## Sources
 
-No public source links.
+- [EU's AI 'guardrails' cannot absorb rapid changes in technology, study warns](https://phys.org/news/2026-07-eu-ai-guardrails-absorb-rapid.html?utm_source=lootura.com) — 2026-07-17T03:20:01.000Z

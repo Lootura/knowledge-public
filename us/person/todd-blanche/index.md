@@ -3,7 +3,7 @@
 > Follow Todd Blanche, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-07-17T02:27:10.364Z
+- Updated: 2026-07-17T06:13:09.528Z
 - Canonical: https://atlas.lootura.com/us/person/todd-blanche
 
 ## Recent changes
@@ -13,12 +13,6 @@
 Acting Attorney General Todd Blanche met with accusers of Jeffrey Epstein following a demand to do so by a Republican senator whose support is crucial to advancing his nomination to lead the Justice Department.
 
 Date: 2026-07-17
-
-### Jennifer Bos makes emotional opening statement about daughter's death in Blanche confirmation hearing
-
-"Illegal immigration, sanctuary policies, the fentanyl crisis and cashless bail. I'm so grateful that the whole of this administration with Todd Blanche leading the DOJ has prioritized all four of these issues," Bos said.
-
-Date: 2026-07-16
 
 ### Schiff presses Ashcroft over Trump's calls for prosecution of perceived political enemies
 
@@ -35,6 +29,12 @@ Date: 2026-07-16
 ### Tillis says he won't support Blanche unless he meets with Epstein survivors
 
 Sen. Thom Tillis said that Todd Blanche must meet with survivors of convicted sex offender Jeffrey Epstein's crimes before he'll vote to advance his nomination for attorney general out of the Senate Judiciary Committee.
+
+Date: 2026-07-16
+
+### Jennifer Bos makes emotional opening statement about daughter's death in Blanche confirmation hearing
+
+"Illegal immigration, sanctuary policies, the fentanyl crisis and cashless bail. I'm so grateful that the whole of this administration with Todd Blanche leading the DOJ has prioritized all four of these issues," Bos said.
 
 Date: 2026-07-16
 
@@ -74,4 +74,3 @@ Date: 2026-07-16
 - [Key takeaways from day two of Blanche confirmation hearing](https://www.cbsnews.com/video/here-are-the-key-takeaways-from-day-two-of-blanches-confirmation-hearings/?utm_source=lootura.com) — 2026-07-16T20:13:44.000Z
 - [Tillis says he won't support Blanche unless he meets with Epstein survivors](https://www.cbsnews.com/news/tillis-blanche-attorney-general-nomination-epstein-survivors/?utm_source=lootura.com) — 2026-07-16T20:16:00.000Z
 - [Blanche holds meeting with Epstein accusers after Tillis' request](https://www.cbsnews.com/news/todd-blanche-meeting-epstein-accusers/?utm_source=lootura.com) — 2026-07-17T01:51:54.000Z
-- [WATCH: Jennifer Bos makes emotional opening statement about daughter's death in Blanche confirmation hearing](https://www.pbs.org/newshour/politics/watch-jennifer-bos-makes-emotional-opening-statement-about-daughters-death-in-blanche-confirmation-hearing?utm_source=lootura.com) — 2026-07-16T17:06:25.000Z

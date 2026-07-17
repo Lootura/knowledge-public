@@ -16,4 +16,4 @@ Date: 2026-07-16
 
 ## Fuentes
 
-- [Un detenido por el incendio forestal de Lozoyuela (Madrid) en el que ha intervenido la UME](https://okdiario.com/sucesos/detenido-incendio-forestal-lozoyuela-madrid-que-intervenido-ume-19012690/amp?utm_source=lootura.com) — 2026-07-16T20:14:04.000Z
+No public source links.

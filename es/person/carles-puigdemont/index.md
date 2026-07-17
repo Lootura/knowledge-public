@@ -3,10 +3,16 @@
 > Sigue la actividad de Carles Puigdemont en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-17T02:26:45.462Z
+- Actualizado: 2026-07-17T06:12:48.444Z
 - Canonical: https://atlas.lootura.com/es/person/carles-puigdemont
 
 ## Cambios recientes
+
+### Puigdemont opta por no mover ficha tras el fallo de la Justicia europea y lo fía todo a que el Constitucional corrija al Supremo
+
+Sin movimiento en la Plaza de la Villa de París . Ni el instructor del Tribunal Supremo Pablo Llarena piensa reaccionar al fallo que emitió este jueves el Tribunal de Luxemburgo, ni la defensa de Carles Puigdemont tiene previsto pedirle que levante la orden de detención nacional que permanece vigente sobre el expreside.
+
+Date: 2026-07-17
 
 ### Junts fía su futuro electoral al regreso de Puigdemont
 
@@ -28,5 +34,5 @@ Date: 2026-07-16
 
 ## Fuentes
 
+- [Puigdemont opta por no mover ficha tras el fallo de la Justicia europea y lo fía todo a que el Constitucional corrija al Supremo](https://www.20minutos.es/nacional/puigdemont-opta-por-no-mover-ficha-tras-fallo-tjue-fia-todo-que-constitucional-corrija-supremo_7015573_0.html?utm_source=lootura.com) — 2026-07-17T03:00:00.000Z
 - [El Supremo mantiene el motivo clave por el que rechazó amnistiar la malversación de Puigdemont](https://amp.elmundo.es/espana/2026/07/16/6a592344e85ecec83c8b456d.html?utm_source=lootura.com) — 2026-07-16T20:33:54.000Z
-- [Junts fía su futuro electoral al regreso de Puigdemont](https://www.larazon.es/espana/junts-fia-futuro-electoral-regreso-puigdemont_202607176a59290ce9f2e84b5c6c9cd2.html?utm_source=lootura.com) — 2026-07-17T01:14:17.000Z

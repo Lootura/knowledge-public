@@ -3,7 +3,7 @@
 > Follow Artificial intelligence, a tracked topic, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: topic
-- Updated: 2026-07-17T02:27:10.364Z
+- Updated: 2026-07-17T06:13:09.528Z
 - Canonical: https://atlas.lootura.com/us/topic/artificial-intelligence
 
 ## Recent changes
@@ -17,6 +17,12 @@ Date: 2026-07-17
 ### A global capital for AI safety is emerging — and it's not in Silicon Valley
 
 Nature, Published online: 16 July 2026; doi:10.1038/d41586-026-01389-9 The United Kingdom is gaining influence through its growing AI-safety ecosystem.
+
+Date: 2026-07-17
+
+### EU's AI 'guardrails' cannot absorb rapid changes in technology, study warns
+
+"Guardrails" built by the EU to govern AI fall short in both ambition and execution and have become too heavy to absorb rapid changes in technology, a new study in Big Data & Society warns.
 
 Date: 2026-07-17
 
@@ -62,14 +68,8 @@ Google is giving its AI note-taking app a new name. The company announced on Thu
 
 Date: 2026-07-16
 
-### Highly fragmented European wetlands with uneven restoration needs
-
-Nature, Published online: 15 July 2026; doi:10.1038/s41586-026-10760-9 Satellite imagery and machine learning used for the mapping of six seminatural open wetland types and land-use disturbance in European countries shows that wetlands are highly fragmented and have uneven restoration needs.
-
-Date: 2026-07-16
-
 ## Sources
 
-- [AI is set to completely transform cybersecurity — here’s how researchers must prepare](https://www.nature.com/articles/d41586-026-02214-z?utm_source=lootura.com) — 2026-07-17T02:27:14.341Z
-- [A global capital for AI safety is emerging — and it's not in Silicon Valley](https://www.nature.com/articles/d41586-026-01389-9?utm_source=lootura.com) — 2026-07-17T02:27:14.341Z
-- [PathSay Project uses AI to cross language barriers](https://phys.org/news/2026-07-pathsay-ai-language-barriers.html?utm_source=lootura.com) — 2026-07-17T01:00:01.000Z
+- [AI is set to completely transform cybersecurity — here’s how researchers must prepare](https://www.nature.com/articles/d41586-026-02214-z?utm_source=lootura.com) — 2026-07-17T06:13:13.110Z
+- [A global capital for AI safety is emerging — and it's not in Silicon Valley](https://www.nature.com/articles/d41586-026-01389-9?utm_source=lootura.com) — 2026-07-17T06:13:13.110Z
+- [EU's AI 'guardrails' cannot absorb rapid changes in technology, study warns](https://phys.org/news/2026-07-eu-ai-guardrails-absorb-rapid.html?utm_source=lootura.com) — 2026-07-17T03:20:01.000Z

@@ -70,5 +70,4 @@ Date: 2026-07-16
 
 ## Fuentes
 
-- [Feijóo defiende que el PP tenía "razón" al denunciar falta de control en la ley de nietos tras la exigencia de la Junta Electoral](https://www.20minutos.es/nacional/feijoo-defiende-que-pp-tenia-razon-denunciar-falta-control-ley-nietos-tras-exigencia-junta-electoral_7015673_0.html?utm_source=lootura.com) — 2026-07-16T22:32:19.000Z
-- [Feijóo acata el aval a la amnistía entre reproches a Sánchez: «Mintió y vendió a los españoles»](https://theobjective.com/espana/politica/2026-07-16/feijoo-amnistia-sanchez-mintio-vendio-espanoles/?utm_source=lootura.com) — 2026-07-16T19:44:14.000Z
+No public source links.

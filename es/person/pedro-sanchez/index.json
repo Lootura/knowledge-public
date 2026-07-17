@@ -8,11 +8,26 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/pedro-sanchez/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/pedro-sanchez/index.json",
   "description": "Sigue la actividad de Pedro Sánchez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-17T02:26:45.462Z",
+  "updatedAt": "2026-07-17T06:12:48.444Z",
   "aliases": [
     "Sánchez"
   ],
   "changes": [
+    {
+      "title": "La condena de Urdangarín servirá para juzgar a Begoña Gómez por usar su «vínculo matrimonial» para dirigir la cátedra de la Complutense",
+      "summary": "La esposa de Pedro Sánchez se sentará en el banquillo de los acusados, a la vuelta del verano, por malversación y tráfico de influencias, tras prev...",
+      "date": "2026-07-17"
+    },
+    {
+      "title": "El DAO niega ante el juez presiones a la UCO y que les ordenase \"ponerse de perfil\" con la investigación del hermano de Pedro Sánchez",
+      "summary": "Manuel Llamas enmarca las informaciones reservadas incoadas contra la UCO dentro del normal funcionamiento interno de la Guardia Civil. Leer.",
+      "date": "2026-07-16"
+    },
+    {
+      "title": "El primer documental sobre Ángela Figuera busca fondos para completar la producción",
+      "summary": "La escritora murciana María Sánchez-Saorín dirige 'Ángela. Una mujer de barro', que reivindica su lugar en la poesía.",
+      "date": "2026-07-16"
+    },
     {
       "title": "El Gobierno celebra la ley de amnistía como un “logro colectivo” que ha contribuido a recuperar “la convivencia y la reconciliación”",
       "summary": "La ley de amnistía, la clave de bóveda de la legislatura que posibilitó la investidura de Pedro Sánchez y al mismo tiempo le ha supuesto un enorme desgaste al Gobierno, ha recibido el espaldarazo de la justicia europea más de dos años después de que fuese aprobada en el Congreso. El respaldo del Tribunal de Justicia de.",
@@ -29,18 +44,8 @@
       "date": "2026-07-16"
     },
     {
-      "title": "El DAO niega ante el juez presiones a la UCO y que les ordenase \"ponerse de perfil\" con la investigación del hermano de Pedro Sánchez",
-      "summary": "Manuel Llamas enmarca las informaciones reservadas incoadas contra la UCO dentro del normal funcionamiento interno de la Guardia Civil. Leer.",
-      "date": "2026-07-16"
-    },
-    {
       "title": "Feijóo acata el aval a la amnistía entre reproches a Sánchez: «Mintió y vendió a los españoles»",
       "summary": "El presidente del Partido Popular, Alberto Núñez Feijóo , ha subrayado este miércoles en Las Palmas de Gran Canaria que un demócrata «respeta las sentencias, todas las sentencias y de todos los tribunales » y, además, «no ordena a sus ministros salir a señalar a jueces con nombres y apellidos». Núñez Feijóo ha hecho es.",
-      "date": "2026-07-16"
-    },
-    {
-      "title": "El primer documental sobre Ángela Figuera busca fondos para completar la producción",
-      "summary": "La escritora murciana María Sánchez-Saorín dirige 'Ángela. Una mujer de barro', que reivindica su lugar en la poesía.",
       "date": "2026-07-16"
     },
     {
@@ -57,11 +62,6 @@
       "title": "Sánchez se ha enfurruñado",
       "summary": "Se ha enfadado el yerno de Sabiniano, el padre de Begoña, que hizo fortuna con el sudor y las lágrimas de los hombres y mujeres a los que explotaba en sus puticlubs y saunas sexuales. Ya sé que resulta cansino nombrar a su suegro cada vez que se menciona al presidente del Gobierno, pero es obligado repetir hasta la sac.",
       "date": "2026-07-16"
-    },
-    {
-      "title": "Paty, la hija de Quique Sánchez-Flores, da la bienvenida al mundo a Nicolás, su primer hijo: «Muy a mi pesar, terminó en cesárea»",
-      "summary": "La familia Sánchez-Flores está de celebración. Paty Sánchez-Flores, hija del exfutbolista y entrenador Quique Sánchez Flores, ha dado la bienvenida a su primer hijo, un niño llamado Nicolás. La joven ha compartido la feliz noticia este 16 de julio a través de sus redes sociales, donde ha relatado cómo han sido las inte.",
-      "date": "2026-07-16"
     }
   ],
   "sources": [
@@ -72,47 +72,17 @@
       "sourceId": "lootura-es-el-correo"
     },
     {
+      "title": "La condena de Urdangarín servirá para juzgar a Begoña Gómez por usar su «vínculo matrimonial» para dirigir la cátedra de la Complutense",
+      "url": "https://www.eldebate.com/espana/20260717/precedente-supremo-servira-juzgar-begona-gomez-usar-vinculo-matrimonial-dirigir-catedra-complutense_440607.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-17T04:04:41.000Z",
+      "sourceId": "lootura-es-el-debate"
+    },
+    {
       "title": "El DAO niega ante el juez presiones a la UCO y que les ordenase \"ponerse de perfil\" con la investigación del hermano de Pedro Sánchez",
       "url": "https://www.elmundo.es/espana/2026/07/16/6a589907e85ece26028b45b3.html?utm_source=lootura.com",
       "publishedAt": "2026-07-16T16:23:11.000Z",
       "sourceId": "lootura-es-el-mundo"
-    },
-    {
-      "title": "El Gobierno celebra la ley de amnistía como un “logro colectivo” que ha contribuido a recuperar “la convivencia y la reconciliación”",
-      "url": "https://elpais.com/espana/2026-07-16/el-gobierno-celebra-que-la-ley-de-amnistia-es-constitucional-y-conforme-al-derecho-europeo.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-16T10:06:55.000Z",
-      "sourceId": "lootura-es-el-pais"
-    },
-    {
-      "title": "La Audiencia de Madrid avala que la causa contra Begoña Gómez siga adelante por jurado por dos delitos",
-      "url": "https://elpais.com/espana/2026-07-16/la-audiencia-de-madrid-avala-que-la-causa-contra-begona-gomez-siga-adelante-por-jurado-por-dos-delitos.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-16T15:21:22.000Z",
-      "sourceId": "lootura-es-el-pais"
-    },
-    {
-      "title": "Puigdemont enfría un regreso inminente a España: “El camino para acabar con la represión no ha terminado”",
-      "url": "https://elpais.com/espana/catalunya/2026-07-16/jordi-turull-el-tc-no-se-puede-ir-de-vacaciones-teniendo-a-gente-a-la-que-se-le-vulneran-derechos-fundamentales.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-16T12:10:59.000Z",
-      "sourceId": "lootura-es-el-pais"
-    },
-    {
-      "title": "ING duplicará antes de fin de año su equipo de banqueros privados",
-      "url": "https://amp.expansion.com/empresas/banca/2026/07/17/6a594b0ae5fdeac1458b4588.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-16T23:10:37.000Z",
-      "sourceId": "lootura-es-expansion"
-    },
-    {
-      "title": "Abascal acusa a «Bruselas» de estar «encubriéndolo todo» tras su sentencia de la amnistía",
-      "url": "https://okdiario.com/espana/abascal-acusa-bruselas-estar-encubriendolo-todo-sentencia-amnistia-19013116?utm_source=lootura.com",
-      "publishedAt": "2026-07-16T23:36:14.000Z",
-      "sourceId": "lootura-es-ok-diario"
-    },
-    {
-      "title": "Feijóo acata el aval a la amnistía entre reproches a Sánchez: «Mintió y vendió a los españoles»",
-      "url": "https://theobjective.com/espana/politica/2026-07-16/feijoo-amnistia-sanchez-mintio-vendio-espanoles/?utm_source=lootura.com",
-      "publishedAt": "2026-07-16T19:44:14.000Z",
-      "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 8
+  "evidenceCount": 3
 }

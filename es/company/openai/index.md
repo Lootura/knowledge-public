@@ -3,7 +3,7 @@
 > Sigue la actividad de OpenAI en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: company
-- Actualizado: 2026-07-17T02:26:45.462Z
+- Actualizado: 2026-07-17T06:12:48.444Z
 - Canonical: https://atlas.lootura.com/es/company/openai
 
 ## Cambios recientes

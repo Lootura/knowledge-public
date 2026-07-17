@@ -3,10 +3,28 @@
 > Sigue la actividad de Pedro Sánchez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-17T02:26:45.462Z
+- Actualizado: 2026-07-17T06:12:48.444Z
 - Canonical: https://atlas.lootura.com/es/person/pedro-sanchez
 
 ## Cambios recientes
+
+### La condena de Urdangarín servirá para juzgar a Begoña Gómez por usar su «vínculo matrimonial» para dirigir la cátedra de la Complutense
+
+La esposa de Pedro Sánchez se sentará en el banquillo de los acusados, a la vuelta del verano, por malversación y tráfico de influencias, tras prev...
+
+Date: 2026-07-17
+
+### El DAO niega ante el juez presiones a la UCO y que les ordenase "ponerse de perfil" con la investigación del hermano de Pedro Sánchez
+
+Manuel Llamas enmarca las informaciones reservadas incoadas contra la UCO dentro del normal funcionamiento interno de la Guardia Civil. Leer.
+
+Date: 2026-07-16
+
+### El primer documental sobre Ángela Figuera busca fondos para completar la producción
+
+La escritora murciana María Sánchez-Saorín dirige 'Ángela. Una mujer de barro', que reivindica su lugar en la poesía.
+
+Date: 2026-07-16
 
 ### El Gobierno celebra la ley de amnistía como un “logro colectivo” que ha contribuido a recuperar “la convivencia y la reconciliación”
 
@@ -26,21 +44,9 @@ El independentismo se ha mostrado exultante este jueves ante el fallo de la just
 
 Date: 2026-07-16
 
-### El DAO niega ante el juez presiones a la UCO y que les ordenase "ponerse de perfil" con la investigación del hermano de Pedro Sánchez
-
-Manuel Llamas enmarca las informaciones reservadas incoadas contra la UCO dentro del normal funcionamiento interno de la Guardia Civil. Leer.
-
-Date: 2026-07-16
-
 ### Feijóo acata el aval a la amnistía entre reproches a Sánchez: «Mintió y vendió a los españoles»
 
 El presidente del Partido Popular, Alberto Núñez Feijóo , ha subrayado este miércoles en Las Palmas de Gran Canaria que un demócrata «respeta las sentencias, todas las sentencias y de todos los tribunales » y, además, «no ordena a sus ministros salir a señalar a jueces con nombres y apellidos». Núñez Feijóo ha hecho es.
-
-Date: 2026-07-16
-
-### El primer documental sobre Ángela Figuera busca fondos para completar la producción
-
-La escritora murciana María Sánchez-Saorín dirige 'Ángela. Una mujer de barro', que reivindica su lugar en la poesía.
 
 Date: 2026-07-16
 
@@ -62,19 +68,8 @@ Se ha enfadado el yerno de Sabiniano, el padre de Begoña, que hizo fortuna con 
 
 Date: 2026-07-16
 
-### Paty, la hija de Quique Sánchez-Flores, da la bienvenida al mundo a Nicolás, su primer hijo: «Muy a mi pesar, terminó en cesárea»
-
-La familia Sánchez-Flores está de celebración. Paty Sánchez-Flores, hija del exfutbolista y entrenador Quique Sánchez Flores, ha dado la bienvenida a su primer hijo, un niño llamado Nicolás. La joven ha compartido la feliz noticia este 16 de julio a través de sus redes sociales, donde ha relatado cómo han sido las inte.
-
-Date: 2026-07-16
-
 ## Fuentes
 
 - [El primer documental sobre Ángela Figuera busca fondos para completar la producción](https://www.elcorreo.com/culturas/cine/primer-documental-sobre-angela-figuera-busca-fondos-20260716174814-nt_amp.html?utm_source=lootura.com) — 2026-07-16T22:59:05.000Z
+- [La condena de Urdangarín servirá para juzgar a Begoña Gómez por usar su «vínculo matrimonial» para dirigir la cátedra de la Complutense](https://www.eldebate.com/espana/20260717/precedente-supremo-servira-juzgar-begona-gomez-usar-vinculo-matrimonial-dirigir-catedra-complutense_440607.html?utm_source=lootura.com) — 2026-07-17T04:04:41.000Z
 - [El DAO niega ante el juez presiones a la UCO y que les ordenase "ponerse de perfil" con la investigación del hermano de Pedro Sánchez](https://www.elmundo.es/espana/2026/07/16/6a589907e85ece26028b45b3.html?utm_source=lootura.com) — 2026-07-16T16:23:11.000Z
-- [El Gobierno celebra la ley de amnistía como un “logro colectivo” que ha contribuido a recuperar “la convivencia y la reconciliación”](https://elpais.com/espana/2026-07-16/el-gobierno-celebra-que-la-ley-de-amnistia-es-constitucional-y-conforme-al-derecho-europeo.html?utm_source=lootura.com) — 2026-07-16T10:06:55.000Z
-- [La Audiencia de Madrid avala que la causa contra Begoña Gómez siga adelante por jurado por dos delitos](https://elpais.com/espana/2026-07-16/la-audiencia-de-madrid-avala-que-la-causa-contra-begona-gomez-siga-adelante-por-jurado-por-dos-delitos.html?utm_source=lootura.com) — 2026-07-16T15:21:22.000Z
-- [Puigdemont enfría un regreso inminente a España: “El camino para acabar con la represión no ha terminado”](https://elpais.com/espana/catalunya/2026-07-16/jordi-turull-el-tc-no-se-puede-ir-de-vacaciones-teniendo-a-gente-a-la-que-se-le-vulneran-derechos-fundamentales.html?utm_source=lootura.com) — 2026-07-16T12:10:59.000Z
-- [ING duplicará antes de fin de año su equipo de banqueros privados](https://amp.expansion.com/empresas/banca/2026/07/17/6a594b0ae5fdeac1458b4588.html?utm_source=lootura.com) — 2026-07-16T23:10:37.000Z
-- [Abascal acusa a «Bruselas» de estar «encubriéndolo todo» tras su sentencia de la amnistía](https://okdiario.com/espana/abascal-acusa-bruselas-estar-encubriendolo-todo-sentencia-amnistia-19013116?utm_source=lootura.com) — 2026-07-16T23:36:14.000Z
-- [Feijóo acata el aval a la amnistía entre reproches a Sánchez: «Mintió y vendió a los españoles»](https://theobjective.com/espana/politica/2026-07-16/feijoo-amnistia-sanchez-mintio-vendio-espanoles/?utm_source=lootura.com) — 2026-07-16T19:44:14.000Z

@@ -28,5 +28,4 @@ Date: 2026-07-15
 
 ## Fuentes
 
-- [La polémica pancarta de Argentina sobre la soberanía de Las Malvinas... y una posible sanción para la final contra España](https://www.elcorreo.com/deportes/futbol/mundial/colleja-bellingham-pancarta-sobre-soberania-malvinas-posible-20260716073213-nt_amp.html?utm_source=lootura.com) — 2026-07-16T05:32:13.000Z
-- [La posible sanción de FIFA a Argentina por una pancarta: "Las Malvinas son argentinas"](https://www.elmundo.es/deportes/futbol/mundial-de-futbol/2026/07/16/6a587a34fc6c83393c8b45b9.html?utm_source=lootura.com) — 2026-07-16T13:56:21.000Z
+No public source links.

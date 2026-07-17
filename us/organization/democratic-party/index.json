@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/democratic-party/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/democratic-party/index.json",
   "description": "Follow Democratic Party, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-17T02:27:10.364Z",
+  "updatedAt": "2026-07-17T06:13:09.528Z",
   "aliases": [
     "Democrats"
   ],
@@ -72,17 +72,11 @@
       "sourceId": "lootura-us-the-new-york-times"
     },
     {
-      "title": "Democratic Senate Candidates Trounce Republicans in Fund-Raising",
-      "url": "https://www.nytimes.com/2026/07/16/us/politics/senate-midterm-elections-fundraising.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-16T15:40:16.000Z",
-      "sourceId": "lootura-us-the-new-york-times-politics"
-    },
-    {
       "title": "5 Takeaways From a Maine Debate That Showed Replacing Platner Isn’t Easy",
       "url": "https://www.nytimes.com/2026/07/16/us/politics/maine-senate-debate-takeaways.html?utm_source=lootura.com",
       "publishedAt": "2026-07-17T02:07:46.000Z",
       "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 2
 }

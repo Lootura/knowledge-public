@@ -8,18 +8,13 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/todd-blanche/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/todd-blanche/index.json",
   "description": "Follow Todd Blanche, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-17T02:27:10.364Z",
+  "updatedAt": "2026-07-17T06:13:09.528Z",
   "aliases": [],
   "changes": [
     {
       "title": "Blanche holds meeting with Epstein accusers after Tillis' request",
       "summary": "Acting Attorney General Todd Blanche met with accusers of Jeffrey Epstein following a demand to do so by a Republican senator whose support is crucial to advancing his nomination to lead the Justice Department.",
       "date": "2026-07-17"
-    },
-    {
-      "title": "Jennifer Bos makes emotional opening statement about daughter's death in Blanche confirmation hearing",
-      "summary": "\"Illegal immigration, sanctuary policies, the fentanyl crisis and cashless bail. I'm so grateful that the whole of this administration with Todd Blanche leading the DOJ has prioritized all four of these issues,\" Bos said.",
-      "date": "2026-07-16"
     },
     {
       "title": "Schiff presses Ashcroft over Trump's calls for prosecution of perceived political enemies",
@@ -34,6 +29,11 @@
     {
       "title": "Tillis says he won't support Blanche unless he meets with Epstein survivors",
       "summary": "Sen. Thom Tillis said that Todd Blanche must meet with survivors of convicted sex offender Jeffrey Epstein's crimes before he'll vote to advance his nomination for attorney general out of the Senate Judiciary Committee.",
+      "date": "2026-07-16"
+    },
+    {
+      "title": "Jennifer Bos makes emotional opening statement about daughter's death in Blanche confirmation hearing",
+      "summary": "\"Illegal immigration, sanctuary policies, the fentanyl crisis and cashless bail. I'm so grateful that the whole of this administration with Todd Blanche leading the DOJ has prioritized all four of these issues,\" Bos said.",
       "date": "2026-07-16"
     },
     {
@@ -86,13 +86,7 @@
       "url": "https://www.cbsnews.com/news/todd-blanche-meeting-epstein-accusers/?utm_source=lootura.com",
       "publishedAt": "2026-07-17T01:51:54.000Z",
       "sourceId": "lootura-us-cbs-news"
-    },
-    {
-      "title": "WATCH: Jennifer Bos makes emotional opening statement about daughter's death in Blanche confirmation hearing",
-      "url": "https://www.pbs.org/newshour/politics/watch-jennifer-bos-makes-emotional-opening-statement-about-daughters-death-in-blanche-confirmation-hearing?utm_source=lootura.com",
-      "publishedAt": "2026-07-16T17:06:25.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
     }
   ],
-  "evidenceCount": 5
+  "evidenceCount": 4
 }

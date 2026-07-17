@@ -8,9 +8,14 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/barcelona/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/barcelona/index.json",
   "description": "Sigue la actividad de Barcelona en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-16T20:54:41.819Z",
+  "updatedAt": "2026-07-17T06:12:48.444Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "Menos madera, más paisaje: la revolución de la barrica de vino",
+      "summary": "En una mesa de cuatro comensales en cualquier rincón de Madrid, Barcelona, Sevilla, Valencia o Logroño, una botella de tinto bien escogido puede desaparecer en cuestión de diez o doce minutos. No es por una sed desenfrenada ni por falta de modales; es el síntoma de un cambio de paradigma en el consumo de vino en España.",
+      "date": "2026-07-17"
+    },
     {
       "title": "La impresionante casa de Ferran Torres en Gavá Mar: un refugio de lujo con piscina privada, gimnasio y máxima privacidad",
       "summary": "Así es la espectacular casa de Ferran Torres a las afueras de Barcelona: un chalet de lujo con piscina, gimnasio, sauna y un enorme jardín.",
@@ -55,13 +60,15 @@
       "title": "El filial del Barcelona de cuarta categoría lleva ya gastado más dinero que 10 equipos de Primera División",
       "summary": "El Barcelona ha comenzado este mercado de fichajes con mucho movimiento y millones gastados entre su primer equipo y su filial.",
       "date": "2026-07-13"
-    },
-    {
-      "title": "En libertad el exalcalde de Sant Feliu (Girona) investigado por presuntamente masturbarse en una piscina",
-      "summary": "La sección de Instrucción del Tribunal de Instancia de Arenys de Mar (Barcelona) ha acordado l ibertad a disposición del juez para el exalcalde de Sant Feliu de Guíxols (Girona), Pere Albó, detenido este domingo por un presunto delito de exhibicionismo al masturbarse frente a menores de edad en la piscina de un hotel d.",
-      "date": "2026-07-13"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Menos madera, más paisaje: la revolución de la barrica de vino",
+      "url": "https://www.abc.es/gastronomia/vinos/virtud-silencio-madera-vino-busca-frescura-20260716155912-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-17T05:24:46.000Z",
+      "sourceId": "lootura-es-abc"
+    }
+  ],
+  "evidenceCount": 1
 }

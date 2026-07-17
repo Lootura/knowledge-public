@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/donald-trump/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/donald-trump/index.json",
   "description": "Follow Donald Trump, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-17T02:27:10.364Z",
+  "updatedAt": "2026-07-17T06:13:09.528Z",
   "aliases": [
     "President Donald Trump",
     "President Trump",
@@ -17,22 +17,12 @@
   "changes": [
     {
       "title": "Sen. Mark Warner slams Trump's primetime speech: \"Incredible lies\"",
-      "summary": "Sen. Mark Warner joined CBS News with his reaction to President Trump's primetime address on U.S. election security.",
+      "summary": "Sen. Mark Warner joins CBS News with his reaction to President Trump's primetime address on Thursday about U.S. election security.",
       "date": "2026-07-17"
     },
     {
       "title": "Trump administration to declassify documents relating to China and U.S. elections",
       "summary": "President Donald Trump addressed the nation from the White House, announcing that the administration will declassify documents related to the 2020 election and alleged influence by China.",
-      "date": "2026-07-17"
-    },
-    {
-      "title": "How paper ballots make digital manipulation of results unlikely",
-      "summary": "NBC News’ Jane Timm analyzes President Trump’s claims about digital manipulation of ballot results in the U.S., as Trump said that the White House will declassify documents related to the 2020 election and alleged influence by China during his speech to the nation.",
-      "date": "2026-07-17"
-    },
-    {
-      "title": "Special Report: Trump delivers speech on election infrastructure",
-      "summary": "NBC News correspondents break down President Trump's address to the nation on election integrity where the president described information he says is now declassified related to allegations about voter fraud, including accusations against China.",
       "date": "2026-07-17"
     },
     {
@@ -46,24 +36,34 @@
       "date": "2026-07-17"
     },
     {
-      "title": "TrumpRx promised a supermarket for cheaper drugs but delivered a boutique",
-      "summary": "President Trump said TrumpRx is the biggest thing to happen in healthcare in decades. But an NPR analysis finds drugmakers are only offering deals on a few of their medicines.",
-      "date": "2026-07-16"
+      "title": "Trump speaks on elections, alleges Chinese access to voter data | Special Report",
+      "summary": "President Trump on Thursday delivered a primetime address about election security where he railed against China. Tony Dokoupil anchored CBS News' special report.",
+      "date": "2026-07-17"
     },
     {
-      "title": "The use of force has become a 'default tool' for ICE officers, a new report finds",
-      "summary": "An ACLU report looks at the widespread use of force in immigration enforcement in the first year of President Trump's return to office. Recent fatal shootings in Texas and Maine have brought renewed scrutiny to the agency's tactics. (Image credit: Scott Olson).",
-      "date": "2026-07-16"
+      "title": "Fact checking Trump speech on election security",
+      "summary": "President Trump is delivering a speech on election security Thursday night at the White House.",
+      "date": "2026-07-17"
     },
     {
-      "title": "Trump is taking longer to approve disaster aid and denying Democratic states more frequently",
-      "summary": "When major disasters strike, Americans are routinely waiting weeks — or even months — to receive presidential approval for aid. And if they live in a state that didn't support President Donald Trump, chances are greater that aid will be denied.",
-      "date": "2026-07-16"
+      "title": "In primetime speech, Trump revisits disputed claims about election security and declassifies documents",
+      "summary": "In a primetime address, President Trump alleged the U.S. election system falls \"catastrophically short,\" revisiting a topic that has drawn his attention for years - and making claims that election experts have heavily disputed.",
+      "date": "2026-07-17"
     },
     {
-      "title": "Trump immediately fires the new court-appointed top prosecutor in Seattle",
-      "summary": "President Donald Trump fired the new top U.S. prosecutor in Seattle on Wednesday less than an hour after the attorney was unanimously appointed by the federal judges in the district, highlighting tensions between the courts and the president over the powerful positions.",
-      "date": "2026-07-16"
+      "title": "How paper ballots make digital manipulation of results unlikely",
+      "summary": "NBC News’ Jane Timm analyzes President Trump’s claims about digital manipulation of ballot results in the U.S., as Trump said that the White House will declassify documents related to the 2020 election and alleged influence by China during his speech to the nation.",
+      "date": "2026-07-17"
+    },
+    {
+      "title": "How Trump's election allegations against China could impact relations with U.S.",
+      "summary": "President Trump accused China of having a role in influencing the 2020 election during his speech about election interference. NBC News' Garrett Haake has more on how this could impact China's relationship with the U.S.",
+      "date": "2026-07-17"
+    },
+    {
+      "title": "Federal panel signals it could support permanent fencing around White House park known for protests",
+      "summary": "A historic hub for free speech and protest is under the spotlight as the Trump administration proposes adding permanent fencing around Lafayette Square.",
+      "date": "2026-07-17"
     }
   ],
   "sources": [
@@ -71,6 +71,12 @@
       "title": "Federal judge slams Trump, DOJ over IRS lawsuit",
       "url": "https://www.cbsnews.com/video/federal-judge-slams-trump-doj-irs-lawsuit/?utm_source=lootura.com",
       "publishedAt": "2026-07-17T01:19:46.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
+    {
+      "title": "Watch: Trump speaks on elections, alleges Chinese access to voter data | Special Report",
+      "url": "https://www.cbsnews.com/video/watch-trump-speaks-on-elections-alleges-chinese-access-to-voter-data-special-report/?utm_source=lootura.com",
+      "publishedAt": "2026-07-17T02:27:00.000Z",
       "sourceId": "lootura-us-cbs-news"
     },
     {
@@ -86,9 +92,21 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
+      "title": "Fact checking Trump speech on election security",
+      "url": "https://www.cbsnews.com/news/fact-checking-trump-speech-on-election-security/?utm_source=lootura.com",
+      "publishedAt": "2026-07-17T04:07:32.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
+    {
       "title": "Sen. Mark Warner slams Trump's primetime speech: \"Incredible lies\"",
       "url": "https://www.cbsnews.com/video/sen-mark-warner-slams-trumps-primetime-speech/?utm_source=lootura.com",
-      "publishedAt": "2026-07-17T02:04:32.000Z",
+      "publishedAt": "2026-07-17T02:04:00.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
+    {
+      "title": "In primetime speech, Trump revisits disputed claims about election security and declassifies documents",
+      "url": "https://www.cbsnews.com/news/trump-election-primetime-speech-declassified-documents-revisits-disputed-claims/?utm_source=lootura.com",
+      "publishedAt": "2026-07-17T06:11:59.000Z",
       "sourceId": "lootura-us-cbs-news"
     },
     {
@@ -101,32 +119,14 @@
       "title": "How paper ballots make digital manipulation of results unlikely",
       "url": "https://www.nbcnews.com/video/how-paper-ballots-make-digital-manipulation-of-results-unlikely-266817605727?utm_source=lootura.com",
       "publishedAt": "2026-07-17T02:02:40.000Z",
+      "sourceId": "lootura-us-nbc-news"
+    },
+    {
+      "title": "How Trump's election allegations against China could impact relations with U.S.",
+      "url": "https://www.nbcnews.com/video/how-trump-s-election-allegations-against-china-could-impact-relations-with-u-s-266824261975?utm_source=lootura.com",
+      "publishedAt": "2026-07-17T03:40:45.000Z",
       "sourceId": "lootura-us-nbc-news-politics"
-    },
-    {
-      "title": "Special Report: Trump delivers speech on election infrastructure",
-      "url": "https://www.nbcnews.com/video/special-report-trump-delivers-speech-on-election-infrastructure-266817605765?utm_source=lootura.com",
-      "publishedAt": "2026-07-17T02:12:35.000Z",
-      "sourceId": "lootura-us-nbc-news-politics"
-    },
-    {
-      "title": "TrumpRx promised a supermarket for cheaper drugs but delivered a boutique",
-      "url": "https://www.npr.org/2026/07/16/nx-s1-5894947/trump-rx-medicine-drugs-health-care-pfizer-low-prices-gilead?utm_source=lootura.com",
-      "publishedAt": "2026-07-16T09:00:00.000Z",
-      "sourceId": "lootura-us-npr"
-    },
-    {
-      "title": "The use of force has become a 'default tool' for ICE officers, a new report finds",
-      "url": "https://www.npr.org/2026/07/16/nx-s1-5891834/ice-use-of-force-aclu-report?utm_source=lootura.com",
-      "publishedAt": "2026-07-16T09:00:00.000Z",
-      "sourceId": "lootura-us-npr"
-    },
-    {
-      "title": "Officials probe whether White House teleprompter operator profited off Trump's words",
-      "url": "https://www.npr.org/2026/07/16/nx-s1-5896223/kalshi-trump-white-house-teleprompter-operator-bet?utm_source=lootura.com",
-      "publishedAt": "2026-07-16T17:10:29.000Z",
-      "sourceId": "lootura-us-npr-politics"
     }
   ],
-  "evidenceCount": 23
+  "evidenceCount": 24
 }

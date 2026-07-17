@@ -8,12 +8,27 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/china/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/china/index.json",
   "description": "Follow China, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-17T02:27:10.364Z",
+  "updatedAt": "2026-07-17T06:13:09.528Z",
   "aliases": [],
   "changes": [
     {
       "title": "Trump administration to declassify documents relating to China and U.S. elections",
       "summary": "President Donald Trump addressed the nation from the White House, announcing that the administration will declassify documents related to the 2020 election and alleged influence by China.",
+      "date": "2026-07-17"
+    },
+    {
+      "title": "Trump speaks on elections, alleges Chinese access to voter data | Special Report",
+      "summary": "President Trump on Thursday delivered a primetime address about election security where he railed against China. Tony Dokoupil anchored CBS News' special report.",
+      "date": "2026-07-17"
+    },
+    {
+      "title": "How paper ballots make digital manipulation of results unlikely",
+      "summary": "NBC News’ Jane Timm analyzes President Trump’s claims about digital manipulation of ballot results in the U.S., as Trump said that the White House will declassify documents related to the 2020 election and alleged influence by China during his speech to the nation.",
+      "date": "2026-07-17"
+    },
+    {
+      "title": "How Trump's election allegations against China could impact relations with U.S.",
+      "summary": "President Trump accused China of having a role in influencing the 2020 election during his speech about election interference. NBC News' Garrett Haake has more on how this could impact China's relationship with the U.S.",
       "date": "2026-07-17"
     },
     {
@@ -45,28 +60,13 @@
       "title": "A new smart coating could improve the cleanup of nuclear wastewater",
       "summary": "Scientists in China have developed a smart coating that could make it easier to remove tritium (a radioactive form of hydrogen) from nuclear power plant wastewater.",
       "date": "2026-07-14"
-    },
-    {
-      "title": "China Purges Top Official Over Corruption and Sex Charges",
-      "summary": "Ma Xingrui is the third member of the Politburo to be purged since 2022. He once led the Xinjiang region and was previously head of China’s space program.",
-      "date": "2026-07-14"
-    },
-    {
-      "title": "Will Oil Prices Rise as the US-Iran Truce Frays? The Answer Lies With China.",
-      "summary": "For decades, OPEC influenced the market by how much oil it produced. But China, the largest importer, is demonstrating its remarkable power over prices.",
-      "date": "2026-07-13"
-    },
-    {
-      "title": "Himalayan snowfall has been miscalculated for years, here's how we found a new way to measure it",
-      "summary": "Mountain snow and meltwater from glaciers in the Himalayas determine how much water is available for drinking, farming and hydropower for millions of people in India, Pakistan, Nepal, China and Afghanistan.",
-      "date": "2026-07-13"
     }
   ],
   "sources": [
     {
-      "title": "Husband of Code Pink founder being investigated under federal agent and tax laws",
-      "url": "https://www.cbsnews.com/news/husband-code-pink-founder-neville-roy-singham-investigation-tax-laws/?utm_source=lootura.com",
-      "publishedAt": "2026-07-16T17:01:59.000Z",
+      "title": "Watch: Trump speaks on elections, alleges Chinese access to voter data | Special Report",
+      "url": "https://www.cbsnews.com/video/watch-trump-speaks-on-elections-alleges-chinese-access-to-voter-data-special-report/?utm_source=lootura.com",
+      "publishedAt": "2026-07-17T02:27:00.000Z",
       "sourceId": "lootura-us-cbs-news"
     },
     {
@@ -79,14 +79,14 @@
       "title": "How paper ballots make digital manipulation of results unlikely",
       "url": "https://www.nbcnews.com/video/how-paper-ballots-make-digital-manipulation-of-results-unlikely-266817605727?utm_source=lootura.com",
       "publishedAt": "2026-07-17T02:02:40.000Z",
-      "sourceId": "lootura-us-nbc-news-politics"
+      "sourceId": "lootura-us-nbc-news"
     },
     {
-      "title": "Special Report: Trump delivers speech on election infrastructure",
-      "url": "https://www.nbcnews.com/video/special-report-trump-delivers-speech-on-election-infrastructure-266817605765?utm_source=lootura.com",
-      "publishedAt": "2026-07-17T02:12:35.000Z",
+      "title": "How Trump's election allegations against China could impact relations with U.S.",
+      "url": "https://www.nbcnews.com/video/how-trump-s-election-allegations-against-china-could-impact-relations-with-u-s-266824261975?utm_source=lootura.com",
+      "publishedAt": "2026-07-17T03:40:45.000Z",
       "sourceId": "lootura-us-nbc-news-politics"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 4
 }

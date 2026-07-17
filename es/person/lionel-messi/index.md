@@ -3,7 +3,7 @@
 > Sigue la actividad de Lionel Messi en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-17T02:26:45.462Z
+- Actualizado: 2026-07-17T06:12:48.444Z
 - Canonical: https://atlas.lootura.com/es/person/lionel-messi
 
 ## Cambios recientes
@@ -40,5 +40,4 @@ Date: 2026-07-15
 
 ## Fuentes
 
-- [La reivindicación de Messi y Scaloni en una Argentina "única" camino de la final con España: "Digan lo que digan, no nos regalan nada"](https://www.elmundo.es/deportes/futbol/mundial-de-futbol/2026/07/16/6a584d10e85ece460c8b4598.html?utm_source=lootura.com) — 2026-07-16T13:07:03.000Z
-- [La fotografía que anticipó una final: "Messi se encontró de sopetón con un bebé y se quedó más tieso que una tabla de planchar"](https://www.larazon.es/deportes/futbol/fotografia-que-anticipo-final-messi-encontro-sopeton-bebe-quedo-mas-tieso-que-tabla-planchar_202607176a5946e4e9f2e84b5c6cc789.html?utm_source=lootura.com) — 2026-07-17T01:04:10.000Z
+- [La pantalla grande para ver la final del Mundial entre Leo Messi y Lamine Yamal en Barcelona: ubicación para apoyar a La Roja](https://www.elconfidencial.com/espana/cataluna/2026-07-17/pantalla-grande-barcelona-mundial-final-espana-1qrt-1tna_4391079/?utm_source=lootura.com) — 2026-07-17T03:00:00.000Z

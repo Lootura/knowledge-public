@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/lionel-messi/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/lionel-messi/index.json",
   "description": "Sigue la actividad de Lionel Messi en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-17T02:26:45.462Z",
+  "updatedAt": "2026-07-17T06:12:48.444Z",
   "aliases": [
     "Messi"
   ],
@@ -41,17 +41,11 @@
   ],
   "sources": [
     {
-      "title": "La reivindicación de Messi y Scaloni en una Argentina \"única\" camino de la final con España: \"Digan lo que digan, no nos regalan nada\"",
-      "url": "https://www.elmundo.es/deportes/futbol/mundial-de-futbol/2026/07/16/6a584d10e85ece460c8b4598.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-16T13:07:03.000Z",
-      "sourceId": "lootura-es-el-mundo"
-    },
-    {
-      "title": "La fotografía que anticipó una final: \"Messi se encontró de sopetón con un bebé y se quedó más tieso que una tabla de planchar\"",
-      "url": "https://www.larazon.es/deportes/futbol/fotografia-que-anticipo-final-messi-encontro-sopeton-bebe-quedo-mas-tieso-que-tabla-planchar_202607176a5946e4e9f2e84b5c6cc789.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-17T01:04:10.000Z",
-      "sourceId": "lootura-es-la-razon"
+      "title": "La pantalla grande para ver la final del Mundial entre Leo Messi y Lamine Yamal en Barcelona: ubicación para apoyar a La Roja",
+      "url": "https://www.elconfidencial.com/espana/cataluna/2026-07-17/pantalla-grande-barcelona-mundial-final-espana-1qrt-1tna_4391079/?utm_source=lootura.com",
+      "publishedAt": "2026-07-17T03:00:00.000Z",
+      "sourceId": "lootura-es-el-confidencial"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 0
 }

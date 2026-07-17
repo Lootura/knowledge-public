@@ -8,13 +8,28 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/united-states/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/united-states/index.json",
   "description": "Sigue la actividad de Estados Unidos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-17T02:26:45.462Z",
+  "updatedAt": "2026-07-17T06:12:48.444Z",
   "aliases": [
     "America",
     "Estados Unidos",
     "U.S."
   ],
   "changes": [
+    {
+      "title": "El mercado se abona a la incertidumbre: las Bolsas borran el alto al fuego de Trump",
+      "summary": "Nadie dijo que fuera a ser fácil. El memorándum de Islamabad nació como un intento de ganar tiempo más que como una solución definitiva. El acuerdo frenó las hostilidades entre Estados Unidos e Irán y abrió una ventana de negociación de 60 días que los mercados interpretaron como el principio del fin de la crisis. Un m.",
+      "date": "2026-07-17"
+    },
+    {
+      "title": "Trump resucita en un discurso a la nación el bulo del fraude electoral de 2020 y exagera la influencia de China en su derrota",
+      "summary": "Donald Trump, líder de un país en guerra y con el coste de la vida en alza, se dirigió este jueves por la noche a la nación para hablar de las elecciones... de hace seis años. No fue solo un intento de ajuste de cuentas con un fracaso personal; el presidente de Estados Unidos, cuya impopularidad bate récords, habló con.",
+      "date": "2026-07-17"
+    },
+    {
+      "title": "Trump anuncia una desclasificación que probaría injerencia electoral de China en EEUU",
+      "summary": "El presidente de Estados Unidos, Donald Trump, ha anunciado este jueves la desclasificación y publicación de información «crítica» de inteligencia que.",
+      "date": "2026-07-17"
+    },
     {
       "title": "La ley del «Bebé Moisés»: en Nebraska se permitía abandonar a niños en hospitales",
       "summary": "Hubo un tiempo en Estados Unidos en el que un padre podía entregar a su hijo en un hospital sin ser procesado por abandono. Ocurrió en Nebraska durante unos meses del no tan lejano 2008, cuando la llamada ley Safe Haven, conocida popularmente como la ley del «Bebé Moisés» , contenía un vacío legal: a diferencia del res.",
@@ -24,6 +39,11 @@
       "title": "Trump resucita en un discurso a la nación el bulo del fraude electoral de 2020 y acusa a China de influir en su derrota",
       "summary": "Donald Trump, líder de un país en guerra y con el coste de la vida en alza, se dirigió este jueves por la noche a la nación para hablar de las elecciones... de hace seis años. No fue solo un intento de ajuste de cuentas con un fracaso personal; el presidente de Estados Unidos, cuya impopularidad bate récords, habló con.",
       "date": "2026-07-17"
+    },
+    {
+      "title": "Trump despide a su operador de teleprompter, acusado de apostar ilegalmente en Kalshi sobre sus discursos",
+      "summary": "El presidente de Estados Unidos, Donald Trump, tiene un problema con sus discursos. Su técnico de teleprompter, la pantalla de visualización transparente sobre la que se proyectan textos, Gabriel Pérez, ha sido acusado de apostar ilegalmente en la plataforma de predicción Kalshi , la rival de Polymarket, sobre el conte.",
+      "date": "2026-07-16"
     },
     {
       "title": "Trump impone un arancel del 25% a Brasil por \"no negociar de buena fe\"",
@@ -44,47 +64,39 @@
       "title": "Un estudio revela la huella del caballo español en buena parte de la caballería americana",
       "summary": "Un estudio internacional con participación de la Facultad de Veterinaria de la Universidad de Córdoba (UCO) ha analizado por primera vez el genoma completo de las razas Barrocas y desvela la huella imborrable de la Pura Raza Española en el Lipizzano, Lusitano, Murgese y en las razas criollas de América del Sur. La UCO.",
       "date": "2026-07-16"
-    },
-    {
-      "title": "La OTAN se plantea cómo defender Europa oriental ante la retirada de Estados Unidos",
-      "summary": "Esas extrañas criaturas emergen del bosque con estruendo, con el cuerpo cubierto de musgo, tela rasgada y hierba de plástico, y la cabeza velada por mallas negras. Los tanques Leopard y los vehículos de combate de infantería Puma de la 45.ª Brigada Panzer alemana llevan un camuflaje especial para ocultarse de los drone.",
-      "date": "2026-07-16"
-    },
-    {
-      "title": "El 'efecto Trump': China ya es más popular que Estados Unidos",
-      "summary": "Un año y medio después de su regreso a la Casa Blanca, Donald Trump ya ha logrado un vuelco planetario: por primera vez, China tiene una visión más favorable que Estados Unidos a nivel global . Así lo demuestra la última edición del estudio anual de opinión pública realizado por el Pew Research Center, publicada este j.",
-      "date": "2026-07-16"
-    },
-    {
-      "title": "Uber lanza una oferta por el 100% de Delivery Hero, que vende el negocio de Glovo en España a un fondo de Estados Unidos",
-      "summary": "Uber inicia oficialmente el proceso para hacerse con el 100% de las acciones de Delivery Hero, el grupo alemán de reparto de comida a domicilio propietario de la española Glovo. La compañía estadounidense, que ya opera en este sector bajo la enseña Uber Eats, ha lanzado formalmente una oferta pública de adquisición de.",
-      "date": "2026-07-16"
-    },
-    {
-      "title": "Lula da Silva activa la ley de reciprocidad contra los aranceles de EEUU y culpa a los Bolsonaro: \"Son falsos patriotas\"",
-      "summary": "El Gobierno de Brasil anunció este jueves que iniciará \"inmediatamente\" los trámites para aplicar la ley de reciprocidad en respuesta a los aranceles del 25% decretados por Estados Unidos a ciertos productos brasileños y culpó de ello a la familia del expresidente Jair Bolsonaro, informa la agencia Efe. \"El 15 de julio.",
-      "date": "2026-07-16"
     }
   ],
   "sources": [
     {
-      "title": "La ley del «Bebé Moisés»: en Nebraska se permitía abandonar a niños en hospitales",
-      "url": "https://www.abc.es/play/cine/ley-bebe-moises-nebraska-permitia-abandonar-ninos-20260717013407-nt.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-17T01:00:41.000Z",
-      "sourceId": "lootura-es-abc"
+      "title": "Temor en España por la final: el duro juego argentino y el arbitraje preocupan a los fans",
+      "url": "https://www.20minutos.es/deportes/futbol/temor-espana-por-final-mundial-duro-juego-argentino-arbitraje-preocupan-los-aficionados_7015570_0.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-17T05:10:18.000Z",
+      "sourceId": "lootura-es-20minutos"
     },
     {
-      "title": "Trump resucita en un discurso a la nación el bulo del fraude electoral de 2020 y acusa a China de influir en su derrota",
+      "title": "El mercado se abona a la incertidumbre: las Bolsas borran el alto al fuego de Trump",
+      "url": "https://cincodias.elpais.com/mercados-financieros/2026-07-17/el-mercado-se-abona-a-la-incertidumbre-las-bolsas-borran-el-alto-al-fuego-de-trump.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-17T03:25:00.000Z",
+      "sourceId": "lootura-es-cinco-dias"
+    },
+    {
+      "title": "Trump resucita en un discurso a la nación el bulo del fraude electoral de 2020 y exagera la influencia de China en su derrota",
       "url": "https://elpais.com/internacional/2026-07-17/trump-resucita-en-un-discurso-a-la-nacion-el-bulo-del-fraude-electoral-de-2020-y-acusa-a-china-de-influir-en-su-derrota.html?utm_source=lootura.com",
       "publishedAt": "2026-07-17T01:28:02.000Z",
       "sourceId": "lootura-es-el-pais"
     },
     {
-      "title": "Trump impone un arancel del 25% a Brasil por \"no negociar de buena fe\"",
-      "url": "https://www.expansion.com/economia/2026/07/16/6a592512468aeba63e8b4587.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-16T18:43:27.000Z",
-      "sourceId": "lootura-es-expansion"
+      "title": "Trump despide a su operador de teleprompter, acusado de apostar ilegalmente en Kalshi sobre sus discursos",
+      "url": "https://elpais.com/internacional/2026-07-16/trump-suspende-a-su-operador-de-teleprompter-acusado-de-apostar-ilegalmente-en-kalshi-sobre-sus-discursos.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-16T22:29:37.000Z",
+      "sourceId": "lootura-es-el-pais"
+    },
+    {
+      "title": "Trump anuncia una desclasificación que probaría injerencia electoral de China en EEUU",
+      "url": "https://theobjective.com/internacional/2026-07-17/trump-desclasificacion-injerencia-electoral-china-eeuu/?amp=&utm_source=lootura.com",
+      "publishedAt": "2026-07-17T05:41:49.000Z",
+      "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 5
 }

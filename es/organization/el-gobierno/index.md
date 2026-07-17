@@ -3,20 +3,26 @@
 > Sigue la actividad de El Gobierno en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-17T02:26:45.462Z
+- Actualizado: 2026-07-17T06:12:48.444Z
 - Canonical: https://atlas.lootura.com/es/organization/el-gobierno
 
 ## Cambios recientes
 
-### El Gobierno celebra la ley de amnistía como un “logro colectivo” que ha contribuido a recuperar “la convivencia y la reconciliación”
+### El Gobierno lo confirma y entra en vigor en noviembre de 2026: será obligatorio devolver las botellas de plástico para recuperar dinero
 
-La ley de amnistía, la clave de bóveda de la legislatura que posibilitó la investidura de Pedro Sánchez y al mismo tiempo le ha supuesto un enorme desgaste al Gobierno, ha recibido el espaldarazo de la justicia europea más de dos años después de que fuese aprobada en el Congreso. El respaldo del Tribunal de Justicia de.
+A partir del próximo mes de noviembre será obligatorio devolver las botellas de plástico , bricks o latas para recuperar el dinero que anteriormente se habrá depositado como fianza. Esta norma tendría que entrar en vigor antes de final del año y tiene que ver con el nuevo Sistema de Depósito, Devolución y Retorno (SDDR.
 
-Date: 2026-07-16
+Date: 2026-07-17
 
 ### El Gobierno se aferra al TJUE para convencer a los nacionalistas de que cumple ante las próximas elecciones: "Necesitamos dar todos los pasos"
 
 Cuando en el Gobierno movían las manos alrededor de la bola de cristal para atisbar el futuro política, situaban la aplicación de la amnistía a los líderes del procés, como...
+
+Date: 2026-07-16
+
+### El Gobierno celebra la ley de amnistía como un “logro colectivo” que ha contribuido a recuperar “la convivencia y la reconciliación”
+
+La ley de amnistía, la clave de bóveda de la legislatura que posibilitó la investidura de Pedro Sánchez y al mismo tiempo le ha supuesto un enorme desgaste al Gobierno, ha recibido el espaldarazo de la justicia europea más de dos años después de que fuese aprobada en el Congreso. El respaldo del Tribunal de Justicia de.
 
 Date: 2026-07-16
 
@@ -62,13 +68,8 @@ El Gobierno de Pedro Sánchez ha estallado contra la decisión de la Audiencia d
 
 Date: 2026-07-16
 
-### Lula da Silva activa la ley de reciprocidad contra los aranceles de EEUU y culpa a los Bolsonaro: "Son falsos patriotas"
-
-El Gobierno de Brasil anunció este jueves que iniciará "inmediatamente" los trámites para aplicar la ley de reciprocidad en respuesta a los aranceles del 25% decretados por Estados Unidos a ciertos productos brasileños y culpó de ello a la familia del expresidente Jair Bolsonaro, informa la agencia Efe. "El 15 de julio.
-
-Date: 2026-07-16
-
 ## Fuentes
 
+- [Las Islas Malvinas, dos siglos de disputa entre Argentina y Reino Unido y una guerra en 1982](https://www.20minutos.es/internacional/las-malvinas-las-islas-que-enfrentan-argentina-reino-unido-desde-hace-dos-siglos-que-llevaron-una-guerra-1982_7015380_0.html?utm_source=lootura.com) — 2026-07-17T03:00:00.000Z
 - [El Gobierno se aferra al TJUE para convencer a los nacionalistas de que cumple ante las próximas elecciones: "Necesitamos dar todos los pasos"](https://amp.elmundo.es/espana/2026/07/16/6a59274de4d4d8b6168b45ac.html?utm_source=lootura.com) — 2026-07-16T20:33:35.000Z
-- [El Gobierno celebra la ley de amnistía como un “logro colectivo” que ha contribuido a recuperar “la convivencia y la reconciliación”](https://elpais.com/espana/2026-07-16/el-gobierno-celebra-que-la-ley-de-amnistia-es-constitucional-y-conforme-al-derecho-europeo.html?utm_source=lootura.com) — 2026-07-16T10:06:55.000Z
+- [El Gobierno lo confirma y entra en vigor en noviembre de 2026: será obligatorio devolver las botellas de plástico para recuperar dinero](https://okdiario.com/economia/gobierno-lo-confirma-entra-vigor-noviembre-2026-sera-obligatorio-devolver-botellas-plastico-recuperar-dinero-19009838?utm_source=lootura.com) — 2026-07-17T06:00:47.000Z

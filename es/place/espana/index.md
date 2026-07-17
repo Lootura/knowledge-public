@@ -3,10 +3,64 @@
 > Sigue la actividad de España en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-17T02:26:45.462Z
+- Actualizado: 2026-07-17T06:12:48.444Z
 - Canonical: https://atlas.lootura.com/es/place/espana
 
 ## Cambios recientes
+
+### Una masa de aire africano dispara las temperaturas este fin de semana y acerca a España a la tercera ola de calor del verano
+
+Las altas temperaturas siguen azotando este viernes gran parte de España, aunque lo peor está por llegar. A partir del sábado, una masa de aire muy cálido procedente del norte de África y las altas presiones propiciarán una subida progresiva de las temperaturas. Estas circunstancia podrían desembocar, si se cumplen los.
+
+Date: 2026-07-17
+
+### Menos madera, más paisaje: la revolución de la barrica de vino
+
+En una mesa de cuatro comensales en cualquier rincón de Madrid, Barcelona, Sevilla, Valencia o Logroño, una botella de tinto bien escogido puede desaparecer en cuestión de diez o doce minutos. No es por una sed desenfrenada ni por falta de modales; es el síntoma de un cambio de paradigma en el consumo de vino en España.
+
+Date: 2026-07-17
+
+### Antonio Tajani: «No podemos dejar África solo en manos de China y Rusia»
+
+El vicepresidente del Gobierno y ministro de Asuntos Exteriores de Italia, Antonio Tajani , aboga por seguir trabajando en un mercado único europeo para competir con las grandes potencias en el nuevo tablero global y llama a España a ser un socio estratégico para Italia dentro del plan de inversiones que el país transa.
+
+Date: 2026-07-17
+
+### La huelga en Airbus España se extiende por todos los centros con la rebaja del teletrabajo como detonante
+
+El comité de empresa de Airbus España se ve fuerte para mantener un pulso con la empresa a lo largo de todo el mes de julio con una huelga que puede afectar notablemente a la producción . Los sindicatos cifran el seguimiento de la protesta por encima del 80%, saltando en los últimos días desde la planta de Getafe (Madr.
+
+Date: 2026-07-17
+
+### Las alarmantes cifras de ahogados: 254 hasta el 15 de julio, un junio negro y Andalucía a la cabeza
+
+El reciente fallecimiento de una madre junto con sus dos hijos en la presa de Roncal (Navarra) es el último episodio de ahogamientos que se ha vivido en España. El suceso de este mismo miércoles supone las tres primeras muertes por ahogamiento en el mes de julio en esa comunidad del norte de España y amplía la trágica.
+
+Date: 2026-07-17
+
+### Incendios en España, en directo: última hora de los fuegos activos y de la evolución de la situación
+
+Sigue en directo la última hora de los incendios forestales activos en España, con todas las novedades sobre la evolución de los fuegos, los dispositivos desplegados y posibles evacuaciones.
+
+Date: 2026-07-17
+
+### Los siete lugares imprescindibles con los que alucinarás en Sanabria
+
+Visitamos una de las provincias con más encanto de España y en especial una comarca, la de Sanabria, muy de moda en los últimos días por la concentración motera que ha vivido en el Puente de Sanabria, por las decenas y decenas de visitantes que se acercan hasta el Lago para refrescarse y, a las puertas de uno de los me.
+
+Date: 2026-07-17
+
+### La estás pisoteando en el campo, pero es una planta extinta en España y solo se conservan algunos ejemplares en el Delta del Ebro
+
+Mientras millones de personas asocian el trébol de cuatro hojas con la buena suerte, existe una planta que comparte esa característica y cuya historia dista mucho de ser afortunada. Se trata de la Marsilea quadrifolia , conocida popularmente como trébol de agua , un pequeño helecho acuático que durante décadas formó pa.
+
+Date: 2026-07-17
+
+### La ruta de Jesús Calleja por su rincón favorito de Castilla y León que no puedes perderte: «Parece Alaska, pero es España»
+
+Jesús Calleja es un apasionado de las rutas de montaña y, por eso, tiene su propia ruta favorita por Castilla y León.
+
+Date: 2026-07-17
 
 ### Una avería camino de la playa: qué hacer cuando el imprevisto llega en plenas vacaciones
 
@@ -14,69 +68,15 @@
 
 Date: 2026-07-17
 
-### Junts fía su futuro electoral al regreso de Puigdemont
-
-Ayer, el Tribunal de Justicia de la Unión Europea (TJUE) dio un auténtico espaldarazo a la Ley de Amnistía y allanó el camino, aunque todavía queda una parte por recorrer, para el regreso a España de Carles Puigdemont . Desde Junts se anotaron así una importante victoria política y vendieron en sus círculos que habían.
-
-Date: 2026-07-17
-
-### Ibiza: un solar de chabolas e indigentes acogerá 200 pisos sociales en la zona con la vivienda más cara de España
-
-Ibiza: un solar municipal de chabolas e indigentes acogerá 200 pisos sociales a precio limitado en la zona con la vivienda más cara de España.
-
-Date: 2026-07-17
-
-### Puigdemont enfría un regreso inminente a España: “El camino para acabar con la represión no ha terminado”
-
-El independentismo se ha mostrado exultante este jueves ante el fallo de la justicia europea que avala la ley de amnistía , pactada en su día por ERC y Junts per Catalunya a cambio de investir a Pedro Sánchez. Ambas formaciones han coincidido en advertir que no más hay excusas posibles para una aplicación efectiva de l.
-
-Date: 2026-07-16
-
-### Felipe VI entrega los despachos de la Armada a 125 nuevos oficiales en un acto sin Elcano
-
-El buque escuela Juan Sebastián Elcano no asistió a la ceremonia al encontrarse de regreso a España tras completar su crucero de instrucción.
-
-Date: 2026-07-16
-
-### Morante de la Puebla, en su verano más intenso: "Quiero aprovechar el tiempo para dejar escrita la historia"
-
-La campaña taurina entra en su apogeo, y el maestro ha planificado una agenda vertiginosa, marcando el paso de la temporada. Su trascendencia social le sorprende: "Me tienen como icono de España y su folclore por mis condiciones románticas" Leer.
-
-Date: 2026-07-16
-
-### Las 'low cost' y petroleras revientan precios a Iberdrola, Endesa y Naturgy
-
-El apagón que sufrió España el pasado año está teniendo consecuencias devastadoras para el mercado eléctrico. Las grandes petroleras, como Repsol, TotalEnergies y ENI, y las comercializadoras de luz basadas en precios bajos (low cost) han encontrado en el caos de mercado que ha creado ese corte masivo de luz su mejor b.
-
-Date: 2026-07-16
-
-### Digi: montaña rusa en su estreno en Bolsa
-
-Lleno total en la Bolsa de Madrid ayer, que vivió el debut de Digi Spain y se engalanó de azul para la ocasión. Pero la empresa de telecomunicaciones, aunque arrancó con fuerza, fue perdiendo brío y al cierre bajó un 8,04, hasta los 5,15 euros. Protagonizó el peor estreno del parqué español desde la escisión de Inmocem.
-
-Date: 2026-07-16
-
-### ING duplicará antes de fin de año su equipo de banqueros privados
-
-Sandra Sánchez. Madrid ING sigue dando muestras de su apetito por crecer en el segmento de la banca privada en España. El banco neerlandés, que recientemente ha acordado la...
-
-Date: 2026-07-16
-
-### Delcy, sobre su viaje a España en 2020: «Me invitó Ábalos para ver a las autoridades»
-
-Delcy Rodríguez ha confirmado que fue José Luis Ábalos quien la invitó a viajar a España en enero de 2020 para mantener reuniones «con las autoridades». La presidenta encargada de Venezuela sostiene que conserva la carta de invitación remitida por quien entonces era ministro de Transportes y secretario de Organización.
-
-Date: 2026-07-16
-
 ## Fuentes
 
-- [La polémica pancarta de Argentina sobre la soberanía de Las Malvinas... y una posible sanción para la final contra España](https://www.elcorreo.com/deportes/futbol/mundial/colleja-bellingham-pancarta-sobre-soberania-malvinas-posible-20260716073213-nt_amp.html?utm_source=lootura.com) — 2026-07-16T05:32:13.000Z
+- [Temor en España por la final: el duro juego argentino y el arbitraje preocupan a los fans](https://www.20minutos.es/deportes/futbol/temor-espana-por-final-mundial-duro-juego-argentino-arbitraje-preocupan-los-aficionados_7015570_0.html?utm_source=lootura.com) — 2026-07-17T05:10:18.000Z
+- [Una masa de aire africano dispara las temperaturas este fin de semana y acerca a España a la tercera ola de calor del verano](https://www.20minutos.es/nacional/una-masa-aire-africano-dispara-las-temperaturas-este-fin-semana-acerca-espana-tercera-ola-calor-verano_7015549_0.html?utm_source=lootura.com) — 2026-07-17T03:00:00.000Z
+- [Menos madera, más paisaje: la revolución de la barrica de vino](https://www.abc.es/gastronomia/vinos/virtud-silencio-madera-vino-busca-frescura-20260716155912-nt.html?utm_source=lootura.com) — 2026-07-17T05:24:46.000Z
+- [Antonio Tajani: «No podemos dejar África solo en manos de China y Rusia»](https://www.abc.es/economia/antonio-tajani-podemos-dejar-africa-solo-manos-20260716134700-nt.html?utm_source=lootura.com) — 2026-07-17T05:23:39.000Z
+- [La huelga en Airbus España se extiende por todos los centros con la rebaja del teletrabajo como detonante](https://cincodias.elpais.com/companias/2026-07-17/la-huelga-en-airbus-espana-se-extiende-por-todos-los-centros-con-la-rebaja-del-teletrabajo-como-detonante.html?utm_source=lootura.com) — 2026-07-17T03:15:00.000Z
+- [Las alarmantes cifras de ahogados: 254 hasta el 15 de julio, un junio negro y Andalucía a la cabeza](https://www.elconfidencial.com/espana/2026-07-17/cifras-muertes-ahogamiento-junio-negro-andalucia_4391278/?utm_source=lootura.com) — 2026-07-17T03:00:00.000Z
 - [Morante de la Puebla, en su verano más intenso: "Quiero aprovechar el tiempo para dejar escrita la historia"](https://www.elmundo.es/papel/lideres/2026/07/16/6a589087e4d4d82e4f8b456f.html?utm_source=lootura.com) — 2026-07-16T20:51:35.000Z
-- [Puigdemont enfría un regreso inminente a España: “El camino para acabar con la represión no ha terminado”](https://elpais.com/espana/catalunya/2026-07-16/jordi-turull-el-tc-no-se-puede-ir-de-vacaciones-teniendo-a-gente-a-la-que-se-le-vulneran-derechos-fundamentales.html?utm_source=lootura.com) — 2026-07-16T12:10:59.000Z
-- [Las 'low cost' y petroleras revientan precios a Iberdrola, Endesa y Naturgy](https://www.expansion.com/empresas/energia/2026/07/17/6a594d07468aeb751b8b45a7.html?utm_source=lootura.com) — 2026-07-16T23:12:01.000Z
 - [Digi: montaña rusa en su estreno en Bolsa](https://www.expansion.com/mercados/2026/07/17/6a592581e5fdea4a758b458e.html?utm_source=lootura.com) — 2026-07-16T23:34:50.000Z
-- [ING duplicará antes de fin de año su equipo de banqueros privados](https://amp.expansion.com/empresas/banca/2026/07/17/6a594b0ae5fdeac1458b4588.html?utm_source=lootura.com) — 2026-07-16T23:10:37.000Z
-- [Una avería camino de la playa: qué hacer cuando el imprevisto llega en plenas vacaciones](https://www.larazon.es/economia/averia-camino-playa-que-hacer-cuando-imprevisto-llega-plenas-vacaciones_202607176a57270a0500ab412c95cfaf.html?utm_source=lootura.com) — 2026-07-17T01:08:43.000Z
-- [Junts fía su futuro electoral al regreso de Puigdemont](https://www.larazon.es/espana/junts-fia-futuro-electoral-regreso-puigdemont_202607176a59290ce9f2e84b5c6c9cd2.html?utm_source=lootura.com) — 2026-07-17T01:14:17.000Z
-- [Ibiza: un solar de chabolas e indigentes acogerá 200 pisos sociales en la zona con la vivienda más cara de España](https://okdiario.com/baleares/ibiza-solar-chabolas-indigentes-acogera-200-pisos-sociales-zona-vivienda-mas-cara-espana-19009959/amp?utm_source=lootura.com) — 2026-07-17T02:00:33.000Z
-- [Felipe VI entrega los despachos de la Armada a 125 nuevos oficiales en un acto sin Elcano](https://theobjective.com/espana/2026-07-16/felipe-vi-despachos-armada/?amp=&utm_source=lootura.com) — 2026-07-16T17:12:38.000Z
+- [Incendios en España, en directo: última hora de los fuegos activos y de la evolución de la situación](https://www.larazon.es/sociedad/incendios-espana-directo-ultima-hora-fuegos-activos-evolucion-situacion_202607176a59a9f91db8de04099359cb.html?outputType=amp&utm_source=lootura.com) — 2026-07-17T06:06:11.000Z
+- [Los siete lugares imprescindibles con los que alucinarás en Sanabria](https://www.larazon.es/castilla-y-leon/siete-lugares-imprescindibles-que-alucinaras-sanabria_202607176a59c4f20500ab412c9a604d.html?utm_source=lootura.com) — 2026-07-17T06:00:18.000Z

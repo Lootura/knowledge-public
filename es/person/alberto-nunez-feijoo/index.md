@@ -3,10 +3,16 @@
 > Sigue la actividad de Alberto Núñez Feijóo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-17T02:26:45.462Z
+- Actualizado: 2026-07-17T06:12:48.444Z
 - Canonical: https://atlas.lootura.com/es/person/alberto-nunez-feijoo
 
 ## Cambios recientes
+
+### 🎙 PODCAST | ¿Acabará Feijóo siendo presidente gracias a la amnistía?
+
+Dijo que era terrorismo, golpe de Estado, delincuecia, corrupcion, que había que ilegalizarlos, que negociar era traicionar a la patria, secuestrar la democracia. Y ahora puede beneficiarse de lo que intentó boicotear Un tema Al día, ¡en el teatro! Ven a verlo en directo el 3 de octubre en Madrid. Consigue ya tus entra.
+
+Date: 2026-07-17
 
 ### Feijóo acata el aval a la amnistía entre reproches a Sánchez: «Mintió y vendió a los españoles»
 
@@ -62,13 +68,6 @@ El líder del PP , Alberto Núñez Feijóo , ha asegurado este miércoles que el
 
 Date: 2026-07-15
 
-### Ester Muñoz responde a Puente tras su polémico tuit insultando a Feijóo: "No ha sido tajante, ha sido maleducado"
-
-Ester Muñoz ha respondido con firmeza a Óscar Puente tras el tuit que publicó insultando a Alberto Núñez Feijóo por sus palabras sobre la condena al hermano del presidente del Gobierno, David Sánchez. En una intervención en Al Rojo Vivo , la portavoz del PP ha asegurado que el ministro de Transportes no fue tajante, si.
-
-Date: 2026-07-15
-
 ## Fuentes
 
-- [Feijóo defiende que el PP tenía "razón" al denunciar falta de control en la ley de nietos tras la exigencia de la Junta Electoral](https://www.20minutos.es/nacional/feijoo-defiende-que-pp-tenia-razon-denunciar-falta-control-ley-nietos-tras-exigencia-junta-electoral_7015673_0.html?utm_source=lootura.com) — 2026-07-16T22:32:19.000Z
-- [Feijóo acata el aval a la amnistía entre reproches a Sánchez: «Mintió y vendió a los españoles»](https://theobjective.com/espana/politica/2026-07-16/feijoo-amnistia-sanchez-mintio-vendio-espanoles/?utm_source=lootura.com) — 2026-07-16T19:44:14.000Z
+- [🎙 PODCAST | ¿Acabará Feijóo siendo presidente gracias a la amnistía?](https://www.eldiario.es/blog/al-dia/podcast-acabara-feijoo-siendo-presidente-gracias-amnistia_132_13386027.html?utm_source=lootura.com) — 2026-07-17T06:30:00.000Z

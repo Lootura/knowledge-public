@@ -3,10 +3,16 @@
 > Sigue la actividad de San Sebastián en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-17T02:26:45.462Z
+- Actualizado: 2026-07-17T06:12:48.444Z
 - Canonical: https://atlas.lootura.com/es/place/san-sebastian
 
 ## Cambios recientes
+
+### Rincones a la sombra en los que sentarse
+
+Año 1951. Para «pasear o sentarse a descansar, sin sentir los rigores del sol», Donostia ofrece espacios archiconocidos y otros, menos frecuentados. Hace 75 años, citaban el paseo de los Fueros o los jardines situados tras el hotel María Cristina.
+
+Date: 2026-07-17
 
 ### «¡Más sangre azul es imposible!»
 
@@ -52,4 +58,4 @@ Date: 2026-07-12
 
 ## Fuentes
 
-- [«¡Más sangre azul es imposible!»](https://www.diariovasco.com/gipuzkoa/memoria/sangre-azul-imposible-20260716075415-nt_amp.html?utm_source=lootura.com) — 2026-07-16T05:54:15.000Z
+- [Rincones a la sombra en los que sentarse](https://www.diariovasco.com/gipuzkoa/memoria/rincones-sombra-sentarse-20260717125556-nt_amp.html?utm_source=lootura.com) — 2026-07-17T05:52:32.000Z

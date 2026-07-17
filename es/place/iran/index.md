@@ -3,10 +3,28 @@
 > Sigue la actividad de Iran en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-16T20:54:41.819Z
+- Actualizado: 2026-07-17T06:12:48.444Z
 - Canonical: https://atlas.lootura.com/es/place/iran
 
 ## Cambios recientes
+
+### Los economistas prevén que los alimentos suban hasta un 9 % en 2027 por la guerra en Irán y el clima extremo
+
+El encarecimiento de las materias primas por la guerra en Irán y el actual episodio de fenómenos meteorológicos extremos impulsarán el precio de los alimentos el año que viene , si bien es el segundo de estos dos factores el que más preocupa a los economistas. Tanto las previsiones del Banco Central Europeo (BCE) como.
+
+Date: 2026-07-17
+
+### Fragilidad en las Bolsas por la ola de ventas en tecnología y las tensiones con Irán
+
+Los precios del petróleo retoman las subidas a medida que se intensifican las hostilidades en Oriente Próximo y el tráfico marítimo se reduce drásticamente en el estrecho de Ormuz. La materia prima suma hoy casi un 1% hasta los 85 dólares el barril y acumula un alza del 12% durante la semana, lo que reaviva los temores.
+
+Date: 2026-07-17
+
+### El mercado se abona a la incertidumbre: las Bolsas borran el alto al fuego de Trump
+
+Nadie dijo que fuera a ser fácil. El memorándum de Islamabad nació como un intento de ganar tiempo más que como una solución definitiva. El acuerdo frenó las hostilidades entre Estados Unidos e Irán y abrió una ventana de negociación de 60 días que los mercados interpretaron como el principio del fin de la crisis. Un m.
+
+Date: 2026-07-17
 
 ### El Ibex salva la sesión con un alza del 0,15% que le lleva a superar los 19.300 puntos
 
@@ -50,24 +68,8 @@ Estados Unidos ha reimpuesto el bloqueo naval sobre los puertos iraníes y ha in
 
 Date: 2026-07-15
 
-### Trump estrecha el cerco sobre Cuba con sanciones, bloqueo y amenaza militar
-
-Sin grandes anuncios ni gestos solemnes, Donald Trump ha situado a Cuba en el centro de su estrategia de presión máxima en el continente americano. Después de concentrar durante meses su atención en Venezuela e Irán, la Casa Blanca investiga ahora si la isla almacena drones iraníes, y el propio presidente ha advertido.
-
-Date: 2026-07-15
-
-### Los fabricantes de drones derrotan en Bolsa a las grandes firmas de defensa tradicional
-
-Moscú y varias ciudades de Kuwait, Baréin y Omán han amanecido esta semana con el sonido de las bombas. Fueron los disparos de drones de Ucrania e Irán en medio de las dos guerras con mayor impacto económico de las últimas décadas. Mientras estas máquinas autónomas sobrevuelan hoy los lugares más peligrosos del planeta.
-
-Date: 2026-07-15
-
-### EEUU restablece el bloqueo naval a Irán y lanza una nueva ola de bombardeos
-
-Las Fuerzas Armadas estadounidenses reimpusieron este martes el bloqueo naval a Irán en el estrecho de Ormuz , además de lanzar una nueva ola de bombardeos, según anunció el Comando Central del Ejército de Estados Unidos (Centcom). El organismo, con sede en Florida, expuso en un comunicado que el Ejército estadounidens.
-
-Date: 2026-07-14
-
 ## Fuentes
 
-No public source links.
+- [Los economistas prevén que los alimentos suban hasta un 9 % en 2027 por la guerra en Irán y el clima extremo](https://www.20minutos.es/lainformacion/economia-y-finanzas/los-economistas-preven-subidas-los-precios-los-alimentos-hasta-9-2027-por-guerra-clima-extremo_7015625_0.html?utm_source=lootura.com) — 2026-07-17T03:00:00.000Z
+- [Fragilidad en las Bolsas por la ola de ventas en tecnología y las tensiones con Irán](https://cincodias.elpais.com/mercados-financieros/2026-07-17/la-bolsa-y-el-ibex-35.html?utm_source=lootura.com) — 2026-07-17T04:32:39.000Z
+- [El mercado se abona a la incertidumbre: las Bolsas borran el alto al fuego de Trump](https://cincodias.elpais.com/mercados-financieros/2026-07-17/el-mercado-se-abona-a-la-incertidumbre-las-bolsas-borran-el-alto-al-fuego-de-trump.html?utm_source=lootura.com) — 2026-07-17T03:25:00.000Z

@@ -3,10 +3,34 @@
 > Sigue la actividad de Madrid en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-17T02:26:45.462Z
+- Actualizado: 2026-07-17T06:12:48.444Z
 - Canonical: https://atlas.lootura.com/es/place/madrid
 
 ## Cambios recientes
+
+### Menos madera, más paisaje: la revolución de la barrica de vino
+
+En una mesa de cuatro comensales en cualquier rincón de Madrid, Barcelona, Sevilla, Valencia o Logroño, una botella de tinto bien escogido puede desaparecer en cuestión de diez o doce minutos. No es por una sed desenfrenada ni por falta de modales; es el síntoma de un cambio de paradigma en el consumo de vino en España.
+
+Date: 2026-07-17
+
+### 🎙 PODCAST | ¿Acabará Feijóo siendo presidente gracias a la amnistía?
+
+Dijo que era terrorismo, golpe de Estado, delincuecia, corrupcion, que había que ilegalizarlos, que negociar era traicionar a la patria, secuestrar la democracia. Y ahora puede beneficiarse de lo que intentó boicotear Un tema Al día, ¡en el teatro! Ven a verlo en directo el 3 de octubre en Madrid. Consigue ya tus entra.
+
+Date: 2026-07-17
+
+### Así es el “gran pantano subterráneo” de Madrid
+
+“Fui sobre agua edificada, mis muros de fuego son, esta es mi insignia y blasón”. De esta manera tan poética rezaba la leyenda del que probablemente fuera el primer emblema de Madrid , allá por el siglo XII . Sin duda, una buena introducción para tomar el pulso a la situación de la calidad y cantidad de las aguas en la.
+
+Date: 2026-07-17
+
+### Los trenes Extremadura-Madrid iniciarán y finalizarán su recorrido en Leganés desde este viernes
+
+Los trenes de Media Distancia que conectan Extremadura y Talavera de la Reina con Madrid iniciarán y finalizarán su recorrido en Leganés desde este viernes al miércoles por las obras de mejora que está acometiendo Adif en la estación de Atocha. En un comunicado, Renfe han indicado que los viajeros con salida o destino.
+
+Date: 2026-07-17
 
 ### La Audiencia Provincial respalda la decisión de Peinado y descarta que sea «contraria a derecho»
 
@@ -26,6 +50,12 @@ Sigue en directo la última hora del incendio forestal declarado en Lozoyuela, e
 
 Date: 2026-07-17
 
+### Digi: montaña rusa en su estreno en Bolsa
+
+Lleno total en la Bolsa de Madrid ayer, que vivió el debut de Digi Spain y se engalanó de azul para la ocasión. Pero la empresa de telecomunicaciones, aunque arrancó con fuerza, fue perdiendo brío y al cierre bajó un 8,04, hasta los 5,15 euros. Protagonizó el peor estreno del parqué español desde la escisión de Inmocem.
+
+Date: 2026-07-16
+
 ### La Audiencia de Madrid avala que la causa contra Begoña Gómez siga adelante por jurado por dos delitos
 
 La Audiencia Provincial de Madrid ha dado luz verde a que el proceso por jurado popular contra Begoña Gómez, esposa de Pedro Sánchez, siga adelante por dos delitos: tráfico de influencias y malversación. El tribunal avala así parcialmente la decisión del juez Juan Carlos Peinado de enviar al banquillo a la pareja del p.
@@ -38,44 +68,10 @@ La Comunidad de Madrid ha activado la Situación Operativa 2 del Plan Infoma por
 
 Date: 2026-07-16
 
-### Un detenido por el incendio forestal de Lozoyuela (Madrid) en el que ha intervenido la UME
-
-Francisco Martín, delegado del Gobierno en Madrid, ha informado la tarde de este jueves de que una persona ha sido detenida como presunta responsable de haber iniciado el incendio forestal que se ha declarado en Lozoyuela y que ha obligado a la Unidad Militar de Emergencias (UME) a intervenir en las tareas de extinción.
-
-Date: 2026-07-16
-
-### Detenida una persona sospechosa de originar el incendio en Lozoyuela (Madrid)
-
-El delegado del Gobierno en Madrid, Francisco Martín, ha informado de que esta tarde se ha detenido a una persona como presunto responsable de haber iniciado el incendio forestal declarado en Lozoyuela , actualmente en Situación Operativa 2 y que ha obligado a la intervención de la Unidad Militar de Emergencias (UME) .
-
-Date: 2026-07-16
-
-### Digi: montaña rusa en su estreno en Bolsa
-
-Lleno total en la Bolsa de Madrid ayer, que vivió el debut de Digi Spain y se engalanó de azul para la ocasión. Pero la empresa de telecomunicaciones, aunque arrancó con fuerza, fue perdiendo brío y al cierre bajó un 8,04, hasta los 5,15 euros. Protagonizó el peor estreno del parqué español desde la escisión de Inmocem.
-
-Date: 2026-07-16
-
-### ING duplicará antes de fin de año su equipo de banqueros privados
-
-Sandra Sánchez. Madrid ING sigue dando muestras de su apetito por crecer en el segmento de la banca privada en España. El banco neerlandés, que recientemente ha acordado la...
-
-Date: 2026-07-16
-
-### El PP, tras mantenerse el juicio con jurado a Begoña Gómez: «Una situación inconcebible»
-
-El Partido Popular ha asegurado este jueves que la Audiencia Provincial de Madrid ha confirmado que Begoña Gómez , esposa del presidente del Gobierno, «se sentará en un banquillo» y ha recalcado que se trata de una situación «sin precedentes en la democracia española e inconcebible en cualquier democracia europea », se.
-
-Date: 2026-07-16
-
 ## Fuentes
 
-- [La Audiencia Provincial respalda la decisión de Peinado y descarta que sea «contraria a derecho»](https://www.abc.es/espana/audiencia-provincial-respalda-decision-peinado-descarta-arbitraria-20260717015223-nt.html?utm_source=lootura.com) — 2026-07-17T01:10:18.000Z
-- [La Audiencia de Madrid avala que la causa contra Begoña Gómez siga adelante por jurado por dos delitos](https://elpais.com/espana/2026-07-16/la-audiencia-de-madrid-avala-que-la-causa-contra-begona-gomez-siga-adelante-por-jurado-por-dos-delitos.html?utm_source=lootura.com) — 2026-07-16T15:21:22.000Z
+- [Menos madera, más paisaje: la revolución de la barrica de vino](https://www.abc.es/gastronomia/vinos/virtud-silencio-madera-vino-busca-frescura-20260716155912-nt.html?utm_source=lootura.com) — 2026-07-17T05:24:46.000Z
+- [🎙 PODCAST | ¿Acabará Feijóo siendo presidente gracias a la amnistía?](https://www.eldiario.es/blog/al-dia/podcast-acabara-feijoo-siendo-presidente-gracias-amnistia_132_13386027.html?utm_source=lootura.com) — 2026-07-17T06:30:00.000Z
 - [Digi: montaña rusa en su estreno en Bolsa](https://www.expansion.com/mercados/2026/07/17/6a592581e5fdea4a758b458e.html?utm_source=lootura.com) — 2026-07-16T23:34:50.000Z
-- [ING duplicará antes de fin de año su equipo de banqueros privados](https://amp.expansion.com/empresas/banca/2026/07/17/6a594b0ae5fdeac1458b4588.html?utm_source=lootura.com) — 2026-07-16T23:10:37.000Z
-- [Aún le puede tocar juzgar a Begoña](https://www.larazon.es/espana/aun-puede-tocar-juzgar-begona_202607176a598184e9f2e84b5c6d0f8d.html?utm_source=lootura.com) — 2026-07-17T01:12:36.000Z
-- [Incendio en Lozoyuela, en directo: Madrid eleva a situación 2 y pide ayuda a la UME](https://www.larazon.es/sociedad/incendio-lozoyuela-directo-madrid-eleva-situacion-2-envia-esalert_202607166a5918ec0500ab412c9984b1.html?outputType=amp&utm_source=lootura.com) — 2026-07-17T01:20:39.000Z
-- [Un detenido por el incendio forestal de Lozoyuela (Madrid) en el que ha intervenido la UME](https://okdiario.com/sucesos/detenido-incendio-forestal-lozoyuela-madrid-que-intervenido-ume-19012690/amp?utm_source=lootura.com) — 2026-07-16T20:14:04.000Z
-- [Un incendio en Lozoyuela (Madrid) obliga a confinar varios pueblos tras el envío de la alerta](https://theobjective.com/sociedad/suceso/2026-07-16/incendio-lozoyuela-madrid/?utm_source=lootura.com) — 2026-07-16T16:52:21.000Z
-- [Detenida una persona sospechosa de originar el incendio en Lozoyuela (Madrid)](https://theobjective.com/sociedad/suceso/2026-07-16/detenido-sospechoso-incendio-lozoyuela/?utm_source=lootura.com) — 2026-07-16T19:42:38.000Z
+- [Así es el “gran pantano subterráneo” de Madrid](https://www.larazon.es/madrid/asi-gran-pantano-subterraneo-madrid_202607176a59c3df0500ab412c9a5f0f.html?utm_source=lootura.com) — 2026-07-17T05:55:44.000Z
+- [Los trenes Extremadura-Madrid iniciarán y finalizarán su recorrido en Leganés desde este viernes](https://www.larazon.es/madrid/trenes-extremaduramadrid-iniciaran-finalizaran-recorrido-leganes-este-viernes_202607176a59c2a21db8de040993762c.html?utm_source=lootura.com) — 2026-07-17T05:50:26.000Z

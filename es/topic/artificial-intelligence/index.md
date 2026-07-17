@@ -3,7 +3,7 @@
 > Sigue la actividad de Artificial intelligence en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: topic
-- Actualizado: 2026-07-17T02:26:45.462Z
+- Actualizado: 2026-07-17T06:12:48.444Z
 - Canonical: https://atlas.lootura.com/es/topic/artificial-intelligence
 
 ## Cambios recientes
@@ -40,4 +40,4 @@ Date: 2026-07-10
 
 ## Fuentes
 
-- [El Ibex bate al Nasdaq en la 'era de ChatGPT' sin cocer una burbuja](https://www.expansion.com/mercados/2026/07/16/6a58ff4f468aeb13038b45b0.html?utm_source=lootura.com) — 2026-07-16T23:33:05.000Z
+- [Las antiguas cajas de ahorros exploran una alianza para hacer frente a la amenaza de Mythos](https://cincodias.elpais.com/companias/2026-07-17/las-antiguas-cajas-de-ahorros-exploran-una-alianza-para-hacer-frente-a-la-amenaza-de-mythos.html?utm_source=lootura.com) — 2026-07-17T03:15:00.000Z

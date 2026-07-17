@@ -70,4 +70,4 @@ Date: 2026-07-11
 
 ## Fuentes
 
-- [Apple pisa el acelerador con el iPad mini con pantalla OLED, que llegará este mismo año](https://hipertextual.com/apple/apple-pisa-acelerador-ipad-mini-oled/?utm_source=lootura.com) — 2026-07-16T16:35:00.000Z
+No public source links.

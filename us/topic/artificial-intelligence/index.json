@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/topic/artificial-intelligence/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/topic/artificial-intelligence/index.json",
   "description": "Follow Artificial intelligence, a tracked topic, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-17T02:27:10.364Z",
+  "updatedAt": "2026-07-17T06:13:09.528Z",
   "aliases": [
     "AI",
     "machine learning"
@@ -22,6 +22,11 @@
     {
       "title": "A global capital for AI safety is emerging — and it's not in Silicon Valley",
       "summary": "Nature, Published online: 16 July 2026; doi:10.1038/d41586-026-01389-9 The United Kingdom is gaining influence through its growing AI-safety ecosystem.",
+      "date": "2026-07-17"
+    },
+    {
+      "title": "EU's AI 'guardrails' cannot absorb rapid changes in technology, study warns",
+      "summary": "\"Guardrails\" built by the EU to govern AI fall short in both ambition and execution and have become too heavy to absorb rapid changes in technology, a new study in Big Data & Society warns.",
       "date": "2026-07-17"
     },
     {
@@ -58,30 +63,25 @@
       "title": "Google is renaming NotebookLM to Gemini Notebook",
       "summary": "Google is giving its AI note-taking app a new name. The company announced on Thursday that NotebookLM is becoming Gemini Notebook, but will remain a standalone app even as it integrates more deeply across Gemini and Google Search. Google first revealed Gemini Notebook - then called Project Tailwind - in May 2023 before.",
       "date": "2026-07-16"
-    },
-    {
-      "title": "Highly fragmented European wetlands with uneven restoration needs",
-      "summary": "Nature, Published online: 15 July 2026; doi:10.1038/s41586-026-10760-9 Satellite imagery and machine learning used for the mapping of six seminatural open wetland types and land-use disturbance in European countries shows that wetlands are highly fragmented and have uneven restoration needs.",
-      "date": "2026-07-16"
     }
   ],
   "sources": [
     {
       "title": "AI is set to completely transform cybersecurity — here’s how researchers must prepare",
       "url": "https://www.nature.com/articles/d41586-026-02214-z?utm_source=lootura.com",
-      "publishedAt": "2026-07-17T02:27:14.341Z",
+      "publishedAt": "2026-07-17T06:13:13.110Z",
       "sourceId": "lootura-us-nature"
     },
     {
       "title": "A global capital for AI safety is emerging — and it's not in Silicon Valley",
       "url": "https://www.nature.com/articles/d41586-026-01389-9?utm_source=lootura.com",
-      "publishedAt": "2026-07-17T02:27:14.341Z",
+      "publishedAt": "2026-07-17T06:13:13.110Z",
       "sourceId": "lootura-us-nature"
     },
     {
-      "title": "PathSay Project uses AI to cross language barriers",
-      "url": "https://phys.org/news/2026-07-pathsay-ai-language-barriers.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-17T01:00:01.000Z",
+      "title": "EU's AI 'guardrails' cannot absorb rapid changes in technology, study warns",
+      "url": "https://phys.org/news/2026-07-eu-ai-guardrails-absorb-rapid.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-17T03:20:01.000Z",
       "sourceId": "lootura-us-phys-org"
     }
   ],

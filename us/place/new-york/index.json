@@ -8,11 +8,16 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/new-york/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/new-york/index.json",
   "description": "Follow New York, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-17T02:27:10.364Z",
+  "updatedAt": "2026-07-17T06:13:09.528Z",
   "aliases": [
     "New York City"
   ],
   "changes": [
+    {
+      "title": "‘Everybody Watches’: TIME100 Sports Honorees on Red Carpet Celebrate Rise of Women’s Sports",
+      "summary": "Eileen Gu on the TIME100 Sports Gala red carpet on July 16, 2026 in New York City. —Jemal Countess—Getty Images Multiple guests walking the red carpet at the inaugural TIME100 Sports Gala in New York City on July 16 applauded the rise of women’s sports. “Everybody watches women’s sports!” said Eileen Gu , the 2026 TIME.",
+      "date": "2026-07-17"
+    },
     {
       "title": "Watch Live: Jay Clayton, Trump",
       "summary": "Clayton, currently the U.S. attorney for the Southern District of New York, is expected to succeed Bill Pulte, Trump.",
@@ -57,20 +62,15 @@
       "title": "T rex fossil ‘Gus’ sells for $50.1m at New York auction, setting new record",
       "summary": "Skeleton judged to be one of the largest and most complete ever unearthed was excavated on a ranch in South Dakota A vast, fossilized Tyrannosaurus rex nicknamed Gus sold at Sotheby’s in New York on Tuesday for $50.1m with fees (£37.4m) to a phone bidder – making it the most valuable dinosaur fossil sold at auction. It.",
       "date": "2026-07-14"
-    },
-    {
-      "title": "New York enacts nation",
-      "summary": "Building new data centers in New York will be paused for a year in order to allow state officials to establish guidelines protecting residents and the environment, Gov. Kathy Hochul said.",
-      "date": "2026-07-14"
     }
   ],
   "sources": [
     {
-      "title": "Husband of Code Pink founder being investigated under federal agent and tax laws",
-      "url": "https://www.cbsnews.com/news/husband-code-pink-founder-neville-roy-singham-investigation-tax-laws/?utm_source=lootura.com",
-      "publishedAt": "2026-07-16T17:01:59.000Z",
-      "sourceId": "lootura-us-cbs-news"
+      "title": "‘Everybody Watches’: TIME100 Sports Honorees on Red Carpet Celebrate Rise of Women’s Sports",
+      "url": "https://time.com/article/2026/07/17/time100-sports-gala-red-carpet-women-eileen-gu-hilary-knight-trinity-rodman/?utm_source=lootura.com",
+      "publishedAt": "2026-07-17T06:00:09.000Z",
+      "sourceId": "lootura-us-time"
     }
   ],
-  "evidenceCount": 0
+  "evidenceCount": 1
 }

@@ -8,9 +8,24 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/china/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/china/index.json",
   "description": "Sigue la actividad de China en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-17T02:26:45.462Z",
+  "updatedAt": "2026-07-17T06:12:48.444Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "Antonio Tajani: «No podemos dejar África solo en manos de China y Rusia»",
+      "summary": "El vicepresidente del Gobierno y ministro de Asuntos Exteriores de Italia, Antonio Tajani , aboga por seguir trabajando en un mercado único europeo para competir con las grandes potencias en el nuevo tablero global y llama a España a ser un socio estratégico para Italia dentro del plan de inversiones que el país transa.",
+      "date": "2026-07-17"
+    },
+    {
+      "title": "Trump resucita en un discurso a la nación el bulo del fraude electoral de 2020 y exagera la influencia de China en su derrota",
+      "summary": "Donald Trump, líder de un país en guerra y con el coste de la vida en alza, se dirigió este jueves por la noche a la nación para hablar de las elecciones... de hace seis años. No fue solo un intento de ajuste de cuentas con un fracaso personal; el presidente de Estados Unidos, cuya impopularidad bate récords, habló con.",
+      "date": "2026-07-17"
+    },
+    {
+      "title": "Trump anuncia una desclasificación que probaría injerencia electoral de China en EEUU",
+      "summary": "El presidente de Estados Unidos, Donald Trump, ha anunciado este jueves la desclasificación y publicación de información «crítica» de inteligencia que.",
+      "date": "2026-07-17"
+    },
     {
       "title": "Trump desclasifica documentos de la CIA que demuestran el fraude electoral del chavismo",
       "summary": "El presidente denuncia la vulnerabilidad de las máquinas de voto, acusa a China de robar datos de 220 millones de electores y exige al Congreso una ley con identificación y prueba de ciudadanía.",
@@ -45,54 +60,27 @@
       "title": "El 'efecto Trump': China ya es más popular que Estados Unidos",
       "summary": "Un año y medio después de su regreso a la Casa Blanca, Donald Trump ya ha logrado un vuelco planetario: por primera vez, China tiene una visión más favorable que Estados Unidos a nivel global . Así lo demuestra la última edición del estudio anual de opinión pública realizado por el Pew Research Center, publicada este j.",
       "date": "2026-07-16"
-    },
-    {
-      "title": "Los récords de exportación de coches de China marcan rumbo de colisión",
-      "summary": "Los fabricantes de automóviles chinos siguen impulsando la disrupción en el sector. Las exportaciones mensuales de coches del país acaban de superar por primera vez la barrera de los siete dígitos y no muestran signos de desaceleración . Esto reavivará los argumentos proteccionistas, acelerará la producción en el extra.",
-      "date": "2026-07-16"
-    },
-    {
-      "title": "El PP impulsa el vínculo con Latinoamérica en la UE para competir con China",
-      "summary": "La reunión de líderes europeos e hispanoamericanos de centroderecha en el Foro Libertas, ayer en Madrid, sirvió para que Alberto Núñez Feijóo les trasladase su vocación de...",
-      "date": "2026-07-15"
-    },
-    {
-      "title": "El Ibex pierde los 19.300 puntos por las energéticas y los bancos",
-      "summary": "La minitregua en el petróleo, y el alivio ayer en el IPC de EEUU, no logran generalizar las subidas, más allá del rebote de las tecnológicas. El freno en el PIB de China y el tono agresivo de la Fed obstaculizan los avances. El Ibex vuelve a atascarse cerca de los 19.300 puntos de las últimas jornadas.",
-      "date": "2026-07-15"
     }
   ],
   "sources": [
     {
-      "title": "Trump desclasifica documentos de la CIA que demuestran el fraude electoral del chavismo",
-      "url": "https://www.abc.es/internacional/trump-desclasifica-documentos-cia-muestran-fraude-electoral-20260717034114-nt_amp.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-17T01:41:15.000Z",
+      "title": "Antonio Tajani: «No podemos dejar África solo en manos de China y Rusia»",
+      "url": "https://www.abc.es/economia/antonio-tajani-podemos-dejar-africa-solo-manos-20260716134700-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-17T05:23:39.000Z",
       "sourceId": "lootura-es-abc"
     },
     {
-      "title": "Trump resucita en un discurso a la nación el bulo del fraude electoral de 2020 y acusa a China de influir en su derrota",
+      "title": "Trump resucita en un discurso a la nación el bulo del fraude electoral de 2020 y exagera la influencia de China en su derrota",
       "url": "https://elpais.com/internacional/2026-07-17/trump-resucita-en-un-discurso-a-la-nacion-el-bulo-del-fraude-electoral-de-2020-y-acusa-a-china-de-influir-en-su-derrota.html?utm_source=lootura.com",
       "publishedAt": "2026-07-17T01:28:02.000Z",
       "sourceId": "lootura-es-el-pais"
     },
     {
-      "title": "La pesadilla de financiar ensayos cuando el mono es un «artículo de lujo»",
-      "url": "https://www.larazon.es/sociedad/pesadilla-financiar-ensayos-cuando-mono-articulo-lujo_202607176a59801be9f2e84b5c6d0d78.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-17T01:06:35.000Z",
-      "sourceId": "lootura-es-la-razon"
-    },
-    {
-      "title": "Trump anuncia la desclasificación de documentos sobre una supuesta injerencia electoral china en 2020",
-      "url": "https://www.larazon.es/internacional/trump-anuncia-desclasificacion-documentos-supuesta-injerencia-electoral-china-2020_202607176a598bc90500ab412c9a1bc3.html?outputType=amp&utm_source=lootura.com",
-      "publishedAt": "2026-07-17T01:56:25.000Z",
-      "sourceId": "lootura-es-la-razon"
-    },
-    {
-      "title": "Trump desclasifica informes de la CIA que «prueban que el sistema electoral ha sido manipulado» y acusa a China",
-      "url": "https://okdiario.com/internacional/trump-desclasifica-informes-cia-que-prueban-que-sistema-electoral-vulnerable-acusa-china-anuncia-medidas-antifraude-19013194?utm_source=lootura.com",
-      "publishedAt": "2026-07-17T01:52:08.000Z",
-      "sourceId": "lootura-es-ok-diario"
+      "title": "Trump anuncia una desclasificación que probaría injerencia electoral de China en EEUU",
+      "url": "https://theobjective.com/internacional/2026-07-17/trump-desclasificacion-injerencia-electoral-china-eeuu/?amp=&utm_source=lootura.com",
+      "publishedAt": "2026-07-17T05:41:49.000Z",
+      "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 5
+  "evidenceCount": 3
 }

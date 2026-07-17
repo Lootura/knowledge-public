@@ -3,10 +3,16 @@
 > Sigue la actividad de Begoña Gómez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-17T02:26:45.462Z
+- Actualizado: 2026-07-17T06:12:48.444Z
 - Canonical: https://atlas.lootura.com/es/person/begona-gomez
 
 ## Cambios recientes
+
+### La condena de Urdangarín servirá para juzgar a Begoña Gómez por usar su «vínculo matrimonial» para dirigir la cátedra de la Complutense
+
+La esposa de Pedro Sánchez se sentará en el banquillo de los acusados, a la vuelta del verano, por malversación y tráfico de influencias, tras prev...
+
+Date: 2026-07-17
 
 ### La Audiencia Provincial respalda la decisión de Peinado y descarta que sea «contraria a derecho»
 
@@ -14,15 +20,15 @@ La Audiencia Provincial de Madrid ha respaldado la decisión del juez Juan Carlo
 
 Date: 2026-07-17
 
-### La Audiencia de Madrid avala que la causa contra Begoña Gómez siga adelante por jurado por dos delitos
-
-La Audiencia Provincial de Madrid ha dado luz verde a que el proceso por jurado popular contra Begoña Gómez, esposa de Pedro Sánchez, siga adelante por dos delitos: tráfico de influencias y malversación. El tribunal avala así parcialmente la decisión del juez Juan Carlos Peinado de enviar al banquillo a la pareja del p.
-
-Date: 2026-07-16
-
 ### Los 13 indicios de malversación con el 'software' de la Universidad Complutense que hunden a Begoña Gómez
 
 La esposa del presidente dejó varias pistas "con fuerza incriminatoria" al usar el 'software' de la UCM sin respeto al interés público que la abocan al juicio Leer.
+
+Date: 2026-07-16
+
+### La Audiencia de Madrid avala que la causa contra Begoña Gómez siga adelante por jurado por dos delitos
+
+La Audiencia Provincial de Madrid ha dado luz verde a que el proceso por jurado popular contra Begoña Gómez, esposa de Pedro Sánchez, siga adelante por dos delitos: tráfico de influencias y malversación. El tribunal avala así parcialmente la decisión del juez Juan Carlos Peinado de enviar al banquillo a la pareja del p.
 
 Date: 2026-07-16
 
@@ -62,14 +68,7 @@ El Gobierno de Pedro Sánchez ha estallado contra la decisión de la Audiencia d
 
 Date: 2026-07-16
 
-### Y ahora, a por Begoña Gómez
-
-Los tribunales ya no son ese lugar donde se imparte justicia sino la plaza donde se libra la verdadera batalla política. Primero cayó el fiscal general, después el hermano de Pedro Sánchez y la próxima será la esposa. Aumenta tanto la sospecha sobre la coincidencia del calendario judicial y la existencia de un plan com.
-
-Date: 2026-07-16
-
 ## Fuentes
 
-- [La Audiencia Provincial respalda la decisión de Peinado y descarta que sea «contraria a derecho»](https://www.abc.es/espana/audiencia-provincial-respalda-decision-peinado-descarta-arbitraria-20260717015223-nt.html?utm_source=lootura.com) — 2026-07-17T01:10:18.000Z
+- [La condena de Urdangarín servirá para juzgar a Begoña Gómez por usar su «vínculo matrimonial» para dirigir la cátedra de la Complutense](https://www.eldebate.com/espana/20260717/precedente-supremo-servira-juzgar-begona-gomez-usar-vinculo-matrimonial-dirigir-catedra-complutense_440607.html?utm_source=lootura.com) — 2026-07-17T04:04:41.000Z
 - [Los 13 indicios de malversación con el 'software' de la Universidad Complutense que hunden a Begoña Gómez](https://www.elmundo.es/espana/2026/07/16/6a592f7721efa0437e8b4570.html?utm_source=lootura.com) — 2026-07-16T20:52:41.000Z
-- [La Audiencia de Madrid avala que la causa contra Begoña Gómez siga adelante por jurado por dos delitos](https://elpais.com/espana/2026-07-16/la-audiencia-de-madrid-avala-que-la-causa-contra-begona-gomez-siga-adelante-por-jurado-por-dos-delitos.html?utm_source=lootura.com) — 2026-07-16T15:21:22.000Z

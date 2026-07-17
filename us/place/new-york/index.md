@@ -3,10 +3,16 @@
 > Follow New York, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-17T02:27:10.364Z
+- Updated: 2026-07-17T06:13:09.528Z
 - Canonical: https://atlas.lootura.com/us/place/new-york
 
 ## Recent changes
+
+### ‘Everybody Watches’: TIME100 Sports Honorees on Red Carpet Celebrate Rise of Women’s Sports
+
+Eileen Gu on the TIME100 Sports Gala red carpet on July 16, 2026 in New York City. —Jemal Countess—Getty Images Multiple guests walking the red carpet at the inaugural TIME100 Sports Gala in New York City on July 16 applauded the rise of women’s sports. “Everybody watches women’s sports!” said Eileen Gu , the 2026 TIME.
+
+Date: 2026-07-17
 
 ### Watch Live: Jay Clayton, Trump
 
@@ -62,12 +68,6 @@ Skeleton judged to be one of the largest and most complete ever unearthed was ex
 
 Date: 2026-07-14
 
-### New York enacts nation
-
-Building new data centers in New York will be paused for a year in order to allow state officials to establish guidelines protecting residents and the environment, Gov. Kathy Hochul said.
-
-Date: 2026-07-14
-
 ## Sources
 
-- [Husband of Code Pink founder being investigated under federal agent and tax laws](https://www.cbsnews.com/news/husband-code-pink-founder-neville-roy-singham-investigation-tax-laws/?utm_source=lootura.com) — 2026-07-16T17:01:59.000Z
+- [‘Everybody Watches’: TIME100 Sports Honorees on Red Carpet Celebrate Rise of Women’s Sports](https://time.com/article/2026/07/17/time100-sports-gala-red-carpet-women-eileen-gu-hilary-knight-trinity-rodman/?utm_source=lootura.com) — 2026-07-17T06:00:09.000Z

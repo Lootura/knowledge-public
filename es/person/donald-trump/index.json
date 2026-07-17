@@ -8,13 +8,23 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/donald-trump/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/donald-trump/index.json",
   "description": "Sigue la actividad de Donald Trump en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-17T02:26:45.462Z",
+  "updatedAt": "2026-07-17T06:12:48.444Z",
   "aliases": [
     "President Donald Trump",
     "President Trump",
     "Trump"
   ],
   "changes": [
+    {
+      "title": "Trump resucita en un discurso a la nación el bulo del fraude electoral de 2020 y exagera la influencia de China en su derrota",
+      "summary": "Donald Trump, líder de un país en guerra y con el coste de la vida en alza, se dirigió este jueves por la noche a la nación para hablar de las elecciones... de hace seis años. No fue solo un intento de ajuste de cuentas con un fracaso personal; el presidente de Estados Unidos, cuya impopularidad bate récords, habló con.",
+      "date": "2026-07-17"
+    },
+    {
+      "title": "Trump anuncia una desclasificación que probaría injerencia electoral de China en EEUU",
+      "summary": "El presidente de Estados Unidos, Donald Trump, ha anunciado este jueves la desclasificación y publicación de información «crítica» de inteligencia que.",
+      "date": "2026-07-17"
+    },
     {
       "title": "Trump desclasifica documentos de la CIA que demuestran el fraude electoral del chavismo",
       "summary": "El presidente denuncia la vulnerabilidad de las máquinas de voto, acusa a China de robar datos de 220 millones de electores y exige al Congreso una ley con identificación y prueba de ciudadanía.",
@@ -36,6 +46,11 @@
       "date": "2026-07-17"
     },
     {
+      "title": "Trump despide a su operador de teleprompter, acusado de apostar ilegalmente en Kalshi sobre sus discursos",
+      "summary": "El presidente de Estados Unidos, Donald Trump, tiene un problema con sus discursos. Su técnico de teleprompter, la pantalla de visualización transparente sobre la que se proyectan textos, Gabriel Pérez, ha sido acusado de apostar ilegalmente en la plataforma de predicción Kalshi , la rival de Polymarket, sobre el conte.",
+      "date": "2026-07-16"
+    },
+    {
       "title": "Trump impone un arancel del 25% a Brasil por \"no negociar de buena fe\"",
       "summary": "El presidente de Estados Unidos, Donald Trump, acaba de iniciar un nuevo capítulo en su ya extenso historial de batallas comerciales. Su Administración ha anunciado la imposición de un arancel general del 25% sobre el grueso de importaciones procedentes de Brasil, país al que acusa de actuar \"con mala fe\" en las relaci.",
       "date": "2026-07-16"
@@ -49,60 +64,33 @@
       "title": "EE UU impone nuevos aranceles del 25% a gran parte de productos brasileños y acusa a Lula de no negociar “de buena fe”",
       "summary": "El Gobierno del presidente de Estados Unidos, Donald Trump, ha ordenado la imposición de un nuevo arancel del 25% sobre la mayor parte de productos brasileños importados desde este país, con fecha de aplicación a partir del 22 de julio. Es la conclusión de una investigación que acusaba a Brasil de competencia desleal.",
       "date": "2026-07-16"
-    },
-    {
-      "title": "El 'efecto Trump': China ya es más popular que Estados Unidos",
-      "summary": "Un año y medio después de su regreso a la Casa Blanca, Donald Trump ya ha logrado un vuelco planetario: por primera vez, China tiene una visión más favorable que Estados Unidos a nivel global . Así lo demuestra la última edición del estudio anual de opinión pública realizado por el Pew Research Center, publicada este j.",
-      "date": "2026-07-16"
-    },
-    {
-      "title": "Trump amenaza con atacar infraestructuras civiles si Irán no vuelve a negociar",
-      "summary": "Estados Unidos ha reimpuesto el bloqueo naval sobre los puertos iraníes y ha intensificado su campaña de bombardeos contra la república islámica, en una nueva escalada de ataques que amenaza con devolver a Oriente Próximo a una guerra abierta y que vuelve a situar el estrecho de Ormuz en el centro del enfrentamiento.La.",
-      "date": "2026-07-16"
-    },
-    {
-      "title": "Trump se enreda de nuevo en una guerra de Irán sin salida clara",
-      "summary": "En las jornadas posteriores al ataque conjunto de Israel y Estados Unidos contra Irán del pasado 28 de febrero, Donald Trump cambió al menos una docena de veces de argumentos para justificar una operación militar que evitó llamar por su nombre (“guerra”, palabra que aún se resiste a emplear). Sobre su duración también.",
-      "date": "2026-07-16"
     }
   ],
   "sources": [
     {
-      "title": "Trump desclasifica documentos de la CIA que demuestran el fraude electoral del chavismo",
-      "url": "https://www.abc.es/internacional/trump-desclasifica-documentos-cia-muestran-fraude-electoral-20260717034114-nt_amp.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-17T01:41:15.000Z",
-      "sourceId": "lootura-es-abc"
+      "title": "El ayudante de Trump encargado de su teleprónter ganó 90.000 dólares en apuestas sobre lo que iba a decir en sus discursos",
+      "url": "https://www.elmundo.es/internacional/2026/07/16/6a591d59e4d4d83b218b457b.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-16T19:06:08.000Z",
+      "sourceId": "lootura-es-el-mundo"
     },
     {
-      "title": "Trump resucita en un discurso a la nación el bulo del fraude electoral de 2020 y acusa a China de influir en su derrota",
+      "title": "Trump resucita en un discurso a la nación el bulo del fraude electoral de 2020 y exagera la influencia de China en su derrota",
       "url": "https://elpais.com/internacional/2026-07-17/trump-resucita-en-un-discurso-a-la-nacion-el-bulo-del-fraude-electoral-de-2020-y-acusa-a-china-de-influir-en-su-derrota.html?utm_source=lootura.com",
       "publishedAt": "2026-07-17T01:28:02.000Z",
       "sourceId": "lootura-es-el-pais"
     },
     {
-      "title": "Trump impone un arancel del 25% a Brasil por \"no negociar de buena fe\"",
-      "url": "https://www.expansion.com/economia/2026/07/16/6a592512468aeba63e8b4587.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-16T18:43:27.000Z",
-      "sourceId": "lootura-es-expansion"
+      "title": "Trump despide a su operador de teleprompter, acusado de apostar ilegalmente en Kalshi sobre sus discursos",
+      "url": "https://elpais.com/internacional/2026-07-16/trump-suspende-a-su-operador-de-teleprompter-acusado-de-apostar-ilegalmente-en-kalshi-sobre-sus-discursos.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-16T22:29:37.000Z",
+      "sourceId": "lootura-es-el-pais"
     },
     {
-      "title": "Trump anuncia la desclasificación de documentos sobre una supuesta injerencia electoral china en 2020",
-      "url": "https://www.larazon.es/internacional/trump-anuncia-desclasificacion-documentos-supuesta-injerencia-electoral-china-2020_202607176a598bc90500ab412c9a1bc3.html?outputType=amp&utm_source=lootura.com",
-      "publishedAt": "2026-07-17T01:56:25.000Z",
-      "sourceId": "lootura-es-la-razon"
-    },
-    {
-      "title": "Trump desclasifica informes de la CIA que «prueban que el sistema electoral ha sido manipulado» y acusa a China",
-      "url": "https://okdiario.com/internacional/trump-desclasifica-informes-cia-que-prueban-que-sistema-electoral-vulnerable-acusa-china-anuncia-medidas-antifraude-19013194?utm_source=lootura.com",
-      "publishedAt": "2026-07-17T01:52:08.000Z",
-      "sourceId": "lootura-es-ok-diario"
-    },
-    {
-      "title": "Un operador del teleprónter de Trump ganó casi 90.000 euros en apuestas sobre sus discursos",
-      "url": "https://theobjective.com/internacional/2026-07-16/operador-telepronter-trump-apuestas-discursos/?amp=&utm_source=lootura.com",
-      "publishedAt": "2026-07-16T20:22:55.000Z",
+      "title": "Trump anuncia una desclasificación que probaría injerencia electoral de China en EEUU",
+      "url": "https://theobjective.com/internacional/2026-07-17/trump-desclasificacion-injerencia-electoral-china-eeuu/?amp=&utm_source=lootura.com",
+      "publishedAt": "2026-07-17T05:41:49.000Z",
       "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 6
+  "evidenceCount": 3
 }

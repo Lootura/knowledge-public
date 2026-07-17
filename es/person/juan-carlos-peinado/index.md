@@ -64,5 +64,4 @@ Date: 2026-07-15
 
 ## Fuentes
 
-- [La Audiencia Provincial respalda la decisión de Peinado y descarta que sea «contraria a derecho»](https://www.abc.es/espana/audiencia-provincial-respalda-decision-peinado-descarta-arbitraria-20260717015223-nt.html?utm_source=lootura.com) — 2026-07-17T01:10:18.000Z
-- [La Audiencia de Madrid avala que la causa contra Begoña Gómez siga adelante por jurado por dos delitos](https://elpais.com/espana/2026-07-16/la-audiencia-de-madrid-avala-que-la-causa-contra-begona-gomez-siga-adelante-por-jurado-por-dos-delitos.html?utm_source=lootura.com) — 2026-07-16T15:21:22.000Z
+No public source links.

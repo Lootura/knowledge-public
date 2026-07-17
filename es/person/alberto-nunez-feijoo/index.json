@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/alberto-nunez-feijoo/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/alberto-nunez-feijoo/index.json",
   "description": "Sigue la actividad de Alberto Núñez Feijóo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-17T02:26:45.462Z",
+  "updatedAt": "2026-07-17T06:12:48.444Z",
   "aliases": [
     "Feijóo",
     "Núñez Feijóo"
   ],
   "changes": [
+    {
+      "title": "🎙 PODCAST | ¿Acabará Feijóo siendo presidente gracias a la amnistía?",
+      "summary": "Dijo que era terrorismo, golpe de Estado, delincuecia, corrupcion, que había que ilegalizarlos, que negociar era traicionar a la patria, secuestrar la democracia. Y ahora puede beneficiarse de lo que intentó boicotear Un tema Al día, ¡en el teatro! Ven a verlo en directo el 3 de octubre en Madrid. Consigue ya tus entra.",
+      "date": "2026-07-17"
+    },
     {
       "title": "Feijóo acata el aval a la amnistía entre reproches a Sánchez: «Mintió y vendió a los españoles»",
       "summary": "El presidente del Partido Popular, Alberto Núñez Feijóo , ha subrayado este miércoles en Las Palmas de Gran Canaria que un demócrata «respeta las sentencias, todas las sentencias y de todos los tribunales » y, además, «no ordena a sus ministros salir a señalar a jueces con nombres y apellidos». Núñez Feijóo ha hecho es.",
@@ -58,25 +63,14 @@
       "title": "Feijóo acusa a Sánchez de ser un «presidente autoritario» y de «agredir» la democracia",
       "summary": "El líder del PP , Alberto Núñez Feijóo , ha asegurado este miércoles que el jefe del Ejecutivo, Pedro Sánchez , es un «presidente autoritario» —aunque no lo ha citado expresamente en ningún momento— y ha advertido de que España sufre «la amenaza de una democracia debilitada» y «agredida». Además, ha avisado de que no p.",
       "date": "2026-07-15"
-    },
-    {
-      "title": "Ester Muñoz responde a Puente tras su polémico tuit insultando a Feijóo: \"No ha sido tajante, ha sido maleducado\"",
-      "summary": "Ester Muñoz ha respondido con firmeza a Óscar Puente tras el tuit que publicó insultando a Alberto Núñez Feijóo por sus palabras sobre la condena al hermano del presidente del Gobierno, David Sánchez. En una intervención en Al Rojo Vivo , la portavoz del PP ha asegurado que el ministro de Transportes no fue tajante, si.",
-      "date": "2026-07-15"
     }
   ],
   "sources": [
     {
-      "title": "Feijóo defiende que el PP tenía \"razón\" al denunciar falta de control en la ley de nietos tras la exigencia de la Junta Electoral",
-      "url": "https://www.20minutos.es/nacional/feijoo-defiende-que-pp-tenia-razon-denunciar-falta-control-ley-nietos-tras-exigencia-junta-electoral_7015673_0.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-16T22:32:19.000Z",
-      "sourceId": "lootura-es-20minutos"
-    },
-    {
-      "title": "Feijóo acata el aval a la amnistía entre reproches a Sánchez: «Mintió y vendió a los españoles»",
-      "url": "https://theobjective.com/espana/politica/2026-07-16/feijoo-amnistia-sanchez-mintio-vendio-espanoles/?utm_source=lootura.com",
-      "publishedAt": "2026-07-16T19:44:14.000Z",
-      "sourceId": "lootura-es-the-objective"
+      "title": "🎙 PODCAST | ¿Acabará Feijóo siendo presidente gracias a la amnistía?",
+      "url": "https://www.eldiario.es/blog/al-dia/podcast-acabara-feijoo-siendo-presidente-gracias-amnistia_132_13386027.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-17T06:30:00.000Z",
+      "sourceId": "lootura-es-eldiario-es"
     }
   ],
   "evidenceCount": 1

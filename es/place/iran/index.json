@@ -8,9 +8,24 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/iran/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/iran/index.json",
   "description": "Sigue la actividad de Iran en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-16T20:54:41.819Z",
+  "updatedAt": "2026-07-17T06:12:48.444Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "Los economistas prevén que los alimentos suban hasta un 9 % en 2027 por la guerra en Irán y el clima extremo",
+      "summary": "El encarecimiento de las materias primas por la guerra en Irán y el actual episodio de fenómenos meteorológicos extremos impulsarán el precio de los alimentos el año que viene , si bien es el segundo de estos dos factores el que más preocupa a los economistas. Tanto las previsiones del Banco Central Europeo (BCE) como.",
+      "date": "2026-07-17"
+    },
+    {
+      "title": "Fragilidad en las Bolsas por la ola de ventas en tecnología y las tensiones con Irán",
+      "summary": "Los precios del petróleo retoman las subidas a medida que se intensifican las hostilidades en Oriente Próximo y el tráfico marítimo se reduce drásticamente en el estrecho de Ormuz. La materia prima suma hoy casi un 1% hasta los 85 dólares el barril y acumula un alza del 12% durante la semana, lo que reaviva los temores.",
+      "date": "2026-07-17"
+    },
+    {
+      "title": "El mercado se abona a la incertidumbre: las Bolsas borran el alto al fuego de Trump",
+      "summary": "Nadie dijo que fuera a ser fácil. El memorándum de Islamabad nació como un intento de ganar tiempo más que como una solución definitiva. El acuerdo frenó las hostilidades entre Estados Unidos e Irán y abrió una ventana de negociación de 60 días que los mercados interpretaron como el principio del fin de la crisis. Un m.",
+      "date": "2026-07-17"
+    },
     {
       "title": "El Ibex salva la sesión con un alza del 0,15% que le lleva a superar los 19.300 puntos",
       "summary": "Los mercados siguen encontrando obstáculos que atenazan sus subidas. La nueva espiral de ataques de EEUU sobre Irán y la subida de tipos en Corea mantienen en guardia a los inversores. El Ibex, con movimientos estrechos durante toda la semana, vuelve a consolidar niveles en el día del estreno en Bolsa de Digi.",
@@ -45,23 +60,27 @@
       "title": "Trump amenaza con atacar infraestructuras civiles si Irán no vuelve a negociar",
       "summary": "Estados Unidos ha reimpuesto el bloqueo naval sobre los puertos iraníes y ha intensificado su campaña de bombardeos contra la república islámica, en una nueva escalada de ataques que amenaza con devolver a Oriente Próximo a una guerra abierta y que vuelve a situar el estrecho de Ormuz en el centro del enfrentamiento.La.",
       "date": "2026-07-15"
-    },
-    {
-      "title": "Trump estrecha el cerco sobre Cuba con sanciones, bloqueo y amenaza militar",
-      "summary": "Sin grandes anuncios ni gestos solemnes, Donald Trump ha situado a Cuba en el centro de su estrategia de presión máxima en el continente americano. Después de concentrar durante meses su atención en Venezuela e Irán, la Casa Blanca investiga ahora si la isla almacena drones iraníes, y el propio presidente ha advertido.",
-      "date": "2026-07-15"
-    },
-    {
-      "title": "Los fabricantes de drones derrotan en Bolsa a las grandes firmas de defensa tradicional",
-      "summary": "Moscú y varias ciudades de Kuwait, Baréin y Omán han amanecido esta semana con el sonido de las bombas. Fueron los disparos de drones de Ucrania e Irán en medio de las dos guerras con mayor impacto económico de las últimas décadas. Mientras estas máquinas autónomas sobrevuelan hoy los lugares más peligrosos del planeta.",
-      "date": "2026-07-15"
-    },
-    {
-      "title": "EEUU restablece el bloqueo naval a Irán y lanza una nueva ola de bombardeos",
-      "summary": "Las Fuerzas Armadas estadounidenses reimpusieron este martes el bloqueo naval a Irán en el estrecho de Ormuz , además de lanzar una nueva ola de bombardeos, según anunció el Comando Central del Ejército de Estados Unidos (Centcom). El organismo, con sede en Florida, expuso en un comunicado que el Ejército estadounidens.",
-      "date": "2026-07-14"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Los economistas prevén que los alimentos suban hasta un 9 % en 2027 por la guerra en Irán y el clima extremo",
+      "url": "https://www.20minutos.es/lainformacion/economia-y-finanzas/los-economistas-preven-subidas-los-precios-los-alimentos-hasta-9-2027-por-guerra-clima-extremo_7015625_0.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-17T03:00:00.000Z",
+      "sourceId": "lootura-es-20minutos"
+    },
+    {
+      "title": "Fragilidad en las Bolsas por la ola de ventas en tecnología y las tensiones con Irán",
+      "url": "https://cincodias.elpais.com/mercados-financieros/2026-07-17/la-bolsa-y-el-ibex-35.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-17T04:32:39.000Z",
+      "sourceId": "lootura-es-cinco-dias"
+    },
+    {
+      "title": "El mercado se abona a la incertidumbre: las Bolsas borran el alto al fuego de Trump",
+      "url": "https://cincodias.elpais.com/mercados-financieros/2026-07-17/el-mercado-se-abona-a-la-incertidumbre-las-bolsas-borran-el-alto-al-fuego-de-trump.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-17T03:25:00.000Z",
+      "sourceId": "lootura-es-cinco-dias"
+    }
+  ],
+  "evidenceCount": 3
 }

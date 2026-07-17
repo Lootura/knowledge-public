@@ -1,0 +1,74 @@
+{
+  "id": "es-reino-unido",
+  "name": "Reino Unido",
+  "type": "organization",
+  "locale": "es",
+  "canonicalPath": "/es/organization/reino-unido",
+  "canonicalUrl": "https://atlas.lootura.com/es/organization/reino-unido",
+  "markdownUrl": "https://atlas.lootura.com/es/organization/reino-unido/index.md",
+  "jsonUrl": "https://atlas.lootura.com/es/organization/reino-unido/index.json",
+  "description": "Sigue la actividad de Reino Unido en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
+  "updatedAt": "2026-07-17T06:12:48.444Z",
+  "aliases": [],
+  "changes": [
+    {
+      "title": "Gibraltar avisa de que los taxis españoles seguirán sin prestar servicio en el Peñón",
+      "summary": "Gibraltar ha avisado de que los taxis españoles seguirán sin prestar servicio en el Peñón, tras la desaparición de la Verja con el tratado entre la UE y el Reino Unido, y ha anunciado la presencia de inspectores de Transporte en la frontera para vigilar el cumplimiento de la normativa. Según ha informado el Gobierno de.",
+      "date": "2026-07-16"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Reino Unido first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-07-15"
+    },
+    {
+      "title": "Begoña Gómez entrega al juez Peinado los billetes de su viaje a Londres para la graduación de su hija",
+      "summary": "Begoña Gómez ha entregado al juzgado los billetes de avión de su viaje a Londres de la pasada semana y ha presentado un recurso contra la iniciativa del magistrado Juan Carlos Peinado de reclamarle que “acredite” que solo usó el pasaporte para acudir a Reino Unido a la graduación de su hija. En su escrito de alegacione.",
+      "date": "2026-07-15"
+    },
+    {
+      "title": "Pedro Sánchez, tras la retirada de la Verja de Gibraltar, que ya es historia: \"Los conflictos no están para gestionarlos sino para resolverlos\"",
+      "summary": "El presidente del Gobierno asiste al acto simbólico de la eliminación de la frontera física junto al ministro principal del Peñón, el embajador del Reino Unido y los alcaldes de la comarca Leer.",
+      "date": "2026-07-15"
+    },
+    {
+      "title": "Begoña Gómez entrega al juez sus billetes de avión al Reino Unido y critica a Peinado por formular una exigencia \"materialmente imposible\"",
+      "summary": "Denuncia que el requerimiento es contrario a la presunción de inocencia y subraya que Reino Unido ha sustituido los sellos físicos por un sistema digital Leer.",
+      "date": "2026-07-15"
+    },
+    {
+      "title": "Begoña Gómez entrega los billetes de avión y reprocha a Peinado que le exija unos sellos de pasaporte que Reino Unido no estampa",
+      "summary": "La defensa de la mujer del presidente advierte al juez de que le está exigiendo una “prueba diabólica”, que no existe, y critica que sea la investigada quien deba demostrar el viaje y no al revés, así que insta a Peinado a que se diriga a Reino Unido, único actor que puede acreditar la estancia El juez Peinado exige a.",
+      "date": "2026-07-15"
+    },
+    {
+      "title": "El PP califica de «fraude» la aplicación provisional del acuerdo sobre Gibraltar",
+      "summary": "El Partido Popular ha calificado de «fraude» la entrada en vigor del Tratado entre la Unión Europea y Reino Unido sobre Gibraltar , por el que ha entrado en vigor un sistema «sin ningún tipo de aprobación parlamentaria» y tampoco la del Parlamento Europeo. Así lo ha afirmado en un comunicado el partido liderado por Alb.",
+      "date": "2026-07-15"
+    },
+    {
+      "title": "Pedro Sánchez Preside el acto de demolición de la Verja de Gibraltar",
+      "summary": "Preside el acto de demolición de la Verja de la Línea de la Concepción (Cádiz), con motivo de la entrada en vigor del Acuerdo entre la Unión Europea y el Reino Unido sobre Gibraltar.",
+      "date": "2026-07-15"
+    },
+    {
+      "title": "Los agujeros negros del nuevo tratado de Gibraltar: dudas políticas, jurídicas, fiscales y territoriales",
+      "summary": "Los firmantes del Tratado de Gibraltar ponen el acento en su principal virtud, la desaparición de la Verja y, como consecuencia, el tránsito libre de trabajadores. Sin embargo, el acuerdo sellado entre la Comisión Europea, Reino Unido y Gibraltar - el último fleco del Brexit - arroja una serie de dudas jurídicas, polít.",
+      "date": "2026-07-15"
+    },
+    {
+      "title": "Gibraltar: cae la Verja, sigue el contencioso",
+      "summary": "En la firma ayer en Bruselas del Tratado de Gibraltar después de más de cinco años de arduas negociaciones se escucharon el tipo de declaración que se deja para las grandes ocasiones. La Unión Europea y Reino Unido ponían fin al único gran escollo que aún pendía sobre sus cabezas tras el Brexit y España y Gibraltar ina.",
+      "date": "2026-07-15"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Las Islas Malvinas, dos siglos de disputa entre Argentina y Reino Unido y una guerra en 1982",
+      "url": "https://www.20minutos.es/internacional/las-malvinas-las-islas-que-enfrentan-argentina-reino-unido-desde-hace-dos-siglos-que-llevaron-una-guerra-1982_7015380_0.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-17T03:00:00.000Z",
+      "sourceId": "lootura-es-20minutos"
+    }
+  ],
+  "evidenceCount": 1
+}

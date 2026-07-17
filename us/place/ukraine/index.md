@@ -3,20 +3,26 @@
 > Follow Ukraine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-17T02:27:10.364Z
+- Updated: 2026-07-17T06:13:09.528Z
 - Canonical: https://atlas.lootura.com/us/place/ukraine
 
 ## Recent changes
 
-### Ukrainians protest Zelenskyy's ouster of his popular defense minister
+### He Was a Russian Political Survivor, Until the Masked Men Appeared
 
-President Volodymyr Zelenskyy shook up his wartime government, drawing thousands into the streets Thursday across Ukraine to protest the ouster of his youthful defense minister — seen as an innovator of the country's successful drone technology but who clashed with the traditional military establishment.
+Boris B. Nadezhdin, an outspoken opponent of the war in Ukraine, says he knows why he was detained: “Among our leadership, there is panic and chaos.”.
 
-Date: 2026-07-16
+Date: 2026-07-17
 
 ### Ukraine Was on a Roll. Then a Clash Over War Strategy Exploded Into View.
 
 From an underground parking garage, Ukraine’s newly dismissed defense minister aired the most dramatic, public critique of the military command to emerge during the war.
+
+Date: 2026-07-16
+
+### Ukrainians protest Zelenskyy's ouster of his popular defense minister
+
+President Volodymyr Zelenskyy shook up his wartime government, drawing thousands into the streets Thursday across Ukraine to protest the ouster of his youthful defense minister — seen as an innovator of the country's successful drone technology but who clashed with the traditional military establishment.
 
 Date: 2026-07-16
 
@@ -62,13 +68,7 @@ Mykhailo Fedorov announced he was leaving the ministry on Wednesday after confli
 
 Date: 2026-07-16
 
-### Ukrainians protest over Zelenskyy's move to oust popular defense chief
-
-Ukrainians are demonstrating in Kyiv and senior figures announcing their resignations over President Volodymyr Zelenksyy's move to oust his popular defense chief.
-
-Date: 2026-07-16
-
 ## Sources
 
-- [Ukrainians protest Zelenskyy's ouster of his popular defense minister](https://www.pbs.org/newshour/world/ukrainians-protest-zelenskyys-ouster-of-his-popular-defense-minister?utm_source=lootura.com) — 2026-07-16T17:21:53.000Z
 - [Ukraine Was on a Roll. Then a Clash Over War Strategy Exploded Into View.](https://www.nytimes.com/2026/07/16/world/europe/ukraine-military-defense-minister-drones.html?utm_source=lootura.com) — 2026-07-16T22:01:29.000Z
+- [He Was a Russian Political Survivor, Until the Masked Men Appeared](https://www.nytimes.com/2026/07/17/world/europe/russia-politics-election-nadezhdin.html?utm_source=lootura.com) — 2026-07-17T04:01:08.000Z

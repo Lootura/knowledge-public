@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/maine/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/maine/index.json",
   "description": "Follow Maine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-17T02:27:10.364Z",
+  "updatedAt": "2026-07-17T06:13:09.528Z",
   "aliases": [],
   "changes": [
     {
@@ -76,17 +76,11 @@
       "sourceId": "lootura-us-nbc-news"
     },
     {
-      "title": "The use of force has become a 'default tool' for ICE officers, a new report finds",
-      "url": "https://www.npr.org/2026/07/16/nx-s1-5891834/ice-use-of-force-aclu-report?utm_source=lootura.com",
-      "publishedAt": "2026-07-16T09:00:00.000Z",
-      "sourceId": "lootura-us-npr"
-    },
-    {
       "title": "5 Takeaways From a Maine Debate That Showed Replacing Platner Isn’t Easy",
       "url": "https://www.nytimes.com/2026/07/16/us/politics/maine-senate-debate-takeaways.html?utm_source=lootura.com",
       "publishedAt": "2026-07-17T02:07:46.000Z",
       "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 2
 }

@@ -3,10 +3,28 @@
 > Sigue la actividad de Estados Unidos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-17T02:26:45.462Z
+- Actualizado: 2026-07-17T06:12:48.444Z
 - Canonical: https://atlas.lootura.com/es/place/united-states
 
 ## Cambios recientes
+
+### El mercado se abona a la incertidumbre: las Bolsas borran el alto al fuego de Trump
+
+Nadie dijo que fuera a ser fácil. El memorándum de Islamabad nació como un intento de ganar tiempo más que como una solución definitiva. El acuerdo frenó las hostilidades entre Estados Unidos e Irán y abrió una ventana de negociación de 60 días que los mercados interpretaron como el principio del fin de la crisis. Un m.
+
+Date: 2026-07-17
+
+### Trump resucita en un discurso a la nación el bulo del fraude electoral de 2020 y exagera la influencia de China en su derrota
+
+Donald Trump, líder de un país en guerra y con el coste de la vida en alza, se dirigió este jueves por la noche a la nación para hablar de las elecciones... de hace seis años. No fue solo un intento de ajuste de cuentas con un fracaso personal; el presidente de Estados Unidos, cuya impopularidad bate récords, habló con.
+
+Date: 2026-07-17
+
+### Trump anuncia una desclasificación que probaría injerencia electoral de China en EEUU
+
+El presidente de Estados Unidos, Donald Trump, ha anunciado este jueves la desclasificación y publicación de información «crítica» de inteligencia que.
+
+Date: 2026-07-17
 
 ### La ley del «Bebé Moisés»: en Nebraska se permitía abandonar a niños en hospitales
 
@@ -19,6 +37,12 @@ Date: 2026-07-17
 Donald Trump, líder de un país en guerra y con el coste de la vida en alza, se dirigió este jueves por la noche a la nación para hablar de las elecciones... de hace seis años. No fue solo un intento de ajuste de cuentas con un fracaso personal; el presidente de Estados Unidos, cuya impopularidad bate récords, habló con.
 
 Date: 2026-07-17
+
+### Trump despide a su operador de teleprompter, acusado de apostar ilegalmente en Kalshi sobre sus discursos
+
+El presidente de Estados Unidos, Donald Trump, tiene un problema con sus discursos. Su técnico de teleprompter, la pantalla de visualización transparente sobre la que se proyectan textos, Gabriel Pérez, ha sido acusado de apostar ilegalmente en la plataforma de predicción Kalshi , la rival de Polymarket, sobre el conte.
+
+Date: 2026-07-16
 
 ### Trump impone un arancel del 25% a Brasil por "no negociar de buena fe"
 
@@ -44,32 +68,10 @@ Un estudio internacional con participación de la Facultad de Veterinaria de la 
 
 Date: 2026-07-16
 
-### La OTAN se plantea cómo defender Europa oriental ante la retirada de Estados Unidos
-
-Esas extrañas criaturas emergen del bosque con estruendo, con el cuerpo cubierto de musgo, tela rasgada y hierba de plástico, y la cabeza velada por mallas negras. Los tanques Leopard y los vehículos de combate de infantería Puma de la 45.ª Brigada Panzer alemana llevan un camuflaje especial para ocultarse de los drone.
-
-Date: 2026-07-16
-
-### El 'efecto Trump': China ya es más popular que Estados Unidos
-
-Un año y medio después de su regreso a la Casa Blanca, Donald Trump ya ha logrado un vuelco planetario: por primera vez, China tiene una visión más favorable que Estados Unidos a nivel global . Así lo demuestra la última edición del estudio anual de opinión pública realizado por el Pew Research Center, publicada este j.
-
-Date: 2026-07-16
-
-### Uber lanza una oferta por el 100% de Delivery Hero, que vende el negocio de Glovo en España a un fondo de Estados Unidos
-
-Uber inicia oficialmente el proceso para hacerse con el 100% de las acciones de Delivery Hero, el grupo alemán de reparto de comida a domicilio propietario de la española Glovo. La compañía estadounidense, que ya opera en este sector bajo la enseña Uber Eats, ha lanzado formalmente una oferta pública de adquisición de.
-
-Date: 2026-07-16
-
-### Lula da Silva activa la ley de reciprocidad contra los aranceles de EEUU y culpa a los Bolsonaro: "Son falsos patriotas"
-
-El Gobierno de Brasil anunció este jueves que iniciará "inmediatamente" los trámites para aplicar la ley de reciprocidad en respuesta a los aranceles del 25% decretados por Estados Unidos a ciertos productos brasileños y culpó de ello a la familia del expresidente Jair Bolsonaro, informa la agencia Efe. "El 15 de julio.
-
-Date: 2026-07-16
-
 ## Fuentes
 
-- [La ley del «Bebé Moisés»: en Nebraska se permitía abandonar a niños en hospitales](https://www.abc.es/play/cine/ley-bebe-moises-nebraska-permitia-abandonar-ninos-20260717013407-nt.html?utm_source=lootura.com) — 2026-07-17T01:00:41.000Z
-- [Trump resucita en un discurso a la nación el bulo del fraude electoral de 2020 y acusa a China de influir en su derrota](https://elpais.com/internacional/2026-07-17/trump-resucita-en-un-discurso-a-la-nacion-el-bulo-del-fraude-electoral-de-2020-y-acusa-a-china-de-influir-en-su-derrota.html?utm_source=lootura.com) — 2026-07-17T01:28:02.000Z
-- [Trump impone un arancel del 25% a Brasil por "no negociar de buena fe"](https://www.expansion.com/economia/2026/07/16/6a592512468aeba63e8b4587.html?utm_source=lootura.com) — 2026-07-16T18:43:27.000Z
+- [Temor en España por la final: el duro juego argentino y el arbitraje preocupan a los fans](https://www.20minutos.es/deportes/futbol/temor-espana-por-final-mundial-duro-juego-argentino-arbitraje-preocupan-los-aficionados_7015570_0.html?utm_source=lootura.com) — 2026-07-17T05:10:18.000Z
+- [El mercado se abona a la incertidumbre: las Bolsas borran el alto al fuego de Trump](https://cincodias.elpais.com/mercados-financieros/2026-07-17/el-mercado-se-abona-a-la-incertidumbre-las-bolsas-borran-el-alto-al-fuego-de-trump.html?utm_source=lootura.com) — 2026-07-17T03:25:00.000Z
+- [Trump resucita en un discurso a la nación el bulo del fraude electoral de 2020 y exagera la influencia de China en su derrota](https://elpais.com/internacional/2026-07-17/trump-resucita-en-un-discurso-a-la-nacion-el-bulo-del-fraude-electoral-de-2020-y-acusa-a-china-de-influir-en-su-derrota.html?utm_source=lootura.com) — 2026-07-17T01:28:02.000Z
+- [Trump despide a su operador de teleprompter, acusado de apostar ilegalmente en Kalshi sobre sus discursos](https://elpais.com/internacional/2026-07-16/trump-suspende-a-su-operador-de-teleprompter-acusado-de-apostar-ilegalmente-en-kalshi-sobre-sus-discursos.html?utm_source=lootura.com) — 2026-07-16T22:29:37.000Z
+- [Trump anuncia una desclasificación que probaría injerencia electoral de China en EEUU](https://theobjective.com/internacional/2026-07-17/trump-desclasificacion-injerencia-electoral-china-eeuu/?amp=&utm_source=lootura.com) — 2026-07-17T05:41:49.000Z
