@@ -1,15 +1,15 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-17T02:31:37.677Z",
+  "generatedAt": "2026-07-17T04:41:40.826Z",
   "radar": {
     "id": "es",
     "slug": "es",
     "locale": "es"
   },
   "state": {
-    "signature": "1.16.0|8|1784255205462",
+    "signature": "1.16.0|9|1784255205462",
     "version": "1.16.0",
-    "build": 8,
+    "build": 9,
     "latestEntityUpdatedAt": "2026-07-17T02:26:45.462Z"
   },
   "atlas": {
@@ -21,7 +21,7 @@
       "url": "https://atlas.lootura.com/es/place/madrid",
       "path": "/es/place/madrid",
       "updatedAt": "2026-07-17T02:26:45.462Z",
-      "score": 1579,
+      "score": 1567,
       "sourceCount": 163,
       "isBreaking": false,
       "isPinned": false
@@ -35,7 +35,7 @@
         "url": "https://atlas.lootura.com/es/place/china",
         "path": "/es/place/china",
         "updatedAt": "2026-07-17T02:26:45.462Z",
-        "score": 1577,
+        "score": 1565,
         "sourceCount": 29,
         "isBreaking": false,
         "isPinned": false
@@ -48,7 +48,7 @@
         "url": "https://atlas.lootura.com/es/person/donald-trump",
         "path": "/es/person/donald-trump",
         "updatedAt": "2026-07-17T02:26:45.462Z",
-        "score": 1577,
+        "score": 1565,
         "sourceCount": 104,
         "isBreaking": false,
         "isPinned": false
@@ -61,7 +61,7 @@
         "url": "https://atlas.lootura.com/es/person/begona-gomez",
         "path": "/es/person/begona-gomez",
         "updatedAt": "2026-07-17T02:26:45.462Z",
-        "score": 1571,
+        "score": 1559,
         "sourceCount": 25,
         "isBreaking": false,
         "isPinned": false
@@ -74,7 +74,7 @@
         "url": "https://atlas.lootura.com/es/person/pedro-sanchez",
         "path": "/es/person/pedro-sanchez",
         "updatedAt": "2026-07-17T02:26:45.462Z",
-        "score": 1540,
+        "score": 1528,
         "sourceCount": 153,
         "isBreaking": false,
         "isPinned": false
