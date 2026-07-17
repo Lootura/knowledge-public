@@ -3,20 +3,32 @@
 > Sigue la actividad de Estados Unidos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-17T17:09:01.091Z
+- Actualizado: 2026-07-17T20:51:38.016Z
 - Canonical: https://atlas.lootura.com/es/place/united-states
 
 ## Cambios recientes
 
-### Un emulador y una demo del ordenador de bolsillo + calculadora científica Casio FX-870P
-
-Los ordenadores de bolsillo fueron durante años una herramienta muy popular entre estudiantes e ingenieros japoneses, aunque en Europa y Estados Unidos nunca llegaron a despegar; quizá por eso no haya tanta documentación como de otros gadgets. Ahora un proyecto de esos creados artesanalmente, por amor al arte , permite.
-
-Date: 2026-07-17
-
 ### China exige a Trump que aparque el «invento» de la presunta injerencia electoral en 2020
 
 China ha rechazado por completo las acusaciones formuladas por el presidente de Estados Unidos , Donald Trump , quien, esta pasada noche y en un discurso ante la nación, denunció que las autoridades de Pekín se habían inmiscuido en el desarrollo de las elecciones de 2020 . Trump y el Gobierno de Estados Unidos acusaron.
+
+Date: 2026-07-17
+
+### Trump amenaza a Canadá con más aranceles tras acusarles de "negligencia" por los incendios
+
+El presidente de Estados Unidos, Donald Trump, amenazó este viernes con aumentar los aranceles a Canadá tras acusar a las autoridades de su vecino del norte de negligencia por los incendios que asolan el país y han deteriorado la calidad del aire en ciudades estadounidenses. "Se trata de una negligencia deliberada que.
+
+Date: 2026-07-17
+
+### EEUU destruye una torre de vigilancia que Irán usaba para atacar buques en Ormuz
+
+El Ejército estadounidense destruyó una torre de vigilancia que Irán usaba para atacar a los buques comerciales en el estrecho de Ormuz , lo que permitirá «proteger» la navegación en la vía marítima, afirmó este viernes el Comando Central de Estados Unidos (Centcom). «Las fuerzas de EE. UU. destruyeron con éxito la tor.
+
+Date: 2026-07-17
+
+### Un emulador y una demo del ordenador de bolsillo + calculadora científica Casio FX-870P
+
+Los ordenadores de bolsillo fueron durante años una herramienta muy popular entre estudiantes e ingenieros japoneses, aunque en Europa y Estados Unidos nunca llegaron a despegar; quizá por eso no haya tanta documentación como de otros gadgets. Ahora un proyecto de esos creados artesanalmente, por amor al arte , permite.
 
 Date: 2026-07-17
 
@@ -56,20 +68,8 @@ Donald Trump, líder de un país en guerra y con el coste de la vida en alza, se
 
 Date: 2026-07-17
 
-### Trump despide a su operador de teleprompter, acusado de apostar ilegalmente en Kalshi sobre sus discursos
-
-El presidente de Estados Unidos, Donald Trump, tiene un problema con sus discursos. Su técnico de teleprompter, la pantalla de visualización transparente sobre la que se proyectan textos, Gabriel Pérez, ha sido acusado de apostar ilegalmente en la plataforma de predicción Kalshi , la rival de Polymarket, sobre el conte.
-
-Date: 2026-07-16
-
-### Trump impone un arancel del 25% a Brasil por "no negociar de buena fe"
-
-El presidente de Estados Unidos, Donald Trump, acaba de iniciar un nuevo capítulo en su ya extenso historial de batallas comerciales. Su Administración ha anunciado la imposición de un arancel general del 25% sobre el grueso de importaciones procedentes de Brasil, país al que acusa de actuar "con mala fe" en las relaci.
-
-Date: 2026-07-16
-
 ## Fuentes
 
-- [Cubarsí borra la huella de Maldini y ya aspira a ser el mejor joven del Mundial](https://elpais.com/deportes/mundial-futbol/2026-07-17/cubarsi-borra-la-huella-de-maldini-y-ya-aspira-a-ser-el-mejor-joven-del-mundial.html?utm_source=lootura.com) — 2026-07-17T03:30:01.000Z
-- [Un emulador y una demo del ordenador de bolsillo + calculadora científica Casio FX-870P](http://www.microsiervos.com/archivo/gadgets/emulador-ordenador-bolsillo-calculadora-cientifica-casio-fx-870p.html?utm_source=lootura.com) — 2026-07-17T10:38:56.000Z
+- [Trump amenaza a Canadá con más aranceles tras acusarles de "negligencia" por los incendios](https://www.larazon.es/internacional/trump-amenaza-canada-mas-aranceles-acusarles-negligencia-incendios_202607176a5a90740500ab412c9bb86a.html?utm_source=lootura.com) — 2026-07-17T20:28:36.000Z
+- [EEUU destruye una torre de vigilancia que Irán usaba para atacar buques en Ormuz](https://theobjective.com/internacional/2026-07-17/eeuu-torre-vigilancia-iran-buques-ormuz/?utm_source=lootura.com) — 2026-07-17T19:22:42.000Z
 - [China exige a Trump que aparque el «invento» de la presunta injerencia electoral en 2020](https://theobjective.com/internacional/2026-07-17/china-trump-invento-injerencia-electoral/?utm_source=lootura.com) — 2026-07-17T16:30:35.000Z

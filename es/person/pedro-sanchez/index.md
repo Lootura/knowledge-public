@@ -3,7 +3,7 @@
 > Sigue la actividad de Pedro Sánchez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-17T17:09:01.091Z
+- Actualizado: 2026-07-17T20:51:38.016Z
 - Canonical: https://atlas.lootura.com/es/person/pedro-sanchez
 
 ## Cambios recientes
@@ -70,7 +70,6 @@ Date: 2026-07-17
 
 ## Fuentes
 
-- [La UCO dice que los ingresos de Cerdán se dispararon en la «etapa ministerial» de Ábalos y tras su ascenso en el PSOE](https://www.abc.es/espana/uco-dice-ingresos-cerdan-dispararon-etapa-ministerial-20260717141532-nt.html?utm_source=lootura.com) — 2026-07-17T16:40:39.000Z
+- [La UCO dice que los ingresos de Cerdán se dispararon en la «etapa ministerial» de Ábalos y tras su ascenso en el PSOE](https://www.abc.es/espana/uco-dice-ingresos-cerdan-dispararon-etapa-ministerial-20260717141532-nt.html?utm_source=lootura.com) — 2026-07-17T18:24:28.000Z
 - [El primer documental sobre Ángela Figuera busca fondos para completar la producción](https://www.elcorreo.com/culturas/cine/primer-documental-sobre-angela-figuera-busca-fondos-20260716174814-nt_amp.html?utm_source=lootura.com) — 2026-07-16T22:59:05.000Z
 - [La Comisión Europea ve “avances limitados” en el plan anticorrupción de Sánchez y reclama más reformas](https://elpais.com/espana/2026-07-17/la-comision-europea-ve-avances-limitados-en-el-plan-anticorrupcion-de-sanchez-y-reclama-mas-reformas.html?utm_source=lootura.com) — 2026-07-17T11:27:24.000Z
-- [Bruselas desmiente el victimismo de Sánchez: no hay reformas y sí hay corruptos](https://www.larazon.es/espana/bruselas-desmiente-victimismo-sanchez-hay-reformas-hay-corruptos_202607176a5a5dd4e9f2e84b5c6e6b1b.html?utm_source=lootura.com) — 2026-07-17T16:52:36.000Z

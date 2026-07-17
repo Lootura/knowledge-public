@@ -3,20 +3,26 @@
 > Sigue la actividad de Barcelona en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-17T17:09:01.091Z
+- Actualizado: 2026-07-17T20:51:38.016Z
 - Canonical: https://atlas.lootura.com/es/place/barcelona
 
 ## Cambios recientes
 
-### Ubisoft celebra el éxito del nuevo videojuego de 'Assasin's Creed' y deja fuera a 51 de sus creadores en Barcelona
-
-Quienes trabajaron en Ubisoft Barcelona durante los últimos tres años comparten un mismo recuerdo: una convocatoria inesperada, un correo enviado con urgencia y una sala llena de empleados que sospechaban que algo no iba bien antes de que nadie pronunciara una palabra. El 10 de junio, la dirección reunió a la plantilla.
-
-Date: 2026-07-17
-
 ### Gil Marín, contundente con el ‘caso Julián’: «No aceptamos la oferta de 100 millones ni de 200»
 
 El consejero delegado del Atlético de Madrid , Miguel Ángel Gil Marín, aseguró que el club no quiere «transferir» al delantero argentino Julián Álvarez y defendió que su respuesta al interés del FC Barcelona «sí es infinita», porque no aceptan «la oferta de 100 millones de euros ni una de 200». «La opinión es clara, la.
+
+Date: 2026-07-17
+
+### El Barcelona disputará un triangular de amistosos el 8 de agosto en Italia
+
+El Barcelona sigue ampliando su lista de amistosos para la pretemporada 26/27 que desde el pasado lunes ya está en marcha en la Ciudad Deportiva Joan Gamper. El equipo blaugrana disputará dos amistosos en Italia el próximo 8 de agosto en un triangular ante Udinese y Nottingham Forest . Lo hará tras su stage en Reino Un.
+
+Date: 2026-07-17
+
+### Ubisoft celebra el éxito del nuevo videojuego de 'Assasin's Creed' y deja fuera a 51 de sus creadores en Barcelona
+
+Quienes trabajaron en Ubisoft Barcelona durante los últimos tres años comparten un mismo recuerdo: una convocatoria inesperada, un correo enviado con urgencia y una sala llena de empleados que sospechaban que algo no iba bien antes de que nadie pronunciara una palabra. El 10 de junio, la dirección reunió a la plantilla.
 
 Date: 2026-07-17
 
@@ -62,13 +68,7 @@ El centro de Barcelona empieza a vestirse ya de los colores del arcoíris para c
 
 Date: 2026-07-14
 
-### El teatro de Barcelona que convierte en socios a Aitana y el Mago Pop
-
-No suele ser habitual que dos estrellas de la magnitud de Aitana y Antonio Díaz, más conocido como El Mago Pop, unan fuerzas más allá del escenario para embarcarse en una aventura empresarial. Pero así ha sido con la adquisición del Teatre Aquitània de Barcelona , un espacio con historia que intenta renacer, por enésim.
-
-Date: 2026-07-14
-
 ## Fuentes
 
-- [Ubisoft celebra el éxito del nuevo videojuego de 'Assasin's Creed' y deja fuera a 51 de sus creadores en Barcelona](https://www.abc.es/cultura/ubisoft-celebra-exito-assassins-creed-black-flag-20260717161306-nt.html?utm_source=lootura.com) — 2026-07-17T16:34:43.000Z
+- [El Barcelona disputará un triangular de amistosos el 8 de agosto en Italia](https://okdiario.com/deportes/barcelona-disputara-triangular-amistosos-8-agosto-italia-19020491?utm_source=lootura.com) — 2026-07-17T19:25:52.000Z
 - [Gil Marín, contundente con el ‘caso Julián’: «No aceptamos la oferta de 100 millones ni de 200»](https://theobjective.com/deportes/futbol/2026-07-17/gil-marin-oferta-julian-alvarez/?utm_source=lootura.com) — 2026-07-17T15:58:24.000Z

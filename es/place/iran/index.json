@@ -8,9 +8,14 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/iran/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/iran/index.json",
   "description": "Sigue la actividad de Iran en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-17T13:22:29.680Z",
+  "updatedAt": "2026-07-17T20:51:38.016Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "EEUU destruye una torre de vigilancia que Irán usaba para atacar buques en Ormuz",
+      "summary": "El Ejército estadounidense destruyó una torre de vigilancia que Irán usaba para atacar a los buques comerciales en el estrecho de Ormuz , lo que permitirá «proteger» la navegación en la vía marítima, afirmó este viernes el Comando Central de Estados Unidos (Centcom). «Las fuerzas de EE. UU. destruyeron con éxito la tor.",
+      "date": "2026-07-17"
+    },
     {
       "title": "El primer portaviones nuclear de Estados Unidos camino al desguace y no tiene nada que ver con Irán",
       "summary": "La Armada de Estados Unidos ha adjudicado un contrato histórico de 418 millones de dólares para desguazar el USS Enterprise. La primera embarcación de su clase propulsada por energía nuclear será desmantelada.",
@@ -55,13 +60,15 @@
       "title": "Trump amenaza con atacar infraestructuras civiles si Irán no vuelve a negociar",
       "summary": "Estados Unidos ha reimpuesto el bloqueo naval sobre los puertos iraníes y ha intensificado su campaña de bombardeos contra la república islámica, en una nueva escalada de ataques que amenaza con devolver a Oriente Próximo a una guerra abierta y que vuelve a situar el estrecho de Ormuz en el centro del enfrentamiento.La.",
       "date": "2026-07-16"
-    },
-    {
-      "title": "Trump se enreda de nuevo en una guerra de Irán sin salida clara",
-      "summary": "En las jornadas posteriores al ataque conjunto de Israel y Estados Unidos contra Irán del pasado 28 de febrero, Donald Trump cambió al menos una docena de veces de argumentos para justificar una operación militar que evitó llamar por su nombre (“guerra”, palabra que aún se resiste a emplear). Sobre su duración también.",
-      "date": "2026-07-16"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "EEUU destruye una torre de vigilancia que Irán usaba para atacar buques en Ormuz",
+      "url": "https://theobjective.com/internacional/2026-07-17/eeuu-torre-vigilancia-iran-buques-ormuz/?utm_source=lootura.com",
+      "publishedAt": "2026-07-17T19:22:42.000Z",
+      "sourceId": "lootura-es-the-objective"
+    }
+  ],
+  "evidenceCount": 1
 }

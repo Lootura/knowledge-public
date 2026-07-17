@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/psoe/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/psoe/index.json",
   "description": "Sigue la actividad de Partido Socialista Obrero Español en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-17T17:09:01.091Z",
+  "updatedAt": "2026-07-17T20:51:38.016Z",
   "aliases": [
     "Partido Socialista",
     "Partido Socialista Obrero Español"
@@ -27,16 +27,6 @@
     {
       "title": "La directora de la Guardia Civil afirma al juez que se siente una víctima de Cerdán en el ‘caso Leire Díez’",
       "summary": "La directora general de la Guardia Civil, Mercedes González, ha declarado este viernes ante el juez Santiago Pedraz, instructor del caso Leire Díez , que se siente una “víctima” política de la supuesta trama encabezada por Santos Cerdán, ex secretario de Organización del PSOE, y la exmilitante socialista Leire Díez par.",
-      "date": "2026-07-17"
-    },
-    {
-      "title": "La UCO cifra en más de 300.000 euros lo que Cerdán habría obtenido de la trama Koldo",
-      "summary": "La Unidad Central Operativa (UCO) de la Guardia Civil pone de manifiesto en un nuevo informe sobre el patrimonio del ex secretario de Organización del PSOE, Santos Cerdán , que sus ingresos aumentaron de forma considerable en los años en los que José Luis Ábalos estuvo al frente del Ministerio de Transportes, en concre.",
-      "date": "2026-07-17"
-    },
-    {
-      "title": "Cerdán quiso que Servinabar le comprara un piso de lujo de un millón en el centro de Madrid",
-      "summary": "El ex secretario de Organización del PSOE Santos Cerdán intentó adquirir en 2021 una vivienda en el conocido Edificio Princesa, en el centro de Madrid,.",
       "date": "2026-07-17"
     },
     {
@@ -60,16 +50,32 @@
       "date": "2026-07-17"
     },
     {
-      "title": "La UCO dice que Cerdán ingresó 18.000 euros de origen desconocido entre 2014 y 2017",
-      "summary": "El informe patrimonial de quien fuera 'número tres' del PSOE arroja que redujo el uso de la tarjeta o de las disposiciones de efectivo en cajero desde 2019 coincidiendo con \"la etapa ministerial\" de Ábalos y que Cerdán y su familia recibieron más de 300.000 euros de Servinabar en una década La directora de la Guardia C.",
+      "title": "La UCO hunde a Cerdán",
+      "summary": "Nuevo informe de la UCO . En esta ocasión, el señalado, tocado y hundido, es Santos Cerdán , el ex secretario de Organización del PSOE, el sucesor del condenado José Luis Ábalos. La Unidad Central Operativa de la Guardia Civil pone de manifiesto que los ingresos de Cerdán aumentaron de forma considerable entre 2015 y 2.",
+      "date": "2026-07-17"
+    },
+    {
+      "title": "La esposa de Cerdán fue contratada por un \"entramado\" de su socio y despedida tras la detención de Koldo, según la UCO",
+      "summary": "Francisca Muñoz, la esposa del exsecretario de Organización del PSOE Santos Cerdán , fue contratada en una empresa a través de \"un entramado empresarial\" en el que participaba Antxon Alonso —socio del exdirigente— y fue despedida \"tan solo un día después\" de la detención del exasesor ministerial Koldo García . Así se d.",
+      "date": "2026-07-17"
+    },
+    {
+      "title": "La UCO cifra en más de 300.000 euros lo que Cerdán habría obtenido de la trama Koldo",
+      "summary": "La Unidad Central Operativa (UCO) de la Guardia Civil pone de manifiesto en un nuevo informe sobre el patrimonio del ex secretario de Organización del PSOE, Santos Cerdán , que sus ingresos aumentaron de forma considerable en los años en los que José Luis Ábalos estuvo al frente del Ministerio de Transportes, en concre.",
       "date": "2026-07-17"
     }
   ],
   "sources": [
     {
+      "title": "La esposa de Cerdán fue contratada por un \"entramado\" de su socio y despedida tras la detención de Koldo, según la UCO",
+      "url": "https://www.20minutos.es/nacional/esposa-cerdan-fue-contratada-por-un-entramado-su-socio-despedida-tras-detencion-koldo-segun-uco_7016093_0.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-17T17:42:27.000Z",
+      "sourceId": "lootura-es-20minutos"
+    },
+    {
       "title": "La UCO dice que los ingresos de Cerdán se dispararon en la «etapa ministerial» de Ábalos y tras su ascenso en el PSOE",
       "url": "https://www.abc.es/espana/uco-dice-ingresos-cerdan-dispararon-etapa-ministerial-20260717141532-nt.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-17T16:40:39.000Z",
+      "publishedAt": "2026-07-17T18:24:28.000Z",
       "sourceId": "lootura-es-abc"
     },
     {
@@ -109,23 +115,11 @@
       "sourceId": "lootura-es-el-pais"
     },
     {
-      "title": "La UCO dice que Cerdán ingresó 18.000 euros de origen desconocido entre 2014 y 2017",
-      "url": "https://www.eldiario.es/politica/uco-dice-cerdan-ingreso-18-000-euros-origen-desconocido_1_13388317.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-17T12:17:43.000Z",
-      "sourceId": "lootura-es-eldiario-es"
-    },
-    {
-      "title": "La UCO cifra en más de 300.000 euros lo que Cerdán habría obtenido de la trama Koldo",
-      "url": "https://theobjective.com/espana/tribunales/2026-07-17/uco-euros-cerdan-trama-koldo/?utm_source=lootura.com",
-      "publishedAt": "2026-07-17T12:30:59.000Z",
-      "sourceId": "lootura-es-the-objective"
-    },
-    {
-      "title": "Cerdán quiso que Servinabar le comprara un piso de lujo de un millón en el centro de Madrid",
-      "url": "https://theobjective.com/espana/tribunales/2026-07-17/cerdan-servinabar-piso-centro-madrid/?amp=&utm_source=lootura.com",
-      "publishedAt": "2026-07-17T13:10:34.000Z",
+      "title": "La UCO hunde a Cerdán",
+      "url": "https://theobjective.com/espana/2026-07-17/objetivo-directo-uco-hunde-cerdan/?utm_source=lootura.com",
+      "publishedAt": "2026-07-17T16:25:14.000Z",
       "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 11
+  "evidenceCount": 9
 }

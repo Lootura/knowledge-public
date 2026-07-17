@@ -3,10 +3,16 @@
 > Sigue la actividad de Iran en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-17T13:22:29.680Z
+- Actualizado: 2026-07-17T20:51:38.016Z
 - Canonical: https://atlas.lootura.com/es/place/iran
 
 ## Cambios recientes
+
+### EEUU destruye una torre de vigilancia que Irán usaba para atacar buques en Ormuz
+
+El Ejército estadounidense destruyó una torre de vigilancia que Irán usaba para atacar a los buques comerciales en el estrecho de Ormuz , lo que permitirá «proteger» la navegación en la vía marítima, afirmó este viernes el Comando Central de Estados Unidos (Centcom). «Las fuerzas de EE. UU. destruyeron con éxito la tor.
+
+Date: 2026-07-17
 
 ### El primer portaviones nuclear de Estados Unidos camino al desguace y no tiene nada que ver con Irán
 
@@ -62,12 +68,6 @@ Estados Unidos ha reimpuesto el bloqueo naval sobre los puertos iraníes y ha in
 
 Date: 2026-07-16
 
-### Trump se enreda de nuevo en una guerra de Irán sin salida clara
-
-En las jornadas posteriores al ataque conjunto de Israel y Estados Unidos contra Irán del pasado 28 de febrero, Donald Trump cambió al menos una docena de veces de argumentos para justificar una operación militar que evitó llamar por su nombre (“guerra”, palabra que aún se resiste a emplear). Sobre su duración también.
-
-Date: 2026-07-16
-
 ## Fuentes
 
-No public source links.
+- [EEUU destruye una torre de vigilancia que Irán usaba para atacar buques en Ormuz](https://theobjective.com/internacional/2026-07-17/eeuu-torre-vigilancia-iran-buques-ormuz/?utm_source=lootura.com) — 2026-07-17T19:22:42.000Z

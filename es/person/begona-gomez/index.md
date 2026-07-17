@@ -3,10 +3,16 @@
 > Sigue la actividad de Begoña Gómez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-17T17:09:01.091Z
+- Actualizado: 2026-07-17T20:51:38.016Z
 - Canonical: https://atlas.lootura.com/es/person/begona-gomez
 
 ## Cambios recientes
+
+### Barbón ve «muy forzado» el proceso judicial de Begoña Gómez y es «incapaz» de ver los delitos
+
+El socialista asturiano se plantea «no casarse», ya que «esa persona siempre va a estar potencialmente enjuiciada».
+
+Date: 2026-07-17
 
 ### Cuándo será el juicio a Begoña Gómez: delitos de los que se le acusan y previsión de fechas
 
@@ -62,12 +68,6 @@ El Partido Popular ha asegurado este jueves que la Audiencia Provincial de Madri
 
 Date: 2026-07-16
 
-### Begoña Gómez será juzgada por un jurado popular por tráfico de influencias y malversación
-
-La Audiencia Provincial de Madrid ha avalado al juez Juan Carlos Peinado y ha confirmado su decisión de que Begoña Gómez, la esposa del presidente del Gobierno, sea juzgada por un jurado popular junto a su asesora en Moncloa, Cristina Álvarez, aunque excluye de la vista oral al empresario Juan Carlos Barrabés.En un aut.
-
-Date: 2026-07-16
-
 ## Fuentes
 
-- [Cuándo será el juicio a Begoña Gómez: delitos de los que se le acusan y previsión de fechas](https://www.elconfidencial.com/espana/2026-07-17/juicio-begona-gomez-delitos-prevision-fecha_4391691/?utm_source=lootura.com) — 2026-07-17T11:44:00.000Z
+- [Barbón ve «muy forzado» el proceso judicial de Begoña Gómez y es «incapaz» de ver los delitos](https://theobjective.com/espana/politica/2026-07-17/barbon-forzado-judicial-begona-gomez-incapaz-ver-delitos/?amp=&utm_source=lootura.com) — 2026-07-17T20:26:56.000Z

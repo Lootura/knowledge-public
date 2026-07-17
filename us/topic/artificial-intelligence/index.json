@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/topic/artificial-intelligence/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/topic/artificial-intelligence/index.json",
   "description": "Follow Artificial intelligence, a tracked topic, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-17T17:09:22.641Z",
+  "updatedAt": "2026-07-17T20:52:01.362Z",
   "aliases": [
     "AI",
     "machine learning"
@@ -69,21 +69,15 @@
     {
       "title": "AI is set to completely transform cybersecurity — here’s how researchers must prepare",
       "url": "https://www.nature.com/articles/d41586-026-02214-z?utm_source=lootura.com",
-      "publishedAt": "2026-07-17T17:09:27.473Z",
+      "publishedAt": "2026-07-17T20:52:05.085Z",
       "sourceId": "lootura-us-nature"
     },
     {
       "title": "A global capital for AI safety is emerging — and it’s not in Silicon Valley",
       "url": "https://www.nature.com/articles/d41586-026-01389-9?utm_source=lootura.com",
-      "publishedAt": "2026-07-17T17:09:27.473Z",
+      "publishedAt": "2026-07-17T20:52:05.085Z",
       "sourceId": "lootura-us-nature"
-    },
-    {
-      "title": "AI‑designed gene‑editing enzymes expand the CRISPR toolbox",
-      "url": "https://phys.org/news/2026-07-aidesigned-geneediting-enzymes-crispr-toolbox.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-17T16:59:19.000Z",
-      "sourceId": "lootura-us-phys-org"
     }
   ],
-  "evidenceCount": 4
+  "evidenceCount": 2
 }

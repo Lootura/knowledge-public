@@ -8,11 +8,16 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/new-york/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/new-york/index.json",
   "description": "Follow New York, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-17T17:09:22.641Z",
+  "updatedAt": "2026-07-17T20:52:01.362Z",
   "aliases": [
     "New York City"
   ],
   "changes": [
+    {
+      "title": "Trump Threatens Canada With Tariffs for Wildfire Smoke Over U.S.",
+      "summary": "The president said on Friday in a social media post that Canada was failing to manage its wildfire response as smoke has blanketed U.S. cities including New York and Chicago.",
+      "date": "2026-07-17"
+    },
     {
       "title": "Canadian wildfire smoke linked to fewer bird sightings in New York State",
       "summary": "Despite burning hundreds of miles away, Canadian wildfires have become a familiar source of disruption in New York state.",
@@ -57,19 +62,14 @@
       "title": "New York enacts nation's first statewide moratorium on building new data centers",
       "summary": "Building new data centers in New York will be paused for a year in order to allow state officials to establish guidelines protecting residents and the environment, Gov. Kathy Hochul said.",
       "date": "2026-07-14"
-    },
-    {
-      "title": "'Gus' the T. rex fetches record $50.1 mn at US auction",
-      "summary": "A Tyrannosaurus rex skeleton nicknamed \"Gus\" sold Tuesday for $50.1 million at Sotheby's in New York, making it the most valuable dinosaur fossil bought at auction after a 10-minute battle between seven bidders.",
-      "date": "2026-07-14"
     }
   ],
   "sources": [
     {
-      "title": "Canadian wildfire smoke linked to fewer bird sightings in New York State",
-      "url": "https://phys.org/news/2026-07-canadian-wildfire-linked-bird-sightings.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-17T17:00:02.000Z",
-      "sourceId": "lootura-us-phys-org"
+      "title": "Trump Threatens Canada With Tariffs for Wildfire Smoke Over U.S.",
+      "url": "https://www.nytimes.com/2026/07/17/weather/wildfire-smoke-canada-us-politics.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-17T20:42:58.000Z",
+      "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
   "evidenceCount": 1

@@ -8,17 +8,22 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/barcelona/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/barcelona/index.json",
   "description": "Sigue la actividad de Barcelona en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-17T17:09:01.091Z",
+  "updatedAt": "2026-07-17T20:51:38.016Z",
   "aliases": [],
   "changes": [
     {
-      "title": "Ubisoft celebra el éxito del nuevo videojuego de 'Assasin's Creed' y deja fuera a 51 de sus creadores en Barcelona",
-      "summary": "Quienes trabajaron en Ubisoft Barcelona durante los últimos tres años comparten un mismo recuerdo: una convocatoria inesperada, un correo enviado con urgencia y una sala llena de empleados que sospechaban que algo no iba bien antes de que nadie pronunciara una palabra. El 10 de junio, la dirección reunió a la plantilla.",
+      "title": "Gil Marín, contundente con el ‘caso Julián’: «No aceptamos la oferta de 100 millones ni de 200»",
+      "summary": "El consejero delegado del Atlético de Madrid , Miguel Ángel Gil Marín, aseguró que el club no quiere «transferir» al delantero argentino Julián Álvarez y defendió que su respuesta al interés del FC Barcelona «sí es infinita», porque no aceptan «la oferta de 100 millones de euros ni una de 200». «La opinión es clara, la.",
       "date": "2026-07-17"
     },
     {
-      "title": "Gil Marín, contundente con el ‘caso Julián’: «No aceptamos la oferta de 100 millones ni de 200»",
-      "summary": "El consejero delegado del Atlético de Madrid , Miguel Ángel Gil Marín, aseguró que el club no quiere «transferir» al delantero argentino Julián Álvarez y defendió que su respuesta al interés del FC Barcelona «sí es infinita», porque no aceptan «la oferta de 100 millones de euros ni una de 200». «La opinión es clara, la.",
+      "title": "El Barcelona disputará un triangular de amistosos el 8 de agosto en Italia",
+      "summary": "El Barcelona sigue ampliando su lista de amistosos para la pretemporada 26/27 que desde el pasado lunes ya está en marcha en la Ciudad Deportiva Joan Gamper. El equipo blaugrana disputará dos amistosos en Italia el próximo 8 de agosto en un triangular ante Udinese y Nottingham Forest . Lo hará tras su stage en Reino Un.",
+      "date": "2026-07-17"
+    },
+    {
+      "title": "Ubisoft celebra el éxito del nuevo videojuego de 'Assasin's Creed' y deja fuera a 51 de sus creadores en Barcelona",
+      "summary": "Quienes trabajaron en Ubisoft Barcelona durante los últimos tres años comparten un mismo recuerdo: una convocatoria inesperada, un correo enviado con urgencia y una sala llena de empleados que sospechaban que algo no iba bien antes de que nadie pronunciara una palabra. El 10 de junio, la dirección reunió a la plantilla.",
       "date": "2026-07-17"
     },
     {
@@ -55,19 +60,14 @@
       "title": "Inquietud en Seat por los recortes de Volkswagen: “Sería ingenuo pensar que no nos van a afectar”",
       "summary": "El centro de Barcelona empieza a vestirse ya de los colores del arcoíris para celebrar el Orgullo esta semana. También lo ha hecho Casa Cupra Raval desde su vistoso edificio del paseo de Gràcia. La tienda insignia de la histórica automovilística ha dejado de llamarse, aunque sea de forma temporal, Casa Seat y ha adopta.",
       "date": "2026-07-14"
-    },
-    {
-      "title": "El teatro de Barcelona que convierte en socios a Aitana y el Mago Pop",
-      "summary": "No suele ser habitual que dos estrellas de la magnitud de Aitana y Antonio Díaz, más conocido como El Mago Pop, unan fuerzas más allá del escenario para embarcarse en una aventura empresarial. Pero así ha sido con la adquisición del Teatre Aquitània de Barcelona , un espacio con historia que intenta renacer, por enésim.",
-      "date": "2026-07-14"
     }
   ],
   "sources": [
     {
-      "title": "Ubisoft celebra el éxito del nuevo videojuego de 'Assasin's Creed' y deja fuera a 51 de sus creadores en Barcelona",
-      "url": "https://www.abc.es/cultura/ubisoft-celebra-exito-assassins-creed-black-flag-20260717161306-nt.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-17T16:34:43.000Z",
-      "sourceId": "lootura-es-abc"
+      "title": "El Barcelona disputará un triangular de amistosos el 8 de agosto en Italia",
+      "url": "https://okdiario.com/deportes/barcelona-disputara-triangular-amistosos-8-agosto-italia-19020491?utm_source=lootura.com",
+      "publishedAt": "2026-07-17T19:25:52.000Z",
+      "sourceId": "lootura-es-ok-diario"
     },
     {
       "title": "Gil Marín, contundente con el ‘caso Julián’: «No aceptamos la oferta de 100 millones ni de 200»",

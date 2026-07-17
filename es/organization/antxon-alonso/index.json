@@ -1,0 +1,61 @@
+{
+  "id": "es-antxon-alonso",
+  "name": "Antxon Alonso",
+  "type": "organization",
+  "locale": "es",
+  "canonicalPath": "/es/organization/antxon-alonso",
+  "canonicalUrl": "https://atlas.lootura.com/es/organization/antxon-alonso",
+  "markdownUrl": "https://atlas.lootura.com/es/organization/antxon-alonso/index.md",
+  "jsonUrl": "https://atlas.lootura.com/es/organization/antxon-alonso/index.json",
+  "description": "Sigue la actividad de Antxon Alonso en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
+  "updatedAt": "2026-07-17T20:51:38.016Z",
+  "aliases": [],
+  "changes": [
+    {
+      "title": "La mujer de Cerdán también cobró sin trabajar",
+      "summary": "La UCO sostiene que una sociedad del entorno de Antxon Alonso utilizó una contratación laboral aparente para hacer llegar a Francisca Muñoz unos 1.300 euros mensuales.",
+      "date": "2026-07-17"
+    },
+    {
+      "title": "La UCO apunta a que la esposa de Cerdán cobró 1.300 euros mensuales de una empresa para la que no trabajaba",
+      "summary": "El informe de la Unidad Central Operativa (UCO) de la Guardia Civil sobre el patrimonio del exsecretario de Organización del PSOE Santos Cerdán apunta a que una mercantil ligada al empresario Antxon Alonso, amigo del exdirigente socialista, estuvo pagando 1.300 euros al mes a Francisca Muñoz, esposa del dirigente socia.",
+      "date": "2026-07-17"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Antxon Alonso first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-07-17"
+    },
+    {
+      "title": "La esposa de Cerdán fue contratada por un \"entramado\" de su socio y despedida tras la detención de Koldo, según la UCO",
+      "summary": "Francisca Muñoz, la esposa del exsecretario de Organización del PSOE Santos Cerdán , fue contratada en una empresa a través de \"un entramado empresarial\" en el que participaba Antxon Alonso —socio del exdirigente— y fue despedida \"tan solo un día después\" de la detención del exasesor ministerial Koldo García . Así se d.",
+      "date": "2026-07-17"
+    },
+    {
+      "title": "Cerdán quiso un \"pisazo\" de casi un millón de euros entre recelos de su socio y comprador: \"Han estado viendo uno de 950\"",
+      "summary": "La Unidad Central Operativa (UCO) ha apuntado que la empresa Servinabar, una constructora en la que los investigadores sitúan a Santos Cerdán como socio, intentó comprar un piso valorado en casi un millón de euros para el exdirigente socialista. \"Han estado viendo uno de 950\", escribió el empresario Antxon Alonso, admi.",
+      "date": "2026-07-17"
+    }
+  ],
+  "sources": [
+    {
+      "title": "La esposa de Cerdán fue contratada por un \"entramado\" de su socio y despedida tras la detención de Koldo, según la UCO",
+      "url": "https://www.20minutos.es/nacional/esposa-cerdan-fue-contratada-por-un-entramado-su-socio-despedida-tras-detencion-koldo-segun-uco_7016093_0.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-17T17:42:27.000Z",
+      "sourceId": "lootura-es-20minutos"
+    },
+    {
+      "title": "La mujer de Cerdán también cobró sin trabajar",
+      "url": "https://www.elcorreo.com/politica/mujer-cerdan-cobro-trabajar-20260717153407-ntrc_amp.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-17T13:34:07.000Z",
+      "sourceId": "lootura-es-el-correo"
+    },
+    {
+      "title": "La UCO apunta a que la esposa de Cerdán cobró 1.300 euros mensuales de una empresa para la que no trabajaba",
+      "url": "https://elpais.com/espana/2026-07-17/la-uco-apunta-a-que-la-esposa-de-cerdan-cobro-1300-euros-mensuales-de-una-empresa-para-la-que-no-trabajaba.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-17T14:14:37.000Z",
+      "sourceId": "lootura-es-el-pais"
+    }
+  ],
+  "evidenceCount": 3
+}

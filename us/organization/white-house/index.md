@@ -3,7 +3,7 @@
 > Follow White House, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-07-17T17:09:22.641Z
+- Updated: 2026-07-17T20:52:01.362Z
 - Canonical: https://atlas.lootura.com/us/organization/white-house
 
 ## Recent changes
@@ -14,15 +14,21 @@ The prediction market Kalshi alleges President Trump's longtime teleprompter ope
 
 Date: 2026-07-17
 
-### Darline Graham in serious discussions about running for Lindsey Graham's seat
-
-Darline Graham indicated in a White House meeting Thursday that she's weighing a bid, CBS News confirmed.
-
-Date: 2026-07-17
-
 ### Trump Brings Full Weight of Government to Bolster False Election Claims
 
 Intelligence agencies provided the White House with a trove of declassified documents that President Trump cited on Thursday as evidence of election vulnerabilities.
+
+Date: 2026-07-17
+
+### Trump encourages Darline Graham to run for Lindsey Graham's seat
+
+Darline Graham indicated in a White House meeting Thursday that she's weighing a bid, CBS News confirmed. A day later, President Trump wrote on Truth Social: "RUN, DARLINE, RUN! ".
+
+Date: 2026-07-17
+
+### Darline Graham in serious discussions about running for Lindsey Graham's seat
+
+Darline Graham indicated in a White House meeting Thursday that she's weighing a bid, CBS News confirmed.
 
 Date: 2026-07-17
 
@@ -62,14 +68,8 @@ Watch full coverage as President Donald Trump addresses the nation from the Whit
 
 Date: 2026-07-17
 
-### How paper ballots make digital manipulation of results unlikely
-
-NBC News’ Jane Timm analyzes President Trump’s claims about digital manipulation of ballot results in the U.S., as Trump said that the White House will declassify documents related to the 2020 election and alleged influence by China during his speech to the nation.
-
-Date: 2026-07-17
-
 ## Sources
 
 - [White House teleprompter operator allegedly made over $100K betting on Trump's speeches](https://www.cbsnews.com/video/white-house-teleprompter-operator-allegedly-made-over-100k-betting-on-trumps-speeches/?utm_source=lootura.com) — 2026-07-17T12:59:09.000Z
-- [Darline Graham in serious discussions about running for Lindsey Graham's seat](https://www.cbsnews.com/news/darline-graham-us-senate-south-carolina-lindsey-graham/?utm_source=lootura.com) — 2026-07-17T16:25:15.000Z
-- [Trump Brings Full Weight of Government to Bolster False Election Claims](https://www.nytimes.com/2026/07/17/us/politics/trump-government-election-claims.html?utm_source=lootura.com) — 2026-07-17T16:00:40.000Z
+- [Trump encourages Darline Graham to run for Lindsey Graham's seat](https://www.cbsnews.com/news/darline-graham-us-senate-south-carolina-lindsey-graham/?utm_source=lootura.com) — 2026-07-17T19:44:10.000Z
+- [Trump Brings Full Weight of Government to Bolster False Election Claims](https://www.nytimes.com/2026/07/17/us/politics/trump-government-election-claims.html?utm_source=lootura.com) — 2026-07-17T19:39:31.000Z

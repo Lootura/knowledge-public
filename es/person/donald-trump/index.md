@@ -3,7 +3,7 @@
 > Sigue la actividad de Donald Trump en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-17T17:09:01.091Z
+- Actualizado: 2026-07-17T20:51:38.016Z
 - Canonical: https://atlas.lootura.com/es/person/donald-trump
 
 ## Cambios recientes
@@ -17,6 +17,12 @@ Date: 2026-07-17
 ### China exige a Trump que aparque el «invento» de la presunta injerencia electoral en 2020
 
 China ha rechazado por completo las acusaciones formuladas por el presidente de Estados Unidos , Donald Trump , quien, esta pasada noche y en un discurso ante la nación, denunció que las autoridades de Pekín se habían inmiscuido en el desarrollo de las elecciones de 2020 . Trump y el Gobierno de Estados Unidos acusaron.
+
+Date: 2026-07-17
+
+### Trump amenaza a Canadá con más aranceles tras acusarles de "negligencia" por los incendios
+
+El presidente de Estados Unidos, Donald Trump, amenazó este viernes con aumentar los aranceles a Canadá tras acusar a las autoridades de su vecino del norte de negligencia por los incendios que asolan el país y han deteriorado la calidad del aire en ciudades estadounidenses. "Se trata de una negligencia deliberada que.
 
 Date: 2026-07-17
 
@@ -62,13 +68,8 @@ El presidente de Estados Unidos, Donald Trump, tiene un problema con sus discurs
 
 Date: 2026-07-16
 
-### Trump impone un arancel del 25% a Brasil por "no negociar de buena fe"
-
-El presidente de Estados Unidos, Donald Trump, acaba de iniciar un nuevo capítulo en su ya extenso historial de batallas comerciales. Su Administración ha anunciado la imposición de un arancel general del 25% sobre el grueso de importaciones procedentes de Brasil, país al que acusa de actuar "con mala fe" en las relaci.
-
-Date: 2026-07-16
-
 ## Fuentes
 
 - [El Puerto de Bilbao registra entre febrero y junio su mayor actividad desde hace 18 años](https://www.elcorreo.com/economia/puerto-bilbao-registra-febrero-junio-mayor-actividad-20260717132549-nt_amp.html?utm_source=lootura.com) — 2026-07-17T11:36:22.000Z
+- [Trump amenaza a Canadá con más aranceles tras acusarles de "negligencia" por los incendios](https://www.larazon.es/internacional/trump-amenaza-canada-mas-aranceles-acusarles-negligencia-incendios_202607176a5a90740500ab412c9bb86a.html?utm_source=lootura.com) — 2026-07-17T20:28:36.000Z
 - [China exige a Trump que aparque el «invento» de la presunta injerencia electoral en 2020](https://theobjective.com/internacional/2026-07-17/china-trump-invento-injerencia-electoral/?utm_source=lootura.com) — 2026-07-17T16:30:35.000Z

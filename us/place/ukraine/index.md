@@ -3,7 +3,7 @@
 > Follow Ukraine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-17T17:09:22.641Z
+- Updated: 2026-07-17T20:52:01.362Z
 - Canonical: https://atlas.lootura.com/us/place/ukraine
 
 ## Recent changes
@@ -71,4 +71,3 @@ Date: 2026-07-16
 ## Sources
 
 - [Ukraine fights under an interim defense chief after Zelenskyy's contested government shake-up](https://www.pbs.org/newshour/world/ukraine-fights-under-an-interim-defense-chief-after-zelenskyys-contested-government-shake-up?utm_source=lootura.com) — 2026-07-17T15:47:54.000Z
-- [Ukraine Was on a Roll. Then a Clash Over War Strategy Exploded Into View.](https://www.nytimes.com/2026/07/16/world/europe/ukraine-military-defense-minister-drones.html?utm_source=lootura.com) — 2026-07-16T22:01:29.000Z

@@ -64,4 +64,4 @@ Date: 2026-07-08
 
 ## Fuentes
 
-- [Lamine Yamal y Pedro Porro se entrenan con el grupo y estarán listos para la final](https://okdiario.com/mundial/mejor-noticia-espana-antes-final-lamine-yamal-pedro-porro-entrenan-grupo-estaran-listos-final-19018655?utm_source=lootura.com) — 2026-07-17T16:15:35.000Z
+No public source links.

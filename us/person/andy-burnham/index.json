@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/andy-burnham/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/andy-burnham/index.json",
   "description": "Follow Andy Burnham, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-17T17:09:22.641Z",
+  "updatedAt": "2026-07-17T20:52:01.362Z",
   "aliases": [],
   "changes": [
     {
@@ -25,6 +25,11 @@
       "title": "Discovered by Atlas",
       "summary": "Andy Burnham first entered the public knowledge record with source-backed evidence.",
       "date": "2026-07-17"
+    },
+    {
+      "title": "Andy Burnham is declared leader of UK's Labour Party, pledges to restore hope",
+      "summary": "The former mayor of Greater Manchester was the only contender in the center-left party's leadership contest to replace departing Prime Minister Keir Starmer, who was forced out by a rebellion within his party.",
+      "date": "2026-07-17"
     }
   ],
   "sources": [
@@ -35,11 +40,17 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
+      "title": "Andy Burnham is declared leader of UK's Labour Party, pledges to restore hope",
+      "url": "https://www.pbs.org/newshour/world/andy-burnham-is-declared-leader-of-uks-labour-party-pledges-to-restore-hope?utm_source=lootura.com",
+      "publishedAt": "2026-07-17T18:41:55.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
+    },
+    {
       "title": "New Prime Minister Faces Old Problems: How to Make Britain’s Economy Grow",
       "url": "https://www.nytimes.com/2026/07/17/business/britain-andy-burnham-prime-minister.html?utm_source=lootura.com",
       "publishedAt": "2026-07-17T12:50:10.000Z",
       "sourceId": "lootura-us-the-new-york-times"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 3
 }

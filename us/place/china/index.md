@@ -3,7 +3,7 @@
 > Follow China, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-17T17:09:22.641Z
+- Updated: 2026-07-17T20:52:01.362Z
 - Canonical: https://atlas.lootura.com/us/place/china
 
 ## Recent changes
@@ -17,6 +17,30 @@ Date: 2026-07-17
 ### Mullin pledges to go after voter fraud after Trump revives election interference claims
 
 Homeland Security Secretary Markwayne Mullin spoke about election security a day after President Trump claimed during his primetime address that China interfered in the 2020 election. CBS News' Jake Rosen joins to discuss Mullin's remarks.
+
+Date: 2026-07-17
+
+### China calls Trump's election interference claims "pure fabrication"
+
+A spokesman for the Chinese Ministry of Foreign Affairs denied President Trump's claims of election interference in the 2020 election. CBS News foreign correspondent Anna Coren reports.
+
+Date: 2026-07-17
+
+### Fact-checking Trump's address on China, the 2020 election and what documents show
+
+President Donald Trump quoted years-old intelligence community documents, including some that had been declassified or partially redacted, without noting a distinction between what China may have planned versus what analysts say it did.
+
+Date: 2026-07-17
+
+### Landslide in southwestern China kills at least 8 and leaves 34 missing
+
+The landslide occurred around 9:08 a.m. on the outer edge of the Chongqing municipality, when massive amounts of rocks and soil washed downslope, burying more than 10 residential buildings, state broadcaster CCTV said.
+
+Date: 2026-07-17
+
+### China warns of reciprocal countermeasures after U.S. shortens foreign journalist visas
+
+The Trump administration announced Thursday it will drastically shorten visas for foreign journalists in the U.S. to 240 days, down from years, and cut those for Chinese journalists to only 90 days, raising concerns over press freedom in the United States and prompting China to warn of possible reciprocal countermeasur.
 
 Date: 2026-07-17
 
@@ -44,31 +68,11 @@ President Donald Trump used his prime-time speech Thursday to raise questions ab
 
 Date: 2026-07-17
 
-### China's Xi calls for step up of global effort in AI, as US curbs squeeze China's tech access
-
-American-led restrictions have blocked China from accessing some of the world's most advanced technologies, spurring China's efforts to build its own know-how and intensifying the tech race between the world's two biggest economies. (Image credit: Ng Han Guan).
-
-Date: 2026-07-17
-
-### Philippines Condemns AI Video Posted by Chinese State Media Depicting It as a Monkey
-
-It lodged a diplomatic complaint with Beijing over an A.I.-generated video centered on territorial disputes in the South China Sea.
-
-Date: 2026-07-17
-
-### How Trump's election allegations against China could impact relations with U.S.
-
-President Trump accused China of having a role in influencing the 2020 election during his speech about election interference. NBC News' Garrett Haake has more on how this could impact China's relationship with the U.S.
-
-Date: 2026-07-17
-
-### How paper ballots make digital manipulation of results unlikely
-
-NBC News’ Jane Timm analyzes President Trump’s claims about digital manipulation of ballot results in the U.S., as Trump said that the White House will declassify documents related to the 2020 election and alleged influence by China during his speech to the nation.
-
-Date: 2026-07-17
-
 ## Sources
 
 - [Mullin pledges to go after voter fraud after Trump revives election interference claims](https://www.cbsnews.com/video/mullin-pledges-to-go-after-voter-fraud-trump-revives-election-interference-claims/?utm_source=lootura.com) — 2026-07-17T16:27:13.000Z
-- [US politicians push agencies to restrict research collaboration with China](https://www.nature.com/articles/d41586-026-02226-9?utm_source=lootura.com) — 2026-07-17T17:09:27.473Z
+- [China calls Trump's election interference claims "pure fabrication"](https://www.cbsnews.com/video/china-calls-trump-election-interference-claims-pure-fabrication/?utm_source=lootura.com) — 2026-07-17T17:56:44.000Z
+- [US politicians push agencies to restrict research collaboration with China](https://www.nature.com/articles/d41586-026-02226-9?utm_source=lootura.com) — 2026-07-17T20:52:05.085Z
+- [Fact-checking Trump's address on China, the 2020 election and what documents show](https://www.pbs.org/newshour/politics/fact-checking-trumps-address-on-china-the-2020-election-and-what-documents-show?utm_source=lootura.com) — 2026-07-17T20:20:23.000Z
+- [Landslide in southwestern China kills at least 8 and leaves 34 missing](https://www.pbs.org/newshour/world/landslide-in-southwestern-china-kills-at-least-8-and-leaves-34-missing?utm_source=lootura.com) — 2026-07-17T18:16:49.000Z
+- [China warns of reciprocal countermeasures after U.S. shortens foreign journalist visas](https://www.pbs.org/newshour/politics/china-warns-of-reciprocal-countermeasures-after-u-s-shortens-foreign-journalist-visas?utm_source=lootura.com) — 2026-07-17T17:25:32.000Z

@@ -3,7 +3,7 @@
 > Sigue la actividad de Mercedes Gonz en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-17T17:09:01.091Z
+- Actualizado: 2026-07-17T20:51:38.016Z
 - Canonical: https://atlas.lootura.com/es/person/mercedes-gonz
 
 ## Cambios recientes

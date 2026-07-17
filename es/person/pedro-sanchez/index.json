@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/pedro-sanchez/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/pedro-sanchez/index.json",
   "description": "Sigue la actividad de Pedro Sánchez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-17T17:09:01.091Z",
+  "updatedAt": "2026-07-17T20:51:38.016Z",
   "aliases": [
     "Sánchez"
   ],
@@ -68,7 +68,7 @@
     {
       "title": "La UCO dice que los ingresos de Cerdán se dispararon en la «etapa ministerial» de Ábalos y tras su ascenso en el PSOE",
       "url": "https://www.abc.es/espana/uco-dice-ingresos-cerdan-dispararon-etapa-ministerial-20260717141532-nt.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-17T16:40:39.000Z",
+      "publishedAt": "2026-07-17T18:24:28.000Z",
       "sourceId": "lootura-es-abc"
     },
     {
@@ -82,13 +82,7 @@
       "url": "https://elpais.com/espana/2026-07-17/la-comision-europea-ve-avances-limitados-en-el-plan-anticorrupcion-de-sanchez-y-reclama-mas-reformas.html?utm_source=lootura.com",
       "publishedAt": "2026-07-17T11:27:24.000Z",
       "sourceId": "lootura-es-el-pais"
-    },
-    {
-      "title": "Bruselas desmiente el victimismo de Sánchez: no hay reformas y sí hay corruptos",
-      "url": "https://www.larazon.es/espana/bruselas-desmiente-victimismo-sanchez-hay-reformas-hay-corruptos_202607176a5a5dd4e9f2e84b5c6e6b1b.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-17T16:52:36.000Z",
-      "sourceId": "lootura-es-la-razon"
     }
   ],
-  "evidenceCount": 5
+  "evidenceCount": 3
 }

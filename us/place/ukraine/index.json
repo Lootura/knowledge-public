@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/ukraine/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/ukraine/index.json",
   "description": "Follow Ukraine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-17T17:09:22.641Z",
+  "updatedAt": "2026-07-17T20:52:01.362Z",
   "aliases": [
     "Kyiv"
   ],
@@ -70,13 +70,7 @@
       "url": "https://www.pbs.org/newshour/world/ukraine-fights-under-an-interim-defense-chief-after-zelenskyys-contested-government-shake-up?utm_source=lootura.com",
       "publishedAt": "2026-07-17T15:47:54.000Z",
       "sourceId": "lootura-us-pbs-newshour"
-    },
-    {
-      "title": "Ukraine Was on a Roll. Then a Clash Over War Strategy Exploded Into View.",
-      "url": "https://www.nytimes.com/2026/07/16/world/europe/ukraine-military-defense-minister-drones.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-16T22:01:29.000Z",
-      "sourceId": "lootura-us-the-new-york-times"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

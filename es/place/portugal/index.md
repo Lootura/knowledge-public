@@ -70,5 +70,4 @@ Date: 2026-07-09
 
 ## Fuentes
 
-- [Un detenido y un investigado por los incendios intencionados de Hermisende (Zamora)](https://www.larazon.es/castilla-y-leon/detenido-investigado-incendios-intencionados-hermisende-zamora_202607176a5a5fa3e9f2e84b5c6e6e47.html?utm_source=lootura.com) — 2026-07-17T17:00:19.000Z
-- [El Parlamento de Portugal prohíbe el uso del burka en espacios públicos](https://theobjective.com/internacional/2026-07-17/portugal-prohibicion-burka-espacios-publicos/?utm_source=lootura.com) — 2026-07-17T15:00:54.000Z
+No public source links.

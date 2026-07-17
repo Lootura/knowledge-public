@@ -3,7 +3,7 @@
 > Sigue la actividad de FIFA en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-17T17:09:01.091Z
+- Actualizado: 2026-07-17T20:51:38.016Z
 - Canonical: https://atlas.lootura.com/es/organization/fifa
 
 ## Cambios recientes
@@ -28,4 +28,4 @@ Date: 2026-07-08
 
 ## Fuentes
 
-- [La FIFA frena en seco: el descanso del mundial no durará media hora](https://www.expansion.com/directivos/deporte-negocio/2026/07/17/6a5a552e468aeb26088b4592.html?utm_source=lootura.com) — 2026-07-17T16:19:40.000Z
+- [La FIFA entregará un anillo de lujo a los ganadores del Mundial al estilo de la NBA](https://elpais.com/deportes/mundial-futbol/2026-07-17/la-fifa-entregara-un-anillo-de-lujo-a-los-ganadores-del-mundial-al-estilo-de-la-nba.html?utm_source=lootura.com) — 2026-07-17T12:40:39.000Z

@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/china/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/china/index.json",
   "description": "Sigue la actividad de China en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-17T17:09:01.091Z",
+  "updatedAt": "2026-07-17T20:51:38.016Z",
   "aliases": [],
   "changes": [
     {
       "title": "China exige a Trump que aparque el «invento» de la presunta injerencia electoral en 2020",
       "summary": "China ha rechazado por completo las acusaciones formuladas por el presidente de Estados Unidos , Donald Trump , quien, esta pasada noche y en un discurso ante la nación, denunció que las autoridades de Pekín se habían inmiscuido en el desarrollo de las elecciones de 2020 . Trump y el Gobierno de Estados Unidos acusaron.",
+      "date": "2026-07-17"
+    },
+    {
+      "title": "Qué fue del cohete reutilizable que Rusia anunció hace 6 años y debía volar en 2026",
+      "summary": "China se convirtió la semana pasada en el segundo país del mundo que demostraba su capacidad para poner un cohete en órbita y hacer regresar y aterrizar de forma segura su primera etapa . No es el único que está siguiendo el camino abierto por SpaceX hace una década. La agencia espacial japonesa JAXA realizó el pasado.",
       "date": "2026-07-17"
     },
     {
@@ -55,14 +60,21 @@
       "title": "Trump anuncia la desclasificación de documentos sobre una supuesta injerencia electoral china en 2020",
       "summary": "El presidente sostuvo que Pekín obtuvo de forma ilícita acceso a los datos de más de 220 millones de votantes estadounidenses.",
       "date": "2026-07-17"
-    },
-    {
-      "title": "Trump desclasifica informes de la CIA que «prueban que el sistema electoral ha sido manipulado» y acusa a China",
-      "summary": "El presidente estadounidense, Donald Trump, ha anunciado esta madrugada que ha desclasificado informes de la CIA que «prueban que el sistema electoral de EEUU es vulnerable ». «Hay niveles de hackeo y de interferencia extranjera nunca vistos», ha llegado a asegurar, y ha acusado sobre todo a China de las «graves injere.",
-      "date": "2026-07-17"
     }
   ],
   "sources": [
+    {
+      "title": "China lanza Kimi K3, el modelo de IA abierta más grande del mundo",
+      "url": "https://www.abc.es/tecnologia/china-lanza-kimi-modelo-ia-abierta-grande-20260717221042-nt_amp.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-17T20:10:43.000Z",
+      "sourceId": "lootura-es-abc"
+    },
+    {
+      "title": "Qué fue del cohete reutilizable que Rusia anunció hace 6 años y debía volar en 2026",
+      "url": "https://www.larazon.es/tecnologia/que-fue-cohete-reutilizable-que-rusia-anuncio-hace-6-anos-debia-volar-2026_202607176a5a81841db8de040994ba0c.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-17T20:00:17.000Z",
+      "sourceId": "lootura-es-la-razon"
+    },
     {
       "title": "China exige a Trump que aparque el «invento» de la presunta injerencia electoral en 2020",
       "url": "https://theobjective.com/internacional/2026-07-17/china-trump-invento-injerencia-electoral/?utm_source=lootura.com",
@@ -70,5 +82,5 @@
       "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 2
 }

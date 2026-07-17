@@ -58,4 +58,4 @@ Date: 2026-07-08
 
 ## Sources
 
-- [Is Venezuela a Colony Now? A Sovereign State? Modern Empires Rule in Ambiguity.](https://www.nytimes.com/2026/07/17/magazine/venezuela-empires-colony.html?utm_source=lootura.com) — 2026-07-17T09:02:04.000Z
+No public source links.

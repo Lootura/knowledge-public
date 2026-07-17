@@ -3,7 +3,7 @@
 > Follow Andy Burnham, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-07-17T17:09:22.641Z
+- Updated: 2026-07-17T20:52:01.362Z
 - Canonical: https://atlas.lootura.com/us/person/andy-burnham
 
 ## Recent changes
@@ -26,7 +26,14 @@ Andy Burnham first entered the public knowledge record with source-backed eviden
 
 Date: 2026-07-17
 
+### Andy Burnham is declared leader of UK's Labour Party, pledges to restore hope
+
+The former mayor of Greater Manchester was the only contender in the center-left party's leadership contest to replace departing Prime Minister Keir Starmer, who was forced out by a rebellion within his party.
+
+Date: 2026-07-17
+
 ## Sources
 
 - [Who is Andy Burnham, the man becoming Britain's next prime minister?](https://www.cbsnews.com/news/keir-starmer-resigns-who-is-andy-burnham-likely-next-uk-prime-minister/?utm_source=lootura.com) — 2026-07-17T12:55:31.000Z
+- [Andy Burnham is declared leader of UK's Labour Party, pledges to restore hope](https://www.pbs.org/newshour/world/andy-burnham-is-declared-leader-of-uks-labour-party-pledges-to-restore-hope?utm_source=lootura.com) — 2026-07-17T18:41:55.000Z
 - [New Prime Minister Faces Old Problems: How to Make Britain’s Economy Grow](https://www.nytimes.com/2026/07/17/business/britain-andy-burnham-prime-minister.html?utm_source=lootura.com) — 2026-07-17T12:50:10.000Z

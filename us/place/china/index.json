@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/china/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/china/index.json",
   "description": "Follow China, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-17T17:09:22.641Z",
+  "updatedAt": "2026-07-17T20:52:01.362Z",
   "aliases": [],
   "changes": [
     {
@@ -19,6 +19,26 @@
     {
       "title": "Mullin pledges to go after voter fraud after Trump revives election interference claims",
       "summary": "Homeland Security Secretary Markwayne Mullin spoke about election security a day after President Trump claimed during his primetime address that China interfered in the 2020 election. CBS News' Jake Rosen joins to discuss Mullin's remarks.",
+      "date": "2026-07-17"
+    },
+    {
+      "title": "China calls Trump's election interference claims \"pure fabrication\"",
+      "summary": "A spokesman for the Chinese Ministry of Foreign Affairs denied President Trump's claims of election interference in the 2020 election. CBS News foreign correspondent Anna Coren reports.",
+      "date": "2026-07-17"
+    },
+    {
+      "title": "Fact-checking Trump's address on China, the 2020 election and what documents show",
+      "summary": "President Donald Trump quoted years-old intelligence community documents, including some that had been declassified or partially redacted, without noting a distinction between what China may have planned versus what analysts say it did.",
+      "date": "2026-07-17"
+    },
+    {
+      "title": "Landslide in southwestern China kills at least 8 and leaves 34 missing",
+      "summary": "The landslide occurred around 9:08 a.m. on the outer edge of the Chongqing municipality, when massive amounts of rocks and soil washed downslope, burying more than 10 residential buildings, state broadcaster CCTV said.",
+      "date": "2026-07-17"
+    },
+    {
+      "title": "China warns of reciprocal countermeasures after U.S. shortens foreign journalist visas",
+      "summary": "The Trump administration announced Thursday it will drastically shorten visas for foreign journalists in the U.S. to 240 days, down from years, and cut those for Chinese journalists to only 90 days, raising concerns over press freedom in the United States and prompting China to warn of possible reciprocal countermeasur.",
       "date": "2026-07-17"
     },
     {
@@ -40,26 +60,6 @@
       "title": "Trump Uses Prime-Time Speech to Revive False Election Claims",
       "summary": "President Donald Trump used his prime-time speech Thursday to raise questions about election integrity in the build-up to November’s key midterms while reviving false claims about the 2020 election and asserting that China targeted his campaign. NBC’s Gabe Gutierrez reports for TODAY.",
       "date": "2026-07-17"
-    },
-    {
-      "title": "China's Xi calls for step up of global effort in AI, as US curbs squeeze China's tech access",
-      "summary": "American-led restrictions have blocked China from accessing some of the world's most advanced technologies, spurring China's efforts to build its own know-how and intensifying the tech race between the world's two biggest economies. (Image credit: Ng Han Guan).",
-      "date": "2026-07-17"
-    },
-    {
-      "title": "Philippines Condemns AI Video Posted by Chinese State Media Depicting It as a Monkey",
-      "summary": "It lodged a diplomatic complaint with Beijing over an A.I.-generated video centered on territorial disputes in the South China Sea.",
-      "date": "2026-07-17"
-    },
-    {
-      "title": "How Trump's election allegations against China could impact relations with U.S.",
-      "summary": "President Trump accused China of having a role in influencing the 2020 election during his speech about election interference. NBC News' Garrett Haake has more on how this could impact China's relationship with the U.S.",
-      "date": "2026-07-17"
-    },
-    {
-      "title": "How paper ballots make digital manipulation of results unlikely",
-      "summary": "NBC News’ Jane Timm analyzes President Trump’s claims about digital manipulation of ballot results in the U.S., as Trump said that the White House will declassify documents related to the 2020 election and alleged influence by China during his speech to the nation.",
-      "date": "2026-07-17"
     }
   ],
   "sources": [
@@ -70,11 +70,35 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
+      "title": "China calls Trump's election interference claims \"pure fabrication\"",
+      "url": "https://www.cbsnews.com/video/china-calls-trump-election-interference-claims-pure-fabrication/?utm_source=lootura.com",
+      "publishedAt": "2026-07-17T17:56:44.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
+    {
       "title": "US politicians push agencies to restrict research collaboration with China",
       "url": "https://www.nature.com/articles/d41586-026-02226-9?utm_source=lootura.com",
-      "publishedAt": "2026-07-17T17:09:27.473Z",
+      "publishedAt": "2026-07-17T20:52:05.085Z",
       "sourceId": "lootura-us-nature"
+    },
+    {
+      "title": "Fact-checking Trump's address on China, the 2020 election and what documents show",
+      "url": "https://www.pbs.org/newshour/politics/fact-checking-trumps-address-on-china-the-2020-election-and-what-documents-show?utm_source=lootura.com",
+      "publishedAt": "2026-07-17T20:20:23.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
+    },
+    {
+      "title": "Landslide in southwestern China kills at least 8 and leaves 34 missing",
+      "url": "https://www.pbs.org/newshour/world/landslide-in-southwestern-china-kills-at-least-8-and-leaves-34-missing?utm_source=lootura.com",
+      "publishedAt": "2026-07-17T18:16:49.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
+    },
+    {
+      "title": "China warns of reciprocal countermeasures after U.S. shortens foreign journalist visas",
+      "url": "https://www.pbs.org/newshour/politics/china-warns-of-reciprocal-countermeasures-after-u-s-shortens-foreign-journalist-visas?utm_source=lootura.com",
+      "publishedAt": "2026-07-17T17:25:32.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 6
 }

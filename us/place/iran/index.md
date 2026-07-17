@@ -3,20 +3,32 @@
 > Follow Iran, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-17T17:09:22.641Z
+- Updated: 2026-07-17T20:52:01.362Z
 - Canonical: https://atlas.lootura.com/us/place/iran
 
 ## Recent changes
 
-### Iranian bridges severely damaged after sixth night of U.S. strikes
-
-Bridges were severely damaged in Iran after the U.S. military said it completed its sixth consecutive night of strikes against the country. CENTCOM said in a statement posted on X that it targeted “coastal surveillance and air defense sites, military logistics infrastructure, and maritime capabilities.”.
-
-Date: 2026-07-17
-
 ### What a Times Reporter Saw in Iran, and Takeaways from Trump’s Speech on Election Security
 
 Plus, the Friday news quiz.
+
+Date: 2026-07-17
+
+### As U.S. strikes bridges in Iran, it targets a water desalination plant in Kuwait
+
+The United States expanded its airstrike campaign against Iran early Friday by hitting more bridges, energy sites and collapsing a tower at a key Iranian port.
+
+Date: 2026-07-17
+
+### Oil Prices Rise to Highest Level in a Month as Shipping in the Persian Gulf Nears a Halt
+
+Shipping traffic was at its lowest level in more than a month and oil prices moved higher as the Iran war continued to disrupt the supply of energy.
+
+Date: 2026-07-17
+
+### Iranian bridges severely damaged after sixth night of U.S. strikes
+
+Bridges were severely damaged in Iran after the U.S. military said it completed its sixth consecutive night of strikes against the country. CENTCOM said in a statement posted on X that it targeted “coastal surveillance and air defense sites, military logistics infrastructure, and maritime capabilities.”.
 
 Date: 2026-07-17
 
@@ -56,20 +68,8 @@ The Trump administration's notification to restart the war with Iran aims to res
 
 Date: 2026-07-16
 
-### U.S. citizen departs Iran after being barred from leaving for over a year
-
-A U.S.-Iranian woman who was trapped in Iran on allegations of espionage and collaborating with a hostile state that her attorney called "bogus" has departed the country, CBS News learned Wednesday.
-
-Date: 2026-07-16
-
-### U.S., Iran in a "new phase" of the conflict, retired Navy vice admiral explains
-
-U.S. Central Command confirmed it began a second wave of strikes against Iran on Wednesday, following a round of attacks earlier in the day. Retired Navy Vice Adm. Robert Murrett joins CBS News to discuss.
-
-Date: 2026-07-16
-
 ## Sources
 
-- [Iranian bridges severely damaged after sixth night of U.S. strikes](https://www.nbcnews.com/video/iranian-bridges-severely-damaged-after-sixth-night-of-u-s-strikes-266827845917?utm_source=lootura.com) — 2026-07-17T07:53:48.000Z
-- [US hits civilian infrastructure as it expands strikes against Iran](https://www.theguardian.com/world/2026/jul/17/us-marines-board-ship-gulf-oman-expanded-airstrikes-iran?utm_source=lootura.com) — 2026-07-17T16:06:19.000Z
+- [As U.S. strikes bridges in Iran, it targets a water desalination plant in Kuwait](https://www.pbs.org/newshour/world/as-u-s-strikes-bridges-in-iran-it-targets-a-water-desalination-plant-in-kuwait?utm_source=lootura.com) — 2026-07-17T19:41:09.000Z
 - [What a Times Reporter Saw in Iran, and Takeaways from Trump’s Speech on Election Security](https://www.nytimes.com/2026/07/17/podcasts/the-headlines/iran-trump-speech-election-security.html?utm_source=lootura.com) — 2026-07-17T11:24:48.000Z
+- [Oil Prices Rise to Highest Level in a Month as Shipping in the Persian Gulf Nears a Halt](https://www.nytimes.com/2026/07/17/business/strait-hormuz-iran-oil-prices.html?utm_source=lootura.com) — 2026-07-17T19:28:52.000Z

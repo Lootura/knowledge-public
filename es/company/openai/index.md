@@ -3,10 +3,16 @@
 > Sigue la actividad de OpenAI en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: company
-- Actualizado: 2026-07-17T13:22:29.680Z
+- Actualizado: 2026-07-17T20:51:38.016Z
 - Canonical: https://atlas.lootura.com/es/company/openai
 
 ## Cambios recientes
+
+### Apple envía cartas de advertencia a decenas de exempleados que ahora trabajan en OpenAI
+
+Apple ha decidido llevar su disputa legal con OpenAI a un terreno mucho más personal. El gigante tecnológico envió cartas de advertencia a decenas de extrabajadores que hoy forman parte de la plantilla de la empresa de IA. La medida llega a unos días de que Apple presentara una demanda en la que acusa a OpenAI de robar.
+
+Date: 2026-07-17
 
 ### Discovered by Atlas
 
@@ -28,4 +34,4 @@ Date: 2026-07-15
 
 ## Fuentes
 
-No public source links.
+- [Apple envía cartas de advertencia a decenas de exempleados que ahora trabajan en OpenAI](https://hipertextual.com/apple/apple-advertencia-exempleados-openai-demanda/?utm_source=lootura.com) — 2026-07-17T18:25:00.000Z

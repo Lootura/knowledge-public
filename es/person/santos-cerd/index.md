@@ -3,7 +3,7 @@
 > Sigue la actividad de Santos Cerd en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-17T17:09:01.091Z
+- Actualizado: 2026-07-17T20:51:38.016Z
 - Canonical: https://atlas.lootura.com/es/person/santos-cerd
 
 ## Cambios recientes
@@ -16,4 +16,4 @@ Date: 2026-07-17
 
 ## Fuentes
 
-- [La UCO detecta que Santos Cerdán obtuvo sus mayores beneficios cuando José Luis Ábalos era ministro de Transportes](https://www.20minutos.es/nacional/uco-detecta-que-santos-cerdan-obtuvo-sus-mayores-beneficios-cuando-jose-luis-abalos-era-ministro-transportes_7016035_0.html?utm_source=lootura.com) — 2026-07-17T15:10:10.000Z
+- [La esposa de Cerdán fue contratada por un "entramado" de su socio y despedida tras la detención de Koldo, según la UCO](https://www.20minutos.es/nacional/esposa-cerdan-fue-contratada-por-un-entramado-su-socio-despedida-tras-detencion-koldo-segun-uco_7016093_0.html?utm_source=lootura.com) — 2026-07-17T17:42:27.000Z

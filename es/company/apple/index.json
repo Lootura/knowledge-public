@@ -8,11 +8,21 @@
   "markdownUrl": "https://atlas.lootura.com/es/company/apple/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/company/apple/index.json",
   "description": "Sigue la actividad de Apple en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-17T02:26:45.462Z",
+  "updatedAt": "2026-07-17T20:51:38.016Z",
   "aliases": [
     "Apple Inc"
   ],
   "changes": [
+    {
+      "title": "Apple Music sube de precio: esto pagarás a partir de hoy",
+      "summary": "Malas noticias para los usuarios de Apple Music : desde hoy, el servicio es más caro. La plataforma de música en streaming de la manzana acaba de subir de precio y España se encuentra entre los países afectados. Es el primer encarecimiento que el servicio sufre desde 2022 e impacta tanto en el plan Individual, como en.",
+      "date": "2026-07-17"
+    },
+    {
+      "title": "Apple envía cartas de advertencia a decenas de exempleados que ahora trabajan en OpenAI",
+      "summary": "Apple ha decidido llevar su disputa legal con OpenAI a un terreno mucho más personal. El gigante tecnológico envió cartas de advertencia a decenas de extrabajadores que hoy forman parte de la plantilla de la empresa de IA. La medida llega a unos días de que Apple presentara una demanda en la que acusa a OpenAI de robar.",
+      "date": "2026-07-17"
+    },
     {
       "title": "Gracias, Apple. Por fin has llevado a los AirPods la función MÁS pedida desde hace 10 años",
       "summary": "Apple acaba de darnos una de esas novedades que muchos ya habíamos dado por perdidas con la compañía. Sin avisar a nadie, ha lanzado una versión beta del software de los AirPods que incluye un nuevo modo de personalización que miles de usuarios llevan años pidiendo. No es cualquier cosa: se trata de un básico cuando co.",
@@ -52,18 +62,21 @@
       "title": "Olvídate de un iPhone 18 sin subida de precio: el plan de Apple ha fallado. Puedes ir ahorrando (más)",
       "summary": "Al parecer, dentro de las pésimas noticias sobre los precios de la memoria RAM , compañías como Apple tenían un as guardado en la manga para paliar las subidas drásticas en sus productos. Pues bien, hoy no solo hemos conocido cuál era ese plan maravilloso, también sabemos que la de Cupertino no podrá llevarlo a cabo. E.",
       "date": "2026-07-13"
-    },
-    {
-      "title": "Ni Quick Share, ni AirDrop: esta app para transferir archivos es gratis, multiplataforma y funciona mucho más rápido",
-      "summary": "Desde que se abrió la interoperabilidad entre Quick Share y AirDrop , muchos han celebrado disponer de una mayor versatilidad al momento de transferir archivos entre distintos dispositivos sin importar la marca o el sistema operativo. Sin embargo, las tecnologías de Google y Apple están lejos de ser las mejores al mome.",
-      "date": "2026-07-12"
-    },
-    {
-      "title": "Hacen lo mismo y cuestan mucho menos: las 3 mejores alternativas al AirTag de Apple",
-      "summary": "El AirTag es uno de los mejores productos de Apple . Es relativamente económico, muy útil (especialmente si tienes un iPhone) y, además, hace tan solo unos meses mejoraba con una segunda generación mucho más precisa y con mejor sonido. Pero el localizador de objetos de la compañía de Cupertino no es el único que se ven.",
-      "date": "2026-07-11"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Apple Music sube de precio: esto pagarás a partir de hoy",
+      "url": "https://hipertextual.com/apple/apple-music-sube-de-precio-julio-2026/?utm_source=lootura.com",
+      "publishedAt": "2026-07-17T20:00:44.000Z",
+      "sourceId": "lootura-es-hipertextual"
+    },
+    {
+      "title": "Apple envía cartas de advertencia a decenas de exempleados que ahora trabajan en OpenAI",
+      "url": "https://hipertextual.com/apple/apple-advertencia-exempleados-openai-demanda/?utm_source=lootura.com",
+      "publishedAt": "2026-07-17T18:25:00.000Z",
+      "sourceId": "lootura-es-hipertextual"
+    }
+  ],
+  "evidenceCount": 2
 }

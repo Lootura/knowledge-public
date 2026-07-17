@@ -3,7 +3,7 @@
 > Sigue la actividad de Artificial intelligence en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: topic
-- Actualizado: 2026-07-17T17:09:01.091Z
+- Actualizado: 2026-07-17T20:51:38.016Z
 - Canonical: https://atlas.lootura.com/es/topic/artificial-intelligence
 
 ## Cambios recientes
@@ -40,4 +40,4 @@ Date: 2026-07-10
 
 ## Fuentes
 
-- [Los inversores cuestionan las valoraciones de la IA y agitan las Bolsas](https://cincodias.elpais.com/mercados-financieros/2026-07-17/la-bolsa-y-el-ibex-35.html?utm_source=lootura.com) — 2026-07-17T16:13:26.000Z
+- [China lanza Kimi K3, el modelo de IA abierta más grande del mundo](https://www.abc.es/tecnologia/china-lanza-kimi-modelo-ia-abierta-grande-20260717221042-nt_amp.html?utm_source=lootura.com) — 2026-07-17T20:10:43.000Z

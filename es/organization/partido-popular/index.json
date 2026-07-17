@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/partido-popular/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/partido-popular/index.json",
   "description": "Sigue la actividad de Partido Popular en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-17T17:09:01.091Z",
+  "updatedAt": "2026-07-17T20:51:38.016Z",
   "aliases": [
     "PP"
   ],
@@ -16,6 +16,11 @@
     {
       "title": "El viceconsejero de Vox en la Junta fue falangista, considera un peligro las autonomías y cree falsa la convivencia de Al-Ándalus",
       "summary": "Rafael Sánchez Saus, recién nombrado viceconsejero de Turismo, Justicia, Desregulación y Administración Local, carece de experiencia administrativa en las áreas que el PP ha entregado a Vox en el pacto para formar el Gobierno de la Junta de Andalucía y fue falangista, una ideología que dice que ahora no comparte. En el.",
+      "date": "2026-07-17"
+    },
+    {
+      "title": "Rajoy alerta del «déficit democrático»: «Vivimos la mayor polarización desde 1978»",
+      "summary": "El expresidente del Gobierno Mariano Rajoy ha advertido del «riesgo existente» en estos momentos debido al «déficit democrático tan grande» que hay en la actualidad y ha alertado sobre «la mayor polarización del Gobierno desde 1978 ». Rajoy ha participado en la Conferencia Política del PP ibicenco protagonizando el diá.",
       "date": "2026-07-17"
     },
     {
@@ -57,11 +62,6 @@
       "title": "Puigdemont: vuelve, a casa vuelve, por Navidad",
       "summary": "Si esperan que el PP convoque un carrusel de airadas manifestaciones por la sentencia europea sobre la amnistía, aguarden sentados. Como en casi todas las decisiones difíciles de la historia reciente de la democracia española, la izquierda decide y paga la cuenta, la derecha reza y espera llevarse los beneficios Claves.",
       "date": "2026-07-16"
-    },
-    {
-      "title": "El PP respeta el fallo del Tribunal, pero carga contra Sánchez: “Ningún presidente debe cambiar poder por impunidad”",
-      "summary": "Tras l a decisión del Tribunal de Justicia de la Unión Europea (TJUE) de avalar la ley de amnistía , que zanja el debate jurídico, el Partido Popular ha tratado de reorientar su rechazo a la norma al terreno político y moral. Los populares han declarado su “respeto absoluto al fallo del Tribunal” en un breve comunicado.",
-      "date": "2026-07-16"
     }
   ],
   "sources": [
@@ -70,7 +70,13 @@
       "url": "https://elpais.com/espana/andalucia/2026-07-17/el-viceconsejero-de-vox-en-la-junta-fue-falangista-considera-un-peligro-las-autonomias-y-cree-falsa-la-convivencia-de-al-andalus.html?utm_source=lootura.com",
       "publishedAt": "2026-07-17T10:38:59.000Z",
       "sourceId": "lootura-es-el-pais"
+    },
+    {
+      "title": "Rajoy alerta del «déficit democrático»: «Vivimos la mayor polarización desde 1978»",
+      "url": "https://theobjective.com/espana/politica/2026-07-17/rajoy-deficit-democratico-polarizacion/?utm_source=lootura.com",
+      "publishedAt": "2026-07-17T19:55:31.000Z",
+      "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 2
 }

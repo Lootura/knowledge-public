@@ -3,10 +3,16 @@
 > Follow New York, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-17T17:09:22.641Z
+- Updated: 2026-07-17T20:52:01.362Z
 - Canonical: https://atlas.lootura.com/us/place/new-york
 
 ## Recent changes
+
+### Trump Threatens Canada With Tariffs for Wildfire Smoke Over U.S.
+
+The president said on Friday in a social media post that Canada was failing to manage its wildfire response as smoke has blanketed U.S. cities including New York and Chicago.
+
+Date: 2026-07-17
 
 ### Canadian wildfire smoke linked to fewer bird sightings in New York State
 
@@ -62,12 +68,6 @@ Building new data centers in New York will be paused for a year in order to allo
 
 Date: 2026-07-14
 
-### 'Gus' the T. rex fetches record $50.1 mn at US auction
-
-A Tyrannosaurus rex skeleton nicknamed "Gus" sold Tuesday for $50.1 million at Sotheby's in New York, making it the most valuable dinosaur fossil bought at auction after a 10-minute battle between seven bidders.
-
-Date: 2026-07-14
-
 ## Sources
 
-- [Canadian wildfire smoke linked to fewer bird sightings in New York State](https://phys.org/news/2026-07-canadian-wildfire-linked-bird-sightings.html?utm_source=lootura.com) — 2026-07-17T17:00:02.000Z
+- [Trump Threatens Canada With Tariffs for Wildfire Smoke Over U.S.](https://www.nytimes.com/2026/07/17/weather/wildfire-smoke-canada-us-politics.html?utm_source=lootura.com) — 2026-07-17T20:42:58.000Z

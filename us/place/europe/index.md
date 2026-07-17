@@ -70,4 +70,4 @@ Date: 2026-07-13
 
 ## Sources
 
-- [Stocks Sink on Anxiety About Tech and A.I. Spending](https://www.nytimes.com/2026/07/17/business/stocks-ai-tech-wall-street.html?utm_source=lootura.com) — 2026-07-17T14:52:26.000Z
+- [Stocks Sink on Anxiety About Tech and A.I. Spending](https://www.nytimes.com/2026/07/17/business/stocks-ai-tech-wall-street.html?utm_source=lootura.com) — 2026-07-17T20:17:15.000Z

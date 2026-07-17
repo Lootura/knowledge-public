@@ -1,0 +1,80 @@
+{
+  "id": "usa-lindsey-graham",
+  "name": "Lindsey Graham",
+  "type": "person",
+  "locale": "en",
+  "canonicalPath": "/us/person/lindsey-graham",
+  "canonicalUrl": "https://atlas.lootura.com/us/person/lindsey-graham",
+  "markdownUrl": "https://atlas.lootura.com/us/person/lindsey-graham/index.md",
+  "jsonUrl": "https://atlas.lootura.com/us/person/lindsey-graham/index.json",
+  "description": "Follow Lindsey Graham, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
+  "updatedAt": "2026-07-17T20:52:01.362Z",
+  "aliases": [],
+  "changes": [
+    {
+      "title": "Trump encourages Darline Graham to run for Lindsey Graham's seat",
+      "summary": "Darline Graham indicated in a White House meeting Thursday that she's weighing a bid, CBS News confirmed. A day later, President Trump wrote on Truth Social: \"RUN, DARLINE, RUN! \".",
+      "date": "2026-07-17"
+    },
+    {
+      "title": "Trump urges Darline Graham to run for full Senate term as funeral planned for her brother",
+      "summary": "President Donald Trump said Friday that Darline Graham, the sister of the late Lindsey Graham, has his support to run for a full term to replace her brother in the U.S. Senate.",
+      "date": "2026-07-17"
+    },
+    {
+      "title": "Darline Graham in serious discussions about running for Lindsey Graham's seat",
+      "summary": "Darline Graham indicated in a White House meeting Thursday that she's weighing a bid, CBS News confirmed.",
+      "date": "2026-07-17"
+    },
+    {
+      "title": "Who could replace Lindsey Graham in the Senate after his sudden death?",
+      "summary": "South Carolina Sen. Lindsey Graham's sudden death late Saturday has set off a scramble for who will succeed him in the Senate.",
+      "date": "2026-07-16"
+    },
+    {
+      "title": "Tim Scott doesn't rule out Darline Graham running for her brother Lindsey's Senate seat",
+      "summary": "With this year's race to succeed Lindsey Graham in the Senate still wide-open, GOP Sen. Tim Scott suggested the late senator's interim replacement — his sister, Darline Graham — could be one candidate.",
+      "date": "2026-07-16"
+    },
+    {
+      "title": "Lindsey Graham’s Death Leaves Fate of Russia Sanctions Bill Uncertain",
+      "summary": "Supporters in both parties hope the measure to penalize Russia, championed by Senator Lindsey Graham, will gain momentum in his honor.",
+      "date": "2026-07-14"
+    },
+    {
+      "title": "Lindsey Graham’s Sister, Darline Graham, Is Sworn In to Finish His Senate Term",
+      "summary": "Three days after Lindsey Graham died, his younger sister Darline Graham took the oath to hold his seat until his term ends in January.",
+      "date": "2026-07-14"
+    },
+    {
+      "title": "Darline Graham sworn in as senator after her brother's death",
+      "summary": "Darline Graham, the sister of the late South Carolina Sen. Lindsey Graham, was sworn in by the Senate on Tuesday afternoon — filling the seat just three days after her brother's death.",
+      "date": "2026-07-14"
+    },
+    {
+      "title": "South Carolina's governor appoints Lindsey Graham's sister to serve out his term",
+      "summary": "South Carolina Gov. Henry McMaster says he is appointing Darline Graham to finish the term of her late brother, former Republican Sen. Lindsey Graham, who died in office Saturday at age 71.",
+      "date": "2026-07-14"
+    },
+    {
+      "title": "Trump says he doesn't see a lot of \"evil\" in Lindsey Graham's death when asked about FBI probe",
+      "summary": "President Trump took questions in the Oval Office and commented on an apparent FBI probe into Lindsey Graham's death, saying he doesn't see a lot of \"evil\" behind the sudden incident.",
+      "date": "2026-07-14"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Trump encourages Darline Graham to run for Lindsey Graham's seat",
+      "url": "https://www.cbsnews.com/news/darline-graham-us-senate-south-carolina-lindsey-graham/?utm_source=lootura.com",
+      "publishedAt": "2026-07-17T19:44:10.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
+    {
+      "title": "Trump urges Darline Graham to run for full Senate term as funeral planned for her brother",
+      "url": "https://www.pbs.org/newshour/politics/trump-urges-darline-graham-to-run-for-full-senate-term-as-funeral-planned-for-her-brother?utm_source=lootura.com",
+      "publishedAt": "2026-07-17T20:30:54.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
+    }
+  ],
+  "evidenceCount": 2
+}

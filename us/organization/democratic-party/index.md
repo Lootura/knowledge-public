@@ -3,7 +3,7 @@
 > Follow Democratic Party, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-07-17T17:09:22.641Z
+- Updated: 2026-07-17T20:52:01.362Z
 - Canonical: https://atlas.lootura.com/us/organization/democratic-party
 
 ## Recent changes
@@ -11,6 +11,12 @@
 ### US politicians push agencies to restrict research collaboration with China
 
 Nature, Published online: 16 July 2026; doi:10.1038/d41586-026-02226-9 Republicans and Democrats worry about research theft and exploitation — but don’t agree on how to solve the problem.
+
+Date: 2026-07-17
+
+### As competitive Senate map emerges, both Democrats and Republicans see a path to win
+
+More than halfway through the primary elections, the map of competitive Senate races is becoming clearer, though there are still outstanding races to watch.
 
 Date: 2026-07-17
 
@@ -62,14 +68,7 @@ The measure failed, but the level of support among Democrats exposed a stark shi
 
 Date: 2026-07-15
 
-### Senators Grill Justice Dept. Officials on New York Times Subpoenas
-
-Democrats questioned the acting attorney general, Todd Blanche, and a U.S. attorney about subpoenas issued to Times journalists who reported on security concerns with the president’s new plane.
-
-Date: 2026-07-15
-
 ## Sources
 
-- [US politicians push agencies to restrict research collaboration with China](https://www.nature.com/articles/d41586-026-02226-9?utm_source=lootura.com) — 2026-07-17T17:09:27.473Z
-- [Republican campaigns see immigration as a winning issue for midterms](https://www.npr.org/2026/07/17/g-s1-133702/midterm-election-ads-immigration-republicans-democrats?utm_source=lootura.com) — 2026-07-17T09:00:00.000Z
-- [Republicans in North Carolina Try to Reduce Early Voting on Sundays and on Campuses](https://www.nytimes.com/2026/07/17/us/politics/republicans-in-north-carolina-try-to-reduce-early-voting-on-sundays-and-on-campuses.html?utm_source=lootura.com) — 2026-07-17T09:01:29.000Z
+- [US politicians push agencies to restrict research collaboration with China](https://www.nature.com/articles/d41586-026-02226-9?utm_source=lootura.com) — 2026-07-17T20:52:05.085Z
+- [As competitive Senate map emerges, both Democrats and Republicans see a path to win](https://www.npr.org/2026/07/17/nx-s1-5875199/as-competitive-senate-map-emerges-both-democrats-and-republicans-see-a-path-to-win?utm_source=lootura.com) — 2026-07-17T20:43:38.000Z

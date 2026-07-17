@@ -3,10 +3,22 @@
 > Sigue la actividad de Apple en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: company
-- Actualizado: 2026-07-17T02:26:45.462Z
+- Actualizado: 2026-07-17T20:51:38.016Z
 - Canonical: https://atlas.lootura.com/es/company/apple
 
 ## Cambios recientes
+
+### Apple Music sube de precio: esto pagarás a partir de hoy
+
+Malas noticias para los usuarios de Apple Music : desde hoy, el servicio es más caro. La plataforma de música en streaming de la manzana acaba de subir de precio y España se encuentra entre los países afectados. Es el primer encarecimiento que el servicio sufre desde 2022 e impacta tanto en el plan Individual, como en.
+
+Date: 2026-07-17
+
+### Apple envía cartas de advertencia a decenas de exempleados que ahora trabajan en OpenAI
+
+Apple ha decidido llevar su disputa legal con OpenAI a un terreno mucho más personal. El gigante tecnológico envió cartas de advertencia a decenas de extrabajadores que hoy forman parte de la plantilla de la empresa de IA. La medida llega a unos días de que Apple presentara una demanda en la que acusa a OpenAI de robar.
+
+Date: 2026-07-17
 
 ### Gracias, Apple. Por fin has llevado a los AirPods la función MÁS pedida desde hace 10 años
 
@@ -56,18 +68,7 @@ Al parecer, dentro de las pésimas noticias sobre los precios de la memoria RAM 
 
 Date: 2026-07-13
 
-### Ni Quick Share, ni AirDrop: esta app para transferir archivos es gratis, multiplataforma y funciona mucho más rápido
-
-Desde que se abrió la interoperabilidad entre Quick Share y AirDrop , muchos han celebrado disponer de una mayor versatilidad al momento de transferir archivos entre distintos dispositivos sin importar la marca o el sistema operativo. Sin embargo, las tecnologías de Google y Apple están lejos de ser las mejores al mome.
-
-Date: 2026-07-12
-
-### Hacen lo mismo y cuestan mucho menos: las 3 mejores alternativas al AirTag de Apple
-
-El AirTag es uno de los mejores productos de Apple . Es relativamente económico, muy útil (especialmente si tienes un iPhone) y, además, hace tan solo unos meses mejoraba con una segunda generación mucho más precisa y con mejor sonido. Pero el localizador de objetos de la compañía de Cupertino no es el único que se ven.
-
-Date: 2026-07-11
-
 ## Fuentes
 
-No public source links.
+- [Apple Music sube de precio: esto pagarás a partir de hoy](https://hipertextual.com/apple/apple-music-sube-de-precio-julio-2026/?utm_source=lootura.com) — 2026-07-17T20:00:44.000Z
+- [Apple envía cartas de advertencia a decenas de exempleados que ahora trabajan en OpenAI](https://hipertextual.com/apple/apple-advertencia-exempleados-openai-demanda/?utm_source=lootura.com) — 2026-07-17T18:25:00.000Z

@@ -3,7 +3,7 @@
 > Sigue la actividad de Partido Popular en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-17T17:09:01.091Z
+- Actualizado: 2026-07-17T20:51:38.016Z
 - Canonical: https://atlas.lootura.com/es/organization/partido-popular
 
 ## Cambios recientes
@@ -11,6 +11,12 @@
 ### El viceconsejero de Vox en la Junta fue falangista, considera un peligro las autonomías y cree falsa la convivencia de Al-Ándalus
 
 Rafael Sánchez Saus, recién nombrado viceconsejero de Turismo, Justicia, Desregulación y Administración Local, carece de experiencia administrativa en las áreas que el PP ha entregado a Vox en el pacto para formar el Gobierno de la Junta de Andalucía y fue falangista, una ideología que dice que ahora no comparte. En el.
+
+Date: 2026-07-17
+
+### Rajoy alerta del «déficit democrático»: «Vivimos la mayor polarización desde 1978»
+
+El expresidente del Gobierno Mariano Rajoy ha advertido del «riesgo existente» en estos momentos debido al «déficit democrático tan grande» que hay en la actualidad y ha alertado sobre «la mayor polarización del Gobierno desde 1978 ». Rajoy ha participado en la Conferencia Política del PP ibicenco protagonizando el diá.
 
 Date: 2026-07-17
 
@@ -62,12 +68,7 @@ Si esperan que el PP convoque un carrusel de airadas manifestaciones por la sent
 
 Date: 2026-07-16
 
-### El PP respeta el fallo del Tribunal, pero carga contra Sánchez: “Ningún presidente debe cambiar poder por impunidad”
-
-Tras l a decisión del Tribunal de Justicia de la Unión Europea (TJUE) de avalar la ley de amnistía , que zanja el debate jurídico, el Partido Popular ha tratado de reorientar su rechazo a la norma al terreno político y moral. Los populares han declarado su “respeto absoluto al fallo del Tribunal” en un breve comunicado.
-
-Date: 2026-07-16
-
 ## Fuentes
 
 - [El viceconsejero de Vox en la Junta fue falangista, considera un peligro las autonomías y cree falsa la convivencia de Al-Ándalus](https://elpais.com/espana/andalucia/2026-07-17/el-viceconsejero-de-vox-en-la-junta-fue-falangista-considera-un-peligro-las-autonomias-y-cree-falsa-la-convivencia-de-al-andalus.html?utm_source=lootura.com) — 2026-07-17T10:38:59.000Z
+- [Rajoy alerta del «déficit democrático»: «Vivimos la mayor polarización desde 1978»](https://theobjective.com/espana/politica/2026-07-17/rajoy-deficit-democratico-polarizacion/?utm_source=lootura.com) — 2026-07-17T19:55:31.000Z
