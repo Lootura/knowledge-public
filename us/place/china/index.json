@@ -8,9 +8,19 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/china/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/china/index.json",
   "description": "Follow China, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-17T13:22:45.540Z",
+  "updatedAt": "2026-07-17T17:09:22.641Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "US politicians push agencies to restrict research collaboration with China",
+      "summary": "Nature, Published online: 16 July 2026; doi:10.1038/d41586-026-02226-9 Republicans and Democrats worry about research theft and exploitation — but don’t agree on how to solve the problem.",
+      "date": "2026-07-17"
+    },
+    {
+      "title": "Mullin pledges to go after voter fraud after Trump revives election interference claims",
+      "summary": "Homeland Security Secretary Markwayne Mullin spoke about election security a day after President Trump claimed during his primetime address that China interfered in the 2020 election. CBS News' Jake Rosen joins to discuss Mullin's remarks.",
+      "date": "2026-07-17"
+    },
     {
       "title": "Trump administration to declassify documents relating to China and U.S. elections",
       "summary": "President Donald Trump addressed the nation from the White House, announcing that the administration will declassify documents related to the 2020 election and alleged influence by China.",
@@ -24,11 +34,6 @@
     {
       "title": "How paper ballots make digital manipulation of results unlikely",
       "summary": "NBC News’ Jane Timm analyzes President Trump’s claims about digital manipulation of ballot results in the U.S., as Trump said that the White House will declassify documents related to the 2020 election and alleged influence by China during his speech to the nation.",
-      "date": "2026-07-17"
-    },
-    {
-      "title": "US politicians push agencies to restrict research collaboration with China",
-      "summary": "Nature, Published online: 16 July 2026; doi:10.1038/d41586-026-02226-9 Republicans and Democrats worry about research theft and exploitation — but don’t agree on how to solve the problem.",
       "date": "2026-07-17"
     },
     {
@@ -55,44 +60,21 @@
       "title": "How paper ballots make digital manipulation of results unlikely",
       "summary": "NBC News’ Jane Timm analyzes President Trump’s claims about digital manipulation of ballot results in the U.S., as Trump said that the White House will declassify documents related to the 2020 election and alleged influence by China during his speech to the nation.",
       "date": "2026-07-17"
-    },
-    {
-      "title": "China’s Economy Grows at Slowest Pace in Years",
-      "summary": "Economic growth of 4.3 percent in the second quarter, versus the same period last year, reflected a broad slump outside of the country’s export-oriented manufacturing might.",
-      "date": "2026-07-15"
     }
   ],
   "sources": [
     {
-      "title": "Watch: Trump speaks on elections, alleges Chinese access to voter data | Special Report",
-      "url": "https://www.cbsnews.com/video/watch-trump-speaks-on-elections-alleges-chinese-access-to-voter-data-special-report/?utm_source=lootura.com",
-      "publishedAt": "2026-07-17T02:27:00.000Z",
+      "title": "Mullin pledges to go after voter fraud after Trump revives election interference claims",
+      "url": "https://www.cbsnews.com/video/mullin-pledges-to-go-after-voter-fraud-trump-revives-election-interference-claims/?utm_source=lootura.com",
+      "publishedAt": "2026-07-17T16:27:13.000Z",
       "sourceId": "lootura-us-cbs-news"
     },
     {
       "title": "US politicians push agencies to restrict research collaboration with China",
       "url": "https://www.nature.com/articles/d41586-026-02226-9?utm_source=lootura.com",
-      "publishedAt": "2026-07-17T13:22:49.286Z",
+      "publishedAt": "2026-07-17T17:09:27.473Z",
       "sourceId": "lootura-us-nature"
-    },
-    {
-      "title": "Trump administration to declassify documents relating to China and U.S. elections",
-      "url": "https://www.nbcnews.com/video/trump-administration-to-declassify-documents-relating-to-china-and-u-s-elections-266817605523?utm_source=lootura.com",
-      "publishedAt": "2026-07-17T01:31:09.000Z",
-      "sourceId": "lootura-us-nbc-news"
-    },
-    {
-      "title": "How paper ballots make digital manipulation of results unlikely",
-      "url": "https://www.nbcnews.com/video/how-paper-ballots-make-digital-manipulation-of-results-unlikely-266817605727?utm_source=lootura.com",
-      "publishedAt": "2026-07-17T02:02:40.000Z",
-      "sourceId": "lootura-us-nbc-news"
-    },
-    {
-      "title": "Trump Uses Prime-Time Speech to Revive False Election Claims",
-      "url": "https://www.today.com/video/trump-revives-false-election-claims-ahead-of-crucial-midterms-266832965531?utm_source=lootura.com",
-      "publishedAt": "2026-07-17T11:19:29.000Z",
-      "sourceId": "lootura-us-nbc-news-politics"
     }
   ],
-  "evidenceCount": 5
+  "evidenceCount": 2
 }

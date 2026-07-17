@@ -3,10 +3,16 @@
 > Follow Ukraine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-17T13:22:45.540Z
+- Updated: 2026-07-17T17:09:22.641Z
 - Canonical: https://atlas.lootura.com/us/place/ukraine
 
 ## Recent changes
+
+### Ukraine fights under an interim defense chief after Zelenskyy's contested government shake-up
+
+Ukraine fought Russia's more than 4-year-old invasion under an interim defense minister Friday, a day after a government reshuffle exposed a deep split between the military's old guard and young innovators over how to fight the war.
+
+Date: 2026-07-17
 
 ### A Russian Political Battle Ends With a Visit From Masked Men
 
@@ -62,13 +68,7 @@ Mr. Fedorov became the youthful face of Ukraine’s successful drone warfare pro
 
 Date: 2026-07-16
 
-### How drones are reshaping modern warfare in Ukraine, Middle East
-
-Drones have become a defining feature of the conflict between Russia and Ukraine. They.
-
-Date: 2026-07-16
-
 ## Sources
 
+- [Ukraine fights under an interim defense chief after Zelenskyy's contested government shake-up](https://www.pbs.org/newshour/world/ukraine-fights-under-an-interim-defense-chief-after-zelenskyys-contested-government-shake-up?utm_source=lootura.com) — 2026-07-17T15:47:54.000Z
 - [Ukraine Was on a Roll. Then a Clash Over War Strategy Exploded Into View.](https://www.nytimes.com/2026/07/16/world/europe/ukraine-military-defense-minister-drones.html?utm_source=lootura.com) — 2026-07-16T22:01:29.000Z
-- [A Russian Political Battle Ends With a Visit From Masked Men](https://www.nytimes.com/2026/07/17/world/europe/russia-politics-election-nadezhdin.html?utm_source=lootura.com) — 2026-07-17T13:02:30.000Z

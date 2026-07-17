@@ -8,19 +8,29 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/pedro-sanchez/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/pedro-sanchez/index.json",
   "description": "Sigue la actividad de Pedro Sánchez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-17T13:22:29.680Z",
+  "updatedAt": "2026-07-17T17:09:01.091Z",
   "aliases": [
     "Sánchez"
   ],
   "changes": [
     {
-      "title": "Bruselas reprende a España por no reformar el sistema de elección del CGPJ pese a los múltiples requerimientos",
-      "summary": "La Comisión Europea ha vuelto a instar al Gobierno de Pedro Sánchez a impulsar la reforma del sistema de elección del Consejo General del Poder Judicial , para que doce de sus vocales sean elegidos por los propios jueces. Se trata de una recomendación constante en los informes sobre el Estado de derecho que el órgano c.",
+      "title": "La Comisión Europea ve “avances limitados” en el plan anticorrupción de Sánchez y reclama más reformas",
+      "summary": "La Comisión Europea avisa de que España solo ha logrado “avances limitados” en sus reformas para luchar contra la corrupción y que el plan aprobado por el Gobierno de Pedro Sánchez aún no se ha implementado. En su informe sobre el cumplimiento en 2025 del Estado de derecho de la Unión Europea hecho publico este viernes.",
       "date": "2026-07-17"
     },
     {
-      "title": "La Comisión Europea ve “avances limitados” en el plan anticorrupción de Sánchez y reclama más reformas",
-      "summary": "La Comisión Europea avisa de que España solo ha logrado “avances limitados” en sus reformas para luchar contra la corrupción y que el plan aprobado por el Gobierno de Pedro Sánchez aún no se ha implementado. En su informe sobre el cumplimiento en 2025 del Estado de derecho de la Unión Europea hecho publico este viernes.",
+      "title": "La UCO dice que los ingresos de Cerdán se dispararon en la «etapa ministerial» de Ábalos y tras su ascenso en el PSOE",
+      "summary": "La Unidad Central Operativa (UCO) de la Guardia Civil ha revelado que el que fuera mano derecha de Pedro Sánchez Santos Cerdán vio como sus ingresos se dispararon coincidiendo con la «etapa ministerial» del que fuera responsable de Transportes José Luis Ábalos y tras sustituir al mismo como secretario de Organización d.",
+      "date": "2026-07-17"
+    },
+    {
+      "title": "Bruselas desmiente el victimismo de Sánchez: no hay reformas y sí hay corruptos",
+      "summary": "La regeneración democrática fue el principal compromiso político con el que Pedro Sánchez llegó a La Moncloa tras la moción de censura de 2018. Ocho años después, la Comisión Europea devuelve al Gobierno una fotografía muy distinta de la que pretende proyectar incluso en el ámbito estrictamente legislativo: España ha a.",
+      "date": "2026-07-17"
+    },
+    {
+      "title": "Bruselas reprende a España por no reformar el sistema de elección del CGPJ pese a los múltiples requerimientos",
+      "summary": "La Comisión Europea ha vuelto a instar al Gobierno de Pedro Sánchez a impulsar la reforma del sistema de elección del Consejo General del Poder Judicial , para que doce de sus vocales sean elegidos por los propios jueces. Se trata de una recomendación constante en los informes sobre el Estado de derecho que el órgano c.",
       "date": "2026-07-17"
     },
     {
@@ -52,23 +62,13 @@
       "title": "La condena de Urdangarín servirá para juzgar a Begoña Gómez por usar su «vínculo matrimonial» para dirigir la cátedra de la Complutense",
       "summary": "La esposa de Pedro Sánchez se sentará en el banquillo de los acusados, a la vuelta del verano, por malversación y tráfico de influencias, tras prev...",
       "date": "2026-07-17"
-    },
-    {
-      "title": "El primer documental sobre Ángela Figuera busca fondos para completar la producción",
-      "summary": "La escritora murciana María Sánchez-Saorín dirige 'Ángela. Una mujer de barro', que reivindica su lugar en la poesía.",
-      "date": "2026-07-16"
-    },
-    {
-      "title": "El DAO niega ante el juez presiones a la UCO y que les ordenase \"ponerse de perfil\" con la investigación del hermano de Pedro Sánchez",
-      "summary": "Manuel Llamas enmarca las informaciones reservadas incoadas contra la UCO dentro del normal funcionamiento interno de la Guardia Civil. Leer.",
-      "date": "2026-07-16"
     }
   ],
   "sources": [
     {
-      "title": "Bruselas reprende a España por no reformar el sistema de elección del CGPJ pese a los múltiples requerimientos",
-      "url": "https://www.abc.es/espana/bruselas-reprende-espana-reformar-sistema-eleccion-cgpj-20260717132124-nt.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-17T12:55:59.000Z",
+      "title": "La UCO dice que los ingresos de Cerdán se dispararon en la «etapa ministerial» de Ábalos y tras su ascenso en el PSOE",
+      "url": "https://www.abc.es/espana/uco-dice-ingresos-cerdan-dispararon-etapa-ministerial-20260717141532-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-17T16:40:39.000Z",
       "sourceId": "lootura-es-abc"
     },
     {
@@ -84,17 +84,11 @@
       "sourceId": "lootura-es-el-pais"
     },
     {
-      "title": "La UE alerta sobre las contrataciones del Gobierno: «Sigue siendo un ámbito vulnerable a los riesgos de corrupción»",
-      "url": "https://okdiario.com/espana/ue-alerta-sobre-contrataciones-del-gobierno-sigue-siendo-ambito-vulnerable-riesgos-corrupcion-19017275?utm_source=lootura.com",
-      "publishedAt": "2026-07-17T13:12:25.000Z",
-      "sourceId": "lootura-es-ok-diario"
-    },
-    {
-      "title": "Bruselas reprende al Gobierno por no luchar contra la corrupción y presionar a jueces",
-      "url": "https://theobjective.com/espana/politica/2026-07-17/bruselas-toque-atencion-gobierno-corrupcion-jueces/?utm_source=lootura.com",
-      "publishedAt": "2026-07-17T11:56:04.000Z",
-      "sourceId": "lootura-es-the-objective"
+      "title": "Bruselas desmiente el victimismo de Sánchez: no hay reformas y sí hay corruptos",
+      "url": "https://www.larazon.es/espana/bruselas-desmiente-victimismo-sanchez-hay-reformas-hay-corruptos_202607176a5a5dd4e9f2e84b5c6e6b1b.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-17T16:52:36.000Z",
+      "sourceId": "lootura-es-la-razon"
     }
   ],
-  "evidenceCount": 6
+  "evidenceCount": 5
 }

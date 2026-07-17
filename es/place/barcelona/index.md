@@ -3,10 +3,22 @@
 > Sigue la actividad de Barcelona en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-17T09:54:46.288Z
+- Actualizado: 2026-07-17T17:09:01.091Z
 - Canonical: https://atlas.lootura.com/es/place/barcelona
 
 ## Cambios recientes
+
+### Ubisoft celebra el éxito del nuevo videojuego de 'Assasin's Creed' y deja fuera a 51 de sus creadores en Barcelona
+
+Quienes trabajaron en Ubisoft Barcelona durante los últimos tres años comparten un mismo recuerdo: una convocatoria inesperada, un correo enviado con urgencia y una sala llena de empleados que sospechaban que algo no iba bien antes de que nadie pronunciara una palabra. El 10 de junio, la dirección reunió a la plantilla.
+
+Date: 2026-07-17
+
+### Gil Marín, contundente con el ‘caso Julián’: «No aceptamos la oferta de 100 millones ni de 200»
+
+El consejero delegado del Atlético de Madrid , Miguel Ángel Gil Marín, aseguró que el club no quiere «transferir» al delantero argentino Julián Álvarez y defendió que su respuesta al interés del FC Barcelona «sí es infinita», porque no aceptan «la oferta de 100 millones de euros ni una de 200». «La opinión es clara, la.
+
+Date: 2026-07-17
 
 ### Detenida una empleada del hogar en Barcelona por robar dinero y joyas por valor de 390.000 euros
 
@@ -56,18 +68,7 @@ No suele ser habitual que dos estrellas de la magnitud de Aitana y Antonio Díaz
 
 Date: 2026-07-14
 
-### Un muerto y cinco heridos en el incendio de un piso en el Ensanche de Barcelona
-
-Un hombre de unos 60 años ha muerto y otras cinco personas han resultado heridas, ninguna de ellas de gravedad, en el incendio de un piso esta pasada madrugada en el distrito del Ensanche de Barcelona. Según ha informado el Ayuntamiento de Barcelona, los Bomberos han recibido poco después de las cuatro de la madrugada.
-
-Date: 2026-07-13
-
-### Rajoy enoja a Francia mientras el Gobierno acusa al PP de torpedear la política exterior
-
-El Partido Popular ya logró concitar la irritación de los gobiernos de Pedro Sánchez y Emmanuel Macron, por bloquear hace una semana en el Senado el tratado de amistad que ambos mandatarios sellaron en la cumbre hispanofrancesa celebrada en Barcelona el 19 de enero del 2023. Y ahora unas polémicas palabras del expresid.
-
-Date: 2026-07-13
-
 ## Fuentes
 
-No public source links.
+- [Ubisoft celebra el éxito del nuevo videojuego de 'Assasin's Creed' y deja fuera a 51 de sus creadores en Barcelona](https://www.abc.es/cultura/ubisoft-celebra-exito-assassins-creed-black-flag-20260717161306-nt.html?utm_source=lootura.com) — 2026-07-17T16:34:43.000Z
+- [Gil Marín, contundente con el ‘caso Julián’: «No aceptamos la oferta de 100 millones ni de 200»](https://theobjective.com/deportes/futbol/2026-07-17/gil-marin-oferta-julian-alvarez/?utm_source=lootura.com) — 2026-07-17T15:58:24.000Z

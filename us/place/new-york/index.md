@@ -3,10 +3,16 @@
 > Follow New York, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-17T06:13:09.528Z
+- Updated: 2026-07-17T17:09:22.641Z
 - Canonical: https://atlas.lootura.com/us/place/new-york
 
 ## Recent changes
+
+### Canadian wildfire smoke linked to fewer bird sightings in New York State
+
+Despite burning hundreds of miles away, Canadian wildfires have become a familiar source of disruption in New York state.
+
+Date: 2026-07-17
 
 ### ‘Everybody Watches’: TIME100 Sports Honorees on Red Carpet Celebrate Rise of Women’s Sports
 
@@ -62,12 +68,6 @@ A Tyrannosaurus rex skeleton nicknamed "Gus" sold Tuesday for $50.1 million at S
 
 Date: 2026-07-14
 
-### T rex fossil ‘Gus’ sells for $50.1m at New York auction, setting new record
-
-Skeleton judged to be one of the largest and most complete ever unearthed was excavated on a ranch in South Dakota A vast, fossilized Tyrannosaurus rex nicknamed Gus sold at Sotheby’s in New York on Tuesday for $50.1m with fees (£37.4m) to a phone bidder – making it the most valuable dinosaur fossil sold at auction. It.
-
-Date: 2026-07-14
-
 ## Sources
 
-No public source links.
+- [Canadian wildfire smoke linked to fewer bird sightings in New York State](https://phys.org/news/2026-07-canadian-wildfire-linked-bird-sightings.html?utm_source=lootura.com) — 2026-07-17T17:00:02.000Z

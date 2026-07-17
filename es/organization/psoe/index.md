@@ -3,22 +3,10 @@
 > Sigue la actividad de Partido Socialista Obrero Español en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-17T13:22:29.680Z
+- Actualizado: 2026-07-17T17:09:01.091Z
 - Canonical: https://atlas.lootura.com/es/organization/psoe
 
 ## Cambios recientes
-
-### La UCO revela que Cerdán y su entorno cobraron 323.000 euros de Servinabar, la empresa clave en la trama
-
-El informe de la UCO sobre el patrimonio de Santos Cerdán, al que ha accedido 20minutos , apunta que el ex secretario de Organización del PSOE y su familia se beneficiaron de 323.178,41 euros de Servinabar o de otras compañías del administrador de esta empresa entre 2015 y 2024. Esta empresa, coparticipada por Cerdán,.
-
-Date: 2026-07-17
-
-### El imputado DAO de la Guardia Civil critica las pesquisas de la UCO con «proactividad tóxica»
-
-Al director adjunto operativo (DAO) de la Guardia Civil, el teniente general Manuel Llamas, se le acumulan las explicaciones. Este jueves declaró como investigado ante la Audiencia Nacional por dos presuntos delitos de prevaricación y obstrucción a la Justicia en el marco de las 'cloacas' del PSOE, presuntamente lidera.
-
-Date: 2026-07-17
 
 ### La UCO desvela que Cerdán intentó comprar un piso de casi un millón con las mordidas a Servinabar
 
@@ -28,31 +16,13 @@ Date: 2026-07-17
 
 ### La UCO cifra en más de 300.000 euros los beneficios que Cerdán y su familia obtuvieron de la trama entre 2015 y 2024
 
-El informe elaborado por la Unidad Central Operativa (UCO) de la Guardia Civil sobre las finanzas del ex secretario de Organización del PSOE Santos Cerdán cifra en más de 300.000 euros los beneficios que él y su familia pudieron obtener, ya fuera en pagos o en bienes, de una de las empresas claves de la trama, Servinab.
+Las investigaciones de la Unidad Central Operativa (UCO) de la Guardia Civil vuelven a poner el foco en el exsecretario de Organización del PSOE Santos Cerdán. El instituto armado ha entregado al juez de la Audiencia Nacional Ismael Moreno, que investiga la red corrupta que presuntamente anidó en el Ministerio de Trans.
 
 Date: 2026-07-17
 
 ### La directora de la Guardia Civil afirma al juez que se siente una víctima de Cerdán en el ‘caso Leire Díez’
 
 La directora general de la Guardia Civil, Mercedes González, ha declarado este viernes ante el juez Santiago Pedraz, instructor del caso Leire Díez , que se siente una “víctima” política de la supuesta trama encabezada por Santos Cerdán, ex secretario de Organización del PSOE, y la exmilitante socialista Leire Díez par.
-
-Date: 2026-07-17
-
-### La UCO dice que Cerdán y su familia recibieron más de 300.000 euros de Servinabar en una década
-
-El informe patrimonial de quien fuera 'número tres' del PSOE arroja que redujo el uso de la tarjeta o de las disposiciones de efectivo en cajero desde 2019 coincidiendo con "la etapa ministerial" de Ábalos y que ingresó 18.000 euros de origen desconocido entre 2014 y 2017 La directora de la Guardia Civil, ante el juez.
-
-Date: 2026-07-17
-
-### Junts mantiene las distancias con el PSOE tras las sentencia europea que avala la amnistía
-
-Tanto Junts como el PSOE –también Esquerra Republicana– esperaban un fallo que avalara la ley de Amnistía en la justicia europea, pero coincidir en ese objetivo no acerca las posiciones entre ambas formaciones políticas. Desde JxCat han subrayado este viernes que en el ámbito político no cambia nada, aunque en las fila.
-
-Date: 2026-07-17
-
-### El alcalde de Alcoy es el primer afín a Diana Morant que cede la cabeza de lista a otro sector sanchista
-
-Toni Francés, alcalde del principal municipio gobernado por el PSOE en la provincia de Alicante, Alcoy, desde hace 15 años, se ha convertido en el primer afín a la secretaria general de los socialistas valencianos, Diana Morant, que ha tenido que ceder la cabeza de lista para los comicios de 2027. Le relevará la hasta.
 
 Date: 2026-07-17
 
@@ -68,15 +38,45 @@ El ex secretario de Organización del PSOE Santos Cerdán intentó adquirir en 2
 
 Date: 2026-07-17
 
+### La UCO dice que los ingresos de Cerdán se dispararon en la «etapa ministerial» de Ábalos y tras su ascenso en el PSOE
+
+La Unidad Central Operativa (UCO) de la Guardia Civil ha revelado que el que fuera mano derecha de Pedro Sánchez Santos Cerdán vio como sus ingresos se dispararon coincidiendo con la «etapa ministerial» del que fuera responsable de Transportes José Luis Ábalos y tras sustituir al mismo como secretario de Organización d.
+
+Date: 2026-07-17
+
+### El pelotazo de Cerdán era un piso de un millón por el que pagó arras y que enfadó a Antxon: "Encima ahora quieren un pisazo"
+
+La 'trama Koldo' intentó comprar un piso de un millón de euros para Santos Cerdán en Madrid. La UCO sostiene que el ex número 2 del PSOE y mano derecha de Pedro...
+
+Date: 2026-07-17
+
+### La UCO apunta a que la esposa de Cerdán cobró 1.300 euros mensuales de una empresa para la que no trabajaba
+
+El informe de la Unidad Central Operativa (UCO) de la Guardia Civil sobre el patrimonio del exsecretario de Organización del PSOE Santos Cerdán apunta a que una mercantil ligada al empresario Antxon Alonso, amigo del exdirigente socialista, estuvo pagando 1.300 euros al mes a Francisca Muñoz, esposa del dirigente socia.
+
+Date: 2026-07-17
+
+### Servinabar intentó comprar para Cerdán un piso en Madrid valorado en cerca de un millón de euros, según la UCO
+
+El informe elaborado por la Unidad Central Operativa (UCO) de la Guardia Civil sobre el patrimonio del exsecretario de Organización del PSOE Santos Cerdán revela que, entre septiembre y octubre de 2021, una de las empresas clave de la trama negoció la compra de una vivienda de lujo en Madrid para que fuera usada por el.
+
+Date: 2026-07-17
+
+### La UCO dice que Cerdán ingresó 18.000 euros de origen desconocido entre 2014 y 2017
+
+El informe patrimonial de quien fuera 'número tres' del PSOE arroja que redujo el uso de la tarjeta o de las disposiciones de efectivo en cajero desde 2019 coincidiendo con "la etapa ministerial" de Ábalos y que Cerdán y su familia recibieron más de 300.000 euros de Servinabar en una década La directora de la Guardia C.
+
+Date: 2026-07-17
+
 ## Fuentes
 
-- [La UCO revela que Cerdán y su entorno cobraron 323.000 euros de Servinabar, la empresa clave en la trama](https://www.20minutos.es/nacional/uco-apunta-que-cerdan-su-entorno-cobraron-323-000-euros-servinabar-empresa-clave-trama_7015953_0.html?utm_source=lootura.com) — 2026-07-17T12:15:41.000Z
-- [El imputado DAO de la Guardia Civil critica las pesquisas de la UCO con «proactividad tóxica»](https://www.abc.es/espana/imputado-dao-guardia-civil-aprecia-exceso-protagonismo-20260717135305-nt.html?utm_source=lootura.com) — 2026-07-17T12:51:51.000Z
+- [La UCO dice que los ingresos de Cerdán se dispararon en la «etapa ministerial» de Ábalos y tras su ascenso en el PSOE](https://www.abc.es/espana/uco-dice-ingresos-cerdan-dispararon-etapa-ministerial-20260717141532-nt.html?utm_source=lootura.com) — 2026-07-17T16:40:39.000Z
 - [La UCO desvela que Cerdán intentó comprar un piso de casi un millón con las mordidas a Servinabar](https://www.elcorreo.com/politica/uco-desvela-cerdan-intento-comprar-piso-millon-20260715141134-ntrc_amp.html?utm_source=lootura.com) — 2026-07-17T12:11:34.000Z
-- [La UCO cifra en más de 300.000 euros los beneficios que Cerdán y su familia obtuvieron de la trama entre 2015 y 2024](https://elpais.com/espana/2026-07-17/la-uco-cifra-en-mas-de-300000-euros-los-beneficios-obtenidos-por-cerdan-y-su-familia-de-la-trama.html?utm_source=lootura.com) — 2026-07-17T12:40:28.000Z
+- [El pelotazo de Cerdán era un piso de un millón por el que pagó arras y que enfadó a Antxon: "Encima ahora quieren un pisazo"](https://amp.elmundo.es/espana/2026/07/17/6a5a268be4d4d822248b457c.html?utm_source=lootura.com) — 2026-07-17T13:01:34.000Z
+- [La UCO cifra en más de 300.000 euros los beneficios que Cerdán y su familia obtuvieron de la trama entre 2015 y 2024](https://elpais.com/espana/2026-07-17/la-uco-cifra-en-mas-de-300000-euros-los-beneficios-obtenidos-por-cerdan-y-su-familia-de-la-trama.html?utm_source=lootura.com) — 2026-07-17T16:07:31.000Z
 - [La directora de la Guardia Civil afirma al juez que se siente una víctima de Cerdán en el ‘caso Leire Díez’](https://elpais.com/espana/2026-07-17/la-directora-de-la-guardia-civil-afirma-al-juez-que-se-siente-victima-de-la-trama-del-caso-leire-diez.html?utm_source=lootura.com) — 2026-07-17T12:45:30.000Z
-- [La UCO dice que Cerdán y su familia recibieron más de 300.000 euros de Servinabar en una década](https://www.eldiario.es/politica/uco-dice-cerdan-ingreso-18-000-euros-origen-desconocido_1_13388317.html?utm_source=lootura.com) — 2026-07-17T12:17:43.000Z
-- [Junts mantiene las distancias con el PSOE tras las sentencia europea que avala la amnistía](https://www.lavanguardia.com/politica/20260717/11594590/junts-mantiene-distancias-psoe-sentencia-europea-avala-amnistia.html?utm_source=lootura.com) — 2026-07-17T10:12:35.000Z
-- [El alcalde de Alcoy es el primer afín a Diana Morant que cede la cabeza de lista a otro sector sanchista](https://okdiario.com/comunidad-valenciana/alcalde-alcoy-primer-afin-diana-morant-que-cede-cabeza-lista-otro-sector-sanchista-19016616?utm_source=lootura.com) — 2026-07-17T12:49:59.000Z
+- [La UCO apunta a que la esposa de Cerdán cobró 1.300 euros mensuales de una empresa para la que no trabajaba](https://elpais.com/espana/2026-07-17/la-uco-apunta-a-que-la-esposa-de-cerdan-cobro-1300-euros-mensuales-de-una-empresa-para-la-que-no-trabajaba.html?utm_source=lootura.com) — 2026-07-17T14:14:37.000Z
+- [Servinabar intentó comprar para Cerdán un piso en Madrid valorado en cerca de un millón de euros, según la UCO](https://elpais.com/espana/2026-07-17/servinabar-intento-comprar-para-cerdan-un-piso-en-madrid-valorado-en-cerca-de-un-millon-de-euros-segun-la-uco.html?utm_source=lootura.com) — 2026-07-17T13:27:55.000Z
+- [La UCO dice que Cerdán ingresó 18.000 euros de origen desconocido entre 2014 y 2017](https://www.eldiario.es/politica/uco-dice-cerdan-ingreso-18-000-euros-origen-desconocido_1_13388317.html?utm_source=lootura.com) — 2026-07-17T12:17:43.000Z
 - [La UCO cifra en más de 300.000 euros lo que Cerdán habría obtenido de la trama Koldo](https://theobjective.com/espana/tribunales/2026-07-17/uco-euros-cerdan-trama-koldo/?utm_source=lootura.com) — 2026-07-17T12:30:59.000Z
 - [Cerdán quiso que Servinabar le comprara un piso de lujo de un millón en el centro de Madrid](https://theobjective.com/espana/tribunales/2026-07-17/cerdan-servinabar-piso-centro-madrid/?amp=&utm_source=lootura.com) — 2026-07-17T13:10:34.000Z

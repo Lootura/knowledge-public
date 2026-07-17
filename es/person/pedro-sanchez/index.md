@@ -3,20 +3,32 @@
 > Sigue la actividad de Pedro Sánchez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-17T13:22:29.680Z
+- Actualizado: 2026-07-17T17:09:01.091Z
 - Canonical: https://atlas.lootura.com/es/person/pedro-sanchez
 
 ## Cambios recientes
 
-### Bruselas reprende a España por no reformar el sistema de elección del CGPJ pese a los múltiples requerimientos
-
-La Comisión Europea ha vuelto a instar al Gobierno de Pedro Sánchez a impulsar la reforma del sistema de elección del Consejo General del Poder Judicial , para que doce de sus vocales sean elegidos por los propios jueces. Se trata de una recomendación constante en los informes sobre el Estado de derecho que el órgano c.
-
-Date: 2026-07-17
-
 ### La Comisión Europea ve “avances limitados” en el plan anticorrupción de Sánchez y reclama más reformas
 
 La Comisión Europea avisa de que España solo ha logrado “avances limitados” en sus reformas para luchar contra la corrupción y que el plan aprobado por el Gobierno de Pedro Sánchez aún no se ha implementado. En su informe sobre el cumplimiento en 2025 del Estado de derecho de la Unión Europea hecho publico este viernes.
+
+Date: 2026-07-17
+
+### La UCO dice que los ingresos de Cerdán se dispararon en la «etapa ministerial» de Ábalos y tras su ascenso en el PSOE
+
+La Unidad Central Operativa (UCO) de la Guardia Civil ha revelado que el que fuera mano derecha de Pedro Sánchez Santos Cerdán vio como sus ingresos se dispararon coincidiendo con la «etapa ministerial» del que fuera responsable de Transportes José Luis Ábalos y tras sustituir al mismo como secretario de Organización d.
+
+Date: 2026-07-17
+
+### Bruselas desmiente el victimismo de Sánchez: no hay reformas y sí hay corruptos
+
+La regeneración democrática fue el principal compromiso político con el que Pedro Sánchez llegó a La Moncloa tras la moción de censura de 2018. Ocho años después, la Comisión Europea devuelve al Gobierno una fotografía muy distinta de la que pretende proyectar incluso en el ámbito estrictamente legislativo: España ha a.
+
+Date: 2026-07-17
+
+### Bruselas reprende a España por no reformar el sistema de elección del CGPJ pese a los múltiples requerimientos
+
+La Comisión Europea ha vuelto a instar al Gobierno de Pedro Sánchez a impulsar la reforma del sistema de elección del Consejo General del Poder Judicial , para que doce de sus vocales sean elegidos por los propios jueces. Se trata de una recomendación constante en los informes sobre el Estado de derecho que el órgano c.
 
 Date: 2026-07-17
 
@@ -56,22 +68,9 @@ La esposa de Pedro Sánchez se sentará en el banquillo de los acusados, a la vu
 
 Date: 2026-07-17
 
-### El primer documental sobre Ángela Figuera busca fondos para completar la producción
-
-La escritora murciana María Sánchez-Saorín dirige 'Ángela. Una mujer de barro', que reivindica su lugar en la poesía.
-
-Date: 2026-07-16
-
-### El DAO niega ante el juez presiones a la UCO y que les ordenase "ponerse de perfil" con la investigación del hermano de Pedro Sánchez
-
-Manuel Llamas enmarca las informaciones reservadas incoadas contra la UCO dentro del normal funcionamiento interno de la Guardia Civil. Leer.
-
-Date: 2026-07-16
-
 ## Fuentes
 
-- [Bruselas reprende a España por no reformar el sistema de elección del CGPJ pese a los múltiples requerimientos](https://www.abc.es/espana/bruselas-reprende-espana-reformar-sistema-eleccion-cgpj-20260717132124-nt.html?utm_source=lootura.com) — 2026-07-17T12:55:59.000Z
+- [La UCO dice que los ingresos de Cerdán se dispararon en la «etapa ministerial» de Ábalos y tras su ascenso en el PSOE](https://www.abc.es/espana/uco-dice-ingresos-cerdan-dispararon-etapa-ministerial-20260717141532-nt.html?utm_source=lootura.com) — 2026-07-17T16:40:39.000Z
 - [El primer documental sobre Ángela Figuera busca fondos para completar la producción](https://www.elcorreo.com/culturas/cine/primer-documental-sobre-angela-figuera-busca-fondos-20260716174814-nt_amp.html?utm_source=lootura.com) — 2026-07-16T22:59:05.000Z
 - [La Comisión Europea ve “avances limitados” en el plan anticorrupción de Sánchez y reclama más reformas](https://elpais.com/espana/2026-07-17/la-comision-europea-ve-avances-limitados-en-el-plan-anticorrupcion-de-sanchez-y-reclama-mas-reformas.html?utm_source=lootura.com) — 2026-07-17T11:27:24.000Z
-- [La UE alerta sobre las contrataciones del Gobierno: «Sigue siendo un ámbito vulnerable a los riesgos de corrupción»](https://okdiario.com/espana/ue-alerta-sobre-contrataciones-del-gobierno-sigue-siendo-ambito-vulnerable-riesgos-corrupcion-19017275?utm_source=lootura.com) — 2026-07-17T13:12:25.000Z
-- [Bruselas reprende al Gobierno por no luchar contra la corrupción y presionar a jueces](https://theobjective.com/espana/politica/2026-07-17/bruselas-toque-atencion-gobierno-corrupcion-jueces/?utm_source=lootura.com) — 2026-07-17T11:56:04.000Z
+- [Bruselas desmiente el victimismo de Sánchez: no hay reformas y sí hay corruptos](https://www.larazon.es/espana/bruselas-desmiente-victimismo-sanchez-hay-reformas-hay-corruptos_202607176a5a5dd4e9f2e84b5c6e6b1b.html?utm_source=lootura.com) — 2026-07-17T16:52:36.000Z

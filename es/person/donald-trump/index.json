@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/donald-trump/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/donald-trump/index.json",
   "description": "Sigue la actividad de Donald Trump en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-17T13:22:29.680Z",
+  "updatedAt": "2026-07-17T17:09:01.091Z",
   "aliases": [
     "President Donald Trump",
     "President Trump",
@@ -16,13 +16,18 @@
   ],
   "changes": [
     {
-      "title": "Trump resucita en un discurso a la nación el bulo del fraude electoral de 2020 y exagera la influencia de China en su derrota",
-      "summary": "Donald Trump, líder de un país en guerra y con el coste de la vida en alza, se dirigió este jueves por la noche a la nación para hablar de las elecciones... de hace seis años. No fue solo un intento de ajuste de cuentas con un fracaso personal; el presidente de Estados Unidos, cuya impopularidad bate récords, habló con.",
+      "title": "El Puerto de Bilbao registra entre febrero y junio su mayor actividad desde hace 18 años",
+      "summary": "Advierten de un incremento de las importaciones que recuerda a la acumulación de stock que produjeron los aranceles de Trump el año pasado y al que siguió una caída de tráficos.",
       "date": "2026-07-17"
     },
     {
-      "title": "El Puerto de Bilbao registra entre febrero y junio su mayor actividad desde hace 18 años",
-      "summary": "Advierten de un incremento de las importaciones que recuerda a la acumulación de stock que produjeron los aranceles de Trump el año pasado y al que siguió una caída de tráficos.",
+      "title": "China exige a Trump que aparque el «invento» de la presunta injerencia electoral en 2020",
+      "summary": "China ha rechazado por completo las acusaciones formuladas por el presidente de Estados Unidos , Donald Trump , quien, esta pasada noche y en un discurso ante la nación, denunció que las autoridades de Pekín se habían inmiscuido en el desarrollo de las elecciones de 2020 . Trump y el Gobierno de Estados Unidos acusaron.",
+      "date": "2026-07-17"
+    },
+    {
+      "title": "Trump resucita en un discurso a la nación el bulo del fraude electoral de 2020 y exagera la influencia de China en su derrota",
+      "summary": "Donald Trump, líder de un país en guerra y con el coste de la vida en alza, se dirigió este jueves por la noche a la nación para hablar de las elecciones... de hace seis años. No fue solo un intento de ajuste de cuentas con un fracaso personal; el presidente de Estados Unidos, cuya impopularidad bate récords, habló con.",
       "date": "2026-07-17"
     },
     {
@@ -59,11 +64,6 @@
       "title": "Trump impone un arancel del 25% a Brasil por \"no negociar de buena fe\"",
       "summary": "El presidente de Estados Unidos, Donald Trump, acaba de iniciar un nuevo capítulo en su ya extenso historial de batallas comerciales. Su Administración ha anunciado la imposición de un arancel general del 25% sobre el grueso de importaciones procedentes de Brasil, país al que acusa de actuar \"con mala fe\" en las relaci.",
       "date": "2026-07-16"
-    },
-    {
-      "title": "Un operador del teleprónter de Trump ganó casi 90.000 euros en apuestas sobre sus discursos",
-      "summary": "El hombre que opera el sistema de teleprónter que emplea el presidente de EEUU, Donald Trump, para pronunciar discursos está siendo investigado por.",
-      "date": "2026-07-16"
     }
   ],
   "sources": [
@@ -74,10 +74,10 @@
       "sourceId": "lootura-es-el-correo"
     },
     {
-      "title": "Trump resucita en un discurso a la nación el bulo del fraude electoral de 2020 y exagera la influencia de China en su derrota",
-      "url": "https://elpais.com/internacional/2026-07-17/trump-resucita-en-un-discurso-a-la-nacion-el-bulo-del-fraude-electoral-de-2020-y-acusa-a-china-de-influir-en-su-derrota.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-17T01:28:02.000Z",
-      "sourceId": "lootura-es-el-pais"
+      "title": "China exige a Trump que aparque el «invento» de la presunta injerencia electoral en 2020",
+      "url": "https://theobjective.com/internacional/2026-07-17/china-trump-invento-injerencia-electoral/?utm_source=lootura.com",
+      "publishedAt": "2026-07-17T16:30:35.000Z",
+      "sourceId": "lootura-es-the-objective"
     }
   ],
   "evidenceCount": 2

@@ -3,10 +3,16 @@
 > Sigue la actividad de China en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-17T13:22:29.680Z
+- Actualizado: 2026-07-17T17:09:01.091Z
 - Canonical: https://atlas.lootura.com/es/place/china
 
 ## Cambios recientes
+
+### China exige a Trump que aparque el «invento» de la presunta injerencia electoral en 2020
+
+China ha rechazado por completo las acusaciones formuladas por el presidente de Estados Unidos , Donald Trump , quien, esta pasada noche y en un discurso ante la nación, denunció que las autoridades de Pekín se habían inmiscuido en el desarrollo de las elecciones de 2020 . Trump y el Gobierno de Estados Unidos acusaron.
+
+Date: 2026-07-17
 
 ### Trump resucita en un discurso a la nación el bulo del fraude electoral de 2020 y exagera la influencia de China en su derrota
 
@@ -62,13 +68,6 @@ El presidente estadounidense, Donald Trump, ha anunciado esta madrugada que ha d
 
 Date: 2026-07-17
 
-### Cómo el ‘Temu Range Rover’ de China se convirtió en el coche más vendido de Gran Bretaña
-
-Los Land Rover son tan británicos como el rey, los crumpets y el críquet. Este robusto todoterreno ha sido un caballo de batalla para el ejército británico desde 1948. La familia real cuenta con una flota de Landys en su castillo de Escocia. Y en los Cotswolds —el destino de fin de semana por excelencia de Inglaterra,.
-
-Date: 2026-07-16
-
 ## Fuentes
 
-- [Trump resucita en un discurso a la nación el bulo del fraude electoral de 2020 y exagera la influencia de China en su derrota](https://elpais.com/internacional/2026-07-17/trump-resucita-en-un-discurso-a-la-nacion-el-bulo-del-fraude-electoral-de-2020-y-acusa-a-china-de-influir-en-su-derrota.html?utm_source=lootura.com) — 2026-07-17T01:28:02.000Z
-- [XPENG L03: el SUV chino con diseño español](https://www.larazon.es/motor/xpeng-l03-suv-chino-diseno-espanol_202607176a5a27640500ab412c9b1226.html?utm_source=lootura.com) — 2026-07-17T13:00:20.000Z
+- [China exige a Trump que aparque el «invento» de la presunta injerencia electoral en 2020](https://theobjective.com/internacional/2026-07-17/china-trump-invento-injerencia-electoral/?utm_source=lootura.com) — 2026-07-17T16:30:35.000Z

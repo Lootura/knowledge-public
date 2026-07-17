@@ -3,7 +3,7 @@
 > Sigue la actividad de Lamine Yamal en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-17T06:12:48.444Z
+- Actualizado: 2026-07-17T17:09:01.091Z
 - Canonical: https://atlas.lootura.com/es/person/lamine-yamal
 
 ## Cambios recientes
@@ -64,4 +64,4 @@ Date: 2026-07-08
 
 ## Fuentes
 
-No public source links.
+- [Lamine Yamal y Pedro Porro se entrenan con el grupo y estarán listos para la final](https://okdiario.com/mundial/mejor-noticia-espana-antes-final-lamine-yamal-pedro-porro-entrenan-grupo-estaran-listos-final-19018655?utm_source=lootura.com) — 2026-07-17T16:15:35.000Z

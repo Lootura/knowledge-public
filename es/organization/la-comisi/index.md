@@ -3,7 +3,7 @@
 > Sigue la actividad de La Comisi en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-17T13:22:29.680Z
+- Actualizado: 2026-07-17T17:09:01.091Z
 - Canonical: https://atlas.lootura.com/es/organization/la-comisi
 
 ## Cambios recientes
@@ -16,4 +16,4 @@ Date: 2026-07-17
 
 ## Fuentes
 
-- [Bruselas reprende a España por no reformar el sistema de elección del CGPJ pese a los múltiples requerimientos](https://www.abc.es/espana/bruselas-reprende-espana-reformar-sistema-eleccion-cgpj-20260717132124-nt.html?utm_source=lootura.com) — 2026-07-17T12:55:59.000Z
+- [La CNMC adjudica el primer análisis de contenidos de ‘influencers’ para detectar publicidad encubierta](https://cincodias.elpais.com/companias/2026-07-17/la-cnmc-adjudica-el-primer-analisis-de-contenidos-de-influencers-para-detectar-publicidad-encubierta.html?utm_source=lootura.com) — 2026-07-17T12:40:03.000Z

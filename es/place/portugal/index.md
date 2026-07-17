@@ -3,10 +3,22 @@
 > Sigue la actividad de Portugal en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-16T06:27:44.347Z
+- Actualizado: 2026-07-17T17:09:01.091Z
 - Canonical: https://atlas.lootura.com/es/place/portugal
 
 ## Cambios recientes
+
+### Un detenido y un investigado por los incendios intencionados de Hermisende (Zamora)
+
+Un hombre ha sido detenido en las últimas horas y otro está investigado como supuestos autores de delitos de incendio, por su implicación en más de una decena de incendios forestales intencionados que se han producido en un mes en el municipio zamorano de Hermisende, limítrofe con Portugal y con la provincia de Ourense.
+
+Date: 2026-07-17
+
+### El Parlamento de Portugal prohíbe el uso del burka en espacios públicos
+
+El Parlamento de Portugal ha aprobado este viernes, con los votos a favor de la derecha y la extrema derecha, un proyecto de ley para prohibir taparse el rostro en lugares públicos del país, incluido el uso del burka . El proyecto pasa ahora al despacho del presidente, António José Seguro, quien podrá promulgarlo, veta.
+
+Date: 2026-07-17
 
 ### Discovered by Atlas
 
@@ -56,12 +68,7 @@ La música británica ha perdido a una de sus voces más singulares. La cantante
 
 Date: 2026-07-09
 
-### Muere Bonnie Tyler a los 75 años | Reacciones y despedidas de hoy a la cantante, en directo
-
-La cantante ha fallecido en Portugal tras sufrir complicaciones derivadas de una perforación intestinal.
-
-Date: 2026-07-09
-
 ## Fuentes
 
-No public source links.
+- [Un detenido y un investigado por los incendios intencionados de Hermisende (Zamora)](https://www.larazon.es/castilla-y-leon/detenido-investigado-incendios-intencionados-hermisende-zamora_202607176a5a5fa3e9f2e84b5c6e6e47.html?utm_source=lootura.com) — 2026-07-17T17:00:19.000Z
+- [El Parlamento de Portugal prohíbe el uso del burka en espacios públicos](https://theobjective.com/internacional/2026-07-17/portugal-prohibicion-burka-espacios-publicos/?utm_source=lootura.com) — 2026-07-17T15:00:54.000Z

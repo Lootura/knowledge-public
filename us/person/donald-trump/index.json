@@ -8,53 +8,13 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/donald-trump/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/donald-trump/index.json",
   "description": "Follow Donald Trump, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-17T13:22:45.540Z",
+  "updatedAt": "2026-07-17T17:09:22.641Z",
   "aliases": [
     "President Donald Trump",
     "President Trump",
     "Trump"
   ],
   "changes": [
-    {
-      "title": "Sen. Mark Warner slams Trump's primetime speech: \"Incredible lies\"",
-      "summary": "Sen. Mark Warner joins CBS News with his reaction to President Trump's primetime address on Thursday about U.S. election security.",
-      "date": "2026-07-17"
-    },
-    {
-      "title": "Trump administration to declassify documents relating to China and U.S. elections",
-      "summary": "President Donald Trump addressed the nation from the White House, announcing that the administration will declassify documents related to the 2020 election and alleged influence by China.",
-      "date": "2026-07-17"
-    },
-    {
-      "title": "An analysis of President Trump's address",
-      "summary": "President Trump gave a primetime address Thursday night in which he spoke about the integrity of U.S. elections — a topic he has spread disinformation about for much of his political career.",
-      "date": "2026-07-17"
-    },
-    {
-      "title": "What to Know About Trump’s Attacks on Mail Voting",
-      "summary": "Many of President Trump’s attempts to curtail mail voting have been blocked by the courts. Before Trump, Republicans actually embraced absentee voting.",
-      "date": "2026-07-17"
-    },
-    {
-      "title": "Trump speaks on elections, alleges Chinese access to voter data | Special Report",
-      "summary": "President Trump on Thursday delivered a primetime address about election security where he railed against China. Tony Dokoupil anchored CBS News' special report.",
-      "date": "2026-07-17"
-    },
-    {
-      "title": "Fact checking Trump speech on election security",
-      "summary": "President Trump is delivering a speech on election security Thursday night at the White House.",
-      "date": "2026-07-17"
-    },
-    {
-      "title": "How paper ballots make digital manipulation of results unlikely",
-      "summary": "NBC News’ Jane Timm analyzes President Trump’s claims about digital manipulation of ballot results in the U.S., as Trump said that the White House will declassify documents related to the 2020 election and alleged influence by China during his speech to the nation.",
-      "date": "2026-07-17"
-    },
-    {
-      "title": "Trump again makes unverifiable claims of noncitizen voting",
-      "summary": "The president offered no concrete evidence, and at least one state — Nevada — rejected his claims immediately.",
-      "date": "2026-07-17"
-    },
     {
       "title": "Rep. Jim Himes reacts to Trump's speech on election security",
       "summary": "NPR's A Martinez discusses President Trump's speech on election security with Connecticut Rep. Jim Himes, the ranking Democrat on the House Intelligence Committee.",
@@ -64,21 +24,49 @@
       "title": "World leaders meet in D.C. to discuss left-wing political violence",
       "summary": "Leaders from roughly 60 countries gathered in Washington, DC, to discuss what top Trump administration officials are calling an urgent threat: far left terrorism.",
       "date": "2026-07-17"
+    },
+    {
+      "title": "Trump claims the country's voting systems are vulnerable in primetime address",
+      "summary": "In a primetime address Thursday night, President Trump raised familiar claims about election integrity just months ahead of a midterm election, where Republicans are expected to take losses.",
+      "date": "2026-07-17"
+    },
+    {
+      "title": "White House teleprompter operator allegedly made over $100K betting on Trump's speeches",
+      "summary": "The prediction market Kalshi alleges President Trump's longtime teleprompter operator engaged in trading, betting on the words the president would use in speeches. Jo Ling Kent reports.",
+      "date": "2026-07-17"
+    },
+    {
+      "title": "Funding milestone detected",
+      "summary": "Both Marco Rubio and Elon Musk, who led the effort to sunset the foreign aid agency, have said that no deaths have been linked to the cutting of its funding. These parents tell a different story. (Image credit: From left: David Augustine, Lameck Nyagudi and Kazeem Olawale Nasiru for NPR).",
+      "date": "2026-07-17"
+    },
+    {
+      "title": "Takeaways from Trump's primetime speech. And, at least 2 dead in major Texas flooding",
+      "summary": "President Trump gave a primetime speech raising claims of voting vulnerabilities but offered no new evidence. And, at least 2 people have died in major flooding in Texas. (Image credit: Saul Loeb).",
+      "date": "2026-07-17"
+    },
+    {
+      "title": "What a Times Reporter Saw in Iran, and Takeaways from Trump’s Speech on Election Security",
+      "summary": "Plus, the Friday news quiz.",
+      "date": "2026-07-17"
+    },
+    {
+      "title": "Trump’s Obsession With Relitigating the 2020 Election Carries a Cost for Democracy",
+      "summary": "In demanding steps to address the integrity of voting, President Trump persisted in relitigating his 2020 election defeat while finding ways to cast doubt on the 2026 outcome.",
+      "date": "2026-07-17"
+    },
+    {
+      "title": "Mullin pledges to go after voter fraud after Trump revives election interference claims",
+      "summary": "Homeland Security Secretary Markwayne Mullin spoke about election security a day after President Trump claimed during his primetime address that China interfered in the 2020 election. CBS News' Jake Rosen joins to discuss Mullin's remarks.",
+      "date": "2026-07-17"
+    },
+    {
+      "title": "Maine shooting and officer's background raise new questions about ICE's rapid hiring",
+      "summary": "Immigration and Customs Enforcement has been rapidly expanding its workforce, hiring thousands of new officers as part of the Trump administration's attempt to ramp up immigration arrests and deportations.",
+      "date": "2026-07-17"
     }
   ],
   "sources": [
-    {
-      "title": "Federal judge slams Trump, DOJ over IRS lawsuit",
-      "url": "https://www.cbsnews.com/video/federal-judge-slams-trump-doj-irs-lawsuit/?utm_source=lootura.com",
-      "publishedAt": "2026-07-17T01:19:46.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
-    {
-      "title": "Watch: Trump speaks on elections, alleges Chinese access to voter data | Special Report",
-      "url": "https://www.cbsnews.com/video/watch-trump-speaks-on-elections-alleges-chinese-access-to-voter-data-special-report/?utm_source=lootura.com",
-      "publishedAt": "2026-07-17T02:27:00.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
     {
       "title": "White House teleprompter operator allegedly made over $100K betting on Trump's speeches",
       "url": "https://www.cbsnews.com/video/white-house-teleprompter-operator-allegedly-made-over-100k-betting-on-trumps-speeches/?utm_source=lootura.com",
@@ -86,34 +74,10 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "Fact checking Trump speech on election security",
-      "url": "https://www.cbsnews.com/news/fact-checking-trump-speech-on-election-security/?utm_source=lootura.com",
-      "publishedAt": "2026-07-17T04:07:32.000Z",
+      "title": "Mullin pledges to go after voter fraud after Trump revives election interference claims",
+      "url": "https://www.cbsnews.com/video/mullin-pledges-to-go-after-voter-fraud-trump-revives-election-interference-claims/?utm_source=lootura.com",
+      "publishedAt": "2026-07-17T16:27:13.000Z",
       "sourceId": "lootura-us-cbs-news"
-    },
-    {
-      "title": "Sen. Mark Warner slams Trump's primetime speech: \"Incredible lies\"",
-      "url": "https://www.cbsnews.com/video/sen-mark-warner-slams-trumps-primetime-speech/?utm_source=lootura.com",
-      "publishedAt": "2026-07-17T02:04:00.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
-    {
-      "title": "Trump administration to declassify documents relating to China and U.S. elections",
-      "url": "https://www.nbcnews.com/video/trump-administration-to-declassify-documents-relating-to-china-and-u-s-elections-266817605523?utm_source=lootura.com",
-      "publishedAt": "2026-07-17T01:31:09.000Z",
-      "sourceId": "lootura-us-nbc-news"
-    },
-    {
-      "title": "How paper ballots make digital manipulation of results unlikely",
-      "url": "https://www.nbcnews.com/video/how-paper-ballots-make-digital-manipulation-of-results-unlikely-266817605727?utm_source=lootura.com",
-      "publishedAt": "2026-07-17T02:02:40.000Z",
-      "sourceId": "lootura-us-nbc-news"
-    },
-    {
-      "title": "Trump Uses Prime-Time Speech to Revive False Election Claims",
-      "url": "https://www.today.com/video/trump-revives-false-election-claims-ahead-of-crucial-midterms-266832965531?utm_source=lootura.com",
-      "publishedAt": "2026-07-17T11:19:29.000Z",
-      "sourceId": "lootura-us-nbc-news-politics"
     },
     {
       "title": "Trump's team says 'no children' died from USAID cuts. Consider these 3 cases",
@@ -126,7 +90,43 @@
       "url": "https://www.npr.org/2026/07/17/nx-s1-5896138/rep-jim-himes-reacts-to-trumps-speech-on-election-security?utm_source=lootura.com",
       "publishedAt": "2026-07-17T08:42:48.000Z",
       "sourceId": "lootura-us-npr-politics"
+    },
+    {
+      "title": "Takeaways from Trump's primetime speech. And, at least 2 dead in major Texas flooding",
+      "url": "https://www.npr.org/2026/07/17/g-s1-134162/up-first-newsletter-trump-speech-illegal-voting-texas-flooding-wildfires-air-quality?utm_source=lootura.com",
+      "publishedAt": "2026-07-17T11:27:01.000Z",
+      "sourceId": "lootura-us-npr-politics"
+    },
+    {
+      "title": "World leaders meet in D.C. to discuss left-wing political violence",
+      "url": "https://www.npr.org/2026/07/17/nx-s1-5888660/world-leaders-meet-in-d-c-to-discuss-left-wing-political-violence?utm_source=lootura.com",
+      "publishedAt": "2026-07-17T08:43:23.000Z",
+      "sourceId": "lootura-us-npr-politics"
+    },
+    {
+      "title": "Trump claims the country's voting systems are vulnerable in primetime address",
+      "url": "https://www.npr.org/2026/07/17/nx-s1-5896426/trump-claims-the-countrys-voting-systems-are-vulnerable-in-primetime-address?utm_source=lootura.com",
+      "publishedAt": "2026-07-17T08:42:53.000Z",
+      "sourceId": "lootura-us-npr-politics"
+    },
+    {
+      "title": "Maine shooting and officer's background raise new questions about ICE's rapid hiring",
+      "url": "https://www.pbs.org/newshour/nation/maine-shooting-and-officers-background-raise-new-questions-about-ices-rapid-hiring?utm_source=lootura.com",
+      "publishedAt": "2026-07-17T14:50:47.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
+    },
+    {
+      "title": "What a Times Reporter Saw in Iran, and Takeaways from Trump’s Speech on Election Security",
+      "url": "https://www.nytimes.com/2026/07/17/podcasts/the-headlines/iran-trump-speech-election-security.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-17T11:24:48.000Z",
+      "sourceId": "lootura-us-the-new-york-times"
+    },
+    {
+      "title": "Trump’s Obsession With Relitigating the 2020 Election Carries a Cost for Democracy",
+      "url": "https://www.nytimes.com/2026/07/17/us/politics/trump-elections-politics.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-17T16:07:32.000Z",
+      "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 19
+  "evidenceCount": 12
 }

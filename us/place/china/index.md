@@ -3,10 +3,22 @@
 > Follow China, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-17T13:22:45.540Z
+- Updated: 2026-07-17T17:09:22.641Z
 - Canonical: https://atlas.lootura.com/us/place/china
 
 ## Recent changes
+
+### US politicians push agencies to restrict research collaboration with China
+
+Nature, Published online: 16 July 2026; doi:10.1038/d41586-026-02226-9 Republicans and Democrats worry about research theft and exploitation — but don’t agree on how to solve the problem.
+
+Date: 2026-07-17
+
+### Mullin pledges to go after voter fraud after Trump revives election interference claims
+
+Homeland Security Secretary Markwayne Mullin spoke about election security a day after President Trump claimed during his primetime address that China interfered in the 2020 election. CBS News' Jake Rosen joins to discuss Mullin's remarks.
+
+Date: 2026-07-17
 
 ### Trump administration to declassify documents relating to China and U.S. elections
 
@@ -23,12 +35,6 @@ Date: 2026-07-17
 ### How paper ballots make digital manipulation of results unlikely
 
 NBC News’ Jane Timm analyzes President Trump’s claims about digital manipulation of ballot results in the U.S., as Trump said that the White House will declassify documents related to the 2020 election and alleged influence by China during his speech to the nation.
-
-Date: 2026-07-17
-
-### US politicians push agencies to restrict research collaboration with China
-
-Nature, Published online: 16 July 2026; doi:10.1038/d41586-026-02226-9 Republicans and Democrats worry about research theft and exploitation — but don’t agree on how to solve the problem.
 
 Date: 2026-07-17
 
@@ -62,16 +68,7 @@ NBC News’ Jane Timm analyzes President Trump’s claims about digital manipula
 
 Date: 2026-07-17
 
-### China’s Economy Grows at Slowest Pace in Years
-
-Economic growth of 4.3 percent in the second quarter, versus the same period last year, reflected a broad slump outside of the country’s export-oriented manufacturing might.
-
-Date: 2026-07-15
-
 ## Sources
 
-- [Watch: Trump speaks on elections, alleges Chinese access to voter data | Special Report](https://www.cbsnews.com/video/watch-trump-speaks-on-elections-alleges-chinese-access-to-voter-data-special-report/?utm_source=lootura.com) — 2026-07-17T02:27:00.000Z
-- [US politicians push agencies to restrict research collaboration with China](https://www.nature.com/articles/d41586-026-02226-9?utm_source=lootura.com) — 2026-07-17T13:22:49.286Z
-- [Trump administration to declassify documents relating to China and U.S. elections](https://www.nbcnews.com/video/trump-administration-to-declassify-documents-relating-to-china-and-u-s-elections-266817605523?utm_source=lootura.com) — 2026-07-17T01:31:09.000Z
-- [How paper ballots make digital manipulation of results unlikely](https://www.nbcnews.com/video/how-paper-ballots-make-digital-manipulation-of-results-unlikely-266817605727?utm_source=lootura.com) — 2026-07-17T02:02:40.000Z
-- [Trump Uses Prime-Time Speech to Revive False Election Claims](https://www.today.com/video/trump-revives-false-election-claims-ahead-of-crucial-midterms-266832965531?utm_source=lootura.com) — 2026-07-17T11:19:29.000Z
+- [Mullin pledges to go after voter fraud after Trump revives election interference claims](https://www.cbsnews.com/video/mullin-pledges-to-go-after-voter-fraud-trump-revives-election-interference-claims/?utm_source=lootura.com) — 2026-07-17T16:27:13.000Z
+- [US politicians push agencies to restrict research collaboration with China](https://www.nature.com/articles/d41586-026-02226-9?utm_source=lootura.com) — 2026-07-17T17:09:27.473Z

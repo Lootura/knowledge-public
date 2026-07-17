@@ -8,9 +8,14 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/china/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/china/index.json",
   "description": "Sigue la actividad de China en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-17T13:22:29.680Z",
+  "updatedAt": "2026-07-17T17:09:01.091Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "China exige a Trump que aparque el «invento» de la presunta injerencia electoral en 2020",
+      "summary": "China ha rechazado por completo las acusaciones formuladas por el presidente de Estados Unidos , Donald Trump , quien, esta pasada noche y en un discurso ante la nación, denunció que las autoridades de Pekín se habían inmiscuido en el desarrollo de las elecciones de 2020 . Trump y el Gobierno de Estados Unidos acusaron.",
+      "date": "2026-07-17"
+    },
     {
       "title": "Trump resucita en un discurso a la nación el bulo del fraude electoral de 2020 y exagera la influencia de China en su derrota",
       "summary": "Donald Trump, líder de un país en guerra y con el coste de la vida en alza, se dirigió este jueves por la noche a la nación para hablar de las elecciones... de hace seis años. No fue solo un intento de ajuste de cuentas con un fracaso personal; el presidente de Estados Unidos, cuya impopularidad bate récords, habló con.",
@@ -55,26 +60,15 @@
       "title": "Trump desclasifica informes de la CIA que «prueban que el sistema electoral ha sido manipulado» y acusa a China",
       "summary": "El presidente estadounidense, Donald Trump, ha anunciado esta madrugada que ha desclasificado informes de la CIA que «prueban que el sistema electoral de EEUU es vulnerable ». «Hay niveles de hackeo y de interferencia extranjera nunca vistos», ha llegado a asegurar, y ha acusado sobre todo a China de las «graves injere.",
       "date": "2026-07-17"
-    },
-    {
-      "title": "Cómo el ‘Temu Range Rover’ de China se convirtió en el coche más vendido de Gran Bretaña",
-      "summary": "Los Land Rover son tan británicos como el rey, los crumpets y el críquet. Este robusto todoterreno ha sido un caballo de batalla para el ejército británico desde 1948. La familia real cuenta con una flota de Landys en su castillo de Escocia. Y en los Cotswolds —el destino de fin de semana por excelencia de Inglaterra,.",
-      "date": "2026-07-16"
     }
   ],
   "sources": [
     {
-      "title": "Trump resucita en un discurso a la nación el bulo del fraude electoral de 2020 y exagera la influencia de China en su derrota",
-      "url": "https://elpais.com/internacional/2026-07-17/trump-resucita-en-un-discurso-a-la-nacion-el-bulo-del-fraude-electoral-de-2020-y-acusa-a-china-de-influir-en-su-derrota.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-17T01:28:02.000Z",
-      "sourceId": "lootura-es-el-pais"
-    },
-    {
-      "title": "XPENG L03: el SUV chino con diseño español",
-      "url": "https://www.larazon.es/motor/xpeng-l03-suv-chino-diseno-espanol_202607176a5a27640500ab412c9b1226.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-17T13:00:20.000Z",
-      "sourceId": "lootura-es-la-razon"
+      "title": "China exige a Trump que aparque el «invento» de la presunta injerencia electoral en 2020",
+      "url": "https://theobjective.com/internacional/2026-07-17/china-trump-invento-injerencia-electoral/?utm_source=lootura.com",
+      "publishedAt": "2026-07-17T16:30:35.000Z",
+      "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

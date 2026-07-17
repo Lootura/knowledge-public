@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/santos-cerd/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/santos-cerd/index.json",
   "description": "Sigue la actividad de Santos Cerd en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-17T13:22:29.680Z",
+  "updatedAt": "2026-07-17T17:09:01.091Z",
   "aliases": [],
   "changes": [
     {
@@ -19,11 +19,11 @@
   ],
   "sources": [
     {
-      "title": "La directora de la Guardia Civil se desmarca de la trama Leire y se muestra como \"víctima\" de Cerdán",
-      "url": "https://www.20minutos.es/nacional/mercedes-gonzalez-directora-guardia-civil-se-desmarca-trama-leire-se-muestra-como-victima-cerdan_7015908_0.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-17T11:16:37.000Z",
+      "title": "La UCO detecta que Santos Cerdán obtuvo sus mayores beneficios cuando José Luis Ábalos era ministro de Transportes",
+      "url": "https://www.20minutos.es/nacional/uco-detecta-que-santos-cerdan-obtuvo-sus-mayores-beneficios-cuando-jose-luis-abalos-era-ministro-transportes_7016035_0.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-17T15:10:10.000Z",
       "sourceId": "lootura-es-20minutos"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 0
 }

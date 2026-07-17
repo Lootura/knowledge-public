@@ -8,17 +8,27 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/maine/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/maine/index.json",
   "description": "Follow Maine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-17T13:22:45.540Z",
+  "updatedAt": "2026-07-17T17:09:22.641Z",
   "aliases": [],
   "changes": [
     {
-      "title": "5 Takeaways From a Maine Debate That Showed Replacing Platner Isn’t Easy",
-      "summary": "Maine Democrats vying to become the state’s new Senate nominee met, and mostly agreed, at a debate filled with halting answers and stilted deliveries.",
+      "title": "‘Professional malpractice’: The Platner fallout engulfs the operatives who made him",
+      "summary": "When Daniel Moraff showed up on Graham Platner's doorstep last summer, the oyster farmer had a message for the young political operative who had traveled to the Maine coast to convince him to run for the U.S. Senate: \"Get the fuck off my property.\" It took weeks of prodding before Platner relented, according to two peo.",
       "date": "2026-07-17"
     },
     {
-      "title": "‘Professional malpractice’: The Platner fallout engulfs the operatives who made him",
-      "summary": "When Daniel Moraff showed up on Graham Platner's doorstep last summer, the oyster farmer had a message for the young political operative who had traveled to the Maine coast to convince him to run for the U.S. Senate: \"Get the fuck off my property.\" It took weeks of prodding before Platner relented, according to two peo.",
+      "title": "ICE officer in Maine shooting has history of violent behavior, relatives say",
+      "summary": "The Immigration and Customs Enforcement officer who shot and killed a Colombian man in Maine this week is an Army veteran who has struggled with serious mental health issues since early childhood, relatives say.",
+      "date": "2026-07-17"
+    },
+    {
+      "title": "Maine shooting and officer's background raise new questions about ICE's rapid hiring",
+      "summary": "Immigration and Customs Enforcement has been rapidly expanding its workforce, hiring thousands of new officers as part of the Trump administration's attempt to ramp up immigration arrests and deportations.",
+      "date": "2026-07-17"
+    },
+    {
+      "title": "5 Takeaways From a Maine Debate That Showed Replacing Platner Isn’t Easy",
+      "summary": "Maine Democrats vying to become the state’s new Senate nominee met, and mostly agreed, at a debate filled with halting answers and stilted deliveries.",
       "date": "2026-07-17"
     },
     {
@@ -50,31 +60,27 @@
       "title": "Videos Detail Moments Surrounding Fatal ICE Shooting in Biddeford, Maine",
       "summary": "Footage obtained by The New York Times shows ICE agents in the moments before and after the killing of Joan Sebastian Guerrero. The circumstances of the shooting remain unclear.",
       "date": "2026-07-15"
-    },
-    {
-      "title": "Colombian Immigrant Killed by ICE in Maine Had Legal Status, Father Says",
-      "summary": "The father of Joan Sebastian Guerrero, the man fatally shot by a federal immigration agent on Monday, said his son had been working two jobs to support his wife and daughter.",
-      "date": "2026-07-15"
-    },
-    {
-      "title": "Here Are the Maine Democrats Running to Replace Graham Platner",
-      "summary": "To win, they’ll have to convince Democrats at a July 25 convention that they’re the best candidate to take on Senator Susan Collins, a Republican.",
-      "date": "2026-07-15"
     }
   ],
   "sources": [
+    {
+      "title": "ICE officer in Maine shooting has history of violent behavior, relatives say",
+      "url": "https://www.cbsnews.com/news/ice-shooting-maine-officer-history-violent-behavior/?utm_source=lootura.com",
+      "publishedAt": "2026-07-17T16:32:00.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
+    {
+      "title": "Maine shooting and officer's background raise new questions about ICE's rapid hiring",
+      "url": "https://www.pbs.org/newshour/nation/maine-shooting-and-officers-background-raise-new-questions-about-ices-rapid-hiring?utm_source=lootura.com",
+      "publishedAt": "2026-07-17T14:50:47.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
+    },
     {
       "title": "‘Professional malpractice’: The Platner fallout engulfs the operatives who made him",
       "url": "https://www.politico.com/news/2026/07/17/platner-is-finished-does-the-same-fate-await-the-out-of-state-consultants-who-recruited-him-01002652?utm_source=lootura.com",
       "publishedAt": "2026-07-17T09:55:00.000Z",
       "sourceId": "lootura-us-politico"
-    },
-    {
-      "title": "5 Takeaways From a Maine Debate That Showed Replacing Platner Isn’t Easy",
-      "url": "https://www.nytimes.com/2026/07/16/us/politics/maine-senate-debate-takeaways.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-17T02:07:46.000Z",
-      "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 3
 }

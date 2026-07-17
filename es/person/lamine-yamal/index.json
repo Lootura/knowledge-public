@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/lamine-yamal/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/lamine-yamal/index.json",
   "description": "Sigue la actividad de Lamine Yamal en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-17T06:12:48.444Z",
+  "updatedAt": "2026-07-17T17:09:01.091Z",
   "aliases": [],
   "changes": [
     {
@@ -57,6 +57,13 @@
       "date": "2026-07-08"
     }
   ],
-  "sources": [],
+  "sources": [
+    {
+      "title": "Lamine Yamal y Pedro Porro se entrenan con el grupo y estarán listos para la final",
+      "url": "https://okdiario.com/mundial/mejor-noticia-espana-antes-final-lamine-yamal-pedro-porro-entrenan-grupo-estaran-listos-final-19018655?utm_source=lootura.com",
+      "publishedAt": "2026-07-17T16:15:35.000Z",
+      "sourceId": "lootura-es-ok-diario"
+    }
+  ],
   "evidenceCount": 0
 }

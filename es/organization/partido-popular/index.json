@@ -8,11 +8,16 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/partido-popular/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/partido-popular/index.json",
   "description": "Sigue la actividad de Partido Popular en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-17T02:26:45.462Z",
+  "updatedAt": "2026-07-17T17:09:01.091Z",
   "aliases": [
     "PP"
   ],
   "changes": [
+    {
+      "title": "El viceconsejero de Vox en la Junta fue falangista, considera un peligro las autonomías y cree falsa la convivencia de Al-Ándalus",
+      "summary": "Rafael Sánchez Saus, recién nombrado viceconsejero de Turismo, Justicia, Desregulación y Administración Local, carece de experiencia administrativa en las áreas que el PP ha entregado a Vox en el pacto para formar el Gobierno de la Junta de Andalucía y fue falangista, una ideología que dice que ahora no comparte. En el.",
+      "date": "2026-07-17"
+    },
     {
       "title": "Feijóo acata el aval a la amnistía entre reproches a Sánchez: «Mintió y vendió a los españoles»",
       "summary": "El presidente del Partido Popular, Alberto Núñez Feijóo , ha subrayado este miércoles en Las Palmas de Gran Canaria que un demócrata «respeta las sentencias, todas las sentencias y de todos los tribunales » y, además, «no ordena a sus ministros salir a señalar a jueces con nombres y apellidos». Núñez Feijóo ha hecho es.",
@@ -57,13 +62,15 @@
       "title": "El PP respeta el fallo del Tribunal, pero carga contra Sánchez: “Ningún presidente debe cambiar poder por impunidad”",
       "summary": "Tras l a decisión del Tribunal de Justicia de la Unión Europea (TJUE) de avalar la ley de amnistía , que zanja el debate jurídico, el Partido Popular ha tratado de reorientar su rechazo a la norma al terreno político y moral. Los populares han declarado su “respeto absoluto al fallo del Tribunal” en un breve comunicado.",
       "date": "2026-07-16"
-    },
-    {
-      "title": "El PP puntualiza que el fallo del TJUE sobre la amnistía no examina su constitucionalidad",
-      "summary": "El PP ha puntualizado este jueves que el fallo del Tribunal de Justicia de la Unión Europea (TJUE) sobre la ley de amnistía es «un paso más» de un largo.",
-      "date": "2026-07-16"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "El viceconsejero de Vox en la Junta fue falangista, considera un peligro las autonomías y cree falsa la convivencia de Al-Ándalus",
+      "url": "https://elpais.com/espana/andalucia/2026-07-17/el-viceconsejero-de-vox-en-la-junta-fue-falangista-considera-un-peligro-las-autonomias-y-cree-falsa-la-convivencia-de-al-andalus.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-17T10:38:59.000Z",
+      "sourceId": "lootura-es-el-pais"
+    }
+  ],
+  "evidenceCount": 1
 }

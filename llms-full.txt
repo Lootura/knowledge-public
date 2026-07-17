@@ -27,9 +27,9 @@
 - [Luis Goytisolo](https://atlas.lootura.com/es/person/luis-goytisolo): Sigue la actividad de Luis Goytisolo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 - [Mariano Rajoy](https://atlas.lootura.com/es/person/mariano-rajoy): Sigue la actividad de Mariano Rajoy en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 - [Mercedes Gonz](https://atlas.lootura.com/es/person/mercedes-gonz): Sigue la actividad de Mercedes Gonz en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
+- [Nueva York](https://atlas.lootura.com/es/person/nueva-york): Sigue la actividad de Nueva York en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 - [Oriol Junqueras](https://atlas.lootura.com/es/person/oriol-junqueras): Sigue la actividad de Oriol Junqueras en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 - [Pedro Sánchez](https://atlas.lootura.com/es/person/pedro-sanchez): Sigue la actividad de Pedro Sánchez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
-- [Reino Unido](https://atlas.lootura.com/es/person/reino-unido): Sigue la actividad de Reino Unido en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 - [Santos Cerd](https://atlas.lootura.com/es/person/santos-cerd): Sigue la actividad de Santos Cerd en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 - [Volodimir Zelenski](https://atlas.lootura.com/es/person/volodimir-zelenski): Sigue la actividad de Volodimir Zelenski en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 - [Barcelona](https://atlas.lootura.com/es/place/barcelona): Sigue la actividad de Barcelona en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
@@ -66,6 +66,7 @@
 - [Grand Staircase](https://atlas.lootura.com/us/person/grand-staircase): Follow Grand Staircase, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 - [Jay Clayton](https://atlas.lootura.com/us/person/jay-clayton): Follow Jay Clayton, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 - [Oval Office](https://atlas.lootura.com/us/person/oval-office): Follow Oval Office, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
+- [Saul Loeb](https://atlas.lootura.com/us/person/saul-loeb): Follow Saul Loeb, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 - [South Carolina](https://atlas.lootura.com/us/person/south-carolina): Follow South Carolina, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 - [Tyler Robinson](https://atlas.lootura.com/us/person/tyler-robinson): Follow Tyler Robinson, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 - [Canada](https://atlas.lootura.com/us/place/canada): Follow Canada, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.

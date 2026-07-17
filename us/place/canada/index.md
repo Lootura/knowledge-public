@@ -3,14 +3,14 @@
 > Follow Canada, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-17T13:22:45.540Z
+- Updated: 2026-07-17T17:09:22.641Z
 - Canonical: https://atlas.lootura.com/us/place/canada
 
 ## Recent changes
 
 ### Maps show wildfire smoke forecast, air quality alerts in swath of U.S.
 
-Heavy smoke from several large wildfires blazing in Canada and Minnesota is engulfing large swaths of the Midwest and Northeast U.S. this week.
+Heavy smoke from several large wildfires blazing in Canada and Minnesota is engulfing large swaths of the Midwest and the U.S. East Coast this week.
 
 Date: 2026-07-17
 
@@ -23,6 +23,12 @@ Date: 2026-07-17
 ### 100 million Americans across 14 states impacted by heavy smoke from Canadian wildfires
 
 Smoke from wildfires in Canada is creating dangerous air quality conditions for approximately 100 million Americans in more than a dozen states. Rob Marciano has the latest.
+
+Date: 2026-07-17
+
+### Is smoke in your home? Here's how to make an air purifier using a box fan
+
+Smoke from wildfires in Canada and Minnesota is sending air quality indexes to record levels, posing a hazard for millions of people. Here are tips for how to breathe easier in your home. (Image credit: Finn Gomez).
 
 Date: 2026-07-17
 
@@ -62,16 +68,11 @@ More than 100 wildfires are burning in Canada and winds are carrying the smoke s
 
 Date: 2026-07-15
 
-### Wildfires expose millions in Midwest, Northeast to dangerous smoke
-
-Heavy smoke from several large wildfires blazing in Canada and Minnesota is expected to engulf large swaths of the Midwest and Northeast U.S. this week.
-
-Date: 2026-07-15
-
 ## Sources
 
 - [100 million Americans across 14 states impacted by heavy smoke from Canadian wildfires](https://www.cbsnews.com/video/100-million-americans-impacted-heavy-smoke-canadian-wildfires/?utm_source=lootura.com) — 2026-07-17T13:01:14.000Z
-- [Maps show wildfire smoke forecast, air quality alerts in swath of U.S.](https://www.cbsnews.com/news/wildfires-smoke-millions-exposed-midwest-northeast-us/?utm_source=lootura.com) — 2026-07-17T02:26:00.000Z
+- [Maps show wildfire smoke forecast, air quality alerts in swath of U.S.](https://www.cbsnews.com/news/wildfires-smoke-millions-exposed-midwest-northeast-us/?utm_source=lootura.com) — 2026-07-17T15:50:44.000Z
+- [Is smoke in your home? Here's how to make an air purifier using a box fan](https://www.npr.org/2026/07/17/g-s1-134179/is-smoke-in-your-home-heres-how-to-make-an-air-purifier-using-a-box-fan?utm_source=lootura.com) — 2026-07-17T15:07:09.000Z
 - [Dangerous wildfire smoke continues to blanket parts of the U.S.](https://www.npr.org/2026/07/16/nx-s1-5894857/wildfire-smoke-fires-ontario-minnesota?utm_source=lootura.com) — 2026-07-16T20:32:27.000Z
 - [What to Know About Canada Wildfire Smoke and Air Quality in U.S. Cities](https://www.nytimes.com/2026/07/16/weather/what-to-know-canada-wildfires-smoke.html?utm_source=lootura.com) — 2026-07-17T01:02:04.000Z
 - [Canada’s Wildfires Are Burning Through the Night](https://www.nytimes.com/2026/07/16/world/canada/canada-wildfires-firefighters-heat.html?utm_source=lootura.com) — 2026-07-16T22:08:16.000Z

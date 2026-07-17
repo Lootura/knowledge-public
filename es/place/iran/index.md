@@ -70,4 +70,4 @@ Date: 2026-07-16
 
 ## Fuentes
 
-- [El primer portaviones nuclear de Estados Unidos camino al desguace y no tiene nada que ver con Irán](https://www.larazon.es/tecnologia-consumo/primer-portaviones-nuclear-estados-unidos-camino-desguace-no-tiene-nada-ver-iran_202607176a59ee4c1db8de040993bc9d.html?utm_source=lootura.com) — 2026-07-17T13:18:00.000Z
+No public source links.

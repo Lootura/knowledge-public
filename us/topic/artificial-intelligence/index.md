@@ -3,7 +3,7 @@
 > Follow Artificial intelligence, a tracked topic, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: topic
-- Updated: 2026-07-17T13:22:45.540Z
+- Updated: 2026-07-17T17:09:22.641Z
 - Canonical: https://atlas.lootura.com/us/topic/artificial-intelligence
 
 ## Recent changes
@@ -17,6 +17,12 @@ Date: 2026-07-17
 ### A global capital for AI safety is emerging — and it’s not in Silicon Valley
 
 Nature, Published online: 16 July 2026; doi:10.1038/d41586-026-01389-9 The United Kingdom is gaining influence through its growing AI-safety ecosystem.
+
+Date: 2026-07-17
+
+### AI‑designed gene‑editing enzymes expand the CRISPR toolbox
+
+Scientists have made many advances using traditional CRISPR technology, especially in medicine, but they are now seeking ways to create genuinely new gene-editing enzymes with properties that have not already evolved naturally. A new study, published in Science, describes a new AI-designed synthetic TnpB enzyme, called.
 
 Date: 2026-07-17
 
@@ -62,13 +68,8 @@ Nature, Published online: 16 July 2026; doi:10.1038/d41586-026-01389-9 The Unite
 
 Date: 2026-07-16
 
-### Does AI work for us, or do we work for AI?
-
-Science, Volume 393, Issue 6807 , Page 152-152, July 2026.
-
-Date: 2026-07-16
-
 ## Sources
 
-- [AI is set to completely transform cybersecurity — here’s how researchers must prepare](https://www.nature.com/articles/d41586-026-02214-z?utm_source=lootura.com) — 2026-07-17T13:22:49.286Z
-- [A global capital for AI safety is emerging — and it’s not in Silicon Valley](https://www.nature.com/articles/d41586-026-01389-9?utm_source=lootura.com) — 2026-07-17T13:22:49.286Z
+- [AI is set to completely transform cybersecurity — here’s how researchers must prepare](https://www.nature.com/articles/d41586-026-02214-z?utm_source=lootura.com) — 2026-07-17T17:09:27.473Z
+- [A global capital for AI safety is emerging — and it’s not in Silicon Valley](https://www.nature.com/articles/d41586-026-01389-9?utm_source=lootura.com) — 2026-07-17T17:09:27.473Z
+- [AI‑designed gene‑editing enzymes expand the CRISPR toolbox](https://phys.org/news/2026-07-aidesigned-geneediting-enzymes-crispr-toolbox.html?utm_source=lootura.com) — 2026-07-17T16:59:19.000Z

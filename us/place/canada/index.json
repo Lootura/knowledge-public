@@ -8,12 +8,12 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/canada/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/canada/index.json",
   "description": "Follow Canada, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-17T13:22:45.540Z",
+  "updatedAt": "2026-07-17T17:09:22.641Z",
   "aliases": [],
   "changes": [
     {
       "title": "Maps show wildfire smoke forecast, air quality alerts in swath of U.S.",
-      "summary": "Heavy smoke from several large wildfires blazing in Canada and Minnesota is engulfing large swaths of the Midwest and Northeast U.S. this week.",
+      "summary": "Heavy smoke from several large wildfires blazing in Canada and Minnesota is engulfing large swaths of the Midwest and the U.S. East Coast this week.",
       "date": "2026-07-17"
     },
     {
@@ -24,6 +24,11 @@
     {
       "title": "100 million Americans across 14 states impacted by heavy smoke from Canadian wildfires",
       "summary": "Smoke from wildfires in Canada is creating dangerous air quality conditions for approximately 100 million Americans in more than a dozen states. Rob Marciano has the latest.",
+      "date": "2026-07-17"
+    },
+    {
+      "title": "Is smoke in your home? Here's how to make an air purifier using a box fan",
+      "summary": "Smoke from wildfires in Canada and Minnesota is sending air quality indexes to record levels, posing a hazard for millions of people. Here are tips for how to breathe easier in your home. (Image credit: Finn Gomez).",
       "date": "2026-07-17"
     },
     {
@@ -55,11 +60,6 @@
       "title": "Heavy smoke from wildfires blankets the Northeast and Mideast, prompting evacuations",
       "summary": "More than 100 wildfires are burning in Canada and winds are carrying the smoke southeast.",
       "date": "2026-07-15"
-    },
-    {
-      "title": "Wildfires expose millions in Midwest, Northeast to dangerous smoke",
-      "summary": "Heavy smoke from several large wildfires blazing in Canada and Minnesota is expected to engulf large swaths of the Midwest and Northeast U.S. this week.",
-      "date": "2026-07-15"
     }
   ],
   "sources": [
@@ -72,8 +72,14 @@
     {
       "title": "Maps show wildfire smoke forecast, air quality alerts in swath of U.S.",
       "url": "https://www.cbsnews.com/news/wildfires-smoke-millions-exposed-midwest-northeast-us/?utm_source=lootura.com",
-      "publishedAt": "2026-07-17T02:26:00.000Z",
+      "publishedAt": "2026-07-17T15:50:44.000Z",
       "sourceId": "lootura-us-cbs-news"
+    },
+    {
+      "title": "Is smoke in your home? Here's how to make an air purifier using a box fan",
+      "url": "https://www.npr.org/2026/07/17/g-s1-134179/is-smoke-in-your-home-heres-how-to-make-an-air-purifier-using-a-box-fan?utm_source=lootura.com",
+      "publishedAt": "2026-07-17T15:07:09.000Z",
+      "sourceId": "lootura-us-npr"
     },
     {
       "title": "Dangerous wildfire smoke continues to blanket parts of the U.S.",
@@ -94,5 +100,5 @@
       "sourceId": "lootura-us-the-new-york-times"
     }
   ],
-  "evidenceCount": 5
+  "evidenceCount": 6
 }

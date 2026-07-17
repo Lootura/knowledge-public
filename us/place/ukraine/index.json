@@ -8,11 +8,16 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/ukraine/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/ukraine/index.json",
   "description": "Follow Ukraine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-17T13:22:45.540Z",
+  "updatedAt": "2026-07-17T17:09:22.641Z",
   "aliases": [
     "Kyiv"
   ],
   "changes": [
+    {
+      "title": "Ukraine fights under an interim defense chief after Zelenskyy's contested government shake-up",
+      "summary": "Ukraine fought Russia's more than 4-year-old invasion under an interim defense minister Friday, a day after a government reshuffle exposed a deep split between the military's old guard and young innovators over how to fight the war.",
+      "date": "2026-07-17"
+    },
     {
       "title": "A Russian Political Battle Ends With a Visit From Masked Men",
       "summary": "Boris B. Nadezhdin, an outspoken opponent of the war in Ukraine, says he knows why he was detained: “Among our leadership, there is panic and chaos.”.",
@@ -57,25 +62,20 @@
       "title": "The Essentials About Mykhailo Fedorov, the Ousted Ukrainian Minister",
       "summary": "Mr. Fedorov became the youthful face of Ukraine’s successful drone warfare program. The move to replace him has prompted street protests.",
       "date": "2026-07-16"
-    },
-    {
-      "title": "How drones are reshaping modern warfare in Ukraine, Middle East",
-      "summary": "Drones have become a defining feature of the conflict between Russia and Ukraine. They.",
-      "date": "2026-07-16"
     }
   ],
   "sources": [
+    {
+      "title": "Ukraine fights under an interim defense chief after Zelenskyy's contested government shake-up",
+      "url": "https://www.pbs.org/newshour/world/ukraine-fights-under-an-interim-defense-chief-after-zelenskyys-contested-government-shake-up?utm_source=lootura.com",
+      "publishedAt": "2026-07-17T15:47:54.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
+    },
     {
       "title": "Ukraine Was on a Roll. Then a Clash Over War Strategy Exploded Into View.",
       "url": "https://www.nytimes.com/2026/07/16/world/europe/ukraine-military-defense-minister-drones.html?utm_source=lootura.com",
       "publishedAt": "2026-07-16T22:01:29.000Z",
       "sourceId": "lootura-us-the-new-york-times"
-    },
-    {
-      "title": "A Russian Political Battle Ends With a Visit From Masked Men",
-      "url": "https://www.nytimes.com/2026/07/17/world/europe/russia-politics-election-nadezhdin.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-17T13:02:30.000Z",
-      "sourceId": "lootura-us-the-new-york-times-world"
     }
   ],
   "evidenceCount": 2

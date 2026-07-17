@@ -3,10 +3,16 @@
 > Sigue la actividad de Partido Popular en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-17T02:26:45.462Z
+- Actualizado: 2026-07-17T17:09:01.091Z
 - Canonical: https://atlas.lootura.com/es/organization/partido-popular
 
 ## Cambios recientes
+
+### El viceconsejero de Vox en la Junta fue falangista, considera un peligro las autonomías y cree falsa la convivencia de Al-Ándalus
+
+Rafael Sánchez Saus, recién nombrado viceconsejero de Turismo, Justicia, Desregulación y Administración Local, carece de experiencia administrativa en las áreas que el PP ha entregado a Vox en el pacto para formar el Gobierno de la Junta de Andalucía y fue falangista, una ideología que dice que ahora no comparte. En el.
+
+Date: 2026-07-17
 
 ### Feijóo acata el aval a la amnistía entre reproches a Sánchez: «Mintió y vendió a los españoles»
 
@@ -62,12 +68,6 @@ Tras l a decisión del Tribunal de Justicia de la Unión Europea (TJUE) de avala
 
 Date: 2026-07-16
 
-### El PP puntualiza que el fallo del TJUE sobre la amnistía no examina su constitucionalidad
-
-El PP ha puntualizado este jueves que el fallo del Tribunal de Justicia de la Unión Europea (TJUE) sobre la ley de amnistía es «un paso más» de un largo.
-
-Date: 2026-07-16
-
 ## Fuentes
 
-No public source links.
+- [El viceconsejero de Vox en la Junta fue falangista, considera un peligro las autonomías y cree falsa la convivencia de Al-Ándalus](https://elpais.com/espana/andalucia/2026-07-17/el-viceconsejero-de-vox-en-la-junta-fue-falangista-considera-un-peligro-las-autonomias-y-cree-falsa-la-convivencia-de-al-andalus.html?utm_source=lootura.com) — 2026-07-17T10:38:59.000Z

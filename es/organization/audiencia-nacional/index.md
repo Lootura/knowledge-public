@@ -3,10 +3,22 @@
 > Sigue la actividad de Audiencia Nacional en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-17T13:22:29.680Z
+- Actualizado: 2026-07-17T17:09:01.091Z
 - Canonical: https://atlas.lootura.com/es/organization/audiencia-nacional
 
 ## Cambios recientes
+
+### La UCO cifra en más de 300.000 euros los beneficios que Cerdán y su familia obtuvieron de la trama entre 2015 y 2024
+
+Las investigaciones de la Unidad Central Operativa (UCO) de la Guardia Civil vuelven a poner el foco en el exsecretario de Organización del PSOE Santos Cerdán. El instituto armado ha entregado al juez de la Audiencia Nacional Ismael Moreno, que investiga la red corrupta que presuntamente anidó en el Ministerio de Trans.
+
+Date: 2026-07-17
+
+### El jefe operativo de la Guardia Civil acusa a “algunos” mandos de la UCO de “vanidad”
+
+El teniente general Manuel Llamas, director adjunto operativo (DAO) de la Guardia Civil, ha vuelto a defender su inocencia en el Senado un día después de declarar como imputado en la Audiencia Nacional por los delitos de prevaricación y obstrucción a la justicia dentro del caso Leire Díez , donde se le acusa de haber p.
+
+Date: 2026-07-17
 
 ### Mercedes González, sobre las presiones a un general para boicotear a Ayuso: «Yo no dicté la orden»
 
@@ -56,20 +68,7 @@ El Tribunal de Justicia de la Unión Europea (TJUE) ha avalado este jueves la le
 
 Date: 2026-07-16
 
-### Caso Leire Díez, en directo: Declaran la directora de la Guardia Civil y el DAO en la Audiencia Nacional
-
-La Audiencia Nacional afronta este jueves una jornada clave del ' caso Leire Díez '. El juez Santiago Pedraz interrogará como investigados a la directora general de la Guardia Civil, Mercedes González, y al director adjunto operativo (DAO), Manuel Llamas. Todo ello, dentro de la investigación sobre la presunta trama pa.
-
-Date: 2026-07-16
-
-### La Audiencia Nacional confirma el cártel de las consultoras con más de una veintena de firmas implicadas
-
-ha confirmado que, entre los años 2008 y 2018, existió un cártel formado por empresas de consultoría , que intercambiaron información comercial sensible y se sirvieron de estrategias comunes para garantizarse licitaciones públicas. En cinco sentencias, consultadas por este periódico, la Sala de lo.
-
-Date: 2026-07-16
-
 ## Fuentes
 
-- [Mercedes González, sobre las presiones a un general para boicotear a Ayuso: «Yo no dicté la orden»](https://www.abc.es/espana/gonzalez-sobre-presiones-general-boicotear-ayuso-dicte-20260717140052-nt.html?utm_source=lootura.com) — 2026-07-17T12:30:21.000Z
-- [El imputado DAO de la Guardia Civil critica las pesquisas de la UCO con «proactividad tóxica»](https://www.abc.es/espana/imputado-dao-guardia-civil-aprecia-exceso-protagonismo-20260717135305-nt.html?utm_source=lootura.com) — 2026-07-17T12:51:51.000Z
-- [Puente anima a Puigdemont a regresar a España y ser detenido: “Sería un gesto de liderazgo político”](https://www.lavanguardia.com/politica/20260717/11594602/puente-anima-puigdemont-regresar-espana-detenido-seria-gesto-liderazgo-politico.html?utm_source=lootura.com) — 2026-07-17T10:26:10.000Z
+- [La UCO cifra en más de 300.000 euros los beneficios que Cerdán y su familia obtuvieron de la trama entre 2015 y 2024](https://elpais.com/espana/2026-07-17/la-uco-cifra-en-mas-de-300000-euros-los-beneficios-obtenidos-por-cerdan-y-su-familia-de-la-trama.html?utm_source=lootura.com) — 2026-07-17T16:07:31.000Z
+- [El jefe operativo de la Guardia Civil acusa a “algunos” mandos de la UCO de “vanidad”](https://elpais.com/espana/2026-07-17/el-jefe-operativo-de-la-guardia-civil-acusa-a-algunos-mandos-de-la-uco-de-vanidad.html?utm_source=lootura.com) — 2026-07-17T14:12:32.000Z

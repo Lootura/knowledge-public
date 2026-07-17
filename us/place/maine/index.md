@@ -3,20 +3,32 @@
 > Follow Maine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-17T13:22:45.540Z
+- Updated: 2026-07-17T17:09:22.641Z
 - Canonical: https://atlas.lootura.com/us/place/maine
 
 ## Recent changes
 
-### 5 Takeaways From a Maine Debate That Showed Replacing Platner Isn’t Easy
-
-Maine Democrats vying to become the state’s new Senate nominee met, and mostly agreed, at a debate filled with halting answers and stilted deliveries.
-
-Date: 2026-07-17
-
 ### ‘Professional malpractice’: The Platner fallout engulfs the operatives who made him
 
 When Daniel Moraff showed up on Graham Platner's doorstep last summer, the oyster farmer had a message for the young political operative who had traveled to the Maine coast to convince him to run for the U.S. Senate: "Get the fuck off my property." It took weeks of prodding before Platner relented, according to two peo.
+
+Date: 2026-07-17
+
+### ICE officer in Maine shooting has history of violent behavior, relatives say
+
+The Immigration and Customs Enforcement officer who shot and killed a Colombian man in Maine this week is an Army veteran who has struggled with serious mental health issues since early childhood, relatives say.
+
+Date: 2026-07-17
+
+### Maine shooting and officer's background raise new questions about ICE's rapid hiring
+
+Immigration and Customs Enforcement has been rapidly expanding its workforce, hiring thousands of new officers as part of the Trump administration's attempt to ramp up immigration arrests and deportations.
+
+Date: 2026-07-17
+
+### 5 Takeaways From a Maine Debate That Showed Replacing Platner Isn’t Easy
+
+Maine Democrats vying to become the state’s new Senate nominee met, and mostly agreed, at a debate filled with halting answers and stilted deliveries.
 
 Date: 2026-07-17
 
@@ -56,19 +68,8 @@ Footage obtained by The New York Times shows ICE agents in the moments before an
 
 Date: 2026-07-15
 
-### Colombian Immigrant Killed by ICE in Maine Had Legal Status, Father Says
-
-The father of Joan Sebastian Guerrero, the man fatally shot by a federal immigration agent on Monday, said his son had been working two jobs to support his wife and daughter.
-
-Date: 2026-07-15
-
-### Here Are the Maine Democrats Running to Replace Graham Platner
-
-To win, they’ll have to convince Democrats at a July 25 convention that they’re the best candidate to take on Senator Susan Collins, a Republican.
-
-Date: 2026-07-15
-
 ## Sources
 
+- [ICE officer in Maine shooting has history of violent behavior, relatives say](https://www.cbsnews.com/news/ice-shooting-maine-officer-history-violent-behavior/?utm_source=lootura.com) — 2026-07-17T16:32:00.000Z
+- [Maine shooting and officer's background raise new questions about ICE's rapid hiring](https://www.pbs.org/newshour/nation/maine-shooting-and-officers-background-raise-new-questions-about-ices-rapid-hiring?utm_source=lootura.com) — 2026-07-17T14:50:47.000Z
 - [‘Professional malpractice’: The Platner fallout engulfs the operatives who made him](https://www.politico.com/news/2026/07/17/platner-is-finished-does-the-same-fate-await-the-out-of-state-consultants-who-recruited-him-01002652?utm_source=lootura.com) — 2026-07-17T09:55:00.000Z
-- [5 Takeaways From a Maine Debate That Showed Replacing Platner Isn’t Easy](https://www.nytimes.com/2026/07/16/us/politics/maine-senate-debate-takeaways.html?utm_source=lootura.com) — 2026-07-17T02:07:46.000Z

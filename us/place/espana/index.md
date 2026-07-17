@@ -3,7 +3,7 @@
 > Follow Spain, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-17T13:22:45.540Z
+- Updated: 2026-07-17T17:09:22.641Z
 - Canonical: https://atlas.lootura.com/us/place/espana
 
 ## Recent changes
@@ -70,4 +70,4 @@ Date: 2026-07-09
 
 ## Sources
 
-- [Deadly helicopter crash in Hudson River likely caused by bird strike, NTSB says](https://www.cbsnews.com/news/new-york-helicopter-crash-hudson-river-bird-strike-ntsb/?utm_source=lootura.com) — 2026-07-17T01:58:53.000Z
+- [Steve Kornacki Breaks Down World Cup Final Match](https://www.today.com/video/steve-kornacki-and-martha-stewart-s-grandson-talk-world-cup-266839109959?utm_source=lootura.com) — 2026-07-17T13:35:33.000Z

@@ -3,20 +3,26 @@
 > Sigue la actividad de Estados Unidos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-17T13:22:29.680Z
+- Actualizado: 2026-07-17T17:09:01.091Z
 - Canonical: https://atlas.lootura.com/es/place/united-states
 
 ## Cambios recientes
 
-### Trump resucita en un discurso a la nación el bulo del fraude electoral de 2020 y exagera la influencia de China en su derrota
-
-Donald Trump, líder de un país en guerra y con el coste de la vida en alza, se dirigió este jueves por la noche a la nación para hablar de las elecciones... de hace seis años. No fue solo un intento de ajuste de cuentas con un fracaso personal; el presidente de Estados Unidos, cuya impopularidad bate récords, habló con.
-
-Date: 2026-07-17
-
 ### Un emulador y una demo del ordenador de bolsillo + calculadora científica Casio FX-870P
 
 Los ordenadores de bolsillo fueron durante años una herramienta muy popular entre estudiantes e ingenieros japoneses, aunque en Europa y Estados Unidos nunca llegaron a despegar; quizá por eso no haya tanta documentación como de otros gadgets. Ahora un proyecto de esos creados artesanalmente, por amor al arte , permite.
+
+Date: 2026-07-17
+
+### China exige a Trump que aparque el «invento» de la presunta injerencia electoral en 2020
+
+China ha rechazado por completo las acusaciones formuladas por el presidente de Estados Unidos , Donald Trump , quien, esta pasada noche y en un discurso ante la nación, denunció que las autoridades de Pekín se habían inmiscuido en el desarrollo de las elecciones de 2020 . Trump y el Gobierno de Estados Unidos acusaron.
+
+Date: 2026-07-17
+
+### Trump resucita en un discurso a la nación el bulo del fraude electoral de 2020 y exagera la influencia de China en su derrota
+
+Donald Trump, líder de un país en guerra y con el coste de la vida en alza, se dirigió este jueves por la noche a la nación para hablar de las elecciones... de hace seis años. No fue solo un intento de ajuste de cuentas con un fracaso personal; el presidente de Estados Unidos, cuya impopularidad bate récords, habló con.
 
 Date: 2026-07-17
 
@@ -62,14 +68,8 @@ El presidente de Estados Unidos, Donald Trump, acaba de iniciar un nuevo capítu
 
 Date: 2026-07-16
 
-### EE UU pisa el acelerador en la carrera por los motores hipersónicos con un nuevo fondo de 400 millones de dólares
-
-El desarrollo de nuevos sistemas hipersónicos acaba de recibir el apoyo del Departamento de Guerra de los Estados Unidos tras la decisión de adjudicar aproximadamente 400 millones de euros a la empresa Kratos Defense & Security Solutions . Este nuevo fondo está destinado a acelerar diversos programas de este tipo de si.
-
-Date: 2026-07-16
-
 ## Fuentes
 
-- [Trump resucita en un discurso a la nación el bulo del fraude electoral de 2020 y exagera la influencia de China en su derrota](https://elpais.com/internacional/2026-07-17/trump-resucita-en-un-discurso-a-la-nacion-el-bulo-del-fraude-electoral-de-2020-y-acusa-a-china-de-influir-en-su-derrota.html?utm_source=lootura.com) — 2026-07-17T01:28:02.000Z
-- [El primer portaviones nuclear de Estados Unidos camino al desguace y no tiene nada que ver con Irán](https://www.larazon.es/tecnologia-consumo/primer-portaviones-nuclear-estados-unidos-camino-desguace-no-tiene-nada-ver-iran_202607176a59ee4c1db8de040993bc9d.html?utm_source=lootura.com) — 2026-07-17T13:18:00.000Z
+- [Cubarsí borra la huella de Maldini y ya aspira a ser el mejor joven del Mundial](https://elpais.com/deportes/mundial-futbol/2026-07-17/cubarsi-borra-la-huella-de-maldini-y-ya-aspira-a-ser-el-mejor-joven-del-mundial.html?utm_source=lootura.com) — 2026-07-17T03:30:01.000Z
 - [Un emulador y una demo del ordenador de bolsillo + calculadora científica Casio FX-870P](http://www.microsiervos.com/archivo/gadgets/emulador-ordenador-bolsillo-calculadora-cientifica-casio-fx-870p.html?utm_source=lootura.com) — 2026-07-17T10:38:56.000Z
+- [China exige a Trump que aparque el «invento» de la presunta injerencia electoral en 2020](https://theobjective.com/internacional/2026-07-17/china-trump-invento-injerencia-electoral/?utm_source=lootura.com) — 2026-07-17T16:30:35.000Z

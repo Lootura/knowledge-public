@@ -8,9 +8,19 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/portugal/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/portugal/index.json",
   "description": "Sigue la actividad de Portugal en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-16T06:27:44.347Z",
+  "updatedAt": "2026-07-17T17:09:01.091Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "Un detenido y un investigado por los incendios intencionados de Hermisende (Zamora)",
+      "summary": "Un hombre ha sido detenido en las últimas horas y otro está investigado como supuestos autores de delitos de incendio, por su implicación en más de una decena de incendios forestales intencionados que se han producido en un mes en el municipio zamorano de Hermisende, limítrofe con Portugal y con la provincia de Ourense.",
+      "date": "2026-07-17"
+    },
+    {
+      "title": "El Parlamento de Portugal prohíbe el uso del burka en espacios públicos",
+      "summary": "El Parlamento de Portugal ha aprobado este viernes, con los votos a favor de la derecha y la extrema derecha, un proyecto de ley para prohibir taparse el rostro en lugares públicos del país, incluido el uso del burka . El proyecto pasa ahora al despacho del presidente, António José Seguro, quien podrá promulgarlo, veta.",
+      "date": "2026-07-17"
+    },
     {
       "title": "Discovered by Atlas",
       "summary": "Portugal first entered the public knowledge record with source-backed evidence.",
@@ -50,13 +60,21 @@
       "title": "Muere Bonnie Tyler a los 75 años",
       "summary": "La música británica ha perdido a una de sus voces más singulares. La cantante galesa Bonnie Tyler , autora de algunos de los mayores himnos del pop-rock de las décadas de 1970 y 1980 y dueña de un timbre inconfundible que desafió los cánones de la industria, ha fallecido a los 75 años en un hospital de Portugal, donde.",
       "date": "2026-07-09"
-    },
-    {
-      "title": "Muere Bonnie Tyler a los 75 años | Reacciones y despedidas de hoy a la cantante, en directo",
-      "summary": "La cantante ha fallecido en Portugal tras sufrir complicaciones derivadas de una perforación intestinal.",
-      "date": "2026-07-09"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Un detenido y un investigado por los incendios intencionados de Hermisende (Zamora)",
+      "url": "https://www.larazon.es/castilla-y-leon/detenido-investigado-incendios-intencionados-hermisende-zamora_202607176a5a5fa3e9f2e84b5c6e6e47.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-17T17:00:19.000Z",
+      "sourceId": "lootura-es-la-razon"
+    },
+    {
+      "title": "El Parlamento de Portugal prohíbe el uso del burka en espacios públicos",
+      "url": "https://theobjective.com/internacional/2026-07-17/portugal-prohibicion-burka-espacios-publicos/?utm_source=lootura.com",
+      "publishedAt": "2026-07-17T15:00:54.000Z",
+      "sourceId": "lootura-es-the-objective"
+    }
+  ],
+  "evidenceCount": 2
 }

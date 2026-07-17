@@ -28,4 +28,4 @@ Date: 2026-07-15
 
 ## Fuentes
 
-- [OpenAI lanza un hardware de IA que es una mini-consola de control con aspiraciones de convertirse en el nuevo iPhone (o algo así)](http://www.microsiervos.com/archivo/gadgets/openai-codex-micro-hardware-ia.html?utm_source=lootura.com) — 2026-07-17T09:34:02.000Z
+No public source links.

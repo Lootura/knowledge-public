@@ -3,16 +3,10 @@
 > Follow Democratic Party, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-07-17T13:22:45.540Z
+- Updated: 2026-07-17T17:09:22.641Z
 - Canonical: https://atlas.lootura.com/us/organization/democratic-party
 
 ## Recent changes
-
-### 5 Takeaways From a Maine Debate That Showed Replacing Platner Isn’t Easy
-
-Maine Democrats vying to become the state’s new Senate nominee met, and mostly agreed, at a debate filled with halting answers and stilted deliveries.
-
-Date: 2026-07-17
 
 ### US politicians push agencies to restrict research collaboration with China
 
@@ -29,6 +23,12 @@ Date: 2026-07-17
 ### Republicans in North Carolina Try to Reduce Early Voting on Sundays and on Campuses
 
 Voting-rights activists said the changes are a blatant attempt by G.O.P. leaders to make it harder for Black voters and students, who tend to vote for Democrats, to cast ballots this fall.
+
+Date: 2026-07-17
+
+### 5 Takeaways From a Maine Debate That Showed Replacing Platner Isn’t Easy
+
+Maine Democrats vying to become the state’s new Senate nominee met, and mostly agreed, at a debate filled with halting answers and stilted deliveries.
 
 Date: 2026-07-17
 
@@ -70,7 +70,6 @@ Date: 2026-07-15
 
 ## Sources
 
-- [US politicians push agencies to restrict research collaboration with China](https://www.nature.com/articles/d41586-026-02226-9?utm_source=lootura.com) — 2026-07-17T13:22:49.286Z
+- [US politicians push agencies to restrict research collaboration with China](https://www.nature.com/articles/d41586-026-02226-9?utm_source=lootura.com) — 2026-07-17T17:09:27.473Z
 - [Republican campaigns see immigration as a winning issue for midterms](https://www.npr.org/2026/07/17/g-s1-133702/midterm-election-ads-immigration-republicans-democrats?utm_source=lootura.com) — 2026-07-17T09:00:00.000Z
 - [Republicans in North Carolina Try to Reduce Early Voting on Sundays and on Campuses](https://www.nytimes.com/2026/07/17/us/politics/republicans-in-north-carolina-try-to-reduce-early-voting-on-sundays-and-on-campuses.html?utm_source=lootura.com) — 2026-07-17T09:01:29.000Z
-- [5 Takeaways From a Maine Debate That Showed Replacing Platner Isn’t Easy](https://www.nytimes.com/2026/07/16/us/politics/maine-senate-debate-takeaways.html?utm_source=lootura.com) — 2026-07-17T02:07:46.000Z

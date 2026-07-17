@@ -8,11 +8,16 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/new-york/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/new-york/index.json",
   "description": "Follow New York, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-17T06:13:09.528Z",
+  "updatedAt": "2026-07-17T17:09:22.641Z",
   "aliases": [
     "New York City"
   ],
   "changes": [
+    {
+      "title": "Canadian wildfire smoke linked to fewer bird sightings in New York State",
+      "summary": "Despite burning hundreds of miles away, Canadian wildfires have become a familiar source of disruption in New York state.",
+      "date": "2026-07-17"
+    },
     {
       "title": "‘Everybody Watches’: TIME100 Sports Honorees on Red Carpet Celebrate Rise of Women’s Sports",
       "summary": "Eileen Gu on the TIME100 Sports Gala red carpet on July 16, 2026 in New York City. —Jemal Countess—Getty Images Multiple guests walking the red carpet at the inaugural TIME100 Sports Gala in New York City on July 16 applauded the rise of women’s sports. “Everybody watches women’s sports!” said Eileen Gu , the 2026 TIME.",
@@ -57,13 +62,15 @@
       "title": "'Gus' the T. rex fetches record $50.1 mn at US auction",
       "summary": "A Tyrannosaurus rex skeleton nicknamed \"Gus\" sold Tuesday for $50.1 million at Sotheby's in New York, making it the most valuable dinosaur fossil bought at auction after a 10-minute battle between seven bidders.",
       "date": "2026-07-14"
-    },
-    {
-      "title": "T rex fossil ‘Gus’ sells for $50.1m at New York auction, setting new record",
-      "summary": "Skeleton judged to be one of the largest and most complete ever unearthed was excavated on a ranch in South Dakota A vast, fossilized Tyrannosaurus rex nicknamed Gus sold at Sotheby’s in New York on Tuesday for $50.1m with fees (£37.4m) to a phone bidder – making it the most valuable dinosaur fossil sold at auction. It.",
-      "date": "2026-07-14"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Canadian wildfire smoke linked to fewer bird sightings in New York State",
+      "url": "https://phys.org/news/2026-07-canadian-wildfire-linked-bird-sightings.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-17T17:00:02.000Z",
+      "sourceId": "lootura-us-phys-org"
+    }
+  ],
+  "evidenceCount": 1
 }

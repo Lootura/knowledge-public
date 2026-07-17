@@ -3,20 +3,20 @@
 > Sigue la actividad de Begoña Gómez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-17T13:22:29.680Z
+- Actualizado: 2026-07-17T17:09:01.091Z
 - Canonical: https://atlas.lootura.com/es/person/begona-gomez
 
 ## Cambios recientes
 
-### Cómo se elegirán a los nueve miembros del jurado que juzgarán a Begoña Gómez: así es la lista de los candidatos
-
-La elección de los nueve miembros del jurado que juzgarán a Begoña Gómez partirá de una lista de 2.846 candidatos de la Comunidad de Madrid . De ese registro se convocará a 30 ciudadanos , entre los que se escogerá a los nueve titulares y a dos suplentes que participarán en el juicio. La Audiencia Provincial de Madrid.
-
-Date: 2026-07-17
-
 ### Cuándo será el juicio a Begoña Gómez: delitos de los que se le acusan y previsión de fechas
 
 El calendario judicial apunta a 2027 como el horizonte más probable para la celebración de uno de los juicios con mayor repercusión pública de los últimos años. Aunque todavía no existe una fecha concreta , los trámites pendientes, la composición del tribunal y la carga de trabajo de la Audiencia Provincial de Madrid h.
+
+Date: 2026-07-17
+
+### Cómo se elegirán a los nueve miembros del jurado que juzgarán a Begoña Gómez: así es la lista de los candidatos
+
+La elección de los nueve miembros del jurado que juzgarán a Begoña Gómez partirá de una lista de 2.846 candidatos de la Comunidad de Madrid . De ese registro se convocará a 30 ciudadanos , entre los que se escogerá a los nueve titulares y a dos suplentes que participarán en el juicio. La Audiencia Provincial de Madrid.
 
 Date: 2026-07-17
 
@@ -71,4 +71,3 @@ Date: 2026-07-16
 ## Fuentes
 
 - [Cuándo será el juicio a Begoña Gómez: delitos de los que se le acusan y previsión de fechas](https://www.elconfidencial.com/espana/2026-07-17/juicio-begona-gomez-delitos-prevision-fecha_4391691/?utm_source=lootura.com) — 2026-07-17T11:44:00.000Z
-- [Cómo se elegirán a los nueve miembros del jurado que juzgarán a Begoña Gómez: así es la lista de los candidatos](https://www.elconfidencial.com/espana/2026-07-17/como-elegiran-nueve-miembros-jurado-begona-gomez_4391555/?utm_source=lootura.com) — 2026-07-17T09:22:00.000Z

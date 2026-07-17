@@ -8,16 +8,11 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/democratic-party/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/democratic-party/index.json",
   "description": "Follow Democratic Party, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-17T13:22:45.540Z",
+  "updatedAt": "2026-07-17T17:09:22.641Z",
   "aliases": [
     "Democrats"
   ],
   "changes": [
-    {
-      "title": "5 Takeaways From a Maine Debate That Showed Replacing Platner Isn’t Easy",
-      "summary": "Maine Democrats vying to become the state’s new Senate nominee met, and mostly agreed, at a debate filled with halting answers and stilted deliveries.",
-      "date": "2026-07-17"
-    },
     {
       "title": "US politicians push agencies to restrict research collaboration with China",
       "summary": "Nature, Published online: 16 July 2026; doi:10.1038/d41586-026-02226-9 Republicans and Democrats worry about research theft and exploitation — but don’t agree on how to solve the problem.",
@@ -31,6 +26,11 @@
     {
       "title": "Republicans in North Carolina Try to Reduce Early Voting on Sundays and on Campuses",
       "summary": "Voting-rights activists said the changes are a blatant attempt by G.O.P. leaders to make it harder for Black voters and students, who tend to vote for Democrats, to cast ballots this fall.",
+      "date": "2026-07-17"
+    },
+    {
+      "title": "5 Takeaways From a Maine Debate That Showed Replacing Platner Isn’t Easy",
+      "summary": "Maine Democrats vying to become the state’s new Senate nominee met, and mostly agreed, at a debate filled with halting answers and stilted deliveries.",
       "date": "2026-07-17"
     },
     {
@@ -68,7 +68,7 @@
     {
       "title": "US politicians push agencies to restrict research collaboration with China",
       "url": "https://www.nature.com/articles/d41586-026-02226-9?utm_source=lootura.com",
-      "publishedAt": "2026-07-17T13:22:49.286Z",
+      "publishedAt": "2026-07-17T17:09:27.473Z",
       "sourceId": "lootura-us-nature"
     },
     {
@@ -82,13 +82,7 @@
       "url": "https://www.nytimes.com/2026/07/17/us/politics/republicans-in-north-carolina-try-to-reduce-early-voting-on-sundays-and-on-campuses.html?utm_source=lootura.com",
       "publishedAt": "2026-07-17T09:01:29.000Z",
       "sourceId": "lootura-us-the-new-york-times-politics"
-    },
-    {
-      "title": "5 Takeaways From a Maine Debate That Showed Replacing Platner Isn’t Easy",
-      "url": "https://www.nytimes.com/2026/07/16/us/politics/maine-senate-debate-takeaways.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-17T02:07:46.000Z",
-      "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 4
+  "evidenceCount": 3
 }

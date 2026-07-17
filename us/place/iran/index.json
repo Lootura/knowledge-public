@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/iran/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/iran/index.json",
   "description": "Follow Iran, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-17T13:22:45.540Z",
+  "updatedAt": "2026-07-17T17:09:22.641Z",
   "aliases": [],
   "changes": [
     {
@@ -19,6 +19,11 @@
     {
       "title": "What a Times Reporter Saw in Iran, and Takeaways from Trump’s Speech on Election Security",
       "summary": "Plus, the Friday news quiz.",
+      "date": "2026-07-17"
+    },
+    {
+      "title": "US hits civilian infrastructure as it expands strikes against Iran",
+      "summary": "Tehran bombs US allies in Middle East after US attacks on bridges, energy facilities and key port The US hit bridges, energy facilities and a key Iranian port on Friday, expanding its aerial campaign against Iran, and prompting swift Iranian strikes against US allies in the Middle East. US airstrikes hit bridges in Ira.",
       "date": "2026-07-17"
     },
     {
@@ -55,11 +60,6 @@
       "title": "U.S., Iran in a \"new phase\" of the conflict, retired Navy vice admiral explains",
       "summary": "U.S. Central Command confirmed it began a second wave of strikes against Iran on Wednesday, following a round of attacks earlier in the day. Retired Navy Vice Adm. Robert Murrett joins CBS News to discuss.",
       "date": "2026-07-16"
-    },
-    {
-      "title": "The political risks from war in Iran. And, ICE's use of force is rising, report finds",
-      "summary": "The political implications the war in Iran is having on the GOP. And, a new report has found that ICE officers' use of force is not rare since President Trump took office for his second term. (Image credit: -/AFP via Getty Images).",
-      "date": "2026-07-16"
     }
   ],
   "sources": [
@@ -70,15 +70,15 @@
       "sourceId": "lootura-us-nbc-news"
     },
     {
+      "title": "US hits civilian infrastructure as it expands strikes against Iran",
+      "url": "https://www.theguardian.com/world/2026/jul/17/us-marines-board-ship-gulf-oman-expanded-airstrikes-iran?utm_source=lootura.com",
+      "publishedAt": "2026-07-17T16:06:19.000Z",
+      "sourceId": "lootura-us-the-guardian-us"
+    },
+    {
       "title": "What a Times Reporter Saw in Iran, and Takeaways from Trump’s Speech on Election Security",
       "url": "https://www.nytimes.com/2026/07/17/podcasts/the-headlines/iran-trump-speech-election-security.html?utm_source=lootura.com",
       "publishedAt": "2026-07-17T11:24:48.000Z",
-      "sourceId": "lootura-us-the-new-york-times"
-    },
-    {
-      "title": "How the NYT Reported on Khamenei’s Funeral in Iran",
-      "url": "https://www.nytimes.com/2026/07/16/insider/iran-funeral-coverage.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-16T16:46:32.000Z",
       "sourceId": "lootura-us-the-new-york-times"
     }
   ],

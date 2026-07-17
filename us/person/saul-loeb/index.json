@@ -1,0 +1,45 @@
+{
+  "id": "usa-saul-loeb",
+  "name": "Saul Loeb",
+  "type": "person",
+  "locale": "en",
+  "canonicalPath": "/us/person/saul-loeb",
+  "canonicalUrl": "https://atlas.lootura.com/us/person/saul-loeb",
+  "markdownUrl": "https://atlas.lootura.com/us/person/saul-loeb/index.md",
+  "jsonUrl": "https://atlas.lootura.com/us/person/saul-loeb/index.json",
+  "description": "Follow Saul Loeb, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
+  "updatedAt": "2026-07-17T17:09:22.641Z",
+  "aliases": [],
+  "changes": [
+    {
+      "title": "Takeaways from Trump's primetime speech. And, at least 2 dead in major Texas flooding",
+      "summary": "President Trump gave a primetime speech raising claims of voting vulnerabilities but offered no new evidence. And, at least 2 people have died in major flooding in Texas. (Image credit: Saul Loeb).",
+      "date": "2026-07-17"
+    },
+    {
+      "title": "What Urologists Think of the Military’s New Testosterone Testing Policy",
+      "summary": "U.S. Defense Secretary Pete Hegseth speaks at the Pennsylvania Defense and Innovation Summit at the US Army War College in Carlisle, Pennsylvania, on July 15, 2026. —Saul Loeb/AFP—Getty Images U.S. Defense Secretary Pete Hegseth announced on Wednesday, July 15, that it is now mandatory for all service members age 30 an.",
+      "date": "2026-07-17"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Saul Loeb first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-07-17"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Takeaways from Trump's primetime speech. And, at least 2 dead in major Texas flooding",
+      "url": "https://www.npr.org/2026/07/17/g-s1-134162/up-first-newsletter-trump-speech-illegal-voting-texas-flooding-wildfires-air-quality?utm_source=lootura.com",
+      "publishedAt": "2026-07-17T11:27:01.000Z",
+      "sourceId": "lootura-us-npr-politics"
+    },
+    {
+      "title": "What Urologists Think of the Military’s New Testosterone Testing Policy",
+      "url": "https://time.com/article/2026/07/17/what-urologists-think-of-military-pete-hegseth-testosterone-testing-policy/?utm_source=lootura.com",
+      "publishedAt": "2026-07-17T16:20:05.000Z",
+      "sourceId": "lootura-us-time"
+    }
+  ],
+  "evidenceCount": 2
+}

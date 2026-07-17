@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/espana/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/espana/index.json",
   "description": "Follow Spain, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-17T13:22:45.540Z",
+  "updatedAt": "2026-07-17T17:09:22.641Z",
   "aliases": [
     "Estado español",
     "Spain"
@@ -67,11 +67,11 @@
   ],
   "sources": [
     {
-      "title": "Deadly helicopter crash in Hudson River likely caused by bird strike, NTSB says",
-      "url": "https://www.cbsnews.com/news/new-york-helicopter-crash-hudson-river-bird-strike-ntsb/?utm_source=lootura.com",
-      "publishedAt": "2026-07-17T01:58:53.000Z",
-      "sourceId": "lootura-us-cbs-news"
+      "title": "Steve Kornacki Breaks Down World Cup Final Match",
+      "url": "https://www.today.com/video/steve-kornacki-and-martha-stewart-s-grandson-talk-world-cup-266839109959?utm_source=lootura.com",
+      "publishedAt": "2026-07-17T13:35:33.000Z",
+      "sourceId": "lootura-us-nbc-news"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 0
 }

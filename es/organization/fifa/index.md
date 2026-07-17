@@ -3,7 +3,7 @@
 > Sigue la actividad de FIFA en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-17T13:22:29.680Z
+- Actualizado: 2026-07-17T17:09:01.091Z
 - Canonical: https://atlas.lootura.com/es/organization/fifa
 
 ## Cambios recientes
@@ -28,4 +28,4 @@ Date: 2026-07-08
 
 ## Fuentes
 
-- [La FIFA escoge al árbitro esloveno Slavko Vincic para dirigir la final del Mundial entre España y Argentina](https://elpais.com/deportes/mundial-futbol/2026-07-17/la-fifa-escoge-al-arbitro-esloveno-slavko-vincic-para-dirigir-la-final-del-mundial-entre-espana-y-argentina.html?utm_source=lootura.com) — 2026-07-17T09:48:44.000Z
+- [La FIFA frena en seco: el descanso del mundial no durará media hora](https://www.expansion.com/directivos/deporte-negocio/2026/07/17/6a5a552e468aeb26088b4592.html?utm_source=lootura.com) — 2026-07-17T16:19:40.000Z

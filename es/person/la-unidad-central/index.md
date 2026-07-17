@@ -3,7 +3,7 @@
 > Sigue la actividad de La Unidad Central en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-17T13:22:29.680Z
+- Actualizado: 2026-07-17T17:09:01.091Z
 - Canonical: https://atlas.lootura.com/es/person/la-unidad-central
 
 ## Cambios recientes
@@ -17,6 +17,30 @@ Date: 2026-07-17
 ### La UCO cifra en más de 300.000 euros lo que Cerdán habría obtenido de la trama Koldo
 
 La Unidad Central Operativa (UCO) de la Guardia Civil pone de manifiesto en un nuevo informe sobre el patrimonio del ex secretario de Organización del PSOE, Santos Cerdán , que sus ingresos aumentaron de forma considerable en los años en los que José Luis Ábalos estuvo al frente del Ministerio de Transportes, en concre.
+
+Date: 2026-07-17
+
+### La UCO detecta que Santos Cerdán obtuvo sus mayores beneficios cuando José Luis Ábalos era ministro de Transportes
+
+La Unidad Central Operativa ( UCO ) de la Guardia Civil ha detectado que Santos Cerdán y su familia obtuvieron 323.178 euros de "beneficios" irregulares, entre 2015 y 2024, y que alcanzaron "sus máximos" entre 2019 y 2023, "periodo que aglutina la denominada etapa ministerial de (José Luis) Ábalos" y en la que él le re.
+
+Date: 2026-07-17
+
+### Cerdán quiso un "pisazo" de casi un millón de euros entre recelos de su socio y comprador: "Han estado viendo uno de 950"
+
+La Unidad Central Operativa (UCO) ha apuntado que la empresa Servinabar, una constructora en la que los investigadores sitúan a Santos Cerdán como socio, intentó comprar un piso valorado en casi un millón de euros para el exdirigente socialista. "Han estado viendo uno de 950", escribió el empresario Antxon Alonso, admi.
+
+Date: 2026-07-17
+
+### La UCO dice que los ingresos de Cerdán se dispararon en la «etapa ministerial» de Ábalos y tras su ascenso en el PSOE
+
+La Unidad Central Operativa (UCO) de la Guardia Civil ha revelado que el que fuera mano derecha de Pedro Sánchez Santos Cerdán vio como sus ingresos se dispararon coincidiendo con la «etapa ministerial» del que fuera responsable de Transportes José Luis Ábalos y tras sustituir al mismo como secretario de Organización d.
+
+Date: 2026-07-17
+
+### La UCO hunde a Cerdán
+
+Nuevo informe de la UCO . En esta ocasión, el señalado, tocado y hundido, es Santos Cerdán , el ex secretario de Organización del PSOE, el sucesor del condenado José Luis Ábalos. La Unidad Central Operativa de la Guardia Civil pone de manifiesto que los ingresos de Cerdán aumentaron de forma considerable entre 2015 y 2.
 
 Date: 2026-07-17
 
@@ -44,14 +68,11 @@ Operativa (UCO) de la Guardia Civil ha localizado al menos cinco pagos a Leire D
 
 Date: 2026-07-14
 
-### La UCO detalla los pagos del PSOE a Leire Díez a través de tres empresas pantalla: 43.235 € en 5 pagos
-
-Operativa ( UCO ) de la Guardia Civil ha remitido al juez Santiago Pedraz , de la Audiencia Nacional, un nuevo informe en el que se informa de pagos a la ex militante y fontanera del PSOE, Leire Díez , por una cantidad total de 16.000 euros , en cuatro transferencias, a través de la consultora de Gasp.
-
-Date: 2026-07-14
-
 ## Fuentes
 
+- [La UCO detecta que Santos Cerdán obtuvo sus mayores beneficios cuando José Luis Ábalos era ministro de Transportes](https://www.20minutos.es/nacional/uco-detecta-que-santos-cerdan-obtuvo-sus-mayores-beneficios-cuando-jose-luis-abalos-era-ministro-transportes_7016035_0.html?utm_source=lootura.com) — 2026-07-17T15:10:10.000Z
+- [Cerdán quiso un "pisazo" de casi un millón de euros entre recelos de su socio y comprador: "Han estado viendo uno de 950"](https://www.20minutos.es/nacional/cerdan-quiso-pisazo-millon-euros-recelos-socio-comprador_7016057_0.html?utm_source=lootura.com) — 2026-07-17T15:53:14.000Z
+- [La UCO dice que los ingresos de Cerdán se dispararon en la «etapa ministerial» de Ábalos y tras su ascenso en el PSOE](https://www.abc.es/espana/uco-dice-ingresos-cerdan-dispararon-etapa-ministerial-20260717141532-nt.html?utm_source=lootura.com) — 2026-07-17T16:40:39.000Z
 - [La UCO concluye que Cerdán dispuso de "numeroso dinero en metálico en la etapa ministerial de Ábalos"](https://amp.elmundo.es/espana/2026/07/17/6a5a14e821efa0ed1b8b4590.html?utm_source=lootura.com) — 2026-07-17T11:44:04.000Z
 - [La UCO cifra en más de 300.000 euros lo que Cerdán habría obtenido de la trama Koldo](https://theobjective.com/espana/tribunales/2026-07-17/uco-euros-cerdan-trama-koldo/?utm_source=lootura.com) — 2026-07-17T12:30:59.000Z
-- [La UCO detecta que Cerdán logró sus mayores beneficios en la etapa de Ábalos de ministro](https://theobjective.com/espana/tribunales/2026-07-17/uco-cerdan-mayores-beneficios-etapa-abalos-ministro/?amp=&utm_source=lootura.com) — 2026-07-17T12:49:21.000Z
+- [La UCO hunde a Cerdán](https://theobjective.com/espana/2026-07-17/objetivo-directo-uco-hunde-cerdan/?utm_source=lootura.com) — 2026-07-17T16:25:14.000Z

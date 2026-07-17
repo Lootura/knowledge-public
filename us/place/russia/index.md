@@ -3,10 +3,22 @@
 > Follow Russia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-16T20:55:05.764Z
+- Updated: 2026-07-17T17:09:22.641Z
 - Canonical: https://atlas.lootura.com/us/place/russia
 
 ## Recent changes
+
+### Pro-Kremlin blogger who turned on Putin is arrested as Russia steps up crackdown
+
+A former loyalist blogger turned fierce critic of Russian President Vladimir Putin has been detained and accused of spreading false information about the armed forces, state media reported Friday.
+
+Date: 2026-07-17
+
+### Ukraine fights under an interim defense chief after Zelenskyy's contested government shake-up
+
+Ukraine fought Russia's more than 4-year-old invasion under an interim defense minister Friday, a day after a government reshuffle exposed a deep split between the military's old guard and young innovators over how to fight the war.
+
+Date: 2026-07-17
 
 ### Ukrainian's Zelenskyy faces major backlash for ousting defense chief Mykhailo Fedorov amid progress vs. Russia
 
@@ -56,18 +68,7 @@ Ukraine and nine other countries have announced a coalition to protect Europe fr
 
 Date: 2026-07-13
 
-### Japan Builds Intelligence Agency It Hasn’t Had Since World War II
-
-Facing threats from Russia and China, Prime Minister Sanae Takaichi is turning to help from Western allies in forming a centralized agency.
-
-Date: 2026-07-13
-
-### The Next Phase in Ukraine’s War With Russia: The Battle for Minds
-
-Ukrainians, already drone innovators, are turning their focus to psychological operations aimed at undercutting Russian support for the war.
-
-Date: 2026-07-13
-
 ## Sources
 
-No public source links.
+- [Pro-Kremlin blogger who turned on Putin is arrested as Russia steps up crackdown](https://www.nbcnews.com/world/russia/ilya-remeslo-arrested-kremlin-crackdown-putin-critic-nadezhdin-court-rcna587962?utm_source=lootura.com) — 2026-07-17T10:05:29.000Z
+- [Ukraine fights under an interim defense chief after Zelenskyy's contested government shake-up](https://www.pbs.org/newshour/world/ukraine-fights-under-an-interim-defense-chief-after-zelenskyys-contested-government-shake-up?utm_source=lootura.com) — 2026-07-17T15:47:54.000Z
