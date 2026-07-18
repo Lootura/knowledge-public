@@ -8,12 +8,22 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/alberto-nunez-feijoo/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/alberto-nunez-feijoo/index.json",
   "description": "Sigue la actividad de Alberto Núñez Feijóo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-17T09:54:46.288Z",
+  "updatedAt": "2026-07-18T06:02:46.495Z",
   "aliases": [
     "Feijóo",
     "Núñez Feijóo"
   ],
   "changes": [
+    {
+      "title": "Feijóo pone a punto al PP y activa a sus candidatos para afrontar el ciclo electoral ante un posible adelanto",
+      "summary": "En la batalla por llegar a la Moncloa cada voto cuenta y el presidente del Partido Popular, Alberto Núñez Feijóo , es consciente de ello. Por eso, está poniendo a punto el partido y activando a todos sus candidatos a ayuntamientos y autonomías de cara a una campaña permanente que se intensificará especialmente tras el.",
+      "date": "2026-07-18"
+    },
+    {
+      "title": "Feijóo no quiso cruzar su línea roja sobre Begoña Gómez y las hijas de Zapatero en el Senado",
+      "summary": "La mujer de Sánchez ha sido enviada a juicio. Laura y Alba declararán próximamente como imputadas en el caso Plus Ultra. Ninguna ha pasado ni pasar...",
+      "date": "2026-07-18"
+    },
     {
       "title": "🎙 PODCAST | ¿Acabará Feijóo siendo presidente gracias a la amnistía?",
       "summary": "Dijo que era terrorismo, golpe de Estado, delincuencia, corrupción, que había que ilegalizarlos, que negociar era traicionar a la patria, secuestrar la democracia. Y ahora puede beneficiarse de lo que intentó boicotear Un tema Al día, ¡en el teatro! Ven a verlo en directo el 3 de octubre en Madrid. Consigue ya tus entr.",
@@ -53,18 +63,21 @@
       "title": "El CIS de Tezanos remonta al PSOE y le da una ventaja de casi ocho puntos sobre el PP en el mes de la condena a Ábalos",
       "summary": "Feijóo cae dos puntos en porcentaje de voto y Abascal también retrocede ligeramente Leer.",
       "date": "2026-07-15"
-    },
-    {
-      "title": "Feijóo y Ayuso acusan a Sánchez de ser un “presidente autoritario” y un “autócrata sin escrúpulos”ante los líderes del PP europeo",
-      "summary": "Ante algunos de los principales líderes del Partido Popular Europeo, reunidos este miércoles en Madrid, Alberto Núñez Feijóo ha lanzado la acusación más gruesa hasta la fecha contra Pedro Sánchez. El líder del PP no ha dudado en describir al líder socialista como “un presidente autoritario” delante del presidente del P.",
-      "date": "2026-07-15"
-    },
-    {
-      "title": "Feijóo acusa a Sánchez de ser un «presidente autoritario» y de «agredir» la democracia",
-      "summary": "El líder del PP , Alberto Núñez Feijóo , ha asegurado este miércoles que el jefe del Ejecutivo, Pedro Sánchez , es un «presidente autoritario» —aunque no lo ha citado expresamente en ningún momento— y ha advertido de que España sufre «la amenaza de una democracia debilitada» y «agredida». Además, ha avisado de que no p.",
-      "date": "2026-07-15"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Feijóo pone a punto al PP y activa a sus candidatos para afrontar el ciclo electoral ante un posible adelanto",
+      "url": "https://www.20minutos.es/nacional/feijoo-pone-punto-pp-activa-sus-candidatos-para-afrontar-ciclo-electoral-ante-un-posible-adelanto-los-comicios_7015812_0.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-18T05:45:13.000Z",
+      "sourceId": "lootura-es-20minutos"
+    },
+    {
+      "title": "Feijóo no quiso cruzar su línea roja sobre Begoña Gómez y las hijas de Zapatero en el Senado",
+      "url": "https://www.eldebate.com/espana/20260718/feijoo-no-quiso-cruzar-linea-roja-sobre-begona-gomez-hijas-zapatero-senado_440700.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-18T02:15:00.000Z",
+      "sourceId": "lootura-es-el-debate"
+    }
+  ],
+  "evidenceCount": 2
 }

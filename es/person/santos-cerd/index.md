@@ -3,7 +3,7 @@
 > Sigue la actividad de Santos Cerd en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-18T02:11:28.247Z
+- Actualizado: 2026-07-18T06:02:46.495Z
 - Canonical: https://atlas.lootura.com/es/person/santos-cerd
 
 ## Cambios recientes
@@ -16,4 +16,4 @@ Date: 2026-07-17
 
 ## Fuentes
 
-- [La UCO concluye que Cerdán dispuso de "numeroso dinero en metálico en la etapa ministerial de Ábalos"](https://amp.elmundo.es/espana/2026/07/17/6a5a14e821efa0ed1b8b4590.html?utm_source=lootura.com) — 2026-07-17T11:44:04.000Z
+- [La UCO constata que Cerdán casi no retiró dinero desde 2019: lo achaca a una fuente de efectivo "no originada en cuentas bancarias"](https://www.20minutos.es/nacional/uco-constata-que-cerdan-apenas-retiro-dinero-desde-2019-achaca-una-fuente-efectivo-no-originada-cuentas-bancarias_7015991_0.html?utm_source=lootura.com) — 2026-07-18T05:38:06.000Z

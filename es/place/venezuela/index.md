@@ -3,10 +3,16 @@
 > Sigue la actividad de Venezuela en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-17T09:54:46.288Z
+- Actualizado: 2026-07-18T06:02:46.495Z
 - Canonical: https://atlas.lootura.com/es/place/venezuela
 
 ## Cambios recientes
+
+### Los muertos por el doble terremoto en Venezuela superan los 5.000
+
+La cifra de muertos por el doble terremoto del pasado 24 de junio en Venezuela ascendió el viernes a 5.069, tras sumarse 139 nuevos fallecimientos, informó el presidente del Parlamento, Jorge Rodríguez, quien también detalló que la cantidad de heridos se mantiene en 16.740. Las personas sin vivienda se mantienen en 17.
+
+Date: 2026-07-18
 
 ### Venezuela supera las 4.900 víctimas mortales por los fuertes terremotos
 
@@ -62,12 +68,6 @@ En febrero de este año, Félix Plasencia aterrizó en una capital donde Venezue
 
 Date: 2026-07-14
 
-### Uno de cada 10 médicos en España ya son extranjeros: “Venimos a trabajar duro para sostener y mejorar el sistema de salud”
-
-Ofreuddys Daniel Estrada Leal había sido médico en Venezuela antes de llegar a España. Aquí, durante casi dos años, ese oficio quedó suspendido en un limbo administrativo. Mientras esperaba la homologación de su título , trabajó como expendedor de combustible en estaciones de servicio, como asistente administrativo en.
-
-Date: 2026-07-14
-
 ## Fuentes
 
-No public source links.
+- [Los muertos por el doble terremoto en Venezuela superan los 5.000](https://www.larazon.es/internacional/muertos-doble-terremoto-venezuela-superan-5000_202607186a5b08631db8de0409956fb8.html?utm_source=lootura.com) — 2026-07-18T05:00:19.000Z

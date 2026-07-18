@@ -46,4 +46,4 @@ Date: 2026-07-17
 
 ## Fuentes
 
-- [José María Almoguera aclara la polémica por la venta de la casa de María Teresa Campos: «Hemos confiado en alguien que la ha liado»](https://okdiario.com/cool/television/jose-maria-almoguera-aclara-polemica-venta-casa-maria-teresa-campos-hemos-confiado-alguien-que-liado-19021138?utm_source=lootura.com) — 2026-07-17T23:14:01.000Z
+No public source links.

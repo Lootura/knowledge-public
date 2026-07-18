@@ -64,19 +64,6 @@
       "date": "2026-07-13"
     }
   ],
-  "sources": [
-    {
-      "title": "Apple Music sube de precio: esto pagarás a partir de hoy",
-      "url": "https://hipertextual.com/apple/apple-music-sube-de-precio-julio-2026/?utm_source=lootura.com",
-      "publishedAt": "2026-07-17T20:00:44.000Z",
-      "sourceId": "lootura-es-hipertextual"
-    },
-    {
-      "title": "Apple envía cartas de advertencia a decenas de exempleados que ahora trabajan en OpenAI",
-      "url": "https://hipertextual.com/apple/apple-advertencia-exempleados-openai-demanda/?utm_source=lootura.com",
-      "publishedAt": "2026-07-17T18:25:00.000Z",
-      "sourceId": "lootura-es-hipertextual"
-    }
-  ],
-  "evidenceCount": 2
+  "sources": [],
+  "evidenceCount": 0
 }

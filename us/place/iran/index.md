@@ -3,7 +3,7 @@
 > Follow Iran, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-18T02:11:50.603Z
+- Updated: 2026-07-18T06:03:03.575Z
 - Canonical: https://atlas.lootura.com/us/place/iran
 
 ## Recent changes
@@ -23,6 +23,12 @@ Date: 2026-07-17
 ### Oil Prices Rise to Highest Level in a Month as Shipping in the Persian Gulf Nears a Halt
 
 Shipping traffic was at its lowest level in more than a month and oil prices moved higher as the Iran war continued to disrupt the supply of energy.
+
+Date: 2026-07-17
+
+### War Between U.S. and Iran Expands, With Strikes Across the Region
+
+Videos and reports in Iranian state media showed damage to bridges, railways and other infrastructure. U.S. allies in the region reported retaliatory strikes by Iran.
 
 Date: 2026-07-17
 
@@ -62,15 +68,10 @@ Defense Secretary Pete Hegseth has spoken about a range of issues in recent days
 
 Date: 2026-07-16
 
-### Trump's Iran notice aims to reset war powers clock amid growing political risks
-
-The Trump administration's notification to restart the war with Iran aims to reset a 60-day clock for military action, but questions are mounting about public support as midterms approach.
-
-Date: 2026-07-16
-
 ## Sources
 
 - [Gas prices rise as U.S. and Iran escalate attacks](https://www.nbcnews.com/nightly-news/video/gas-prices-rise-as-u-s-and-iran-escalate-attacks-266868293836?utm_source=lootura.com) — 2026-07-17T23:03:28.000Z
 - [As U.S. strikes bridges in Iran, it targets a water desalination plant in Kuwait](https://www.pbs.org/newshour/world/as-u-s-strikes-bridges-in-iran-it-targets-a-water-desalination-plant-in-kuwait?utm_source=lootura.com) — 2026-07-17T19:41:09.000Z
 - [What a Times Reporter Saw in Iran, and Takeaways from Trump’s Speech on Election Security](https://www.nytimes.com/2026/07/17/podcasts/the-headlines/iran-trump-speech-election-security.html?utm_source=lootura.com) — 2026-07-17T11:24:48.000Z
 - [Oil Prices Rise to Highest Level in a Month as Shipping in the Persian Gulf Nears a Halt](https://www.nytimes.com/2026/07/17/business/strait-hormuz-iran-oil-prices.html?utm_source=lootura.com) — 2026-07-17T19:28:52.000Z
+- [War Between U.S. and Iran Expands, With Strikes Across the Region](https://www.nytimes.com/2026/07/17/world/middleeast/us-iran-war-strikes-infrastructure-civilians.html?utm_source=lootura.com) — 2026-07-17T21:49:49.000Z

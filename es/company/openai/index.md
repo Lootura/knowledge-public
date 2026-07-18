@@ -34,4 +34,4 @@ Date: 2026-07-15
 
 ## Fuentes
 
-- [Apple envía cartas de advertencia a decenas de exempleados que ahora trabajan en OpenAI](https://hipertextual.com/apple/apple-advertencia-exempleados-openai-demanda/?utm_source=lootura.com) — 2026-07-17T18:25:00.000Z
+No public source links.

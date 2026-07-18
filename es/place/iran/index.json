@@ -8,17 +8,22 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/iran/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/iran/index.json",
   "description": "Sigue la actividad de Iran en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-18T02:11:28.247Z",
+  "updatedAt": "2026-07-18T06:02:46.495Z",
   "aliases": [],
   "changes": [
     {
-      "title": "EEUU destruye una torre de vigilancia que Irán usaba para atacar buques en Ormuz",
-      "summary": "El Ejército estadounidense destruyó una torre de vigilancia que Irán usaba para atacar a los buques comerciales en el estrecho de Ormuz , lo que permitirá «proteger» la navegación en la vía marítima, afirmó este viernes el Comando Central de Estados Unidos (Centcom). «Las fuerzas de EE. UU. destruyeron con éxito la tor.",
-      "date": "2026-07-17"
+      "title": "EEUU se queda sin misiles para otras guerras: la continuación del conflicto con Irán está poniendo en riesgo su capacidad militar",
+      "summary": "La guerra entre Estados Unidos e Irán no termina. Teherán parece estar calculando que su presión sobre el estrecho de Ormuz obligará a Washington a ceder por completo. En la Casa Blanca parecen apostar por que sus nuevas acciones militares obligarán al régimen iraní a ceder y permitir el flujo normalizado del comercio.",
+      "date": "2026-07-18"
     },
     {
       "title": "Estados Unidos lanza una ola de ataques contra Irán por séptimo día consecutivo",
       "summary": "Trump anunció la semana pasada la cancelación del memorando de entendimiento que había firmado el 18 de junio.",
+      "date": "2026-07-17"
+    },
+    {
+      "title": "EEUU destruye una torre de vigilancia que Irán usaba para atacar buques en Ormuz",
+      "summary": "El Ejército estadounidense destruyó una torre de vigilancia que Irán usaba para atacar a los buques comerciales en el estrecho de Ormuz , lo que permitirá «proteger» la navegación en la vía marítima, afirmó este viernes el Comando Central de Estados Unidos (Centcom). «Las fuerzas de EE. UU. destruyeron con éxito la tor.",
       "date": "2026-07-17"
     },
     {
@@ -55,19 +60,14 @@
       "title": "Las Bolsas europeas se estabilizan con el foco en los resultados y el petróleo",
       "summary": "Los datos de inflación en EE UU más suaves de lo esperado han disipado las preocupaciones en torno a que la Reserva Federal (Fed) suba los tipos de interés a corto plazo, aunque la cautela en torno a Irán y las fuertes pérdidas en los valores de semiconductores mantienen la prudencia en los mercados. EE UU e Irán conti.",
       "date": "2026-07-16"
-    },
-    {
-      "title": "El Ibex vuelve a consolidar niveles",
-      "summary": "Los mercados siguen encontrando obstáculos que atenazan sus subidas. La nueva espiral de ataques de EEUU sobre Irán y la subida de tipos en Corea mantienen en guardia a los inversores. El Ibex, con movimientos estrechos durante toda la semana, vuelve a consolidar niveles en el día del estreno en Bolsa de Digi.",
-      "date": "2026-07-16"
     }
   ],
   "sources": [
     {
-      "title": "EEUU destruye una torre de vigilancia que Irán usaba para atacar buques en Ormuz",
-      "url": "https://theobjective.com/internacional/2026-07-17/eeuu-torre-vigilancia-iran-buques-ormuz/?utm_source=lootura.com",
-      "publishedAt": "2026-07-17T19:22:42.000Z",
-      "sourceId": "lootura-es-the-objective"
+      "title": "EEUU se queda sin misiles para otras guerras: la continuación del conflicto con Irán está poniendo en riesgo su capacidad militar",
+      "url": "https://www.20minutos.es/internacional/eeuu-se-queda-sin-misiles-para-otras-guerras-continuacion-conflicto-con-iran-esta-poniendo-riesgo-su-capacidad-militar_7014994_0.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-18T05:46:02.000Z",
+      "sourceId": "lootura-es-20minutos"
     },
     {
       "title": "Estados Unidos lanza una ola de ataques contra Irán por séptimo día consecutivo",

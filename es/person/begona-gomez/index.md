@@ -3,10 +3,28 @@
 > Sigue la actividad de Begoña Gómez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-18T02:11:28.247Z
+- Actualizado: 2026-07-18T06:02:46.495Z
 - Canonical: https://atlas.lootura.com/es/person/begona-gomez
 
 ## Cambios recientes
+
+### Ya hay 2.846 madrileños preseleccionados para juzgar a Begoña Gómez: ¿Cómo se elegirá a los 9 definitivos?
+
+Begoña Gómez será juzgada por un jurado popular después de que la Audiencia Provincial de Madrid haya ordenado continuar el procedimiento de juicio acordado en un principio por el juez Juan Carlos Peinado. Serán nueve los madrileños encargados de formar parte de ese jurado popular y serán seleccionados mediante un sort.
+
+Date: 2026-07-18
+
+### Feijóo no quiso cruzar su línea roja sobre Begoña Gómez y las hijas de Zapatero en el Senado
+
+La mujer de Sánchez ha sido enviada a juicio. Laura y Alba declararán próximamente como imputadas en el caso Plus Ultra. Ninguna ha pasado ni pasar...
+
+Date: 2026-07-18
+
+### Begoña Gómez de Kirchner
+
+La señora Gómez tendrá que ser juzgada como todo quisque, con la salvedad de que ella aprovechó (presuntamente) su condición de esposa del presidente del Gobierno para hacer negocios particulares, lo que no está al alcance de cualquiera. La lógica democrática —ese unicornio feliz que trota por nuestra mente ingenua— se.
+
+Date: 2026-07-18
 
 ### Barbón ve «muy forzado» el proceso judicial de Begoña Gómez y es «incapaz» de ver los delitos
 
@@ -50,24 +68,8 @@ La Audiencia Provincial de Madrid ha respaldado la decisión del juez Juan Carlo
 
 Date: 2026-07-17
 
-### Los 13 indicios de malversación con el 'software' de la Universidad Complutense que hunden a Begoña Gómez
-
-La esposa del presidente dejó varias pistas "con fuerza incriminatoria" al usar el 'software' de la UCM sin respeto al interés público que la abocan al juicio Leer.
-
-Date: 2026-07-16
-
-### La Audiencia de Madrid avala que la causa contra Begoña Gómez siga adelante por jurado por dos delitos
-
-La Audiencia Provincial de Madrid ha dado luz verde a que el proceso por jurado popular contra Begoña Gómez, esposa de Pedro Sánchez, siga adelante por dos delitos: tráfico de influencias y malversación. El tribunal avala así parcialmente la decisión del juez Juan Carlos Peinado de enviar al banquillo a la pareja del p.
-
-Date: 2026-07-16
-
-### El PP, tras mantenerse el juicio con jurado a Begoña Gómez: «Una situación inconcebible»
-
-El Partido Popular ha asegurado este jueves que la Audiencia Provincial de Madrid ha confirmado que Begoña Gómez , esposa del presidente del Gobierno, «se sentará en un banquillo» y ha recalcado que se trata de una situación «sin precedentes en la democracia española e inconcebible en cualquier democracia europea », se.
-
-Date: 2026-07-16
-
 ## Fuentes
 
-- [Barbón ve «muy forzado» el proceso judicial de Begoña Gómez y es «incapaz» de ver los delitos](https://theobjective.com/espana/politica/2026-07-17/barbon-forzado-judicial-begona-gomez-incapaz-ver-delitos/?amp=&utm_source=lootura.com) — 2026-07-17T20:26:56.000Z
+- [Ya hay 2.846 madrileños preseleccionados para juzgar a Begoña Gómez: ¿Cómo se elegirá a los 9 definitivos?](https://www.20minutos.es/nacional/ya-hay-2-846-madrilenos-preseleccionados-para-juzgar-begona-gomez-como-se-elegira-los-9-definitivos_7015915_0.html?utm_source=lootura.com) — 2026-07-18T05:48:53.000Z
+- [Feijóo no quiso cruzar su línea roja sobre Begoña Gómez y las hijas de Zapatero en el Senado](https://www.eldebate.com/espana/20260718/feijoo-no-quiso-cruzar-linea-roja-sobre-begona-gomez-hijas-zapatero-senado_440700.html?utm_source=lootura.com) — 2026-07-18T02:15:00.000Z
+- [Begoña Gómez de Kirchner](https://theobjective.com/elsubjetivo/opinion/2026-07-18/begona-gomez-articulo-jorge-vilches/?utm_source=lootura.com) — 2026-07-18T03:25:00.000Z

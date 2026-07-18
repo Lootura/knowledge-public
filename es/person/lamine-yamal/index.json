@@ -8,9 +8,14 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/lamine-yamal/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/lamine-yamal/index.json",
   "description": "Sigue la actividad de Lamine Yamal en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-18T02:11:28.247Z",
+  "updatedAt": "2026-07-18T06:02:46.495Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "La entrevista definitiva con el autor de la foto que unió a Messi y Lamine hace 20 años",
+      "summary": "Todo el mundo habla de la fotografía en la que aparecen juntos un Leo Messi veinteañero y un Lamine Yamal de apenas unos meses de edad realizada hace casi 20 años. El argentino se ha convertido en el mejor futbolista de la historia; el catalán, en la estrella del Barça y de la selección española. Los dos lucharán este.",
+      "date": "2026-07-18"
+    },
     {
       "title": "La intrahistoria de las fotos de Leo Messi junto a un Lamine Yamal de seis meses",
       "summary": "Las redes sociales se han inundado con la recordada imagen de Leo Messi junto a un Lamine Yamal de seis meses de edad. Descubre su historia.",
@@ -59,11 +64,11 @@
   ],
   "sources": [
     {
-      "title": "‘Dibu’ Martínez: «España no es sólo Lamine, tiene una gran Selección que trabaja mucho»",
-      "url": "https://okdiario.com/mundial/dibu-martinez-espana-no-solo-lamine-tiene-gran-seleccion-que-trabaja-mucho-19020578?utm_source=lootura.com",
-      "publishedAt": "2026-07-17T23:45:27.000Z",
-      "sourceId": "lootura-es-ok-diario"
+      "title": "La entrevista definitiva con el autor de la foto que unió a Messi y Lamine hace 20 años",
+      "url": "https://www.lavanguardia.com/deportes/20260718/11594888/entrevista-definitiva-autor-fotografia-milagro-unio-messi-lamine-20-anos.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-18T04:00:00.000Z",
+      "sourceId": "lootura-es-la-vanguardia"
     }
   ],
-  "evidenceCount": 0
+  "evidenceCount": 1
 }

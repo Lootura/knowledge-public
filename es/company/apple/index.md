@@ -70,5 +70,4 @@ Date: 2026-07-13
 
 ## Fuentes
 
-- [Apple Music sube de precio: esto pagarás a partir de hoy](https://hipertextual.com/apple/apple-music-sube-de-precio-julio-2026/?utm_source=lootura.com) — 2026-07-17T20:00:44.000Z
-- [Apple envía cartas de advertencia a decenas de exempleados que ahora trabajan en OpenAI](https://hipertextual.com/apple/apple-advertencia-exempleados-openai-demanda/?utm_source=lootura.com) — 2026-07-17T18:25:00.000Z
+No public source links.

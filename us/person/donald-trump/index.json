@@ -8,13 +8,28 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/donald-trump/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/donald-trump/index.json",
   "description": "Follow Donald Trump, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-18T02:11:50.603Z",
+  "updatedAt": "2026-07-18T06:03:03.575Z",
   "aliases": [
     "President Donald Trump",
     "President Trump",
     "Trump"
   ],
   "changes": [
+    {
+      "title": "Trump fumes over Canadian wildfire smoke and issues tariff threat",
+      "summary": "President Donald Trump on Friday pledged to hold Canada responsible for costs associated with unhealthy air quality in the U.S. due to spreading smoke from the Canadian wildfires.",
+      "date": "2026-07-18"
+    },
+    {
+      "title": "What to know about Trump's claim that over 250K non-citizens are registered to vote",
+      "summary": "Homeland Security Secretary Markwayne Mullin sent letters to four states alleging that a combined 250,000 non-citizens were registered to vote. Elections experts caution that could be a significant overcount.",
+      "date": "2026-07-18"
+    },
+    {
+      "title": "As Trump Scraps With Meloni, His Envoy to Italy Is at Sea",
+      "summary": "Tilman J. Fertitta, the U.S. ambassador to Rome, is summering on his superyacht as President Trump squabbles with Prime Minister Giorgia Meloni of Italy.",
+      "date": "2026-07-18"
+    },
     {
       "title": "Trump threatens Canada with higher tariffs over wildfire smoke",
       "summary": "President Trump threatened more tariffs on Canada for wildfires that have blanketed large parts of the Midwest and East Coast in smoke in recent days.",
@@ -23,11 +38,6 @@
     {
       "title": "What to know about the Trump administration's claim that 250K non-citizens are registered to vote in 4 states",
       "summary": "Homeland Security Secretary Markwayne Mullin sent letters to four states alleging that a combined 250,000 non-citizens were registered to vote. Elections experts caution that could be a significant overcount.",
-      "date": "2026-07-18"
-    },
-    {
-      "title": "Trump fumes over Canadian wildfire smoke and issues tariff threat",
-      "summary": "President Donald Trump on Friday pledged to hold Canada responsible for costs associated with unhealthy air quality in the U.S. due to spreading smoke from the Canadian wildfires.",
       "date": "2026-07-18"
     },
     {
@@ -46,11 +56,6 @@
       "date": "2026-07-17"
     },
     {
-      "title": "Trump Faces the Limits of U.S. Firepower and the Lessons of Past Wars",
-      "summary": "Like his predecessors, President Trump has struggled to turn battlefield successes into long-term victories.",
-      "date": "2026-07-17"
-    },
-    {
       "title": "Trump encourages Darline Graham to run for Lindsey Graham's seat",
       "summary": "Darline Graham indicated in a White House meeting Thursday that she's weighing a bid, CBS News confirmed. A day later, President Trump wrote on Truth Social: \"RUN, DARLINE, RUN! \".",
       "date": "2026-07-17"
@@ -59,22 +64,11 @@
       "title": "China calls Trump's election interference claims \"pure fabrication\"",
       "summary": "A spokesman for the Chinese Ministry of Foreign Affairs denied President Trump's claims of election interference in the 2020 election. CBS News foreign correspondent Anna Coren reports.",
       "date": "2026-07-17"
-    },
-    {
-      "title": "Trump promised evidence of election fraud. Experts say there was none",
-      "summary": "President Trump's primetime address Thursday warned of \"shocking vulnerabilities\" in U.S. elections, but many election experts say much of Trump's claims amount to old news.",
-      "date": "2026-07-17"
     }
   ],
   "sources": [
     {
-      "title": "Trump threatens Canada with higher tariffs over wildfire smoke",
-      "url": "https://www.cbsnews.com/news/trump-tariffs-canada-wildfire-smoke/?utm_source=lootura.com",
-      "publishedAt": "2026-07-18T01:02:08.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
-    {
-      "title": "What to know about the Trump administration's claim that 250K non-citizens are registered to vote in 4 states",
+      "title": "What to know about Trump's claim that over 250K non-citizens are registered to vote",
       "url": "https://www.cbsnews.com/news/trump-markwayne-mullin-non-citizens-registered-voters-california-new-jersey-nevada-pennsylvania/?utm_source=lootura.com",
       "publishedAt": "2026-07-18T01:48:03.000Z",
       "sourceId": "lootura-us-cbs-news"
@@ -125,6 +119,12 @@
       "title": "Former intelligence official weighs Trump's election security allegations",
       "url": "https://www.pbs.org/newshour/show/former-intelligence-official-weighs-trumps-election-security-allegations?utm_source=lootura.com",
       "publishedAt": "2026-07-17T22:52:53.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
+    },
+    {
+      "title": "Trump says these documents prove his false claims of election fraud. Here's what they really say",
+      "url": "https://www.pbs.org/newshour/politics/trump-says-these-documents-prove-his-false-claims-of-election-fraud-heres-what-they-really-say?utm_source=lootura.com",
+      "publishedAt": "2026-07-17T23:08:36.000Z",
       "sourceId": "lootura-us-pbs-newshour"
     }
   ],

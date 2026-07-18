@@ -8,11 +8,16 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/lionel-messi/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/lionel-messi/index.json",
   "description": "Sigue la actividad de Lionel Messi en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-18T02:11:28.247Z",
+  "updatedAt": "2026-07-18T06:02:46.495Z",
   "aliases": [
     "Messi"
   ],
   "changes": [
+    {
+      "title": "La entrevista definitiva con el autor de la foto que unió a Messi y Lamine hace 20 años",
+      "summary": "Todo el mundo habla de la fotografía en la que aparecen juntos un Leo Messi veinteañero y un Lamine Yamal de apenas unos meses de edad realizada hace casi 20 años. El argentino se ha convertido en el mejor futbolista de la historia; el catalán, en la estrella del Barça y de la selección española. Los dos lucharán este.",
+      "date": "2026-07-18"
+    },
     {
       "title": "La divertida anécdota del día en que Luis de la Fuente conoció a Messi: \"En 15 minutos nos metió cuatro\"",
       "summary": "El seleccionador ofreció la rueda de prensa previa a la final y se mostró tranquilo. \"Lamine está bien\" Leer.",
@@ -51,6 +56,12 @@
   ],
   "sources": [
     {
+      "title": "No son las estrellas, es el equipo. Y otras lecciones del Mundial para la vida y para la empresa",
+      "url": "https://cincodias.elpais.com/opinion/2026-07-18/no-son-las-estrellas-es-el-equipo-y-otras-lecciones-del-mundial-para-la-vida-y-para-la-empresa.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-18T03:40:00.000Z",
+      "sourceId": "lootura-es-cinco-dias"
+    },
+    {
       "title": "La divertida anécdota del día en que Luis de la Fuente conoció a Messi: \"En 15 minutos nos metió cuatro\"",
       "url": "https://www.elmundo.es/deportes/futbol/mundial-de-futbol/2026/07/18/6a5a9a63e85ece44288b4596.html?utm_source=lootura.com",
       "publishedAt": "2026-07-17T22:30:10.000Z",
@@ -61,7 +72,13 @@
       "url": "https://www.expansion.com/directivos/deporte-negocio/2026/07/17/6a5a7547e5fdea72278b4572.html?utm_source=lootura.com",
       "publishedAt": "2026-07-17T21:44:34.000Z",
       "sourceId": "lootura-es-expansion"
+    },
+    {
+      "title": "La entrevista definitiva con el autor de la foto que unió a Messi y Lamine hace 20 años",
+      "url": "https://www.lavanguardia.com/deportes/20260718/11594888/entrevista-definitiva-autor-fotografia-milagro-unio-messi-lamine-20-anos.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-18T04:00:00.000Z",
+      "sourceId": "lootura-es-la-vanguardia"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 4
 }

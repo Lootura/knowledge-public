@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/pais-vasco/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/pais-vasco/index.json",
   "description": "Sigue la actividad de País Vasco en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-18T02:11:28.247Z",
+  "updatedAt": "2026-07-18T06:02:46.495Z",
   "aliases": [
     "Basque Country",
     "Euskadi"
@@ -17,6 +17,11 @@
     {
       "title": "La economía vasca mantiene el pulso y avanza un 2,1% en el segundo trimestre",
       "summary": "Euskadi desafía la incertidumbre de la guerra gracias al tirón de los servicios y la construcción.",
+      "date": "2026-07-17"
+    },
+    {
+      "title": "El retraso en la devolución de las fianzas de los alquileres en Euskadi obliga a Vivienda a pagar intereses",
+      "summary": "El plazo se ha duplicado en un año, pasando de mes y medio a tres meses, y el Gobierno Vasco lo achaca a «problemas de personal».",
       "date": "2026-07-17"
     },
     {
@@ -58,11 +63,6 @@
       "title": "Discovered by Atlas",
       "summary": "País Vasco first entered the public knowledge record with source-backed evidence.",
       "date": "2026-07-08"
-    },
-    {
-      "title": "Nueve de cada diez convenios sectoriales en Euskadi complementan la prestación por baja",
-      "summary": "Estos acuerdos agrupan al 88,5% de los trabajadores vascos que ven cubiertas las enfermedades comunes.",
-      "date": "2026-07-08"
     }
   ],
   "sources": [
@@ -71,7 +71,13 @@
       "url": "https://www.elcorreo.com/economia/economia-vasca-mantiene-pulso-avanza-segundo-trimestre-20260717102753-nt_amp.html?utm_source=lootura.com",
       "publishedAt": "2026-07-17T08:27:53.000Z",
       "sourceId": "lootura-es-el-correo"
+    },
+    {
+      "title": "El retraso en la devolución de las fianzas de los alquileres en Euskadi obliga a Vivienda a pagar intereses",
+      "url": "https://www.diariovasco.com/gipuzkoa/retraso-devolucion-fianzas-alquileres-euskadi-obliga-vivienda-20260718162115-nt_amp.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-17T22:00:34.000Z",
+      "sourceId": "lootura-es-el-diario-vasco"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 2
 }

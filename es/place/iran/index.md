@@ -3,20 +3,26 @@
 > Sigue la actividad de Iran en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-18T02:11:28.247Z
+- Actualizado: 2026-07-18T06:02:46.495Z
 - Canonical: https://atlas.lootura.com/es/place/iran
 
 ## Cambios recientes
 
-### EEUU destruye una torre de vigilancia que Irán usaba para atacar buques en Ormuz
+### EEUU se queda sin misiles para otras guerras: la continuación del conflicto con Irán está poniendo en riesgo su capacidad militar
 
-El Ejército estadounidense destruyó una torre de vigilancia que Irán usaba para atacar a los buques comerciales en el estrecho de Ormuz , lo que permitirá «proteger» la navegación en la vía marítima, afirmó este viernes el Comando Central de Estados Unidos (Centcom). «Las fuerzas de EE. UU. destruyeron con éxito la tor.
+La guerra entre Estados Unidos e Irán no termina. Teherán parece estar calculando que su presión sobre el estrecho de Ormuz obligará a Washington a ceder por completo. En la Casa Blanca parecen apostar por que sus nuevas acciones militares obligarán al régimen iraní a ceder y permitir el flujo normalizado del comercio.
 
-Date: 2026-07-17
+Date: 2026-07-18
 
 ### Estados Unidos lanza una ola de ataques contra Irán por séptimo día consecutivo
 
 Trump anunció la semana pasada la cancelación del memorando de entendimiento que había firmado el 18 de junio.
+
+Date: 2026-07-17
+
+### EEUU destruye una torre de vigilancia que Irán usaba para atacar buques en Ormuz
+
+El Ejército estadounidense destruyó una torre de vigilancia que Irán usaba para atacar a los buques comerciales en el estrecho de Ormuz , lo que permitirá «proteger» la navegación en la vía marítima, afirmó este viernes el Comando Central de Estados Unidos (Centcom). «Las fuerzas de EE. UU. destruyeron con éxito la tor.
 
 Date: 2026-07-17
 
@@ -62,13 +68,7 @@ Los datos de inflación en EE UU más suaves de lo esperado han disipado las pre
 
 Date: 2026-07-16
 
-### El Ibex vuelve a consolidar niveles
-
-Los mercados siguen encontrando obstáculos que atenazan sus subidas. La nueva espiral de ataques de EEUU sobre Irán y la subida de tipos en Corea mantienen en guardia a los inversores. El Ibex, con movimientos estrechos durante toda la semana, vuelve a consolidar niveles en el día del estreno en Bolsa de Digi.
-
-Date: 2026-07-16
-
 ## Fuentes
 
-- [EEUU destruye una torre de vigilancia que Irán usaba para atacar buques en Ormuz](https://theobjective.com/internacional/2026-07-17/eeuu-torre-vigilancia-iran-buques-ormuz/?utm_source=lootura.com) — 2026-07-17T19:22:42.000Z
+- [EEUU se queda sin misiles para otras guerras: la continuación del conflicto con Irán está poniendo en riesgo su capacidad militar](https://www.20minutos.es/internacional/eeuu-se-queda-sin-misiles-para-otras-guerras-continuacion-conflicto-con-iran-esta-poniendo-riesgo-su-capacidad-militar_7014994_0.html?utm_source=lootura.com) — 2026-07-18T05:46:02.000Z
 - [Estados Unidos lanza una ola de ataques contra Irán por séptimo día consecutivo](https://theobjective.com/internacional/2026-07-17/estados-unidos-iran-septimo-dia-consecutivo/?amp=&utm_source=lootura.com) — 2026-07-17T21:48:08.000Z

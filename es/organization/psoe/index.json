@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/psoe/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/psoe/index.json",
   "description": "Sigue la actividad de Partido Socialista Obrero Español en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-18T02:11:28.247Z",
+  "updatedAt": "2026-07-18T06:02:46.495Z",
   "aliases": [
     "Partido Socialista",
     "Partido Socialista Obrero Español"
   ],
   "changes": [
+    {
+      "title": "La UCO constata que Cerdán casi no retiró dinero desde 2019: lo achaca a una fuente de efectivo \"no originada en cuentas bancarias\"",
+      "summary": "La UCO ha aportado finalmente el informe sobre el patrimonio de Santos Cerdán que viene elaborando desde hace un año y ha concluido que el ex número tres del PSOE apenas retiró efectivo en efectivo desde 2019, posiblemente porque contaba con \"una fuente de dinero no originada en cuentas bancarias\" . El atestado, al que.",
+      "date": "2026-07-18"
+    },
     {
       "title": "La UCO desvela que Cerdán intentó comprar un piso de casi un millón con las mordidas a Servinabar",
       "summary": "Los investigadores elevan a 323.000 euros los beneficios ilícitos para él y su familia y revelan que el exdirigente del PSOE dejó de sacar dinero del cajero cuando Ábalos llegó al ministerio.",
@@ -22,6 +27,16 @@
     {
       "title": "La UCO cifra en más de 300.000 euros los beneficios que Cerdán y su familia obtuvieron de la trama entre 2015 y 2024",
       "summary": "Las investigaciones de la Unidad Central Operativa (UCO) de la Guardia Civil vuelven a poner el foco en el exsecretario de Organización del PSOE Santos Cerdán. El instituto armado ha entregado al juez de la Audiencia Nacional Ismael Moreno, que investiga la red corrupta que presuntamente anidó en el Ministerio de Trans.",
+      "date": "2026-07-17"
+    },
+    {
+      "title": "Cerdán disparó su gasto en cash mientras Ábalos adjudicaba contratos",
+      "summary": "El último informe de la Unidad Central Operativa (UCO) de la Guardia Civil complica la estrategia de defensa del ex secretario de Organización del PSOE Santos Cerdán al...",
+      "date": "2026-07-17"
+    },
+    {
+      "title": "Junts descarta reconciliarse con Sánchez tras la amnistía: \"Esto no allana volver con el PSOE. Que cumpla con los catalanes o se vaya\"",
+      "summary": "\"Esta sentencia no llega gracias al PSOE, sino por nuestra persistencia\", alega la dirección de los independentistas para plantar a los socialistas Leer.",
       "date": "2026-07-17"
     },
     {
@@ -45,27 +60,18 @@
       "date": "2026-07-17"
     },
     {
-      "title": "Cerdán disparó su gasto en cash mientras Ábalos adjudicaba contratos",
-      "summary": "El último informe de la Unidad Central Operativa (UCO) de la Guardia Civil complica la estrategia de defensa del ex secretario de Organización del PSOE Santos Cerdán al...",
-      "date": "2026-07-17"
-    },
-    {
-      "title": "Junts descarta reconciliarse con Sánchez tras la amnistía: \"Esto no allana volver con el PSOE. Que cumpla con los catalanes o se vaya\"",
-      "summary": "\"Esta sentencia no llega gracias al PSOE, sino por nuestra persistencia\", alega la dirección de los independentistas para plantar a los socialistas Leer.",
-      "date": "2026-07-17"
-    },
-    {
       "title": "La UCO dice que los ingresos de Cerdán se dispararon en la «etapa ministerial» de Ábalos y tras su ascenso en el PSOE",
       "summary": "La Unidad Central Operativa (UCO) de la Guardia Civil ha revelado que el que fuera mano derecha de Pedro Sánchez Santos Cerdán vio como sus ingresos se dispararon coincidiendo con la «etapa ministerial» del que fuera responsable de Transportes José Luis Ábalos y tras sustituir al mismo como secretario de Organización d.",
-      "date": "2026-07-17"
-    },
-    {
-      "title": "La UCO hunde a Cerdán",
-      "summary": "Nuevo informe de la UCO . En esta ocasión, el señalado, tocado y hundido, es Santos Cerdán , el ex secretario de Organización del PSOE, el sucesor del condenado José Luis Ábalos. La Unidad Central Operativa de la Guardia Civil pone de manifiesto que los ingresos de Cerdán aumentaron de forma considerable entre 2015 y 2.",
       "date": "2026-07-17"
     }
   ],
   "sources": [
+    {
+      "title": "La UCO constata que Cerdán casi no retiró dinero desde 2019: lo achaca a una fuente de efectivo \"no originada en cuentas bancarias\"",
+      "url": "https://www.20minutos.es/nacional/uco-constata-que-cerdan-apenas-retiro-dinero-desde-2019-achaca-una-fuente-efectivo-no-originada-cuentas-bancarias_7015991_0.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-18T05:38:06.000Z",
+      "sourceId": "lootura-es-20minutos"
+    },
     {
       "title": "La UCO desvela que Cerdán intentó comprar un piso de casi un millón con las mordidas a Servinabar",
       "url": "https://www.elcorreo.com/politica/uco-desvela-cerdan-intento-comprar-piso-millon-20260715141134-ntrc_amp.html?utm_source=lootura.com",
@@ -85,35 +91,11 @@
       "sourceId": "lootura-es-el-mundo"
     },
     {
-      "title": "El pelotazo de Cerdán era un piso de un millón por el que pagó arras y que enfadó a Antxon: \"Encima ahora quieren un pisazo\"",
-      "url": "https://amp.elmundo.es/espana/2026/07/17/6a5a268be4d4d822248b457c.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-17T13:01:34.000Z",
-      "sourceId": "lootura-es-el-mundo"
-    },
-    {
       "title": "La UCO cifra en más de 300.000 euros los beneficios que Cerdán y su familia obtuvieron de la trama entre 2015 y 2024",
       "url": "https://elpais.com/espana/2026-07-17/la-uco-cifra-en-mas-de-300000-euros-los-beneficios-obtenidos-por-cerdan-y-su-familia-de-la-trama.html?utm_source=lootura.com",
       "publishedAt": "2026-07-17T16:07:31.000Z",
       "sourceId": "lootura-es-el-pais"
-    },
-    {
-      "title": "La directora de la Guardia Civil afirma al juez que se siente una víctima de Cerdán en el ‘caso Leire Díez’",
-      "url": "https://elpais.com/espana/2026-07-17/la-directora-de-la-guardia-civil-afirma-al-juez-que-se-siente-victima-de-la-trama-del-caso-leire-diez.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-17T12:45:30.000Z",
-      "sourceId": "lootura-es-el-pais"
-    },
-    {
-      "title": "La UCO apunta a que la esposa de Cerdán cobró 1.300 euros mensuales de una empresa para la que no trabajaba",
-      "url": "https://elpais.com/espana/2026-07-17/la-uco-apunta-a-que-la-esposa-de-cerdan-cobro-1300-euros-mensuales-de-una-empresa-para-la-que-no-trabajaba.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-17T14:14:37.000Z",
-      "sourceId": "lootura-es-el-pais"
-    },
-    {
-      "title": "Servinabar intentó comprar para Cerdán un piso en Madrid valorado en cerca de un millón de euros, según la UCO",
-      "url": "https://elpais.com/espana/2026-07-17/servinabar-intento-comprar-para-cerdan-un-piso-en-madrid-valorado-en-cerca-de-un-millon-de-euros-segun-la-uco.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-17T13:27:55.000Z",
-      "sourceId": "lootura-es-el-pais"
     }
   ],
-  "evidenceCount": 8
+  "evidenceCount": 5
 }

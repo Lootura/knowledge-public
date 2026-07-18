@@ -3,7 +3,7 @@
 > Sigue la actividad de Nueva York en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-18T02:11:28.247Z
+- Actualizado: 2026-07-18T06:02:46.495Z
 - Canonical: https://atlas.lootura.com/es/person/nueva-york
 
 ## Cambios recientes
@@ -22,4 +22,4 @@ Date: 2026-07-17
 
 ## Fuentes
 
-- [De Connecticut a Nueva York, la obsesión del capitán Rodri: "Lleva todo el año con eso en la cabeza"](https://www.elmundo.es/deportes/futbol/mundial-de-futbol/2026/07/17/6a5a4724fc6c830f3d8b45af.html?utm_source=lootura.com) — 2026-07-17T20:56:25.000Z
+- [Helicópteros por 15.000 dólares o pedir un Uber con recargo: cómo llegar a ver el Argentina-España en Nueva York](https://cincodias.elpais.com/fortunas/2026-07-18/helicopteros-por-15000-dolares-o-pedir-un-uber-con-recargo-como-llegar-a-ver-el-argentina-espana-en-nueva-york.html?utm_source=lootura.com) — 2026-07-18T03:30:01.000Z

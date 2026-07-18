@@ -3,7 +3,7 @@
 > Follow Maine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-18T02:11:50.603Z
+- Updated: 2026-07-18T06:03:03.575Z
 - Canonical: https://atlas.lootura.com/us/place/maine
 
 ## Recent changes
@@ -70,4 +70,4 @@ Date: 2026-07-15
 
 ## Sources
 
-- [ICE officer in Maine shooting has history of violent behavior, relatives say](https://www.cbsnews.com/news/ice-shooting-maine-officer-history-violent-behavior/?utm_source=lootura.com) — 2026-07-17T16:32:00.000Z
+- [Ex-wife says ICE agent who killed man in Maine had racist beliefs, violent tendencies](https://www.npr.org/2026/07/17/nx-s1-5897460/maine-ice-shooting-brouillette?utm_source=lootura.com) — 2026-07-17T22:36:02.000Z

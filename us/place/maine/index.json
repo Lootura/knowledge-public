@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/maine/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/maine/index.json",
   "description": "Follow Maine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-18T02:11:50.603Z",
+  "updatedAt": "2026-07-18T06:03:03.575Z",
   "aliases": [],
   "changes": [
     {
@@ -64,11 +64,11 @@
   ],
   "sources": [
     {
-      "title": "ICE officer in Maine shooting has history of violent behavior, relatives say",
-      "url": "https://www.cbsnews.com/news/ice-shooting-maine-officer-history-violent-behavior/?utm_source=lootura.com",
-      "publishedAt": "2026-07-17T16:32:00.000Z",
-      "sourceId": "lootura-us-cbs-news"
+      "title": "Ex-wife says ICE agent who killed man in Maine had racist beliefs, violent tendencies",
+      "url": "https://www.npr.org/2026/07/17/nx-s1-5897460/maine-ice-shooting-brouillette?utm_source=lootura.com",
+      "publishedAt": "2026-07-17T22:36:02.000Z",
+      "sourceId": "lootura-us-npr"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 0
 }

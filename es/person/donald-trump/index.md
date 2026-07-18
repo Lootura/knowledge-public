@@ -3,10 +3,16 @@
 > Sigue la actividad de Donald Trump en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-18T02:11:28.247Z
+- Actualizado: 2026-07-18T06:02:46.495Z
 - Canonical: https://atlas.lootura.com/es/person/donald-trump
 
 ## Cambios recientes
+
+### Lealtad, telegenia y testosterona: la extravagante carrera de Hegseth al frente del Pentágono
+
+En la reunión celebrada en el salón de té de la mansión/hotel de Donald Trump de Mar-a-Lago en la que se decidió el 11 de noviembre de 2024 que Pete Hegseth sería el siguiente secretario de Defensa de Estados Unidos, el entonces presidente electo ofreció dos argumentos, para él, de peso. “Nadie ha dado mejor en cámara.
+
+Date: 2026-07-18
 
 ### El Puerto de Bilbao registra entre febrero y junio su mayor actividad desde hace 18 años
 
@@ -62,14 +68,8 @@ El presidente sostuvo que Pekín obtuvo de forma ilícita acceso a los datos de 
 
 Date: 2026-07-17
 
-### Trump desclasifica informes de la CIA que «prueban que el sistema electoral ha sido manipulado» y acusa a China
-
-El presidente estadounidense, Donald Trump, ha anunciado esta madrugada que ha desclasificado informes de la CIA que «prueban que el sistema electoral de EEUU es vulnerable ». «Hay niveles de hackeo y de interferencia extranjera nunca vistos», ha llegado a asegurar, y ha acusado sobre todo a China de las «graves injere.
-
-Date: 2026-07-17
-
 ## Fuentes
 
-- [Deniegan el ESTA a Joan Capdevila para asistir a la final del Mundial: "¡Necesito ayuda, Trump!"](https://www.20minutos.es/deportes/deniegan-esta-capdevila-campeon-mundo-espana-2010-asistir-final-mundial-necesito-ayuda-trump_7016134_0.html?utm_source=lootura.com) — 2026-07-17T21:30:59.000Z
 - [El Puerto de Bilbao registra entre febrero y junio su mayor actividad desde hace 18 años](https://www.elcorreo.com/economia/puerto-bilbao-registra-febrero-junio-mayor-actividad-20260717132549-nt_amp.html?utm_source=lootura.com) — 2026-07-17T11:36:22.000Z
+- [Lealtad, telegenia y testosterona: la extravagante carrera de Hegseth al frente del Pentágono](https://elpais.com/internacional/2026-07-18/lealtad-telegenia-y-testosterona-la-extravagante-carrera-de-hegseth-al-frente-del-pentagono.html?utm_source=lootura.com) — 2026-07-18T03:30:01.000Z
 - [Estados Unidos lanza una ola de ataques contra Irán por séptimo día consecutivo](https://theobjective.com/internacional/2026-07-17/estados-unidos-iran-septimo-dia-consecutivo/?amp=&utm_source=lootura.com) — 2026-07-17T21:48:08.000Z

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/topic/artificial-intelligence/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/topic/artificial-intelligence/index.json",
   "description": "Sigue la actividad de Artificial intelligence en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-18T02:11:28.247Z",
+  "updatedAt": "2026-07-18T06:02:46.495Z",
   "aliases": [
     "AI",
     "machine learning"
@@ -42,11 +42,11 @@
   ],
   "sources": [
     {
-      "title": "Ferran Ballard, experto en aprendizaje: «Ser negacionista de la IA es un error»",
-      "url": "https://www.abc.es/bienestar/psicologia-sexo/ferran-ballard-experto-aprendizaje-negacionista-ia-error-20260717210423-nt.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-18T00:14:34.000Z",
-      "sourceId": "lootura-es-abc"
+      "title": "China busca encabezar un nuevo orden mundial de la Inteligencia Artificial",
+      "url": "https://elpais.com/internacional/2026-07-17/china-busca-encabezar-un-nuevo-orden-mundial-de-la-inteligencia-artificial.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-17T15:32:23.000Z",
+      "sourceId": "lootura-es-el-pais"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 0
 }

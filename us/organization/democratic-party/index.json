@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/democratic-party/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/democratic-party/index.json",
   "description": "Follow Democratic Party, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-18T02:11:50.603Z",
+  "updatedAt": "2026-07-18T06:03:03.575Z",
   "aliases": [
     "Democrats"
   ],
@@ -68,7 +68,7 @@
     {
       "title": "US politicians push agencies to restrict research collaboration with China",
       "url": "https://www.nature.com/articles/d41586-026-02226-9?utm_source=lootura.com",
-      "publishedAt": "2026-07-18T02:11:54.056Z",
+      "publishedAt": "2026-07-18T06:03:06.935Z",
       "sourceId": "lootura-us-nature"
     },
     {
@@ -86,7 +86,7 @@
     {
       "title": "AIPAC Closes Donor Portal to Democrats Who Voted to End Aid to Israel",
       "url": "https://www.nytimes.com/2026/07/17/us/politics/aipac-donor-portal-democrats.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-18T01:25:40.000Z",
+      "publishedAt": "2026-07-18T03:33:57.000Z",
       "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],

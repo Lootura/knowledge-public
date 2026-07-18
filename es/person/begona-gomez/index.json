@@ -8,9 +8,24 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/begona-gomez/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/begona-gomez/index.json",
   "description": "Sigue la actividad de Begoña Gómez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-18T02:11:28.247Z",
+  "updatedAt": "2026-07-18T06:02:46.495Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "Ya hay 2.846 madrileños preseleccionados para juzgar a Begoña Gómez: ¿Cómo se elegirá a los 9 definitivos?",
+      "summary": "Begoña Gómez será juzgada por un jurado popular después de que la Audiencia Provincial de Madrid haya ordenado continuar el procedimiento de juicio acordado en un principio por el juez Juan Carlos Peinado. Serán nueve los madrileños encargados de formar parte de ese jurado popular y serán seleccionados mediante un sort.",
+      "date": "2026-07-18"
+    },
+    {
+      "title": "Feijóo no quiso cruzar su línea roja sobre Begoña Gómez y las hijas de Zapatero en el Senado",
+      "summary": "La mujer de Sánchez ha sido enviada a juicio. Laura y Alba declararán próximamente como imputadas en el caso Plus Ultra. Ninguna ha pasado ni pasar...",
+      "date": "2026-07-18"
+    },
+    {
+      "title": "Begoña Gómez de Kirchner",
+      "summary": "La señora Gómez tendrá que ser juzgada como todo quisque, con la salvedad de que ella aprovechó (presuntamente) su condición de esposa del presidente del Gobierno para hacer negocios particulares, lo que no está al alcance de cualquiera. La lógica democrática —ese unicornio feliz que trota por nuestra mente ingenua— se.",
+      "date": "2026-07-18"
+    },
     {
       "title": "Barbón ve «muy forzado» el proceso judicial de Begoña Gómez y es «incapaz» de ver los delitos",
       "summary": "El socialista asturiano se plantea «no casarse», ya que «esa persona siempre va a estar potencialmente enjuiciada».",
@@ -45,30 +60,27 @@
       "title": "La Audiencia Provincial respalda la decisión de Peinado y descarta que sea «contraria a derecho»",
       "summary": "La Audiencia Provincial de Madrid ha respaldado la decisión del juez Juan Carlos Peinado de enviar a Begoña Gómez al banquillo frente a un jurado popular, una «opción» que «no puede reputarse arbitraria ni contraria a Derecho, en la medida en que identifica los delitos que, de manera indiciaria, pudieran resultar aplic.",
       "date": "2026-07-17"
-    },
-    {
-      "title": "Los 13 indicios de malversación con el 'software' de la Universidad Complutense que hunden a Begoña Gómez",
-      "summary": "La esposa del presidente dejó varias pistas \"con fuerza incriminatoria\" al usar el 'software' de la UCM sin respeto al interés público que la abocan al juicio Leer.",
-      "date": "2026-07-16"
-    },
-    {
-      "title": "La Audiencia de Madrid avala que la causa contra Begoña Gómez siga adelante por jurado por dos delitos",
-      "summary": "La Audiencia Provincial de Madrid ha dado luz verde a que el proceso por jurado popular contra Begoña Gómez, esposa de Pedro Sánchez, siga adelante por dos delitos: tráfico de influencias y malversación. El tribunal avala así parcialmente la decisión del juez Juan Carlos Peinado de enviar al banquillo a la pareja del p.",
-      "date": "2026-07-16"
-    },
-    {
-      "title": "El PP, tras mantenerse el juicio con jurado a Begoña Gómez: «Una situación inconcebible»",
-      "summary": "El Partido Popular ha asegurado este jueves que la Audiencia Provincial de Madrid ha confirmado que Begoña Gómez , esposa del presidente del Gobierno, «se sentará en un banquillo» y ha recalcado que se trata de una situación «sin precedentes en la democracia española e inconcebible en cualquier democracia europea », se.",
-      "date": "2026-07-16"
     }
   ],
   "sources": [
     {
-      "title": "Barbón ve «muy forzado» el proceso judicial de Begoña Gómez y es «incapaz» de ver los delitos",
-      "url": "https://theobjective.com/espana/politica/2026-07-17/barbon-forzado-judicial-begona-gomez-incapaz-ver-delitos/?amp=&utm_source=lootura.com",
-      "publishedAt": "2026-07-17T20:26:56.000Z",
+      "title": "Ya hay 2.846 madrileños preseleccionados para juzgar a Begoña Gómez: ¿Cómo se elegirá a los 9 definitivos?",
+      "url": "https://www.20minutos.es/nacional/ya-hay-2-846-madrilenos-preseleccionados-para-juzgar-begona-gomez-como-se-elegira-los-9-definitivos_7015915_0.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-18T05:48:53.000Z",
+      "sourceId": "lootura-es-20minutos"
+    },
+    {
+      "title": "Feijóo no quiso cruzar su línea roja sobre Begoña Gómez y las hijas de Zapatero en el Senado",
+      "url": "https://www.eldebate.com/espana/20260718/feijoo-no-quiso-cruzar-linea-roja-sobre-begona-gomez-hijas-zapatero-senado_440700.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-18T02:15:00.000Z",
+      "sourceId": "lootura-es-el-debate"
+    },
+    {
+      "title": "Begoña Gómez de Kirchner",
+      "url": "https://theobjective.com/elsubjetivo/opinion/2026-07-18/begona-gomez-articulo-jorge-vilches/?utm_source=lootura.com",
+      "publishedAt": "2026-07-18T03:25:00.000Z",
       "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 3
 }

@@ -3,7 +3,7 @@
 > Follow China, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-18T02:11:50.603Z
+- Updated: 2026-07-18T06:03:03.575Z
 - Canonical: https://atlas.lootura.com/us/place/china
 
 ## Recent changes
@@ -71,7 +71,7 @@ Date: 2026-07-17
 ## Sources
 
 - [China calls Trump's election interference claims "pure fabrication"](https://www.cbsnews.com/video/china-calls-trump-election-interference-claims-pure-fabrication/?utm_source=lootura.com) — 2026-07-17T17:56:44.000Z
-- [US politicians push agencies to restrict research collaboration with China](https://www.nature.com/articles/d41586-026-02226-9?utm_source=lootura.com) — 2026-07-18T02:11:54.056Z
+- [US politicians push agencies to restrict research collaboration with China](https://www.nature.com/articles/d41586-026-02226-9?utm_source=lootura.com) — 2026-07-18T06:03:06.935Z
 - [Fact-checking Trump's address on China, the 2020 election and what documents show](https://www.pbs.org/newshour/politics/fact-checking-trumps-address-on-china-the-2020-election-and-what-documents-show?utm_source=lootura.com) — 2026-07-17T20:20:23.000Z
 - [Landslide in southwestern China kills at least 8 and leaves 34 missing](https://www.pbs.org/newshour/world/landslide-in-southwestern-china-kills-at-least-8-and-leaves-34-missing?utm_source=lootura.com) — 2026-07-17T18:16:49.000Z
 - [China warns of reciprocal countermeasures after U.S. shortens foreign journalist visas](https://www.pbs.org/newshour/politics/china-warns-of-reciprocal-countermeasures-after-u-s-shortens-foreign-journalist-visas?utm_source=lootura.com) — 2026-07-17T17:25:32.000Z

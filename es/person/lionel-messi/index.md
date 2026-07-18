@@ -3,10 +3,16 @@
 > Sigue la actividad de Lionel Messi en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-18T02:11:28.247Z
+- Actualizado: 2026-07-18T06:02:46.495Z
 - Canonical: https://atlas.lootura.com/es/person/lionel-messi
 
 ## Cambios recientes
+
+### La entrevista definitiva con el autor de la foto que unió a Messi y Lamine hace 20 años
+
+Todo el mundo habla de la fotografía en la que aparecen juntos un Leo Messi veinteañero y un Lamine Yamal de apenas unos meses de edad realizada hace casi 20 años. El argentino se ha convertido en el mejor futbolista de la historia; el catalán, en la estrella del Barça y de la selección española. Los dos lucharán este.
+
+Date: 2026-07-18
 
 ### La divertida anécdota del día en que Luis de la Fuente conoció a Messi: "En 15 minutos nos metió cuatro"
 
@@ -52,5 +58,7 @@ Date: 2026-07-15
 
 ## Fuentes
 
+- [No son las estrellas, es el equipo. Y otras lecciones del Mundial para la vida y para la empresa](https://cincodias.elpais.com/opinion/2026-07-18/no-son-las-estrellas-es-el-equipo-y-otras-lecciones-del-mundial-para-la-vida-y-para-la-empresa.html?utm_source=lootura.com) — 2026-07-18T03:40:00.000Z
 - [La divertida anécdota del día en que Luis de la Fuente conoció a Messi: "En 15 minutos nos metió cuatro"](https://www.elmundo.es/deportes/futbol/mundial-de-futbol/2026/07/18/6a5a9a63e85ece44288b4596.html?utm_source=lootura.com) — 2026-07-17T22:30:10.000Z
 - [Cambio generacional: el deporte busca a sus nuevos 'reyes Midas'](https://www.expansion.com/directivos/deporte-negocio/2026/07/17/6a5a7547e5fdea72278b4572.html?utm_source=lootura.com) — 2026-07-17T21:44:34.000Z
+- [La entrevista definitiva con el autor de la foto que unió a Messi y Lamine hace 20 años](https://www.lavanguardia.com/deportes/20260718/11594888/entrevista-definitiva-autor-fotografia-milagro-unio-messi-lamine-20-anos.html?utm_source=lootura.com) — 2026-07-18T04:00:00.000Z

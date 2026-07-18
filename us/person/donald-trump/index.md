@@ -3,10 +3,28 @@
 > Follow Donald Trump, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-07-18T02:11:50.603Z
+- Updated: 2026-07-18T06:03:03.575Z
 - Canonical: https://atlas.lootura.com/us/person/donald-trump
 
 ## Recent changes
+
+### Trump fumes over Canadian wildfire smoke and issues tariff threat
+
+President Donald Trump on Friday pledged to hold Canada responsible for costs associated with unhealthy air quality in the U.S. due to spreading smoke from the Canadian wildfires.
+
+Date: 2026-07-18
+
+### What to know about Trump's claim that over 250K non-citizens are registered to vote
+
+Homeland Security Secretary Markwayne Mullin sent letters to four states alleging that a combined 250,000 non-citizens were registered to vote. Elections experts caution that could be a significant overcount.
+
+Date: 2026-07-18
+
+### As Trump Scraps With Meloni, His Envoy to Italy Is at Sea
+
+Tilman J. Fertitta, the U.S. ambassador to Rome, is summering on his superyacht as President Trump squabbles with Prime Minister Giorgia Meloni of Italy.
+
+Date: 2026-07-18
 
 ### Trump threatens Canada with higher tariffs over wildfire smoke
 
@@ -17,12 +35,6 @@ Date: 2026-07-18
 ### What to know about the Trump administration's claim that 250K non-citizens are registered to vote in 4 states
 
 Homeland Security Secretary Markwayne Mullin sent letters to four states alleging that a combined 250,000 non-citizens were registered to vote. Elections experts caution that could be a significant overcount.
-
-Date: 2026-07-18
-
-### Trump fumes over Canadian wildfire smoke and issues tariff threat
-
-President Donald Trump on Friday pledged to hold Canada responsible for costs associated with unhealthy air quality in the U.S. due to spreading smoke from the Canadian wildfires.
 
 Date: 2026-07-18
 
@@ -44,12 +56,6 @@ In demanding steps to address the integrity of voting, President Trump persisted
 
 Date: 2026-07-17
 
-### Trump Faces the Limits of U.S. Firepower and the Lessons of Past Wars
-
-Like his predecessors, President Trump has struggled to turn battlefield successes into long-term victories.
-
-Date: 2026-07-17
-
 ### Trump encourages Darline Graham to run for Lindsey Graham's seat
 
 Darline Graham indicated in a White House meeting Thursday that she's weighing a bid, CBS News confirmed. A day later, President Trump wrote on Truth Social: "RUN, DARLINE, RUN! ".
@@ -62,16 +68,9 @@ A spokesman for the Chinese Ministry of Foreign Affairs denied President Trump's
 
 Date: 2026-07-17
 
-### Trump promised evidence of election fraud. Experts say there was none
-
-President Trump's primetime address Thursday warned of "shocking vulnerabilities" in U.S. elections, but many election experts say much of Trump's claims amount to old news.
-
-Date: 2026-07-17
-
 ## Sources
 
-- [Trump threatens Canada with higher tariffs over wildfire smoke](https://www.cbsnews.com/news/trump-tariffs-canada-wildfire-smoke/?utm_source=lootura.com) — 2026-07-18T01:02:08.000Z
-- [What to know about the Trump administration's claim that 250K non-citizens are registered to vote in 4 states](https://www.cbsnews.com/news/trump-markwayne-mullin-non-citizens-registered-voters-california-new-jersey-nevada-pennsylvania/?utm_source=lootura.com) — 2026-07-18T01:48:03.000Z
+- [What to know about Trump's claim that over 250K non-citizens are registered to vote](https://www.cbsnews.com/news/trump-markwayne-mullin-non-citizens-registered-voters-california-new-jersey-nevada-pennsylvania/?utm_source=lootura.com) — 2026-07-18T01:48:03.000Z
 - [Trump encourages Darline Graham to run for Lindsey Graham's seat](https://www.cbsnews.com/news/darline-graham-us-senate-south-carolina-lindsey-graham/?utm_source=lootura.com) — 2026-07-17T19:44:10.000Z
 - [China calls Trump's election interference claims "pure fabrication"](https://www.cbsnews.com/video/china-calls-trump-election-interference-claims-pure-fabrication/?utm_source=lootura.com) — 2026-07-17T17:56:44.000Z
 - [Trump calls for new election security measures](https://www.nbcnews.com/nightly-news/video/trump-calls-for-new-election-security-measures-266865733992?utm_source=lootura.com) — 2026-07-17T22:53:58.000Z
@@ -80,3 +79,4 @@ Date: 2026-07-17
 - [Trump promised evidence of election fraud. Experts say there was none](https://www.npr.org/2026/07/17/nx-s1-5897446/trump-promised-evidence-of-election-fraud-experts-say-there-was-none?utm_source=lootura.com) — 2026-07-17T20:19:25.000Z
 - [Fact-checking Trump's address on China, the 2020 election and what documents show](https://www.pbs.org/newshour/politics/fact-checking-trumps-address-on-china-the-2020-election-and-what-documents-show?utm_source=lootura.com) — 2026-07-17T20:20:23.000Z
 - [Former intelligence official weighs Trump's election security allegations](https://www.pbs.org/newshour/show/former-intelligence-official-weighs-trumps-election-security-allegations?utm_source=lootura.com) — 2026-07-17T22:52:53.000Z
+- [Trump says these documents prove his false claims of election fraud. Here's what they really say](https://www.pbs.org/newshour/politics/trump-says-these-documents-prove-his-false-claims-of-election-fraud-heres-what-they-really-say?utm_source=lootura.com) — 2026-07-17T23:08:36.000Z

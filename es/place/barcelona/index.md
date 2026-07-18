@@ -70,4 +70,4 @@ Date: 2026-07-14
 
 ## Fuentes
 
-- [La exposición a incendios forestales durante el embarazo perjudica a los bebés](https://theobjective.com/sociedad/ciencia/2026-07-17/exposicion-incendios-embarazo-bebes/?utm_source=lootura.com) — 2026-07-17T20:55:31.000Z
+No public source links.

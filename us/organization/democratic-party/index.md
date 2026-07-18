@@ -3,7 +3,7 @@
 > Follow Democratic Party, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-07-18T02:11:50.603Z
+- Updated: 2026-07-18T06:03:03.575Z
 - Canonical: https://atlas.lootura.com/us/organization/democratic-party
 
 ## Recent changes
@@ -70,7 +70,7 @@ Date: 2026-07-16
 
 ## Sources
 
-- [US politicians push agencies to restrict research collaboration with China](https://www.nature.com/articles/d41586-026-02226-9?utm_source=lootura.com) — 2026-07-18T02:11:54.056Z
+- [US politicians push agencies to restrict research collaboration with China](https://www.nature.com/articles/d41586-026-02226-9?utm_source=lootura.com) — 2026-07-18T06:03:06.935Z
 - [As competitive Senate map emerges, both Democrats and Republicans see a path to win](https://www.npr.org/2026/07/17/nx-s1-5875199/as-competitive-senate-map-emerges-both-democrats-and-republicans-see-a-path-to-win?utm_source=lootura.com) — 2026-07-17T20:43:38.000Z
 - [News Wrap: Smoke from wildfires leads to unsafe air quality in U.S.](https://www.pbs.org/newshour/show/news-wrap-smoke-from-wildfires-leads-to-unsafe-air-quality-in-u-s?utm_source=lootura.com) — 2026-07-17T22:45:45.000Z
-- [AIPAC Closes Donor Portal to Democrats Who Voted to End Aid to Israel](https://www.nytimes.com/2026/07/17/us/politics/aipac-donor-portal-democrats.html?utm_source=lootura.com) — 2026-07-18T01:25:40.000Z
+- [AIPAC Closes Donor Portal to Democrats Who Voted to End Aid to Israel](https://www.nytimes.com/2026/07/17/us/politics/aipac-donor-portal-democrats.html?utm_source=lootura.com) — 2026-07-18T03:33:57.000Z

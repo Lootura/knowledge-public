@@ -8,13 +8,18 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/donald-trump/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/donald-trump/index.json",
   "description": "Sigue la actividad de Donald Trump en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-18T02:11:28.247Z",
+  "updatedAt": "2026-07-18T06:02:46.495Z",
   "aliases": [
     "President Donald Trump",
     "President Trump",
     "Trump"
   ],
   "changes": [
+    {
+      "title": "Lealtad, telegenia y testosterona: la extravagante carrera de Hegseth al frente del Pentágono",
+      "summary": "En la reunión celebrada en el salón de té de la mansión/hotel de Donald Trump de Mar-a-Lago en la que se decidió el 11 de noviembre de 2024 que Pete Hegseth sería el siguiente secretario de Defensa de Estados Unidos, el entonces presidente electo ofreció dos argumentos, para él, de peso. “Nadie ha dado mejor en cámara.",
+      "date": "2026-07-18"
+    },
     {
       "title": "El Puerto de Bilbao registra entre febrero y junio su mayor actividad desde hace 18 años",
       "summary": "Advierten de un incremento de las importaciones que recuerda a la acumulación de stock que produjeron los aranceles de Trump el año pasado y al que siguió una caída de tráficos.",
@@ -59,25 +64,20 @@
       "title": "Trump anuncia la desclasificación de documentos sobre una supuesta injerencia electoral china en 2020",
       "summary": "El presidente sostuvo que Pekín obtuvo de forma ilícita acceso a los datos de más de 220 millones de votantes estadounidenses.",
       "date": "2026-07-17"
-    },
-    {
-      "title": "Trump desclasifica informes de la CIA que «prueban que el sistema electoral ha sido manipulado» y acusa a China",
-      "summary": "El presidente estadounidense, Donald Trump, ha anunciado esta madrugada que ha desclasificado informes de la CIA que «prueban que el sistema electoral de EEUU es vulnerable ». «Hay niveles de hackeo y de interferencia extranjera nunca vistos», ha llegado a asegurar, y ha acusado sobre todo a China de las «graves injere.",
-      "date": "2026-07-17"
     }
   ],
   "sources": [
-    {
-      "title": "Deniegan el ESTA a Joan Capdevila para asistir a la final del Mundial: \"¡Necesito ayuda, Trump!\"",
-      "url": "https://www.20minutos.es/deportes/deniegan-esta-capdevila-campeon-mundo-espana-2010-asistir-final-mundial-necesito-ayuda-trump_7016134_0.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-17T21:30:59.000Z",
-      "sourceId": "lootura-es-20minutos"
-    },
     {
       "title": "El Puerto de Bilbao registra entre febrero y junio su mayor actividad desde hace 18 años",
       "url": "https://www.elcorreo.com/economia/puerto-bilbao-registra-febrero-junio-mayor-actividad-20260717132549-nt_amp.html?utm_source=lootura.com",
       "publishedAt": "2026-07-17T11:36:22.000Z",
       "sourceId": "lootura-es-el-correo"
+    },
+    {
+      "title": "Lealtad, telegenia y testosterona: la extravagante carrera de Hegseth al frente del Pentágono",
+      "url": "https://elpais.com/internacional/2026-07-18/lealtad-telegenia-y-testosterona-la-extravagante-carrera-de-hegseth-al-frente-del-pentagono.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-18T03:30:01.000Z",
+      "sourceId": "lootura-es-el-pais"
     },
     {
       "title": "Estados Unidos lanza una ola de ataques contra Irán por séptimo día consecutivo",
@@ -86,5 +86,5 @@
       "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 3
 }

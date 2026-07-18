@@ -3,10 +3,58 @@
 > Sigue la actividad de Madrid en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-18T02:11:28.247Z
+- Actualizado: 2026-07-18T06:02:46.495Z
 - Canonical: https://atlas.lootura.com/es/place/madrid
 
 ## Cambios recientes
+
+### Ya hay 2.846 madrileños preseleccionados para juzgar a Begoña Gómez: ¿Cómo se elegirá a los 9 definitivos?
+
+Begoña Gómez será juzgada por un jurado popular después de que la Audiencia Provincial de Madrid haya ordenado continuar el procedimiento de juicio acordado en un principio por el juez Juan Carlos Peinado. Serán nueve los madrileños encargados de formar parte de ese jurado popular y serán seleccionados mediante un sort.
+
+Date: 2026-07-18
+
+### ¿De dónde viene la batalla naval de Vallecas? El origen de la popular tradición que revoluciona el barrio este fin de semana
+
+Miles de personas volverán a reunirse este domingo en una de las celebraciones más singulares de Madrid.
+
+Date: 2026-07-18
+
+### Brambila, el pintor que se adelantó a Goya y rescató la memoria de los Reales Sitios tras la invasión francesa
+
+Hoy apenas recordamos su nombre, pero durante las últimas décadas del siglo XVIII y el primer tercio del XIX, Fernando Brambila fue una figura omnipresente en el Madrid de aquella época. Pintor, arquitecto, perspectivista, grabador, litógrafo y decorador, trabajó para Carlos IV y Fernando VII , aunque su carrera en Esp.
+
+Date: 2026-07-18
+
+### Incendios en España, en directo hoy: última hora de los fuegos activos, evolución y situación en Aragón, Castilla-La Mancha, Madrid y Andalucía
+
+España afronta una nueva jornada de máxima alerta por incendios forestales después de un viernes marcado por varios grandes fuegos activos en diferentes comunidades autónomas y un amplio despliegue de medios de extinción. Los servicios de emergencia han trabajado durante toda la noche para consolidar los perímetros, pr.
+
+Date: 2026-07-18
+
+### Iniesta: “Te identificas con esta selección, da mucha alegría”
+
+Hace 16 años y una semana Andrés Iniesta (Fuentealbilla, 1984) era la viva imagen de la felicidad. Estaba sentado en el asiento D, fila 12 de un chárter que había partido de Johannesburgo con rumbo a Madrid. Llevaba puesta la camiseta de la selección española con el número 6 a la espalda. Y desgranaba, aún fresca en la.
+
+Date: 2026-07-18
+
+### Podcast | Entrevista a María Jesús del Barco
+
+Paloma Cervilla entrevista a la abogada María Jesús del Barco, juez decana de Madrid y presidenta de la Asociación Profesional de la Magistratura (APM).
+
+Date: 2026-07-18
+
+### ‘Erietta’ y Clara
+
+Hace algunos años conocí a Clara Pastor en Madrid. Iba del brazo de sus amigos, el escritor Umberto Pasti y el modisto Stephan Janson, que venían de Tánger. Nos fuimos a comer setas al Cisne Azul, toda clase de setas con huevos y otros aditamentos, y para calentar motores hablamos de Pierre Le-Tan y de Diane de Clercq,.
+
+Date: 2026-07-18
+
+### Abrazos y lágrimas: la primera alfombra roja del Zinemaldia
+
+Con Trueba, Los Javis y Muguruza entre los 200 invitados, la presentación del Festival en Madrid sirvió también para visualizar en el foro el traspaso de Rebordinos a Beloki.
+
+Date: 2026-07-17
 
 ### El pelotazo de Cerdán era un piso de un millón por el que pagó arras y que enfadó a Antxon: "Encima ahora quieren un pisazo"
 
@@ -20,57 +68,13 @@ El informe elaborado por la Unidad Central Operativa (UCO) de la Guardia Civil s
 
 Date: 2026-07-17
 
-### El teniente general Luis del Castillo, 'el Puñales' de la Guardia Civil
-
-«Cobardón» o «mediocre». Así describen al jefe del Mando de Operaciones de la Guardia Civil, Luis del Castillo, compañeros que se han cruzado con él en su trayectoria. Las últimas informaciones publicadas en ABC evidencian el trato que dedicó al responsable jefe de la zona de Madrid y denunciante, Fernando Mora , tras.
-
-Date: 2026-07-17
-
-### Abrazos y lágrimas: la primera alfombra roja del Zinemaldia
-
-Con Trueba, Los Javis y Muguruza entre los 200 invitados, la presentación del Festival en Madrid sirvió también para visualizar en el foro el traspaso de Rebordinos a Beloki.
-
-Date: 2026-07-17
-
-### Madrid concentra el 21% de la inversión estatal ejecutada y Cataluña baja al 8,6%
-
-Durante años, la inversión territorializada del Estado fue uno de los puntos más calientes del debate autonómico en España. La cantidad de dinero que ejecutaba realmente la Administración central en cada comunidad invitaba inevitablemente a las comparaciones, especialmente entre Cataluña y Madrid, los dos ejes económic.
-
-Date: 2026-07-17
-
-### Gil Marín, contundente con el ‘caso Julián’: «No aceptamos la oferta de 100 millones ni de 200»
-
-El consejero delegado del Atlético de Madrid , Miguel Ángel Gil Marín, aseguró que el club no quiere «transferir» al delantero argentino Julián Álvarez y defendió que su respuesta al interés del FC Barcelona «sí es infinita», porque no aceptan «la oferta de 100 millones de euros ni una de 200». «La opinión es clara, la.
-
-Date: 2026-07-17
-
-### La Casa de Cantabria se niega a entregar el Emboque de Oro al teniente general de la Guardia Civil Luis Antonio del Castillo
-
-La Casa de Cantabria en Madrid ha acordado que no entregará el Emboque de Oro al excoronel jefe de la Guardia Civil de Cantabria Luis del Castillo el próximo 13 de agosto, como estaba anunciado y previsto. Ha tomado la decisión de manera "preventiva" y ante "la gravedad de los hechos" que han trascendido estos días. El.
-
-Date: 2026-07-17
-
-### Cuándo será el juicio a Begoña Gómez: delitos de los que se le acusan y previsión de fechas
-
-El calendario judicial apunta a 2027 como el horizonte más probable para la celebración de uno de los juicios con mayor repercusión pública de los últimos años. Aunque todavía no existe una fecha concreta , los trámites pendientes, la composición del tribunal y la carga de trabajo de la Audiencia Provincial de Madrid h.
-
-Date: 2026-07-17
-
-### Cerdán quiso que Servinabar le comprara un piso de lujo de un millón en el centro de Madrid
-
-El ex secretario de Organización del PSOE Santos Cerdán intentó adquirir en 2021 una vivienda en el conocido Edificio Princesa, en el centro de Madrid,.
-
-Date: 2026-07-17
-
-### Declarado un incendio en uno de los laterales de la M-30 cerca del Pirulí
-
-Un incendio se ha declarado este viernes en uno de los laterales de la M-30 de Madrid en la zona de O´Donnell, en las inmediaciones del Pirulí . Los bomberos del Ayuntamiento de la capital ya están trabajando en la extinción de las llamas, que se han originado sobre las 17.00 horas en una zona de vegetación de los talu.
-
-Date: 2026-07-17
-
 ## Fuentes
 
-- [El teniente general Luis del Castillo, 'el Puñales' de la Guardia Civil](https://www.abc.es/espana/luis-castillo-numero-dos-dao-punales-guardia-20260718015843-nt.html?utm_source=lootura.com) — 2026-07-17T23:58:59.000Z
+- [Ya hay 2.846 madrileños preseleccionados para juzgar a Begoña Gómez: ¿Cómo se elegirá a los 9 definitivos?](https://www.20minutos.es/nacional/ya-hay-2-846-madrilenos-preseleccionados-para-juzgar-begona-gomez-como-se-elegira-los-9-definitivos_7015915_0.html?utm_source=lootura.com) — 2026-07-18T05:48:53.000Z
+- [¿De dónde viene la batalla naval de Vallecas? El origen de la popular tradición que revoluciona el barrio este fin de semana](https://www.elconfidencial.com/espana/madrid/2026-07-18/batalla-naval-vallecas-revoluciona-barrio-1qrt-1tna_4391913/?utm_source=lootura.com) — 2026-07-18T03:45:00.000Z
+- [Brambila, el pintor que se adelantó a Goya y rescató la memoria de los Reales Sitios tras la invasión francesa](https://www.elconfidencial.com/espana/madrid/2026-07-18/brambila-el-pintor-que-se-adelanto-a-goya-y-rescato-la-memoria-de-los-reales-sitios-tras-la-barbarie-de-las-tropas-francesas_4391828/?utm_source=lootura.com) — 2026-07-18T03:00:00.000Z
 - [Abrazos y lágrimas: la primera alfombra roja del Zinemaldia](https://www.diariovasco.com/culturas/zinemaldia/abrazos-lagrimas-primera-alfombra-roja-zinemaldia-20260718000252-nt_amp.html?utm_source=lootura.com) — 2026-07-17T22:02:53.000Z
-- [El pelotazo de Cerdán era un piso de un millón por el que pagó arras y que enfadó a Antxon: "Encima ahora quieren un pisazo"](https://amp.elmundo.es/espana/2026/07/17/6a5a268be4d4d822248b457c.html?utm_source=lootura.com) — 2026-07-17T13:01:34.000Z
-- [Servinabar intentó comprar para Cerdán un piso en Madrid valorado en cerca de un millón de euros, según la UCO](https://elpais.com/espana/2026-07-17/servinabar-intento-comprar-para-cerdan-un-piso-en-madrid-valorado-en-cerca-de-un-millon-de-euros-segun-la-uco.html?utm_source=lootura.com) — 2026-07-17T13:27:55.000Z
+- [Incendios en España, en directo hoy: última hora de los fuegos activos, evolución y situación en Aragón, Castilla-La Mancha, Madrid y Andalucía](https://www.larazon.es/sociedad/incendios-espana-directo-hoy-ultima-hora-fuegos-activos-evolucion-situacion-aragon-castillala-mancha-madrid-andalucia-b50m_202607186a5aa5aee9f2e84b5c6ed5ba.html?utm_source=lootura.com) — 2026-07-18T05:51:54.000Z
+- [Iniesta: “Te identificas con esta selección, da mucha alegría”](https://www.lavanguardia.com/deportes/futbol/20260718/11594991/iniesta-te-identificas-seleccion-da-alegria.html?utm_source=lootura.com) — 2026-07-18T04:00:00.000Z
+- [Podcast | Entrevista a María Jesús del Barco](https://theobjective.com/podcasts/entrevista-politica-podcast/podcast-entrevista-a-maria-jesus-del-barco/?utm_source=lootura.com) — 2026-07-18T03:25:16.000Z
+- [‘Erietta’ y Clara](https://theobjective.com/elsubjetivo/opinion/2026-07-18/erietta-clara-articulo-carlos-llop/?utm_source=lootura.com) — 2026-07-18T03:25:00.000Z

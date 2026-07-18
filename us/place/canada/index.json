@@ -8,14 +8,9 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/canada/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/canada/index.json",
   "description": "Follow Canada, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-18T02:11:50.603Z",
+  "updatedAt": "2026-07-18T06:03:03.575Z",
   "aliases": [],
   "changes": [
-    {
-      "title": "Trump threatens Canada with higher tariffs over wildfire smoke",
-      "summary": "President Trump threatened more tariffs on Canada for wildfires that have blanketed large parts of the Midwest and East Coast in smoke in recent days.",
-      "date": "2026-07-18"
-    },
     {
       "title": "Maps show wildfire smoke forecast, air quality alerts in swath of U.S.",
       "summary": "Heavy smoke from several large wildfires blazing in Canada and Minnesota is engulfing large swaths of the Midwest and the U.S. East Coast this week.",
@@ -24,6 +19,16 @@
     {
       "title": "Trump fumes over Canadian wildfire smoke and issues tariff threat",
       "summary": "President Donald Trump on Friday pledged to hold Canada responsible for costs associated with unhealthy air quality in the U.S. due to spreading smoke from the Canadian wildfires.",
+      "date": "2026-07-18"
+    },
+    {
+      "title": "Trump Threatens Canada With Tariffs for Wildfire Smoke Over U.S.",
+      "summary": "The president said on Friday in a social media post that Canada was failing to manage its wildfire response as smoke has blanketed U.S. cities including New York and Chicago.",
+      "date": "2026-07-18"
+    },
+    {
+      "title": "Trump threatens Canada with higher tariffs over wildfire smoke",
+      "summary": "President Trump threatened more tariffs on Canada for wildfires that have blanketed large parts of the Midwest and East Coast in smoke in recent days.",
       "date": "2026-07-18"
     },
     {
@@ -55,20 +60,9 @@
       "title": "Trump Threatens Canada With Tariffs for Wildfire Smoke Over U.S.",
       "summary": "The president said on Friday in a social media post that Canada was failing to manage its wildfire response as smoke has blanketed U.S. cities including New York and Chicago.",
       "date": "2026-07-17"
-    },
-    {
-      "title": "Maps show wildfire smoke forecast, air quality alerts due to pollution from Canadian, Minnesota fires",
-      "summary": "Heavy smoke from several large wildfires blazing in Canada and Minnesota is engulfing large swaths of the Midwest and Northeast U.S. this week.",
-      "date": "2026-07-17"
     }
   ],
   "sources": [
-    {
-      "title": "Trump threatens Canada with higher tariffs over wildfire smoke",
-      "url": "https://www.cbsnews.com/news/trump-tariffs-canada-wildfire-smoke/?utm_source=lootura.com",
-      "publishedAt": "2026-07-18T01:02:08.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
     {
       "title": "Maps show wildfire smoke forecast, air quality alerts in swath of U.S.",
       "url": "https://www.cbsnews.com/news/wildfires-smoke-millions-exposed-midwest-northeast-us/?utm_source=lootura.com",
@@ -92,6 +86,12 @@
       "url": "https://www.npr.org/2026/07/17/g-s1-134179/is-smoke-in-your-home-heres-how-to-make-an-air-purifier-using-a-box-fan?utm_source=lootura.com",
       "publishedAt": "2026-07-17T15:07:09.000Z",
       "sourceId": "lootura-us-npr"
+    },
+    {
+      "title": "Trump Threatens Canada With Tariffs for Wildfire Smoke Over U.S.",
+      "url": "https://www.nytimes.com/2026/07/17/weather/trump-canada-tariffs-wildfire-smoke.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-18T03:06:42.000Z",
+      "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
   "evidenceCount": 5

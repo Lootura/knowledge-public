@@ -3,7 +3,7 @@
 > Sigue la actividad de Artificial intelligence en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: topic
-- Actualizado: 2026-07-18T02:11:28.247Z
+- Actualizado: 2026-07-18T06:02:46.495Z
 - Canonical: https://atlas.lootura.com/es/topic/artificial-intelligence
 
 ## Cambios recientes
@@ -40,4 +40,4 @@ Date: 2026-07-10
 
 ## Fuentes
 
-- [Ferran Ballard, experto en aprendizaje: «Ser negacionista de la IA es un error»](https://www.abc.es/bienestar/psicologia-sexo/ferran-ballard-experto-aprendizaje-negacionista-ia-error-20260717210423-nt.html?utm_source=lootura.com) — 2026-07-18T00:14:34.000Z
+- [China busca encabezar un nuevo orden mundial de la Inteligencia Artificial](https://elpais.com/internacional/2026-07-17/china-busca-encabezar-un-nuevo-orden-mundial-de-la-inteligencia-artificial.html?utm_source=lootura.com) — 2026-07-17T15:32:23.000Z

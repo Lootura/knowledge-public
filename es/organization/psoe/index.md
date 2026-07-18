@@ -3,10 +3,16 @@
 > Sigue la actividad de Partido Socialista Obrero Español en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-18T02:11:28.247Z
+- Actualizado: 2026-07-18T06:02:46.495Z
 - Canonical: https://atlas.lootura.com/es/organization/psoe
 
 ## Cambios recientes
+
+### La UCO constata que Cerdán casi no retiró dinero desde 2019: lo achaca a una fuente de efectivo "no originada en cuentas bancarias"
+
+La UCO ha aportado finalmente el informe sobre el patrimonio de Santos Cerdán que viene elaborando desde hace un año y ha concluido que el ex número tres del PSOE apenas retiró efectivo en efectivo desde 2019, posiblemente porque contaba con "una fuente de dinero no originada en cuentas bancarias" . El atestado, al que.
+
+Date: 2026-07-18
 
 ### La UCO desvela que Cerdán intentó comprar un piso de casi un millón con las mordidas a Servinabar
 
@@ -17,6 +23,18 @@ Date: 2026-07-17
 ### La UCO cifra en más de 300.000 euros los beneficios que Cerdán y su familia obtuvieron de la trama entre 2015 y 2024
 
 Las investigaciones de la Unidad Central Operativa (UCO) de la Guardia Civil vuelven a poner el foco en el exsecretario de Organización del PSOE Santos Cerdán. El instituto armado ha entregado al juez de la Audiencia Nacional Ismael Moreno, que investiga la red corrupta que presuntamente anidó en el Ministerio de Trans.
+
+Date: 2026-07-17
+
+### Cerdán disparó su gasto en cash mientras Ábalos adjudicaba contratos
+
+El último informe de la Unidad Central Operativa (UCO) de la Guardia Civil complica la estrategia de defensa del ex secretario de Organización del PSOE Santos Cerdán al...
+
+Date: 2026-07-17
+
+### Junts descarta reconciliarse con Sánchez tras la amnistía: "Esto no allana volver con el PSOE. Que cumpla con los catalanes o se vaya"
+
+"Esta sentencia no llega gracias al PSOE, sino por nuestra persistencia", alega la dirección de los independentistas para plantar a los socialistas Leer.
 
 Date: 2026-07-17
 
@@ -44,37 +62,16 @@ El informe elaborado por la Unidad Central Operativa (UCO) de la Guardia Civil s
 
 Date: 2026-07-17
 
-### Cerdán disparó su gasto en cash mientras Ábalos adjudicaba contratos
-
-El último informe de la Unidad Central Operativa (UCO) de la Guardia Civil complica la estrategia de defensa del ex secretario de Organización del PSOE Santos Cerdán al...
-
-Date: 2026-07-17
-
-### Junts descarta reconciliarse con Sánchez tras la amnistía: "Esto no allana volver con el PSOE. Que cumpla con los catalanes o se vaya"
-
-"Esta sentencia no llega gracias al PSOE, sino por nuestra persistencia", alega la dirección de los independentistas para plantar a los socialistas Leer.
-
-Date: 2026-07-17
-
 ### La UCO dice que los ingresos de Cerdán se dispararon en la «etapa ministerial» de Ábalos y tras su ascenso en el PSOE
 
 La Unidad Central Operativa (UCO) de la Guardia Civil ha revelado que el que fuera mano derecha de Pedro Sánchez Santos Cerdán vio como sus ingresos se dispararon coincidiendo con la «etapa ministerial» del que fuera responsable de Transportes José Luis Ábalos y tras sustituir al mismo como secretario de Organización d.
 
 Date: 2026-07-17
 
-### La UCO hunde a Cerdán
-
-Nuevo informe de la UCO . En esta ocasión, el señalado, tocado y hundido, es Santos Cerdán , el ex secretario de Organización del PSOE, el sucesor del condenado José Luis Ábalos. La Unidad Central Operativa de la Guardia Civil pone de manifiesto que los ingresos de Cerdán aumentaron de forma considerable entre 2015 y 2.
-
-Date: 2026-07-17
-
 ## Fuentes
 
+- [La UCO constata que Cerdán casi no retiró dinero desde 2019: lo achaca a una fuente de efectivo "no originada en cuentas bancarias"](https://www.20minutos.es/nacional/uco-constata-que-cerdan-apenas-retiro-dinero-desde-2019-achaca-una-fuente-efectivo-no-originada-cuentas-bancarias_7015991_0.html?utm_source=lootura.com) — 2026-07-18T05:38:06.000Z
 - [La UCO desvela que Cerdán intentó comprar un piso de casi un millón con las mordidas a Servinabar](https://www.elcorreo.com/politica/uco-desvela-cerdan-intento-comprar-piso-millon-20260715141134-ntrc_amp.html?utm_source=lootura.com) — 2026-07-17T12:11:34.000Z
 - [Cerdán disparó su gasto en cash mientras Ábalos adjudicaba contratos](https://amp.elmundo.es/espana/2026/07/17/6a5a777621efa0247d8b4592.html?utm_source=lootura.com) — 2026-07-17T20:50:06.000Z
 - [Junts descarta reconciliarse con Sánchez tras la amnistía: "Esto no allana volver con el PSOE. Que cumpla con los catalanes o se vaya"](https://www.elmundo.es/cataluna/2026/07/18/6a5a6254e85eceee518b45a6.html?utm_source=lootura.com) — 2026-07-17T23:17:24.000Z
-- [El pelotazo de Cerdán era un piso de un millón por el que pagó arras y que enfadó a Antxon: "Encima ahora quieren un pisazo"](https://amp.elmundo.es/espana/2026/07/17/6a5a268be4d4d822248b457c.html?utm_source=lootura.com) — 2026-07-17T13:01:34.000Z
 - [La UCO cifra en más de 300.000 euros los beneficios que Cerdán y su familia obtuvieron de la trama entre 2015 y 2024](https://elpais.com/espana/2026-07-17/la-uco-cifra-en-mas-de-300000-euros-los-beneficios-obtenidos-por-cerdan-y-su-familia-de-la-trama.html?utm_source=lootura.com) — 2026-07-17T16:07:31.000Z
-- [La directora de la Guardia Civil afirma al juez que se siente una víctima de Cerdán en el ‘caso Leire Díez’](https://elpais.com/espana/2026-07-17/la-directora-de-la-guardia-civil-afirma-al-juez-que-se-siente-victima-de-la-trama-del-caso-leire-diez.html?utm_source=lootura.com) — 2026-07-17T12:45:30.000Z
-- [La UCO apunta a que la esposa de Cerdán cobró 1.300 euros mensuales de una empresa para la que no trabajaba](https://elpais.com/espana/2026-07-17/la-uco-apunta-a-que-la-esposa-de-cerdan-cobro-1300-euros-mensuales-de-una-empresa-para-la-que-no-trabajaba.html?utm_source=lootura.com) — 2026-07-17T14:14:37.000Z
-- [Servinabar intentó comprar para Cerdán un piso en Madrid valorado en cerca de un millón de euros, según la UCO](https://elpais.com/espana/2026-07-17/servinabar-intento-comprar-para-cerdan-un-piso-en-madrid-valorado-en-cerca-de-un-millon-de-euros-segun-la-uco.html?utm_source=lootura.com) — 2026-07-17T13:27:55.000Z

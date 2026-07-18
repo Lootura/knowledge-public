@@ -3,20 +3,32 @@
 > Sigue la actividad de Pedro Sánchez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-18T02:11:28.247Z
+- Actualizado: 2026-07-18T06:02:46.495Z
 - Canonical: https://atlas.lootura.com/es/person/pedro-sanchez
 
 ## Cambios recientes
 
-### La Comisión Europea ve “avances limitados” en el plan anticorrupción de Sánchez y reclama más reformas
+### Feijóo no quiso cruzar su línea roja sobre Begoña Gómez y las hijas de Zapatero en el Senado
 
-La Comisión Europea avisa de que España solo ha logrado “avances limitados” en sus reformas para luchar contra la corrupción y que el plan aprobado por el Gobierno de Pedro Sánchez aún no se ha implementado. En su informe sobre el cumplimiento en 2025 del Estado de derecho de la Unión Europea hecho publico este viernes.
+La mujer de Sánchez ha sido enviada a juicio. Laura y Alba declararán próximamente como imputadas en el caso Plus Ultra. Ninguna ha pasado ni pasar...
 
-Date: 2026-07-17
+Date: 2026-07-18
+
+### La guerra entró por la ventana y se quedó 40 años: recuerdos del niño al que perseguían las bombas
+
+“Yo tenía 10 años”, relata Nicolás Sánchez-Albornoz , “y estaba enfermo, en la cama. Vivíamos en la calle Ferraz, justo en la esquina de la plaza de España, y una parte daba al Cuartel de la Montaña. Cuando lo asaltaron, las barridas de las ametralladoras llegaron a las habitaciones de mis hermanas, que, afortunadament.
+
+Date: 2026-07-18
 
 ### Junts descarta reconciliarse con Sánchez tras la amnistía: "Esto no allana volver con el PSOE. Que cumpla con los catalanes o se vaya"
 
 "Esta sentencia no llega gracias al PSOE, sino por nuestra persistencia", alega la dirección de los independentistas para plantar a los socialistas Leer.
+
+Date: 2026-07-17
+
+### La Comisión Europea ve “avances limitados” en el plan anticorrupción de Sánchez y reclama más reformas
+
+La Comisión Europea avisa de que España solo ha logrado “avances limitados” en sus reformas para luchar contra la corrupción y que el plan aprobado por el Gobierno de Pedro Sánchez aún no se ha implementado. En su informe sobre el cumplimiento en 2025 del Estado de derecho de la Unión Europea hecho publico este viernes.
 
 Date: 2026-07-17
 
@@ -56,19 +68,8 @@ Begoña Gómez será juzgada por un jurado popular junto a su asesora en Moncloa
 
 Date: 2026-07-17
 
-### Activistas despliegan una lona en protesta contra Sánchez en el Arco de Moncloa: «Pedro, cumple tu palabra»
-
-La mañana madrileña todavía refrescaba cuando, en torno a las 9.00 de la mañana, una imagen sorprendía en Moncloa. El Arco de la Victoria se convertía en improvisado escenario de una protesta encabezada por los activistas de la asociación ecológica Greenpeace. «Pedro, cumple tu palabra. Di NO a la nuclear» es lo que re.
-
-Date: 2026-07-17
-
-### Junqueras dice que el PSOE le «defraudó» y que «no hay confianza» en la legislatura
-
-El presidente de ERC , Oriol Junqueras , ha escenificado este viernes la contradicción que marca la relación de su partido con el Gobierno de Pedro Sánchez: asegura que el PSOE le ha «defraudado, una vez más» por los casos de corrupción que le afectan, pero mantiene su respaldo a la legislatura al considerar que la alt.
-
-Date: 2026-07-17
-
 ## Fuentes
 
+- [Feijóo no quiso cruzar su línea roja sobre Begoña Gómez y las hijas de Zapatero en el Senado](https://www.eldebate.com/espana/20260718/feijoo-no-quiso-cruzar-linea-roja-sobre-begona-gomez-hijas-zapatero-senado_440700.html?utm_source=lootura.com) — 2026-07-18T02:15:00.000Z
 - [Junts descarta reconciliarse con Sánchez tras la amnistía: "Esto no allana volver con el PSOE. Que cumpla con los catalanes o se vaya"](https://www.elmundo.es/cataluna/2026/07/18/6a5a6254e85eceee518b45a6.html?utm_source=lootura.com) — 2026-07-17T23:17:24.000Z
-- [La Comisión Europea ve “avances limitados” en el plan anticorrupción de Sánchez y reclama más reformas](https://elpais.com/espana/2026-07-17/la-comision-europea-ve-avances-limitados-en-el-plan-anticorrupcion-de-sanchez-y-reclama-mas-reformas.html?utm_source=lootura.com) — 2026-07-17T11:27:24.000Z
+- [La guerra entró por la ventana y se quedó 40 años: recuerdos del niño al que perseguían las bombas](https://elpais.com/espana/2026-07-18/la-guerra-entro-por-la-ventana-y-se-quedo-40-anos-recuerdos-del-nino-al-que-perseguian-las-bombas.html?utm_source=lootura.com) — 2026-07-18T03:30:01.000Z

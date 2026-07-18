@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/iran/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/iran/index.json",
   "description": "Follow Iran, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-18T02:11:50.603Z",
+  "updatedAt": "2026-07-18T06:03:03.575Z",
   "aliases": [],
   "changes": [
     {
@@ -24,6 +24,11 @@
     {
       "title": "Oil Prices Rise to Highest Level in a Month as Shipping in the Persian Gulf Nears a Halt",
       "summary": "Shipping traffic was at its lowest level in more than a month and oil prices moved higher as the Iran war continued to disrupt the supply of energy.",
+      "date": "2026-07-17"
+    },
+    {
+      "title": "War Between U.S. and Iran Expands, With Strikes Across the Region",
+      "summary": "Videos and reports in Iranian state media showed damage to bridges, railways and other infrastructure. U.S. allies in the region reported retaliatory strikes by Iran.",
       "date": "2026-07-17"
     },
     {
@@ -55,11 +60,6 @@
       "title": "On the War Against Iran, the Pentagon Has Said Little",
       "summary": "Defense Secretary Pete Hegseth has spoken about a range of issues in recent days — from testosterone to leak investigations — but he has said little about the war.",
       "date": "2026-07-16"
-    },
-    {
-      "title": "Trump's Iran notice aims to reset war powers clock amid growing political risks",
-      "summary": "The Trump administration's notification to restart the war with Iran aims to reset a 60-day clock for military action, but questions are mounting about public support as midterms approach.",
-      "date": "2026-07-16"
     }
   ],
   "sources": [
@@ -86,7 +86,13 @@
       "url": "https://www.nytimes.com/2026/07/17/business/strait-hormuz-iran-oil-prices.html?utm_source=lootura.com",
       "publishedAt": "2026-07-17T19:28:52.000Z",
       "sourceId": "lootura-us-the-new-york-times"
+    },
+    {
+      "title": "War Between U.S. and Iran Expands, With Strikes Across the Region",
+      "url": "https://www.nytimes.com/2026/07/17/world/middleeast/us-iran-war-strikes-infrastructure-civilians.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-17T21:49:49.000Z",
+      "sourceId": "lootura-us-the-new-york-times"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 4
 }

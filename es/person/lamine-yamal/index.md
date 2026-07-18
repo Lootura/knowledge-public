@@ -3,10 +3,16 @@
 > Sigue la actividad de Lamine Yamal en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-18T02:11:28.247Z
+- Actualizado: 2026-07-18T06:02:46.495Z
 - Canonical: https://atlas.lootura.com/es/person/lamine-yamal
 
 ## Cambios recientes
+
+### La entrevista definitiva con el autor de la foto que unió a Messi y Lamine hace 20 años
+
+Todo el mundo habla de la fotografía en la que aparecen juntos un Leo Messi veinteañero y un Lamine Yamal de apenas unos meses de edad realizada hace casi 20 años. El argentino se ha convertido en el mejor futbolista de la historia; el catalán, en la estrella del Barça y de la selección española. Los dos lucharán este.
+
+Date: 2026-07-18
 
 ### La intrahistoria de las fotos de Leo Messi junto a un Lamine Yamal de seis meses
 
@@ -64,4 +70,4 @@ Date: 2026-07-08
 
 ## Fuentes
 
-- [‘Dibu’ Martínez: «España no es sólo Lamine, tiene una gran Selección que trabaja mucho»](https://okdiario.com/mundial/dibu-martinez-espana-no-solo-lamine-tiene-gran-seleccion-que-trabaja-mucho-19020578?utm_source=lootura.com) — 2026-07-17T23:45:27.000Z
+- [La entrevista definitiva con el autor de la foto que unió a Messi y Lamine hace 20 años](https://www.lavanguardia.com/deportes/20260718/11594888/entrevista-definitiva-autor-fotografia-milagro-unio-messi-lamine-20-anos.html?utm_source=lootura.com) — 2026-07-18T04:00:00.000Z

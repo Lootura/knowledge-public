@@ -3,20 +3,20 @@
 > Sigue la actividad de San Sebastián en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-18T02:11:28.247Z
+- Actualizado: 2026-07-18T06:02:46.495Z
 - Canonical: https://atlas.lootura.com/es/place/san-sebastian
 
 ## Cambios recientes
 
-### Rincones a la sombra en los que sentarse
-
-Año 1951. Para «pasear o sentarse a descansar, sin sentir los rigores del sol», Donostia ofrece espacios archiconocidos y otros, menos frecuentados. Hace 75 años, citaban el paseo de los Fueros o los jardines situados tras el hotel María Cristina.
-
-Date: 2026-07-17
-
 ### Cinco jóvenes investigados por insultar y agredir a un hombre con la camiseta de España en el paseo de La Concha de San Sebastián
 
 La víctima ha tenido que ser atendida en el cuarto de socorro, tras lo cual ha interpuesto una denuncia por lo ocurrido.
+
+Date: 2026-07-17
+
+### Rincones a la sombra en los que sentarse
+
+Año 1951. Para «pasear o sentarse a descansar, sin sentir los rigores del sol», Donostia ofrece espacios archiconocidos y otros, menos frecuentados. Hace 75 años, citaban el paseo de los Fueros o los jardines situados tras el hotel María Cristina.
 
 Date: 2026-07-17
 
@@ -70,5 +70,4 @@ Date: 2026-07-12
 
 ## Fuentes
 
-- [Rincones a la sombra en los que sentarse](https://www.diariovasco.com/gipuzkoa/memoria/rincones-sombra-sentarse-20260717125556-nt_amp.html?utm_source=lootura.com) — 2026-07-17T05:52:32.000Z
 - [Cinco jóvenes investigados por insultar y agredir a un hombre con la camiseta de España en el paseo de La Concha de San Sebastián](https://www.diariovasco.com/san-sebastian/cinco-jovenes-investigados-insultar-agredir-hombre-camiseta-espana-20260717112639-nt_amp.html?utm_source=lootura.com) — 2026-07-17T09:28:07.000Z

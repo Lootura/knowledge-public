@@ -8,9 +8,14 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/venezuela/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/venezuela/index.json",
   "description": "Sigue la actividad de Venezuela en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-17T09:54:46.288Z",
+  "updatedAt": "2026-07-18T06:02:46.495Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "Los muertos por el doble terremoto en Venezuela superan los 5.000",
+      "summary": "La cifra de muertos por el doble terremoto del pasado 24 de junio en Venezuela ascendió el viernes a 5.069, tras sumarse 139 nuevos fallecimientos, informó el presidente del Parlamento, Jorge Rodríguez, quien también detalló que la cantidad de heridos se mantiene en 16.740. Las personas sin vivienda se mantienen en 17.",
+      "date": "2026-07-18"
+    },
     {
       "title": "Venezuela supera las 4.900 víctimas mortales por los fuertes terremotos",
       "summary": "Las autoridades venezolanas han elevado este jueves a más de 4.900 el número de fallecidos por cuenta de los devastadores terremotos que sacudieron al país el pasado 24 de junio, mientras que el saldo de heridos se mantiene en 16.740 personas. Concretamente, el presidente de la Asamblea Nacional de Venezuela , Jorge Ro.",
@@ -55,13 +60,15 @@
       "title": "Félix Plasencia, el hombre que negoció el deshielo con Washington y ahora dirige la diplomacia venezolana",
       "summary": "En febrero de este año, Félix Plasencia aterrizó en una capital donde Venezuela llevaba casi siete años sin representación oficial. Su encargo: reabrir los canales entre Caracas y Washington . En marzo lo consiguió. Ambos países retomaron relaciones . Este lunes, cinco meses después, lo llamaron de vuelta para dirigir.",
       "date": "2026-07-14"
-    },
-    {
-      "title": "Uno de cada 10 médicos en España ya son extranjeros: “Venimos a trabajar duro para sostener y mejorar el sistema de salud”",
-      "summary": "Ofreuddys Daniel Estrada Leal había sido médico en Venezuela antes de llegar a España. Aquí, durante casi dos años, ese oficio quedó suspendido en un limbo administrativo. Mientras esperaba la homologación de su título , trabajó como expendedor de combustible en estaciones de servicio, como asistente administrativo en.",
-      "date": "2026-07-14"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Los muertos por el doble terremoto en Venezuela superan los 5.000",
+      "url": "https://www.larazon.es/internacional/muertos-doble-terremoto-venezuela-superan-5000_202607186a5b08631db8de0409956fb8.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-18T05:00:19.000Z",
+      "sourceId": "lootura-es-la-razon"
+    }
+  ],
+  "evidenceCount": 1
 }
