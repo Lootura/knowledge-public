@@ -8,11 +8,21 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/partido-popular/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/partido-popular/index.json",
   "description": "Sigue la actividad de Partido Popular en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-18T06:02:46.495Z",
+  "updatedAt": "2026-07-18T09:22:10.056Z",
   "aliases": [
     "PP"
   ],
   "changes": [
+    {
+      "title": "PP y Vox vuelven a las armas contra la ley de nietos y abren la puerta a la vía judicial",
+      "summary": "La ley de nietos, que consiste en una disposición adicional a la Ley de Memoria Democrática , lleva en vigor casi cuatro años . El plazo para solicitar cita previa y entrar en el proceso de nacionalización -se inscribieron 2,5 millones de personas - finalizó hace nueve meses. Pero la polémica respecto a su aplicación n.",
+      "date": "2026-07-18"
+    },
+    {
+      "title": "Feijóo anuncia a los 50 candidatos a las alcaldías de provincia, entre ellos Gema Igual",
+      "summary": "El presidente nacional del PP, Alberto Núñez Feijóo , presentará este sábado en Santiago de Compostela a los 50 cabezas de lista para las alcaldías de capitales de provincia . Mantendrá a los 30 actuales regidores -entre ellos la alcaldesa de Santander, Gema Igual - y renovará 11 candidaturas en las 20 capitales donde.",
+      "date": "2026-07-18"
+    },
     {
       "title": "El Govern de Prohens aplaza hasta después del verano la aprobación de la ley agraria pactada entre PP y Vox",
       "summary": "El Govern que preside Marga Prohens admite que ya no tendrá tiempo de aprobar la Ley Agraria pactada con Vox antes de las vacaciones de verano. Fuentes del Consolat y también del partido de Santiago Abascal han confirmado a OKBALEARES que el texto de la revolucionaria ley agraria balear no pasará a su aprobación por ..",
@@ -21,11 +31,6 @@
     {
       "title": "Feijóo pone a punto al PP y activa a sus candidatos para afrontar el ciclo electoral ante un posible adelanto",
       "summary": "En la batalla por llegar a la Moncloa cada voto cuenta y el presidente del Partido Popular, Alberto Núñez Feijóo , es consciente de ello. Por eso, está poniendo a punto el partido y activando a todos sus candidatos a ayuntamientos y autonomías de cara a una campaña permanente que se intensificará especialmente tras el.",
-      "date": "2026-07-18"
-    },
-    {
-      "title": "PP y Vox vuelven a las armas contra la ley de nietos y abren la puerta a la vía judicial",
-      "summary": "La ley de nietos, que consiste en una disposición adicional a la Ley de Memoria Democrática , lleva en vigor casi cuatro años . El plazo para solicitar cita previa y entrar en el proceso de nacionalización -se inscribieron 2,5 millones de personas - finalizó hace nueve meses. Pero la polémica respecto a su aplicación n.",
       "date": "2026-07-18"
     },
     {
@@ -57,38 +62,21 @@
       "title": "El PP, tras mantenerse el juicio con jurado a Begoña Gómez: «Una situación inconcebible»",
       "summary": "El Partido Popular ha asegurado este jueves que la Audiencia Provincial de Madrid ha confirmado que Begoña Gómez , esposa del presidente del Gobierno, «se sentará en un banquillo» y ha recalcado que se trata de una situación «sin precedentes en la democracia española e inconcebible en cualquier democracia europea », se.",
       "date": "2026-07-16"
-    },
-    {
-      "title": "CC OO exige a CEOE la retirada de una polémica campaña publicitaria sobre el absentismo: “Mientras unos no están, otros esperan”",
-      "summary": "Las ausencias al trabajo que provocan las bajas por enfermedad centraron el debate público la semana pasada cuando el presidente del Partido Popular, Alberto Núñez Feijóo, se refirió a este fenómeno como “un cáncer” . Una semana después, la polémica continúa con una campaña publicitaria que CEOE ha desplegado en Cantab.",
-      "date": "2026-07-16"
     }
   ],
   "sources": [
     {
-      "title": "Feijóo pone a punto al PP y activa a sus candidatos para afrontar el ciclo electoral ante un posible adelanto",
-      "url": "https://www.20minutos.es/nacional/feijoo-pone-punto-pp-activa-sus-candidatos-para-afrontar-ciclo-electoral-ante-un-posible-adelanto-los-comicios_7015812_0.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-18T05:45:13.000Z",
-      "sourceId": "lootura-es-20minutos"
+      "title": "Feijóo anuncia a los 50 candidatos a las alcaldías de provincia, entre ellos Gema Igual",
+      "url": "https://www.elconfidencial.com/espana/2026-07-18/pp-candidatos-elecciones-municipales-2027-1tps_4392175/?utm_source=lootura.com",
+      "publishedAt": "2026-07-18T09:15:00.000Z",
+      "sourceId": "lootura-es-el-confidencial"
     },
     {
       "title": "PP y Vox vuelven a las armas contra la ley de nietos y abren la puerta a la vía judicial",
       "url": "https://www.elconfidencial.com/espana/2026-07-18/pp-vox-ley-de-nietos-abren-puerta-via-judicial_4391744/?utm_source=lootura.com",
       "publishedAt": "2026-07-18T03:00:00.000Z",
       "sourceId": "lootura-es-el-confidencial"
-    },
-    {
-      "title": "El fondo de Pablo Casado pujará para mantener los Falcon",
-      "url": "https://amp.expansion.com/empresas/2026/07/18/6a5a6ad9468aeb75538b4573.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-17T22:16:12.000Z",
-      "sourceId": "lootura-es-expansion"
-    },
-    {
-      "title": "El Govern de Prohens aplaza hasta después del verano la aprobación de la ley agraria pactada entre PP y Vox",
-      "url": "https://okdiario.com/baleares/govern-prohens-aplaza-hasta-despues-del-verano-aprobacion-ley-agraria-pactada-pp-vox-18984501/amp?utm_source=lootura.com",
-      "publishedAt": "2026-07-18T02:00:59.000Z",
-      "sourceId": "lootura-es-ok-diario"
     }
   ],
-  "evidenceCount": 4
+  "evidenceCount": 2
 }

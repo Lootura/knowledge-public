@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/markwayne-mullin/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/markwayne-mullin/index.json",
   "description": "Follow Markwayne Mullin, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-18T06:03:03.575Z",
+  "updatedAt": "2026-07-18T09:22:30.189Z",
   "aliases": [],
   "changes": [
     {
@@ -40,5 +40,5 @@
       "sourceId": "lootura-us-cbs-news"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

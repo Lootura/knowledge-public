@@ -1,58 +1,32 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-18T06:07:32.333Z",
+  "generatedAt": "2026-07-18T09:27:31.887Z",
   "radar": {
     "id": "es",
     "slug": "es",
     "locale": "es"
   },
   "state": {
-    "signature": "1.16.0|18|1784354566495",
+    "signature": "1.16.0|19|1784366530056",
     "version": "1.16.0",
-    "build": 18,
-    "latestEntityUpdatedAt": "2026-07-18T06:02:46.495Z"
+    "build": 19,
+    "latestEntityUpdatedAt": "2026-07-18T09:22:10.056Z"
   },
   "atlas": {
     "hero": {
-      "id": "es-madrid",
-      "name": "Madrid",
-      "type": "place",
+      "id": "es-begona-gomez",
+      "name": "Begoña Gómez",
+      "type": "person",
       "title": "Ya hay 2.846 madrileños preseleccionados para juzgar a Begoña Gómez: ¿Cómo se elegirá a los 9 definitivos?",
-      "url": "https://atlas.lootura.com/es/place/madrid",
-      "path": "/es/place/madrid",
-      "updatedAt": "2026-07-18T06:02:46.495Z",
-      "score": 1610,
-      "sourceCount": 194,
+      "url": "https://atlas.lootura.com/es/person/begona-gomez",
+      "path": "/es/person/begona-gomez",
+      "updatedAt": "2026-07-18T09:22:10.056Z",
+      "score": 1548,
+      "sourceCount": 34,
       "isBreaking": false,
       "isPinned": false
     },
     "cards": [
-      {
-        "id": "es-begona-gomez",
-        "name": "Begoña Gómez",
-        "type": "person",
-        "title": "Ya hay 2.846 madrileños preseleccionados para juzgar a Begoña Gómez: ¿Cómo se elegirá a los 9 definitivos?",
-        "url": "https://atlas.lootura.com/es/person/begona-gomez",
-        "path": "/es/person/begona-gomez",
-        "updatedAt": "2026-07-18T06:02:46.495Z",
-        "score": 1597,
-        "sourceCount": 34,
-        "isBreaking": false,
-        "isPinned": false
-      },
-      {
-        "id": "es-psoe",
-        "name": "Partido Socialista Obrero Español",
-        "type": "organization",
-        "title": "La UCO cifra en más de 300.000 euros los beneficios que Cerdán y su familia obtuvieron de la trama entre 2015 y 2024",
-        "url": "https://atlas.lootura.com/es/organization/psoe",
-        "path": "/es/organization/psoe",
-        "updatedAt": "2026-07-18T06:02:46.495Z",
-        "score": 1597,
-        "sourceCount": 79,
-        "isBreaking": false,
-        "isPinned": false
-      },
       {
         "id": "es-espana",
         "name": "España",
@@ -60,9 +34,35 @@
         "title": "Portobello prepara la venta de la antigua filial de BT en España para después del verano",
         "url": "https://atlas.lootura.com/es/place/espana",
         "path": "/es/place/espana",
-        "updatedAt": "2026-07-18T06:02:46.495Z",
-        "score": 1562,
-        "sourceCount": 346,
+        "updatedAt": "2026-07-18T09:22:10.056Z",
+        "score": 1534,
+        "sourceCount": 348,
+        "isBreaking": false,
+        "isPinned": false
+      },
+      {
+        "id": "es-madrid",
+        "name": "Madrid",
+        "type": "place",
+        "title": "Incendios en España, en directo hoy: última hora de los fuegos activos, evolución y situación en Aragón, Castilla-La Mancha, Madrid y Andalucía",
+        "url": "https://atlas.lootura.com/es/place/madrid",
+        "path": "/es/place/madrid",
+        "updatedAt": "2026-07-18T09:22:10.056Z",
+        "score": 1534,
+        "sourceCount": 199,
+        "isBreaking": false,
+        "isPinned": false
+      },
+      {
+        "id": "es-united-states",
+        "name": "Estados Unidos",
+        "type": "place",
+        "title": "España, país en armas: cómo se contó la Guerra Civil en los noticieros de Estados Unidos",
+        "url": "https://atlas.lootura.com/es/place/united-states",
+        "path": "/es/place/united-states",
+        "updatedAt": "2026-07-18T09:22:10.056Z",
+        "score": 1512,
+        "sourceCount": 105,
         "isBreaking": false,
         "isPinned": false
       },
@@ -73,13 +73,13 @@
         "title": "La entrevista definitiva con el autor de la foto que unió a Messi y Lamine hace 20 años",
         "url": "https://atlas.lootura.com/es/person/lionel-messi",
         "path": "/es/person/lionel-messi",
-        "updatedAt": "2026-07-18T06:02:46.495Z",
-        "score": 1562,
-        "sourceCount": 8,
+        "updatedAt": "2026-07-18T09:22:10.056Z",
+        "score": 1509,
+        "sourceCount": 9,
         "isBreaking": false,
         "isPinned": false
       }
     ],
-    "publicEntityCount": 41
+    "publicEntityCount": 42
   }
 }

@@ -3,7 +3,7 @@
 > Follow New York, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-18T06:03:03.575Z
+- Updated: 2026-07-18T09:22:30.189Z
 - Canonical: https://atlas.lootura.com/us/place/new-york
 
 ## Recent changes
@@ -11,6 +11,12 @@
 ### Trump Threatens Canada With Tariffs for Wildfire Smoke Over U.S.
 
 The president said on Friday in a social media post that Canada was failing to manage its wildfire response as smoke has blanketed U.S. cities including New York and Chicago.
+
+Date: 2026-07-18
+
+### Zohran Mamdani Knows He Has Political Capital. And He Intends to Spend It.
+
+Lulu Garcia-Navarro sits down for an interview with the mayor of New York City.
 
 Date: 2026-07-18
 
@@ -62,12 +68,7 @@ In our news wrap Tuesday, Federal Reserve Chair Kevin Warsh told the House Finan
 
 Date: 2026-07-14
 
-### N.Y. enacts nation's first statewide moratorium on building new data centers
-
-Building new data centers in New York will be paused for a year in order to allow state officials to establish guidelines protecting residents and the environment, Gov. Kathy Hochul said.
-
-Date: 2026-07-14
-
 ## Sources
 
-- [Trump Threatens Canada With Tariffs for Wildfire Smoke Over U.S.](https://www.nytimes.com/2026/07/17/weather/trump-canada-tariffs-wildfire-smoke.html?utm_source=lootura.com) — 2026-07-18T03:06:42.000Z
+- [Trump Threatens Canada With Tariffs for Wildfire Smoke Over U.S.](https://www.nytimes.com/2026/07/17/weather/trump-canada-tariffs-wildfire-smoke.html?utm_source=lootura.com) — 2026-07-18T03:06:43.000Z
+- [Zohran Mamdani Knows He Has Political Capital. And He Intends to Spend It.](https://www.nytimes.com/2026/07/18/magazine/zohran-mamdani-interview.html?utm_source=lootura.com) — 2026-07-18T09:15:05.000Z

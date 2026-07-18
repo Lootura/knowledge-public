@@ -3,10 +3,16 @@
 > Sigue la actividad de Begoña Gómez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-18T06:02:46.495Z
+- Actualizado: 2026-07-18T09:22:10.056Z
 - Canonical: https://atlas.lootura.com/es/person/begona-gomez
 
 ## Cambios recientes
+
+### Begoña Gómez de Kirchner
+
+La señora Gómez tendrá que ser juzgada como todo quisque, con la salvedad de que ella aprovechó (presuntamente) su condición de esposa del presidente del Gobierno para hacer negocios particulares, lo que no está al alcance de cualquiera. La lógica democrática —ese unicornio feliz que trota por nuestra mente ingenua— se.
+
+Date: 2026-07-18
 
 ### Ya hay 2.846 madrileños preseleccionados para juzgar a Begoña Gómez: ¿Cómo se elegirá a los 9 definitivos?
 
@@ -17,12 +23,6 @@ Date: 2026-07-18
 ### Feijóo no quiso cruzar su línea roja sobre Begoña Gómez y las hijas de Zapatero en el Senado
 
 La mujer de Sánchez ha sido enviada a juicio. Laura y Alba declararán próximamente como imputadas en el caso Plus Ultra. Ninguna ha pasado ni pasar...
-
-Date: 2026-07-18
-
-### Begoña Gómez de Kirchner
-
-La señora Gómez tendrá que ser juzgada como todo quisque, con la salvedad de que ella aprovechó (presuntamente) su condición de esposa del presidente del Gobierno para hacer negocios particulares, lo que no está al alcance de cualquiera. La lógica democrática —ese unicornio feliz que trota por nuestra mente ingenua— se.
 
 Date: 2026-07-18
 
@@ -70,6 +70,4 @@ Date: 2026-07-17
 
 ## Fuentes
 
-- [Ya hay 2.846 madrileños preseleccionados para juzgar a Begoña Gómez: ¿Cómo se elegirá a los 9 definitivos?](https://www.20minutos.es/nacional/ya-hay-2-846-madrilenos-preseleccionados-para-juzgar-begona-gomez-como-se-elegira-los-9-definitivos_7015915_0.html?utm_source=lootura.com) — 2026-07-18T05:48:53.000Z
-- [Feijóo no quiso cruzar su línea roja sobre Begoña Gómez y las hijas de Zapatero en el Senado](https://www.eldebate.com/espana/20260718/feijoo-no-quiso-cruzar-linea-roja-sobre-begona-gomez-hijas-zapatero-senado_440700.html?utm_source=lootura.com) — 2026-07-18T02:15:00.000Z
 - [Begoña Gómez de Kirchner](https://theobjective.com/elsubjetivo/opinion/2026-07-18/begona-gomez-articulo-jorge-vilches/?utm_source=lootura.com) — 2026-07-18T03:25:00.000Z

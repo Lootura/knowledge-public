@@ -3,20 +3,20 @@
 > Sigue la actividad de País Vasco en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-18T06:02:46.495Z
+- Actualizado: 2026-07-18T09:22:10.056Z
 - Canonical: https://atlas.lootura.com/es/place/pais-vasco
 
 ## Cambios recientes
 
-### La economía vasca mantiene el pulso y avanza un 2,1% en el segundo trimestre
-
-Euskadi desafía la incertidumbre de la guerra gracias al tirón de los servicios y la construcción.
-
-Date: 2026-07-17
-
 ### El retraso en la devolución de las fianzas de los alquileres en Euskadi obliga a Vivienda a pagar intereses
 
 El plazo se ha duplicado en un año, pasando de mes y medio a tres meses, y el Gobierno Vasco lo achaca a «problemas de personal».
+
+Date: 2026-07-17
+
+### La economía vasca mantiene el pulso y avanza un 2,1% en el segundo trimestre
+
+Euskadi desafía la incertidumbre de la guerra gracias al tirón de los servicios y la construcción.
 
 Date: 2026-07-17
 
@@ -70,5 +70,4 @@ Date: 2026-07-08
 
 ## Fuentes
 
-- [La economía vasca mantiene el pulso y avanza un 2,1% en el segundo trimestre](https://www.elcorreo.com/economia/economia-vasca-mantiene-pulso-avanza-segundo-trimestre-20260717102753-nt_amp.html?utm_source=lootura.com) — 2026-07-17T08:27:53.000Z
 - [El retraso en la devolución de las fianzas de los alquileres en Euskadi obliga a Vivienda a pagar intereses](https://www.diariovasco.com/gipuzkoa/retraso-devolucion-fianzas-alquileres-euskadi-obliga-vivienda-20260718162115-nt_amp.html?utm_source=lootura.com) — 2026-07-17T22:00:34.000Z

@@ -3,10 +3,22 @@
 > Sigue la actividad de Partido Popular en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-18T06:02:46.495Z
+- Actualizado: 2026-07-18T09:22:10.056Z
 - Canonical: https://atlas.lootura.com/es/organization/partido-popular
 
 ## Cambios recientes
+
+### PP y Vox vuelven a las armas contra la ley de nietos y abren la puerta a la vía judicial
+
+La ley de nietos, que consiste en una disposición adicional a la Ley de Memoria Democrática , lleva en vigor casi cuatro años . El plazo para solicitar cita previa y entrar en el proceso de nacionalización -se inscribieron 2,5 millones de personas - finalizó hace nueve meses. Pero la polémica respecto a su aplicación n.
+
+Date: 2026-07-18
+
+### Feijóo anuncia a los 50 candidatos a las alcaldías de provincia, entre ellos Gema Igual
+
+El presidente nacional del PP, Alberto Núñez Feijóo , presentará este sábado en Santiago de Compostela a los 50 cabezas de lista para las alcaldías de capitales de provincia . Mantendrá a los 30 actuales regidores -entre ellos la alcaldesa de Santander, Gema Igual - y renovará 11 candidaturas en las 20 capitales donde.
+
+Date: 2026-07-18
 
 ### El Govern de Prohens aplaza hasta después del verano la aprobación de la ley agraria pactada entre PP y Vox
 
@@ -17,12 +29,6 @@ Date: 2026-07-18
 ### Feijóo pone a punto al PP y activa a sus candidatos para afrontar el ciclo electoral ante un posible adelanto
 
 En la batalla por llegar a la Moncloa cada voto cuenta y el presidente del Partido Popular, Alberto Núñez Feijóo , es consciente de ello. Por eso, está poniendo a punto el partido y activando a todos sus candidatos a ayuntamientos y autonomías de cara a una campaña permanente que se intensificará especialmente tras el.
-
-Date: 2026-07-18
-
-### PP y Vox vuelven a las armas contra la ley de nietos y abren la puerta a la vía judicial
-
-La ley de nietos, que consiste en una disposición adicional a la Ley de Memoria Democrática , lleva en vigor casi cuatro años . El plazo para solicitar cita previa y entrar en el proceso de nacionalización -se inscribieron 2,5 millones de personas - finalizó hace nueve meses. Pero la polémica respecto a su aplicación n.
 
 Date: 2026-07-18
 
@@ -62,15 +68,7 @@ El Partido Popular ha asegurado este jueves que la Audiencia Provincial de Madri
 
 Date: 2026-07-16
 
-### CC OO exige a CEOE la retirada de una polémica campaña publicitaria sobre el absentismo: “Mientras unos no están, otros esperan”
-
-Las ausencias al trabajo que provocan las bajas por enfermedad centraron el debate público la semana pasada cuando el presidente del Partido Popular, Alberto Núñez Feijóo, se refirió a este fenómeno como “un cáncer” . Una semana después, la polémica continúa con una campaña publicitaria que CEOE ha desplegado en Cantab.
-
-Date: 2026-07-16
-
 ## Fuentes
 
-- [Feijóo pone a punto al PP y activa a sus candidatos para afrontar el ciclo electoral ante un posible adelanto](https://www.20minutos.es/nacional/feijoo-pone-punto-pp-activa-sus-candidatos-para-afrontar-ciclo-electoral-ante-un-posible-adelanto-los-comicios_7015812_0.html?utm_source=lootura.com) — 2026-07-18T05:45:13.000Z
+- [Feijóo anuncia a los 50 candidatos a las alcaldías de provincia, entre ellos Gema Igual](https://www.elconfidencial.com/espana/2026-07-18/pp-candidatos-elecciones-municipales-2027-1tps_4392175/?utm_source=lootura.com) — 2026-07-18T09:15:00.000Z
 - [PP y Vox vuelven a las armas contra la ley de nietos y abren la puerta a la vía judicial](https://www.elconfidencial.com/espana/2026-07-18/pp-vox-ley-de-nietos-abren-puerta-via-judicial_4391744/?utm_source=lootura.com) — 2026-07-18T03:00:00.000Z
-- [El fondo de Pablo Casado pujará para mantener los Falcon](https://amp.expansion.com/empresas/2026/07/18/6a5a6ad9468aeb75538b4573.html?utm_source=lootura.com) — 2026-07-17T22:16:12.000Z
-- [El Govern de Prohens aplaza hasta después del verano la aprobación de la ley agraria pactada entre PP y Vox](https://okdiario.com/baleares/govern-prohens-aplaza-hasta-despues-del-verano-aprobacion-ley-agraria-pactada-pp-vox-18984501/amp?utm_source=lootura.com) — 2026-07-18T02:00:59.000Z

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/united-states/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/united-states/index.json",
   "description": "Follow United States, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-18T06:03:03.575Z",
+  "updatedAt": "2026-07-18T09:22:30.189Z",
   "aliases": [
     "America",
     "Estados Unidos",
@@ -41,29 +41,29 @@
       "date": "2026-07-18"
     },
     {
+      "title": "U.S. and Iran escalate strikes across Mideast",
+      "summary": "The United States and Iran exchanged strikes aimed at infrastructure and military targets on Saturday as their battle over the Strait of Hormuz intensified. (Image credit: Razieh Poudat/AP Photo).",
+      "date": "2026-07-18"
+    },
+    {
+      "title": "Far above the Earth, NASA's Apollo lunar lander put astronauts on the moon",
+      "summary": "America's most daring, extraordinary feat—landing astronauts on the moon—remains the pinnacle of achievement by anyone anywhere. Ever.",
+      "date": "2026-07-18"
+    },
+    {
+      "title": "Russia Bill Broadens Sanctions but Could Fuel Fears Over the Dollar",
+      "summary": "The Trump administration has recently sought to scale back sanctions as adversaries develop workarounds that some believe could erode the U.S. dollar’s supremacy.",
+      "date": "2026-07-18"
+    },
+    {
       "title": "As Trump Scraps With Meloni, His Envoy to Italy Is at Sea",
       "summary": "Tilman J. Fertitta, the U.S. ambassador to Rome, is summering on his superyacht as President Trump squabbles with Prime Minister Giorgia Meloni of Italy.",
       "date": "2026-07-18"
     },
     {
-      "title": "A bug commonly sold at pet stores is helping scientists with a vexing task",
-      "summary": "Zophobas morio , are often used as animal feed. But researchers have discovered they also like to feed on animal corpses and can be used to clean specimens.'/> The larvae of a beetle native to South and Central America, the critters are the perfect solution to sticky problem: How to prepare an animal skeleton for scien.",
-      "date": "2026-07-17"
-    },
-    {
-      "title": "Wildfire smoke is like smoking 'half a pack a day.' Here's how to protect yourself",
-      "summary": "As Canadian wildfires spread smoke across the U.S. the air pollution is dangerous to health. But there are ways to protect yourself. Here's what to know . (Image credit: Scott Olson).",
-      "date": "2026-07-17"
-    },
-    {
-      "title": "America’s Enterprising Spirit Is Booming After Decades-Long Slump",
-      "summary": "Hundreds of thousands of people are creating companies each year, ending a decades-long drought.",
-      "date": "2026-07-17"
-    },
-    {
-      "title": "Strong earthquake hits Mexico-Guatemala border, tsunami alert lifted",
-      "summary": "The U.S. Geological Survey reported that the earthquake had a magnitude of 7.3 with the epicenter 30 miles southwest of Aquiles Serdan, Mexico.",
-      "date": "2026-07-17"
+      "title": "As Trump Scraps With Meloni, His Envoy to Italy Is at Sea",
+      "summary": "Tilman J. Fertitta, the U.S. ambassador to Rome, is summering on his superyacht as President Trump squabbles with Prime Minister Giorgia Meloni of Italy.",
+      "date": "2026-07-18"
     }
   ],
   "sources": [
@@ -116,17 +116,17 @@
       "sourceId": "lootura-us-nbc-news"
     },
     {
-      "title": "Trump calls for new election security measures",
-      "url": "https://www.nbcnews.com/nightly-news/video/trump-calls-for-new-election-security-measures-266865733992?utm_source=lootura.com",
-      "publishedAt": "2026-07-17T22:53:58.000Z",
-      "sourceId": "lootura-us-nbc-news-politics"
-    },
-    {
       "title": "Trump fumes over Canadian wildfire smoke and issues tariff threat",
       "url": "https://www.nbcnews.com/politics/donald-trump/trump-fumes-canadian-wildfire-smoke-issues-tariff-threat-rcna588122?utm_source=lootura.com",
       "publishedAt": "2026-07-18T01:18:17.000Z",
       "sourceId": "lootura-us-nbc-news-politics"
+    },
+    {
+      "title": "A bug commonly sold at pet stores is helping scientists with a vexing task",
+      "url": "https://www.npr.org/2026/07/17/nx-s1-5896494/superworms-clean-animal-specimens-skeleton-research?utm_source=lootura.com",
+      "publishedAt": "2026-07-17T11:00:00.000Z",
+      "sourceId": "lootura-us-npr"
     }
   ],
-  "evidenceCount": 25
+  "evidenceCount": 27
 }

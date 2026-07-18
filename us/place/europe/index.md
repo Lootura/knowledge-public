@@ -3,16 +3,10 @@
 > Follow Europe, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-17T17:09:22.641Z
+- Updated: 2026-07-18T09:22:30.189Z
 - Canonical: https://atlas.lootura.com/us/place/europe
 
 ## Recent changes
-
-### Stocks Sink on Anxiety About Tech and A.I. Spending
-
-A sell-off in Asia led by chipmakers spilled into Europe and U.S. markets on Friday.
-
-Date: 2026-07-17
 
 ### EU's AI 'guardrails' cannot absorb rapid changes in technology, study warns
 
@@ -68,6 +62,12 @@ The European Union is weighing sweeping new restrictions on children's and teena
 
 Date: 2026-07-13
 
+### Lindsey Graham remembered for a vision of American foreign policy that's fading in Washington
+
+Graham was a rare bridge between President Donald Trump's "America First" foreign policy and the traditional Washington consensus prioritizing alliances with Europe and Israel, one falling out of favor with many in both political parties.
+
+Date: 2026-07-12
+
 ## Sources
 
-- [Stocks Sink on Anxiety About Tech and A.I. Spending](https://www.nytimes.com/2026/07/17/business/stocks-ai-tech-wall-street.html?utm_source=lootura.com) — 2026-07-17T20:17:16.000Z
+- ['Chainsaw massacre': Europe mulls culls for fish-guzzling cormorant](https://phys.org/news/2026-07-chainsaw-massacre-europe-mulls-culls.html?utm_source=lootura.com) — 2026-07-18T08:20:03.000Z

@@ -70,4 +70,4 @@ Date: 2026-07-16
 
 ## Fuentes
 
-- [La UCO cifra en más de 300.000 euros los beneficios que Cerdán y su familia obtuvieron de la trama entre 2015 y 2024](https://elpais.com/espana/2026-07-17/la-uco-cifra-en-mas-de-300000-euros-los-beneficios-obtenidos-por-cerdan-y-su-familia-de-la-trama.html?utm_source=lootura.com) — 2026-07-17T16:07:31.000Z
+No public source links.

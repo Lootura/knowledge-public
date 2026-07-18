@@ -8,11 +8,16 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/lionel-messi/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/lionel-messi/index.json",
   "description": "Sigue la actividad de Lionel Messi en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-18T06:02:46.495Z",
+  "updatedAt": "2026-07-18T09:22:10.056Z",
   "aliases": [
     "Messi"
   ],
   "changes": [
+    {
+      "title": "Messi se pronuncia sobre su foto con Yamal de bebé: \"Es una locura...\"",
+      "summary": "El capitán de la selección de Argentina, Lionel Messi, confesó que es «una locura» la historia de su fotografía hace casi 20 años con un bebé Lamine.",
+      "date": "2026-07-18"
+    },
     {
       "title": "La entrevista definitiva con el autor de la foto que unió a Messi y Lamine hace 20 años",
       "summary": "Todo el mundo habla de la fotografía en la que aparecen juntos un Leo Messi veinteañero y un Lamine Yamal de apenas unos meses de edad realizada hace casi 20 años. El argentino se ha convertido en el mejor futbolista de la historia; el catalán, en la estrella del Barça y de la selección española. Los dos lucharán este.",
@@ -56,10 +61,10 @@
   ],
   "sources": [
     {
-      "title": "No son las estrellas, es el equipo. Y otras lecciones del Mundial para la vida y para la empresa",
-      "url": "https://cincodias.elpais.com/opinion/2026-07-18/no-son-las-estrellas-es-el-equipo-y-otras-lecciones-del-mundial-para-la-vida-y-para-la-empresa.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-18T03:40:00.000Z",
-      "sourceId": "lootura-es-cinco-dias"
+      "title": "Messi reacciona a su foto con Lamine Yamal cuando era bebé: \"Es una locura\"",
+      "url": "https://www.20minutos.es/deportes/futbol/messi-reacciona-su-foto-con-lamine-yamal-cuando-era-bebe-es-una-locura_7016147_0.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-18T08:16:20.000Z",
+      "sourceId": "lootura-es-20minutos"
     },
     {
       "title": "La divertida anécdota del día en que Luis de la Fuente conoció a Messi: \"En 15 minutos nos metió cuatro\"",
@@ -68,16 +73,10 @@
       "sourceId": "lootura-es-el-mundo"
     },
     {
-      "title": "Cambio generacional: el deporte busca a sus nuevos 'reyes Midas'",
-      "url": "https://www.expansion.com/directivos/deporte-negocio/2026/07/17/6a5a7547e5fdea72278b4572.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-17T21:44:34.000Z",
-      "sourceId": "lootura-es-expansion"
-    },
-    {
-      "title": "La entrevista definitiva con el autor de la foto que unió a Messi y Lamine hace 20 años",
-      "url": "https://www.lavanguardia.com/deportes/20260718/11594888/entrevista-definitiva-autor-fotografia-milagro-unio-messi-lamine-20-anos.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-18T04:00:00.000Z",
-      "sourceId": "lootura-es-la-vanguardia"
+      "title": "Messi se pronuncia sobre su foto con Yamal de bebé: \"Es una locura...\"",
+      "url": "https://theobjective.com/deportes/futbol/mundial/2026-07-18/messi-foto-yamal-bebe/?amp=&utm_source=lootura.com",
+      "publishedAt": "2026-07-18T07:56:36.000Z",
+      "sourceId": "lootura-es-the-objective"
     }
   ],
   "evidenceCount": 4

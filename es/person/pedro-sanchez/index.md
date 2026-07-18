@@ -3,20 +3,20 @@
 > Sigue la actividad de Pedro Sánchez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-18T06:02:46.495Z
+- Actualizado: 2026-07-18T09:22:10.056Z
 - Canonical: https://atlas.lootura.com/es/person/pedro-sanchez
 
 ## Cambios recientes
 
-### Feijóo no quiso cruzar su línea roja sobre Begoña Gómez y las hijas de Zapatero en el Senado
-
-La mujer de Sánchez ha sido enviada a juicio. Laura y Alba declararán próximamente como imputadas en el caso Plus Ultra. Ninguna ha pasado ni pasar...
-
-Date: 2026-07-18
-
 ### La guerra entró por la ventana y se quedó 40 años: recuerdos del niño al que perseguían las bombas
 
 “Yo tenía 10 años”, relata Nicolás Sánchez-Albornoz , “y estaba enfermo, en la cama. Vivíamos en la calle Ferraz, justo en la esquina de la plaza de España, y una parte daba al Cuartel de la Montaña. Cuando lo asaltaron, las barridas de las ametralladoras llegaron a las habitaciones de mis hermanas, que, afortunadament.
+
+Date: 2026-07-18
+
+### Feijóo no quiso cruzar su línea roja sobre Begoña Gómez y las hijas de Zapatero en el Senado
+
+La mujer de Sánchez ha sido enviada a juicio. Laura y Alba declararán próximamente como imputadas en el caso Plus Ultra. Ninguna ha pasado ni pasar...
 
 Date: 2026-07-18
 
@@ -70,6 +70,5 @@ Date: 2026-07-17
 
 ## Fuentes
 
-- [Feijóo no quiso cruzar su línea roja sobre Begoña Gómez y las hijas de Zapatero en el Senado](https://www.eldebate.com/espana/20260718/feijoo-no-quiso-cruzar-linea-roja-sobre-begona-gomez-hijas-zapatero-senado_440700.html?utm_source=lootura.com) — 2026-07-18T02:15:00.000Z
 - [Junts descarta reconciliarse con Sánchez tras la amnistía: "Esto no allana volver con el PSOE. Que cumpla con los catalanes o se vaya"](https://www.elmundo.es/cataluna/2026/07/18/6a5a6254e85eceee518b45a6.html?utm_source=lootura.com) — 2026-07-17T23:17:24.000Z
 - [La guerra entró por la ventana y se quedó 40 años: recuerdos del niño al que perseguían las bombas](https://elpais.com/espana/2026-07-18/la-guerra-entro-por-la-ventana-y-se-quedo-40-anos-recuerdos-del-nino-al-que-perseguian-las-bombas.html?utm_source=lootura.com) — 2026-07-18T03:30:01.000Z

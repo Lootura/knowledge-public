@@ -3,7 +3,7 @@
 > Sigue la actividad de FIFA en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-18T06:02:46.495Z
+- Actualizado: 2026-07-18T09:22:10.056Z
 - Canonical: https://atlas.lootura.com/es/organization/fifa
 
 ## Cambios recientes
@@ -28,4 +28,4 @@ Date: 2026-07-08
 
 ## Fuentes
 
-- [Llega la final del Mundial 2026: las cifras económicas de un torneo que ha batido récords pese a las polémicas](https://cincodias.elpais.com/fortunas/2026-07-18/llega-la-final-del-mundial-2026-las-cifras-economicas-de-un-torneo-que-ha-batido-records-pese-a-las-polemicas.html?utm_source=lootura.com) — 2026-07-18T03:30:01.000Z
+- [Messi reacciona a su foto con Lamine Yamal cuando era bebé: "Es una locura"](https://www.20minutos.es/deportes/futbol/messi-reacciona-su-foto-con-lamine-yamal-cuando-era-bebe-es-una-locura_7016147_0.html?utm_source=lootura.com) — 2026-07-18T08:16:20.000Z

@@ -8,18 +8,13 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/united-states/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/united-states/index.json",
   "description": "Sigue la actividad de Estados Unidos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-18T06:02:46.495Z",
+  "updatedAt": "2026-07-18T09:22:10.056Z",
   "aliases": [
     "America",
     "Estados Unidos",
     "U.S."
   ],
   "changes": [
-    {
-      "title": "EEUU se queda sin misiles para otras guerras: la continuación del conflicto con Irán está poniendo en riesgo su capacidad militar",
-      "summary": "La guerra entre Estados Unidos e Irán no termina. Teherán parece estar calculando que su presión sobre el estrecho de Ormuz obligará a Washington a ceder por completo. En la Casa Blanca parecen apostar por que sus nuevas acciones militares obligarán al régimen iraní a ceder y permitir el flujo normalizado del comercio.",
-      "date": "2026-07-18"
-    },
     {
       "title": "Lealtad, telegenia y testosterona: la extravagante carrera de Hegseth al frente del Pentágono",
       "summary": "En la reunión celebrada en el salón de té de la mansión/hotel de Donald Trump de Mar-a-Lago en la que se decidió el 11 de noviembre de 2024 que Pete Hegseth sería el siguiente secretario de Defensa de Estados Unidos, el entonces presidente electo ofreció dos argumentos, para él, de peso. “Nadie ha dado mejor en cámara.",
@@ -28,6 +23,21 @@
     {
       "title": "España, país en armas: cómo se contó la Guerra Civil en los noticieros de Estados Unidos",
       "summary": "El año nuevo arranca con el estreno de Tiempos modernos, la última cinta de Chaplin que refleja la mentalidad, la vida cotidiana y la precariedad de la sociedad industrial norteamericana. La magia del cine permite olvidar, dejar atrás la crisis y proyectar una nueva verdad al mundo. Minutos antes de comenzar la películ.",
+      "date": "2026-07-18"
+    },
+    {
+      "title": "EEUU hunde un buque de guerra en el Pacífico con un misil disparado desde un bombardero invisible a los radares",
+      "summary": "Estados Unidos ha vuelto a mostrar músculo militar en el Pacífico. El Mando del Indo-Pacífico (USINDOPACOM), junto a varios países aliados, ha ejecutado un ejercicio de hundimiento real , conocido en la jerga militar como SINKEX, en el marco de las maniobras multinacionales Valiant Shield 2026 . El blanco: el viejo buq.",
+      "date": "2026-07-18"
+    },
+    {
+      "title": "Teherán denuncia al menos tres muertos y ocho heridos en nuevos ataques de EEUU",
+      "summary": "Al menos tres personas han muerto y otras ocho han resultado heridas como consecuencia de los ataques lanzados por Estados Unidos contra la provincia iraní de Hormozgan, en el sur del país , según han informado los medios estatales de Irán , en el marco la séptima noche consecutiva de ataques que no hace sino alimentar.",
+      "date": "2026-07-18"
+    },
+    {
+      "title": "EEUU se queda sin misiles para otras guerras: la continuación del conflicto con Irán está poniendo en riesgo su capacidad militar",
+      "summary": "La guerra entre Estados Unidos e Irán no termina. Teherán parece estar calculando que su presión sobre el estrecho de Ormuz obligará a Washington a ceder por completo. En la Casa Blanca parecen apostar por que sus nuevas acciones militares obligarán al régimen iraní a ceder y permitir el flujo normalizado del comercio.",
       "date": "2026-07-18"
     },
     {
@@ -54,25 +64,9 @@
       "title": "Trump amenaza a Canadá con más aranceles tras acusarles de \"negligencia\" por los incendios",
       "summary": "El presidente de Estados Unidos, Donald Trump, amenazó este viernes con aumentar los aranceles a Canadá tras acusar a las autoridades de su vecino del norte de negligencia por los incendios que asolan el país y han deteriorado la calidad del aire en ciudades estadounidenses. \"Se trata de una negligencia deliberada que.",
       "date": "2026-07-17"
-    },
-    {
-      "title": "Un emulador y una demo del ordenador de bolsillo + calculadora científica Casio FX-870P",
-      "summary": "Los ordenadores de bolsillo fueron durante años una herramienta muy popular entre estudiantes e ingenieros japoneses, aunque en Europa y Estados Unidos nunca llegaron a despegar; quizá por eso no haya tanta documentación como de otros gadgets. Ahora un proyecto de esos creados artesanalmente, por amor al arte , permite.",
-      "date": "2026-07-17"
-    },
-    {
-      "title": "Trump resucita en un discurso a la nación el bulo del fraude electoral de 2020 y exagera la influencia de China en su derrota",
-      "summary": "Donald Trump, líder de un país en guerra y con el coste de la vida en alza, se dirigió este jueves por la noche a la nación para hablar de las elecciones... de hace seis años. No fue solo un intento de ajuste de cuentas con un fracaso personal; el presidente de Estados Unidos, cuya impopularidad bate récords, habló con.",
-      "date": "2026-07-17"
     }
   ],
   "sources": [
-    {
-      "title": "EEUU se queda sin misiles para otras guerras: la continuación del conflicto con Irán está poniendo en riesgo su capacidad militar",
-      "url": "https://www.20minutos.es/internacional/eeuu-se-queda-sin-misiles-para-otras-guerras-continuacion-conflicto-con-iran-esta-poniendo-riesgo-su-capacidad-militar_7014994_0.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-18T05:46:02.000Z",
-      "sourceId": "lootura-es-20minutos"
-    },
     {
       "title": "Lealtad, telegenia y testosterona: la extravagante carrera de Hegseth al frente del Pentágono",
       "url": "https://elpais.com/internacional/2026-07-18/lealtad-telegenia-y-testosterona-la-extravagante-carrera-de-hegseth-al-frente-del-pentagono.html?utm_source=lootura.com",
@@ -86,9 +80,15 @@
       "sourceId": "lootura-es-el-pais"
     },
     {
-      "title": "Estados Unidos lanza una ola de ataques contra Irán por séptimo día consecutivo",
-      "url": "https://theobjective.com/internacional/2026-07-17/estados-unidos-iran-septimo-dia-consecutivo/?amp=&utm_source=lootura.com",
-      "publishedAt": "2026-07-17T21:48:08.000Z",
+      "title": "EEUU hunde un buque de guerra en el Pacífico con un misil disparado desde un bombardero invisible a los radares",
+      "url": "https://okdiario.com/internacional/eeuu-hunde-buque-guerra-pacifico-misil-disparado-desde-bombardero-invisible-radares-19021943?utm_source=lootura.com",
+      "publishedAt": "2026-07-18T09:05:02.000Z",
+      "sourceId": "lootura-es-ok-diario"
+    },
+    {
+      "title": "Teherán denuncia al menos tres muertos y ocho heridos en nuevos ataques de EEUU",
+      "url": "https://theobjective.com/internacional/2026-07-18/teheran-denuncia-al-menos-tres-muertos-ataques-eeuu/?utm_source=lootura.com",
+      "publishedAt": "2026-07-18T07:12:14.000Z",
       "sourceId": "lootura-es-the-objective"
     }
   ],

@@ -1,0 +1,45 @@
+{
+  "id": "es-ciudad-lineal",
+  "name": "Ciudad Lineal",
+  "type": "place",
+  "locale": "es",
+  "canonicalPath": "/es/place/ciudad-lineal",
+  "canonicalUrl": "https://atlas.lootura.com/es/place/ciudad-lineal",
+  "markdownUrl": "https://atlas.lootura.com/es/place/ciudad-lineal/index.md",
+  "jsonUrl": "https://atlas.lootura.com/es/place/ciudad-lineal/index.json",
+  "description": "Sigue la actividad de Ciudad Lineal en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
+  "updatedAt": "2026-07-18T09:22:10.056Z",
+  "aliases": [],
+  "changes": [
+    {
+      "title": "Un muerto y dos menores heridos graves tras una reyerta entre bandas en Ciudad Lineal",
+      "summary": "Los sanitarios confirmaron el fallecimiento de un joven de 23 años tras practicarle sin éxito maniobras de reanimación cardiopulmonar.",
+      "date": "2026-07-18"
+    },
+    {
+      "title": "Muere un joven de 23 años tras ser apuñalado en una pelea en Madrid",
+      "summary": "Un joven de 23 años ha muerto en la madrugada de este sábado en el distrito de Ciudad Lineal ( Madrid ) tras ser apuñalado en varias ocasiones durante una pelea, en la que también resultaron heridos dos menores, según informó Emergencias Madrid. El incidente se produjo en la calle Elfo , alrededor de las 23:30 horas. T.",
+      "date": "2026-07-18"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Ciudad Lineal first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-07-18"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Un muerto y dos menores heridos graves tras una reyerta entre bandas en Ciudad Lineal",
+      "url": "https://www.abc.es/espana/madrid/muerto-dos-menores-heridos-graves-tras-reyerta-20260718103920-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-18T08:39:20.000Z",
+      "sourceId": "lootura-es-abc"
+    },
+    {
+      "title": "Muere un joven de 23 años tras ser apuñalado en una pelea en Madrid",
+      "url": "https://www.elconfidencial.com/espana/madrid/2026-07-18/madrid-joven-punaladas-pelea-ciudad-1tps_4392158/?utm_source=lootura.com",
+      "publishedAt": "2026-07-18T08:25:00.000Z",
+      "sourceId": "lootura-es-el-confidencial"
+    }
+  ],
+  "evidenceCount": 2
+}

@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/alberto-nunez-feijoo/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/alberto-nunez-feijoo/index.json",
   "description": "Sigue la actividad de Alberto Núñez Feijóo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-18T06:02:46.495Z",
+  "updatedAt": "2026-07-18T09:22:10.056Z",
   "aliases": [
     "Feijóo",
     "Núñez Feijóo"
   ],
   "changes": [
+    {
+      "title": "Feijóo anuncia a los 50 candidatos a las alcaldías de provincia, entre ellos Gema Igual",
+      "summary": "El presidente nacional del PP, Alberto Núñez Feijóo , presentará este sábado en Santiago de Compostela a los 50 cabezas de lista para las alcaldías de capitales de provincia . Mantendrá a los 30 actuales regidores -entre ellos la alcaldesa de Santander, Gema Igual - y renovará 11 candidaturas en las 20 capitales donde.",
+      "date": "2026-07-18"
+    },
     {
       "title": "Feijóo pone a punto al PP y activa a sus candidatos para afrontar el ciclo electoral ante un posible adelanto",
       "summary": "En la batalla por llegar a la Moncloa cada voto cuenta y el presidente del Partido Popular, Alberto Núñez Feijóo , es consciente de ello. Por eso, está poniendo a punto el partido y activando a todos sus candidatos a ayuntamientos y autonomías de cara a una campaña permanente que se intensificará especialmente tras el.",
@@ -58,26 +63,15 @@
       "title": "Feijóo eleva al máximo su crítica a Sánchez tras la condena de su hermano y lo llama \"presidente autoritario\"",
       "summary": "En un foro con líderes europeos e hispanoamericanos, acusa al PSOE de \"agredir\" a la democracia \"desde las más altas instancias\" Leer.",
       "date": "2026-07-15"
-    },
-    {
-      "title": "El CIS de Tezanos remonta al PSOE y le da una ventaja de casi ocho puntos sobre el PP en el mes de la condena a Ábalos",
-      "summary": "Feijóo cae dos puntos en porcentaje de voto y Abascal también retrocede ligeramente Leer.",
-      "date": "2026-07-15"
     }
   ],
   "sources": [
     {
-      "title": "Feijóo pone a punto al PP y activa a sus candidatos para afrontar el ciclo electoral ante un posible adelanto",
-      "url": "https://www.20minutos.es/nacional/feijoo-pone-punto-pp-activa-sus-candidatos-para-afrontar-ciclo-electoral-ante-un-posible-adelanto-los-comicios_7015812_0.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-18T05:45:13.000Z",
-      "sourceId": "lootura-es-20minutos"
-    },
-    {
-      "title": "Feijóo no quiso cruzar su línea roja sobre Begoña Gómez y las hijas de Zapatero en el Senado",
-      "url": "https://www.eldebate.com/espana/20260718/feijoo-no-quiso-cruzar-linea-roja-sobre-begona-gomez-hijas-zapatero-senado_440700.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-18T02:15:00.000Z",
-      "sourceId": "lootura-es-el-debate"
+      "title": "Feijóo anuncia a los 50 candidatos a las alcaldías de provincia, entre ellos Gema Igual",
+      "url": "https://www.elconfidencial.com/espana/2026-07-18/pp-candidatos-elecciones-municipales-2027-1tps_4392175/?utm_source=lootura.com",
+      "publishedAt": "2026-07-18T09:15:00.000Z",
+      "sourceId": "lootura-es-el-confidencial"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

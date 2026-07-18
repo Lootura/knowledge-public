@@ -8,9 +8,14 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/russia/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/russia/index.json",
   "description": "Follow Russia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-18T06:03:03.575Z",
+  "updatedAt": "2026-07-18T09:22:30.189Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "Russia Bill Broadens Sanctions but Could Fuel Fears Over the Dollar",
+      "summary": "The Trump administration has recently sought to scale back sanctions as adversaries develop workarounds that some believe could erode the U.S. dollar’s supremacy.",
+      "date": "2026-07-18"
+    },
     {
       "title": "A Putin critic is convicted on charges that will keep him from campaigning for Russia's parliament",
       "summary": "The verdict underlined the determination by authorities to stamp out any remaining sign of dissent ahead of September's vote as the fuel crisis caused by Ukrainian strikes on oil facilities across Russia threatened to erode public support for the Kremlin.",
@@ -55,11 +60,6 @@
       "title": "Lindsey Graham’s Death Leaves Fate of Russia Sanctions Bill Uncertain",
       "summary": "Supporters in both parties hope the measure to penalize Russia, championed by Senator Lindsey Graham, will gain momentum in his honor.",
       "date": "2026-07-14"
-    },
-    {
-      "title": "Trump Says U.S. Will ‘Take Over’ Strait of Hormuz, and How Russia Made Japan a Den of Spies",
-      "summary": "Plus, scientists find sugar in outer space.",
-      "date": "2026-07-14"
     }
   ],
   "sources": [
@@ -68,7 +68,13 @@
       "url": "https://www.pbs.org/newshour/world/a-putin-critic-is-convicted-on-charges-that-will-keep-him-from-campaigning-for-russias-parliament?utm_source=lootura.com",
       "publishedAt": "2026-07-17T19:14:01.000Z",
       "sourceId": "lootura-us-pbs-newshour"
+    },
+    {
+      "title": "Russia Bill Broadens Sanctions but Could Fuel Fears Over the Dollar",
+      "url": "https://www.nytimes.com/2026/07/18/us/politics/russia-bill-sanctions-trump.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-18T09:01:37.000Z",
+      "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 2
 }

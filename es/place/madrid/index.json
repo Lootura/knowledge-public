@@ -8,14 +8,9 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/madrid/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/madrid/index.json",
   "description": "Sigue la actividad de Madrid en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-18T06:02:46.495Z",
+  "updatedAt": "2026-07-18T09:22:10.056Z",
   "aliases": [],
   "changes": [
-    {
-      "title": "Ya hay 2.846 madrileños preseleccionados para juzgar a Begoña Gómez: ¿Cómo se elegirá a los 9 definitivos?",
-      "summary": "Begoña Gómez será juzgada por un jurado popular después de que la Audiencia Provincial de Madrid haya ordenado continuar el procedimiento de juicio acordado en un principio por el juez Juan Carlos Peinado. Serán nueve los madrileños encargados de formar parte de ese jurado popular y serán seleccionados mediante un sort.",
-      "date": "2026-07-18"
-    },
     {
       "title": "¿De dónde viene la batalla naval de Vallecas? El origen de la popular tradición que revoluciona el barrio este fin de semana",
       "summary": "Miles de personas volverán a reunirse este domingo en una de las celebraciones más singulares de Madrid.",
@@ -32,11 +27,6 @@
       "date": "2026-07-18"
     },
     {
-      "title": "Iniesta: “Te identificas con esta selección, da mucha alegría”",
-      "summary": "Hace 16 años y una semana Andrés Iniesta (Fuentealbilla, 1984) era la viva imagen de la felicidad. Estaba sentado en el asiento D, fila 12 de un chárter que había partido de Johannesburgo con rumbo a Madrid. Llevaba puesta la camiseta de la selección española con el número 6 a la espalda. Y desgranaba, aún fresca en la.",
-      "date": "2026-07-18"
-    },
-    {
       "title": "Podcast | Entrevista a María Jesús del Barco",
       "summary": "Paloma Cervilla entrevista a la abogada María Jesús del Barco, juez decana de Madrid y presidenta de la Asociación Profesional de la Magistratura (APM).",
       "date": "2026-07-18"
@@ -47,27 +37,37 @@
       "date": "2026-07-18"
     },
     {
-      "title": "Abrazos y lágrimas: la primera alfombra roja del Zinemaldia",
-      "summary": "Con Trueba, Los Javis y Muguruza entre los 200 invitados, la presentación del Festival en Madrid sirvió también para visualizar en el foro el traspaso de Rebordinos a Beloki.",
-      "date": "2026-07-17"
+      "title": "Muere un joven de 23 años tras ser apuñalado en una pelea en Madrid",
+      "summary": "Un joven de 23 años ha muerto en la madrugada de este sábado en el distrito de Ciudad Lineal ( Madrid ) tras ser apuñalado en varias ocasiones durante una pelea, en la que también resultaron heridos dos menores, según informó Emergencias Madrid. El incidente se produjo en la calle Elfo , alrededor de las 23:30 horas. T.",
+      "date": "2026-07-18"
     },
     {
-      "title": "El pelotazo de Cerdán era un piso de un millón por el que pagó arras y que enfadó a Antxon: \"Encima ahora quieren un pisazo\"",
-      "summary": "La 'trama Koldo' intentó comprar un piso de un millón de euros para Santos Cerdán en Madrid. La UCO sostiene que el ex número 2 del PSOE y mano derecha de Pedro...",
-      "date": "2026-07-17"
+      "title": "Un muerto, un herido muy grave y otro grave tras una pelea entre bandas latinas en Madrid",
+      "summary": "Por el momento no hay detenidos. Leer.",
+      "date": "2026-07-18"
     },
     {
-      "title": "Servinabar intentó comprar para Cerdán un piso en Madrid valorado en cerca de un millón de euros, según la UCO",
-      "summary": "El informe elaborado por la Unidad Central Operativa (UCO) de la Guardia Civil sobre el patrimonio del exsecretario de Organización del PSOE Santos Cerdán revela que, entre septiembre y octubre de 2021, una de las empresas clave de la trama negoció la compra de una vivienda de lujo en Madrid para que fuera usada por el.",
-      "date": "2026-07-17"
+      "title": "Desarticulada una banda que robaba relojes a punta de pistola en Majadahonda",
+      "summary": "Las detenciones se han producido en Madrid, Pozuelo de Alarcón, Tarragona y Córdoba, y el autor material de los robos ha ingresado en prisión.",
+      "date": "2026-07-18"
+    },
+    {
+      "title": "Ryanair declara la guerra a Aena y respalda un segundo aeropuerto para Madrid",
+      "summary": "La ofensiva de Ryanair contra Aena sigue sumando peldaños. Hace escasos días la aerolínea subía la tensión al exigir una rebaja de las tarifas aeroportuarias y acusar al gestor de actuar como un monopolio. Pero parece que esto no queda ahí, la compañía de vuelos de bajo coste reclamaba una política que impulsase los ae.",
+      "date": "2026-07-18"
+    },
+    {
+      "title": "Ya hay 2.846 madrileños preseleccionados para juzgar a Begoña Gómez: ¿Cómo se elegirá a los 9 definitivos?",
+      "summary": "Begoña Gómez será juzgada por un jurado popular después de que la Audiencia Provincial de Madrid haya ordenado continuar el procedimiento de juicio acordado en un principio por el juez Juan Carlos Peinado. Serán nueve los madrileños encargados de formar parte de ese jurado popular y serán seleccionados mediante un sort.",
+      "date": "2026-07-18"
     }
   ],
   "sources": [
     {
-      "title": "Ya hay 2.846 madrileños preseleccionados para juzgar a Begoña Gómez: ¿Cómo se elegirá a los 9 definitivos?",
-      "url": "https://www.20minutos.es/nacional/ya-hay-2-846-madrilenos-preseleccionados-para-juzgar-begona-gomez-como-se-elegira-los-9-definitivos_7015915_0.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-18T05:48:53.000Z",
-      "sourceId": "lootura-es-20minutos"
+      "title": "Cortes de tráfico en Madrid, este domingo, por manifestaciones y la final del Mundial: horarios, calles y zonas afectadas",
+      "url": "https://www.elconfidencial.com/espana/madrid/2026-07-18/1qrt-cortes-trafico-madrid-hoy-domingo-manifestacion-mundial-horario-calles_4391702/?utm_source=lootura.com",
+      "publishedAt": "2026-07-18T03:00:00.000Z",
+      "sourceId": "lootura-es-el-confidencial"
     },
     {
       "title": "¿De dónde viene la batalla naval de Vallecas? El origen de la popular tradición que revoluciona el barrio este fin de semana",
@@ -82,35 +82,47 @@
       "sourceId": "lootura-es-el-confidencial"
     },
     {
+      "title": "Muere un joven de 23 años tras ser apuñalado en una pelea en Madrid",
+      "url": "https://www.elconfidencial.com/espana/madrid/2026-07-18/madrid-joven-punaladas-pelea-ciudad-1tps_4392158/?utm_source=lootura.com",
+      "publishedAt": "2026-07-18T08:25:00.000Z",
+      "sourceId": "lootura-es-el-confidencial"
+    },
+    {
       "title": "Abrazos y lágrimas: la primera alfombra roja del Zinemaldia",
       "url": "https://www.diariovasco.com/culturas/zinemaldia/abrazos-lagrimas-primera-alfombra-roja-zinemaldia-20260718000252-nt_amp.html?utm_source=lootura.com",
       "publishedAt": "2026-07-17T22:02:53.000Z",
       "sourceId": "lootura-es-el-diario-vasco"
     },
     {
+      "title": "Un muerto, un herido muy grave y otro grave tras una pelea entre bandas latinas en Madrid",
+      "url": "https://www.elmundo.es/madrid/2026/07/18/6a5b1c59e4d4d81c148b4593.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-18T06:47:01.000Z",
+      "sourceId": "lootura-es-el-mundo"
+    },
+    {
       "title": "Incendios en España, en directo hoy: última hora de los fuegos activos, evolución y situación en Aragón, Castilla-La Mancha, Madrid y Andalucía",
       "url": "https://www.larazon.es/sociedad/incendios-espana-directo-hoy-ultima-hora-fuegos-activos-evolucion-situacion-aragon-castillala-mancha-madrid-andalucia-b50m_202607186a5aa5aee9f2e84b5c6ed5ba.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-18T05:51:54.000Z",
+      "publishedAt": "2026-07-18T09:15:19.000Z",
       "sourceId": "lootura-es-la-razon"
     },
     {
-      "title": "Iniesta: “Te identificas con esta selección, da mucha alegría”",
-      "url": "https://www.lavanguardia.com/deportes/futbol/20260718/11594991/iniesta-te-identificas-seleccion-da-alegria.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-18T04:00:00.000Z",
-      "sourceId": "lootura-es-la-vanguardia"
+      "title": "Desarticulada una banda que robaba relojes a punta de pistola en Majadahonda",
+      "url": "https://www.larazon.es/madrid/desarticulada-banda-que-robaba-relojes-punta-pistola-majadahonda_202607186a5b459e0500ab412c9ca3f9.html?outputType=amp&utm_source=lootura.com",
+      "publishedAt": "2026-07-18T09:21:34.000Z",
+      "sourceId": "lootura-es-la-razon"
+    },
+    {
+      "title": "Ryanair declara la guerra a Aena y respalda un segundo aeropuerto para Madrid",
+      "url": "https://okdiario.com/economia/ryanair-declara-guerra-aena-respalda-segundo-aeropuerto-madrid-19022004?utm_source=lootura.com",
+      "publishedAt": "2026-07-18T09:13:03.000Z",
+      "sourceId": "lootura-es-ok-diario"
     },
     {
       "title": "Podcast | Entrevista a María Jesús del Barco",
       "url": "https://theobjective.com/podcasts/entrevista-politica-podcast/podcast-entrevista-a-maria-jesus-del-barco/?utm_source=lootura.com",
       "publishedAt": "2026-07-18T03:25:16.000Z",
       "sourceId": "lootura-es-the-objective"
-    },
-    {
-      "title": "‘Erietta’ y Clara",
-      "url": "https://theobjective.com/elsubjetivo/opinion/2026-07-18/erietta-clara-articulo-carlos-llop/?utm_source=lootura.com",
-      "publishedAt": "2026-07-18T03:25:00.000Z",
-      "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 8
+  "evidenceCount": 10
 }

@@ -70,4 +70,4 @@ Date: 2026-07-17
 
 ## Fuentes
 
-- [China busca encabezar un nuevo orden mundial de la Inteligencia Artificial](https://elpais.com/internacional/2026-07-17/china-busca-encabezar-un-nuevo-orden-mundial-de-la-inteligencia-artificial.html?utm_source=lootura.com) — 2026-07-17T15:32:23.000Z
+No public source links.

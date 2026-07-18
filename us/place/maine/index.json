@@ -8,9 +8,14 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/maine/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/maine/index.json",
   "description": "Follow Maine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-18T06:03:03.575Z",
+  "updatedAt": "2026-07-18T09:22:30.189Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "Without Platner, Maine Democrats Scramble to Keep Grassroots Energy Alive",
+      "summary": "Graham Platner’s campaign for Senate imploded last week. The activists who backed him are seeking a candidate to carry his populist message in the race against Republican Susan Collins.",
+      "date": "2026-07-18"
+    },
     {
       "title": "ICE officer in Maine shooting has history of violent behavior, relatives say",
       "summary": "The Immigration and Customs Enforcement officer who shot and killed a Colombian man in Maine this week is an Army veteran who has struggled with serious mental health issues since early childhood, relatives say.",
@@ -55,11 +60,6 @@
       "title": "Trump overturns pause of ICE vehicle stops implemented after deadly shootings",
       "summary": "Neither of the victims of the ICE shootings in Maine or Texas were the target of enforcement operations, according to the Department of Homeland Security.",
       "date": "2026-07-16"
-    },
-    {
-      "title": "Videos Detail Moments Surrounding Fatal ICE Shooting in Biddeford, Maine",
-      "summary": "Footage obtained by The New York Times shows ICE agents in the moments before and after the killing of Joan Sebastian Guerrero. The circumstances of the shooting remain unclear.",
-      "date": "2026-07-15"
     }
   ],
   "sources": [
@@ -68,7 +68,13 @@
       "url": "https://www.npr.org/2026/07/17/nx-s1-5897460/maine-ice-shooting-brouillette?utm_source=lootura.com",
       "publishedAt": "2026-07-17T22:36:02.000Z",
       "sourceId": "lootura-us-npr"
+    },
+    {
+      "title": "Without Platner, Maine Democrats Scramble to Keep Grassroots Energy Alive",
+      "url": "https://www.nytimes.com/2026/07/18/us/politics/platner-voters-maine-senate.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-18T09:02:12.000Z",
+      "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 0
+  "evidenceCount": 1
 }

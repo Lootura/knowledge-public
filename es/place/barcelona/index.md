@@ -3,10 +3,16 @@
 > Sigue la actividad de Barcelona en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-18T02:11:28.247Z
+- Actualizado: 2026-07-18T09:22:10.056Z
 - Canonical: https://atlas.lootura.com/es/place/barcelona
 
 ## Cambios recientes
+
+### Dos detenidos por robar joyas valoradas en más de 8.500 euros en una joyería de Barcelona
+
+Los Mossos d'Esquadra detuvieron el pasado martes a un hombre de 36 años y a una mujer de 25 como presuntos autores de un robo con fuerza en una joyería del distrito de Gràcia de Barcelona, donde sustrajeron joyas valoradas en 8.530 euros, según han informado este sábado en un comunicado. Los hechos ocurrieron el pasad.
+
+Date: 2026-07-18
 
 ### La exposición a incendios forestales durante el embarazo perjudica a los bebés
 
@@ -62,12 +68,6 @@ El encuentro no estaba previsto en la agenda del presidente catalán hasta prime
 
 Date: 2026-07-14
 
-### La Princesa Leonor reivindica a los «Inteligentes Naturales»: «Son mis 'influencers' favoritos»
-
-El Gran Teatre del Liceu de Barcelona volvió a convertirse esta tarde en el escaparate del talento joven. Científicos capaces de acercar a la humanidad a la respuesta de si existe vida fuera de la Tierra, emprendedoras que quieren acabar con los plásticos o facilitar créditos a quienes nunca lo han tenido, un líder soc.
-
-Date: 2026-07-14
-
 ## Fuentes
 
-No public source links.
+- [Dos detenidos por robar joyas valoradas en más de 8.500 euros en una joyería de Barcelona](https://www.larazon.es/cataluna/dos-detenidos-robar-joyas-valoradas-mas-8500-euros-joyeria-barcelona_202607186a5b43761db8de040995ba3f.html?utm_source=lootura.com) — 2026-07-18T09:12:22.000Z

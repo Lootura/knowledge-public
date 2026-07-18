@@ -3,10 +3,16 @@
 > Sigue la actividad de Alberto Núñez Feijóo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-18T06:02:46.495Z
+- Actualizado: 2026-07-18T09:22:10.056Z
 - Canonical: https://atlas.lootura.com/es/person/alberto-nunez-feijoo
 
 ## Cambios recientes
+
+### Feijóo anuncia a los 50 candidatos a las alcaldías de provincia, entre ellos Gema Igual
+
+El presidente nacional del PP, Alberto Núñez Feijóo , presentará este sábado en Santiago de Compostela a los 50 cabezas de lista para las alcaldías de capitales de provincia . Mantendrá a los 30 actuales regidores -entre ellos la alcaldesa de Santander, Gema Igual - y renovará 11 candidaturas en las 20 capitales donde.
+
+Date: 2026-07-18
 
 ### Feijóo pone a punto al PP y activa a sus candidatos para afrontar el ciclo electoral ante un posible adelanto
 
@@ -62,13 +68,6 @@ En un foro con líderes europeos e hispanoamericanos, acusa al PSOE de "agredir"
 
 Date: 2026-07-15
 
-### El CIS de Tezanos remonta al PSOE y le da una ventaja de casi ocho puntos sobre el PP en el mes de la condena a Ábalos
-
-Feijóo cae dos puntos en porcentaje de voto y Abascal también retrocede ligeramente Leer.
-
-Date: 2026-07-15
-
 ## Fuentes
 
-- [Feijóo pone a punto al PP y activa a sus candidatos para afrontar el ciclo electoral ante un posible adelanto](https://www.20minutos.es/nacional/feijoo-pone-punto-pp-activa-sus-candidatos-para-afrontar-ciclo-electoral-ante-un-posible-adelanto-los-comicios_7015812_0.html?utm_source=lootura.com) — 2026-07-18T05:45:13.000Z
-- [Feijóo no quiso cruzar su línea roja sobre Begoña Gómez y las hijas de Zapatero en el Senado](https://www.eldebate.com/espana/20260718/feijoo-no-quiso-cruzar-linea-roja-sobre-begona-gomez-hijas-zapatero-senado_440700.html?utm_source=lootura.com) — 2026-07-18T02:15:00.000Z
+- [Feijóo anuncia a los 50 candidatos a las alcaldías de provincia, entre ellos Gema Igual](https://www.elconfidencial.com/espana/2026-07-18/pp-candidatos-elecciones-municipales-2027-1tps_4392175/?utm_source=lootura.com) — 2026-07-18T09:15:00.000Z

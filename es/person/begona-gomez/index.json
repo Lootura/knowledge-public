@@ -8,9 +8,14 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/begona-gomez/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/begona-gomez/index.json",
   "description": "Sigue la actividad de Begoña Gómez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-18T06:02:46.495Z",
+  "updatedAt": "2026-07-18T09:22:10.056Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "Begoña Gómez de Kirchner",
+      "summary": "La señora Gómez tendrá que ser juzgada como todo quisque, con la salvedad de que ella aprovechó (presuntamente) su condición de esposa del presidente del Gobierno para hacer negocios particulares, lo que no está al alcance de cualquiera. La lógica democrática —ese unicornio feliz que trota por nuestra mente ingenua— se.",
+      "date": "2026-07-18"
+    },
     {
       "title": "Ya hay 2.846 madrileños preseleccionados para juzgar a Begoña Gómez: ¿Cómo se elegirá a los 9 definitivos?",
       "summary": "Begoña Gómez será juzgada por un jurado popular después de que la Audiencia Provincial de Madrid haya ordenado continuar el procedimiento de juicio acordado en un principio por el juez Juan Carlos Peinado. Serán nueve los madrileños encargados de formar parte de ese jurado popular y serán seleccionados mediante un sort.",
@@ -19,11 +24,6 @@
     {
       "title": "Feijóo no quiso cruzar su línea roja sobre Begoña Gómez y las hijas de Zapatero en el Senado",
       "summary": "La mujer de Sánchez ha sido enviada a juicio. Laura y Alba declararán próximamente como imputadas en el caso Plus Ultra. Ninguna ha pasado ni pasar...",
-      "date": "2026-07-18"
-    },
-    {
-      "title": "Begoña Gómez de Kirchner",
-      "summary": "La señora Gómez tendrá que ser juzgada como todo quisque, con la salvedad de que ella aprovechó (presuntamente) su condición de esposa del presidente del Gobierno para hacer negocios particulares, lo que no está al alcance de cualquiera. La lógica democrática —ese unicornio feliz que trota por nuestra mente ingenua— se.",
       "date": "2026-07-18"
     },
     {
@@ -64,23 +64,11 @@
   ],
   "sources": [
     {
-      "title": "Ya hay 2.846 madrileños preseleccionados para juzgar a Begoña Gómez: ¿Cómo se elegirá a los 9 definitivos?",
-      "url": "https://www.20minutos.es/nacional/ya-hay-2-846-madrilenos-preseleccionados-para-juzgar-begona-gomez-como-se-elegira-los-9-definitivos_7015915_0.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-18T05:48:53.000Z",
-      "sourceId": "lootura-es-20minutos"
-    },
-    {
-      "title": "Feijóo no quiso cruzar su línea roja sobre Begoña Gómez y las hijas de Zapatero en el Senado",
-      "url": "https://www.eldebate.com/espana/20260718/feijoo-no-quiso-cruzar-linea-roja-sobre-begona-gomez-hijas-zapatero-senado_440700.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-18T02:15:00.000Z",
-      "sourceId": "lootura-es-el-debate"
-    },
-    {
       "title": "Begoña Gómez de Kirchner",
       "url": "https://theobjective.com/elsubjetivo/opinion/2026-07-18/begona-gomez-articulo-jorge-vilches/?utm_source=lootura.com",
       "publishedAt": "2026-07-18T03:25:00.000Z",
       "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 1
 }

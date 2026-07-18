@@ -3,7 +3,7 @@
 > Sigue la actividad de España en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-18T06:02:46.495Z
+- Actualizado: 2026-07-18T09:22:10.056Z
 - Canonical: https://atlas.lootura.com/es/place/espana
 
 ## Cambios recientes
@@ -62,15 +62,16 @@ España afronta una nueva jornada de máxima alerta por incendios forestales des
 
 Date: 2026-07-18
 
-### Cuando apagar ya no basta: el desafío de los megaincendios
+### El método milenario que usan en Marruecos para refrescar las casas sin poner el aire acondicionado: sólo se necesita una toalla
 
-‘España se quema’, ‘El incendio arrasa miles de hectáreas’, ‘España, presa de las llamas’. Son titulares sensacionalistas, pero cada vez más cercanos a la realidad a la que se enfrenta España en los últimos años por culpa de una epidemia de larga duración: unos incendios forestales cada vez mayores en extensión y virul.
+El calor aprieta cada vez más en verano , y no es sólo una sensación. En muchas zonas de España ya se han vuelto habituales los días por encima de 40 grados, pero lo que realmente pesa es la noche ya que este año parece que estamos notando más que nunca que al irnos a dormir el aire sigue caliente, sin bajar de los 25.
 
 Date: 2026-07-18
 
 ## Fuentes
 
-- [Alemania y Holanda estrenan los primeros km de su red de hidrógeno verde; España aún prepara la ingeniería de la suya](https://www.20minutos.es/nacional/alemania-holanda-estrenan-los-primeros-kilometros-su-red-hidrogeno-verde-espana-aun-prepara-ingenieria-suya_7006135_0.html?utm_source=lootura.com) — 2026-07-18T05:47:22.000Z
+- [Un pueblo medieval amurallado junto a una cala de aguas cristalinas](https://www.abc.es/gente/refugio-melendi-mallorca-pueblo-medieval-amurallado-junto-20260718093000-nt.html?utm_source=lootura.com) — 2026-07-18T07:40:15.000Z
+- [Cuánto dinero cobra un torero en España por corrida](https://www.abc.es/cultura/toros/cuanto-dinero-cobra-torero-espana-corrida-sueldos-categoria-20260718103128-nt.html?utm_source=lootura.com) — 2026-07-18T07:04:57.000Z
 - [Opciones para hacer frente a la entrada del piso: avales públicos, alquiler con opción a compra o pago diferido](https://elpais.com/economia/negocios/2026-07-18/opciones-para-hacer-frente-a-la-entrada-del-piso-avales-publicos-alquiler-con-opcion-a-compra-o-pago-diferido.html?utm_source=lootura.com) — 2026-07-18T03:30:00.000Z
 - [Stutz (Allianz): “Enviamos 10.000 SMS para alertar a los clientes del incendio de Almería”](https://cincodias.elpais.com/companias/2026-07-18/stutz-allianz-enviamos-10000-sms-para-alertar-a-los-clientes-del-incendio-de-almeria.html?utm_source=lootura.com) — 2026-07-18T03:15:00.000Z
 - [Las hipotecas al 100% existen, pero son puntuales, más caras y para perfiles muy solventes](https://cincodias.elpais.com/mercados-financieros/2026-07-18/las-hipotecas-al-100-existen-pero-son-puntuales-mas-caras-y-para-perfiles-muy-solventes.html?utm_source=lootura.com) — 2026-07-18T03:45:01.000Z
@@ -79,4 +80,3 @@ Date: 2026-07-18
 - [Eclipse solar del 12 de agosto de 2026: horario, recorrido y dónde se verá en España](https://www.elconfidencial.com/espana/2026-07-18/eclipse-solar-del-12-de-agosto-de-2026-horario-recorrido-y-donde-se-vera-en-espana_4391626/?utm_source=lootura.com) — 2026-07-18T03:00:00.000Z
 - [Cinco jóvenes investigados por insultar y agredir a un hombre con la camiseta de España en el paseo de La Concha de San Sebastián](https://www.diariovasco.com/san-sebastian/cinco-jovenes-investigados-insultar-agredir-hombre-camiseta-espana-20260717112639-nt_amp.html?utm_source=lootura.com) — 2026-07-17T09:28:07.000Z
 - [La Argentina de los 'viejos': Scaloni lo fía todo a los héroes de Qatar](https://www.elmundo.es/deportes/futbol/mundial-de-futbol/2026/07/17/6a5a76c4e9cf4a4c068b45c7.html?utm_source=lootura.com) — 2026-07-17T20:55:20.000Z
-- [Andrés Iniesta: ''Quiero que marque otro español y pueda sentir esa sensación indescriptible de silencio que yo viví''](https://www.elmundo.es/deportes/futbol/mundial-de-futbol/2026/07/17/6a5a7dc6fc6c83936e8b45a2.html?utm_source=lootura.com) — 2026-07-17T20:56:46.000Z

@@ -8,11 +8,16 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/graham-platner/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/graham-platner/index.json",
   "description": "Follow Graham Platner, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-17T20:52:01.362Z",
+  "updatedAt": "2026-07-18T09:22:30.189Z",
   "aliases": [
     "Platner"
   ],
   "changes": [
+    {
+      "title": "Without Platner, Maine Democrats Scramble to Keep Grassroots Energy Alive",
+      "summary": "Graham Platner’s campaign for Senate imploded last week. The activists who backed him are seeking a candidate to carry his populist message in the race against Republican Susan Collins.",
+      "date": "2026-07-18"
+    },
     {
       "title": "‘Professional malpractice’: The Platner fallout engulfs the operatives who made him",
       "summary": "When Daniel Moraff showed up on Graham Platner's doorstep last summer, the oyster farmer had a message for the young political operative who had traveled to the Maine coast to convince him to run for the U.S. Senate: \"Get the fuck off my property.\" It took weeks of prodding before Platner relented, according to two peo.",
@@ -57,13 +62,15 @@
       "title": "Maine Democrats will square off in Senate debate Thursday",
       "summary": "Democrats vying to replace former Maine Senate nominee Graham Platner on the ballot are set to battle on the debate stage Thursday night. News Center Maine confirmed the debate, which will be held at 7 p.m. EDT in Portland and include three former gubernatorial hopefuls — Troy Jackson , Shenna Bellows and Nirav Shah —.",
       "date": "2026-07-14"
-    },
-    {
-      "title": "Platner's voters are reeling as Maine Democratic Party races to choose his replacement",
-      "summary": "generated enthusiasm in Maine with his progressive policies. Now he's out of the race, and his supporters have to decide what's next, as Maine Democrats prepare to choose a nominee. (Image credit: Tamara Keith/NPR).",
-      "date": "2026-07-14"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Without Platner, Maine Democrats Scramble to Keep Grassroots Energy Alive",
+      "url": "https://www.nytimes.com/2026/07/18/us/politics/platner-voters-maine-senate.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-18T09:02:12.000Z",
+      "sourceId": "lootura-us-the-new-york-times-politics"
+    }
+  ],
+  "evidenceCount": 1
 }

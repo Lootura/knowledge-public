@@ -3,7 +3,7 @@
 > Sigue la actividad de OpenAI en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: company
-- Actualizado: 2026-07-18T02:11:28.247Z
+- Actualizado: 2026-07-18T09:22:10.056Z
 - Canonical: https://atlas.lootura.com/es/company/openai
 
 ## Cambios recientes
@@ -34,4 +34,4 @@ Date: 2026-07-15
 
 ## Fuentes
 
-No public source links.
+- [¿Puede ChatGPT hacerte una dieta? Una experta responde: «La IA puede cometer fallos»](https://okdiario.com/cool/lifestyle/puede-chatgpt-hacerte-dieta-experta-responde-ia-puede-cometer-fallos-19014239?utm_source=lootura.com) — 2026-07-18T09:02:59.000Z

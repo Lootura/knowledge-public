@@ -3,7 +3,7 @@
 > Sigue la actividad de Portugal en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-18T06:02:46.495Z
+- Actualizado: 2026-07-18T09:22:10.056Z
 - Canonical: https://atlas.lootura.com/es/place/portugal
 
 ## Cambios recientes
@@ -70,4 +70,4 @@ Date: 2026-07-09
 
 ## Fuentes
 
-- [Alemania y Holanda estrenan los primeros km de su red de hidrógeno verde; España aún prepara la ingeniería de la suya](https://www.20minutos.es/nacional/alemania-holanda-estrenan-los-primeros-kilometros-su-red-hidrogeno-verde-espana-aun-prepara-ingenieria-suya_7006135_0.html?utm_source=lootura.com) — 2026-07-18T05:47:22.000Z
+- [Francia estudia una conexión eléctrica con Marruecos tras el apagón provocado por España](https://www.larazon.es/economia/francia-estudia-conexion-electrica-marruecos-apagon-provocado-espana_202607186a5b454f0500ab412c9ca36b.html?outputType=amp&utm_source=lootura.com) — 2026-07-18T09:20:15.000Z

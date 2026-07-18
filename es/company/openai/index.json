@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/company/openai/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/company/openai/index.json",
   "description": "Sigue la actividad de OpenAI en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-18T02:11:28.247Z",
+  "updatedAt": "2026-07-18T09:22:10.056Z",
   "aliases": [
     "ChatGPT maker"
   ],
@@ -34,6 +34,13 @@
       "date": "2026-07-15"
     }
   ],
-  "sources": [],
+  "sources": [
+    {
+      "title": "¿Puede ChatGPT hacerte una dieta? Una experta responde: «La IA puede cometer fallos»",
+      "url": "https://okdiario.com/cool/lifestyle/puede-chatgpt-hacerte-dieta-experta-responde-ia-puede-cometer-fallos-19014239?utm_source=lootura.com",
+      "publishedAt": "2026-07-18T09:02:59.000Z",
+      "sourceId": "lootura-es-ok-diario"
+    }
+  ],
   "evidenceCount": 0
 }

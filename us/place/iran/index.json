@@ -8,9 +8,14 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/iran/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/iran/index.json",
   "description": "Follow Iran, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-18T06:03:03.575Z",
+  "updatedAt": "2026-07-18T09:22:30.189Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "U.S. and Iran escalate strikes across Mideast",
+      "summary": "The United States and Iran exchanged strikes aimed at infrastructure and military targets on Saturday as their battle over the Strait of Hormuz intensified. (Image credit: Razieh Poudat/AP Photo).",
+      "date": "2026-07-18"
+    },
     {
       "title": "What a Times Reporter Saw in Iran, and Takeaways from Trump’s Speech on Election Security",
       "summary": "Plus, the Friday news quiz.",
@@ -55,11 +60,6 @@
       "title": "Karoline Leavitt answers questions on Trump's primetime speech, new Iran strikes",
       "summary": "White House press secretary Karoline Leavitt spoke to reporters Thursday about President Trump's upcoming primetime speech, the latest strikes against Iran and more.",
       "date": "2026-07-16"
-    },
-    {
-      "title": "On the War Against Iran, the Pentagon Has Said Little",
-      "summary": "Defense Secretary Pete Hegseth has spoken about a range of issues in recent days — from testosterone to leak investigations — but he has said little about the war.",
-      "date": "2026-07-16"
     }
   ],
   "sources": [
@@ -68,6 +68,12 @@
       "url": "https://www.nbcnews.com/nightly-news/video/gas-prices-rise-as-u-s-and-iran-escalate-attacks-266868293836?utm_source=lootura.com",
       "publishedAt": "2026-07-17T23:03:28.000Z",
       "sourceId": "lootura-us-nbc-news"
+    },
+    {
+      "title": "U.S. and Iran escalate strikes across Mideast",
+      "url": "https://www.npr.org/2026/07/18/nx-s1-5898916/us-iran-escalate-strikes?utm_source=lootura.com",
+      "publishedAt": "2026-07-18T06:01:20.000Z",
+      "sourceId": "lootura-us-npr-world"
     },
     {
       "title": "As U.S. strikes bridges in Iran, it targets a water desalination plant in Kuwait",
@@ -94,5 +100,5 @@
       "sourceId": "lootura-us-the-new-york-times"
     }
   ],
-  "evidenceCount": 4
+  "evidenceCount": 5
 }

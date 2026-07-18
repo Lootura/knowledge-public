@@ -3,7 +3,7 @@
 > Follow United States, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-18T06:03:03.575Z
+- Updated: 2026-07-18T09:22:30.189Z
 - Canonical: https://atlas.lootura.com/us/place/united-states
 
 ## Recent changes
@@ -38,35 +38,35 @@ The president said on Friday in a social media post that Canada was failing to m
 
 Date: 2026-07-18
 
+### U.S. and Iran escalate strikes across Mideast
+
+The United States and Iran exchanged strikes aimed at infrastructure and military targets on Saturday as their battle over the Strait of Hormuz intensified. (Image credit: Razieh Poudat/AP Photo).
+
+Date: 2026-07-18
+
+### Far above the Earth, NASA's Apollo lunar lander put astronauts on the moon
+
+America's most daring, extraordinary feat—landing astronauts on the moon—remains the pinnacle of achievement by anyone anywhere. Ever.
+
+Date: 2026-07-18
+
+### Russia Bill Broadens Sanctions but Could Fuel Fears Over the Dollar
+
+The Trump administration has recently sought to scale back sanctions as adversaries develop workarounds that some believe could erode the U.S. dollar’s supremacy.
+
+Date: 2026-07-18
+
 ### As Trump Scraps With Meloni, His Envoy to Italy Is at Sea
 
 Tilman J. Fertitta, the U.S. ambassador to Rome, is summering on his superyacht as President Trump squabbles with Prime Minister Giorgia Meloni of Italy.
 
 Date: 2026-07-18
 
-### A bug commonly sold at pet stores is helping scientists with a vexing task
+### As Trump Scraps With Meloni, His Envoy to Italy Is at Sea
 
-Zophobas morio , are often used as animal feed. But researchers have discovered they also like to feed on animal corpses and can be used to clean specimens.'/> The larvae of a beetle native to South and Central America, the critters are the perfect solution to sticky problem: How to prepare an animal skeleton for scien.
+Tilman J. Fertitta, the U.S. ambassador to Rome, is summering on his superyacht as President Trump squabbles with Prime Minister Giorgia Meloni of Italy.
 
-Date: 2026-07-17
-
-### Wildfire smoke is like smoking 'half a pack a day.' Here's how to protect yourself
-
-As Canadian wildfires spread smoke across the U.S. the air pollution is dangerous to health. But there are ways to protect yourself. Here's what to know . (Image credit: Scott Olson).
-
-Date: 2026-07-17
-
-### America’s Enterprising Spirit Is Booming After Decades-Long Slump
-
-Hundreds of thousands of people are creating companies each year, ending a decades-long drought.
-
-Date: 2026-07-17
-
-### Strong earthquake hits Mexico-Guatemala border, tsunami alert lifted
-
-The U.S. Geological Survey reported that the earthquake had a magnitude of 7.3 with the epicenter 30 miles southwest of Aquiles Serdan, Mexico.
-
-Date: 2026-07-17
+Date: 2026-07-18
 
 ## Sources
 
@@ -78,5 +78,5 @@ Date: 2026-07-17
 - [Maps: Wildfire smoke forecast for the Midwest and northern U.S.](https://www.nbcnews.com/data-graphics/canada-wildfire-smoke-map-2026-us-states-air-quality-health-risks-rcna588051?utm_source=lootura.com) — 2026-07-17T22:21:56.000Z
 - [100 million Americans facing dangerous wildfire smoke](https://www.nbcnews.com/nightly-news/video/100-million-americans-facing-dangerous-wildfire-smoke-266866245835?utm_source=lootura.com) — 2026-07-17T23:07:08.000Z
 - [Taylor Farms and Taco Bell removes iceberg lettuce amid parasite outbreak](https://www.nbcnews.com/nightly-news/video/taylor-farms-and-taco-bell-removes-iceberg-lettuce-amid-parasite-outbreak-266866245951?utm_source=lootura.com) — 2026-07-17T23:21:23.000Z
-- [Trump calls for new election security measures](https://www.nbcnews.com/nightly-news/video/trump-calls-for-new-election-security-measures-266865733992?utm_source=lootura.com) — 2026-07-17T22:53:58.000Z
 - [Trump fumes over Canadian wildfire smoke and issues tariff threat](https://www.nbcnews.com/politics/donald-trump/trump-fumes-canadian-wildfire-smoke-issues-tariff-threat-rcna588122?utm_source=lootura.com) — 2026-07-18T01:18:17.000Z
+- [A bug commonly sold at pet stores is helping scientists with a vexing task](https://www.npr.org/2026/07/17/nx-s1-5896494/superworms-clean-animal-specimens-skeleton-research?utm_source=lootura.com) — 2026-07-17T11:00:00.000Z

@@ -3,7 +3,7 @@
 > Follow Markwayne Mullin, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-07-18T06:03:03.575Z
+- Updated: 2026-07-18T09:22:30.189Z
 - Canonical: https://atlas.lootura.com/us/person/markwayne-mullin
 
 ## Recent changes

@@ -3,7 +3,7 @@
 > Sigue la actividad de Artificial intelligence en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: topic
-- Actualizado: 2026-07-18T06:02:46.495Z
+- Actualizado: 2026-07-18T09:22:10.056Z
 - Canonical: https://atlas.lootura.com/es/topic/artificial-intelligence
 
 ## Cambios recientes
@@ -40,4 +40,4 @@ Date: 2026-07-10
 
 ## Fuentes
 
-- [China busca encabezar un nuevo orden mundial de la Inteligencia Artificial](https://elpais.com/internacional/2026-07-17/china-busca-encabezar-un-nuevo-orden-mundial-de-la-inteligencia-artificial.html?utm_source=lootura.com) — 2026-07-17T15:32:23.000Z
+- [Volver a los hechos de la Guerra Civil española](https://elpais.com/opinion/2026-07-18/volver-a-los-hechos-de-la-guerra-civil-espanola.html?utm_source=lootura.com) — 2026-07-18T03:30:01.000Z

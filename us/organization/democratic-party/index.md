@@ -3,7 +3,7 @@
 > Follow Democratic Party, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-07-18T06:03:03.575Z
+- Updated: 2026-07-18T09:22:30.189Z
 - Canonical: https://atlas.lootura.com/us/organization/democratic-party
 
 ## Recent changes
@@ -17,6 +17,12 @@ Date: 2026-07-18
 ### AIPAC Closes Donor Portal to Democrats Who Voted to End Aid to Israel
 
 The pro-Israel lobbying group appeared to be punishing Democrats it had endorsed for re-election after they voted in favor of an amendment that would have cut off U.S. aid to Israel.
+
+Date: 2026-07-18
+
+### Without Platner, Maine Democrats Scramble to Keep Grassroots Energy Alive
+
+Graham Platner’s campaign for Senate imploded last week. The activists who backed him are seeking a candidate to carry his populist message in the race against Republican Susan Collins.
 
 Date: 2026-07-18
 
@@ -62,15 +68,10 @@ Plus, why Gen Z is turning to trade schools.
 
 Date: 2026-07-16
 
-### Democratic Senate Candidates Trounce Republicans in Fund-Raising
-
-In the first half of this year, Democrats raised more cash in every key Senate race except Iowa.
-
-Date: 2026-07-16
-
 ## Sources
 
-- [US politicians push agencies to restrict research collaboration with China](https://www.nature.com/articles/d41586-026-02226-9?utm_source=lootura.com) — 2026-07-18T06:03:06.935Z
+- [US politicians push agencies to restrict research collaboration with China](https://www.nature.com/articles/d41586-026-02226-9?utm_source=lootura.com) — 2026-07-18T09:22:33.855Z
 - [As competitive Senate map emerges, both Democrats and Republicans see a path to win](https://www.npr.org/2026/07/17/nx-s1-5875199/as-competitive-senate-map-emerges-both-democrats-and-republicans-see-a-path-to-win?utm_source=lootura.com) — 2026-07-17T20:43:38.000Z
 - [News Wrap: Smoke from wildfires leads to unsafe air quality in U.S.](https://www.pbs.org/newshour/show/news-wrap-smoke-from-wildfires-leads-to-unsafe-air-quality-in-u-s?utm_source=lootura.com) — 2026-07-17T22:45:45.000Z
+- [Without Platner, Maine Democrats Scramble to Keep Grassroots Energy Alive](https://www.nytimes.com/2026/07/18/us/politics/platner-voters-maine-senate.html?utm_source=lootura.com) — 2026-07-18T09:02:12.000Z
 - [AIPAC Closes Donor Portal to Democrats Who Voted to End Aid to Israel](https://www.nytimes.com/2026/07/17/us/politics/aipac-donor-portal-democrats.html?utm_source=lootura.com) — 2026-07-18T03:33:57.000Z

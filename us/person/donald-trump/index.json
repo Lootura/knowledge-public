@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/donald-trump/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/donald-trump/index.json",
   "description": "Follow Donald Trump, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-18T06:03:03.575Z",
+  "updatedAt": "2026-07-18T09:22:30.189Z",
   "aliases": [
     "President Donald Trump",
     "President Trump",
@@ -23,6 +23,21 @@
     {
       "title": "What to know about Trump's claim that over 250K non-citizens are registered to vote",
       "summary": "Homeland Security Secretary Markwayne Mullin sent letters to four states alleging that a combined 250,000 non-citizens were registered to vote. Elections experts caution that could be a significant overcount.",
+      "date": "2026-07-18"
+    },
+    {
+      "title": "Funding milestone detected",
+      "summary": "Defence minister seeks three ‘Naha’ outposts in Gaza as top commander says Israel now controls 65% of the strip, violating Trump ceasefire deal Israel’s defence and finance ministers announced plans for three illegal settlements in Gaza and more than $400m (£300m) in funding to expand construction in the occupied West.",
+      "date": "2026-07-18"
+    },
+    {
+      "title": "Russia Bill Broadens Sanctions but Could Fuel Fears Over the Dollar",
+      "summary": "The Trump administration has recently sought to scale back sanctions as adversaries develop workarounds that some believe could erode the U.S. dollar’s supremacy.",
+      "date": "2026-07-18"
+    },
+    {
+      "title": "As Trump Scraps With Meloni, His Envoy to Italy Is at Sea",
+      "summary": "Tilman J. Fertitta, the U.S. ambassador to Rome, is summering on his superyacht as President Trump squabbles with Prime Minister Giorgia Meloni of Italy.",
       "date": "2026-07-18"
     },
     {
@@ -49,21 +64,6 @@
       "title": "What a Times Reporter Saw in Iran, and Takeaways from Trump’s Speech on Election Security",
       "summary": "Plus, the Friday news quiz.",
       "date": "2026-07-17"
-    },
-    {
-      "title": "Trump’s Obsession With Relitigating the 2020 Election Carries a Cost for Democracy",
-      "summary": "In demanding steps to address the integrity of voting, President Trump persisted in relitigating his 2020 election defeat while finding ways to cast doubt on the 2026 outcome.",
-      "date": "2026-07-17"
-    },
-    {
-      "title": "Trump encourages Darline Graham to run for Lindsey Graham's seat",
-      "summary": "Darline Graham indicated in a White House meeting Thursday that she's weighing a bid, CBS News confirmed. A day later, President Trump wrote on Truth Social: \"RUN, DARLINE, RUN! \".",
-      "date": "2026-07-17"
-    },
-    {
-      "title": "China calls Trump's election interference claims \"pure fabrication\"",
-      "summary": "A spokesman for the Chinese Ministry of Foreign Affairs denied President Trump's claims of election interference in the 2020 election. CBS News foreign correspondent Anna Coren reports.",
-      "date": "2026-07-17"
     }
   ],
   "sources": [
@@ -84,12 +84,6 @@
       "url": "https://www.cbsnews.com/video/china-calls-trump-election-interference-claims-pure-fabrication/?utm_source=lootura.com",
       "publishedAt": "2026-07-17T17:56:44.000Z",
       "sourceId": "lootura-us-cbs-news"
-    },
-    {
-      "title": "Trump calls for new election security measures",
-      "url": "https://www.nbcnews.com/nightly-news/video/trump-calls-for-new-election-security-measures-266865733992?utm_source=lootura.com",
-      "publishedAt": "2026-07-17T22:53:58.000Z",
-      "sourceId": "lootura-us-nbc-news-politics"
     },
     {
       "title": "Trump fumes over Canadian wildfire smoke and issues tariff threat",
@@ -126,7 +120,13 @@
       "url": "https://www.pbs.org/newshour/politics/trump-says-these-documents-prove-his-false-claims-of-election-fraud-heres-what-they-really-say?utm_source=lootura.com",
       "publishedAt": "2026-07-17T23:08:36.000Z",
       "sourceId": "lootura-us-pbs-newshour"
+    },
+    {
+      "title": "Brooks and Capehart on what Trump is trying to accomplish with his election claims",
+      "url": "https://www.pbs.org/newshour/show/brooks-and-capehart-on-what-trump-is-trying-to-accomplish-with-his-election-claims?utm_source=lootura.com",
+      "publishedAt": "2026-07-17T22:40:33.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
     }
   ],
-  "evidenceCount": 21
+  "evidenceCount": 22
 }

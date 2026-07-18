@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/lamine-yamal/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/lamine-yamal/index.json",
   "description": "Sigue la actividad de Lamine Yamal en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-18T06:02:46.495Z",
+  "updatedAt": "2026-07-18T09:22:10.056Z",
   "aliases": [],
   "changes": [
     {
@@ -64,10 +64,10 @@
   ],
   "sources": [
     {
-      "title": "La entrevista definitiva con el autor de la foto que unió a Messi y Lamine hace 20 años",
-      "url": "https://www.lavanguardia.com/deportes/20260718/11594888/entrevista-definitiva-autor-fotografia-milagro-unio-messi-lamine-20-anos.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-18T04:00:00.000Z",
-      "sourceId": "lootura-es-la-vanguardia"
+      "title": "Messi reacciona a su foto con Lamine Yamal cuando era bebé: \"Es una locura\"",
+      "url": "https://www.20minutos.es/deportes/futbol/messi-reacciona-su-foto-con-lamine-yamal-cuando-era-bebe-es-una-locura_7016147_0.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-18T08:16:20.000Z",
+      "sourceId": "lootura-es-20minutos"
     }
   ],
   "evidenceCount": 1

@@ -3,10 +3,16 @@
 > Follow Maine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-18T06:03:03.575Z
+- Updated: 2026-07-18T09:22:30.189Z
 - Canonical: https://atlas.lootura.com/us/place/maine
 
 ## Recent changes
+
+### Without Platner, Maine Democrats Scramble to Keep Grassroots Energy Alive
+
+Graham Platner’s campaign for Senate imploded last week. The activists who backed him are seeking a candidate to carry his populist message in the race against Republican Susan Collins.
+
+Date: 2026-07-18
 
 ### ICE officer in Maine shooting has history of violent behavior, relatives say
 
@@ -62,12 +68,7 @@ Neither of the victims of the ICE shootings in Maine or Texas were the target of
 
 Date: 2026-07-16
 
-### Videos Detail Moments Surrounding Fatal ICE Shooting in Biddeford, Maine
-
-Footage obtained by The New York Times shows ICE agents in the moments before and after the killing of Joan Sebastian Guerrero. The circumstances of the shooting remain unclear.
-
-Date: 2026-07-15
-
 ## Sources
 
 - [Ex-wife says ICE agent who killed man in Maine had racist beliefs, violent tendencies](https://www.npr.org/2026/07/17/nx-s1-5897460/maine-ice-shooting-brouillette?utm_source=lootura.com) — 2026-07-17T22:36:02.000Z
+- [Without Platner, Maine Democrats Scramble to Keep Grassroots Energy Alive](https://www.nytimes.com/2026/07/18/us/politics/platner-voters-maine-senate.html?utm_source=lootura.com) — 2026-07-18T09:02:12.000Z

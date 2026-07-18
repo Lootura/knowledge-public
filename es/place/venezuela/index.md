@@ -70,4 +70,4 @@ Date: 2026-07-14
 
 ## Fuentes
 
-- [Los muertos por el doble terremoto en Venezuela superan los 5.000](https://www.larazon.es/internacional/muertos-doble-terremoto-venezuela-superan-5000_202607186a5b08631db8de0409956fb8.html?utm_source=lootura.com) — 2026-07-18T05:00:19.000Z
+No public source links.

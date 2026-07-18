@@ -8,9 +8,14 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/barcelona/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/barcelona/index.json",
   "description": "Sigue la actividad de Barcelona en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-18T02:11:28.247Z",
+  "updatedAt": "2026-07-18T09:22:10.056Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "Dos detenidos por robar joyas valoradas en más de 8.500 euros en una joyería de Barcelona",
+      "summary": "Los Mossos d'Esquadra detuvieron el pasado martes a un hombre de 36 años y a una mujer de 25 como presuntos autores de un robo con fuerza en una joyería del distrito de Gràcia de Barcelona, donde sustrajeron joyas valoradas en 8.530 euros, según han informado este sábado en un comunicado. Los hechos ocurrieron el pasad.",
+      "date": "2026-07-18"
+    },
     {
       "title": "La exposición a incendios forestales durante el embarazo perjudica a los bebés",
       "summary": "Una nueva investigación llevada a cabo por el Centro de Estudios Demográficos (CED) de la Universitat Autònoma de Barcelona revela que la exposición a incendios forestales durante el embarazo tiene efectos negativos sobre la salud de los bebés . El estudio, publicado en la revista Perspectives Demogràfiques , identific.",
@@ -55,13 +60,15 @@
       "title": "Salvador Illa improvisa una reunión con la cónsul de Francia en Barcelona para agitar la polémica sobre las declaraciones de Mariano Rajoy",
       "summary": "El encuentro no estaba previsto en la agenda del presidente catalán hasta primera hora de esta mañana Leer.",
       "date": "2026-07-14"
-    },
-    {
-      "title": "La Princesa Leonor reivindica a los «Inteligentes Naturales»: «Son mis 'influencers' favoritos»",
-      "summary": "El Gran Teatre del Liceu de Barcelona volvió a convertirse esta tarde en el escaparate del talento joven. Científicos capaces de acercar a la humanidad a la respuesta de si existe vida fuera de la Tierra, emprendedoras que quieren acabar con los plásticos o facilitar créditos a quienes nunca lo han tenido, un líder soc.",
-      "date": "2026-07-14"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Dos detenidos por robar joyas valoradas en más de 8.500 euros en una joyería de Barcelona",
+      "url": "https://www.larazon.es/cataluna/dos-detenidos-robar-joyas-valoradas-mas-8500-euros-joyeria-barcelona_202607186a5b43761db8de040995ba3f.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-18T09:12:22.000Z",
+      "sourceId": "lootura-es-la-razon"
+    }
+  ],
+  "evidenceCount": 1
 }

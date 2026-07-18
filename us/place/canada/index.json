@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/canada/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/canada/index.json",
   "description": "Follow Canada, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-18T06:03:03.575Z",
+  "updatedAt": "2026-07-18T09:22:30.189Z",
   "aliases": [],
   "changes": [
     {
@@ -47,11 +47,6 @@
       "date": "2026-07-17"
     },
     {
-      "title": "What to Know About Canada Wildfire Smoke and Air Quality in U.S. Cities",
-      "summary": "A thick plume of smoke swept across the Midwest and New England, and those conditions could linger on Friday.",
-      "date": "2026-07-17"
-    },
-    {
       "title": "100 million Americans across 14 states impacted by heavy smoke from Canadian wildfires",
       "summary": "Smoke from wildfires in Canada is creating dangerous air quality conditions for approximately 100 million Americans in more than a dozen states. Rob Marciano has the latest.",
       "date": "2026-07-17"
@@ -60,6 +55,11 @@
       "title": "Trump Threatens Canada With Tariffs for Wildfire Smoke Over U.S.",
       "summary": "The president said on Friday in a social media post that Canada was failing to manage its wildfire response as smoke has blanketed U.S. cities including New York and Chicago.",
       "date": "2026-07-17"
+    },
+    {
+      "title": "Dangerous wildfire smoke continues to blanket parts of the U.S.",
+      "summary": "Orange skies and heavy smoke covered large parts of the U.S. on Thursday as Canada and Minnesota grapple with wildfires. Hazardous air quality is expected to continue. (Image credit: Spencer Platt).",
+      "date": "2026-07-16"
     }
   ],
   "sources": [
@@ -90,9 +90,9 @@
     {
       "title": "Trump Threatens Canada With Tariffs for Wildfire Smoke Over U.S.",
       "url": "https://www.nytimes.com/2026/07/17/weather/trump-canada-tariffs-wildfire-smoke.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-18T03:06:42.000Z",
+      "publishedAt": "2026-07-18T03:06:43.000Z",
       "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 5
+  "evidenceCount": 6
 }

@@ -8,9 +8,14 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/iran/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/iran/index.json",
   "description": "Sigue la actividad de Iran en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-18T06:02:46.495Z",
+  "updatedAt": "2026-07-18T09:22:10.056Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "Teherán denuncia al menos tres muertos y ocho heridos en nuevos ataques de EEUU",
+      "summary": "Al menos tres personas han muerto y otras ocho han resultado heridas como consecuencia de los ataques lanzados por Estados Unidos contra la provincia iraní de Hormozgan, en el sur del país , según han informado los medios estatales de Irán , en el marco la séptima noche consecutiva de ataques que no hace sino alimentar.",
+      "date": "2026-07-18"
+    },
     {
       "title": "EEUU se queda sin misiles para otras guerras: la continuación del conflicto con Irán está poniendo en riesgo su capacidad militar",
       "summary": "La guerra entre Estados Unidos e Irán no termina. Teherán parece estar calculando que su presión sobre el estrecho de Ormuz obligará a Washington a ceder por completo. En la Casa Blanca parecen apostar por que sus nuevas acciones militares obligarán al régimen iraní a ceder y permitir el flujo normalizado del comercio.",
@@ -55,26 +60,15 @@
       "title": "El Ibex pierde los 19.200 puntos atento a resultados y tecnológicas",
       "summary": "Los mercados siguen encontrando obstáculos que atenazan sus subidas. La nueva espiral de ataques de EEUU sobre Irán y la subida de tipos en Corea mantienen en guardia a los inversores. El Ibex, con movimientos estrechos durante toda la semana, vuelve a consolidar niveles en el día del estreno en Bolsa de Digi.",
       "date": "2026-07-16"
-    },
-    {
-      "title": "Las Bolsas europeas se estabilizan con el foco en los resultados y el petróleo",
-      "summary": "Los datos de inflación en EE UU más suaves de lo esperado han disipado las preocupaciones en torno a que la Reserva Federal (Fed) suba los tipos de interés a corto plazo, aunque la cautela en torno a Irán y las fuertes pérdidas en los valores de semiconductores mantienen la prudencia en los mercados. EE UU e Irán conti.",
-      "date": "2026-07-16"
     }
   ],
   "sources": [
     {
-      "title": "EEUU se queda sin misiles para otras guerras: la continuación del conflicto con Irán está poniendo en riesgo su capacidad militar",
-      "url": "https://www.20minutos.es/internacional/eeuu-se-queda-sin-misiles-para-otras-guerras-continuacion-conflicto-con-iran-esta-poniendo-riesgo-su-capacidad-militar_7014994_0.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-18T05:46:02.000Z",
-      "sourceId": "lootura-es-20minutos"
-    },
-    {
-      "title": "Estados Unidos lanza una ola de ataques contra Irán por séptimo día consecutivo",
-      "url": "https://theobjective.com/internacional/2026-07-17/estados-unidos-iran-septimo-dia-consecutivo/?amp=&utm_source=lootura.com",
-      "publishedAt": "2026-07-17T21:48:08.000Z",
+      "title": "Teherán denuncia al menos tres muertos y ocho heridos en nuevos ataques de EEUU",
+      "url": "https://theobjective.com/internacional/2026-07-18/teheran-denuncia-al-menos-tres-muertos-ataques-eeuu/?utm_source=lootura.com",
+      "publishedAt": "2026-07-18T07:12:14.000Z",
       "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

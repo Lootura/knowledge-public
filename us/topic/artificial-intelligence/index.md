@@ -3,7 +3,7 @@
 > Follow Artificial intelligence, a tracked topic, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: topic
-- Updated: 2026-07-18T06:03:03.575Z
+- Updated: 2026-07-18T09:22:30.189Z
 - Canonical: https://atlas.lootura.com/us/topic/artificial-intelligence
 
 ## Recent changes
@@ -17,6 +17,12 @@ Date: 2026-07-18
 ### A global capital for AI safety is emerging — and it’s not in Silicon Valley
 
 Nature, Published online: 16 July 2026; doi:10.1038/d41586-026-01389-9 The United Kingdom is gaining influence through its growing AI-safety ecosystem.
+
+Date: 2026-07-18
+
+### Prompt Injection Attacks Are Thwarting AI Hacking Agents
+
+“Context bombing” tricks malicious AI agents into shutting down before they can do harm.
 
 Date: 2026-07-18
 
@@ -62,14 +68,9 @@ Thousands of the world's languages remain largely invisible to modern translatio
 
 Date: 2026-07-17
 
-### Meta says it's creating new safety features to help protect teens. Here's how
-
-Meta announced it is introducing new features to help protect teens using Instagram, Facebook and WhatsApp, including alerting a parent if their child discusses self-harm with one of its AI chatbots. Kelly O'Grady explains.
-
-Date: 2026-07-16
-
 ## Sources
 
 - [Can you spot an AI image? Quiz shows how difficult identifying deepfakes has become.](https://www.cbsnews.com/news/ai-quiz-spotting-fake-images-verification-tool-veriff/?utm_source=lootura.com) — 2026-07-18T01:06:55.000Z
-- [AI is set to completely transform cybersecurity — here’s how researchers must prepare](https://www.nature.com/articles/d41586-026-02214-z?utm_source=lootura.com) — 2026-07-18T06:03:06.935Z
-- [A global capital for AI safety is emerging — and it’s not in Silicon Valley](https://www.nature.com/articles/d41586-026-01389-9?utm_source=lootura.com) — 2026-07-18T06:03:06.935Z
+- [AI is set to completely transform cybersecurity — here’s how researchers must prepare](https://www.nature.com/articles/d41586-026-02214-z?utm_source=lootura.com) — 2026-07-18T09:22:33.855Z
+- [A global capital for AI safety is emerging — and it’s not in Silicon Valley](https://www.nature.com/articles/d41586-026-01389-9?utm_source=lootura.com) — 2026-07-18T09:22:33.855Z
+- [Prompt Injection Attacks Are Thwarting AI Hacking Agents](https://www.wired.com/story/prompt-injection-attacks-are-thwarting-ai-hacking-agents/?utm_source=lootura.com) — 2026-07-18T09:00:00.000Z

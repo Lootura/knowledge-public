@@ -3,10 +3,16 @@
 > Follow Graham Platner, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-07-17T20:52:01.362Z
+- Updated: 2026-07-18T09:22:30.189Z
 - Canonical: https://atlas.lootura.com/us/person/graham-platner
 
 ## Recent changes
+
+### Without Platner, Maine Democrats Scramble to Keep Grassroots Energy Alive
+
+Graham Platner’s campaign for Senate imploded last week. The activists who backed him are seeking a candidate to carry his populist message in the race against Republican Susan Collins.
+
+Date: 2026-07-18
 
 ### ‘Professional malpractice’: The Platner fallout engulfs the operatives who made him
 
@@ -62,12 +68,6 @@ Democrats vying to replace former Maine Senate nominee Graham Platner on the bal
 
 Date: 2026-07-14
 
-### Platner's voters are reeling as Maine Democratic Party races to choose his replacement
-
-generated enthusiasm in Maine with his progressive policies. Now he's out of the race, and his supporters have to decide what's next, as Maine Democrats prepare to choose a nominee. (Image credit: Tamara Keith/NPR).
-
-Date: 2026-07-14
-
 ## Sources
 
-No public source links.
+- [Without Platner, Maine Democrats Scramble to Keep Grassroots Energy Alive](https://www.nytimes.com/2026/07/18/us/politics/platner-voters-maine-senate.html?utm_source=lootura.com) — 2026-07-18T09:02:12.000Z

@@ -3,7 +3,7 @@
 > Sigue la actividad de Lamine Yamal en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-18T06:02:46.495Z
+- Actualizado: 2026-07-18T09:22:10.056Z
 - Canonical: https://atlas.lootura.com/es/person/lamine-yamal
 
 ## Cambios recientes
@@ -70,4 +70,4 @@ Date: 2026-07-08
 
 ## Fuentes
 
-- [La entrevista definitiva con el autor de la foto que unió a Messi y Lamine hace 20 años](https://www.lavanguardia.com/deportes/20260718/11594888/entrevista-definitiva-autor-fotografia-milagro-unio-messi-lamine-20-anos.html?utm_source=lootura.com) — 2026-07-18T04:00:00.000Z
+- [Messi reacciona a su foto con Lamine Yamal cuando era bebé: "Es una locura"](https://www.20minutos.es/deportes/futbol/messi-reacciona-su-foto-con-lamine-yamal-cuando-era-bebe-es-una-locura_7016147_0.html?utm_source=lootura.com) — 2026-07-18T08:16:20.000Z

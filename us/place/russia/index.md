@@ -3,10 +3,16 @@
 > Follow Russia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-18T06:03:03.575Z
+- Updated: 2026-07-18T09:22:30.189Z
 - Canonical: https://atlas.lootura.com/us/place/russia
 
 ## Recent changes
+
+### Russia Bill Broadens Sanctions but Could Fuel Fears Over the Dollar
+
+The Trump administration has recently sought to scale back sanctions as adversaries develop workarounds that some believe could erode the U.S. dollar’s supremacy.
+
+Date: 2026-07-18
 
 ### A Putin critic is convicted on charges that will keep him from campaigning for Russia's parliament
 
@@ -62,12 +68,7 @@ Supporters in both parties hope the measure to penalize Russia, championed by Se
 
 Date: 2026-07-14
 
-### Trump Says U.S. Will ‘Take Over’ Strait of Hormuz, and How Russia Made Japan a Den of Spies
-
-Plus, scientists find sugar in outer space.
-
-Date: 2026-07-14
-
 ## Sources
 
 - [A Putin critic is convicted on charges that will keep him from campaigning for Russia's parliament](https://www.pbs.org/newshour/world/a-putin-critic-is-convicted-on-charges-that-will-keep-him-from-campaigning-for-russias-parliament?utm_source=lootura.com) — 2026-07-17T19:14:01.000Z
+- [Russia Bill Broadens Sanctions but Could Fuel Fears Over the Dollar](https://www.nytimes.com/2026/07/18/us/politics/russia-bill-sanctions-trump.html?utm_source=lootura.com) — 2026-07-18T09:01:37.000Z

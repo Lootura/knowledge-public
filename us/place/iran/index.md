@@ -3,10 +3,16 @@
 > Follow Iran, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-18T06:03:03.575Z
+- Updated: 2026-07-18T09:22:30.189Z
 - Canonical: https://atlas.lootura.com/us/place/iran
 
 ## Recent changes
+
+### U.S. and Iran escalate strikes across Mideast
+
+The United States and Iran exchanged strikes aimed at infrastructure and military targets on Saturday as their battle over the Strait of Hormuz intensified. (Image credit: Razieh Poudat/AP Photo).
+
+Date: 2026-07-18
 
 ### What a Times Reporter Saw in Iran, and Takeaways from Trump’s Speech on Election Security
 
@@ -62,15 +68,10 @@ White House press secretary Karoline Leavitt spoke to reporters Thursday about P
 
 Date: 2026-07-16
 
-### On the War Against Iran, the Pentagon Has Said Little
-
-Defense Secretary Pete Hegseth has spoken about a range of issues in recent days — from testosterone to leak investigations — but he has said little about the war.
-
-Date: 2026-07-16
-
 ## Sources
 
 - [Gas prices rise as U.S. and Iran escalate attacks](https://www.nbcnews.com/nightly-news/video/gas-prices-rise-as-u-s-and-iran-escalate-attacks-266868293836?utm_source=lootura.com) — 2026-07-17T23:03:28.000Z
+- [U.S. and Iran escalate strikes across Mideast](https://www.npr.org/2026/07/18/nx-s1-5898916/us-iran-escalate-strikes?utm_source=lootura.com) — 2026-07-18T06:01:20.000Z
 - [As U.S. strikes bridges in Iran, it targets a water desalination plant in Kuwait](https://www.pbs.org/newshour/world/as-u-s-strikes-bridges-in-iran-it-targets-a-water-desalination-plant-in-kuwait?utm_source=lootura.com) — 2026-07-17T19:41:09.000Z
 - [What a Times Reporter Saw in Iran, and Takeaways from Trump’s Speech on Election Security](https://www.nytimes.com/2026/07/17/podcasts/the-headlines/iran-trump-speech-election-security.html?utm_source=lootura.com) — 2026-07-17T11:24:48.000Z
 - [Oil Prices Rise to Highest Level in a Month as Shipping in the Persian Gulf Nears a Halt](https://www.nytimes.com/2026/07/17/business/strait-hormuz-iran-oil-prices.html?utm_source=lootura.com) — 2026-07-17T19:28:52.000Z

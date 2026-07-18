@@ -3,10 +3,16 @@
 > Sigue la actividad de Partido Socialista Obrero Español en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-18T06:02:46.495Z
+- Actualizado: 2026-07-18T09:22:10.056Z
 - Canonical: https://atlas.lootura.com/es/organization/psoe
 
 ## Cambios recientes
+
+### El PSOE andaluz confirma a Montero, Espadas y Díaz como sus candidatos a senador
+
+El PSOE andaluz ha propuesto a los ya senadores por designación del Parlamento andaluz Juan Espadas y Susana Díaz para revalidar dichos escaños en la.
+
+Date: 2026-07-18
 
 ### La UCO constata que Cerdán casi no retiró dinero desde 2019: lo achaca a una fuente de efectivo "no originada en cuentas bancarias"
 
@@ -20,12 +26,6 @@ Los investigadores elevan a 323.000 euros los beneficios ilícitos para él y su
 
 Date: 2026-07-17
 
-### La UCO cifra en más de 300.000 euros los beneficios que Cerdán y su familia obtuvieron de la trama entre 2015 y 2024
-
-Las investigaciones de la Unidad Central Operativa (UCO) de la Guardia Civil vuelven a poner el foco en el exsecretario de Organización del PSOE Santos Cerdán. El instituto armado ha entregado al juez de la Audiencia Nacional Ismael Moreno, que investiga la red corrupta que presuntamente anidó en el Ministerio de Trans.
-
-Date: 2026-07-17
-
 ### Cerdán disparó su gasto en cash mientras Ábalos adjudicaba contratos
 
 El último informe de la Unidad Central Operativa (UCO) de la Guardia Civil complica la estrategia de defensa del ex secretario de Organización del PSOE Santos Cerdán al...
@@ -35,6 +35,12 @@ Date: 2026-07-17
 ### Junts descarta reconciliarse con Sánchez tras la amnistía: "Esto no allana volver con el PSOE. Que cumpla con los catalanes o se vaya"
 
 "Esta sentencia no llega gracias al PSOE, sino por nuestra persistencia", alega la dirección de los independentistas para plantar a los socialistas Leer.
+
+Date: 2026-07-17
+
+### La UCO cifra en más de 300.000 euros los beneficios que Cerdán y su familia obtuvieron de la trama entre 2015 y 2024
+
+Las investigaciones de la Unidad Central Operativa (UCO) de la Guardia Civil vuelven a poner el foco en el exsecretario de Organización del PSOE Santos Cerdán. El instituto armado ha entregado al juez de la Audiencia Nacional Ismael Moreno, que investiga la red corrupta que presuntamente anidó en el Ministerio de Trans.
 
 Date: 2026-07-17
 
@@ -62,16 +68,9 @@ El informe elaborado por la Unidad Central Operativa (UCO) de la Guardia Civil s
 
 Date: 2026-07-17
 
-### La UCO dice que los ingresos de Cerdán se dispararon en la «etapa ministerial» de Ábalos y tras su ascenso en el PSOE
-
-La Unidad Central Operativa (UCO) de la Guardia Civil ha revelado que el que fuera mano derecha de Pedro Sánchez Santos Cerdán vio como sus ingresos se dispararon coincidiendo con la «etapa ministerial» del que fuera responsable de Transportes José Luis Ábalos y tras sustituir al mismo como secretario de Organización d.
-
-Date: 2026-07-17
-
 ## Fuentes
 
-- [La UCO constata que Cerdán casi no retiró dinero desde 2019: lo achaca a una fuente de efectivo "no originada en cuentas bancarias"](https://www.20minutos.es/nacional/uco-constata-que-cerdan-apenas-retiro-dinero-desde-2019-achaca-una-fuente-efectivo-no-originada-cuentas-bancarias_7015991_0.html?utm_source=lootura.com) — 2026-07-18T05:38:06.000Z
 - [La UCO desvela que Cerdán intentó comprar un piso de casi un millón con las mordidas a Servinabar](https://www.elcorreo.com/politica/uco-desvela-cerdan-intento-comprar-piso-millon-20260715141134-ntrc_amp.html?utm_source=lootura.com) — 2026-07-17T12:11:34.000Z
 - [Cerdán disparó su gasto en cash mientras Ábalos adjudicaba contratos](https://amp.elmundo.es/espana/2026/07/17/6a5a777621efa0247d8b4592.html?utm_source=lootura.com) — 2026-07-17T20:50:06.000Z
 - [Junts descarta reconciliarse con Sánchez tras la amnistía: "Esto no allana volver con el PSOE. Que cumpla con los catalanes o se vaya"](https://www.elmundo.es/cataluna/2026/07/18/6a5a6254e85eceee518b45a6.html?utm_source=lootura.com) — 2026-07-17T23:17:24.000Z
-- [La UCO cifra en más de 300.000 euros los beneficios que Cerdán y su familia obtuvieron de la trama entre 2015 y 2024](https://elpais.com/espana/2026-07-17/la-uco-cifra-en-mas-de-300000-euros-los-beneficios-obtenidos-por-cerdan-y-su-familia-de-la-trama.html?utm_source=lootura.com) — 2026-07-17T16:07:31.000Z
+- [El PSOE andaluz confirma a Montero, Espadas y Díaz como sus candidatos a senador](https://theobjective.com/espana/politica/2026-07-18/psoe-andaluz-confirma-montero-espadas-diaz-senador/?amp=&utm_source=lootura.com) — 2026-07-18T08:09:34.000Z

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/topic/artificial-intelligence/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/topic/artificial-intelligence/index.json",
   "description": "Follow Artificial intelligence, a tracked topic, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-18T06:03:03.575Z",
+  "updatedAt": "2026-07-18T09:22:30.189Z",
   "aliases": [
     "AI",
     "machine learning"
@@ -22,6 +22,11 @@
     {
       "title": "A global capital for AI safety is emerging — and it’s not in Silicon Valley",
       "summary": "Nature, Published online: 16 July 2026; doi:10.1038/d41586-026-01389-9 The United Kingdom is gaining influence through its growing AI-safety ecosystem.",
+      "date": "2026-07-18"
+    },
+    {
+      "title": "Prompt Injection Attacks Are Thwarting AI Hacking Agents",
+      "summary": "“Context bombing” tricks malicious AI agents into shutting down before they can do harm.",
       "date": "2026-07-18"
     },
     {
@@ -58,11 +63,6 @@
       "title": "PathSay Project uses AI to cross language barriers",
       "summary": "Thousands of the world's languages remain largely invisible to modern translation technology, but researchers and students at Brigham Young University are working to change that. Through a project called Pathsay, students in the BYU MATRIX lab are partnering with international BYU-Pathway Worldwide students to collect.",
       "date": "2026-07-17"
-    },
-    {
-      "title": "Meta says it's creating new safety features to help protect teens. Here's how",
-      "summary": "Meta announced it is introducing new features to help protect teens using Instagram, Facebook and WhatsApp, including alerting a parent if their child discusses self-harm with one of its AI chatbots. Kelly O'Grady explains.",
-      "date": "2026-07-16"
     }
   ],
   "sources": [
@@ -75,15 +75,21 @@
     {
       "title": "AI is set to completely transform cybersecurity — here’s how researchers must prepare",
       "url": "https://www.nature.com/articles/d41586-026-02214-z?utm_source=lootura.com",
-      "publishedAt": "2026-07-18T06:03:06.935Z",
+      "publishedAt": "2026-07-18T09:22:33.855Z",
       "sourceId": "lootura-us-nature"
     },
     {
       "title": "A global capital for AI safety is emerging — and it’s not in Silicon Valley",
       "url": "https://www.nature.com/articles/d41586-026-01389-9?utm_source=lootura.com",
-      "publishedAt": "2026-07-18T06:03:06.935Z",
+      "publishedAt": "2026-07-18T09:22:33.855Z",
       "sourceId": "lootura-us-nature"
+    },
+    {
+      "title": "Prompt Injection Attacks Are Thwarting AI Hacking Agents",
+      "url": "https://www.wired.com/story/prompt-injection-attacks-are-thwarting-ai-hacking-agents/?utm_source=lootura.com",
+      "publishedAt": "2026-07-18T09:00:00.000Z",
+      "sourceId": "lootura-us-wired"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 3
 }

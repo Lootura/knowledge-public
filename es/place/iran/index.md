@@ -3,10 +3,16 @@
 > Sigue la actividad de Iran en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-18T06:02:46.495Z
+- Actualizado: 2026-07-18T09:22:10.056Z
 - Canonical: https://atlas.lootura.com/es/place/iran
 
 ## Cambios recientes
+
+### Teherán denuncia al menos tres muertos y ocho heridos en nuevos ataques de EEUU
+
+Al menos tres personas han muerto y otras ocho han resultado heridas como consecuencia de los ataques lanzados por Estados Unidos contra la provincia iraní de Hormozgan, en el sur del país , según han informado los medios estatales de Irán , en el marco la séptima noche consecutiva de ataques que no hace sino alimentar.
+
+Date: 2026-07-18
 
 ### EEUU se queda sin misiles para otras guerras: la continuación del conflicto con Irán está poniendo en riesgo su capacidad militar
 
@@ -62,13 +68,6 @@ Los mercados siguen encontrando obstáculos que atenazan sus subidas. La nueva e
 
 Date: 2026-07-16
 
-### Las Bolsas europeas se estabilizan con el foco en los resultados y el petróleo
-
-Los datos de inflación en EE UU más suaves de lo esperado han disipado las preocupaciones en torno a que la Reserva Federal (Fed) suba los tipos de interés a corto plazo, aunque la cautela en torno a Irán y las fuertes pérdidas en los valores de semiconductores mantienen la prudencia en los mercados. EE UU e Irán conti.
-
-Date: 2026-07-16
-
 ## Fuentes
 
-- [EEUU se queda sin misiles para otras guerras: la continuación del conflicto con Irán está poniendo en riesgo su capacidad militar](https://www.20minutos.es/internacional/eeuu-se-queda-sin-misiles-para-otras-guerras-continuacion-conflicto-con-iran-esta-poniendo-riesgo-su-capacidad-militar_7014994_0.html?utm_source=lootura.com) — 2026-07-18T05:46:02.000Z
-- [Estados Unidos lanza una ola de ataques contra Irán por séptimo día consecutivo](https://theobjective.com/internacional/2026-07-17/estados-unidos-iran-septimo-dia-consecutivo/?amp=&utm_source=lootura.com) — 2026-07-17T21:48:08.000Z
+- [Teherán denuncia al menos tres muertos y ocho heridos en nuevos ataques de EEUU](https://theobjective.com/internacional/2026-07-18/teheran-denuncia-al-menos-tres-muertos-ataques-eeuu/?utm_source=lootura.com) — 2026-07-18T07:12:14.000Z

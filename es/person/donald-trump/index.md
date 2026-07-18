@@ -3,7 +3,7 @@
 > Sigue la actividad de Donald Trump en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-18T06:02:46.495Z
+- Actualizado: 2026-07-18T09:22:10.056Z
 - Canonical: https://atlas.lootura.com/es/person/donald-trump
 
 ## Cambios recientes
@@ -72,4 +72,3 @@ Date: 2026-07-17
 
 - [El Puerto de Bilbao registra entre febrero y junio su mayor actividad desde hace 18 años](https://www.elcorreo.com/economia/puerto-bilbao-registra-febrero-junio-mayor-actividad-20260717132549-nt_amp.html?utm_source=lootura.com) — 2026-07-17T11:36:22.000Z
 - [Lealtad, telegenia y testosterona: la extravagante carrera de Hegseth al frente del Pentágono](https://elpais.com/internacional/2026-07-18/lealtad-telegenia-y-testosterona-la-extravagante-carrera-de-hegseth-al-frente-del-pentagono.html?utm_source=lootura.com) — 2026-07-18T03:30:01.000Z
-- [Estados Unidos lanza una ola de ataques contra Irán por séptimo día consecutivo](https://theobjective.com/internacional/2026-07-17/estados-unidos-iran-septimo-dia-consecutivo/?amp=&utm_source=lootura.com) — 2026-07-17T21:48:08.000Z
