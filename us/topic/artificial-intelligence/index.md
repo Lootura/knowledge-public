@@ -3,10 +3,22 @@
 > Follow Artificial intelligence, a tracked topic, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: topic
-- Updated: 2026-07-17T20:52:01.362Z
+- Updated: 2026-07-18T02:11:50.603Z
 - Canonical: https://atlas.lootura.com/us/topic/artificial-intelligence
 
 ## Recent changes
+
+### Developer ecosystem expanded
+
+Nature, Published online: 16 July 2026; doi:10.1038/d41586-026-02214-z As automated tools accelerate both the discovery and the exploitation of software vulnerabilities, organizations must redesign their defences and workflows to keep pace.
+
+Date: 2026-07-18
+
+### A global capital for AI safety is emerging — and it’s not in Silicon Valley
+
+Nature, Published online: 16 July 2026; doi:10.1038/d41586-026-01389-9 The United Kingdom is gaining influence through its growing AI-safety ecosystem.
+
+Date: 2026-07-18
 
 ### Developer ecosystem expanded
 
@@ -56,19 +68,8 @@ Meta announced it is introducing new features to help protect teens using Instag
 
 Date: 2026-07-16
 
-### Developer ecosystem expanded
-
-Nature, Published online: 16 July 2026; doi:10.1038/d41586-026-02214-z As automated tools accelerate both the discovery and the exploitation of software vulnerabilities, organizations must redesign their defences and workflows to keep pace.
-
-Date: 2026-07-16
-
-### A global capital for AI safety is emerging — and it's not in Silicon Valley
-
-Nature, Published online: 16 July 2026; doi:10.1038/d41586-026-01389-9 The United Kingdom is gaining influence through its growing AI-safety ecosystem.
-
-Date: 2026-07-16
-
 ## Sources
 
-- [AI is set to completely transform cybersecurity — here’s how researchers must prepare](https://www.nature.com/articles/d41586-026-02214-z?utm_source=lootura.com) — 2026-07-17T20:52:05.085Z
-- [A global capital for AI safety is emerging — and it’s not in Silicon Valley](https://www.nature.com/articles/d41586-026-01389-9?utm_source=lootura.com) — 2026-07-17T20:52:05.085Z
+- [Can you spot an AI image? Quiz shows how difficult identifying deepfakes has become.](https://www.cbsnews.com/news/ai-quiz-spotting-fake-images-verification-tool-veriff/?utm_source=lootura.com) — 2026-07-18T01:06:55.000Z
+- [AI is set to completely transform cybersecurity — here’s how researchers must prepare](https://www.nature.com/articles/d41586-026-02214-z?utm_source=lootura.com) — 2026-07-18T02:11:54.055Z
+- [A global capital for AI safety is emerging — and it’s not in Silicon Valley](https://www.nature.com/articles/d41586-026-01389-9?utm_source=lootura.com) — 2026-07-18T02:11:54.056Z

@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/malaga/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/malaga/index.json",
   "description": "Sigue la actividad de Málaga en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-17T09:54:46.288Z",
+  "updatedAt": "2026-07-18T02:11:28.247Z",
   "aliases": [],
   "changes": [
     {
       "title": "Discovered by Atlas",
       "summary": "Málaga first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-07-17"
+    },
+    {
+      "title": "José María Almoguera aclara la polémica por la venta de la casa de María Teresa Campos: «Hemos confiado en alguien que la ha liado»",
+      "summary": "José María Almoguera vuelve a situarse en el centro de la actualidad, aunque esta vez no es por su vida sentimental. El hijo de Carmen Borrego ha sido señalado tras la inesperada aparición de la casa que María Teresa Campos tenía en Málaga en un conocido portal inmobiliario. El inmueble, adquirido por la periodista en.",
       "date": "2026-07-17"
     },
     {
@@ -37,6 +42,13 @@
       "date": "2026-07-17"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "José María Almoguera aclara la polémica por la venta de la casa de María Teresa Campos: «Hemos confiado en alguien que la ha liado»",
+      "url": "https://okdiario.com/cool/television/jose-maria-almoguera-aclara-polemica-venta-casa-maria-teresa-campos-hemos-confiado-alguien-que-liado-19021138?utm_source=lootura.com",
+      "publishedAt": "2026-07-17T23:14:01.000Z",
+      "sourceId": "lootura-es-ok-diario"
+    }
+  ],
+  "evidenceCount": 1
 }

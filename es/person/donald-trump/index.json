@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/donald-trump/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/donald-trump/index.json",
   "description": "Sigue la actividad de Donald Trump en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-17T20:51:38.016Z",
+  "updatedAt": "2026-07-18T02:11:28.247Z",
   "aliases": [
     "President Donald Trump",
     "President Trump",
@@ -18,6 +18,11 @@
     {
       "title": "El Puerto de Bilbao registra entre febrero y junio su mayor actividad desde hace 18 años",
       "summary": "Advierten de un incremento de las importaciones que recuerda a la acumulación de stock que produjeron los aranceles de Trump el año pasado y al que siguió una caída de tráficos.",
+      "date": "2026-07-17"
+    },
+    {
+      "title": "Estados Unidos lanza una ola de ataques contra Irán por séptimo día consecutivo",
+      "summary": "Trump anunció la semana pasada la cancelación del memorando de entendimiento que había firmado el 18 de junio.",
       "date": "2026-07-17"
     },
     {
@@ -59,14 +64,15 @@
       "title": "Trump desclasifica informes de la CIA que «prueban que el sistema electoral ha sido manipulado» y acusa a China",
       "summary": "El presidente estadounidense, Donald Trump, ha anunciado esta madrugada que ha desclasificado informes de la CIA que «prueban que el sistema electoral de EEUU es vulnerable ». «Hay niveles de hackeo y de interferencia extranjera nunca vistos», ha llegado a asegurar, y ha acusado sobre todo a China de las «graves injere.",
       "date": "2026-07-17"
-    },
-    {
-      "title": "Trump despide a su operador de teleprompter, acusado de apostar ilegalmente en Kalshi sobre sus discursos",
-      "summary": "El presidente de Estados Unidos, Donald Trump, tiene un problema con sus discursos. Su técnico de teleprompter, la pantalla de visualización transparente sobre la que se proyectan textos, Gabriel Pérez, ha sido acusado de apostar ilegalmente en la plataforma de predicción Kalshi , la rival de Polymarket, sobre el conte.",
-      "date": "2026-07-16"
     }
   ],
   "sources": [
+    {
+      "title": "Deniegan el ESTA a Joan Capdevila para asistir a la final del Mundial: \"¡Necesito ayuda, Trump!\"",
+      "url": "https://www.20minutos.es/deportes/deniegan-esta-capdevila-campeon-mundo-espana-2010-asistir-final-mundial-necesito-ayuda-trump_7016134_0.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-17T21:30:59.000Z",
+      "sourceId": "lootura-es-20minutos"
+    },
     {
       "title": "El Puerto de Bilbao registra entre febrero y junio su mayor actividad desde hace 18 años",
       "url": "https://www.elcorreo.com/economia/puerto-bilbao-registra-febrero-junio-mayor-actividad-20260717132549-nt_amp.html?utm_source=lootura.com",
@@ -74,17 +80,11 @@
       "sourceId": "lootura-es-el-correo"
     },
     {
-      "title": "Trump amenaza a Canadá con más aranceles tras acusarles de \"negligencia\" por los incendios",
-      "url": "https://www.larazon.es/internacional/trump-amenaza-canada-mas-aranceles-acusarles-negligencia-incendios_202607176a5a90740500ab412c9bb86a.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-17T20:28:36.000Z",
-      "sourceId": "lootura-es-la-razon"
-    },
-    {
-      "title": "China exige a Trump que aparque el «invento» de la presunta injerencia electoral en 2020",
-      "url": "https://theobjective.com/internacional/2026-07-17/china-trump-invento-injerencia-electoral/?utm_source=lootura.com",
-      "publishedAt": "2026-07-17T16:30:35.000Z",
+      "title": "Estados Unidos lanza una ola de ataques contra Irán por séptimo día consecutivo",
+      "url": "https://theobjective.com/internacional/2026-07-17/estados-unidos-iran-septimo-dia-consecutivo/?amp=&utm_source=lootura.com",
+      "publishedAt": "2026-07-17T21:48:08.000Z",
       "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 2
 }

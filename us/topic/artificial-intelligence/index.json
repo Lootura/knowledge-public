@@ -8,12 +8,22 @@
   "markdownUrl": "https://atlas.lootura.com/us/topic/artificial-intelligence/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/topic/artificial-intelligence/index.json",
   "description": "Follow Artificial intelligence, a tracked topic, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-17T20:52:01.362Z",
+  "updatedAt": "2026-07-18T02:11:50.603Z",
   "aliases": [
     "AI",
     "machine learning"
   ],
   "changes": [
+    {
+      "title": "Developer ecosystem expanded",
+      "summary": "Nature, Published online: 16 July 2026; doi:10.1038/d41586-026-02214-z As automated tools accelerate both the discovery and the exploitation of software vulnerabilities, organizations must redesign their defences and workflows to keep pace.",
+      "date": "2026-07-18"
+    },
+    {
+      "title": "A global capital for AI safety is emerging — and it’s not in Silicon Valley",
+      "summary": "Nature, Published online: 16 July 2026; doi:10.1038/d41586-026-01389-9 The United Kingdom is gaining influence through its growing AI-safety ecosystem.",
+      "date": "2026-07-18"
+    },
     {
       "title": "Developer ecosystem expanded",
       "summary": "Nature, Published online: 16 July 2026; doi:10.1038/d41586-026-02214-z As automated tools accelerate both the discovery and the exploitation of software vulnerabilities, organizations must redesign their defences and workflows to keep pace.",
@@ -53,29 +63,25 @@
       "title": "Meta says it's creating new safety features to help protect teens. Here's how",
       "summary": "Meta announced it is introducing new features to help protect teens using Instagram, Facebook and WhatsApp, including alerting a parent if their child discusses self-harm with one of its AI chatbots. Kelly O'Grady explains.",
       "date": "2026-07-16"
-    },
-    {
-      "title": "Developer ecosystem expanded",
-      "summary": "Nature, Published online: 16 July 2026; doi:10.1038/d41586-026-02214-z As automated tools accelerate both the discovery and the exploitation of software vulnerabilities, organizations must redesign their defences and workflows to keep pace.",
-      "date": "2026-07-16"
-    },
-    {
-      "title": "A global capital for AI safety is emerging — and it's not in Silicon Valley",
-      "summary": "Nature, Published online: 16 July 2026; doi:10.1038/d41586-026-01389-9 The United Kingdom is gaining influence through its growing AI-safety ecosystem.",
-      "date": "2026-07-16"
     }
   ],
   "sources": [
     {
+      "title": "Can you spot an AI image? Quiz shows how difficult identifying deepfakes has become.",
+      "url": "https://www.cbsnews.com/news/ai-quiz-spotting-fake-images-verification-tool-veriff/?utm_source=lootura.com",
+      "publishedAt": "2026-07-18T01:06:55.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
+    {
       "title": "AI is set to completely transform cybersecurity — here’s how researchers must prepare",
       "url": "https://www.nature.com/articles/d41586-026-02214-z?utm_source=lootura.com",
-      "publishedAt": "2026-07-17T20:52:05.085Z",
+      "publishedAt": "2026-07-18T02:11:54.055Z",
       "sourceId": "lootura-us-nature"
     },
     {
       "title": "A global capital for AI safety is emerging — and it’s not in Silicon Valley",
       "url": "https://www.nature.com/articles/d41586-026-01389-9?utm_source=lootura.com",
-      "publishedAt": "2026-07-17T20:52:05.085Z",
+      "publishedAt": "2026-07-18T02:11:54.056Z",
       "sourceId": "lootura-us-nature"
     }
   ],

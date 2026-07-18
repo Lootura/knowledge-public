@@ -8,9 +8,34 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/canada/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/canada/index.json",
   "description": "Follow Canada, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-17T20:52:01.362Z",
+  "updatedAt": "2026-07-18T02:11:50.603Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "Trump threatens Canada with higher tariffs over wildfire smoke",
+      "summary": "President Trump threatened more tariffs on Canada for wildfires that have blanketed large parts of the Midwest and East Coast in smoke in recent days.",
+      "date": "2026-07-18"
+    },
+    {
+      "title": "Maps show wildfire smoke forecast, air quality alerts in swath of U.S.",
+      "summary": "Heavy smoke from several large wildfires blazing in Canada and Minnesota is engulfing large swaths of the Midwest and the U.S. East Coast this week.",
+      "date": "2026-07-18"
+    },
+    {
+      "title": "Trump fumes over Canadian wildfire smoke and issues tariff threat",
+      "summary": "President Donald Trump on Friday pledged to hold Canada responsible for costs associated with unhealthy air quality in the U.S. due to spreading smoke from the Canadian wildfires.",
+      "date": "2026-07-18"
+    },
+    {
+      "title": "Is smoke in your home? Here's how to make an air purifier using a box fan",
+      "summary": "Smoke from wildfires in Canada and Minnesota is sending air quality indexes to record levels, posing a hazard for millions of people. Here are tips for how to breathe easier in your home. (Image credit: Finn Gomez).",
+      "date": "2026-07-17"
+    },
+    {
+      "title": "100 million Americans facing dangerous wildfire smoke",
+      "summary": "That dangerous wildfire smoke from Canada is now on the move and smothering new U.S. cities. NBC News’ Tom Costello has the latest.",
+      "date": "2026-07-17"
+    },
     {
       "title": "Maps show wildfire smoke forecast, air quality alerts in swath of U.S.",
       "summary": "Heavy smoke from several large wildfires blazing in Canada and Minnesota is engulfing large swaths of the Midwest and the U.S. East Coast this week.",
@@ -27,11 +52,6 @@
       "date": "2026-07-17"
     },
     {
-      "title": "Is smoke in your home? Here's how to make an air purifier using a box fan",
-      "summary": "Smoke from wildfires in Canada and Minnesota is sending air quality indexes to record levels, posing a hazard for millions of people. Here are tips for how to breathe easier in your home. (Image credit: Finn Gomez).",
-      "date": "2026-07-17"
-    },
-    {
       "title": "Trump Threatens Canada With Tariffs for Wildfire Smoke Over U.S.",
       "summary": "The president said on Friday in a social media post that Canada was failing to manage its wildfire response as smoke has blanketed U.S. cities including New York and Chicago.",
       "date": "2026-07-17"
@@ -40,58 +60,38 @@
       "title": "Maps show wildfire smoke forecast, air quality alerts due to pollution from Canadian, Minnesota fires",
       "summary": "Heavy smoke from several large wildfires blazing in Canada and Minnesota is engulfing large swaths of the Midwest and Northeast U.S. this week.",
       "date": "2026-07-17"
-    },
-    {
-      "title": "Dangerous wildfire smoke continues to blanket parts of the U.S.",
-      "summary": "Orange skies and heavy smoke covered large parts of the U.S. on Thursday as Canada and Minnesota grapple with wildfires. Hazardous air quality is expected to continue. (Image credit: Spencer Platt).",
-      "date": "2026-07-16"
-    },
-    {
-      "title": "Canada’s Wildfires Are Burning Through the Night",
-      "summary": "As overnight temperatures climb across Canada, fires that once spread more slowly after dark are burning around the clock, straining fire crews.",
-      "date": "2026-07-16"
-    },
-    {
-      "title": "Climate extremes fuel explosive wildfires in Canada and the U.S., experts say",
-      "summary": "One climatologist said \"a perfect storm\" of climate extremes primed the western U.S. for one of its worst fire seasons in a decade. Meanwhile, Canadian wildfire smoke fills the air.",
-      "date": "2026-07-16"
-    },
-    {
-      "title": "Wildfires expose millions in Midwest, Northeast to dangerous smoke",
-      "summary": "Heavy smoke from several large wildfires blazing in Canada and Minnesota is engulfing large swaths of the Midwest and Northeast U.S. this week.",
-      "date": "2026-07-16"
     }
   ],
   "sources": [
     {
-      "title": "100 million Americans across 14 states impacted by heavy smoke from Canadian wildfires",
-      "url": "https://www.cbsnews.com/video/100-million-americans-impacted-heavy-smoke-canadian-wildfires/?utm_source=lootura.com",
-      "publishedAt": "2026-07-17T13:01:14.000Z",
+      "title": "Trump threatens Canada with higher tariffs over wildfire smoke",
+      "url": "https://www.cbsnews.com/news/trump-tariffs-canada-wildfire-smoke/?utm_source=lootura.com",
+      "publishedAt": "2026-07-18T01:02:08.000Z",
       "sourceId": "lootura-us-cbs-news"
     },
     {
       "title": "Maps show wildfire smoke forecast, air quality alerts in swath of U.S.",
       "url": "https://www.cbsnews.com/news/wildfires-smoke-millions-exposed-midwest-northeast-us/?utm_source=lootura.com",
-      "publishedAt": "2026-07-17T20:27:00.000Z",
+      "publishedAt": "2026-07-18T01:10:01.000Z",
       "sourceId": "lootura-us-cbs-news"
+    },
+    {
+      "title": "100 million Americans facing dangerous wildfire smoke",
+      "url": "https://www.nbcnews.com/nightly-news/video/100-million-americans-facing-dangerous-wildfire-smoke-266866245835?utm_source=lootura.com",
+      "publishedAt": "2026-07-17T23:07:08.000Z",
+      "sourceId": "lootura-us-nbc-news"
+    },
+    {
+      "title": "Trump fumes over Canadian wildfire smoke and issues tariff threat",
+      "url": "https://www.nbcnews.com/politics/donald-trump/trump-fumes-canadian-wildfire-smoke-issues-tariff-threat-rcna588122?utm_source=lootura.com",
+      "publishedAt": "2026-07-18T01:18:17.000Z",
+      "sourceId": "lootura-us-nbc-news-politics"
     },
     {
       "title": "Is smoke in your home? Here's how to make an air purifier using a box fan",
       "url": "https://www.npr.org/2026/07/17/g-s1-134179/is-smoke-in-your-home-heres-how-to-make-an-air-purifier-using-a-box-fan?utm_source=lootura.com",
       "publishedAt": "2026-07-17T15:07:09.000Z",
       "sourceId": "lootura-us-npr"
-    },
-    {
-      "title": "What to Know About Canada Wildfire Smoke and Air Quality in U.S. Cities",
-      "url": "https://www.nytimes.com/2026/07/16/weather/what-to-know-canada-wildfires-smoke.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-17T01:02:04.000Z",
-      "sourceId": "lootura-us-the-new-york-times"
-    },
-    {
-      "title": "Trump Threatens Canada With Tariffs for Wildfire Smoke Over U.S.",
-      "url": "https://www.nytimes.com/2026/07/17/weather/wildfire-smoke-canada-us-politics.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-17T20:42:58.000Z",
-      "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
   "evidenceCount": 5

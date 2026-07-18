@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/donald-trump/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/donald-trump/index.json",
   "description": "Follow Donald Trump, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-17T20:52:01.362Z",
+  "updatedAt": "2026-07-18T02:11:50.603Z",
   "aliases": [
     "President Donald Trump",
     "President Trump",
@@ -16,18 +16,23 @@
   ],
   "changes": [
     {
-      "title": "White House teleprompter operator allegedly made over $100K betting on Trump's speeches",
-      "summary": "The prediction market Kalshi alleges President Trump's longtime teleprompter operator engaged in trading, betting on the words the president would use in speeches. Jo Ling Kent reports.",
-      "date": "2026-07-17"
+      "title": "Trump threatens Canada with higher tariffs over wildfire smoke",
+      "summary": "President Trump threatened more tariffs on Canada for wildfires that have blanketed large parts of the Midwest and East Coast in smoke in recent days.",
+      "date": "2026-07-18"
+    },
+    {
+      "title": "What to know about the Trump administration's claim that 250K non-citizens are registered to vote in 4 states",
+      "summary": "Homeland Security Secretary Markwayne Mullin sent letters to four states alleging that a combined 250,000 non-citizens were registered to vote. Elections experts caution that could be a significant overcount.",
+      "date": "2026-07-18"
+    },
+    {
+      "title": "Trump fumes over Canadian wildfire smoke and issues tariff threat",
+      "summary": "President Donald Trump on Friday pledged to hold Canada responsible for costs associated with unhealthy air quality in the U.S. due to spreading smoke from the Canadian wildfires.",
+      "date": "2026-07-18"
     },
     {
       "title": "Funding milestone detected",
       "summary": "Both Marco Rubio and Elon Musk, who led the effort to sunset the foreign aid agency, have said that no deaths have been linked to the cutting of its funding. These parents tell a different story. (Image credit: From left: David Augustine, Lameck Nyagudi and Kazeem Olawale Nasiru for NPR).",
-      "date": "2026-07-17"
-    },
-    {
-      "title": "Takeaways from Trump's primetime speech. And, at least 2 dead in major Texas flooding",
-      "summary": "President Trump gave a primetime speech raising claims of voting vulnerabilities but offered no new evidence. And, at least 2 people have died in major flooding in Texas. (Image credit: Saul Loeb).",
       "date": "2026-07-17"
     },
     {
@@ -41,36 +46,37 @@
       "date": "2026-07-17"
     },
     {
-      "title": "Mullin pledges to go after voter fraud after Trump revives election interference claims",
-      "summary": "Homeland Security Secretary Markwayne Mullin spoke about election security a day after President Trump claimed during his primetime address that China interfered in the 2020 election. CBS News' Jake Rosen joins to discuss Mullin's remarks.",
-      "date": "2026-07-17"
-    },
-    {
-      "title": "Maine shooting and officer's background raise new questions about ICE's rapid hiring",
-      "summary": "Immigration and Customs Enforcement has been rapidly expanding its workforce, hiring thousands of new officers as part of the Trump administration's attempt to ramp up immigration arrests and deportations.",
-      "date": "2026-07-17"
-    },
-    {
       "title": "Trump Faces the Limits of U.S. Firepower and the Lessons of Past Wars",
       "summary": "Like his predecessors, President Trump has struggled to turn battlefield successes into long-term victories.",
-      "date": "2026-07-17"
-    },
-    {
-      "title": "Trump Brings Full Weight of Government to Bolster False Election Claims",
-      "summary": "Intelligence agencies provided the White House with a trove of declassified documents that President Trump cited on Thursday as evidence of election vulnerabilities.",
       "date": "2026-07-17"
     },
     {
       "title": "Trump encourages Darline Graham to run for Lindsey Graham's seat",
       "summary": "Darline Graham indicated in a White House meeting Thursday that she's weighing a bid, CBS News confirmed. A day later, President Trump wrote on Truth Social: \"RUN, DARLINE, RUN! \".",
       "date": "2026-07-17"
+    },
+    {
+      "title": "China calls Trump's election interference claims \"pure fabrication\"",
+      "summary": "A spokesman for the Chinese Ministry of Foreign Affairs denied President Trump's claims of election interference in the 2020 election. CBS News foreign correspondent Anna Coren reports.",
+      "date": "2026-07-17"
+    },
+    {
+      "title": "Trump promised evidence of election fraud. Experts say there was none",
+      "summary": "President Trump's primetime address Thursday warned of \"shocking vulnerabilities\" in U.S. elections, but many election experts say much of Trump's claims amount to old news.",
+      "date": "2026-07-17"
     }
   ],
   "sources": [
     {
-      "title": "White House teleprompter operator allegedly made over $100K betting on Trump's speeches",
-      "url": "https://www.cbsnews.com/video/white-house-teleprompter-operator-allegedly-made-over-100k-betting-on-trumps-speeches/?utm_source=lootura.com",
-      "publishedAt": "2026-07-17T12:59:09.000Z",
+      "title": "Trump threatens Canada with higher tariffs over wildfire smoke",
+      "url": "https://www.cbsnews.com/news/trump-tariffs-canada-wildfire-smoke/?utm_source=lootura.com",
+      "publishedAt": "2026-07-18T01:02:08.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
+    {
+      "title": "What to know about the Trump administration's claim that 250K non-citizens are registered to vote in 4 states",
+      "url": "https://www.cbsnews.com/news/trump-markwayne-mullin-non-citizens-registered-voters-california-new-jersey-nevada-pennsylvania/?utm_source=lootura.com",
+      "publishedAt": "2026-07-18T01:48:03.000Z",
       "sourceId": "lootura-us-cbs-news"
     },
     {
@@ -80,21 +86,21 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "Mullin pledges to go after voter fraud after Trump revives election interference claims",
-      "url": "https://www.cbsnews.com/video/mullin-pledges-to-go-after-voter-fraud-trump-revives-election-interference-claims/?utm_source=lootura.com",
-      "publishedAt": "2026-07-17T16:27:13.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
-    {
       "title": "China calls Trump's election interference claims \"pure fabrication\"",
       "url": "https://www.cbsnews.com/video/china-calls-trump-election-interference-claims-pure-fabrication/?utm_source=lootura.com",
       "publishedAt": "2026-07-17T17:56:44.000Z",
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "Trump backs Sen. Darline Graham Nordone in primary to replace her late brother",
-      "url": "https://www.nbcnews.com/politics/2028-election/trump-backs-darline-graham-nordone-primary-replace-lindsey-graham-rcna588075?utm_source=lootura.com",
-      "publishedAt": "2026-07-17T20:08:06.000Z",
+      "title": "Trump calls for new election security measures",
+      "url": "https://www.nbcnews.com/nightly-news/video/trump-calls-for-new-election-security-measures-266865733992?utm_source=lootura.com",
+      "publishedAt": "2026-07-17T22:53:58.000Z",
+      "sourceId": "lootura-us-nbc-news-politics"
+    },
+    {
+      "title": "Trump fumes over Canadian wildfire smoke and issues tariff threat",
+      "url": "https://www.nbcnews.com/politics/donald-trump/trump-fumes-canadian-wildfire-smoke-issues-tariff-threat-rcna588122?utm_source=lootura.com",
+      "publishedAt": "2026-07-18T01:18:17.000Z",
       "sourceId": "lootura-us-nbc-news-politics"
     },
     {
@@ -110,23 +116,17 @@
       "sourceId": "lootura-us-npr-politics"
     },
     {
-      "title": "Takeaways from Trump's primetime speech. And, at least 2 dead in major Texas flooding",
-      "url": "https://www.npr.org/2026/07/17/g-s1-134162/up-first-newsletter-trump-speech-illegal-voting-texas-flooding-wildfires-air-quality?utm_source=lootura.com",
-      "publishedAt": "2026-07-17T11:27:01.000Z",
-      "sourceId": "lootura-us-npr-politics"
-    },
-    {
       "title": "Fact-checking Trump's address on China, the 2020 election and what documents show",
       "url": "https://www.pbs.org/newshour/politics/fact-checking-trumps-address-on-china-the-2020-election-and-what-documents-show?utm_source=lootura.com",
       "publishedAt": "2026-07-17T20:20:23.000Z",
       "sourceId": "lootura-us-pbs-newshour"
     },
     {
-      "title": "Maine shooting and officer's background raise new questions about ICE's rapid hiring",
-      "url": "https://www.pbs.org/newshour/nation/maine-shooting-and-officers-background-raise-new-questions-about-ices-rapid-hiring?utm_source=lootura.com",
-      "publishedAt": "2026-07-17T14:50:47.000Z",
+      "title": "Former intelligence official weighs Trump's election security allegations",
+      "url": "https://www.pbs.org/newshour/show/former-intelligence-official-weighs-trumps-election-security-allegations?utm_source=lootura.com",
+      "publishedAt": "2026-07-17T22:52:53.000Z",
       "sourceId": "lootura-us-pbs-newshour"
     }
   ],
-  "evidenceCount": 18
+  "evidenceCount": 21
 }

@@ -70,4 +70,4 @@ Date: 2026-07-14
 
 ## Sources
 
-- [‘Professional malpractice’: The Platner fallout engulfs the operatives who made him](https://www.politico.com/news/2026/07/17/platner-is-finished-does-the-same-fate-await-the-out-of-state-consultants-who-recruited-him-01002652?utm_source=lootura.com) — 2026-07-17T09:55:00.000Z
+No public source links.

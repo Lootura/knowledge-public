@@ -3,7 +3,7 @@
 > Sigue la actividad de Artificial intelligence en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: topic
-- Actualizado: 2026-07-17T20:51:38.016Z
+- Actualizado: 2026-07-18T02:11:28.247Z
 - Canonical: https://atlas.lootura.com/es/topic/artificial-intelligence
 
 ## Cambios recientes
@@ -40,4 +40,4 @@ Date: 2026-07-10
 
 ## Fuentes
 
-- [China lanza Kimi K3, el modelo de IA abierta más grande del mundo](https://www.abc.es/tecnologia/china-lanza-kimi-modelo-ia-abierta-grande-20260717221042-nt_amp.html?utm_source=lootura.com) — 2026-07-17T20:10:43.000Z
+- [Ferran Ballard, experto en aprendizaje: «Ser negacionista de la IA es un error»](https://www.abc.es/bienestar/psicologia-sexo/ferran-ballard-experto-aprendizaje-negacionista-ia-error-20260717210423-nt.html?utm_source=lootura.com) — 2026-07-18T00:14:34.000Z

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/iran/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/iran/index.json",
   "description": "Follow Iran, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-17T20:52:01.362Z",
+  "updatedAt": "2026-07-18T02:11:50.603Z",
   "aliases": [],
   "changes": [
     {
@@ -63,6 +63,12 @@
     }
   ],
   "sources": [
+    {
+      "title": "Gas prices rise as U.S. and Iran escalate attacks",
+      "url": "https://www.nbcnews.com/nightly-news/video/gas-prices-rise-as-u-s-and-iran-escalate-attacks-266868293836?utm_source=lootura.com",
+      "publishedAt": "2026-07-17T23:03:28.000Z",
+      "sourceId": "lootura-us-nbc-news"
+    },
     {
       "title": "As U.S. strikes bridges in Iran, it targets a water desalination plant in Kuwait",
       "url": "https://www.pbs.org/newshour/world/as-u-s-strikes-bridges-in-iran-it-targets-a-water-desalination-plant-in-kuwait?utm_source=lootura.com",

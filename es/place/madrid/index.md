@@ -3,16 +3,10 @@
 > Sigue la actividad de Madrid en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-17T20:51:38.016Z
+- Actualizado: 2026-07-18T02:11:28.247Z
 - Canonical: https://atlas.lootura.com/es/place/madrid
 
 ## Cambios recientes
-
-### Madrid concentra el 21% de la inversión estatal ejecutada y Cataluña baja al 8,6%
-
-Durante años, la inversión territorializada del Estado fue uno de los puntos más calientes del debate autonómico en España. La cantidad de dinero que ejecutaba realmente la Administración central en cada comunidad invitaba inevitablemente a las comparaciones, especialmente entre Cataluña y Madrid, los dos ejes económic.
-
-Date: 2026-07-17
 
 ### El pelotazo de Cerdán era un piso de un millón por el que pagó arras y que enfadó a Antxon: "Encima ahora quieren un pisazo"
 
@@ -23,6 +17,24 @@ Date: 2026-07-17
 ### Servinabar intentó comprar para Cerdán un piso en Madrid valorado en cerca de un millón de euros, según la UCO
 
 El informe elaborado por la Unidad Central Operativa (UCO) de la Guardia Civil sobre el patrimonio del exsecretario de Organización del PSOE Santos Cerdán revela que, entre septiembre y octubre de 2021, una de las empresas clave de la trama negoció la compra de una vivienda de lujo en Madrid para que fuera usada por el.
+
+Date: 2026-07-17
+
+### El teniente general Luis del Castillo, 'el Puñales' de la Guardia Civil
+
+«Cobardón» o «mediocre». Así describen al jefe del Mando de Operaciones de la Guardia Civil, Luis del Castillo, compañeros que se han cruzado con él en su trayectoria. Las últimas informaciones publicadas en ABC evidencian el trato que dedicó al responsable jefe de la zona de Madrid y denunciante, Fernando Mora , tras.
+
+Date: 2026-07-17
+
+### Abrazos y lágrimas: la primera alfombra roja del Zinemaldia
+
+Con Trueba, Los Javis y Muguruza entre los 200 invitados, la presentación del Festival en Madrid sirvió también para visualizar en el foro el traspaso de Rebordinos a Beloki.
+
+Date: 2026-07-17
+
+### Madrid concentra el 21% de la inversión estatal ejecutada y Cataluña baja al 8,6%
+
+Durante años, la inversión territorializada del Estado fue uno de los puntos más calientes del debate autonómico en España. La cantidad de dinero que ejecutaba realmente la Administración central en cada comunidad invitaba inevitablemente a las comparaciones, especialmente entre Cataluña y Madrid, los dos ejes económic.
 
 Date: 2026-07-17
 
@@ -56,22 +68,9 @@ Un incendio se ha declarado este viernes en uno de los laterales de la M-30 de M
 
 Date: 2026-07-17
 
-### El cierre de unas clínicas dentales en Madrid deja sin tratamientos a decenas de clientes: "Son unos ladrones"
-
-El repentino cierre de la cadena de clínicas dentales Lashen, con cuatro establecimientos en la Comunidad de Madrid (dos en la capital, uno en Alcorcón y otro en Torrejón de Ardoz), ha dejado a decenas de clientes con tratamientos iniciados sin completar y, en algunos casos, habiendo pagado importantes cantidades de di.
-
-Date: 2026-07-17
-
-### El tribunal advierte de retrasos en el juicio a la pareja de Ayuso por "sobrecarga" de trabajo
-
-El Juzgado de lo Penal número 19 de Madrid acuerda el guion del juicio y traslada a las partes que la fijación de una fecha depende de cuándo la "agenda" de ese tribunal lo permita La acusación popular pide que se investigue a Quirón por delito fiscal en el caso de la pareja de Ayuso El Juzgado de lo Penal número 19 de.
-
-Date: 2026-07-17
-
 ## Fuentes
 
-- [Madrid concentra el 21% de la inversión estatal ejecutada y Cataluña baja al 8,6%](https://elpais.com/economia/2026-07-17/madrid-concentra-el-21-de-la-inversion-estatal-ejecutada-y-cataluna-baja-al-86.html?utm_source=lootura.com) — 2026-07-17T16:34:00.000Z
-- [La Casa de Cantabria se niega a entregar el Emboque de Oro al teniente general de la Guardia Civil Luis Antonio del Castillo](https://www.elindependiente.com/espana/2026/07/17/la-casa-de-cantabria-se-niega-a-entregar-el-emboque-de-oro-al-teniente-general-de-la-guardia-civil-luis-antonio-del-castillo/?utm_source=lootura.com) — 2026-07-17T15:28:42.000Z
+- [El teniente general Luis del Castillo, 'el Puñales' de la Guardia Civil](https://www.abc.es/espana/luis-castillo-numero-dos-dao-punales-guardia-20260718015843-nt.html?utm_source=lootura.com) — 2026-07-17T23:58:59.000Z
+- [Abrazos y lágrimas: la primera alfombra roja del Zinemaldia](https://www.diariovasco.com/culturas/zinemaldia/abrazos-lagrimas-primera-alfombra-roja-zinemaldia-20260718000252-nt_amp.html?utm_source=lootura.com) — 2026-07-17T22:02:53.000Z
 - [El pelotazo de Cerdán era un piso de un millón por el que pagó arras y que enfadó a Antxon: "Encima ahora quieren un pisazo"](https://amp.elmundo.es/espana/2026/07/17/6a5a268be4d4d822248b457c.html?utm_source=lootura.com) — 2026-07-17T13:01:34.000Z
 - [Servinabar intentó comprar para Cerdán un piso en Madrid valorado en cerca de un millón de euros, según la UCO](https://elpais.com/espana/2026-07-17/servinabar-intento-comprar-para-cerdan-un-piso-en-madrid-valorado-en-cerca-de-un-millon-de-euros-segun-la-uco.html?utm_source=lootura.com) — 2026-07-17T13:27:55.000Z
-- [Gil Marín, contundente con el ‘caso Julián’: «No aceptamos la oferta de 100 millones ni de 200»](https://theobjective.com/deportes/futbol/2026-07-17/gil-marin-oferta-julian-alvarez/?utm_source=lootura.com) — 2026-07-17T15:58:24.000Z

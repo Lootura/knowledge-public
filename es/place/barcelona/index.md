@@ -3,10 +3,16 @@
 > Sigue la actividad de Barcelona en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-17T20:51:38.016Z
+- Actualizado: 2026-07-18T02:11:28.247Z
 - Canonical: https://atlas.lootura.com/es/place/barcelona
 
 ## Cambios recientes
+
+### La exposición a incendios forestales durante el embarazo perjudica a los bebés
+
+Una nueva investigación llevada a cabo por el Centro de Estudios Demográficos (CED) de la Universitat Autònoma de Barcelona revela que la exposición a incendios forestales durante el embarazo tiene efectos negativos sobre la salud de los bebés . El estudio, publicado en la revista Perspectives Demogràfiques , identific.
+
+Date: 2026-07-17
 
 ### Gil Marín, contundente con el ‘caso Julián’: «No aceptamos la oferta de 100 millones ni de 200»
 
@@ -62,13 +68,6 @@ El Gran Teatre del Liceu de Barcelona volvió a convertirse esta tarde en el esc
 
 Date: 2026-07-14
 
-### Inquietud en Seat por los recortes de Volkswagen: “Sería ingenuo pensar que no nos van a afectar”
-
-El centro de Barcelona empieza a vestirse ya de los colores del arcoíris para celebrar el Orgullo esta semana. También lo ha hecho Casa Cupra Raval desde su vistoso edificio del paseo de Gràcia. La tienda insignia de la histórica automovilística ha dejado de llamarse, aunque sea de forma temporal, Casa Seat y ha adopta.
-
-Date: 2026-07-14
-
 ## Fuentes
 
-- [El Barcelona disputará un triangular de amistosos el 8 de agosto en Italia](https://okdiario.com/deportes/barcelona-disputara-triangular-amistosos-8-agosto-italia-19020491?utm_source=lootura.com) — 2026-07-17T19:25:52.000Z
-- [Gil Marín, contundente con el ‘caso Julián’: «No aceptamos la oferta de 100 millones ni de 200»](https://theobjective.com/deportes/futbol/2026-07-17/gil-marin-oferta-julian-alvarez/?utm_source=lootura.com) — 2026-07-17T15:58:24.000Z
+- [La exposición a incendios forestales durante el embarazo perjudica a los bebés](https://theobjective.com/sociedad/ciencia/2026-07-17/exposicion-incendios-embarazo-bebes/?utm_source=lootura.com) — 2026-07-17T20:55:31.000Z

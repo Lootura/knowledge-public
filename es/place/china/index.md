@@ -3,7 +3,7 @@
 > Sigue la actividad de China en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-17T20:51:38.016Z
+- Actualizado: 2026-07-18T02:11:28.247Z
 - Canonical: https://atlas.lootura.com/es/place/china
 
 ## Cambios recientes
@@ -70,6 +70,4 @@ Date: 2026-07-17
 
 ## Fuentes
 
-- [China lanza Kimi K3, el modelo de IA abierta más grande del mundo](https://www.abc.es/tecnologia/china-lanza-kimi-modelo-ia-abierta-grande-20260717221042-nt_amp.html?utm_source=lootura.com) — 2026-07-17T20:10:43.000Z
-- [Qué fue del cohete reutilizable que Rusia anunció hace 6 años y debía volar en 2026](https://www.larazon.es/tecnologia/que-fue-cohete-reutilizable-que-rusia-anuncio-hace-6-anos-debia-volar-2026_202607176a5a81841db8de040994ba0c.html?utm_source=lootura.com) — 2026-07-17T20:00:17.000Z
-- [China exige a Trump que aparque el «invento» de la presunta injerencia electoral en 2020](https://theobjective.com/internacional/2026-07-17/china-trump-invento-injerencia-electoral/?utm_source=lootura.com) — 2026-07-17T16:30:35.000Z
+- [China busca encabezar un nuevo orden mundial de la Inteligencia Artificial](https://elpais.com/internacional/2026-07-17/china-busca-encabezar-un-nuevo-orden-mundial-de-la-inteligencia-artificial.html?utm_source=lootura.com) — 2026-07-17T15:32:23.000Z

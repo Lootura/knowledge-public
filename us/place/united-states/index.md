@@ -3,7 +3,7 @@
 > Follow United States, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-17T20:52:01.362Z
+- Updated: 2026-07-18T02:11:50.603Z
 - Canonical: https://atlas.lootura.com/us/place/united-states
 
 ## Recent changes
@@ -18,19 +18,19 @@ Date: 2026-07-27
 
 Heavy smoke from several large wildfires blazing in Canada and Minnesota is engulfing large swaths of the Midwest and the U.S. East Coast this week.
 
-Date: 2026-07-17
+Date: 2026-07-18
 
-### What to Know About Canada Wildfire Smoke and Air Quality in U.S. Cities
+### Trump fumes over Canadian wildfire smoke and issues tariff threat
 
-A thick plume of smoke swept across the Midwest and New England, and those conditions could linger on Friday.
+President Donald Trump on Friday pledged to hold Canada responsible for costs associated with unhealthy air quality in the U.S. due to spreading smoke from the Canadian wildfires.
 
-Date: 2026-07-17
+Date: 2026-07-18
 
-### ‘Professional malpractice’: The Platner fallout engulfs the operatives who made him
+### AIPAC Closes Donor Portal to Democrats Who Voted to End Aid to Israel
 
-When Daniel Moraff showed up on Graham Platner's doorstep last summer, the oyster farmer had a message for the young political operative who had traveled to the Maine coast to convince him to run for the U.S. Senate: "Get the fuck off my property." It took weeks of prodding before Platner relented, according to two peo.
+The pro-Israel lobbying group appeared to be punishing Democrats it had endorsed for re-election after they voted in favor of an amendment that would have cut off U.S. aid to Israel.
 
-Date: 2026-07-17
+Date: 2026-07-18
 
 ### Novak Djokovic talks tennis career, aging in the sport and Serena Williams' return
 
@@ -72,11 +72,11 @@ Date: 2026-07-17
 
 - [The Uplift: The American Dream](https://www.cbsnews.com/video/the-uplift-the-american-dream/?utm_source=lootura.com) — 2026-07-27T10:30:00.000Z
 - [Novak Djokovic talks tennis career, aging in the sport and Serena Williams' return](https://www.cbsnews.com/news/novak-djokovic-tennis-career-future-serena-williams-return/?utm_source=lootura.com) — 2026-07-17T16:33:32.000Z
-- [Maps show wildfire smoke forecast, air quality alerts in swath of U.S.](https://www.cbsnews.com/news/wildfires-smoke-millions-exposed-midwest-northeast-us/?utm_source=lootura.com) — 2026-07-17T20:27:00.000Z
+- [Maps show wildfire smoke forecast, air quality alerts in swath of U.S.](https://www.cbsnews.com/news/wildfires-smoke-millions-exposed-midwest-northeast-us/?utm_source=lootura.com) — 2026-07-18T01:10:01.000Z
 - [Strong earthquake hits Mexico-Guatemala border, tsunami alert lifted](https://www.cbsnews.com/news/earthquake-mexico-guatemala-tsunami-alert/?utm_source=lootura.com) — 2026-07-17T19:10:40.000Z
 - [Anguish and disbelief at wake for Lorenzo Salgado Araujo, killed by ICE in Houston](https://www.nbcnews.com/news/us-news/salgado-araujo-ice-shooting-victim-neighbors-rcna588013?utm_source=lootura.com) — 2026-07-17T18:47:25.000Z
-- [A bug commonly sold at pet stores is helping scientists with a vexing task](https://www.npr.org/2026/07/17/nx-s1-5896494/superworms-clean-animal-specimens-skeleton-research?utm_source=lootura.com) — 2026-07-17T11:00:00.000Z
-- [Wildfire smoke is like smoking 'half a pack a day.' Here's how to protect yourself](https://www.npr.org/2026/07/17/g-s1-134227/wildfire-smoke-canada-us?utm_source=lootura.com) — 2026-07-17T15:24:49.000Z
-- [Trump promised evidence of election fraud. Experts say there was none](https://www.npr.org/2026/07/17/nx-s1-5897446/trump-promised-evidence-of-election-fraud-experts-say-there-was-none?utm_source=lootura.com) — 2026-07-17T20:19:25.000Z
-- [As U.S. strikes bridges in Iran, it targets a water desalination plant in Kuwait](https://www.pbs.org/newshour/world/as-u-s-strikes-bridges-in-iran-it-targets-a-water-desalination-plant-in-kuwait?utm_source=lootura.com) — 2026-07-17T19:41:09.000Z
-- [Trump urges Darline Graham to run for full Senate term as funeral planned for her brother](https://www.pbs.org/newshour/politics/trump-urges-darline-graham-to-run-for-full-senate-term-as-funeral-planned-for-her-brother?utm_source=lootura.com) — 2026-07-17T20:30:54.000Z
+- [Two U.S. Forest Service employees rescued after being held hostage at gunpoint](https://www.nbcnews.com/news/us-news/two-us-forest-service-employees-rescued-zip-tied-held-hostage-gunpoint-rcna588112?utm_source=lootura.com) — 2026-07-17T23:54:11.000Z
+- [Maps: Wildfire smoke forecast for the Midwest and northern U.S.](https://www.nbcnews.com/data-graphics/canada-wildfire-smoke-map-2026-us-states-air-quality-health-risks-rcna588051?utm_source=lootura.com) — 2026-07-17T22:21:56.000Z
+- [100 million Americans facing dangerous wildfire smoke](https://www.nbcnews.com/nightly-news/video/100-million-americans-facing-dangerous-wildfire-smoke-266866245835?utm_source=lootura.com) — 2026-07-17T23:07:08.000Z
+- [Taylor Farms and Taco Bell removes iceberg lettuce amid parasite outbreak](https://www.nbcnews.com/nightly-news/video/taylor-farms-and-taco-bell-removes-iceberg-lettuce-amid-parasite-outbreak-266866245951?utm_source=lootura.com) — 2026-07-17T23:21:23.000Z
+- [Trump calls for new election security measures](https://www.nbcnews.com/nightly-news/video/trump-calls-for-new-election-security-measures-266865733992?utm_source=lootura.com) — 2026-07-17T22:53:58.000Z

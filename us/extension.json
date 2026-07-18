@@ -1,16 +1,16 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-17T20:56:47.056Z",
+  "generatedAt": "2026-07-18T02:16:22.243Z",
   "radar": {
     "id": "usa",
     "slug": "us",
     "locale": "en"
   },
   "state": {
-    "signature": "1.16.0|15|1784321521362",
+    "signature": "1.16.0|16|1784340710603",
     "version": "1.16.0",
-    "build": 15,
-    "latestEntityUpdatedAt": "2026-07-17T20:52:01.362Z"
+    "build": 16,
+    "latestEntityUpdatedAt": "2026-07-18T02:11:50.603Z"
   },
   "atlas": {
     "hero": {
@@ -20,23 +20,36 @@
       "title": "Maps show wildfire smoke forecast, air quality alerts in swath of U.S.",
       "url": "https://atlas.lootura.com/us/place/united-states",
       "path": "/us/place/united-states",
-      "updatedAt": "2026-07-17T20:52:01.362Z",
-      "score": 1618,
-      "sourceCount": 242,
+      "updatedAt": "2026-07-18T02:11:50.603Z",
+      "score": 1628,
+      "sourceCount": 253,
       "isBreaking": false,
       "isPinned": false
     },
     "cards": [
       {
-        "id": "usa-canada",
-        "name": "Canada",
-        "type": "place",
-        "title": "Maps show wildfire smoke forecast, air quality alerts in swath of U.S.",
-        "url": "https://atlas.lootura.com/us/place/canada",
-        "path": "/us/place/canada",
-        "updatedAt": "2026-07-17T20:52:01.362Z",
-        "score": 1543,
-        "sourceCount": 22,
+        "id": "usa-white-house",
+        "name": "White House",
+        "type": "organization",
+        "title": "Trump says these documents prove his false claims of election fraud. Here's what they really say",
+        "url": "https://atlas.lootura.com/us/organization/white-house",
+        "path": "/us/organization/white-house",
+        "updatedAt": "2026-07-18T02:11:50.603Z",
+        "score": 1621,
+        "sourceCount": 43,
+        "isBreaking": false,
+        "isPinned": false
+      },
+      {
+        "id": "usa-donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "title": "Trump fumes over Canadian wildfire smoke and issues tariff threat",
+        "url": "https://atlas.lootura.com/us/person/donald-trump",
+        "path": "/us/person/donald-trump",
+        "updatedAt": "2026-07-18T02:11:50.603Z",
+        "score": 1562,
+        "sourceCount": 241,
         "isBreaking": false,
         "isPinned": false
       },
@@ -47,22 +60,9 @@
         "title": "What a Times Reporter Saw in Iran, and Takeaways from Trump’s Speech on Election Security",
         "url": "https://atlas.lootura.com/us/place/iran",
         "path": "/us/place/iran",
-        "updatedAt": "2026-07-17T20:52:01.362Z",
-        "score": 1542,
-        "sourceCount": 125,
-        "isBreaking": false,
-        "isPinned": false
-      },
-      {
-        "id": "usa-donald-trump",
-        "name": "Donald Trump",
-        "type": "person",
-        "title": "White House teleprompter operator allegedly made over $100K betting on Trump's speeches",
-        "url": "https://atlas.lootura.com/us/person/donald-trump",
-        "path": "/us/person/donald-trump",
-        "updatedAt": "2026-07-17T20:52:01.362Z",
-        "score": 1540,
-        "sourceCount": 231,
+        "updatedAt": "2026-07-18T02:11:50.603Z",
+        "score": 1555,
+        "sourceCount": 126,
         "isBreaking": false,
         "isPinned": false
       },
@@ -73,13 +73,13 @@
         "title": "US politicians push agencies to restrict research collaboration with China",
         "url": "https://atlas.lootura.com/us/place/china",
         "path": "/us/place/china",
-        "updatedAt": "2026-07-17T20:52:01.362Z",
-        "score": 1537,
-        "sourceCount": 36,
+        "updatedAt": "2026-07-18T02:11:50.603Z",
+        "score": 1550,
+        "sourceCount": 37,
         "isBreaking": false,
         "isPinned": false
       }
     ],
-    "publicEntityCount": 38
+    "publicEntityCount": 35
   }
 }

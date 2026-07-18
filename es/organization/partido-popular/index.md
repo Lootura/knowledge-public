@@ -3,10 +3,16 @@
 > Sigue la actividad de Partido Popular en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-17T20:51:38.016Z
+- Actualizado: 2026-07-18T02:11:28.247Z
 - Canonical: https://atlas.lootura.com/es/organization/partido-popular
 
 ## Cambios recientes
+
+### El Govern de Prohens aplaza hasta después del verano la aprobación de la ley agraria pactada entre PP y Vox
+
+El Govern que preside Marga Prohens admite que ya no tendrá tiempo de aprobar la Ley Agraria pactada con Vox antes de las vacaciones de verano. Fuentes del Consolat y también del partido de Santiago Abascal han confirmado a OKBALEARES que el texto de la revolucionaria ley agraria balear no pasará a su aprobación por ..
+
+Date: 2026-07-18
 
 ### El viceconsejero de Vox en la Junta fue falangista, considera un peligro las autonomías y cree falsa la convivencia de Al-Ándalus
 
@@ -17,6 +23,12 @@ Date: 2026-07-17
 ### Rajoy alerta del «déficit democrático»: «Vivimos la mayor polarización desde 1978»
 
 El expresidente del Gobierno Mariano Rajoy ha advertido del «riesgo existente» en estos momentos debido al «déficit democrático tan grande» que hay en la actualidad y ha alertado sobre «la mayor polarización del Gobierno desde 1978 ». Rajoy ha participado en la Conferencia Política del PP ibicenco protagonizando el diá.
+
+Date: 2026-07-17
+
+### El fondo de Pablo Casado pujará para mantener los Falcon
+
+Boost Air, la empresa de mantenimiento aeronáutico propiedad de Corporación Financiera Azuaga e Hyperion Fund -el fondo liderado por el exlíder del PP Pablo Casado-, pujará por...
 
 Date: 2026-07-17
 
@@ -56,19 +68,9 @@ El Partido Popular ha firmado este jueves sus conclusiones conjuntas tras el EPP
 
 Date: 2026-07-16
 
-### La Justicia europea desmonta el relato del Supremo y el PP: no ve 'autoamnistía' ni quiebra de la igualdad
-
-La resolución de los jueces de Luxemburgo comparte la visión de reconciliación en la norma y rechaza adentrarse en las consideraciones políticas que realizó la Comisión Europea El TJUE avala la ley de amnistía como vía para la “reconciliación nacional” La ley de amnistía dio un trato “ostensiblemente privilegiado” a lo.
-
-Date: 2026-07-16
-
-### Puigdemont: vuelve, a casa vuelve, por Navidad
-
-Si esperan que el PP convoque un carrusel de airadas manifestaciones por la sentencia europea sobre la amnistía, aguarden sentados. Como en casi todas las decisiones difíciles de la historia reciente de la democracia española, la izquierda decide y paga la cuenta, la derecha reza y espera llevarse los beneficios Claves.
-
-Date: 2026-07-16
-
 ## Fuentes
 
 - [El viceconsejero de Vox en la Junta fue falangista, considera un peligro las autonomías y cree falsa la convivencia de Al-Ándalus](https://elpais.com/espana/andalucia/2026-07-17/el-viceconsejero-de-vox-en-la-junta-fue-falangista-considera-un-peligro-las-autonomias-y-cree-falsa-la-convivencia-de-al-andalus.html?utm_source=lootura.com) — 2026-07-17T10:38:59.000Z
+- [El fondo de Pablo Casado pujará para mantener los Falcon](https://amp.expansion.com/empresas/2026/07/18/6a5a6ad9468aeb75538b4573.html?utm_source=lootura.com) — 2026-07-17T22:16:12.000Z
+- [El Govern de Prohens aplaza hasta después del verano la aprobación de la ley agraria pactada entre PP y Vox](https://okdiario.com/baleares/govern-prohens-aplaza-hasta-despues-del-verano-aprobacion-ley-agraria-pactada-pp-vox-18984501/amp?utm_source=lootura.com) — 2026-07-18T02:00:59.000Z
 - [Rajoy alerta del «déficit democrático»: «Vivimos la mayor polarización desde 1978»](https://theobjective.com/espana/politica/2026-07-17/rajoy-deficit-democratico-polarizacion/?utm_source=lootura.com) — 2026-07-17T19:55:31.000Z

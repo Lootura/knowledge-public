@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/iran/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/iran/index.json",
   "description": "Sigue la actividad de Iran en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-17T20:51:38.016Z",
+  "updatedAt": "2026-07-18T02:11:28.247Z",
   "aliases": [],
   "changes": [
     {
       "title": "EEUU destruye una torre de vigilancia que Irán usaba para atacar buques en Ormuz",
       "summary": "El Ejército estadounidense destruyó una torre de vigilancia que Irán usaba para atacar a los buques comerciales en el estrecho de Ormuz , lo que permitirá «proteger» la navegación en la vía marítima, afirmó este viernes el Comando Central de Estados Unidos (Centcom). «Las fuerzas de EE. UU. destruyeron con éxito la tor.",
+      "date": "2026-07-17"
+    },
+    {
+      "title": "Estados Unidos lanza una ola de ataques contra Irán por séptimo día consecutivo",
+      "summary": "Trump anunció la semana pasada la cancelación del memorando de entendimiento que había firmado el 18 de junio.",
       "date": "2026-07-17"
     },
     {
@@ -55,11 +60,6 @@
       "title": "El Ibex vuelve a consolidar niveles",
       "summary": "Los mercados siguen encontrando obstáculos que atenazan sus subidas. La nueva espiral de ataques de EEUU sobre Irán y la subida de tipos en Corea mantienen en guardia a los inversores. El Ibex, con movimientos estrechos durante toda la semana, vuelve a consolidar niveles en el día del estreno en Bolsa de Digi.",
       "date": "2026-07-16"
-    },
-    {
-      "title": "Trump amenaza con atacar infraestructuras civiles si Irán no vuelve a negociar",
-      "summary": "Estados Unidos ha reimpuesto el bloqueo naval sobre los puertos iraníes y ha intensificado su campaña de bombardeos contra la república islámica, en una nueva escalada de ataques que amenaza con devolver a Oriente Próximo a una guerra abierta y que vuelve a situar el estrecho de Ormuz en el centro del enfrentamiento.La.",
-      "date": "2026-07-16"
     }
   ],
   "sources": [
@@ -68,7 +68,13 @@
       "url": "https://theobjective.com/internacional/2026-07-17/eeuu-torre-vigilancia-iran-buques-ormuz/?utm_source=lootura.com",
       "publishedAt": "2026-07-17T19:22:42.000Z",
       "sourceId": "lootura-es-the-objective"
+    },
+    {
+      "title": "Estados Unidos lanza una ola de ataques contra Irán por séptimo día consecutivo",
+      "url": "https://theobjective.com/internacional/2026-07-17/estados-unidos-iran-septimo-dia-consecutivo/?amp=&utm_source=lootura.com",
+      "publishedAt": "2026-07-17T21:48:08.000Z",
+      "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 2
 }

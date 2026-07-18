@@ -1,21 +1,16 @@
 {
   "id": "usa-andy-burnham",
   "name": "Andy Burnham",
-  "type": "person",
+  "type": "organization",
   "locale": "en",
   "canonicalPath": "/us/person/andy-burnham",
   "canonicalUrl": "https://atlas.lootura.com/us/person/andy-burnham",
   "markdownUrl": "https://atlas.lootura.com/us/person/andy-burnham/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/andy-burnham/index.json",
-  "description": "Follow Andy Burnham, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-17T20:52:01.362Z",
+  "description": "Follow Andy Burnham, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
+  "updatedAt": "2026-07-18T02:11:50.603Z",
   "aliases": [],
   "changes": [
-    {
-      "title": "Who is Andy Burnham, the man becoming Britain's next prime minister?",
-      "summary": "The man replacing U.K. Prime Minister Keir Starmer is Andy Burnham, known as the \"King of the North.\".",
-      "date": "2026-07-17"
-    },
     {
       "title": "New Prime Minister Faces Old Problems: How to Make Britain’s Economy Grow",
       "summary": "Conversations with economists, and people around him, shed light on how Andy Burnham might tackle entrenched challenges.",
@@ -30,15 +25,14 @@
       "title": "Andy Burnham is declared leader of UK's Labour Party, pledges to restore hope",
       "summary": "The former mayor of Greater Manchester was the only contender in the center-left party's leadership contest to replace departing Prime Minister Keir Starmer, who was forced out by a rebellion within his party.",
       "date": "2026-07-17"
+    },
+    {
+      "title": "Who is Andy Burnham, the man becoming Britain's next prime minister?",
+      "summary": "The man replacing U.K. Prime Minister Keir Starmer is Andy Burnham, known as the \"King of the North.\".",
+      "date": "2026-07-17"
     }
   ],
   "sources": [
-    {
-      "title": "Who is Andy Burnham, the man becoming Britain's next prime minister?",
-      "url": "https://www.cbsnews.com/news/keir-starmer-resigns-who-is-andy-burnham-likely-next-uk-prime-minister/?utm_source=lootura.com",
-      "publishedAt": "2026-07-17T12:55:31.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
     {
       "title": "Andy Burnham is declared leader of UK's Labour Party, pledges to restore hope",
       "url": "https://www.pbs.org/newshour/world/andy-burnham-is-declared-leader-of-uks-labour-party-pledges-to-restore-hope?utm_source=lootura.com",
@@ -52,5 +46,5 @@
       "sourceId": "lootura-us-the-new-york-times"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 2
 }

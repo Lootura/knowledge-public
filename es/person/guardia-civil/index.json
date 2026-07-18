@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/guardia-civil/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/guardia-civil/index.json",
   "description": "Sigue la actividad de Guardia Civil en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-17T20:51:38.016Z",
+  "updatedAt": "2026-07-18T02:11:28.247Z",
   "aliases": [],
   "changes": [
     {
@@ -37,11 +37,6 @@
       "date": "2026-07-17"
     },
     {
-      "title": "La UCO dice que los ingresos de Cerdán se dispararon en la «etapa ministerial» de Ábalos y tras su ascenso en el PSOE",
-      "summary": "La Unidad Central Operativa (UCO) de la Guardia Civil ha revelado que el que fuera mano derecha de Pedro Sánchez Santos Cerdán vio como sus ingresos se dispararon coincidiendo con la «etapa ministerial» del que fuera responsable de Transportes José Luis Ábalos y tras sustituir al mismo como secretario de Organización d.",
-      "date": "2026-07-17"
-    },
-    {
       "title": "La UCO apunta a que la esposa de Cerdán cobró 1.300 euros mensuales de una empresa para la que no trabajaba",
       "summary": "El informe de la Unidad Central Operativa (UCO) de la Guardia Civil sobre el patrimonio del exsecretario de Organización del PSOE Santos Cerdán apunta a que una mercantil ligada al empresario Antxon Alonso, amigo del exdirigente socialista, estuvo pagando 1.300 euros al mes a Francisca Muñoz, esposa del dirigente socia.",
       "date": "2026-07-17"
@@ -57,16 +52,21 @@
       "date": "2026-07-17"
     },
     {
-      "title": "El audio de la directora de la Guardia Civil ante el juez: \"No encaja ni a martillazos que Leire Díez influyera en las investigaciones a la UCO\"",
-      "summary": "Niega que la exmilitante llegara a ella a través de Cerdán: \"Hay artículos publicados sobre el listado de víctimas de Cerdán y una de ellas soy yo\" La imputación de la directora general de la Guardia Civil en el caso Leire Díez embarra al Gobierno La directora de la Guardia Civil, Mercedes González, ha declarado este v.",
+      "title": "El teniente general Luis del Castillo, 'el Puñales' de la Guardia Civil",
+      "summary": "«Cobardón» o «mediocre». Así describen al jefe del Mando de Operaciones de la Guardia Civil, Luis del Castillo, compañeros que se han cruzado con él en su trayectoria. Las últimas informaciones publicadas en ABC evidencian el trato que dedicó al responsable jefe de la zona de Madrid y denunciante, Fernando Mora , tras.",
+      "date": "2026-07-17"
+    },
+    {
+      "title": "Cerdán disparó su gasto en cash mientras Ábalos adjudicaba contratos",
+      "summary": "El último informe de la Unidad Central Operativa (UCO) de la Guardia Civil complica la estrategia de defensa del ex secretario de Organización del PSOE Santos Cerdán al...",
       "date": "2026-07-17"
     }
   ],
   "sources": [
     {
-      "title": "La UCO dice que los ingresos de Cerdán se dispararon en la «etapa ministerial» de Ábalos y tras su ascenso en el PSOE",
-      "url": "https://www.abc.es/espana/uco-dice-ingresos-cerdan-dispararon-etapa-ministerial-20260717141532-nt.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-17T18:24:28.000Z",
+      "title": "El teniente general Luis del Castillo, 'el Puñales' de la Guardia Civil",
+      "url": "https://www.abc.es/espana/luis-castillo-numero-dos-dao-punales-guardia-20260718015843-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-17T23:58:59.000Z",
       "sourceId": "lootura-es-abc"
     },
     {
@@ -76,15 +76,15 @@
       "sourceId": "lootura-es-el-correo"
     },
     {
-      "title": "La Casa de Cantabria se niega a entregar el Emboque de Oro al teniente general de la Guardia Civil Luis Antonio del Castillo",
-      "url": "https://www.elindependiente.com/espana/2026/07/17/la-casa-de-cantabria-se-niega-a-entregar-el-emboque-de-oro-al-teniente-general-de-la-guardia-civil-luis-antonio-del-castillo/?utm_source=lootura.com",
-      "publishedAt": "2026-07-17T15:28:42.000Z",
-      "sourceId": "lootura-es-el-independiente"
-    },
-    {
       "title": "La UCO concluye que Cerdán dispuso de \"numeroso dinero en metálico en la etapa ministerial de Ábalos\"",
       "url": "https://amp.elmundo.es/espana/2026/07/17/6a5a14e821efa0ed1b8b4590.html?utm_source=lootura.com",
       "publishedAt": "2026-07-17T11:44:04.000Z",
+      "sourceId": "lootura-es-el-mundo"
+    },
+    {
+      "title": "Cerdán disparó su gasto en cash mientras Ábalos adjudicaba contratos",
+      "url": "https://amp.elmundo.es/espana/2026/07/17/6a5a777621efa0247d8b4592.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-17T20:50:06.000Z",
       "sourceId": "lootura-es-el-mundo"
     },
     {
@@ -124,5 +124,5 @@
       "sourceId": "lootura-es-el-pais"
     }
   ],
-  "evidenceCount": 12
+  "evidenceCount": 10
 }

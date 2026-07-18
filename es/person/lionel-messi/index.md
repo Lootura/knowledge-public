@@ -3,10 +3,22 @@
 > Sigue la actividad de Lionel Messi en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-17T06:12:48.444Z
+- Actualizado: 2026-07-18T02:11:28.247Z
 - Canonical: https://atlas.lootura.com/es/person/lionel-messi
 
 ## Cambios recientes
+
+### La divertida anécdota del día en que Luis de la Fuente conoció a Messi: "En 15 minutos nos metió cuatro"
+
+El seleccionador ofreció la rueda de prensa previa a la final y se mostró tranquilo. "Lamine está bien" Leer.
+
+Date: 2026-07-17
+
+### Cambio generacional: el deporte busca a sus nuevos 'reyes Midas'
+
+"Lo que han hecho será casi imposible de imitar, tal vez lo veamos, pero no creo que suceda . Es único", dijo hace cinco años Pep Guardiola sobre la rivalidad y los éxitos que habían conseguido Cristiano Ronaldo y Leo Messi en sus carreras deportivas. El considerado por muchos como el mejor entrenador de la historia no.
+
+Date: 2026-07-17
 
 ### La fotografía que anticipó una final: "Messi se encontró de sopetón con un bebé y se quedó más tieso que una tabla de planchar"
 
@@ -40,4 +52,5 @@ Date: 2026-07-15
 
 ## Fuentes
 
-No public source links.
+- [La divertida anécdota del día en que Luis de la Fuente conoció a Messi: "En 15 minutos nos metió cuatro"](https://www.elmundo.es/deportes/futbol/mundial-de-futbol/2026/07/18/6a5a9a63e85ece44288b4596.html?utm_source=lootura.com) — 2026-07-17T22:30:10.000Z
+- [Cambio generacional: el deporte busca a sus nuevos 'reyes Midas'](https://www.expansion.com/directivos/deporte-negocio/2026/07/17/6a5a7547e5fdea72278b4572.html?utm_source=lootura.com) — 2026-07-17T21:44:34.000Z

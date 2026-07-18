@@ -8,17 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/maine/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/maine/index.json",
   "description": "Follow Maine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-17T20:52:01.362Z",
+  "updatedAt": "2026-07-18T02:11:50.603Z",
   "aliases": [],
   "changes": [
     {
-      "title": "‘Professional malpractice’: The Platner fallout engulfs the operatives who made him",
-      "summary": "When Daniel Moraff showed up on Graham Platner's doorstep last summer, the oyster farmer had a message for the young political operative who had traveled to the Maine coast to convince him to run for the U.S. Senate: \"Get the fuck off my property.\" It took weeks of prodding before Platner relented, according to two peo.",
+      "title": "ICE officer in Maine shooting has history of violent behavior, relatives say",
+      "summary": "The Immigration and Customs Enforcement officer who shot and killed a Colombian man in Maine this week is an Army veteran who has struggled with serious mental health issues since early childhood, relatives say.",
       "date": "2026-07-17"
     },
     {
-      "title": "ICE officer in Maine shooting has history of violent behavior, relatives say",
-      "summary": "The Immigration and Customs Enforcement officer who shot and killed a Colombian man in Maine this week is an Army veteran who has struggled with serious mental health issues since early childhood, relatives say.",
+      "title": "‘Professional malpractice’: The Platner fallout engulfs the operatives who made him",
+      "summary": "When Daniel Moraff showed up on Graham Platner's doorstep last summer, the oyster farmer had a message for the young political operative who had traveled to the Maine coast to convince him to run for the U.S. Senate: \"Get the fuck off my property.\" It took weeks of prodding before Platner relented, according to two peo.",
       "date": "2026-07-17"
     },
     {
@@ -68,19 +68,7 @@
       "url": "https://www.cbsnews.com/news/ice-shooting-maine-officer-history-violent-behavior/?utm_source=lootura.com",
       "publishedAt": "2026-07-17T16:32:00.000Z",
       "sourceId": "lootura-us-cbs-news"
-    },
-    {
-      "title": "Maine shooting and officer's background raise new questions about ICE's rapid hiring",
-      "url": "https://www.pbs.org/newshour/nation/maine-shooting-and-officers-background-raise-new-questions-about-ices-rapid-hiring?utm_source=lootura.com",
-      "publishedAt": "2026-07-17T14:50:47.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
-    },
-    {
-      "title": "‘Professional malpractice’: The Platner fallout engulfs the operatives who made him",
-      "url": "https://www.politico.com/news/2026/07/17/platner-is-finished-does-the-same-fate-await-the-out-of-state-consultants-who-recruited-him-01002652?utm_source=lootura.com",
-      "publishedAt": "2026-07-17T09:55:00.000Z",
-      "sourceId": "lootura-us-politico"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 1
 }

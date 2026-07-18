@@ -3,7 +3,7 @@
 > Sigue la actividad de Donald Trump en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-17T20:51:38.016Z
+- Actualizado: 2026-07-18T02:11:28.247Z
 - Canonical: https://atlas.lootura.com/es/person/donald-trump
 
 ## Cambios recientes
@@ -11,6 +11,12 @@
 ### El Puerto de Bilbao registra entre febrero y junio su mayor actividad desde hace 18 años
 
 Advierten de un incremento de las importaciones que recuerda a la acumulación de stock que produjeron los aranceles de Trump el año pasado y al que siguió una caída de tráficos.
+
+Date: 2026-07-17
+
+### Estados Unidos lanza una ola de ataques contra Irán por séptimo día consecutivo
+
+Trump anunció la semana pasada la cancelación del memorando de entendimiento que había firmado el 18 de junio.
 
 Date: 2026-07-17
 
@@ -62,14 +68,8 @@ El presidente estadounidense, Donald Trump, ha anunciado esta madrugada que ha d
 
 Date: 2026-07-17
 
-### Trump despide a su operador de teleprompter, acusado de apostar ilegalmente en Kalshi sobre sus discursos
-
-El presidente de Estados Unidos, Donald Trump, tiene un problema con sus discursos. Su técnico de teleprompter, la pantalla de visualización transparente sobre la que se proyectan textos, Gabriel Pérez, ha sido acusado de apostar ilegalmente en la plataforma de predicción Kalshi , la rival de Polymarket, sobre el conte.
-
-Date: 2026-07-16
-
 ## Fuentes
 
+- [Deniegan el ESTA a Joan Capdevila para asistir a la final del Mundial: "¡Necesito ayuda, Trump!"](https://www.20minutos.es/deportes/deniegan-esta-capdevila-campeon-mundo-espana-2010-asistir-final-mundial-necesito-ayuda-trump_7016134_0.html?utm_source=lootura.com) — 2026-07-17T21:30:59.000Z
 - [El Puerto de Bilbao registra entre febrero y junio su mayor actividad desde hace 18 años](https://www.elcorreo.com/economia/puerto-bilbao-registra-febrero-junio-mayor-actividad-20260717132549-nt_amp.html?utm_source=lootura.com) — 2026-07-17T11:36:22.000Z
-- [Trump amenaza a Canadá con más aranceles tras acusarles de "negligencia" por los incendios](https://www.larazon.es/internacional/trump-amenaza-canada-mas-aranceles-acusarles-negligencia-incendios_202607176a5a90740500ab412c9bb86a.html?utm_source=lootura.com) — 2026-07-17T20:28:36.000Z
-- [China exige a Trump que aparque el «invento» de la presunta injerencia electoral en 2020](https://theobjective.com/internacional/2026-07-17/china-trump-invento-injerencia-electoral/?utm_source=lootura.com) — 2026-07-17T16:30:35.000Z
+- [Estados Unidos lanza una ola de ataques contra Irán por séptimo día consecutivo](https://theobjective.com/internacional/2026-07-17/estados-unidos-iran-septimo-dia-consecutivo/?amp=&utm_source=lootura.com) — 2026-07-17T21:48:08.000Z

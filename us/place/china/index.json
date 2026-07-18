@@ -8,18 +8,13 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/china/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/china/index.json",
   "description": "Follow China, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-17T20:52:01.362Z",
+  "updatedAt": "2026-07-18T02:11:50.603Z",
   "aliases": [],
   "changes": [
     {
       "title": "US politicians push agencies to restrict research collaboration with China",
       "summary": "Nature, Published online: 16 July 2026; doi:10.1038/d41586-026-02226-9 Republicans and Democrats worry about research theft and exploitation — but don’t agree on how to solve the problem.",
-      "date": "2026-07-17"
-    },
-    {
-      "title": "Mullin pledges to go after voter fraud after Trump revives election interference claims",
-      "summary": "Homeland Security Secretary Markwayne Mullin spoke about election security a day after President Trump claimed during his primetime address that China interfered in the 2020 election. CBS News' Jake Rosen joins to discuss Mullin's remarks.",
-      "date": "2026-07-17"
+      "date": "2026-07-18"
     },
     {
       "title": "China calls Trump's election interference claims \"pure fabrication\"",
@@ -42,6 +37,21 @@
       "date": "2026-07-17"
     },
     {
+      "title": "Trump Pursues a Deeper Bond With China’s Leader, Despite Hostile Speech",
+      "summary": "Chinese officials appear to think that President Trump’s accusations that China interfered in the 2020 U.S. elections were driven by domestic politics, not foreign policy.",
+      "date": "2026-07-17"
+    },
+    {
+      "title": "US politicians push agencies to restrict research collaboration with China",
+      "summary": "Nature, Published online: 16 July 2026; doi:10.1038/d41586-026-02226-9 Republicans and Democrats worry about research theft and exploitation — but don’t agree on how to solve the problem.",
+      "date": "2026-07-17"
+    },
+    {
+      "title": "Mullin pledges to go after voter fraud after Trump revives election interference claims",
+      "summary": "Homeland Security Secretary Markwayne Mullin spoke about election security a day after President Trump claimed during his primetime address that China interfered in the 2020 election. CBS News' Jake Rosen joins to discuss Mullin's remarks.",
+      "date": "2026-07-17"
+    },
+    {
       "title": "Trump administration to declassify documents relating to China and U.S. elections",
       "summary": "President Donald Trump addressed the nation from the White House, announcing that the administration will declassify documents related to the 2020 election and alleged influence by China.",
       "date": "2026-07-17"
@@ -50,25 +60,9 @@
       "title": "Trump speaks on elections, alleges Chinese access to voter data | Special Report",
       "summary": "President Trump on Thursday delivered a primetime address about election security where he railed against China. Tony Dokoupil anchored CBS News' special report.",
       "date": "2026-07-17"
-    },
-    {
-      "title": "How paper ballots make digital manipulation of results unlikely",
-      "summary": "NBC News’ Jane Timm analyzes President Trump’s claims about digital manipulation of ballot results in the U.S., as Trump said that the White House will declassify documents related to the 2020 election and alleged influence by China during his speech to the nation.",
-      "date": "2026-07-17"
-    },
-    {
-      "title": "Trump Uses Prime-Time Speech to Revive False Election Claims",
-      "summary": "President Donald Trump used his prime-time speech Thursday to raise questions about election integrity in the build-up to November’s key midterms while reviving false claims about the 2020 election and asserting that China targeted his campaign. NBC’s Gabe Gutierrez reports for TODAY.",
-      "date": "2026-07-17"
     }
   ],
   "sources": [
-    {
-      "title": "Mullin pledges to go after voter fraud after Trump revives election interference claims",
-      "url": "https://www.cbsnews.com/video/mullin-pledges-to-go-after-voter-fraud-trump-revives-election-interference-claims/?utm_source=lootura.com",
-      "publishedAt": "2026-07-17T16:27:13.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
     {
       "title": "China calls Trump's election interference claims \"pure fabrication\"",
       "url": "https://www.cbsnews.com/video/china-calls-trump-election-interference-claims-pure-fabrication/?utm_source=lootura.com",
@@ -78,7 +72,7 @@
     {
       "title": "US politicians push agencies to restrict research collaboration with China",
       "url": "https://www.nature.com/articles/d41586-026-02226-9?utm_source=lootura.com",
-      "publishedAt": "2026-07-17T20:52:05.085Z",
+      "publishedAt": "2026-07-18T02:11:54.056Z",
       "sourceId": "lootura-us-nature"
     },
     {
@@ -98,6 +92,12 @@
       "url": "https://www.pbs.org/newshour/politics/china-warns-of-reciprocal-countermeasures-after-u-s-shortens-foreign-journalist-visas?utm_source=lootura.com",
       "publishedAt": "2026-07-17T17:25:32.000Z",
       "sourceId": "lootura-us-pbs-newshour"
+    },
+    {
+      "title": "Trump Pursues a Deeper Bond With China’s Leader, Despite Hostile Speech",
+      "url": "https://www.nytimes.com/2026/07/17/us/politics/trump-speech-china-xi.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-17T21:29:41.000Z",
+      "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
   "evidenceCount": 6

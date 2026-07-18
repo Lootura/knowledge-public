@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/white-house/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/white-house/index.json",
   "description": "Follow White House, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-17T20:52:01.362Z",
+  "updatedAt": "2026-07-18T02:11:50.603Z",
   "aliases": [],
   "changes": [
     {
-      "title": "White House teleprompter operator allegedly made over $100K betting on Trump's speeches",
-      "summary": "The prediction market Kalshi alleges President Trump's longtime teleprompter operator engaged in trading, betting on the words the president would use in speeches. Jo Ling Kent reports.",
+      "title": "Trump encourages Darline Graham to run for Lindsey Graham's seat",
+      "summary": "Darline Graham indicated in a White House meeting Thursday that she's weighing a bid, CBS News confirmed. A day later, President Trump wrote on Truth Social: \"RUN, DARLINE, RUN! \".",
+      "date": "2026-07-17"
+    },
+    {
+      "title": "Trump says these documents prove his false claims of election fraud. Here's what they really say",
+      "summary": "\"The White House promised a bombshell, and they delivered a dud,\" said David Becker, executive director of the Center for Election Innovation & Research.",
       "date": "2026-07-17"
     },
     {
@@ -22,8 +27,13 @@
       "date": "2026-07-17"
     },
     {
-      "title": "Trump encourages Darline Graham to run for Lindsey Graham's seat",
-      "summary": "Darline Graham indicated in a White House meeting Thursday that she's weighing a bid, CBS News confirmed. A day later, President Trump wrote on Truth Social: \"RUN, DARLINE, RUN! \".",
+      "title": "White House teleprompter operator allegedly made over $100K betting on Trump's speeches",
+      "summary": "The prediction market Kalshi alleges President Trump's longtime teleprompter operator engaged in trading, betting on the words the president would use in speeches. Jo Ling Kent reports.",
+      "date": "2026-07-17"
+    },
+    {
+      "title": "Trump Brings Full Weight of Government to Bolster False Election Claims",
+      "summary": "Intelligence agencies provided the White House with a trove of declassified documents that President Trump cited on Thursday as evidence of election vulnerabilities.",
       "date": "2026-07-17"
     },
     {
@@ -50,25 +60,9 @@
       "title": "How paper ballots make digital manipulation of results unlikely",
       "summary": "NBC News’ Jane Timm analyzes President Trump’s claims about digital manipulation of ballot results in the U.S., as Trump said that the White House will declassify documents related to the 2020 election and alleged influence by China during his speech to the nation.",
       "date": "2026-07-17"
-    },
-    {
-      "title": "Federal panel signals it could support permanent fencing around White House park known for protests",
-      "summary": "A historic hub for free speech and protest is under the spotlight as the Trump administration proposes adding permanent fencing around Lafayette Square.",
-      "date": "2026-07-17"
-    },
-    {
-      "title": "Special Report: Trump delivers speech on White House declassification of election documents",
-      "summary": "Watch full coverage as President Donald Trump addresses the nation from the White House. Trump announced that the White House will declassify documents related to the 2020 election and alleged Chinese influence. NBC News' Hallie Jackson, Dan De Luce, and Kelly O'Donnell provide analysis of Trump’s remarks.",
-      "date": "2026-07-17"
     }
   ],
   "sources": [
-    {
-      "title": "White House teleprompter operator allegedly made over $100K betting on Trump's speeches",
-      "url": "https://www.cbsnews.com/video/white-house-teleprompter-operator-allegedly-made-over-100k-betting-on-trumps-speeches/?utm_source=lootura.com",
-      "publishedAt": "2026-07-17T12:59:09.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
     {
       "title": "Trump encourages Darline Graham to run for Lindsey Graham's seat",
       "url": "https://www.cbsnews.com/news/darline-graham-us-senate-south-carolina-lindsey-graham/?utm_source=lootura.com",
@@ -76,10 +70,16 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
+      "title": "Trump says these documents prove his false claims of election fraud. Here's what they really say",
+      "url": "https://www.pbs.org/newshour/politics/trump-says-these-documents-prove-his-false-claims-of-election-fraud-heres-what-they-really-say?utm_source=lootura.com",
+      "publishedAt": "2026-07-17T23:08:36.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
+    },
+    {
       "title": "Trump Brings Full Weight of Government to Bolster False Election Claims",
       "url": "https://www.nytimes.com/2026/07/17/us/politics/trump-government-election-claims.html?utm_source=lootura.com",
       "publishedAt": "2026-07-17T19:39:31.000Z",
-      "sourceId": "lootura-us-the-new-york-times-politics"
+      "sourceId": "lootura-us-the-new-york-times"
     }
   ],
   "evidenceCount": 3

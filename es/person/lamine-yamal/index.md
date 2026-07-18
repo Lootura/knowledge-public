@@ -3,7 +3,7 @@
 > Sigue la actividad de Lamine Yamal en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-17T17:09:01.091Z
+- Actualizado: 2026-07-18T02:11:28.247Z
 - Canonical: https://atlas.lootura.com/es/person/lamine-yamal
 
 ## Cambios recientes
@@ -64,4 +64,4 @@ Date: 2026-07-08
 
 ## Fuentes
 
-No public source links.
+- [‘Dibu’ Martínez: «España no es sólo Lamine, tiene una gran Selección que trabaja mucho»](https://okdiario.com/mundial/dibu-martinez-espana-no-solo-lamine-tiene-gran-seleccion-que-trabaja-mucho-19020578?utm_source=lootura.com) — 2026-07-17T23:45:27.000Z

@@ -70,4 +70,4 @@ Date: 2026-07-14
 
 ## Sources
 
-- [Trump Threatens Canada With Tariffs for Wildfire Smoke Over U.S.](https://www.nytimes.com/2026/07/17/weather/wildfire-smoke-canada-us-politics.html?utm_source=lootura.com) — 2026-07-17T20:42:58.000Z
+No public source links.

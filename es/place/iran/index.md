@@ -3,7 +3,7 @@
 > Sigue la actividad de Iran en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-17T20:51:38.016Z
+- Actualizado: 2026-07-18T02:11:28.247Z
 - Canonical: https://atlas.lootura.com/es/place/iran
 
 ## Cambios recientes
@@ -11,6 +11,12 @@
 ### EEUU destruye una torre de vigilancia que Irán usaba para atacar buques en Ormuz
 
 El Ejército estadounidense destruyó una torre de vigilancia que Irán usaba para atacar a los buques comerciales en el estrecho de Ormuz , lo que permitirá «proteger» la navegación en la vía marítima, afirmó este viernes el Comando Central de Estados Unidos (Centcom). «Las fuerzas de EE. UU. destruyeron con éxito la tor.
+
+Date: 2026-07-17
+
+### Estados Unidos lanza una ola de ataques contra Irán por séptimo día consecutivo
+
+Trump anunció la semana pasada la cancelación del memorando de entendimiento que había firmado el 18 de junio.
 
 Date: 2026-07-17
 
@@ -62,12 +68,7 @@ Los mercados siguen encontrando obstáculos que atenazan sus subidas. La nueva e
 
 Date: 2026-07-16
 
-### Trump amenaza con atacar infraestructuras civiles si Irán no vuelve a negociar
-
-Estados Unidos ha reimpuesto el bloqueo naval sobre los puertos iraníes y ha intensificado su campaña de bombardeos contra la república islámica, en una nueva escalada de ataques que amenaza con devolver a Oriente Próximo a una guerra abierta y que vuelve a situar el estrecho de Ormuz en el centro del enfrentamiento.La.
-
-Date: 2026-07-16
-
 ## Fuentes
 
 - [EEUU destruye una torre de vigilancia que Irán usaba para atacar buques en Ormuz](https://theobjective.com/internacional/2026-07-17/eeuu-torre-vigilancia-iran-buques-ormuz/?utm_source=lootura.com) — 2026-07-17T19:22:42.000Z
+- [Estados Unidos lanza una ola de ataques contra Irán por séptimo día consecutivo](https://theobjective.com/internacional/2026-07-17/estados-unidos-iran-septimo-dia-consecutivo/?amp=&utm_source=lootura.com) — 2026-07-17T21:48:08.000Z

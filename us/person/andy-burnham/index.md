@@ -1,18 +1,12 @@
 # Andy Burnham
 
-> Follow Andy Burnham, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
+> Follow Andy Burnham, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
-- Type: person
-- Updated: 2026-07-17T20:52:01.362Z
+- Type: organization
+- Updated: 2026-07-18T02:11:50.603Z
 - Canonical: https://atlas.lootura.com/us/person/andy-burnham
 
 ## Recent changes
-
-### Who is Andy Burnham, the man becoming Britain's next prime minister?
-
-The man replacing U.K. Prime Minister Keir Starmer is Andy Burnham, known as the "King of the North.".
-
-Date: 2026-07-17
 
 ### New Prime Minister Faces Old Problems: How to Make Britain’s Economy Grow
 
@@ -32,8 +26,13 @@ The former mayor of Greater Manchester was the only contender in the center-left
 
 Date: 2026-07-17
 
+### Who is Andy Burnham, the man becoming Britain's next prime minister?
+
+The man replacing U.K. Prime Minister Keir Starmer is Andy Burnham, known as the "King of the North.".
+
+Date: 2026-07-17
+
 ## Sources
 
-- [Who is Andy Burnham, the man becoming Britain's next prime minister?](https://www.cbsnews.com/news/keir-starmer-resigns-who-is-andy-burnham-likely-next-uk-prime-minister/?utm_source=lootura.com) — 2026-07-17T12:55:31.000Z
 - [Andy Burnham is declared leader of UK's Labour Party, pledges to restore hope](https://www.pbs.org/newshour/world/andy-burnham-is-declared-leader-of-uks-labour-party-pledges-to-restore-hope?utm_source=lootura.com) — 2026-07-17T18:41:55.000Z
 - [New Prime Minister Faces Old Problems: How to Make Britain’s Economy Grow](https://www.nytimes.com/2026/07/17/business/britain-andy-burnham-prime-minister.html?utm_source=lootura.com) — 2026-07-17T12:50:10.000Z

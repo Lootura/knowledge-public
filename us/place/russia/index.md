@@ -3,20 +3,20 @@
 > Follow Russia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-17T20:52:01.362Z
+- Updated: 2026-07-18T02:11:50.603Z
 - Canonical: https://atlas.lootura.com/us/place/russia
 
 ## Recent changes
 
-### Ukraine fights under an interim defense chief after Zelenskyy's contested government shake-up
-
-Ukraine fought Russia's more than 4-year-old invasion under an interim defense minister Friday, a day after a government reshuffle exposed a deep split between the military's old guard and young innovators over how to fight the war.
-
-Date: 2026-07-17
-
 ### A Putin critic is convicted on charges that will keep him from campaigning for Russia's parliament
 
 The verdict underlined the determination by authorities to stamp out any remaining sign of dissent ahead of September's vote as the fuel crisis caused by Ukrainian strikes on oil facilities across Russia threatened to erode public support for the Kremlin.
+
+Date: 2026-07-17
+
+### Ukraine fights under an interim defense chief after Zelenskyy's contested government shake-up
+
+Ukraine fought Russia's more than 4-year-old invasion under an interim defense minister Friday, a day after a government reshuffle exposed a deep split between the military's old guard and young innovators over how to fight the war.
 
 Date: 2026-07-17
 
@@ -71,4 +71,3 @@ Date: 2026-07-14
 ## Sources
 
 - [A Putin critic is convicted on charges that will keep him from campaigning for Russia's parliament](https://www.pbs.org/newshour/world/a-putin-critic-is-convicted-on-charges-that-will-keep-him-from-campaigning-for-russias-parliament?utm_source=lootura.com) — 2026-07-17T19:14:01.000Z
-- [Ukraine fights under an interim defense chief after Zelenskyy's contested government shake-up](https://www.pbs.org/newshour/world/ukraine-fights-under-an-interim-defense-chief-after-zelenskyys-contested-government-shake-up?utm_source=lootura.com) — 2026-07-17T15:47:54.000Z

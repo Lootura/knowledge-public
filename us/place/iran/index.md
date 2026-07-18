@@ -3,7 +3,7 @@
 > Follow Iran, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-17T20:52:01.362Z
+- Updated: 2026-07-18T02:11:50.603Z
 - Canonical: https://atlas.lootura.com/us/place/iran
 
 ## Recent changes
@@ -70,6 +70,7 @@ Date: 2026-07-16
 
 ## Sources
 
+- [Gas prices rise as U.S. and Iran escalate attacks](https://www.nbcnews.com/nightly-news/video/gas-prices-rise-as-u-s-and-iran-escalate-attacks-266868293836?utm_source=lootura.com) — 2026-07-17T23:03:28.000Z
 - [As U.S. strikes bridges in Iran, it targets a water desalination plant in Kuwait](https://www.pbs.org/newshour/world/as-u-s-strikes-bridges-in-iran-it-targets-a-water-desalination-plant-in-kuwait?utm_source=lootura.com) — 2026-07-17T19:41:09.000Z
 - [What a Times Reporter Saw in Iran, and Takeaways from Trump’s Speech on Election Security](https://www.nytimes.com/2026/07/17/podcasts/the-headlines/iran-trump-speech-election-security.html?utm_source=lootura.com) — 2026-07-17T11:24:48.000Z
 - [Oil Prices Rise to Highest Level in a Month as Shipping in the Persian Gulf Nears a Halt](https://www.nytimes.com/2026/07/17/business/strait-hormuz-iran-oil-prices.html?utm_source=lootura.com) — 2026-07-17T19:28:52.000Z

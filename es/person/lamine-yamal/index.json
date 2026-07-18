@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/lamine-yamal/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/lamine-yamal/index.json",
   "description": "Sigue la actividad de Lamine Yamal en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-17T17:09:01.091Z",
+  "updatedAt": "2026-07-18T02:11:28.247Z",
   "aliases": [],
   "changes": [
     {
@@ -57,6 +57,13 @@
       "date": "2026-07-08"
     }
   ],
-  "sources": [],
+  "sources": [
+    {
+      "title": "‘Dibu’ Martínez: «España no es sólo Lamine, tiene una gran Selección que trabaja mucho»",
+      "url": "https://okdiario.com/mundial/dibu-martinez-espana-no-solo-lamine-tiene-gran-seleccion-que-trabaja-mucho-19020578?utm_source=lootura.com",
+      "publishedAt": "2026-07-17T23:45:27.000Z",
+      "sourceId": "lootura-es-ok-diario"
+    }
+  ],
   "evidenceCount": 0
 }

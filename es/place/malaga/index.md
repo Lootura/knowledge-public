@@ -3,7 +3,7 @@
 > Sigue la actividad de Málaga en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-17T09:54:46.288Z
+- Actualizado: 2026-07-18T02:11:28.247Z
 - Canonical: https://atlas.lootura.com/es/place/malaga
 
 ## Cambios recientes
@@ -11,6 +11,12 @@
 ### Discovered by Atlas
 
 Málaga first entered the public knowledge record with source-backed evidence.
+
+Date: 2026-07-17
+
+### José María Almoguera aclara la polémica por la venta de la casa de María Teresa Campos: «Hemos confiado en alguien que la ha liado»
+
+José María Almoguera vuelve a situarse en el centro de la actualidad, aunque esta vez no es por su vida sentimental. El hijo de Carmen Borrego ha sido señalado tras la inesperada aparición de la casa que María Teresa Campos tenía en Málaga en un conocido portal inmobiliario. El inmueble, adquirido por la periodista en.
 
 Date: 2026-07-17
 
@@ -40,4 +46,4 @@ Date: 2026-07-17
 
 ## Fuentes
 
-No public source links.
+- [José María Almoguera aclara la polémica por la venta de la casa de María Teresa Campos: «Hemos confiado en alguien que la ha liado»](https://okdiario.com/cool/television/jose-maria-almoguera-aclara-polemica-venta-casa-maria-teresa-campos-hemos-confiado-alguien-que-liado-19021138?utm_source=lootura.com) — 2026-07-17T23:14:01.000Z

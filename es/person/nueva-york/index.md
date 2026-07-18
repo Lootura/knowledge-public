@@ -3,7 +3,7 @@
 > Sigue la actividad de Nueva York en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-17T20:51:38.016Z
+- Actualizado: 2026-07-18T02:11:28.247Z
 - Canonical: https://atlas.lootura.com/es/person/nueva-york
 
 ## Cambios recientes
@@ -22,4 +22,4 @@ Date: 2026-07-17
 
 ## Fuentes
 
-- [Una escolta de exporteros al servicio de la selección y De la Fuente](https://www.abc.es/deportes/futbol/mundial/escolta-fuente-ejercito-exporteros-servicio-seleccion-20260716200221-nt.html?utm_source=lootura.com) — 2026-07-17T19:13:42.000Z
+- [De Connecticut a Nueva York, la obsesión del capitán Rodri: "Lleva todo el año con eso en la cabeza"](https://www.elmundo.es/deportes/futbol/mundial-de-futbol/2026/07/17/6a5a4724fc6c830f3d8b45af.html?utm_source=lootura.com) — 2026-07-17T20:56:25.000Z

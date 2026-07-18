@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/santos-cerd/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/santos-cerd/index.json",
   "description": "Sigue la actividad de Santos Cerd en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-17T20:51:38.016Z",
+  "updatedAt": "2026-07-18T02:11:28.247Z",
   "aliases": [],
   "changes": [
     {
@@ -19,11 +19,11 @@
   ],
   "sources": [
     {
-      "title": "La esposa de Cerdán fue contratada por un \"entramado\" de su socio y despedida tras la detención de Koldo, según la UCO",
-      "url": "https://www.20minutos.es/nacional/esposa-cerdan-fue-contratada-por-un-entramado-su-socio-despedida-tras-detencion-koldo-segun-uco_7016093_0.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-17T17:42:27.000Z",
-      "sourceId": "lootura-es-20minutos"
+      "title": "La UCO concluye que Cerdán dispuso de \"numeroso dinero en metálico en la etapa ministerial de Ábalos\"",
+      "url": "https://amp.elmundo.es/espana/2026/07/17/6a5a14e821efa0ed1b8b4590.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-17T11:44:04.000Z",
+      "sourceId": "lootura-es-el-mundo"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 0
 }

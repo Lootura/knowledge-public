@@ -3,7 +3,7 @@
 > Follow Lindsey Graham, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-07-17T20:52:01.362Z
+- Updated: 2026-07-18T02:11:50.603Z
 - Canonical: https://atlas.lootura.com/us/person/lindsey-graham
 
 ## Recent changes
@@ -11,6 +11,12 @@
 ### Trump encourages Darline Graham to run for Lindsey Graham's seat
 
 Darline Graham indicated in a White House meeting Thursday that she's weighing a bid, CBS News confirmed. A day later, President Trump wrote on Truth Social: "RUN, DARLINE, RUN! ".
+
+Date: 2026-07-17
+
+### Trump Endorses Graham for Senate, Scrambling South Carolina Primary
+
+Senator Darline Graham had been seen as a caretaker for her brother’s seat after his sudden death. Now she has the president’s nod in what was shaping up to be a crowded fight to succeed Lindsey Graham.
 
 Date: 2026-07-17
 
@@ -62,13 +68,7 @@ South Carolina Gov. Henry McMaster says he is appointing Darline Graham to finis
 
 Date: 2026-07-14
 
-### Trump says he doesn't see a lot of "evil" in Lindsey Graham's death when asked about FBI probe
-
-President Trump took questions in the Oval Office and commented on an apparent FBI probe into Lindsey Graham's death, saying he doesn't see a lot of "evil" behind the sudden incident.
-
-Date: 2026-07-14
-
 ## Sources
 
 - [Trump encourages Darline Graham to run for Lindsey Graham's seat](https://www.cbsnews.com/news/darline-graham-us-senate-south-carolina-lindsey-graham/?utm_source=lootura.com) — 2026-07-17T19:44:10.000Z
-- [Trump urges Darline Graham to run for full Senate term as funeral planned for her brother](https://www.pbs.org/newshour/politics/trump-urges-darline-graham-to-run-for-full-senate-term-as-funeral-planned-for-her-brother?utm_source=lootura.com) — 2026-07-17T20:30:54.000Z
+- [Trump Endorses Graham for Senate, Scrambling South Carolina Primary](https://www.nytimes.com/2026/07/17/us/politics/trump-endorses-darline-graham-senate.html?utm_source=lootura.com) — 2026-07-17T21:50:44.000Z

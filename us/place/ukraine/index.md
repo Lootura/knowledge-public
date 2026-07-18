@@ -70,4 +70,4 @@ Date: 2026-07-16
 
 ## Sources
 
-- [Ukraine fights under an interim defense chief after Zelenskyy's contested government shake-up](https://www.pbs.org/newshour/world/ukraine-fights-under-an-interim-defense-chief-after-zelenskyys-contested-government-shake-up?utm_source=lootura.com) — 2026-07-17T15:47:54.000Z
+No public source links.

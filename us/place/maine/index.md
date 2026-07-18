@@ -3,20 +3,20 @@
 > Follow Maine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-17T20:52:01.362Z
+- Updated: 2026-07-18T02:11:50.603Z
 - Canonical: https://atlas.lootura.com/us/place/maine
 
 ## Recent changes
 
-### ‘Professional malpractice’: The Platner fallout engulfs the operatives who made him
-
-When Daniel Moraff showed up on Graham Platner's doorstep last summer, the oyster farmer had a message for the young political operative who had traveled to the Maine coast to convince him to run for the U.S. Senate: "Get the fuck off my property." It took weeks of prodding before Platner relented, according to two peo.
-
-Date: 2026-07-17
-
 ### ICE officer in Maine shooting has history of violent behavior, relatives say
 
 The Immigration and Customs Enforcement officer who shot and killed a Colombian man in Maine this week is an Army veteran who has struggled with serious mental health issues since early childhood, relatives say.
+
+Date: 2026-07-17
+
+### ‘Professional malpractice’: The Platner fallout engulfs the operatives who made him
+
+When Daniel Moraff showed up on Graham Platner's doorstep last summer, the oyster farmer had a message for the young political operative who had traveled to the Maine coast to convince him to run for the U.S. Senate: "Get the fuck off my property." It took weeks of prodding before Platner relented, according to two peo.
 
 Date: 2026-07-17
 
@@ -71,5 +71,3 @@ Date: 2026-07-15
 ## Sources
 
 - [ICE officer in Maine shooting has history of violent behavior, relatives say](https://www.cbsnews.com/news/ice-shooting-maine-officer-history-violent-behavior/?utm_source=lootura.com) — 2026-07-17T16:32:00.000Z
-- [Maine shooting and officer's background raise new questions about ICE's rapid hiring](https://www.pbs.org/newshour/nation/maine-shooting-and-officers-background-raise-new-questions-about-ices-rapid-hiring?utm_source=lootura.com) — 2026-07-17T14:50:47.000Z
-- [‘Professional malpractice’: The Platner fallout engulfs the operatives who made him](https://www.politico.com/news/2026/07/17/platner-is-finished-does-the-same-fate-await-the-out-of-state-consultants-who-recruited-him-01002652?utm_source=lootura.com) — 2026-07-17T09:55:00.000Z

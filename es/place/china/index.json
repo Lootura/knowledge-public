@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/china/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/china/index.json",
   "description": "Sigue la actividad de China en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-17T20:51:38.016Z",
+  "updatedAt": "2026-07-18T02:11:28.247Z",
   "aliases": [],
   "changes": [
     {
@@ -64,23 +64,11 @@
   ],
   "sources": [
     {
-      "title": "China lanza Kimi K3, el modelo de IA abierta más grande del mundo",
-      "url": "https://www.abc.es/tecnologia/china-lanza-kimi-modelo-ia-abierta-grande-20260717221042-nt_amp.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-17T20:10:43.000Z",
-      "sourceId": "lootura-es-abc"
-    },
-    {
-      "title": "Qué fue del cohete reutilizable que Rusia anunció hace 6 años y debía volar en 2026",
-      "url": "https://www.larazon.es/tecnologia/que-fue-cohete-reutilizable-que-rusia-anuncio-hace-6-anos-debia-volar-2026_202607176a5a81841db8de040994ba0c.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-17T20:00:17.000Z",
-      "sourceId": "lootura-es-la-razon"
-    },
-    {
-      "title": "China exige a Trump que aparque el «invento» de la presunta injerencia electoral en 2020",
-      "url": "https://theobjective.com/internacional/2026-07-17/china-trump-invento-injerencia-electoral/?utm_source=lootura.com",
-      "publishedAt": "2026-07-17T16:30:35.000Z",
-      "sourceId": "lootura-es-the-objective"
+      "title": "China busca encabezar un nuevo orden mundial de la Inteligencia Artificial",
+      "url": "https://elpais.com/internacional/2026-07-17/china-busca-encabezar-un-nuevo-orden-mundial-de-la-inteligencia-artificial.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-17T15:32:23.000Z",
+      "sourceId": "lootura-es-el-pais"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 0
 }

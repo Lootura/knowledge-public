@@ -3,7 +3,7 @@
 > Sigue la actividad de Audiencia Nacional en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-17T20:51:38.016Z
+- Actualizado: 2026-07-18T02:11:28.247Z
 - Canonical: https://atlas.lootura.com/es/organization/audiencia-nacional
 
 ## Cambios recientes
@@ -23,12 +23,6 @@ Date: 2026-07-17
 ### Mercedes González, sobre las presiones a un general para boicotear a Ayuso: «Yo no dicté la orden»
 
 «Yo no la dicté». Esa ha sido la respuesta de la directora de la Guardia Civil Mercedes González cuando le han preguntado este viernes en la Audiencia Nacional si ella fue la persona que dictó la «instrucción política» para que el general jefe de la zona de Madrid, Fernando Mora, plantará al Gobierno de Isabel Díaz Ayu.
-
-Date: 2026-07-17
-
-### El imputado DAO de la Guardia Civil critica las pesquisas de la UCO con «proactividad tóxica»
-
-Al director adjunto operativo (DAO) de la Guardia Civil, el teniente general Manuel Llamas, se le acumulan las explicaciones. Este jueves declaró como investigado ante la Audiencia Nacional por dos presuntos delitos de prevaricación y obstrucción a la Justicia en el marco de las 'cloacas' del PSOE, presuntamente lidera.
 
 Date: 2026-07-17
 
@@ -65,6 +59,12 @@ Date: 2026-07-16
 ### ¿Cuál es el recorrido judicial de Puigdemont tras el aval de la justicia europea a la amnistía?
 
 El Tribunal de Justicia de la Unión Europea (TJUE) ha avalado este jueves la ley de Amnistía que aprobó el Congreso en el 2024 en respuesta a las cuestiones prejudiciales que elevaron sobre el olvido penal tanto el Tribunal de Cuentas como la Audiencia Nacional , sobre la posibilidad de amnistiar los delitos de malvers.
+
+Date: 2026-07-16
+
+### Caso Leire Díez, en directo: Declaran la directora de la Guardia Civil y el DAO en la Audiencia Nacional
+
+La Audiencia Nacional afronta este jueves una jornada clave del ' caso Leire Díez '. El juez Santiago Pedraz interrogará como investigados a la directora general de la Guardia Civil, Mercedes González, y al director adjunto operativo (DAO), Manuel Llamas. Todo ello, dentro de la investigación sobre la presunta trama pa.
 
 Date: 2026-07-16
 
