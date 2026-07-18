@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/china/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/china/index.json",
   "description": "Follow China, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-18T09:22:30.189Z",
+  "updatedAt": "2026-07-18T13:08:56.904Z",
   "aliases": [],
   "changes": [
     {
@@ -17,13 +17,18 @@
       "date": "2026-07-18"
     },
     {
-      "title": "China calls Trump's election interference claims \"pure fabrication\"",
-      "summary": "A spokesman for the Chinese Ministry of Foreign Affairs denied President Trump's claims of election interference in the 2020 election. CBS News foreign correspondent Anna Coren reports.",
+      "title": "Fact-checking Trump's address on China, the 2020 election and what documents show",
+      "summary": "President Donald Trump quoted years-old intelligence community documents, including some that had been declassified or partially redacted, without noting a distinction between what China may have planned versus what analysts say it did.",
       "date": "2026-07-17"
     },
     {
-      "title": "Fact-checking Trump's address on China, the 2020 election and what documents show",
-      "summary": "President Donald Trump quoted years-old intelligence community documents, including some that had been declassified or partially redacted, without noting a distinction between what China may have planned versus what analysts say it did.",
+      "title": "Trump Pursues a Deeper Bond With China’s Leader, Despite Hostile Speech",
+      "summary": "Chinese officials appear to think that President Trump’s accusations that China interfered in the 2020 U.S. elections were driven by domestic politics, not foreign policy.",
+      "date": "2026-07-17"
+    },
+    {
+      "title": "China calls Trump's election interference claims \"pure fabrication\"",
+      "summary": "A spokesman for the Chinese Ministry of Foreign Affairs denied President Trump's claims of election interference in the 2020 election. CBS News foreign correspondent Anna Coren reports.",
       "date": "2026-07-17"
     },
     {
@@ -34,11 +39,6 @@
     {
       "title": "China warns of reciprocal countermeasures after U.S. shortens foreign journalist visas",
       "summary": "The Trump administration announced Thursday it will drastically shorten visas for foreign journalists in the U.S. to 240 days, down from years, and cut those for Chinese journalists to only 90 days, raising concerns over press freedom in the United States and prompting China to warn of possible reciprocal countermeasur.",
-      "date": "2026-07-17"
-    },
-    {
-      "title": "Trump Pursues a Deeper Bond With China’s Leader, Despite Hostile Speech",
-      "summary": "Chinese officials appear to think that President Trump’s accusations that China interfered in the 2020 U.S. elections were driven by domestic politics, not foreign policy.",
       "date": "2026-07-17"
     },
     {
@@ -64,12 +64,6 @@
   ],
   "sources": [
     {
-      "title": "China calls Trump's election interference claims \"pure fabrication\"",
-      "url": "https://www.cbsnews.com/video/china-calls-trump-election-interference-claims-pure-fabrication/?utm_source=lootura.com",
-      "publishedAt": "2026-07-17T17:56:44.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
-    {
       "title": "US politicians push agencies to restrict research collaboration with China",
       "url": "https://www.nature.com/articles/d41586-026-02226-9?utm_source=lootura.com",
       "publishedAt": "2026-07-18T09:22:33.855Z",
@@ -82,23 +76,11 @@
       "sourceId": "lootura-us-pbs-newshour"
     },
     {
-      "title": "Landslide in southwestern China kills at least 8 and leaves 34 missing",
-      "url": "https://www.pbs.org/newshour/world/landslide-in-southwestern-china-kills-at-least-8-and-leaves-34-missing?utm_source=lootura.com",
-      "publishedAt": "2026-07-17T18:16:49.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
-    },
-    {
-      "title": "China warns of reciprocal countermeasures after U.S. shortens foreign journalist visas",
-      "url": "https://www.pbs.org/newshour/politics/china-warns-of-reciprocal-countermeasures-after-u-s-shortens-foreign-journalist-visas?utm_source=lootura.com",
-      "publishedAt": "2026-07-17T17:25:32.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
-    },
-    {
       "title": "Trump Pursues a Deeper Bond With China’s Leader, Despite Hostile Speech",
       "url": "https://www.nytimes.com/2026/07/17/us/politics/trump-speech-china-xi.html?utm_source=lootura.com",
       "publishedAt": "2026-07-17T21:29:41.000Z",
       "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 6
+  "evidenceCount": 3
 }

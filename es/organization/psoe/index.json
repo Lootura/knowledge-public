@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/psoe/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/psoe/index.json",
   "description": "Sigue la actividad de Partido Socialista Obrero Español en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-18T09:22:10.056Z",
+  "updatedAt": "2026-07-18T13:08:36.432Z",
   "aliases": [
     "Partido Socialista",
     "Partido Socialista Obrero Español"
@@ -20,9 +20,19 @@
       "date": "2026-07-18"
     },
     {
+      "title": "El PSOE elige candidata para la alcaldía de Madrid este domingo: Enma López desafía a Reyes Maroto",
+      "summary": "La militancia del PSOE en Madrid , Oviedo, Ferrol y Torrelavega está llamada a votar este domingo, 19 de julio, para escoger a los cabezas de lista que concurrirán a las elecciones previstas para mayo de 2027. Es la primera parada del calendario de primarias aprobado por el Comité Federal el pasado 27 de junio. El plan.",
+      "date": "2026-07-18"
+    },
+    {
       "title": "La UCO constata que Cerdán casi no retiró dinero desde 2019: lo achaca a una fuente de efectivo \"no originada en cuentas bancarias\"",
       "summary": "La UCO ha aportado finalmente el informe sobre el patrimonio de Santos Cerdán que viene elaborando desde hace un año y ha concluido que el ex número tres del PSOE apenas retiró efectivo en efectivo desde 2019, posiblemente porque contaba con \"una fuente de dinero no originada en cuentas bancarias\" . El atestado, al que.",
       "date": "2026-07-18"
+    },
+    {
+      "title": "Junts descarta reconciliarse con Sánchez tras la amnistía: \"Esto no allana volver con el PSOE. Que cumpla con los catalanes o se vaya\"",
+      "summary": "\"Esta sentencia no llega gracias al PSOE, sino por nuestra persistencia\", alega la dirección de los independentistas para plantar a los socialistas Leer.",
+      "date": "2026-07-17"
     },
     {
       "title": "La UCO desvela que Cerdán intentó comprar un piso de casi un millón con las mordidas a Servinabar",
@@ -32,11 +42,6 @@
     {
       "title": "Cerdán disparó su gasto en cash mientras Ábalos adjudicaba contratos",
       "summary": "El último informe de la Unidad Central Operativa (UCO) de la Guardia Civil complica la estrategia de defensa del ex secretario de Organización del PSOE Santos Cerdán al...",
-      "date": "2026-07-17"
-    },
-    {
-      "title": "Junts descarta reconciliarse con Sánchez tras la amnistía: \"Esto no allana volver con el PSOE. Que cumpla con los catalanes o se vaya\"",
-      "summary": "\"Esta sentencia no llega gracias al PSOE, sino por nuestra persistencia\", alega la dirección de los independentistas para plantar a los socialistas Leer.",
       "date": "2026-07-17"
     },
     {
@@ -58,25 +63,14 @@
       "title": "La UCO apunta a que la esposa de Cerdán cobró 1.300 euros mensuales de una empresa para la que no trabajaba",
       "summary": "El informe de la Unidad Central Operativa (UCO) de la Guardia Civil sobre el patrimonio del exsecretario de Organización del PSOE Santos Cerdán apunta a que una mercantil ligada al empresario Antxon Alonso, amigo del exdirigente socialista, estuvo pagando 1.300 euros al mes a Francisca Muñoz, esposa del dirigente socia.",
       "date": "2026-07-17"
-    },
-    {
-      "title": "Servinabar intentó comprar para Cerdán un piso en Madrid valorado en cerca de un millón de euros, según la UCO",
-      "summary": "El informe elaborado por la Unidad Central Operativa (UCO) de la Guardia Civil sobre el patrimonio del exsecretario de Organización del PSOE Santos Cerdán revela que, entre septiembre y octubre de 2021, una de las empresas clave de la trama negoció la compra de una vivienda de lujo en Madrid para que fuera usada por el.",
-      "date": "2026-07-17"
     }
   ],
   "sources": [
     {
-      "title": "La UCO desvela que Cerdán intentó comprar un piso de casi un millón con las mordidas a Servinabar",
-      "url": "https://www.elcorreo.com/politica/uco-desvela-cerdan-intento-comprar-piso-millon-20260715141134-ntrc_amp.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-17T12:11:34.000Z",
-      "sourceId": "lootura-es-el-correo"
-    },
-    {
-      "title": "Cerdán disparó su gasto en cash mientras Ábalos adjudicaba contratos",
-      "url": "https://amp.elmundo.es/espana/2026/07/17/6a5a777621efa0247d8b4592.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-17T20:50:06.000Z",
-      "sourceId": "lootura-es-el-mundo"
+      "title": "El PSOE elige candidata para la alcaldía de Madrid este domingo: Enma López desafía a Reyes Maroto",
+      "url": "https://www.elconfidencial.com/espana/2026-07-18/primarias-psoe-madrid-torrelavega-oviedo-1tps_4392193/?utm_source=lootura.com",
+      "publishedAt": "2026-07-18T10:18:00.000Z",
+      "sourceId": "lootura-es-el-confidencial"
     },
     {
       "title": "Junts descarta reconciliarse con Sánchez tras la amnistía: \"Esto no allana volver con el PSOE. Que cumpla con los catalanes o se vaya\"",
@@ -91,5 +85,5 @@
       "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 4
+  "evidenceCount": 3
 }

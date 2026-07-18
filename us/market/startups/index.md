@@ -3,7 +3,7 @@
 > Follow Startups, a tracked market, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: market
-- Updated: 2026-07-18T09:22:30.189Z
+- Updated: 2026-07-18T13:08:56.904Z
 - Canonical: https://atlas.lootura.com/us/market/startups
 
 ## Recent changes
@@ -28,4 +28,4 @@ Date: 2026-07-10
 
 ## Sources
 
-- [Trump's team says 'no children' died from USAID cuts. Consider these 3 cases](https://www.npr.org/2026/07/17/g-s1-133651/usaid-elon-musk-rubio-deaths?utm_source=lootura.com) — 2026-07-17T10:37:02.000Z
+- [Israeli ministers announce plans for new illegal settlements in Gaza and West Bank](https://www.theguardian.com/world/2026/jul/18/israel-plan-new-illegal-settlements-gaza-west-bank-occupied-palestine?utm_source=lootura.com) — 2026-07-18T06:00:50.000Z

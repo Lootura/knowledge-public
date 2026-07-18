@@ -70,4 +70,4 @@ Date: 2026-07-17
 
 ## Fuentes
 
-- [Begoña Gómez de Kirchner](https://theobjective.com/elsubjetivo/opinion/2026-07-18/begona-gomez-articulo-jorge-vilches/?utm_source=lootura.com) — 2026-07-18T03:25:00.000Z
+No public source links.

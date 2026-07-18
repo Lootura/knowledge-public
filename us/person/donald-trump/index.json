@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/donald-trump/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/donald-trump/index.json",
   "description": "Follow Donald Trump, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-18T09:22:30.189Z",
+  "updatedAt": "2026-07-18T13:08:56.904Z",
   "aliases": [
     "President Donald Trump",
     "President Trump",
@@ -16,18 +16,13 @@
   ],
   "changes": [
     {
-      "title": "Trump fumes over Canadian wildfire smoke and issues tariff threat",
-      "summary": "President Donald Trump on Friday pledged to hold Canada responsible for costs associated with unhealthy air quality in the U.S. due to spreading smoke from the Canadian wildfires.",
-      "date": "2026-07-18"
-    },
-    {
       "title": "What to know about Trump's claim that over 250K non-citizens are registered to vote",
       "summary": "Homeland Security Secretary Markwayne Mullin sent letters to four states alleging that a combined 250,000 non-citizens were registered to vote. Elections experts caution that could be a significant overcount.",
       "date": "2026-07-18"
     },
     {
       "title": "Funding milestone detected",
-      "summary": "Defence minister seeks three ‘Naha’ outposts in Gaza as top commander says Israel now controls 65% of the strip, violating Trump ceasefire deal Israel’s defence and finance ministers announced plans for three illegal settlements in Gaza and more than $400m (£300m) in funding to expand construction in the occupied West.",
+      "summary": "Defence minister seeks three ‘Nahal’ outposts in Gaza as top commander says Israel now controls 65% of the strip, violating Trump ceasefire deal Israel’s defence and finance ministers announced plans for three illegal settlements in Gaza and more than $400m (£300m) in funding to expand construction in the occupied West.",
       "date": "2026-07-18"
     },
     {
@@ -38,6 +33,21 @@
     {
       "title": "As Trump Scraps With Meloni, His Envoy to Italy Is at Sea",
       "summary": "Tilman J. Fertitta, the U.S. ambassador to Rome, is summering on his superyacht as President Trump squabbles with Prime Minister Giorgia Meloni of Italy.",
+      "date": "2026-07-18"
+    },
+    {
+      "title": "Kai Trump reveals new celebrity crush after ditching 'Outer Banks' star Drew Starkey",
+      "summary": "Kai Trump is pushing \"Outer Banks\" star Drew Starkey to the side and filling her celebrity crush spot with the one and only Theo James. During an interview with Fox News Digital, Kai – who is President Donald Trump 's granddaughter – explained that her taste has evolved since she revealed that Starkey was her celebrity.",
+      "date": "2026-07-18"
+    },
+    {
+      "title": "Week in Politics: Trump's speech; midterm elections; Todd Blanche and Jay Clayton",
+      "summary": "Three months from the November midterms, President Trump is drawing attention to issues that are not top priorities for voters.",
+      "date": "2026-07-18"
+    },
+    {
+      "title": "Trump fumes over Canadian wildfire smoke and issues tariff threat",
+      "summary": "President Donald Trump on Friday pledged to hold Canada responsible for costs associated with unhealthy air quality in the U.S. due to spreading smoke from the Canadian wildfires.",
       "date": "2026-07-18"
     },
     {
@@ -54,16 +64,6 @@
       "title": "What to know about the Trump administration's claim that 250K non-citizens are registered to vote in 4 states",
       "summary": "Homeland Security Secretary Markwayne Mullin sent letters to four states alleging that a combined 250,000 non-citizens were registered to vote. Elections experts caution that could be a significant overcount.",
       "date": "2026-07-18"
-    },
-    {
-      "title": "Funding milestone detected",
-      "summary": "Both Marco Rubio and Elon Musk, who led the effort to sunset the foreign aid agency, have said that no deaths have been linked to the cutting of its funding. These parents tell a different story. (Image credit: From left: David Augustine, Lameck Nyagudi and Kazeem Olawale Nasiru for NPR).",
-      "date": "2026-07-17"
-    },
-    {
-      "title": "What a Times Reporter Saw in Iran, and Takeaways from Trump’s Speech on Election Security",
-      "summary": "Plus, the Friday news quiz.",
-      "date": "2026-07-17"
     }
   ],
   "sources": [
@@ -80,27 +80,21 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "China calls Trump's election interference claims \"pure fabrication\"",
-      "url": "https://www.cbsnews.com/video/china-calls-trump-election-interference-claims-pure-fabrication/?utm_source=lootura.com",
-      "publishedAt": "2026-07-17T17:56:44.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
-    {
-      "title": "Trump fumes over Canadian wildfire smoke and issues tariff threat",
-      "url": "https://www.nbcnews.com/politics/donald-trump/trump-fumes-canadian-wildfire-smoke-issues-tariff-threat-rcna588122?utm_source=lootura.com",
-      "publishedAt": "2026-07-18T01:18:17.000Z",
-      "sourceId": "lootura-us-nbc-news-politics"
-    },
-    {
-      "title": "Trump's team says 'no children' died from USAID cuts. Consider these 3 cases",
-      "url": "https://www.npr.org/2026/07/17/g-s1-133651/usaid-elon-musk-rubio-deaths?utm_source=lootura.com",
-      "publishedAt": "2026-07-17T10:37:02.000Z",
-      "sourceId": "lootura-us-npr"
+      "title": "Kai Trump reveals new celebrity crush after ditching 'Outer Banks' star Drew Starkey",
+      "url": "https://www.foxnews.com/entertainment/kai-trump-reveals-new-celebrity-crush-after-ditching-outer-banks-star-drew-starkey?utm_source=lootura.com",
+      "publishedAt": "2026-07-18T12:56:39.000Z",
+      "sourceId": "lootura-us-fox-news"
     },
     {
       "title": "Trump promised evidence of election fraud. Experts say there was none",
       "url": "https://www.npr.org/2026/07/17/nx-s1-5897446/trump-promised-evidence-of-election-fraud-experts-say-there-was-none?utm_source=lootura.com",
       "publishedAt": "2026-07-17T20:19:25.000Z",
+      "sourceId": "lootura-us-npr-politics"
+    },
+    {
+      "title": "Week in Politics: Trump's speech; midterm elections; Todd Blanche and Jay Clayton",
+      "url": "https://www.npr.org/2026/07/18/nx-s1-5894907/week-in-politics-trumps-speech-midterm-elections-todd-blanche-and-jay-clayton?utm_source=lootura.com",
+      "publishedAt": "2026-07-18T11:42:09.000Z",
       "sourceId": "lootura-us-npr-politics"
     },
     {
@@ -126,7 +120,13 @@
       "url": "https://www.pbs.org/newshour/show/brooks-and-capehart-on-what-trump-is-trying-to-accomplish-with-his-election-claims?utm_source=lootura.com",
       "publishedAt": "2026-07-17T22:40:33.000Z",
       "sourceId": "lootura-us-pbs-newshour"
+    },
+    {
+      "title": "Battleground state election officials respond to Trump's efforts to reshape voting process",
+      "url": "https://www.pbs.org/newshour/show/battleground-state-election-officials-respond-to-trumps-efforts-to-reshape-voting-process?utm_source=lootura.com",
+      "publishedAt": "2026-07-17T22:50:20.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
     }
   ],
-  "evidenceCount": 22
+  "evidenceCount": 17
 }

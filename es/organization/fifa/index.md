@@ -3,7 +3,7 @@
 > Sigue la actividad de FIFA en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-18T09:22:10.056Z
+- Actualizado: 2026-07-18T13:08:36.432Z
 - Canonical: https://atlas.lootura.com/es/organization/fifa
 
 ## Cambios recientes
@@ -28,4 +28,4 @@ Date: 2026-07-08
 
 ## Fuentes
 
-- [Messi reacciona a su foto con Lamine Yamal cuando era bebé: "Es una locura"](https://www.20minutos.es/deportes/futbol/messi-reacciona-su-foto-con-lamine-yamal-cuando-era-bebe-es-una-locura_7016147_0.html?utm_source=lootura.com) — 2026-07-18T08:16:20.000Z
+- [Leo Messi, el ‘Que viva España’ de Manolo Escobar y la queja de Luis de la Fuente: “A mí me han enseñado a tener respeto”](https://elpais.com/deportes/mundial-futbol/2026-07-18/leo-messi-el-que-viva-espana-de-manolo-escobar-y-la-queja-de-luis-de-la-fuente-a-mi-me-han-ensenado-a-tener-respeto.html?utm_source=lootura.com) — 2026-07-18T01:06:10.000Z

@@ -8,11 +8,16 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/belgium/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/belgium/index.json",
   "description": "Sigue la actividad de Bélgica en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-14T20:58:20.799Z",
+  "updatedAt": "2026-07-18T13:08:36.432Z",
   "aliases": [
     "Belgica"
   ],
   "changes": [
+    {
+      "title": "Fernando Alonso es penalizado en el GP de Bélgica y saldrá último, pero con un nuevo AMR26",
+      "summary": "Aston Martin no se ha quedado de brazos cruzados tras ver que las mejoras preparadas para el GP de Bélgica no han dado resultados . El monoplaza está a casi cinco segundos del mejor tiempo y Fernando Alons o no tiene opciones de competir. La escudería ha sustituido todos los componentes esenciales de la parte eléctrica.",
+      "date": "2026-07-18"
+    },
     {
       "title": "De la Fuente vuelve a apostar por Fabián en la semifinal ante Francia",
       "summary": "Luis de la Fuente ha apostado por repetir el mismo once que batió a Bélgica en cuartos de final para medirse a la todopoderosa Francia en la semifinal de Dallas. Eso significa que en el centro del campo volverá a iniciar Fabián y Pedri estará en el banquillo. Seguir leyendo...",
@@ -57,13 +62,15 @@
       "title": "Oyarzabal: «¿Yo la estrella de España? Me considero un competidor»",
       "summary": "El atacante de la Real Sociedad subraya la importancia de la presión alta antes del duelo de cuartos ante Bélgica.",
       "date": "2026-07-09"
-    },
-    {
-      "title": "Eloy Olaya: «El gol de Iniesta nos liberó a todos de esa vitola de perdedores»",
-      "summary": "El infausto protagonista del España-Bélgica de 1986 compara dos citas separadas por un abismo de 40 años: «Hoy habría sido muy duro para mí, en las redes sociales hay gente muy cruel».",
-      "date": "2026-07-09"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Fernando Alonso es penalizado en el GP de Bélgica y saldrá último, pero con un nuevo AMR26",
+      "url": "https://okdiario.com/deportes/fernando-alonso-penalizado-gp-belgica-saldra-ultimo-pero-nuevo-amr26-19022468?utm_source=lootura.com",
+      "publishedAt": "2026-07-18T12:47:21.000Z",
+      "sourceId": "lootura-es-ok-diario"
+    }
+  ],
+  "evidenceCount": 1
 }

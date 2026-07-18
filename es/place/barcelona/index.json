@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/barcelona/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/barcelona/index.json",
   "description": "Sigue la actividad de Barcelona en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-18T09:22:10.056Z",
+  "updatedAt": "2026-07-18T13:08:36.432Z",
   "aliases": [],
   "changes": [
     {
       "title": "Dos detenidos por robar joyas valoradas en más de 8.500 euros en una joyería de Barcelona",
       "summary": "Los Mossos d'Esquadra detuvieron el pasado martes a un hombre de 36 años y a una mujer de 25 como presuntos autores de un robo con fuerza en una joyería del distrito de Gràcia de Barcelona, donde sustrajeron joyas valoradas en 8.530 euros, según han informado este sábado en un comunicado. Los hechos ocurrieron el pasad.",
+      "date": "2026-07-18"
+    },
+    {
+      "title": "Los Mossos detienen a una pareja reincidente por el robo de joyas valoradas en 8.000 euros",
+      "summary": "Los Mossos d’Esquadra detuvieron el pasado martes a un hombre de 36 años y a una mujer de 25 como presuntos autores de un robo con fuerza en una joyería del distrito de Gràcia de Barcelona, donde sustrajeron joyas valoradas en 8.530 euros, según han informado este sábado en un comunicado. Los hechos ocurrieron el pasad.",
       "date": "2026-07-18"
     },
     {
@@ -55,11 +60,6 @@
       "title": "Maribel Martínez de Murguía: «La felicidad solo se consigue jugando para ganar»",
       "summary": "«Estamos dormidos, anestesiados, y nos estamos perdiendo muchas oportunidades». Maribel Martínez de Murguía , campeona olímpica en Barcelona'92 con el equipo nacional de hockey hierba y actualmente entrenadora de talento en empresas y organizaciones, lo tiene claro y pone el ejemplo de la gente que al final de sus días.",
       "date": "2026-07-15"
-    },
-    {
-      "title": "Salvador Illa improvisa una reunión con la cónsul de Francia en Barcelona para agitar la polémica sobre las declaraciones de Mariano Rajoy",
-      "summary": "El encuentro no estaba previsto en la agenda del presidente catalán hasta primera hora de esta mañana Leer.",
-      "date": "2026-07-14"
     }
   ],
   "sources": [
@@ -68,7 +68,13 @@
       "url": "https://www.larazon.es/cataluna/dos-detenidos-robar-joyas-valoradas-mas-8500-euros-joyeria-barcelona_202607186a5b43761db8de040995ba3f.html?utm_source=lootura.com",
       "publishedAt": "2026-07-18T09:12:22.000Z",
       "sourceId": "lootura-es-la-razon"
+    },
+    {
+      "title": "Los Mossos detienen a una pareja reincidente por el robo de joyas valoradas en 8.000 euros",
+      "url": "https://theobjective.com/sociedad/suceso/2026-07-18/mossos-pareja-reincidente-robo-de-joyas-8-000-euros/?utm_source=lootura.com",
+      "publishedAt": "2026-07-18T10:28:25.000Z",
+      "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 2
 }

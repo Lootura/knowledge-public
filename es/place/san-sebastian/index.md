@@ -70,4 +70,4 @@ Date: 2026-07-12
 
 ## Fuentes
 
-- [Cinco jóvenes investigados por insultar y agredir a un hombre con la camiseta de España en el paseo de La Concha de San Sebastián](https://www.diariovasco.com/san-sebastian/cinco-jovenes-investigados-insultar-agredir-hombre-camiseta-espana-20260717112639-nt_amp.html?utm_source=lootura.com) — 2026-07-17T09:28:07.000Z
+No public source links.

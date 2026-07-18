@@ -3,7 +3,7 @@
 > Sigue la actividad de Alberto Núñez Feijóo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-18T09:22:10.056Z
+- Actualizado: 2026-07-18T13:08:36.432Z
 - Canonical: https://atlas.lootura.com/es/person/alberto-nunez-feijoo
 
 ## Cambios recientes
@@ -11,6 +11,36 @@
 ### Feijóo anuncia a los 50 candidatos a las alcaldías de provincia, entre ellos Gema Igual
 
 El presidente nacional del PP, Alberto Núñez Feijóo , presentará este sábado en Santiago de Compostela a los 50 cabezas de lista para las alcaldías de capitales de provincia . Mantendrá a los 30 actuales regidores -entre ellos la alcaldesa de Santander, Gema Igual - y renovará 11 candidaturas en las 20 capitales donde.
+
+Date: 2026-07-18
+
+### Feijóo vaticina que «las urnas serán también la sentencia» del sanchismo
+
+En la semana en que se ha conocido el tercer fallo judicial relacionado con los escándalos que afectan al Gobierno, Alberto Núñez Feijóo ha vaticinado que «las urnas también serán la sentencia» de un sanchismo «que ya ha sido condenado en todas sus formas de corrupción» y «España hará justicia, y a cada uno le impondrá.
+
+Date: 2026-07-18
+
+### Feijóo pide "decencia" en una España "harta de mentiras": "El sanchismo ha sido condenado en todas sus formas"
+
+El líder del Partido Popular, en su discurso, ha arremetido contra el presidente del Gobierno, Pedro Sánchez: "Aún hay más de una decena de tramas en los juzgados".
+
+Date: 2026-07-18
+
+### Feijóo pide al PP «ganar, ganar y volver a ganar» en las municipales: «Las urnas serán la sentencia del sanchismo»
+
+El presidente del PP, Alberto Núñez Feijóo , ha presentado este sábado en Santiago de Compostela (Galicia) a los 54 candidatos de su formación en capitales de provincia, capitales de comunidad autónoma y las siete grandes ciudades gallegas para las próximas elecciones municipales del próximo 23 de mayo. El líder popula.
+
+Date: 2026-07-18
+
+### Almeida en la presentación de los candidatos de Feijóo a las municipales: «Tenemos el mejor equipo y el mejor seleccionador»
+
+El alcalde de Madrid y aspirante a la reelección en las próximas elecciones municipales, José Luis Martínez-Almeida , ha puesto en valor el conjunto de candidaturas del PP en las capitales de provincia para estos comicios, y el papel de su líder, Alberto Núñez Feijóo . «Tenemos el mejor equipo y el mejor seleccionador.
+
+Date: 2026-07-18
+
+### Feijóo presenta este sábado en Santiago a los candidatos del PP a las capitales de provincia
+
+El líder del Partido Popular , Alberto Núñez Feijóo , presenta este sábado, día 18 de julio, a los candidatos de su formación a las capitales de provincia de toda España de cara a las elecciones municipales del 2027 . El acto tendrá lugar en la Cidade da Cultura de Santiago de Compostela y en él también intervendrá el.
 
 Date: 2026-07-18
 
@@ -38,36 +68,11 @@ El presidente del Partido Popular, Alberto Núñez Feijóo , ha subrayado este m
 
 Date: 2026-07-16
 
-### CC OO exige a CEOE la retirada de una polémica campaña publicitaria sobre el absentismo: “Mientras unos no están, otros esperan”
-
-Las ausencias al trabajo que provocan las bajas por enfermedad centraron el debate público la semana pasada cuando el presidente del Partido Popular, Alberto Núñez Feijóo, se refirió a este fenómeno como “un cáncer” . Una semana después, la polémica continúa con una campaña publicitaria que CEOE ha desplegado en Cantab.
-
-Date: 2026-07-16
-
-### Feijóo: “Los demócratas respetamos las sentencias y punto”
-
-Tras l a decisión del Tribunal de Justicia de la Unión Europea (TJUE) de avalar la ley de amnistía , que zanja el debate jurídico, el Partido Popular ha tratado de reorientar su rechazo a la norma al terreno político y moral. Los populares han declarado su “respeto absoluto al fallo del Tribunal” en un breve comunicado.
-
-Date: 2026-07-16
-
-### La presión electoral calienta las listas del PP
-
-Feijóo anticipa a sus cabeza de cartel municipales. Los necesita para tensar la batalla de las generales.
-
-Date: 2026-07-16
-
-### El PP impulsa el vínculo con Latinoamérica en la UE para competir con China
-
-La reunión de líderes europeos e hispanoamericanos de centroderecha en el Foro Libertas, ayer en Madrid, sirvió para que Alberto Núñez Feijóo les trasladase su vocación de...
-
-Date: 2026-07-15
-
-### Feijóo eleva al máximo su crítica a Sánchez tras la condena de su hermano y lo llama "presidente autoritario"
-
-En un foro con líderes europeos e hispanoamericanos, acusa al PSOE de "agredir" a la democracia "desde las más altas instancias" Leer.
-
-Date: 2026-07-15
-
 ## Fuentes
 
+- [Feijóo vaticina que «las urnas serán también la sentencia» del sanchismo](https://www.abc.es/espana/galicia/feijoo-vaticina-urnas-sentencia-sanchismo-20260718120339-nt.html?utm_source=lootura.com) — 2026-07-18T12:49:47.000Z
 - [Feijóo anuncia a los 50 candidatos a las alcaldías de provincia, entre ellos Gema Igual](https://www.elconfidencial.com/espana/2026-07-18/pp-candidatos-elecciones-municipales-2027-1tps_4392175/?utm_source=lootura.com) — 2026-07-18T09:15:00.000Z
+- [Feijóo pide "decencia" en una España "harta de mentiras": "El sanchismo ha sido condenado en todas sus formas"](https://www.elconfidencial.com/espana/2026-07-18/feijoo-anuncia-a-los-50-candidatos-alcaldias-de-provincia-gema-igual_4392191/?utm_source=lootura.com) — 2026-07-18T09:15:00.000Z
+- [Feijóo pide al PP «ganar, ganar y volver a ganar» en las municipales: «Las urnas serán la sentencia del sanchismo»](https://okdiario.com/espana/feijoo-pide-pp-ganar-ganar-volver-ganar-proximas-municipales-urnas-seran-sentencia-del-sanchismo-19022170?utm_source=lootura.com) — 2026-07-18T12:05:44.000Z
+- [Almeida en la presentación de los candidatos de Feijóo a las municipales: «Tenemos el mejor equipo y el mejor seleccionador»](https://okdiario.com/espana/almeida-presentacion-candidatos-feijoo-municipales-tenemos-mejor-equipo-mejor-seleccionador-19022224?utm_source=lootura.com) — 2026-07-18T12:42:51.000Z
+- [Feijóo presenta este sábado en Santiago a los candidatos del PP a las capitales de provincia](https://theobjective.com/espana/politica/2026-07-18/feijoo-candidatos-pp-capitales-provincia/?utm_source=lootura.com) — 2026-07-18T10:55:13.000Z

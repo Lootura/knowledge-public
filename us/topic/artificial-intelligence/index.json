@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/topic/artificial-intelligence/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/topic/artificial-intelligence/index.json",
   "description": "Follow Artificial intelligence, a tracked topic, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-18T09:22:30.189Z",
+  "updatedAt": "2026-07-18T13:08:56.904Z",
   "aliases": [
     "AI",
     "machine learning"
@@ -83,13 +83,7 @@
       "url": "https://www.nature.com/articles/d41586-026-01389-9?utm_source=lootura.com",
       "publishedAt": "2026-07-18T09:22:33.855Z",
       "sourceId": "lootura-us-nature"
-    },
-    {
-      "title": "Prompt Injection Attacks Are Thwarting AI Hacking Agents",
-      "url": "https://www.wired.com/story/prompt-injection-attacks-are-thwarting-ai-hacking-agents/?utm_source=lootura.com",
-      "publishedAt": "2026-07-18T09:00:00.000Z",
-      "sourceId": "lootura-us-wired"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 2
 }

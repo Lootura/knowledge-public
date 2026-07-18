@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/lamine-yamal/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/lamine-yamal/index.json",
   "description": "Sigue la actividad de Lamine Yamal en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-18T09:22:10.056Z",
+  "updatedAt": "2026-07-18T13:08:36.432Z",
   "aliases": [],
   "changes": [
     {
@@ -64,11 +64,11 @@
   ],
   "sources": [
     {
-      "title": "Messi reacciona a su foto con Lamine Yamal cuando era bebé: \"Es una locura\"",
-      "url": "https://www.20minutos.es/deportes/futbol/messi-reacciona-su-foto-con-lamine-yamal-cuando-era-bebe-es-una-locura_7016147_0.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-18T08:16:20.000Z",
-      "sourceId": "lootura-es-20minutos"
+      "title": "José Andrés: «La España del Mundial es muy chula, muy diversa y muy unida»",
+      "url": "https://www.abc.es/deportes/futbol/mundial/jose-andres-espana-querida-eeuu-encima-politico-20260717000357-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-18T12:43:19.000Z",
+      "sourceId": "lootura-es-abc"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 0
 }

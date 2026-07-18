@@ -34,5 +34,4 @@ Date: 2026-07-17
 
 ## Sources
 
-- [Andy Burnham is declared leader of UK's Labour Party, pledges to restore hope](https://www.pbs.org/newshour/world/andy-burnham-is-declared-leader-of-uks-labour-party-pledges-to-restore-hope?utm_source=lootura.com) — 2026-07-17T18:41:55.000Z
-- [New Prime Minister Faces Old Problems: How to Make Britain’s Economy Grow](https://www.nytimes.com/2026/07/17/business/britain-andy-burnham-prime-minister.html?utm_source=lootura.com) — 2026-07-17T12:50:10.000Z
+No public source links.

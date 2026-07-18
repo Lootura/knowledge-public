@@ -3,10 +3,16 @@
 > Sigue la actividad de Bélgica en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-14T20:58:20.799Z
+- Actualizado: 2026-07-18T13:08:36.432Z
 - Canonical: https://atlas.lootura.com/es/place/belgium
 
 ## Cambios recientes
+
+### Fernando Alonso es penalizado en el GP de Bélgica y saldrá último, pero con un nuevo AMR26
+
+Aston Martin no se ha quedado de brazos cruzados tras ver que las mejoras preparadas para el GP de Bélgica no han dado resultados . El monoplaza está a casi cinco segundos del mejor tiempo y Fernando Alons o no tiene opciones de competir. La escudería ha sustituido todos los componentes esenciales de la parte eléctrica.
+
+Date: 2026-07-18
 
 ### De la Fuente vuelve a apostar por Fabián en la semifinal ante Francia
 
@@ -62,12 +68,6 @@ El atacante de la Real Sociedad subraya la importancia de la presión alta antes
 
 Date: 2026-07-09
 
-### Eloy Olaya: «El gol de Iniesta nos liberó a todos de esa vitola de perdedores»
-
-El infausto protagonista del España-Bélgica de 1986 compara dos citas separadas por un abismo de 40 años: «Hoy habría sido muy duro para mí, en las redes sociales hay gente muy cruel».
-
-Date: 2026-07-09
-
 ## Fuentes
 
-No public source links.
+- [Fernando Alonso es penalizado en el GP de Bélgica y saldrá último, pero con un nuevo AMR26](https://okdiario.com/deportes/fernando-alonso-penalizado-gp-belgica-saldra-ultimo-pero-nuevo-amr26-19022468?utm_source=lootura.com) — 2026-07-18T12:47:21.000Z

@@ -3,7 +3,7 @@
 > Sigue la actividad de Pedro Sánchez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-18T09:22:10.056Z
+- Actualizado: 2026-07-18T13:08:36.432Z
 - Canonical: https://atlas.lootura.com/es/person/pedro-sanchez
 
 ## Cambios recientes
@@ -11,6 +11,12 @@
 ### La guerra entró por la ventana y se quedó 40 años: recuerdos del niño al que perseguían las bombas
 
 “Yo tenía 10 años”, relata Nicolás Sánchez-Albornoz , “y estaba enfermo, en la cama. Vivíamos en la calle Ferraz, justo en la esquina de la plaza de España, y una parte daba al Cuartel de la Montaña. Cuando lo asaltaron, las barridas de las ametralladoras llegaron a las habitaciones de mis hermanas, que, afortunadament.
+
+Date: 2026-07-18
+
+### Feijóo pide "decencia" en una España "harta de mentiras": "El sanchismo ha sido condenado en todas sus formas"
+
+El líder del Partido Popular, en su discurso, ha arremetido contra el presidente del Gobierno, Pedro Sánchez: "Aún hay más de una decena de tramas en los juzgados".
 
 Date: 2026-07-18
 
@@ -62,13 +68,8 @@ El último informe sobre el Estado de derecho de la Comisión Europea ha supuest
 
 Date: 2026-07-17
 
-### Vicente Vallés, contundente tras ver que Begoña Gómez será juzgada por un jurado popular
-
-Begoña Gómez será juzgada por un jurado popular junto a su asesora en Moncloa, Cristina Álvarez. La Audiencia Provincial de Madrid ha avalado el criterio del juez Juan Carlos Peinado y ha confirmado que la causa se tramite por esta vía.La esposa de Pedro Sánchez está acusada de un presunto delito de tráfico de influenc.
-
-Date: 2026-07-17
-
 ## Fuentes
 
+- [Feijóo pide "decencia" en una España "harta de mentiras": "El sanchismo ha sido condenado en todas sus formas"](https://www.elconfidencial.com/espana/2026-07-18/feijoo-anuncia-a-los-50-candidatos-alcaldias-de-provincia-gema-igual_4392191/?utm_source=lootura.com) — 2026-07-18T09:15:00.000Z
 - [Junts descarta reconciliarse con Sánchez tras la amnistía: "Esto no allana volver con el PSOE. Que cumpla con los catalanes o se vaya"](https://www.elmundo.es/cataluna/2026/07/18/6a5a6254e85eceee518b45a6.html?utm_source=lootura.com) — 2026-07-17T23:17:24.000Z
 - [La guerra entró por la ventana y se quedó 40 años: recuerdos del niño al que perseguían las bombas](https://elpais.com/espana/2026-07-18/la-guerra-entro-por-la-ventana-y-se-quedo-40-anos-recuerdos-del-nino-al-que-perseguian-las-bombas.html?utm_source=lootura.com) — 2026-07-18T03:30:01.000Z

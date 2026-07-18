@@ -3,10 +3,16 @@
 > Sigue la actividad de Apple en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: company
-- Actualizado: 2026-07-18T02:11:28.247Z
+- Actualizado: 2026-07-18T13:08:36.432Z
 - Canonical: https://atlas.lootura.com/es/company/apple
 
 ## Cambios recientes
+
+### Si tienes Android, esta es la mejor alternativa a la Play Store: encuentra apps en GitHub, las descarga e instala con un solo clic
+
+Cada vez son más los usuarios de Android que buscan alternativas a la Play Store para instalar aplicaciones. Con la puesta en marcha de la Ley de Mercados Digitales , Google y Apple tuvieron que abrir sus ecosistemas para permitir tiendas de terceros. Esto no ha resultado del todo intuitivo, pero existe una app conocid.
+
+Date: 2026-07-18
 
 ### Apple Music sube de precio: esto pagarás a partir de hoy
 
@@ -62,12 +68,6 @@ prepara una revolución para su próximo procesador de gama alta. El M7 Ultra po
 
 Date: 2026-07-13
 
-### Olvídate de un iPhone 18 sin subida de precio: el plan de Apple ha fallado. Puedes ir ahorrando (más)
-
-Al parecer, dentro de las pésimas noticias sobre los precios de la memoria RAM , compañías como Apple tenían un as guardado en la manga para paliar las subidas drásticas en sus productos. Pues bien, hoy no solo hemos conocido cuál era ese plan maravilloso, también sabemos que la de Cupertino no podrá llevarlo a cabo. E.
-
-Date: 2026-07-13
-
 ## Fuentes
 
-No public source links.
+- [Si tienes Android, esta es la mejor alternativa a la Play Store: encuentra apps en GitHub, las descarga e instala con un solo clic](https://hipertextual.com/mobile/repostore-tienda-apps-github-android/?utm_source=lootura.com) — 2026-07-18T10:00:00.000Z

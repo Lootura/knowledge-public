@@ -8,11 +8,16 @@
   "markdownUrl": "https://atlas.lootura.com/es/company/apple/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/company/apple/index.json",
   "description": "Sigue la actividad de Apple en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-18T02:11:28.247Z",
+  "updatedAt": "2026-07-18T13:08:36.432Z",
   "aliases": [
     "Apple Inc"
   ],
   "changes": [
+    {
+      "title": "Si tienes Android, esta es la mejor alternativa a la Play Store: encuentra apps en GitHub, las descarga e instala con un solo clic",
+      "summary": "Cada vez son más los usuarios de Android que buscan alternativas a la Play Store para instalar aplicaciones. Con la puesta en marcha de la Ley de Mercados Digitales , Google y Apple tuvieron que abrir sus ecosistemas para permitir tiendas de terceros. Esto no ha resultado del todo intuitivo, pero existe una app conocid.",
+      "date": "2026-07-18"
+    },
     {
       "title": "Apple Music sube de precio: esto pagarás a partir de hoy",
       "summary": "Malas noticias para los usuarios de Apple Music : desde hoy, el servicio es más caro. La plataforma de música en streaming de la manzana acaba de subir de precio y España se encuentra entre los países afectados. Es el primer encarecimiento que el servicio sufre desde 2022 e impacta tanto en el plan Individual, como en.",
@@ -57,13 +62,15 @@
       "title": "Apple prepara una revolución: el chip M7 Ultra triplicará la memoria de sus Mac más potentes",
       "summary": "prepara una revolución para su próximo procesador de gama alta. El M7 Ultra podría llegar con soporte para hasta 1,5 TB de memoria unificada según nuevas filtraciones. Esta cifra multiplicaría por tres la capacidad máxima que hasta hace unos meses ofrecía el M3 Ultra en el Mac Studio. Según recoge Bloomberg , App.",
       "date": "2026-07-13"
-    },
-    {
-      "title": "Olvídate de un iPhone 18 sin subida de precio: el plan de Apple ha fallado. Puedes ir ahorrando (más)",
-      "summary": "Al parecer, dentro de las pésimas noticias sobre los precios de la memoria RAM , compañías como Apple tenían un as guardado en la manga para paliar las subidas drásticas en sus productos. Pues bien, hoy no solo hemos conocido cuál era ese plan maravilloso, también sabemos que la de Cupertino no podrá llevarlo a cabo. E.",
-      "date": "2026-07-13"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Si tienes Android, esta es la mejor alternativa a la Play Store: encuentra apps en GitHub, las descarga e instala con un solo clic",
+      "url": "https://hipertextual.com/mobile/repostore-tienda-apps-github-android/?utm_source=lootura.com",
+      "publishedAt": "2026-07-18T10:00:00.000Z",
+      "sourceId": "lootura-es-hipertextual"
+    }
+  ],
+  "evidenceCount": 1
 }

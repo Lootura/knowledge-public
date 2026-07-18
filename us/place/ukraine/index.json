@@ -8,11 +8,21 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/ukraine/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/ukraine/index.json",
   "description": "Follow Ukraine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-17T20:52:01.362Z",
+  "updatedAt": "2026-07-18T13:08:56.904Z",
   "aliases": [
     "Kyiv"
   ],
   "changes": [
+    {
+      "title": "Ukrainian drone attacks on Russia kill at least 8, injure over 60",
+      "summary": "Kyiv's forces are continuing their relentless aerial campaign​ against energy infrastructure and military targets inside Russia.",
+      "date": "2026-07-18"
+    },
+    {
+      "title": "8 killed and more than 60 wounded in Ukrainian drone attack on Russian regions",
+      "summary": "Kyiv's forces are continuing their aerial campaign against energy infrastructure and military targets inside Russia, aiming to undermine Moscow's war effort. (Image credit: Moscow Region Governor Andrei Vo).",
+      "date": "2026-07-18"
+    },
     {
       "title": "Ukraine fights under an interim defense chief after Zelenskyy's contested government shake-up",
       "summary": "Ukraine fought Russia's more than 4-year-old invasion under an interim defense minister Friday, a day after a government reshuffle exposed a deep split between the military's old guard and young innovators over how to fight the war.",
@@ -52,18 +62,21 @@
       "title": "Meet Sergii Koretskyi, Ukraine’s New Prime Minister After Major Government Reshuffle",
       "summary": "Sergii Koretskyi speaks during a briefing with government officials in Kyiv, Ukraine, on March 5, 2026. —Danylo Antoniuk/Ukrinform—Getty Images Sergii Koretskyi was confirmed as Ukraine’s new Prime Minister on Thursday as part of a government reshuffle led by President Volodymyr Zelensky . Koretskyi's appointment , bac.",
       "date": "2026-07-16"
-    },
-    {
-      "title": "Ukraine’s Ousted Defense Minister Attacks the Military’s Old Guard",
-      "summary": "Mykhailo Fedorov defended his efforts to modernize the Ukrainian armed forces as thousands of people protested his dismissal.",
-      "date": "2026-07-16"
-    },
-    {
-      "title": "The Essentials About Mykhailo Fedorov, the Ousted Ukrainian Minister",
-      "summary": "Mr. Fedorov became the youthful face of Ukraine’s successful drone warfare program. The move to replace him has prompted street protests.",
-      "date": "2026-07-16"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Ukrainian drone attacks on Russia kill at least 8, injure over 60",
+      "url": "https://www.cbsnews.com/news/ukraine-russia-war-drone-attacks-wildberries/?utm_source=lootura.com",
+      "publishedAt": "2026-07-18T11:26:33.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
+    {
+      "title": "8 killed and more than 60 wounded in Ukrainian drone attack on Russian regions",
+      "url": "https://www.npr.org/2026/07/18/nx-s1-5898963/8-killed-and-more-than-60-wounded-in-ukrainian-drone-attack-on-russian-regions?utm_source=lootura.com",
+      "publishedAt": "2026-07-18T10:45:43.000Z",
+      "sourceId": "lootura-us-npr-world"
+    }
+  ],
+  "evidenceCount": 2
 }

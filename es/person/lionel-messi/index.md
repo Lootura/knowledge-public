@@ -3,7 +3,7 @@
 > Sigue la actividad de Lionel Messi en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-18T09:22:10.056Z
+- Actualizado: 2026-07-18T13:08:36.432Z
 - Canonical: https://atlas.lootura.com/es/person/lionel-messi
 
 ## Cambios recientes
@@ -19,12 +19,6 @@ Date: 2026-07-18
 Todo el mundo habla de la fotografía en la que aparecen juntos un Leo Messi veinteañero y un Lamine Yamal de apenas unos meses de edad realizada hace casi 20 años. El argentino se ha convertido en el mejor futbolista de la historia; el catalán, en la estrella del Barça y de la selección española. Los dos lucharán este.
 
 Date: 2026-07-18
-
-### La divertida anécdota del día en que Luis de la Fuente conoció a Messi: "En 15 minutos nos metió cuatro"
-
-El seleccionador ofreció la rueda de prensa previa a la final y se mostró tranquilo. "Lamine está bien" Leer.
-
-Date: 2026-07-17
 
 ### Cambio generacional: el deporte busca a sus nuevos 'reyes Midas'
 
@@ -64,6 +58,5 @@ Date: 2026-07-15
 
 ## Fuentes
 
-- [Messi reacciona a su foto con Lamine Yamal cuando era bebé: "Es una locura"](https://www.20minutos.es/deportes/futbol/messi-reacciona-su-foto-con-lamine-yamal-cuando-era-bebe-es-una-locura_7016147_0.html?utm_source=lootura.com) — 2026-07-18T08:16:20.000Z
-- [La divertida anécdota del día en que Luis de la Fuente conoció a Messi: "En 15 minutos nos metió cuatro"](https://www.elmundo.es/deportes/futbol/mundial-de-futbol/2026/07/18/6a5a9a63e85ece44288b4596.html?utm_source=lootura.com) — 2026-07-17T22:30:10.000Z
+- [Kevin Durant 'pasa' de saludar a Messi y va directo hacia Rodri y a De La Fuente](https://www.20minutos.es/deportes/kevin-durant-pasa-saludar-messi-directo-saludar-rodri-fuente_7016213_0.html?utm_source=lootura.com) — 2026-07-18T12:51:01.000Z
 - [Messi se pronuncia sobre su foto con Yamal de bebé: "Es una locura..."](https://theobjective.com/deportes/futbol/mundial/2026-07-18/messi-foto-yamal-bebe/?amp=&utm_source=lootura.com) — 2026-07-18T07:56:36.000Z

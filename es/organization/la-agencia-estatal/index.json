@@ -1,0 +1,45 @@
+{
+  "id": "es-la-agencia-estatal",
+  "name": "La Agencia Estatal",
+  "type": "organization",
+  "locale": "es",
+  "canonicalPath": "/es/organization/la-agencia-estatal",
+  "canonicalUrl": "https://atlas.lootura.com/es/organization/la-agencia-estatal",
+  "markdownUrl": "https://atlas.lootura.com/es/organization/la-agencia-estatal/index.md",
+  "jsonUrl": "https://atlas.lootura.com/es/organization/la-agencia-estatal/index.json",
+  "description": "Sigue la actividad de La Agencia Estatal en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
+  "updatedAt": "2026-07-18T13:08:36.432Z",
+  "aliases": [],
+  "changes": [
+    {
+      "title": "La Aemet confirma la llegada de la tercera ola de calor del verano: habrá zonas que pasarán de 45 ºC",
+      "summary": "La Agencia Estatal de Meteorología ( Aemet ) ha confirmado este sábado la llegada de la tercera ola de calor del verano , con temperaturas tan extremas que incluso podrían superar los 44 o 45 ºC en algunos puntos de la Península. Esta tercera ola de calor llegará a partir del martes, 21 de julio , y se podría extender,.",
+      "date": "2026-07-18"
+    },
+    {
+      "title": "Mario Picazo pone fecha a la llegada de una nueva ola de calor: «Las temperaturas empiezan a subir»",
+      "summary": "La Agencia Estatal de Meteorología (Aemet) ha confirmado la llegada a España de una nueva ola de calor . El organismo meteorológico ha lanzado un aviso especial en el que indica que se podrán alcanzar «temperaturas extremas» . «Serán muy altas durante varios días», apunta.En este contexto, la entidad explica que harán.",
+      "date": "2026-07-18"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "La Agencia Estatal first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-07-18"
+    }
+  ],
+  "sources": [
+    {
+      "title": "La Aemet confirma la llegada de la tercera ola de calor del verano: habrá zonas que pasarán de 45 ºC",
+      "url": "https://www.20minutos.es/nacional/aemet-confirma-tercera-ola-calor-verano-tempeaturas-extremas_7016211_0.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-18T12:47:13.000Z",
+      "sourceId": "lootura-es-20minutos"
+    },
+    {
+      "title": "Mario Picazo pone fecha a la llegada de una nueva ola de calor: «Las temperaturas empiezan a subir»",
+      "url": "https://www.abc.es/recreo/mario-picazo-pone-fecha-llegada-nueva-ola-20260718141457-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-18T12:17:37.000Z",
+      "sourceId": "lootura-es-abc"
+    }
+  ],
+  "evidenceCount": 2
+}

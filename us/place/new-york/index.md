@@ -3,7 +3,7 @@
 > Follow New York, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-18T09:22:30.189Z
+- Updated: 2026-07-18T13:08:56.904Z
 - Canonical: https://atlas.lootura.com/us/place/new-york
 
 ## Recent changes
@@ -17,6 +17,12 @@ Date: 2026-07-18
 ### Zohran Mamdani Knows He Has Political Capital. And He Intends to Spend It.
 
 Lulu Garcia-Navarro sits down for an interview with the mayor of New York City.
+
+Date: 2026-07-18
+
+### Climate's Compounding Financial Toll Is Becoming Harder to Ignore
+
+Smoke from massive wildfires in Canada engulfed the New York City skyline, reducing visibility and casting an orange haze over the New York City. —Selcuk Acar/Anadolu—Getty Images It’s felt all but impossible to escape the reality of our changing climate this past month, from extreme heat at London Climate Action Week.
 
 Date: 2026-07-18
 
@@ -62,13 +68,9 @@ Gov. Kathy Hochul signed an order pausing construction of large data centers —
 
 Date: 2026-07-14
 
-### News Wrap: Fed Chair Warsh pledges inflation will be 'thing of the past'
-
-In our news wrap Tuesday, Federal Reserve Chair Kevin Warsh told the House Financial Services Committee that inflation will be "a thing of the past," the CDC says there are now nearly 7,000 confirmed or suspected cases of cyclosporiasis nationwide and New York is now the first state to issue a moratorium on building ne.
-
-Date: 2026-07-14
-
 ## Sources
 
+- [A model struggled to get treated for aggressive breast cancer, so she moved thousands of miles away](https://www.cbsnews.com/news/alaska-model-arizona-city-of-hope-breast-cancer/?utm_source=lootura.com) — 2026-07-18T12:00:04.000Z
 - [Trump Threatens Canada With Tariffs for Wildfire Smoke Over U.S.](https://www.nytimes.com/2026/07/17/weather/trump-canada-tariffs-wildfire-smoke.html?utm_source=lootura.com) — 2026-07-18T03:06:43.000Z
-- [Zohran Mamdani Knows He Has Political Capital. And He Intends to Spend It.](https://www.nytimes.com/2026/07/18/magazine/zohran-mamdani-interview.html?utm_source=lootura.com) — 2026-07-18T09:15:05.000Z
+- [Zohran Mamdani Knows He Has Political Capital. And He Intends to Spend It.](https://www.nytimes.com/2026/07/18/magazine/zohran-mamdani-interview.html?utm_source=lootura.com) — 2026-07-18T11:06:46.000Z
+- [Climate's Compounding Financial Toll Is Becoming Harder to Ignore](https://time.com/article/2026/07/17/climate-impacts-economic-risk/?utm_source=lootura.com) — 2026-07-18T12:00:03.000Z

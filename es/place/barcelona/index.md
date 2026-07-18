@@ -3,7 +3,7 @@
 > Sigue la actividad de Barcelona en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-18T09:22:10.056Z
+- Actualizado: 2026-07-18T13:08:36.432Z
 - Canonical: https://atlas.lootura.com/es/place/barcelona
 
 ## Cambios recientes
@@ -11,6 +11,12 @@
 ### Dos detenidos por robar joyas valoradas en más de 8.500 euros en una joyería de Barcelona
 
 Los Mossos d'Esquadra detuvieron el pasado martes a un hombre de 36 años y a una mujer de 25 como presuntos autores de un robo con fuerza en una joyería del distrito de Gràcia de Barcelona, donde sustrajeron joyas valoradas en 8.530 euros, según han informado este sábado en un comunicado. Los hechos ocurrieron el pasad.
+
+Date: 2026-07-18
+
+### Los Mossos detienen a una pareja reincidente por el robo de joyas valoradas en 8.000 euros
+
+Los Mossos d’Esquadra detuvieron el pasado martes a un hombre de 36 años y a una mujer de 25 como presuntos autores de un robo con fuerza en una joyería del distrito de Gràcia de Barcelona, donde sustrajeron joyas valoradas en 8.530 euros, según han informado este sábado en un comunicado. Los hechos ocurrieron el pasad.
 
 Date: 2026-07-18
 
@@ -62,12 +68,7 @@ Date: 2026-07-16
 
 Date: 2026-07-15
 
-### Salvador Illa improvisa una reunión con la cónsul de Francia en Barcelona para agitar la polémica sobre las declaraciones de Mariano Rajoy
-
-El encuentro no estaba previsto en la agenda del presidente catalán hasta primera hora de esta mañana Leer.
-
-Date: 2026-07-14
-
 ## Fuentes
 
 - [Dos detenidos por robar joyas valoradas en más de 8.500 euros en una joyería de Barcelona](https://www.larazon.es/cataluna/dos-detenidos-robar-joyas-valoradas-mas-8500-euros-joyeria-barcelona_202607186a5b43761db8de040995ba3f.html?utm_source=lootura.com) — 2026-07-18T09:12:22.000Z
+- [Los Mossos detienen a una pareja reincidente por el robo de joyas valoradas en 8.000 euros](https://theobjective.com/sociedad/suceso/2026-07-18/mossos-pareja-reincidente-robo-de-joyas-8-000-euros/?utm_source=lootura.com) — 2026-07-18T10:28:25.000Z

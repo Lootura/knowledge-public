@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/pedro-sanchez/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/pedro-sanchez/index.json",
   "description": "Sigue la actividad de Pedro Sánchez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-18T09:22:10.056Z",
+  "updatedAt": "2026-07-18T13:08:36.432Z",
   "aliases": [
     "Sánchez"
   ],
@@ -16,6 +16,11 @@
     {
       "title": "La guerra entró por la ventana y se quedó 40 años: recuerdos del niño al que perseguían las bombas",
       "summary": "“Yo tenía 10 años”, relata Nicolás Sánchez-Albornoz , “y estaba enfermo, en la cama. Vivíamos en la calle Ferraz, justo en la esquina de la plaza de España, y una parte daba al Cuartel de la Montaña. Cuando lo asaltaron, las barridas de las ametralladoras llegaron a las habitaciones de mis hermanas, que, afortunadament.",
+      "date": "2026-07-18"
+    },
+    {
+      "title": "Feijóo pide \"decencia\" en una España \"harta de mentiras\": \"El sanchismo ha sido condenado en todas sus formas\"",
+      "summary": "El líder del Partido Popular, en su discurso, ha arremetido contra el presidente del Gobierno, Pedro Sánchez: \"Aún hay más de una decena de tramas en los juzgados\".",
       "date": "2026-07-18"
     },
     {
@@ -57,14 +62,15 @@
       "title": "Bruselas reprende al Gobierno por no luchar contra la corrupción y presionar a jueces",
       "summary": "El último informe sobre el Estado de derecho de la Comisión Europea ha supuesto un duro varapalo para el Gobierno de Pedro Sánchez . En un documento que evalúa anualmente la salud democrática de los Estados miembros, el Ejecutivo comunitario ha puesto el foco sobre España por su inacción frente a la corrupción y las de.",
       "date": "2026-07-17"
-    },
-    {
-      "title": "Vicente Vallés, contundente tras ver que Begoña Gómez será juzgada por un jurado popular",
-      "summary": "Begoña Gómez será juzgada por un jurado popular junto a su asesora en Moncloa, Cristina Álvarez. La Audiencia Provincial de Madrid ha avalado el criterio del juez Juan Carlos Peinado y ha confirmado que la causa se tramite por esta vía.La esposa de Pedro Sánchez está acusada de un presunto delito de tráfico de influenc.",
-      "date": "2026-07-17"
     }
   ],
   "sources": [
+    {
+      "title": "Feijóo pide \"decencia\" en una España \"harta de mentiras\": \"El sanchismo ha sido condenado en todas sus formas\"",
+      "url": "https://www.elconfidencial.com/espana/2026-07-18/feijoo-anuncia-a-los-50-candidatos-alcaldias-de-provincia-gema-igual_4392191/?utm_source=lootura.com",
+      "publishedAt": "2026-07-18T09:15:00.000Z",
+      "sourceId": "lootura-es-el-confidencial"
+    },
     {
       "title": "Junts descarta reconciliarse con Sánchez tras la amnistía: \"Esto no allana volver con el PSOE. Que cumpla con los catalanes o se vaya\"",
       "url": "https://www.elmundo.es/cataluna/2026/07/18/6a5a6254e85eceee518b45a6.html?utm_source=lootura.com",
@@ -78,5 +84,5 @@
       "sourceId": "lootura-es-el-pais"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 3
 }

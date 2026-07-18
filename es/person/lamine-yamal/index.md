@@ -3,7 +3,7 @@
 > Sigue la actividad de Lamine Yamal en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-18T09:22:10.056Z
+- Actualizado: 2026-07-18T13:08:36.432Z
 - Canonical: https://atlas.lootura.com/es/person/lamine-yamal
 
 ## Cambios recientes
@@ -70,4 +70,4 @@ Date: 2026-07-08
 
 ## Fuentes
 
-- [Messi reacciona a su foto con Lamine Yamal cuando era bebé: "Es una locura"](https://www.20minutos.es/deportes/futbol/messi-reacciona-su-foto-con-lamine-yamal-cuando-era-bebe-es-una-locura_7016147_0.html?utm_source=lootura.com) — 2026-07-18T08:16:20.000Z
+- [José Andrés: «La España del Mundial es muy chula, muy diversa y muy unida»](https://www.abc.es/deportes/futbol/mundial/jose-andres-espana-querida-eeuu-encima-politico-20260717000357-nt.html?utm_source=lootura.com) — 2026-07-18T12:43:19.000Z

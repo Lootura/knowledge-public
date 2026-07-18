@@ -3,7 +3,7 @@
 > Follow Russia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-18T09:22:30.189Z
+- Updated: 2026-07-18T13:08:56.904Z
 - Canonical: https://atlas.lootura.com/us/place/russia
 
 ## Recent changes
@@ -11,6 +11,18 @@
 ### Russia Bill Broadens Sanctions but Could Fuel Fears Over the Dollar
 
 The Trump administration has recently sought to scale back sanctions as adversaries develop workarounds that some believe could erode the U.S. dollar’s supremacy.
+
+Date: 2026-07-18
+
+### Ukrainian drone attacks on Russia kill at least 8, injure over 60
+
+Kyiv's forces are continuing their relentless aerial campaign​ against energy infrastructure and military targets inside Russia.
+
+Date: 2026-07-18
+
+### 8 killed and more than 60 wounded in Ukrainian drone attack on Russian regions
+
+Kyiv's forces are continuing their aerial campaign against energy infrastructure and military targets inside Russia, aiming to undermine Moscow's war effort. (Image credit: Moscow Region Governor Andrei Vo).
 
 Date: 2026-07-18
 
@@ -56,19 +68,8 @@ As Ukraine signs drone deals and awaits licenses for Patriot missiles, the count
 
 Date: 2026-07-16
 
-### Ukraine Pounds Russian Ships in Its Campaign to Cut Off Crimea
-
-After striking roads and railways, Kyiv is now focusing on sea routes as it tries to disrupt fuel supplies and pressure Russia to end the war.
-
-Date: 2026-07-15
-
-### Lindsey Graham’s Death Leaves Fate of Russia Sanctions Bill Uncertain
-
-Supporters in both parties hope the measure to penalize Russia, championed by Senator Lindsey Graham, will gain momentum in his honor.
-
-Date: 2026-07-14
-
 ## Sources
 
-- [A Putin critic is convicted on charges that will keep him from campaigning for Russia's parliament](https://www.pbs.org/newshour/world/a-putin-critic-is-convicted-on-charges-that-will-keep-him-from-campaigning-for-russias-parliament?utm_source=lootura.com) — 2026-07-17T19:14:01.000Z
+- [Ukrainian drone attacks on Russia kill at least 8, injure over 60](https://www.cbsnews.com/news/ukraine-russia-war-drone-attacks-wildberries/?utm_source=lootura.com) — 2026-07-18T11:26:33.000Z
+- [8 killed and more than 60 wounded in Ukrainian drone attack on Russian regions](https://www.npr.org/2026/07/18/nx-s1-5898963/8-killed-and-more-than-60-wounded-in-ukrainian-drone-attack-on-russian-regions?utm_source=lootura.com) — 2026-07-18T10:45:43.000Z
 - [Russia Bill Broadens Sanctions but Could Fuel Fears Over the Dollar](https://www.nytimes.com/2026/07/18/us/politics/russia-bill-sanctions-trump.html?utm_source=lootura.com) — 2026-07-18T09:01:37.000Z

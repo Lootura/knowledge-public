@@ -8,9 +8,19 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/cinco-villas/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/cinco-villas/index.json",
   "description": "Sigue la actividad de Cinco Villas en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-18T09:22:10.056Z",
+  "updatedAt": "2026-07-18T13:08:36.432Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "El incendio de las Cinco Villas contiene su avance, aunque sigue sin estabilizarse tras arrasar más de 15.000 hectáreas",
+      "summary": "El operativo mantiene el máximo despliegue ante otra jornada marcada por el viento cambiante, el calor y la baja humedad La primera línea de lucha contra el fuego en Cinco Villas: brigadas y voluntarios que plantan cara al mayor incendio del verano Minuto a minuto - Última hora de los incendios en España El incendio de.",
+      "date": "2026-07-18"
+    },
+    {
+      "title": "El incendio de las Cinco Villas en Zaragoza alcanza las 15.400 hectáreas calcinadas",
+      "summary": "El incendio forestal , declarado el pasado miércoles 15 de julio en Orés , en la comarca de Cinco Villas, continúa activo, en situación operativa 2, nivel 2 del PROCINFO . El incendio mantiene un perímetro muy amplio, de más de 80 kilómetros , y continúa condicionado por los cambios de viento, la topografía y la proxim.",
+      "date": "2026-07-18"
+    },
     {
       "title": "El incendio del municipio aragonés de Orés arrasa 14.000 hectáreas amenazando Uncastillo",
       "summary": "“Ha habido gente que ha dormido, pero muy poco, porque estamos muy nerviosos”. La noche ha sido dura, dentro y fuera del pabellón y el casino de Ejea de los Caballeros (Zaragoza), donde a esta hora continuan más de un millar de vecinos desalojados de cinco pueblos de la comarca de las Cinco Villas, en la misma provinci.",
@@ -49,16 +59,16 @@
   ],
   "sources": [
     {
-      "title": "El incendio en Orés sigue descontrolado y arrasa más de 15.000 ha; empeora también el fuego de La Mierla y se envía ES-Alert",
-      "url": "https://www.20minutos.es/nacional/incendios-espana-directo-ultima-hora-fuego-ores-aragon-mierla-guadalajara_7016138_6.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-18T07:04:02.000Z",
-      "sourceId": "lootura-es-20minutos"
+      "title": "El incendio de las Cinco Villas contiene su avance, aunque sigue sin estabilizarse tras arrasar más de 15.000 hectáreas",
+      "url": "https://www.eldiario.es/aragon/sociedad/incendio-cinco-villas-supera-15-000-hectareas-favorecido-viento-topografia_1_13389869.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-18T06:46:59.000Z",
+      "sourceId": "lootura-es-eldiario-es"
     },
     {
-      "title": "El incendio del municipio aragonés de Orés arrasa 14.000 hectáreas amenazando Uncastillo",
-      "url": "https://elpais.com/espana/2026-07-17/el-incendio-del-municipio-aragones-de-ores-arrasa-12000-hectareas-amenazando-uncastillo.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-17T22:11:18.000Z",
-      "sourceId": "lootura-es-el-pais"
+      "title": "El incendio de las Cinco Villas en Zaragoza alcanza las 15.400 hectáreas calcinadas",
+      "url": "https://theobjective.com/sociedad/suceso/2026-07-18/incendio-cinco-villas-zaragoza-hectareas/?utm_source=lootura.com",
+      "publishedAt": "2026-07-18T10:38:28.000Z",
+      "sourceId": "lootura-es-the-objective"
     }
   ],
   "evidenceCount": 2

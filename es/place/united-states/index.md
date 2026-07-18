@@ -3,7 +3,7 @@
 > Sigue la actividad de Estados Unidos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-18T09:22:10.056Z
+- Actualizado: 2026-07-18T13:08:36.432Z
 - Canonical: https://atlas.lootura.com/es/place/united-states
 
 ## Cambios recientes
@@ -20,15 +20,15 @@ El año nuevo arranca con el estreno de Tiempos modernos, la última cinta de Ch
 
 Date: 2026-07-18
 
-### EEUU hunde un buque de guerra en el Pacífico con un misil disparado desde un bombardero invisible a los radares
-
-Estados Unidos ha vuelto a mostrar músculo militar en el Pacífico. El Mando del Indo-Pacífico (USINDOPACOM), junto a varios países aliados, ha ejecutado un ejercicio de hundimiento real , conocido en la jerga militar como SINKEX, en el marco de las maniobras multinacionales Valiant Shield 2026 . El blanco: el viejo buq.
-
-Date: 2026-07-18
-
 ### Teherán denuncia al menos tres muertos y ocho heridos en nuevos ataques de EEUU
 
 Al menos tres personas han muerto y otras ocho han resultado heridas como consecuencia de los ataques lanzados por Estados Unidos contra la provincia iraní de Hormozgan, en el sur del país , según han informado los medios estatales de Irán , en el marco la séptima noche consecutiva de ataques que no hace sino alimentar.
+
+Date: 2026-07-18
+
+### EEUU hunde un buque de guerra en el Pacífico con un misil disparado desde un bombardero invisible a los radares
+
+Estados Unidos ha vuelto a mostrar músculo militar en el Pacífico. El Mando del Indo-Pacífico (USINDOPACOM), junto a varios países aliados, ha ejecutado un ejercicio de hundimiento real , conocido en la jerga militar como SINKEX, en el marco de las maniobras multinacionales Valiant Shield 2026 . El blanco: el viejo buq.
 
 Date: 2026-07-18
 
@@ -70,7 +70,7 @@ Date: 2026-07-17
 
 ## Fuentes
 
+- [José Andrés: «La España del Mundial es muy chula, muy diversa y muy unida»](https://www.abc.es/deportes/futbol/mundial/jose-andres-espana-querida-eeuu-encima-politico-20260717000357-nt.html?utm_source=lootura.com) — 2026-07-18T12:43:19.000Z
 - [Lealtad, telegenia y testosterona: la extravagante carrera de Hegseth al frente del Pentágono](https://elpais.com/internacional/2026-07-18/lealtad-telegenia-y-testosterona-la-extravagante-carrera-de-hegseth-al-frente-del-pentagono.html?utm_source=lootura.com) — 2026-07-18T03:30:01.000Z
 - [España, país en armas: cómo se contó la Guerra Civil en los noticieros de Estados Unidos](https://elpais.com/babelia/2026-07-18/espana-pais-en-armas-como-se-conto-la-guerra-civil-en-los-noticieros-de-estados-unidos.html?utm_source=lootura.com) — 2026-07-18T03:30:01.000Z
-- [EEUU hunde un buque de guerra en el Pacífico con un misil disparado desde un bombardero invisible a los radares](https://okdiario.com/internacional/eeuu-hunde-buque-guerra-pacifico-misil-disparado-desde-bombardero-invisible-radares-19021943?utm_source=lootura.com) — 2026-07-18T09:05:02.000Z
 - [Teherán denuncia al menos tres muertos y ocho heridos en nuevos ataques de EEUU](https://theobjective.com/internacional/2026-07-18/teheran-denuncia-al-menos-tres-muertos-ataques-eeuu/?utm_source=lootura.com) — 2026-07-18T07:12:14.000Z

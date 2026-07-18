@@ -34,4 +34,4 @@ Date: 2026-07-15
 
 ## Fuentes
 
-- [¿Puede ChatGPT hacerte una dieta? Una experta responde: «La IA puede cometer fallos»](https://okdiario.com/cool/lifestyle/puede-chatgpt-hacerte-dieta-experta-responde-ia-puede-cometer-fallos-19014239?utm_source=lootura.com) — 2026-07-18T09:02:59.000Z
+No public source links.

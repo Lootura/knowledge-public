@@ -3,10 +3,22 @@
 > Follow Ukraine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-17T20:52:01.362Z
+- Updated: 2026-07-18T13:08:56.904Z
 - Canonical: https://atlas.lootura.com/us/place/ukraine
 
 ## Recent changes
+
+### Ukrainian drone attacks on Russia kill at least 8, injure over 60
+
+Kyiv's forces are continuing their relentless aerial campaign​ against energy infrastructure and military targets inside Russia.
+
+Date: 2026-07-18
+
+### 8 killed and more than 60 wounded in Ukrainian drone attack on Russian regions
+
+Kyiv's forces are continuing their aerial campaign against energy infrastructure and military targets inside Russia, aiming to undermine Moscow's war effort. (Image credit: Moscow Region Governor Andrei Vo).
+
+Date: 2026-07-18
 
 ### Ukraine fights under an interim defense chief after Zelenskyy's contested government shake-up
 
@@ -56,18 +68,7 @@ Sergii Koretskyi speaks during a briefing with government officials in Kyiv, Ukr
 
 Date: 2026-07-16
 
-### Ukraine’s Ousted Defense Minister Attacks the Military’s Old Guard
-
-Mykhailo Fedorov defended his efforts to modernize the Ukrainian armed forces as thousands of people protested his dismissal.
-
-Date: 2026-07-16
-
-### The Essentials About Mykhailo Fedorov, the Ousted Ukrainian Minister
-
-Mr. Fedorov became the youthful face of Ukraine’s successful drone warfare program. The move to replace him has prompted street protests.
-
-Date: 2026-07-16
-
 ## Sources
 
-No public source links.
+- [Ukrainian drone attacks on Russia kill at least 8, injure over 60](https://www.cbsnews.com/news/ukraine-russia-war-drone-attacks-wildberries/?utm_source=lootura.com) — 2026-07-18T11:26:33.000Z
+- [8 killed and more than 60 wounded in Ukrainian drone attack on Russian regions](https://www.npr.org/2026/07/18/nx-s1-5898963/8-killed-and-more-than-60-wounded-in-ukrainian-drone-attack-on-russian-regions?utm_source=lootura.com) — 2026-07-18T10:45:43.000Z

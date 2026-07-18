@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/donald-trump/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/donald-trump/index.json",
   "description": "Sigue la actividad de Donald Trump en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-18T09:22:10.056Z",
+  "updatedAt": "2026-07-18T13:08:36.432Z",
   "aliases": [
     "President Donald Trump",
     "President Trump",
@@ -68,10 +68,10 @@
   ],
   "sources": [
     {
-      "title": "El Puerto de Bilbao registra entre febrero y junio su mayor actividad desde hace 18 años",
-      "url": "https://www.elcorreo.com/economia/puerto-bilbao-registra-febrero-junio-mayor-actividad-20260717132549-nt_amp.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-17T11:36:22.000Z",
-      "sourceId": "lootura-es-el-correo"
+      "title": "Trump amenaza con subir los aranceles a Canadá por los incendios que afectan a Nueva York antes de la final del Mundial",
+      "url": "https://www.abc.es/internacional/trump-amenaza-subir-aranceles-canada-incendios-afectan-20260718141509-nt_amp.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-18T12:15:09.000Z",
+      "sourceId": "lootura-es-abc"
     },
     {
       "title": "Lealtad, telegenia y testosterona: la extravagante carrera de Hegseth al frente del Pentágono",
@@ -80,5 +80,5 @@
       "sourceId": "lootura-es-el-pais"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

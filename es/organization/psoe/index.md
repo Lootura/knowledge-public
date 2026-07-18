@@ -3,7 +3,7 @@
 > Sigue la actividad de Partido Socialista Obrero Español en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-18T09:22:10.056Z
+- Actualizado: 2026-07-18T13:08:36.432Z
 - Canonical: https://atlas.lootura.com/es/organization/psoe
 
 ## Cambios recientes
@@ -14,11 +14,23 @@ El PSOE andaluz ha propuesto a los ya senadores por designación del Parlamento 
 
 Date: 2026-07-18
 
+### El PSOE elige candidata para la alcaldía de Madrid este domingo: Enma López desafía a Reyes Maroto
+
+La militancia del PSOE en Madrid , Oviedo, Ferrol y Torrelavega está llamada a votar este domingo, 19 de julio, para escoger a los cabezas de lista que concurrirán a las elecciones previstas para mayo de 2027. Es la primera parada del calendario de primarias aprobado por el Comité Federal el pasado 27 de junio. El plan.
+
+Date: 2026-07-18
+
 ### La UCO constata que Cerdán casi no retiró dinero desde 2019: lo achaca a una fuente de efectivo "no originada en cuentas bancarias"
 
 La UCO ha aportado finalmente el informe sobre el patrimonio de Santos Cerdán que viene elaborando desde hace un año y ha concluido que el ex número tres del PSOE apenas retiró efectivo en efectivo desde 2019, posiblemente porque contaba con "una fuente de dinero no originada en cuentas bancarias" . El atestado, al que.
 
 Date: 2026-07-18
+
+### Junts descarta reconciliarse con Sánchez tras la amnistía: "Esto no allana volver con el PSOE. Que cumpla con los catalanes o se vaya"
+
+"Esta sentencia no llega gracias al PSOE, sino por nuestra persistencia", alega la dirección de los independentistas para plantar a los socialistas Leer.
+
+Date: 2026-07-17
 
 ### La UCO desvela que Cerdán intentó comprar un piso de casi un millón con las mordidas a Servinabar
 
@@ -29,12 +41,6 @@ Date: 2026-07-17
 ### Cerdán disparó su gasto en cash mientras Ábalos adjudicaba contratos
 
 El último informe de la Unidad Central Operativa (UCO) de la Guardia Civil complica la estrategia de defensa del ex secretario de Organización del PSOE Santos Cerdán al...
-
-Date: 2026-07-17
-
-### Junts descarta reconciliarse con Sánchez tras la amnistía: "Esto no allana volver con el PSOE. Que cumpla con los catalanes o se vaya"
-
-"Esta sentencia no llega gracias al PSOE, sino por nuestra persistencia", alega la dirección de los independentistas para plantar a los socialistas Leer.
 
 Date: 2026-07-17
 
@@ -62,15 +68,8 @@ El informe de la Unidad Central Operativa (UCO) de la Guardia Civil sobre el pat
 
 Date: 2026-07-17
 
-### Servinabar intentó comprar para Cerdán un piso en Madrid valorado en cerca de un millón de euros, según la UCO
-
-El informe elaborado por la Unidad Central Operativa (UCO) de la Guardia Civil sobre el patrimonio del exsecretario de Organización del PSOE Santos Cerdán revela que, entre septiembre y octubre de 2021, una de las empresas clave de la trama negoció la compra de una vivienda de lujo en Madrid para que fuera usada por el.
-
-Date: 2026-07-17
-
 ## Fuentes
 
-- [La UCO desvela que Cerdán intentó comprar un piso de casi un millón con las mordidas a Servinabar](https://www.elcorreo.com/politica/uco-desvela-cerdan-intento-comprar-piso-millon-20260715141134-ntrc_amp.html?utm_source=lootura.com) — 2026-07-17T12:11:34.000Z
-- [Cerdán disparó su gasto en cash mientras Ábalos adjudicaba contratos](https://amp.elmundo.es/espana/2026/07/17/6a5a777621efa0247d8b4592.html?utm_source=lootura.com) — 2026-07-17T20:50:06.000Z
+- [El PSOE elige candidata para la alcaldía de Madrid este domingo: Enma López desafía a Reyes Maroto](https://www.elconfidencial.com/espana/2026-07-18/primarias-psoe-madrid-torrelavega-oviedo-1tps_4392193/?utm_source=lootura.com) — 2026-07-18T10:18:00.000Z
 - [Junts descarta reconciliarse con Sánchez tras la amnistía: "Esto no allana volver con el PSOE. Que cumpla con los catalanes o se vaya"](https://www.elmundo.es/cataluna/2026/07/18/6a5a6254e85eceee518b45a6.html?utm_source=lootura.com) — 2026-07-17T23:17:24.000Z
 - [El PSOE andaluz confirma a Montero, Espadas y Díaz como sus candidatos a senador](https://theobjective.com/espana/politica/2026-07-18/psoe-andaluz-confirma-montero-espadas-diaz-senador/?amp=&utm_source=lootura.com) — 2026-07-18T08:09:34.000Z

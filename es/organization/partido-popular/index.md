@@ -3,20 +3,44 @@
 > Sigue la actividad de Partido Popular en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-18T09:22:10.056Z
+- Actualizado: 2026-07-18T13:08:36.432Z
 - Canonical: https://atlas.lootura.com/es/organization/partido-popular
 
 ## Cambios recientes
 
-### PP y Vox vuelven a las armas contra la ley de nietos y abren la puerta a la vía judicial
-
-La ley de nietos, que consiste en una disposición adicional a la Ley de Memoria Democrática , lleva en vigor casi cuatro años . El plazo para solicitar cita previa y entrar en el proceso de nacionalización -se inscribieron 2,5 millones de personas - finalizó hace nueve meses. Pero la polémica respecto a su aplicación n.
-
-Date: 2026-07-18
-
 ### Feijóo anuncia a los 50 candidatos a las alcaldías de provincia, entre ellos Gema Igual
 
 El presidente nacional del PP, Alberto Núñez Feijóo , presentará este sábado en Santiago de Compostela a los 50 cabezas de lista para las alcaldías de capitales de provincia . Mantendrá a los 30 actuales regidores -entre ellos la alcaldesa de Santander, Gema Igual - y renovará 11 candidaturas en las 20 capitales donde.
+
+Date: 2026-07-18
+
+### Feijóo pide "decencia" en una España "harta de mentiras": "El sanchismo ha sido condenado en todas sus formas"
+
+El líder del Partido Popular, en su discurso, ha arremetido contra el presidente del Gobierno, Pedro Sánchez: "Aún hay más de una decena de tramas en los juzgados".
+
+Date: 2026-07-18
+
+### Feijóo pide al PP «ganar, ganar y volver a ganar» en las municipales: «Las urnas serán la sentencia del sanchismo»
+
+El presidente del PP, Alberto Núñez Feijóo , ha presentado este sábado en Santiago de Compostela (Galicia) a los 54 candidatos de su formación en capitales de provincia, capitales de comunidad autónoma y las siete grandes ciudades gallegas para las próximas elecciones municipales del próximo 23 de mayo. El líder popula.
+
+Date: 2026-07-18
+
+### Almeida en la presentación de los candidatos de Feijóo a las municipales: «Tenemos el mejor equipo y el mejor seleccionador»
+
+El alcalde de Madrid y aspirante a la reelección en las próximas elecciones municipales, José Luis Martínez-Almeida , ha puesto en valor el conjunto de candidaturas del PP en las capitales de provincia para estos comicios, y el papel de su líder, Alberto Núñez Feijóo . «Tenemos el mejor equipo y el mejor seleccionador.
+
+Date: 2026-07-18
+
+### Feijóo presenta este sábado en Santiago a los candidatos del PP a las capitales de provincia
+
+El líder del Partido Popular , Alberto Núñez Feijóo , presenta este sábado, día 18 de julio, a los candidatos de su formación a las capitales de provincia de toda España de cara a las elecciones municipales del 2027 . El acto tendrá lugar en la Cidade da Cultura de Santiago de Compostela y en él también intervendrá el.
+
+Date: 2026-07-18
+
+### PP y Vox vuelven a las armas contra la ley de nietos y abren la puerta a la vía judicial
+
+La ley de nietos, que consiste en una disposición adicional a la Ley de Memoria Democrática , lleva en vigor casi cuatro años . El plazo para solicitar cita previa y entrar en el proceso de nacionalización -se inscribieron 2,5 millones de personas - finalizó hace nueve meses. Pero la polémica respecto a su aplicación n.
 
 Date: 2026-07-18
 
@@ -44,31 +68,10 @@ Rafael Sánchez Saus, recién nombrado viceconsejero de Turismo, Justicia, Desre
 
 Date: 2026-07-17
 
-### Rajoy alerta del «déficit democrático»: «Vivimos la mayor polarización desde 1978»
-
-El expresidente del Gobierno Mariano Rajoy ha advertido del «riesgo existente» en estos momentos debido al «déficit democrático tan grande» que hay en la actualidad y ha alertado sobre «la mayor polarización del Gobierno desde 1978 ». Rajoy ha participado en la Conferencia Política del PP ibicenco protagonizando el diá.
-
-Date: 2026-07-17
-
-### Feijóo acata el aval a la amnistía entre reproches a Sánchez: «Mintió y vendió a los españoles»
-
-El presidente del Partido Popular, Alberto Núñez Feijóo , ha subrayado este miércoles en Las Palmas de Gran Canaria que un demócrata «respeta las sentencias, todas las sentencias y de todos los tribunales » y, además, «no ordena a sus ministros salir a señalar a jueces con nombres y apellidos». Núñez Feijóo ha hecho es.
-
-Date: 2026-07-16
-
-### Génova le quita importancia al fallo del TJUE y Aznar reclama que "la agresión sediciosa no quede impune"
-
-El PP relativiza el alcance de la sentencia: "No examina la constitucionalidad ni abarca toda la Ley de Amnistía" Leer.
-
-Date: 2026-07-16
-
-### El PP, tras mantenerse el juicio con jurado a Begoña Gómez: «Una situación inconcebible»
-
-El Partido Popular ha asegurado este jueves que la Audiencia Provincial de Madrid ha confirmado que Begoña Gómez , esposa del presidente del Gobierno, «se sentará en un banquillo» y ha recalcado que se trata de una situación «sin precedentes en la democracia española e inconcebible en cualquier democracia europea », se.
-
-Date: 2026-07-16
-
 ## Fuentes
 
 - [Feijóo anuncia a los 50 candidatos a las alcaldías de provincia, entre ellos Gema Igual](https://www.elconfidencial.com/espana/2026-07-18/pp-candidatos-elecciones-municipales-2027-1tps_4392175/?utm_source=lootura.com) — 2026-07-18T09:15:00.000Z
-- [PP y Vox vuelven a las armas contra la ley de nietos y abren la puerta a la vía judicial](https://www.elconfidencial.com/espana/2026-07-18/pp-vox-ley-de-nietos-abren-puerta-via-judicial_4391744/?utm_source=lootura.com) — 2026-07-18T03:00:00.000Z
+- [Feijóo pide "decencia" en una España "harta de mentiras": "El sanchismo ha sido condenado en todas sus formas"](https://www.elconfidencial.com/espana/2026-07-18/feijoo-anuncia-a-los-50-candidatos-alcaldias-de-provincia-gema-igual_4392191/?utm_source=lootura.com) — 2026-07-18T09:15:00.000Z
+- [Feijóo pide al PP «ganar, ganar y volver a ganar» en las municipales: «Las urnas serán la sentencia del sanchismo»](https://okdiario.com/espana/feijoo-pide-pp-ganar-ganar-volver-ganar-proximas-municipales-urnas-seran-sentencia-del-sanchismo-19022170?utm_source=lootura.com) — 2026-07-18T12:05:44.000Z
+- [Almeida en la presentación de los candidatos de Feijóo a las municipales: «Tenemos el mejor equipo y el mejor seleccionador»](https://okdiario.com/espana/almeida-presentacion-candidatos-feijoo-municipales-tenemos-mejor-equipo-mejor-seleccionador-19022224?utm_source=lootura.com) — 2026-07-18T12:42:51.000Z
+- [Feijóo presenta este sábado en Santiago a los candidatos del PP a las capitales de provincia](https://theobjective.com/espana/politica/2026-07-18/feijoo-candidatos-pp-capitales-provincia/?utm_source=lootura.com) — 2026-07-18T10:55:13.000Z

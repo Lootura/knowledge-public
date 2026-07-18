@@ -3,7 +3,7 @@
 > Sigue la actividad de Artificial intelligence en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: topic
-- Actualizado: 2026-07-18T09:22:10.056Z
+- Actualizado: 2026-07-18T13:08:36.432Z
 - Canonical: https://atlas.lootura.com/es/topic/artificial-intelligence
 
 ## Cambios recientes
@@ -40,4 +40,4 @@ Date: 2026-07-10
 
 ## Fuentes
 
-- [Volver a los hechos de la Guerra Civil española](https://elpais.com/opinion/2026-07-18/volver-a-los-hechos-de-la-guerra-civil-espanola.html?utm_source=lootura.com) — 2026-07-18T03:30:01.000Z
+- [Asensio acusa a PNV y EH Bildu de buscar «una sociedad más dividida»](https://www.diariovasco.com/politica/asensio-acusa-pnv-bildu-buscar-sociedad-dividida-20260718141609-nt_amp.html?utm_source=lootura.com) — 2026-07-18T12:24:42.000Z
