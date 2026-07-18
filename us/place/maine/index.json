@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/maine/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/maine/index.json",
   "description": "Follow Maine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-18T16:55:42.019Z",
+  "updatedAt": "2026-07-18T20:43:07.014Z",
   "aliases": [],
   "changes": [
     {
@@ -19,6 +19,11 @@
     {
       "title": "ICE detention center employee arrested for shooting protester in Colorado",
       "summary": "A woman was shot while protesting outside of an ICE detention center in Aurora, Colorado, police say. The employee of a group operating the center faces assault and attempted second-degree murder charges in connection with the shooting. This comes after two fatal shootings by ICE agents in Maine and Texas.",
+      "date": "2026-07-18"
+    },
+    {
+      "title": "ICE officer in Maine shooting has history of violent behavior, relatives say",
+      "summary": "The Immigration and Customs Enforcement officer who shot and killed a Colombian man in Maine this week is an Army veteran who has struggled with serious mental health issues since early childhood, relatives say.",
       "date": "2026-07-18"
     },
     {
@@ -55,11 +60,6 @@
       "title": "I See My Father in the Fathers Killed by ICE",
       "summary": "A makeshift memorial for Joan Sebastian Guerrero who was fatally shot by U.S. Immigration and Customs Enforcement (ICE) agents, on July 14, 2026 in Biddeford, Maine. —Ryan Murphy—Getty Images Joan Sebastian Guerrero, the 26-year-old man shot by ICE while driving to work on Monday, attended the same school my mother did.",
       "date": "2026-07-16"
-    },
-    {
-      "title": "Biddeford, Maine, mayor on ICE shooting, community's response",
-      "summary": "Liam LaFountain, mayor of Biddeford, Maine, joins \"The Daily Report\" to discuss his town's response to Monday's incident where an ICE officer shot and killed a man.",
-      "date": "2026-07-16"
     }
   ],
   "sources": [
@@ -70,11 +70,17 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
+      "title": "ICE officer in Maine shooting has history of violent behavior, relatives say",
+      "url": "https://www.cbsnews.com/news/ice-shooting-maine-officer-history-violent-behavior/?utm_source=lootura.com",
+      "publishedAt": "2026-07-18T17:48:22.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
+    {
       "title": "Without Platner, Maine Democrats Scramble to Keep Grassroots Energy Alive",
       "url": "https://www.nytimes.com/2026/07/18/us/politics/platner-voters-maine-senate.html?utm_source=lootura.com",
       "publishedAt": "2026-07-18T09:02:12.000Z",
       "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 3
 }

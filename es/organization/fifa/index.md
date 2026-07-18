@@ -3,7 +3,7 @@
 > Sigue la actividad de FIFA en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-18T16:55:22.774Z
+- Actualizado: 2026-07-18T20:42:47.844Z
 - Canonical: https://atlas.lootura.com/es/organization/fifa
 
 ## Cambios recientes
@@ -28,4 +28,4 @@ Date: 2026-07-08
 
 ## Fuentes
 
-- [La FIFA elige a un árbitro español para el VAR de la final de consolación, Carlos del Cerro Grande](https://theobjective.com/deportes/futbol/mundial/2026-07-18/fifa-arbitro-espanol-var-carlos-del-cerro-grande/?utm_source=lootura.com) — 2026-07-18T11:56:30.000Z
+- [Cancelado el último entrenamiento de España antes de la final por una gran tormenta](https://amp.elmundo.es/deportes/futbol/mundial-de-futbol/2026/07/18/6a5ba131e9cf4a0c108b459d.html?utm_source=lootura.com) — 2026-07-18T15:52:32.000Z

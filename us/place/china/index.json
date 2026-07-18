@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/china/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/china/index.json",
   "description": "Follow China, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-18T16:55:42.019Z",
+  "updatedAt": "2026-07-18T20:43:07.014Z",
   "aliases": [],
   "changes": [
     {
@@ -66,15 +66,9 @@
     {
       "title": "US politicians push agencies to restrict research collaboration with China",
       "url": "https://www.nature.com/articles/d41586-026-02226-9?utm_source=lootura.com",
-      "publishedAt": "2026-07-18T16:55:45.433Z",
+      "publishedAt": "2026-07-18T20:43:10.753Z",
       "sourceId": "lootura-us-nature"
-    },
-    {
-      "title": "Trump Pursues a Deeper Bond With China’s Leader, Despite Hostile Speech",
-      "url": "https://www.nytimes.com/2026/07/17/us/politics/trump-speech-china-xi.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-17T21:29:41.000Z",
-      "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

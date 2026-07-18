@@ -3,7 +3,7 @@
 > Sigue la actividad de Donald Trump en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-18T16:55:22.774Z
+- Actualizado: 2026-07-18T20:42:47.844Z
 - Canonical: https://atlas.lootura.com/es/person/donald-trump
 
 ## Cambios recientes
@@ -70,6 +70,4 @@ Date: 2026-07-17
 
 ## Fuentes
 
-- [Trump le dice a Infantino que fue él quien quitó la sanción a Balogun: «Otra más de tus grandes decisiones»](https://www.abc.es/deportes/futbol/mundial/trump-dice-infantino-quito-sancion-balogun-tus-20260718013217-nt.html?utm_source=lootura.com) — 2026-07-18T15:47:47.000Z
-- [Lealtad, telegenia y testosterona: la extravagante carrera de Hegseth al frente del Pentágono](https://elpais.com/internacional/2026-07-18/lealtad-telegenia-y-testosterona-la-extravagante-carrera-de-hegseth-al-frente-del-pentagono.html?utm_source=lootura.com) — 2026-07-18T03:30:01.000Z
-- [Trump culpa a Canadá por el humo de los incendios forestales y dice que sumará el costo a los aranceles](https://www.lavanguardia.com/internacional/20260718/11595460/trump-culpa-canada-humo-incendios-forestales-dice-sumara-costo-aranceles.html?utm_source=lootura.com) — 2026-07-18T13:54:01.000Z
+- [Trump ataca a Canadá por la mala calidad del aire que amenaza la final del Mundial en Nueva York](https://www.elmundo.es/deportes/futbol/mundial-de-futbol/2026/07/18/6a5b738821efa00f2d8b45a3.html?utm_source=lootura.com) — 2026-07-18T12:38:45.000Z

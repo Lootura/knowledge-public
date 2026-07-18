@@ -3,10 +3,16 @@
 > Sigue la actividad de Pedro Sánchez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-18T16:55:22.774Z
+- Actualizado: 2026-07-18T20:42:47.844Z
 - Canonical: https://atlas.lootura.com/es/person/pedro-sanchez
 
 ## Cambios recientes
+
+### Ruido y furia entre políticos y jueces: cómo reparar la (maltrecha) justicia
+
+Vivimos días agitados en torno al funcionamiento del sistema judicial español. El Gobierno socialista denuncia una confabulación de un sector de la judicatura para derribar a Pedro Sánchez mientras la derecha sostiene que los jueces son los héroes que están poniendo freno a los desmanes del presidente. ¿Qué se puede ha.
+
+Date: 2026-07-18
 
 ### La guerra entró por la ventana y se quedó 40 años: recuerdos del niño al que perseguían las bombas
 
@@ -17,12 +23,6 @@ Date: 2026-07-18
 ### Feijóo pide "decencia" en una España "harta de mentiras": "El sanchismo ha sido condenado en todas sus formas"
 
 El líder del Partido Popular, en su discurso, ha arremetido contra el presidente del Gobierno, Pedro Sánchez: "Aún hay más de una decena de tramas en los juzgados".
-
-Date: 2026-07-18
-
-### Ruido y furia entre políticos y jueces: cómo reparar la (maltrecha) justicia
-
-Vivimos días agitados en torno al funcionamiento del sistema judicial español. El Gobierno socialista denuncia una confabulación de un sector de la judicatura para derribar a Pedro Sánchez mientras la derecha sostiene que los jueces son los héroes que están poniendo freno a los desmanes del presidente. ¿Qué se puede ha.
 
 Date: 2026-07-18
 
@@ -70,6 +70,4 @@ Date: 2026-07-17
 
 ## Fuentes
 
-- [Feijóo pide "decencia" en una España "harta de mentiras": "El sanchismo ha sido condenado en todas sus formas"](https://www.elconfidencial.com/espana/2026-07-18/feijoo-anuncia-a-los-50-candidatos-alcaldias-de-provincia-gema-igual_4392191/?utm_source=lootura.com) — 2026-07-18T09:15:00.000Z
 - [Ruido y furia entre políticos y jueces: cómo reparar la (maltrecha) justicia](https://elpais.com/ideas/2026-07-18/ruido-y-furia-entre-politicos-y-jueces-como-reparar-la-maltrecha-justicia.html?utm_source=lootura.com) — 2026-07-18T14:10:42.000Z
-- [La guerra entró por la ventana y se quedó 40 años: recuerdos del niño al que perseguían las bombas](https://elpais.com/espana/2026-07-18/la-guerra-entro-por-la-ventana-y-se-quedo-40-anos-recuerdos-del-nino-al-que-perseguian-las-bombas.html?utm_source=lootura.com) — 2026-07-18T03:30:01.000Z

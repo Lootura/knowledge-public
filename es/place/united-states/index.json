@@ -8,13 +8,38 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/united-states/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/united-states/index.json",
   "description": "Sigue la actividad de Estados Unidos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-18T16:55:22.774Z",
+  "updatedAt": "2026-07-18T20:42:47.844Z",
   "aliases": [
     "America",
     "Estados Unidos",
     "U.S."
   ],
   "changes": [
+    {
+      "title": "EEUU confirma al menos 13 militares heridos durante la última semana en Oriente Medio",
+      "summary": "El Comando Central del Ejército de Estados Unidos (Centcom) confirmó este sábado a Fox News que al menos 13 militares estadounidenses han resultado.",
+      "date": "2026-07-18"
+    },
+    {
+      "title": "Dimite el líder conservador alemán por tener un hijo por gestación subrogada en EEUU",
+      "summary": "El líder del bloque conservador en el Parlamento de Alemania , Jens Spahn, ha presentado su dimisión este sábado a petición del canciller y co-líder de la alianza, Friedrich Merz , por haber tenido un hijo por gestación subrogada en Estados Unidos ; una práctica declarada ilegal en Alemania. «He informado a los líderes.",
+      "date": "2026-07-18"
+    },
+    {
+      "title": "Mueren dos soldados de EE.UU. y uno permanece desaparecido tras un ataque iraní sobre Jordania",
+      "summary": "Dos uniformados estadounidenses han muerto y un tercero permanece desaparecido después de ataques con misiles balísticos y drones lanzados por Irán contra una base en Jordania. Son las primeras bajas estadounidenses provocadas directamente por fuego iraní desde que Estados Unidos retomara los ataques este mes y elevan.",
+      "date": "2026-07-18"
+    },
+    {
+      "title": "Irán mata a dos soldados de Estados Unidos en un ataque contra una base en Jordania",
+      "summary": "Irán ha anunciado este sábado que deja en suspenso el acuerdo de alto el fuego firmado con Estados Unidos el pasado 17 de junio. “Hemos suspendido nuestros compromisos adquiridos en virtud del memorando de entendimiento y ya no los estamos implementando”, ha declarado el viceministro de Relaciones Exteriores iraní, Kaz.",
+      "date": "2026-07-18"
+    },
+    {
+      "title": "Dos militares estadounidenses mueren en Jordania en un ataque iraní",
+      "summary": "Dos militares estadounidenses en Jordania murieron el viernes mientras defendían la zona de un ataque con misiles y drones iraníes, informó el Comando Central de Estados Unidos (Centcom) en un comunicado este sábado. Seguir leyendo...",
+      "date": "2026-07-18"
+    },
     {
       "title": "Lealtad, telegenia y testosterona: la extravagante carrera de Hegseth al frente del Pentágono",
       "summary": "En la reunión celebrada en el salón de té de la mansión/hotel de Donald Trump de Mar-a-Lago en la que se decidió el 11 de noviembre de 2024 que Pete Hegseth sería el siguiente secretario de Defensa de Estados Unidos, el entonces presidente electo ofreció dos argumentos, para él, de peso. “Nadie ha dado mejor en cámara.",
@@ -31,16 +56,6 @@
       "date": "2026-07-18"
     },
     {
-      "title": "EEUU confirma al menos 13 militares heridos durante la última semana en Oriente Medio",
-      "summary": "El Comando Central del Ejército de Estados Unidos (Centcom) confirmó este sábado a Fox News que al menos 13 militares estadounidenses han resultado.",
-      "date": "2026-07-18"
-    },
-    {
-      "title": "Dimite el líder conservador alemán por tener un hijo por gestación subrogada en EEUU",
-      "summary": "El líder del bloque conservador en el Parlamento de Alemania , Jens Spahn, ha presentado su dimisión este sábado a petición del canciller y co-líder de la alianza, Friedrich Merz , por haber tenido un hijo por gestación subrogada en Estados Unidos ; una práctica declarada ilegal en Alemania. «He informado a los líderes.",
-      "date": "2026-07-18"
-    },
-    {
       "title": "Teherán denuncia al menos tres muertos y ocho heridos en nuevos ataques de EEUU",
       "summary": "Al menos tres personas han muerto y otras ocho han resultado heridas como consecuencia de los ataques lanzados por Estados Unidos contra la provincia iraní de Hormozgan, en el sur del país , según han informado los medios estatales de Irán , en el marco la séptima noche consecutiva de ataques que no hace sino alimentar.",
       "date": "2026-07-18"
@@ -49,40 +64,31 @@
       "title": "EEUU hunde un buque de guerra en el Pacífico con un misil disparado desde un bombardero invisible a los radares",
       "summary": "Estados Unidos ha vuelto a mostrar músculo militar en el Pacífico. El Mando del Indo-Pacífico (USINDOPACOM), junto a varios países aliados, ha ejecutado un ejercicio de hundimiento real , conocido en la jerga militar como SINKEX, en el marco de las maniobras multinacionales Valiant Shield 2026 . El blanco: el viejo buq.",
       "date": "2026-07-18"
-    },
-    {
-      "title": "EEUU se queda sin misiles para otras guerras: la continuación del conflicto con Irán está poniendo en riesgo su capacidad militar",
-      "summary": "La guerra entre Estados Unidos e Irán no termina. Teherán parece estar calculando que su presión sobre el estrecho de Ormuz obligará a Washington a ceder por completo. En la Casa Blanca parecen apostar por que sus nuevas acciones militares obligarán al régimen iraní a ceder y permitir el flujo normalizado del comercio.",
-      "date": "2026-07-18"
-    },
-    {
-      "title": "Estados Unidos lanza una ola de ataques contra Irán por séptimo día consecutivo",
-      "summary": "Trump anunció la semana pasada la cancelación del memorando de entendimiento que había firmado el 18 de junio.",
-      "date": "2026-07-17"
-    },
-    {
-      "title": "EEUU destruye una torre de vigilancia que Irán usaba para atacar buques en Ormuz",
-      "summary": "El Ejército estadounidense destruyó una torre de vigilancia que Irán usaba para atacar a los buques comerciales en el estrecho de Ormuz , lo que permitirá «proteger» la navegación en la vía marítima, afirmó este viernes el Comando Central de Estados Unidos (Centcom). «Las fuerzas de EE. UU. destruyeron con éxito la tor.",
-      "date": "2026-07-17"
     }
   ],
   "sources": [
     {
-      "title": "Lealtad, telegenia y testosterona: la extravagante carrera de Hegseth al frente del Pentágono",
-      "url": "https://elpais.com/internacional/2026-07-18/lealtad-telegenia-y-testosterona-la-extravagante-carrera-de-hegseth-al-frente-del-pentagono.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-18T03:30:01.000Z",
+      "title": "Francia e Inglaterra se juegan más que un tercer puesto: dos millones en disputa... ¿y la bota de oro?",
+      "url": "https://www.20minutos.es/deportes/futbol/francia-inglaterra-mundial-2026-directo-marcador-goles-ultima-hora-duelo-por-tercer-cuarto-puesto_7016262_6.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-18T19:03:37.000Z",
+      "sourceId": "lootura-es-20minutos"
+    },
+    {
+      "title": "Mueren dos soldados de EE.UU. y uno permanece desaparecido tras un ataque iraní sobre Jordania",
+      "url": "https://www.abc.es/internacional/mueren-dos-militares-eeuu-tras-ataque-iran-20260718194249-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-18T18:54:51.000Z",
+      "sourceId": "lootura-es-abc"
+    },
+    {
+      "title": "Irán mata a dos soldados de Estados Unidos en un ataque contra una base en Jordania",
+      "url": "https://elpais.com/internacional/2026-07-18/iran-deja-en-suspenso-la-tregua-con-estados-unidos-tras-acusarle-de-matar-a-50-personas-en-tres-semanas.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-18T18:19:16.000Z",
       "sourceId": "lootura-es-el-pais"
     },
     {
-      "title": "España, país en armas: cómo se contó la Guerra Civil en los noticieros de Estados Unidos",
-      "url": "https://elpais.com/babelia/2026-07-18/espana-pais-en-armas-como-se-conto-la-guerra-civil-en-los-noticieros-de-estados-unidos.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-18T03:30:01.000Z",
-      "sourceId": "lootura-es-el-pais"
-    },
-    {
-      "title": "Trump culpa a Canadá por el humo de los incendios forestales y dice que sumará el costo a los aranceles",
-      "url": "https://www.lavanguardia.com/internacional/20260718/11595460/trump-culpa-canada-humo-incendios-forestales-dice-sumara-costo-aranceles.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-18T13:54:01.000Z",
+      "title": "Dos militares estadounidenses mueren en Jordania en un ataque iraní",
+      "url": "https://www.lavanguardia.com/internacional/20260718/11595553/dos-militares-estadounidenses-mueren-jordania-ataque-irani.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-18T18:01:53.000Z",
       "sourceId": "lootura-es-la-vanguardia"
     },
     {

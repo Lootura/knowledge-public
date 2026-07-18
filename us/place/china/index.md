@@ -3,7 +3,7 @@
 > Follow China, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-18T16:55:42.019Z
+- Updated: 2026-07-18T20:43:07.014Z
 - Canonical: https://atlas.lootura.com/us/place/china
 
 ## Recent changes
@@ -70,5 +70,4 @@ Date: 2026-07-17
 
 ## Sources
 
-- [US politicians push agencies to restrict research collaboration with China](https://www.nature.com/articles/d41586-026-02226-9?utm_source=lootura.com) — 2026-07-18T16:55:45.433Z
-- [Trump Pursues a Deeper Bond With China’s Leader, Despite Hostile Speech](https://www.nytimes.com/2026/07/17/us/politics/trump-speech-china-xi.html?utm_source=lootura.com) — 2026-07-17T21:29:41.000Z
+- [US politicians push agencies to restrict research collaboration with China](https://www.nature.com/articles/d41586-026-02226-9?utm_source=lootura.com) — 2026-07-18T20:43:10.753Z

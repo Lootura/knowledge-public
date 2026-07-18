@@ -3,7 +3,7 @@
 > Follow Artificial intelligence, a tracked topic, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: topic
-- Updated: 2026-07-18T16:55:42.019Z
+- Updated: 2026-07-18T20:43:07.014Z
 - Canonical: https://atlas.lootura.com/us/topic/artificial-intelligence
 
 ## Recent changes
@@ -71,5 +71,5 @@ Date: 2026-07-17
 ## Sources
 
 - [Can you spot an AI image? Quiz shows how difficult identifying deepfakes has become.](https://www.cbsnews.com/news/ai-quiz-spotting-fake-images-verification-tool-veriff/?utm_source=lootura.com) — 2026-07-18T01:06:55.000Z
-- [AI is set to completely transform cybersecurity — here’s how researchers must prepare](https://www.nature.com/articles/d41586-026-02214-z?utm_source=lootura.com) — 2026-07-18T16:55:45.433Z
-- [A global capital for AI safety is emerging — and it’s not in Silicon Valley](https://www.nature.com/articles/d41586-026-01389-9?utm_source=lootura.com) — 2026-07-18T16:55:45.433Z
+- [AI is set to completely transform cybersecurity — here’s how researchers must prepare](https://www.nature.com/articles/d41586-026-02214-z?utm_source=lootura.com) — 2026-07-18T20:43:10.753Z
+- [A global capital for AI safety is emerging — and it’s not in Silicon Valley](https://www.nature.com/articles/d41586-026-01389-9?utm_source=lootura.com) — 2026-07-18T20:43:10.753Z

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/espana/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/espana/index.json",
   "description": "Follow Spain, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-18T16:55:42.019Z",
+  "updatedAt": "2026-07-18T20:43:07.014Z",
   "aliases": [
     "Estado español",
     "Spain"
@@ -67,10 +67,10 @@
   ],
   "sources": [
     {
-      "title": "Spain could make World Cup history: The first to win men's and women's trophies back-to-back",
-      "url": "https://www.npr.org/2026/07/17/g-s1-134232/spain-world-cup-history-women-men?utm_source=lootura.com",
-      "publishedAt": "2026-07-17T20:17:27.000Z",
-      "sourceId": "lootura-us-npr"
+      "title": "Wife of US heir and activist donor on fighting his extradition to US: ‘It’s incredible that this can happen’",
+      "url": "https://www.theguardian.com/us-news/2026/jul/18/fergie-chambers-stella-schnabel-spain-extradition?utm_source=lootura.com",
+      "publishedAt": "2026-07-18T11:00:04.000Z",
+      "sourceId": "lootura-us-the-guardian-us"
     }
   ],
   "evidenceCount": 0

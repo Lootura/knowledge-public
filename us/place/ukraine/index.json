@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/ukraine/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/ukraine/index.json",
   "description": "Follow Ukraine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-18T16:55:42.019Z",
+  "updatedAt": "2026-07-18T20:43:07.014Z",
   "aliases": [
     "Kyiv"
   ],
@@ -21,6 +21,11 @@
     {
       "title": "Ukrainian drone attacks on Russia kill at least 9, injure over 60",
       "summary": "Kyiv's forces are continuing their relentless aerial campaign​ against energy infrastructure and military targets inside Russia.",
+      "date": "2026-07-18"
+    },
+    {
+      "title": "Ukrainian drones hit warehouses and other sites across Russia, killing 9 and wounding over 60",
+      "summary": "Kyiv's forces have pressed their relentless aerial campaign against energy infrastructure and military targets inside Russia, aiming to undermine Moscow's war effort and make Russians feel the consequences of the Kremlin's all-out invasion of Ukraine that is well into its fifth year.",
       "date": "2026-07-18"
     },
     {
@@ -57,11 +62,6 @@
       "title": "Ukrainians protest Zelenskyy's ouster of his popular defense minister",
       "summary": "President Volodymyr Zelenskyy shook up his wartime government, drawing thousands into the streets Thursday across Ukraine to protest the ouster of his youthful defense minister — seen as an innovator of the country's successful drone technology but who clashed with the traditional military establishment.",
       "date": "2026-07-16"
-    },
-    {
-      "title": "Ukrainian's Zelenskyy faces major backlash for ousting defense chief Mykhailo Fedorov amid progress vs. Russia",
-      "summary": "Ukrainians are demonstrating in Kyiv and senior figures announcing their resignations over President Volodymyr Zelenksyy's move to oust his popular defense chief.",
-      "date": "2026-07-16"
     }
   ],
   "sources": [
@@ -76,7 +76,13 @@
       "url": "https://www.npr.org/2026/07/18/nx-s1-5898963/8-killed-and-more-than-60-wounded-in-ukrainian-drone-attack-on-russian-regions?utm_source=lootura.com",
       "publishedAt": "2026-07-18T10:45:43.000Z",
       "sourceId": "lootura-us-npr-world"
+    },
+    {
+      "title": "Ukrainian drones hit warehouses and other sites across Russia, killing 9 and wounding over 60",
+      "url": "https://www.pbs.org/newshour/world/ukrainian-drones-hit-warehouses-and-other-sites-across-russia-killing-9-and-wounding-over-60?utm_source=lootura.com",
+      "publishedAt": "2026-07-18T17:21:36.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 3
 }

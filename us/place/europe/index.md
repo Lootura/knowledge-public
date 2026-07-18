@@ -70,4 +70,4 @@ Date: 2026-07-12
 
 ## Sources
 
-- ['Chainsaw massacre': Europe mulls culls for fish-guzzling cormorant](https://phys.org/news/2026-07-chainsaw-massacre-europe-mulls-culls.html?utm_source=lootura.com) — 2026-07-18T08:20:03.000Z
+No public source links.

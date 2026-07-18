@@ -52,4 +52,4 @@ Date: 2026-07-17
 
 ## Fuentes
 
-- [Los incendios forestales cortan 14 carreteras secundarias en cuatro provincias](https://www.20minutos.es/nacional/los-incendios-forestales-cortan-14-carreteras-secundarias-cuatro-provincias_7016224_0.html?utm_source=lootura.com) — 2026-07-18T13:48:24.000Z
+No public source links.

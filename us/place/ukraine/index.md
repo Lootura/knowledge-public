@@ -3,7 +3,7 @@
 > Follow Ukraine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-18T16:55:42.019Z
+- Updated: 2026-07-18T20:43:07.014Z
 - Canonical: https://atlas.lootura.com/us/place/ukraine
 
 ## Recent changes
@@ -17,6 +17,12 @@ Date: 2026-07-18
 ### Ukrainian drone attacks on Russia kill at least 9, injure over 60
 
 Kyiv's forces are continuing their relentless aerial campaign​ against energy infrastructure and military targets inside Russia.
+
+Date: 2026-07-18
+
+### Ukrainian drones hit warehouses and other sites across Russia, killing 9 and wounding over 60
+
+Kyiv's forces have pressed their relentless aerial campaign against energy infrastructure and military targets inside Russia, aiming to undermine Moscow's war effort and make Russians feel the consequences of the Kremlin's all-out invasion of Ukraine that is well into its fifth year.
 
 Date: 2026-07-18
 
@@ -62,13 +68,8 @@ President Volodymyr Zelenskyy shook up his wartime government, drawing thousands
 
 Date: 2026-07-16
 
-### Ukrainian's Zelenskyy faces major backlash for ousting defense chief Mykhailo Fedorov amid progress vs. Russia
-
-Ukrainians are demonstrating in Kyiv and senior figures announcing their resignations over President Volodymyr Zelenksyy's move to oust his popular defense chief.
-
-Date: 2026-07-16
-
 ## Sources
 
 - [Ukrainian drone attacks on Russia kill at least 9, injure over 60](https://www.cbsnews.com/news/ukraine-russia-war-drone-attacks-wildberries/?utm_source=lootura.com) — 2026-07-18T16:12:37.000Z
 - [8 killed and more than 60 wounded in Ukrainian drone attack on Russian regions](https://www.npr.org/2026/07/18/nx-s1-5898963/8-killed-and-more-than-60-wounded-in-ukrainian-drone-attack-on-russian-regions?utm_source=lootura.com) — 2026-07-18T10:45:43.000Z
+- [Ukrainian drones hit warehouses and other sites across Russia, killing 9 and wounding over 60](https://www.pbs.org/newshour/world/ukrainian-drones-hit-warehouses-and-other-sites-across-russia-killing-9-and-wounding-over-60?utm_source=lootura.com) — 2026-07-18T17:21:36.000Z

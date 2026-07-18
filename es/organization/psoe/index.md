@@ -3,7 +3,7 @@
 > Sigue la actividad de Partido Socialista Obrero Español en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-18T16:55:22.774Z
+- Actualizado: 2026-07-18T20:42:47.844Z
 - Canonical: https://atlas.lootura.com/es/organization/psoe
 
 ## Cambios recientes
@@ -70,5 +70,4 @@ Date: 2026-07-17
 
 ## Fuentes
 
-- [El PSOE elige candidata para la alcaldía de Madrid este domingo: Enma López desafía a Reyes Maroto](https://www.elconfidencial.com/espana/2026-07-18/primarias-psoe-madrid-torrelavega-oviedo-1tps_4392193/?utm_source=lootura.com) — 2026-07-18T10:18:00.000Z
-- [El PSOE andaluz confirma a Montero, Espadas y Díaz como sus candidatos a senador](https://theobjective.com/espana/politica/2026-07-18/psoe-andaluz-confirma-montero-espadas-diaz-senador/?amp=&utm_source=lootura.com) — 2026-07-18T08:09:34.000Z
+- [Feijóo invoca una España "que se parezca más a su selección" y moviliza a sus alcaldes contra "el saqueo del PSOE"](https://amp.elmundo.es/espana/2026/07/18/6a5b7272e4d4d84e0b8b45a6.html?utm_source=lootura.com) — 2026-07-18T12:37:12.000Z

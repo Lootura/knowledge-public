@@ -3,7 +3,7 @@
 > Follow Graham Platner, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-07-18T16:55:42.019Z
+- Updated: 2026-07-18T20:43:07.014Z
 - Canonical: https://atlas.lootura.com/us/person/graham-platner
 
 ## Recent changes

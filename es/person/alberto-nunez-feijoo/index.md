@@ -3,10 +3,16 @@
 > Sigue la actividad de Alberto Núñez Feijóo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-18T16:55:22.774Z
+- Actualizado: 2026-07-18T20:42:47.844Z
 - Canonical: https://atlas.lootura.com/es/person/alberto-nunez-feijoo
 
 ## Cambios recientes
+
+### Los candidatos del PP a las alcaldías de Castilla y León apelan a la ambición y a la cercanía
+
+A pesar de que aún quedan casi diez meses por delante, el partido Popular dio el pistoletazo de salida paras las próximas elecciones municipales del mes de mayo de 2027. Y lo hizo con un gran acto en Santiago de Compostela, presidido por Alberto Núñez Feijóo, y que contó con la presencia de los candidatos de todas las.
+
+Date: 2026-07-18
 
 ### Feijóo anuncia a los 50 candidatos a las alcaldías de provincia, entre ellos Gema Igual
 
@@ -62,15 +68,7 @@ Dijo que era terrorismo, golpe de Estado, delincuencia, corrupción, que había 
 
 Date: 2026-07-17
 
-### Feijóo acata el aval a la amnistía entre reproches a Sánchez: «Mintió y vendió a los españoles»
-
-El presidente del Partido Popular, Alberto Núñez Feijóo , ha subrayado este miércoles en Las Palmas de Gran Canaria que un demócrata «respeta las sentencias, todas las sentencias y de todos los tribunales » y, además, «no ordena a sus ministros salir a señalar a jueces con nombres y apellidos». Núñez Feijóo ha hecho es.
-
-Date: 2026-07-16
-
 ## Fuentes
 
-- [Feijóo vaticina que «las urnas serán también la sentencia» del sanchismo](https://www.abc.es/espana/galicia/feijoo-vaticina-urnas-sentencia-sanchismo-20260718120339-nt.html?utm_source=lootura.com) — 2026-07-18T12:49:47.000Z
-- [Feijóo anuncia a los 50 candidatos a las alcaldías de provincia, entre ellos Gema Igual](https://www.elconfidencial.com/espana/2026-07-18/pp-candidatos-elecciones-municipales-2027-1tps_4392175/?utm_source=lootura.com) — 2026-07-18T09:15:00.000Z
-- [Feijóo pide "decencia" en una España "harta de mentiras": "El sanchismo ha sido condenado en todas sus formas"](https://www.elconfidencial.com/espana/2026-07-18/feijoo-anuncia-a-los-50-candidatos-alcaldias-de-provincia-gema-igual_4392191/?utm_source=lootura.com) — 2026-07-18T09:15:00.000Z
-- [Feijóo presenta este sábado en Santiago a los candidatos del PP a las capitales de provincia](https://theobjective.com/espana/politica/2026-07-18/feijoo-candidatos-pp-capitales-provincia/?utm_source=lootura.com) — 2026-07-18T10:55:13.000Z
+- [Feijóo invoca una España "que se parezca más a su selección" y moviliza a sus alcaldes contra "el saqueo del PSOE"](https://amp.elmundo.es/espana/2026/07/18/6a5b7272e4d4d84e0b8b45a6.html?utm_source=lootura.com) — 2026-07-18T12:37:12.000Z
+- [Los candidatos del PP a las alcaldías de Castilla y León apelan a la ambición y a la cercanía](https://www.larazon.es/castilla-y-leon/candidatos-alcaldias-castilla-leon-apelan-ambicion-cercania_202607186a5bb49d1db8de040996591e.html?utm_source=lootura.com) — 2026-07-18T19:30:15.000Z

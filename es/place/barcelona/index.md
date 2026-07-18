@@ -70,4 +70,4 @@ Date: 2026-07-15
 
 ## Fuentes
 
-- [Los Mossos detienen a una pareja reincidente por el robo de joyas valoradas en 8.000 euros](https://theobjective.com/sociedad/suceso/2026-07-18/mossos-pareja-reincidente-robo-de-joyas-8-000-euros/?utm_source=lootura.com) — 2026-07-18T10:28:25.000Z
+No public source links.

@@ -3,7 +3,7 @@
 > Follow New York, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-18T16:55:42.019Z
+- Updated: 2026-07-18T20:43:07.014Z
 - Canonical: https://atlas.lootura.com/us/place/new-york
 
 ## Recent changes
@@ -29,6 +29,12 @@ Date: 2026-07-18
 ### First death reported in Legionnaires' disease outbreak in New York City
 
 Investigators are still trying to pinpoint the source of the outbreak on Manhattan's Upper East Side that has infected at least 67 people and hospitalized dozens, according to city Health Department data.
+
+Date: 2026-07-18
+
+### Michelin-starred Chinese restaurant Yingtao modernizes family recipes
+
+Chef Emily Yuen is putting a modern twist on traditional family recipes from Xi'an, Shanghai and Hong Kong with Yingtao, a Michelin-starred Chinese restaurant in New York City.
 
 Date: 2026-07-18
 
@@ -62,15 +68,10 @@ There's growing backlash nationwide against AI data centers and now New York is 
 
 Date: 2026-07-15
 
-### Wildfires Rage in Ontario as Smoke Affects Toronto’s Air Quality
-
-Air quality in Canada’s largest city was at times the worst in the world on Wednesday, as wildfires across Ontario sent smoke drifting into New York City and beyond.
-
-Date: 2026-07-15
-
 ## Sources
 
 - [A model struggled to get treated for aggressive breast cancer, so she moved thousands of miles away](https://www.cbsnews.com/news/alaska-model-arizona-city-of-hope-breast-cancer/?utm_source=lootura.com) — 2026-07-18T12:00:04.000Z
+- [Michelin-starred Chinese restaurant Yingtao modernizes family recipes](https://www.cbsnews.com/video/michelin-starred-chinese-restaurant-yingtao-modernizes-family-recipes/?utm_source=lootura.com) — 2026-07-18T18:02:23.000Z
 - [First death reported in Legionnaires' disease outbreak in New York City](https://www.pbs.org/newshour/health/first-death-reported-in-legionnaires-disease-outbreak-in-new-york-city?utm_source=lootura.com) — 2026-07-18T16:00:05.000Z
 - [Trump Threatens Canada With Tariffs for Wildfire Smoke Over U.S.](https://www.nytimes.com/2026/07/17/weather/trump-canada-tariffs-wildfire-smoke.html?utm_source=lootura.com) — 2026-07-18T03:06:43.000Z
 - [Zohran Mamdani Knows He Has Political Capital. And He Intends to Spend It.](https://www.nytimes.com/2026/07/18/magazine/zohran-mamdani-interview.html?utm_source=lootura.com) — 2026-07-18T13:24:37.000Z

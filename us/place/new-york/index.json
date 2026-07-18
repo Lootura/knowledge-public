@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/new-york/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/new-york/index.json",
   "description": "Follow New York, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-18T16:55:42.019Z",
+  "updatedAt": "2026-07-18T20:43:07.014Z",
   "aliases": [
     "New York City"
   ],
@@ -31,6 +31,11 @@
     {
       "title": "First death reported in Legionnaires' disease outbreak in New York City",
       "summary": "Investigators are still trying to pinpoint the source of the outbreak on Manhattan's Upper East Side that has infected at least 67 people and hospitalized dozens, according to city Health Department data.",
+      "date": "2026-07-18"
+    },
+    {
+      "title": "Michelin-starred Chinese restaurant Yingtao modernizes family recipes",
+      "summary": "Chef Emily Yuen is putting a modern twist on traditional family recipes from Xi'an, Shanghai and Hong Kong with Yingtao, a Michelin-starred Chinese restaurant in New York City.",
       "date": "2026-07-18"
     },
     {
@@ -57,11 +62,6 @@
       "title": "Battle against data centers grows nationwide amid concerns over electricity, water usage",
       "summary": "There's growing backlash nationwide against AI data centers and now New York is hitting pause. Gov. Kathy Hochul signed an executive order to delay the building boom. Kelly O'Grady has more.",
       "date": "2026-07-15"
-    },
-    {
-      "title": "Wildfires Rage in Ontario as Smoke Affects Toronto’s Air Quality",
-      "summary": "Air quality in Canada’s largest city was at times the worst in the world on Wednesday, as wildfires across Ontario sent smoke drifting into New York City and beyond.",
-      "date": "2026-07-15"
     }
   ],
   "sources": [
@@ -69,6 +69,12 @@
       "title": "A model struggled to get treated for aggressive breast cancer, so she moved thousands of miles away",
       "url": "https://www.cbsnews.com/news/alaska-model-arizona-city-of-hope-breast-cancer/?utm_source=lootura.com",
       "publishedAt": "2026-07-18T12:00:04.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
+    {
+      "title": "Michelin-starred Chinese restaurant Yingtao modernizes family recipes",
+      "url": "https://www.cbsnews.com/video/michelin-starred-chinese-restaurant-yingtao-modernizes-family-recipes/?utm_source=lootura.com",
+      "publishedAt": "2026-07-18T18:02:23.000Z",
       "sourceId": "lootura-us-cbs-news"
     },
     {
@@ -96,5 +102,5 @@
       "sourceId": "lootura-us-time"
     }
   ],
-  "evidenceCount": 4
+  "evidenceCount": 5
 }

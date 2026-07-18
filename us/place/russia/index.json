@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/russia/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/russia/index.json",
   "description": "Follow Russia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-18T16:55:42.019Z",
+  "updatedAt": "2026-07-18T20:43:07.014Z",
   "aliases": [],
   "changes": [
     {
@@ -24,6 +24,11 @@
     {
       "title": "Ukrainian drone attacks on Russia kill at least 9, injure over 60",
       "summary": "Kyiv's forces are continuing their relentless aerial campaign​ against energy infrastructure and military targets inside Russia.",
+      "date": "2026-07-18"
+    },
+    {
+      "title": "Ukrainian drones hit warehouses and other sites across Russia, killing 9 and wounding over 60",
+      "summary": "Kyiv's forces have pressed their relentless aerial campaign against energy infrastructure and military targets inside Russia, aiming to undermine Moscow's war effort and make Russians feel the consequences of the Kremlin's all-out invasion of Ukraine that is well into its fifth year.",
       "date": "2026-07-18"
     },
     {
@@ -55,11 +60,6 @@
       "title": "How drones are reshaping modern warfare in Ukraine, Middle East",
       "summary": "Drones have become a defining feature of the conflict between Russia and Ukraine. They.",
       "date": "2026-07-16"
-    },
-    {
-      "title": "Zelenskyy fires Ukraine's tech-savvy defense minister in government reshuffle",
-      "summary": "Ukraine's President Volodymyr Zelenskyy has fired the country's popular defense minister, who pushed for innovation in the battlefield through the use of drones and turned the tables on Russia. (Image credit: ROMAN PILIPEY).",
-      "date": "2026-07-16"
     }
   ],
   "sources": [
@@ -76,11 +76,17 @@
       "sourceId": "lootura-us-npr-world"
     },
     {
+      "title": "Ukrainian drones hit warehouses and other sites across Russia, killing 9 and wounding over 60",
+      "url": "https://www.pbs.org/newshour/world/ukrainian-drones-hit-warehouses-and-other-sites-across-russia-killing-9-and-wounding-over-60?utm_source=lootura.com",
+      "publishedAt": "2026-07-18T17:21:36.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
+    },
+    {
       "title": "Russia Bill Broadens Sanctions but Could Fuel Fears Over the Dollar",
       "url": "https://www.nytimes.com/2026/07/18/us/politics/russia-bill-sanctions-trump.html?utm_source=lootura.com",
       "publishedAt": "2026-07-18T09:01:37.000Z",
       "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 4
 }

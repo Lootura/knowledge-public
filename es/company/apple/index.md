@@ -70,4 +70,4 @@ Date: 2026-07-13
 
 ## Fuentes
 
-- [Si tienes Android, esta es la mejor alternativa a la Play Store: encuentra apps en GitHub, las descarga e instala con un solo clic](https://hipertextual.com/mobile/repostore-tienda-apps-github-android/?utm_source=lootura.com) — 2026-07-18T10:00:00.000Z
+No public source links.

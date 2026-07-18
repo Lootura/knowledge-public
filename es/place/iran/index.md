@@ -3,10 +3,22 @@
 > Sigue la actividad de Iran en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-18T16:55:22.774Z
+- Actualizado: 2026-07-18T20:42:47.844Z
 - Canonical: https://atlas.lootura.com/es/place/iran
 
 ## Cambios recientes
+
+### Mueren dos soldados de EE.UU. y uno permanece desaparecido tras un ataque iraní sobre Jordania
+
+Dos uniformados estadounidenses han muerto y un tercero permanece desaparecido después de ataques con misiles balísticos y drones lanzados por Irán contra una base en Jordania. Son las primeras bajas estadounidenses provocadas directamente por fuego iraní desde que Estados Unidos retomara los ataques este mes y elevan.
+
+Date: 2026-07-18
+
+### Irán mata a dos soldados de Estados Unidos en un ataque contra una base en Jordania
+
+Irán ha anunciado este sábado que deja en suspenso el acuerdo de alto el fuego firmado con Estados Unidos el pasado 17 de junio. “Hemos suspendido nuestros compromisos adquiridos en virtud del memorando de entendimiento y ya no los estamos implementando”, ha declarado el viceministro de Relaciones Exteriores iraní, Kaz.
+
+Date: 2026-07-18
 
 ### El Golfo Pérsico arde de nuevo e Irán anuncia que "suspende todos sus compromisos": "De hecho, no los estamos ya cumpliendo"
 
@@ -56,18 +68,7 @@ Los precios del petróleo retoman las subidas a medida que se intensifican las h
 
 Date: 2026-07-17
 
-### El mercado se abona a la incertidumbre: las Bolsas borran el alto al fuego de Trump
-
-Nadie dijo que fuera a ser fácil. El memorándum de Islamabad nació como un intento de ganar tiempo más que como una solución definitiva. El acuerdo frenó las hostilidades entre Estados Unidos e Irán y abrió una ventana de negociación de 60 días que los mercados interpretaron como el principio del fin de la crisis. Un m.
-
-Date: 2026-07-17
-
-### El Ibex salva la sesión con un alza del 0,15% que le lleva a superar los 19.300 puntos
-
-Los mercados siguen encontrando obstáculos que atenazan sus subidas. La nueva espiral de ataques de EEUU sobre Irán y la subida de tipos en Corea mantienen en guardia a los inversores. El Ibex, con movimientos estrechos durante toda la semana, vuelve a consolidar niveles en el día del estreno en Bolsa de Digi.
-
-Date: 2026-07-16
-
 ## Fuentes
 
-- [El Golfo Pérsico arde de nuevo e Irán anuncia que "suspende todos sus compromisos": "De hecho, no los estamos ya cumpliendo"](https://www.elmundo.es/internacional/2026/07/18/6a5b9252fdddff6f568b4582.html?utm_source=lootura.com) — 2026-07-18T15:22:59.000Z
+- [Mueren dos soldados de EE.UU. y uno permanece desaparecido tras un ataque iraní sobre Jordania](https://www.abc.es/internacional/mueren-dos-militares-eeuu-tras-ataque-iran-20260718194249-nt.html?utm_source=lootura.com) — 2026-07-18T18:54:51.000Z
+- [Irán mata a dos soldados de Estados Unidos en un ataque contra una base en Jordania](https://elpais.com/internacional/2026-07-18/iran-deja-en-suspenso-la-tregua-con-estados-unidos-tras-acusarle-de-matar-a-50-personas-en-tres-semanas.html?utm_source=lootura.com) — 2026-07-18T18:19:16.000Z

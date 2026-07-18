@@ -8,11 +8,16 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/partido-popular/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/partido-popular/index.json",
   "description": "Sigue la actividad de Partido Popular en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-18T16:55:22.774Z",
+  "updatedAt": "2026-07-18T20:42:47.844Z",
   "aliases": [
     "PP"
   ],
   "changes": [
+    {
+      "title": "Los candidatos del PP a las alcaldías de Castilla y León apelan a la ambición y a la cercanía",
+      "summary": "A pesar de que aún quedan casi diez meses por delante, el partido Popular dio el pistoletazo de salida paras las próximas elecciones municipales del mes de mayo de 2027. Y lo hizo con un gran acto en Santiago de Compostela, presidido por Alberto Núñez Feijóo, y que contó con la presencia de los candidatos de todas las.",
+      "date": "2026-07-18"
+    },
     {
       "title": "Feijóo anuncia a los 50 candidatos a las alcaldías de provincia, entre ellos Gema Igual",
       "summary": "El presidente nacional del PP, Alberto Núñez Feijóo , presentará este sábado en Santiago de Compostela a los 50 cabezas de lista para las alcaldías de capitales de provincia . Mantendrá a los 30 actuales regidores -entre ellos la alcaldesa de Santander, Gema Igual - y renovará 11 candidaturas en las 20 capitales donde.",
@@ -57,32 +62,21 @@
       "title": "El fondo de Pablo Casado pujará para mantener los Falcon",
       "summary": "Boost Air, la empresa de mantenimiento aeronáutico propiedad de Corporación Financiera Azuaga e Hyperion Fund -el fondo liderado por el exlíder del PP Pablo Casado-, pujará por...",
       "date": "2026-07-17"
-    },
-    {
-      "title": "El viceconsejero de Vox en la Junta fue falangista, considera un peligro las autonomías y cree falsa la convivencia de Al-Ándalus",
-      "summary": "Rafael Sánchez Saus, recién nombrado viceconsejero de Turismo, Justicia, Desregulación y Administración Local, carece de experiencia administrativa en las áreas que el PP ha entregado a Vox en el pacto para formar el Gobierno de la Junta de Andalucía y fue falangista, una ideología que dice que ahora no comparte. En el.",
-      "date": "2026-07-17"
     }
   ],
   "sources": [
     {
-      "title": "Feijóo anuncia a los 50 candidatos a las alcaldías de provincia, entre ellos Gema Igual",
-      "url": "https://www.elconfidencial.com/espana/2026-07-18/pp-candidatos-elecciones-municipales-2027-1tps_4392175/?utm_source=lootura.com",
-      "publishedAt": "2026-07-18T09:15:00.000Z",
-      "sourceId": "lootura-es-el-confidencial"
+      "title": "Feijóo invoca una España \"que se parezca más a su selección\" y moviliza a sus alcaldes contra \"el saqueo del PSOE\"",
+      "url": "https://amp.elmundo.es/espana/2026/07/18/6a5b7272e4d4d84e0b8b45a6.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-18T12:37:12.000Z",
+      "sourceId": "lootura-es-el-mundo"
     },
     {
-      "title": "Feijóo pide \"decencia\" en una España \"harta de mentiras\": \"El sanchismo ha sido condenado en todas sus formas\"",
-      "url": "https://www.elconfidencial.com/espana/2026-07-18/feijoo-anuncia-a-los-50-candidatos-alcaldias-de-provincia-gema-igual_4392191/?utm_source=lootura.com",
-      "publishedAt": "2026-07-18T09:15:00.000Z",
-      "sourceId": "lootura-es-el-confidencial"
-    },
-    {
-      "title": "Feijóo presenta este sábado en Santiago a los candidatos del PP a las capitales de provincia",
-      "url": "https://theobjective.com/espana/politica/2026-07-18/feijoo-candidatos-pp-capitales-provincia/?utm_source=lootura.com",
-      "publishedAt": "2026-07-18T10:55:13.000Z",
-      "sourceId": "lootura-es-the-objective"
+      "title": "Los candidatos del PP a las alcaldías de Castilla y León apelan a la ambición y a la cercanía",
+      "url": "https://www.larazon.es/castilla-y-leon/candidatos-alcaldias-castilla-leon-apelan-ambicion-cercania_202607186a5bb49d1db8de040996591e.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-18T19:30:15.000Z",
+      "sourceId": "lootura-es-la-razon"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 1
 }

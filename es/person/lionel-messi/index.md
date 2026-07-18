@@ -3,7 +3,7 @@
 > Sigue la actividad de Lionel Messi en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-18T16:55:22.774Z
+- Actualizado: 2026-07-18T20:42:47.844Z
 - Canonical: https://atlas.lootura.com/es/person/lionel-messi
 
 ## Cambios recientes
@@ -58,4 +58,4 @@ Date: 2026-07-15
 
 ## Fuentes
 
-- [Kevin Durant 'pasa' de saludar a Messi y va directo hacia Rodri y De La Fuente](https://www.20minutos.es/deportes/kevin-durant-pasa-saludar-messi-directo-saludar-rodri-fuente_7016213_0.html?utm_source=lootura.com) — 2026-07-18T12:51:01.000Z
+- [Pasión argentina y sangre española, frente a frente en un debate de alta tensión: "Solo tengo miedo a Messi"](https://www.20minutos.es/deportes/pasion-argentina-sangre-espanola-frente-frente-un-debate-alta-tension-por-final-mundial-solo-tengo-miedo-messi_7015905_0.html?utm_source=lootura.com) — 2026-07-18T18:30:21.000Z

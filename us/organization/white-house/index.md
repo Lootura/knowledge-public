@@ -70,5 +70,4 @@ Date: 2026-07-17
 
 ## Sources
 
-- [Trump says these documents prove his false claims of election fraud. Here's what they really say](https://www.pbs.org/newshour/politics/trump-says-these-documents-prove-his-false-claims-of-election-fraud-heres-what-they-really-say?utm_source=lootura.com) — 2026-07-17T23:08:36.000Z
-- [Trump Brings Full Weight of Government to Bolster False Election Claims](https://www.nytimes.com/2026/07/17/us/politics/trump-government-election-claims.html?utm_source=lootura.com) — 2026-07-17T19:39:31.000Z
+No public source links.

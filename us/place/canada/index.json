@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/canada/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/canada/index.json",
   "description": "Follow Canada, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-18T16:55:42.019Z",
+  "updatedAt": "2026-07-18T20:43:07.014Z",
   "aliases": [],
   "changes": [
     {
@@ -27,23 +27,28 @@
       "date": "2026-07-18"
     },
     {
-      "title": "Maps show wildfire smoke forecast, air quality alerts due to pollution from Canadian, Minnesota fires",
-      "summary": "Heavy smoke from several large wildfires blazing in Canada and Minnesota is engulfing large swaths of the Midwest and the U.S. East Coast this week.",
-      "date": "2026-07-18"
-    },
-    {
       "title": "Wildfire smoke from Canada and Minnesota pushes farther into the U.S. and engulfs D.C. in haze",
       "summary": "Warnings of dangerous conditions were expected to remain in effect through Saturday across a wide swath of the U.S., though there's potential for temporary improvement with storms forecast in some affected areas during the weekend.",
       "date": "2026-07-18"
     },
     {
-      "title": "Iqaluit, Canada’s Most Northern City, Gets Its First Bus Line",
-      "summary": "Jacinto Marques left Angola for Canada’s frozen edge. Now he’s running a bus service in Iqaluit, the largest, and only city in Canada’s Arctic.",
+      "title": "Maps show wildfire smoke forecast, air quality alerts in swath of U.S.",
+      "summary": "Heavy smoke from several large wildfires blazing in Canada and Minnesota is engulfing large swaths of the Midwest and the U.S. East Coast this week.",
       "date": "2026-07-18"
     },
     {
-      "title": "Maps show wildfire smoke forecast, air quality alerts in swath of U.S.",
+      "title": "Air quality improving in northeast, while wildfire smoke hangs over midwest",
+      "summary": "Wildfire smoke and unhealthy air persist and shift direction, as Trump demands explanation from Canada. (Image credit: Finn Gomez/Getty Images).",
+      "date": "2026-07-18"
+    },
+    {
+      "title": "Maps show wildfire smoke forecast, air quality alerts due to pollution from Canadian, Minnesota fires",
       "summary": "Heavy smoke from several large wildfires blazing in Canada and Minnesota is engulfing large swaths of the Midwest and the U.S. East Coast this week.",
+      "date": "2026-07-18"
+    },
+    {
+      "title": "Iqaluit, Canada’s Most Northern City, Gets Its First Bus Line",
+      "summary": "Jacinto Marques left Angola for Canada’s frozen edge. Now he’s running a bus service in Iqaluit, the largest, and only city in Canada’s Arctic.",
       "date": "2026-07-18"
     },
     {
@@ -55,25 +60,20 @@
       "title": "Trump threatens Canada with higher tariffs over wildfire smoke",
       "summary": "President Trump threatened more tariffs on Canada for wildfires that have blanketed large parts of the Midwest and East Coast in smoke in recent days.",
       "date": "2026-07-18"
-    },
-    {
-      "title": "100 million Americans facing dangerous wildfire smoke",
-      "summary": "That dangerous wildfire smoke from Canada is now on the move and smothering new U.S. cities. NBC News’ Tom Costello has the latest.",
-      "date": "2026-07-17"
     }
   ],
   "sources": [
     {
-      "title": "Maps show wildfire smoke forecast, air quality alerts due to pollution from Canadian, Minnesota fires",
+      "title": "Maps show wildfire smoke forecast, air quality alerts in swath of U.S.",
       "url": "https://www.cbsnews.com/news/wildfires-smoke-millions-exposed-midwest-northeast-us/?utm_source=lootura.com",
       "publishedAt": "2026-07-18T16:44:00.000Z",
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "100 million Americans facing dangerous wildfire smoke",
-      "url": "https://www.nbcnews.com/nightly-news/video/100-million-americans-facing-dangerous-wildfire-smoke-266866245835?utm_source=lootura.com",
-      "publishedAt": "2026-07-17T23:07:08.000Z",
-      "sourceId": "lootura-us-nbc-news"
+      "title": "Air quality improving in northeast, while wildfire smoke hangs over midwest",
+      "url": "https://www.npr.org/2026/07/18/nx-s1-5899009/us-canada-wildfire-smoke?utm_source=lootura.com",
+      "publishedAt": "2026-07-18T18:15:42.000Z",
+      "sourceId": "lootura-us-npr"
     },
     {
       "title": "Wildfire smoke from Canada and Minnesota pushes farther into the U.S. and engulfs D.C. in haze",
@@ -94,17 +94,11 @@
       "sourceId": "lootura-us-the-new-york-times-politics"
     },
     {
-      "title": "Iqaluit, Canada’s Most Northern City, Gets Its First Bus Line",
-      "url": "https://www.nytimes.com/2026/07/18/world/canada/iqaluit-arctic-city-bus.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-18T09:01:06.000Z",
-      "sourceId": "lootura-us-the-new-york-times-world"
-    },
-    {
       "title": "Climate's Compounding Financial Toll Is Becoming Harder to Ignore",
       "url": "https://time.com/article/2026/07/17/climate-impacts-economic-risk/?utm_source=lootura.com",
       "publishedAt": "2026-07-18T12:00:03.000Z",
       "sourceId": "lootura-us-time"
     }
   ],
-  "evidenceCount": 7
+  "evidenceCount": 6
 }

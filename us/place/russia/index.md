@@ -3,7 +3,7 @@
 > Follow Russia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-18T16:55:42.019Z
+- Updated: 2026-07-18T20:43:07.014Z
 - Canonical: https://atlas.lootura.com/us/place/russia
 
 ## Recent changes
@@ -23,6 +23,12 @@ Date: 2026-07-18
 ### Ukrainian drone attacks on Russia kill at least 9, injure over 60
 
 Kyiv's forces are continuing their relentless aerial campaign​ against energy infrastructure and military targets inside Russia.
+
+Date: 2026-07-18
+
+### Ukrainian drones hit warehouses and other sites across Russia, killing 9 and wounding over 60
+
+Kyiv's forces have pressed their relentless aerial campaign against energy infrastructure and military targets inside Russia, aiming to undermine Moscow's war effort and make Russians feel the consequences of the Kremlin's all-out invasion of Ukraine that is well into its fifth year.
 
 Date: 2026-07-18
 
@@ -62,14 +68,9 @@ Drones have become a defining feature of the conflict between Russia and Ukraine
 
 Date: 2026-07-16
 
-### Zelenskyy fires Ukraine's tech-savvy defense minister in government reshuffle
-
-Ukraine's President Volodymyr Zelenskyy has fired the country's popular defense minister, who pushed for innovation in the battlefield through the use of drones and turned the tables on Russia. (Image credit: ROMAN PILIPEY).
-
-Date: 2026-07-16
-
 ## Sources
 
 - [Ukrainian drone attacks on Russia kill at least 9, injure over 60](https://www.cbsnews.com/news/ukraine-russia-war-drone-attacks-wildberries/?utm_source=lootura.com) — 2026-07-18T16:12:37.000Z
 - [8 killed and more than 60 wounded in Ukrainian drone attack on Russian regions](https://www.npr.org/2026/07/18/nx-s1-5898963/8-killed-and-more-than-60-wounded-in-ukrainian-drone-attack-on-russian-regions?utm_source=lootura.com) — 2026-07-18T10:45:43.000Z
+- [Ukrainian drones hit warehouses and other sites across Russia, killing 9 and wounding over 60](https://www.pbs.org/newshour/world/ukrainian-drones-hit-warehouses-and-other-sites-across-russia-killing-9-and-wounding-over-60?utm_source=lootura.com) — 2026-07-18T17:21:36.000Z
 - [Russia Bill Broadens Sanctions but Could Fuel Fears Over the Dollar](https://www.nytimes.com/2026/07/18/us/politics/russia-bill-sanctions-trump.html?utm_source=lootura.com) — 2026-07-18T09:01:37.000Z

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/donald-trump/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/donald-trump/index.json",
   "description": "Follow Donald Trump, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-18T16:55:42.019Z",
+  "updatedAt": "2026-07-18T20:43:07.014Z",
   "aliases": [
     "President Donald Trump",
     "President Trump",
@@ -36,6 +36,16 @@
       "date": "2026-07-18"
     },
     {
+      "title": "Air quality improving in northeast, while wildfire smoke hangs over midwest",
+      "summary": "Wildfire smoke and unhealthy air persist and shift direction, as Trump demands explanation from Canada. (Image credit: Finn Gomez/Getty Images).",
+      "date": "2026-07-18"
+    },
+    {
+      "title": "Mike Lindell Not Registered to Vote in Minnesota, Where He is Running for Governor",
+      "summary": "President Trump endorsed Mike Lindell, a leader of the election denial movement, for Minnesota governor this week.",
+      "date": "2026-07-18"
+    },
+    {
       "title": "Funding milestone detected",
       "summary": "Defence minister seeks three ‘Nahal’ outposts in Gaza as top commander says Israel now controls 65% of the strip, violating Trump ceasefire deal Israel’s defence and finance ministers announced plans for three illegal settlements in Gaza and more than $400m (£300m) in funding to expand construction in the occupied West.",
       "date": "2026-07-18"
@@ -54,16 +64,6 @@
       "title": "As Trump Scraps With Meloni, His Envoy to Italy Is at Sea",
       "summary": "Tilman J. Fertitta, the U.S. ambassador to Rome, is summering on his superyacht as President Trump squabbles with Prime Minister Giorgia Meloni of Italy.",
       "date": "2026-07-18"
-    },
-    {
-      "title": "Trump threatens Canada with higher tariffs over wildfire smoke",
-      "summary": "President Trump threatened more tariffs on Canada for wildfires that have blanketed large parts of the Midwest and East Coast in smoke in recent days.",
-      "date": "2026-07-18"
-    },
-    {
-      "title": "What to know about the Trump administration's claim that 250K non-citizens are registered to vote in 4 states",
-      "summary": "Homeland Security Secretary Markwayne Mullin sent letters to four states alleging that a combined 250,000 non-citizens were registered to vote. Elections experts caution that could be a significant overcount.",
-      "date": "2026-07-18"
     }
   ],
   "sources": [
@@ -74,33 +74,27 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
+      "title": "Air quality improving in northeast, while wildfire smoke hangs over midwest",
+      "url": "https://www.npr.org/2026/07/18/nx-s1-5899009/us-canada-wildfire-smoke?utm_source=lootura.com",
+      "publishedAt": "2026-07-18T18:15:42.000Z",
+      "sourceId": "lootura-us-npr"
+    },
+    {
       "title": "Week in Politics: Trump's speech; midterm elections; Todd Blanche and Jay Clayton",
       "url": "https://www.npr.org/2026/07/18/nx-s1-5894907/week-in-politics-trumps-speech-midterm-elections-todd-blanche-and-jay-clayton?utm_source=lootura.com",
       "publishedAt": "2026-07-18T11:42:09.000Z",
       "sourceId": "lootura-us-npr-politics"
     },
     {
-      "title": "Trump says these documents prove his false claims of election fraud. Here's what they really say",
-      "url": "https://www.pbs.org/newshour/politics/trump-says-these-documents-prove-his-false-claims-of-election-fraud-heres-what-they-really-say?utm_source=lootura.com",
-      "publishedAt": "2026-07-17T23:08:36.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
-    },
-    {
-      "title": "Trump Brings Full Weight of Government to Bolster False Election Claims",
-      "url": "https://www.nytimes.com/2026/07/17/us/politics/trump-government-election-claims.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-17T19:39:31.000Z",
+      "title": "Mike Lindell Not Registered to Vote in Minnesota, Where He is Running for Governor",
+      "url": "https://www.nytimes.com/2026/07/18/us/mike-lindell-mypillow-minnsota-governor-election.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-18T17:08:41.000Z",
       "sourceId": "lootura-us-the-new-york-times"
     },
     {
       "title": "Russia Bill Broadens Sanctions but Could Fuel Fears Over the Dollar",
       "url": "https://www.nytimes.com/2026/07/18/us/politics/russia-bill-sanctions-trump.html?utm_source=lootura.com",
       "publishedAt": "2026-07-18T09:01:37.000Z",
-      "sourceId": "lootura-us-the-new-york-times-politics"
-    },
-    {
-      "title": "Trump Pursues a Deeper Bond With China’s Leader, Despite Hostile Speech",
-      "url": "https://www.nytimes.com/2026/07/17/us/politics/trump-speech-china-xi.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-17T21:29:41.000Z",
       "sourceId": "lootura-us-the-new-york-times-politics"
     },
     {

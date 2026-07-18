@@ -3,10 +3,22 @@
 > Sigue la actividad de Cinco Villas en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-18T16:55:22.774Z
+- Actualizado: 2026-07-18T20:42:47.844Z
 - Canonical: https://atlas.lootura.com/es/place/cinco-villas
 
 ## Cambios recientes
+
+### Vecinos y agricultores se vuelcan para salvar del fuego el casco urbano en Uncastillo: "Empieza a pesar el cansancio"
+
+Las llamas, que mantienen en vilo a los habitantes de diez municipios de la comarca zaragozana, llegaron a rodear la localidad. Desde allí, un grupo de voluntarios organizan ahora el despliegue frente al incendio El incendio de las Cinco Villas contiene su avance, aunque sigue sin estabilizarse tras arrasar más de 15.0.
+
+Date: 2026-07-18
+
+### En imágenes | Las huellas del incendio de las Cinco Villas
+
+Uncastillo, Orés, Asín, Luesia y Malpica de Arba muestran el impacto del mayor incendio registrado este año en España. Las imágenes recorren un paisaje calcinado, los trabajos del operativo y la solidaridad vecinal mientras las llamas siguen sin darse por estabilizadas Vecinos y agricultores se vuelcan para salvar el c.
+
+Date: 2026-07-18
 
 ### El incendio de las Cinco Villas en Zaragoza alcanza las 15.400 hectáreas calcinadas
 
@@ -56,12 +68,8 @@ El fuego declarado en el mediodía de este miércoles en el término municipal d
 
 Date: 2026-07-15
 
-### Incendio forestal en Zaragoza, en directo: Última hora de los desalojos en Orés y Asín
-
-El incendio forestal declarado este miércoles en el término municipal de Orés, en la comarca zaragozana de las Cinco Villas, continúa movilizando un amplio dispositivo de extinción. La evolución del fuego ha llevado al Gobierno de Aragón a elevar la emergencia a Situación Operativa 2-Nivel 2 del Plan Especial de Protec.
-
-Date: 2026-07-15
-
 ## Fuentes
 
-- [El incendio de las Cinco Villas en Zaragoza alcanza las 15.400 hectáreas calcinadas](https://theobjective.com/sociedad/suceso/2026-07-18/incendio-cinco-villas-zaragoza-hectareas/?utm_source=lootura.com) — 2026-07-18T10:38:28.000Z
+- [El incendio arrasa sin control 15.800 hectáreas y mantiene evacuados seis pueblos](https://www.abc.es/espana/aragon/incendio-zaragoza-acorrala-dos-pueblos-mantiene-vilo-20260717120956-nt.html?utm_source=lootura.com) — 2026-07-18T19:18:20.000Z
+- [Vecinos y agricultores se vuelcan para salvar del fuego el casco urbano en Uncastillo: "Empieza a pesar el cansancio"](https://www.eldiario.es/aragon/sociedad/vecinos-agricultores-vuelcan-salvar-casco-urbano-uncastillo-empieza-pesar-cansancio_1_13390647.html?utm_source=lootura.com) — 2026-07-18T17:22:36.000Z
+- [En imágenes | Las huellas del incendio de las Cinco Villas](https://www.eldiario.es/aragon/sociedad/imagenes-huellas-incendio-cinco-villas_3_13390765.html?utm_source=lootura.com) — 2026-07-18T18:04:27.000Z

@@ -3,7 +3,7 @@
 > Follow Donald Trump, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-07-18T16:55:42.019Z
+- Updated: 2026-07-18T20:43:07.014Z
 - Canonical: https://atlas.lootura.com/us/person/donald-trump
 
 ## Recent changes
@@ -32,6 +32,18 @@ Three months from the November midterms, President Trump is drawing attention to
 
 Date: 2026-07-18
 
+### Air quality improving in northeast, while wildfire smoke hangs over midwest
+
+Wildfire smoke and unhealthy air persist and shift direction, as Trump demands explanation from Canada. (Image credit: Finn Gomez/Getty Images).
+
+Date: 2026-07-18
+
+### Mike Lindell Not Registered to Vote in Minnesota, Where He is Running for Governor
+
+President Trump endorsed Mike Lindell, a leader of the election denial movement, for Minnesota governor this week.
+
+Date: 2026-07-18
+
 ### Funding milestone detected
 
 Defence minister seeks three ‘Nahal’ outposts in Gaza as top commander says Israel now controls 65% of the strip, violating Trump ceasefire deal Israel’s defence and finance ministers announced plans for three illegal settlements in Gaza and more than $400m (£300m) in funding to expand construction in the occupied West.
@@ -56,24 +68,11 @@ Tilman J. Fertitta, the U.S. ambassador to Rome, is summering on his superyacht 
 
 Date: 2026-07-18
 
-### Trump threatens Canada with higher tariffs over wildfire smoke
-
-President Trump threatened more tariffs on Canada for wildfires that have blanketed large parts of the Midwest and East Coast in smoke in recent days.
-
-Date: 2026-07-18
-
-### What to know about the Trump administration's claim that 250K non-citizens are registered to vote in 4 states
-
-Homeland Security Secretary Markwayne Mullin sent letters to four states alleging that a combined 250,000 non-citizens were registered to vote. Elections experts caution that could be a significant overcount.
-
-Date: 2026-07-18
-
 ## Sources
 
 - [What to know about Trump's claim that over 250K non-citizens are registered to vote](https://www.cbsnews.com/news/trump-markwayne-mullin-non-citizens-registered-voters-california-new-jersey-nevada-pennsylvania/?utm_source=lootura.com) — 2026-07-18T01:48:03.000Z
+- [Air quality improving in northeast, while wildfire smoke hangs over midwest](https://www.npr.org/2026/07/18/nx-s1-5899009/us-canada-wildfire-smoke?utm_source=lootura.com) — 2026-07-18T18:15:42.000Z
 - [Week in Politics: Trump's speech; midterm elections; Todd Blanche and Jay Clayton](https://www.npr.org/2026/07/18/nx-s1-5894907/week-in-politics-trumps-speech-midterm-elections-todd-blanche-and-jay-clayton?utm_source=lootura.com) — 2026-07-18T11:42:09.000Z
-- [Trump says these documents prove his false claims of election fraud. Here's what they really say](https://www.pbs.org/newshour/politics/trump-says-these-documents-prove-his-false-claims-of-election-fraud-heres-what-they-really-say?utm_source=lootura.com) — 2026-07-17T23:08:36.000Z
-- [Trump Brings Full Weight of Government to Bolster False Election Claims](https://www.nytimes.com/2026/07/17/us/politics/trump-government-election-claims.html?utm_source=lootura.com) — 2026-07-17T19:39:31.000Z
+- [Mike Lindell Not Registered to Vote in Minnesota, Where He is Running for Governor](https://www.nytimes.com/2026/07/18/us/mike-lindell-mypillow-minnsota-governor-election.html?utm_source=lootura.com) — 2026-07-18T17:08:41.000Z
 - [Russia Bill Broadens Sanctions but Could Fuel Fears Over the Dollar](https://www.nytimes.com/2026/07/18/us/politics/russia-bill-sanctions-trump.html?utm_source=lootura.com) — 2026-07-18T09:01:37.000Z
-- [Trump Pursues a Deeper Bond With China’s Leader, Despite Hostile Speech](https://www.nytimes.com/2026/07/17/us/politics/trump-speech-china-xi.html?utm_source=lootura.com) — 2026-07-17T21:29:41.000Z
 - [As Trump Scraps With Meloni, His Envoy to Italy Is at Sea](https://www.nytimes.com/2026/07/18/world/europe/tilman-fertitta-superyacht-italy-ambassador.html?utm_source=lootura.com) — 2026-07-18T15:45:27.000Z

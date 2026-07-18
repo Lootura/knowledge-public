@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/el-gobierno/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/el-gobierno/index.json",
   "description": "Sigue la actividad de El Gobierno en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-18T16:55:22.774Z",
+  "updatedAt": "2026-07-18T20:42:47.844Z",
   "aliases": [],
   "changes": [
     {
@@ -24,6 +24,11 @@
     {
       "title": "20 millones de euros para 743 jóvenes que se han incorporado al campo en Castilla-La Mancha durante los últimos años",
       "summary": "El Gobierno regional ha abonado cuatro millones adicionales a otros 162 agricultores y ganaderos dentro del actual Plan Estratégico de la PAC 2023-2027, según ha anunciado el director general de Desarrollo Rural, José Juan Fernández, durante una visita a Fuente El Fresno.",
+      "date": "2026-07-18"
+    },
+    {
+      "title": "El Gobierno le quita 309 millones a Educación para pagar los sueldos del Ministerio de Presidencia",
+      "summary": "El Consejo de Ministros ha aprobado transferir 309,8 millones de euros del Ministerio de Educación al de Presidencia, Justicia y Relaciones . La autorización presupuestaria está destinada a « cubrir gastos de personal » después de que el actual Gobierno lleve los tres años de legislatura sin cumplir con la obligación c.",
       "date": "2026-07-18"
     },
     {
@@ -55,20 +60,9 @@
       "title": "EE UU impone nuevos aranceles del 25% a gran parte de productos brasileños y acusa a Lula de no negociar “de buena fe”",
       "summary": "El Gobierno del presidente de Estados Unidos, Donald Trump, ha ordenado la imposición de un nuevo arancel del 25% sobre la mayor parte de productos brasileños importados desde este país, con fecha de aplicación a partir del 22 de julio. Es la conclusión de una investigación que acusaba a Brasil de competencia desleal.",
       "date": "2026-07-16"
-    },
-    {
-      "title": "El Gobierno tilda de «causa política» el juicio contra Gómez tras la decisión de la Audiencia",
-      "summary": "El Gobierno reitera que Begoña Gómez , la mujer del presidente Pedro Sánchez es « inocente » y la causa judicial en la que está inmersa es « política », después de que la Audiencia Provincial de Madrid haya confirmado la decisión del juez instructor Juan Carlos Peinado de enviarla a juicio con jurado popular. No obstan.",
-      "date": "2026-07-16"
     }
   ],
   "sources": [
-    {
-      "title": "El Gobierno carga contra Almeida por la pantalla en Colón para la final del Mundial: \"Confío en que corregirán la improvisación\"",
-      "url": "https://www.20minutos.es/madrid/gobierno-carga-almeida-pantalla-colon-final-mundial-confio-corregiran-improvisacion_7016217_0.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-18T13:00:53.000Z",
-      "sourceId": "lootura-es-20minutos"
-    },
     {
       "title": "El Gobierno inicia el trámite para inhabilitar a la eléctrica Holaluz y traspasar sus clientes a otra compañía",
       "url": "https://www.abc.es/economia/gobierno-inicia-tramite-inhabilitar-electrica-holaluz-traspasar-20260718175812-nt.html?utm_source=lootura.com",
@@ -86,7 +80,13 @@
       "url": "https://www.larazon.es/castilla-la-mancha/20-millones-euros-743-jovenes-han-incorporado-campo-castillala-mancha-ultimos-anos-b50m_202607186a5bacc8e9f2e84b5c70323f.html?outputType=amp&utm_source=lootura.com",
       "publishedAt": "2026-07-18T16:41:44.000Z",
       "sourceId": "lootura-es-la-razon"
+    },
+    {
+      "title": "El Gobierno le quita 309 millones a Educación para pagar los sueldos del Ministerio de Presidencia",
+      "url": "https://okdiario.com/espana/gobierno-quita-309-millones-educacion-pagar-sueldos-del-ministerio-presidencia-19023584?utm_source=lootura.com",
+      "publishedAt": "2026-07-18T20:07:06.000Z",
+      "sourceId": "lootura-es-ok-diario"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 4
 }

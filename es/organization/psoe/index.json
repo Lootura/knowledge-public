@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/psoe/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/psoe/index.json",
   "description": "Sigue la actividad de Partido Socialista Obrero Español en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-18T16:55:22.774Z",
+  "updatedAt": "2026-07-18T20:42:47.844Z",
   "aliases": [
     "Partido Socialista",
     "Partido Socialista Obrero Español"
@@ -67,17 +67,11 @@
   ],
   "sources": [
     {
-      "title": "El PSOE elige candidata para la alcaldía de Madrid este domingo: Enma López desafía a Reyes Maroto",
-      "url": "https://www.elconfidencial.com/espana/2026-07-18/primarias-psoe-madrid-torrelavega-oviedo-1tps_4392193/?utm_source=lootura.com",
-      "publishedAt": "2026-07-18T10:18:00.000Z",
-      "sourceId": "lootura-es-el-confidencial"
-    },
-    {
-      "title": "El PSOE andaluz confirma a Montero, Espadas y Díaz como sus candidatos a senador",
-      "url": "https://theobjective.com/espana/politica/2026-07-18/psoe-andaluz-confirma-montero-espadas-diaz-senador/?amp=&utm_source=lootura.com",
-      "publishedAt": "2026-07-18T08:09:34.000Z",
-      "sourceId": "lootura-es-the-objective"
+      "title": "Feijóo invoca una España \"que se parezca más a su selección\" y moviliza a sus alcaldes contra \"el saqueo del PSOE\"",
+      "url": "https://amp.elmundo.es/espana/2026/07/18/6a5b7272e4d4d84e0b8b45a6.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-18T12:37:12.000Z",
+      "sourceId": "lootura-es-el-mundo"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 0
 }

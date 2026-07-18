@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/iran/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/iran/index.json",
   "description": "Follow Iran, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-18T16:55:42.019Z",
+  "updatedAt": "2026-07-18T20:43:07.014Z",
   "aliases": [],
   "changes": [
     {
@@ -27,6 +27,11 @@
       "date": "2026-07-18"
     },
     {
+      "title": "U.S. military says 2 troops are dead and 1 is missing after Iran attacks a base in Jordan",
+      "summary": "Since the war began, 16 U.S. service members have now been killed and over 430 wounded.",
+      "date": "2026-07-18"
+    },
+    {
       "title": "Water and energy sites hit as U.S.-Iran strikes escalate",
       "summary": "Critical water and power infrastructure sites have been damaged as the U.S. and Iran continue to trade strikes, while the parched Middle East reels from temperatures of 100 degrees and beyond.",
       "date": "2026-07-18"
@@ -42,23 +47,18 @@
       "date": "2026-07-18"
     },
     {
-      "title": "Oil Prices Rise to Highest Level in a Month as Shipping in the Persian Gulf Nears a Halt",
-      "summary": "Shipping traffic was at its lowest level in more than a month and oil prices moved higher as the Iran war continued to disrupt the supply of energy.",
-      "date": "2026-07-17"
-    },
-    {
       "title": "War Between U.S. and Iran Expands, With Strikes Across the Region",
       "summary": "Videos and reports in Iranian state media showed damage to bridges, railways and other infrastructure. U.S. allies in the region reported retaliatory strikes by Iran.",
       "date": "2026-07-17"
     },
     {
-      "title": "What a Times Reporter Saw in Iran, and Takeaways from Trump’s Speech on Election Security",
-      "summary": "Plus, the Friday news quiz.",
+      "title": "Oil Prices Rise to Highest Level in a Month as Shipping in the Persian Gulf Nears a Halt",
+      "summary": "Shipping traffic was at its lowest level in more than a month and oil prices moved higher as the Iran war continued to disrupt the supply of energy.",
       "date": "2026-07-17"
     },
     {
-      "title": "As U.S. strikes bridges in Iran, it targets a water desalination plant in Kuwait",
-      "summary": "The United States expanded its airstrike campaign against Iran early Friday by hitting more bridges, energy sites and collapsing a tower at a key Iranian port.",
+      "title": "What a Times Reporter Saw in Iran, and Takeaways from Trump’s Speech on Election Security",
+      "summary": "Plus, the Friday news quiz.",
       "date": "2026-07-17"
     }
   ],
@@ -82,10 +82,10 @@
       "sourceId": "lootura-us-pbs-newshour"
     },
     {
-      "title": "Oil Prices Rise to Highest Level in a Month as Shipping in the Persian Gulf Nears a Halt",
-      "url": "https://www.nytimes.com/2026/07/17/business/strait-hormuz-iran-oil-prices.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-17T19:28:52.000Z",
-      "sourceId": "lootura-us-the-new-york-times"
+      "title": "U.S. military says 2 troops are dead and 1 is missing after Iran attacks a base in Jordan",
+      "url": "https://www.pbs.org/newshour/world/u-s-military-says-2-troops-are-dead-and-1-is-missing-after-iran-attacks-a-base-in-jordan?utm_source=lootura.com",
+      "publishedAt": "2026-07-18T15:34:19.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
     },
     {
       "title": "War Between U.S. and Iran Expands, With Strikes Across the Region",
@@ -94,5 +94,5 @@
       "sourceId": "lootura-us-the-new-york-times"
     }
   ],
-  "evidenceCount": 5
+  "evidenceCount": 6
 }

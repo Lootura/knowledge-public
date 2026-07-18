@@ -3,10 +3,16 @@
 > Sigue la actividad de Partido Popular en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-18T16:55:22.774Z
+- Actualizado: 2026-07-18T20:42:47.844Z
 - Canonical: https://atlas.lootura.com/es/organization/partido-popular
 
 ## Cambios recientes
+
+### Los candidatos del PP a las alcaldías de Castilla y León apelan a la ambición y a la cercanía
+
+A pesar de que aún quedan casi diez meses por delante, el partido Popular dio el pistoletazo de salida paras las próximas elecciones municipales del mes de mayo de 2027. Y lo hizo con un gran acto en Santiago de Compostela, presidido por Alberto Núñez Feijóo, y que contó con la presencia de los candidatos de todas las.
+
+Date: 2026-07-18
 
 ### Feijóo anuncia a los 50 candidatos a las alcaldías de provincia, entre ellos Gema Igual
 
@@ -62,14 +68,7 @@ Boost Air, la empresa de mantenimiento aeronáutico propiedad de Corporación Fi
 
 Date: 2026-07-17
 
-### El viceconsejero de Vox en la Junta fue falangista, considera un peligro las autonomías y cree falsa la convivencia de Al-Ándalus
-
-Rafael Sánchez Saus, recién nombrado viceconsejero de Turismo, Justicia, Desregulación y Administración Local, carece de experiencia administrativa en las áreas que el PP ha entregado a Vox en el pacto para formar el Gobierno de la Junta de Andalucía y fue falangista, una ideología que dice que ahora no comparte. En el.
-
-Date: 2026-07-17
-
 ## Fuentes
 
-- [Feijóo anuncia a los 50 candidatos a las alcaldías de provincia, entre ellos Gema Igual](https://www.elconfidencial.com/espana/2026-07-18/pp-candidatos-elecciones-municipales-2027-1tps_4392175/?utm_source=lootura.com) — 2026-07-18T09:15:00.000Z
-- [Feijóo pide "decencia" en una España "harta de mentiras": "El sanchismo ha sido condenado en todas sus formas"](https://www.elconfidencial.com/espana/2026-07-18/feijoo-anuncia-a-los-50-candidatos-alcaldias-de-provincia-gema-igual_4392191/?utm_source=lootura.com) — 2026-07-18T09:15:00.000Z
-- [Feijóo presenta este sábado en Santiago a los candidatos del PP a las capitales de provincia](https://theobjective.com/espana/politica/2026-07-18/feijoo-candidatos-pp-capitales-provincia/?utm_source=lootura.com) — 2026-07-18T10:55:13.000Z
+- [Feijóo invoca una España "que se parezca más a su selección" y moviliza a sus alcaldes contra "el saqueo del PSOE"](https://amp.elmundo.es/espana/2026/07/18/6a5b7272e4d4d84e0b8b45a6.html?utm_source=lootura.com) — 2026-07-18T12:37:12.000Z
+- [Los candidatos del PP a las alcaldías de Castilla y León apelan a la ambición y a la cercanía](https://www.larazon.es/castilla-y-leon/candidatos-alcaldias-castilla-leon-apelan-ambicion-cercania_202607186a5bb49d1db8de040996591e.html?utm_source=lootura.com) — 2026-07-18T19:30:15.000Z

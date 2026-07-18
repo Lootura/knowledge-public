@@ -64,6 +64,4 @@ Date: 2026-07-17
 
 ## Sources
 
-- [Cyclosporiasis outbreak traced to lettuce from Mexico used by Taco Bell](https://www.cbsnews.com/news/cyclosporiasis-outbreak-taco-bell-lettuce-mexico/?utm_source=lootura.com) — 2026-07-18T00:43:06.000Z
-- [Taylor Farms and Taco Bell removes iceberg lettuce amid parasite outbreak](https://www.nbcnews.com/nightly-news/video/taylor-farms-and-taco-bell-removes-iceberg-lettuce-amid-parasite-outbreak-266866245951?utm_source=lootura.com) — 2026-07-17T23:21:23.000Z
-- [Cyclospora Investigation Turns to Farms in Mexico](https://www.nytimes.com/2026/07/17/health/cyclospora-taylor-farms-mexico-taco-bell-lettuce.html?utm_source=lootura.com) — 2026-07-17T22:22:30.000Z
+No public source links.

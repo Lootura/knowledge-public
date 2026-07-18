@@ -3,7 +3,7 @@
 > Follow Democratic Party, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-07-18T16:55:42.019Z
+- Updated: 2026-07-18T20:43:07.014Z
 - Canonical: https://atlas.lootura.com/us/organization/democratic-party
 
 ## Recent changes
@@ -23,6 +23,12 @@ Date: 2026-07-18
 ### Without Platner, Maine Democrats Scramble to Keep Grassroots Energy Alive
 
 Graham Platner’s campaign for Senate imploded last week. The activists who backed him are seeking a candidate to carry his populist message in the race against Republican Susan Collins.
+
+Date: 2026-07-18
+
+### These AIPAC-Backed Democrats Voted to Nix Israel Aid. AIPAC Punished Them.
+
+Of the 103 Democrats who voted to eliminate aid to Israel, more than a dozen had been endorsed by the pro-Israel lobbying group. AIPAC quickly closed off online donations for them.
 
 Date: 2026-07-18
 
@@ -62,14 +68,10 @@ Maine Democrats vying to become the state’s new Senate nominee met, and mostly
 
 Date: 2026-07-17
 
-### Wildfire Smoke Turns Skies Orange Across the U.S., and Democrats Make a Big Shift on Israel
-
-Plus, why Gen Z is turning to trade schools.
-
-Date: 2026-07-16
-
 ## Sources
 
-- [US politicians push agencies to restrict research collaboration with China](https://www.nature.com/articles/d41586-026-02226-9?utm_source=lootura.com) — 2026-07-18T16:55:45.433Z
+- [Dem Rep Henry Cuellar rejects DSA agenda, says socialists are trying to 'use' Democratic Party](https://www.foxnews.com/media/dem-rep-henry-cuellar-rejects-dsa-agenda-says-socialists-trying-use-democratic-party?utm_source=lootura.com) — 2026-07-18T20:30:38.000Z
+- [US politicians push agencies to restrict research collaboration with China](https://www.nature.com/articles/d41586-026-02226-9?utm_source=lootura.com) — 2026-07-18T20:43:10.753Z
 - [Without Platner, Maine Democrats Scramble to Keep Grassroots Energy Alive](https://www.nytimes.com/2026/07/18/us/politics/platner-voters-maine-senate.html?utm_source=lootura.com) — 2026-07-18T09:02:12.000Z
 - [AIPAC Closes Donor Portal to Democrats Who Voted to End Aid to Israel](https://www.nytimes.com/2026/07/17/us/politics/aipac-donor-portal-democrats.html?utm_source=lootura.com) — 2026-07-18T03:33:57.000Z
+- [These AIPAC-Backed Democrats Voted to Nix Israel Aid. AIPAC Punished Them.](https://www.nytimes.com/2026/07/18/us/politics/aipac-democrats-donations-israel-vote.html?utm_source=lootura.com) — 2026-07-18T18:19:08.000Z

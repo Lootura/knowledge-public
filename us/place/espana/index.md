@@ -3,7 +3,7 @@
 > Follow Spain, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-18T16:55:42.019Z
+- Updated: 2026-07-18T20:43:07.014Z
 - Canonical: https://atlas.lootura.com/us/place/espana
 
 ## Recent changes
@@ -70,4 +70,4 @@ Date: 2026-07-09
 
 ## Sources
 
-- [Spain could make World Cup history: The first to win men's and women's trophies back-to-back](https://www.npr.org/2026/07/17/g-s1-134232/spain-world-cup-history-women-men?utm_source=lootura.com) — 2026-07-17T20:17:27.000Z
+- [Wife of US heir and activist donor on fighting his extradition to US: ‘It’s incredible that this can happen’](https://www.theguardian.com/us-news/2026/jul/18/fergie-chambers-stella-schnabel-spain-extradition?utm_source=lootura.com) — 2026-07-18T11:00:04.000Z

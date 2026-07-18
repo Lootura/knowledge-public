@@ -3,20 +3,20 @@
 > Sigue la actividad de Bélgica en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-18T16:55:22.774Z
+- Actualizado: 2026-07-18T20:42:47.844Z
 - Canonical: https://atlas.lootura.com/es/place/belgium
 
 ## Cambios recientes
 
-### Fernando Alonso es penalizado en el GP de Bélgica y saldrá último, pero con un nuevo AMR26
-
-Aston Martin no se ha quedado de brazos cruzados tras ver que las mejoras preparadas para el GP de Bélgica no han dado resultados . El monoplaza está a casi cinco segundos del mejor tiempo y Fernando Alons o no tiene opciones de competir. La escudería ha sustituido todos los componentes esenciales de la parte eléctrica.
-
-Date: 2026-07-18
-
 ### Antonelli logra la pole pese a la estrategia de Verstappen: Aston Martin toca fondo
 
 Incontestable. Kimi Antonelli se lleva la pole del GP de Bélgica por delante de Max Verstappen y George Russell, respectivamente. El de Red Bull lo intentó gracias al rebufo de su compañero Hadjar, pero el italiano de Mercedes clavó la última vuelta para llevarse la sexta de la temporada. Por parte de los españoles, Fe.
+
+Date: 2026-07-18
+
+### Fernando Alonso es penalizado en el GP de Bélgica y saldrá último, pero con un nuevo AMR26
+
+Aston Martin no se ha quedado de brazos cruzados tras ver que las mejoras preparadas para el GP de Bélgica no han dado resultados . El monoplaza está a casi cinco segundos del mejor tiempo y Fernando Alons o no tiene opciones de competir. La escudería ha sustituido todos los componentes esenciales de la parte eléctrica.
 
 Date: 2026-07-18
 
@@ -70,6 +70,4 @@ Date: 2026-07-10
 
 ## Fuentes
 
-- [Trump le dice a Infantino que fue él quien quitó la sanción a Balogun: «Otra más de tus grandes decisiones»](https://www.abc.es/deportes/futbol/mundial/trump-dice-infantino-quito-sancion-balogun-tus-20260718013217-nt.html?utm_source=lootura.com) — 2026-07-18T15:47:47.000Z
-- [Fernando Alonso es penalizado en el GP de Bélgica y saldrá último, pero con un nuevo AMR26](https://okdiario.com/deportes/fernando-alonso-penalizado-gp-belgica-saldra-ultimo-pero-nuevo-amr26-19022468?utm_source=lootura.com) — 2026-07-18T12:47:21.000Z
 - [Antonelli logra la pole pese a la estrategia de Verstappen: Aston Martin toca fondo](https://theobjective.com/deportes/formula-1/2026-07-18/antonelli-pole-belgica-estrategia-verstappen/?utm_source=lootura.com) — 2026-07-18T15:22:43.000Z

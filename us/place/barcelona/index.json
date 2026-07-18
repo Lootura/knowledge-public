@@ -1,0 +1,34 @@
+{
+  "id": "usa-barcelona",
+  "name": "Barcelona",
+  "type": "place",
+  "locale": "en",
+  "canonicalPath": "/us/place/barcelona",
+  "canonicalUrl": "https://atlas.lootura.com/us/place/barcelona",
+  "markdownUrl": "https://atlas.lootura.com/us/place/barcelona/index.md",
+  "jsonUrl": "https://atlas.lootura.com/us/place/barcelona/index.json",
+  "description": "Follow Barcelona, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
+  "updatedAt": "2026-07-18T20:43:07.014Z",
+  "aliases": [],
+  "changes": [
+    {
+      "title": "Study demonstrates the importance of emotional support from pets for vulnerable people",
+      "summary": "People experiencing homelessness, victims of domestic violence and economically vulnerable people are at higher risk of social exclusion. For them, pets are an important source of emotional support. A study by the Affinity Foundation Chair for Animals and Health of the Universitat Autònoma de Barcelona (UAB) and the FA.",
+      "date": "2026-07-18"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Barcelona first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-07-18"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Study demonstrates the importance of emotional support from pets for vulnerable people",
+      "url": "https://phys.org/news/2026-07-importance-emotional-pets-vulnerable-people.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-18T15:00:01.000Z",
+      "sourceId": "lootura-us-phys-org"
+    }
+  ],
+  "evidenceCount": 1
+}

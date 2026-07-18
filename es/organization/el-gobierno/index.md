@@ -3,7 +3,7 @@
 > Sigue la actividad de El Gobierno en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-18T16:55:22.774Z
+- Actualizado: 2026-07-18T20:42:47.844Z
 - Canonical: https://atlas.lootura.com/es/organization/el-gobierno
 
 ## Cambios recientes
@@ -23,6 +23,12 @@ Date: 2026-07-18
 ### 20 millones de euros para 743 jóvenes que se han incorporado al campo en Castilla-La Mancha durante los últimos años
 
 El Gobierno regional ha abonado cuatro millones adicionales a otros 162 agricultores y ganaderos dentro del actual Plan Estratégico de la PAC 2023-2027, según ha anunciado el director general de Desarrollo Rural, José Juan Fernández, durante una visita a Fuente El Fresno.
+
+Date: 2026-07-18
+
+### El Gobierno le quita 309 millones a Educación para pagar los sueldos del Ministerio de Presidencia
+
+El Consejo de Ministros ha aprobado transferir 309,8 millones de euros del Ministerio de Educación al de Presidencia, Justicia y Relaciones . La autorización presupuestaria está destinada a « cubrir gastos de personal » después de que el actual Gobierno lleve los tres años de legislatura sin cumplir con la obligación c.
 
 Date: 2026-07-18
 
@@ -62,15 +68,9 @@ El Gobierno del presidente de Estados Unidos, Donald Trump, ha ordenado la impos
 
 Date: 2026-07-16
 
-### El Gobierno tilda de «causa política» el juicio contra Gómez tras la decisión de la Audiencia
-
-El Gobierno reitera que Begoña Gómez , la mujer del presidente Pedro Sánchez es « inocente » y la causa judicial en la que está inmersa es « política », después de que la Audiencia Provincial de Madrid haya confirmado la decisión del juez instructor Juan Carlos Peinado de enviarla a juicio con jurado popular. No obstan.
-
-Date: 2026-07-16
-
 ## Fuentes
 
-- [El Gobierno carga contra Almeida por la pantalla en Colón para la final del Mundial: "Confío en que corregirán la improvisación"](https://www.20minutos.es/madrid/gobierno-carga-almeida-pantalla-colon-final-mundial-confio-corregiran-improvisacion_7016217_0.html?utm_source=lootura.com) — 2026-07-18T13:00:53.000Z
 - [El Gobierno inicia el trámite para inhabilitar a la eléctrica Holaluz y traspasar sus clientes a otra compañía](https://www.abc.es/economia/gobierno-inicia-tramite-inhabilitar-electrica-holaluz-traspasar-20260718175812-nt.html?utm_source=lootura.com) — 2026-07-18T15:58:12.000Z
 - [Ruido y furia entre políticos y jueces: cómo reparar la (maltrecha) justicia](https://elpais.com/ideas/2026-07-18/ruido-y-furia-entre-politicos-y-jueces-como-reparar-la-maltrecha-justicia.html?utm_source=lootura.com) — 2026-07-18T14:10:42.000Z
 - [20 millones de euros para 743 jóvenes que se han incorporado al campo en Castilla-La Mancha durante los últimos años](https://www.larazon.es/castilla-la-mancha/20-millones-euros-743-jovenes-han-incorporado-campo-castillala-mancha-ultimos-anos-b50m_202607186a5bacc8e9f2e84b5c70323f.html?outputType=amp&utm_source=lootura.com) — 2026-07-18T16:41:44.000Z
+- [El Gobierno le quita 309 millones a Educación para pagar los sueldos del Ministerio de Presidencia](https://okdiario.com/espana/gobierno-quita-309-millones-educacion-pagar-sueldos-del-ministerio-presidencia-19023584?utm_source=lootura.com) — 2026-07-18T20:07:06.000Z

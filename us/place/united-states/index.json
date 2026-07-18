@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/united-states/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/united-states/index.json",
   "description": "Follow United States, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-18T16:55:42.019Z",
+  "updatedAt": "2026-07-18T20:43:07.014Z",
   "aliases": [
     "America",
     "Estados Unidos",
@@ -28,11 +28,6 @@
     {
       "title": "Trump Threatens Canada With Tariffs for Wildfire Smoke Over U.S.",
       "summary": "The president said on Friday in a social media post that Canada was failing to manage its wildfire response as smoke has blanketed U.S. cities including New York and Chicago.",
-      "date": "2026-07-18"
-    },
-    {
-      "title": "Far above the Earth, NASA's Apollo lunar lander put astronauts on the moon",
-      "summary": "America's most daring, extraordinary feat—landing astronauts on the moon—remains the pinnacle of achievement by anyone anywhere. Ever.",
       "date": "2026-07-18"
     },
     {
@@ -61,22 +56,27 @@
       "date": "2026-07-18"
     },
     {
-      "title": "Maps show wildfire smoke forecast, air quality alerts due to pollution from Canadian, Minnesota fires",
-      "summary": "Heavy smoke from several large wildfires blazing in Canada and Minnesota is engulfing large swaths of the Midwest and the U.S. East Coast this week.",
+      "title": "Iran and Kuwait report attacks on water and power infrastructure as strikes escalate",
+      "summary": "Critical water and power infrastructure sites have been damaged as the U.S. and Iran continue to trade strikes, while the parched Middle East reels from temperatures of 100 degrees and beyond.",
+      "date": "2026-07-18"
+    },
+    {
+      "title": "Rhode Island fugitive captured after more than 20 years on the run",
+      "summary": "One of Rhode Island’s “longest-wanted” fugitives was finally arrested this week after 21 years on the run, according to the U.S.",
       "date": "2026-07-18"
     }
   ],
   "sources": [
     {
-      "title": "Maps show wildfire smoke forecast, air quality alerts due to pollution from Canadian, Minnesota fires",
-      "url": "https://www.cbsnews.com/news/wildfires-smoke-millions-exposed-midwest-northeast-us/?utm_source=lootura.com",
-      "publishedAt": "2026-07-18T16:44:00.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
-    {
       "title": "The Uplift: The American Dream",
       "url": "https://www.cbsnews.com/video/the-uplift-the-american-dream/?utm_source=lootura.com",
       "publishedAt": "2026-07-27T10:30:00.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
+    {
+      "title": "Maps show wildfire smoke forecast, air quality alerts in swath of U.S.",
+      "url": "https://www.cbsnews.com/news/wildfires-smoke-millions-exposed-midwest-northeast-us/?utm_source=lootura.com",
+      "publishedAt": "2026-07-18T16:44:00.000Z",
       "sourceId": "lootura-us-cbs-news"
     },
     {
@@ -98,21 +98,15 @@
       "sourceId": "lootura-us-nbc-news"
     },
     {
-      "title": "Two U.S. Forest Service employees rescued after being held hostage at gunpoint",
-      "url": "https://www.nbcnews.com/news/us-news/two-us-forest-service-employees-rescued-zip-tied-held-hostage-gunpoint-rcna588112?utm_source=lootura.com",
-      "publishedAt": "2026-07-17T23:54:11.000Z",
+      "title": "Two U.S. service members killed in Jordan and another is missing, military says",
+      "url": "https://www.nbcnews.com/world/middle-east/two-us-service-members-killed-jordan-another-missing-centom-says-rcna588181?utm_source=lootura.com",
+      "publishedAt": "2026-07-18T17:38:35.000Z",
       "sourceId": "lootura-us-nbc-news"
     },
     {
-      "title": "100 million Americans facing dangerous wildfire smoke",
-      "url": "https://www.nbcnews.com/nightly-news/video/100-million-americans-facing-dangerous-wildfire-smoke-266866245835?utm_source=lootura.com",
-      "publishedAt": "2026-07-17T23:07:08.000Z",
-      "sourceId": "lootura-us-nbc-news"
-    },
-    {
-      "title": "Taylor Farms and Taco Bell removes iceberg lettuce amid parasite outbreak",
-      "url": "https://www.nbcnews.com/nightly-news/video/taylor-farms-and-taco-bell-removes-iceberg-lettuce-amid-parasite-outbreak-266866245951?utm_source=lootura.com",
-      "publishedAt": "2026-07-17T23:21:23.000Z",
+      "title": "Two U.S. service members killed, one missing in Jordan after Iranian strikes",
+      "url": "https://www.nbcnews.com/now/video/two-u-s-service-members-killed-one-missing-in-jordan-after-iranian-strikes-266888773566?utm_source=lootura.com",
+      "publishedAt": "2026-07-18T18:19:59.000Z",
       "sourceId": "lootura-us-nbc-news"
     },
     {
@@ -126,7 +120,13 @@
       "url": "https://www.pbs.org/newshour/nation/wildfire-smoke-from-canada-and-minnesota-pushes-farther-into-the-u-s-and-engulfs-d-c-in-haze?utm_source=lootura.com",
       "publishedAt": "2026-07-18T15:20:12.000Z",
       "sourceId": "lootura-us-pbs-newshour"
+    },
+    {
+      "title": "Iran says it is suspending commitments to interim deal with U.S. as they exchange attacks",
+      "url": "https://www.pbs.org/newshour/world/iran-says-it-is-suspending-commitments-to-interim-deal-with-u-s-as-they-exchange-attacks?utm_source=lootura.com",
+      "publishedAt": "2026-07-18T15:34:19.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
     }
   ],
-  "evidenceCount": 20
+  "evidenceCount": 21
 }
