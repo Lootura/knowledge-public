@@ -8,32 +8,12 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/madrid/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/madrid/index.json",
   "description": "Sigue la actividad de Madrid en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-18T13:08:36.432Z",
+  "updatedAt": "2026-07-18T16:55:22.774Z",
   "aliases": [],
   "changes": [
     {
-      "title": "¿De dónde viene la batalla naval de Vallecas? El origen de la popular tradición que revoluciona el barrio este fin de semana",
-      "summary": "Miles de personas volverán a reunirse este domingo en una de las celebraciones más singulares de Madrid.",
-      "date": "2026-07-18"
-    },
-    {
       "title": "Muere un joven de 23 años tras ser apuñalado en una pelea en Madrid",
       "summary": "Un joven de 23 años ha muerto en la madrugada de este sábado en el distrito de Ciudad Lineal ( Madrid ) tras ser apuñalado en varias ocasiones durante una pelea, en la que también resultaron heridos dos menores, según informó Emergencias Madrid. El incidente se produjo en la calle Elfo , alrededor de las 23:30 horas. T.",
-      "date": "2026-07-18"
-    },
-    {
-      "title": "Un muerto, un herido muy grave y otro grave tras una pelea entre bandas latinas en Madrid",
-      "summary": "Por el momento no hay detenidos. Leer.",
-      "date": "2026-07-18"
-    },
-    {
-      "title": "Desarticulada una banda que robaba relojes a punta de pistola en Majadahonda",
-      "summary": "Las detenciones se han producido en Madrid, Pozuelo de Alarcón, Tarragona y Córdoba, y el autor material de los robos ha ingresado en prisión.",
-      "date": "2026-07-18"
-    },
-    {
-      "title": "Ryanair declara la guerra a Aena y respalda un segundo aeropuerto para Madrid",
-      "summary": "La ofensiva de Ryanair contra Aena sigue sumando peldaños. Hace escasos días la aerolínea subía la tensión al exigir una rebaja de las tarifas aeroportuarias y acusar al gestor de actuar como un monopolio. Pero parece que esto no queda ahí, la compañía de vuelos de bajo coste reclamaba una política que impulsase los ae.",
       "date": "2026-07-18"
     },
     {
@@ -47,32 +27,52 @@
       "date": "2026-07-18"
     },
     {
-      "title": "Almeida en la presentación de los candidatos de Feijóo a las municipales: «Tenemos el mejor equipo y el mejor seleccionador»",
-      "summary": "El alcalde de Madrid y aspirante a la reelección en las próximas elecciones municipales, José Luis Martínez-Almeida , ha puesto en valor el conjunto de candidaturas del PP en las capitales de provincia para estos comicios, y el papel de su líder, Alberto Núñez Feijóo . «Tenemos el mejor equipo y el mejor seleccionador.",
-      "date": "2026-07-18"
-    },
-    {
       "title": "Un joven muere y dos menores resultan gravemente heridos tras una reyerta en Madrid",
       "summary": "Un joven de 23 años ha fallecido en la noche de este viernes y dos menores han resultado heridos de gravedad por las heridas de arma blanca que sufrieron como consecuencia de una reyerta que se ha producido en el distrito de Ciudad Lineal. Los hechos han tenido lugar en el número 78 de la calle Elfo. Protección Civil h.",
       "date": "2026-07-18"
     },
     {
-      "title": "Brambila, el pintor que se adelantó a Goya y rescató la memoria de los Reales Sitios tras la invasión francesa",
-      "summary": "Hoy apenas recordamos su nombre, pero durante las últimas décadas del siglo XVIII y el primer tercio del XIX, Fernando Brambila fue una figura omnipresente en el Madrid de aquella época. Pintor, arquitecto, perspectivista, grabador, litógrafo y decorador, trabajó para Carlos IV y Fernando VII , aunque su carrera en Esp.",
+      "title": "Los incendios forestales cortan 14 carreteras secundarias en cuatro provincias",
+      "summary": "Los incendios forestales que están atacando España han provocado el corte de hasta 14 carreteras secundarias de todo el país. Entre ellas se encuentran siete en Guadalajara , cinco en Zaragoza , una en la provincia de Madrid y otra en la de Málaga , según el último boletín difundido por la Dirección General de Tráfico.",
+      "date": "2026-07-18"
+    },
+    {
+      "title": "Muere la mujer quemada viva por dos sicarios contratados por su marido en Madrid",
+      "summary": "La expareja y los dos homicidas están en prisión desde el ataque ocurrido el pasado mes de febrero Leer.",
+      "date": "2026-07-18"
+    },
+    {
+      "title": "Un muerto, un herido muy grave y otro grave tras un ataque entre bandas latinas en Madrid",
+      "summary": "Por el momento no hay detenidos. Leer.",
+      "date": "2026-07-18"
+    },
+    {
+      "title": "¿De dónde viene la batalla naval de Vallecas? El origen de la popular tradición que revoluciona el barrio este fin de semana",
+      "summary": "Miles de personas volverán a reunirse este domingo en una de las celebraciones más singulares de Madrid.",
+      "date": "2026-07-18"
+    },
+    {
+      "title": "Un muerto, un herido muy grave y otro grave tras una pelea entre bandas latinas en Madrid",
+      "summary": "Por el momento no hay detenidos. Leer.",
+      "date": "2026-07-18"
+    },
+    {
+      "title": "Desarticulada una banda que robaba relojes a punta de pistola en Majadahonda",
+      "summary": "Las detenciones se han producido en Madrid, Pozuelo de Alarcón, Tarragona y Córdoba, y el autor material de los robos ha ingresado en prisión.",
       "date": "2026-07-18"
     }
   ],
   "sources": [
     {
+      "title": "Los incendios forestales cortan 14 carreteras secundarias en cuatro provincias",
+      "url": "https://www.20minutos.es/nacional/los-incendios-forestales-cortan-14-carreteras-secundarias-cuatro-provincias_7016224_0.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-18T13:48:24.000Z",
+      "sourceId": "lootura-es-20minutos"
+    },
+    {
       "title": "El PSOE elige candidata para la alcaldía de Madrid este domingo: Enma López desafía a Reyes Maroto",
       "url": "https://www.elconfidencial.com/espana/2026-07-18/primarias-psoe-madrid-torrelavega-oviedo-1tps_4392193/?utm_source=lootura.com",
       "publishedAt": "2026-07-18T10:18:00.000Z",
-      "sourceId": "lootura-es-el-confidencial"
-    },
-    {
-      "title": "¿De dónde viene la batalla naval de Vallecas? El origen de la popular tradición que revoluciona el barrio este fin de semana",
-      "url": "https://www.elconfidencial.com/espana/madrid/2026-07-18/batalla-naval-vallecas-revoluciona-barrio-1qrt-1tna_4391913/?utm_source=lootura.com",
-      "publishedAt": "2026-07-18T03:45:00.000Z",
       "sourceId": "lootura-es-el-confidencial"
     },
     {
@@ -88,34 +88,22 @@
       "sourceId": "lootura-es-el-diario-vasco"
     },
     {
-      "title": "Un muerto, un herido muy grave y otro grave tras una pelea entre bandas latinas en Madrid",
-      "url": "https://www.elmundo.es/madrid/2026/07/18/6a5b1c59e4d4d81c148b4593.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-18T06:47:01.000Z",
+      "title": "Muere la mujer quemada viva por dos sicarios contratados por su marido en Madrid",
+      "url": "https://www.elmundo.es/madrid/2026/07/18/6a5b9340fdddff8f768b4582.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-18T15:02:50.000Z",
       "sourceId": "lootura-es-el-mundo"
     },
     {
-      "title": "Desarticulada una banda que robaba relojes a punta de pistola en Majadahonda",
-      "url": "https://www.larazon.es/madrid/desarticulada-banda-que-robaba-relojes-punta-pistola-majadahonda_202607186a5b459e0500ab412c9ca3f9.html?outputType=amp&utm_source=lootura.com",
-      "publishedAt": "2026-07-18T09:21:34.000Z",
-      "sourceId": "lootura-es-la-razon"
+      "title": "Un muerto, un herido muy grave y otro grave tras un ataque entre bandas latinas en Madrid",
+      "url": "https://www.elmundo.es/madrid/2026/07/18/6a5b1c59e4d4d81c148b4593.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-18T16:10:50.000Z",
+      "sourceId": "lootura-es-el-mundo"
     },
     {
       "title": "Incendios en España, en directo hoy: última hora de los fuegos activos, evolución y situación en Aragón, Castilla-La Mancha, Madrid y Andalucía",
       "url": "https://www.larazon.es/sociedad/incendios-espana-directo-hoy-ultima-hora-fuegos-activos-evolucion-situacion-aragon-castillala-mancha-madrid-andalucia-b50m_202607186a5aa5aee9f2e84b5c6ed5ba.html?outputType=amp&utm_source=lootura.com",
-      "publishedAt": "2026-07-18T13:06:13.000Z",
+      "publishedAt": "2026-07-18T16:54:12.000Z",
       "sourceId": "lootura-es-la-razon"
-    },
-    {
-      "title": "Almeida en la presentación de los candidatos de Feijóo a las municipales: «Tenemos el mejor equipo y el mejor seleccionador»",
-      "url": "https://okdiario.com/espana/almeida-presentacion-candidatos-feijoo-municipales-tenemos-mejor-equipo-mejor-seleccionador-19022224?utm_source=lootura.com",
-      "publishedAt": "2026-07-18T12:42:51.000Z",
-      "sourceId": "lootura-es-ok-diario"
-    },
-    {
-      "title": "Ryanair declara la guerra a Aena y respalda un segundo aeropuerto para Madrid",
-      "url": "https://okdiario.com/economia/ryanair-declara-guerra-aena-respalda-segundo-aeropuerto-madrid-19022004?utm_source=lootura.com",
-      "publishedAt": "2026-07-18T09:13:03.000Z",
-      "sourceId": "lootura-es-ok-diario"
     },
     {
       "title": "Un joven muere y dos menores resultan gravemente heridos tras una reyerta en Madrid",
@@ -124,5 +112,5 @@
       "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 10
+  "evidenceCount": 8
 }

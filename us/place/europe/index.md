@@ -3,7 +3,7 @@
 > Follow Europe, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-18T13:08:56.904Z
+- Updated: 2026-07-18T16:55:42.019Z
 - Canonical: https://atlas.lootura.com/us/place/europe
 
 ## Recent changes

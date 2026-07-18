@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/nueva-york/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/nueva-york/index.json",
   "description": "Sigue la actividad de Nueva York en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-18T13:08:36.432Z",
+  "updatedAt": "2026-07-18T16:55:22.774Z",
   "aliases": [],
   "changes": [
     {
@@ -24,11 +24,11 @@
   ],
   "sources": [
     {
-      "title": "Kevin Durant 'pasa' de saludar a Messi y va directo hacia Rodri y a De La Fuente",
+      "title": "Kevin Durant 'pasa' de saludar a Messi y va directo hacia Rodri y De La Fuente",
       "url": "https://www.20minutos.es/deportes/kevin-durant-pasa-saludar-messi-directo-saludar-rodri-fuente_7016213_0.html?utm_source=lootura.com",
       "publishedAt": "2026-07-18T12:51:01.000Z",
       "sourceId": "lootura-es-20minutos"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 0
 }

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/alberto-nunez-feijoo/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/alberto-nunez-feijoo/index.json",
   "description": "Sigue la actividad de Alberto Núñez Feijóo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-18T13:08:36.432Z",
+  "updatedAt": "2026-07-18T16:55:22.774Z",
   "aliases": [
     "Feijóo",
     "Núñez Feijóo"
@@ -30,6 +30,11 @@
       "date": "2026-07-18"
     },
     {
+      "title": "Feijóo presenta este sábado en Santiago a los candidatos del PP a las capitales de provincia",
+      "summary": "El líder del Partido Popular , Alberto Núñez Feijóo , presenta este sábado, día 18 de julio, a los candidatos de su formación a las capitales de provincia de toda España de cara a las elecciones municipales del 2027 . El acto tendrá lugar en la Cidade da Cultura de Santiago de Compostela y en él también intervendrá el.",
+      "date": "2026-07-18"
+    },
+    {
       "title": "Feijóo pide al PP «ganar, ganar y volver a ganar» en las municipales: «Las urnas serán la sentencia del sanchismo»",
       "summary": "El presidente del PP, Alberto Núñez Feijóo , ha presentado este sábado en Santiago de Compostela (Galicia) a los 54 candidatos de su formación en capitales de provincia, capitales de comunidad autónoma y las siete grandes ciudades gallegas para las próximas elecciones municipales del próximo 23 de mayo. El líder popula.",
       "date": "2026-07-18"
@@ -37,11 +42,6 @@
     {
       "title": "Almeida en la presentación de los candidatos de Feijóo a las municipales: «Tenemos el mejor equipo y el mejor seleccionador»",
       "summary": "El alcalde de Madrid y aspirante a la reelección en las próximas elecciones municipales, José Luis Martínez-Almeida , ha puesto en valor el conjunto de candidaturas del PP en las capitales de provincia para estos comicios, y el papel de su líder, Alberto Núñez Feijóo . «Tenemos el mejor equipo y el mejor seleccionador.",
-      "date": "2026-07-18"
-    },
-    {
-      "title": "Feijóo presenta este sábado en Santiago a los candidatos del PP a las capitales de provincia",
-      "summary": "El líder del Partido Popular , Alberto Núñez Feijóo , presenta este sábado, día 18 de julio, a los candidatos de su formación a las capitales de provincia de toda España de cara a las elecciones municipales del 2027 . El acto tendrá lugar en la Cidade da Cultura de Santiago de Compostela y en él también intervendrá el.",
       "date": "2026-07-18"
     },
     {
@@ -85,23 +85,11 @@
       "sourceId": "lootura-es-el-confidencial"
     },
     {
-      "title": "Feijóo pide al PP «ganar, ganar y volver a ganar» en las municipales: «Las urnas serán la sentencia del sanchismo»",
-      "url": "https://okdiario.com/espana/feijoo-pide-pp-ganar-ganar-volver-ganar-proximas-municipales-urnas-seran-sentencia-del-sanchismo-19022170?utm_source=lootura.com",
-      "publishedAt": "2026-07-18T12:05:44.000Z",
-      "sourceId": "lootura-es-ok-diario"
-    },
-    {
-      "title": "Almeida en la presentación de los candidatos de Feijóo a las municipales: «Tenemos el mejor equipo y el mejor seleccionador»",
-      "url": "https://okdiario.com/espana/almeida-presentacion-candidatos-feijoo-municipales-tenemos-mejor-equipo-mejor-seleccionador-19022224?utm_source=lootura.com",
-      "publishedAt": "2026-07-18T12:42:51.000Z",
-      "sourceId": "lootura-es-ok-diario"
-    },
-    {
       "title": "Feijóo presenta este sábado en Santiago a los candidatos del PP a las capitales de provincia",
       "url": "https://theobjective.com/espana/politica/2026-07-18/feijoo-candidatos-pp-capitales-provincia/?utm_source=lootura.com",
       "publishedAt": "2026-07-18T10:55:13.000Z",
       "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 6
+  "evidenceCount": 4
 }

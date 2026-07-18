@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/donald-trump/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/donald-trump/index.json",
   "description": "Follow Donald Trump, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-18T13:08:56.904Z",
+  "updatedAt": "2026-07-18T16:55:42.019Z",
   "aliases": [
     "President Donald Trump",
     "President Trump",
@@ -18,11 +18,6 @@
     {
       "title": "What to know about Trump's claim that over 250K non-citizens are registered to vote",
       "summary": "Homeland Security Secretary Markwayne Mullin sent letters to four states alleging that a combined 250,000 non-citizens were registered to vote. Elections experts caution that could be a significant overcount.",
-      "date": "2026-07-18"
-    },
-    {
-      "title": "Funding milestone detected",
-      "summary": "Defence minister seeks three ‘Nahal’ outposts in Gaza as top commander says Israel now controls 65% of the strip, violating Trump ceasefire deal Israel’s defence and finance ministers announced plans for three illegal settlements in Gaza and more than $400m (£300m) in funding to expand construction in the occupied West.",
       "date": "2026-07-18"
     },
     {
@@ -36,13 +31,18 @@
       "date": "2026-07-18"
     },
     {
-      "title": "Kai Trump reveals new celebrity crush after ditching 'Outer Banks' star Drew Starkey",
-      "summary": "Kai Trump is pushing \"Outer Banks\" star Drew Starkey to the side and filling her celebrity crush spot with the one and only Theo James. During an interview with Fox News Digital, Kai – who is President Donald Trump 's granddaughter – explained that her taste has evolved since she revealed that Starkey was her celebrity.",
+      "title": "Week in Politics: Trump's speech; midterm elections; Todd Blanche and Jay Clayton",
+      "summary": "Three months from the November midterms, President Trump is drawing attention to issues that are not top priorities for voters.",
       "date": "2026-07-18"
     },
     {
-      "title": "Week in Politics: Trump's speech; midterm elections; Todd Blanche and Jay Clayton",
-      "summary": "Three months from the November midterms, President Trump is drawing attention to issues that are not top priorities for voters.",
+      "title": "Funding milestone detected",
+      "summary": "Defence minister seeks three ‘Nahal’ outposts in Gaza as top commander says Israel now controls 65% of the strip, violating Trump ceasefire deal Israel’s defence and finance ministers announced plans for three illegal settlements in Gaza and more than $400m (£300m) in funding to expand construction in the occupied West.",
+      "date": "2026-07-18"
+    },
+    {
+      "title": "Kai Trump reveals new celebrity crush after ditching 'Outer Banks' star Drew Starkey",
+      "summary": "Kai Trump is pushing \"Outer Banks\" star Drew Starkey to the side and filling her celebrity crush spot with the one and only Theo James. During an interview with Fox News Digital, Kai – who is President Donald Trump 's granddaughter – explained that her taste has evolved since she revealed that Starkey was her celebrity.",
       "date": "2026-07-18"
     },
     {
@@ -74,40 +74,10 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "Trump encourages Darline Graham to run for Lindsey Graham's seat",
-      "url": "https://www.cbsnews.com/news/darline-graham-us-senate-south-carolina-lindsey-graham/?utm_source=lootura.com",
-      "publishedAt": "2026-07-17T19:44:10.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
-    {
-      "title": "Kai Trump reveals new celebrity crush after ditching 'Outer Banks' star Drew Starkey",
-      "url": "https://www.foxnews.com/entertainment/kai-trump-reveals-new-celebrity-crush-after-ditching-outer-banks-star-drew-starkey?utm_source=lootura.com",
-      "publishedAt": "2026-07-18T12:56:39.000Z",
-      "sourceId": "lootura-us-fox-news"
-    },
-    {
-      "title": "Trump promised evidence of election fraud. Experts say there was none",
-      "url": "https://www.npr.org/2026/07/17/nx-s1-5897446/trump-promised-evidence-of-election-fraud-experts-say-there-was-none?utm_source=lootura.com",
-      "publishedAt": "2026-07-17T20:19:25.000Z",
-      "sourceId": "lootura-us-npr-politics"
-    },
-    {
       "title": "Week in Politics: Trump's speech; midterm elections; Todd Blanche and Jay Clayton",
       "url": "https://www.npr.org/2026/07/18/nx-s1-5894907/week-in-politics-trumps-speech-midterm-elections-todd-blanche-and-jay-clayton?utm_source=lootura.com",
       "publishedAt": "2026-07-18T11:42:09.000Z",
       "sourceId": "lootura-us-npr-politics"
-    },
-    {
-      "title": "Fact-checking Trump's address on China, the 2020 election and what documents show",
-      "url": "https://www.pbs.org/newshour/politics/fact-checking-trumps-address-on-china-the-2020-election-and-what-documents-show?utm_source=lootura.com",
-      "publishedAt": "2026-07-17T20:20:23.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
-    },
-    {
-      "title": "Former intelligence official weighs Trump's election security allegations",
-      "url": "https://www.pbs.org/newshour/show/former-intelligence-official-weighs-trumps-election-security-allegations?utm_source=lootura.com",
-      "publishedAt": "2026-07-17T22:52:53.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
     },
     {
       "title": "Trump says these documents prove his false claims of election fraud. Here's what they really say",
@@ -116,17 +86,29 @@
       "sourceId": "lootura-us-pbs-newshour"
     },
     {
-      "title": "Brooks and Capehart on what Trump is trying to accomplish with his election claims",
-      "url": "https://www.pbs.org/newshour/show/brooks-and-capehart-on-what-trump-is-trying-to-accomplish-with-his-election-claims?utm_source=lootura.com",
-      "publishedAt": "2026-07-17T22:40:33.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
+      "title": "Trump Brings Full Weight of Government to Bolster False Election Claims",
+      "url": "https://www.nytimes.com/2026/07/17/us/politics/trump-government-election-claims.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-17T19:39:31.000Z",
+      "sourceId": "lootura-us-the-new-york-times"
     },
     {
-      "title": "Battleground state election officials respond to Trump's efforts to reshape voting process",
-      "url": "https://www.pbs.org/newshour/show/battleground-state-election-officials-respond-to-trumps-efforts-to-reshape-voting-process?utm_source=lootura.com",
-      "publishedAt": "2026-07-17T22:50:20.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
+      "title": "Russia Bill Broadens Sanctions but Could Fuel Fears Over the Dollar",
+      "url": "https://www.nytimes.com/2026/07/18/us/politics/russia-bill-sanctions-trump.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-18T09:01:37.000Z",
+      "sourceId": "lootura-us-the-new-york-times-politics"
+    },
+    {
+      "title": "Trump Pursues a Deeper Bond With China’s Leader, Despite Hostile Speech",
+      "url": "https://www.nytimes.com/2026/07/17/us/politics/trump-speech-china-xi.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-17T21:29:41.000Z",
+      "sourceId": "lootura-us-the-new-york-times-politics"
+    },
+    {
+      "title": "As Trump Scraps With Meloni, His Envoy to Italy Is at Sea",
+      "url": "https://www.nytimes.com/2026/07/18/world/europe/tilman-fertitta-superyacht-italy-ambassador.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-18T15:45:27.000Z",
+      "sourceId": "lootura-us-the-new-york-times-world"
     }
   ],
-  "evidenceCount": 17
+  "evidenceCount": 7
 }

@@ -3,10 +3,16 @@
 > Sigue la actividad de Iran en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-18T13:08:36.432Z
+- Actualizado: 2026-07-18T16:55:22.774Z
 - Canonical: https://atlas.lootura.com/es/place/iran
 
 ## Cambios recientes
+
+### El Golfo Pérsico arde de nuevo e Irán anuncia que "suspende todos sus compromisos": "De hecho, no los estamos ya cumpliendo"
+
+El ejército estadounidense firmó en la noche del viernes la séptima oleada consecutiva de bombardeos contra el régimen iraní. Éste respondió con ataques a a Qatar, Kuwait, Bahréin y Jordania Leer.
+
+Date: 2026-07-18
 
 ### Teherán denuncia al menos tres muertos y ocho heridos en nuevos ataques de EEUU
 
@@ -62,12 +68,6 @@ Los mercados siguen encontrando obstáculos que atenazan sus subidas. La nueva e
 
 Date: 2026-07-16
 
-### El Ibex pierde los 19.200 puntos atento a resultados y tecnológicas
-
-Los mercados siguen encontrando obstáculos que atenazan sus subidas. La nueva espiral de ataques de EEUU sobre Irán y la subida de tipos en Corea mantienen en guardia a los inversores. El Ibex, con movimientos estrechos durante toda la semana, vuelve a consolidar niveles en el día del estreno en Bolsa de Digi.
-
-Date: 2026-07-16
-
 ## Fuentes
 
-- [Teherán denuncia al menos tres muertos y ocho heridos en nuevos ataques de EEUU](https://theobjective.com/internacional/2026-07-18/teheran-denuncia-al-menos-tres-muertos-ataques-eeuu/?utm_source=lootura.com) — 2026-07-18T07:12:14.000Z
+- [El Golfo Pérsico arde de nuevo e Irán anuncia que "suspende todos sus compromisos": "De hecho, no los estamos ya cumpliendo"](https://www.elmundo.es/internacional/2026/07/18/6a5b9252fdddff6f568b4582.html?utm_source=lootura.com) — 2026-07-18T15:22:59.000Z

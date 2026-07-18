@@ -3,16 +3,10 @@
 > Follow Canada, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-18T13:08:56.904Z
+- Updated: 2026-07-18T16:55:42.019Z
 - Canonical: https://atlas.lootura.com/us/place/canada
 
 ## Recent changes
-
-### Maps show wildfire smoke forecast, air quality alerts in swath of U.S.
-
-Heavy smoke from several large wildfires blazing in Canada and Minnesota is engulfing large swaths of the Midwest and the U.S. East Coast this week.
-
-Date: 2026-07-18
 
 ### Trump Threatens Canada With Tariffs for Wildfire Smoke Over U.S.
 
@@ -32,6 +26,30 @@ Smoke from massive wildfires in Canada engulfed the New York City skyline, reduc
 
 Date: 2026-07-18
 
+### Maps show wildfire smoke forecast, air quality alerts due to pollution from Canadian, Minnesota fires
+
+Heavy smoke from several large wildfires blazing in Canada and Minnesota is engulfing large swaths of the Midwest and the U.S. East Coast this week.
+
+Date: 2026-07-18
+
+### Wildfire smoke from Canada and Minnesota pushes farther into the U.S. and engulfs D.C. in haze
+
+Warnings of dangerous conditions were expected to remain in effect through Saturday across a wide swath of the U.S., though there's potential for temporary improvement with storms forecast in some affected areas during the weekend.
+
+Date: 2026-07-18
+
+### Iqaluit, Canada’s Most Northern City, Gets Its First Bus Line
+
+Jacinto Marques left Angola for Canada’s frozen edge. Now he’s running a bus service in Iqaluit, the largest, and only city in Canada’s Arctic.
+
+Date: 2026-07-18
+
+### Maps show wildfire smoke forecast, air quality alerts in swath of U.S.
+
+Heavy smoke from several large wildfires blazing in Canada and Minnesota is engulfing large swaths of the Midwest and the U.S. East Coast this week.
+
+Date: 2026-07-18
+
 ### Trump fumes over Canadian wildfire smoke and issues tariff threat
 
 President Donald Trump on Friday pledged to hold Canada responsible for costs associated with unhealthy air quality in the U.S. due to spreading smoke from the Canadian wildfires.
@@ -44,35 +62,18 @@ President Trump threatened more tariffs on Canada for wildfires that have blanke
 
 Date: 2026-07-18
 
-### Is smoke in your home? Here's how to make an air purifier using a box fan
-
-Smoke from wildfires in Canada and Minnesota is sending air quality indexes to record levels, posing a hazard for millions of people. Here are tips for how to breathe easier in your home. (Image credit: Finn Gomez).
-
-Date: 2026-07-17
-
 ### 100 million Americans facing dangerous wildfire smoke
 
 That dangerous wildfire smoke from Canada is now on the move and smothering new U.S. cities. NBC News’ Tom Costello has the latest.
 
 Date: 2026-07-17
 
-### Maps show wildfire smoke forecast, air quality alerts in swath of U.S.
-
-Heavy smoke from several large wildfires blazing in Canada and Minnesota is engulfing large swaths of the Midwest and the U.S. East Coast this week.
-
-Date: 2026-07-17
-
-### 100 million Americans across 14 states impacted by heavy smoke from Canadian wildfires
-
-Smoke from wildfires in Canada is creating dangerous air quality conditions for approximately 100 million Americans in more than a dozen states. Rob Marciano has the latest.
-
-Date: 2026-07-17
-
 ## Sources
 
-- [Maps show wildfire smoke forecast, air quality alerts in swath of U.S.](https://www.cbsnews.com/news/wildfires-smoke-millions-exposed-midwest-northeast-us/?utm_source=lootura.com) — 2026-07-18T01:10:01.000Z
+- [Maps show wildfire smoke forecast, air quality alerts due to pollution from Canadian, Minnesota fires](https://www.cbsnews.com/news/wildfires-smoke-millions-exposed-midwest-northeast-us/?utm_source=lootura.com) — 2026-07-18T16:44:00.000Z
 - [100 million Americans facing dangerous wildfire smoke](https://www.nbcnews.com/nightly-news/video/100-million-americans-facing-dangerous-wildfire-smoke-266866245835?utm_source=lootura.com) — 2026-07-17T23:07:08.000Z
-- [Is smoke in your home? Here's how to make an air purifier using a box fan](https://www.npr.org/2026/07/17/g-s1-134179/is-smoke-in-your-home-heres-how-to-make-an-air-purifier-using-a-box-fan?utm_source=lootura.com) — 2026-07-17T15:07:09.000Z
+- [Wildfire smoke from Canada and Minnesota pushes farther into the U.S. and engulfs D.C. in haze](https://www.pbs.org/newshour/nation/wildfire-smoke-from-canada-and-minnesota-pushes-farther-into-the-u-s-and-engulfs-d-c-in-haze?utm_source=lootura.com) — 2026-07-18T15:20:12.000Z
 - [What the US and Canada Can Expect from the Wildfire Smoke This Weekend](https://www.nytimes.com/2026/07/18/weather/canada-wildfires-smoke-updates-today.html?utm_source=lootura.com) — 2026-07-18T11:11:09.000Z
 - [Trump Threatens Canada With Tariffs for Wildfire Smoke Over U.S.](https://www.nytimes.com/2026/07/17/weather/trump-canada-tariffs-wildfire-smoke.html?utm_source=lootura.com) — 2026-07-18T03:06:43.000Z
+- [Iqaluit, Canada’s Most Northern City, Gets Its First Bus Line](https://www.nytimes.com/2026/07/18/world/canada/iqaluit-arctic-city-bus.html?utm_source=lootura.com) — 2026-07-18T09:01:06.000Z
 - [Climate's Compounding Financial Toll Is Becoming Harder to Ignore](https://time.com/article/2026/07/17/climate-impacts-economic-risk/?utm_source=lootura.com) — 2026-07-18T12:00:03.000Z

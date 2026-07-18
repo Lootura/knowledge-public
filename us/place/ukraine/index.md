@@ -3,20 +3,26 @@
 > Follow Ukraine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-18T13:08:56.904Z
+- Updated: 2026-07-18T16:55:42.019Z
 - Canonical: https://atlas.lootura.com/us/place/ukraine
 
 ## Recent changes
 
-### Ukrainian drone attacks on Russia kill at least 8, injure over 60
+### 8 killed and more than 60 wounded in Ukrainian drone attack on Russian regions
+
+Kyiv's forces are continuing their aerial campaign against energy infrastructure and military targets inside Russia, aiming to undermine Moscow's war effort. (Image credit: Moscow Region Governor Andrei Vo).
+
+Date: 2026-07-18
+
+### Ukrainian drone attacks on Russia kill at least 9, injure over 60
 
 Kyiv's forces are continuing their relentless aerial campaign​ against energy infrastructure and military targets inside Russia.
 
 Date: 2026-07-18
 
-### 8 killed and more than 60 wounded in Ukrainian drone attack on Russian regions
+### Ukrainian drone attacks on Russia kill at least 8, injure over 60
 
-Kyiv's forces are continuing their aerial campaign against energy infrastructure and military targets inside Russia, aiming to undermine Moscow's war effort. (Image credit: Moscow Region Governor Andrei Vo).
+Kyiv's forces are continuing their relentless aerial campaign​ against energy infrastructure and military targets inside Russia.
 
 Date: 2026-07-18
 
@@ -62,13 +68,7 @@ Ukrainians are demonstrating in Kyiv and senior figures announcing their resigna
 
 Date: 2026-07-16
 
-### Meet Sergii Koretskyi, Ukraine’s New Prime Minister After Major Government Reshuffle
-
-Sergii Koretskyi speaks during a briefing with government officials in Kyiv, Ukraine, on March 5, 2026. —Danylo Antoniuk/Ukrinform—Getty Images Sergii Koretskyi was confirmed as Ukraine’s new Prime Minister on Thursday as part of a government reshuffle led by President Volodymyr Zelensky . Koretskyi's appointment , bac.
-
-Date: 2026-07-16
-
 ## Sources
 
-- [Ukrainian drone attacks on Russia kill at least 8, injure over 60](https://www.cbsnews.com/news/ukraine-russia-war-drone-attacks-wildberries/?utm_source=lootura.com) — 2026-07-18T11:26:33.000Z
+- [Ukrainian drone attacks on Russia kill at least 9, injure over 60](https://www.cbsnews.com/news/ukraine-russia-war-drone-attacks-wildberries/?utm_source=lootura.com) — 2026-07-18T16:12:37.000Z
 - [8 killed and more than 60 wounded in Ukrainian drone attack on Russian regions](https://www.npr.org/2026/07/18/nx-s1-5898963/8-killed-and-more-than-60-wounded-in-ukrainian-drone-attack-on-russian-regions?utm_source=lootura.com) — 2026-07-18T10:45:43.000Z

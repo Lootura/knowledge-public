@@ -3,7 +3,7 @@
 > Sigue la actividad de Estados Unidos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-18T13:08:36.432Z
+- Actualizado: 2026-07-18T16:55:22.774Z
 - Canonical: https://atlas.lootura.com/es/place/united-states
 
 ## Cambios recientes
@@ -17,6 +17,24 @@ Date: 2026-07-18
 ### España, país en armas: cómo se contó la Guerra Civil en los noticieros de Estados Unidos
 
 El año nuevo arranca con el estreno de Tiempos modernos, la última cinta de Chaplin que refleja la mentalidad, la vida cotidiana y la precariedad de la sociedad industrial norteamericana. La magia del cine permite olvidar, dejar atrás la crisis y proyectar una nueva verdad al mundo. Minutos antes de comenzar la películ.
+
+Date: 2026-07-18
+
+### Trump culpa a Canadá por el humo de los incendios forestales y dice que sumará el costo a los aranceles
+
+El viernes, el presidente Donald Trump responsabilizó a Canadá del humo de los incendios forestales que se propagaba por Estados Unidos y afirmó que añadiría el “costo incalculable” de hacer frente a la contaminación a los aranceles ya existentes sobre los productos canadienses. Seguir leyendo...
+
+Date: 2026-07-18
+
+### EEUU confirma al menos 13 militares heridos durante la última semana en Oriente Medio
+
+El Comando Central del Ejército de Estados Unidos (Centcom) confirmó este sábado a Fox News que al menos 13 militares estadounidenses han resultado.
+
+Date: 2026-07-18
+
+### Dimite el líder conservador alemán por tener un hijo por gestación subrogada en EEUU
+
+El líder del bloque conservador en el Parlamento de Alemania , Jens Spahn, ha presentado su dimisión este sábado a petición del canciller y co-líder de la alianza, Friedrich Merz , por haber tenido un hijo por gestación subrogada en Estados Unidos ; una práctica declarada ilegal en Alemania. «He informado a los líderes.
 
 Date: 2026-07-18
 
@@ -50,27 +68,10 @@ El Ejército estadounidense destruyó una torre de vigilancia que Irán usaba pa
 
 Date: 2026-07-17
 
-### Michele Kang: la reina del negocio del fútbol femenino
-
-Michele Kang es una empresaria de origen coreano, pero formada en Estados Unidos, que se ha convertido en la dueña de uno de los clubes de fútbol con más solera de Francia, el Olympique de Lyon , tanto del masculino como del femenino. También posee, a través de su hólding multiclub Kynisca Sports , el equipo estadounid.
-
-Date: 2026-07-17
-
-### China exige a Trump que aparque el «invento» de la presunta injerencia electoral en 2020
-
-China ha rechazado por completo las acusaciones formuladas por el presidente de Estados Unidos , Donald Trump , quien, esta pasada noche y en un discurso ante la nación, denunció que las autoridades de Pekín se habían inmiscuido en el desarrollo de las elecciones de 2020 . Trump y el Gobierno de Estados Unidos acusaron.
-
-Date: 2026-07-17
-
-### Trump amenaza a Canadá con más aranceles tras acusarles de "negligencia" por los incendios
-
-El presidente de Estados Unidos, Donald Trump, amenazó este viernes con aumentar los aranceles a Canadá tras acusar a las autoridades de su vecino del norte de negligencia por los incendios que asolan el país y han deteriorado la calidad del aire en ciudades estadounidenses. "Se trata de una negligencia deliberada que.
-
-Date: 2026-07-17
-
 ## Fuentes
 
-- [José Andrés: «La España del Mundial es muy chula, muy diversa y muy unida»](https://www.abc.es/deportes/futbol/mundial/jose-andres-espana-querida-eeuu-encima-politico-20260717000357-nt.html?utm_source=lootura.com) — 2026-07-18T12:43:19.000Z
 - [Lealtad, telegenia y testosterona: la extravagante carrera de Hegseth al frente del Pentágono](https://elpais.com/internacional/2026-07-18/lealtad-telegenia-y-testosterona-la-extravagante-carrera-de-hegseth-al-frente-del-pentagono.html?utm_source=lootura.com) — 2026-07-18T03:30:01.000Z
 - [España, país en armas: cómo se contó la Guerra Civil en los noticieros de Estados Unidos](https://elpais.com/babelia/2026-07-18/espana-pais-en-armas-como-se-conto-la-guerra-civil-en-los-noticieros-de-estados-unidos.html?utm_source=lootura.com) — 2026-07-18T03:30:01.000Z
-- [Teherán denuncia al menos tres muertos y ocho heridos en nuevos ataques de EEUU](https://theobjective.com/internacional/2026-07-18/teheran-denuncia-al-menos-tres-muertos-ataques-eeuu/?utm_source=lootura.com) — 2026-07-18T07:12:14.000Z
+- [Trump culpa a Canadá por el humo de los incendios forestales y dice que sumará el costo a los aranceles](https://www.lavanguardia.com/internacional/20260718/11595460/trump-culpa-canada-humo-incendios-forestales-dice-sumara-costo-aranceles.html?utm_source=lootura.com) — 2026-07-18T13:54:01.000Z
+- [EEUU confirma al menos 13 militares heridos durante la última semana en Oriente Medio](https://theobjective.com/internacional/2026-07-18/eeuu-13-militares-heridos-oriente-medio/?amp=&utm_source=lootura.com) — 2026-07-18T16:47:28.000Z
+- [Dimite el líder conservador alemán por tener un hijo por gestación subrogada en EEUU](https://theobjective.com/internacional/2026-07-18/conservador-aleman-hijo-gestacion-subrogada-eeuu/?utm_source=lootura.com) — 2026-07-18T15:16:52.000Z

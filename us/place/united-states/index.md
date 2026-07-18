@@ -3,7 +3,7 @@
 > Follow United States, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-18T13:08:56.904Z
+- Updated: 2026-07-18T16:55:42.019Z
 - Canonical: https://atlas.lootura.com/us/place/united-states
 
 ## Recent changes
@@ -13,12 +13,6 @@
 We celebrate the United States ahead of its 250th anniversary with stories about American heroes and pastimes. The founder of e.l.f. Cosmetics shares how he made a massive life change to become a Catholic priest.
 
 Date: 2026-07-27
-
-### Maps show wildfire smoke forecast, air quality alerts in swath of U.S.
-
-Heavy smoke from several large wildfires blazing in Canada and Minnesota is engulfing large swaths of the Midwest and the U.S. East Coast this week.
-
-Date: 2026-07-18
 
 ### AIPAC Closes Donor Portal to Democrats Who Voted to End Aid to Israel
 
@@ -56,27 +50,33 @@ Two suspects, a father and his adult son who were allegedly armed with guns and 
 
 Date: 2026-07-18
 
-### Water and energy sites hit as U.S.-Iran strikes escalate
+### Why is it so hard for the U.S. to win wars?
 
-Critical water and power infrastructure sites have been damaged as the U.S. and Iran continue to trade strikes, while the parched Middle East reels from temperatures of 100 degrees and beyond.
+U.S. presidents have promised short, decisive wars in Afghanistan, Iraq and Iran. All have proved much more difficult than advertised and fallen far short of the political goals set at the beginning. (Image credit: Brennan Linsley).
 
 Date: 2026-07-18
 
-### The U.S. and Iran blow past red lines as they lurch back toward all-out war
+### The Evolution of Presidential Travel: Horse Carriages to Air Force One
 
-The United States and Iran exchanged strikes aimed at infrastructure and military targets on Saturday as their battle over the Strait of Hormuz intensified. (Image credit: Razieh Poudat/AP Photo).
+From horse-drawn presidential coaches to Air Force One, presidents have used various modes of transportation to project an image of America for nearly 250 years.
+
+Date: 2026-07-18
+
+### Maps show wildfire smoke forecast, air quality alerts due to pollution from Canadian, Minnesota fires
+
+Heavy smoke from several large wildfires blazing in Canada and Minnesota is engulfing large swaths of the Midwest and the U.S. East Coast this week.
 
 Date: 2026-07-18
 
 ## Sources
 
+- [Maps show wildfire smoke forecast, air quality alerts due to pollution from Canadian, Minnesota fires](https://www.cbsnews.com/news/wildfires-smoke-millions-exposed-midwest-northeast-us/?utm_source=lootura.com) — 2026-07-18T16:44:00.000Z
 - [The Uplift: The American Dream](https://www.cbsnews.com/video/the-uplift-the-american-dream/?utm_source=lootura.com) — 2026-07-27T10:30:00.000Z
-- [Maps show wildfire smoke forecast, air quality alerts in swath of U.S.](https://www.cbsnews.com/news/wildfires-smoke-millions-exposed-midwest-northeast-us/?utm_source=lootura.com) — 2026-07-18T01:10:01.000Z
 - [2 U.S. Forest Service workers safe after being kidnapped, held at gunpoint for hours in Northern California](https://www.cbsnews.com/news/us-forest-service-workers-kidnapped-california/?utm_source=lootura.com) — 2026-07-18T12:19:13.000Z
+- [Iran and Kuwait report attacks on water and power infrastructure as strikes escalate](https://www.nbcnews.com/world/iran/water-energy-sites-hit-us-iran-strikes-escalate-rcna588143?utm_source=lootura.com) — 2026-07-18T12:58:17.000Z
+- [Rhode Island fugitive captured after more than 20 years on the run](https://www.nbcnews.com/news/us-news/rhode-island-fugitive-ronald-fischer-rcna588163?utm_source=lootura.com) — 2026-07-18T16:35:47.000Z
 - [Two U.S. Forest Service employees rescued after being held hostage at gunpoint](https://www.nbcnews.com/news/us-news/two-us-forest-service-employees-rescued-zip-tied-held-hostage-gunpoint-rcna588112?utm_source=lootura.com) — 2026-07-17T23:54:11.000Z
-- [Maps: Wildfire smoke forecast for the Midwest and northern U.S.](https://www.nbcnews.com/data-graphics/canada-wildfire-smoke-map-2026-us-states-air-quality-health-risks-rcna588051?utm_source=lootura.com) — 2026-07-17T22:21:56.000Z
-- [Water and energy sites hit as U.S.-Iran strikes escalate](https://www.nbcnews.com/world/iran/water-energy-sites-hit-us-iran-strikes-escalate-rcna588143?utm_source=lootura.com) — 2026-07-18T12:58:17.000Z
 - [100 million Americans facing dangerous wildfire smoke](https://www.nbcnews.com/nightly-news/video/100-million-americans-facing-dangerous-wildfire-smoke-266866245835?utm_source=lootura.com) — 2026-07-17T23:07:08.000Z
 - [Taylor Farms and Taco Bell removes iceberg lettuce amid parasite outbreak](https://www.nbcnews.com/nightly-news/video/taylor-farms-and-taco-bell-removes-iceberg-lettuce-amid-parasite-outbreak-266866245951?utm_source=lootura.com) — 2026-07-17T23:21:23.000Z
-- [Wildfire smoke is like smoking 'half a pack a day.' Here's how to protect yourself](https://www.npr.org/2026/07/17/g-s1-134227/wildfire-smoke-canada-us?utm_source=lootura.com) — 2026-07-17T15:24:49.000Z
-- [Trump promised evidence of election fraud. Experts say there was none](https://www.npr.org/2026/07/17/nx-s1-5897446/trump-promised-evidence-of-election-fraud-experts-say-there-was-none?utm_source=lootura.com) — 2026-07-17T20:19:25.000Z
+- [Why is it so hard for the U.S. to win wars?](https://www.npr.org/2026/07/18/g-s1-134037/why-is-it-so-hard-for-the-u-s-to-win-wars?utm_source=lootura.com) — 2026-07-18T12:45:13.000Z
+- [Wildfire smoke from Canada and Minnesota pushes farther into the U.S. and engulfs D.C. in haze](https://www.pbs.org/newshour/nation/wildfire-smoke-from-canada-and-minnesota-pushes-farther-into-the-u-s-and-engulfs-d-c-in-haze?utm_source=lootura.com) — 2026-07-18T15:20:12.000Z

@@ -8,19 +8,24 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/ukraine/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/ukraine/index.json",
   "description": "Follow Ukraine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-18T13:08:56.904Z",
+  "updatedAt": "2026-07-18T16:55:42.019Z",
   "aliases": [
     "Kyiv"
   ],
   "changes": [
     {
-      "title": "Ukrainian drone attacks on Russia kill at least 8, injure over 60",
+      "title": "8 killed and more than 60 wounded in Ukrainian drone attack on Russian regions",
+      "summary": "Kyiv's forces are continuing their aerial campaign against energy infrastructure and military targets inside Russia, aiming to undermine Moscow's war effort. (Image credit: Moscow Region Governor Andrei Vo).",
+      "date": "2026-07-18"
+    },
+    {
+      "title": "Ukrainian drone attacks on Russia kill at least 9, injure over 60",
       "summary": "Kyiv's forces are continuing their relentless aerial campaign​ against energy infrastructure and military targets inside Russia.",
       "date": "2026-07-18"
     },
     {
-      "title": "8 killed and more than 60 wounded in Ukrainian drone attack on Russian regions",
-      "summary": "Kyiv's forces are continuing their aerial campaign against energy infrastructure and military targets inside Russia, aiming to undermine Moscow's war effort. (Image credit: Moscow Region Governor Andrei Vo).",
+      "title": "Ukrainian drone attacks on Russia kill at least 8, injure over 60",
+      "summary": "Kyiv's forces are continuing their relentless aerial campaign​ against energy infrastructure and military targets inside Russia.",
       "date": "2026-07-18"
     },
     {
@@ -57,18 +62,13 @@
       "title": "Ukrainian's Zelenskyy faces major backlash for ousting defense chief Mykhailo Fedorov amid progress vs. Russia",
       "summary": "Ukrainians are demonstrating in Kyiv and senior figures announcing their resignations over President Volodymyr Zelenksyy's move to oust his popular defense chief.",
       "date": "2026-07-16"
-    },
-    {
-      "title": "Meet Sergii Koretskyi, Ukraine’s New Prime Minister After Major Government Reshuffle",
-      "summary": "Sergii Koretskyi speaks during a briefing with government officials in Kyiv, Ukraine, on March 5, 2026. —Danylo Antoniuk/Ukrinform—Getty Images Sergii Koretskyi was confirmed as Ukraine’s new Prime Minister on Thursday as part of a government reshuffle led by President Volodymyr Zelensky . Koretskyi's appointment , bac.",
-      "date": "2026-07-16"
     }
   ],
   "sources": [
     {
-      "title": "Ukrainian drone attacks on Russia kill at least 8, injure over 60",
+      "title": "Ukrainian drone attacks on Russia kill at least 9, injure over 60",
       "url": "https://www.cbsnews.com/news/ukraine-russia-war-drone-attacks-wildberries/?utm_source=lootura.com",
-      "publishedAt": "2026-07-18T11:26:33.000Z",
+      "publishedAt": "2026-07-18T16:12:37.000Z",
       "sourceId": "lootura-us-cbs-news"
     },
     {

@@ -70,4 +70,4 @@ Date: 2026-07-09
 
 ## Fuentes
 
-- [Francia estudia una conexión eléctrica con Marruecos tras el apagón provocado por España](https://www.larazon.es/economia/francia-estudia-conexion-electrica-marruecos-apagon-provocado-espana_202607186a5b454f0500ab412c9ca36b.html?outputType=amp&utm_source=lootura.com) — 2026-07-18T09:20:15.000Z
+No public source links.

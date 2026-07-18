@@ -3,7 +3,7 @@
 > Follow Taylor Farms, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-07-18T13:08:56.904Z
+- Updated: 2026-07-18T16:55:42.019Z
 - Canonical: https://atlas.lootura.com/us/organization/taylor-farms
 
 ## Recent changes
@@ -54,5 +54,4 @@ Date: 2026-07-17
 
 - [Taylor Farms pulls iceberg lettuce linked to cyclosporiasis outbreak](https://www.cbsnews.com/news/taylor-farms-pulls-iceberg-lettuce/?utm_source=lootura.com) — 2026-07-18T00:38:53.000Z
 - [Taylor Farms and Taco Bell removes iceberg lettuce amid parasite outbreak](https://www.nbcnews.com/nightly-news/video/taylor-farms-and-taco-bell-removes-iceberg-lettuce-amid-parasite-outbreak-266866245951?utm_source=lootura.com) — 2026-07-17T23:21:23.000Z
-- [News Wrap: Smoke from wildfires leads to unsafe air quality in U.S.](https://www.pbs.org/newshour/show/news-wrap-smoke-from-wildfires-leads-to-unsafe-air-quality-in-u-s?utm_source=lootura.com) — 2026-07-17T22:45:45.000Z
 - [Cyclospora Investigation Turns to Farms in Mexico](https://www.nytimes.com/2026/07/17/health/cyclospora-taylor-farms-mexico-taco-bell-lettuce.html?utm_source=lootura.com) — 2026-07-17T22:22:30.000Z

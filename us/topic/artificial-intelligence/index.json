@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/topic/artificial-intelligence/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/topic/artificial-intelligence/index.json",
   "description": "Follow Artificial intelligence, a tracked topic, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-18T13:08:56.904Z",
+  "updatedAt": "2026-07-18T16:55:42.019Z",
   "aliases": [
     "AI",
     "machine learning"
@@ -75,13 +75,13 @@
     {
       "title": "AI is set to completely transform cybersecurity — here’s how researchers must prepare",
       "url": "https://www.nature.com/articles/d41586-026-02214-z?utm_source=lootura.com",
-      "publishedAt": "2026-07-18T09:22:33.855Z",
+      "publishedAt": "2026-07-18T16:55:45.433Z",
       "sourceId": "lootura-us-nature"
     },
     {
       "title": "A global capital for AI safety is emerging — and it’s not in Silicon Valley",
       "url": "https://www.nature.com/articles/d41586-026-01389-9?utm_source=lootura.com",
-      "publishedAt": "2026-07-18T09:22:33.855Z",
+      "publishedAt": "2026-07-18T16:55:45.433Z",
       "sourceId": "lootura-us-nature"
     }
   ],

@@ -8,9 +8,24 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/iran/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/iran/index.json",
   "description": "Follow Iran, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-18T13:08:56.904Z",
+  "updatedAt": "2026-07-18T16:55:42.019Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "Why is it so hard for the U.S. to win wars?",
+      "summary": "U.S. presidents have promised short, decisive wars in Afghanistan, Iraq and Iran. All have proved much more difficult than advertised and fallen far short of the political goals set at the beginning. (Image credit: Brennan Linsley).",
+      "date": "2026-07-18"
+    },
+    {
+      "title": "Iran and Kuwait report attacks on water and power infrastructure as strikes escalate",
+      "summary": "Critical water and power infrastructure sites have been damaged as the U.S. and Iran continue to trade strikes, while the parched Middle East reels from temperatures of 100 degrees and beyond.",
+      "date": "2026-07-18"
+    },
+    {
+      "title": "Iran says it is suspending commitments to interim deal with U.S. as they exchange attacks",
+      "summary": "The widening strikes threatened civilians and services to them, including desalination plants for drinking water, while the global economy again was on alert.",
+      "date": "2026-07-18"
+    },
     {
       "title": "Water and energy sites hit as U.S.-Iran strikes escalate",
       "summary": "Critical water and power infrastructure sites have been damaged as the U.S. and Iran continue to trade strikes, while the parched Middle East reels from temperatures of 100 degrees and beyond.",
@@ -19,11 +34,6 @@
     {
       "title": "The U.S. and Iran blow past red lines as they lurch back toward all-out war",
       "summary": "The United States and Iran exchanged strikes aimed at infrastructure and military targets on Saturday as their battle over the Strait of Hormuz intensified. (Image credit: Razieh Poudat/AP Photo).",
-      "date": "2026-07-18"
-    },
-    {
-      "title": "Why is it so hard for the U.S. to win wars?",
-      "summary": "U.S. presidents have promised short, decisive wars in Afghanistan, Iraq and Iran. All have proved much more difficult than advertised and fallen far short of the political goals set at the beginning. (Image credit: Brennan Linsley).",
       "date": "2026-07-18"
     },
     {
@@ -50,42 +60,26 @@
       "title": "As U.S. strikes bridges in Iran, it targets a water desalination plant in Kuwait",
       "summary": "The United States expanded its airstrike campaign against Iran early Friday by hitting more bridges, energy sites and collapsing a tower at a key Iranian port.",
       "date": "2026-07-17"
-    },
-    {
-      "title": "Iranian bridges severely damaged after sixth night of U.S. strikes",
-      "summary": "Bridges were severely damaged in Iran after the U.S. military said it completed its sixth consecutive night of strikes against the country. CENTCOM said in a statement posted on X that it targeted “coastal surveillance and air defense sites, military logistics infrastructure, and maritime capabilities.”.",
-      "date": "2026-07-17"
-    },
-    {
-      "title": "US hits civilian infrastructure as it expands strikes against Iran",
-      "summary": "Tehran bombs US allies in Middle East after US attacks on bridges, energy facilities and key port The US hit bridges, energy facilities and a key Iranian port on Friday, expanding its aerial campaign against Iran, and prompting swift Iranian strikes against US allies in the Middle East. US airstrikes hit bridges in Ira.",
-      "date": "2026-07-17"
     }
   ],
   "sources": [
     {
-      "title": "Gas prices rise as U.S. and Iran escalate attacks",
-      "url": "https://www.nbcnews.com/nightly-news/video/gas-prices-rise-as-u-s-and-iran-escalate-attacks-266868293836?utm_source=lootura.com",
-      "publishedAt": "2026-07-17T23:03:28.000Z",
-      "sourceId": "lootura-us-nbc-news"
-    },
-    {
-      "title": "Water and energy sites hit as U.S.-Iran strikes escalate",
+      "title": "Iran and Kuwait report attacks on water and power infrastructure as strikes escalate",
       "url": "https://www.nbcnews.com/world/iran/water-energy-sites-hit-us-iran-strikes-escalate-rcna588143?utm_source=lootura.com",
       "publishedAt": "2026-07-18T12:58:17.000Z",
       "sourceId": "lootura-us-nbc-news"
-    },
-    {
-      "title": "The U.S. and Iran blow past red lines as they lurch back toward all-out war",
-      "url": "https://www.npr.org/2026/07/18/nx-s1-5898916/us-iran-escalate-strikes?utm_source=lootura.com",
-      "publishedAt": "2026-07-18T06:01:20.000Z",
-      "sourceId": "lootura-us-npr-world"
     },
     {
       "title": "Why is it so hard for the U.S. to win wars?",
       "url": "https://www.npr.org/2026/07/18/g-s1-134037/why-is-it-so-hard-for-the-u-s-to-win-wars?utm_source=lootura.com",
       "publishedAt": "2026-07-18T12:45:13.000Z",
       "sourceId": "lootura-us-npr-world"
+    },
+    {
+      "title": "Iran says it is suspending commitments to interim deal with U.S. as they exchange attacks",
+      "url": "https://www.pbs.org/newshour/world/iran-says-it-is-suspending-commitments-to-interim-deal-with-u-s-as-they-exchange-attacks?utm_source=lootura.com",
+      "publishedAt": "2026-07-18T15:34:19.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
     },
     {
       "title": "Oil Prices Rise to Highest Level in a Month as Shipping in the Persian Gulf Nears a Halt",

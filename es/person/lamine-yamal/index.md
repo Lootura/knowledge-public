@@ -70,4 +70,4 @@ Date: 2026-07-08
 
 ## Fuentes
 
-- [José Andrés: «La España del Mundial es muy chula, muy diversa y muy unida»](https://www.abc.es/deportes/futbol/mundial/jose-andres-espana-querida-eeuu-encima-politico-20260717000357-nt.html?utm_source=lootura.com) — 2026-07-18T12:43:19.000Z
+No public source links.

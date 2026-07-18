@@ -8,9 +8,14 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/malaga/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/malaga/index.json",
   "description": "Sigue la actividad de Málaga en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-18T02:11:28.247Z",
+  "updatedAt": "2026-07-18T16:55:22.774Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "Los incendios forestales cortan 14 carreteras secundarias en cuatro provincias",
+      "summary": "Los incendios forestales que están atacando España han provocado el corte de hasta 14 carreteras secundarias de todo el país. Entre ellas se encuentran siete en Guadalajara , cinco en Zaragoza , una en la provincia de Madrid y otra en la de Málaga , según el último boletín difundido por la Dirección General de Tráfico.",
+      "date": "2026-07-18"
+    },
     {
       "title": "Discovered by Atlas",
       "summary": "Málaga first entered the public knowledge record with source-backed evidence.",
@@ -42,6 +47,13 @@
       "date": "2026-07-17"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Los incendios forestales cortan 14 carreteras secundarias en cuatro provincias",
+      "url": "https://www.20minutos.es/nacional/los-incendios-forestales-cortan-14-carreteras-secundarias-cuatro-provincias_7016224_0.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-18T13:48:24.000Z",
+      "sourceId": "lootura-es-20minutos"
+    }
+  ],
+  "evidenceCount": 1
 }

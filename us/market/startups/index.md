@@ -28,4 +28,4 @@ Date: 2026-07-10
 
 ## Sources
 
-- [Israeli ministers announce plans for new illegal settlements in Gaza and West Bank](https://www.theguardian.com/world/2026/jul/18/israel-plan-new-illegal-settlements-gaza-west-bank-occupied-palestine?utm_source=lootura.com) — 2026-07-18T06:00:50.000Z
+No public source links.

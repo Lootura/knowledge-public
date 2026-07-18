@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/taylor-farms/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/taylor-farms/index.json",
   "description": "Follow Taylor Farms, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-18T13:08:56.904Z",
+  "updatedAt": "2026-07-18T16:55:42.019Z",
   "aliases": [],
   "changes": [
     {
@@ -61,17 +61,11 @@
       "sourceId": "lootura-us-nbc-news"
     },
     {
-      "title": "News Wrap: Smoke from wildfires leads to unsafe air quality in U.S.",
-      "url": "https://www.pbs.org/newshour/show/news-wrap-smoke-from-wildfires-leads-to-unsafe-air-quality-in-u-s?utm_source=lootura.com",
-      "publishedAt": "2026-07-17T22:45:45.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
-    },
-    {
       "title": "Cyclospora Investigation Turns to Farms in Mexico",
       "url": "https://www.nytimes.com/2026/07/17/health/cyclospora-taylor-farms-mexico-taco-bell-lettuce.html?utm_source=lootura.com",
       "publishedAt": "2026-07-17T22:22:30.000Z",
       "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 4
+  "evidenceCount": 3
 }

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/china/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/china/index.json",
   "description": "Follow China, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-18T13:08:56.904Z",
+  "updatedAt": "2026-07-18T16:55:42.019Z",
   "aliases": [],
   "changes": [
     {
@@ -17,13 +17,13 @@
       "date": "2026-07-18"
     },
     {
-      "title": "Fact-checking Trump's address on China, the 2020 election and what documents show",
-      "summary": "President Donald Trump quoted years-old intelligence community documents, including some that had been declassified or partially redacted, without noting a distinction between what China may have planned versus what analysts say it did.",
+      "title": "Trump Pursues a Deeper Bond With China’s Leader, Despite Hostile Speech",
+      "summary": "Chinese officials appear to think that President Trump’s accusations that China interfered in the 2020 U.S. elections were driven by domestic politics, not foreign policy.",
       "date": "2026-07-17"
     },
     {
-      "title": "Trump Pursues a Deeper Bond With China’s Leader, Despite Hostile Speech",
-      "summary": "Chinese officials appear to think that President Trump’s accusations that China interfered in the 2020 U.S. elections were driven by domestic politics, not foreign policy.",
+      "title": "Fact-checking Trump's address on China, the 2020 election and what documents show",
+      "summary": "President Donald Trump quoted years-old intelligence community documents, including some that had been declassified or partially redacted, without noting a distinction between what China may have planned versus what analysts say it did.",
       "date": "2026-07-17"
     },
     {
@@ -66,14 +66,8 @@
     {
       "title": "US politicians push agencies to restrict research collaboration with China",
       "url": "https://www.nature.com/articles/d41586-026-02226-9?utm_source=lootura.com",
-      "publishedAt": "2026-07-18T09:22:33.855Z",
+      "publishedAt": "2026-07-18T16:55:45.433Z",
       "sourceId": "lootura-us-nature"
-    },
-    {
-      "title": "Fact-checking Trump's address on China, the 2020 election and what documents show",
-      "url": "https://www.pbs.org/newshour/politics/fact-checking-trumps-address-on-china-the-2020-election-and-what-documents-show?utm_source=lootura.com",
-      "publishedAt": "2026-07-17T20:20:23.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
     },
     {
       "title": "Trump Pursues a Deeper Bond With China’s Leader, Despite Hostile Speech",
@@ -82,5 +76,5 @@
       "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 2
 }

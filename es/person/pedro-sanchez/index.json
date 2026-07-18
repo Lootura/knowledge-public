@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/pedro-sanchez/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/pedro-sanchez/index.json",
   "description": "Sigue la actividad de Pedro Sánchez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-18T13:08:36.432Z",
+  "updatedAt": "2026-07-18T16:55:22.774Z",
   "aliases": [
     "Sánchez"
   ],
@@ -21,6 +21,11 @@
     {
       "title": "Feijóo pide \"decencia\" en una España \"harta de mentiras\": \"El sanchismo ha sido condenado en todas sus formas\"",
       "summary": "El líder del Partido Popular, en su discurso, ha arremetido contra el presidente del Gobierno, Pedro Sánchez: \"Aún hay más de una decena de tramas en los juzgados\".",
+      "date": "2026-07-18"
+    },
+    {
+      "title": "Ruido y furia entre políticos y jueces: cómo reparar la (maltrecha) justicia",
+      "summary": "Vivimos días agitados en torno al funcionamiento del sistema judicial español. El Gobierno socialista denuncia una confabulación de un sector de la judicatura para derribar a Pedro Sánchez mientras la derecha sostiene que los jueces son los héroes que están poniendo freno a los desmanes del presidente. ¿Qué se puede ha.",
       "date": "2026-07-18"
     },
     {
@@ -57,11 +62,6 @@
       "title": "La UE alerta sobre las contrataciones del Gobierno: «Sigue siendo un ámbito vulnerable a los riesgos de corrupción»",
       "summary": "La Unión Europea ha alertado sobre las contrataciones públicas, que mayoritariamente son realizadas por el Gobierno de Pedro Sánchez . «Sigue siendo un ámbito vulnerable a los riesgos de corrupción», recoge el informe sobre el Estado de Derecho 2026 publicado este viernes por la Comisión Europea, en su capítulo dedicad.",
       "date": "2026-07-17"
-    },
-    {
-      "title": "Bruselas reprende al Gobierno por no luchar contra la corrupción y presionar a jueces",
-      "summary": "El último informe sobre el Estado de derecho de la Comisión Europea ha supuesto un duro varapalo para el Gobierno de Pedro Sánchez . En un documento que evalúa anualmente la salud democrática de los Estados miembros, el Ejecutivo comunitario ha puesto el foco sobre España por su inacción frente a la corrupción y las de.",
-      "date": "2026-07-17"
     }
   ],
   "sources": [
@@ -72,10 +72,10 @@
       "sourceId": "lootura-es-el-confidencial"
     },
     {
-      "title": "Junts descarta reconciliarse con Sánchez tras la amnistía: \"Esto no allana volver con el PSOE. Que cumpla con los catalanes o se vaya\"",
-      "url": "https://www.elmundo.es/cataluna/2026/07/18/6a5a6254e85eceee518b45a6.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-17T23:17:24.000Z",
-      "sourceId": "lootura-es-el-mundo"
+      "title": "Ruido y furia entre políticos y jueces: cómo reparar la (maltrecha) justicia",
+      "url": "https://elpais.com/ideas/2026-07-18/ruido-y-furia-entre-politicos-y-jueces-como-reparar-la-maltrecha-justicia.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-18T14:10:42.000Z",
+      "sourceId": "lootura-es-el-pais"
     },
     {
       "title": "La guerra entró por la ventana y se quedó 40 años: recuerdos del niño al que perseguían las bombas",

@@ -3,7 +3,7 @@
 > Sigue la actividad de Nueva York en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-18T13:08:36.432Z
+- Actualizado: 2026-07-18T16:55:22.774Z
 - Canonical: https://atlas.lootura.com/es/person/nueva-york
 
 ## Cambios recientes
@@ -22,4 +22,4 @@ Date: 2026-07-17
 
 ## Fuentes
 
-- [Kevin Durant 'pasa' de saludar a Messi y va directo hacia Rodri y a De La Fuente](https://www.20minutos.es/deportes/kevin-durant-pasa-saludar-messi-directo-saludar-rodri-fuente_7016213_0.html?utm_source=lootura.com) — 2026-07-18T12:51:01.000Z
+- [Kevin Durant 'pasa' de saludar a Messi y va directo hacia Rodri y De La Fuente](https://www.20minutos.es/deportes/kevin-durant-pasa-saludar-messi-directo-saludar-rodri-fuente_7016213_0.html?utm_source=lootura.com) — 2026-07-18T12:51:01.000Z

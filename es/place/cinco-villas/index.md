@@ -3,20 +3,20 @@
 > Sigue la actividad de Cinco Villas en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-18T13:08:36.432Z
+- Actualizado: 2026-07-18T16:55:22.774Z
 - Canonical: https://atlas.lootura.com/es/place/cinco-villas
 
 ## Cambios recientes
 
-### El incendio de las Cinco Villas contiene su avance, aunque sigue sin estabilizarse tras arrasar más de 15.000 hectáreas
-
-El operativo mantiene el máximo despliegue ante otra jornada marcada por el viento cambiante, el calor y la baja humedad La primera línea de lucha contra el fuego en Cinco Villas: brigadas y voluntarios que plantan cara al mayor incendio del verano Minuto a minuto - Última hora de los incendios en España El incendio de.
-
-Date: 2026-07-18
-
 ### El incendio de las Cinco Villas en Zaragoza alcanza las 15.400 hectáreas calcinadas
 
 El incendio forestal , declarado el pasado miércoles 15 de julio en Orés , en la comarca de Cinco Villas, continúa activo, en situación operativa 2, nivel 2 del PROCINFO . El incendio mantiene un perímetro muy amplio, de más de 80 kilómetros , y continúa condicionado por los cambios de viento, la topografía y la proxim.
+
+Date: 2026-07-18
+
+### El incendio de las Cinco Villas contiene su avance, aunque sigue sin estabilizarse tras arrasar más de 15.000 hectáreas
+
+El operativo mantiene el máximo despliegue ante otra jornada marcada por el viento cambiante, el calor y la baja humedad La primera línea de lucha contra el fuego en Cinco Villas: brigadas y voluntarios que plantan cara al mayor incendio del verano Minuto a minuto - Última hora de los incendios en España El incendio de.
 
 Date: 2026-07-18
 
@@ -64,5 +64,4 @@ Date: 2026-07-15
 
 ## Fuentes
 
-- [El incendio de las Cinco Villas contiene su avance, aunque sigue sin estabilizarse tras arrasar más de 15.000 hectáreas](https://www.eldiario.es/aragon/sociedad/incendio-cinco-villas-supera-15-000-hectareas-favorecido-viento-topografia_1_13389869.html?utm_source=lootura.com) — 2026-07-18T06:46:59.000Z
 - [El incendio de las Cinco Villas en Zaragoza alcanza las 15.400 hectáreas calcinadas](https://theobjective.com/sociedad/suceso/2026-07-18/incendio-cinco-villas-zaragoza-hectareas/?utm_source=lootura.com) — 2026-07-18T10:38:28.000Z

@@ -1,42 +1,55 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-18T14:37:31.614Z",
+  "generatedAt": "2026-07-18T17:00:17.836Z",
   "radar": {
     "id": "es",
     "slug": "es",
     "locale": "es"
   },
   "state": {
-    "signature": "1.16.0|21|1784380116432",
+    "signature": "1.16.0|22|1784393722774",
     "version": "1.16.0",
-    "build": 21,
-    "latestEntityUpdatedAt": "2026-07-18T13:08:36.432Z"
+    "build": 22,
+    "latestEntityUpdatedAt": "2026-07-18T16:55:22.774Z"
   },
   "atlas": {
     "hero": {
-      "id": "es-espana",
-      "name": "España",
-      "type": "place",
-      "title": "España, país en armas: cómo se contó la Guerra Civil en los noticieros de Estados Unidos",
-      "url": "https://atlas.lootura.com/es/place/espana",
-      "path": "/es/place/espana",
-      "updatedAt": "2026-07-18T13:08:36.432Z",
-      "score": 1557,
-      "sourceCount": 357,
+      "id": "es-alberto-nunez-feijoo",
+      "name": "Alberto Núñez Feijóo",
+      "type": "person",
+      "title": "Almeida en la presentación de los candidatos de Feijóo a las municipales: «Tenemos el mejor equipo y el mejor seleccionador»",
+      "url": "https://atlas.lootura.com/es/person/alberto-nunez-feijoo",
+      "path": "/es/person/alberto-nunez-feijoo",
+      "updatedAt": "2026-07-18T16:55:22.774Z",
+      "score": 1550,
+      "sourceCount": 48,
       "isBreaking": false,
       "isPinned": false
     },
     "cards": [
       {
-        "id": "es-alberto-nunez-feijoo",
-        "name": "Alberto Núñez Feijóo",
+        "id": "es-donald-trump",
+        "name": "Donald Trump",
         "type": "person",
-        "title": "Almeida en la presentación de los candidatos de Feijóo a las municipales: «Tenemos el mejor equipo y el mejor seleccionador»",
-        "url": "https://atlas.lootura.com/es/person/alberto-nunez-feijoo",
-        "path": "/es/person/alberto-nunez-feijoo",
-        "updatedAt": "2026-07-18T13:08:36.432Z",
-        "score": 1553,
-        "sourceCount": 48,
+        "title": "Trump culpa a Canadá por el humo de los incendios forestales y dice que sumará el costo a los aranceles",
+        "url": "https://atlas.lootura.com/es/person/donald-trump",
+        "path": "/es/person/donald-trump",
+        "updatedAt": "2026-07-18T16:55:22.774Z",
+        "score": 1531,
+        "sourceCount": 114,
+        "isBreaking": false,
+        "isPinned": false
+      },
+      {
+        "id": "es-espana",
+        "name": "España",
+        "type": "place",
+        "title": "España, país en armas: cómo se contó la Guerra Civil en los noticieros de Estados Unidos",
+        "url": "https://atlas.lootura.com/es/place/espana",
+        "path": "/es/place/espana",
+        "updatedAt": "2026-07-18T16:55:22.774Z",
+        "score": 1531,
+        "sourceCount": 359,
         "isBreaking": false,
         "isPinned": false
       },
@@ -47,39 +60,26 @@
         "title": "Muere un joven de 23 años tras ser apuñalado en una pelea en Madrid",
         "url": "https://atlas.lootura.com/es/place/madrid",
         "path": "/es/place/madrid",
-        "updatedAt": "2026-07-18T13:08:36.432Z",
-        "score": 1529,
-        "sourceCount": 202,
+        "updatedAt": "2026-07-18T16:55:22.774Z",
+        "score": 1526,
+        "sourceCount": 205,
         "isBreaking": false,
         "isPinned": false
       },
       {
-        "id": "es-pedro-sanchez",
-        "name": "Pedro Sánchez",
-        "type": "person",
-        "title": "Feijóo no quiso cruzar su línea roja sobre Begoña Gómez y las hijas de Zapatero en el Senado",
-        "url": "https://atlas.lootura.com/es/person/pedro-sanchez",
-        "path": "/es/person/pedro-sanchez",
-        "updatedAt": "2026-07-18T13:08:36.432Z",
-        "score": 1523,
-        "sourceCount": 166,
-        "isBreaking": false,
-        "isPinned": false
-      },
-      {
-        "id": "es-barcelona",
-        "name": "Barcelona",
+        "id": "es-united-states",
+        "name": "Estados Unidos",
         "type": "place",
-        "title": "Los Mossos detienen a una pareja reincidente por el robo de joyas valoradas en 8.000 euros",
-        "url": "https://atlas.lootura.com/es/place/barcelona",
-        "path": "/es/place/barcelona",
-        "updatedAt": "2026-07-18T13:08:36.432Z",
-        "score": 1514,
-        "sourceCount": 41,
+        "title": "España, país en armas: cómo se contó la Guerra Civil en los noticieros de Estados Unidos",
+        "url": "https://atlas.lootura.com/es/place/united-states",
+        "path": "/es/place/united-states",
+        "updatedAt": "2026-07-18T16:55:22.774Z",
+        "score": 1526,
+        "sourceCount": 108,
         "isBreaking": false,
         "isPinned": false
       }
     ],
-    "publicEntityCount": 42
+    "publicEntityCount": 46
   }
 }

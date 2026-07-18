@@ -3,7 +3,7 @@
 > Sigue la actividad de Alberto Núñez Feijóo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-18T13:08:36.432Z
+- Actualizado: 2026-07-18T16:55:22.774Z
 - Canonical: https://atlas.lootura.com/es/person/alberto-nunez-feijoo
 
 ## Cambios recientes
@@ -26,6 +26,12 @@ El líder del Partido Popular, en su discurso, ha arremetido contra el president
 
 Date: 2026-07-18
 
+### Feijóo presenta este sábado en Santiago a los candidatos del PP a las capitales de provincia
+
+El líder del Partido Popular , Alberto Núñez Feijóo , presenta este sábado, día 18 de julio, a los candidatos de su formación a las capitales de provincia de toda España de cara a las elecciones municipales del 2027 . El acto tendrá lugar en la Cidade da Cultura de Santiago de Compostela y en él también intervendrá el.
+
+Date: 2026-07-18
+
 ### Feijóo pide al PP «ganar, ganar y volver a ganar» en las municipales: «Las urnas serán la sentencia del sanchismo»
 
 El presidente del PP, Alberto Núñez Feijóo , ha presentado este sábado en Santiago de Compostela (Galicia) a los 54 candidatos de su formación en capitales de provincia, capitales de comunidad autónoma y las siete grandes ciudades gallegas para las próximas elecciones municipales del próximo 23 de mayo. El líder popula.
@@ -35,12 +41,6 @@ Date: 2026-07-18
 ### Almeida en la presentación de los candidatos de Feijóo a las municipales: «Tenemos el mejor equipo y el mejor seleccionador»
 
 El alcalde de Madrid y aspirante a la reelección en las próximas elecciones municipales, José Luis Martínez-Almeida , ha puesto en valor el conjunto de candidaturas del PP en las capitales de provincia para estos comicios, y el papel de su líder, Alberto Núñez Feijóo . «Tenemos el mejor equipo y el mejor seleccionador.
-
-Date: 2026-07-18
-
-### Feijóo presenta este sábado en Santiago a los candidatos del PP a las capitales de provincia
-
-El líder del Partido Popular , Alberto Núñez Feijóo , presenta este sábado, día 18 de julio, a los candidatos de su formación a las capitales de provincia de toda España de cara a las elecciones municipales del 2027 . El acto tendrá lugar en la Cidade da Cultura de Santiago de Compostela y en él también intervendrá el.
 
 Date: 2026-07-18
 
@@ -73,6 +73,4 @@ Date: 2026-07-16
 - [Feijóo vaticina que «las urnas serán también la sentencia» del sanchismo](https://www.abc.es/espana/galicia/feijoo-vaticina-urnas-sentencia-sanchismo-20260718120339-nt.html?utm_source=lootura.com) — 2026-07-18T12:49:47.000Z
 - [Feijóo anuncia a los 50 candidatos a las alcaldías de provincia, entre ellos Gema Igual](https://www.elconfidencial.com/espana/2026-07-18/pp-candidatos-elecciones-municipales-2027-1tps_4392175/?utm_source=lootura.com) — 2026-07-18T09:15:00.000Z
 - [Feijóo pide "decencia" en una España "harta de mentiras": "El sanchismo ha sido condenado en todas sus formas"](https://www.elconfidencial.com/espana/2026-07-18/feijoo-anuncia-a-los-50-candidatos-alcaldias-de-provincia-gema-igual_4392191/?utm_source=lootura.com) — 2026-07-18T09:15:00.000Z
-- [Feijóo pide al PP «ganar, ganar y volver a ganar» en las municipales: «Las urnas serán la sentencia del sanchismo»](https://okdiario.com/espana/feijoo-pide-pp-ganar-ganar-volver-ganar-proximas-municipales-urnas-seran-sentencia-del-sanchismo-19022170?utm_source=lootura.com) — 2026-07-18T12:05:44.000Z
-- [Almeida en la presentación de los candidatos de Feijóo a las municipales: «Tenemos el mejor equipo y el mejor seleccionador»](https://okdiario.com/espana/almeida-presentacion-candidatos-feijoo-municipales-tenemos-mejor-equipo-mejor-seleccionador-19022224?utm_source=lootura.com) — 2026-07-18T12:42:51.000Z
 - [Feijóo presenta este sábado en Santiago a los candidatos del PP a las capitales de provincia](https://theobjective.com/espana/politica/2026-07-18/feijoo-candidatos-pp-capitales-provincia/?utm_source=lootura.com) — 2026-07-18T10:55:13.000Z

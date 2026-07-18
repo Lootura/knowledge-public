@@ -3,7 +3,7 @@
 > Sigue la actividad de Donald Trump en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-18T13:08:36.432Z
+- Actualizado: 2026-07-18T16:55:22.774Z
 - Canonical: https://atlas.lootura.com/es/person/donald-trump
 
 ## Cambios recientes
@@ -11,6 +11,12 @@
 ### Lealtad, telegenia y testosterona: la extravagante carrera de Hegseth al frente del Pentágono
 
 En la reunión celebrada en el salón de té de la mansión/hotel de Donald Trump de Mar-a-Lago en la que se decidió el 11 de noviembre de 2024 que Pete Hegseth sería el siguiente secretario de Defensa de Estados Unidos, el entonces presidente electo ofreció dos argumentos, para él, de peso. “Nadie ha dado mejor en cámara.
+
+Date: 2026-07-18
+
+### Trump culpa a Canadá por el humo de los incendios forestales y dice que sumará el costo a los aranceles
+
+El viernes, el presidente Donald Trump responsabilizó a Canadá del humo de los incendios forestales que se propagaba por Estados Unidos y afirmó que añadiría el “costo incalculable” de hacer frente a la contaminación a los aranceles ya existentes sobre los productos canadienses. Seguir leyendo...
 
 Date: 2026-07-18
 
@@ -62,13 +68,8 @@ Donald Trump, líder de un país en guerra y con el coste de la vida en alza, se
 
 Date: 2026-07-17
 
-### Trump anuncia la desclasificación de documentos sobre una supuesta injerencia electoral china en 2020
-
-El presidente sostuvo que Pekín obtuvo de forma ilícita acceso a los datos de más de 220 millones de votantes estadounidenses.
-
-Date: 2026-07-17
-
 ## Fuentes
 
-- [Trump amenaza con subir los aranceles a Canadá por los incendios que afectan a Nueva York antes de la final del Mundial](https://www.abc.es/internacional/trump-amenaza-subir-aranceles-canada-incendios-afectan-20260718141509-nt_amp.html?utm_source=lootura.com) — 2026-07-18T12:15:09.000Z
+- [Trump le dice a Infantino que fue él quien quitó la sanción a Balogun: «Otra más de tus grandes decisiones»](https://www.abc.es/deportes/futbol/mundial/trump-dice-infantino-quito-sancion-balogun-tus-20260718013217-nt.html?utm_source=lootura.com) — 2026-07-18T15:47:47.000Z
 - [Lealtad, telegenia y testosterona: la extravagante carrera de Hegseth al frente del Pentágono](https://elpais.com/internacional/2026-07-18/lealtad-telegenia-y-testosterona-la-extravagante-carrera-de-hegseth-al-frente-del-pentagono.html?utm_source=lootura.com) — 2026-07-18T03:30:01.000Z
+- [Trump culpa a Canadá por el humo de los incendios forestales y dice que sumará el costo a los aranceles](https://www.lavanguardia.com/internacional/20260718/11595460/trump-culpa-canada-humo-incendios-forestales-dice-sumara-costo-aranceles.html?utm_source=lootura.com) — 2026-07-18T13:54:01.000Z

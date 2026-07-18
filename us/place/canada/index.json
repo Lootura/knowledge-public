@@ -8,14 +8,9 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/canada/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/canada/index.json",
   "description": "Follow Canada, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-18T13:08:56.904Z",
+  "updatedAt": "2026-07-18T16:55:42.019Z",
   "aliases": [],
   "changes": [
-    {
-      "title": "Maps show wildfire smoke forecast, air quality alerts in swath of U.S.",
-      "summary": "Heavy smoke from several large wildfires blazing in Canada and Minnesota is engulfing large swaths of the Midwest and the U.S. East Coast this week.",
-      "date": "2026-07-18"
-    },
     {
       "title": "Trump Threatens Canada With Tariffs for Wildfire Smoke Over U.S.",
       "summary": "The president said on Friday in a social media post that Canada was failing to manage its wildfire response as smoke has blanketed U.S. cities including New York and Chicago.",
@@ -32,6 +27,26 @@
       "date": "2026-07-18"
     },
     {
+      "title": "Maps show wildfire smoke forecast, air quality alerts due to pollution from Canadian, Minnesota fires",
+      "summary": "Heavy smoke from several large wildfires blazing in Canada and Minnesota is engulfing large swaths of the Midwest and the U.S. East Coast this week.",
+      "date": "2026-07-18"
+    },
+    {
+      "title": "Wildfire smoke from Canada and Minnesota pushes farther into the U.S. and engulfs D.C. in haze",
+      "summary": "Warnings of dangerous conditions were expected to remain in effect through Saturday across a wide swath of the U.S., though there's potential for temporary improvement with storms forecast in some affected areas during the weekend.",
+      "date": "2026-07-18"
+    },
+    {
+      "title": "Iqaluit, Canada’s Most Northern City, Gets Its First Bus Line",
+      "summary": "Jacinto Marques left Angola for Canada’s frozen edge. Now he’s running a bus service in Iqaluit, the largest, and only city in Canada’s Arctic.",
+      "date": "2026-07-18"
+    },
+    {
+      "title": "Maps show wildfire smoke forecast, air quality alerts in swath of U.S.",
+      "summary": "Heavy smoke from several large wildfires blazing in Canada and Minnesota is engulfing large swaths of the Midwest and the U.S. East Coast this week.",
+      "date": "2026-07-18"
+    },
+    {
       "title": "Trump fumes over Canadian wildfire smoke and issues tariff threat",
       "summary": "President Donald Trump on Friday pledged to hold Canada responsible for costs associated with unhealthy air quality in the U.S. due to spreading smoke from the Canadian wildfires.",
       "date": "2026-07-18"
@@ -42,31 +57,16 @@
       "date": "2026-07-18"
     },
     {
-      "title": "Is smoke in your home? Here's how to make an air purifier using a box fan",
-      "summary": "Smoke from wildfires in Canada and Minnesota is sending air quality indexes to record levels, posing a hazard for millions of people. Here are tips for how to breathe easier in your home. (Image credit: Finn Gomez).",
-      "date": "2026-07-17"
-    },
-    {
       "title": "100 million Americans facing dangerous wildfire smoke",
       "summary": "That dangerous wildfire smoke from Canada is now on the move and smothering new U.S. cities. NBC News’ Tom Costello has the latest.",
-      "date": "2026-07-17"
-    },
-    {
-      "title": "Maps show wildfire smoke forecast, air quality alerts in swath of U.S.",
-      "summary": "Heavy smoke from several large wildfires blazing in Canada and Minnesota is engulfing large swaths of the Midwest and the U.S. East Coast this week.",
-      "date": "2026-07-17"
-    },
-    {
-      "title": "100 million Americans across 14 states impacted by heavy smoke from Canadian wildfires",
-      "summary": "Smoke from wildfires in Canada is creating dangerous air quality conditions for approximately 100 million Americans in more than a dozen states. Rob Marciano has the latest.",
       "date": "2026-07-17"
     }
   ],
   "sources": [
     {
-      "title": "Maps show wildfire smoke forecast, air quality alerts in swath of U.S.",
+      "title": "Maps show wildfire smoke forecast, air quality alerts due to pollution from Canadian, Minnesota fires",
       "url": "https://www.cbsnews.com/news/wildfires-smoke-millions-exposed-midwest-northeast-us/?utm_source=lootura.com",
-      "publishedAt": "2026-07-18T01:10:01.000Z",
+      "publishedAt": "2026-07-18T16:44:00.000Z",
       "sourceId": "lootura-us-cbs-news"
     },
     {
@@ -76,10 +76,10 @@
       "sourceId": "lootura-us-nbc-news"
     },
     {
-      "title": "Is smoke in your home? Here's how to make an air purifier using a box fan",
-      "url": "https://www.npr.org/2026/07/17/g-s1-134179/is-smoke-in-your-home-heres-how-to-make-an-air-purifier-using-a-box-fan?utm_source=lootura.com",
-      "publishedAt": "2026-07-17T15:07:09.000Z",
-      "sourceId": "lootura-us-npr"
+      "title": "Wildfire smoke from Canada and Minnesota pushes farther into the U.S. and engulfs D.C. in haze",
+      "url": "https://www.pbs.org/newshour/nation/wildfire-smoke-from-canada-and-minnesota-pushes-farther-into-the-u-s-and-engulfs-d-c-in-haze?utm_source=lootura.com",
+      "publishedAt": "2026-07-18T15:20:12.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
     },
     {
       "title": "What the US and Canada Can Expect from the Wildfire Smoke This Weekend",
@@ -94,11 +94,17 @@
       "sourceId": "lootura-us-the-new-york-times-politics"
     },
     {
+      "title": "Iqaluit, Canada’s Most Northern City, Gets Its First Bus Line",
+      "url": "https://www.nytimes.com/2026/07/18/world/canada/iqaluit-arctic-city-bus.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-18T09:01:06.000Z",
+      "sourceId": "lootura-us-the-new-york-times-world"
+    },
+    {
       "title": "Climate's Compounding Financial Toll Is Becoming Harder to Ignore",
       "url": "https://time.com/article/2026/07/17/climate-impacts-economic-risk/?utm_source=lootura.com",
       "publishedAt": "2026-07-18T12:00:03.000Z",
       "sourceId": "lootura-us-time"
     }
   ],
-  "evidenceCount": 6
+  "evidenceCount": 7
 }

@@ -3,7 +3,7 @@
 > Follow Russia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-18T13:08:56.904Z
+- Updated: 2026-07-18T16:55:42.019Z
 - Canonical: https://atlas.lootura.com/us/place/russia
 
 ## Recent changes
@@ -14,15 +14,21 @@ The Trump administration has recently sought to scale back sanctions as adversar
 
 Date: 2026-07-18
 
-### Ukrainian drone attacks on Russia kill at least 8, injure over 60
+### 8 killed and more than 60 wounded in Ukrainian drone attack on Russian regions
+
+Kyiv's forces are continuing their aerial campaign against energy infrastructure and military targets inside Russia, aiming to undermine Moscow's war effort. (Image credit: Moscow Region Governor Andrei Vo).
+
+Date: 2026-07-18
+
+### Ukrainian drone attacks on Russia kill at least 9, injure over 60
 
 Kyiv's forces are continuing their relentless aerial campaign​ against energy infrastructure and military targets inside Russia.
 
 Date: 2026-07-18
 
-### 8 killed and more than 60 wounded in Ukrainian drone attack on Russian regions
+### Ukrainian drone attacks on Russia kill at least 8, injure over 60
 
-Kyiv's forces are continuing their aerial campaign against energy infrastructure and military targets inside Russia, aiming to undermine Moscow's war effort. (Image credit: Moscow Region Governor Andrei Vo).
+Kyiv's forces are continuing their relentless aerial campaign​ against energy infrastructure and military targets inside Russia.
 
 Date: 2026-07-18
 
@@ -62,14 +68,8 @@ Ukraine's President Volodymyr Zelenskyy has fired the country's popular defense 
 
 Date: 2026-07-16
 
-### Dismissal of Ukraine's popular defense minister draws intense criticism
-
-As Ukraine signs drone deals and awaits licenses for Patriot missiles, the country's popular, tech-savvy defense minister, who helped Ukraine turn the tables on Russia through drone warfare, is fired.
-
-Date: 2026-07-16
-
 ## Sources
 
-- [Ukrainian drone attacks on Russia kill at least 8, injure over 60](https://www.cbsnews.com/news/ukraine-russia-war-drone-attacks-wildberries/?utm_source=lootura.com) — 2026-07-18T11:26:33.000Z
+- [Ukrainian drone attacks on Russia kill at least 9, injure over 60](https://www.cbsnews.com/news/ukraine-russia-war-drone-attacks-wildberries/?utm_source=lootura.com) — 2026-07-18T16:12:37.000Z
 - [8 killed and more than 60 wounded in Ukrainian drone attack on Russian regions](https://www.npr.org/2026/07/18/nx-s1-5898963/8-killed-and-more-than-60-wounded-in-ukrainian-drone-attack-on-russian-regions?utm_source=lootura.com) — 2026-07-18T10:45:43.000Z
 - [Russia Bill Broadens Sanctions but Could Fuel Fears Over the Dollar](https://www.nytimes.com/2026/07/18/us/politics/russia-bill-sanctions-trump.html?utm_source=lootura.com) — 2026-07-18T09:01:37.000Z

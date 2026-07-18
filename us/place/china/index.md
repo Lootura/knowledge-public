@@ -3,7 +3,7 @@
 > Follow China, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-18T13:08:56.904Z
+- Updated: 2026-07-18T16:55:42.019Z
 - Canonical: https://atlas.lootura.com/us/place/china
 
 ## Recent changes
@@ -14,15 +14,15 @@ Nature, Published online: 16 July 2026; doi:10.1038/d41586-026-02226-9 Republica
 
 Date: 2026-07-18
 
-### Fact-checking Trump's address on China, the 2020 election and what documents show
-
-President Donald Trump quoted years-old intelligence community documents, including some that had been declassified or partially redacted, without noting a distinction between what China may have planned versus what analysts say it did.
-
-Date: 2026-07-17
-
 ### Trump Pursues a Deeper Bond With China’s Leader, Despite Hostile Speech
 
 Chinese officials appear to think that President Trump’s accusations that China interfered in the 2020 U.S. elections were driven by domestic politics, not foreign policy.
+
+Date: 2026-07-17
+
+### Fact-checking Trump's address on China, the 2020 election and what documents show
+
+President Donald Trump quoted years-old intelligence community documents, including some that had been declassified or partially redacted, without noting a distinction between what China may have planned versus what analysts say it did.
 
 Date: 2026-07-17
 
@@ -70,6 +70,5 @@ Date: 2026-07-17
 
 ## Sources
 
-- [US politicians push agencies to restrict research collaboration with China](https://www.nature.com/articles/d41586-026-02226-9?utm_source=lootura.com) — 2026-07-18T09:22:33.855Z
-- [Fact-checking Trump's address on China, the 2020 election and what documents show](https://www.pbs.org/newshour/politics/fact-checking-trumps-address-on-china-the-2020-election-and-what-documents-show?utm_source=lootura.com) — 2026-07-17T20:20:23.000Z
+- [US politicians push agencies to restrict research collaboration with China](https://www.nature.com/articles/d41586-026-02226-9?utm_source=lootura.com) — 2026-07-18T16:55:45.433Z
 - [Trump Pursues a Deeper Bond With China’s Leader, Despite Hostile Speech](https://www.nytimes.com/2026/07/17/us/politics/trump-speech-china-xi.html?utm_source=lootura.com) — 2026-07-17T21:29:41.000Z

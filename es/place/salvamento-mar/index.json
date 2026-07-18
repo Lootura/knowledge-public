@@ -1,0 +1,29 @@
+{
+  "id": "es-salvamento-mar",
+  "name": "Salvamento Mar",
+  "type": "place",
+  "locale": "es",
+  "canonicalPath": "/es/place/salvamento-mar",
+  "canonicalUrl": "https://atlas.lootura.com/es/place/salvamento-mar",
+  "markdownUrl": "https://atlas.lootura.com/es/place/salvamento-mar/index.md",
+  "jsonUrl": "https://atlas.lootura.com/es/place/salvamento-mar/index.json",
+  "description": "Sigue la actividad de Salvamento Mar en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
+  "updatedAt": "2026-07-18T16:55:22.774Z",
+  "aliases": [],
+  "changes": [
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Salvamento Mar first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-07-18"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Rescatan a 11 personas en el naufragio de un catamarán hundido en Alicante",
+      "url": "https://www.abc.es/espana/comunidad-valenciana/alicante/rescatan-personas-naufragio-catamaran-hundido-alicante-20260718163523-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-18T15:41:03.000Z",
+      "sourceId": "lootura-es-abc"
+    }
+  ],
+  "evidenceCount": 1
+}

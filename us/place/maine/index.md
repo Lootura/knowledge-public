@@ -3,7 +3,7 @@
 > Follow Maine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-18T13:08:56.904Z
+- Updated: 2026-07-18T16:55:42.019Z
 - Canonical: https://atlas.lootura.com/us/place/maine
 
 ## Recent changes
@@ -11,6 +11,12 @@
 ### Without Platner, Maine Democrats Scramble to Keep Grassroots Energy Alive
 
 Graham Platner’s campaign for Senate imploded last week. The activists who backed him are seeking a candidate to carry his populist message in the race against Republican Susan Collins.
+
+Date: 2026-07-18
+
+### ICE detention center employee arrested for shooting protester in Colorado
+
+A woman was shot while protesting outside of an ICE detention center in Aurora, Colorado, police say. The employee of a group operating the center faces assault and attempted second-degree murder charges in connection with the shooting. This comes after two fatal shootings by ICE agents in Maine and Texas.
 
 Date: 2026-07-18
 
@@ -62,13 +68,7 @@ Liam LaFountain, mayor of Biddeford, Maine, joins "The Daily Report" to discuss 
 
 Date: 2026-07-16
 
-### Trump overturns pause of ICE vehicle stops implemented after deadly shootings
-
-Neither of the victims of the ICE shootings in Maine or Texas were the target of enforcement operations, according to the Department of Homeland Security.
-
-Date: 2026-07-16
-
 ## Sources
 
-- [Ex-wife says ICE agent who killed man in Maine had racist beliefs, violent tendencies](https://www.npr.org/2026/07/17/nx-s1-5897460/maine-ice-shooting-brouillette?utm_source=lootura.com) — 2026-07-17T22:36:02.000Z
+- [ICE detention center employee arrested for shooting protester in Colorado](https://www.cbsnews.com/video/ice-detention-center-employee-arrested-for-shooting-protester-in-colorado/?utm_source=lootura.com) — 2026-07-18T15:23:37.000Z
 - [Without Platner, Maine Democrats Scramble to Keep Grassroots Energy Alive](https://www.nytimes.com/2026/07/18/us/politics/platner-voters-maine-senate.html?utm_source=lootura.com) — 2026-07-18T09:02:12.000Z

@@ -3,16 +3,10 @@
 > Follow White House, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-07-18T13:08:56.904Z
+- Updated: 2026-07-18T16:55:42.019Z
 - Canonical: https://atlas.lootura.com/us/organization/white-house
 
 ## Recent changes
-
-### Trump encourages Darline Graham to run for Lindsey Graham's seat
-
-Darline Graham indicated in a White House meeting Thursday that she's weighing a bid, CBS News confirmed. A day later, President Trump wrote on Truth Social: "RUN, DARLINE, RUN! ".
-
-Date: 2026-07-17
 
 ### Trump says these documents prove his false claims of election fraud. Here's what they really say
 
@@ -23,6 +17,12 @@ Date: 2026-07-17
 ### Trump Brings Full Weight of Government to Bolster False Election Claims
 
 Intelligence agencies provided the White House with a trove of declassified documents that President Trump cited on Thursday as evidence of election vulnerabilities.
+
+Date: 2026-07-17
+
+### Trump encourages Darline Graham to run for Lindsey Graham's seat
+
+Darline Graham indicated in a White House meeting Thursday that she's weighing a bid, CBS News confirmed. A day later, President Trump wrote on Truth Social: "RUN, DARLINE, RUN! ".
 
 Date: 2026-07-17
 
@@ -70,6 +70,5 @@ Date: 2026-07-17
 
 ## Sources
 
-- [Trump encourages Darline Graham to run for Lindsey Graham's seat](https://www.cbsnews.com/news/darline-graham-us-senate-south-carolina-lindsey-graham/?utm_source=lootura.com) — 2026-07-17T19:44:10.000Z
 - [Trump says these documents prove his false claims of election fraud. Here's what they really say](https://www.pbs.org/newshour/politics/trump-says-these-documents-prove-his-false-claims-of-election-fraud-heres-what-they-really-say?utm_source=lootura.com) — 2026-07-17T23:08:36.000Z
 - [Trump Brings Full Weight of Government to Bolster False Election Claims](https://www.nytimes.com/2026/07/17/us/politics/trump-government-election-claims.html?utm_source=lootura.com) — 2026-07-17T19:39:31.000Z

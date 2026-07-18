@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/psoe/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/psoe/index.json",
   "description": "Sigue la actividad de Partido Socialista Obrero Español en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-18T13:08:36.432Z",
+  "updatedAt": "2026-07-18T16:55:22.774Z",
   "aliases": [
     "Partido Socialista",
     "Partido Socialista Obrero Español"
@@ -73,17 +73,11 @@
       "sourceId": "lootura-es-el-confidencial"
     },
     {
-      "title": "Junts descarta reconciliarse con Sánchez tras la amnistía: \"Esto no allana volver con el PSOE. Que cumpla con los catalanes o se vaya\"",
-      "url": "https://www.elmundo.es/cataluna/2026/07/18/6a5a6254e85eceee518b45a6.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-17T23:17:24.000Z",
-      "sourceId": "lootura-es-el-mundo"
-    },
-    {
       "title": "El PSOE andaluz confirma a Montero, Espadas y Díaz como sus candidatos a senador",
       "url": "https://theobjective.com/espana/politica/2026-07-18/psoe-andaluz-confirma-montero-espadas-diaz-senador/?amp=&utm_source=lootura.com",
       "publishedAt": "2026-07-18T08:09:34.000Z",
       "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 2
 }

@@ -3,10 +3,16 @@
 > Sigue la actividad de Málaga en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-18T02:11:28.247Z
+- Actualizado: 2026-07-18T16:55:22.774Z
 - Canonical: https://atlas.lootura.com/es/place/malaga
 
 ## Cambios recientes
+
+### Los incendios forestales cortan 14 carreteras secundarias en cuatro provincias
+
+Los incendios forestales que están atacando España han provocado el corte de hasta 14 carreteras secundarias de todo el país. Entre ellas se encuentran siete en Guadalajara , cinco en Zaragoza , una en la provincia de Madrid y otra en la de Málaga , según el último boletín difundido por la Dirección General de Tráfico.
+
+Date: 2026-07-18
 
 ### Discovered by Atlas
 
@@ -46,4 +52,4 @@ Date: 2026-07-17
 
 ## Fuentes
 
-No public source links.
+- [Los incendios forestales cortan 14 carreteras secundarias en cuatro provincias](https://www.20minutos.es/nacional/los-incendios-forestales-cortan-14-carreteras-secundarias-cuatro-provincias_7016224_0.html?utm_source=lootura.com) — 2026-07-18T13:48:24.000Z
