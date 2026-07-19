@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/maine/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/maine/index.json",
   "description": "Follow Maine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-19T09:50:13.921Z",
+  "updatedAt": "2026-07-19T13:12:59.144Z",
   "aliases": [],
   "changes": [
     {
       "title": "In Maine, Troy Jackson Gains Momentum in Bid to Replace Platner",
       "summary": "Troy Jackson, a progressive former State Senate president, showed signs of significant strength, as half the state’s counties picked delegates to a convention where they will choose Graham Platner’s replacement.",
+      "date": "2026-07-19"
+    },
+    {
+      "title": "Platner-ally Troy Jackson closing in on Democratic Senate nod in key race to face Collins",
+      "summary": "Former Maine Senate President Troy Jackson appears to be sprinting far ahead of his rivals in the abbreviated race to replace now ex-candidate Graham Platner as the Democratic Senate nominee in the high-stakes showdown to face off with longtime Republican Sen. Susan Collins. Delegates aligned with Jackson won the vast.",
       "date": "2026-07-19"
     },
     {
@@ -55,19 +60,14 @@
       "title": "Maine Democratic Senate candidates discuss which of Platner's ideas they would use",
       "summary": "Maine Democratic Senate candidates Nirav Shah, Shenna Bellows, Jordan Wood and Troy Jackson discuss which ideas from Graham Platner's platform they would use if they are chosen as the nominee.",
       "date": "2026-07-17"
-    },
-    {
-      "title": "The use of force has become a 'default tool' for ICE officers, a new report finds",
-      "summary": "An ACLU report looks at the widespread use of force in immigration enforcement in the first year of President Trump's return to office. Recent fatal shootings in Texas and Maine have brought renewed scrutiny to the agency's tactics. (Image credit: Scott Olson).",
-      "date": "2026-07-16"
     }
   ],
   "sources": [
     {
-      "title": "ICE officer in Maine shooting has history of violent behavior, relatives say",
-      "url": "https://www.cbsnews.com/news/ice-shooting-maine-officer-history-violent-behavior/?utm_source=lootura.com",
-      "publishedAt": "2026-07-18T17:48:22.000Z",
-      "sourceId": "lootura-us-cbs-news"
+      "title": "Platner-ally Troy Jackson closing in on Democratic Senate nod in key race to face Collins",
+      "url": "https://www.foxnews.com/politics/platner-ally-troy-jackson-closing-democratic-senate-nod-key-race-face-collins?utm_source=lootura.com",
+      "publishedAt": "2026-07-19T12:33:12.000Z",
+      "sourceId": "lootura-us-fox-news"
     },
     {
       "title": "In Maine, Troy Jackson Gains Momentum in Bid to Replace Platner",

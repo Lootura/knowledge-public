@@ -3,20 +3,20 @@
 > Sigue la actividad de Donald Trump en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-19T09:49:47.811Z
+- Actualizado: 2026-07-19T13:12:39.474Z
 - Canonical: https://atlas.lootura.com/es/person/donald-trump
 
 ## Cambios recientes
 
-### Un don Diego entre Trump y un osito de peluche
-
-MIC Producciones continúa su gira veraniega en Olmedo Clásico el 20 de julio, donde se podrá ver de nuevo el texto de Agustín Moreto.
-
-Date: 2026-07-19
-
 ### EEUU ataca Irán una noche más tras la muerte de dos de sus militares en una base en Jordania
 
 Estados Unidos ha anunciado el inicio de una nueva ronda de bombardeos contra Irán por orden del presidente Donald Trump , en una operación que tiene como objetivo reducir las capacidades de Teherán para amenazar el tráfico marítimo en el estrecho de Ormuz y responder al ataque -atribuido al Cuerpo de la Guardia Revolu.
+
+Date: 2026-07-19
+
+### Un don Diego entre Trump y un osito de peluche
+
+MIC Producciones continúa su gira veraniega en Olmedo Clásico el 20 de julio, donde se podrá ver de nuevo el texto de Agustín Moreto.
 
 Date: 2026-07-19
 
@@ -71,5 +71,4 @@ Date: 2026-07-17
 ## Fuentes
 
 - [España-Argentina, la verdadera Finalissima decide el Mundial](https://elpais.com/deportes/mundial-futbol/2026-07-19/espana-argentina-la-verdadera-finalissima-decide-el-mundial.html?utm_source=lootura.com) — 2026-07-19T03:30:01.000Z
-- [Un don Diego entre Trump y un osito de peluche](https://www.larazon.es/cultura/teatro/don-diego-trump-osito-peluche_202607196a5c6dc9e9f2e84b5c7127ac.html?outputType=amp&utm_source=lootura.com) — 2026-07-19T06:25:13.000Z
 - [EEUU ataca Irán una noche más tras la muerte de dos de sus militares en una base en Jordania](https://theobjective.com/internacional/2026-07-19/eeuu-ataca-iran-muerte-dos-militares-base-jordania/?utm_source=lootura.com) — 2026-07-19T06:32:05.000Z

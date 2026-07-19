@@ -3,7 +3,7 @@
 > Follow Spain, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-19T09:50:13.921Z
+- Updated: 2026-07-19T13:12:59.144Z
 - Canonical: https://atlas.lootura.com/us/place/espana
 
 ## Recent changes
@@ -70,4 +70,4 @@ Date: 2026-07-09
 
 ## Sources
 
-- [Spain vs. Argentina: What to know about the World Cup final teams, players and records](https://www.cbsnews.com/news/spain-argentina-world-cup-final-records-players/?utm_source=lootura.com) — 2026-07-19T09:15:17.000Z
+- [Thunderstorms expected to clear Canadian wildfire smoke before World Cup final](https://www.cbsnews.com/news/severe-weather-wildfire-smoke-northeast/?utm_source=lootura.com) — 2026-07-19T11:27:16.000Z

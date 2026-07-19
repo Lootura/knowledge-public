@@ -3,7 +3,7 @@
 > Sigue la actividad de Apple en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: company
-- Actualizado: 2026-07-19T09:49:47.811Z
+- Actualizado: 2026-07-19T13:12:39.474Z
 - Canonical: https://atlas.lootura.com/es/company/apple
 
 ## Cambios recientes
@@ -11,6 +11,12 @@
 ### Tu próximo Apple Watch no va a tener esta actualización por culpa de la UE: ¿es tan dramático como lo pintan?
 
 Hace unos meses te contamos que la UE estaba modificando su reglamento para exigirle a las compañías tecnológicas una nueva medida. Todas debían adaptarse y fabricar dispositivos electrónicos con una 'batería extraíble' . ¿El motivo? Que los usuarios pudiesen cambiarla de forma relativamente fácil en su casa para alarg.
+
+Date: 2026-07-19
+
+### Olvídate de iCloud y Google Drive: hay un truco para usar los 10 TB gratis de O2 sin ser cliente
+
+Hace un mes, O2 sorprendía a todos sus clientes con una novedad que te puede hacer ahorrar cientos de euros. La OMV de Movistar permite activar de forma gratuita un plan de almacenamiento en la nube, O2 Cloud, con un total de 10 TB . Se trata de una cantidad de almacenamiento que compañías como Google o Apple ofrecen p.
 
 Date: 2026-07-19
 
@@ -62,12 +68,7 @@ A pesar de que Apple está totalmente centrada en las mejoras de iOS 27 que lleg
 
 Date: 2026-07-14
 
-### iOS 27 lanza su beta pública con Siri AI: cómo instalarla y iPhone compatibles
-
-acaba de lanzar la primera beta pública de iOS 27 , su nuevo sistema operativo para el iPhone. Después de iniciar las pruebas con la versión para desarrolladores, los de Cupertino han habilitado el acceso general a la edición todavía no finalizada de su software. Y esto es una gran noticia porque va a permitir a.
-
-Date: 2026-07-13
-
 ## Fuentes
 
+- [Olvídate de iCloud y Google Drive: hay un truco para usar los 10 TB gratis de O2 sin ser cliente](https://hipertextual.com/mobile/olvidate-de-icloud-y-google-drive-hay-un-truco-para-usar-los-10-tb-gratis-de-o2-sin-ser-cliente/?utm_source=lootura.com) — 2026-07-19T11:00:00.000Z
 - [Tu próximo Apple Watch no va a tener esta actualización por culpa de la UE: ¿es tan dramático como lo pintan?](https://hipertextual.com/apple/tu-proximo-apple-watch-no-va-a-tener-esta-actualizacion-por-culpa-de-la-ue-es-tan-dramatico-como-lo-pintan/?utm_source=lootura.com) — 2026-07-19T09:00:00.000Z

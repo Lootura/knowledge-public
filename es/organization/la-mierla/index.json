@@ -1,0 +1,86 @@
+{
+  "id": "es-la-mierla",
+  "name": "La Mierla",
+  "type": "organization",
+  "locale": "es",
+  "canonicalPath": "/es/organization/la-mierla",
+  "canonicalUrl": "https://atlas.lootura.com/es/organization/la-mierla",
+  "markdownUrl": "https://atlas.lootura.com/es/organization/la-mierla/index.md",
+  "jsonUrl": "https://atlas.lootura.com/es/organization/la-mierla/index.json",
+  "description": "Sigue la actividad de La Mierla en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
+  "updatedAt": "2026-07-19T13:12:39.474Z",
+  "aliases": [],
+  "changes": [
+    {
+      "title": "Castilla-La Mancha estudia plan de recuperación en La Mierla cuando cese el fuego",
+      "summary": "El Gobierno de Castilla-La Mancha se encuentra perfilando una estrategia de actuación en la zona afectada por el incendio de La Mierla de cara a impulsar tanto al sector primario como al turístico cuando regrese la normalidad. Fuentes del Ejecutivo autonómico consultadas por Europa Press destacan la zona por su riqueza.",
+      "date": "2026-07-19"
+    },
+    {
+      "title": "El fuego avanza 14 kilómetros en una noche y arrasa más de 13.000 hectáreas en La Mierla",
+      "summary": "La provincia de Guadalajara sufre un verano más la devastación de las llamas con cifras para la desesperanza. Si en septiembre de 2025 el incendio forestal del Pico del Lobo se daba por extinguido 22 días después de iniciarse y calcinar 2.500 hectáreas en terreno autonómico, el siniestro que desde el jueves afecta al P.",
+      "date": "2026-07-19"
+    },
+    {
+      "title": "El incendio de La Mierla ha arrasado 13.000 hectáreas tras avanzar 14 kilómetros en Guadalajara durante la noche",
+      "summary": "Además de las 16 localidades previamente evacuadas, se ha notificado a Prádena de Atienza, Robledo de Corpes, Aldeanueva de Atienza y Naharros que abandonen sus casas \"con tranquilidad\", según detalla la consejera de Desarrollo Sostenible, Mercedes Gómez, pues el fuego \" todavía no va a alcanzarlas\". El fuego iguala ya.",
+      "date": "2026-07-19"
+    },
+    {
+      "title": "El alcalde de Vox señalado por el incendio de La Mierla niega haber estado en el lugar donde se originó el fuego",
+      "summary": "Rubén Marchamalo ha comparecido esta tarde ante los medios de comunicación tras conocerse la investigación abierta por la Guardia Civil para determinar las circunstancias en las que produjo el siniestro. Se desmarca de lo ocurrido y apela a \"la presunción de inocencia\". Desde el partido exigen \"disculpas públicas\" por.",
+      "date": "2026-07-18"
+    },
+    {
+      "title": "El incendio de La Mierla (Guadalajara) suma 9.000 hectáreas quemadas y 700 evacuados",
+      "summary": "Unas 9.000 hectáreas quemadas, 700 personas afectadas, 16 poblaciones ya evacuadas y una confinada es el balance de este sábado del incendio de La Mierla ( Guadalajara ), que ha presentado unas condiciones extremas a lo largo de la jornada, con dificultad para actuar en la «cabeza» del mismo y con un viento que ha supe.",
+      "date": "2026-07-18"
+    },
+    {
+      "title": "García Page pide extremar las precauciones por el incendio en La Mierla y ya avisa: \"Nos quedan muchas horas, probablemente días\"",
+      "summary": "El incendio declarado el jueves en La Mierla , en la provincia de Guadalajara, no da tregua. Lo que comenzó arrasando 3.483 hectáreas ha escalado este sábado hasta las 5.400, con 12 municipios desalojados y cerca de 600 personas evacuadas. La consejera de Desarrollo Sostenible, Mercedes Gómez , confirmó desde el puesto.",
+      "date": "2026-07-18"
+    },
+    {
+      "title": "El fuego de La Mierla, en Guadalajara, pudo originarse en las labores de cosecha de un agricultor",
+      "summary": "La Guardia Civil de Guadalajara ha abierto una investigación a un agricultor como presunto responsable, mientras cosechaba, del incendio originado en La Mierla (Guadalajara), fuego que ya ha arrasado 2.000 hectáreas, tal y como han confirmado fuentes de la investigación. En cualquier caso, la labor de la cosechadora es.",
+      "date": "2026-07-17"
+    },
+    {
+      "title": "Suben a siete las localidades evacuadas por el incendio de La Mierla, en Guadalajara, que ha arrasado 2.000 hectáreas",
+      "summary": "La evolución del incendio decretado este jueves en La Mierla (Guadalajara) ha obligado al Gobierno de Castilla-La Mancha a ordenar este viernes la evacuación de Almiruete, Palancares, Semillas y La Nava de Jadraque , que se suman a La Mierla, Muriel y Umbralejo , desalojadas el día anterior. Así lo ha informado la cons.",
+      "date": "2026-07-17"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "La Mierla first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-07-16"
+    },
+    {
+      "title": "Incendio en Guadalajara, en directo: última hora de la evacuación de La Mierla y confinamiento de la zona del embalse de Beleña",
+      "summary": "El incendio forestal declarado este jueves en el municipio guadalajareño de La Mierla mantiene en máxima alerta a los servicios de emergencia.",
+      "date": "2026-07-16"
+    }
+  ],
+  "sources": [
+    {
+      "title": "El fuego avanza 14 kilómetros en una noche y arrasa más de 13.000 hectáreas en La Mierla",
+      "url": "https://www.abc.es/espana/castilla-la-mancha/a-20260718184312-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-19T12:14:58.000Z",
+      "sourceId": "lootura-es-abc"
+    },
+    {
+      "title": "El incendio de La Mierla ha arrasado 13.000 hectáreas tras avanzar 14 kilómetros en Guadalajara durante la noche",
+      "url": "https://www.eldiario.es/castilla-la-mancha/provincias/guadalajara/incendio-mierla-arrasado-13-000-hectareas-avanzar-14-kilometros-guadalajara-durante-noche_1_13391137.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-19T08:55:34.000Z",
+      "sourceId": "lootura-es-eldiario-es"
+    },
+    {
+      "title": "Castilla-La Mancha estudia plan de recuperación en La Mierla cuando cese el fuego",
+      "url": "https://theobjective.com/sociedad/suceso/2026-07-19/castilla-la-mancha-plan-recuperacion-la-mierla-cese-fuego/?utm_source=lootura.com",
+      "publishedAt": "2026-07-19T07:56:31.000Z",
+      "sourceId": "lootura-es-the-objective"
+    }
+  ],
+  "evidenceCount": 3
+}

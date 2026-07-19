@@ -3,10 +3,34 @@
 > Sigue la actividad de España en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-19T09:49:47.811Z
+- Actualizado: 2026-07-19T13:12:39.474Z
 - Canonical: https://atlas.lootura.com/es/place/espana
 
 ## Cambios recientes
+
+### De Sudáfrica a Nueva York: el hilo rojo de la eternidad
+
+El fútbol, en su caprichosa y hermosa naturaleza cíclica, ha decidido tender un puente de dieciséis años entre dos puntos cardinales de la historia del deporte español. De Johannesburgo, la ciudad más grande de Sudáfrica, al MetLife Stadium de Nueva York, España vuelve a paralizarse ante la pantalla . Este domingo, la.
+
+Date: 2026-07-19
+
+### Incendios en España, en directo hoy: última hora de los fuegos activos, evolución y situación en Aragón, Castilla-La Mancha, Madrid y Andalucía
+
+El presidente de la Junta de Comunidades de Castilla-La Mancha, Emiliano García-Page , señaló este sábado que la culpa de los incendios "no la tiene nadie por su profesión, condición política o raza" sino que la tiene "aquel que incumple las leyes" y subrayó que "llegará el momento de esclarecer las causas" , como así.
+
+Date: 2026-07-19
+
+### Una argentina revela el hábito de los españoles que más le sorprendió al mudarse: "No son de invitarte a casa"
+
+España se ha convertido en uno de los principales destinos para quienes deciden dejar Argentina en busca de una nueva oportunidad. El idioma compartido, la cercanía cultural y el estilo de vida hacen que miles de argentinos elijan cada año instalarse en distintas ciudades españolas. Sin embargo, incluso entre dos paíse.
+
+Date: 2026-07-19
+
+### Los bomberos coinciden e insisten a la población: «Por la noche lo recomendable es no cerrar la puerta con la llave puesta»
+
+El hábito de cerrar la puerta con la llave puesta por dentro está tan extendido que muchas personas ya ni siquiera lo consideran una decisión. Y es que, simplemente, forma parte de la rutina antes de acostarse . Bomberos y centros de emergencia de distintos puntos de España coinciden en pedir un cambio en esa costumbre.
+
+Date: 2026-07-19
 
 ### Carlos Cuerpo, el vuelo imperturbable de un vicepresidente
 
@@ -44,37 +68,11 @@ A José Manuel García-Margallo (Madrid, 1944) le duele España. Y le preocupa. 
 
 Date: 2026-07-19
 
-### ¿Cuánto tiempo hace falta que una obra se convierta en un clásico?
-
-Crítica de danza Ballet Nacional de España Programa 'Flamenco-Rock-Andaluz' (Rafaela Carrasco / Jesús de la Rosa, Ángeles Toledano, Harto Rodríguez) y 'Medea' (José Granero, Manolo Sanlúcar, Miguel Narros) Iluminación Gloria Montesinos, Freddy Gerlache, Felipe Ramos Escenografía Andrea d'Odorico Vestuario Belén Quintan.
-
-Date: 2026-07-19
-
-### El eclipse del 12 de agosto llenará la España vacía: «No tenemos manera de gestionar esta avalancha de gente»
-
-En Bujalaro, pueblo dentro de lo que llaman ' la España vacía' , no llegan a la treintena de vecinos durante buena parte del año. Ahora, en julio, los parroquianos empiezan a multiplicarse con el éxodo al pueblo por vacaciones. En el Bar Moreno, una antigua peña atlética con trofeos de caza y antiguas imágenes de futbo.
-
-Date: 2026-07-19
-
-### Begoña Gómez, la última línea roja
-
-A Pedro Sánchez le quedan pocas líneas rojas que transgredir en política. Presentó una moción de censura contra el Partido Popular con solo 85 diputados, el peor resultado electoral que haya tenido el PSOE en democracia. Hasta ese momento, en España gobernaba el que ganaba en las urnas. Además, pactó, entre otros, con.
-
-Date: 2026-07-19
-
-### En el búnker del fiscal que lleva 37 años escoltado por su lucha contra la mayor mafia del mundo: "España es de gran interés para nuestros capos"
-
-Nicola Gratteri, nacido en la cuna de la mafia 'Ndrangheta, vive en una cápsula de seguridad. En abril de 1989, meses antes de casarse, la vivienda de su prometida fue tiroteada. Luego, la llamaron para decirle: "Tu novio es un hombre muerto". Hoy, el fiscal antimafia de Nápoles sueña con darse un baño en el mar o pase.
-
-Date: 2026-07-18
-
 ## Fuentes
 
-- [Alineación posible de España en la final del Mundial ante Argentina](https://www.20minutos.es/deportes/futbol/alineacion-posible-espana-final-mundial-ante-argentina_7015884_0.html?utm_source=lootura.com) — 2026-07-19T06:19:51.000Z
-- [Carlos Cuerpo, el vuelo imperturbable de un vicepresidente](https://elpais.com/economia/2026-07-19/carlos-cuerpo-el-vuelo-imperturbable-de-un-vicepresidente.html?utm_source=lootura.com) — 2026-07-19T03:45:01.000Z
+- [«Tiene más nervios la gente de fuera que nosotros»](https://www.abc.es/deportes/futbol/mundial/fabian-nervios-gente-20260717000750-nt.html?utm_source=lootura.com) — 2026-07-19T12:19:02.000Z
+- [De Sudáfrica a Nueva York: el hilo rojo de la eternidad](https://www.abc.es/deportes/futbol/mundial/sudafrica-2010-nueva-york-2026-hilo-rojo-20260719000737-nt.html?utm_source=lootura.com) — 2026-07-19T12:21:52.000Z
 - [El último paso para alcanzar la segunda estrella](https://www.elcorreo.com/deportes/futbol/mundial/ultimo-paso-alcanzar-segunda-estrella-20260718002157-ntrc_amp.html?utm_source=lootura.com) — 2026-07-18T22:21:57.000Z
-- [En el búnker del fiscal que lleva 37 años escoltado por su lucha contra la mayor mafia del mundo: "España es de gran interés para nuestros capos"](https://www.elmundo.es/cronica/2026/07/18/6a5a6278e4d4d8ef548b4586.html?utm_source=lootura.com) — 2026-07-18T20:54:26.000Z
-- [La España de la generación sin miedo: "Saben competir, saben ganar y eso da cada vez más confianza"](https://www.elmundo.es/deportes/futbol/mundial-de-futbol/2026/07/19/6a5bc91de9cf4a27698b45b9.html?utm_source=lootura.com) — 2026-07-18T23:01:51.000Z
-- [La confianza empresarial en Andalucía mejora un 4% en el tercer trimestre del año y supera la media nacional](https://www.larazon.es/andalucia/confianza-empresarial-andalucia-mejora-4-tercer-trimestre-ano-supera-media-nacional_202607196a5c9903e9f2e84b5c7162ba.html?utm_source=lootura.com) — 2026-07-19T09:29:39.000Z
-- [Incendios en España, en directo hoy: última hora de los fuegos activos, evolución y situación en Aragón, Castilla-La Mancha, Madrid y Andalucía](https://www.larazon.es/sociedad/incendios-espana-directo-hoy-ultima-hora-fuegos-activos-evolucion-situacion-aragon-castillala-mancha-madrid-andalucia-b50m_202607196a5bbe1b0500ab412c9d4ee3.html?outputType=amp&utm_source=lootura.com) — 2026-07-19T09:49:18.000Z
-- [Mbappé pone el listón imposible a Messi por la Bota de Oro: deberá marcar un hat-trick contra España](https://okdiario.com/mundial/mbappe-pone-liston-imposible-messi-bota-oro-debera-marcar-hat-trick-contra-espana-19025341?utm_source=lootura.com) — 2026-07-19T09:21:08.000Z
+- [Incendios en España, en directo hoy: última hora de los fuegos activos, evolución y situación en Aragón, Castilla-La Mancha, Madrid y Andalucía](https://www.larazon.es/sociedad/incendios-espana-directo-hoy-ultima-hora-fuegos-activos-evolucion-situacion-aragon-castillala-mancha-madrid-andalucia-b50m_202607196a5bbe1b0500ab412c9d4ee3.html?utm_source=lootura.com) — 2026-07-19T12:44:05.000Z
+- [Una argentina revela el hábito de los españoles que más le sorprendió al mudarse: "No son de invitarte a casa"](https://www.larazon.es/actualidad/argentina-revela-habito-espanoles-que-mas-sorprendio-mudarse-son-invitarte-casa-b50m_202607196a5cc43fe9f2e84b5c719ef8.html?utm_source=lootura.com) — 2026-07-19T12:34:07.000Z
+- [Los bomberos coinciden e insisten a la población: «Por la noche lo recomendable es no cerrar la puerta con la llave puesta»](https://okdiario.com/curiosidades/bomberos-coinciden-insisten-poblacion-noche-lo-recomendable-no-cerrar-puerta-llave-puesta-19018749?utm_source=lootura.com) — 2026-07-19T12:00:22.000Z

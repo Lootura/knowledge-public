@@ -8,9 +8,14 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/fifa/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/fifa/index.json",
   "description": "Sigue la actividad de FIFA en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-19T09:49:47.811Z",
+  "updatedAt": "2026-07-19T13:12:39.474Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "El fútbol argentino, entre la ilusión de un nuevo título, el uso político y los manejos opacos de su dirigencia",
+      "summary": "Claudio Chiqui Tapia, el presidente de la Asociación de Fútbol Argentino (AFA), observó el partido de su selección contra Inglaterra desde el palco VIP, sentado a la derecha del mandamás de la FIFA, Gianni Infantino. De traje azul, corbata y zapatos de cuero lustrados, celebró con lágrimas de emoción los dos goles que.",
+      "date": "2026-07-19"
+    },
     {
       "title": "La posible sanción de FIFA a Argentina por una pancarta: \"Las Malvinas son argentinas\"",
       "summary": "El gobierno británico pide a la FIFA que abra una investigación: \"Uno de los principios fundamentales de la Copa del Mundo es que la política esté separada del fútbol\" Leer.",
@@ -29,11 +34,11 @@
   ],
   "sources": [
     {
-      "title": "Los españoles en Argentina, con el corazón dividido para la final del Mundial: \"Es muy difícil decir si prefiero que gane uno u otro\"",
-      "url": "https://www.20minutos.es/internacional/los-espanoles-argentina-con-corazon-dividido-para-final-mundial-es-muy-dificil-decir-si-prefiero-que-gane-uno-otro_7016300_0.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-19T07:20:58.000Z",
-      "sourceId": "lootura-es-20minutos"
+      "title": "El fútbol argentino, entre la ilusión de un nuevo título, el uso político y los manejos opacos de su dirigencia",
+      "url": "https://elpais.com/argentina/2026-07-19/el-futbol-argentino-entre-la-ilusion-de-un-nuevo-titulo-el-uso-politico-y-los-manejos-opacos-de-su-dirigencia.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-19T03:30:01.000Z",
+      "sourceId": "lootura-es-el-pais"
     }
   ],
-  "evidenceCount": 0
+  "evidenceCount": 1
 }

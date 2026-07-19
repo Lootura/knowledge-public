@@ -1,0 +1,45 @@
+{
+  "id": "es-ciudad-real",
+  "name": "Ciudad Real",
+  "type": "place",
+  "locale": "es",
+  "canonicalPath": "/es/place/ciudad-real",
+  "canonicalUrl": "https://atlas.lootura.com/es/place/ciudad-real",
+  "markdownUrl": "https://atlas.lootura.com/es/place/ciudad-real/index.md",
+  "jsonUrl": "https://atlas.lootura.com/es/place/ciudad-real/index.json",
+  "description": "Sigue la actividad de Ciudad Real en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
+  "updatedAt": "2026-07-19T13:12:39.474Z",
+  "aliases": [],
+  "changes": [
+    {
+      "title": "Siete detenidos y 14 investigados por extorsionar a usuarios de páginas de contactos en Ciudad Real",
+      "summary": "La Guardia Civil de Ciudad Real ha arrestado a siete personas e imputado a otras 14 por su presunta pertenencia a un grupo criminal dedicado a extorsionar a usuarios de portales de contactos en la provincia. Según la investigación, los sospechosos amenazaban con difundir datos personales o con enviar sicarios a los dom.",
+      "date": "2026-07-19"
+    },
+    {
+      "title": "Desmantelada una red de ‘sextorsión’ con siete detenidos y 14 investigados en Ciudad Real",
+      "summary": "La Guardia Civil ha detenido a siete personas y ha investigado a otras catorce como presuntas autoras de un delito de extorsión . Los detenidos forman parte de un grupo criminal que establecía contacto con sus víctimas a través de páginas web de contactos, obtenía datos personales y amenazaba con difundirlos si no reci.",
+      "date": "2026-07-19"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Ciudad Real first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-07-19"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Siete detenidos y 14 investigados por extorsionar a usuarios de páginas de contactos en Ciudad Real",
+      "url": "https://www.elconfidencial.com/espana/2026-07-19/sextorsion-extorsion-guardia-civil-1tps_4392400/?utm_source=lootura.com",
+      "publishedAt": "2026-07-19T11:35:00.000Z",
+      "sourceId": "lootura-es-el-confidencial"
+    },
+    {
+      "title": "Desmantelada una red de ‘sextorsión’ con siete detenidos y 14 investigados en Ciudad Real",
+      "url": "https://theobjective.com/sociedad/suceso/2026-07-19/desmantelada-red-sextorsion-ciudad-real/?utm_source=lootura.com",
+      "publishedAt": "2026-07-19T11:00:26.000Z",
+      "sourceId": "lootura-es-the-objective"
+    }
+  ],
+  "evidenceCount": 2
+}

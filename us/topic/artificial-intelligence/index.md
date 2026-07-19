@@ -3,7 +3,7 @@
 > Follow Artificial intelligence, a tracked topic, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: topic
-- Updated: 2026-07-19T09:50:13.921Z
+- Updated: 2026-07-19T13:12:59.144Z
 - Canonical: https://atlas.lootura.com/us/topic/artificial-intelligence
 
 ## Recent changes
@@ -70,6 +70,5 @@ Date: 2026-07-17
 
 ## Sources
 
-- [AI is set to completely transform cybersecurity — here’s how researchers must prepare](https://www.nature.com/articles/d41586-026-02214-z?utm_source=lootura.com) — 2026-07-19T09:50:17.527Z
-- [A global capital for AI safety is emerging — and it’s not in Silicon Valley](https://www.nature.com/articles/d41586-026-01389-9?utm_source=lootura.com) — 2026-07-19T09:50:17.527Z
-- [Archaeologists Unearth Pre-Aztec Altar in Mexico That Hints at Human Sacrifice](https://www.sciencealert.com/archaeologists-unearth-ancient-pre-aztec-altar-and-human-skulls?utm_source=lootura.com) — 2026-07-19T08:00:00.000Z
+- [AI is set to completely transform cybersecurity — here’s how researchers must prepare](https://www.nature.com/articles/d41586-026-02214-z?utm_source=lootura.com) — 2026-07-19T13:13:02.689Z
+- [A global capital for AI safety is emerging — and it’s not in Silicon Valley](https://www.nature.com/articles/d41586-026-01389-9?utm_source=lootura.com) — 2026-07-19T13:13:02.689Z

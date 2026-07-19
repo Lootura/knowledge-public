@@ -8,11 +8,16 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/emiliano-garcia-page/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/emiliano-garcia-page/index.json",
   "description": "Sigue la actividad de Emiliano García-Page en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-19T09:49:47.811Z",
+  "updatedAt": "2026-07-19T13:12:39.474Z",
   "aliases": [
     "García-Page"
   ],
   "changes": [
+    {
+      "title": "Incendios en España, en directo hoy: última hora de los fuegos activos, evolución y situación en Aragón, Castilla-La Mancha, Madrid y Andalucía",
+      "summary": "El presidente de la Junta de Comunidades de Castilla-La Mancha, Emiliano García-Page , señaló este sábado que la culpa de los incendios \"no la tiene nadie por su profesión, condición política o raza\" sino que la tiene \"aquel que incumple las leyes\" y subrayó que \"llegará el momento de esclarecer las causas\" , como así.",
+      "date": "2026-07-19"
+    },
     {
       "title": "Discovered by Atlas",
       "summary": "Emiliano García-Page first entered the public knowledge record with source-backed evidence.",
@@ -26,10 +31,10 @@
   ],
   "sources": [
     {
-      "title": "Emiliano García-Page: \"El modelo de financiación autonómica es un atentado grave contra la igualdad\"",
-      "url": "https://www.elmundo.es/espana/2026/07/18/6a5b74dbfc6c8317188b4585.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-18T20:57:47.000Z",
-      "sourceId": "lootura-es-el-mundo"
+      "title": "Incendios en España, en directo hoy: última hora de los fuegos activos, evolución y situación en Aragón, Castilla-La Mancha, Madrid y Andalucía",
+      "url": "https://www.larazon.es/sociedad/incendios-espana-directo-hoy-ultima-hora-fuegos-activos-evolucion-situacion-aragon-castillala-mancha-madrid-andalucia-b50m_202607196a5bbe1b0500ab412c9d4ee3.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-19T12:44:05.000Z",
+      "sourceId": "lootura-es-la-razon"
     }
   ],
   "evidenceCount": 1

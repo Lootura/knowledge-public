@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/topic/artificial-intelligence/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/topic/artificial-intelligence/index.json",
   "description": "Sigue la actividad de Artificial intelligence en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-19T09:49:47.811Z",
+  "updatedAt": "2026-07-19T13:12:39.474Z",
   "aliases": [
     "AI",
     "machine learning"
@@ -42,10 +42,10 @@
   ],
   "sources": [
     {
-      "title": "«Alá nos ayuda, la IA también lo hará»: el yihadismo ya usa inteligencia artificial para todo",
-      "url": "https://www.abc.es/tecnologia/terroristas-yihadistas-usan-ia-atentar-dios-ayudado-20260716010751-nt.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-19T09:32:37.000Z",
-      "sourceId": "lootura-es-abc"
+      "title": "La reconstrucción de un gol «perdido» de Pelé de 1959 mediante inteligencia artificial",
+      "url": "http://www.microsiervos.com/archivo/ia/reconstruccion-gol-perdido-pele-ia.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-19T11:27:26.000Z",
+      "sourceId": "lootura-es-microsiervos"
     }
   ],
   "evidenceCount": 0

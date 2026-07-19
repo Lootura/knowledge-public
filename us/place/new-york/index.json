@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/new-york/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/new-york/index.json",
   "description": "Follow New York, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-19T09:50:13.921Z",
+  "updatedAt": "2026-07-19T13:12:59.144Z",
   "aliases": [
     "New York City"
   ],
@@ -16,6 +16,21 @@
     {
       "title": "Healthcare costs associated with aging out of reach for many Americans",
       "summary": "One New York couple depleted their retirement and savings accounts, paying out-of-pocket for healthcare, before they were able to access Medicaid funds.",
+      "date": "2026-07-19"
+    },
+    {
+      "title": "Controversial program paying drug users for used syringes becomes permanent in NYC",
+      "summary": "New York City is permanently bankrolling a program that pays people up to $10 a day for used syringes, a controversial effort critics argue puts taxpayer dollars into addicts' pockets rather than getting them treatment. The program, known as the Community Syringe Redemption Program, was quietly made permanent through M.",
+      "date": "2026-07-19"
+    },
+    {
+      "title": "Knicks stars provide back up for WWE favorites in electric Saturday Night's Main Event at MSG",
+      "summary": "WWE’s Saturday Night’s Main Event at Madison Square Garden featured a celebration of the New York Knicks and their championship run during the 2025-26 season. Knicks star Karl-Anthony Towns supported Danhausen in his no disqualification match against JD McDonagh. Towns provided some fierce backup for Danhausen and got.",
+      "date": "2026-07-19"
+    },
+    {
+      "title": "Black and Latino Leaders Ask: What Do Socialist Wins Mean for New York?",
+      "summary": "Longtime leaders and advocates in minority districts fear that victories by the Democratic Socialists of America in gentrifying neighborhoods could mean political erasure.",
       "date": "2026-07-19"
     },
     {
@@ -47,21 +62,6 @@
       "title": "Trump Threatens Canada With Tariffs for Wildfire Smoke Over U.S.",
       "summary": "The president said on Friday in a social media post that Canada was failing to manage its wildfire response as smoke has blanketed U.S. cities including New York and Chicago.",
       "date": "2026-07-18"
-    },
-    {
-      "title": "Climate's Compounding Financial Toll Is Becoming Harder to Ignore",
-      "summary": "Smoke from massive wildfires in Canada engulfed the New York City skyline, reducing visibility and casting an orange haze over the New York City. —Selcuk Acar/Anadolu—Getty Images It’s felt all but impossible to escape the reality of our changing climate this past month, from extreme heat at London Climate Action Week.",
-      "date": "2026-07-18"
-    },
-    {
-      "title": "Trump Threatens Canada With Tariffs for Wildfire Smoke Over U.S.",
-      "summary": "The president said on Friday in a social media post that Canada was failing to manage its wildfire response as smoke has blanketed U.S. cities including New York and Chicago.",
-      "date": "2026-07-17"
-    },
-    {
-      "title": "Canadian wildfire smoke linked to fewer bird sightings in New York State",
-      "summary": "Despite burning hundreds of miles away, Canadian wildfires have become a familiar source of disruption in New York state.",
-      "date": "2026-07-17"
     }
   ],
   "sources": [
@@ -72,22 +72,22 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "Michelin-starred Chinese restaurant Yingtao modernizes family recipes",
-      "url": "https://www.cbsnews.com/video/michelin-starred-chinese-restaurant-yingtao-modernizes-family-recipes/?utm_source=lootura.com",
-      "publishedAt": "2026-07-18T18:02:23.000Z",
-      "sourceId": "lootura-us-cbs-news"
+      "title": "Controversial program paying drug users for used syringes becomes permanent in NYC",
+      "url": "https://www.foxnews.com/politics/controversial-program-paying-drug-users-used-syringes-becomes-permanent-nyc?utm_source=lootura.com",
+      "publishedAt": "2026-07-19T12:11:51.000Z",
+      "sourceId": "lootura-us-fox-news"
     },
     {
-      "title": "First death reported in Legionnaires' disease outbreak in New York City",
-      "url": "https://www.pbs.org/newshour/health/first-death-reported-in-legionnaires-disease-outbreak-in-new-york-city?utm_source=lootura.com",
-      "publishedAt": "2026-07-18T16:00:05.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
+      "title": "Knicks stars provide back up for WWE favorites in electric Saturday Night's Main Event at MSG",
+      "url": "https://www.foxnews.com/sports/knicks-stars-backup-wwe-favorites-electric-saturday-nights-main-event-msg?utm_source=lootura.com",
+      "publishedAt": "2026-07-19T13:06:57.000Z",
+      "sourceId": "lootura-us-fox-news"
     },
     {
-      "title": "Zohran Mamdani Knows He Has Political Capital. And He Intends to Spend It.",
-      "url": "https://www.nytimes.com/2026/07/18/magazine/zohran-mamdani-interview.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-18T13:24:37.000Z",
-      "sourceId": "lootura-us-the-new-york-times-politics"
+      "title": "Black and Latino Leaders Ask: What Do Socialist Wins Mean for New York?",
+      "url": "https://www.nytimes.com/2026/07/19/nyregion/black-latino-leaders-dsa-nyc.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-19T07:00:08.000Z",
+      "sourceId": "lootura-us-the-new-york-times"
     }
   ],
   "evidenceCount": 4

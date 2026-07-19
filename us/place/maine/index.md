@@ -3,7 +3,7 @@
 > Follow Maine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-19T09:50:13.921Z
+- Updated: 2026-07-19T13:12:59.144Z
 - Canonical: https://atlas.lootura.com/us/place/maine
 
 ## Recent changes
@@ -11,6 +11,12 @@
 ### In Maine, Troy Jackson Gains Momentum in Bid to Replace Platner
 
 Troy Jackson, a progressive former State Senate president, showed signs of significant strength, as half the state’s counties picked delegates to a convention where they will choose Graham Platner’s replacement.
+
+Date: 2026-07-19
+
+### Platner-ally Troy Jackson closing in on Democratic Senate nod in key race to face Collins
+
+Former Maine Senate President Troy Jackson appears to be sprinting far ahead of his rivals in the abbreviated race to replace now ex-candidate Graham Platner as the Democratic Senate nominee in the high-stakes showdown to face off with longtime Republican Sen. Susan Collins. Delegates aligned with Jackson won the vast.
 
 Date: 2026-07-19
 
@@ -62,13 +68,7 @@ Maine Democratic Senate candidates Nirav Shah, Shenna Bellows, Jordan Wood and T
 
 Date: 2026-07-17
 
-### The use of force has become a 'default tool' for ICE officers, a new report finds
-
-An ACLU report looks at the widespread use of force in immigration enforcement in the first year of President Trump's return to office. Recent fatal shootings in Texas and Maine have brought renewed scrutiny to the agency's tactics. (Image credit: Scott Olson).
-
-Date: 2026-07-16
-
 ## Sources
 
-- [ICE officer in Maine shooting has history of violent behavior, relatives say](https://www.cbsnews.com/news/ice-shooting-maine-officer-history-violent-behavior/?utm_source=lootura.com) — 2026-07-18T17:48:22.000Z
+- [Platner-ally Troy Jackson closing in on Democratic Senate nod in key race to face Collins](https://www.foxnews.com/politics/platner-ally-troy-jackson-closing-democratic-senate-nod-key-race-face-collins?utm_source=lootura.com) — 2026-07-19T12:33:12.000Z
 - [In Maine, Troy Jackson Gains Momentum in Bid to Replace Platner](https://www.nytimes.com/2026/07/19/us/politics/maine-democrats-senate-jackson.html?utm_source=lootura.com) — 2026-07-19T04:10:57.000Z

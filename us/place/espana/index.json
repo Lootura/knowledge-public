@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/espana/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/espana/index.json",
   "description": "Follow Spain, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-19T09:50:13.921Z",
+  "updatedAt": "2026-07-19T13:12:59.144Z",
   "aliases": [
     "Estado español",
     "Spain"
@@ -67,9 +67,9 @@
   ],
   "sources": [
     {
-      "title": "Spain vs. Argentina: What to know about the World Cup final teams, players and records",
-      "url": "https://www.cbsnews.com/news/spain-argentina-world-cup-final-records-players/?utm_source=lootura.com",
-      "publishedAt": "2026-07-19T09:15:17.000Z",
+      "title": "Thunderstorms expected to clear Canadian wildfire smoke before World Cup final",
+      "url": "https://www.cbsnews.com/news/severe-weather-wildfire-smoke-northeast/?utm_source=lootura.com",
+      "publishedAt": "2026-07-19T11:27:16.000Z",
       "sourceId": "lootura-us-cbs-news"
     }
   ],

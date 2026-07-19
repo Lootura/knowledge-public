@@ -3,10 +3,16 @@
 > Sigue la actividad de FIFA en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-19T09:49:47.811Z
+- Actualizado: 2026-07-19T13:12:39.474Z
 - Canonical: https://atlas.lootura.com/es/organization/fifa
 
 ## Cambios recientes
+
+### El fútbol argentino, entre la ilusión de un nuevo título, el uso político y los manejos opacos de su dirigencia
+
+Claudio Chiqui Tapia, el presidente de la Asociación de Fútbol Argentino (AFA), observó el partido de su selección contra Inglaterra desde el palco VIP, sentado a la derecha del mandamás de la FIFA, Gianni Infantino. De traje azul, corbata y zapatos de cuero lustrados, celebró con lágrimas de emoción los dos goles que.
+
+Date: 2026-07-19
 
 ### La posible sanción de FIFA a Argentina por una pancarta: "Las Malvinas son argentinas"
 
@@ -28,4 +34,4 @@ Date: 2026-07-08
 
 ## Fuentes
 
-- [Los españoles en Argentina, con el corazón dividido para la final del Mundial: "Es muy difícil decir si prefiero que gane uno u otro"](https://www.20minutos.es/internacional/los-espanoles-argentina-con-corazon-dividido-para-final-mundial-es-muy-dificil-decir-si-prefiero-que-gane-uno-otro_7016300_0.html?utm_source=lootura.com) — 2026-07-19T07:20:58.000Z
+- [El fútbol argentino, entre la ilusión de un nuevo título, el uso político y los manejos opacos de su dirigencia](https://elpais.com/argentina/2026-07-19/el-futbol-argentino-entre-la-ilusion-de-un-nuevo-titulo-el-uso-politico-y-los-manejos-opacos-de-su-dirigencia.html?utm_source=lootura.com) — 2026-07-19T03:30:01.000Z

@@ -1,0 +1,40 @@
+{
+  "id": "es-la-rioja",
+  "name": "La Rioja",
+  "type": "person",
+  "locale": "es",
+  "canonicalPath": "/es/person/la-rioja",
+  "canonicalUrl": "https://atlas.lootura.com/es/person/la-rioja",
+  "markdownUrl": "https://atlas.lootura.com/es/person/la-rioja/index.md",
+  "jsonUrl": "https://atlas.lootura.com/es/person/la-rioja/index.json",
+  "description": "Sigue la actividad de La Rioja en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
+  "updatedAt": "2026-07-19T13:12:39.474Z",
+  "aliases": [],
+  "changes": [
+    {
+      "title": "El aumento del calor activa avisos en diez comunidades autónomas: hasta 40 grados y tormentas",
+      "summary": "Las temperaturas afectan a Aragón, Illes Balears, Catalunya, Comunidad de Madrid, La Rioja, Navarra, Región de Murcia, Comunitat Valenciana y Castilla-La Mancha Aemet lanza un aviso especial por la tercera ola de calor del verano El mapa de avisos de la Agencia Estatal de Meteorología (Aemet) marca este domingo en nara.",
+      "date": "2026-07-19"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "La Rioja first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-07-19"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Luis de la Fuente: “No vendo humo, el jugador se motiva con mi comportamiento”",
+      "url": "https://elpais.com/deportes/mundial-futbol/2026-07-19/luis-de-la-fuente-no-vendo-humo-el-jugador-se-motiva-con-mi-comportamiento.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-19T03:30:01.000Z",
+      "sourceId": "lootura-es-el-pais"
+    },
+    {
+      "title": "El aumento del calor activa avisos en diez comunidades autónomas: hasta 40 grados y tormentas",
+      "url": "https://www.eldiario.es/sociedad/aumento-calor-activa-avisos-diez-comunidades-autonomas-40-grados-tormentas_1_13391422.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-19T10:20:18.000Z",
+      "sourceId": "lootura-es-eldiario-es"
+    }
+  ],
+  "evidenceCount": 2
+}

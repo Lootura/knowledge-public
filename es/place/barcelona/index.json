@@ -8,9 +8,19 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/barcelona/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/barcelona/index.json",
   "description": "Sigue la actividad de Barcelona en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-19T09:49:47.811Z",
+  "updatedAt": "2026-07-19T13:12:39.474Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "Corrompidos por el narco en Cataluña",
+      "summary": "¿Qué lleva a un inspector de la Policía Nacional a liderar una red de tráfico de cocaína en el puerto de Barcelona? Los motivos sólo los sabe él, pero la consecuencia ha sido una condena de 15 años de cárcel .La denuncia de un arrepentido, tras una descarga, llevó a los Mossos d'Esquadra hasta el entramado que lideraba.",
+      "date": "2026-07-19"
+    },
+    {
+      "title": "Esta docuserie española en Disney+ cuenta un caso que te dejará impactado y la puedes ver en una tarde",
+      "summary": "Abandonados , la docuserie española de 4 capítulos que causa sensación en Disney+, narra un suceso desconcertante . Se trata del impactante misterio real de tres hermanos abandonados en una estación de tren en Barcelona en 1984. La producción, en colaboración con Luminol Media y bajo la mirada del periodista Carles Por.",
+      "date": "2026-07-19"
+    },
     {
       "title": "Los Mossos detienen a una pareja reincidente por el robo de joyas valoradas en 8.000 euros",
       "summary": "Los Mossos d’Esquadra detuvieron el pasado martes a un hombre de 36 años y a una mujer de 25 como presuntos autores de un robo con fuerza en una joyería del distrito de Gràcia de Barcelona, donde sustrajeron joyas valoradas en 8.530 euros, según han informado este sábado en un comunicado. Los hechos ocurrieron el pasad.",
@@ -50,25 +60,21 @@
       "title": "Menos madera, más paisaje: la revolución de la barrica de vino",
       "summary": "En una mesa de cuatro comensales en cualquier rincón de Madrid, Barcelona, Sevilla, Valencia o Logroño, una botella de tinto bien escogido puede desaparecer en cuestión de diez o doce minutos. No es por una sed desenfrenada ni por falta de modales; es el síntoma de un cambio de paradigma en el consumo de vino en España.",
       "date": "2026-07-17"
-    },
-    {
-      "title": "La impresionante casa de Ferran Torres en Gavá Mar: un refugio de lujo con piscina privada, gimnasio y máxima privacidad",
-      "summary": "Así es la espectacular casa de Ferran Torres a las afueras de Barcelona: un chalet de lujo con piscina, gimnasio, sauna y un enorme jardín.",
-      "date": "2026-07-16"
-    },
-    {
-      "title": "Maribel Martínez de Murguía: «La felicidad solo se consigue jugando para ganar»",
-      "summary": "«Estamos dormidos, anestesiados, y nos estamos perdiendo muchas oportunidades». Maribel Martínez de Murguía , campeona olímpica en Barcelona'92 con el equipo nacional de hockey hierba y actualmente entrenadora de talento en empresas y organizaciones, lo tiene claro y pone el ejemplo de la gente que al final de sus días.",
-      "date": "2026-07-15"
     }
   ],
   "sources": [
     {
-      "title": "Una final para abrazarse y una excepción: las pantallas gigantes que unirán a España",
-      "url": "https://www.elmundo.es/deportes/futbol/mundial-de-futbol/2026/07/19/6a5a509321efa059768b458e.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-18T23:00:23.000Z",
-      "sourceId": "lootura-es-el-mundo"
+      "title": "Corrompidos por el narco en Cataluña",
+      "url": "https://www.abc.es/espana/cataluna/corrompidos-narco-20260719010805-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-19T12:36:08.000Z",
+      "sourceId": "lootura-es-abc"
+    },
+    {
+      "title": "Esta docuserie española en Disney+ cuenta un caso que te dejará impactado y la puedes ver en una tarde",
+      "url": "https://hipertextual.com/cine-television/esta-docuserie-espanola-en-disney-cuenta-un-caso-que-te-dejara-impactado-y-la-puedes-ver-en-una-tarde/?utm_source=lootura.com",
+      "publishedAt": "2026-07-19T13:00:00.000Z",
+      "sourceId": "lootura-es-hipertextual"
     }
   ],
-  "evidenceCount": 0
+  "evidenceCount": 2
 }

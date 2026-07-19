@@ -3,7 +3,7 @@
 > Follow New York, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-19T09:50:13.921Z
+- Updated: 2026-07-19T13:12:59.144Z
 - Canonical: https://atlas.lootura.com/us/place/new-york
 
 ## Recent changes
@@ -11,6 +11,24 @@
 ### Healthcare costs associated with aging out of reach for many Americans
 
 One New York couple depleted their retirement and savings accounts, paying out-of-pocket for healthcare, before they were able to access Medicaid funds.
+
+Date: 2026-07-19
+
+### Controversial program paying drug users for used syringes becomes permanent in NYC
+
+New York City is permanently bankrolling a program that pays people up to $10 a day for used syringes, a controversial effort critics argue puts taxpayer dollars into addicts' pockets rather than getting them treatment. The program, known as the Community Syringe Redemption Program, was quietly made permanent through M.
+
+Date: 2026-07-19
+
+### Knicks stars provide back up for WWE favorites in electric Saturday Night's Main Event at MSG
+
+WWE’s Saturday Night’s Main Event at Madison Square Garden featured a celebration of the New York Knicks and their championship run during the 2025-26 season. Knicks star Karl-Anthony Towns supported Danhausen in his no disqualification match against JD McDonagh. Towns provided some fierce backup for Danhausen and got.
+
+Date: 2026-07-19
+
+### Black and Latino Leaders Ask: What Do Socialist Wins Mean for New York?
+
+Longtime leaders and advocates in minority districts fear that victories by the Democratic Socialists of America in gentrifying neighborhoods could mean political erasure.
 
 Date: 2026-07-19
 
@@ -50,27 +68,9 @@ The president said on Friday in a social media post that Canada was failing to m
 
 Date: 2026-07-18
 
-### Climate's Compounding Financial Toll Is Becoming Harder to Ignore
-
-Smoke from massive wildfires in Canada engulfed the New York City skyline, reducing visibility and casting an orange haze over the New York City. —Selcuk Acar/Anadolu—Getty Images It’s felt all but impossible to escape the reality of our changing climate this past month, from extreme heat at London Climate Action Week.
-
-Date: 2026-07-18
-
-### Trump Threatens Canada With Tariffs for Wildfire Smoke Over U.S.
-
-The president said on Friday in a social media post that Canada was failing to manage its wildfire response as smoke has blanketed U.S. cities including New York and Chicago.
-
-Date: 2026-07-17
-
-### Canadian wildfire smoke linked to fewer bird sightings in New York State
-
-Despite burning hundreds of miles away, Canadian wildfires have become a familiar source of disruption in New York state.
-
-Date: 2026-07-17
-
 ## Sources
 
 - [Healthcare costs associated with aging out of reach for many Americans](https://www.cbsnews.com/news/healthcare-costs-associated-with-aging-out-of-reach-for-many-americans/?utm_source=lootura.com) — 2026-07-19T01:59:16.000Z
-- [Michelin-starred Chinese restaurant Yingtao modernizes family recipes](https://www.cbsnews.com/video/michelin-starred-chinese-restaurant-yingtao-modernizes-family-recipes/?utm_source=lootura.com) — 2026-07-18T18:02:23.000Z
-- [First death reported in Legionnaires' disease outbreak in New York City](https://www.pbs.org/newshour/health/first-death-reported-in-legionnaires-disease-outbreak-in-new-york-city?utm_source=lootura.com) — 2026-07-18T16:00:05.000Z
-- [Zohran Mamdani Knows He Has Political Capital. And He Intends to Spend It.](https://www.nytimes.com/2026/07/18/magazine/zohran-mamdani-interview.html?utm_source=lootura.com) — 2026-07-18T13:24:37.000Z
+- [Controversial program paying drug users for used syringes becomes permanent in NYC](https://www.foxnews.com/politics/controversial-program-paying-drug-users-used-syringes-becomes-permanent-nyc?utm_source=lootura.com) — 2026-07-19T12:11:51.000Z
+- [Knicks stars provide back up for WWE favorites in electric Saturday Night's Main Event at MSG](https://www.foxnews.com/sports/knicks-stars-backup-wwe-favorites-electric-saturday-nights-main-event-msg?utm_source=lootura.com) — 2026-07-19T13:06:57.000Z
+- [Black and Latino Leaders Ask: What Do Socialist Wins Mean for New York?](https://www.nytimes.com/2026/07/19/nyregion/black-latino-leaders-dsa-nyc.html?utm_source=lootura.com) — 2026-07-19T07:00:08.000Z

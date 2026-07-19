@@ -8,17 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/iran/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/iran/index.json",
   "description": "Sigue la actividad de Iran en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-19T09:49:47.811Z",
+  "updatedAt": "2026-07-19T13:12:39.474Z",
   "aliases": [],
   "changes": [
     {
-      "title": "Las telecos europeas baten al mercado y tocan máximos de casi dos décadas",
-      "summary": "El sector de telecomunicaciones europeo lleva un mes mostrando debilidad, pero la radiografía conjunta de la primera parte del año refleja un rally continuado, ajeno a las incertidumbres que han rodeado a los mercados con la guerra de Irán y al cambio de la política monetaria del BCE, que ha aprobado la primera subida.",
+      "title": "EEUU ataca Irán una noche más tras la muerte de dos de sus militares en una base en Jordania",
+      "summary": "Estados Unidos ha anunciado el inicio de una nueva ronda de bombardeos contra Irán por orden del presidente Donald Trump , en una operación que tiene como objetivo reducir las capacidades de Teherán para amenazar el tráfico marítimo en el estrecho de Ormuz y responder al ataque -atribuido al Cuerpo de la Guardia Revolu.",
       "date": "2026-07-19"
     },
     {
-      "title": "EEUU ataca Irán una noche más tras la muerte de dos de sus militares en una base en Jordania",
-      "summary": "Estados Unidos ha anunciado el inicio de una nueva ronda de bombardeos contra Irán por orden del presidente Donald Trump , en una operación que tiene como objetivo reducir las capacidades de Teherán para amenazar el tráfico marítimo en el estrecho de Ormuz y responder al ataque -atribuido al Cuerpo de la Guardia Revolu.",
+      "title": "Las telecos europeas baten al mercado y tocan máximos de casi dos décadas",
+      "summary": "El sector de telecomunicaciones europeo lleva un mes mostrando debilidad, pero la radiografía conjunta de la primera parte del año refleja un rally continuado, ajeno a las incertidumbres que han rodeado a los mercados con la guerra de Irán y al cambio de la política monetaria del BCE, que ha aprobado la primera subida.",
       "date": "2026-07-19"
     },
     {
@@ -64,15 +64,9 @@
   ],
   "sources": [
     {
-      "title": "Las telecos europeas baten al mercado y tocan máximos de casi dos décadas",
-      "url": "https://cincodias.elpais.com/mercados-financieros/2026-07-19/las-telecos-europeas-baten-al-mercado-y-tocan-maximos-de-casi-dos-decadas.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-19T03:30:00.000Z",
-      "sourceId": "lootura-es-cinco-dias"
-    },
-    {
-      "title": "Irán mata a dos soldados de Estados Unidos en un ataque contra una base en Jordania",
-      "url": "https://elpais.com/internacional/2026-07-18/iran-deja-en-suspenso-la-tregua-con-estados-unidos-tras-acusarle-de-matar-a-50-personas-en-tres-semanas.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-18T21:57:43.000Z",
+      "title": "España-Argentina, la verdadera Finalissima decide el Mundial",
+      "url": "https://elpais.com/deportes/mundial-futbol/2026-07-19/espana-argentina-la-verdadera-finalissima-decide-el-mundial.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-19T03:30:01.000Z",
       "sourceId": "lootura-es-el-pais"
     },
     {
@@ -82,5 +76,5 @@
       "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 1
 }

@@ -1,0 +1,61 @@
+{
+  "id": "es-la-guardia-civil",
+  "name": "La Guardia Civil",
+  "type": "place",
+  "locale": "es",
+  "canonicalPath": "/es/place/la-guardia-civil",
+  "canonicalUrl": "https://atlas.lootura.com/es/place/la-guardia-civil",
+  "markdownUrl": "https://atlas.lootura.com/es/place/la-guardia-civil/index.md",
+  "jsonUrl": "https://atlas.lootura.com/es/place/la-guardia-civil/index.json",
+  "description": "Sigue la actividad de La Guardia Civil en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
+  "updatedAt": "2026-07-19T13:12:39.474Z",
+  "aliases": [],
+  "changes": [
+    {
+      "title": "Siete detenidos y 14 investigados por extorsionar a usuarios de páginas de contactos en Ciudad Real",
+      "summary": "La Guardia Civil de Ciudad Real ha arrestado a siete personas e imputado a otras 14 por su presunta pertenencia a un grupo criminal dedicado a extorsionar a usuarios de portales de contactos en la provincia. Según la investigación, los sospechosos amenazaban con difundir datos personales o con enviar sicarios a los dom.",
+      "date": "2026-07-19"
+    },
+    {
+      "title": "Desmantelada una red de ‘sextorsión’ con siete detenidos y 14 investigados en Ciudad Real",
+      "summary": "La Guardia Civil ha detenido a siete personas y ha investigado a otras catorce como presuntas autoras de un delito de extorsión . Los detenidos forman parte de un grupo criminal que establecía contacto con sus víctimas a través de páginas web de contactos, obtenía datos personales y amenazaba con difundirlos si no reci.",
+      "date": "2026-07-19"
+    },
+    {
+      "title": "Víctimas de Bilbao, entre los afectados por una estafa de falsos alquileres",
+      "summary": "La Guardia Civil ha detenido a un hombre y a una mujer en Almería y Murcia implicados en el fraude de más de 20.000 euros a nivel nacional.",
+      "date": "2026-07-18"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "La Guardia Civil first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-07-18"
+    },
+    {
+      "title": "Detenidos dos albaneses de una banda criminal de ocho tras cometer 22 robos en viviendas de lujo en Mallorca",
+      "summary": "La Guardia Civil ha detenido y puesto a disposición judicial a dos albaneses miembros de un grupo de ocho personas que fueron detenidos porque, supuestamente, habrían cometido 22 robos en viviendas de lujo de Mallorca y se llevaron objetos valorados en unos dos millones de euros. La actuación policial se ha desarrollad.",
+      "date": "2026-07-18"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Siete detenidos y 14 investigados por extorsionar a usuarios de páginas de contactos en Ciudad Real",
+      "url": "https://www.elconfidencial.com/espana/2026-07-19/sextorsion-extorsion-guardia-civil-1tps_4392400/?utm_source=lootura.com",
+      "publishedAt": "2026-07-19T11:35:00.000Z",
+      "sourceId": "lootura-es-el-confidencial"
+    },
+    {
+      "title": "Víctimas de Bilbao, entre los afectados por una estafa de falsos alquileres",
+      "url": "https://www.elcorreo.com/bizkaia/victimas-bilbao-afectados-estafa-falsos-alquileres-20260718182802-nt_amp.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-18T16:28:03.000Z",
+      "sourceId": "lootura-es-el-correo"
+    },
+    {
+      "title": "Desmantelada una red de ‘sextorsión’ con siete detenidos y 14 investigados en Ciudad Real",
+      "url": "https://theobjective.com/sociedad/suceso/2026-07-19/desmantelada-red-sextorsion-ciudad-real/?utm_source=lootura.com",
+      "publishedAt": "2026-07-19T11:00:26.000Z",
+      "sourceId": "lootura-es-the-objective"
+    }
+  ],
+  "evidenceCount": 3
+}

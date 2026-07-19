@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/donald-trump/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/donald-trump/index.json",
   "description": "Follow Donald Trump, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-19T09:50:13.921Z",
+  "updatedAt": "2026-07-19T13:12:59.144Z",
   "aliases": [
     "President Donald Trump",
     "President Trump",
@@ -26,43 +26,43 @@
       "date": "2026-07-19"
     },
     {
-      "title": "Week in Politics: Trump's speech; midterm elections; Todd Blanche and Jay Clayton",
-      "summary": "Three months from the November midterms, President Trump is drawing attention to issues that are not top priorities for voters.",
-      "date": "2026-07-18"
+      "title": "$600,000 for a presidential pardon? Inside the growing industry of clemency lobbying",
+      "summary": "NPR's Ayesha Rascoe talks with NOTUS reporter Jasmine Wright about the growing lobbying industry to get presidential pardons under the second Trump administration.",
+      "date": "2026-07-19"
+    },
+    {
+      "title": "Georgia official discusses Trump's claims about election security",
+      "summary": "NPR's Ayesha Rascoe talks with Gabriel Sterling, of the Georgia Secretary of State's Office, about President Trump's claims about election security.",
+      "date": "2026-07-19"
+    },
+    {
+      "title": "Trump said the election system is broken. What do swing voters make of the claim?",
+      "summary": "What did some swing state voters think of President Trump's primetime speech on elections?",
+      "date": "2026-07-19"
+    },
+    {
+      "title": "Politics chat: How much faith can you have in the country's election systems?",
+      "summary": "President Trump and Secretary of Homeland Security Markwayne Mullin make claims about the vulnerability of election systems in the U.S., but how true are those claims?",
+      "date": "2026-07-19"
+    },
+    {
+      "title": "Trump is invoking foreign election interference to justify his own | Jamil Smith",
+      "summary": "The president no longer treats the people who defeated him as voters. He treats them as suspects There is a version of this country in which Donald Trump tells Americans the truth he has been handed: that their elections are secure. Once, he apparently wanted to. The Atlantic reported after Thursday night’s address tha.",
+      "date": "2026-07-19"
+    },
+    {
+      "title": "One week, two killings: Trump’s immigration crackdown turns deadly – again",
+      "summary": "The fatal shootings of two men, both killed in their vehicles by ICE agents, have rekindled anger over the US’s militarized deportation push Lorenzo Salgado Araujo, 52, was driving to work with his brother and two other passengers in Houston, Texas , when immigration agents began tailing his car. They pulled him over a.",
+      "date": "2026-07-19"
+    },
+    {
+      "title": "Majority of US voters link extreme weather to climate crisis, study finds",
+      "summary": "Top Democrat says findings show public ‘way ahead of the politicians’ as Trump dismisses global heating as ‘hoax’ Amid a summer of dangerous heat , drought and floods , a majority of Americans are connecting increasingly severe weather to the climate crisis, new polling shows, despite efforts by Donald Trump to dismiss.",
+      "date": "2026-07-19"
     },
     {
       "title": "Air quality improving in Northeast, while wildfire smoke hangs over Midwest",
       "summary": "Wildfire smoke and unhealthy air persist and shift direction, as Trump demands explanation from Canada. (Image credit: Finn Gomez/Getty Images).",
-      "date": "2026-07-18"
-    },
-    {
-      "title": "Mike Lindell Not Registered to Vote in Minnesota, Where He is Running for Governor",
-      "summary": "President Trump endorsed Mike Lindell, a leader of the election denial movement, for Minnesota governor this week.",
-      "date": "2026-07-18"
-    },
-    {
-      "title": "Russia Bill Broadens Sanctions but Could Fuel Fears Over the Dollar",
-      "summary": "The Trump administration has recently sought to scale back sanctions as adversaries develop workarounds that some believe could erode the U.S. dollar’s supremacy.",
-      "date": "2026-07-18"
-    },
-    {
-      "title": "As Trump Scraps With Meloni, His Envoy to Italy Is at Sea",
-      "summary": "Tilman J. Fertitta, the U.S. ambassador to Rome, is summering on his superyacht as President Trump squabbles with Prime Minister Giorgia Meloni of Italy.",
-      "date": "2026-07-18"
-    },
-    {
-      "title": "Trump's Endorsement Could Set the Stage for a Historic Senate Succession",
-      "summary": "Sen. Darline Graham Nordone, Republican of South Carolina, participates in a ceremonial swearing-in at the U.S. Capitol on July 14, 2026, in Washington, D.C. —Finn Gomez—Getty Images President Donald Trump on Friday endorsed Sen. Darline Graham Nordone to run for a full term in November, in what could become a historic.",
-      "date": "2026-07-18"
-    },
-    {
-      "title": "What to know about Trump's claim that over 250K non-citizens are registered to vote",
-      "summary": "Homeland Security Secretary Markwayne Mullin sent letters to four states alleging that a combined 250,000 non-citizens were registered to vote. Elections experts caution that could be a significant overcount.",
-      "date": "2026-07-18"
-    },
-    {
-      "title": "Funding milestone detected",
-      "summary": "Defence minister seeks three ‘Nahal’ outposts in Gaza as top commander says Israel now controls 65% of the strip, violating Trump ceasefire deal Israel’s defence and finance ministers announced plans for three illegal settlements in Gaza and more than $400m (£300m) in funding to expand construction in the occupied West.",
       "date": "2026-07-18"
     }
   ],
@@ -80,29 +80,53 @@
       "sourceId": "lootura-us-npr"
     },
     {
-      "title": "Week in Politics: Trump's speech; midterm elections; Todd Blanche and Jay Clayton",
-      "url": "https://www.npr.org/2026/07/18/nx-s1-5894907/week-in-politics-trumps-speech-midterm-elections-todd-blanche-and-jay-clayton?utm_source=lootura.com",
-      "publishedAt": "2026-07-18T11:42:09.000Z",
+      "title": "$600,000 for a presidential pardon? Inside the growing industry of clemency lobbying",
+      "url": "https://www.npr.org/2026/07/19/nx-s1-5896394/600-000-for-a-presidential-pardon-inside-the-growing-industry-of-clemency-lobbying?utm_source=lootura.com",
+      "publishedAt": "2026-07-19T12:13:23.000Z",
       "sourceId": "lootura-us-npr-politics"
     },
     {
-      "title": "Mike Lindell Not Registered to Vote in Minnesota, Where He is Running for Governor",
-      "url": "https://www.nytimes.com/2026/07/18/us/mike-lindell-mypillow-minnsota-governor-election.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-18T17:08:41.000Z",
+      "title": "Georgia official discusses Trump's claims about election security",
+      "url": "https://www.npr.org/2026/07/19/nx-s1-5896326/georgia-official-discusses-trumps-claims-about-election-security?utm_source=lootura.com",
+      "publishedAt": "2026-07-19T13:06:58.000Z",
+      "sourceId": "lootura-us-npr-politics"
+    },
+    {
+      "title": "Trump said the election system is broken. What do swing voters make of the claim?",
+      "url": "https://www.npr.org/2026/07/19/nx-s1-5898445/trump-said-the-election-system-is-broken-what-do-swing-voters-make-of-the-claim?utm_source=lootura.com",
+      "publishedAt": "2026-07-19T12:13:24.000Z",
+      "sourceId": "lootura-us-npr-politics"
+    },
+    {
+      "title": "Politics chat: How much faith can you have in the country's election systems?",
+      "url": "https://www.npr.org/2026/07/19/nx-s1-5890938/politics-chat-how-much-faith-can-you-have-in-the-countrys-election-systems?utm_source=lootura.com",
+      "publishedAt": "2026-07-19T12:04:18.000Z",
+      "sourceId": "lootura-us-npr-politics"
+    },
+    {
+      "title": "Trump is invoking foreign election interference to justify his own | Jamil Smith",
+      "url": "https://www.theguardian.com/commentisfree/2026/jul/19/trump-foreign-election-interference?utm_source=lootura.com",
+      "publishedAt": "2026-07-19T11:00:27.000Z",
+      "sourceId": "lootura-us-the-guardian-us"
+    },
+    {
+      "title": "One week, two killings: Trump’s immigration crackdown turns deadly – again",
+      "url": "https://www.theguardian.com/news/ng-interactive/2026/jul/19/ice-killings-immigration-crackdown?utm_source=lootura.com",
+      "publishedAt": "2026-07-19T05:00:17.000Z",
+      "sourceId": "lootura-us-the-guardian-us"
+    },
+    {
+      "title": "Majority of US voters link extreme weather to climate crisis, study finds",
+      "url": "https://www.theguardian.com/environment/2026/jul/19/climate-crisis-us-voters-study?utm_source=lootura.com",
+      "publishedAt": "2026-07-19T11:00:26.000Z",
+      "sourceId": "lootura-us-the-guardian-us"
+    },
+    {
+      "title": "They Were Charged With Assaulting ICE Agents. The Cases Are Crumbling.",
+      "url": "https://www.nytimes.com/2026/07/18/us/ice-assaults-protesters.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-18T19:49:49.000Z",
       "sourceId": "lootura-us-the-new-york-times"
-    },
-    {
-      "title": "Trump Gutted Civil Rights Agency, Stifling U.S. Scrutiny of Workplace Bias",
-      "url": "https://www.nytimes.com/2026/07/19/us/politics/trump-gutted-civil-rights-agency-stifling-us-scrutiny-of-workplace-bias.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-19T09:00:13.000Z",
-      "sourceId": "lootura-us-the-new-york-times-politics"
-    },
-    {
-      "title": "Trump Blasts ‘Sanctuary’ States, but Many Still Aid Deportations",
-      "url": "https://www.nytimes.com/2026/07/19/us/politics/sanctuary-states-deportation-aid.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-19T09:00:24.000Z",
-      "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 6
+  "evidenceCount": 13
 }

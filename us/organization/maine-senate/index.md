@@ -3,10 +3,16 @@
 > Follow Maine Senate, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-07-14T20:58:39.119Z
+- Updated: 2026-07-19T13:12:59.144Z
 - Canonical: https://atlas.lootura.com/us/organization/maine-senate
 
 ## Recent changes
+
+### Platner-ally Troy Jackson closing in on Democratic Senate nod in key race to face Collins
+
+Former Maine Senate President Troy Jackson appears to be sprinting far ahead of his rivals in the abbreviated race to replace now ex-candidate Graham Platner as the Democratic Senate nominee in the high-stakes showdown to face off with longtime Republican Sen. Susan Collins. Delegates aligned with Jackson won the vast.
+
+Date: 2026-07-19
 
 ### Maine Democrats will square off in Senate debate Thursday
 
@@ -64,4 +70,4 @@ Date: 2026-07-08
 
 ## Sources
 
-No public source links.
+- [Platner-ally Troy Jackson closing in on Democratic Senate nod in key race to face Collins](https://www.foxnews.com/politics/platner-ally-troy-jackson-closing-democratic-senate-nod-key-race-face-collins?utm_source=lootura.com) — 2026-07-19T12:33:12.000Z

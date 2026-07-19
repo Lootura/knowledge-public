@@ -8,9 +8,14 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/iran/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/iran/index.json",
   "description": "Follow Iran, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-19T09:50:13.921Z",
+  "updatedAt": "2026-07-19T13:12:59.144Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "Why Jordan Is Becoming a New Focus in the U.S.-Iran War",
+      "summary": "Four Iranian attacks in five days have targeted U.S. troops in Jordan, U.S. officials said, including one on Friday that killed two soldiers and left another service member missing.",
+      "date": "2026-07-18"
+    },
     {
       "title": "Iran says it is suspending commitments to interim deal with U.S. as they exchange attacks",
       "summary": "The widening strikes threatened civilians and services to them, including desalination plants for drinking water, while the global economy again was on alert.",
@@ -19,11 +24,6 @@
     {
       "title": "U.S. military says 2 troops are dead and 1 is missing after Iran attacks a base in Jordan",
       "summary": "Since the war began, 16 U.S. service members have now been killed and over 430 wounded.",
-      "date": "2026-07-18"
-    },
-    {
-      "title": "Why Jordan Is Becoming a New Focus in the U.S.-Iran War",
-      "summary": "Four Iranian attacks in five days have targeted U.S. troops in Jordan, U.S. officials said, including one on Friday that killed two soldiers and left another service member missing.",
       "date": "2026-07-18"
     },
     {
@@ -64,22 +64,10 @@
   ],
   "sources": [
     {
-      "title": "2 U.S. service members killed, 1 missing following Iranian strike on Jordan",
-      "url": "https://www.cbsnews.com/news/iran-strike-jordan-us-troops-killed/?utm_source=lootura.com",
-      "publishedAt": "2026-07-19T02:26:33.000Z",
+      "title": "U.S. citizen who was trapped in Iran for a year is home, lawyer says",
+      "url": "https://www.cbsnews.com/news/trapped-u-s-citizen-departs-iran/?utm_source=lootura.com",
+      "publishedAt": "2026-07-19T11:25:02.000Z",
       "sourceId": "lootura-us-cbs-news"
-    },
-    {
-      "title": "Iran says it is suspending commitments to interim deal with U.S. as they exchange attacks",
-      "url": "https://www.pbs.org/newshour/world/iran-says-it-is-suspending-commitments-to-interim-deal-with-u-s-as-they-exchange-attacks?utm_source=lootura.com",
-      "publishedAt": "2026-07-18T15:34:19.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
-    },
-    {
-      "title": "U.S. military says 2 troops are dead and 1 is missing after Iran attacks a base in Jordan",
-      "url": "https://www.pbs.org/newshour/world/u-s-military-says-2-troops-are-dead-and-1-is-missing-after-iran-attacks-a-base-in-jordan?utm_source=lootura.com",
-      "publishedAt": "2026-07-18T15:34:19.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
     },
     {
       "title": "Why Jordan Is Becoming a New Focus in the U.S.-Iran War",
@@ -88,5 +76,5 @@
       "sourceId": "lootura-us-the-new-york-times"
     }
   ],
-  "evidenceCount": 4
+  "evidenceCount": 2
 }

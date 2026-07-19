@@ -8,11 +8,16 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/pedro-sanchez/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/pedro-sanchez/index.json",
   "description": "Sigue la actividad de Pedro Sánchez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-19T09:49:47.811Z",
+  "updatedAt": "2026-07-19T13:12:39.474Z",
   "aliases": [
     "Sánchez"
   ],
   "changes": [
+    {
+      "title": "Sánchez achaca los incendios de esta semana a la «emergencia climática»",
+      "summary": "El presidente del Gobierno, Pedro Sánchez, ha advertido de que «negar la emergencia climática no hace que desaparezca», sino que «nos hace más vulnerables», al referirse al incendio de Guadalajara, que ha calcinado ya más de 13.000 hectáreas. Toda mi solidaridad con los vecinos y vecinas afectados por el incendio en Or.",
+      "date": "2026-07-19"
+    },
     {
       "title": "La presión por la corrupción pasa de Transportes a Interior con Marlaska al frente",
       "summary": "La presión por los escándalos de corrupción que rodean al Gobierno de Pedro Sánchez salta al Ministerio del Interior después de la sentencia condenatoria del caso Mascarillas, que corroboró la trama delictiva montada en el seno de la cartera de Transportes cuando José Luis Ábalos estaba al frente de ésta junto a su lug.",
@@ -57,26 +62,21 @@
       "title": "Feijóo pide \"decencia\" en una España \"harta de mentiras\": \"El sanchismo ha sido condenado en todas sus formas\"",
       "summary": "El líder del Partido Popular, en su discurso, ha arremetido contra el presidente del Gobierno, Pedro Sánchez: \"Aún hay más de una decena de tramas en los juzgados\".",
       "date": "2026-07-18"
-    },
-    {
-      "title": "Feijóo no quiso cruzar su línea roja sobre Begoña Gómez y las hijas de Zapatero en el Senado",
-      "summary": "La mujer de Sánchez ha sido enviada a juicio. Laura y Alba declararán próximamente como imputadas en el caso Plus Ultra. Ninguna ha pasado ni pasar...",
-      "date": "2026-07-18"
     }
   ],
   "sources": [
     {
-      "title": "La presión por la corrupción pasa de Transportes a Interior con Marlaska al frente",
-      "url": "https://www.abc.es/espana/presion-corrupcion-pasa-transportes-interior-marlaska-frente-20260719011226-nt.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-19T08:45:34.000Z",
-      "sourceId": "lootura-es-abc"
+      "title": "Muchos ministros presionaron a la RFEF para asistir a la final antes de que Sánchez cambiara de opinión y decidiera hacerlo",
+      "url": "https://okdiario.com/mundial/decepcion-ministros-sanchez-saber-que-presidente-finalmente-acude-final-del-mundial-19023838?utm_source=lootura.com",
+      "publishedAt": "2026-07-19T12:00:28.000Z",
+      "sourceId": "lootura-es-ok-diario"
     },
     {
-      "title": "Mandos de la Guardia Civil denuncian una «alteración» en el sistema de ascensos para sancionar a los generales y coroneles díscolos",
-      "url": "https://www.abc.es/espana/mandos-guardia-civil-denuncian-alteracion-sistema-ascensos-20260719011815-nt.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-19T08:21:49.000Z",
-      "sourceId": "lootura-es-abc"
+      "title": "Sánchez achaca los incendios de esta semana a la «emergencia climática»",
+      "url": "https://theobjective.com/espana/politica/2026-07-19/sanchez-achaca-incendios-esta-semana-emergencia-climatica/?utm_source=lootura.com",
+      "publishedAt": "2026-07-19T12:24:00.000Z",
+      "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

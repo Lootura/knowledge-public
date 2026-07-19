@@ -3,7 +3,7 @@
 > Follow Graham Platner, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-07-19T09:50:13.921Z
+- Updated: 2026-07-19T13:12:59.144Z
 - Canonical: https://atlas.lootura.com/us/person/graham-platner
 
 ## Recent changes
@@ -11,6 +11,12 @@
 ### In Maine, Troy Jackson Gains Momentum in Bid to Replace Platner
 
 Troy Jackson, a progressive former State Senate president, showed signs of significant strength, as half the state’s counties picked delegates to a convention where they will choose Graham Platner’s replacement.
+
+Date: 2026-07-19
+
+### Platner-ally Troy Jackson closing in on Democratic Senate nod in key race to face Collins
+
+Former Maine Senate President Troy Jackson appears to be sprinting far ahead of his rivals in the abbreviated race to replace now ex-candidate Graham Platner as the Democratic Senate nominee in the high-stakes showdown to face off with longtime Republican Sen. Susan Collins. Delegates aligned with Jackson won the vast.
 
 Date: 2026-07-19
 
@@ -62,13 +68,7 @@ The first debate on Thursday in Maine's flash Democratic primary may feature a c
 
 Date: 2026-07-14
 
-### ICE needs to be ‘dismantled’: Senate candidate Dan Kleban after ICE-involved shooting in Maine
-
-Dan Kleban (D-Maine) joins Meet the Press NOW to discuss his run to replace Graham Platner in the Senate race. Kelban also reacts to the fatal ICE shooting in Maine.
-
-Date: 2026-07-14
-
 ## Sources
 
-- [Troy Jackson jumps out to big lead in race to replace Graham Platner in Maine](https://www.politico.com/news/2026/07/18/troy-jackson-maine-senate-platner-01004343?utm_source=lootura.com) — 2026-07-19T01:05:18.000Z
+- [Platner-ally Troy Jackson closing in on Democratic Senate nod in key race to face Collins](https://www.foxnews.com/politics/platner-ally-troy-jackson-closing-democratic-senate-nod-key-race-face-collins?utm_source=lootura.com) — 2026-07-19T12:33:12.000Z
 - [In Maine, Troy Jackson Gains Momentum in Bid to Replace Platner](https://www.nytimes.com/2026/07/19/us/politics/maine-democrats-senate-jackson.html?utm_source=lootura.com) — 2026-07-19T04:10:57.000Z

@@ -8,13 +8,18 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/canada/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/canada/index.json",
   "description": "Follow Canada, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-19T09:50:13.921Z",
+  "updatedAt": "2026-07-19T13:12:59.144Z",
   "aliases": [],
   "changes": [
     {
       "title": "Wildfire smoke fouls air across Northeast",
       "summary": "Smoke from hundreds of wildfires burning across Canada and Minnesota is creating air quality issues in the Northeast. There are also severe weather threats to the Midwest, as well as the risk of flash flooding in some areas. Meteorologist Andrew Kozak has the forecast.",
       "date": "2026-07-19"
+    },
+    {
+      "title": "Air quality improving in Northeast, while wildfire smoke hangs over Midwest",
+      "summary": "Wildfire smoke and unhealthy air persist and shift direction, as Trump demands explanation from Canada. (Image credit: Finn Gomez/Getty Images).",
+      "date": "2026-07-18"
     },
     {
       "title": "What the US and Canada Can Expect from the Wildfire Smoke This Weekend",
@@ -24,11 +29,6 @@
     {
       "title": "Maps show wildfire smoke forecast, air quality alerts in swath of U.S.",
       "summary": "Heavy smoke from several large wildfires blazing in Canada and Minnesota is engulfing large swaths of the Midwest and the U.S. East Coast this week.",
-      "date": "2026-07-18"
-    },
-    {
-      "title": "Air quality improving in Northeast, while wildfire smoke hangs over Midwest",
-      "summary": "Wildfire smoke and unhealthy air persist and shift direction, as Trump demands explanation from Canada. (Image credit: Finn Gomez/Getty Images).",
       "date": "2026-07-18"
     },
     {
@@ -70,23 +70,11 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "Maps show wildfire smoke forecast, air quality alerts in swath of U.S.",
-      "url": "https://www.cbsnews.com/news/wildfires-smoke-millions-exposed-midwest-northeast-us/?utm_source=lootura.com",
-      "publishedAt": "2026-07-18T16:44:00.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
-    {
       "title": "Air quality improving in Northeast, while wildfire smoke hangs over Midwest",
       "url": "https://www.npr.org/2026/07/18/nx-s1-5899009/us-canada-wildfire-smoke?utm_source=lootura.com",
       "publishedAt": "2026-07-18T18:15:42.000Z",
       "sourceId": "lootura-us-npr"
-    },
-    {
-      "title": "What the US and Canada Can Expect from the Wildfire Smoke This Weekend",
-      "url": "https://www.nytimes.com/2026/07/18/weather/canada-wildfires-smoke-updates-today.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-18T11:11:09.000Z",
-      "sourceId": "lootura-us-the-new-york-times"
     }
   ],
-  "evidenceCount": 4
+  "evidenceCount": 2
 }

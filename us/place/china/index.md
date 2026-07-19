@@ -3,7 +3,7 @@
 > Follow China, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-19T09:50:13.921Z
+- Updated: 2026-07-19T13:12:59.144Z
 - Canonical: https://atlas.lootura.com/us/place/china
 
 ## Recent changes
@@ -70,4 +70,4 @@ Date: 2026-07-17
 
 ## Sources
 
-- [US politicians push agencies to restrict research collaboration with China](https://www.nature.com/articles/d41586-026-02226-9?utm_source=lootura.com) — 2026-07-19T09:50:17.527Z
+- [US politicians push agencies to restrict research collaboration with China](https://www.nature.com/articles/d41586-026-02226-9?utm_source=lootura.com) — 2026-07-19T13:13:02.689Z

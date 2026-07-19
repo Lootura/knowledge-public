@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/united-states/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/united-states/index.json",
   "description": "Follow United States, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-19T09:50:13.921Z",
+  "updatedAt": "2026-07-19T13:12:59.144Z",
   "aliases": [
     "America",
     "Estados Unidos",
@@ -21,16 +21,6 @@
       "date": "2026-07-27"
     },
     {
-      "title": "The Tate brothers are arrested in Miami, U.S. Marshals Service tells AP",
-      "summary": "The brothers were taken into custody on a sealed warrant, the Marshals Service told the AP. British prosecutors said they were seeking the extradition of the brothers on rape and trafficking charges. (Image credit: Julia Demaree Nikhinson).",
-      "date": "2026-07-19"
-    },
-    {
-      "title": "To trial or not to trial: Veteran vaccine advisers say vaccine clinical trials alone don't tell whole story",
-      "summary": "Two nationally recognized scientists with decades of experience advising U.S. vaccine policy argue that it is a mistake to exclude well-designed observational studies when determining how well vaccines work year to year.",
-      "date": "2026-07-19"
-    },
-    {
       "title": "Funding milestone detected",
       "summary": "Rising energy prices in the U.S. reduce states' economic output, but they also prompt investments in more efficient equipment and technologies that partially offset those output losses over time, according to a new study by researchers at Penn State.",
       "date": "2026-07-19"
@@ -41,28 +31,38 @@
       "date": "2026-07-19"
     },
     {
-      "title": "The Evolution of Presidential Travel: Horse Carriages to Air Force One",
-      "summary": "From horse-drawn presidential coaches to Air Force One, presidents have used various modes of transportation to project an image of America for nearly 250 years.",
+      "title": "Politics chat: How much faith can you have in the country's election systems?",
+      "summary": "President Trump and Secretary of Homeland Security Markwayne Mullin make claims about the vulnerability of election systems in the U.S., but how true are those claims?",
+      "date": "2026-07-19"
+    },
+    {
+      "title": "Failed Immigration Cases Leave Chicago Prosecutor’s Office Reeling",
+      "summary": "Prosecutors have fled the U.S. attorney’s office in Chicago, angry about the cases they’ve been told to bring against protesters and immigrants.",
+      "date": "2026-07-19"
+    },
+    {
+      "title": "Black and Latino Leaders Ask: What Do Socialist Wins Mean for New York?",
+      "summary": "Longtime leaders and advocates in minority districts fear that victories by the Democratic Socialists of America in gentrifying neighborhoods could mean political erasure.",
+      "date": "2026-07-19"
+    },
+    {
+      "title": "The Tate brothers are arrested in Miami, U.S. Marshals Service tells AP",
+      "summary": "The brothers were taken into custody on a sealed warrant, the Marshals Service told the AP. British prosecutors said they were seeking the extradition of the brothers on rape and trafficking charges. (Image credit: Julia Demaree Nikhinson).",
+      "date": "2026-07-19"
+    },
+    {
+      "title": "To trial or not to trial: Veteran vaccine advisers say vaccine clinical trials alone don't tell whole story",
+      "summary": "Two nationally recognized scientists with decades of experience advising U.S. vaccine policy argue that it is a mistake to exclude well-designed observational studies when determining how well vaccines work year to year.",
+      "date": "2026-07-19"
+    },
+    {
+      "title": "U.S. cancels automatic protections for imperiled animals as critics warn of extinctions",
+      "summary": "Instead of receiving automatic protections, imperiled species will need individualized protection plans once they are added to the threatened species list.",
       "date": "2026-07-18"
     },
     {
-      "title": "Rhode Island fugitive captured after more than 20 years on the run",
-      "summary": "One of Rhode Island’s “longest-wanted” fugitives was finally arrested this week after 21 years on the run, according to the U.S.",
-      "date": "2026-07-18"
-    },
-    {
-      "title": "Iran says it is suspending commitments to interim deal with U.S. as they exchange attacks",
-      "summary": "The widening strikes threatened civilians and services to them, including desalination plants for drinking water, while the global economy again was on alert.",
-      "date": "2026-07-18"
-    },
-    {
-      "title": "Maps show wildfire smoke forecast, air quality alerts in swath of U.S.",
-      "summary": "Heavy smoke from several large wildfires blazing in Canada and Minnesota is engulfing large swaths of the Midwest and the U.S. East Coast this week.",
-      "date": "2026-07-18"
-    },
-    {
-      "title": "U.S. military says 2 troops are dead and 1 is missing after Iran attacks a base in Jordan",
-      "summary": "Since the war began, 16 U.S. service members have now been killed and over 430 wounded.",
+      "title": "U.S. Strikes Leave Iranians Isolated and Scared",
+      "summary": "Overnight strikes damaged a tunnel and three bridges in Hormozgan Province, the governor’s office said.",
       "date": "2026-07-18"
     }
   ],
@@ -74,46 +74,10 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "Maps show wildfire smoke forecast, air quality alerts in swath of U.S.",
-      "url": "https://www.cbsnews.com/news/wildfires-smoke-millions-exposed-midwest-northeast-us/?utm_source=lootura.com",
-      "publishedAt": "2026-07-18T16:44:00.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
-    {
-      "title": "To trial or not to trial: Veteran vaccine advisers say vaccine clinical trials alone don't tell whole story",
-      "url": "https://medicalxpress.com/news/2026-07-trial-veteran-vaccine-clinical-trials.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-19T08:57:10.000Z",
-      "sourceId": "lootura-us-medical-xpress"
-    },
-    {
-      "title": "Rhode Island fugitive captured after more than 20 years on the run",
-      "url": "https://www.nbcnews.com/news/us-news/rhode-island-fugitive-ronald-fischer-rcna588163?utm_source=lootura.com",
-      "publishedAt": "2026-07-18T16:35:47.000Z",
-      "sourceId": "lootura-us-nbc-news"
-    },
-    {
-      "title": "U.S. military says 2 service members killed in Jordan by Iranian attacks",
-      "url": "https://www.nbcnews.com/nightly-news/video/u-s-military-says-2-service-members-killed-in-jordan-by-iranian-attacks-266892357964?utm_source=lootura.com",
-      "publishedAt": "2026-07-18T22:43:06.000Z",
-      "sourceId": "lootura-us-nbc-news"
-    },
-    {
-      "title": "The Tate brothers are arrested in Miami, U.S. Marshals Service tells AP",
-      "url": "https://www.npr.org/2026/07/18/g-s1-134475/tate-brothers-arrested-miami?utm_source=lootura.com",
-      "publishedAt": "2026-07-19T00:57:08.000Z",
-      "sourceId": "lootura-us-npr"
-    },
-    {
-      "title": "Iran says it is suspending commitments to interim deal with U.S. as they exchange attacks",
-      "url": "https://www.pbs.org/newshour/world/iran-says-it-is-suspending-commitments-to-interim-deal-with-u-s-as-they-exchange-attacks?utm_source=lootura.com",
-      "publishedAt": "2026-07-18T15:34:19.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
-    },
-    {
-      "title": "U.S. military says 2 troops are dead and 1 is missing after Iran attacks a base in Jordan",
-      "url": "https://www.pbs.org/newshour/world/u-s-military-says-2-troops-are-dead-and-1-is-missing-after-iran-attacks-a-base-in-jordan?utm_source=lootura.com",
-      "publishedAt": "2026-07-18T15:34:19.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
+      "title": "Politics chat: How much faith can you have in the country's election systems?",
+      "url": "https://www.npr.org/2026/07/19/nx-s1-5890938/politics-chat-how-much-faith-can-you-have-in-the-countrys-election-systems?utm_source=lootura.com",
+      "publishedAt": "2026-07-19T12:04:18.000Z",
+      "sourceId": "lootura-us-npr-politics"
     },
     {
       "title": "U.S. cancels automatic protections for imperiled animals as critics warn of extinctions",
@@ -126,7 +90,37 @@
       "url": "https://phys.org/news/2026-07-energy-price-state-economies-spur.html?utm_source=lootura.com",
       "publishedAt": "2026-07-19T09:40:04.000Z",
       "sourceId": "lootura-us-phys-org"
+    },
+    {
+      "title": "Failed Immigration Cases Leave Chicago Prosecutor’s Office Reeling",
+      "url": "https://www.nytimes.com/2026/07/19/us/immigration-chicago-prosecutors.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-19T11:44:25.000Z",
+      "sourceId": "lootura-us-the-new-york-times"
+    },
+    {
+      "title": "Black and Latino Leaders Ask: What Do Socialist Wins Mean for New York?",
+      "url": "https://www.nytimes.com/2026/07/19/nyregion/black-latino-leaders-dsa-nyc.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-19T07:00:08.000Z",
+      "sourceId": "lootura-us-the-new-york-times"
+    },
+    {
+      "title": "Why Jordan Is Becoming a New Focus in the U.S.-Iran War",
+      "url": "https://www.nytimes.com/2026/07/18/world/middleeast/iran-war-jordan-attacks.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-18T23:03:24.000Z",
+      "sourceId": "lootura-us-the-new-york-times"
+    },
+    {
+      "title": "U.S. Strikes Leave Iranians Isolated and Scared",
+      "url": "https://www.nytimes.com/2026/07/18/world/middleeast/us-iran-war-strikes-bridges-bandar-abbas.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-18T16:02:40.000Z",
+      "sourceId": "lootura-us-the-new-york-times"
+    },
+    {
+      "title": "Trump Gutted Civil Rights Agency, Stifling U.S. Scrutiny of Workplace Bias",
+      "url": "https://www.nytimes.com/2026/07/19/us/politics/trump-gutted-civil-rights-agency-stifling-us-scrutiny-of-workplace-bias.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-19T09:00:13.000Z",
+      "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 16
+  "evidenceCount": 10
 }

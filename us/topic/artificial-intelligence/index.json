@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/topic/artificial-intelligence/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/topic/artificial-intelligence/index.json",
   "description": "Follow Artificial intelligence, a tracked topic, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-19T09:50:13.921Z",
+  "updatedAt": "2026-07-19T13:12:59.144Z",
   "aliases": [
     "AI",
     "machine learning"
@@ -69,21 +69,15 @@
     {
       "title": "AI is set to completely transform cybersecurity — here’s how researchers must prepare",
       "url": "https://www.nature.com/articles/d41586-026-02214-z?utm_source=lootura.com",
-      "publishedAt": "2026-07-19T09:50:17.527Z",
+      "publishedAt": "2026-07-19T13:13:02.689Z",
       "sourceId": "lootura-us-nature"
     },
     {
       "title": "A global capital for AI safety is emerging — and it’s not in Silicon Valley",
       "url": "https://www.nature.com/articles/d41586-026-01389-9?utm_source=lootura.com",
-      "publishedAt": "2026-07-19T09:50:17.527Z",
+      "publishedAt": "2026-07-19T13:13:02.689Z",
       "sourceId": "lootura-us-nature"
-    },
-    {
-      "title": "Archaeologists Unearth Pre-Aztec Altar in Mexico That Hints at Human Sacrifice",
-      "url": "https://www.sciencealert.com/archaeologists-unearth-ancient-pre-aztec-altar-and-human-skulls?utm_source=lootura.com",
-      "publishedAt": "2026-07-19T08:00:00.000Z",
-      "sourceId": "lootura-us-sciencealert"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 2
 }

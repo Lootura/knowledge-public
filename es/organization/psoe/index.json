@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/psoe/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/psoe/index.json",
   "description": "Sigue la actividad de Partido Socialista Obrero Español en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-19T09:49:47.811Z",
+  "updatedAt": "2026-07-19T13:12:39.474Z",
   "aliases": [
     "Partido Socialista",
     "Partido Socialista Obrero Español"
   ],
   "changes": [
+    {
+      "title": "Reyes Maroto y Enma López depositan su voto confiando «en la democracia interna» del PSOE",
+      "summary": "La portavoz del PSOE en el Ayuntamiento de Madrid, Reyes Maroto, y la portavoz adjunta, Enma López, han depositado este domingo su voto en las primarias.",
+      "date": "2026-07-19"
+    },
     {
       "title": "Más de 30 reuniones con Cerdán y 10.842 mensajes con el exjefe de gabinete de Sánchez",
       "summary": "Durante muchas semanas en el Partido Socialista se zafaban de las preguntas sobre Leire Díez afirmando que no era más que « una militante de base ». Aunque ya existían múltiples indicios de que no era así, con imágenes de ella entrando y saliendo de la sede de Ferraz, incluso con un encuentro personal con el exsecretar.",
@@ -58,20 +63,15 @@
       "title": "La UCO desvela que Cerdán intentó comprar un piso de casi un millón con las mordidas a Servinabar",
       "summary": "Los investigadores elevan a 323.000 euros los beneficios ilícitos para él y su familia y revelan que el exdirigente del PSOE dejó de sacar dinero del cajero cuando Ábalos llegó al ministerio.",
       "date": "2026-07-17"
-    },
-    {
-      "title": "Cerdán disparó su gasto en cash mientras Ábalos adjudicaba contratos",
-      "summary": "El último informe de la Unidad Central Operativa (UCO) de la Guardia Civil complica la estrategia de defensa del ex secretario de Organización del PSOE Santos Cerdán al...",
-      "date": "2026-07-17"
     }
   ],
   "sources": [
     {
-      "title": "Emiliano García-Page: \"El modelo de financiación autonómica es un atentado grave contra la igualdad\"",
-      "url": "https://www.elmundo.es/espana/2026/07/18/6a5b74dbfc6c8317188b4585.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-18T20:57:47.000Z",
-      "sourceId": "lootura-es-el-mundo"
+      "title": "Reyes Maroto y Enma López depositan su voto confiando «en la democracia interna» del PSOE",
+      "url": "https://theobjective.com/espana/politica/2026-07-19/reyes-maroto-enma-lopez-voto-psoe/?amp=&utm_source=lootura.com",
+      "publishedAt": "2026-07-19T12:30:50.000Z",
+      "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 0
+  "evidenceCount": 1
 }

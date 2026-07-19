@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/ukraine/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/ukraine/index.json",
   "description": "Follow Ukraine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-19T09:50:13.921Z",
+  "updatedAt": "2026-07-19T13:12:59.144Z",
   "aliases": [
     "Kyiv"
   ],
@@ -16,6 +16,11 @@
     {
       "title": "Ukraine’s Top General Becomes a Target of Protesters’ Anger",
       "summary": "Demonstrators supporting Ukraine’s ousted defense minister have begun denouncing the commander he clashed with in office, Gen. Oleksandr Syrskyi.",
+      "date": "2026-07-19"
+    },
+    {
+      "title": "Russia Batters Kyiv in One of the Largest Missile Assaults of the War",
+      "summary": "On Saturday, Ukraine hit two warehouses in Russia in strikes that killed at least eight people and injured 62.",
       "date": "2026-07-19"
     },
     {
@@ -57,25 +62,20 @@
       "title": "He Was a Russian Political Survivor, Until the Masked Men Appeared",
       "summary": "Boris B. Nadezhdin, an outspoken opponent of the war in Ukraine, says he knows why he was detained: “Among our leadership, there is panic and chaos.”.",
       "date": "2026-07-17"
-    },
-    {
-      "title": "He Was a Russian Political Survivor, Until the Masked Men Appeared",
-      "summary": "Boris B. Nadezhdin, an outspoken opponent of the war in Ukraine, says he knows why he was detained: “Among our leadership, there is panic and chaos.”.",
-      "date": "2026-07-17"
     }
   ],
   "sources": [
     {
-      "title": "Ukrainian drone attacks on Russia kill at least 9, injure over 60",
-      "url": "https://www.cbsnews.com/news/ukraine-russia-war-drone-attacks-wildberries/?utm_source=lootura.com",
-      "publishedAt": "2026-07-18T16:12:37.000Z",
+      "title": "Russia launches deadly, massive ballistic missile attack in Kyiv, Ukraine",
+      "url": "https://www.cbsnews.com/news/russia-ballistic-missile-attack-kyiv-ukraine/?utm_source=lootura.com",
+      "publishedAt": "2026-07-19T10:21:42.000Z",
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "Ukrainian drones hit warehouses and other sites across Russia, killing 9 and wounding over 60",
-      "url": "https://www.pbs.org/newshour/world/ukrainian-drones-hit-warehouses-and-other-sites-across-russia-killing-9-and-wounding-over-60?utm_source=lootura.com",
-      "publishedAt": "2026-07-18T17:21:36.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
+      "title": "Russia Batters Kyiv in One of the Largest Missile Assaults of the War",
+      "url": "https://www.nytimes.com/2026/07/19/world/europe/russia-ukraine-strikes.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-19T10:52:23.000Z",
+      "sourceId": "lootura-us-the-new-york-times"
     },
     {
       "title": "Ukraine’s Top General Becomes a Target of Protesters’ Anger",
@@ -84,5 +84,5 @@
       "sourceId": "lootura-us-the-new-york-times-world"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 2
 }

@@ -3,10 +3,16 @@
 > Sigue la actividad de Emiliano García-Page en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-19T09:49:47.811Z
+- Actualizado: 2026-07-19T13:12:39.474Z
 - Canonical: https://atlas.lootura.com/es/person/emiliano-garcia-page
 
 ## Cambios recientes
+
+### Incendios en España, en directo hoy: última hora de los fuegos activos, evolución y situación en Aragón, Castilla-La Mancha, Madrid y Andalucía
+
+El presidente de la Junta de Comunidades de Castilla-La Mancha, Emiliano García-Page , señaló este sábado que la culpa de los incendios "no la tiene nadie por su profesión, condición política o raza" sino que la tiene "aquel que incumple las leyes" y subrayó que "llegará el momento de esclarecer las causas" , como así.
+
+Date: 2026-07-19
 
 ### Discovered by Atlas
 
@@ -22,4 +28,4 @@ Date: 2026-07-18
 
 ## Fuentes
 
-- [Emiliano García-Page: "El modelo de financiación autonómica es un atentado grave contra la igualdad"](https://www.elmundo.es/espana/2026/07/18/6a5b74dbfc6c8317188b4585.html?utm_source=lootura.com) — 2026-07-18T20:57:47.000Z
+- [Incendios en España, en directo hoy: última hora de los fuegos activos, evolución y situación en Aragón, Castilla-La Mancha, Madrid y Andalucía](https://www.larazon.es/sociedad/incendios-espana-directo-hoy-ultima-hora-fuegos-activos-evolucion-situacion-aragon-castillala-mancha-madrid-andalucia-b50m_202607196a5bbe1b0500ab412c9d4ee3.html?utm_source=lootura.com) — 2026-07-19T12:44:05.000Z

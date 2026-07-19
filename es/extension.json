@@ -1,16 +1,16 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-19T09:54:53.644Z",
+  "generatedAt": "2026-07-19T13:17:34.595Z",
   "radar": {
     "id": "es",
     "slug": "es",
     "locale": "es"
   },
   "state": {
-    "signature": "1.16.0|27|1784454587811",
+    "signature": "1.16.0|28|1784466759474",
     "version": "1.16.0",
-    "build": 27,
-    "latestEntityUpdatedAt": "2026-07-19T09:49:47.811Z"
+    "build": 28,
+    "latestEntityUpdatedAt": "2026-07-19T13:12:39.474Z"
   },
   "atlas": {
     "hero": {
@@ -20,22 +20,22 @@
       "title": "Incendios en España, en directo hoy: última hora de los fuegos activos, evolución y situación en Aragón, Castilla-La Mancha, Madrid y Andalucía",
       "url": "https://atlas.lootura.com/es/place/espana",
       "path": "/es/place/espana",
-      "updatedAt": "2026-07-19T09:49:47.811Z",
-      "score": 1587,
-      "sourceCount": 375,
+      "updatedAt": "2026-07-19T13:12:39.474Z",
+      "score": 1569,
+      "sourceCount": 379,
       "isBreaking": false,
       "isPinned": false
     },
     "cards": [
       {
-        "id": "es-lionel-messi",
-        "name": "Lionel Messi",
-        "type": "person",
-        "title": "Mbappé pone el listón imposible a Messi por la Bota de Oro: deberá marcar un hat-trick contra España",
-        "url": "https://atlas.lootura.com/es/person/lionel-messi",
-        "path": "/es/person/lionel-messi",
-        "updatedAt": "2026-07-19T09:49:47.811Z",
-        "score": 1563,
+        "id": "es-la-mierla",
+        "name": "La Mierla",
+        "type": "organization",
+        "title": "Castilla-La Mancha estudia plan de recuperación en La Mierla cuando cese el fuego",
+        "url": "https://atlas.lootura.com/es/organization/la-mierla",
+        "path": "/es/organization/la-mierla",
+        "updatedAt": "2026-07-19T13:12:39.474Z",
+        "score": 1524,
         "sourceCount": 10,
         "isBreaking": false,
         "isPinned": false
@@ -47,22 +47,22 @@
         "title": "La Audiencia de Madrid completa el trabajo de Peinado contra Begoña Gómez",
         "url": "https://atlas.lootura.com/es/place/madrid",
         "path": "/es/place/madrid",
-        "updatedAt": "2026-07-19T09:49:47.811Z",
-        "score": 1563,
-        "sourceCount": 219,
+        "updatedAt": "2026-07-19T13:12:39.474Z",
+        "score": 1520,
+        "sourceCount": 222,
         "isBreaking": false,
         "isPinned": false
       },
       {
-        "id": "es-la-mancha",
-        "name": "La Mancha",
+        "id": "es-lionel-messi",
+        "name": "Lionel Messi",
         "type": "person",
-        "title": "Incendios en España, en directo hoy: última hora de los fuegos activos, evolución y situación en Aragón, Castilla-La Mancha, Madrid y Andalucía",
-        "url": "https://atlas.lootura.com/es/person/la-mancha",
-        "path": "/es/person/la-mancha",
-        "updatedAt": "2026-07-19T09:49:47.811Z",
-        "score": 1530,
-        "sourceCount": 8,
+        "title": "Mbappé pone el listón imposible a Messi por la Bota de Oro: deberá marcar un hat-trick contra España",
+        "url": "https://atlas.lootura.com/es/person/lionel-messi",
+        "path": "/es/person/lionel-messi",
+        "updatedAt": "2026-07-19T13:12:39.474Z",
+        "score": 1518,
+        "sourceCount": 10,
         "isBreaking": false,
         "isPinned": false
       },
@@ -73,13 +73,13 @@
         "title": "La Audiencia de Madrid completa el trabajo de Peinado contra Begoña Gómez",
         "url": "https://atlas.lootura.com/es/person/begona-gomez",
         "path": "/es/person/begona-gomez",
-        "updatedAt": "2026-07-19T09:49:47.811Z",
-        "score": 1512,
+        "updatedAt": "2026-07-19T13:12:39.474Z",
+        "score": 1507,
         "sourceCount": 36,
         "isBreaking": false,
         "isPinned": false
       }
     ],
-    "publicEntityCount": 41
+    "publicEntityCount": 46
   }
 }

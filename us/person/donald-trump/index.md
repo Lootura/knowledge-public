@@ -3,7 +3,7 @@
 > Follow Donald Trump, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-07-19T09:50:13.921Z
+- Updated: 2026-07-19T13:12:59.144Z
 - Canonical: https://atlas.lootura.com/us/person/donald-trump
 
 ## Recent changes
@@ -20,11 +20,47 @@ A New York Times review of 18 states targeted by the Trump administration for th
 
 Date: 2026-07-19
 
-### Week in Politics: Trump's speech; midterm elections; Todd Blanche and Jay Clayton
+### $600,000 for a presidential pardon? Inside the growing industry of clemency lobbying
 
-Three months from the November midterms, President Trump is drawing attention to issues that are not top priorities for voters.
+NPR's Ayesha Rascoe talks with NOTUS reporter Jasmine Wright about the growing lobbying industry to get presidential pardons under the second Trump administration.
 
-Date: 2026-07-18
+Date: 2026-07-19
+
+### Georgia official discusses Trump's claims about election security
+
+NPR's Ayesha Rascoe talks with Gabriel Sterling, of the Georgia Secretary of State's Office, about President Trump's claims about election security.
+
+Date: 2026-07-19
+
+### Trump said the election system is broken. What do swing voters make of the claim?
+
+What did some swing state voters think of President Trump's primetime speech on elections?
+
+Date: 2026-07-19
+
+### Politics chat: How much faith can you have in the country's election systems?
+
+President Trump and Secretary of Homeland Security Markwayne Mullin make claims about the vulnerability of election systems in the U.S., but how true are those claims?
+
+Date: 2026-07-19
+
+### Trump is invoking foreign election interference to justify his own | Jamil Smith
+
+The president no longer treats the people who defeated him as voters. He treats them as suspects There is a version of this country in which Donald Trump tells Americans the truth he has been handed: that their elections are secure. Once, he apparently wanted to. The Atlantic reported after Thursday night’s address tha.
+
+Date: 2026-07-19
+
+### One week, two killings: Trump’s immigration crackdown turns deadly – again
+
+The fatal shootings of two men, both killed in their vehicles by ICE agents, have rekindled anger over the US’s militarized deportation push Lorenzo Salgado Araujo, 52, was driving to work with his brother and two other passengers in Houston, Texas , when immigration agents began tailing his car. They pulled him over a.
+
+Date: 2026-07-19
+
+### Majority of US voters link extreme weather to climate crisis, study finds
+
+Top Democrat says findings show public ‘way ahead of the politicians’ as Trump dismisses global heating as ‘hoax’ Amid a summer of dangerous heat , drought and floods , a majority of Americans are connecting increasingly severe weather to the climate crisis, new polling shows, despite efforts by Donald Trump to dismiss.
+
+Date: 2026-07-19
 
 ### Air quality improving in Northeast, while wildfire smoke hangs over Midwest
 
@@ -32,47 +68,15 @@ Wildfire smoke and unhealthy air persist and shift direction, as Trump demands e
 
 Date: 2026-07-18
 
-### Mike Lindell Not Registered to Vote in Minnesota, Where He is Running for Governor
-
-President Trump endorsed Mike Lindell, a leader of the election denial movement, for Minnesota governor this week.
-
-Date: 2026-07-18
-
-### Russia Bill Broadens Sanctions but Could Fuel Fears Over the Dollar
-
-The Trump administration has recently sought to scale back sanctions as adversaries develop workarounds that some believe could erode the U.S. dollar’s supremacy.
-
-Date: 2026-07-18
-
-### As Trump Scraps With Meloni, His Envoy to Italy Is at Sea
-
-Tilman J. Fertitta, the U.S. ambassador to Rome, is summering on his superyacht as President Trump squabbles with Prime Minister Giorgia Meloni of Italy.
-
-Date: 2026-07-18
-
-### Trump's Endorsement Could Set the Stage for a Historic Senate Succession
-
-Sen. Darline Graham Nordone, Republican of South Carolina, participates in a ceremonial swearing-in at the U.S. Capitol on July 14, 2026, in Washington, D.C. —Finn Gomez—Getty Images President Donald Trump on Friday endorsed Sen. Darline Graham Nordone to run for a full term in November, in what could become a historic.
-
-Date: 2026-07-18
-
-### What to know about Trump's claim that over 250K non-citizens are registered to vote
-
-Homeland Security Secretary Markwayne Mullin sent letters to four states alleging that a combined 250,000 non-citizens were registered to vote. Elections experts caution that could be a significant overcount.
-
-Date: 2026-07-18
-
-### Funding milestone detected
-
-Defence minister seeks three ‘Nahal’ outposts in Gaza as top commander says Israel now controls 65% of the strip, violating Trump ceasefire deal Israel’s defence and finance ministers announced plans for three illegal settlements in Gaza and more than $400m (£300m) in funding to expand construction in the occupied West.
-
-Date: 2026-07-18
-
 ## Sources
 
 - [2 U.S. service members killed, 1 missing following Iranian strike on Jordan](https://www.cbsnews.com/news/iran-strike-jordan-us-troops-killed/?utm_source=lootura.com) — 2026-07-19T02:26:33.000Z
 - [Air quality improving in Northeast, while wildfire smoke hangs over Midwest](https://www.npr.org/2026/07/18/nx-s1-5899009/us-canada-wildfire-smoke?utm_source=lootura.com) — 2026-07-18T18:15:42.000Z
-- [Week in Politics: Trump's speech; midterm elections; Todd Blanche and Jay Clayton](https://www.npr.org/2026/07/18/nx-s1-5894907/week-in-politics-trumps-speech-midterm-elections-todd-blanche-and-jay-clayton?utm_source=lootura.com) — 2026-07-18T11:42:09.000Z
-- [Mike Lindell Not Registered to Vote in Minnesota, Where He is Running for Governor](https://www.nytimes.com/2026/07/18/us/mike-lindell-mypillow-minnsota-governor-election.html?utm_source=lootura.com) — 2026-07-18T17:08:41.000Z
-- [Trump Gutted Civil Rights Agency, Stifling U.S. Scrutiny of Workplace Bias](https://www.nytimes.com/2026/07/19/us/politics/trump-gutted-civil-rights-agency-stifling-us-scrutiny-of-workplace-bias.html?utm_source=lootura.com) — 2026-07-19T09:00:13.000Z
-- [Trump Blasts ‘Sanctuary’ States, but Many Still Aid Deportations](https://www.nytimes.com/2026/07/19/us/politics/sanctuary-states-deportation-aid.html?utm_source=lootura.com) — 2026-07-19T09:00:24.000Z
+- [$600,000 for a presidential pardon? Inside the growing industry of clemency lobbying](https://www.npr.org/2026/07/19/nx-s1-5896394/600-000-for-a-presidential-pardon-inside-the-growing-industry-of-clemency-lobbying?utm_source=lootura.com) — 2026-07-19T12:13:23.000Z
+- [Georgia official discusses Trump's claims about election security](https://www.npr.org/2026/07/19/nx-s1-5896326/georgia-official-discusses-trumps-claims-about-election-security?utm_source=lootura.com) — 2026-07-19T13:06:58.000Z
+- [Trump said the election system is broken. What do swing voters make of the claim?](https://www.npr.org/2026/07/19/nx-s1-5898445/trump-said-the-election-system-is-broken-what-do-swing-voters-make-of-the-claim?utm_source=lootura.com) — 2026-07-19T12:13:24.000Z
+- [Politics chat: How much faith can you have in the country's election systems?](https://www.npr.org/2026/07/19/nx-s1-5890938/politics-chat-how-much-faith-can-you-have-in-the-countrys-election-systems?utm_source=lootura.com) — 2026-07-19T12:04:18.000Z
+- [Trump is invoking foreign election interference to justify his own | Jamil Smith](https://www.theguardian.com/commentisfree/2026/jul/19/trump-foreign-election-interference?utm_source=lootura.com) — 2026-07-19T11:00:27.000Z
+- [One week, two killings: Trump’s immigration crackdown turns deadly – again](https://www.theguardian.com/news/ng-interactive/2026/jul/19/ice-killings-immigration-crackdown?utm_source=lootura.com) — 2026-07-19T05:00:17.000Z
+- [Majority of US voters link extreme weather to climate crisis, study finds](https://www.theguardian.com/environment/2026/jul/19/climate-crisis-us-voters-study?utm_source=lootura.com) — 2026-07-19T11:00:26.000Z
+- [They Were Charged With Assaulting ICE Agents. The Cases Are Crumbling.](https://www.nytimes.com/2026/07/18/us/ice-assaults-protesters.html?utm_source=lootura.com) — 2026-07-18T19:49:49.000Z

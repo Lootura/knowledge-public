@@ -3,10 +3,16 @@
 > Follow Russia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-19T09:50:13.921Z
+- Updated: 2026-07-19T13:12:59.144Z
 - Canonical: https://atlas.lootura.com/us/place/russia
 
 ## Recent changes
+
+### Russia Batters Kyiv in One of the Largest Missile Assaults of the War
+
+On Saturday, Ukraine hit two warehouses in Russia in strikes that killed at least eight people and injured 62.
+
+Date: 2026-07-19
 
 ### Ukrainian drone attacks on Russia kill at least 9, injure over 60
 
@@ -62,13 +68,7 @@ Ukrainians are demonstrating in Kyiv and senior figures announcing their resigna
 
 Date: 2026-07-16
 
-### How drones are reshaping modern warfare in Ukraine, Middle East
-
-Drones have become a defining feature of the conflict between Russia and Ukraine. They.
-
-Date: 2026-07-16
-
 ## Sources
 
-- [Ukrainian drone attacks on Russia kill at least 9, injure over 60](https://www.cbsnews.com/news/ukraine-russia-war-drone-attacks-wildberries/?utm_source=lootura.com) — 2026-07-18T16:12:37.000Z
-- [Ukrainian drones hit warehouses and other sites across Russia, killing 9 and wounding over 60](https://www.pbs.org/newshour/world/ukrainian-drones-hit-warehouses-and-other-sites-across-russia-killing-9-and-wounding-over-60?utm_source=lootura.com) — 2026-07-18T17:21:36.000Z
+- [Russia launches deadly, massive ballistic missile attack in Kyiv, Ukraine](https://www.cbsnews.com/news/russia-ballistic-missile-attack-kyiv-ukraine/?utm_source=lootura.com) — 2026-07-19T10:21:42.000Z
+- [Russia Batters Kyiv in One of the Largest Missile Assaults of the War](https://www.nytimes.com/2026/07/19/world/europe/russia-ukraine-strikes.html?utm_source=lootura.com) — 2026-07-19T10:52:23.000Z

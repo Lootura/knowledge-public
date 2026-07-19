@@ -3,7 +3,7 @@
 > Follow Canada, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-19T09:50:13.921Z
+- Updated: 2026-07-19T13:12:59.144Z
 - Canonical: https://atlas.lootura.com/us/place/canada
 
 ## Recent changes
@@ -14,6 +14,12 @@ Smoke from hundreds of wildfires burning across Canada and Minnesota is creating
 
 Date: 2026-07-19
 
+### Air quality improving in Northeast, while wildfire smoke hangs over Midwest
+
+Wildfire smoke and unhealthy air persist and shift direction, as Trump demands explanation from Canada. (Image credit: Finn Gomez/Getty Images).
+
+Date: 2026-07-18
+
 ### What the US and Canada Can Expect from the Wildfire Smoke This Weekend
 
 The smoke isn’t going away, but where it affects air quality will shift over the next few days.
@@ -23,12 +29,6 @@ Date: 2026-07-18
 ### Maps show wildfire smoke forecast, air quality alerts in swath of U.S.
 
 Heavy smoke from several large wildfires blazing in Canada and Minnesota is engulfing large swaths of the Midwest and the U.S. East Coast this week.
-
-Date: 2026-07-18
-
-### Air quality improving in Northeast, while wildfire smoke hangs over Midwest
-
-Wildfire smoke and unhealthy air persist and shift direction, as Trump demands explanation from Canada. (Image credit: Finn Gomez/Getty Images).
 
 Date: 2026-07-18
 
@@ -71,6 +71,4 @@ Date: 2026-07-18
 ## Sources
 
 - [Wildfire smoke fouls air across Northeast](https://www.cbsnews.com/video/wildfire-smoke-fouls-air-across-northeast/?utm_source=lootura.com) — 2026-07-19T00:46:52.000Z
-- [Maps show wildfire smoke forecast, air quality alerts in swath of U.S.](https://www.cbsnews.com/news/wildfires-smoke-millions-exposed-midwest-northeast-us/?utm_source=lootura.com) — 2026-07-18T16:44:00.000Z
 - [Air quality improving in Northeast, while wildfire smoke hangs over Midwest](https://www.npr.org/2026/07/18/nx-s1-5899009/us-canada-wildfire-smoke?utm_source=lootura.com) — 2026-07-18T18:15:42.000Z
-- [What the US and Canada Can Expect from the Wildfire Smoke This Weekend](https://www.nytimes.com/2026/07/18/weather/canada-wildfires-smoke-updates-today.html?utm_source=lootura.com) — 2026-07-18T11:11:09.000Z

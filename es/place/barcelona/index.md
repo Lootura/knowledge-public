@@ -3,10 +3,22 @@
 > Sigue la actividad de Barcelona en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-19T09:49:47.811Z
+- Actualizado: 2026-07-19T13:12:39.474Z
 - Canonical: https://atlas.lootura.com/es/place/barcelona
 
 ## Cambios recientes
+
+### Corrompidos por el narco en Cataluña
+
+¿Qué lleva a un inspector de la Policía Nacional a liderar una red de tráfico de cocaína en el puerto de Barcelona? Los motivos sólo los sabe él, pero la consecuencia ha sido una condena de 15 años de cárcel .La denuncia de un arrepentido, tras una descarga, llevó a los Mossos d'Esquadra hasta el entramado que lideraba.
+
+Date: 2026-07-19
+
+### Esta docuserie española en Disney+ cuenta un caso que te dejará impactado y la puedes ver en una tarde
+
+Abandonados , la docuserie española de 4 capítulos que causa sensación en Disney+, narra un suceso desconcertante . Se trata del impactante misterio real de tres hermanos abandonados en una estación de tren en Barcelona en 1984. La producción, en colaboración con Luminol Media y bajo la mirada del periodista Carles Por.
+
+Date: 2026-07-19
 
 ### Los Mossos detienen a una pareja reincidente por el robo de joyas valoradas en 8.000 euros
 
@@ -56,18 +68,7 @@ En una mesa de cuatro comensales en cualquier rincón de Madrid, Barcelona, Sevi
 
 Date: 2026-07-17
 
-### La impresionante casa de Ferran Torres en Gavá Mar: un refugio de lujo con piscina privada, gimnasio y máxima privacidad
-
-Así es la espectacular casa de Ferran Torres a las afueras de Barcelona: un chalet de lujo con piscina, gimnasio, sauna y un enorme jardín.
-
-Date: 2026-07-16
-
-### Maribel Martínez de Murguía: «La felicidad solo se consigue jugando para ganar»
-
-«Estamos dormidos, anestesiados, y nos estamos perdiendo muchas oportunidades». Maribel Martínez de Murguía , campeona olímpica en Barcelona'92 con el equipo nacional de hockey hierba y actualmente entrenadora de talento en empresas y organizaciones, lo tiene claro y pone el ejemplo de la gente que al final de sus días.
-
-Date: 2026-07-15
-
 ## Fuentes
 
-- [Una final para abrazarse y una excepción: las pantallas gigantes que unirán a España](https://www.elmundo.es/deportes/futbol/mundial-de-futbol/2026/07/19/6a5a509321efa059768b458e.html?utm_source=lootura.com) — 2026-07-18T23:00:23.000Z
+- [Corrompidos por el narco en Cataluña](https://www.abc.es/espana/cataluna/corrompidos-narco-20260719010805-nt.html?utm_source=lootura.com) — 2026-07-19T12:36:08.000Z
+- [Esta docuserie española en Disney+ cuenta un caso que te dejará impactado y la puedes ver en una tarde](https://hipertextual.com/cine-television/esta-docuserie-espanola-en-disney-cuenta-un-caso-que-te-dejara-impactado-y-la-puedes-ver-en-una-tarde/?utm_source=lootura.com) — 2026-07-19T13:00:00.000Z

@@ -3,7 +3,7 @@
 > Sigue la actividad de Estados Unidos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-19T09:49:47.811Z
+- Actualizado: 2026-07-19T13:12:39.474Z
 - Canonical: https://atlas.lootura.com/es/place/united-states
 
 ## Cambios recientes
@@ -70,6 +70,5 @@ Date: 2026-07-18
 
 ## Fuentes
 
-- [Alineación posible de España en la final del Mundial ante Argentina](https://www.20minutos.es/deportes/futbol/alineacion-posible-espana-final-mundial-ante-argentina_7015884_0.html?utm_source=lootura.com) — 2026-07-19T06:19:51.000Z
-- [Irán mata a dos soldados de Estados Unidos en un ataque contra una base en Jordania](https://elpais.com/internacional/2026-07-18/iran-deja-en-suspenso-la-tregua-con-estados-unidos-tras-acusarle-de-matar-a-50-personas-en-tres-semanas.html?utm_source=lootura.com) — 2026-07-18T21:57:43.000Z
+- [«Tiene más nervios la gente de fuera que nosotros»](https://www.abc.es/deportes/futbol/mundial/fabian-nervios-gente-20260717000750-nt.html?utm_source=lootura.com) — 2026-07-19T12:19:02.000Z
 - [EEUU ataca Irán una noche más tras la muerte de dos de sus militares en una base en Jordania](https://theobjective.com/internacional/2026-07-19/eeuu-ataca-iran-muerte-dos-militares-base-jordania/?utm_source=lootura.com) — 2026-07-19T06:32:05.000Z

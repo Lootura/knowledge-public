@@ -3,10 +3,16 @@
 > Sigue la actividad de Pedro Sánchez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-19T09:49:47.811Z
+- Actualizado: 2026-07-19T13:12:39.474Z
 - Canonical: https://atlas.lootura.com/es/person/pedro-sanchez
 
 ## Cambios recientes
+
+### Sánchez achaca los incendios de esta semana a la «emergencia climática»
+
+El presidente del Gobierno, Pedro Sánchez, ha advertido de que «negar la emergencia climática no hace que desaparezca», sino que «nos hace más vulnerables», al referirse al incendio de Guadalajara, que ha calcinado ya más de 13.000 hectáreas. Toda mi solidaridad con los vecinos y vecinas afectados por el incendio en Or.
+
+Date: 2026-07-19
 
 ### La presión por la corrupción pasa de Transportes a Interior con Marlaska al frente
 
@@ -62,13 +68,7 @@ El líder del Partido Popular, en su discurso, ha arremetido contra el president
 
 Date: 2026-07-18
 
-### Feijóo no quiso cruzar su línea roja sobre Begoña Gómez y las hijas de Zapatero en el Senado
-
-La mujer de Sánchez ha sido enviada a juicio. Laura y Alba declararán próximamente como imputadas en el caso Plus Ultra. Ninguna ha pasado ni pasar...
-
-Date: 2026-07-18
-
 ## Fuentes
 
-- [La presión por la corrupción pasa de Transportes a Interior con Marlaska al frente](https://www.abc.es/espana/presion-corrupcion-pasa-transportes-interior-marlaska-frente-20260719011226-nt.html?utm_source=lootura.com) — 2026-07-19T08:45:34.000Z
-- [Mandos de la Guardia Civil denuncian una «alteración» en el sistema de ascensos para sancionar a los generales y coroneles díscolos](https://www.abc.es/espana/mandos-guardia-civil-denuncian-alteracion-sistema-ascensos-20260719011815-nt.html?utm_source=lootura.com) — 2026-07-19T08:21:49.000Z
+- [Muchos ministros presionaron a la RFEF para asistir a la final antes de que Sánchez cambiara de opinión y decidiera hacerlo](https://okdiario.com/mundial/decepcion-ministros-sanchez-saber-que-presidente-finalmente-acude-final-del-mundial-19023838?utm_source=lootura.com) — 2026-07-19T12:00:28.000Z
+- [Sánchez achaca los incendios de esta semana a la «emergencia climática»](https://theobjective.com/espana/politica/2026-07-19/sanchez-achaca-incendios-esta-semana-emergencia-climatica/?utm_source=lootura.com) — 2026-07-19T12:24:00.000Z

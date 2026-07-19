@@ -8,9 +8,14 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/maine-senate/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/maine-senate/index.json",
   "description": "Follow Maine Senate, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-14T20:58:39.119Z",
+  "updatedAt": "2026-07-19T13:12:59.144Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "Platner-ally Troy Jackson closing in on Democratic Senate nod in key race to face Collins",
+      "summary": "Former Maine Senate President Troy Jackson appears to be sprinting far ahead of his rivals in the abbreviated race to replace now ex-candidate Graham Platner as the Democratic Senate nominee in the high-stakes showdown to face off with longtime Republican Sen. Susan Collins. Delegates aligned with Jackson won the vast.",
+      "date": "2026-07-19"
+    },
     {
       "title": "Maine Democrats will square off in Senate debate Thursday",
       "summary": "Democrats vying to replace former Maine Senate nominee Graham Platner on the ballot are set to battle on the debate stage Thursday night. News Center Maine confirmed the debate, which will be held at 7 p.m. EDT in Portland and include three former gubernatorial hopefuls — Troy Jackson , Shenna Bellows and Nirav Shah —.",
@@ -57,6 +62,13 @@
       "date": "2026-07-08"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Platner-ally Troy Jackson closing in on Democratic Senate nod in key race to face Collins",
+      "url": "https://www.foxnews.com/politics/platner-ally-troy-jackson-closing-democratic-senate-nod-key-race-face-collins?utm_source=lootura.com",
+      "publishedAt": "2026-07-19T12:33:12.000Z",
+      "sourceId": "lootura-us-fox-news"
+    }
+  ],
+  "evidenceCount": 1
 }

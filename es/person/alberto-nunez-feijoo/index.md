@@ -3,7 +3,7 @@
 > Sigue la actividad de Alberto Núñez Feijóo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-19T09:49:47.811Z
+- Actualizado: 2026-07-19T13:12:39.474Z
 - Canonical: https://atlas.lootura.com/es/person/alberto-nunez-feijoo
 
 ## Cambios recientes
@@ -11,6 +11,12 @@
 ### El PP reduce sus beneficios a la mitad en el último año
 
 Los populares, que compraron dos sedes en Andalucía el año pasado, aumentaron su patrimonio neto de los 81 a los 90,6 millones de euros El PP de Feijóo promete una ambiciosa contrarreforma legal con recortes en derechos sociales si llega al poder El Partido Popular (PP) registró un beneficio neto acumulado de 9,6 millo.
+
+Date: 2026-07-19
+
+### La CEOE pide detectar a «los profesionales» del absentismo y alaba a Feijóo
+
+El presidente de la CEOE , Antonio Garamendi , ha exigido «detectar a los profesionales» en no ir a trabajar y, tras denunciar que «no se hace nada» para arreglar el problema del absentismo, valora que Alberto Núñez Feijóo , «coja el guante y diga que hay un problema». En una entrevista publicada en El Correo , Garamen.
 
 Date: 2026-07-19
 
@@ -62,12 +68,7 @@ En la batalla por llegar a la Moncloa cada voto cuenta y el presidente del Parti
 
 Date: 2026-07-18
 
-### Feijóo no quiso cruzar su línea roja sobre Begoña Gómez y las hijas de Zapatero en el Senado
-
-La mujer de Sánchez ha sido enviada a juicio. Laura y Alba declararán próximamente como imputadas en el caso Plus Ultra. Ninguna ha pasado ni pasar...
-
-Date: 2026-07-18
-
 ## Fuentes
 
 - [El PP reduce sus beneficios a la mitad en el último año](https://www.eldiario.es/politica/pp-reduce-beneficios-mitad-ultimo-ano_1_13391211.html?utm_source=lootura.com) — 2026-07-19T08:51:17.000Z
+- [La CEOE pide detectar a «los profesionales» del absentismo y alaba a Feijóo](https://theobjective.com/economia/2026-07-19/ceoe-pide-detectar-profesionales-absentismo-alaba-feijoo/?utm_source=lootura.com) — 2026-07-19T10:33:30.000Z

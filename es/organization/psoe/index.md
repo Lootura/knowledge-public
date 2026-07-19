@@ -3,10 +3,16 @@
 > Sigue la actividad de Partido Socialista Obrero Español en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-19T09:49:47.811Z
+- Actualizado: 2026-07-19T13:12:39.474Z
 - Canonical: https://atlas.lootura.com/es/organization/psoe
 
 ## Cambios recientes
+
+### Reyes Maroto y Enma López depositan su voto confiando «en la democracia interna» del PSOE
+
+La portavoz del PSOE en el Ayuntamiento de Madrid, Reyes Maroto, y la portavoz adjunta, Enma López, han depositado este domingo su voto en las primarias.
+
+Date: 2026-07-19
 
 ### Más de 30 reuniones con Cerdán y 10.842 mensajes con el exjefe de gabinete de Sánchez
 
@@ -62,12 +68,6 @@ Los investigadores elevan a 323.000 euros los beneficios ilícitos para él y su
 
 Date: 2026-07-17
 
-### Cerdán disparó su gasto en cash mientras Ábalos adjudicaba contratos
-
-El último informe de la Unidad Central Operativa (UCO) de la Guardia Civil complica la estrategia de defensa del ex secretario de Organización del PSOE Santos Cerdán al...
-
-Date: 2026-07-17
-
 ## Fuentes
 
-- [Emiliano García-Page: "El modelo de financiación autonómica es un atentado grave contra la igualdad"](https://www.elmundo.es/espana/2026/07/18/6a5b74dbfc6c8317188b4585.html?utm_source=lootura.com) — 2026-07-18T20:57:47.000Z
+- [Reyes Maroto y Enma López depositan su voto confiando «en la democracia interna» del PSOE](https://theobjective.com/espana/politica/2026-07-19/reyes-maroto-enma-lopez-voto-psoe/?amp=&utm_source=lootura.com) — 2026-07-19T12:30:50.000Z

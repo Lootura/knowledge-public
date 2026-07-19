@@ -3,7 +3,7 @@
 > Sigue la actividad de Artificial intelligence en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: topic
-- Actualizado: 2026-07-19T09:49:47.811Z
+- Actualizado: 2026-07-19T13:12:39.474Z
 - Canonical: https://atlas.lootura.com/es/topic/artificial-intelligence
 
 ## Cambios recientes
@@ -40,4 +40,4 @@ Date: 2026-07-10
 
 ## Fuentes
 
-- [«Alá nos ayuda, la IA también lo hará»: el yihadismo ya usa inteligencia artificial para todo](https://www.abc.es/tecnologia/terroristas-yihadistas-usan-ia-atentar-dios-ayudado-20260716010751-nt.html?utm_source=lootura.com) — 2026-07-19T09:32:37.000Z
+- [La reconstrucción de un gol «perdido» de Pelé de 1959 mediante inteligencia artificial](http://www.microsiervos.com/archivo/ia/reconstruccion-gol-perdido-pele-ia.html?utm_source=lootura.com) — 2026-07-19T11:27:26.000Z
