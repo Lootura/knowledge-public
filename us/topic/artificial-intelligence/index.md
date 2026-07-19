@@ -3,7 +3,7 @@
 > Follow Artificial intelligence, a tracked topic, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: topic
-- Updated: 2026-07-19T16:56:33.807Z
+- Updated: 2026-07-19T20:43:16.868Z
 - Canonical: https://atlas.lootura.com/us/topic/artificial-intelligence
 
 ## Recent changes
@@ -23,6 +23,12 @@ Date: 2026-07-19
 ### Birdfy’s solar-powered smart feeder is down to one of its best prices
 
 It comes with a solar panel so you don’t need to worry about charging as much during the summer. | Image: Netvue Birdfy has kicked off a midyear sale, taking up to 40 percent off a range of its smart bird feeders. One of the best deals is on Netvue’s Birdfy Feeder AI-Powered Smart Bird Feeder with Camera , which has dr.
+
+Date: 2026-07-19
+
+### I hate that I don’t hate this song made with Suno
+
+1010Benja won’t apologize for using AI. | Image: 1010Benja / Instagram I would never go so far as to say there's no place for AI in music (I'm a fan of Holly Herndon, after all). But I generally find music made with generative AI to be offensively boring , especially the outputs of Suno . So I'm having a bit of a tough.
 
 Date: 2026-07-19
 
@@ -62,14 +68,9 @@ Nature, Published online: 16 July 2026; doi:10.1038/d41586-026-01389-9 The Unite
 
 Date: 2026-07-17
 
-### AI‑designed gene‑editing enzymes expand the CRISPR toolbox
-
-Scientists have made many advances using traditional CRISPR technology, especially in medicine, but they are now seeking ways to create genuinely new gene-editing enzymes with properties that have not already evolved naturally. A new study, published in Science, describes a new AI-designed synthetic TnpB enzyme, called.
-
-Date: 2026-07-17
-
 ## Sources
 
-- [AI is set to completely transform cybersecurity — here’s how researchers must prepare](https://www.nature.com/articles/d41586-026-02214-z?utm_source=lootura.com) — 2026-07-19T16:56:37.957Z
-- [A global capital for AI safety is emerging — and it’s not in Silicon Valley](https://www.nature.com/articles/d41586-026-01389-9?utm_source=lootura.com) — 2026-07-19T16:56:37.958Z
+- [AI is set to completely transform cybersecurity — here’s how researchers must prepare](https://www.nature.com/articles/d41586-026-02214-z?utm_source=lootura.com) — 2026-07-19T20:43:20.700Z
+- [A global capital for AI safety is emerging — and it’s not in Silicon Valley](https://www.nature.com/articles/d41586-026-01389-9?utm_source=lootura.com) — 2026-07-19T20:43:20.700Z
+- [I hate that I don’t hate this song made with Suno](https://www.theverge.com/entertainment/967678/1010benja-semiramis-dream-suno-ai-music?utm_source=lootura.com) — 2026-07-19T17:35:54.000Z
 - [Birdfy’s solar-powered smart feeder is down to one of its best prices](https://www.theverge.com/gadgets/967336/birdfy-feeder-ai-powered-smart-bird-feeder-with-camera-deal-sale?utm_source=lootura.com) — 2026-07-19T15:00:00.000Z

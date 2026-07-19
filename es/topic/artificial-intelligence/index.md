@@ -3,7 +3,7 @@
 > Sigue la actividad de Artificial intelligence en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: topic
-- Actualizado: 2026-07-19T16:56:12.315Z
+- Actualizado: 2026-07-19T20:42:54.963Z
 - Canonical: https://atlas.lootura.com/es/topic/artificial-intelligence
 
 ## Cambios recientes
@@ -40,4 +40,4 @@ Date: 2026-07-10
 
 ## Fuentes
 
-- [En China se han puesto de moda las novias IA, y la realidad es que están destrozando el país](https://hipertextual.com/inteligencia-artificial/en-china-se-han-puesto-de-moda-las-novias-ia-y-la-realidad-es-que-estan-destrozando-el-pais/?utm_source=lootura.com) — 2026-07-19T15:00:00.000Z
+- [La gran ofensiva normativa sobre la IA se torna en un laberinto para las empresas](https://www.abc.es/economia/gran-ofensiva-normativa-sobre-ia-torna-laberinto-20260720220738-nt.html?utm_source=lootura.com) — 2026-07-19T20:07:38.000Z

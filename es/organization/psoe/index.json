@@ -8,12 +8,22 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/psoe/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/psoe/index.json",
   "description": "Sigue la actividad de Partido Socialista Obrero Español en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-19T16:56:12.315Z",
+  "updatedAt": "2026-07-19T20:42:54.963Z",
   "aliases": [
     "Partido Socialista",
     "Partido Socialista Obrero Español"
   ],
   "changes": [
+    {
+      "title": "Las bases del PSOE eligen continuismo: Reyes Maroto se impone a Enma López como candidata a la alcaldía de Madrid",
+      "summary": "La exministra de Industria Reyes Maroto volverá a encabezar la candidatura socialista a la alcaldía de Madrid. Y consiguió la validación en las primarias celebradas este domingo: los militantes optaron por la continuidad y la eligieron a ella frente a la concejala Enma López , que se lanzó a la carrera sin el permiso p.",
+      "date": "2026-07-19"
+    },
+    {
+      "title": "Maroto se impone en las primarias del PSOE de Madrid a Enma López y se enfrentará a Almeida",
+      "summary": "Reyes Maroto volverá a medirse a José Luis Martínez-Almeida en las urnas. La exministra será la rival del actual alcalde y dirigente del PP en las elecciones municipales del próximo año tras vencer este domingo en las primarias del PSOE de Madrid a Enma López . La portavoz adjunta de los socialistas en el Ayuntamiento.",
+      "date": "2026-07-19"
+    },
     {
       "title": "Reyes Maroto y Enma López depositan su voto confiando «en la democracia interna» del PSOE",
       "summary": "La portavoz del PSOE en el Ayuntamiento de Madrid, Reyes Maroto, y la portavoz adjunta, Enma López, han depositado este domingo su voto en las primarias.",
@@ -53,25 +63,21 @@
       "title": "La UCO constata que Cerdán casi no retiró dinero desde 2019: lo achaca a una fuente de efectivo \"no originada en cuentas bancarias\"",
       "summary": "La UCO ha aportado finalmente el informe sobre el patrimonio de Santos Cerdán que viene elaborando desde hace un año y ha concluido que el ex número tres del PSOE apenas retiró efectivo en efectivo desde 2019, posiblemente porque contaba con \"una fuente de dinero no originada en cuentas bancarias\" . El atestado, al que.",
       "date": "2026-07-18"
-    },
-    {
-      "title": "Junts descarta reconciliarse con Sánchez tras la amnistía: \"Esto no allana volver con el PSOE. Que cumpla con los catalanes o se vaya\"",
-      "summary": "\"Esta sentencia no llega gracias al PSOE, sino por nuestra persistencia\", alega la dirección de los independentistas para plantar a los socialistas Leer.",
-      "date": "2026-07-17"
-    },
-    {
-      "title": "La UCO desvela que Cerdán intentó comprar un piso de casi un millón con las mordidas a Servinabar",
-      "summary": "Los investigadores elevan a 323.000 euros los beneficios ilícitos para él y su familia y revelan que el exdirigente del PSOE dejó de sacar dinero del cajero cuando Ábalos llegó al ministerio.",
-      "date": "2026-07-17"
     }
   ],
   "sources": [
     {
-      "title": "Reyes Maroto y Enma López depositan su voto confiando «en la democracia interna» del PSOE",
-      "url": "https://theobjective.com/espana/politica/2026-07-19/reyes-maroto-enma-lopez-voto-psoe/?amp=&utm_source=lootura.com",
-      "publishedAt": "2026-07-19T12:30:50.000Z",
+      "title": "Las bases del PSOE eligen continuismo: Reyes Maroto se impone a Enma López como candidata a la alcaldía de Madrid",
+      "url": "https://www.elindependiente.com/espana/2026/07/19/reyes-maroto-gana-primarias-enma-lopez-aparatos-psoe-madrid/?utm_source=lootura.com",
+      "publishedAt": "2026-07-19T18:12:18.000Z",
+      "sourceId": "lootura-es-el-independiente"
+    },
+    {
+      "title": "Maroto se impone en las primarias del PSOE de Madrid a Enma López y se enfrentará a Almeida",
+      "url": "https://theobjective.com/espana/2026-07-19/maroto-primarias-psoe-enma-lopez-almeida/?utm_source=lootura.com",
+      "publishedAt": "2026-07-19T18:22:55.000Z",
       "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 2
 }

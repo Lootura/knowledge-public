@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/san-sebastian/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/san-sebastian/index.json",
   "description": "Sigue la actividad de San Sebastián en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-19T16:56:12.315Z",
+  "updatedAt": "2026-07-19T20:42:54.963Z",
   "aliases": [
     "Donostia"
   ],
@@ -21,6 +21,11 @@
     {
       "title": "El burgalés David Pérez Sañudo estrenará fuera de competición en el Festival de San Sebastián ‘Sacamantecas’, su tercer largometraje",
       "summary": "La película está protagonizada por Antonio de la Torre, Patricia López Arnaiz, Josean Bengoetxea, Eneko Sagardoy y Haizea Carneros, y llegará a las salas comerciales el 6 de noviembre.",
+      "date": "2026-07-19"
+    },
+    {
+      "title": "La hinchada argentina también apoya desde Donostia a su selección",
+      "summary": "Los aficionados han llenado desde primera hora de la tarde la avenida de la Zurriola de banderas y camisetas albicelestes.",
       "date": "2026-07-19"
     },
     {
@@ -57,11 +62,6 @@
       "title": "El Muelle, Gros, Amara Berri y Añorga celebran las fiestas del Carmen en Donostia",
       "summary": "En el puerto donostiarra realizan este jueves una ofrenda a Aita Mari y en Amara Berri homenajean a los pescateros y pescateras del barrio.",
       "date": "2026-07-15"
-    },
-    {
-      "title": "«Mantenemos la misma ilusión por ganar»",
-      "summary": "Lucía Canal y Naroa Landa, remeras de Donostia Arraun Lagunak, celebran haber ondeado todas las banderas en un sobresaliente inicio de temporada.",
-      "date": "2026-07-13"
     }
   ],
   "sources": [
@@ -78,6 +78,12 @@
       "sourceId": "lootura-es-el-diario-vasco"
     },
     {
+      "title": "La hinchada argentina también apoya desde Donostia a su selección",
+      "url": "https://www.diariovasco.com/deportes/futbol/mundial/hinchada-argentina-calienta-final-mundial-donostia-20260719202745-nt_amp.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-19T18:27:45.000Z",
+      "sourceId": "lootura-es-el-diario-vasco"
+    },
+    {
       "title": "El PNV de Esteban reafirma su entente soberanista con Bildu y usa como arietes del \"derecho a decidir\" a 200 alcaldes vascos",
       "url": "https://www.elmundo.es/pais-vasco/2026/07/19/6a5cd398e85ece742a8b4584.html?utm_source=lootura.com",
       "publishedAt": "2026-07-19T14:06:47.000Z",
@@ -90,5 +96,5 @@
       "sourceId": "lootura-es-la-razon"
     }
   ],
-  "evidenceCount": 4
+  "evidenceCount": 5
 }

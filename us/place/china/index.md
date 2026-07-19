@@ -3,7 +3,7 @@
 > Follow China, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-19T16:56:33.807Z
+- Updated: 2026-07-19T20:43:16.868Z
 - Canonical: https://atlas.lootura.com/us/place/china
 
 ## Recent changes
@@ -71,4 +71,4 @@ Date: 2026-07-17
 ## Sources
 
 - [Becker: "Hardly a week goes by" without Trump administration threatening election official arrests](https://www.cbsnews.com/video/becker-hardly-a-week-goes-by-without-trump-administration-threatening-election-official-arrests/?utm_source=lootura.com) — 2026-07-19T16:31:08.000Z
-- [US politicians push agencies to restrict research collaboration with China](https://www.nature.com/articles/d41586-026-02226-9?utm_source=lootura.com) — 2026-07-19T16:56:37.958Z
+- [US politicians push agencies to restrict research collaboration with China](https://www.nature.com/articles/d41586-026-02226-9?utm_source=lootura.com) — 2026-07-19T20:43:20.700Z

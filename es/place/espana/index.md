@@ -3,7 +3,7 @@
 > Sigue la actividad de España en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-19T16:56:12.315Z
+- Actualizado: 2026-07-19T20:42:54.963Z
 - Canonical: https://atlas.lootura.com/es/place/espana
 
 ## Cambios recientes
@@ -14,15 +14,21 @@ El presidente de la Junta de Comunidades de Castilla-La Mancha, Emiliano García
 
 Date: 2026-07-19
 
-### El Tribunal Supremo avisa a las empresas: pagar la indemnización ya no basta si despides por este motivo
-
-El Tribunal Supremo ha dictado una sentencia que promete sacudir los cimientos de las relaciones laborales en España. El Alto Tribunal ha declarado nulo el despido de una empleada que se negó a trabajar los sábados , a pesar de que la empresa intentó zanjar el conflicto utilizando una estrategia muy habitual: entregarl.
-
-Date: 2026-07-19
-
 ### España insiste en Planas para la FAO pese a la división europea sobre un candidato único
 
 España ha iniciado la campaña para situar al ministro de Agricultura, Pesca y Alimentación, Luis Planas , al frente de la Organización de Naciones Unidas para la Alimentación y la Agricultura (FAO) , una carrera de largo recorrido que culminará con la elección prevista para la última semana de junio de 2027 y que arran.
+
+Date: 2026-07-19
+
+### «No tenemos manera de gestionar esta avalancha de gente»
+
+En Bujalaro, pueblo dentro de lo que llaman ' la España vacía' , no llegan a la treintena de vecinos durante buena parte del año. Ahora, en julio, los parroquianos empiezan a multiplicarse con el éxodo al pueblo por vacaciones. En el Bar Moreno, una antigua peña atlética con trofeos de caza y antiguas imágenes de futbo.
+
+Date: 2026-07-19
+
+### El Tribunal Supremo avisa a las empresas: pagar la indemnización ya no basta si despides por este motivo
+
+El Tribunal Supremo ha dictado una sentencia que promete sacudir los cimientos de las relaciones laborales en España. El Alto Tribunal ha declarado nulo el despido de una empleada que se negó a trabajar los sábados , a pesar de que la empresa intentó zanjar el conflicto utilizando una estrategia muy habitual: entregarl.
 
 Date: 2026-07-19
 
@@ -62,16 +68,10 @@ Sigue en directo la última hora de los incendios forestales activos en España.
 
 Date: 2026-07-19
 
-### Mbappé pone el listón imposible a Messi por la Bota de Oro: deberá marcar un hat-trick contra España
-
-Kylian Mbappé dio un paso de gigante hacia la Bota de Oro con su doblete ante Inglaterra y se lo pone todavía más difícil a Leo Messi. Ambos llegaban empatados a goles a esta última ronda, pero con el argentino liderando por una asistencia. Los dos tantos anotados por el jugador del Real Madrid en el partido por el ter.
-
-Date: 2026-07-19
-
 ## Fuentes
 
-- [Colón, abarrotada de aficionados que creen en el triunfo: "Somos mejores y se lo vamos a demostrar a Messi"](https://www.20minutos.es/deportes/futbol/colon-se-convierte-gran-corazon-final-mundial-asi-se-viven-ya-directo-las-horas-previas_7016399_0.html?utm_source=lootura.com) — 2026-07-19T15:25:28.000Z
+- [España tiene dos claras y se repone al juego sucio de Argentina](https://www.20minutos.es/deportes/futbol/espana-argentina-final-mundial-2026-directo-ultima-hora-partido-alineaciones-goles-resultados_7016308_6.html?utm_source=lootura.com) — 2026-07-19T18:28:59.000Z
+- [«No tenemos manera de gestionar esta avalancha de gente»](https://www.abc.es/ciencia/eclipse-agosto-llenara-espana-vaciada-necesitamos-promocion-20260714010735-nt.html?utm_source=lootura.com) — 2026-07-19T20:24:09.000Z
 - [El último paso para alcanzar la segunda estrella](https://www.elcorreo.com/deportes/futbol/mundial/ultimo-paso-alcanzar-segunda-estrella-20260718002157-ntrc_amp.html?utm_source=lootura.com) — 2026-07-18T22:21:57.000Z
-- [El Tribunal Supremo avisa a las empresas: pagar la indemnización ya no basta si despides por este motivo](https://www.larazon.es/actualidad/tribunal-supremo-avisa-empresas-pagar-indemnizacion-basta-despides-este-motivo-b50m_202607196a5cf8511db8de040997fb07.html?utm_source=lootura.com) — 2026-07-19T16:16:17.000Z
-- [Incendios en España, en directo hoy: última hora de los fuegos activos, evolución y situación en Aragón, Castilla-La Mancha, Madrid y Andalucía](https://www.larazon.es/sociedad/incendios-espana-directo-hoy-ultima-hora-fuegos-activos-evolucion-situacion-aragon-castillala-mancha-madrid-andalucia-b50m_202607196a5bbe1b0500ab412c9d4ee3.html?utm_source=lootura.com) — 2026-07-19T16:28:03.000Z
+- [Incendios en España, en directo hoy: última hora de los fuegos activos, evolución y situación en Aragón, Castilla-La Mancha, Madrid y Andalucía](https://www.larazon.es/sociedad/incendios-espana-directo-hoy-ultima-hora-fuegos-activos-evolucion-situacion-aragon-castillala-mancha-madrid-andalucia-b50m_202607196a5bbe1b0500ab412c9d4ee3.html?utm_source=lootura.com) — 2026-07-19T20:04:11.000Z
 - [España insiste en Planas para la FAO pese a la división europea sobre un candidato único](https://theobjective.com/espana/politica/2026-07-19/espana-insiste-planas-fao-europea-candidato-unico/?utm_source=lootura.com) — 2026-07-19T13:25:27.000Z

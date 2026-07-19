@@ -37,19 +37,6 @@
       "date": "2026-07-18"
     }
   ],
-  "sources": [
-    {
-      "title": "Siete detenidos y 14 investigados por extorsionar a usuarios de páginas de contactos en Ciudad Real",
-      "url": "https://www.elconfidencial.com/espana/2026-07-19/sextorsion-extorsion-guardia-civil-1tps_4392400/?utm_source=lootura.com",
-      "publishedAt": "2026-07-19T11:35:00.000Z",
-      "sourceId": "lootura-es-el-confidencial"
-    },
-    {
-      "title": "Desmantelada una red de ‘sextorsión’ con siete detenidos y 14 investigados en Ciudad Real",
-      "url": "https://theobjective.com/sociedad/suceso/2026-07-19/desmantelada-red-sextorsion-ciudad-real/?utm_source=lootura.com",
-      "publishedAt": "2026-07-19T11:00:26.000Z",
-      "sourceId": "lootura-es-the-objective"
-    }
-  ],
-  "evidenceCount": 2
+  "sources": [],
+  "evidenceCount": 0
 }

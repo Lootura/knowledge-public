@@ -70,5 +70,4 @@ Date: 2026-07-14
 
 ## Fuentes
 
-- [Olvídate de iCloud y Google Drive: hay un truco para usar los 10 TB gratis de O2 sin ser cliente](https://hipertextual.com/mobile/olvidate-de-icloud-y-google-drive-hay-un-truco-para-usar-los-10-tb-gratis-de-o2-sin-ser-cliente/?utm_source=lootura.com) — 2026-07-19T11:00:00.000Z
-- [Tu próximo Apple Watch no va a tener esta actualización por culpa de la UE: ¿es tan dramático como lo pintan?](https://hipertextual.com/apple/tu-proximo-apple-watch-no-va-a-tener-esta-actualizacion-por-culpa-de-la-ue-es-tan-dramatico-como-lo-pintan/?utm_source=lootura.com) — 2026-07-19T09:00:00.000Z
+No public source links.

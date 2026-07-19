@@ -3,7 +3,7 @@
 > Follow Ukraine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-19T16:56:33.807Z
+- Updated: 2026-07-19T20:43:16.868Z
 - Canonical: https://atlas.lootura.com/us/place/ukraine
 
 ## Recent changes
@@ -71,4 +71,4 @@ Date: 2026-07-17
 ## Sources
 
 - [Russian attacks on Ukrainian cities kill 6 and expose defense gaps](https://www.cbsnews.com/news/russia-ballistic-missile-attack-kyiv-ukraine/?utm_source=lootura.com) — 2026-07-19T15:38:12.000Z
-- [Russia Batters Kyiv in One of the Largest Missile Assaults of the War](https://www.nytimes.com/2026/07/19/world/europe/russia-ukraine-strikes.html?utm_source=lootura.com) — 2026-07-19T16:33:44.000Z
+- [Russia Batters Kyiv in One of the Largest Missile Assaults of the War](https://www.nytimes.com/2026/07/19/world/europe/russia-ukraine-strikes.html?utm_source=lootura.com) — 2026-07-19T18:26:40.000Z

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/graham-platner/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/graham-platner/index.json",
   "description": "Follow Graham Platner, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-19T16:56:33.807Z",
+  "updatedAt": "2026-07-19T20:43:16.868Z",
   "aliases": [
     "Platner"
   ],
@@ -26,6 +26,11 @@
     {
       "title": "In Maine, Bellows Ends Senate Bid, as Jackson Builds Momentum",
       "summary": "The Maine secretary of state ended her run in a crowded race to replace Graham Platner as the Democratic Senate nominee.",
+      "date": "2026-07-19"
+    },
+    {
+      "title": "In Maine Senate Race, Jackson Sprints Ahead of Pack, as Bellows Drops Out",
+      "summary": "Troy Jackson, a progressive, solidified his edge over his rivals in an abbreviated nominating contest to replace Graham Platner. Shenna Bellows, another candidate, bowed out.",
       "date": "2026-07-19"
     },
     {
@@ -57,11 +62,6 @@
       "title": "Inside Maine Democrats’ Search for a New Senate Nominee After Graham Platner’s Exit",
       "summary": "Democratic candidates are hastily building bare-bones campaigns and forgoing traditional outreach like TV ads in a sprint to appeal to party delegates, rather than Maine voters.",
       "date": "2026-07-15"
-    },
-    {
-      "title": "Maine Democrats aren’t coalescing behind a Graham Platner replacement",
-      "summary": "Maine Democrats want to hold onto Graham Platner’s progressive base — but they can’t agree on who is best positioned to carry the torch. That indecision is creating a fractured field heading into an unpredictable late July nominating convention for one of the most important Senate races on the 2026 map. Now, various ca.",
-      "date": "2026-07-15"
     }
   ],
   "sources": [
@@ -70,6 +70,12 @@
       "url": "https://www.politico.com/news/2026/07/19/shenna-bellows-drops-out-maine-senate-01004452?utm_source=lootura.com",
       "publishedAt": "2026-07-19T15:56:06.000Z",
       "sourceId": "lootura-us-politico"
+    },
+    {
+      "title": "In Maine Senate Race, Jackson Sprints Ahead of Pack, as Bellows Drops Out",
+      "url": "https://www.nytimes.com/2026/07/19/us/politics/maine-senate-bellows-jackson-platner-democrats.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-19T18:31:23.000Z",
+      "sourceId": "lootura-us-the-new-york-times-politics"
     },
     {
       "title": "In Maine, Bellows Ends Senate Bid, as Jackson Builds Momentum",
@@ -84,5 +90,5 @@
       "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 4
 }

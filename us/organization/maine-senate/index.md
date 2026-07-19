@@ -3,10 +3,22 @@
 > Follow Maine Senate, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-07-19T13:12:59.144Z
+- Updated: 2026-07-19T20:43:16.868Z
 - Canonical: https://atlas.lootura.com/us/organization/maine-senate
 
 ## Recent changes
+
+### Troy Jackson has effectively secured the Maine Senate Democratic nomination
+
+SANFORD, Maine — Troy Jackson has effectively secured the Democratic nomination in the crucial Maine Senate race, winning the support of a majority of the state delegates who will officially nominate a candidate next weekend. While they are not legally bound to support him, nearly two-thirds of the 601 delegates have c.
+
+Date: 2026-07-19
+
+### In Maine Senate Race, Jackson Sprints Ahead of Pack, as Bellows Drops Out
+
+Troy Jackson, a progressive, solidified his edge over his rivals in an abbreviated nominating contest to replace Graham Platner. Shenna Bellows, another candidate, bowed out.
+
+Date: 2026-07-19
 
 ### Platner-ally Troy Jackson closing in on Democratic Senate nod in key race to face Collins
 
@@ -56,18 +68,7 @@ Maine Democrats are facing a ticking clock to find a new candidate to go up agai
 
 Date: 2026-07-10
 
-### Does a Sex Assault Claim Kill a Political Career? It Depends.
-
-The swift exit of Graham Platner from the Maine Senate race followed Eric Swalwell’s similar exit from the California governor’s race, but Republicans have taken a different tack.
-
-Date: 2026-07-09
-
-### Morning news brief
-
-Trump says ceasefire between the U.S. and Iran is over, pressure mounts for Graham Platner to drop out of Maine Senate race, IOC opens door for Russian athletes to compete in 2028 Games.
-
-Date: 2026-07-08
-
 ## Sources
 
-No public source links.
+- [Troy Jackson has effectively secured the Maine Senate Democratic nomination](https://www.politico.com/news/2026/07/19/troy-jackson-likely-maine-senate-nominee-platner-01004490?utm_source=lootura.com) — 2026-07-19T17:55:37.000Z
+- [In Maine Senate Race, Jackson Sprints Ahead of Pack, as Bellows Drops Out](https://www.nytimes.com/2026/07/19/us/politics/maine-senate-bellows-jackson-platner-democrats.html?utm_source=lootura.com) — 2026-07-19T18:31:23.000Z

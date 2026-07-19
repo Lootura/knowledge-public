@@ -70,4 +70,4 @@ Date: 2026-07-18
 
 ## Fuentes
 
-- [La CEOE pide detectar a «los profesionales» del absentismo y alaba a Feijóo](https://theobjective.com/economia/2026-07-19/ceoe-pide-detectar-profesionales-absentismo-alaba-feijoo/?utm_source=lootura.com) — 2026-07-19T10:33:30.000Z
+No public source links.

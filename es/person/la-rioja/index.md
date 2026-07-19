@@ -22,5 +22,4 @@ Date: 2026-07-19
 
 ## Fuentes
 
-- [Luis de la Fuente: “No vendo humo, el jugador se motiva con mi comportamiento”](https://elpais.com/deportes/mundial-futbol/2026-07-19/luis-de-la-fuente-no-vendo-humo-el-jugador-se-motiva-con-mi-comportamiento.html?utm_source=lootura.com) — 2026-07-19T03:30:01.000Z
-- [El aumento del calor activa avisos en diez comunidades autónomas: hasta 40 grados y tormentas](https://www.eldiario.es/sociedad/aumento-calor-activa-avisos-diez-comunidades-autonomas-40-grados-tormentas_1_13391422.html?utm_source=lootura.com) — 2026-07-19T10:20:18.000Z
+No public source links.

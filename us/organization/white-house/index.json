@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/white-house/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/white-house/index.json",
   "description": "Follow White House, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-19T16:56:33.807Z",
+  "updatedAt": "2026-07-19T20:43:16.868Z",
   "aliases": [],
   "changes": [
     {
       "title": "Face the Nation: Hochul, Homan, Moynihan",
       "summary": "Missed the second half of the show? New York Gov. Kathy Hochul, White House border czar Tom Homan and Bank of America CEO Brian Moynihan join the show.",
+      "date": "2026-07-19"
+    },
+    {
+      "title": "Homan says \"I think body cameras are the way to go\" after ICE shootings",
+      "summary": "White House border czar Tom Homan said \"I think body cameras are the way to go\" after fatal shootings by federal immigration officers in Texas and Maine earlier this month.",
       "date": "2026-07-19"
     },
     {
@@ -55,11 +60,6 @@
       "title": "Trump Has Dismantled Election Security Efforts. Here’s How.",
       "summary": "Since his return to the White House, the lead federal partner for states on election security has lost around a third of its work force.",
       "date": "2026-07-17"
-    },
-    {
-      "title": "Fact checking Trump speech on election security",
-      "summary": "President Trump is delivering a speech on election security Thursday night at the White House.",
-      "date": "2026-07-17"
     }
   ],
   "sources": [
@@ -68,7 +68,13 @@
       "url": "https://www.cbsnews.com/video/face-the-nation-hochul-homan-moynihan/?utm_source=lootura.com",
       "publishedAt": "2026-07-19T16:14:07.000Z",
       "sourceId": "lootura-us-cbs-news"
+    },
+    {
+      "title": "Homan says \"I think body cameras are the way to go\" after ICE shootings",
+      "url": "https://www.cbsnews.com/news/tom-homan-trump-border-czar-ice-shootings-maine-texas/?utm_source=lootura.com",
+      "publishedAt": "2026-07-19T17:43:54.000Z",
+      "sourceId": "lootura-us-cbs-news"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 2
 }

@@ -3,7 +3,7 @@
 > Sigue la actividad de San Sebastián en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-19T16:56:12.315Z
+- Actualizado: 2026-07-19T20:42:54.963Z
 - Canonical: https://atlas.lootura.com/es/place/san-sebastian
 
 ## Cambios recientes
@@ -17,6 +17,12 @@ Date: 2026-07-19
 ### El burgalés David Pérez Sañudo estrenará fuera de competición en el Festival de San Sebastián ‘Sacamantecas’, su tercer largometraje
 
 La película está protagonizada por Antonio de la Torre, Patricia López Arnaiz, Josean Bengoetxea, Eneko Sagardoy y Haizea Carneros, y llegará a las salas comerciales el 6 de noviembre.
+
+Date: 2026-07-19
+
+### La hinchada argentina también apoya desde Donostia a su selección
+
+Los aficionados han llenado desde primera hora de la tarde la avenida de la Zurriola de banderas y camisetas albicelestes.
 
 Date: 2026-07-19
 
@@ -62,15 +68,10 @@ En el puerto donostiarra realizan este jueves una ofrenda a Aita Mari y en Amara
 
 Date: 2026-07-15
 
-### «Mantenemos la misma ilusión por ganar»
-
-Lucía Canal y Naroa Landa, remeras de Donostia Arraun Lagunak, celebran haber ondeado todas las banderas en un sobresaliente inicio de temporada.
-
-Date: 2026-07-13
-
 ## Fuentes
 
 - [La rebelión fracasa en Donostia pero la ciudad cae bajo un clima prebélico](https://www.diariovasco.com/gipuzkoa/especial-alzamiento-militar-90-aniversario-julio-sangre-gipuzkoa-rebelion-san-sebastian-20260719102733-nt.html?utm_source=lootura.com) — 2026-07-18T22:09:37.000Z
 - [El Hospital Donostia realiza una operación pionera en bebés con problemas en el riñón](https://www.diariovasco.com/sociedad/salud/hospital-donostia-realiza-primera-laparoscopia-renal-lactantes-20260719172257-nt_amp.html?utm_source=lootura.com) — 2026-07-18T22:07:11.000Z
+- [La hinchada argentina también apoya desde Donostia a su selección](https://www.diariovasco.com/deportes/futbol/mundial/hinchada-argentina-calienta-final-mundial-donostia-20260719202745-nt_amp.html?utm_source=lootura.com) — 2026-07-19T18:27:45.000Z
 - [El PNV de Esteban reafirma su entente soberanista con Bildu y usa como arietes del "derecho a decidir" a 200 alcaldes vascos](https://www.elmundo.es/pais-vasco/2026/07/19/6a5cd398e85ece742a8b4584.html?utm_source=lootura.com) — 2026-07-19T14:06:47.000Z
 - [El burgalés David Pérez Sañudo estrenará fuera de competición en el Festival de San Sebastián ‘Sacamantecas’, su tercer largometraje](https://www.larazon.es/castilla-y-leon/burgales-david-perez-sanudo-estrenara-fuera-competicion-festival-san-sebastian-sacamantecas-tercer-largometraje_202607196a5cfb991db8de040997ffca.html?outputType=amp&utm_source=lootura.com) — 2026-07-19T16:30:17.000Z

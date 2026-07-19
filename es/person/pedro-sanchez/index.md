@@ -3,10 +3,16 @@
 > Sigue la actividad de Pedro Sánchez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-19T16:56:12.315Z
+- Actualizado: 2026-07-19T20:42:54.963Z
 - Canonical: https://atlas.lootura.com/es/person/pedro-sanchez
 
 ## Cambios recientes
+
+### Puigdemont no apoyará los Presupuestos de Sánchez: "Madrid recibe una sobreinversión que multiplica la de los catalanes"
+
+El expresidente de la Generalitat y líder de Junts, Carles Puigdemont , ha cerrado este domingo la puerta a respaldar unos futuros Presupuestos Generales del Estado mientras el Gobierno de Pedro Sánchez no revierta lo que considera un trato discriminatorio hacia Cataluña en materia de inversión pública. El dirigente in.
+
+Date: 2026-07-19
 
 ### Sánchez achaca los incendios de esta semana a la «emergencia climática»
 
@@ -62,13 +68,7 @@ Date: 2026-07-18
 
 Date: 2026-07-18
 
-### Feijóo pide "decencia" en una España "harta de mentiras": "El sanchismo ha sido condenado en todas sus formas"
-
-El líder del Partido Popular, en su discurso, ha arremetido contra el presidente del Gobierno, Pedro Sánchez: "Aún hay más de una decena de tramas en los juzgados".
-
-Date: 2026-07-18
-
 ## Fuentes
 
-- [La final también se juega en un palco al rojo vivo: Trump, Pedro Sánchez, los reyes, Sheinbaum...](https://www.20minutos.es/deportes/final-tambien-se-jugara-un-palco-rojo-vivo-trump-pedro-sanchez-los-reyes-sheinbaum_7016413_0.html?utm_source=lootura.com) — 2026-07-19T15:20:58.000Z
-- [Sánchez achaca los incendios de esta semana a la «emergencia climática»](https://theobjective.com/espana/politica/2026-07-19/sanchez-achaca-incendios-esta-semana-emergencia-climatica/?utm_source=lootura.com) — 2026-07-19T12:24:00.000Z
+- [La foto más esperada: el apretón de manos entre Sánchez y Trump en la final](https://www.20minutos.es/deportes/futbol/foto-mas-esperada-apreton-manos-entre-pedro-sanchez-donald-trump-final-mundial_7016491_0.html?utm_source=lootura.com) — 2026-07-19T19:40:51.000Z
+- [Puigdemont no apoyará los Presupuestos de Sánchez: "Madrid recibe una sobreinversión que multiplica la de los catalanes"](https://www.elindependiente.com/espana/2026/07/19/puigdemont-no-apoyara-los-presupuestos-de-sanchez-madrid-recibe-una-sobreinversion-que-multiplica-la-de-los-catalanes/?utm_source=lootura.com) — 2026-07-19T17:33:43.000Z

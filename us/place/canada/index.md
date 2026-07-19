@@ -3,7 +3,7 @@
 > Follow Canada, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-19T16:56:33.807Z
+- Updated: 2026-07-19T20:43:16.868Z
 - Canonical: https://atlas.lootura.com/us/place/canada
 
 ## Recent changes
@@ -70,5 +70,4 @@ Date: 2026-07-18
 
 ## Sources
 
-- [Air quality improving in Northeast, while wildfire smoke hangs over Midwest](https://www.npr.org/2026/07/18/nx-s1-5899009/us-canada-wildfire-smoke?utm_source=lootura.com) — 2026-07-18T18:15:42.000Z
 - [Are workplaces safer? Harassment and violence persist, survey finds](https://phys.org/news/2026-07-workplaces-safer-violence-persist-survey.html?utm_source=lootura.com) — 2026-07-19T14:00:01.000Z

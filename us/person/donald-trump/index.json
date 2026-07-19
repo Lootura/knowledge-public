@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/donald-trump/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/donald-trump/index.json",
   "description": "Follow Donald Trump, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-19T16:56:33.807Z",
+  "updatedAt": "2026-07-19T20:43:16.868Z",
   "aliases": [
     "President Donald Trump",
     "President Trump",
@@ -46,6 +46,11 @@
       "date": "2026-07-19"
     },
     {
+      "title": "Becker: \"Hardly a week goes by\" without Trump administration threatening election official arrests",
+      "summary": "CBS News contributors David Becker and Chris Krebs joined \"Face the Nation with Margaret Brennan\" in the wake of President Trump's primetime speech last week accusing China of accessing election data. Meanwhile, Homeland Security Secretary Markwayne Mullin said that if election officials do not secure elections, they c.",
+      "date": "2026-07-19"
+    },
+    {
       "title": "Trump is invoking foreign election interference to justify his own | Jamil Smith",
       "summary": "The president no longer treats the people who defeated him as voters. He treats them as suspects There is a version of this country in which Donald Trump tells Americans the truth he has been handed: that their elections are secure. Once, he apparently wanted to. The Atlantic reported after Thursday night’s address tha.",
       "date": "2026-07-19"
@@ -53,11 +58,6 @@
     {
       "title": "Majority of US voters link extreme weather to climate crisis, study finds",
       "summary": "Top Democrat says findings show public ‘way ahead of the politicians’ as Trump dismisses global heating as ‘hoax’ Amid a summer of dangerous heat , drought and floods , a majority of Americans are connecting increasingly severe weather to the climate crisis, new polling shows, despite efforts by Donald Trump to dismiss.",
-      "date": "2026-07-19"
-    },
-    {
-      "title": "Becker: \"Hardly a week goes by\" without Trump administration threatening election official arrests",
-      "summary": "CBS News contributors David Becker and Chris Krebs joined \"Face the Nation with Margaret Brennan\" in the wake of President Trump's primetime speech last week accusing China of accessing election data. Meanwhile, Homeland Security Secretary Markwayne Mullin said that if election officials do not secure elections, they c.",
       "date": "2026-07-19"
     },
     {
@@ -72,18 +72,6 @@
       "url": "https://www.cbsnews.com/video/becker-hardly-a-week-goes-by-without-trump-administration-threatening-election-official-arrests/?utm_source=lootura.com",
       "publishedAt": "2026-07-19T16:31:08.000Z",
       "sourceId": "lootura-us-cbs-news"
-    },
-    {
-      "title": "Trump border czar says \"I think body cameras are the way to go\" after deadly ICE shootings",
-      "url": "https://www.cbsnews.com/video/trump-border-czar-says-i-think-body-cameras-are-the-way-to-go-after-deadly-ice-shootings/?utm_source=lootura.com",
-      "publishedAt": "2026-07-19T16:15:27.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
-    {
-      "title": "Air quality improving in Northeast, while wildfire smoke hangs over Midwest",
-      "url": "https://www.npr.org/2026/07/18/nx-s1-5899009/us-canada-wildfire-smoke?utm_source=lootura.com",
-      "publishedAt": "2026-07-18T18:15:42.000Z",
-      "sourceId": "lootura-us-npr"
     },
     {
       "title": "$600,000 for a presidential pardon? Inside the growing industry of clemency lobbying",
@@ -110,23 +98,17 @@
       "sourceId": "lootura-us-npr-politics"
     },
     {
-      "title": "Trump is invoking foreign election interference to justify his own | Jamil Smith",
-      "url": "https://www.theguardian.com/commentisfree/2026/jul/19/trump-foreign-election-interference?utm_source=lootura.com",
-      "publishedAt": "2026-07-19T11:00:27.000Z",
-      "sourceId": "lootura-us-the-guardian-us"
+      "title": "Trump Gutted Civil Rights Agency, Stifling U.S. Scrutiny of Workplace Bias",
+      "url": "https://www.nytimes.com/2026/07/19/us/politics/trump-gutted-civil-rights-agency-stifling-us-scrutiny-of-workplace-bias.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-19T09:00:13.000Z",
+      "sourceId": "lootura-us-the-new-york-times-politics"
     },
     {
-      "title": "Majority of US voters link extreme weather to climate crisis, study finds",
-      "url": "https://www.theguardian.com/environment/2026/jul/19/climate-crisis-us-voters-study?utm_source=lootura.com",
-      "publishedAt": "2026-07-19T11:00:26.000Z",
-      "sourceId": "lootura-us-the-guardian-us"
-    },
-    {
-      "title": "They Were Charged With Assaulting ICE Agents. The Cases Are Crumbling.",
-      "url": "https://www.nytimes.com/2026/07/18/us/ice-assaults-protesters.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-18T19:49:49.000Z",
-      "sourceId": "lootura-us-the-new-york-times"
+      "title": "Trump Blasts ‘Sanctuary’ States, but Many Still Aid Deportations",
+      "url": "https://www.nytimes.com/2026/07/19/us/politics/sanctuary-states-deportation-aid.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-19T09:00:24.000Z",
+      "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 13
+  "evidenceCount": 7
 }

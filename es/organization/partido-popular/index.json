@@ -8,11 +8,21 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/partido-popular/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/partido-popular/index.json",
   "description": "Sigue la actividad de Partido Popular en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-19T16:56:12.315Z",
+  "updatedAt": "2026-07-19T20:42:54.963Z",
   "aliases": [
     "PP"
   ],
   "changes": [
+    {
+      "title": "«Antes de que se carguen la pantalla, me llevan por delante», dice la secretaria general del PP vasco",
+      "summary": "Esther Martínez, portavoz y candidata a la Alcaldía en Bilbao, se enfrenta a los radicales que querían boicotear la televisión gigante del parque.",
+      "date": "2026-07-19"
+    },
+    {
+      "title": "Maroto se impone en las primarias del PSOE de Madrid a Enma López y se enfrentará a Almeida",
+      "summary": "Reyes Maroto volverá a medirse a José Luis Martínez-Almeida en las urnas. La exministra será la rival del actual alcalde y dirigente del PP en las elecciones municipales del próximo año tras vencer este domingo en las primarias del PSOE de Madrid a Enma López . La portavoz adjunta de los socialistas en el Ayuntamiento.",
+      "date": "2026-07-19"
+    },
     {
       "title": "El PP pide que Marlaska y Mercedes González comparezcan por presuntas presiones políticas",
       "summary": "Los populares presentan una batería de preguntas parlamentarias para conocer si se ha abierto una investigación interna.",
@@ -52,25 +62,27 @@
       "title": "Feijóo anuncia a los 50 candidatos a las alcaldías de provincia, entre ellos Gema Igual",
       "summary": "El presidente nacional del PP, Alberto Núñez Feijóo , presentará este sábado en Santiago de Compostela a los 50 cabezas de lista para las alcaldías de capitales de provincia . Mantendrá a los 30 actuales regidores -entre ellos la alcaldesa de Santander, Gema Igual - y renovará 11 candidaturas en las 20 capitales donde.",
       "date": "2026-07-18"
-    },
-    {
-      "title": "Feijóo pide \"decencia\" en una España \"harta de mentiras\": \"El sanchismo ha sido condenado en todas sus formas\"",
-      "summary": "El líder del Partido Popular, en su discurso, ha arremetido contra el presidente del Gobierno, Pedro Sánchez: \"Aún hay más de una decena de tramas en los juzgados\".",
-      "date": "2026-07-18"
-    },
-    {
-      "title": "Feijóo presenta este sábado en Santiago a los candidatos del PP a las capitales de provincia",
-      "summary": "El líder del Partido Popular , Alberto Núñez Feijóo , presenta este sábado, día 18 de julio, a los candidatos de su formación a las capitales de provincia de toda España de cara a las elecciones municipales del 2027 . El acto tendrá lugar en la Cidade da Cultura de Santiago de Compostela y en él también intervendrá el.",
-      "date": "2026-07-18"
     }
   ],
   "sources": [
     {
-      "title": "El PP pide que Marlaska y Mercedes González comparezcan por presuntas presiones políticas",
-      "url": "https://theobjective.com/espana/politica/2026-07-19/pp-marlaska-mercedes-gonzalez/?amp=&utm_source=lootura.com",
-      "publishedAt": "2026-07-19T08:57:09.000Z",
+      "title": "Radicales abertzales intentan sabotear la pantalla gigante en Bilbao",
+      "url": "https://www.abc.es/deportes/futbol/mundial/radicales-abertzales-intentan-sabotear-pantalla-gigante-final-20260719214737-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-19T20:05:46.000Z",
+      "sourceId": "lootura-es-abc"
+    },
+    {
+      "title": "«Antes de que se carguen la pantalla, me llevan por delante», dice la secretaria general del PP vasco",
+      "url": "https://www.elcorreo.com/bizkaia/secretaria-general-pp-vasco-enfrenta-radicales-trataban-20260719214929-nt_amp.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-19T19:49:29.000Z",
+      "sourceId": "lootura-es-el-correo"
+    },
+    {
+      "title": "Maroto se impone en las primarias del PSOE de Madrid a Enma López y se enfrentará a Almeida",
+      "url": "https://theobjective.com/espana/2026-07-19/maroto-primarias-psoe-enma-lopez-almeida/?utm_source=lootura.com",
+      "publishedAt": "2026-07-19T18:22:55.000Z",
       "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 2
 }

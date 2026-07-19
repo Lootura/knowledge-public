@@ -3,7 +3,7 @@
 > Follow White House, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-07-19T16:56:33.807Z
+- Updated: 2026-07-19T20:43:16.868Z
 - Canonical: https://atlas.lootura.com/us/organization/white-house
 
 ## Recent changes
@@ -11,6 +11,12 @@
 ### Face the Nation: Hochul, Homan, Moynihan
 
 Missed the second half of the show? New York Gov. Kathy Hochul, White House border czar Tom Homan and Bank of America CEO Brian Moynihan join the show.
+
+Date: 2026-07-19
+
+### Homan says "I think body cameras are the way to go" after ICE shootings
+
+White House border czar Tom Homan said "I think body cameras are the way to go" after fatal shootings by federal immigration officers in Texas and Maine earlier this month.
 
 Date: 2026-07-19
 
@@ -62,12 +68,7 @@ Since his return to the White House, the lead federal partner for states on elec
 
 Date: 2026-07-17
 
-### Fact checking Trump speech on election security
-
-President Trump is delivering a speech on election security Thursday night at the White House.
-
-Date: 2026-07-17
-
 ## Sources
 
 - [Face the Nation: Hochul, Homan, Moynihan](https://www.cbsnews.com/video/face-the-nation-hochul-homan-moynihan/?utm_source=lootura.com) — 2026-07-19T16:14:07.000Z
+- [Homan says "I think body cameras are the way to go" after ICE shootings](https://www.cbsnews.com/news/tom-homan-trump-border-czar-ice-shootings-maine-texas/?utm_source=lootura.com) — 2026-07-19T17:43:54.000Z

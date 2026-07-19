@@ -3,16 +3,10 @@
 > Follow New York, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-19T16:56:33.807Z
+- Updated: 2026-07-19T20:43:16.868Z
 - Canonical: https://atlas.lootura.com/us/place/new-york
 
 ## Recent changes
-
-### Healthcare costs associated with aging out of reach for many Americans
-
-One New York couple depleted their retirement and savings accounts, paying out-of-pocket for healthcare, before they were able to access Medicaid funds.
-
-Date: 2026-07-19
 
 ### Black and Latino Leaders Ask: What Do Socialist Wins Mean for New York?
 
@@ -23,6 +17,24 @@ Date: 2026-07-19
 ### Face the Nation: Hochul, Homan, Moynihan
 
 Missed the second half of the show? New York Gov. Kathy Hochul, White House border czar Tom Homan and Bank of America CEO Brian Moynihan join the show.
+
+Date: 2026-07-19
+
+### Second death reported in Legionnaires' disease outbreak in New York City
+
+The outbreak on Manhattan's Upper East Side has infected 72 people, according to health officials.
+
+Date: 2026-07-19
+
+### Before Lettuce Felled Thousands, a Cilantro-Linked Cyclospora Outbreak Sickened New Yorkers
+
+New York City health officials shared details of how they traced a much smaller cyclosporiasis outbreak, showing the difficulty of tracing contamination.
+
+Date: 2026-07-19
+
+### Healthcare costs associated with aging out of reach for many Americans
+
+One New York couple depleted their retirement and savings accounts, paying out-of-pocket for healthcare, before they were able to access Medicaid funds.
 
 Date: 2026-07-19
 
@@ -56,20 +68,9 @@ Lulu Garcia-Navarro sits down for an interview with the mayor of New York City.
 
 Date: 2026-07-18
 
-### First death reported in Legionnaires' disease outbreak in New York City
-
-Investigators are still trying to pinpoint the source of the outbreak on Manhattan's Upper East Side that has infected at least 67 people and hospitalized dozens, according to city Health Department data.
-
-Date: 2026-07-18
-
-### Michelin-starred Chinese restaurant Yingtao modernizes family recipes
-
-Chef Emily Yuen is putting a modern twist on traditional family recipes from Xi'an, Shanghai and Hong Kong with Yingtao, a Michelin-starred Chinese restaurant in New York City.
-
-Date: 2026-07-18
-
 ## Sources
 
 - [Face the Nation: Hochul, Homan, Moynihan](https://www.cbsnews.com/video/face-the-nation-hochul-homan-moynihan/?utm_source=lootura.com) — 2026-07-19T16:14:07.000Z
-- [Healthcare costs associated with aging out of reach for many Americans](https://www.cbsnews.com/news/healthcare-costs-associated-with-aging-out-of-reach-for-many-americans/?utm_source=lootura.com) — 2026-07-19T01:59:16.000Z
+- [Second death reported in Legionnaires' disease outbreak in New York City](https://www.pbs.org/newshour/health/second-death-reported-in-legionnaires-disease-outbreak-in-new-york-city?utm_source=lootura.com) — 2026-07-19T16:57:04.000Z
 - [Black and Latino Leaders Ask: What Do Socialist Wins Mean for New York?](https://www.nytimes.com/2026/07/19/nyregion/black-latino-leaders-dsa-nyc.html?utm_source=lootura.com) — 2026-07-19T07:00:08.000Z
+- [Before Lettuce Felled Thousands, a Cilantro-Linked Cyclospora Outbreak Sickened New Yorkers](https://www.nytimes.com/2026/07/19/nyregion/cyclosporiasis-outbreak-nyc-testing.html?utm_source=lootura.com) — 2026-07-19T14:21:03.000Z

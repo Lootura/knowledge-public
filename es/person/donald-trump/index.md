@@ -3,7 +3,7 @@
 > Sigue la actividad de Donald Trump en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-19T16:56:12.315Z
+- Actualizado: 2026-07-19T20:42:54.963Z
 - Canonical: https://atlas.lootura.com/es/person/donald-trump
 
 ## Cambios recientes
@@ -70,4 +70,4 @@ Date: 2026-07-17
 
 ## Fuentes
 
-- [La final también se juega en un palco al rojo vivo: Trump, Pedro Sánchez, los reyes, Sheinbaum...](https://www.20minutos.es/deportes/final-tambien-se-jugara-un-palco-rojo-vivo-trump-pedro-sanchez-los-reyes-sheinbaum_7016413_0.html?utm_source=lootura.com) — 2026-07-19T15:20:58.000Z
+- [La foto más esperada: el apretón de manos entre Sánchez y Trump en la final](https://www.20minutos.es/deportes/futbol/foto-mas-esperada-apreton-manos-entre-pedro-sanchez-donald-trump-final-mundial_7016491_0.html?utm_source=lootura.com) — 2026-07-19T19:40:51.000Z

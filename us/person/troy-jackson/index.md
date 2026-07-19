@@ -3,7 +3,7 @@
 > Follow Troy Jackson, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-07-19T16:56:33.807Z
+- Updated: 2026-07-19T20:43:16.868Z
 - Canonical: https://atlas.lootura.com/us/person/troy-jackson
 
 ## Recent changes
@@ -32,6 +32,18 @@ SANFORD, Maine — Maine Secretary of State Shenna Bellows ended her Senate camp
 
 Date: 2026-07-19
 
+### Troy Jackson has effectively secured the Maine Senate Democratic nomination
+
+SANFORD, Maine — Troy Jackson has effectively secured the Democratic nomination in the crucial Maine Senate race, winning the support of a majority of the state delegates who will officially nominate a candidate next weekend. While they are not legally bound to support him, nearly two-thirds of the 601 delegates have c.
+
+Date: 2026-07-19
+
+### In Maine Senate Race, Jackson Sprints Ahead of Pack, as Bellows Drops Out
+
+Troy Jackson, a progressive, solidified his edge over his rivals in an abbreviated nominating contest to replace Graham Platner. Shenna Bellows, another candidate, bowed out.
+
+Date: 2026-07-19
+
 ### Platner-ally Troy Jackson closing in on Democratic Senate nod in key race to face Collins
 
 Former Maine Senate President Troy Jackson appears to be sprinting far ahead of his rivals in the abbreviated race to replace now ex-candidate Graham Platner as the Democratic Senate nominee in the high-stakes showdown to face off with longtime Republican Sen. Susan Collins. Delegates aligned with Jackson won the vast.
@@ -41,5 +53,7 @@ Date: 2026-07-19
 ## Sources
 
 - [Shenna Bellows drops out of Maine’s Senate race as Troy Jackson builds Democratic support](https://www.nbcnews.com/politics/2026-election/shenna-bellows-drops-maines-senate-race-troy-jackson-builds-democratic-rcna588242?utm_source=lootura.com) — 2026-07-19T15:32:57.000Z
+- [Troy Jackson has effectively secured the Maine Senate Democratic nomination](https://www.politico.com/news/2026/07/19/troy-jackson-likely-maine-senate-nominee-platner-01004490?utm_source=lootura.com) — 2026-07-19T17:55:37.000Z
 - [Maine Democrat Shenna Bellows drops out of race to replace Graham Platner](https://www.politico.com/news/2026/07/19/shenna-bellows-drops-out-maine-senate-01004452?utm_source=lootura.com) — 2026-07-19T15:56:06.000Z
+- [In Maine Senate Race, Jackson Sprints Ahead of Pack, as Bellows Drops Out](https://www.nytimes.com/2026/07/19/us/politics/maine-senate-bellows-jackson-platner-democrats.html?utm_source=lootura.com) — 2026-07-19T18:31:23.000Z
 - [In Maine, Troy Jackson Gains Momentum in Bid to Replace Platner](https://www.nytimes.com/2026/07/19/us/politics/maine-democrats-senate-jackson.html?utm_source=lootura.com) — 2026-07-19T04:10:58.000Z

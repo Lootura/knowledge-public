@@ -3,7 +3,7 @@
 > Sigue la actividad de Emiliano García-Page en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-19T16:56:12.315Z
+- Actualizado: 2026-07-19T20:42:54.963Z
 - Canonical: https://atlas.lootura.com/es/person/emiliano-garcia-page
 
 ## Cambios recientes
@@ -28,4 +28,4 @@ Date: 2026-07-18
 
 ## Fuentes
 
-- [Incendios en España, en directo hoy: última hora de los fuegos activos, evolución y situación en Aragón, Castilla-La Mancha, Madrid y Andalucía](https://www.larazon.es/sociedad/incendios-espana-directo-hoy-ultima-hora-fuegos-activos-evolucion-situacion-aragon-castillala-mancha-madrid-andalucia-b50m_202607196a5bbe1b0500ab412c9d4ee3.html?utm_source=lootura.com) — 2026-07-19T16:28:03.000Z
+- [Incendios en España, en directo hoy: última hora de los fuegos activos, evolución y situación en Aragón, Castilla-La Mancha, Madrid y Andalucía](https://www.larazon.es/sociedad/incendios-espana-directo-hoy-ultima-hora-fuegos-activos-evolucion-situacion-aragon-castillala-mancha-madrid-andalucia-b50m_202607196a5bbe1b0500ab412c9d4ee3.html?utm_source=lootura.com) — 2026-07-19T20:04:11.000Z

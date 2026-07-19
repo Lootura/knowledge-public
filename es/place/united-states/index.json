@@ -8,13 +8,23 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/united-states/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/united-states/index.json",
   "description": "Sigue la actividad de Estados Unidos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-19T16:56:12.315Z",
+  "updatedAt": "2026-07-19T20:42:54.963Z",
   "aliases": [
     "America",
     "Estados Unidos",
     "U.S."
   ],
   "changes": [
+    {
+      "title": "La cuenta atrás de Pekín",
+      "summary": "La pregunta sobre la inteligencia artificial china no es ya si alcanzará a Estados Unidos, sino en qué mes. Conviene tomarse en serio esa premisa, porque Pekín la está ejecutando con una coherencia que Washington, ahora mismo, no logra igualar: ata económicamente a medio planeta , gana clientes regalando lo que EEUU co.",
+      "date": "2026-07-19"
+    },
+    {
+      "title": "15.000 personas rugen en el Movistar Arena para animar a la selección: \"Queremos ser testigos de la historia\"",
+      "summary": "El balón echó a rodar en Estados Unidos, pero el epicentro de la emoción se ha trasladado al centro de Madrid bajo un lema generacional: \"Queremos ser testigos de la...",
+      "date": "2026-07-19"
+    },
     {
       "title": "El inesperado arrepentimiento de Joaquín Sabina a sus 77 años: \"Perdí demasiado tiempo\"",
       "summary": "Joaquín Sabina sigue siendo genio y figura, manteniendo intacto su carisma y su afilada honestidad. A sus 77 años, el cantautor de Úbeda tiene todavía muy reciente su emotiva despedida definitiva de los escenarios . Aquella multitudinaria y triunfal gira, que arrancó con éxito en América y bajó el telón en el Movistar.",
@@ -54,31 +64,27 @@
       "title": "Dos militares estadounidenses mueren en Jordania en un ataque iraní",
       "summary": "Dos militares estadounidenses en Jordania murieron el viernes mientras defendían la zona de un ataque con misiles y drones iraníes, informó el Comando Central de Estados Unidos (Centcom) en un comunicado este sábado. Seguir leyendo...",
       "date": "2026-07-18"
-    },
-    {
-      "title": "Lealtad, telegenia y testosterona: la extravagante carrera de Hegseth al frente del Pentágono",
-      "summary": "En la reunión celebrada en el salón de té de la mansión/hotel de Donald Trump de Mar-a-Lago en la que se decidió el 11 de noviembre de 2024 que Pete Hegseth sería el siguiente secretario de Defensa de Estados Unidos, el entonces presidente electo ofreció dos argumentos, para él, de peso. “Nadie ha dado mejor en cámara.",
-      "date": "2026-07-18"
-    },
-    {
-      "title": "España, país en armas: cómo se contó la Guerra Civil en los noticieros de Estados Unidos",
-      "summary": "El año nuevo arranca con el estreno de Tiempos modernos, la última cinta de Chaplin que refleja la mentalidad, la vida cotidiana y la precariedad de la sociedad industrial norteamericana. La magia del cine permite olvidar, dejar atrás la crisis y proyectar una nueva verdad al mundo. Minutos antes de comenzar la películ.",
-      "date": "2026-07-18"
     }
   ],
   "sources": [
     {
-      "title": "«Tiene más nervios la gente de fuera que nosotros»",
-      "url": "https://www.abc.es/deportes/futbol/mundial/fabian-nervios-gente-20260717000750-nt.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-19T15:39:29.000Z",
+      "title": "La foto más esperada: el apretón de manos entre Sánchez y Trump en la final",
+      "url": "https://www.20minutos.es/deportes/futbol/foto-mas-esperada-apreton-manos-entre-pedro-sanchez-donald-trump-final-mundial_7016491_0.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-19T19:40:51.000Z",
+      "sourceId": "lootura-es-20minutos"
+    },
+    {
+      "title": "La cuenta atrás de Pekín",
+      "url": "https://www.abc.es/economia/cuenta-atras-pekin-20260720220743-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-19T20:07:43.000Z",
       "sourceId": "lootura-es-abc"
     },
     {
-      "title": "El inesperado arrepentimiento de Joaquín Sabina a sus 77 años: \"Perdí demasiado tiempo\"",
-      "url": "https://www.larazon.es/actualidad/inesperado-arrepentimiento-joaquin-sabina-sus-77-anos-perdi-demasiado-tiempo-b50m_202607196a5cf5900500ab412c9ee533.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-19T16:04:32.000Z",
-      "sourceId": "lootura-es-la-razon"
+      "title": "15.000 personas rugen en el Movistar Arena para animar a la selección: \"Queremos ser testigos de la historia\"",
+      "url": "https://amp.elmundo.es/deportes/futbol/mundial-de-futbol/2026/07/19/6a5ce5ace4d4d841498b4576.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-19T19:53:35.000Z",
+      "sourceId": "lootura-es-el-mundo"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 2
 }

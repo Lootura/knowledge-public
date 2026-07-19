@@ -28,5 +28,4 @@ Date: 2026-07-19
 
 ## Fuentes
 
-- [Siete detenidos y 14 investigados por extorsionar a usuarios de páginas de contactos en Ciudad Real](https://www.elconfidencial.com/espana/2026-07-19/sextorsion-extorsion-guardia-civil-1tps_4392400/?utm_source=lootura.com) — 2026-07-19T11:35:00.000Z
-- [Desmantelada una red de ‘sextorsión’ con siete detenidos y 14 investigados en Ciudad Real](https://theobjective.com/sociedad/suceso/2026-07-19/desmantelada-red-sextorsion-ciudad-real/?utm_source=lootura.com) — 2026-07-19T11:00:26.000Z
+No public source links.

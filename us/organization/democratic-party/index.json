@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/democratic-party/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/democratic-party/index.json",
   "description": "Follow Democratic Party, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-19T16:56:33.807Z",
+  "updatedAt": "2026-07-19T20:43:16.868Z",
   "aliases": [
     "Democrats"
   ],
@@ -16,6 +16,16 @@
     {
       "title": "US politicians push agencies to restrict research collaboration with China",
       "summary": "Nature, Published online: 16 July 2026; doi:10.1038/d41586-026-02226-9 Republicans and Democrats worry about research theft and exploitation — but don’t agree on how to solve the problem.",
+      "date": "2026-07-19"
+    },
+    {
+      "title": "Don’t Let This Useless Debate Distract You, Democrats",
+      "summary": "A battle over idealized economic systems doesn’t help Democratic candidates.",
+      "date": "2026-07-19"
+    },
+    {
+      "title": "In Arizona’s Primaries, Democrats Fight Over a House Seat They Need Badly",
+      "summary": "Democrats have a chance to flip a competitive battleground district in and around Scottsdale, but the winner of Tuesday’s primary will emerge bloodied and broke.",
       "date": "2026-07-19"
     },
     {
@@ -52,25 +62,27 @@
       "title": "News Wrap: Smoke from wildfires leads to unsafe air quality in U.S.",
       "summary": "In our news wrap Friday, health concerns are growing as wildfire smoke is blanketing large parts of the U.S., Taylor Farms is recalling lettuce after it was linked to the cyclosporiasis outbreak and Democrats are demanding answers about the vetting of immigration officers following an Associated Press report that the I.",
       "date": "2026-07-17"
-    },
-    {
-      "title": "US politicians push agencies to restrict research collaboration with China",
-      "summary": "Nature, Published online: 16 July 2026; doi:10.1038/d41586-026-02226-9 Republicans and Democrats worry about research theft and exploitation — but don’t agree on how to solve the problem.",
-      "date": "2026-07-17"
-    },
-    {
-      "title": "Republican campaigns see immigration as a winning issue for midterms",
-      "summary": "Republicans are spending more money and running more ads on immigration than Democrats are ahead of the November midterm elections, according to an NPR analysis of advertisement data. (Image credit: Joseph Prezioso).",
-      "date": "2026-07-17"
     }
   ],
   "sources": [
     {
       "title": "US politicians push agencies to restrict research collaboration with China",
       "url": "https://www.nature.com/articles/d41586-026-02226-9?utm_source=lootura.com",
-      "publishedAt": "2026-07-19T16:56:37.958Z",
+      "publishedAt": "2026-07-19T20:43:20.700Z",
       "sourceId": "lootura-us-nature"
+    },
+    {
+      "title": "Don’t Let This Useless Debate Distract You, Democrats",
+      "url": "https://www.nytimes.com/2026/07/19/opinion/democrats-capitalism-socialism.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-19T14:47:24.000Z",
+      "sourceId": "lootura-us-the-new-york-times"
+    },
+    {
+      "title": "In Arizona’s Primaries, Democrats Fight Over a House Seat They Need Badly",
+      "url": "https://www.nytimes.com/2026/07/19/us/elections/arizona-democratic-primary-shah-galan-woods.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-19T17:41:41.000Z",
+      "sourceId": "lootura-us-the-new-york-times"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 3
 }

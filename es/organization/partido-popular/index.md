@@ -3,10 +3,22 @@
 > Sigue la actividad de Partido Popular en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-19T16:56:12.315Z
+- Actualizado: 2026-07-19T20:42:54.963Z
 - Canonical: https://atlas.lootura.com/es/organization/partido-popular
 
 ## Cambios recientes
+
+### «Antes de que se carguen la pantalla, me llevan por delante», dice la secretaria general del PP vasco
+
+Esther Martínez, portavoz y candidata a la Alcaldía en Bilbao, se enfrenta a los radicales que querían boicotear la televisión gigante del parque.
+
+Date: 2026-07-19
+
+### Maroto se impone en las primarias del PSOE de Madrid a Enma López y se enfrentará a Almeida
+
+Reyes Maroto volverá a medirse a José Luis Martínez-Almeida en las urnas. La exministra será la rival del actual alcalde y dirigente del PP en las elecciones municipales del próximo año tras vencer este domingo en las primarias del PSOE de Madrid a Enma López . La portavoz adjunta de los socialistas en el Ayuntamiento.
+
+Date: 2026-07-19
 
 ### El PP pide que Marlaska y Mercedes González comparezcan por presuntas presiones políticas
 
@@ -56,18 +68,8 @@ El presidente nacional del PP, Alberto Núñez Feijóo , presentará este sábad
 
 Date: 2026-07-18
 
-### Feijóo pide "decencia" en una España "harta de mentiras": "El sanchismo ha sido condenado en todas sus formas"
-
-El líder del Partido Popular, en su discurso, ha arremetido contra el presidente del Gobierno, Pedro Sánchez: "Aún hay más de una decena de tramas en los juzgados".
-
-Date: 2026-07-18
-
-### Feijóo presenta este sábado en Santiago a los candidatos del PP a las capitales de provincia
-
-El líder del Partido Popular , Alberto Núñez Feijóo , presenta este sábado, día 18 de julio, a los candidatos de su formación a las capitales de provincia de toda España de cara a las elecciones municipales del 2027 . El acto tendrá lugar en la Cidade da Cultura de Santiago de Compostela y en él también intervendrá el.
-
-Date: 2026-07-18
-
 ## Fuentes
 
-- [El PP pide que Marlaska y Mercedes González comparezcan por presuntas presiones políticas](https://theobjective.com/espana/politica/2026-07-19/pp-marlaska-mercedes-gonzalez/?amp=&utm_source=lootura.com) — 2026-07-19T08:57:09.000Z
+- [Radicales abertzales intentan sabotear la pantalla gigante en Bilbao](https://www.abc.es/deportes/futbol/mundial/radicales-abertzales-intentan-sabotear-pantalla-gigante-final-20260719214737-nt.html?utm_source=lootura.com) — 2026-07-19T20:05:46.000Z
+- [«Antes de que se carguen la pantalla, me llevan por delante», dice la secretaria general del PP vasco](https://www.elcorreo.com/bizkaia/secretaria-general-pp-vasco-enfrenta-radicales-trataban-20260719214929-nt_amp.html?utm_source=lootura.com) — 2026-07-19T19:49:29.000Z
+- [Maroto se impone en las primarias del PSOE de Madrid a Enma López y se enfrentará a Almeida](https://theobjective.com/espana/2026-07-19/maroto-primarias-psoe-enma-lopez-almeida/?utm_source=lootura.com) — 2026-07-19T18:22:55.000Z

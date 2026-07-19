@@ -22,4 +22,4 @@ Date: 2026-07-18
 
 ## Fuentes
 
-- [«Tiene más nervios la gente de fuera que nosotros»](https://www.abc.es/deportes/futbol/mundial/fabian-nervios-gente-20260717000750-nt.html?utm_source=lootura.com) — 2026-07-19T15:39:29.000Z
+No public source links.

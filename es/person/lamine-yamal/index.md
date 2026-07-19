@@ -3,7 +3,7 @@
 > Sigue la actividad de Lamine Yamal en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-19T16:56:12.315Z
+- Actualizado: 2026-07-19T20:42:54.963Z
 - Canonical: https://atlas.lootura.com/es/person/lamine-yamal
 
 ## Cambios recientes
@@ -70,4 +70,4 @@ Date: 2026-07-10
 
 ## Fuentes
 
-- [Lamine Yamal desafía a las grandes leyendas](https://elpais.com/deportes/mundial-futbol/2026-07-19/lamine-yamal-desafia-a-las-grandes-leyendas.html?utm_source=lootura.com) — 2026-07-19T03:30:01.000Z
+- [El mensaje de Lamine Yamal justo antes de la final: "Por ti y por la calle"](https://www.20minutos.es/deportes/mensaje-lamine-yamal-justo-antes-final-por-ti-por-las-calles_7016466_0.html?utm_source=lootura.com) — 2026-07-19T18:06:26.000Z

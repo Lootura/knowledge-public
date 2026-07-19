@@ -3,10 +3,22 @@
 > Sigue la actividad de Partido Socialista Obrero Español en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-19T16:56:12.315Z
+- Actualizado: 2026-07-19T20:42:54.963Z
 - Canonical: https://atlas.lootura.com/es/organization/psoe
 
 ## Cambios recientes
+
+### Las bases del PSOE eligen continuismo: Reyes Maroto se impone a Enma López como candidata a la alcaldía de Madrid
+
+La exministra de Industria Reyes Maroto volverá a encabezar la candidatura socialista a la alcaldía de Madrid. Y consiguió la validación en las primarias celebradas este domingo: los militantes optaron por la continuidad y la eligieron a ella frente a la concejala Enma López , que se lanzó a la carrera sin el permiso p.
+
+Date: 2026-07-19
+
+### Maroto se impone en las primarias del PSOE de Madrid a Enma López y se enfrentará a Almeida
+
+Reyes Maroto volverá a medirse a José Luis Martínez-Almeida en las urnas. La exministra será la rival del actual alcalde y dirigente del PP en las elecciones municipales del próximo año tras vencer este domingo en las primarias del PSOE de Madrid a Enma López . La portavoz adjunta de los socialistas en el Ayuntamiento.
+
+Date: 2026-07-19
 
 ### Reyes Maroto y Enma López depositan su voto confiando «en la democracia interna» del PSOE
 
@@ -56,18 +68,7 @@ La UCO ha aportado finalmente el informe sobre el patrimonio de Santos Cerdán q
 
 Date: 2026-07-18
 
-### Junts descarta reconciliarse con Sánchez tras la amnistía: "Esto no allana volver con el PSOE. Que cumpla con los catalanes o se vaya"
-
-"Esta sentencia no llega gracias al PSOE, sino por nuestra persistencia", alega la dirección de los independentistas para plantar a los socialistas Leer.
-
-Date: 2026-07-17
-
-### La UCO desvela que Cerdán intentó comprar un piso de casi un millón con las mordidas a Servinabar
-
-Los investigadores elevan a 323.000 euros los beneficios ilícitos para él y su familia y revelan que el exdirigente del PSOE dejó de sacar dinero del cajero cuando Ábalos llegó al ministerio.
-
-Date: 2026-07-17
-
 ## Fuentes
 
-- [Reyes Maroto y Enma López depositan su voto confiando «en la democracia interna» del PSOE](https://theobjective.com/espana/politica/2026-07-19/reyes-maroto-enma-lopez-voto-psoe/?amp=&utm_source=lootura.com) — 2026-07-19T12:30:50.000Z
+- [Las bases del PSOE eligen continuismo: Reyes Maroto se impone a Enma López como candidata a la alcaldía de Madrid](https://www.elindependiente.com/espana/2026/07/19/reyes-maroto-gana-primarias-enma-lopez-aparatos-psoe-madrid/?utm_source=lootura.com) — 2026-07-19T18:12:18.000Z
+- [Maroto se impone en las primarias del PSOE de Madrid a Enma López y se enfrentará a Almeida](https://theobjective.com/espana/2026-07-19/maroto-primarias-psoe-enma-lopez-almeida/?utm_source=lootura.com) — 2026-07-19T18:22:55.000Z

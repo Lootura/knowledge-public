@@ -3,7 +3,7 @@
 > Sigue la actividad de Bélgica en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-19T16:56:12.315Z
+- Actualizado: 2026-07-19T20:42:54.963Z
 - Canonical: https://atlas.lootura.com/es/place/belgium
 
 ## Cambios recientes
@@ -70,4 +70,4 @@ Date: 2026-07-10
 
 ## Fuentes
 
-- [Quién es Sara Botello, mujer de Aymeric Laporte: su edad, de dónde es y cuál es su profesión](https://okdiario.com/happyfm/quien-sara-botello-mujer-aymeric-laporte-edad-donde-cual-profesion-18969696?utm_source=lootura.com) — 2026-07-19T16:47:54.000Z
+- [Estos son los once elegidos por De la Fuente para disputar la gran final del Mundial](https://www.lavanguardia.com/deportes/futbol/20260719/11596037/son-once-elegidos-fuente-disputar-gran-final-mundial.html?utm_source=lootura.com) — 2026-07-19T17:08:41.000Z

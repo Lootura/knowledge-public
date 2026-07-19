@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/canada/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/canada/index.json",
   "description": "Follow Canada, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-19T16:56:33.807Z",
+  "updatedAt": "2026-07-19T20:43:16.868Z",
   "aliases": [],
   "changes": [
     {
@@ -64,17 +64,11 @@
   ],
   "sources": [
     {
-      "title": "Air quality improving in Northeast, while wildfire smoke hangs over Midwest",
-      "url": "https://www.npr.org/2026/07/18/nx-s1-5899009/us-canada-wildfire-smoke?utm_source=lootura.com",
-      "publishedAt": "2026-07-18T18:15:42.000Z",
-      "sourceId": "lootura-us-npr"
-    },
-    {
       "title": "Are workplaces safer? Harassment and violence persist, survey finds",
       "url": "https://phys.org/news/2026-07-workplaces-safer-violence-persist-survey.html?utm_source=lootura.com",
       "publishedAt": "2026-07-19T14:00:01.000Z",
       "sourceId": "lootura-us-phys-org"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

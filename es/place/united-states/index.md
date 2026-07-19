@@ -3,10 +3,22 @@
 > Sigue la actividad de Estados Unidos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-19T16:56:12.315Z
+- Actualizado: 2026-07-19T20:42:54.963Z
 - Canonical: https://atlas.lootura.com/es/place/united-states
 
 ## Cambios recientes
+
+### La cuenta atrás de Pekín
+
+La pregunta sobre la inteligencia artificial china no es ya si alcanzará a Estados Unidos, sino en qué mes. Conviene tomarse en serio esa premisa, porque Pekín la está ejecutando con una coherencia que Washington, ahora mismo, no logra igualar: ata económicamente a medio planeta , gana clientes regalando lo que EEUU co.
+
+Date: 2026-07-19
+
+### 15.000 personas rugen en el Movistar Arena para animar a la selección: "Queremos ser testigos de la historia"
+
+El balón echó a rodar en Estados Unidos, pero el epicentro de la emoción se ha trasladado al centro de Madrid bajo un lema generacional: "Queremos ser testigos de la...
+
+Date: 2026-07-19
 
 ### El inesperado arrepentimiento de Joaquín Sabina a sus 77 años: "Perdí demasiado tiempo"
 
@@ -56,19 +68,8 @@ Dos militares estadounidenses en Jordania murieron el viernes mientras defendía
 
 Date: 2026-07-18
 
-### Lealtad, telegenia y testosterona: la extravagante carrera de Hegseth al frente del Pentágono
-
-En la reunión celebrada en el salón de té de la mansión/hotel de Donald Trump de Mar-a-Lago en la que se decidió el 11 de noviembre de 2024 que Pete Hegseth sería el siguiente secretario de Defensa de Estados Unidos, el entonces presidente electo ofreció dos argumentos, para él, de peso. “Nadie ha dado mejor en cámara.
-
-Date: 2026-07-18
-
-### España, país en armas: cómo se contó la Guerra Civil en los noticieros de Estados Unidos
-
-El año nuevo arranca con el estreno de Tiempos modernos, la última cinta de Chaplin que refleja la mentalidad, la vida cotidiana y la precariedad de la sociedad industrial norteamericana. La magia del cine permite olvidar, dejar atrás la crisis y proyectar una nueva verdad al mundo. Minutos antes de comenzar la películ.
-
-Date: 2026-07-18
-
 ## Fuentes
 
-- [«Tiene más nervios la gente de fuera que nosotros»](https://www.abc.es/deportes/futbol/mundial/fabian-nervios-gente-20260717000750-nt.html?utm_source=lootura.com) — 2026-07-19T15:39:29.000Z
-- [El inesperado arrepentimiento de Joaquín Sabina a sus 77 años: "Perdí demasiado tiempo"](https://www.larazon.es/actualidad/inesperado-arrepentimiento-joaquin-sabina-sus-77-anos-perdi-demasiado-tiempo-b50m_202607196a5cf5900500ab412c9ee533.html?utm_source=lootura.com) — 2026-07-19T16:04:32.000Z
+- [La foto más esperada: el apretón de manos entre Sánchez y Trump en la final](https://www.20minutos.es/deportes/futbol/foto-mas-esperada-apreton-manos-entre-pedro-sanchez-donald-trump-final-mundial_7016491_0.html?utm_source=lootura.com) — 2026-07-19T19:40:51.000Z
+- [La cuenta atrás de Pekín](https://www.abc.es/economia/cuenta-atras-pekin-20260720220743-nt.html?utm_source=lootura.com) — 2026-07-19T20:07:43.000Z
+- [15.000 personas rugen en el Movistar Arena para animar a la selección: "Queremos ser testigos de la historia"](https://amp.elmundo.es/deportes/futbol/mundial-de-futbol/2026/07/19/6a5ce5ace4d4d841498b4576.html?utm_source=lootura.com) — 2026-07-19T19:53:35.000Z

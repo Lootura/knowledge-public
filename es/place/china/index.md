@@ -3,10 +3,16 @@
 > Sigue la actividad de China en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-19T16:56:12.315Z
+- Actualizado: 2026-07-19T20:42:54.963Z
 - Canonical: https://atlas.lootura.com/es/place/china
 
 ## Cambios recientes
+
+### La cuenta atrás de Pekín
+
+La pregunta sobre la inteligencia artificial china no es ya si alcanzará a Estados Unidos, sino en qué mes. Conviene tomarse en serio esa premisa, porque Pekín la está ejecutando con una coherencia que Washington, ahora mismo, no logra igualar: ata económicamente a medio planeta , gana clientes regalando lo que EEUU co.
+
+Date: 2026-07-19
 
 ### Didi en China, así funciona la app de VTC para moverse por las ciudades que visites
 
@@ -62,12 +68,6 @@ Donald Trump, líder de un país en guerra y con el coste de la vida en alza, se
 
 Date: 2026-07-17
 
-### La pesadilla de financiar ensayos cuando el mono es un «artículo de lujo»
-
-El meteórico avance de la terapia génica y la neurociencia es rehén de su propia naturaleza. La explosión de ensayos farmacéuticos en China ha provocado el secado global del mercado del Macaca fascicularis, el único primate capaz de replicar con altísima precisión el comportamiento inmunológico humano. Con la demanda d.
-
-Date: 2026-07-17
-
 ## Fuentes
 
-- [En China se han puesto de moda las novias IA, y la realidad es que están destrozando el país](https://hipertextual.com/inteligencia-artificial/en-china-se-han-puesto-de-moda-las-novias-ia-y-la-realidad-es-que-estan-destrozando-el-pais/?utm_source=lootura.com) — 2026-07-19T15:00:00.000Z
+- [La cuenta atrás de Pekín](https://www.abc.es/economia/cuenta-atras-pekin-20260720220743-nt.html?utm_source=lootura.com) — 2026-07-19T20:07:43.000Z

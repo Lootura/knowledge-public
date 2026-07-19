@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/united-states/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/united-states/index.json",
   "description": "Follow United States, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-19T16:56:33.807Z",
+  "updatedAt": "2026-07-19T20:43:16.868Z",
   "aliases": [
     "America",
     "Estados Unidos",
@@ -19,11 +19,6 @@
       "title": "The Uplift: The American Dream",
       "summary": "We celebrate the United States ahead of its 250th anniversary with stories about American heroes and pastimes. The founder of e.l.f. Cosmetics shares how he made a massive life change to become a Catholic priest.",
       "date": "2026-07-27"
-    },
-    {
-      "title": "Funding milestone detected",
-      "summary": "Rising energy prices in the U.S. reduce states' economic output, but they also prompt investments in more efficient equipment and technologies that partially offset those output losses over time, according to a new study by researchers at Penn State.",
-      "date": "2026-07-19"
     },
     {
       "title": "Trump Gutted Civil Rights Agency, Stifling U.S. Scrutiny of Workplace Bias",
@@ -61,8 +56,13 @@
       "date": "2026-07-19"
     },
     {
-      "title": "U.S. strikes Iran over troop deaths as Israel warns Tehran's attacks are coming close",
-      "summary": "Step by step, the U.S, and Iran have returned closer to all-out war as last month's interim deal meant to permanently end the fighting has crumbled and shipping traffic in the Strait of Hormuz has largely stalled.",
+      "title": "Increased Cooperation With U.S. Has Put Jordan in Iran’s Cross Hairs",
+      "summary": "Jordan’s role in U.S. operations against Iran has grown as other allies in the region have restricted Washington’s ability to use their bases and airspace.",
+      "date": "2026-07-19"
+    },
+    {
+      "title": "The Evolution of Presidential Travel: Horse Carriages to Air Force One",
+      "summary": "From horse-drawn presidential coaches to Air Force One, presidents have used various modes of transportation to project an image of America for nearly 250 years.",
       "date": "2026-07-19"
     }
   ],
@@ -92,22 +92,22 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
+      "title": "U.S. military recovers unidentified remains in Jordan as another service member dies in Iraq",
+      "url": "https://www.nbcnews.com/world/middle-east/us-service-member-killed-in-iraq-rcna588275?utm_source=lootura.com",
+      "publishedAt": "2026-07-19T19:52:32.000Z",
+      "sourceId": "lootura-us-nbc-news"
+    },
+    {
+      "title": "U.S. service member killed in Northern Iraq, says U.S. Central Command",
+      "url": "https://www.nbcnews.com/now/video/u-s-service-member-killed-in-northern-iraq-says-u-s-central-command-266920517563?utm_source=lootura.com",
+      "publishedAt": "2026-07-19T20:04:12.000Z",
+      "sourceId": "lootura-us-nbc-news-politics"
+    },
+    {
       "title": "Politics chat: How much faith can you have in the country's election systems?",
       "url": "https://www.npr.org/2026/07/19/nx-s1-5890938/politics-chat-how-much-faith-can-you-have-in-the-countrys-election-systems?utm_source=lootura.com",
       "publishedAt": "2026-07-19T12:04:18.000Z",
       "sourceId": "lootura-us-npr-politics"
-    },
-    {
-      "title": "U.S. strikes Iran over troop deaths as Israel warns Tehran's attacks are coming close",
-      "url": "https://www.pbs.org/newshour/world/u-s-strikes-iran-over-troop-deaths-as-israel-warns-tehrans-attacks-are-coming-close?utm_source=lootura.com",
-      "publishedAt": "2026-07-19T16:00:48.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
-    },
-    {
-      "title": "Energy price shocks slow state economies; spur energy efficiency investments",
-      "url": "https://phys.org/news/2026-07-energy-price-state-economies-spur.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-19T09:40:04.000Z",
-      "sourceId": "lootura-us-phys-org"
     },
     {
       "title": "Increased Cooperation With U.S. Has Put Jordan in Iran’s Cross Hairs",
@@ -128,5 +128,5 @@
       "sourceId": "lootura-us-the-new-york-times"
     }
   ],
-  "evidenceCount": 14
+  "evidenceCount": 13
 }

@@ -1,16 +1,16 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-19T17:01:21.396Z",
+  "generatedAt": "2026-07-19T20:48:02.938Z",
   "radar": {
     "id": "es",
     "slug": "es",
     "locale": "es"
   },
   "state": {
-    "signature": "1.16.0|30|1784480172315",
+    "signature": "1.16.0|31|1784493774963",
     "version": "1.16.0",
-    "build": 30,
-    "latestEntityUpdatedAt": "2026-07-19T16:56:12.315Z"
+    "build": 31,
+    "latestEntityUpdatedAt": "2026-07-19T20:42:54.963Z"
   },
   "atlas": {
     "hero": {
@@ -20,23 +20,23 @@
       "title": "Incendios en España, en directo hoy: última hora de los fuegos activos, evolución y situación en Aragón, Castilla-La Mancha, Madrid y Andalucía",
       "url": "https://atlas.lootura.com/es/place/espana",
       "path": "/es/place/espana",
-      "updatedAt": "2026-07-19T16:56:12.315Z",
-      "score": 1609,
-      "sourceCount": 381,
+      "updatedAt": "2026-07-19T20:42:54.963Z",
+      "score": 1611,
+      "sourceCount": 382,
       "isBreaking": false,
       "isPinned": false
     },
     "cards": [
       {
-        "id": "es-lamine-yamal",
-        "name": "Lamine Yamal",
+        "id": "es-pedro-sanchez",
+        "name": "Pedro Sánchez",
         "type": "person",
-        "title": "Lamine Yamal desafía a las grandes leyendas",
-        "url": "https://atlas.lootura.com/es/person/lamine-yamal",
-        "path": "/es/person/lamine-yamal",
-        "updatedAt": "2026-07-19T16:56:12.315Z",
-        "score": 1551,
-        "sourceCount": 10,
+        "title": "Puigdemont no apoyará los Presupuestos de Sánchez: \"Madrid recibe una sobreinversión que multiplica la de los catalanes\"",
+        "url": "https://atlas.lootura.com/es/person/pedro-sanchez",
+        "path": "/es/person/pedro-sanchez",
+        "updatedAt": "2026-07-19T20:42:54.963Z",
+        "score": 1563,
+        "sourceCount": 176,
         "isBreaking": false,
         "isPinned": false
       },
@@ -47,9 +47,22 @@
         "title": "Incendios en España, en directo hoy: última hora de los fuegos activos, evolución y situación en Aragón, Castilla-La Mancha, Madrid y Andalucía",
         "url": "https://atlas.lootura.com/es/place/madrid",
         "path": "/es/place/madrid",
-        "updatedAt": "2026-07-19T16:56:12.315Z",
-        "score": 1543,
-        "sourceCount": 224,
+        "updatedAt": "2026-07-19T20:42:54.963Z",
+        "score": 1552,
+        "sourceCount": 227,
+        "isBreaking": false,
+        "isPinned": false
+      },
+      {
+        "id": "es-nueva-york",
+        "name": "Nueva York",
+        "type": "organization",
+        "title": "El hincha español más veterano en Nueva York: «Si pudiera, iba al estadio»",
+        "url": "https://atlas.lootura.com/es/organization/nueva-york",
+        "path": "/es/organization/nueva-york",
+        "updatedAt": "2026-07-19T20:42:54.963Z",
+        "score": 1548,
+        "sourceCount": 6,
         "isBreaking": false,
         "isPinned": false
       },
@@ -60,26 +73,13 @@
         "title": "Mbappé pone el listón imposible a Messi por la Bota de Oro: deberá marcar un hat-trick contra España",
         "url": "https://atlas.lootura.com/es/person/lionel-messi",
         "path": "/es/person/lionel-messi",
-        "updatedAt": "2026-07-19T16:56:12.315Z",
-        "score": 1539,
+        "updatedAt": "2026-07-19T20:42:54.963Z",
+        "score": 1530,
         "sourceCount": 10,
-        "isBreaking": false,
-        "isPinned": false
-      },
-      {
-        "id": "es-united-states",
-        "name": "Estados Unidos",
-        "type": "place",
-        "title": "Estados Unidos intensifica bombardeos aéreos contra Irán por octavo día seguido",
-        "url": "https://atlas.lootura.com/es/place/united-states",
-        "path": "/es/place/united-states",
-        "updatedAt": "2026-07-19T16:56:12.315Z",
-        "score": 1516,
-        "sourceCount": 115,
         "isBreaking": false,
         "isPinned": false
       }
     ],
-    "publicEntityCount": 44
+    "publicEntityCount": 47
   }
 }

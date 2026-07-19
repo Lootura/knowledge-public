@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/belgium/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/belgium/index.json",
   "description": "Sigue la actividad de Bélgica en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-19T16:56:12.315Z",
+  "updatedAt": "2026-07-19T20:42:54.963Z",
   "aliases": [
     "Belgica"
   ],
@@ -66,10 +66,10 @@
   ],
   "sources": [
     {
-      "title": "Quién es Sara Botello, mujer de Aymeric Laporte: su edad, de dónde es y cuál es su profesión",
-      "url": "https://okdiario.com/happyfm/quien-sara-botello-mujer-aymeric-laporte-edad-donde-cual-profesion-18969696?utm_source=lootura.com",
-      "publishedAt": "2026-07-19T16:47:54.000Z",
-      "sourceId": "lootura-es-ok-diario"
+      "title": "Estos son los once elegidos por De la Fuente para disputar la gran final del Mundial",
+      "url": "https://www.lavanguardia.com/deportes/futbol/20260719/11596037/son-once-elegidos-fuente-disputar-gran-final-mundial.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-19T17:08:41.000Z",
+      "sourceId": "lootura-es-la-vanguardia"
     }
   ],
   "evidenceCount": 0

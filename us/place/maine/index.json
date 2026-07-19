@@ -8,17 +8,12 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/maine/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/maine/index.json",
   "description": "Follow Maine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-19T16:56:33.807Z",
+  "updatedAt": "2026-07-19T20:43:16.868Z",
   "aliases": [],
   "changes": [
     {
       "title": "In Maine, Troy Jackson Gains Momentum in Bid to Replace Platner",
       "summary": "Troy Jackson, a progressive former State Senate president, showed signs of significant strength, as half the state’s counties picked delegates to a convention where they will choose Graham Platner’s replacement.",
-      "date": "2026-07-19"
-    },
-    {
-      "title": "Trump border czar says \"I think body cameras are the way to go\" after deadly ICE shootings",
-      "summary": "Amid questions about immigration agents' actions in deadly shootings this month in Texas and Maine, Trump administration border czar Tom Homan told \"Face the Nation with Margaret Brennan\" that \"I think body cameras are the way to go,\" adding that body cameras \"let the American people know what that officer sees when he.",
       "date": "2026-07-19"
     },
     {
@@ -37,6 +32,26 @@
       "date": "2026-07-19"
     },
     {
+      "title": "Homan says \"I think body cameras are the way to go\" after ICE shootings",
+      "summary": "White House border czar Tom Homan said \"I think body cameras are the way to go\" after fatal shootings by federal immigration officers in Texas and Maine earlier this month.",
+      "date": "2026-07-19"
+    },
+    {
+      "title": "Troy Jackson has effectively secured the Maine Senate Democratic nomination",
+      "summary": "SANFORD, Maine — Troy Jackson has effectively secured the Democratic nomination in the crucial Maine Senate race, winning the support of a majority of the state delegates who will officially nominate a candidate next weekend. While they are not legally bound to support him, nearly two-thirds of the 601 delegates have c.",
+      "date": "2026-07-19"
+    },
+    {
+      "title": "In Maine Senate Race, Jackson Sprints Ahead of Pack, as Bellows Drops Out",
+      "summary": "Troy Jackson, a progressive, solidified his edge over his rivals in an abbreviated nominating contest to replace Graham Platner. Shenna Bellows, another candidate, bowed out.",
+      "date": "2026-07-19"
+    },
+    {
+      "title": "Trump border czar says \"I think body cameras are the way to go\" after deadly ICE shootings",
+      "summary": "Amid questions about immigration agents' actions in deadly shootings this month in Texas and Maine, Trump administration border czar Tom Homan told \"Face the Nation with Margaret Brennan\" that \"I think body cameras are the way to go,\" adding that body cameras \"let the American people know what that officer sees when he.",
+      "date": "2026-07-19"
+    },
+    {
       "title": "Platner-ally Troy Jackson closing in on Democratic Senate nod in key race to face Collins",
       "summary": "Former Maine Senate President Troy Jackson appears to be sprinting far ahead of his rivals in the abbreviated race to replace now ex-candidate Graham Platner as the Democratic Senate nominee in the high-stakes showdown to face off with longtime Republican Sen. Susan Collins. Delegates aligned with Jackson won the vast.",
       "date": "2026-07-19"
@@ -45,28 +60,13 @@
       "title": "ICE officer in Maine shooting has history of violent behavior, relatives say",
       "summary": "The Immigration and Customs Enforcement officer who shot and killed a Colombian man in Maine this week is an Army veteran who has struggled with serious mental health issues since early childhood, relatives say.",
       "date": "2026-07-18"
-    },
-    {
-      "title": "Without Platner, Maine Democrats Scramble to Keep Grassroots Energy Alive",
-      "summary": "Graham Platner’s campaign for Senate imploded last week. The activists who backed him are seeking a candidate to carry his populist message in the race against Republican Susan Collins.",
-      "date": "2026-07-18"
-    },
-    {
-      "title": "ICE detention center employee arrested for shooting protester in Colorado",
-      "summary": "A woman was shot while protesting outside of an ICE detention center in Aurora, Colorado, police say. The employee of a group operating the center faces assault and attempted second-degree murder charges in connection with the shooting. This comes after two fatal shootings by ICE agents in Maine and Texas.",
-      "date": "2026-07-18"
-    },
-    {
-      "title": "ICE officer in Maine shooting has history of violent behavior, relatives say",
-      "summary": "The Immigration and Customs Enforcement officer who shot and killed a Colombian man in Maine this week is an Army veteran who has struggled with serious mental health issues since early childhood, relatives say.",
-      "date": "2026-07-17"
     }
   ],
   "sources": [
     {
-      "title": "Trump border czar says \"I think body cameras are the way to go\" after deadly ICE shootings",
-      "url": "https://www.cbsnews.com/video/trump-border-czar-says-i-think-body-cameras-are-the-way-to-go-after-deadly-ice-shootings/?utm_source=lootura.com",
-      "publishedAt": "2026-07-19T16:15:27.000Z",
+      "title": "Homan says \"I think body cameras are the way to go\" after ICE shootings",
+      "url": "https://www.cbsnews.com/news/tom-homan-trump-border-czar-ice-shootings-maine-texas/?utm_source=lootura.com",
+      "publishedAt": "2026-07-19T17:43:54.000Z",
       "sourceId": "lootura-us-cbs-news"
     },
     {
@@ -76,10 +76,22 @@
       "sourceId": "lootura-us-nbc-news-politics"
     },
     {
+      "title": "Troy Jackson has effectively secured the Maine Senate Democratic nomination",
+      "url": "https://www.politico.com/news/2026/07/19/troy-jackson-likely-maine-senate-nominee-platner-01004490?utm_source=lootura.com",
+      "publishedAt": "2026-07-19T17:55:37.000Z",
+      "sourceId": "lootura-us-politico"
+    },
+    {
       "title": "Maine Democrat Shenna Bellows drops out of race to replace Graham Platner",
       "url": "https://www.politico.com/news/2026/07/19/shenna-bellows-drops-out-maine-senate-01004452?utm_source=lootura.com",
       "publishedAt": "2026-07-19T15:56:06.000Z",
       "sourceId": "lootura-us-politico"
+    },
+    {
+      "title": "In Maine Senate Race, Jackson Sprints Ahead of Pack, as Bellows Drops Out",
+      "url": "https://www.nytimes.com/2026/07/19/us/politics/maine-senate-bellows-jackson-platner-democrats.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-19T18:31:23.000Z",
+      "sourceId": "lootura-us-the-new-york-times-politics"
     },
     {
       "title": "In Maine, Bellows Ends Senate Bid, as Jackson Builds Momentum",
@@ -94,5 +106,5 @@
       "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 5
+  "evidenceCount": 7
 }

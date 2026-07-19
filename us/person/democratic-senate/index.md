@@ -3,7 +3,7 @@
 > Follow Democratic Senate, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-07-19T16:56:33.807Z
+- Updated: 2026-07-19T20:43:16.868Z
 - Canonical: https://atlas.lootura.com/us/person/democratic-senate
 
 ## Recent changes

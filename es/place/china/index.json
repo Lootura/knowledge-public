@@ -8,9 +8,14 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/china/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/china/index.json",
   "description": "Sigue la actividad de China en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-19T16:56:12.315Z",
+  "updatedAt": "2026-07-19T20:42:54.963Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "La cuenta atrás de Pekín",
+      "summary": "La pregunta sobre la inteligencia artificial china no es ya si alcanzará a Estados Unidos, sino en qué mes. Conviene tomarse en serio esa premisa, porque Pekín la está ejecutando con una coherencia que Washington, ahora mismo, no logra igualar: ata económicamente a medio planeta , gana clientes regalando lo que EEUU co.",
+      "date": "2026-07-19"
+    },
     {
       "title": "Didi en China, así funciona la app de VTC para moverse por las ciudades que visites",
       "summary": "Hace unos días escribí sobre la experiencia de un robotaxi , vehículo sin conductor, en mi viaje a China. Ahora, voy con otro asunto a tener en cuenta si viajas al gigante asiático. Pedir un Didi ha sido una de las cosas que más rápido incorporé a mi rutina durante un viaje reciente a Shenzhen. La compañía absorbió el.",
@@ -55,20 +60,15 @@
       "title": "Trump resucita en un discurso a la nación el bulo del fraude electoral de 2020 y acusa a China de influir en su derrota",
       "summary": "Donald Trump, líder de un país en guerra y con el coste de la vida en alza, se dirigió este jueves por la noche a la nación para hablar de las elecciones... de hace seis años. No fue solo un intento de ajuste de cuentas con un fracaso personal; el presidente de Estados Unidos, cuya impopularidad bate récords, habló con.",
       "date": "2026-07-17"
-    },
-    {
-      "title": "La pesadilla de financiar ensayos cuando el mono es un «artículo de lujo»",
-      "summary": "El meteórico avance de la terapia génica y la neurociencia es rehén de su propia naturaleza. La explosión de ensayos farmacéuticos en China ha provocado el secado global del mercado del Macaca fascicularis, el único primate capaz de replicar con altísima precisión el comportamiento inmunológico humano. Con la demanda d.",
-      "date": "2026-07-17"
     }
   ],
   "sources": [
     {
-      "title": "En China se han puesto de moda las novias IA, y la realidad es que están destrozando el país",
-      "url": "https://hipertextual.com/inteligencia-artificial/en-china-se-han-puesto-de-moda-las-novias-ia-y-la-realidad-es-que-estan-destrozando-el-pais/?utm_source=lootura.com",
-      "publishedAt": "2026-07-19T15:00:00.000Z",
-      "sourceId": "lootura-es-hipertextual"
+      "title": "La cuenta atrás de Pekín",
+      "url": "https://www.abc.es/economia/cuenta-atras-pekin-20260720220743-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-19T20:07:43.000Z",
+      "sourceId": "lootura-es-abc"
     }
   ],
-  "evidenceCount": 0
+  "evidenceCount": 1
 }

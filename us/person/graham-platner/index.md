@@ -3,7 +3,7 @@
 > Follow Graham Platner, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-07-19T16:56:33.807Z
+- Updated: 2026-07-19T20:43:16.868Z
 - Canonical: https://atlas.lootura.com/us/person/graham-platner
 
 ## Recent changes
@@ -23,6 +23,12 @@ Date: 2026-07-19
 ### In Maine, Bellows Ends Senate Bid, as Jackson Builds Momentum
 
 The Maine secretary of state ended her run in a crowded race to replace Graham Platner as the Democratic Senate nominee.
+
+Date: 2026-07-19
+
+### In Maine Senate Race, Jackson Sprints Ahead of Pack, as Bellows Drops Out
+
+Troy Jackson, a progressive, solidified his edge over his rivals in an abbreviated nominating contest to replace Graham Platner. Shenna Bellows, another candidate, bowed out.
 
 Date: 2026-07-19
 
@@ -62,14 +68,9 @@ Democratic candidates are hastily building bare-bones campaigns and forgoing tra
 
 Date: 2026-07-15
 
-### Maine Democrats aren’t coalescing behind a Graham Platner replacement
-
-Maine Democrats want to hold onto Graham Platner’s progressive base — but they can’t agree on who is best positioned to carry the torch. That indecision is creating a fractured field heading into an unpredictable late July nominating convention for one of the most important Senate races on the 2026 map. Now, various ca.
-
-Date: 2026-07-15
-
 ## Sources
 
 - [Maine Democrat Shenna Bellows drops out of race to replace Graham Platner](https://www.politico.com/news/2026/07/19/shenna-bellows-drops-out-maine-senate-01004452?utm_source=lootura.com) — 2026-07-19T15:56:06.000Z
+- [In Maine Senate Race, Jackson Sprints Ahead of Pack, as Bellows Drops Out](https://www.nytimes.com/2026/07/19/us/politics/maine-senate-bellows-jackson-platner-democrats.html?utm_source=lootura.com) — 2026-07-19T18:31:23.000Z
 - [In Maine, Bellows Ends Senate Bid, as Jackson Builds Momentum](https://www.nytimes.com/2026/07/19/us/politics/maine-senate-bellow-jackson-platner-democrats.html?utm_source=lootura.com) — 2026-07-19T16:13:57.000Z
 - [In Maine, Troy Jackson Gains Momentum in Bid to Replace Platner](https://www.nytimes.com/2026/07/19/us/politics/maine-democrats-senate-jackson.html?utm_source=lootura.com) — 2026-07-19T04:10:58.000Z

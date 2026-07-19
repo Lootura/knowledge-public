@@ -8,16 +8,11 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/new-york/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/new-york/index.json",
   "description": "Follow New York, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-19T16:56:33.807Z",
+  "updatedAt": "2026-07-19T20:43:16.868Z",
   "aliases": [
     "New York City"
   ],
   "changes": [
-    {
-      "title": "Healthcare costs associated with aging out of reach for many Americans",
-      "summary": "One New York couple depleted their retirement and savings accounts, paying out-of-pocket for healthcare, before they were able to access Medicaid funds.",
-      "date": "2026-07-19"
-    },
     {
       "title": "Black and Latino Leaders Ask: What Do Socialist Wins Mean for New York?",
       "summary": "Longtime leaders and advocates in minority districts fear that victories by the Democratic Socialists of America in gentrifying neighborhoods could mean political erasure.",
@@ -26,6 +21,21 @@
     {
       "title": "Face the Nation: Hochul, Homan, Moynihan",
       "summary": "Missed the second half of the show? New York Gov. Kathy Hochul, White House border czar Tom Homan and Bank of America CEO Brian Moynihan join the show.",
+      "date": "2026-07-19"
+    },
+    {
+      "title": "Second death reported in Legionnaires' disease outbreak in New York City",
+      "summary": "The outbreak on Manhattan's Upper East Side has infected 72 people, according to health officials.",
+      "date": "2026-07-19"
+    },
+    {
+      "title": "Before Lettuce Felled Thousands, a Cilantro-Linked Cyclospora Outbreak Sickened New Yorkers",
+      "summary": "New York City health officials shared details of how they traced a much smaller cyclosporiasis outbreak, showing the difficulty of tracing contamination.",
+      "date": "2026-07-19"
+    },
+    {
+      "title": "Healthcare costs associated with aging out of reach for many Americans",
+      "summary": "One New York couple depleted their retirement and savings accounts, paying out-of-pocket for healthcare, before they were able to access Medicaid funds.",
       "date": "2026-07-19"
     },
     {
@@ -52,16 +62,6 @@
       "title": "Zohran Mamdani Knows He Has Political Capital. And He Intends to Spend It.",
       "summary": "Lulu Garcia-Navarro sits down for an interview with the mayor of New York City.",
       "date": "2026-07-18"
-    },
-    {
-      "title": "First death reported in Legionnaires' disease outbreak in New York City",
-      "summary": "Investigators are still trying to pinpoint the source of the outbreak on Manhattan's Upper East Side that has infected at least 67 people and hospitalized dozens, according to city Health Department data.",
-      "date": "2026-07-18"
-    },
-    {
-      "title": "Michelin-starred Chinese restaurant Yingtao modernizes family recipes",
-      "summary": "Chef Emily Yuen is putting a modern twist on traditional family recipes from Xi'an, Shanghai and Hong Kong with Yingtao, a Michelin-starred Chinese restaurant in New York City.",
-      "date": "2026-07-18"
     }
   ],
   "sources": [
@@ -72,17 +72,23 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "Healthcare costs associated with aging out of reach for many Americans",
-      "url": "https://www.cbsnews.com/news/healthcare-costs-associated-with-aging-out-of-reach-for-many-americans/?utm_source=lootura.com",
-      "publishedAt": "2026-07-19T01:59:16.000Z",
-      "sourceId": "lootura-us-cbs-news"
+      "title": "Second death reported in Legionnaires' disease outbreak in New York City",
+      "url": "https://www.pbs.org/newshour/health/second-death-reported-in-legionnaires-disease-outbreak-in-new-york-city?utm_source=lootura.com",
+      "publishedAt": "2026-07-19T16:57:04.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
     },
     {
       "title": "Black and Latino Leaders Ask: What Do Socialist Wins Mean for New York?",
       "url": "https://www.nytimes.com/2026/07/19/nyregion/black-latino-leaders-dsa-nyc.html?utm_source=lootura.com",
       "publishedAt": "2026-07-19T07:00:08.000Z",
       "sourceId": "lootura-us-the-new-york-times"
+    },
+    {
+      "title": "Before Lettuce Felled Thousands, a Cilantro-Linked Cyclospora Outbreak Sickened New Yorkers",
+      "url": "https://www.nytimes.com/2026/07/19/nyregion/cyclosporiasis-outbreak-nyc-testing.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-19T14:21:03.000Z",
+      "sourceId": "lootura-us-the-new-york-times"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 4
 }

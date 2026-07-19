@@ -3,7 +3,7 @@
 > Follow United States, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-19T16:56:33.807Z
+- Updated: 2026-07-19T20:43:16.868Z
 - Canonical: https://atlas.lootura.com/us/place/united-states
 
 ## Recent changes
@@ -13,12 +13,6 @@
 We celebrate the United States ahead of its 250th anniversary with stories about American heroes and pastimes. The founder of e.l.f. Cosmetics shares how he made a massive life change to become a Catholic priest.
 
 Date: 2026-07-27
-
-### Funding milestone detected
-
-Rising energy prices in the U.S. reduce states' economic output, but they also prompt investments in more efficient equipment and technologies that partially offset those output losses over time, according to a new study by researchers at Penn State.
-
-Date: 2026-07-19
 
 ### Trump Gutted Civil Rights Agency, Stifling U.S. Scrutiny of Workplace Bias
 
@@ -62,9 +56,15 @@ Missed the second half of the show? New York Gov. Kathy Hochul, White House bord
 
 Date: 2026-07-19
 
-### U.S. strikes Iran over troop deaths as Israel warns Tehran's attacks are coming close
+### Increased Cooperation With U.S. Has Put Jordan in Iran’s Cross Hairs
 
-Step by step, the U.S, and Iran have returned closer to all-out war as last month's interim deal meant to permanently end the fighting has crumbled and shipping traffic in the Strait of Hormuz has largely stalled.
+Jordan’s role in U.S. operations against Iran has grown as other allies in the region have restricted Washington’s ability to use their bases and airspace.
+
+Date: 2026-07-19
+
+### The Evolution of Presidential Travel: Horse Carriages to Air Force One
+
+From horse-drawn presidential coaches to Air Force One, presidents have used various modes of transportation to project an image of America for nearly 250 years.
 
 Date: 2026-07-19
 
@@ -74,9 +74,9 @@ Date: 2026-07-19
 - [The Uplift: The American Dream](https://www.cbsnews.com/video/the-uplift-the-american-dream/?utm_source=lootura.com) — 2026-07-27T10:30:00.000Z
 - [Sen. Mark Warner says Middle East bases are "on and off under attack" since Iran war began](https://www.cbsnews.com/video/sen-mark-warner-says-middle-east-bases-are-on-and-off-under-attack-since-iran-war-began/?utm_source=lootura.com) — 2026-07-19T15:51:22.000Z
 - [Face the Nation: Hochul, Homan, Moynihan](https://www.cbsnews.com/video/face-the-nation-hochul-homan-moynihan/?utm_source=lootura.com) — 2026-07-19T16:14:07.000Z
+- [U.S. military recovers unidentified remains in Jordan as another service member dies in Iraq](https://www.nbcnews.com/world/middle-east/us-service-member-killed-in-iraq-rcna588275?utm_source=lootura.com) — 2026-07-19T19:52:32.000Z
+- [U.S. service member killed in Northern Iraq, says U.S. Central Command](https://www.nbcnews.com/now/video/u-s-service-member-killed-in-northern-iraq-says-u-s-central-command-266920517563?utm_source=lootura.com) — 2026-07-19T20:04:12.000Z
 - [Politics chat: How much faith can you have in the country's election systems?](https://www.npr.org/2026/07/19/nx-s1-5890938/politics-chat-how-much-faith-can-you-have-in-the-countrys-election-systems?utm_source=lootura.com) — 2026-07-19T12:04:18.000Z
-- [U.S. strikes Iran over troop deaths as Israel warns Tehran's attacks are coming close](https://www.pbs.org/newshour/world/u-s-strikes-iran-over-troop-deaths-as-israel-warns-tehrans-attacks-are-coming-close?utm_source=lootura.com) — 2026-07-19T16:00:48.000Z
-- [Energy price shocks slow state economies; spur energy efficiency investments](https://phys.org/news/2026-07-energy-price-state-economies-spur.html?utm_source=lootura.com) — 2026-07-19T09:40:04.000Z
 - [Increased Cooperation With U.S. Has Put Jordan in Iran’s Cross Hairs](https://www.nytimes.com/2026/07/19/world/middleeast/iran-war-jordan-us.html?utm_source=lootura.com) — 2026-07-19T15:17:53.000Z
 - [Failed Immigration Cases Leave Chicago Prosecutor’s Office Reeling](https://www.nytimes.com/2026/07/19/us/immigration-chicago-prosecutors.html?utm_source=lootura.com) — 2026-07-19T11:44:25.000Z
 - [Black and Latino Leaders Ask: What Do Socialist Wins Mean for New York?](https://www.nytimes.com/2026/07/19/nyregion/black-latino-leaders-dsa-nyc.html?utm_source=lootura.com) — 2026-07-19T07:00:08.000Z

@@ -1,0 +1,40 @@
+{
+  "id": "es-nueva-jersey",
+  "name": "Nueva Jersey",
+  "type": "person",
+  "locale": "es",
+  "canonicalPath": "/es/person/nueva-jersey",
+  "canonicalUrl": "https://atlas.lootura.com/es/person/nueva-jersey",
+  "markdownUrl": "https://atlas.lootura.com/es/person/nueva-jersey/index.md",
+  "jsonUrl": "https://atlas.lootura.com/es/person/nueva-jersey/index.json",
+  "description": "Sigue la actividad de Nueva Jersey en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
+  "updatedAt": "2026-07-19T20:42:54.963Z",
+  "aliases": [],
+  "changes": [
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Nueva Jersey first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-07-19"
+    },
+    {
+      "title": "El último paso para alcanzar la segunda estrella",
+      "summary": "España necesita volver a ofrecer su mejor versión para superar a una Argentina con la piel durísima y que dominará en las gradas de Nueva Jersey.",
+      "date": "2026-07-18"
+    }
+  ],
+  "sources": [
+    {
+      "title": "España tiene dos claras y se repone al juego sucio de Argentina",
+      "url": "https://www.20minutos.es/deportes/futbol/espana-argentina-final-mundial-2026-directo-ultima-hora-partido-alineaciones-goles-resultados_7016308_6.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-19T18:28:59.000Z",
+      "sourceId": "lootura-es-20minutos"
+    },
+    {
+      "title": "El último paso para alcanzar la segunda estrella",
+      "url": "https://www.elcorreo.com/deportes/futbol/mundial/ultimo-paso-alcanzar-segunda-estrella-20260718002157-ntrc_amp.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-18T22:21:57.000Z",
+      "sourceId": "lootura-es-el-correo"
+    }
+  ],
+  "evidenceCount": 2
+}

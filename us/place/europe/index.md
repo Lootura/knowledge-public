@@ -3,7 +3,7 @@
 > Follow Europe, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-18T16:55:42.019Z
+- Updated: 2026-07-19T20:43:16.868Z
 - Canonical: https://atlas.lootura.com/us/place/europe
 
 ## Recent changes
@@ -70,4 +70,4 @@ Date: 2026-07-12
 
 ## Sources
 
-No public source links.
+- [World Cup integrity questioned by European rights body urging FIFA to help protect 2030 tournament](https://www.pbs.org/newshour/world/world-cup-integrity-questioned-by-european-rights-body-urging-fifa-to-help-protect-2030-tournament?utm_source=lootura.com) — 2026-07-19T17:31:59.000Z

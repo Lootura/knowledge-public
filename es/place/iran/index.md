@@ -70,4 +70,4 @@ Date: 2026-07-18
 
 ## Fuentes
 
-- [España-Argentina, la verdadera Finalissima decide el Mundial](https://elpais.com/deportes/mundial-futbol/2026-07-19/espana-argentina-la-verdadera-finalissima-decide-el-mundial.html?utm_source=lootura.com) — 2026-07-19T03:30:01.000Z
+No public source links.

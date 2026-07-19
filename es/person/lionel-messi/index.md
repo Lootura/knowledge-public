@@ -3,7 +3,7 @@
 > Sigue la actividad de Lionel Messi en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-19T16:56:12.315Z
+- Actualizado: 2026-07-19T20:42:54.963Z
 - Canonical: https://atlas.lootura.com/es/person/lionel-messi
 
 ## Cambios recientes
@@ -70,5 +70,5 @@ Date: 2026-07-15
 
 ## Fuentes
 
-- [Colón, abarrotada de aficionados que creen en el triunfo: "Somos mejores y se lo vamos a demostrar a Messi"](https://www.20minutos.es/deportes/futbol/colon-se-convierte-gran-corazon-final-mundial-asi-se-viven-ya-directo-las-horas-previas_7016399_0.html?utm_source=lootura.com) — 2026-07-19T15:25:28.000Z
+- [España tiene dos claras y se repone al juego sucio de Argentina](https://www.20minutos.es/deportes/futbol/espana-argentina-final-mundial-2026-directo-ultima-hora-partido-alineaciones-goles-resultados_7016308_6.html?utm_source=lootura.com) — 2026-07-19T18:28:59.000Z
 - [Inglaterra se lleva la medalla de bronce tras un festival de goles](https://www.elcorreo.com/deportes/futbol/mundial/inglaterra-lleva-medalla-bronce-tras-festival-goles-20260718011119-ntrc_amp.html?utm_source=lootura.com) — 2026-07-18T23:11:19.000Z
