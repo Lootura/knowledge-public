@@ -8,11 +8,21 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/partido-popular/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/partido-popular/index.json",
   "description": "Sigue la actividad de Partido Popular en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-19T06:28:06.146Z",
+  "updatedAt": "2026-07-19T09:49:47.811Z",
   "aliases": [
     "PP"
   ],
   "changes": [
+    {
+      "title": "El PP reduce sus beneficios a la mitad en el último año",
+      "summary": "Los populares, que compraron dos sedes en Andalucía el año pasado, aumentaron su patrimonio neto de los 81 a los 90,6 millones de euros El PP de Feijóo promete una ambiciosa contrarreforma legal con recortes en derechos sociales si llega al poder El Partido Popular (PP) registró un beneficio neto acumulado de 9,6 millo.",
+      "date": "2026-07-19"
+    },
+    {
+      "title": "El PP pide que Marlaska y Mercedes González comparezcan por presuntas presiones políticas",
+      "summary": "Los populares presentan una batería de preguntas parlamentarias para conocer si se ha abierto una investigación interna.",
+      "date": "2026-07-19"
+    },
     {
       "title": "La última ocurrencia de los separatistas de Més en Palma: exigen redactar un plan municipal de espacios donde hay sombra",
       "summary": "La última ocurrencia de los separatistas de Més en Palma: exigen al Ayuntamiento gobernado en minoría por el alcalde del PP, Jaime Martínez, redactar un plan municipal de espacios y zonas donde hace sombra y elaborarlo en un plazo máximo de seis meses. En plena ola de calor, la formación culpa al PP de no desplegar nin.",
@@ -52,37 +62,21 @@
       "title": "Feijóo presenta este sábado en Santiago a los candidatos del PP a las capitales de provincia",
       "summary": "El líder del Partido Popular , Alberto Núñez Feijóo , presenta este sábado, día 18 de julio, a los candidatos de su formación a las capitales de provincia de toda España de cara a las elecciones municipales del 2027 . El acto tendrá lugar en la Cidade da Cultura de Santiago de Compostela y en él también intervendrá el.",
       "date": "2026-07-18"
-    },
-    {
-      "title": "Feijóo pide al PP «ganar, ganar y volver a ganar» en las municipales: «Las urnas serán la sentencia del sanchismo»",
-      "summary": "El presidente del PP, Alberto Núñez Feijóo , ha presentado este sábado en Santiago de Compostela (Galicia) a los 54 candidatos de su formación en capitales de provincia, capitales de comunidad autónoma y las siete grandes ciudades gallegas para las próximas elecciones municipales del próximo 23 de mayo. El líder popula.",
-      "date": "2026-07-18"
-    },
-    {
-      "title": "Almeida en la presentación de los candidatos de Feijóo a las municipales: «Tenemos el mejor equipo y el mejor seleccionador»",
-      "summary": "El alcalde de Madrid y aspirante a la reelección en las próximas elecciones municipales, José Luis Martínez-Almeida , ha puesto en valor el conjunto de candidaturas del PP en las capitales de provincia para estos comicios, y el papel de su líder, Alberto Núñez Feijóo . «Tenemos el mejor equipo y el mejor seleccionador.",
-      "date": "2026-07-18"
     }
   ],
   "sources": [
     {
-      "title": "El PP prepara una política de hierro para desmontar el sanchismo económico",
-      "url": "https://www.abc.es/economia/maria-jesus-perez-pp-prepara-politica-hierro-desmontar-sanchismo-economico-20260719011037-nt.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-19T06:07:22.000Z",
-      "sourceId": "lootura-es-abc"
-    },
-    {
-      "title": "La doble vara de medir del PP de Ayuso ante el acoso sexual: de las críticas a Salazar al apoyo al alcalde de Móstoles",
-      "url": "https://www.eldiario.es/madrid/doble-vara-medir-pp-ayuso-acoso-sexual-criticas-salazar-apoyo-alcalde-mostoles_1_13378846.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-18T20:23:04.000Z",
+      "title": "El PP reduce sus beneficios a la mitad en el último año",
+      "url": "https://www.eldiario.es/politica/pp-reduce-beneficios-mitad-ultimo-ano_1_13391211.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-19T08:51:17.000Z",
       "sourceId": "lootura-es-eldiario-es"
     },
     {
-      "title": "La última ocurrencia de los separatistas de Més en Palma: exigen redactar un plan municipal de espacios donde hay sombra",
-      "url": "https://okdiario.com/baleares/ultima-ocurrencia-separatistas-mes-palma-exigen-redactar-plan-municipal-espacios-donde-hace-sombra-19017553?utm_source=lootura.com",
-      "publishedAt": "2026-07-19T02:00:09.000Z",
-      "sourceId": "lootura-es-ok-diario"
+      "title": "El PP pide que Marlaska y Mercedes González comparezcan por presuntas presiones políticas",
+      "url": "https://theobjective.com/espana/politica/2026-07-19/pp-marlaska-mercedes-gonzalez/?amp=&utm_source=lootura.com",
+      "publishedAt": "2026-07-19T08:57:09.000Z",
+      "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 2
 }

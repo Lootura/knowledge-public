@@ -3,20 +3,38 @@
 > Sigue la actividad de España en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-19T06:28:06.146Z
+- Actualizado: 2026-07-19T09:49:47.811Z
 - Canonical: https://atlas.lootura.com/es/place/espana
 
 ## Cambios recientes
 
-### Farlin Condori se proclama campeón de España y sorprende con una pedida de mano tras el combate
-
-Farlin Condori se proclama campeón de España y sorprende con una pedida de mano tras el combate.
-
-Date: 2026-07-19
-
 ### Carlos Cuerpo, el vuelo imperturbable de un vicepresidente
 
 Carlos Cuerpo lleva tatuado a El Principito en la parte interior de su brazo izquierdo. Se hizo el dibujo en 2019, en Las Vegas, por motivos que prefiere reservarse, pero este julio de 2026, cuando cumple 100 días como vicepresidente primero del Gobierno en este polvorín político que es España, un pasaje de la obra de.
+
+Date: 2026-07-19
+
+### La confianza empresarial en Andalucía mejora un 4% en el tercer trimestre del año y supera la media nacional
+
+La confianza de los empresarios andaluces en la marcha de la economía de la comunidad ha aumentado un 4% en el tercer trimestre del año en comparación con el trimestre anterior, un incremento de más de un punto respecto a la media de España, situada en el 3,2%, según el Indicador de Confianza Empresarial Armonizado (IC.
+
+Date: 2026-07-19
+
+### Incendios en España, en directo hoy: última hora de los fuegos activos, evolución y situación en Aragón, Castilla-La Mancha, Madrid y Andalucía
+
+Sigue en directo la última hora de los incendios forestales activos en España.
+
+Date: 2026-07-19
+
+### Mbappé pone el listón imposible a Messi por la Bota de Oro: deberá marcar un hat-trick contra España
+
+Kylian Mbappé dio un paso de gigante hacia la Bota de Oro con su doblete ante Inglaterra y se lo pone todavía más difícil a Leo Messi. Ambos llegaban empatados a goles a esta última ronda, pero con el argentino liderando por una asistencia. Los dos tantos anotados por el jugador del Real Madrid en el partido por el ter.
+
+Date: 2026-07-19
+
+### Farlin Condori se proclama campeón de España y sorprende con una pedida de mano tras el combate
+
+Farlin Condori se proclama campeón de España y sorprende con una pedida de mano tras el combate.
 
 Date: 2026-07-19
 
@@ -50,29 +68,13 @@ Nicola Gratteri, nacido en la cuna de la mafia 'Ndrangheta, vive en una cápsula
 
 Date: 2026-07-18
 
-### La España de la generación sin miedo: "Saben competir, saben ganar y eso da cada vez más confianza"
-
-"Tienen muchos trofeos, eso les hace ver los partidos como un reto, seguros de sí mismos", explica Rafa Benítez a EL MUNDO. Leer.
-
-Date: 2026-07-18
-
-### Política y justicia, el cóctel explosivo que sacude España
-
-Hace ya tiempo que el debate público en España apenas se ocupa de asuntos en teoría candentes como la carestía de la vivienda, los servicios públicos o las relaciones internacionales. Lo que acapara día tras día las disputas de los partidos o las tertulias políticas son los autos judiciales, las imputaciones, las sente.
-
-Date: 2026-07-18
-
-### España lidera la recuperación de las agencias de empleo y ETT en Europa
-
-España se posiciona entre los mercados europeos con mejor desempeño de la actividad de las agencias de empleo en el arranque de 2026 . El último informe Labour Market Intelligence Insights, elaborado por la World Employment Confederation (WEC), recoge que las horas trabajadas por profesionales contratados a través de a.
-
-Date: 2026-07-18
-
 ## Fuentes
 
-- [España contra Argentina en la gran final del Mundial 2026: la gloria pasa por ganarle a Messi](https://www.20minutos.es/deportes/futbol/espana-contra-argentina-gran-final-mundial-2026-gloria-pasa-por-ganarle-messi_7015980_0.html?utm_source=lootura.com) — 2026-07-19T06:13:37.000Z
+- [Alineación posible de España en la final del Mundial ante Argentina](https://www.20minutos.es/deportes/futbol/alineacion-posible-espana-final-mundial-ante-argentina_7015884_0.html?utm_source=lootura.com) — 2026-07-19T06:19:51.000Z
 - [Carlos Cuerpo, el vuelo imperturbable de un vicepresidente](https://elpais.com/economia/2026-07-19/carlos-cuerpo-el-vuelo-imperturbable-de-un-vicepresidente.html?utm_source=lootura.com) — 2026-07-19T03:45:01.000Z
-- [Margallo: "Lo de Gibraltar no tiene vuelta atrás, Sánchez desguaza el Estado pieza a pieza"](https://www.elconfidencial.com/espana/2026-07-19/margallo-gibraltar-geopolitica-sanchez-zapatero-estados-unidos-cbtrntrv_4391911/?utm_source=lootura.com) — 2026-07-19T03:00:00.000Z
+- [El último paso para alcanzar la segunda estrella](https://www.elcorreo.com/deportes/futbol/mundial/ultimo-paso-alcanzar-segunda-estrella-20260718002157-ntrc_amp.html?utm_source=lootura.com) — 2026-07-18T22:21:57.000Z
 - [En el búnker del fiscal que lleva 37 años escoltado por su lucha contra la mayor mafia del mundo: "España es de gran interés para nuestros capos"](https://www.elmundo.es/cronica/2026/07/18/6a5a6278e4d4d8ef548b4586.html?utm_source=lootura.com) — 2026-07-18T20:54:26.000Z
 - [La España de la generación sin miedo: "Saben competir, saben ganar y eso da cada vez más confianza"](https://www.elmundo.es/deportes/futbol/mundial-de-futbol/2026/07/19/6a5bc91de9cf4a27698b45b9.html?utm_source=lootura.com) — 2026-07-18T23:01:51.000Z
-- [Farlin Condori se proclama campeón de España y sorprende con una pedida de mano tras el combate](https://okdiario.com/baleares/farlin-condori-proclama-campeon-espana-sorprende-pedida-mano-combate-19024390/amp?utm_source=lootura.com) — 2026-07-19T02:00:56.000Z
+- [La confianza empresarial en Andalucía mejora un 4% en el tercer trimestre del año y supera la media nacional](https://www.larazon.es/andalucia/confianza-empresarial-andalucia-mejora-4-tercer-trimestre-ano-supera-media-nacional_202607196a5c9903e9f2e84b5c7162ba.html?utm_source=lootura.com) — 2026-07-19T09:29:39.000Z
+- [Incendios en España, en directo hoy: última hora de los fuegos activos, evolución y situación en Aragón, Castilla-La Mancha, Madrid y Andalucía](https://www.larazon.es/sociedad/incendios-espana-directo-hoy-ultima-hora-fuegos-activos-evolucion-situacion-aragon-castillala-mancha-madrid-andalucia-b50m_202607196a5bbe1b0500ab412c9d4ee3.html?outputType=amp&utm_source=lootura.com) — 2026-07-19T09:49:18.000Z
+- [Mbappé pone el listón imposible a Messi por la Bota de Oro: deberá marcar un hat-trick contra España](https://okdiario.com/mundial/mbappe-pone-liston-imposible-messi-bota-oro-debera-marcar-hat-trick-contra-espana-19025341?utm_source=lootura.com) — 2026-07-19T09:21:08.000Z

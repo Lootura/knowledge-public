@@ -3,7 +3,7 @@
 > Follow Democratic Party, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-07-19T06:28:34.077Z
+- Updated: 2026-07-19T09:50:13.921Z
 - Canonical: https://atlas.lootura.com/us/organization/democratic-party
 
 ## Recent changes
@@ -20,15 +20,15 @@ New York City Democratic Mayor Zohran Mamdani is embracing his identity as a Dem
 
 Date: 2026-07-19
 
-### Without Platner, Maine Democrats Scramble to Keep Grassroots Energy Alive
-
-Graham Platner’s campaign for Senate imploded last week. The activists who backed him are seeking a candidate to carry his populist message in the race against Republican Susan Collins.
-
-Date: 2026-07-18
-
 ### These AIPAC-Backed Democrats Voted to Nix Israel Aid. AIPAC Punished Them.
 
 Of the 103 Democrats who voted to eliminate aid to Israel, more than a dozen had been endorsed by the pro-Israel lobbying group. AIPAC quickly closed off online donations for them.
+
+Date: 2026-07-18
+
+### Without Platner, Maine Democrats Scramble to Keep Grassroots Energy Alive
+
+Graham Platner’s campaign for Senate imploded last week. The activists who backed him are seeking a candidate to carry his populist message in the race against Republican Susan Collins.
 
 Date: 2026-07-18
 
@@ -70,6 +70,5 @@ Date: 2026-07-17
 
 ## Sources
 
-- [US politicians push agencies to restrict research collaboration with China](https://www.nature.com/articles/d41586-026-02226-9?utm_source=lootura.com) — 2026-07-19T06:28:38.446Z
-- [Without Platner, Maine Democrats Scramble to Keep Grassroots Energy Alive](https://www.nytimes.com/2026/07/18/us/politics/platner-voters-maine-senate.html?utm_source=lootura.com) — 2026-07-18T09:02:12.000Z
+- [US politicians push agencies to restrict research collaboration with China](https://www.nature.com/articles/d41586-026-02226-9?utm_source=lootura.com) — 2026-07-19T09:50:17.527Z
 - [These AIPAC-Backed Democrats Voted to Nix Israel Aid. AIPAC Punished Them.](https://www.nytimes.com/2026/07/18/us/politics/aipac-democrats-donations-israel-vote.html?utm_source=lootura.com) — 2026-07-18T18:19:08.000Z

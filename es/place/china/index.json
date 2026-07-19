@@ -8,9 +8,14 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/china/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/china/index.json",
   "description": "Sigue la actividad de China en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-18T06:02:46.495Z",
+  "updatedAt": "2026-07-19T09:49:47.811Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "Didi en China, así funciona la app de VTC para moverse por las ciudades que visites",
+      "summary": "Hace unos días escribí sobre la experiencia de un robotaxi , vehículo sin conductor, en mi viaje a China. Ahora, voy con otro asunto a tener en cuenta si viajas al gigante asiático. Pedir un Didi ha sido una de las cosas que más rápido incorporé a mi rutina durante un viaje reciente a Shenzhen. La compañía absorbió el.",
+      "date": "2026-07-19"
+    },
     {
       "title": "China exige a Trump que aparque el «invento» de la presunta injerencia electoral en 2020",
       "summary": "China ha rechazado por completo las acusaciones formuladas por el presidente de Estados Unidos , Donald Trump , quien, esta pasada noche y en un discurso ante la nación, denunció que las autoridades de Pekín se habían inmiscuido en el desarrollo de las elecciones de 2020 . Trump y el Gobierno de Estados Unidos acusaron.",
@@ -55,13 +60,15 @@
       "title": "La pesadilla de financiar ensayos cuando el mono es un «artículo de lujo»",
       "summary": "El meteórico avance de la terapia génica y la neurociencia es rehén de su propia naturaleza. La explosión de ensayos farmacéuticos en China ha provocado el secado global del mercado del Macaca fascicularis, el único primate capaz de replicar con altísima precisión el comportamiento inmunológico humano. Con la demanda d.",
       "date": "2026-07-17"
-    },
-    {
-      "title": "Trump anuncia la desclasificación de documentos sobre una supuesta injerencia electoral china en 2020",
-      "summary": "El presidente sostuvo que Pekín obtuvo de forma ilícita acceso a los datos de más de 220 millones de votantes estadounidenses.",
-      "date": "2026-07-17"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Didi en China, así funciona la app de VTC para moverse por las ciudades que visites",
+      "url": "https://okdiario.com/tecnologia/didi-china-asi-funciona-app-vtc-moverse-ciudades-que-visites-19025483?utm_source=lootura.com",
+      "publishedAt": "2026-07-19T09:35:35.000Z",
+      "sourceId": "lootura-es-ok-diario"
+    }
+  ],
+  "evidenceCount": 1
 }

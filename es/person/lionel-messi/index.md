@@ -3,10 +3,16 @@
 > Sigue la actividad de Lionel Messi en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-19T06:28:06.146Z
+- Actualizado: 2026-07-19T09:49:47.811Z
 - Canonical: https://atlas.lootura.com/es/person/lionel-messi
 
 ## Cambios recientes
+
+### Mbappé pone el listón imposible a Messi por la Bota de Oro: deberá marcar un hat-trick contra España
+
+Kylian Mbappé dio un paso de gigante hacia la Bota de Oro con su doblete ante Inglaterra y se lo pone todavía más difícil a Leo Messi. Ambos llegaban empatados a goles a esta última ronda, pero con el argentino liderando por una asistencia. Los dos tantos anotados por el jugador del Real Madrid en el partido por el ter.
+
+Date: 2026-07-19
 
 ### Inglaterra se lleva la medalla de bronce tras un festival de goles
 
@@ -64,4 +70,6 @@ Date: 2026-07-15
 
 ## Fuentes
 
+- [Llegó el gran día: España entera se une para conquistar su segundo Mundial](https://www.20minutos.es/deportes/futbol/espana-argentina-mundial-2026-directo-ultima-hora-previa-posibles-alineaciones-final_7016308_6.html?utm_source=lootura.com) — 2026-07-19T07:26:31.000Z
 - [Inglaterra se lleva la medalla de bronce tras un festival de goles](https://www.elcorreo.com/deportes/futbol/mundial/inglaterra-lleva-medalla-bronce-tras-festival-goles-20260718011119-ntrc_amp.html?utm_source=lootura.com) — 2026-07-18T23:11:19.000Z
+- [Mbappé pone el listón imposible a Messi por la Bota de Oro: deberá marcar un hat-trick contra España](https://okdiario.com/mundial/mbappe-pone-liston-imposible-messi-bota-oro-debera-marcar-hat-trick-contra-espana-19025341?utm_source=lootura.com) — 2026-07-19T09:21:08.000Z

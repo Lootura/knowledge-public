@@ -8,14 +8,9 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/russia/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/russia/index.json",
   "description": "Follow Russia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-19T06:28:34.077Z",
+  "updatedAt": "2026-07-19T09:50:13.921Z",
   "aliases": [],
   "changes": [
-    {
-      "title": "Russia Bill Broadens Sanctions but Could Fuel Fears Over the Dollar",
-      "summary": "The Trump administration has recently sought to scale back sanctions as adversaries develop workarounds that some believe could erode the U.S. dollar’s supremacy.",
-      "date": "2026-07-18"
-    },
     {
       "title": "Ukrainian drone attacks on Russia kill at least 9, injure over 60",
       "summary": "Kyiv's forces are continuing their relentless aerial campaign​ against energy infrastructure and military targets inside Russia.",
@@ -24,6 +19,11 @@
     {
       "title": "Ukrainian drones hit warehouses and other sites across Russia, killing 9 and wounding over 60",
       "summary": "Kyiv's forces have pressed their relentless aerial campaign against energy infrastructure and military targets inside Russia, aiming to undermine Moscow's war effort and make Russians feel the consequences of the Kremlin's all-out invasion of Ukraine that is well into its fifth year.",
+      "date": "2026-07-18"
+    },
+    {
+      "title": "Russia Bill Broadens Sanctions but Could Fuel Fears Over the Dollar",
+      "summary": "The Trump administration has recently sought to scale back sanctions as adversaries develop workarounds that some believe could erode the U.S. dollar’s supremacy.",
       "date": "2026-07-18"
     },
     {
@@ -74,13 +74,7 @@
       "url": "https://www.pbs.org/newshour/world/ukrainian-drones-hit-warehouses-and-other-sites-across-russia-killing-9-and-wounding-over-60?utm_source=lootura.com",
       "publishedAt": "2026-07-18T17:21:36.000Z",
       "sourceId": "lootura-us-pbs-newshour"
-    },
-    {
-      "title": "Russia Bill Broadens Sanctions but Could Fuel Fears Over the Dollar",
-      "url": "https://www.nytimes.com/2026/07/18/us/politics/russia-bill-sanctions-trump.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-18T09:01:37.000Z",
-      "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 2
 }

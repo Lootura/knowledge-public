@@ -3,20 +3,26 @@
 > Sigue la actividad de Iran en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-19T06:28:06.146Z
+- Actualizado: 2026-07-19T09:49:47.811Z
 - Canonical: https://atlas.lootura.com/es/place/iran
 
 ## Cambios recientes
 
-### Estados Unidos intensifica bombardeos aéreos contra Irán por octavo día seguido
-
-El Comando Central de las Fuerzas Armadas de Estados Unidos (Centcom) ha confirmado el inicio de una nueva serie de bombardeos aéreos sobre Irán, marcando.
-
-Date: 2026-07-19
-
 ### Las telecos europeas baten al mercado y tocan máximos de casi dos décadas
 
 El sector de telecomunicaciones europeo lleva un mes mostrando debilidad, pero la radiografía conjunta de la primera parte del año refleja un rally continuado, ajeno a las incertidumbres que han rodeado a los mercados con la guerra de Irán y al cambio de la política monetaria del BCE, que ha aprobado la primera subida.
+
+Date: 2026-07-19
+
+### EEUU ataca Irán una noche más tras la muerte de dos de sus militares en una base en Jordania
+
+Estados Unidos ha anunciado el inicio de una nueva ronda de bombardeos contra Irán por orden del presidente Donald Trump , en una operación que tiene como objetivo reducir las capacidades de Teherán para amenazar el tráfico marítimo en el estrecho de Ormuz y responder al ataque -atribuido al Cuerpo de la Guardia Revolu.
+
+Date: 2026-07-19
+
+### Estados Unidos intensifica bombardeos aéreos contra Irán por octavo día seguido
+
+El Comando Central de las Fuerzas Armadas de Estados Unidos (Centcom) ha confirmado el inicio de una nueva serie de bombardeos aéreos sobre Irán, marcando.
 
 Date: 2026-07-19
 
@@ -62,16 +68,8 @@ Al menos tres personas han muerto y otras ocho han resultado heridas como consec
 
 Date: 2026-07-18
 
-### EEUU se queda sin misiles para otras guerras: la continuación del conflicto con Irán está poniendo en riesgo su capacidad militar
-
-La guerra entre Estados Unidos e Irán no termina. Teherán parece estar calculando que su presión sobre el estrecho de Ormuz obligará a Washington a ceder por completo. En la Casa Blanca parecen apostar por que sus nuevas acciones militares obligarán al régimen iraní a ceder y permitir el flujo normalizado del comercio.
-
-Date: 2026-07-18
-
 ## Fuentes
 
 - [Las telecos europeas baten al mercado y tocan máximos de casi dos décadas](https://cincodias.elpais.com/mercados-financieros/2026-07-19/las-telecos-europeas-baten-al-mercado-y-tocan-maximos-de-casi-dos-decadas.html?utm_source=lootura.com) — 2026-07-19T03:30:00.000Z
-- [EEUU ataca de nuevo Irán tras la muerte de dos militares estadounidenses en un ataque iraní en Jordania](https://www.elmundo.es/internacional/2026/07/18/6a5b9252fdddff6f568b4582.html?utm_source=lootura.com) — 2026-07-18T19:08:29.000Z
 - [Irán mata a dos soldados de Estados Unidos en un ataque contra una base en Jordania](https://elpais.com/internacional/2026-07-18/iran-deja-en-suspenso-la-tregua-con-estados-unidos-tras-acusarle-de-matar-a-50-personas-en-tres-semanas.html?utm_source=lootura.com) — 2026-07-18T21:57:43.000Z
-- [Por qué las idas y venidas de Trump alejan la solución a la crisis en el estrecho de Ormuz](https://www.eldiario.es/internacional/theguardian/idas-venidas-trump-alejan-solucion-crisis-estrecho-ormuz_129_13388001.html?utm_source=lootura.com) — 2026-07-18T20:23:04.000Z
-- [Estados Unidos intensifica bombardeos aéreos contra Irán por octavo día seguido](https://theobjective.com/internacional/2026-07-19/estados-unidos-intensifica-bombardeos-aereos-contra-iran-por-octavo-dia-seguido/?amp=&utm_source=lootura.com) — 2026-07-19T00:39:11.000Z
+- [EEUU ataca Irán una noche más tras la muerte de dos de sus militares en una base en Jordania](https://theobjective.com/internacional/2026-07-19/eeuu-ataca-iran-muerte-dos-militares-base-jordania/?utm_source=lootura.com) — 2026-07-19T06:32:05.000Z

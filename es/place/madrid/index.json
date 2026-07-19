@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/madrid/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/madrid/index.json",
   "description": "Sigue la actividad de Madrid en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-19T06:28:06.146Z",
+  "updatedAt": "2026-07-19T09:49:47.811Z",
   "aliases": [],
   "changes": [
     {
@@ -27,6 +27,31 @@
       "date": "2026-07-19"
     },
     {
+      "title": "El refugio de Broncano está a 180 kilómetros de Madrid: es un destino gastronómico con parcelas enormes y mucha naturaleza",
+      "summary": "Broncano tiene su refugio en Ávila, concretamente en la Sierra de Gredos, donde se compró varias parcelas junto a Silvia Alonso.",
+      "date": "2026-07-19"
+    },
+    {
+      "title": "Muere un motorista de 50 años al salirse de la carretera en Rascafría (Madrid)",
+      "summary": "Un hombre de 50 años ha perdido la vida esta noche al salirse de la vía cuando circulaba en moto por el kilómetro 26 de la M-604, dentro del término municipal de Rascafría . Emergencias 112 Comunidad de Madrid informó de que un equipo sanitario del Summa 112 acudió al lugar del siniestro. A su llegada, únicamente pudie.",
+      "date": "2026-07-19"
+    },
+    {
+      "title": "La Audiencia de Madrid completa el trabajo de Peinado contra Begoña Gómez",
+      "summary": "'Política para supervivientes' es una carta semanal de Iñigo Sáenz de Ugarte exclusiva para socios y socias de elDiario.es con historias sobre política nacional. Si tú también lo quieres leer y recibir cada domingo en tu buzón, hazte socio, hazte socia de elDiario.es Julio es un mes en que la política funciona a medio.",
+      "date": "2026-07-19"
+    },
+    {
+      "title": "Incendios en España, en directo hoy: última hora de los fuegos activos, evolución y situación en Aragón, Castilla-La Mancha, Madrid y Andalucía",
+      "summary": "Sigue en directo la última hora de los incendios forestales activos en España.",
+      "date": "2026-07-19"
+    },
+    {
+      "title": "Mbappé pone el listón imposible a Messi por la Bota de Oro: deberá marcar un hat-trick contra España",
+      "summary": "Kylian Mbappé dio un paso de gigante hacia la Bota de Oro con su doblete ante Inglaterra y se lo pone todavía más difícil a Leo Messi. Ambos llegaban empatados a goles a esta última ronda, pero con el argentino liderando por una asistencia. Los dos tantos anotados por el jugador del Real Madrid en el partido por el ter.",
+      "date": "2026-07-19"
+    },
+    {
       "title": "Margallo: \"Lo de Gibraltar no tiene vuelta atrás, Sánchez desguaza el Estado pieza a pieza\"",
       "summary": "A José Manuel García-Margallo (Madrid, 1944) le duele España. Y le preocupa. Ministro de Asuntos Exteriores de Mariano Rajoy entre 2011 y 2016, fue el jefe de la diplomacia española con Juan Carlos I y en los primeros años de Felipe VI. A sus 82 años sigue leyendo y escribiendo y disfruta participando en los medios de.",
       "date": "2026-07-19"
@@ -35,31 +60,6 @@
       "title": "Precio de la gasolina hoy 19 de julio: localiza las gasolineras más baratas de Madrid",
       "summary": "El domingo suele ser ese momento en el que muchos dan por terminado el fin de semana fuera de casa. Los que han salido de Madrid emprenden el camino de vuelta, mientras otros apuran las últimas horas libres con algún plan improvisado o dejando todo listo para la semana que empieza y más si por fin tienen vacaciones . E.",
       "date": "2026-07-19"
-    },
-    {
-      "title": "El refugio de Broncano está a 180 kilómetros de Madrid: es un destino gastronómico con parcelas enormes y mucha naturaleza",
-      "summary": "Broncano tiene su refugio en Ávila, concretamente en la Sierra de Gredos, donde se compró varias parcelas junto a Silvia Alonso.",
-      "date": "2026-07-19"
-    },
-    {
-      "title": "El PSOE de Madrid elige entre la continuidad de Reyes Maroto o volver a empezar con Enma López",
-      "summary": "Los militantes del PSOE de Madrid están convocados a las urnas este domingo, para elegir en primarias a su candidata a la Alcaldía de la capital en la próxima cita electoral, el 23 de mayo de 2027. La actual portavoz socialista municipal, Reyes Maroto , se enfrentará a su portavoz adjunta en el ayuntamiento, Enma López.",
-      "date": "2026-07-19"
-    },
-    {
-      "title": "Un muerto, un herido muy grave y otro grave tras un ataque entre bandas latinas en Madrid",
-      "summary": "Por el momento no hay detenidos. Leer.",
-      "date": "2026-07-18"
-    },
-    {
-      "title": "La doble vara de medir del PP de Ayuso ante el acoso sexual: de las críticas a Salazar al apoyo al alcalde de Móstoles",
-      "summary": "El PP de Madrid sigue apostando por un apoyo cerrado a Manuel Bautista, a pesar de su imputación por acoso sexual y laboral mientras Ayuso incluso alaba su trabajo como regidor, una posición muy diferente a la que tomaron con otros escándalos que afectan al PSOE o a otros partidos de la izquierda Ayuso, tras conocer qu.",
-      "date": "2026-07-18"
-    },
-    {
-      "title": "Muere la mujer quemada viva por dos sicarios contratados por su marido en Madrid",
-      "summary": "La expareja y los dos homicidas están en prisión desde el ataque ocurrido el pasado mes de febrero Leer.",
-      "date": "2026-07-18"
     }
   ],
   "sources": [
@@ -76,16 +76,10 @@
       "sourceId": "lootura-es-cinco-dias"
     },
     {
-      "title": "Margallo: \"Lo de Gibraltar no tiene vuelta atrás, Sánchez desguaza el Estado pieza a pieza\"",
-      "url": "https://www.elconfidencial.com/espana/2026-07-19/margallo-gibraltar-geopolitica-sanchez-zapatero-estados-unidos-cbtrntrv_4391911/?utm_source=lootura.com",
-      "publishedAt": "2026-07-19T03:00:00.000Z",
+      "title": "Muere un motorista de 50 años al salirse de la carretera en Rascafría (Madrid)",
+      "url": "https://www.elconfidencial.com/espana/madrid/2026-07-19/motorista-muere-accidente-rascafria-1tps_4392394/?utm_source=lootura.com",
+      "publishedAt": "2026-07-19T08:43:00.000Z",
       "sourceId": "lootura-es-el-confidencial"
-    },
-    {
-      "title": "Un muerto, un herido muy grave y otro grave tras un ataque entre bandas latinas en Madrid",
-      "url": "https://www.elmundo.es/madrid/2026/07/18/6a5b1c59e4d4d81c148b4593.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-18T16:10:50.000Z",
-      "sourceId": "lootura-es-el-mundo"
     },
     {
       "title": "Lo que la Audiencia de Madrid no ha cambiado: el juicio a Begoña Gómez se mantiene para antes de las generales",
@@ -94,15 +88,21 @@
       "sourceId": "lootura-es-el-mundo"
     },
     {
-      "title": "La doble vara de medir del PP de Ayuso ante el acoso sexual: de las críticas a Salazar al apoyo al alcalde de Móstoles",
-      "url": "https://www.eldiario.es/madrid/doble-vara-medir-pp-ayuso-acoso-sexual-criticas-salazar-apoyo-alcalde-mostoles_1_13378846.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-18T20:23:04.000Z",
+      "title": "La Audiencia de Madrid completa el trabajo de Peinado contra Begoña Gómez",
+      "url": "https://www.eldiario.es/blog/politica-para-supervivientes/audiencia-madrid-completa-trabajo-peinado-begona-gomez_132_13388699.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-19T06:15:53.000Z",
       "sourceId": "lootura-es-eldiario-es"
     },
     {
-      "title": "Precio de la gasolina hoy 19 de julio: localiza las gasolineras más baratas de Madrid",
-      "url": "https://okdiario.com/madrid/precio-gasolina-hoy-19-julio-localiza-gasolineras-mas-baratas-madrid-18986604?utm_source=lootura.com",
-      "publishedAt": "2026-07-19T06:15:44.000Z",
+      "title": "Incendios en España, en directo hoy: última hora de los fuegos activos, evolución y situación en Aragón, Castilla-La Mancha, Madrid y Andalucía",
+      "url": "https://www.larazon.es/sociedad/incendios-espana-directo-hoy-ultima-hora-fuegos-activos-evolucion-situacion-aragon-castillala-mancha-madrid-andalucia-b50m_202607196a5bbe1b0500ab412c9d4ee3.html?outputType=amp&utm_source=lootura.com",
+      "publishedAt": "2026-07-19T09:49:18.000Z",
+      "sourceId": "lootura-es-la-razon"
+    },
+    {
+      "title": "Mbappé pone el listón imposible a Messi por la Bota de Oro: deberá marcar un hat-trick contra España",
+      "url": "https://okdiario.com/mundial/mbappe-pone-liston-imposible-messi-bota-oro-debera-marcar-hat-trick-contra-espana-19025341?utm_source=lootura.com",
+      "publishedAt": "2026-07-19T09:21:08.000Z",
       "sourceId": "lootura-es-ok-diario"
     },
     {

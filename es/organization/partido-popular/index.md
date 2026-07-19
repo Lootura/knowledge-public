@@ -3,10 +3,22 @@
 > Sigue la actividad de Partido Popular en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-19T06:28:06.146Z
+- Actualizado: 2026-07-19T09:49:47.811Z
 - Canonical: https://atlas.lootura.com/es/organization/partido-popular
 
 ## Cambios recientes
+
+### El PP reduce sus beneficios a la mitad en el último año
+
+Los populares, que compraron dos sedes en Andalucía el año pasado, aumentaron su patrimonio neto de los 81 a los 90,6 millones de euros El PP de Feijóo promete una ambiciosa contrarreforma legal con recortes en derechos sociales si llega al poder El Partido Popular (PP) registró un beneficio neto acumulado de 9,6 millo.
+
+Date: 2026-07-19
+
+### El PP pide que Marlaska y Mercedes González comparezcan por presuntas presiones políticas
+
+Los populares presentan una batería de preguntas parlamentarias para conocer si se ha abierto una investigación interna.
+
+Date: 2026-07-19
 
 ### La última ocurrencia de los separatistas de Més en Palma: exigen redactar un plan municipal de espacios donde hay sombra
 
@@ -56,20 +68,7 @@ El líder del Partido Popular , Alberto Núñez Feijóo , presenta este sábado,
 
 Date: 2026-07-18
 
-### Feijóo pide al PP «ganar, ganar y volver a ganar» en las municipales: «Las urnas serán la sentencia del sanchismo»
-
-El presidente del PP, Alberto Núñez Feijóo , ha presentado este sábado en Santiago de Compostela (Galicia) a los 54 candidatos de su formación en capitales de provincia, capitales de comunidad autónoma y las siete grandes ciudades gallegas para las próximas elecciones municipales del próximo 23 de mayo. El líder popula.
-
-Date: 2026-07-18
-
-### Almeida en la presentación de los candidatos de Feijóo a las municipales: «Tenemos el mejor equipo y el mejor seleccionador»
-
-El alcalde de Madrid y aspirante a la reelección en las próximas elecciones municipales, José Luis Martínez-Almeida , ha puesto en valor el conjunto de candidaturas del PP en las capitales de provincia para estos comicios, y el papel de su líder, Alberto Núñez Feijóo . «Tenemos el mejor equipo y el mejor seleccionador.
-
-Date: 2026-07-18
-
 ## Fuentes
 
-- [El PP prepara una política de hierro para desmontar el sanchismo económico](https://www.abc.es/economia/maria-jesus-perez-pp-prepara-politica-hierro-desmontar-sanchismo-economico-20260719011037-nt.html?utm_source=lootura.com) — 2026-07-19T06:07:22.000Z
-- [La doble vara de medir del PP de Ayuso ante el acoso sexual: de las críticas a Salazar al apoyo al alcalde de Móstoles](https://www.eldiario.es/madrid/doble-vara-medir-pp-ayuso-acoso-sexual-criticas-salazar-apoyo-alcalde-mostoles_1_13378846.html?utm_source=lootura.com) — 2026-07-18T20:23:04.000Z
-- [La última ocurrencia de los separatistas de Més en Palma: exigen redactar un plan municipal de espacios donde hay sombra](https://okdiario.com/baleares/ultima-ocurrencia-separatistas-mes-palma-exigen-redactar-plan-municipal-espacios-donde-hace-sombra-19017553?utm_source=lootura.com) — 2026-07-19T02:00:09.000Z
+- [El PP reduce sus beneficios a la mitad en el último año](https://www.eldiario.es/politica/pp-reduce-beneficios-mitad-ultimo-ano_1_13391211.html?utm_source=lootura.com) — 2026-07-19T08:51:17.000Z
+- [El PP pide que Marlaska y Mercedes González comparezcan por presuntas presiones políticas](https://theobjective.com/espana/politica/2026-07-19/pp-marlaska-mercedes-gonzalez/?amp=&utm_source=lootura.com) — 2026-07-19T08:57:09.000Z

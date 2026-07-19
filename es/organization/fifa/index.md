@@ -3,7 +3,7 @@
 > Sigue la actividad de FIFA en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-19T06:28:06.146Z
+- Actualizado: 2026-07-19T09:49:47.811Z
 - Canonical: https://atlas.lootura.com/es/organization/fifa
 
 ## Cambios recientes
@@ -28,4 +28,4 @@ Date: 2026-07-08
 
 ## Fuentes
 
-- [La final de nuestras vidas: la segunda estrella de España o la turra incansable de los argentinos](https://www.eldebate.com/deportes/mundial-futbol-2026/20260719/final-nuestras-vidas-segunda-estrella-espana-turra-incansable-argentinos_441090.html?utm_source=lootura.com) — 2026-07-19T02:20:00.000Z
+- [Los españoles en Argentina, con el corazón dividido para la final del Mundial: "Es muy difícil decir si prefiero que gane uno u otro"](https://www.20minutos.es/internacional/los-espanoles-argentina-con-corazon-dividido-para-final-mundial-es-muy-dificil-decir-si-prefiero-que-gane-uno-otro_7016300_0.html?utm_source=lootura.com) — 2026-07-19T07:20:58.000Z

@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/alberto-nunez-feijoo/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/alberto-nunez-feijoo/index.json",
   "description": "Sigue la actividad de Alberto Núñez Feijóo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-19T02:29:06.108Z",
+  "updatedAt": "2026-07-19T09:49:47.811Z",
   "aliases": [
     "Feijóo",
     "Núñez Feijóo"
   ],
   "changes": [
+    {
+      "title": "El PP reduce sus beneficios a la mitad en el último año",
+      "summary": "Los populares, que compraron dos sedes en Andalucía el año pasado, aumentaron su patrimonio neto de los 81 a los 90,6 millones de euros El PP de Feijóo promete una ambiciosa contrarreforma legal con recortes en derechos sociales si llega al poder El Partido Popular (PP) registró un beneficio neto acumulado de 9,6 millo.",
+      "date": "2026-07-19"
+    },
     {
       "title": "Los candidatos del PP a las alcaldías de Castilla y León apelan a la ambición y a la cercanía",
       "summary": "A pesar de que aún quedan casi diez meses por delante, el partido Popular dio el pistoletazo de salida paras las próximas elecciones municipales del mes de mayo de 2027. Y lo hizo con un gran acto en Santiago de Compostela, presidido por Alberto Núñez Feijóo, y que contó con la presencia de los candidatos de todas las.",
@@ -58,13 +63,15 @@
       "title": "Feijóo no quiso cruzar su línea roja sobre Begoña Gómez y las hijas de Zapatero en el Senado",
       "summary": "La mujer de Sánchez ha sido enviada a juicio. Laura y Alba declararán próximamente como imputadas en el caso Plus Ultra. Ninguna ha pasado ni pasar...",
       "date": "2026-07-18"
-    },
-    {
-      "title": "🎙 PODCAST | ¿Acabará Feijóo siendo presidente gracias a la amnistía?",
-      "summary": "Dijo que era terrorismo, golpe de Estado, delincuencia, corrupción, que había que ilegalizarlos, que negociar era traicionar a la patria, secuestrar la democracia. Y ahora puede beneficiarse de lo que intentó boicotear Un tema Al día, ¡en el teatro! Ven a verlo en directo el 3 de octubre en Madrid. Consigue ya tus entr.",
-      "date": "2026-07-17"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "El PP reduce sus beneficios a la mitad en el último año",
+      "url": "https://www.eldiario.es/politica/pp-reduce-beneficios-mitad-ultimo-ano_1_13391211.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-19T08:51:17.000Z",
+      "sourceId": "lootura-es-eldiario-es"
+    }
+  ],
+  "evidenceCount": 1
 }

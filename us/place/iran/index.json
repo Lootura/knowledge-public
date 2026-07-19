@@ -8,14 +8,9 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/iran/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/iran/index.json",
   "description": "Follow Iran, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-19T06:28:34.077Z",
+  "updatedAt": "2026-07-19T09:50:13.921Z",
   "aliases": [],
   "changes": [
-    {
-      "title": "Iran and Kuwait report attacks on water and power infrastructure as strikes escalate",
-      "summary": "Critical water and power infrastructure sites have been damaged as the U.S. and Iran continue to trade strikes, while the parched Middle East reels from temperatures of 100 degrees and beyond.",
-      "date": "2026-07-18"
-    },
     {
       "title": "Iran says it is suspending commitments to interim deal with U.S. as they exchange attacks",
       "summary": "The widening strikes threatened civilians and services to them, including desalination plants for drinking water, while the global economy again was on alert.",
@@ -29,6 +24,11 @@
     {
       "title": "Why Jordan Is Becoming a New Focus in the U.S.-Iran War",
       "summary": "Four Iranian attacks in five days have targeted U.S. troops in Jordan, U.S. officials said, including one on Friday that killed two soldiers and left another service member missing.",
+      "date": "2026-07-18"
+    },
+    {
+      "title": "Iran and Kuwait report attacks on water and power infrastructure as strikes escalate",
+      "summary": "Critical water and power infrastructure sites have been damaged as the U.S. and Iran continue to trade strikes, while the parched Middle East reels from temperatures of 100 degrees and beyond.",
       "date": "2026-07-18"
     },
     {
@@ -70,12 +70,6 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "Iran and Kuwait report attacks on water and power infrastructure as strikes escalate",
-      "url": "https://www.nbcnews.com/world/iran/water-energy-sites-hit-us-iran-strikes-escalate-rcna588143?utm_source=lootura.com",
-      "publishedAt": "2026-07-18T12:58:17.000Z",
-      "sourceId": "lootura-us-nbc-news"
-    },
-    {
       "title": "Iran says it is suspending commitments to interim deal with U.S. as they exchange attacks",
       "url": "https://www.pbs.org/newshour/world/iran-says-it-is-suspending-commitments-to-interim-deal-with-u-s-as-they-exchange-attacks?utm_source=lootura.com",
       "publishedAt": "2026-07-18T15:34:19.000Z",
@@ -94,5 +88,5 @@
       "sourceId": "lootura-us-the-new-york-times"
     }
   ],
-  "evidenceCount": 5
+  "evidenceCount": 4
 }

@@ -3,10 +3,22 @@
 > Sigue la actividad de Pedro Sánchez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-19T06:28:06.146Z
+- Actualizado: 2026-07-19T09:49:47.811Z
 - Canonical: https://atlas.lootura.com/es/person/pedro-sanchez
 
 ## Cambios recientes
+
+### La presión por la corrupción pasa de Transportes a Interior con Marlaska al frente
+
+La presión por los escándalos de corrupción que rodean al Gobierno de Pedro Sánchez salta al Ministerio del Interior después de la sentencia condenatoria del caso Mascarillas, que corroboró la trama delictiva montada en el seno de la cartera de Transportes cuando José Luis Ábalos estaba al frente de ésta junto a su lug.
+
+Date: 2026-07-19
+
+### Mandos de la Guardia Civil denuncian una «alteración» en el sistema de ascensos para sancionar a los generales y coroneles díscolos
+
+Todo empezó en agosto de 2018. Apenas dos meses después de la llegada de Pedro Sánchez a Moncloa, el ministro del Interior, Fernando Grande-Marlaska emite la primera orden política contra la Unidad Central Operativa (UCO) de la Guardia Civil : dejar sin fondos reservados a la policía judicial para investigar la corrupc.
+
+Date: 2026-07-19
 
 ### Margallo: "Lo de Gibraltar no tiene vuelta atrás, Sánchez desguaza el Estado pieza a pieza"
 
@@ -56,20 +68,7 @@ La mujer de Sánchez ha sido enviada a juicio. Laura y Alba declararán próxima
 
 Date: 2026-07-18
 
-### Junts descarta reconciliarse con Sánchez tras la amnistía: "Esto no allana volver con el PSOE. Que cumpla con los catalanes o se vaya"
-
-"Esta sentencia no llega gracias al PSOE, sino por nuestra persistencia", alega la dirección de los independentistas para plantar a los socialistas Leer.
-
-Date: 2026-07-17
-
-### La Comisión Europea ve “avances limitados” en el plan anticorrupción de Sánchez y reclama más reformas
-
-La Comisión Europea avisa de que España solo ha logrado “avances limitados” en sus reformas para luchar contra la corrupción y que el plan aprobado por el Gobierno de Pedro Sánchez aún no se ha implementado. En su informe sobre el cumplimiento en 2025 del Estado de derecho de la Unión Europea hecho publico este viernes.
-
-Date: 2026-07-17
-
 ## Fuentes
 
-- [Margallo: "Lo de Gibraltar no tiene vuelta atrás, Sánchez desguaza el Estado pieza a pieza"](https://www.elconfidencial.com/espana/2026-07-19/margallo-gibraltar-geopolitica-sanchez-zapatero-estados-unidos-cbtrntrv_4391911/?utm_source=lootura.com) — 2026-07-19T03:00:00.000Z
-- [Yolanda Díaz claudica del liderazgo de Sumar en el Gobierno y se vuelca en su búsqueda de apoyos para la OIT](https://www.elperiodicomediterraneo.com/espana/2026/07/19/yolanda-diaz-claudica-liderazgo-sumar-132595157.html?utm_source=lootura.com) — 2026-07-19T06:26:03.000Z
-- [El Gobierno cerrará el curso parlamentario con 70 leyes en toda la legislatura, más de la mitad decretos](https://www.elperiodicomediterraneo.com/espana/2026/07/19/gobierno-curso-parlamentario-70-leyes-132595129.html?utm_source=lootura.com) — 2026-07-19T06:23:19.000Z
+- [La presión por la corrupción pasa de Transportes a Interior con Marlaska al frente](https://www.abc.es/espana/presion-corrupcion-pasa-transportes-interior-marlaska-frente-20260719011226-nt.html?utm_source=lootura.com) — 2026-07-19T08:45:34.000Z
+- [Mandos de la Guardia Civil denuncian una «alteración» en el sistema de ascensos para sancionar a los generales y coroneles díscolos](https://www.abc.es/espana/mandos-guardia-civil-denuncian-alteracion-sistema-ascensos-20260719011815-nt.html?utm_source=lootura.com) — 2026-07-19T08:21:49.000Z

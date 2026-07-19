@@ -3,10 +3,16 @@
 > Follow Ukraine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-19T06:28:34.077Z
+- Updated: 2026-07-19T09:50:13.921Z
 - Canonical: https://atlas.lootura.com/us/place/ukraine
 
 ## Recent changes
+
+### Ukraine’s Top General Becomes a Target of Protesters’ Anger
+
+Demonstrators supporting Ukraine’s ousted defense minister have begun denouncing the commander he clashed with in office, Gen. Oleksandr Syrskyi.
+
+Date: 2026-07-19
 
 ### Ukrainian drone attacks on Russia kill at least 9, injure over 60
 
@@ -62,14 +68,8 @@ Boris B. Nadezhdin, an outspoken opponent of the war in Ukraine, says he knows w
 
 Date: 2026-07-17
 
-### Ukraine Was on a Roll. Then a Clash Over War Strategy Exploded Into View.
-
-From an underground parking garage, Ukraine’s newly dismissed defense minister aired the most dramatic, public critique of the military command to emerge during the war.
-
-Date: 2026-07-16
-
 ## Sources
 
 - [Ukrainian drone attacks on Russia kill at least 9, injure over 60](https://www.cbsnews.com/news/ukraine-russia-war-drone-attacks-wildberries/?utm_source=lootura.com) — 2026-07-18T16:12:37.000Z
 - [Ukrainian drones hit warehouses and other sites across Russia, killing 9 and wounding over 60](https://www.pbs.org/newshour/world/ukrainian-drones-hit-warehouses-and-other-sites-across-russia-killing-9-and-wounding-over-60?utm_source=lootura.com) — 2026-07-18T17:21:36.000Z
-- [Ukraine’s Top General Becomes a Target of Protesters’ Anger](https://www.nytimes.com/2026/07/18/world/europe/ukraine-protests-general-syrskyi-fedorov.html?utm_source=lootura.com) — 2026-07-18T20:40:57.000Z
+- [Ukraine’s Top General Becomes a Target of Protesters’ Anger](https://www.nytimes.com/2026/07/18/world/europe/ukraine-protests-general-syrskyi-fedorov.html?utm_source=lootura.com) — 2026-07-19T07:13:23.000Z

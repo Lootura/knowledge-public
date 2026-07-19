@@ -8,11 +8,16 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/ukraine/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/ukraine/index.json",
   "description": "Follow Ukraine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-19T06:28:34.077Z",
+  "updatedAt": "2026-07-19T09:50:13.921Z",
   "aliases": [
     "Kyiv"
   ],
   "changes": [
+    {
+      "title": "Ukraine’s Top General Becomes a Target of Protesters’ Anger",
+      "summary": "Demonstrators supporting Ukraine’s ousted defense minister have begun denouncing the commander he clashed with in office, Gen. Oleksandr Syrskyi.",
+      "date": "2026-07-19"
+    },
     {
       "title": "Ukrainian drone attacks on Russia kill at least 9, injure over 60",
       "summary": "Kyiv's forces are continuing their relentless aerial campaign​ against energy infrastructure and military targets inside Russia.",
@@ -57,11 +62,6 @@
       "title": "He Was a Russian Political Survivor, Until the Masked Men Appeared",
       "summary": "Boris B. Nadezhdin, an outspoken opponent of the war in Ukraine, says he knows why he was detained: “Among our leadership, there is panic and chaos.”.",
       "date": "2026-07-17"
-    },
-    {
-      "title": "Ukraine Was on a Roll. Then a Clash Over War Strategy Exploded Into View.",
-      "summary": "From an underground parking garage, Ukraine’s newly dismissed defense minister aired the most dramatic, public critique of the military command to emerge during the war.",
-      "date": "2026-07-16"
     }
   ],
   "sources": [
@@ -80,7 +80,7 @@
     {
       "title": "Ukraine’s Top General Becomes a Target of Protesters’ Anger",
       "url": "https://www.nytimes.com/2026/07/18/world/europe/ukraine-protests-general-syrskyi-fedorov.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-18T20:40:57.000Z",
+      "publishedAt": "2026-07-19T07:13:23.000Z",
       "sourceId": "lootura-us-the-new-york-times-world"
     }
   ],

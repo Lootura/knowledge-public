@@ -3,10 +3,16 @@
 > Sigue la actividad de Estados Unidos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-19T06:28:06.146Z
+- Actualizado: 2026-07-19T09:49:47.811Z
 - Canonical: https://atlas.lootura.com/es/place/united-states
 
 ## Cambios recientes
+
+### EEUU ataca Irán una noche más tras la muerte de dos de sus militares en una base en Jordania
+
+Estados Unidos ha anunciado el inicio de una nueva ronda de bombardeos contra Irán por orden del presidente Donald Trump , en una operación que tiene como objetivo reducir las capacidades de Teherán para amenazar el tráfico marítimo en el estrecho de Ormuz y responder al ataque -atribuido al Cuerpo de la Guardia Revolu.
+
+Date: 2026-07-19
 
 ### Estados Unidos intensifica bombardeos aéreos contra Irán por octavo día seguido
 
@@ -62,14 +68,8 @@ El viernes, el presidente Donald Trump responsabilizó a Canadá del humo de los
 
 Date: 2026-07-18
 
-### Teherán denuncia al menos tres muertos y ocho heridos en nuevos ataques de EEUU
-
-Al menos tres personas han muerto y otras ocho han resultado heridas como consecuencia de los ataques lanzados por Estados Unidos contra la provincia iraní de Hormozgan, en el sur del país , según han informado los medios estatales de Irán , en el marco la séptima noche consecutiva de ataques que no hace sino alimentar.
-
-Date: 2026-07-18
-
 ## Fuentes
 
-- [España contra Argentina en la gran final del Mundial 2026: la gloria pasa por ganarle a Messi](https://www.20minutos.es/deportes/futbol/espana-contra-argentina-gran-final-mundial-2026-gloria-pasa-por-ganarle-messi_7015980_0.html?utm_source=lootura.com) — 2026-07-19T06:13:37.000Z
+- [Alineación posible de España en la final del Mundial ante Argentina](https://www.20minutos.es/deportes/futbol/alineacion-posible-espana-final-mundial-ante-argentina_7015884_0.html?utm_source=lootura.com) — 2026-07-19T06:19:51.000Z
 - [Irán mata a dos soldados de Estados Unidos en un ataque contra una base en Jordania](https://elpais.com/internacional/2026-07-18/iran-deja-en-suspenso-la-tregua-con-estados-unidos-tras-acusarle-de-matar-a-50-personas-en-tres-semanas.html?utm_source=lootura.com) — 2026-07-18T21:57:43.000Z
-- [Estados Unidos intensifica bombardeos aéreos contra Irán por octavo día seguido](https://theobjective.com/internacional/2026-07-19/estados-unidos-intensifica-bombardeos-aereos-contra-iran-por-octavo-dia-seguido/?amp=&utm_source=lootura.com) — 2026-07-19T00:39:11.000Z
+- [EEUU ataca Irán una noche más tras la muerte de dos de sus militares en una base en Jordania](https://theobjective.com/internacional/2026-07-19/eeuu-ataca-iran-muerte-dos-militares-base-jordania/?utm_source=lootura.com) — 2026-07-19T06:32:05.000Z

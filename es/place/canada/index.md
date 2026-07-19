@@ -22,4 +22,4 @@ Date: 2026-07-18
 
 ## Fuentes
 
-- [España contra Argentina en la gran final del Mundial 2026: la gloria pasa por ganarle a Messi](https://www.20minutos.es/deportes/futbol/espana-contra-argentina-gran-final-mundial-2026-gloria-pasa-por-ganarle-messi_7015980_0.html?utm_source=lootura.com) — 2026-07-19T06:13:37.000Z
+No public source links.

@@ -3,10 +3,16 @@
 > Sigue la actividad de Apple en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: company
-- Actualizado: 2026-07-18T16:55:22.774Z
+- Actualizado: 2026-07-19T09:49:47.811Z
 - Canonical: https://atlas.lootura.com/es/company/apple
 
 ## Cambios recientes
+
+### Tu próximo Apple Watch no va a tener esta actualización por culpa de la UE: ¿es tan dramático como lo pintan?
+
+Hace unos meses te contamos que la UE estaba modificando su reglamento para exigirle a las compañías tecnológicas una nueva medida. Todas debían adaptarse y fabricar dispositivos electrónicos con una 'batería extraíble' . ¿El motivo? Que los usuarios pudiesen cambiarla de forma relativamente fácil en su casa para alarg.
+
+Date: 2026-07-19
 
 ### Si tienes Android, esta es la mejor alternativa a la Play Store: encuentra apps en GitHub, las descarga e instala con un solo clic
 
@@ -62,12 +68,6 @@ acaba de lanzar la primera beta pública de iOS 27 , su nuevo sistema operativo 
 
 Date: 2026-07-13
 
-### Apple prepara una revolución: el chip M7 Ultra triplicará la memoria de sus Mac más potentes
-
-prepara una revolución para su próximo procesador de gama alta. El M7 Ultra podría llegar con soporte para hasta 1,5 TB de memoria unificada según nuevas filtraciones. Esta cifra multiplicaría por tres la capacidad máxima que hasta hace unos meses ofrecía el M3 Ultra en el Mac Studio. Según recoge Bloomberg , App.
-
-Date: 2026-07-13
-
 ## Fuentes
 
-No public source links.
+- [Tu próximo Apple Watch no va a tener esta actualización por culpa de la UE: ¿es tan dramático como lo pintan?](https://hipertextual.com/apple/tu-proximo-apple-watch-no-va-a-tener-esta-actualizacion-por-culpa-de-la-ue-es-tan-dramatico-como-lo-pintan/?utm_source=lootura.com) — 2026-07-19T09:00:00.000Z

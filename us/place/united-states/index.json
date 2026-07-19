@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/united-states/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/united-states/index.json",
   "description": "Follow United States, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-19T06:28:34.077Z",
+  "updatedAt": "2026-07-19T09:50:13.921Z",
   "aliases": [
     "America",
     "Estados Unidos",
@@ -26,14 +26,19 @@
       "date": "2026-07-19"
     },
     {
-      "title": "Russia Bill Broadens Sanctions but Could Fuel Fears Over the Dollar",
-      "summary": "The Trump administration has recently sought to scale back sanctions as adversaries develop workarounds that some believe could erode the U.S. dollar’s supremacy.",
-      "date": "2026-07-18"
+      "title": "To trial or not to trial: Veteran vaccine advisers say vaccine clinical trials alone don't tell whole story",
+      "summary": "Two nationally recognized scientists with decades of experience advising U.S. vaccine policy argue that it is a mistake to exclude well-designed observational studies when determining how well vaccines work year to year.",
+      "date": "2026-07-19"
     },
     {
-      "title": "2 U.S. Forest Service workers safe after being kidnapped, held at gunpoint for hours in Northern California",
-      "summary": "Two suspects, a father and his adult son who were allegedly armed with guns and knives, have been arrested, authorities said.",
-      "date": "2026-07-18"
+      "title": "Funding milestone detected",
+      "summary": "Rising energy prices in the U.S. reduce states' economic output, but they also prompt investments in more efficient equipment and technologies that partially offset those output losses over time, according to a new study by researchers at Penn State.",
+      "date": "2026-07-19"
+    },
+    {
+      "title": "Trump Gutted Civil Rights Agency, Stifling U.S. Scrutiny of Workplace Bias",
+      "summary": "A little-known federal office spent decades investigating potential discrimination by government contractors — until it was stopped by the Trump administration.",
+      "date": "2026-07-19"
     },
     {
       "title": "The Evolution of Presidential Travel: Horse Carriages to Air Force One",
@@ -41,18 +46,8 @@
       "date": "2026-07-18"
     },
     {
-      "title": "Iran and Kuwait report attacks on water and power infrastructure as strikes escalate",
-      "summary": "Critical water and power infrastructure sites have been damaged as the U.S. and Iran continue to trade strikes, while the parched Middle East reels from temperatures of 100 degrees and beyond.",
-      "date": "2026-07-18"
-    },
-    {
       "title": "Rhode Island fugitive captured after more than 20 years on the run",
       "summary": "One of Rhode Island’s “longest-wanted” fugitives was finally arrested this week after 21 years on the run, according to the U.S.",
-      "date": "2026-07-18"
-    },
-    {
-      "title": "Wildfire smoke from Canada and Minnesota pushes farther into the U.S. and engulfs D.C. in haze",
-      "summary": "Warnings of dangerous conditions were expected to remain in effect through Saturday across a wide swath of the U.S., though there's potential for temporary improvement with storms forecast in some affected areas during the weekend.",
       "date": "2026-07-18"
     },
     {
@@ -63,6 +58,11 @@
     {
       "title": "Maps show wildfire smoke forecast, air quality alerts in swath of U.S.",
       "summary": "Heavy smoke from several large wildfires blazing in Canada and Minnesota is engulfing large swaths of the Midwest and the U.S. East Coast this week.",
+      "date": "2026-07-18"
+    },
+    {
+      "title": "U.S. military says 2 troops are dead and 1 is missing after Iran attacks a base in Jordan",
+      "summary": "Since the war began, 16 U.S. service members have now been killed and over 430 wounded.",
       "date": "2026-07-18"
     }
   ],
@@ -80,16 +80,10 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "2 U.S. Forest Service workers safe after being kidnapped, held at gunpoint for hours in Northern California",
-      "url": "https://www.cbsnews.com/news/us-forest-service-workers-kidnapped-california/?utm_source=lootura.com",
-      "publishedAt": "2026-07-18T12:19:13.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
-    {
-      "title": "Iran and Kuwait report attacks on water and power infrastructure as strikes escalate",
-      "url": "https://www.nbcnews.com/world/iran/water-energy-sites-hit-us-iran-strikes-escalate-rcna588143?utm_source=lootura.com",
-      "publishedAt": "2026-07-18T12:58:17.000Z",
-      "sourceId": "lootura-us-nbc-news"
+      "title": "To trial or not to trial: Veteran vaccine advisers say vaccine clinical trials alone don't tell whole story",
+      "url": "https://medicalxpress.com/news/2026-07-trial-veteran-vaccine-clinical-trials.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-19T08:57:10.000Z",
+      "sourceId": "lootura-us-medical-xpress"
     },
     {
       "title": "Rhode Island fugitive captured after more than 20 years on the run",
@@ -110,12 +104,6 @@
       "sourceId": "lootura-us-npr"
     },
     {
-      "title": "Wildfire smoke from Canada and Minnesota pushes farther into the U.S. and engulfs D.C. in haze",
-      "url": "https://www.pbs.org/newshour/nation/wildfire-smoke-from-canada-and-minnesota-pushes-farther-into-the-u-s-and-engulfs-d-c-in-haze?utm_source=lootura.com",
-      "publishedAt": "2026-07-18T15:20:12.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
-    },
-    {
       "title": "Iran says it is suspending commitments to interim deal with U.S. as they exchange attacks",
       "url": "https://www.pbs.org/newshour/world/iran-says-it-is-suspending-commitments-to-interim-deal-with-u-s-as-they-exchange-attacks?utm_source=lootura.com",
       "publishedAt": "2026-07-18T15:34:19.000Z",
@@ -126,7 +114,19 @@
       "url": "https://www.pbs.org/newshour/world/u-s-military-says-2-troops-are-dead-and-1-is-missing-after-iran-attacks-a-base-in-jordan?utm_source=lootura.com",
       "publishedAt": "2026-07-18T15:34:19.000Z",
       "sourceId": "lootura-us-pbs-newshour"
+    },
+    {
+      "title": "U.S. cancels automatic protections for imperiled animals as critics warn of extinctions",
+      "url": "https://www.pbs.org/newshour/nation/u-s-cancels-automatic-protections-for-imperiled-animals-as-critics-warn-of-extinctions?utm_source=lootura.com",
+      "publishedAt": "2026-07-18T18:43:58.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
+    },
+    {
+      "title": "Energy price shocks slow state economies; spur energy efficiency investments",
+      "url": "https://phys.org/news/2026-07-energy-price-state-economies-spur.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-19T09:40:04.000Z",
+      "sourceId": "lootura-us-phys-org"
     }
   ],
-  "evidenceCount": 18
+  "evidenceCount": 16
 }

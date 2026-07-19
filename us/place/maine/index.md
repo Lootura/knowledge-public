@@ -3,7 +3,7 @@
 > Follow Maine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-19T06:28:34.077Z
+- Updated: 2026-07-19T09:50:13.921Z
 - Canonical: https://atlas.lootura.com/us/place/maine
 
 ## Recent changes
@@ -14,15 +14,15 @@ Troy Jackson, a progressive former State Senate president, showed signs of signi
 
 Date: 2026-07-19
 
-### Without Platner, Maine Democrats Scramble to Keep Grassroots Energy Alive
-
-Graham Platner’s campaign for Senate imploded last week. The activists who backed him are seeking a candidate to carry his populist message in the race against Republican Susan Collins.
-
-Date: 2026-07-18
-
 ### ICE officer in Maine shooting has history of violent behavior, relatives say
 
 The Immigration and Customs Enforcement officer who shot and killed a Colombian man in Maine this week is an Army veteran who has struggled with serious mental health issues since early childhood, relatives say.
+
+Date: 2026-07-18
+
+### Without Platner, Maine Democrats Scramble to Keep Grassroots Energy Alive
+
+Graham Platner’s campaign for Senate imploded last week. The activists who backed him are seeking a candidate to carry his populist message in the race against Republican Susan Collins.
 
 Date: 2026-07-18
 
@@ -71,5 +71,4 @@ Date: 2026-07-16
 ## Sources
 
 - [ICE officer in Maine shooting has history of violent behavior, relatives say](https://www.cbsnews.com/news/ice-shooting-maine-officer-history-violent-behavior/?utm_source=lootura.com) — 2026-07-18T17:48:22.000Z
-- [Without Platner, Maine Democrats Scramble to Keep Grassroots Energy Alive](https://www.nytimes.com/2026/07/18/us/politics/platner-voters-maine-senate.html?utm_source=lootura.com) — 2026-07-18T09:02:12.000Z
 - [In Maine, Troy Jackson Gains Momentum in Bid to Replace Platner](https://www.nytimes.com/2026/07/19/us/politics/maine-democrats-senate-jackson.html?utm_source=lootura.com) — 2026-07-19T04:10:57.000Z

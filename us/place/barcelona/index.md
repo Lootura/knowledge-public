@@ -22,4 +22,4 @@ Date: 2026-07-18
 
 ## Sources
 
-- [‘Superteams’ to Collide at World Cup Final](https://time.com/article/2026/07/18/-superteams-to-collide-at-world-cup-final/?utm_source=lootura.com) — 2026-07-18T20:30:16.000Z
+No public source links.

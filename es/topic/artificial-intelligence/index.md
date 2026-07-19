@@ -3,7 +3,7 @@
 > Sigue la actividad de Artificial intelligence en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: topic
-- Actualizado: 2026-07-19T06:28:06.146Z
+- Actualizado: 2026-07-19T09:49:47.811Z
 - Canonical: https://atlas.lootura.com/es/topic/artificial-intelligence
 
 ## Cambios recientes
@@ -40,4 +40,4 @@ Date: 2026-07-10
 
 ## Fuentes
 
-- [Merlin, del ladrillo a los centros de datos para crecer al calor de la IA](https://cincodias.elpais.com/mercados-financieros/2026-07-19/merlin-del-ladrillo-a-los-centros-de-datos-para-crecer-al-calor-de-la-ia.html?utm_source=lootura.com) — 2026-07-19T03:25:00.000Z
+- [«Alá nos ayuda, la IA también lo hará»: el yihadismo ya usa inteligencia artificial para todo](https://www.abc.es/tecnologia/terroristas-yihadistas-usan-ia-atentar-dios-ayudado-20260716010751-nt.html?utm_source=lootura.com) — 2026-07-19T09:32:37.000Z

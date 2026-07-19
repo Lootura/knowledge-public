@@ -8,13 +8,18 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/united-states/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/united-states/index.json",
   "description": "Sigue la actividad de Estados Unidos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-19T06:28:06.146Z",
+  "updatedAt": "2026-07-19T09:49:47.811Z",
   "aliases": [
     "America",
     "Estados Unidos",
     "U.S."
   ],
   "changes": [
+    {
+      "title": "EEUU ataca Irán una noche más tras la muerte de dos de sus militares en una base en Jordania",
+      "summary": "Estados Unidos ha anunciado el inicio de una nueva ronda de bombardeos contra Irán por orden del presidente Donald Trump , en una operación que tiene como objetivo reducir las capacidades de Teherán para amenazar el tráfico marítimo en el estrecho de Ormuz y responder al ataque -atribuido al Cuerpo de la Guardia Revolu.",
+      "date": "2026-07-19"
+    },
     {
       "title": "Estados Unidos intensifica bombardeos aéreos contra Irán por octavo día seguido",
       "summary": "El Comando Central de las Fuerzas Armadas de Estados Unidos (Centcom) ha confirmado el inicio de una nueva serie de bombardeos aéreos sobre Irán, marcando.",
@@ -59,18 +64,13 @@
       "title": "Trump culpa a Canadá por el humo de los incendios forestales y dice que sumará el costo a los aranceles",
       "summary": "El viernes, el presidente Donald Trump responsabilizó a Canadá del humo de los incendios forestales que se propagaba por Estados Unidos y afirmó que añadiría el “costo incalculable” de hacer frente a la contaminación a los aranceles ya existentes sobre los productos canadienses. Seguir leyendo...",
       "date": "2026-07-18"
-    },
-    {
-      "title": "Teherán denuncia al menos tres muertos y ocho heridos en nuevos ataques de EEUU",
-      "summary": "Al menos tres personas han muerto y otras ocho han resultado heridas como consecuencia de los ataques lanzados por Estados Unidos contra la provincia iraní de Hormozgan, en el sur del país , según han informado los medios estatales de Irán , en el marco la séptima noche consecutiva de ataques que no hace sino alimentar.",
-      "date": "2026-07-18"
     }
   ],
   "sources": [
     {
-      "title": "España contra Argentina en la gran final del Mundial 2026: la gloria pasa por ganarle a Messi",
-      "url": "https://www.20minutos.es/deportes/futbol/espana-contra-argentina-gran-final-mundial-2026-gloria-pasa-por-ganarle-messi_7015980_0.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-19T06:13:37.000Z",
+      "title": "Alineación posible de España en la final del Mundial ante Argentina",
+      "url": "https://www.20minutos.es/deportes/futbol/alineacion-posible-espana-final-mundial-ante-argentina_7015884_0.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-19T06:19:51.000Z",
       "sourceId": "lootura-es-20minutos"
     },
     {
@@ -80,11 +80,11 @@
       "sourceId": "lootura-es-el-pais"
     },
     {
-      "title": "Estados Unidos intensifica bombardeos aéreos contra Irán por octavo día seguido",
-      "url": "https://theobjective.com/internacional/2026-07-19/estados-unidos-intensifica-bombardeos-aereos-contra-iran-por-octavo-dia-seguido/?amp=&utm_source=lootura.com",
-      "publishedAt": "2026-07-19T00:39:11.000Z",
+      "title": "EEUU ataca Irán una noche más tras la muerte de dos de sus militares en una base en Jordania",
+      "url": "https://theobjective.com/internacional/2026-07-19/eeuu-ataca-iran-muerte-dos-militares-base-jordania/?utm_source=lootura.com",
+      "publishedAt": "2026-07-19T06:32:05.000Z",
       "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 2
 }

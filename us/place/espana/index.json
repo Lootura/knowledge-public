@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/espana/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/espana/index.json",
   "description": "Follow Spain, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-19T06:28:34.077Z",
+  "updatedAt": "2026-07-19T09:50:13.921Z",
   "aliases": [
     "Estado español",
     "Spain"
@@ -67,10 +67,10 @@
   ],
   "sources": [
     {
-      "title": "Radar Mundial: Inglaterra conquista el tercer lugar tras un festival de diez goles",
-      "url": "https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/radar-mundial-inglaterra-conquista-el-tercer-lugar-tras-un-festival-de-diez-goles-tmvo13205170?utm_source=lootura.com",
-      "publishedAt": "2026-07-19T01:13:55.000Z",
-      "sourceId": "lootura-us-nbc-news"
+      "title": "Spain vs. Argentina: What to know about the World Cup final teams, players and records",
+      "url": "https://www.cbsnews.com/news/spain-argentina-world-cup-final-records-players/?utm_source=lootura.com",
+      "publishedAt": "2026-07-19T09:15:17.000Z",
+      "sourceId": "lootura-us-cbs-news"
     }
   ],
   "evidenceCount": 0

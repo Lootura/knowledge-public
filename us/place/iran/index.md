@@ -3,16 +3,10 @@
 > Follow Iran, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-19T06:28:34.077Z
+- Updated: 2026-07-19T09:50:13.921Z
 - Canonical: https://atlas.lootura.com/us/place/iran
 
 ## Recent changes
-
-### Iran and Kuwait report attacks on water and power infrastructure as strikes escalate
-
-Critical water and power infrastructure sites have been damaged as the U.S. and Iran continue to trade strikes, while the parched Middle East reels from temperatures of 100 degrees and beyond.
-
-Date: 2026-07-18
 
 ### Iran says it is suspending commitments to interim deal with U.S. as they exchange attacks
 
@@ -29,6 +23,12 @@ Date: 2026-07-18
 ### Why Jordan Is Becoming a New Focus in the U.S.-Iran War
 
 Four Iranian attacks in five days have targeted U.S. troops in Jordan, U.S. officials said, including one on Friday that killed two soldiers and left another service member missing.
+
+Date: 2026-07-18
+
+### Iran and Kuwait report attacks on water and power infrastructure as strikes escalate
+
+Critical water and power infrastructure sites have been damaged as the U.S. and Iran continue to trade strikes, while the parched Middle East reels from temperatures of 100 degrees and beyond.
 
 Date: 2026-07-18
 
@@ -71,7 +71,6 @@ Date: 2026-07-17
 ## Sources
 
 - [2 U.S. service members killed, 1 missing following Iranian strike on Jordan](https://www.cbsnews.com/news/iran-strike-jordan-us-troops-killed/?utm_source=lootura.com) — 2026-07-19T02:26:33.000Z
-- [Iran and Kuwait report attacks on water and power infrastructure as strikes escalate](https://www.nbcnews.com/world/iran/water-energy-sites-hit-us-iran-strikes-escalate-rcna588143?utm_source=lootura.com) — 2026-07-18T12:58:17.000Z
 - [Iran says it is suspending commitments to interim deal with U.S. as they exchange attacks](https://www.pbs.org/newshour/world/iran-says-it-is-suspending-commitments-to-interim-deal-with-u-s-as-they-exchange-attacks?utm_source=lootura.com) — 2026-07-18T15:34:19.000Z
 - [U.S. military says 2 troops are dead and 1 is missing after Iran attacks a base in Jordan](https://www.pbs.org/newshour/world/u-s-military-says-2-troops-are-dead-and-1-is-missing-after-iran-attacks-a-base-in-jordan?utm_source=lootura.com) — 2026-07-18T15:34:19.000Z
 - [Why Jordan Is Becoming a New Focus in the U.S.-Iran War](https://www.nytimes.com/2026/07/18/world/middleeast/iran-war-jordan-attacks.html?utm_source=lootura.com) — 2026-07-18T23:03:24.000Z

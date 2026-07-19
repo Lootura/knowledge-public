@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/donald-trump/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/donald-trump/index.json",
   "description": "Follow Donald Trump, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-19T06:28:34.077Z",
+  "updatedAt": "2026-07-19T09:50:13.921Z",
   "aliases": [
     "President Donald Trump",
     "President Trump",
@@ -16,9 +16,14 @@
   ],
   "changes": [
     {
-      "title": "Russia Bill Broadens Sanctions but Could Fuel Fears Over the Dollar",
-      "summary": "The Trump administration has recently sought to scale back sanctions as adversaries develop workarounds that some believe could erode the U.S. dollar’s supremacy.",
-      "date": "2026-07-18"
+      "title": "Trump Gutted Civil Rights Agency, Stifling U.S. Scrutiny of Workplace Bias",
+      "summary": "A little-known federal office spent decades investigating potential discrimination by government contractors — until it was stopped by the Trump administration.",
+      "date": "2026-07-19"
+    },
+    {
+      "title": "Trump Blasts ‘Sanctuary’ States, but Many Still Aid Deportations",
+      "summary": "A New York Times review of 18 states targeted by the Trump administration for their “sanctuary” policies found that all cooperate significantly with immigration authorities in cases involving violent crimes.",
+      "date": "2026-07-19"
     },
     {
       "title": "Week in Politics: Trump's speech; midterm elections; Todd Blanche and Jay Clayton",
@@ -33,6 +38,11 @@
     {
       "title": "Mike Lindell Not Registered to Vote in Minnesota, Where He is Running for Governor",
       "summary": "President Trump endorsed Mike Lindell, a leader of the election denial movement, for Minnesota governor this week.",
+      "date": "2026-07-18"
+    },
+    {
+      "title": "Russia Bill Broadens Sanctions but Could Fuel Fears Over the Dollar",
+      "summary": "The Trump administration has recently sought to scale back sanctions as adversaries develop workarounds that some believe could erode the U.S. dollar’s supremacy.",
       "date": "2026-07-18"
     },
     {
@@ -53,16 +63,6 @@
     {
       "title": "Funding milestone detected",
       "summary": "Defence minister seeks three ‘Nahal’ outposts in Gaza as top commander says Israel now controls 65% of the strip, violating Trump ceasefire deal Israel’s defence and finance ministers announced plans for three illegal settlements in Gaza and more than $400m (£300m) in funding to expand construction in the occupied West.",
-      "date": "2026-07-18"
-    },
-    {
-      "title": "Kai Trump reveals new celebrity crush after ditching 'Outer Banks' star Drew Starkey",
-      "summary": "Kai Trump is pushing \"Outer Banks\" star Drew Starkey to the side and filling her celebrity crush spot with the one and only Theo James. During an interview with Fox News Digital, Kai – who is President Donald Trump 's granddaughter – explained that her taste has evolved since she revealed that Starkey was her celebrity.",
-      "date": "2026-07-18"
-    },
-    {
-      "title": "Trump fumes over Canadian wildfire smoke and issues tariff threat",
-      "summary": "President Donald Trump on Friday pledged to hold Canada responsible for costs associated with unhealthy air quality in the U.S. due to spreading smoke from the Canadian wildfires.",
       "date": "2026-07-18"
     }
   ],
@@ -92,11 +92,17 @@
       "sourceId": "lootura-us-the-new-york-times"
     },
     {
-      "title": "Russia Bill Broadens Sanctions but Could Fuel Fears Over the Dollar",
-      "url": "https://www.nytimes.com/2026/07/18/us/politics/russia-bill-sanctions-trump.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-18T09:01:37.000Z",
+      "title": "Trump Gutted Civil Rights Agency, Stifling U.S. Scrutiny of Workplace Bias",
+      "url": "https://www.nytimes.com/2026/07/19/us/politics/trump-gutted-civil-rights-agency-stifling-us-scrutiny-of-workplace-bias.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-19T09:00:13.000Z",
+      "sourceId": "lootura-us-the-new-york-times-politics"
+    },
+    {
+      "title": "Trump Blasts ‘Sanctuary’ States, but Many Still Aid Deportations",
+      "url": "https://www.nytimes.com/2026/07/19/us/politics/sanctuary-states-deportation-aid.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-19T09:00:24.000Z",
       "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 5
+  "evidenceCount": 6
 }

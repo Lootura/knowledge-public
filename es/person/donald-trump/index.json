@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/donald-trump/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/donald-trump/index.json",
   "description": "Sigue la actividad de Donald Trump en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-19T06:28:06.146Z",
+  "updatedAt": "2026-07-19T09:49:47.811Z",
   "aliases": [
     "President Donald Trump",
     "President Trump",
@@ -18,6 +18,11 @@
     {
       "title": "Un don Diego entre Trump y un osito de peluche",
       "summary": "MIC Producciones continúa su gira veraniega en Olmedo Clásico el 20 de julio, donde se podrá ver de nuevo el texto de Agustín Moreto.",
+      "date": "2026-07-19"
+    },
+    {
+      "title": "EEUU ataca Irán una noche más tras la muerte de dos de sus militares en una base en Jordania",
+      "summary": "Estados Unidos ha anunciado el inicio de una nueva ronda de bombardeos contra Irán por orden del presidente Donald Trump , en una operación que tiene como objetivo reducir las capacidades de Teherán para amenazar el tráfico marítimo en el estrecho de Ormuz y responder al ataque -atribuido al Cuerpo de la Guardia Revolu.",
       "date": "2026-07-19"
     },
     {
@@ -59,11 +64,6 @@
       "title": "Trump resucita en un discurso a la nación el bulo del fraude electoral de 2020 y exagera la influencia de China en su derrota",
       "summary": "Donald Trump, líder de un país en guerra y con el coste de la vida en alza, se dirigió este jueves por la noche a la nación para hablar de las elecciones... de hace seis años. No fue solo un intento de ajuste de cuentas con un fracaso personal; el presidente de Estados Unidos, cuya impopularidad bate récords, habló con.",
       "date": "2026-07-17"
-    },
-    {
-      "title": "Trump anuncia una desclasificación que probaría injerencia electoral de China en EEUU",
-      "summary": "El presidente de Estados Unidos, Donald Trump, ha anunciado este jueves la desclasificación y publicación de información «crítica» de inteligencia que.",
-      "date": "2026-07-17"
     }
   ],
   "sources": [
@@ -74,16 +74,16 @@
       "sourceId": "lootura-es-el-pais"
     },
     {
-      "title": "Por qué las idas y venidas de Trump alejan la solución a la crisis en el estrecho de Ormuz",
-      "url": "https://www.eldiario.es/internacional/theguardian/idas-venidas-trump-alejan-solucion-crisis-estrecho-ormuz_129_13388001.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-18T20:23:04.000Z",
-      "sourceId": "lootura-es-eldiario-es"
-    },
-    {
       "title": "Un don Diego entre Trump y un osito de peluche",
       "url": "https://www.larazon.es/cultura/teatro/don-diego-trump-osito-peluche_202607196a5c6dc9e9f2e84b5c7127ac.html?outputType=amp&utm_source=lootura.com",
       "publishedAt": "2026-07-19T06:25:13.000Z",
       "sourceId": "lootura-es-la-razon"
+    },
+    {
+      "title": "EEUU ataca Irán una noche más tras la muerte de dos de sus militares en una base en Jordania",
+      "url": "https://theobjective.com/internacional/2026-07-19/eeuu-ataca-iran-muerte-dos-militares-base-jordania/?utm_source=lootura.com",
+      "publishedAt": "2026-07-19T06:32:05.000Z",
+      "sourceId": "lootura-es-the-objective"
     }
   ],
   "evidenceCount": 2

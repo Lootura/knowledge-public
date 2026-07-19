@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/democratic-party/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/democratic-party/index.json",
   "description": "Follow Democratic Party, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-19T06:28:34.077Z",
+  "updatedAt": "2026-07-19T09:50:13.921Z",
   "aliases": [
     "Democrats"
   ],
@@ -24,13 +24,13 @@
       "date": "2026-07-19"
     },
     {
-      "title": "Without Platner, Maine Democrats Scramble to Keep Grassroots Energy Alive",
-      "summary": "Graham Platner’s campaign for Senate imploded last week. The activists who backed him are seeking a candidate to carry his populist message in the race against Republican Susan Collins.",
+      "title": "These AIPAC-Backed Democrats Voted to Nix Israel Aid. AIPAC Punished Them.",
+      "summary": "Of the 103 Democrats who voted to eliminate aid to Israel, more than a dozen had been endorsed by the pro-Israel lobbying group. AIPAC quickly closed off online donations for them.",
       "date": "2026-07-18"
     },
     {
-      "title": "These AIPAC-Backed Democrats Voted to Nix Israel Aid. AIPAC Punished Them.",
-      "summary": "Of the 103 Democrats who voted to eliminate aid to Israel, more than a dozen had been endorsed by the pro-Israel lobbying group. AIPAC quickly closed off online donations for them.",
+      "title": "Without Platner, Maine Democrats Scramble to Keep Grassroots Energy Alive",
+      "summary": "Graham Platner’s campaign for Senate imploded last week. The activists who backed him are seeking a candidate to carry his populist message in the race against Republican Susan Collins.",
       "date": "2026-07-18"
     },
     {
@@ -68,14 +68,8 @@
     {
       "title": "US politicians push agencies to restrict research collaboration with China",
       "url": "https://www.nature.com/articles/d41586-026-02226-9?utm_source=lootura.com",
-      "publishedAt": "2026-07-19T06:28:38.446Z",
+      "publishedAt": "2026-07-19T09:50:17.527Z",
       "sourceId": "lootura-us-nature"
-    },
-    {
-      "title": "Without Platner, Maine Democrats Scramble to Keep Grassroots Energy Alive",
-      "url": "https://www.nytimes.com/2026/07/18/us/politics/platner-voters-maine-senate.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-18T09:02:12.000Z",
-      "sourceId": "lootura-us-the-new-york-times-politics"
     },
     {
       "title": "These AIPAC-Backed Democrats Voted to Nix Israel Aid. AIPAC Punished Them.",
@@ -84,5 +78,5 @@
       "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 2
 }

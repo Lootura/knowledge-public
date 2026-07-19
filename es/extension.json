@@ -1,67 +1,41 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-19T06:33:24.764Z",
+  "generatedAt": "2026-07-19T09:54:53.644Z",
   "radar": {
     "id": "es",
     "slug": "es",
     "locale": "es"
   },
   "state": {
-    "signature": "1.16.0|26|1784442486146",
+    "signature": "1.16.0|27|1784454587811",
     "version": "1.16.0",
-    "build": 26,
-    "latestEntityUpdatedAt": "2026-07-19T06:28:06.146Z"
+    "build": 27,
+    "latestEntityUpdatedAt": "2026-07-19T09:49:47.811Z"
   },
   "atlas": {
     "hero": {
       "id": "es-espana",
       "name": "España",
       "type": "place",
-      "title": "Farlin Condori se proclama campeón de España y sorprende con una pedida de mano tras el combate",
+      "title": "Incendios en España, en directo hoy: última hora de los fuegos activos, evolución y situación en Aragón, Castilla-La Mancha, Madrid y Andalucía",
       "url": "https://atlas.lootura.com/es/place/espana",
       "path": "/es/place/espana",
-      "updatedAt": "2026-07-19T06:28:06.146Z",
-      "score": 1563,
-      "sourceCount": 371,
+      "updatedAt": "2026-07-19T09:49:47.811Z",
+      "score": 1587,
+      "sourceCount": 375,
       "isBreaking": false,
       "isPinned": false
     },
     "cards": [
       {
-        "id": "es-united-states",
-        "name": "Estados Unidos",
-        "type": "place",
-        "title": "Estados Unidos intensifica bombardeos aéreos contra Irán por octavo día seguido",
-        "url": "https://atlas.lootura.com/es/place/united-states",
-        "path": "/es/place/united-states",
-        "updatedAt": "2026-07-19T06:28:06.146Z",
-        "score": 1556,
-        "sourceCount": 113,
-        "isBreaking": false,
-        "isPinned": false
-      },
-      {
-        "id": "es-iran",
-        "name": "Iran",
-        "type": "place",
-        "title": "Estados Unidos intensifica bombardeos aéreos contra Irán por octavo día seguido",
-        "url": "https://atlas.lootura.com/es/place/iran",
-        "path": "/es/place/iran",
-        "updatedAt": "2026-07-19T06:28:06.146Z",
-        "score": 1519,
-        "sourceCount": 84,
-        "isBreaking": false,
-        "isPinned": false
-      },
-      {
-        "id": "es-lamine-yamal",
-        "name": "Lamine Yamal",
+        "id": "es-lionel-messi",
+        "name": "Lionel Messi",
         "type": "person",
-        "title": "Lamine Yamal desafía a las grandes leyendas",
-        "url": "https://atlas.lootura.com/es/person/lamine-yamal",
-        "path": "/es/person/lamine-yamal",
-        "updatedAt": "2026-07-19T06:28:06.146Z",
-        "score": 1508,
+        "title": "Mbappé pone el listón imposible a Messi por la Bota de Oro: deberá marcar un hat-trick contra España",
+        "url": "https://atlas.lootura.com/es/person/lionel-messi",
+        "path": "/es/person/lionel-messi",
+        "updatedAt": "2026-07-19T09:49:47.811Z",
+        "score": 1563,
         "sourceCount": 10,
         "isBreaking": false,
         "isPinned": false
@@ -70,16 +44,42 @@
         "id": "es-madrid",
         "name": "Madrid",
         "type": "place",
-        "title": "Lo que la Audiencia de Madrid no ha cambiado: el juicio a Begoña Gómez se mantiene para antes de las generales",
+        "title": "La Audiencia de Madrid completa el trabajo de Peinado contra Begoña Gómez",
         "url": "https://atlas.lootura.com/es/place/madrid",
         "path": "/es/place/madrid",
-        "updatedAt": "2026-07-19T06:28:06.146Z",
-        "score": 1507,
-        "sourceCount": 215,
+        "updatedAt": "2026-07-19T09:49:47.811Z",
+        "score": 1563,
+        "sourceCount": 219,
+        "isBreaking": false,
+        "isPinned": false
+      },
+      {
+        "id": "es-la-mancha",
+        "name": "La Mancha",
+        "type": "person",
+        "title": "Incendios en España, en directo hoy: última hora de los fuegos activos, evolución y situación en Aragón, Castilla-La Mancha, Madrid y Andalucía",
+        "url": "https://atlas.lootura.com/es/person/la-mancha",
+        "path": "/es/person/la-mancha",
+        "updatedAt": "2026-07-19T09:49:47.811Z",
+        "score": 1530,
+        "sourceCount": 8,
+        "isBreaking": false,
+        "isPinned": false
+      },
+      {
+        "id": "es-begona-gomez",
+        "name": "Begoña Gómez",
+        "type": "person",
+        "title": "La Audiencia de Madrid completa el trabajo de Peinado contra Begoña Gómez",
+        "url": "https://atlas.lootura.com/es/person/begona-gomez",
+        "path": "/es/person/begona-gomez",
+        "updatedAt": "2026-07-19T09:49:47.811Z",
+        "score": 1512,
+        "sourceCount": 36,
         "isBreaking": false,
         "isPinned": false
       }
     ],
-    "publicEntityCount": 42
+    "publicEntityCount": 41
   }
 }

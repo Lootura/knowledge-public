@@ -3,7 +3,7 @@
 > Sigue la actividad de Begoña Gómez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-19T06:28:06.146Z
+- Actualizado: 2026-07-19T09:49:47.811Z
 - Canonical: https://atlas.lootura.com/es/person/begona-gomez
 
 ## Cambios recientes
@@ -14,9 +14,9 @@ El cambio de acusados y delitos no implica que la vista llegue tras los comicios
 
 Date: 2026-07-19
 
-### Begoña Gómez, la última línea roja
+### La Audiencia de Madrid completa el trabajo de Peinado contra Begoña Gómez
 
-A Pedro Sánchez le quedan pocas líneas rojas que transgredir en política. Presentó una moción de censura contra el Partido Popular con solo 85 diputados, el peor resultado electoral que haya tenido el PSOE en democracia. Hasta ese momento, en España gobernaba el que ganaba en las urnas. Además, pactó, entre otros, con.
+'Política para supervivientes' es una carta semanal de Iñigo Sáenz de Ugarte exclusiva para socios y socias de elDiario.es con historias sobre política nacional. Si tú también lo quieres leer y recibir cada domingo en tu buzón, hazte socio, hazte socia de elDiario.es Julio es un mes en que la política funciona a medio.
 
 Date: 2026-07-19
 
@@ -71,3 +71,4 @@ Date: 2026-07-17
 ## Fuentes
 
 - [Lo que la Audiencia de Madrid no ha cambiado: el juicio a Begoña Gómez se mantiene para antes de las generales](https://www.elmundo.es/espana/2026/07/19/6a5bcabae9cf4acd6f8b45c8.html?utm_source=lootura.com) — 2026-07-19T01:08:29.000Z
+- [La Audiencia de Madrid completa el trabajo de Peinado contra Begoña Gómez](https://www.eldiario.es/blog/politica-para-supervivientes/audiencia-madrid-completa-trabajo-peinado-begona-gomez_132_13388699.html?utm_source=lootura.com) — 2026-07-19T06:15:53.000Z

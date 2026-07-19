@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/begona-gomez/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/begona-gomez/index.json",
   "description": "Sigue la actividad de Begoña Gómez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-19T06:28:06.146Z",
+  "updatedAt": "2026-07-19T09:49:47.811Z",
   "aliases": [],
   "changes": [
     {
@@ -17,8 +17,8 @@
       "date": "2026-07-19"
     },
     {
-      "title": "Begoña Gómez, la última línea roja",
-      "summary": "A Pedro Sánchez le quedan pocas líneas rojas que transgredir en política. Presentó una moción de censura contra el Partido Popular con solo 85 diputados, el peor resultado electoral que haya tenido el PSOE en democracia. Hasta ese momento, en España gobernaba el que ganaba en las urnas. Además, pactó, entre otros, con.",
+      "title": "La Audiencia de Madrid completa el trabajo de Peinado contra Begoña Gómez",
+      "summary": "'Política para supervivientes' es una carta semanal de Iñigo Sáenz de Ugarte exclusiva para socios y socias de elDiario.es con historias sobre política nacional. Si tú también lo quieres leer y recibir cada domingo en tu buzón, hazte socio, hazte socia de elDiario.es Julio es un mes en que la política funciona a medio.",
       "date": "2026-07-19"
     },
     {
@@ -68,7 +68,13 @@
       "url": "https://www.elmundo.es/espana/2026/07/19/6a5bcabae9cf4acd6f8b45c8.html?utm_source=lootura.com",
       "publishedAt": "2026-07-19T01:08:29.000Z",
       "sourceId": "lootura-es-el-mundo"
+    },
+    {
+      "title": "La Audiencia de Madrid completa el trabajo de Peinado contra Begoña Gómez",
+      "url": "https://www.eldiario.es/blog/politica-para-supervivientes/audiencia-madrid-completa-trabajo-peinado-begona-gomez_132_13388699.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-19T06:15:53.000Z",
+      "sourceId": "lootura-es-eldiario-es"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 2
 }

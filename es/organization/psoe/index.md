@@ -3,7 +3,7 @@
 > Sigue la actividad de Partido Socialista Obrero Español en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-19T06:28:06.146Z
+- Actualizado: 2026-07-19T09:49:47.811Z
 - Canonical: https://atlas.lootura.com/es/organization/psoe
 
 ## Cambios recientes
@@ -70,5 +70,4 @@ Date: 2026-07-17
 
 ## Fuentes
 
-- [Más de 30 reuniones con Cerdán y 10.842 mensajes con el exjefe de gabinete de Sánchez](https://www.abc.es/espana/cifras-desconocida-leire-reuniones-cerdan-10842-mensajes-20260719011102-nt.html?utm_source=lootura.com) — 2026-07-19T06:06:16.000Z
-- [La doble vara de medir del PP de Ayuso ante el acoso sexual: de las críticas a Salazar al apoyo al alcalde de Móstoles](https://www.eldiario.es/madrid/doble-vara-medir-pp-ayuso-acoso-sexual-criticas-salazar-apoyo-alcalde-mostoles_1_13378846.html?utm_source=lootura.com) — 2026-07-18T20:23:04.000Z
+- [Emiliano García-Page: "El modelo de financiación autonómica es un atentado grave contra la igualdad"](https://www.elmundo.es/espana/2026/07/18/6a5b74dbfc6c8317188b4585.html?utm_source=lootura.com) — 2026-07-18T20:57:47.000Z

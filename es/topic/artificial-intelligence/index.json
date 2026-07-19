@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/topic/artificial-intelligence/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/topic/artificial-intelligence/index.json",
   "description": "Sigue la actividad de Artificial intelligence en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-19T06:28:06.146Z",
+  "updatedAt": "2026-07-19T09:49:47.811Z",
   "aliases": [
     "AI",
     "machine learning"
@@ -42,10 +42,10 @@
   ],
   "sources": [
     {
-      "title": "Merlin, del ladrillo a los centros de datos para crecer al calor de la IA",
-      "url": "https://cincodias.elpais.com/mercados-financieros/2026-07-19/merlin-del-ladrillo-a-los-centros-de-datos-para-crecer-al-calor-de-la-ia.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-19T03:25:00.000Z",
-      "sourceId": "lootura-es-cinco-dias"
+      "title": "«Alá nos ayuda, la IA también lo hará»: el yihadismo ya usa inteligencia artificial para todo",
+      "url": "https://www.abc.es/tecnologia/terroristas-yihadistas-usan-ia-atentar-dios-ayudado-20260716010751-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-19T09:32:37.000Z",
+      "sourceId": "lootura-es-abc"
     }
   ],
   "evidenceCount": 0

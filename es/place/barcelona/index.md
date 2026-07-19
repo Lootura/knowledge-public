@@ -3,7 +3,7 @@
 > Sigue la actividad de Barcelona en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-18T16:55:22.774Z
+- Actualizado: 2026-07-19T09:49:47.811Z
 - Canonical: https://atlas.lootura.com/es/place/barcelona
 
 ## Cambios recientes
@@ -70,4 +70,4 @@ Date: 2026-07-15
 
 ## Fuentes
 
-No public source links.
+- [Una final para abrazarse y una excepción: las pantallas gigantes que unirán a España](https://www.elmundo.es/deportes/futbol/mundial-de-futbol/2026/07/19/6a5a509321efa059768b458e.html?utm_source=lootura.com) — 2026-07-18T23:00:23.000Z

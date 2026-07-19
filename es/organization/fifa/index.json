@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/fifa/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/fifa/index.json",
   "description": "Sigue la actividad de FIFA en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-19T06:28:06.146Z",
+  "updatedAt": "2026-07-19T09:49:47.811Z",
   "aliases": [],
   "changes": [
     {
@@ -29,10 +29,10 @@
   ],
   "sources": [
     {
-      "title": "La final de nuestras vidas: la segunda estrella de España o la turra incansable de los argentinos",
-      "url": "https://www.eldebate.com/deportes/mundial-futbol-2026/20260719/final-nuestras-vidas-segunda-estrella-espana-turra-incansable-argentinos_441090.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-19T02:20:00.000Z",
-      "sourceId": "lootura-es-el-debate"
+      "title": "Los españoles en Argentina, con el corazón dividido para la final del Mundial: \"Es muy difícil decir si prefiero que gane uno u otro\"",
+      "url": "https://www.20minutos.es/internacional/los-espanoles-argentina-con-corazon-dividido-para-final-mundial-es-muy-dificil-decir-si-prefiero-que-gane-uno-otro_7016300_0.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-19T07:20:58.000Z",
+      "sourceId": "lootura-es-20minutos"
     }
   ],
   "evidenceCount": 0

@@ -3,10 +3,16 @@
 > Sigue la actividad de Venezuela en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-19T06:28:06.146Z
+- Actualizado: 2026-07-19T09:49:47.811Z
 - Canonical: https://atlas.lootura.com/es/place/venezuela
 
 ## Cambios recientes
+
+### EEUU pretende seguir ayudando a Venezuela durante cinco años por el doble terremoto
+
+La organización estadounidense Global Empowerment Mission espera poder seguir en Venezuela durante cinco años para ayudar a los afectados del doble terremoto del pasado 24 de junio, en una primera fase con la entrega de donaciones de alimentos y productos de higiene personal, con el apoyo de la Administración de Donald.
+
+Date: 2026-07-19
 
 ### El número de víctimas mortales por los terremotos en Venezuela asciende a 5.119
 
@@ -62,12 +68,6 @@ Sin grandes anuncios ni gestos solemnes, Donald Trump ha situado a Cuba en el ce
 
 Date: 2026-07-15
 
-### Nuevo balance de víctimas en Venezuela por el doble terremoto: 4.734 muertos
-
-La cifra de muertos por el doble terremoto ocurrido hace casi tres semanas en la zona norte de Venezuela ascendió este martes a 4.734, tras sumarse 173 nuevos fallecimientos, informó el presidente del Parlamento, el chavista Jorge Rodríguez. Las cifras de heridos y personas sin viviendas se mantienen en 16.740 y 17.907.
-
-Date: 2026-07-14
-
 ## Fuentes
 
-- [El número de víctimas mortales por los terremotos en Venezuela asciende a 5.119](https://theobjective.com/internacional/2026-07-19/el-numero-de-victimas-mortales-por-los-terremotos-en-venezuela-asciende-a-5-119/?utm_source=lootura.com) — 2026-07-19T00:38:53.000Z
+- [EEUU pretende seguir ayudando a Venezuela durante cinco años por el doble terremoto](https://theobjective.com/internacional/2026-07-19/eeuu-ayudar-venezuela-cinco-anos-terremoto/?utm_source=lootura.com) — 2026-07-19T07:50:02.000Z

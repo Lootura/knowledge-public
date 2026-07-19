@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/barcelona/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/barcelona/index.json",
   "description": "Sigue la actividad de Barcelona en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-18T16:55:22.774Z",
+  "updatedAt": "2026-07-19T09:49:47.811Z",
   "aliases": [],
   "changes": [
     {
@@ -62,6 +62,13 @@
       "date": "2026-07-15"
     }
   ],
-  "sources": [],
+  "sources": [
+    {
+      "title": "Una final para abrazarse y una excepción: las pantallas gigantes que unirán a España",
+      "url": "https://www.elmundo.es/deportes/futbol/mundial-de-futbol/2026/07/19/6a5a509321efa059768b458e.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-18T23:00:23.000Z",
+      "sourceId": "lootura-es-el-mundo"
+    }
+  ],
   "evidenceCount": 0
 }

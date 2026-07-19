@@ -3,7 +3,7 @@
 > Follow New York, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-19T06:28:34.077Z
+- Updated: 2026-07-19T09:50:13.921Z
 - Canonical: https://atlas.lootura.com/us/place/new-york
 
 ## Recent changes
@@ -70,9 +70,7 @@ Date: 2026-07-17
 
 ## Sources
 
-- [A model struggled to get treated for aggressive breast cancer, so she moved thousands of miles away](https://www.cbsnews.com/news/alaska-model-arizona-city-of-hope-breast-cancer/?utm_source=lootura.com) — 2026-07-18T12:00:04.000Z
 - [Healthcare costs associated with aging out of reach for many Americans](https://www.cbsnews.com/news/healthcare-costs-associated-with-aging-out-of-reach-for-many-americans/?utm_source=lootura.com) — 2026-07-19T01:59:16.000Z
 - [Michelin-starred Chinese restaurant Yingtao modernizes family recipes](https://www.cbsnews.com/video/michelin-starred-chinese-restaurant-yingtao-modernizes-family-recipes/?utm_source=lootura.com) — 2026-07-18T18:02:23.000Z
-- [Caitlin Clark smacked in the face by WNBA legend after getting foul that could trigger fine in big win](https://www.foxnews.com/outkick-sports/caitlin-clark-smacked-face-wnba-legend-after-getting-foul-could-trigger-fine-big-win?utm_source=lootura.com) — 2026-07-19T03:58:11.000Z
 - [First death reported in Legionnaires' disease outbreak in New York City](https://www.pbs.org/newshour/health/first-death-reported-in-legionnaires-disease-outbreak-in-new-york-city?utm_source=lootura.com) — 2026-07-18T16:00:05.000Z
 - [Zohran Mamdani Knows He Has Political Capital. And He Intends to Spend It.](https://www.nytimes.com/2026/07/18/magazine/zohran-mamdani-interview.html?utm_source=lootura.com) — 2026-07-18T13:24:37.000Z

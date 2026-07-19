@@ -3,10 +3,16 @@
 > Sigue la actividad de Alberto Núñez Feijóo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-19T02:29:06.108Z
+- Actualizado: 2026-07-19T09:49:47.811Z
 - Canonical: https://atlas.lootura.com/es/person/alberto-nunez-feijoo
 
 ## Cambios recientes
+
+### El PP reduce sus beneficios a la mitad en el último año
+
+Los populares, que compraron dos sedes en Andalucía el año pasado, aumentaron su patrimonio neto de los 81 a los 90,6 millones de euros El PP de Feijóo promete una ambiciosa contrarreforma legal con recortes en derechos sociales si llega al poder El Partido Popular (PP) registró un beneficio neto acumulado de 9,6 millo.
+
+Date: 2026-07-19
 
 ### Los candidatos del PP a las alcaldías de Castilla y León apelan a la ambición y a la cercanía
 
@@ -62,12 +68,6 @@ La mujer de Sánchez ha sido enviada a juicio. Laura y Alba declararán próxima
 
 Date: 2026-07-18
 
-### 🎙 PODCAST | ¿Acabará Feijóo siendo presidente gracias a la amnistía?
-
-Dijo que era terrorismo, golpe de Estado, delincuencia, corrupción, que había que ilegalizarlos, que negociar era traicionar a la patria, secuestrar la democracia. Y ahora puede beneficiarse de lo que intentó boicotear Un tema Al día, ¡en el teatro! Ven a verlo en directo el 3 de octubre en Madrid. Consigue ya tus entr.
-
-Date: 2026-07-17
-
 ## Fuentes
 
-No public source links.
+- [El PP reduce sus beneficios a la mitad en el último año](https://www.eldiario.es/politica/pp-reduce-beneficios-mitad-ultimo-ano_1_13391211.html?utm_source=lootura.com) — 2026-07-19T08:51:17.000Z

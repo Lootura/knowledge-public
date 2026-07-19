@@ -3,10 +3,16 @@
 > Sigue la actividad de China en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-18T06:02:46.495Z
+- Actualizado: 2026-07-19T09:49:47.811Z
 - Canonical: https://atlas.lootura.com/es/place/china
 
 ## Cambios recientes
+
+### Didi en China, así funciona la app de VTC para moverse por las ciudades que visites
+
+Hace unos días escribí sobre la experiencia de un robotaxi , vehículo sin conductor, en mi viaje a China. Ahora, voy con otro asunto a tener en cuenta si viajas al gigante asiático. Pedir un Didi ha sido una de las cosas que más rápido incorporé a mi rutina durante un viaje reciente a Shenzhen. La compañía absorbió el.
+
+Date: 2026-07-19
 
 ### China exige a Trump que aparque el «invento» de la presunta injerencia electoral en 2020
 
@@ -62,12 +68,6 @@ El meteórico avance de la terapia génica y la neurociencia es rehén de su pro
 
 Date: 2026-07-17
 
-### Trump anuncia la desclasificación de documentos sobre una supuesta injerencia electoral china en 2020
-
-El presidente sostuvo que Pekín obtuvo de forma ilícita acceso a los datos de más de 220 millones de votantes estadounidenses.
-
-Date: 2026-07-17
-
 ## Fuentes
 
-No public source links.
+- [Didi en China, así funciona la app de VTC para moverse por las ciudades que visites](https://okdiario.com/tecnologia/didi-china-asi-funciona-app-vtc-moverse-ciudades-que-visites-19025483?utm_source=lootura.com) — 2026-07-19T09:35:35.000Z
