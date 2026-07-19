@@ -3,7 +3,7 @@
 > Follow Canada, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-19T02:29:26.490Z
+- Updated: 2026-07-19T06:28:34.077Z
 - Canonical: https://atlas.lootura.com/us/place/canada
 
 ## Recent changes

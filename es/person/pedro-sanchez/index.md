@@ -3,10 +3,28 @@
 > Sigue la actividad de Pedro Sánchez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-19T02:29:06.108Z
+- Actualizado: 2026-07-19T06:28:06.146Z
 - Canonical: https://atlas.lootura.com/es/person/pedro-sanchez
 
 ## Cambios recientes
+
+### Margallo: "Lo de Gibraltar no tiene vuelta atrás, Sánchez desguaza el Estado pieza a pieza"
+
+A José Manuel García-Margallo (Madrid, 1944) le duele España. Y le preocupa. Ministro de Asuntos Exteriores de Mariano Rajoy entre 2011 y 2016, fue el jefe de la diplomacia española con Juan Carlos I y en los primeros años de Felipe VI. A sus 82 años sigue leyendo y escribiendo y disfruta participando en los medios de.
+
+Date: 2026-07-19
+
+### Yolanda Díaz claudica del liderazgo de Sumar en el Gobierno y se vuelca en su búsqueda de apoyos para la OIT
+
+Yolanda Díaz renuncia a su protagonismo en el Gobierno para centrarse en su carrera internacional. Tres años después de las generales que le consagraron como número dos de Pedro Sánchez en el Consejo de Ministros y líder del ala minoritaria de la coalición, la vicepresidenta segunda ha orillado su papel en la política.
+
+Date: 2026-07-19
+
+### El Gobierno cerrará el curso parlamentario con 70 leyes en toda la legislatura, más de la mitad decretos
+
+El Gobierno no deja de esforzarse en demostrar que aún hay legislatura por delante y una mayoría parlamentaria que lo sostenga. En un intento de hacerlo patente, el Ejecutivo de Pedro Sánchez ha pisado el acelerador en los últimos dos meses para mejorar unos números legislativos que quedaban muy lejos de la primera leg.
+
+Date: 2026-07-19
 
 ### Begoña Gómez, la última línea roja
 
@@ -50,26 +68,8 @@ La Comisión Europea avisa de que España solo ha logrado “avances limitados�
 
 Date: 2026-07-17
 
-### La UCO dice que los ingresos de Cerdán se dispararon en la «etapa ministerial» de Ábalos y tras su ascenso en el PSOE
-
-La Unidad Central Operativa (UCO) de la Guardia Civil ha revelado que el que fuera mano derecha de Pedro Sánchez Santos Cerdán vio como sus ingresos se dispararon coincidiendo con la «etapa ministerial» del que fuera responsable de Transportes José Luis Ábalos y tras sustituir al mismo como secretario de Organización d.
-
-Date: 2026-07-17
-
-### Bruselas desmiente el victimismo de Sánchez: no hay reformas y sí hay corruptos
-
-La regeneración democrática fue el principal compromiso político con el que Pedro Sánchez llegó a La Moncloa tras la moción de censura de 2018. Ocho años después, la Comisión Europea devuelve al Gobierno una fotografía muy distinta de la que pretende proyectar incluso en el ámbito estrictamente legislativo: España ha a.
-
-Date: 2026-07-17
-
-### Bruselas reprende a España por no reformar el sistema de elección del CGPJ pese a los múltiples requerimientos
-
-La Comisión Europea ha vuelto a instar al Gobierno de Pedro Sánchez a impulsar la reforma del sistema de elección del Consejo General del Poder Judicial , para que doce de sus vocales sean elegidos por los propios jueces. Se trata de una recomendación constante en los informes sobre el Estado de derecho que el órgano c.
-
-Date: 2026-07-17
-
 ## Fuentes
 
-- [Emiliano García-Page: "El modelo de financiación autonómica es un atentado grave contra la igualdad"](https://www.elmundo.es/espana/2026/07/18/6a5b74dbfc6c8317188b4585.html?utm_source=lootura.com) — 2026-07-18T20:57:47.000Z
-- [Ruido y furia entre políticos y jueces: cómo reparar la (maltrecha) justicia](https://elpais.com/ideas/2026-07-18/ruido-y-furia-entre-politicos-y-jueces-como-reparar-la-maltrecha-justicia.html?utm_source=lootura.com) — 2026-07-18T14:10:42.000Z
-- [Begoña Gómez, la última línea roja](https://www.larazon.es/espana/begona-gomez-ultima-linea-roja_202607196a5c233d0500ab412c9dd63a.html?utm_source=lootura.com) — 2026-07-19T01:07:09.000Z
+- [Margallo: "Lo de Gibraltar no tiene vuelta atrás, Sánchez desguaza el Estado pieza a pieza"](https://www.elconfidencial.com/espana/2026-07-19/margallo-gibraltar-geopolitica-sanchez-zapatero-estados-unidos-cbtrntrv_4391911/?utm_source=lootura.com) — 2026-07-19T03:00:00.000Z
+- [Yolanda Díaz claudica del liderazgo de Sumar en el Gobierno y se vuelca en su búsqueda de apoyos para la OIT](https://www.elperiodicomediterraneo.com/espana/2026/07/19/yolanda-diaz-claudica-liderazgo-sumar-132595157.html?utm_source=lootura.com) — 2026-07-19T06:26:03.000Z
+- [El Gobierno cerrará el curso parlamentario con 70 leyes en toda la legislatura, más de la mitad decretos](https://www.elperiodicomediterraneo.com/espana/2026/07/19/gobierno-curso-parlamentario-70-leyes-132595129.html?utm_source=lootura.com) — 2026-07-19T06:23:19.000Z

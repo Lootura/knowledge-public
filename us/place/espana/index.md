@@ -3,7 +3,7 @@
 > Follow Spain, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-19T02:29:26.490Z
+- Updated: 2026-07-19T06:28:34.077Z
 - Canonical: https://atlas.lootura.com/us/place/espana
 
 ## Recent changes
@@ -70,4 +70,4 @@ Date: 2026-07-09
 
 ## Sources
 
-- [England beats France in instant classic to earn third place at 2026 FIFA World Cup](https://www.foxnews.com/sports/england-wins-thriller-ages-france-claim-third-2026-fifa-world-cup?utm_source=lootura.com) — 2026-07-19T00:11:36.000Z
+- [Radar Mundial: Inglaterra conquista el tercer lugar tras un festival de diez goles](https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/radar-mundial-inglaterra-conquista-el-tercer-lugar-tras-un-festival-de-diez-goles-tmvo13205170?utm_source=lootura.com) — 2026-07-19T01:13:55.000Z

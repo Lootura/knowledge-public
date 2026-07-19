@@ -3,10 +3,22 @@
 > Sigue la actividad de Donald Trump en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-19T02:29:06.108Z
+- Actualizado: 2026-07-19T06:28:06.146Z
 - Canonical: https://atlas.lootura.com/es/person/donald-trump
 
 ## Cambios recientes
+
+### Un don Diego entre Trump y un osito de peluche
+
+MIC Producciones continúa su gira veraniega en Olmedo Clásico el 20 de julio, donde se podrá ver de nuevo el texto de Agustín Moreto.
+
+Date: 2026-07-19
+
+### Por qué las idas y venidas de Trump alejan la solución a la crisis en el estrecho de Ormuz
+
+Cinco meses de cambios de rumbo y fanfarronadas en su guerra contra Irán empeoran la situación del presidente de EEUU Nuevo bandazo de Trump en su errática gestión de la guerra en Irán: recula con la tasa del 20% por patrullar Ormuz Donald Trump ha llevado la guerra con Irán a una nueva fase, aún más turbia, a medida q.
+
+Date: 2026-07-18
 
 ### Lealtad, telegenia y testosterona: la extravagante carrera de Hegseth al frente del Pentágono
 
@@ -56,18 +68,8 @@ El presidente de Estados Unidos, Donald Trump, ha anunciado este jueves la descl
 
 Date: 2026-07-17
 
-### Trump desclasifica documentos de la CIA que demuestran el fraude electoral del chavismo
-
-El presidente denuncia la vulnerabilidad de las máquinas de voto, acusa a China de robar datos de 220 millones de electores y exige al Congreso una ley con identificación y prueba de ciudadanía.
-
-Date: 2026-07-17
-
-### Trump resucita en un discurso a la nación el bulo del fraude electoral de 2020 y acusa a China de influir en su derrota
-
-Donald Trump, líder de un país en guerra y con el coste de la vida en alza, se dirigió este jueves por la noche a la nación para hablar de las elecciones... de hace seis años. No fue solo un intento de ajuste de cuentas con un fracaso personal; el presidente de Estados Unidos, cuya impopularidad bate récords, habló con.
-
-Date: 2026-07-17
-
 ## Fuentes
 
-- [Trump ataca a Canadá por la mala calidad del aire que amenaza la final del Mundial en Nueva York](https://www.elmundo.es/deportes/futbol/mundial-de-futbol/2026/07/18/6a5b738821efa00f2d8b45a3.html?utm_source=lootura.com) — 2026-07-18T12:38:45.000Z
+- [España-Argentina, la verdadera Finalissima decide el Mundial](https://elpais.com/deportes/mundial-futbol/2026-07-19/espana-argentina-la-verdadera-finalissima-decide-el-mundial.html?utm_source=lootura.com) — 2026-07-19T03:30:01.000Z
+- [Por qué las idas y venidas de Trump alejan la solución a la crisis en el estrecho de Ormuz](https://www.eldiario.es/internacional/theguardian/idas-venidas-trump-alejan-solucion-crisis-estrecho-ormuz_129_13388001.html?utm_source=lootura.com) — 2026-07-18T20:23:04.000Z
+- [Un don Diego entre Trump y un osito de peluche](https://www.larazon.es/cultura/teatro/don-diego-trump-osito-peluche_202607196a5c6dc9e9f2e84b5c7127ac.html?outputType=amp&utm_source=lootura.com) — 2026-07-19T06:25:13.000Z

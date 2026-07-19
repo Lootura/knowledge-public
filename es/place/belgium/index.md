@@ -70,4 +70,4 @@ Date: 2026-07-10
 
 ## Fuentes
 
-- [Antonelli logra la pole pese a la estrategia de Verstappen: Aston Martin toca fondo](https://theobjective.com/deportes/formula-1/2026-07-18/antonelli-pole-belgica-estrategia-verstappen/?utm_source=lootura.com) — 2026-07-18T15:22:43.000Z
+No public source links.

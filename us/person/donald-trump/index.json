@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/donald-trump/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/donald-trump/index.json",
   "description": "Follow Donald Trump, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-19T02:29:26.490Z",
+  "updatedAt": "2026-07-19T06:28:34.077Z",
   "aliases": [
     "President Donald Trump",
     "President Trump",
@@ -18,11 +18,6 @@
     {
       "title": "Russia Bill Broadens Sanctions but Could Fuel Fears Over the Dollar",
       "summary": "The Trump administration has recently sought to scale back sanctions as adversaries develop workarounds that some believe could erode the U.S. dollar’s supremacy.",
-      "date": "2026-07-18"
-    },
-    {
-      "title": "As Trump Scraps With Meloni, His Envoy to Italy Is at Sea",
-      "summary": "Tilman J. Fertitta, the U.S. ambassador to Rome, is summering on his superyacht as President Trump squabbles with Prime Minister Giorgia Meloni of Italy.",
       "date": "2026-07-18"
     },
     {
@@ -38,6 +33,11 @@
     {
       "title": "Mike Lindell Not Registered to Vote in Minnesota, Where He is Running for Governor",
       "summary": "President Trump endorsed Mike Lindell, a leader of the election denial movement, for Minnesota governor this week.",
+      "date": "2026-07-18"
+    },
+    {
+      "title": "As Trump Scraps With Meloni, His Envoy to Italy Is at Sea",
+      "summary": "Tilman J. Fertitta, the U.S. ambassador to Rome, is summering on his superyacht as President Trump squabbles with Prime Minister Giorgia Meloni of Italy.",
       "date": "2026-07-18"
     },
     {
@@ -68,7 +68,7 @@
   ],
   "sources": [
     {
-      "title": "2 U.S. service members killed, 1 missing after Iran strike on Jordan, military says",
+      "title": "2 U.S. service members killed, 1 missing following Iranian strike on Jordan",
       "url": "https://www.cbsnews.com/news/iran-strike-jordan-us-troops-killed/?utm_source=lootura.com",
       "publishedAt": "2026-07-19T02:26:33.000Z",
       "sourceId": "lootura-us-cbs-news"
@@ -96,19 +96,7 @@
       "url": "https://www.nytimes.com/2026/07/18/us/politics/russia-bill-sanctions-trump.html?utm_source=lootura.com",
       "publishedAt": "2026-07-18T09:01:37.000Z",
       "sourceId": "lootura-us-the-new-york-times-politics"
-    },
-    {
-      "title": "As Trump Scraps With Meloni, His Envoy to Italy Is at Sea",
-      "url": "https://www.nytimes.com/2026/07/18/world/europe/tilman-fertitta-superyacht-italy-ambassador.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-18T15:45:27.000Z",
-      "sourceId": "lootura-us-the-new-york-times-world"
-    },
-    {
-      "title": "Trump's Endorsement Could Set the Stage for a Historic Senate Succession",
-      "url": "https://time.com/article/2026/07/18/graham-nordone/?utm_source=lootura.com",
-      "publishedAt": "2026-07-18T18:25:19.000Z",
-      "sourceId": "lootura-us-time"
     }
   ],
-  "evidenceCount": 6
+  "evidenceCount": 5
 }

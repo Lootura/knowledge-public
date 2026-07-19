@@ -3,10 +3,16 @@
 > Follow Graham Platner, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-07-19T02:29:26.490Z
+- Updated: 2026-07-19T06:28:34.077Z
 - Canonical: https://atlas.lootura.com/us/person/graham-platner
 
 ## Recent changes
+
+### In Maine, Troy Jackson Gains Momentum in Bid to Replace Platner
+
+Troy Jackson, a progressive former State Senate president, showed signs of significant strength, as half the state’s counties picked delegates to a convention where they will choose Graham Platner’s replacement.
+
+Date: 2026-07-19
 
 ### Without Platner, Maine Democrats Scramble to Keep Grassroots Energy Alive
 
@@ -62,13 +68,8 @@ Dan Kleban (D-Maine) joins Meet the Press NOW to discuss his run to replace Grah
 
 Date: 2026-07-14
 
-### Maine Democrats will square off in Senate debate Thursday
-
-Democrats vying to replace former Maine Senate nominee Graham Platner on the ballot are set to battle on the debate stage Thursday night. News Center Maine confirmed the debate, which will be held at 7 p.m. EDT in Portland and include three former gubernatorial hopefuls — Troy Jackson , Shenna Bellows and Nirav Shah —.
-
-Date: 2026-07-14
-
 ## Sources
 
 - [Troy Jackson jumps out to big lead in race to replace Graham Platner in Maine](https://www.politico.com/news/2026/07/18/troy-jackson-maine-senate-platner-01004343?utm_source=lootura.com) — 2026-07-19T01:05:18.000Z
 - [Without Platner, Maine Democrats Scramble to Keep Grassroots Energy Alive](https://www.nytimes.com/2026/07/18/us/politics/platner-voters-maine-senate.html?utm_source=lootura.com) — 2026-07-18T09:02:12.000Z
+- [In Maine, Troy Jackson Gains Momentum in Bid to Replace Platner](https://www.nytimes.com/2026/07/19/us/politics/maine-democrats-senate-jackson.html?utm_source=lootura.com) — 2026-07-19T04:10:57.000Z

@@ -8,9 +8,14 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/maine/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/maine/index.json",
   "description": "Follow Maine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-19T02:29:26.490Z",
+  "updatedAt": "2026-07-19T06:28:34.077Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "In Maine, Troy Jackson Gains Momentum in Bid to Replace Platner",
+      "summary": "Troy Jackson, a progressive former State Senate president, showed signs of significant strength, as half the state’s counties picked delegates to a convention where they will choose Graham Platner’s replacement.",
+      "date": "2026-07-19"
+    },
     {
       "title": "Without Platner, Maine Democrats Scramble to Keep Grassroots Energy Alive",
       "summary": "Graham Platner’s campaign for Senate imploded last week. The activists who backed him are seeking a candidate to carry his populist message in the race against Republican Susan Collins.",
@@ -55,11 +60,6 @@
       "title": "The use of force has become a 'default tool' for ICE officers, a new report finds",
       "summary": "An ACLU report looks at the widespread use of force in immigration enforcement in the first year of President Trump's return to office. Recent fatal shootings in Texas and Maine have brought renewed scrutiny to the agency's tactics. (Image credit: Scott Olson).",
       "date": "2026-07-16"
-    },
-    {
-      "title": "I See My Father in the Fathers Killed by ICE",
-      "summary": "A makeshift memorial for Joan Sebastian Guerrero who was fatally shot by U.S. Immigration and Customs Enforcement (ICE) agents, on July 14, 2026 in Biddeford, Maine. —Ryan Murphy—Getty Images Joan Sebastian Guerrero, the 26-year-old man shot by ICE while driving to work on Monday, attended the same school my mother did.",
-      "date": "2026-07-16"
     }
   ],
   "sources": [
@@ -74,7 +74,13 @@
       "url": "https://www.nytimes.com/2026/07/18/us/politics/platner-voters-maine-senate.html?utm_source=lootura.com",
       "publishedAt": "2026-07-18T09:02:12.000Z",
       "sourceId": "lootura-us-the-new-york-times-politics"
+    },
+    {
+      "title": "In Maine, Troy Jackson Gains Momentum in Bid to Replace Platner",
+      "url": "https://www.nytimes.com/2026/07/19/us/politics/maine-democrats-senate-jackson.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-19T04:10:57.000Z",
+      "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 3
 }

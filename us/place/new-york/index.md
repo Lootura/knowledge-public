@@ -3,7 +3,7 @@
 > Follow New York, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-19T02:29:26.490Z
+- Updated: 2026-07-19T06:28:34.077Z
 - Canonical: https://atlas.lootura.com/us/place/new-york
 
 ## Recent changes
@@ -11,6 +11,12 @@
 ### Healthcare costs associated with aging out of reach for many Americans
 
 One New York couple depleted their retirement and savings accounts, paying out-of-pocket for healthcare, before they were able to access Medicaid funds.
+
+Date: 2026-07-19
+
+### Caitlin Clark smacked in the face by WNBA legend after getting foul that could trigger fine in big win
+
+Caitlin Clark took a hit to the face, received a technical foul that could lead to a hefty fine, and still came away with a win and first place in the Eastern Conference on Saturday. Early in the first quarter of the Fever's 108-88 win over the New York Liberty , Clark was called for a technical foul after she ran full.
 
 Date: 2026-07-19
 
@@ -62,17 +68,11 @@ Despite burning hundreds of miles away, Canadian wildfires have become a familia
 
 Date: 2026-07-17
 
-### ‘Everybody Watches’: TIME100 Sports Honorees on Red Carpet Celebrate Rise of Women’s Sports
-
-Eileen Gu on the TIME100 Sports Gala red carpet on July 16, 2026 in New York City. —Jemal Countess—Getty Images Multiple guests walking the red carpet at the inaugural TIME100 Sports Gala in New York City on July 16 applauded the rise of women’s sports. “Everybody watches women’s sports!” said Eileen Gu , the 2026 TIME.
-
-Date: 2026-07-17
-
 ## Sources
 
 - [A model struggled to get treated for aggressive breast cancer, so she moved thousands of miles away](https://www.cbsnews.com/news/alaska-model-arizona-city-of-hope-breast-cancer/?utm_source=lootura.com) — 2026-07-18T12:00:04.000Z
 - [Healthcare costs associated with aging out of reach for many Americans](https://www.cbsnews.com/news/healthcare-costs-associated-with-aging-out-of-reach-for-many-americans/?utm_source=lootura.com) — 2026-07-19T01:59:16.000Z
 - [Michelin-starred Chinese restaurant Yingtao modernizes family recipes](https://www.cbsnews.com/video/michelin-starred-chinese-restaurant-yingtao-modernizes-family-recipes/?utm_source=lootura.com) — 2026-07-18T18:02:23.000Z
-- [Mamdani doubles down on democratic socialism while insisting Wall Street, business leaders can work with him](https://www.foxnews.com/politics/mamdani-doubles-down-democratic-socialism-insisting-wall-street-business-leaders-work-him?utm_source=lootura.com) — 2026-07-19T00:49:35.000Z
+- [Caitlin Clark smacked in the face by WNBA legend after getting foul that could trigger fine in big win](https://www.foxnews.com/outkick-sports/caitlin-clark-smacked-face-wnba-legend-after-getting-foul-could-trigger-fine-big-win?utm_source=lootura.com) — 2026-07-19T03:58:11.000Z
 - [First death reported in Legionnaires' disease outbreak in New York City](https://www.pbs.org/newshour/health/first-death-reported-in-legionnaires-disease-outbreak-in-new-york-city?utm_source=lootura.com) — 2026-07-18T16:00:05.000Z
 - [Zohran Mamdani Knows He Has Political Capital. And He Intends to Spend It.](https://www.nytimes.com/2026/07/18/magazine/zohran-mamdani-interview.html?utm_source=lootura.com) — 2026-07-18T13:24:37.000Z

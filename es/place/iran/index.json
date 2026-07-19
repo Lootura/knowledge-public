@@ -8,17 +8,22 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/iran/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/iran/index.json",
   "description": "Sigue la actividad de Iran en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-19T02:29:06.108Z",
+  "updatedAt": "2026-07-19T06:28:06.146Z",
   "aliases": [],
   "changes": [
     {
-      "title": "La crisis de precios de la gasolina lleva a los consumidores a repostar más de tres veces al mes",
-      "summary": "La gasolina siempre ha sido un producto muy condicionado al precio; y este 2026 se ha visto impactado, además, por la crisis de costes de la guerra de Irán . Esta situación ha provocado que los consumidores hayan cambiado sus hábitos de repostaje. Ahora se va muchas más veces al surtidor, y se elige lugares donde haya.",
+      "title": "Estados Unidos intensifica bombardeos aéreos contra Irán por octavo día seguido",
+      "summary": "El Comando Central de las Fuerzas Armadas de Estados Unidos (Centcom) ha confirmado el inicio de una nueva serie de bombardeos aéreos sobre Irán, marcando.",
       "date": "2026-07-19"
     },
     {
-      "title": "Estados Unidos intensifica bombardeos aéreos contra Irán por octavo día seguido",
-      "summary": "El Comando Central de las Fuerzas Armadas de Estados Unidos (Centcom) ha confirmado el inicio de una nueva serie de bombardeos aéreos sobre Irán, marcando.",
+      "title": "Las telecos europeas baten al mercado y tocan máximos de casi dos décadas",
+      "summary": "El sector de telecomunicaciones europeo lleva un mes mostrando debilidad, pero la radiografía conjunta de la primera parte del año refleja un rally continuado, ajeno a las incertidumbres que han rodeado a los mercados con la guerra de Irán y al cambio de la política monetaria del BCE, que ha aprobado la primera subida.",
+      "date": "2026-07-19"
+    },
+    {
+      "title": "La crisis de precios de la gasolina lleva a los consumidores a repostar más de tres veces al mes",
+      "summary": "La gasolina siempre ha sido un producto muy condicionado al precio; y este 2026 se ha visto impactado, además, por la crisis de costes de la guerra de Irán . Esta situación ha provocado que los consumidores hayan cambiado sus hábitos de repostaje. Ahora se va muchas más veces al surtidor, y se elige lugares donde haya.",
       "date": "2026-07-19"
     },
     {
@@ -29,6 +34,11 @@
     {
       "title": "EEUU ataca de nuevo Irán tras la muerte de dos militares estadounidenses en un ataque iraní en Jordania",
       "summary": "El líder supremo iraní lanza una amenaza, de nuevo por escrito, al decir que \"la nación iraní y el frente de resistencia tienen lecciones inolvidables para EEUU\" Leer.",
+      "date": "2026-07-18"
+    },
+    {
+      "title": "Por qué las idas y venidas de Trump alejan la solución a la crisis en el estrecho de Ormuz",
+      "summary": "Cinco meses de cambios de rumbo y fanfarronadas en su guerra contra Irán empeoran la situación del presidente de EEUU Nuevo bandazo de Trump en su errática gestión de la guerra en Irán: recula con la tasa del 20% por patrullar Ormuz Donald Trump ha llevado la guerra con Irán a una nueva fase, aún más turbia, a medida q.",
       "date": "2026-07-18"
     },
     {
@@ -50,24 +60,14 @@
       "title": "EEUU se queda sin misiles para otras guerras: la continuación del conflicto con Irán está poniendo en riesgo su capacidad militar",
       "summary": "La guerra entre Estados Unidos e Irán no termina. Teherán parece estar calculando que su presión sobre el estrecho de Ormuz obligará a Washington a ceder por completo. En la Casa Blanca parecen apostar por que sus nuevas acciones militares obligarán al régimen iraní a ceder y permitir el flujo normalizado del comercio.",
       "date": "2026-07-18"
-    },
-    {
-      "title": "Estados Unidos lanza una ola de ataques contra Irán por séptimo día consecutivo",
-      "summary": "Trump anunció la semana pasada la cancelación del memorando de entendimiento que había firmado el 18 de junio.",
-      "date": "2026-07-17"
-    },
-    {
-      "title": "EEUU destruye una torre de vigilancia que Irán usaba para atacar buques en Ormuz",
-      "summary": "El Ejército estadounidense destruyó una torre de vigilancia que Irán usaba para atacar a los buques comerciales en el estrecho de Ormuz , lo que permitirá «proteger» la navegación en la vía marítima, afirmó este viernes el Comando Central de Estados Unidos (Centcom). «Las fuerzas de EE. UU. destruyeron con éxito la tor.",
-      "date": "2026-07-17"
     }
   ],
   "sources": [
     {
-      "title": "La crisis de precios de la gasolina lleva a los consumidores a repostar más de tres veces al mes",
-      "url": "https://www.abc.es/economia/cuentas-corrientes/crisis-precios-gasolina-lleva-consumidores-repostar-tres-20260717010146-nt.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-19T00:22:25.000Z",
-      "sourceId": "lootura-es-abc"
+      "title": "Las telecos europeas baten al mercado y tocan máximos de casi dos décadas",
+      "url": "https://cincodias.elpais.com/mercados-financieros/2026-07-19/las-telecos-europeas-baten-al-mercado-y-tocan-maximos-de-casi-dos-decadas.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-19T03:30:00.000Z",
+      "sourceId": "lootura-es-cinco-dias"
     },
     {
       "title": "EEUU ataca de nuevo Irán tras la muerte de dos militares estadounidenses en un ataque iraní en Jordania",
@@ -82,11 +82,17 @@
       "sourceId": "lootura-es-el-pais"
     },
     {
+      "title": "Por qué las idas y venidas de Trump alejan la solución a la crisis en el estrecho de Ormuz",
+      "url": "https://www.eldiario.es/internacional/theguardian/idas-venidas-trump-alejan-solucion-crisis-estrecho-ormuz_129_13388001.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-18T20:23:04.000Z",
+      "sourceId": "lootura-es-eldiario-es"
+    },
+    {
       "title": "Estados Unidos intensifica bombardeos aéreos contra Irán por octavo día seguido",
       "url": "https://theobjective.com/internacional/2026-07-19/estados-unidos-intensifica-bombardeos-aereos-contra-iran-por-octavo-dia-seguido/?amp=&utm_source=lootura.com",
       "publishedAt": "2026-07-19T00:39:11.000Z",
       "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 4
+  "evidenceCount": 5
 }

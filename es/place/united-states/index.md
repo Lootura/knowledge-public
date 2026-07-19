@@ -3,7 +3,7 @@
 > Sigue la actividad de Estados Unidos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-19T02:29:06.108Z
+- Actualizado: 2026-07-19T06:28:06.146Z
 - Canonical: https://atlas.lootura.com/es/place/united-states
 
 ## Cambios recientes
@@ -14,6 +14,12 @@ El Comando Central de las Fuerzas Armadas de Estados Unidos (Centcom) ha confirm
 
 Date: 2026-07-19
 
+### Irán mata a dos soldados de Estados Unidos en un ataque contra una base en Jordania
+
+Irán ha anunciado este sábado que deja en suspenso el acuerdo de alto el fuego firmado con Estados Unidos el pasado 17 de junio. “Hemos suspendido nuestros compromisos adquiridos en virtud del memorando de entendimiento y ya no los estamos implementando”, ha declarado el viceministro de Relaciones Exteriores iraní, Kaz.
+
+Date: 2026-07-18
+
 ### EEUU confirma al menos 13 militares heridos durante la última semana en Oriente Medio
 
 El Comando Central del Ejército de Estados Unidos (Centcom) confirmó este sábado a Fox News que al menos 13 militares estadounidenses han resultado.
@@ -23,12 +29,6 @@ Date: 2026-07-18
 ### Dimite el líder conservador alemán por tener un hijo por gestación subrogada en EEUU
 
 El líder del bloque conservador en el Parlamento de Alemania , Jens Spahn, ha presentado su dimisión este sábado a petición del canciller y co-líder de la alianza, Friedrich Merz , por haber tenido un hijo por gestación subrogada en Estados Unidos ; una práctica declarada ilegal en Alemania. «He informado a los líderes.
-
-Date: 2026-07-18
-
-### Irán mata a dos soldados de Estados Unidos en un ataque contra una base en Jordania
-
-Irán ha anunciado este sábado que deja en suspenso el acuerdo de alto el fuego firmado con Estados Unidos el pasado 17 de junio. “Hemos suspendido nuestros compromisos adquiridos en virtud del memorando de entendimiento y ya no los estamos implementando”, ha declarado el viceministro de Relaciones Exteriores iraní, Kaz.
 
 Date: 2026-07-18
 
@@ -70,7 +70,6 @@ Date: 2026-07-18
 
 ## Fuentes
 
+- [España contra Argentina en la gran final del Mundial 2026: la gloria pasa por ganarle a Messi](https://www.20minutos.es/deportes/futbol/espana-contra-argentina-gran-final-mundial-2026-gloria-pasa-por-ganarle-messi_7015980_0.html?utm_source=lootura.com) — 2026-07-19T06:13:37.000Z
 - [Irán mata a dos soldados de Estados Unidos en un ataque contra una base en Jordania](https://elpais.com/internacional/2026-07-18/iran-deja-en-suspenso-la-tregua-con-estados-unidos-tras-acusarle-de-matar-a-50-personas-en-tres-semanas.html?utm_source=lootura.com) — 2026-07-18T21:57:43.000Z
 - [Estados Unidos intensifica bombardeos aéreos contra Irán por octavo día seguido](https://theobjective.com/internacional/2026-07-19/estados-unidos-intensifica-bombardeos-aereos-contra-iran-por-octavo-dia-seguido/?amp=&utm_source=lootura.com) — 2026-07-19T00:39:11.000Z
-- [EEUU confirma al menos 13 militares heridos durante la última semana en Oriente Medio](https://theobjective.com/internacional/2026-07-18/eeuu-13-militares-heridos-oriente-medio/?amp=&utm_source=lootura.com) — 2026-07-18T16:47:28.000Z
-- [Dimite el líder conservador alemán por tener un hijo por gestación subrogada en EEUU](https://theobjective.com/internacional/2026-07-18/conservador-aleman-hijo-gestacion-subrogada-eeuu/?utm_source=lootura.com) — 2026-07-18T15:16:52.000Z

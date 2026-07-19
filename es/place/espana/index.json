@@ -8,12 +8,27 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/espana/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/espana/index.json",
   "description": "Sigue la actividad de España en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-19T02:29:06.108Z",
+  "updatedAt": "2026-07-19T06:28:06.146Z",
   "aliases": [
     "Estado español",
     "Spain"
   ],
   "changes": [
+    {
+      "title": "Farlin Condori se proclama campeón de España y sorprende con una pedida de mano tras el combate",
+      "summary": "Farlin Condori se proclama campeón de España y sorprende con una pedida de mano tras el combate.",
+      "date": "2026-07-19"
+    },
+    {
+      "title": "Carlos Cuerpo, el vuelo imperturbable de un vicepresidente",
+      "summary": "Carlos Cuerpo lleva tatuado a El Principito en la parte interior de su brazo izquierdo. Se hizo el dibujo en 2019, en Las Vegas, por motivos que prefiere reservarse, pero este julio de 2026, cuando cumple 100 días como vicepresidente primero del Gobierno en este polvorín político que es España, un pasaje de la obra de.",
+      "date": "2026-07-19"
+    },
+    {
+      "title": "Margallo: \"Lo de Gibraltar no tiene vuelta atrás, Sánchez desguaza el Estado pieza a pieza\"",
+      "summary": "A José Manuel García-Margallo (Madrid, 1944) le duele España. Y le preocupa. Ministro de Asuntos Exteriores de Mariano Rajoy entre 2011 y 2016, fue el jefe de la diplomacia española con Juan Carlos I y en los primeros años de Felipe VI. A sus 82 años sigue leyendo y escribiendo y disfruta participando en los medios de.",
+      "date": "2026-07-19"
+    },
     {
       "title": "¿Cuánto tiempo hace falta que una obra se convierta en un clásico?",
       "summary": "Crítica de danza Ballet Nacional de España Programa 'Flamenco-Rock-Andaluz' (Rafaela Carrasco / Jesús de la Rosa, Ángeles Toledano, Harto Rodríguez) y 'Medea' (José Granero, Manolo Sanlúcar, Miguel Narros) Iluminación Gloria Montesinos, Freddy Gerlache, Felipe Ramos Escenografía Andrea d'Odorico Vestuario Belén Quintan.",
@@ -30,9 +45,14 @@
       "date": "2026-07-19"
     },
     {
-      "title": "Farlin Condori se proclama campeón de España y sorprende con una pedida de mano tras el combate",
-      "summary": "Farlin Condori se proclama campeón de España y sorprende con una pedida de mano tras el combate.",
-      "date": "2026-07-19"
+      "title": "En el búnker del fiscal que lleva 37 años escoltado por su lucha contra la mayor mafia del mundo: \"España es de gran interés para nuestros capos\"",
+      "summary": "Nicola Gratteri, nacido en la cuna de la mafia 'Ndrangheta, vive en una cápsula de seguridad. En abril de 1989, meses antes de casarse, la vivienda de su prometida fue tiroteada. Luego, la llamaron para decirle: \"Tu novio es un hombre muerto\". Hoy, el fiscal antimafia de Nápoles sueña con darse un baño en el mar o pase.",
+      "date": "2026-07-18"
+    },
+    {
+      "title": "La España de la generación sin miedo: \"Saben competir, saben ganar y eso da cada vez más confianza\"",
+      "summary": "\"Tienen muchos trofeos, eso les hace ver los partidos como un reto, seguros de sí mismos\", explica Rafa Benítez a EL MUNDO. Leer.",
+      "date": "2026-07-18"
     },
     {
       "title": "Política y justicia, el cóctel explosivo que sacude España",
@@ -43,52 +63,26 @@
       "title": "España lidera la recuperación de las agencias de empleo y ETT en Europa",
       "summary": "España se posiciona entre los mercados europeos con mejor desempeño de la actividad de las agencias de empleo en el arranque de 2026 . El último informe Labour Market Intelligence Insights, elaborado por la World Employment Confederation (WEC), recoge que las horas trabajadas por profesionales contratados a través de a.",
       "date": "2026-07-18"
-    },
-    {
-      "title": "Incendios en España, en directo hoy: última hora de los fuegos activos, evolución y situación en Aragón, Castilla-La Mancha, Madrid y Andalucía",
-      "summary": "España afronta una nueva jornada de máxima alerta por incendios forestales después de un viernes marcado por varios grandes fuegos activos en diferentes comunidades autónomas y un amplio despliegue de medios de extinción. Los servicios de emergencia han trabajado durante toda la noche para consolidar los perímetros, pr.",
-      "date": "2026-07-18"
-    },
-    {
-      "title": "El último vuelo a la segunda estrella de España",
-      "summary": "Los aeropuertos constituyen un paisaje de emociones y sensaciones tan dispares como difíciles de describir. Pero este fin de semana, las distintas terminales del aeropuerto madrileño de Adolfo Suárez - Madrid Barajas, así como las de otros aeródromos españoles con vuelos transatlánticos, transmiten un clima de ilusión,.",
-      "date": "2026-07-18"
-    },
-    {
-      "title": "En imágenes | Las huellas del incendio de las Cinco Villas",
-      "summary": "Uncastillo, Orés, Asín, Luesia y Malpica de Arba muestran el impacto del mayor incendio registrado este año en España. Las imágenes recorren un paisaje calcinado, los trabajos del operativo y la solidaridad vecinal mientras las llamas siguen sin darse por estabilizadas Vecinos y agricultores se vuelcan para salvar el c.",
-      "date": "2026-07-18"
-    },
-    {
-      "title": "En el búnker del fiscal que lleva 37 años escoltado por su lucha contra la mayor mafia del mundo: \"España es de gran interés para nuestros capos\"",
-      "summary": "Nicola Gratteri, nacido en la cuna de la mafia 'Ndrangheta, vive en una cápsula de seguridad. En abril de 1989, meses antes de casarse, la vivienda de su prometida fue tiroteada. Luego, la llamaron para decirle: \"Tu novio es un hombre muerto\". Hoy, el fiscal antimafia de Nápoles sueña con darse un baño en el mar o pase.",
-      "date": "2026-07-18"
     }
   ],
   "sources": [
     {
-      "title": "El cuento infantil que «predijo» la final España-Argentina y sus 5 enseñanzas",
-      "url": "https://www.abc.es/familia/educacion/cuento-infantil-predijo-final-espanaargentina-ensenanzas-20260719010235-nt.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-19T00:21:00.000Z",
-      "sourceId": "lootura-es-abc"
+      "title": "España contra Argentina en la gran final del Mundial 2026: la gloria pasa por ganarle a Messi",
+      "url": "https://www.20minutos.es/deportes/futbol/espana-contra-argentina-gran-final-mundial-2026-gloria-pasa-por-ganarle-messi_7015980_0.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-19T06:13:37.000Z",
+      "sourceId": "lootura-es-20minutos"
     },
     {
-      "title": "¿Cuánto tiempo hace falta que una obra se convierta en un clásico?",
-      "url": "https://www.abc.es/cultura/cultural/tiempo-falta-obra-convierta-clasico-20260718164537-nt.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-19T00:02:22.000Z",
-      "sourceId": "lootura-es-abc"
+      "title": "Carlos Cuerpo, el vuelo imperturbable de un vicepresidente",
+      "url": "https://elpais.com/economia/2026-07-19/carlos-cuerpo-el-vuelo-imperturbable-de-un-vicepresidente.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-19T03:45:01.000Z",
+      "sourceId": "lootura-es-cinco-dias"
     },
     {
-      "title": "El último vuelo a la segunda estrella de España",
-      "url": "https://www.abc.es/espana/vuelo-ilusion-20260718210936-nt.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-18T19:49:35.000Z",
-      "sourceId": "lootura-es-abc"
-    },
-    {
-      "title": "El eclipse del 12 de agosto llenará la España vacía: «No tenemos manera de gestionar esta avalancha de gente»",
-      "url": "https://www.abc.es/ciencia/eclipse-agosto-llenara-espana-vaciada-necesitamos-promocion-20260714010735-nt.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-19T00:19:04.000Z",
-      "sourceId": "lootura-es-abc"
+      "title": "Margallo: \"Lo de Gibraltar no tiene vuelta atrás, Sánchez desguaza el Estado pieza a pieza\"",
+      "url": "https://www.elconfidencial.com/espana/2026-07-19/margallo-gibraltar-geopolitica-sanchez-zapatero-estados-unidos-cbtrntrv_4391911/?utm_source=lootura.com",
+      "publishedAt": "2026-07-19T03:00:00.000Z",
+      "sourceId": "lootura-es-el-confidencial"
     },
     {
       "title": "En el búnker del fiscal que lleva 37 años escoltado por su lucha contra la mayor mafia del mundo: \"España es de gran interés para nuestros capos\"",
@@ -103,29 +97,11 @@
       "sourceId": "lootura-es-el-mundo"
     },
     {
-      "title": "Política y justicia, el cóctel explosivo que sacude España",
-      "url": "https://elpais.com/espana/2026-07-18/politica-y-justicia-el-coctel-explosivo-que-sacude-espana.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-18T14:00:00.000Z",
-      "sourceId": "lootura-es-el-pais"
-    },
-    {
-      "title": "En imágenes | Las huellas del incendio de las Cinco Villas",
-      "url": "https://www.eldiario.es/aragon/sociedad/imagenes-huellas-incendio-cinco-villas_3_13390765.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-18T18:04:27.000Z",
-      "sourceId": "lootura-es-eldiario-es"
-    },
-    {
-      "title": "Incendios en España, en directo hoy: última hora de los fuegos activos, evolución y situación en Aragón, Castilla-La Mancha, Madrid y Andalucía",
-      "url": "https://www.larazon.es/sociedad/incendios-espana-directo-hoy-ultima-hora-fuegos-activos-evolucion-situacion-aragon-castillala-mancha-madrid-andalucia-b50m_202607186a5aa5aee9f2e84b5c6ed5ba.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-18T20:26:06.000Z",
-      "sourceId": "lootura-es-la-razon"
-    },
-    {
-      "title": "Begoña Gómez, la última línea roja",
-      "url": "https://www.larazon.es/espana/begona-gomez-ultima-linea-roja_202607196a5c233d0500ab412c9dd63a.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-19T01:07:09.000Z",
-      "sourceId": "lootura-es-la-razon"
+      "title": "Farlin Condori se proclama campeón de España y sorprende con una pedida de mano tras el combate",
+      "url": "https://okdiario.com/baleares/farlin-condori-proclama-campeon-espana-sorprende-pedida-mano-combate-19024390/amp?utm_source=lootura.com",
+      "publishedAt": "2026-07-19T02:00:56.000Z",
+      "sourceId": "lootura-es-ok-diario"
     }
   ],
-  "evidenceCount": 11
+  "evidenceCount": 7
 }

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/united-states/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/united-states/index.json",
   "description": "Follow United States, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-19T02:29:26.490Z",
+  "updatedAt": "2026-07-19T06:28:34.077Z",
   "aliases": [
     "America",
     "Estados Unidos",
@@ -28,11 +28,6 @@
     {
       "title": "Russia Bill Broadens Sanctions but Could Fuel Fears Over the Dollar",
       "summary": "The Trump administration has recently sought to scale back sanctions as adversaries develop workarounds that some believe could erode the U.S. dollar’s supremacy.",
-      "date": "2026-07-18"
-    },
-    {
-      "title": "As Trump Scraps With Meloni, His Envoy to Italy Is at Sea",
-      "summary": "Tilman J. Fertitta, the U.S. ambassador to Rome, is summering on his superyacht as President Trump squabbles with Prime Minister Giorgia Meloni of Italy.",
       "date": "2026-07-18"
     },
     {
@@ -64,15 +59,14 @@
       "title": "Iran says it is suspending commitments to interim deal with U.S. as they exchange attacks",
       "summary": "The widening strikes threatened civilians and services to them, including desalination plants for drinking water, while the global economy again was on alert.",
       "date": "2026-07-18"
+    },
+    {
+      "title": "Maps show wildfire smoke forecast, air quality alerts in swath of U.S.",
+      "summary": "Heavy smoke from several large wildfires blazing in Canada and Minnesota is engulfing large swaths of the Midwest and the U.S. East Coast this week.",
+      "date": "2026-07-18"
     }
   ],
   "sources": [
-    {
-      "title": "2 U.S. service members killed, 1 missing after Iran strike on Jordan, military says",
-      "url": "https://www.cbsnews.com/news/iran-strike-jordan-us-troops-killed/?utm_source=lootura.com",
-      "publishedAt": "2026-07-19T02:26:33.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
     {
       "title": "The Uplift: The American Dream",
       "url": "https://www.cbsnews.com/video/the-uplift-the-american-dream/?utm_source=lootura.com",
@@ -104,6 +98,12 @@
       "sourceId": "lootura-us-nbc-news"
     },
     {
+      "title": "U.S. military says 2 service members killed in Jordan by Iranian attacks",
+      "url": "https://www.nbcnews.com/nightly-news/video/u-s-military-says-2-service-members-killed-in-jordan-by-iranian-attacks-266892357964?utm_source=lootura.com",
+      "publishedAt": "2026-07-18T22:43:06.000Z",
+      "sourceId": "lootura-us-nbc-news"
+    },
+    {
       "title": "The Tate brothers are arrested in Miami, U.S. Marshals Service tells AP",
       "url": "https://www.npr.org/2026/07/18/g-s1-134475/tate-brothers-arrested-miami?utm_source=lootura.com",
       "publishedAt": "2026-07-19T00:57:08.000Z",
@@ -128,5 +128,5 @@
       "sourceId": "lootura-us-pbs-newshour"
     }
   ],
-  "evidenceCount": 19
+  "evidenceCount": 18
 }

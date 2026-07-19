@@ -3,20 +3,26 @@
 > Sigue la actividad de Iran en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-19T02:29:06.108Z
+- Actualizado: 2026-07-19T06:28:06.146Z
 - Canonical: https://atlas.lootura.com/es/place/iran
 
 ## Cambios recientes
 
-### La crisis de precios de la gasolina lleva a los consumidores a repostar más de tres veces al mes
-
-La gasolina siempre ha sido un producto muy condicionado al precio; y este 2026 se ha visto impactado, además, por la crisis de costes de la guerra de Irán . Esta situación ha provocado que los consumidores hayan cambiado sus hábitos de repostaje. Ahora se va muchas más veces al surtidor, y se elige lugares donde haya.
-
-Date: 2026-07-19
-
 ### Estados Unidos intensifica bombardeos aéreos contra Irán por octavo día seguido
 
 El Comando Central de las Fuerzas Armadas de Estados Unidos (Centcom) ha confirmado el inicio de una nueva serie de bombardeos aéreos sobre Irán, marcando.
+
+Date: 2026-07-19
+
+### Las telecos europeas baten al mercado y tocan máximos de casi dos décadas
+
+El sector de telecomunicaciones europeo lleva un mes mostrando debilidad, pero la radiografía conjunta de la primera parte del año refleja un rally continuado, ajeno a las incertidumbres que han rodeado a los mercados con la guerra de Irán y al cambio de la política monetaria del BCE, que ha aprobado la primera subida.
+
+Date: 2026-07-19
+
+### La crisis de precios de la gasolina lleva a los consumidores a repostar más de tres veces al mes
+
+La gasolina siempre ha sido un producto muy condicionado al precio; y este 2026 se ha visto impactado, además, por la crisis de costes de la guerra de Irán . Esta situación ha provocado que los consumidores hayan cambiado sus hábitos de repostaje. Ahora se va muchas más veces al surtidor, y se elige lugares donde haya.
 
 Date: 2026-07-19
 
@@ -29,6 +35,12 @@ Date: 2026-07-18
 ### EEUU ataca de nuevo Irán tras la muerte de dos militares estadounidenses en un ataque iraní en Jordania
 
 El líder supremo iraní lanza una amenaza, de nuevo por escrito, al decir que "la nación iraní y el frente de resistencia tienen lecciones inolvidables para EEUU" Leer.
+
+Date: 2026-07-18
+
+### Por qué las idas y venidas de Trump alejan la solución a la crisis en el estrecho de Ormuz
+
+Cinco meses de cambios de rumbo y fanfarronadas en su guerra contra Irán empeoran la situación del presidente de EEUU Nuevo bandazo de Trump en su errática gestión de la guerra en Irán: recula con la tasa del 20% por patrullar Ormuz Donald Trump ha llevado la guerra con Irán a una nueva fase, aún más turbia, a medida q.
 
 Date: 2026-07-18
 
@@ -56,21 +68,10 @@ La guerra entre Estados Unidos e Irán no termina. Teherán parece estar calcula
 
 Date: 2026-07-18
 
-### Estados Unidos lanza una ola de ataques contra Irán por séptimo día consecutivo
-
-Trump anunció la semana pasada la cancelación del memorando de entendimiento que había firmado el 18 de junio.
-
-Date: 2026-07-17
-
-### EEUU destruye una torre de vigilancia que Irán usaba para atacar buques en Ormuz
-
-El Ejército estadounidense destruyó una torre de vigilancia que Irán usaba para atacar a los buques comerciales en el estrecho de Ormuz , lo que permitirá «proteger» la navegación en la vía marítima, afirmó este viernes el Comando Central de Estados Unidos (Centcom). «Las fuerzas de EE. UU. destruyeron con éxito la tor.
-
-Date: 2026-07-17
-
 ## Fuentes
 
-- [La crisis de precios de la gasolina lleva a los consumidores a repostar más de tres veces al mes](https://www.abc.es/economia/cuentas-corrientes/crisis-precios-gasolina-lleva-consumidores-repostar-tres-20260717010146-nt.html?utm_source=lootura.com) — 2026-07-19T00:22:25.000Z
+- [Las telecos europeas baten al mercado y tocan máximos de casi dos décadas](https://cincodias.elpais.com/mercados-financieros/2026-07-19/las-telecos-europeas-baten-al-mercado-y-tocan-maximos-de-casi-dos-decadas.html?utm_source=lootura.com) — 2026-07-19T03:30:00.000Z
 - [EEUU ataca de nuevo Irán tras la muerte de dos militares estadounidenses en un ataque iraní en Jordania](https://www.elmundo.es/internacional/2026/07/18/6a5b9252fdddff6f568b4582.html?utm_source=lootura.com) — 2026-07-18T19:08:29.000Z
 - [Irán mata a dos soldados de Estados Unidos en un ataque contra una base en Jordania](https://elpais.com/internacional/2026-07-18/iran-deja-en-suspenso-la-tregua-con-estados-unidos-tras-acusarle-de-matar-a-50-personas-en-tres-semanas.html?utm_source=lootura.com) — 2026-07-18T21:57:43.000Z
+- [Por qué las idas y venidas de Trump alejan la solución a la crisis en el estrecho de Ormuz](https://www.eldiario.es/internacional/theguardian/idas-venidas-trump-alejan-solucion-crisis-estrecho-ormuz_129_13388001.html?utm_source=lootura.com) — 2026-07-18T20:23:04.000Z
 - [Estados Unidos intensifica bombardeos aéreos contra Irán por octavo día seguido](https://theobjective.com/internacional/2026-07-19/estados-unidos-intensifica-bombardeos-aereos-contra-iran-por-octavo-dia-seguido/?amp=&utm_source=lootura.com) — 2026-07-19T00:39:11.000Z

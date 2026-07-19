@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/espana/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/espana/index.json",
   "description": "Follow Spain, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-19T02:29:26.490Z",
+  "updatedAt": "2026-07-19T06:28:34.077Z",
   "aliases": [
     "Estado español",
     "Spain"
@@ -67,10 +67,10 @@
   ],
   "sources": [
     {
-      "title": "England beats France in instant classic to earn third place at 2026 FIFA World Cup",
-      "url": "https://www.foxnews.com/sports/england-wins-thriller-ages-france-claim-third-2026-fifa-world-cup?utm_source=lootura.com",
-      "publishedAt": "2026-07-19T00:11:36.000Z",
-      "sourceId": "lootura-us-fox-news"
+      "title": "Radar Mundial: Inglaterra conquista el tercer lugar tras un festival de diez goles",
+      "url": "https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/radar-mundial-inglaterra-conquista-el-tercer-lugar-tras-un-festival-de-diez-goles-tmvo13205170?utm_source=lootura.com",
+      "publishedAt": "2026-07-19T01:13:55.000Z",
+      "sourceId": "lootura-us-nbc-news"
     }
   ],
   "evidenceCount": 0

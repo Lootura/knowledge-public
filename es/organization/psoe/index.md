@@ -3,10 +3,16 @@
 > Sigue la actividad de Partido Socialista Obrero Español en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-19T02:29:06.108Z
+- Actualizado: 2026-07-19T06:28:06.146Z
 - Canonical: https://atlas.lootura.com/es/organization/psoe
 
 ## Cambios recientes
+
+### Más de 30 reuniones con Cerdán y 10.842 mensajes con el exjefe de gabinete de Sánchez
+
+Durante muchas semanas en el Partido Socialista se zafaban de las preguntas sobre Leire Díez afirmando que no era más que « una militante de base ». Aunque ya existían múltiples indicios de que no era así, con imágenes de ella entrando y saliendo de la sede de Ferraz, incluso con un encuentro personal con el exsecretar.
+
+Date: 2026-07-19
 
 ### El PSOE de Madrid elige entre la continuidad de Reyes Maroto o volver a empezar con Enma López
 
@@ -19,6 +25,12 @@ Date: 2026-07-19
 A Pedro Sánchez le quedan pocas líneas rojas que transgredir en política. Presentó una moción de censura contra el Partido Popular con solo 85 diputados, el peor resultado electoral que haya tenido el PSOE en democracia. Hasta ese momento, en España gobernaba el que ganaba en las urnas. Además, pactó, entre otros, con.
 
 Date: 2026-07-19
+
+### La doble vara de medir del PP de Ayuso ante el acoso sexual: de las críticas a Salazar al apoyo al alcalde de Móstoles
+
+El PP de Madrid sigue apostando por un apoyo cerrado a Manuel Bautista, a pesar de su imputación por acoso sexual y laboral mientras Ayuso incluso alaba su trabajo como regidor, una posición muy diferente a la que tomaron con otros escándalos que afectan al PSOE o a otros partidos de la izquierda Ayuso, tras conocer qu.
+
+Date: 2026-07-18
 
 ### El PSOE andaluz confirma a Montero, Espadas y Díaz como sus candidatos a senador
 
@@ -56,19 +68,7 @@ El último informe de la Unidad Central Operativa (UCO) de la Guardia Civil comp
 
 Date: 2026-07-17
 
-### La UCO cifra en más de 300.000 euros los beneficios que Cerdán y su familia obtuvieron de la trama entre 2015 y 2024
-
-Las investigaciones de la Unidad Central Operativa (UCO) de la Guardia Civil vuelven a poner el foco en el exsecretario de Organización del PSOE Santos Cerdán. El instituto armado ha entregado al juez de la Audiencia Nacional Ismael Moreno, que investiga la red corrupta que presuntamente anidó en el Ministerio de Trans.
-
-Date: 2026-07-17
-
-### La directora de la Guardia Civil afirma al juez que se siente una víctima de Cerdán en el ‘caso Leire Díez’
-
-La directora general de la Guardia Civil, Mercedes González, ha declarado este viernes ante el juez Santiago Pedraz, instructor del caso Leire Díez , que se siente una “víctima” política de la supuesta trama encabezada por Santos Cerdán, ex secretario de Organización del PSOE, y la exmilitante socialista Leire Díez par.
-
-Date: 2026-07-17
-
 ## Fuentes
 
-- [El PSOE de Madrid elige entre la continuidad de Reyes Maroto o volver a empezar con Enma López](https://www.abc.es/espana/madrid/psoe-madrid-elige-continuidad-reyes-maroto-volver-20260718010325-nt.html?utm_source=lootura.com) — 2026-07-19T00:21:49.000Z
-- [Begoña Gómez, la última línea roja](https://www.larazon.es/espana/begona-gomez-ultima-linea-roja_202607196a5c233d0500ab412c9dd63a.html?utm_source=lootura.com) — 2026-07-19T01:07:09.000Z
+- [Más de 30 reuniones con Cerdán y 10.842 mensajes con el exjefe de gabinete de Sánchez](https://www.abc.es/espana/cifras-desconocida-leire-reuniones-cerdan-10842-mensajes-20260719011102-nt.html?utm_source=lootura.com) — 2026-07-19T06:06:16.000Z
+- [La doble vara de medir del PP de Ayuso ante el acoso sexual: de las críticas a Salazar al apoyo al alcalde de Móstoles](https://www.eldiario.es/madrid/doble-vara-medir-pp-ayuso-acoso-sexual-criticas-salazar-apoyo-alcalde-mostoles_1_13378846.html?utm_source=lootura.com) — 2026-07-18T20:23:04.000Z

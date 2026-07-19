@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/fifa/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/fifa/index.json",
   "description": "Sigue la actividad de FIFA en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-19T02:29:06.108Z",
+  "updatedAt": "2026-07-19T06:28:06.146Z",
   "aliases": [],
   "changes": [
     {
@@ -29,10 +29,10 @@
   ],
   "sources": [
     {
-      "title": "Cancelado el último entrenamiento de España antes de la final por una gran tormenta",
-      "url": "https://amp.elmundo.es/deportes/futbol/mundial-de-futbol/2026/07/18/6a5ba131e9cf4a0c108b459d.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-18T15:52:32.000Z",
-      "sourceId": "lootura-es-el-mundo"
+      "title": "La final de nuestras vidas: la segunda estrella de España o la turra incansable de los argentinos",
+      "url": "https://www.eldebate.com/deportes/mundial-futbol-2026/20260719/final-nuestras-vidas-segunda-estrella-espana-turra-incansable-argentinos_441090.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-19T02:20:00.000Z",
+      "sourceId": "lootura-es-el-debate"
     }
   ],
   "evidenceCount": 0

@@ -3,10 +3,16 @@
 > Sigue la actividad de Lamine Yamal en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-18T13:08:36.432Z
+- Actualizado: 2026-07-19T06:28:06.146Z
 - Canonical: https://atlas.lootura.com/es/person/lamine-yamal
 
 ## Cambios recientes
+
+### Lamine Yamal desafía a las grandes leyendas
+
+Lamine es taxista. Tiene 42 años. Yamal significa belleza en árabe. Lamine Yamal es futbolista. En 2007, cuando Sheila Ebana estaba embarazada, su pareja Mounir Nasraoui le propuso un nombre para el niño que venía en camino. Quería llamarlo como su mejor amigo, Lamine. Y le añadió un segundo nombre que hoy suena casi p.
+
+Date: 2026-07-19
 
 ### La entrevista definitiva con el autor de la foto que unió a Messi y Lamine hace 20 años
 
@@ -62,12 +68,6 @@ Entre la pizarra de Luis de la Fuente y el olfato goleador de Mikel Merino , apa
 
 Date: 2026-07-10
 
-### Tatuajes que son pecado: Lamine Yamal no es el único que no se los hace por su fe
-
-El islam censura estos adornos corporales, aunque no está solo en esta postura. Otros credos también lo hacen...
-
-Date: 2026-07-08
-
 ## Fuentes
 
-No public source links.
+- [Lamine Yamal desafía a las grandes leyendas](https://elpais.com/deportes/mundial-futbol/2026-07-19/lamine-yamal-desafia-a-las-grandes-leyendas.html?utm_source=lootura.com) — 2026-07-19T03:30:01.000Z

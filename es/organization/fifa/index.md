@@ -3,7 +3,7 @@
 > Sigue la actividad de FIFA en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-19T02:29:06.108Z
+- Actualizado: 2026-07-19T06:28:06.146Z
 - Canonical: https://atlas.lootura.com/es/organization/fifa
 
 ## Cambios recientes
@@ -28,4 +28,4 @@ Date: 2026-07-08
 
 ## Fuentes
 
-- [Cancelado el último entrenamiento de España antes de la final por una gran tormenta](https://amp.elmundo.es/deportes/futbol/mundial-de-futbol/2026/07/18/6a5ba131e9cf4a0c108b459d.html?utm_source=lootura.com) — 2026-07-18T15:52:32.000Z
+- [La final de nuestras vidas: la segunda estrella de España o la turra incansable de los argentinos](https://www.eldebate.com/deportes/mundial-futbol-2026/20260719/final-nuestras-vidas-segunda-estrella-espana-turra-incansable-argentinos_441090.html?utm_source=lootura.com) — 2026-07-19T02:20:00.000Z

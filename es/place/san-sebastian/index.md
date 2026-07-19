@@ -3,7 +3,7 @@
 > Sigue la actividad de San Sebastián en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-19T02:29:06.108Z
+- Actualizado: 2026-07-19T06:28:06.146Z
 - Canonical: https://atlas.lootura.com/es/place/san-sebastian
 
 ## Cambios recientes
@@ -11,6 +11,12 @@
 ### El Hospital Donostia realiza una operación pionera en bebés con problemas en el riñón
 
 Opera por primera vez en Euskadi a lactantes para corregir el estrechamiento entre el uréter y el riñón con una técnica mínimamente invasiva.
+
+Date: 2026-07-18
+
+### La rebelión fracasa en Donostia pero la ciudad cae bajo un clima prebélico
+
+Los sublevados contra la República se atrincheraron los primeros días en San Sebastián, que cayó el 13 de septiembre tras dos meses de lucha y bombardeos en los que la ciudad vivió una cruenta espiral de muerte.
 
 Date: 2026-07-18
 
@@ -62,12 +68,7 @@ San Sebastián first entered the public knowledge record with source-backed evid
 
 Date: 2026-07-12
 
-### La Batalla de San Sebastián según su último combatiente
-
-Hasta su fallecimiento a los 110 años, Mateo Balbuena recordaba vívidamente los acontecimientos de julio de 1936.
-
-Date: 2026-07-12
-
 ## Fuentes
 
+- [La rebelión fracasa en Donostia pero la ciudad cae bajo un clima prebélico](https://www.diariovasco.com/gipuzkoa/especial-alzamiento-militar-90-aniversario-julio-sangre-gipuzkoa-rebelion-san-sebastian-20260719102733-nt.html?utm_source=lootura.com) — 2026-07-18T22:09:37.000Z
 - [El Hospital Donostia realiza una operación pionera en bebés con problemas en el riñón](https://www.diariovasco.com/sociedad/salud/hospital-donostia-realiza-primera-laparoscopia-renal-lactantes-20260719172257-nt_amp.html?utm_source=lootura.com) — 2026-07-18T22:07:11.000Z

@@ -3,7 +3,7 @@
 > Follow Artificial intelligence, a tracked topic, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: topic
-- Updated: 2026-07-19T02:29:26.490Z
+- Updated: 2026-07-19T06:28:34.077Z
 - Canonical: https://atlas.lootura.com/us/topic/artificial-intelligence
 
 ## Recent changes
@@ -71,5 +71,5 @@ Date: 2026-07-17
 ## Sources
 
 - [A model struggled to get treated for aggressive breast cancer, so she moved thousands of miles away](https://www.cbsnews.com/news/alaska-model-arizona-city-of-hope-breast-cancer/?utm_source=lootura.com) — 2026-07-18T12:00:04.000Z
-- [AI is set to completely transform cybersecurity — here’s how researchers must prepare](https://www.nature.com/articles/d41586-026-02214-z?utm_source=lootura.com) — 2026-07-19T02:29:31.188Z
-- [A global capital for AI safety is emerging — and it’s not in Silicon Valley](https://www.nature.com/articles/d41586-026-01389-9?utm_source=lootura.com) — 2026-07-19T02:29:31.188Z
+- [AI is set to completely transform cybersecurity — here’s how researchers must prepare](https://www.nature.com/articles/d41586-026-02214-z?utm_source=lootura.com) — 2026-07-19T06:28:38.446Z
+- [A global capital for AI safety is emerging — and it’s not in Silicon Valley](https://www.nature.com/articles/d41586-026-01389-9?utm_source=lootura.com) — 2026-07-19T06:28:38.446Z

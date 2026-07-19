@@ -8,9 +8,14 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/lamine-yamal/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/lamine-yamal/index.json",
   "description": "Sigue la actividad de Lamine Yamal en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-18T13:08:36.432Z",
+  "updatedAt": "2026-07-19T06:28:06.146Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "Lamine Yamal desafía a las grandes leyendas",
+      "summary": "Lamine es taxista. Tiene 42 años. Yamal significa belleza en árabe. Lamine Yamal es futbolista. En 2007, cuando Sheila Ebana estaba embarazada, su pareja Mounir Nasraoui le propuso un nombre para el niño que venía en camino. Quería llamarlo como su mejor amigo, Lamine. Y le añadió un segundo nombre que hoy suena casi p.",
+      "date": "2026-07-19"
+    },
     {
       "title": "La entrevista definitiva con el autor de la foto que unió a Messi y Lamine hace 20 años",
       "summary": "Todo el mundo habla de la fotografía en la que aparecen juntos un Leo Messi veinteañero y un Lamine Yamal de apenas unos meses de edad realizada hace casi 20 años. El argentino se ha convertido en el mejor futbolista de la historia; el catalán, en la estrella del Barça y de la selección española. Los dos lucharán este.",
@@ -55,13 +60,15 @@
       "title": "Lamine Yamal: “Si a alguien debe temer Francia es a nosotros”",
       "summary": "Entre la pizarra de Luis de la Fuente y el olfato goleador de Mikel Merino , aparece la gambeta de Lamine Yamal. De nuevo elegido el mejor jugador del duelo ante Bélgica ayer. El canterano del Barcelona no necesitó ni marcar ni asistir para llevarse el trofeo individual. “Estoy muy contento por la victoria. Quiero marc.",
       "date": "2026-07-10"
-    },
-    {
-      "title": "Tatuajes que son pecado: Lamine Yamal no es el único que no se los hace por su fe",
-      "summary": "El islam censura estos adornos corporales, aunque no está solo en esta postura. Otros credos también lo hacen...",
-      "date": "2026-07-08"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Lamine Yamal desafía a las grandes leyendas",
+      "url": "https://elpais.com/deportes/mundial-futbol/2026-07-19/lamine-yamal-desafia-a-las-grandes-leyendas.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-19T03:30:01.000Z",
+      "sourceId": "lootura-es-el-pais"
+    }
+  ],
+  "evidenceCount": 1
 }

@@ -3,7 +3,7 @@
 > Sigue la actividad de Artificial intelligence en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: topic
-- Actualizado: 2026-07-19T02:29:06.108Z
+- Actualizado: 2026-07-19T06:28:06.146Z
 - Canonical: https://atlas.lootura.com/es/topic/artificial-intelligence
 
 ## Cambios recientes
@@ -40,4 +40,4 @@ Date: 2026-07-10
 
 ## Fuentes
 
-- [Asensio acusa a PNV y EH Bildu de buscar «una sociedad más dividida»](https://www.diariovasco.com/politica/asensio-acusa-pnv-bildu-buscar-sociedad-dividida-20260718141609-nt_amp.html?utm_source=lootura.com) — 2026-07-18T12:24:42.000Z
+- [Merlin, del ladrillo a los centros de datos para crecer al calor de la IA](https://cincodias.elpais.com/mercados-financieros/2026-07-19/merlin-del-ladrillo-a-los-centros-de-datos-para-crecer-al-calor-de-la-ia.html?utm_source=lootura.com) — 2026-07-19T03:25:00.000Z

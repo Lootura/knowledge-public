@@ -3,20 +3,20 @@
 > Follow Democratic Party, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-07-19T02:29:26.490Z
+- Updated: 2026-07-19T06:28:34.077Z
 - Canonical: https://atlas.lootura.com/us/organization/democratic-party
 
 ## Recent changes
 
-### Mamdani doubles down on democratic socialism while insisting Wall Street, business leaders can work with him
-
-New York City Democratic Mayor Zohran Mamdani is embracing his identity as a Democratic Socialist, arguing the movement represents a return to the Democratic Party's New Deal roots even as he insists Wall Street and corporate leaders have nothing to fear from his administration. In a wide-ranging interview with The New.
-
-Date: 2026-07-19
-
 ### US politicians push agencies to restrict research collaboration with China
 
 Nature, Published online: 16 July 2026; doi:10.1038/d41586-026-02226-9 Republicans and Democrats worry about research theft and exploitation — but don’t agree on how to solve the problem.
+
+Date: 2026-07-19
+
+### Mamdani doubles down on democratic socialism while insisting Wall Street, business leaders can work with him
+
+New York City Democratic Mayor Zohran Mamdani is embracing his identity as a Democratic Socialist, arguing the movement represents a return to the Democratic Party's New Deal roots even as he insists Wall Street and corporate leaders have nothing to fear from his administration. In a wide-ranging interview with The New.
 
 Date: 2026-07-19
 
@@ -70,7 +70,6 @@ Date: 2026-07-17
 
 ## Sources
 
-- [Mamdani doubles down on democratic socialism while insisting Wall Street, business leaders can work with him](https://www.foxnews.com/politics/mamdani-doubles-down-democratic-socialism-insisting-wall-street-business-leaders-work-him?utm_source=lootura.com) — 2026-07-19T00:49:35.000Z
-- [US politicians push agencies to restrict research collaboration with China](https://www.nature.com/articles/d41586-026-02226-9?utm_source=lootura.com) — 2026-07-19T02:29:31.188Z
+- [US politicians push agencies to restrict research collaboration with China](https://www.nature.com/articles/d41586-026-02226-9?utm_source=lootura.com) — 2026-07-19T06:28:38.446Z
 - [Without Platner, Maine Democrats Scramble to Keep Grassroots Energy Alive](https://www.nytimes.com/2026/07/18/us/politics/platner-voters-maine-senate.html?utm_source=lootura.com) — 2026-07-18T09:02:12.000Z
 - [These AIPAC-Backed Democrats Voted to Nix Israel Aid. AIPAC Punished Them.](https://www.nytimes.com/2026/07/18/us/politics/aipac-democrats-donations-israel-vote.html?utm_source=lootura.com) — 2026-07-18T18:19:08.000Z

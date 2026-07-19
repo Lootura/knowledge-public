@@ -3,7 +3,7 @@
 > Sigue la actividad de País Vasco en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-19T02:29:06.108Z
+- Actualizado: 2026-07-19T06:28:06.146Z
 - Canonical: https://atlas.lootura.com/es/place/pais-vasco
 
 ## Cambios recientes
@@ -17,6 +17,12 @@ Date: 2026-07-18
 ### El 8,5% de los trabajadores vascos concentra la mitad de todas las bajas médicas en Euskadi
 
 Un extenso informe de la Asociación de Mutuas española constata una «hiperconcentración» de las ausencias por IT en una pequeña porción de personas en el País Vasco.
+
+Date: 2026-07-18
+
+### Las escaleras más famosas de Bizkaia
+
+San Juan de Gaztelugatxe recibe más de 1.400 visitantes al día. La fe, el paisaje y Juego de Tronos explican el éxito de los rincones más visitados del País Vasco.
 
 Date: 2026-07-18
 
@@ -62,13 +68,8 @@ Mucho del mármol que revestía las grandes villas y hoteles de la Costa del Sol
 
 Date: 2026-07-12
 
-### Euskadi ampliará el acceso a una VPO a las clases medias lo que beneficiará a 13.000 guipuzcoanos
-
-La reforma de Etxebide que ha iniciado hoy el Gobierno Vasco reservará el 30% de viviendas a rentas medias con ingresos entre 20.000 y 46.000 euros.
-
-Date: 2026-07-09
-
 ## Fuentes
 
+- [Las escaleras más famosas de Bizkaia](https://www.elcorreo.com/bizkaia/escaleras-famosas-bizkaia-20260704183708-nt_amp.html?utm_source=lootura.com) — 2026-07-18T22:51:13.000Z
 - [El Hospital Donostia realiza una operación pionera en bebés con problemas en el riñón](https://www.diariovasco.com/sociedad/salud/hospital-donostia-realiza-primera-laparoscopia-renal-lactantes-20260719172257-nt_amp.html?utm_source=lootura.com) — 2026-07-18T22:07:11.000Z
 - [El 8,5% de los trabajadores vascos concentra la mitad de todas las bajas médicas en Euskadi](https://www.diariovasco.com/economia/trabajo/trabajadores-vascos-concentra-mitad-bajas-medicas-euskadi-20260719002054-nt.html?utm_source=lootura.com) — 2026-07-18T22:20:54.000Z

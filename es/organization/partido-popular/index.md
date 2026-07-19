@@ -3,10 +3,22 @@
 > Sigue la actividad de Partido Popular en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-19T02:29:06.108Z
+- Actualizado: 2026-07-19T06:28:06.146Z
 - Canonical: https://atlas.lootura.com/es/organization/partido-popular
 
 ## Cambios recientes
+
+### La última ocurrencia de los separatistas de Més en Palma: exigen redactar un plan municipal de espacios donde hay sombra
+
+La última ocurrencia de los separatistas de Més en Palma: exigen al Ayuntamiento gobernado en minoría por el alcalde del PP, Jaime Martínez, redactar un plan municipal de espacios y zonas donde hace sombra y elaborarlo en un plazo máximo de seis meses. En plena ola de calor, la formación culpa al PP de no desplegar nin.
+
+Date: 2026-07-19
+
+### El PP prepara una política de hierro para desmontar el sanchismo económico
+
+Tendemos a exagerar lo que desconocemos. El Partido Popular no sabe lo que se va a encontrar tras la línea de meta de La Moncloa, pero se imagina que le espera una gorda. Las expectativas de acción en el plano económico son muy altas -siempre lo son para la derecha- y los populares no quieren arriesgarse a que cuajen l.
+
+Date: 2026-07-19
 
 ### Begoña Gómez, la última línea roja
 
@@ -14,11 +26,11 @@ A Pedro Sánchez le quedan pocas líneas rojas que transgredir en política. Pre
 
 Date: 2026-07-19
 
-### La última ocurrencia de los separatistas de Més en Palma: exigen redactar un plan municipal de espacios donde hay sombra
+### La doble vara de medir del PP de Ayuso ante el acoso sexual: de las críticas a Salazar al apoyo al alcalde de Móstoles
 
-La última ocurrencia de los separatistas de Més en Palma: exigen al Ayuntamiento gobernado en minoría por el alcalde del PP, Jaime Martínez, redactar un plan municipal de espacios y zonas donde hace sombra y elaborarlo en un plazo máximo de seis meses. En plena ola de calor, la formación culpa al PP de no desplegar nin.
+El PP de Madrid sigue apostando por un apoyo cerrado a Manuel Bautista, a pesar de su imputación por acoso sexual y laboral mientras Ayuso incluso alaba su trabajo como regidor, una posición muy diferente a la que tomaron con otros escándalos que afectan al PSOE o a otros partidos de la izquierda Ayuso, tras conocer qu.
 
-Date: 2026-07-19
+Date: 2026-07-18
 
 ### Los candidatos del PP a las alcaldías de Castilla y León apelan a la ambición y a la cercanía
 
@@ -56,20 +68,8 @@ El alcalde de Madrid y aspirante a la reelección en las próximas elecciones mu
 
 Date: 2026-07-18
 
-### PP y Vox vuelven a las armas contra la ley de nietos y abren la puerta a la vía judicial
-
-La ley de nietos, que consiste en una disposición adicional a la Ley de Memoria Democrática , lleva en vigor casi cuatro años . El plazo para solicitar cita previa y entrar en el proceso de nacionalización -se inscribieron 2,5 millones de personas - finalizó hace nueve meses. Pero la polémica respecto a su aplicación n.
-
-Date: 2026-07-18
-
-### El Govern de Prohens aplaza hasta después del verano la aprobación de la ley agraria pactada entre PP y Vox
-
-El Govern que preside Marga Prohens admite que ya no tendrá tiempo de aprobar la Ley Agraria pactada con Vox antes de las vacaciones de verano. Fuentes del Consolat y también del partido de Santiago Abascal han confirmado a OKBALEARES que el texto de la revolucionaria ley agraria balear no pasará a su aprobación por ..
-
-Date: 2026-07-18
-
 ## Fuentes
 
-- [Feijóo invoca una España "que se parezca más a su selección" y moviliza a sus alcaldes contra "el saqueo del PSOE"](https://amp.elmundo.es/espana/2026/07/18/6a5b7272e4d4d84e0b8b45a6.html?utm_source=lootura.com) — 2026-07-18T12:37:12.000Z
-- [Begoña Gómez, la última línea roja](https://www.larazon.es/espana/begona-gomez-ultima-linea-roja_202607196a5c233d0500ab412c9dd63a.html?utm_source=lootura.com) — 2026-07-19T01:07:09.000Z
+- [El PP prepara una política de hierro para desmontar el sanchismo económico](https://www.abc.es/economia/maria-jesus-perez-pp-prepara-politica-hierro-desmontar-sanchismo-economico-20260719011037-nt.html?utm_source=lootura.com) — 2026-07-19T06:07:22.000Z
+- [La doble vara de medir del PP de Ayuso ante el acoso sexual: de las críticas a Salazar al apoyo al alcalde de Móstoles](https://www.eldiario.es/madrid/doble-vara-medir-pp-ayuso-acoso-sexual-criticas-salazar-apoyo-alcalde-mostoles_1_13378846.html?utm_source=lootura.com) — 2026-07-18T20:23:04.000Z
 - [La última ocurrencia de los separatistas de Més en Palma: exigen redactar un plan municipal de espacios donde hay sombra](https://okdiario.com/baleares/ultima-ocurrencia-separatistas-mes-palma-exigen-redactar-plan-municipal-espacios-donde-hace-sombra-19017553?utm_source=lootura.com) — 2026-07-19T02:00:09.000Z

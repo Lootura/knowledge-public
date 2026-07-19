@@ -3,7 +3,7 @@
 > Sigue la actividad de Lionel Messi en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-19T02:29:06.108Z
+- Actualizado: 2026-07-19T06:28:06.146Z
 - Canonical: https://atlas.lootura.com/es/person/lionel-messi
 
 ## Cambios recientes
@@ -64,5 +64,4 @@ Date: 2026-07-15
 
 ## Fuentes
 
-- [De Alella a Tenerife: 26 jugadores y once regiones en busca de la gloria](https://www.abc.es/deportes/futbol/mundial/espana-rincones-partido-segunda-estrella-20260716000623-nt.html?utm_source=lootura.com) — 2026-07-19T00:03:44.000Z
 - [Inglaterra se lleva la medalla de bronce tras un festival de goles](https://www.elcorreo.com/deportes/futbol/mundial/inglaterra-lleva-medalla-bronce-tras-festival-goles-20260718011119-ntrc_amp.html?utm_source=lootura.com) — 2026-07-18T23:11:19.000Z

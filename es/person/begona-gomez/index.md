@@ -3,7 +3,7 @@
 > Sigue la actividad de Begoña Gómez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-19T02:29:06.108Z
+- Actualizado: 2026-07-19T06:28:06.146Z
 - Canonical: https://atlas.lootura.com/es/person/begona-gomez
 
 ## Cambios recientes
@@ -71,4 +71,3 @@ Date: 2026-07-17
 ## Fuentes
 
 - [Lo que la Audiencia de Madrid no ha cambiado: el juicio a Begoña Gómez se mantiene para antes de las generales](https://www.elmundo.es/espana/2026/07/19/6a5bcabae9cf4acd6f8b45c8.html?utm_source=lootura.com) — 2026-07-19T01:08:29.000Z
-- [Begoña Gómez, la última línea roja](https://www.larazon.es/espana/begona-gomez-ultima-linea-roja_202607196a5c233d0500ab412c9dd63a.html?utm_source=lootura.com) — 2026-07-19T01:07:09.000Z

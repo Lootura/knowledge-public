@@ -3,7 +3,7 @@
 > Follow United States, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-19T02:29:26.490Z
+- Updated: 2026-07-19T06:28:34.077Z
 - Canonical: https://atlas.lootura.com/us/place/united-states
 
 ## Recent changes
@@ -23,12 +23,6 @@ Date: 2026-07-19
 ### Russia Bill Broadens Sanctions but Could Fuel Fears Over the Dollar
 
 The Trump administration has recently sought to scale back sanctions as adversaries develop workarounds that some believe could erode the U.S. dollar’s supremacy.
-
-Date: 2026-07-18
-
-### As Trump Scraps With Meloni, His Envoy to Italy Is at Sea
-
-Tilman J. Fertitta, the U.S. ambassador to Rome, is summering on his superyacht as President Trump squabbles with Prime Minister Giorgia Meloni of Italy.
 
 Date: 2026-07-18
 
@@ -68,14 +62,20 @@ The widening strikes threatened civilians and services to them, including desali
 
 Date: 2026-07-18
 
+### Maps show wildfire smoke forecast, air quality alerts in swath of U.S.
+
+Heavy smoke from several large wildfires blazing in Canada and Minnesota is engulfing large swaths of the Midwest and the U.S. East Coast this week.
+
+Date: 2026-07-18
+
 ## Sources
 
-- [2 U.S. service members killed, 1 missing after Iran strike on Jordan, military says](https://www.cbsnews.com/news/iran-strike-jordan-us-troops-killed/?utm_source=lootura.com) — 2026-07-19T02:26:33.000Z
 - [The Uplift: The American Dream](https://www.cbsnews.com/video/the-uplift-the-american-dream/?utm_source=lootura.com) — 2026-07-27T10:30:00.000Z
 - [Maps show wildfire smoke forecast, air quality alerts in swath of U.S.](https://www.cbsnews.com/news/wildfires-smoke-millions-exposed-midwest-northeast-us/?utm_source=lootura.com) — 2026-07-18T16:44:00.000Z
 - [2 U.S. Forest Service workers safe after being kidnapped, held at gunpoint for hours in Northern California](https://www.cbsnews.com/news/us-forest-service-workers-kidnapped-california/?utm_source=lootura.com) — 2026-07-18T12:19:13.000Z
 - [Iran and Kuwait report attacks on water and power infrastructure as strikes escalate](https://www.nbcnews.com/world/iran/water-energy-sites-hit-us-iran-strikes-escalate-rcna588143?utm_source=lootura.com) — 2026-07-18T12:58:17.000Z
 - [Rhode Island fugitive captured after more than 20 years on the run](https://www.nbcnews.com/news/us-news/rhode-island-fugitive-ronald-fischer-rcna588163?utm_source=lootura.com) — 2026-07-18T16:35:47.000Z
+- [U.S. military says 2 service members killed in Jordan by Iranian attacks](https://www.nbcnews.com/nightly-news/video/u-s-military-says-2-service-members-killed-in-jordan-by-iranian-attacks-266892357964?utm_source=lootura.com) — 2026-07-18T22:43:06.000Z
 - [The Tate brothers are arrested in Miami, U.S. Marshals Service tells AP](https://www.npr.org/2026/07/18/g-s1-134475/tate-brothers-arrested-miami?utm_source=lootura.com) — 2026-07-19T00:57:08.000Z
 - [Wildfire smoke from Canada and Minnesota pushes farther into the U.S. and engulfs D.C. in haze](https://www.pbs.org/newshour/nation/wildfire-smoke-from-canada-and-minnesota-pushes-farther-into-the-u-s-and-engulfs-d-c-in-haze?utm_source=lootura.com) — 2026-07-18T15:20:12.000Z
 - [Iran says it is suspending commitments to interim deal with U.S. as they exchange attacks](https://www.pbs.org/newshour/world/iran-says-it-is-suspending-commitments-to-interim-deal-with-u-s-as-they-exchange-attacks?utm_source=lootura.com) — 2026-07-18T15:34:19.000Z

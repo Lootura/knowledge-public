@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/pais-vasco/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/pais-vasco/index.json",
   "description": "Sigue la actividad de País Vasco en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-19T02:29:06.108Z",
+  "updatedAt": "2026-07-19T06:28:06.146Z",
   "aliases": [
     "Basque Country",
     "Euskadi"
@@ -22,6 +22,11 @@
     {
       "title": "El 8,5% de los trabajadores vascos concentra la mitad de todas las bajas médicas en Euskadi",
       "summary": "Un extenso informe de la Asociación de Mutuas española constata una «hiperconcentración» de las ausencias por IT en una pequeña porción de personas en el País Vasco.",
+      "date": "2026-07-18"
+    },
+    {
+      "title": "Las escaleras más famosas de Bizkaia",
+      "summary": "San Juan de Gaztelugatxe recibe más de 1.400 visitantes al día. La fe, el paisaje y Juego de Tronos explican el éxito de los rincones más visitados del País Vasco.",
       "date": "2026-07-18"
     },
     {
@@ -58,14 +63,15 @@
       "title": "Los Cosentino, la familia que hizo del mármol de Almería un gigante global",
       "summary": "Mucho del mármol que revestía las grandes villas y hoteles de la Costa del Sol en los años ochenta llevaba el sello de Cosentino . Pero la ambición de la compañía nunca se limitó a Andalucía. Su expansión comercial la llevó pronto a conquistar los mercados de Levante, Madrid y el País Vasco, impulsada en gran medida po.",
       "date": "2026-07-12"
-    },
-    {
-      "title": "Euskadi ampliará el acceso a una VPO a las clases medias lo que beneficiará a 13.000 guipuzcoanos",
-      "summary": "La reforma de Etxebide que ha iniciado hoy el Gobierno Vasco reservará el 30% de viviendas a rentas medias con ingresos entre 20.000 y 46.000 euros.",
-      "date": "2026-07-09"
     }
   ],
   "sources": [
+    {
+      "title": "Las escaleras más famosas de Bizkaia",
+      "url": "https://www.elcorreo.com/bizkaia/escaleras-famosas-bizkaia-20260704183708-nt_amp.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-18T22:51:13.000Z",
+      "sourceId": "lootura-es-el-correo"
+    },
     {
       "title": "El Hospital Donostia realiza una operación pionera en bebés con problemas en el riñón",
       "url": "https://www.diariovasco.com/sociedad/salud/hospital-donostia-realiza-primera-laparoscopia-renal-lactantes-20260719172257-nt_amp.html?utm_source=lootura.com",
@@ -79,5 +85,5 @@
       "sourceId": "lootura-es-el-diario-vasco"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 3
 }

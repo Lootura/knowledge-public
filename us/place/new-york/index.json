@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/new-york/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/new-york/index.json",
   "description": "Follow New York, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-19T02:29:26.490Z",
+  "updatedAt": "2026-07-19T06:28:34.077Z",
   "aliases": [
     "New York City"
   ],
@@ -16,6 +16,11 @@
     {
       "title": "Healthcare costs associated with aging out of reach for many Americans",
       "summary": "One New York couple depleted their retirement and savings accounts, paying out-of-pocket for healthcare, before they were able to access Medicaid funds.",
+      "date": "2026-07-19"
+    },
+    {
+      "title": "Caitlin Clark smacked in the face by WNBA legend after getting foul that could trigger fine in big win",
+      "summary": "Caitlin Clark took a hit to the face, received a technical foul that could lead to a hefty fine, and still came away with a win and first place in the Eastern Conference on Saturday. Early in the first quarter of the Fever's 108-88 win over the New York Liberty , Clark was called for a technical foul after she ran full.",
       "date": "2026-07-19"
     },
     {
@@ -57,11 +62,6 @@
       "title": "Canadian wildfire smoke linked to fewer bird sightings in New York State",
       "summary": "Despite burning hundreds of miles away, Canadian wildfires have become a familiar source of disruption in New York state.",
       "date": "2026-07-17"
-    },
-    {
-      "title": "‘Everybody Watches’: TIME100 Sports Honorees on Red Carpet Celebrate Rise of Women’s Sports",
-      "summary": "Eileen Gu on the TIME100 Sports Gala red carpet on July 16, 2026 in New York City. —Jemal Countess—Getty Images Multiple guests walking the red carpet at the inaugural TIME100 Sports Gala in New York City on July 16 applauded the rise of women’s sports. “Everybody watches women’s sports!” said Eileen Gu , the 2026 TIME.",
-      "date": "2026-07-17"
     }
   ],
   "sources": [
@@ -84,9 +84,9 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "Mamdani doubles down on democratic socialism while insisting Wall Street, business leaders can work with him",
-      "url": "https://www.foxnews.com/politics/mamdani-doubles-down-democratic-socialism-insisting-wall-street-business-leaders-work-him?utm_source=lootura.com",
-      "publishedAt": "2026-07-19T00:49:35.000Z",
+      "title": "Caitlin Clark smacked in the face by WNBA legend after getting foul that could trigger fine in big win",
+      "url": "https://www.foxnews.com/outkick-sports/caitlin-clark-smacked-face-wnba-legend-after-getting-foul-could-trigger-fine-big-win?utm_source=lootura.com",
+      "publishedAt": "2026-07-19T03:58:11.000Z",
       "sourceId": "lootura-us-fox-news"
     },
     {

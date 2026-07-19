@@ -3,7 +3,7 @@
 > Sigue la actividad de El Gobierno en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-19T02:29:06.108Z
+- Actualizado: 2026-07-19T06:28:06.146Z
 - Canonical: https://atlas.lootura.com/es/organization/el-gobierno
 
 ## Cambios recientes
@@ -11,6 +11,12 @@
 ### «El Gobierno ha perdido una oportunidad histórica en Gibraltar»
 
 La colonia británica es una vieja conocida para Nicolás de la Parte. Su primer destino en la carrera diplomática fue en la Dirección General de Europa a cargo de los asuntos de Gibraltar entre 1987 y 1988, cuando se negociaba el acuerdo para el uso conjunto del aeropuerto que no llegó a término. En 2017 fue designado e.
+
+Date: 2026-07-19
+
+### El Gobierno cerrará el curso parlamentario con 70 leyes en toda la legislatura, más de la mitad decretos
+
+El Gobierno no deja de esforzarse en demostrar que aún hay legislatura por delante y una mayoría parlamentaria que lo sostenga. En un intento de hacerlo patente, el Ejecutivo de Pedro Sánchez ha pisado el acelerador en los últimos dos meses para mejorar unos números legislativos que quedaban muy lejos de la primera leg.
 
 Date: 2026-07-19
 
@@ -62,13 +68,7 @@ La ley de amnistía, la clave de bóveda de la legislatura que posibilitó la in
 
 Date: 2026-07-16
 
-### Ley de Amnistía por TJUE, en directo | El Gobierno celebra que la ley de amnistía “es constitucional y conforme al derecho europeo”
-
-El ministro de la Presidencia, Justicia y Relaciones con las Cortes, Félix Bolaños, ha valorado que el fallo del Tribunal de Justicia de la Unión Europea (TJUE) avale la ley de amnistía. “La ley de amnistía es plenamente compatible con el derecho europeo y queda avalada”, ha afirmado en una declaración institucional en.
-
-Date: 2026-07-16
-
 ## Fuentes
 
-- [Ruido y furia entre políticos y jueces: cómo reparar la (maltrecha) justicia](https://elpais.com/ideas/2026-07-18/ruido-y-furia-entre-politicos-y-jueces-como-reparar-la-maltrecha-justicia.html?utm_source=lootura.com) — 2026-07-18T14:10:42.000Z
+- [El Gobierno cerrará el curso parlamentario con 70 leyes en toda la legislatura, más de la mitad decretos](https://www.elperiodicomediterraneo.com/espana/2026/07/19/gobierno-curso-parlamentario-70-leyes-132595129.html?utm_source=lootura.com) — 2026-07-19T06:23:19.000Z
 - [«El Gobierno ha perdido una oportunidad histórica en Gibraltar»](https://www.larazon.es/espana/gobierno-perdido-oportunidad-historica-gibraltar_202607196a5c2f240500ab412c9de40b.html?utm_source=lootura.com) — 2026-07-19T01:57:56.000Z

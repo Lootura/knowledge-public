@@ -3,7 +3,7 @@
 > Follow Iran, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-19T02:29:26.490Z
+- Updated: 2026-07-19T06:28:34.077Z
 - Canonical: https://atlas.lootura.com/us/place/iran
 
 ## Recent changes
@@ -70,7 +70,7 @@ Date: 2026-07-17
 
 ## Sources
 
-- [2 U.S. service members killed, 1 missing after Iran strike on Jordan, military says](https://www.cbsnews.com/news/iran-strike-jordan-us-troops-killed/?utm_source=lootura.com) — 2026-07-19T02:26:33.000Z
+- [2 U.S. service members killed, 1 missing following Iranian strike on Jordan](https://www.cbsnews.com/news/iran-strike-jordan-us-troops-killed/?utm_source=lootura.com) — 2026-07-19T02:26:33.000Z
 - [Iran and Kuwait report attacks on water and power infrastructure as strikes escalate](https://www.nbcnews.com/world/iran/water-energy-sites-hit-us-iran-strikes-escalate-rcna588143?utm_source=lootura.com) — 2026-07-18T12:58:17.000Z
 - [Iran says it is suspending commitments to interim deal with U.S. as they exchange attacks](https://www.pbs.org/newshour/world/iran-says-it-is-suspending-commitments-to-interim-deal-with-u-s-as-they-exchange-attacks?utm_source=lootura.com) — 2026-07-18T15:34:19.000Z
 - [U.S. military says 2 troops are dead and 1 is missing after Iran attacks a base in Jordan](https://www.pbs.org/newshour/world/u-s-military-says-2-troops-are-dead-and-1-is-missing-after-iran-attacks-a-base-in-jordan?utm_source=lootura.com) — 2026-07-18T15:34:19.000Z

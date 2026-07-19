@@ -8,20 +8,30 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/partido-popular/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/partido-popular/index.json",
   "description": "Sigue la actividad de Partido Popular en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-19T02:29:06.108Z",
+  "updatedAt": "2026-07-19T06:28:06.146Z",
   "aliases": [
     "PP"
   ],
   "changes": [
+    {
+      "title": "La última ocurrencia de los separatistas de Més en Palma: exigen redactar un plan municipal de espacios donde hay sombra",
+      "summary": "La última ocurrencia de los separatistas de Més en Palma: exigen al Ayuntamiento gobernado en minoría por el alcalde del PP, Jaime Martínez, redactar un plan municipal de espacios y zonas donde hace sombra y elaborarlo en un plazo máximo de seis meses. En plena ola de calor, la formación culpa al PP de no desplegar nin.",
+      "date": "2026-07-19"
+    },
+    {
+      "title": "El PP prepara una política de hierro para desmontar el sanchismo económico",
+      "summary": "Tendemos a exagerar lo que desconocemos. El Partido Popular no sabe lo que se va a encontrar tras la línea de meta de La Moncloa, pero se imagina que le espera una gorda. Las expectativas de acción en el plano económico son muy altas -siempre lo son para la derecha- y los populares no quieren arriesgarse a que cuajen l.",
+      "date": "2026-07-19"
+    },
     {
       "title": "Begoña Gómez, la última línea roja",
       "summary": "A Pedro Sánchez le quedan pocas líneas rojas que transgredir en política. Presentó una moción de censura contra el Partido Popular con solo 85 diputados, el peor resultado electoral que haya tenido el PSOE en democracia. Hasta ese momento, en España gobernaba el que ganaba en las urnas. Además, pactó, entre otros, con.",
       "date": "2026-07-19"
     },
     {
-      "title": "La última ocurrencia de los separatistas de Més en Palma: exigen redactar un plan municipal de espacios donde hay sombra",
-      "summary": "La última ocurrencia de los separatistas de Més en Palma: exigen al Ayuntamiento gobernado en minoría por el alcalde del PP, Jaime Martínez, redactar un plan municipal de espacios y zonas donde hace sombra y elaborarlo en un plazo máximo de seis meses. En plena ola de calor, la formación culpa al PP de no desplegar nin.",
-      "date": "2026-07-19"
+      "title": "La doble vara de medir del PP de Ayuso ante el acoso sexual: de las críticas a Salazar al apoyo al alcalde de Móstoles",
+      "summary": "El PP de Madrid sigue apostando por un apoyo cerrado a Manuel Bautista, a pesar de su imputación por acoso sexual y laboral mientras Ayuso incluso alaba su trabajo como regidor, una posición muy diferente a la que tomaron con otros escándalos que afectan al PSOE o a otros partidos de la izquierda Ayuso, tras conocer qu.",
+      "date": "2026-07-18"
     },
     {
       "title": "Los candidatos del PP a las alcaldías de Castilla y León apelan a la ambición y a la cercanía",
@@ -52,30 +62,20 @@
       "title": "Almeida en la presentación de los candidatos de Feijóo a las municipales: «Tenemos el mejor equipo y el mejor seleccionador»",
       "summary": "El alcalde de Madrid y aspirante a la reelección en las próximas elecciones municipales, José Luis Martínez-Almeida , ha puesto en valor el conjunto de candidaturas del PP en las capitales de provincia para estos comicios, y el papel de su líder, Alberto Núñez Feijóo . «Tenemos el mejor equipo y el mejor seleccionador.",
       "date": "2026-07-18"
-    },
-    {
-      "title": "PP y Vox vuelven a las armas contra la ley de nietos y abren la puerta a la vía judicial",
-      "summary": "La ley de nietos, que consiste en una disposición adicional a la Ley de Memoria Democrática , lleva en vigor casi cuatro años . El plazo para solicitar cita previa y entrar en el proceso de nacionalización -se inscribieron 2,5 millones de personas - finalizó hace nueve meses. Pero la polémica respecto a su aplicación n.",
-      "date": "2026-07-18"
-    },
-    {
-      "title": "El Govern de Prohens aplaza hasta después del verano la aprobación de la ley agraria pactada entre PP y Vox",
-      "summary": "El Govern que preside Marga Prohens admite que ya no tendrá tiempo de aprobar la Ley Agraria pactada con Vox antes de las vacaciones de verano. Fuentes del Consolat y también del partido de Santiago Abascal han confirmado a OKBALEARES que el texto de la revolucionaria ley agraria balear no pasará a su aprobación por ..",
-      "date": "2026-07-18"
     }
   ],
   "sources": [
     {
-      "title": "Feijóo invoca una España \"que se parezca más a su selección\" y moviliza a sus alcaldes contra \"el saqueo del PSOE\"",
-      "url": "https://amp.elmundo.es/espana/2026/07/18/6a5b7272e4d4d84e0b8b45a6.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-18T12:37:12.000Z",
-      "sourceId": "lootura-es-el-mundo"
+      "title": "El PP prepara una política de hierro para desmontar el sanchismo económico",
+      "url": "https://www.abc.es/economia/maria-jesus-perez-pp-prepara-politica-hierro-desmontar-sanchismo-economico-20260719011037-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-19T06:07:22.000Z",
+      "sourceId": "lootura-es-abc"
     },
     {
-      "title": "Begoña Gómez, la última línea roja",
-      "url": "https://www.larazon.es/espana/begona-gomez-ultima-linea-roja_202607196a5c233d0500ab412c9dd63a.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-19T01:07:09.000Z",
-      "sourceId": "lootura-es-la-razon"
+      "title": "La doble vara de medir del PP de Ayuso ante el acoso sexual: de las críticas a Salazar al apoyo al alcalde de Móstoles",
+      "url": "https://www.eldiario.es/madrid/doble-vara-medir-pp-ayuso-acoso-sexual-criticas-salazar-apoyo-alcalde-mostoles_1_13378846.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-18T20:23:04.000Z",
+      "sourceId": "lootura-es-eldiario-es"
     },
     {
       "title": "La última ocurrencia de los separatistas de Més en Palma: exigen redactar un plan municipal de espacios donde hay sombra",
@@ -84,5 +84,5 @@
       "sourceId": "lootura-es-ok-diario"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 3
 }

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/lionel-messi/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/lionel-messi/index.json",
   "description": "Sigue la actividad de Lionel Messi en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-19T02:29:06.108Z",
+  "updatedAt": "2026-07-19T06:28:06.146Z",
   "aliases": [
     "Messi"
   ],
@@ -60,12 +60,6 @@
     }
   ],
   "sources": [
-    {
-      "title": "De Alella a Tenerife: 26 jugadores y once regiones en busca de la gloria",
-      "url": "https://www.abc.es/deportes/futbol/mundial/espana-rincones-partido-segunda-estrella-20260716000623-nt.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-19T00:03:44.000Z",
-      "sourceId": "lootura-es-abc"
-    },
     {
       "title": "Inglaterra se lleva la medalla de bronce tras un festival de goles",
       "url": "https://www.elcorreo.com/deportes/futbol/mundial/inglaterra-lleva-medalla-bronce-tras-festival-goles-20260718011119-ntrc_amp.html?utm_source=lootura.com",

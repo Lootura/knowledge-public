@@ -70,4 +70,4 @@ Date: 2026-07-17
 
 ## Fuentes
 
-- [Feijóo invoca una España "que se parezca más a su selección" y moviliza a sus alcaldes contra "el saqueo del PSOE"](https://amp.elmundo.es/espana/2026/07/18/6a5b7272e4d4d84e0b8b45a6.html?utm_source=lootura.com) — 2026-07-18T12:37:12.000Z
+No public source links.

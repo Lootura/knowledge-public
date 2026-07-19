@@ -3,16 +3,10 @@
 > Sigue la actividad de Madrid en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-19T02:29:06.108Z
+- Actualizado: 2026-07-19T06:28:06.146Z
 - Canonical: https://atlas.lootura.com/es/place/madrid
 
 ## Cambios recientes
-
-### El PSOE de Madrid elige entre la continuidad de Reyes Maroto o volver a empezar con Enma López
-
-Los militantes del PSOE de Madrid están convocados a las urnas este domingo, para elegir en primarias a su candidata a la Alcaldía de la capital en la próxima cita electoral, el 23 de mayo de 2027. La actual portavoz socialista municipal, Reyes Maroto , se enfrentará a su portavoz adjunta en el ayuntamiento, Enma López.
-
-Date: 2026-07-19
 
 ### Lo que la Audiencia de Madrid no ha cambiado: el juicio a Begoña Gómez se mantiene para antes de las generales
 
@@ -20,11 +14,41 @@ El cambio de acusados y delitos no implica que la vista llegue tras los comicios
 
 Date: 2026-07-19
 
-### Muere la mujer quemada viva por dos sicarios contratados por su marido en Madrid
+### Entrada a las 15, salida antes de las 12: por qué cada vez se accede más tarde y se sale más pronto de los hoteles
 
-La expareja y los dos homicidas están en prisión desde el ataque ocurrido el pasado mes de febrero Leer.
+“Buenas tardes. ¿Existe la posibilidad de entrar antes de la hora?“. La pregunta que una clienta realizó el pasado verano a través de la plataforma Tripadvisor a los responsables de un hotel situado en la periferia de Madrid en el que se alojaba al día siguiente obtuvo respuesta inmediata. ”Para entrar antes de la hora.
 
-Date: 2026-07-18
+Date: 2026-07-19
+
+### Marius Varzaru: el CEO discreto que ha visto crecer a Digi
+
+A las doce de la mañana del pasado jueves, Marius Varzaru (Bucarest, Rumanía, 1979) hizo sonar la campana en el Palacio de la Bolsa de Madrid. Sacudió el badajo sonriendo y con ahínco, enfundado en un traje azul marino con camisa blanca, sin corbata y con el botón del cuello desabrochado. “Es impresionante. Impacta”, d.
+
+Date: 2026-07-19
+
+### Margallo: "Lo de Gibraltar no tiene vuelta atrás, Sánchez desguaza el Estado pieza a pieza"
+
+A José Manuel García-Margallo (Madrid, 1944) le duele España. Y le preocupa. Ministro de Asuntos Exteriores de Mariano Rajoy entre 2011 y 2016, fue el jefe de la diplomacia española con Juan Carlos I y en los primeros años de Felipe VI. A sus 82 años sigue leyendo y escribiendo y disfruta participando en los medios de.
+
+Date: 2026-07-19
+
+### Precio de la gasolina hoy 19 de julio: localiza las gasolineras más baratas de Madrid
+
+El domingo suele ser ese momento en el que muchos dan por terminado el fin de semana fuera de casa. Los que han salido de Madrid emprenden el camino de vuelta, mientras otros apuran las últimas horas libres con algún plan improvisado o dejando todo listo para la semana que empieza y más si por fin tienen vacaciones . E.
+
+Date: 2026-07-19
+
+### El refugio de Broncano está a 180 kilómetros de Madrid: es un destino gastronómico con parcelas enormes y mucha naturaleza
+
+Broncano tiene su refugio en Ávila, concretamente en la Sierra de Gredos, donde se compró varias parcelas junto a Silvia Alonso.
+
+Date: 2026-07-19
+
+### El PSOE de Madrid elige entre la continuidad de Reyes Maroto o volver a empezar con Enma López
+
+Los militantes del PSOE de Madrid están convocados a las urnas este domingo, para elegir en primarias a su candidata a la Alcaldía de la capital en la próxima cita electoral, el 23 de mayo de 2027. La actual portavoz socialista municipal, Reyes Maroto , se enfrentará a su portavoz adjunta en el ayuntamiento, Enma López.
+
+Date: 2026-07-19
 
 ### Un muerto, un herido muy grave y otro grave tras un ataque entre bandas latinas en Madrid
 
@@ -32,47 +56,25 @@ Por el momento no hay detenidos. Leer.
 
 Date: 2026-07-18
 
-### Incendios en España, en directo hoy: última hora de los fuegos activos, evolución y situación en Aragón, Castilla-La Mancha, Madrid y Andalucía
+### La doble vara de medir del PP de Ayuso ante el acoso sexual: de las críticas a Salazar al apoyo al alcalde de Móstoles
 
-España afronta una nueva jornada de máxima alerta por incendios forestales después de un viernes marcado por varios grandes fuegos activos en diferentes comunidades autónomas y un amplio despliegue de medios de extinción. Los servicios de emergencia han trabajado durante toda la noche para consolidar los perímetros, pr.
-
-Date: 2026-07-18
-
-### El último vuelo a la segunda estrella de España
-
-Los aeropuertos constituyen un paisaje de emociones y sensaciones tan dispares como difíciles de describir. Pero este fin de semana, las distintas terminales del aeropuerto madrileño de Adolfo Suárez - Madrid Barajas, así como las de otros aeródromos españoles con vuelos transatlánticos, transmiten un clima de ilusión,.
+El PP de Madrid sigue apostando por un apoyo cerrado a Manuel Bautista, a pesar de su imputación por acoso sexual y laboral mientras Ayuso incluso alaba su trabajo como regidor, una posición muy diferente a la que tomaron con otros escándalos que afectan al PSOE o a otros partidos de la izquierda Ayuso, tras conocer qu.
 
 Date: 2026-07-18
 
-### Un joven muere y dos menores resultan gravemente heridos tras una reyerta en Madrid
+### Muere la mujer quemada viva por dos sicarios contratados por su marido en Madrid
 
-Un joven de 23 años ha fallecido en la noche de este viernes y dos menores han resultado heridos de gravedad por las heridas de arma blanca que sufrieron como consecuencia de una reyerta que se ha producido en el distrito de Ciudad Lineal. Los hechos han tenido lugar en el número 78 de la calle Elfo. Protección Civil h.
-
-Date: 2026-07-18
-
-### Dani Mérida estrena palmarés a lo Alcaraz: campeón del ATP 250 de Umag
-
-Advertía de su crecimiento en Madrid, pendiente el público del tenis de Martín Landaluce y Rafa Jódar, este Dani Mérida volvió loco al personal y desató la 'meridamanía'. Cada partido suyo en la Pista 3, un duelo de Copa Davis que acabó por convertirlo en ídolo. De ahí, la confianza para saber que podía alcanzar mayore.
-
-Date: 2026-07-18
-
-### Muere un joven de 23 años tras ser apuñalado en una pelea en Madrid
-
-Un joven de 23 años ha muerto en la madrugada de este sábado en el distrito de Ciudad Lineal ( Madrid ) tras ser apuñalado en varias ocasiones durante una pelea, en la que también resultaron heridos dos menores, según informó Emergencias Madrid. El incidente se produjo en la calle Elfo , alrededor de las 23:30 horas. T.
-
-Date: 2026-07-18
-
-### El PSOE elige candidata para la alcaldía de Madrid este domingo: Enma López desafía a Reyes Maroto
-
-La militancia del PSOE en Madrid , Oviedo, Ferrol y Torrelavega está llamada a votar este domingo, 19 de julio, para escoger a los cabezas de lista que concurrirán a las elecciones previstas para mayo de 2027. Es la primera parada del calendario de primarias aprobado por el Comité Federal el pasado 27 de junio. El plan.
+La expareja y los dos homicidas están en prisión desde el ataque ocurrido el pasado mes de febrero Leer.
 
 Date: 2026-07-18
 
 ## Fuentes
 
-- [El PSOE de Madrid elige entre la continuidad de Reyes Maroto o volver a empezar con Enma López](https://www.abc.es/espana/madrid/psoe-madrid-elige-continuidad-reyes-maroto-volver-20260718010325-nt.html?utm_source=lootura.com) — 2026-07-19T00:21:49.000Z
-- [El último vuelo a la segunda estrella de España](https://www.abc.es/espana/vuelo-ilusion-20260718210936-nt.html?utm_source=lootura.com) — 2026-07-18T19:49:35.000Z
-- [Muere la mujer quemada viva por dos sicarios contratados por su marido en Madrid](https://www.elmundo.es/madrid/2026/07/18/6a5b9340fdddff8f768b4582.html?utm_source=lootura.com) — 2026-07-18T15:02:50.000Z
+- [Entrada a las 15, salida antes de las 12: por qué cada vez se accede más tarde y se sale más pronto de los hoteles](https://elpais.com/economia/2026-07-19/entrada-a-las-15-salida-antes-de-las-12-por-que-cada-vez-se-accede-mas-tarde-y-se-sale-mas-pronto-de-los-hoteles.html?utm_source=lootura.com) — 2026-07-19T03:45:01.000Z
+- [Marius Varzaru: el CEO discreto que ha visto crecer a Digi](https://cincodias.elpais.com/opinion/2026-07-19/marius-varzaru-el-ceo-discreto-que-ha-visto-crecer-a-digi.html?utm_source=lootura.com) — 2026-07-19T03:40:00.000Z
+- [Margallo: "Lo de Gibraltar no tiene vuelta atrás, Sánchez desguaza el Estado pieza a pieza"](https://www.elconfidencial.com/espana/2026-07-19/margallo-gibraltar-geopolitica-sanchez-zapatero-estados-unidos-cbtrntrv_4391911/?utm_source=lootura.com) — 2026-07-19T03:00:00.000Z
 - [Un muerto, un herido muy grave y otro grave tras un ataque entre bandas latinas en Madrid](https://www.elmundo.es/madrid/2026/07/18/6a5b1c59e4d4d81c148b4593.html?utm_source=lootura.com) — 2026-07-18T16:10:50.000Z
 - [Lo que la Audiencia de Madrid no ha cambiado: el juicio a Begoña Gómez se mantiene para antes de las generales](https://www.elmundo.es/espana/2026/07/19/6a5bcabae9cf4acd6f8b45c8.html?utm_source=lootura.com) — 2026-07-19T01:08:29.000Z
-- [Incendios en España, en directo hoy: última hora de los fuegos activos, evolución y situación en Aragón, Castilla-La Mancha, Madrid y Andalucía](https://www.larazon.es/sociedad/incendios-espana-directo-hoy-ultima-hora-fuegos-activos-evolucion-situacion-aragon-castillala-mancha-madrid-andalucia-b50m_202607186a5aa5aee9f2e84b5c6ed5ba.html?utm_source=lootura.com) — 2026-07-18T20:26:06.000Z
+- [La doble vara de medir del PP de Ayuso ante el acoso sexual: de las críticas a Salazar al apoyo al alcalde de Móstoles](https://www.eldiario.es/madrid/doble-vara-medir-pp-ayuso-acoso-sexual-criticas-salazar-apoyo-alcalde-mostoles_1_13378846.html?utm_source=lootura.com) — 2026-07-18T20:23:04.000Z
+- [Precio de la gasolina hoy 19 de julio: localiza las gasolineras más baratas de Madrid](https://okdiario.com/madrid/precio-gasolina-hoy-19-julio-localiza-gasolineras-mas-baratas-madrid-18986604?utm_source=lootura.com) — 2026-07-19T06:15:44.000Z
+- [El refugio de Broncano está a 180 kilómetros de Madrid: es un destino gastronómico con parcelas enormes y mucha naturaleza](https://theobjective.com/gente/2026-07-19/refugio-broncano-madrid-gastronomico-parcelas-naturaleza/?amp=&utm_source=lootura.com) — 2026-07-19T05:30:00.000Z

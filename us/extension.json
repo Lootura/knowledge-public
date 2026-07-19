@@ -1,41 +1,67 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-19T04:48:13.519Z",
+  "generatedAt": "2026-07-19T06:33:22.849Z",
   "radar": {
     "id": "usa",
     "slug": "us",
     "locale": "en"
   },
   "state": {
-    "signature": "1.16.0|25|1784428166490",
+    "signature": "1.16.0|26|1784442514077",
     "version": "1.16.0",
-    "build": 25,
-    "latestEntityUpdatedAt": "2026-07-19T02:29:26.490Z"
+    "build": 26,
+    "latestEntityUpdatedAt": "2026-07-19T06:28:34.077Z"
   },
   "atlas": {
     "hero": {
       "id": "usa-canada",
       "name": "Canada",
       "type": "place",
-      "title": "Wildfire smoke fouls air across Northeast",
+      "title": "Air quality improving in Northeast, while wildfire smoke hangs over Midwest",
       "url": "https://atlas.lootura.com/us/place/canada",
       "path": "/us/place/canada",
-      "updatedAt": "2026-07-19T02:29:26.490Z",
-      "score": 1596,
+      "updatedAt": "2026-07-19T06:28:34.077Z",
+      "score": 1556,
       "sourceCount": 32,
       "isBreaking": false,
       "isPinned": false
     },
     "cards": [
       {
+        "id": "usa-iran",
+        "name": "Iran",
+        "type": "place",
+        "title": "Water and energy sites hit as U.S.-Iran strikes escalate",
+        "url": "https://atlas.lootura.com/us/place/iran",
+        "path": "/us/place/iran",
+        "updatedAt": "2026-07-19T06:28:34.077Z",
+        "score": 1549,
+        "sourceCount": 135,
+        "isBreaking": false,
+        "isPinned": false
+      },
+      {
+        "id": "usa-ukraine",
+        "name": "Ukraine",
+        "type": "place",
+        "title": "Ukrainian drones hit warehouses and other sites across Russia, killing 9 and wounding over 60",
+        "url": "https://atlas.lootura.com/us/place/ukraine",
+        "path": "/us/place/ukraine",
+        "updatedAt": "2026-07-19T06:28:34.077Z",
+        "score": 1540,
+        "sourceCount": 47,
+        "isBreaking": false,
+        "isPinned": false
+      },
+      {
         "id": "usa-donald-trump",
         "name": "Donald Trump",
         "type": "person",
-        "title": "As Trump Scraps With Meloni, His Envoy to Italy Is at Sea",
+        "title": "Week in Politics: Trump's speech; midterm elections; Todd Blanche and Jay Clayton",
         "url": "https://atlas.lootura.com/us/person/donald-trump",
         "path": "/us/person/donald-trump",
-        "updatedAt": "2026-07-19T02:29:26.490Z",
-        "score": 1560,
+        "updatedAt": "2026-07-19T06:28:34.077Z",
+        "score": 1537,
         "sourceCount": 253,
         "isBreaking": false,
         "isPinned": false
@@ -47,39 +73,13 @@
         "title": "The Tate brothers are arrested in Miami, U.S. Marshals Service tells AP",
         "url": "https://atlas.lootura.com/us/place/united-states",
         "path": "/us/place/united-states",
-        "updatedAt": "2026-07-19T02:29:26.490Z",
-        "score": 1548,
+        "updatedAt": "2026-07-19T06:28:34.077Z",
+        "score": 1537,
         "sourceCount": 275,
-        "isBreaking": false,
-        "isPinned": false
-      },
-      {
-        "id": "usa-ukraine",
-        "name": "Ukraine",
-        "type": "place",
-        "title": "Ukrainian drones hit warehouses and other sites across Russia, killing 9 and wounding over 60",
-        "url": "https://atlas.lootura.com/us/place/ukraine",
-        "path": "/us/place/ukraine",
-        "updatedAt": "2026-07-19T02:29:26.490Z",
-        "score": 1524,
-        "sourceCount": 47,
-        "isBreaking": false,
-        "isPinned": false
-      },
-      {
-        "id": "usa-iran",
-        "name": "Iran",
-        "type": "place",
-        "title": "Water and energy sites hit as U.S.-Iran strikes escalate",
-        "url": "https://atlas.lootura.com/us/place/iran",
-        "path": "/us/place/iran",
-        "updatedAt": "2026-07-19T02:29:26.490Z",
-        "score": 1509,
-        "sourceCount": 135,
         "isBreaking": false,
         "isPinned": false
       }
     ],
-    "publicEntityCount": 34
+    "publicEntityCount": 33
   }
 }
