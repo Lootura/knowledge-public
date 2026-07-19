@@ -3,7 +3,7 @@
 > Follow Spain, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-19T13:12:59.144Z
+- Updated: 2026-07-19T16:56:33.807Z
 - Canonical: https://atlas.lootura.com/us/place/espana
 
 ## Recent changes

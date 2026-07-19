@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/china/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/china/index.json",
   "description": "Follow China, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-19T13:12:59.144Z",
+  "updatedAt": "2026-07-19T16:56:33.807Z",
   "aliases": [],
   "changes": [
     {
       "title": "US politicians push agencies to restrict research collaboration with China",
       "summary": "Nature, Published online: 16 July 2026; doi:10.1038/d41586-026-02226-9 Republicans and Democrats worry about research theft and exploitation — but don’t agree on how to solve the problem.",
+      "date": "2026-07-19"
+    },
+    {
+      "title": "Becker: \"Hardly a week goes by\" without Trump administration threatening election official arrests",
+      "summary": "CBS News contributors David Becker and Chris Krebs joined \"Face the Nation with Margaret Brennan\" in the wake of President Trump's primetime speech last week accusing China of accessing election data. Meanwhile, Homeland Security Secretary Markwayne Mullin said that if election officials do not secure elections, they c.",
       "date": "2026-07-19"
     },
     {
@@ -55,20 +60,21 @@
       "title": "Mullin pledges to go after voter fraud after Trump revives election interference claims",
       "summary": "Homeland Security Secretary Markwayne Mullin spoke about election security a day after President Trump claimed during his primetime address that China interfered in the 2020 election. CBS News' Jake Rosen joins to discuss Mullin's remarks.",
       "date": "2026-07-17"
-    },
-    {
-      "title": "Trump administration to declassify documents relating to China and U.S. elections",
-      "summary": "President Donald Trump addressed the nation from the White House, announcing that the administration will declassify documents related to the 2020 election and alleged influence by China.",
-      "date": "2026-07-17"
     }
   ],
   "sources": [
     {
+      "title": "Becker: \"Hardly a week goes by\" without Trump administration threatening election official arrests",
+      "url": "https://www.cbsnews.com/video/becker-hardly-a-week-goes-by-without-trump-administration-threatening-election-official-arrests/?utm_source=lootura.com",
+      "publishedAt": "2026-07-19T16:31:08.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
+    {
       "title": "US politicians push agencies to restrict research collaboration with China",
       "url": "https://www.nature.com/articles/d41586-026-02226-9?utm_source=lootura.com",
-      "publishedAt": "2026-07-19T13:13:02.689Z",
+      "publishedAt": "2026-07-19T16:56:37.958Z",
       "sourceId": "lootura-us-nature"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 2
 }

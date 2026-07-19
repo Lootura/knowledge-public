@@ -3,7 +3,7 @@
 > Follow China, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-19T13:12:59.144Z
+- Updated: 2026-07-19T16:56:33.807Z
 - Canonical: https://atlas.lootura.com/us/place/china
 
 ## Recent changes
@@ -11,6 +11,12 @@
 ### US politicians push agencies to restrict research collaboration with China
 
 Nature, Published online: 16 July 2026; doi:10.1038/d41586-026-02226-9 Republicans and Democrats worry about research theft and exploitation — but don’t agree on how to solve the problem.
+
+Date: 2026-07-19
+
+### Becker: "Hardly a week goes by" without Trump administration threatening election official arrests
+
+CBS News contributors David Becker and Chris Krebs joined "Face the Nation with Margaret Brennan" in the wake of President Trump's primetime speech last week accusing China of accessing election data. Meanwhile, Homeland Security Secretary Markwayne Mullin said that if election officials do not secure elections, they c.
 
 Date: 2026-07-19
 
@@ -62,12 +68,7 @@ Homeland Security Secretary Markwayne Mullin spoke about election security a day
 
 Date: 2026-07-17
 
-### Trump administration to declassify documents relating to China and U.S. elections
-
-President Donald Trump addressed the nation from the White House, announcing that the administration will declassify documents related to the 2020 election and alleged influence by China.
-
-Date: 2026-07-17
-
 ## Sources
 
-- [US politicians push agencies to restrict research collaboration with China](https://www.nature.com/articles/d41586-026-02226-9?utm_source=lootura.com) — 2026-07-19T13:13:02.689Z
+- [Becker: "Hardly a week goes by" without Trump administration threatening election official arrests](https://www.cbsnews.com/video/becker-hardly-a-week-goes-by-without-trump-administration-threatening-election-official-arrests/?utm_source=lootura.com) — 2026-07-19T16:31:08.000Z
+- [US politicians push agencies to restrict research collaboration with China](https://www.nature.com/articles/d41586-026-02226-9?utm_source=lootura.com) — 2026-07-19T16:56:37.958Z

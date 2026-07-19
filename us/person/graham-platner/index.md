@@ -3,7 +3,7 @@
 > Follow Graham Platner, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-07-19T13:12:59.144Z
+- Updated: 2026-07-19T16:56:33.807Z
 - Canonical: https://atlas.lootura.com/us/person/graham-platner
 
 ## Recent changes
@@ -11,6 +11,18 @@
 ### In Maine, Troy Jackson Gains Momentum in Bid to Replace Platner
 
 Troy Jackson, a progressive former State Senate president, showed signs of significant strength, as half the state’s counties picked delegates to a convention where they will choose Graham Platner’s replacement.
+
+Date: 2026-07-19
+
+### Maine Democrat Shenna Bellows drops out of race to replace Graham Platner
+
+SANFORD, Maine — Maine Secretary of State Shenna Bellows ended her Senate campaign on Sunday, further clearing the path for rival Troy Jackson as he consolidates support in a fast-moving Democratic nomination contest. "This has been an unprecedented nominating process, compressed into days instead of months, and I'm gr.
+
+Date: 2026-07-19
+
+### In Maine, Bellows Ends Senate Bid, as Jackson Builds Momentum
+
+The Maine secretary of state ended her run in a crowded race to replace Graham Platner as the Democratic Senate nominee.
 
 Date: 2026-07-19
 
@@ -56,19 +68,8 @@ Maine Democrats want to hold onto Graham Platner’s progressive base — but th
 
 Date: 2026-07-15
 
-### Maine Democrats grapple with who is best to take over Graham Platner’s movement
-
-Maine Democrats want to hold onto Graham Platner’s progressive base — but they can’t agree on who is best positioned to carry the torch. That indecision is creating a fractured field heading into an unpredictable late July nominating convention for one of the most important Senate races on the 2026 map. Now, various ca.
-
-Date: 2026-07-15
-
-### Maine Democrats will square off in first Senate debate since Platner's withdrawal
-
-The first debate on Thursday in Maine's flash Democratic primary may feature a crowded stage. Eight candidates to replace Graham Platner on the ballot have been invited to the debate in Portland, the organizer said Tuesday. News Center Maine, which is sponsoring the event, had initially invited three people who ran for.
-
-Date: 2026-07-14
-
 ## Sources
 
-- [Platner-ally Troy Jackson closing in on Democratic Senate nod in key race to face Collins](https://www.foxnews.com/politics/platner-ally-troy-jackson-closing-democratic-senate-nod-key-race-face-collins?utm_source=lootura.com) — 2026-07-19T12:33:12.000Z
-- [In Maine, Troy Jackson Gains Momentum in Bid to Replace Platner](https://www.nytimes.com/2026/07/19/us/politics/maine-democrats-senate-jackson.html?utm_source=lootura.com) — 2026-07-19T04:10:57.000Z
+- [Maine Democrat Shenna Bellows drops out of race to replace Graham Platner](https://www.politico.com/news/2026/07/19/shenna-bellows-drops-out-maine-senate-01004452?utm_source=lootura.com) — 2026-07-19T15:56:06.000Z
+- [In Maine, Bellows Ends Senate Bid, as Jackson Builds Momentum](https://www.nytimes.com/2026/07/19/us/politics/maine-senate-bellow-jackson-platner-democrats.html?utm_source=lootura.com) — 2026-07-19T16:13:57.000Z
+- [In Maine, Troy Jackson Gains Momentum in Bid to Replace Platner](https://www.nytimes.com/2026/07/19/us/politics/maine-democrats-senate-jackson.html?utm_source=lootura.com) — 2026-07-19T04:10:58.000Z

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/lionel-messi/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/lionel-messi/index.json",
   "description": "Sigue la actividad de Lionel Messi en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-19T13:12:39.474Z",
+  "updatedAt": "2026-07-19T16:56:12.315Z",
   "aliases": [
     "Messi"
   ],
@@ -66,10 +66,10 @@
   ],
   "sources": [
     {
-      "title": "La quiniela de la final",
-      "url": "https://www.abc.es/deportes/futbol/mundial/quiniela-final-20260718012407-nt.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-19T09:37:17.000Z",
-      "sourceId": "lootura-es-abc"
+      "title": "Colón, abarrotada de aficionados que creen en el triunfo: \"Somos mejores y se lo vamos a demostrar a Messi\"",
+      "url": "https://www.20minutos.es/deportes/futbol/colon-se-convierte-gran-corazon-final-mundial-asi-se-viven-ya-directo-las-horas-previas_7016399_0.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-19T15:25:28.000Z",
+      "sourceId": "lootura-es-20minutos"
     },
     {
       "title": "Inglaterra se lleva la medalla de bronce tras un festival de goles",

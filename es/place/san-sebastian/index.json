@@ -8,11 +8,21 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/san-sebastian/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/san-sebastian/index.json",
   "description": "Sigue la actividad de San Sebastián en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-19T13:12:39.474Z",
+  "updatedAt": "2026-07-19T16:56:12.315Z",
   "aliases": [
     "Donostia"
   ],
   "changes": [
+    {
+      "title": "El PNV de Esteban reafirma su entente soberanista con Bildu y usa como arietes del \"derecho a decidir\" a 200 alcaldes vascos",
+      "summary": "La diputada general de Guipúzcoa Eider Mendoza amadrina en Bergara un acto conjunto por la \"soberanía política\". Los alcaldes de Bilbao y San Sebastián, a la cabeza de la convención nacionalista Leer.",
+      "date": "2026-07-19"
+    },
+    {
+      "title": "El burgalés David Pérez Sañudo estrenará fuera de competición en el Festival de San Sebastián ‘Sacamantecas’, su tercer largometraje",
+      "summary": "La película está protagonizada por Antonio de la Torre, Patricia López Arnaiz, Josean Bengoetxea, Eneko Sagardoy y Haizea Carneros, y llegará a las salas comerciales el 6 de noviembre.",
+      "date": "2026-07-19"
+    },
     {
       "title": "El Hospital Donostia realiza una operación pionera en bebés con problemas en el riñón",
       "summary": "Opera por primera vez en Euskadi a lactantes para corregir el estrechamiento entre el uréter y el riñón con una técnica mínimamente invasiva.",
@@ -52,16 +62,6 @@
       "title": "«Mantenemos la misma ilusión por ganar»",
       "summary": "Lucía Canal y Naroa Landa, remeras de Donostia Arraun Lagunak, celebran haber ondeado todas las banderas en un sobresaliente inicio de temporada.",
       "date": "2026-07-13"
-    },
-    {
-      "title": "La tasa de basura de Donostia subirá más de lo previsto en 2027 tras las nuevas tarifas de Gipuzkoa",
-      "summary": "El cambio del método de cálculo de las cantidades a cobrar por GHK a las mancomunidades supondrá subir la cuota que paga Donostia, lo que implicará subir más de un 2,29% el tributo.",
-      "date": "2026-07-13"
-    },
-    {
-      "title": "Discovered by Atlas",
-      "summary": "San Sebastián first entered the public knowledge record with source-backed evidence.",
-      "date": "2026-07-12"
     }
   ],
   "sources": [
@@ -76,7 +76,19 @@
       "url": "https://www.diariovasco.com/sociedad/salud/hospital-donostia-realiza-primera-laparoscopia-renal-lactantes-20260719172257-nt_amp.html?utm_source=lootura.com",
       "publishedAt": "2026-07-18T22:07:11.000Z",
       "sourceId": "lootura-es-el-diario-vasco"
+    },
+    {
+      "title": "El PNV de Esteban reafirma su entente soberanista con Bildu y usa como arietes del \"derecho a decidir\" a 200 alcaldes vascos",
+      "url": "https://www.elmundo.es/pais-vasco/2026/07/19/6a5cd398e85ece742a8b4584.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-19T14:06:47.000Z",
+      "sourceId": "lootura-es-el-mundo"
+    },
+    {
+      "title": "El burgalés David Pérez Sañudo estrenará fuera de competición en el Festival de San Sebastián ‘Sacamantecas’, su tercer largometraje",
+      "url": "https://www.larazon.es/castilla-y-leon/burgales-david-perez-sanudo-estrenara-fuera-competicion-festival-san-sebastian-sacamantecas-tercer-largometraje_202607196a5cfb991db8de040997ffca.html?outputType=amp&utm_source=lootura.com",
+      "publishedAt": "2026-07-19T16:30:17.000Z",
+      "sourceId": "lootura-es-la-razon"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 4
 }

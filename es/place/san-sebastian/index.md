@@ -3,10 +3,22 @@
 > Sigue la actividad de San Sebastián en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-19T13:12:39.474Z
+- Actualizado: 2026-07-19T16:56:12.315Z
 - Canonical: https://atlas.lootura.com/es/place/san-sebastian
 
 ## Cambios recientes
+
+### El PNV de Esteban reafirma su entente soberanista con Bildu y usa como arietes del "derecho a decidir" a 200 alcaldes vascos
+
+La diputada general de Guipúzcoa Eider Mendoza amadrina en Bergara un acto conjunto por la "soberanía política". Los alcaldes de Bilbao y San Sebastián, a la cabeza de la convención nacionalista Leer.
+
+Date: 2026-07-19
+
+### El burgalés David Pérez Sañudo estrenará fuera de competición en el Festival de San Sebastián ‘Sacamantecas’, su tercer largometraje
+
+La película está protagonizada por Antonio de la Torre, Patricia López Arnaiz, Josean Bengoetxea, Eneko Sagardoy y Haizea Carneros, y llegará a las salas comerciales el 6 de noviembre.
+
+Date: 2026-07-19
 
 ### El Hospital Donostia realiza una operación pionera en bebés con problemas en el riñón
 
@@ -56,19 +68,9 @@ Lucía Canal y Naroa Landa, remeras de Donostia Arraun Lagunak, celebran haber o
 
 Date: 2026-07-13
 
-### La tasa de basura de Donostia subirá más de lo previsto en 2027 tras las nuevas tarifas de Gipuzkoa
-
-El cambio del método de cálculo de las cantidades a cobrar por GHK a las mancomunidades supondrá subir la cuota que paga Donostia, lo que implicará subir más de un 2,29% el tributo.
-
-Date: 2026-07-13
-
-### Discovered by Atlas
-
-San Sebastián first entered the public knowledge record with source-backed evidence.
-
-Date: 2026-07-12
-
 ## Fuentes
 
 - [La rebelión fracasa en Donostia pero la ciudad cae bajo un clima prebélico](https://www.diariovasco.com/gipuzkoa/especial-alzamiento-militar-90-aniversario-julio-sangre-gipuzkoa-rebelion-san-sebastian-20260719102733-nt.html?utm_source=lootura.com) — 2026-07-18T22:09:37.000Z
 - [El Hospital Donostia realiza una operación pionera en bebés con problemas en el riñón](https://www.diariovasco.com/sociedad/salud/hospital-donostia-realiza-primera-laparoscopia-renal-lactantes-20260719172257-nt_amp.html?utm_source=lootura.com) — 2026-07-18T22:07:11.000Z
+- [El PNV de Esteban reafirma su entente soberanista con Bildu y usa como arietes del "derecho a decidir" a 200 alcaldes vascos](https://www.elmundo.es/pais-vasco/2026/07/19/6a5cd398e85ece742a8b4584.html?utm_source=lootura.com) — 2026-07-19T14:06:47.000Z
+- [El burgalés David Pérez Sañudo estrenará fuera de competición en el Festival de San Sebastián ‘Sacamantecas’, su tercer largometraje](https://www.larazon.es/castilla-y-leon/burgales-david-perez-sanudo-estrenara-fuera-competicion-festival-san-sebastian-sacamantecas-tercer-largometraje_202607196a5cfb991db8de040997ffca.html?outputType=amp&utm_source=lootura.com) — 2026-07-19T16:30:17.000Z

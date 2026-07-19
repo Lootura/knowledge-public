@@ -3,7 +3,7 @@
 > Follow Barcelona, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-19T06:28:34.077Z
+- Updated: 2026-07-19T16:56:33.807Z
 - Canonical: https://atlas.lootura.com/us/place/barcelona
 
 ## Recent changes
@@ -22,4 +22,4 @@ Date: 2026-07-18
 
 ## Sources
 
-No public source links.
+- [How soccer eclipsed separatist politics in Spain](https://www.politico.com/news/2026/07/19/soccer-spain-basques-catalans-sport-eclipses-politics-01004240?utm_source=lootura.com) — 2026-07-19T15:20:34.000Z

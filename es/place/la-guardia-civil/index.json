@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/la-guardia-civil/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/la-guardia-civil/index.json",
   "description": "Sigue la actividad de La Guardia Civil en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-19T13:12:39.474Z",
+  "updatedAt": "2026-07-19T16:56:12.315Z",
   "aliases": [],
   "changes": [
     {
@@ -22,13 +22,13 @@
       "date": "2026-07-19"
     },
     {
-      "title": "Víctimas de Bilbao, entre los afectados por una estafa de falsos alquileres",
-      "summary": "La Guardia Civil ha detenido a un hombre y a una mujer en Almería y Murcia implicados en el fraude de más de 20.000 euros a nivel nacional.",
+      "title": "Discovered by Atlas",
+      "summary": "La Guardia Civil first entered the public knowledge record with source-backed evidence.",
       "date": "2026-07-18"
     },
     {
-      "title": "Discovered by Atlas",
-      "summary": "La Guardia Civil first entered the public knowledge record with source-backed evidence.",
+      "title": "Víctimas de Bilbao, entre los afectados por una estafa de falsos alquileres",
+      "summary": "La Guardia Civil ha detenido a un hombre y a una mujer en Almería y Murcia implicados en el fraude de más de 20.000 euros a nivel nacional.",
       "date": "2026-07-18"
     },
     {
@@ -45,17 +45,11 @@
       "sourceId": "lootura-es-el-confidencial"
     },
     {
-      "title": "Víctimas de Bilbao, entre los afectados por una estafa de falsos alquileres",
-      "url": "https://www.elcorreo.com/bizkaia/victimas-bilbao-afectados-estafa-falsos-alquileres-20260718182802-nt_amp.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-18T16:28:03.000Z",
-      "sourceId": "lootura-es-el-correo"
-    },
-    {
       "title": "Desmantelada una red de ‘sextorsión’ con siete detenidos y 14 investigados en Ciudad Real",
       "url": "https://theobjective.com/sociedad/suceso/2026-07-19/desmantelada-red-sextorsion-ciudad-real/?utm_source=lootura.com",
       "publishedAt": "2026-07-19T11:00:26.000Z",
       "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 2
 }

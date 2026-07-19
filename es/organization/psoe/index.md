@@ -3,7 +3,7 @@
 > Sigue la actividad de Partido Socialista Obrero Español en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-19T13:12:39.474Z
+- Actualizado: 2026-07-19T16:56:12.315Z
 - Canonical: https://atlas.lootura.com/es/organization/psoe
 
 ## Cambios recientes

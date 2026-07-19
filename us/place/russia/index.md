@@ -3,10 +3,16 @@
 > Follow Russia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-19T13:12:59.144Z
+- Updated: 2026-07-19T16:56:33.807Z
 - Canonical: https://atlas.lootura.com/us/place/russia
 
 ## Recent changes
+
+### Russia Batters Kyiv in One of the Largest Missile Assaults of the War
+
+On Saturday, Ukraine hit two warehouses in Russia in strikes that killed at least eight people and injured 62.
+
+Date: 2026-07-19
 
 ### Russia Batters Kyiv in One of the Largest Missile Assaults of the War
 
@@ -62,13 +68,7 @@ A former loyalist blogger turned fierce critic of Russian President Vladimir Put
 
 Date: 2026-07-17
 
-### Ukrainian's Zelenskyy faces major backlash for ousting defense chief Mykhailo Fedorov amid progress vs. Russia
-
-Ukrainians are demonstrating in Kyiv and senior figures announcing their resignations over President Volodymyr Zelenksyy's move to oust his popular defense chief.
-
-Date: 2026-07-16
-
 ## Sources
 
-- [Russia launches deadly, massive ballistic missile attack in Kyiv, Ukraine](https://www.cbsnews.com/news/russia-ballistic-missile-attack-kyiv-ukraine/?utm_source=lootura.com) — 2026-07-19T10:21:42.000Z
-- [Russia Batters Kyiv in One of the Largest Missile Assaults of the War](https://www.nytimes.com/2026/07/19/world/europe/russia-ukraine-strikes.html?utm_source=lootura.com) — 2026-07-19T10:52:23.000Z
+- [Deadly overnight Russian attack on Ukraine targets the capital](https://www.npr.org/2026/07/19/nx-s1-5899518/russia-attack-kyiv?utm_source=lootura.com) — 2026-07-19T09:14:38.000Z
+- [Russia Batters Kyiv in One of the Largest Missile Assaults of the War](https://www.nytimes.com/2026/07/19/world/europe/russia-ukraine-strikes.html?utm_source=lootura.com) — 2026-07-19T16:33:44.000Z

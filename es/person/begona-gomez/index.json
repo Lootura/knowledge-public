@@ -62,19 +62,6 @@
       "date": "2026-07-17"
     }
   ],
-  "sources": [
-    {
-      "title": "Lo que la Audiencia de Madrid no ha cambiado: el juicio a Begoña Gómez se mantiene para antes de las generales",
-      "url": "https://www.elmundo.es/espana/2026/07/19/6a5bcabae9cf4acd6f8b45c8.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-19T01:08:29.000Z",
-      "sourceId": "lootura-es-el-mundo"
-    },
-    {
-      "title": "La Audiencia de Madrid completa el trabajo de Peinado contra Begoña Gómez",
-      "url": "https://www.eldiario.es/blog/politica-para-supervivientes/audiencia-madrid-completa-trabajo-peinado-begona-gomez_132_13388699.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-19T06:15:53.000Z",
-      "sourceId": "lootura-es-eldiario-es"
-    }
-  ],
-  "evidenceCount": 2
+  "sources": [],
+  "evidenceCount": 0
 }

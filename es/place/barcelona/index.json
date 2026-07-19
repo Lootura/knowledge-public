@@ -8,17 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/barcelona/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/barcelona/index.json",
   "description": "Sigue la actividad de Barcelona en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-19T13:12:39.474Z",
+  "updatedAt": "2026-07-19T16:56:12.315Z",
   "aliases": [],
   "changes": [
     {
-      "title": "Corrompidos por el narco en Cataluña",
-      "summary": "¿Qué lleva a un inspector de la Policía Nacional a liderar una red de tráfico de cocaína en el puerto de Barcelona? Los motivos sólo los sabe él, pero la consecuencia ha sido una condena de 15 años de cárcel .La denuncia de un arrepentido, tras una descarga, llevó a los Mossos d'Esquadra hasta el entramado que lideraba.",
+      "title": "Esta docuserie española en Disney+ cuenta un caso que te dejará impactado y la puedes ver en una tarde",
+      "summary": "Abandonados , la docuserie española de 4 capítulos que causa sensación en Disney+, narra un suceso desconcertante . Se trata del impactante misterio real de tres hermanos abandonados en una estación de tren en Barcelona en 1984. La producción, en colaboración con Luminol Media y bajo la mirada del periodista Carles Por.",
       "date": "2026-07-19"
     },
     {
-      "title": "Esta docuserie española en Disney+ cuenta un caso que te dejará impactado y la puedes ver en una tarde",
-      "summary": "Abandonados , la docuserie española de 4 capítulos que causa sensación en Disney+, narra un suceso desconcertante . Se trata del impactante misterio real de tres hermanos abandonados en una estación de tren en Barcelona en 1984. La producción, en colaboración con Luminol Media y bajo la mirada del periodista Carles Por.",
+      "title": "Corrompidos por el narco en Cataluña",
+      "summary": "¿Qué lleva a un inspector de la Policía Nacional a liderar una red de tráfico de cocaína en el puerto de Barcelona? Los motivos sólo los sabe él, pero la consecuencia ha sido una condena de 15 años de cárcel .La denuncia de un arrepentido, tras una descarga, llevó a los Mossos d'Esquadra hasta el entramado que lideraba.",
       "date": "2026-07-19"
     },
     {
@@ -64,17 +64,11 @@
   ],
   "sources": [
     {
-      "title": "Corrompidos por el narco en Cataluña",
-      "url": "https://www.abc.es/espana/cataluna/corrompidos-narco-20260719010805-nt.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-19T12:36:08.000Z",
-      "sourceId": "lootura-es-abc"
-    },
-    {
       "title": "Esta docuserie española en Disney+ cuenta un caso que te dejará impactado y la puedes ver en una tarde",
       "url": "https://hipertextual.com/cine-television/esta-docuserie-espanola-en-disney-cuenta-un-caso-que-te-dejara-impactado-y-la-puedes-ver-en-una-tarde/?utm_source=lootura.com",
       "publishedAt": "2026-07-19T13:00:00.000Z",
       "sourceId": "lootura-es-hipertextual"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

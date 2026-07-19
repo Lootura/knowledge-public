@@ -70,4 +70,4 @@ Date: 2026-07-08
 
 ## Sources
 
-- [Platner-ally Troy Jackson closing in on Democratic Senate nod in key race to face Collins](https://www.foxnews.com/politics/platner-ally-troy-jackson-closing-democratic-senate-nod-key-race-face-collins?utm_source=lootura.com) — 2026-07-19T12:33:12.000Z
+No public source links.

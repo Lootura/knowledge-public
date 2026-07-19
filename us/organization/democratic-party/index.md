@@ -3,7 +3,7 @@
 > Follow Democratic Party, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-07-19T13:12:59.144Z
+- Updated: 2026-07-19T16:56:33.807Z
 - Canonical: https://atlas.lootura.com/us/organization/democratic-party
 
 ## Recent changes
@@ -70,5 +70,4 @@ Date: 2026-07-17
 
 ## Sources
 
-- [US politicians push agencies to restrict research collaboration with China](https://www.nature.com/articles/d41586-026-02226-9?utm_source=lootura.com) — 2026-07-19T13:13:02.689Z
-- [These AIPAC-Backed Democrats Voted to Nix Israel Aid. AIPAC Punished Them.](https://www.nytimes.com/2026/07/18/us/politics/aipac-democrats-donations-israel-vote.html?utm_source=lootura.com) — 2026-07-18T18:19:08.000Z
+- [US politicians push agencies to restrict research collaboration with China](https://www.nature.com/articles/d41586-026-02226-9?utm_source=lootura.com) — 2026-07-19T16:56:37.958Z

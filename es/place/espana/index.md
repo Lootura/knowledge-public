@@ -3,20 +3,32 @@
 > Sigue la actividad de España en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-19T13:12:39.474Z
+- Actualizado: 2026-07-19T16:56:12.315Z
 - Canonical: https://atlas.lootura.com/es/place/espana
 
 ## Cambios recientes
 
-### De Sudáfrica a Nueva York: el hilo rojo de la eternidad
-
-El fútbol, en su caprichosa y hermosa naturaleza cíclica, ha decidido tender un puente de dieciséis años entre dos puntos cardinales de la historia del deporte español. De Johannesburgo, la ciudad más grande de Sudáfrica, al MetLife Stadium de Nueva York, España vuelve a paralizarse ante la pantalla . Este domingo, la.
-
-Date: 2026-07-19
-
 ### Incendios en España, en directo hoy: última hora de los fuegos activos, evolución y situación en Aragón, Castilla-La Mancha, Madrid y Andalucía
 
 El presidente de la Junta de Comunidades de Castilla-La Mancha, Emiliano García-Page , señaló este sábado que la culpa de los incendios "no la tiene nadie por su profesión, condición política o raza" sino que la tiene "aquel que incumple las leyes" y subrayó que "llegará el momento de esclarecer las causas" , como así.
+
+Date: 2026-07-19
+
+### El Tribunal Supremo avisa a las empresas: pagar la indemnización ya no basta si despides por este motivo
+
+El Tribunal Supremo ha dictado una sentencia que promete sacudir los cimientos de las relaciones laborales en España. El Alto Tribunal ha declarado nulo el despido de una empleada que se negó a trabajar los sábados , a pesar de que la empresa intentó zanjar el conflicto utilizando una estrategia muy habitual: entregarl.
+
+Date: 2026-07-19
+
+### España insiste en Planas para la FAO pese a la división europea sobre un candidato único
+
+España ha iniciado la campaña para situar al ministro de Agricultura, Pesca y Alimentación, Luis Planas , al frente de la Organización de Naciones Unidas para la Alimentación y la Agricultura (FAO) , una carrera de largo recorrido que culminará con la elección prevista para la última semana de junio de 2027 y que arran.
+
+Date: 2026-07-19
+
+### De Sudáfrica a Nueva York: el hilo rojo de la eternidad
+
+El fútbol, en su caprichosa y hermosa naturaleza cíclica, ha decidido tender un puente de dieciséis años entre dos puntos cardinales de la historia del deporte español. De Johannesburgo, la ciudad más grande de Sudáfrica, al MetLife Stadium de Nueva York, España vuelve a paralizarse ante la pantalla . Este domingo, la.
 
 Date: 2026-07-19
 
@@ -56,23 +68,10 @@ Kylian Mbappé dio un paso de gigante hacia la Bota de Oro con su doblete ante I
 
 Date: 2026-07-19
 
-### Farlin Condori se proclama campeón de España y sorprende con una pedida de mano tras el combate
-
-Farlin Condori se proclama campeón de España y sorprende con una pedida de mano tras el combate.
-
-Date: 2026-07-19
-
-### Margallo: "Lo de Gibraltar no tiene vuelta atrás, Sánchez desguaza el Estado pieza a pieza"
-
-A José Manuel García-Margallo (Madrid, 1944) le duele España. Y le preocupa. Ministro de Asuntos Exteriores de Mariano Rajoy entre 2011 y 2016, fue el jefe de la diplomacia española con Juan Carlos I y en los primeros años de Felipe VI. A sus 82 años sigue leyendo y escribiendo y disfruta participando en los medios de.
-
-Date: 2026-07-19
-
 ## Fuentes
 
-- [«Tiene más nervios la gente de fuera que nosotros»](https://www.abc.es/deportes/futbol/mundial/fabian-nervios-gente-20260717000750-nt.html?utm_source=lootura.com) — 2026-07-19T12:19:02.000Z
-- [De Sudáfrica a Nueva York: el hilo rojo de la eternidad](https://www.abc.es/deportes/futbol/mundial/sudafrica-2010-nueva-york-2026-hilo-rojo-20260719000737-nt.html?utm_source=lootura.com) — 2026-07-19T12:21:52.000Z
+- [Colón, abarrotada de aficionados que creen en el triunfo: "Somos mejores y se lo vamos a demostrar a Messi"](https://www.20minutos.es/deportes/futbol/colon-se-convierte-gran-corazon-final-mundial-asi-se-viven-ya-directo-las-horas-previas_7016399_0.html?utm_source=lootura.com) — 2026-07-19T15:25:28.000Z
 - [El último paso para alcanzar la segunda estrella](https://www.elcorreo.com/deportes/futbol/mundial/ultimo-paso-alcanzar-segunda-estrella-20260718002157-ntrc_amp.html?utm_source=lootura.com) — 2026-07-18T22:21:57.000Z
-- [Incendios en España, en directo hoy: última hora de los fuegos activos, evolución y situación en Aragón, Castilla-La Mancha, Madrid y Andalucía](https://www.larazon.es/sociedad/incendios-espana-directo-hoy-ultima-hora-fuegos-activos-evolucion-situacion-aragon-castillala-mancha-madrid-andalucia-b50m_202607196a5bbe1b0500ab412c9d4ee3.html?utm_source=lootura.com) — 2026-07-19T12:44:05.000Z
-- [Una argentina revela el hábito de los españoles que más le sorprendió al mudarse: "No son de invitarte a casa"](https://www.larazon.es/actualidad/argentina-revela-habito-espanoles-que-mas-sorprendio-mudarse-son-invitarte-casa-b50m_202607196a5cc43fe9f2e84b5c719ef8.html?utm_source=lootura.com) — 2026-07-19T12:34:07.000Z
-- [Los bomberos coinciden e insisten a la población: «Por la noche lo recomendable es no cerrar la puerta con la llave puesta»](https://okdiario.com/curiosidades/bomberos-coinciden-insisten-poblacion-noche-lo-recomendable-no-cerrar-puerta-llave-puesta-19018749?utm_source=lootura.com) — 2026-07-19T12:00:22.000Z
+- [El Tribunal Supremo avisa a las empresas: pagar la indemnización ya no basta si despides por este motivo](https://www.larazon.es/actualidad/tribunal-supremo-avisa-empresas-pagar-indemnizacion-basta-despides-este-motivo-b50m_202607196a5cf8511db8de040997fb07.html?utm_source=lootura.com) — 2026-07-19T16:16:17.000Z
+- [Incendios en España, en directo hoy: última hora de los fuegos activos, evolución y situación en Aragón, Castilla-La Mancha, Madrid y Andalucía](https://www.larazon.es/sociedad/incendios-espana-directo-hoy-ultima-hora-fuegos-activos-evolucion-situacion-aragon-castillala-mancha-madrid-andalucia-b50m_202607196a5bbe1b0500ab412c9d4ee3.html?utm_source=lootura.com) — 2026-07-19T16:28:03.000Z
+- [España insiste en Planas para la FAO pese a la división europea sobre un candidato único](https://theobjective.com/espana/politica/2026-07-19/espana-insiste-planas-fao-europea-candidato-unico/?utm_source=lootura.com) — 2026-07-19T13:25:27.000Z

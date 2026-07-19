@@ -8,9 +8,14 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/russia/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/russia/index.json",
   "description": "Follow Russia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-19T13:12:59.144Z",
+  "updatedAt": "2026-07-19T16:56:33.807Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "Russia Batters Kyiv in One of the Largest Missile Assaults of the War",
+      "summary": "On Saturday, Ukraine hit two warehouses in Russia in strikes that killed at least eight people and injured 62.",
+      "date": "2026-07-19"
+    },
     {
       "title": "Russia Batters Kyiv in One of the Largest Missile Assaults of the War",
       "summary": "On Saturday, Ukraine hit two warehouses in Russia in strikes that killed at least eight people and injured 62.",
@@ -55,25 +60,20 @@
       "title": "Pro-Kremlin blogger who turned on Putin is arrested as Russia steps up crackdown",
       "summary": "A former loyalist blogger turned fierce critic of Russian President Vladimir Putin has been detained and accused of spreading false information about the armed forces, state media reported Friday.",
       "date": "2026-07-17"
-    },
-    {
-      "title": "Ukrainian's Zelenskyy faces major backlash for ousting defense chief Mykhailo Fedorov amid progress vs. Russia",
-      "summary": "Ukrainians are demonstrating in Kyiv and senior figures announcing their resignations over President Volodymyr Zelenksyy's move to oust his popular defense chief.",
-      "date": "2026-07-16"
     }
   ],
   "sources": [
     {
-      "title": "Russia launches deadly, massive ballistic missile attack in Kyiv, Ukraine",
-      "url": "https://www.cbsnews.com/news/russia-ballistic-missile-attack-kyiv-ukraine/?utm_source=lootura.com",
-      "publishedAt": "2026-07-19T10:21:42.000Z",
-      "sourceId": "lootura-us-cbs-news"
+      "title": "Deadly overnight Russian attack on Ukraine targets the capital",
+      "url": "https://www.npr.org/2026/07/19/nx-s1-5899518/russia-attack-kyiv?utm_source=lootura.com",
+      "publishedAt": "2026-07-19T09:14:38.000Z",
+      "sourceId": "lootura-us-npr-world"
     },
     {
       "title": "Russia Batters Kyiv in One of the Largest Missile Assaults of the War",
       "url": "https://www.nytimes.com/2026/07/19/world/europe/russia-ukraine-strikes.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-19T10:52:23.000Z",
-      "sourceId": "lootura-us-the-new-york-times"
+      "publishedAt": "2026-07-19T16:33:44.000Z",
+      "sourceId": "lootura-us-the-new-york-times-world"
     }
   ],
   "evidenceCount": 1

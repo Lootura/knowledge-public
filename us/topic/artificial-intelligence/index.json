@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/topic/artificial-intelligence/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/topic/artificial-intelligence/index.json",
   "description": "Follow Artificial intelligence, a tracked topic, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-19T13:12:59.144Z",
+  "updatedAt": "2026-07-19T16:56:33.807Z",
   "aliases": [
     "AI",
     "machine learning"
@@ -22,6 +22,11 @@
     {
       "title": "A global capital for AI safety is emerging — and it’s not in Silicon Valley",
       "summary": "Nature, Published online: 16 July 2026; doi:10.1038/d41586-026-01389-9 The United Kingdom is gaining influence through its growing AI-safety ecosystem.",
+      "date": "2026-07-19"
+    },
+    {
+      "title": "Birdfy’s solar-powered smart feeder is down to one of its best prices",
+      "summary": "It comes with a solar panel so you don’t need to worry about charging as much during the summer. | Image: Netvue Birdfy has kicked off a midyear sale, taking up to 40 percent off a range of its smart bird feeders. One of the best deals is on Netvue’s Birdfy Feeder AI-Powered Smart Bird Feeder with Camera , which has dr.",
       "date": "2026-07-19"
     },
     {
@@ -58,26 +63,27 @@
       "title": "AI‑designed gene‑editing enzymes expand the CRISPR toolbox",
       "summary": "Scientists have made many advances using traditional CRISPR technology, especially in medicine, but they are now seeking ways to create genuinely new gene-editing enzymes with properties that have not already evolved naturally. A new study, published in Science, describes a new AI-designed synthetic TnpB enzyme, called.",
       "date": "2026-07-17"
-    },
-    {
-      "title": "China's Xi calls for step up of global effort in AI, as US curbs squeeze China's tech access",
-      "summary": "American-led restrictions have blocked China from accessing some of the world's most advanced technologies, spurring China's efforts to build its own know-how and intensifying the tech race between the world's two biggest economies. (Image credit: Ng Han Guan).",
-      "date": "2026-07-17"
     }
   ],
   "sources": [
     {
       "title": "AI is set to completely transform cybersecurity — here’s how researchers must prepare",
       "url": "https://www.nature.com/articles/d41586-026-02214-z?utm_source=lootura.com",
-      "publishedAt": "2026-07-19T13:13:02.689Z",
+      "publishedAt": "2026-07-19T16:56:37.957Z",
       "sourceId": "lootura-us-nature"
     },
     {
       "title": "A global capital for AI safety is emerging — and it’s not in Silicon Valley",
       "url": "https://www.nature.com/articles/d41586-026-01389-9?utm_source=lootura.com",
-      "publishedAt": "2026-07-19T13:13:02.689Z",
+      "publishedAt": "2026-07-19T16:56:37.958Z",
       "sourceId": "lootura-us-nature"
+    },
+    {
+      "title": "Birdfy’s solar-powered smart feeder is down to one of its best prices",
+      "url": "https://www.theverge.com/gadgets/967336/birdfy-feeder-ai-powered-smart-bird-feeder-with-camera-deal-sale?utm_source=lootura.com",
+      "publishedAt": "2026-07-19T15:00:00.000Z",
+      "sourceId": "lootura-us-the-verge"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 3
 }

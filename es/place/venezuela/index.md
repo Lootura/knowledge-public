@@ -70,4 +70,4 @@ Date: 2026-07-15
 
 ## Fuentes
 
-- [EEUU pretende seguir ayudando a Venezuela durante cinco años por el doble terremoto](https://theobjective.com/internacional/2026-07-19/eeuu-ayudar-venezuela-cinco-anos-terremoto/?utm_source=lootura.com) — 2026-07-19T07:50:02.000Z
+No public source links.

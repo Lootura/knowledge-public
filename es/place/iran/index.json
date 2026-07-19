@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/iran/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/iran/index.json",
   "description": "Sigue la actividad de Iran en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-19T13:12:39.474Z",
+  "updatedAt": "2026-07-19T16:56:12.315Z",
   "aliases": [],
   "changes": [
     {
@@ -68,13 +68,7 @@
       "url": "https://elpais.com/deportes/mundial-futbol/2026-07-19/espana-argentina-la-verdadera-finalissima-decide-el-mundial.html?utm_source=lootura.com",
       "publishedAt": "2026-07-19T03:30:01.000Z",
       "sourceId": "lootura-es-el-pais"
-    },
-    {
-      "title": "EEUU ataca Irán una noche más tras la muerte de dos de sus militares en una base en Jordania",
-      "url": "https://theobjective.com/internacional/2026-07-19/eeuu-ataca-iran-muerte-dos-militares-base-jordania/?utm_source=lootura.com",
-      "publishedAt": "2026-07-19T06:32:05.000Z",
-      "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 0
 }

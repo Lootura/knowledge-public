@@ -3,7 +3,7 @@
 > Follow New York, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-19T13:12:59.144Z
+- Updated: 2026-07-19T16:56:33.807Z
 - Canonical: https://atlas.lootura.com/us/place/new-york
 
 ## Recent changes
@@ -11,6 +11,18 @@
 ### Healthcare costs associated with aging out of reach for many Americans
 
 One New York couple depleted their retirement and savings accounts, paying out-of-pocket for healthcare, before they were able to access Medicaid funds.
+
+Date: 2026-07-19
+
+### Black and Latino Leaders Ask: What Do Socialist Wins Mean for New York?
+
+Longtime leaders and advocates in minority districts fear that victories by the Democratic Socialists of America in gentrifying neighborhoods could mean political erasure.
+
+Date: 2026-07-19
+
+### Face the Nation: Hochul, Homan, Moynihan
+
+Missed the second half of the show? New York Gov. Kathy Hochul, White House border czar Tom Homan and Bank of America CEO Brian Moynihan join the show.
 
 Date: 2026-07-19
 
@@ -23,12 +35,6 @@ Date: 2026-07-19
 ### Knicks stars provide back up for WWE favorites in electric Saturday Night's Main Event at MSG
 
 WWE’s Saturday Night’s Main Event at Madison Square Garden featured a celebration of the New York Knicks and their championship run during the 2025-26 season. Knicks star Karl-Anthony Towns supported Danhausen in his no disqualification match against JD McDonagh. Towns provided some fierce backup for Danhausen and got.
-
-Date: 2026-07-19
-
-### Black and Latino Leaders Ask: What Do Socialist Wins Mean for New York?
-
-Longtime leaders and advocates in minority districts fear that victories by the Democratic Socialists of America in gentrifying neighborhoods could mean political erasure.
 
 Date: 2026-07-19
 
@@ -62,15 +68,8 @@ Chef Emily Yuen is putting a modern twist on traditional family recipes from Xi'
 
 Date: 2026-07-18
 
-### Trump Threatens Canada With Tariffs for Wildfire Smoke Over U.S.
-
-The president said on Friday in a social media post that Canada was failing to manage its wildfire response as smoke has blanketed U.S. cities including New York and Chicago.
-
-Date: 2026-07-18
-
 ## Sources
 
+- [Face the Nation: Hochul, Homan, Moynihan](https://www.cbsnews.com/video/face-the-nation-hochul-homan-moynihan/?utm_source=lootura.com) — 2026-07-19T16:14:07.000Z
 - [Healthcare costs associated with aging out of reach for many Americans](https://www.cbsnews.com/news/healthcare-costs-associated-with-aging-out-of-reach-for-many-americans/?utm_source=lootura.com) — 2026-07-19T01:59:16.000Z
-- [Controversial program paying drug users for used syringes becomes permanent in NYC](https://www.foxnews.com/politics/controversial-program-paying-drug-users-used-syringes-becomes-permanent-nyc?utm_source=lootura.com) — 2026-07-19T12:11:51.000Z
-- [Knicks stars provide back up for WWE favorites in electric Saturday Night's Main Event at MSG](https://www.foxnews.com/sports/knicks-stars-backup-wwe-favorites-electric-saturday-nights-main-event-msg?utm_source=lootura.com) — 2026-07-19T13:06:57.000Z
 - [Black and Latino Leaders Ask: What Do Socialist Wins Mean for New York?](https://www.nytimes.com/2026/07/19/nyregion/black-latino-leaders-dsa-nyc.html?utm_source=lootura.com) — 2026-07-19T07:00:08.000Z

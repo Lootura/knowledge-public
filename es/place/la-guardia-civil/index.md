@@ -3,7 +3,7 @@
 > Sigue la actividad de La Guardia Civil en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-19T13:12:39.474Z
+- Actualizado: 2026-07-19T16:56:12.315Z
 - Canonical: https://atlas.lootura.com/es/place/la-guardia-civil
 
 ## Cambios recientes
@@ -20,15 +20,15 @@ La Guardia Civil ha detenido a siete personas y ha investigado a otras catorce c
 
 Date: 2026-07-19
 
-### Víctimas de Bilbao, entre los afectados por una estafa de falsos alquileres
-
-La Guardia Civil ha detenido a un hombre y a una mujer en Almería y Murcia implicados en el fraude de más de 20.000 euros a nivel nacional.
-
-Date: 2026-07-18
-
 ### Discovered by Atlas
 
 La Guardia Civil first entered the public knowledge record with source-backed evidence.
+
+Date: 2026-07-18
+
+### Víctimas de Bilbao, entre los afectados por una estafa de falsos alquileres
+
+La Guardia Civil ha detenido a un hombre y a una mujer en Almería y Murcia implicados en el fraude de más de 20.000 euros a nivel nacional.
 
 Date: 2026-07-18
 
@@ -41,5 +41,4 @@ Date: 2026-07-18
 ## Fuentes
 
 - [Siete detenidos y 14 investigados por extorsionar a usuarios de páginas de contactos en Ciudad Real](https://www.elconfidencial.com/espana/2026-07-19/sextorsion-extorsion-guardia-civil-1tps_4392400/?utm_source=lootura.com) — 2026-07-19T11:35:00.000Z
-- [Víctimas de Bilbao, entre los afectados por una estafa de falsos alquileres](https://www.elcorreo.com/bizkaia/victimas-bilbao-afectados-estafa-falsos-alquileres-20260718182802-nt_amp.html?utm_source=lootura.com) — 2026-07-18T16:28:03.000Z
 - [Desmantelada una red de ‘sextorsión’ con siete detenidos y 14 investigados en Ciudad Real](https://theobjective.com/sociedad/suceso/2026-07-19/desmantelada-red-sextorsion-ciudad-real/?utm_source=lootura.com) — 2026-07-19T11:00:26.000Z

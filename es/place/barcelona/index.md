@@ -3,20 +3,20 @@
 > Sigue la actividad de Barcelona en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-19T13:12:39.474Z
+- Actualizado: 2026-07-19T16:56:12.315Z
 - Canonical: https://atlas.lootura.com/es/place/barcelona
 
 ## Cambios recientes
 
-### Corrompidos por el narco en Cataluña
-
-¿Qué lleva a un inspector de la Policía Nacional a liderar una red de tráfico de cocaína en el puerto de Barcelona? Los motivos sólo los sabe él, pero la consecuencia ha sido una condena de 15 años de cárcel .La denuncia de un arrepentido, tras una descarga, llevó a los Mossos d'Esquadra hasta el entramado que lideraba.
-
-Date: 2026-07-19
-
 ### Esta docuserie española en Disney+ cuenta un caso que te dejará impactado y la puedes ver en una tarde
 
 Abandonados , la docuserie española de 4 capítulos que causa sensación en Disney+, narra un suceso desconcertante . Se trata del impactante misterio real de tres hermanos abandonados en una estación de tren en Barcelona en 1984. La producción, en colaboración con Luminol Media y bajo la mirada del periodista Carles Por.
+
+Date: 2026-07-19
+
+### Corrompidos por el narco en Cataluña
+
+¿Qué lleva a un inspector de la Policía Nacional a liderar una red de tráfico de cocaína en el puerto de Barcelona? Los motivos sólo los sabe él, pero la consecuencia ha sido una condena de 15 años de cárcel .La denuncia de un arrepentido, tras una descarga, llevó a los Mossos d'Esquadra hasta el entramado que lideraba.
 
 Date: 2026-07-19
 
@@ -70,5 +70,4 @@ Date: 2026-07-17
 
 ## Fuentes
 
-- [Corrompidos por el narco en Cataluña](https://www.abc.es/espana/cataluna/corrompidos-narco-20260719010805-nt.html?utm_source=lootura.com) — 2026-07-19T12:36:08.000Z
 - [Esta docuserie española en Disney+ cuenta un caso que te dejará impactado y la puedes ver en una tarde](https://hipertextual.com/cine-television/esta-docuserie-espanola-en-disney-cuenta-un-caso-que-te-dejara-impactado-y-la-puedes-ver-en-una-tarde/?utm_source=lootura.com) — 2026-07-19T13:00:00.000Z

@@ -1,0 +1,61 @@
+{
+  "id": "usa-troy-jackson",
+  "name": "Troy Jackson",
+  "type": "person",
+  "locale": "en",
+  "canonicalPath": "/us/person/troy-jackson",
+  "canonicalUrl": "https://atlas.lootura.com/us/person/troy-jackson",
+  "markdownUrl": "https://atlas.lootura.com/us/person/troy-jackson/index.md",
+  "jsonUrl": "https://atlas.lootura.com/us/person/troy-jackson/index.json",
+  "description": "Follow Troy Jackson, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
+  "updatedAt": "2026-07-19T16:56:33.807Z",
+  "aliases": [],
+  "changes": [
+    {
+      "title": "In Maine, Troy Jackson Gains Momentum in Bid to Replace Platner",
+      "summary": "Troy Jackson, a progressive former State Senate president, showed signs of significant strength, as half the state’s counties picked delegates to a convention where they will choose Graham Platner’s replacement.",
+      "date": "2026-07-19"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Troy Jackson first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-07-19"
+    },
+    {
+      "title": "Shenna Bellows drops out of Maine’s Senate race as Troy Jackson builds Democratic support",
+      "summary": "Former state Senate President Troy Jackson is racking up support to become Maine’s next Democratic Senate nominee, with one of his top opponents, Shenna Bellows, ending her campaign on Sunday.",
+      "date": "2026-07-19"
+    },
+    {
+      "title": "Maine Democrat Shenna Bellows drops out of race to replace Graham Platner",
+      "summary": "SANFORD, Maine — Maine Secretary of State Shenna Bellows ended her Senate campaign on Sunday, further clearing the path for rival Troy Jackson as he consolidates support in a fast-moving Democratic nomination contest. \"This has been an unprecedented nominating process, compressed into days instead of months, and I'm gr.",
+      "date": "2026-07-19"
+    },
+    {
+      "title": "Platner-ally Troy Jackson closing in on Democratic Senate nod in key race to face Collins",
+      "summary": "Former Maine Senate President Troy Jackson appears to be sprinting far ahead of his rivals in the abbreviated race to replace now ex-candidate Graham Platner as the Democratic Senate nominee in the high-stakes showdown to face off with longtime Republican Sen. Susan Collins. Delegates aligned with Jackson won the vast.",
+      "date": "2026-07-19"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Shenna Bellows drops out of Maine’s Senate race as Troy Jackson builds Democratic support",
+      "url": "https://www.nbcnews.com/politics/2026-election/shenna-bellows-drops-maines-senate-race-troy-jackson-builds-democratic-rcna588242?utm_source=lootura.com",
+      "publishedAt": "2026-07-19T15:32:57.000Z",
+      "sourceId": "lootura-us-nbc-news-politics"
+    },
+    {
+      "title": "Maine Democrat Shenna Bellows drops out of race to replace Graham Platner",
+      "url": "https://www.politico.com/news/2026/07/19/shenna-bellows-drops-out-maine-senate-01004452?utm_source=lootura.com",
+      "publishedAt": "2026-07-19T15:56:06.000Z",
+      "sourceId": "lootura-us-politico"
+    },
+    {
+      "title": "In Maine, Troy Jackson Gains Momentum in Bid to Replace Platner",
+      "url": "https://www.nytimes.com/2026/07/19/us/politics/maine-democrats-senate-jackson.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-19T04:10:58.000Z",
+      "sourceId": "lootura-us-the-new-york-times-politics"
+    }
+  ],
+  "evidenceCount": 3
+}

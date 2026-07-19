@@ -70,5 +70,4 @@ Date: 2026-07-17
 
 ## Fuentes
 
-- [Lo que la Audiencia de Madrid no ha cambiado: el juicio a Begoña Gómez se mantiene para antes de las generales](https://www.elmundo.es/espana/2026/07/19/6a5bcabae9cf4acd6f8b45c8.html?utm_source=lootura.com) — 2026-07-19T01:08:29.000Z
-- [La Audiencia de Madrid completa el trabajo de Peinado contra Begoña Gómez](https://www.eldiario.es/blog/politica-para-supervivientes/audiencia-madrid-completa-trabajo-peinado-begona-gomez_132_13388699.html?utm_source=lootura.com) — 2026-07-19T06:15:53.000Z
+No public source links.

@@ -8,13 +8,18 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/united-states/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/united-states/index.json",
   "description": "Sigue la actividad de Estados Unidos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-19T13:12:39.474Z",
+  "updatedAt": "2026-07-19T16:56:12.315Z",
   "aliases": [
     "America",
     "Estados Unidos",
     "U.S."
   ],
   "changes": [
+    {
+      "title": "El inesperado arrepentimiento de Joaquín Sabina a sus 77 años: \"Perdí demasiado tiempo\"",
+      "summary": "Joaquín Sabina sigue siendo genio y figura, manteniendo intacto su carisma y su afilada honestidad. A sus 77 años, el cantautor de Úbeda tiene todavía muy reciente su emotiva despedida definitiva de los escenarios . Aquella multitudinaria y triunfal gira, que arrancó con éxito en América y bajó el telón en el Movistar.",
+      "date": "2026-07-19"
+    },
     {
       "title": "EEUU ataca Irán una noche más tras la muerte de dos de sus militares en una base en Jordania",
       "summary": "Estados Unidos ha anunciado el inicio de una nueva ronda de bombardeos contra Irán por orden del presidente Donald Trump , en una operación que tiene como objetivo reducir las capacidades de Teherán para amenazar el tráfico marítimo en el estrecho de Ormuz y responder al ataque -atribuido al Cuerpo de la Guardia Revolu.",
@@ -59,25 +64,20 @@
       "title": "España, país en armas: cómo se contó la Guerra Civil en los noticieros de Estados Unidos",
       "summary": "El año nuevo arranca con el estreno de Tiempos modernos, la última cinta de Chaplin que refleja la mentalidad, la vida cotidiana y la precariedad de la sociedad industrial norteamericana. La magia del cine permite olvidar, dejar atrás la crisis y proyectar una nueva verdad al mundo. Minutos antes de comenzar la películ.",
       "date": "2026-07-18"
-    },
-    {
-      "title": "Trump culpa a Canadá por el humo de los incendios forestales y dice que sumará el costo a los aranceles",
-      "summary": "El viernes, el presidente Donald Trump responsabilizó a Canadá del humo de los incendios forestales que se propagaba por Estados Unidos y afirmó que añadiría el “costo incalculable” de hacer frente a la contaminación a los aranceles ya existentes sobre los productos canadienses. Seguir leyendo...",
-      "date": "2026-07-18"
     }
   ],
   "sources": [
     {
       "title": "«Tiene más nervios la gente de fuera que nosotros»",
       "url": "https://www.abc.es/deportes/futbol/mundial/fabian-nervios-gente-20260717000750-nt.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-19T12:19:02.000Z",
+      "publishedAt": "2026-07-19T15:39:29.000Z",
       "sourceId": "lootura-es-abc"
     },
     {
-      "title": "EEUU ataca Irán una noche más tras la muerte de dos de sus militares en una base en Jordania",
-      "url": "https://theobjective.com/internacional/2026-07-19/eeuu-ataca-iran-muerte-dos-militares-base-jordania/?utm_source=lootura.com",
-      "publishedAt": "2026-07-19T06:32:05.000Z",
-      "sourceId": "lootura-es-the-objective"
+      "title": "El inesperado arrepentimiento de Joaquín Sabina a sus 77 años: \"Perdí demasiado tiempo\"",
+      "url": "https://www.larazon.es/actualidad/inesperado-arrepentimiento-joaquin-sabina-sus-77-anos-perdi-demasiado-tiempo-b50m_202607196a5cf5900500ab412c9ee533.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-19T16:04:32.000Z",
+      "sourceId": "lootura-es-la-razon"
     }
   ],
   "evidenceCount": 1

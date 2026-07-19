@@ -3,10 +3,16 @@
 > Follow White House, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-07-18T16:55:42.019Z
+- Updated: 2026-07-19T16:56:33.807Z
 - Canonical: https://atlas.lootura.com/us/organization/white-house
 
 ## Recent changes
+
+### Face the Nation: Hochul, Homan, Moynihan
+
+Missed the second half of the show? New York Gov. Kathy Hochul, White House border czar Tom Homan and Bank of America CEO Brian Moynihan join the show.
+
+Date: 2026-07-19
 
 ### Trump says these documents prove his false claims of election fraud. Here's what they really say
 
@@ -62,12 +68,6 @@ President Trump is delivering a speech on election security Thursday night at th
 
 Date: 2026-07-17
 
-### How paper ballots make digital manipulation of results unlikely
-
-NBC News’ Jane Timm analyzes President Trump’s claims about digital manipulation of ballot results in the U.S., as Trump said that the White House will declassify documents related to the 2020 election and alleged influence by China during his speech to the nation.
-
-Date: 2026-07-17
-
 ## Sources
 
-No public source links.
+- [Face the Nation: Hochul, Homan, Moynihan](https://www.cbsnews.com/video/face-the-nation-hochul-homan-moynihan/?utm_source=lootura.com) — 2026-07-19T16:14:07.000Z

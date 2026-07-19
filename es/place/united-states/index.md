@@ -3,10 +3,16 @@
 > Sigue la actividad de Estados Unidos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-19T13:12:39.474Z
+- Actualizado: 2026-07-19T16:56:12.315Z
 - Canonical: https://atlas.lootura.com/es/place/united-states
 
 ## Cambios recientes
+
+### El inesperado arrepentimiento de Joaquín Sabina a sus 77 años: "Perdí demasiado tiempo"
+
+Joaquín Sabina sigue siendo genio y figura, manteniendo intacto su carisma y su afilada honestidad. A sus 77 años, el cantautor de Úbeda tiene todavía muy reciente su emotiva despedida definitiva de los escenarios . Aquella multitudinaria y triunfal gira, que arrancó con éxito en América y bajó el telón en el Movistar.
+
+Date: 2026-07-19
 
 ### EEUU ataca Irán una noche más tras la muerte de dos de sus militares en una base en Jordania
 
@@ -62,13 +68,7 @@ El año nuevo arranca con el estreno de Tiempos modernos, la última cinta de Ch
 
 Date: 2026-07-18
 
-### Trump culpa a Canadá por el humo de los incendios forestales y dice que sumará el costo a los aranceles
-
-El viernes, el presidente Donald Trump responsabilizó a Canadá del humo de los incendios forestales que se propagaba por Estados Unidos y afirmó que añadiría el “costo incalculable” de hacer frente a la contaminación a los aranceles ya existentes sobre los productos canadienses. Seguir leyendo...
-
-Date: 2026-07-18
-
 ## Fuentes
 
-- [«Tiene más nervios la gente de fuera que nosotros»](https://www.abc.es/deportes/futbol/mundial/fabian-nervios-gente-20260717000750-nt.html?utm_source=lootura.com) — 2026-07-19T12:19:02.000Z
-- [EEUU ataca Irán una noche más tras la muerte de dos de sus militares en una base en Jordania](https://theobjective.com/internacional/2026-07-19/eeuu-ataca-iran-muerte-dos-militares-base-jordania/?utm_source=lootura.com) — 2026-07-19T06:32:05.000Z
+- [«Tiene más nervios la gente de fuera que nosotros»](https://www.abc.es/deportes/futbol/mundial/fabian-nervios-gente-20260717000750-nt.html?utm_source=lootura.com) — 2026-07-19T15:39:29.000Z
+- [El inesperado arrepentimiento de Joaquín Sabina a sus 77 años: "Perdí demasiado tiempo"](https://www.larazon.es/actualidad/inesperado-arrepentimiento-joaquin-sabina-sus-77-anos-perdi-demasiado-tiempo-b50m_202607196a5cf5900500ab412c9ee533.html?utm_source=lootura.com) — 2026-07-19T16:04:32.000Z

@@ -8,9 +8,14 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/canada/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/canada/index.json",
   "description": "Follow Canada, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-19T13:12:59.144Z",
+  "updatedAt": "2026-07-19T16:56:33.807Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "Are workplaces safer? Harassment and violence persist, survey finds",
+      "summary": "A follow-up national survey developed by Western researchers shows workplace harassment and violence continue to be widespread in Canada, with some signs of improvement. The second national survey on harassment and violence at work in Canada was conducted by Western's Center for Research and Education on Violence Again.",
+      "date": "2026-07-19"
+    },
     {
       "title": "Wildfire smoke fouls air across Northeast",
       "summary": "Smoke from hundreds of wildfires burning across Canada and Minnesota is creating air quality issues in the Northeast. There are also severe weather threats to the Midwest, as well as the risk of flash flooding in some areas. Meteorologist Andrew Kozak has the forecast.",
@@ -55,25 +60,20 @@
       "title": "Maps show wildfire smoke forecast, air quality alerts due to pollution from Canadian, Minnesota fires",
       "summary": "Heavy smoke from several large wildfires blazing in Canada and Minnesota is engulfing large swaths of the Midwest and the U.S. East Coast this week.",
       "date": "2026-07-18"
-    },
-    {
-      "title": "Iqaluit, Canada’s Most Northern City, Gets Its First Bus Line",
-      "summary": "Jacinto Marques left Angola for Canada’s frozen edge. Now he’s running a bus service in Iqaluit, the largest, and only city in Canada’s Arctic.",
-      "date": "2026-07-18"
     }
   ],
   "sources": [
-    {
-      "title": "Wildfire smoke fouls air across Northeast",
-      "url": "https://www.cbsnews.com/video/wildfire-smoke-fouls-air-across-northeast/?utm_source=lootura.com",
-      "publishedAt": "2026-07-19T00:46:52.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
     {
       "title": "Air quality improving in Northeast, while wildfire smoke hangs over Midwest",
       "url": "https://www.npr.org/2026/07/18/nx-s1-5899009/us-canada-wildfire-smoke?utm_source=lootura.com",
       "publishedAt": "2026-07-18T18:15:42.000Z",
       "sourceId": "lootura-us-npr"
+    },
+    {
+      "title": "Are workplaces safer? Harassment and violence persist, survey finds",
+      "url": "https://phys.org/news/2026-07-workplaces-safer-violence-persist-survey.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-19T14:00:01.000Z",
+      "sourceId": "lootura-us-phys-org"
     }
   ],
   "evidenceCount": 2

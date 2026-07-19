@@ -3,7 +3,7 @@
 > Sigue la actividad de Pedro Sánchez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-19T13:12:39.474Z
+- Actualizado: 2026-07-19T16:56:12.315Z
 - Canonical: https://atlas.lootura.com/es/person/pedro-sanchez
 
 ## Cambios recientes
@@ -70,5 +70,5 @@ Date: 2026-07-18
 
 ## Fuentes
 
-- [Muchos ministros presionaron a la RFEF para asistir a la final antes de que Sánchez cambiara de opinión y decidiera hacerlo](https://okdiario.com/mundial/decepcion-ministros-sanchez-saber-que-presidente-finalmente-acude-final-del-mundial-19023838?utm_source=lootura.com) — 2026-07-19T12:00:28.000Z
+- [La final también se juega en un palco al rojo vivo: Trump, Pedro Sánchez, los reyes, Sheinbaum...](https://www.20minutos.es/deportes/final-tambien-se-jugara-un-palco-rojo-vivo-trump-pedro-sanchez-los-reyes-sheinbaum_7016413_0.html?utm_source=lootura.com) — 2026-07-19T15:20:58.000Z
 - [Sánchez achaca los incendios de esta semana a la «emergencia climática»](https://theobjective.com/espana/politica/2026-07-19/sanchez-achaca-incendios-esta-semana-emergencia-climatica/?utm_source=lootura.com) — 2026-07-19T12:24:00.000Z

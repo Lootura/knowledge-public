@@ -3,7 +3,7 @@
 > Follow Maine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-19T13:12:59.144Z
+- Updated: 2026-07-19T16:56:33.807Z
 - Canonical: https://atlas.lootura.com/us/place/maine
 
 ## Recent changes
@@ -11,6 +11,30 @@
 ### In Maine, Troy Jackson Gains Momentum in Bid to Replace Platner
 
 Troy Jackson, a progressive former State Senate president, showed signs of significant strength, as half the state’s counties picked delegates to a convention where they will choose Graham Platner’s replacement.
+
+Date: 2026-07-19
+
+### Trump border czar says "I think body cameras are the way to go" after deadly ICE shootings
+
+Amid questions about immigration agents' actions in deadly shootings this month in Texas and Maine, Trump administration border czar Tom Homan told "Face the Nation with Margaret Brennan" that "I think body cameras are the way to go," adding that body cameras "let the American people know what that officer sees when he.
+
+Date: 2026-07-19
+
+### Shenna Bellows drops out of Maine’s Senate race as Troy Jackson builds Democratic support
+
+Former state Senate President Troy Jackson is racking up support to become Maine’s next Democratic Senate nominee, with one of his top opponents, Shenna Bellows, ending her campaign on Sunday.
+
+Date: 2026-07-19
+
+### Maine Democrat Shenna Bellows drops out of race to replace Graham Platner
+
+SANFORD, Maine — Maine Secretary of State Shenna Bellows ended her Senate campaign on Sunday, further clearing the path for rival Troy Jackson as he consolidates support in a fast-moving Democratic nomination contest. "This has been an unprecedented nominating process, compressed into days instead of months, and I'm gr.
+
+Date: 2026-07-19
+
+### In Maine, Bellows Ends Senate Bid, as Jackson Builds Momentum
+
+The Maine secretary of state ended her run in a crowded race to replace Graham Platner as the Democratic Senate nominee.
 
 Date: 2026-07-19
 
@@ -44,31 +68,10 @@ The Immigration and Customs Enforcement officer who shot and killed a Colombian 
 
 Date: 2026-07-17
 
-### ‘Professional malpractice’: The Platner fallout engulfs the operatives who made him
-
-When Daniel Moraff showed up on Graham Platner's doorstep last summer, the oyster farmer had a message for the young political operative who had traveled to the Maine coast to convince him to run for the U.S. Senate: "Get the fuck off my property." It took weeks of prodding before Platner relented, according to two peo.
-
-Date: 2026-07-17
-
-### Maine shooting and officer's background raise new questions about ICE's rapid hiring
-
-Immigration and Customs Enforcement has been rapidly expanding its workforce, hiring thousands of new officers as part of the Trump administration's attempt to ramp up immigration arrests and deportations.
-
-Date: 2026-07-17
-
-### 5 Takeaways From a Maine Debate That Showed Replacing Platner Isn’t Easy
-
-Maine Democrats vying to become the state’s new Senate nominee met, and mostly agreed, at a debate filled with halting answers and stilted deliveries.
-
-Date: 2026-07-17
-
-### Maine Democratic Senate candidates discuss which of Platner's ideas they would use
-
-Maine Democratic Senate candidates Nirav Shah, Shenna Bellows, Jordan Wood and Troy Jackson discuss which ideas from Graham Platner's platform they would use if they are chosen as the nominee.
-
-Date: 2026-07-17
-
 ## Sources
 
-- [Platner-ally Troy Jackson closing in on Democratic Senate nod in key race to face Collins](https://www.foxnews.com/politics/platner-ally-troy-jackson-closing-democratic-senate-nod-key-race-face-collins?utm_source=lootura.com) — 2026-07-19T12:33:12.000Z
-- [In Maine, Troy Jackson Gains Momentum in Bid to Replace Platner](https://www.nytimes.com/2026/07/19/us/politics/maine-democrats-senate-jackson.html?utm_source=lootura.com) — 2026-07-19T04:10:57.000Z
+- [Trump border czar says "I think body cameras are the way to go" after deadly ICE shootings](https://www.cbsnews.com/video/trump-border-czar-says-i-think-body-cameras-are-the-way-to-go-after-deadly-ice-shootings/?utm_source=lootura.com) — 2026-07-19T16:15:27.000Z
+- [Shenna Bellows drops out of Maine’s Senate race as Troy Jackson builds Democratic support](https://www.nbcnews.com/politics/2026-election/shenna-bellows-drops-maines-senate-race-troy-jackson-builds-democratic-rcna588242?utm_source=lootura.com) — 2026-07-19T15:32:57.000Z
+- [Maine Democrat Shenna Bellows drops out of race to replace Graham Platner](https://www.politico.com/news/2026/07/19/shenna-bellows-drops-out-maine-senate-01004452?utm_source=lootura.com) — 2026-07-19T15:56:06.000Z
+- [In Maine, Bellows Ends Senate Bid, as Jackson Builds Momentum](https://www.nytimes.com/2026/07/19/us/politics/maine-senate-bellow-jackson-platner-democrats.html?utm_source=lootura.com) — 2026-07-19T16:13:57.000Z
+- [In Maine, Troy Jackson Gains Momentum in Bid to Replace Platner](https://www.nytimes.com/2026/07/19/us/politics/maine-democrats-senate-jackson.html?utm_source=lootura.com) — 2026-07-19T04:10:58.000Z

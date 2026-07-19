@@ -8,11 +8,21 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/ukraine/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/ukraine/index.json",
   "description": "Follow Ukraine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-19T13:12:59.144Z",
+  "updatedAt": "2026-07-19T16:56:33.807Z",
   "aliases": [
     "Kyiv"
   ],
   "changes": [
+    {
+      "title": "Russian attacks on Ukrainian cities kill 6 and expose defense gaps",
+      "summary": "One person was killed and 16 others wounded in the overnight Russian attack on Kyiv, local authorities said.",
+      "date": "2026-07-19"
+    },
+    {
+      "title": "Russia Batters Kyiv in One of the Largest Missile Assaults of the War",
+      "summary": "On Saturday, Ukraine hit two warehouses in Russia in strikes that killed at least eight people and injured 62.",
+      "date": "2026-07-19"
+    },
     {
       "title": "Ukraine’s Top General Becomes a Target of Protesters’ Anger",
       "summary": "Demonstrators supporting Ukraine’s ousted defense minister have begun denouncing the commander he clashed with in office, Gen. Oleksandr Syrskyi.",
@@ -52,35 +62,19 @@
       "title": "Ukraine fights under an interim defense chief after Zelenskyy's contested government shake-up",
       "summary": "Ukraine fought Russia's more than 4-year-old invasion under an interim defense minister Friday, a day after a government reshuffle exposed a deep split between the military's old guard and young innovators over how to fight the war.",
       "date": "2026-07-17"
-    },
-    {
-      "title": "A Russian Political Battle Ends With a Visit From Masked Men",
-      "summary": "Boris B. Nadezhdin, an outspoken opponent of the war in Ukraine, says he knows why he was detained: “Among our leadership, there is panic and chaos.”.",
-      "date": "2026-07-17"
-    },
-    {
-      "title": "He Was a Russian Political Survivor, Until the Masked Men Appeared",
-      "summary": "Boris B. Nadezhdin, an outspoken opponent of the war in Ukraine, says he knows why he was detained: “Among our leadership, there is panic and chaos.”.",
-      "date": "2026-07-17"
     }
   ],
   "sources": [
     {
-      "title": "Russia launches deadly, massive ballistic missile attack in Kyiv, Ukraine",
+      "title": "Russian attacks on Ukrainian cities kill 6 and expose defense gaps",
       "url": "https://www.cbsnews.com/news/russia-ballistic-missile-attack-kyiv-ukraine/?utm_source=lootura.com",
-      "publishedAt": "2026-07-19T10:21:42.000Z",
+      "publishedAt": "2026-07-19T15:38:12.000Z",
       "sourceId": "lootura-us-cbs-news"
     },
     {
       "title": "Russia Batters Kyiv in One of the Largest Missile Assaults of the War",
       "url": "https://www.nytimes.com/2026/07/19/world/europe/russia-ukraine-strikes.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-19T10:52:23.000Z",
-      "sourceId": "lootura-us-the-new-york-times"
-    },
-    {
-      "title": "Ukraine’s Top General Becomes a Target of Protesters’ Anger",
-      "url": "https://www.nytimes.com/2026/07/18/world/europe/ukraine-protests-general-syrskyi-fedorov.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-19T07:13:23.000Z",
+      "publishedAt": "2026-07-19T16:33:44.000Z",
       "sourceId": "lootura-us-the-new-york-times-world"
     }
   ],

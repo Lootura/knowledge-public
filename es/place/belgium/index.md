@@ -3,7 +3,7 @@
 > Sigue la actividad de Bélgica en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-19T02:29:06.108Z
+- Actualizado: 2026-07-19T16:56:12.315Z
 - Canonical: https://atlas.lootura.com/es/place/belgium
 
 ## Cambios recientes
@@ -70,4 +70,4 @@ Date: 2026-07-10
 
 ## Fuentes
 
-No public source links.
+- [Quién es Sara Botello, mujer de Aymeric Laporte: su edad, de dónde es y cuál es su profesión](https://okdiario.com/happyfm/quien-sara-botello-mujer-aymeric-laporte-edad-donde-cual-profesion-18969696?utm_source=lootura.com) — 2026-07-19T16:47:54.000Z

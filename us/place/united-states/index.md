@@ -3,7 +3,7 @@
 > Follow United States, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-19T13:12:59.144Z
+- Updated: 2026-07-19T16:56:33.807Z
 - Canonical: https://atlas.lootura.com/us/place/united-states
 
 ## Recent changes
@@ -44,38 +44,39 @@ Longtime leaders and advocates in minority districts fear that victories by the 
 
 Date: 2026-07-19
 
-### The Tate brothers are arrested in Miami, U.S. Marshals Service tells AP
+### Bank of America CEO Brian Moynihan says "affordability is a challenge" for customers
 
-The brothers were taken into custody on a sealed warrant, the Marshals Service told the AP. British prosecutors said they were seeking the extradition of the brothers on rape and trafficking charges. (Image credit: Julia Demaree Nikhinson).
-
-Date: 2026-07-19
-
-### To trial or not to trial: Veteran vaccine advisers say vaccine clinical trials alone don't tell whole story
-
-Two nationally recognized scientists with decades of experience advising U.S. vaccine policy argue that it is a mistake to exclude well-designed observational studies when determining how well vaccines work year to year.
+Bank of America CEO Brian Moynihan told "Face the Nation with Margaret Brennan" that he has been hearing from customers that "affordability is a challenge" amid rising gas and food prices and inflation, but he added that "in the last couple months, we're seeing the wage growth of all income cohorts kind of coalesce tog.
 
 Date: 2026-07-19
 
-### U.S. cancels automatic protections for imperiled animals as critics warn of extinctions
+### Sen. Mark Warner says Middle East bases are "on and off under attack" since Iran war began
 
-Instead of receiving automatic protections, imperiled species will need individualized protection plans once they are added to the threatened species list.
+In the wake of the deaths of two U.S. service members over the weekend at a Jordanian military base, Democratic Sen. Mark Warner of Virginia told "Face the Nation with Margaret Brennan" that "these bases have been on and off under attack" since the beginning of the war of Iran, which he described as a "war of choice.".
 
-Date: 2026-07-18
+Date: 2026-07-19
 
-### U.S. Strikes Leave Iranians Isolated and Scared
+### Face the Nation: Hochul, Homan, Moynihan
 
-Overnight strikes damaged a tunnel and three bridges in Hormozgan Province, the governor’s office said.
+Missed the second half of the show? New York Gov. Kathy Hochul, White House border czar Tom Homan and Bank of America CEO Brian Moynihan join the show.
 
-Date: 2026-07-18
+Date: 2026-07-19
+
+### U.S. strikes Iran over troop deaths as Israel warns Tehran's attacks are coming close
+
+Step by step, the U.S, and Iran have returned closer to all-out war as last month's interim deal meant to permanently end the fighting has crumbled and shipping traffic in the Strait of Hormuz has largely stalled.
+
+Date: 2026-07-19
 
 ## Sources
 
+- [Bank of America CEO Brian Moynihan says "affordability is a challenge" for customers](https://www.cbsnews.com/video/bank-of-america-ceo-brian-moynihan-says-affordability-is-a-challenge-for-customers/?utm_source=lootura.com) — 2026-07-19T15:57:26.000Z
 - [The Uplift: The American Dream](https://www.cbsnews.com/video/the-uplift-the-american-dream/?utm_source=lootura.com) — 2026-07-27T10:30:00.000Z
+- [Sen. Mark Warner says Middle East bases are "on and off under attack" since Iran war began](https://www.cbsnews.com/video/sen-mark-warner-says-middle-east-bases-are-on-and-off-under-attack-since-iran-war-began/?utm_source=lootura.com) — 2026-07-19T15:51:22.000Z
+- [Face the Nation: Hochul, Homan, Moynihan](https://www.cbsnews.com/video/face-the-nation-hochul-homan-moynihan/?utm_source=lootura.com) — 2026-07-19T16:14:07.000Z
 - [Politics chat: How much faith can you have in the country's election systems?](https://www.npr.org/2026/07/19/nx-s1-5890938/politics-chat-how-much-faith-can-you-have-in-the-countrys-election-systems?utm_source=lootura.com) — 2026-07-19T12:04:18.000Z
-- [U.S. cancels automatic protections for imperiled animals as critics warn of extinctions](https://www.pbs.org/newshour/nation/u-s-cancels-automatic-protections-for-imperiled-animals-as-critics-warn-of-extinctions?utm_source=lootura.com) — 2026-07-18T18:43:58.000Z
+- [U.S. strikes Iran over troop deaths as Israel warns Tehran's attacks are coming close](https://www.pbs.org/newshour/world/u-s-strikes-iran-over-troop-deaths-as-israel-warns-tehrans-attacks-are-coming-close?utm_source=lootura.com) — 2026-07-19T16:00:48.000Z
 - [Energy price shocks slow state economies; spur energy efficiency investments](https://phys.org/news/2026-07-energy-price-state-economies-spur.html?utm_source=lootura.com) — 2026-07-19T09:40:04.000Z
+- [Increased Cooperation With U.S. Has Put Jordan in Iran’s Cross Hairs](https://www.nytimes.com/2026/07/19/world/middleeast/iran-war-jordan-us.html?utm_source=lootura.com) — 2026-07-19T15:17:53.000Z
 - [Failed Immigration Cases Leave Chicago Prosecutor’s Office Reeling](https://www.nytimes.com/2026/07/19/us/immigration-chicago-prosecutors.html?utm_source=lootura.com) — 2026-07-19T11:44:25.000Z
 - [Black and Latino Leaders Ask: What Do Socialist Wins Mean for New York?](https://www.nytimes.com/2026/07/19/nyregion/black-latino-leaders-dsa-nyc.html?utm_source=lootura.com) — 2026-07-19T07:00:08.000Z
-- [Why Jordan Is Becoming a New Focus in the U.S.-Iran War](https://www.nytimes.com/2026/07/18/world/middleeast/iran-war-jordan-attacks.html?utm_source=lootura.com) — 2026-07-18T23:03:24.000Z
-- [U.S. Strikes Leave Iranians Isolated and Scared](https://www.nytimes.com/2026/07/18/world/middleeast/us-iran-war-strikes-bridges-bandar-abbas.html?utm_source=lootura.com) — 2026-07-18T16:02:40.000Z
-- [Trump Gutted Civil Rights Agency, Stifling U.S. Scrutiny of Workplace Bias](https://www.nytimes.com/2026/07/19/us/politics/trump-gutted-civil-rights-agency-stifling-us-scrutiny-of-workplace-bias.html?utm_source=lootura.com) — 2026-07-19T09:00:13.000Z

@@ -8,9 +8,14 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/white-house/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/white-house/index.json",
   "description": "Follow White House, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-18T16:55:42.019Z",
+  "updatedAt": "2026-07-19T16:56:33.807Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "Face the Nation: Hochul, Homan, Moynihan",
+      "summary": "Missed the second half of the show? New York Gov. Kathy Hochul, White House border czar Tom Homan and Bank of America CEO Brian Moynihan join the show.",
+      "date": "2026-07-19"
+    },
     {
       "title": "Trump says these documents prove his false claims of election fraud. Here's what they really say",
       "summary": "\"The White House promised a bombshell, and they delivered a dud,\" said David Becker, executive director of the Center for Election Innovation & Research.",
@@ -55,13 +60,15 @@
       "title": "Fact checking Trump speech on election security",
       "summary": "President Trump is delivering a speech on election security Thursday night at the White House.",
       "date": "2026-07-17"
-    },
-    {
-      "title": "How paper ballots make digital manipulation of results unlikely",
-      "summary": "NBC News’ Jane Timm analyzes President Trump’s claims about digital manipulation of ballot results in the U.S., as Trump said that the White House will declassify documents related to the 2020 election and alleged influence by China during his speech to the nation.",
-      "date": "2026-07-17"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Face the Nation: Hochul, Homan, Moynihan",
+      "url": "https://www.cbsnews.com/video/face-the-nation-hochul-homan-moynihan/?utm_source=lootura.com",
+      "publishedAt": "2026-07-19T16:14:07.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    }
+  ],
+  "evidenceCount": 1
 }

@@ -1,0 +1,29 @@
+{
+  "id": "es-san-sebasti",
+  "name": "San Sebasti",
+  "type": "place",
+  "locale": "es",
+  "canonicalPath": "/es/place/san-sebasti",
+  "canonicalUrl": "https://atlas.lootura.com/es/place/san-sebasti",
+  "markdownUrl": "https://atlas.lootura.com/es/place/san-sebasti/index.md",
+  "jsonUrl": "https://atlas.lootura.com/es/place/san-sebasti/index.json",
+  "description": "Sigue la actividad de San Sebasti en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
+  "updatedAt": "2026-07-19T16:56:12.315Z",
+  "aliases": [],
+  "changes": [
+    {
+      "title": "Discovered by Atlas",
+      "summary": "San Sebasti first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-07-18"
+    }
+  ],
+  "sources": [
+    {
+      "title": "La rebelión fracasa en Donostia pero la ciudad cae bajo un clima prebélico",
+      "url": "https://www.diariovasco.com/gipuzkoa/especial-alzamiento-militar-90-aniversario-julio-sangre-gipuzkoa-rebelion-san-sebastian-20260719102733-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-18T22:09:37.000Z",
+      "sourceId": "lootura-es-el-diario-vasco"
+    }
+  ],
+  "evidenceCount": 1
+}

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/new-york/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/new-york/index.json",
   "description": "Follow New York, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-19T13:12:59.144Z",
+  "updatedAt": "2026-07-19T16:56:33.807Z",
   "aliases": [
     "New York City"
   ],
@@ -19,6 +19,16 @@
       "date": "2026-07-19"
     },
     {
+      "title": "Black and Latino Leaders Ask: What Do Socialist Wins Mean for New York?",
+      "summary": "Longtime leaders and advocates in minority districts fear that victories by the Democratic Socialists of America in gentrifying neighborhoods could mean political erasure.",
+      "date": "2026-07-19"
+    },
+    {
+      "title": "Face the Nation: Hochul, Homan, Moynihan",
+      "summary": "Missed the second half of the show? New York Gov. Kathy Hochul, White House border czar Tom Homan and Bank of America CEO Brian Moynihan join the show.",
+      "date": "2026-07-19"
+    },
+    {
       "title": "Controversial program paying drug users for used syringes becomes permanent in NYC",
       "summary": "New York City is permanently bankrolling a program that pays people up to $10 a day for used syringes, a controversial effort critics argue puts taxpayer dollars into addicts' pockets rather than getting them treatment. The program, known as the Community Syringe Redemption Program, was quietly made permanent through M.",
       "date": "2026-07-19"
@@ -26,11 +36,6 @@
     {
       "title": "Knicks stars provide back up for WWE favorites in electric Saturday Night's Main Event at MSG",
       "summary": "WWE’s Saturday Night’s Main Event at Madison Square Garden featured a celebration of the New York Knicks and their championship run during the 2025-26 season. Knicks star Karl-Anthony Towns supported Danhausen in his no disqualification match against JD McDonagh. Towns provided some fierce backup for Danhausen and got.",
-      "date": "2026-07-19"
-    },
-    {
-      "title": "Black and Latino Leaders Ask: What Do Socialist Wins Mean for New York?",
-      "summary": "Longtime leaders and advocates in minority districts fear that victories by the Democratic Socialists of America in gentrifying neighborhoods could mean political erasure.",
       "date": "2026-07-19"
     },
     {
@@ -57,31 +62,20 @@
       "title": "Michelin-starred Chinese restaurant Yingtao modernizes family recipes",
       "summary": "Chef Emily Yuen is putting a modern twist on traditional family recipes from Xi'an, Shanghai and Hong Kong with Yingtao, a Michelin-starred Chinese restaurant in New York City.",
       "date": "2026-07-18"
-    },
-    {
-      "title": "Trump Threatens Canada With Tariffs for Wildfire Smoke Over U.S.",
-      "summary": "The president said on Friday in a social media post that Canada was failing to manage its wildfire response as smoke has blanketed U.S. cities including New York and Chicago.",
-      "date": "2026-07-18"
     }
   ],
   "sources": [
+    {
+      "title": "Face the Nation: Hochul, Homan, Moynihan",
+      "url": "https://www.cbsnews.com/video/face-the-nation-hochul-homan-moynihan/?utm_source=lootura.com",
+      "publishedAt": "2026-07-19T16:14:07.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
     {
       "title": "Healthcare costs associated with aging out of reach for many Americans",
       "url": "https://www.cbsnews.com/news/healthcare-costs-associated-with-aging-out-of-reach-for-many-americans/?utm_source=lootura.com",
       "publishedAt": "2026-07-19T01:59:16.000Z",
       "sourceId": "lootura-us-cbs-news"
-    },
-    {
-      "title": "Controversial program paying drug users for used syringes becomes permanent in NYC",
-      "url": "https://www.foxnews.com/politics/controversial-program-paying-drug-users-used-syringes-becomes-permanent-nyc?utm_source=lootura.com",
-      "publishedAt": "2026-07-19T12:11:51.000Z",
-      "sourceId": "lootura-us-fox-news"
-    },
-    {
-      "title": "Knicks stars provide back up for WWE favorites in electric Saturday Night's Main Event at MSG",
-      "url": "https://www.foxnews.com/sports/knicks-stars-backup-wwe-favorites-electric-saturday-nights-main-event-msg?utm_source=lootura.com",
-      "publishedAt": "2026-07-19T13:06:57.000Z",
-      "sourceId": "lootura-us-fox-news"
     },
     {
       "title": "Black and Latino Leaders Ask: What Do Socialist Wins Mean for New York?",
@@ -90,5 +84,5 @@
       "sourceId": "lootura-us-the-new-york-times"
     }
   ],
-  "evidenceCount": 4
+  "evidenceCount": 3
 }

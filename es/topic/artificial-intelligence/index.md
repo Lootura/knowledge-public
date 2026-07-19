@@ -3,7 +3,7 @@
 > Sigue la actividad de Artificial intelligence en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: topic
-- Actualizado: 2026-07-19T13:12:39.474Z
+- Actualizado: 2026-07-19T16:56:12.315Z
 - Canonical: https://atlas.lootura.com/es/topic/artificial-intelligence
 
 ## Cambios recientes
@@ -40,4 +40,4 @@ Date: 2026-07-10
 
 ## Fuentes
 
-- [La reconstrucción de un gol «perdido» de Pelé de 1959 mediante inteligencia artificial](http://www.microsiervos.com/archivo/ia/reconstruccion-gol-perdido-pele-ia.html?utm_source=lootura.com) — 2026-07-19T11:27:26.000Z
+- [En China se han puesto de moda las novias IA, y la realidad es que están destrozando el país](https://hipertextual.com/inteligencia-artificial/en-china-se-han-puesto-de-moda-las-novias-ia-y-la-realidad-es-que-estan-destrozando-el-pais/?utm_source=lootura.com) — 2026-07-19T15:00:00.000Z

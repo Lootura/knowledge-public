@@ -3,10 +3,16 @@
 > Follow Canada, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-19T13:12:59.144Z
+- Updated: 2026-07-19T16:56:33.807Z
 - Canonical: https://atlas.lootura.com/us/place/canada
 
 ## Recent changes
+
+### Are workplaces safer? Harassment and violence persist, survey finds
+
+A follow-up national survey developed by Western researchers shows workplace harassment and violence continue to be widespread in Canada, with some signs of improvement. The second national survey on harassment and violence at work in Canada was conducted by Western's Center for Research and Education on Violence Again.
+
+Date: 2026-07-19
 
 ### Wildfire smoke fouls air across Northeast
 
@@ -62,13 +68,7 @@ Heavy smoke from several large wildfires blazing in Canada and Minnesota is engu
 
 Date: 2026-07-18
 
-### Iqaluit, Canada’s Most Northern City, Gets Its First Bus Line
-
-Jacinto Marques left Angola for Canada’s frozen edge. Now he’s running a bus service in Iqaluit, the largest, and only city in Canada’s Arctic.
-
-Date: 2026-07-18
-
 ## Sources
 
-- [Wildfire smoke fouls air across Northeast](https://www.cbsnews.com/video/wildfire-smoke-fouls-air-across-northeast/?utm_source=lootura.com) — 2026-07-19T00:46:52.000Z
 - [Air quality improving in Northeast, while wildfire smoke hangs over Midwest](https://www.npr.org/2026/07/18/nx-s1-5899009/us-canada-wildfire-smoke?utm_source=lootura.com) — 2026-07-18T18:15:42.000Z
+- [Are workplaces safer? Harassment and violence persist, survey finds](https://phys.org/news/2026-07-workplaces-safer-violence-persist-survey.html?utm_source=lootura.com) — 2026-07-19T14:00:01.000Z
