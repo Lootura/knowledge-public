@@ -1,15 +1,15 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-19T13:17:32.705Z",
+  "generatedAt": "2026-07-19T14:39:55.266Z",
   "radar": {
     "id": "usa",
     "slug": "us",
     "locale": "en"
   },
   "state": {
-    "signature": "1.16.0|28|1784466779144",
+    "signature": "1.16.0|29|1784466779144",
     "version": "1.16.0",
-    "build": 28,
+    "build": 29,
     "latestEntityUpdatedAt": "2026-07-19T13:12:59.144Z"
   },
   "atlas": {
@@ -21,7 +21,7 @@
       "url": "https://atlas.lootura.com/us/person/donald-trump",
       "path": "/us/person/donald-trump",
       "updatedAt": "2026-07-19T13:12:59.144Z",
-      "score": 1563,
+      "score": 1560,
       "sourceCount": 263,
       "isBreaking": false,
       "isPinned": false
@@ -35,7 +35,7 @@
         "url": "https://atlas.lootura.com/us/place/united-states",
         "path": "/us/place/united-states",
         "updatedAt": "2026-07-19T13:12:59.144Z",
-        "score": 1563,
+        "score": 1560,
         "sourceCount": 281,
         "isBreaking": false,
         "isPinned": false
@@ -48,7 +48,7 @@
         "url": "https://atlas.lootura.com/us/place/new-york",
         "path": "/us/place/new-york",
         "updatedAt": "2026-07-19T13:12:59.144Z",
-        "score": 1556,
+        "score": 1553,
         "sourceCount": 39,
         "isBreaking": false,
         "isPinned": false
@@ -61,7 +61,7 @@
         "url": "https://atlas.lootura.com/us/place/canada",
         "path": "/us/place/canada",
         "updatedAt": "2026-07-19T13:12:59.144Z",
-        "score": 1553,
+        "score": 1547,
         "sourceCount": 32,
         "isBreaking": false,
         "isPinned": false
@@ -74,7 +74,7 @@
         "url": "https://atlas.lootura.com/us/place/ukraine",
         "path": "/us/place/ukraine",
         "updatedAt": "2026-07-19T13:12:59.144Z",
-        "score": 1528,
+        "score": 1523,
         "sourceCount": 49,
         "isBreaking": false,
         "isPinned": false
