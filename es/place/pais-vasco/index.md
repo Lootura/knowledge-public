@@ -3,10 +3,22 @@
 > Sigue la actividad de País Vasco en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-18T20:42:47.844Z
+- Actualizado: 2026-07-19T02:29:06.108Z
 - Canonical: https://atlas.lootura.com/es/place/pais-vasco
 
 ## Cambios recientes
+
+### El Hospital Donostia realiza una operación pionera en bebés con problemas en el riñón
+
+Opera por primera vez en Euskadi a lactantes para corregir el estrechamiento entre el uréter y el riñón con una técnica mínimamente invasiva.
+
+Date: 2026-07-18
+
+### El 8,5% de los trabajadores vascos concentra la mitad de todas las bajas médicas en Euskadi
+
+Un extenso informe de la Asociación de Mutuas española constata una «hiperconcentración» de las ausencias por IT en una pequeña porción de personas en el País Vasco.
+
+Date: 2026-07-18
 
 ### El retraso en la devolución de las fianzas de los alquileres en Euskadi obliga a Vivienda a pagar intereses
 
@@ -56,18 +68,7 @@ La reforma de Etxebide que ha iniciado hoy el Gobierno Vasco reservará el 30% d
 
 Date: 2026-07-09
 
-### El CES vasco advierte una caída a la mitad de la inversión extranjera en Euskadi
-
-El informe anual de 2025 destaca un buen comportamiento de la economía en el territorio aunque detecta problemas en el paro y la pobreza de la población inmigrante y una preocupación por la vivienda.
-
-Date: 2026-07-09
-
-### Discovered by Atlas
-
-País Vasco first entered the public knowledge record with source-backed evidence.
-
-Date: 2026-07-08
-
 ## Fuentes
 
-- [El retraso en la devolución de las fianzas de los alquileres en Euskadi obliga a Vivienda a pagar intereses](https://www.diariovasco.com/gipuzkoa/retraso-devolucion-fianzas-alquileres-euskadi-obliga-vivienda-20260718162115-nt_amp.html?utm_source=lootura.com) — 2026-07-17T22:00:34.000Z
+- [El Hospital Donostia realiza una operación pionera en bebés con problemas en el riñón](https://www.diariovasco.com/sociedad/salud/hospital-donostia-realiza-primera-laparoscopia-renal-lactantes-20260719172257-nt_amp.html?utm_source=lootura.com) — 2026-07-18T22:07:11.000Z
+- [El 8,5% de los trabajadores vascos concentra la mitad de todas las bajas médicas en Euskadi](https://www.diariovasco.com/economia/trabajo/trabajadores-vascos-concentra-mitad-bajas-medicas-euskadi-20260719002054-nt.html?utm_source=lootura.com) — 2026-07-18T22:20:54.000Z

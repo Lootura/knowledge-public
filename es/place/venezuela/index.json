@@ -8,9 +8,14 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/venezuela/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/venezuela/index.json",
   "description": "Sigue la actividad de Venezuela en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-18T06:02:46.495Z",
+  "updatedAt": "2026-07-19T02:29:06.108Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "El número de víctimas mortales por los terremotos en Venezuela asciende a 5.119",
+      "summary": "La cifra de fallecidos a causa del devastador doble terremoto que sacudió Venezuela el pasado 24 de junio ha alcanzado las 5.119 personas, tras confirmarse 50 nuevas muertes, según informó Jorge Rodríguez, presidente del Parlamento venezolano. Según EFE, el último informe difundido en Telegram detalla que el número de.",
+      "date": "2026-07-19"
+    },
     {
       "title": "Los muertos por el doble terremoto en Venezuela superan los 5.000",
       "summary": "La cifra de muertos por el doble terremoto del pasado 24 de junio en Venezuela ascendió el viernes a 5.069, tras sumarse 139 nuevos fallecimientos, informó el presidente del Parlamento, Jorge Rodríguez, quien también detalló que la cantidad de heridos se mantiene en 16.740. Las personas sin vivienda se mantienen en 17.",
@@ -55,13 +60,15 @@
       "title": "Nuevo balance de víctimas en Venezuela por el doble terremoto: 4.734 muertos",
       "summary": "La cifra de muertos por el doble terremoto ocurrido hace casi tres semanas en la zona norte de Venezuela ascendió este martes a 4.734, tras sumarse 173 nuevos fallecimientos, informó el presidente del Parlamento, el chavista Jorge Rodríguez. Las cifras de heridos y personas sin viviendas se mantienen en 16.740 y 17.907.",
       "date": "2026-07-14"
-    },
-    {
-      "title": "Félix Plasencia, el hombre que negoció el deshielo con Washington y ahora dirige la diplomacia venezolana",
-      "summary": "En febrero de este año, Félix Plasencia aterrizó en una capital donde Venezuela llevaba casi siete años sin representación oficial. Su encargo: reabrir los canales entre Caracas y Washington . En marzo lo consiguió. Ambos países retomaron relaciones . Este lunes, cinco meses después, lo llamaron de vuelta para dirigir.",
-      "date": "2026-07-14"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "El número de víctimas mortales por los terremotos en Venezuela asciende a 5.119",
+      "url": "https://theobjective.com/internacional/2026-07-19/el-numero-de-victimas-mortales-por-los-terremotos-en-venezuela-asciende-a-5-119/?utm_source=lootura.com",
+      "publishedAt": "2026-07-19T00:38:53.000Z",
+      "sourceId": "lootura-es-the-objective"
+    }
+  ],
+  "evidenceCount": 1
 }

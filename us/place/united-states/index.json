@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/united-states/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/united-states/index.json",
   "description": "Follow United States, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-18T20:43:07.014Z",
+  "updatedAt": "2026-07-19T02:29:26.490Z",
   "aliases": [
     "America",
     "Estados Unidos",
@@ -21,14 +21,9 @@
       "date": "2026-07-27"
     },
     {
-      "title": "AIPAC Closes Donor Portal to Democrats Who Voted to End Aid to Israel",
-      "summary": "The pro-Israel lobbying group appeared to be punishing Democrats it had endorsed for re-election after they voted in favor of an amendment that would have cut off U.S. aid to Israel.",
-      "date": "2026-07-18"
-    },
-    {
-      "title": "Trump Threatens Canada With Tariffs for Wildfire Smoke Over U.S.",
-      "summary": "The president said on Friday in a social media post that Canada was failing to manage its wildfire response as smoke has blanketed U.S. cities including New York and Chicago.",
-      "date": "2026-07-18"
+      "title": "The Tate brothers are arrested in Miami, U.S. Marshals Service tells AP",
+      "summary": "The brothers were taken into custody on a sealed warrant, the Marshals Service told the AP. British prosecutors said they were seeking the extradition of the brothers on rape and trafficking charges. (Image credit: Julia Demaree Nikhinson).",
+      "date": "2026-07-19"
     },
     {
       "title": "Russia Bill Broadens Sanctions but Could Fuel Fears Over the Dollar",
@@ -46,11 +41,6 @@
       "date": "2026-07-18"
     },
     {
-      "title": "Why is it so hard for the U.S. to win wars?",
-      "summary": "U.S. presidents have promised short, decisive wars in Afghanistan, Iraq and Iran. All have proved much more difficult than advertised and fallen far short of the political goals set at the beginning. (Image credit: Brennan Linsley).",
-      "date": "2026-07-18"
-    },
-    {
       "title": "The Evolution of Presidential Travel: Horse Carriages to Air Force One",
       "summary": "From horse-drawn presidential coaches to Air Force One, presidents have used various modes of transportation to project an image of America for nearly 250 years.",
       "date": "2026-07-18"
@@ -64,9 +54,25 @@
       "title": "Rhode Island fugitive captured after more than 20 years on the run",
       "summary": "One of Rhode Island’s “longest-wanted” fugitives was finally arrested this week after 21 years on the run, according to the U.S.",
       "date": "2026-07-18"
+    },
+    {
+      "title": "Wildfire smoke from Canada and Minnesota pushes farther into the U.S. and engulfs D.C. in haze",
+      "summary": "Warnings of dangerous conditions were expected to remain in effect through Saturday across a wide swath of the U.S., though there's potential for temporary improvement with storms forecast in some affected areas during the weekend.",
+      "date": "2026-07-18"
+    },
+    {
+      "title": "Iran says it is suspending commitments to interim deal with U.S. as they exchange attacks",
+      "summary": "The widening strikes threatened civilians and services to them, including desalination plants for drinking water, while the global economy again was on alert.",
+      "date": "2026-07-18"
     }
   ],
   "sources": [
+    {
+      "title": "2 U.S. service members killed, 1 missing after Iran strike on Jordan, military says",
+      "url": "https://www.cbsnews.com/news/iran-strike-jordan-us-troops-killed/?utm_source=lootura.com",
+      "publishedAt": "2026-07-19T02:26:33.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
     {
       "title": "The Uplift: The American Dream",
       "url": "https://www.cbsnews.com/video/the-uplift-the-american-dream/?utm_source=lootura.com",
@@ -98,22 +104,10 @@
       "sourceId": "lootura-us-nbc-news"
     },
     {
-      "title": "Two U.S. service members killed in Jordan and another is missing, military says",
-      "url": "https://www.nbcnews.com/world/middle-east/two-us-service-members-killed-jordan-another-missing-centom-says-rcna588181?utm_source=lootura.com",
-      "publishedAt": "2026-07-18T17:38:35.000Z",
-      "sourceId": "lootura-us-nbc-news"
-    },
-    {
-      "title": "Two U.S. service members killed, one missing in Jordan after Iranian strikes",
-      "url": "https://www.nbcnews.com/now/video/two-u-s-service-members-killed-one-missing-in-jordan-after-iranian-strikes-266888773566?utm_source=lootura.com",
-      "publishedAt": "2026-07-18T18:19:59.000Z",
-      "sourceId": "lootura-us-nbc-news"
-    },
-    {
-      "title": "Why is it so hard for the U.S. to win wars?",
-      "url": "https://www.npr.org/2026/07/18/g-s1-134037/why-is-it-so-hard-for-the-u-s-to-win-wars?utm_source=lootura.com",
-      "publishedAt": "2026-07-18T12:45:13.000Z",
-      "sourceId": "lootura-us-npr-world"
+      "title": "The Tate brothers are arrested in Miami, U.S. Marshals Service tells AP",
+      "url": "https://www.npr.org/2026/07/18/g-s1-134475/tate-brothers-arrested-miami?utm_source=lootura.com",
+      "publishedAt": "2026-07-19T00:57:08.000Z",
+      "sourceId": "lootura-us-npr"
     },
     {
       "title": "Wildfire smoke from Canada and Minnesota pushes farther into the U.S. and engulfs D.C. in haze",
@@ -126,7 +120,13 @@
       "url": "https://www.pbs.org/newshour/world/iran-says-it-is-suspending-commitments-to-interim-deal-with-u-s-as-they-exchange-attacks?utm_source=lootura.com",
       "publishedAt": "2026-07-18T15:34:19.000Z",
       "sourceId": "lootura-us-pbs-newshour"
+    },
+    {
+      "title": "U.S. military says 2 troops are dead and 1 is missing after Iran attacks a base in Jordan",
+      "url": "https://www.pbs.org/newshour/world/u-s-military-says-2-troops-are-dead-and-1-is-missing-after-iran-attacks-a-base-in-jordan?utm_source=lootura.com",
+      "publishedAt": "2026-07-18T15:34:19.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
     }
   ],
-  "evidenceCount": 21
+  "evidenceCount": 19
 }

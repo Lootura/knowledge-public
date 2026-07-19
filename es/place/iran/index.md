@@ -3,20 +3,38 @@
 > Sigue la actividad de Iran en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-18T20:42:47.844Z
+- Actualizado: 2026-07-19T02:29:06.108Z
 - Canonical: https://atlas.lootura.com/es/place/iran
 
 ## Cambios recientes
 
-### Mueren dos soldados de EE.UU. y uno permanece desaparecido tras un ataque iraní sobre Jordania
+### La crisis de precios de la gasolina lleva a los consumidores a repostar más de tres veces al mes
 
-Dos uniformados estadounidenses han muerto y un tercero permanece desaparecido después de ataques con misiles balísticos y drones lanzados por Irán contra una base en Jordania. Son las primeras bajas estadounidenses provocadas directamente por fuego iraní desde que Estados Unidos retomara los ataques este mes y elevan.
+La gasolina siempre ha sido un producto muy condicionado al precio; y este 2026 se ha visto impactado, además, por la crisis de costes de la guerra de Irán . Esta situación ha provocado que los consumidores hayan cambiado sus hábitos de repostaje. Ahora se va muchas más veces al surtidor, y se elige lugares donde haya.
 
-Date: 2026-07-18
+Date: 2026-07-19
+
+### Estados Unidos intensifica bombardeos aéreos contra Irán por octavo día seguido
+
+El Comando Central de las Fuerzas Armadas de Estados Unidos (Centcom) ha confirmado el inicio de una nueva serie de bombardeos aéreos sobre Irán, marcando.
+
+Date: 2026-07-19
 
 ### Irán mata a dos soldados de Estados Unidos en un ataque contra una base en Jordania
 
 Irán ha anunciado este sábado que deja en suspenso el acuerdo de alto el fuego firmado con Estados Unidos el pasado 17 de junio. “Hemos suspendido nuestros compromisos adquiridos en virtud del memorando de entendimiento y ya no los estamos implementando”, ha declarado el viceministro de Relaciones Exteriores iraní, Kaz.
+
+Date: 2026-07-18
+
+### EEUU ataca de nuevo Irán tras la muerte de dos militares estadounidenses en un ataque iraní en Jordania
+
+El líder supremo iraní lanza una amenaza, de nuevo por escrito, al decir que "la nación iraní y el frente de resistencia tienen lecciones inolvidables para EEUU" Leer.
+
+Date: 2026-07-18
+
+### Mueren dos soldados de EE.UU. y uno permanece desaparecido tras un ataque iraní sobre Jordania
+
+Dos uniformados estadounidenses han muerto y un tercero permanece desaparecido después de ataques con misiles balísticos y drones lanzados por Irán contra una base en Jordania. Son las primeras bajas estadounidenses provocadas directamente por fuego iraní desde que Estados Unidos retomara los ataques este mes y elevan.
 
 Date: 2026-07-18
 
@@ -50,25 +68,9 @@ El Ejército estadounidense destruyó una torre de vigilancia que Irán usaba pa
 
 Date: 2026-07-17
 
-### El primer portaviones nuclear de Estados Unidos camino al desguace y no tiene nada que ver con Irán
-
-La Armada de Estados Unidos ha adjudicado un contrato histórico de 418 millones de dólares para desguazar el USS Enterprise. La primera embarcación de su clase propulsada por energía nuclear será desmantelada.
-
-Date: 2026-07-17
-
-### Los economistas prevén que los alimentos suban hasta un 9 % en 2027 por la guerra en Irán y el clima extremo
-
-El encarecimiento de las materias primas por la guerra en Irán y el actual episodio de fenómenos meteorológicos extremos impulsarán el precio de los alimentos el año que viene , si bien es el segundo de estos dos factores el que más preocupa a los economistas. Tanto las previsiones del Banco Central Europeo (BCE) como.
-
-Date: 2026-07-17
-
-### Fragilidad en las Bolsas por la ola de ventas en tecnología y las tensiones con Irán
-
-Los precios del petróleo retoman las subidas a medida que se intensifican las hostilidades en Oriente Próximo y el tráfico marítimo se reduce drásticamente en el estrecho de Ormuz. La materia prima suma hoy casi un 1% hasta los 85 dólares el barril y acumula un alza del 12% durante la semana, lo que reaviva los temores.
-
-Date: 2026-07-17
-
 ## Fuentes
 
-- [Mueren dos soldados de EE.UU. y uno permanece desaparecido tras un ataque iraní sobre Jordania](https://www.abc.es/internacional/mueren-dos-militares-eeuu-tras-ataque-iran-20260718194249-nt.html?utm_source=lootura.com) — 2026-07-18T18:54:51.000Z
-- [Irán mata a dos soldados de Estados Unidos en un ataque contra una base en Jordania](https://elpais.com/internacional/2026-07-18/iran-deja-en-suspenso-la-tregua-con-estados-unidos-tras-acusarle-de-matar-a-50-personas-en-tres-semanas.html?utm_source=lootura.com) — 2026-07-18T18:19:16.000Z
+- [La crisis de precios de la gasolina lleva a los consumidores a repostar más de tres veces al mes](https://www.abc.es/economia/cuentas-corrientes/crisis-precios-gasolina-lleva-consumidores-repostar-tres-20260717010146-nt.html?utm_source=lootura.com) — 2026-07-19T00:22:25.000Z
+- [EEUU ataca de nuevo Irán tras la muerte de dos militares estadounidenses en un ataque iraní en Jordania](https://www.elmundo.es/internacional/2026/07/18/6a5b9252fdddff6f568b4582.html?utm_source=lootura.com) — 2026-07-18T19:08:29.000Z
+- [Irán mata a dos soldados de Estados Unidos en un ataque contra una base en Jordania](https://elpais.com/internacional/2026-07-18/iran-deja-en-suspenso-la-tregua-con-estados-unidos-tras-acusarle-de-matar-a-50-personas-en-tres-semanas.html?utm_source=lootura.com) — 2026-07-18T21:57:43.000Z
+- [Estados Unidos intensifica bombardeos aéreos contra Irán por octavo día seguido](https://theobjective.com/internacional/2026-07-19/estados-unidos-intensifica-bombardeos-aereos-contra-iran-por-octavo-dia-seguido/?amp=&utm_source=lootura.com) — 2026-07-19T00:39:11.000Z

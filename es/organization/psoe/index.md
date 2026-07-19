@@ -3,10 +3,22 @@
 > Sigue la actividad de Partido Socialista Obrero Español en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-18T20:42:47.844Z
+- Actualizado: 2026-07-19T02:29:06.108Z
 - Canonical: https://atlas.lootura.com/es/organization/psoe
 
 ## Cambios recientes
+
+### El PSOE de Madrid elige entre la continuidad de Reyes Maroto o volver a empezar con Enma López
+
+Los militantes del PSOE de Madrid están convocados a las urnas este domingo, para elegir en primarias a su candidata a la Alcaldía de la capital en la próxima cita electoral, el 23 de mayo de 2027. La actual portavoz socialista municipal, Reyes Maroto , se enfrentará a su portavoz adjunta en el ayuntamiento, Enma López.
+
+Date: 2026-07-19
+
+### Begoña Gómez, la última línea roja
+
+A Pedro Sánchez le quedan pocas líneas rojas que transgredir en política. Presentó una moción de censura contra el Partido Popular con solo 85 diputados, el peor resultado electoral que haya tenido el PSOE en democracia. Hasta ese momento, en España gobernaba el que ganaba en las urnas. Además, pactó, entre otros, con.
+
+Date: 2026-07-19
 
 ### El PSOE andaluz confirma a Montero, Espadas y Díaz como sus candidatos a senador
 
@@ -56,18 +68,7 @@ La directora general de la Guardia Civil, Mercedes González, ha declarado este 
 
 Date: 2026-07-17
 
-### El pelotazo de Cerdán era un piso de un millón por el que pagó arras y que enfadó a Antxon: "Encima ahora quieren un pisazo"
-
-La 'trama Koldo' intentó comprar un piso de un millón de euros para Santos Cerdán en Madrid. La UCO sostiene que el ex número 2 del PSOE y mano derecha de Pedro...
-
-Date: 2026-07-17
-
-### La UCO apunta a que la esposa de Cerdán cobró 1.300 euros mensuales de una empresa para la que no trabajaba
-
-El informe de la Unidad Central Operativa (UCO) de la Guardia Civil sobre el patrimonio del exsecretario de Organización del PSOE Santos Cerdán apunta a que una mercantil ligada al empresario Antxon Alonso, amigo del exdirigente socialista, estuvo pagando 1.300 euros al mes a Francisca Muñoz, esposa del dirigente socia.
-
-Date: 2026-07-17
-
 ## Fuentes
 
-- [Feijóo invoca una España "que se parezca más a su selección" y moviliza a sus alcaldes contra "el saqueo del PSOE"](https://amp.elmundo.es/espana/2026/07/18/6a5b7272e4d4d84e0b8b45a6.html?utm_source=lootura.com) — 2026-07-18T12:37:12.000Z
+- [El PSOE de Madrid elige entre la continuidad de Reyes Maroto o volver a empezar con Enma López](https://www.abc.es/espana/madrid/psoe-madrid-elige-continuidad-reyes-maroto-volver-20260718010325-nt.html?utm_source=lootura.com) — 2026-07-19T00:21:49.000Z
+- [Begoña Gómez, la última línea roja](https://www.larazon.es/espana/begona-gomez-ultima-linea-roja_202607196a5c233d0500ab412c9dd63a.html?utm_source=lootura.com) — 2026-07-19T01:07:09.000Z

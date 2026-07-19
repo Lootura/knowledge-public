@@ -8,11 +8,16 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/san-sebastian/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/san-sebastian/index.json",
   "description": "Sigue la actividad de San Sebastián en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-18T09:22:10.056Z",
+  "updatedAt": "2026-07-19T02:29:06.108Z",
   "aliases": [
     "Donostia"
   ],
   "changes": [
+    {
+      "title": "El Hospital Donostia realiza una operación pionera en bebés con problemas en el riñón",
+      "summary": "Opera por primera vez en Euskadi a lactantes para corregir el estrechamiento entre el uréter y el riñón con una técnica mínimamente invasiva.",
+      "date": "2026-07-18"
+    },
     {
       "title": "Cinco jóvenes investigados por insultar y agredir a un hombre con la camiseta de España en el paseo de La Concha de San Sebastián",
       "summary": "La víctima ha tenido que ser atendida en el cuarto de socorro, tras lo cual ha interpuesto una denuncia por lo ocurrido.",
@@ -57,13 +62,15 @@
       "title": "La Batalla de San Sebastián según su último combatiente",
       "summary": "Hasta su fallecimiento a los 110 años, Mateo Balbuena recordaba vívidamente los acontecimientos de julio de 1936.",
       "date": "2026-07-12"
-    },
-    {
-      "title": "Detenida la trabajadora de un hotel de Donostia tras robar en una habitación un reloj Rolex, unos pendientes de oro y una pulsera de diamantes",
-      "summary": "El hurto de los efectos valorados en 63.000 euros se ha producido este sábado y la Guardia Municipal de San Sebastián mantiene la investigación abierta.",
-      "date": "2026-07-12"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "El Hospital Donostia realiza una operación pionera en bebés con problemas en el riñón",
+      "url": "https://www.diariovasco.com/sociedad/salud/hospital-donostia-realiza-primera-laparoscopia-renal-lactantes-20260719172257-nt_amp.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-18T22:07:11.000Z",
+      "sourceId": "lootura-es-el-diario-vasco"
+    }
+  ],
+  "evidenceCount": 1
 }

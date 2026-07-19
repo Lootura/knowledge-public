@@ -8,9 +8,19 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/begona-gomez/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/begona-gomez/index.json",
   "description": "Sigue la actividad de Begoña Gómez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-18T09:22:10.056Z",
+  "updatedAt": "2026-07-19T02:29:06.108Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "Lo que la Audiencia de Madrid no ha cambiado: el juicio a Begoña Gómez se mantiene para antes de las generales",
+      "summary": "El cambio de acusados y delitos no implica que la vista llegue tras los comicios Leer.",
+      "date": "2026-07-19"
+    },
+    {
+      "title": "Begoña Gómez, la última línea roja",
+      "summary": "A Pedro Sánchez le quedan pocas líneas rojas que transgredir en política. Presentó una moción de censura contra el Partido Popular con solo 85 diputados, el peor resultado electoral que haya tenido el PSOE en democracia. Hasta ese momento, en España gobernaba el que ganaba en las urnas. Además, pactó, entre otros, con.",
+      "date": "2026-07-19"
+    },
     {
       "title": "Begoña Gómez de Kirchner",
       "summary": "La señora Gómez tendrá que ser juzgada como todo quisque, con la salvedad de que ella aprovechó (presuntamente) su condición de esposa del presidente del Gobierno para hacer negocios particulares, lo que no está al alcance de cualquiera. La lógica democrática —ese unicornio feliz que trota por nuestra mente ingenua— se.",
@@ -50,18 +60,21 @@
       "title": "Bolaños cree que la respuesta judicial al 'caso Begoña Gómez' no es adecuada ni contundente",
       "summary": "El ministro de la Presidencia, Justicia y Relaciones con las Cortes, Félix Bolaños, considera que no ha sido ni «adecuada» ni «contundente» la respuesta.",
       "date": "2026-07-17"
-    },
-    {
-      "title": "La condena de Urdangarín servirá para juzgar a Begoña Gómez por usar su «vínculo matrimonial» para dirigir la cátedra de la Complutense",
-      "summary": "La esposa de Pedro Sánchez se sentará en el banquillo de los acusados, a la vuelta del verano, por malversación y tráfico de influencias, tras prev...",
-      "date": "2026-07-17"
-    },
-    {
-      "title": "La Audiencia Provincial respalda la decisión de Peinado y descarta que sea «contraria a derecho»",
-      "summary": "La Audiencia Provincial de Madrid ha respaldado la decisión del juez Juan Carlos Peinado de enviar a Begoña Gómez al banquillo frente a un jurado popular, una «opción» que «no puede reputarse arbitraria ni contraria a Derecho, en la medida en que identifica los delitos que, de manera indiciaria, pudieran resultar aplic.",
-      "date": "2026-07-17"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Lo que la Audiencia de Madrid no ha cambiado: el juicio a Begoña Gómez se mantiene para antes de las generales",
+      "url": "https://www.elmundo.es/espana/2026/07/19/6a5bcabae9cf4acd6f8b45c8.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-19T01:08:29.000Z",
+      "sourceId": "lootura-es-el-mundo"
+    },
+    {
+      "title": "Begoña Gómez, la última línea roja",
+      "url": "https://www.larazon.es/espana/begona-gomez-ultima-linea-roja_202607196a5c233d0500ab412c9dd63a.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-19T01:07:09.000Z",
+      "sourceId": "lootura-es-la-razon"
+    }
+  ],
+  "evidenceCount": 2
 }

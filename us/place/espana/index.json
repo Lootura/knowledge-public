@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/espana/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/espana/index.json",
   "description": "Follow Spain, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-18T20:43:07.014Z",
+  "updatedAt": "2026-07-19T02:29:26.490Z",
   "aliases": [
     "Estado español",
     "Spain"
@@ -67,10 +67,10 @@
   ],
   "sources": [
     {
-      "title": "Wife of US heir and activist donor on fighting his extradition to US: ‘It’s incredible that this can happen’",
-      "url": "https://www.theguardian.com/us-news/2026/jul/18/fergie-chambers-stella-schnabel-spain-extradition?utm_source=lootura.com",
-      "publishedAt": "2026-07-18T11:00:04.000Z",
-      "sourceId": "lootura-us-the-guardian-us"
+      "title": "England beats France in instant classic to earn third place at 2026 FIFA World Cup",
+      "url": "https://www.foxnews.com/sports/england-wins-thriller-ages-france-claim-third-2026-fifa-world-cup?utm_source=lootura.com",
+      "publishedAt": "2026-07-19T00:11:36.000Z",
+      "sourceId": "lootura-us-fox-news"
     }
   ],
   "evidenceCount": 0

@@ -8,12 +8,22 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/pais-vasco/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/pais-vasco/index.json",
   "description": "Sigue la actividad de País Vasco en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-18T20:42:47.844Z",
+  "updatedAt": "2026-07-19T02:29:06.108Z",
   "aliases": [
     "Basque Country",
     "Euskadi"
   ],
   "changes": [
+    {
+      "title": "El Hospital Donostia realiza una operación pionera en bebés con problemas en el riñón",
+      "summary": "Opera por primera vez en Euskadi a lactantes para corregir el estrechamiento entre el uréter y el riñón con una técnica mínimamente invasiva.",
+      "date": "2026-07-18"
+    },
+    {
+      "title": "El 8,5% de los trabajadores vascos concentra la mitad de todas las bajas médicas en Euskadi",
+      "summary": "Un extenso informe de la Asociación de Mutuas española constata una «hiperconcentración» de las ausencias por IT en una pequeña porción de personas en el País Vasco.",
+      "date": "2026-07-18"
+    },
     {
       "title": "El retraso en la devolución de las fianzas de los alquileres en Euskadi obliga a Vivienda a pagar intereses",
       "summary": "El plazo se ha duplicado en un año, pasando de mes y medio a tres meses, y el Gobierno Vasco lo achaca a «problemas de personal».",
@@ -53,25 +63,21 @@
       "title": "Euskadi ampliará el acceso a una VPO a las clases medias lo que beneficiará a 13.000 guipuzcoanos",
       "summary": "La reforma de Etxebide que ha iniciado hoy el Gobierno Vasco reservará el 30% de viviendas a rentas medias con ingresos entre 20.000 y 46.000 euros.",
       "date": "2026-07-09"
-    },
-    {
-      "title": "El CES vasco advierte una caída a la mitad de la inversión extranjera en Euskadi",
-      "summary": "El informe anual de 2025 destaca un buen comportamiento de la economía en el territorio aunque detecta problemas en el paro y la pobreza de la población inmigrante y una preocupación por la vivienda.",
-      "date": "2026-07-09"
-    },
-    {
-      "title": "Discovered by Atlas",
-      "summary": "País Vasco first entered the public knowledge record with source-backed evidence.",
-      "date": "2026-07-08"
     }
   ],
   "sources": [
     {
-      "title": "El retraso en la devolución de las fianzas de los alquileres en Euskadi obliga a Vivienda a pagar intereses",
-      "url": "https://www.diariovasco.com/gipuzkoa/retraso-devolucion-fianzas-alquileres-euskadi-obliga-vivienda-20260718162115-nt_amp.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-17T22:00:34.000Z",
+      "title": "El Hospital Donostia realiza una operación pionera en bebés con problemas en el riñón",
+      "url": "https://www.diariovasco.com/sociedad/salud/hospital-donostia-realiza-primera-laparoscopia-renal-lactantes-20260719172257-nt_amp.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-18T22:07:11.000Z",
+      "sourceId": "lootura-es-el-diario-vasco"
+    },
+    {
+      "title": "El 8,5% de los trabajadores vascos concentra la mitad de todas las bajas médicas en Euskadi",
+      "url": "https://www.diariovasco.com/economia/trabajo/trabajadores-vascos-concentra-mitad-bajas-medicas-euskadi-20260719002054-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-18T22:20:54.000Z",
       "sourceId": "lootura-es-el-diario-vasco"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 2
 }

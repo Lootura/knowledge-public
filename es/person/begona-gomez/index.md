@@ -3,10 +3,22 @@
 > Sigue la actividad de Begoña Gómez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-18T09:22:10.056Z
+- Actualizado: 2026-07-19T02:29:06.108Z
 - Canonical: https://atlas.lootura.com/es/person/begona-gomez
 
 ## Cambios recientes
+
+### Lo que la Audiencia de Madrid no ha cambiado: el juicio a Begoña Gómez se mantiene para antes de las generales
+
+El cambio de acusados y delitos no implica que la vista llegue tras los comicios Leer.
+
+Date: 2026-07-19
+
+### Begoña Gómez, la última línea roja
+
+A Pedro Sánchez le quedan pocas líneas rojas que transgredir en política. Presentó una moción de censura contra el Partido Popular con solo 85 diputados, el peor resultado electoral que haya tenido el PSOE en democracia. Hasta ese momento, en España gobernaba el que ganaba en las urnas. Además, pactó, entre otros, con.
+
+Date: 2026-07-19
 
 ### Begoña Gómez de Kirchner
 
@@ -56,18 +68,7 @@ El ministro de la Presidencia, Justicia y Relaciones con las Cortes, Félix Bola
 
 Date: 2026-07-17
 
-### La condena de Urdangarín servirá para juzgar a Begoña Gómez por usar su «vínculo matrimonial» para dirigir la cátedra de la Complutense
-
-La esposa de Pedro Sánchez se sentará en el banquillo de los acusados, a la vuelta del verano, por malversación y tráfico de influencias, tras prev...
-
-Date: 2026-07-17
-
-### La Audiencia Provincial respalda la decisión de Peinado y descarta que sea «contraria a derecho»
-
-La Audiencia Provincial de Madrid ha respaldado la decisión del juez Juan Carlos Peinado de enviar a Begoña Gómez al banquillo frente a un jurado popular, una «opción» que «no puede reputarse arbitraria ni contraria a Derecho, en la medida en que identifica los delitos que, de manera indiciaria, pudieran resultar aplic.
-
-Date: 2026-07-17
-
 ## Fuentes
 
-No public source links.
+- [Lo que la Audiencia de Madrid no ha cambiado: el juicio a Begoña Gómez se mantiene para antes de las generales](https://www.elmundo.es/espana/2026/07/19/6a5bcabae9cf4acd6f8b45c8.html?utm_source=lootura.com) — 2026-07-19T01:08:29.000Z
+- [Begoña Gómez, la última línea roja](https://www.larazon.es/espana/begona-gomez-ultima-linea-roja_202607196a5c233d0500ab412c9dd63a.html?utm_source=lootura.com) — 2026-07-19T01:07:09.000Z

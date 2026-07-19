@@ -3,10 +3,22 @@
 > Sigue la actividad de Partido Popular en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-18T20:42:47.844Z
+- Actualizado: 2026-07-19T02:29:06.108Z
 - Canonical: https://atlas.lootura.com/es/organization/partido-popular
 
 ## Cambios recientes
+
+### Begoña Gómez, la última línea roja
+
+A Pedro Sánchez le quedan pocas líneas rojas que transgredir en política. Presentó una moción de censura contra el Partido Popular con solo 85 diputados, el peor resultado electoral que haya tenido el PSOE en democracia. Hasta ese momento, en España gobernaba el que ganaba en las urnas. Además, pactó, entre otros, con.
+
+Date: 2026-07-19
+
+### La última ocurrencia de los separatistas de Més en Palma: exigen redactar un plan municipal de espacios donde hay sombra
+
+La última ocurrencia de los separatistas de Més en Palma: exigen al Ayuntamiento gobernado en minoría por el alcalde del PP, Jaime Martínez, redactar un plan municipal de espacios y zonas donde hace sombra y elaborarlo en un plazo máximo de seis meses. En plena ola de calor, la formación culpa al PP de no desplegar nin.
+
+Date: 2026-07-19
 
 ### Los candidatos del PP a las alcaldías de Castilla y León apelan a la ambición y a la cercanía
 
@@ -56,19 +68,8 @@ El Govern que preside Marga Prohens admite que ya no tendrá tiempo de aprobar l
 
 Date: 2026-07-18
 
-### Feijóo pone a punto al PP y activa a sus candidatos para afrontar el ciclo electoral ante un posible adelanto
-
-En la batalla por llegar a la Moncloa cada voto cuenta y el presidente del Partido Popular, Alberto Núñez Feijóo , es consciente de ello. Por eso, está poniendo a punto el partido y activando a todos sus candidatos a ayuntamientos y autonomías de cara a una campaña permanente que se intensificará especialmente tras el.
-
-Date: 2026-07-18
-
-### El fondo de Pablo Casado pujará para mantener los Falcon
-
-Boost Air, la empresa de mantenimiento aeronáutico propiedad de Corporación Financiera Azuaga e Hyperion Fund -el fondo liderado por el exlíder del PP Pablo Casado-, pujará por...
-
-Date: 2026-07-17
-
 ## Fuentes
 
 - [Feijóo invoca una España "que se parezca más a su selección" y moviliza a sus alcaldes contra "el saqueo del PSOE"](https://amp.elmundo.es/espana/2026/07/18/6a5b7272e4d4d84e0b8b45a6.html?utm_source=lootura.com) — 2026-07-18T12:37:12.000Z
-- [Los candidatos del PP a las alcaldías de Castilla y León apelan a la ambición y a la cercanía](https://www.larazon.es/castilla-y-leon/candidatos-alcaldias-castilla-leon-apelan-ambicion-cercania_202607186a5bb49d1db8de040996591e.html?utm_source=lootura.com) — 2026-07-18T19:30:15.000Z
+- [Begoña Gómez, la última línea roja](https://www.larazon.es/espana/begona-gomez-ultima-linea-roja_202607196a5c233d0500ab412c9dd63a.html?utm_source=lootura.com) — 2026-07-19T01:07:09.000Z
+- [La última ocurrencia de los separatistas de Més en Palma: exigen redactar un plan municipal de espacios donde hay sombra](https://okdiario.com/baleares/ultima-ocurrencia-separatistas-mes-palma-exigen-redactar-plan-municipal-espacios-donde-hace-sombra-19017553?utm_source=lootura.com) — 2026-07-19T02:00:09.000Z

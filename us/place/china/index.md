@@ -3,10 +3,16 @@
 > Follow China, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-18T20:43:07.014Z
+- Updated: 2026-07-19T02:29:26.490Z
 - Canonical: https://atlas.lootura.com/us/place/china
 
 ## Recent changes
+
+### US politicians push agencies to restrict research collaboration with China
+
+Nature, Published online: 16 July 2026; doi:10.1038/d41586-026-02226-9 Republicans and Democrats worry about research theft and exploitation — but don’t agree on how to solve the problem.
+
+Date: 2026-07-19
 
 ### US politicians push agencies to restrict research collaboration with China
 
@@ -62,12 +68,6 @@ President Donald Trump addressed the nation from the White House, announcing tha
 
 Date: 2026-07-17
 
-### Trump speaks on elections, alleges Chinese access to voter data | Special Report
-
-President Trump on Thursday delivered a primetime address about election security where he railed against China. Tony Dokoupil anchored CBS News' special report.
-
-Date: 2026-07-17
-
 ## Sources
 
-- [US politicians push agencies to restrict research collaboration with China](https://www.nature.com/articles/d41586-026-02226-9?utm_source=lootura.com) — 2026-07-18T20:43:10.753Z
+- [US politicians push agencies to restrict research collaboration with China](https://www.nature.com/articles/d41586-026-02226-9?utm_source=lootura.com) — 2026-07-19T02:29:31.188Z

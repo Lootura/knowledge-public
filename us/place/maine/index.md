@@ -3,7 +3,7 @@
 > Follow Maine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-18T20:43:07.014Z
+- Updated: 2026-07-19T02:29:26.490Z
 - Canonical: https://atlas.lootura.com/us/place/maine
 
 ## Recent changes
@@ -14,15 +14,15 @@ Graham Platner’s campaign for Senate imploded last week. The activists who bac
 
 Date: 2026-07-18
 
-### ICE detention center employee arrested for shooting protester in Colorado
-
-A woman was shot while protesting outside of an ICE detention center in Aurora, Colorado, police say. The employee of a group operating the center faces assault and attempted second-degree murder charges in connection with the shooting. This comes after two fatal shootings by ICE agents in Maine and Texas.
-
-Date: 2026-07-18
-
 ### ICE officer in Maine shooting has history of violent behavior, relatives say
 
 The Immigration and Customs Enforcement officer who shot and killed a Colombian man in Maine this week is an Army veteran who has struggled with serious mental health issues since early childhood, relatives say.
+
+Date: 2026-07-18
+
+### ICE detention center employee arrested for shooting protester in Colorado
+
+A woman was shot while protesting outside of an ICE detention center in Aurora, Colorado, police say. The employee of a group operating the center faces assault and attempted second-degree murder charges in connection with the shooting. This comes after two fatal shootings by ICE agents in Maine and Texas.
 
 Date: 2026-07-18
 
@@ -70,6 +70,5 @@ Date: 2026-07-16
 
 ## Sources
 
-- [ICE detention center employee arrested for shooting protester in Colorado](https://www.cbsnews.com/video/ice-detention-center-employee-arrested-for-shooting-protester-in-colorado/?utm_source=lootura.com) — 2026-07-18T15:23:37.000Z
 - [ICE officer in Maine shooting has history of violent behavior, relatives say](https://www.cbsnews.com/news/ice-shooting-maine-officer-history-violent-behavior/?utm_source=lootura.com) — 2026-07-18T17:48:22.000Z
 - [Without Platner, Maine Democrats Scramble to Keep Grassroots Energy Alive](https://www.nytimes.com/2026/07/18/us/politics/platner-voters-maine-senate.html?utm_source=lootura.com) — 2026-07-18T09:02:12.000Z

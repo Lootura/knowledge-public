@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/maine/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/maine/index.json",
   "description": "Follow Maine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-18T20:43:07.014Z",
+  "updatedAt": "2026-07-19T02:29:26.490Z",
   "aliases": [],
   "changes": [
     {
@@ -17,13 +17,13 @@
       "date": "2026-07-18"
     },
     {
-      "title": "ICE detention center employee arrested for shooting protester in Colorado",
-      "summary": "A woman was shot while protesting outside of an ICE detention center in Aurora, Colorado, police say. The employee of a group operating the center faces assault and attempted second-degree murder charges in connection with the shooting. This comes after two fatal shootings by ICE agents in Maine and Texas.",
+      "title": "ICE officer in Maine shooting has history of violent behavior, relatives say",
+      "summary": "The Immigration and Customs Enforcement officer who shot and killed a Colombian man in Maine this week is an Army veteran who has struggled with serious mental health issues since early childhood, relatives say.",
       "date": "2026-07-18"
     },
     {
-      "title": "ICE officer in Maine shooting has history of violent behavior, relatives say",
-      "summary": "The Immigration and Customs Enforcement officer who shot and killed a Colombian man in Maine this week is an Army veteran who has struggled with serious mental health issues since early childhood, relatives say.",
+      "title": "ICE detention center employee arrested for shooting protester in Colorado",
+      "summary": "A woman was shot while protesting outside of an ICE detention center in Aurora, Colorado, police say. The employee of a group operating the center faces assault and attempted second-degree murder charges in connection with the shooting. This comes after two fatal shootings by ICE agents in Maine and Texas.",
       "date": "2026-07-18"
     },
     {
@@ -64,12 +64,6 @@
   ],
   "sources": [
     {
-      "title": "ICE detention center employee arrested for shooting protester in Colorado",
-      "url": "https://www.cbsnews.com/video/ice-detention-center-employee-arrested-for-shooting-protester-in-colorado/?utm_source=lootura.com",
-      "publishedAt": "2026-07-18T15:23:37.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
-    {
       "title": "ICE officer in Maine shooting has history of violent behavior, relatives say",
       "url": "https://www.cbsnews.com/news/ice-shooting-maine-officer-history-violent-behavior/?utm_source=lootura.com",
       "publishedAt": "2026-07-18T17:48:22.000Z",
@@ -82,5 +76,5 @@
       "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 2
 }

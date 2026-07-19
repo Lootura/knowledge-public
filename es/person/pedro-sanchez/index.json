@@ -8,11 +8,16 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/pedro-sanchez/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/pedro-sanchez/index.json",
   "description": "Sigue la actividad de Pedro Sánchez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-18T20:42:47.844Z",
+  "updatedAt": "2026-07-19T02:29:06.108Z",
   "aliases": [
     "Sánchez"
   ],
   "changes": [
+    {
+      "title": "Begoña Gómez, la última línea roja",
+      "summary": "A Pedro Sánchez le quedan pocas líneas rojas que transgredir en política. Presentó una moción de censura contra el Partido Popular con solo 85 diputados, el peor resultado electoral que haya tenido el PSOE en democracia. Hasta ese momento, en España gobernaba el que ganaba en las urnas. Además, pactó, entre otros, con.",
+      "date": "2026-07-19"
+    },
     {
       "title": "Ruido y furia entre políticos y jueces: cómo reparar la (maltrecha) justicia",
       "summary": "Vivimos días agitados en torno al funcionamiento del sistema judicial español. El Gobierno socialista denuncia una confabulación de un sector de la judicatura para derribar a Pedro Sánchez mientras la derecha sostiene que los jueces son los héroes que están poniendo freno a los desmanes del presidente. ¿Qué se puede ha.",
@@ -57,20 +62,27 @@
       "title": "Bruselas reprende a España por no reformar el sistema de elección del CGPJ pese a los múltiples requerimientos",
       "summary": "La Comisión Europea ha vuelto a instar al Gobierno de Pedro Sánchez a impulsar la reforma del sistema de elección del Consejo General del Poder Judicial , para que doce de sus vocales sean elegidos por los propios jueces. Se trata de una recomendación constante en los informes sobre el Estado de derecho que el órgano c.",
       "date": "2026-07-17"
-    },
-    {
-      "title": "La UE alerta sobre las contrataciones del Gobierno: «Sigue siendo un ámbito vulnerable a los riesgos de corrupción»",
-      "summary": "La Unión Europea ha alertado sobre las contrataciones públicas, que mayoritariamente son realizadas por el Gobierno de Pedro Sánchez . «Sigue siendo un ámbito vulnerable a los riesgos de corrupción», recoge el informe sobre el Estado de Derecho 2026 publicado este viernes por la Comisión Europea, en su capítulo dedicad.",
-      "date": "2026-07-17"
     }
   ],
   "sources": [
+    {
+      "title": "Emiliano García-Page: \"El modelo de financiación autonómica es un atentado grave contra la igualdad\"",
+      "url": "https://www.elmundo.es/espana/2026/07/18/6a5b74dbfc6c8317188b4585.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-18T20:57:47.000Z",
+      "sourceId": "lootura-es-el-mundo"
+    },
     {
       "title": "Ruido y furia entre políticos y jueces: cómo reparar la (maltrecha) justicia",
       "url": "https://elpais.com/ideas/2026-07-18/ruido-y-furia-entre-politicos-y-jueces-como-reparar-la-maltrecha-justicia.html?utm_source=lootura.com",
       "publishedAt": "2026-07-18T14:10:42.000Z",
       "sourceId": "lootura-es-el-pais"
+    },
+    {
+      "title": "Begoña Gómez, la última línea roja",
+      "url": "https://www.larazon.es/espana/begona-gomez-ultima-linea-roja_202607196a5c233d0500ab412c9dd63a.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-19T01:07:09.000Z",
+      "sourceId": "lootura-es-la-razon"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 2
 }

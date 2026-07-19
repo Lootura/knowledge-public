@@ -3,7 +3,7 @@
 > Follow Graham Platner, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-07-18T20:43:07.014Z
+- Updated: 2026-07-19T02:29:26.490Z
 - Canonical: https://atlas.lootura.com/us/person/graham-platner
 
 ## Recent changes
@@ -70,4 +70,5 @@ Date: 2026-07-14
 
 ## Sources
 
+- [Troy Jackson jumps out to big lead in race to replace Graham Platner in Maine](https://www.politico.com/news/2026/07/18/troy-jackson-maine-senate-platner-01004343?utm_source=lootura.com) — 2026-07-19T01:05:18.000Z
 - [Without Platner, Maine Democrats Scramble to Keep Grassroots Energy Alive](https://www.nytimes.com/2026/07/18/us/politics/platner-voters-maine-senate.html?utm_source=lootura.com) — 2026-07-18T09:02:12.000Z

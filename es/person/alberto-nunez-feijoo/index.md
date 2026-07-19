@@ -3,7 +3,7 @@
 > Sigue la actividad de Alberto Núñez Feijóo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-18T20:42:47.844Z
+- Actualizado: 2026-07-19T02:29:06.108Z
 - Canonical: https://atlas.lootura.com/es/person/alberto-nunez-feijoo
 
 ## Cambios recientes
@@ -71,4 +71,3 @@ Date: 2026-07-17
 ## Fuentes
 
 - [Feijóo invoca una España "que se parezca más a su selección" y moviliza a sus alcaldes contra "el saqueo del PSOE"](https://amp.elmundo.es/espana/2026/07/18/6a5b7272e4d4d84e0b8b45a6.html?utm_source=lootura.com) — 2026-07-18T12:37:12.000Z
-- [Los candidatos del PP a las alcaldías de Castilla y León apelan a la ambición y a la cercanía](https://www.larazon.es/castilla-y-leon/candidatos-alcaldias-castilla-leon-apelan-ambicion-cercania_202607186a5bb49d1db8de040996591e.html?utm_source=lootura.com) — 2026-07-18T19:30:15.000Z

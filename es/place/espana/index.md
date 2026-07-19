@@ -3,16 +3,34 @@
 > Sigue la actividad de España en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-18T20:42:47.844Z
+- Actualizado: 2026-07-19T02:29:06.108Z
 - Canonical: https://atlas.lootura.com/es/place/espana
 
 ## Cambios recientes
 
-### Los 7 cines de España en los que puedes ver ‘La Odisea’ tal y como Christopher Nolan quiere que lo hagas
+### ¿Cuánto tiempo hace falta que una obra se convierta en un clásico?
 
-Con el estreno en cines de La Odisea de Christopher Nolan , los cines de todo el mundo, España incluida, ya tiene programadas cientos y cientos de sesiones para las próximas semanas. Sin embargo, no todas las salas de cine son iguales. Y por eso, no siempre se verá la película de la misma manera. La variedad de formato.
+Crítica de danza Ballet Nacional de España Programa 'Flamenco-Rock-Andaluz' (Rafaela Carrasco / Jesús de la Rosa, Ángeles Toledano, Harto Rodríguez) y 'Medea' (José Granero, Manolo Sanlúcar, Miguel Narros) Iluminación Gloria Montesinos, Freddy Gerlache, Felipe Ramos Escenografía Andrea d'Odorico Vestuario Belén Quintan.
 
-Date: 2026-07-18
+Date: 2026-07-19
+
+### El eclipse del 12 de agosto llenará la España vacía: «No tenemos manera de gestionar esta avalancha de gente»
+
+En Bujalaro, pueblo dentro de lo que llaman ' la España vacía' , no llegan a la treintena de vecinos durante buena parte del año. Ahora, en julio, los parroquianos empiezan a multiplicarse con el éxodo al pueblo por vacaciones. En el Bar Moreno, una antigua peña atlética con trofeos de caza y antiguas imágenes de futbo.
+
+Date: 2026-07-19
+
+### Begoña Gómez, la última línea roja
+
+A Pedro Sánchez le quedan pocas líneas rojas que transgredir en política. Presentó una moción de censura contra el Partido Popular con solo 85 diputados, el peor resultado electoral que haya tenido el PSOE en democracia. Hasta ese momento, en España gobernaba el que ganaba en las urnas. Además, pactó, entre otros, con.
+
+Date: 2026-07-19
+
+### Farlin Condori se proclama campeón de España y sorprende con una pedida de mano tras el combate
+
+Farlin Condori se proclama campeón de España y sorprende con una pedida de mano tras el combate.
+
+Date: 2026-07-19
 
 ### Política y justicia, el cóctel explosivo que sacude España
 
@@ -44,37 +62,21 @@ Uncastillo, Orés, Asín, Luesia y Malpica de Arba muestran el impacto del mayor
 
 Date: 2026-07-18
 
-### Este es el país donde hablan 843 idiomas a pesar de tener una población más pequeña que España
+### En el búnker del fiscal que lleva 37 años escoltado por su lucha contra la mayor mafia del mundo: "España es de gran interés para nuestros capos"
 
-La diversidad lingüística no siempre guarda relación con el tamaño de un país. Papúa Nueva Guinea , con menos de 12 millones de habitantes, concentra 843 lenguas vivas , el mayor número del mundo y más del 10% de todas las registradas a nivel global. En el extremo contrario se sitúa Corea del Norte , donde solo se cont.
-
-Date: 2026-07-18
-
-### La guerra entró por la ventana y se quedó 40 años: recuerdos del niño al que perseguían las bombas
-
-“Yo tenía 10 años”, relata Nicolás Sánchez-Albornoz , “y estaba enfermo, en la cama. Vivíamos en la calle Ferraz, justo en la esquina de la plaza de España, y una parte daba al Cuartel de la Montaña. Cuando lo asaltaron, las barridas de las ametralladoras llegaron a las habitaciones de mis hermanas, que, afortunadament.
-
-Date: 2026-07-18
-
-### España, país en armas: cómo se contó la Guerra Civil en los noticieros de Estados Unidos
-
-El año nuevo arranca con el estreno de Tiempos modernos, la última cinta de Chaplin que refleja la mentalidad, la vida cotidiana y la precariedad de la sociedad industrial norteamericana. La magia del cine permite olvidar, dejar atrás la crisis y proyectar una nueva verdad al mundo. Minutos antes de comenzar la películ.
-
-Date: 2026-07-18
-
-### Feijóo vaticina que «las urnas serán también la sentencia» del sanchismo
-
-En la semana en que se ha conocido el tercer fallo judicial relacionado con los escándalos que afectan al Gobierno, Alberto Núñez Feijóo ha vaticinado que «las urnas también serán la sentencia» de un sanchismo «que ya ha sido condenado en todas sus formas de corrupción» y «España hará justicia, y a cada uno le impondrá.
+Nicola Gratteri, nacido en la cuna de la mafia 'Ndrangheta, vive en una cápsula de seguridad. En abril de 1989, meses antes de casarse, la vivienda de su prometida fue tiroteada. Luego, la llamaron para decirle: "Tu novio es un hombre muerto". Hoy, el fiscal antimafia de Nápoles sueña con darse un baño en el mar o pase.
 
 Date: 2026-07-18
 
 ## Fuentes
 
-- [Pasión argentina y sangre española, frente a frente en un debate de alta tensión: "Solo tengo miedo a Messi"](https://www.20minutos.es/deportes/pasion-argentina-sangre-espanola-frente-frente-un-debate-alta-tension-por-final-mundial-solo-tengo-miedo-messi_7015905_0.html?utm_source=lootura.com) — 2026-07-18T18:30:21.000Z
+- [El cuento infantil que «predijo» la final España-Argentina y sus 5 enseñanzas](https://www.abc.es/familia/educacion/cuento-infantil-predijo-final-espanaargentina-ensenanzas-20260719010235-nt.html?utm_source=lootura.com) — 2026-07-19T00:21:00.000Z
+- [¿Cuánto tiempo hace falta que una obra se convierta en un clásico?](https://www.abc.es/cultura/cultural/tiempo-falta-obra-convierta-clasico-20260718164537-nt.html?utm_source=lootura.com) — 2026-07-19T00:02:22.000Z
 - [El último vuelo a la segunda estrella de España](https://www.abc.es/espana/vuelo-ilusion-20260718210936-nt.html?utm_source=lootura.com) — 2026-07-18T19:49:35.000Z
+- [El eclipse del 12 de agosto llenará la España vacía: «No tenemos manera de gestionar esta avalancha de gente»](https://www.abc.es/ciencia/eclipse-agosto-llenara-espana-vaciada-necesitamos-promocion-20260714010735-nt.html?utm_source=lootura.com) — 2026-07-19T00:19:04.000Z
+- [En el búnker del fiscal que lleva 37 años escoltado por su lucha contra la mayor mafia del mundo: "España es de gran interés para nuestros capos"](https://www.elmundo.es/cronica/2026/07/18/6a5a6278e4d4d8ef548b4586.html?utm_source=lootura.com) — 2026-07-18T20:54:26.000Z
+- [La España de la generación sin miedo: "Saben competir, saben ganar y eso da cada vez más confianza"](https://www.elmundo.es/deportes/futbol/mundial-de-futbol/2026/07/19/6a5bc91de9cf4a27698b45b9.html?utm_source=lootura.com) — 2026-07-18T23:01:51.000Z
 - [Política y justicia, el cóctel explosivo que sacude España](https://elpais.com/espana/2026-07-18/politica-y-justicia-el-coctel-explosivo-que-sacude-espana.html?utm_source=lootura.com) — 2026-07-18T14:00:00.000Z
 - [En imágenes | Las huellas del incendio de las Cinco Villas](https://www.eldiario.es/aragon/sociedad/imagenes-huellas-incendio-cinco-villas_3_13390765.html?utm_source=lootura.com) — 2026-07-18T18:04:27.000Z
-- [Los 7 cines de España en los que puedes ver ‘La Odisea’ tal y como Christopher Nolan quiere que lo hagas](https://hipertextual.com/cine-television/los-7-cines-de-espana-en-los-que-puedes-ver-la-odisea-tal-y-como-christopher-nolan-quiere-que-lo-hagas/?utm_source=lootura.com) — 2026-07-18T12:00:00.000Z
 - [Incendios en España, en directo hoy: última hora de los fuegos activos, evolución y situación en Aragón, Castilla-La Mancha, Madrid y Andalucía](https://www.larazon.es/sociedad/incendios-espana-directo-hoy-ultima-hora-fuegos-activos-evolucion-situacion-aragon-castillala-mancha-madrid-andalucia-b50m_202607186a5aa5aee9f2e84b5c6ed5ba.html?utm_source=lootura.com) — 2026-07-18T20:26:06.000Z
-- [Este es el país donde hablan 843 idiomas a pesar de tener una población más pequeña que España](https://www.larazon.es/sociedad/este-pais-donde-hablan-843-idiomas-pesar-tener-poblacion-mas-pequena-que-espana-b50m_202607186a5bd7e10500ab412c9d7244.html?utm_source=lootura.com) — 2026-07-18T19:45:37.000Z
-- [España lidera la recuperación de las agencias de empleo y ETT en Europa](https://theobjective.com/economia/2026-07-18/espana-lidera-recuperacion-agencias-empleo-ett-europa/?utm_source=lootura.com) — 2026-07-18T14:18:09.000Z
+- [Begoña Gómez, la última línea roja](https://www.larazon.es/espana/begona-gomez-ultima-linea-roja_202607196a5c233d0500ab412c9dd63a.html?utm_source=lootura.com) — 2026-07-19T01:07:09.000Z

@@ -1,0 +1,36 @@
+{
+  "id": "es-emiliano-garcia-page",
+  "name": "Emiliano García-Page",
+  "type": "person",
+  "locale": "es",
+  "canonicalPath": "/es/person/emiliano-garcia-page",
+  "canonicalUrl": "https://atlas.lootura.com/es/person/emiliano-garcia-page",
+  "markdownUrl": "https://atlas.lootura.com/es/person/emiliano-garcia-page/index.md",
+  "jsonUrl": "https://atlas.lootura.com/es/person/emiliano-garcia-page/index.json",
+  "description": "Sigue la actividad de Emiliano García-Page en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
+  "updatedAt": "2026-07-19T02:29:06.108Z",
+  "aliases": [
+    "García-Page"
+  ],
+  "changes": [
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Emiliano García-Page first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-07-18"
+    },
+    {
+      "title": "García Page pide extremar las precauciones por el incendio en La Mierla y ya avisa: \"Nos quedan muchas horas, probablemente días\"",
+      "summary": "El incendio declarado el jueves en La Mierla , en la provincia de Guadalajara, no da tregua. Lo que comenzó arrasando 3.483 hectáreas ha escalado este sábado hasta las 5.400, con 12 municipios desalojados y cerca de 600 personas evacuadas. La consejera de Desarrollo Sostenible, Mercedes Gómez , confirmó desde el puesto.",
+      "date": "2026-07-18"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Emiliano García-Page: \"El modelo de financiación autonómica es un atentado grave contra la igualdad\"",
+      "url": "https://www.elmundo.es/espana/2026/07/18/6a5b74dbfc6c8317188b4585.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-18T20:57:47.000Z",
+      "sourceId": "lootura-es-el-mundo"
+    }
+  ],
+  "evidenceCount": 1
+}

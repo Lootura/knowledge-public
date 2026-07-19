@@ -3,10 +3,16 @@
 > Sigue la actividad de Venezuela en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-18T06:02:46.495Z
+- Actualizado: 2026-07-19T02:29:06.108Z
 - Canonical: https://atlas.lootura.com/es/place/venezuela
 
 ## Cambios recientes
+
+### El número de víctimas mortales por los terremotos en Venezuela asciende a 5.119
+
+La cifra de fallecidos a causa del devastador doble terremoto que sacudió Venezuela el pasado 24 de junio ha alcanzado las 5.119 personas, tras confirmarse 50 nuevas muertes, según informó Jorge Rodríguez, presidente del Parlamento venezolano. Según EFE, el último informe difundido en Telegram detalla que el número de.
+
+Date: 2026-07-19
 
 ### Los muertos por el doble terremoto en Venezuela superan los 5.000
 
@@ -62,12 +68,6 @@ La cifra de muertos por el doble terremoto ocurrido hace casi tres semanas en la
 
 Date: 2026-07-14
 
-### Félix Plasencia, el hombre que negoció el deshielo con Washington y ahora dirige la diplomacia venezolana
-
-En febrero de este año, Félix Plasencia aterrizó en una capital donde Venezuela llevaba casi siete años sin representación oficial. Su encargo: reabrir los canales entre Caracas y Washington . En marzo lo consiguió. Ambos países retomaron relaciones . Este lunes, cinco meses después, lo llamaron de vuelta para dirigir.
-
-Date: 2026-07-14
-
 ## Fuentes
 
-No public source links.
+- [El número de víctimas mortales por los terremotos en Venezuela asciende a 5.119](https://theobjective.com/internacional/2026-07-19/el-numero-de-victimas-mortales-por-los-terremotos-en-venezuela-asciende-a-5-119/?utm_source=lootura.com) — 2026-07-19T00:38:53.000Z

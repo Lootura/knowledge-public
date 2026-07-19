@@ -3,10 +3,16 @@
 > Sigue la actividad de Pedro Sánchez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-18T20:42:47.844Z
+- Actualizado: 2026-07-19T02:29:06.108Z
 - Canonical: https://atlas.lootura.com/es/person/pedro-sanchez
 
 ## Cambios recientes
+
+### Begoña Gómez, la última línea roja
+
+A Pedro Sánchez le quedan pocas líneas rojas que transgredir en política. Presentó una moción de censura contra el Partido Popular con solo 85 diputados, el peor resultado electoral que haya tenido el PSOE en democracia. Hasta ese momento, en España gobernaba el que ganaba en las urnas. Además, pactó, entre otros, con.
+
+Date: 2026-07-19
 
 ### Ruido y furia entre políticos y jueces: cómo reparar la (maltrecha) justicia
 
@@ -62,12 +68,8 @@ La Comisión Europea ha vuelto a instar al Gobierno de Pedro Sánchez a impulsar
 
 Date: 2026-07-17
 
-### La UE alerta sobre las contrataciones del Gobierno: «Sigue siendo un ámbito vulnerable a los riesgos de corrupción»
-
-La Unión Europea ha alertado sobre las contrataciones públicas, que mayoritariamente son realizadas por el Gobierno de Pedro Sánchez . «Sigue siendo un ámbito vulnerable a los riesgos de corrupción», recoge el informe sobre el Estado de Derecho 2026 publicado este viernes por la Comisión Europea, en su capítulo dedicad.
-
-Date: 2026-07-17
-
 ## Fuentes
 
+- [Emiliano García-Page: "El modelo de financiación autonómica es un atentado grave contra la igualdad"](https://www.elmundo.es/espana/2026/07/18/6a5b74dbfc6c8317188b4585.html?utm_source=lootura.com) — 2026-07-18T20:57:47.000Z
 - [Ruido y furia entre políticos y jueces: cómo reparar la (maltrecha) justicia](https://elpais.com/ideas/2026-07-18/ruido-y-furia-entre-politicos-y-jueces-como-reparar-la-maltrecha-justicia.html?utm_source=lootura.com) — 2026-07-18T14:10:42.000Z
+- [Begoña Gómez, la última línea roja](https://www.larazon.es/espana/begona-gomez-ultima-linea-roja_202607196a5c233d0500ab412c9dd63a.html?utm_source=lootura.com) — 2026-07-19T01:07:09.000Z

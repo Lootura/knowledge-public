@@ -3,7 +3,7 @@
 > Sigue la actividad de Nueva York en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-18T20:42:47.844Z
+- Actualizado: 2026-07-19T02:29:06.108Z
 - Canonical: https://atlas.lootura.com/es/person/nueva-york
 
 ## Cambios recientes
@@ -36,4 +36,3 @@ Date: 2026-07-17
 
 - [Trump ataca a Canadá por la mala calidad del aire que amenaza la final del Mundial en Nueva York](https://www.elmundo.es/deportes/futbol/mundial-de-futbol/2026/07/18/6a5b738821efa00f2d8b45a3.html?utm_source=lootura.com) — 2026-07-18T12:38:45.000Z
 - [Nueva York se enamora del fútbol… no se sabe por cuánto tiempo](https://elpais.com/deportes/mundial-futbol/2026-07-18/nueva-york-se-enamora-del-futbol-no-se-sabe-por-cuanto-tiempo.html?utm_source=lootura.com) — 2026-07-18T14:45:35.000Z
-- [Mamdani amenaza con detener a Netanyahu si pisa a Nueva York](https://www.larazon.es/internacional/mamdani-amenaza-detener-netanyahu-pisa-nueva-york_202607186a5bd45f0500ab412c9d6cdf.html?utm_source=lootura.com) — 2026-07-18T19:30:39.000Z

@@ -40,4 +40,4 @@ Date: 2026-07-18
 
 ## Fuentes
 
-- [Un joven muere y dos menores resultan gravemente heridos tras una reyerta en Madrid](https://theobjective.com/sociedad/suceso/2026-07-18/joven-muere-menores-heridos-reyerta-madrid/?utm_source=lootura.com) — 2026-07-18T11:41:49.000Z
+No public source links.

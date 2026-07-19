@@ -3,20 +3,26 @@
 > Sigue la actividad de El Gobierno en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-18T20:42:47.844Z
+- Actualizado: 2026-07-19T02:29:06.108Z
 - Canonical: https://atlas.lootura.com/es/organization/el-gobierno
 
 ## Cambios recientes
 
-### El Gobierno inicia el trámite para inhabilitar a la eléctrica Holaluz y traspasar sus clientes a otra compañía
+### «El Gobierno ha perdido una oportunidad histórica en Gibraltar»
 
-En la primavera de 2024 saltaron todas las alertas en Holaluz. La comercializadora fundada por la emprendedora Carlota Pi se configuró en la década pasada como una de las compañías eléctricas de tamaño medio capaz de competir con las grandes, pero todo se fue al traste. Y el último golpe ha llegado en plena ponzoña de.
+La colonia británica es una vieja conocida para Nicolás de la Parte. Su primer destino en la carrera diplomática fue en la Dirección General de Europa a cargo de los asuntos de Gibraltar entre 1987 y 1988, cuando se negociaba el acuerdo para el uso conjunto del aeropuerto que no llegó a término. En 2017 fue designado e.
 
-Date: 2026-07-18
+Date: 2026-07-19
 
 ### Ruido y furia entre políticos y jueces: cómo reparar la (maltrecha) justicia
 
 Vivimos días agitados en torno al funcionamiento del sistema judicial español. El Gobierno socialista denuncia una confabulación de un sector de la judicatura para derribar a Pedro Sánchez mientras la derecha sostiene que los jueces son los héroes que están poniendo freno a los desmanes del presidente. ¿Qué se puede ha.
+
+Date: 2026-07-18
+
+### El Gobierno inicia el trámite para inhabilitar a la eléctrica Holaluz y traspasar sus clientes a otra compañía
+
+En la primavera de 2024 saltaron todas las alertas en Holaluz. La comercializadora fundada por la emprendedora Carlota Pi se configuró en la década pasada como una de las compañías eléctricas de tamaño medio capaz de competir con las grandes, pero todo se fue al traste. Y el último golpe ha llegado en plena ponzoña de.
 
 Date: 2026-07-18
 
@@ -62,15 +68,7 @@ El ministro de la Presidencia, Justicia y Relaciones con las Cortes, Félix Bola
 
 Date: 2026-07-16
 
-### EE UU impone nuevos aranceles del 25% a gran parte de productos brasileños y acusa a Lula de no negociar “de buena fe”
-
-El Gobierno del presidente de Estados Unidos, Donald Trump, ha ordenado la imposición de un nuevo arancel del 25% sobre la mayor parte de productos brasileños importados desde este país, con fecha de aplicación a partir del 22 de julio. Es la conclusión de una investigación que acusaba a Brasil de competencia desleal.
-
-Date: 2026-07-16
-
 ## Fuentes
 
-- [El Gobierno inicia el trámite para inhabilitar a la eléctrica Holaluz y traspasar sus clientes a otra compañía](https://www.abc.es/economia/gobierno-inicia-tramite-inhabilitar-electrica-holaluz-traspasar-20260718175812-nt.html?utm_source=lootura.com) — 2026-07-18T15:58:12.000Z
 - [Ruido y furia entre políticos y jueces: cómo reparar la (maltrecha) justicia](https://elpais.com/ideas/2026-07-18/ruido-y-furia-entre-politicos-y-jueces-como-reparar-la-maltrecha-justicia.html?utm_source=lootura.com) — 2026-07-18T14:10:42.000Z
-- [20 millones de euros para 743 jóvenes que se han incorporado al campo en Castilla-La Mancha durante los últimos años](https://www.larazon.es/castilla-la-mancha/20-millones-euros-743-jovenes-han-incorporado-campo-castillala-mancha-ultimos-anos-b50m_202607186a5bacc8e9f2e84b5c70323f.html?outputType=amp&utm_source=lootura.com) — 2026-07-18T16:41:44.000Z
-- [El Gobierno le quita 309 millones a Educación para pagar los sueldos del Ministerio de Presidencia](https://okdiario.com/espana/gobierno-quita-309-millones-educacion-pagar-sueldos-del-ministerio-presidencia-19023584?utm_source=lootura.com) — 2026-07-18T20:07:06.000Z
+- [«El Gobierno ha perdido una oportunidad histórica en Gibraltar»](https://www.larazon.es/espana/gobierno-perdido-oportunidad-historica-gibraltar_202607196a5c2f240500ab412c9de40b.html?utm_source=lootura.com) — 2026-07-19T01:57:56.000Z

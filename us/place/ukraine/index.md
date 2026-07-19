@@ -3,16 +3,10 @@
 > Follow Ukraine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-18T20:43:07.014Z
+- Updated: 2026-07-19T02:29:26.490Z
 - Canonical: https://atlas.lootura.com/us/place/ukraine
 
 ## Recent changes
-
-### 8 killed and more than 60 wounded in Ukrainian drone attack on Russian regions
-
-Kyiv's forces are continuing their aerial campaign against energy infrastructure and military targets inside Russia, aiming to undermine Moscow's war effort. (Image credit: Moscow Region Governor Andrei Vo).
-
-Date: 2026-07-18
 
 ### Ukrainian drone attacks on Russia kill at least 9, injure over 60
 
@@ -23,6 +17,18 @@ Date: 2026-07-18
 ### Ukrainian drones hit warehouses and other sites across Russia, killing 9 and wounding over 60
 
 Kyiv's forces have pressed their relentless aerial campaign against energy infrastructure and military targets inside Russia, aiming to undermine Moscow's war effort and make Russians feel the consequences of the Kremlin's all-out invasion of Ukraine that is well into its fifth year.
+
+Date: 2026-07-18
+
+### Ukraine’s Top General Becomes a Target of Protesters’ Anger
+
+Demonstrators supporting Ukraine’s ousted defense minister have begun denouncing the commander he clashed with in office, Gen. Oleksandr Syrskyi.
+
+Date: 2026-07-18
+
+### 8 killed and more than 60 wounded in Ukrainian drone attack on Russian regions
+
+Kyiv's forces are continuing their aerial campaign against energy infrastructure and military targets inside Russia, aiming to undermine Moscow's war effort. (Image credit: Moscow Region Governor Andrei Vo).
 
 Date: 2026-07-18
 
@@ -62,14 +68,8 @@ From an underground parking garage, Ukraine’s newly dismissed defense minister
 
 Date: 2026-07-16
 
-### Ukrainians protest Zelenskyy's ouster of his popular defense minister
-
-President Volodymyr Zelenskyy shook up his wartime government, drawing thousands into the streets Thursday across Ukraine to protest the ouster of his youthful defense minister — seen as an innovator of the country's successful drone technology but who clashed with the traditional military establishment.
-
-Date: 2026-07-16
-
 ## Sources
 
 - [Ukrainian drone attacks on Russia kill at least 9, injure over 60](https://www.cbsnews.com/news/ukraine-russia-war-drone-attacks-wildberries/?utm_source=lootura.com) — 2026-07-18T16:12:37.000Z
-- [8 killed and more than 60 wounded in Ukrainian drone attack on Russian regions](https://www.npr.org/2026/07/18/nx-s1-5898963/8-killed-and-more-than-60-wounded-in-ukrainian-drone-attack-on-russian-regions?utm_source=lootura.com) — 2026-07-18T10:45:43.000Z
 - [Ukrainian drones hit warehouses and other sites across Russia, killing 9 and wounding over 60](https://www.pbs.org/newshour/world/ukrainian-drones-hit-warehouses-and-other-sites-across-russia-killing-9-and-wounding-over-60?utm_source=lootura.com) — 2026-07-18T17:21:36.000Z
+- [Ukraine’s Top General Becomes a Target of Protesters’ Anger](https://www.nytimes.com/2026/07/18/world/europe/ukraine-protests-general-syrskyi-fedorov.html?utm_source=lootura.com) — 2026-07-18T20:40:57.000Z

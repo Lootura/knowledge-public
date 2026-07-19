@@ -3,10 +3,16 @@
 > Sigue la actividad de Lionel Messi en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-18T20:42:47.844Z
+- Actualizado: 2026-07-19T02:29:06.108Z
 - Canonical: https://atlas.lootura.com/es/person/lionel-messi
 
 ## Cambios recientes
+
+### Inglaterra se lleva la medalla de bronce tras un festival de goles
+
+Los de Tuchel logran su mejor clasificación desde 1966 a costa de una Francia bochornosa en la primera parte y que tiró de orgullo para que Mbappé sume diez goles y supere en dos a Messi.
+
+Date: 2026-07-18
 
 ### Messi se pronuncia sobre su foto con Yamal de bebé: "Es una locura..."
 
@@ -58,4 +64,5 @@ Date: 2026-07-15
 
 ## Fuentes
 
-- [Pasión argentina y sangre española, frente a frente en un debate de alta tensión: "Solo tengo miedo a Messi"](https://www.20minutos.es/deportes/pasion-argentina-sangre-espanola-frente-frente-un-debate-alta-tension-por-final-mundial-solo-tengo-miedo-messi_7015905_0.html?utm_source=lootura.com) — 2026-07-18T18:30:21.000Z
+- [De Alella a Tenerife: 26 jugadores y once regiones en busca de la gloria](https://www.abc.es/deportes/futbol/mundial/espana-rincones-partido-segunda-estrella-20260716000623-nt.html?utm_source=lootura.com) — 2026-07-19T00:03:44.000Z
+- [Inglaterra se lleva la medalla de bronce tras un festival de goles](https://www.elcorreo.com/deportes/futbol/mundial/inglaterra-lleva-medalla-bronce-tras-festival-goles-20260718011119-ntrc_amp.html?utm_source=lootura.com) — 2026-07-18T23:11:19.000Z

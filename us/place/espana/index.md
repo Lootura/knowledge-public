@@ -3,7 +3,7 @@
 > Follow Spain, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-18T20:43:07.014Z
+- Updated: 2026-07-19T02:29:26.490Z
 - Canonical: https://atlas.lootura.com/us/place/espana
 
 ## Recent changes
@@ -70,4 +70,4 @@ Date: 2026-07-09
 
 ## Sources
 
-- [Wife of US heir and activist donor on fighting his extradition to US: ‘It’s incredible that this can happen’](https://www.theguardian.com/us-news/2026/jul/18/fergie-chambers-stella-schnabel-spain-extradition?utm_source=lootura.com) — 2026-07-18T11:00:04.000Z
+- [England beats France in instant classic to earn third place at 2026 FIFA World Cup](https://www.foxnews.com/sports/england-wins-thriller-ages-france-claim-third-2026-fifa-world-cup?utm_source=lootura.com) — 2026-07-19T00:11:36.000Z

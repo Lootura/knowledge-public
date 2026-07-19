@@ -3,7 +3,7 @@
 > Sigue la actividad de Canada en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-18T20:42:47.844Z
+- Actualizado: 2026-07-19T02:29:06.108Z
 - Canonical: https://atlas.lootura.com/es/place/canada
 
 ## Cambios recientes
@@ -22,4 +22,4 @@ Date: 2026-07-18
 
 ## Fuentes
 
-- [Francia e Inglaterra se juegan más que un tercer puesto: dos millones en disputa... ¿y la bota de oro?](https://www.20minutos.es/deportes/futbol/francia-inglaterra-mundial-2026-directo-marcador-goles-ultima-hora-duelo-por-tercer-cuarto-puesto_7016262_6.html?utm_source=lootura.com) — 2026-07-18T19:03:37.000Z
+- [Trump ataca a Canadá por la mala calidad del aire que amenaza la final del Mundial en Nueva York](https://www.elmundo.es/deportes/futbol/mundial-de-futbol/2026/07/18/6a5b738821efa00f2d8b45a3.html?utm_source=lootura.com) — 2026-07-18T12:38:45.000Z

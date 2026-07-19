@@ -3,10 +3,16 @@
 > Sigue la actividad de San Sebastián en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-18T09:22:10.056Z
+- Actualizado: 2026-07-19T02:29:06.108Z
 - Canonical: https://atlas.lootura.com/es/place/san-sebastian
 
 ## Cambios recientes
+
+### El Hospital Donostia realiza una operación pionera en bebés con problemas en el riñón
+
+Opera por primera vez en Euskadi a lactantes para corregir el estrechamiento entre el uréter y el riñón con una técnica mínimamente invasiva.
+
+Date: 2026-07-18
 
 ### Cinco jóvenes investigados por insultar y agredir a un hombre con la camiseta de España en el paseo de La Concha de San Sebastián
 
@@ -62,12 +68,6 @@ Hasta su fallecimiento a los 110 años, Mateo Balbuena recordaba vívidamente lo
 
 Date: 2026-07-12
 
-### Detenida la trabajadora de un hotel de Donostia tras robar en una habitación un reloj Rolex, unos pendientes de oro y una pulsera de diamantes
-
-El hurto de los efectos valorados en 63.000 euros se ha producido este sábado y la Guardia Municipal de San Sebastián mantiene la investigación abierta.
-
-Date: 2026-07-12
-
 ## Fuentes
 
-No public source links.
+- [El Hospital Donostia realiza una operación pionera en bebés con problemas en el riñón](https://www.diariovasco.com/sociedad/salud/hospital-donostia-realiza-primera-laparoscopia-renal-lactantes-20260719172257-nt_amp.html?utm_source=lootura.com) — 2026-07-18T22:07:11.000Z
