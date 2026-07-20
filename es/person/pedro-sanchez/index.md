@@ -3,7 +3,7 @@
 > Sigue la actividad de Pedro Sánchez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-20T10:49:30.114Z
+- Actualizado: 2026-07-20T14:00:22.171Z
 - Canonical: https://atlas.lootura.com/es/person/pedro-sanchez
 
 ## Cambios recientes
@@ -11,6 +11,18 @@
 ### Pedro Sánchez, Donald Trump y la diplomacia del palco
 
 Simpatías forzadas entre los presidentes ante la atenta mirada de Infantino y los Reyes de España Leer.
+
+Date: 2026-07-20
+
+### El juez del caso Leire Díez cita el 5 de agosto al exjefe de gabinete de Sánchez para el clonado de su móvil
+
+El juez de la Audiencia Nacional Santiago Pedraz , que dirige la investigación del denominado caso Leire Díez , ha citado el 5 de agosto a las 10.00 horas a Juan Manuel Serrano , exjefe de gabinete del presidente del Gobierno, Pedro Sánchez , y expresidente de Correos , para validar el clonado de su teléfono móvil. La.
+
+Date: 2026-07-20
+
+### Vox recurrirá la sentencia que absuelve al hermano de Sánchez de tráfico de influencias
+
+Vox ha anunciado este lunes que interpondrá un recurso de apelación ante el Tribunal Superior de Justicia de Extremadura contra la decisión de la Audiencia Provincial de Badajoz de absolver a David Sánchez , hermano del presidente del Gobierno, de un delito de tráfico de influencias . Así lo ha anunciado este lunes el.
 
 Date: 2026-07-20
 
@@ -56,18 +68,8 @@ El expresidente de la Generalitat y líder de Junts, Carles Puigdemont , ha cerr
 
 Date: 2026-07-19
 
-### Sánchez achaca los incendios de esta semana a la «emergencia climática»
-
-El presidente del Gobierno, Pedro Sánchez, ha advertido de que «negar la emergencia climática no hace que desaparezca», sino que «nos hace más vulnerables», al referirse al incendio de Guadalajara, que ha calcinado ya más de 13.000 hectáreas. Toda mi solidaridad con los vecinos y vecinas afectados por el incendio en Or.
-
-Date: 2026-07-19
-
-### La presión por la corrupción pasa de Transportes a Interior con Marlaska al frente
-
-La presión por los escándalos de corrupción que rodean al Gobierno de Pedro Sánchez salta al Ministerio del Interior después de la sentencia condenatoria del caso Mascarillas, que corroboró la trama delictiva montada en el seno de la cartera de Transportes cuando José Luis Ábalos estaba al frente de ésta junto a su lug.
-
-Date: 2026-07-19
-
 ## Fuentes
 
+- [El juez del caso Leire Díez cita el 5 de agosto al exjefe de gabinete de Sánchez para el clonado de su móvil](https://www.elconfidencial.com/espana/2026-07-20/caso-leire-diez-serrano-clonado-1tps_4392911/?utm_source=lootura.com) — 2026-07-20T12:41:00.000Z
 - [Pedro Sánchez, Donald Trump y la diplomacia del palco](https://www.elmundo.es/deportes/futbol/mundial-de-futbol/2026/07/20/6a5d4ed1e4d4d88d6c8b457a.html?utm_source=lootura.com) — 2026-07-20T06:32:20.000Z
+- [Vox recurrirá la sentencia que absuelve al hermano de Sánchez de tráfico de influencias](https://theobjective.com/espana/2026-07-20/vox-sentencia-absuelve-hermano-sanchez-trafico-influencias/?utm_source=lootura.com) — 2026-07-20T12:07:33.000Z

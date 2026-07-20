@@ -8,9 +8,19 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/russia/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/russia/index.json",
   "description": "Follow Russia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-20T03:18:08.226Z",
+  "updatedAt": "2026-07-20T14:00:46.863Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "What it's like inside Ukraine during a massive Russian ballistic missile attack",
+      "summary": "Russia targeted Kyiv, Ukraine, in one of its largest missile assaults of the war over the weekend, Ukrainian President Volodymyr Zelenskyy said. CBS News' Aidan Stretch has the latest from Kyiv.",
+      "date": "2026-07-20"
+    },
+    {
+      "title": "Putin meets North Korean foreign minister in diplomatic push",
+      "summary": "The visit by North Korean Foreign Minister Choe Son Hui comes without an obvious occasion, such as a multilateral diplomatic event or state anniversary, and has raised speculation that she may be coordinating a possible visit to Russia by North Korean leader Kim Jong Un. (Image credit: Alexander Shcherbak).",
+      "date": "2026-07-20"
+    },
     {
       "title": "Russia Batters Kyiv in One of the Largest Missile Assaults of the War",
       "summary": "On Saturday, Ukraine hit two warehouses in Russia in strikes that killed at least eight people and injured 62.",
@@ -50,18 +60,21 @@
       "title": "A Putin critic is convicted on charges that will keep him from campaigning for Russia's parliament",
       "summary": "The verdict underlined the determination by authorities to stamp out any remaining sign of dissent ahead of September's vote as the fuel crisis caused by Ukrainian strikes on oil facilities across Russia threatened to erode public support for the Kremlin.",
       "date": "2026-07-17"
-    },
-    {
-      "title": "Ukraine fights under an interim defense chief after Zelenskyy's contested government shake-up",
-      "summary": "Ukraine fought Russia's more than 4-year-old invasion under an interim defense minister Friday, a day after a government reshuffle exposed a deep split between the military's old guard and young innovators over how to fight the war.",
-      "date": "2026-07-17"
-    },
-    {
-      "title": "Pro-Kremlin blogger who turned on Putin is arrested as Russia steps up crackdown",
-      "summary": "A former loyalist blogger turned fierce critic of Russian President Vladimir Putin has been detained and accused of spreading false information about the armed forces, state media reported Friday.",
-      "date": "2026-07-17"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "What it's like inside Ukraine during a massive Russian ballistic missile attack",
+      "url": "https://www.cbsnews.com/video/what-its-like-inside-ukraine-during-a-massive-russian-ballistic-missile-attack/?utm_source=lootura.com",
+      "publishedAt": "2026-07-20T13:36:01.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
+    {
+      "title": "Putin meets North Korean foreign minister in diplomatic push",
+      "url": "https://www.npr.org/2026/07/20/g-s1-134555/putin-meets-north-korean-foreign-minister-in-diplomatic-push?utm_source=lootura.com",
+      "publishedAt": "2026-07-20T13:18:51.000Z",
+      "sourceId": "lootura-us-npr-world"
+    }
+  ],
+  "evidenceCount": 2
 }

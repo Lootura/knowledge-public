@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/donald-trump/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/donald-trump/index.json",
   "description": "Sigue la actividad de Donald Trump en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-20T10:49:30.114Z",
+  "updatedAt": "2026-07-20T14:00:22.171Z",
   "aliases": [
     "President Donald Trump",
     "President Trump",
@@ -67,6 +67,12 @@
     }
   ],
   "sources": [
+    {
+      "title": "Trump la lía: abucheos y 'photobomb' con la copa",
+      "url": "https://www.abc.es/deportes/futbol/mundial/trump-palco-20260719011524-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-20T13:03:11.000Z",
+      "sourceId": "lootura-es-abc"
+    },
     {
       "title": "Pedro Sánchez, Donald Trump y la diplomacia del palco",
       "url": "https://www.elmundo.es/deportes/futbol/mundial-de-futbol/2026/07/20/6a5d4ed1e4d4d88d6c8b457a.html?utm_source=lootura.com",

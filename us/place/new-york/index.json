@@ -8,11 +8,16 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/new-york/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/new-york/index.json",
   "description": "Follow New York, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-20T10:49:47.387Z",
+  "updatedAt": "2026-07-20T14:00:46.863Z",
   "aliases": [
     "New York City"
   ],
   "changes": [
+    {
+      "title": "Who speaks for the horses? New push seeks to ban Central Park’s carriages",
+      "summary": "A tourist’s death has boosted animal advocates’ drive to end a trade supporters say provides jobs and treats horses well New York city’s council chamber was packed, the debate wide-ranging and heated, but lacked one component – a talking horse. Many of the 200 people packed into the debating hall last week felt only th.",
+      "date": "2026-07-20"
+    },
     {
       "title": "Before Lettuce Felled Thousands, a Cilantro-Linked Cyclospora Outbreak Sickened New Yorkers",
       "summary": "New York City health officials shared details of how they traced a much smaller cyclosporiasis outbreak, showing the difficulty of tracing contamination.",
@@ -57,25 +62,14 @@
       "title": "Mamdani doubles down on democratic socialism while insisting Wall Street, business leaders can work with him",
       "summary": "New York City Democratic Mayor Zohran Mamdani is embracing his identity as a Democratic Socialist, arguing the movement represents a return to the Democratic Party's New Deal roots even as he insists Wall Street and corporate leaders have nothing to fear from his administration. In a wide-ranging interview with The New.",
       "date": "2026-07-19"
-    },
-    {
-      "title": "Zohran Mamdani Knows He Has Political Capital. And He Intends to Spend It.",
-      "summary": "Lulu Garcia-Navarro sits down for an interview with the mayor of New York City.",
-      "date": "2026-07-18"
     }
   ],
   "sources": [
     {
-      "title": "¡Se abre el telón! Argentina se prepara para el escenario de la gran final ante España en New York",
-      "url": "https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/se-abre-el-telon-argentina-se-prepara-para-el-escenario-de-la-gran-final-ante-espana-en-new-york-tmvo13205255?utm_source=lootura.com",
-      "publishedAt": "2026-07-19T18:42:58.000Z",
-      "sourceId": "lootura-us-nbc-news"
-    },
-    {
-      "title": "Before Lettuce Felled Thousands, a Cilantro-Linked Cyclospora Outbreak Sickened New Yorkers",
-      "url": "https://www.nytimes.com/2026/07/19/nyregion/cyclosporiasis-outbreak-nyc-testing.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-19T14:21:03.000Z",
-      "sourceId": "lootura-us-the-new-york-times"
+      "title": "Who speaks for the horses? New push seeks to ban Central Park’s carriages",
+      "url": "https://www.theguardian.com/us-news/2026/jul/20/horse-carriages-central-park-new-york?utm_source=lootura.com",
+      "publishedAt": "2026-07-20T11:00:02.000Z",
+      "sourceId": "lootura-us-the-guardian-us"
     }
   ],
   "evidenceCount": 1

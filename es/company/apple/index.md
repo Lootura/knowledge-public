@@ -70,5 +70,4 @@ Date: 2026-07-15
 
 ## Fuentes
 
-- [Apple no tiene miedo: acaba de subir el precio del iPhone en uno de sus mercados CLAVE](https://hipertextual.com/apple/apple-no-tiene-miedo-acaba-de-subir-el-precio-del-iphone-en-uno-de-sus-mercados-clave/?utm_source=lootura.com) — 2026-07-20T07:48:03.000Z
-- [Se filtra la alternativa de Xiaomi al iPhone Ultra y los Galaxy Z Fold 8: el Mix Fold 5 va a ser espectacular](https://hipertextual.com/mobile/se-filtra-la-alternativa-de-xiaomi-al-iphone-ultra-y-los-galaxy-z-fold-8-el-mix-fold-5-va-a-ser-espectacular/?utm_source=lootura.com) — 2026-07-20T07:32:48.000Z
+No public source links.

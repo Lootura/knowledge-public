@@ -3,7 +3,7 @@
 > Follow Air Force One, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-07-20T10:49:47.387Z
+- Updated: 2026-07-20T14:00:46.863Z
 - Canonical: https://atlas.lootura.com/us/person/air-force-one
 
 ## Recent changes
@@ -66,4 +66,3 @@ Date: 2026-07-15
 
 - [Trump says new Air Force One will be sent away for upgrades, amid security concerns](https://www.nbcnews.com/politics/politics-news/trump-air-force-one-maxed-out-security-qatar-gift-iran-threat-rcna588323?utm_source=lootura.com) — 2026-07-20T08:57:18.000Z
 - [Trump Says New Air Force One Will Be Taken Out of Service to Be ‘Maxed Out’](https://www.nytimes.com/2026/07/19/us/politics/trump-air-force-modifications.html?utm_source=lootura.com) — 2026-07-20T04:06:04.000Z
-- [The Evolution of Presidential Travel: Horse Carriages to Air Force One](https://www.nytimes.com/2026/07/18/us/politics/trump-air-force-one-travel.html?utm_source=lootura.com) — 2026-07-19T15:55:59.000Z

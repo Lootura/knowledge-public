@@ -3,10 +3,16 @@
 > Sigue la actividad de Correos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-13T10:57:59.389Z
+- Actualizado: 2026-07-20T14:00:22.171Z
 - Canonical: https://atlas.lootura.com/es/organization/correos
 
 ## Cambios recientes
+
+### El juez del caso Leire Díez cita el 5 de agosto al exjefe de gabinete de Sánchez para el clonado de su móvil
+
+El juez de la Audiencia Nacional Santiago Pedraz , que dirige la investigación del denominado caso Leire Díez , ha citado el 5 de agosto a las 10.00 horas a Juan Manuel Serrano , exjefe de gabinete del presidente del Gobierno, Pedro Sánchez , y expresidente de Correos , para validar el clonado de su teléfono móvil. La.
+
+Date: 2026-07-20
 
 ### Quién es Juan Manuel Serrano: así es la discreta vida personal del expresidente de Correos junto a su mujer, Isaura Leal (PSOE)
 
@@ -62,12 +68,6 @@ La UCO descubre cómo en su etapa de presidente de Correos hacía llegar dinero 
 
 Date: 2026-07-09
 
-### La UCO implica al expresidente de Correos en la trama para “desestabilizar” causas que salpicaban al PSOE y al Gobierno
-
-La Unidad Central Operativa (UCO) de la Guardia Civil ha enviado un nuevo informe al juez Santiago Pedraz, instructor del caso Leire Díez en la Audiencia Nacional, que implica a Juan Manuel Serrano, expresidente de Correos, en las presuntas “tramas” urdidas para el amaño de contratos públicos y para “desestabilizar” pr.
-
-Date: 2026-07-09
-
 ## Fuentes
 
-No public source links.
+- [El juez del caso Leire Díez cita el 5 de agosto al exjefe de gabinete de Sánchez para el clonado de su móvil](https://www.elconfidencial.com/espana/2026-07-20/caso-leire-diez-serrano-clonado-1tps_4392911/?utm_source=lootura.com) — 2026-07-20T12:41:00.000Z

@@ -58,4 +58,4 @@ Date: 2026-07-08
 
 ## Sources
 
-- [Trump, Rubio and a Zombie State In Venezuela](https://time.com/article/2026/07/20/trump-rubio-rodriguez-earthquake-venezuela/?utm_source=lootura.com) — 2026-07-20T10:00:00.000Z
+No public source links.

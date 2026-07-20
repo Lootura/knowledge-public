@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/pedro-sanchez/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/pedro-sanchez/index.json",
   "description": "Sigue la actividad de Pedro Sánchez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-20T10:49:30.114Z",
+  "updatedAt": "2026-07-20T14:00:22.171Z",
   "aliases": [
     "Sánchez"
   ],
@@ -16,6 +16,16 @@
     {
       "title": "Pedro Sánchez, Donald Trump y la diplomacia del palco",
       "summary": "Simpatías forzadas entre los presidentes ante la atenta mirada de Infantino y los Reyes de España Leer.",
+      "date": "2026-07-20"
+    },
+    {
+      "title": "El juez del caso Leire Díez cita el 5 de agosto al exjefe de gabinete de Sánchez para el clonado de su móvil",
+      "summary": "El juez de la Audiencia Nacional Santiago Pedraz , que dirige la investigación del denominado caso Leire Díez , ha citado el 5 de agosto a las 10.00 horas a Juan Manuel Serrano , exjefe de gabinete del presidente del Gobierno, Pedro Sánchez , y expresidente de Correos , para validar el clonado de su teléfono móvil. La.",
+      "date": "2026-07-20"
+    },
+    {
+      "title": "Vox recurrirá la sentencia que absuelve al hermano de Sánchez de tráfico de influencias",
+      "summary": "Vox ha anunciado este lunes que interpondrá un recurso de apelación ante el Tribunal Superior de Justicia de Extremadura contra la decisión de la Audiencia Provincial de Badajoz de absolver a David Sánchez , hermano del presidente del Gobierno, de un delito de tráfico de influencias . Así lo ha anunciado este lunes el.",
       "date": "2026-07-20"
     },
     {
@@ -52,25 +62,27 @@
       "title": "Puigdemont no apoyará los Presupuestos de Sánchez: \"Madrid recibe una sobreinversión que multiplica la de los catalanes\"",
       "summary": "El expresidente de la Generalitat y líder de Junts, Carles Puigdemont , ha cerrado este domingo la puerta a respaldar unos futuros Presupuestos Generales del Estado mientras el Gobierno de Pedro Sánchez no revierta lo que considera un trato discriminatorio hacia Cataluña en materia de inversión pública. El dirigente in.",
       "date": "2026-07-19"
-    },
-    {
-      "title": "Sánchez achaca los incendios de esta semana a la «emergencia climática»",
-      "summary": "El presidente del Gobierno, Pedro Sánchez, ha advertido de que «negar la emergencia climática no hace que desaparezca», sino que «nos hace más vulnerables», al referirse al incendio de Guadalajara, que ha calcinado ya más de 13.000 hectáreas. Toda mi solidaridad con los vecinos y vecinas afectados por el incendio en Or.",
-      "date": "2026-07-19"
-    },
-    {
-      "title": "La presión por la corrupción pasa de Transportes a Interior con Marlaska al frente",
-      "summary": "La presión por los escándalos de corrupción que rodean al Gobierno de Pedro Sánchez salta al Ministerio del Interior después de la sentencia condenatoria del caso Mascarillas, que corroboró la trama delictiva montada en el seno de la cartera de Transportes cuando José Luis Ábalos estaba al frente de ésta junto a su lug.",
-      "date": "2026-07-19"
     }
   ],
   "sources": [
+    {
+      "title": "El juez del caso Leire Díez cita el 5 de agosto al exjefe de gabinete de Sánchez para el clonado de su móvil",
+      "url": "https://www.elconfidencial.com/espana/2026-07-20/caso-leire-diez-serrano-clonado-1tps_4392911/?utm_source=lootura.com",
+      "publishedAt": "2026-07-20T12:41:00.000Z",
+      "sourceId": "lootura-es-el-confidencial"
+    },
     {
       "title": "Pedro Sánchez, Donald Trump y la diplomacia del palco",
       "url": "https://www.elmundo.es/deportes/futbol/mundial-de-futbol/2026/07/20/6a5d4ed1e4d4d88d6c8b457a.html?utm_source=lootura.com",
       "publishedAt": "2026-07-20T06:32:20.000Z",
       "sourceId": "lootura-es-el-mundo"
+    },
+    {
+      "title": "Vox recurrirá la sentencia que absuelve al hermano de Sánchez de tráfico de influencias",
+      "url": "https://theobjective.com/espana/2026-07-20/vox-sentencia-absuelve-hermano-sanchez-trafico-influencias/?utm_source=lootura.com",
+      "publishedAt": "2026-07-20T12:07:33.000Z",
+      "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 3
 }

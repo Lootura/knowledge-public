@@ -3,7 +3,7 @@
 > Sigue la actividad de Lamine Yamal en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-20T10:49:30.114Z
+- Actualizado: 2026-07-20T14:00:22.171Z
 - Canonical: https://atlas.lootura.com/es/person/lamine-yamal
 
 ## Cambios recientes
@@ -32,18 +32,6 @@ Las redes sociales se han inundado con la recordada imagen de Leo Messi junto a 
 
 Date: 2026-07-16
 
-### Lamine Yamal, una cuestión de genios y de magos: “Es diferente al resto. Tiene algo especial”
-
-Fue en Múnich, hace poco más de dos años, cuando Europa conoció a un chaval llamado Lamine Yamal. Era la semifinal de la Eurocopa 2024 y todavía no había cumplido 17. Interpretó, sin embargo, cómo lastimar a su rival: “Me di cuenta de que Francia tenía un problema en el medio, dejaban ahí a gente suelta”. Se instaló en.
-
-Date: 2026-07-14
-
-### Lamine Yamal responde a Rajoy: "Francia y nosotros somos ejemplo de integración"
-
-El líder de la selección española, de padres migrantes, corrige al expresidente del Gobierno y reivindica la riqueza de ambas selecciones horas antes de su enfrentamiento en semifinales El ministro de Exteriores francés carga contra Rajoy: “Es una estupidez, racismo o una combinación de ambas cosas” Lamine Yamal es hij.
-
-Date: 2026-07-14
-
 ### Albares, a Rajoy: "Señalar por el color de la piel quién puede ser ciudadano o quién no encubre cosas muy peligrosas"
 
 El ministro de Exteriores ha cargado contra el "veneno del racismo y la xenofobia" y ha defendido el fútbol como vehículo de diversidad y tolerancia Lamine Yamal responde a Rajoy: “Francia y nosotros somos ejemplo de integración” El ministro de Asuntos Exteriores, José Manuel Albares, ha criticado las declaraciones rac.
@@ -68,7 +56,18 @@ Lamine Yamal first entered the public knowledge record with source-backed eviden
 
 Date: 2026-07-10
 
+### Lamine Yamal: “Si a alguien debe temer Francia es a nosotros”
+
+Entre la pizarra de Luis de la Fuente y el olfato goleador de Mikel Merino , aparece la gambeta de Lamine Yamal. De nuevo elegido el mejor jugador del duelo ante Bélgica ayer. El canterano del Barcelona no necesitó ni marcar ni asistir para llevarse el trofeo individual. “Estoy muy contento por la victoria. Quiero marc.
+
+Date: 2026-07-10
+
+### Tatuajes que son pecado: Lamine Yamal no es el único que no se los hace por su fe
+
+El islam censura estos adornos corporales, aunque no está solo en esta postura. Otros credos también lo hacen...
+
+Date: 2026-07-08
+
 ## Fuentes
 
-- [Los mejores momentos de Keyne, el hermano de Lamine Yamal que se ha convertido en el talismán](https://www.abc.es/gente/mejores-momentos-keyne-hermano-lamine-yamal-convertido-20260720121005-nt.html?utm_source=lootura.com) — 2026-07-20T10:10:05.000Z
-- [Lamine emula a Pelé y niega a Messi](https://elpais.com/deportes/mundial-futbol/2026-07-19/lamine-emula-a-pele-y-niega-a-messi.html?utm_source=lootura.com) — 2026-07-19T23:08:16.000Z
+- [Ni Lamine Yamal pudo eclipsarla: la divertida anécdota de su abuela durante la final del Mundial](https://okdiario.com/cool/famosos/ni-lamine-yamal-pudo-eclipsarla-divertida-anecdota-abuela-durante-final-del-mundial-19033003?utm_source=lootura.com) — 2026-07-20T13:36:14.000Z

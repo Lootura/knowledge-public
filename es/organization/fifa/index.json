@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/fifa/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/fifa/index.json",
   "description": "Sigue la actividad de FIFA en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-20T10:49:30.114Z",
+  "updatedAt": "2026-07-20T14:00:22.171Z",
   "aliases": [],
   "changes": [
     {
@@ -34,10 +34,10 @@
   ],
   "sources": [
     {
-      "title": "España conquista el Mundial más rentable de la historia: la FIFA bate récord de ingresos",
-      "url": "https://cincodias.elpais.com/companias/2026-07-20/espana-conquista-el-mundial-mas-rentable-de-la-historia-la-fifa-bate-record-de-ingresos.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-20T08:13:04.000Z",
-      "sourceId": "lootura-es-cinco-dias"
+      "title": "Cuánto gana España por la victoria en el Mundial: el dinero que se embolsará cada jugador",
+      "url": "https://www.eldiario.es/spin/deportes/gana-espana-victoria-mundial-dinero-embolsara-jugador-pm_1_13392818.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-20T10:00:19.000Z",
+      "sourceId": "lootura-es-eldiario-es"
     }
   ],
   "evidenceCount": 0

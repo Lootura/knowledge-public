@@ -3,7 +3,7 @@
 > Follow Ukraine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-20T10:49:47.387Z
+- Updated: 2026-07-20T14:00:46.863Z
 - Canonical: https://atlas.lootura.com/us/place/ukraine
 
 ## Recent changes
@@ -17,6 +17,12 @@ Date: 2026-07-20
 ### Zelensky Faces Pressure to Remove Ukraine’s Top General
 
 Demonstrators and many soldiers want President Volodymyr Zelensky to reaffirm the vision of drone warfare laid out by the defense minister he fired last week.
+
+Date: 2026-07-20
+
+### What it's like inside Ukraine during a massive Russian ballistic missile attack
+
+Russia targeted Kyiv, Ukraine, in one of its largest missile assaults of the war over the weekend, Ukrainian President Volodymyr Zelenskyy said. CBS News' Aidan Stretch has the latest from Kyiv.
 
 Date: 2026-07-20
 
@@ -62,13 +68,8 @@ Demonstrators supporting Ukraine’s ousted defense minister have begun denounci
 
 Date: 2026-07-18
 
-### 8 killed and more than 60 wounded in Ukrainian drone attack on Russian regions
-
-Kyiv's forces are continuing their aerial campaign against energy infrastructure and military targets inside Russia, aiming to undermine Moscow's war effort. (Image credit: Moscow Region Governor Andrei Vo).
-
-Date: 2026-07-18
-
 ## Sources
 
-- [Ukraine War Momentum Helps Spur Interest in Postwar Investment](https://www.nytimes.com/2026/07/20/world/europe/ukraine-post-war-reconstruction.html?utm_source=lootura.com) — 2026-07-20T08:55:02.000Z
-- [Zelensky Faces Pressure to Remove Ukraine’s Top General](https://www.nytimes.com/2026/07/20/world/europe/ukraine-zelensky-general-defense-minister.html?utm_source=lootura.com) — 2026-07-20T10:42:04.000Z
+- [What it's like inside Ukraine during a massive Russian ballistic missile attack](https://www.cbsnews.com/video/what-its-like-inside-ukraine-during-a-massive-russian-ballistic-missile-attack/?utm_source=lootura.com) — 2026-07-20T13:36:01.000Z
+- [Ukraine War Momentum Helps Spur Interest in Postwar Investment](https://www.nytimes.com/2026/07/20/world/europe/ukraine-post-war-reconstruction.html?utm_source=lootura.com) — 2026-07-20T13:37:51.000Z
+- [Zelensky Faces Pressure to Remove Ukraine’s Top General](https://www.nytimes.com/2026/07/20/world/europe/ukraine-zelensky-general-defense-minister.html?utm_source=lootura.com) — 2026-07-20T12:11:09.000Z

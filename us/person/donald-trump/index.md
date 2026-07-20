@@ -3,7 +3,7 @@
 > Follow Donald Trump, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-07-20T10:49:47.387Z
+- Updated: 2026-07-20T14:00:46.863Z
 - Canonical: https://atlas.lootura.com/us/person/donald-trump
 
 ## Recent changes
@@ -14,15 +14,27 @@ A U.S. service member was killed in Iraq on Saturday, CENTCOM announced. Separat
 
 Date: 2026-07-20
 
-### Steve Forbes urges Trump to keep the Strait of Hormuz open at all costs
-
-Steve Forbes says the United States must double down on efforts to topple the Tehran regime, arguing that free passage through the Strait of Hormuz should remain a non-negotiable American imperative. As the U.S. struck targets in Iran for a ninth consecutive day on Sunday, pressure on the Tehran regime continued to bui.
-
-Date: 2026-07-20
-
 ### Trump says new Air Force One will be sent away for upgrades, amid security concerns
 
 President Trump said the Air Force One plane that was donated by Qatar will be sent away for upgrades, amid swirling concerns about its security features.
+
+Date: 2026-07-20
+
+### ‘Complete shock and dismay’: scientists unite against Trump’s $1tn grant attack
+
+OMB proposal would upend entire grant-making system – and put vast sums into hands of political appointees It was a late Friday afternoon in Boston when Harvard School of Public Health professor Nancy Krieger, a social epidemiologist, received an email that would reshape the next year of her life. It was from the Natio.
+
+Date: 2026-07-20
+
+### North Sea Drilling Offers First Test for Burnham’s Relationship With Trump
+
+Andy Burnham has not yet met President Trump, but the two men will be expected to speak shortly after Mr. Burnham becomes prime minister.
+
+Date: 2026-07-20
+
+### Steve Forbes urges Trump to keep the Strait of Hormuz open at all costs
+
+Steve Forbes says the United States must double down on efforts to topple the Tehran regime, arguing that free passage through the Strait of Hormuz should remain a non-negotiable American imperative. As the U.S. struck targets in Iran for a ninth consecutive day on Sunday, pressure on the Tehran regime continued to bui.
 
 Date: 2026-07-20
 
@@ -56,22 +68,9 @@ NPR's Ayesha Rascoe talks with Gabriel Sterling, of the Georgia Secretary of Sta
 
 Date: 2026-07-19
 
-### Trump said the election system is broken. What do swing voters make of the claim?
-
-What did some swing state voters think of President Trump's primetime speech on elections?
-
-Date: 2026-07-19
-
-### Politics chat: How much faith can you have in the country's election systems?
-
-President Trump and Secretary of Homeland Security Markwayne Mullin make claims about the vulnerability of election systems in the U.S., but how true are those claims?
-
-Date: 2026-07-19
-
 ## Sources
 
 - [U.S. soldier killed in Iraq, Trump orders more strikes against Iran](https://www.cbsnews.com/video/us-soldier-killed-in-iraq-trump-orders-more-strikes-against-iran/?utm_source=lootura.com) — 2026-07-20T00:50:00.000Z
-- [Steve Forbes urges Trump to keep the Strait of Hormuz open at all costs](https://www.foxnews.com/world/steve-forbes-urges-trump-keep-strait-hormuz-open-all-costs?utm_source=lootura.com) — 2026-07-20T10:39:53.000Z
 - [Trump says new Air Force One will be sent away for upgrades, amid security concerns](https://www.nbcnews.com/politics/politics-news/trump-air-force-one-maxed-out-security-qatar-gift-iran-threat-rcna588323?utm_source=lootura.com) — 2026-07-20T08:57:18.000Z
-- [Trump could ‘do something positive’ rather than fixate on 2020 loss, Fetterman says](https://www.theguardian.com/us-news/2026/jul/20/fetterman-trump-fixation-2020-loss?utm_source=lootura.com) — 2026-07-20T09:00:51.000Z
-- [What to Know About the Tate Brothers’ Arrest](https://time.com/article/2026/07/20/andrew-tristan-tate-brothers-arrest-uk-extradition-trump-rubio/?utm_source=lootura.com) — 2026-07-20T10:00:42.000Z
+- [‘Complete shock and dismay’: scientists unite against Trump’s $1tn grant attack](https://www.theguardian.com/us-news/2026/jul/20/trump-grant-funding-attack-scientists?utm_source=lootura.com) — 2026-07-20T11:00:02.000Z
+- [North Sea Drilling Offers First Test for Burnham’s Relationship With Trump](https://www.nytimes.com/2026/07/20/world/europe/burnham-trump-uk-us-relationship-north-sea-oil.html?utm_source=lootura.com) — 2026-07-20T09:32:27.000Z

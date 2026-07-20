@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/troy-jackson/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/troy-jackson/index.json",
   "description": "Follow Troy Jackson, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-20T10:49:47.387Z",
+  "updatedAt": "2026-07-20T14:00:46.863Z",
   "aliases": [],
   "changes": [
     {
@@ -29,6 +29,11 @@
     {
       "title": "5 Things to Know About the Maine Senate Candidate Troy Jackson",
       "summary": "Mr. Jackson, who has emerged as the clear front-runner to replace Graham Platner, is a Republican turned Democrat who is seen as close to Mr. Platner on policy.",
+      "date": "2026-07-20"
+    },
+    {
+      "title": "Maine Democratic Senate race narrows as candidates rally behind Troy Jackson",
+      "summary": "The crowded Maine Senate race to replace Graham Platner has narrowed as Democrats rallied around former state Senate President Troy Jackson in the leadup to the party's nominating convention on Saturday.",
       "date": "2026-07-20"
     },
     {
@@ -55,25 +60,14 @@
       "title": "In Maine Senate Race, Jackson Sprints Ahead of Pack, as Bellows Drops Out",
       "summary": "Troy Jackson, a progressive, solidified his edge over his rivals in an abbreviated nominating contest to replace Graham Platner. Shenna Bellows, another candidate, bowed out.",
       "date": "2026-07-19"
-    },
-    {
-      "title": "Platner-ally Troy Jackson closing in on Democratic Senate nod in key race to face Collins",
-      "summary": "Former Maine Senate President Troy Jackson appears to be sprinting far ahead of his rivals in the abbreviated race to replace now ex-candidate Graham Platner as the Democratic Senate nominee in the high-stakes showdown to face off with longtime Republican Sen. Susan Collins. Delegates aligned with Jackson won the vast.",
-      "date": "2026-07-19"
     }
   ],
   "sources": [
     {
-      "title": "Troy Jackson has effectively secured the Maine Senate Democratic nomination",
-      "url": "https://www.politico.com/news/2026/07/19/troy-jackson-likely-maine-senate-nominee-platner-01004490?utm_source=lootura.com",
-      "publishedAt": "2026-07-19T17:55:37.000Z",
-      "sourceId": "lootura-us-politico"
-    },
-    {
-      "title": "Maine Democrat Shenna Bellows drops out of race to replace Graham Platner",
-      "url": "https://www.politico.com/news/2026/07/19/shenna-bellows-drops-out-maine-senate-01004452?utm_source=lootura.com",
-      "publishedAt": "2026-07-19T15:56:06.000Z",
-      "sourceId": "lootura-us-politico"
+      "title": "Maine Democratic Senate race narrows as candidates rally behind Troy Jackson",
+      "url": "https://www.cbsnews.com/news/maine-senate-democrats-troy-jackson-graham-platner/?utm_source=lootura.com",
+      "publishedAt": "2026-07-20T13:41:54.000Z",
+      "sourceId": "lootura-us-cbs-news"
     },
     {
       "title": "In Maine Senate Race, Jackson Sprints Ahead of Pack, as Bellows Drops Out",
@@ -100,5 +94,5 @@
       "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 6
+  "evidenceCount": 5
 }

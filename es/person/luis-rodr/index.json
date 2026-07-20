@@ -1,0 +1,29 @@
+{
+  "id": "es-luis-rodr",
+  "name": "Luis Rodr",
+  "type": "person",
+  "locale": "es",
+  "canonicalPath": "/es/person/luis-rodr",
+  "canonicalUrl": "https://atlas.lootura.com/es/person/luis-rodr",
+  "markdownUrl": "https://atlas.lootura.com/es/person/luis-rodr/index.md",
+  "jsonUrl": "https://atlas.lootura.com/es/person/luis-rodr/index.json",
+  "description": "Sigue la actividad de Luis Rodr en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
+  "updatedAt": "2026-07-20T14:00:22.171Z",
+  "aliases": [],
+  "changes": [
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Luis Rodr first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-07-20"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Plus Ultra y Julito Martínez envían escritos al juez confesando las mediaciones de Zapatero en el rescate de la aerolínea",
+      "url": "https://www.abc.es/espana/plus-ultra-julito-martinez-envian-escritos-juez-20260720142541-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-20T13:23:10.000Z",
+      "sourceId": "lootura-es-abc"
+    }
+  ],
+  "evidenceCount": 1
+}

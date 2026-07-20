@@ -3,7 +3,7 @@
 > Sigue la actividad de Lionel Messi en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-20T10:49:30.114Z
+- Actualizado: 2026-07-20T14:00:22.171Z
 - Canonical: https://atlas.lootura.com/es/person/lionel-messi
 
 ## Cambios recientes
@@ -70,6 +70,4 @@ Date: 2026-07-16
 
 ## Fuentes
 
-- [Recorrido del autobús en la celebración de España que acabará en Cibeles: horario y puntos claves en Madrid](https://www.20minutos.es/madrid/recorrido-autobus-celebracion-espana-tras-ganar-mundial-que-terminara-cibeles-horario-puntos-claves_7016640_0.html?utm_source=lootura.com) — 2026-07-20T09:33:12.000Z
-- [Messi dice adiós entre lágrimas en una Argentina impotente y furiosa: "Tenemos que ser grandes en la derrota"](https://www.elmundo.es/deportes/futbol/mundial-de-futbol/2026/07/20/6a5d169bfc6c83a9138b4582.html?utm_source=lootura.com) — 2026-07-19T22:41:51.000Z
-- [Lamine emula a Pelé y niega a Messi](https://elpais.com/deportes/mundial-futbol/2026-07-19/lamine-emula-a-pele-y-niega-a-messi.html?utm_source=lootura.com) — 2026-07-19T23:08:16.000Z
+- [La camiseta de las dos estrellas de España se podrá comprar en agosto](https://www.abc.es/summum/estilo/moda/camiseta-dos-estrellas-espana-podra-comprar-agosto-20260720104333-nt.html?utm_source=lootura.com) — 2026-07-20T13:04:06.000Z

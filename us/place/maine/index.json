@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/maine/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/maine/index.json",
   "description": "Follow Maine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-20T10:49:47.387Z",
+  "updatedAt": "2026-07-20T14:00:46.863Z",
   "aliases": [],
   "changes": [
     {
@@ -37,6 +37,11 @@
       "date": "2026-07-20"
     },
     {
+      "title": "Maine Democratic Senate race narrows as candidates rally behind Troy Jackson",
+      "summary": "The crowded Maine Senate race to replace Graham Platner has narrowed as Democrats rallied around former state Senate President Troy Jackson in the leadup to the party's nominating convention on Saturday.",
+      "date": "2026-07-20"
+    },
+    {
       "title": "Maine Democrat Shenna Bellows drops out of race to replace Graham Platner",
       "summary": "SANFORD, Maine — Maine Secretary of State Shenna Bellows ended her Senate campaign on Sunday, further clearing the path for rival Troy Jackson as he consolidates support in a fast-moving Democratic nomination contest. \"This has been an unprecedented nominating process, compressed into days instead of months, and I'm gr.",
       "date": "2026-07-19"
@@ -55,14 +60,15 @@
       "title": "Homan says \"I think body cameras are the way to go\" after ICE shootings",
       "summary": "White House border czar Tom Homan said \"I think body cameras are the way to go\" after fatal shootings by federal immigration officers in Texas and Maine earlier this month.",
       "date": "2026-07-19"
-    },
-    {
-      "title": "In Maine, Troy Jackson Gains Momentum in Bid to Replace Platner",
-      "summary": "Troy Jackson, a progressive former State Senate president, showed signs of significant strength, as half the state’s counties picked delegates to a convention where they will choose Graham Platner’s replacement.",
-      "date": "2026-07-19"
     }
   ],
   "sources": [
+    {
+      "title": "Maine Democratic Senate race narrows as candidates rally behind Troy Jackson",
+      "url": "https://www.cbsnews.com/news/maine-senate-democrats-troy-jackson-graham-platner/?utm_source=lootura.com",
+      "publishedAt": "2026-07-20T13:41:54.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
     {
       "title": "Maine Democrats close in on pick to replace Senate candidate Graham Platner",
       "url": "https://www.npr.org/2026/07/20/nx-s1-5897456/maine-democrats-close-in-on-pick-to-replace-senate-candidate-graham-platner?utm_source=lootura.com",
@@ -70,27 +76,9 @@
       "sourceId": "lootura-us-npr-politics"
     },
     {
-      "title": "Troy Jackson has effectively secured the Maine Senate Democratic nomination",
-      "url": "https://www.politico.com/news/2026/07/19/troy-jackson-likely-maine-senate-nominee-platner-01004490?utm_source=lootura.com",
-      "publishedAt": "2026-07-19T17:55:37.000Z",
-      "sourceId": "lootura-us-politico"
-    },
-    {
-      "title": "Maine Democrat Shenna Bellows drops out of race to replace Graham Platner",
-      "url": "https://www.politico.com/news/2026/07/19/shenna-bellows-drops-out-maine-senate-01004452?utm_source=lootura.com",
-      "publishedAt": "2026-07-19T15:56:06.000Z",
-      "sourceId": "lootura-us-politico"
-    },
-    {
       "title": "In Maine Senate Race, Jackson Sprints Ahead of Pack, as Bellows Drops Out",
       "url": "https://www.nytimes.com/2026/07/19/us/politics/maine-senate-bellows-jackson-platner-democrats.html?utm_source=lootura.com",
       "publishedAt": "2026-07-20T01:36:22.000Z",
-      "sourceId": "lootura-us-the-new-york-times-politics"
-    },
-    {
-      "title": "In Maine, Bellows Ends Senate Bid, as Jackson Builds Momentum",
-      "url": "https://www.nytimes.com/2026/07/19/us/politics/maine-senate-bellow-jackson-platner-democrats.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-19T16:13:57.000Z",
       "sourceId": "lootura-us-the-new-york-times-politics"
     },
     {
@@ -112,5 +100,5 @@
       "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 8
+  "evidenceCount": 6
 }

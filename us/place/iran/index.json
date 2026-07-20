@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/iran/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/iran/index.json",
   "description": "Follow Iran, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-20T10:49:47.387Z",
+  "updatedAt": "2026-07-20T14:00:46.863Z",
   "aliases": [],
   "changes": [
     {
@@ -27,18 +27,8 @@
       "date": "2026-07-20"
     },
     {
-      "title": "Steve Forbes urges Trump to keep the Strait of Hormuz open at all costs",
-      "summary": "Steve Forbes says the United States must double down on efforts to topple the Tehran regime, arguing that free passage through the Strait of Hormuz should remain a non-negotiable American imperative. As the U.S. struck targets in Iran for a ninth consecutive day on Sunday, pressure on the Tehran regime continued to bui.",
-      "date": "2026-07-20"
-    },
-    {
       "title": "Morning news brief",
       "summary": "The U.S. carries out a wave of strikes against Iran, as fighting between the two escalates, Congress faces long to-do list as August recess approaches, Andy Burnham becomes U.K.'s 7th prime minister.",
-      "date": "2026-07-20"
-    },
-    {
-      "title": "Trump could ‘do something positive’ rather than fixate on 2020 loss, Fetterman says",
-      "summary": "Senator says Trump revisiting failed run against Biden ‘distracts from important things’ such as Iran war Rather than continue fixating on the 2020 election defeat that ended his first presidency, Donald Trump could instead “do something positive”, including resolving the US war in Iran , Pennsylvania senator John Fett.",
       "date": "2026-07-20"
     },
     {
@@ -47,18 +37,28 @@
       "date": "2026-07-20"
     },
     {
+      "title": "US Fires at Iran After 3 US Service Members Killed in Middle East",
+      "summary": "The United States is firing back against Iran after the deaths of at least three U.S. service members in the Middle East. The American death toll in the war now stands at 17. NBC’s Keir Simmons reports for TODAY.",
+      "date": "2026-07-20"
+    },
+    {
+      "title": "3 U.S. personnel killed in Iran conflict. And, Hunter Biden opens up to NPR",
+      "summary": "Three U.S. service members have been killed since Friday amid rising tension between the U.S. and Iran. And, Hunter Biden talks to NPR's Newsmakers about addiction and public scrutiny. (Image credit: Atta Kenare).",
+      "date": "2026-07-20"
+    },
+    {
+      "title": "Steve Forbes urges Trump to keep the Strait of Hormuz open at all costs",
+      "summary": "Steve Forbes says the United States must double down on efforts to topple the Tehran regime, arguing that free passage through the Strait of Hormuz should remain a non-negotiable American imperative. As the U.S. struck targets in Iran for a ninth consecutive day on Sunday, pressure on the Tehran regime continued to bui.",
+      "date": "2026-07-20"
+    },
+    {
+      "title": "Trump could ‘do something positive’ rather than fixate on 2020 loss, Fetterman says",
+      "summary": "Senator says Trump revisiting failed run against Biden ‘distracts from important things’ such as Iran war Rather than continue fixating on the 2020 election defeat that ended his first presidency, Donald Trump could instead “do something positive”, including resolving the US war in Iran , Pennsylvania senator John Fett.",
+      "date": "2026-07-20"
+    },
+    {
       "title": "Increased Cooperation With U.S. Has Put Jordan in Iran’s Cross Hairs",
       "summary": "Jordan’s role in U.S. operations against Iran has grown as other allies in the region have restricted Washington’s ability to use their bases and airspace.",
-      "date": "2026-07-19"
-    },
-    {
-      "title": "Nigerian children pay the price for the Iran war as malnutrition and poverty surge",
-      "summary": "Children relapsing into malnutrition has become an increasingly common occurrence in the state and across northern Nigeria, according to local health and aid workers, who cite knock-on effects from the Iran war.",
-      "date": "2026-07-19"
-    },
-    {
-      "title": "Sen. Mark Warner says Middle East bases are \"on and off under attack\" since Iran war began",
-      "summary": "In the wake of the deaths of two U.S. service members over the weekend at a Jordanian military base, Democratic Sen. Mark Warner of Virginia told \"Face the Nation with Margaret Brennan\" that \"these bases have been on and off under attack\" since the beginning of the war of Iran, which he described as a \"war of choice.\".",
       "date": "2026-07-19"
     }
   ],
@@ -70,10 +70,10 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "Steve Forbes urges Trump to keep the Strait of Hormuz open at all costs",
-      "url": "https://www.foxnews.com/world/steve-forbes-urges-trump-keep-strait-hormuz-open-all-costs?utm_source=lootura.com",
-      "publishedAt": "2026-07-20T10:39:53.000Z",
-      "sourceId": "lootura-us-fox-news"
+      "title": "US Fires at Iran After 3 US Service Members Killed in Middle East",
+      "url": "https://www.today.com/video/three-us-service-members-killed-as-iran-war-escalates-266938949752?utm_source=lootura.com",
+      "publishedAt": "2026-07-20T11:08:52.000Z",
+      "sourceId": "lootura-us-nbc-news"
     },
     {
       "title": "Morning news brief",
@@ -82,16 +82,10 @@
       "sourceId": "lootura-us-npr"
     },
     {
-      "title": "Nigerian children pay the price for the Iran war as malnutrition and poverty surge",
-      "url": "https://www.pbs.org/newshour/world/nigerian-children-pay-the-price-for-the-iran-war-as-malnutrition-and-poverty-surge?utm_source=lootura.com",
-      "publishedAt": "2026-07-19T20:00:20.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
-    },
-    {
-      "title": "Trump could ‘do something positive’ rather than fixate on 2020 loss, Fetterman says",
-      "url": "https://www.theguardian.com/us-news/2026/jul/20/fetterman-trump-fixation-2020-loss?utm_source=lootura.com",
-      "publishedAt": "2026-07-20T09:00:51.000Z",
-      "sourceId": "lootura-us-the-guardian-us"
+      "title": "3 U.S. personnel killed in Iran conflict. And, Hunter Biden opens up to NPR",
+      "url": "https://www.npr.org/2026/07/20/g-s1-134553/up-first-newsletter-iran-us-service-members-hunter-biden?utm_source=lootura.com",
+      "publishedAt": "2026-07-20T11:40:28.000Z",
+      "sourceId": "lootura-us-npr-world"
     },
     {
       "title": "Oil Prices Cross $90 a Barrel as U.S.-Iran Conflict Widens",

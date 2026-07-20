@@ -3,7 +3,7 @@
 > Sigue la actividad de Canada en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-20T10:49:30.114Z
+- Actualizado: 2026-07-20T14:00:22.171Z
 - Canonical: https://atlas.lootura.com/es/place/canada
 
 ## Cambios recientes
@@ -28,4 +28,4 @@ Date: 2026-07-18
 
 ## Fuentes
 
-- [Gentrificación, sobreexplotación turística, vivienda escasa: ¿y si no todo fuera culpa de Airbnb?](https://theconversation.com/gentrificacion-sobreexplotacion-turistica-vivienda-escasa-y-si-no-todo-fuera-culpa-de-airbnb-287058?utm_source=lootura.com) — 2026-07-20T06:58:39.000Z
+- [Así será la celebración: una rúa por Madrid y actuaciones en Cibeles](https://www.abc.es/deportes/futbol/mundial/celebracion-espana-tras-ganar-mundial-horario-recorrido-20260720010049-nt.html?utm_source=lootura.com) — 2026-07-20T12:55:32.000Z

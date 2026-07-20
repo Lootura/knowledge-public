@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/andy-burnham/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/andy-burnham/index.json",
   "description": "Follow Andy Burnham, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-20T10:49:47.387Z",
+  "updatedAt": "2026-07-20T14:00:46.863Z",
   "aliases": [],
   "changes": [
     {
@@ -22,39 +22,44 @@
       "date": "2026-07-20"
     },
     {
-      "title": "Keir Starmer resigns, Andy Burnham to become U.K. prime minister",
-      "summary": "In a transition of power presided over by King Charles, Andy Burnham is replacing Keir Starmer as the United Kingdom's prime minister. Both are from the center-left Labour Party. (Image credit: Henry Nicholls).",
-      "date": "2026-07-20"
-    },
-    {
       "title": "How Andy Burnham Becomes Britain’s New Prime Minister",
       "summary": "Andy Burnham is set to become the next prime minister on Monday. Here’s how everything is expected to play out.",
       "date": "2026-07-20"
     },
     {
-      "title": "Five of the Main Challenges Awaiting Andy Burnham When He Becomes Prime Minister",
-      "summary": "Andy Burnham, who is set to enter Downing Street on Monday, faces a long and daunting list of issues. Here are some of the most urgent.",
+      "title": "Andy Burnham formally appointed U.K. prime minster",
+      "summary": "Andy Burnham was formally appointed the newest British prime minster, the seventh to take up the position in the last decade. NBC News’ Raf Sanchez reports on how Burnham differs from outgoing prime minster Keir Starmer and his meeting with King Charles III.",
       "date": "2026-07-20"
     },
     {
-      "title": "Discovered by Atlas",
-      "summary": "Andy Burnham first entered the public knowledge record with source-backed evidence.",
-      "date": "2026-07-17"
+      "title": "Andy Burnham says politicians 'need to be better' in first speech as UK's new prime minister",
+      "summary": "Burnham spoke for several minutes outside 10 Downing St., where he promised to end street sleeping by homeless people and deliver a \"circuit breaker\" for a system he says has taken wrong turns since the 1980s.",
+      "date": "2026-07-20"
     },
     {
-      "title": "New Prime Minister Faces Old Problems: How to Make Britain’s Economy Grow",
-      "summary": "Conversations with economists, and people around him, shed light on how Andy Burnham might tackle entrenched challenges.",
-      "date": "2026-07-17"
+      "title": "Why Britain is getting a new prime minister without a general election",
+      "summary": "Veteran Labour Party politician Andy Burnham has become Britain's new prime minister He takes over from Keir Starmer, who announced his resignation last month.",
+      "date": "2026-07-20"
     },
     {
-      "title": "Andy Burnham is declared leader of UK's Labour Party, pledges to restore hope",
-      "summary": "The former mayor of Greater Manchester was the only contender in the center-left party's leadership contest to replace departing Prime Minister Keir Starmer, who was forced out by a rebellion within his party.",
-      "date": "2026-07-17"
+      "title": "There’s Nothing Casual About Andy Burnham’s Casual Style",
+      "summary": "Though it is smart. The new British prime minister is ushering in a new era of Westminster dressing.",
+      "date": "2026-07-20"
     },
     {
-      "title": "Who is Andy Burnham, the man becoming Britain's next prime minister?",
-      "summary": "The man replacing U.K. Prime Minister Keir Starmer is Andy Burnham, known as the \"King of the North.\".",
-      "date": "2026-07-17"
+      "title": "North Sea Drilling Offers First Test for Burnham’s Relationship With Trump",
+      "summary": "Andy Burnham has not yet met President Trump, but the two men will be expected to speak shortly after Mr. Burnham becomes prime minister.",
+      "date": "2026-07-20"
+    },
+    {
+      "title": "Burnham Set to Become Britain’s First Openly Roman Catholic Prime Minister",
+      "summary": "Andy Burnham has spoken of Catholicism as part of his cultural identity rather than as a fervent religious faith.",
+      "date": "2026-07-20"
+    },
+    {
+      "title": "Keir Starmer resigns, Andy Burnham to become U.K. prime minister",
+      "summary": "In a transition of power presided over by King Charles, Andy Burnham is replacing Keir Starmer as the United Kingdom's prime minister. Both are from the center-left Labour Party. (Image credit: Henry Nicholls).",
+      "date": "2026-07-20"
     }
   ],
   "sources": [
@@ -65,23 +70,53 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
+      "title": "Andy Burnham formally appointed U.K. prime minster",
+      "url": "https://www.nbcnews.com/now/video/andy-burnham-formally-appointed-u-k-prime-minster-266940485538?utm_source=lootura.com",
+      "publishedAt": "2026-07-20T11:51:32.000Z",
+      "sourceId": "lootura-us-nbc-news"
+    },
+    {
       "title": "Morning news brief",
       "url": "https://www.npr.org/2026/07/20/nx-s1-5895962/morning-news-brief?utm_source=lootura.com",
       "publishedAt": "2026-07-20T08:43:08.000Z",
       "sourceId": "lootura-us-npr"
     },
     {
-      "title": "Keir Starmer resigns, Andy Burnham to become U.K. prime minister",
-      "url": "https://www.npr.org/2026/07/19/nx-s1-5895993/andy-burnham-prime-minister-keir-starmer?utm_source=lootura.com",
-      "publishedAt": "2026-07-20T08:41:42.000Z",
-      "sourceId": "lootura-us-npr-world"
+      "title": "Andy Burnham says politicians 'need to be better' in first speech as UK's new prime minister",
+      "url": "https://www.pbs.org/newshour/world/andy-burnham-says-politicians-need-to-be-better-in-first-speech-as-uks-new-prime-minister?utm_source=lootura.com",
+      "publishedAt": "2026-07-20T12:32:31.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
+    },
+    {
+      "title": "Why Britain is getting a new prime minister without a general election",
+      "url": "https://www.pbs.org/newshour/world/why-britain-is-getting-a-new-prime-minister-without-a-general-election?utm_source=lootura.com",
+      "publishedAt": "2026-07-20T12:32:43.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
+    },
+    {
+      "title": "There’s Nothing Casual About Andy Burnham’s Casual Style",
+      "url": "https://www.nytimes.com/2026/07/20/style/andy-burnham-prime-minister-style.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-20T12:09:00.000Z",
+      "sourceId": "lootura-us-the-new-york-times"
+    },
+    {
+      "title": "North Sea Drilling Offers First Test for Burnham’s Relationship With Trump",
+      "url": "https://www.nytimes.com/2026/07/20/world/europe/burnham-trump-uk-us-relationship-north-sea-oil.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-20T09:32:27.000Z",
+      "sourceId": "lootura-us-the-new-york-times"
     },
     {
       "title": "How Andy Burnham Becomes Britain’s New Prime Minister",
       "url": "https://www.nytimes.com/2026/07/17/world/europe/burnham-prime-minister-explainer.html?utm_source=lootura.com",
       "publishedAt": "2026-07-20T09:15:30.000Z",
       "sourceId": "lootura-us-the-new-york-times"
+    },
+    {
+      "title": "Burnham Set to Become Britain’s First Openly Roman Catholic Prime Minister",
+      "url": "https://www.nytimes.com/2026/07/20/world/europe/burnham-openly-roman-catholic-prime-minister.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-20T10:44:02.000Z",
+      "sourceId": "lootura-us-the-new-york-times-world"
     }
   ],
-  "evidenceCount": 4
+  "evidenceCount": 9
 }

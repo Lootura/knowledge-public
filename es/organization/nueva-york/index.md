@@ -3,10 +3,16 @@
 > Sigue la actividad de Nueva York en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-20T10:49:30.114Z
+- Actualizado: 2026-07-20T14:00:22.171Z
 - Canonical: https://atlas.lootura.com/es/organization/nueva-york
 
 ## Cambios recientes
+
+### Bailes, euforia y baño de champán: la celebración de España en Nueva York
+
+Los futbolistas celebraron en familia la victoria en la Copa del Mundo y lo seguirán haciendo hasta la tarde de este lunes, cuando llegan a Madrid.
+
+Date: 2026-07-20
 
 ### El gol de Ferran vale una carrera y cambia vidas
 
@@ -64,4 +70,5 @@ Date: 2026-07-17
 
 ## Fuentes
 
-- [Cuándo y dónde es la celebración de España: los campeones del mundo se citan con su afición](https://www.20minutos.es/deportes/futbol/celebracion-espana-mundial-2026-cuando-donde-campeones-mundo-aficion_7015928_0.html?utm_source=lootura.com) — 2026-07-20T06:30:58.000Z
+- [Clamor por España y éxtasis británico: «Fútbol 1-Delincuentes 0»](https://www.abc.es/deportes/futbol/mundial/clamor-mundial-victoria-espanola-extasis-britanico-20260720081507-nt.html?utm_source=lootura.com) — 2026-07-20T12:52:04.000Z
+- [Bailes, euforia y baño de champán: la celebración de España en Nueva York](https://www.abc.es/deportes/futbol/mundial/fiesta-jugadores-tras-pitido-final-enamora-espana-20260720143138-nt_amp.html?utm_source=lootura.com) — 2026-07-20T12:31:39.000Z

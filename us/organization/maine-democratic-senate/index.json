@@ -8,9 +8,14 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/maine-democratic-senate/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/maine-democratic-senate/index.json",
   "description": "Follow Maine Democratic Senate, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-17T09:55:08.806Z",
+  "updatedAt": "2026-07-20T14:00:46.863Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "Maine Democratic Senate race narrows as candidates rally behind Troy Jackson",
+      "summary": "The crowded Maine Senate race to replace Graham Platner has narrowed as Democrats rallied around former state Senate President Troy Jackson in the leadup to the party's nominating convention on Saturday.",
+      "date": "2026-07-20"
+    },
     {
       "title": "Maine Democratic Senate candidates discuss which of Platner's ideas they would use",
       "summary": "Maine Democratic Senate candidates Nirav Shah, Shenna Bellows, Jordan Wood and Troy Jackson discuss which ideas from Graham Platner's platform they would use if they are chosen as the nominee.",
@@ -42,6 +47,13 @@
       "date": "2026-07-09"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Maine Democratic Senate race narrows as candidates rally behind Troy Jackson",
+      "url": "https://www.cbsnews.com/news/maine-senate-democrats-troy-jackson-graham-platner/?utm_source=lootura.com",
+      "publishedAt": "2026-07-20T13:41:54.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    }
+  ],
+  "evidenceCount": 1
 }

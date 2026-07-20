@@ -3,10 +3,16 @@
 > Sigue la actividad de China en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-20T10:49:30.114Z
+- Actualizado: 2026-07-20T14:00:22.171Z
 - Canonical: https://atlas.lootura.com/es/place/china
 
 ## Cambios recientes
+
+### La acción de la semana: Alibaba rebota desde soporte, pero el cambio de tendencia todavía está por demostrar
+
+Alibaba Group es un consorcio privado chino dedicado principalmente al comercio electrónico en internet, siendo responsable de más del 60% de los paquetes entregados en China. Dentro del conglomerado se encuentran servicios como el comercio al por menor, Business to Business, pagos en línea y almacenamientos en la nube.
+
+Date: 2026-07-20
 
 ### Soberanía a plazos
 
@@ -62,12 +68,6 @@ El vicepresidente del Gobierno y ministro de Asuntos Exteriores de Italia, Anton
 
 Date: 2026-07-17
 
-### Trump desclasifica documentos de la CIA que demuestran el fraude electoral del chavismo
-
-El presidente denuncia la vulnerabilidad de las máquinas de voto, acusa a China de robar datos de 220 millones de electores y exige al Congreso una ley con identificación y prueba de ciudadanía.
-
-Date: 2026-07-17
-
 ## Fuentes
 
-- [Bruselas multa con 550 millones a AliExpress por vender productos ilegales](https://okdiario.com/economia/bruselas-multa-550-millones-aliexpress-vender-productos-ilegales-19032254/amp?utm_source=lootura.com) — 2026-07-20T10:46:18.000Z
+- [La acción de la semana: Alibaba rebota desde soporte, pero el cambio de tendencia todavía está por demostrar](https://www.larazon.es/economia/accion-semana-alibaba-rebota-soporte-pero-cambio-tendencia-todavia-esta-demostrar_202607206a5e27cb0500ab412ca0b653.html?utm_source=lootura.com) — 2026-07-20T13:51:08.000Z

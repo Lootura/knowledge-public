@@ -3,10 +3,16 @@
 > Sigue la actividad de Begoña Gómez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-19T13:12:39.474Z
+- Actualizado: 2026-07-20T14:00:22.171Z
 - Canonical: https://atlas.lootura.com/es/person/begona-gomez
 
 ## Cambios recientes
+
+### Peinado pide a las partes del caso Begoña ajustar sus peticiones para el juicio tras archivarse varios delitos
+
+El magistrado que dirige la instrucción del caso Begoña Gómez , Juan Carlos Peinado , ha dado un nuevo paso procesal y ha requerido a las partes que remitan escritos actualizados con sus solicitudes de cara al juicio con jurado. La decisión llega después de que la Audiencia Provincial de Madrid ordenara archivar los pr.
+
+Date: 2026-07-20
 
 ### Lo que la Audiencia de Madrid no ha cambiado: el juicio a Begoña Gómez se mantiene para antes de las generales
 
@@ -62,12 +68,6 @@ Begoña Gómez será juzgada por un jurado popular junto a su asesora en Moncloa
 
 Date: 2026-07-17
 
-### Bolaños cree que la respuesta judicial al 'caso Begoña Gómez' no es adecuada ni contundente
-
-El ministro de la Presidencia, Justicia y Relaciones con las Cortes, Félix Bolaños, considera que no ha sido ni «adecuada» ni «contundente» la respuesta.
-
-Date: 2026-07-17
-
 ## Fuentes
 
-No public source links.
+- [Peinado pide a las partes del caso Begoña ajustar sus peticiones para el juicio tras archivarse varios delitos](https://www.elconfidencial.com/espana/2026-07-20/begona-gomez-trafico-influencias-1tps_4392855/?utm_source=lootura.com) — 2026-07-20T11:31:00.000Z

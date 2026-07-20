@@ -3,7 +3,7 @@
 > Follow Artificial intelligence, a tracked topic, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: topic
-- Updated: 2026-07-20T10:49:47.387Z
+- Updated: 2026-07-20T14:00:46.863Z
 - Canonical: https://atlas.lootura.com/us/topic/artificial-intelligence
 
 ## Recent changes
@@ -23,6 +23,18 @@ Date: 2026-07-20
 ### AI tool reveals climate shifts may have fueled bursts of bird evolution
 
 University of Michigan researchers have used an AI tool to demonstrate that birds in the group Passeriformes evolved in rapid evolutionary bursts and that these bursts frequently coincided with climate shifts throughout Earth's history.
+
+Date: 2026-07-20
+
+### Daily briefing: CRISPR gets an AI-designed upgrade
+
+Nature, Published online: 17 July 2026; doi:10.1038/d41586-026-02272-3 Synthetic CRISPR proteins edit the genome more efficiently than their natural counterparts. Plus, a rocky exoplanet with an atmosphere and the mathematical wonderland of footballs.
+
+Date: 2026-07-20
+
+### Funding milestone detected
+
+Researchers have copied massive quantities of publicly available climate and environmental data from NASA onto a Swiss supercomputer to train artificial intelligence models—and for safekeeping amid U.S. funding cuts.
 
 Date: 2026-07-20
 
@@ -56,20 +68,10 @@ A window into a lost world. ScienceAlert stories are written, fact-checked, and 
 
 Date: 2026-07-19
 
-### Developer ecosystem expanded
-
-Nature, Published online: 16 July 2026; doi:10.1038/d41586-026-02214-z As automated tools accelerate both the discovery and the exploitation of software vulnerabilities, organizations must redesign their defences and workflows to keep pace.
-
-Date: 2026-07-18
-
-### A global capital for AI safety is emerging — and it’s not in Silicon Valley
-
-Nature, Published online: 16 July 2026; doi:10.1038/d41586-026-01389-9 The United Kingdom is gaining influence through its growing AI-safety ecosystem.
-
-Date: 2026-07-18
-
 ## Sources
 
+- [Daily briefing: CRISPR gets an AI-designed upgrade](https://www.nature.com/articles/d41586-026-02272-3?utm_source=lootura.com) — 2026-07-20T14:00:50.780Z
 - [AI is set to completely transform cybersecurity — here’s how researchers must prepare](https://www.nature.com/articles/d41586-026-02214-z?utm_source=lootura.com) — 2026-07-20T10:49:51.198Z
 - [A global capital for AI safety is emerging — and it’s not in Silicon Valley](https://www.nature.com/articles/d41586-026-01389-9?utm_source=lootura.com) — 2026-07-20T10:49:51.198Z
 - [AI tool reveals climate shifts may have fueled bursts of bird evolution](https://phys.org/news/2026-07-ai-tool-reveals-climate-shifts.html?utm_source=lootura.com) — 2026-07-20T09:00:06.000Z
+- [Swiss researchers hoard vast trove of NASA climate data](https://phys.org/news/2026-07-swiss-hoard-vast-trove-nasa.html?utm_source=lootura.com) — 2026-07-20T13:50:02.000Z

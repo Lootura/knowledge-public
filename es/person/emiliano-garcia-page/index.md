@@ -34,4 +34,4 @@ Date: 2026-07-18
 
 ## Fuentes
 
-- [Page vaticina que incendio La Mierla superará las 26.000 hectáreas quemadas](https://theobjective.com/espana/politica/2026-07-20/page-incendio-mierla-26000-hectareas/?utm_source=lootura.com) — 2026-07-20T09:09:37.000Z
+No public source links.

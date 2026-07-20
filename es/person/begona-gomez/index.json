@@ -8,9 +8,14 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/begona-gomez/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/begona-gomez/index.json",
   "description": "Sigue la actividad de Begoña Gómez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-19T13:12:39.474Z",
+  "updatedAt": "2026-07-20T14:00:22.171Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "Peinado pide a las partes del caso Begoña ajustar sus peticiones para el juicio tras archivarse varios delitos",
+      "summary": "El magistrado que dirige la instrucción del caso Begoña Gómez , Juan Carlos Peinado , ha dado un nuevo paso procesal y ha requerido a las partes que remitan escritos actualizados con sus solicitudes de cara al juicio con jurado. La decisión llega después de que la Audiencia Provincial de Madrid ordenara archivar los pr.",
+      "date": "2026-07-20"
+    },
     {
       "title": "Lo que la Audiencia de Madrid no ha cambiado: el juicio a Begoña Gómez se mantiene para antes de las generales",
       "summary": "El cambio de acusados y delitos no implica que la vista llegue tras los comicios Leer.",
@@ -55,13 +60,15 @@
       "title": "Vicente Vallés, contundente tras ver que Begoña Gómez será juzgada por un jurado popular",
       "summary": "Begoña Gómez será juzgada por un jurado popular junto a su asesora en Moncloa, Cristina Álvarez. La Audiencia Provincial de Madrid ha avalado el criterio del juez Juan Carlos Peinado y ha confirmado que la causa se tramite por esta vía.La esposa de Pedro Sánchez está acusada de un presunto delito de tráfico de influenc.",
       "date": "2026-07-17"
-    },
-    {
-      "title": "Bolaños cree que la respuesta judicial al 'caso Begoña Gómez' no es adecuada ni contundente",
-      "summary": "El ministro de la Presidencia, Justicia y Relaciones con las Cortes, Félix Bolaños, considera que no ha sido ni «adecuada» ni «contundente» la respuesta.",
-      "date": "2026-07-17"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Peinado pide a las partes del caso Begoña ajustar sus peticiones para el juicio tras archivarse varios delitos",
+      "url": "https://www.elconfidencial.com/espana/2026-07-20/begona-gomez-trafico-influencias-1tps_4392855/?utm_source=lootura.com",
+      "publishedAt": "2026-07-20T11:31:00.000Z",
+      "sourceId": "lootura-es-el-confidencial"
+    }
+  ],
+  "evidenceCount": 1
 }

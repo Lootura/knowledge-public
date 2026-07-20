@@ -3,10 +3,16 @@
 > Follow New York, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-20T10:49:47.387Z
+- Updated: 2026-07-20T14:00:46.863Z
 - Canonical: https://atlas.lootura.com/us/place/new-york
 
 ## Recent changes
+
+### Who speaks for the horses? New push seeks to ban Central Park’s carriages
+
+A tourist’s death has boosted animal advocates’ drive to end a trade supporters say provides jobs and treats horses well New York city’s council chamber was packed, the debate wide-ranging and heated, but lacked one component – a talking horse. Many of the 200 people packed into the debating hall last week felt only th.
+
+Date: 2026-07-20
 
 ### Before Lettuce Felled Thousands, a Cilantro-Linked Cyclospora Outbreak Sickened New Yorkers
 
@@ -62,13 +68,6 @@ New York City Democratic Mayor Zohran Mamdani is embracing his identity as a Dem
 
 Date: 2026-07-19
 
-### Zohran Mamdani Knows He Has Political Capital. And He Intends to Spend It.
-
-Lulu Garcia-Navarro sits down for an interview with the mayor of New York City.
-
-Date: 2026-07-18
-
 ## Sources
 
-- [¡Se abre el telón! Argentina se prepara para el escenario de la gran final ante España en New York](https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/se-abre-el-telon-argentina-se-prepara-para-el-escenario-de-la-gran-final-ante-espana-en-new-york-tmvo13205255?utm_source=lootura.com) — 2026-07-19T18:42:58.000Z
-- [Before Lettuce Felled Thousands, a Cilantro-Linked Cyclospora Outbreak Sickened New Yorkers](https://www.nytimes.com/2026/07/19/nyregion/cyclosporiasis-outbreak-nyc-testing.html?utm_source=lootura.com) — 2026-07-19T14:21:03.000Z
+- [Who speaks for the horses? New push seeks to ban Central Park’s carriages](https://www.theguardian.com/us-news/2026/jul/20/horse-carriages-central-park-new-york?utm_source=lootura.com) — 2026-07-20T11:00:02.000Z

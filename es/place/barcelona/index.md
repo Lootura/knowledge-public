@@ -70,4 +70,4 @@ Date: 2026-07-17
 
 ## Fuentes
 
-- [¿Qué aprendimos del 18 de julio?](https://www.abc.es/historia/hablan-expertos-lecciones-dejo-estallido-guerra-civil-20260718202233-nt.html?utm_source=lootura.com) — 2026-07-20T10:06:59.000Z
+No public source links.

@@ -3,7 +3,7 @@
 > Sigue la actividad de Partido Popular en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-20T10:49:30.114Z
+- Actualizado: 2026-07-20T14:00:22.171Z
 - Canonical: https://atlas.lootura.com/es/organization/partido-popular
 
 ## Cambios recientes
@@ -71,4 +71,3 @@ Date: 2026-07-18
 ## Fuentes
 
 - [«Antes de que se carguen la pantalla, me llevan por delante», dice la secretaria general del PP vasco](https://www.elcorreo.com/bizkaia/secretaria-general-pp-vasco-enfrenta-radicales-trataban-20260719214929-nt_amp.html?utm_source=lootura.com) — 2026-07-19T19:49:29.000Z
-- [Dos millones de votantes, cinco elecciones y solo dos anuncios: así ignoran los partidos al electorado latino](https://theconversation.com/dos-millones-de-votantes-cinco-elecciones-y-solo-dos-anuncios-asi-ignoran-los-partidos-al-electorado-latino-285195?utm_source=lootura.com) — 2026-07-20T06:56:24.000Z

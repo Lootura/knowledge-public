@@ -3,10 +3,16 @@
 > Follow Maine Democratic Senate, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-07-17T09:55:08.806Z
+- Updated: 2026-07-20T14:00:46.863Z
 - Canonical: https://atlas.lootura.com/us/organization/maine-democratic-senate
 
 ## Recent changes
+
+### Maine Democratic Senate race narrows as candidates rally behind Troy Jackson
+
+The crowded Maine Senate race to replace Graham Platner has narrowed as Democrats rallied around former state Senate President Troy Jackson in the leadup to the party's nominating convention on Saturday.
+
+Date: 2026-07-20
 
 ### Maine Democratic Senate candidates discuss which of Platner's ideas they would use
 
@@ -46,4 +52,4 @@ Date: 2026-07-09
 
 ## Sources
 
-No public source links.
+- [Maine Democratic Senate race narrows as candidates rally behind Troy Jackson](https://www.cbsnews.com/news/maine-senate-democrats-troy-jackson-graham-platner/?utm_source=lootura.com) — 2026-07-20T13:41:54.000Z

@@ -22,4 +22,4 @@ Date: 2026-07-18
 
 ## Sources
 
-- [Ferran Torres anota el gol que vale un Mundial para España](https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/ferran-torres-anota-el-gol-que-vale-un-mundial-para-espana-tmvo13205269?utm_source=lootura.com) — 2026-07-19T21:49:55.000Z
+No public source links.

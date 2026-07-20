@@ -3,7 +3,7 @@
 > Follow Iran, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-20T10:49:47.387Z
+- Updated: 2026-07-20T14:00:46.863Z
 - Canonical: https://atlas.lootura.com/us/place/iran
 
 ## Recent changes
@@ -26,21 +26,9 @@ Secretary of State Marco Rubio also said that Iran has signaled it wants to nego
 
 Date: 2026-07-20
 
-### Steve Forbes urges Trump to keep the Strait of Hormuz open at all costs
-
-Steve Forbes says the United States must double down on efforts to topple the Tehran regime, arguing that free passage through the Strait of Hormuz should remain a non-negotiable American imperative. As the U.S. struck targets in Iran for a ninth consecutive day on Sunday, pressure on the Tehran regime continued to bui.
-
-Date: 2026-07-20
-
 ### Morning news brief
 
 The U.S. carries out a wave of strikes against Iran, as fighting between the two escalates, Congress faces long to-do list as August recess approaches, Andy Burnham becomes U.K.'s 7th prime minister.
-
-Date: 2026-07-20
-
-### Trump could ‘do something positive’ rather than fixate on 2020 loss, Fetterman says
-
-Senator says Trump revisiting failed run against Biden ‘distracts from important things’ such as Iran war Rather than continue fixating on the 2020 election defeat that ended his first presidency, Donald Trump could instead “do something positive”, including resolving the US war in Iran , Pennsylvania senator John Fett.
 
 Date: 2026-07-20
 
@@ -50,31 +38,42 @@ A month ago, drivers were enjoying some relief at the pump after the U.S. and Ir
 
 Date: 2026-07-20
 
+### US Fires at Iran After 3 US Service Members Killed in Middle East
+
+The United States is firing back against Iran after the deaths of at least three U.S. service members in the Middle East. The American death toll in the war now stands at 17. NBC’s Keir Simmons reports for TODAY.
+
+Date: 2026-07-20
+
+### 3 U.S. personnel killed in Iran conflict. And, Hunter Biden opens up to NPR
+
+Three U.S. service members have been killed since Friday amid rising tension between the U.S. and Iran. And, Hunter Biden talks to NPR's Newsmakers about addiction and public scrutiny. (Image credit: Atta Kenare).
+
+Date: 2026-07-20
+
+### Steve Forbes urges Trump to keep the Strait of Hormuz open at all costs
+
+Steve Forbes says the United States must double down on efforts to topple the Tehran regime, arguing that free passage through the Strait of Hormuz should remain a non-negotiable American imperative. As the U.S. struck targets in Iran for a ninth consecutive day on Sunday, pressure on the Tehran regime continued to bui.
+
+Date: 2026-07-20
+
+### Trump could ‘do something positive’ rather than fixate on 2020 loss, Fetterman says
+
+Senator says Trump revisiting failed run against Biden ‘distracts from important things’ such as Iran war Rather than continue fixating on the 2020 election defeat that ended his first presidency, Donald Trump could instead “do something positive”, including resolving the US war in Iran , Pennsylvania senator John Fett.
+
+Date: 2026-07-20
+
 ### Increased Cooperation With U.S. Has Put Jordan in Iran’s Cross Hairs
 
 Jordan’s role in U.S. operations against Iran has grown as other allies in the region have restricted Washington’s ability to use their bases and airspace.
 
 Date: 2026-07-19
 
-### Nigerian children pay the price for the Iran war as malnutrition and poverty surge
-
-Children relapsing into malnutrition has become an increasingly common occurrence in the state and across northern Nigeria, according to local health and aid workers, who cite knock-on effects from the Iran war.
-
-Date: 2026-07-19
-
-### Sen. Mark Warner says Middle East bases are "on and off under attack" since Iran war began
-
-In the wake of the deaths of two U.S. service members over the weekend at a Jordanian military base, Democratic Sen. Mark Warner of Virginia told "Face the Nation with Margaret Brennan" that "these bases have been on and off under attack" since the beginning of the war of Iran, which he described as a "war of choice.".
-
-Date: 2026-07-19
-
 ## Sources
 
 - [U.S. soldier killed in Iraq, Trump orders more strikes against Iran](https://www.cbsnews.com/video/us-soldier-killed-in-iraq-trump-orders-more-strikes-against-iran/?utm_source=lootura.com) — 2026-07-20T00:50:00.000Z
-- [Steve Forbes urges Trump to keep the Strait of Hormuz open at all costs](https://www.foxnews.com/world/steve-forbes-urges-trump-keep-strait-hormuz-open-all-costs?utm_source=lootura.com) — 2026-07-20T10:39:53.000Z
+- [US Fires at Iran After 3 US Service Members Killed in Middle East](https://www.today.com/video/three-us-service-members-killed-as-iran-war-escalates-266938949752?utm_source=lootura.com) — 2026-07-20T11:08:52.000Z
 - [Morning news brief](https://www.npr.org/2026/07/20/nx-s1-5895962/morning-news-brief?utm_source=lootura.com) — 2026-07-20T08:43:08.000Z
-- [Nigerian children pay the price for the Iran war as malnutrition and poverty surge](https://www.pbs.org/newshour/world/nigerian-children-pay-the-price-for-the-iran-war-as-malnutrition-and-poverty-surge?utm_source=lootura.com) — 2026-07-19T20:00:20.000Z
-- [Trump could ‘do something positive’ rather than fixate on 2020 loss, Fetterman says](https://www.theguardian.com/us-news/2026/jul/20/fetterman-trump-fixation-2020-loss?utm_source=lootura.com) — 2026-07-20T09:00:51.000Z
+- [3 U.S. personnel killed in Iran conflict. And, Hunter Biden opens up to NPR](https://www.npr.org/2026/07/20/g-s1-134553/up-first-newsletter-iran-us-service-members-hunter-biden?utm_source=lootura.com) — 2026-07-20T11:40:28.000Z
 - [Oil Prices Cross $90 a Barrel as U.S.-Iran Conflict Widens](https://www.nytimes.com/2026/07/19/business/oil-prices-stocks-gas.html?utm_source=lootura.com) — 2026-07-20T06:33:35.000Z
 - [Rubio Says That U.S. Is Still Open to Diplomacy With Iran](https://www.nytimes.com/2026/07/20/world/middleeast/rubio-us-iran-war-diplomacy.html?utm_source=lootura.com) — 2026-07-20T06:02:46.000Z
 - [U.S. Average Gas Price Returns to $4 a Gallon as Iran Crisis Escalates](https://www.nytimes.com/2026/07/20/business/four-dollar-gas-iran-war.html?utm_source=lootura.com) — 2026-07-20T08:55:53.000Z

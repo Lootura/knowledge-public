@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/maine-senate/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/maine-senate/index.json",
   "description": "Follow Maine Senate, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-20T10:49:47.387Z",
+  "updatedAt": "2026-07-20T14:00:46.863Z",
   "aliases": [],
   "changes": [
     {
@@ -24,6 +24,11 @@
     {
       "title": "5 Things to Know About the Maine Senate Candidate Troy Jackson",
       "summary": "Mr. Jackson, who has emerged as the clear front-runner to replace Graham Platner, is a Republican turned Democrat who is seen as close to Mr. Platner on policy.",
+      "date": "2026-07-20"
+    },
+    {
+      "title": "Maine Democratic Senate race narrows as candidates rally behind Troy Jackson",
+      "summary": "The crowded Maine Senate race to replace Graham Platner has narrowed as Democrats rallied around former state Senate President Troy Jackson in the leadup to the party's nominating convention on Saturday.",
       "date": "2026-07-20"
     },
     {
@@ -55,19 +60,14 @@
       "title": "Ro Khanna says he regrets his endorsement of Graham Platner: ‘I got that call wrong’",
       "summary": "Rep. Ro Khanna (D-Calif.) joins Meet the Press for an exclusive interview after Graham Platner (D) exits the Maine Senate race amid a sexual assault allegation.",
       "date": "2026-07-12"
-    },
-    {
-      "title": "Discovered by Atlas",
-      "summary": "Maine Senate first entered the public knowledge record with source-backed evidence.",
-      "date": "2026-07-11"
     }
   ],
   "sources": [
     {
-      "title": "Troy Jackson has effectively secured the Maine Senate Democratic nomination",
-      "url": "https://www.politico.com/news/2026/07/19/troy-jackson-likely-maine-senate-nominee-platner-01004490?utm_source=lootura.com",
-      "publishedAt": "2026-07-19T17:55:37.000Z",
-      "sourceId": "lootura-us-politico"
+      "title": "Maine Democratic Senate race narrows as candidates rally behind Troy Jackson",
+      "url": "https://www.cbsnews.com/news/maine-senate-democrats-troy-jackson-graham-platner/?utm_source=lootura.com",
+      "publishedAt": "2026-07-20T13:41:54.000Z",
+      "sourceId": "lootura-us-cbs-news"
     },
     {
       "title": "In Maine Senate Race, Jackson Sprints Ahead of Pack, as Bellows Drops Out",

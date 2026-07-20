@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/united-states/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/united-states/index.json",
   "description": "Follow United States, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-20T10:49:47.387Z",
+  "updatedAt": "2026-07-20T14:00:46.863Z",
   "aliases": [
     "America",
     "Estados Unidos",
@@ -51,11 +51,6 @@
       "date": "2026-07-20"
     },
     {
-      "title": "Steve Forbes urges Trump to keep the Strait of Hormuz open at all costs",
-      "summary": "Steve Forbes says the United States must double down on efforts to topple the Tehran regime, arguing that free passage through the Strait of Hormuz should remain a non-negotiable American imperative. As the U.S. struck targets in Iran for a ninth consecutive day on Sunday, pressure on the Tehran regime continued to bui.",
-      "date": "2026-07-20"
-    },
-    {
       "title": "Morning news brief",
       "summary": "The U.S. carries out a wave of strikes against Iran, as fighting between the two escalates, Congress faces long to-do list as August recess approaches, Andy Burnham becomes U.K.'s 7th prime minister.",
       "date": "2026-07-20"
@@ -63,6 +58,11 @@
     {
       "title": "U.S. Service Members Killed as War Expands, and Federal Cases Against Protesters Crumble",
       "summary": "Plus, what to know about the next British prime minister.",
+      "date": "2026-07-20"
+    },
+    {
+      "title": "U.S. Average Gas Price Returns to $4 a Gallon as Iran Crisis Escalates",
+      "summary": "A month ago, drivers were enjoying some relief at the pump after the U.S. and Iran signed a deal intended to reopen the Strait of Hormuz. Now, prices are rising again.",
       "date": "2026-07-20"
     }
   ],
@@ -86,21 +86,21 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
+      "title": "Tick bites have soared this year. Here's why, and how to protect yourself",
+      "url": "https://www.cbsnews.com/video/tick-bites-have-soared-this-year-heres-why-and-how-to-protect-yourself/?utm_source=lootura.com",
+      "publishedAt": "2026-07-20T13:34:38.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
+    {
       "title": "The Hello Girls, America's first women soldiers, finally getting their recognition",
       "url": "https://www.cbsnews.com/video/the-hello-girls-americas-first-women-soldiers-finally-getting-their-recognition/?utm_source=lootura.com",
       "publishedAt": "2026-07-20T01:13:11.000Z",
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "Steve Forbes urges Trump to keep the Strait of Hormuz open at all costs",
-      "url": "https://www.foxnews.com/world/steve-forbes-urges-trump-keep-strait-hormuz-open-all-costs?utm_source=lootura.com",
-      "publishedAt": "2026-07-20T10:39:53.000Z",
-      "sourceId": "lootura-us-fox-news"
-    },
-    {
-      "title": "U.S. military recovers unidentified remains in Jordan as another service member dies in Iraq",
-      "url": "https://www.nbcnews.com/world/middle-east/us-service-member-killed-in-iraq-rcna588275?utm_source=lootura.com",
-      "publishedAt": "2026-07-19T19:52:32.000Z",
+      "title": "US Fires at Iran After 3 US Service Members Killed in Middle East",
+      "url": "https://www.today.com/video/three-us-service-members-killed-as-iran-war-escalates-266938949752?utm_source=lootura.com",
+      "publishedAt": "2026-07-20T11:08:52.000Z",
       "sourceId": "lootura-us-nbc-news"
     },
     {
@@ -110,23 +110,23 @@
       "sourceId": "lootura-us-npr"
     },
     {
-      "title": "Oil Prices Cross $90 a Barrel as U.S.-Iran Conflict Widens",
-      "url": "https://www.nytimes.com/2026/07/19/business/oil-prices-stocks-gas.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-20T06:33:35.000Z",
-      "sourceId": "lootura-us-the-new-york-times"
+      "title": "3 U.S. personnel killed in Iran conflict. And, Hunter Biden opens up to NPR",
+      "url": "https://www.npr.org/2026/07/20/g-s1-134553/up-first-newsletter-iran-us-service-members-hunter-biden?utm_source=lootura.com",
+      "publishedAt": "2026-07-20T11:40:28.000Z",
+      "sourceId": "lootura-us-npr-world"
     },
     {
-      "title": "Rubio Says That U.S. Is Still Open to Diplomacy With Iran",
-      "url": "https://www.nytimes.com/2026/07/20/world/middleeast/rubio-us-iran-war-diplomacy.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-20T06:02:46.000Z",
-      "sourceId": "lootura-us-the-new-york-times"
+      "title": "How the most widespread parasite on Earth reads its genome",
+      "url": "https://phys.org/news/2026-07-widespread-parasite-earth-genome.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-20T13:20:03.000Z",
+      "sourceId": "lootura-us-phys-org"
     },
     {
-      "title": "U.S. Service Members Killed as War Expands, and Federal Cases Against Protesters Crumble",
-      "url": "https://www.nytimes.com/2026/07/20/podcasts/the-headlines/service-members-killed-iran-federal-cases-protesters.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-20T10:00:09.000Z",
-      "sourceId": "lootura-us-the-new-york-times"
+      "title": "Swiss researchers hoard vast trove of NASA climate data",
+      "url": "https://phys.org/news/2026-07-swiss-hoard-vast-trove-nasa.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-20T13:50:02.000Z",
+      "sourceId": "lootura-us-phys-org"
     }
   ],
-  "evidenceCount": 18
+  "evidenceCount": 20
 }

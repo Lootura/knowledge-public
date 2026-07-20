@@ -3,10 +3,22 @@
 > Follow Russia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-20T03:18:08.226Z
+- Updated: 2026-07-20T14:00:46.863Z
 - Canonical: https://atlas.lootura.com/us/place/russia
 
 ## Recent changes
+
+### What it's like inside Ukraine during a massive Russian ballistic missile attack
+
+Russia targeted Kyiv, Ukraine, in one of its largest missile assaults of the war over the weekend, Ukrainian President Volodymyr Zelenskyy said. CBS News' Aidan Stretch has the latest from Kyiv.
+
+Date: 2026-07-20
+
+### Putin meets North Korean foreign minister in diplomatic push
+
+The visit by North Korean Foreign Minister Choe Son Hui comes without an obvious occasion, such as a multilateral diplomatic event or state anniversary, and has raised speculation that she may be coordinating a possible visit to Russia by North Korean leader Kim Jong Un. (Image credit: Alexander Shcherbak).
+
+Date: 2026-07-20
 
 ### Russia Batters Kyiv in One of the Largest Missile Assaults of the War
 
@@ -56,18 +68,7 @@ The verdict underlined the determination by authorities to stamp out any remaini
 
 Date: 2026-07-17
 
-### Ukraine fights under an interim defense chief after Zelenskyy's contested government shake-up
-
-Ukraine fought Russia's more than 4-year-old invasion under an interim defense minister Friday, a day after a government reshuffle exposed a deep split between the military's old guard and young innovators over how to fight the war.
-
-Date: 2026-07-17
-
-### Pro-Kremlin blogger who turned on Putin is arrested as Russia steps up crackdown
-
-A former loyalist blogger turned fierce critic of Russian President Vladimir Putin has been detained and accused of spreading false information about the armed forces, state media reported Friday.
-
-Date: 2026-07-17
-
 ## Sources
 
-No public source links.
+- [What it's like inside Ukraine during a massive Russian ballistic missile attack](https://www.cbsnews.com/video/what-its-like-inside-ukraine-during-a-massive-russian-ballistic-missile-attack/?utm_source=lootura.com) — 2026-07-20T13:36:01.000Z
+- [Putin meets North Korean foreign minister in diplomatic push](https://www.npr.org/2026/07/20/g-s1-134555/putin-meets-north-korean-foreign-minister-in-diplomatic-push?utm_source=lootura.com) — 2026-07-20T13:18:51.000Z

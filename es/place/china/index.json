@@ -8,9 +8,14 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/china/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/china/index.json",
   "description": "Sigue la actividad de China en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-20T10:49:30.114Z",
+  "updatedAt": "2026-07-20T14:00:22.171Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "La acción de la semana: Alibaba rebota desde soporte, pero el cambio de tendencia todavía está por demostrar",
+      "summary": "Alibaba Group es un consorcio privado chino dedicado principalmente al comercio electrónico en internet, siendo responsable de más del 60% de los paquetes entregados en China. Dentro del conglomerado se encuentran servicios como el comercio al por menor, Business to Business, pagos en línea y almacenamientos en la nube.",
+      "date": "2026-07-20"
+    },
     {
       "title": "Soberanía a plazos",
       "summary": "China ha puesto a los robots a trabajar y a los hombres a esperar en la puerta. En Kunshan, corazón electrónico del país, las máquinas aprietan tornillos, clasifican piezas y no piden vacaciones; fuera, los obreros hacen cola por un empleo que se va volviendo reliquia. Pekín lo llama « modernización ». Occidente, a vec.",
@@ -55,20 +60,15 @@
       "title": "Antonio Tajani: «No podemos dejar África solo en manos de China y Rusia»",
       "summary": "El vicepresidente del Gobierno y ministro de Asuntos Exteriores de Italia, Antonio Tajani , aboga por seguir trabajando en un mercado único europeo para competir con las grandes potencias en el nuevo tablero global y llama a España a ser un socio estratégico para Italia dentro del plan de inversiones que el país transa.",
       "date": "2026-07-17"
-    },
-    {
-      "title": "Trump desclasifica documentos de la CIA que demuestran el fraude electoral del chavismo",
-      "summary": "El presidente denuncia la vulnerabilidad de las máquinas de voto, acusa a China de robar datos de 220 millones de electores y exige al Congreso una ley con identificación y prueba de ciudadanía.",
-      "date": "2026-07-17"
     }
   ],
   "sources": [
     {
-      "title": "Bruselas multa con 550 millones a AliExpress por vender productos ilegales",
-      "url": "https://okdiario.com/economia/bruselas-multa-550-millones-aliexpress-vender-productos-ilegales-19032254/amp?utm_source=lootura.com",
-      "publishedAt": "2026-07-20T10:46:18.000Z",
-      "sourceId": "lootura-es-ok-diario"
+      "title": "La acción de la semana: Alibaba rebota desde soporte, pero el cambio de tendencia todavía está por demostrar",
+      "url": "https://www.larazon.es/economia/accion-semana-alibaba-rebota-soporte-pero-cambio-tendencia-todavia-esta-demostrar_202607206a5e27cb0500ab412ca0b653.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-20T13:51:08.000Z",
+      "sourceId": "lootura-es-la-razon"
     }
   ],
-  "evidenceCount": 0
+  "evidenceCount": 1
 }

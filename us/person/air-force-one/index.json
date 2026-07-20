@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/air-force-one/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/air-force-one/index.json",
   "description": "Follow Air Force One, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-20T10:49:47.387Z",
+  "updatedAt": "2026-07-20T14:00:46.863Z",
   "aliases": [],
   "changes": [
     {
@@ -69,13 +69,7 @@
       "url": "https://www.nytimes.com/2026/07/19/us/politics/trump-air-force-modifications.html?utm_source=lootura.com",
       "publishedAt": "2026-07-20T04:06:04.000Z",
       "sourceId": "lootura-us-the-new-york-times-politics"
-    },
-    {
-      "title": "The Evolution of Presidential Travel: Horse Carriages to Air Force One",
-      "url": "https://www.nytimes.com/2026/07/18/us/politics/trump-air-force-one-travel.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-19T15:55:59.000Z",
-      "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 2
 }

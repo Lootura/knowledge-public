@@ -8,9 +8,14 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/nueva-york/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/nueva-york/index.json",
   "description": "Sigue la actividad de Nueva York en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-20T10:49:30.114Z",
+  "updatedAt": "2026-07-20T14:00:22.171Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "Bailes, euforia y baño de champán: la celebración de España en Nueva York",
+      "summary": "Los futbolistas celebraron en familia la victoria en la Copa del Mundo y lo seguirán haciendo hasta la tarde de este lunes, cuando llegan a Madrid.",
+      "date": "2026-07-20"
+    },
     {
       "title": "El gol de Ferran vale una carrera y cambia vidas",
       "summary": "De Iniesta a Ferran Torres. De Don Andrés al Senyor Ferran. De Fuentealbilla a Foios. De la bota derecha a la bota izquierda. Del Jabulani al Trionda. De Johannesburgo a Nueva York. De un jugador del Barça a otro futbolista blaugrana. La segunda parte de la prórroga volvió a ser roja. Aunque el genio manchego marcase v.",
@@ -59,11 +64,17 @@
   ],
   "sources": [
     {
-      "title": "Cuándo y dónde es la celebración de España: los campeones del mundo se citan con su afición",
-      "url": "https://www.20minutos.es/deportes/futbol/celebracion-espana-mundial-2026-cuando-donde-campeones-mundo-aficion_7015928_0.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-20T06:30:58.000Z",
-      "sourceId": "lootura-es-20minutos"
+      "title": "Clamor por España y éxtasis británico: «Fútbol 1-Delincuentes 0»",
+      "url": "https://www.abc.es/deportes/futbol/mundial/clamor-mundial-victoria-espanola-extasis-britanico-20260720081507-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-20T12:52:04.000Z",
+      "sourceId": "lootura-es-abc"
+    },
+    {
+      "title": "Bailes, euforia y baño de champán: la celebración de España en Nueva York",
+      "url": "https://www.abc.es/deportes/futbol/mundial/fiesta-jugadores-tras-pitido-final-enamora-espana-20260720143138-nt_amp.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-20T12:31:39.000Z",
+      "sourceId": "lootura-es-abc"
     }
   ],
-  "evidenceCount": 0
+  "evidenceCount": 1
 }

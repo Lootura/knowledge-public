@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/ukraine/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/ukraine/index.json",
   "description": "Follow Ukraine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-20T10:49:47.387Z",
+  "updatedAt": "2026-07-20T14:00:46.863Z",
   "aliases": [
     "Kyiv"
   ],
@@ -21,6 +21,11 @@
     {
       "title": "Zelensky Faces Pressure to Remove Ukraine’s Top General",
       "summary": "Demonstrators and many soldiers want President Volodymyr Zelensky to reaffirm the vision of drone warfare laid out by the defense minister he fired last week.",
+      "date": "2026-07-20"
+    },
+    {
+      "title": "What it's like inside Ukraine during a massive Russian ballistic missile attack",
+      "summary": "Russia targeted Kyiv, Ukraine, in one of its largest missile assaults of the war over the weekend, Ukrainian President Volodymyr Zelenskyy said. CBS News' Aidan Stretch has the latest from Kyiv.",
       "date": "2026-07-20"
     },
     {
@@ -57,26 +62,27 @@
       "title": "Ukraine’s Top General Becomes a Target of Protesters’ Anger",
       "summary": "Demonstrators supporting Ukraine’s ousted defense minister have begun denouncing the commander he clashed with in office, Gen. Oleksandr Syrskyi.",
       "date": "2026-07-18"
-    },
-    {
-      "title": "8 killed and more than 60 wounded in Ukrainian drone attack on Russian regions",
-      "summary": "Kyiv's forces are continuing their aerial campaign against energy infrastructure and military targets inside Russia, aiming to undermine Moscow's war effort. (Image credit: Moscow Region Governor Andrei Vo).",
-      "date": "2026-07-18"
     }
   ],
   "sources": [
     {
+      "title": "What it's like inside Ukraine during a massive Russian ballistic missile attack",
+      "url": "https://www.cbsnews.com/video/what-its-like-inside-ukraine-during-a-massive-russian-ballistic-missile-attack/?utm_source=lootura.com",
+      "publishedAt": "2026-07-20T13:36:01.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
+    {
       "title": "Ukraine War Momentum Helps Spur Interest in Postwar Investment",
       "url": "https://www.nytimes.com/2026/07/20/world/europe/ukraine-post-war-reconstruction.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-20T08:55:02.000Z",
+      "publishedAt": "2026-07-20T13:37:51.000Z",
       "sourceId": "lootura-us-the-new-york-times-world"
     },
     {
       "title": "Zelensky Faces Pressure to Remove Ukraine’s Top General",
       "url": "https://www.nytimes.com/2026/07/20/world/europe/ukraine-zelensky-general-defense-minister.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-20T10:42:04.000Z",
+      "publishedAt": "2026-07-20T12:11:09.000Z",
       "sourceId": "lootura-us-the-new-york-times-world"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 3
 }

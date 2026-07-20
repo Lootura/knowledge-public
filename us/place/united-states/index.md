@@ -3,7 +3,7 @@
 > Follow United States, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-20T10:49:47.387Z
+- Updated: 2026-07-20T14:00:46.863Z
 - Canonical: https://atlas.lootura.com/us/place/united-states
 
 ## Recent changes
@@ -50,12 +50,6 @@ Defaults on student loans have surged across the United States, reaching record 
 
 Date: 2026-07-20
 
-### Steve Forbes urges Trump to keep the Strait of Hormuz open at all costs
-
-Steve Forbes says the United States must double down on efforts to topple the Tehran regime, arguing that free passage through the Strait of Hormuz should remain a non-negotiable American imperative. As the U.S. struck targets in Iran for a ninth consecutive day on Sunday, pressure on the Tehran regime continued to bui.
-
-Date: 2026-07-20
-
 ### Morning news brief
 
 The U.S. carries out a wave of strikes against Iran, as fighting between the two escalates, Congress faces long to-do list as August recess approaches, Andy Burnham becomes U.K.'s 7th prime minister.
@@ -68,15 +62,21 @@ Plus, what to know about the next British prime minister.
 
 Date: 2026-07-20
 
+### U.S. Average Gas Price Returns to $4 a Gallon as Iran Crisis Escalates
+
+A month ago, drivers were enjoying some relief at the pump after the U.S. and Iran signed a deal intended to reopen the Strait of Hormuz. Now, prices are rising again.
+
+Date: 2026-07-20
+
 ## Sources
 
 - [Student loan defaults surging in wake of COVID-tied payments pause expiration](https://www.cbsnews.com/news/student-loan-defaults-surge-covid-tied-payments-pause-expiration/?utm_source=lootura.com) — 2026-07-20T10:09:00.000Z
 - [U.S. soldier killed in Iraq, Trump orders more strikes against Iran](https://www.cbsnews.com/video/us-soldier-killed-in-iraq-trump-orders-more-strikes-against-iran/?utm_source=lootura.com) — 2026-07-20T00:50:00.000Z
 - [The Uplift: The American Dream](https://www.cbsnews.com/video/the-uplift-the-american-dream/?utm_source=lootura.com) — 2026-07-27T10:30:00.000Z
+- [Tick bites have soared this year. Here's why, and how to protect yourself](https://www.cbsnews.com/video/tick-bites-have-soared-this-year-heres-why-and-how-to-protect-yourself/?utm_source=lootura.com) — 2026-07-20T13:34:38.000Z
 - [The Hello Girls, America's first women soldiers, finally getting their recognition](https://www.cbsnews.com/video/the-hello-girls-americas-first-women-soldiers-finally-getting-their-recognition/?utm_source=lootura.com) — 2026-07-20T01:13:11.000Z
-- [Steve Forbes urges Trump to keep the Strait of Hormuz open at all costs](https://www.foxnews.com/world/steve-forbes-urges-trump-keep-strait-hormuz-open-all-costs?utm_source=lootura.com) — 2026-07-20T10:39:53.000Z
-- [U.S. military recovers unidentified remains in Jordan as another service member dies in Iraq](https://www.nbcnews.com/world/middle-east/us-service-member-killed-in-iraq-rcna588275?utm_source=lootura.com) — 2026-07-19T19:52:32.000Z
+- [US Fires at Iran After 3 US Service Members Killed in Middle East](https://www.today.com/video/three-us-service-members-killed-as-iran-war-escalates-266938949752?utm_source=lootura.com) — 2026-07-20T11:08:52.000Z
 - [Morning news brief](https://www.npr.org/2026/07/20/nx-s1-5895962/morning-news-brief?utm_source=lootura.com) — 2026-07-20T08:43:08.000Z
-- [Oil Prices Cross $90 a Barrel as U.S.-Iran Conflict Widens](https://www.nytimes.com/2026/07/19/business/oil-prices-stocks-gas.html?utm_source=lootura.com) — 2026-07-20T06:33:35.000Z
-- [Rubio Says That U.S. Is Still Open to Diplomacy With Iran](https://www.nytimes.com/2026/07/20/world/middleeast/rubio-us-iran-war-diplomacy.html?utm_source=lootura.com) — 2026-07-20T06:02:46.000Z
-- [U.S. Service Members Killed as War Expands, and Federal Cases Against Protesters Crumble](https://www.nytimes.com/2026/07/20/podcasts/the-headlines/service-members-killed-iran-federal-cases-protesters.html?utm_source=lootura.com) — 2026-07-20T10:00:09.000Z
+- [3 U.S. personnel killed in Iran conflict. And, Hunter Biden opens up to NPR](https://www.npr.org/2026/07/20/g-s1-134553/up-first-newsletter-iran-us-service-members-hunter-biden?utm_source=lootura.com) — 2026-07-20T11:40:28.000Z
+- [How the most widespread parasite on Earth reads its genome](https://phys.org/news/2026-07-widespread-parasite-earth-genome.html?utm_source=lootura.com) — 2026-07-20T13:20:03.000Z
+- [Swiss researchers hoard vast trove of NASA climate data](https://phys.org/news/2026-07-swiss-hoard-vast-trove-nasa.html?utm_source=lootura.com) — 2026-07-20T13:50:02.000Z

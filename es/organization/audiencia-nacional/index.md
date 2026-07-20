@@ -3,10 +3,34 @@
 > Sigue la actividad de Audiencia Nacional en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-20T10:49:30.114Z
+- Actualizado: 2026-07-20T14:00:22.171Z
 - Canonical: https://atlas.lootura.com/es/organization/audiencia-nacional
 
 ## Cambios recientes
+
+### Plus Ultra y Julito Martínez envían escritos al juez confesando las mediaciones de Zapatero en el rescate de la aerolínea
+
+Plus Ultra y Julio Martínez Martínez han enviado sendos escritos a la Audiencia Nacional donde muestran su deseo de colaborar con la Justicia y confiesan que José Luis Rodríguez Zapatero medió en el rescate de la aerolínea, según explican fuentes judiciales a ABC. El pagador del expresidente también detalla que alcanza.
+
+Date: 2026-07-20
+
+### El empresario Julio Martínez señala a Zapatero en el rescate de Plus Ultra: “Era el que marcaba los pasos a seguir”
+
+Cambio de guion en el caso Plus Ultra . El empresario Julio Martínez Martínez, administrador de la consultora Análisis Relevante , epicentro del caso en el que se investigan las supuestas irregularidades en la concesión de una millonaria ayuda pública a la aerolínea, ha presentado un escrito en la Audiencia Nacional en.
+
+Date: 2026-07-20
+
+### El juez del caso Leire Díez cita el 5 de agosto al exjefe de gabinete de Sánchez para el clonado de su móvil
+
+El juez de la Audiencia Nacional Santiago Pedraz , que dirige la investigación del denominado caso Leire Díez , ha citado el 5 de agosto a las 10.00 horas a Juan Manuel Serrano , exjefe de gabinete del presidente del Gobierno, Pedro Sánchez , y expresidente de Correos , para validar el clonado de su teléfono móvil. La.
+
+Date: 2026-07-20
+
+### El ‘testaferro’ de Zapatero confiesa al juez que el expresidente medió en el rescate de Plus Ultra
+
+Julio Martínez Martínez rompe la baraja . El presunto testaferro de José Luis Rodríguez Zapatero ha enviado este lunes un escrito al juez de la Audiencia Nacional José Luis Calama en el que confiesa que supo de «la existencia de Plus ultra» en mayo de 2020, cuando el expresidente del Gobierno «le adelantó que iba a rec.
+
+Date: 2026-07-20
 
 ### La exnovia de Ábalos decide no declarar como investigada por malversación
 
@@ -44,30 +68,9 @@ El ministro de Transportes, el socialista Óscar Puente, se ha manifestado este 
 
 Date: 2026-07-17
 
-### Declaración de Mercedes González, en directo: última hora de su comparecencia como imputada en el caso Leire
-
-La directora de la Guardia Civil, Mercedes González, comparece este viernes ante el juez de la Audiencia Nacional Santiago Pedraz como investigada en el denominado caso Leire, después de que su declaración fuera aplazada el jueves por la duración del interrogatorio al DAO.
-
-Date: 2026-07-17
-
-### El juez retrasa a mañana la declaración de la directora de la Guardia Civil por el caso Leire
-
-El juez de la Audiencia Nacional que investiga el caso Leire Díez ha acordado posponer a este viernes la declaración como investigada de la directora de la Guardia Civil , Mercedes González , que estaba citada para este jueves, debido a la extensión del interrogatorio al director adjunto operativo (DAO) del Cuerpo, Man.
-
-Date: 2026-07-16
-
-### La Justicia europea descarta que la amnistía de Puigdemont afecte a los intereses económicos comunitarios
-
-La Corte europea ha dado lectura al fallo por el que resuelve las cuestiones prejudiciales planteadas por la Audiencia Nacional y el Tribunal de C...
-
-Date: 2026-07-16
-
-### La directora de la Guardia Civil y su jefe operativo declaran como imputados en la Audiencia Nacional por el ‘caso Leire Díez’
-
-La directora general de la Guardia Civil, Mercedes González, y el teniente general Manuel Llamas, actual director adjunto operativo (DAO) del instituto armado, ya se encuentran en el interior de la Audiencia Nacional, donde declaran este jueves como imputados en las pesquisas sobre una supuesta red organizada por la ex.
-
-Date: 2026-07-16
-
 ## Fuentes
 
-- [La exnovia de Ábalos decide no declarar como investigada por malversación](https://www.abc.es/espana/exnovia-abalos-decide-declarar-investigada-malversacion-20260720105709-nt.html?utm_source=lootura.com) — 2026-07-20T09:57:16.000Z
+- [Plus Ultra y Julito Martínez envían escritos al juez confesando las mediaciones de Zapatero en el rescate de la aerolínea](https://www.abc.es/espana/plus-ultra-julito-martinez-envian-escritos-juez-20260720142541-nt.html?utm_source=lootura.com) — 2026-07-20T13:23:10.000Z
+- [El empresario Julio Martínez señala a Zapatero en el rescate de Plus Ultra: “Era el que marcaba los pasos a seguir”](https://elpais.com/espana/2026-07-20/el-empresario-julio-martinez-senala-a-zapatero-en-el-rescate-de-plus-ultra.html?utm_source=lootura.com) — 2026-07-20T12:24:12.000Z
+- [El juez del caso Leire Díez cita el 5 de agosto al exjefe de gabinete de Sánchez para el clonado de su móvil](https://www.elconfidencial.com/espana/2026-07-20/caso-leire-diez-serrano-clonado-1tps_4392911/?utm_source=lootura.com) — 2026-07-20T12:41:00.000Z
+- [El ‘testaferro’ de Zapatero confiesa al juez que el expresidente medió en el rescate de Plus Ultra](https://theobjective.com/espana/tribunales/2026-07-20/testaferro-zapatero-confiesa-rescate-plus-ultra/?utm_source=lootura.com) — 2026-07-20T12:25:00.000Z

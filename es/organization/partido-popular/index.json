@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/partido-popular/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/partido-popular/index.json",
   "description": "Sigue la actividad de Partido Popular en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-20T10:49:30.114Z",
+  "updatedAt": "2026-07-20T14:00:22.171Z",
   "aliases": [
     "PP"
   ],
@@ -70,13 +70,7 @@
       "url": "https://www.elcorreo.com/bizkaia/secretaria-general-pp-vasco-enfrenta-radicales-trataban-20260719214929-nt_amp.html?utm_source=lootura.com",
       "publishedAt": "2026-07-19T19:49:29.000Z",
       "sourceId": "lootura-es-el-correo"
-    },
-    {
-      "title": "Dos millones de votantes, cinco elecciones y solo dos anuncios: así ignoran los partidos al electorado latino",
-      "url": "https://theconversation.com/dos-millones-de-votantes-cinco-elecciones-y-solo-dos-anuncios-asi-ignoran-los-partidos-al-electorado-latino-285195?utm_source=lootura.com",
-      "publishedAt": "2026-07-20T06:56:24.000Z",
-      "sourceId": "lootura-es-the-conversation-espana"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

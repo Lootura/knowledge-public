@@ -3,7 +3,7 @@
 > Follow Andy Burnham, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-07-20T10:49:47.387Z
+- Updated: 2026-07-20T14:00:46.863Z
 - Canonical: https://atlas.lootura.com/us/person/andy-burnham
 
 ## Recent changes
@@ -20,51 +20,62 @@ The U.S. carries out a wave of strikes against Iran, as fighting between the two
 
 Date: 2026-07-20
 
-### Keir Starmer resigns, Andy Burnham to become U.K. prime minister
-
-In a transition of power presided over by King Charles, Andy Burnham is replacing Keir Starmer as the United Kingdom's prime minister. Both are from the center-left Labour Party. (Image credit: Henry Nicholls).
-
-Date: 2026-07-20
-
 ### How Andy Burnham Becomes Britain’s New Prime Minister
 
 Andy Burnham is set to become the next prime minister on Monday. Here’s how everything is expected to play out.
 
 Date: 2026-07-20
 
-### Five of the Main Challenges Awaiting Andy Burnham When He Becomes Prime Minister
+### Andy Burnham formally appointed U.K. prime minster
 
-Andy Burnham, who is set to enter Downing Street on Monday, faces a long and daunting list of issues. Here are some of the most urgent.
+Andy Burnham was formally appointed the newest British prime minster, the seventh to take up the position in the last decade. NBC News’ Raf Sanchez reports on how Burnham differs from outgoing prime minster Keir Starmer and his meeting with King Charles III.
 
 Date: 2026-07-20
 
-### Discovered by Atlas
+### Andy Burnham says politicians 'need to be better' in first speech as UK's new prime minister
 
-Andy Burnham first entered the public knowledge record with source-backed evidence.
+Burnham spoke for several minutes outside 10 Downing St., where he promised to end street sleeping by homeless people and deliver a "circuit breaker" for a system he says has taken wrong turns since the 1980s.
 
-Date: 2026-07-17
+Date: 2026-07-20
 
-### New Prime Minister Faces Old Problems: How to Make Britain’s Economy Grow
+### Why Britain is getting a new prime minister without a general election
 
-Conversations with economists, and people around him, shed light on how Andy Burnham might tackle entrenched challenges.
+Veteran Labour Party politician Andy Burnham has become Britain's new prime minister He takes over from Keir Starmer, who announced his resignation last month.
 
-Date: 2026-07-17
+Date: 2026-07-20
 
-### Andy Burnham is declared leader of UK's Labour Party, pledges to restore hope
+### There’s Nothing Casual About Andy Burnham’s Casual Style
 
-The former mayor of Greater Manchester was the only contender in the center-left party's leadership contest to replace departing Prime Minister Keir Starmer, who was forced out by a rebellion within his party.
+Though it is smart. The new British prime minister is ushering in a new era of Westminster dressing.
 
-Date: 2026-07-17
+Date: 2026-07-20
 
-### Who is Andy Burnham, the man becoming Britain's next prime minister?
+### North Sea Drilling Offers First Test for Burnham’s Relationship With Trump
 
-The man replacing U.K. Prime Minister Keir Starmer is Andy Burnham, known as the "King of the North.".
+Andy Burnham has not yet met President Trump, but the two men will be expected to speak shortly after Mr. Burnham becomes prime minister.
 
-Date: 2026-07-17
+Date: 2026-07-20
+
+### Burnham Set to Become Britain’s First Openly Roman Catholic Prime Minister
+
+Andy Burnham has spoken of Catholicism as part of his cultural identity rather than as a fervent religious faith.
+
+Date: 2026-07-20
+
+### Keir Starmer resigns, Andy Burnham to become U.K. prime minister
+
+In a transition of power presided over by King Charles, Andy Burnham is replacing Keir Starmer as the United Kingdom's prime minister. Both are from the center-left Labour Party. (Image credit: Henry Nicholls).
+
+Date: 2026-07-20
 
 ## Sources
 
 - [Andy Burnham: The likely next U.K. prime minister](https://www.cbsnews.com/video/andy-burnham-the-likely-next-uk-prime-minister/?utm_source=lootura.com) — 2026-07-20T01:05:00.000Z
+- [Andy Burnham formally appointed U.K. prime minster](https://www.nbcnews.com/now/video/andy-burnham-formally-appointed-u-k-prime-minster-266940485538?utm_source=lootura.com) — 2026-07-20T11:51:32.000Z
 - [Morning news brief](https://www.npr.org/2026/07/20/nx-s1-5895962/morning-news-brief?utm_source=lootura.com) — 2026-07-20T08:43:08.000Z
-- [Keir Starmer resigns, Andy Burnham to become U.K. prime minister](https://www.npr.org/2026/07/19/nx-s1-5895993/andy-burnham-prime-minister-keir-starmer?utm_source=lootura.com) — 2026-07-20T08:41:42.000Z
+- [Andy Burnham says politicians 'need to be better' in first speech as UK's new prime minister](https://www.pbs.org/newshour/world/andy-burnham-says-politicians-need-to-be-better-in-first-speech-as-uks-new-prime-minister?utm_source=lootura.com) — 2026-07-20T12:32:31.000Z
+- [Why Britain is getting a new prime minister without a general election](https://www.pbs.org/newshour/world/why-britain-is-getting-a-new-prime-minister-without-a-general-election?utm_source=lootura.com) — 2026-07-20T12:32:43.000Z
+- [There’s Nothing Casual About Andy Burnham’s Casual Style](https://www.nytimes.com/2026/07/20/style/andy-burnham-prime-minister-style.html?utm_source=lootura.com) — 2026-07-20T12:09:00.000Z
+- [North Sea Drilling Offers First Test for Burnham’s Relationship With Trump](https://www.nytimes.com/2026/07/20/world/europe/burnham-trump-uk-us-relationship-north-sea-oil.html?utm_source=lootura.com) — 2026-07-20T09:32:27.000Z
 - [How Andy Burnham Becomes Britain’s New Prime Minister](https://www.nytimes.com/2026/07/17/world/europe/burnham-prime-minister-explainer.html?utm_source=lootura.com) — 2026-07-20T09:15:30.000Z
+- [Burnham Set to Become Britain’s First Openly Roman Catholic Prime Minister](https://www.nytimes.com/2026/07/20/world/europe/burnham-openly-roman-catholic-prime-minister.html?utm_source=lootura.com) — 2026-07-20T10:44:02.000Z

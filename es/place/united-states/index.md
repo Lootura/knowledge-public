@@ -3,16 +3,10 @@
 > Sigue la actividad de Estados Unidos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-20T10:49:30.114Z
+- Actualizado: 2026-07-20T14:00:22.171Z
 - Canonical: https://atlas.lootura.com/es/place/united-states
 
 ## Cambios recientes
-
-### El precio del petróleo modera su escalada tras anunciar Irán contactos con los mediadores
-
-La persistencia de la incertidumbre en Oriente Próximo ha llevado al precio del petróleo a superar por primera vez en más de un mes los 91 dólares por barril. Una escalada que se ha visto frenada tras el anuncio por parte del régimen iraní de contactos diplomáticos con los mediadores con Estados Unidos. El barril de br.
-
-Date: 2026-07-20
 
 ### El Ibex 35 sube 0,28% a mediodía y recupera los 19.200 puntos, con el petróleo 87 dólares
 
@@ -23,6 +17,18 @@ Date: 2026-07-20
 ### El petróleo pierde un 4% desde máximos por la expectativa de un acuerdo entre Irán y EEUU
 
 El precio del barril de crudo de calidad Brent , que había llegado este lunes, 20 de julio, a superar el umbral de los 91 dólares , se ha dado la vuelta y cedía alrededor de un 4% desde los máximos del día. Todo esto ha pasado después de que Irán haya asegurado que los contactos diplomáticos con Estados Unidos continúa.
+
+Date: 2026-07-20
+
+### Irán presume de haber atacado de forma simultánea a EE UU en Bahrein y Qatar
+
+Irán afirmó este lunes haber atacado simultáneamente tres posiciones militares estadounidenses en Bahrein y Kuwait, en una nueva oleada de su ofensiva contra objetivos de Estados Unidos en Oriente Medio en respuesta a los ataques estadounidenses contra territorio iraní. "Los combatientes de la Armada de la Guardia Revo.
+
+Date: 2026-07-20
+
+### El precio del petróleo modera su escalada tras anunciar Irán contactos con los mediadores
+
+La persistencia de la incertidumbre en Oriente Próximo ha llevado al precio del petróleo a superar por primera vez en más de un mes los 91 dólares por barril. Una escalada que se ha visto frenada tras el anuncio por parte del régimen iraní de contactos diplomáticos con los mediadores con Estados Unidos. El barril de br.
 
 Date: 2026-07-20
 
@@ -62,14 +68,9 @@ El Comando Central de las Fuerzas Armadas de Estados Unidos (Centcom) ha confirm
 
 Date: 2026-07-19
 
-### Irán mata a dos soldados de Estados Unidos en un ataque contra una base en Jordania
-
-Irán ha anunciado este sábado que deja en suspenso el acuerdo de alto el fuego firmado con Estados Unidos el pasado 17 de junio. “Hemos suspendido nuestros compromisos adquiridos en virtud del memorando de entendimiento y ya no los estamos implementando”, ha declarado el viceministro de Relaciones Exteriores iraní, Kaz.
-
-Date: 2026-07-18
-
 ## Fuentes
 
-- [El precio del petróleo modera su escalada tras anunciar Irán contactos con los mediadores](https://cincodias.elpais.com/mercados-financieros/2026-07-20/la-bolsa-y-el-ibex-35.html?utm_source=lootura.com) — 2026-07-20T10:03:45.000Z
+- [Así será la celebración: una rúa por Madrid y actuaciones en Cibeles](https://www.abc.es/deportes/futbol/mundial/celebracion-espana-tras-ganar-mundial-horario-recorrido-20260720010049-nt.html?utm_source=lootura.com) — 2026-07-20T12:55:32.000Z
+- [Irán presume de haber atacado de forma simultánea a EE UU en Bahrein y Qatar](https://www.larazon.es/internacional/iran-presume-haber-atacado-forma-simultanea-bahrein-qatar_202607206a5e2843e9f2e84b5c73ba0d.html?utm_source=lootura.com) — 2026-07-20T13:53:07.000Z
 - [El Ibex 35 sube 0,28% a mediodía y recupera los 19.200 puntos, con el petróleo 87 dólares](https://okdiario.com/economia/ibex-35-bolsa-20-julio-19030570?utm_source=lootura.com) — 2026-07-20T10:44:39.000Z
 - [El petróleo pierde un 4% desde máximos por la expectativa de un acuerdo entre Irán y EEUU](https://okdiario.com/economia/petroleo-pierde-4-desde-maximos-expectativa-acuerdo-iran-eeuu-19032018?utm_source=lootura.com) — 2026-07-20T10:35:40.000Z
