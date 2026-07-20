@@ -3,7 +3,7 @@
 > Sigue la actividad de País Vasco en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-19T20:42:54.963Z
+- Actualizado: 2026-07-20T06:43:17.611Z
 - Canonical: https://atlas.lootura.com/es/place/pais-vasco
 
 ## Cambios recientes
@@ -70,4 +70,4 @@ Date: 2026-07-12
 
 ## Fuentes
 
-No public source links.
+- [Incidentes en Bilbao, Vitoria y Eibar contra seguidores de la selección española durante la final del Mundial](https://www.eldiario.es/euskadi/incidentes-bilbao-vitoria-eibar-seguidores-seleccion-espanola-durante-final-mundial_1_13392310.html?utm_source=lootura.com) — 2026-07-20T05:51:07.000Z

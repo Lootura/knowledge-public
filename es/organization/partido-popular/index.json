@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/partido-popular/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/partido-popular/index.json",
   "description": "Sigue la actividad de Partido Popular en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-20T03:17:50.208Z",
+  "updatedAt": "2026-07-20T06:43:17.611Z",
   "aliases": [
     "PP"
   ],
@@ -66,23 +66,11 @@
   ],
   "sources": [
     {
-      "title": "Cientos de manifestantes abertzales intentan derribar la pantalla gigante de Bilbao e increpan a los asistentes",
-      "url": "https://www.elconfidencial.com/espana/pais-vasco/2026-07-19/seleccion-vasca-bilbao-manifestacion-final-1tps_4392592/?utm_source=lootura.com",
-      "publishedAt": "2026-07-19T19:36:00.000Z",
-      "sourceId": "lootura-es-el-confidencial"
-    },
-    {
       "title": "«Antes de que se carguen la pantalla, me llevan por delante», dice la secretaria general del PP vasco",
       "url": "https://www.elcorreo.com/bizkaia/secretaria-general-pp-vasco-enfrenta-radicales-trataban-20260719214929-nt_amp.html?utm_source=lootura.com",
       "publishedAt": "2026-07-19T19:49:29.000Z",
       "sourceId": "lootura-es-el-correo"
-    },
-    {
-      "title": "Así funciona la campaña permanente del PP que tiene a Abascal en sus oraciones",
-      "url": "https://www.larazon.es/espana/asi-funciona-campana-permanente-que-tiene-abascal-sus-oraciones_202607206a5d771c0500ab412c9fa9c9.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-20T01:17:16.000Z",
-      "sourceId": "lootura-es-la-razon"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

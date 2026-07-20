@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/psoe/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/psoe/index.json",
   "description": "Sigue la actividad de Partido Socialista Obrero Español en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-20T03:17:50.208Z",
+  "updatedAt": "2026-07-20T06:43:17.611Z",
   "aliases": [
     "Partido Socialista",
     "Partido Socialista Obrero Español"
@@ -17,6 +17,11 @@
     {
       "title": "Jésica, 'Julito', el amigo de Zapatero, y los recursos de Cerdán y Leire: otra semana con la corrupción del PSOE en los juzgados",
       "summary": "'Este lunes arranca la tercera semana consecutiva de declaraciones en la Audiencia Nacional en el marco de las principales causas que cercan al PSOE. Tras varios días de intensa actividad judicial , marcada principalmente por la condena al hermano del presidente y la confirmación del procesamiento de su mujer , nos enf.",
+      "date": "2026-07-20"
+    },
+    {
+      "title": "La imposible derrota de Sánchez",
+      "summary": "Pedro Sánchez no ha reconocido jamás una derrota electoral. En las primeras elecciones que tuvo que afrontar como secretario general, el PSOE cosechó en diciembre de 2015 el peor resultado de su historia, con 20 escaños menos de los que había obtenido antes Alfredo Pérez Rubalcaba. Esa misma marca histórica adversa la.",
       "date": "2026-07-20"
     },
     {
@@ -58,11 +63,6 @@
       "title": "El PSOE andaluz confirma a Montero, Espadas y Díaz como sus candidatos a senador",
       "summary": "El PSOE andaluz ha propuesto a los ya senadores por designación del Parlamento andaluz Juan Espadas y Susana Díaz para revalidar dichos escaños en la.",
       "date": "2026-07-18"
-    },
-    {
-      "title": "El PSOE elige candidata para la alcaldía de Madrid este domingo: Enma López desafía a Reyes Maroto",
-      "summary": "La militancia del PSOE en Madrid , Oviedo, Ferrol y Torrelavega está llamada a votar este domingo, 19 de julio, para escoger a los cabezas de lista que concurrirán a las elecciones previstas para mayo de 2027. Es la primera parada del calendario de primarias aprobado por el Comité Federal el pasado 27 de junio. El plan.",
-      "date": "2026-07-18"
     }
   ],
   "sources": [
@@ -71,7 +71,13 @@
       "url": "https://www.elconfidencial.com/espana/2026-07-20/jessica-julito-amigo-de-zapatero-y-los-recursos-de-cerdan-y-leire-otra-semana-con-la-corrupcion-del-psoe-en-los-juzgados_4392471/?utm_source=lootura.com",
       "publishedAt": "2026-07-20T03:00:00.000Z",
       "sourceId": "lootura-es-el-confidencial"
+    },
+    {
+      "title": "La imposible derrota de Sánchez",
+      "url": "https://theobjective.com/elsubjetivo/opinion/2026-07-20/imposible-derrota-sanchez-articulo-cano/?utm_source=lootura.com",
+      "publishedAt": "2026-07-20T03:25:00.000Z",
+      "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 2
 }

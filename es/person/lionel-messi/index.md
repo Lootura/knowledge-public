@@ -3,7 +3,7 @@
 > Sigue la actividad de Lionel Messi en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-20T03:17:50.208Z
+- Actualizado: 2026-07-20T06:43:17.611Z
 - Canonical: https://atlas.lootura.com/es/person/lionel-messi
 
 ## Cambios recientes
@@ -70,7 +70,5 @@ Date: 2026-07-16
 
 ## Fuentes
 
-- [Las lágrimas sin consuelo de Messi tras perder la final del Mundial en su posible despedida del fútbol internacional](https://www.20minutos.es/deportes/lagrimas-sin-consuelo-messi-tras-perder-final-mundial-posible-despedida-futbol-internacional_7016522_0.html?utm_source=lootura.com) — 2026-07-19T22:59:08.000Z
 - [Messi dice adiós entre lágrimas en una Argentina impotente y furiosa: "Tenemos que ser grandes en la derrota"](https://www.elmundo.es/deportes/futbol/mundial-de-futbol/2026/07/20/6a5d169bfc6c83a9138b4582.html?utm_source=lootura.com) — 2026-07-19T22:41:51.000Z
 - [Lamine emula a Pelé y niega a Messi](https://elpais.com/deportes/mundial-futbol/2026-07-19/lamine-emula-a-pele-y-niega-a-messi.html?utm_source=lootura.com) — 2026-07-19T23:08:16.000Z
-- [Campeones del Mundo: España borda su segunda estrella junto a Mapfre, Telefónica y Ebro](https://www.expansion.com/directivos/deporte-negocio/2026/07/20/6a5cd377468aeb60778b458d.html?utm_source=lootura.com) — 2026-07-19T22:04:48.000Z

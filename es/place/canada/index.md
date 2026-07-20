@@ -3,7 +3,7 @@
 > Sigue la actividad de Canada en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-20T03:17:50.208Z
+- Actualizado: 2026-07-20T06:43:17.611Z
 - Canonical: https://atlas.lootura.com/es/place/canada
 
 ## Cambios recientes
@@ -22,4 +22,4 @@ Date: 2026-07-18
 
 ## Fuentes
 
-- [Ferrán Torres, MVP de la final del Mundial: «El destino estaba escrito para que ganásemos»](https://theobjective.com/deportes/futbol/mundial/2026-07-20/ferran-torres-mvp-de-la-final-del-mundial-el-destino-estaba-escrito-para-que-ganasemos/?utm_source=lootura.com) — 2026-07-19T22:43:16.000Z
+- [Un increíble Mundial encumbra a Rodri: ¿es ya el mejor jugador que España ha tenido en toda su historia?](https://www.20minutos.es/deportes/futbol/un-increible-mundial-encumbra-rodri-seleccion-es-ya-mejor-jugador-espanol-historia_7015569_0.html?utm_source=lootura.com) — 2026-07-20T05:13:58.000Z

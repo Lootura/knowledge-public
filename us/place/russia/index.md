@@ -70,4 +70,4 @@ Date: 2026-07-17
 
 ## Sources
 
-- [Russia Batters Kyiv in One of the Largest Missile Assaults of the War](https://www.nytimes.com/2026/07/19/world/europe/russia-ukraine-strikes.html?utm_source=lootura.com) — 2026-07-19T18:26:41.000Z
+No public source links.

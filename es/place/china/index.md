@@ -3,10 +3,16 @@
 > Sigue la actividad de China en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-19T20:42:54.963Z
+- Actualizado: 2026-07-20T06:43:17.611Z
 - Canonical: https://atlas.lootura.com/es/place/china
 
 ## Cambios recientes
+
+### Soberanía a plazos
+
+China ha puesto a los robots a trabajar y a los hombres a esperar en la puerta. En Kunshan, corazón electrónico del país, las máquinas aprietan tornillos, clasifican piezas y no piden vacaciones; fuera, los obreros hacen cola por un empleo que se va volviendo reliquia. Pekín lo llama « modernización ». Occidente, a vec.
+
+Date: 2026-07-20
 
 ### La cuenta atrás de Pekín
 
@@ -62,12 +68,6 @@ El presidente denuncia la vulnerabilidad de las máquinas de voto, acusa a China
 
 Date: 2026-07-17
 
-### Trump resucita en un discurso a la nación el bulo del fraude electoral de 2020 y acusa a China de influir en su derrota
-
-Donald Trump, líder de un país en guerra y con el coste de la vida en alza, se dirigió este jueves por la noche a la nación para hablar de las elecciones... de hace seis años. No fue solo un intento de ajuste de cuentas con un fracaso personal; el presidente de Estados Unidos, cuya impopularidad bate récords, habló con.
-
-Date: 2026-07-17
-
 ## Fuentes
 
-No public source links.
+- [Soberanía a plazos](https://theobjective.com/elsubjetivo/opinion/2026-07-20/soberania-a-plazos-articulo-monago/?utm_source=lootura.com) — 2026-07-20T03:25:00.000Z

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/barcelona/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/barcelona/index.json",
   "description": "Follow Barcelona, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-20T03:18:08.226Z",
+  "updatedAt": "2026-07-20T06:43:38.114Z",
   "aliases": [],
   "changes": [
     {
@@ -24,11 +24,11 @@
   ],
   "sources": [
     {
-      "title": "How soccer eclipsed separatist politics in Spain",
-      "url": "https://www.politico.com/news/2026/07/19/soccer-spain-basques-catalans-sport-eclipses-politics-01004240?utm_source=lootura.com",
-      "publishedAt": "2026-07-19T15:20:34.000Z",
-      "sourceId": "lootura-us-politico"
+      "title": "Ferran Torres anota el gol que vale un Mundial para España",
+      "url": "https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/ferran-torres-anota-el-gol-que-vale-un-mundial-para-espana-tmvo13205269?utm_source=lootura.com",
+      "publishedAt": "2026-07-19T21:49:55.000Z",
+      "sourceId": "lootura-us-nbc-news"
     }
   ],
-  "evidenceCount": 0
+  "evidenceCount": 1
 }

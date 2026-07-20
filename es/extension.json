@@ -1,28 +1,28 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-20T06:44:03.168Z",
+  "generatedAt": "2026-07-20T06:48:29.429Z",
   "radar": {
     "id": "es",
     "slug": "es",
     "locale": "es"
   },
   "state": {
-    "signature": "1.16.0|34|1784517470208",
+    "signature": "1.16.0|35|1784529797611",
     "version": "1.16.0",
-    "build": 34,
-    "latestEntityUpdatedAt": "2026-07-20T03:17:50.208Z"
+    "build": 35,
+    "latestEntityUpdatedAt": "2026-07-20T06:43:17.611Z"
   },
   "atlas": {
     "hero": {
       "id": "es-donald-trump",
       "name": "Donald Trump",
       "type": "person",
-      "title": "El podemita Borja Iglesias le apartó la mirada a Donald Trump al darle la mano y recibir la medalla",
+      "title": "Pedro Sánchez, Donald Trump y la diplomacia del palco",
       "url": "https://atlas.lootura.com/es/person/donald-trump",
       "path": "/es/person/donald-trump",
-      "updatedAt": "2026-07-20T03:17:50.208Z",
-      "score": 1629,
-      "sourceCount": 119,
+      "updatedAt": "2026-07-20T06:43:17.611Z",
+      "score": 1562,
+      "sourceCount": 118,
       "isBreaking": false,
       "isPinned": false
     },
@@ -34,9 +34,22 @@
         "title": "España sale del armario",
         "url": "https://atlas.lootura.com/es/place/espana",
         "path": "/es/place/espana",
-        "updatedAt": "2026-07-20T03:17:50.208Z",
-        "score": 1551,
-        "sourceCount": 398,
+        "updatedAt": "2026-07-20T06:43:17.611Z",
+        "score": 1542,
+        "sourceCount": 409,
+        "isBreaking": false,
+        "isPinned": false
+      },
+      {
+        "id": "es-madrid",
+        "name": "Madrid",
+        "type": "place",
+        "title": "Madrid: el soterramiento de A-5 en Batán dice adiós a las curvas en superficie y vuelve al trazado recto",
+        "url": "https://atlas.lootura.com/es/place/madrid",
+        "path": "/es/place/madrid",
+        "updatedAt": "2026-07-20T06:43:17.611Z",
+        "score": 1539,
+        "sourceCount": 234,
         "isBreaking": false,
         "isPinned": false
       },
@@ -47,22 +60,9 @@
         "title": "Lamine emula a Pelé y niega a Messi",
         "url": "https://atlas.lootura.com/es/person/lionel-messi",
         "path": "/es/person/lionel-messi",
-        "updatedAt": "2026-07-20T03:17:50.208Z",
-        "score": 1551,
-        "sourceCount": 13,
-        "isBreaking": false,
-        "isPinned": false
-      },
-      {
-        "id": "es-madrid",
-        "name": "Madrid",
-        "type": "place",
-        "title": "Carlos Ibares: «Madrid tiene una enorme facilidad para reinventarse y, al hacerlo, muchas veces olvida su propio pasado»",
-        "url": "https://atlas.lootura.com/es/place/madrid",
-        "path": "/es/place/madrid",
-        "updatedAt": "2026-07-20T03:17:50.208Z",
-        "score": 1551,
-        "sourceCount": 229,
+        "updatedAt": "2026-07-20T06:43:17.611Z",
+        "score": 1524,
+        "sourceCount": 12,
         "isBreaking": false,
         "isPinned": false
       },
@@ -70,16 +70,16 @@
         "id": "es-pedro-sanchez",
         "name": "Pedro Sánchez",
         "type": "person",
-        "title": "Pedro Sánchez, Donald Trump y la diplomacia del palco",
+        "title": "Mandos de la Guardia Civil denuncian «alteración» en los ascensos para sancionar a generales y coroneles díscolos",
         "url": "https://atlas.lootura.com/es/person/pedro-sanchez",
         "path": "/es/person/pedro-sanchez",
-        "updatedAt": "2026-07-20T03:17:50.208Z",
-        "score": 1551,
-        "sourceCount": 178,
+        "updatedAt": "2026-07-20T06:43:17.611Z",
+        "score": 1516,
+        "sourceCount": 181,
         "isBreaking": false,
         "isPinned": false
       }
     ],
-    "publicEntityCount": 46
+    "publicEntityCount": 45
   }
 }

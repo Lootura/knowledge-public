@@ -8,12 +8,22 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/iran/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/iran/index.json",
   "description": "Follow Iran, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-20T03:18:08.226Z",
+  "updatedAt": "2026-07-20T06:43:38.114Z",
   "aliases": [],
   "changes": [
     {
       "title": "U.S. soldier killed in Iraq, Trump orders more strikes against Iran",
       "summary": "A U.S. service member was killed in Iraq on Saturday, CENTCOM announced. Separately, unidentified remains were found in Jordan at the location where a U.S. service member went missing and two others were killed following an Iranian strike. Taurean Small reports.",
+      "date": "2026-07-20"
+    },
+    {
+      "title": "Oil Prices Cross $90 a Barrel as U.S.-Iran Conflict Widens",
+      "summary": "Brent crude, the global benchmark for oil, rose more than 3 percent as trading resumed on Sunday, while S&P 500 futures remained essentially unchanged.",
+      "date": "2026-07-20"
+    },
+    {
+      "title": "Rubio Says That U.S. Is Still Open to Diplomacy With Iran",
+      "summary": "Secretary of State Marco Rubio also said that Iran has signaled it wants to negotiate with the United States, even as the two sides escalated their attacks.",
       "date": "2026-07-20"
     },
     {
@@ -50,16 +60,6 @@
       "title": "Iran says it is suspending commitments to interim deal with U.S. as they exchange attacks",
       "summary": "The widening strikes threatened civilians and services to them, including desalination plants for drinking water, while the global economy again was on alert.",
       "date": "2026-07-18"
-    },
-    {
-      "title": "U.S. military says 2 troops are dead and 1 is missing after Iran attacks a base in Jordan",
-      "summary": "Since the war began, 16 U.S. service members have now been killed and over 430 wounded.",
-      "date": "2026-07-18"
-    },
-    {
-      "title": "Iran and Kuwait report attacks on water and power infrastructure as strikes escalate",
-      "summary": "Critical water and power infrastructure sites have been damaged as the U.S. and Iran continue to trade strikes, while the parched Middle East reels from temperatures of 100 degrees and beyond.",
-      "date": "2026-07-18"
     }
   ],
   "sources": [
@@ -84,7 +84,13 @@
     {
       "title": "Oil Prices Cross $90 a Barrel as U.S.-Iran Conflict Widens",
       "url": "https://www.nytimes.com/2026/07/19/business/oil-prices-stocks-gas.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-19T22:22:29.000Z",
+      "publishedAt": "2026-07-20T06:33:35.000Z",
+      "sourceId": "lootura-us-the-new-york-times"
+    },
+    {
+      "title": "Rubio Says That U.S. Is Still Open to Diplomacy With Iran",
+      "url": "https://www.nytimes.com/2026/07/20/world/middleeast/rubio-us-iran-war-diplomacy.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-20T06:02:46.000Z",
       "sourceId": "lootura-us-the-new-york-times"
     },
     {

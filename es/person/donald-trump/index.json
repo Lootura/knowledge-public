@@ -8,13 +8,18 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/donald-trump/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/donald-trump/index.json",
   "description": "Sigue la actividad de Donald Trump en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-20T03:17:50.208Z",
+  "updatedAt": "2026-07-20T06:43:17.611Z",
   "aliases": [
     "President Donald Trump",
     "President Trump",
     "Trump"
   ],
   "changes": [
+    {
+      "title": "Pedro Sánchez, Donald Trump y la diplomacia del palco",
+      "summary": "Simpatías forzadas entre los presidentes ante la atenta mirada de Infantino y los Reyes de España Leer.",
+      "date": "2026-07-20"
+    },
     {
       "title": "El podemita Borja Iglesias le apartó la mirada a Donald Trump al darle la mano y recibir la medalla",
       "summary": "Borja Iglesias, uno de los jugadores que más se ha significado políticamente de la Selección española, siempre escorado hacia la extrema izquierda, protagonizó uno de los momentos más llamativos de la entrega de trofeos a los campeones del mundo. El delantero del Celta le apartó la mirada al presidente del país anfitri.",
@@ -59,32 +64,15 @@
       "title": "Estados Unidos lanza una ola de ataques contra Irán por séptimo día consecutivo",
       "summary": "Trump anunció la semana pasada la cancelación del memorando de entendimiento que había firmado el 18 de junio.",
       "date": "2026-07-17"
-    },
-    {
-      "title": "China exige a Trump que aparque el «invento» de la presunta injerencia electoral en 2020",
-      "summary": "China ha rechazado por completo las acusaciones formuladas por el presidente de Estados Unidos , Donald Trump , quien, esta pasada noche y en un discurso ante la nación, denunció que las autoridades de Pekín se habían inmiscuido en el desarrollo de las elecciones de 2020 . Trump y el Gobierno de Estados Unidos acusaron.",
-      "date": "2026-07-17"
     }
   ],
   "sources": [
     {
-      "title": "Trump la lía: abucheos y 'photobomb' con la copa",
-      "url": "https://www.abc.es/deportes/futbol/mundial/trump-palco-20260719011524-nt.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-20T01:52:17.000Z",
-      "sourceId": "lootura-es-abc"
-    },
-    {
       "title": "Pedro Sánchez, Donald Trump y la diplomacia del palco",
       "url": "https://www.elmundo.es/deportes/futbol/mundial-de-futbol/2026/07/20/6a5d4ed1e4d4d88d6c8b457a.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-19T22:42:31.000Z",
+      "publishedAt": "2026-07-20T06:32:20.000Z",
       "sourceId": "lootura-es-el-mundo"
-    },
-    {
-      "title": "El podemita Borja Iglesias le apartó la mirada a Donald Trump al darle la mano y recibir la medalla",
-      "url": "https://okdiario.com/mundial/podemita-borja-iglesias-aparto-mirada-donald-trump-darle-mano-recibir-medalla-19029900?utm_source=lootura.com",
-      "publishedAt": "2026-07-20T01:03:52.000Z",
-      "sourceId": "lootura-es-ok-diario"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

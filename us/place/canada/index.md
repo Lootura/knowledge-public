@@ -3,7 +3,7 @@
 > Follow Canada, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-20T03:18:08.226Z
+- Updated: 2026-07-20T06:43:38.114Z
 - Canonical: https://atlas.lootura.com/us/place/canada
 
 ## Recent changes
@@ -70,4 +70,5 @@ Date: 2026-07-18
 
 ## Sources
 
+- [The 2026 FIFA World Cup schedule and how to watch](https://www.cbsnews.com/news/world-cup-2026-schedule-how-to-watch/?utm_source=lootura.com) — 2026-07-20T03:18:02.000Z
 - [Nolan’s ‘The Odyssey’ Brings in $124.5 Million at the Box Office on Opening Weekend](https://www.nytimes.com/2026/07/19/business/media/the-odyssey-box-office-christopher-nolan.html?utm_source=lootura.com) — 2026-07-19T16:54:07.000Z

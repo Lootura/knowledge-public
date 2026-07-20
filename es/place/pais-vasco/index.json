@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/pais-vasco/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/pais-vasco/index.json",
   "description": "Sigue la actividad de País Vasco en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-19T20:42:54.963Z",
+  "updatedAt": "2026-07-20T06:43:17.611Z",
   "aliases": [
     "Basque Country",
     "Euskadi"
@@ -65,6 +65,13 @@
       "date": "2026-07-12"
     }
   ],
-  "sources": [],
+  "sources": [
+    {
+      "title": "Incidentes en Bilbao, Vitoria y Eibar contra seguidores de la selección española durante la final del Mundial",
+      "url": "https://www.eldiario.es/euskadi/incidentes-bilbao-vitoria-eibar-seguidores-seleccion-espanola-durante-final-mundial_1_13392310.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-20T05:51:07.000Z",
+      "sourceId": "lootura-es-eldiario-es"
+    }
+  ],
   "evidenceCount": 0
 }

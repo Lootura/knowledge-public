@@ -3,20 +3,20 @@
 > Sigue la actividad de San Sebastián en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-20T03:17:50.208Z
+- Actualizado: 2026-07-20T06:43:17.611Z
 - Canonical: https://atlas.lootura.com/es/place/san-sebastian
 
 ## Cambios recientes
 
-### El PNV de Esteban reafirma su entente soberanista con Bildu y usa como arietes del "derecho a decidir" a 200 alcaldes vascos
-
-La diputada general de Guipúzcoa Eider Mendoza amadrina en Bergara un acto conjunto por la "soberanía política". Los alcaldes de Bilbao y San Sebastián, a la cabeza de la convención nacionalista Leer.
-
-Date: 2026-07-19
-
 ### La hinchada argentina también apoya desde Donostia a su selección
 
 Los aficionados han llenado desde primera hora de la tarde la avenida de la Zurriola de banderas y camisetas albicelestes.
+
+Date: 2026-07-19
+
+### El PNV de Esteban reafirma su entente soberanista con Bildu y usa como arietes del "derecho a decidir" a 200 alcaldes vascos
+
+La diputada general de Guipúzcoa Eider Mendoza amadrina en Bergara un acto conjunto por la "soberanía política". Los alcaldes de Bilbao y San Sebastián, a la cabeza de la convención nacionalista Leer.
 
 Date: 2026-07-19
 
@@ -71,4 +71,3 @@ Date: 2026-07-15
 ## Fuentes
 
 - [La hinchada argentina también apoya desde Donostia a su selección](https://www.diariovasco.com/deportes/futbol/mundial/hinchada-argentina-calienta-final-mundial-donostia-20260719202745-nt_amp.html?utm_source=lootura.com) — 2026-07-19T18:27:45.000Z
-- [El PNV de Esteban reafirma su entente soberanista con Bildu y usa como arietes del "derecho a decidir" a 200 alcaldes vascos](https://www.elmundo.es/pais-vasco/2026/07/19/6a5cd398e85ece742a8b4584.html?utm_source=lootura.com) — 2026-07-19T14:06:47.000Z

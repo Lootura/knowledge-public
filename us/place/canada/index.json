@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/canada/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/canada/index.json",
   "description": "Follow Canada, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-20T03:18:08.226Z",
+  "updatedAt": "2026-07-20T06:43:38.114Z",
   "aliases": [],
   "changes": [
     {
@@ -63,6 +63,12 @@
     }
   ],
   "sources": [
+    {
+      "title": "The 2026 FIFA World Cup schedule and how to watch",
+      "url": "https://www.cbsnews.com/news/world-cup-2026-schedule-how-to-watch/?utm_source=lootura.com",
+      "publishedAt": "2026-07-20T03:18:02.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
     {
       "title": "Nolan’s ‘The Odyssey’ Brings in $124.5 Million at the Box Office on Opening Weekend",
       "url": "https://www.nytimes.com/2026/07/19/business/media/the-odyssey-box-office-christopher-nolan.html?utm_source=lootura.com",

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/united-states/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/united-states/index.json",
   "description": "Follow United States, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-20T03:18:08.226Z",
+  "updatedAt": "2026-07-20T06:43:38.114Z",
   "aliases": [
     "America",
     "Estados Unidos",
@@ -36,9 +36,19 @@
       "date": "2026-07-20"
     },
     {
-      "title": "Trump Gutted Civil Rights Agency, Stifling U.S. Scrutiny of Workplace Bias",
-      "summary": "A little-known federal office spent decades investigating potential discrimination by government contractors — until it was stopped by the Trump administration.",
-      "date": "2026-07-19"
+      "title": "Oil Prices Cross $90 a Barrel as U.S.-Iran Conflict Widens",
+      "summary": "Brent crude, the global benchmark for oil, rose more than 3 percent as trading resumed on Sunday, while S&P 500 futures remained essentially unchanged.",
+      "date": "2026-07-20"
+    },
+    {
+      "title": "Rubio Says That U.S. Is Still Open to Diplomacy With Iran",
+      "summary": "Secretary of State Marco Rubio also said that Iran has signaled it wants to negotiate with the United States, even as the two sides escalated their attacks.",
+      "date": "2026-07-20"
+    },
+    {
+      "title": "Tehran and Washington Face a ‘Wake Up Moment’ Over the War",
+      "summary": "U.S. and Iranian attacks are unfolding in a way that risks a wider war they cannot contain, analysts warn, unless they can return to negotiations quickly.",
+      "date": "2026-07-20"
     },
     {
       "title": "Politics chat: How much faith can you have in the country's election systems?",
@@ -53,16 +63,6 @@
     {
       "title": "Black and Latino Leaders Ask: What Do Socialist Wins Mean for New York?",
       "summary": "Longtime leaders and advocates in minority districts fear that victories by the Democratic Socialists of America in gentrifying neighborhoods could mean political erasure.",
-      "date": "2026-07-19"
-    },
-    {
-      "title": "Bank of America CEO Brian Moynihan says \"affordability is a challenge\" for customers",
-      "summary": "Bank of America CEO Brian Moynihan told \"Face the Nation with Margaret Brennan\" that he has been hearing from customers that \"affordability is a challenge\" amid rising gas and food prices and inflation, but he added that \"in the last couple months, we're seeing the wage growth of all income cohorts kind of coalesce tog.",
-      "date": "2026-07-19"
-    },
-    {
-      "title": "Sen. Mark Warner says Middle East bases are \"on and off under attack\" since Iran war began",
-      "summary": "In the wake of the deaths of two U.S. service members over the weekend at a Jordanian military base, Democratic Sen. Mark Warner of Virginia told \"Face the Nation with Margaret Brennan\" that \"these bases have been on and off under attack\" since the beginning of the war of Iran, which he described as a \"war of choice.\".",
       "date": "2026-07-19"
     }
   ],
@@ -124,9 +124,9 @@
     {
       "title": "Oil Prices Cross $90 a Barrel as U.S.-Iran Conflict Widens",
       "url": "https://www.nytimes.com/2026/07/19/business/oil-prices-stocks-gas.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-19T22:22:29.000Z",
+      "publishedAt": "2026-07-20T06:33:35.000Z",
       "sourceId": "lootura-us-the-new-york-times"
     }
   ],
-  "evidenceCount": 18
+  "evidenceCount": 19
 }

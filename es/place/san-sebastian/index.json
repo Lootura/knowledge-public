@@ -8,19 +8,19 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/san-sebastian/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/san-sebastian/index.json",
   "description": "Sigue la actividad de San Sebastián en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-20T03:17:50.208Z",
+  "updatedAt": "2026-07-20T06:43:17.611Z",
   "aliases": [
     "Donostia"
   ],
   "changes": [
     {
-      "title": "El PNV de Esteban reafirma su entente soberanista con Bildu y usa como arietes del \"derecho a decidir\" a 200 alcaldes vascos",
-      "summary": "La diputada general de Guipúzcoa Eider Mendoza amadrina en Bergara un acto conjunto por la \"soberanía política\". Los alcaldes de Bilbao y San Sebastián, a la cabeza de la convención nacionalista Leer.",
+      "title": "La hinchada argentina también apoya desde Donostia a su selección",
+      "summary": "Los aficionados han llenado desde primera hora de la tarde la avenida de la Zurriola de banderas y camisetas albicelestes.",
       "date": "2026-07-19"
     },
     {
-      "title": "La hinchada argentina también apoya desde Donostia a su selección",
-      "summary": "Los aficionados han llenado desde primera hora de la tarde la avenida de la Zurriola de banderas y camisetas albicelestes.",
+      "title": "El PNV de Esteban reafirma su entente soberanista con Bildu y usa como arietes del \"derecho a decidir\" a 200 alcaldes vascos",
+      "summary": "La diputada general de Guipúzcoa Eider Mendoza amadrina en Bergara un acto conjunto por la \"soberanía política\". Los alcaldes de Bilbao y San Sebastián, a la cabeza de la convención nacionalista Leer.",
       "date": "2026-07-19"
     },
     {
@@ -70,13 +70,7 @@
       "url": "https://www.diariovasco.com/deportes/futbol/mundial/hinchada-argentina-calienta-final-mundial-donostia-20260719202745-nt_amp.html?utm_source=lootura.com",
       "publishedAt": "2026-07-19T18:27:45.000Z",
       "sourceId": "lootura-es-el-diario-vasco"
-    },
-    {
-      "title": "El PNV de Esteban reafirma su entente soberanista con Bildu y usa como arietes del \"derecho a decidir\" a 200 alcaldes vascos",
-      "url": "https://www.elmundo.es/pais-vasco/2026/07/19/6a5cd398e85ece742a8b4584.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-19T14:06:47.000Z",
-      "sourceId": "lootura-es-el-mundo"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

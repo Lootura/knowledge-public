@@ -3,7 +3,7 @@
 > Sigue la actividad de Partido Popular en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-20T03:17:50.208Z
+- Actualizado: 2026-07-20T06:43:17.611Z
 - Canonical: https://atlas.lootura.com/es/organization/partido-popular
 
 ## Cambios recientes
@@ -70,6 +70,4 @@ Date: 2026-07-18
 
 ## Fuentes
 
-- [Cientos de manifestantes abertzales intentan derribar la pantalla gigante de Bilbao e increpan a los asistentes](https://www.elconfidencial.com/espana/pais-vasco/2026-07-19/seleccion-vasca-bilbao-manifestacion-final-1tps_4392592/?utm_source=lootura.com) — 2026-07-19T19:36:00.000Z
 - [«Antes de que se carguen la pantalla, me llevan por delante», dice la secretaria general del PP vasco](https://www.elcorreo.com/bizkaia/secretaria-general-pp-vasco-enfrenta-radicales-trataban-20260719214929-nt_amp.html?utm_source=lootura.com) — 2026-07-19T19:49:29.000Z
-- [Así funciona la campaña permanente del PP que tiene a Abascal en sus oraciones](https://www.larazon.es/espana/asi-funciona-campana-permanente-que-tiene-abascal-sus-oraciones_202607206a5d771c0500ab412c9fa9c9.html?utm_source=lootura.com) — 2026-07-20T01:17:16.000Z

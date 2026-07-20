@@ -3,7 +3,7 @@
 > Sigue la actividad de Estados Unidos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-20T03:17:50.208Z
+- Actualizado: 2026-07-20T06:43:17.611Z
 - Canonical: https://atlas.lootura.com/es/place/united-states
 
 ## Cambios recientes
@@ -70,6 +70,5 @@ Date: 2026-07-18
 
 ## Fuentes
 
-- [El palco de las pocas palabras: Trump y Sánchez aparcan temporalmente las diferencias durante la final del Mundial](https://elpais.com/deportes/mundial-futbol/2026-07-19/el-palco-de-las-pocas-palabras-trump-y-sanchez-aparcan-temporalmente-las-diferencias-durante-la-final-del-mundial.html?utm_source=lootura.com) — 2026-07-19T20:48:13.000Z
+- [Un increíble Mundial encumbra a Rodri: ¿es ya el mejor jugador que España ha tenido en toda su historia?](https://www.20minutos.es/deportes/futbol/un-increible-mundial-encumbra-rodri-seleccion-es-ya-mejor-jugador-espanol-historia_7015569_0.html?utm_source=lootura.com) — 2026-07-20T05:13:58.000Z
 - [15.000 personas rugen en el Movistar Arena para animar a la selección: "Queremos ser testigos de la historia"](https://amp.elmundo.es/deportes/futbol/mundial-de-futbol/2026/07/19/6a5ce5ace4d4d841498b4576.html?utm_source=lootura.com) — 2026-07-19T19:53:35.000Z
-- [Santander hace pleno en el mejor año de salidas a Bolsa en España desde 2018](https://www.expansion.com/empresas/banca/2026/07/20/6a50d98fe5fdea6f128b4575.html?utm_source=lootura.com) — 2026-07-19T22:21:06.000Z

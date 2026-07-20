@@ -3,7 +3,7 @@
 > Follow Democratic Party, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-07-20T03:18:08.226Z
+- Updated: 2026-07-20T06:43:38.114Z
 - Canonical: https://atlas.lootura.com/us/organization/democratic-party
 
 ## Recent changes
@@ -70,6 +70,6 @@ Date: 2026-07-17
 
 ## Sources
 
-- [US politicians push agencies to restrict research collaboration with China](https://www.nature.com/articles/d41586-026-02226-9?utm_source=lootura.com) — 2026-07-20T03:18:12.622Z
+- [US politicians push agencies to restrict research collaboration with China](https://www.nature.com/articles/d41586-026-02226-9?utm_source=lootura.com) — 2026-07-20T06:43:42.868Z
 - [Don’t Let This Useless Debate Distract You, Democrats](https://www.nytimes.com/2026/07/19/opinion/democrats-capitalism-socialism.html?utm_source=lootura.com) — 2026-07-19T14:47:24.000Z
 - [In Arizona’s Primaries, Democrats Fight Over a House Seat They Need Badly](https://www.nytimes.com/2026/07/19/us/elections/arizona-democratic-primary-shah-galan-woods.html?utm_source=lootura.com) — 2026-07-19T17:41:41.000Z

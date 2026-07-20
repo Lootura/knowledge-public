@@ -3,10 +3,40 @@
 > Sigue la actividad de Madrid en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-20T03:17:50.208Z
+- Actualizado: 2026-07-20T06:43:17.611Z
 - Canonical: https://atlas.lootura.com/es/place/madrid
 
 ## Cambios recientes
+
+### Madrid: el soterramiento de A-5 en Batán dice adiós a las curvas en superficie y vuelve al trazado recto
+
+Las obras de soterramiento de la A-5 se despiden de las curvas en superficie al eliminar el bypass de Batán para volver al trazado recto desde el 28 de julio, ha informado el área de Urbanismo, Medio Ambiente y Movilidad, con Borja Carabante al frente. Así, desde el día 28 un tramo de 350 metros de la carretera del pas.
+
+Date: 2026-07-20
+
+### Alerta amarilla por calor en la celebración de la Copa del Mundo en Madrid
+
+No se descarta la presencia de calima en esta jornada de lunes.
+
+Date: 2026-07-20
+
+### El delegado del Gobierno se ofrece a Reyes Maroto "para ganar Cibeles"
+
+Es toda una declaración de intenciones del hombre de Pedro Sánchez en la Delegación del Gobierno en la Comunidad de Madrid. En el pasado lo ha demostrado. Y ahora lo dice sin esconderse. El delegado de Moncloa, Francisco Martín, ha felicitado este domingo a la portavoz socialista en el Ayuntamiento, Reyes Maroto, tras.
+
+Date: 2026-07-20
+
+### Vuelve el cine de verano: Autocine Madrid regresa este lunes con música en directo y gastronomía
+
+Autocine Madrid iniciará este lunes una nueva edición de su cine de verano, que se prolongará hasta el 28 de agosto, con una programación que combinará proyecciones de películas, música en directo, gastronomía y actividades temáticas, y con la previsión de colgar el cartel de completo en buena parte de las sesiones. El.
+
+Date: 2026-07-20
+
+### Así es el primer tren sin conductor que recorrerá la Línea 6 del Metro de Madrid: llegará a las vías en unas semanas
+
+El primer tren sin conductor que circulará por la línea 6 del Metro de Madrid ya está en la capital . No se trata de un proyecto sino que el convoy ha llegado, se ha montado y en cuestión de semanas empezará a moverse por la red, aunque de momento lo hará sin pasajeros y en horario nocturno. Es el inicio de un cambio i.
+
+Date: 2026-07-20
 
 ### Carlos Ibares: «Madrid tiene una enorme facilidad para reinventarse y, al hacerlo, muchas veces olvida su propio pasado»
 
@@ -38,38 +68,12 @@ La exministra de Industria Reyes Maroto volverá a encabezar la candidatura soci
 
 Date: 2026-07-19
 
-### Maroto se impone en las primarias del PSOE de Madrid a Enma López y se enfrentará a Almeida
-
-Reyes Maroto volverá a medirse a José Luis Martínez-Almeida en las urnas. La exministra será la rival del actual alcalde y dirigente del PP en las elecciones municipales del próximo año tras vencer este domingo en las primarias del PSOE de Madrid a Enma López . La portavoz adjunta de los socialistas en el Ayuntamiento.
-
-Date: 2026-07-19
-
-### El aumento del calor activa avisos en diez comunidades autónomas: hasta 40 grados y tormentas
-
-Las temperaturas afectan a Aragón, Illes Balears, Catalunya, Comunidad de Madrid, La Rioja, Navarra, Región de Murcia, Comunitat Valenciana y Castilla-La Mancha Aemet lanza un aviso especial por la tercera ola de calor del verano El mapa de avisos de la Agencia Estatal de Meteorología (Aemet) marca este domingo en nara.
-
-Date: 2026-07-19
-
-### Reyes Maroto y Enma López depositan su voto confiando «en la democracia interna» del PSOE
-
-La portavoz del PSOE en el Ayuntamiento de Madrid, Reyes Maroto, y la portavoz adjunta, Enma López, han depositado este domingo su voto en las primarias.
-
-Date: 2026-07-19
-
-### Marcos Llorente, sobre la crianza de su hija Amor: «Quiero hacer un colegio donde esté protegida de los campos electromagnéticos»
-
-El futbolista del Atlético de Madrid y de la selección española explica que quiere construir una escuela en la que los niños reciban la educación que él considera oportuna.
-
-Date: 2026-07-19
-
-### Lo que la Audiencia de Madrid no ha cambiado: el juicio a Begoña Gómez se mantiene para antes de las generales
-
-El cambio de acusados y delitos no implica que la vista llegue tras los comicios Leer.
-
-Date: 2026-07-19
-
 ## Fuentes
 
-- [España no falló ante la gran final](https://www.abc.es/deportes/futbol/mundial/espana-fallo-ante-gran-final-20260719230619-nt.html?utm_source=lootura.com) — 2026-07-20T01:50:54.000Z
+- [Cuándo y dónde es la celebración de España: los campeones del mundo se citan con su afición](https://www.20minutos.es/deportes/futbol/celebracion-espana-mundial-2026-cuando-donde-campeones-mundo-aficion_7015928_0.html?utm_source=lootura.com) — 2026-07-20T06:30:58.000Z
 - [15.000 personas rugen en el Movistar Arena para animar a la selección: "Queremos ser testigos de la historia"](https://amp.elmundo.es/deportes/futbol/mundial-de-futbol/2026/07/19/6a5ce5ace4d4d841498b4576.html?utm_source=lootura.com) — 2026-07-19T19:53:35.000Z
-- [Carlos Ibares: «Madrid tiene una enorme facilidad para reinventarse y, al hacerlo, muchas veces olvida su propio pasado»](https://www.larazon.es/madrid/carlos-ibares-madrid-tiene-enorme-facilidad-reinventarse-hacerlo-muchas-veces-olvida-propio-pasado_202607206a5d763c1db8de040998bbd7.html?utm_source=lootura.com) — 2026-07-20T01:13:32.000Z
+- [Madrid: el soterramiento de A-5 en Batán dice adiós a las curvas en superficie y vuelve al trazado recto](https://www.larazon.es/madrid/madrid-soterramiento-batan-dice-adios-curvas-superficie-vuelve-trazado-recto_202607206a5db7a5e9f2e84b5c72f337.html?utm_source=lootura.com) — 2026-07-20T05:52:37.000Z
+- [Alerta amarilla por calor en la celebración de la Copa del Mundo en Madrid](https://www.larazon.es/madrid/alerta-amarilla-calor-celebracion-copa-mundo-madrid_202607206a5dbf780500ab412c9ffe2b.html?outputType=amp&utm_source=lootura.com) — 2026-07-20T06:26:00.000Z
+- [El delegado del Gobierno se ofrece a Reyes Maroto "para ganar Cibeles"](https://www.larazon.es/madrid/delegado-gobierno-ofrece-reyes-maroto-ganar-cibeles_202607206a5dba6f1db8de0409990c28.html?utm_source=lootura.com) — 2026-07-20T06:04:31.000Z
+- [Vuelve el cine de verano: Autocine Madrid regresa este lunes con música en directo y gastronomía](https://www.larazon.es/madrid/vuelve-cine-verano-autocine-madrid-regresa-este-lunes-musica-directo-gastronomia_202607206a5dbb930500ab412c9ff931.html?utm_source=lootura.com) — 2026-07-20T06:09:23.000Z
+- [Así es el primer tren sin conductor que recorrerá la Línea 6 del Metro de Madrid: llegará a las vías en unas semanas](https://okdiario.com/madrid/asi-primer-tren-sin-conductor-que-recorrera-linea-6-del-metro-madrid-llegara-vias-unas-semanas-19019873?utm_source=lootura.com) — 2026-07-20T06:15:27.000Z

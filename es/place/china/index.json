@@ -8,9 +8,14 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/china/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/china/index.json",
   "description": "Sigue la actividad de China en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-19T20:42:54.963Z",
+  "updatedAt": "2026-07-20T06:43:17.611Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "Soberanía a plazos",
+      "summary": "China ha puesto a los robots a trabajar y a los hombres a esperar en la puerta. En Kunshan, corazón electrónico del país, las máquinas aprietan tornillos, clasifican piezas y no piden vacaciones; fuera, los obreros hacen cola por un empleo que se va volviendo reliquia. Pekín lo llama « modernización ». Occidente, a vec.",
+      "date": "2026-07-20"
+    },
     {
       "title": "La cuenta atrás de Pekín",
       "summary": "La pregunta sobre la inteligencia artificial china no es ya si alcanzará a Estados Unidos, sino en qué mes. Conviene tomarse en serio esa premisa, porque Pekín la está ejecutando con una coherencia que Washington, ahora mismo, no logra igualar: ata económicamente a medio planeta , gana clientes regalando lo que EEUU co.",
@@ -55,13 +60,15 @@
       "title": "Trump desclasifica documentos de la CIA que demuestran el fraude electoral del chavismo",
       "summary": "El presidente denuncia la vulnerabilidad de las máquinas de voto, acusa a China de robar datos de 220 millones de electores y exige al Congreso una ley con identificación y prueba de ciudadanía.",
       "date": "2026-07-17"
-    },
-    {
-      "title": "Trump resucita en un discurso a la nación el bulo del fraude electoral de 2020 y acusa a China de influir en su derrota",
-      "summary": "Donald Trump, líder de un país en guerra y con el coste de la vida en alza, se dirigió este jueves por la noche a la nación para hablar de las elecciones... de hace seis años. No fue solo un intento de ajuste de cuentas con un fracaso personal; el presidente de Estados Unidos, cuya impopularidad bate récords, habló con.",
-      "date": "2026-07-17"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Soberanía a plazos",
+      "url": "https://theobjective.com/elsubjetivo/opinion/2026-07-20/soberania-a-plazos-articulo-monago/?utm_source=lootura.com",
+      "publishedAt": "2026-07-20T03:25:00.000Z",
+      "sourceId": "lootura-es-the-objective"
+    }
+  ],
+  "evidenceCount": 1
 }

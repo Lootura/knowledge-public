@@ -3,7 +3,7 @@
 > Follow United States, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-20T03:18:08.226Z
+- Updated: 2026-07-20T06:43:38.114Z
 - Canonical: https://atlas.lootura.com/us/place/united-states
 
 ## Recent changes
@@ -32,11 +32,23 @@ The Qatari-donated plane has been under scrutiny over whether it is fitted with 
 
 Date: 2026-07-20
 
-### Trump Gutted Civil Rights Agency, Stifling U.S. Scrutiny of Workplace Bias
+### Oil Prices Cross $90 a Barrel as U.S.-Iran Conflict Widens
 
-A little-known federal office spent decades investigating potential discrimination by government contractors — until it was stopped by the Trump administration.
+Brent crude, the global benchmark for oil, rose more than 3 percent as trading resumed on Sunday, while S&P 500 futures remained essentially unchanged.
 
-Date: 2026-07-19
+Date: 2026-07-20
+
+### Rubio Says That U.S. Is Still Open to Diplomacy With Iran
+
+Secretary of State Marco Rubio also said that Iran has signaled it wants to negotiate with the United States, even as the two sides escalated their attacks.
+
+Date: 2026-07-20
+
+### Tehran and Washington Face a ‘Wake Up Moment’ Over the War
+
+U.S. and Iranian attacks are unfolding in a way that risks a wider war they cannot contain, analysts warn, unless they can return to negotiations quickly.
+
+Date: 2026-07-20
 
 ### Politics chat: How much faith can you have in the country's election systems?
 
@@ -56,18 +68,6 @@ Longtime leaders and advocates in minority districts fear that victories by the 
 
 Date: 2026-07-19
 
-### Bank of America CEO Brian Moynihan says "affordability is a challenge" for customers
-
-Bank of America CEO Brian Moynihan told "Face the Nation with Margaret Brennan" that he has been hearing from customers that "affordability is a challenge" amid rising gas and food prices and inflation, but he added that "in the last couple months, we're seeing the wage growth of all income cohorts kind of coalesce tog.
-
-Date: 2026-07-19
-
-### Sen. Mark Warner says Middle East bases are "on and off under attack" since Iran war began
-
-In the wake of the deaths of two U.S. service members over the weekend at a Jordanian military base, Democratic Sen. Mark Warner of Virginia told "Face the Nation with Margaret Brennan" that "these bases have been on and off under attack" since the beginning of the war of Iran, which he described as a "war of choice.".
-
-Date: 2026-07-19
-
 ## Sources
 
 - [U.S. soldier killed in Iraq, Trump orders more strikes against Iran](https://www.cbsnews.com/video/us-soldier-killed-in-iraq-trump-orders-more-strikes-against-iran/?utm_source=lootura.com) — 2026-07-20T00:50:00.000Z
@@ -79,4 +79,4 @@ Date: 2026-07-19
 - [U.S. military recovers unidentified remains in Jordan as another service member dies in Iraq](https://www.nbcnews.com/world/middle-east/us-service-member-killed-in-iraq-rcna588275?utm_source=lootura.com) — 2026-07-19T19:52:32.000Z
 - [U.S. service member killed in Northern Iraq, says U.S. Central Command](https://www.nbcnews.com/now/video/u-s-service-member-killed-in-northern-iraq-says-u-s-central-command-266920517563?utm_source=lootura.com) — 2026-07-19T20:04:12.000Z
 - [Politics chat: How much faith can you have in the country's election systems?](https://www.npr.org/2026/07/19/nx-s1-5890938/politics-chat-how-much-faith-can-you-have-in-the-countrys-election-systems?utm_source=lootura.com) — 2026-07-19T12:04:18.000Z
-- [Oil Prices Cross $90 a Barrel as U.S.-Iran Conflict Widens](https://www.nytimes.com/2026/07/19/business/oil-prices-stocks-gas.html?utm_source=lootura.com) — 2026-07-19T22:22:29.000Z
+- [Oil Prices Cross $90 a Barrel as U.S.-Iran Conflict Widens](https://www.nytimes.com/2026/07/19/business/oil-prices-stocks-gas.html?utm_source=lootura.com) — 2026-07-20T06:33:35.000Z

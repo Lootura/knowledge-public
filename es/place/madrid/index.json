@@ -8,9 +8,34 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/madrid/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/madrid/index.json",
   "description": "Sigue la actividad de Madrid en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-20T03:17:50.208Z",
+  "updatedAt": "2026-07-20T06:43:17.611Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "Madrid: el soterramiento de A-5 en Batán dice adiós a las curvas en superficie y vuelve al trazado recto",
+      "summary": "Las obras de soterramiento de la A-5 se despiden de las curvas en superficie al eliminar el bypass de Batán para volver al trazado recto desde el 28 de julio, ha informado el área de Urbanismo, Medio Ambiente y Movilidad, con Borja Carabante al frente. Así, desde el día 28 un tramo de 350 metros de la carretera del pas.",
+      "date": "2026-07-20"
+    },
+    {
+      "title": "Alerta amarilla por calor en la celebración de la Copa del Mundo en Madrid",
+      "summary": "No se descarta la presencia de calima en esta jornada de lunes.",
+      "date": "2026-07-20"
+    },
+    {
+      "title": "El delegado del Gobierno se ofrece a Reyes Maroto \"para ganar Cibeles\"",
+      "summary": "Es toda una declaración de intenciones del hombre de Pedro Sánchez en la Delegación del Gobierno en la Comunidad de Madrid. En el pasado lo ha demostrado. Y ahora lo dice sin esconderse. El delegado de Moncloa, Francisco Martín, ha felicitado este domingo a la portavoz socialista en el Ayuntamiento, Reyes Maroto, tras.",
+      "date": "2026-07-20"
+    },
+    {
+      "title": "Vuelve el cine de verano: Autocine Madrid regresa este lunes con música en directo y gastronomía",
+      "summary": "Autocine Madrid iniciará este lunes una nueva edición de su cine de verano, que se prolongará hasta el 28 de agosto, con una programación que combinará proyecciones de películas, música en directo, gastronomía y actividades temáticas, y con la previsión de colgar el cartel de completo en buena parte de las sesiones. El.",
+      "date": "2026-07-20"
+    },
+    {
+      "title": "Así es el primer tren sin conductor que recorrerá la Línea 6 del Metro de Madrid: llegará a las vías en unas semanas",
+      "summary": "El primer tren sin conductor que circulará por la línea 6 del Metro de Madrid ya está en la capital . No se trata de un proyecto sino que el convoy ha llegado, se ha montado y en cuestión de semanas empezará a moverse por la red, aunque de momento lo hará sin pasajeros y en horario nocturno. Es el inicio de un cambio i.",
+      "date": "2026-07-20"
+    },
     {
       "title": "Carlos Ibares: «Madrid tiene una enorme facilidad para reinventarse y, al hacerlo, muchas veces olvida su propio pasado»",
       "summary": "Madrid se ha contado miles de veces, desde las crónicas de la Corte hasta las guías turísticas contemporáneas. Sin embargo, bajo la imagen monumental de la capital pervive una ciudad menos conocida, hecha de anécdotas, oficios desaparecidos y espacios transformados por el tiempo. En «Madrid en 300 historias », el histo.",
@@ -35,39 +60,14 @@
       "title": "Las bases del PSOE eligen continuismo: Reyes Maroto se impone a Enma López como candidata a la alcaldía de Madrid",
       "summary": "La exministra de Industria Reyes Maroto volverá a encabezar la candidatura socialista a la alcaldía de Madrid. Y consiguió la validación en las primarias celebradas este domingo: los militantes optaron por la continuidad y la eligieron a ella frente a la concejala Enma López , que se lanzó a la carrera sin el permiso p.",
       "date": "2026-07-19"
-    },
-    {
-      "title": "Maroto se impone en las primarias del PSOE de Madrid a Enma López y se enfrentará a Almeida",
-      "summary": "Reyes Maroto volverá a medirse a José Luis Martínez-Almeida en las urnas. La exministra será la rival del actual alcalde y dirigente del PP en las elecciones municipales del próximo año tras vencer este domingo en las primarias del PSOE de Madrid a Enma López . La portavoz adjunta de los socialistas en el Ayuntamiento.",
-      "date": "2026-07-19"
-    },
-    {
-      "title": "El aumento del calor activa avisos en diez comunidades autónomas: hasta 40 grados y tormentas",
-      "summary": "Las temperaturas afectan a Aragón, Illes Balears, Catalunya, Comunidad de Madrid, La Rioja, Navarra, Región de Murcia, Comunitat Valenciana y Castilla-La Mancha Aemet lanza un aviso especial por la tercera ola de calor del verano El mapa de avisos de la Agencia Estatal de Meteorología (Aemet) marca este domingo en nara.",
-      "date": "2026-07-19"
-    },
-    {
-      "title": "Reyes Maroto y Enma López depositan su voto confiando «en la democracia interna» del PSOE",
-      "summary": "La portavoz del PSOE en el Ayuntamiento de Madrid, Reyes Maroto, y la portavoz adjunta, Enma López, han depositado este domingo su voto en las primarias.",
-      "date": "2026-07-19"
-    },
-    {
-      "title": "Marcos Llorente, sobre la crianza de su hija Amor: «Quiero hacer un colegio donde esté protegida de los campos electromagnéticos»",
-      "summary": "El futbolista del Atlético de Madrid y de la selección española explica que quiere construir una escuela en la que los niños reciban la educación que él considera oportuna.",
-      "date": "2026-07-19"
-    },
-    {
-      "title": "Lo que la Audiencia de Madrid no ha cambiado: el juicio a Begoña Gómez se mantiene para antes de las generales",
-      "summary": "El cambio de acusados y delitos no implica que la vista llegue tras los comicios Leer.",
-      "date": "2026-07-19"
     }
   ],
   "sources": [
     {
-      "title": "España no falló ante la gran final",
-      "url": "https://www.abc.es/deportes/futbol/mundial/espana-fallo-ante-gran-final-20260719230619-nt.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-20T01:50:54.000Z",
-      "sourceId": "lootura-es-abc"
+      "title": "Cuándo y dónde es la celebración de España: los campeones del mundo se citan con su afición",
+      "url": "https://www.20minutos.es/deportes/futbol/celebracion-espana-mundial-2026-cuando-donde-campeones-mundo-aficion_7015928_0.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-20T06:30:58.000Z",
+      "sourceId": "lootura-es-20minutos"
     },
     {
       "title": "15.000 personas rugen en el Movistar Arena para animar a la selección: \"Queremos ser testigos de la historia\"",
@@ -76,11 +76,35 @@
       "sourceId": "lootura-es-el-mundo"
     },
     {
-      "title": "Carlos Ibares: «Madrid tiene una enorme facilidad para reinventarse y, al hacerlo, muchas veces olvida su propio pasado»",
-      "url": "https://www.larazon.es/madrid/carlos-ibares-madrid-tiene-enorme-facilidad-reinventarse-hacerlo-muchas-veces-olvida-propio-pasado_202607206a5d763c1db8de040998bbd7.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-20T01:13:32.000Z",
+      "title": "Madrid: el soterramiento de A-5 en Batán dice adiós a las curvas en superficie y vuelve al trazado recto",
+      "url": "https://www.larazon.es/madrid/madrid-soterramiento-batan-dice-adios-curvas-superficie-vuelve-trazado-recto_202607206a5db7a5e9f2e84b5c72f337.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-20T05:52:37.000Z",
       "sourceId": "lootura-es-la-razon"
+    },
+    {
+      "title": "Alerta amarilla por calor en la celebración de la Copa del Mundo en Madrid",
+      "url": "https://www.larazon.es/madrid/alerta-amarilla-calor-celebracion-copa-mundo-madrid_202607206a5dbf780500ab412c9ffe2b.html?outputType=amp&utm_source=lootura.com",
+      "publishedAt": "2026-07-20T06:26:00.000Z",
+      "sourceId": "lootura-es-la-razon"
+    },
+    {
+      "title": "El delegado del Gobierno se ofrece a Reyes Maroto \"para ganar Cibeles\"",
+      "url": "https://www.larazon.es/madrid/delegado-gobierno-ofrece-reyes-maroto-ganar-cibeles_202607206a5dba6f1db8de0409990c28.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-20T06:04:31.000Z",
+      "sourceId": "lootura-es-la-razon"
+    },
+    {
+      "title": "Vuelve el cine de verano: Autocine Madrid regresa este lunes con música en directo y gastronomía",
+      "url": "https://www.larazon.es/madrid/vuelve-cine-verano-autocine-madrid-regresa-este-lunes-musica-directo-gastronomia_202607206a5dbb930500ab412c9ff931.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-20T06:09:23.000Z",
+      "sourceId": "lootura-es-la-razon"
+    },
+    {
+      "title": "Así es el primer tren sin conductor que recorrerá la Línea 6 del Metro de Madrid: llegará a las vías en unas semanas",
+      "url": "https://okdiario.com/madrid/asi-primer-tren-sin-conductor-que-recorrera-linea-6-del-metro-madrid-llegara-vias-unas-semanas-19019873?utm_source=lootura.com",
+      "publishedAt": "2026-07-20T06:15:27.000Z",
+      "sourceId": "lootura-es-ok-diario"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 6
 }

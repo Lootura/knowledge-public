@@ -3,7 +3,7 @@
 > Follow Iran, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-20T03:18:08.226Z
+- Updated: 2026-07-20T06:43:38.114Z
 - Canonical: https://atlas.lootura.com/us/place/iran
 
 ## Recent changes
@@ -11,6 +11,18 @@
 ### U.S. soldier killed in Iraq, Trump orders more strikes against Iran
 
 A U.S. service member was killed in Iraq on Saturday, CENTCOM announced. Separately, unidentified remains were found in Jordan at the location where a U.S. service member went missing and two others were killed following an Iranian strike. Taurean Small reports.
+
+Date: 2026-07-20
+
+### Oil Prices Cross $90 a Barrel as U.S.-Iran Conflict Widens
+
+Brent crude, the global benchmark for oil, rose more than 3 percent as trading resumed on Sunday, while S&P 500 futures remained essentially unchanged.
+
+Date: 2026-07-20
+
+### Rubio Says That U.S. Is Still Open to Diplomacy With Iran
+
+Secretary of State Marco Rubio also said that Iran has signaled it wants to negotiate with the United States, even as the two sides escalated their attacks.
 
 Date: 2026-07-20
 
@@ -56,22 +68,11 @@ The widening strikes threatened civilians and services to them, including desali
 
 Date: 2026-07-18
 
-### U.S. military says 2 troops are dead and 1 is missing after Iran attacks a base in Jordan
-
-Since the war began, 16 U.S. service members have now been killed and over 430 wounded.
-
-Date: 2026-07-18
-
-### Iran and Kuwait report attacks on water and power infrastructure as strikes escalate
-
-Critical water and power infrastructure sites have been damaged as the U.S. and Iran continue to trade strikes, while the parched Middle East reels from temperatures of 100 degrees and beyond.
-
-Date: 2026-07-18
-
 ## Sources
 
 - [U.S. soldier killed in Iraq, Trump orders more strikes against Iran](https://www.cbsnews.com/video/us-soldier-killed-in-iraq-trump-orders-more-strikes-against-iran/?utm_source=lootura.com) — 2026-07-20T00:50:00.000Z
 - [Sen. Mark Warner says Middle East bases are "on and off under attack" since Iran war began](https://www.cbsnews.com/video/sen-mark-warner-says-middle-east-bases-are-on-and-off-under-attack-since-iran-war-began/?utm_source=lootura.com) — 2026-07-19T15:51:22.000Z
 - [Nigerian children pay the price for the Iran war as malnutrition and poverty surge](https://www.pbs.org/newshour/world/nigerian-children-pay-the-price-for-the-iran-war-as-malnutrition-and-poverty-surge?utm_source=lootura.com) — 2026-07-19T20:00:20.000Z
-- [Oil Prices Cross $90 a Barrel as U.S.-Iran Conflict Widens](https://www.nytimes.com/2026/07/19/business/oil-prices-stocks-gas.html?utm_source=lootura.com) — 2026-07-19T22:22:29.000Z
+- [Oil Prices Cross $90 a Barrel as U.S.-Iran Conflict Widens](https://www.nytimes.com/2026/07/19/business/oil-prices-stocks-gas.html?utm_source=lootura.com) — 2026-07-20T06:33:35.000Z
+- [Rubio Says That U.S. Is Still Open to Diplomacy With Iran](https://www.nytimes.com/2026/07/20/world/middleeast/rubio-us-iran-war-diplomacy.html?utm_source=lootura.com) — 2026-07-20T06:02:46.000Z
 - [Increased Cooperation With U.S. Has Put Jordan in Iran’s Cross Hairs](https://www.nytimes.com/2026/07/19/world/middleeast/iran-war-jordan-us.html?utm_source=lootura.com) — 2026-07-19T15:17:53.000Z

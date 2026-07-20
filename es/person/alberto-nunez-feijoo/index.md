@@ -70,4 +70,4 @@ Date: 2026-07-18
 
 ## Fuentes
 
-- [Así funciona la campaña permanente del PP que tiene a Abascal en sus oraciones](https://www.larazon.es/espana/asi-funciona-campana-permanente-que-tiene-abascal-sus-oraciones_202607206a5d771c0500ab412c9fa9c9.html?utm_source=lootura.com) — 2026-07-20T01:17:16.000Z
+No public source links.
