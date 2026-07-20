@@ -3,16 +3,10 @@
 > Follow Democratic Party, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-07-20T18:00:06.130Z
+- Updated: 2026-07-20T21:10:24.211Z
 - Canonical: https://atlas.lootura.com/us/organization/democratic-party
 
 ## Recent changes
-
-### Maine Democrats close in on pick to replace Senate candidate Graham Platner
-
-Maine Democrats appear to be settling on a frontrunner to replace former Senate candidate Graham Platner in a rushed process to take on Republican Sen. Susan Collins.
-
-Date: 2026-07-20
 
 ### In Maine Senate Race, Democrats Go From Chaos to Coronation
 
@@ -23,6 +17,18 @@ Date: 2026-07-20
 ### Maine Democratic Senate race narrows as candidates rally behind Troy Jackson
 
 The crowded Maine Senate race to replace Graham Platner has narrowed as Democrats rallied around former state Senate President Troy Jackson in the leadup to the party's nominating convention on Saturday.
+
+Date: 2026-07-20
+
+### Democrats avoid a messy fight in Maine, but uncertainty lingers: From the Politics Desk
+
+Welcome to From the Politics Desk, a daily newsletter that brings you the NBC News Politics team’s latest reporting and analysis from the White House, Capitol Hill and the campaign trail.
+
+Date: 2026-07-20
+
+### Maine Democrats close in on pick to replace Senate candidate Graham Platner
+
+Maine Democrats appear to be settling on a frontrunner to replace former Senate candidate Graham Platner in a rushed process to take on Republican Sen. Susan Collins.
 
 Date: 2026-07-20
 
@@ -62,14 +68,8 @@ Of the 103 Democrats who voted to eliminate aid to Israel, more than a dozen had
 
 Date: 2026-07-18
 
-### Without Platner, Maine Democrats Scramble to Keep Grassroots Energy Alive
-
-Graham Platner’s campaign for Senate imploded last week. The activists who backed him are seeking a candidate to carry his populist message in the race against Republican Susan Collins.
-
-Date: 2026-07-18
-
 ## Sources
 
 - [Maine Democratic Senate race narrows as candidates rally behind Troy Jackson](https://www.cbsnews.com/news/maine-senate-democrats-troy-jackson-graham-platner/?utm_source=lootura.com) — 2026-07-20T13:41:54.000Z
-- [Maine Democrats close in on pick to replace Senate candidate Graham Platner](https://www.npr.org/2026/07/20/nx-s1-5897456/maine-democrats-close-in-on-pick-to-replace-senate-candidate-graham-platner?utm_source=lootura.com) — 2026-07-20T08:41:56.000Z
+- [Democrats avoid a messy fight in Maine, but uncertainty lingers: From the Politics Desk](https://www.nbcnews.com/politics/politics-news/democrats-avoid-messy-fight-maine-uncertainty-lingers-politics-desk-rcna588434?utm_source=lootura.com) — 2026-07-20T21:00:00.000Z
 - [In Maine Senate Race, Democrats Go From Chaos to Coronation](https://www.nytimes.com/2026/07/20/us/politics/maine-democrats-senate-jackson-platner.html?utm_source=lootura.com) — 2026-07-20T09:02:24.000Z

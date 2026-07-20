@@ -1,0 +1,34 @@
+{
+  "id": "es-real-sociedad",
+  "name": "Real Sociedad",
+  "type": "person",
+  "locale": "es",
+  "canonicalPath": "/es/person/real-sociedad",
+  "canonicalUrl": "https://atlas.lootura.com/es/person/real-sociedad",
+  "markdownUrl": "https://atlas.lootura.com/es/person/real-sociedad/index.md",
+  "jsonUrl": "https://atlas.lootura.com/es/person/real-sociedad/index.json",
+  "description": "Sigue la actividad de Real Sociedad en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
+  "updatedAt": "2026-07-20T21:09:57.635Z",
+  "aliases": [],
+  "changes": [
+    {
+      "title": "La reacción de Unai Simón cuando Zubimendi le ofrece besar la bandera de la Real Sociedad",
+      "summary": "El jugador del equipo txuriurdin no ha dudado en darse dos palmadas en el pecho tras ese gesto.",
+      "date": "2026-07-20"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Real Sociedad first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-07-20"
+    }
+  ],
+  "sources": [
+    {
+      "title": "La reacción de Unai Simón cuando Zubimendi le ofrece besar la bandera de la Real Sociedad",
+      "url": "https://www.elcorreo.com/deportes/futbol/mundial/reaccion-unai-simon-zubimendi-ofrece-besar-bandera-20260720225658-nt_amp.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-20T20:56:58.000Z",
+      "sourceId": "lootura-es-el-correo"
+    }
+  ],
+  "evidenceCount": 1
+}

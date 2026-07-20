@@ -3,16 +3,10 @@
 > Follow Graham Platner, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-07-20T18:00:06.130Z
+- Updated: 2026-07-20T21:10:24.211Z
 - Canonical: https://atlas.lootura.com/us/person/graham-platner
 
 ## Recent changes
-
-### Maine Democrats close in on pick to replace Senate candidate Graham Platner
-
-Maine Democrats appear to be settling on a frontrunner to replace former Senate candidate Graham Platner in a rushed process to take on Republican Sen. Susan Collins.
-
-Date: 2026-07-20
 
 ### In Maine Senate Race, Democrats Go From Chaos to Coronation
 
@@ -29,6 +23,12 @@ Date: 2026-07-20
 ### Maine Democratic Senate race narrows as candidates rally behind Troy Jackson
 
 The crowded Maine Senate race to replace Graham Platner has narrowed as Democrats rallied around former state Senate President Troy Jackson in the leadup to the party's nominating convention on Saturday.
+
+Date: 2026-07-20
+
+### Maine Democrats close in on pick to replace Senate candidate Graham Platner
+
+Maine Democrats appear to be settling on a frontrunner to replace former Senate candidate Graham Platner in a rushed process to take on Republican Sen. Susan Collins.
 
 Date: 2026-07-20
 
@@ -71,6 +71,5 @@ Date: 2026-07-19
 ## Sources
 
 - [Maine Democratic Senate race narrows as candidates rally behind Troy Jackson](https://www.cbsnews.com/news/maine-senate-democrats-troy-jackson-graham-platner/?utm_source=lootura.com) — 2026-07-20T13:41:54.000Z
-- [Maine Democrats close in on pick to replace Senate candidate Graham Platner](https://www.npr.org/2026/07/20/nx-s1-5897456/maine-democrats-close-in-on-pick-to-replace-senate-candidate-graham-platner?utm_source=lootura.com) — 2026-07-20T08:41:56.000Z
 - [In Maine Senate Race, Democrats Go From Chaos to Coronation](https://www.nytimes.com/2026/07/20/us/politics/maine-democrats-senate-jackson-platner.html?utm_source=lootura.com) — 2026-07-20T09:02:24.000Z
 - [5 Things to Know About the Maine Senate Candidate Troy Jackson](https://www.nytimes.com/2026/07/20/us/politics/troy-jackson-maine-senate.html?utm_source=lootura.com) — 2026-07-20T15:11:11.000Z

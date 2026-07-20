@@ -3,7 +3,7 @@
 > Sigue la actividad de Donald Trump en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-20T17:59:39.360Z
+- Actualizado: 2026-07-20T21:09:57.635Z
 - Canonical: https://atlas.lootura.com/es/person/donald-trump
 
 ## Cambios recientes
@@ -70,4 +70,4 @@ Date: 2026-07-17
 
 ## Fuentes
 
-- [Pedro Sánchez, Donald Trump y la diplomacia del palco](https://www.elmundo.es/deportes/futbol/mundial-de-futbol/2026/07/20/6a5d4ed1e4d4d88d6c8b457a.html?utm_source=lootura.com) — 2026-07-20T06:32:20.000Z
+- [Donald Trump saca pecho de su Mundial: «Ha sido el más seguro y espectacular de la historia»](https://theobjective.com/internacional/2026-07-20/donald-trump-mundial-espectacular-historia/?utm_source=lootura.com) — 2026-07-20T17:42:51.000Z

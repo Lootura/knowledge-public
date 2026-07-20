@@ -8,14 +8,9 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/air-force-one/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/air-force-one/index.json",
   "description": "Follow Air Force One, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-20T18:00:06.130Z",
+  "updatedAt": "2026-07-20T21:10:24.211Z",
   "aliases": [],
   "changes": [
-    {
-      "title": "Trump Says New Air Force One Will Be Taken Out of Service to Be ‘Maxed Out’",
-      "summary": "The Qatari-donated plane has been under scrutiny over whether it is fitted with sufficient defensive capabilities to adequately protect a U.S. president and others traveling on it.",
-      "date": "2026-07-20"
-    },
     {
       "title": "Trump to keep using old Air Force One while new plane gets security upgrades",
       "summary": "The new Air Force One \"has a lot of capability, but as I understand it, in about a month or so, they're going to send it to have it be maxed out,\" President Trump said Sunday.",
@@ -24,6 +19,16 @@
     {
       "title": "Trump Administration Sought Phone Records of Times Journalists and Their Relatives",
       "summary": "The government is aggressively seeking the confidential sources of Times reporters who wrote about the president’s new Air Force One. The Times has asked a judge to quash the subpoenas.",
+      "date": "2026-07-20"
+    },
+    {
+      "title": "DOJ sought phone records of journalists and relatives in effort to unmask sources of Air Force One security report",
+      "summary": "A court document says the Trump administration sought New York Times journalists' phone records and even those of some of their relatives in an attempt to unmask the confidential sources of reporters who wrote about Trump's Qatari-gifted Air Force One jet.",
+      "date": "2026-07-20"
+    },
+    {
+      "title": "Trump Says New Air Force One Will Be Taken Out of Service to Be ‘Maxed Out’",
+      "summary": "The Qatari-donated plane has been under scrutiny over whether it is fitted with sufficient defensive capabilities to adequately protect a U.S. president and others traveling on it.",
       "date": "2026-07-20"
     },
     {
@@ -55,11 +60,6 @@
       "title": "Investigators Seek Information From Government Officials as Part of Air Force One Leak Investigation",
       "summary": "After The New York Times reported on security concerns related to the Qatari-donated jet, the F.B.I. sought to speak with several people who flew aboard the plane with President Trump last week and asked for their phones.",
       "date": "2026-07-16"
-    },
-    {
-      "title": "Discovered by Atlas",
-      "summary": "Air Force One first entered the public knowledge record with source-backed evidence.",
-      "date": "2026-07-15"
     }
   ],
   "sources": [
@@ -70,15 +70,15 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "Trump Says New Air Force One Will Be Taken Out of Service to Be ‘Maxed Out’",
-      "url": "https://www.nytimes.com/2026/07/19/us/politics/trump-air-force-modifications.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-20T04:06:04.000Z",
-      "sourceId": "lootura-us-the-new-york-times-politics"
+      "title": "DOJ sought phone records of journalists and relatives in effort to unmask sources of Air Force One security report",
+      "url": "https://www.pbs.org/newshour/nation/doj-sought-phone-records-of-journalists-and-relatives-in-effort-to-unmask-sources-of-air-force-one-security-report?utm_source=lootura.com",
+      "publishedAt": "2026-07-20T18:34:58.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
     },
     {
       "title": "Trump Administration Sought Phone Records of Times Journalists and Their Relatives",
       "url": "https://www.nytimes.com/2026/07/20/business/media/new-york-times-subpoenas-phone-records.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-20T17:56:41.000Z",
+      "publishedAt": "2026-07-20T19:25:15.000Z",
       "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],

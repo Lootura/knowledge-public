@@ -3,10 +3,16 @@
 > Follow Canada, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-20T18:00:06.130Z
+- Updated: 2026-07-20T21:10:24.211Z
 - Canonical: https://atlas.lootura.com/us/place/canada
 
 ## Recent changes
+
+### Canada faces one of its most intense fire seasons
+
+With nearly 1,000 active fires and an area as large as Belgium already burned, Canadian Prime Minister Mark Carney says his country is facing one of the "most intense" wildfire seasons in its history.
+
+Date: 2026-07-20
 
 ### Researchers challenge evidence behind high-profile parental alienation study
 
@@ -62,13 +68,7 @@ Nearly 200 fires continued to devastate swaths of the province as smoke continue
 
 Date: 2026-07-18
 
-### Trump Threatens Canada With Tariffs for Wildfire Smoke Over U.S.
-
-The president said on Friday in a social media post that Canada was failing to manage its wildfire response as smoke has blanketed U.S. cities including New York and Chicago.
-
-Date: 2026-07-18
-
 ## Sources
 
-- [The 2026 FIFA World Cup schedule and how to watch](https://www.cbsnews.com/news/world-cup-2026-schedule-how-to-watch/?utm_source=lootura.com) — 2026-07-20T03:18:02.000Z
-- [Researchers challenge evidence behind high-profile parental alienation study](https://phys.org/news/2026-07-evidence-high-profile-parental-alienation.html?utm_source=lootura.com) — 2026-07-20T16:00:03.000Z
+- [10 things that wowed us at the 2026 World Cup](https://www.npr.org/2026/07/20/nx-s1-5892511/2026-world-cup-fifa-spain-argentina-tournament?utm_source=lootura.com) — 2026-07-20T19:56:44.000Z
+- [Canada faces one of its most intense fire seasons](https://phys.org/news/2026-07-canada-intense-seasons.html?utm_source=lootura.com) — 2026-07-20T19:41:04.000Z

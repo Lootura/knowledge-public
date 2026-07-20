@@ -8,9 +8,14 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/venezuela/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/venezuela/index.json",
   "description": "Follow Venezuela, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-20T10:49:47.387Z",
+  "updatedAt": "2026-07-20T21:10:24.211Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "In Venezuela’s Rubble, a Search for the Family Pets",
+      "summary": "Volunteers are reuniting pets with families, offering Venezuelans comfort amid loss and devastation.",
+      "date": "2026-07-20"
+    },
     {
       "title": "Venezuela Earthquakes Force a Grim Homecoming for Migrants",
       "summary": "Mass migration, which defines modern Venezuela, has heavily marked the earthquake, too, saving many who had left, but also making their grief harder.",
@@ -52,6 +57,13 @@
       "date": "2026-07-08"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "In Venezuela’s Rubble, a Search for the Family Pets",
+      "url": "https://www.nytimes.com/2026/07/20/world/americas/venezuela-earthquakes-volunteer-pets.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-20T18:51:24.000Z",
+      "sourceId": "lootura-us-the-new-york-times-world"
+    }
+  ],
+  "evidenceCount": 1
 }

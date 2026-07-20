@@ -3,22 +3,10 @@
 > Follow Ukraine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-20T18:00:06.130Z
+- Updated: 2026-07-20T21:10:24.211Z
 - Canonical: https://atlas.lootura.com/us/place/ukraine
 
 ## Recent changes
-
-### Funding milestone detected
-
-At a conference on reconstruction, the focus shifted to private investment, not donor assistance.
-
-Date: 2026-07-20
-
-### Zelensky Faces Pressure to Remove Ukraine’s Top General
-
-Demonstrators and many soldiers want President Volodymyr Zelensky to reaffirm the vision of drone warfare laid out by the defense minister he fired last week.
-
-Date: 2026-07-20
 
 ### What it's like inside Ukraine during a massive Russian ballistic missile attack
 
@@ -29,6 +17,18 @@ Date: 2026-07-20
 ### Ukraine fires 400 drones toward Moscow as Zelenskyy grapples with protests
 
 The blitz came hours after Russia bombarded Kyiv and other Ukrainian cities with ballistic missiles in a relentless cycle of tit-for-tat strikes.
+
+Date: 2026-07-20
+
+### Funding milestone detected
+
+At a conference on reconstruction, the focus shifted to private investment, not donor assistance.
+
+Date: 2026-07-20
+
+### Zelensky Faces Pressure to Remove Ukraine’s Top General
+
+Demonstrators and many soldiers want President Volodymyr Zelensky to reaffirm the vision of drone warfare laid out by the defense minister he fired last week.
 
 Date: 2026-07-20
 
@@ -72,5 +72,3 @@ Date: 2026-07-18
 
 - [What it's like inside Ukraine during a massive Russian ballistic missile attack](https://www.cbsnews.com/video/what-its-like-inside-ukraine-during-a-massive-russian-ballistic-missile-attack/?utm_source=lootura.com) — 2026-07-20T13:36:01.000Z
 - [Ukraine fires 400 drones toward Moscow as Zelenskyy grapples with protests](https://www.pbs.org/newshour/world/ukraine-fires-400-drones-toward-moscow-as-zelenskyy-grapples-with-protests?utm_source=lootura.com) — 2026-07-20T16:36:32.000Z
-- [Ukraine War Momentum Helps Spur Interest in Postwar Investment](https://www.nytimes.com/2026/07/20/world/europe/ukraine-post-war-reconstruction.html?utm_source=lootura.com) — 2026-07-20T13:37:51.000Z
-- [Zelensky Faces Pressure to Remove Ukraine’s Top General](https://www.nytimes.com/2026/07/20/world/europe/ukraine-zelensky-general-defense-minister.html?utm_source=lootura.com) — 2026-07-20T17:27:16.000Z

@@ -1,42 +1,55 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-20T18:05:20.668Z",
+  "generatedAt": "2026-07-20T21:15:28.824Z",
   "radar": {
     "id": "usa",
     "slug": "us",
     "locale": "en"
   },
   "state": {
-    "signature": "1.16.1|4|1784570406130",
+    "signature": "1.16.1|5|1784581824211",
     "version": "1.16.1",
-    "build": 4,
-    "latestEntityUpdatedAt": "2026-07-20T18:00:06.130Z"
+    "build": 5,
+    "latestEntityUpdatedAt": "2026-07-20T21:10:24.211Z"
   },
   "atlas": {
     "hero": {
-      "id": "usa-graham-platner",
-      "name": "Graham Platner",
-      "type": "person",
+      "id": "usa-maine",
+      "name": "Maine",
+      "type": "place",
       "title": "5 Things to Know About the Maine Senate Candidate Troy Jackson",
-      "url": "https://atlas.lootura.com/us/person/graham-platner",
-      "path": "/us/person/graham-platner",
-      "updatedAt": "2026-07-20T18:00:06.130Z",
-      "score": 1597,
-      "sourceCount": 62,
+      "url": "https://atlas.lootura.com/us/place/maine",
+      "path": "/us/place/maine",
+      "updatedAt": "2026-07-20T21:10:24.211Z",
+      "score": 1586,
+      "sourceCount": 94,
       "isBreaking": false,
       "isPinned": false
     },
     "cards": [
       {
-        "id": "usa-maine",
-        "name": "Maine",
-        "type": "place",
+        "id": "usa-lindsey-graham",
+        "name": "Lindsey Graham",
+        "type": "person",
+        "title": "Nancy Mace won’t run for Lindsey Graham’s Senate seat",
+        "url": "https://atlas.lootura.com/us/person/lindsey-graham",
+        "path": "/us/person/lindsey-graham",
+        "updatedAt": "2026-07-20T21:10:24.211Z",
+        "score": 1584,
+        "sourceCount": 40,
+        "isBreaking": false,
+        "isPinned": false
+      },
+      {
+        "id": "usa-graham-platner",
+        "name": "Graham Platner",
+        "type": "person",
         "title": "5 Things to Know About the Maine Senate Candidate Troy Jackson",
-        "url": "https://atlas.lootura.com/us/place/maine",
-        "path": "/us/place/maine",
-        "updatedAt": "2026-07-20T18:00:06.130Z",
-        "score": 1597,
-        "sourceCount": 92,
+        "url": "https://atlas.lootura.com/us/person/graham-platner",
+        "path": "/us/person/graham-platner",
+        "updatedAt": "2026-07-20T21:10:24.211Z",
+        "score": 1582,
+        "sourceCount": 62,
         "isBreaking": false,
         "isPinned": false
       },
@@ -47,8 +60,8 @@
         "title": "5 Things to Know About the Maine Senate Candidate Troy Jackson",
         "url": "https://atlas.lootura.com/us/organization/maine-senate",
         "path": "/us/organization/maine-senate",
-        "updatedAt": "2026-07-20T18:00:06.130Z",
-        "score": 1576,
+        "updatedAt": "2026-07-20T21:10:24.211Z",
+        "score": 1561,
         "sourceCount": 14,
         "isBreaking": false,
         "isPinned": false
@@ -60,26 +73,13 @@
         "title": "5 Things to Know About the Maine Senate Candidate Troy Jackson",
         "url": "https://atlas.lootura.com/us/organization/troy-jackson",
         "path": "/us/organization/troy-jackson",
-        "updatedAt": "2026-07-20T18:00:06.130Z",
-        "score": 1569,
+        "updatedAt": "2026-07-20T21:10:24.211Z",
+        "score": 1558,
         "sourceCount": 8,
-        "isBreaking": false,
-        "isPinned": false
-      },
-      {
-        "id": "usa-democratic-party",
-        "name": "Democratic Party",
-        "type": "organization",
-        "title": "Maine Democratic Senate race narrows as candidates rally behind Troy Jackson",
-        "url": "https://atlas.lootura.com/us/organization/democratic-party",
-        "path": "/us/organization/democratic-party",
-        "updatedAt": "2026-07-20T18:00:06.130Z",
-        "score": 1567,
-        "sourceCount": 82,
         "isBreaking": false,
         "isPinned": false
       }
     ],
-    "publicEntityCount": 36
+    "publicEntityCount": 37
   }
 }

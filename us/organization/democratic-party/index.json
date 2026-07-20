@@ -8,16 +8,11 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/democratic-party/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/democratic-party/index.json",
   "description": "Follow Democratic Party, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-20T18:00:06.130Z",
+  "updatedAt": "2026-07-20T21:10:24.211Z",
   "aliases": [
     "Democrats"
   ],
   "changes": [
-    {
-      "title": "Maine Democrats close in on pick to replace Senate candidate Graham Platner",
-      "summary": "Maine Democrats appear to be settling on a frontrunner to replace former Senate candidate Graham Platner in a rushed process to take on Republican Sen. Susan Collins.",
-      "date": "2026-07-20"
-    },
     {
       "title": "In Maine Senate Race, Democrats Go From Chaos to Coronation",
       "summary": "Troy Jackson’s emergence as the clear front-runner to replace Graham Platner spares the party some challenges but points to some new ones.",
@@ -26,6 +21,16 @@
     {
       "title": "Maine Democratic Senate race narrows as candidates rally behind Troy Jackson",
       "summary": "The crowded Maine Senate race to replace Graham Platner has narrowed as Democrats rallied around former state Senate President Troy Jackson in the leadup to the party's nominating convention on Saturday.",
+      "date": "2026-07-20"
+    },
+    {
+      "title": "Democrats avoid a messy fight in Maine, but uncertainty lingers: From the Politics Desk",
+      "summary": "Welcome to From the Politics Desk, a daily newsletter that brings you the NBC News Politics team’s latest reporting and analysis from the White House, Capitol Hill and the campaign trail.",
+      "date": "2026-07-20"
+    },
+    {
+      "title": "Maine Democrats close in on pick to replace Senate candidate Graham Platner",
+      "summary": "Maine Democrats appear to be settling on a frontrunner to replace former Senate candidate Graham Platner in a rushed process to take on Republican Sen. Susan Collins.",
       "date": "2026-07-20"
     },
     {
@@ -57,11 +62,6 @@
       "title": "These AIPAC-Backed Democrats Voted to Nix Israel Aid. AIPAC Punished Them.",
       "summary": "Of the 103 Democrats who voted to eliminate aid to Israel, more than a dozen had been endorsed by the pro-Israel lobbying group. AIPAC quickly closed off online donations for them.",
       "date": "2026-07-18"
-    },
-    {
-      "title": "Without Platner, Maine Democrats Scramble to Keep Grassroots Energy Alive",
-      "summary": "Graham Platner’s campaign for Senate imploded last week. The activists who backed him are seeking a candidate to carry his populist message in the race against Republican Susan Collins.",
-      "date": "2026-07-18"
     }
   ],
   "sources": [
@@ -72,10 +72,10 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "Maine Democrats close in on pick to replace Senate candidate Graham Platner",
-      "url": "https://www.npr.org/2026/07/20/nx-s1-5897456/maine-democrats-close-in-on-pick-to-replace-senate-candidate-graham-platner?utm_source=lootura.com",
-      "publishedAt": "2026-07-20T08:41:56.000Z",
-      "sourceId": "lootura-us-npr-politics"
+      "title": "Democrats avoid a messy fight in Maine, but uncertainty lingers: From the Politics Desk",
+      "url": "https://www.nbcnews.com/politics/politics-news/democrats-avoid-messy-fight-maine-uncertainty-lingers-politics-desk-rcna588434?utm_source=lootura.com",
+      "publishedAt": "2026-07-20T21:00:00.000Z",
+      "sourceId": "lootura-us-nbc-news-politics"
     },
     {
       "title": "In Maine Senate Race, Democrats Go From Chaos to Coronation",
@@ -84,5 +84,5 @@
       "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 4
 }

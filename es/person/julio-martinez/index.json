@@ -8,13 +8,28 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/julio-martinez/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/julio-martinez/index.json",
   "description": "Sigue la actividad de Julio Martínez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-20T17:59:39.360Z",
+  "updatedAt": "2026-07-20T21:09:57.635Z",
   "aliases": [
     "Julio Mart",
     "Julio Martínez Martínez",
     "Julito Martínez"
   ],
   "changes": [
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Julio Martínez first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-07-20"
+    },
+    {
+      "title": "Julio Martínez delata a Zapatero y dice que se llevó el 1% por mediar en Plus Ultra",
+      "summary": "Plus Ultra y Julio Martínez Martínez han enviado sendos escritos a la Audiencia Nacional donde muestran su deseo de colaborar con la justicia y confiesan que José Luis Rodríguez Zapatero medió en el rescate de la aerolínea, según explican fuentes judiciales a ABC. El pagador del expresidente también detalla que alcanza.",
+      "date": "2026-07-20"
+    },
+    {
+      "title": "En Sumario de tarde: de la confesión del 'testaferro' de Zapatero al silencio de Jésica",
+      "summary": "Escucha en cinco minutos las noticias del día: de la confesión de Julio Martínez al silencio de Jésica.",
+      "date": "2026-07-20"
+    },
     {
       "title": "El empresario Julio Martínez señala a Zapatero en el rescate de Plus Ultra: “Era el que marcaba los pasos a seguir”",
       "summary": "Cambio de guion en el caso Plus Ultra . El empresario Julio Martínez Martínez, administrador de la consultora Análisis Relevante , epicentro del caso en el que se investigan las supuestas irregularidades en la concesión de una millonaria ayuda pública a la aerolínea, ha presentado un escrito en la Audiencia Nacional en.",
@@ -23,21 +38,6 @@
     {
       "title": "Plus Ultra reconoce que pagó 527.417 euros a la trama de Zapatero por informes ficticios",
       "summary": "El actual presidente de Plus Ultra, Julio Martínez Sola, ha ratificado la confesión del testaferro de José Luis Rodríguez Zapatero de que la trama de.",
-      "date": "2026-07-20"
-    },
-    {
-      "title": "Discovered by Atlas",
-      "summary": "Julio Martínez first entered the public knowledge record with source-backed evidence.",
-      "date": "2026-07-20"
-    },
-    {
-      "title": "Julio Martínez delata a Zapatero y dice que se llevó el 1% por mediar en Plus Ultra",
-      "summary": "Plus Ultra y Julio Martínez Martínez han enviado sendos escritos a la Audiencia Nacional donde muestran su deseo de colaborar con la Justicia y confiesan que José Luis Rodríguez Zapatero medió en el rescate de la aerolínea, según explican fuentes judiciales a ABC. El pagador del expresidente también detalla que alcanza.",
-      "date": "2026-07-20"
-    },
-    {
-      "title": "En Sumario de tarde: de la confesión del 'testaferro' de Zapatero al silencio de Jésica",
-      "summary": "Escucha en cinco minutos las noticias del día: de la confesión de Julio Martínez al silencio de Jésica.",
       "date": "2026-07-20"
     },
     {
@@ -60,20 +60,8 @@
     {
       "title": "Julio Martínez delata a Zapatero y dice que se llevó el 1% por mediar en Plus Ultra",
       "url": "https://www.abc.es/espana/plus-ultra-julito-martinez-envian-escritos-juez-20260720142541-nt.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-20T17:13:34.000Z",
+      "publishedAt": "2026-07-20T20:06:33.000Z",
       "sourceId": "lootura-es-abc"
-    },
-    {
-      "title": "El empresario Julio Martínez señala a Zapatero en el rescate de Plus Ultra: “Era el que marcaba los pasos a seguir”",
-      "url": "https://elpais.com/espana/2026-07-20/el-empresario-julio-martinez-senala-a-zapatero-en-el-rescate-de-plus-ultra.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-20T15:06:24.000Z",
-      "sourceId": "lootura-es-cinco-dias"
-    },
-    {
-      "title": "Plus Ultra reconoce que pagó 527.417 euros a la trama de Zapatero por informes ficticios",
-      "url": "https://theobjective.com/espana/tribunales/2026-07-20/plus-ultra-pago-trama-zapatero-informes-ficticios/?amp=&utm_source=lootura.com",
-      "publishedAt": "2026-07-20T13:38:33.000Z",
-      "sourceId": "lootura-es-the-objective"
     },
     {
       "title": "En Sumario de tarde: de la confesión del 'testaferro' de Zapatero al silencio de Jésica",
@@ -82,5 +70,5 @@
       "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 4
+  "evidenceCount": 2
 }

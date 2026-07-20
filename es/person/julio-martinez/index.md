@@ -3,10 +3,28 @@
 > Sigue la actividad de Julio Martínez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-20T17:59:39.360Z
+- Actualizado: 2026-07-20T21:09:57.635Z
 - Canonical: https://atlas.lootura.com/es/person/julio-martinez
 
 ## Cambios recientes
+
+### Discovered by Atlas
+
+Julio Martínez first entered the public knowledge record with source-backed evidence.
+
+Date: 2026-07-20
+
+### Julio Martínez delata a Zapatero y dice que se llevó el 1% por mediar en Plus Ultra
+
+Plus Ultra y Julio Martínez Martínez han enviado sendos escritos a la Audiencia Nacional donde muestran su deseo de colaborar con la justicia y confiesan que José Luis Rodríguez Zapatero medió en el rescate de la aerolínea, según explican fuentes judiciales a ABC. El pagador del expresidente también detalla que alcanza.
+
+Date: 2026-07-20
+
+### En Sumario de tarde: de la confesión del 'testaferro' de Zapatero al silencio de Jésica
+
+Escucha en cinco minutos las noticias del día: de la confesión de Julio Martínez al silencio de Jésica.
+
+Date: 2026-07-20
 
 ### El empresario Julio Martínez señala a Zapatero en el rescate de Plus Ultra: “Era el que marcaba los pasos a seguir”
 
@@ -17,24 +35,6 @@ Date: 2026-07-20
 ### Plus Ultra reconoce que pagó 527.417 euros a la trama de Zapatero por informes ficticios
 
 El actual presidente de Plus Ultra, Julio Martínez Sola, ha ratificado la confesión del testaferro de José Luis Rodríguez Zapatero de que la trama de.
-
-Date: 2026-07-20
-
-### Discovered by Atlas
-
-Julio Martínez first entered the public knowledge record with source-backed evidence.
-
-Date: 2026-07-20
-
-### Julio Martínez delata a Zapatero y dice que se llevó el 1% por mediar en Plus Ultra
-
-Plus Ultra y Julio Martínez Martínez han enviado sendos escritos a la Audiencia Nacional donde muestran su deseo de colaborar con la Justicia y confiesan que José Luis Rodríguez Zapatero medió en el rescate de la aerolínea, según explican fuentes judiciales a ABC. El pagador del expresidente también detalla que alcanza.
-
-Date: 2026-07-20
-
-### En Sumario de tarde: de la confesión del 'testaferro' de Zapatero al silencio de Jésica
-
-Escucha en cinco minutos las noticias del día: de la confesión de Julio Martínez al silencio de Jésica.
 
 Date: 2026-07-20
 
@@ -58,7 +58,5 @@ Date: 2026-07-20
 
 ## Fuentes
 
-- [Julio Martínez delata a Zapatero y dice que se llevó el 1% por mediar en Plus Ultra](https://www.abc.es/espana/plus-ultra-julito-martinez-envian-escritos-juez-20260720142541-nt.html?utm_source=lootura.com) — 2026-07-20T17:13:34.000Z
-- [El empresario Julio Martínez señala a Zapatero en el rescate de Plus Ultra: “Era el que marcaba los pasos a seguir”](https://elpais.com/espana/2026-07-20/el-empresario-julio-martinez-senala-a-zapatero-en-el-rescate-de-plus-ultra.html?utm_source=lootura.com) — 2026-07-20T15:06:24.000Z
-- [Plus Ultra reconoce que pagó 527.417 euros a la trama de Zapatero por informes ficticios](https://theobjective.com/espana/tribunales/2026-07-20/plus-ultra-pago-trama-zapatero-informes-ficticios/?amp=&utm_source=lootura.com) — 2026-07-20T13:38:33.000Z
+- [Julio Martínez delata a Zapatero y dice que se llevó el 1% por mediar en Plus Ultra](https://www.abc.es/espana/plus-ultra-julito-martinez-envian-escritos-juez-20260720142541-nt.html?utm_source=lootura.com) — 2026-07-20T20:06:33.000Z
 - [En Sumario de tarde: de la confesión del 'testaferro' de Zapatero al silencio de Jésica](https://theobjective.com/espana/2026-07-20/sumario-tarde-confesion-julio-martinez-silencio-jesica/?amp=&utm_source=lootura.com) — 2026-07-20T17:50:00.000Z

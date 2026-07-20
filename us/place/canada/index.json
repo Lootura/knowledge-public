@@ -8,9 +8,14 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/canada/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/canada/index.json",
   "description": "Follow Canada, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-20T18:00:06.130Z",
+  "updatedAt": "2026-07-20T21:10:24.211Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "Canada faces one of its most intense fire seasons",
+      "summary": "With nearly 1,000 active fires and an area as large as Belgium already burned, Canadian Prime Minister Mark Carney says his country is facing one of the \"most intense\" wildfire seasons in its history.",
+      "date": "2026-07-20"
+    },
     {
       "title": "Researchers challenge evidence behind high-profile parental alienation study",
       "summary": "Researchers from Manchester and Canada have shown that the claim by the authors of a study published earlier this year that most of its participants had experienced parental alienating behaviors during childhood is seriously misleading. Claims in the study that people affected by parental alienating behaviors showed gr.",
@@ -55,24 +60,19 @@
       "title": "Wildfires Continue To Burn in Ontario, Canada, Sending Smoke to U.S. Cities",
       "summary": "Nearly 200 fires continued to devastate swaths of the province as smoke continued to drift across parts of Canada and the United States.",
       "date": "2026-07-18"
-    },
-    {
-      "title": "Trump Threatens Canada With Tariffs for Wildfire Smoke Over U.S.",
-      "summary": "The president said on Friday in a social media post that Canada was failing to manage its wildfire response as smoke has blanketed U.S. cities including New York and Chicago.",
-      "date": "2026-07-18"
     }
   ],
   "sources": [
     {
-      "title": "The 2026 FIFA World Cup schedule and how to watch",
-      "url": "https://www.cbsnews.com/news/world-cup-2026-schedule-how-to-watch/?utm_source=lootura.com",
-      "publishedAt": "2026-07-20T03:18:02.000Z",
-      "sourceId": "lootura-us-cbs-news"
+      "title": "10 things that wowed us at the 2026 World Cup",
+      "url": "https://www.npr.org/2026/07/20/nx-s1-5892511/2026-world-cup-fifa-spain-argentina-tournament?utm_source=lootura.com",
+      "publishedAt": "2026-07-20T19:56:44.000Z",
+      "sourceId": "lootura-us-npr"
     },
     {
-      "title": "Researchers challenge evidence behind high-profile parental alienation study",
-      "url": "https://phys.org/news/2026-07-evidence-high-profile-parental-alienation.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-20T16:00:03.000Z",
+      "title": "Canada faces one of its most intense fire seasons",
+      "url": "https://phys.org/news/2026-07-canada-intense-seasons.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-20T19:41:04.000Z",
       "sourceId": "lootura-us-phys-org"
     }
   ],

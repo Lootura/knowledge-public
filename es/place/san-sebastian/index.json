@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/san-sebastian/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/san-sebastian/index.json",
   "description": "Sigue la actividad de San Sebastián en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-20T17:59:39.360Z",
+  "updatedAt": "2026-07-20T21:09:57.635Z",
   "aliases": [
     "Donostia"
   ],
@@ -72,17 +72,11 @@
       "sourceId": "lootura-es-el-diario-vasco"
     },
     {
-      "title": "La hinchada argentina también apoya desde Donostia a su selección",
-      "url": "https://www.diariovasco.com/deportes/futbol/mundial/hinchada-argentina-calienta-final-mundial-donostia-20260719202745-nt_amp.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-19T18:27:45.000Z",
-      "sourceId": "lootura-es-el-diario-vasco"
-    },
-    {
       "title": "El Torneo Donostia Hiria se apunta a la Semana Grande",
       "url": "https://www.diariovasco.com/deportes/pelota/altuna-rezusta-buscaran-tercera-txapela-consecutiva-donostia-hiria-20260720123203-nt_amp.html?utm_source=lootura.com",
       "publishedAt": "2026-07-20T10:32:24.000Z",
       "sourceId": "lootura-es-el-diario-vasco"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 2
 }

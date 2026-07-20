@@ -3,7 +3,7 @@
 > Sigue la actividad de San Sebastián en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-20T17:59:39.360Z
+- Actualizado: 2026-07-20T21:09:57.635Z
 - Canonical: https://atlas.lootura.com/es/place/san-sebastian
 
 ## Cambios recientes
@@ -71,5 +71,4 @@ Date: 2026-07-17
 ## Fuentes
 
 - [Un detenido y seis investigados por «amedrentar y coaccionar» a aficionados con la camiseta de España en San Sebastián](https://www.diariovasco.com/gipuzkoa/detenido-seis-investigados-amedrentar-coaccionar-aficionados-camiseta-20260720115453-nt_amp.html?utm_source=lootura.com) — 2026-07-20T09:54:53.000Z
-- [La hinchada argentina también apoya desde Donostia a su selección](https://www.diariovasco.com/deportes/futbol/mundial/hinchada-argentina-calienta-final-mundial-donostia-20260719202745-nt_amp.html?utm_source=lootura.com) — 2026-07-19T18:27:45.000Z
 - [El Torneo Donostia Hiria se apunta a la Semana Grande](https://www.diariovasco.com/deportes/pelota/altuna-rezusta-buscaran-tercera-txapela-consecutiva-donostia-hiria-20260720123203-nt_amp.html?utm_source=lootura.com) — 2026-07-20T10:32:24.000Z

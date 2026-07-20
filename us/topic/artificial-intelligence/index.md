@@ -3,10 +3,16 @@
 > Follow Artificial intelligence, a tracked topic, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: topic
-- Updated: 2026-07-20T18:00:06.130Z
+- Updated: 2026-07-20T21:10:24.211Z
 - Canonical: https://atlas.lootura.com/us/topic/artificial-intelligence
 
 ## Recent changes
+
+### Detailed maps of European wetlands reveal overlooked patches of ecosystems
+
+Nature, Published online: 20 July 2026; doi:10.1038/d41586-026-02211-2 Satellite images have been analysed by a machine-learning algorithm to produce high-resolution maps of wetland environments — a boon for conservation efforts.
+
+Date: 2026-07-20
 
 ### Daily briefing: CRISPR gets an AI-designed upgrade
 
@@ -17,12 +23,6 @@ Date: 2026-07-20
 ### Funding milestone detected
 
 Researchers have copied massive quantities of publicly available climate and environmental data from NASA onto a Swiss supercomputer to train artificial intelligence models—and for safekeeping amid U.S. funding cuts.
-
-Date: 2026-07-20
-
-### Detailed maps of European wetlands reveal overlooked patches of ecosystems
-
-Nature, Published online: 20 July 2026; doi:10.1038/d41586-026-02211-2 Satellite images have been analysed by a machine-learning algorithm to produce high-resolution maps of wetland environments — a boon for conservation efforts.
 
 Date: 2026-07-20
 
@@ -70,8 +70,4 @@ Date: 2026-07-19
 
 ## Sources
 
-- [Daily briefing: CRISPR gets an AI-designed upgrade](https://www.nature.com/articles/d41586-026-02272-3?utm_source=lootura.com) — 2026-07-20T14:00:50.780Z
-- [Detailed maps of European wetlands reveal overlooked patches of ecosystems](https://www.nature.com/articles/d41586-026-02211-2?utm_source=lootura.com) — 2026-07-20T18:00:10.136Z
-- [Swiss researchers hoard vast trove of NASA climate data](https://phys.org/news/2026-07-swiss-hoard-vast-trove-nasa.html?utm_source=lootura.com) — 2026-07-20T13:50:02.000Z
-- [AI ‘ghosts’ can comfort mourners — even when the bots get the facts wrong](https://www.sciencenews.org/article/ai-ghosts-grief-facts-wrong-chatbot?utm_source=lootura.com) — 2026-07-20T15:00:00.000Z
-- [Dr. Jill Lepore on why AI backlash is vital for the future](https://www.theverge.com/podcast/967884/jill-lepore-history-ai-artificial-state-elon-musk?utm_source=lootura.com) — 2026-07-20T15:00:00.000Z
+- [Detailed maps of European wetlands reveal overlooked patches of ecosystems](https://www.nature.com/articles/d41586-026-02211-2?utm_source=lootura.com) — 2026-07-20T21:10:28.422Z

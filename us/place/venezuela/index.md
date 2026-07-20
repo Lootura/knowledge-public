@@ -3,10 +3,16 @@
 > Follow Venezuela, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-20T10:49:47.387Z
+- Updated: 2026-07-20T21:10:24.211Z
 - Canonical: https://atlas.lootura.com/us/place/venezuela
 
 ## Recent changes
+
+### In Venezuela’s Rubble, a Search for the Family Pets
+
+Volunteers are reuniting pets with families, offering Venezuelans comfort amid loss and devastation.
+
+Date: 2026-07-20
 
 ### Venezuela Earthquakes Force a Grim Homecoming for Migrants
 
@@ -58,4 +64,4 @@ Date: 2026-07-08
 
 ## Sources
 
-No public source links.
+- [In Venezuela’s Rubble, a Search for the Family Pets](https://www.nytimes.com/2026/07/20/world/americas/venezuela-earthquakes-volunteer-pets.html?utm_source=lootura.com) — 2026-07-20T18:51:24.000Z

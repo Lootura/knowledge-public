@@ -8,9 +8,19 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/white-house/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/white-house/index.json",
   "description": "Follow White House, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-20T06:43:38.114Z",
+  "updatedAt": "2026-07-20T21:10:24.211Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "Democrats avoid a messy fight in Maine, but uncertainty lingers: From the Politics Desk",
+      "summary": "Welcome to From the Politics Desk, a daily newsletter that brings you the NBC News Politics team’s latest reporting and analysis from the White House, Capitol Hill and the campaign trail.",
+      "date": "2026-07-20"
+    },
+    {
+      "title": "White House Adds Jefferson Statue to the Rose Garden",
+      "summary": "The statue, which depicts the third president drafting the Declaration of Independence, joins those of Washington, Franklin and Hamilton.",
+      "date": "2026-07-20"
+    },
     {
       "title": "Face the Nation: Hochul, Homan, Moynihan",
       "summary": "Missed the second half of the show? New York Gov. Kathy Hochul, White House border czar Tom Homan and Bank of America CEO Brian Moynihan join the show.",
@@ -50,18 +60,21 @@
       "title": "Darline Graham in serious discussions about running for Lindsey Graham's seat",
       "summary": "Darline Graham indicated in a White House meeting Thursday that she's weighing a bid, CBS News confirmed.",
       "date": "2026-07-17"
-    },
-    {
-      "title": "Trump administration to declassify documents relating to China and U.S. elections",
-      "summary": "President Donald Trump addressed the nation from the White House, announcing that the administration will declassify documents related to the 2020 election and alleged influence by China.",
-      "date": "2026-07-17"
-    },
-    {
-      "title": "Trump Has Dismantled Election Security Efforts. Here’s How.",
-      "summary": "Since his return to the White House, the lead federal partner for states on election security has lost around a third of its work force.",
-      "date": "2026-07-17"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Democrats avoid a messy fight in Maine, but uncertainty lingers: From the Politics Desk",
+      "url": "https://www.nbcnews.com/politics/politics-news/democrats-avoid-messy-fight-maine-uncertainty-lingers-politics-desk-rcna588434?utm_source=lootura.com",
+      "publishedAt": "2026-07-20T21:00:00.000Z",
+      "sourceId": "lootura-us-nbc-news-politics"
+    },
+    {
+      "title": "White House Adds Jefferson Statue to the Rose Garden",
+      "url": "https://www.nytimes.com/2026/07/20/arts/design/thomas-jefferson-statue-rose-garden-white-house.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-20T19:46:32.000Z",
+      "sourceId": "lootura-us-the-new-york-times-politics"
+    }
+  ],
+  "evidenceCount": 2
 }

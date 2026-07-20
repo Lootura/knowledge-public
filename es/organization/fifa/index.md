@@ -3,7 +3,7 @@
 > Sigue la actividad de FIFA en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-20T17:59:39.360Z
+- Actualizado: 2026-07-20T21:09:57.635Z
 - Canonical: https://atlas.lootura.com/es/organization/fifa
 
 ## Cambios recientes
@@ -34,4 +34,4 @@ Date: 2026-07-08
 
 ## Fuentes
 
-- [La FIFA abre una investigación contra Argentina por su comportamiento tras la final del Mundial](https://www.eldiario.es/mundial-2026/fifa-abre-investigacion-argentina-comportamiento-final-mundial_1_13394358.html?utm_source=lootura.com) — 2026-07-20T16:45:33.000Z
+- [La FIFA ya tiene los informes para investigar el comportamiento de Argentina en la final del Mundial y valorar posibles sanciones](https://elpais.com/deportes/mundial-futbol/2026-07-20/la-fifa-ya-tiene-los-informes-para-investigar-el-comportamiento-de-argentina-en-la-final-del-mundial-y-valorar-posibles-sanciones.html?utm_source=lootura.com) — 2026-07-20T17:18:44.000Z

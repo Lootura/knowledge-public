@@ -3,7 +3,7 @@
 > Sigue la actividad de Lamine Yamal en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-20T17:59:39.360Z
+- Actualizado: 2026-07-20T21:09:57.635Z
 - Canonical: https://atlas.lootura.com/es/person/lamine-yamal
 
 ## Cambios recientes
@@ -11,6 +11,12 @@
 ### De Keyne, el hermano de Lamine Yamal, a la familia numerosa de Cucurella: los apoyos de los jugadores de la selección española fuera del campo
 
 El césped del MetLife Stadium de Nueva Jersey se convirtió este domingo en el escenario de emotivos encuentros de los futbolistas con sus familiares y amigos después de proclamarse campeones del mundo. Algunos posaron con ellos en persona, otros siempre se acuerdan de ellos en sus declaraciones.
+
+Date: 2026-07-20
+
+### Lamine Yamal reta a Paredes a pelear con Gavi en La Velada del Año
+
+El joven futbolista ha seguido la broma de un aficionado durante la rúa de los campeones del mundo por las calles de Madrid.
 
 Date: 2026-07-20
 
@@ -62,12 +68,7 @@ Lamine Yamal first entered the public knowledge record with source-backed eviden
 
 Date: 2026-07-10
 
-### Lamine Yamal: “Si a alguien debe temer Francia es a nosotros”
-
-Entre la pizarra de Luis de la Fuente y el olfato goleador de Mikel Merino , aparece la gambeta de Lamine Yamal. De nuevo elegido el mejor jugador del duelo ante Bélgica ayer. El canterano del Barcelona no necesitó ni marcar ni asistir para llevarse el trofeo individual. “Estoy muy contento por la victoria. Quiero marc.
-
-Date: 2026-07-10
-
 ## Fuentes
 
+- [Lamine Yamal reta a Paredes a pelear con Gavi en La Velada del Año](https://www.abc.es/deportes/futbol/mundial/lamine-yamal-reta-paredes-pelear-gavi-velada-20260720205617-nt_amp.html?utm_source=lootura.com) — 2026-07-20T18:56:17.000Z
 - [De Keyne, el hermano de Lamine Yamal, a la familia numerosa de Cucurella: los apoyos de los jugadores de la selección española fuera del campo](https://elpais.com/gente/2026-07-20/de-keyne-el-hermano-de-lamine-yamal-a-la-familia-numerosa-de-cucurella-los-apoyos-de-los-jugadores-de-la-seleccion-espanola-dentro-y-fuera-del-campo.html?utm_source=lootura.com) — 2026-07-20T17:18:27.000Z

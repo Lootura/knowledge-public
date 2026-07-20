@@ -3,16 +3,10 @@
 > Follow Air Force One, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-07-20T18:00:06.130Z
+- Updated: 2026-07-20T21:10:24.211Z
 - Canonical: https://atlas.lootura.com/us/person/air-force-one
 
 ## Recent changes
-
-### Trump Says New Air Force One Will Be Taken Out of Service to Be ‘Maxed Out’
-
-The Qatari-donated plane has been under scrutiny over whether it is fitted with sufficient defensive capabilities to adequately protect a U.S. president and others traveling on it.
-
-Date: 2026-07-20
 
 ### Trump to keep using old Air Force One while new plane gets security upgrades
 
@@ -23,6 +17,18 @@ Date: 2026-07-20
 ### Trump Administration Sought Phone Records of Times Journalists and Their Relatives
 
 The government is aggressively seeking the confidential sources of Times reporters who wrote about the president’s new Air Force One. The Times has asked a judge to quash the subpoenas.
+
+Date: 2026-07-20
+
+### DOJ sought phone records of journalists and relatives in effort to unmask sources of Air Force One security report
+
+A court document says the Trump administration sought New York Times journalists' phone records and even those of some of their relatives in an attempt to unmask the confidential sources of reporters who wrote about Trump's Qatari-gifted Air Force One jet.
+
+Date: 2026-07-20
+
+### Trump Says New Air Force One Will Be Taken Out of Service to Be ‘Maxed Out’
+
+The Qatari-donated plane has been under scrutiny over whether it is fitted with sufficient defensive capabilities to adequately protect a U.S. president and others traveling on it.
 
 Date: 2026-07-20
 
@@ -62,14 +68,8 @@ After The New York Times reported on security concerns related to the Qatari-don
 
 Date: 2026-07-16
 
-### Discovered by Atlas
-
-Air Force One first entered the public knowledge record with source-backed evidence.
-
-Date: 2026-07-15
-
 ## Sources
 
 - [Trump to keep using old Air Force One while new plane gets security upgrades](https://www.cbsnews.com/news/trump-air-force-one-maxed-out-security-capabilities-qatar/?utm_source=lootura.com) — 2026-07-20T17:35:23.000Z
-- [Trump Says New Air Force One Will Be Taken Out of Service to Be ‘Maxed Out’](https://www.nytimes.com/2026/07/19/us/politics/trump-air-force-modifications.html?utm_source=lootura.com) — 2026-07-20T04:06:04.000Z
-- [Trump Administration Sought Phone Records of Times Journalists and Their Relatives](https://www.nytimes.com/2026/07/20/business/media/new-york-times-subpoenas-phone-records.html?utm_source=lootura.com) — 2026-07-20T17:56:41.000Z
+- [DOJ sought phone records of journalists and relatives in effort to unmask sources of Air Force One security report](https://www.pbs.org/newshour/nation/doj-sought-phone-records-of-journalists-and-relatives-in-effort-to-unmask-sources-of-air-force-one-security-report?utm_source=lootura.com) — 2026-07-20T18:34:58.000Z
+- [Trump Administration Sought Phone Records of Times Journalists and Their Relatives](https://www.nytimes.com/2026/07/20/business/media/new-york-times-subpoenas-phone-records.html?utm_source=lootura.com) — 2026-07-20T19:25:15.000Z

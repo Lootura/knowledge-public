@@ -3,7 +3,7 @@
 > Sigue la actividad de Emiliano García-Page en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-20T10:49:30.114Z
+- Actualizado: 2026-07-20T21:09:57.635Z
 - Canonical: https://atlas.lootura.com/es/person/emiliano-garcia-page
 
 ## Cambios recientes
@@ -34,4 +34,4 @@ Date: 2026-07-18
 
 ## Fuentes
 
-No public source links.
+- [El incendio de La Mierla (Guadalajara) sigue fuera de control y obliga a evacuar Barcones en Soria](https://okdiario.com/actualidad/incendio-mierla-guadalajara-sigue-fuera-control-obliga-evacuar-barcones-soria-19036396/amp?utm_source=lootura.com) — 2026-07-20T21:09:17.000Z

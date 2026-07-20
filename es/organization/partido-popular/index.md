@@ -70,4 +70,4 @@ Date: 2026-07-18
 
 ## Fuentes
 
-- [«Antes de que se carguen la pantalla, me llevan por delante», dice la secretaria general del PP vasco](https://www.elcorreo.com/bizkaia/secretaria-general-pp-vasco-enfrenta-radicales-trataban-20260719214929-nt_amp.html?utm_source=lootura.com) — 2026-07-19T19:49:29.000Z
+No public source links.

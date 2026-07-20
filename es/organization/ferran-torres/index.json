@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/ferran-torres/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/ferran-torres/index.json",
   "description": "Sigue la actividad de Ferran Torres en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-20T17:59:39.360Z",
+  "updatedAt": "2026-07-20T21:09:57.635Z",
   "aliases": [],
   "changes": [
     {
@@ -39,11 +39,17 @@
   ],
   "sources": [
     {
+      "title": "Ferran 'españoliza' un lema de Trump",
+      "url": "https://www.abc.es/deportes/futbol/mundial/make-spain-great-again-lema-trumpista-ferran-20260720215445-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-20T20:21:12.000Z",
+      "sourceId": "lootura-es-abc"
+    },
+    {
       "title": "En Foios, el pueblo de Ferran Torres: “Es un ‘bon xiquet’, el mejor del mundo y el más guapo”",
       "url": "https://elpais.com/deportes/2026-07-20/en-foios-el-pueblo-de-ferran-torres-es-un-bon-xiquet-el-mejor-del-mundo-y-el-mas-guapo.html?utm_source=lootura.com",
       "publishedAt": "2026-07-20T12:30:07.000Z",
       "sourceId": "lootura-es-el-pais"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 2
 }

@@ -3,10 +3,28 @@
 > Sigue la actividad de Estados Unidos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-20T17:59:39.360Z
+- Actualizado: 2026-07-20T21:09:57.635Z
 - Canonical: https://atlas.lootura.com/es/place/united-states
 
 ## Cambios recientes
+
+### Una jueza bloquea temporalmente el acuerdo entre Paramount y Warner para crear el mayor grupo audiovisual de Estados Unidos
+
+A Paramount puede atragantársele el gran bocado que pegó el pasado febrero con la compra de Warner Bros, para crear el mayor grupo audiovisual de Estados Unidos. La operación, valorada en unos 110.000 millones de dólares, ha sufrido un repentino parón tras la decisión de un juez federal de California de dictar una orde.
+
+Date: 2026-07-20
+
+### El impactante ataque de un bisonte a un abuelo en Yellowstone que ha conmocionado a Estados Unidos
+
+La naturaleza no es un zoológico sin vallas. La reciente agresión sufrida por un turista en el Parque Nacional de Yellowstone (EE UU) ha vuelto a poner sobre la mesa el debate sobre la insensatez humana frente a la fauna indómita. Un hombre, acompañado por su nieto, fue proyectado por los aires tras ser embestido por u.
+
+Date: 2026-07-20
+
+### Estados Unidos lanza una nueva oleada de bombardeos sobre Irán
+
+El Mando Central de las Fuerzas Armadas estadounidenses (Centcom) ha informado este lunes de que ha lanzado una nueva oleada de bombardeos sobre.
+
+Date: 2026-07-20
 
 ### Irán presume de haber atacado de forma simultánea a EE UU en Bahrein y Qatar
 
@@ -50,24 +68,8 @@ La pregunta sobre la inteligencia artificial china no es ya si alcanzará a Esta
 
 Date: 2026-07-19
 
-### El inesperado arrepentimiento de Joaquín Sabina a sus 77 años: "Perdí demasiado tiempo"
-
-Joaquín Sabina sigue siendo genio y figura, manteniendo intacto su carisma y su afilada honestidad. A sus 77 años, el cantautor de Úbeda tiene todavía muy reciente su emotiva despedida definitiva de los escenarios . Aquella multitudinaria y triunfal gira, que arrancó con éxito en América y bajó el telón en el Movistar.
-
-Date: 2026-07-19
-
-### EEUU ataca Irán una noche más tras la muerte de dos de sus militares en una base en Jordania
-
-Estados Unidos ha anunciado el inicio de una nueva ronda de bombardeos contra Irán por orden del presidente Donald Trump , en una operación que tiene como objetivo reducir las capacidades de Teherán para amenazar el tráfico marítimo en el estrecho de Ormuz y responder al ataque -atribuido al Cuerpo de la Guardia Revolu.
-
-Date: 2026-07-19
-
-### Estados Unidos intensifica bombardeos aéreos contra Irán por octavo día seguido
-
-El Comando Central de las Fuerzas Armadas de Estados Unidos (Centcom) ha confirmado el inicio de una nueva serie de bombardeos aéreos sobre Irán, marcando.
-
-Date: 2026-07-19
-
 ## Fuentes
 
-- [Irán presume de haber atacado de forma simultánea a EE UU en Bahrein y Qatar](https://www.larazon.es/internacional/iran-presume-haber-atacado-forma-simultanea-bahrein-qatar_202607206a5e2843e9f2e84b5c73ba0d.html?utm_source=lootura.com) — 2026-07-20T13:53:07.000Z
+- [Una jueza bloquea temporalmente el acuerdo entre Paramount y Warner para crear el mayor grupo audiovisual de Estados Unidos](https://elpais.com/economia/2026-07-20/un-juez-bloquea-temporalmente-el-acuerdo-entre-paramount-y-warner-para-crear-el-mayor-grupo-audiovisual-de-estados-unidos.html?utm_source=lootura.com) — 2026-07-20T19:38:25.000Z
+- [El impactante ataque de un bisonte a un abuelo en Yellowstone que ha conmocionado a Estados Unidos](https://www.larazon.es/actualidad/impactante-ataque-bisonte-abuelo-yellowstone-que-conmocionado-estados-unidos-b51m_202607206a5e8c5d1db8de04099a62bb.html?utm_source=lootura.com) — 2026-07-20T21:00:13.000Z
+- [Estados Unidos lanza una nueva oleada de bombardeos sobre Irán](https://theobjective.com/internacional/2026-07-20/eeuu-nueva-oleada-bombardeos-iran/?amp=&utm_source=lootura.com) — 2026-07-20T20:48:15.000Z

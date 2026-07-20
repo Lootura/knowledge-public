@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/lionel-messi/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/lionel-messi/index.json",
   "description": "Sigue la actividad de Lionel Messi en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-20T17:59:39.360Z",
+  "updatedAt": "2026-07-20T21:09:57.635Z",
   "aliases": [
     "Messi"
   ],
@@ -66,11 +66,11 @@
   ],
   "sources": [
     {
-      "title": "Messi se pronuncia por primera vez desde la final y felicita a España de forma escueta",
-      "url": "https://okdiario.com/mundial/messi-pronuncia-primera-vez-desde-final-felicita-espana-forma-escueta-19035854/amp?utm_source=lootura.com",
-      "publishedAt": "2026-07-20T17:54:11.000Z",
-      "sourceId": "lootura-es-ok-diario"
+      "title": "Messi, un día después de perder la final: \"El dolor es muy grande y va a costar que cierre esta herida\"",
+      "url": "https://www.20minutos.es/deportes/futbol/messi-rompe-su-silencio-un-dia-despues-perder-final-mundial-dolor-es-muy-grande-va-costar-que-cierre-esta-herida_7016946_0.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-20T19:28:49.000Z",
+      "sourceId": "lootura-es-20minutos"
     }
   ],
-  "evidenceCount": 0
+  "evidenceCount": 1
 }

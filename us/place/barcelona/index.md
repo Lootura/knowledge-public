@@ -3,10 +3,16 @@
 > Follow Barcelona, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-20T10:49:47.387Z
+- Updated: 2026-07-20T21:10:24.211Z
 - Canonical: https://atlas.lootura.com/us/place/barcelona
 
 ## Recent changes
+
+### New web tool maps fossil locations across ancient continents in seconds
+
+Calculating a fossil's position throughout geological history is a complex process. In paleontology and other disciplines, determining a location in the past is a challenge that requires refined computational tools to process large volumes of data. Now, the BIOST3 Research Group at the University of Barcelona has desig.
+
+Date: 2026-07-20
 
 ### Discovered by Atlas
 
@@ -22,4 +28,4 @@ Date: 2026-07-18
 
 ## Sources
 
-No public source links.
+- [New web tool maps fossil locations across ancient continents in seconds](https://phys.org/news/2026-07-web-tool-fossil-ancient-continents.html?utm_source=lootura.com) — 2026-07-20T20:00:07.000Z

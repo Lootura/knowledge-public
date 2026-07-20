@@ -1,0 +1,56 @@
+{
+  "id": "es-unai-simon",
+  "name": "Unai Simón",
+  "type": "person",
+  "locale": "es",
+  "canonicalPath": "/es/person/unai-simon",
+  "canonicalUrl": "https://atlas.lootura.com/es/person/unai-simon",
+  "markdownUrl": "https://atlas.lootura.com/es/person/unai-simon/index.md",
+  "jsonUrl": "https://atlas.lootura.com/es/person/unai-simon/index.json",
+  "description": "Sigue la actividad de Unai Simón en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
+  "updatedAt": "2026-07-20T21:09:57.635Z",
+  "aliases": [],
+  "changes": [
+    {
+      "title": "La reacción de Unai Simón cuando Zubimendi le ofrece besar la bandera de la Real Sociedad",
+      "summary": "El jugador del equipo txuriurdin no ha dudado en darse dos palmadas en el pecho tras ese gesto.",
+      "date": "2026-07-20"
+    },
+    {
+      "title": "Repaso de España a Argentina, la vigente campeona del mundo",
+      "summary": "En el tiempo reglamentario no hemos visto a Unai Simón, mientras que el Dibu Martínez ha tenido que intervenir hasta en 10 ocasiones, 12 contando la prórroga.",
+      "date": "2026-07-20"
+    },
+    {
+      "title": "El abrazo de Unai Simón con David Raya y Joan García como campeones del mundo",
+      "summary": "La imagen de la celebración deja claro que el debate sobre la portería en los medios no ha trascendido en la convivencia de los campeones.",
+      "date": "2026-07-19"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Unai Simón first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-07-19"
+    }
+  ],
+  "sources": [
+    {
+      "title": "El 'pico' de Unai Simón con Yeremy Pino",
+      "url": "https://www.abc.es/deportes/futbol/mundial/unai-simon-pico-yeremy-pino-plena-celebracion-20260720220034-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-20T20:21:38.000Z",
+      "sourceId": "lootura-es-abc"
+    },
+    {
+      "title": "La reacción de Unai Simón cuando Zubimendi le ofrece besar la bandera de la Real Sociedad",
+      "url": "https://www.elcorreo.com/deportes/futbol/mundial/reaccion-unai-simon-zubimendi-ofrece-besar-bandera-20260720225658-nt_amp.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-20T20:56:58.000Z",
+      "sourceId": "lootura-es-el-correo"
+    },
+    {
+      "title": "El abrazo de Unai Simón con David Raya y Joan García como campeones del mundo",
+      "url": "https://www.elcorreo.com/deportes/futbol/mundial/abrazo-unai-simon-david-raya-joan-garcia-20260720011658-nt_amp.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-19T23:16:59.000Z",
+      "sourceId": "lootura-es-el-correo"
+    }
+  ],
+  "evidenceCount": 3
+}

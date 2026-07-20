@@ -3,16 +3,10 @@
 > Follow Maine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-20T18:00:06.130Z
+- Updated: 2026-07-20T21:10:24.211Z
 - Canonical: https://atlas.lootura.com/us/place/maine
 
 ## Recent changes
-
-### Maine Democrats close in on pick to replace Senate candidate Graham Platner
-
-Maine Democrats appear to be settling on a frontrunner to replace former Senate candidate Graham Platner in a rushed process to take on Republican Sen. Susan Collins.
-
-Date: 2026-07-20
 
 ### In Maine Senate Race, Democrats Go From Chaos to Coronation
 
@@ -29,6 +23,24 @@ Date: 2026-07-20
 ### Maine Democratic Senate race narrows as candidates rally behind Troy Jackson
 
 The crowded Maine Senate race to replace Graham Platner has narrowed as Democrats rallied around former state Senate President Troy Jackson in the leadup to the party's nominating convention on Saturday.
+
+Date: 2026-07-20
+
+### Democrats avoid a messy fight in Maine, but uncertainty lingers: From the Politics Desk
+
+Welcome to From the Politics Desk, a daily newsletter that brings you the NBC News Politics team’s latest reporting and analysis from the White House, Capitol Hill and the campaign trail.
+
+Date: 2026-07-20
+
+### Senators demand ICE answers and body cameras after deadly shootings in Maine and Houston
+
+Dozens of Democratic U.S. senators and Maine's Independent senator are demanding more details from Immigration and Customs Enforcement about vetting practices for new agents.
+
+Date: 2026-07-20
+
+### Maine Democrats close in on pick to replace Senate candidate Graham Platner
+
+Maine Democrats appear to be settling on a frontrunner to replace former Senate candidate Graham Platner in a rushed process to take on Republican Sen. Susan Collins.
 
 Date: 2026-07-20
 
@@ -56,21 +68,10 @@ The Maine secretary of state ended her run in a crowded race to replace Graham P
 
 Date: 2026-07-19
 
-### Troy Jackson has effectively secured the Maine Senate Democratic nomination
-
-SANFORD, Maine — Troy Jackson has effectively secured the Democratic nomination in the crucial Maine Senate race, winning the support of a majority of the state delegates who will officially nominate a candidate next weekend. While they are not legally bound to support him, nearly two-thirds of the 601 delegates have c.
-
-Date: 2026-07-19
-
-### Homan says "I think body cameras are the way to go" after ICE shootings
-
-White House border czar Tom Homan said "I think body cameras are the way to go" after fatal shootings by federal immigration officers in Texas and Maine earlier this month.
-
-Date: 2026-07-19
-
 ## Sources
 
 - [Maine Democratic Senate race narrows as candidates rally behind Troy Jackson](https://www.cbsnews.com/news/maine-senate-democrats-troy-jackson-graham-platner/?utm_source=lootura.com) — 2026-07-20T13:41:54.000Z
-- [Maine Democrats close in on pick to replace Senate candidate Graham Platner](https://www.npr.org/2026/07/20/nx-s1-5897456/maine-democrats-close-in-on-pick-to-replace-senate-candidate-graham-platner?utm_source=lootura.com) — 2026-07-20T08:41:56.000Z
+- [Democrats avoid a messy fight in Maine, but uncertainty lingers: From the Politics Desk](https://www.nbcnews.com/politics/politics-news/democrats-avoid-messy-fight-maine-uncertainty-lingers-politics-desk-rcna588434?utm_source=lootura.com) — 2026-07-20T21:00:00.000Z
+- [Senators demand ICE answers and body cameras after deadly shootings in Maine and Houston](https://www.pbs.org/newshour/nation/senators-demand-ice-answers-and-body-cameras-after-deadly-shootings-in-maine-and-houston?utm_source=lootura.com) — 2026-07-20T19:10:30.000Z
 - [In Maine Senate Race, Democrats Go From Chaos to Coronation](https://www.nytimes.com/2026/07/20/us/politics/maine-democrats-senate-jackson-platner.html?utm_source=lootura.com) — 2026-07-20T09:02:24.000Z
 - [5 Things to Know About the Maine Senate Candidate Troy Jackson](https://www.nytimes.com/2026/07/20/us/politics/troy-jackson-maine-senate.html?utm_source=lootura.com) — 2026-07-20T15:11:11.000Z

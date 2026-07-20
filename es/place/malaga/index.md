@@ -58,4 +58,4 @@ Date: 2026-07-17
 
 ## Fuentes
 
-- [La mujer asesinada en Málaga fue presuntamente apuñalada por su pareja, que se suicidó](https://www.elconfidencial.com/espana/andalucia/2026-07-20/muerte-punaladas-mujer-vivienda-antequera-malaga_4392967/?utm_source=lootura.com) — 2026-07-20T14:02:00.000Z
+No public source links.

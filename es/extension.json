@@ -1,68 +1,42 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-20T18:05:22.021Z",
+  "generatedAt": "2026-07-20T21:15:30.948Z",
   "radar": {
     "id": "es",
     "slug": "es",
     "locale": "es"
   },
   "state": {
-    "signature": "1.16.1|4|1784570379360",
+    "signature": "1.16.1|5|1784581797635",
     "version": "1.16.1",
-    "build": 4,
-    "latestEntityUpdatedAt": "2026-07-20T17:59:39.360Z"
+    "build": 5,
+    "latestEntityUpdatedAt": "2026-07-20T21:09:57.635Z"
   },
   "atlas": {
     "hero": {
-      "id": "es-espana",
-      "name": "España",
+      "id": "es-madrid",
+      "name": "Madrid",
       "type": "place",
       "title": "World Cup context updated",
-      "url": "https://atlas.lootura.com/es/place/espana",
-      "path": "/es/place/espana",
-      "updatedAt": "2026-07-20T17:59:39.360Z",
-      "score": 1587,
-      "sourceCount": 410,
+      "url": "https://atlas.lootura.com/es/place/madrid",
+      "path": "/es/place/madrid",
+      "updatedAt": "2026-07-20T21:09:57.635Z",
+      "score": 1572,
+      "sourceCount": 248,
       "isBreaking": false,
       "isPinned": false
     },
     "cards": [
       {
-        "id": "es-pedro-sanchez",
-        "name": "Pedro Sánchez",
-        "type": "person",
-        "title": "World Cup context updated",
-        "url": "https://atlas.lootura.com/es/person/pedro-sanchez",
-        "path": "/es/person/pedro-sanchez",
-        "updatedAt": "2026-07-20T17:59:39.360Z",
-        "score": 1575,
-        "sourceCount": 186,
-        "isBreaking": false,
-        "isPinned": false
-      },
-      {
-        "id": "es-madrid",
-        "name": "Madrid",
+        "id": "es-united-states",
+        "name": "Estados Unidos",
         "type": "place",
-        "title": "Zarzuela, Moncloa y Cibeles: Madrid se prepara para recibir a sus héroes",
-        "url": "https://atlas.lootura.com/es/place/madrid",
-        "path": "/es/place/madrid",
-        "updatedAt": "2026-07-20T17:59:39.360Z",
-        "score": 1563,
-        "sourceCount": 244,
-        "isBreaking": false,
-        "isPinned": false
-      },
-      {
-        "id": "es-donald-trump",
-        "name": "Donald Trump",
-        "type": "person",
-        "title": "Pedro Sánchez, Donald Trump y la diplomacia del palco",
-        "url": "https://atlas.lootura.com/es/person/donald-trump",
-        "path": "/es/person/donald-trump",
-        "updatedAt": "2026-07-20T17:59:39.360Z",
-        "score": 1553,
-        "sourceCount": 111,
+        "title": "El impactante ataque de un bisonte a un abuelo en Yellowstone que ha conmocionado a Estados Unidos",
+        "url": "https://atlas.lootura.com/es/place/united-states",
+        "path": "/es/place/united-states",
+        "updatedAt": "2026-07-20T21:09:57.635Z",
+        "score": 1569,
+        "sourceCount": 124,
         "isBreaking": false,
         "isPinned": false
       },
@@ -70,16 +44,42 @@
         "id": "es-lamine-yamal",
         "name": "Lamine Yamal",
         "type": "person",
-        "title": "De Keyne, el hermano de Lamine Yamal, a la familia numerosa de Cucurella: los apoyos de los jugadores de la selección española fuera del campo",
+        "title": "World Cup context updated",
         "url": "https://atlas.lootura.com/es/person/lamine-yamal",
         "path": "/es/person/lamine-yamal",
-        "updatedAt": "2026-07-20T17:59:39.360Z",
-        "score": 1553,
-        "sourceCount": 10,
+        "updatedAt": "2026-07-20T21:09:57.635Z",
+        "score": 1557,
+        "sourceCount": 11,
+        "isBreaking": false,
+        "isPinned": false
+      },
+      {
+        "id": "es-espana",
+        "name": "España",
+        "type": "place",
+        "title": "Un detenido y seis investigados por «amedrentar y coaccionar» a aficionados con la camiseta de España en San Sebastián",
+        "url": "https://atlas.lootura.com/es/place/espana",
+        "path": "/es/place/espana",
+        "updatedAt": "2026-07-20T21:09:57.635Z",
+        "score": 1548,
+        "sourceCount": 415,
+        "isBreaking": false,
+        "isPinned": false
+      },
+      {
+        "id": "es-iran",
+        "name": "Iran",
+        "type": "place",
+        "title": "El precio del petróleo modera su escalada ante una posible reapertura de las negociaciones entre Irán y EE UU",
+        "url": "https://atlas.lootura.com/es/place/iran",
+        "path": "/es/place/iran",
+        "updatedAt": "2026-07-20T21:09:57.635Z",
+        "score": 1542,
+        "sourceCount": 91,
         "isBreaking": false,
         "isPinned": false
       }
     ],
-    "publicEntityCount": 49
+    "publicEntityCount": 54
   }
 }

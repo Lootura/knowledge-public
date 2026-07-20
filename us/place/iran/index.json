@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/iran/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/iran/index.json",
   "description": "Follow Iran, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-20T18:00:06.130Z",
+  "updatedAt": "2026-07-20T21:10:24.211Z",
   "aliases": [],
   "changes": [
     {
@@ -32,11 +32,6 @@
       "date": "2026-07-20"
     },
     {
-      "title": "US Fires at Iran After 3 US Service Members Killed in Middle East",
-      "summary": "The United States is firing back against Iran after the deaths of at least three U.S. service members in the Middle East. The American death toll in the war now stands at 17. NBC’s Keir Simmons reports for TODAY.",
-      "date": "2026-07-20"
-    },
-    {
       "title": "How closely linked are gas prices to U.S.-Iran tensions?",
       "summary": "Gas prices crept back up amid increased tensions between the U.S. and Iran. Joe Ciolli, the executive editor of Business Insider, joins with more.",
       "date": "2026-07-20"
@@ -47,26 +42,37 @@
       "date": "2026-07-20"
     },
     {
-      "title": "U.S. soldier killed in Iraq, Trump orders more strikes against Iran",
-      "summary": "A U.S. service member was killed in Iraq on Saturday, CENTCOM announced. Separately, unidentified remains were found in Jordan at the location where a U.S. service member went missing and two others were killed following an Iranian strike. Taurean Small reports.",
+      "title": "How recent killings of U.S. soldiers could affect the war with Iran",
+      "summary": "President Trump reacted to the recent killings of U.S. soldiers in the Middle East with strong words on Monday, promising that Iran will pay \"many times over.\" Mark Cancian, senior adviser at the Center for Strategic and International Studies, joins CBS News to break down what this means for the war and CBS News' Weiji.",
       "date": "2026-07-20"
     },
     {
-      "title": "3 U.S. personnel killed in Iran conflict. And, Hunter Biden opens up to NPR",
-      "summary": "Three U.S. service members have been killed since Friday amid rising tension between the U.S. and Iran. And, Hunter Biden talks to NPR's Newsmakers about addiction and public scrutiny. (Image credit: Atta Kenare).",
+      "title": "Gas prices top $4 a gallon again as U.S.-Iran conflict escalates",
+      "summary": "The national average for a gallon of gas reached $4.003 on Monday, the first time in over a month it has crossed that threshold, AAA data shows.",
       "date": "2026-07-20"
     },
     {
-      "title": "Steve Forbes urges Trump to keep the Strait of Hormuz open at all costs",
-      "summary": "Steve Forbes says the United States must double down on efforts to topple the Tehran regime, arguing that free passage through the Strait of Hormuz should remain a non-negotiable American imperative. As the U.S. struck targets in Iran for a ninth consecutive day on Sunday, pressure on the Tehran regime continued to bui.",
+      "title": "Trump administration says Iran war reaching ‘time of ambiguity’ as military strikes escalate",
+      "summary": "Tensions rise between the U.S. and Iran as the two sides exchange fire for the tenth consecutive day after the Pentagon identifies two U.S. soldiers killed in an Iranian strike on a U.S. air base in Jordan. NBC News correspondents Monica Alba, Keir Simmons, Courtney Kube and NBC News military analyst retired Col. Steve.",
+      "date": "2026-07-20"
+    },
+    {
+      "title": "The war with Iran is escalating. What next?",
+      "summary": "NPR's Ailsa Chang speaks with Suzanne Maloney of the Brookings Institution about the U.S. war with Iran, the increase in hostilities and what it means for the wider region.",
       "date": "2026-07-20"
     }
   ],
   "sources": [
     {
-      "title": "Pentagon ID's 2 soldiers killed in Iran strike in Jordan; 1 still missing",
-      "url": "https://www.cbsnews.com/news/iran-strike-jordan-us-troops-killed/?utm_source=lootura.com",
-      "publishedAt": "2026-07-20T17:15:05.000Z",
+      "title": "How recent killings of U.S. soldiers could affect the war with Iran",
+      "url": "https://www.cbsnews.com/video/how-recent-killings-of-us-soldiers-could-affect-the-war-with-iran/?utm_source=lootura.com",
+      "publishedAt": "2026-07-20T19:27:21.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
+    {
+      "title": "Gas prices top $4 a gallon again as U.S.-Iran conflict escalates",
+      "url": "https://www.cbsnews.com/news/gas-prices-iran-war-oil-supply/?utm_source=lootura.com",
+      "publishedAt": "2026-07-20T19:57:28.000Z",
       "sourceId": "lootura-us-cbs-news"
     },
     {
@@ -76,16 +82,28 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "US Fires at Iran After 3 US Service Members Killed in Middle East",
-      "url": "https://www.today.com/video/three-us-service-members-killed-as-iran-war-escalates-266938949752?utm_source=lootura.com",
-      "publishedAt": "2026-07-20T11:08:52.000Z",
-      "sourceId": "lootura-us-nbc-news"
+      "title": "Trump administration says Iran war reaching ‘time of ambiguity’ as military strikes escalate",
+      "url": "https://www.nbcnews.com/meet-the-press/video/trump-administration-says-iran-war-reaching-time-of-ambiguity-as-military-strikes-escalate-266969669682?utm_source=lootura.com",
+      "publishedAt": "2026-07-20T20:37:01.000Z",
+      "sourceId": "lootura-us-nbc-news-politics"
     },
     {
       "title": "Morning news brief",
       "url": "https://www.npr.org/2026/07/20/nx-s1-5895962/morning-news-brief?utm_source=lootura.com",
       "publishedAt": "2026-07-20T08:43:08.000Z",
       "sourceId": "lootura-us-npr"
+    },
+    {
+      "title": "The war with Iran is escalating. What next?",
+      "url": "https://www.npr.org/2026/07/20/nx-s1-5900950/the-war-with-iran-is-escalating-what-next?utm_source=lootura.com",
+      "publishedAt": "2026-07-20T19:56:49.000Z",
+      "sourceId": "lootura-us-npr-world"
+    },
+    {
+      "title": "The war in Iran has left hundreds of U.S. diplomats in limbo",
+      "url": "https://www.npr.org/2026/07/20/nx-s1-5896220/the-war-in-iran-has-left-hundreds-of-u-s-diplomats-in-limbo?utm_source=lootura.com",
+      "publishedAt": "2026-07-20T20:55:53.000Z",
+      "sourceId": "lootura-us-npr-world"
     },
     {
       "title": "Expansion of U.S. strikes on Iran leads to more retaliation across the Gulf",
@@ -104,13 +122,7 @@
       "url": "https://www.nytimes.com/2026/07/20/world/middleeast/rubio-us-iran-war-diplomacy.html?utm_source=lootura.com",
       "publishedAt": "2026-07-20T06:02:46.000Z",
       "sourceId": "lootura-us-the-new-york-times"
-    },
-    {
-      "title": "U.S. Average Gas Price Returns to $4 a Gallon as Iran Crisis Escalates",
-      "url": "https://www.nytimes.com/2026/07/20/business/four-dollar-gas-iran-war.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-20T08:55:53.000Z",
-      "sourceId": "lootura-us-the-new-york-times"
     }
   ],
-  "evidenceCount": 9
+  "evidenceCount": 13
 }

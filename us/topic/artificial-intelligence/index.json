@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/us/topic/artificial-intelligence/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/topic/artificial-intelligence/index.json",
   "description": "Follow Artificial intelligence, a tracked topic, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-20T18:00:06.130Z",
+  "updatedAt": "2026-07-20T21:10:24.211Z",
   "aliases": [
     "AI",
     "machine learning"
   ],
   "changes": [
+    {
+      "title": "Detailed maps of European wetlands reveal overlooked patches of ecosystems",
+      "summary": "Nature, Published online: 20 July 2026; doi:10.1038/d41586-026-02211-2 Satellite images have been analysed by a machine-learning algorithm to produce high-resolution maps of wetland environments — a boon for conservation efforts.",
+      "date": "2026-07-20"
+    },
     {
       "title": "Daily briefing: CRISPR gets an AI-designed upgrade",
       "summary": "Nature, Published online: 17 July 2026; doi:10.1038/d41586-026-02272-3 Synthetic CRISPR proteins edit the genome more efficiently than their natural counterparts. Plus, a rocky exoplanet with an atmosphere and the mathematical wonderland of footballs.",
@@ -22,11 +27,6 @@
     {
       "title": "Funding milestone detected",
       "summary": "Researchers have copied massive quantities of publicly available climate and environmental data from NASA onto a Swiss supercomputer to train artificial intelligence models—and for safekeeping amid U.S. funding cuts.",
-      "date": "2026-07-20"
-    },
-    {
-      "title": "Detailed maps of European wetlands reveal overlooked patches of ecosystems",
-      "summary": "Nature, Published online: 20 July 2026; doi:10.1038/d41586-026-02211-2 Satellite images have been analysed by a machine-learning algorithm to produce high-resolution maps of wetland environments — a boon for conservation efforts.",
       "date": "2026-07-20"
     },
     {
@@ -67,35 +67,11 @@
   ],
   "sources": [
     {
-      "title": "Daily briefing: CRISPR gets an AI-designed upgrade",
-      "url": "https://www.nature.com/articles/d41586-026-02272-3?utm_source=lootura.com",
-      "publishedAt": "2026-07-20T14:00:50.780Z",
-      "sourceId": "lootura-us-nature"
-    },
-    {
       "title": "Detailed maps of European wetlands reveal overlooked patches of ecosystems",
       "url": "https://www.nature.com/articles/d41586-026-02211-2?utm_source=lootura.com",
-      "publishedAt": "2026-07-20T18:00:10.136Z",
+      "publishedAt": "2026-07-20T21:10:28.422Z",
       "sourceId": "lootura-us-nature"
-    },
-    {
-      "title": "Swiss researchers hoard vast trove of NASA climate data",
-      "url": "https://phys.org/news/2026-07-swiss-hoard-vast-trove-nasa.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-20T13:50:02.000Z",
-      "sourceId": "lootura-us-phys-org"
-    },
-    {
-      "title": "AI ‘ghosts’ can comfort mourners — even when the bots get the facts wrong",
-      "url": "https://www.sciencenews.org/article/ai-ghosts-grief-facts-wrong-chatbot?utm_source=lootura.com",
-      "publishedAt": "2026-07-20T15:00:00.000Z",
-      "sourceId": "lootura-us-science-news"
-    },
-    {
-      "title": "Dr. Jill Lepore on why AI backlash is vital for the future",
-      "url": "https://www.theverge.com/podcast/967884/jill-lepore-history-ai-artificial-state-elon-musk?utm_source=lootura.com",
-      "publishedAt": "2026-07-20T15:00:00.000Z",
-      "sourceId": "lootura-us-the-verge"
     }
   ],
-  "evidenceCount": 5
+  "evidenceCount": 1
 }

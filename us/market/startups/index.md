@@ -34,5 +34,4 @@ Date: 2026-07-10
 
 ## Sources
 
-- [With just a week left until August recess, Congress faces long to-do list](https://www.npr.org/2026/07/20/nx-s1-5897469/with-just-a-week-left-until-august-recess-congress-faces-long-to-do-list?utm_source=lootura.com) — 2026-07-20T08:42:17.000Z
-- [Electric air taxis go to war](https://www.theverge.com/transportation/967891/archer-evtol-military-anduril-air-taxi-thunder?utm_source=lootura.com) — 2026-07-20T13:52:21.000Z
+No public source links.

@@ -3,7 +3,7 @@
 > Follow Warner Bros, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-07-20T18:00:06.130Z
+- Updated: 2026-07-20T21:10:24.211Z
 - Canonical: https://atlas.lootura.com/us/person/warner-bros
 
 ## Recent changes
@@ -65,4 +65,3 @@ Date: 2026-07-13
 ## Sources
 
 - [Judge puts temporary pause on Paramount-Warner merger](https://www.nbcnews.com/business/media/judge-puts-temporary-pause-paramount-warner-bros-merger-rcna587804?utm_source=lootura.com) — 2026-07-20T17:01:36.000Z
-- [Judge says Paramount and Warner Bros. must halt merger for at least 2 weeks as states challenge deal](https://www.pbs.org/newshour/nation/judge-says-paramount-and-warner-bros-must-halt-merger-for-at-least-2-weeks-as-states-challenge-deal?utm_source=lootura.com) — 2026-07-20T17:41:03.000Z

@@ -8,9 +8,14 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/barcelona/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/barcelona/index.json",
   "description": "Follow Barcelona, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-20T10:49:47.387Z",
+  "updatedAt": "2026-07-20T21:10:24.211Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "New web tool maps fossil locations across ancient continents in seconds",
+      "summary": "Calculating a fossil's position throughout geological history is a complex process. In paleontology and other disciplines, determining a location in the past is a challenge that requires refined computational tools to process large volumes of data. Now, the BIOST3 Research Group at the University of Barcelona has desig.",
+      "date": "2026-07-20"
+    },
     {
       "title": "Discovered by Atlas",
       "summary": "Barcelona first entered the public knowledge record with source-backed evidence.",
@@ -22,6 +27,13 @@
       "date": "2026-07-18"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "New web tool maps fossil locations across ancient continents in seconds",
+      "url": "https://phys.org/news/2026-07-web-tool-fossil-ancient-continents.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-20T20:00:07.000Z",
+      "sourceId": "lootura-us-phys-org"
+    }
+  ],
+  "evidenceCount": 1
 }

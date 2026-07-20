@@ -3,10 +3,22 @@
 > Follow White House, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-07-20T06:43:38.114Z
+- Updated: 2026-07-20T21:10:24.211Z
 - Canonical: https://atlas.lootura.com/us/organization/white-house
 
 ## Recent changes
+
+### Democrats avoid a messy fight in Maine, but uncertainty lingers: From the Politics Desk
+
+Welcome to From the Politics Desk, a daily newsletter that brings you the NBC News Politics team’s latest reporting and analysis from the White House, Capitol Hill and the campaign trail.
+
+Date: 2026-07-20
+
+### White House Adds Jefferson Statue to the Rose Garden
+
+The statue, which depicts the third president drafting the Declaration of Independence, joins those of Washington, Franklin and Hamilton.
+
+Date: 2026-07-20
 
 ### Face the Nation: Hochul, Homan, Moynihan
 
@@ -56,18 +68,7 @@ Darline Graham indicated in a White House meeting Thursday that she's weighing a
 
 Date: 2026-07-17
 
-### Trump administration to declassify documents relating to China and U.S. elections
-
-President Donald Trump addressed the nation from the White House, announcing that the administration will declassify documents related to the 2020 election and alleged influence by China.
-
-Date: 2026-07-17
-
-### Trump Has Dismantled Election Security Efforts. Here’s How.
-
-Since his return to the White House, the lead federal partner for states on election security has lost around a third of its work force.
-
-Date: 2026-07-17
-
 ## Sources
 
-No public source links.
+- [Democrats avoid a messy fight in Maine, but uncertainty lingers: From the Politics Desk](https://www.nbcnews.com/politics/politics-news/democrats-avoid-messy-fight-maine-uncertainty-lingers-politics-desk-rcna588434?utm_source=lootura.com) — 2026-07-20T21:00:00.000Z
+- [White House Adds Jefferson Statue to the Rose Garden](https://www.nytimes.com/2026/07/20/arts/design/thomas-jefferson-statue-rose-garden-white-house.html?utm_source=lootura.com) — 2026-07-20T19:46:32.000Z

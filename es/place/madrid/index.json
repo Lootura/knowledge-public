@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/madrid/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/madrid/index.json",
   "description": "Sigue la actividad de Madrid en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-20T17:59:39.360Z",
+  "updatedAt": "2026-07-20T21:09:57.635Z",
   "aliases": [],
   "changes": [
     {
@@ -37,6 +37,21 @@
       "date": "2026-07-20"
     },
     {
+      "title": "Lamine Yamal reta a Paredes a pelear con Gavi en La Velada del Año",
+      "summary": "El joven futbolista ha seguido la broma de un aficionado durante la rúa de los campeones del mundo por las calles de Madrid.",
+      "date": "2026-07-20"
+    },
+    {
+      "title": "Las celebraciones de los campeones del mundo 2026, en imágenes",
+      "summary": "Tras la visita a Zarzuela y La Moncloa, la selección española recorre en autobús las calles de Madrid para culminar la fiesta en La Cibeles.",
+      "date": "2026-07-20"
+    },
+    {
+      "title": "Hezonja decide dejar el Real Madrid",
+      "summary": "Pedro Martínez , el nuevo entrenador del Real Madrid, ya se puede despedir de Mario Hezonja para la próxima temporada . El alero croata, según ha adelantado Chema de Lucas, tiene la intención de abonar su cláusula de salida a la NBA que asciende a 850.000 dólares . Los temores que albergaba la sección que vuelve a diri.",
+      "date": "2026-07-20"
+    },
+    {
       "title": "Herido grave un trabajador con quemaduras químicas por sosa cáustica en Becerril de la Sierra (Madrid)",
       "summary": "Un trabajador de 52 años ha sufrido este lunes graves quemaduras químicas por sosa cáustica en Becerril de la Sierra mientras manipulaba una tubería de una piscina. Las lesiones afectan al 36% de su superficie corporal, según han informado fuentes de emergencias. El incidente se produjo en torno a las 9.30 horas en la.",
       "date": "2026-07-20"
@@ -45,28 +60,25 @@
       "title": "Ayuso lamenta el «ataque salvaje» a militares que seguían la final en Navarra",
       "summary": "La presidenta de la Comunidad de Madrid, Isabel Díaz Ayuso , ha lamentado este lunes el «ataque salvaje» a un grupo de militares que seguían la final de la Copa del Mundo en Berriozar (Navarra) y espera que «todo el mundo, desde sus respectivos ámbitos políticos, condene algo así». «Es estremecedor que esto esté pasand.",
       "date": "2026-07-20"
-    },
-    {
-      "title": "Bailes, euforia y baño de champán: la celebración de España en Nueva York",
-      "summary": "Los futbolistas celebraron en familia la victoria en la Copa del Mundo y lo seguirán haciendo hasta la tarde de este lunes, cuando llegan a Madrid.",
-      "date": "2026-07-20"
-    },
-    {
-      "title": "Peinado pide a las partes del caso Begoña ajustar sus peticiones para el juicio tras archivarse varios delitos",
-      "summary": "El magistrado que dirige la instrucción del caso Begoña Gómez , Juan Carlos Peinado , ha dado un nuevo paso procesal y ha requerido a las partes que remitan escritos actualizados con sus solicitudes de cara al juicio con jurado. La decisión llega después de que la Audiencia Provincial de Madrid ordenara archivar los pr.",
-      "date": "2026-07-20"
-    },
-    {
-      "title": "Leer para escapar del calor: el plan gratuito del Círculo de Bellas Artes de Madrid como refugio climático",
-      "summary": "Lejos del asfalto recalentado y del ritmo frenético de la ciudad, este 20 de julio Madrid esconde un rincón donde el silencio se convierte en el mejor aliado contra el calor. El Círculo de Bellas Artes abre las puertas de su Salón de Baile para celebrar una Reading Party , una actividad gratuita que invita a dejar el m.",
-      "date": "2026-07-20"
     }
   ],
   "sources": [
     {
+      "title": "Ferran y Llorente sin camiseta, Borja Iglesias de DJ, Baena desatado con el champán... todos los detalles de la celebración",
+      "url": "https://www.20minutos.es/deportes/futbol/ferran-llorente-sin-camiseta-borja-iglesias-dj-baena-desatado-con-champan-todos-los-detalles-rua-mundial-2026_7016939_0.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-20T19:13:26.000Z",
+      "sourceId": "lootura-es-20minutos"
+    },
+    {
       "title": "El Rey, a la selección: «Sois un conjunto estelar y legendario»",
       "url": "https://www.abc.es/deportes/futbol/mundial/rey-seleccion-conjunto-estelar-legendario-historia-futbol-20260720190455-nt.html?utm_source=lootura.com",
       "publishedAt": "2026-07-20T17:40:29.000Z",
+      "sourceId": "lootura-es-abc"
+    },
+    {
+      "title": "Lamine Yamal reta a Paredes a pelear con Gavi en La Velada del Año",
+      "url": "https://www.abc.es/deportes/futbol/mundial/lamine-yamal-reta-paredes-pelear-gavi-velada-20260720205617-nt_amp.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-20T18:56:17.000Z",
       "sourceId": "lootura-es-abc"
     },
     {
@@ -88,11 +100,23 @@
       "sourceId": "lootura-es-el-mundo"
     },
     {
+      "title": "Las celebraciones de los campeones del mundo 2026, en imágenes",
+      "url": "https://elpais.com/deportes/mundial-futbol/2026-07-20/las-celebraciones-de-los-campeones-del-mundo-en-imagenes.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-20T16:55:17.000Z",
+      "sourceId": "lootura-es-el-pais"
+    },
+    {
       "title": "Madrid activa el nivel de \"riesgo alto\" por calor para este miércoles y urge a la responsabilidad",
       "url": "https://www.larazon.es/madrid/madrid-activa-nivel-riesgo-alto-calor-este-miercoles-urge-responsabilidad_202607206a5e5ce21db8de04099a1f17.html?utm_source=lootura.com",
       "publishedAt": "2026-07-20T17:37:38.000Z",
       "sourceId": "lootura-es-la-razon"
+    },
+    {
+      "title": "Hezonja decide dejar el Real Madrid",
+      "url": "https://www.larazon.es/deportes/hezonja-decide-dejar-real-madrid_202607206a5e82c3e9f2e84b5c744281.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-20T20:19:15.000Z",
+      "sourceId": "lootura-es-la-razon"
     }
   ],
-  "evidenceCount": 6
+  "evidenceCount": 10
 }

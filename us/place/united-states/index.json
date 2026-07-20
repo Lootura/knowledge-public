@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/united-states/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/united-states/index.json",
   "description": "Follow United States, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-20T18:00:06.130Z",
+  "updatedAt": "2026-07-20T21:10:24.211Z",
   "aliases": [
     "America",
     "Estados Unidos",
@@ -19,11 +19,6 @@
       "title": "The Uplift: The American Dream",
       "summary": "We celebrate the United States ahead of its 250th anniversary with stories about American heroes and pastimes. The founder of e.l.f. Cosmetics shares how he made a massive life change to become a Catholic priest.",
       "date": "2026-07-27"
-    },
-    {
-      "title": "Trump Says New Air Force One Will Be Taken Out of Service to Be ‘Maxed Out’",
-      "summary": "The Qatari-donated plane has been under scrutiny over whether it is fitted with sufficient defensive capabilities to adequately protect a U.S. president and others traveling on it.",
-      "date": "2026-07-20"
     },
     {
       "title": "Oil Prices Cross $90 a Barrel as U.S.-Iran Conflict Widens",
@@ -61,12 +56,23 @@
       "date": "2026-07-20"
     },
     {
-      "title": "US Fires at Iran After 3 US Service Members Killed in Middle East",
-      "summary": "The United States is firing back against Iran after the deaths of at least three U.S. service members in the Middle East. The American death toll in the war now stands at 17. NBC’s Keir Simmons reports for TODAY.",
+      "title": "How closely linked are gas prices to U.S.-Iran tensions?",
+      "summary": "Gas prices crept back up amid increased tensions between the U.S. and Iran. Joe Ciolli, the executive editor of Business Insider, joins with more.",
+      "date": "2026-07-20"
+    },
+    {
+      "title": "Expansion of U.S. strikes on Iran leads to more retaliation across the Gulf",
+      "summary": "Even as the U.S. and Iran inch closer to all-out war, glimmers of hope appeared on the diplomatic front.",
       "date": "2026-07-20"
     }
   ],
   "sources": [
+    {
+      "title": "What to know about Taylor Farms, the produce giant tied to the cyclospora outbreak",
+      "url": "https://www.cbsnews.com/news/taylor-farms-cyclospora-outbreak/?utm_source=lootura.com",
+      "publishedAt": "2026-07-20T21:08:06.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
     {
       "title": "Student loan defaults surging in wake of COVID-tied payments pause expiration",
       "url": "https://www.cbsnews.com/news/student-loan-defaults-surge-covid-tied-payments-pause-expiration/?utm_source=lootura.com",
@@ -86,47 +92,41 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
+      "title": "Nearly 100 U.S. service members injured in Iranian strikes this month",
+      "url": "https://www.cbsnews.com/news/iran-injuries-us-service-members/?utm_source=lootura.com",
+      "publishedAt": "2026-07-20T20:50:00.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
+    {
+      "title": "How recent killings of U.S. soldiers could affect the war with Iran",
+      "url": "https://www.cbsnews.com/video/how-recent-killings-of-us-soldiers-could-affect-the-war-with-iran/?utm_source=lootura.com",
+      "publishedAt": "2026-07-20T19:27:21.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
+    {
+      "title": "Gas prices top $4 a gallon again as U.S.-Iran conflict escalates",
+      "url": "https://www.cbsnews.com/news/gas-prices-iran-war-oil-supply/?utm_source=lootura.com",
+      "publishedAt": "2026-07-20T19:57:28.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
+    {
       "title": "How closely linked are gas prices to U.S.-Iran tensions?",
       "url": "https://www.cbsnews.com/video/how-closely-linked-are-gas-prices-to-us-iran-tensions/?utm_source=lootura.com",
       "publishedAt": "2026-07-20T16:45:00.000Z",
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "US Fires at Iran After 3 US Service Members Killed in Middle East",
-      "url": "https://www.today.com/video/three-us-service-members-killed-as-iran-war-escalates-266938949752?utm_source=lootura.com",
-      "publishedAt": "2026-07-20T11:08:52.000Z",
-      "sourceId": "lootura-us-nbc-news"
+      "title": "Trump administration says Iran war reaching ‘time of ambiguity’ as military strikes escalate",
+      "url": "https://www.nbcnews.com/meet-the-press/video/trump-administration-says-iran-war-reaching-time-of-ambiguity-as-military-strikes-escalate-266969669682?utm_source=lootura.com",
+      "publishedAt": "2026-07-20T20:37:01.000Z",
+      "sourceId": "lootura-us-nbc-news-politics"
     },
     {
       "title": "Morning news brief",
       "url": "https://www.npr.org/2026/07/20/nx-s1-5895962/morning-news-brief?utm_source=lootura.com",
       "publishedAt": "2026-07-20T08:43:08.000Z",
       "sourceId": "lootura-us-npr"
-    },
-    {
-      "title": "Expansion of U.S. strikes on Iran leads to more retaliation across the Gulf",
-      "url": "https://www.pbs.org/newshour/world/expansion-of-u-s-strikes-on-iran-leads-to-more-retaliation-across-the-gulf?utm_source=lootura.com",
-      "publishedAt": "2026-07-20T15:13:21.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
-    },
-    {
-      "title": "Swiss researchers hoard vast trove of NASA climate data",
-      "url": "https://phys.org/news/2026-07-swiss-hoard-vast-trove-nasa.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-20T13:50:02.000Z",
-      "sourceId": "lootura-us-phys-org"
-    },
-    {
-      "title": "Oil Prices Cross $90 a Barrel as U.S.-Iran Conflict Widens",
-      "url": "https://www.nytimes.com/2026/07/19/business/oil-prices-stocks-gas.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-20T06:33:35.000Z",
-      "sourceId": "lootura-us-the-new-york-times"
-    },
-    {
-      "title": "Rubio Says That U.S. Is Still Open to Diplomacy With Iran",
-      "url": "https://www.nytimes.com/2026/07/20/world/middleeast/rubio-us-iran-war-diplomacy.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-20T06:02:46.000Z",
-      "sourceId": "lootura-us-the-new-york-times"
     }
   ],
-  "evidenceCount": 15
+  "evidenceCount": 23
 }

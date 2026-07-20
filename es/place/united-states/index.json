@@ -8,13 +8,28 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/united-states/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/united-states/index.json",
   "description": "Sigue la actividad de Estados Unidos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-20T17:59:39.360Z",
+  "updatedAt": "2026-07-20T21:09:57.635Z",
   "aliases": [
     "America",
     "Estados Unidos",
     "U.S."
   ],
   "changes": [
+    {
+      "title": "Una jueza bloquea temporalmente el acuerdo entre Paramount y Warner para crear el mayor grupo audiovisual de Estados Unidos",
+      "summary": "A Paramount puede atragantársele el gran bocado que pegó el pasado febrero con la compra de Warner Bros, para crear el mayor grupo audiovisual de Estados Unidos. La operación, valorada en unos 110.000 millones de dólares, ha sufrido un repentino parón tras la decisión de un juez federal de California de dictar una orde.",
+      "date": "2026-07-20"
+    },
+    {
+      "title": "El impactante ataque de un bisonte a un abuelo en Yellowstone que ha conmocionado a Estados Unidos",
+      "summary": "La naturaleza no es un zoológico sin vallas. La reciente agresión sufrida por un turista en el Parque Nacional de Yellowstone (EE UU) ha vuelto a poner sobre la mesa el debate sobre la insensatez humana frente a la fauna indómita. Un hombre, acompañado por su nieto, fue proyectado por los aires tras ser embestido por u.",
+      "date": "2026-07-20"
+    },
+    {
+      "title": "Estados Unidos lanza una nueva oleada de bombardeos sobre Irán",
+      "summary": "El Mando Central de las Fuerzas Armadas estadounidenses (Centcom) ha informado este lunes de que ha lanzado una nueva oleada de bombardeos sobre.",
+      "date": "2026-07-20"
+    },
     {
       "title": "Irán presume de haber atacado de forma simultánea a EE UU en Bahrein y Qatar",
       "summary": "Irán afirmó este lunes haber atacado simultáneamente tres posiciones militares estadounidenses en Bahrein y Kuwait, en una nueva oleada de su ofensiva contra objetivos de Estados Unidos en Oriente Medio en respuesta a los ataques estadounidenses contra territorio iraní. \"Los combatientes de la Armada de la Guardia Revo.",
@@ -49,30 +64,27 @@
       "title": "La cuenta atrás de Pekín",
       "summary": "La pregunta sobre la inteligencia artificial china no es ya si alcanzará a Estados Unidos, sino en qué mes. Conviene tomarse en serio esa premisa, porque Pekín la está ejecutando con una coherencia que Washington, ahora mismo, no logra igualar: ata económicamente a medio planeta , gana clientes regalando lo que EEUU co.",
       "date": "2026-07-19"
-    },
-    {
-      "title": "El inesperado arrepentimiento de Joaquín Sabina a sus 77 años: \"Perdí demasiado tiempo\"",
-      "summary": "Joaquín Sabina sigue siendo genio y figura, manteniendo intacto su carisma y su afilada honestidad. A sus 77 años, el cantautor de Úbeda tiene todavía muy reciente su emotiva despedida definitiva de los escenarios . Aquella multitudinaria y triunfal gira, que arrancó con éxito en América y bajó el telón en el Movistar.",
-      "date": "2026-07-19"
-    },
-    {
-      "title": "EEUU ataca Irán una noche más tras la muerte de dos de sus militares en una base en Jordania",
-      "summary": "Estados Unidos ha anunciado el inicio de una nueva ronda de bombardeos contra Irán por orden del presidente Donald Trump , en una operación que tiene como objetivo reducir las capacidades de Teherán para amenazar el tráfico marítimo en el estrecho de Ormuz y responder al ataque -atribuido al Cuerpo de la Guardia Revolu.",
-      "date": "2026-07-19"
-    },
-    {
-      "title": "Estados Unidos intensifica bombardeos aéreos contra Irán por octavo día seguido",
-      "summary": "El Comando Central de las Fuerzas Armadas de Estados Unidos (Centcom) ha confirmado el inicio de una nueva serie de bombardeos aéreos sobre Irán, marcando.",
-      "date": "2026-07-19"
     }
   ],
   "sources": [
     {
-      "title": "Irán presume de haber atacado de forma simultánea a EE UU en Bahrein y Qatar",
-      "url": "https://www.larazon.es/internacional/iran-presume-haber-atacado-forma-simultanea-bahrein-qatar_202607206a5e2843e9f2e84b5c73ba0d.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-20T13:53:07.000Z",
+      "title": "Una jueza bloquea temporalmente el acuerdo entre Paramount y Warner para crear el mayor grupo audiovisual de Estados Unidos",
+      "url": "https://elpais.com/economia/2026-07-20/un-juez-bloquea-temporalmente-el-acuerdo-entre-paramount-y-warner-para-crear-el-mayor-grupo-audiovisual-de-estados-unidos.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-20T19:38:25.000Z",
+      "sourceId": "lootura-es-cinco-dias"
+    },
+    {
+      "title": "El impactante ataque de un bisonte a un abuelo en Yellowstone que ha conmocionado a Estados Unidos",
+      "url": "https://www.larazon.es/actualidad/impactante-ataque-bisonte-abuelo-yellowstone-que-conmocionado-estados-unidos-b51m_202607206a5e8c5d1db8de04099a62bb.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-20T21:00:13.000Z",
       "sourceId": "lootura-es-la-razon"
+    },
+    {
+      "title": "Estados Unidos lanza una nueva oleada de bombardeos sobre Irán",
+      "url": "https://theobjective.com/internacional/2026-07-20/eeuu-nueva-oleada-bombardeos-iran/?amp=&utm_source=lootura.com",
+      "publishedAt": "2026-07-20T20:48:15.000Z",
+      "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 3
 }

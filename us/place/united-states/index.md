@@ -3,7 +3,7 @@
 > Follow United States, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-20T18:00:06.130Z
+- Updated: 2026-07-20T21:10:24.211Z
 - Canonical: https://atlas.lootura.com/us/place/united-states
 
 ## Recent changes
@@ -13,12 +13,6 @@
 We celebrate the United States ahead of its 250th anniversary with stories about American heroes and pastimes. The founder of e.l.f. Cosmetics shares how he made a massive life change to become a Catholic priest.
 
 Date: 2026-07-27
-
-### Trump Says New Air Force One Will Be Taken Out of Service to Be ‘Maxed Out’
-
-The Qatari-donated plane has been under scrutiny over whether it is fitted with sufficient defensive capabilities to adequately protect a U.S. president and others traveling on it.
-
-Date: 2026-07-20
 
 ### Oil Prices Cross $90 a Barrel as U.S.-Iran Conflict Widens
 
@@ -62,21 +56,27 @@ Emergency room visits for tick bites are the highest in nearly a decade as ticks
 
 Date: 2026-07-20
 
-### US Fires at Iran After 3 US Service Members Killed in Middle East
+### How closely linked are gas prices to U.S.-Iran tensions?
 
-The United States is firing back against Iran after the deaths of at least three U.S. service members in the Middle East. The American death toll in the war now stands at 17. NBC’s Keir Simmons reports for TODAY.
+Gas prices crept back up amid increased tensions between the U.S. and Iran. Joe Ciolli, the executive editor of Business Insider, joins with more.
+
+Date: 2026-07-20
+
+### Expansion of U.S. strikes on Iran leads to more retaliation across the Gulf
+
+Even as the U.S. and Iran inch closer to all-out war, glimmers of hope appeared on the diplomatic front.
 
 Date: 2026-07-20
 
 ## Sources
 
+- [What to know about Taylor Farms, the produce giant tied to the cyclospora outbreak](https://www.cbsnews.com/news/taylor-farms-cyclospora-outbreak/?utm_source=lootura.com) — 2026-07-20T21:08:06.000Z
 - [Student loan defaults surging in wake of COVID-tied payments pause expiration](https://www.cbsnews.com/news/student-loan-defaults-surge-covid-tied-payments-pause-expiration/?utm_source=lootura.com) — 2026-07-20T10:09:00.000Z
 - [The Uplift: The American Dream](https://www.cbsnews.com/video/the-uplift-the-american-dream/?utm_source=lootura.com) — 2026-07-27T10:30:00.000Z
 - [Tick bites have soared this year. Here's why, and how to protect yourself](https://www.cbsnews.com/video/tick-bites-have-soared-this-year-heres-why-and-how-to-protect-yourself/?utm_source=lootura.com) — 2026-07-20T13:34:38.000Z
+- [Nearly 100 U.S. service members injured in Iranian strikes this month](https://www.cbsnews.com/news/iran-injuries-us-service-members/?utm_source=lootura.com) — 2026-07-20T20:50:00.000Z
+- [How recent killings of U.S. soldiers could affect the war with Iran](https://www.cbsnews.com/video/how-recent-killings-of-us-soldiers-could-affect-the-war-with-iran/?utm_source=lootura.com) — 2026-07-20T19:27:21.000Z
+- [Gas prices top $4 a gallon again as U.S.-Iran conflict escalates](https://www.cbsnews.com/news/gas-prices-iran-war-oil-supply/?utm_source=lootura.com) — 2026-07-20T19:57:28.000Z
 - [How closely linked are gas prices to U.S.-Iran tensions?](https://www.cbsnews.com/video/how-closely-linked-are-gas-prices-to-us-iran-tensions/?utm_source=lootura.com) — 2026-07-20T16:45:00.000Z
-- [US Fires at Iran After 3 US Service Members Killed in Middle East](https://www.today.com/video/three-us-service-members-killed-as-iran-war-escalates-266938949752?utm_source=lootura.com) — 2026-07-20T11:08:52.000Z
+- [Trump administration says Iran war reaching ‘time of ambiguity’ as military strikes escalate](https://www.nbcnews.com/meet-the-press/video/trump-administration-says-iran-war-reaching-time-of-ambiguity-as-military-strikes-escalate-266969669682?utm_source=lootura.com) — 2026-07-20T20:37:01.000Z
 - [Morning news brief](https://www.npr.org/2026/07/20/nx-s1-5895962/morning-news-brief?utm_source=lootura.com) — 2026-07-20T08:43:08.000Z
-- [Expansion of U.S. strikes on Iran leads to more retaliation across the Gulf](https://www.pbs.org/newshour/world/expansion-of-u-s-strikes-on-iran-leads-to-more-retaliation-across-the-gulf?utm_source=lootura.com) — 2026-07-20T15:13:21.000Z
-- [Swiss researchers hoard vast trove of NASA climate data](https://phys.org/news/2026-07-swiss-hoard-vast-trove-nasa.html?utm_source=lootura.com) — 2026-07-20T13:50:02.000Z
-- [Oil Prices Cross $90 a Barrel as U.S.-Iran Conflict Widens](https://www.nytimes.com/2026/07/19/business/oil-prices-stocks-gas.html?utm_source=lootura.com) — 2026-07-20T06:33:35.000Z
-- [Rubio Says That U.S. Is Still Open to Diplomacy With Iran](https://www.nytimes.com/2026/07/20/world/middleeast/rubio-us-iran-war-diplomacy.html?utm_source=lootura.com) — 2026-07-20T06:02:46.000Z

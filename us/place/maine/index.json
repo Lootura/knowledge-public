@@ -8,14 +8,9 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/maine/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/maine/index.json",
   "description": "Follow Maine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-20T18:00:06.130Z",
+  "updatedAt": "2026-07-20T21:10:24.211Z",
   "aliases": [],
   "changes": [
-    {
-      "title": "Maine Democrats close in on pick to replace Senate candidate Graham Platner",
-      "summary": "Maine Democrats appear to be settling on a frontrunner to replace former Senate candidate Graham Platner in a rushed process to take on Republican Sen. Susan Collins.",
-      "date": "2026-07-20"
-    },
     {
       "title": "In Maine Senate Race, Democrats Go From Chaos to Coronation",
       "summary": "Troy Jackson’s emergence as the clear front-runner to replace Graham Platner spares the party some challenges but points to some new ones.",
@@ -29,6 +24,21 @@
     {
       "title": "Maine Democratic Senate race narrows as candidates rally behind Troy Jackson",
       "summary": "The crowded Maine Senate race to replace Graham Platner has narrowed as Democrats rallied around former state Senate President Troy Jackson in the leadup to the party's nominating convention on Saturday.",
+      "date": "2026-07-20"
+    },
+    {
+      "title": "Democrats avoid a messy fight in Maine, but uncertainty lingers: From the Politics Desk",
+      "summary": "Welcome to From the Politics Desk, a daily newsletter that brings you the NBC News Politics team’s latest reporting and analysis from the White House, Capitol Hill and the campaign trail.",
+      "date": "2026-07-20"
+    },
+    {
+      "title": "Senators demand ICE answers and body cameras after deadly shootings in Maine and Houston",
+      "summary": "Dozens of Democratic U.S. senators and Maine's Independent senator are demanding more details from Immigration and Customs Enforcement about vetting practices for new agents.",
+      "date": "2026-07-20"
+    },
+    {
+      "title": "Maine Democrats close in on pick to replace Senate candidate Graham Platner",
+      "summary": "Maine Democrats appear to be settling on a frontrunner to replace former Senate candidate Graham Platner in a rushed process to take on Republican Sen. Susan Collins.",
       "date": "2026-07-20"
     },
     {
@@ -50,16 +60,6 @@
       "title": "In Maine, Bellows Ends Senate Bid, as Jackson Builds Momentum",
       "summary": "The Maine secretary of state ended her run in a crowded race to replace Graham Platner as the Democratic Senate nominee.",
       "date": "2026-07-19"
-    },
-    {
-      "title": "Troy Jackson has effectively secured the Maine Senate Democratic nomination",
-      "summary": "SANFORD, Maine — Troy Jackson has effectively secured the Democratic nomination in the crucial Maine Senate race, winning the support of a majority of the state delegates who will officially nominate a candidate next weekend. While they are not legally bound to support him, nearly two-thirds of the 601 delegates have c.",
-      "date": "2026-07-19"
-    },
-    {
-      "title": "Homan says \"I think body cameras are the way to go\" after ICE shootings",
-      "summary": "White House border czar Tom Homan said \"I think body cameras are the way to go\" after fatal shootings by federal immigration officers in Texas and Maine earlier this month.",
-      "date": "2026-07-19"
     }
   ],
   "sources": [
@@ -70,10 +70,16 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "Maine Democrats close in on pick to replace Senate candidate Graham Platner",
-      "url": "https://www.npr.org/2026/07/20/nx-s1-5897456/maine-democrats-close-in-on-pick-to-replace-senate-candidate-graham-platner?utm_source=lootura.com",
-      "publishedAt": "2026-07-20T08:41:56.000Z",
-      "sourceId": "lootura-us-npr-politics"
+      "title": "Democrats avoid a messy fight in Maine, but uncertainty lingers: From the Politics Desk",
+      "url": "https://www.nbcnews.com/politics/politics-news/democrats-avoid-messy-fight-maine-uncertainty-lingers-politics-desk-rcna588434?utm_source=lootura.com",
+      "publishedAt": "2026-07-20T21:00:00.000Z",
+      "sourceId": "lootura-us-nbc-news-politics"
+    },
+    {
+      "title": "Senators demand ICE answers and body cameras after deadly shootings in Maine and Houston",
+      "url": "https://www.pbs.org/newshour/nation/senators-demand-ice-answers-and-body-cameras-after-deadly-shootings-in-maine-and-houston?utm_source=lootura.com",
+      "publishedAt": "2026-07-20T19:10:30.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
     },
     {
       "title": "In Maine Senate Race, Democrats Go From Chaos to Coronation",
@@ -88,5 +94,5 @@
       "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 4
+  "evidenceCount": 6
 }

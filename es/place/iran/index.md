@@ -3,7 +3,7 @@
 > Sigue la actividad de Iran en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-20T17:59:39.360Z
+- Actualizado: 2026-07-20T21:09:57.635Z
 - Canonical: https://atlas.lootura.com/es/place/iran
 
 ## Cambios recientes
@@ -11,6 +11,12 @@
 ### El precio del petróleo modera su escalada ante una posible reapertura de las negociaciones entre Irán y EE UU
 
 La persistencia de la incertidumbre sobre Oriente Próximo ha llevado al precio del petróleo a superar por primera vez en más de un mes los 91 dólares por barril. Una escalada que se ha visto frenada tras el anuncio por parte del régimen iraní de contactos diplomáticos con los mediadores para restablecer las negociacion.
+
+Date: 2026-07-20
+
+### Estados Unidos lanza una nueva oleada de bombardeos sobre Irán
+
+El Mando Central de las Fuerzas Armadas estadounidenses (Centcom) ha informado este lunes de que ha lanzado una nueva oleada de bombardeos sobre.
 
 Date: 2026-07-20
 
@@ -62,13 +68,7 @@ La gasolina siempre ha sido un producto muy condicionado al precio; y este 2026 
 
 Date: 2026-07-19
 
-### Irán mata a dos soldados de Estados Unidos en un ataque contra una base en Jordania
-
-Irán ha anunciado este sábado que deja en suspenso el acuerdo de alto el fuego firmado con Estados Unidos el pasado 17 de junio. “Hemos suspendido nuestros compromisos adquiridos en virtud del memorando de entendimiento y ya no los estamos implementando”, ha declarado el viceministro de Relaciones Exteriores iraní, Kaz.
-
-Date: 2026-07-18
-
 ## Fuentes
 
 - [El precio del petróleo modera su escalada ante una posible reapertura de las negociaciones entre Irán y EE UU](https://cincodias.elpais.com/mercados-financieros/2026-07-20/la-bolsa-y-el-ibex-35.html?utm_source=lootura.com) — 2026-07-20T15:48:04.000Z
-- [Irán presume de haber atacado de forma simultánea a EE UU en Bahrein y Qatar](https://www.larazon.es/internacional/iran-presume-haber-atacado-forma-simultanea-bahrein-qatar_202607206a5e2843e9f2e84b5c73ba0d.html?utm_source=lootura.com) — 2026-07-20T13:53:07.000Z
+- [Estados Unidos lanza una nueva oleada de bombardeos sobre Irán](https://theobjective.com/internacional/2026-07-20/eeuu-nueva-oleada-bombardeos-iran/?amp=&utm_source=lootura.com) — 2026-07-20T20:48:15.000Z

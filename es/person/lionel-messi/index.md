@@ -3,7 +3,7 @@
 > Sigue la actividad de Lionel Messi en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-20T17:59:39.360Z
+- Actualizado: 2026-07-20T21:09:57.635Z
 - Canonical: https://atlas.lootura.com/es/person/lionel-messi
 
 ## Cambios recientes
@@ -70,4 +70,4 @@ Date: 2026-07-16
 
 ## Fuentes
 
-- [Messi se pronuncia por primera vez desde la final y felicita a España de forma escueta](https://okdiario.com/mundial/messi-pronuncia-primera-vez-desde-final-felicita-espana-forma-escueta-19035854/amp?utm_source=lootura.com) — 2026-07-20T17:54:11.000Z
+- [Messi, un día después de perder la final: "El dolor es muy grande y va a costar que cierre esta herida"](https://www.20minutos.es/deportes/futbol/messi-rompe-su-silencio-un-dia-despues-perder-final-mundial-dolor-es-muy-grande-va-costar-que-cierre-esta-herida_7016946_0.html?utm_source=lootura.com) — 2026-07-20T19:28:49.000Z
