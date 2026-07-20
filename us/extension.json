@@ -1,15 +1,15 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-20T03:23:01.348Z",
+  "generatedAt": "2026-07-20T05:06:29.849Z",
   "radar": {
     "id": "usa",
     "slug": "us",
     "locale": "en"
   },
   "state": {
-    "signature": "1.16.0|32|1784517488226",
+    "signature": "1.16.0|33|1784517488226",
     "version": "1.16.0",
-    "build": 32,
+    "build": 33,
     "latestEntityUpdatedAt": "2026-07-20T03:18:08.226Z"
   },
   "atlas": {
@@ -21,7 +21,7 @@
       "url": "https://atlas.lootura.com/us/place/maine",
       "path": "/us/place/maine",
       "updatedAt": "2026-07-20T03:18:08.226Z",
-      "score": 1550,
+      "score": 1541,
       "sourceCount": 89,
       "isBreaking": false,
       "isPinned": false
@@ -35,7 +35,7 @@
         "url": "https://atlas.lootura.com/us/person/donald-trump",
         "path": "/us/person/donald-trump",
         "updatedAt": "2026-07-20T03:18:08.226Z",
-        "score": 1526,
+        "score": 1518,
         "sourceCount": 265,
         "isBreaking": false,
         "isPinned": false
@@ -48,7 +48,7 @@
         "url": "https://atlas.lootura.com/us/person/graham-platner",
         "path": "/us/person/graham-platner",
         "updatedAt": "2026-07-20T03:18:08.226Z",
-        "score": 1523,
+        "score": 1514,
         "sourceCount": 58,
         "isBreaking": false,
         "isPinned": false
@@ -61,7 +61,7 @@
         "url": "https://atlas.lootura.com/us/place/united-states",
         "path": "/us/place/united-states",
         "updatedAt": "2026-07-20T03:18:08.226Z",
-        "score": 1512,
+        "score": 1503,
         "sourceCount": 293,
         "isBreaking": false,
         "isPinned": false
@@ -74,7 +74,7 @@
         "url": "https://atlas.lootura.com/us/organization/maine-senate",
         "path": "/us/organization/maine-senate",
         "updatedAt": "2026-07-20T03:18:08.226Z",
-        "score": 1511,
+        "score": 1502,
         "sourceCount": 11,
         "isBreaking": false,
         "isPinned": false
