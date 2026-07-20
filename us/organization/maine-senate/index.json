@@ -8,12 +8,22 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/maine-senate/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/maine-senate/index.json",
   "description": "Follow Maine Senate, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-20T06:43:38.114Z",
+  "updatedAt": "2026-07-20T10:49:47.387Z",
   "aliases": [],
   "changes": [
     {
       "title": "In Maine Senate Race, Jackson Sprints Ahead of Pack, as Bellows Drops Out",
       "summary": "Troy Jackson, a progressive, solidified his clear edge in the contest to replace Graham Platner, as Shenna Bellows, Jordan Wood and Nirav Shah ended their bids.",
+      "date": "2026-07-20"
+    },
+    {
+      "title": "In Maine Senate Race, Democrats Go From Chaos to Coronation",
+      "summary": "Troy Jackson’s emergence as the clear front-runner to replace Graham Platner spares the party some challenges but points to some new ones.",
+      "date": "2026-07-20"
+    },
+    {
+      "title": "5 Things to Know About the Maine Senate Candidate Troy Jackson",
+      "summary": "Mr. Jackson, who has emerged as the clear front-runner to replace Graham Platner, is a Republican turned Democrat who is seen as close to Mr. Platner on policy.",
       "date": "2026-07-20"
     },
     {
@@ -50,16 +60,6 @@
       "title": "Discovered by Atlas",
       "summary": "Maine Senate first entered the public knowledge record with source-backed evidence.",
       "date": "2026-07-11"
-    },
-    {
-      "title": "Graham Platner officially withdraws from the Maine Senate race",
-      "summary": "Democrats have already set off a mad dash to find a new candidate, with a July 27 deadline to submit a replacement nominee to face Republican Sen. Susan Collins in the November election.",
-      "date": "2026-07-11"
-    },
-    {
-      "title": "Graham Platner formally drops out of Maine Senate race",
-      "summary": "Graham Platner had until 5 p.m. on Monday to formally suspend his campaign or he would remain on the ballot in November.",
-      "date": "2026-07-11"
     }
   ],
   "sources": [
@@ -74,7 +74,19 @@
       "url": "https://www.nytimes.com/2026/07/19/us/politics/maine-senate-bellows-jackson-platner-democrats.html?utm_source=lootura.com",
       "publishedAt": "2026-07-20T01:36:22.000Z",
       "sourceId": "lootura-us-the-new-york-times-politics"
+    },
+    {
+      "title": "In Maine Senate Race, Democrats Go From Chaos to Coronation",
+      "url": "https://www.nytimes.com/2026/07/20/us/politics/maine-democrats-senate-jackson-platner.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-20T09:02:24.000Z",
+      "sourceId": "lootura-us-the-new-york-times-politics"
+    },
+    {
+      "title": "5 Things to Know About the Maine Senate Candidate Troy Jackson",
+      "url": "https://www.nytimes.com/2026/07/20/us/politics/troy-jackson-maine-senate.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-20T09:02:27.000Z",
+      "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 4
 }

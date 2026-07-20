@@ -3,10 +3,16 @@
 > Sigue la actividad de Emiliano García-Page en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-19T20:42:54.963Z
+- Actualizado: 2026-07-20T10:49:30.114Z
 - Canonical: https://atlas.lootura.com/es/person/emiliano-garcia-page
 
 ## Cambios recientes
+
+### Page vaticina que incendio La Mierla superará las 26.000 hectáreas quemadas
+
+El presidente de Castilla-La Mancha , Emiliano García-Page , ha vaticinado que el incendio forestal de La Mierla (Guadalajara) se irá «por encima de las 26.000 hectáreas» calcinadas , pero ha asegurado que el operativo de lucha contra el fuego está «triunfando» en sus prioridades, la defensa de las vidas humanas y de l.
+
+Date: 2026-07-20
 
 ### Incendios en España, en directo hoy: última hora de los fuegos activos, evolución y situación en Aragón, Castilla-La Mancha, Madrid y Andalucía
 
@@ -28,4 +34,4 @@ Date: 2026-07-18
 
 ## Fuentes
 
-No public source links.
+- [Page vaticina que incendio La Mierla superará las 26.000 hectáreas quemadas](https://theobjective.com/espana/politica/2026-07-20/page-incendio-mierla-26000-hectareas/?utm_source=lootura.com) — 2026-07-20T09:09:37.000Z

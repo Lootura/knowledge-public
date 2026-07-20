@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/democratic-party/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/democratic-party/index.json",
   "description": "Follow Democratic Party, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-20T06:43:38.114Z",
+  "updatedAt": "2026-07-20T10:49:47.387Z",
   "aliases": [
     "Democrats"
   ],
@@ -16,6 +16,16 @@
     {
       "title": "US politicians push agencies to restrict research collaboration with China",
       "summary": "Nature, Published online: 16 July 2026; doi:10.1038/d41586-026-02226-9 Republicans and Democrats worry about research theft and exploitation — but don’t agree on how to solve the problem.",
+      "date": "2026-07-20"
+    },
+    {
+      "title": "Maine Democrats close in on pick to replace Senate candidate Graham Platner",
+      "summary": "Maine Democrats appear to be settling on a frontrunner to replace former Senate candidate Graham Platner in a rushed process to take on Republican Sen. Susan Collins.",
+      "date": "2026-07-20"
+    },
+    {
+      "title": "In Maine Senate Race, Democrats Go From Chaos to Coronation",
+      "summary": "Troy Jackson’s emergence as the clear front-runner to replace Graham Platner spares the party some challenges but points to some new ones.",
       "date": "2026-07-20"
     },
     {
@@ -52,16 +62,6 @@
       "title": "US politicians push agencies to restrict research collaboration with China",
       "summary": "Nature, Published online: 16 July 2026; doi:10.1038/d41586-026-02226-9 Republicans and Democrats worry about research theft and exploitation — but don’t agree on how to solve the problem.",
       "date": "2026-07-18"
-    },
-    {
-      "title": "AIPAC Closes Donor Portal to Democrats Who Voted to End Aid to Israel",
-      "summary": "The pro-Israel lobbying group appeared to be punishing Democrats it had endorsed for re-election after they voted in favor of an amendment that would have cut off U.S. aid to Israel.",
-      "date": "2026-07-18"
-    },
-    {
-      "title": "As competitive Senate map emerges, both Democrats and Republicans see a path to win",
-      "summary": "More than halfway through the primary elections, the map of competitive Senate races is becoming clearer, though there are still outstanding races to watch.",
-      "date": "2026-07-17"
     }
   ],
   "sources": [
@@ -70,6 +70,12 @@
       "url": "https://www.nature.com/articles/d41586-026-02226-9?utm_source=lootura.com",
       "publishedAt": "2026-07-20T06:43:42.868Z",
       "sourceId": "lootura-us-nature"
+    },
+    {
+      "title": "Maine Democrats close in on pick to replace Senate candidate Graham Platner",
+      "url": "https://www.npr.org/2026/07/20/nx-s1-5897456/maine-democrats-close-in-on-pick-to-replace-senate-candidate-graham-platner?utm_source=lootura.com",
+      "publishedAt": "2026-07-20T08:41:56.000Z",
+      "sourceId": "lootura-us-npr-politics"
     },
     {
       "title": "Don’t Let This Useless Debate Distract You, Democrats",
@@ -82,7 +88,13 @@
       "url": "https://www.nytimes.com/2026/07/19/us/elections/arizona-democratic-primary-shah-galan-woods.html?utm_source=lootura.com",
       "publishedAt": "2026-07-19T17:41:41.000Z",
       "sourceId": "lootura-us-the-new-york-times"
+    },
+    {
+      "title": "In Maine Senate Race, Democrats Go From Chaos to Coronation",
+      "url": "https://www.nytimes.com/2026/07/20/us/politics/maine-democrats-senate-jackson-platner.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-20T09:02:24.000Z",
+      "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 5
 }

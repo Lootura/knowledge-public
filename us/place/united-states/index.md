@@ -3,7 +3,7 @@
 > Follow United States, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-20T06:43:38.114Z
+- Updated: 2026-07-20T10:49:47.387Z
 - Canonical: https://atlas.lootura.com/us/place/united-states
 
 ## Recent changes
@@ -44,39 +44,39 @@ Secretary of State Marco Rubio also said that Iran has signaled it wants to nego
 
 Date: 2026-07-20
 
-### Tehran and Washington Face a ‘Wake Up Moment’ Over the War
+### Student loan defaults surging in wake of COVID-tied payments pause expiration
 
-U.S. and Iranian attacks are unfolding in a way that risks a wider war they cannot contain, analysts warn, unless they can return to negotiations quickly.
+Defaults on student loans have surged across the United States, reaching record levels as borrowers struggle to keep up with payments.
 
 Date: 2026-07-20
 
-### Politics chat: How much faith can you have in the country's election systems?
+### Steve Forbes urges Trump to keep the Strait of Hormuz open at all costs
 
-President Trump and Secretary of Homeland Security Markwayne Mullin make claims about the vulnerability of election systems in the U.S., but how true are those claims?
+Steve Forbes says the United States must double down on efforts to topple the Tehran regime, arguing that free passage through the Strait of Hormuz should remain a non-negotiable American imperative. As the U.S. struck targets in Iran for a ninth consecutive day on Sunday, pressure on the Tehran regime continued to bui.
 
-Date: 2026-07-19
+Date: 2026-07-20
 
-### Failed Immigration Cases Leave Chicago Prosecutor’s Office Reeling
+### Morning news brief
 
-Prosecutors have fled the U.S. attorney’s office in Chicago, angry about the cases they’ve been told to bring against protesters and immigrants.
+The U.S. carries out a wave of strikes against Iran, as fighting between the two escalates, Congress faces long to-do list as August recess approaches, Andy Burnham becomes U.K.'s 7th prime minister.
 
-Date: 2026-07-19
+Date: 2026-07-20
 
-### Black and Latino Leaders Ask: What Do Socialist Wins Mean for New York?
+### U.S. Service Members Killed as War Expands, and Federal Cases Against Protesters Crumble
 
-Longtime leaders and advocates in minority districts fear that victories by the Democratic Socialists of America in gentrifying neighborhoods could mean political erasure.
+Plus, what to know about the next British prime minister.
 
-Date: 2026-07-19
+Date: 2026-07-20
 
 ## Sources
 
+- [Student loan defaults surging in wake of COVID-tied payments pause expiration](https://www.cbsnews.com/news/student-loan-defaults-surge-covid-tied-payments-pause-expiration/?utm_source=lootura.com) — 2026-07-20T10:09:00.000Z
 - [U.S. soldier killed in Iraq, Trump orders more strikes against Iran](https://www.cbsnews.com/video/us-soldier-killed-in-iraq-trump-orders-more-strikes-against-iran/?utm_source=lootura.com) — 2026-07-20T00:50:00.000Z
-- [Bank of America CEO Brian Moynihan says "affordability is a challenge" for customers](https://www.cbsnews.com/video/bank-of-america-ceo-brian-moynihan-says-affordability-is-a-challenge-for-customers/?utm_source=lootura.com) — 2026-07-19T15:57:26.000Z
 - [The Uplift: The American Dream](https://www.cbsnews.com/video/the-uplift-the-american-dream/?utm_source=lootura.com) — 2026-07-27T10:30:00.000Z
 - [The Hello Girls, America's first women soldiers, finally getting their recognition](https://www.cbsnews.com/video/the-hello-girls-americas-first-women-soldiers-finally-getting-their-recognition/?utm_source=lootura.com) — 2026-07-20T01:13:11.000Z
-- [Sen. Mark Warner says Middle East bases are "on and off under attack" since Iran war began](https://www.cbsnews.com/video/sen-mark-warner-says-middle-east-bases-are-on-and-off-under-attack-since-iran-war-began/?utm_source=lootura.com) — 2026-07-19T15:51:22.000Z
-- [Face the Nation: Hochul, Homan, Moynihan](https://www.cbsnews.com/video/face-the-nation-hochul-homan-moynihan/?utm_source=lootura.com) — 2026-07-19T16:14:07.000Z
+- [Steve Forbes urges Trump to keep the Strait of Hormuz open at all costs](https://www.foxnews.com/world/steve-forbes-urges-trump-keep-strait-hormuz-open-all-costs?utm_source=lootura.com) — 2026-07-20T10:39:53.000Z
 - [U.S. military recovers unidentified remains in Jordan as another service member dies in Iraq](https://www.nbcnews.com/world/middle-east/us-service-member-killed-in-iraq-rcna588275?utm_source=lootura.com) — 2026-07-19T19:52:32.000Z
-- [U.S. service member killed in Northern Iraq, says U.S. Central Command](https://www.nbcnews.com/now/video/u-s-service-member-killed-in-northern-iraq-says-u-s-central-command-266920517563?utm_source=lootura.com) — 2026-07-19T20:04:12.000Z
-- [Politics chat: How much faith can you have in the country's election systems?](https://www.npr.org/2026/07/19/nx-s1-5890938/politics-chat-how-much-faith-can-you-have-in-the-countrys-election-systems?utm_source=lootura.com) — 2026-07-19T12:04:18.000Z
+- [Morning news brief](https://www.npr.org/2026/07/20/nx-s1-5895962/morning-news-brief?utm_source=lootura.com) — 2026-07-20T08:43:08.000Z
 - [Oil Prices Cross $90 a Barrel as U.S.-Iran Conflict Widens](https://www.nytimes.com/2026/07/19/business/oil-prices-stocks-gas.html?utm_source=lootura.com) — 2026-07-20T06:33:35.000Z
+- [Rubio Says That U.S. Is Still Open to Diplomacy With Iran](https://www.nytimes.com/2026/07/20/world/middleeast/rubio-us-iran-war-diplomacy.html?utm_source=lootura.com) — 2026-07-20T06:02:46.000Z
+- [U.S. Service Members Killed as War Expands, and Federal Cases Against Protesters Crumble](https://www.nytimes.com/2026/07/20/podcasts/the-headlines/service-members-killed-iran-federal-cases-protesters.html?utm_source=lootura.com) — 2026-07-20T10:00:09.000Z

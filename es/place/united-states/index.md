@@ -3,10 +3,28 @@
 > Sigue la actividad de Estados Unidos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-20T06:43:17.611Z
+- Actualizado: 2026-07-20T10:49:30.114Z
 - Canonical: https://atlas.lootura.com/es/place/united-states
 
 ## Cambios recientes
+
+### El precio del petróleo modera su escalada tras anunciar Irán contactos con los mediadores
+
+La persistencia de la incertidumbre en Oriente Próximo ha llevado al precio del petróleo a superar por primera vez en más de un mes los 91 dólares por barril. Una escalada que se ha visto frenada tras el anuncio por parte del régimen iraní de contactos diplomáticos con los mediadores con Estados Unidos. El barril de br.
+
+Date: 2026-07-20
+
+### El Ibex 35 sube 0,28% a mediodía y recupera los 19.200 puntos, con el petróleo 87 dólares
+
+El Ibex 35 cotizaba en la media sesión con una subida del 0,28% , hasta situarse en los 19.271,60 puntos , tras suavizarse el precio del crudo hasta los 87 dólares desde los 92 dólares marcados en la apertura de este lunes, en un contexto marcado por los ataques cruzados entre Irán y Estados Unidos en Oriente Próximo .
+
+Date: 2026-07-20
+
+### El petróleo pierde un 4% desde máximos por la expectativa de un acuerdo entre Irán y EEUU
+
+El precio del barril de crudo de calidad Brent , que había llegado este lunes, 20 de julio, a superar el umbral de los 91 dólares , se ha dado la vuelta y cedía alrededor de un 4% desde los máximos del día. Todo esto ha pasado después de que Irán haya asegurado que los contactos diplomáticos con Estados Unidos continúa.
+
+Date: 2026-07-20
 
 ### 15.000 personas rugen en el Movistar Arena para animar a la selección: "Queremos ser testigos de la historia"
 
@@ -50,25 +68,8 @@ Irán ha anunciado este sábado que deja en suspenso el acuerdo de alto el fuego
 
 Date: 2026-07-18
 
-### EEUU confirma al menos 13 militares heridos durante la última semana en Oriente Medio
-
-El Comando Central del Ejército de Estados Unidos (Centcom) confirmó este sábado a Fox News que al menos 13 militares estadounidenses han resultado.
-
-Date: 2026-07-18
-
-### Dimite el líder conservador alemán por tener un hijo por gestación subrogada en EEUU
-
-El líder del bloque conservador en el Parlamento de Alemania , Jens Spahn, ha presentado su dimisión este sábado a petición del canciller y co-líder de la alianza, Friedrich Merz , por haber tenido un hijo por gestación subrogada en Estados Unidos ; una práctica declarada ilegal en Alemania. «He informado a los líderes.
-
-Date: 2026-07-18
-
-### Mueren dos soldados de EE.UU. y uno permanece desaparecido tras un ataque iraní sobre Jordania
-
-Dos uniformados estadounidenses han muerto y un tercero permanece desaparecido después de ataques con misiles balísticos y drones lanzados por Irán contra una base en Jordania. Son las primeras bajas estadounidenses provocadas directamente por fuego iraní desde que Estados Unidos retomara los ataques este mes y elevan.
-
-Date: 2026-07-18
-
 ## Fuentes
 
-- [Un increíble Mundial encumbra a Rodri: ¿es ya el mejor jugador que España ha tenido en toda su historia?](https://www.20minutos.es/deportes/futbol/un-increible-mundial-encumbra-rodri-seleccion-es-ya-mejor-jugador-espanol-historia_7015569_0.html?utm_source=lootura.com) — 2026-07-20T05:13:58.000Z
-- [15.000 personas rugen en el Movistar Arena para animar a la selección: "Queremos ser testigos de la historia"](https://amp.elmundo.es/deportes/futbol/mundial-de-futbol/2026/07/19/6a5ce5ace4d4d841498b4576.html?utm_source=lootura.com) — 2026-07-19T19:53:35.000Z
+- [El precio del petróleo modera su escalada tras anunciar Irán contactos con los mediadores](https://cincodias.elpais.com/mercados-financieros/2026-07-20/la-bolsa-y-el-ibex-35.html?utm_source=lootura.com) — 2026-07-20T10:03:45.000Z
+- [El Ibex 35 sube 0,28% a mediodía y recupera los 19.200 puntos, con el petróleo 87 dólares](https://okdiario.com/economia/ibex-35-bolsa-20-julio-19030570?utm_source=lootura.com) — 2026-07-20T10:44:39.000Z
+- [El petróleo pierde un 4% desde máximos por la expectativa de un acuerdo entre Irán y EEUU](https://okdiario.com/economia/petroleo-pierde-4-desde-maximos-expectativa-acuerdo-iran-eeuu-19032018?utm_source=lootura.com) — 2026-07-20T10:35:40.000Z

@@ -8,11 +8,16 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/new-york/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/new-york/index.json",
   "description": "Follow New York, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-20T06:43:38.114Z",
+  "updatedAt": "2026-07-20T10:49:47.387Z",
   "aliases": [
     "New York City"
   ],
   "changes": [
+    {
+      "title": "Before Lettuce Felled Thousands, a Cilantro-Linked Cyclospora Outbreak Sickened New Yorkers",
+      "summary": "New York City health officials shared details of how they traced a much smaller cyclosporiasis outbreak, showing the difficulty of tracing contamination.",
+      "date": "2026-07-19"
+    },
     {
       "title": "Black and Latino Leaders Ask: What Do Socialist Wins Mean for New York?",
       "summary": "Longtime leaders and advocates in minority districts fear that victories by the Democratic Socialists of America in gentrifying neighborhoods could mean political erasure.",
@@ -26,11 +31,6 @@
     {
       "title": "Second death reported in Legionnaires' disease outbreak in New York City",
       "summary": "The outbreak on Manhattan's Upper East Side has infected 72 people, according to health officials.",
-      "date": "2026-07-19"
-    },
-    {
-      "title": "Before Lettuce Felled Thousands, a Cilantro-Linked Cyclospora Outbreak Sickened New Yorkers",
-      "summary": "New York City health officials shared details of how they traced a much smaller cyclosporiasis outbreak, showing the difficulty of tracing contamination.",
       "date": "2026-07-19"
     },
     {
@@ -66,22 +66,10 @@
   ],
   "sources": [
     {
-      "title": "Face the Nation: Hochul, Homan, Moynihan",
-      "url": "https://www.cbsnews.com/video/face-the-nation-hochul-homan-moynihan/?utm_source=lootura.com",
-      "publishedAt": "2026-07-19T16:14:07.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
-    {
-      "title": "Second death reported in Legionnaires' disease outbreak in New York City",
-      "url": "https://www.pbs.org/newshour/health/second-death-reported-in-legionnaires-disease-outbreak-in-new-york-city?utm_source=lootura.com",
-      "publishedAt": "2026-07-19T16:57:04.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
-    },
-    {
-      "title": "Black and Latino Leaders Ask: What Do Socialist Wins Mean for New York?",
-      "url": "https://www.nytimes.com/2026/07/19/nyregion/black-latino-leaders-dsa-nyc.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-19T07:00:08.000Z",
-      "sourceId": "lootura-us-the-new-york-times"
+      "title": "¡Se abre el telón! Argentina se prepara para el escenario de la gran final ante España en New York",
+      "url": "https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/se-abre-el-telon-argentina-se-prepara-para-el-escenario-de-la-gran-final-ante-espana-en-new-york-tmvo13205255?utm_source=lootura.com",
+      "publishedAt": "2026-07-19T18:42:58.000Z",
+      "sourceId": "lootura-us-nbc-news"
     },
     {
       "title": "Before Lettuce Felled Thousands, a Cilantro-Linked Cyclospora Outbreak Sickened New Yorkers",
@@ -90,5 +78,5 @@
       "sourceId": "lootura-us-the-new-york-times"
     }
   ],
-  "evidenceCount": 4
+  "evidenceCount": 1
 }

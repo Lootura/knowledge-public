@@ -3,7 +3,7 @@
 > Follow Artificial intelligence, a tracked topic, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: topic
-- Updated: 2026-07-20T06:43:38.114Z
+- Updated: 2026-07-20T10:49:47.387Z
 - Canonical: https://atlas.lootura.com/us/topic/artificial-intelligence
 
 ## Recent changes
@@ -17,6 +17,12 @@ Date: 2026-07-20
 ### A global capital for AI safety is emerging — and it’s not in Silicon Valley
 
 Nature, Published online: 16 July 2026; doi:10.1038/d41586-026-01389-9 The United Kingdom is gaining influence through its growing AI-safety ecosystem.
+
+Date: 2026-07-20
+
+### AI tool reveals climate shifts may have fueled bursts of bird evolution
+
+University of Michigan researchers have used an AI tool to demonstrate that birds in the group Passeriformes evolved in rapid evolutionary bursts and that these bursts frequently coincided with climate shifts throughout Earth's history.
 
 Date: 2026-07-20
 
@@ -62,13 +68,8 @@ Nature, Published online: 16 July 2026; doi:10.1038/d41586-026-01389-9 The Unite
 
 Date: 2026-07-18
 
-### Prompt Injection Attacks Are Thwarting AI Hacking Agents
-
-“Context bombing” tricks malicious AI agents into shutting down before they can do harm.
-
-Date: 2026-07-18
-
 ## Sources
 
-- [AI is set to completely transform cybersecurity — here’s how researchers must prepare](https://www.nature.com/articles/d41586-026-02214-z?utm_source=lootura.com) — 2026-07-20T06:43:42.868Z
-- [A global capital for AI safety is emerging — and it’s not in Silicon Valley](https://www.nature.com/articles/d41586-026-01389-9?utm_source=lootura.com) — 2026-07-20T06:43:42.868Z
+- [AI is set to completely transform cybersecurity — here’s how researchers must prepare](https://www.nature.com/articles/d41586-026-02214-z?utm_source=lootura.com) — 2026-07-20T10:49:51.198Z
+- [A global capital for AI safety is emerging — and it’s not in Silicon Valley](https://www.nature.com/articles/d41586-026-01389-9?utm_source=lootura.com) — 2026-07-20T10:49:51.198Z
+- [AI tool reveals climate shifts may have fueled bursts of bird evolution](https://phys.org/news/2026-07-ai-tool-reveals-climate-shifts.html?utm_source=lootura.com) — 2026-07-20T09:00:06.000Z

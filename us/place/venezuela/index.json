@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/venezuela/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/venezuela/index.json",
   "description": "Follow Venezuela, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-17T17:09:22.641Z",
+  "updatedAt": "2026-07-20T10:49:47.387Z",
   "aliases": [],
   "changes": [
     {
@@ -52,6 +52,13 @@
       "date": "2026-07-08"
     }
   ],
-  "sources": [],
+  "sources": [
+    {
+      "title": "Trump, Rubio and a Zombie State In Venezuela",
+      "url": "https://time.com/article/2026/07/20/trump-rubio-rodriguez-earthquake-venezuela/?utm_source=lootura.com",
+      "publishedAt": "2026-07-20T10:00:00.000Z",
+      "sourceId": "lootura-us-time"
+    }
+  ],
   "evidenceCount": 0
 }

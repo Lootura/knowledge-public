@@ -3,10 +3,16 @@
 > Sigue la actividad de Partido Popular en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-20T06:43:17.611Z
+- Actualizado: 2026-07-20T10:49:30.114Z
 - Canonical: https://atlas.lootura.com/es/organization/partido-popular
 
 ## Cambios recientes
+
+### Dos millones de votantes, cinco elecciones y solo dos anuncios: así ignoran los partidos al electorado latino
+
+En junio de 2016, una mujer colombiana con doble nacionalidad apareció en un vídeo grabado con el móvil durante un acto del Partido Popular. Se llamaba Martha Inés y pedía el voto en nombre de “los latinos”. Ella no lo sabía, pero ese vídeo –visto por unos cientos de personas– sería uno de los dos únicos momentos en oc.
+
+Date: 2026-07-20
 
 ### Así funciona la campaña permanente del PP que tiene a Abascal en sus oraciones
 
@@ -62,12 +68,7 @@ El PP de Madrid sigue apostando por un apoyo cerrado a Manuel Bautista, a pesar 
 
 Date: 2026-07-18
 
-### Los candidatos del PP a las alcaldías de Castilla y León apelan a la ambición y a la cercanía
-
-A pesar de que aún quedan casi diez meses por delante, el partido Popular dio el pistoletazo de salida paras las próximas elecciones municipales del mes de mayo de 2027. Y lo hizo con un gran acto en Santiago de Compostela, presidido por Alberto Núñez Feijóo, y que contó con la presencia de los candidatos de todas las.
-
-Date: 2026-07-18
-
 ## Fuentes
 
 - [«Antes de que se carguen la pantalla, me llevan por delante», dice la secretaria general del PP vasco](https://www.elcorreo.com/bizkaia/secretaria-general-pp-vasco-enfrenta-radicales-trataban-20260719214929-nt_amp.html?utm_source=lootura.com) — 2026-07-19T19:49:29.000Z
+- [Dos millones de votantes, cinco elecciones y solo dos anuncios: así ignoran los partidos al electorado latino](https://theconversation.com/dos-millones-de-votantes-cinco-elecciones-y-solo-dos-anuncios-asi-ignoran-los-partidos-al-electorado-latino-285195?utm_source=lootura.com) — 2026-07-20T06:56:24.000Z

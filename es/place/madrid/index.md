@@ -3,10 +3,28 @@
 > Sigue la actividad de Madrid en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-20T06:43:17.611Z
+- Actualizado: 2026-07-20T10:49:30.114Z
 - Canonical: https://atlas.lootura.com/es/place/madrid
 
 ## Cambios recientes
+
+### Herido grave un trabajador con quemaduras químicas por sosa cáustica en Becerril de la Sierra (Madrid)
+
+Un trabajador de 52 años ha sufrido este lunes graves quemaduras químicas por sosa cáustica en Becerril de la Sierra mientras manipulaba una tubería de una piscina. Las lesiones afectan al 36% de su superficie corporal, según han informado fuentes de emergencias. El incidente se produjo en torno a las 9.30 horas en la.
+
+Date: 2026-07-20
+
+### Zarzuela, Moncloa y Cibeles: Madrid se prepara para recibir a sus héroes
+
+Los jugadores harán en primer lugar la visita institucional. Después, el recorrido por las calles de la capital hasta llegar a la Plaza del Ayuntamiento, donde será el gran acto de celebración Leer.
+
+Date: 2026-07-20
+
+### Ayuso lamenta el «ataque salvaje» a militares que seguían la final en Navarra
+
+La presidenta de la Comunidad de Madrid, Isabel Díaz Ayuso , ha lamentado este lunes el «ataque salvaje» a un grupo de militares que seguían la final de la Copa del Mundo en Berriozar (Navarra) y espera que «todo el mundo, desde sus respectivos ámbitos políticos, condene algo así». «Es estremecedor que esto esté pasand.
+
+Date: 2026-07-20
 
 ### Madrid: el soterramiento de A-5 en Batán dice adiós a las curvas en superficie y vuelve al trazado recto
 
@@ -50,30 +68,9 @@ El balón echó a rodar en Estados Unidos, pero el epicentro de la emoción se h
 
 Date: 2026-07-19
 
-### Incendios en España, en directo hoy: última hora de los fuegos activos, evolución y situación en Aragón, Castilla-La Mancha, Madrid y Andalucía
-
-El presidente de la Junta de Comunidades de Castilla-La Mancha, Emiliano García-Page , señaló este sábado que la culpa de los incendios "no la tiene nadie por su profesión, condición política o raza" sino que la tiene "aquel que incumple las leyes" y subrayó que "llegará el momento de esclarecer las causas" , como así.
-
-Date: 2026-07-19
-
-### Puigdemont no apoyará los Presupuestos de Sánchez: "Madrid recibe una sobreinversión que multiplica la de los catalanes"
-
-El expresidente de la Generalitat y líder de Junts, Carles Puigdemont , ha cerrado este domingo la puerta a respaldar unos futuros Presupuestos Generales del Estado mientras el Gobierno de Pedro Sánchez no revierta lo que considera un trato discriminatorio hacia Cataluña en materia de inversión pública. El dirigente in.
-
-Date: 2026-07-19
-
-### Las bases del PSOE eligen continuismo: Reyes Maroto se impone a Enma López como candidata a la alcaldía de Madrid
-
-La exministra de Industria Reyes Maroto volverá a encabezar la candidatura socialista a la alcaldía de Madrid. Y consiguió la validación en las primarias celebradas este domingo: los militantes optaron por la continuidad y la eligieron a ella frente a la concejala Enma López , que se lanzó a la carrera sin el permiso p.
-
-Date: 2026-07-19
-
 ## Fuentes
 
-- [Cuándo y dónde es la celebración de España: los campeones del mundo se citan con su afición](https://www.20minutos.es/deportes/futbol/celebracion-espana-mundial-2026-cuando-donde-campeones-mundo-aficion_7015928_0.html?utm_source=lootura.com) — 2026-07-20T06:30:58.000Z
-- [15.000 personas rugen en el Movistar Arena para animar a la selección: "Queremos ser testigos de la historia"](https://amp.elmundo.es/deportes/futbol/mundial-de-futbol/2026/07/19/6a5ce5ace4d4d841498b4576.html?utm_source=lootura.com) — 2026-07-19T19:53:35.000Z
-- [Madrid: el soterramiento de A-5 en Batán dice adiós a las curvas en superficie y vuelve al trazado recto](https://www.larazon.es/madrid/madrid-soterramiento-batan-dice-adios-curvas-superficie-vuelve-trazado-recto_202607206a5db7a5e9f2e84b5c72f337.html?utm_source=lootura.com) — 2026-07-20T05:52:37.000Z
-- [Alerta amarilla por calor en la celebración de la Copa del Mundo en Madrid](https://www.larazon.es/madrid/alerta-amarilla-calor-celebracion-copa-mundo-madrid_202607206a5dbf780500ab412c9ffe2b.html?outputType=amp&utm_source=lootura.com) — 2026-07-20T06:26:00.000Z
-- [El delegado del Gobierno se ofrece a Reyes Maroto "para ganar Cibeles"](https://www.larazon.es/madrid/delegado-gobierno-ofrece-reyes-maroto-ganar-cibeles_202607206a5dba6f1db8de0409990c28.html?utm_source=lootura.com) — 2026-07-20T06:04:31.000Z
-- [Vuelve el cine de verano: Autocine Madrid regresa este lunes con música en directo y gastronomía](https://www.larazon.es/madrid/vuelve-cine-verano-autocine-madrid-regresa-este-lunes-musica-directo-gastronomia_202607206a5dbb930500ab412c9ff931.html?utm_source=lootura.com) — 2026-07-20T06:09:23.000Z
-- [Así es el primer tren sin conductor que recorrerá la Línea 6 del Metro de Madrid: llegará a las vías en unas semanas](https://okdiario.com/madrid/asi-primer-tren-sin-conductor-que-recorrera-linea-6-del-metro-madrid-llegara-vias-unas-semanas-19019873?utm_source=lootura.com) — 2026-07-20T06:15:27.000Z
+- [Recorrido del autobús en la celebración de España que acabará en Cibeles: horario y puntos claves en Madrid](https://www.20minutos.es/madrid/recorrido-autobus-celebracion-espana-tras-ganar-mundial-que-terminara-cibeles-horario-puntos-claves_7016640_0.html?utm_source=lootura.com) — 2026-07-20T09:33:12.000Z
+- [Herido grave un trabajador con quemaduras químicas por sosa cáustica en Becerril de la Sierra (Madrid)](https://www.elconfidencial.com/espana/madrid/2026-07-20/quemaduras-sosa-caustica-becerril-madrid-1tna-1tps_4392812/?utm_source=lootura.com) — 2026-07-20T10:31:00.000Z
+- [Zarzuela, Moncloa y Cibeles: Madrid se prepara para recibir a sus héroes](https://www.elmundo.es/deportes/futbol/mundial-de-futbol/2026/07/20/6a5a6613fc6c83030d8b459c.html?utm_source=lootura.com) — 2026-07-20T08:25:20.000Z
+- [Ayuso lamenta el «ataque salvaje» a militares que seguían la final en Navarra](https://theobjective.com/espana/politica/2026-07-20/ayuso-ataque-militares-final-navarra/?utm_source=lootura.com) — 2026-07-20T10:18:13.000Z

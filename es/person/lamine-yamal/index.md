@@ -3,7 +3,7 @@
 > Sigue la actividad de Lamine Yamal en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-20T06:43:17.611Z
+- Actualizado: 2026-07-20T10:49:30.114Z
 - Canonical: https://atlas.lootura.com/es/person/lamine-yamal
 
 ## Cambios recientes
@@ -70,4 +70,5 @@ Date: 2026-07-10
 
 ## Fuentes
 
+- [Los mejores momentos de Keyne, el hermano de Lamine Yamal que se ha convertido en el talismán](https://www.abc.es/gente/mejores-momentos-keyne-hermano-lamine-yamal-convertido-20260720121005-nt.html?utm_source=lootura.com) — 2026-07-20T10:10:05.000Z
 - [Lamine emula a Pelé y niega a Messi](https://elpais.com/deportes/mundial-futbol/2026-07-19/lamine-emula-a-pele-y-niega-a-messi.html?utm_source=lootura.com) — 2026-07-19T23:08:16.000Z

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/lionel-messi/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/lionel-messi/index.json",
   "description": "Sigue la actividad de Lionel Messi en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-20T06:43:17.611Z",
+  "updatedAt": "2026-07-20T10:49:30.114Z",
   "aliases": [
     "Messi"
   ],
@@ -65,6 +65,12 @@
     }
   ],
   "sources": [
+    {
+      "title": "Recorrido del autobús en la celebración de España que acabará en Cibeles: horario y puntos claves en Madrid",
+      "url": "https://www.20minutos.es/madrid/recorrido-autobus-celebracion-espana-tras-ganar-mundial-que-terminara-cibeles-horario-puntos-claves_7016640_0.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-20T09:33:12.000Z",
+      "sourceId": "lootura-es-20minutos"
+    },
     {
       "title": "Messi dice adiós entre lágrimas en una Argentina impotente y furiosa: \"Tenemos que ser grandes en la derrota\"",
       "url": "https://www.elmundo.es/deportes/futbol/mundial-de-futbol/2026/07/20/6a5d169bfc6c83a9138b4582.html?utm_source=lootura.com",

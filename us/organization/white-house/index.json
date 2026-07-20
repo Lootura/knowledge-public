@@ -62,19 +62,6 @@
       "date": "2026-07-17"
     }
   ],
-  "sources": [
-    {
-      "title": "Face the Nation: Hochul, Homan, Moynihan",
-      "url": "https://www.cbsnews.com/video/face-the-nation-hochul-homan-moynihan/?utm_source=lootura.com",
-      "publishedAt": "2026-07-19T16:14:07.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
-    {
-      "title": "Homan says \"I think body cameras are the way to go\" after ICE shootings",
-      "url": "https://www.cbsnews.com/news/tom-homan-trump-border-czar-ice-shootings-maine-texas/?utm_source=lootura.com",
-      "publishedAt": "2026-07-19T17:43:54.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    }
-  ],
-  "evidenceCount": 2
+  "sources": [],
+  "evidenceCount": 0
 }

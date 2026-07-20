@@ -3,7 +3,7 @@
 > Sigue la actividad de China en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-20T06:43:17.611Z
+- Actualizado: 2026-07-20T10:49:30.114Z
 - Canonical: https://atlas.lootura.com/es/place/china
 
 ## Cambios recientes
@@ -70,4 +70,4 @@ Date: 2026-07-17
 
 ## Fuentes
 
-- [Soberanía a plazos](https://theobjective.com/elsubjetivo/opinion/2026-07-20/soberania-a-plazos-articulo-monago/?utm_source=lootura.com) — 2026-07-20T03:25:00.000Z
+- [Bruselas multa con 550 millones a AliExpress por vender productos ilegales](https://okdiario.com/economia/bruselas-multa-550-millones-aliexpress-vender-productos-ilegales-19032254/amp?utm_source=lootura.com) — 2026-07-20T10:46:18.000Z

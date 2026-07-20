@@ -3,10 +3,16 @@
 > Follow Europe, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-20T06:43:38.114Z
+- Updated: 2026-07-20T10:49:47.387Z
 - Canonical: https://atlas.lootura.com/us/place/europe
 
 ## Recent changes
+
+### Greece braces for year's first heat wave
+
+Greece, which was spared the record heat that ravaged most of Europe in June, is finally bracing for its first heat wave of the year.
+
+Date: 2026-07-20
 
 ### EU's AI 'guardrails' cannot absorb rapid changes in technology, study warns
 
@@ -62,12 +68,6 @@ The European Union is weighing sweeping new restrictions on children's and teena
 
 Date: 2026-07-13
 
-### Lindsey Graham remembered for a vision of American foreign policy that's fading in Washington
-
-Graham was a rare bridge between President Donald Trump's "America First" foreign policy and the traditional Washington consensus prioritizing alliances with Europe and Israel, one falling out of favor with many in both political parties.
-
-Date: 2026-07-12
-
 ## Sources
 
-- [World Cup integrity questioned by European rights body urging FIFA to help protect 2030 tournament](https://www.pbs.org/newshour/world/world-cup-integrity-questioned-by-european-rights-body-urging-fifa-to-help-protect-2030-tournament?utm_source=lootura.com) — 2026-07-19T17:31:59.000Z
+- [Greece braces for year's first heat wave](https://phys.org/news/2026-07-greece-braces-year.html?utm_source=lootura.com) — 2026-07-20T09:30:01.000Z

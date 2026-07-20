@@ -8,11 +8,21 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/ukraine/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/ukraine/index.json",
   "description": "Follow Ukraine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-20T03:18:08.226Z",
+  "updatedAt": "2026-07-20T10:49:47.387Z",
   "aliases": [
     "Kyiv"
   ],
   "changes": [
+    {
+      "title": "Funding milestone detected",
+      "summary": "At a conference on reconstruction, the focus shifted to private investment, not donor assistance.",
+      "date": "2026-07-20"
+    },
+    {
+      "title": "Zelensky Faces Pressure to Remove Ukraine’s Top General",
+      "summary": "Demonstrators and many soldiers want President Volodymyr Zelensky to reaffirm the vision of drone warfare laid out by the defense minister he fired last week.",
+      "date": "2026-07-20"
+    },
     {
       "title": "Russian attacks on Ukrainian cities kill 6 and expose defense gaps",
       "summary": "One person was killed and 16 others wounded in the overnight Russian attack on Kyiv, local authorities said.",
@@ -52,18 +62,21 @@
       "title": "8 killed and more than 60 wounded in Ukrainian drone attack on Russian regions",
       "summary": "Kyiv's forces are continuing their aerial campaign against energy infrastructure and military targets inside Russia, aiming to undermine Moscow's war effort. (Image credit: Moscow Region Governor Andrei Vo).",
       "date": "2026-07-18"
-    },
-    {
-      "title": "Ukrainian drone attacks on Russia kill at least 8, injure over 60",
-      "summary": "Kyiv's forces are continuing their relentless aerial campaign​ against energy infrastructure and military targets inside Russia.",
-      "date": "2026-07-18"
-    },
-    {
-      "title": "Ukraine fights under an interim defense chief after Zelenskyy's contested government shake-up",
-      "summary": "Ukraine fought Russia's more than 4-year-old invasion under an interim defense minister Friday, a day after a government reshuffle exposed a deep split between the military's old guard and young innovators over how to fight the war.",
-      "date": "2026-07-17"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Ukraine War Momentum Helps Spur Interest in Postwar Investment",
+      "url": "https://www.nytimes.com/2026/07/20/world/europe/ukraine-post-war-reconstruction.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-20T08:55:02.000Z",
+      "sourceId": "lootura-us-the-new-york-times-world"
+    },
+    {
+      "title": "Zelensky Faces Pressure to Remove Ukraine’s Top General",
+      "url": "https://www.nytimes.com/2026/07/20/world/europe/ukraine-zelensky-general-defense-minister.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-20T10:42:04.000Z",
+      "sourceId": "lootura-us-the-new-york-times-world"
+    }
+  ],
+  "evidenceCount": 2
 }

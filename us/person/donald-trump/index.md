@@ -3,7 +3,7 @@
 > Follow Donald Trump, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-07-20T06:43:38.114Z
+- Updated: 2026-07-20T10:49:47.387Z
 - Canonical: https://atlas.lootura.com/us/person/donald-trump
 
 ## Recent changes
@@ -11,6 +11,30 @@
 ### U.S. soldier killed in Iraq, Trump orders more strikes against Iran
 
 A U.S. service member was killed in Iraq on Saturday, CENTCOM announced. Separately, unidentified remains were found in Jordan at the location where a U.S. service member went missing and two others were killed following an Iranian strike. Taurean Small reports.
+
+Date: 2026-07-20
+
+### Steve Forbes urges Trump to keep the Strait of Hormuz open at all costs
+
+Steve Forbes says the United States must double down on efforts to topple the Tehran regime, arguing that free passage through the Strait of Hormuz should remain a non-negotiable American imperative. As the U.S. struck targets in Iran for a ninth consecutive day on Sunday, pressure on the Tehran regime continued to bui.
+
+Date: 2026-07-20
+
+### Trump says new Air Force One will be sent away for upgrades, amid security concerns
+
+President Trump said the Air Force One plane that was donated by Qatar will be sent away for upgrades, amid swirling concerns about its security features.
+
+Date: 2026-07-20
+
+### Trump could ‘do something positive’ rather than fixate on 2020 loss, Fetterman says
+
+Senator says Trump revisiting failed run against Biden ‘distracts from important things’ such as Iran war Rather than continue fixating on the 2020 election defeat that ended his first presidency, Donald Trump could instead “do something positive”, including resolving the US war in Iran , Pennsylvania senator John Fett.
+
+Date: 2026-07-20
+
+### What to Know About the Tate Brothers’ Arrest
+
+Andrew and Tristan Tate attend UFC 327 at Kaseya Center in Miami, Fla., on April 11, 2026. President Donald Trump also attended the event. —Julia Demaree Nikhinson—Pool/Getty Images Brothers Andrew and Tristan Tate, two of the world’s most polarizing social media influencers who are known for promoting misogyny and fla.
 
 Date: 2026-07-20
 
@@ -44,36 +68,10 @@ President Trump and Secretary of Homeland Security Markwayne Mullin make claims 
 
 Date: 2026-07-19
 
-### Becker: "Hardly a week goes by" without Trump administration threatening election official arrests
-
-CBS News contributors David Becker and Chris Krebs joined "Face the Nation with Margaret Brennan" in the wake of President Trump's primetime speech last week accusing China of accessing election data. Meanwhile, Homeland Security Secretary Markwayne Mullin said that if election officials do not secure elections, they c.
-
-Date: 2026-07-19
-
-### Trump Gutted Civil Rights Agency, Stifling U.S. Scrutiny of Workplace Bias
-
-A little-known federal office spent decades investigating potential discrimination by government contractors — until it was stopped by the Trump administration.
-
-Date: 2026-07-19
-
-### Trump Blasts ‘Sanctuary’ States, but Many Still Aid Deportations
-
-A New York Times review of 18 states targeted by the Trump administration for their “sanctuary” policies found that all cooperate significantly with immigration authorities in cases involving violent crimes.
-
-Date: 2026-07-19
-
-### Trump is invoking foreign election interference to justify his own | Jamil Smith
-
-The president no longer treats the people who defeated him as voters. He treats them as suspects There is a version of this country in which Donald Trump tells Americans the truth he has been handed: that their elections are secure. Once, he apparently wanted to. The Atlantic reported after Thursday night’s address tha.
-
-Date: 2026-07-19
-
 ## Sources
 
-- [Becker: "Hardly a week goes by" without Trump administration threatening election official arrests](https://www.cbsnews.com/video/becker-hardly-a-week-goes-by-without-trump-administration-threatening-election-official-arrests/?utm_source=lootura.com) — 2026-07-19T16:31:08.000Z
 - [U.S. soldier killed in Iraq, Trump orders more strikes against Iran](https://www.cbsnews.com/video/us-soldier-killed-in-iraq-trump-orders-more-strikes-against-iran/?utm_source=lootura.com) — 2026-07-20T00:50:00.000Z
-- [CNBC Daily Open: Burnham set to take helm of 'poverty stricken disaster,' says Trump](https://www.cnbc.com/2026/07/20/daily-open-andy-burnam-uk-pm-trump.html?utm_source=lootura.com) — 2026-07-20T06:07:09.000Z
-- [$600,000 for a presidential pardon? Inside the growing industry of clemency lobbying](https://www.npr.org/2026/07/19/nx-s1-5896394/600-000-for-a-presidential-pardon-inside-the-growing-industry-of-clemency-lobbying?utm_source=lootura.com) — 2026-07-19T12:13:23.000Z
-- [Georgia official discusses Trump's claims about election security](https://www.npr.org/2026/07/19/nx-s1-5896326/georgia-official-discusses-trumps-claims-about-election-security?utm_source=lootura.com) — 2026-07-19T13:06:58.000Z
-- [Trump said the election system is broken. What do swing voters make of the claim?](https://www.npr.org/2026/07/19/nx-s1-5898445/trump-said-the-election-system-is-broken-what-do-swing-voters-make-of-the-claim?utm_source=lootura.com) — 2026-07-19T12:13:24.000Z
-- [Politics chat: How much faith can you have in the country's election systems?](https://www.npr.org/2026/07/19/nx-s1-5890938/politics-chat-how-much-faith-can-you-have-in-the-countrys-election-systems?utm_source=lootura.com) — 2026-07-19T12:04:18.000Z
+- [Steve Forbes urges Trump to keep the Strait of Hormuz open at all costs](https://www.foxnews.com/world/steve-forbes-urges-trump-keep-strait-hormuz-open-all-costs?utm_source=lootura.com) — 2026-07-20T10:39:53.000Z
+- [Trump says new Air Force One will be sent away for upgrades, amid security concerns](https://www.nbcnews.com/politics/politics-news/trump-air-force-one-maxed-out-security-qatar-gift-iran-threat-rcna588323?utm_source=lootura.com) — 2026-07-20T08:57:18.000Z
+- [Trump could ‘do something positive’ rather than fixate on 2020 loss, Fetterman says](https://www.theguardian.com/us-news/2026/jul/20/fetterman-trump-fixation-2020-loss?utm_source=lootura.com) — 2026-07-20T09:00:51.000Z
+- [What to Know About the Tate Brothers’ Arrest](https://time.com/article/2026/07/20/andrew-tristan-tate-brothers-arrest-uk-extradition-trump-rubio/?utm_source=lootura.com) — 2026-07-20T10:00:42.000Z

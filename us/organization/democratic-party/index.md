@@ -3,7 +3,7 @@
 > Follow Democratic Party, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-07-20T06:43:38.114Z
+- Updated: 2026-07-20T10:49:47.387Z
 - Canonical: https://atlas.lootura.com/us/organization/democratic-party
 
 ## Recent changes
@@ -11,6 +11,18 @@
 ### US politicians push agencies to restrict research collaboration with China
 
 Nature, Published online: 16 July 2026; doi:10.1038/d41586-026-02226-9 Republicans and Democrats worry about research theft and exploitation — but don’t agree on how to solve the problem.
+
+Date: 2026-07-20
+
+### Maine Democrats close in on pick to replace Senate candidate Graham Platner
+
+Maine Democrats appear to be settling on a frontrunner to replace former Senate candidate Graham Platner in a rushed process to take on Republican Sen. Susan Collins.
+
+Date: 2026-07-20
+
+### In Maine Senate Race, Democrats Go From Chaos to Coronation
+
+Troy Jackson’s emergence as the clear front-runner to replace Graham Platner spares the party some challenges but points to some new ones.
 
 Date: 2026-07-20
 
@@ -56,20 +68,10 @@ Nature, Published online: 16 July 2026; doi:10.1038/d41586-026-02226-9 Republica
 
 Date: 2026-07-18
 
-### AIPAC Closes Donor Portal to Democrats Who Voted to End Aid to Israel
-
-The pro-Israel lobbying group appeared to be punishing Democrats it had endorsed for re-election after they voted in favor of an amendment that would have cut off U.S. aid to Israel.
-
-Date: 2026-07-18
-
-### As competitive Senate map emerges, both Democrats and Republicans see a path to win
-
-More than halfway through the primary elections, the map of competitive Senate races is becoming clearer, though there are still outstanding races to watch.
-
-Date: 2026-07-17
-
 ## Sources
 
 - [US politicians push agencies to restrict research collaboration with China](https://www.nature.com/articles/d41586-026-02226-9?utm_source=lootura.com) — 2026-07-20T06:43:42.868Z
+- [Maine Democrats close in on pick to replace Senate candidate Graham Platner](https://www.npr.org/2026/07/20/nx-s1-5897456/maine-democrats-close-in-on-pick-to-replace-senate-candidate-graham-platner?utm_source=lootura.com) — 2026-07-20T08:41:56.000Z
 - [Don’t Let This Useless Debate Distract You, Democrats](https://www.nytimes.com/2026/07/19/opinion/democrats-capitalism-socialism.html?utm_source=lootura.com) — 2026-07-19T14:47:24.000Z
 - [In Arizona’s Primaries, Democrats Fight Over a House Seat They Need Badly](https://www.nytimes.com/2026/07/19/us/elections/arizona-democratic-primary-shah-galan-woods.html?utm_source=lootura.com) — 2026-07-19T17:41:41.000Z
+- [In Maine Senate Race, Democrats Go From Chaos to Coronation](https://www.nytimes.com/2026/07/20/us/politics/maine-democrats-senate-jackson-platner.html?utm_source=lootura.com) — 2026-07-20T09:02:24.000Z

@@ -3,7 +3,7 @@
 > Follow Maine Senate, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-07-20T06:43:38.114Z
+- Updated: 2026-07-20T10:49:47.387Z
 - Canonical: https://atlas.lootura.com/us/organization/maine-senate
 
 ## Recent changes
@@ -11,6 +11,18 @@
 ### In Maine Senate Race, Jackson Sprints Ahead of Pack, as Bellows Drops Out
 
 Troy Jackson, a progressive, solidified his clear edge in the contest to replace Graham Platner, as Shenna Bellows, Jordan Wood and Nirav Shah ended their bids.
+
+Date: 2026-07-20
+
+### In Maine Senate Race, Democrats Go From Chaos to Coronation
+
+Troy Jackson’s emergence as the clear front-runner to replace Graham Platner spares the party some challenges but points to some new ones.
+
+Date: 2026-07-20
+
+### 5 Things to Know About the Maine Senate Candidate Troy Jackson
+
+Mr. Jackson, who has emerged as the clear front-runner to replace Graham Platner, is a Republican turned Democrat who is seen as close to Mr. Platner on policy.
 
 Date: 2026-07-20
 
@@ -56,19 +68,9 @@ Maine Senate first entered the public knowledge record with source-backed eviden
 
 Date: 2026-07-11
 
-### Graham Platner officially withdraws from the Maine Senate race
-
-Democrats have already set off a mad dash to find a new candidate, with a July 27 deadline to submit a replacement nominee to face Republican Sen. Susan Collins in the November election.
-
-Date: 2026-07-11
-
-### Graham Platner formally drops out of Maine Senate race
-
-Graham Platner had until 5 p.m. on Monday to formally suspend his campaign or he would remain on the ballot in November.
-
-Date: 2026-07-11
-
 ## Sources
 
 - [Troy Jackson has effectively secured the Maine Senate Democratic nomination](https://www.politico.com/news/2026/07/19/troy-jackson-likely-maine-senate-nominee-platner-01004490?utm_source=lootura.com) — 2026-07-19T17:55:37.000Z
 - [In Maine Senate Race, Jackson Sprints Ahead of Pack, as Bellows Drops Out](https://www.nytimes.com/2026/07/19/us/politics/maine-senate-bellows-jackson-platner-democrats.html?utm_source=lootura.com) — 2026-07-20T01:36:22.000Z
+- [In Maine Senate Race, Democrats Go From Chaos to Coronation](https://www.nytimes.com/2026/07/20/us/politics/maine-democrats-senate-jackson-platner.html?utm_source=lootura.com) — 2026-07-20T09:02:24.000Z
+- [5 Things to Know About the Maine Senate Candidate Troy Jackson](https://www.nytimes.com/2026/07/20/us/politics/troy-jackson-maine-senate.html?utm_source=lootura.com) — 2026-07-20T09:02:27.000Z

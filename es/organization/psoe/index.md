@@ -70,5 +70,4 @@ Date: 2026-07-18
 
 ## Fuentes
 
-- [Jésica, 'Julito', el amigo de Zapatero, y los recursos de Cerdán y Leire: otra semana con la corrupción del PSOE en los juzgados](https://www.elconfidencial.com/espana/2026-07-20/jessica-julito-amigo-de-zapatero-y-los-recursos-de-cerdan-y-leire-otra-semana-con-la-corrupcion-del-psoe-en-los-juzgados_4392471/?utm_source=lootura.com) — 2026-07-20T03:00:00.000Z
-- [La imposible derrota de Sánchez](https://theobjective.com/elsubjetivo/opinion/2026-07-20/imposible-derrota-sanchez-articulo-cano/?utm_source=lootura.com) — 2026-07-20T03:25:00.000Z
+No public source links.

@@ -3,10 +3,16 @@
 > Follow New York, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-20T06:43:38.114Z
+- Updated: 2026-07-20T10:49:47.387Z
 - Canonical: https://atlas.lootura.com/us/place/new-york
 
 ## Recent changes
+
+### Before Lettuce Felled Thousands, a Cilantro-Linked Cyclospora Outbreak Sickened New Yorkers
+
+New York City health officials shared details of how they traced a much smaller cyclosporiasis outbreak, showing the difficulty of tracing contamination.
+
+Date: 2026-07-19
 
 ### Black and Latino Leaders Ask: What Do Socialist Wins Mean for New York?
 
@@ -23,12 +29,6 @@ Date: 2026-07-19
 ### Second death reported in Legionnaires' disease outbreak in New York City
 
 The outbreak on Manhattan's Upper East Side has infected 72 people, according to health officials.
-
-Date: 2026-07-19
-
-### Before Lettuce Felled Thousands, a Cilantro-Linked Cyclospora Outbreak Sickened New Yorkers
-
-New York City health officials shared details of how they traced a much smaller cyclosporiasis outbreak, showing the difficulty of tracing contamination.
 
 Date: 2026-07-19
 
@@ -70,7 +70,5 @@ Date: 2026-07-18
 
 ## Sources
 
-- [Face the Nation: Hochul, Homan, Moynihan](https://www.cbsnews.com/video/face-the-nation-hochul-homan-moynihan/?utm_source=lootura.com) — 2026-07-19T16:14:07.000Z
-- [Second death reported in Legionnaires' disease outbreak in New York City](https://www.pbs.org/newshour/health/second-death-reported-in-legionnaires-disease-outbreak-in-new-york-city?utm_source=lootura.com) — 2026-07-19T16:57:04.000Z
-- [Black and Latino Leaders Ask: What Do Socialist Wins Mean for New York?](https://www.nytimes.com/2026/07/19/nyregion/black-latino-leaders-dsa-nyc.html?utm_source=lootura.com) — 2026-07-19T07:00:08.000Z
+- [¡Se abre el telón! Argentina se prepara para el escenario de la gran final ante España en New York](https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/se-abre-el-telon-argentina-se-prepara-para-el-escenario-de-la-gran-final-ante-espana-en-new-york-tmvo13205255?utm_source=lootura.com) — 2026-07-19T18:42:58.000Z
 - [Before Lettuce Felled Thousands, a Cilantro-Linked Cyclospora Outbreak Sickened New Yorkers](https://www.nytimes.com/2026/07/19/nyregion/cyclosporiasis-outbreak-nyc-testing.html?utm_source=lootura.com) — 2026-07-19T14:21:03.000Z

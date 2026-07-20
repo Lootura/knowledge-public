@@ -3,10 +3,22 @@
 > Follow Ukraine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-20T03:18:08.226Z
+- Updated: 2026-07-20T10:49:47.387Z
 - Canonical: https://atlas.lootura.com/us/place/ukraine
 
 ## Recent changes
+
+### Funding milestone detected
+
+At a conference on reconstruction, the focus shifted to private investment, not donor assistance.
+
+Date: 2026-07-20
+
+### Zelensky Faces Pressure to Remove Ukraine’s Top General
+
+Demonstrators and many soldiers want President Volodymyr Zelensky to reaffirm the vision of drone warfare laid out by the defense minister he fired last week.
+
+Date: 2026-07-20
 
 ### Russian attacks on Ukrainian cities kill 6 and expose defense gaps
 
@@ -56,18 +68,7 @@ Kyiv's forces are continuing their aerial campaign against energy infrastructure
 
 Date: 2026-07-18
 
-### Ukrainian drone attacks on Russia kill at least 8, injure over 60
-
-Kyiv's forces are continuing their relentless aerial campaign​ against energy infrastructure and military targets inside Russia.
-
-Date: 2026-07-18
-
-### Ukraine fights under an interim defense chief after Zelenskyy's contested government shake-up
-
-Ukraine fought Russia's more than 4-year-old invasion under an interim defense minister Friday, a day after a government reshuffle exposed a deep split between the military's old guard and young innovators over how to fight the war.
-
-Date: 2026-07-17
-
 ## Sources
 
-No public source links.
+- [Ukraine War Momentum Helps Spur Interest in Postwar Investment](https://www.nytimes.com/2026/07/20/world/europe/ukraine-post-war-reconstruction.html?utm_source=lootura.com) — 2026-07-20T08:55:02.000Z
+- [Zelensky Faces Pressure to Remove Ukraine’s Top General](https://www.nytimes.com/2026/07/20/world/europe/ukraine-zelensky-general-defense-minister.html?utm_source=lootura.com) — 2026-07-20T10:42:04.000Z

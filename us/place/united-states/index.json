@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/united-states/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/united-states/index.json",
   "description": "Follow United States, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-20T06:43:38.114Z",
+  "updatedAt": "2026-07-20T10:49:47.387Z",
   "aliases": [
     "America",
     "Estados Unidos",
@@ -46,37 +46,37 @@
       "date": "2026-07-20"
     },
     {
-      "title": "Tehran and Washington Face a ‘Wake Up Moment’ Over the War",
-      "summary": "U.S. and Iranian attacks are unfolding in a way that risks a wider war they cannot contain, analysts warn, unless they can return to negotiations quickly.",
+      "title": "Student loan defaults surging in wake of COVID-tied payments pause expiration",
+      "summary": "Defaults on student loans have surged across the United States, reaching record levels as borrowers struggle to keep up with payments.",
       "date": "2026-07-20"
     },
     {
-      "title": "Politics chat: How much faith can you have in the country's election systems?",
-      "summary": "President Trump and Secretary of Homeland Security Markwayne Mullin make claims about the vulnerability of election systems in the U.S., but how true are those claims?",
-      "date": "2026-07-19"
+      "title": "Steve Forbes urges Trump to keep the Strait of Hormuz open at all costs",
+      "summary": "Steve Forbes says the United States must double down on efforts to topple the Tehran regime, arguing that free passage through the Strait of Hormuz should remain a non-negotiable American imperative. As the U.S. struck targets in Iran for a ninth consecutive day on Sunday, pressure on the Tehran regime continued to bui.",
+      "date": "2026-07-20"
     },
     {
-      "title": "Failed Immigration Cases Leave Chicago Prosecutor’s Office Reeling",
-      "summary": "Prosecutors have fled the U.S. attorney’s office in Chicago, angry about the cases they’ve been told to bring against protesters and immigrants.",
-      "date": "2026-07-19"
+      "title": "Morning news brief",
+      "summary": "The U.S. carries out a wave of strikes against Iran, as fighting between the two escalates, Congress faces long to-do list as August recess approaches, Andy Burnham becomes U.K.'s 7th prime minister.",
+      "date": "2026-07-20"
     },
     {
-      "title": "Black and Latino Leaders Ask: What Do Socialist Wins Mean for New York?",
-      "summary": "Longtime leaders and advocates in minority districts fear that victories by the Democratic Socialists of America in gentrifying neighborhoods could mean political erasure.",
-      "date": "2026-07-19"
+      "title": "U.S. Service Members Killed as War Expands, and Federal Cases Against Protesters Crumble",
+      "summary": "Plus, what to know about the next British prime minister.",
+      "date": "2026-07-20"
     }
   ],
   "sources": [
     {
-      "title": "U.S. soldier killed in Iraq, Trump orders more strikes against Iran",
-      "url": "https://www.cbsnews.com/video/us-soldier-killed-in-iraq-trump-orders-more-strikes-against-iran/?utm_source=lootura.com",
-      "publishedAt": "2026-07-20T00:50:00.000Z",
+      "title": "Student loan defaults surging in wake of COVID-tied payments pause expiration",
+      "url": "https://www.cbsnews.com/news/student-loan-defaults-surge-covid-tied-payments-pause-expiration/?utm_source=lootura.com",
+      "publishedAt": "2026-07-20T10:09:00.000Z",
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "Bank of America CEO Brian Moynihan says \"affordability is a challenge\" for customers",
-      "url": "https://www.cbsnews.com/video/bank-of-america-ceo-brian-moynihan-says-affordability-is-a-challenge-for-customers/?utm_source=lootura.com",
-      "publishedAt": "2026-07-19T15:57:26.000Z",
+      "title": "U.S. soldier killed in Iraq, Trump orders more strikes against Iran",
+      "url": "https://www.cbsnews.com/video/us-soldier-killed-in-iraq-trump-orders-more-strikes-against-iran/?utm_source=lootura.com",
+      "publishedAt": "2026-07-20T00:50:00.000Z",
       "sourceId": "lootura-us-cbs-news"
     },
     {
@@ -92,16 +92,10 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "Sen. Mark Warner says Middle East bases are \"on and off under attack\" since Iran war began",
-      "url": "https://www.cbsnews.com/video/sen-mark-warner-says-middle-east-bases-are-on-and-off-under-attack-since-iran-war-began/?utm_source=lootura.com",
-      "publishedAt": "2026-07-19T15:51:22.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
-    {
-      "title": "Face the Nation: Hochul, Homan, Moynihan",
-      "url": "https://www.cbsnews.com/video/face-the-nation-hochul-homan-moynihan/?utm_source=lootura.com",
-      "publishedAt": "2026-07-19T16:14:07.000Z",
-      "sourceId": "lootura-us-cbs-news"
+      "title": "Steve Forbes urges Trump to keep the Strait of Hormuz open at all costs",
+      "url": "https://www.foxnews.com/world/steve-forbes-urges-trump-keep-strait-hormuz-open-all-costs?utm_source=lootura.com",
+      "publishedAt": "2026-07-20T10:39:53.000Z",
+      "sourceId": "lootura-us-fox-news"
     },
     {
       "title": "U.S. military recovers unidentified remains in Jordan as another service member dies in Iraq",
@@ -110,23 +104,29 @@
       "sourceId": "lootura-us-nbc-news"
     },
     {
-      "title": "U.S. service member killed in Northern Iraq, says U.S. Central Command",
-      "url": "https://www.nbcnews.com/now/video/u-s-service-member-killed-in-northern-iraq-says-u-s-central-command-266920517563?utm_source=lootura.com",
-      "publishedAt": "2026-07-19T20:04:12.000Z",
-      "sourceId": "lootura-us-nbc-news-politics"
-    },
-    {
-      "title": "Politics chat: How much faith can you have in the country's election systems?",
-      "url": "https://www.npr.org/2026/07/19/nx-s1-5890938/politics-chat-how-much-faith-can-you-have-in-the-countrys-election-systems?utm_source=lootura.com",
-      "publishedAt": "2026-07-19T12:04:18.000Z",
-      "sourceId": "lootura-us-npr-politics"
+      "title": "Morning news brief",
+      "url": "https://www.npr.org/2026/07/20/nx-s1-5895962/morning-news-brief?utm_source=lootura.com",
+      "publishedAt": "2026-07-20T08:43:08.000Z",
+      "sourceId": "lootura-us-npr"
     },
     {
       "title": "Oil Prices Cross $90 a Barrel as U.S.-Iran Conflict Widens",
       "url": "https://www.nytimes.com/2026/07/19/business/oil-prices-stocks-gas.html?utm_source=lootura.com",
       "publishedAt": "2026-07-20T06:33:35.000Z",
       "sourceId": "lootura-us-the-new-york-times"
+    },
+    {
+      "title": "Rubio Says That U.S. Is Still Open to Diplomacy With Iran",
+      "url": "https://www.nytimes.com/2026/07/20/world/middleeast/rubio-us-iran-war-diplomacy.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-20T06:02:46.000Z",
+      "sourceId": "lootura-us-the-new-york-times"
+    },
+    {
+      "title": "U.S. Service Members Killed as War Expands, and Federal Cases Against Protesters Crumble",
+      "url": "https://www.nytimes.com/2026/07/20/podcasts/the-headlines/service-members-killed-iran-federal-cases-protesters.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-20T10:00:09.000Z",
+      "sourceId": "lootura-us-the-new-york-times"
     }
   ],
-  "evidenceCount": 19
+  "evidenceCount": 18
 }

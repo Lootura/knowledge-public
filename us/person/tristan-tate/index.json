@@ -1,0 +1,66 @@
+{
+  "id": "usa-tristan-tate",
+  "name": "Tristan Tate",
+  "type": "person",
+  "locale": "en",
+  "canonicalPath": "/us/person/tristan-tate",
+  "canonicalUrl": "https://atlas.lootura.com/us/person/tristan-tate",
+  "markdownUrl": "https://atlas.lootura.com/us/person/tristan-tate/index.md",
+  "jsonUrl": "https://atlas.lootura.com/us/person/tristan-tate/index.json",
+  "description": "Follow Tristan Tate, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
+  "updatedAt": "2026-07-20T10:49:47.387Z",
+  "aliases": [],
+  "changes": [
+    {
+      "title": "Social media influencers Andrew and Tristan Tate arrested in Miami",
+      "summary": "Influencer brothers Andrew and Tristan Tate have been arrested by federal authorities Saturday in Miami.",
+      "date": "2026-07-20"
+    },
+    {
+      "title": "What to Know About the Tate Brothers’ Arrest",
+      "summary": "Andrew and Tristan Tate attend UFC 327 at Kaseya Center in Miami, Fla., on April 11, 2026. President Donald Trump also attended the event. —Julia Demaree Nikhinson—Pool/Getty Images Brothers Andrew and Tristan Tate, two of the world’s most polarizing social media influencers who are known for promoting misogyny and fla.",
+      "date": "2026-07-20"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Tristan Tate first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-07-19"
+    },
+    {
+      "title": "Andrew and Tristan Tate arrested in Miami on rape and sex trafficking charges. Here's what to know",
+      "summary": "Britain's Crown Prosecution Service said the new charges relate to four further victims and were brought after authorities received evidence from Bedfordshire Police in southeastern England.",
+      "date": "2026-07-19"
+    },
+    {
+      "title": "US Marshals arrest the Tate brothers in Miami",
+      "summary": "Andrew and Tristan Tate talk to the media on March 23, 2025 in Romania. | Image: Andrei Pungovschi/Getty Images The manosphere influencers Andrew and Tristan Tate were arrested Saturday in Miami by US Marshals in relation to new rape and sex trafficking charges in England. According to the Associated Press , British au.",
+      "date": "2026-07-19"
+    },
+    {
+      "title": "Social media influencers Andrew and Tristan Tate arrested in Miami",
+      "summary": "Influencer brothers Andrew and Tristan Tate have been arrested by federal authorities Saturday in Miami.",
+      "date": "2026-07-19"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Social media influencers Andrew and Tristan Tate arrested in Miami",
+      "url": "https://www.cbsnews.com/news/social-media-influencers-andrew-and-tristan-tate-arrested-in-miami-uk-charges/?utm_source=lootura.com",
+      "publishedAt": "2026-07-20T00:58:25.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
+    {
+      "title": "Andrew and Tristan Tate arrested in Miami on rape and sex trafficking charges. Here's what to know",
+      "url": "https://www.pbs.org/newshour/world/andrew-and-tristan-tate-arrested-in-miami-on-rape-and-sex-trafficking-charges-heres-what-to-know?utm_source=lootura.com",
+      "publishedAt": "2026-07-19T19:28:19.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
+    },
+    {
+      "title": "What to Know About the Tate Brothers’ Arrest",
+      "url": "https://time.com/article/2026/07/20/andrew-tristan-tate-brothers-arrest-uk-extradition-trump-rubio/?utm_source=lootura.com",
+      "publishedAt": "2026-07-20T10:00:42.000Z",
+      "sourceId": "lootura-us-time"
+    }
+  ],
+  "evidenceCount": 3
+}

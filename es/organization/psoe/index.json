@@ -65,19 +65,6 @@
       "date": "2026-07-18"
     }
   ],
-  "sources": [
-    {
-      "title": "Jésica, 'Julito', el amigo de Zapatero, y los recursos de Cerdán y Leire: otra semana con la corrupción del PSOE en los juzgados",
-      "url": "https://www.elconfidencial.com/espana/2026-07-20/jessica-julito-amigo-de-zapatero-y-los-recursos-de-cerdan-y-leire-otra-semana-con-la-corrupcion-del-psoe-en-los-juzgados_4392471/?utm_source=lootura.com",
-      "publishedAt": "2026-07-20T03:00:00.000Z",
-      "sourceId": "lootura-es-el-confidencial"
-    },
-    {
-      "title": "La imposible derrota de Sánchez",
-      "url": "https://theobjective.com/elsubjetivo/opinion/2026-07-20/imposible-derrota-sanchez-articulo-cano/?utm_source=lootura.com",
-      "publishedAt": "2026-07-20T03:25:00.000Z",
-      "sourceId": "lootura-es-the-objective"
-    }
-  ],
-  "evidenceCount": 2
+  "sources": [],
+  "evidenceCount": 0
 }

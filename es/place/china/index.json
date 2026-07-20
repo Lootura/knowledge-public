@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/china/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/china/index.json",
   "description": "Sigue la actividad de China en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-20T06:43:17.611Z",
+  "updatedAt": "2026-07-20T10:49:30.114Z",
   "aliases": [],
   "changes": [
     {
@@ -64,11 +64,11 @@
   ],
   "sources": [
     {
-      "title": "Soberanía a plazos",
-      "url": "https://theobjective.com/elsubjetivo/opinion/2026-07-20/soberania-a-plazos-articulo-monago/?utm_source=lootura.com",
-      "publishedAt": "2026-07-20T03:25:00.000Z",
-      "sourceId": "lootura-es-the-objective"
+      "title": "Bruselas multa con 550 millones a AliExpress por vender productos ilegales",
+      "url": "https://okdiario.com/economia/bruselas-multa-550-millones-aliexpress-vender-productos-ilegales-19032254/amp?utm_source=lootura.com",
+      "publishedAt": "2026-07-20T10:46:18.000Z",
+      "sourceId": "lootura-es-ok-diario"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 0
 }

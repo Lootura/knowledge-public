@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/lamine-yamal/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/lamine-yamal/index.json",
   "description": "Sigue la actividad de Lamine Yamal en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-20T06:43:17.611Z",
+  "updatedAt": "2026-07-20T10:49:30.114Z",
   "aliases": [],
   "changes": [
     {
@@ -64,11 +64,17 @@
   ],
   "sources": [
     {
+      "title": "Los mejores momentos de Keyne, el hermano de Lamine Yamal que se ha convertido en el talismán",
+      "url": "https://www.abc.es/gente/mejores-momentos-keyne-hermano-lamine-yamal-convertido-20260720121005-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-20T10:10:05.000Z",
+      "sourceId": "lootura-es-abc"
+    },
+    {
       "title": "Lamine emula a Pelé y niega a Messi",
       "url": "https://elpais.com/deportes/mundial-futbol/2026-07-19/lamine-emula-a-pele-y-niega-a-messi.html?utm_source=lootura.com",
       "publishedAt": "2026-07-19T23:08:16.000Z",
       "sourceId": "lootura-es-el-pais"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 2
 }

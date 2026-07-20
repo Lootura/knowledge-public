@@ -3,10 +3,16 @@
 > Sigue la actividad de Audiencia Nacional en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-20T06:43:17.611Z
+- Actualizado: 2026-07-20T10:49:30.114Z
 - Canonical: https://atlas.lootura.com/es/organization/audiencia-nacional
 
 ## Cambios recientes
+
+### La exnovia de Ábalos decide no declarar como investigada por malversación
+
+Jésica Rodríguez, la exnovia de José Luis Ábalos que reconoció en el juicio contra el político haber sido enchufada en dos empresas públicas y cobrar a pesar de no ir a trabajar, ha decidido acogerse a su derecho a no declarar este lunes en la Audiencia Nacional como investigada.El juez Ismael Moreno la había citado, i.
+
+Date: 2026-07-20
 
 ### Jésica, 'Julito', el amigo de Zapatero, y los recursos de Cerdán y Leire: otra semana con la corrupción del PSOE en los juzgados
 
@@ -62,12 +68,6 @@ La directora general de la Guardia Civil, Mercedes González, y el teniente gene
 
 Date: 2026-07-16
 
-### ¿Cuál es el recorrido judicial de Puigdemont tras el aval de la justicia europea a la amnistía?
-
-El Tribunal de Justicia de la Unión Europea (TJUE) ha avalado este jueves la ley de Amnistía que aprobó el Congreso en el 2024 en respuesta a las cuestiones prejudiciales que elevaron sobre el olvido penal tanto el Tribunal de Cuentas como la Audiencia Nacional , sobre la posibilidad de amnistiar los delitos de malvers.
-
-Date: 2026-07-16
-
 ## Fuentes
 
-- [Jésica, 'Julito', el amigo de Zapatero, y los recursos de Cerdán y Leire: otra semana con la corrupción del PSOE en los juzgados](https://www.elconfidencial.com/espana/2026-07-20/jessica-julito-amigo-de-zapatero-y-los-recursos-de-cerdan-y-leire-otra-semana-con-la-corrupcion-del-psoe-en-los-juzgados_4392471/?utm_source=lootura.com) — 2026-07-20T03:00:00.000Z
+- [La exnovia de Ábalos decide no declarar como investigada por malversación](https://www.abc.es/espana/exnovia-abalos-decide-declarar-investigada-malversacion-20260720105709-nt.html?utm_source=lootura.com) — 2026-07-20T09:57:16.000Z

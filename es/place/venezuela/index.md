@@ -70,4 +70,4 @@ Date: 2026-07-15
 
 ## Fuentes
 
-- [FOTOS | La celebración de la victoria de España en todo el mundo, en imágenes](https://www.eldiario.es/mundial-2026/fotos-celebracion-victoria-espana-mundo-imagenes_3_13392213.html?utm_source=lootura.com) — 2026-07-19T23:47:50.000Z
+No public source links.

@@ -3,10 +3,16 @@
 > Sigue la actividad de País Vasco en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-20T06:43:17.611Z
+- Actualizado: 2026-07-20T10:49:30.114Z
 - Canonical: https://atlas.lootura.com/es/place/pais-vasco
 
 ## Cambios recientes
+
+### Radicales abertzales utilizaron porras extensibles, guantes reforzados y gas pimienta contra los seguidores de 'La Roja'
+
+Convocados en las marchas por la 'Euskal Selekzioa' eligieron a sus víctimas por llevar la camiseta de España en Bilbao y Vitoria. Miembros de las juventudes de la izquierda abertzale y de GKS participaron en los incidentes en Euskadi y Navarra Leer.
+
+Date: 2026-07-20
 
 ### El Hospital Donostia realiza una operación pionera en bebés con problemas en el riñón
 
@@ -62,12 +68,6 @@ El Grand Prix del Verano 2026 ya tiene preparado su próximo duelo, el próximo 
 
 Date: 2026-07-14
 
-### Los Cosentino, la familia que hizo del mármol de Almería un gigante global
-
-Mucho del mármol que revestía las grandes villas y hoteles de la Costa del Sol en los años ochenta llevaba el sello de Cosentino . Pero la ambición de la compañía nunca se limitó a Andalucía. Su expansión comercial la llevó pronto a conquistar los mercados de Levante, Madrid y el País Vasco, impulsada en gran medida po.
-
-Date: 2026-07-12
-
 ## Fuentes
 
-- [Incidentes en Bilbao, Vitoria y Eibar contra seguidores de la selección española durante la final del Mundial](https://www.eldiario.es/euskadi/incidentes-bilbao-vitoria-eibar-seguidores-seleccion-espanola-durante-final-mundial_1_13392310.html?utm_source=lootura.com) — 2026-07-20T05:51:07.000Z
+- [Radicales abertzales utilizaron porras extensibles, guantes reforzados y gas pimienta contra los seguidores de 'La Roja'](https://www.elmundo.es/pais-vasco/2026/07/20/6a5de628e85eced23e8b4572.html?utm_source=lootura.com) — 2026-07-20T10:36:14.000Z

@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/europe/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/europe/index.json",
   "description": "Follow Europe, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-20T06:43:38.114Z",
+  "updatedAt": "2026-07-20T10:49:47.387Z",
   "aliases": [
     "EU",
     "European Union"
   ],
   "changes": [
+    {
+      "title": "Greece braces for year's first heat wave",
+      "summary": "Greece, which was spared the record heat that ravaged most of Europe in June, is finally bracing for its first heat wave of the year.",
+      "date": "2026-07-20"
+    },
     {
       "title": "EU's AI 'guardrails' cannot absorb rapid changes in technology, study warns",
       "summary": "\"Guardrails\" built by the EU to govern AI fall short in both ambition and execution and have become too heavy to absorb rapid changes in technology, a new study in Big Data & Society warns.",
@@ -58,20 +63,15 @@
       "title": "Social media limits are coming for teens across Europe",
       "summary": "The European Union is weighing sweeping new restrictions on children's and teenagers' access to social media, including age limits, an outright ban, and phased access. Social media platforms could also be forced to prove their services are not harmful before young people are allowed to use them. European Commission Pre.",
       "date": "2026-07-13"
-    },
-    {
-      "title": "Lindsey Graham remembered for a vision of American foreign policy that's fading in Washington",
-      "summary": "Graham was a rare bridge between President Donald Trump's \"America First\" foreign policy and the traditional Washington consensus prioritizing alliances with Europe and Israel, one falling out of favor with many in both political parties.",
-      "date": "2026-07-12"
     }
   ],
   "sources": [
     {
-      "title": "World Cup integrity questioned by European rights body urging FIFA to help protect 2030 tournament",
-      "url": "https://www.pbs.org/newshour/world/world-cup-integrity-questioned-by-european-rights-body-urging-fifa-to-help-protect-2030-tournament?utm_source=lootura.com",
-      "publishedAt": "2026-07-19T17:31:59.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
+      "title": "Greece braces for year's first heat wave",
+      "url": "https://phys.org/news/2026-07-greece-braces-year.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-20T09:30:01.000Z",
+      "sourceId": "lootura-us-phys-org"
     }
   ],
-  "evidenceCount": 0
+  "evidenceCount": 1
 }

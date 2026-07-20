@@ -3,10 +3,28 @@
 > Sigue la actividad de Iran en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-19T16:56:12.315Z
+- Actualizado: 2026-07-20T10:49:30.114Z
 - Canonical: https://atlas.lootura.com/es/place/iran
 
 ## Cambios recientes
+
+### El precio del petróleo modera su escalada tras anunciar Irán contactos con los mediadores
+
+La persistencia de la incertidumbre en Oriente Próximo ha llevado al precio del petróleo a superar por primera vez en más de un mes los 91 dólares por barril. Una escalada que se ha visto frenada tras el anuncio por parte del régimen iraní de contactos diplomáticos con los mediadores con Estados Unidos. El barril de br.
+
+Date: 2026-07-20
+
+### El Ibex 35 sube 0,28% a mediodía y recupera los 19.200 puntos, con el petróleo 87 dólares
+
+El Ibex 35 cotizaba en la media sesión con una subida del 0,28% , hasta situarse en los 19.271,60 puntos , tras suavizarse el precio del crudo hasta los 87 dólares desde los 92 dólares marcados en la apertura de este lunes, en un contexto marcado por los ataques cruzados entre Irán y Estados Unidos en Oriente Próximo .
+
+Date: 2026-07-20
+
+### El petróleo pierde un 4% desde máximos por la expectativa de un acuerdo entre Irán y EEUU
+
+El precio del barril de crudo de calidad Brent , que había llegado este lunes, 20 de julio, a superar el umbral de los 91 dólares , se ha dado la vuelta y cedía alrededor de un 4% desde los máximos del día. Todo esto ha pasado después de que Irán haya asegurado que los contactos diplomáticos con Estados Unidos continúa.
+
+Date: 2026-07-20
 
 ### EEUU ataca Irán una noche más tras la muerte de dos de sus militares en una base en Jordania
 
@@ -50,24 +68,8 @@ Cinco meses de cambios de rumbo y fanfarronadas en su guerra contra Irán empeor
 
 Date: 2026-07-18
 
-### Mueren dos soldados de EE.UU. y uno permanece desaparecido tras un ataque iraní sobre Jordania
-
-Dos uniformados estadounidenses han muerto y un tercero permanece desaparecido después de ataques con misiles balísticos y drones lanzados por Irán contra una base en Jordania. Son las primeras bajas estadounidenses provocadas directamente por fuego iraní desde que Estados Unidos retomara los ataques este mes y elevan.
-
-Date: 2026-07-18
-
-### El Golfo Pérsico arde de nuevo e Irán anuncia que "suspende todos sus compromisos": "De hecho, no los estamos ya cumpliendo"
-
-El ejército estadounidense firmó en la noche del viernes la séptima oleada consecutiva de bombardeos contra el régimen iraní. Éste respondió con ataques a a Qatar, Kuwait, Bahréin y Jordania Leer.
-
-Date: 2026-07-18
-
-### Teherán denuncia al menos tres muertos y ocho heridos en nuevos ataques de EEUU
-
-Al menos tres personas han muerto y otras ocho han resultado heridas como consecuencia de los ataques lanzados por Estados Unidos contra la provincia iraní de Hormozgan, en el sur del país , según han informado los medios estatales de Irán , en el marco la séptima noche consecutiva de ataques que no hace sino alimentar.
-
-Date: 2026-07-18
-
 ## Fuentes
 
-No public source links.
+- [El precio del petróleo modera su escalada tras anunciar Irán contactos con los mediadores](https://cincodias.elpais.com/mercados-financieros/2026-07-20/la-bolsa-y-el-ibex-35.html?utm_source=lootura.com) — 2026-07-20T10:03:45.000Z
+- [El Ibex 35 sube 0,28% a mediodía y recupera los 19.200 puntos, con el petróleo 87 dólares](https://okdiario.com/economia/ibex-35-bolsa-20-julio-19030570?utm_source=lootura.com) — 2026-07-20T10:44:39.000Z
+- [El petróleo pierde un 4% desde máximos por la expectativa de un acuerdo entre Irán y EEUU](https://okdiario.com/economia/petroleo-pierde-4-desde-maximos-expectativa-acuerdo-iran-eeuu-19032018?utm_source=lootura.com) — 2026-07-20T10:35:40.000Z

@@ -8,11 +8,16 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/audiencia-nacional/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/audiencia-nacional/index.json",
   "description": "Sigue la actividad de Audiencia Nacional en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-20T06:43:17.611Z",
+  "updatedAt": "2026-07-20T10:49:30.114Z",
   "aliases": [
     "La Audiencia Nacional"
   ],
   "changes": [
+    {
+      "title": "La exnovia de Ábalos decide no declarar como investigada por malversación",
+      "summary": "Jésica Rodríguez, la exnovia de José Luis Ábalos que reconoció en el juicio contra el político haber sido enchufada en dos empresas públicas y cobrar a pesar de no ir a trabajar, ha decidido acogerse a su derecho a no declarar este lunes en la Audiencia Nacional como investigada.El juez Ismael Moreno la había citado, i.",
+      "date": "2026-07-20"
+    },
     {
       "title": "Jésica, 'Julito', el amigo de Zapatero, y los recursos de Cerdán y Leire: otra semana con la corrupción del PSOE en los juzgados",
       "summary": "'Este lunes arranca la tercera semana consecutiva de declaraciones en la Audiencia Nacional en el marco de las principales causas que cercan al PSOE. Tras varios días de intensa actividad judicial , marcada principalmente por la condena al hermano del presidente y la confirmación del procesamiento de su mujer , nos enf.",
@@ -57,19 +62,14 @@
       "title": "La directora de la Guardia Civil y su jefe operativo declaran como imputados en la Audiencia Nacional por el ‘caso Leire Díez’",
       "summary": "La directora general de la Guardia Civil, Mercedes González, y el teniente general Manuel Llamas, actual director adjunto operativo (DAO) del instituto armado, ya se encuentran en el interior de la Audiencia Nacional, donde declaran este jueves como imputados en las pesquisas sobre una supuesta red organizada por la ex.",
       "date": "2026-07-16"
-    },
-    {
-      "title": "¿Cuál es el recorrido judicial de Puigdemont tras el aval de la justicia europea a la amnistía?",
-      "summary": "El Tribunal de Justicia de la Unión Europea (TJUE) ha avalado este jueves la ley de Amnistía que aprobó el Congreso en el 2024 en respuesta a las cuestiones prejudiciales que elevaron sobre el olvido penal tanto el Tribunal de Cuentas como la Audiencia Nacional , sobre la posibilidad de amnistiar los delitos de malvers.",
-      "date": "2026-07-16"
     }
   ],
   "sources": [
     {
-      "title": "Jésica, 'Julito', el amigo de Zapatero, y los recursos de Cerdán y Leire: otra semana con la corrupción del PSOE en los juzgados",
-      "url": "https://www.elconfidencial.com/espana/2026-07-20/jessica-julito-amigo-de-zapatero-y-los-recursos-de-cerdan-y-leire-otra-semana-con-la-corrupcion-del-psoe-en-los-juzgados_4392471/?utm_source=lootura.com",
-      "publishedAt": "2026-07-20T03:00:00.000Z",
-      "sourceId": "lootura-es-el-confidencial"
+      "title": "La exnovia de Ábalos decide no declarar como investigada por malversación",
+      "url": "https://www.abc.es/espana/exnovia-abalos-decide-declarar-investigada-malversacion-20260720105709-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-20T09:57:16.000Z",
+      "sourceId": "lootura-es-abc"
     }
   ],
   "evidenceCount": 1

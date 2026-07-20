@@ -8,11 +8,16 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/san-sebastian/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/san-sebastian/index.json",
   "description": "Sigue la actividad de San Sebastián en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-20T06:43:17.611Z",
+  "updatedAt": "2026-07-20T10:49:30.114Z",
   "aliases": [
     "Donostia"
   ],
   "changes": [
+    {
+      "title": "Un detenido y seis investigados por «amedrentar y coaccionar» a aficionados con la camiseta de España en San Sebastián",
+      "summary": "El Gobierno Vasco condena las agresiones y afirma que estos comportamientos son incompatibles con los valores de respeto y convivencia.",
+      "date": "2026-07-20"
+    },
     {
       "title": "La hinchada argentina también apoya desde Donostia a su selección",
       "summary": "Los aficionados han llenado desde primera hora de la tarde la avenida de la Zurriola de banderas y camisetas albicelestes.",
@@ -57,14 +62,15 @@
       "title": "«¡Más sangre azul es imposible!»",
       "summary": "Año 1926. En 'La Voz de Guipúzcoa' hicieron el cálculo. Hace un siglo coincidieron en San Sebastián nada menos que quince duques, 33 marqueses, 22 condes, un vizconde y tres barones. La aristocracia elegía nuestra ciudad para veranear.",
       "date": "2026-07-16"
-    },
-    {
-      "title": "El Muelle, Gros, Amara Berri y Añorga celebran las fiestas del Carmen en Donostia",
-      "summary": "En el puerto donostiarra realizan este jueves una ofrenda a Aita Mari y en Amara Berri homenajean a los pescateros y pescateras del barrio.",
-      "date": "2026-07-15"
     }
   ],
   "sources": [
+    {
+      "title": "Un detenido y seis investigados por «amedrentar y coaccionar» a aficionados con la camiseta de España en San Sebastián",
+      "url": "https://www.diariovasco.com/gipuzkoa/detenido-seis-investigados-amedrentar-coaccionar-aficionados-camiseta-20260720115453-nt_amp.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-20T09:54:53.000Z",
+      "sourceId": "lootura-es-el-diario-vasco"
+    },
     {
       "title": "La hinchada argentina también apoya desde Donostia a su selección",
       "url": "https://www.diariovasco.com/deportes/futbol/mundial/hinchada-argentina-calienta-final-mundial-donostia-20260719202745-nt_amp.html?utm_source=lootura.com",
@@ -72,5 +78,5 @@
       "sourceId": "lootura-es-el-diario-vasco"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 2
 }

@@ -3,7 +3,7 @@
 > Sigue la actividad de FIFA en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-20T06:43:17.611Z
+- Actualizado: 2026-07-20T10:49:30.114Z
 - Canonical: https://atlas.lootura.com/es/organization/fifa
 
 ## Cambios recientes
@@ -34,4 +34,4 @@ Date: 2026-07-08
 
 ## Fuentes
 
-- [La segunda estrella de España desde un bar pijo de Nueva York](https://www.eldiario.es/mundial-2026/segunda-estrella-espana-bar-pijo-nueva-york_129_13392205.html?utm_source=lootura.com) — 2026-07-19T23:57:28.000Z
+- [España conquista el Mundial más rentable de la historia: la FIFA bate récord de ingresos](https://cincodias.elpais.com/companias/2026-07-20/espana-conquista-el-mundial-mas-rentable-de-la-historia-la-fifa-bate-record-de-ingresos.html?utm_source=lootura.com) — 2026-07-20T08:13:04.000Z

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/topic/artificial-intelligence/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/topic/artificial-intelligence/index.json",
   "description": "Follow Artificial intelligence, a tracked topic, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-20T06:43:38.114Z",
+  "updatedAt": "2026-07-20T10:49:47.387Z",
   "aliases": [
     "AI",
     "machine learning"
@@ -22,6 +22,11 @@
     {
       "title": "A global capital for AI safety is emerging — and it’s not in Silicon Valley",
       "summary": "Nature, Published online: 16 July 2026; doi:10.1038/d41586-026-01389-9 The United Kingdom is gaining influence through its growing AI-safety ecosystem.",
+      "date": "2026-07-20"
+    },
+    {
+      "title": "AI tool reveals climate shifts may have fueled bursts of bird evolution",
+      "summary": "University of Michigan researchers have used an AI tool to demonstrate that birds in the group Passeriformes evolved in rapid evolutionary bursts and that these bursts frequently coincided with climate shifts throughout Earth's history.",
       "date": "2026-07-20"
     },
     {
@@ -58,26 +63,27 @@
       "title": "A global capital for AI safety is emerging — and it’s not in Silicon Valley",
       "summary": "Nature, Published online: 16 July 2026; doi:10.1038/d41586-026-01389-9 The United Kingdom is gaining influence through its growing AI-safety ecosystem.",
       "date": "2026-07-18"
-    },
-    {
-      "title": "Prompt Injection Attacks Are Thwarting AI Hacking Agents",
-      "summary": "“Context bombing” tricks malicious AI agents into shutting down before they can do harm.",
-      "date": "2026-07-18"
     }
   ],
   "sources": [
     {
       "title": "AI is set to completely transform cybersecurity — here’s how researchers must prepare",
       "url": "https://www.nature.com/articles/d41586-026-02214-z?utm_source=lootura.com",
-      "publishedAt": "2026-07-20T06:43:42.868Z",
+      "publishedAt": "2026-07-20T10:49:51.198Z",
       "sourceId": "lootura-us-nature"
     },
     {
       "title": "A global capital for AI safety is emerging — and it’s not in Silicon Valley",
       "url": "https://www.nature.com/articles/d41586-026-01389-9?utm_source=lootura.com",
-      "publishedAt": "2026-07-20T06:43:42.868Z",
+      "publishedAt": "2026-07-20T10:49:51.198Z",
       "sourceId": "lootura-us-nature"
+    },
+    {
+      "title": "AI tool reveals climate shifts may have fueled bursts of bird evolution",
+      "url": "https://phys.org/news/2026-07-ai-tool-reveals-climate-shifts.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-20T09:00:06.000Z",
+      "sourceId": "lootura-us-phys-org"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 3
 }

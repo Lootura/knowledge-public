@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/pais-vasco/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/pais-vasco/index.json",
   "description": "Sigue la actividad de País Vasco en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-20T06:43:17.611Z",
+  "updatedAt": "2026-07-20T10:49:30.114Z",
   "aliases": [
     "Basque Country",
     "Euskadi"
   ],
   "changes": [
+    {
+      "title": "Radicales abertzales utilizaron porras extensibles, guantes reforzados y gas pimienta contra los seguidores de 'La Roja'",
+      "summary": "Convocados en las marchas por la 'Euskal Selekzioa' eligieron a sus víctimas por llevar la camiseta de España en Bilbao y Vitoria. Miembros de las juventudes de la izquierda abertzale y de GKS participaron en los incidentes en Euskadi y Navarra Leer.",
+      "date": "2026-07-20"
+    },
     {
       "title": "El Hospital Donostia realiza una operación pionera en bebés con problemas en el riñón",
       "summary": "Opera por primera vez en Euskadi a lactantes para corregir el estrechamiento entre el uréter y el riñón con una técnica mínimamente invasiva.",
@@ -58,20 +63,15 @@
       "title": "Andaluces contra vascos: estos son los dos próximos pueblos que se enfrentarán en el Grand Prix el 20 de julio",
       "summary": "El Grand Prix del Verano 2026 ya tiene preparado su próximo duelo, el próximo lunes 20 de julio. La segunda entrega del concurso enfrentará a dos municipios separados por más de 800 kilómetros, con paisajes, dimensiones y tradiciones muy diferentes. Andalucía y el País Vasco medirán sus fuerzas en las pruebas más popul.",
       "date": "2026-07-14"
-    },
-    {
-      "title": "Los Cosentino, la familia que hizo del mármol de Almería un gigante global",
-      "summary": "Mucho del mármol que revestía las grandes villas y hoteles de la Costa del Sol en los años ochenta llevaba el sello de Cosentino . Pero la ambición de la compañía nunca se limitó a Andalucía. Su expansión comercial la llevó pronto a conquistar los mercados de Levante, Madrid y el País Vasco, impulsada en gran medida po.",
-      "date": "2026-07-12"
     }
   ],
   "sources": [
     {
-      "title": "Incidentes en Bilbao, Vitoria y Eibar contra seguidores de la selección española durante la final del Mundial",
-      "url": "https://www.eldiario.es/euskadi/incidentes-bilbao-vitoria-eibar-seguidores-seleccion-espanola-durante-final-mundial_1_13392310.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-20T05:51:07.000Z",
-      "sourceId": "lootura-es-eldiario-es"
+      "title": "Radicales abertzales utilizaron porras extensibles, guantes reforzados y gas pimienta contra los seguidores de 'La Roja'",
+      "url": "https://www.elmundo.es/pais-vasco/2026/07/20/6a5de628e85eced23e8b4572.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-20T10:36:14.000Z",
+      "sourceId": "lootura-es-el-mundo"
     }
   ],
-  "evidenceCount": 0
+  "evidenceCount": 1
 }

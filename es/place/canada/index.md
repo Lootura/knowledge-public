@@ -3,10 +3,16 @@
 > Sigue la actividad de Canada en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-20T06:43:17.611Z
+- Actualizado: 2026-07-20T10:49:30.114Z
 - Canonical: https://atlas.lootura.com/es/place/canada
 
 ## Cambios recientes
+
+### Gentrificación, sobreexplotación turística, vivienda escasa: ¿y si no todo fuera culpa de Airbnb?
+
+Señal de protesta contra Airbnb en Montreal, Canadá. BalkansCat/Shutterstock En muchos destinos, cuando el turismo empieza a incomodar, el debate público encuentra enseguida un culpable reconocible: Airbnb . La plataforma (y, en general, el alquiler turístico de corta duración) concentra buena parte del malestar porque.
+
+Date: 2026-07-20
 
 ### Discovered by Atlas
 
@@ -22,4 +28,4 @@ Date: 2026-07-18
 
 ## Fuentes
 
-- [Un increíble Mundial encumbra a Rodri: ¿es ya el mejor jugador que España ha tenido en toda su historia?](https://www.20minutos.es/deportes/futbol/un-increible-mundial-encumbra-rodri-seleccion-es-ya-mejor-jugador-espanol-historia_7015569_0.html?utm_source=lootura.com) — 2026-07-20T05:13:58.000Z
+- [Gentrificación, sobreexplotación turística, vivienda escasa: ¿y si no todo fuera culpa de Airbnb?](https://theconversation.com/gentrificacion-sobreexplotacion-turistica-vivienda-escasa-y-si-no-todo-fuera-culpa-de-airbnb-287058?utm_source=lootura.com) — 2026-07-20T06:58:39.000Z

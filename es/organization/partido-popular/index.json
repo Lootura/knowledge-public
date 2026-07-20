@@ -8,11 +8,16 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/partido-popular/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/partido-popular/index.json",
   "description": "Sigue la actividad de Partido Popular en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-20T06:43:17.611Z",
+  "updatedAt": "2026-07-20T10:49:30.114Z",
   "aliases": [
     "PP"
   ],
   "changes": [
+    {
+      "title": "Dos millones de votantes, cinco elecciones y solo dos anuncios: así ignoran los partidos al electorado latino",
+      "summary": "En junio de 2016, una mujer colombiana con doble nacionalidad apareció en un vídeo grabado con el móvil durante un acto del Partido Popular. Se llamaba Martha Inés y pedía el voto en nombre de “los latinos”. Ella no lo sabía, pero ese vídeo –visto por unos cientos de personas– sería uno de los dos únicos momentos en oc.",
+      "date": "2026-07-20"
+    },
     {
       "title": "Así funciona la campaña permanente del PP que tiene a Abascal en sus oraciones",
       "summary": "Alberto Núñez Feijóo ha decidido dejar de mirar el calendario de Pedro Sánchez. Aunque nadie sabe cuándo convocará las próximas elecciones generales y el presidente del Gobierno insiste en mantener la incógnita mientras reivindica su intención de agotar la legislatura, el líder del PP ha puesto en marcha una estrategia.",
@@ -57,11 +62,6 @@
       "title": "La doble vara de medir del PP de Ayuso ante el acoso sexual: de las críticas a Salazar al apoyo al alcalde de Móstoles",
       "summary": "El PP de Madrid sigue apostando por un apoyo cerrado a Manuel Bautista, a pesar de su imputación por acoso sexual y laboral mientras Ayuso incluso alaba su trabajo como regidor, una posición muy diferente a la que tomaron con otros escándalos que afectan al PSOE o a otros partidos de la izquierda Ayuso, tras conocer qu.",
       "date": "2026-07-18"
-    },
-    {
-      "title": "Los candidatos del PP a las alcaldías de Castilla y León apelan a la ambición y a la cercanía",
-      "summary": "A pesar de que aún quedan casi diez meses por delante, el partido Popular dio el pistoletazo de salida paras las próximas elecciones municipales del mes de mayo de 2027. Y lo hizo con un gran acto en Santiago de Compostela, presidido por Alberto Núñez Feijóo, y que contó con la presencia de los candidatos de todas las.",
-      "date": "2026-07-18"
     }
   ],
   "sources": [
@@ -70,7 +70,13 @@
       "url": "https://www.elcorreo.com/bizkaia/secretaria-general-pp-vasco-enfrenta-radicales-trataban-20260719214929-nt_amp.html?utm_source=lootura.com",
       "publishedAt": "2026-07-19T19:49:29.000Z",
       "sourceId": "lootura-es-el-correo"
+    },
+    {
+      "title": "Dos millones de votantes, cinco elecciones y solo dos anuncios: así ignoran los partidos al electorado latino",
+      "url": "https://theconversation.com/dos-millones-de-votantes-cinco-elecciones-y-solo-dos-anuncios-asi-ignoran-los-partidos-al-electorado-latino-285195?utm_source=lootura.com",
+      "publishedAt": "2026-07-20T06:56:24.000Z",
+      "sourceId": "lootura-es-the-conversation-espana"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 2
 }

@@ -70,5 +70,4 @@ Date: 2026-07-17
 
 ## Sources
 
-- [Face the Nation: Hochul, Homan, Moynihan](https://www.cbsnews.com/video/face-the-nation-hochul-homan-moynihan/?utm_source=lootura.com) — 2026-07-19T16:14:07.000Z
-- [Homan says "I think body cameras are the way to go" after ICE shootings](https://www.cbsnews.com/news/tom-homan-trump-border-czar-ice-shootings-maine-texas/?utm_source=lootura.com) — 2026-07-19T17:43:54.000Z
+No public source links.

@@ -3,10 +3,16 @@
 > Sigue la actividad de San Sebastián en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-20T06:43:17.611Z
+- Actualizado: 2026-07-20T10:49:30.114Z
 - Canonical: https://atlas.lootura.com/es/place/san-sebastian
 
 ## Cambios recientes
+
+### Un detenido y seis investigados por «amedrentar y coaccionar» a aficionados con la camiseta de España en San Sebastián
+
+El Gobierno Vasco condena las agresiones y afirma que estos comportamientos son incompatibles con los valores de respeto y convivencia.
+
+Date: 2026-07-20
 
 ### La hinchada argentina también apoya desde Donostia a su selección
 
@@ -62,12 +68,7 @@ Año 1926. En 'La Voz de Guipúzcoa' hicieron el cálculo. Hace un siglo coincid
 
 Date: 2026-07-16
 
-### El Muelle, Gros, Amara Berri y Añorga celebran las fiestas del Carmen en Donostia
-
-En el puerto donostiarra realizan este jueves una ofrenda a Aita Mari y en Amara Berri homenajean a los pescateros y pescateras del barrio.
-
-Date: 2026-07-15
-
 ## Fuentes
 
+- [Un detenido y seis investigados por «amedrentar y coaccionar» a aficionados con la camiseta de España en San Sebastián](https://www.diariovasco.com/gipuzkoa/detenido-seis-investigados-amedrentar-coaccionar-aficionados-camiseta-20260720115453-nt_amp.html?utm_source=lootura.com) — 2026-07-20T09:54:53.000Z
 - [La hinchada argentina también apoya desde Donostia a su selección](https://www.diariovasco.com/deportes/futbol/mundial/hinchada-argentina-calienta-final-mundial-donostia-20260719202745-nt_amp.html?utm_source=lootura.com) — 2026-07-19T18:27:45.000Z

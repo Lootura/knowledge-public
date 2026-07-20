@@ -8,11 +8,21 @@
   "markdownUrl": "https://atlas.lootura.com/es/company/apple/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/company/apple/index.json",
   "description": "Sigue la actividad de Apple en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-19T16:56:12.315Z",
+  "updatedAt": "2026-07-20T10:49:30.114Z",
   "aliases": [
     "Apple Inc"
   ],
   "changes": [
+    {
+      "title": "Apple no tiene miedo: acaba de subir el precio del iPhone en uno de sus mercados CLAVE",
+      "summary": "Sabíamos que era cuestión de tiempo que el precio de los iPhone despegase como un cohete. Todo apuntaba a septiembre y el lanzamiento de los nuevos iPhone 18 como el momento clave para la subida, con el coste de la memoria RAM como el principal culpable de este hito. No ha sido necesario esperar varios meses: Apple aca.",
+      "date": "2026-07-20"
+    },
+    {
+      "title": "Se filtra la alternativa de Xiaomi al iPhone Ultra y los Galaxy Z Fold 8: el Mix Fold 5 va a ser espectacular",
+      "summary": "Quedan apenas unos días para la presentación oficial de los Galaxy Z Flip 8, Z Fold 8 y Z Fold 8 Ultra , así como poco más de un mes para que Apple presente, por fin, su móvil plegable: el iPhone Ultra . Pero estos no serán los únicos móviles con pantalla flexible que veremos este año. Xiaomi también tiene listo un mod.",
+      "date": "2026-07-20"
+    },
     {
       "title": "Tu próximo Apple Watch no va a tener esta actualización por culpa de la UE: ¿es tan dramático como lo pintan?",
       "summary": "Hace unos meses te contamos que la UE estaba modificando su reglamento para exigirle a las compañías tecnológicas una nueva medida. Todas debían adaptarse y fabricar dispositivos electrónicos con una 'batería extraíble' . ¿El motivo? Que los usuarios pudiesen cambiarla de forma relativamente fácil en su casa para alarg.",
@@ -52,18 +62,21 @@
       "title": "Anya Taylor Joy (‘Lucky’): «Me frustraba ver a hombres moralmente ambiguos y no a mujeres»",
       "summary": "La actriz Anya Taylor-Joy acaba de estrenar su nuevo gran proyecto, la serie Lucky . La argentina protagoniza un thriller con mucho drama y acción que puede verse en Apple TV . En ella, además, la intérprete es también productora. Y como guinda del pastel, comparte reparto con rostros de la talla de Timothy Olyphant ,.",
       "date": "2026-07-15"
-    },
-    {
-      "title": "LEGO y Apple podrían colaborar para lanzar uno de los sets más bonitos de la historia",
-      "summary": "Si te gusta LEGO y la tecnología, a partir de hoy tienes un nuevo set favorito. La compañía de los bloques acaba de anunciar que uno de los sets publicados en su web de ideas ha pasado a la siguiente fase. Y, como bien puedes leer en el título, se trata de un set donde el protagonista es un producto de Apple . No un iP.",
-      "date": "2026-07-15"
-    },
-    {
-      "title": "Apple añade al iPhone un nuevo mensaje de alerta que debes conocer para que no te roben ni te hackeen",
-      "summary": "A pesar de que Apple está totalmente centrada en las mejoras de iOS 27 que llegarán en septiembre, sigue incluyendo novedades en iOS 26 . Hoy lo ha hecho en la última beta de iOS 26.6 que ya puedes probar en tu iPhone , y aunque no es una revolución, llega con una nueva función que no puede ser más útil. El objetivo es.",
-      "date": "2026-07-14"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Apple no tiene miedo: acaba de subir el precio del iPhone en uno de sus mercados CLAVE",
+      "url": "https://hipertextual.com/apple/apple-no-tiene-miedo-acaba-de-subir-el-precio-del-iphone-en-uno-de-sus-mercados-clave/?utm_source=lootura.com",
+      "publishedAt": "2026-07-20T07:48:03.000Z",
+      "sourceId": "lootura-es-hipertextual"
+    },
+    {
+      "title": "Se filtra la alternativa de Xiaomi al iPhone Ultra y los Galaxy Z Fold 8: el Mix Fold 5 va a ser espectacular",
+      "url": "https://hipertextual.com/mobile/se-filtra-la-alternativa-de-xiaomi-al-iphone-ultra-y-los-galaxy-z-fold-8-el-mix-fold-5-va-a-ser-espectacular/?utm_source=lootura.com",
+      "publishedAt": "2026-07-20T07:32:48.000Z",
+      "sourceId": "lootura-es-hipertextual"
+    }
+  ],
+  "evidenceCount": 2
 }

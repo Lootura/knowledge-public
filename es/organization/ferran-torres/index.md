@@ -3,7 +3,7 @@
 > Sigue la actividad de Ferran Torres en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-20T06:43:17.611Z
+- Actualizado: 2026-07-20T10:49:30.114Z
 - Canonical: https://atlas.lootura.com/es/organization/ferran-torres
 
 ## Cambios recientes
@@ -34,4 +34,5 @@ Date: 2026-07-19
 
 ## Fuentes
 
+- [Carlos Herrera ve que España gana el Mundial contra Argentina y dice lo que muchos piensan](https://www.abc.es/recreo/carlos-herrera-espana-gana-mundial-argentina-dice-20260720104749-nt.html?utm_source=lootura.com) — 2026-07-20T09:18:43.000Z
 - [Gloria para Ferran, el gol en el 106 que vale una estrella: "El destino estaba escrito. Lo han marcado 47 millones de españoles"](https://amp.elmundo.es/deportes/futbol/mundial-de-futbol/2026/07/20/6a5d5539e85ece3e398b45ac.html?utm_source=lootura.com) — 2026-07-19T22:56:33.000Z

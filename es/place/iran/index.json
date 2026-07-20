@@ -8,9 +8,24 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/iran/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/iran/index.json",
   "description": "Sigue la actividad de Iran en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-19T16:56:12.315Z",
+  "updatedAt": "2026-07-20T10:49:30.114Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "El precio del petróleo modera su escalada tras anunciar Irán contactos con los mediadores",
+      "summary": "La persistencia de la incertidumbre en Oriente Próximo ha llevado al precio del petróleo a superar por primera vez en más de un mes los 91 dólares por barril. Una escalada que se ha visto frenada tras el anuncio por parte del régimen iraní de contactos diplomáticos con los mediadores con Estados Unidos. El barril de br.",
+      "date": "2026-07-20"
+    },
+    {
+      "title": "El Ibex 35 sube 0,28% a mediodía y recupera los 19.200 puntos, con el petróleo 87 dólares",
+      "summary": "El Ibex 35 cotizaba en la media sesión con una subida del 0,28% , hasta situarse en los 19.271,60 puntos , tras suavizarse el precio del crudo hasta los 87 dólares desde los 92 dólares marcados en la apertura de este lunes, en un contexto marcado por los ataques cruzados entre Irán y Estados Unidos en Oriente Próximo .",
+      "date": "2026-07-20"
+    },
+    {
+      "title": "El petróleo pierde un 4% desde máximos por la expectativa de un acuerdo entre Irán y EEUU",
+      "summary": "El precio del barril de crudo de calidad Brent , que había llegado este lunes, 20 de julio, a superar el umbral de los 91 dólares , se ha dado la vuelta y cedía alrededor de un 4% desde los máximos del día. Todo esto ha pasado después de que Irán haya asegurado que los contactos diplomáticos con Estados Unidos continúa.",
+      "date": "2026-07-20"
+    },
     {
       "title": "EEUU ataca Irán una noche más tras la muerte de dos de sus militares en una base en Jordania",
       "summary": "Estados Unidos ha anunciado el inicio de una nueva ronda de bombardeos contra Irán por orden del presidente Donald Trump , en una operación que tiene como objetivo reducir las capacidades de Teherán para amenazar el tráfico marítimo en el estrecho de Ormuz y responder al ataque -atribuido al Cuerpo de la Guardia Revolu.",
@@ -45,23 +60,27 @@
       "title": "Por qué las idas y venidas de Trump alejan la solución a la crisis en el estrecho de Ormuz",
       "summary": "Cinco meses de cambios de rumbo y fanfarronadas en su guerra contra Irán empeoran la situación del presidente de EEUU Nuevo bandazo de Trump en su errática gestión de la guerra en Irán: recula con la tasa del 20% por patrullar Ormuz Donald Trump ha llevado la guerra con Irán a una nueva fase, aún más turbia, a medida q.",
       "date": "2026-07-18"
-    },
-    {
-      "title": "Mueren dos soldados de EE.UU. y uno permanece desaparecido tras un ataque iraní sobre Jordania",
-      "summary": "Dos uniformados estadounidenses han muerto y un tercero permanece desaparecido después de ataques con misiles balísticos y drones lanzados por Irán contra una base en Jordania. Son las primeras bajas estadounidenses provocadas directamente por fuego iraní desde que Estados Unidos retomara los ataques este mes y elevan.",
-      "date": "2026-07-18"
-    },
-    {
-      "title": "El Golfo Pérsico arde de nuevo e Irán anuncia que \"suspende todos sus compromisos\": \"De hecho, no los estamos ya cumpliendo\"",
-      "summary": "El ejército estadounidense firmó en la noche del viernes la séptima oleada consecutiva de bombardeos contra el régimen iraní. Éste respondió con ataques a a Qatar, Kuwait, Bahréin y Jordania Leer.",
-      "date": "2026-07-18"
-    },
-    {
-      "title": "Teherán denuncia al menos tres muertos y ocho heridos en nuevos ataques de EEUU",
-      "summary": "Al menos tres personas han muerto y otras ocho han resultado heridas como consecuencia de los ataques lanzados por Estados Unidos contra la provincia iraní de Hormozgan, en el sur del país , según han informado los medios estatales de Irán , en el marco la séptima noche consecutiva de ataques que no hace sino alimentar.",
-      "date": "2026-07-18"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "El precio del petróleo modera su escalada tras anunciar Irán contactos con los mediadores",
+      "url": "https://cincodias.elpais.com/mercados-financieros/2026-07-20/la-bolsa-y-el-ibex-35.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-20T10:03:45.000Z",
+      "sourceId": "lootura-es-cinco-dias"
+    },
+    {
+      "title": "El Ibex 35 sube 0,28% a mediodía y recupera los 19.200 puntos, con el petróleo 87 dólares",
+      "url": "https://okdiario.com/economia/ibex-35-bolsa-20-julio-19030570?utm_source=lootura.com",
+      "publishedAt": "2026-07-20T10:44:39.000Z",
+      "sourceId": "lootura-es-ok-diario"
+    },
+    {
+      "title": "El petróleo pierde un 4% desde máximos por la expectativa de un acuerdo entre Irán y EEUU",
+      "url": "https://okdiario.com/economia/petroleo-pierde-4-desde-maximos-expectativa-acuerdo-iran-eeuu-19032018?utm_source=lootura.com",
+      "publishedAt": "2026-07-20T10:35:40.000Z",
+      "sourceId": "lootura-es-ok-diario"
+    }
+  ],
+  "evidenceCount": 3
 }
