@@ -3,7 +3,7 @@
 > Follow Democratic Party, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-07-19T20:43:16.868Z
+- Updated: 2026-07-20T03:18:08.226Z
 - Canonical: https://atlas.lootura.com/us/organization/democratic-party
 
 ## Recent changes
@@ -12,7 +12,7 @@
 
 Nature, Published online: 16 July 2026; doi:10.1038/d41586-026-02226-9 Republicans and Democrats worry about research theft and exploitation — but don’t agree on how to solve the problem.
 
-Date: 2026-07-19
+Date: 2026-07-20
 
 ### Don’t Let This Useless Debate Distract You, Democrats
 
@@ -23,6 +23,12 @@ Date: 2026-07-19
 ### In Arizona’s Primaries, Democrats Fight Over a House Seat They Need Badly
 
 Democrats have a chance to flip a competitive battleground district in and around Scottsdale, but the winner of Tuesday’s primary will emerge bloodied and broke.
+
+Date: 2026-07-19
+
+### US politicians push agencies to restrict research collaboration with China
+
+Nature, Published online: 16 July 2026; doi:10.1038/d41586-026-02226-9 Republicans and Democrats worry about research theft and exploitation — but don’t agree on how to solve the problem.
 
 Date: 2026-07-19
 
@@ -62,14 +68,8 @@ More than halfway through the primary elections, the map of competitive Senate r
 
 Date: 2026-07-17
 
-### News Wrap: Smoke from wildfires leads to unsafe air quality in U.S.
-
-In our news wrap Friday, health concerns are growing as wildfire smoke is blanketing large parts of the U.S., Taylor Farms is recalling lettuce after it was linked to the cyclosporiasis outbreak and Democrats are demanding answers about the vetting of immigration officers following an Associated Press report that the I.
-
-Date: 2026-07-17
-
 ## Sources
 
-- [US politicians push agencies to restrict research collaboration with China](https://www.nature.com/articles/d41586-026-02226-9?utm_source=lootura.com) — 2026-07-19T20:43:20.700Z
+- [US politicians push agencies to restrict research collaboration with China](https://www.nature.com/articles/d41586-026-02226-9?utm_source=lootura.com) — 2026-07-20T03:18:12.622Z
 - [Don’t Let This Useless Debate Distract You, Democrats](https://www.nytimes.com/2026/07/19/opinion/democrats-capitalism-socialism.html?utm_source=lootura.com) — 2026-07-19T14:47:24.000Z
 - [In Arizona’s Primaries, Democrats Fight Over a House Seat They Need Badly](https://www.nytimes.com/2026/07/19/us/elections/arizona-democratic-primary-shah-galan-woods.html?utm_source=lootura.com) — 2026-07-19T17:41:41.000Z

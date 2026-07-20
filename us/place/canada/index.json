@@ -8,9 +8,14 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/canada/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/canada/index.json",
   "description": "Follow Canada, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-19T20:43:16.868Z",
+  "updatedAt": "2026-07-20T03:18:08.226Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "Nolan’s ‘The Odyssey’ Brings in $124.5 Million at the Box Office on Opening Weekend",
+      "summary": "Christopher Nolan’s nearly three-hour epic was No. 1 over the weekend, with about $124.5 million in ticket sales in the United States and Canada.",
+      "date": "2026-07-19"
+    },
     {
       "title": "Are workplaces safer? Harassment and violence persist, survey finds",
       "summary": "A follow-up national survey developed by Western researchers shows workplace harassment and violence continue to be widespread in Canada, with some signs of improvement. The second national survey on harassment and violence at work in Canada was conducted by Western's Center for Research and Education on Violence Again.",
@@ -55,19 +60,14 @@
       "title": "Climate's Compounding Financial Toll Is Becoming Harder to Ignore",
       "summary": "Smoke from massive wildfires in Canada engulfed the New York City skyline, reducing visibility and casting an orange haze over the New York City. —Selcuk Acar/Anadolu—Getty Images It’s felt all but impossible to escape the reality of our changing climate this past month, from extreme heat at London Climate Action Week.",
       "date": "2026-07-18"
-    },
-    {
-      "title": "Maps show wildfire smoke forecast, air quality alerts due to pollution from Canadian, Minnesota fires",
-      "summary": "Heavy smoke from several large wildfires blazing in Canada and Minnesota is engulfing large swaths of the Midwest and the U.S. East Coast this week.",
-      "date": "2026-07-18"
     }
   ],
   "sources": [
     {
-      "title": "Are workplaces safer? Harassment and violence persist, survey finds",
-      "url": "https://phys.org/news/2026-07-workplaces-safer-violence-persist-survey.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-19T14:00:01.000Z",
-      "sourceId": "lootura-us-phys-org"
+      "title": "Nolan’s ‘The Odyssey’ Brings in $124.5 Million at the Box Office on Opening Weekend",
+      "url": "https://www.nytimes.com/2026/07/19/business/media/the-odyssey-box-office-christopher-nolan.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-19T16:54:07.000Z",
+      "sourceId": "lootura-us-the-new-york-times"
     }
   ],
   "evidenceCount": 1

@@ -8,13 +8,23 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/donald-trump/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/donald-trump/index.json",
   "description": "Sigue la actividad de Donald Trump en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-19T20:42:54.963Z",
+  "updatedAt": "2026-07-20T03:17:50.208Z",
   "aliases": [
     "President Donald Trump",
     "President Trump",
     "Trump"
   ],
   "changes": [
+    {
+      "title": "El podemita Borja Iglesias le apartó la mirada a Donald Trump al darle la mano y recibir la medalla",
+      "summary": "Borja Iglesias, uno de los jugadores que más se ha significado políticamente de la Selección española, siempre escorado hacia la extrema izquierda, protagonizó uno de los momentos más llamativos de la entrega de trofeos a los campeones del mundo. El delantero del Celta le apartó la mirada al presidente del país anfitri.",
+      "date": "2026-07-20"
+    },
+    {
+      "title": "Pedro Sánchez, Donald Trump y la diplomacia del palco",
+      "summary": "Simpatías forzadas entre los presidentes ante la atenta mirada de Infantino y los Reyes de España Leer.",
+      "date": "2026-07-19"
+    },
     {
       "title": "EEUU ataca Irán una noche más tras la muerte de dos de sus militares en una base en Jordania",
       "summary": "Estados Unidos ha anunciado el inicio de una nueva ronda de bombardeos contra Irán por orden del presidente Donald Trump , en una operación que tiene como objetivo reducir las capacidades de Teherán para amenazar el tráfico marítimo en el estrecho de Ormuz y responder al ataque -atribuido al Cuerpo de la Guardia Revolu.",
@@ -54,25 +64,27 @@
       "title": "China exige a Trump que aparque el «invento» de la presunta injerencia electoral en 2020",
       "summary": "China ha rechazado por completo las acusaciones formuladas por el presidente de Estados Unidos , Donald Trump , quien, esta pasada noche y en un discurso ante la nación, denunció que las autoridades de Pekín se habían inmiscuido en el desarrollo de las elecciones de 2020 . Trump y el Gobierno de Estados Unidos acusaron.",
       "date": "2026-07-17"
-    },
-    {
-      "title": "Trump amenaza a Canadá con más aranceles tras acusarles de \"negligencia\" por los incendios",
-      "summary": "El presidente de Estados Unidos, Donald Trump, amenazó este viernes con aumentar los aranceles a Canadá tras acusar a las autoridades de su vecino del norte de negligencia por los incendios que asolan el país y han deteriorado la calidad del aire en ciudades estadounidenses. \"Se trata de una negligencia deliberada que.",
-      "date": "2026-07-17"
-    },
-    {
-      "title": "Trump resucita en un discurso a la nación el bulo del fraude electoral de 2020 y exagera la influencia de China en su derrota",
-      "summary": "Donald Trump, líder de un país en guerra y con el coste de la vida en alza, se dirigió este jueves por la noche a la nación para hablar de las elecciones... de hace seis años. No fue solo un intento de ajuste de cuentas con un fracaso personal; el presidente de Estados Unidos, cuya impopularidad bate récords, habló con.",
-      "date": "2026-07-17"
     }
   ],
   "sources": [
     {
-      "title": "La foto más esperada: el apretón de manos entre Sánchez y Trump en la final",
-      "url": "https://www.20minutos.es/deportes/futbol/foto-mas-esperada-apreton-manos-entre-pedro-sanchez-donald-trump-final-mundial_7016491_0.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-19T19:40:51.000Z",
-      "sourceId": "lootura-es-20minutos"
+      "title": "Trump la lía: abucheos y 'photobomb' con la copa",
+      "url": "https://www.abc.es/deportes/futbol/mundial/trump-palco-20260719011524-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-20T01:52:17.000Z",
+      "sourceId": "lootura-es-abc"
+    },
+    {
+      "title": "Pedro Sánchez, Donald Trump y la diplomacia del palco",
+      "url": "https://www.elmundo.es/deportes/futbol/mundial-de-futbol/2026/07/20/6a5d4ed1e4d4d88d6c8b457a.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-19T22:42:31.000Z",
+      "sourceId": "lootura-es-el-mundo"
+    },
+    {
+      "title": "El podemita Borja Iglesias le apartó la mirada a Donald Trump al darle la mano y recibir la medalla",
+      "url": "https://okdiario.com/mundial/podemita-borja-iglesias-aparto-mirada-donald-trump-darle-mano-recibir-medalla-19029900?utm_source=lootura.com",
+      "publishedAt": "2026-07-20T01:03:52.000Z",
+      "sourceId": "lootura-es-ok-diario"
     }
   ],
-  "evidenceCount": 0
+  "evidenceCount": 2
 }

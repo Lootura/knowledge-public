@@ -3,10 +3,16 @@
 > Sigue la actividad de Alberto Núñez Feijóo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-19T16:56:12.315Z
+- Actualizado: 2026-07-20T03:17:50.208Z
 - Canonical: https://atlas.lootura.com/es/person/alberto-nunez-feijoo
 
 ## Cambios recientes
+
+### Así funciona la campaña permanente del PP que tiene a Abascal en sus oraciones
+
+Alberto Núñez Feijóo ha decidido dejar de mirar el calendario de Pedro Sánchez. Aunque nadie sabe cuándo convocará las próximas elecciones generales y el presidente del Gobierno insiste en mantener la incógnita mientras reivindica su intención de agotar la legislatura, el líder del PP ha puesto en marcha una estrategia.
+
+Date: 2026-07-20
 
 ### La CEOE pide detectar a «los profesionales» del absentismo y alaba a Feijóo
 
@@ -62,12 +68,6 @@ El alcalde de Madrid y aspirante a la reelección en las próximas elecciones mu
 
 Date: 2026-07-18
 
-### Feijóo pone a punto al PP y activa a sus candidatos para afrontar el ciclo electoral ante un posible adelanto
-
-En la batalla por llegar a la Moncloa cada voto cuenta y el presidente del Partido Popular, Alberto Núñez Feijóo , es consciente de ello. Por eso, está poniendo a punto el partido y activando a todos sus candidatos a ayuntamientos y autonomías de cara a una campaña permanente que se intensificará especialmente tras el.
-
-Date: 2026-07-18
-
 ## Fuentes
 
-No public source links.
+- [Así funciona la campaña permanente del PP que tiene a Abascal en sus oraciones](https://www.larazon.es/espana/asi-funciona-campana-permanente-que-tiene-abascal-sus-oraciones_202607206a5d771c0500ab412c9fa9c9.html?utm_source=lootura.com) — 2026-07-20T01:17:16.000Z

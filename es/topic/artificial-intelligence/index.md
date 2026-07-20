@@ -40,4 +40,4 @@ Date: 2026-07-10
 
 ## Fuentes
 
-- [La gran ofensiva normativa sobre la IA se torna en un laberinto para las empresas](https://www.abc.es/economia/gran-ofensiva-normativa-sobre-ia-torna-laberinto-20260720220738-nt.html?utm_source=lootura.com) — 2026-07-19T20:07:38.000Z
+No public source links.

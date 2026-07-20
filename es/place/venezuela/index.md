@@ -3,7 +3,7 @@
 > Sigue la actividad de Venezuela en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-19T13:12:39.474Z
+- Actualizado: 2026-07-20T03:17:50.208Z
 - Canonical: https://atlas.lootura.com/es/place/venezuela
 
 ## Cambios recientes
@@ -70,4 +70,4 @@ Date: 2026-07-15
 
 ## Fuentes
 
-No public source links.
+- [FOTOS | La celebración de la victoria de España en todo el mundo, en imágenes](https://www.eldiario.es/mundial-2026/fotos-celebracion-victoria-espana-mundo-imagenes_3_13392213.html?utm_source=lootura.com) — 2026-07-19T23:47:50.000Z

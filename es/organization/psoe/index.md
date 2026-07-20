@@ -3,10 +3,16 @@
 > Sigue la actividad de Partido Socialista Obrero Español en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-19T20:42:54.963Z
+- Actualizado: 2026-07-20T03:17:50.208Z
 - Canonical: https://atlas.lootura.com/es/organization/psoe
 
 ## Cambios recientes
+
+### Jésica, 'Julito', el amigo de Zapatero, y los recursos de Cerdán y Leire: otra semana con la corrupción del PSOE en los juzgados
+
+'Este lunes arranca la tercera semana consecutiva de declaraciones en la Audiencia Nacional en el marco de las principales causas que cercan al PSOE. Tras varios días de intensa actividad judicial , marcada principalmente por la condena al hermano del presidente y la confirmación del procesamiento de su mujer , nos enf.
+
+Date: 2026-07-20
 
 ### Las bases del PSOE eligen continuismo: Reyes Maroto se impone a Enma López como candidata a la alcaldía de Madrid
 
@@ -62,13 +68,6 @@ La militancia del PSOE en Madrid , Oviedo, Ferrol y Torrelavega está llamada a 
 
 Date: 2026-07-18
 
-### La UCO constata que Cerdán casi no retiró dinero desde 2019: lo achaca a una fuente de efectivo "no originada en cuentas bancarias"
-
-La UCO ha aportado finalmente el informe sobre el patrimonio de Santos Cerdán que viene elaborando desde hace un año y ha concluido que el ex número tres del PSOE apenas retiró efectivo en efectivo desde 2019, posiblemente porque contaba con "una fuente de dinero no originada en cuentas bancarias" . El atestado, al que.
-
-Date: 2026-07-18
-
 ## Fuentes
 
-- [Las bases del PSOE eligen continuismo: Reyes Maroto se impone a Enma López como candidata a la alcaldía de Madrid](https://www.elindependiente.com/espana/2026/07/19/reyes-maroto-gana-primarias-enma-lopez-aparatos-psoe-madrid/?utm_source=lootura.com) — 2026-07-19T18:12:18.000Z
-- [Maroto se impone en las primarias del PSOE de Madrid a Enma López y se enfrentará a Almeida](https://theobjective.com/espana/2026-07-19/maroto-primarias-psoe-enma-lopez-almeida/?utm_source=lootura.com) — 2026-07-19T18:22:55.000Z
+- [Jésica, 'Julito', el amigo de Zapatero, y los recursos de Cerdán y Leire: otra semana con la corrupción del PSOE en los juzgados](https://www.elconfidencial.com/espana/2026-07-20/jessica-julito-amigo-de-zapatero-y-los-recursos-de-cerdan-y-leire-otra-semana-con-la-corrupcion-del-psoe-en-los-juzgados_4392471/?utm_source=lootura.com) — 2026-07-20T03:00:00.000Z

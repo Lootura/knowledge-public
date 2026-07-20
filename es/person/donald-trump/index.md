@@ -3,10 +3,22 @@
 > Sigue la actividad de Donald Trump en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-19T20:42:54.963Z
+- Actualizado: 2026-07-20T03:17:50.208Z
 - Canonical: https://atlas.lootura.com/es/person/donald-trump
 
 ## Cambios recientes
+
+### El podemita Borja Iglesias le apartó la mirada a Donald Trump al darle la mano y recibir la medalla
+
+Borja Iglesias, uno de los jugadores que más se ha significado políticamente de la Selección española, siempre escorado hacia la extrema izquierda, protagonizó uno de los momentos más llamativos de la entrega de trofeos a los campeones del mundo. El delantero del Celta le apartó la mirada al presidente del país anfitri.
+
+Date: 2026-07-20
+
+### Pedro Sánchez, Donald Trump y la diplomacia del palco
+
+Simpatías forzadas entre los presidentes ante la atenta mirada de Infantino y los Reyes de España Leer.
+
+Date: 2026-07-19
 
 ### EEUU ataca Irán una noche más tras la muerte de dos de sus militares en una base en Jordania
 
@@ -56,18 +68,8 @@ China ha rechazado por completo las acusaciones formuladas por el presidente de 
 
 Date: 2026-07-17
 
-### Trump amenaza a Canadá con más aranceles tras acusarles de "negligencia" por los incendios
-
-El presidente de Estados Unidos, Donald Trump, amenazó este viernes con aumentar los aranceles a Canadá tras acusar a las autoridades de su vecino del norte de negligencia por los incendios que asolan el país y han deteriorado la calidad del aire en ciudades estadounidenses. "Se trata de una negligencia deliberada que.
-
-Date: 2026-07-17
-
-### Trump resucita en un discurso a la nación el bulo del fraude electoral de 2020 y exagera la influencia de China en su derrota
-
-Donald Trump, líder de un país en guerra y con el coste de la vida en alza, se dirigió este jueves por la noche a la nación para hablar de las elecciones... de hace seis años. No fue solo un intento de ajuste de cuentas con un fracaso personal; el presidente de Estados Unidos, cuya impopularidad bate récords, habló con.
-
-Date: 2026-07-17
-
 ## Fuentes
 
-- [La foto más esperada: el apretón de manos entre Sánchez y Trump en la final](https://www.20minutos.es/deportes/futbol/foto-mas-esperada-apreton-manos-entre-pedro-sanchez-donald-trump-final-mundial_7016491_0.html?utm_source=lootura.com) — 2026-07-19T19:40:51.000Z
+- [Trump la lía: abucheos y 'photobomb' con la copa](https://www.abc.es/deportes/futbol/mundial/trump-palco-20260719011524-nt.html?utm_source=lootura.com) — 2026-07-20T01:52:17.000Z
+- [Pedro Sánchez, Donald Trump y la diplomacia del palco](https://www.elmundo.es/deportes/futbol/mundial-de-futbol/2026/07/20/6a5d4ed1e4d4d88d6c8b457a.html?utm_source=lootura.com) — 2026-07-19T22:42:31.000Z
+- [El podemita Borja Iglesias le apartó la mirada a Donald Trump al darle la mano y recibir la medalla](https://okdiario.com/mundial/podemita-borja-iglesias-aparto-mirada-donald-trump-darle-mano-recibir-medalla-19029900?utm_source=lootura.com) — 2026-07-20T01:03:52.000Z

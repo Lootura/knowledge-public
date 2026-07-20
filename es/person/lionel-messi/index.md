@@ -3,10 +3,28 @@
 > Sigue la actividad de Lionel Messi en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-19T20:42:54.963Z
+- Actualizado: 2026-07-20T03:17:50.208Z
 - Canonical: https://atlas.lootura.com/es/person/lionel-messi
 
 ## Cambios recientes
+
+### Messi dice adiós entre lágrimas en una Argentina impotente y furiosa: "Tenemos que ser grandes en la derrota"
+
+El argentino, neutralizado por España, se vino abajo ante su grada al recibir la medalla de plata. La albiceleste no tiró a puerta y sólo creó peligro en el minuto 119. Leer.
+
+Date: 2026-07-19
+
+### Lamine emula a Pelé y niega a Messi
+
+En el estado de Nueva Jersey convergieron el pasado y el presente del fútbol con su futuro más inmediato. Es decir, Lionel Messi y Lamine Yamal. Lo hicieron nada menos que en la final de la Copa del Mundo. La primera entre dos países con una historia tan entrelazada como futbolera. Seguir leyendo.
+
+Date: 2026-07-19
+
+### Campeones del Mundo: España borda su segunda estrella junto a Mapfre, Telefónica y Ebro
+
+Estimados lectores, somos Campeones del Mundo. La Roja ha derrotado a la Argentina de Leo Messi, ha conquistado su segunda estrella y ha vuelto a situar al fútbol español en el punto más alto del planeta. Es casi imposible que la oración anterior suponga para usted noticia alguna, pues imaginamos que ayer gritó, celebr.
+
+Date: 2026-07-19
 
 ### Mbappé pone el listón imposible a Messi por la Bota de Oro: deberá marcar un hat-trick contra España
 
@@ -50,25 +68,9 @@ Las redes sociales se han inundado con la recordada imagen de Leo Messi junto a 
 
 Date: 2026-07-16
 
-### Discovered by Atlas
-
-Lionel Messi first entered the public knowledge record with source-backed evidence.
-
-Date: 2026-07-15
-
-### Messi emula a Maradona ante Inglaterra y va a por Pelé
-
-Lionel Messi le dio más al fútbol que lo que el fútbol le dio a Messi pero el 10 argentino se encontró de repente ante una nueva misión, una casi más patriótica que deportiva: emular, 40 años después, el festejo de Diego Maradona ante Inglaterra, sus goles con las manos y los pies por los cuartos de final de México 198.
-
-Date: 2026-07-15
-
-### El momento de la verdad para Kane y Bellingham, el momento para la eternidad de Messi
-
-«No nos queremos enfocar en toda la historia de alrededor». Lo decía Harry Kane, el capitán de Inglaterra, en la previa del duelo en semifinales contra Argentina. Será imposible bajar el ruido de una rivalidad dura , los cánticos sobre Malvinas, el recuerdo de 'la mano de Dios'... Pero al final lo decisivo será lo que.
-
-Date: 2026-07-15
-
 ## Fuentes
 
-- [España tiene dos claras y se repone al juego sucio de Argentina](https://www.20minutos.es/deportes/futbol/espana-argentina-final-mundial-2026-directo-ultima-hora-partido-alineaciones-goles-resultados_7016308_6.html?utm_source=lootura.com) — 2026-07-19T18:28:59.000Z
-- [Inglaterra se lleva la medalla de bronce tras un festival de goles](https://www.elcorreo.com/deportes/futbol/mundial/inglaterra-lleva-medalla-bronce-tras-festival-goles-20260718011119-ntrc_amp.html?utm_source=lootura.com) — 2026-07-18T23:11:19.000Z
+- [Las lágrimas sin consuelo de Messi tras perder la final del Mundial en su posible despedida del fútbol internacional](https://www.20minutos.es/deportes/lagrimas-sin-consuelo-messi-tras-perder-final-mundial-posible-despedida-futbol-internacional_7016522_0.html?utm_source=lootura.com) — 2026-07-19T22:59:08.000Z
+- [Messi dice adiós entre lágrimas en una Argentina impotente y furiosa: "Tenemos que ser grandes en la derrota"](https://www.elmundo.es/deportes/futbol/mundial-de-futbol/2026/07/20/6a5d169bfc6c83a9138b4582.html?utm_source=lootura.com) — 2026-07-19T22:41:51.000Z
+- [Lamine emula a Pelé y niega a Messi](https://elpais.com/deportes/mundial-futbol/2026-07-19/lamine-emula-a-pele-y-niega-a-messi.html?utm_source=lootura.com) — 2026-07-19T23:08:16.000Z
+- [Campeones del Mundo: España borda su segunda estrella junto a Mapfre, Telefónica y Ebro](https://www.expansion.com/directivos/deporte-negocio/2026/07/20/6a5cd377468aeb60778b458d.html?utm_source=lootura.com) — 2026-07-19T22:04:48.000Z

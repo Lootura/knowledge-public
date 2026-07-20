@@ -3,10 +3,16 @@
 > Sigue la actividad de Lamine Yamal en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-19T20:42:54.963Z
+- Actualizado: 2026-07-20T03:17:50.208Z
 - Canonical: https://atlas.lootura.com/es/person/lamine-yamal
 
 ## Cambios recientes
+
+### Lamine emula a Pelé y niega a Messi
+
+En el estado de Nueva Jersey convergieron el pasado y el presente del fútbol con su futuro más inmediato. Es decir, Lionel Messi y Lamine Yamal. Lo hicieron nada menos que en la final de la Copa del Mundo. La primera entre dos países con una historia tan entrelazada como futbolera. Seguir leyendo.
+
+Date: 2026-07-19
 
 ### Lamine Yamal desafía a las grandes leyendas
 
@@ -62,12 +68,6 @@ Lamine Yamal first entered the public knowledge record with source-backed eviden
 
 Date: 2026-07-10
 
-### Lamine Yamal: “Si a alguien debe temer Francia es a nosotros”
-
-Entre la pizarra de Luis de la Fuente y el olfato goleador de Mikel Merino , aparece la gambeta de Lamine Yamal. De nuevo elegido el mejor jugador del duelo ante Bélgica ayer. El canterano del Barcelona no necesitó ni marcar ni asistir para llevarse el trofeo individual. “Estoy muy contento por la victoria. Quiero marc.
-
-Date: 2026-07-10
-
 ## Fuentes
 
-- [El mensaje de Lamine Yamal justo antes de la final: "Por ti y por la calle"](https://www.20minutos.es/deportes/mensaje-lamine-yamal-justo-antes-final-por-ti-por-las-calles_7016466_0.html?utm_source=lootura.com) — 2026-07-19T18:06:26.000Z
+- [Lamine emula a Pelé y niega a Messi](https://elpais.com/deportes/mundial-futbol/2026-07-19/lamine-emula-a-pele-y-niega-a-messi.html?utm_source=lootura.com) — 2026-07-19T23:08:16.000Z

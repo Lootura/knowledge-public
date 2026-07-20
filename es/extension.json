@@ -1,68 +1,42 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-19T20:48:02.938Z",
+  "generatedAt": "2026-07-20T03:23:03.354Z",
   "radar": {
     "id": "es",
     "slug": "es",
     "locale": "es"
   },
   "state": {
-    "signature": "1.16.0|31|1784493774963",
+    "signature": "1.16.0|32|1784517470208",
     "version": "1.16.0",
-    "build": 31,
-    "latestEntityUpdatedAt": "2026-07-19T20:42:54.963Z"
+    "build": 32,
+    "latestEntityUpdatedAt": "2026-07-20T03:17:50.208Z"
   },
   "atlas": {
     "hero": {
-      "id": "es-espana",
-      "name": "España",
-      "type": "place",
-      "title": "Incendios en España, en directo hoy: última hora de los fuegos activos, evolución y situación en Aragón, Castilla-La Mancha, Madrid y Andalucía",
-      "url": "https://atlas.lootura.com/es/place/espana",
-      "path": "/es/place/espana",
-      "updatedAt": "2026-07-19T20:42:54.963Z",
-      "score": 1611,
-      "sourceCount": 382,
+      "id": "es-donald-trump",
+      "name": "Donald Trump",
+      "type": "person",
+      "title": "El podemita Borja Iglesias le apartó la mirada a Donald Trump al darle la mano y recibir la medalla",
+      "url": "https://atlas.lootura.com/es/person/donald-trump",
+      "path": "/es/person/donald-trump",
+      "updatedAt": "2026-07-20T03:17:50.208Z",
+      "score": 1641,
+      "sourceCount": 119,
       "isBreaking": false,
       "isPinned": false
     },
     "cards": [
       {
-        "id": "es-pedro-sanchez",
-        "name": "Pedro Sánchez",
-        "type": "person",
-        "title": "Puigdemont no apoyará los Presupuestos de Sánchez: \"Madrid recibe una sobreinversión que multiplica la de los catalanes\"",
-        "url": "https://atlas.lootura.com/es/person/pedro-sanchez",
-        "path": "/es/person/pedro-sanchez",
-        "updatedAt": "2026-07-19T20:42:54.963Z",
-        "score": 1563,
-        "sourceCount": 176,
-        "isBreaking": false,
-        "isPinned": false
-      },
-      {
-        "id": "es-madrid",
-        "name": "Madrid",
+        "id": "es-espana",
+        "name": "España",
         "type": "place",
-        "title": "Incendios en España, en directo hoy: última hora de los fuegos activos, evolución y situación en Aragón, Castilla-La Mancha, Madrid y Andalucía",
-        "url": "https://atlas.lootura.com/es/place/madrid",
-        "path": "/es/place/madrid",
-        "updatedAt": "2026-07-19T20:42:54.963Z",
-        "score": 1552,
-        "sourceCount": 227,
-        "isBreaking": false,
-        "isPinned": false
-      },
-      {
-        "id": "es-nueva-york",
-        "name": "Nueva York",
-        "type": "organization",
-        "title": "El hincha español más veterano en Nueva York: «Si pudiera, iba al estadio»",
-        "url": "https://atlas.lootura.com/es/organization/nueva-york",
-        "path": "/es/organization/nueva-york",
-        "updatedAt": "2026-07-19T20:42:54.963Z",
-        "score": 1548,
-        "sourceCount": 6,
+        "title": "España sale del armario",
+        "url": "https://atlas.lootura.com/es/place/espana",
+        "path": "/es/place/espana",
+        "updatedAt": "2026-07-20T03:17:50.208Z",
+        "score": 1563,
+        "sourceCount": 398,
         "isBreaking": false,
         "isPinned": false
       },
@@ -70,16 +44,42 @@
         "id": "es-lionel-messi",
         "name": "Lionel Messi",
         "type": "person",
-        "title": "Mbappé pone el listón imposible a Messi por la Bota de Oro: deberá marcar un hat-trick contra España",
+        "title": "Lamine emula a Pelé y niega a Messi",
         "url": "https://atlas.lootura.com/es/person/lionel-messi",
         "path": "/es/person/lionel-messi",
-        "updatedAt": "2026-07-19T20:42:54.963Z",
-        "score": 1530,
-        "sourceCount": 10,
+        "updatedAt": "2026-07-20T03:17:50.208Z",
+        "score": 1563,
+        "sourceCount": 13,
+        "isBreaking": false,
+        "isPinned": false
+      },
+      {
+        "id": "es-madrid",
+        "name": "Madrid",
+        "type": "place",
+        "title": "Carlos Ibares: «Madrid tiene una enorme facilidad para reinventarse y, al hacerlo, muchas veces olvida su propio pasado»",
+        "url": "https://atlas.lootura.com/es/place/madrid",
+        "path": "/es/place/madrid",
+        "updatedAt": "2026-07-20T03:17:50.208Z",
+        "score": 1563,
+        "sourceCount": 229,
+        "isBreaking": false,
+        "isPinned": false
+      },
+      {
+        "id": "es-pedro-sanchez",
+        "name": "Pedro Sánchez",
+        "type": "person",
+        "title": "Pedro Sánchez, Donald Trump y la diplomacia del palco",
+        "url": "https://atlas.lootura.com/es/person/pedro-sanchez",
+        "path": "/es/person/pedro-sanchez",
+        "updatedAt": "2026-07-20T03:17:50.208Z",
+        "score": 1563,
+        "sourceCount": 178,
         "isBreaking": false,
         "isPinned": false
       }
     ],
-    "publicEntityCount": 47
+    "publicEntityCount": 46
   }
 }

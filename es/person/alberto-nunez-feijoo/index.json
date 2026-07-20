@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/alberto-nunez-feijoo/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/alberto-nunez-feijoo/index.json",
   "description": "Sigue la actividad de Alberto Núñez Feijóo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-19T16:56:12.315Z",
+  "updatedAt": "2026-07-20T03:17:50.208Z",
   "aliases": [
     "Feijóo",
     "Núñez Feijóo"
   ],
   "changes": [
+    {
+      "title": "Así funciona la campaña permanente del PP que tiene a Abascal en sus oraciones",
+      "summary": "Alberto Núñez Feijóo ha decidido dejar de mirar el calendario de Pedro Sánchez. Aunque nadie sabe cuándo convocará las próximas elecciones generales y el presidente del Gobierno insiste en mantener la incógnita mientras reivindica su intención de agotar la legislatura, el líder del PP ha puesto en marcha una estrategia.",
+      "date": "2026-07-20"
+    },
     {
       "title": "La CEOE pide detectar a «los profesionales» del absentismo y alaba a Feijóo",
       "summary": "El presidente de la CEOE , Antonio Garamendi , ha exigido «detectar a los profesionales» en no ir a trabajar y, tras denunciar que «no se hace nada» para arreglar el problema del absentismo, valora que Alberto Núñez Feijóo , «coja el guante y diga que hay un problema». En una entrevista publicada en El Correo , Garamen.",
@@ -58,13 +63,15 @@
       "title": "Almeida en la presentación de los candidatos de Feijóo a las municipales: «Tenemos el mejor equipo y el mejor seleccionador»",
       "summary": "El alcalde de Madrid y aspirante a la reelección en las próximas elecciones municipales, José Luis Martínez-Almeida , ha puesto en valor el conjunto de candidaturas del PP en las capitales de provincia para estos comicios, y el papel de su líder, Alberto Núñez Feijóo . «Tenemos el mejor equipo y el mejor seleccionador.",
       "date": "2026-07-18"
-    },
-    {
-      "title": "Feijóo pone a punto al PP y activa a sus candidatos para afrontar el ciclo electoral ante un posible adelanto",
-      "summary": "En la batalla por llegar a la Moncloa cada voto cuenta y el presidente del Partido Popular, Alberto Núñez Feijóo , es consciente de ello. Por eso, está poniendo a punto el partido y activando a todos sus candidatos a ayuntamientos y autonomías de cara a una campaña permanente que se intensificará especialmente tras el.",
-      "date": "2026-07-18"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Así funciona la campaña permanente del PP que tiene a Abascal en sus oraciones",
+      "url": "https://www.larazon.es/espana/asi-funciona-campana-permanente-que-tiene-abascal-sus-oraciones_202607206a5d771c0500ab412c9fa9c9.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-20T01:17:16.000Z",
+      "sourceId": "lootura-es-la-razon"
+    }
+  ],
+  "evidenceCount": 1
 }

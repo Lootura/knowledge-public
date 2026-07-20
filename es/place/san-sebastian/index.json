@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/san-sebastian/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/san-sebastian/index.json",
   "description": "Sigue la actividad de San Sebastián en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-19T20:42:54.963Z",
+  "updatedAt": "2026-07-20T03:17:50.208Z",
   "aliases": [
     "Donostia"
   ],
@@ -19,13 +19,13 @@
       "date": "2026-07-19"
     },
     {
-      "title": "El burgalés David Pérez Sañudo estrenará fuera de competición en el Festival de San Sebastián ‘Sacamantecas’, su tercer largometraje",
-      "summary": "La película está protagonizada por Antonio de la Torre, Patricia López Arnaiz, Josean Bengoetxea, Eneko Sagardoy y Haizea Carneros, y llegará a las salas comerciales el 6 de noviembre.",
+      "title": "La hinchada argentina también apoya desde Donostia a su selección",
+      "summary": "Los aficionados han llenado desde primera hora de la tarde la avenida de la Zurriola de banderas y camisetas albicelestes.",
       "date": "2026-07-19"
     },
     {
-      "title": "La hinchada argentina también apoya desde Donostia a su selección",
-      "summary": "Los aficionados han llenado desde primera hora de la tarde la avenida de la Zurriola de banderas y camisetas albicelestes.",
+      "title": "El burgalés David Pérez Sañudo estrenará fuera de competición en el Festival de San Sebastián ‘Sacamantecas’, su tercer largometraje",
+      "summary": "La película está protagonizada por Antonio de la Torre, Patricia López Arnaiz, Josean Bengoetxea, Eneko Sagardoy y Haizea Carneros, y llegará a las salas comerciales el 6 de noviembre.",
       "date": "2026-07-19"
     },
     {
@@ -66,18 +66,6 @@
   ],
   "sources": [
     {
-      "title": "La rebelión fracasa en Donostia pero la ciudad cae bajo un clima prebélico",
-      "url": "https://www.diariovasco.com/gipuzkoa/especial-alzamiento-militar-90-aniversario-julio-sangre-gipuzkoa-rebelion-san-sebastian-20260719102733-nt.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-18T22:09:37.000Z",
-      "sourceId": "lootura-es-el-diario-vasco"
-    },
-    {
-      "title": "El Hospital Donostia realiza una operación pionera en bebés con problemas en el riñón",
-      "url": "https://www.diariovasco.com/sociedad/salud/hospital-donostia-realiza-primera-laparoscopia-renal-lactantes-20260719172257-nt_amp.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-18T22:07:11.000Z",
-      "sourceId": "lootura-es-el-diario-vasco"
-    },
-    {
       "title": "La hinchada argentina también apoya desde Donostia a su selección",
       "url": "https://www.diariovasco.com/deportes/futbol/mundial/hinchada-argentina-calienta-final-mundial-donostia-20260719202745-nt_amp.html?utm_source=lootura.com",
       "publishedAt": "2026-07-19T18:27:45.000Z",
@@ -88,13 +76,7 @@
       "url": "https://www.elmundo.es/pais-vasco/2026/07/19/6a5cd398e85ece742a8b4584.html?utm_source=lootura.com",
       "publishedAt": "2026-07-19T14:06:47.000Z",
       "sourceId": "lootura-es-el-mundo"
-    },
-    {
-      "title": "El burgalés David Pérez Sañudo estrenará fuera de competición en el Festival de San Sebastián ‘Sacamantecas’, su tercer largometraje",
-      "url": "https://www.larazon.es/castilla-y-leon/burgales-david-perez-sanudo-estrenara-fuera-competicion-festival-san-sebastian-sacamantecas-tercer-largometraje_202607196a5cfb991db8de040997ffca.html?outputType=amp&utm_source=lootura.com",
-      "publishedAt": "2026-07-19T16:30:17.000Z",
-      "sourceId": "lootura-es-la-razon"
     }
   ],
-  "evidenceCount": 5
+  "evidenceCount": 2
 }

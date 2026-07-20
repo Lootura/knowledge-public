@@ -8,12 +8,22 @@
   "markdownUrl": "https://atlas.lootura.com/us/topic/artificial-intelligence/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/topic/artificial-intelligence/index.json",
   "description": "Follow Artificial intelligence, a tracked topic, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-19T20:43:16.868Z",
+  "updatedAt": "2026-07-20T03:18:08.226Z",
   "aliases": [
     "AI",
     "machine learning"
   ],
   "changes": [
+    {
+      "title": "Developer ecosystem expanded",
+      "summary": "Nature, Published online: 16 July 2026; doi:10.1038/d41586-026-02214-z As automated tools accelerate both the discovery and the exploitation of software vulnerabilities, organizations must redesign their defences and workflows to keep pace.",
+      "date": "2026-07-20"
+    },
+    {
+      "title": "A global capital for AI safety is emerging — and it’s not in Silicon Valley",
+      "summary": "Nature, Published online: 16 July 2026; doi:10.1038/d41586-026-01389-9 The United Kingdom is gaining influence through its growing AI-safety ecosystem.",
+      "date": "2026-07-20"
+    },
     {
       "title": "Developer ecosystem expanded",
       "summary": "Nature, Published online: 16 July 2026; doi:10.1038/d41586-026-02214-z As automated tools accelerate both the discovery and the exploitation of software vulnerabilities, organizations must redesign their defences and workflows to keep pace.",
@@ -53,43 +63,21 @@
       "title": "Prompt Injection Attacks Are Thwarting AI Hacking Agents",
       "summary": "“Context bombing” tricks malicious AI agents into shutting down before they can do harm.",
       "date": "2026-07-18"
-    },
-    {
-      "title": "Developer ecosystem expanded",
-      "summary": "Nature, Published online: 16 July 2026; doi:10.1038/d41586-026-02214-z As automated tools accelerate both the discovery and the exploitation of software vulnerabilities, organizations must redesign their defences and workflows to keep pace.",
-      "date": "2026-07-17"
-    },
-    {
-      "title": "A global capital for AI safety is emerging — and it’s not in Silicon Valley",
-      "summary": "Nature, Published online: 16 July 2026; doi:10.1038/d41586-026-01389-9 The United Kingdom is gaining influence through its growing AI-safety ecosystem.",
-      "date": "2026-07-17"
     }
   ],
   "sources": [
     {
       "title": "AI is set to completely transform cybersecurity — here’s how researchers must prepare",
       "url": "https://www.nature.com/articles/d41586-026-02214-z?utm_source=lootura.com",
-      "publishedAt": "2026-07-19T20:43:20.700Z",
+      "publishedAt": "2026-07-20T03:18:12.621Z",
       "sourceId": "lootura-us-nature"
     },
     {
       "title": "A global capital for AI safety is emerging — and it’s not in Silicon Valley",
       "url": "https://www.nature.com/articles/d41586-026-01389-9?utm_source=lootura.com",
-      "publishedAt": "2026-07-19T20:43:20.700Z",
+      "publishedAt": "2026-07-20T03:18:12.622Z",
       "sourceId": "lootura-us-nature"
-    },
-    {
-      "title": "I hate that I don’t hate this song made with Suno",
-      "url": "https://www.theverge.com/entertainment/967678/1010benja-semiramis-dream-suno-ai-music?utm_source=lootura.com",
-      "publishedAt": "2026-07-19T17:35:54.000Z",
-      "sourceId": "lootura-us-the-verge"
-    },
-    {
-      "title": "Birdfy’s solar-powered smart feeder is down to one of its best prices",
-      "url": "https://www.theverge.com/gadgets/967336/birdfy-feeder-ai-powered-smart-bird-feeder-with-camera-deal-sale?utm_source=lootura.com",
-      "publishedAt": "2026-07-19T15:00:00.000Z",
-      "sourceId": "lootura-us-the-verge"
     }
   ],
-  "evidenceCount": 4
+  "evidenceCount": 2
 }

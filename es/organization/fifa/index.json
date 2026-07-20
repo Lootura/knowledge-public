@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/fifa/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/fifa/index.json",
   "description": "Sigue la actividad de FIFA en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-19T20:42:54.963Z",
+  "updatedAt": "2026-07-20T03:17:50.208Z",
   "aliases": [],
   "changes": [
     {
@@ -34,10 +34,10 @@
   ],
   "sources": [
     {
-      "title": "De dónde es Slavko Vincic, el árbitro de la final del Mundial 2026: España tiene pleno de victorias y Argentina la derrota contra Arabia Saudí",
-      "url": "https://www.20minutos.es/deportes/futbol/donde-es-slavko-vincic-arbitro-final-mundial-2026-espana-pleno-victorias-argentina-derrota-contra-arabia-saudi_7015828_0.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-19T19:43:08.000Z",
-      "sourceId": "lootura-es-20minutos"
+      "title": "La segunda estrella de España desde un bar pijo de Nueva York",
+      "url": "https://www.eldiario.es/mundial-2026/segunda-estrella-espana-bar-pijo-nueva-york_129_13392205.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-19T23:57:28.000Z",
+      "sourceId": "lootura-es-eldiario-es"
     }
   ],
   "evidenceCount": 0

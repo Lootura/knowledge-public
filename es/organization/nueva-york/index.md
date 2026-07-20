@@ -2,11 +2,23 @@
 
 > Sigue la actividad de Nueva York en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
-- Type: organization
-- Actualizado: 2026-07-19T20:42:54.963Z
+- Type: person
+- Actualizado: 2026-07-20T03:17:50.208Z
 - Canonical: https://atlas.lootura.com/es/organization/nueva-york
 
 ## Cambios recientes
+
+### El gol de Ferran vale una carrera y cambia vidas
+
+De Iniesta a Ferran Torres. De Don Andrés al Senyor Ferran. De Fuentealbilla a Foios. De la bota derecha a la bota izquierda. Del Jabulani al Trionda. De Johannesburgo a Nueva York. De un jugador del Barça a otro futbolista blaugrana. La segunda parte de la prórroga volvió a ser roja. Aunque el genio manchego marcase v.
+
+Date: 2026-07-19
+
+### Scaloni: “Hay que ser grandes en la derrota” Lionel Scaloni Javier Milei
+
+Lionel Scaloni (48), seleccionador de Argentina desde el 2018, en su día cuestionado por Diego Armando Maradona al relevar a Jorge Sampaoli, vivió en Nueva York uno de sus días más tristes al cargo de la albiceleste. Quizás el último. Su futuro queda en el aire tras la derrota en la final. Seguir leyendo...
+
+Date: 2026-07-19
 
 ### La lluvia agua la fiesta previa a la final en la 'fan zone' de Buenos Aires
 
@@ -52,4 +64,6 @@ Date: 2026-07-17
 
 ## Fuentes
 
-- [La lluvia agua la fiesta previa a la final en la 'fan zone' de Buenos Aires](https://www.20minutos.es/deportes/lluvia-agua-fiesta-previa-fan-zone-buenos-aires_7016462_0.html?utm_source=lootura.com) — 2026-07-19T17:35:26.000Z
+- [España – Argentina, la final del Mundial 2026 en directo | España presiona a Argentina y busca adelantarse en el marcador en la segunda mitad](https://elpais.com/deportes/mundial-futbol/2026-07-19/espana-argentina-en-directo-la-final-del-mundial-en-vivo.html?utm_source=lootura.com) — 2026-07-19T20:38:56.000Z
+- [El gol de Ferran vale una carrera y cambia vidas](https://www.lavanguardia.com/deportes/20260720/11596144/gol-ferran-torres-vale-carrera-cambia-muchas-vidas.html?utm_source=lootura.com) — 2026-07-19T23:45:53.000Z
+- [Scaloni: “Hay que ser grandes en la derrota” Lionel Scaloni Javier Milei](https://www.lavanguardia.com/deportes/20260720/11596141/reacciones-argentina-derrota-final-mundial-scaloni-hay-grandes-derrota-lionel-scaloni-javier-milei.html?utm_source=lootura.com) — 2026-07-19T23:36:54.000Z

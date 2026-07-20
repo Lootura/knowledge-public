@@ -3,7 +3,7 @@
 > Follow China, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-19T20:43:16.868Z
+- Updated: 2026-07-20T03:18:08.226Z
 - Canonical: https://atlas.lootura.com/us/place/china
 
 ## Recent changes
@@ -12,11 +12,17 @@
 
 Nature, Published online: 16 July 2026; doi:10.1038/d41586-026-02226-9 Republicans and Democrats worry about research theft and exploitation — but don’t agree on how to solve the problem.
 
-Date: 2026-07-19
+Date: 2026-07-20
 
 ### Becker: "Hardly a week goes by" without Trump administration threatening election official arrests
 
 CBS News contributors David Becker and Chris Krebs joined "Face the Nation with Margaret Brennan" in the wake of President Trump's primetime speech last week accusing China of accessing election data. Meanwhile, Homeland Security Secretary Markwayne Mullin said that if election officials do not secure elections, they c.
+
+Date: 2026-07-19
+
+### US politicians push agencies to restrict research collaboration with China
+
+Nature, Published online: 16 July 2026; doi:10.1038/d41586-026-02226-9 Republicans and Democrats worry about research theft and exploitation — but don’t agree on how to solve the problem.
 
 Date: 2026-07-19
 
@@ -62,13 +68,7 @@ Nature, Published online: 16 July 2026; doi:10.1038/d41586-026-02226-9 Republica
 
 Date: 2026-07-17
 
-### Mullin pledges to go after voter fraud after Trump revives election interference claims
-
-Homeland Security Secretary Markwayne Mullin spoke about election security a day after President Trump claimed during his primetime address that China interfered in the 2020 election. CBS News' Jake Rosen joins to discuss Mullin's remarks.
-
-Date: 2026-07-17
-
 ## Sources
 
 - [Becker: "Hardly a week goes by" without Trump administration threatening election official arrests](https://www.cbsnews.com/video/becker-hardly-a-week-goes-by-without-trump-administration-threatening-election-official-arrests/?utm_source=lootura.com) — 2026-07-19T16:31:08.000Z
-- [US politicians push agencies to restrict research collaboration with China](https://www.nature.com/articles/d41586-026-02226-9?utm_source=lootura.com) — 2026-07-19T20:43:20.700Z
+- [US politicians push agencies to restrict research collaboration with China](https://www.nature.com/articles/d41586-026-02226-9?utm_source=lootura.com) — 2026-07-20T03:18:12.622Z

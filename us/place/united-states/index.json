@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/united-states/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/united-states/index.json",
   "description": "Follow United States, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-19T20:43:16.868Z",
+  "updatedAt": "2026-07-20T03:18:08.226Z",
   "aliases": [
     "America",
     "Estados Unidos",
@@ -19,6 +19,21 @@
       "title": "The Uplift: The American Dream",
       "summary": "We celebrate the United States ahead of its 250th anniversary with stories about American heroes and pastimes. The founder of e.l.f. Cosmetics shares how he made a massive life change to become a Catholic priest.",
       "date": "2026-07-27"
+    },
+    {
+      "title": "U.S. soldier killed in Iraq, Trump orders more strikes against Iran",
+      "summary": "A U.S. service member was killed in Iraq on Saturday, CENTCOM announced. Separately, unidentified remains were found in Jordan at the location where a U.S. service member went missing and two others were killed following an Iranian strike. Taurean Small reports.",
+      "date": "2026-07-20"
+    },
+    {
+      "title": "The Hello Girls, America's first women soldiers, finally getting their recognition",
+      "summary": "Hundreds of women served in the U.S. Army Signal Corps during World War I, connecting calls for the Army in France. The women were called the \"Hello Girls\" and they were among America's first women soldiers. But it took decades for them to be recognized as veterans. Noel Brennan reports.",
+      "date": "2026-07-20"
+    },
+    {
+      "title": "Trump Says New Air Force One Will Be Taken Out of Service to Be ‘Maxed Out’",
+      "summary": "The Qatari-donated plane has been under scrutiny over whether it is fitted with sufficient defensive capabilities to adequately protect a U.S. president and others traveling on it.",
+      "date": "2026-07-20"
     },
     {
       "title": "Trump Gutted Civil Rights Agency, Stifling U.S. Scrutiny of Workplace Bias",
@@ -49,24 +64,15 @@
       "title": "Sen. Mark Warner says Middle East bases are \"on and off under attack\" since Iran war began",
       "summary": "In the wake of the deaths of two U.S. service members over the weekend at a Jordanian military base, Democratic Sen. Mark Warner of Virginia told \"Face the Nation with Margaret Brennan\" that \"these bases have been on and off under attack\" since the beginning of the war of Iran, which he described as a \"war of choice.\".",
       "date": "2026-07-19"
-    },
-    {
-      "title": "Face the Nation: Hochul, Homan, Moynihan",
-      "summary": "Missed the second half of the show? New York Gov. Kathy Hochul, White House border czar Tom Homan and Bank of America CEO Brian Moynihan join the show.",
-      "date": "2026-07-19"
-    },
-    {
-      "title": "Increased Cooperation With U.S. Has Put Jordan in Iran’s Cross Hairs",
-      "summary": "Jordan’s role in U.S. operations against Iran has grown as other allies in the region have restricted Washington’s ability to use their bases and airspace.",
-      "date": "2026-07-19"
-    },
-    {
-      "title": "The Evolution of Presidential Travel: Horse Carriages to Air Force One",
-      "summary": "From horse-drawn presidential coaches to Air Force One, presidents have used various modes of transportation to project an image of America for nearly 250 years.",
-      "date": "2026-07-19"
     }
   ],
   "sources": [
+    {
+      "title": "U.S. soldier killed in Iraq, Trump orders more strikes against Iran",
+      "url": "https://www.cbsnews.com/video/us-soldier-killed-in-iraq-trump-orders-more-strikes-against-iran/?utm_source=lootura.com",
+      "publishedAt": "2026-07-20T00:50:00.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
     {
       "title": "Bank of America CEO Brian Moynihan says \"affordability is a challenge\" for customers",
       "url": "https://www.cbsnews.com/video/bank-of-america-ceo-brian-moynihan-says-affordability-is-a-challenge-for-customers/?utm_source=lootura.com",
@@ -77,6 +83,12 @@
       "title": "The Uplift: The American Dream",
       "url": "https://www.cbsnews.com/video/the-uplift-the-american-dream/?utm_source=lootura.com",
       "publishedAt": "2026-07-27T10:30:00.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
+    {
+      "title": "The Hello Girls, America's first women soldiers, finally getting their recognition",
+      "url": "https://www.cbsnews.com/video/the-hello-girls-americas-first-women-soldiers-finally-getting-their-recognition/?utm_source=lootura.com",
+      "publishedAt": "2026-07-20T01:13:11.000Z",
       "sourceId": "lootura-us-cbs-news"
     },
     {
@@ -110,23 +122,11 @@
       "sourceId": "lootura-us-npr-politics"
     },
     {
-      "title": "Increased Cooperation With U.S. Has Put Jordan in Iran’s Cross Hairs",
-      "url": "https://www.nytimes.com/2026/07/19/world/middleeast/iran-war-jordan-us.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-19T15:17:53.000Z",
-      "sourceId": "lootura-us-the-new-york-times"
-    },
-    {
-      "title": "Failed Immigration Cases Leave Chicago Prosecutor’s Office Reeling",
-      "url": "https://www.nytimes.com/2026/07/19/us/immigration-chicago-prosecutors.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-19T11:44:25.000Z",
-      "sourceId": "lootura-us-the-new-york-times"
-    },
-    {
-      "title": "Black and Latino Leaders Ask: What Do Socialist Wins Mean for New York?",
-      "url": "https://www.nytimes.com/2026/07/19/nyregion/black-latino-leaders-dsa-nyc.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-19T07:00:08.000Z",
+      "title": "Oil Prices Cross $90 a Barrel as U.S.-Iran Conflict Widens",
+      "url": "https://www.nytimes.com/2026/07/19/business/oil-prices-stocks-gas.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-19T22:22:29.000Z",
       "sourceId": "lootura-us-the-new-york-times"
     }
   ],
-  "evidenceCount": 13
+  "evidenceCount": 18
 }

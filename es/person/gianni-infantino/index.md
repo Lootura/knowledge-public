@@ -22,4 +22,4 @@ Date: 2026-07-19
 
 ## Fuentes
 
-- [¿Quién entrega la Copa del Mundial 2026 al ganador?](https://okdiario.com/mundial/quien-entrega-copa-del-mundial-2026-ganador-19020620/amp?utm_source=lootura.com) — 2026-07-19T20:40:18.000Z
+No public source links.

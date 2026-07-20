@@ -1,16 +1,26 @@
 {
   "id": "es-nueva-york",
   "name": "Nueva York",
-  "type": "organization",
+  "type": "person",
   "locale": "es",
   "canonicalPath": "/es/organization/nueva-york",
   "canonicalUrl": "https://atlas.lootura.com/es/organization/nueva-york",
   "markdownUrl": "https://atlas.lootura.com/es/organization/nueva-york/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/nueva-york/index.json",
   "description": "Sigue la actividad de Nueva York en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-19T20:42:54.963Z",
+  "updatedAt": "2026-07-20T03:17:50.208Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "El gol de Ferran vale una carrera y cambia vidas",
+      "summary": "De Iniesta a Ferran Torres. De Don Andrés al Senyor Ferran. De Fuentealbilla a Foios. De la bota derecha a la bota izquierda. Del Jabulani al Trionda. De Johannesburgo a Nueva York. De un jugador del Barça a otro futbolista blaugrana. La segunda parte de la prórroga volvió a ser roja. Aunque el genio manchego marcase v.",
+      "date": "2026-07-19"
+    },
+    {
+      "title": "Scaloni: “Hay que ser grandes en la derrota” Lionel Scaloni Javier Milei",
+      "summary": "Lionel Scaloni (48), seleccionador de Argentina desde el 2018, en su día cuestionado por Diego Armando Maradona al relevar a Jorge Sampaoli, vivió en Nueva York uno de sus días más tristes al cargo de la albiceleste. Quizás el último. Su futuro queda en el aire tras la derrota en la final. Seguir leyendo...",
+      "date": "2026-07-19"
+    },
     {
       "title": "La lluvia agua la fiesta previa a la final en la 'fan zone' de Buenos Aires",
       "summary": "Los día previos a la esperada final han sido de gran emoción para los aficionados argentinos pese a tener una final tan cercana como la de Qatar 2022. Esto se ha dejado ver no solo en las calles de Nueva York, sino también en Argentina. Sin embargo, apenas dos horas antes de arrancar el partido, los ánimos se han visto.",
@@ -49,11 +59,23 @@
   ],
   "sources": [
     {
-      "title": "La lluvia agua la fiesta previa a la final en la 'fan zone' de Buenos Aires",
-      "url": "https://www.20minutos.es/deportes/lluvia-agua-fiesta-previa-fan-zone-buenos-aires_7016462_0.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-19T17:35:26.000Z",
-      "sourceId": "lootura-es-20minutos"
+      "title": "España – Argentina, la final del Mundial 2026 en directo | España presiona a Argentina y busca adelantarse en el marcador en la segunda mitad",
+      "url": "https://elpais.com/deportes/mundial-futbol/2026-07-19/espana-argentina-en-directo-la-final-del-mundial-en-vivo.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-19T20:38:56.000Z",
+      "sourceId": "lootura-es-cinco-dias"
+    },
+    {
+      "title": "El gol de Ferran vale una carrera y cambia vidas",
+      "url": "https://www.lavanguardia.com/deportes/20260720/11596144/gol-ferran-torres-vale-carrera-cambia-muchas-vidas.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-19T23:45:53.000Z",
+      "sourceId": "lootura-es-la-vanguardia"
+    },
+    {
+      "title": "Scaloni: “Hay que ser grandes en la derrota” Lionel Scaloni Javier Milei",
+      "url": "https://www.lavanguardia.com/deportes/20260720/11596141/reacciones-argentina-derrota-final-mundial-scaloni-hay-grandes-derrota-lionel-scaloni-javier-milei.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-19T23:36:54.000Z",
+      "sourceId": "lootura-es-la-vanguardia"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 2
 }

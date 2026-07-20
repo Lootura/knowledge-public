@@ -3,16 +3,22 @@
 > Follow Graham Platner, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-07-19T20:43:16.868Z
+- Updated: 2026-07-20T03:18:08.226Z
 - Canonical: https://atlas.lootura.com/us/person/graham-platner
 
 ## Recent changes
+
+### In Maine Senate Race, Jackson Sprints Ahead of Pack, as Bellows Drops Out
+
+Troy Jackson, a progressive, solidified his clear edge in the contest to replace Graham Platner, as Shenna Bellows, Jordan Wood and Nirav Shah ended their bids.
+
+Date: 2026-07-20
 
 ### In Maine, Troy Jackson Gains Momentum in Bid to Replace Platner
 
 Troy Jackson, a progressive former State Senate president, showed signs of significant strength, as half the state’s counties picked delegates to a convention where they will choose Graham Platner’s replacement.
 
-Date: 2026-07-19
+Date: 2026-07-20
 
 ### Maine Democrat Shenna Bellows drops out of race to replace Graham Platner
 
@@ -23,6 +29,12 @@ Date: 2026-07-19
 ### In Maine, Bellows Ends Senate Bid, as Jackson Builds Momentum
 
 The Maine secretary of state ended her run in a crowded race to replace Graham Platner as the Democratic Senate nominee.
+
+Date: 2026-07-19
+
+### In Maine, Troy Jackson Gains Momentum in Bid to Replace Platner
+
+Troy Jackson, a progressive former State Senate president, showed signs of significant strength, as half the state’s counties picked delegates to a convention where they will choose Graham Platner’s replacement.
 
 Date: 2026-07-19
 
@@ -56,21 +68,9 @@ Maine Democratic Senate candidates Nirav Shah, Shenna Bellows, Jordan Wood and T
 
 Date: 2026-07-17
 
-### Here Are the Maine Democrats Running to Replace Graham Platner
-
-To win, they’ll have to convince Democrats at a July 25 convention that they’re the best candidate to take on Senator Susan Collins, a Republican.
-
-Date: 2026-07-15
-
-### Inside Maine Democrats’ Search for a New Senate Nominee After Graham Platner’s Exit
-
-Democratic candidates are hastily building bare-bones campaigns and forgoing traditional outreach like TV ads in a sprint to appeal to party delegates, rather than Maine voters.
-
-Date: 2026-07-15
-
 ## Sources
 
 - [Maine Democrat Shenna Bellows drops out of race to replace Graham Platner](https://www.politico.com/news/2026/07/19/shenna-bellows-drops-out-maine-senate-01004452?utm_source=lootura.com) — 2026-07-19T15:56:06.000Z
-- [In Maine Senate Race, Jackson Sprints Ahead of Pack, as Bellows Drops Out](https://www.nytimes.com/2026/07/19/us/politics/maine-senate-bellows-jackson-platner-democrats.html?utm_source=lootura.com) — 2026-07-19T18:31:23.000Z
+- [In Maine Senate Race, Jackson Sprints Ahead of Pack, as Bellows Drops Out](https://www.nytimes.com/2026/07/19/us/politics/maine-senate-bellows-jackson-platner-democrats.html?utm_source=lootura.com) — 2026-07-20T01:36:22.000Z
 - [In Maine, Bellows Ends Senate Bid, as Jackson Builds Momentum](https://www.nytimes.com/2026/07/19/us/politics/maine-senate-bellow-jackson-platner-democrats.html?utm_source=lootura.com) — 2026-07-19T16:13:57.000Z
-- [In Maine, Troy Jackson Gains Momentum in Bid to Replace Platner](https://www.nytimes.com/2026/07/19/us/politics/maine-democrats-senate-jackson.html?utm_source=lootura.com) — 2026-07-19T04:10:58.000Z
+- [In Maine, Troy Jackson Gains Momentum in Bid to Replace Platner](https://www.nytimes.com/2026/07/19/us/politics/maine-democrats-senate-jackson.html?utm_source=lootura.com) — 2026-07-20T01:41:43.000Z

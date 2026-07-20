@@ -3,10 +3,16 @@
 > Follow Iran, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-19T20:43:16.868Z
+- Updated: 2026-07-20T03:18:08.226Z
 - Canonical: https://atlas.lootura.com/us/place/iran
 
 ## Recent changes
+
+### U.S. soldier killed in Iraq, Trump orders more strikes against Iran
+
+A U.S. service member was killed in Iraq on Saturday, CENTCOM announced. Separately, unidentified remains were found in Jordan at the location where a U.S. service member went missing and two others were killed following an Iranian strike. Taurean Small reports.
+
+Date: 2026-07-20
 
 ### Sen. Mark Warner says Middle East bases are "on and off under attack" since Iran war began
 
@@ -23,6 +29,12 @@ Date: 2026-07-19
 ### Nigerian children pay the price for the Iran war as malnutrition and poverty surge
 
 Children relapsing into malnutrition has become an increasingly common occurrence in the state and across northern Nigeria, according to local health and aid workers, who cite knock-on effects from the Iran war.
+
+Date: 2026-07-19
+
+### Oil Prices Cross $90 a Barrel as U.S.-Iran Conflict Widens
+
+Brent crude, the global benchmark for oil, rose more than 3 percent as trading resumed on Sunday, while S&P 500 futures remained essentially unchanged.
 
 Date: 2026-07-19
 
@@ -56,22 +68,10 @@ Critical water and power infrastructure sites have been damaged as the U.S. and 
 
 Date: 2026-07-18
 
-### Why is it so hard for the U.S. to win wars?
-
-U.S. presidents have promised short, decisive wars in Afghanistan, Iraq and Iran. All have proved much more difficult than advertised and fallen far short of the political goals set at the beginning. (Image credit: Brennan Linsley).
-
-Date: 2026-07-18
-
-### Water and energy sites hit as U.S.-Iran strikes escalate
-
-Critical water and power infrastructure sites have been damaged as the U.S. and Iran continue to trade strikes, while the parched Middle East reels from temperatures of 100 degrees and beyond.
-
-Date: 2026-07-18
-
 ## Sources
 
-- [U.S. citizen who was trapped in Iran for a year is home, lawyer says](https://www.cbsnews.com/news/trapped-u-s-citizen-departs-iran/?utm_source=lootura.com) — 2026-07-19T11:25:02.000Z
+- [U.S. soldier killed in Iraq, Trump orders more strikes against Iran](https://www.cbsnews.com/video/us-soldier-killed-in-iraq-trump-orders-more-strikes-against-iran/?utm_source=lootura.com) — 2026-07-20T00:50:00.000Z
 - [Sen. Mark Warner says Middle East bases are "on and off under attack" since Iran war began](https://www.cbsnews.com/video/sen-mark-warner-says-middle-east-bases-are-on-and-off-under-attack-since-iran-war-began/?utm_source=lootura.com) — 2026-07-19T15:51:22.000Z
 - [Nigerian children pay the price for the Iran war as malnutrition and poverty surge](https://www.pbs.org/newshour/world/nigerian-children-pay-the-price-for-the-iran-war-as-malnutrition-and-poverty-surge?utm_source=lootura.com) — 2026-07-19T20:00:20.000Z
+- [Oil Prices Cross $90 a Barrel as U.S.-Iran Conflict Widens](https://www.nytimes.com/2026/07/19/business/oil-prices-stocks-gas.html?utm_source=lootura.com) — 2026-07-19T22:22:29.000Z
 - [Increased Cooperation With U.S. Has Put Jordan in Iran’s Cross Hairs](https://www.nytimes.com/2026/07/19/world/middleeast/iran-war-jordan-us.html?utm_source=lootura.com) — 2026-07-19T15:17:53.000Z
-- [Why Jordan Is Becoming a New Focus in the U.S.-Iran War](https://www.nytimes.com/2026/07/18/world/middleeast/iran-war-jordan-attacks.html?utm_source=lootura.com) — 2026-07-18T23:03:24.000Z

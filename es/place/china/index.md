@@ -70,4 +70,4 @@ Date: 2026-07-17
 
 ## Fuentes
 
-- [La cuenta atrás de Pekín](https://www.abc.es/economia/cuenta-atras-pekin-20260720220743-nt.html?utm_source=lootura.com) — 2026-07-19T20:07:43.000Z
+No public source links.

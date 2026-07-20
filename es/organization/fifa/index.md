@@ -3,7 +3,7 @@
 > Sigue la actividad de FIFA en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-19T20:42:54.963Z
+- Actualizado: 2026-07-20T03:17:50.208Z
 - Canonical: https://atlas.lootura.com/es/organization/fifa
 
 ## Cambios recientes
@@ -34,4 +34,4 @@ Date: 2026-07-08
 
 ## Fuentes
 
-- [De dónde es Slavko Vincic, el árbitro de la final del Mundial 2026: España tiene pleno de victorias y Argentina la derrota contra Arabia Saudí](https://www.20minutos.es/deportes/futbol/donde-es-slavko-vincic-arbitro-final-mundial-2026-espana-pleno-victorias-argentina-derrota-contra-arabia-saudi_7015828_0.html?utm_source=lootura.com) — 2026-07-19T19:43:08.000Z
+- [La segunda estrella de España desde un bar pijo de Nueva York](https://www.eldiario.es/mundial-2026/segunda-estrella-espana-bar-pijo-nueva-york_129_13392205.html?utm_source=lootura.com) — 2026-07-19T23:57:28.000Z

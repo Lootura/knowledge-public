@@ -3,10 +3,16 @@
 > Follow Canada, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-19T20:43:16.868Z
+- Updated: 2026-07-20T03:18:08.226Z
 - Canonical: https://atlas.lootura.com/us/place/canada
 
 ## Recent changes
+
+### Nolan’s ‘The Odyssey’ Brings in $124.5 Million at the Box Office on Opening Weekend
+
+Christopher Nolan’s nearly three-hour epic was No. 1 over the weekend, with about $124.5 million in ticket sales in the United States and Canada.
+
+Date: 2026-07-19
 
 ### Are workplaces safer? Harassment and violence persist, survey finds
 
@@ -62,12 +68,6 @@ Smoke from massive wildfires in Canada engulfed the New York City skyline, reduc
 
 Date: 2026-07-18
 
-### Maps show wildfire smoke forecast, air quality alerts due to pollution from Canadian, Minnesota fires
-
-Heavy smoke from several large wildfires blazing in Canada and Minnesota is engulfing large swaths of the Midwest and the U.S. East Coast this week.
-
-Date: 2026-07-18
-
 ## Sources
 
-- [Are workplaces safer? Harassment and violence persist, survey finds](https://phys.org/news/2026-07-workplaces-safer-violence-persist-survey.html?utm_source=lootura.com) — 2026-07-19T14:00:01.000Z
+- [Nolan’s ‘The Odyssey’ Brings in $124.5 Million at the Box Office on Opening Weekend](https://www.nytimes.com/2026/07/19/business/media/the-odyssey-box-office-christopher-nolan.html?utm_source=lootura.com) — 2026-07-19T16:54:07.000Z

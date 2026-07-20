@@ -3,10 +3,16 @@
 > Sigue la actividad de Audiencia Nacional en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-18T06:02:46.495Z
+- Actualizado: 2026-07-20T03:17:50.208Z
 - Canonical: https://atlas.lootura.com/es/organization/audiencia-nacional
 
 ## Cambios recientes
+
+### Jésica, 'Julito', el amigo de Zapatero, y los recursos de Cerdán y Leire: otra semana con la corrupción del PSOE en los juzgados
+
+'Este lunes arranca la tercera semana consecutiva de declaraciones en la Audiencia Nacional en el marco de las principales causas que cercan al PSOE. Tras varios días de intensa actividad judicial , marcada principalmente por la condena al hermano del presidente y la confirmación del procesamiento de su mujer , nos enf.
+
+Date: 2026-07-20
 
 ### La UCO cifra en más de 300.000 euros los beneficios que Cerdán y su familia obtuvieron de la trama entre 2015 y 2024
 
@@ -62,12 +68,6 @@ El Tribunal de Justicia de la Unión Europea (TJUE) ha avalado este jueves la le
 
 Date: 2026-07-16
 
-### Caso Leire Díez, en directo: Declaran la directora de la Guardia Civil y el DAO en la Audiencia Nacional
-
-La Audiencia Nacional afronta este jueves una jornada clave del ' caso Leire Díez '. El juez Santiago Pedraz interrogará como investigados a la directora general de la Guardia Civil, Mercedes González, y al director adjunto operativo (DAO), Manuel Llamas. Todo ello, dentro de la investigación sobre la presunta trama pa.
-
-Date: 2026-07-16
-
 ## Fuentes
 
-No public source links.
+- [Jésica, 'Julito', el amigo de Zapatero, y los recursos de Cerdán y Leire: otra semana con la corrupción del PSOE en los juzgados](https://www.elconfidencial.com/espana/2026-07-20/jessica-julito-amigo-de-zapatero-y-los-recursos-de-cerdan-y-leire-otra-semana-con-la-corrupcion-del-psoe-en-los-juzgados_4392471/?utm_source=lootura.com) — 2026-07-20T03:00:00.000Z

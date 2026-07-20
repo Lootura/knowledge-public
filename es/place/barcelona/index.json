@@ -8,9 +8,14 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/barcelona/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/barcelona/index.json",
   "description": "Sigue la actividad de Barcelona en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-19T20:42:54.963Z",
+  "updatedAt": "2026-07-20T03:17:50.208Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "De polígono olvidado a fenómeno del verano: la nueva discoteca al aire libre que triunfa en Barcelona",
+      "summary": "Cuando las últimas persianas de las naves industriales bajaban al final de la jornada, el polígono de Gavà se sumía en el silencio . Las calles quedaban vacías, los aparcamientos desiertos y la plaza John Lennon se convertía en un rincón olvidado donde apenas ocurría nada una vez caía la noche. Hoy cuesta reconocer ese.",
+      "date": "2026-07-20"
+    },
     {
       "title": "Esta docuserie española en Disney+ cuenta un caso que te dejará impactado y la puedes ver en una tarde",
       "summary": "Abandonados , la docuserie española de 4 capítulos que causa sensación en Disney+, narra un suceso desconcertante . Se trata del impactante misterio real de tres hermanos abandonados en una estación de tren en Barcelona en 1984. La producción, en colaboración con Luminol Media y bajo la mirada del periodista Carles Por.",
@@ -55,19 +60,14 @@
       "title": "Detenida una empleada del hogar en Barcelona por robar dinero y joyas por valor de 390.000 euros",
       "summary": "Los Mossos d'Esquadra han detenido en Barcelona a una empleada del hogar acusada de robar dinero y joyas en varias casas en las que trabajaba por valor de 390.000 euro s, y han arrestado también a otra mujer que le ayudaba a vender las alhajas sustraídas, ha informado este viernes la policía catalana. Agentes de la Uni.",
       "date": "2026-07-17"
-    },
-    {
-      "title": "Menos madera, más paisaje: la revolución de la barrica de vino",
-      "summary": "En una mesa de cuatro comensales en cualquier rincón de Madrid, Barcelona, Sevilla, Valencia o Logroño, una botella de tinto bien escogido puede desaparecer en cuestión de diez o doce minutos. No es por una sed desenfrenada ni por falta de modales; es el síntoma de un cambio de paradigma en el consumo de vino en España.",
-      "date": "2026-07-17"
     }
   ],
   "sources": [
     {
-      "title": "Esta docuserie española en Disney+ cuenta un caso que te dejará impactado y la puedes ver en una tarde",
-      "url": "https://hipertextual.com/cine-television/esta-docuserie-espanola-en-disney-cuenta-un-caso-que-te-dejara-impactado-y-la-puedes-ver-en-una-tarde/?utm_source=lootura.com",
-      "publishedAt": "2026-07-19T13:00:00.000Z",
-      "sourceId": "lootura-es-hipertextual"
+      "title": "De polígono olvidado a fenómeno del verano: la nueva discoteca al aire libre que triunfa en Barcelona",
+      "url": "https://www.elconfidencial.com/espana/cataluna/2026-07-20/nueva-discoteca-aire-libre-verano-cataluna-1qrt_4387765/?utm_source=lootura.com",
+      "publishedAt": "2026-07-20T03:00:00.000Z",
+      "sourceId": "lootura-es-el-confidencial"
     }
   ],
   "evidenceCount": 1

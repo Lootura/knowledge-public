@@ -70,4 +70,4 @@ Date: 2026-07-10
 
 ## Fuentes
 
-- [Estos son los once elegidos por De la Fuente para disputar la gran final del Mundial](https://www.lavanguardia.com/deportes/futbol/20260719/11596037/son-once-elegidos-fuente-disputar-gran-final-mundial.html?utm_source=lootura.com) — 2026-07-19T17:08:41.000Z
+No public source links.

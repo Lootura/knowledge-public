@@ -3,10 +3,16 @@
 > Sigue la actividad de Barcelona en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-19T20:42:54.963Z
+- Actualizado: 2026-07-20T03:17:50.208Z
 - Canonical: https://atlas.lootura.com/es/place/barcelona
 
 ## Cambios recientes
+
+### De polígono olvidado a fenómeno del verano: la nueva discoteca al aire libre que triunfa en Barcelona
+
+Cuando las últimas persianas de las naves industriales bajaban al final de la jornada, el polígono de Gavà se sumía en el silencio . Las calles quedaban vacías, los aparcamientos desiertos y la plaza John Lennon se convertía en un rincón olvidado donde apenas ocurría nada una vez caía la noche. Hoy cuesta reconocer ese.
+
+Date: 2026-07-20
 
 ### Esta docuserie española en Disney+ cuenta un caso que te dejará impactado y la puedes ver en una tarde
 
@@ -62,12 +68,6 @@ Los Mossos d'Esquadra han detenido en Barcelona a una empleada del hogar acusada
 
 Date: 2026-07-17
 
-### Menos madera, más paisaje: la revolución de la barrica de vino
-
-En una mesa de cuatro comensales en cualquier rincón de Madrid, Barcelona, Sevilla, Valencia o Logroño, una botella de tinto bien escogido puede desaparecer en cuestión de diez o doce minutos. No es por una sed desenfrenada ni por falta de modales; es el síntoma de un cambio de paradigma en el consumo de vino en España.
-
-Date: 2026-07-17
-
 ## Fuentes
 
-- [Esta docuserie española en Disney+ cuenta un caso que te dejará impactado y la puedes ver en una tarde](https://hipertextual.com/cine-television/esta-docuserie-espanola-en-disney-cuenta-un-caso-que-te-dejara-impactado-y-la-puedes-ver-en-una-tarde/?utm_source=lootura.com) — 2026-07-19T13:00:00.000Z
+- [De polígono olvidado a fenómeno del verano: la nueva discoteca al aire libre que triunfa en Barcelona](https://www.elconfidencial.com/espana/cataluna/2026-07-20/nueva-discoteca-aire-libre-verano-cataluna-1qrt_4387765/?utm_source=lootura.com) — 2026-07-20T03:00:00.000Z

@@ -34,5 +34,4 @@ Date: 2026-07-19
 
 ## Fuentes
 
-- [La ONU impulsa una campaña global para prohibir los videojuegos centrados en “matar” y “hacer de la guerra un juego”](https://www.elindependiente.com/tendencias/2026/07/19/la-onu-impulsa-una-campana-global-para-prohibir-los-videojuegos-centrados-en-matar-y-hacer-de-la-guerra-un-juego/?utm_source=lootura.com) — 2026-07-19T17:44:20.000Z
-- [España insiste en Planas para la FAO pese a la división europea sobre un candidato único](https://theobjective.com/espana/politica/2026-07-19/espana-insiste-planas-fao-europea-candidato-unico/?utm_source=lootura.com) — 2026-07-19T13:25:27.000Z
+No public source links.

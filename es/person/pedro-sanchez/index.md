@@ -3,10 +3,22 @@
 > Sigue la actividad de Pedro Sánchez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-19T20:42:54.963Z
+- Actualizado: 2026-07-20T03:17:50.208Z
 - Canonical: https://atlas.lootura.com/es/person/pedro-sanchez
 
 ## Cambios recientes
+
+### Así funciona la campaña permanente del PP que tiene a Abascal en sus oraciones
+
+Alberto Núñez Feijóo ha decidido dejar de mirar el calendario de Pedro Sánchez. Aunque nadie sabe cuándo convocará las próximas elecciones generales y el presidente del Gobierno insiste en mantener la incógnita mientras reivindica su intención de agotar la legislatura, el líder del PP ha puesto en marcha una estrategia.
+
+Date: 2026-07-20
+
+### Pedro Sánchez, Donald Trump y la diplomacia del palco
+
+Simpatías forzadas entre los presidentes ante la atenta mirada de Infantino y los Reyes de España Leer.
+
+Date: 2026-07-19
 
 ### Puigdemont no apoyará los Presupuestos de Sánchez: "Madrid recibe una sobreinversión que multiplica la de los catalanes"
 
@@ -56,19 +68,8 @@ A Pedro Sánchez le quedan pocas líneas rojas que transgredir en política. Pre
 
 Date: 2026-07-19
 
-### Ruido y furia entre políticos y jueces: cómo reparar la (maltrecha) justicia
-
-Vivimos días agitados en torno al funcionamiento del sistema judicial español. El Gobierno socialista denuncia una confabulación de un sector de la judicatura para derribar a Pedro Sánchez mientras la derecha sostiene que los jueces son los héroes que están poniendo freno a los desmanes del presidente. ¿Qué se puede ha.
-
-Date: 2026-07-18
-
-### La guerra entró por la ventana y se quedó 40 años: recuerdos del niño al que perseguían las bombas
-
-“Yo tenía 10 años”, relata Nicolás Sánchez-Albornoz , “y estaba enfermo, en la cama. Vivíamos en la calle Ferraz, justo en la esquina de la plaza de España, y una parte daba al Cuartel de la Montaña. Cuando lo asaltaron, las barridas de las ametralladoras llegaron a las habitaciones de mis hermanas, que, afortunadament.
-
-Date: 2026-07-18
-
 ## Fuentes
 
-- [La foto más esperada: el apretón de manos entre Sánchez y Trump en la final](https://www.20minutos.es/deportes/futbol/foto-mas-esperada-apreton-manos-entre-pedro-sanchez-donald-trump-final-mundial_7016491_0.html?utm_source=lootura.com) — 2026-07-19T19:40:51.000Z
-- [Puigdemont no apoyará los Presupuestos de Sánchez: "Madrid recibe una sobreinversión que multiplica la de los catalanes"](https://www.elindependiente.com/espana/2026/07/19/puigdemont-no-apoyara-los-presupuestos-de-sanchez-madrid-recibe-una-sobreinversion-que-multiplica-la-de-los-catalanes/?utm_source=lootura.com) — 2026-07-19T17:33:43.000Z
+- [El palco de las pocas palabras: Trump y Sánchez aparcan temporalmente las diferencias durante la final del Mundial](https://elpais.com/deportes/mundial-futbol/2026-07-19/el-palco-de-las-pocas-palabras-trump-y-sanchez-aparcan-temporalmente-las-diferencias-durante-la-final-del-mundial.html?utm_source=lootura.com) — 2026-07-19T20:48:13.000Z
+- [Pedro Sánchez, Donald Trump y la diplomacia del palco](https://www.elmundo.es/deportes/futbol/mundial-de-futbol/2026/07/20/6a5d4ed1e4d4d88d6c8b457a.html?utm_source=lootura.com) — 2026-07-19T22:42:31.000Z
+- [Así funciona la campaña permanente del PP que tiene a Abascal en sus oraciones](https://www.larazon.es/espana/asi-funciona-campana-permanente-que-tiene-abascal-sus-oraciones_202607206a5d771c0500ab412c9fa9c9.html?utm_source=lootura.com) — 2026-07-20T01:17:16.000Z

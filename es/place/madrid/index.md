@@ -3,10 +3,22 @@
 > Sigue la actividad de Madrid en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-19T20:42:54.963Z
+- Actualizado: 2026-07-20T03:17:50.208Z
 - Canonical: https://atlas.lootura.com/es/place/madrid
 
 ## Cambios recientes
+
+### Carlos Ibares: «Madrid tiene una enorme facilidad para reinventarse y, al hacerlo, muchas veces olvida su propio pasado»
+
+Madrid se ha contado miles de veces, desde las crónicas de la Corte hasta las guías turísticas contemporáneas. Sin embargo, bajo la imagen monumental de la capital pervive una ciudad menos conocida, hecha de anécdotas, oficios desaparecidos y espacios transformados por el tiempo. En «Madrid en 300 historias », el histo.
+
+Date: 2026-07-20
+
+### 15.000 personas rugen en el Movistar Arena para animar a la selección: "Queremos ser testigos de la historia"
+
+El balón echó a rodar en Estados Unidos, pero el epicentro de la emoción se ha trasladado al centro de Madrid bajo un lema generacional: "Queremos ser testigos de la...
+
+Date: 2026-07-19
 
 ### Incendios en España, en directo hoy: última hora de los fuegos activos, evolución y situación en Aragón, Castilla-La Mancha, Madrid y Andalucía
 
@@ -23,12 +35,6 @@ Date: 2026-07-19
 ### Las bases del PSOE eligen continuismo: Reyes Maroto se impone a Enma López como candidata a la alcaldía de Madrid
 
 La exministra de Industria Reyes Maroto volverá a encabezar la candidatura socialista a la alcaldía de Madrid. Y consiguió la validación en las primarias celebradas este domingo: los militantes optaron por la continuidad y la eligieron a ella frente a la concejala Enma López , que se lanzó a la carrera sin el permiso p.
-
-Date: 2026-07-19
-
-### 15.000 personas rugen en el Movistar Arena para animar a la selección: "Queremos ser testigos de la historia"
-
-El balón echó a rodar en Estados Unidos, pero el epicentro de la emoción se ha trasladado al centro de Madrid bajo un lema generacional: "Queremos ser testigos de la...
 
 Date: 2026-07-19
 
@@ -62,16 +68,8 @@ El cambio de acusados y delitos no implica que la vista llegue tras los comicios
 
 Date: 2026-07-19
 
-### El refugio de Broncano está a 180 kilómetros de Madrid: es un destino gastronómico con parcelas enormes y mucha naturaleza
-
-Broncano tiene su refugio en Ávila, concretamente en la Sierra de Gredos, donde se compró varias parcelas junto a Silvia Alonso.
-
-Date: 2026-07-19
-
 ## Fuentes
 
-- [Puigdemont no apoyará los Presupuestos de Sánchez: "Madrid recibe una sobreinversión que multiplica la de los catalanes"](https://www.elindependiente.com/espana/2026/07/19/puigdemont-no-apoyara-los-presupuestos-de-sanchez-madrid-recibe-una-sobreinversion-que-multiplica-la-de-los-catalanes/?utm_source=lootura.com) — 2026-07-19T17:33:43.000Z
-- [Las bases del PSOE eligen continuismo: Reyes Maroto se impone a Enma López como candidata a la alcaldía de Madrid](https://www.elindependiente.com/espana/2026/07/19/reyes-maroto-gana-primarias-enma-lopez-aparatos-psoe-madrid/?utm_source=lootura.com) — 2026-07-19T18:12:18.000Z
+- [España no falló ante la gran final](https://www.abc.es/deportes/futbol/mundial/espana-fallo-ante-gran-final-20260719230619-nt.html?utm_source=lootura.com) — 2026-07-20T01:50:54.000Z
 - [15.000 personas rugen en el Movistar Arena para animar a la selección: "Queremos ser testigos de la historia"](https://amp.elmundo.es/deportes/futbol/mundial-de-futbol/2026/07/19/6a5ce5ace4d4d841498b4576.html?utm_source=lootura.com) — 2026-07-19T19:53:35.000Z
-- [Incendios en España, en directo hoy: última hora de los fuegos activos, evolución y situación en Aragón, Castilla-La Mancha, Madrid y Andalucía](https://www.larazon.es/sociedad/incendios-espana-directo-hoy-ultima-hora-fuegos-activos-evolucion-situacion-aragon-castillala-mancha-madrid-andalucia-b50m_202607196a5bbe1b0500ab412c9d4ee3.html?utm_source=lootura.com) — 2026-07-19T20:04:11.000Z
-- [Maroto se impone en las primarias del PSOE de Madrid a Enma López y se enfrentará a Almeida](https://theobjective.com/espana/2026-07-19/maroto-primarias-psoe-enma-lopez-almeida/?utm_source=lootura.com) — 2026-07-19T18:22:55.000Z
+- [Carlos Ibares: «Madrid tiene una enorme facilidad para reinventarse y, al hacerlo, muchas veces olvida su propio pasado»](https://www.larazon.es/madrid/carlos-ibares-madrid-tiene-enorme-facilidad-reinventarse-hacerlo-muchas-veces-olvida-propio-pasado_202607206a5d763c1db8de040998bbd7.html?utm_source=lootura.com) — 2026-07-20T01:13:32.000Z

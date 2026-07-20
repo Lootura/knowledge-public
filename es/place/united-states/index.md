@@ -3,20 +3,26 @@
 > Sigue la actividad de Estados Unidos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-19T20:42:54.963Z
+- Actualizado: 2026-07-20T03:17:50.208Z
 - Canonical: https://atlas.lootura.com/es/place/united-states
 
 ## Cambios recientes
 
-### La cuenta atrás de Pekín
-
-La pregunta sobre la inteligencia artificial china no es ya si alcanzará a Estados Unidos, sino en qué mes. Conviene tomarse en serio esa premisa, porque Pekín la está ejecutando con una coherencia que Washington, ahora mismo, no logra igualar: ata económicamente a medio planeta , gana clientes regalando lo que EEUU co.
-
-Date: 2026-07-19
-
 ### 15.000 personas rugen en el Movistar Arena para animar a la selección: "Queremos ser testigos de la historia"
 
 El balón echó a rodar en Estados Unidos, pero el epicentro de la emoción se ha trasladado al centro de Madrid bajo un lema generacional: "Queremos ser testigos de la...
+
+Date: 2026-07-19
+
+### Santander hace pleno en el mejor año de salidas a Bolsa en España desde 2018
+
+Santander se ha impuesto a los gigantes de Wall Street en un negocio en el que tener sede en Estados Unidos supone jugar con ventaja. Esta vez no ha sido así. Las cuatro salidas a Bolsa del año en España han elegido a Santander en la posición principal del sindicato. Seguir leyendo.
+
+Date: 2026-07-19
+
+### La cuenta atrás de Pekín
+
+La pregunta sobre la inteligencia artificial china no es ya si alcanzará a Estados Unidos, sino en qué mes. Conviene tomarse en serio esa premisa, porque Pekín la está ejecutando con una coherencia que Washington, ahora mismo, no logra igualar: ata económicamente a medio planeta , gana clientes regalando lo que EEUU co.
 
 Date: 2026-07-19
 
@@ -62,14 +68,8 @@ Dos uniformados estadounidenses han muerto y un tercero permanece desaparecido d
 
 Date: 2026-07-18
 
-### Dos militares estadounidenses mueren en Jordania en un ataque iraní
-
-Dos militares estadounidenses en Jordania murieron el viernes mientras defendían la zona de un ataque con misiles y drones iraníes, informó el Comando Central de Estados Unidos (Centcom) en un comunicado este sábado. Seguir leyendo...
-
-Date: 2026-07-18
-
 ## Fuentes
 
-- [La foto más esperada: el apretón de manos entre Sánchez y Trump en la final](https://www.20minutos.es/deportes/futbol/foto-mas-esperada-apreton-manos-entre-pedro-sanchez-donald-trump-final-mundial_7016491_0.html?utm_source=lootura.com) — 2026-07-19T19:40:51.000Z
-- [La cuenta atrás de Pekín](https://www.abc.es/economia/cuenta-atras-pekin-20260720220743-nt.html?utm_source=lootura.com) — 2026-07-19T20:07:43.000Z
+- [El palco de las pocas palabras: Trump y Sánchez aparcan temporalmente las diferencias durante la final del Mundial](https://elpais.com/deportes/mundial-futbol/2026-07-19/el-palco-de-las-pocas-palabras-trump-y-sanchez-aparcan-temporalmente-las-diferencias-durante-la-final-del-mundial.html?utm_source=lootura.com) — 2026-07-19T20:48:13.000Z
 - [15.000 personas rugen en el Movistar Arena para animar a la selección: "Queremos ser testigos de la historia"](https://amp.elmundo.es/deportes/futbol/mundial-de-futbol/2026/07/19/6a5ce5ace4d4d841498b4576.html?utm_source=lootura.com) — 2026-07-19T19:53:35.000Z
+- [Santander hace pleno en el mejor año de salidas a Bolsa en España desde 2018](https://www.expansion.com/empresas/banca/2026/07/20/6a50d98fe5fdea6f128b4575.html?utm_source=lootura.com) — 2026-07-19T22:21:06.000Z
