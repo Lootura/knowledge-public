@@ -1,42 +1,42 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-20T15:31:00.143Z",
+  "generatedAt": "2026-07-20T17:56:30.689Z",
   "radar": {
     "id": "es",
     "slug": "es",
     "locale": "es"
   },
   "state": {
-    "signature": "1.16.0|38|1784556022171",
-    "version": "1.16.0",
-    "build": 38,
+    "signature": "1.16.1|2|1784556022171",
+    "version": "1.16.1",
+    "build": 2,
     "latestEntityUpdatedAt": "2026-07-20T14:00:22.171Z"
   },
   "atlas": {
     "hero": {
-      "id": "es-donald-trump",
-      "name": "Donald Trump",
-      "type": "person",
+      "id": "es-espana",
+      "name": "España",
+      "type": "place",
       "title": "Pedro Sánchez, Donald Trump y la diplomacia del palco",
-      "url": "https://atlas.lootura.com/es/person/donald-trump",
-      "path": "/es/person/donald-trump",
+      "url": "https://atlas.lootura.com/es/place/espana",
+      "path": "/es/place/espana",
       "updatedAt": "2026-07-20T14:00:22.171Z",
-      "score": 1608,
-      "sourceCount": 119,
+      "score": 1596,
+      "sourceCount": 412,
       "isBreaking": false,
       "isPinned": false
     },
     "cards": [
       {
-        "id": "es-espana",
-        "name": "España",
-        "type": "place",
+        "id": "es-donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
         "title": "Pedro Sánchez, Donald Trump y la diplomacia del palco",
-        "url": "https://atlas.lootura.com/es/place/espana",
-        "path": "/es/place/espana",
+        "url": "https://atlas.lootura.com/es/person/donald-trump",
+        "path": "/es/person/donald-trump",
         "updatedAt": "2026-07-20T14:00:22.171Z",
-        "score": 1605,
-        "sourceCount": 412,
+        "score": 1595,
+        "sourceCount": 119,
         "isBreaking": false,
         "isPinned": false
       },
@@ -48,7 +48,7 @@
         "url": "https://atlas.lootura.com/es/place/madrid",
         "path": "/es/place/madrid",
         "updatedAt": "2026-07-20T14:00:22.171Z",
-        "score": 1557,
+        "score": 1548,
         "sourceCount": 242,
         "isBreaking": false,
         "isPinned": false
@@ -61,7 +61,7 @@
         "url": "https://atlas.lootura.com/es/organization/nueva-york",
         "path": "/es/organization/nueva-york",
         "updatedAt": "2026-07-20T14:00:22.171Z",
-        "score": 1547,
+        "score": 1538,
         "sourceCount": 10,
         "isBreaking": false,
         "isPinned": false
@@ -74,7 +74,7 @@
         "url": "https://atlas.lootura.com/es/organization/audiencia-nacional",
         "path": "/es/organization/audiencia-nacional",
         "updatedAt": "2026-07-20T14:00:22.171Z",
-        "score": 1544,
+        "score": 1532,
         "sourceCount": 20,
         "isBreaking": false,
         "isPinned": false
