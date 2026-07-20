@@ -3,7 +3,7 @@
 > Sigue la actividad de FIFA en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-20T14:00:22.171Z
+- Actualizado: 2026-07-20T17:59:39.360Z
 - Canonical: https://atlas.lootura.com/es/organization/fifa
 
 ## Cambios recientes
@@ -34,4 +34,4 @@ Date: 2026-07-08
 
 ## Fuentes
 
-- [Cuánto gana España por la victoria en el Mundial: el dinero que se embolsará cada jugador](https://www.eldiario.es/spin/deportes/gana-espana-victoria-mundial-dinero-embolsara-jugador-pm_1_13392818.html?utm_source=lootura.com) — 2026-07-20T10:00:19.000Z
+- [La FIFA abre una investigación contra Argentina por su comportamiento tras la final del Mundial](https://www.eldiario.es/mundial-2026/fifa-abre-investigacion-argentina-comportamiento-final-mundial_1_13394358.html?utm_source=lootura.com) — 2026-07-20T16:45:33.000Z

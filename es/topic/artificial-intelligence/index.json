@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/topic/artificial-intelligence/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/topic/artificial-intelligence/index.json",
   "description": "Sigue la actividad de Artificial intelligence en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-20T14:00:22.171Z",
+  "updatedAt": "2026-07-20T17:59:39.360Z",
   "aliases": [
     "AI",
     "machine learning"
@@ -42,10 +42,10 @@
   ],
   "sources": [
     {
-      "title": "La Comunitat participa en el desarrollo de una 'calculadora' para predecir el riesgo de cáncer de mama",
-      "url": "https://www.larazon.es/comunidad-valenciana/comunitat-participa-desarrollo-calculadora-predecir-riesgo-cancer-mama_202607206a5dfb3f0500ab412ca0611b.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-20T10:41:03.000Z",
-      "sourceId": "lootura-es-la-razon"
+      "title": "Google prepara un chip secreto que promete disparar el rendimiento de su inteligencia artificial",
+      "url": "https://hipertextual.com/inteligencia-artificial/google-chip-frozen-v2-inteligencia-artificial/?utm_source=lootura.com",
+      "publishedAt": "2026-07-20T17:49:51.000Z",
+      "sourceId": "lootura-es-hipertextual"
     }
   ],
   "evidenceCount": 0

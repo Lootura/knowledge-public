@@ -3,7 +3,7 @@
 > Sigue la actividad de Donald Trump en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-20T14:00:22.171Z
+- Actualizado: 2026-07-20T17:59:39.360Z
 - Canonical: https://atlas.lootura.com/es/person/donald-trump
 
 ## Cambios recientes
@@ -11,12 +11,6 @@
 ### Pedro Sánchez, Donald Trump y la diplomacia del palco
 
 Simpatías forzadas entre los presidentes ante la atenta mirada de Infantino y los Reyes de España Leer.
-
-Date: 2026-07-20
-
-### El podemita Borja Iglesias le apartó la mirada a Donald Trump al darle la mano y recibir la medalla
-
-Borja Iglesias, uno de los jugadores que más se ha significado políticamente de la Selección española, siempre escorado hacia la extrema izquierda, protagonizó uno de los momentos más llamativos de la entrega de trofeos a los campeones del mundo. El delantero del Celta le apartó la mirada al presidente del país anfitri.
 
 Date: 2026-07-20
 
@@ -68,7 +62,12 @@ Trump anunció la semana pasada la cancelación del memorando de entendimiento q
 
 Date: 2026-07-17
 
+### China exige a Trump que aparque el «invento» de la presunta injerencia electoral en 2020
+
+China ha rechazado por completo las acusaciones formuladas por el presidente de Estados Unidos , Donald Trump , quien, esta pasada noche y en un discurso ante la nación, denunció que las autoridades de Pekín se habían inmiscuido en el desarrollo de las elecciones de 2020 . Trump y el Gobierno de Estados Unidos acusaron.
+
+Date: 2026-07-17
+
 ## Fuentes
 
-- [Trump la lía: abucheos y 'photobomb' con la copa](https://www.abc.es/deportes/futbol/mundial/trump-palco-20260719011524-nt.html?utm_source=lootura.com) — 2026-07-20T13:03:11.000Z
 - [Pedro Sánchez, Donald Trump y la diplomacia del palco](https://www.elmundo.es/deportes/futbol/mundial-de-futbol/2026/07/20/6a5d4ed1e4d4d88d6c8b457a.html?utm_source=lootura.com) — 2026-07-20T06:32:20.000Z

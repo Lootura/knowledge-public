@@ -3,16 +3,10 @@
 > Follow Andy Burnham, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-07-20T14:00:46.863Z
+- Updated: 2026-07-20T18:00:06.130Z
 - Canonical: https://atlas.lootura.com/us/person/andy-burnham
 
 ## Recent changes
-
-### Andy Burnham: The likely next U.K. prime minister
-
-Britain gets a new prime minister Monday and it's likely to be Andy Burnham, a self-declared socialist. Leigh Kiniry reports.
-
-Date: 2026-07-20
 
 ### Morning news brief
 
@@ -56,6 +50,12 @@ Andy Burnham has not yet met President Trump, but the two men will be expected t
 
 Date: 2026-07-20
 
+### Andy Burnham: The likely next U.K. prime minister
+
+Britain gets a new prime minister Monday and it's likely to be Andy Burnham, a self-declared socialist. Leigh Kiniry reports.
+
+Date: 2026-07-20
+
 ### Burnham Set to Become Britain’s First Openly Roman Catholic Prime Minister
 
 Andy Burnham has spoken of Catholicism as part of his cultural identity rather than as a fervent religious faith.
@@ -70,7 +70,6 @@ Date: 2026-07-20
 
 ## Sources
 
-- [Andy Burnham: The likely next U.K. prime minister](https://www.cbsnews.com/video/andy-burnham-the-likely-next-uk-prime-minister/?utm_source=lootura.com) — 2026-07-20T01:05:00.000Z
 - [Andy Burnham formally appointed U.K. prime minster](https://www.nbcnews.com/now/video/andy-burnham-formally-appointed-u-k-prime-minster-266940485538?utm_source=lootura.com) — 2026-07-20T11:51:32.000Z
 - [Morning news brief](https://www.npr.org/2026/07/20/nx-s1-5895962/morning-news-brief?utm_source=lootura.com) — 2026-07-20T08:43:08.000Z
 - [Andy Burnham says politicians 'need to be better' in first speech as UK's new prime minister](https://www.pbs.org/newshour/world/andy-burnham-says-politicians-need-to-be-better-in-first-speech-as-uks-new-prime-minister?utm_source=lootura.com) — 2026-07-20T12:32:31.000Z
@@ -78,4 +77,3 @@ Date: 2026-07-20
 - [There’s Nothing Casual About Andy Burnham’s Casual Style](https://www.nytimes.com/2026/07/20/style/andy-burnham-prime-minister-style.html?utm_source=lootura.com) — 2026-07-20T12:09:00.000Z
 - [North Sea Drilling Offers First Test for Burnham’s Relationship With Trump](https://www.nytimes.com/2026/07/20/world/europe/burnham-trump-uk-us-relationship-north-sea-oil.html?utm_source=lootura.com) — 2026-07-20T09:32:27.000Z
 - [How Andy Burnham Becomes Britain’s New Prime Minister](https://www.nytimes.com/2026/07/17/world/europe/burnham-prime-minister-explainer.html?utm_source=lootura.com) — 2026-07-20T09:15:30.000Z
-- [Burnham Set to Become Britain’s First Openly Roman Catholic Prime Minister](https://www.nytimes.com/2026/07/20/world/europe/burnham-openly-roman-catholic-prime-minister.html?utm_source=lootura.com) — 2026-07-20T10:44:02.000Z

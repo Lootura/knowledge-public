@@ -70,5 +70,4 @@ Date: 2026-07-15
 
 ## Fuentes
 
-- [Peinado pide a las partes del caso Begoña ajustar sus peticiones para el juicio tras archivarse varios delitos](https://www.elconfidencial.com/espana/2026-07-20/begona-gomez-trafico-influencias-1tps_4392855/?utm_source=lootura.com) — 2026-07-20T11:31:00.000Z
-- [Vox recurrirá la sentencia que absuelve al hermano de Sánchez de tráfico de influencias](https://theobjective.com/espana/2026-07-20/vox-sentencia-absuelve-hermano-sanchez-trafico-influencias/?utm_source=lootura.com) — 2026-07-20T12:07:33.000Z
+No public source links.

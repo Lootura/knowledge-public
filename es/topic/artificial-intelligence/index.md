@@ -3,7 +3,7 @@
 > Sigue la actividad de Artificial intelligence en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: topic
-- Actualizado: 2026-07-20T14:00:22.171Z
+- Actualizado: 2026-07-20T17:59:39.360Z
 - Canonical: https://atlas.lootura.com/es/topic/artificial-intelligence
 
 ## Cambios recientes
@@ -40,4 +40,4 @@ Date: 2026-07-10
 
 ## Fuentes
 
-- [La Comunitat participa en el desarrollo de una 'calculadora' para predecir el riesgo de cáncer de mama](https://www.larazon.es/comunidad-valenciana/comunitat-participa-desarrollo-calculadora-predecir-riesgo-cancer-mama_202607206a5dfb3f0500ab412ca0611b.html?utm_source=lootura.com) — 2026-07-20T10:41:03.000Z
+- [Google prepara un chip secreto que promete disparar el rendimiento de su inteligencia artificial](https://hipertextual.com/inteligencia-artificial/google-chip-frozen-v2-inteligencia-artificial/?utm_source=lootura.com) — 2026-07-20T17:49:51.000Z

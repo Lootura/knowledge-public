@@ -62,19 +62,6 @@
       "date": "2026-07-15"
     }
   ],
-  "sources": [
-    {
-      "title": "Peinado pide a las partes del caso Begoña ajustar sus peticiones para el juicio tras archivarse varios delitos",
-      "url": "https://www.elconfidencial.com/espana/2026-07-20/begona-gomez-trafico-influencias-1tps_4392855/?utm_source=lootura.com",
-      "publishedAt": "2026-07-20T11:31:00.000Z",
-      "sourceId": "lootura-es-el-confidencial"
-    },
-    {
-      "title": "Vox recurrirá la sentencia que absuelve al hermano de Sánchez de tráfico de influencias",
-      "url": "https://theobjective.com/espana/2026-07-20/vox-sentencia-absuelve-hermano-sanchez-trafico-influencias/?utm_source=lootura.com",
-      "publishedAt": "2026-07-20T12:07:33.000Z",
-      "sourceId": "lootura-es-the-objective"
-    }
-  ],
-  "evidenceCount": 2
+  "sources": [],
+  "evidenceCount": 0
 }

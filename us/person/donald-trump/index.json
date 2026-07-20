@@ -8,13 +8,23 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/donald-trump/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/donald-trump/index.json",
   "description": "Follow Donald Trump, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-20T14:00:46.863Z",
+  "updatedAt": "2026-07-20T18:00:06.130Z",
   "aliases": [
     "President Donald Trump",
     "President Trump",
     "Trump"
   ],
   "changes": [
+    {
+      "title": "North Sea Drilling Offers First Test for Burnham’s Relationship With Trump",
+      "summary": "Andy Burnham has not yet met President Trump, but the two men will be expected to speak shortly after Mr. Burnham becomes prime minister.",
+      "date": "2026-07-20"
+    },
+    {
+      "title": "Trump to keep using old Air Force One while new plane gets security upgrades",
+      "summary": "The new Air Force One \"has a lot of capability, but as I understand it, in about a month or so, they're going to send it to have it be maxed out,\" President Trump said Sunday.",
+      "date": "2026-07-20"
+    },
     {
       "title": "U.S. soldier killed in Iraq, Trump orders more strikes against Iran",
       "summary": "A U.S. service member was killed in Iraq on Saturday, CENTCOM announced. Separately, unidentified remains were found in Jordan at the location where a U.S. service member went missing and two others were killed following an Iranian strike. Taurean Small reports.",
@@ -28,11 +38,6 @@
     {
       "title": "‘Complete shock and dismay’: scientists unite against Trump’s $1tn grant attack",
       "summary": "OMB proposal would upend entire grant-making system – and put vast sums into hands of political appointees It was a late Friday afternoon in Boston when Harvard School of Public Health professor Nancy Krieger, a social epidemiologist, received an email that would reshape the next year of her life. It was from the Natio.",
-      "date": "2026-07-20"
-    },
-    {
-      "title": "North Sea Drilling Offers First Test for Burnham’s Relationship With Trump",
-      "summary": "Andy Burnham has not yet met President Trump, but the two men will be expected to speak shortly after Mr. Burnham becomes prime minister.",
       "date": "2026-07-20"
     },
     {
@@ -59,31 +64,20 @@
       "title": "$600,000 for a presidential pardon? Inside the growing industry of clemency lobbying",
       "summary": "NPR's Ayesha Rascoe talks with NOTUS reporter Jasmine Wright about the growing lobbying industry to get presidential pardons under the second Trump administration.",
       "date": "2026-07-19"
-    },
-    {
-      "title": "Georgia official discusses Trump's claims about election security",
-      "summary": "NPR's Ayesha Rascoe talks with Gabriel Sterling, of the Georgia Secretary of State's Office, about President Trump's claims about election security.",
-      "date": "2026-07-19"
     }
   ],
   "sources": [
     {
-      "title": "U.S. soldier killed in Iraq, Trump orders more strikes against Iran",
-      "url": "https://www.cbsnews.com/video/us-soldier-killed-in-iraq-trump-orders-more-strikes-against-iran/?utm_source=lootura.com",
-      "publishedAt": "2026-07-20T00:50:00.000Z",
+      "title": "Pentagon ID's 2 soldiers killed in Iran strike in Jordan; 1 still missing",
+      "url": "https://www.cbsnews.com/news/iran-strike-jordan-us-troops-killed/?utm_source=lootura.com",
+      "publishedAt": "2026-07-20T17:15:05.000Z",
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "Trump says new Air Force One will be sent away for upgrades, amid security concerns",
-      "url": "https://www.nbcnews.com/politics/politics-news/trump-air-force-one-maxed-out-security-qatar-gift-iran-threat-rcna588323?utm_source=lootura.com",
-      "publishedAt": "2026-07-20T08:57:18.000Z",
-      "sourceId": "lootura-us-nbc-news-politics"
-    },
-    {
-      "title": "‘Complete shock and dismay’: scientists unite against Trump’s $1tn grant attack",
-      "url": "https://www.theguardian.com/us-news/2026/jul/20/trump-grant-funding-attack-scientists?utm_source=lootura.com",
-      "publishedAt": "2026-07-20T11:00:02.000Z",
-      "sourceId": "lootura-us-the-guardian-us"
+      "title": "Trump to keep using old Air Force One while new plane gets security upgrades",
+      "url": "https://www.cbsnews.com/news/trump-air-force-one-maxed-out-security-capabilities-qatar/?utm_source=lootura.com",
+      "publishedAt": "2026-07-20T17:35:23.000Z",
+      "sourceId": "lootura-us-cbs-news"
     },
     {
       "title": "North Sea Drilling Offers First Test for Burnham’s Relationship With Trump",
@@ -92,5 +86,5 @@
       "sourceId": "lootura-us-the-new-york-times"
     }
   ],
-  "evidenceCount": 5
+  "evidenceCount": 2
 }

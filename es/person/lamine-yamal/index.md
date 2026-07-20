@@ -3,10 +3,16 @@
 > Sigue la actividad de Lamine Yamal en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-20T14:00:22.171Z
+- Actualizado: 2026-07-20T17:59:39.360Z
 - Canonical: https://atlas.lootura.com/es/person/lamine-yamal
 
 ## Cambios recientes
+
+### De Keyne, el hermano de Lamine Yamal, a la familia numerosa de Cucurella: los apoyos de los jugadores de la selección española fuera del campo
+
+El césped del MetLife Stadium de Nueva Jersey se convirtió este domingo en el escenario de emotivos encuentros de los futbolistas con sus familiares y amigos después de proclamarse campeones del mundo. Algunos posaron con ellos en persona, otros siempre se acuerdan de ellos en sus declaraciones.
+
+Date: 2026-07-20
 
 ### Lamine emula a Pelé y niega a Messi
 
@@ -62,12 +68,6 @@ Entre la pizarra de Luis de la Fuente y el olfato goleador de Mikel Merino , apa
 
 Date: 2026-07-10
 
-### Tatuajes que son pecado: Lamine Yamal no es el único que no se los hace por su fe
-
-El islam censura estos adornos corporales, aunque no está solo en esta postura. Otros credos también lo hacen...
-
-Date: 2026-07-08
-
 ## Fuentes
 
-- [Ni Lamine Yamal pudo eclipsarla: la divertida anécdota de su abuela durante la final del Mundial](https://okdiario.com/cool/famosos/ni-lamine-yamal-pudo-eclipsarla-divertida-anecdota-abuela-durante-final-del-mundial-19033003?utm_source=lootura.com) — 2026-07-20T13:36:14.000Z
+- [De Keyne, el hermano de Lamine Yamal, a la familia numerosa de Cucurella: los apoyos de los jugadores de la selección española fuera del campo](https://elpais.com/gente/2026-07-20/de-keyne-el-hermano-de-lamine-yamal-a-la-familia-numerosa-de-cucurella-los-apoyos-de-los-jugadores-de-la-seleccion-espanola-dentro-y-fuera-del-campo.html?utm_source=lootura.com) — 2026-07-20T17:18:27.000Z

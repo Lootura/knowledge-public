@@ -3,10 +3,16 @@
 > Sigue la actividad de Málaga en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-18T16:55:22.774Z
+- Actualizado: 2026-07-20T17:59:39.360Z
 - Canonical: https://atlas.lootura.com/es/place/malaga
 
 ## Cambios recientes
+
+### La mujer asesinada en Málaga fue presuntamente apuñalada por su pareja, que se suicidó
+
+La mujer de 30 años que ha sido hallada muerta este lunes con lesiones de arma blanca en una vivienda de Antequera (Málaga) fue presuntamente asesinada por su pareja, un hombre que se suicidó después de cometer el crimen , según fuentes de la investigación. El cuerpo de la mujer presenta heridas de arma blanca que apun.
+
+Date: 2026-07-20
 
 ### Los incendios forestales cortan 14 carreteras secundarias en cuatro provincias
 
@@ -52,4 +58,4 @@ Date: 2026-07-17
 
 ## Fuentes
 
-No public source links.
+- [La mujer asesinada en Málaga fue presuntamente apuñalada por su pareja, que se suicidó](https://www.elconfidencial.com/espana/andalucia/2026-07-20/muerte-punaladas-mujer-vivienda-antequera-malaga_4392967/?utm_source=lootura.com) — 2026-07-20T14:02:00.000Z

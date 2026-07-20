@@ -3,7 +3,7 @@
 > Sigue la actividad de Canada en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-20T14:00:22.171Z
+- Actualizado: 2026-07-20T17:59:39.360Z
 - Canonical: https://atlas.lootura.com/es/place/canada
 
 ## Cambios recientes
@@ -28,4 +28,4 @@ Date: 2026-07-18
 
 ## Fuentes
 
-- [Así será la celebración: una rúa por Madrid y actuaciones en Cibeles](https://www.abc.es/deportes/futbol/mundial/celebracion-espana-tras-ganar-mundial-horario-recorrido-20260720010049-nt.html?utm_source=lootura.com) — 2026-07-20T12:55:32.000Z
+- [Donald Trump saca pecho de su Mundial: «Ha sido el más seguro y espectacular de la historia»](https://theobjective.com/internacional/2026-07-20/donald-trump-mundial-espectacular-historia/?utm_source=lootura.com) — 2026-07-20T17:42:51.000Z

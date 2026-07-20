@@ -3,7 +3,7 @@
 > Follow Apple, a tracked company, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: company
-- Updated: 2026-07-16T17:13:33.353Z
+- Updated: 2026-07-20T18:00:06.130Z
 - Canonical: https://atlas.lootura.com/us/company/apple
 
 ## Recent changes
@@ -40,4 +40,4 @@ Date: 2026-07-13
 
 ## Sources
 
-No public source links.
+- [A.I. ‘Vibecoded’ Apps Are Flooding Apple’s App Store](https://www.nytimes.com/2026/07/20/technology/apple-app-store-vibecoding.html?utm_source=lootura.com) — 2026-07-20T14:02:31.000Z

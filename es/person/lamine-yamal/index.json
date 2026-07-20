@@ -8,9 +8,14 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/lamine-yamal/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/lamine-yamal/index.json",
   "description": "Sigue la actividad de Lamine Yamal en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-20T14:00:22.171Z",
+  "updatedAt": "2026-07-20T17:59:39.360Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "De Keyne, el hermano de Lamine Yamal, a la familia numerosa de Cucurella: los apoyos de los jugadores de la selección española fuera del campo",
+      "summary": "El césped del MetLife Stadium de Nueva Jersey se convirtió este domingo en el escenario de emotivos encuentros de los futbolistas con sus familiares y amigos después de proclamarse campeones del mundo. Algunos posaron con ellos en persona, otros siempre se acuerdan de ellos en sus declaraciones.",
+      "date": "2026-07-20"
+    },
     {
       "title": "Lamine emula a Pelé y niega a Messi",
       "summary": "En el estado de Nueva Jersey convergieron el pasado y el presente del fútbol con su futuro más inmediato. Es decir, Lionel Messi y Lamine Yamal. Lo hicieron nada menos que en la final de la Copa del Mundo. La primera entre dos países con una historia tan entrelazada como futbolera. Seguir leyendo.",
@@ -55,20 +60,15 @@
       "title": "Lamine Yamal: “Si a alguien debe temer Francia es a nosotros”",
       "summary": "Entre la pizarra de Luis de la Fuente y el olfato goleador de Mikel Merino , aparece la gambeta de Lamine Yamal. De nuevo elegido el mejor jugador del duelo ante Bélgica ayer. El canterano del Barcelona no necesitó ni marcar ni asistir para llevarse el trofeo individual. “Estoy muy contento por la victoria. Quiero marc.",
       "date": "2026-07-10"
-    },
-    {
-      "title": "Tatuajes que son pecado: Lamine Yamal no es el único que no se los hace por su fe",
-      "summary": "El islam censura estos adornos corporales, aunque no está solo en esta postura. Otros credos también lo hacen...",
-      "date": "2026-07-08"
     }
   ],
   "sources": [
     {
-      "title": "Ni Lamine Yamal pudo eclipsarla: la divertida anécdota de su abuela durante la final del Mundial",
-      "url": "https://okdiario.com/cool/famosos/ni-lamine-yamal-pudo-eclipsarla-divertida-anecdota-abuela-durante-final-del-mundial-19033003?utm_source=lootura.com",
-      "publishedAt": "2026-07-20T13:36:14.000Z",
-      "sourceId": "lootura-es-ok-diario"
+      "title": "De Keyne, el hermano de Lamine Yamal, a la familia numerosa de Cucurella: los apoyos de los jugadores de la selección española fuera del campo",
+      "url": "https://elpais.com/gente/2026-07-20/de-keyne-el-hermano-de-lamine-yamal-a-la-familia-numerosa-de-cucurella-los-apoyos-de-los-jugadores-de-la-seleccion-espanola-dentro-y-fuera-del-campo.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-20T17:18:27.000Z",
+      "sourceId": "lootura-es-el-pais"
     }
   ],
-  "evidenceCount": 0
+  "evidenceCount": 1
 }

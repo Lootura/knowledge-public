@@ -3,7 +3,7 @@
 > Sigue la actividad de San Sebastián en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-20T14:00:22.171Z
+- Actualizado: 2026-07-20T17:59:39.360Z
 - Canonical: https://atlas.lootura.com/es/place/san-sebastian
 
 ## Cambios recientes
@@ -11,6 +11,12 @@
 ### Un detenido y seis investigados por «amedrentar y coaccionar» a aficionados con la camiseta de España en San Sebastián
 
 El Gobierno Vasco condena las agresiones y afirma que estos comportamientos son incompatibles con los valores de respeto y convivencia.
+
+Date: 2026-07-20
+
+### El Torneo Donostia Hiria se apunta a la Semana Grande
+
+La cita se adelanta y la final se jugará el 14 de agosto en el Atano III con Altuna III y Rezusta dispuestos a encadenar su tercera txapela.
 
 Date: 2026-07-20
 
@@ -62,13 +68,8 @@ Los servicios de emergencia extinguieron este jueves un incendio declarado en el
 
 Date: 2026-07-17
 
-### «¡Más sangre azul es imposible!»
-
-Año 1926. En 'La Voz de Guipúzcoa' hicieron el cálculo. Hace un siglo coincidieron en San Sebastián nada menos que quince duques, 33 marqueses, 22 condes, un vizconde y tres barones. La aristocracia elegía nuestra ciudad para veranear.
-
-Date: 2026-07-16
-
 ## Fuentes
 
 - [Un detenido y seis investigados por «amedrentar y coaccionar» a aficionados con la camiseta de España en San Sebastián](https://www.diariovasco.com/gipuzkoa/detenido-seis-investigados-amedrentar-coaccionar-aficionados-camiseta-20260720115453-nt_amp.html?utm_source=lootura.com) — 2026-07-20T09:54:53.000Z
 - [La hinchada argentina también apoya desde Donostia a su selección](https://www.diariovasco.com/deportes/futbol/mundial/hinchada-argentina-calienta-final-mundial-donostia-20260719202745-nt_amp.html?utm_source=lootura.com) — 2026-07-19T18:27:45.000Z
+- [El Torneo Donostia Hiria se apunta a la Semana Grande](https://www.diariovasco.com/deportes/pelota/altuna-rezusta-buscaran-tercera-txapela-consecutiva-donostia-hiria-20260720123203-nt_amp.html?utm_source=lootura.com) — 2026-07-20T10:32:24.000Z

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/ukraine/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/ukraine/index.json",
   "description": "Follow Ukraine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-20T14:00:46.863Z",
+  "updatedAt": "2026-07-20T18:00:06.130Z",
   "aliases": [
     "Kyiv"
   ],
@@ -26,6 +26,11 @@
     {
       "title": "What it's like inside Ukraine during a massive Russian ballistic missile attack",
       "summary": "Russia targeted Kyiv, Ukraine, in one of its largest missile assaults of the war over the weekend, Ukrainian President Volodymyr Zelenskyy said. CBS News' Aidan Stretch has the latest from Kyiv.",
+      "date": "2026-07-20"
+    },
+    {
+      "title": "Ukraine fires 400 drones toward Moscow as Zelenskyy grapples with protests",
+      "summary": "The blitz came hours after Russia bombarded Kyiv and other Ukrainian cities with ballistic missiles in a relentless cycle of tit-for-tat strikes.",
       "date": "2026-07-20"
     },
     {
@@ -57,11 +62,6 @@
       "title": "Ukrainian drones hit warehouses and other sites across Russia, killing 9 and wounding over 60",
       "summary": "Kyiv's forces have pressed their relentless aerial campaign against energy infrastructure and military targets inside Russia, aiming to undermine Moscow's war effort and make Russians feel the consequences of the Kremlin's all-out invasion of Ukraine that is well into its fifth year.",
       "date": "2026-07-18"
-    },
-    {
-      "title": "Ukraine’s Top General Becomes a Target of Protesters’ Anger",
-      "summary": "Demonstrators supporting Ukraine’s ousted defense minister have begun denouncing the commander he clashed with in office, Gen. Oleksandr Syrskyi.",
-      "date": "2026-07-18"
     }
   ],
   "sources": [
@@ -72,6 +72,12 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
+      "title": "Ukraine fires 400 drones toward Moscow as Zelenskyy grapples with protests",
+      "url": "https://www.pbs.org/newshour/world/ukraine-fires-400-drones-toward-moscow-as-zelenskyy-grapples-with-protests?utm_source=lootura.com",
+      "publishedAt": "2026-07-20T16:36:32.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
+    },
+    {
       "title": "Ukraine War Momentum Helps Spur Interest in Postwar Investment",
       "url": "https://www.nytimes.com/2026/07/20/world/europe/ukraine-post-war-reconstruction.html?utm_source=lootura.com",
       "publishedAt": "2026-07-20T13:37:51.000Z",
@@ -80,9 +86,9 @@
     {
       "title": "Zelensky Faces Pressure to Remove Ukraine’s Top General",
       "url": "https://www.nytimes.com/2026/07/20/world/europe/ukraine-zelensky-general-defense-minister.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-20T12:11:09.000Z",
+      "publishedAt": "2026-07-20T17:27:16.000Z",
       "sourceId": "lootura-us-the-new-york-times-world"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 4
 }

@@ -3,10 +3,16 @@
 > Follow Canada, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-20T14:00:46.863Z
+- Updated: 2026-07-20T18:00:06.130Z
 - Canonical: https://atlas.lootura.com/us/place/canada
 
 ## Recent changes
+
+### Researchers challenge evidence behind high-profile parental alienation study
+
+Researchers from Manchester and Canada have shown that the claim by the authors of a study published earlier this year that most of its participants had experienced parental alienating behaviors during childhood is seriously misleading. Claims in the study that people affected by parental alienating behaviors showed gr.
+
+Date: 2026-07-20
 
 ### Nolan’s ‘The Odyssey’ Brings in $124.5 Million at the Box Office on Opening Weekend
 
@@ -62,13 +68,7 @@ The president said on Friday in a social media post that Canada was failing to m
 
 Date: 2026-07-18
 
-### Climate's Compounding Financial Toll Is Becoming Harder to Ignore
-
-Smoke from massive wildfires in Canada engulfed the New York City skyline, reducing visibility and casting an orange haze over the New York City. —Selcuk Acar/Anadolu—Getty Images It’s felt all but impossible to escape the reality of our changing climate this past month, from extreme heat at London Climate Action Week.
-
-Date: 2026-07-18
-
 ## Sources
 
 - [The 2026 FIFA World Cup schedule and how to watch](https://www.cbsnews.com/news/world-cup-2026-schedule-how-to-watch/?utm_source=lootura.com) — 2026-07-20T03:18:02.000Z
-- [Nolan’s ‘The Odyssey’ Brings in $124.5 Million at the Box Office on Opening Weekend](https://www.nytimes.com/2026/07/19/business/media/the-odyssey-box-office-christopher-nolan.html?utm_source=lootura.com) — 2026-07-19T16:54:07.000Z
+- [Researchers challenge evidence behind high-profile parental alienation study](https://phys.org/news/2026-07-evidence-high-profile-parental-alienation.html?utm_source=lootura.com) — 2026-07-20T16:00:03.000Z

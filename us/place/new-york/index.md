@@ -3,10 +3,22 @@
 > Follow New York, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-20T14:00:46.863Z
+- Updated: 2026-07-20T18:00:06.130Z
 - Canonical: https://atlas.lootura.com/us/place/new-york
 
 ## Recent changes
+
+### Explosion outside New York federal building in Manhattan apparently caused by fireworks, sources say
+
+NYPD sources said fireworks were found in a garbage can and a man was taken into custody outside the federal building in Lower Manhattan.
+
+Date: 2026-07-20
+
+### Suspect held after explosion at FBI building in New York City
+
+Three people reported injured after incendiary device allegedly thrown at building also housing ICE field office Authorities in New York City are investigating an explosion on Monday morning outside an FBI building in lower Manhattan that reportedly injured three people. Investigators said a person who allegedly threw.
+
+Date: 2026-07-20
 
 ### Who speaks for the horses? New push seeks to ban Central Park’s carriages
 
@@ -56,18 +68,7 @@ WWE’s Saturday Night’s Main Event at Madison Square Garden featured a celebr
 
 Date: 2026-07-19
 
-### Caitlin Clark smacked in the face by WNBA legend after getting foul that could trigger fine in big win
-
-Caitlin Clark took a hit to the face, received a technical foul that could lead to a hefty fine, and still came away with a win and first place in the Eastern Conference on Saturday. Early in the first quarter of the Fever's 108-88 win over the New York Liberty , Clark was called for a technical foul after she ran full.
-
-Date: 2026-07-19
-
-### Mamdani doubles down on democratic socialism while insisting Wall Street, business leaders can work with him
-
-New York City Democratic Mayor Zohran Mamdani is embracing his identity as a Democratic Socialist, arguing the movement represents a return to the Democratic Party's New Deal roots even as he insists Wall Street and corporate leaders have nothing to fear from his administration. In a wide-ranging interview with The New.
-
-Date: 2026-07-19
-
 ## Sources
 
-- [Who speaks for the horses? New push seeks to ban Central Park’s carriages](https://www.theguardian.com/us-news/2026/jul/20/horse-carriages-central-park-new-york?utm_source=lootura.com) — 2026-07-20T11:00:02.000Z
+- [Explosion outside New York federal building in Manhattan apparently caused by fireworks, sources say](https://www.cbsnews.com/newyork/news/incendiary-device-federal-building-nyc-manhattan/?utm_source=lootura.com) — 2026-07-20T17:49:55.000Z
+- [Suspect held after explosion at FBI building in New York City](https://www.theguardian.com/us-news/2026/jul/20/new-york-explosion-fbi-ice?utm_source=lootura.com) — 2026-07-20T17:46:33.000Z

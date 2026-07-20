@@ -70,4 +70,4 @@ Date: 2026-07-17
 
 ## Fuentes
 
-- [Peinado pide a las partes del caso Begoña ajustar sus peticiones para el juicio tras archivarse varios delitos](https://www.elconfidencial.com/espana/2026-07-20/begona-gomez-trafico-influencias-1tps_4392855/?utm_source=lootura.com) — 2026-07-20T11:31:00.000Z
+No public source links.

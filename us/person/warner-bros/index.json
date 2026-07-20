@@ -1,0 +1,75 @@
+{
+  "id": "usa-warner-bros",
+  "name": "Warner Bros",
+  "type": "person",
+  "locale": "en",
+  "canonicalPath": "/us/person/warner-bros",
+  "canonicalUrl": "https://atlas.lootura.com/us/person/warner-bros",
+  "markdownUrl": "https://atlas.lootura.com/us/person/warner-bros/index.md",
+  "jsonUrl": "https://atlas.lootura.com/us/person/warner-bros/index.json",
+  "description": "Follow Warner Bros, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
+  "updatedAt": "2026-07-20T18:00:06.130Z",
+  "aliases": [],
+  "changes": [
+    {
+      "title": "Judge puts temporary pause on Paramount-Warner merger",
+      "summary": "Paramount Skydance’s takeover of Warner Bros. Discovery hit a roadblock Monday after a federal judge temporarily paused the proposed merger.",
+      "date": "2026-07-20"
+    },
+    {
+      "title": "Judge says Paramount and Warner Bros. must halt merger for at least 2 weeks as states challenge deal",
+      "summary": "welve states, led by California, sued to block Paramount's pending buyout of Warner last week— alleging that such a combination would \"extinguish competition\" in Hollywood and lead to fewer choices for consumers.",
+      "date": "2026-07-20"
+    },
+    {
+      "title": "12 states sue to block Paramount-Warner Bros. Discovery merger",
+      "summary": "The suit poses a new challenge to the $110 billion deal that would unite two of the nation's largest media companies.",
+      "date": "2026-07-14"
+    },
+    {
+      "title": "Morning news brief",
+      "summary": "Trump says the U.S. will collect tolls and impose blockade in the Strait of Hormuz, man killed by federal agents in Maine, states sue to stop Paramount-Warner Bros merger.",
+      "date": "2026-07-14"
+    },
+    {
+      "title": "U.S. to reinstate Hormuz blockade. And, states sue over Paramount-Warner deal",
+      "summary": "The United States plans to reinstate a blockade over the Strait of Hormuz today. And, several states are suing to stop the massive Paramount-Warner Bros. merger. (Image credit: -).",
+      "date": "2026-07-14"
+    },
+    {
+      "title": "12 states sue to block merger between Paramount, Warner Bros. Discovery",
+      "summary": "A coalition of a dozen states on Monday sued to block Paramount Skydance.",
+      "date": "2026-07-14"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Warner Bros first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-07-13"
+    },
+    {
+      "title": "States sue to stop Paramount-Warner Bros blockbuster merger",
+      "summary": "California is among the states suing to block Paramount from buying Warner Bros. Discovery in a Hollywood mega-merger that would unite some of the nation's largest movie studios and TV newsrooms. (Image credit: Bloomberg via Getty Images).",
+      "date": "2026-07-13"
+    },
+    {
+      "title": "12 states sue to block Paramount-Warner Bros. Discovery merger",
+      "summary": "The suit poses a new challenge to the $110 billion deal that would unite two of the nation.",
+      "date": "2026-07-13"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Judge puts temporary pause on Paramount-Warner merger",
+      "url": "https://www.nbcnews.com/business/media/judge-puts-temporary-pause-paramount-warner-bros-merger-rcna587804?utm_source=lootura.com",
+      "publishedAt": "2026-07-20T17:01:36.000Z",
+      "sourceId": "lootura-us-nbc-news"
+    },
+    {
+      "title": "Judge says Paramount and Warner Bros. must halt merger for at least 2 weeks as states challenge deal",
+      "url": "https://www.pbs.org/newshour/nation/judge-says-paramount-and-warner-bros-must-halt-merger-for-at-least-2-weeks-as-states-challenge-deal?utm_source=lootura.com",
+      "publishedAt": "2026-07-20T17:41:03.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
+    }
+  ],
+  "evidenceCount": 3
+}

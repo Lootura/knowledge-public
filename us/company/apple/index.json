@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/company/apple/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/company/apple/index.json",
   "description": "Follow Apple, a tracked company, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-16T17:13:33.353Z",
+  "updatedAt": "2026-07-20T18:00:06.130Z",
   "aliases": [
     "Apple Inc"
   ],
@@ -39,6 +39,13 @@
       "date": "2026-07-13"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "A.I. ‘Vibecoded’ Apps Are Flooding Apple’s App Store",
+      "url": "https://www.nytimes.com/2026/07/20/technology/apple-app-store-vibecoding.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-20T14:02:31.000Z",
+      "sourceId": "lootura-us-the-new-york-times"
+    }
+  ],
+  "evidenceCount": 1
 }

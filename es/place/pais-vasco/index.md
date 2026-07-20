@@ -3,7 +3,7 @@
 > Sigue la actividad de País Vasco en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-20T14:00:22.171Z
+- Actualizado: 2026-07-20T17:59:39.360Z
 - Canonical: https://atlas.lootura.com/es/place/pais-vasco
 
 ## Cambios recientes
@@ -17,6 +17,12 @@ Date: 2026-07-20
 ### Reconstrucción de los ataques violentos a los seguidores de La Roja
 
 Los radicales comenzaron los altercados a las siete de la tarde, con la manifestación a favor de la selección de Euskadi.
+
+Date: 2026-07-20
+
+### ¿Noticias locales? Cuando los chatbots solo reproducen el contenido de los grandes medios nacionales
+
+EduBFoto/Shutterstock Pregúntele a un chatbot qué ha pasado hoy en su ciudad. Con toda probabilidad, la respuesta no mencionará al periódico que cubre el barrio donde vive, sino a las grandes cabeceras de ámbito estatal. Eso es lo que ha comprobado una investigación de la Universidad del País Vasco (EHU), que ha analiz.
 
 Date: 2026-07-20
 
@@ -62,13 +68,8 @@ La factura total de los hogares alcanza los 40.917 euros por el precio de la viv
 
 Date: 2026-07-15
 
-### Euskadi suma 7.000 cotizantes extranjeros en dos meses con la regularización
-
-Su cifra se ha disparado hasta los 114.000 afiliados a la Seguridad Social y representan ocho de cada diez nuevos trabajadores incorporados en el último año.
-
-Date: 2026-07-14
-
 ## Fuentes
 
 - [Reconstrucción de los ataques violentos a los seguidores de La Roja](https://www.elcorreo.com/politica/reconstruccion-ataques-violentos-seguidores-roja-20260720143810-nt.html?utm_source=lootura.com) — 2026-07-20T12:38:10.000Z
 - [Radicales abertzales utilizaron porras extensibles, guantes reforzados y gas pimienta contra los seguidores de 'La Roja'](https://www.elmundo.es/pais-vasco/2026/07/20/6a5de628e85eced23e8b4572.html?utm_source=lootura.com) — 2026-07-20T10:36:14.000Z
+- [¿Noticias locales? Cuando los chatbots solo reproducen el contenido de los grandes medios nacionales](https://theconversation.com/noticias-locales-cuando-los-chatbots-solo-reproducen-el-contenido-de-los-grandes-medios-nacionales-286887?utm_source=lootura.com) — 2026-07-20T16:23:52.000Z

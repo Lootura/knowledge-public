@@ -16,4 +16,4 @@ Date: 2026-07-20
 
 ## Fuentes
 
-- [Más de 3 años de cárcel para el exconsejero andaluz Vallejo y el expresidente de Invercaria](https://www.elconfidencial.com/espana/andalucia/2026-07-20/invercaria-prevaricacion-malversacion-servivation-1tps_4392846/?utm_source=lootura.com) — 2026-07-20T11:16:00.000Z
+No public source links.

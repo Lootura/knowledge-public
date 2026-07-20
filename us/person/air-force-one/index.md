@@ -3,7 +3,7 @@
 > Follow Air Force One, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-07-20T14:00:46.863Z
+- Updated: 2026-07-20T18:00:06.130Z
 - Canonical: https://atlas.lootura.com/us/person/air-force-one
 
 ## Recent changes
@@ -11,6 +11,18 @@
 ### Trump Says New Air Force One Will Be Taken Out of Service to Be ‘Maxed Out’
 
 The Qatari-donated plane has been under scrutiny over whether it is fitted with sufficient defensive capabilities to adequately protect a U.S. president and others traveling on it.
+
+Date: 2026-07-20
+
+### Trump to keep using old Air Force One while new plane gets security upgrades
+
+The new Air Force One "has a lot of capability, but as I understand it, in about a month or so, they're going to send it to have it be maxed out," President Trump said Sunday.
+
+Date: 2026-07-20
+
+### Trump Administration Sought Phone Records of Times Journalists and Their Relatives
+
+The government is aggressively seeking the confidential sources of Times reporters who wrote about the president’s new Air Force One. The Times has asked a judge to quash the subpoenas.
 
 Date: 2026-07-20
 
@@ -56,13 +68,8 @@ Air Force One first entered the public knowledge record with source-backed evide
 
 Date: 2026-07-15
 
-### Subpoenas over New York Times report on Air Force One raise press freedom concerns
-
-Several New York Times reporters were subpoenaed to appear before a federal grand jury after the paper published stories raising security concerns about the new Air Force One. White House correspondent Liz Landers discusses questions the case is raising about freedom of the press with Will Creeley.
-
-Date: 2026-07-15
-
 ## Sources
 
-- [Trump says new Air Force One will be sent away for upgrades, amid security concerns](https://www.nbcnews.com/politics/politics-news/trump-air-force-one-maxed-out-security-qatar-gift-iran-threat-rcna588323?utm_source=lootura.com) — 2026-07-20T08:57:18.000Z
+- [Trump to keep using old Air Force One while new plane gets security upgrades](https://www.cbsnews.com/news/trump-air-force-one-maxed-out-security-capabilities-qatar/?utm_source=lootura.com) — 2026-07-20T17:35:23.000Z
 - [Trump Says New Air Force One Will Be Taken Out of Service to Be ‘Maxed Out’](https://www.nytimes.com/2026/07/19/us/politics/trump-air-force-modifications.html?utm_source=lootura.com) — 2026-07-20T04:06:04.000Z
+- [Trump Administration Sought Phone Records of Times Journalists and Their Relatives](https://www.nytimes.com/2026/07/20/business/media/new-york-times-subpoenas-phone-records.html?utm_source=lootura.com) — 2026-07-20T17:56:41.000Z

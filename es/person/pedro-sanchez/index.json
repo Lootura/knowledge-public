@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/pedro-sanchez/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/pedro-sanchez/index.json",
   "description": "Sigue la actividad de Pedro Sánchez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-20T14:00:22.171Z",
+  "updatedAt": "2026-07-20T17:59:39.360Z",
   "aliases": [
     "Sánchez"
   ],
@@ -16,6 +16,16 @@
     {
       "title": "Pedro Sánchez, Donald Trump y la diplomacia del palco",
       "summary": "Simpatías forzadas entre los presidentes ante la atenta mirada de Infantino y los Reyes de España Leer.",
+      "date": "2026-07-20"
+    },
+    {
+      "title": "Sánchez alardea de Selección después de amagar con no ir a la final: «Inmensas gracias»",
+      "summary": "El presidente recibió a los campeones del mundo en la Moncloa, en un acto amenizado por Ibai Llanos. Borja Iglesias fue el más efusivo en su saludo.",
+      "date": "2026-07-20"
+    },
+    {
+      "title": "Mónico Sánchez, el manchego que democratizó los rayos X",
+      "summary": "Hay vidas que se resumen en una imagen. La de nuestro personaje es la foto en blanco y negro de un joven de 29 años manejando un aparato con un arco eléctrico. A su izquierda puede verse el estand de la General Electric de Edison, y justo detrás, el de la Westinghouse de Tesla. La instantánea está tomada en el Madison.",
       "date": "2026-07-20"
     },
     {
@@ -52,24 +62,20 @@
       "title": "Así funciona la campaña permanente del PP que tiene a Abascal en sus oraciones",
       "summary": "Alberto Núñez Feijóo ha decidido dejar de mirar el calendario de Pedro Sánchez. Aunque nadie sabe cuándo convocará las próximas elecciones generales y el presidente del Gobierno insiste en mantener la incógnita mientras reivindica su intención de agotar la legislatura, el líder del PP ha puesto en marcha una estrategia.",
       "date": "2026-07-20"
-    },
-    {
-      "title": "Pedro Sánchez, Donald Trump y la diplomacia del palco",
-      "summary": "Simpatías forzadas entre los presidentes ante la atenta mirada de Infantino y los Reyes de España Leer.",
-      "date": "2026-07-19"
-    },
-    {
-      "title": "Puigdemont no apoyará los Presupuestos de Sánchez: \"Madrid recibe una sobreinversión que multiplica la de los catalanes\"",
-      "summary": "El expresidente de la Generalitat y líder de Junts, Carles Puigdemont , ha cerrado este domingo la puerta a respaldar unos futuros Presupuestos Generales del Estado mientras el Gobierno de Pedro Sánchez no revierta lo que considera un trato discriminatorio hacia Cataluña en materia de inversión pública. El dirigente in.",
-      "date": "2026-07-19"
     }
   ],
   "sources": [
     {
-      "title": "El juez del caso Leire Díez cita el 5 de agosto al exjefe de gabinete de Sánchez para el clonado de su móvil",
-      "url": "https://www.elconfidencial.com/espana/2026-07-20/caso-leire-diez-serrano-clonado-1tps_4392911/?utm_source=lootura.com",
-      "publishedAt": "2026-07-20T12:41:00.000Z",
-      "sourceId": "lootura-es-el-confidencial"
+      "title": "FOTOGALERÍA | De Zarzuela a Moncloa: así fue la recepción oficial a los jugadores de la Roja",
+      "url": "https://www.20minutos.es/deportes/futbol/mundial/zarzuela-moncloa-asi-fue-recepcion-los-campeones-mundo_7016918_1.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-20T17:37:55.000Z",
+      "sourceId": "lootura-es-20minutos"
+    },
+    {
+      "title": "Sánchez alardea de Selección después de amagar con no ir a la final: «Inmensas gracias»",
+      "url": "https://www.eldebate.com/espana/20260720/sanchez-alardea-seleccion-despues-amagar-no-final-inmensas-gracias_441737.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-20T17:43:51.000Z",
+      "sourceId": "lootura-es-el-debate"
     },
     {
       "title": "Pedro Sánchez, Donald Trump y la diplomacia del palco",
@@ -78,11 +84,11 @@
       "sourceId": "lootura-es-el-mundo"
     },
     {
-      "title": "Vox recurrirá la sentencia que absuelve al hermano de Sánchez de tráfico de influencias",
-      "url": "https://theobjective.com/espana/2026-07-20/vox-sentencia-absuelve-hermano-sanchez-trafico-influencias/?utm_source=lootura.com",
-      "publishedAt": "2026-07-20T12:07:33.000Z",
-      "sourceId": "lootura-es-the-objective"
+      "title": "Mónico Sánchez, el manchego que democratizó los rayos X",
+      "url": "https://theconversation.com/monico-sanchez-el-manchego-que-democratizo-los-rayos-x-285321?utm_source=lootura.com",
+      "publishedAt": "2026-07-20T16:23:57.000Z",
+      "sourceId": "lootura-es-the-conversation-espana"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 4
 }

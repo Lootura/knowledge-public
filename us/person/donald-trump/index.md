@@ -3,10 +3,22 @@
 > Follow Donald Trump, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-07-20T14:00:46.863Z
+- Updated: 2026-07-20T18:00:06.130Z
 - Canonical: https://atlas.lootura.com/us/person/donald-trump
 
 ## Recent changes
+
+### North Sea Drilling Offers First Test for Burnham’s Relationship With Trump
+
+Andy Burnham has not yet met President Trump, but the two men will be expected to speak shortly after Mr. Burnham becomes prime minister.
+
+Date: 2026-07-20
+
+### Trump to keep using old Air Force One while new plane gets security upgrades
+
+The new Air Force One "has a lot of capability, but as I understand it, in about a month or so, they're going to send it to have it be maxed out," President Trump said Sunday.
+
+Date: 2026-07-20
 
 ### U.S. soldier killed in Iraq, Trump orders more strikes against Iran
 
@@ -23,12 +35,6 @@ Date: 2026-07-20
 ### ‘Complete shock and dismay’: scientists unite against Trump’s $1tn grant attack
 
 OMB proposal would upend entire grant-making system – and put vast sums into hands of political appointees It was a late Friday afternoon in Boston when Harvard School of Public Health professor Nancy Krieger, a social epidemiologist, received an email that would reshape the next year of her life. It was from the Natio.
-
-Date: 2026-07-20
-
-### North Sea Drilling Offers First Test for Burnham’s Relationship With Trump
-
-Andy Burnham has not yet met President Trump, but the two men will be expected to speak shortly after Mr. Burnham becomes prime minister.
 
 Date: 2026-07-20
 
@@ -62,15 +68,8 @@ NPR's Ayesha Rascoe talks with NOTUS reporter Jasmine Wright about the growing l
 
 Date: 2026-07-19
 
-### Georgia official discusses Trump's claims about election security
-
-NPR's Ayesha Rascoe talks with Gabriel Sterling, of the Georgia Secretary of State's Office, about President Trump's claims about election security.
-
-Date: 2026-07-19
-
 ## Sources
 
-- [U.S. soldier killed in Iraq, Trump orders more strikes against Iran](https://www.cbsnews.com/video/us-soldier-killed-in-iraq-trump-orders-more-strikes-against-iran/?utm_source=lootura.com) — 2026-07-20T00:50:00.000Z
-- [Trump says new Air Force One will be sent away for upgrades, amid security concerns](https://www.nbcnews.com/politics/politics-news/trump-air-force-one-maxed-out-security-qatar-gift-iran-threat-rcna588323?utm_source=lootura.com) — 2026-07-20T08:57:18.000Z
-- [‘Complete shock and dismay’: scientists unite against Trump’s $1tn grant attack](https://www.theguardian.com/us-news/2026/jul/20/trump-grant-funding-attack-scientists?utm_source=lootura.com) — 2026-07-20T11:00:02.000Z
+- [Pentagon ID's 2 soldiers killed in Iran strike in Jordan; 1 still missing](https://www.cbsnews.com/news/iran-strike-jordan-us-troops-killed/?utm_source=lootura.com) — 2026-07-20T17:15:05.000Z
+- [Trump to keep using old Air Force One while new plane gets security upgrades](https://www.cbsnews.com/news/trump-air-force-one-maxed-out-security-capabilities-qatar/?utm_source=lootura.com) — 2026-07-20T17:35:23.000Z
 - [North Sea Drilling Offers First Test for Burnham’s Relationship With Trump](https://www.nytimes.com/2026/07/20/world/europe/burnham-trump-uk-us-relationship-north-sea-oil.html?utm_source=lootura.com) — 2026-07-20T09:32:27.000Z

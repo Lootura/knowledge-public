@@ -3,7 +3,7 @@
 > Follow United States, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-20T14:00:46.863Z
+- Updated: 2026-07-20T18:00:06.130Z
 - Canonical: https://atlas.lootura.com/us/place/united-states
 
 ## Recent changes
@@ -13,18 +13,6 @@
 We celebrate the United States ahead of its 250th anniversary with stories about American heroes and pastimes. The founder of e.l.f. Cosmetics shares how he made a massive life change to become a Catholic priest.
 
 Date: 2026-07-27
-
-### U.S. soldier killed in Iraq, Trump orders more strikes against Iran
-
-A U.S. service member was killed in Iraq on Saturday, CENTCOM announced. Separately, unidentified remains were found in Jordan at the location where a U.S. service member went missing and two others were killed following an Iranian strike. Taurean Small reports.
-
-Date: 2026-07-20
-
-### The Hello Girls, America's first women soldiers, finally getting their recognition
-
-Hundreds of women served in the U.S. Army Signal Corps during World War I, connecting calls for the Army in France. The women were called the "Hello Girls" and they were among America's first women soldiers. But it took decades for them to be recognized as veterans. Noel Brennan reports.
-
-Date: 2026-07-20
 
 ### Trump Says New Air Force One Will Be Taken Out of Service to Be ‘Maxed Out’
 
@@ -68,15 +56,27 @@ A month ago, drivers were enjoying some relief at the pump after the U.S. and Ir
 
 Date: 2026-07-20
 
+### Tick bites have soared this year. Here's why, and how to protect yourself
+
+Emergency room visits for tick bites are the highest in nearly a decade as ticks spread into new parts of the U.S. CBS News medical correspondent Dr. Celine Gounder explains why we're seeing more ticks, and when a Lyme disease vaccine could be available.
+
+Date: 2026-07-20
+
+### US Fires at Iran After 3 US Service Members Killed in Middle East
+
+The United States is firing back against Iran after the deaths of at least three U.S. service members in the Middle East. The American death toll in the war now stands at 17. NBC’s Keir Simmons reports for TODAY.
+
+Date: 2026-07-20
+
 ## Sources
 
 - [Student loan defaults surging in wake of COVID-tied payments pause expiration](https://www.cbsnews.com/news/student-loan-defaults-surge-covid-tied-payments-pause-expiration/?utm_source=lootura.com) — 2026-07-20T10:09:00.000Z
-- [U.S. soldier killed in Iraq, Trump orders more strikes against Iran](https://www.cbsnews.com/video/us-soldier-killed-in-iraq-trump-orders-more-strikes-against-iran/?utm_source=lootura.com) — 2026-07-20T00:50:00.000Z
 - [The Uplift: The American Dream](https://www.cbsnews.com/video/the-uplift-the-american-dream/?utm_source=lootura.com) — 2026-07-27T10:30:00.000Z
 - [Tick bites have soared this year. Here's why, and how to protect yourself](https://www.cbsnews.com/video/tick-bites-have-soared-this-year-heres-why-and-how-to-protect-yourself/?utm_source=lootura.com) — 2026-07-20T13:34:38.000Z
-- [The Hello Girls, America's first women soldiers, finally getting their recognition](https://www.cbsnews.com/video/the-hello-girls-americas-first-women-soldiers-finally-getting-their-recognition/?utm_source=lootura.com) — 2026-07-20T01:13:11.000Z
+- [How closely linked are gas prices to U.S.-Iran tensions?](https://www.cbsnews.com/video/how-closely-linked-are-gas-prices-to-us-iran-tensions/?utm_source=lootura.com) — 2026-07-20T16:45:00.000Z
 - [US Fires at Iran After 3 US Service Members Killed in Middle East](https://www.today.com/video/three-us-service-members-killed-as-iran-war-escalates-266938949752?utm_source=lootura.com) — 2026-07-20T11:08:52.000Z
 - [Morning news brief](https://www.npr.org/2026/07/20/nx-s1-5895962/morning-news-brief?utm_source=lootura.com) — 2026-07-20T08:43:08.000Z
-- [3 U.S. personnel killed in Iran conflict. And, Hunter Biden opens up to NPR](https://www.npr.org/2026/07/20/g-s1-134553/up-first-newsletter-iran-us-service-members-hunter-biden?utm_source=lootura.com) — 2026-07-20T11:40:28.000Z
-- [How the most widespread parasite on Earth reads its genome](https://phys.org/news/2026-07-widespread-parasite-earth-genome.html?utm_source=lootura.com) — 2026-07-20T13:20:03.000Z
+- [Expansion of U.S. strikes on Iran leads to more retaliation across the Gulf](https://www.pbs.org/newshour/world/expansion-of-u-s-strikes-on-iran-leads-to-more-retaliation-across-the-gulf?utm_source=lootura.com) — 2026-07-20T15:13:21.000Z
 - [Swiss researchers hoard vast trove of NASA climate data](https://phys.org/news/2026-07-swiss-hoard-vast-trove-nasa.html?utm_source=lootura.com) — 2026-07-20T13:50:02.000Z
+- [Oil Prices Cross $90 a Barrel as U.S.-Iran Conflict Widens](https://www.nytimes.com/2026/07/19/business/oil-prices-stocks-gas.html?utm_source=lootura.com) — 2026-07-20T06:33:35.000Z
+- [Rubio Says That U.S. Is Still Open to Diplomacy With Iran](https://www.nytimes.com/2026/07/20/world/middleeast/rubio-us-iran-war-diplomacy.html?utm_source=lootura.com) — 2026-07-20T06:02:46.000Z

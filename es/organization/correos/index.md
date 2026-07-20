@@ -70,4 +70,4 @@ Date: 2026-07-09
 
 ## Fuentes
 
-- [El juez del caso Leire Díez cita el 5 de agosto al exjefe de gabinete de Sánchez para el clonado de su móvil](https://www.elconfidencial.com/espana/2026-07-20/caso-leire-diez-serrano-clonado-1tps_4392911/?utm_source=lootura.com) — 2026-07-20T12:41:00.000Z
+No public source links.

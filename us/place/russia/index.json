@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/russia/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/russia/index.json",
   "description": "Follow Russia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-20T14:00:46.863Z",
+  "updatedAt": "2026-07-20T18:00:06.130Z",
   "aliases": [],
   "changes": [
     {
@@ -19,6 +19,11 @@
     {
       "title": "Putin meets North Korean foreign minister in diplomatic push",
       "summary": "The visit by North Korean Foreign Minister Choe Son Hui comes without an obvious occasion, such as a multilateral diplomatic event or state anniversary, and has raised speculation that she may be coordinating a possible visit to Russia by North Korean leader Kim Jong Un. (Image credit: Alexander Shcherbak).",
+      "date": "2026-07-20"
+    },
+    {
+      "title": "Ukraine fires 400 drones toward Moscow as Zelenskyy grapples with protests",
+      "summary": "The blitz came hours after Russia bombarded Kyiv and other Ukrainian cities with ballistic missiles in a relentless cycle of tit-for-tat strikes.",
       "date": "2026-07-20"
     },
     {
@@ -55,11 +60,6 @@
       "title": "Ukrainian drone attacks on Russia kill at least 8, injure over 60",
       "summary": "Kyiv's forces are continuing their relentless aerial campaign​ against energy infrastructure and military targets inside Russia.",
       "date": "2026-07-18"
-    },
-    {
-      "title": "A Putin critic is convicted on charges that will keep him from campaigning for Russia's parliament",
-      "summary": "The verdict underlined the determination by authorities to stamp out any remaining sign of dissent ahead of September's vote as the fuel crisis caused by Ukrainian strikes on oil facilities across Russia threatened to erode public support for the Kremlin.",
-      "date": "2026-07-17"
     }
   ],
   "sources": [
@@ -74,7 +74,13 @@
       "url": "https://www.npr.org/2026/07/20/g-s1-134555/putin-meets-north-korean-foreign-minister-in-diplomatic-push?utm_source=lootura.com",
       "publishedAt": "2026-07-20T13:18:51.000Z",
       "sourceId": "lootura-us-npr-world"
+    },
+    {
+      "title": "Ukraine fires 400 drones toward Moscow as Zelenskyy grapples with protests",
+      "url": "https://www.pbs.org/newshour/world/ukraine-fires-400-drones-toward-moscow-as-zelenskyy-grapples-with-protests?utm_source=lootura.com",
+      "publishedAt": "2026-07-20T16:36:32.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 3
 }

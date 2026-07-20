@@ -3,7 +3,7 @@
 > Sigue la actividad de Pedro Sánchez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-20T14:00:22.171Z
+- Actualizado: 2026-07-20T17:59:39.360Z
 - Canonical: https://atlas.lootura.com/es/person/pedro-sanchez
 
 ## Cambios recientes
@@ -11,6 +11,18 @@
 ### Pedro Sánchez, Donald Trump y la diplomacia del palco
 
 Simpatías forzadas entre los presidentes ante la atenta mirada de Infantino y los Reyes de España Leer.
+
+Date: 2026-07-20
+
+### Sánchez alardea de Selección después de amagar con no ir a la final: «Inmensas gracias»
+
+El presidente recibió a los campeones del mundo en la Moncloa, en un acto amenizado por Ibai Llanos. Borja Iglesias fue el más efusivo en su saludo.
+
+Date: 2026-07-20
+
+### Mónico Sánchez, el manchego que democratizó los rayos X
+
+Hay vidas que se resumen en una imagen. La de nuestro personaje es la foto en blanco y negro de un joven de 29 años manejando un aparato con un arco eléctrico. A su izquierda puede verse el estand de la General Electric de Edison, y justo detrás, el de la Westinghouse de Tesla. La instantánea está tomada en el Madison.
 
 Date: 2026-07-20
 
@@ -56,20 +68,9 @@ Alberto Núñez Feijóo ha decidido dejar de mirar el calendario de Pedro Sánch
 
 Date: 2026-07-20
 
-### Pedro Sánchez, Donald Trump y la diplomacia del palco
-
-Simpatías forzadas entre los presidentes ante la atenta mirada de Infantino y los Reyes de España Leer.
-
-Date: 2026-07-19
-
-### Puigdemont no apoyará los Presupuestos de Sánchez: "Madrid recibe una sobreinversión que multiplica la de los catalanes"
-
-El expresidente de la Generalitat y líder de Junts, Carles Puigdemont , ha cerrado este domingo la puerta a respaldar unos futuros Presupuestos Generales del Estado mientras el Gobierno de Pedro Sánchez no revierta lo que considera un trato discriminatorio hacia Cataluña en materia de inversión pública. El dirigente in.
-
-Date: 2026-07-19
-
 ## Fuentes
 
-- [El juez del caso Leire Díez cita el 5 de agosto al exjefe de gabinete de Sánchez para el clonado de su móvil](https://www.elconfidencial.com/espana/2026-07-20/caso-leire-diez-serrano-clonado-1tps_4392911/?utm_source=lootura.com) — 2026-07-20T12:41:00.000Z
+- [FOTOGALERÍA | De Zarzuela a Moncloa: así fue la recepción oficial a los jugadores de la Roja](https://www.20minutos.es/deportes/futbol/mundial/zarzuela-moncloa-asi-fue-recepcion-los-campeones-mundo_7016918_1.html?utm_source=lootura.com) — 2026-07-20T17:37:55.000Z
+- [Sánchez alardea de Selección después de amagar con no ir a la final: «Inmensas gracias»](https://www.eldebate.com/espana/20260720/sanchez-alardea-seleccion-despues-amagar-no-final-inmensas-gracias_441737.html?utm_source=lootura.com) — 2026-07-20T17:43:51.000Z
 - [Pedro Sánchez, Donald Trump y la diplomacia del palco](https://www.elmundo.es/deportes/futbol/mundial-de-futbol/2026/07/20/6a5d4ed1e4d4d88d6c8b457a.html?utm_source=lootura.com) — 2026-07-20T06:32:20.000Z
-- [Vox recurrirá la sentencia que absuelve al hermano de Sánchez de tráfico de influencias](https://theobjective.com/espana/2026-07-20/vox-sentencia-absuelve-hermano-sanchez-trafico-influencias/?utm_source=lootura.com) — 2026-07-20T12:07:33.000Z
+- [Mónico Sánchez, el manchego que democratizó los rayos X](https://theconversation.com/monico-sanchez-el-manchego-que-democratizo-los-rayos-x-285321?utm_source=lootura.com) — 2026-07-20T16:23:57.000Z

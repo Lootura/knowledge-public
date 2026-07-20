@@ -3,10 +3,16 @@
 > Sigue la actividad de Venezuela en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-20T06:43:17.611Z
+- Actualizado: 2026-07-20T17:59:39.360Z
 - Canonical: https://atlas.lootura.com/es/place/venezuela
 
 ## Cambios recientes
+
+### Gobernar entre escombros: legitimidad ausente y negociación bajo tutela en Venezuela
+
+Los terremotos del 24 de junio dejaron en Venezuela, según el balance oficial más reciente, 5 119 muertos, 16 740 heridos y 17 907 personas sin vivienda , con 21 470 alojadas en campamentos transitorios. La catástrofe ha puesto en evidencia la incompetencia de las instituciones del Estado para garantizar la gobernabili.
+
+Date: 2026-07-20
 
 ### EEUU pretende seguir ayudando a Venezuela durante cinco años por el doble terremoto
 
@@ -62,12 +68,6 @@ El chavismo y un grupo de exdiputados opositores han abierto una vía de diálog
 
 Date: 2026-07-15
 
-### Trump estrecha el cerco sobre Cuba con sanciones, bloqueo y amenaza militar
-
-Sin grandes anuncios ni gestos solemnes, Donald Trump ha situado a Cuba en el centro de su estrategia de presión máxima en el continente americano. Después de concentrar durante meses su atención en Venezuela e Irán, la Casa Blanca investiga ahora si la isla almacena drones iraníes, y el propio presidente ha advertido.
-
-Date: 2026-07-15
-
 ## Fuentes
 
-No public source links.
+- [Gobernar entre escombros: legitimidad ausente y negociación bajo tutela en Venezuela](https://theconversation.com/gobernar-entre-escombros-legitimidad-ausente-y-negociacion-bajo-tutela-en-venezuela-287742?utm_source=lootura.com) — 2026-07-20T16:42:14.000Z

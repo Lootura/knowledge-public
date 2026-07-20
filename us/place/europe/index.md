@@ -70,4 +70,4 @@ Date: 2026-07-13
 
 ## Sources
 
-- [Greece braces for year's first heat wave](https://phys.org/news/2026-07-greece-braces-year.html?utm_source=lootura.com) — 2026-07-20T09:30:01.000Z
+No public source links.

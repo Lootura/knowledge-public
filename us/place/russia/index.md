@@ -3,7 +3,7 @@
 > Follow Russia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-20T14:00:46.863Z
+- Updated: 2026-07-20T18:00:06.130Z
 - Canonical: https://atlas.lootura.com/us/place/russia
 
 ## Recent changes
@@ -17,6 +17,12 @@ Date: 2026-07-20
 ### Putin meets North Korean foreign minister in diplomatic push
 
 The visit by North Korean Foreign Minister Choe Son Hui comes without an obvious occasion, such as a multilateral diplomatic event or state anniversary, and has raised speculation that she may be coordinating a possible visit to Russia by North Korean leader Kim Jong Un. (Image credit: Alexander Shcherbak).
+
+Date: 2026-07-20
+
+### Ukraine fires 400 drones toward Moscow as Zelenskyy grapples with protests
+
+The blitz came hours after Russia bombarded Kyiv and other Ukrainian cities with ballistic missiles in a relentless cycle of tit-for-tat strikes.
 
 Date: 2026-07-20
 
@@ -62,13 +68,8 @@ Kyiv's forces are continuing their relentless aerial campaign​ against energy 
 
 Date: 2026-07-18
 
-### A Putin critic is convicted on charges that will keep him from campaigning for Russia's parliament
-
-The verdict underlined the determination by authorities to stamp out any remaining sign of dissent ahead of September's vote as the fuel crisis caused by Ukrainian strikes on oil facilities across Russia threatened to erode public support for the Kremlin.
-
-Date: 2026-07-17
-
 ## Sources
 
 - [What it's like inside Ukraine during a massive Russian ballistic missile attack](https://www.cbsnews.com/video/what-its-like-inside-ukraine-during-a-massive-russian-ballistic-missile-attack/?utm_source=lootura.com) — 2026-07-20T13:36:01.000Z
 - [Putin meets North Korean foreign minister in diplomatic push](https://www.npr.org/2026/07/20/g-s1-134555/putin-meets-north-korean-foreign-minister-in-diplomatic-push?utm_source=lootura.com) — 2026-07-20T13:18:51.000Z
+- [Ukraine fires 400 drones toward Moscow as Zelenskyy grapples with protests](https://www.pbs.org/newshour/world/ukraine-fires-400-drones-toward-moscow-as-zelenskyy-grapples-with-protests?utm_source=lootura.com) — 2026-07-20T16:36:32.000Z

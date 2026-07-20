@@ -3,20 +3,26 @@
 > Sigue la actividad de Audiencia Nacional en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-20T14:00:22.171Z
+- Actualizado: 2026-07-20T17:59:39.360Z
 - Canonical: https://atlas.lootura.com/es/organization/audiencia-nacional
 
 ## Cambios recientes
 
-### Plus Ultra y Julito Martínez envían escritos al juez confesando las mediaciones de Zapatero en el rescate de la aerolínea
+### El empresario Julio Martínez señala a Zapatero en el rescate de Plus Ultra: “Era el que marcaba los pasos a seguir”
+
+Cambio de guion en el caso Plus Ultra . El empresario Julio Martínez Martínez, administrador de la consultora Análisis Relevante , epicentro del caso en el que se investigan las supuestas irregularidades en la concesión de una millonaria ayuda pública a la aerolínea, ha presentado un escrito en la Audiencia Nacional en.
+
+Date: 2026-07-20
+
+### Julio Martínez delata a Zapatero y dice que se llevó el 1% por mediar en Plus Ultra
 
 Plus Ultra y Julio Martínez Martínez han enviado sendos escritos a la Audiencia Nacional donde muestran su deseo de colaborar con la Justicia y confiesan que José Luis Rodríguez Zapatero medió en el rescate de la aerolínea, según explican fuentes judiciales a ABC. El pagador del expresidente también detalla que alcanza.
 
 Date: 2026-07-20
 
-### El empresario Julio Martínez señala a Zapatero en el rescate de Plus Ultra: “Era el que marcaba los pasos a seguir”
+### Plus Ultra y Julito Martínez envían escritos al juez confesando las mediaciones de Zapatero en el rescate de la aerolínea
 
-Cambio de guion en el caso Plus Ultra . El empresario Julio Martínez Martínez, administrador de la consultora Análisis Relevante , epicentro del caso en el que se investigan las supuestas irregularidades en la concesión de una millonaria ayuda pública a la aerolínea, ha presentado un escrito en la Audiencia Nacional en.
+Plus Ultra y Julio Martínez Martínez han enviado sendos escritos a la Audiencia Nacional donde muestran su deseo de colaborar con la Justicia y confiesan que José Luis Rodríguez Zapatero medió en el rescate de la aerolínea, según explican fuentes judiciales a ABC. El pagador del expresidente también detalla que alcanza.
 
 Date: 2026-07-20
 
@@ -62,15 +68,7 @@ Date: 2026-07-17
 
 Date: 2026-07-17
 
-### Puente anima a Puigdemont a regresar a España y ser detenido: “Sería un gesto de liderazgo político”
-
-El ministro de Transportes, el socialista Óscar Puente, se ha manifestado este viernes sobre las sentencias del TJUE que la víspera avalaron la amnistía. “Son muy graves, no solo porque ponen de manifiesto el error jurídico en el que incurren el Tribunal Supremo o la Audiencia Nacional a la hora de plantear que la ley.
-
-Date: 2026-07-17
-
 ## Fuentes
 
-- [Plus Ultra y Julito Martínez envían escritos al juez confesando las mediaciones de Zapatero en el rescate de la aerolínea](https://www.abc.es/espana/plus-ultra-julito-martinez-envian-escritos-juez-20260720142541-nt.html?utm_source=lootura.com) — 2026-07-20T13:23:10.000Z
-- [El empresario Julio Martínez señala a Zapatero en el rescate de Plus Ultra: “Era el que marcaba los pasos a seguir”](https://elpais.com/espana/2026-07-20/el-empresario-julio-martinez-senala-a-zapatero-en-el-rescate-de-plus-ultra.html?utm_source=lootura.com) — 2026-07-20T12:24:12.000Z
-- [El juez del caso Leire Díez cita el 5 de agosto al exjefe de gabinete de Sánchez para el clonado de su móvil](https://www.elconfidencial.com/espana/2026-07-20/caso-leire-diez-serrano-clonado-1tps_4392911/?utm_source=lootura.com) — 2026-07-20T12:41:00.000Z
-- [El ‘testaferro’ de Zapatero confiesa al juez que el expresidente medió en el rescate de Plus Ultra](https://theobjective.com/espana/tribunales/2026-07-20/testaferro-zapatero-confiesa-rescate-plus-ultra/?utm_source=lootura.com) — 2026-07-20T12:25:00.000Z
+- [Julio Martínez delata a Zapatero y dice que se llevó el 1% por mediar en Plus Ultra](https://www.abc.es/espana/plus-ultra-julito-martinez-envian-escritos-juez-20260720142541-nt.html?utm_source=lootura.com) — 2026-07-20T17:13:34.000Z
+- [El empresario Julio Martínez señala a Zapatero en el rescate de Plus Ultra: “Era el que marcaba los pasos a seguir”](https://elpais.com/espana/2026-07-20/el-empresario-julio-martinez-senala-a-zapatero-en-el-rescate-de-plus-ultra.html?utm_source=lootura.com) — 2026-07-20T15:06:24.000Z

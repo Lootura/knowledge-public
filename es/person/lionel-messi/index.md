@@ -3,7 +3,7 @@
 > Sigue la actividad de Lionel Messi en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-20T14:00:22.171Z
+- Actualizado: 2026-07-20T17:59:39.360Z
 - Canonical: https://atlas.lootura.com/es/person/lionel-messi
 
 ## Cambios recientes
@@ -70,4 +70,4 @@ Date: 2026-07-16
 
 ## Fuentes
 
-- [La camiseta de las dos estrellas de España se podrá comprar en agosto](https://www.abc.es/summum/estilo/moda/camiseta-dos-estrellas-espana-podra-comprar-agosto-20260720104333-nt.html?utm_source=lootura.com) — 2026-07-20T13:04:06.000Z
+- [Messi se pronuncia por primera vez desde la final y felicita a España de forma escueta](https://okdiario.com/mundial/messi-pronuncia-primera-vez-desde-final-felicita-espana-forma-escueta-19035854/amp?utm_source=lootura.com) — 2026-07-20T17:54:11.000Z
