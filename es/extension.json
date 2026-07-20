@@ -1,15 +1,15 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-20T14:06:24.837Z",
+  "generatedAt": "2026-07-20T15:31:00.143Z",
   "radar": {
     "id": "es",
     "slug": "es",
     "locale": "es"
   },
   "state": {
-    "signature": "1.16.0|37|1784556022171",
+    "signature": "1.16.0|38|1784556022171",
     "version": "1.16.0",
-    "build": 37,
+    "build": 38,
     "latestEntityUpdatedAt": "2026-07-20T14:00:22.171Z"
   },
   "atlas": {
@@ -21,7 +21,7 @@
       "url": "https://atlas.lootura.com/es/person/donald-trump",
       "path": "/es/person/donald-trump",
       "updatedAt": "2026-07-20T14:00:22.171Z",
-      "score": 1616,
+      "score": 1608,
       "sourceCount": 119,
       "isBreaking": false,
       "isPinned": false
@@ -35,7 +35,7 @@
         "url": "https://atlas.lootura.com/es/place/espana",
         "path": "/es/place/espana",
         "updatedAt": "2026-07-20T14:00:22.171Z",
-        "score": 1611,
+        "score": 1605,
         "sourceCount": 412,
         "isBreaking": false,
         "isPinned": false
@@ -48,7 +48,7 @@
         "url": "https://atlas.lootura.com/es/place/madrid",
         "path": "/es/place/madrid",
         "updatedAt": "2026-07-20T14:00:22.171Z",
-        "score": 1563,
+        "score": 1557,
         "sourceCount": 242,
         "isBreaking": false,
         "isPinned": false
@@ -61,7 +61,7 @@
         "url": "https://atlas.lootura.com/es/organization/nueva-york",
         "path": "/es/organization/nueva-york",
         "updatedAt": "2026-07-20T14:00:22.171Z",
-        "score": 1553,
+        "score": 1547,
         "sourceCount": 10,
         "isBreaking": false,
         "isPinned": false
@@ -74,7 +74,7 @@
         "url": "https://atlas.lootura.com/es/organization/audiencia-nacional",
         "path": "/es/organization/audiencia-nacional",
         "updatedAt": "2026-07-20T14:00:22.171Z",
-        "score": 1552,
+        "score": 1544,
         "sourceCount": 20,
         "isBreaking": false,
         "isPinned": false

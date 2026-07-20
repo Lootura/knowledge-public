@@ -62,9 +62,9 @@ Andy Burnham has spoken of Catholicism as part of his cultural identity rather t
 
 Date: 2026-07-20
 
-### Keir Starmer resigns, Andy Burnham to become U.K. prime minister
+### Five of the Main Challenges Awaiting Andy Burnham When He Becomes Prime Minister
 
-In a transition of power presided over by King Charles, Andy Burnham is replacing Keir Starmer as the United Kingdom's prime minister. Both are from the center-left Labour Party. (Image credit: Henry Nicholls).
+Andy Burnham, who is set to enter Downing Street on Monday, faces a long and daunting list of issues. Here are some of the most urgent.
 
 Date: 2026-07-20
 
