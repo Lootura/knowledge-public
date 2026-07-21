@@ -1,0 +1,45 @@
+{
+  "id": "es-oriente-proximo",
+  "name": "Oriente Próximo",
+  "type": "place",
+  "locale": "es",
+  "canonicalPath": "/es/place/oriente-proximo",
+  "canonicalUrl": "https://atlas.lootura.com/es/place/oriente-proximo",
+  "markdownUrl": "https://atlas.lootura.com/es/place/oriente-proximo/index.md",
+  "jsonUrl": "https://atlas.lootura.com/es/place/oriente-proximo/index.json",
+  "description": "Sigue la actividad de Oriente Próximo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
+  "updatedAt": "2026-07-21T10:23:08.875Z",
+  "aliases": [],
+  "changes": [
+    {
+      "title": "El retroceso del petróleo estimula las Bolsas",
+      "summary": "Los inversores luchan con señales contradictorias: las esperanzas de mediación en el conflicto de Oriente Próximo frente a la escalada de ataques de EE UU e Irán en una guerra que ya dura cinco meses. La corrección hoy de los precios del petróleo, que se alejan de máximos de un mes y rondan los 88 dólares, alivia las p.",
+      "date": "2026-07-21"
+    },
+    {
+      "title": "La IA, la guerra en Oriente Próximo y la inflación bloquean el camino a nuevos máximos bursátiles",
+      "summary": "“El dinero nunca duerme”, sentenciaba el codicioso Gordon Gekko en Wall Street (1987). Con Bolsas como las de Nueva York, Nasdaq o Corea del Sur estudiando ampliar sus horarios a imagen y semejanza de los mercados de criptoactivos, la imagen cobra sentido más que nunca, si bien es en periodos estivales como el actual c.",
+      "date": "2026-07-21"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Oriente Próximo first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-07-21"
+    }
+  ],
+  "sources": [
+    {
+      "title": "El retroceso del petróleo estimula las Bolsas",
+      "url": "https://cincodias.elpais.com/mercados-financieros/2026-07-21/la-bolsa-y-el-ibex-35.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-21T04:40:52.000Z",
+      "sourceId": "lootura-es-cinco-dias"
+    },
+    {
+      "title": "La IA, la guerra en Oriente Próximo y la inflación bloquean el camino a nuevos máximos bursátiles",
+      "url": "https://cincodias.elpais.com/mercados-financieros/2026-07-21/la-ia-la-guerra-en-oriente-proximo-y-la-inflacion-bloquean-el-camino-a-nuevos-maximos-bursatiles.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-21T04:08:12.000Z",
+      "sourceId": "lootura-es-cinco-dias"
+    }
+  ],
+  "evidenceCount": 2
+}

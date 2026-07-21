@@ -1,0 +1,32 @@
+{
+  "id": "es-ibai-llanos",
+  "name": "Ibai Llanos",
+  "type": "person",
+  "locale": "es",
+  "canonicalPath": "/es/person/ibai-llanos",
+  "canonicalUrl": "https://atlas.lootura.com/es/person/ibai-llanos",
+  "markdownUrl": "https://atlas.lootura.com/es/person/ibai-llanos/index.md",
+  "jsonUrl": "https://atlas.lootura.com/es/person/ibai-llanos/index.json",
+  "description": "Sigue la actividad de Ibai Llanos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
+  "updatedAt": "2026-07-21T02:27:26.549Z",
+  "aliases": [],
+  "changes": [
+    {
+      "title": "Moncloa cambia el protocolo con la selección: escenario, público y preguntas de Ibai Llanos",
+      "summary": "La Selección española de fútbol, flamante campeona del mundo , ha sido recibida este lunes en el Palacio de la Moncloa por el presidente del Gobierno , Pedro Sánchez , y por el personal del recinto. Lo que suele ser un evento protocolario cerrado y sobrio, ha sido una auténtica fiesta: un escenario en los jardines del.",
+      "date": "2026-07-20"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Ibai Llanos first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-07-20"
+    },
+    {
+      "title": "Sánchez alardea de Selección después de amagar con no ir a la final: «Inmensas gracias»",
+      "summary": "El presidente recibió a los campeones del mundo en la Moncloa, en un acto amenizado por Ibai Llanos. Borja Iglesias fue el más efusivo en su saludo.",
+      "date": "2026-07-20"
+    }
+  ],
+  "sources": [],
+  "evidenceCount": 0
+}

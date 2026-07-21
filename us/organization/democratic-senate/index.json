@@ -1,0 +1,34 @@
+{
+  "id": "usa-democratic-senate",
+  "name": "Democratic Senate",
+  "type": "organization",
+  "locale": "en",
+  "canonicalPath": "/us/organization/democratic-senate",
+  "canonicalUrl": "https://atlas.lootura.com/us/organization/democratic-senate",
+  "markdownUrl": "https://atlas.lootura.com/us/organization/democratic-senate/index.md",
+  "jsonUrl": "https://atlas.lootura.com/us/organization/democratic-senate/index.json",
+  "description": "Follow Democratic Senate, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
+  "updatedAt": "2026-07-21T10:23:35.333Z",
+  "aliases": [],
+  "changes": [
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Democratic Senate first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-07-19"
+    },
+    {
+      "title": "In Maine, Bellows Ends Senate Bid, as Jackson Builds Momentum",
+      "summary": "The Maine secretary of state ended her run in a crowded race to replace Graham Platner as the Democratic Senate nominee.",
+      "date": "2026-07-19"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Troy Jackson set to become Democratic Maine Senate nominee, replacing Platner",
+      "url": "https://www.cbsnews.com/video/troy-jackson-set-to-become-democratic-maine-senate-nominee/?utm_source=lootura.com",
+      "publishedAt": "2026-07-21T01:15:00.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    }
+  ],
+  "evidenceCount": 1
+}

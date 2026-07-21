@@ -1,0 +1,50 @@
+{
+  "id": "es-unai-simon",
+  "name": "Unai Simón",
+  "type": "person",
+  "locale": "es",
+  "canonicalPath": "/es/person/unai-simon",
+  "canonicalUrl": "https://atlas.lootura.com/es/person/unai-simon",
+  "markdownUrl": "https://atlas.lootura.com/es/person/unai-simon/index.md",
+  "jsonUrl": "https://atlas.lootura.com/es/person/unai-simon/index.json",
+  "description": "Sigue la actividad de Unai Simón en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
+  "updatedAt": "2026-07-21T10:23:08.875Z",
+  "aliases": [],
+  "changes": [
+    {
+      "title": "El buen rollito de Unai Simón con la 'periodista de los puñitos' y el destino final de la txapela del Athletic",
+      "summary": "El portero rojiblanco y Elena G. Durán, reportera de DAZN, volvieron a encontrarse en la celebración del título por las calles de Madrid.",
+      "date": "2026-07-21"
+    },
+    {
+      "title": "La reacción de Unai Simón cuando Zubimendi le ofrece besar la bandera de la Real Sociedad",
+      "summary": "El jugador del equipo txuriurdin no ha dudado en darse dos palmadas en el pecho tras ese gesto.",
+      "date": "2026-07-20"
+    },
+    {
+      "title": "Repaso de España a Argentina, la vigente campeona del mundo",
+      "summary": "En el tiempo reglamentario no hemos visto a Unai Simón, mientras que el Dibu Martínez ha tenido que intervenir hasta en 10 ocasiones, 12 contando la prórroga.",
+      "date": "2026-07-20"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Unai Simón first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-07-19"
+    }
+  ],
+  "sources": [
+    {
+      "title": "El buen rollito de Unai Simón con la 'periodista de los puñitos' y el destino final de la txapela del Athletic",
+      "url": "https://www.elcorreo.com/deportes/futbol/mundial/buen-rollito-unai-simon-periodista-punitos-destino-20260721082157-nt_amp.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-21T06:21:57.000Z",
+      "sourceId": "lootura-es-el-correo"
+    },
+    {
+      "title": "La reacción de Unai Simón cuando Zubimendi le ofrece besar la bandera de la Real Sociedad",
+      "url": "https://www.elcorreo.com/deportes/futbol/mundial/reaccion-unai-simon-zubimendi-ofrece-besar-bandera-20260720225658-nt_amp.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-20T20:56:58.000Z",
+      "sourceId": "lootura-es-el-correo"
+    }
+  ],
+  "evidenceCount": 2
+}

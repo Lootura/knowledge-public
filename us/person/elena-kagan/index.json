@@ -1,0 +1,37 @@
+{
+  "id": "usa-elena-kagan",
+  "name": "Elena Kagan",
+  "type": "person",
+  "locale": "en",
+  "canonicalPath": "/us/person/elena-kagan",
+  "canonicalUrl": "https://atlas.lootura.com/us/person/elena-kagan",
+  "markdownUrl": "https://atlas.lootura.com/us/person/elena-kagan/index.md",
+  "jsonUrl": "https://atlas.lootura.com/us/person/elena-kagan/index.json",
+  "description": "Follow Elena Kagan, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
+  "updatedAt": "2026-07-15T20:58:15.661Z",
+  "aliases": [],
+  "changes": [
+    {
+      "title": "Funding milestone detected",
+      "summary": "Supreme Court Justices Elena Kagan and Amy Coney Barrett spoke with lawmakers about funding for security and other needs for the court on Tuesday. (Image credit: Anna Moneymaker).",
+      "date": "2026-07-15"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Elena Kagan first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-07-14"
+    },
+    {
+      "title": "Takeaways From Justices Kagan and Barrett’s Congressional Testimony on Supreme Court Security",
+      "summary": "and Amy Coney Barrett, the first Supreme Court justices to testify since 2019, talked about ethics and security threats during a collegial hearing.",
+      "date": "2026-07-14"
+    },
+    {
+      "title": "Funding milestone detected",
+      "summary": "Supreme Court Justices Elena Kagan and Amy Coney Barrett testified before Congress as the nation's highest court looks to increase security funding in the wake of threats. It's the first time Supreme Court justices have appeared before Congress since 2019. Congressional correspondent Lisa Desjardins reports.",
+      "date": "2026-07-14"
+    }
+  ],
+  "sources": [],
+  "evidenceCount": 0
+}

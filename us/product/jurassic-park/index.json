@@ -1,0 +1,32 @@
+{
+  "id": "usa-jurassic-park",
+  "name": "Jurassic Park",
+  "type": "product",
+  "locale": "en",
+  "canonicalPath": "/us/product/jurassic-park",
+  "canonicalUrl": "https://atlas.lootura.com/us/product/jurassic-park",
+  "markdownUrl": "https://atlas.lootura.com/us/product/jurassic-park/index.md",
+  "jsonUrl": "https://atlas.lootura.com/us/product/jurassic-park/index.json",
+  "description": "Follow Jurassic Park, a tracked product, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
+  "updatedAt": "2026-07-18T06:03:03.575Z",
+  "aliases": [],
+  "changes": [
+    {
+      "title": "What will the Pentagon begin screening 'war fighters' for? The quiz knows",
+      "summary": "Plus: Jurassic Park , U.K. politics, conspiracy theories, Pete Hegseth and numismatics.",
+      "date": "2026-07-17"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Jurassic Park first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-07-17"
+    },
+    {
+      "title": "'Jurassic Park' star Sam Neill died from pneumonia, agent says",
+      "summary": "Actor Sam Neill died from pneumonia and will be honored at a private family memorial at his New Zealand farm later, his agent told The Associated Press on Thursday.",
+      "date": "2026-07-16"
+    }
+  ],
+  "sources": [],
+  "evidenceCount": 0
+}

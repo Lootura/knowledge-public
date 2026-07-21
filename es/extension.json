@@ -1,58 +1,32 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-21T11:17:00.235Z",
+  "generatedAt": "2026-07-21T12:46:09.589Z",
   "radar": {
     "id": "es",
     "slug": "es",
     "locale": "es"
   },
   "state": {
-    "signature": "1.17.0|4|1784629388875",
+    "signature": "1.17.0|9|1784629388875",
     "version": "1.17.0",
-    "build": 4,
+    "build": 9,
     "latestEntityUpdatedAt": "2026-07-21T10:23:08.875Z"
   },
   "atlas": {
     "hero": {
-      "id": "es-julio-martinez",
-      "name": "Julio Martínez",
+      "id": "es-rodriguez-zapatero",
+      "name": "José Luis Rodríguez Zapatero",
       "type": "person",
-      "title": "Las tres incongruencias de Zapatero, al descubierto tras la confesión de Julio Martínez y el presidente de Plus Ultra",
-      "url": "https://atlas.lootura.com/es/person/julio-martinez",
-      "path": "/es/person/julio-martinez",
+      "title": "Sumar sentencia a Zapatero y pide a Sánchez explicaciones sobre el rescate de Plus Ultra",
+      "url": "https://atlas.lootura.com/es/person/rodriguez-zapatero",
+      "path": "/es/person/rodriguez-zapatero",
       "updatedAt": "2026-07-21T10:23:08.875Z",
-      "score": 1606,
-      "sourceCount": 13,
+      "score": 1723,
+      "sourceCount": 11,
       "isBreaking": false,
       "isPinned": false
     },
     "cards": [
-      {
-        "id": "es-plus-ultra",
-        "name": "Plus Ultra",
-        "type": "person",
-        "title": "Sumar sentencia a Zapatero y pide a Sánchez explicaciones sobre el rescate de Plus Ultra",
-        "url": "https://atlas.lootura.com/es/person/plus-ultra",
-        "path": "/es/person/plus-ultra",
-        "updatedAt": "2026-07-21T10:23:08.875Z",
-        "score": 1594,
-        "sourceCount": 12,
-        "isBreaking": false,
-        "isPinned": false
-      },
-      {
-        "id": "es-jose-luis-rodriguez",
-        "name": "José Luis Rodríguez",
-        "type": "person",
-        "title": "Las tres incongruencias de Zapatero, al descubierto tras la confesión de Julio Martínez y el presidente de Plus Ultra",
-        "url": "https://atlas.lootura.com/es/person/jose-luis-rodriguez",
-        "path": "/es/person/jose-luis-rodriguez",
-        "updatedAt": "2026-07-21T10:23:08.875Z",
-        "score": 1587,
-        "sourceCount": 9,
-        "isBreaking": false,
-        "isPinned": false
-      },
       {
         "id": "es-audiencia-nacional",
         "name": "Audiencia Nacional",
@@ -61,7 +35,7 @@
         "url": "https://atlas.lootura.com/es/organization/audiencia-nacional",
         "path": "/es/organization/audiencia-nacional",
         "updatedAt": "2026-07-21T10:23:08.875Z",
-        "score": 1551,
+        "score": 1663,
         "sourceCount": 23,
         "isBreaking": false,
         "isPinned": false
@@ -74,12 +48,38 @@
         "url": "https://atlas.lootura.com/es/person/pedro-sanchez",
         "path": "/es/person/pedro-sanchez",
         "updatedAt": "2026-07-21T10:23:08.875Z",
-        "score": 1527,
+        "score": 1639,
         "sourceCount": 192,
+        "isBreaking": false,
+        "isPinned": false
+      },
+      {
+        "id": "es-espana",
+        "name": "España",
+        "type": "place",
+        "title": "El ascenso meteórico de Pau Cubarsí, el muro tranquilo de España",
+        "url": "https://atlas.lootura.com/es/place/espana",
+        "path": "/es/place/espana",
+        "updatedAt": "2026-07-21T10:23:08.875Z",
+        "score": 1630,
+        "sourceCount": 429,
+        "isBreaking": false,
+        "isPinned": false
+      },
+      {
+        "id": "es-ferran-torres",
+        "name": "Ferran Torres",
+        "type": "person",
+        "title": "Sumar llama «especulador» a Ferran Torres y le acusa de tener un «fondo buitre» por invertir 7 millones de euros",
+        "url": "https://atlas.lootura.com/es/person/ferran-torres",
+        "path": "/es/person/ferran-torres",
+        "updatedAt": "2026-07-21T10:23:08.875Z",
+        "score": 1625,
+        "sourceCount": 7,
         "isBreaking": false,
         "isPinned": false
       }
     ],
-    "publicEntityCount": 52
+    "publicEntityCount": 74
   }
 }

@@ -1,0 +1,49 @@
+{
+  "id": "es-nueva-jersey",
+  "name": "Nueva Jersey",
+  "type": "place",
+  "locale": "es",
+  "canonicalPath": "/es/place/nueva-jersey",
+  "canonicalUrl": "https://atlas.lootura.com/es/place/nueva-jersey",
+  "markdownUrl": "https://atlas.lootura.com/es/place/nueva-jersey/index.md",
+  "jsonUrl": "https://atlas.lootura.com/es/place/nueva-jersey/index.json",
+  "description": "Sigue la actividad de Nueva Jersey en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
+  "updatedAt": "2026-07-21T10:23:08.875Z",
+  "aliases": [],
+  "changes": [
+    {
+      "title": "De Keyne, el hermano de Lamine Yamal, a la familia numerosa de Cucurella: los apoyos de los jugadores de la selección española fuera del campo",
+      "summary": "El césped del MetLife Stadium de Nueva Jersey se convirtió este domingo en el escenario de emotivos encuentros de los futbolistas con sus familiares y amigos después de proclamarse campeones del mundo. Algunos posaron con ellos en persona, otros siempre se acuerdan de ellos en sus declaraciones.",
+      "date": "2026-07-20"
+    },
+    {
+      "title": "La Primera de Expansión sobre la victoria de La Roja, Amancio Ortega, Burnham y CaixaBank",
+      "summary": "La Roja bordó ayer su segunda estrella frente a Argentina y se se coronó campeona del Mundo en Nueva Jersey.",
+      "date": "2026-07-20"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Nueva Jersey first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-07-19"
+    },
+    {
+      "title": "Lamine emula a Pelé y niega a Messi",
+      "summary": "En el estado de Nueva Jersey convergieron el pasado y el presente del fútbol con su futuro más inmediato. Es decir, Lionel Messi y Lamine Yamal. Lo hicieron nada menos que en la final de la Copa del Mundo. La primera entre dos países con una historia tan entrelazada como futbolera. Seguir leyendo.",
+      "date": "2026-07-19"
+    },
+    {
+      "title": "El último paso para alcanzar la segunda estrella",
+      "summary": "España necesita volver a ofrecer su mejor versión para superar a una Argentina con la piel durísima y que dominará en las gradas de Nueva Jersey.",
+      "date": "2026-07-18"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Madrid ruge con la segunda estrella de España",
+      "url": "https://elpais.com/deportes/mundial-futbol/2026-07-20/madrid-ruge-con-la-segunda-estrella-de-espana.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-20T22:02:45.000Z",
+      "sourceId": "lootura-es-el-pais"
+    }
+  ],
+  "evidenceCount": 0
+}
