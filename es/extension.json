@@ -1,15 +1,15 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-21T02:32:36.230Z",
+  "generatedAt": "2026-07-21T04:47:19.996Z",
   "radar": {
     "id": "es",
     "slug": "es",
     "locale": "es"
   },
   "state": {
-    "signature": "1.16.1|6|1784600846549",
+    "signature": "1.16.1|7|1784600846549",
     "version": "1.16.1",
-    "build": 6,
+    "build": 7,
     "latestEntityUpdatedAt": "2026-07-21T02:27:26.549Z"
   },
   "atlas": {
@@ -21,7 +21,7 @@
       "url": "https://atlas.lootura.com/es/place/united-states",
       "path": "/es/place/united-states",
       "updatedAt": "2026-07-21T02:27:26.549Z",
-      "score": 1575,
+      "score": 1562,
       "sourceCount": 125,
       "isBreaking": false,
       "isPinned": false
@@ -35,7 +35,7 @@
         "url": "https://atlas.lootura.com/es/place/espana",
         "path": "/es/place/espana",
         "updatedAt": "2026-07-21T02:27:26.549Z",
-        "score": 1551,
+        "score": 1538,
         "sourceCount": 418,
         "isBreaking": false,
         "isPinned": false
@@ -48,7 +48,7 @@
         "url": "https://atlas.lootura.com/es/place/madrid",
         "path": "/es/place/madrid",
         "updatedAt": "2026-07-21T02:27:26.549Z",
-        "score": 1551,
+        "score": 1538,
         "sourceCount": 250,
         "isBreaking": false,
         "isPinned": false
@@ -61,7 +61,7 @@
         "url": "https://atlas.lootura.com/es/organization/ferran-torres",
         "path": "/es/organization/ferran-torres",
         "updatedAt": "2026-07-21T02:27:26.549Z",
-        "score": 1523,
+        "score": 1510,
         "sourceCount": 5,
         "isBreaking": false,
         "isPinned": false
@@ -74,7 +74,7 @@
         "url": "https://atlas.lootura.com/es/person/julio-martinez",
         "path": "/es/person/julio-martinez",
         "updatedAt": "2026-07-21T02:27:26.549Z",
-        "score": 1520,
+        "score": 1508,
         "sourceCount": 8,
         "isBreaking": false,
         "isPinned": false
