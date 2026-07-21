@@ -8,16 +8,16 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/pais-vasco/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/pais-vasco/index.json",
   "description": "Sigue la actividad de País Vasco en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-21T02:27:26.549Z",
+  "updatedAt": "2026-07-21T06:26:04.171Z",
   "aliases": [
     "Basque Country",
     "Euskadi"
   ],
   "changes": [
     {
-      "title": "Radicales abertzales utilizaron porras extensibles, guantes reforzados y gas pimienta contra los seguidores de 'La Roja'",
-      "summary": "Convocados en las marchas por la 'Euskal Selekzioa' eligieron a sus víctimas por llevar la camiseta de España en Bilbao y Vitoria. Miembros de las juventudes de la izquierda abertzale y de GKS participaron en los incidentes en Euskadi y Navarra Leer.",
-      "date": "2026-07-20"
+      "title": "Tiene cuatro días para recorrer Vizcaya y termina realizando el mejor itinerario posible: \"Es un viaje que se puede cerrar por todo lo alto\"",
+      "summary": "Vizcaya se ha consolidado en los últimos años como uno de los destinos más completos del norte de España. Costa, montaña, pueblos con historia, gastronomía y algunos de los paisajes más reconocibles del País Vasco convierten a este territorio en una opción cada vez más popular entre quienes buscan una escapada de vario.",
+      "date": "2026-07-21"
     },
     {
       "title": "Reconstrucción de los ataques violentos a los seguidores de La Roja",
@@ -73,10 +73,10 @@
       "sourceId": "lootura-es-el-correo"
     },
     {
-      "title": "Radicales abertzales utilizaron porras extensibles, guantes reforzados y gas pimienta contra los seguidores de 'La Roja'",
-      "url": "https://www.elmundo.es/pais-vasco/2026/07/20/6a5de628e85eced23e8b4572.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-20T10:36:14.000Z",
-      "sourceId": "lootura-es-el-mundo"
+      "title": "Tiene cuatro días para recorrer Vizcaya y termina realizando el mejor itinerario posible: \"Es un viaje que se puede cerrar por todo lo alto\"",
+      "url": "https://www.larazon.es/pais-vasco/tiene-cuatro-dias-recorrer-vizcaya-termina-realizando-mejor-itinerario-posible-viaje-puede-cerrar-todo-alto-b30m_202607216a5f0afce3eb0b64aa4ae862.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-21T06:00:28.000Z",
+      "sourceId": "lootura-es-la-razon"
     }
   ],
   "evidenceCount": 2

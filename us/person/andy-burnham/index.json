@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/andy-burnham/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/andy-burnham/index.json",
   "description": "Follow Andy Burnham, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-21T02:27:47.058Z",
+  "updatedAt": "2026-07-21T06:26:28.839Z",
   "aliases": [],
   "changes": [
     {
@@ -37,6 +37,11 @@
       "date": "2026-07-20"
     },
     {
+      "title": "Andy Burnham, New UK Prime Minister, Names John Healey As Top Finance Official",
+      "summary": "As chancellor, John Healey, who quit as defense secretary in the former government, will fill one of the most consequential posts, overseeing fiscal and economic policy.",
+      "date": "2026-07-20"
+    },
+    {
       "title": "How Andy Burnham Becomes Britain’s New Prime Minister",
       "summary": "Andy Burnham is set to become the next prime minister on Monday. Here’s how everything is expected to play out.",
       "date": "2026-07-20"
@@ -54,11 +59,6 @@
     {
       "title": "Why Britain is getting a new prime minister without a general election",
       "summary": "Veteran Labour Party politician Andy Burnham has become Britain's new prime minister He takes over from Keir Starmer, who announced his resignation last month.",
-      "date": "2026-07-20"
-    },
-    {
-      "title": "Andy Burnham: The likely next U.K. prime minister",
-      "summary": "Britain gets a new prime minister Monday and it's likely to be Andy Burnham, a self-declared socialist. Leigh Kiniry reports.",
       "date": "2026-07-20"
     }
   ],
@@ -92,7 +92,13 @@
       "url": "https://www.nytimes.com/2026/07/20/world/europe/burnham-trump-uk-us-relationship-north-sea-oil.html?utm_source=lootura.com",
       "publishedAt": "2026-07-20T09:32:27.000Z",
       "sourceId": "lootura-us-the-new-york-times"
+    },
+    {
+      "title": "Andy Burnham, New UK Prime Minister, Names John Healey As Top Finance Official",
+      "url": "https://www.nytimes.com/2026/07/20/business/andy-burnham-john-healey.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-20T18:57:41.000Z",
+      "sourceId": "lootura-us-the-new-york-times"
     }
   ],
-  "evidenceCount": 5
+  "evidenceCount": 6
 }

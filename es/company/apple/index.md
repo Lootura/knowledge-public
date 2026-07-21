@@ -70,4 +70,4 @@ Date: 2026-07-15
 
 ## Fuentes
 
-- [Samsung sigue los pasos de Apple y lanza su propia tarjeta de crédito con hasta un 5% de devolución](https://www.larazon.es/tecnologia-consumo/samsung/samsung-sigue-pasos-apple-lanza-su-propia-tarjeta-credito-5-devolucion_202607216a5eb991303ca6202cc25981.html?utm_source=lootura.com) — 2026-07-21T01:00:00.000Z
+No public source links.

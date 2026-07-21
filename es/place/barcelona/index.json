@@ -8,9 +8,14 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/barcelona/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/barcelona/index.json",
   "description": "Sigue la actividad de Barcelona en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-20T10:49:30.114Z",
+  "updatedAt": "2026-07-21T06:26:04.171Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "Ferran Torres, como símbolo del secreto de Luis de la Fuente",
+      "summary": "A Ferran Torres parecía que lo había devorado el meme. No importaba que hubiera terminado la temporada como uno de los goleadores del Barcelona ni que todos sus entrenadores hubieran confiado en él. Guardiola contó con él en el City. Xavi Hernández y Hansi Flick lo mimaron en el Camp Nou. Lo mismo ocurrió en la selecci.",
+      "date": "2026-07-21"
+    },
     {
       "title": "¿Qué aprendimos del 18 de julio?",
       "summary": "«A pesar de todo lo que se hace para destruirla, España subsiste», declaró Manuel Azaña el 18 de julio de 1938, justo dos años después del inicio de la Guerra Civil en su famoso discurso 'Paz, piedad y perdón'. Pronunciado en Barcelona, el objetivo del presidente de la República era la reconciliación, lograr la mediaci.",
@@ -55,13 +60,15 @@
       "title": "El Barcelona disputará un triangular de amistosos el 8 de agosto en Italia",
       "summary": "El Barcelona sigue ampliando su lista de amistosos para la pretemporada 26/27 que desde el pasado lunes ya está en marcha en la Ciudad Deportiva Joan Gamper. El equipo blaugrana disputará dos amistosos en Italia el próximo 8 de agosto en un triangular ante Udinese y Nottingham Forest . Lo hará tras su stage en Reino Un.",
       "date": "2026-07-17"
-    },
-    {
-      "title": "Ubisoft celebra el éxito del nuevo videojuego de 'Assasin's Creed' y deja fuera a 51 de sus creadores en Barcelona",
-      "summary": "Quienes trabajaron en Ubisoft Barcelona durante los últimos tres años comparten un mismo recuerdo: una convocatoria inesperada, un correo enviado con urgencia y una sala llena de empleados que sospechaban que algo no iba bien antes de que nadie pronunciara una palabra. El 10 de junio, la dirección reunió a la plantilla.",
-      "date": "2026-07-17"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Ferran Torres, como símbolo del secreto de Luis de la Fuente",
+      "url": "https://elpais.com/deportes/mundial-futbol/2026-07-21/ferran-torres-como-simbolo-del-secreto-de-luis-de-la-fuente.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-21T03:30:01.000Z",
+      "sourceId": "lootura-es-el-pais"
+    }
+  ],
+  "evidenceCount": 1
 }

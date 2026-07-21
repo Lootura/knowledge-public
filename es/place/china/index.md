@@ -3,7 +3,7 @@
 > Sigue la actividad de China en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-20T14:00:22.171Z
+- Actualizado: 2026-07-21T06:26:04.171Z
 - Canonical: https://atlas.lootura.com/es/place/china
 
 ## Cambios recientes
@@ -70,4 +70,4 @@ Date: 2026-07-17
 
 ## Fuentes
 
-No public source links.
+- [La Primera de Expansión sobre Holaluz, BCE, Mundial de Fútbol, Sabadell, Samsung, China y la IA](https://www.expansion.com/podcasts/la-primera-de-expansion/2026/07/21/6a5efc86468aeb7a708b4575.html?utm_source=lootura.com) — 2026-07-21T05:25:37.000Z

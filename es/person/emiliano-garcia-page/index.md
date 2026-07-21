@@ -34,4 +34,4 @@ Date: 2026-07-18
 
 ## Fuentes
 
-- [El incendio de La Mierla (Guadalajara) sigue fuera de control y obliga a evacuar Barcones en Soria](https://okdiario.com/actualidad/incendio-mierla-guadalajara-sigue-fuera-control-obliga-evacuar-barcones-soria-19036396/amp?utm_source=lootura.com) — 2026-07-20T21:09:17.000Z
+No public source links.

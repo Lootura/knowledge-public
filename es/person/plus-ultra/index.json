@@ -1,0 +1,104 @@
+{
+  "id": "es-plus-ultra",
+  "name": "Plus Ultra",
+  "type": "person",
+  "locale": "es",
+  "canonicalPath": "/es/person/plus-ultra",
+  "canonicalUrl": "https://atlas.lootura.com/es/person/plus-ultra",
+  "markdownUrl": "https://atlas.lootura.com/es/person/plus-ultra/index.md",
+  "jsonUrl": "https://atlas.lootura.com/es/person/plus-ultra/index.json",
+  "description": "Sigue la actividad de Plus Ultra en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
+  "updatedAt": "2026-07-21T06:26:04.171Z",
+  "aliases": [],
+  "changes": [
+    {
+      "title": "Julio Martínez delata a Zapatero y dice que se llevó el 1% por mediar en Plus Ultra",
+      "summary": "Plus Ultra y Julio Martínez Martínez han enviado sendos escritos a la Audiencia Nacional donde muestran su deseo de colaborar con la justicia y confiesan que José Luis Rodríguez Zapatero medió en el rescate de la aerolínea, según explican fuentes judiciales a ABC. El pagador del expresidente también detalla que alcanza.",
+      "date": "2026-07-21"
+    },
+    {
+      "title": "Plus Ultra sitúa el primer contacto con Zapatero casi un año antes del rescate de la aerolínea",
+      "summary": "La aerolínea Plus Ultra, rescatada con dinero público durante la crisis del Covid-19, pidió la intermediación del empresario Julio Martínez Martínez, administrador de la firma Análisis Relevante, y de su íntimo amigo el expresidente del Gobierno, José Luis Rodríguez Zapatero , para solicitar y acelerar la ayuda de 53 m.",
+      "date": "2026-07-21"
+    },
+    {
+      "title": "La ‘vía Aldama’ se abre paso en el ‘caso Zapatero’: los empresarios desmontan la defensa del expresidente",
+      "summary": "Los empresarios Julio Martínez Martínez, administrador de Análisis Relevante, y Julio Martínez Sola y Roberto Roselli, presidente y actual consejero delegado de la compañía aérea Plus Ultra, empezaron a recorrer este lunes la vía Aldama , el camino que llevó al principal comisionista del caso Koldo a beneficiarse de un.",
+      "date": "2026-07-21"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Plus Ultra first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-07-20"
+    },
+    {
+      "title": "La 'mordida' del 1% que lo reventó todo",
+      "summary": "Los dirigentes de Plus Ultra y el amigo de Zapatero confiesan el pago por el rescate desvelado por EL MUNDO que siempre negaron arrastrado por el 'efecto Aldama' Leer.",
+      "date": "2026-07-20"
+    },
+    {
+      "title": "El socio de Zapatero logró aplazar una deuda de Plus Ultra con la petrolera venezolana PDVSA",
+      "summary": "El empresario Julio Martínez Martínez, presunto testaferro del ex presidente del Gobierno José Luis Rodríguez Zapatero, también desempeñó labores para la aerolínea Plus...",
+      "date": "2026-07-20"
+    },
+    {
+      "title": "La confesión del empresario Julio Martínez y los directivos de Plus Ultra destruye la estrategia de defensa de Zapatero",
+      "summary": "Las confesiones del presunto testaferro de José Luis Rodríguez Zapatero y de los directivos de la aerolínea Plus Ultra dejan herida de muerte la estrategia de defensa del ex...",
+      "date": "2026-07-20"
+    },
+    {
+      "title": "Julio Martínez delata a Zapatero y dice que se llevó el 1% por mediar en Plus Ultra",
+      "summary": "Plus Ultra y Julio Martínez Martínez han enviado sendos escritos a la Audiencia Nacional donde muestran su deseo de colaborar con la justicia y confiesan que José Luis Rodríguez Zapatero medió en el rescate de la aerolínea, según explican fuentes judiciales a ABC. El pagador del expresidente también detalla que alcanza.",
+      "date": "2026-07-20"
+    },
+    {
+      "title": "El empresario Julio Martínez señala a Zapatero en el rescate de Plus Ultra: “Era el que marcaba los pasos a seguir”",
+      "summary": "Cambio de guion en el caso Plus Ultra . El empresario Julio Martínez Martínez, administrador de la consultora Análisis Relevante , epicentro del caso en el que se investigan las supuestas irregularidades en la concesión de una millonaria ayuda pública a la aerolínea, ha presentado un escrito en la Audiencia Nacional en.",
+      "date": "2026-07-20"
+    },
+    {
+      "title": "Plus Ultra reconoce que pagó 527.417 euros a la trama de Zapatero por informes ficticios",
+      "summary": "El actual presidente de Plus Ultra, Julio Martínez Sola, ha ratificado la confesión del testaferro de José Luis Rodríguez Zapatero de que la trama de.",
+      "date": "2026-07-20"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Julio Martínez delata a Zapatero y dice que se llevó el 1% por mediar en Plus Ultra",
+      "url": "https://www.abc.es/espana/plus-ultra-julito-martinez-envian-escritos-juez-20260720142541-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-21T05:26:54.000Z",
+      "sourceId": "lootura-es-abc"
+    },
+    {
+      "title": "Plus Ultra sitúa el primer contacto con Zapatero casi un año antes del rescate de la aerolínea",
+      "url": "https://elpais.com/espana/2026-07-21/plus-ultra-situa-el-primer-contacto-con-zapatero-casi-un-ano-antes-del-rescate-de-la-aerolinea.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-21T03:30:01.000Z",
+      "sourceId": "lootura-es-cinco-dias"
+    },
+    {
+      "title": "La 'mordida' del 1% que lo reventó todo",
+      "url": "https://www.elmundo.es/espana/2026/07/20/6a5e6e1bfdddff2c708b4596.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-20T20:44:58.000Z",
+      "sourceId": "lootura-es-el-mundo"
+    },
+    {
+      "title": "El socio de Zapatero logró aplazar una deuda de Plus Ultra con la petrolera venezolana PDVSA",
+      "url": "https://amp.elmundo.es/espana/2026/07/20/6a5e7a5f21efa04a6c8b45a5.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-20T20:45:35.000Z",
+      "sourceId": "lootura-es-el-mundo"
+    },
+    {
+      "title": "La confesión del empresario Julio Martínez y los directivos de Plus Ultra destruye la estrategia de defensa de Zapatero",
+      "url": "https://amp.elmundo.es/espana/2026/07/20/6a5e7556e4d4d82f588b45ba.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-20T20:46:48.000Z",
+      "sourceId": "lootura-es-el-mundo"
+    },
+    {
+      "title": "La ‘vía Aldama’ se abre paso en el ‘caso Zapatero’: los empresarios desmontan la defensa del expresidente",
+      "url": "https://elpais.com/espana/2026-07-21/la-via-aldama-se-abre-paso-en-el-caso-zapatero-los-empresarios-contradicen-la-version-que-dio-al-juez.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-21T03:30:01.000Z",
+      "sourceId": "lootura-es-el-pais"
+    }
+  ],
+  "evidenceCount": 6
+}

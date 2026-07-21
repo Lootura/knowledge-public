@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/donald-trump/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/donald-trump/index.json",
   "description": "Follow Donald Trump, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-21T02:27:47.058Z",
+  "updatedAt": "2026-07-21T06:26:28.839Z",
   "aliases": [
     "President Donald Trump",
     "President Trump",
@@ -18,6 +18,11 @@
     {
       "title": "New round of strikes targeting Iran underway, U.S. officials say",
       "summary": "A 10th straight night of U.S. strikes on Iran is underway as President Trump vows Tehran will pay for the deaths of three American soldiers over the weekend. CBS News senior national security correspondent Charlie D'Agata reports. Then, global affairs analyst Jonathan Wachtel joins to discuss the state of the war.",
+      "date": "2026-07-21"
+    },
+    {
+      "title": "Donald Trump to impose 50% tariff on most Canadian goods, White House says",
+      "summary": "Turmoil likely as Trump officials say Canada unfairly discriminated against US autos, alcohol and dairy products Donald Trump is imposing 50% tariffs on most Canadian goods in response to the country retaliating against previous US tariffs, the White House announced Monday, declaring Canada has unfairly discriminated a.",
       "date": "2026-07-21"
     },
     {
@@ -59,11 +64,6 @@
       "title": "Tamara Keith and Jasmine Wright on the political fallout of Trump's address",
       "summary": "NPR's Tamara Keith and Jasmine Wright of NOTUS join Amna Nawaz to discuss the latest political news, including Arizona's primary elections, where Republicans will choose a nominee to challenge the incumbent Democratic governor, Troy Jackson appearing to clinch the Democratic nomination for Senate following Graham Platn.",
       "date": "2026-07-20"
-    },
-    {
-      "title": "Will a Sex Scandal Involving Mark Lamb Matter in Arizona GOP House Primary?",
-      "summary": "The contest in a deeply religious part of the state is a test of the power of a Trump endorsement.",
-      "date": "2026-07-20"
     }
   ],
   "sources": [
@@ -104,16 +104,16 @@
       "sourceId": "lootura-us-pbs-newshour"
     },
     {
+      "title": "Donald Trump to impose 50% tariff on most Canadian goods, White House says",
+      "url": "https://www.theguardian.com/us-news/2026/jul/20/trump-canada-tariffs?utm_source=lootura.com",
+      "publishedAt": "2026-07-21T02:29:47.000Z",
+      "sourceId": "lootura-us-the-guardian-us"
+    },
+    {
       "title": "North Sea Drilling Offers First Test for Burnham’s Relationship With Trump",
       "url": "https://www.nytimes.com/2026/07/20/world/europe/burnham-trump-uk-us-relationship-north-sea-oil.html?utm_source=lootura.com",
       "publishedAt": "2026-07-20T09:32:27.000Z",
       "sourceId": "lootura-us-the-new-york-times"
-    },
-    {
-      "title": "Trump to Impose 50% Tariff on Many Canadian Goods",
-      "url": "https://www.nytimes.com/2026/07/20/business/economy/trump-tariffs-canada.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-21T00:25:52.000Z",
-      "sourceId": "lootura-us-the-new-york-times-politics"
     },
     {
       "title": "Will a Sex Scandal Involving Mark Lamb Matter in Arizona GOP House Primary?",

@@ -8,9 +8,14 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/canada/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/canada/index.json",
   "description": "Follow Canada, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-21T02:27:47.058Z",
+  "updatedAt": "2026-07-21T06:26:28.839Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "Donald Trump to impose 50% tariff on most Canadian goods, White House says",
+      "summary": "Turmoil likely as Trump officials say Canada unfairly discriminated against US autos, alcohol and dairy products Donald Trump is imposing 50% tariffs on most Canadian goods in response to the country retaliating against previous US tariffs, the White House announced Monday, declaring Canada has unfairly discriminated a.",
+      "date": "2026-07-21"
+    },
     {
       "title": "Trump imposes 50% tariffs on dairy, alcohol, and cars from Canada",
       "summary": "The Trump administration imposed 50% tariffs on three categories of imports from Canada, dairy, alcohol, and cars, citing discriminatory actions. NBC News' Monica Alba reports on how Trump is also considering additional tariffs due to the Canadian wildfires.",
@@ -55,11 +60,6 @@
       "title": "Maps show wildfire smoke forecast, air quality alerts in swath of U.S.",
       "summary": "Heavy smoke from several large wildfires blazing in Canada and Minnesota is engulfing large swaths of the Midwest and the U.S. East Coast this week.",
       "date": "2026-07-18"
-    },
-    {
-      "title": "Wildfire smoke from Canada and Minnesota pushes farther into the U.S. and engulfs D.C. in haze",
-      "summary": "Warnings of dangerous conditions were expected to remain in effect through Saturday across a wide swath of the U.S., though there's potential for temporary improvement with storms forecast in some affected areas during the weekend.",
-      "date": "2026-07-18"
     }
   ],
   "sources": [
@@ -68,7 +68,13 @@
       "url": "https://www.nbcnews.com/video/trump-imposes-50-tariffs-on-dairy-alcohol-and-cars-from-canada-266971717891?utm_source=lootura.com",
       "publishedAt": "2026-07-20T21:52:47.000Z",
       "sourceId": "lootura-us-nbc-news-politics"
+    },
+    {
+      "title": "Donald Trump to impose 50% tariff on most Canadian goods, White House says",
+      "url": "https://www.theguardian.com/us-news/2026/jul/20/trump-canada-tariffs?utm_source=lootura.com",
+      "publishedAt": "2026-07-21T02:29:47.000Z",
+      "sourceId": "lootura-us-the-guardian-us"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 2
 }

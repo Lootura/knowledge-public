@@ -3,7 +3,7 @@
 > Follow United States, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-21T02:27:47.058Z
+- Updated: 2026-07-21T06:26:28.839Z
 - Canonical: https://atlas.lootura.com/us/place/united-states
 
 ## Recent changes
@@ -32,6 +32,18 @@ As fighting with Iran ramps up, a gallon of regular gas is once again $4 on aver
 
 Date: 2026-07-21
 
+### Powerball ticket sales begin Tuesday in the United Kingdom
+
+Powerball ticket sales in the United Kingdom will begin Tuesday, giving players across the Atlantic a chance at winning the same massive jackpot that U.S. players already play for. (Image credit: Jenny Kane).
+
+Date: 2026-07-21
+
+### Inside the Deadly U.S. Airstrike on a Shadow Fleet Tanker
+
+Evidence suggests the ship on which three Indian sailors died was not moving when it was struck in the Gulf of Oman, but it had been engaged in risky offshore transfers of oil.
+
+Date: 2026-07-21
+
 ### Trump to Impose 50% Tariff on Many Canadian Goods
 
 The administration will use an untested legal provision to put significant duties on Canadian exports, reigniting a clash with one of America’s biggest trading partners.
@@ -44,12 +56,6 @@ Brent crude, the global benchmark for oil, rose more than 3 percent as trading r
 
 Date: 2026-07-20
 
-### Rubio Says That U.S. Is Still Open to Diplomacy With Iran
-
-Secretary of State Marco Rubio also said that Iran has signaled it wants to negotiate with the United States, even as the two sides escalated their attacks.
-
-Date: 2026-07-20
-
 ### Morning news brief
 
 The U.S. carries out a wave of strikes against Iran, as fighting between the two escalates, Congress faces long to-do list as August recess approaches, Andy Burnham becomes U.K.'s 7th prime minister.
@@ -59,12 +65,6 @@ Date: 2026-07-20
 ### U.S. Service Members Killed as War Expands, and Federal Cases Against Protesters Crumble
 
 Plus, what to know about the next British prime minister.
-
-Date: 2026-07-20
-
-### U.S. Average Gas Price Returns to $4 a Gallon as Iran Crisis Escalates
-
-A month ago, drivers were enjoying some relief at the pump after the U.S. and Iran signed a deal intended to reopen the Strait of Hormuz. Now, prices are rising again.
 
 Date: 2026-07-20
 

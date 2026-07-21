@@ -3,7 +3,7 @@
 > Sigue la actividad de Artificial intelligence en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: topic
-- Actualizado: 2026-07-21T02:27:26.549Z
+- Actualizado: 2026-07-21T06:26:04.171Z
 - Canonical: https://atlas.lootura.com/es/topic/artificial-intelligence
 
 ## Cambios recientes
@@ -40,4 +40,4 @@ Date: 2026-07-10
 
 ## Fuentes
 
-- [TSMC, Samsung y SK Hynix pesan más del 25% en los emergentes](https://www.expansion.com/mercados/2026/07/21/6a5e8f8ee5fdeab7168b4575.html?utm_source=lootura.com) — 2026-07-20T23:10:31.000Z
+- [La otra camiseta de Adidas con dos estrellas de la Selección que puede comprarse hoy](https://www.abc.es/summum/estilo/moda/camiseta-adidas-dos-estrellas-seleccion-puede-comprarse-20260721073421-nt_amp.html?utm_source=lootura.com) — 2026-07-21T05:34:21.000Z

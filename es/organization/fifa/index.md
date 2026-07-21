@@ -3,10 +3,16 @@
 > Sigue la actividad de FIFA en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-21T02:27:26.549Z
+- Actualizado: 2026-07-21T06:26:04.171Z
 - Canonical: https://atlas.lootura.com/es/organization/fifa
 
 ## Cambios recientes
+
+### Argentina se queda huérfana
+
+El gran favor que la FIFA le hizo a Argentina en este siglo nadie suele recordarlo. Durante cuatro partidos y seis meses, entre noviembre de 2001 y abril de 2002, la Albiceleste dejó de utilizar la camiseta número 10 como tributo a Diego Maradona , que a fines de 2001 acababa de jugar su partido de despedida. La medida.
+
+Date: 2026-07-21
 
 ### El fútbol argentino, entre la ilusión de un nuevo título, el uso político y los manejos opacos de su dirigencia
 
@@ -34,4 +40,4 @@ Date: 2026-07-08
 
 ## Fuentes
 
-- [La FIFA ya tiene los informes para investigar el comportamiento de Argentina en la final del Mundial y valorar posibles sanciones](https://elpais.com/deportes/mundial-futbol/2026-07-20/la-fifa-ya-tiene-los-informes-para-investigar-el-comportamiento-de-argentina-en-la-final-del-mundial-y-valorar-posibles-sanciones.html?utm_source=lootura.com) — 2026-07-20T17:18:44.000Z
+- [Argentina se queda huérfana](https://elpais.com/america/2026-07-21/argentina-se-queda-huerfana.html?utm_source=lootura.com) — 2026-07-21T03:30:01.000Z

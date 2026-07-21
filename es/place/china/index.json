@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/china/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/china/index.json",
   "description": "Sigue la actividad de China en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-20T14:00:22.171Z",
+  "updatedAt": "2026-07-21T06:26:04.171Z",
   "aliases": [],
   "changes": [
     {
@@ -62,6 +62,13 @@
       "date": "2026-07-17"
     }
   ],
-  "sources": [],
+  "sources": [
+    {
+      "title": "La Primera de Expansión sobre Holaluz, BCE, Mundial de Fútbol, Sabadell, Samsung, China y la IA",
+      "url": "https://www.expansion.com/podcasts/la-primera-de-expansion/2026/07/21/6a5efc86468aeb7a708b4575.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-21T05:25:37.000Z",
+      "sourceId": "lootura-es-expansion"
+    }
+  ],
   "evidenceCount": 0
 }

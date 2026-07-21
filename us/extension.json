@@ -1,42 +1,42 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-21T04:47:17.917Z",
+  "generatedAt": "2026-07-21T06:31:25.471Z",
   "radar": {
     "id": "usa",
     "slug": "us",
     "locale": "en"
   },
   "state": {
-    "signature": "1.16.1|7|1784600867058",
+    "signature": "1.16.1|8|1784615188839",
     "version": "1.16.1",
-    "build": 7,
-    "latestEntityUpdatedAt": "2026-07-21T02:27:47.058Z"
+    "build": 8,
+    "latestEntityUpdatedAt": "2026-07-21T06:26:28.839Z"
   },
   "atlas": {
     "hero": {
-      "id": "usa-air-force-one",
-      "name": "Air Force One",
+      "id": "usa-donald-trump",
+      "name": "Donald Trump",
       "type": "person",
-      "title": "Trump Administration Sought Phone Records of Times Journalists and Their Relatives",
-      "url": "https://atlas.lootura.com/us/person/air-force-one",
-      "path": "/us/person/air-force-one",
-      "updatedAt": "2026-07-21T02:27:47.058Z",
-      "score": 1524,
-      "sourceCount": 10,
+      "title": "Donald Trump to impose 50% tariff on most Canadian goods, White House says",
+      "url": "https://atlas.lootura.com/us/person/donald-trump",
+      "path": "/us/person/donald-trump",
+      "updatedAt": "2026-07-21T06:26:28.839Z",
+      "score": 1542,
+      "sourceCount": 285,
       "isBreaking": false,
       "isPinned": false
     },
     "cards": [
       {
-        "id": "usa-donald-trump",
-        "name": "Donald Trump",
+        "id": "usa-air-force-one",
+        "name": "Air Force One",
         "type": "person",
-        "title": "Trump to Impose 50% Tariff on Many Canadian Goods",
-        "url": "https://atlas.lootura.com/us/person/donald-trump",
-        "path": "/us/person/donald-trump",
-        "updatedAt": "2026-07-21T02:27:47.058Z",
-        "score": 1524,
-        "sourceCount": 284,
+        "title": "Trump Administration Sought Phone Records of Times Journalists and Their Relatives",
+        "url": "https://atlas.lootura.com/us/person/air-force-one",
+        "path": "/us/person/air-force-one",
+        "updatedAt": "2026-07-21T06:26:28.839Z",
+        "score": 1531,
+        "sourceCount": 10,
         "isBreaking": false,
         "isPinned": false
       },
@@ -47,9 +47,9 @@
         "title": "New round of strikes targeting Iran underway, U.S. officials say",
         "url": "https://atlas.lootura.com/us/place/united-states",
         "path": "/us/place/united-states",
-        "updatedAt": "2026-07-21T02:27:47.058Z",
-        "score": 1520,
-        "sourceCount": 329,
+        "updatedAt": "2026-07-21T06:26:28.839Z",
+        "score": 1528,
+        "sourceCount": 331,
         "isBreaking": false,
         "isPinned": false
       },
@@ -60,8 +60,8 @@
         "title": "New round of strikes targeting Iran underway, U.S. officials say",
         "url": "https://atlas.lootura.com/us/place/iran",
         "path": "/us/place/iran",
-        "updatedAt": "2026-07-21T02:27:47.058Z",
-        "score": 1512,
+        "updatedAt": "2026-07-21T06:26:28.839Z",
+        "score": 1518,
         "sourceCount": 158,
         "isBreaking": false,
         "isPinned": false
@@ -73,8 +73,8 @@
         "title": "Tate brothers detained as they face new charges, possible U.K. extradition",
         "url": "https://atlas.lootura.com/us/person/tristan-tate",
         "path": "/us/person/tristan-tate",
-        "updatedAt": "2026-07-21T02:27:47.058Z",
-        "score": 1511,
+        "updatedAt": "2026-07-21T06:26:28.839Z",
+        "score": 1517,
         "sourceCount": 7,
         "isBreaking": false,
         "isPinned": false

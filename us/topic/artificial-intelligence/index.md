@@ -3,7 +3,7 @@
 > Follow Artificial intelligence, a tracked topic, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: topic
-- Updated: 2026-07-21T02:27:47.058Z
+- Updated: 2026-07-21T06:26:28.839Z
 - Canonical: https://atlas.lootura.com/us/topic/artificial-intelligence
 
 ## Recent changes
@@ -70,4 +70,4 @@ Date: 2026-07-19
 
 ## Sources
 
-- [Detailed maps of European wetlands reveal overlooked patches of ecosystems](https://www.nature.com/articles/d41586-026-02211-2?utm_source=lootura.com) — 2026-07-21T02:27:51.408Z
+- [Detailed maps of European wetlands reveal overlooked patches of ecosystems](https://www.nature.com/articles/d41586-026-02211-2?utm_source=lootura.com) — 2026-07-21T06:26:32.830Z

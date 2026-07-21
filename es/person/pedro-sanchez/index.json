@@ -8,11 +8,16 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/pedro-sanchez/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/pedro-sanchez/index.json",
   "description": "Sigue la actividad de Pedro Sánchez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-21T02:27:26.549Z",
+  "updatedAt": "2026-07-21T06:26:04.171Z",
   "aliases": [
     "Sánchez"
   ],
   "changes": [
+    {
+      "title": "Podcast | Fuera de micrófono con Ernesto Sáenz de Buruaga",
+      "summary": "Alejado de la primera línea informativa, Ernesto Sáenz de Buruaga ve los toros desde la barrera y observa con preocupación la deriva que ha tomado nuestro país desde que Pedro Sánchez está al frente del Gobierno. Sigue los debates y las tertulias. También Noticias 2 , de Vicente Vallés , porque lo considera «el informa.",
+      "date": "2026-07-21"
+    },
     {
       "title": "El PP estudia pedir a Vox que no concurra en toda España",
       "summary": "Todavía no ha llegado el momento decisivo, pero los distintos partidos políticos ya empiezan a esbozar algunas de las estrategias que podrían poner encima de la mesa en cuanto Pedro Sánchez apriete el botón para convocar las elecciones generales . Es algo, además, que no se sabe a ciencia cierta cuándo pasará, ya que s.",
@@ -57,32 +62,21 @@
       "title": "Vox recurrirá la sentencia que absuelve al hermano de Sánchez de tráfico de influencias",
       "summary": "Vox ha anunciado este lunes que interpondrá un recurso de apelación ante el Tribunal Superior de Justicia de Extremadura contra la decisión de la Audiencia Provincial de Badajoz de absolver a David Sánchez , hermano del presidente del Gobierno, de un delito de tráfico de influencias . Así lo ha anunciado este lunes el.",
       "date": "2026-07-20"
-    },
-    {
-      "title": "Mandos de la Guardia Civil denuncian «alteración» en los ascensos para sancionar a generales y coroneles díscolos",
-      "summary": "Todo empezó en agosto de 2018. Apenas dos meses después de la llegada de Pedro Sánchez a Moncloa, el ministro del Interior, Fernando Grande-Marlaska emite la primera orden política contra la Unidad Central Operativa (UCO) de la Guardia Civil : dejar sin fondos reservados a la policía judicial para investigar la corrupc.",
-      "date": "2026-07-20"
     }
   ],
   "sources": [
     {
-      "title": "El PP estudia pedir a Vox que no concurra en toda España",
-      "url": "https://www.larazon.es/espana/estudia-pedir-vox-que-concurra-toda-espana_202607216a5e6061e9f2e84b5c74110a.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-21T01:26:55.000Z",
-      "sourceId": "lootura-es-la-razon"
+      "title": "FOTOS | Así ha sido la celebración de la selección por el Mundial, en imágenes",
+      "url": "https://www.eldiario.es/mundial-2026/sido-celebracion-seleccion-mundial-imagenes_3_13394667.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-20T21:31:39.000Z",
+      "sourceId": "lootura-es-eldiario-es"
     },
     {
-      "title": "Moncloa cambia el protocolo con la selección: escenario, público y preguntas de Ibai Llanos",
-      "url": "https://theobjective.com/deportes/futbol/mundial/2026-07-20/moncloa-seleccion-escenario-publico-ibai-llanos/?utm_source=lootura.com",
-      "publishedAt": "2026-07-20T18:07:19.000Z",
-      "sourceId": "lootura-es-the-objective"
-    },
-    {
-      "title": "Baena se marca ‘un Carvajal’ y le da la mano a Sánchez sin dirigirle la mirada",
-      "url": "https://theobjective.com/deportes/futbol/mundial/2026-07-20/alex-baena-saludo-pedro-sanchez/?utm_source=lootura.com",
-      "publishedAt": "2026-07-20T18:37:00.000Z",
+      "title": "Podcast | Fuera de micrófono con Ernesto Sáenz de Buruaga",
+      "url": "https://theobjective.com/podcasts/fuera-de-microfono/podcast-fuera-de-microfono-ernesto-saenz-de-buruaga/?utm_source=lootura.com",
+      "publishedAt": "2026-07-21T03:25:57.000Z",
       "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 2
 }

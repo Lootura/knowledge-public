@@ -3,10 +3,16 @@
 > Sigue la actividad de Estados Unidos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-21T02:27:26.549Z
+- Actualizado: 2026-07-21T06:26:04.171Z
 - Canonical: https://atlas.lootura.com/es/place/united-states
 
 ## Cambios recientes
+
+### Cadena perpetua para Ismael 'El Mayo' Zambada, el poderoso capo del Cártel de Sinaloa
+
+El narcotraficante mexicano Ismael 'El Mayo' Zambada fue condenado este lunes a cadena perpetua en Estados Unidos, tras un acuerdo con el Departamento de Justicia alcanzado el año pasado en el cual reconoció haber traficado millones de kilos de cocaína durante décadas como líder del Cártel de Sinaloa.Su sentencia, suma.
+
+Date: 2026-07-21
 
 ### Una jueza bloquea temporalmente el acuerdo entre Paramount y Warner para crear el mayor grupo audiovisual de Estados Unidos
 
@@ -62,15 +68,6 @@ Santander se ha impuesto a los gigantes de Wall Street en un negocio en el que t
 
 Date: 2026-07-19
 
-### La cuenta atrás de Pekín
-
-La pregunta sobre la inteligencia artificial china no es ya si alcanzará a Estados Unidos, sino en qué mes. Conviene tomarse en serio esa premisa, porque Pekín la está ejecutando con una coherencia que Washington, ahora mismo, no logra igualar: ata económicamente a medio planeta , gana clientes regalando lo que EEUU co.
-
-Date: 2026-07-19
-
 ## Fuentes
 
-- [La selección argentina regresa a su país tras perder la final y rechaza los festejos ofrecidos por el Gobierno de Milei](https://www.20minutos.es/deportes/futbol/los-jugadores-seleccion-argentina-regresan-su-pais-tras-final-ante-espana_7016974_0.html?utm_source=lootura.com) — 2026-07-21T00:18:53.000Z
-- [Una jueza bloquea temporalmente el acuerdo entre Paramount y Warner para crear el mayor grupo audiovisual de Estados Unidos](https://elpais.com/economia/2026-07-20/un-juez-bloquea-temporalmente-el-acuerdo-entre-paramount-y-warner-para-crear-el-mayor-grupo-audiovisual-de-estados-unidos.html?utm_source=lootura.com) — 2026-07-20T19:38:25.000Z
-- [El impactante ataque de un bisonte a un abuelo en Yellowstone que ha conmocionado a Estados Unidos](https://www.larazon.es/actualidad/impactante-ataque-bisonte-abuelo-yellowstone-que-conmocionado-estados-unidos-b51m_202607206a5e8c5d1db8de04099a62bb.html?utm_source=lootura.com) — 2026-07-20T21:00:13.000Z
-- [Estados Unidos lanza una nueva oleada de bombardeos sobre Irán](https://theobjective.com/internacional/2026-07-20/eeuu-nueva-oleada-bombardeos-iran/?amp=&utm_source=lootura.com) — 2026-07-20T20:48:15.000Z
+- [Cadena perpetua para Ismael 'El Mayo' Zambada, el poderoso capo del Cártel de Sinaloa](https://www.abc.es/internacional/sentencia-ismael-mayo-zambada-poderoso-capo-cartel-20260720174002-nt.html?utm_source=lootura.com) — 2026-07-21T05:26:41.000Z

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/partido-popular/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/partido-popular/index.json",
   "description": "Sigue la actividad de Partido Popular en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-21T02:27:26.549Z",
+  "updatedAt": "2026-07-21T06:26:04.171Z",
   "aliases": [
     "PP"
   ],
@@ -70,13 +70,7 @@
       "url": "https://www.larazon.es/espana/ofensiva-congreso-fondos-incendios_202607216a5e60e2e9f2e84b5c7411bc.html?outputType=amp&utm_source=lootura.com",
       "publishedAt": "2026-07-21T01:28:40.000Z",
       "sourceId": "lootura-es-la-razon"
-    },
-    {
-      "title": "El PP estudia pedir a Vox que no concurra en toda España",
-      "url": "https://www.larazon.es/espana/estudia-pedir-vox-que-concurra-toda-espana_202607216a5e6061e9f2e84b5c74110a.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-21T01:26:55.000Z",
-      "sourceId": "lootura-es-la-razon"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

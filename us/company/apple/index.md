@@ -3,7 +3,7 @@
 > Follow Apple, a tracked company, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: company
-- Updated: 2026-07-21T02:27:47.058Z
+- Updated: 2026-07-21T06:26:28.839Z
 - Canonical: https://atlas.lootura.com/us/company/apple
 
 ## Recent changes

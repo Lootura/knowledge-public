@@ -3,10 +3,16 @@
 > Sigue la actividad de Pedro Sánchez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-21T02:27:26.549Z
+- Actualizado: 2026-07-21T06:26:04.171Z
 - Canonical: https://atlas.lootura.com/es/person/pedro-sanchez
 
 ## Cambios recientes
+
+### Podcast | Fuera de micrófono con Ernesto Sáenz de Buruaga
+
+Alejado de la primera línea informativa, Ernesto Sáenz de Buruaga ve los toros desde la barrera y observa con preocupación la deriva que ha tomado nuestro país desde que Pedro Sánchez está al frente del Gobierno. Sigue los debates y las tertulias. También Noticias 2 , de Vicente Vallés , porque lo considera «el informa.
+
+Date: 2026-07-21
 
 ### El PP estudia pedir a Vox que no concurra en toda España
 
@@ -62,14 +68,7 @@ Vox ha anunciado este lunes que interpondrá un recurso de apelación ante el Tr
 
 Date: 2026-07-20
 
-### Mandos de la Guardia Civil denuncian «alteración» en los ascensos para sancionar a generales y coroneles díscolos
-
-Todo empezó en agosto de 2018. Apenas dos meses después de la llegada de Pedro Sánchez a Moncloa, el ministro del Interior, Fernando Grande-Marlaska emite la primera orden política contra la Unidad Central Operativa (UCO) de la Guardia Civil : dejar sin fondos reservados a la policía judicial para investigar la corrupc.
-
-Date: 2026-07-20
-
 ## Fuentes
 
-- [El PP estudia pedir a Vox que no concurra en toda España](https://www.larazon.es/espana/estudia-pedir-vox-que-concurra-toda-espana_202607216a5e6061e9f2e84b5c74110a.html?utm_source=lootura.com) — 2026-07-21T01:26:55.000Z
-- [Moncloa cambia el protocolo con la selección: escenario, público y preguntas de Ibai Llanos](https://theobjective.com/deportes/futbol/mundial/2026-07-20/moncloa-seleccion-escenario-publico-ibai-llanos/?utm_source=lootura.com) — 2026-07-20T18:07:19.000Z
-- [Baena se marca ‘un Carvajal’ y le da la mano a Sánchez sin dirigirle la mirada](https://theobjective.com/deportes/futbol/mundial/2026-07-20/alex-baena-saludo-pedro-sanchez/?utm_source=lootura.com) — 2026-07-20T18:37:00.000Z
+- [FOTOS | Así ha sido la celebración de la selección por el Mundial, en imágenes](https://www.eldiario.es/mundial-2026/sido-celebracion-seleccion-mundial-imagenes_3_13394667.html?utm_source=lootura.com) — 2026-07-20T21:31:39.000Z
+- [Podcast | Fuera de micrófono con Ernesto Sáenz de Buruaga](https://theobjective.com/podcasts/fuera-de-microfono/podcast-fuera-de-microfono-ernesto-saenz-de-buruaga/?utm_source=lootura.com) — 2026-07-21T03:25:57.000Z

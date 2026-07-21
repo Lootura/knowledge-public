@@ -3,10 +3,16 @@
 > Sigue la actividad de Barcelona en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-20T10:49:30.114Z
+- Actualizado: 2026-07-21T06:26:04.171Z
 - Canonical: https://atlas.lootura.com/es/place/barcelona
 
 ## Cambios recientes
+
+### Ferran Torres, como símbolo del secreto de Luis de la Fuente
+
+A Ferran Torres parecía que lo había devorado el meme. No importaba que hubiera terminado la temporada como uno de los goleadores del Barcelona ni que todos sus entrenadores hubieran confiado en él. Guardiola contó con él en el City. Xavi Hernández y Hansi Flick lo mimaron en el Camp Nou. Lo mismo ocurrió en la selecci.
+
+Date: 2026-07-21
 
 ### ¿Qué aprendimos del 18 de julio?
 
@@ -62,12 +68,6 @@ El Barcelona sigue ampliando su lista de amistosos para la pretemporada 26/27 qu
 
 Date: 2026-07-17
 
-### Ubisoft celebra el éxito del nuevo videojuego de 'Assasin's Creed' y deja fuera a 51 de sus creadores en Barcelona
-
-Quienes trabajaron en Ubisoft Barcelona durante los últimos tres años comparten un mismo recuerdo: una convocatoria inesperada, un correo enviado con urgencia y una sala llena de empleados que sospechaban que algo no iba bien antes de que nadie pronunciara una palabra. El 10 de junio, la dirección reunió a la plantilla.
-
-Date: 2026-07-17
-
 ## Fuentes
 
-No public source links.
+- [Ferran Torres, como símbolo del secreto de Luis de la Fuente](https://elpais.com/deportes/mundial-futbol/2026-07-21/ferran-torres-como-simbolo-del-secreto-de-luis-de-la-fuente.html?utm_source=lootura.com) — 2026-07-21T03:30:01.000Z

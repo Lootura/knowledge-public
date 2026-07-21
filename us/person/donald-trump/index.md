@@ -3,7 +3,7 @@
 > Follow Donald Trump, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-07-21T02:27:47.058Z
+- Updated: 2026-07-21T06:26:28.839Z
 - Canonical: https://atlas.lootura.com/us/person/donald-trump
 
 ## Recent changes
@@ -11,6 +11,12 @@
 ### New round of strikes targeting Iran underway, U.S. officials say
 
 A 10th straight night of U.S. strikes on Iran is underway as President Trump vows Tehran will pay for the deaths of three American soldiers over the weekend. CBS News senior national security correspondent Charlie D'Agata reports. Then, global affairs analyst Jonathan Wachtel joins to discuss the state of the war.
+
+Date: 2026-07-21
+
+### Donald Trump to impose 50% tariff on most Canadian goods, White House says
+
+Turmoil likely as Trump officials say Canada unfairly discriminated against US autos, alcohol and dairy products Donald Trump is imposing 50% tariffs on most Canadian goods in response to the country retaliating against previous US tariffs, the White House announced Monday, declaring Canada has unfairly discriminated a.
 
 Date: 2026-07-21
 
@@ -62,12 +68,6 @@ NPR's Tamara Keith and Jasmine Wright of NOTUS join Amna Nawaz to discuss the la
 
 Date: 2026-07-20
 
-### Will a Sex Scandal Involving Mark Lamb Matter in Arizona GOP House Primary?
-
-The contest in a deeply religious part of the state is a test of the power of a Trump endorsement.
-
-Date: 2026-07-20
-
 ## Sources
 
 - [New round of strikes targeting Iran underway, U.S. officials say](https://www.cbsnews.com/video/new-round-strikes-targeting-iran-underway-officials/?utm_source=lootura.com) — 2026-07-21T01:13:00.000Z
@@ -76,7 +76,7 @@ Date: 2026-07-20
 - [Trump imposes 50% tariffs on dairy, alcohol, and cars from Canada](https://www.nbcnews.com/video/trump-imposes-50-tariffs-on-dairy-alcohol-and-cars-from-canada-266971717891?utm_source=lootura.com) — 2026-07-20T21:52:47.000Z
 - [Tamara Keith and Jasmine Wright on the political fallout of Trump's address](https://www.pbs.org/newshour/show/tamara-keith-and-jasmine-wright-on-the-political-fallout-of-trumps-address?utm_source=lootura.com) — 2026-07-20T22:30:46.000Z
 - [DOJ sought phone records of journalists and relatives in effort to unmask sources of Air Force One security report](https://www.pbs.org/newshour/nation/doj-sought-phone-records-of-journalists-and-relatives-in-effort-to-unmask-sources-of-air-force-one-security-report?utm_source=lootura.com) — 2026-07-20T18:34:58.000Z
+- [Donald Trump to impose 50% tariff on most Canadian goods, White House says](https://www.theguardian.com/us-news/2026/jul/20/trump-canada-tariffs?utm_source=lootura.com) — 2026-07-21T02:29:47.000Z
 - [North Sea Drilling Offers First Test for Burnham’s Relationship With Trump](https://www.nytimes.com/2026/07/20/world/europe/burnham-trump-uk-us-relationship-north-sea-oil.html?utm_source=lootura.com) — 2026-07-20T09:32:27.000Z
-- [Trump to Impose 50% Tariff on Many Canadian Goods](https://www.nytimes.com/2026/07/20/business/economy/trump-tariffs-canada.html?utm_source=lootura.com) — 2026-07-21T00:25:52.000Z
 - [Will a Sex Scandal Involving Mark Lamb Matter in Arizona GOP House Primary?](https://www.nytimes.com/2026/07/20/us/politics/arizona-house-primary-lamb.html?utm_source=lootura.com) — 2026-07-20T22:28:12.000Z
 - [Lindsey Graham’s Sister, Darline Graham, Says She Will Run to Succeed Him](https://www.nytimes.com/2026/07/20/us/politics/darline-graham-south-carolina-senate-race.html?utm_source=lootura.com) — 2026-07-20T21:26:50.000Z

@@ -8,9 +8,14 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/white-house/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/white-house/index.json",
   "description": "Follow White House, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-21T02:27:47.058Z",
+  "updatedAt": "2026-07-21T06:26:28.839Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "Donald Trump to impose 50% tariff on most Canadian goods, White House says",
+      "summary": "Turmoil likely as Trump officials say Canada unfairly discriminated against US autos, alcohol and dairy products Donald Trump is imposing 50% tariffs on most Canadian goods in response to the country retaliating against previous US tariffs, the White House announced Monday, declaring Canada has unfairly discriminated a.",
+      "date": "2026-07-21"
+    },
     {
       "title": "Democrats avoid a messy fight in Maine, but uncertainty lingers: From the Politics Desk",
       "summary": "Welcome to From the Politics Desk, a daily newsletter that brings you the NBC News Politics team’s latest reporting and analysis from the White House, Capitol Hill and the campaign trail.",
@@ -55,11 +60,6 @@
       "title": "White House teleprompter operator allegedly made over $100K betting on Trump's speeches",
       "summary": "The prediction market Kalshi alleges President Trump's longtime teleprompter operator engaged in trading, betting on the words the president would use in speeches. Jo Ling Kent reports.",
       "date": "2026-07-17"
-    },
-    {
-      "title": "Trump Brings Full Weight of Government to Bolster False Election Claims",
-      "summary": "Intelligence agencies provided the White House with a trove of declassified documents that President Trump cited on Thursday as evidence of election vulnerabilities.",
-      "date": "2026-07-17"
     }
   ],
   "sources": [
@@ -68,6 +68,12 @@
       "url": "https://www.nbcnews.com/politics/politics-news/democrats-avoid-messy-fight-maine-uncertainty-lingers-politics-desk-rcna588434?utm_source=lootura.com",
       "publishedAt": "2026-07-20T21:00:40.000Z",
       "sourceId": "lootura-us-nbc-news-politics"
+    },
+    {
+      "title": "Donald Trump to impose 50% tariff on most Canadian goods, White House says",
+      "url": "https://www.theguardian.com/us-news/2026/jul/20/trump-canada-tariffs?utm_source=lootura.com",
+      "publishedAt": "2026-07-21T02:29:47.000Z",
+      "sourceId": "lootura-us-the-guardian-us"
     },
     {
       "title": "White House Says New Air Force One Will Be Out of Service for a Month for ‘Upgrades’",
@@ -82,5 +88,5 @@
       "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 4
 }

@@ -3,7 +3,7 @@
 > Follow Andy Burnham, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-07-21T02:27:47.058Z
+- Updated: 2026-07-21T06:26:28.839Z
 - Canonical: https://atlas.lootura.com/us/person/andy-burnham
 
 ## Recent changes
@@ -38,6 +38,12 @@ In our news wrap Monday, Andy Burnham became Britain's seventh prime minister in
 
 Date: 2026-07-20
 
+### Andy Burnham, New UK Prime Minister, Names John Healey As Top Finance Official
+
+As chancellor, John Healey, who quit as defense secretary in the former government, will fill one of the most consequential posts, overseeing fiscal and economic policy.
+
+Date: 2026-07-20
+
 ### How Andy Burnham Becomes Britain’s New Prime Minister
 
 Andy Burnham is set to become the next prime minister on Monday. Here’s how everything is expected to play out.
@@ -62,12 +68,6 @@ Veteran Labour Party politician Andy Burnham has become Britain's new prime mini
 
 Date: 2026-07-20
 
-### Andy Burnham: The likely next U.K. prime minister
-
-Britain gets a new prime minister Monday and it's likely to be Andy Burnham, a self-declared socialist. Leigh Kiniry reports.
-
-Date: 2026-07-20
-
 ## Sources
 
 - [Here's how the UK went through 6 prime ministers in 7 years](https://www.cbsnews.com/video/andy-burnham-becomes-new-uk-prime-minister/?utm_source=lootura.com) — 2026-07-21T01:11:05.000Z
@@ -75,3 +75,4 @@ Date: 2026-07-20
 - [News Wrap: Andy Burnham becomes Britain's 7th prime minister in a decade](https://www.pbs.org/newshour/show/news-wrap-andy-burnham-becomes-britains-7th-prime-minister-in-a-decade?utm_source=lootura.com) — 2026-07-20T22:45:03.000Z
 - [There’s Nothing Casual About Andy Burnham’s Casual Style](https://www.nytimes.com/2026/07/20/style/andy-burnham-prime-minister-style.html?utm_source=lootura.com) — 2026-07-20T12:09:00.000Z
 - [North Sea Drilling Offers First Test for Burnham’s Relationship With Trump](https://www.nytimes.com/2026/07/20/world/europe/burnham-trump-uk-us-relationship-north-sea-oil.html?utm_source=lootura.com) — 2026-07-20T09:32:27.000Z
+- [Andy Burnham, New UK Prime Minister, Names John Healey As Top Finance Official](https://www.nytimes.com/2026/07/20/business/andy-burnham-john-healey.html?utm_source=lootura.com) — 2026-07-20T18:57:41.000Z

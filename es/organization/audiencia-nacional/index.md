@@ -3,10 +3,22 @@
 > Sigue la actividad de Audiencia Nacional en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-20T21:09:57.635Z
+- Actualizado: 2026-07-21T06:26:04.171Z
 - Canonical: https://atlas.lootura.com/es/organization/audiencia-nacional
 
 ## Cambios recientes
+
+### Julio Martínez delata a Zapatero y dice que se llevó el 1% por mediar en Plus Ultra
+
+Plus Ultra y Julio Martínez Martínez han enviado sendos escritos a la Audiencia Nacional donde muestran su deseo de colaborar con la justicia y confiesan que José Luis Rodríguez Zapatero medió en el rescate de la aerolínea, según explican fuentes judiciales a ABC. El pagador del expresidente también detalla que alcanza.
+
+Date: 2026-07-21
+
+### El horizonte judicial de Zapatero pende de la declaración ante el juez de Julio Martínez tras su decisión de “colaborar”
+
+El futuro penal de José Luis Rodríguez Zapatero tiene nombre propio. El empresario Julio Martínez Martínez, administrador de la consultora que pagó durante cinco años al expresidente del Gobierno, declara este martes ante el juez de la Audiencia Nacional José Luis Calama, después de contradecir por escrito la versión q.
+
+Date: 2026-07-21
 
 ### Julio Martínez delata a Zapatero y dice que se llevó el 1% por mediar en Plus Ultra
 
@@ -56,18 +68,7 @@ Las investigaciones de la Unidad Central Operativa (UCO) de la Guardia Civil vue
 
 Date: 2026-07-17
 
-### El jefe operativo de la Guardia Civil acusa a “algunos” mandos de la UCO de “vanidad”
-
-El teniente general Manuel Llamas, director adjunto operativo (DAO) de la Guardia Civil, ha vuelto a defender su inocencia en el Senado un día después de declarar como imputado en la Audiencia Nacional por los delitos de prevaricación y obstrucción a la justicia dentro del caso Leire Díez , donde se le acusa de haber p.
-
-Date: 2026-07-17
-
-### Mercedes González, sobre las presiones a un general para boicotear a Ayuso: «Yo no dicté la orden»
-
-«Yo no la dicté». Esa ha sido la respuesta de la directora de la Guardia Civil Mercedes González cuando le han preguntado este viernes en la Audiencia Nacional si ella fue la persona que dictó la «instrucción política» para que el general jefe de la zona de Madrid, Fernando Mora, plantará al Gobierno de Isabel Díaz Ayu.
-
-Date: 2026-07-17
-
 ## Fuentes
 
-No public source links.
+- [Julio Martínez delata a Zapatero y dice que se llevó el 1% por mediar en Plus Ultra](https://www.abc.es/espana/plus-ultra-julito-martinez-envian-escritos-juez-20260720142541-nt.html?utm_source=lootura.com) — 2026-07-21T05:26:54.000Z
+- [El horizonte judicial de Zapatero pende de la declaración ante el juez de Julio Martínez tras su decisión de “colaborar”](https://elpais.com/espana/2026-07-21/el-horizonte-judicial-de-zapatero-pende-de-la-declaracion-ante-el-juez-de-julio-martinez-tras-su-decision-de-colaborar.html?utm_source=lootura.com) — 2026-07-21T03:30:01.000Z

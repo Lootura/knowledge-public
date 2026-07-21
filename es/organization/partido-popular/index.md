@@ -3,7 +3,7 @@
 > Sigue la actividad de Partido Popular en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-21T02:27:26.549Z
+- Actualizado: 2026-07-21T06:26:04.171Z
 - Canonical: https://atlas.lootura.com/es/organization/partido-popular
 
 ## Cambios recientes
@@ -71,4 +71,3 @@ Date: 2026-07-19
 ## Fuentes
 
 - [Ofensiva en el Congreso por los fondos contra incendios](https://www.larazon.es/espana/ofensiva-congreso-fondos-incendios_202607216a5e60e2e9f2e84b5c7411bc.html?outputType=amp&utm_source=lootura.com) — 2026-07-21T01:28:40.000Z
-- [El PP estudia pedir a Vox que no concurra en toda España](https://www.larazon.es/espana/estudia-pedir-vox-que-concurra-toda-espana_202607216a5e6061e9f2e84b5c74110a.html?utm_source=lootura.com) — 2026-07-21T01:26:55.000Z

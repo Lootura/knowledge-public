@@ -3,7 +3,7 @@
 > Sigue la actividad de Real Sociedad en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-21T02:27:26.549Z
+- Actualizado: 2026-07-21T06:26:04.171Z
 - Canonical: https://atlas.lootura.com/es/person/real-sociedad
 
 ## Cambios recientes

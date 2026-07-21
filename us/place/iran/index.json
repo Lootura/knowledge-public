@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/iran/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/iran/index.json",
   "description": "Follow Iran, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-21T02:27:47.058Z",
+  "updatedAt": "2026-07-21T06:26:28.839Z",
   "aliases": [],
   "changes": [
     {
@@ -27,11 +27,6 @@
       "date": "2026-07-20"
     },
     {
-      "title": "Rubio Says That U.S. Is Still Open to Diplomacy With Iran",
-      "summary": "Secretary of State Marco Rubio also said that Iran has signaled it wants to negotiate with the United States, even as the two sides escalated their attacks.",
-      "date": "2026-07-20"
-    },
-    {
       "title": "Morning news brief",
       "summary": "The U.S. carries out a wave of strikes against Iran, as fighting between the two escalates, Congress faces long to-do list as August recess approaches, Andy Burnham becomes U.K.'s 7th prime minister.",
       "date": "2026-07-20"
@@ -47,11 +42,6 @@
       "date": "2026-07-20"
     },
     {
-      "title": "Expansion of U.S. strikes on Iran leads to more retaliation across the Gulf",
-      "summary": "Even as the U.S. and Iran inch closer to all-out war, glimmers of hope appeared on the diplomatic front.",
-      "date": "2026-07-20"
-    },
-    {
       "title": "How recent killings of U.S. soldiers could affect the war with Iran",
       "summary": "President Trump reacted to the recent killings of U.S. soldiers in the Middle East with strong words on Monday, promising that Iran will pay \"many times over.\" Mark Cancian, senior adviser at the Center for Strategic and International Studies, joins CBS News to break down what this means for the war and CBS News' Weiji.",
       "date": "2026-07-20"
@@ -59,6 +49,16 @@
     {
       "title": "Gas prices top $4 a gallon again as U.S.-Iran conflict escalates",
       "summary": "The national average for a gallon of gas reached $4.003 on Monday, the first time in over a month it has crossed that threshold, AAA data shows.",
+      "date": "2026-07-20"
+    },
+    {
+      "title": "G.O.P. Boxed In on Iran War as Trump Sidelines Congress",
+      "summary": "Republicans now face a worst-case political scenario of being asked to fund an unpopular war over which they have exercised little oversight.",
+      "date": "2026-07-20"
+    },
+    {
+      "title": "Iran war hurting U.S. allies in region, former Jordanian foreign minister says",
+      "summary": "For perspective on the latest developments in the Iran war and the regional ramifications, Amna Nawaz spoke with Marwan Muasher. He's the vice president for studies at the Carnegie Endowment for International Peace and the former deputy prime minister and foreign minister of Jordan.",
       "date": "2026-07-20"
     }
   ],
@@ -100,12 +100,6 @@
       "sourceId": "lootura-us-npr"
     },
     {
-      "title": "Expansion of U.S. strikes on Iran leads to more retaliation across the Gulf",
-      "url": "https://www.pbs.org/newshour/world/expansion-of-u-s-strikes-on-iran-leads-to-more-retaliation-across-the-gulf?utm_source=lootura.com",
-      "publishedAt": "2026-07-20T15:13:21.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
-    },
-    {
       "title": "Iran war hurting U.S. allies in region, former Jordanian foreign minister says",
       "url": "https://www.pbs.org/newshour/show/iran-war-hurting-u-s-allies-in-region-former-jordanian-foreign-minister-says?utm_source=lootura.com",
       "publishedAt": "2026-07-20T22:52:05.000Z",
@@ -118,11 +112,17 @@
       "sourceId": "lootura-us-the-new-york-times"
     },
     {
-      "title": "Rubio Says That U.S. Is Still Open to Diplomacy With Iran",
-      "url": "https://www.nytimes.com/2026/07/20/world/middleeast/rubio-us-iran-war-diplomacy.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-20T06:02:46.000Z",
+      "title": "U.S. Average Gas Price Returns to $4 a Gallon as Iran Crisis Escalates",
+      "url": "https://www.nytimes.com/2026/07/20/business/four-dollar-gas-iran-war.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-20T08:55:53.000Z",
       "sourceId": "lootura-us-the-new-york-times"
+    },
+    {
+      "title": "G.O.P. Boxed In on Iran War as Trump Sidelines Congress",
+      "url": "https://www.nytimes.com/2026/07/20/us/politics/gop-trump-iran-war.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-20T21:30:11.000Z",
+      "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 13
+  "evidenceCount": 11
 }

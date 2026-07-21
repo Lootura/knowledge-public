@@ -28,4 +28,4 @@ Date: 2026-07-18
 
 ## Fuentes
 
-- [Donald Trump saca pecho de su Mundial: «Ha sido el más seguro y espectacular de la historia»](https://theobjective.com/internacional/2026-07-20/donald-trump-mundial-espectacular-historia/?utm_source=lootura.com) — 2026-07-20T17:42:51.000Z
+No public source links.

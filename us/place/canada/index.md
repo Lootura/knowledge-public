@@ -3,10 +3,16 @@
 > Follow Canada, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-21T02:27:47.058Z
+- Updated: 2026-07-21T06:26:28.839Z
 - Canonical: https://atlas.lootura.com/us/place/canada
 
 ## Recent changes
+
+### Donald Trump to impose 50% tariff on most Canadian goods, White House says
+
+Turmoil likely as Trump officials say Canada unfairly discriminated against US autos, alcohol and dairy products Donald Trump is imposing 50% tariffs on most Canadian goods in response to the country retaliating against previous US tariffs, the White House announced Monday, declaring Canada has unfairly discriminated a.
+
+Date: 2026-07-21
 
 ### Trump imposes 50% tariffs on dairy, alcohol, and cars from Canada
 
@@ -62,12 +68,7 @@ Heavy smoke from several large wildfires blazing in Canada and Minnesota is engu
 
 Date: 2026-07-18
 
-### Wildfire smoke from Canada and Minnesota pushes farther into the U.S. and engulfs D.C. in haze
-
-Warnings of dangerous conditions were expected to remain in effect through Saturday across a wide swath of the U.S., though there's potential for temporary improvement with storms forecast in some affected areas during the weekend.
-
-Date: 2026-07-18
-
 ## Sources
 
 - [Trump imposes 50% tariffs on dairy, alcohol, and cars from Canada](https://www.nbcnews.com/video/trump-imposes-50-tariffs-on-dairy-alcohol-and-cars-from-canada-266971717891?utm_source=lootura.com) — 2026-07-20T21:52:47.000Z
+- [Donald Trump to impose 50% tariff on most Canadian goods, White House says](https://www.theguardian.com/us-news/2026/jul/20/trump-canada-tariffs?utm_source=lootura.com) — 2026-07-21T02:29:47.000Z

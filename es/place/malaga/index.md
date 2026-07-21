@@ -3,10 +3,16 @@
 > Sigue la actividad de Málaga en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-20T17:59:39.360Z
+- Actualizado: 2026-07-21T06:26:04.171Z
 - Canonical: https://atlas.lootura.com/es/place/malaga
 
 ## Cambios recientes
+
+### La mitad de las provincias de Andalucía, en aviso naranja por temperaturas superiores a 40 grados
+
+La Agencia Estatal de Meteorología (Aemet) ha activado para este martes aviso naranja por calor en Almería, Córdoba, Granada y Jaén por temperaturas máximas que podrían alcanzar los 41 grados. Asimismo, las provincias de Cádiz, Málaga y Sevilla se encontrarán bajo nivel amarillo en la citada jornada. Según consta en la.
+
+Date: 2026-07-21
 
 ### La mujer asesinada en Málaga fue presuntamente apuñalada por su pareja, que se suicidó
 
@@ -58,4 +64,4 @@ Date: 2026-07-17
 
 ## Fuentes
 
-No public source links.
+- [La mitad de las provincias de Andalucía, en aviso naranja por temperaturas superiores a 40 grados](https://www.larazon.es/andalucia/mitad-provincias-andalucia-aviso-naranja-temperaturas-superiores-40-grados_202607216a5f0b19e3eb0b64aa4ae887.html?utm_source=lootura.com) — 2026-07-21T06:00:57.000Z

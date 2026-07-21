@@ -3,10 +3,16 @@
 > Sigue la actividad de Iran en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-21T02:27:26.549Z
+- Actualizado: 2026-07-21T06:26:04.171Z
 - Canonical: https://atlas.lootura.com/es/place/iran
 
 ## Cambios recientes
+
+### El retroceso del petróleo estimula las Bolsas
+
+Los inversores luchan con señales contradictorias: las esperanzas de mediación en el conflicto de Oriente Próximo frente a la escalada de ataques de EE UU e Irán en una guerra que ya dura cinco meses. La corrección hoy de los precios del petróleo, que se alejan de máximos de un mes y rondan los 88 dólares, alivia las p.
+
+Date: 2026-07-21
 
 ### Estados Unidos lanza una nueva oleada de bombardeos sobre Irán
 
@@ -62,12 +68,6 @@ El Comando Central de las Fuerzas Armadas de Estados Unidos (Centcom) ha confirm
 
 Date: 2026-07-19
 
-### La crisis de precios de la gasolina lleva a los consumidores a repostar más de tres veces al mes
-
-La gasolina siempre ha sido un producto muy condicionado al precio; y este 2026 se ha visto impactado, además, por la crisis de costes de la guerra de Irán . Esta situación ha provocado que los consumidores hayan cambiado sus hábitos de repostaje. Ahora se va muchas más veces al surtidor, y se elige lugares donde haya.
-
-Date: 2026-07-19
-
 ## Fuentes
 
-- [Estados Unidos lanza una nueva oleada de bombardeos sobre Irán](https://theobjective.com/internacional/2026-07-20/eeuu-nueva-oleada-bombardeos-iran/?amp=&utm_source=lootura.com) — 2026-07-20T20:48:15.000Z
+- [El retroceso del petróleo estimula las Bolsas](https://cincodias.elpais.com/mercados-financieros/2026-07-21/la-bolsa-y-el-ibex-35.html?utm_source=lootura.com) — 2026-07-21T04:40:52.000Z
