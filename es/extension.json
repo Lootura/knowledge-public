@@ -1,15 +1,15 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-21T10:28:03.471Z",
+  "generatedAt": "2026-07-21T11:11:19.348Z",
   "radar": {
     "id": "es",
     "slug": "es",
     "locale": "es"
   },
   "state": {
-    "signature": "1.16.1|9|1784629388875",
-    "version": "1.16.1",
-    "build": 9,
+    "signature": "1.17.0|3|1784629388875",
+    "version": "1.17.0",
+    "build": 3,
     "latestEntityUpdatedAt": "2026-07-21T10:23:08.875Z"
   },
   "atlas": {
@@ -21,7 +21,7 @@
       "url": "https://atlas.lootura.com/es/person/julio-martinez",
       "path": "/es/person/julio-martinez",
       "updatedAt": "2026-07-21T10:23:08.875Z",
-      "score": 1610,
+      "score": 1606,
       "sourceCount": 13,
       "isBreaking": false,
       "isPinned": false
@@ -35,7 +35,7 @@
         "url": "https://atlas.lootura.com/es/person/plus-ultra",
         "path": "/es/person/plus-ultra",
         "updatedAt": "2026-07-21T10:23:08.875Z",
-        "score": 1598,
+        "score": 1594,
         "sourceCount": 12,
         "isBreaking": false,
         "isPinned": false
@@ -48,7 +48,7 @@
         "url": "https://atlas.lootura.com/es/person/jose-luis-rodriguez",
         "path": "/es/person/jose-luis-rodriguez",
         "updatedAt": "2026-07-21T10:23:08.875Z",
-        "score": 1591,
+        "score": 1587,
         "sourceCount": 9,
         "isBreaking": false,
         "isPinned": false
@@ -61,7 +61,7 @@
         "url": "https://atlas.lootura.com/es/organization/audiencia-nacional",
         "path": "/es/organization/audiencia-nacional",
         "updatedAt": "2026-07-21T10:23:08.875Z",
-        "score": 1555,
+        "score": 1551,
         "sourceCount": 23,
         "isBreaking": false,
         "isPinned": false
@@ -74,12 +74,12 @@
         "url": "https://atlas.lootura.com/es/person/pedro-sanchez",
         "path": "/es/person/pedro-sanchez",
         "updatedAt": "2026-07-21T10:23:08.875Z",
-        "score": 1531,
+        "score": 1527,
         "sourceCount": 192,
         "isBreaking": false,
         "isPinned": false
       }
     ],
-    "publicEntityCount": 54
+    "publicEntityCount": 53
   }
 }
