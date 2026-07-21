@@ -1,16 +1,33 @@
 {
   "id": "es-carles-puigdemont",
-  "name": "Carles Puigdemont",
+  "name": "Carles Puigdemont i Casamajó",
   "type": "person",
   "locale": "es",
   "canonicalPath": "/es/person/carles-puigdemont",
   "canonicalUrl": "https://atlas.lootura.com/es/person/carles-puigdemont",
   "markdownUrl": "https://atlas.lootura.com/es/person/carles-puigdemont/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/carles-puigdemont/index.json",
-  "description": "Sigue la actividad de Carles Puigdemont en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-19T20:42:54.963Z",
-  "aliases": [],
+  "description": "Sigue la actividad de Carles Puigdemont i Casamajó en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
+  "updatedAt": "2026-07-21T21:06:12.863Z",
+  "aliases": [
+    "Carles",
+    "Puigdemont",
+    "Carles Puigdemont i Casamajó",
+    "Carles Puigdemont Casamajó",
+    "Carlos Puigdemont",
+    "Carlos Puigdemont i Casamajó"
+  ],
   "changes": [
+    {
+      "title": "Puigdemont denuncia a España ante la Comisión Europea por incumplir de la Ley de Amnistía",
+      "summary": "Carles Puigdemont, ex presidente de la Generalitat de Cataluña y líder de Junts, ha presentado un escrito ante la Secretaría General de la Comisión Europea en el que denuncia a España por el incumplimiento de la Ley de Amnistía. El ex presidente catalán responde así después de que el Tribunal de Justicia de la Unión ..",
+      "date": "2026-07-21"
+    },
+    {
+      "title": "El Supremo avala la destrucción del material del 1-O tras rechazar dárselo a Puigdemont",
+      "summary": "El Tribunal Supremo ha rechazado el recurso interpuesto por el expresidente catalán y líder de Junts, Carles Puigdemont , que se oponía a su destrucción y pedía que se le entregase el material intervenido durante la jornada del referéndum ilegal del 1 de octubre de 2017 en Cataluña debido a su «valor histórico». En un.",
+      "date": "2026-07-21"
+    },
     {
       "title": "Puigdemont no apoyará los Presupuestos de Sánchez: \"Madrid recibe una sobreinversión que multiplica la de los catalanes\"",
       "summary": "El expresidente de la Generalitat y líder de Junts, Carles Puigdemont , ha cerrado este domingo la puerta a respaldar unos futuros Presupuestos Generales del Estado mientras el Gobierno de Pedro Sánchez no revierta lo que considera un trato discriminatorio hacia Cataluña en materia de inversión pública. El dirigente in.",
@@ -42,6 +59,19 @@
       "date": "2026-07-16"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Puigdemont denuncia a España ante la Comisión Europea por incumplir de la Ley de Amnistía",
+      "url": "https://okdiario.com/espana/puigdemont-denuncia-espana-comision-europea-incumplir-ley-amnistia-19043545/amp?utm_source=lootura.com",
+      "publishedAt": "2026-07-21T20:37:19.000Z",
+      "sourceId": "lootura-es-ok-diario"
+    },
+    {
+      "title": "El Supremo avala la destrucción del material del 1-O tras rechazar dárselo a Puigdemont",
+      "url": "https://theobjective.com/espana/tribunales/2026-07-21/supremo-destruccion-material-1-o-puigdemont/?utm_source=lootura.com",
+      "publishedAt": "2026-07-21T16:45:43.000Z",
+      "sourceId": "lootura-es-the-objective"
+    }
+  ],
+  "evidenceCount": 2
 }

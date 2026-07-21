@@ -3,10 +3,16 @@
 > Sigue la actividad de San Sebastián en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-21T10:23:08.875Z
+- Actualizado: 2026-07-21T21:06:12.863Z
 - Canonical: https://atlas.lootura.com/es/place/san-sebastian
 
 ## Cambios recientes
+
+### La Audiencia de Vizcaya absuelve a un guardia municipal de San Sebastián acusado de agredir sexualmente a una compañera en las fiestas de Bilbao.
+
+La Audiencia Provincial de Vizcaya ha dictado la libre absolución para un agente de la guardia municipal de San Sebastián procesado por una presunta agresión sexual cometida, supuestamente, durante las fiestas de Bilbao. El tribunal fundamenta su decisión en la ausencia de una "certeza absoluta" para condenar, al no qu.
+
+Date: 2026-07-21
 
 ### El Torneo Donostia Hiria se apunta a la Semana Grande
 
@@ -62,12 +68,6 @@ Año 1951. Para «pasear o sentarse a descansar, sin sentir los rigores del sol�
 
 Date: 2026-07-17
 
-### Un incendio deja cinco intoxicados por humo en una galería de arte de Cieza (Murcia)
-
-Los servicios de emergencia extinguieron este jueves un incendio declarado en el interior de la Galería Francisco Serrano , situada en la calle San Sebastián de Cieza. Como consecuencia del incendio, cinco personas fueron atendidas por inhalación de humo , sin que ninguna precisara traslado hospitalario. El Centro de C.
-
-Date: 2026-07-17
-
 ## Fuentes
 
-- [El Torneo Donostia Hiria se apunta a la Semana Grande](https://www.diariovasco.com/deportes/pelota/altuna-rezusta-buscaran-tercera-txapela-consecutiva-donostia-hiria-20260720123203-nt_amp.html?utm_source=lootura.com) — 2026-07-20T10:32:24.000Z
+- [La Audiencia de Vizcaya absuelve a un guardia municipal de San Sebastián acusado de agredir sexualmente a una compañera en las fiestas de Bilbao.](https://www.larazon.es/pais-vasco/audiencia-vizcaya-absuelve-guardia-municipal-san-sebastian-acusado-agredir-sexualmente-companera-fiestas-bilbao_202607216a5fa5a3303ca6202cc3c548.html?utm_source=lootura.com) — 2026-07-21T17:00:19.000Z

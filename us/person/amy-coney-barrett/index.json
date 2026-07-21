@@ -9,7 +9,15 @@
   "jsonUrl": "https://atlas.lootura.com/us/person/amy-coney-barrett/index.json",
   "description": "Follow Amy Coney Barrett, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
   "updatedAt": "2026-07-15T20:58:15.661Z",
-  "aliases": [],
+  "aliases": [
+    "Barrett",
+    "Coney",
+    "Amy Vivian Coney",
+    "Amy Coney",
+    "ACB",
+    "A. Barrett",
+    "Amy Vivian Coney Barrett"
+  ],
   "changes": [
     {
       "title": "Funding milestone detected",

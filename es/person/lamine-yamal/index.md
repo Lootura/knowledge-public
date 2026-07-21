@@ -3,7 +3,7 @@
 > Sigue la actividad de Lamine Yamal en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-21T06:26:04.171Z
+- Actualizado: 2026-07-21T21:06:12.863Z
 - Canonical: https://atlas.lootura.com/es/person/lamine-yamal
 
 ## Cambios recientes
@@ -70,4 +70,4 @@ Date: 2026-07-10
 
 ## Fuentes
 
-No public source links.
+- [Irán celebra la victoria de la selección: Lamine Yamal, en uno de los drones lanzados contra bases de EEUU](https://www.elindependiente.com/internacional/2026/07/21/iran-victoria-seleccion-lamine-yamal-drones-bases-eeuu/?utm_source=lootura.com) — 2026-07-21T17:53:36.000Z

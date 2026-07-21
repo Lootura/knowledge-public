@@ -3,7 +3,7 @@
 > Follow Maine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-21T10:23:35.333Z
+- Updated: 2026-07-21T21:06:38.270Z
 - Canonical: https://atlas.lootura.com/us/place/maine
 
 ## Recent changes
@@ -11,6 +11,12 @@
 ### Once Anti-Abortion, Now a Progressive: The Evolution of a Maine Democrat
 
 Troy Jackson, who is expected to become his party’s nominee in the state’s marquee Senate race, has long been an economic populist, but his positions on social issues have changed markedly over time.
+
+Date: 2026-07-21
+
+### Democrats’ Top Senate Candidate in Maine Won’t Support Schumer for Leader
+
+Troy Jackson, who is set to become the party’s nominee, also said in an interview that he was not sure he wanted the support of Senator Chuck Schumer in the general election.
 
 Date: 2026-07-21
 
@@ -62,15 +68,8 @@ Troy Jackson, a progressive, solidified his clear edge in the contest to replace
 
 Date: 2026-07-20
 
-### In Maine, Troy Jackson Gains Momentum in Bid to Replace Platner
-
-Troy Jackson, a progressive former State Senate president, showed signs of significant strength, as half the state’s counties picked delegates to a convention where they will choose Graham Platner’s replacement.
-
-Date: 2026-07-20
-
 ## Sources
 
-- [Troy Jackson set to become Democratic Maine Senate nominee, replacing Platner](https://www.cbsnews.com/video/troy-jackson-set-to-become-democratic-maine-senate-nominee/?utm_source=lootura.com) — 2026-07-21T01:15:00.000Z
-- [Senators demand ICE answers and body cameras after deadly shootings in Maine and Houston](https://www.pbs.org/newshour/nation/senators-demand-ice-answers-and-body-cameras-after-deadly-shootings-in-maine-and-houston?utm_source=lootura.com) — 2026-07-20T19:10:30.000Z
-- [5 Things to Know About the Maine Senate Candidate Troy Jackson](https://www.nytimes.com/2026/07/20/us/politics/troy-jackson-maine-senate.html?utm_source=lootura.com) — 2026-07-20T15:11:12.000Z
-- [Once Anti-Abortion, Now a Progressive: The Evolution of a Maine Democrat](https://www.nytimes.com/2026/07/21/us/politics/troy-jackson-maine-senate.html?utm_source=lootura.com) — 2026-07-21T09:02:47.000Z
+- [Troy Jackson Tightens Hold on Democratic Senate Nomination in Maine](https://www.nytimes.com/2026/07/21/us/politics/troy-jackson-maine-senate-democrats.html?utm_source=lootura.com) — 2026-07-21T20:10:13.000Z
+- [Once Anti-Abortion, Now a Progressive: The Evolution of a Maine Democrat](https://www.nytimes.com/2026/07/21/us/politics/troy-jackson-maine-senate.html?utm_source=lootura.com) — 2026-07-21T15:13:42.000Z
+- [Democrats’ Top Senate Candidate in Maine Won’t Support Schumer for Leader](https://www.nytimes.com/2026/07/21/us/politics/troy-jackson-schumer-maine-senate.html?utm_source=lootura.com) — 2026-07-21T17:52:33.000Z

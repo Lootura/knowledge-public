@@ -3,7 +3,7 @@
 > Follow Taylor Farms, a tracked company, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: company
-- Updated: 2026-07-21T10:23:35.333Z
+- Updated: 2026-07-21T21:06:38.270Z
 - Canonical: https://atlas.lootura.com/us/company/taylor-farms
 
 ## Recent changes
@@ -70,6 +70,4 @@ Date: 2026-07-17
 
 ## Sources
 
-- [What to know about Taylor Farms, the produce giant tied to the cyclospora outbreak](https://www.cbsnews.com/news/taylor-farms-cyclospora-outbreak/?utm_source=lootura.com) — 2026-07-20T21:08:06.000Z
 - [FDA still focused on Taylor Farms lettuce as Cyclospora source despite retracted test](https://www.npr.org/2026/07/20/nx-s1-5901356/fda-focused-taylor-farms-lettuce-cyclospora-source-despite-retracted-test?utm_source=lootura.com) — 2026-07-21T00:36:28.000Z
-- [Test results create more confusion around cyclosporiasis outbreak](https://www.pbs.org/newshour/show/test-results-create-confusion-around-cyclosporiasis-outbreak?utm_source=lootura.com) — 2026-07-20T22:35:51.000Z

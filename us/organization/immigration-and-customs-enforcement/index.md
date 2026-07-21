@@ -1,6 +1,6 @@
-# U.S. Immigration and Customs Enforcement
+# United States Immigration and Customs Enforcement
 
-> Follow U.S. Immigration and Customs Enforcement, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
+> Follow United States Immigration and Customs Enforcement, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
 - Updated: 2026-07-21T10:23:35.333Z
@@ -70,5 +70,4 @@ Date: 2026-07-15
 
 ## Sources
 
-- [Video appears to show United employee threatening to call ICE on customer](https://www.cbsnews.com/news/united-airlines-employee-threatens-to-call-ice-sfo-passenger-act-like-a-citizen/?utm_source=lootura.com) — 2026-07-21T01:43:00.000Z
-- [Senators demand ICE answers and body cameras after deadly shootings in Maine and Houston](https://www.pbs.org/newshour/nation/senators-demand-ice-answers-and-body-cameras-after-deadly-shootings-in-maine-and-houston?utm_source=lootura.com) — 2026-07-20T19:10:30.000Z
+- [Video appears to show United employee threatening to call ICE on customer](https://www.cbsnews.com/news/united-airlines-employee-threatens-to-call-ice-sfo-passenger-act-like-a-citizen/?utm_source=lootura.com) — 2026-07-21T16:53:39.000Z

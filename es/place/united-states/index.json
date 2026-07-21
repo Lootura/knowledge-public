@@ -8,13 +8,49 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/united-states/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/united-states/index.json",
   "description": "Sigue la actividad de Estados Unidos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-21T10:23:08.875Z",
+  "updatedAt": "2026-07-21T21:06:12.863Z",
   "aliases": [
     "America",
-    "Estados Unidos",
-    "U.S."
+    "U.S.",
+    "United States",
+    "EE.UU.",
+    "EEUU",
+    "Estados Unidos de América",
+    "Los Estados Unidos",
+    "Los Estados Unidos de América",
+    "EE.UU. de América",
+    "los Estados",
+    "Unión Americana",
+    "the States",
+    "the United States of America",
+    "US of America",
+    "the US",
+    "the U.S.",
+    "the US of A",
+    "U.S. of America",
+    "the US of America",
+    "the USA",
+    "the U.S.A.",
+    "the U.S. of A",
+    "US of A",
+    "the U.S. of America",
+    "the United States",
+    "Merica",
+    "Murica",
+    "U. S.",
+    "U. S. A."
   ],
   "changes": [
+    {
+      "title": "Iberostar y Barceló se suman a Meliá y dejan de operar en Cuba por las sanciones de EE UU",
+      "summary": "Las tres cadenas españolas ponen fin a décadas de presencia en la isla ante las dificultades operativas y los riesgos asociados al embargo de Estados Unidos.",
+      "date": "2026-07-21"
+    },
+    {
+      "title": "Trump pide inmunidad judicial para Delcy Rodríguez mientras siga en el poder",
+      "summary": "La Administración de Donald Trump ha pedido al Departamento de Justicia de Estados Unidos que garantice la inmunidad judicial de la presidenta interina de.",
+      "date": "2026-07-21"
+    },
     {
       "title": "Sebastián Yatra cantará el 10 de octubre en el festival de la Hispanidad en Madrid",
       "summary": "El músico colombiano será el cabeza de cartel, en el que también estará Marta Sánchez, en la semana de eventos y conciertos en la región y en la que Estados Unidos será el país invitado.",
@@ -54,37 +90,21 @@
       "title": "Irán presume de haber atacado de forma simultánea a EE UU en Bahrein y Qatar",
       "summary": "Irán afirmó este lunes haber atacado simultáneamente tres posiciones militares estadounidenses en Bahrein y Kuwait, en una nueva oleada de su ofensiva contra objetivos de Estados Unidos en Oriente Medio en respuesta a los ataques estadounidenses contra territorio iraní. \"Los combatientes de la Armada de la Guardia Revo.",
       "date": "2026-07-20"
-    },
-    {
-      "title": "El Ibex 35 sube 0,28% a mediodía y recupera los 19.200 puntos, con el petróleo 87 dólares",
-      "summary": "El Ibex 35 cotizaba en la media sesión con una subida del 0,28% , hasta situarse en los 19.271,60 puntos , tras suavizarse el precio del crudo hasta los 87 dólares desde los 92 dólares marcados en la apertura de este lunes, en un contexto marcado por los ataques cruzados entre Irán y Estados Unidos en Oriente Próximo .",
-      "date": "2026-07-20"
-    },
-    {
-      "title": "El petróleo pierde un 4% desde máximos por la expectativa de un acuerdo entre Irán y EEUU",
-      "summary": "El precio del barril de crudo de calidad Brent , que había llegado este lunes, 20 de julio, a superar el umbral de los 91 dólares , se ha dado la vuelta y cedía alrededor de un 4% desde los máximos del día. Todo esto ha pasado después de que Irán haya asegurado que los contactos diplomáticos con Estados Unidos continúa.",
-      "date": "2026-07-20"
     }
   ],
   "sources": [
     {
-      "title": "Sebastián Yatra cantará el 10 de octubre en el festival de la Hispanidad en Madrid",
-      "url": "https://www.abc.es/espana/madrid/sebastian-yatra-cantara-octubre-festival-hispanidad-madrid-20260721114848-nt.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-21T09:48:48.000Z",
-      "sourceId": "lootura-es-abc"
+      "title": "Iberostar y Barceló se suman a Meliá y dejan de operar en Cuba por las sanciones de EE UU",
+      "url": "https://www.larazon.es/economia/iberostar-barcelo-suman-melia-dejan-operar-cuba-sanciones_202607216a5fa8d7e3eb0b64aa4bf3f6.html?outputType=amp&utm_source=lootura.com",
+      "publishedAt": "2026-07-21T17:13:59.000Z",
+      "sourceId": "lootura-es-la-razon"
     },
     {
-      "title": "Spencer Tunick lleva sus desnudos colectivos a Canarias: “Hay demasiado odio hacia la gente de mente abierta”",
-      "url": "https://elpais.com/cultura/2026-07-21/spencer-tunick-lleva-sus-desnudos-colectivos-a-canarias-hay-demasiado-odio-hacia-la-gente-de-mente-abierta.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-21T03:30:01.000Z",
-      "sourceId": "lootura-es-el-pais"
-    },
-    {
-      "title": "La Comunidad de Madrid celebrará del 2 al 12 de octubre la fiesta de la Hispanidad con EEUU como país invitado",
-      "url": "https://okdiario.com/madrid/comunidad-madrid-celebrara-del-2-12-octubre-fiesta-hispanidad-eeuu-como-pais-invitado-19038861?utm_source=lootura.com",
-      "publishedAt": "2026-07-21T10:11:26.000Z",
-      "sourceId": "lootura-es-ok-diario"
+      "title": "Trump pide inmunidad judicial para Delcy Rodríguez mientras siga en el poder",
+      "url": "https://theobjective.com/internacional/2026-07-21/trump-inmunidad-delcy-rodriguez/?amp=&utm_source=lootura.com",
+      "publishedAt": "2026-07-21T20:53:36.000Z",
+      "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 2
 }

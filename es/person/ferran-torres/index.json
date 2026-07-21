@@ -1,15 +1,20 @@
 {
   "id": "es-ferran-torres",
-  "name": "Ferran Torres",
+  "name": "Ferran Torres García",
   "type": "person",
   "locale": "es",
   "canonicalPath": "/es/person/ferran-torres",
   "canonicalUrl": "https://atlas.lootura.com/es/person/ferran-torres",
   "markdownUrl": "https://atlas.lootura.com/es/person/ferran-torres/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/ferran-torres/index.json",
-  "description": "Sigue la actividad de Ferran Torres en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-21T10:23:08.875Z",
-  "aliases": [],
+  "description": "Sigue la actividad de Ferran Torres García en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
+  "updatedAt": "2026-07-21T21:06:12.863Z",
+  "aliases": [
+    "Ferran",
+    "Torres",
+    "Ferran Torres García",
+    "\"El Tiburón\""
+  ],
   "changes": [
     {
       "title": "Ferran Torres, como símbolo del secreto de Luis de la Fuente",
@@ -49,23 +54,11 @@
   ],
   "sources": [
     {
-      "title": "Los relojes de lujo de los jugadores de la Selección española",
-      "url": "https://www.abc.es/summum/estilo/relojes/coleccion-relojes-lujo-jugadores-seleccion-espanola-futbol-20260721192745-nt.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-21T09:37:04.000Z",
-      "sourceId": "lootura-es-abc"
-    },
-    {
-      "title": "Ferran Torres, como símbolo del secreto de Luis de la Fuente",
-      "url": "https://elpais.com/deportes/mundial-futbol/2026-07-21/ferran-torres-como-simbolo-del-secreto-de-luis-de-la-fuente.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-21T03:30:01.000Z",
-      "sourceId": "lootura-es-el-pais"
-    },
-    {
-      "title": "Sumar llama «especulador» a Ferran Torres y le acusa de tener un «fondo buitre» por invertir 7 millones de euros",
-      "url": "https://okdiario.com/economia/inversion/sumar-llama-especulador-ferran-torres-acusa-tener-fondo-buitre-invertir-7-millones-euros-19038773?utm_source=lootura.com",
-      "publishedAt": "2026-07-21T09:56:54.000Z",
-      "sourceId": "lootura-es-ok-diario"
+      "title": "La Casa Blanca comparte fotos de Ferran y su gorra con referencia a Trump: \"Todos quieren sumarse\"",
+      "url": "https://www.20minutos.es/deportes/futbol/casa-blanca-comparte-imagenes-ferran-torres-su-gorra-con-referencia-trump-todos-quieren-sumarse-movimiento_7017422_0.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-21T20:15:48.000Z",
+      "sourceId": "lootura-es-20minutos"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

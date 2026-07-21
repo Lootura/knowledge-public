@@ -9,7 +9,9 @@
   "jsonUrl": "https://atlas.lootura.com/us/person/keir-starmer/index.json",
   "description": "Follow Keir Starmer, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
   "updatedAt": "2026-07-20T21:10:24.211Z",
-  "aliases": [],
+  "aliases": [
+    "Starmer"
+  ],
   "changes": [
     {
       "title": "Andy Burnham formally appointed U.K. prime minster",

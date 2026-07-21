@@ -3,7 +3,7 @@
 > Follow White House, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-07-21T10:23:35.333Z
+- Updated: 2026-07-21T21:06:38.270Z
 - Canonical: https://atlas.lootura.com/us/organization/white-house
 
 ## Recent changes
@@ -70,5 +70,4 @@ Date: 2026-07-17
 
 ## Sources
 
-- [White House Says New Air Force One Will Be Out of Service for a Month for ‘Upgrades’](https://www.nytimes.com/2026/07/20/us/politics/new-air-force-one-upgrades.html?utm_source=lootura.com) — 2026-07-20T21:43:14.000Z
-- [White House Adds Jefferson Statue to the Rose Garden](https://www.nytimes.com/2026/07/20/arts/design/thomas-jefferson-statue-rose-garden-white-house.html?utm_source=lootura.com) — 2026-07-20T19:46:32.000Z
+- [What to watch for in Arizona tonight: From the Politics Desk](https://www.nbcnews.com/politics/politics-news/watch-arizona-primary-tonight-politics-desk-rcna588599?utm_source=lootura.com) — 2026-07-21T21:00:00.000Z

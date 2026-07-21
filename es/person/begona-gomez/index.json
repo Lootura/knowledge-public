@@ -8,9 +8,14 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/begona-gomez/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/begona-gomez/index.json",
   "description": "Sigue la actividad de Begoña Gómez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-20T14:00:22.171Z",
+  "updatedAt": "2026-07-21T21:06:12.863Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "El Poder Judicial aplaza su decisión sobre si expedienta a Peinado tras no llegar a un acuerdo",
+      "summary": "La falta de acuerdo en el Consejo General del Poder Judicial (CGPJ) ha obligado este martes a aplazar la decisión de ese órgano sobre cinco investigaciones abiertas al juez Juan Carlos Peinado, instructor de la causa contra la esposa del presidente del Gobierno, Begoña Gómez. La comisión permanente —el principal órgano.",
+      "date": "2026-07-21"
+    },
     {
       "title": "Peinado pide a las partes del caso Begoña ajustar sus peticiones para el juicio tras archivarse varios delitos",
       "summary": "El magistrado que dirige la instrucción del caso Begoña Gómez , Juan Carlos Peinado , ha dado un nuevo paso procesal y ha requerido a las partes que remitan escritos actualizados con sus solicitudes de cara al juicio con jurado. La decisión llega después de que la Audiencia Provincial de Madrid ordenara archivar los pr.",
@@ -55,13 +60,15 @@
       "title": "Cómo se elegirán a los nueve miembros del jurado que juzgarán a Begoña Gómez: así es la lista de los candidatos",
       "summary": "La elección de los nueve miembros del jurado que juzgarán a Begoña Gómez partirá de una lista de 2.846 candidatos de la Comunidad de Madrid . De ese registro se convocará a 30 ciudadanos , entre los que se escogerá a los nueve titulares y a dos suplentes que participarán en el juicio. La Audiencia Provincial de Madrid.",
       "date": "2026-07-17"
-    },
-    {
-      "title": "Vicente Vallés, contundente tras ver que Begoña Gómez será juzgada por un jurado popular",
-      "summary": "Begoña Gómez será juzgada por un jurado popular junto a su asesora en Moncloa, Cristina Álvarez. La Audiencia Provincial de Madrid ha avalado el criterio del juez Juan Carlos Peinado y ha confirmado que la causa se tramite por esta vía.La esposa de Pedro Sánchez está acusada de un presunto delito de tráfico de influenc.",
-      "date": "2026-07-17"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "El Poder Judicial aplaza su decisión sobre si expedienta a Peinado tras no llegar a un acuerdo",
+      "url": "https://elpais.com/espana/2026-07-21/el-poder-judicial-aplaza-su-decision-sobre-si-expedienta-a-peinado-tras-no-llegar-a-un-acuerdo.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-21T10:59:58.000Z",
+      "sourceId": "lootura-es-el-pais"
+    }
+  ],
+  "evidenceCount": 1
 }

@@ -3,10 +3,16 @@
 > Sigue la actividad de Alberto Núñez Feijóo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-20T03:17:50.208Z
+- Actualizado: 2026-07-21T21:06:12.863Z
 - Canonical: https://atlas.lootura.com/es/person/alberto-nunez-feijoo
 
 ## Cambios recientes
+
+### Feijóo se adelanta a Sánchez en el balance del curso para aprovechar el misil lanzado por Julio Martínez
+
+El líder del PP, Alberto Núñez Feijóo, ha decidido no esperar a la comparecencia ante la prensa de Pedro Sánchez el próximo martes 28 y se adelanta a este miércoles para valorar el curso político que toca a su fin. Lo hará después del misil lanzado por el empresario 'Julito' Martínez ante el juez de la Audiencia Nacion.
+
+Date: 2026-07-21
 
 ### Así funciona la campaña permanente del PP que tiene a Abascal en sus oraciones
 
@@ -62,12 +68,6 @@ El presidente del PP, Alberto Núñez Feijóo , ha presentado este sábado en Sa
 
 Date: 2026-07-18
 
-### Almeida en la presentación de los candidatos de Feijóo a las municipales: «Tenemos el mejor equipo y el mejor seleccionador»
-
-El alcalde de Madrid y aspirante a la reelección en las próximas elecciones municipales, José Luis Martínez-Almeida , ha puesto en valor el conjunto de candidaturas del PP en las capitales de provincia para estos comicios, y el papel de su líder, Alberto Núñez Feijóo . «Tenemos el mejor equipo y el mejor seleccionador.
-
-Date: 2026-07-18
-
 ## Fuentes
 
-No public source links.
+- [Feijóo se adelanta a Sánchez en el balance del curso para aprovechar el misil lanzado por Julio Martínez](https://www.elindependiente.com/espana/2026/07/21/feijoo-se-adelanta-a-sanchez-en-el-balance-del-curso-para-aprovechar-el-misil-lanzado-por-julio-martinez/?utm_source=lootura.com) — 2026-07-21T17:29:59.000Z

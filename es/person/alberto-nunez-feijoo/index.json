@@ -8,12 +8,25 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/alberto-nunez-feijoo/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/alberto-nunez-feijoo/index.json",
   "description": "Sigue la actividad de Alberto Núñez Feijóo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-20T03:17:50.208Z",
+  "updatedAt": "2026-07-21T21:06:12.863Z",
   "aliases": [
+    "Alberto",
     "Feijóo",
-    "Núñez Feijóo"
+    "Núñez",
+    "Núñez Feijóo",
+    "Nunez Feijoo",
+    "Alberto Nuñez",
+    "Alberto Núñez",
+    "Núñez Feijoo",
+    "Nuñez Feijoo",
+    "Núnez Feijoo"
   ],
   "changes": [
+    {
+      "title": "Feijóo se adelanta a Sánchez en el balance del curso para aprovechar el misil lanzado por Julio Martínez",
+      "summary": "El líder del PP, Alberto Núñez Feijóo, ha decidido no esperar a la comparecencia ante la prensa de Pedro Sánchez el próximo martes 28 y se adelanta a este miércoles para valorar el curso político que toca a su fin. Lo hará después del misil lanzado por el empresario 'Julito' Martínez ante el juez de la Audiencia Nacion.",
+      "date": "2026-07-21"
+    },
     {
       "title": "Así funciona la campaña permanente del PP que tiene a Abascal en sus oraciones",
       "summary": "Alberto Núñez Feijóo ha decidido dejar de mirar el calendario de Pedro Sánchez. Aunque nadie sabe cuándo convocará las próximas elecciones generales y el presidente del Gobierno insiste en mantener la incógnita mientras reivindica su intención de agotar la legislatura, el líder del PP ha puesto en marcha una estrategia.",
@@ -58,13 +71,15 @@
       "title": "Feijóo pide al PP «ganar, ganar y volver a ganar» en las municipales: «Las urnas serán la sentencia del sanchismo»",
       "summary": "El presidente del PP, Alberto Núñez Feijóo , ha presentado este sábado en Santiago de Compostela (Galicia) a los 54 candidatos de su formación en capitales de provincia, capitales de comunidad autónoma y las siete grandes ciudades gallegas para las próximas elecciones municipales del próximo 23 de mayo. El líder popula.",
       "date": "2026-07-18"
-    },
-    {
-      "title": "Almeida en la presentación de los candidatos de Feijóo a las municipales: «Tenemos el mejor equipo y el mejor seleccionador»",
-      "summary": "El alcalde de Madrid y aspirante a la reelección en las próximas elecciones municipales, José Luis Martínez-Almeida , ha puesto en valor el conjunto de candidaturas del PP en las capitales de provincia para estos comicios, y el papel de su líder, Alberto Núñez Feijóo . «Tenemos el mejor equipo y el mejor seleccionador.",
-      "date": "2026-07-18"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Feijóo se adelanta a Sánchez en el balance del curso para aprovechar el misil lanzado por Julio Martínez",
+      "url": "https://www.elindependiente.com/espana/2026/07/21/feijoo-se-adelanta-a-sanchez-en-el-balance-del-curso-para-aprovechar-el-misil-lanzado-por-julio-martinez/?utm_source=lootura.com",
+      "publishedAt": "2026-07-21T17:29:59.000Z",
+      "sourceId": "lootura-es-el-independiente"
+    }
+  ],
+  "evidenceCount": 1
 }

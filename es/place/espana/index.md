@@ -3,10 +3,46 @@
 > Sigue la actividad de España en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-21T10:23:08.875Z
+- Actualizado: 2026-07-21T21:06:12.863Z
 - Canonical: https://atlas.lootura.com/es/place/espana
 
 ## Cambios recientes
+
+### Amenazan a un futbolista vasco del Málaga por apoyar a Argentina contra España: «Etarra. Traidor. Antiespañol»
+
+Einar Galilea llegó a la Costa del Sol hace tres años, cuando los boquerones aún eran un equipo de Primera RFEF.
+
+Date: 2026-07-21
+
+### Las reclamaciones por uso de tarjetas desbancan a las de hipotecas como la mayor causa de conflicto entre entidades y clientes
+
+El Banco de España alerta del aumento de casos de fraude y engaño a través del pago con tarjetas Leer.
+
+Date: 2026-07-21
+
+### España es el mayor refugio para la tortuga boba del mar Mediterráneo, y la mayoría de los nidos están en el litoral de Murcia
+
+Las playas españolas, y especialmente las de la Región de Murcia , se están consolidando como uno de los principales enclaves para la tortuga boba en el Mediterráneo occidental. Las hembras eligen con mayor frecuencia este tramo del litoral para realizar sus puestas, un comportamiento que refuerza el valor ecológico de.
+
+Date: 2026-07-21
+
+### Puigdemont denuncia a España ante la Comisión Europea por incumplir de la Ley de Amnistía
+
+Carles Puigdemont, ex presidente de la Generalitat de Cataluña y líder de Junts, ha presentado un escrito ante la Secretaría General de la Comisión Europea en el que denuncia a España por el incumplimiento de la Ley de Amnistía. El ex presidente catalán responde así después de que el Tribunal de Justicia de la Unión ..
+
+Date: 2026-07-21
+
+### ¿Quién debe pagar por eliminar los microcontaminantes del agua?
+
+Instalaciones de depuración de aguas. dongfang/Shutterstock Durante las últimas décadas, la depuración de aguas residuales ha sido una de las grandes historias de éxito ambiental en España. La Directiva europea sobre tratamiento de aguas residuales urbanas de 1991 supuso la construcción de miles de kilómetros de redes.
+
+Date: 2026-07-21
+
+### Los nuevos casos humanos de fiebre del Nilo Occidental en España activan la alerta
+
+El mosquito común (_Culex pipiens_) es uno de los principales transmisores del virus del Nilo Occidental. Nikul6533/Shutterstock Ya están aquí los primeros casos de la temporada en España de fiebre del Nilo Occidental en humanos. Los afectados son un hombre de la provincia de Alicante, que requirió hospitalización, y u.
+
+Date: 2026-07-21
 
 ### El ascenso meteórico de Pau Cubarsí, el muro tranquilo de España
 
@@ -32,51 +68,12 @@ Vithas avanza en la península Ibérica con la adquisición de GenesisCare Espa�
 
 Date: 2026-07-21
 
-### Roberto Brasero, meteorólogo, sobre el tiempo en España: "Después de la segunda estrella, llega la tercera ola de calor"
-
-España se prepara para un nuevo episodio de temperaturas extremas. Roberto Brasero ha anunciado la llegada de la tercera ola de calor , que provocará un importante ascenso de los termómetros en diferentes puntos del país. Andalucía, el este peninsular y el valle del Ebro serán algunas de las zonas más afectadas. “ Desp.
-
-Date: 2026-07-21
-
-### Amenazan a un futbolista vasco del Málaga por apoyar a Argentina contra España: «Etarra. Traidor. Antiespañol»
-
-Einar Galilea llegó a la Costa del Sol hace tres años, cuando los boquerones aún eran un equipo de Primera RFEF.
-
-Date: 2026-07-21
-
-### Vox se ofende por la estrategia del PP para que no concurra en toda España: "Que no se presenten ellos"
-
-En Génova creen que Vox resta la posibilidad de crecer en escaños en algunas provincias clave.
-
-Date: 2026-07-21
-
-### España elevó un 16,6% su déficit comercial hasta mayo, con 25.094 millones de euros
-
-El déficit comercial de España ascendió en los cinco primeros meses de 2026 a 25.094 millones de euros, tras incrementarse en 3.570 millones respecto al mismo periodo de 202 5, lo que supone un aumento del 16,6% interanual, según ha informado el Ministerio de Economía, Comercio y Empresa. La tasa de cobertura se situó.
-
-Date: 2026-07-21
-
-### Marlaska defiende ante la ONU la baliza V-16 y presume de la seguridad vial en España
-
-El ministro del Interior, Fernando Grande-Marlaska, ha defendido ante las Naciones Unidas la implantación de la baliza V-16 conectada como una de las.
-
-Date: 2026-07-21
-
-### El rey "impotente" y su turbulento reinado que cambió para siempre la historia de España
-
-Tal día como hoy, 21 de julio, pero de 1454, o lo que es lo mismo, hace 572 años, se producía en Valladoli d -que en ese momento funcionaba como la capital política de facto de la Corona de Castilla- uno de los momentos más importantes de la historia del reino de Castilla y de lo que hoy conocemos como España por cómo.
-
-Date: 2026-07-21
-
 ## Fuentes
 
-- [Pablo Gil: «Me espanta pensar que la mitad de la población quiere ser funcionario»](https://www.abc.es/recreo/pablo-gil-economista-espanta-pensar-mitad-poblacion-20260721070000-nt.html?utm_source=lootura.com) — 2026-07-21T09:18:58.000Z
-- [Vithas compra GenesisCare España y refuerza su red asistencial con 18 nuevos centros](https://cincodias.elpais.com/companias/2026-07-21/vithas-compra-genesiscare-espana-y-refuerza-su-red-asistencial-con-18-nuevos-centros.html?utm_source=lootura.com) — 2026-07-21T09:34:32.000Z
-- [Roberto Brasero, meteorólogo, sobre el tiempo en España: "Después de la segunda estrella, llega la tercera ola de calor"](https://www.elconfidencial.com/espana/2026-07-21/roberto-brasero-meteorologo-tiempo-espana-ola-de-calor_4393281/?utm_source=lootura.com) — 2026-07-21T06:10:00.000Z
+- [La Casa Blanca comparte fotos de Ferran y su gorra con referencia a Trump: "Todos quieren sumarse"](https://www.20minutos.es/deportes/futbol/casa-blanca-comparte-imagenes-ferran-torres-su-gorra-con-referencia-trump-todos-quieren-sumarse-movimiento_7017422_0.html?utm_source=lootura.com) — 2026-07-21T20:15:48.000Z
 - [Amenazan a un futbolista vasco del Málaga por apoyar a Argentina contra España: «Etarra. Traidor. Antiespañol»](https://www.elcorreo.com/deportes/futbol/liga-primera/amenazan-futbolista-vasco-malaga-apoyar-argentina-espana-20260721120601-nt_amp.html?utm_source=lootura.com) — 2026-07-21T10:06:01.000Z
-- [Éxtasis en Cibeles con los campeones: "Juntos somos más fuertes, viva España"](https://www.elmundo.es/deportes/futbol/mundial-de-futbol/2026/07/20/6a5e939afdddffd1328b4594.html?utm_source=lootura.com) — 2026-07-20T22:22:48.000Z
-- [La izquierda 'abertzale' también pierde contra España](https://www.elmundo.es/deportes/2026/07/21/6a5e9ca8fc6c8356048b457f.html?utm_source=lootura.com) — 2026-07-20T22:12:25.000Z
-- [El ascenso meteórico de Pau Cubarsí, el muro tranquilo de España](https://elpais.com/deportes/mundial-futbol/2026-07-21/el-ascenso-meteorico-de-pau-cubarsi-el-muro-tranquilo-de-espana.html?utm_source=lootura.com) — 2026-07-21T03:30:01.000Z
-- [Vox se ofende por la estrategia del PP para que no concurra en toda España: "Que no se presenten ellos"](https://www.larazon.es/espana/vox-ofende-estrategia-que-concurra-toda-espana-que-presenten-ellos_202607216a5f4848e3eb0b64aa4b4c9d.html?outputType=amp&utm_source=lootura.com) — 2026-07-21T10:22:09.000Z
-- [España elevó un 16,6% su déficit comercial hasta mayo, con 25.094 millones de euros](https://theobjective.com/economia/2026-07-21/espana-deficit-comercial-25-094-millones/?utm_source=lootura.com) — 2026-07-21T09:14:41.000Z
-- [Marlaska defiende ante la ONU la baliza V-16 y presume de la seguridad vial en España](https://theobjective.com/espana/politica/2026-07-21/marlaska-onu-baliza-v-16/?amp=&utm_source=lootura.com) — 2026-07-21T10:11:02.000Z
+- [Las reclamaciones por uso de tarjetas desbancan a las de hipotecas como la mayor causa de conflicto entre entidades y clientes](https://www.elmundo.es/economia/dinero-inversion/2026/07/21/6a5f645be4d4d8691e8b4574.html?utm_source=lootura.com) — 2026-07-21T12:41:35.000Z
+- [España es el mayor refugio para la tortuga boba del mar Mediterráneo, y la mayoría de los nidos están en el litoral de Murcia](https://okdiario.com/naturaleza/espana-mayor-refugio-tortuga-boba-del-mar-mediterraneo-mayoria-nidos-estan-litoral-murcia-19032545?utm_source=lootura.com) — 2026-07-21T17:00:41.000Z
+- [Puigdemont denuncia a España ante la Comisión Europea por incumplir de la Ley de Amnistía](https://okdiario.com/espana/puigdemont-denuncia-espana-comision-europea-incumplir-ley-amnistia-19043545/amp?utm_source=lootura.com) — 2026-07-21T20:37:19.000Z
+- [¿Quién debe pagar por eliminar los microcontaminantes del agua?](https://theconversation.com/quien-debe-pagar-por-eliminar-los-microcontaminantes-del-agua-286104?utm_source=lootura.com) — 2026-07-21T16:48:06.000Z
+- [Los nuevos casos humanos de fiebre del Nilo Occidental en España activan la alerta](https://theconversation.com/los-nuevos-casos-humanos-de-fiebre-del-nilo-occidental-en-espana-activan-la-alerta-287911?utm_source=lootura.com) — 2026-07-21T16:36:16.000Z

@@ -9,7 +9,12 @@
   "jsonUrl": "https://atlas.lootura.com/es/place/ciudad-lineal/index.json",
   "description": "Sigue la actividad de Ciudad Lineal en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
   "updatedAt": "2026-07-18T20:42:47.844Z",
-  "aliases": [],
+  "aliases": [
+    "Distrito de Ciudad Lineal",
+    "Distrito 15",
+    "Ciudad Lineal District",
+    "District 15"
+  ],
   "changes": [
     {
       "title": "Discovered by Atlas",

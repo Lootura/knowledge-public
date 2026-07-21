@@ -1,0 +1,56 @@
+{
+  "id": "es-el-consejo",
+  "name": "El Consejo",
+  "type": "place",
+  "locale": "es",
+  "canonicalPath": "/es/place/el-consejo",
+  "canonicalUrl": "https://atlas.lootura.com/es/place/el-consejo",
+  "markdownUrl": "https://atlas.lootura.com/es/place/el-consejo/index.md",
+  "jsonUrl": "https://atlas.lootura.com/es/place/el-consejo/index.json",
+  "description": "Sigue la actividad de El Consejo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
+  "updatedAt": "2026-07-21T21:06:12.863Z",
+  "aliases": [],
+  "changes": [
+    {
+      "title": "El Gobierno nombra a Juan José Ganuza presidente de la CNMC y tres consejeros afines",
+      "summary": "El Consejo de Ministros ha aprobado el nombramiento de Juan José Ganuza Fernández como nuevo presidente de la Comisión Nacional de los Mercados y la Competencia (CNMC) , así como de Joan Capdevila, Carmen Balsa y Marina Echebarría como consejeros de la misma entidad.La oficialización de estas designaciones se producen.",
+      "date": "2026-07-21"
+    },
+    {
+      "title": "La nueva ley del tabaco prohíbe fumar a los menores y hacerlo en playas, terrazas y campus universitarios",
+      "summary": "El Consejo de Ministros ha aprobado este martes el proyecto de la ley del tabaco , que amplía los espacios sin humo para incluir playas y terrazas, entre otros, y endurece la legislación para vapeadores y otros dispositivos. El texto impulsado por el Ministerio de Sanidad será remitido posteriormente a las Cortes para.",
+      "date": "2026-07-21"
+    },
+    {
+      "title": "Encuesta | ¿Le parece bien que el Gobierno quiera prohibir fumar en terrazas, playas y piscinas?",
+      "summary": "El Consejo de Ministros ha dado luz verde este martes, en segunda vuelta, al proyecto de reforma de la Ley 28/2005 de medidas sanitarias frente al tabaquismo, que inicia ahora su tramitación en las Cortes Generales. La principal novedad respecto al primer texto —aprobado en septiembre del año pasado— es la inclusión de.",
+      "date": "2026-07-21"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "El Consejo first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-07-21"
+    }
+  ],
+  "sources": [
+    {
+      "title": "El Gobierno nombra a Juan José Ganuza presidente de la CNMC y tres consejeros afines",
+      "url": "https://www.abc.es/economia/gobierno-nombra-juan-jose-ganuza-presidente-cnmc-20260721212746-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-21T20:18:02.000Z",
+      "sourceId": "lootura-es-abc"
+    },
+    {
+      "title": "La nueva ley del tabaco prohíbe fumar a los menores y hacerlo en playas, terrazas y campus universitarios",
+      "url": "https://elpais.com/sociedad/2026-07-21/la-nueva-ley-del-tabaco-prohibe-fumar-a-los-menores-y-hacerlo-en-terrazas-y-campus-universitarios.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-21T11:53:40.000Z",
+      "sourceId": "lootura-es-el-pais"
+    },
+    {
+      "title": "Encuesta | ¿Le parece bien que el Gobierno quiera prohibir fumar en terrazas, playas y piscinas?",
+      "url": "https://theobjective.com/sanidad/2026-07-21/encuesta-fumar-terrazas-playas-piscinas/?utm_source=lootura.com",
+      "publishedAt": "2026-07-21T15:40:58.000Z",
+      "sourceId": "lootura-es-the-objective"
+    }
+  ],
+  "evidenceCount": 3
+}

@@ -57,25 +57,6 @@
       "date": "2026-07-19"
     }
   ],
-  "sources": [
-    {
-      "title": "Tate brothers detained as they face new charges, possible U.K. extradition",
-      "url": "https://www.cbsnews.com/news/andrew-tristan-tate-brothers-federal-detention-miami/?utm_source=lootura.com",
-      "publishedAt": "2026-07-21T01:39:24.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
-    {
-      "title": "Tate brothers in Miami court after new U.K. charges",
-      "url": "https://www.nbcnews.com/now/video/tate-brothers-in-miami-court-after-new-u-k-charges-266963013563?utm_source=lootura.com",
-      "publishedAt": "2026-07-20T18:51:52.000Z",
-      "sourceId": "lootura-us-nbc-news"
-    },
-    {
-      "title": "News Wrap: Andy Burnham becomes Britain's 7th prime minister in a decade",
-      "url": "https://www.pbs.org/newshour/show/news-wrap-andy-burnham-becomes-britains-7th-prime-minister-in-a-decade?utm_source=lootura.com",
-      "publishedAt": "2026-07-20T22:45:03.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
-    }
-  ],
-  "evidenceCount": 3
+  "sources": [],
+  "evidenceCount": 0
 }

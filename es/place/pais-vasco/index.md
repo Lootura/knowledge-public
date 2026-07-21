@@ -70,4 +70,4 @@ Date: 2026-07-15
 
 ## Fuentes
 
-- [Reconstrucción de los ataques violentos a los seguidores de La Roja](https://www.elcorreo.com/politica/reconstruccion-ataques-violentos-seguidores-roja-20260720143810-nt.html?utm_source=lootura.com) — 2026-07-20T12:38:10.000Z
+No public source links.

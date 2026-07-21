@@ -1,6 +1,6 @@
-# FIFA
+# Federación Internacional de Fútbol Asociación
 
-> Sigue la actividad de FIFA en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
+> Sigue la actividad de Federación Internacional de Fútbol Asociación en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
 - Actualizado: 2026-07-21T10:23:08.875Z
@@ -40,4 +40,4 @@ Date: 2026-07-08
 
 ## Fuentes
 
-- [Argentina se queda huérfana](https://elpais.com/america/2026-07-21/argentina-se-queda-huerfana.html?utm_source=lootura.com) — 2026-07-21T03:30:01.000Z
+No public source links.

@@ -8,9 +8,21 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/canada/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/canada/index.json",
   "description": "Follow Canada, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-21T10:23:35.333Z",
-  "aliases": [],
+  "updatedAt": "2026-07-21T21:06:38.270Z",
+  "aliases": [
+    "Can"
+  ],
   "changes": [
+    {
+      "title": "Trump hits Canada with slew of new 50% tariffs set to take effect in 30 days",
+      "summary": "President Trump takes aim at Canada with his latest round of tariffs hitting a variety of goods at 50%.",
+      "date": "2026-07-21"
+    },
+    {
+      "title": "Trump Escalates Canada Tariffs as Mark Carney Holds Firm",
+      "summary": "The president’s new tariffs on a top U.S. trading partner aim at gaining concessions, but the Canadian government, and the public, have been bracing for the escalation.",
+      "date": "2026-07-21"
+    },
     {
       "title": "Donald Trump to impose 50% tariff on most Canadian goods, White House says",
       "summary": "Turmoil likely as Trump officials say Canada unfairly discriminated against US autos, alcohol and dairy products Donald Trump is imposing 50% tariffs on most Canadian goods in response to the country retaliating against previous US tariffs, the White House announced Monday, declaring Canada has unfairly discriminated a.",
@@ -50,25 +62,21 @@
       "title": "Air quality improving in Northeast, while wildfire smoke hangs over Midwest",
       "summary": "Wildfire smoke and unhealthy air persist and shift direction, as Trump demands explanation from Canada. (Image credit: Finn Gomez/Getty Images).",
       "date": "2026-07-18"
-    },
-    {
-      "title": "What the US and Canada Can Expect from the Wildfire Smoke This Weekend",
-      "summary": "The smoke isn’t going away, but where it affects air quality will shift over the next few days.",
-      "date": "2026-07-18"
-    },
-    {
-      "title": "Maps show wildfire smoke forecast, air quality alerts in swath of U.S.",
-      "summary": "Heavy smoke from several large wildfires blazing in Canada and Minnesota is engulfing large swaths of the Midwest and the U.S. East Coast this week.",
-      "date": "2026-07-18"
     }
   ],
   "sources": [
     {
-      "title": "10 things that wowed us at the 2026 World Cup",
-      "url": "https://www.npr.org/2026/07/20/nx-s1-5892511/2026-world-cup-fifa-spain-argentina-tournament?utm_source=lootura.com",
-      "publishedAt": "2026-07-20T19:56:44.000Z",
-      "sourceId": "lootura-us-npr"
+      "title": "Trump hits Canada with slew of new 50% tariffs set to take effect in 30 days",
+      "url": "https://www.npr.org/2026/07/21/nx-s1-5901957/trump-hits-canada-with-slew-of-new-50-tariffs-set-to-take-effect-in-30-days?utm_source=lootura.com",
+      "publishedAt": "2026-07-21T20:09:34.000Z",
+      "sourceId": "lootura-us-npr-politics"
+    },
+    {
+      "title": "Trump Escalates Canada Tariffs as Mark Carney Holds Firm",
+      "url": "https://www.nytimes.com/2026/07/21/world/canada/trump-carney-trade-tariffs.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-21T17:21:51.000Z",
+      "sourceId": "lootura-us-the-new-york-times-world"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 2
 }

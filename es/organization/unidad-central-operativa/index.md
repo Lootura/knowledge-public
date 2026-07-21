@@ -8,65 +8,65 @@
 
 ## Cambios recientes
 
-### Mandos de la Guardia Civil denuncian «alteración» en los ascensos para sancionar a generales y coroneles díscolos
+### La UCO concluye que Cerdán dispuso de "numeroso dinero en metálico en la etapa ministerial de Ábalos"
 
-Todo empezó en agosto de 2018. Apenas dos meses después de la llegada de Pedro Sánchez a Moncloa, el ministro del Interior, Fernando Grande-Marlaska emite la primera orden política contra la Unidad Central Operativa (UCO) de la Guardia Civil : dejar sin fondos reservados a la policía judicial para investigar la corrupc.
-
-Date: 2026-07-20
-
-### Mandos de la Guardia Civil denuncian una «alteración» en el sistema de ascensos para sancionar a los generales y coroneles díscolos
-
-Todo empezó en agosto de 2018. Apenas dos meses después de la llegada de Pedro Sánchez a Moncloa, el ministro del Interior, Fernando Grande-Marlaska emite la primera orden política contra la Unidad Central Operativa (UCO) de la Guardia Civil : dejar sin fondos reservados a la policía judicial para investigar la corrupc.
-
-Date: 2026-07-19
-
-### Cerdán disparó su gasto en cash mientras Ábalos adjudicaba contratos
-
-El último informe de la Unidad Central Operativa (UCO) de la Guardia Civil complica la estrategia de defensa del ex secretario de Organización del PSOE Santos Cerdán al...
+La Unidad Central Operativa (UCO) de la Guardia Civil concluye que Santos Cerdán dispuso de "fuentes de ingresos" no declaradas y que su constructora Servinabar llegó a...
 
 Date: 2026-07-17
 
-### La UCO cifra en más de 300.000 euros los beneficios que Cerdán y su familia obtuvieron de la trama entre 2015 y 2024
+### La UCO dice que los ingresos de Cerdán se dispararon en la «etapa ministerial» de Ábalos y tras su ascenso en el PSOE
 
-Las investigaciones de la Unidad Central Operativa (UCO) de la Guardia Civil vuelven a poner el foco en el exsecretario de Organización del PSOE Santos Cerdán. El instituto armado ha entregado al juez de la Audiencia Nacional Ismael Moreno, que investiga la red corrupta que presuntamente anidó en el Ministerio de Trans.
-
-Date: 2026-07-17
-
-### La UCO apunta a que la esposa de Cerdán cobró 1.300 euros mensuales de una empresa para la que no trabajaba
-
-El informe de la Unidad Central Operativa (UCO) de la Guardia Civil sobre el patrimonio del exsecretario de Organización del PSOE Santos Cerdán apunta a que una mercantil ligada al empresario Antxon Alonso, amigo del exdirigente socialista, estuvo pagando 1.300 euros al mes a Francisca Muñoz, esposa del dirigente socia.
+La Unidad Central Operativa (UCO) de la Guardia Civil ha revelado que el que fuera mano derecha de Pedro Sánchez Santos Cerdán vio como sus ingresos se dispararon coincidiendo con la «etapa ministerial» del que fuera responsable de Transportes José Luis Ábalos y tras sustituir al mismo como secretario de Organización d.
 
 Date: 2026-07-17
 
-### Servinabar intentó comprar para Cerdán un piso en Madrid valorado en cerca de un millón de euros, según la UCO
+### La UCO hunde a Cerdán
 
-El informe elaborado por la Unidad Central Operativa (UCO) de la Guardia Civil sobre el patrimonio del exsecretario de Organización del PSOE Santos Cerdán revela que, entre septiembre y octubre de 2021, una de las empresas clave de la trama negoció la compra de una vivienda de lujo en Madrid para que fuera usada por el.
+Nuevo informe de la UCO . En esta ocasión, el señalado, tocado y hundido, es Santos Cerdán , el ex secretario de Organización del PSOE, el sucesor del condenado José Luis Ábalos. La Unidad Central Operativa de la Guardia Civil pone de manifiesto que los ingresos de Cerdán aumentaron de forma considerable entre 2015 y 2.
+
+Date: 2026-07-17
+
+### La UCO cifra en más de 300.000 euros lo que Cerdán habría obtenido de la trama Koldo
+
+La Unidad Central Operativa (UCO) de la Guardia Civil pone de manifiesto en un nuevo informe sobre el patrimonio del ex secretario de Organización del PSOE, Santos Cerdán , que sus ingresos aumentaron de forma considerable en los años en los que José Luis Ábalos estuvo al frente del Ministerio de Transportes, en concre.
+
+Date: 2026-07-17
+
+### La UCO detecta que Santos Cerdán obtuvo sus mayores beneficios cuando José Luis Ábalos era ministro de Transportes
+
+La Unidad Central Operativa ( UCO ) de la Guardia Civil ha detectado que Santos Cerdán y su familia obtuvieron 323.178 euros de "beneficios" irregulares, entre 2015 y 2024, y que alcanzaron "sus máximos" entre 2019 y 2023, "periodo que aglutina la denominada etapa ministerial de (José Luis) Ábalos" y en la que él le re.
+
+Date: 2026-07-17
+
+### Cerdán quiso un "pisazo" de casi un millón de euros entre recelos de su socio y comprador: "Han estado viendo uno de 950"
+
+La Unidad Central Operativa (UCO) ha apuntado que la empresa Servinabar, una constructora en la que los investigadores sitúan a Santos Cerdán como socio, intentó comprar un piso valorado en casi un millón de euros para el exdirigente socialista. "Han estado viendo uno de 950", escribió el empresario Antxon Alonso, admi.
+
+Date: 2026-07-17
+
+### La UCO detecta que Cerdán logró sus mayores beneficios en la etapa de Ábalos de ministro
+
+La Unidad Central Operativa (UCO) de la Guardia Civil ha detectado que Santos Cerdán y su familia obtuvieron 323.178 euros de «beneficios» entre 2015 y.
 
 Date: 2026-07-17
 
 ### Discovered by Atlas
 
-Unidad Central Operativa first entered the public knowledge record with source-backed evidence.
+La Unidad Central first entered the public knowledge record with source-backed evidence.
 
-Date: 2026-07-16
+Date: 2026-07-14
 
-### El jefe operativo de la Guardia Civil niega presiones a la UCO y denuncia una campaña contra él
+### La UCO confirma que el PSOE pagó 43.225 euros a Leire a través de Zarrías y del exabogado de Koldo
 
-El teniente general Manuel Llamas, número dos de la Guardia Civil en su condición de director adjunto operativo (DAO), ha negado este jueves ante el juez Santiago Pedraz, instructor del llamado caso Leire Díez, que él haya presionado a los agentes de la Unidad Central Operativa (UCO) o les haya pedido que se “pusieran.
+Operativa (UCO) de la Guardia Civil ha confirmado al juez de la Audiencia Nacional Santiago Pedraz que el PSOE pagó 43.225 euros a la presunta fontanera del partido, Leire Díez , a través de la consultora del exdirigente socialista Gaspar Zarrías y del despacho del exabogado de Koldo García Ismael Oli.
 
-Date: 2026-07-16
+Date: 2026-07-14
 
-### El DAO de la Guardia Civil abrió un expediente a la UCO tras recibir una llamada de queja de Marlaska
+### La UCO concluye que el PSOE usó empresas interpuestas para pagar a Leire Díez 43.225 euros
 
-El director adjunto operativo (DAO) de la Guardia Civil, Manuel Llamas, ha afirmado durante su declaración como investigado ante el juez del caso Leire, Santiago Pedraz, que abrió una información reservada a la Unidad Central Operativa (UCO) de la Guardia Civil en 2024, después de que la dirección de correo corporativo.
+Operativa (UCO) de la Guardia Civil ha localizado al menos cinco pagos a Leire Díez en 2024 vinculados a las supuestas "cloacas del PSOE" y cuyo origen sitúa en Ferraz por un importe total de 43.225 euros, para lo que habría utilizado empresas interpuestas. Así consta en el último informe remitido al.
 
-Date: 2026-07-16
-
-### El DAO admite reuniones con Leire Díez pero dice que no pidió ponerse de perfil en causas contra el Gobierno
-
-El director adjunto operativo (DAO) de la Guardia Civil, Manuel Llamas, ha contradicho este jueves ante el juez a la Unidad Central Operativa (UCO), al negar que pidiera a sus agentes ponerse "de perfil" en causas judiciales comprometedoras para el Gobierno o con incidencia política. Según fuentes jurídicas, Llamas ha.
-
-Date: 2026-07-16
+Date: 2026-07-14
 
 ## Fuentes
 

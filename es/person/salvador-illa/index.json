@@ -9,7 +9,10 @@
   "jsonUrl": "https://atlas.lootura.com/es/person/salvador-illa/index.json",
   "description": "Sigue la actividad de Salvador Illa en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
   "updatedAt": "2026-07-20T06:43:17.611Z",
-  "aliases": [],
+  "aliases": [
+    "Salvador",
+    "Salvador Illa Roca"
+  ],
   "changes": [
     {
       "title": "Illa abre una minicrisis en la Generalitat con el relevo de la consellera de Drets Socials",

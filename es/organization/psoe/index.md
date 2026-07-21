@@ -3,10 +3,28 @@
 > Sigue la actividad de Partido Socialista Obrero Español en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-21T10:23:08.875Z
+- Actualizado: 2026-07-21T21:06:12.863Z
 - Canonical: https://atlas.lootura.com/es/organization/psoe
 
 ## Cambios recientes
+
+### El Gobierno reitera su confianza en Zapatero pese al nerviosismo creciente en el PSOE
+
+La incomodidad es cada vez más palmaria, pero el Gobierno mantiene su apoyo a José Luis Rodríguez Zapatero tras el terremoto político que ha provocado Julio Martínez al señalar al expresidente como la persona que “marcaba los pasos a seguir” en el rescate de 53 millones de euros de Plus Ultra. Un giro en su estrategia.
+
+Date: 2026-07-21
+
+### Un juez abre juicio oral al número 2 de Diana Morant por un delito de calumnias contra el PP
+
+El titular de la Sección de Instrucción del Tribunal de Instancia de Valencia, Plaza Número 1, ha abierto juicio oral contra el secretario de Organización y número 2 de la ministra Diana Morant , en el PSPV-PSOE, Vicent Mascarell , por un presunto delito de calumnias contra el PP previsto y penado en los artículos 205.
+
+Date: 2026-07-21
+
+### El PSOE recurre el archivo de la causa contra Miguel Ángel Rodríguez por revelación de datos
+
+El PSOE ha pedido a la Audiencia Provincial de Madrid que ordene reabrir la investigación por presunta revelación de secretos a Miguel Ángel Rodríguez,.
+
+Date: 2026-07-21
 
 ### El PSOE recupera la condena al fiscal general para recurrir el archivo a Miguel Ángel Rodríguez: "Ha borrado mensajes"
 
@@ -50,25 +68,8 @@ Reyes Maroto volverá a medirse a José Luis Martínez-Almeida en las urnas. La 
 
 Date: 2026-07-19
 
-### Reyes Maroto y Enma López depositan su voto confiando «en la democracia interna» del PSOE
-
-La portavoz del PSOE en el Ayuntamiento de Madrid, Reyes Maroto, y la portavoz adjunta, Enma López, han depositado este domingo su voto en las primarias.
-
-Date: 2026-07-19
-
-### Más de 30 reuniones con Cerdán y 10.842 mensajes con el exjefe de gabinete de Sánchez
-
-Durante muchas semanas en el Partido Socialista se zafaban de las preguntas sobre Leire Díez afirmando que no era más que « una militante de base ». Aunque ya existían múltiples indicios de que no era así, con imágenes de ella entrando y saliendo de la sede de Ferraz, incluso con un encuentro personal con el exsecretar.
-
-Date: 2026-07-19
-
-### El PSOE de Madrid elige entre la continuidad de Reyes Maroto o volver a empezar con Enma López
-
-Los militantes del PSOE de Madrid están convocados a las urnas este domingo, para elegir en primarias a su candidata a la Alcaldía de la capital en la próxima cita electoral, el 23 de mayo de 2027. La actual portavoz socialista municipal, Reyes Maroto , se enfrentará a su portavoz adjunta en el ayuntamiento, Enma López.
-
-Date: 2026-07-19
-
 ## Fuentes
 
-- [El PSOE recupera la condena al fiscal general para recurrir el archivo a Miguel Ángel Rodríguez: "Ha borrado mensajes"](https://www.eldiario.es/politica/psoe-recupera-condena-fiscal-general-recurrir-archivo-miguel-angel-rodriguez-borrado-mensajes_1_13392980.html?utm_source=lootura.com) — 2026-07-21T06:29:52.000Z
-- [La abogada de Koldo García pide citar a Aldama en el ‘caso Leire Díez’](https://theobjective.com/espana/tribunales/2026-07-21/abogada-koldo-garcia-caso-leire-diez/?utm_source=lootura.com) — 2026-07-21T09:13:38.000Z
+- [El Gobierno reitera su confianza en Zapatero pese al nerviosismo creciente en el PSOE](https://elpais.com/espana/2026-07-21/el-gobierno-reitera-su-confianza-en-zapatero-pese-al-nerviosismo-creciente-en-el-psoe.html?utm_source=lootura.com) — 2026-07-21T12:49:44.000Z
+- [Un juez abre juicio oral al número 2 de Diana Morant por un delito de calumnias contra el PP](https://okdiario.com/espana/juez-abre-juicio-oral-numero-2-diana-morant-delito-calumnias-contra-pp-19039288?utm_source=lootura.com) — 2026-07-21T19:05:17.000Z
+- [El PSOE recurre el archivo de la causa contra Miguel Ángel Rodríguez por revelación de datos](https://theobjective.com/espana/tribunales/2026-07-21/psoe-recurre-archivo-causa-miguel-angel-rodriguez/?amp=&utm_source=lootura.com) — 2026-07-21T16:57:11.000Z

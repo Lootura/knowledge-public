@@ -1,16 +1,28 @@
 {
   "id": "es-lionel-messi",
-  "name": "Lionel Messi",
+  "name": "Lío",
   "type": "person",
   "locale": "es",
   "canonicalPath": "/es/person/lionel-messi",
   "canonicalUrl": "https://atlas.lootura.com/es/person/lionel-messi",
   "markdownUrl": "https://atlas.lootura.com/es/person/lionel-messi/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/lionel-messi/index.json",
-  "description": "Sigue la actividad de Lionel Messi en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-21T10:23:08.875Z",
+  "description": "Sigue la actividad de Lío en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
+  "updatedAt": "2026-07-21T21:06:12.863Z",
   "aliases": [
-    "Messi"
+    "Lionel",
+    "Messi",
+    "LM10",
+    "Lío",
+    "La Pulga",
+    "Leo",
+    "El Messías",
+    "Leíto",
+    "Lio",
+    "El Messias",
+    "Leito",
+    "Lionel Andrés ''Leo'' Messi",
+    "Lionel Andres ''Leo'' Messi"
   ],
   "changes": [
     {
@@ -66,10 +78,10 @@
   ],
   "sources": [
     {
-      "title": "La selección argentina regresa a casa sin Messi",
-      "url": "https://www.lavanguardia.com/deportes/futbol/20260721/11597384/seleccion-argentina-regresa-casa-messi.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-21T08:11:53.000Z",
-      "sourceId": "lootura-es-la-vanguardia"
+      "title": "Messi regresa a Argentina tras la derrota en la final del Mundial",
+      "url": "https://elpais.com/argentina/2026-07-21/messi-regresa-a-argentina-tras-la-derrota-en-la-final-del-mundial.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-21T20:53:49.000Z",
+      "sourceId": "lootura-es-el-pais"
     }
   ],
   "evidenceCount": 0

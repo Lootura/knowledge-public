@@ -8,8 +8,10 @@
   "markdownUrl": "https://atlas.lootura.com/us/company/taylor-farms/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/company/taylor-farms/index.json",
   "description": "Follow Taylor Farms, a tracked company, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-21T10:23:35.333Z",
-  "aliases": [],
+  "updatedAt": "2026-07-21T21:06:38.270Z",
+  "aliases": [
+    "Taylor Fresh Foods"
+  ],
   "changes": [
     {
       "title": "FDA still focused on Taylor Farms lettuce as Cyclospora source despite retracted test",
@@ -64,23 +66,11 @@
   ],
   "sources": [
     {
-      "title": "What to know about Taylor Farms, the produce giant tied to the cyclospora outbreak",
-      "url": "https://www.cbsnews.com/news/taylor-farms-cyclospora-outbreak/?utm_source=lootura.com",
-      "publishedAt": "2026-07-20T21:08:06.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
-    {
       "title": "FDA still focused on Taylor Farms lettuce as Cyclospora source despite retracted test",
       "url": "https://www.npr.org/2026/07/20/nx-s1-5901356/fda-focused-taylor-farms-lettuce-cyclospora-source-despite-retracted-test?utm_source=lootura.com",
       "publishedAt": "2026-07-21T00:36:28.000Z",
       "sourceId": "lootura-us-npr"
-    },
-    {
-      "title": "Test results create more confusion around cyclosporiasis outbreak",
-      "url": "https://www.pbs.org/newshour/show/test-results-create-confusion-around-cyclosporiasis-outbreak?utm_source=lootura.com",
-      "publishedAt": "2026-07-20T22:35:51.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 1
 }

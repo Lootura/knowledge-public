@@ -9,7 +9,13 @@
   "jsonUrl": "https://atlas.lootura.com/us/place/barcelona/index.json",
   "description": "Follow Barcelona, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
   "updatedAt": "2026-07-20T21:10:24.211Z",
-  "aliases": [],
+  "aliases": [
+    "B'na",
+    "Barcelona, Spain",
+    "Barcelona, Catalonia",
+    "Barcelona City",
+    "City of Barcelona"
+  ],
   "changes": [
     {
       "title": "New web tool maps fossil locations across ancient continents in seconds",

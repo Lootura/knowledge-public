@@ -1,9 +1,9 @@
-# Apple
+# Apple Inc.
 
-> Follow Apple, a tracked company, in Lootura: recent changes, timeline, related context, and source-backed evidence.
+> Follow Apple Inc., a tracked company, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: company
-- Updated: 2026-07-21T10:23:35.333Z
+- Updated: 2026-07-21T21:06:38.270Z
 - Canonical: https://atlas.lootura.com/us/company/apple
 
 ## Recent changes
@@ -40,4 +40,4 @@ Date: 2026-07-13
 
 ## Sources
 
-- [A.I. ‘Vibecoded’ Apps Are Flooding Apple’s App Store](https://www.nytimes.com/2026/07/20/technology/apple-app-store-vibecoding.html?utm_source=lootura.com) — 2026-07-20T14:02:31.000Z
+- [Apple’s rumored ‘Upgrade’ program brings lease-to-own pricing for iPhones, Macs, and iPads](https://www.theverge.com/tech/968750/apple-upgrade-program?utm_source=lootura.com) — 2026-07-21T17:12:06.000Z

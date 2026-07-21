@@ -8,9 +8,22 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/lindsey-graham/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/lindsey-graham/index.json",
   "description": "Follow Lindsey Graham, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-21T10:23:35.333Z",
-  "aliases": [],
+  "updatedAt": "2026-07-21T21:06:38.270Z",
+  "aliases": [
+    "Lindsey",
+    "Lindsey Olin Graham"
+  ],
   "changes": [
+    {
+      "title": "There’s a power struggle brewing in South Carolina, and Trump might not win",
+      "summary": "The race to fill Lindsey Graham’s seat has created a new test of President Donald Trump’s power. South Carolina Republicans aren’t sure Trump will pass. Sen. Darline Graham, who was appointed last week to fill the remainder of her late brother's term, announced Monday she will seek a full term for her brother’s old sea.",
+      "date": "2026-07-21"
+    },
+    {
+      "title": "South Carolina Senate poll shows surprising frontrunner: Trey Gowdy",
+      "summary": "Former Rep. Trey Gowdy insists he’s not interested in running in the South Carolina special election. But a new poll suggests Gowdy would be formidable if he changed his mind. Gowdy holds a massive lead over seven other potential and declared GOP candidates for the late Sen. Lindsey Graham’s seat, according to a poll f.",
+      "date": "2026-07-21"
+    },
     {
       "title": "South Carolina Republicans test Trump's clout in race for Graham's seat",
       "summary": "The race to fill Lindsey Graham’s seat has created a new test of President Donald Trump’s power. South Carolina Republicans aren’t sure Trump will pass. Sen. Darline Graham, who was appointed last week to fill the remainder of her late brother's term, announced Monday she will seek a full term for her brother’s old sea.",
@@ -50,37 +63,21 @@
       "title": "Trump urges Darline Graham to run for full Senate term as funeral planned for her brother",
       "summary": "President Donald Trump said Friday that Darline Graham, the sister of the late Lindsey Graham, has his support to run for a full term to replace her brother in the U.S. Senate.",
       "date": "2026-07-17"
-    },
-    {
-      "title": "Darline Graham in serious discussions about running for Lindsey Graham's seat",
-      "summary": "Darline Graham indicated in a White House meeting Thursday that she's weighing a bid, CBS News confirmed.",
-      "date": "2026-07-17"
-    },
-    {
-      "title": "Who could replace Lindsey Graham in the Senate after his sudden death?",
-      "summary": "South Carolina Sen. Lindsey Graham's sudden death late Saturday has set off a scramble for who will succeed him in the Senate.",
-      "date": "2026-07-16"
     }
   ],
   "sources": [
     {
-      "title": "South Carolina Republicans test Trump's clout in race for Graham's seat",
+      "title": "There’s a power struggle brewing in South Carolina, and Trump might not win",
       "url": "https://www.politico.com/news/2026/07/21/south-carolina-trump-graham-test-01005834?utm_source=lootura.com",
       "publishedAt": "2026-07-21T08:45:00.000Z",
       "sourceId": "lootura-us-politico"
     },
     {
-      "title": "Nancy Mace won’t run for Lindsey Graham’s Senate seat",
-      "url": "https://www.politico.com/news/2026/07/20/nancy-mace-not-run-for-senate-01005210?utm_source=lootura.com",
-      "publishedAt": "2026-07-20T20:32:17.000Z",
+      "title": "South Carolina Senate poll shows surprising frontrunner: Trey Gowdy",
+      "url": "https://www.politico.com/news/2026/07/21/south-carolina-senate-poll-trey-gowdy-graham-01006741?utm_source=lootura.com",
+      "publishedAt": "2026-07-21T19:47:06.000Z",
       "sourceId": "lootura-us-politico"
-    },
-    {
-      "title": "Lindsey Graham’s Sister, Darline Graham, Says She Will Run to Succeed Him",
-      "url": "https://www.nytimes.com/2026/07/20/us/politics/darline-graham-south-carolina-senate-race.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-20T21:26:50.000Z",
-      "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 2
 }

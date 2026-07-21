@@ -1,16 +1,32 @@
 {
   "id": "es-reino-unido",
-  "name": "Reino Unido",
+  "name": "Reino Unido de Gran Bretaña e Irlanda del Norte",
   "type": "place",
   "locale": "es",
   "canonicalPath": "/es/place/reino-unido",
   "canonicalUrl": "https://atlas.lootura.com/es/place/reino-unido",
   "markdownUrl": "https://atlas.lootura.com/es/place/reino-unido/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/reino-unido/index.json",
-  "description": "Sigue la actividad de Reino Unido en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-21T10:23:08.875Z",
-  "aliases": [],
+  "description": "Sigue la actividad de Reino Unido de Gran Bretaña e Irlanda del Norte en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
+  "updatedAt": "2026-07-21T21:06:12.863Z",
+  "aliases": [
+    "Reino Unido de Gran Bretaña e Irlanda del Norte",
+    "Reino Unido de la Gran Bretaña e Irlanda del Norte",
+    "United Kingdom of Great Britain and Northern Ireland",
+    "U K",
+    "G B",
+    "Great Britain",
+    "Great Britain and Northern Ireland",
+    "the United Kingdom of Great Britain and Northern Ireland",
+    "the UK",
+    "the United Kingdom"
+  ],
   "changes": [
+    {
+      "title": "Iberdrola compra la mayor red de luz de Finlandia por 5.000 millones",
+      "summary": "Iberdrola ha alcanzado un acuerdo para adquirir Caruna, la principal compañía de distribución eléctrica de Finlandia, en una transacción que valora el 100% de la empresa en cerca de 5.000 millones de euros, incluyendo su deuda financiera. Es un importe similar al de la compra de ENW en Reino Unido hace dos años. Seguir.",
+      "date": "2026-07-21"
+    },
     {
       "title": "Burnham anuncia como primera medida la supresión del IVA en la factura eléctrica",
       "summary": "El nuevo primer ministro del Reino Unido, Andy Burnham , está decidido a que el periodo de gracia que acaba de estrenar dure todo lo posible. Horas después de poner un pie en Downing Street, su primera medida anunciada este martes ha sido la supresión del IVA de la factura eléctrica de los hogares. No es una cantidad m.",
@@ -55,19 +71,14 @@
       "title": "Pedro Sánchez, tras la retirada de la Verja de Gibraltar, que ya es historia: \"Los conflictos no están para gestionarlos sino para resolverlos\"",
       "summary": "El presidente del Gobierno asiste al acto simbólico de la eliminación de la frontera física junto al ministro principal del Peñón, el embajador del Reino Unido y los alcaldes de la comarca Leer.",
       "date": "2026-07-15"
-    },
-    {
-      "title": "Begoña Gómez entrega al juez sus billetes de avión al Reino Unido y critica a Peinado por formular una exigencia \"materialmente imposible\"",
-      "summary": "Denuncia que el requerimiento es contrario a la presunción de inocencia y subraya que Reino Unido ha sustituido los sellos físicos por un sistema digital Leer.",
-      "date": "2026-07-15"
     }
   ],
   "sources": [
     {
-      "title": "Burnham anuncia como primera medida la supresión del IVA en la factura eléctrica",
-      "url": "https://elpais.com/internacional/2026-07-21/burnham-anuncia-como-primera-medida-la-supresion-del-iva-en-la-factura-electrica.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-21T09:36:51.000Z",
-      "sourceId": "lootura-es-cinco-dias"
+      "title": "Iberdrola compra la mayor red de luz de Finlandia por 5.000 millones",
+      "url": "https://www.expansion.com/empresas/energia/2026/07/21/6a5f7ea2e5fdea3e5d8b4592.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-21T19:12:44.000Z",
+      "sourceId": "lootura-es-expansion"
     }
   ],
   "evidenceCount": 1

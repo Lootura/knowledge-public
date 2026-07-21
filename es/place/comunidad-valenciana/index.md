@@ -1,6 +1,6 @@
-# Comunidad Valenciana
+# País Valenciano
 
-> Sigue la actividad de Comunidad Valenciana en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
+> Sigue la actividad de País Valenciano en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
 - Actualizado: 2026-07-21T10:23:08.875Z
@@ -58,5 +58,4 @@ Date: 2026-07-14
 
 ## Fuentes
 
-- [Alerta naranja en siete comunidades por la ola de calor: temperaturas asfixiantes y amenaza de reventones y tormentas secas](https://www.larazon.es/el-tiempo/alerta-naranja-siete-comunidades-ola-calor-temperaturas-asfixiantes-amenaza-reventones-tormentas-secas_202607216a5f0edef172396e89eb376b.html?utm_source=lootura.com) — 2026-07-21T06:17:02.000Z
-- [Sumar llama «especulador» a Ferran Torres y le acusa de tener un «fondo buitre» por invertir 7 millones de euros](https://okdiario.com/economia/inversion/sumar-llama-especulador-ferran-torres-acusa-tener-fondo-buitre-invertir-7-millones-euros-19038773?utm_source=lootura.com) — 2026-07-21T09:56:54.000Z
+No public source links.

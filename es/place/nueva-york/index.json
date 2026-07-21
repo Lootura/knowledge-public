@@ -9,7 +9,37 @@
   "jsonUrl": "https://atlas.lootura.com/es/place/nueva-york/index.json",
   "description": "Sigue la actividad de Nueva York en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
   "updatedAt": "2026-07-21T10:23:08.875Z",
-  "aliases": [],
+  "aliases": [
+    "La Gran Manzana",
+    "NY Ciudad",
+    "Capital del Mundo",
+    "Ciudad de Nueva York (NYC)",
+    "La Ciudad Tan Bonita Que La Nombraron Dos Veces",
+    "Los Cinco Distritos",
+    "Ciudad de Nueva York",
+    "Centro del Universo",
+    "the five boroughs",
+    "City of New York",
+    "NY City",
+    "New York City, New York",
+    "New York, NY",
+    "New York City, NY",
+    "Capital of the World",
+    "New York City (NYC)",
+    "New York (city)",
+    "city of New York",
+    "Center of the Universe",
+    "New York City, USA",
+    "New York City, United States of America",
+    "New York, New York, USA",
+    "New York (NY)",
+    "New York, N.Y.",
+    "NY, NY",
+    "New York City, United States",
+    "N. Y., N. Y.",
+    "New York City, New York, United States",
+    "Empire City"
+  ],
   "changes": [
     {
       "title": "La IA, la guerra en Oriente Próximo y la inflación bloquean el camino a nuevos máximos bursátiles",
@@ -62,19 +92,6 @@
       "date": "2026-07-18"
     }
   ],
-  "sources": [
-    {
-      "title": "La IA, la guerra en Oriente Próximo y la inflación bloquean el camino a nuevos máximos bursátiles",
-      "url": "https://cincodias.elpais.com/mercados-financieros/2026-07-21/la-ia-la-guerra-en-oriente-proximo-y-la-inflacion-bloquean-el-camino-a-nuevos-maximos-bursatiles.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-21T04:08:12.000Z",
-      "sourceId": "lootura-es-cinco-dias"
-    },
-    {
-      "title": "Spencer Tunick lleva sus desnudos colectivos a Canarias: “Hay demasiado odio hacia la gente de mente abierta”",
-      "url": "https://elpais.com/cultura/2026-07-21/spencer-tunick-lleva-sus-desnudos-colectivos-a-canarias-hay-demasiado-odio-hacia-la-gente-de-mente-abierta.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-21T03:30:01.000Z",
-      "sourceId": "lootura-es-el-pais"
-    }
-  ],
-  "evidenceCount": 2
+  "sources": [],
+  "evidenceCount": 0
 }

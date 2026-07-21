@@ -9,7 +9,11 @@
   "jsonUrl": "https://atlas.lootura.com/us/company/getty-images/index.json",
   "description": "Follow Getty Images, a tracked company, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
   "updatedAt": "2026-07-20T14:00:46.863Z",
-  "aliases": [],
+  "aliases": [
+    "Getty",
+    "Getty Images, Inc.",
+    "Getty Images Holdings, Inc."
+  ],
   "changes": [
     {
       "title": "How Livestreamed Child Abuse Is Challenging How We Think About Online Privacy",

@@ -1,15 +1,19 @@
 {
   "id": "es-canada",
-  "name": "Canada",
+  "name": "Canadá",
   "type": "place",
   "locale": "es",
   "canonicalPath": "/es/place/canada",
   "canonicalUrl": "https://atlas.lootura.com/es/place/canada",
   "markdownUrl": "https://atlas.lootura.com/es/place/canada/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/canada/index.json",
-  "description": "Sigue la actividad de Canada en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
+  "description": "Sigue la actividad de Canadá en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
   "updatedAt": "2026-07-21T02:27:26.549Z",
-  "aliases": [],
+  "aliases": [
+    "Dominio de Canadá",
+    "Norteamérica Británica",
+    "Can"
+  ],
   "changes": [
     {
       "title": "Gentrificación, sobreexplotación turística, vivienda escasa: ¿y si no todo fuera culpa de Airbnb?",

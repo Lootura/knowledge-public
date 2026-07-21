@@ -3,10 +3,22 @@
 > Sigue la actividad de Estados Unidos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-21T10:23:08.875Z
+- Actualizado: 2026-07-21T21:06:12.863Z
 - Canonical: https://atlas.lootura.com/es/place/united-states
 
 ## Cambios recientes
+
+### Iberostar y Barceló se suman a Meliá y dejan de operar en Cuba por las sanciones de EE UU
+
+Las tres cadenas españolas ponen fin a décadas de presencia en la isla ante las dificultades operativas y los riesgos asociados al embargo de Estados Unidos.
+
+Date: 2026-07-21
+
+### Trump pide inmunidad judicial para Delcy Rodríguez mientras siga en el poder
+
+La Administración de Donald Trump ha pedido al Departamento de Justicia de Estados Unidos que garantice la inmunidad judicial de la presidenta interina de.
+
+Date: 2026-07-21
 
 ### Sebastián Yatra cantará el 10 de octubre en el festival de la Hispanidad en Madrid
 
@@ -56,20 +68,7 @@ Irán afirmó este lunes haber atacado simultáneamente tres posiciones militare
 
 Date: 2026-07-20
 
-### El Ibex 35 sube 0,28% a mediodía y recupera los 19.200 puntos, con el petróleo 87 dólares
-
-El Ibex 35 cotizaba en la media sesión con una subida del 0,28% , hasta situarse en los 19.271,60 puntos , tras suavizarse el precio del crudo hasta los 87 dólares desde los 92 dólares marcados en la apertura de este lunes, en un contexto marcado por los ataques cruzados entre Irán y Estados Unidos en Oriente Próximo .
-
-Date: 2026-07-20
-
-### El petróleo pierde un 4% desde máximos por la expectativa de un acuerdo entre Irán y EEUU
-
-El precio del barril de crudo de calidad Brent , que había llegado este lunes, 20 de julio, a superar el umbral de los 91 dólares , se ha dado la vuelta y cedía alrededor de un 4% desde los máximos del día. Todo esto ha pasado después de que Irán haya asegurado que los contactos diplomáticos con Estados Unidos continúa.
-
-Date: 2026-07-20
-
 ## Fuentes
 
-- [Sebastián Yatra cantará el 10 de octubre en el festival de la Hispanidad en Madrid](https://www.abc.es/espana/madrid/sebastian-yatra-cantara-octubre-festival-hispanidad-madrid-20260721114848-nt.html?utm_source=lootura.com) — 2026-07-21T09:48:48.000Z
-- [Spencer Tunick lleva sus desnudos colectivos a Canarias: “Hay demasiado odio hacia la gente de mente abierta”](https://elpais.com/cultura/2026-07-21/spencer-tunick-lleva-sus-desnudos-colectivos-a-canarias-hay-demasiado-odio-hacia-la-gente-de-mente-abierta.html?utm_source=lootura.com) — 2026-07-21T03:30:01.000Z
-- [La Comunidad de Madrid celebrará del 2 al 12 de octubre la fiesta de la Hispanidad con EEUU como país invitado](https://okdiario.com/madrid/comunidad-madrid-celebrara-del-2-12-octubre-fiesta-hispanidad-eeuu-como-pais-invitado-19038861?utm_source=lootura.com) — 2026-07-21T10:11:26.000Z
+- [Iberostar y Barceló se suman a Meliá y dejan de operar en Cuba por las sanciones de EE UU](https://www.larazon.es/economia/iberostar-barcelo-suman-melia-dejan-operar-cuba-sanciones_202607216a5fa8d7e3eb0b64aa4bf3f6.html?outputType=amp&utm_source=lootura.com) — 2026-07-21T17:13:59.000Z
+- [Trump pide inmunidad judicial para Delcy Rodríguez mientras siga en el poder](https://theobjective.com/internacional/2026-07-21/trump-inmunidad-delcy-rodriguez/?amp=&utm_source=lootura.com) — 2026-07-21T20:53:36.000Z

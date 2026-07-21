@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/madrid/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/madrid/index.json",
   "description": "Sigue la actividad de Madrid en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-21T10:23:08.875Z",
+  "updatedAt": "2026-07-21T21:06:12.863Z",
   "aliases": [],
   "changes": [
     {
@@ -17,13 +17,23 @@
       "date": "2026-07-21"
     },
     {
-      "title": "Sebastián Yatra cantará el 10 de octubre en el festival de la Hispanidad en Madrid",
-      "summary": "El músico colombiano será el cabeza de cartel, en el que también estará Marta Sánchez, en la semana de eventos y conciertos en la región y en la que Estados Unidos será el país invitado.",
+      "title": "El doctor Alessandro Alarcão explica el cambio radical de Vinícius Jr.: «El reto fue lograr una proyección mandibular de aspecto natural»",
+      "summary": "El reconocido dermatólogo rompe el silencio sobre la intervención estética realizada a la estrella del Real Madrid tras su descanso estival a puerta cerrada.",
       "date": "2026-07-21"
     },
     {
-      "title": "El doctor Alessandro Alarcão explica el cambio radical de Vinícius Jr.: «El reto fue lograr una proyección mandibular de aspecto natural»",
-      "summary": "El reconocido dermatólogo rompe el silencio sobre la intervención estética realizada a la estrella del Real Madrid tras su descanso estival a puerta cerrada.",
+      "title": "La Real Sociedad cierra un amistoso de campanillas: visitará al Chelsea de Xabi Alonso en agosto",
+      "summary": "Los de Matarazzo jugarán Stamford Bridge el 15 de agosto, fecha en la que debían estrenarse en Liga contra el Real Madrid.",
+      "date": "2026-07-21"
+    },
+    {
+      "title": "El PSOE recurre el archivo de la causa contra Miguel Ángel Rodríguez por revelación de datos",
+      "summary": "El PSOE ha pedido a la Audiencia Provincial de Madrid que ordene reabrir la investigación por presunta revelación de secretos a Miguel Ángel Rodríguez,.",
+      "date": "2026-07-21"
+    },
+    {
+      "title": "Sebastián Yatra cantará el 10 de octubre en el festival de la Hispanidad en Madrid",
+      "summary": "El músico colombiano será el cabeza de cartel, en el que también estará Marta Sánchez, en la semana de eventos y conciertos en la región y en la que Estados Unidos será el país invitado.",
       "date": "2026-07-21"
     },
     {
@@ -50,24 +60,14 @@
       "title": "Precio de la gasolina hoy 21 de julio: localiza las gasolineras más baratas de Madrid",
       "summary": "El martes comienza, y el tráfico en Madrid ya ha vuelto a su ritmo habitual tras el arranque de la semana. A estas alturas, muchos conductores no esperan al fin de semana para repostar: prefieren hacerlo entre semana, con menos prisas y, si hay suerte, a mejor precio. Sobre todo ahora, cuando cualquier diferencia en el.",
       "date": "2026-07-21"
-    },
-    {
-      "title": "Por qué Cucurella tiene ese impresionante pelo largo: una promesa a su madre que todavía dura",
-      "summary": "El futbolista Marc Cucurella es un auténtico león. No solo por esas habilidades futbolísticas que le han llevado a convertirse en uno de los mejores laterales zurdos del mundo y fichar por el Real Madrid, sino por ese aspecto que presenta en el campo, con esa impresionante melena al viento que tanto llama la atención.",
-      "date": "2026-07-21"
-    },
-    {
-      "title": "Lana, el asador que conquista al mundo desde Madrid",
-      "summary": "Hay restaurantes a los que uno va a comer. Y luego están aquellos de los que sale con la sensación de haber aprendido algo. Lana pertenece a esa segunda categoría. Lo hace desde la discreción, sin artificios y con una idea muy clara de lo que significa sentarse a una mesa. Mientras medio mundo habla de su reciente reco.",
-      "date": "2026-07-21"
     }
   ],
   "sources": [
     {
-      "title": "Sebastián Yatra cantará el 10 de octubre en el festival de la Hispanidad en Madrid",
-      "url": "https://www.abc.es/espana/madrid/sebastian-yatra-cantara-octubre-festival-hispanidad-madrid-20260721114848-nt.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-21T09:48:48.000Z",
-      "sourceId": "lootura-es-abc"
+      "title": "La Casa Blanca comparte fotos de Ferran y su gorra con referencia a Trump: \"Todos quieren sumarse\"",
+      "url": "https://www.20minutos.es/deportes/futbol/casa-blanca-comparte-imagenes-ferran-torres-su-gorra-con-referencia-trump-todos-quieren-sumarse-movimiento_7017422_0.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-21T20:15:48.000Z",
+      "sourceId": "lootura-es-20minutos"
     },
     {
       "title": "El buen rollito de Unai Simón con la 'periodista de los puñitos' y el destino final de la txapela del Athletic",
@@ -76,9 +76,9 @@
       "sourceId": "lootura-es-el-correo"
     },
     {
-      "title": "Oyarzabal y la selección aterrizan en Madrid cargados de regalos y recuerdos: ¿Qué guarda el misterioso cofre?",
-      "url": "https://www.diariovasco.com/deportes/futbol/mundial/oyarzabal-seleccion-aterrizan-madrid-cargados-regalos-recuerdos-cofre-copa-replica-lego-20260720154641-nt_amp.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-20T13:47:30.000Z",
+      "title": "La Real Sociedad cierra un amistoso de campanillas: visitará al Chelsea de Xabi Alonso en agosto",
+      "url": "https://www.diariovasco.com/real-sociedad/real-sociedad-amistoso-campanillas-visitara-chelsea-xabi-alonso-agosto-20260721151702-nt_amp.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-21T13:17:41.000Z",
       "sourceId": "lootura-es-el-diario-vasco"
     },
     {
@@ -88,29 +88,11 @@
       "sourceId": "lootura-es-el-diario-vasco"
     },
     {
-      "title": "Dos millones de personas inundan las calles de Madrid: \"En 2030 la Copa volverá a ser nuestra\"",
-      "url": "https://www.elmundo.es/deportes/2026/07/21/6a5e9d0ae9cf4ac0438b4597.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-20T22:11:24.000Z",
-      "sourceId": "lootura-es-el-mundo"
-    },
-    {
-      "title": "La Comunidad de Madrid celebrará del 2 al 12 de octubre la fiesta de la Hispanidad con EEUU como país invitado",
-      "url": "https://okdiario.com/madrid/comunidad-madrid-celebrara-del-2-12-octubre-fiesta-hispanidad-eeuu-como-pais-invitado-19038861?utm_source=lootura.com",
-      "publishedAt": "2026-07-21T10:11:26.000Z",
-      "sourceId": "lootura-es-ok-diario"
-    },
-    {
-      "title": "Una reyerta entre okupas acaba con un inmigrante de 19 años apuñalado de gravedad en el barrio de Tetuán (Madrid)",
-      "url": "https://okdiario.com/sucesos/reyerta-okupas-acaba-inmigrante-19-anos-apunalado-gravedad-barrio-tetuan-madrid-19038444?utm_source=lootura.com",
-      "publishedAt": "2026-07-21T10:06:38.000Z",
-      "sourceId": "lootura-es-ok-diario"
-    },
-    {
-      "title": "El Ayuntamiento de Madrid rechaza la creación de una tasa turística",
-      "url": "https://theobjective.com/espana/madrid/2026-07-21/ayuntamiento-madrid-rechaza-tasa-turistica/?utm_source=lootura.com",
-      "publishedAt": "2026-07-21T10:10:52.000Z",
+      "title": "El PSOE recurre el archivo de la causa contra Miguel Ángel Rodríguez por revelación de datos",
+      "url": "https://theobjective.com/espana/tribunales/2026-07-21/psoe-recurre-archivo-causa-miguel-angel-rodriguez/?amp=&utm_source=lootura.com",
+      "publishedAt": "2026-07-21T16:57:11.000Z",
       "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 9
+  "evidenceCount": 4
 }

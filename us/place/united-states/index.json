@@ -8,11 +8,29 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/united-states/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/united-states/index.json",
   "description": "Follow United States, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-21T10:23:35.333Z",
+  "updatedAt": "2026-07-21T21:06:38.270Z",
   "aliases": [
     "America",
     "Estados Unidos",
-    "U.S."
+    "U.S.",
+    "the States",
+    "the United States of America",
+    "US of America",
+    "the US",
+    "the U.S.",
+    "the US of A",
+    "U.S. of America",
+    "the US of America",
+    "the USA",
+    "the U.S.A.",
+    "the U.S. of A",
+    "US of A",
+    "the U.S. of America",
+    "the United States",
+    "Merica",
+    "Murica",
+    "U. S.",
+    "U. S. A."
   ],
   "changes": [
     {
@@ -21,62 +39,56 @@
       "date": "2026-07-27"
     },
     {
-      "title": "New round of strikes targeting Iran underway, U.S. officials say",
-      "summary": "A 10th straight night of U.S. strikes on Iran is underway as President Trump vows Tehran will pay for the deaths of three American soldiers over the weekend. CBS News senior national security correspondent Charlie D'Agata reports. Then, global affairs analyst Jonathan Wachtel joins to discuss the state of the war.",
-      "date": "2026-07-21"
-    },
-    {
-      "title": "U.S. gas prices back up to average of $4 a gallon, AAA says",
-      "summary": "As fighting with Iran ramps up, a gallon of regular gas is once again $4 on average, up 13 cents in one week, according to AAA. Severin Borenstein, professor at UC Berkeley's Haas School of Business, joins with analysis.",
-      "date": "2026-07-21"
-    },
-    {
-      "title": "Powerball ticket sales begin Tuesday in the United Kingdom",
-      "summary": "Powerball ticket sales in the United Kingdom will begin Tuesday, giving players across the Atlantic a chance at winning the same massive jackpot that U.S. players already play for. (Image credit: Jenny Kane).",
-      "date": "2026-07-21"
-    },
-    {
-      "title": "Inside the Deadly U.S. Airstrike on a Shadow Fleet Tanker",
-      "summary": "Evidence suggests the ship on which three Indian sailors died was not moving when it was struck in the Gulf of Oman, but it had been engaged in risky offshore transfers of oil.",
-      "date": "2026-07-21"
-    },
-    {
-      "title": "Video appears to show United employee threatening to call ICE on customer",
-      "summary": "A United Airlines employee appears to have been caught on video threatening to call U.S. Immigration and Customs Enforcement on a passenger last week at San Francisco International Airport.",
-      "date": "2026-07-21"
-    },
-    {
       "title": "The U.S. Is Pulling Back on Energy Efficiency",
       "summary": "The Trump administration is undoing fuel-saving efforts even as war in Iran, data centers and heat waves are pushing up gasoline and electricity costs.",
       "date": "2026-07-21"
     },
     {
       "title": "Houthis in Yemen Edge Closer to Entering U.S.-Iran War",
-      "summary": "The Iran-backed Houthi militia in Yemen has declared a Red Sea blockade on Saudi Arabia, potentially opening up a new front in the war rippling across the Middle East.",
+      "summary": "The Iran-backed Houthi militia in Yemen has declared a Red Sea blockade on Saudi Arabia, potentially opening a new front in the war rippling across the Middle East.",
       "date": "2026-07-21"
     },
     {
-      "title": "Video appears to show United employee threaten to call ICE on customer",
-      "summary": "A United Airlines employee appears to have been caught on video threatening to call U.S. Immigration and Customs Enforcement on a passenger last week at San Francisco International Airport.",
+      "title": "Ex-U.S. attorney in Seattle sues Trump over firing",
+      "summary": "Roger Rogoff was fired from his role as U.S. attorney in Seattle shortly after judges on the U.S. District Court for the Western District of Washington appointed him to the job.",
       "date": "2026-07-21"
     },
     {
-      "title": "Trump to Impose 50% Tariff on Many Canadian Goods",
-      "summary": "The administration will use an untested legal provision to put significant duties on Canadian exports, reigniting a clash with one of America’s biggest trading partners.",
+      "title": "Deadly attack on U.S. forces in Jordan part of evolving Iranian tactics",
+      "summary": "A retired Jordanian general tells CBS News Iran is \"developing techniques and capacities\" to target U.S. forces with increasing lethality.",
+      "date": "2026-07-21"
+    },
+    {
+      "title": "Iran retaliates after U.S. military carries out 10th night of strikes",
+      "summary": "The U.S. carried out its 10th consecutive night of strikes against Iran. Tehran said it retaliated by targeting U.S. assets in Kuwait, Bahrain and Jordan. CBS News' Charlie D'Agata reports.",
+      "date": "2026-07-21"
+    },
+    {
+      "title": "Friends remember 19-year-old U.S. soldier Isabella Gonzales after death in Iran strike",
+      "summary": "Isabella Gonzales' friends in Texas are fondly remembering the fallen soldier as they come to terms with her death on Friday in the U.S. war with Iran. CBS News Texas reports.",
+      "date": "2026-07-21"
+    },
+    {
+      "title": "Trump says U.S. would have to 'take care' of potential Houthi blockade of Red Sea",
+      "summary": "Asked about his level of concern about a blockade of the Red Sea by the Iranian-backed Houthi rebels, President Donald Trump suggested Tuesday it wasn't an immediate problem.",
+      "date": "2026-07-21"
+    },
+    {
+      "title": "U.S. soldier killed in Iraq was 30-year-old father from North Carolina",
+      "summary": "The U.S. military has identified a soldier killed while disarming an Iranian drone in Iraq as Sgt. Michael Emmanuel Swinton from North Carolina.",
+      "date": "2026-07-21"
+    },
+    {
+      "title": "How Republicans Turned Olive Garden Into a Voter ID Talking Point",
+      "summary": "Republicans claim that Olive Garden polices its Never-Ending Pasta Bowl more tightly than the United States does its elections. It’s not that simple.",
       "date": "2026-07-21"
     }
   ],
   "sources": [
     {
-      "title": "What to know about Taylor Farms, the produce giant tied to the cyclospora outbreak",
-      "url": "https://www.cbsnews.com/news/taylor-farms-cyclospora-outbreak/?utm_source=lootura.com",
-      "publishedAt": "2026-07-20T21:08:06.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
-    {
-      "title": "Video appears to show United employee threatening to call ICE on customer",
-      "url": "https://www.cbsnews.com/news/united-airlines-employee-threatens-to-call-ice-sfo-passenger-act-like-a-citizen/?utm_source=lootura.com",
-      "publishedAt": "2026-07-21T01:43:00.000Z",
+      "title": "Ex-U.S. attorney in Seattle sues Trump over firing",
+      "url": "https://www.cbsnews.com/news/roger-rogoff-us-attorney-seattle-trump-firing-lawsuit/?utm_source=lootura.com",
+      "publishedAt": "2026-07-21T20:40:17.000Z",
       "sourceId": "lootura-us-cbs-news"
     },
     {
@@ -86,47 +98,53 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "Nearly 100 U.S. service members injured in Iranian strikes this month",
-      "url": "https://www.cbsnews.com/news/iran-injuries-us-service-members/?utm_source=lootura.com",
-      "publishedAt": "2026-07-20T20:50:00.000Z",
+      "title": "Deadly attack on U.S. forces in Jordan part of evolving Iranian tactics",
+      "url": "https://www.cbsnews.com/news/iran-us-war-iranian-missiles-evading-defenses-to-kill-american-soldiers/?utm_source=lootura.com",
+      "publishedAt": "2026-07-21T16:36:00.000Z",
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "New round of strikes targeting Iran underway, U.S. officials say",
-      "url": "https://www.cbsnews.com/video/new-round-strikes-targeting-iran-underway-officials/?utm_source=lootura.com",
-      "publishedAt": "2026-07-21T01:13:00.000Z",
+      "title": "Iran retaliates after U.S. military carries out 10th night of strikes",
+      "url": "https://www.cbsnews.com/video/us-carries-out-tenth-night-of-strikes-on-iran/?utm_source=lootura.com",
+      "publishedAt": "2026-07-21T13:21:00.000Z",
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "How recent killings of U.S. soldiers could affect the war with Iran",
-      "url": "https://www.cbsnews.com/video/how-recent-killings-of-us-soldiers-could-affect-the-war-with-iran/?utm_source=lootura.com",
-      "publishedAt": "2026-07-20T19:27:21.000Z",
+      "title": "Friends remember 19-year-old U.S. soldier Isabella Gonzales after death in Iran strike",
+      "url": "https://www.cbsnews.com/video/friends-remember-fallen-19-year-old-us-soldier-isabella-gonzales/?utm_source=lootura.com",
+      "publishedAt": "2026-07-21T20:48:50.000Z",
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "U.S. gas prices back up to average of $4 a gallon, AAA says",
-      "url": "https://www.cbsnews.com/video/us-gas-prices-back-up-average-4-gallon/?utm_source=lootura.com",
-      "publishedAt": "2026-07-21T01:20:00.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
-    {
-      "title": "Gas prices top $4 a gallon again as U.S.-Iran conflict escalates",
-      "url": "https://www.cbsnews.com/news/gas-prices-iran-war-oil-supply/?utm_source=lootura.com",
-      "publishedAt": "2026-07-20T19:57:28.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
-    {
-      "title": "Powerball ticket sales begin Tuesday in the United Kingdom",
-      "url": "https://www.npr.org/2026/07/21/nx-s1-5901828/powerball-begin-united-kingdom?utm_source=lootura.com",
-      "publishedAt": "2026-07-21T05:28:53.000Z",
-      "sourceId": "lootura-us-npr-world"
-    },
-    {
-      "title": "Tropical depression nearing U.S. Gulf Coast set to become a tropical storm, forecasters say",
-      "url": "https://www.pbs.org/newshour/science/tropical-depression-nearing-u-s-gulf-coast-set-to-become-a-tropical-storm-forecasters-say?utm_source=lootura.com",
-      "publishedAt": "2026-07-20T19:22:11.000Z",
+      "title": "WATCH: Trump says U.S. would have to 'take care' of potential Houthi blockade of Red Sea",
+      "url": "https://www.pbs.org/newshour/politics/watch-trump-says-u-s-would-have-to-take-care-of-potential-houthi-blockade-of-red-sea?utm_source=lootura.com",
+      "publishedAt": "2026-07-21T20:25:18.000Z",
       "sourceId": "lootura-us-pbs-newshour"
+    },
+    {
+      "title": "U.S. soldier killed in Iraq was 30-year-old father from North Carolina",
+      "url": "https://www.pbs.org/newshour/nation/u-s-soldier-killed-in-iraq-was-30-year-old-father-from-north-carolina?utm_source=lootura.com",
+      "publishedAt": "2026-07-21T18:15:42.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
+    },
+    {
+      "title": "The U.S. Is Pulling Back on Energy Efficiency",
+      "url": "https://www.nytimes.com/2026/07/21/climate/trump-energy-efficiency-standards.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-21T16:28:39.000Z",
+      "sourceId": "lootura-us-the-new-york-times-politics"
+    },
+    {
+      "title": "How Republicans Turned Olive Garden Into a Voter ID Talking Point",
+      "url": "https://www.nytimes.com/2026/07/21/us/politics/olive-garden-voting-save-america-act-republicans.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-21T17:25:38.000Z",
+      "sourceId": "lootura-us-the-new-york-times-politics"
+    },
+    {
+      "title": "Houthis in Yemen Edge Closer to Entering U.S.-Iran War",
+      "url": "https://www.nytimes.com/2026/07/21/world/middleeast/houthis-yemen-iran-war.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-21T18:16:45.000Z",
+      "sourceId": "lootura-us-the-new-york-times-world"
     }
   ],
-  "evidenceCount": 21
+  "evidenceCount": 11
 }

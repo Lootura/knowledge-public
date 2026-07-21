@@ -9,7 +9,10 @@
   "jsonUrl": "https://atlas.lootura.com/es/person/manuel-llamas/index.json",
   "description": "Sigue la actividad de Manuel Llamas en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
   "updatedAt": "2026-07-18T09:22:10.056Z",
-  "aliases": [],
+  "aliases": [
+    "Llamas",
+    "Manuel"
+  ],
   "changes": [
     {
       "title": "El DAO de la Guardia Civil insinúa en el Senado que la UCO peca de «vanidad», «exceso de protagonismo» y «proactividad tóxica»",

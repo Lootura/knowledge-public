@@ -1,0 +1,52 @@
+{
+  "id": "usa-oleksandr-syrskyi",
+  "name": "Oleksandr Syrskyi",
+  "type": "person",
+  "locale": "en",
+  "canonicalPath": "/us/person/oleksandr-syrskyi",
+  "canonicalUrl": "https://atlas.lootura.com/us/person/oleksandr-syrskyi",
+  "markdownUrl": "https://atlas.lootura.com/us/person/oleksandr-syrskyi/index.md",
+  "jsonUrl": "https://atlas.lootura.com/us/person/oleksandr-syrskyi/index.json",
+  "description": "Follow Oleksandr Syrskyi, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
+  "updatedAt": "2026-07-21T21:06:38.270Z",
+  "aliases": [
+    "Alexander Stanislavovich Syrsky",
+    "Alexander Syrsky",
+    "Syrskyi, Alexander Stanislavovich",
+    "Syrskyi, Alexander Stanislavovych",
+    "Bars",
+    "Olexander Stanislavovych Syrskyi"
+  ],
+  "changes": [
+    {
+      "title": "Ukraine’s Zelenskyy fires his commander-in-chief after protests and major rift",
+      "summary": "The Ukrainian president fired his commander-in-chief Oleksandr Syrskyi on Tuesday, bowing to pressure after the removal of popular Defense Minister Mykhailo Fedorov sparked the fiercest leadership crisis of his presidency.",
+      "date": "2026-07-21"
+    },
+    {
+      "title": "Tech innovator and old guard general are focus of Ukraine's political crisis",
+      "summary": "When their personalities and policies clashed, President Volodymyr Zelenskyy decided to fire popular young Defense Minister Mykhailo Fedorov and keep Gen. Oleksandr Syrskyi.",
+      "date": "2026-07-21"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Oleksandr Syrskyi first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-07-21"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Ukraine’s Zelenskyy fires his commander-in-chief after protests and major rift",
+      "url": "https://www.nbcnews.com/world/ukraine/ukraines-zelenskyy-fires-commander-chief-protests-major-rift-rcna588159?utm_source=lootura.com",
+      "publishedAt": "2026-07-21T19:51:22.000Z",
+      "sourceId": "lootura-us-nbc-news"
+    },
+    {
+      "title": "Tech innovator and old guard general are focus of Ukraine's political crisis",
+      "url": "https://www.pbs.org/newshour/world/tech-innovator-and-old-guard-general-are-focus-of-ukraines-political-crisis?utm_source=lootura.com",
+      "publishedAt": "2026-07-21T18:25:03.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
+    }
+  ],
+  "evidenceCount": 2
+}

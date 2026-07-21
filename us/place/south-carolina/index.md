@@ -3,10 +3,22 @@
 > Follow South Carolina, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-21T10:23:35.333Z
+- Updated: 2026-07-21T21:06:38.270Z
 - Canonical: https://atlas.lootura.com/us/place/south-carolina
 
 ## Recent changes
+
+### There’s a power struggle brewing in South Carolina, and Trump might not win
+
+The race to fill Lindsey Graham’s seat has created a new test of President Donald Trump’s power. South Carolina Republicans aren’t sure Trump will pass. Sen. Darline Graham, who was appointed last week to fill the remainder of her late brother's term, announced Monday she will seek a full term for her brother’s old sea.
+
+Date: 2026-07-21
+
+### South Carolina Senate poll shows surprising frontrunner: Trey Gowdy
+
+Former Rep. Trey Gowdy insists he’s not interested in running in the South Carolina special election. But a new poll suggests Gowdy would be formidable if he changed his mind. Gowdy holds a massive lead over seven other potential and declared GOP candidates for the late Sen. Lindsey Graham’s seat, according to a poll f.
+
+Date: 2026-07-21
 
 ### Lindsey Graham’s Sister, Darline Graham, Says She Will Run to Succeed Him
 
@@ -56,12 +68,7 @@ The senior U.S. senator for South Carolina died suddenly at 71 on Saturday.
 
 Date: 2026-07-12
 
-### How longtime GOP Senator Lindsey Graham went from critic to ally of President Trump
-
-Longtime Republican Sen. Lindsey Graham has died at the age of 71. The foreign policy hawk and former critic-turned-ally of President Trump was running for re-election in South Carolina.
-
-Date: 2026-07-12
-
 ## Sources
 
-- [Lindsey Graham’s Sister, Darline Graham, Says She Will Run to Succeed Him](https://www.nytimes.com/2026/07/20/us/politics/darline-graham-south-carolina-senate-race.html?utm_source=lootura.com) — 2026-07-20T21:26:50.000Z
+- [There’s a power struggle brewing in South Carolina, and Trump might not win](https://www.politico.com/news/2026/07/21/south-carolina-trump-graham-test-01005834?utm_source=lootura.com) — 2026-07-21T08:45:00.000Z
+- [South Carolina Senate poll shows surprising frontrunner: Trey Gowdy](https://www.politico.com/news/2026/07/21/south-carolina-senate-poll-trey-gowdy-graham-01006741?utm_source=lootura.com) — 2026-07-21T19:47:06.000Z

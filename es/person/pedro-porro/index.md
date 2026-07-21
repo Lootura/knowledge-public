@@ -3,7 +3,7 @@
 > Sigue la actividad de Pedro Porro en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-21T10:23:08.875Z
+- Actualizado: 2026-07-21T21:06:12.863Z
 - Canonical: https://atlas.lootura.com/es/person/pedro-porro
 
 ## Cambios recientes
@@ -40,4 +40,4 @@ Date: 2026-07-14
 
 ## Fuentes
 
-- [El campeón del mundo Pedro Porro será declarado hijo predilecto de Don Benito](https://theobjective.com/deportes/futbol/mundial/2026-07-21/campeon-mundo-pedro-porro-hijo-pedrilecto-don-benito/?utm_source=lootura.com) — 2026-07-21T09:47:47.000Z
+- [El mensaje de unidad de Llorente con recado a la ultraizquierda: «Qué maravilla ver una España así»](https://okdiario.com/deportes/mensaje-unidad-llorente-recado-ultraizquierda-que-maravilla-ver-espana-asi-19043455?utm_source=lootura.com) — 2026-07-21T20:02:57.000Z

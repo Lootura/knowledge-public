@@ -28,5 +28,4 @@ Date: 2026-07-21
 
 ## Fuentes
 
-- [Sumar llama «especulador» a Ferran Torres y le acusa de tener un «fondo buitre» por invertir 7 millones de euros](https://okdiario.com/economia/inversion/sumar-llama-especulador-ferran-torres-acusa-tener-fondo-buitre-invertir-7-millones-euros-19038773?utm_source=lootura.com) — 2026-07-21T09:56:54.000Z
-- [Sumar sentencia a Zapatero y pide a Sánchez explicaciones sobre el rescate de Plus Ultra](https://theobjective.com/espana/politica/2026-07-21/sumar-zapatero-sanchez-plus-ultra/?utm_source=lootura.com) — 2026-07-21T10:10:47.000Z
+No public source links.

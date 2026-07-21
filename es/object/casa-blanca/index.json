@@ -1,15 +1,24 @@
 {
   "id": "es-casa-blanca",
-  "name": "Casa Blanca",
+  "name": "mansión exclusiva",
   "type": "object",
   "locale": "es",
   "canonicalPath": "/es/object/casa-blanca",
   "canonicalUrl": "https://atlas.lootura.com/es/object/casa-blanca",
   "markdownUrl": "https://atlas.lootura.com/es/object/casa-blanca/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/object/casa-blanca/index.json",
-  "description": "Sigue la actividad de Casa Blanca en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
+  "description": "Sigue la actividad de mansión exclusiva en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
   "updatedAt": "2026-07-21T10:23:08.875Z",
-  "aliases": [],
+  "aliases": [
+    "La Casa Blanca",
+    "mansión exclusiva",
+    "Executive Mansion",
+    "President's Palace",
+    "Presidential Mansion",
+    "President's House",
+    "the White House",
+    "1600 Pennsylvania Avenue"
+  ],
   "changes": [
     {
       "title": "Los yihadistas ofrecen 10 millones de dólares al que asesine al presidente Trump",
@@ -52,13 +61,6 @@
       "date": "2026-07-14"
     }
   ],
-  "sources": [
-    {
-      "title": "Los yihadistas ofrecen 10 millones de dólares al que asesine al presidente Trump",
-      "url": "https://www.larazon.es/internacional/yihadistas-ofrecen-10-millones-dolares-que-asesine-presidente-trump_202607216a5f4596f172396e89eb92ca.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-21T10:10:30.000Z",
-      "sourceId": "lootura-es-la-razon"
-    }
-  ],
-  "evidenceCount": 1
+  "sources": [],
+  "evidenceCount": 0
 }

@@ -1,12 +1,36 @@
-# Audiencia Nacional
+# Audiencia Nacional (España)
 
-> Sigue la actividad de Audiencia Nacional en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
+> Sigue la actividad de Audiencia Nacional (España) en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-21T10:23:08.875Z
+- Actualizado: 2026-07-21T21:06:12.863Z
 - Canonical: https://atlas.lootura.com/es/organization/audiencia-nacional
 
 ## Cambios recientes
+
+### Ni Ábalos, ni Leire, ni Julito: estas tramas tienen su 'X'
+
+Julio Martínez 'Julito', el exsocio de Rodríguez Zapatero, ratificó este martes ante el juez instructor de la Audiencia Nacional la información que ya había comunicado al juzgado: que el expresidente era quien manejaba los hilos de una trama de comisiones ilegales a través de la sociedad mercantil Análisis Relevante, S.
+
+Date: 2026-07-21
+
+### Vox se adelanta al PP: recurre al Supremo y mira a la Audiencia Nacional y al TJUE para frenar la ley de nietos
+
+Santiago Abascal quiere pilotar la presión política, institucional y judicial contra la controvertida ley de nietos que tiene ya enfrente por distintos motivos a funcionarios, juristas, diplomáticos y a los dos principales partidos de la oposición. Vox ha convertido el rechazo a la nacionalización masiva promovida por.
+
+Date: 2026-07-21
+
+### El pagador de Zapatero declara ante el juez que el ex presidente le anticipó que el Gobierno iba a aprobar el rescate de Plus Ultra
+
+El empresario alicantino Julio Martínez Martínez ha declarado este martes en la Audiencia Nacional que fue el ex presidente del Gobierno José Luis Rodríguez Zapatero quien le...
+
+Date: 2026-07-21
+
+### ‘Julito’ Martínez endosa a Zapatero cuatro delitos que sumarían hasta 22 años de cárcel
+
+La declaración de Julio Martínez Martínez , conocido como Julito , ante el juez de la Audiencia Nacional José Luis Calama ha reforzado los indicios de hasta cuatro de los siete delitos que se investigan en la causa contra José Luis Rodríguez Zapatero: tráfico de influencias, blanqueo de capitales, falsedad documental y.
+
+Date: 2026-07-21
 
 ### El horizonte judicial de Zapatero pende de la declaración ante el juez de Julio Martínez tras su decisión de “colaborar”
 
@@ -44,31 +68,9 @@ Plus Ultra y Julio Martínez Martínez han enviado sendos escritos a la Audienci
 
 Date: 2026-07-20
 
-### El juez del caso Leire Díez cita el 5 de agosto al exjefe de gabinete de Sánchez para el clonado de su móvil
-
-El juez de la Audiencia Nacional Santiago Pedraz , que dirige la investigación del denominado caso Leire Díez , ha citado el 5 de agosto a las 10.00 horas a Juan Manuel Serrano , exjefe de gabinete del presidente del Gobierno, Pedro Sánchez , y expresidente de Correos , para validar el clonado de su teléfono móvil. La.
-
-Date: 2026-07-20
-
-### El ‘testaferro’ de Zapatero confiesa al juez que el expresidente medió en el rescate de Plus Ultra
-
-Julio Martínez Martínez rompe la baraja . El presunto testaferro de José Luis Rodríguez Zapatero ha enviado este lunes un escrito al juez de la Audiencia Nacional José Luis Calama en el que confiesa que supo de «la existencia de Plus ultra» en mayo de 2020, cuando el expresidente del Gobierno «le adelantó que iba a rec.
-
-Date: 2026-07-20
-
-### La exnovia de Ábalos decide no declarar como investigada por malversación
-
-Jésica Rodríguez, la exnovia de José Luis Ábalos que reconoció en el juicio contra el político haber sido enchufada en dos empresas públicas y cobrar a pesar de no ir a trabajar, ha decidido acogerse a su derecho a no declarar este lunes en la Audiencia Nacional como investigada.El juez Ismael Moreno la había citado, i.
-
-Date: 2026-07-20
-
-### Jésica, 'Julito', el amigo de Zapatero, y los recursos de Cerdán y Leire: otra semana con la corrupción del PSOE en los juzgados
-
-'Este lunes arranca la tercera semana consecutiva de declaraciones en la Audiencia Nacional en el marco de las principales causas que cercan al PSOE. Tras varios días de intensa actividad judicial , marcada principalmente por la condena al hermano del presidente y la confirmación del procesamiento de su mujer , nos enf.
-
-Date: 2026-07-20
-
 ## Fuentes
 
-- [Las tres incongruencias de Zapatero, al descubierto tras la confesión de Julio Martínez y el presidente de Plus Ultra](https://www.abc.es/espana/tres-contradicciones-zapatero-julio-martinez-dejan-expresidente-20260721185544-nt.html?utm_source=lootura.com) — 2026-07-21T09:20:34.000Z
-- [El horizonte judicial de Zapatero pende de la declaración ante el juez de Julio Martínez tras su decisión de “colaborar”](https://elpais.com/espana/2026-07-21/el-horizonte-judicial-de-zapatero-pende-de-la-declaracion-ante-el-juez-de-julio-martinez-tras-su-decision-de-colaborar.html?utm_source=lootura.com) — 2026-07-21T03:30:01.000Z
+- [Ni Ábalos, ni Leire, ni Julito: estas tramas tienen su 'X'](https://www.abc.es/opinion/editorial-abalos-leire-julito-tramas-20260721193423-nt.html?utm_source=lootura.com) — 2026-07-21T20:12:05.000Z
+- [Vox se adelanta al PP: recurre al Supremo y mira a la Audiencia Nacional y al TJUE para frenar la ley de nietos](https://www.elconfidencial.com/espana/2026-07-21/vox-pp-y-audiencia-nacional-tjue-ley-de-nietos_4393702/?utm_source=lootura.com) — 2026-07-21T18:14:00.000Z
+- [El pagador de Zapatero declara ante el juez que el ex presidente le anticipó que el Gobierno iba a aprobar el rescate de Plus Ultra](https://amp.elmundo.es/espana/2026/07/21/6a5f3001e4d4d886458b4577.html?utm_source=lootura.com) — 2026-07-21T11:30:12.000Z
+- [‘Julito’ Martínez endosa a Zapatero cuatro delitos que sumarían hasta 22 años de cárcel](https://okdiario.com/espana/julito-martinez-endosa-zapatero-cuatro-delitos-que-sumarian-hasta-22-anos-carcel-19042873?utm_source=lootura.com) — 2026-07-21T19:02:52.000Z

@@ -1,6 +1,6 @@
-# Canada
+# Canadá
 
-> Sigue la actividad de Canada en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
+> Sigue la actividad de Canadá en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
 - Actualizado: 2026-07-21T02:27:26.549Z

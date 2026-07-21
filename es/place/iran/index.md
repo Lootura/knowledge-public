@@ -1,12 +1,24 @@
-# Iran
+# Irán
 
-> Sigue la actividad de Iran en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
+> Sigue la actividad de Irán en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-21T10:23:08.875Z
+- Actualizado: 2026-07-21T21:06:12.863Z
 - Canonical: https://atlas.lootura.com/es/place/iran
 
 ## Cambios recientes
+
+### La banca se apoya en la subida del euríbor para apuntar a nuevos máximos de beneficios
+
+El panorama de los bancos se ha dado la vuelta como un calcetín en los últimos meses. Si antes vivían una era de tipos a la baja e incrementos en la cartera de préstamos, la guerra en Irán ha girado los tornos. El Banco Central Europeo (BCE) ha subido el precio del dinero por primera vez en tres años mientras el euríbo.
+
+Date: 2026-07-21
+
+### An emerging Iran-Pakistan allegiance is reshaping southwest Asia’s power structures
+
+Earlier this month, the Supreme Leader of Iran, Ayatollah Ali Khamenei, was buried in his hometown of Mashhad after a four-day ceremony. Many international delegations were present, but each country will have chosen their representatives with the utmost care. Sending high-ranking officials would go beyond mere diplomat.
+
+Date: 2026-07-21
 
 ### El retroceso del petróleo estimula las Bolsas
 
@@ -56,18 +68,7 @@ Estados Unidos ha anunciado el inicio de una nueva ronda de bombardeos contra Ir
 
 Date: 2026-07-19
 
-### Las telecos europeas baten al mercado y tocan máximos de casi dos décadas
-
-El sector de telecomunicaciones europeo lleva un mes mostrando debilidad, pero la radiografía conjunta de la primera parte del año refleja un rally continuado, ajeno a las incertidumbres que han rodeado a los mercados con la guerra de Irán y al cambio de la política monetaria del BCE, que ha aprobado la primera subida.
-
-Date: 2026-07-19
-
-### Estados Unidos intensifica bombardeos aéreos contra Irán por octavo día seguido
-
-El Comando Central de las Fuerzas Armadas de Estados Unidos (Centcom) ha confirmado el inicio de una nueva serie de bombardeos aéreos sobre Irán, marcando.
-
-Date: 2026-07-19
-
 ## Fuentes
 
-- [El retroceso del petróleo estimula las Bolsas](https://cincodias.elpais.com/mercados-financieros/2026-07-21/la-bolsa-y-el-ibex-35.html?utm_source=lootura.com) — 2026-07-21T04:40:52.000Z
+- [La banca se apoya en la subida del euríbor para apuntar a nuevos máximos de beneficios](https://cincodias.elpais.com/companias/2026-07-21/la-banca-se-apoya-en-la-subida-del-euribor-para-apuntar-a-nuevos-maximos-de-beneficios.html?utm_source=lootura.com) — 2026-07-21T17:18:15.000Z
+- [An emerging Iran-Pakistan allegiance is reshaping southwest Asia’s power structures](https://theconversation.com/an-emerging-iran-pakistan-allegiance-is-reshaping-southwest-asias-power-structures-287738?utm_source=lootura.com) — 2026-07-21T15:50:51.000Z

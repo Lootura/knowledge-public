@@ -8,8 +8,11 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/pedro-porro/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/pedro-porro/index.json",
   "description": "Sigue la actividad de Pedro Porro en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-21T10:23:08.875Z",
-  "aliases": [],
+  "updatedAt": "2026-07-21T21:06:12.863Z",
+  "aliases": [
+    "Porro",
+    "Pedro Antonio Porro Sauceda"
+  ],
   "changes": [
     {
       "title": "El campeón del mundo Pedro Porro será declarado hijo predilecto de Don Benito",
@@ -39,11 +42,11 @@
   ],
   "sources": [
     {
-      "title": "El campeón del mundo Pedro Porro será declarado hijo predilecto de Don Benito",
-      "url": "https://theobjective.com/deportes/futbol/mundial/2026-07-21/campeon-mundo-pedro-porro-hijo-pedrilecto-don-benito/?utm_source=lootura.com",
-      "publishedAt": "2026-07-21T09:47:47.000Z",
-      "sourceId": "lootura-es-the-objective"
+      "title": "El mensaje de unidad de Llorente con recado a la ultraizquierda: «Qué maravilla ver una España así»",
+      "url": "https://okdiario.com/deportes/mensaje-unidad-llorente-recado-ultraizquierda-que-maravilla-ver-espana-asi-19043455?utm_source=lootura.com",
+      "publishedAt": "2026-07-21T20:02:57.000Z",
+      "sourceId": "lootura-es-ok-diario"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 0
 }

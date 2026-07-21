@@ -70,4 +70,4 @@ Date: 2026-07-18
 
 ## Fuentes
 
-- [Detenido un hombre tras asesinar a su pareja con un arma blanca en Alameda de la Sagra (Toledo)](https://www.elconfidencial.com/espana/2026-07-21/detenido-hombre-asesinar-pareja-arma-blanca-toledo-1tna_4393327/?utm_source=lootura.com) — 2026-07-21T07:18:00.000Z
+No public source links.

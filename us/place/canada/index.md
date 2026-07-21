@@ -3,10 +3,22 @@
 > Follow Canada, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-21T10:23:35.333Z
+- Updated: 2026-07-21T21:06:38.270Z
 - Canonical: https://atlas.lootura.com/us/place/canada
 
 ## Recent changes
+
+### Trump hits Canada with slew of new 50% tariffs set to take effect in 30 days
+
+President Trump takes aim at Canada with his latest round of tariffs hitting a variety of goods at 50%.
+
+Date: 2026-07-21
+
+### Trump Escalates Canada Tariffs as Mark Carney Holds Firm
+
+The president’s new tariffs on a top U.S. trading partner aim at gaining concessions, but the Canadian government, and the public, have been bracing for the escalation.
+
+Date: 2026-07-21
 
 ### Donald Trump to impose 50% tariff on most Canadian goods, White House says
 
@@ -56,18 +68,7 @@ Wildfire smoke and unhealthy air persist and shift direction, as Trump demands e
 
 Date: 2026-07-18
 
-### What the US and Canada Can Expect from the Wildfire Smoke This Weekend
-
-The smoke isn’t going away, but where it affects air quality will shift over the next few days.
-
-Date: 2026-07-18
-
-### Maps show wildfire smoke forecast, air quality alerts in swath of U.S.
-
-Heavy smoke from several large wildfires blazing in Canada and Minnesota is engulfing large swaths of the Midwest and the U.S. East Coast this week.
-
-Date: 2026-07-18
-
 ## Sources
 
-- [10 things that wowed us at the 2026 World Cup](https://www.npr.org/2026/07/20/nx-s1-5892511/2026-world-cup-fifa-spain-argentina-tournament?utm_source=lootura.com) — 2026-07-20T19:56:44.000Z
+- [Trump hits Canada with slew of new 50% tariffs set to take effect in 30 days](https://www.npr.org/2026/07/21/nx-s1-5901957/trump-hits-canada-with-slew-of-new-50-tariffs-set-to-take-effect-in-30-days?utm_source=lootura.com) — 2026-07-21T20:09:34.000Z
+- [Trump Escalates Canada Tariffs as Mark Carney Holds Firm](https://www.nytimes.com/2026/07/21/world/canada/trump-carney-trade-tariffs.html?utm_source=lootura.com) — 2026-07-21T17:21:51.000Z

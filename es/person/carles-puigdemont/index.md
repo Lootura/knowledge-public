@@ -1,12 +1,24 @@
-# Carles Puigdemont
+# Carles Puigdemont i Casamajó
 
-> Sigue la actividad de Carles Puigdemont en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
+> Sigue la actividad de Carles Puigdemont i Casamajó en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-19T20:42:54.963Z
+- Actualizado: 2026-07-21T21:06:12.863Z
 - Canonical: https://atlas.lootura.com/es/person/carles-puigdemont
 
 ## Cambios recientes
+
+### Puigdemont denuncia a España ante la Comisión Europea por incumplir de la Ley de Amnistía
+
+Carles Puigdemont, ex presidente de la Generalitat de Cataluña y líder de Junts, ha presentado un escrito ante la Secretaría General de la Comisión Europea en el que denuncia a España por el incumplimiento de la Ley de Amnistía. El ex presidente catalán responde así después de que el Tribunal de Justicia de la Unión ..
+
+Date: 2026-07-21
+
+### El Supremo avala la destrucción del material del 1-O tras rechazar dárselo a Puigdemont
+
+El Tribunal Supremo ha rechazado el recurso interpuesto por el expresidente catalán y líder de Junts, Carles Puigdemont , que se oponía a su destrucción y pedía que se le entregase el material intervenido durante la jornada del referéndum ilegal del 1 de octubre de 2017 en Cataluña debido a su «valor histórico». En un.
+
+Date: 2026-07-21
 
 ### Puigdemont no apoyará los Presupuestos de Sánchez: "Madrid recibe una sobreinversión que multiplica la de los catalanes"
 
@@ -46,4 +58,5 @@ Date: 2026-07-16
 
 ## Fuentes
 
-No public source links.
+- [Puigdemont denuncia a España ante la Comisión Europea por incumplir de la Ley de Amnistía](https://okdiario.com/espana/puigdemont-denuncia-espana-comision-europea-incumplir-ley-amnistia-19043545/amp?utm_source=lootura.com) — 2026-07-21T20:37:19.000Z
+- [El Supremo avala la destrucción del material del 1-O tras rechazar dárselo a Puigdemont](https://theobjective.com/espana/tribunales/2026-07-21/supremo-destruccion-material-1-o-puigdemont/?utm_source=lootura.com) — 2026-07-21T16:45:43.000Z

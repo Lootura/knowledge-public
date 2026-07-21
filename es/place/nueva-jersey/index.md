@@ -1,6 +1,6 @@
-# Nueva Jersey
+# Nueva Jersey (Estados Unidos)
 
-> Sigue la actividad de Nueva Jersey en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
+> Sigue la actividad de Nueva Jersey (Estados Unidos) en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
 - Actualizado: 2026-07-21T10:23:08.875Z
@@ -40,4 +40,4 @@ Date: 2026-07-18
 
 ## Fuentes
 
-- [Madrid ruge con la segunda estrella de España](https://elpais.com/deportes/mundial-futbol/2026-07-20/madrid-ruge-con-la-segunda-estrella-de-espana.html?utm_source=lootura.com) — 2026-07-20T22:02:45.000Z
+No public source links.

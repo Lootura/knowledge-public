@@ -64,6 +64,4 @@ Date: 2026-07-19
 
 ## Sources
 
-- [Tate brothers detained as they face new charges, possible U.K. extradition](https://www.cbsnews.com/news/andrew-tristan-tate-brothers-federal-detention-miami/?utm_source=lootura.com) — 2026-07-21T01:39:24.000Z
-- [Tate brothers in Miami court after new U.K. charges](https://www.nbcnews.com/now/video/tate-brothers-in-miami-court-after-new-u-k-charges-266963013563?utm_source=lootura.com) — 2026-07-20T18:51:52.000Z
-- [News Wrap: Andy Burnham becomes Britain's 7th prime minister in a decade](https://www.pbs.org/newshour/show/news-wrap-andy-burnham-becomes-britains-7th-prime-minister-in-a-decade?utm_source=lootura.com) — 2026-07-20T22:45:03.000Z
+No public source links.

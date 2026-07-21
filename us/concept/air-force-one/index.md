@@ -3,7 +3,7 @@
 > Follow Air Force One, a tracked concept, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: concept
-- Updated: 2026-07-21T10:23:35.333Z
+- Updated: 2026-07-21T21:06:38.270Z
 - Canonical: https://atlas.lootura.com/us/concept/air-force-one
 
 ## Recent changes
@@ -71,6 +71,3 @@ Date: 2026-07-20
 ## Sources
 
 - [New Air Force One going out of commission to get safety upgrades](https://www.npr.org/2026/07/21/nx-s1-5901113/new-air-force-one-going-out-of-commission-to-get-safety-upgrades?utm_source=lootura.com) — 2026-07-21T08:44:35.000Z
-- [DOJ sought phone records of journalists and relatives in effort to unmask sources of Air Force One security report](https://www.pbs.org/newshour/nation/doj-sought-phone-records-of-journalists-and-relatives-in-effort-to-unmask-sources-of-air-force-one-security-report?utm_source=lootura.com) — 2026-07-20T18:34:58.000Z
-- [Trump Administration Sought Phone Records of Times Journalists and Their Relatives](https://www.nytimes.com/2026/07/20/business/media/new-york-times-subpoenas-phone-records.html?utm_source=lootura.com) — 2026-07-20T19:25:15.000Z
-- [White House Says New Air Force One Will Be Out of Service for a Month for ‘Upgrades’](https://www.nytimes.com/2026/07/20/us/politics/new-air-force-one-upgrades.html?utm_source=lootura.com) — 2026-07-20T21:43:14.000Z

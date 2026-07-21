@@ -1,0 +1,48 @@
+{
+  "id": "es-naciones-unidas",
+  "name": "Organización de las Naciones Unidas",
+  "type": "organization",
+  "locale": "es",
+  "canonicalPath": "/es/organization/naciones-unidas",
+  "canonicalUrl": "https://atlas.lootura.com/es/organization/naciones-unidas",
+  "markdownUrl": "https://atlas.lootura.com/es/organization/naciones-unidas/index.md",
+  "jsonUrl": "https://atlas.lootura.com/es/organization/naciones-unidas/index.json",
+  "description": "Sigue la actividad de Organización de las Naciones Unidas en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
+  "updatedAt": "2026-07-21T10:23:08.875Z",
+  "aliases": [
+    "Naciones Unidas",
+    "NN. UU.",
+    "United Nations Organization",
+    "the UN",
+    "the U.N."
+  ],
+  "changes": [
+    {
+      "title": "Marlaska defiende ante la ONU la baliza V-16 y presume de la seguridad vial en España",
+      "summary": "El ministro del Interior, Fernando Grande-Marlaska, ha defendido ante las Naciones Unidas la implantación de la baliza V-16 conectada como una de las.",
+      "date": "2026-07-21"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Naciones Unidas first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-07-19"
+    },
+    {
+      "title": "España insiste en Planas para la FAO pese a la división europea sobre un candidato único",
+      "summary": "España ha iniciado la campaña para situar al ministro de Agricultura, Pesca y Alimentación, Luis Planas , al frente de la Organización de Naciones Unidas para la Alimentación y la Agricultura (FAO) , una carrera de largo recorrido que culminará con la elección prevista para la última semana de junio de 2027 y que arran.",
+      "date": "2026-07-19"
+    },
+    {
+      "title": "La ONU impulsa una campaña global para prohibir los videojuegos centrados en “matar” y “hacer de la guerra un juego”",
+      "summary": "El Alto Representante de la Alianza de Civilizaciones de Naciones Unidas (Unaoc), Miguel Ángel Moratinos, presentó en Luanda (Angola) una campaña internacional para alertar sobre los efectos de los videojuegos de temática bélica en niños y adolescentes y abrir un debate global sobre la posibilidad de prohibir aquellos.",
+      "date": "2026-07-19"
+    },
+    {
+      "title": "La ONU impulsa una campaña global para prohibir los videojuegos centrados en «matar»",
+      "summary": "El Alto Representante de la Alianza de Civilizaciones de Naciones Unidas (Unaoc), Miguel Ángel Moratinos, presentó en Luanda (Angola) una campaña internacional para alertar sobre los efectos de los videojuegos de temática bélica en niños y adolescentes y abrir un debate global sobre la posibilidad de prohibir aquellos.",
+      "date": "2026-07-19"
+    }
+  ],
+  "sources": [],
+  "evidenceCount": 0
+}

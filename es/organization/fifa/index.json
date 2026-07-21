@@ -1,15 +1,23 @@
 {
   "id": "es-fifa",
-  "name": "FIFA",
+  "name": "Federación Internacional de Fútbol Asociación",
   "type": "organization",
   "locale": "es",
   "canonicalPath": "/es/organization/fifa",
   "canonicalUrl": "https://atlas.lootura.com/es/organization/fifa",
   "markdownUrl": "https://atlas.lootura.com/es/organization/fifa/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/fifa/index.json",
-  "description": "Sigue la actividad de FIFA en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
+  "description": "Sigue la actividad de Federación Internacional de Fútbol Asociación en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
   "updatedAt": "2026-07-21T10:23:08.875Z",
-  "aliases": [],
+  "aliases": [
+    "Federation Internationale de Football Association",
+    "Federación Internacional de Fútbol Asociación",
+    "Federacion Internacional de Futbol Asociacion",
+    "International Federation of Association Football",
+    "Federación Internacional de Fútbol Asociado",
+    "Federacion Internacional de Futbol Asociados",
+    "Fédération internationale de football association"
+  ],
   "changes": [
     {
       "title": "Argentina se queda huérfana",
@@ -37,13 +45,6 @@
       "date": "2026-07-08"
     }
   ],
-  "sources": [
-    {
-      "title": "Argentina se queda huérfana",
-      "url": "https://elpais.com/america/2026-07-21/argentina-se-queda-huerfana.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-21T03:30:01.000Z",
-      "sourceId": "lootura-es-el-pais"
-    }
-  ],
-  "evidenceCount": 1
+  "sources": [],
+  "evidenceCount": 0
 }

@@ -70,5 +70,4 @@ Date: 2026-07-18
 
 ## Fuentes
 
-- [La IA, la guerra en Oriente Próximo y la inflación bloquean el camino a nuevos máximos bursátiles](https://cincodias.elpais.com/mercados-financieros/2026-07-21/la-ia-la-guerra-en-oriente-proximo-y-la-inflacion-bloquean-el-camino-a-nuevos-maximos-bursatiles.html?utm_source=lootura.com) — 2026-07-21T04:08:12.000Z
-- [Spencer Tunick lleva sus desnudos colectivos a Canarias: “Hay demasiado odio hacia la gente de mente abierta”](https://elpais.com/cultura/2026-07-21/spencer-tunick-lleva-sus-desnudos-colectivos-a-canarias-hay-demasiado-odio-hacia-la-gente-de-mente-abierta.html?utm_source=lootura.com) — 2026-07-21T03:30:01.000Z
+No public source links.

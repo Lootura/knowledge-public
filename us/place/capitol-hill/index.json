@@ -9,7 +9,10 @@
   "jsonUrl": "https://atlas.lootura.com/us/place/capitol-hill/index.json",
   "description": "Follow Capitol Hill, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
   "updatedAt": "2026-07-21T06:26:28.839Z",
-  "aliases": [],
+  "aliases": [
+    "Capitol Hill, DC",
+    "Capitol Hill Historic District"
+  ],
   "changes": [
     {
       "title": "Democrats avoid a messy fight in Maine, but uncertainty lingers: From the Politics Desk",

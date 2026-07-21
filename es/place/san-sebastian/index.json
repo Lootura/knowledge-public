@@ -8,11 +8,23 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/san-sebastian/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/san-sebastian/index.json",
   "description": "Sigue la actividad de San Sebastián en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-21T10:23:08.875Z",
+  "updatedAt": "2026-07-21T21:06:12.863Z",
   "aliases": [
-    "Donostia"
+    "Donostia",
+    "La Perla del Cantábrico",
+    "San Sebastián-Donostia",
+    "La Perla del Cantabrico",
+    "Donostia-San Sebastian",
+    "San Sebastian-Donostia",
+    "Donostia/San Sebastian",
+    "Donostia / San Sebastian"
   ],
   "changes": [
+    {
+      "title": "La Audiencia de Vizcaya absuelve a un guardia municipal de San Sebastián acusado de agredir sexualmente a una compañera en las fiestas de Bilbao.",
+      "summary": "La Audiencia Provincial de Vizcaya ha dictado la libre absolución para un agente de la guardia municipal de San Sebastián procesado por una presunta agresión sexual cometida, supuestamente, durante las fiestas de Bilbao. El tribunal fundamenta su decisión en la ausencia de una \"certeza absoluta\" para condenar, al no qu.",
+      "date": "2026-07-21"
+    },
     {
       "title": "El Torneo Donostia Hiria se apunta a la Semana Grande",
       "summary": "La cita se adelanta y la final se jugará el 14 de agosto en el Atano III con Altuna III y Rezusta dispuestos a encadenar su tercera txapela.",
@@ -57,19 +69,14 @@
       "title": "Rincones a la sombra en los que sentarse",
       "summary": "Año 1951. Para «pasear o sentarse a descansar, sin sentir los rigores del sol», Donostia ofrece espacios archiconocidos y otros, menos frecuentados. Hace 75 años, citaban el paseo de los Fueros o los jardines situados tras el hotel María Cristina.",
       "date": "2026-07-17"
-    },
-    {
-      "title": "Un incendio deja cinco intoxicados por humo en una galería de arte de Cieza (Murcia)",
-      "summary": "Los servicios de emergencia extinguieron este jueves un incendio declarado en el interior de la Galería Francisco Serrano , situada en la calle San Sebastián de Cieza. Como consecuencia del incendio, cinco personas fueron atendidas por inhalación de humo , sin que ninguna precisara traslado hospitalario. El Centro de C.",
-      "date": "2026-07-17"
     }
   ],
   "sources": [
     {
-      "title": "El Torneo Donostia Hiria se apunta a la Semana Grande",
-      "url": "https://www.diariovasco.com/deportes/pelota/altuna-rezusta-buscaran-tercera-txapela-consecutiva-donostia-hiria-20260720123203-nt_amp.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-20T10:32:24.000Z",
-      "sourceId": "lootura-es-el-diario-vasco"
+      "title": "La Audiencia de Vizcaya absuelve a un guardia municipal de San Sebastián acusado de agredir sexualmente a una compañera en las fiestas de Bilbao.",
+      "url": "https://www.larazon.es/pais-vasco/audiencia-vizcaya-absuelve-guardia-municipal-san-sebastian-acusado-agredir-sexualmente-companera-fiestas-bilbao_202607216a5fa5a3303ca6202cc3c548.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-21T17:00:19.000Z",
+      "sourceId": "lootura-es-la-razon"
     }
   ],
   "evidenceCount": 1

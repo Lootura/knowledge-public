@@ -3,7 +3,7 @@
 > Sigue la actividad de Unai Simón en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-21T10:23:08.875Z
+- Actualizado: 2026-07-21T21:06:12.863Z
 - Canonical: https://atlas.lootura.com/es/person/unai-simon
 
 ## Cambios recientes
@@ -35,4 +35,3 @@ Date: 2026-07-19
 ## Fuentes
 
 - [El buen rollito de Unai Simón con la 'periodista de los puñitos' y el destino final de la txapela del Athletic](https://www.elcorreo.com/deportes/futbol/mundial/buen-rollito-unai-simon-periodista-punitos-destino-20260721082157-nt_amp.html?utm_source=lootura.com) — 2026-07-21T06:21:57.000Z
-- [La reacción de Unai Simón cuando Zubimendi le ofrece besar la bandera de la Real Sociedad](https://www.elcorreo.com/deportes/futbol/mundial/reaccion-unai-simon-zubimendi-ofrece-besar-bandera-20260720225658-nt_amp.html?utm_source=lootura.com) — 2026-07-20T20:56:58.000Z

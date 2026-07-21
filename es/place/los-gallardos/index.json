@@ -9,7 +9,9 @@
   "jsonUrl": "https://atlas.lootura.com/es/place/los-gallardos/index.json",
   "description": "Sigue la actividad de Los Gallardos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
   "updatedAt": "2026-07-17T06:12:48.444Z",
-  "aliases": [],
+  "aliases": [
+    "Gallardos"
+  ],
   "changes": [
     {
       "title": "La toma de decisiones en una gran emergencia: cuando la realidad cambia más deprisa que la información disponible",

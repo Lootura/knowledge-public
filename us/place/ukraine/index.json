@@ -8,11 +8,30 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/ukraine/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/ukraine/index.json",
   "description": "Follow Ukraine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-21T06:26:28.839Z",
+  "updatedAt": "2026-07-21T21:06:38.270Z",
   "aliases": [
-    "Kyiv"
+    "Kyiv",
+    "Ukrainia",
+    "Ukr.",
+    "Ukraina",
+    "Ukraïna"
   ],
   "changes": [
+    {
+      "title": "Ukraine’s Zelenskyy fires his commander-in-chief after protests and major rift",
+      "summary": "The Ukrainian president fired his commander-in-chief Oleksandr Syrskyi on Tuesday, bowing to pressure after the removal of popular Defense Minister Mykhailo Fedorov sparked the fiercest leadership crisis of his presidency.",
+      "date": "2026-07-21"
+    },
+    {
+      "title": "Tech innovator and old guard general are focus of Ukraine's political crisis",
+      "summary": "When their personalities and policies clashed, President Volodymyr Zelenskyy decided to fire popular young Defense Minister Mykhailo Fedorov and keep Gen. Oleksandr Syrskyi.",
+      "date": "2026-07-21"
+    },
+    {
+      "title": "Zelensky Dismisses Ukraine’s Top General After Protests",
+      "summary": "The move followed the firing of a popular defense minister, who had clashed with the general over how to fight the war.",
+      "date": "2026-07-21"
+    },
     {
       "title": "Ukraine fires 400 drones toward Moscow as Zelenskyy grapples with protests",
       "summary": "The blitz came hours after Russia bombarded Kyiv and other Ukrainian cities with ballistic missiles in a relentless cycle of tit-for-tat strikes.",
@@ -47,23 +66,27 @@
       "title": "Ukraine’s Top General Becomes a Target of Protesters’ Anger",
       "summary": "Demonstrators supporting Ukraine’s ousted defense minister have begun denouncing the commander he clashed with in office, Gen. Oleksandr Syrskyi.",
       "date": "2026-07-19"
-    },
-    {
-      "title": "Russia Batters Kyiv in One of the Largest Missile Assaults of the War",
-      "summary": "On Saturday, Ukraine hit two warehouses in Russia in strikes that killed at least eight people and injured 62.",
-      "date": "2026-07-19"
-    },
-    {
-      "title": "Ukrainian drone attacks on Russia kill at least 9, injure over 60",
-      "summary": "Kyiv's forces are continuing their relentless aerial campaign​ against energy infrastructure and military targets inside Russia.",
-      "date": "2026-07-18"
-    },
-    {
-      "title": "Ukrainian drones hit warehouses and other sites across Russia, killing 9 and wounding over 60",
-      "summary": "Kyiv's forces have pressed their relentless aerial campaign against energy infrastructure and military targets inside Russia, aiming to undermine Moscow's war effort and make Russians feel the consequences of the Kremlin's all-out invasion of Ukraine that is well into its fifth year.",
-      "date": "2026-07-18"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Ukraine’s Zelenskyy fires his commander-in-chief after protests and major rift",
+      "url": "https://www.nbcnews.com/world/ukraine/ukraines-zelenskyy-fires-commander-chief-protests-major-rift-rcna588159?utm_source=lootura.com",
+      "publishedAt": "2026-07-21T19:51:22.000Z",
+      "sourceId": "lootura-us-nbc-news"
+    },
+    {
+      "title": "Tech innovator and old guard general are focus of Ukraine's political crisis",
+      "url": "https://www.pbs.org/newshour/world/tech-innovator-and-old-guard-general-are-focus-of-ukraines-political-crisis?utm_source=lootura.com",
+      "publishedAt": "2026-07-21T18:25:03.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
+    },
+    {
+      "title": "Zelensky Dismisses Ukraine’s Top General After Protests",
+      "url": "https://www.nytimes.com/2026/07/21/world/europe/ukraine-syrskyi-russia-war-fedorov-zelensky-protest.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-21T20:50:31.000Z",
+      "sourceId": "lootura-us-the-new-york-times-world"
+    }
+  ],
+  "evidenceCount": 3
 }

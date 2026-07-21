@@ -9,7 +9,12 @@
   "jsonUrl": "https://atlas.lootura.com/us/person/mykhailo-fedorov/index.json",
   "description": "Follow Mykhailo Fedorov, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
   "updatedAt": "2026-07-16T20:55:05.764Z",
-  "aliases": [],
+  "aliases": [
+    "Fedorov",
+    "Mykhailo",
+    "Mykhailo Albertovych Fedorov",
+    "Fedorov Mykhailo"
+  ],
   "changes": [
     {
       "title": "Ukrainian's Zelenskyy faces major backlash for ousting defense chief Mykhailo Fedorov amid progress vs. Russia",

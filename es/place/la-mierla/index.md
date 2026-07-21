@@ -3,10 +3,28 @@
 > Sigue la actividad de La Mierla en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-21T10:23:08.875Z
+- Actualizado: 2026-07-21T21:06:12.863Z
 - Canonical: https://atlas.lootura.com/es/place/la-mierla
 
 ## Cambios recientes
+
+### El incendio de La Mierla (Guadalajara) frena su avance a Soria y afecta ya a unas 29.000 hectáreas
+
+El municipio de Barcones ha sido evacuado dada la situación de la calidad del aire. Además, hay otras localidades sorianas amenazadas por la posible afectación por el humo Leer.
+
+Date: 2026-07-21
+
+### El incendio de Guadalajara roza las 30.000 hectáreas quemadas y ya hay 34 municipios desalojados
+
+El incendio de La Mierla (Guadalajara) ha quemado 29.000 hectáreas y ya hay 34 municipios desalojados desde que comenzó el jueves pasado. El presidente de Castilla-La Mancha, el socialista Emiliano García-Page , ha asegurado, tras su reunión en el Cecopi por la mañana, que ya se plantean el posible regreso de vecinos a.
+
+Date: 2026-07-21
+
+### Incendio de la Sierra Norte de Guadalajara, en directo: avance del fuego en La Mierla y Selas
+
+El incendio forestal declarado el pasado jueves en la Sierra Norte de Guadalajara continúa fuera de capacidad de extinción y ya ha arrasado cerca de 29.000 hectáreas , consolidándose como el mayor registrado este año en Castilla-La Mancha. Aunque el operativo ha logrado ralentizar el avance de las llamas en las últimas.
+
+Date: 2026-07-21
 
 ### El incendio de La Mierla (Guadalajara) frena su avance a Soria y afecta a 29.000 hectáreas
 
@@ -50,25 +68,8 @@ Además de las 16 localidades previamente evacuadas, se ha notificado a Prádena
 
 Date: 2026-07-19
 
-### El alcalde de Vox señalado por el incendio de La Mierla niega haber estado en el lugar donde se originó el fuego
-
-Rubén Marchamalo ha comparecido esta tarde ante los medios de comunicación tras conocerse la investigación abierta por la Guardia Civil para determinar las circunstancias en las que produjo el siniestro. Se desmarca de lo ocurrido y apela a "la presunción de inocencia". Desde el partido exigen "disculpas públicas" por.
-
-Date: 2026-07-18
-
-### El incendio de La Mierla (Guadalajara) suma 9.000 hectáreas quemadas y 700 evacuados
-
-Unas 9.000 hectáreas quemadas, 700 personas afectadas, 16 poblaciones ya evacuadas y una confinada es el balance de este sábado del incendio de La Mierla ( Guadalajara ), que ha presentado unas condiciones extremas a lo largo de la jornada, con dificultad para actuar en la «cabeza» del mismo y con un viento que ha supe.
-
-Date: 2026-07-18
-
-### García Page pide extremar las precauciones por el incendio en La Mierla y ya avisa: "Nos quedan muchas horas, probablemente días"
-
-El incendio declarado el jueves en La Mierla , en la provincia de Guadalajara, no da tregua. Lo que comenzó arrasando 3.483 hectáreas ha escalado este sábado hasta las 5.400, con 12 municipios desalojados y cerca de 600 personas evacuadas. La consejera de Desarrollo Sostenible, Mercedes Gómez , confirmó desde el puesto.
-
-Date: 2026-07-18
-
 ## Fuentes
 
-- [Incendio de la Sierra Norte de Guadalajara, en directo: el fuego sigue sin control y afecta a más de 34 municipios](https://www.larazon.es/sociedad/incendio-sierra-norte-guadalajara-directo-fuego-sigue-control-afecta-mas-34-municipios_202607216a5eeff9f172396e89eb12e1.html?outputType=amp&utm_source=lootura.com) — 2026-07-21T06:23:45.000Z
-- [El incendio de La Mierla (Guadalajara) frena su avance a Soria y afecta a 29.000 hectáreas](https://theobjective.com/sociedad/suceso/2026-07-21/incendio-la-mierla-guadalajara-frena-soria-29-000-hectareas/?amp=&utm_source=lootura.com) — 2026-07-21T10:11:07.000Z
+- [El incendio de La Mierla (Guadalajara) frena su avance a Soria y afecta ya a unas 29.000 hectáreas](https://www.elmundo.es/espana/2026/07/21/6a5f1e63e4d4d842108b459d.html?utm_source=lootura.com) — 2026-07-21T15:32:28.000Z
+- [El incendio de Guadalajara roza las 30.000 hectáreas quemadas y ya hay 34 municipios desalojados](https://elpais.com/espana/2026-07-21/el-incendio-de-guadalajara-roza-las-30000-hectareas-quemadas-y-ya-hay-34-municipios-desalojados.html?utm_source=lootura.com) — 2026-07-21T10:12:14.000Z
+- [Incendio de la Sierra Norte de Guadalajara, en directo: avance del fuego en La Mierla y Selas](https://www.larazon.es/sociedad/incendio-sierra-norte-guadalajara-directo-fuego-sigue-control-afecta-mas-34-municipios_202607216a5eeff9f172396e89eb12e1.html?utm_source=lootura.com) — 2026-07-21T20:40:15.000Z

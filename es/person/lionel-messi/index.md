@@ -1,9 +1,9 @@
-# Lionel Messi
+# Lío
 
-> Sigue la actividad de Lionel Messi en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
+> Sigue la actividad de Lío en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-21T10:23:08.875Z
+- Actualizado: 2026-07-21T21:06:12.863Z
 - Canonical: https://atlas.lootura.com/es/person/lionel-messi
 
 ## Cambios recientes
@@ -70,4 +70,4 @@ Date: 2026-07-16
 
 ## Fuentes
 
-- [La selección argentina regresa a casa sin Messi](https://www.lavanguardia.com/deportes/futbol/20260721/11597384/seleccion-argentina-regresa-casa-messi.html?utm_source=lootura.com) — 2026-07-21T08:11:53.000Z
+- [Messi regresa a Argentina tras la derrota en la final del Mundial](https://elpais.com/argentina/2026-07-21/messi-regresa-a-argentina-tras-la-derrota-en-la-final-del-mundial.html?utm_source=lootura.com) — 2026-07-21T20:53:49.000Z

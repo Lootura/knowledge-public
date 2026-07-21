@@ -1,6 +1,6 @@
-# Supreme Court
+# Supreme court
 
-> Follow Supreme Court, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
+> Follow Supreme court, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
 - Updated: 2026-07-16T20:55:05.764Z

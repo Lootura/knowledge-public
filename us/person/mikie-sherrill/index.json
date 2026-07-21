@@ -1,0 +1,62 @@
+{
+  "id": "usa-mikie-sherrill",
+  "name": "Mikie Sherrill",
+  "type": "person",
+  "locale": "en",
+  "canonicalPath": "/us/person/mikie-sherrill",
+  "canonicalUrl": "https://atlas.lootura.com/us/person/mikie-sherrill",
+  "markdownUrl": "https://atlas.lootura.com/us/person/mikie-sherrill/index.md",
+  "jsonUrl": "https://atlas.lootura.com/us/person/mikie-sherrill/index.json",
+  "description": "Follow Mikie Sherrill, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
+  "updatedAt": "2026-07-21T21:06:38.270Z",
+  "aliases": [
+    "Rebecca M. Sherrill",
+    "Rebecca Sherrill",
+    "Rebecca Michelle Sherrill",
+    "Rebecca Michelle Hedberg",
+    "Rebecca Hedberg"
+  ],
+  "changes": [
+    {
+      "title": "Software error improperly registered 6,600 noncitizens to vote, N.J. gov. says",
+      "summary": "New Jersey Gov. Mikie Sherrill said a preliminary analysis showed that fewer than 400 of the people registered that way went on to cast ballots.",
+      "date": "2026-07-21"
+    },
+    {
+      "title": "Error Led to 400 Noncitizens Voting in New Jersey, Governor Says",
+      "summary": "A 2023 software glitch at the state’s Motor Vehicle Commission led to roughly 6,600 noncitizens being registered to vote during the Murphy administration, Gov. Mikie Sherrill announced.",
+      "date": "2026-07-21"
+    },
+    {
+      "title": "Thousands of Non-Citizens Registered to Vote in New Jersey Due to Software Issue",
+      "summary": "Voters cast their ballots during early voting in Bridgewater, New Jersey, on October 31, 2025. —Kena Betancur—Getty Images Roughly 6,600 non-citizens were accidentally registered on New Jersey voter rolls following a software error in the state’s Motor Vehicle System, Gov. Mikie Sherrill announced on Tuesday. The error.",
+      "date": "2026-07-21"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Mikie Sherrill first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-07-21"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Software error improperly registered 6,600 noncitizens to vote, N.J. gov. says",
+      "url": "https://www.cbsnews.com/news/noncitizens-registered-vote-error-new-jersey/?utm_source=lootura.com",
+      "publishedAt": "2026-07-21T19:19:48.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
+    {
+      "title": "Error Led to 400 Noncitizens Voting in New Jersey, Governor Says",
+      "url": "https://www.nytimes.com/2026/07/21/nyregion/noncitizen-voting-new-jersey-error.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-21T19:19:21.000Z",
+      "sourceId": "lootura-us-the-new-york-times"
+    },
+    {
+      "title": "Thousands of Non-Citizens Registered to Vote in New Jersey Due to Software Issue",
+      "url": "https://time.com/article/2026/07/21/new-jersey-non-citizen-voting-registration-error/?utm_source=lootura.com",
+      "publishedAt": "2026-07-21T19:00:47.000Z",
+      "sourceId": "lootura-us-time"
+    }
+  ],
+  "evidenceCount": 3
+}

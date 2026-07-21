@@ -3,7 +3,7 @@
 > Sigue la actividad de Málaga en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-21T10:23:08.875Z
+- Actualizado: 2026-07-21T21:06:12.863Z
 - Canonical: https://atlas.lootura.com/es/place/malaga
 
 ## Cambios recientes
@@ -11,6 +11,12 @@
 ### Amenazan a un futbolista vasco del Málaga por apoyar a Argentina contra España: «Etarra. Traidor. Antiespañol»
 
 Einar Galilea llegó a la Costa del Sol hace tres años, cuando los boquerones aún eran un equipo de Primera RFEF.
+
+Date: 2026-07-21
+
+### Tres mujeres asesinadas en apenas unas horas en sus domicilios de Toledo, Alicante y Málaga
+
+Los maridos de las dos primeras han sido detenidos Leer.
 
 Date: 2026-07-21
 
@@ -62,13 +68,7 @@ Cuando un viajero llega en coche a Ronda desde Málaga , el paisaje da paso a un
 
 Date: 2026-07-17
 
-### Registrado un ligero terremoto en la provincia de Málaga
-
-Un terremoto de magnitud 3. se ha registrado durante la madrugada de este viernes 17 de julio en las proximidades de Málaga, según la información difundida por el Instituto Geográfico Nacional en su página web. El epicentro del temblor, que ha afectado a la provincia de Málaga, se ha localizado a 2 kilómetros de Alhaur.
-
-Date: 2026-07-17
-
 ## Fuentes
 
 - [Amenazan a un futbolista vasco del Málaga por apoyar a Argentina contra España: «Etarra. Traidor. Antiespañol»](https://www.elcorreo.com/deportes/futbol/liga-primera/amenazan-futbolista-vasco-malaga-apoyar-argentina-espana-20260721120601-nt_amp.html?utm_source=lootura.com) — 2026-07-21T10:06:01.000Z
-- [Asesinadas en apenas unas horas tres mujeres en sus domicilios de Toledo, Alicante y Málaga](https://www.elcorreo.com/sociedad/asesinadas-apenas-horas-tres-mujeres-domicilios-toledo-20260721121655-nt_amp.html?utm_source=lootura.com) — 2026-07-21T10:17:24.000Z
+- [Tres mujeres asesinadas en apenas unas horas en sus domicilios de Toledo, Alicante y Málaga](https://www.elmundo.es/espana/2026/07/21/6a5f3a5ce85ece993b8b457e.html?utm_source=lootura.com) — 2026-07-21T13:34:58.000Z

@@ -22,4 +22,4 @@ Date: 2026-07-20
 
 ## Fuentes
 
-- [La reacción de Unai Simón cuando Zubimendi le ofrece besar la bandera de la Real Sociedad](https://www.elcorreo.com/deportes/futbol/mundial/reaccion-unai-simon-zubimendi-ofrece-besar-bandera-20260720225658-nt_amp.html?utm_source=lootura.com) — 2026-07-20T20:56:58.000Z
+No public source links.

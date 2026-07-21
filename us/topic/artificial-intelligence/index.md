@@ -3,7 +3,7 @@
 > Follow Artificial intelligence, a tracked topic, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: topic
-- Updated: 2026-07-21T10:23:35.333Z
+- Updated: 2026-07-21T21:06:38.270Z
 - Canonical: https://atlas.lootura.com/us/topic/artificial-intelligence
 
 ## Recent changes
@@ -11,6 +11,18 @@
 ### Detailed maps of European wetlands reveal overlooked patches of ecosystems
 
 Nature, Published online: 20 July 2026; doi:10.1038/d41586-026-02211-2 Satellite images have been analysed by a machine-learning algorithm to produce high-resolution maps of wetland environments — a boon for conservation efforts.
+
+Date: 2026-07-21
+
+### Why AI Needs a “Genie Coefficient”
+
+Major benchmarks measure what AI can do. None measure whether it does what you mean: the distance between what you ask an AI to do, and the unspoken assumptions about how you want the AI to do it. We propose a new metric: the Genie coefficient. There’s often a gap between one person’s request and another’s understandin.
+
+Date: 2026-07-21
+
+### Substack adds an AI detector to help spot blogs written by no one
+
+Substack will now help users determine whether what they're reading may have been written by AI. A new tool coming to the platform can scan posts, notes, replies, and comments to provide an estimate of how much text could be AI-generated or written with AI assistance, according to a blog post published on Tuesday . The.
 
 Date: 2026-07-21
 
@@ -56,20 +68,8 @@ Today, I’m talking with Harvard professor and New Yorker staff writer Dr. Jill
 
 Date: 2026-07-20
 
-### Developer ecosystem expanded
-
-Nature, Published online: 16 July 2026; doi:10.1038/d41586-026-02214-z As automated tools accelerate both the discovery and the exploitation of software vulnerabilities, organizations must redesign their defences and workflows to keep pace.
-
-Date: 2026-07-20
-
-### A global capital for AI safety is emerging — and it’s not in Silicon Valley
-
-Nature, Published online: 16 July 2026; doi:10.1038/d41586-026-01389-9 The United Kingdom is gaining influence through its growing AI-safety ecosystem.
-
-Date: 2026-07-20
-
 ## Sources
 
-- [Two House races take center stage as conservative PAC launches multimillion-dollar Big Tech push](https://www.foxnews.com/politics/two-house-races-take-center-stage-conservative-pac-launches-multimillion-dollar-big-tech-push?utm_source=lootura.com) — 2026-07-21T10:00:18.000Z
-- [Detailed maps of European wetlands reveal overlooked patches of ecosystems](https://www.nature.com/articles/d41586-026-02211-2?utm_source=lootura.com) — 2026-07-21T10:23:40.159Z
-- [Meta’s smartglasses mean any child can be covertly filmed. In the age of AI, how do we tackle that risk?](https://www.theguardian.com/commentisfree/2026/jul/21/meta-smartglasses-child-filmed-ai-risk-technology?utm_source=lootura.com) — 2026-07-21T05:00:02.000Z
+- [Why AI Needs a “Genie Coefficient”](https://spectrum.ieee.org/ai-agent-benchmark?utm_source=lootura.com) — 2026-07-21T17:41:11.000Z
+- [Detailed maps of European wetlands reveal overlooked patches of ecosystems](https://www.nature.com/articles/d41586-026-02211-2?utm_source=lootura.com) — 2026-07-21T17:15:56.129Z
+- [Substack adds an AI detector to help spot blogs written by no one](https://www.theverge.com/ai-artificial-intelligence/968855/substack-pangram-ai-detecting-tool?utm_source=lootura.com) — 2026-07-21T19:22:28.000Z

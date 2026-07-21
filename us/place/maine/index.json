@@ -8,12 +8,23 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/maine/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/maine/index.json",
   "description": "Follow Maine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-21T10:23:35.333Z",
-  "aliases": [],
+  "updatedAt": "2026-07-21T21:06:38.270Z",
+  "aliases": [
+    "ME",
+    "State of Maine",
+    "Maine, United States",
+    "The Pine Tree State",
+    "US-ME"
+  ],
   "changes": [
     {
       "title": "Once Anti-Abortion, Now a Progressive: The Evolution of a Maine Democrat",
       "summary": "Troy Jackson, who is expected to become his party’s nominee in the state’s marquee Senate race, has long been an economic populist, but his positions on social issues have changed markedly over time.",
+      "date": "2026-07-21"
+    },
+    {
+      "title": "Democrats’ Top Senate Candidate in Maine Won’t Support Schumer for Leader",
+      "summary": "Troy Jackson, who is set to become the party’s nominee, also said in an interview that he was not sure he wanted the support of Senator Chuck Schumer in the general election.",
       "date": "2026-07-21"
     },
     {
@@ -55,38 +66,27 @@
       "title": "In Maine Senate Race, Jackson Sprints Ahead of Pack, as Bellows Drops Out",
       "summary": "Troy Jackson, a progressive, solidified his clear edge in the contest to replace Graham Platner, as Shenna Bellows, Jordan Wood and Nirav Shah ended their bids.",
       "date": "2026-07-20"
-    },
-    {
-      "title": "In Maine, Troy Jackson Gains Momentum in Bid to Replace Platner",
-      "summary": "Troy Jackson, a progressive former State Senate president, showed signs of significant strength, as half the state’s counties picked delegates to a convention where they will choose Graham Platner’s replacement.",
-      "date": "2026-07-20"
     }
   ],
   "sources": [
     {
-      "title": "Troy Jackson set to become Democratic Maine Senate nominee, replacing Platner",
-      "url": "https://www.cbsnews.com/video/troy-jackson-set-to-become-democratic-maine-senate-nominee/?utm_source=lootura.com",
-      "publishedAt": "2026-07-21T01:15:00.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
-    {
-      "title": "Senators demand ICE answers and body cameras after deadly shootings in Maine and Houston",
-      "url": "https://www.pbs.org/newshour/nation/senators-demand-ice-answers-and-body-cameras-after-deadly-shootings-in-maine-and-houston?utm_source=lootura.com",
-      "publishedAt": "2026-07-20T19:10:30.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
-    },
-    {
-      "title": "5 Things to Know About the Maine Senate Candidate Troy Jackson",
-      "url": "https://www.nytimes.com/2026/07/20/us/politics/troy-jackson-maine-senate.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-20T15:11:12.000Z",
-      "sourceId": "lootura-us-the-new-york-times"
+      "title": "Troy Jackson Tightens Hold on Democratic Senate Nomination in Maine",
+      "url": "https://www.nytimes.com/2026/07/21/us/politics/troy-jackson-maine-senate-democrats.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-21T20:10:13.000Z",
+      "sourceId": "lootura-us-the-new-york-times-politics"
     },
     {
       "title": "Once Anti-Abortion, Now a Progressive: The Evolution of a Maine Democrat",
       "url": "https://www.nytimes.com/2026/07/21/us/politics/troy-jackson-maine-senate.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-21T09:02:47.000Z",
+      "publishedAt": "2026-07-21T15:13:42.000Z",
+      "sourceId": "lootura-us-the-new-york-times-politics"
+    },
+    {
+      "title": "Democrats’ Top Senate Candidate in Maine Won’t Support Schumer for Leader",
+      "url": "https://www.nytimes.com/2026/07/21/us/politics/troy-jackson-schumer-maine-senate.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-21T17:52:33.000Z",
       "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 4
+  "evidenceCount": 3
 }

@@ -3,22 +3,10 @@
 > Follow Iran, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-21T10:23:35.333Z
+- Updated: 2026-07-21T21:06:38.270Z
 - Canonical: https://atlas.lootura.com/us/place/iran
 
 ## Recent changes
-
-### New round of strikes targeting Iran underway, U.S. officials say
-
-A 10th straight night of U.S. strikes on Iran is underway as President Trump vows Tehran will pay for the deaths of three American soldiers over the weekend. CBS News senior national security correspondent Charlie D'Agata reports. Then, global affairs analyst Jonathan Wachtel joins to discuss the state of the war.
-
-Date: 2026-07-21
-
-### U.S. gas prices back up to average of $4 a gallon, AAA says
-
-As fighting with Iran ramps up, a gallon of regular gas is once again $4 on average, up 13 cents in one week, according to AAA. Severin Borenstein, professor at UC Berkeley's Haas School of Business, joins with analysis.
-
-Date: 2026-07-21
 
 ### Funding milestone detected
 
@@ -34,48 +22,61 @@ Date: 2026-07-21
 
 ### Houthis in Yemen Edge Closer to Entering U.S.-Iran War
 
-The Iran-backed Houthi militia in Yemen has declared a Red Sea blockade on Saudi Arabia, potentially opening up a new front in the war rippling across the Middle East.
+The Iran-backed Houthi militia in Yemen has declared a Red Sea blockade on Saudi Arabia, potentially opening a new front in the war rippling across the Middle East.
 
 Date: 2026-07-21
 
-### How recent killings of U.S. soldiers could affect the war with Iran
+### Watch Live: Hegseth and Caine testify before Senate panel amid escalating Iran war
 
-President Trump reacted to the recent killings of U.S. soldiers in the Middle East with strong words on Monday, promising that Iran will pay "many times over." Mark Cancian, senior adviser at the Center for Strategic and International Studies, joins CBS News to break down what this means for the war and CBS News' Weiji.
+Defense Secretary Pete Hegseth said the administration estimates that the Iran war has cost $37.5 billion since it began in late February.
 
-Date: 2026-07-20
+Date: 2026-07-21
 
-### Gas prices top $4 a gallon again as U.S.-Iran conflict escalates
+### Deadly attack on U.S. forces in Jordan part of evolving Iranian tactics
 
-The national average for a gallon of gas reached $4.003 on Monday, the first time in over a month it has crossed that threshold, AAA data shows.
+A retired Jordanian general tells CBS News Iran is "developing techniques and capacities" to target U.S. forces with increasing lethality.
 
-Date: 2026-07-20
+Date: 2026-07-21
 
-### G.O.P. Boxed In on Iran War as Trump Sidelines Congress
+### Iran retaliates after U.S. military carries out 10th night of strikes
 
-Republicans now face a worst-case political scenario of being asked to fund an unpopular war over which they have exercised little oversight.
+The U.S. carried out its 10th consecutive night of strikes against Iran. Tehran said it retaliated by targeting U.S. assets in Kuwait, Bahrain and Jordan. CBS News' Charlie D'Agata reports.
 
-Date: 2026-07-20
+Date: 2026-07-21
 
-### Iran war hurting U.S. allies in region, former Jordanian foreign minister says
+### Friends remember 19-year-old U.S. soldier Isabella Gonzales after death in Iran strike
 
-For perspective on the latest developments in the Iran war and the regional ramifications, Amna Nawaz spoke with Marwan Muasher. He's the vice president for studies at the Carnegie Endowment for International Peace and the former deputy prime minister and foreign minister of Jordan.
+Isabella Gonzales' friends in Texas are fondly remembering the fallen soldier as they come to terms with her death on Friday in the U.S. war with Iran. CBS News Texas reports.
 
-Date: 2026-07-20
+Date: 2026-07-21
 
-### Oil Prices Cross $90 a Barrel as U.S.-Iran Conflict Widens
+### Funding milestone detected
 
-Brent crude, the global benchmark for oil, rose more than 3 percent as trading resumed on Sunday, while S&P 500 futures remained essentially unchanged.
+Defense secretary Pete Hegseth will appear on the Hill on Tuesday. He's looking for a nearly $90 billion funding boost, as the Iran war once again flares.
 
-Date: 2026-07-20
+Date: 2026-07-21
+
+### Sen. Chris Murphy on the Iran war and Pete Hegseth's upcoming Senate testimony
+
+NPR's Michel Martin speaks with Sen. Chris Murphy, D-Conn., about the escalating war in the Middle East and the testimony of Defense Secretary Pete Hegseth in front of a Senate panel on Tuesday.
+
+Date: 2026-07-21
+
+### Pentagon Identifies Soldier Killed in Iran War as Sgt. Michael Emmanuel Swinton
+
+Sgt. Michael Emmanuel Swinton, the 17th service member to be named, was killed during the disposal of a drone in northern Iraq.
+
+Date: 2026-07-21
 
 ## Sources
 
-- [New round of strikes targeting Iran underway, U.S. officials say](https://www.cbsnews.com/video/new-round-strikes-targeting-iran-underway-officials/?utm_source=lootura.com) — 2026-07-21T01:13:00.000Z
-- [How recent killings of U.S. soldiers could affect the war with Iran](https://www.cbsnews.com/video/how-recent-killings-of-us-soldiers-could-affect-the-war-with-iran/?utm_source=lootura.com) — 2026-07-20T19:27:21.000Z
-- [U.S. gas prices back up to average of $4 a gallon, AAA says](https://www.cbsnews.com/video/us-gas-prices-back-up-average-4-gallon/?utm_source=lootura.com) — 2026-07-21T01:20:00.000Z
-- [Gas prices top $4 a gallon again as U.S.-Iran conflict escalates](https://www.cbsnews.com/news/gas-prices-iran-war-oil-supply/?utm_source=lootura.com) — 2026-07-20T19:57:28.000Z
+- [2 soldiers from Texas and Hawaii killed in Iran strike in Jordan; 1 still missing](https://www.cbsnews.com/news/iran-strike-jordan-us-troops-killed/?utm_source=lootura.com) — 2026-07-21T13:37:29.000Z
+- [Watch Live: Hegseth and Caine testify before Senate panel amid escalating Iran war](https://www.cbsnews.com/news/hegseth-caine-senate-hearing-iran/?utm_source=lootura.com) — 2026-07-21T21:01:01.000Z
+- [Deadly attack on U.S. forces in Jordan part of evolving Iranian tactics](https://www.cbsnews.com/news/iran-us-war-iranian-missiles-evading-defenses-to-kill-american-soldiers/?utm_source=lootura.com) — 2026-07-21T16:36:00.000Z
+- [Iran retaliates after U.S. military carries out 10th night of strikes](https://www.cbsnews.com/video/us-carries-out-tenth-night-of-strikes-on-iran/?utm_source=lootura.com) — 2026-07-21T13:21:00.000Z
+- [Friends remember 19-year-old U.S. soldier Isabella Gonzales after death in Iran strike](https://www.cbsnews.com/video/friends-remember-fallen-19-year-old-us-soldier-isabella-gonzales/?utm_source=lootura.com) — 2026-07-21T20:48:50.000Z
 - [Morning news brief](https://www.npr.org/2026/07/21/nx-s1-5895979/morning-news-brief?utm_source=lootura.com) — 2026-07-21T08:44:49.000Z
-- [Iran war hurting U.S. allies in region, former Jordanian foreign minister says](https://www.pbs.org/newshour/show/iran-war-hurting-u-s-allies-in-region-former-jordanian-foreign-minister-says?utm_source=lootura.com) — 2026-07-20T22:52:05.000Z
-- [G.O.P. Boxed In on Iran War as Trump Sidelines Congress](https://www.nytimes.com/2026/07/20/us/politics/gop-trump-iran-war.html?utm_source=lootura.com) — 2026-07-20T21:30:11.000Z
-- [The U.S. Is Pulling Back on Energy Efficiency](https://www.nytimes.com/2026/07/21/climate/trump-energy-efficiency-standards.html?utm_source=lootura.com) — 2026-07-21T09:02:07.000Z
-- [Houthis in Yemen Edge Closer to Entering U.S.-Iran War](https://www.nytimes.com/2026/07/21/world/middleeast/houthis-yemen-iran-war.html?utm_source=lootura.com) — 2026-07-21T09:05:37.000Z
+- [Defense Secretary Pete Hegseth goes to the Hill with nearly $90B funding request](https://www.npr.org/2026/07/21/nx-s1-5900838/defense-secretary-pete-hegseth-goes-to-the-hill-with-350b-funding-request?utm_source=lootura.com) — 2026-07-21T10:41:41.000Z
+- [Sen. Chris Murphy on the Iran war and Pete Hegseth's upcoming Senate testimony](https://www.npr.org/2026/07/21/nx-s1-5900980/sen-chris-murphy-on-the-iran-war-and-pete-hegseths-upcoming-senate-testimony?utm_source=lootura.com) — 2026-07-21T10:41:37.000Z
+- [Pentagon Identifies Soldier Killed in Iran War as Sgt. Michael Emmanuel Swinton](https://www.nytimes.com/2026/07/21/us/pentagon-identifies-soldier-iran-war-emmanuel-swinton.html?utm_source=lootura.com) — 2026-07-21T20:25:29.000Z
+- [Hegseth and Caine Will Appear Before Senators to Seek More Money for Iran War](https://www.nytimes.com/2026/07/21/us/iran-war-funding.html?utm_source=lootura.com) — 2026-07-21T16:54:59.000Z

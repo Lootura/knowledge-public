@@ -8,19 +8,14 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/iran/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/iran/index.json",
   "description": "Follow Iran, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-21T10:23:35.333Z",
-  "aliases": [],
+  "updatedAt": "2026-07-21T21:06:38.270Z",
+  "aliases": [
+    "Islamic Republic of Iran",
+    "ir",
+    "Islamic Rep. Iran",
+    "IRI"
+  ],
   "changes": [
-    {
-      "title": "New round of strikes targeting Iran underway, U.S. officials say",
-      "summary": "A 10th straight night of U.S. strikes on Iran is underway as President Trump vows Tehran will pay for the deaths of three American soldiers over the weekend. CBS News senior national security correspondent Charlie D'Agata reports. Then, global affairs analyst Jonathan Wachtel joins to discuss the state of the war.",
-      "date": "2026-07-21"
-    },
-    {
-      "title": "U.S. gas prices back up to average of $4 a gallon, AAA says",
-      "summary": "As fighting with Iran ramps up, a gallon of regular gas is once again $4 on average, up 13 cents in one week, according to AAA. Severin Borenstein, professor at UC Berkeley's Haas School of Business, joins with analysis.",
-      "date": "2026-07-21"
-    },
     {
       "title": "Funding milestone detected",
       "summary": "Iran-backed Houthis say they will blockade anothe waterway, threatening Red Sea shipping, Pete Hegseth heads to the Hill looking for $350 billion funding boost, Arizona voters head to the polls.",
@@ -33,58 +28,74 @@
     },
     {
       "title": "Houthis in Yemen Edge Closer to Entering U.S.-Iran War",
-      "summary": "The Iran-backed Houthi militia in Yemen has declared a Red Sea blockade on Saudi Arabia, potentially opening up a new front in the war rippling across the Middle East.",
+      "summary": "The Iran-backed Houthi militia in Yemen has declared a Red Sea blockade on Saudi Arabia, potentially opening a new front in the war rippling across the Middle East.",
       "date": "2026-07-21"
     },
     {
-      "title": "How recent killings of U.S. soldiers could affect the war with Iran",
-      "summary": "President Trump reacted to the recent killings of U.S. soldiers in the Middle East with strong words on Monday, promising that Iran will pay \"many times over.\" Mark Cancian, senior adviser at the Center for Strategic and International Studies, joins CBS News to break down what this means for the war and CBS News' Weiji.",
-      "date": "2026-07-20"
+      "title": "Watch Live: Hegseth and Caine testify before Senate panel amid escalating Iran war",
+      "summary": "Defense Secretary Pete Hegseth said the administration estimates that the Iran war has cost $37.5 billion since it began in late February.",
+      "date": "2026-07-21"
     },
     {
-      "title": "Gas prices top $4 a gallon again as U.S.-Iran conflict escalates",
-      "summary": "The national average for a gallon of gas reached $4.003 on Monday, the first time in over a month it has crossed that threshold, AAA data shows.",
-      "date": "2026-07-20"
+      "title": "Deadly attack on U.S. forces in Jordan part of evolving Iranian tactics",
+      "summary": "A retired Jordanian general tells CBS News Iran is \"developing techniques and capacities\" to target U.S. forces with increasing lethality.",
+      "date": "2026-07-21"
     },
     {
-      "title": "G.O.P. Boxed In on Iran War as Trump Sidelines Congress",
-      "summary": "Republicans now face a worst-case political scenario of being asked to fund an unpopular war over which they have exercised little oversight.",
-      "date": "2026-07-20"
+      "title": "Iran retaliates after U.S. military carries out 10th night of strikes",
+      "summary": "The U.S. carried out its 10th consecutive night of strikes against Iran. Tehran said it retaliated by targeting U.S. assets in Kuwait, Bahrain and Jordan. CBS News' Charlie D'Agata reports.",
+      "date": "2026-07-21"
     },
     {
-      "title": "Iran war hurting U.S. allies in region, former Jordanian foreign minister says",
-      "summary": "For perspective on the latest developments in the Iran war and the regional ramifications, Amna Nawaz spoke with Marwan Muasher. He's the vice president for studies at the Carnegie Endowment for International Peace and the former deputy prime minister and foreign minister of Jordan.",
-      "date": "2026-07-20"
+      "title": "Friends remember 19-year-old U.S. soldier Isabella Gonzales after death in Iran strike",
+      "summary": "Isabella Gonzales' friends in Texas are fondly remembering the fallen soldier as they come to terms with her death on Friday in the U.S. war with Iran. CBS News Texas reports.",
+      "date": "2026-07-21"
     },
     {
-      "title": "Oil Prices Cross $90 a Barrel as U.S.-Iran Conflict Widens",
-      "summary": "Brent crude, the global benchmark for oil, rose more than 3 percent as trading resumed on Sunday, while S&P 500 futures remained essentially unchanged.",
-      "date": "2026-07-20"
+      "title": "Funding milestone detected",
+      "summary": "Defense secretary Pete Hegseth will appear on the Hill on Tuesday. He's looking for a nearly $90 billion funding boost, as the Iran war once again flares.",
+      "date": "2026-07-21"
+    },
+    {
+      "title": "Sen. Chris Murphy on the Iran war and Pete Hegseth's upcoming Senate testimony",
+      "summary": "NPR's Michel Martin speaks with Sen. Chris Murphy, D-Conn., about the escalating war in the Middle East and the testimony of Defense Secretary Pete Hegseth in front of a Senate panel on Tuesday.",
+      "date": "2026-07-21"
+    },
+    {
+      "title": "Pentagon Identifies Soldier Killed in Iran War as Sgt. Michael Emmanuel Swinton",
+      "summary": "Sgt. Michael Emmanuel Swinton, the 17th service member to be named, was killed during the disposal of a drone in northern Iraq.",
+      "date": "2026-07-21"
     }
   ],
   "sources": [
     {
-      "title": "New round of strikes targeting Iran underway, U.S. officials say",
-      "url": "https://www.cbsnews.com/video/new-round-strikes-targeting-iran-underway-officials/?utm_source=lootura.com",
-      "publishedAt": "2026-07-21T01:13:00.000Z",
+      "title": "2 soldiers from Texas and Hawaii killed in Iran strike in Jordan; 1 still missing",
+      "url": "https://www.cbsnews.com/news/iran-strike-jordan-us-troops-killed/?utm_source=lootura.com",
+      "publishedAt": "2026-07-21T13:37:29.000Z",
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "How recent killings of U.S. soldiers could affect the war with Iran",
-      "url": "https://www.cbsnews.com/video/how-recent-killings-of-us-soldiers-could-affect-the-war-with-iran/?utm_source=lootura.com",
-      "publishedAt": "2026-07-20T19:27:21.000Z",
+      "title": "Watch Live: Hegseth and Caine testify before Senate panel amid escalating Iran war",
+      "url": "https://www.cbsnews.com/news/hegseth-caine-senate-hearing-iran/?utm_source=lootura.com",
+      "publishedAt": "2026-07-21T21:01:01.000Z",
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "U.S. gas prices back up to average of $4 a gallon, AAA says",
-      "url": "https://www.cbsnews.com/video/us-gas-prices-back-up-average-4-gallon/?utm_source=lootura.com",
-      "publishedAt": "2026-07-21T01:20:00.000Z",
+      "title": "Deadly attack on U.S. forces in Jordan part of evolving Iranian tactics",
+      "url": "https://www.cbsnews.com/news/iran-us-war-iranian-missiles-evading-defenses-to-kill-american-soldiers/?utm_source=lootura.com",
+      "publishedAt": "2026-07-21T16:36:00.000Z",
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "Gas prices top $4 a gallon again as U.S.-Iran conflict escalates",
-      "url": "https://www.cbsnews.com/news/gas-prices-iran-war-oil-supply/?utm_source=lootura.com",
-      "publishedAt": "2026-07-20T19:57:28.000Z",
+      "title": "Iran retaliates after U.S. military carries out 10th night of strikes",
+      "url": "https://www.cbsnews.com/video/us-carries-out-tenth-night-of-strikes-on-iran/?utm_source=lootura.com",
+      "publishedAt": "2026-07-21T13:21:00.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
+    {
+      "title": "Friends remember 19-year-old U.S. soldier Isabella Gonzales after death in Iran strike",
+      "url": "https://www.cbsnews.com/video/friends-remember-fallen-19-year-old-us-soldier-isabella-gonzales/?utm_source=lootura.com",
+      "publishedAt": "2026-07-21T20:48:50.000Z",
       "sourceId": "lootura-us-cbs-news"
     },
     {
@@ -94,29 +105,29 @@
       "sourceId": "lootura-us-npr"
     },
     {
-      "title": "Iran war hurting U.S. allies in region, former Jordanian foreign minister says",
-      "url": "https://www.pbs.org/newshour/show/iran-war-hurting-u-s-allies-in-region-former-jordanian-foreign-minister-says?utm_source=lootura.com",
-      "publishedAt": "2026-07-20T22:52:05.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
+      "title": "Defense Secretary Pete Hegseth goes to the Hill with nearly $90B funding request",
+      "url": "https://www.npr.org/2026/07/21/nx-s1-5900838/defense-secretary-pete-hegseth-goes-to-the-hill-with-350b-funding-request?utm_source=lootura.com",
+      "publishedAt": "2026-07-21T10:41:41.000Z",
+      "sourceId": "lootura-us-npr-politics"
     },
     {
-      "title": "G.O.P. Boxed In on Iran War as Trump Sidelines Congress",
-      "url": "https://www.nytimes.com/2026/07/20/us/politics/gop-trump-iran-war.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-20T21:30:11.000Z",
-      "sourceId": "lootura-us-the-new-york-times-politics"
+      "title": "Sen. Chris Murphy on the Iran war and Pete Hegseth's upcoming Senate testimony",
+      "url": "https://www.npr.org/2026/07/21/nx-s1-5900980/sen-chris-murphy-on-the-iran-war-and-pete-hegseths-upcoming-senate-testimony?utm_source=lootura.com",
+      "publishedAt": "2026-07-21T10:41:37.000Z",
+      "sourceId": "lootura-us-npr-politics"
     },
     {
-      "title": "The U.S. Is Pulling Back on Energy Efficiency",
-      "url": "https://www.nytimes.com/2026/07/21/climate/trump-energy-efficiency-standards.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-21T09:02:07.000Z",
-      "sourceId": "lootura-us-the-new-york-times-politics"
+      "title": "Pentagon Identifies Soldier Killed in Iran War as Sgt. Michael Emmanuel Swinton",
+      "url": "https://www.nytimes.com/2026/07/21/us/pentagon-identifies-soldier-iran-war-emmanuel-swinton.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-21T20:25:29.000Z",
+      "sourceId": "lootura-us-the-new-york-times"
     },
     {
-      "title": "Houthis in Yemen Edge Closer to Entering U.S.-Iran War",
-      "url": "https://www.nytimes.com/2026/07/21/world/middleeast/houthis-yemen-iran-war.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-21T09:05:37.000Z",
-      "sourceId": "lootura-us-the-new-york-times-world"
+      "title": "Hegseth and Caine Will Appear Before Senators to Seek More Money for Iran War",
+      "url": "https://www.nytimes.com/2026/07/21/us/iran-war-funding.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-21T16:54:59.000Z",
+      "sourceId": "lootura-us-the-new-york-times"
     }
   ],
-  "evidenceCount": 10
+  "evidenceCount": 12
 }

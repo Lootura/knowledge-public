@@ -70,8 +70,4 @@ Date: 2026-07-20
 
 ## Sources
 
-- [Here's how the UK went through 6 prime ministers in 7 years](https://www.cbsnews.com/video/andy-burnham-becomes-new-uk-prime-minister/?utm_source=lootura.com) — 2026-07-21T01:11:05.000Z
-- [News Wrap: Andy Burnham becomes Britain's 7th prime minister in a decade](https://www.pbs.org/newshour/show/news-wrap-andy-burnham-becomes-britains-7th-prime-minister-in-a-decade?utm_source=lootura.com) — 2026-07-20T22:45:03.000Z
-- [There’s Nothing Casual About Andy Burnham’s Casual Style](https://www.nytimes.com/2026/07/20/style/andy-burnham-prime-minister-style.html?utm_source=lootura.com) — 2026-07-20T12:09:00.000Z
-- [Andy Burnham, New UK Prime Minister, Names John Healey As Top Finance Official](https://www.nytimes.com/2026/07/20/business/andy-burnham-john-healey.html?utm_source=lootura.com) — 2026-07-20T18:57:41.000Z
-- [New UK Prime Minister Burnham Promises Hope and Change. The Hurdles Are High.](https://www.nytimes.com/2026/07/21/world/europe/andy-burnham-new-uk-prime-minister-policies.html?utm_source=lootura.com) — 2026-07-21T10:12:33.000Z
+No public source links.

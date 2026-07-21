@@ -3,10 +3,22 @@
 > Sigue la actividad de La Mancha en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-21T10:23:08.875Z
+- Actualizado: 2026-07-21T21:06:12.863Z
 - Canonical: https://atlas.lootura.com/es/place/la-mancha
 
 ## Cambios recientes
+
+### El incendio de Guadalajara roza las 30.000 hectáreas quemadas y ya hay 34 municipios desalojados
+
+El incendio de La Mierla (Guadalajara) ha quemado 29.000 hectáreas y ya hay 34 municipios desalojados desde que comenzó el jueves pasado. El presidente de Castilla-La Mancha, el socialista Emiliano García-Page , ha asegurado, tras su reunión en el Cecopi por la mañana, que ya se plantean el posible regreso de vecinos a.
+
+Date: 2026-07-21
+
+### Incendio de la Sierra Norte de Guadalajara, en directo: avance del fuego en La Mierla y Selas
+
+El incendio forestal declarado el pasado jueves en la Sierra Norte de Guadalajara continúa fuera de capacidad de extinción y ya ha arrasado cerca de 29.000 hectáreas , consolidándose como el mayor registrado este año en Castilla-La Mancha. Aunque el operativo ha logrado ralentizar el avance de las llamas en las últimas.
+
+Date: 2026-07-21
 
 ### Alerta naranja en siete comunidades por la ola de calor: temperaturas asfixiantes y amenaza de reventones y tormentas secas
 
@@ -56,19 +68,7 @@ La Mancha first entered the public knowledge record with source-backed evidence.
 
 Date: 2026-07-18
 
-### Incendios en España, en directo hoy: última hora de los fuegos activos, evolución y situación en Aragón, Castilla-La Mancha, Madrid y Andalucía
-
-España afronta una nueva jornada de máxima alerta por incendios forestales después de un viernes marcado por varios grandes fuegos activos en diferentes comunidades autónomas y un amplio despliegue de medios de extinción. Los servicios de emergencia han trabajado durante toda la noche para consolidar los perímetros, pr.
-
-Date: 2026-07-18
-
-### 20 millones de euros para 743 jóvenes que se han incorporado al campo en Castilla-La Mancha durante los últimos años
-
-El Gobierno regional ha abonado cuatro millones adicionales a otros 162 agricultores y ganaderos dentro del actual Plan Estratégico de la PAC 2023-2027, según ha anunciado el director general de Desarrollo Rural, José Juan Fernández, durante una visita a Fuente El Fresno.
-
-Date: 2026-07-18
-
 ## Fuentes
 
-- [Detenido un hombre tras asesinar a su pareja con un arma blanca en Alameda de la Sagra (Toledo)](https://www.elconfidencial.com/espana/2026-07-21/detenido-hombre-asesinar-pareja-arma-blanca-toledo-1tna_4393327/?utm_source=lootura.com) — 2026-07-21T07:18:00.000Z
-- [Alerta naranja en siete comunidades por la ola de calor: temperaturas asfixiantes y amenaza de reventones y tormentas secas](https://www.larazon.es/el-tiempo/alerta-naranja-siete-comunidades-ola-calor-temperaturas-asfixiantes-amenaza-reventones-tormentas-secas_202607216a5f0edef172396e89eb376b.html?utm_source=lootura.com) — 2026-07-21T06:17:02.000Z
+- [El incendio de Guadalajara roza las 30.000 hectáreas quemadas y ya hay 34 municipios desalojados](https://elpais.com/espana/2026-07-21/el-incendio-de-guadalajara-roza-las-30000-hectareas-quemadas-y-ya-hay-34-municipios-desalojados.html?utm_source=lootura.com) — 2026-07-21T10:12:14.000Z
+- [Incendio de la Sierra Norte de Guadalajara, en directo: avance del fuego en La Mierla y Selas](https://www.larazon.es/sociedad/incendio-sierra-norte-guadalajara-directo-fuego-sigue-control-afecta-mas-34-municipios_202607216a5eeff9f172396e89eb12e1.html?utm_source=lootura.com) — 2026-07-21T20:40:15.000Z

@@ -3,14 +3,20 @@
 > Follow Democratic Party, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-07-21T10:23:35.333Z
+- Updated: 2026-07-21T21:06:38.270Z
 - Canonical: https://atlas.lootura.com/us/organization/democratic-party
 
 ## Recent changes
 
 ### Arizona primaries set the stage for contested fall races in a swing state
 
-Arizona Democrats choose who can try to flip a Republican-held House seat and Republicans pick their nominee to try to unseat a Democratic governor. (Image credit: Ross D. Franklin).
+Arizona Democrats choose who can try to flip a Republican-held House seat, and Republicans pick their nominee to try to unseat a Democratic governor. (Image credit: Ross D. Franklin).
+
+Date: 2026-07-21
+
+### Democrats’ Top Senate Candidate in Maine Won’t Support Schumer for Leader
+
+Troy Jackson, who is set to become the party’s nominee, also said in an interview that he was not sure he wanted the support of Senator Chuck Schumer in the general election.
 
 Date: 2026-07-21
 
@@ -62,12 +68,7 @@ Nature, Published online: 16 July 2026; doi:10.1038/d41586-026-02226-9 Republica
 
 Date: 2026-07-19
 
-### Mamdani doubles down on democratic socialism while insisting Wall Street, business leaders can work with him
-
-New York City Democratic Mayor Zohran Mamdani is embracing his identity as a Democratic Socialist, arguing the movement represents a return to the Democratic Party's New Deal roots even as he insists Wall Street and corporate leaders have nothing to fear from his administration. In a wide-ranging interview with The New.
-
-Date: 2026-07-19
-
 ## Sources
 
 - [Arizona primaries set the stage for contested fall races in a swing state](https://www.npr.org/2026/07/21/nx-s1-5901065/midterms-primaries-arizona-elections?utm_source=lootura.com) — 2026-07-21T09:00:00.000Z
+- [Democrats’ Top Senate Candidate in Maine Won’t Support Schumer for Leader](https://www.nytimes.com/2026/07/21/us/politics/troy-jackson-schumer-maine-senate.html?utm_source=lootura.com) — 2026-07-21T17:52:33.000Z

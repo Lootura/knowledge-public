@@ -8,8 +8,12 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/venezuela/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/venezuela/index.json",
   "description": "Follow Venezuela, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-21T10:23:35.333Z",
-  "aliases": [],
+  "updatedAt": "2026-07-21T21:06:38.270Z",
+  "aliases": [
+    "Bolivarian Republic of Venezuela",
+    "BR Venezuela",
+    "Republic of Venezuela"
+  ],
   "changes": [
     {
       "title": "In Venezuela’s Rubble, a Search for the Family Pets",
@@ -59,9 +63,9 @@
   ],
   "sources": [
     {
-      "title": "Two Young Brothers and Their Search for Venezuela’s Dead",
+      "title": "The Teenage Boys In Search of Their Mother After the Venezuela Earthquake",
       "url": "https://www.nytimes.com/2026/07/21/world/americas/venezuela-quake-victims-search.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-21T09:02:56.000Z",
+      "publishedAt": "2026-07-21T19:03:34.000Z",
       "sourceId": "lootura-us-the-new-york-times-world"
     }
   ],

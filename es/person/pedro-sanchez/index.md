@@ -3,10 +3,28 @@
 > Sigue la actividad de Pedro Sánchez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-21T10:23:08.875Z
+- Actualizado: 2026-07-21T21:06:12.863Z
 - Canonical: https://atlas.lootura.com/es/person/pedro-sanchez
 
 ## Cambios recientes
+
+### El PP apunta a Sánchez por el 'caso ZP' y avisa de que «este chanchullo se los puede llevar a los dos por delante»
+
+Los populares creen probado que el expresidente contaba con los apoyos de Venezuela y Moncloa en sus actividades para rescatar a Plus UItra tras las revelaciones de su testaferro.
+
+Date: 2026-07-21
+
+### Feijóo se adelanta a Sánchez en el balance del curso para aprovechar el misil lanzado por Julio Martínez
+
+El líder del PP, Alberto Núñez Feijóo, ha decidido no esperar a la comparecencia ante la prensa de Pedro Sánchez el próximo martes 28 y se adelanta a este miércoles para valorar el curso político que toca a su fin. Lo hará después del misil lanzado por el empresario 'Julito' Martínez ante el juez de la Audiencia Nacion.
+
+Date: 2026-07-21
+
+### Sin Sánchez, Zapatero no se habría llevado una mordida de medio millón de euros
+
+Si Julio Martínez, Julito, ha ratificado ante el juez Calama que Zapatero cobró una comisión del 1% por el rescate de la aerolínea Plus Ultra , resulta evidente que su declaración encaja perfectamente con las sospechas del magistrado de que el expresidente lideraba una organización criminal sustentada en una red de trá.
+
+Date: 2026-07-21
 
 ### Sebastián Yatra cantará el 10 de octubre en el festival de la Hispanidad en Madrid
 
@@ -50,25 +68,8 @@ El presidente recibió a los campeones del mundo en la Moncloa, en un acto ameni
 
 Date: 2026-07-20
 
-### Mónico Sánchez, el manchego que democratizó los rayos X
-
-Hay vidas que se resumen en una imagen. La de nuestro personaje es la foto en blanco y negro de un joven de 29 años manejando un aparato con un arco eléctrico. A su izquierda puede verse el estand de la General Electric de Edison, y justo detrás, el de la Westinghouse de Tesla. La instantánea está tomada en el Madison.
-
-Date: 2026-07-20
-
-### Samuel Navalón, al borde del precipicio y con un trofeo que sabe a oro en Santander
-
-El toro «Misionero» apretó en el caballo y a Gómez Escorial tras parear. Vimos en plenitud a Fernando Sánchez, que volvió a lucirse, y al toro ir definiéndose. Esa es la maravilla de lo bravo: el despertar de todo lo que va pasando en el ruedo son los hilos que se van cosiendo para descubrir qué hay detrás, en el fondo.
-
-Date: 2026-07-20
-
-### Pedro Sánchez, Donald Trump y la diplomacia del palco
-
-Simpatías forzadas entre los presidentes ante la atenta mirada de Infantino y los Reyes de España Leer.
-
-Date: 2026-07-20
-
 ## Fuentes
 
-- [Sebastián Yatra cantará el 10 de octubre en el festival de la Hispanidad en Madrid](https://www.abc.es/espana/madrid/sebastian-yatra-cantara-octubre-festival-hispanidad-madrid-20260721114848-nt.html?utm_source=lootura.com) — 2026-07-21T09:48:48.000Z
-- [Sumar sentencia a Zapatero y pide a Sánchez explicaciones sobre el rescate de Plus Ultra](https://theobjective.com/espana/politica/2026-07-21/sumar-zapatero-sanchez-plus-ultra/?utm_source=lootura.com) — 2026-07-21T10:10:47.000Z
+- [El PP apunta a Sánchez por el 'caso ZP' y avisa de que «este chanchullo se los puede llevar a los dos por delante»](https://www.elcorreo.com/politica/pp-apunta-gobierno-tras-revelaciones-julio-martinez-20260721134247-ntrc_amp.html?utm_source=lootura.com) — 2026-07-21T11:42:47.000Z
+- [Feijóo se adelanta a Sánchez en el balance del curso para aprovechar el misil lanzado por Julio Martínez](https://www.elindependiente.com/espana/2026/07/21/feijoo-se-adelanta-a-sanchez-en-el-balance-del-curso-para-aprovechar-el-misil-lanzado-por-julio-martinez/?utm_source=lootura.com) — 2026-07-21T17:29:59.000Z
+- [Sin Sánchez, Zapatero no se habría llevado una mordida de medio millón de euros](https://okdiario.com/opinion/sin-sanchez-zapatero-no-habria-llevado-mordida-medio-millon-euros-19041779?utm_source=lootura.com) — 2026-07-21T19:03:24.000Z

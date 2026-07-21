@@ -9,7 +9,9 @@
   "jsonUrl": "https://atlas.lootura.com/us/person/amna-nawaz/index.json",
   "description": "Follow Amna Nawaz, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
   "updatedAt": "2026-07-21T10:23:35.333Z",
-  "aliases": [],
+  "aliases": [
+    "Nawaz"
+  ],
   "changes": [
     {
       "title": "Iran war hurting U.S. allies in region, former Jordanian foreign minister says",
@@ -32,25 +34,6 @@
       "date": "2026-07-20"
     }
   ],
-  "sources": [
-    {
-      "title": "Iran war hurting U.S. allies in region, former Jordanian foreign minister says",
-      "url": "https://www.pbs.org/newshour/show/iran-war-hurting-u-s-allies-in-region-former-jordanian-foreign-minister-says?utm_source=lootura.com",
-      "publishedAt": "2026-07-20T22:52:05.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
-    },
-    {
-      "title": "Tamara Keith and Jasmine Wright on the political fallout of Trump's address",
-      "url": "https://www.pbs.org/newshour/show/tamara-keith-and-jasmine-wright-on-the-political-fallout-of-trumps-address?utm_source=lootura.com",
-      "publishedAt": "2026-07-20T22:30:46.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
-    },
-    {
-      "title": "Deadly shootings by ICE officers renew scrutiny of recruitment and training",
-      "url": "https://www.pbs.org/newshour/show/deadly-shootings-by-ice-officers-renew-scrutiny-of-recruitment-and-training?utm_source=lootura.com",
-      "publishedAt": "2026-07-20T22:42:05.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
-    }
-  ],
-  "evidenceCount": 3
+  "sources": [],
+  "evidenceCount": 0
 }

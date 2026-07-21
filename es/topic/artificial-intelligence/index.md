@@ -3,7 +3,7 @@
 > Sigue la actividad de Artificial intelligence en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: topic
-- Actualizado: 2026-07-21T10:23:08.875Z
+- Actualizado: 2026-07-21T21:06:12.863Z
 - Canonical: https://atlas.lootura.com/es/topic/artificial-intelligence
 
 ## Cambios recientes
@@ -40,4 +40,4 @@ Date: 2026-07-10
 
 ## Fuentes
 
-- [La nueva financiación autonómica promueve una armonización entre comunidades para frenar las rebajas de impuestos](https://elpais.com/economia/2026-07-21/la-nueva-financiacion-autonomica-promueve-una-armonizacion-entre-comunidades-para-frenar-las-rebajas-de-impuestos.html?utm_source=lootura.com) — 2026-07-21T03:45:01.000Z
+- [Google presenta Gemini 3.5 Flash Cyber, su respuesta a Claude Mythos y GPT-5.5 para detectar y resolver vulnerabilidades](https://hipertextual.com/tecnologia/google-gemini-3-5-flash-cyber-ia-ciberseguridad/?utm_source=lootura.com) — 2026-07-21T17:03:16.000Z

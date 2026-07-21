@@ -1,6 +1,6 @@
-# Casa Blanca
+# mansión exclusiva
 
-> Sigue la actividad de Casa Blanca en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
+> Sigue la actividad de mansión exclusiva en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: object
 - Actualizado: 2026-07-21T10:23:08.875Z
@@ -58,4 +58,4 @@ Date: 2026-07-14
 
 ## Fuentes
 
-- [Los yihadistas ofrecen 10 millones de dólares al que asesine al presidente Trump](https://www.larazon.es/internacional/yihadistas-ofrecen-10-millones-dolares-que-asesine-presidente-trump_202607216a5f4596f172396e89eb92ca.html?utm_source=lootura.com) — 2026-07-21T10:10:30.000Z
+No public source links.

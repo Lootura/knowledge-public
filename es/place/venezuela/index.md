@@ -1,12 +1,18 @@
-# Venezuela
+# Estados Unidos de Venezuela
 
-> Sigue la actividad de Venezuela en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
+> Sigue la actividad de Estados Unidos de Venezuela en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-20T21:09:57.635Z
+- Actualizado: 2026-07-21T21:06:12.863Z
 - Canonical: https://atlas.lootura.com/es/place/venezuela
 
 ## Cambios recientes
+
+### El PP apunta a Sánchez por el 'caso ZP' y avisa de que «este chanchullo se los puede llevar a los dos por delante»
+
+Los populares creen probado que el expresidente contaba con los apoyos de Venezuela y Moncloa en sus actividades para rescatar a Plus UItra tras las revelaciones de su testaferro.
+
+Date: 2026-07-21
 
 ### Gobernar entre escombros: legitimidad ausente y negociación bajo tutela en Venezuela
 
@@ -62,12 +68,6 @@ La líder de la oposición y premio Nobel de la Paz, María Corina Machado , ha 
 
 Date: 2026-07-15
 
-### El chavismo y parte de la oposición abrirán una vía de diálogo el 1 de agosto: María Corina Machado aún evalúa su participación
-
-El chavismo y un grupo de exdiputados opositores han abierto una vía de diálogo que comenzará el próximo 1 de agosto para promover la democracia en Venezuela, mientras los líderes opositores María Corina Machado y Edmundo González Urrutia comunicaron que evaluarán este miércoles su postura frente a este planteamiento,.
-
-Date: 2026-07-15
-
 ## Fuentes
 
-No public source links.
+- [El PP apunta a Sánchez por el 'caso ZP' y avisa de que «este chanchullo se los puede llevar a los dos por delante»](https://www.elcorreo.com/politica/pp-apunta-gobierno-tras-revelaciones-julio-martinez-20260721134247-ntrc_amp.html?utm_source=lootura.com) — 2026-07-21T11:42:47.000Z

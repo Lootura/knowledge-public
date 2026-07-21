@@ -3,10 +3,22 @@
 > Follow Lindsey Graham, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-07-21T10:23:35.333Z
+- Updated: 2026-07-21T21:06:38.270Z
 - Canonical: https://atlas.lootura.com/us/person/lindsey-graham
 
 ## Recent changes
+
+### There’s a power struggle brewing in South Carolina, and Trump might not win
+
+The race to fill Lindsey Graham’s seat has created a new test of President Donald Trump’s power. South Carolina Republicans aren’t sure Trump will pass. Sen. Darline Graham, who was appointed last week to fill the remainder of her late brother's term, announced Monday she will seek a full term for her brother’s old sea.
+
+Date: 2026-07-21
+
+### South Carolina Senate poll shows surprising frontrunner: Trey Gowdy
+
+Former Rep. Trey Gowdy insists he’s not interested in running in the South Carolina special election. But a new poll suggests Gowdy would be formidable if he changed his mind. Gowdy holds a massive lead over seven other potential and declared GOP candidates for the late Sen. Lindsey Graham’s seat, according to a poll f.
+
+Date: 2026-07-21
 
 ### South Carolina Republicans test Trump's clout in race for Graham's seat
 
@@ -56,20 +68,7 @@ President Donald Trump said Friday that Darline Graham, the sister of the late L
 
 Date: 2026-07-17
 
-### Darline Graham in serious discussions about running for Lindsey Graham's seat
-
-Darline Graham indicated in a White House meeting Thursday that she's weighing a bid, CBS News confirmed.
-
-Date: 2026-07-17
-
-### Who could replace Lindsey Graham in the Senate after his sudden death?
-
-South Carolina Sen. Lindsey Graham's sudden death late Saturday has set off a scramble for who will succeed him in the Senate.
-
-Date: 2026-07-16
-
 ## Sources
 
-- [South Carolina Republicans test Trump's clout in race for Graham's seat](https://www.politico.com/news/2026/07/21/south-carolina-trump-graham-test-01005834?utm_source=lootura.com) — 2026-07-21T08:45:00.000Z
-- [Nancy Mace won’t run for Lindsey Graham’s Senate seat](https://www.politico.com/news/2026/07/20/nancy-mace-not-run-for-senate-01005210?utm_source=lootura.com) — 2026-07-20T20:32:17.000Z
-- [Lindsey Graham’s Sister, Darline Graham, Says She Will Run to Succeed Him](https://www.nytimes.com/2026/07/20/us/politics/darline-graham-south-carolina-senate-race.html?utm_source=lootura.com) — 2026-07-20T21:26:50.000Z
+- [There’s a power struggle brewing in South Carolina, and Trump might not win](https://www.politico.com/news/2026/07/21/south-carolina-trump-graham-test-01005834?utm_source=lootura.com) — 2026-07-21T08:45:00.000Z
+- [South Carolina Senate poll shows surprising frontrunner: Trey Gowdy](https://www.politico.com/news/2026/07/21/south-carolina-senate-poll-trey-gowdy-graham-01006741?utm_source=lootura.com) — 2026-07-21T19:47:06.000Z

@@ -1,0 +1,45 @@
+{
+  "id": "es-julio-iglesias",
+  "name": "Julio Iglesias",
+  "type": "person",
+  "locale": "es",
+  "canonicalPath": "/es/person/julio-iglesias",
+  "canonicalUrl": "https://atlas.lootura.com/es/person/julio-iglesias",
+  "markdownUrl": "https://atlas.lootura.com/es/person/julio-iglesias/index.md",
+  "jsonUrl": "https://atlas.lootura.com/es/person/julio-iglesias/index.json",
+  "description": "Sigue la actividad de Julio Iglesias en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
+  "updatedAt": "2026-07-21T21:06:12.863Z",
+  "aliases": [],
+  "changes": [
+    {
+      "title": "Julio Iglesias se querella contra elDiario.es, contra su director y contra cuatro de sus periodistas",
+      "summary": "El artista internacional acusa al medio de los delitos de injurias con publicidad y calumnias, y de un delito contra la integridad moral, y amenaza con pedir una indemnización de \"importante cuantía\" La querella de Julio Iglesias contra elDiario.es: falsedades y acusaciones sin fundamento El cantante Julio Iglesias ha.",
+      "date": "2026-07-21"
+    },
+    {
+      "title": "La querella de Julio Iglesias contra elDiario.es: falsedades y acusaciones sin fundamento",
+      "summary": "La querella presentada por el abogado del cantante denuncia conductas de los periodistas que nunca se produjeron y numerosos hechos inveraces Julio Iglesias se querella contra elDiario.es, contra su director y contra cuatro de sus periodistas Así fueron los tres años de investigación sobre Julio Iglesias La querella pr.",
+      "date": "2026-07-21"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Julio Iglesias first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-07-21"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Julio Iglesias se querella contra elDiario.es, contra su director y contra cuatro de sus periodistas",
+      "url": "https://www.eldiario.es/politica/julio-iglesias-querella-eldiario-director-cuatro-periodistas_1_13397000.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-21T20:15:10.000Z",
+      "sourceId": "lootura-es-eldiario-es"
+    },
+    {
+      "title": "La querella de Julio Iglesias contra elDiario.es: falsedades y acusaciones sin fundamento",
+      "url": "https://www.eldiario.es/politica/querella-julio-iglesias-eldiario-falsedades-acusaciones-fundamento_129_13397281.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-21T20:14:58.000Z",
+      "sourceId": "lootura-es-eldiario-es"
+    }
+  ],
+  "evidenceCount": 2
+}

@@ -8,14 +8,19 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/democratic-party/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/democratic-party/index.json",
   "description": "Follow Democratic Party, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-21T10:23:35.333Z",
+  "updatedAt": "2026-07-21T21:06:38.270Z",
   "aliases": [
     "Democrats"
   ],
   "changes": [
     {
       "title": "Arizona primaries set the stage for contested fall races in a swing state",
-      "summary": "Arizona Democrats choose who can try to flip a Republican-held House seat and Republicans pick their nominee to try to unseat a Democratic governor. (Image credit: Ross D. Franklin).",
+      "summary": "Arizona Democrats choose who can try to flip a Republican-held House seat, and Republicans pick their nominee to try to unseat a Democratic governor. (Image credit: Ross D. Franklin).",
+      "date": "2026-07-21"
+    },
+    {
+      "title": "Democrats’ Top Senate Candidate in Maine Won’t Support Schumer for Leader",
+      "summary": "Troy Jackson, who is set to become the party’s nominee, also said in an interview that he was not sure he wanted the support of Senator Chuck Schumer in the general election.",
       "date": "2026-07-21"
     },
     {
@@ -57,11 +62,6 @@
       "title": "US politicians push agencies to restrict research collaboration with China",
       "summary": "Nature, Published online: 16 July 2026; doi:10.1038/d41586-026-02226-9 Republicans and Democrats worry about research theft and exploitation — but don’t agree on how to solve the problem.",
       "date": "2026-07-19"
-    },
-    {
-      "title": "Mamdani doubles down on democratic socialism while insisting Wall Street, business leaders can work with him",
-      "summary": "New York City Democratic Mayor Zohran Mamdani is embracing his identity as a Democratic Socialist, arguing the movement represents a return to the Democratic Party's New Deal roots even as he insists Wall Street and corporate leaders have nothing to fear from his administration. In a wide-ranging interview with The New.",
-      "date": "2026-07-19"
     }
   ],
   "sources": [
@@ -70,7 +70,13 @@
       "url": "https://www.npr.org/2026/07/21/nx-s1-5901065/midterms-primaries-arizona-elections?utm_source=lootura.com",
       "publishedAt": "2026-07-21T09:00:00.000Z",
       "sourceId": "lootura-us-npr-politics"
+    },
+    {
+      "title": "Democrats’ Top Senate Candidate in Maine Won’t Support Schumer for Leader",
+      "url": "https://www.nytimes.com/2026/07/21/us/politics/troy-jackson-schumer-maine-senate.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-21T17:52:33.000Z",
+      "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 3
 }

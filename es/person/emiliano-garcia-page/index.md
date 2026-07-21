@@ -3,10 +3,16 @@
 > Sigue la actividad de Emiliano García-Page en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-21T10:23:08.875Z
+- Actualizado: 2026-07-21T21:06:12.863Z
 - Canonical: https://atlas.lootura.com/es/person/emiliano-garcia-page
 
 ## Cambios recientes
+
+### El incendio de Guadalajara roza las 30.000 hectáreas quemadas y ya hay 34 municipios desalojados
+
+El incendio de La Mierla (Guadalajara) ha quemado 29.000 hectáreas y ya hay 34 municipios desalojados desde que comenzó el jueves pasado. El presidente de Castilla-La Mancha, el socialista Emiliano García-Page , ha asegurado, tras su reunión en el Cecopi por la mañana, que ya se plantean el posible regreso de vecinos a.
+
+Date: 2026-07-21
 
 ### El incendio de La Mierla (Guadalajara) frena su avance a Soria y afecta a 29.000 hectáreas
 
@@ -40,4 +46,4 @@ Date: 2026-07-18
 
 ## Fuentes
 
-- [El incendio de La Mierla (Guadalajara) frena su avance a Soria y afecta a 29.000 hectáreas](https://theobjective.com/sociedad/suceso/2026-07-21/incendio-la-mierla-guadalajara-frena-soria-29-000-hectareas/?amp=&utm_source=lootura.com) — 2026-07-21T10:11:07.000Z
+- [El incendio de Guadalajara roza las 30.000 hectáreas quemadas y ya hay 34 municipios desalojados](https://elpais.com/espana/2026-07-21/el-incendio-de-guadalajara-roza-las-30000-hectareas-quemadas-y-ya-hay-34-municipios-desalojados.html?utm_source=lootura.com) — 2026-07-21T10:12:14.000Z

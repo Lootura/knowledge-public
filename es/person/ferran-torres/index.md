@@ -1,9 +1,9 @@
-# Ferran Torres
+# Ferran Torres García
 
-> Sigue la actividad de Ferran Torres en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
+> Sigue la actividad de Ferran Torres García en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-21T10:23:08.875Z
+- Actualizado: 2026-07-21T21:06:12.863Z
 - Canonical: https://atlas.lootura.com/es/person/ferran-torres
 
 ## Cambios recientes
@@ -52,6 +52,4 @@ Date: 2026-07-19
 
 ## Fuentes
 
-- [Los relojes de lujo de los jugadores de la Selección española](https://www.abc.es/summum/estilo/relojes/coleccion-relojes-lujo-jugadores-seleccion-espanola-futbol-20260721192745-nt.html?utm_source=lootura.com) — 2026-07-21T09:37:04.000Z
-- [Ferran Torres, como símbolo del secreto de Luis de la Fuente](https://elpais.com/deportes/mundial-futbol/2026-07-21/ferran-torres-como-simbolo-del-secreto-de-luis-de-la-fuente.html?utm_source=lootura.com) — 2026-07-21T03:30:01.000Z
-- [Sumar llama «especulador» a Ferran Torres y le acusa de tener un «fondo buitre» por invertir 7 millones de euros](https://okdiario.com/economia/inversion/sumar-llama-especulador-ferran-torres-acusa-tener-fondo-buitre-invertir-7-millones-euros-19038773?utm_source=lootura.com) — 2026-07-21T09:56:54.000Z
+- [La Casa Blanca comparte fotos de Ferran y su gorra con referencia a Trump: "Todos quieren sumarse"](https://www.20minutos.es/deportes/futbol/casa-blanca-comparte-imagenes-ferran-torres-su-gorra-con-referencia-trump-todos-quieren-sumarse-movimiento_7017422_0.html?utm_source=lootura.com) — 2026-07-21T20:15:48.000Z

@@ -8,11 +8,32 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/partido-popular/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/partido-popular/index.json",
   "description": "Sigue la actividad de Partido Popular en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-21T10:23:08.875Z",
+  "updatedAt": "2026-07-21T21:06:12.863Z",
   "aliases": [
-    "PP"
+    "PP",
+    "populares"
   ],
   "changes": [
+    {
+      "title": "Vox se adelanta al PP: recurre al Supremo y mira a la Audiencia Nacional y al TJUE para frenar la ley de nietos",
+      "summary": "Santiago Abascal quiere pilotar la presión política, institucional y judicial contra la controvertida ley de nietos que tiene ya enfrente por distintos motivos a funcionarios, juristas, diplomáticos y a los dos principales partidos de la oposición. Vox ha convertido el rechazo a la nacionalización masiva promovida por.",
+      "date": "2026-07-21"
+    },
+    {
+      "title": "El PP apunta a Sánchez por el 'caso ZP' y avisa de que «este chanchullo se los puede llevar a los dos por delante»",
+      "summary": "Los populares creen probado que el expresidente contaba con los apoyos de Venezuela y Moncloa en sus actividades para rescatar a Plus UItra tras las revelaciones de su testaferro.",
+      "date": "2026-07-21"
+    },
+    {
+      "title": "Feijóo se adelanta a Sánchez en el balance del curso para aprovechar el misil lanzado por Julio Martínez",
+      "summary": "El líder del PP, Alberto Núñez Feijóo, ha decidido no esperar a la comparecencia ante la prensa de Pedro Sánchez el próximo martes 28 y se adelanta a este miércoles para valorar el curso político que toca a su fin. Lo hará después del misil lanzado por el empresario 'Julito' Martínez ante el juez de la Audiencia Nacion.",
+      "date": "2026-07-21"
+    },
+    {
+      "title": "Un juez abre juicio oral al número 2 de Diana Morant por un delito de calumnias contra el PP",
+      "summary": "El titular de la Sección de Instrucción del Tribunal de Instancia de Valencia, Plaza Número 1, ha abierto juicio oral contra el secretario de Organización y número 2 de la ministra Diana Morant , en el PSPV-PSOE, Vicent Mascarell , por un presunto delito de calumnias contra el PP previsto y penado en los artículos 205.",
+      "date": "2026-07-21"
+    },
     {
       "title": "Vox se ofende por la estrategia del PP para que no concurra en toda España: \"Que no se presenten ellos\"",
       "summary": "En Génova creen que Vox resta la posibilidad de crecer en escaños en algunas provincias clave.",
@@ -42,35 +63,33 @@
       "title": "«Antes de que se carguen la pantalla, me llevan por delante», dice la secretaria general del PP vasco",
       "summary": "Esther Martínez, portavoz y candidata a la Alcaldía en Bilbao, se enfrenta a los radicales que querían boicotear la televisión gigante del parque.",
       "date": "2026-07-19"
-    },
-    {
-      "title": "Maroto se impone en las primarias del PSOE de Madrid a Enma López y se enfrentará a Almeida",
-      "summary": "Reyes Maroto volverá a medirse a José Luis Martínez-Almeida en las urnas. La exministra será la rival del actual alcalde y dirigente del PP en las elecciones municipales del próximo año tras vencer este domingo en las primarias del PSOE de Madrid a Enma López . La portavoz adjunta de los socialistas en el Ayuntamiento.",
-      "date": "2026-07-19"
-    },
-    {
-      "title": "El PP pide que Marlaska y Mercedes González comparezcan por presuntas presiones políticas",
-      "summary": "Los populares presentan una batería de preguntas parlamentarias para conocer si se ha abierto una investigación interna.",
-      "date": "2026-07-19"
-    },
-    {
-      "title": "El PP reduce sus beneficios a la mitad en el último año",
-      "summary": "Los populares, que compraron dos sedes en Andalucía el año pasado, aumentaron su patrimonio neto de los 81 a los 90,6 millones de euros El PP de Feijóo promete una ambiciosa contrarreforma legal con recortes en derechos sociales si llega al poder El Partido Popular (PP) registró un beneficio neto acumulado de 9,6 millo.",
-      "date": "2026-07-19"
-    },
-    {
-      "title": "La última ocurrencia de los separatistas de Més en Palma: exigen redactar un plan municipal de espacios donde hay sombra",
-      "summary": "La última ocurrencia de los separatistas de Més en Palma: exigen al Ayuntamiento gobernado en minoría por el alcalde del PP, Jaime Martínez, redactar un plan municipal de espacios y zonas donde hace sombra y elaborarlo en un plazo máximo de seis meses. En plena ola de calor, la formación culpa al PP de no desplegar nin.",
-      "date": "2026-07-19"
     }
   ],
   "sources": [
     {
-      "title": "Vox se ofende por la estrategia del PP para que no concurra en toda España: \"Que no se presenten ellos\"",
-      "url": "https://www.larazon.es/espana/vox-ofende-estrategia-que-concurra-toda-espana-que-presenten-ellos_202607216a5f4848e3eb0b64aa4b4c9d.html?outputType=amp&utm_source=lootura.com",
-      "publishedAt": "2026-07-21T10:22:09.000Z",
-      "sourceId": "lootura-es-la-razon"
+      "title": "Vox se adelanta al PP: recurre al Supremo y mira a la Audiencia Nacional y al TJUE para frenar la ley de nietos",
+      "url": "https://www.elconfidencial.com/espana/2026-07-21/vox-pp-y-audiencia-nacional-tjue-ley-de-nietos_4393702/?utm_source=lootura.com",
+      "publishedAt": "2026-07-21T18:14:00.000Z",
+      "sourceId": "lootura-es-el-confidencial"
+    },
+    {
+      "title": "El PP apunta a Sánchez por el 'caso ZP' y avisa de que «este chanchullo se los puede llevar a los dos por delante»",
+      "url": "https://www.elcorreo.com/politica/pp-apunta-gobierno-tras-revelaciones-julio-martinez-20260721134247-ntrc_amp.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-21T11:42:47.000Z",
+      "sourceId": "lootura-es-el-correo"
+    },
+    {
+      "title": "Feijóo se adelanta a Sánchez en el balance del curso para aprovechar el misil lanzado por Julio Martínez",
+      "url": "https://www.elindependiente.com/espana/2026/07/21/feijoo-se-adelanta-a-sanchez-en-el-balance-del-curso-para-aprovechar-el-misil-lanzado-por-julio-martinez/?utm_source=lootura.com",
+      "publishedAt": "2026-07-21T17:29:59.000Z",
+      "sourceId": "lootura-es-el-independiente"
+    },
+    {
+      "title": "Un juez abre juicio oral al número 2 de Diana Morant por un delito de calumnias contra el PP",
+      "url": "https://okdiario.com/espana/juez-abre-juicio-oral-numero-2-diana-morant-delito-calumnias-contra-pp-19039288?utm_source=lootura.com",
+      "publishedAt": "2026-07-21T19:05:17.000Z",
+      "sourceId": "lootura-es-ok-diario"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 4
 }

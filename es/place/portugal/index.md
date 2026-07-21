@@ -1,12 +1,18 @@
-# Portugal
+# República Portuguesa
 
-> Sigue la actividad de Portugal en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
+> Sigue la actividad de República Portuguesa en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-21T10:23:08.875Z
+- Actualizado: 2026-07-21T21:06:12.863Z
 - Canonical: https://atlas.lootura.com/es/place/portugal
 
 ## Cambios recientes
+
+### Muere repentinamente un futbolista de 26 años haciendo running en Portugal
+
+La trágica muerte de Usalifa Indi ha conmocionado al fútbol portugués. El joven centrocampista de 26 años falleció este lunes después de desplomarse mientras hacía running en la localidad de Armil, en el municipio de Fafe, al norte de Portugal. El jugador, que había pasado por la cantera del FC Porto y que actualmente.
+
+Date: 2026-07-21
 
 ### Berkeley vuela en Bolsa con los minerales críticos hallados en su proyecto en Salamanca
 
@@ -62,12 +68,6 @@ La tragedia de Los Gallardos reabre un debate que ya cambió los protocolos tras
 
 Date: 2026-07-10
 
-### Los últimos meses de Bonnie Tyler: en coma en un hospital de Portugal
-
-La muerte de Bonnie Tyler pone fin a más de dos meses de hospitalización en Portugal, el país donde la cantante galesa tenía una casa y pasaba largas temporadas. La familia anunció este miércoles que la artista no consiguió recuperarse de una perforación intestinal.Tyler fue ingresada de urgencia a principios de mayo e.
-
-Date: 2026-07-09
-
 ## Fuentes
 
-- [Berkeley vuela en Bolsa con los minerales críticos hallados en su proyecto en Salamanca](https://www.expansion.com/mercados/2026/07/21/6a5f2ba1468aebb4418b4578.html?utm_source=lootura.com) — 2026-07-21T08:30:13.000Z
+- [Muere repentinamente un futbolista de 26 años haciendo running en Portugal](https://okdiario.com/deportes/muere-repentinamente-futbolista-26-anos-haciendo-running-portugal-19042670?utm_source=lootura.com) — 2026-07-21T17:02:49.000Z

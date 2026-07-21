@@ -1,19 +1,25 @@
 {
   "id": "usa-immigration-and-customs-enforcement",
-  "name": "U.S. Immigration and Customs Enforcement",
+  "name": "United States Immigration and Customs Enforcement",
   "type": "organization",
   "locale": "en",
   "canonicalPath": "/us/organization/immigration-and-customs-enforcement",
   "canonicalUrl": "https://atlas.lootura.com/us/organization/immigration-and-customs-enforcement",
   "markdownUrl": "https://atlas.lootura.com/us/organization/immigration-and-customs-enforcement/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/immigration-and-customs-enforcement/index.json",
-  "description": "Follow U.S. Immigration and Customs Enforcement, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
+  "description": "Follow United States Immigration and Customs Enforcement, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
   "updatedAt": "2026-07-21T10:23:35.333Z",
   "aliases": [
+    "Customs Enforcement",
     "ICE",
-    "United States Immigration and Customs Enforcement",
     "Immigration and Customs Enforcement",
-    "Customs Enforcement"
+    "U.S. Immigration and Customs Enforcement",
+    "US Immigration and Customs Enforcement",
+    "United States Immigration & Customs Enforcement",
+    "US Immigration & Customs Enforcement",
+    "Bureau of Immigration and Customs Enforcement",
+    "USICE",
+    "BICE"
   ],
   "changes": [
     {
@@ -71,15 +77,9 @@
     {
       "title": "Video appears to show United employee threatening to call ICE on customer",
       "url": "https://www.cbsnews.com/news/united-airlines-employee-threatens-to-call-ice-sfo-passenger-act-like-a-citizen/?utm_source=lootura.com",
-      "publishedAt": "2026-07-21T01:43:00.000Z",
+      "publishedAt": "2026-07-21T16:53:39.000Z",
       "sourceId": "lootura-us-cbs-news"
-    },
-    {
-      "title": "Senators demand ICE answers and body cameras after deadly shootings in Maine and Houston",
-      "url": "https://www.pbs.org/newshour/nation/senators-demand-ice-answers-and-body-cameras-after-deadly-shootings-in-maine-and-houston?utm_source=lootura.com",
-      "publishedAt": "2026-07-20T19:10:30.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

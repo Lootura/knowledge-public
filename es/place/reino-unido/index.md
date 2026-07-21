@@ -1,12 +1,18 @@
-# Reino Unido
+# Reino Unido de Gran Bretaña e Irlanda del Norte
 
-> Sigue la actividad de Reino Unido en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
+> Sigue la actividad de Reino Unido de Gran Bretaña e Irlanda del Norte en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-21T10:23:08.875Z
+- Actualizado: 2026-07-21T21:06:12.863Z
 - Canonical: https://atlas.lootura.com/es/place/reino-unido
 
 ## Cambios recientes
+
+### Iberdrola compra la mayor red de luz de Finlandia por 5.000 millones
+
+Iberdrola ha alcanzado un acuerdo para adquirir Caruna, la principal compañía de distribución eléctrica de Finlandia, en una transacción que valora el 100% de la empresa en cerca de 5.000 millones de euros, incluyendo su deuda financiera. Es un importe similar al de la compra de ENW en Reino Unido hace dos años. Seguir.
+
+Date: 2026-07-21
 
 ### Burnham anuncia como primera medida la supresión del IVA en la factura eléctrica
 
@@ -62,12 +68,6 @@ El presidente del Gobierno asiste al acto simbólico de la eliminación de la fr
 
 Date: 2026-07-15
 
-### Begoña Gómez entrega al juez sus billetes de avión al Reino Unido y critica a Peinado por formular una exigencia "materialmente imposible"
-
-Denuncia que el requerimiento es contrario a la presunción de inocencia y subraya que Reino Unido ha sustituido los sellos físicos por un sistema digital Leer.
-
-Date: 2026-07-15
-
 ## Fuentes
 
-- [Burnham anuncia como primera medida la supresión del IVA en la factura eléctrica](https://elpais.com/internacional/2026-07-21/burnham-anuncia-como-primera-medida-la-supresion-del-iva-en-la-factura-electrica.html?utm_source=lootura.com) — 2026-07-21T09:36:51.000Z
+- [Iberdrola compra la mayor red de luz de Finlandia por 5.000 millones](https://www.expansion.com/empresas/energia/2026/07/21/6a5f7ea2e5fdea3e5d8b4592.html?utm_source=lootura.com) — 2026-07-21T19:12:44.000Z

@@ -1,42 +1,42 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-21T21:12:36.679Z",
+  "generatedAt": "2026-07-21T21:19:18.712Z",
   "radar": {
     "id": "usa",
     "slug": "us",
     "locale": "en"
   },
   "state": {
-    "signature": "1.18.0|4|1784629415333",
+    "signature": "1.18.0|5|1784667998270",
     "version": "1.18.0",
-    "build": 4,
-    "latestEntityUpdatedAt": "2026-07-21T10:23:35.333Z"
+    "build": 5,
+    "latestEntityUpdatedAt": "2026-07-21T21:06:38.270Z"
   },
   "atlas": {
     "hero": {
-      "id": "usa-andy-burnham",
-      "name": "Andy Burnham",
-      "type": "person",
-      "title": "New UK Prime Minister Burnham Promises Hope and Change. The Hurdles Are High.",
-      "url": "https://atlas.lootura.com/us/person/andy-burnham",
-      "path": "/us/person/andy-burnham",
-      "updatedAt": "2026-07-21T10:23:35.333Z",
-      "score": 1617,
-      "sourceCount": 17,
+      "id": "usa-iran",
+      "name": "Iran",
+      "type": "place",
+      "title": "Funding milestone detected",
+      "url": "https://atlas.lootura.com/us/place/iran",
+      "path": "/us/place/iran",
+      "updatedAt": "2026-07-21T21:06:38.270Z",
+      "score": 1707,
+      "sourceCount": 171,
       "isBreaking": false,
       "isPinned": false
     },
     "cards": [
       {
-        "id": "usa-united-states",
-        "name": "United States",
+        "id": "usa-canada",
+        "name": "Canada",
         "type": "place",
-        "title": "New round of strikes targeting Iran underway, U.S. officials say",
-        "url": "https://atlas.lootura.com/us/place/united-states",
-        "path": "/us/place/united-states",
-        "updatedAt": "2026-07-21T10:23:35.333Z",
-        "score": 1585,
-        "sourceCount": 334,
+        "title": "Trump hits Canada with slew of new 50% tariffs set to take effect in 30 days",
+        "url": "https://atlas.lootura.com/us/place/canada",
+        "path": "/us/place/canada",
+        "updatedAt": "2026-07-21T21:06:38.270Z",
+        "score": 1661,
+        "sourceCount": 40,
         "isBreaking": false,
         "isPinned": false
       },
@@ -44,42 +44,42 @@
         "id": "usa-donald-trump",
         "name": "Donald Trump",
         "type": "person",
-        "title": "South Carolina Republicans test Trump's clout in race for Graham's seat",
+        "title": "Ex-U.S. attorney in Seattle sues Trump over firing",
         "url": "https://atlas.lootura.com/us/person/donald-trump",
         "path": "/us/person/donald-trump",
-        "updatedAt": "2026-07-21T10:23:35.333Z",
-        "score": 1572,
-        "sourceCount": 289,
+        "updatedAt": "2026-07-21T21:06:38.270Z",
+        "score": 1659,
+        "sourceCount": 298,
         "isBreaking": false,
         "isPinned": false
       },
       {
-        "id": "usa-taylor-farms",
-        "name": "Taylor Farms",
-        "type": "company",
-        "title": "FDA still focused on Taylor Farms lettuce as Cyclospora source despite retracted test",
-        "url": "https://atlas.lootura.com/us/company/taylor-farms",
-        "path": "/us/company/taylor-farms",
-        "updatedAt": "2026-07-21T10:23:35.333Z",
-        "score": 1572,
-        "sourceCount": 12,
-        "isBreaking": false,
-        "isPinned": false
-      },
-      {
-        "id": "usa-iran",
-        "name": "Iran",
+        "id": "usa-united-states",
+        "name": "United States",
         "type": "place",
-        "title": "New round of strikes targeting Iran underway, U.S. officials say",
-        "url": "https://atlas.lootura.com/us/place/iran",
-        "path": "/us/place/iran",
-        "updatedAt": "2026-07-21T10:23:35.333Z",
-        "score": 1570,
-        "sourceCount": 161,
+        "title": "The U.S. Is Pulling Back on Energy Efficiency",
+        "url": "https://atlas.lootura.com/us/place/united-states",
+        "path": "/us/place/united-states",
+        "updatedAt": "2026-07-21T21:06:38.270Z",
+        "score": 1659,
+        "sourceCount": 341,
+        "isBreaking": false,
+        "isPinned": false
+      },
+      {
+        "id": "usa-new-jersey",
+        "name": "New Jersey",
+        "type": "place",
+        "title": "6,600 noncitizens registered to vote by New Jersey motor vehicle system error, Gov. Sherill says",
+        "url": "https://atlas.lootura.com/us/place/new-jersey",
+        "path": "/us/place/new-jersey",
+        "updatedAt": "2026-07-21T21:06:38.270Z",
+        "score": 1653,
+        "sourceCount": 4,
         "isBreaking": false,
         "isPinned": false
       }
     ],
-    "publicEntityCount": 59
+    "publicEntityCount": 62
   }
 }

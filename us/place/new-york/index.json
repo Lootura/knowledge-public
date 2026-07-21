@@ -1,16 +1,36 @@
 {
   "id": "usa-new-york",
-  "name": "New York",
+  "name": "New York City",
   "type": "place",
   "locale": "en",
   "canonicalPath": "/us/place/new-york",
   "canonicalUrl": "https://atlas.lootura.com/us/place/new-york",
   "markdownUrl": "https://atlas.lootura.com/us/place/new-york/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/new-york/index.json",
-  "description": "Follow New York, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
+  "description": "Follow New York City, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
   "updatedAt": "2026-07-21T10:23:35.333Z",
   "aliases": [
-    "New York City"
+    "New York",
+    "the five boroughs",
+    "City of New York",
+    "NY City",
+    "New York City, New York",
+    "New York, NY",
+    "New York City, NY",
+    "Capital of the World",
+    "New York City (NYC)",
+    "city of New York",
+    "Center of the Universe",
+    "New York City, USA",
+    "New York City, United States of America",
+    "New York, New York, USA",
+    "New York (NY)",
+    "New York, N.Y.",
+    "NY, NY",
+    "New York City, United States",
+    "N. Y., N. Y.",
+    "New York City, New York, United States",
+    "Empire City"
   ],
   "changes": [
     {
@@ -64,13 +84,6 @@
       "date": "2026-07-19"
     }
   ],
-  "sources": [
-    {
-      "title": "Watch: Officials say suspect in Manhattan explosion had anti-ICE literature",
-      "url": "https://www.cbsnews.com/video/police-share-details-on-suspect-timeline-in-attack-on-nyc-federal-building/?utm_source=lootura.com",
-      "publishedAt": "2026-07-20T20:03:49.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    }
-  ],
+  "sources": [],
   "evidenceCount": 0
 }

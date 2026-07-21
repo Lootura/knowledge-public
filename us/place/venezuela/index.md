@@ -3,7 +3,7 @@
 > Follow Venezuela, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-21T10:23:35.333Z
+- Updated: 2026-07-21T21:06:38.270Z
 - Canonical: https://atlas.lootura.com/us/place/venezuela
 
 ## Recent changes
@@ -64,4 +64,4 @@ Date: 2026-07-08
 
 ## Sources
 
-- [Two Young Brothers and Their Search for Venezuela’s Dead](https://www.nytimes.com/2026/07/21/world/americas/venezuela-quake-victims-search.html?utm_source=lootura.com) — 2026-07-21T09:02:56.000Z
+- [The Teenage Boys In Search of Their Mother After the Venezuela Earthquake](https://www.nytimes.com/2026/07/21/world/americas/venezuela-quake-victims-search.html?utm_source=lootura.com) — 2026-07-21T19:03:34.000Z

@@ -3,10 +3,16 @@
 > Follow Darline Graham, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-07-21T10:23:35.333Z
+- Updated: 2026-07-21T21:06:38.270Z
 - Canonical: https://atlas.lootura.com/us/person/darline-graham
 
 ## Recent changes
+
+### There’s a power struggle brewing in South Carolina, and Trump might not win
+
+The race to fill Lindsey Graham’s seat has created a new test of President Donald Trump’s power. South Carolina Republicans aren’t sure Trump will pass. Sen. Darline Graham, who was appointed last week to fill the remainder of her late brother's term, announced Monday she will seek a full term for her brother’s old sea.
+
+Date: 2026-07-21
 
 ### South Carolina Republicans test Trump's clout in race for Graham's seat
 
@@ -62,13 +68,6 @@ With this year's race to succeed Lindsey Graham in the Senate still wide-open, G
 
 Date: 2026-07-16
 
-### Discovered by Atlas
-
-Darline Graham first entered the public knowledge record with source-backed evidence.
-
-Date: 2026-07-14
-
 ## Sources
 
-- [South Carolina Republicans test Trump's clout in race for Graham's seat](https://www.politico.com/news/2026/07/21/south-carolina-trump-graham-test-01005834?utm_source=lootura.com) — 2026-07-21T08:45:00.000Z
-- [Lindsey Graham’s Sister, Darline Graham, Says She Will Run to Succeed Him](https://www.nytimes.com/2026/07/20/us/politics/darline-graham-south-carolina-senate-race.html?utm_source=lootura.com) — 2026-07-20T21:26:50.000Z
+- [There’s a power struggle brewing in South Carolina, and Trump might not win](https://www.politico.com/news/2026/07/21/south-carolina-trump-graham-test-01005834?utm_source=lootura.com) — 2026-07-21T08:45:00.000Z

@@ -8,9 +8,16 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/darline-graham/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/darline-graham/index.json",
   "description": "Follow Darline Graham, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-21T10:23:35.333Z",
-  "aliases": [],
+  "updatedAt": "2026-07-21T21:06:38.270Z",
+  "aliases": [
+    "Darline"
+  ],
   "changes": [
+    {
+      "title": "There’s a power struggle brewing in South Carolina, and Trump might not win",
+      "summary": "The race to fill Lindsey Graham’s seat has created a new test of President Donald Trump’s power. South Carolina Republicans aren’t sure Trump will pass. Sen. Darline Graham, who was appointed last week to fill the remainder of her late brother's term, announced Monday she will seek a full term for her brother’s old sea.",
+      "date": "2026-07-21"
+    },
     {
       "title": "South Carolina Republicans test Trump's clout in race for Graham's seat",
       "summary": "The race to fill Lindsey Graham’s seat has created a new test of President Donald Trump’s power. South Carolina Republicans aren’t sure Trump will pass. Sen. Darline Graham, who was appointed last week to fill the remainder of her late brother's term, announced Monday she will seek a full term for her brother’s old sea.",
@@ -55,26 +62,15 @@
       "title": "Tim Scott doesn't rule out Darline Graham running for her brother Lindsey's Senate seat",
       "summary": "With this year's race to succeed Lindsey Graham in the Senate still wide-open, GOP Sen. Tim Scott suggested the late senator's interim replacement — his sister, Darline Graham — could be one candidate.",
       "date": "2026-07-16"
-    },
-    {
-      "title": "Discovered by Atlas",
-      "summary": "Darline Graham first entered the public knowledge record with source-backed evidence.",
-      "date": "2026-07-14"
     }
   ],
   "sources": [
     {
-      "title": "South Carolina Republicans test Trump's clout in race for Graham's seat",
+      "title": "There’s a power struggle brewing in South Carolina, and Trump might not win",
       "url": "https://www.politico.com/news/2026/07/21/south-carolina-trump-graham-test-01005834?utm_source=lootura.com",
       "publishedAt": "2026-07-21T08:45:00.000Z",
       "sourceId": "lootura-us-politico"
-    },
-    {
-      "title": "Lindsey Graham’s Sister, Darline Graham, Says She Will Run to Succeed Him",
-      "url": "https://www.nytimes.com/2026/07/20/us/politics/darline-graham-south-carolina-senate-race.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-20T21:26:50.000Z",
-      "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

@@ -3,10 +3,22 @@
 > Sigue la actividad de Apple en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: company
-- Actualizado: 2026-07-21T02:27:26.549Z
+- Actualizado: 2026-07-21T21:06:12.863Z
 - Canonical: https://atlas.lootura.com/es/company/apple
 
 ## Cambios recientes
+
+### Adiós a comprar el iPhone de contado: Apple quiere que lo pagues como un coche con este nuevo programa
+
+Apple está preparando uno de los cambios más importantes en la forma de vender el iPhone y otros dispositivos. La compañía anunciará Apple Upgrade, un programa de arrendamiento que promete pagos más accesibles frente a los planes de financiamiento actuales. El programa se lanzaría a finales de este mes y ayudaría a sor.
+
+Date: 2026-07-21
+
+### Samsung lanza su primera tarjeta de crédito para competir con la Apple Card
+
+A unas horas de la presentación de sus nuevos plegables, Samsung anunció su primera tarjeta de crédito . Conocida como Samsung Galaxy Card , su principal atractivo son las recompensas en efectivo escalonadas según dónde y cómo gastes tu dinero. Al igual que ocurre con la Apple Card, los usuarios pueden obtener cashback.
+
+Date: 2026-07-21
 
 ### Samsung sigue los pasos de Apple y lanza su propia tarjeta de crédito con hasta un 5% de devolución
 
@@ -56,18 +68,7 @@ Apple ha decidido llevar su disputa legal con OpenAI a un terreno mucho más per
 
 Date: 2026-07-17
 
-### Gracias, Apple. Por fin has llevado a los AirPods la función MÁS pedida desde hace 10 años
-
-Apple acaba de darnos una de esas novedades que muchos ya habíamos dado por perdidas con la compañía. Sin avisar a nadie, ha lanzado una versión beta del software de los AirPods que incluye un nuevo modo de personalización que miles de usuarios llevan años pidiendo. No es cualquier cosa: se trata de un básico cuando co.
-
-Date: 2026-07-16
-
-### Esta fue la causa por la que se rompieron las negociaciones entre Apple y OpenAI antes de la demanda
-
-Un correo mal dirigido ha sido el causante de que la relación entre OpenAI y Apple se rompiera. Previo a la demanda, las dos empresas intentaron resolver sus diferencias para no tener que llegar a los tribunales. No obstante, un simple error de destinatario terminó por complicar las negociaciones y cerrar esa puerta de.
-
-Date: 2026-07-15
-
 ## Fuentes
 
-No public source links.
+- [Adiós a comprar el iPhone de contado: Apple quiere que lo pagues como un coche con este nuevo programa](https://hipertextual.com/apple/apple-upgrade-programa-renta-iphone-mac-ipad/?utm_source=lootura.com) — 2026-07-21T19:10:00.000Z
+- [Samsung lanza su primera tarjeta de crédito para competir con la Apple Card](https://hipertextual.com/tecnologia/samsung-lanza-su-primera-tarjeta-de-credito-para-competir-con-la-apple-card/?utm_source=lootura.com) — 2026-07-21T18:08:00.000Z

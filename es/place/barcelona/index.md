@@ -70,7 +70,4 @@ Date: 2026-07-18
 
 ## Fuentes
 
-- [Muere apuñalado en Barcelona tras quebrantar una orden de alejamiento contra una mujer](https://www.elconfidencial.com/espana/cataluna/2026-07-21/apunalamiento-barceloneta-hombre-muerte-1tna-1tps_4393346/?utm_source=lootura.com) — 2026-07-21T07:45:00.000Z
-- [Ferran Torres, como símbolo del secreto de Luis de la Fuente](https://elpais.com/deportes/mundial-futbol/2026-07-21/ferran-torres-como-simbolo-del-secreto-de-luis-de-la-fuente.html?utm_source=lootura.com) — 2026-07-21T03:30:01.000Z
-- [El creador de "Sherlock", protagonista principal del Festival Serializados](https://www.larazon.es/cataluna/creador-sherlock-protagonista-principal-festival-serializados_202607216a5f47a4303ca6202cc31f88.html?utm_source=lootura.com) — 2026-07-21T10:19:17.000Z
-- [Roban un móvil con arma blanca y huyen en patinete: los Mossos detienen a dos jóvenes multirreincidentes con 24 antecedentes en L'Hospitalet](https://www.larazon.es/cataluna/roban-movil-arma-blanca-huyen-patinete-mossos-detienen-dos-jovenes-multirreincidentes-24-antecedentes-lhospitalet_202607216a5f46ae303ca6202cc31dc4.html?utm_source=lootura.com) — 2026-07-21T10:15:10.000Z
+No public source links.

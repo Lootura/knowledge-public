@@ -3,10 +3,34 @@
 > Sigue la actividad de Plus Ultra en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-21T10:23:08.875Z
+- Actualizado: 2026-07-21T21:06:12.863Z
 - Canonical: https://atlas.lootura.com/es/person/plus-ultra
 
 ## Cambios recientes
+
+### El pagador de Zapatero declara ante el juez que el ex presidente le anticipó que el Gobierno iba a aprobar el rescate de Plus Ultra
+
+El empresario alicantino Julio Martínez Martínez ha declarado este martes en la Audiencia Nacional que fue el ex presidente del Gobierno José Luis Rodríguez Zapatero quien le...
+
+Date: 2026-07-21
+
+### El Gobierno sigue manteniendo la "inocencia" de Zapatero y defiende como "correcta" la concesión del rescate a Plus Ultra
+
+El Gobierno ha reaccionado a las confesiones de Julio Martínez, presunto testaferro de José Luis Rodríguez Zapatero, y de los directivos de Plus Ultra, por boca de la portavoz...
+
+Date: 2026-07-21
+
+### El Gobierno reitera su confianza en Zapatero pese al nerviosismo creciente en el PSOE
+
+La incomodidad es cada vez más palmaria, pero el Gobierno mantiene su apoyo a José Luis Rodríguez Zapatero tras el terremoto político que ha provocado Julio Martínez al señalar al expresidente como la persona que “marcaba los pasos a seguir” en el rescate de 53 millones de euros de Plus Ultra. Un giro en su estrategia.
+
+Date: 2026-07-21
+
+### Sin Sánchez, Zapatero no se habría llevado una mordida de medio millón de euros
+
+Si Julio Martínez, Julito, ha ratificado ante el juez Calama que Zapatero cobró una comisión del 1% por el rescate de la aerolínea Plus Ultra , resulta evidente que su declaración encaja perfectamente con las sospechas del magistrado de que el expresidente lideraba una organización criminal sustentada en una red de trá.
+
+Date: 2026-07-21
 
 ### La ‘vía Aldama’ se abre paso en el ‘caso Zapatero’: los empresarios desmontan la defensa del expresidente
 
@@ -44,35 +68,9 @@ Plus Ultra first entered the public knowledge record with source-backed evidence
 
 Date: 2026-07-20
 
-### La 'mordida' del 1% que lo reventó todo
-
-Los dirigentes de Plus Ultra y el amigo de Zapatero confiesan el pago por el rescate desvelado por EL MUNDO que siempre negaron arrastrado por el 'efecto Aldama' Leer.
-
-Date: 2026-07-20
-
-### El socio de Zapatero logró aplazar una deuda de Plus Ultra con la petrolera venezolana PDVSA
-
-El empresario Julio Martínez Martínez, presunto testaferro del ex presidente del Gobierno José Luis Rodríguez Zapatero, también desempeñó labores para la aerolínea Plus...
-
-Date: 2026-07-20
-
-### La confesión del empresario Julio Martínez y los directivos de Plus Ultra destruye la estrategia de defensa de Zapatero
-
-Las confesiones del presunto testaferro de José Luis Rodríguez Zapatero y de los directivos de la aerolínea Plus Ultra dejan herida de muerte la estrategia de defensa del ex...
-
-Date: 2026-07-20
-
-### Julio Martínez delata a Zapatero y dice que se llevó el 1% por mediar en Plus Ultra
-
-Plus Ultra y Julio Martínez Martínez han enviado sendos escritos a la Audiencia Nacional donde muestran su deseo de colaborar con la justicia y confiesan que José Luis Rodríguez Zapatero medió en el rescate de la aerolínea, según explican fuentes judiciales a ABC. El pagador del expresidente también detalla que alcanza.
-
-Date: 2026-07-20
-
 ## Fuentes
 
-- [Las tres incongruencias de Zapatero, al descubierto tras la confesión de Julio Martínez y el presidente de Plus Ultra](https://www.abc.es/espana/tres-contradicciones-zapatero-julio-martinez-dejan-expresidente-20260721185544-nt.html?utm_source=lootura.com) — 2026-07-21T09:20:34.000Z
-- [La 'mordida' del 1% que lo reventó todo](https://www.elmundo.es/espana/2026/07/20/6a5e6e1bfdddff2c708b4596.html?utm_source=lootura.com) — 2026-07-20T20:44:58.000Z
-- [El socio de Zapatero logró aplazar una deuda de Plus Ultra con la petrolera venezolana PDVSA](https://amp.elmundo.es/espana/2026/07/20/6a5e7a5f21efa04a6c8b45a5.html?utm_source=lootura.com) — 2026-07-20T20:45:35.000Z
-- [La confesión del empresario Julio Martínez y los directivos de Plus Ultra destruye la estrategia de defensa de Zapatero](https://amp.elmundo.es/espana/2026/07/20/6a5e7556e4d4d82f588b45ba.html?utm_source=lootura.com) — 2026-07-20T20:46:48.000Z
-- [La ‘vía Aldama’ se abre paso en el ‘caso Zapatero’: los empresarios desmontan la defensa del expresidente](https://elpais.com/espana/2026-07-21/la-via-aldama-se-abre-paso-en-el-caso-zapatero-los-empresarios-contradicen-la-version-que-dio-al-juez.html?utm_source=lootura.com) — 2026-07-21T03:30:01.000Z
-- [Sumar sentencia a Zapatero y pide a Sánchez explicaciones sobre el rescate de Plus Ultra](https://theobjective.com/espana/politica/2026-07-21/sumar-zapatero-sanchez-plus-ultra/?utm_source=lootura.com) — 2026-07-21T10:10:47.000Z
+- [El pagador de Zapatero declara ante el juez que el ex presidente le anticipó que el Gobierno iba a aprobar el rescate de Plus Ultra](https://amp.elmundo.es/espana/2026/07/21/6a5f3001e4d4d886458b4577.html?utm_source=lootura.com) — 2026-07-21T11:30:12.000Z
+- [El Gobierno sigue manteniendo la "inocencia" de Zapatero y defiende como "correcta" la concesión del rescate a Plus Ultra](https://amp.elmundo.es/espana/2026/07/21/6a5f5acffc6c83723b8b45a4.html?utm_source=lootura.com) — 2026-07-21T11:41:55.000Z
+- [El Gobierno reitera su confianza en Zapatero pese al nerviosismo creciente en el PSOE](https://elpais.com/espana/2026-07-21/el-gobierno-reitera-su-confianza-en-zapatero-pese-al-nerviosismo-creciente-en-el-psoe.html?utm_source=lootura.com) — 2026-07-21T12:49:44.000Z
+- [Sin Sánchez, Zapatero no se habría llevado una mordida de medio millón de euros](https://okdiario.com/opinion/sin-sanchez-zapatero-no-habria-llevado-mordida-medio-millon-euros-19041779?utm_source=lootura.com) — 2026-07-21T19:03:24.000Z

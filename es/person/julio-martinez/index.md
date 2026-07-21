@@ -3,10 +3,52 @@
 > Sigue la actividad de Julio Martínez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-21T10:23:08.875Z
+- Actualizado: 2026-07-21T21:06:12.863Z
 - Canonical: https://atlas.lootura.com/es/person/julio-martinez
 
 ## Cambios recientes
+
+### Ni Ábalos, ni Leire, ni Julito: estas tramas tienen su 'X'
+
+Julio Martínez 'Julito', el exsocio de Rodríguez Zapatero, ratificó este martes ante el juez instructor de la Audiencia Nacional la información que ya había comunicado al juzgado: que el expresidente era quien manejaba los hilos de una trama de comisiones ilegales a través de la sociedad mercantil Análisis Relevante, S.
+
+Date: 2026-07-21
+
+### Feijóo se adelanta a Sánchez en el balance del curso para aprovechar el misil lanzado por Julio Martínez
+
+El líder del PP, Alberto Núñez Feijóo, ha decidido no esperar a la comparecencia ante la prensa de Pedro Sánchez el próximo martes 28 y se adelanta a este miércoles para valorar el curso político que toca a su fin. Lo hará después del misil lanzado por el empresario 'Julito' Martínez ante el juez de la Audiencia Nacion.
+
+Date: 2026-07-21
+
+### El pagador de Zapatero declara ante el juez que el ex presidente le anticipó que el Gobierno iba a aprobar el rescate de Plus Ultra
+
+El empresario alicantino Julio Martínez Martínez ha declarado este martes en la Audiencia Nacional que fue el ex presidente del Gobierno José Luis Rodríguez Zapatero quien le...
+
+Date: 2026-07-21
+
+### El Gobierno sigue manteniendo la "inocencia" de Zapatero y defiende como "correcta" la concesión del rescate a Plus Ultra
+
+El Gobierno ha reaccionado a las confesiones de Julio Martínez, presunto testaferro de José Luis Rodríguez Zapatero, y de los directivos de Plus Ultra, por boca de la portavoz...
+
+Date: 2026-07-21
+
+### El Gobierno reitera su confianza en Zapatero pese al nerviosismo creciente en el PSOE
+
+La incomodidad es cada vez más palmaria, pero el Gobierno mantiene su apoyo a José Luis Rodríguez Zapatero tras el terremoto político que ha provocado Julio Martínez al señalar al expresidente como la persona que “marcaba los pasos a seguir” en el rescate de 53 millones de euros de Plus Ultra. Un giro en su estrategia.
+
+Date: 2026-07-21
+
+### ‘Julito’ Martínez endosa a Zapatero cuatro delitos que sumarían hasta 22 años de cárcel
+
+La declaración de Julio Martínez Martínez , conocido como Julito , ante el juez de la Audiencia Nacional José Luis Calama ha reforzado los indicios de hasta cuatro de los siete delitos que se investigan en la causa contra José Luis Rodríguez Zapatero: tráfico de influencias, blanqueo de capitales, falsedad documental y.
+
+Date: 2026-07-21
+
+### Sin Sánchez, Zapatero no se habría llevado una mordida de medio millón de euros
+
+Si Julio Martínez, Julito, ha ratificado ante el juez Calama que Zapatero cobró una comisión del 1% por el rescate de la aerolínea Plus Ultra , resulta evidente que su declaración encaja perfectamente con las sospechas del magistrado de que el expresidente lideraba una organización criminal sustentada en una red de trá.
+
+Date: 2026-07-21
 
 ### La ‘vía Aldama’ se abre paso en el ‘caso Zapatero’: los empresarios desmontan la defensa del expresidente
 
@@ -26,53 +68,12 @@ Ya saben que en la final que nos llevamos de calle, Shakira iba con Argentina . 
 
 Date: 2026-07-21
 
-### Las tres incongruencias de Zapatero, al descubierto tras la confesión de Julio Martínez y el presidente de Plus Ultra
-
-El escrito presentado por el investigado Julio Martínez a 24 horas de su esperada declaración ante el juez de la Audiencia Nacional José Luis Calama complica el horizonte judicial de José Luis Rodríguez Zapatero, con quien entra en evidente contradicción en aspectos vitales sobre su posible participación en el rescate.
-
-Date: 2026-07-21
-
-### Julio Martínez confirmará hoy los hallazgos de la UDEF y desmontará la versión de Zapatero ante el juez: "Él marcaba los pasos a seguir"
-
-La declaración de Julio Martínez Martínez ante el juez José Luis Calama anticipa un punto de inflexión en la causa que se sigue contra el expresidente José Luis Rodríguez Zapatero . Siguiendo los pasos del comisionista Víctor de Aldama, que ha logrado esquivar el ingreso en prisión por el caso Koldo, Martínez pretende.
-
-Date: 2026-07-21
-
-### Julio Martínez delata a Zapatero y dice que se llevó el 1% por mediar en Plus Ultra
-
-Plus Ultra y Julio Martínez Martínez han enviado sendos escritos a la Audiencia Nacional donde muestran su deseo de colaborar con la justicia y confiesan que José Luis Rodríguez Zapatero medió en el rescate de la aerolínea, según explican fuentes judiciales a ABC. El pagador del expresidente también detalla que alcanza.
-
-Date: 2026-07-21
-
-### Plus Ultra sitúa el primer contacto con Zapatero casi un año antes del rescate de la aerolínea
-
-La aerolínea Plus Ultra, rescatada con dinero público durante la crisis del Covid-19, pidió la intermediación del empresario Julio Martínez Martínez, administrador de la firma Análisis Relevante, y de su íntimo amigo el expresidente del Gobierno, José Luis Rodríguez Zapatero , para solicitar y acelerar la ayuda de 53 m.
-
-Date: 2026-07-21
-
-### Discovered by Atlas
-
-Julio Martínez first entered the public knowledge record with source-backed evidence.
-
-Date: 2026-07-20
-
-### El socio de Zapatero logró aplazar una deuda de Plus Ultra con la petrolera venezolana PDVSA
-
-El empresario Julio Martínez Martínez, presunto testaferro del ex presidente del Gobierno José Luis Rodríguez Zapatero, también desempeñó labores para la aerolínea Plus...
-
-Date: 2026-07-20
-
-### La confesión del empresario Julio Martínez y los directivos de Plus Ultra destruye la estrategia de defensa de Zapatero
-
-Las confesiones del presunto testaferro de José Luis Rodríguez Zapatero y de los directivos de la aerolínea Plus Ultra dejan herida de muerte la estrategia de defensa del ex...
-
-Date: 2026-07-20
-
 ## Fuentes
 
-- [Las tres incongruencias de Zapatero, al descubierto tras la confesión de Julio Martínez y el presidente de Plus Ultra](https://www.abc.es/espana/tres-contradicciones-zapatero-julio-martinez-dejan-expresidente-20260721185544-nt.html?utm_source=lootura.com) — 2026-07-21T09:20:34.000Z
-- [El socio de Zapatero logró aplazar una deuda de Plus Ultra con la petrolera venezolana PDVSA](https://amp.elmundo.es/espana/2026/07/20/6a5e7a5f21efa04a6c8b45a5.html?utm_source=lootura.com) — 2026-07-20T20:45:35.000Z
-- [La confesión del empresario Julio Martínez y los directivos de Plus Ultra destruye la estrategia de defensa de Zapatero](https://amp.elmundo.es/espana/2026/07/20/6a5e7556e4d4d82f588b45ba.html?utm_source=lootura.com) — 2026-07-20T20:46:48.000Z
-- [La ‘vía Aldama’ se abre paso en el ‘caso Zapatero’: los empresarios desmontan la defensa del expresidente](https://elpais.com/espana/2026-07-21/la-via-aldama-se-abre-paso-en-el-caso-zapatero-los-empresarios-contradicen-la-version-que-dio-al-juez.html?utm_source=lootura.com) — 2026-07-21T03:30:01.000Z
-- [El horizonte judicial de Zapatero pende de la declaración ante el juez de Julio Martínez tras su decisión de “colaborar”](https://elpais.com/espana/2026-07-21/el-horizonte-judicial-de-zapatero-pende-de-la-declaracion-ante-el-juez-de-julio-martinez-tras-su-decision-de-colaborar.html?utm_source=lootura.com) — 2026-07-21T03:30:01.000Z
-- [Julito Martínez, emerge el hombre "stealth"](https://www.larazon.es/espana/julito-martinez-emerge-hombre-stealth_202607216a5f0f30e3eb0b64aa4aed26.html?utm_source=lootura.com) — 2026-07-21T06:18:24.000Z
+- [Ni Ábalos, ni Leire, ni Julito: estas tramas tienen su 'X'](https://www.abc.es/opinion/editorial-abalos-leire-julito-tramas-20260721193423-nt.html?utm_source=lootura.com) — 2026-07-21T20:12:05.000Z
+- [Feijóo se adelanta a Sánchez en el balance del curso para aprovechar el misil lanzado por Julio Martínez](https://www.elindependiente.com/espana/2026/07/21/feijoo-se-adelanta-a-sanchez-en-el-balance-del-curso-para-aprovechar-el-misil-lanzado-por-julio-martinez/?utm_source=lootura.com) — 2026-07-21T17:29:59.000Z
+- [El pagador de Zapatero declara ante el juez que el ex presidente le anticipó que el Gobierno iba a aprobar el rescate de Plus Ultra](https://amp.elmundo.es/espana/2026/07/21/6a5f3001e4d4d886458b4577.html?utm_source=lootura.com) — 2026-07-21T11:30:12.000Z
+- [El Gobierno sigue manteniendo la "inocencia" de Zapatero y defiende como "correcta" la concesión del rescate a Plus Ultra](https://amp.elmundo.es/espana/2026/07/21/6a5f5acffc6c83723b8b45a4.html?utm_source=lootura.com) — 2026-07-21T11:41:55.000Z
+- [El Gobierno reitera su confianza en Zapatero pese al nerviosismo creciente en el PSOE](https://elpais.com/espana/2026-07-21/el-gobierno-reitera-su-confianza-en-zapatero-pese-al-nerviosismo-creciente-en-el-psoe.html?utm_source=lootura.com) — 2026-07-21T12:49:44.000Z
+- [‘Julito’ Martínez endosa a Zapatero cuatro delitos que sumarían hasta 22 años de cárcel](https://okdiario.com/espana/julito-martinez-endosa-zapatero-cuatro-delitos-que-sumarian-hasta-22-anos-carcel-19042873?utm_source=lootura.com) — 2026-07-21T19:02:52.000Z
+- [Sin Sánchez, Zapatero no se habría llevado una mordida de medio millón de euros](https://okdiario.com/opinion/sin-sanchez-zapatero-no-habria-llevado-mordida-medio-millon-euros-19041779?utm_source=lootura.com) — 2026-07-21T19:03:24.000Z

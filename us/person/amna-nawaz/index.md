@@ -34,6 +34,4 @@ Date: 2026-07-20
 
 ## Sources
 
-- [Iran war hurting U.S. allies in region, former Jordanian foreign minister says](https://www.pbs.org/newshour/show/iran-war-hurting-u-s-allies-in-region-former-jordanian-foreign-minister-says?utm_source=lootura.com) — 2026-07-20T22:52:05.000Z
-- [Tamara Keith and Jasmine Wright on the political fallout of Trump's address](https://www.pbs.org/newshour/show/tamara-keith-and-jasmine-wright-on-the-political-fallout-of-trumps-address?utm_source=lootura.com) — 2026-07-20T22:30:46.000Z
-- [Deadly shootings by ICE officers renew scrutiny of recruitment and training](https://www.pbs.org/newshour/show/deadly-shootings-by-ice-officers-renew-scrutiny-of-recruitment-and-training?utm_source=lootura.com) — 2026-07-20T22:42:05.000Z
+No public source links.

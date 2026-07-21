@@ -70,5 +70,4 @@ Date: 2026-07-19
 
 ## Sources
 
-- [Troy Jackson set to become Democratic Maine Senate nominee, replacing Platner](https://www.cbsnews.com/video/troy-jackson-set-to-become-democratic-maine-senate-nominee/?utm_source=lootura.com) — 2026-07-21T01:15:00.000Z
-- [5 Things to Know About the Maine Senate Candidate Troy Jackson](https://www.nytimes.com/2026/07/20/us/politics/troy-jackson-maine-senate.html?utm_source=lootura.com) — 2026-07-20T15:11:12.000Z
+No public source links.

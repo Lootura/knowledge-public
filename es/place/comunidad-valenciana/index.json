@@ -1,15 +1,24 @@
 {
   "id": "es-comunidad-valenciana",
-  "name": "Comunidad Valenciana",
+  "name": "País Valenciano",
   "type": "place",
   "locale": "es",
   "canonicalPath": "/es/place/comunidad-valenciana",
   "canonicalUrl": "https://atlas.lootura.com/es/place/comunidad-valenciana",
   "markdownUrl": "https://atlas.lootura.com/es/place/comunidad-valenciana/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/comunidad-valenciana/index.json",
-  "description": "Sigue la actividad de Comunidad Valenciana en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
+  "description": "Sigue la actividad de País Valenciano en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
   "updatedAt": "2026-07-21T10:23:08.875Z",
-  "aliases": [],
+  "aliases": [
+    "Valencia",
+    "País Valenciano",
+    "Región Valenciana",
+    "Comunitat Valenciana",
+    "València",
+    "País Valencià",
+    "Community of Valencia",
+    "Land of Valencia"
+  ],
   "changes": [
     {
       "title": "Alerta naranja en siete comunidades por la ola de calor: temperaturas asfixiantes y amenaza de reventones y tormentas secas",
@@ -52,19 +61,6 @@
       "date": "2026-07-14"
     }
   ],
-  "sources": [
-    {
-      "title": "Alerta naranja en siete comunidades por la ola de calor: temperaturas asfixiantes y amenaza de reventones y tormentas secas",
-      "url": "https://www.larazon.es/el-tiempo/alerta-naranja-siete-comunidades-ola-calor-temperaturas-asfixiantes-amenaza-reventones-tormentas-secas_202607216a5f0edef172396e89eb376b.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-21T06:17:02.000Z",
-      "sourceId": "lootura-es-la-razon"
-    },
-    {
-      "title": "Sumar llama «especulador» a Ferran Torres y le acusa de tener un «fondo buitre» por invertir 7 millones de euros",
-      "url": "https://okdiario.com/economia/inversion/sumar-llama-especulador-ferran-torres-acusa-tener-fondo-buitre-invertir-7-millones-euros-19038773?utm_source=lootura.com",
-      "publishedAt": "2026-07-21T09:56:54.000Z",
-      "sourceId": "lootura-es-ok-diario"
-    }
-  ],
-  "evidenceCount": 2
+  "sources": [],
+  "evidenceCount": 0
 }

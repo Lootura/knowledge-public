@@ -70,5 +70,4 @@ Date: 2026-07-17
 
 ## Fuentes
 
-- [La Primera de Expansión sobre Holaluz, BCE, Mundial de Fútbol, Sabadell, Samsung, China y la IA](https://www.expansion.com/podcasts/la-primera-de-expansion/2026/07/21/6a5efc86468aeb7a708b4575.html?utm_source=lootura.com) — 2026-07-21T05:25:37.000Z
-- [Sun Tzu, estratega militar: «Cuando se está cerca, se debe parecer lejos; cuando se está lejos, se debe parecer cerca»](https://okdiario.com/curiosidades/sun-tzu-estratega-militar-cuando-esta-cerca-debe-parecer-lejos-cuando-esta-lejos-debe-parecer-cerca-19038325?utm_source=lootura.com) — 2026-07-21T10:00:08.000Z
+No public source links.

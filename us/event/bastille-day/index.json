@@ -9,7 +9,10 @@
   "jsonUrl": "https://atlas.lootura.com/us/event/bastille-day/index.json",
   "description": "Follow Bastille Day, a tracked event, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
   "updatedAt": "2026-07-14T20:58:39.119Z",
-  "aliases": [],
+  "aliases": [
+    "July 14",
+    "14th July"
+  ],
   "changes": [
     {
       "title": "Daily fragment: 2016 Nice truck attack",

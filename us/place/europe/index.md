@@ -3,10 +3,16 @@
 > Follow Europe, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-20T14:00:46.863Z
+- Updated: 2026-07-21T21:06:38.270Z
 - Canonical: https://atlas.lootura.com/us/place/europe
 
 ## Recent changes
+
+### How Europe's Extreme Heat Waves Have Impacted the Tour de France
+
+Dorian Godon of France and Netcompany INEOS Cycling Team refreshes during the Tour de France, Stage 9, on July 12, 2026 in Ussel, France. The stage was shortened due to a red alert for a heat wave. —Tim de Waele—Getty Images Through the first two weeks of the 2026 Tour de France, the average temperature of 87.4°F has f.
+
+Date: 2026-07-21
 
 ### Greece braces for year's first heat wave
 
@@ -62,12 +68,6 @@ Ukraine and nine other countries have announced a coalition to protect Europe fr
 
 Date: 2026-07-13
 
-### Social media limits are coming for teens across Europe
-
-The European Union is weighing sweeping new restrictions on children's and teenagers' access to social media, including age limits, an outright ban, and phased access. Social media platforms could also be forced to prove their services are not harmful before young people are allowed to use them. European Commission Pre.
-
-Date: 2026-07-13
-
 ## Sources
 
-No public source links.
+- [How Europe's Extreme Heat Waves Have Impacted the Tour de France](https://time.com/article/2026/07/21/europe-extreme-heat-tour-de-france/?utm_source=lootura.com) — 2026-07-21T18:16:56.000Z

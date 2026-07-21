@@ -11,7 +11,16 @@
   "updatedAt": "2026-07-21T10:23:08.875Z",
   "aliases": [
     "Basque Country",
-    "Euskadi"
+    "Euskadi",
+    "Comunidad Autónoma Vasca",
+    "Comunidad Autonoma Vasca",
+    "Euskal Autonomia Erkidegoa / Comunidad Autónoma Vasca",
+    "Vascongadas",
+    "CAV",
+    "Euskal Autonomia Erkidegoa",
+    "Autonomous Community of the Basque Country",
+    "Basque Country (autonomous community)",
+    "Basque Autonomous Community"
   ],
   "changes": [
     {
@@ -65,13 +74,6 @@
       "date": "2026-07-15"
     }
   ],
-  "sources": [
-    {
-      "title": "Reconstrucción de los ataques violentos a los seguidores de La Roja",
-      "url": "https://www.elcorreo.com/politica/reconstruccion-ataques-violentos-seguidores-roja-20260720143810-nt.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-20T12:38:10.000Z",
-      "sourceId": "lootura-es-el-correo"
-    }
-  ],
-  "evidenceCount": 1
+  "sources": [],
+  "evidenceCount": 0
 }

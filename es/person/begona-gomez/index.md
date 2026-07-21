@@ -3,10 +3,16 @@
 > Sigue la actividad de Begoña Gómez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-20T14:00:22.171Z
+- Actualizado: 2026-07-21T21:06:12.863Z
 - Canonical: https://atlas.lootura.com/es/person/begona-gomez
 
 ## Cambios recientes
+
+### El Poder Judicial aplaza su decisión sobre si expedienta a Peinado tras no llegar a un acuerdo
+
+La falta de acuerdo en el Consejo General del Poder Judicial (CGPJ) ha obligado este martes a aplazar la decisión de ese órgano sobre cinco investigaciones abiertas al juez Juan Carlos Peinado, instructor de la causa contra la esposa del presidente del Gobierno, Begoña Gómez. La comisión permanente —el principal órgano.
+
+Date: 2026-07-21
 
 ### Peinado pide a las partes del caso Begoña ajustar sus peticiones para el juicio tras archivarse varios delitos
 
@@ -62,12 +68,6 @@ La elección de los nueve miembros del jurado que juzgarán a Begoña Gómez par
 
 Date: 2026-07-17
 
-### Vicente Vallés, contundente tras ver que Begoña Gómez será juzgada por un jurado popular
-
-Begoña Gómez será juzgada por un jurado popular junto a su asesora en Moncloa, Cristina Álvarez. La Audiencia Provincial de Madrid ha avalado el criterio del juez Juan Carlos Peinado y ha confirmado que la causa se tramite por esta vía.La esposa de Pedro Sánchez está acusada de un presunto delito de tráfico de influenc.
-
-Date: 2026-07-17
-
 ## Fuentes
 
-No public source links.
+- [El Poder Judicial aplaza su decisión sobre si expedienta a Peinado tras no llegar a un acuerdo](https://elpais.com/espana/2026-07-21/el-poder-judicial-aplaza-su-decision-sobre-si-expedienta-a-peinado-tras-no-llegar-a-un-acuerdo.html?utm_source=lootura.com) — 2026-07-21T10:59:58.000Z

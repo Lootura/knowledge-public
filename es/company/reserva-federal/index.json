@@ -1,0 +1,49 @@
+{
+  "id": "es-reserva-federal",
+  "name": "Sistema de la Reserva Federal",
+  "type": "company",
+  "locale": "es",
+  "canonicalPath": "/es/company/reserva-federal",
+  "canonicalUrl": "https://atlas.lootura.com/es/company/reserva-federal",
+  "markdownUrl": "https://atlas.lootura.com/es/company/reserva-federal/index.md",
+  "jsonUrl": "https://atlas.lootura.com/es/company/reserva-federal/index.json",
+  "description": "Sigue la actividad de Sistema de la Reserva Federal en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
+  "updatedAt": "2026-07-16T10:06:17.457Z",
+  "aliases": [
+    "Reserva Federal",
+    "FED",
+    "Federal Reserve",
+    "Fed",
+    "The Fed",
+    "FRS"
+  ],
+  "changes": [
+    {
+      "title": "Las Bolsas europeas se estabilizan con el foco en los resultados y el petróleo",
+      "summary": "Los datos de inflación en EE UU más suaves de lo esperado han disipado las preocupaciones en torno a que la Reserva Federal (Fed) suba los tipos de interés a corto plazo, aunque la cautela en torno a Irán y las fuertes pérdidas en los valores de semiconductores mantienen la prudencia en los mercados. EE UU e Irán conti.",
+      "date": "2026-07-16"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Reserva Federal first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-07-15"
+    },
+    {
+      "title": "Las Bolsas recortan posiciones con el petróleo al alza por tercer día consecutivo",
+      "summary": "La cautela se impone en el mercado por la subida de los precios del petróleo por tercer día consecutivo. El barril de Brent aumenta más del 1% hasta acercarse a los 86 dólares el barril. Los operadores reducen sus apuestas sobre subidas de tipos de interés por parte de la Reserva Federal, tras unos datos de inflación a.",
+      "date": "2026-07-15"
+    },
+    {
+      "title": "Las Bolsas mantienen la cautela con el petróleo al alza por tercer día consecutivo",
+      "summary": "Mejora el sentimiento del mercado, aunque prevalece la cautela por la subida de los precios del petróleo por tercer día consecutivo. El barril de Brent aumenta más del 1% hasta acercarse a los 86 dólares el barril. Los operadores reducen sus apuestas sobre subidas de tipos de interés por parte de la Reserva Federal, tr.",
+      "date": "2026-07-15"
+    },
+    {
+      "title": "El alivio de la inflación en EEUU rebaja la presión sobre la Fed para subir tipos",
+      "summary": "El presidente de la Reserva Federal (Fed), Kevin Warsh, arrancó ayer su primera comparecencia ante el Congreso estadounidense rememorando al recientemente fallecido Alan Greenspan, que ocupó su silla durante casi dos décadas y se hizo famoso por sus crípticos mensajes. Warsh quiso mostrarse claro ayer en dos puntos, su.",
+      "date": "2026-07-14"
+    }
+  ],
+  "sources": [],
+  "evidenceCount": 0
+}

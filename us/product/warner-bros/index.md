@@ -1,6 +1,6 @@
-# Warner Bros
+# Warner Bros.
 
-> Follow Warner Bros, a tracked product, in Lootura: recent changes, timeline, related context, and source-backed evidence.
+> Follow Warner Bros., a tracked product, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: product
 - Updated: 2026-07-21T10:23:35.333Z
@@ -70,4 +70,4 @@ Date: 2026-07-13
 
 ## Sources
 
-- [Court ruling freezes Paramount-Warner Bros. merger for now](https://www.npr.org/2026/07/20/nx-s1-5900888/paramount-wbd-tro-restraining-lawsuit?utm_source=lootura.com) — 2026-07-20T17:55:31.000Z
+No public source links.

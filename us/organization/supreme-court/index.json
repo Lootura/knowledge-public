@@ -1,16 +1,19 @@
 {
   "id": "usa-supreme-court",
-  "name": "Supreme Court",
+  "name": "Supreme court",
   "type": "organization",
   "locale": "en",
   "canonicalPath": "/us/organization/supreme-court",
   "canonicalUrl": "https://atlas.lootura.com/us/organization/supreme-court",
   "markdownUrl": "https://atlas.lootura.com/us/organization/supreme-court/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/supreme-court/index.json",
-  "description": "Follow Supreme Court, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
+  "description": "Follow Supreme court, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
   "updatedAt": "2026-07-16T20:55:05.764Z",
   "aliases": [
-    "U.S. Supreme Court"
+    "U.S. Supreme Court",
+    "court of last resort",
+    "highest court of appeal",
+    "apex court"
   ],
   "changes": [
     {

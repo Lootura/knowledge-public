@@ -8,8 +8,13 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/lamine-yamal/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/lamine-yamal/index.json",
   "description": "Sigue la actividad de Lamine Yamal en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-21T06:26:04.171Z",
-  "aliases": [],
+  "updatedAt": "2026-07-21T21:06:12.863Z",
+  "aliases": [
+    "Lamine",
+    "Yamal",
+    "Lamine Yamal Nasraoui",
+    "Lamine Yamal Nasraoui Ebana"
+  ],
   "changes": [
     {
       "title": "De Keyne, el hermano de Lamine Yamal, a la familia numerosa de Cucurella: los apoyos de los jugadores de la selección española fuera del campo",
@@ -62,6 +67,13 @@
       "date": "2026-07-10"
     }
   ],
-  "sources": [],
+  "sources": [
+    {
+      "title": "Irán celebra la victoria de la selección: Lamine Yamal, en uno de los drones lanzados contra bases de EEUU",
+      "url": "https://www.elindependiente.com/internacional/2026/07/21/iran-victoria-seleccion-lamine-yamal-drones-bases-eeuu/?utm_source=lootura.com",
+      "publishedAt": "2026-07-21T17:53:36.000Z",
+      "sourceId": "lootura-es-el-independiente"
+    }
+  ],
   "evidenceCount": 0
 }

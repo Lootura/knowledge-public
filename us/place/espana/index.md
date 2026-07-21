@@ -3,64 +3,10 @@
 > Follow Spain, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-21T10:23:35.333Z
+- Updated: 2026-07-21T21:06:38.270Z
 - Canonical: https://atlas.lootura.com/us/place/espana
 
 ## Recent changes
-
-### Deadly helicopter crash in Hudson River likely caused by bird strike, NTSB says
-
-A family of five from Spain, including three children, and the pilot died in the April 2025 crash.
-
-Date: 2026-07-17
-
-### Deadly helicopter crash in Hudson River likely caused by bird strike, NTSB says
-
-A family of five from Spain, including three children, and the pilot died in the April 2025 crash.
-
-Date: 2026-07-16
-
-### Man describes harrowing escape from wildfire that killed wife and friends
-
-A last minute decision meant Malcolm Timbrell survived one of Spain's deadliest wildfires ever, but his wife and friends were trapped by a wall of flames.
-
-Date: 2026-07-14
-
-### Residents of Spanish Towns Caught in Fierce Blazes Recount Harrowing Escapes
-
-Many say communication was chaotic and even nonexistent as flames tore through the area, taking 12 lives in one of the deadliest wildfires on record in Spain.
-
-Date: 2026-07-12
-
-### This English professor has run with the bulls in Spain for two decades
-
-When Bill Hillmann was 19 years old, he read Ernest Hemingway's The Sun Also Rises . That book inspired him to pursue two dreams: a career in literature and to run with the bulls in Pamplona, Spain.
-
-Date: 2026-07-11
-
-### Bull gores runner in the face at Spain
-
-A chaotic bull run at Spain.
-
-Date: 2026-07-11
-
-### Poll: Patriotism in the US, Europe and Canada, charted
-
-What does it mean to be patriotic? It depends on a country's politics. Pride in one’s country is itself relatively common, according to new results from an international edition of The POLITICO Poll: Majorities of adults across the United States, United Kingdom, Spain, Canada, France and Germany all say they are proud.
-
-Date: 2026-07-11
-
-### Poll: Politics shapes patriotism, from the US to the UK
-
-What does it mean to be patriotic? It depends on a country's politics. Pride in one’s country is itself relatively common, according to new results from an international edition of The POLITICO Poll: Majorities of adults across the United States, United Kingdom, Spain, Canada, France and Germany all say they are proud.
-
-Date: 2026-07-11
-
-### One of Spain's deadliest wildfires has killed at least 11 people
-
-A wildfire in southern Spain has killed at least 11 people, making it one of the country's deadliest on record, as soaring temperatures grip much of the country. (Image credit: INFOCA).
-
-Date: 2026-07-10
 
 ### Discovered by Atlas
 
@@ -70,4 +16,4 @@ Date: 2026-07-09
 
 ## Sources
 
-- [World Cup champs greeted as heroes in Spain as 2026 tournament comes to an end](https://www.cbsnews.com/video/world-cup-champs-greeted-as-heroes-in-spain-as-2026-tournament-comes-to-an-end/?utm_source=lootura.com) — 2026-07-21T01:49:07.000Z
+- [Spain’s supremacy, Messi and Mbappé’s race for greatness, and a freak injury: World Cup quiz](https://www.nbcnews.com/news/news-quiz/world-cup-news-quiz-rcna588404?utm_source=lootura.com) — 2026-07-21T09:15:40.000Z

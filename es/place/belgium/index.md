@@ -70,4 +70,4 @@ Date: 2026-07-10
 
 ## Fuentes
 
-- [El vestido de estreno de Matilde de Bélgica para el Día Nacional: guipur, tono champán y una espectacular pamela](https://www.larazon.es/lifestyle/moda/vestido-estreno-matilde-belgica-dia-nacional-guipur-tono-champan-espectacular-pamela_202607216a5f3d98f172396e89eb82c3.html?utm_source=lootura.com) — 2026-07-21T10:15:13.000Z
+No public source links.

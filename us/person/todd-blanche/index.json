@@ -9,7 +9,10 @@
   "jsonUrl": "https://atlas.lootura.com/us/person/todd-blanche/index.json",
   "description": "Follow Todd Blanche, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
   "updatedAt": "2026-07-19T09:50:13.921Z",
-  "aliases": [],
+  "aliases": [
+    "Blanche",
+    "Todd Wallace Blanche"
+  ],
   "changes": [
     {
       "title": "Week in Politics: Trump's speech; midterm elections; Todd Blanche and Jay Clayton",

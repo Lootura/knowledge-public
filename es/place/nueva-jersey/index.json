@@ -1,15 +1,30 @@
 {
   "id": "es-nueva-jersey",
-  "name": "Nueva Jersey",
+  "name": "Nueva Jersey (Estados Unidos)",
   "type": "place",
   "locale": "es",
   "canonicalPath": "/es/place/nueva-jersey",
   "canonicalUrl": "https://atlas.lootura.com/es/place/nueva-jersey",
   "markdownUrl": "https://atlas.lootura.com/es/place/nueva-jersey/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/nueva-jersey/index.json",
-  "description": "Sigue la actividad de Nueva Jersey en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
+  "description": "Sigue la actividad de Nueva Jersey (Estados Unidos) en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
   "updatedAt": "2026-07-21T10:23:08.875Z",
-  "aliases": [],
+  "aliases": [
+    "Nueva Jersey (Estados Unidos)",
+    "El Estado Jardín",
+    "Estado de Nueva Jersey",
+    "NJ",
+    "Garden State",
+    "Jersey",
+    "New Jersey, United States",
+    "State of New Jersey",
+    "N.J.",
+    "US-NJ",
+    "the State of New Jersey",
+    "the Garden State",
+    "Iersey",
+    "New Iersey"
+  ],
   "changes": [
     {
       "title": "De Keyne, el hermano de Lamine Yamal, a la familia numerosa de Cucurella: los apoyos de los jugadores de la selección española fuera del campo",
@@ -37,13 +52,6 @@
       "date": "2026-07-18"
     }
   ],
-  "sources": [
-    {
-      "title": "Madrid ruge con la segunda estrella de España",
-      "url": "https://elpais.com/deportes/mundial-futbol/2026-07-20/madrid-ruge-con-la-segunda-estrella-de-espana.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-20T22:02:45.000Z",
-      "sourceId": "lootura-es-el-pais"
-    }
-  ],
+  "sources": [],
   "evidenceCount": 0
 }
