@@ -14,6 +14,18 @@ The new Air Force One is going out of commission to receive safety upgrades. Wha
 
 Date: 2026-07-21
 
+### New Air Force One going out of commission to get safety upgrades
+
+The new Air Force One is going out of commission to receive safety upgrades. What needs to be done and was it safe for President Trump to fly the plane to Turkey earlier this month?
+
+Date: 2026-07-21
+
+### Discovered by Atlas
+
+New Air Force first entered the public knowledge record with source-backed evidence.
+
+Date: 2026-07-21
+
 ### Trump Administration Sought Phone Records of Times Journalists and Their Relatives
 
 The government is aggressively seeking the confidential sources of Times reporters who wrote about the president’s new Air Force One. The Times has asked a judge to quash the subpoenas.
@@ -23,6 +35,18 @@ Date: 2026-07-20
 ### DOJ sought phone records of journalists and relatives in effort to unmask sources of Air Force One security report
 
 A court document says the Trump administration sought New York Times journalists' phone records and even those of some of their relatives in an attempt to unmask the confidential sources of reporters who wrote about Trump's Qatari-gifted Air Force One jet.
+
+Date: 2026-07-20
+
+### White House Says New Air Force One Will Be Out of Service for a Month for ‘Upgrades’
+
+The White House press secretary said the unspecified “enhancements” would take place this fall. The plane has been under scrutiny over whether it has sufficient defensive capabilities.
+
+Date: 2026-07-20
+
+### White House Says New Air Force One Will Be Out of Service for a Month for ‘Upgrades’
+
+The White House press secretary said the unspecified “enhancements” would take place this fall. The plane has been under scrutiny over whether it has sufficient defensive capabilities.
 
 Date: 2026-07-20
 
@@ -44,32 +68,9 @@ President Trump said the Air Force One plane that was donated by Qatar will be s
 
 Date: 2026-07-20
 
-### The Evolution of Presidential Travel: Horse Carriages to Air Force One
-
-From horse-drawn presidential coaches to Air Force One, presidents have used various modes of transportation to project an image of America for nearly 250 years.
-
-Date: 2026-07-19
-
-### The Evolution of Presidential Travel: Horse Carriages to Air Force One
-
-From horse-drawn presidential coaches to Air Force One, presidents have used various modes of transportation to project an image of America for nearly 250 years.
-
-Date: 2026-07-18
-
-### New York Times files motion to quash subpoenas served on journalists over Air Force One coverage
-
-The New York Times on Wednesday filed a motion to quash subpoenas that the Justice Department served on journalists who reported on security concerns involving the new, Qatari-gifted Air Force One, teeing up a significant court fight pitting press freedom against the the government's ability to force reporters to ident.
-
-Date: 2026-07-16
-
-### New York Times Files Motion to Quash Subpoenas of Its Journalists
-
-The Justice Department is seeking to compel grand jury testimony as part of an investigation into Times reporting on the president’s new Air Force One jet.
-
-Date: 2026-07-16
-
 ## Sources
 
 - [New Air Force One going out of commission to get safety upgrades](https://www.npr.org/2026/07/21/nx-s1-5901113/new-air-force-one-going-out-of-commission-to-get-safety-upgrades?utm_source=lootura.com) — 2026-07-21T08:44:35.000Z
 - [DOJ sought phone records of journalists and relatives in effort to unmask sources of Air Force One security report](https://www.pbs.org/newshour/nation/doj-sought-phone-records-of-journalists-and-relatives-in-effort-to-unmask-sources-of-air-force-one-security-report?utm_source=lootura.com) — 2026-07-20T18:34:58.000Z
 - [Trump Administration Sought Phone Records of Times Journalists and Their Relatives](https://www.nytimes.com/2026/07/20/business/media/new-york-times-subpoenas-phone-records.html?utm_source=lootura.com) — 2026-07-20T19:25:15.000Z
+- [White House Says New Air Force One Will Be Out of Service for a Month for ‘Upgrades’](https://www.nytimes.com/2026/07/20/us/politics/new-air-force-one-upgrades.html?utm_source=lootura.com) — 2026-07-20T21:43:14.000Z

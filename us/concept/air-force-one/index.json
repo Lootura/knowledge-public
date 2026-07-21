@@ -17,6 +17,16 @@
       "date": "2026-07-21"
     },
     {
+      "title": "New Air Force One going out of commission to get safety upgrades",
+      "summary": "The new Air Force One is going out of commission to receive safety upgrades. What needs to be done and was it safe for President Trump to fly the plane to Turkey earlier this month?",
+      "date": "2026-07-21"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "New Air Force first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-07-21"
+    },
+    {
       "title": "Trump Administration Sought Phone Records of Times Journalists and Their Relatives",
       "summary": "The government is aggressively seeking the confidential sources of Times reporters who wrote about the president’s new Air Force One. The Times has asked a judge to quash the subpoenas.",
       "date": "2026-07-20"
@@ -24,6 +34,16 @@
     {
       "title": "DOJ sought phone records of journalists and relatives in effort to unmask sources of Air Force One security report",
       "summary": "A court document says the Trump administration sought New York Times journalists' phone records and even those of some of their relatives in an attempt to unmask the confidential sources of reporters who wrote about Trump's Qatari-gifted Air Force One jet.",
+      "date": "2026-07-20"
+    },
+    {
+      "title": "White House Says New Air Force One Will Be Out of Service for a Month for ‘Upgrades’",
+      "summary": "The White House press secretary said the unspecified “enhancements” would take place this fall. The plane has been under scrutiny over whether it has sufficient defensive capabilities.",
+      "date": "2026-07-20"
+    },
+    {
+      "title": "White House Says New Air Force One Will Be Out of Service for a Month for ‘Upgrades’",
+      "summary": "The White House press secretary said the unspecified “enhancements” would take place this fall. The plane has been under scrutiny over whether it has sufficient defensive capabilities.",
       "date": "2026-07-20"
     },
     {
@@ -40,26 +60,6 @@
       "title": "Trump says new Air Force One will be sent away for upgrades, amid security concerns",
       "summary": "President Trump said the Air Force One plane that was donated by Qatar will be sent away for upgrades, amid swirling concerns about its security features.",
       "date": "2026-07-20"
-    },
-    {
-      "title": "The Evolution of Presidential Travel: Horse Carriages to Air Force One",
-      "summary": "From horse-drawn presidential coaches to Air Force One, presidents have used various modes of transportation to project an image of America for nearly 250 years.",
-      "date": "2026-07-19"
-    },
-    {
-      "title": "The Evolution of Presidential Travel: Horse Carriages to Air Force One",
-      "summary": "From horse-drawn presidential coaches to Air Force One, presidents have used various modes of transportation to project an image of America for nearly 250 years.",
-      "date": "2026-07-18"
-    },
-    {
-      "title": "New York Times files motion to quash subpoenas served on journalists over Air Force One coverage",
-      "summary": "The New York Times on Wednesday filed a motion to quash subpoenas that the Justice Department served on journalists who reported on security concerns involving the new, Qatari-gifted Air Force One, teeing up a significant court fight pitting press freedom against the the government's ability to force reporters to ident.",
-      "date": "2026-07-16"
-    },
-    {
-      "title": "New York Times Files Motion to Quash Subpoenas of Its Journalists",
-      "summary": "The Justice Department is seeking to compel grand jury testimony as part of an investigation into Times reporting on the president’s new Air Force One jet.",
-      "date": "2026-07-16"
     }
   ],
   "sources": [
@@ -80,7 +80,13 @@
       "url": "https://www.nytimes.com/2026/07/20/business/media/new-york-times-subpoenas-phone-records.html?utm_source=lootura.com",
       "publishedAt": "2026-07-20T19:25:15.000Z",
       "sourceId": "lootura-us-the-new-york-times-politics"
+    },
+    {
+      "title": "White House Says New Air Force One Will Be Out of Service for a Month for ‘Upgrades’",
+      "url": "https://www.nytimes.com/2026/07/20/us/politics/new-air-force-one-upgrades.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-20T21:43:14.000Z",
+      "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 4
 }
