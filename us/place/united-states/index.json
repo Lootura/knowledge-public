@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/united-states/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/united-states/index.json",
   "description": "Follow United States, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-20T21:10:24.211Z",
+  "updatedAt": "2026-07-21T02:27:47.058Z",
   "aliases": [
     "America",
     "Estados Unidos",
@@ -21,6 +21,26 @@
       "date": "2026-07-27"
     },
     {
+      "title": "New round of strikes targeting Iran underway, U.S. officials say",
+      "summary": "A 10th straight night of U.S. strikes on Iran is underway as President Trump vows Tehran will pay for the deaths of three American soldiers over the weekend. CBS News senior national security correspondent Charlie D'Agata reports. Then, global affairs analyst Jonathan Wachtel joins to discuss the state of the war.",
+      "date": "2026-07-21"
+    },
+    {
+      "title": "Video appears to show United employee threaten to call ICE on customer",
+      "summary": "A United Airlines employee appears to have been caught on video threatening to call U.S. Immigration and Customs Enforcement on a passenger last week at San Francisco International Airport.",
+      "date": "2026-07-21"
+    },
+    {
+      "title": "U.S. gas prices back up to average of $4 a gallon, AAA says",
+      "summary": "As fighting with Iran ramps up, a gallon of regular gas is once again $4 on average, up 13 cents in one week, according to AAA. Severin Borenstein, professor at UC Berkeley's Haas School of Business, joins with analysis.",
+      "date": "2026-07-21"
+    },
+    {
+      "title": "Trump to Impose 50% Tariff on Many Canadian Goods",
+      "summary": "The administration will use an untested legal provision to put significant duties on Canadian exports, reigniting a clash with one of America’s biggest trading partners.",
+      "date": "2026-07-21"
+    },
+    {
       "title": "Oil Prices Cross $90 a Barrel as U.S.-Iran Conflict Widens",
       "summary": "Brent crude, the global benchmark for oil, rose more than 3 percent as trading resumed on Sunday, while S&P 500 futures remained essentially unchanged.",
       "date": "2026-07-20"
@@ -28,11 +48,6 @@
     {
       "title": "Rubio Says That U.S. Is Still Open to Diplomacy With Iran",
       "summary": "Secretary of State Marco Rubio also said that Iran has signaled it wants to negotiate with the United States, even as the two sides escalated their attacks.",
-      "date": "2026-07-20"
-    },
-    {
-      "title": "Student loan defaults surging in wake of COVID-tied payments pause expiration",
-      "summary": "Defaults on student loans have surged across the United States, reaching record levels as borrowers struggle to keep up with payments.",
       "date": "2026-07-20"
     },
     {
@@ -49,21 +64,6 @@
       "title": "U.S. Average Gas Price Returns to $4 a Gallon as Iran Crisis Escalates",
       "summary": "A month ago, drivers were enjoying some relief at the pump after the U.S. and Iran signed a deal intended to reopen the Strait of Hormuz. Now, prices are rising again.",
       "date": "2026-07-20"
-    },
-    {
-      "title": "Tick bites have soared this year. Here's why, and how to protect yourself",
-      "summary": "Emergency room visits for tick bites are the highest in nearly a decade as ticks spread into new parts of the U.S. CBS News medical correspondent Dr. Celine Gounder explains why we're seeing more ticks, and when a Lyme disease vaccine could be available.",
-      "date": "2026-07-20"
-    },
-    {
-      "title": "How closely linked are gas prices to U.S.-Iran tensions?",
-      "summary": "Gas prices crept back up amid increased tensions between the U.S. and Iran. Joe Ciolli, the executive editor of Business Insider, joins with more.",
-      "date": "2026-07-20"
-    },
-    {
-      "title": "Expansion of U.S. strikes on Iran leads to more retaliation across the Gulf",
-      "summary": "Even as the U.S. and Iran inch closer to all-out war, glimmers of hope appeared on the diplomatic front.",
-      "date": "2026-07-20"
     }
   ],
   "sources": [
@@ -74,21 +74,9 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "Student loan defaults surging in wake of COVID-tied payments pause expiration",
-      "url": "https://www.cbsnews.com/news/student-loan-defaults-surge-covid-tied-payments-pause-expiration/?utm_source=lootura.com",
-      "publishedAt": "2026-07-20T10:09:00.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
-    {
       "title": "The Uplift: The American Dream",
       "url": "https://www.cbsnews.com/video/the-uplift-the-american-dream/?utm_source=lootura.com",
       "publishedAt": "2026-07-27T10:30:00.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
-    {
-      "title": "Tick bites have soared this year. Here's why, and how to protect yourself",
-      "url": "https://www.cbsnews.com/video/tick-bites-have-soared-this-year-heres-why-and-how-to-protect-yourself/?utm_source=lootura.com",
-      "publishedAt": "2026-07-20T13:34:38.000Z",
       "sourceId": "lootura-us-cbs-news"
     },
     {
@@ -98,9 +86,27 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
+      "title": "New round of strikes targeting Iran underway, U.S. officials say",
+      "url": "https://www.cbsnews.com/video/new-round-strikes-targeting-iran-underway-officials/?utm_source=lootura.com",
+      "publishedAt": "2026-07-21T01:13:00.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
+    {
+      "title": "Video appears to show United employee threaten to call ICE on customer",
+      "url": "https://www.cbsnews.com/news/united-airlines-employee-threatens-to-call-ice-sfo-passenger-act-like-a-citizen/?utm_source=lootura.com",
+      "publishedAt": "2026-07-21T01:43:54.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
+    {
       "title": "How recent killings of U.S. soldiers could affect the war with Iran",
       "url": "https://www.cbsnews.com/video/how-recent-killings-of-us-soldiers-could-affect-the-war-with-iran/?utm_source=lootura.com",
       "publishedAt": "2026-07-20T19:27:21.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
+    {
+      "title": "U.S. gas prices back up to average of $4 a gallon, AAA says",
+      "url": "https://www.cbsnews.com/video/us-gas-prices-back-up-average-4-gallon/?utm_source=lootura.com",
+      "publishedAt": "2026-07-21T01:20:00.000Z",
       "sourceId": "lootura-us-cbs-news"
     },
     {
@@ -116,17 +122,11 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "Trump administration says Iran war reaching ‘time of ambiguity’ as military strikes escalate",
-      "url": "https://www.nbcnews.com/meet-the-press/video/trump-administration-says-iran-war-reaching-time-of-ambiguity-as-military-strikes-escalate-266969669682?utm_source=lootura.com",
-      "publishedAt": "2026-07-20T20:37:01.000Z",
-      "sourceId": "lootura-us-nbc-news-politics"
-    },
-    {
       "title": "Morning news brief",
       "url": "https://www.npr.org/2026/07/20/nx-s1-5895962/morning-news-brief?utm_source=lootura.com",
       "publishedAt": "2026-07-20T08:43:08.000Z",
       "sourceId": "lootura-us-npr"
     }
   ],
-  "evidenceCount": 23
+  "evidenceCount": 24
 }

@@ -8,17 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/iran/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/iran/index.json",
   "description": "Sigue la actividad de Iran en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-20T21:09:57.635Z",
+  "updatedAt": "2026-07-21T02:27:26.549Z",
   "aliases": [],
   "changes": [
     {
-      "title": "El precio del petróleo modera su escalada ante una posible reapertura de las negociaciones entre Irán y EE UU",
-      "summary": "La persistencia de la incertidumbre sobre Oriente Próximo ha llevado al precio del petróleo a superar por primera vez en más de un mes los 91 dólares por barril. Una escalada que se ha visto frenada tras el anuncio por parte del régimen iraní de contactos diplomáticos con los mediadores para restablecer las negociacion.",
+      "title": "Estados Unidos lanza una nueva oleada de bombardeos sobre Irán",
+      "summary": "El Mando Central de las Fuerzas Armadas estadounidenses (Centcom) ha informado este lunes de que ha lanzado una nueva oleada de bombardeos sobre.",
       "date": "2026-07-20"
     },
     {
-      "title": "Estados Unidos lanza una nueva oleada de bombardeos sobre Irán",
-      "summary": "El Mando Central de las Fuerzas Armadas estadounidenses (Centcom) ha informado este lunes de que ha lanzado una nueva oleada de bombardeos sobre.",
+      "title": "El precio del petróleo modera su escalada ante una posible reapertura de las negociaciones entre Irán y EE UU",
+      "summary": "La persistencia de la incertidumbre sobre Oriente Próximo ha llevado al precio del petróleo a superar por primera vez en más de un mes los 91 dólares por barril. Una escalada que se ha visto frenada tras el anuncio por parte del régimen iraní de contactos diplomáticos con los mediadores para restablecer las negociacion.",
       "date": "2026-07-20"
     },
     {
@@ -64,17 +64,11 @@
   ],
   "sources": [
     {
-      "title": "El precio del petróleo modera su escalada ante una posible reapertura de las negociaciones entre Irán y EE UU",
-      "url": "https://cincodias.elpais.com/mercados-financieros/2026-07-20/la-bolsa-y-el-ibex-35.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-20T15:48:04.000Z",
-      "sourceId": "lootura-es-cinco-dias"
-    },
-    {
       "title": "Estados Unidos lanza una nueva oleada de bombardeos sobre Irán",
       "url": "https://theobjective.com/internacional/2026-07-20/eeuu-nueva-oleada-bombardeos-iran/?amp=&utm_source=lootura.com",
       "publishedAt": "2026-07-20T20:48:15.000Z",
       "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

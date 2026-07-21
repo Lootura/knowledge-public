@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/espana/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/espana/index.json",
   "description": "Follow Spain, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-20T21:10:24.211Z",
+  "updatedAt": "2026-07-21T02:27:47.058Z",
   "aliases": [
     "Estado español",
     "Spain"
@@ -67,9 +67,9 @@
   ],
   "sources": [
     {
-      "title": "Spain defeats Argentina after defensive battle to win World Cup",
-      "url": "https://www.cbsnews.com/video/spain-defeats-argentina-world-cup/?utm_source=lootura.com",
-      "publishedAt": "2026-07-20T13:39:19.000Z",
+      "title": "World Cup champs greeted as heroes in Spain as 2026 tournament comes to an end",
+      "url": "https://www.cbsnews.com/video/world-cup-champs-greeted-as-heroes-in-spain-as-2026-tournament-comes-to-an-end/?utm_source=lootura.com",
+      "publishedAt": "2026-07-21T01:49:07.000Z",
       "sourceId": "lootura-us-cbs-news"
     }
   ],

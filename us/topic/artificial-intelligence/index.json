@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/us/topic/artificial-intelligence/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/topic/artificial-intelligence/index.json",
   "description": "Follow Artificial intelligence, a tracked topic, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-20T21:10:24.211Z",
+  "updatedAt": "2026-07-21T02:27:47.058Z",
   "aliases": [
     "AI",
     "machine learning"
   ],
   "changes": [
+    {
+      "title": "Detailed maps of European wetlands reveal overlooked patches of ecosystems",
+      "summary": "Nature, Published online: 20 July 2026; doi:10.1038/d41586-026-02211-2 Satellite images have been analysed by a machine-learning algorithm to produce high-resolution maps of wetland environments — a boon for conservation efforts.",
+      "date": "2026-07-21"
+    },
     {
       "title": "Detailed maps of European wetlands reveal overlooked patches of ecosystems",
       "summary": "Nature, Published online: 20 July 2026; doi:10.1038/d41586-026-02211-2 Satellite images have been analysed by a machine-learning algorithm to produce high-resolution maps of wetland environments — a boon for conservation efforts.",
@@ -58,18 +63,13 @@
       "title": "Developer ecosystem expanded",
       "summary": "Nature, Published online: 16 July 2026; doi:10.1038/d41586-026-02214-z As automated tools accelerate both the discovery and the exploitation of software vulnerabilities, organizations must redesign their defences and workflows to keep pace.",
       "date": "2026-07-19"
-    },
-    {
-      "title": "A global capital for AI safety is emerging — and it’s not in Silicon Valley",
-      "summary": "Nature, Published online: 16 July 2026; doi:10.1038/d41586-026-01389-9 The United Kingdom is gaining influence through its growing AI-safety ecosystem.",
-      "date": "2026-07-19"
     }
   ],
   "sources": [
     {
       "title": "Detailed maps of European wetlands reveal overlooked patches of ecosystems",
       "url": "https://www.nature.com/articles/d41586-026-02211-2?utm_source=lootura.com",
-      "publishedAt": "2026-07-20T21:10:28.422Z",
+      "publishedAt": "2026-07-21T02:27:51.408Z",
       "sourceId": "lootura-us-nature"
     }
   ],

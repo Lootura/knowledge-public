@@ -8,9 +8,14 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/maine-senate/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/maine-senate/index.json",
   "description": "Follow Maine Senate, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-20T21:10:24.211Z",
+  "updatedAt": "2026-07-21T02:27:47.058Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "5 Things to Know About the Maine Senate Candidate Troy Jackson",
+      "summary": "Mr. Jackson, who has emerged as the clear front-runner to replace Graham Platner, is a Republican turned Democrat who is seen as close to Mr. Platner on policy.",
+      "date": "2026-07-20"
+    },
     {
       "title": "In Maine Senate Race, Democrats Go From Chaos to Coronation",
       "summary": "Troy Jackson’s emergence as the clear front-runner to replace Graham Platner spares the party some challenges but points to some new ones.",
@@ -55,32 +60,21 @@
       "title": "Maine Secretary of State Shenna Bellows on her bid to replace Platner in Senate race",
       "summary": "NPR's Michel Martin speaks with Maine Secretary of State Shenna Bellows about her run to replace Graham Platner in the Maine Senate race.",
       "date": "2026-07-13"
-    },
-    {
-      "title": "Ro Khanna says he regrets his endorsement of Graham Platner: ‘I got that call wrong’",
-      "summary": "Rep. Ro Khanna (D-Calif.) joins Meet the Press for an exclusive interview after Graham Platner (D) exits the Maine Senate race amid a sexual assault allegation.",
-      "date": "2026-07-12"
     }
   ],
   "sources": [
     {
-      "title": "Maine Democratic Senate race narrows as candidates rally behind Troy Jackson",
-      "url": "https://www.cbsnews.com/news/maine-senate-democrats-troy-jackson-graham-platner/?utm_source=lootura.com",
-      "publishedAt": "2026-07-20T13:41:54.000Z",
+      "title": "Troy Jackson set to become Democratic Maine Senate nominee, replacing Platner",
+      "url": "https://www.cbsnews.com/video/troy-jackson-set-to-become-democratic-maine-senate-nominee/?utm_source=lootura.com",
+      "publishedAt": "2026-07-21T01:15:00.000Z",
       "sourceId": "lootura-us-cbs-news"
-    },
-    {
-      "title": "In Maine Senate Race, Democrats Go From Chaos to Coronation",
-      "url": "https://www.nytimes.com/2026/07/20/us/politics/maine-democrats-senate-jackson-platner.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-20T09:02:24.000Z",
-      "sourceId": "lootura-us-the-new-york-times-politics"
     },
     {
       "title": "5 Things to Know About the Maine Senate Candidate Troy Jackson",
       "url": "https://www.nytimes.com/2026/07/20/us/politics/troy-jackson-maine-senate.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-20T15:11:11.000Z",
-      "sourceId": "lootura-us-the-new-york-times-politics"
+      "publishedAt": "2026-07-20T15:11:12.000Z",
+      "sourceId": "lootura-us-the-new-york-times"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 2
 }

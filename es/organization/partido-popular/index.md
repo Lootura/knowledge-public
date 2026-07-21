@@ -3,10 +3,22 @@
 > Sigue la actividad de Partido Popular en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-20T17:59:39.360Z
+- Actualizado: 2026-07-21T02:27:26.549Z
 - Canonical: https://atlas.lootura.com/es/organization/partido-popular
 
 ## Cambios recientes
+
+### Ofensiva en el Congreso por los fondos contra incendios
+
+El PP registra 50 preguntas exigiendo transparencia a Moncloa.
+
+Date: 2026-07-21
+
+### El PP estudia pedir a Vox que no concurra en toda España
+
+Todavía no ha llegado el momento decisivo, pero los distintos partidos políticos ya empiezan a esbozar algunas de las estrategias que podrían poner encima de la mesa en cuanto Pedro Sánchez apriete el botón para convocar las elecciones generales . Es algo, además, que no se sabe a ciencia cierta cuándo pasará, ya que s.
+
+Date: 2026-07-21
 
 ### Dos millones de votantes, cinco elecciones y solo dos anuncios: así ignoran los partidos al electorado latino
 
@@ -56,18 +68,7 @@ Tendemos a exagerar lo que desconocemos. El Partido Popular no sabe lo que se va
 
 Date: 2026-07-19
 
-### Begoña Gómez, la última línea roja
-
-A Pedro Sánchez le quedan pocas líneas rojas que transgredir en política. Presentó una moción de censura contra el Partido Popular con solo 85 diputados, el peor resultado electoral que haya tenido el PSOE en democracia. Hasta ese momento, en España gobernaba el que ganaba en las urnas. Además, pactó, entre otros, con.
-
-Date: 2026-07-19
-
-### La doble vara de medir del PP de Ayuso ante el acoso sexual: de las críticas a Salazar al apoyo al alcalde de Móstoles
-
-El PP de Madrid sigue apostando por un apoyo cerrado a Manuel Bautista, a pesar de su imputación por acoso sexual y laboral mientras Ayuso incluso alaba su trabajo como regidor, una posición muy diferente a la que tomaron con otros escándalos que afectan al PSOE o a otros partidos de la izquierda Ayuso, tras conocer qu.
-
-Date: 2026-07-18
-
 ## Fuentes
 
-No public source links.
+- [Ofensiva en el Congreso por los fondos contra incendios](https://www.larazon.es/espana/ofensiva-congreso-fondos-incendios_202607216a5e60e2e9f2e84b5c7411bc.html?outputType=amp&utm_source=lootura.com) — 2026-07-21T01:28:40.000Z
+- [El PP estudia pedir a Vox que no concurra en toda España](https://www.larazon.es/espana/estudia-pedir-vox-que-concurra-toda-espana_202607216a5e6061e9f2e84b5c74110a.html?utm_source=lootura.com) — 2026-07-21T01:26:55.000Z

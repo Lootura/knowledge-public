@@ -3,7 +3,7 @@
 > Follow White House, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-07-20T21:10:24.211Z
+- Updated: 2026-07-21T02:27:47.058Z
 - Canonical: https://atlas.lootura.com/us/organization/white-house
 
 ## Recent changes
@@ -17,6 +17,12 @@ Date: 2026-07-20
 ### White House Adds Jefferson Statue to the Rose Garden
 
 The statue, which depicts the third president drafting the Declaration of Independence, joins those of Washington, Franklin and Hamilton.
+
+Date: 2026-07-20
+
+### White House Says New Air Force One Will Be Out of Service for a Month for ‘Upgrades’
+
+The White House press secretary said the unspecified “enhancements” would take place this fall. The plane has been under scrutiny over whether it has sufficient defensive capabilities.
 
 Date: 2026-07-20
 
@@ -62,13 +68,8 @@ Intelligence agencies provided the White House with a trove of declassified docu
 
 Date: 2026-07-17
 
-### Darline Graham in serious discussions about running for Lindsey Graham's seat
-
-Darline Graham indicated in a White House meeting Thursday that she's weighing a bid, CBS News confirmed.
-
-Date: 2026-07-17
-
 ## Sources
 
-- [Democrats avoid a messy fight in Maine, but uncertainty lingers: From the Politics Desk](https://www.nbcnews.com/politics/politics-news/democrats-avoid-messy-fight-maine-uncertainty-lingers-politics-desk-rcna588434?utm_source=lootura.com) — 2026-07-20T21:00:00.000Z
+- [Democrats avoid a messy fight in Maine, but uncertainty lingers: From the Politics Desk](https://www.nbcnews.com/politics/politics-news/democrats-avoid-messy-fight-maine-uncertainty-lingers-politics-desk-rcna588434?utm_source=lootura.com) — 2026-07-20T21:00:40.000Z
+- [White House Says New Air Force One Will Be Out of Service for a Month for ‘Upgrades’](https://www.nytimes.com/2026/07/20/us/politics/new-air-force-one-upgrades.html?utm_source=lootura.com) — 2026-07-20T21:43:14.000Z
 - [White House Adds Jefferson Statue to the Rose Garden](https://www.nytimes.com/2026/07/20/arts/design/thomas-jefferson-statue-rose-garden-white-house.html?utm_source=lootura.com) — 2026-07-20T19:46:32.000Z

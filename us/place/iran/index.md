@@ -3,10 +3,22 @@
 > Follow Iran, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-20T21:10:24.211Z
+- Updated: 2026-07-21T02:27:47.058Z
 - Canonical: https://atlas.lootura.com/us/place/iran
 
 ## Recent changes
+
+### New round of strikes targeting Iran underway, U.S. officials say
+
+A 10th straight night of U.S. strikes on Iran is underway as President Trump vows Tehran will pay for the deaths of three American soldiers over the weekend. CBS News senior national security correspondent Charlie D'Agata reports. Then, global affairs analyst Jonathan Wachtel joins to discuss the state of the war.
+
+Date: 2026-07-21
+
+### U.S. gas prices back up to average of $4 a gallon, AAA says
+
+As fighting with Iran ramps up, a gallon of regular gas is once again $4 on average, up 13 cents in one week, according to AAA. Severin Borenstein, professor at UC Berkeley's Haas School of Business, joins with analysis.
+
+Date: 2026-07-21
 
 ### Oil Prices Cross $90 a Barrel as U.S.-Iran Conflict Widens
 
@@ -56,27 +68,15 @@ The national average for a gallon of gas reached $4.003 on Monday, the first tim
 
 Date: 2026-07-20
 
-### Trump administration says Iran war reaching ‘time of ambiguity’ as military strikes escalate
-
-Tensions rise between the U.S. and Iran as the two sides exchange fire for the tenth consecutive day after the Pentagon identifies two U.S. soldiers killed in an Iranian strike on a U.S. air base in Jordan. NBC News correspondents Monica Alba, Keir Simmons, Courtney Kube and NBC News military analyst retired Col. Steve.
-
-Date: 2026-07-20
-
-### The war with Iran is escalating. What next?
-
-NPR's Ailsa Chang speaks with Suzanne Maloney of the Brookings Institution about the U.S. war with Iran, the increase in hostilities and what it means for the wider region.
-
-Date: 2026-07-20
-
 ## Sources
 
+- [New round of strikes targeting Iran underway, U.S. officials say](https://www.cbsnews.com/video/new-round-strikes-targeting-iran-underway-officials/?utm_source=lootura.com) — 2026-07-21T01:13:00.000Z
 - [How recent killings of U.S. soldiers could affect the war with Iran](https://www.cbsnews.com/video/how-recent-killings-of-us-soldiers-could-affect-the-war-with-iran/?utm_source=lootura.com) — 2026-07-20T19:27:21.000Z
+- [U.S. gas prices back up to average of $4 a gallon, AAA says](https://www.cbsnews.com/video/us-gas-prices-back-up-average-4-gallon/?utm_source=lootura.com) — 2026-07-21T01:20:00.000Z
 - [Gas prices top $4 a gallon again as U.S.-Iran conflict escalates](https://www.cbsnews.com/news/gas-prices-iran-war-oil-supply/?utm_source=lootura.com) — 2026-07-20T19:57:28.000Z
 - [How closely linked are gas prices to U.S.-Iran tensions?](https://www.cbsnews.com/video/how-closely-linked-are-gas-prices-to-us-iran-tensions/?utm_source=lootura.com) — 2026-07-20T16:45:00.000Z
-- [Trump administration says Iran war reaching ‘time of ambiguity’ as military strikes escalate](https://www.nbcnews.com/meet-the-press/video/trump-administration-says-iran-war-reaching-time-of-ambiguity-as-military-strikes-escalate-266969669682?utm_source=lootura.com) — 2026-07-20T20:37:01.000Z
 - [Morning news brief](https://www.npr.org/2026/07/20/nx-s1-5895962/morning-news-brief?utm_source=lootura.com) — 2026-07-20T08:43:08.000Z
-- [The war with Iran is escalating. What next?](https://www.npr.org/2026/07/20/nx-s1-5900950/the-war-with-iran-is-escalating-what-next?utm_source=lootura.com) — 2026-07-20T19:56:49.000Z
-- [The war in Iran has left hundreds of U.S. diplomats in limbo](https://www.npr.org/2026/07/20/nx-s1-5896220/the-war-in-iran-has-left-hundreds-of-u-s-diplomats-in-limbo?utm_source=lootura.com) — 2026-07-20T20:55:53.000Z
 - [Expansion of U.S. strikes on Iran leads to more retaliation across the Gulf](https://www.pbs.org/newshour/world/expansion-of-u-s-strikes-on-iran-leads-to-more-retaliation-across-the-gulf?utm_source=lootura.com) — 2026-07-20T15:13:21.000Z
+- [Iran war hurting U.S. allies in region, former Jordanian foreign minister says](https://www.pbs.org/newshour/show/iran-war-hurting-u-s-allies-in-region-former-jordanian-foreign-minister-says?utm_source=lootura.com) — 2026-07-20T22:52:05.000Z
 - [Oil Prices Cross $90 a Barrel as U.S.-Iran Conflict Widens](https://www.nytimes.com/2026/07/19/business/oil-prices-stocks-gas.html?utm_source=lootura.com) — 2026-07-20T06:33:35.000Z
 - [Rubio Says That U.S. Is Still Open to Diplomacy With Iran](https://www.nytimes.com/2026/07/20/world/middleeast/rubio-us-iran-war-diplomacy.html?utm_source=lootura.com) — 2026-07-20T06:02:46.000Z

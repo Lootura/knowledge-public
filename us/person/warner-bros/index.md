@@ -3,7 +3,7 @@
 > Follow Warner Bros, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-07-20T21:10:24.211Z
+- Updated: 2026-07-21T02:27:47.058Z
 - Canonical: https://atlas.lootura.com/us/person/warner-bros
 
 ## Recent changes
@@ -11,6 +11,12 @@
 ### Judge puts temporary pause on Paramount-Warner merger
 
 Paramount Skydance’s takeover of Warner Bros. Discovery hit a roadblock Monday after a federal judge temporarily paused the proposed merger.
+
+Date: 2026-07-20
+
+### Judge temporarily pauses Paramount-Warner Bros. deal
+
+A federal judge temporarily paused the proposed merger of Paramount Skydance and Warner Bros. Discovery, granting a request from a coalition of 12 state attorneys general who sued to thwart the $110 billion deal.
 
 Date: 2026-07-20
 
@@ -65,3 +71,4 @@ Date: 2026-07-13
 ## Sources
 
 - [Judge puts temporary pause on Paramount-Warner merger](https://www.nbcnews.com/business/media/judge-puts-temporary-pause-paramount-warner-bros-merger-rcna587804?utm_source=lootura.com) — 2026-07-20T17:01:36.000Z
+- [Judge temporarily pauses Paramount-Warner Bros. deal](https://www.nbcnews.com/now/video/judge-temporarily-pauses-paramount-warner-bros-deal-266958917660?utm_source=lootura.com) — 2026-07-20T17:18:58.000Z

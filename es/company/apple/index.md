@@ -3,10 +3,16 @@
 > Sigue la actividad de Apple en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: company
-- Actualizado: 2026-07-20T10:49:30.114Z
+- Actualizado: 2026-07-21T02:27:26.549Z
 - Canonical: https://atlas.lootura.com/es/company/apple
 
 ## Cambios recientes
+
+### Samsung sigue los pasos de Apple y lanza su propia tarjeta de crédito con hasta un 5% de devolución
+
+Samsung ha decidido seguir los pasos de Apple y desembarcar en el negocio de las tarjetas de crédito, un movimiento del que se venía hablando desde hace tiempo. La compañía surcoreana ha presentado oficialmente la Samsung Galaxy Card , una propuesta integrada en Samsung Wallet que ofrecerá recompensas especiales al rea.
+
+Date: 2026-07-21
 
 ### Apple no tiene miedo: acaba de subir el precio del iPhone en uno de sus mercados CLAVE
 
@@ -62,12 +68,6 @@ Un correo mal dirigido ha sido el causante de que la relación entre OpenAI y Ap
 
 Date: 2026-07-15
 
-### Anya Taylor Joy (‘Lucky’): «Me frustraba ver a hombres moralmente ambiguos y no a mujeres»
-
-La actriz Anya Taylor-Joy acaba de estrenar su nuevo gran proyecto, la serie Lucky . La argentina protagoniza un thriller con mucho drama y acción que puede verse en Apple TV . En ella, además, la intérprete es también productora. Y como guinda del pastel, comparte reparto con rostros de la talla de Timothy Olyphant ,.
-
-Date: 2026-07-15
-
 ## Fuentes
 
-No public source links.
+- [Samsung sigue los pasos de Apple y lanza su propia tarjeta de crédito con hasta un 5% de devolución](https://www.larazon.es/tecnologia-consumo/samsung/samsung-sigue-pasos-apple-lanza-su-propia-tarjeta-credito-5-devolucion_202607216a5eb991303ca6202cc25981.html?utm_source=lootura.com) — 2026-07-21T01:00:00.000Z

@@ -52,4 +52,4 @@ Date: 2026-07-09
 
 ## Sources
 
-- [Maine Democratic Senate race narrows as candidates rally behind Troy Jackson](https://www.cbsnews.com/news/maine-senate-democrats-troy-jackson-graham-platner/?utm_source=lootura.com) — 2026-07-20T13:41:54.000Z
+No public source links.

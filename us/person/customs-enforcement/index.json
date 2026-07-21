@@ -1,0 +1,80 @@
+{
+  "id": "usa-customs-enforcement",
+  "name": "Customs Enforcement",
+  "type": "person",
+  "locale": "en",
+  "canonicalPath": "/us/person/customs-enforcement",
+  "canonicalUrl": "https://atlas.lootura.com/us/person/customs-enforcement",
+  "markdownUrl": "https://atlas.lootura.com/us/person/customs-enforcement/index.md",
+  "jsonUrl": "https://atlas.lootura.com/us/person/customs-enforcement/index.json",
+  "description": "Follow Customs Enforcement, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
+  "updatedAt": "2026-07-21T02:27:47.058Z",
+  "aliases": [],
+  "changes": [
+    {
+      "title": "Video appears to show United employee threaten to call ICE on customer",
+      "summary": "A United Airlines employee appears to have been caught on video threatening to call U.S. Immigration and Customs Enforcement on a passenger last week at San Francisco International Airport.",
+      "date": "2026-07-21"
+    },
+    {
+      "title": "Senators demand ICE answers and body cameras after deadly shootings in Maine and Houston",
+      "summary": "Dozens of Democratic U.S. senators and Maine's Independent senator are demanding more details from Immigration and Customs Enforcement about vetting practices for new agents.",
+      "date": "2026-07-20"
+    },
+    {
+      "title": "ICE officer in Maine shooting has history of violent behavior, relatives say",
+      "summary": "The Immigration and Customs Enforcement officer who shot and killed a Colombian man in Maine this week is an Army veteran who has struggled with serious mental health issues since early childhood, relatives say.",
+      "date": "2026-07-18"
+    },
+    {
+      "title": "ICE officer in Maine shooting has history of violent behavior, relatives say",
+      "summary": "The Immigration and Customs Enforcement officer who shot and killed a Colombian man in Maine this week is an Army veteran who has struggled with serious mental health issues since early childhood, relatives say.",
+      "date": "2026-07-17"
+    },
+    {
+      "title": "Maine shooting and officer's background raise new questions about ICE's rapid hiring",
+      "summary": "Immigration and Customs Enforcement has been rapidly expanding its workforce, hiring thousands of new officers as part of the Trump administration's attempt to ramp up immigration arrests and deportations.",
+      "date": "2026-07-17"
+    },
+    {
+      "title": "I See My Father in the Fathers Killed by ICE",
+      "summary": "A makeshift memorial for Joan Sebastian Guerrero who was fatally shot by U.S. Immigration and Customs Enforcement (ICE) agents, on July 14, 2026 in Biddeford, Maine. —Ryan Murphy—Getty Images Joan Sebastian Guerrero, the 26-year-old man shot by ICE while driving to work on Monday, attended the same school my mother did.",
+      "date": "2026-07-16"
+    },
+    {
+      "title": "Trump Pressures ICE to Resume Traffic Stops After They Were Halted Over Fatal Shootings",
+      "summary": "Immigration and Customs Enforcement had ordered its officers to halt most vehicle stops across the country after they shot two people over the past week.",
+      "date": "2026-07-15"
+    },
+    {
+      "title": "Man fleeing immigration officers in Florida struck and killed by tractor trailer, police say",
+      "summary": "It was the third death in a week involving encounters with U.S. Immigration and Customs Enforcement agents, following shootings in Texas and Maine.",
+      "date": "2026-07-15"
+    },
+    {
+      "title": "After ICE fatally shot multiple people, officials speak out: \"We want them out\"",
+      "summary": "U.S. Immigration and Customs Enforcement officials shot and killed two men in the last week in Maine and in Texas. Maine's House speaker, a Houston prosecutor and a Minnesota attorney spoke with CBS News about the violence.",
+      "date": "2026-07-15"
+    },
+    {
+      "title": "Acting AG Todd Blanche faces a key test. And, ICE pauses most traffic stops",
+      "summary": "Acting Attorney General Todd Blanche is set to appear before the Senate for his confirmation hearing. And, Immigration and Customs Enforcement has paused most traffic stops after recent deadly shootings. (Image credit: Ken Cedeno).",
+      "date": "2026-07-15"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Video appears to show United employee threaten to call ICE on customer",
+      "url": "https://www.cbsnews.com/news/united-airlines-employee-threatens-to-call-ice-sfo-passenger-act-like-a-citizen/?utm_source=lootura.com",
+      "publishedAt": "2026-07-21T01:43:54.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
+    {
+      "title": "Senators demand ICE answers and body cameras after deadly shootings in Maine and Houston",
+      "url": "https://www.pbs.org/newshour/nation/senators-demand-ice-answers-and-body-cameras-after-deadly-shootings-in-maine-and-houston?utm_source=lootura.com",
+      "publishedAt": "2026-07-20T19:10:30.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
+    }
+  ],
+  "evidenceCount": 2
+}

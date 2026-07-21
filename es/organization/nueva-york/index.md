@@ -3,7 +3,7 @@
 > Sigue la actividad de Nueva York en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-20T21:09:57.635Z
+- Actualizado: 2026-07-21T02:27:26.549Z
 - Canonical: https://atlas.lootura.com/es/organization/nueva-york
 
 ## Cambios recientes
@@ -70,4 +70,4 @@ Date: 2026-07-17
 
 ## Fuentes
 
-- [Bailes y baño de champán: la euforia de España en Nueva York](https://www.abc.es/deportes/futbol/mundial/fiesta-jugadores-tras-pitido-final-enamora-espana-20260720143138-nt.html?utm_source=lootura.com) — 2026-07-20T17:40:57.000Z
+- [Un pasillo de honor, jugadores de traje y la Familia Real de rojo, los Reyes celebran el triunfo en el Mundial: "Habéis ganado con gallardía"](https://amp.elmundo.es/deportes/futbol/mundial-de-futbol/2026/07/20/6a5e4eb4fc6c83756c8b459c.html?utm_source=lootura.com) — 2026-07-20T16:37:16.000Z

@@ -64,4 +64,4 @@ Date: 2026-07-08
 
 ## Sources
 
-- [In Venezuela’s Rubble, a Search for the Family Pets](https://www.nytimes.com/2026/07/20/world/americas/venezuela-earthquakes-volunteer-pets.html?utm_source=lootura.com) — 2026-07-20T18:51:24.000Z
+No public source links.

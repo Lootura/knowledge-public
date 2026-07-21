@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/new-york/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/new-york/index.json",
   "description": "Follow New York, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-20T21:10:24.211Z",
+  "updatedAt": "2026-07-21T02:27:47.058Z",
   "aliases": [
     "New York City"
   ],
@@ -70,13 +70,7 @@
       "url": "https://www.cbsnews.com/video/police-share-details-on-suspect-timeline-in-attack-on-nyc-federal-building/?utm_source=lootura.com",
       "publishedAt": "2026-07-20T20:03:49.000Z",
       "sourceId": "lootura-us-cbs-news"
-    },
-    {
-      "title": "Explosion outside New York federal building in Manhattan apparently caused by fireworks, sources say",
-      "url": "https://www.cbsnews.com/newyork/news/incendiary-device-federal-building-nyc-manhattan/?utm_source=lootura.com",
-      "publishedAt": "2026-07-20T17:49:55.000Z",
-      "sourceId": "lootura-us-cbs-news"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 0
 }

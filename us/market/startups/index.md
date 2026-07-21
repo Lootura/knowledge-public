@@ -3,7 +3,7 @@
 > Follow Startups, a tracked market, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: market
-- Updated: 2026-07-20T18:00:06.130Z
+- Updated: 2026-07-21T02:27:47.058Z
 - Canonical: https://atlas.lootura.com/us/market/startups
 
 ## Recent changes
@@ -34,4 +34,4 @@ Date: 2026-07-10
 
 ## Sources
 
-No public source links.
+- [U.S. Virgin Islands' housing authority accused of corruption as federal funding is suspended](https://www.pbs.org/newshour/nation/u-s-virgin-islands-housing-authority-accused-of-corruption-as-federal-funding-is-suspended?utm_source=lootura.com) — 2026-07-20T22:37:45.000Z

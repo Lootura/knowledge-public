@@ -1,9 +1,9 @@
-# Ferran Torres
+# Ferrán Torres
 
-> Sigue la actividad de Ferran Torres en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
+> Sigue la actividad de Ferrán Torres en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-20T21:09:57.635Z
+- Actualizado: 2026-07-21T02:27:26.549Z
 - Canonical: https://atlas.lootura.com/es/organization/ferran-torres
 
 ## Cambios recientes
@@ -16,7 +16,7 @@ Date: 2026-07-20
 
 ### Discovered by Atlas
 
-Ferran Torres first entered the public knowledge record with source-backed evidence.
+Ferrán Torres first entered the public knowledge record with source-backed evidence.
 
 Date: 2026-07-19
 
@@ -40,5 +40,5 @@ Date: 2026-07-19
 
 ## Fuentes
 
-- [Ferran 'españoliza' un lema de Trump](https://www.abc.es/deportes/futbol/mundial/make-spain-great-again-lema-trumpista-ferran-20260720215445-nt.html?utm_source=lootura.com) — 2026-07-20T20:21:12.000Z
+- [De Balogun a los estadios llenos: luces y sombras del Mundial de Infantino y Trump](https://www.abc.es/deportes/futbol/mundial/balogun-estadios-llenos-luces-sombras-mundial-infantino-20260720235717-nt.html?utm_source=lootura.com) — 2026-07-21T00:05:37.000Z
 - [En Foios, el pueblo de Ferran Torres: “Es un ‘bon xiquet’, el mejor del mundo y el más guapo”](https://elpais.com/deportes/2026-07-20/en-foios-el-pueblo-de-ferran-torres-es-un-bon-xiquet-el-mejor-del-mundo-y-el-mas-guapo.html?utm_source=lootura.com) — 2026-07-20T12:30:07.000Z

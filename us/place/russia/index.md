@@ -3,20 +3,20 @@
 > Follow Russia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-20T21:10:24.211Z
+- Updated: 2026-07-21T02:27:47.058Z
 - Canonical: https://atlas.lootura.com/us/place/russia
 
 ## Recent changes
 
-### What it's like inside Ukraine during a massive Russian ballistic missile attack
-
-Russia targeted Kyiv, Ukraine, in one of its largest missile assaults of the war over the weekend, Ukrainian President Volodymyr Zelenskyy said. CBS News' Aidan Stretch has the latest from Kyiv.
-
-Date: 2026-07-20
-
 ### Ukraine fires 400 drones toward Moscow as Zelenskyy grapples with protests
 
 The blitz came hours after Russia bombarded Kyiv and other Ukrainian cities with ballistic missiles in a relentless cycle of tit-for-tat strikes.
+
+Date: 2026-07-20
+
+### What it's like inside Ukraine during a massive Russian ballistic missile attack
+
+Russia targeted Kyiv, Ukraine, in one of its largest missile assaults of the war over the weekend, Ukrainian President Volodymyr Zelenskyy said. CBS News' Aidan Stretch has the latest from Kyiv.
 
 Date: 2026-07-20
 
@@ -70,5 +70,4 @@ Date: 2026-07-18
 
 ## Sources
 
-- [What it's like inside Ukraine during a massive Russian ballistic missile attack](https://www.cbsnews.com/video/what-its-like-inside-ukraine-during-a-massive-russian-ballistic-missile-attack/?utm_source=lootura.com) — 2026-07-20T13:36:01.000Z
 - [Ukraine fires 400 drones toward Moscow as Zelenskyy grapples with protests](https://www.pbs.org/newshour/world/ukraine-fires-400-drones-toward-moscow-as-zelenskyy-grapples-with-protests?utm_source=lootura.com) — 2026-07-20T16:36:32.000Z

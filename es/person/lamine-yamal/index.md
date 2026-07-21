@@ -3,7 +3,7 @@
 > Sigue la actividad de Lamine Yamal en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-20T21:09:57.635Z
+- Actualizado: 2026-07-21T02:27:26.549Z
 - Canonical: https://atlas.lootura.com/es/person/lamine-yamal
 
 ## Cambios recientes
@@ -70,5 +70,4 @@ Date: 2026-07-10
 
 ## Fuentes
 
-- [Lamine Yamal reta a Paredes a pelear con Gavi en La Velada del Año](https://www.abc.es/deportes/futbol/mundial/lamine-yamal-reta-paredes-pelear-gavi-velada-20260720205617-nt_amp.html?utm_source=lootura.com) — 2026-07-20T18:56:17.000Z
 - [De Keyne, el hermano de Lamine Yamal, a la familia numerosa de Cucurella: los apoyos de los jugadores de la selección española fuera del campo](https://elpais.com/gente/2026-07-20/de-keyne-el-hermano-de-lamine-yamal-a-la-familia-numerosa-de-cucurella-los-apoyos-de-los-jugadores-de-la-seleccion-espanola-dentro-y-fuera-del-campo.html?utm_source=lootura.com) — 2026-07-20T17:18:27.000Z

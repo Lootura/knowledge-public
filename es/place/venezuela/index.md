@@ -70,4 +70,4 @@ Date: 2026-07-15
 
 ## Fuentes
 
-- [Gobernar entre escombros: legitimidad ausente y negociación bajo tutela en Venezuela](https://theconversation.com/gobernar-entre-escombros-legitimidad-ausente-y-negociacion-bajo-tutela-en-venezuela-287742?utm_source=lootura.com) — 2026-07-20T16:42:14.000Z
+No public source links.

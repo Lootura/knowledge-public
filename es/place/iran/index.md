@@ -3,20 +3,20 @@
 > Sigue la actividad de Iran en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-20T21:09:57.635Z
+- Actualizado: 2026-07-21T02:27:26.549Z
 - Canonical: https://atlas.lootura.com/es/place/iran
 
 ## Cambios recientes
 
-### El precio del petróleo modera su escalada ante una posible reapertura de las negociaciones entre Irán y EE UU
-
-La persistencia de la incertidumbre sobre Oriente Próximo ha llevado al precio del petróleo a superar por primera vez en más de un mes los 91 dólares por barril. Una escalada que se ha visto frenada tras el anuncio por parte del régimen iraní de contactos diplomáticos con los mediadores para restablecer las negociacion.
-
-Date: 2026-07-20
-
 ### Estados Unidos lanza una nueva oleada de bombardeos sobre Irán
 
 El Mando Central de las Fuerzas Armadas estadounidenses (Centcom) ha informado este lunes de que ha lanzado una nueva oleada de bombardeos sobre.
+
+Date: 2026-07-20
+
+### El precio del petróleo modera su escalada ante una posible reapertura de las negociaciones entre Irán y EE UU
+
+La persistencia de la incertidumbre sobre Oriente Próximo ha llevado al precio del petróleo a superar por primera vez en más de un mes los 91 dólares por barril. Una escalada que se ha visto frenada tras el anuncio por parte del régimen iraní de contactos diplomáticos con los mediadores para restablecer las negociacion.
 
 Date: 2026-07-20
 
@@ -70,5 +70,4 @@ Date: 2026-07-19
 
 ## Fuentes
 
-- [El precio del petróleo modera su escalada ante una posible reapertura de las negociaciones entre Irán y EE UU](https://cincodias.elpais.com/mercados-financieros/2026-07-20/la-bolsa-y-el-ibex-35.html?utm_source=lootura.com) — 2026-07-20T15:48:04.000Z
 - [Estados Unidos lanza una nueva oleada de bombardeos sobre Irán](https://theobjective.com/internacional/2026-07-20/eeuu-nueva-oleada-bombardeos-iran/?amp=&utm_source=lootura.com) — 2026-07-20T20:48:15.000Z

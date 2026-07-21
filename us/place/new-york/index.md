@@ -3,7 +3,7 @@
 > Follow New York, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-20T21:10:24.211Z
+- Updated: 2026-07-21T02:27:47.058Z
 - Canonical: https://atlas.lootura.com/us/place/new-york
 
 ## Recent changes
@@ -71,4 +71,3 @@ Date: 2026-07-19
 ## Sources
 
 - [Watch: Officials say suspect in Manhattan explosion had anti-ICE literature](https://www.cbsnews.com/video/police-share-details-on-suspect-timeline-in-attack-on-nyc-federal-building/?utm_source=lootura.com) — 2026-07-20T20:03:49.000Z
-- [Explosion outside New York federal building in Manhattan apparently caused by fireworks, sources say](https://www.cbsnews.com/newyork/news/incendiary-device-federal-building-nyc-manhattan/?utm_source=lootura.com) — 2026-07-20T17:49:55.000Z

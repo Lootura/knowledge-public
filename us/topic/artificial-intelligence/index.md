@@ -3,10 +3,16 @@
 > Follow Artificial intelligence, a tracked topic, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: topic
-- Updated: 2026-07-20T21:10:24.211Z
+- Updated: 2026-07-21T02:27:47.058Z
 - Canonical: https://atlas.lootura.com/us/topic/artificial-intelligence
 
 ## Recent changes
+
+### Detailed maps of European wetlands reveal overlooked patches of ecosystems
+
+Nature, Published online: 20 July 2026; doi:10.1038/d41586-026-02211-2 Satellite images have been analysed by a machine-learning algorithm to produce high-resolution maps of wetland environments — a boon for conservation efforts.
+
+Date: 2026-07-21
 
 ### Detailed maps of European wetlands reveal overlooked patches of ecosystems
 
@@ -62,12 +68,6 @@ Nature, Published online: 16 July 2026; doi:10.1038/d41586-026-02214-z As automa
 
 Date: 2026-07-19
 
-### A global capital for AI safety is emerging — and it’s not in Silicon Valley
-
-Nature, Published online: 16 July 2026; doi:10.1038/d41586-026-01389-9 The United Kingdom is gaining influence through its growing AI-safety ecosystem.
-
-Date: 2026-07-19
-
 ## Sources
 
-- [Detailed maps of European wetlands reveal overlooked patches of ecosystems](https://www.nature.com/articles/d41586-026-02211-2?utm_source=lootura.com) — 2026-07-20T21:10:28.422Z
+- [Detailed maps of European wetlands reveal overlooked patches of ecosystems](https://www.nature.com/articles/d41586-026-02211-2?utm_source=lootura.com) — 2026-07-21T02:27:51.408Z

@@ -8,13 +8,23 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/donald-trump/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/donald-trump/index.json",
   "description": "Follow Donald Trump, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-20T21:10:24.211Z",
+  "updatedAt": "2026-07-21T02:27:47.058Z",
   "aliases": [
     "President Donald Trump",
     "President Trump",
     "Trump"
   ],
   "changes": [
+    {
+      "title": "New round of strikes targeting Iran underway, U.S. officials say",
+      "summary": "A 10th straight night of U.S. strikes on Iran is underway as President Trump vows Tehran will pay for the deaths of three American soldiers over the weekend. CBS News senior national security correspondent Charlie D'Agata reports. Then, global affairs analyst Jonathan Wachtel joins to discuss the state of the war.",
+      "date": "2026-07-21"
+    },
+    {
+      "title": "Trump to Impose 50% Tariff on Many Canadian Goods",
+      "summary": "The administration will use an untested legal provision to put significant duties on Canadian exports, reigniting a clash with one of America’s biggest trading partners.",
+      "date": "2026-07-21"
+    },
     {
       "title": "North Sea Drilling Offers First Test for Burnham’s Relationship With Trump",
       "summary": "Andy Burnham has not yet met President Trump, but the two men will be expected to speak shortly after Mr. Burnham becomes prime minister.",
@@ -31,23 +41,8 @@
       "date": "2026-07-20"
     },
     {
-      "title": "Trump administration says Iran war reaching ‘time of ambiguity’ as military strikes escalate",
-      "summary": "Tensions rise between the U.S. and Iran as the two sides exchange fire for the tenth consecutive day after the Pentagon identifies two U.S. soldiers killed in an Iranian strike on a U.S. air base in Jordan. NBC News correspondents Monica Alba, Keir Simmons, Courtney Kube and NBC News military analyst retired Col. Steve.",
-      "date": "2026-07-20"
-    },
-    {
-      "title": "Sen. Darline Graham says she is running for a full 6-year term after Trump urged her to jump into the race",
-      "summary": "Sen. Darline Graham, R-S.C., said she will run for a full term for the seat held by her late brother, Lindsey Graham, days after President Donald Trump said he urged her to jump into the race.",
-      "date": "2026-07-20"
-    },
-    {
       "title": "DOJ sought phone records of journalists and relatives in effort to unmask sources of Air Force One security report",
       "summary": "A court document says the Trump administration sought New York Times journalists' phone records and even those of some of their relatives in an attempt to unmask the confidential sources of reporters who wrote about Trump's Qatari-gifted Air Force One jet.",
-      "date": "2026-07-20"
-    },
-    {
-      "title": "Trump to Impose 50% Tariff on Many Canadian Goods",
-      "summary": "The administration will use an untested legal provision to put significant duties on Canadian exports, reigniting a trade clash with one of America’s biggest trading partners.",
       "date": "2026-07-20"
     },
     {
@@ -56,17 +51,28 @@
       "date": "2026-07-20"
     },
     {
-      "title": "U.S. soldier killed in Iraq, Trump orders more strikes against Iran",
-      "summary": "A U.S. service member was killed in Iraq on Saturday, CENTCOM announced. Separately, unidentified remains were found in Jordan at the location where a U.S. service member went missing and two others were killed following an Iranian strike. Taurean Small reports.",
+      "title": "Trump imposes 50% tariffs on dairy, alcohol, and cars from Canada",
+      "summary": "The Trump administration imposed 50% tariffs on three categories of imports from Canada, dairy, alcohol, and cars, citing discriminatory actions. NBC News' Monica Alba reports on how Trump is also considering additional tariffs due to the Canadian wildfires.",
       "date": "2026-07-20"
     },
     {
-      "title": "Trump says new Air Force One will be sent away for upgrades, amid security concerns",
-      "summary": "President Trump said the Air Force One plane that was donated by Qatar will be sent away for upgrades, amid swirling concerns about its security features.",
+      "title": "Tamara Keith and Jasmine Wright on the political fallout of Trump's address",
+      "summary": "NPR's Tamara Keith and Jasmine Wright of NOTUS join Amna Nawaz to discuss the latest political news, including Arizona's primary elections, where Republicans will choose a nominee to challenge the incumbent Democratic governor, Troy Jackson appearing to clinch the Democratic nomination for Senate following Graham Platn.",
+      "date": "2026-07-20"
+    },
+    {
+      "title": "Will a Sex Scandal Involving Mark Lamb Matter in Arizona GOP House Primary?",
+      "summary": "The contest in a deeply religious part of the state is a test of the power of a Trump endorsement.",
       "date": "2026-07-20"
     }
   ],
   "sources": [
+    {
+      "title": "New round of strikes targeting Iran underway, U.S. officials say",
+      "url": "https://www.cbsnews.com/video/new-round-strikes-targeting-iran-underway-officials/?utm_source=lootura.com",
+      "publishedAt": "2026-07-21T01:13:00.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
     {
       "title": "How recent killings of U.S. soldiers could affect the war with Iran",
       "url": "https://www.cbsnews.com/video/how-recent-killings-of-us-soldiers-could-affect-the-war-with-iran/?utm_source=lootura.com",
@@ -80,16 +86,16 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "Trump administration says Iran war reaching ‘time of ambiguity’ as military strikes escalate",
-      "url": "https://www.nbcnews.com/meet-the-press/video/trump-administration-says-iran-war-reaching-time-of-ambiguity-as-military-strikes-escalate-266969669682?utm_source=lootura.com",
-      "publishedAt": "2026-07-20T20:37:01.000Z",
+      "title": "Trump imposes 50% tariffs on dairy, alcohol, and cars from Canada",
+      "url": "https://www.nbcnews.com/video/trump-imposes-50-tariffs-on-dairy-alcohol-and-cars-from-canada-266971717891?utm_source=lootura.com",
+      "publishedAt": "2026-07-20T21:52:47.000Z",
       "sourceId": "lootura-us-nbc-news-politics"
     },
     {
-      "title": "Sen. Darline Graham says she is running for a full 6-year term after Trump urged her to jump into the race",
-      "url": "https://www.nbcnews.com/politics/2026-election/sen-darline-graham-says-running-full-6-year-term-trump-urged-jump-race-rcna588415?utm_source=lootura.com",
-      "publishedAt": "2026-07-20T18:52:03.000Z",
-      "sourceId": "lootura-us-nbc-news-politics"
+      "title": "Tamara Keith and Jasmine Wright on the political fallout of Trump's address",
+      "url": "https://www.pbs.org/newshour/show/tamara-keith-and-jasmine-wright-on-the-political-fallout-of-trumps-address?utm_source=lootura.com",
+      "publishedAt": "2026-07-20T22:30:46.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
     },
     {
       "title": "DOJ sought phone records of journalists and relatives in effort to unmask sources of Air Force One security report",
@@ -105,16 +111,22 @@
     },
     {
       "title": "Trump to Impose 50% Tariff on Many Canadian Goods",
-      "url": "https://www.nytimes.com/2026/07/20/business/economy/trump-to-impose-50-tariff-on-many-canadian-goods.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-20T21:00:35.000Z",
-      "sourceId": "lootura-us-the-new-york-times"
+      "url": "https://www.nytimes.com/2026/07/20/business/economy/trump-tariffs-canada.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-21T00:25:52.000Z",
+      "sourceId": "lootura-us-the-new-york-times-politics"
+    },
+    {
+      "title": "Will a Sex Scandal Involving Mark Lamb Matter in Arizona GOP House Primary?",
+      "url": "https://www.nytimes.com/2026/07/20/us/politics/arizona-house-primary-lamb.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-20T22:28:12.000Z",
+      "sourceId": "lootura-us-the-new-york-times-politics"
     },
     {
       "title": "Lindsey Graham’s Sister, Darline Graham, Says She Will Run to Succeed Him",
       "url": "https://www.nytimes.com/2026/07/20/us/politics/darline-graham-south-carolina-senate-race.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-20T20:07:45.000Z",
+      "publishedAt": "2026-07-20T21:26:50.000Z",
       "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 8
+  "evidenceCount": 11
 }

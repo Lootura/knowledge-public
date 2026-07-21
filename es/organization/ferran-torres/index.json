@@ -1,14 +1,14 @@
 {
   "id": "es-ferran-torres",
-  "name": "Ferran Torres",
+  "name": "Ferrán Torres",
   "type": "place",
   "locale": "es",
   "canonicalPath": "/es/organization/ferran-torres",
   "canonicalUrl": "https://atlas.lootura.com/es/organization/ferran-torres",
   "markdownUrl": "https://atlas.lootura.com/es/organization/ferran-torres/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/ferran-torres/index.json",
-  "description": "Sigue la actividad de Ferran Torres en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-20T21:09:57.635Z",
+  "description": "Sigue la actividad de Ferrán Torres en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
+  "updatedAt": "2026-07-21T02:27:26.549Z",
   "aliases": [],
   "changes": [
     {
@@ -18,7 +18,7 @@
     },
     {
       "title": "Discovered by Atlas",
-      "summary": "Ferran Torres first entered the public knowledge record with source-backed evidence.",
+      "summary": "Ferrán Torres first entered the public knowledge record with source-backed evidence.",
       "date": "2026-07-19"
     },
     {
@@ -39,9 +39,9 @@
   ],
   "sources": [
     {
-      "title": "Ferran 'españoliza' un lema de Trump",
-      "url": "https://www.abc.es/deportes/futbol/mundial/make-spain-great-again-lema-trumpista-ferran-20260720215445-nt.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-20T20:21:12.000Z",
+      "title": "De Balogun a los estadios llenos: luces y sombras del Mundial de Infantino y Trump",
+      "url": "https://www.abc.es/deportes/futbol/mundial/balogun-estadios-llenos-luces-sombras-mundial-infantino-20260720235717-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-21T00:05:37.000Z",
       "sourceId": "lootura-es-abc"
     },
     {
@@ -51,5 +51,5 @@
       "sourceId": "lootura-es-el-pais"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

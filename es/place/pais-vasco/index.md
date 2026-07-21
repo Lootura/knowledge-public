@@ -3,7 +3,7 @@
 > Sigue la actividad de País Vasco en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-20T21:09:57.635Z
+- Actualizado: 2026-07-21T02:27:26.549Z
 - Canonical: https://atlas.lootura.com/es/place/pais-vasco
 
 ## Cambios recientes
@@ -72,4 +72,3 @@ Date: 2026-07-15
 
 - [Reconstrucción de los ataques violentos a los seguidores de La Roja](https://www.elcorreo.com/politica/reconstruccion-ataques-violentos-seguidores-roja-20260720143810-nt.html?utm_source=lootura.com) — 2026-07-20T12:38:10.000Z
 - [Radicales abertzales utilizaron porras extensibles, guantes reforzados y gas pimienta contra los seguidores de 'La Roja'](https://www.elmundo.es/pais-vasco/2026/07/20/6a5de628e85eced23e8b4572.html?utm_source=lootura.com) — 2026-07-20T10:36:14.000Z
-- [¿Noticias locales? Cuando los chatbots solo reproducen el contenido de los grandes medios nacionales](https://theconversation.com/noticias-locales-cuando-los-chatbots-solo-reproducen-el-contenido-de-los-grandes-medios-nacionales-286887?utm_source=lootura.com) — 2026-07-20T16:23:52.000Z

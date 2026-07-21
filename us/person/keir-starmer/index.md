@@ -28,5 +28,4 @@ Date: 2026-07-20
 
 ## Sources
 
-- [Andy Burnham formally appointed U.K. prime minster](https://www.nbcnews.com/now/video/andy-burnham-formally-appointed-u-k-prime-minster-266940485538?utm_source=lootura.com) — 2026-07-20T11:51:32.000Z
-- [Why Britain is getting a new prime minister without a general election](https://www.pbs.org/newshour/world/why-britain-is-getting-a-new-prime-minister-without-a-general-election?utm_source=lootura.com) — 2026-07-20T12:32:43.000Z
+No public source links.

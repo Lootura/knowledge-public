@@ -3,10 +3,22 @@
 > Follow Donald Trump, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-07-20T21:10:24.211Z
+- Updated: 2026-07-21T02:27:47.058Z
 - Canonical: https://atlas.lootura.com/us/person/donald-trump
 
 ## Recent changes
+
+### New round of strikes targeting Iran underway, U.S. officials say
+
+A 10th straight night of U.S. strikes on Iran is underway as President Trump vows Tehran will pay for the deaths of three American soldiers over the weekend. CBS News senior national security correspondent Charlie D'Agata reports. Then, global affairs analyst Jonathan Wachtel joins to discuss the state of the war.
+
+Date: 2026-07-21
+
+### Trump to Impose 50% Tariff on Many Canadian Goods
+
+The administration will use an untested legal provision to put significant duties on Canadian exports, reigniting a clash with one of America’s biggest trading partners.
+
+Date: 2026-07-21
 
 ### North Sea Drilling Offers First Test for Burnham’s Relationship With Trump
 
@@ -26,27 +38,9 @@ President Trump reacted to the recent killings of U.S. soldiers in the Middle Ea
 
 Date: 2026-07-20
 
-### Trump administration says Iran war reaching ‘time of ambiguity’ as military strikes escalate
-
-Tensions rise between the U.S. and Iran as the two sides exchange fire for the tenth consecutive day after the Pentagon identifies two U.S. soldiers killed in an Iranian strike on a U.S. air base in Jordan. NBC News correspondents Monica Alba, Keir Simmons, Courtney Kube and NBC News military analyst retired Col. Steve.
-
-Date: 2026-07-20
-
-### Sen. Darline Graham says she is running for a full 6-year term after Trump urged her to jump into the race
-
-Sen. Darline Graham, R-S.C., said she will run for a full term for the seat held by her late brother, Lindsey Graham, days after President Donald Trump said he urged her to jump into the race.
-
-Date: 2026-07-20
-
 ### DOJ sought phone records of journalists and relatives in effort to unmask sources of Air Force One security report
 
 A court document says the Trump administration sought New York Times journalists' phone records and even those of some of their relatives in an attempt to unmask the confidential sources of reporters who wrote about Trump's Qatari-gifted Air Force One jet.
-
-Date: 2026-07-20
-
-### Trump to Impose 50% Tariff on Many Canadian Goods
-
-The administration will use an untested legal provision to put significant duties on Canadian exports, reigniting a trade clash with one of America’s biggest trading partners.
 
 Date: 2026-07-20
 
@@ -56,25 +50,33 @@ Ms. Graham, who filled her brother’s Senate seat in South Carolina after his d
 
 Date: 2026-07-20
 
-### U.S. soldier killed in Iraq, Trump orders more strikes against Iran
+### Trump imposes 50% tariffs on dairy, alcohol, and cars from Canada
 
-A U.S. service member was killed in Iraq on Saturday, CENTCOM announced. Separately, unidentified remains were found in Jordan at the location where a U.S. service member went missing and two others were killed following an Iranian strike. Taurean Small reports.
+The Trump administration imposed 50% tariffs on three categories of imports from Canada, dairy, alcohol, and cars, citing discriminatory actions. NBC News' Monica Alba reports on how Trump is also considering additional tariffs due to the Canadian wildfires.
 
 Date: 2026-07-20
 
-### Trump says new Air Force One will be sent away for upgrades, amid security concerns
+### Tamara Keith and Jasmine Wright on the political fallout of Trump's address
 
-President Trump said the Air Force One plane that was donated by Qatar will be sent away for upgrades, amid swirling concerns about its security features.
+NPR's Tamara Keith and Jasmine Wright of NOTUS join Amna Nawaz to discuss the latest political news, including Arizona's primary elections, where Republicans will choose a nominee to challenge the incumbent Democratic governor, Troy Jackson appearing to clinch the Democratic nomination for Senate following Graham Platn.
+
+Date: 2026-07-20
+
+### Will a Sex Scandal Involving Mark Lamb Matter in Arizona GOP House Primary?
+
+The contest in a deeply religious part of the state is a test of the power of a Trump endorsement.
 
 Date: 2026-07-20
 
 ## Sources
 
+- [New round of strikes targeting Iran underway, U.S. officials say](https://www.cbsnews.com/video/new-round-strikes-targeting-iran-underway-officials/?utm_source=lootura.com) — 2026-07-21T01:13:00.000Z
 - [How recent killings of U.S. soldiers could affect the war with Iran](https://www.cbsnews.com/video/how-recent-killings-of-us-soldiers-could-affect-the-war-with-iran/?utm_source=lootura.com) — 2026-07-20T19:27:21.000Z
 - [Trump to keep using old Air Force One while new plane gets security upgrades](https://www.cbsnews.com/news/trump-air-force-one-maxed-out-security-capabilities-qatar/?utm_source=lootura.com) — 2026-07-20T17:35:23.000Z
-- [Trump administration says Iran war reaching ‘time of ambiguity’ as military strikes escalate](https://www.nbcnews.com/meet-the-press/video/trump-administration-says-iran-war-reaching-time-of-ambiguity-as-military-strikes-escalate-266969669682?utm_source=lootura.com) — 2026-07-20T20:37:01.000Z
-- [Sen. Darline Graham says she is running for a full 6-year term after Trump urged her to jump into the race](https://www.nbcnews.com/politics/2026-election/sen-darline-graham-says-running-full-6-year-term-trump-urged-jump-race-rcna588415?utm_source=lootura.com) — 2026-07-20T18:52:03.000Z
+- [Trump imposes 50% tariffs on dairy, alcohol, and cars from Canada](https://www.nbcnews.com/video/trump-imposes-50-tariffs-on-dairy-alcohol-and-cars-from-canada-266971717891?utm_source=lootura.com) — 2026-07-20T21:52:47.000Z
+- [Tamara Keith and Jasmine Wright on the political fallout of Trump's address](https://www.pbs.org/newshour/show/tamara-keith-and-jasmine-wright-on-the-political-fallout-of-trumps-address?utm_source=lootura.com) — 2026-07-20T22:30:46.000Z
 - [DOJ sought phone records of journalists and relatives in effort to unmask sources of Air Force One security report](https://www.pbs.org/newshour/nation/doj-sought-phone-records-of-journalists-and-relatives-in-effort-to-unmask-sources-of-air-force-one-security-report?utm_source=lootura.com) — 2026-07-20T18:34:58.000Z
 - [North Sea Drilling Offers First Test for Burnham’s Relationship With Trump](https://www.nytimes.com/2026/07/20/world/europe/burnham-trump-uk-us-relationship-north-sea-oil.html?utm_source=lootura.com) — 2026-07-20T09:32:27.000Z
-- [Trump to Impose 50% Tariff on Many Canadian Goods](https://www.nytimes.com/2026/07/20/business/economy/trump-to-impose-50-tariff-on-many-canadian-goods.html?utm_source=lootura.com) — 2026-07-20T21:00:35.000Z
-- [Lindsey Graham’s Sister, Darline Graham, Says She Will Run to Succeed Him](https://www.nytimes.com/2026/07/20/us/politics/darline-graham-south-carolina-senate-race.html?utm_source=lootura.com) — 2026-07-20T20:07:45.000Z
+- [Trump to Impose 50% Tariff on Many Canadian Goods](https://www.nytimes.com/2026/07/20/business/economy/trump-tariffs-canada.html?utm_source=lootura.com) — 2026-07-21T00:25:52.000Z
+- [Will a Sex Scandal Involving Mark Lamb Matter in Arizona GOP House Primary?](https://www.nytimes.com/2026/07/20/us/politics/arizona-house-primary-lamb.html?utm_source=lootura.com) — 2026-07-20T22:28:12.000Z
+- [Lindsey Graham’s Sister, Darline Graham, Says She Will Run to Succeed Him](https://www.nytimes.com/2026/07/20/us/politics/darline-graham-south-carolina-senate-race.html?utm_source=lootura.com) — 2026-07-20T21:26:50.000Z

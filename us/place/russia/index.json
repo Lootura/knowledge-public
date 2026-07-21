@@ -8,17 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/russia/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/russia/index.json",
   "description": "Follow Russia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-20T21:10:24.211Z",
+  "updatedAt": "2026-07-21T02:27:47.058Z",
   "aliases": [],
   "changes": [
     {
-      "title": "What it's like inside Ukraine during a massive Russian ballistic missile attack",
-      "summary": "Russia targeted Kyiv, Ukraine, in one of its largest missile assaults of the war over the weekend, Ukrainian President Volodymyr Zelenskyy said. CBS News' Aidan Stretch has the latest from Kyiv.",
+      "title": "Ukraine fires 400 drones toward Moscow as Zelenskyy grapples with protests",
+      "summary": "The blitz came hours after Russia bombarded Kyiv and other Ukrainian cities with ballistic missiles in a relentless cycle of tit-for-tat strikes.",
       "date": "2026-07-20"
     },
     {
-      "title": "Ukraine fires 400 drones toward Moscow as Zelenskyy grapples with protests",
-      "summary": "The blitz came hours after Russia bombarded Kyiv and other Ukrainian cities with ballistic missiles in a relentless cycle of tit-for-tat strikes.",
+      "title": "What it's like inside Ukraine during a massive Russian ballistic missile attack",
+      "summary": "Russia targeted Kyiv, Ukraine, in one of its largest missile assaults of the war over the weekend, Ukrainian President Volodymyr Zelenskyy said. CBS News' Aidan Stretch has the latest from Kyiv.",
       "date": "2026-07-20"
     },
     {
@@ -64,17 +64,11 @@
   ],
   "sources": [
     {
-      "title": "What it's like inside Ukraine during a massive Russian ballistic missile attack",
-      "url": "https://www.cbsnews.com/video/what-its-like-inside-ukraine-during-a-massive-russian-ballistic-missile-attack/?utm_source=lootura.com",
-      "publishedAt": "2026-07-20T13:36:01.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
-    {
       "title": "Ukraine fires 400 drones toward Moscow as Zelenskyy grapples with protests",
       "url": "https://www.pbs.org/newshour/world/ukraine-fires-400-drones-toward-moscow-as-zelenskyy-grapples-with-protests?utm_source=lootura.com",
       "publishedAt": "2026-07-20T16:36:32.000Z",
       "sourceId": "lootura-us-pbs-newshour"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

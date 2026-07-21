@@ -28,4 +28,4 @@ Date: 2026-07-18
 
 ## Sources
 
-- [New web tool maps fossil locations across ancient continents in seconds](https://phys.org/news/2026-07-web-tool-fossil-ancient-continents.html?utm_source=lootura.com) — 2026-07-20T20:00:07.000Z
+No public source links.

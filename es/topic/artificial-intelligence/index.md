@@ -3,7 +3,7 @@
 > Sigue la actividad de Artificial intelligence en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: topic
-- Actualizado: 2026-07-20T21:09:57.635Z
+- Actualizado: 2026-07-21T02:27:26.549Z
 - Canonical: https://atlas.lootura.com/es/topic/artificial-intelligence
 
 ## Cambios recientes
@@ -40,4 +40,4 @@ Date: 2026-07-10
 
 ## Fuentes
 
-- [Google prepara un chip secreto que promete disparar el rendimiento de su inteligencia artificial](https://hipertextual.com/inteligencia-artificial/google-chip-frozen-v2-inteligencia-artificial/?utm_source=lootura.com) — 2026-07-20T17:49:51.000Z
+- [TSMC, Samsung y SK Hynix pesan más del 25% en los emergentes](https://www.expansion.com/mercados/2026/07/21/6a5e8f8ee5fdeab7168b4575.html?utm_source=lootura.com) — 2026-07-20T23:10:31.000Z

@@ -3,10 +3,28 @@
 > Follow Maine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-20T21:10:24.211Z
+- Updated: 2026-07-21T02:27:47.058Z
 - Canonical: https://atlas.lootura.com/us/place/maine
 
 ## Recent changes
+
+### Democrats avoid a messy fight in Maine, but uncertainty lingers: From the Politics Desk
+
+Welcome to From the Politics Desk, a daily newsletter that brings you the NBC News Politics team’s latest reporting and analysis from the White House, Capitol Hill and the campaign trail.
+
+Date: 2026-07-20
+
+### Senators demand ICE answers and body cameras after deadly shootings in Maine and Houston
+
+Dozens of Democratic U.S. senators and Maine's Independent senator are demanding more details from Immigration and Customs Enforcement about vetting practices for new agents.
+
+Date: 2026-07-20
+
+### 5 Things to Know About the Maine Senate Candidate Troy Jackson
+
+Mr. Jackson, who has emerged as the clear front-runner to replace Graham Platner, is a Republican turned Democrat who is seen as close to Mr. Platner on policy.
+
+Date: 2026-07-20
 
 ### In Maine Senate Race, Democrats Go From Chaos to Coronation
 
@@ -23,18 +41,6 @@ Date: 2026-07-20
 ### Maine Democratic Senate race narrows as candidates rally behind Troy Jackson
 
 The crowded Maine Senate race to replace Graham Platner has narrowed as Democrats rallied around former state Senate President Troy Jackson in the leadup to the party's nominating convention on Saturday.
-
-Date: 2026-07-20
-
-### Democrats avoid a messy fight in Maine, but uncertainty lingers: From the Politics Desk
-
-Welcome to From the Politics Desk, a daily newsletter that brings you the NBC News Politics team’s latest reporting and analysis from the White House, Capitol Hill and the campaign trail.
-
-Date: 2026-07-20
-
-### Senators demand ICE answers and body cameras after deadly shootings in Maine and Houston
-
-Dozens of Democratic U.S. senators and Maine's Independent senator are demanding more details from Immigration and Customs Enforcement about vetting practices for new agents.
 
 Date: 2026-07-20
 
@@ -62,16 +68,9 @@ SANFORD, Maine — Maine Secretary of State Shenna Bellows ended her Senate camp
 
 Date: 2026-07-19
 
-### In Maine, Bellows Ends Senate Bid, as Jackson Builds Momentum
-
-The Maine secretary of state ended her run in a crowded race to replace Graham Platner as the Democratic Senate nominee.
-
-Date: 2026-07-19
-
 ## Sources
 
-- [Maine Democratic Senate race narrows as candidates rally behind Troy Jackson](https://www.cbsnews.com/news/maine-senate-democrats-troy-jackson-graham-platner/?utm_source=lootura.com) — 2026-07-20T13:41:54.000Z
-- [Democrats avoid a messy fight in Maine, but uncertainty lingers: From the Politics Desk](https://www.nbcnews.com/politics/politics-news/democrats-avoid-messy-fight-maine-uncertainty-lingers-politics-desk-rcna588434?utm_source=lootura.com) — 2026-07-20T21:00:00.000Z
+- [Troy Jackson set to become Democratic Maine Senate nominee, replacing Platner](https://www.cbsnews.com/video/troy-jackson-set-to-become-democratic-maine-senate-nominee/?utm_source=lootura.com) — 2026-07-21T01:15:00.000Z
+- [Democrats avoid a messy fight in Maine, but uncertainty lingers: From the Politics Desk](https://www.nbcnews.com/politics/politics-news/democrats-avoid-messy-fight-maine-uncertainty-lingers-politics-desk-rcna588434?utm_source=lootura.com) — 2026-07-20T21:00:40.000Z
 - [Senators demand ICE answers and body cameras after deadly shootings in Maine and Houston](https://www.pbs.org/newshour/nation/senators-demand-ice-answers-and-body-cameras-after-deadly-shootings-in-maine-and-houston?utm_source=lootura.com) — 2026-07-20T19:10:30.000Z
-- [In Maine Senate Race, Democrats Go From Chaos to Coronation](https://www.nytimes.com/2026/07/20/us/politics/maine-democrats-senate-jackson-platner.html?utm_source=lootura.com) — 2026-07-20T09:02:24.000Z
-- [5 Things to Know About the Maine Senate Candidate Troy Jackson](https://www.nytimes.com/2026/07/20/us/politics/troy-jackson-maine-senate.html?utm_source=lootura.com) — 2026-07-20T15:11:11.000Z
+- [5 Things to Know About the Maine Senate Candidate Troy Jackson](https://www.nytimes.com/2026/07/20/us/politics/troy-jackson-maine-senate.html?utm_source=lootura.com) — 2026-07-20T15:11:12.000Z

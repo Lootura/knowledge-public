@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/pais-vasco/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/pais-vasco/index.json",
   "description": "Sigue la actividad de País Vasco en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-20T21:09:57.635Z",
+  "updatedAt": "2026-07-21T02:27:26.549Z",
   "aliases": [
     "Basque Country",
     "Euskadi"
@@ -77,13 +77,7 @@
       "url": "https://www.elmundo.es/pais-vasco/2026/07/20/6a5de628e85eced23e8b4572.html?utm_source=lootura.com",
       "publishedAt": "2026-07-20T10:36:14.000Z",
       "sourceId": "lootura-es-el-mundo"
-    },
-    {
-      "title": "¿Noticias locales? Cuando los chatbots solo reproducen el contenido de los grandes medios nacionales",
-      "url": "https://theconversation.com/noticias-locales-cuando-los-chatbots-solo-reproducen-el-contenido-de-los-grandes-medios-nacionales-286887?utm_source=lootura.com",
-      "publishedAt": "2026-07-20T16:23:52.000Z",
-      "sourceId": "lootura-es-the-conversation-espana"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 2
 }

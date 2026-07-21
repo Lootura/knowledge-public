@@ -8,9 +8,14 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/canada/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/canada/index.json",
   "description": "Follow Canada, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-20T21:10:24.211Z",
+  "updatedAt": "2026-07-21T02:27:47.058Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "Trump imposes 50% tariffs on dairy, alcohol, and cars from Canada",
+      "summary": "The Trump administration imposed 50% tariffs on three categories of imports from Canada, dairy, alcohol, and cars, citing discriminatory actions. NBC News' Monica Alba reports on how Trump is also considering additional tariffs due to the Canadian wildfires.",
+      "date": "2026-07-20"
+    },
     {
       "title": "Canada faces one of its most intense fire seasons",
       "summary": "With nearly 1,000 active fires and an area as large as Belgium already burned, Canadian Prime Minister Mark Carney says his country is facing one of the \"most intense\" wildfire seasons in its history.",
@@ -55,25 +60,14 @@
       "title": "Wildfire smoke from Canada and Minnesota pushes farther into the U.S. and engulfs D.C. in haze",
       "summary": "Warnings of dangerous conditions were expected to remain in effect through Saturday across a wide swath of the U.S., though there's potential for temporary improvement with storms forecast in some affected areas during the weekend.",
       "date": "2026-07-18"
-    },
-    {
-      "title": "Wildfires Continue To Burn in Ontario, Canada, Sending Smoke to U.S. Cities",
-      "summary": "Nearly 200 fires continued to devastate swaths of the province as smoke continued to drift across parts of Canada and the United States.",
-      "date": "2026-07-18"
     }
   ],
   "sources": [
     {
-      "title": "10 things that wowed us at the 2026 World Cup",
-      "url": "https://www.npr.org/2026/07/20/nx-s1-5892511/2026-world-cup-fifa-spain-argentina-tournament?utm_source=lootura.com",
-      "publishedAt": "2026-07-20T19:56:44.000Z",
-      "sourceId": "lootura-us-npr"
-    },
-    {
-      "title": "Canada faces one of its most intense fire seasons",
-      "url": "https://phys.org/news/2026-07-canada-intense-seasons.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-20T19:41:04.000Z",
-      "sourceId": "lootura-us-phys-org"
+      "title": "Trump imposes 50% tariffs on dairy, alcohol, and cars from Canada",
+      "url": "https://www.nbcnews.com/video/trump-imposes-50-tariffs-on-dairy-alcohol-and-cars-from-canada-266971717891?utm_source=lootura.com",
+      "publishedAt": "2026-07-20T21:52:47.000Z",
+      "sourceId": "lootura-us-nbc-news-politics"
     }
   ],
   "evidenceCount": 1

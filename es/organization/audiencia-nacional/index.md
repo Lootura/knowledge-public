@@ -70,4 +70,4 @@ Date: 2026-07-17
 
 ## Fuentes
 
-- [Julio Martínez delata a Zapatero y dice que se llevó el 1% por mediar en Plus Ultra](https://www.abc.es/espana/plus-ultra-julito-martinez-envian-escritos-juez-20260720142541-nt.html?utm_source=lootura.com) — 2026-07-20T20:06:33.000Z
+No public source links.

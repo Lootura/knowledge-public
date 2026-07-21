@@ -3,10 +3,16 @@
 > Follow Canada, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-20T21:10:24.211Z
+- Updated: 2026-07-21T02:27:47.058Z
 - Canonical: https://atlas.lootura.com/us/place/canada
 
 ## Recent changes
+
+### Trump imposes 50% tariffs on dairy, alcohol, and cars from Canada
+
+The Trump administration imposed 50% tariffs on three categories of imports from Canada, dairy, alcohol, and cars, citing discriminatory actions. NBC News' Monica Alba reports on how Trump is also considering additional tariffs due to the Canadian wildfires.
+
+Date: 2026-07-20
 
 ### Canada faces one of its most intense fire seasons
 
@@ -62,13 +68,6 @@ Warnings of dangerous conditions were expected to remain in effect through Satur
 
 Date: 2026-07-18
 
-### Wildfires Continue To Burn in Ontario, Canada, Sending Smoke to U.S. Cities
-
-Nearly 200 fires continued to devastate swaths of the province as smoke continued to drift across parts of Canada and the United States.
-
-Date: 2026-07-18
-
 ## Sources
 
-- [10 things that wowed us at the 2026 World Cup](https://www.npr.org/2026/07/20/nx-s1-5892511/2026-world-cup-fifa-spain-argentina-tournament?utm_source=lootura.com) — 2026-07-20T19:56:44.000Z
-- [Canada faces one of its most intense fire seasons](https://phys.org/news/2026-07-canada-intense-seasons.html?utm_source=lootura.com) — 2026-07-20T19:41:04.000Z
+- [Trump imposes 50% tariffs on dairy, alcohol, and cars from Canada](https://www.nbcnews.com/video/trump-imposes-50-tariffs-on-dairy-alcohol-and-cars-from-canada-266971717891?utm_source=lootura.com) — 2026-07-20T21:52:47.000Z

@@ -3,10 +3,16 @@
 > Sigue la actividad de Partido Socialista Obrero Español en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-20T06:43:17.611Z
+- Actualizado: 2026-07-21T02:27:26.549Z
 - Canonical: https://atlas.lootura.com/es/organization/psoe
 
 ## Cambios recientes
+
+### Manifestarse contra el turismo
+
+Una organización criminal , según la Guardia Civil, convoca una manifestación contra el turismo , sustento de la mayoría de los ciudadanos de Baleares, y recibe el apoyo de los partidos que han gobernado en las Islas: el corrupto PSOE y su sostén, Més per Mallorca . A esta sinrazón hemos llegado. Resulta curioso que na.
+
+Date: 2026-07-21
 
 ### Jésica, 'Julito', el amigo de Zapatero, y los recursos de Cerdán y Leire: otra semana con la corrupción del PSOE en los juzgados
 
@@ -62,12 +68,6 @@ El PP de Madrid sigue apostando por un apoyo cerrado a Manuel Bautista, a pesar 
 
 Date: 2026-07-18
 
-### El PSOE andaluz confirma a Montero, Espadas y Díaz como sus candidatos a senador
-
-El PSOE andaluz ha propuesto a los ya senadores por designación del Parlamento andaluz Juan Espadas y Susana Díaz para revalidar dichos escaños en la.
-
-Date: 2026-07-18
-
 ## Fuentes
 
-No public source links.
+- [Manifestarse contra el turismo](https://okdiario.com/baleares/manifestarse-contra-turismo-19032188?utm_source=lootura.com) — 2026-07-21T02:00:11.000Z
