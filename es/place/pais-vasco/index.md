@@ -3,7 +3,7 @@
 > Sigue la actividad de País Vasco en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-21T06:26:04.171Z
+- Actualizado: 2026-07-21T10:23:08.875Z
 - Canonical: https://atlas.lootura.com/es/place/pais-vasco
 
 ## Cambios recientes
@@ -71,4 +71,3 @@ Date: 2026-07-15
 ## Fuentes
 
 - [Reconstrucción de los ataques violentos a los seguidores de La Roja](https://www.elcorreo.com/politica/reconstruccion-ataques-violentos-seguidores-roja-20260720143810-nt.html?utm_source=lootura.com) — 2026-07-20T12:38:10.000Z
-- [Tiene cuatro días para recorrer Vizcaya y termina realizando el mejor itinerario posible: "Es un viaje que se puede cerrar por todo lo alto"](https://www.larazon.es/pais-vasco/tiene-cuatro-dias-recorrer-vizcaya-termina-realizando-mejor-itinerario-posible-viaje-puede-cerrar-todo-alto-b30m_202607216a5f0afce3eb0b64aa4ae862.html?utm_source=lootura.com) — 2026-07-21T06:00:28.000Z

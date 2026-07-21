@@ -3,10 +3,16 @@
 > Follow Troy Jackson, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-07-21T06:26:28.839Z
+- Updated: 2026-07-21T10:23:35.333Z
 - Canonical: https://atlas.lootura.com/us/organization/troy-jackson
 
 ## Recent changes
+
+### Once Anti-Abortion, Now a Progressive: The Evolution of a Maine Democrat
+
+Troy Jackson, who is expected to become his party’s nominee in the state’s marquee Senate race, has long been an economic populist, but his positions on social issues have changed markedly over time.
+
+Date: 2026-07-21
 
 ### Tamara Keith and Jasmine Wright on the political fallout of Trump's address
 
@@ -62,14 +68,9 @@ SANFORD, Maine — Maine Secretary of State Shenna Bellows ended her Senate camp
 
 Date: 2026-07-19
 
-### Troy Jackson has effectively secured the Maine Senate Democratic nomination
-
-SANFORD, Maine — Troy Jackson has effectively secured the Democratic nomination in the crucial Maine Senate race, winning the support of a majority of the state delegates who will officially nominate a candidate next weekend. While they are not legally bound to support him, nearly two-thirds of the 601 delegates have c.
-
-Date: 2026-07-19
-
 ## Sources
 
 - [Troy Jackson set to become Democratic Maine Senate nominee, replacing Platner](https://www.cbsnews.com/video/troy-jackson-set-to-become-democratic-maine-senate-nominee/?utm_source=lootura.com) — 2026-07-21T01:15:00.000Z
 - [Tamara Keith and Jasmine Wright on the political fallout of Trump's address](https://www.pbs.org/newshour/show/tamara-keith-and-jasmine-wright-on-the-political-fallout-of-trumps-address?utm_source=lootura.com) — 2026-07-20T22:30:46.000Z
 - [5 Things to Know About the Maine Senate Candidate Troy Jackson](https://www.nytimes.com/2026/07/20/us/politics/troy-jackson-maine-senate.html?utm_source=lootura.com) — 2026-07-20T15:11:12.000Z
+- [Once Anti-Abortion, Now a Progressive: The Evolution of a Maine Democrat](https://www.nytimes.com/2026/07/21/us/politics/troy-jackson-maine-senate.html?utm_source=lootura.com) — 2026-07-21T09:02:47.000Z

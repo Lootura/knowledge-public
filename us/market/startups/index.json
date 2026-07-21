@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/market/startups/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/market/startups/index.json",
   "description": "Follow Startups, a tracked market, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-21T06:26:28.839Z",
+  "updatedAt": "2026-07-21T10:23:35.333Z",
   "aliases": [
     "startup funding"
   ],
@@ -36,10 +36,10 @@
   ],
   "sources": [
     {
-      "title": "U.S. Virgin Islands' housing authority accused of corruption as federal funding is suspended",
-      "url": "https://www.pbs.org/newshour/nation/u-s-virgin-islands-housing-authority-accused-of-corruption-as-federal-funding-is-suspended?utm_source=lootura.com",
-      "publishedAt": "2026-07-20T22:37:45.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
+      "title": "Morning news brief",
+      "url": "https://www.npr.org/2026/07/21/nx-s1-5895979/morning-news-brief?utm_source=lootura.com",
+      "publishedAt": "2026-07-21T08:44:49.000Z",
+      "sourceId": "lootura-us-npr"
     }
   ],
   "evidenceCount": 0

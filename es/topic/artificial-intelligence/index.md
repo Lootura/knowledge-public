@@ -3,7 +3,7 @@
 > Sigue la actividad de Artificial intelligence en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: topic
-- Actualizado: 2026-07-21T06:26:04.171Z
+- Actualizado: 2026-07-21T10:23:08.875Z
 - Canonical: https://atlas.lootura.com/es/topic/artificial-intelligence
 
 ## Cambios recientes
@@ -40,4 +40,4 @@ Date: 2026-07-10
 
 ## Fuentes
 
-- [La otra camiseta de Adidas con dos estrellas de la Selección que puede comprarse hoy](https://www.abc.es/summum/estilo/moda/camiseta-adidas-dos-estrellas-seleccion-puede-comprarse-20260721073421-nt_amp.html?utm_source=lootura.com) — 2026-07-21T05:34:21.000Z
+- [La nueva financiación autonómica promueve una armonización entre comunidades para frenar las rebajas de impuestos](https://elpais.com/economia/2026-07-21/la-nueva-financiacion-autonomica-promueve-una-armonizacion-entre-comunidades-para-frenar-las-rebajas-de-impuestos.html?utm_source=lootura.com) — 2026-07-21T03:45:01.000Z

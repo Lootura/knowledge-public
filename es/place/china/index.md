@@ -3,10 +3,16 @@
 > Sigue la actividad de China en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-21T06:26:04.171Z
+- Actualizado: 2026-07-21T10:23:08.875Z
 - Canonical: https://atlas.lootura.com/es/place/china
 
 ## Cambios recientes
+
+### Sun Tzu, estratega militar: «Cuando se está cerca, se debe parecer lejos; cuando se está lejos, se debe parecer cerca»
+
+Sun Tzu es considerado uno de los grandes pensadores de la cultura oriental . Según la tradición china, fue general del Estado de Wu y sobresalió por sus ingeniosas estrategias y numerosas victorias, siempre apoyadas en la planificación y el profundo conocimiento del enemigo. Su filosofía se basaba en un principio esen.
+
+Date: 2026-07-21
 
 ### La acción de la semana: Alibaba rebota desde soporte, pero el cambio de tendencia todavía está por demostrar
 
@@ -62,12 +68,7 @@ El presidente de Estados Unidos, Donald Trump, ha anunciado este jueves la descl
 
 Date: 2026-07-17
 
-### Antonio Tajani: «No podemos dejar África solo en manos de China y Rusia»
-
-El vicepresidente del Gobierno y ministro de Asuntos Exteriores de Italia, Antonio Tajani , aboga por seguir trabajando en un mercado único europeo para competir con las grandes potencias en el nuevo tablero global y llama a España a ser un socio estratégico para Italia dentro del plan de inversiones que el país transa.
-
-Date: 2026-07-17
-
 ## Fuentes
 
 - [La Primera de Expansión sobre Holaluz, BCE, Mundial de Fútbol, Sabadell, Samsung, China y la IA](https://www.expansion.com/podcasts/la-primera-de-expansion/2026/07/21/6a5efc86468aeb7a708b4575.html?utm_source=lootura.com) — 2026-07-21T05:25:37.000Z
+- [Sun Tzu, estratega militar: «Cuando se está cerca, se debe parecer lejos; cuando se está lejos, se debe parecer cerca»](https://okdiario.com/curiosidades/sun-tzu-estratega-militar-cuando-esta-cerca-debe-parecer-lejos-cuando-esta-lejos-debe-parecer-cerca-19038325?utm_source=lootura.com) — 2026-07-21T10:00:08.000Z

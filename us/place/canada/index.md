@@ -3,7 +3,7 @@
 > Follow Canada, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-21T06:26:28.839Z
+- Updated: 2026-07-21T10:23:35.333Z
 - Canonical: https://atlas.lootura.com/us/place/canada
 
 ## Recent changes
@@ -70,5 +70,4 @@ Date: 2026-07-18
 
 ## Sources
 
-- [Trump imposes 50% tariffs on dairy, alcohol, and cars from Canada](https://www.nbcnews.com/video/trump-imposes-50-tariffs-on-dairy-alcohol-and-cars-from-canada-266971717891?utm_source=lootura.com) — 2026-07-20T21:52:47.000Z
-- [Donald Trump to impose 50% tariff on most Canadian goods, White House says](https://www.theguardian.com/us-news/2026/jul/20/trump-canada-tariffs?utm_source=lootura.com) — 2026-07-21T02:29:47.000Z
+- [10 things that wowed us at the 2026 World Cup](https://www.npr.org/2026/07/20/nx-s1-5892511/2026-world-cup-fifa-spain-argentina-tournament?utm_source=lootura.com) — 2026-07-20T19:56:44.000Z

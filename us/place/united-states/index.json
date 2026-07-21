@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/united-states/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/united-states/index.json",
   "description": "Follow United States, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-21T06:26:28.839Z",
+  "updatedAt": "2026-07-21T10:23:35.333Z",
   "aliases": [
     "America",
     "Estados Unidos",
@@ -23,11 +23,6 @@
     {
       "title": "New round of strikes targeting Iran underway, U.S. officials say",
       "summary": "A 10th straight night of U.S. strikes on Iran is underway as President Trump vows Tehran will pay for the deaths of three American soldiers over the weekend. CBS News senior national security correspondent Charlie D'Agata reports. Then, global affairs analyst Jonathan Wachtel joins to discuss the state of the war.",
-      "date": "2026-07-21"
-    },
-    {
-      "title": "Video appears to show United employee threaten to call ICE on customer",
-      "summary": "A United Airlines employee appears to have been caught on video threatening to call U.S. Immigration and Customs Enforcement on a passenger last week at San Francisco International Airport.",
       "date": "2026-07-21"
     },
     {
@@ -46,24 +41,29 @@
       "date": "2026-07-21"
     },
     {
-      "title": "Trump to Impose 50% Tariff on Many Canadian Goods",
-      "summary": "The administration will use an untested legal provision to put significant duties on Canadian exports, reigniting a clash with one of America’s biggest trading partners.",
+      "title": "Video appears to show United employee threatening to call ICE on customer",
+      "summary": "A United Airlines employee appears to have been caught on video threatening to call U.S. Immigration and Customs Enforcement on a passenger last week at San Francisco International Airport.",
       "date": "2026-07-21"
     },
     {
-      "title": "Oil Prices Cross $90 a Barrel as U.S.-Iran Conflict Widens",
-      "summary": "Brent crude, the global benchmark for oil, rose more than 3 percent as trading resumed on Sunday, while S&P 500 futures remained essentially unchanged.",
-      "date": "2026-07-20"
+      "title": "The U.S. Is Pulling Back on Energy Efficiency",
+      "summary": "The Trump administration is undoing fuel-saving efforts even as war in Iran, data centers and heat waves are pushing up gasoline and electricity costs.",
+      "date": "2026-07-21"
     },
     {
-      "title": "Morning news brief",
-      "summary": "The U.S. carries out a wave of strikes against Iran, as fighting between the two escalates, Congress faces long to-do list as August recess approaches, Andy Burnham becomes U.K.'s 7th prime minister.",
-      "date": "2026-07-20"
+      "title": "Houthis in Yemen Edge Closer to Entering U.S.-Iran War",
+      "summary": "The Iran-backed Houthi militia in Yemen has declared a Red Sea blockade on Saudi Arabia, potentially opening up a new front in the war rippling across the Middle East.",
+      "date": "2026-07-21"
     },
     {
-      "title": "U.S. Service Members Killed as War Expands, and Federal Cases Against Protesters Crumble",
-      "summary": "Plus, what to know about the next British prime minister.",
-      "date": "2026-07-20"
+      "title": "Video appears to show United employee threaten to call ICE on customer",
+      "summary": "A United Airlines employee appears to have been caught on video threatening to call U.S. Immigration and Customs Enforcement on a passenger last week at San Francisco International Airport.",
+      "date": "2026-07-21"
+    },
+    {
+      "title": "Trump to Impose 50% Tariff on Many Canadian Goods",
+      "summary": "The administration will use an untested legal provision to put significant duties on Canadian exports, reigniting a clash with one of America’s biggest trading partners.",
+      "date": "2026-07-21"
     }
   ],
   "sources": [
@@ -71,6 +71,12 @@
       "title": "What to know about Taylor Farms, the produce giant tied to the cyclospora outbreak",
       "url": "https://www.cbsnews.com/news/taylor-farms-cyclospora-outbreak/?utm_source=lootura.com",
       "publishedAt": "2026-07-20T21:08:06.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
+    {
+      "title": "Video appears to show United employee threatening to call ICE on customer",
+      "url": "https://www.cbsnews.com/news/united-airlines-employee-threatens-to-call-ice-sfo-passenger-act-like-a-citizen/?utm_source=lootura.com",
+      "publishedAt": "2026-07-21T01:43:00.000Z",
       "sourceId": "lootura-us-cbs-news"
     },
     {
@@ -92,12 +98,6 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "Video appears to show United employee threaten to call ICE on customer",
-      "url": "https://www.cbsnews.com/news/united-airlines-employee-threatens-to-call-ice-sfo-passenger-act-like-a-citizen/?utm_source=lootura.com",
-      "publishedAt": "2026-07-21T01:43:54.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
-    {
       "title": "How recent killings of U.S. soldiers could affect the war with Iran",
       "url": "https://www.cbsnews.com/video/how-recent-killings-of-us-soldiers-could-affect-the-war-with-iran/?utm_source=lootura.com",
       "publishedAt": "2026-07-20T19:27:21.000Z",
@@ -116,17 +116,17 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "How closely linked are gas prices to U.S.-Iran tensions?",
-      "url": "https://www.cbsnews.com/video/how-closely-linked-are-gas-prices-to-us-iran-tensions/?utm_source=lootura.com",
-      "publishedAt": "2026-07-20T16:45:00.000Z",
-      "sourceId": "lootura-us-cbs-news"
+      "title": "Powerball ticket sales begin Tuesday in the United Kingdom",
+      "url": "https://www.npr.org/2026/07/21/nx-s1-5901828/powerball-begin-united-kingdom?utm_source=lootura.com",
+      "publishedAt": "2026-07-21T05:28:53.000Z",
+      "sourceId": "lootura-us-npr-world"
     },
     {
-      "title": "Morning news brief",
-      "url": "https://www.npr.org/2026/07/20/nx-s1-5895962/morning-news-brief?utm_source=lootura.com",
-      "publishedAt": "2026-07-20T08:43:08.000Z",
-      "sourceId": "lootura-us-npr"
+      "title": "Tropical depression nearing U.S. Gulf Coast set to become a tropical storm, forecasters say",
+      "url": "https://www.pbs.org/newshour/science/tropical-depression-nearing-u-s-gulf-coast-set-to-become-a-tropical-storm-forecasters-say?utm_source=lootura.com",
+      "publishedAt": "2026-07-20T19:22:11.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
     }
   ],
-  "evidenceCount": 23
+  "evidenceCount": 21
 }

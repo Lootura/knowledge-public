@@ -3,10 +3,28 @@
 > Sigue la actividad de Plus Ultra en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-21T06:26:04.171Z
+- Actualizado: 2026-07-21T10:23:08.875Z
 - Canonical: https://atlas.lootura.com/es/person/plus-ultra
 
 ## Cambios recientes
+
+### La ‘vía Aldama’ se abre paso en el ‘caso Zapatero’: los empresarios desmontan la defensa del expresidente
+
+Los empresarios Julio Martínez Martínez, administrador de Análisis Relevante, y Julio Martínez Sola y Roberto Roselli, presidente y actual consejero delegado de la compañía aérea Plus Ultra, empezaron a recorrer este lunes la vía Aldama , el camino que llevó al principal comisionista del caso Koldo a beneficiarse de un.
+
+Date: 2026-07-21
+
+### Las tres incongruencias de Zapatero, al descubierto tras la confesión de Julio Martínez y el presidente de Plus Ultra
+
+El escrito presentado por el investigado Julio Martínez a 24 horas de su esperada declaración ante el juez de la Audiencia Nacional José Luis Calama complica el horizonte judicial de José Luis Rodríguez Zapatero, con quien entra en evidente contradicción en aspectos vitales sobre su posible participación en el rescate.
+
+Date: 2026-07-21
+
+### Sumar sentencia a Zapatero y pide a Sánchez explicaciones sobre el rescate de Plus Ultra
+
+El portavoz adjunto de Sumar en el Congreso y diputado de Compromís, Alberto Ibáñez, ha afirmado que la situación judicial del expresidente del Gobierno José Luis Rodríguez Zapatero es «inasumible políticamente» y ha señalado que podría haber traspasado la «línea fina entre el lobbismo y el comisionismo». Por ello, ha.
+
+Date: 2026-07-21
 
 ### Julio Martínez delata a Zapatero y dice que se llevó el 1% por mediar en Plus Ultra
 
@@ -17,12 +35,6 @@ Date: 2026-07-21
 ### Plus Ultra sitúa el primer contacto con Zapatero casi un año antes del rescate de la aerolínea
 
 La aerolínea Plus Ultra, rescatada con dinero público durante la crisis del Covid-19, pidió la intermediación del empresario Julio Martínez Martínez, administrador de la firma Análisis Relevante, y de su íntimo amigo el expresidente del Gobierno, José Luis Rodríguez Zapatero , para solicitar y acelerar la ayuda de 53 m.
-
-Date: 2026-07-21
-
-### La ‘vía Aldama’ se abre paso en el ‘caso Zapatero’: los empresarios desmontan la defensa del expresidente
-
-Los empresarios Julio Martínez Martínez, administrador de Análisis Relevante, y Julio Martínez Sola y Roberto Roselli, presidente y actual consejero delegado de la compañía aérea Plus Ultra, empezaron a recorrer este lunes la vía Aldama , el camino que llevó al principal comisionista del caso Koldo a beneficiarse de un.
 
 Date: 2026-07-21
 
@@ -56,23 +68,11 @@ Plus Ultra y Julio Martínez Martínez han enviado sendos escritos a la Audienci
 
 Date: 2026-07-20
 
-### El empresario Julio Martínez señala a Zapatero en el rescate de Plus Ultra: “Era el que marcaba los pasos a seguir”
-
-Cambio de guion en el caso Plus Ultra . El empresario Julio Martínez Martínez, administrador de la consultora Análisis Relevante , epicentro del caso en el que se investigan las supuestas irregularidades en la concesión de una millonaria ayuda pública a la aerolínea, ha presentado un escrito en la Audiencia Nacional en.
-
-Date: 2026-07-20
-
-### Plus Ultra reconoce que pagó 527.417 euros a la trama de Zapatero por informes ficticios
-
-El actual presidente de Plus Ultra, Julio Martínez Sola, ha ratificado la confesión del testaferro de José Luis Rodríguez Zapatero de que la trama de.
-
-Date: 2026-07-20
-
 ## Fuentes
 
-- [Julio Martínez delata a Zapatero y dice que se llevó el 1% por mediar en Plus Ultra](https://www.abc.es/espana/plus-ultra-julito-martinez-envian-escritos-juez-20260720142541-nt.html?utm_source=lootura.com) — 2026-07-21T05:26:54.000Z
-- [Plus Ultra sitúa el primer contacto con Zapatero casi un año antes del rescate de la aerolínea](https://elpais.com/espana/2026-07-21/plus-ultra-situa-el-primer-contacto-con-zapatero-casi-un-ano-antes-del-rescate-de-la-aerolinea.html?utm_source=lootura.com) — 2026-07-21T03:30:01.000Z
+- [Las tres incongruencias de Zapatero, al descubierto tras la confesión de Julio Martínez y el presidente de Plus Ultra](https://www.abc.es/espana/tres-contradicciones-zapatero-julio-martinez-dejan-expresidente-20260721185544-nt.html?utm_source=lootura.com) — 2026-07-21T09:20:34.000Z
 - [La 'mordida' del 1% que lo reventó todo](https://www.elmundo.es/espana/2026/07/20/6a5e6e1bfdddff2c708b4596.html?utm_source=lootura.com) — 2026-07-20T20:44:58.000Z
 - [El socio de Zapatero logró aplazar una deuda de Plus Ultra con la petrolera venezolana PDVSA](https://amp.elmundo.es/espana/2026/07/20/6a5e7a5f21efa04a6c8b45a5.html?utm_source=lootura.com) — 2026-07-20T20:45:35.000Z
 - [La confesión del empresario Julio Martínez y los directivos de Plus Ultra destruye la estrategia de defensa de Zapatero](https://amp.elmundo.es/espana/2026/07/20/6a5e7556e4d4d82f588b45ba.html?utm_source=lootura.com) — 2026-07-20T20:46:48.000Z
 - [La ‘vía Aldama’ se abre paso en el ‘caso Zapatero’: los empresarios desmontan la defensa del expresidente](https://elpais.com/espana/2026-07-21/la-via-aldama-se-abre-paso-en-el-caso-zapatero-los-empresarios-contradicen-la-version-que-dio-al-juez.html?utm_source=lootura.com) — 2026-07-21T03:30:01.000Z
+- [Sumar sentencia a Zapatero y pide a Sánchez explicaciones sobre el rescate de Plus Ultra](https://theobjective.com/espana/politica/2026-07-21/sumar-zapatero-sanchez-plus-ultra/?utm_source=lootura.com) — 2026-07-21T10:10:47.000Z

@@ -3,10 +3,22 @@
 > Sigue la actividad de Donald Trump en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-21T02:27:26.549Z
+- Actualizado: 2026-07-21T10:23:08.875Z
 - Canonical: https://atlas.lootura.com/es/person/donald-trump
 
 ## Cambios recientes
+
+### Los yihadistas ofrecen 10 millones de dólares al que asesine al presidente Trump
+
+El presidente estadounidense Donald Trump, con ocasión de una visita del primer ministro iraquí Ali Zaydi en la Casa Blanca, hizo unas declaraciones hizo declaraciones sobre el ataque con drones estadounidense de enero de 2020 que acabó con la vida del comandante de la Fuerza Quds de la Guardia Revolucionaria Islámica.
+
+Date: 2026-07-21
+
+### Meliá cierra su negocio en Cuba ante las dificultades legales y operativas tras la presión de EE UU
+
+Meliá baja la persiana en Cuba. Después de treinta años construyendo, gestionando y prácticamente inventando el turismo de sol y playa en la isla, la multinacional mallorquina ha decidido cerrar su negocio en la isla ante las nuevas sanciones impuestas por la Administración Trump a las compañías vinculadas al Ministeri.
+
+Date: 2026-07-21
 
 ### Pedro Sánchez, Donald Trump y la diplomacia del palco
 
@@ -56,18 +68,7 @@ Advierten de un incremento de las importaciones que recuerda a la acumulación d
 
 Date: 2026-07-17
 
-### Estados Unidos lanza una ola de ataques contra Irán por séptimo día consecutivo
-
-Trump anunció la semana pasada la cancelación del memorando de entendimiento que había firmado el 18 de junio.
-
-Date: 2026-07-17
-
-### China exige a Trump que aparque el «invento» de la presunta injerencia electoral en 2020
-
-China ha rechazado por completo las acusaciones formuladas por el presidente de Estados Unidos , Donald Trump , quien, esta pasada noche y en un discurso ante la nación, denunció que las autoridades de Pekín se habían inmiscuido en el desarrollo de las elecciones de 2020 . Trump y el Gobierno de Estados Unidos acusaron.
-
-Date: 2026-07-17
-
 ## Fuentes
 
-No public source links.
+- [Los yihadistas ofrecen 10 millones de dólares al que asesine al presidente Trump](https://www.larazon.es/internacional/yihadistas-ofrecen-10-millones-dolares-que-asesine-presidente-trump_202607216a5f4596f172396e89eb92ca.html?utm_source=lootura.com) — 2026-07-21T10:10:30.000Z
+- [Meliá cierra su negocio en Cuba ante las dificultades legales y operativas tras la presión de EE UU](https://www.larazon.es/economia/melia-cierra-negocio-cuba-dificultades-legales-operativas-presion_202607216a5f467a303ca6202cc31d46.html?utm_source=lootura.com) — 2026-07-21T10:15:09.000Z

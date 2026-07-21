@@ -3,10 +3,16 @@
 > Sigue la actividad de Bélgica en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-19T20:42:54.963Z
+- Actualizado: 2026-07-21T10:23:08.875Z
 - Canonical: https://atlas.lootura.com/es/place/belgium
 
 ## Cambios recientes
+
+### El vestido de estreno de Matilde de Bélgica para el Día Nacional: guipur, tono champán y una espectacular pamela
+
+La Fiesta Nacional de Bélgica ha vuelto a convertirse en una pasarela de elegancia para la Familia Real. Como cada 21 de julio, los Reyes Felipe y Matilde han presidido el tradicional Te Deum celebrado en la catedral de San Miguel y Santa Gúdula de Bruselas, una de las citas institucionales más importantes del año. Par.
+
+Date: 2026-07-21
 
 ### Antonelli logra la pole pese a la estrategia de Verstappen: Aston Martin toca fondo
 
@@ -62,12 +68,6 @@ Entre la pizarra de Luis de la Fuente y el olfato goleador de Mikel Merino , apa
 
 Date: 2026-07-10
 
-### Lluvia de estrellas en el España-Bélgica: de Brad Pitt, Bardem y Penélope Cruz a Pete Sampras
-
-Noel Gallagher, de Oasis, el actor Timothée Chalamet y el jugador de la NBA DeMar DeRozan también están en las gradas.
-
-Date: 2026-07-10
-
 ## Fuentes
 
-No public source links.
+- [El vestido de estreno de Matilde de Bélgica para el Día Nacional: guipur, tono champán y una espectacular pamela](https://www.larazon.es/lifestyle/moda/vestido-estreno-matilde-belgica-dia-nacional-guipur-tono-champan-espectacular-pamela_202607216a5f3d98f172396e89eb82c3.html?utm_source=lootura.com) — 2026-07-21T10:15:13.000Z

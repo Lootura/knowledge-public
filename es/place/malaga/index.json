@@ -8,9 +8,19 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/malaga/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/malaga/index.json",
   "description": "Sigue la actividad de Málaga en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-21T06:26:04.171Z",
+  "updatedAt": "2026-07-21T10:23:08.875Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "Amenazan a un futbolista vasco del Málaga por apoyar a Argentina contra España: «Etarra. Traidor. Antiespañol»",
+      "summary": "Einar Galilea llegó a la Costa del Sol hace tres años, cuando los boquerones aún eran un equipo de Primera RFEF.",
+      "date": "2026-07-21"
+    },
+    {
+      "title": "Asesinadas en apenas unas horas tres mujeres en sus domicilios de Toledo, Alicante y Málaga",
+      "summary": "Los maridos de las dos primeras víctimas han sido detenidos.",
+      "date": "2026-07-21"
+    },
     {
       "title": "La mitad de las provincias de Andalucía, en aviso naranja por temperaturas superiores a 40 grados",
       "summary": "La Agencia Estatal de Meteorología (Aemet) ha activado para este martes aviso naranja por calor en Almería, Córdoba, Granada y Jaén por temperaturas máximas que podrían alcanzar los 41 grados. Asimismo, las provincias de Cádiz, Málaga y Sevilla se encontrarán bajo nivel amarillo en la citada jornada. Según consta en la.",
@@ -50,20 +60,21 @@
       "title": "Registrado un ligero terremoto en la provincia de Málaga",
       "summary": "Un terremoto de magnitud 3. se ha registrado durante la madrugada de este viernes 17 de julio en las proximidades de Málaga, según la información difundida por el Instituto Geográfico Nacional en su página web. El epicentro del temblor, que ha afectado a la provincia de Málaga, se ha localizado a 2 kilómetros de Alhaur.",
       "date": "2026-07-17"
-    },
-    {
-      "title": "La batalla por liderar la industria andaluza de defensa entra en una nueva fase",
-      "summary": "Cuatro firmas y una foto muy medida. Los presidentes de los clústeres Andalucía Aerospace (Sevilla), Andalucía Logistics (Córdoba), Clúster Marítimo Naval de Cádiz y Railway Innovation Hub (Málaga) han suscrito este jueves en la Tecnoincubadora Marie Curie de Sevilla TechPark el acuerdo de constitución de la Alianza An.",
-      "date": "2026-07-17"
     }
   ],
   "sources": [
     {
-      "title": "La mitad de las provincias de Andalucía, en aviso naranja por temperaturas superiores a 40 grados",
-      "url": "https://www.larazon.es/andalucia/mitad-provincias-andalucia-aviso-naranja-temperaturas-superiores-40-grados_202607216a5f0b19e3eb0b64aa4ae887.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-21T06:00:57.000Z",
-      "sourceId": "lootura-es-la-razon"
+      "title": "Amenazan a un futbolista vasco del Málaga por apoyar a Argentina contra España: «Etarra. Traidor. Antiespañol»",
+      "url": "https://www.elcorreo.com/deportes/futbol/liga-primera/amenazan-futbolista-vasco-malaga-apoyar-argentina-espana-20260721120601-nt_amp.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-21T10:06:01.000Z",
+      "sourceId": "lootura-es-el-correo"
+    },
+    {
+      "title": "Asesinadas en apenas unas horas tres mujeres en sus domicilios de Toledo, Alicante y Málaga",
+      "url": "https://www.elcorreo.com/sociedad/asesinadas-apenas-horas-tres-mujeres-domicilios-toledo-20260721121655-nt_amp.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-21T10:17:24.000Z",
+      "sourceId": "lootura-es-el-correo"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 2
 }

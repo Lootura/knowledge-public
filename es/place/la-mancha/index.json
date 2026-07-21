@@ -1,0 +1,80 @@
+{
+  "id": "es-la-mancha",
+  "name": "La Mancha",
+  "type": "place",
+  "locale": "es",
+  "canonicalPath": "/es/place/la-mancha",
+  "canonicalUrl": "https://atlas.lootura.com/es/place/la-mancha",
+  "markdownUrl": "https://atlas.lootura.com/es/place/la-mancha/index.md",
+  "jsonUrl": "https://atlas.lootura.com/es/place/la-mancha/index.json",
+  "description": "Sigue la actividad de La Mancha en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
+  "updatedAt": "2026-07-21T10:23:08.875Z",
+  "aliases": [],
+  "changes": [
+    {
+      "title": "Alerta naranja en siete comunidades por la ola de calor: temperaturas asfixiantes y amenaza de reventones y tormentas secas",
+      "summary": "La Agencia Estatal de Meteorología (AEMET) ha activado este martes el aviso naranja por riesgo importante en siete comunidades autónomas debido al inicio de un nuevo episodio de temperaturas extremas . Comunidades como Andalucía, Aragón, Baleares, Castilla-La Mancha, Cataluña, Región de Murcia y la Comunidad Valenciana.",
+      "date": "2026-07-21"
+    },
+    {
+      "title": "Detenido un hombre tras asesinar a su pareja con un arma blanca en Alameda de la Sagra (Toledo)",
+      "summary": "Una mujer ha sido asesinada este martes con un arma blanca por su pareja, un hombre de 48 años, que ha sido detenido por la Guardia Civil en la localidad toledana de Alameda de la Sagra. El servicio de emergencias 112 de Castilla-La Mancha ha informado a EFE de que la agresión se ha producido a las 5:16 horas en una vi.",
+      "date": "2026-07-21"
+    },
+    {
+      "title": "Así es el caserón del siglo XVIII de Josie en La Mancha: «No puede ser un museo, esta casa tiene que estar viva»",
+      "summary": "Hay casas que simplemente se reforman y otras que recuperan una memoria perdida . Villa Yoichi, el caserón del siglo XVIII de Josie en Villajos, La Mancha, pertenece a esa segunda categoría: una vivienda donde cada baldosa, cada mueble y cada objeto conservan una historia . Durante tres años de trabajo, el estilista y.",
+      "date": "2026-07-21"
+    },
+    {
+      "title": "Page vaticina que incendio La Mierla superará las 26.000 hectáreas quemadas",
+      "summary": "El presidente de Castilla-La Mancha , Emiliano García-Page , ha vaticinado que el incendio forestal de La Mierla (Guadalajara) se irá «por encima de las 26.000 hectáreas» calcinadas , pero ha asegurado que el operativo de lucha contra el fuego está «triunfando» en sus prioridades, la defensa de las vidas humanas y de l.",
+      "date": "2026-07-20"
+    },
+    {
+      "title": "Incendios en España, en directo hoy: última hora de los fuegos activos, evolución y situación en Aragón, Castilla-La Mancha, Madrid y Andalucía",
+      "summary": "El presidente de la Junta de Comunidades de Castilla-La Mancha, Emiliano García-Page , señaló este sábado que la culpa de los incendios \"no la tiene nadie por su profesión, condición política o raza\" sino que la tiene \"aquel que incumple las leyes\" y subrayó que \"llegará el momento de esclarecer las causas\" , como así.",
+      "date": "2026-07-19"
+    },
+    {
+      "title": "Castilla-La Mancha estudia plan de recuperación en La Mierla cuando cese el fuego",
+      "summary": "El Gobierno de Castilla-La Mancha se encuentra perfilando una estrategia de actuación en la zona afectada por el incendio de La Mierla de cara a impulsar tanto al sector primario como al turístico cuando regrese la normalidad. Fuentes del Ejecutivo autonómico consultadas por Europa Press destacan la zona por su riqueza.",
+      "date": "2026-07-19"
+    },
+    {
+      "title": "Incendios en España, en directo hoy: última hora de los fuegos activos, evolución y situación en Aragón, Castilla-La Mancha, Madrid y Andalucía",
+      "summary": "Sigue en directo la última hora de los incendios forestales activos en España.",
+      "date": "2026-07-19"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "La Mancha first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-07-18"
+    },
+    {
+      "title": "Incendios en España, en directo hoy: última hora de los fuegos activos, evolución y situación en Aragón, Castilla-La Mancha, Madrid y Andalucía",
+      "summary": "España afronta una nueva jornada de máxima alerta por incendios forestales después de un viernes marcado por varios grandes fuegos activos en diferentes comunidades autónomas y un amplio despliegue de medios de extinción. Los servicios de emergencia han trabajado durante toda la noche para consolidar los perímetros, pr.",
+      "date": "2026-07-18"
+    },
+    {
+      "title": "20 millones de euros para 743 jóvenes que se han incorporado al campo en Castilla-La Mancha durante los últimos años",
+      "summary": "El Gobierno regional ha abonado cuatro millones adicionales a otros 162 agricultores y ganaderos dentro del actual Plan Estratégico de la PAC 2023-2027, según ha anunciado el director general de Desarrollo Rural, José Juan Fernández, durante una visita a Fuente El Fresno.",
+      "date": "2026-07-18"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Detenido un hombre tras asesinar a su pareja con un arma blanca en Alameda de la Sagra (Toledo)",
+      "url": "https://www.elconfidencial.com/espana/2026-07-21/detenido-hombre-asesinar-pareja-arma-blanca-toledo-1tna_4393327/?utm_source=lootura.com",
+      "publishedAt": "2026-07-21T07:18:00.000Z",
+      "sourceId": "lootura-es-el-confidencial"
+    },
+    {
+      "title": "Alerta naranja en siete comunidades por la ola de calor: temperaturas asfixiantes y amenaza de reventones y tormentas secas",
+      "url": "https://www.larazon.es/el-tiempo/alerta-naranja-siete-comunidades-ola-calor-temperaturas-asfixiantes-amenaza-reventones-tormentas-secas_202607216a5f0edef172396e89eb376b.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-21T06:17:02.000Z",
+      "sourceId": "lootura-es-la-razon"
+    }
+  ],
+  "evidenceCount": 2
+}

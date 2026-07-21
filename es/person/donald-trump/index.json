@@ -8,13 +8,23 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/donald-trump/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/donald-trump/index.json",
   "description": "Sigue la actividad de Donald Trump en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-21T02:27:26.549Z",
+  "updatedAt": "2026-07-21T10:23:08.875Z",
   "aliases": [
     "President Donald Trump",
     "President Trump",
     "Trump"
   ],
   "changes": [
+    {
+      "title": "Los yihadistas ofrecen 10 millones de dólares al que asesine al presidente Trump",
+      "summary": "El presidente estadounidense Donald Trump, con ocasión de una visita del primer ministro iraquí Ali Zaydi en la Casa Blanca, hizo unas declaraciones hizo declaraciones sobre el ataque con drones estadounidense de enero de 2020 que acabó con la vida del comandante de la Fuerza Quds de la Guardia Revolucionaria Islámica.",
+      "date": "2026-07-21"
+    },
+    {
+      "title": "Meliá cierra su negocio en Cuba ante las dificultades legales y operativas tras la presión de EE UU",
+      "summary": "Meliá baja la persiana en Cuba. Después de treinta años construyendo, gestionando y prácticamente inventando el turismo de sol y playa en la isla, la multinacional mallorquina ha decidido cerrar su negocio en la isla ante las nuevas sanciones impuestas por la Administración Trump a las compañías vinculadas al Ministeri.",
+      "date": "2026-07-21"
+    },
     {
       "title": "Pedro Sánchez, Donald Trump y la diplomacia del palco",
       "summary": "Simpatías forzadas entre los presidentes ante la atenta mirada de Infantino y los Reyes de España Leer.",
@@ -54,18 +64,21 @@
       "title": "El Puerto de Bilbao registra entre febrero y junio su mayor actividad desde hace 18 años",
       "summary": "Advierten de un incremento de las importaciones que recuerda a la acumulación de stock que produjeron los aranceles de Trump el año pasado y al que siguió una caída de tráficos.",
       "date": "2026-07-17"
-    },
-    {
-      "title": "Estados Unidos lanza una ola de ataques contra Irán por séptimo día consecutivo",
-      "summary": "Trump anunció la semana pasada la cancelación del memorando de entendimiento que había firmado el 18 de junio.",
-      "date": "2026-07-17"
-    },
-    {
-      "title": "China exige a Trump que aparque el «invento» de la presunta injerencia electoral en 2020",
-      "summary": "China ha rechazado por completo las acusaciones formuladas por el presidente de Estados Unidos , Donald Trump , quien, esta pasada noche y en un discurso ante la nación, denunció que las autoridades de Pekín se habían inmiscuido en el desarrollo de las elecciones de 2020 . Trump y el Gobierno de Estados Unidos acusaron.",
-      "date": "2026-07-17"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Los yihadistas ofrecen 10 millones de dólares al que asesine al presidente Trump",
+      "url": "https://www.larazon.es/internacional/yihadistas-ofrecen-10-millones-dolares-que-asesine-presidente-trump_202607216a5f4596f172396e89eb92ca.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-21T10:10:30.000Z",
+      "sourceId": "lootura-es-la-razon"
+    },
+    {
+      "title": "Meliá cierra su negocio en Cuba ante las dificultades legales y operativas tras la presión de EE UU",
+      "url": "https://www.larazon.es/economia/melia-cierra-negocio-cuba-dificultades-legales-operativas-presion_202607216a5f467a303ca6202cc31d46.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-21T10:15:09.000Z",
+      "sourceId": "lootura-es-la-razon"
+    }
+  ],
+  "evidenceCount": 2
 }

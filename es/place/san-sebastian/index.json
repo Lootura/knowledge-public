@@ -8,19 +8,19 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/san-sebastian/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/san-sebastian/index.json",
   "description": "Sigue la actividad de San Sebastián en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-21T06:26:04.171Z",
+  "updatedAt": "2026-07-21T10:23:08.875Z",
   "aliases": [
     "Donostia"
   ],
   "changes": [
     {
-      "title": "Un detenido y seis investigados por «amedrentar y coaccionar» a aficionados con la camiseta de España en San Sebastián",
-      "summary": "El Gobierno Vasco condena las agresiones y afirma que estos comportamientos son incompatibles con los valores de respeto y convivencia.",
+      "title": "El Torneo Donostia Hiria se apunta a la Semana Grande",
+      "summary": "La cita se adelanta y la final se jugará el 14 de agosto en el Atano III con Altuna III y Rezusta dispuestos a encadenar su tercera txapela.",
       "date": "2026-07-20"
     },
     {
-      "title": "El Torneo Donostia Hiria se apunta a la Semana Grande",
-      "summary": "La cita se adelanta y la final se jugará el 14 de agosto en el Atano III con Altuna III y Rezusta dispuestos a encadenar su tercera txapela.",
+      "title": "Un detenido y seis investigados por «amedrentar y coaccionar» a aficionados con la camiseta de España en San Sebastián",
+      "summary": "El Gobierno Vasco condena las agresiones y afirma que estos comportamientos son incompatibles con los valores de respeto y convivencia.",
       "date": "2026-07-20"
     },
     {
@@ -66,17 +66,11 @@
   ],
   "sources": [
     {
-      "title": "Un detenido y seis investigados por «amedrentar y coaccionar» a aficionados con la camiseta de España en San Sebastián",
-      "url": "https://www.diariovasco.com/gipuzkoa/detenido-seis-investigados-amedrentar-coaccionar-aficionados-camiseta-20260720115453-nt_amp.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-20T09:54:53.000Z",
-      "sourceId": "lootura-es-el-diario-vasco"
-    },
-    {
       "title": "El Torneo Donostia Hiria se apunta a la Semana Grande",
       "url": "https://www.diariovasco.com/deportes/pelota/altuna-rezusta-buscaran-tercera-txapela-consecutiva-donostia-hiria-20260720123203-nt_amp.html?utm_source=lootura.com",
       "publishedAt": "2026-07-20T10:32:24.000Z",
       "sourceId": "lootura-es-el-diario-vasco"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

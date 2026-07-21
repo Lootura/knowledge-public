@@ -3,7 +3,7 @@
 > Follow Artificial intelligence, a tracked topic, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: topic
-- Updated: 2026-07-21T06:26:28.839Z
+- Updated: 2026-07-21T10:23:35.333Z
 - Canonical: https://atlas.lootura.com/us/topic/artificial-intelligence
 
 ## Recent changes
@@ -11,6 +11,18 @@
 ### Detailed maps of European wetlands reveal overlooked patches of ecosystems
 
 Nature, Published online: 20 July 2026; doi:10.1038/d41586-026-02211-2 Satellite images have been analysed by a machine-learning algorithm to produce high-resolution maps of wetland environments — a boon for conservation efforts.
+
+Date: 2026-07-21
+
+### Funding milestone detected
+
+EXCLUSIVE: A conservative super PAC focused on policy involving artificial intelligence is making its first campaign investments, throwing its support behind two Republican candidates in House races it views as critical to the GOP's hopes of keeping control of the chamber. Fox News Digital has learned from a person fam.
+
+Date: 2026-07-21
+
+### Meta’s smartglasses mean any child can be covertly filmed. In the age of AI, how do we tackle that risk?
+
+The company argues that it’s for individuals to ensure they don’t ‘actively exploit’ this technology. That won’t keep children safe It took me a while to realise what the man sitting next to me on the train was doing. He was flicking through pictures of a little girl on his phone; zooming in on some, cropping the image.
 
 Date: 2026-07-21
 
@@ -56,18 +68,8 @@ Nature, Published online: 16 July 2026; doi:10.1038/d41586-026-01389-9 The Unite
 
 Date: 2026-07-20
 
-### AI tool reveals climate shifts may have fueled bursts of bird evolution
-
-University of Michigan researchers have used an AI tool to demonstrate that birds in the group Passeriformes evolved in rapid evolutionary bursts and that these bursts frequently coincided with climate shifts throughout Earth's history.
-
-Date: 2026-07-20
-
-### Developer ecosystem expanded
-
-Nature, Published online: 16 July 2026; doi:10.1038/d41586-026-02214-z As automated tools accelerate both the discovery and the exploitation of software vulnerabilities, organizations must redesign their defences and workflows to keep pace.
-
-Date: 2026-07-19
-
 ## Sources
 
-- [Detailed maps of European wetlands reveal overlooked patches of ecosystems](https://www.nature.com/articles/d41586-026-02211-2?utm_source=lootura.com) — 2026-07-21T06:26:32.830Z
+- [Two House races take center stage as conservative PAC launches multimillion-dollar Big Tech push](https://www.foxnews.com/politics/two-house-races-take-center-stage-conservative-pac-launches-multimillion-dollar-big-tech-push?utm_source=lootura.com) — 2026-07-21T10:00:18.000Z
+- [Detailed maps of European wetlands reveal overlooked patches of ecosystems](https://www.nature.com/articles/d41586-026-02211-2?utm_source=lootura.com) — 2026-07-21T10:23:40.159Z
+- [Meta’s smartglasses mean any child can be covertly filmed. In the age of AI, how do we tackle that risk?](https://www.theguardian.com/commentisfree/2026/jul/21/meta-smartglasses-child-filmed-ai-risk-technology?utm_source=lootura.com) — 2026-07-21T05:00:02.000Z

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/pais-vasco/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/pais-vasco/index.json",
   "description": "Sigue la actividad de País Vasco en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-21T06:26:04.171Z",
+  "updatedAt": "2026-07-21T10:23:08.875Z",
   "aliases": [
     "Basque Country",
     "Euskadi"
@@ -71,13 +71,7 @@
       "url": "https://www.elcorreo.com/politica/reconstruccion-ataques-violentos-seguidores-roja-20260720143810-nt.html?utm_source=lootura.com",
       "publishedAt": "2026-07-20T12:38:10.000Z",
       "sourceId": "lootura-es-el-correo"
-    },
-    {
-      "title": "Tiene cuatro días para recorrer Vizcaya y termina realizando el mejor itinerario posible: \"Es un viaje que se puede cerrar por todo lo alto\"",
-      "url": "https://www.larazon.es/pais-vasco/tiene-cuatro-dias-recorrer-vizcaya-termina-realizando-mejor-itinerario-posible-viaje-puede-cerrar-todo-alto-b30m_202607216a5f0afce3eb0b64aa4ae862.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-21T06:00:28.000Z",
-      "sourceId": "lootura-es-la-razon"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

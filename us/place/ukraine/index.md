@@ -70,4 +70,4 @@ Date: 2026-07-18
 
 ## Sources
 
-- [Ukraine fires 400 drones toward Moscow as Zelenskyy grapples with protests](https://www.pbs.org/newshour/world/ukraine-fires-400-drones-toward-moscow-as-zelenskyy-grapples-with-protests?utm_source=lootura.com) — 2026-07-20T16:36:32.000Z
+No public source links.

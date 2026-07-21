@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/iran/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/iran/index.json",
   "description": "Follow Iran, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-21T06:26:28.839Z",
+  "updatedAt": "2026-07-21T10:23:35.333Z",
   "aliases": [],
   "changes": [
     {
@@ -22,24 +22,19 @@
       "date": "2026-07-21"
     },
     {
-      "title": "Oil Prices Cross $90 a Barrel as U.S.-Iran Conflict Widens",
-      "summary": "Brent crude, the global benchmark for oil, rose more than 3 percent as trading resumed on Sunday, while S&P 500 futures remained essentially unchanged.",
-      "date": "2026-07-20"
+      "title": "Funding milestone detected",
+      "summary": "Iran-backed Houthis say they will blockade anothe waterway, threatening Red Sea shipping, Pete Hegseth heads to the Hill looking for $350 billion funding boost, Arizona voters head to the polls.",
+      "date": "2026-07-21"
     },
     {
-      "title": "Morning news brief",
-      "summary": "The U.S. carries out a wave of strikes against Iran, as fighting between the two escalates, Congress faces long to-do list as August recess approaches, Andy Burnham becomes U.K.'s 7th prime minister.",
-      "date": "2026-07-20"
+      "title": "The U.S. Is Pulling Back on Energy Efficiency",
+      "summary": "The Trump administration is undoing fuel-saving efforts even as war in Iran, data centers and heat waves are pushing up gasoline and electricity costs.",
+      "date": "2026-07-21"
     },
     {
-      "title": "U.S. Average Gas Price Returns to $4 a Gallon as Iran Crisis Escalates",
-      "summary": "A month ago, drivers were enjoying some relief at the pump after the U.S. and Iran signed a deal intended to reopen the Strait of Hormuz. Now, prices are rising again.",
-      "date": "2026-07-20"
-    },
-    {
-      "title": "How closely linked are gas prices to U.S.-Iran tensions?",
-      "summary": "Gas prices crept back up amid increased tensions between the U.S. and Iran. Joe Ciolli, the executive editor of Business Insider, joins with more.",
-      "date": "2026-07-20"
+      "title": "Houthis in Yemen Edge Closer to Entering U.S.-Iran War",
+      "summary": "The Iran-backed Houthi militia in Yemen has declared a Red Sea blockade on Saudi Arabia, potentially opening up a new front in the war rippling across the Middle East.",
+      "date": "2026-07-21"
     },
     {
       "title": "How recent killings of U.S. soldiers could affect the war with Iran",
@@ -59,6 +54,11 @@
     {
       "title": "Iran war hurting U.S. allies in region, former Jordanian foreign minister says",
       "summary": "For perspective on the latest developments in the Iran war and the regional ramifications, Amna Nawaz spoke with Marwan Muasher. He's the vice president for studies at the Carnegie Endowment for International Peace and the former deputy prime minister and foreign minister of Jordan.",
+      "date": "2026-07-20"
+    },
+    {
+      "title": "Oil Prices Cross $90 a Barrel as U.S.-Iran Conflict Widens",
+      "summary": "Brent crude, the global benchmark for oil, rose more than 3 percent as trading resumed on Sunday, while S&P 500 futures remained essentially unchanged.",
       "date": "2026-07-20"
     }
   ],
@@ -88,15 +88,9 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "How closely linked are gas prices to U.S.-Iran tensions?",
-      "url": "https://www.cbsnews.com/video/how-closely-linked-are-gas-prices-to-us-iran-tensions/?utm_source=lootura.com",
-      "publishedAt": "2026-07-20T16:45:00.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
-    {
       "title": "Morning news brief",
-      "url": "https://www.npr.org/2026/07/20/nx-s1-5895962/morning-news-brief?utm_source=lootura.com",
-      "publishedAt": "2026-07-20T08:43:08.000Z",
+      "url": "https://www.npr.org/2026/07/21/nx-s1-5895979/morning-news-brief?utm_source=lootura.com",
+      "publishedAt": "2026-07-21T08:44:49.000Z",
       "sourceId": "lootura-us-npr"
     },
     {
@@ -106,23 +100,23 @@
       "sourceId": "lootura-us-pbs-newshour"
     },
     {
-      "title": "Oil Prices Cross $90 a Barrel as U.S.-Iran Conflict Widens",
-      "url": "https://www.nytimes.com/2026/07/19/business/oil-prices-stocks-gas.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-20T06:33:35.000Z",
-      "sourceId": "lootura-us-the-new-york-times"
-    },
-    {
-      "title": "U.S. Average Gas Price Returns to $4 a Gallon as Iran Crisis Escalates",
-      "url": "https://www.nytimes.com/2026/07/20/business/four-dollar-gas-iran-war.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-20T08:55:53.000Z",
-      "sourceId": "lootura-us-the-new-york-times"
-    },
-    {
       "title": "G.O.P. Boxed In on Iran War as Trump Sidelines Congress",
       "url": "https://www.nytimes.com/2026/07/20/us/politics/gop-trump-iran-war.html?utm_source=lootura.com",
       "publishedAt": "2026-07-20T21:30:11.000Z",
       "sourceId": "lootura-us-the-new-york-times-politics"
+    },
+    {
+      "title": "The U.S. Is Pulling Back on Energy Efficiency",
+      "url": "https://www.nytimes.com/2026/07/21/climate/trump-energy-efficiency-standards.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-21T09:02:07.000Z",
+      "sourceId": "lootura-us-the-new-york-times-politics"
+    },
+    {
+      "title": "Houthis in Yemen Edge Closer to Entering U.S.-Iran War",
+      "url": "https://www.nytimes.com/2026/07/21/world/middleeast/houthis-yemen-iran-war.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-21T09:05:37.000Z",
+      "sourceId": "lootura-us-the-new-york-times-world"
     }
   ],
-  "evidenceCount": 11
+  "evidenceCount": 10
 }

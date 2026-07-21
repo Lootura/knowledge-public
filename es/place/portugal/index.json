@@ -8,9 +8,14 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/portugal/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/portugal/index.json",
   "description": "Sigue la actividad de Portugal en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-18T13:08:36.432Z",
+  "updatedAt": "2026-07-21T10:23:08.875Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "Berkeley vuela en Bolsa con los minerales críticos hallados en su proyecto en Salamanca",
+      "summary": "Las acciones de Berkeley Energía son las más destacadas hoy en la Bolsa española despues de que la compañía haya anunciado que ha encontrado ha encontrado minerales críticos en su proyecto 'Conchas' ubicado en la provincia de Salamanca, cerca de la frontera con Portugal.",
+      "date": "2026-07-21"
+    },
     {
       "title": "Un detenido y un investigado por los incendios intencionados de Hermisende (Zamora)",
       "summary": "Un hombre ha sido detenido en las últimas horas y otro está investigado como supuestos autores de delitos de incendio, por su implicación en más de una decena de incendios forestales intencionados que se han producido en un mes en el municipio zamorano de Hermisende, limítrofe con Portugal y con la provincia de Ourense.",
@@ -55,13 +60,15 @@
       "title": "Los últimos meses de Bonnie Tyler: en coma en un hospital de Portugal",
       "summary": "La muerte de Bonnie Tyler pone fin a más de dos meses de hospitalización en Portugal, el país donde la cantante galesa tenía una casa y pasaba largas temporadas. La familia anunció este miércoles que la artista no consiguió recuperarse de una perforación intestinal.Tyler fue ingresada de urgencia a principios de mayo e.",
       "date": "2026-07-09"
-    },
-    {
-      "title": "Muere Bonnie Tyler a los 75 años",
-      "summary": "La música británica ha perdido a una de sus voces más singulares. La cantante galesa Bonnie Tyler , autora de algunos de los mayores himnos del pop-rock de las décadas de 1970 y 1980 y dueña de un timbre inconfundible que desafió los cánones de la industria, ha fallecido a los 75 años en un hospital de Portugal, donde.",
-      "date": "2026-07-09"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Berkeley vuela en Bolsa con los minerales críticos hallados en su proyecto en Salamanca",
+      "url": "https://www.expansion.com/mercados/2026/07/21/6a5f2ba1468aebb4418b4578.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-21T08:30:13.000Z",
+      "sourceId": "lootura-es-expansion"
+    }
+  ],
+  "evidenceCount": 1
 }

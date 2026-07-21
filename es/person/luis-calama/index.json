@@ -1,0 +1,45 @@
+{
+  "id": "es-luis-calama",
+  "name": "Luis Calama",
+  "type": "person",
+  "locale": "es",
+  "canonicalPath": "/es/person/luis-calama",
+  "canonicalUrl": "https://atlas.lootura.com/es/person/luis-calama",
+  "markdownUrl": "https://atlas.lootura.com/es/person/luis-calama/index.md",
+  "jsonUrl": "https://atlas.lootura.com/es/person/luis-calama/index.json",
+  "description": "Sigue la actividad de Luis Calama en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
+  "updatedAt": "2026-07-21T10:23:08.875Z",
+  "aliases": [],
+  "changes": [
+    {
+      "title": "Las tres incongruencias de Zapatero, al descubierto tras la confesión de Julio Martínez y el presidente de Plus Ultra",
+      "summary": "El escrito presentado por el investigado Julio Martínez a 24 horas de su esperada declaración ante el juez de la Audiencia Nacional José Luis Calama complica el horizonte judicial de José Luis Rodríguez Zapatero, con quien entra en evidente contradicción en aspectos vitales sobre su posible participación en el rescate.",
+      "date": "2026-07-21"
+    },
+    {
+      "title": "El horizonte judicial de Zapatero pende de la declaración ante el juez de Julio Martínez tras su decisión de “colaborar”",
+      "summary": "El futuro penal de José Luis Rodríguez Zapatero tiene nombre propio. El empresario Julio Martínez Martínez, administrador de la consultora que pagó durante cinco años al expresidente del Gobierno, declara este martes ante el juez de la Audiencia Nacional José Luis Calama, después de contradecir por escrito la versión q.",
+      "date": "2026-07-21"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Luis Calama first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-07-21"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Las tres incongruencias de Zapatero, al descubierto tras la confesión de Julio Martínez y el presidente de Plus Ultra",
+      "url": "https://www.abc.es/espana/tres-contradicciones-zapatero-julio-martinez-dejan-expresidente-20260721185544-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-21T09:20:34.000Z",
+      "sourceId": "lootura-es-abc"
+    },
+    {
+      "title": "El horizonte judicial de Zapatero pende de la declaración ante el juez de Julio Martínez tras su decisión de “colaborar”",
+      "url": "https://elpais.com/espana/2026-07-21/el-horizonte-judicial-de-zapatero-pende-de-la-declaracion-ante-el-juez-de-julio-martinez-tras-su-decision-de-colaborar.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-21T03:30:01.000Z",
+      "sourceId": "lootura-es-el-pais"
+    }
+  ],
+  "evidenceCount": 2
+}

@@ -8,13 +8,13 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/air-force-one/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/air-force-one/index.json",
   "description": "Follow Air Force One, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-21T06:26:28.839Z",
+  "updatedAt": "2026-07-21T10:23:35.333Z",
   "aliases": [],
   "changes": [
     {
-      "title": "Trump to keep using old Air Force One while new plane gets security upgrades",
-      "summary": "The new Air Force One \"has a lot of capability, but as I understand it, in about a month or so, they're going to send it to have it be maxed out,\" President Trump said Sunday.",
-      "date": "2026-07-20"
+      "title": "New Air Force One going out of commission to get safety upgrades",
+      "summary": "The new Air Force One is going out of commission to receive safety upgrades. What needs to be done and was it safe for President Trump to fly the plane to Turkey earlier this month?",
+      "date": "2026-07-21"
     },
     {
       "title": "Trump Administration Sought Phone Records of Times Journalists and Their Relatives",
@@ -24,6 +24,11 @@
     {
       "title": "DOJ sought phone records of journalists and relatives in effort to unmask sources of Air Force One security report",
       "summary": "A court document says the Trump administration sought New York Times journalists' phone records and even those of some of their relatives in an attempt to unmask the confidential sources of reporters who wrote about Trump's Qatari-gifted Air Force One jet.",
+      "date": "2026-07-20"
+    },
+    {
+      "title": "Trump to keep using old Air Force One while new plane gets security upgrades",
+      "summary": "The new Air Force One \"has a lot of capability, but as I understand it, in about a month or so, they're going to send it to have it be maxed out,\" President Trump said Sunday.",
       "date": "2026-07-20"
     },
     {
@@ -55,19 +60,14 @@
       "title": "New York Times Files Motion to Quash Subpoenas of Its Journalists",
       "summary": "The Justice Department is seeking to compel grand jury testimony as part of an investigation into Times reporting on the president’s new Air Force One jet.",
       "date": "2026-07-16"
-    },
-    {
-      "title": "Investigators Seek Information From Government Officials as Part of Air Force One Leak Investigation",
-      "summary": "After The New York Times reported on security concerns related to the Qatari-donated jet, the F.B.I. sought to speak with several people who flew aboard the plane with President Trump last week and asked for their phones.",
-      "date": "2026-07-16"
     }
   ],
   "sources": [
     {
-      "title": "Trump to keep using old Air Force One while new plane gets security upgrades",
-      "url": "https://www.cbsnews.com/news/trump-air-force-one-maxed-out-security-capabilities-qatar/?utm_source=lootura.com",
-      "publishedAt": "2026-07-20T17:35:23.000Z",
-      "sourceId": "lootura-us-cbs-news"
+      "title": "New Air Force One going out of commission to get safety upgrades",
+      "url": "https://www.npr.org/2026/07/21/nx-s1-5901113/new-air-force-one-going-out-of-commission-to-get-safety-upgrades?utm_source=lootura.com",
+      "publishedAt": "2026-07-21T08:44:35.000Z",
+      "sourceId": "lootura-us-npr-politics"
     },
     {
       "title": "DOJ sought phone records of journalists and relatives in effort to unmask sources of Air Force One security report",

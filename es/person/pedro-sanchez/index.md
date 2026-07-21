@@ -3,10 +3,22 @@
 > Sigue la actividad de Pedro Sánchez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-21T06:26:04.171Z
+- Actualizado: 2026-07-21T10:23:08.875Z
 - Canonical: https://atlas.lootura.com/es/person/pedro-sanchez
 
 ## Cambios recientes
+
+### Sebastián Yatra cantará el 10 de octubre en el festival de la Hispanidad en Madrid
+
+El músico colombiano será el cabeza de cartel, en el que también estará Marta Sánchez, en la semana de eventos y conciertos en la región y en la que Estados Unidos será el país invitado.
+
+Date: 2026-07-21
+
+### Sumar sentencia a Zapatero y pide a Sánchez explicaciones sobre el rescate de Plus Ultra
+
+El portavoz adjunto de Sumar en el Congreso y diputado de Compromís, Alberto Ibáñez, ha afirmado que la situación judicial del expresidente del Gobierno José Luis Rodríguez Zapatero es «inasumible políticamente» y ha señalado que podría haber traspasado la «línea fina entre el lobbismo y el comisionismo». Por ello, ha.
+
+Date: 2026-07-21
 
 ### Podcast | Fuera de micrófono con Ernesto Sáenz de Buruaga
 
@@ -56,19 +68,7 @@ Simpatías forzadas entre los presidentes ante la atenta mirada de Infantino y l
 
 Date: 2026-07-20
 
-### El juez del caso Leire Díez cita el 5 de agosto al exjefe de gabinete de Sánchez para el clonado de su móvil
-
-El juez de la Audiencia Nacional Santiago Pedraz , que dirige la investigación del denominado caso Leire Díez , ha citado el 5 de agosto a las 10.00 horas a Juan Manuel Serrano , exjefe de gabinete del presidente del Gobierno, Pedro Sánchez , y expresidente de Correos , para validar el clonado de su teléfono móvil. La.
-
-Date: 2026-07-20
-
-### Vox recurrirá la sentencia que absuelve al hermano de Sánchez de tráfico de influencias
-
-Vox ha anunciado este lunes que interpondrá un recurso de apelación ante el Tribunal Superior de Justicia de Extremadura contra la decisión de la Audiencia Provincial de Badajoz de absolver a David Sánchez , hermano del presidente del Gobierno, de un delito de tráfico de influencias . Así lo ha anunciado este lunes el.
-
-Date: 2026-07-20
-
 ## Fuentes
 
-- [FOTOS | Así ha sido la celebración de la selección por el Mundial, en imágenes](https://www.eldiario.es/mundial-2026/sido-celebracion-seleccion-mundial-imagenes_3_13394667.html?utm_source=lootura.com) — 2026-07-20T21:31:39.000Z
-- [Podcast | Fuera de micrófono con Ernesto Sáenz de Buruaga](https://theobjective.com/podcasts/fuera-de-microfono/podcast-fuera-de-microfono-ernesto-saenz-de-buruaga/?utm_source=lootura.com) — 2026-07-21T03:25:57.000Z
+- [Sebastián Yatra cantará el 10 de octubre en el festival de la Hispanidad en Madrid](https://www.abc.es/espana/madrid/sebastian-yatra-cantara-octubre-festival-hispanidad-madrid-20260721114848-nt.html?utm_source=lootura.com) — 2026-07-21T09:48:48.000Z
+- [Sumar sentencia a Zapatero y pide a Sánchez explicaciones sobre el rescate de Plus Ultra](https://theobjective.com/espana/politica/2026-07-21/sumar-zapatero-sanchez-plus-ultra/?utm_source=lootura.com) — 2026-07-21T10:10:47.000Z

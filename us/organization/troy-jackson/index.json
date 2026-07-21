@@ -8,9 +8,14 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/troy-jackson/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/troy-jackson/index.json",
   "description": "Follow Troy Jackson, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-21T06:26:28.839Z",
+  "updatedAt": "2026-07-21T10:23:35.333Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "Once Anti-Abortion, Now a Progressive: The Evolution of a Maine Democrat",
+      "summary": "Troy Jackson, who is expected to become his party’s nominee in the state’s marquee Senate race, has long been an economic populist, but his positions on social issues have changed markedly over time.",
+      "date": "2026-07-21"
+    },
     {
       "title": "Tamara Keith and Jasmine Wright on the political fallout of Trump's address",
       "summary": "NPR's Tamara Keith and Jasmine Wright of NOTUS join Amna Nawaz to discuss the latest political news, including Arizona's primary elections, where Republicans will choose a nominee to challenge the incumbent Democratic governor, Troy Jackson appearing to clinch the Democratic nomination for Senate following Graham Platn.",
@@ -55,11 +60,6 @@
       "title": "Maine Democrat Shenna Bellows drops out of race to replace Graham Platner",
       "summary": "SANFORD, Maine — Maine Secretary of State Shenna Bellows ended her Senate campaign on Sunday, further clearing the path for rival Troy Jackson as he consolidates support in a fast-moving Democratic nomination contest. \"This has been an unprecedented nominating process, compressed into days instead of months, and I'm gr.",
       "date": "2026-07-19"
-    },
-    {
-      "title": "Troy Jackson has effectively secured the Maine Senate Democratic nomination",
-      "summary": "SANFORD, Maine — Troy Jackson has effectively secured the Democratic nomination in the crucial Maine Senate race, winning the support of a majority of the state delegates who will officially nominate a candidate next weekend. While they are not legally bound to support him, nearly two-thirds of the 601 delegates have c.",
-      "date": "2026-07-19"
     }
   ],
   "sources": [
@@ -80,6 +80,12 @@
       "url": "https://www.nytimes.com/2026/07/20/us/politics/troy-jackson-maine-senate.html?utm_source=lootura.com",
       "publishedAt": "2026-07-20T15:11:12.000Z",
       "sourceId": "lootura-us-the-new-york-times"
+    },
+    {
+      "title": "Once Anti-Abortion, Now a Progressive: The Evolution of a Maine Democrat",
+      "url": "https://www.nytimes.com/2026/07/21/us/politics/troy-jackson-maine-senate.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-21T09:02:47.000Z",
+      "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
   "evidenceCount": 4

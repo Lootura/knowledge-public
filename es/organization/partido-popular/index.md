@@ -3,10 +3,16 @@
 > Sigue la actividad de Partido Popular en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-21T06:26:04.171Z
+- Actualizado: 2026-07-21T10:23:08.875Z
 - Canonical: https://atlas.lootura.com/es/organization/partido-popular
 
 ## Cambios recientes
+
+### Vox se ofende por la estrategia del PP para que no concurra en toda España: "Que no se presenten ellos"
+
+En Génova creen que Vox resta la posibilidad de crecer en escaños en algunas provincias clave.
+
+Date: 2026-07-21
 
 ### Ofensiva en el Congreso por los fondos contra incendios
 
@@ -62,12 +68,6 @@ La última ocurrencia de los separatistas de Més en Palma: exigen al Ayuntamien
 
 Date: 2026-07-19
 
-### El PP prepara una política de hierro para desmontar el sanchismo económico
-
-Tendemos a exagerar lo que desconocemos. El Partido Popular no sabe lo que se va a encontrar tras la línea de meta de La Moncloa, pero se imagina que le espera una gorda. Las expectativas de acción en el plano económico son muy altas -siempre lo son para la derecha- y los populares no quieren arriesgarse a que cuajen l.
-
-Date: 2026-07-19
-
 ## Fuentes
 
-- [Ofensiva en el Congreso por los fondos contra incendios](https://www.larazon.es/espana/ofensiva-congreso-fondos-incendios_202607216a5e60e2e9f2e84b5c7411bc.html?outputType=amp&utm_source=lootura.com) — 2026-07-21T01:28:40.000Z
+- [Vox se ofende por la estrategia del PP para que no concurra en toda España: "Que no se presenten ellos"](https://www.larazon.es/espana/vox-ofende-estrategia-que-concurra-toda-espana-que-presenten-ellos_202607216a5f4848e3eb0b64aa4b4c9d.html?outputType=amp&utm_source=lootura.com) — 2026-07-21T10:22:09.000Z

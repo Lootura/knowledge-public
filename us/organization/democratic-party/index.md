@@ -3,10 +3,16 @@
 > Follow Democratic Party, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-07-21T06:26:28.839Z
+- Updated: 2026-07-21T10:23:35.333Z
 - Canonical: https://atlas.lootura.com/us/organization/democratic-party
 
 ## Recent changes
+
+### Arizona primaries set the stage for contested fall races in a swing state
+
+Arizona Democrats choose who can try to flip a Republican-held House seat and Republicans pick their nominee to try to unseat a Democratic governor. (Image credit: Ross D. Franklin).
+
+Date: 2026-07-21
 
 ### Democrats avoid a messy fight in Maine, but uncertainty lingers: From the Politics Desk
 
@@ -62,12 +68,6 @@ New York City Democratic Mayor Zohran Mamdani is embracing his identity as a Dem
 
 Date: 2026-07-19
 
-### These AIPAC-Backed Democrats Voted to Nix Israel Aid. AIPAC Punished Them.
-
-Of the 103 Democrats who voted to eliminate aid to Israel, more than a dozen had been endorsed by the pro-Israel lobbying group. AIPAC quickly closed off online donations for them.
-
-Date: 2026-07-18
-
 ## Sources
 
-- [Democrats avoid a messy fight in Maine, but uncertainty lingers: From the Politics Desk](https://www.nbcnews.com/politics/politics-news/democrats-avoid-messy-fight-maine-uncertainty-lingers-politics-desk-rcna588434?utm_source=lootura.com) — 2026-07-20T21:00:40.000Z
+- [Arizona primaries set the stage for contested fall races in a swing state](https://www.npr.org/2026/07/21/nx-s1-5901065/midterms-primaries-arizona-elections?utm_source=lootura.com) — 2026-07-21T09:00:00.000Z

@@ -8,11 +8,16 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/belgium/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/belgium/index.json",
   "description": "Sigue la actividad de Bélgica en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-19T20:42:54.963Z",
+  "updatedAt": "2026-07-21T10:23:08.875Z",
   "aliases": [
     "Belgica"
   ],
   "changes": [
+    {
+      "title": "El vestido de estreno de Matilde de Bélgica para el Día Nacional: guipur, tono champán y una espectacular pamela",
+      "summary": "La Fiesta Nacional de Bélgica ha vuelto a convertirse en una pasarela de elegancia para la Familia Real. Como cada 21 de julio, los Reyes Felipe y Matilde han presidido el tradicional Te Deum celebrado en la catedral de San Miguel y Santa Gúdula de Bruselas, una de las citas institucionales más importantes del año. Par.",
+      "date": "2026-07-21"
+    },
     {
       "title": "Antonelli logra la pole pese a la estrategia de Verstappen: Aston Martin toca fondo",
       "summary": "Incontestable. Kimi Antonelli se lleva la pole del GP de Bélgica por delante de Max Verstappen y George Russell, respectivamente. El de Red Bull lo intentó gracias al rebufo de su compañero Hadjar, pero el italiano de Mercedes clavó la última vuelta para llevarse la sexta de la temporada. Por parte de los españoles, Fe.",
@@ -57,13 +62,15 @@
       "title": "Lamine Yamal: “Si a alguien debe temer Francia es a nosotros”",
       "summary": "Entre la pizarra de Luis de la Fuente y el olfato goleador de Mikel Merino , aparece la gambeta de Lamine Yamal. De nuevo elegido el mejor jugador del duelo ante Bélgica ayer. El canterano del Barcelona no necesitó ni marcar ni asistir para llevarse el trofeo individual. “Estoy muy contento por la victoria. Quiero marc.",
       "date": "2026-07-10"
-    },
-    {
-      "title": "Lluvia de estrellas en el España-Bélgica: de Brad Pitt, Bardem y Penélope Cruz a Pete Sampras",
-      "summary": "Noel Gallagher, de Oasis, el actor Timothée Chalamet y el jugador de la NBA DeMar DeRozan también están en las gradas.",
-      "date": "2026-07-10"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "El vestido de estreno de Matilde de Bélgica para el Día Nacional: guipur, tono champán y una espectacular pamela",
+      "url": "https://www.larazon.es/lifestyle/moda/vestido-estreno-matilde-belgica-dia-nacional-guipur-tono-champan-espectacular-pamela_202607216a5f3d98f172396e89eb82c3.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-21T10:15:13.000Z",
+      "sourceId": "lootura-es-la-razon"
+    }
+  ],
+  "evidenceCount": 1
 }

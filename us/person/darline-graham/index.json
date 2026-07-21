@@ -1,0 +1,80 @@
+{
+  "id": "usa-darline-graham",
+  "name": "Darline Graham",
+  "type": "person",
+  "locale": "en",
+  "canonicalPath": "/us/person/darline-graham",
+  "canonicalUrl": "https://atlas.lootura.com/us/person/darline-graham",
+  "markdownUrl": "https://atlas.lootura.com/us/person/darline-graham/index.md",
+  "jsonUrl": "https://atlas.lootura.com/us/person/darline-graham/index.json",
+  "description": "Follow Darline Graham, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
+  "updatedAt": "2026-07-21T10:23:35.333Z",
+  "aliases": [],
+  "changes": [
+    {
+      "title": "South Carolina Republicans test Trump's clout in race for Graham's seat",
+      "summary": "The race to fill Lindsey Graham’s seat has created a new test of President Donald Trump’s power. South Carolina Republicans aren’t sure Trump will pass. Sen. Darline Graham, who was appointed last week to fill the remainder of her late brother's term, announced Monday she will seek a full term for her brother’s old sea.",
+      "date": "2026-07-21"
+    },
+    {
+      "title": "Lindsey Graham’s Sister, Darline Graham, Says She Will Run to Succeed Him",
+      "summary": "Ms. Graham, who filled her brother’s Senate seat in South Carolina after his death, does not appear to have previous political experience. But she does have President Trump’s endorsement.",
+      "date": "2026-07-20"
+    },
+    {
+      "title": "Sen. Darline Graham says she is running for a full 6-year term after Trump urged her to jump into the race",
+      "summary": "Sen. Darline Graham, R-S.C., said she will run for a full term for the seat held by her late brother, Lindsey Graham, days after President Donald Trump said he urged her to jump into the race.",
+      "date": "2026-07-20"
+    },
+    {
+      "title": "'I'm in.' Darline Graham says she will run for a full term in Lindsey Graham's Senate seat",
+      "summary": "The entrance of Darline Graham into the Republican scramble to select a new Senate nominee further complicates an already rushed process following Lindsey Graham's death earlier this month.",
+      "date": "2026-07-20"
+    },
+    {
+      "title": "Darline Graham's career centered disability. Now she could help shape national policy",
+      "summary": "To former colleagues and the disability advocates who have worked with her, there is little doubt in Darline Graham's capabilities.",
+      "date": "2026-07-18"
+    },
+    {
+      "title": "Trump encourages Darline Graham to run for Lindsey Graham's seat",
+      "summary": "Darline Graham indicated in a White House meeting Thursday that she's weighing a bid, CBS News confirmed. A day later, President Trump wrote on Truth Social: \"RUN, DARLINE, RUN! \".",
+      "date": "2026-07-17"
+    },
+    {
+      "title": "Trump urges Darline Graham to run for full Senate term as funeral planned for her brother",
+      "summary": "President Donald Trump said Friday that Darline Graham, the sister of the late Lindsey Graham, has his support to run for a full term to replace her brother in the U.S. Senate.",
+      "date": "2026-07-17"
+    },
+    {
+      "title": "Darline Graham in serious discussions about running for Lindsey Graham's seat",
+      "summary": "Darline Graham indicated in a White House meeting Thursday that she's weighing a bid, CBS News confirmed.",
+      "date": "2026-07-17"
+    },
+    {
+      "title": "Tim Scott doesn't rule out Darline Graham running for her brother Lindsey's Senate seat",
+      "summary": "With this year's race to succeed Lindsey Graham in the Senate still wide-open, GOP Sen. Tim Scott suggested the late senator's interim replacement — his sister, Darline Graham — could be one candidate.",
+      "date": "2026-07-16"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Darline Graham first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-07-14"
+    }
+  ],
+  "sources": [
+    {
+      "title": "South Carolina Republicans test Trump's clout in race for Graham's seat",
+      "url": "https://www.politico.com/news/2026/07/21/south-carolina-trump-graham-test-01005834?utm_source=lootura.com",
+      "publishedAt": "2026-07-21T08:45:00.000Z",
+      "sourceId": "lootura-us-politico"
+    },
+    {
+      "title": "Lindsey Graham’s Sister, Darline Graham, Says She Will Run to Succeed Him",
+      "url": "https://www.nytimes.com/2026/07/20/us/politics/darline-graham-south-carolina-senate-race.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-20T21:26:50.000Z",
+      "sourceId": "lootura-us-the-new-york-times-politics"
+    }
+  ],
+  "evidenceCount": 2
+}

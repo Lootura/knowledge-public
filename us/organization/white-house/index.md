@@ -3,7 +3,7 @@
 > Follow White House, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-07-21T06:26:28.839Z
+- Updated: 2026-07-21T10:23:35.333Z
 - Canonical: https://atlas.lootura.com/us/organization/white-house
 
 ## Recent changes
@@ -14,12 +14,6 @@ Turmoil likely as Trump officials say Canada unfairly discriminated against US a
 
 Date: 2026-07-21
 
-### Democrats avoid a messy fight in Maine, but uncertainty lingers: From the Politics Desk
-
-Welcome to From the Politics Desk, a daily newsletter that brings you the NBC News Politics team’s latest reporting and analysis from the White House, Capitol Hill and the campaign trail.
-
-Date: 2026-07-20
-
 ### White House Adds Jefferson Statue to the Rose Garden
 
 The statue, which depicts the third president drafting the Declaration of Independence, joins those of Washington, Franklin and Hamilton.
@@ -29,6 +23,12 @@ Date: 2026-07-20
 ### White House Says New Air Force One Will Be Out of Service for a Month for ‘Upgrades’
 
 The White House press secretary said the unspecified “enhancements” would take place this fall. The plane has been under scrutiny over whether it has sufficient defensive capabilities.
+
+Date: 2026-07-20
+
+### Democrats avoid a messy fight in Maine, but uncertainty lingers: From the Politics Desk
+
+Welcome to From the Politics Desk, a daily newsletter that brings you the NBC News Politics team’s latest reporting and analysis from the White House, Capitol Hill and the campaign trail.
 
 Date: 2026-07-20
 
@@ -70,7 +70,5 @@ Date: 2026-07-17
 
 ## Sources
 
-- [Democrats avoid a messy fight in Maine, but uncertainty lingers: From the Politics Desk](https://www.nbcnews.com/politics/politics-news/democrats-avoid-messy-fight-maine-uncertainty-lingers-politics-desk-rcna588434?utm_source=lootura.com) — 2026-07-20T21:00:40.000Z
-- [Donald Trump to impose 50% tariff on most Canadian goods, White House says](https://www.theguardian.com/us-news/2026/jul/20/trump-canada-tariffs?utm_source=lootura.com) — 2026-07-21T02:29:47.000Z
 - [White House Says New Air Force One Will Be Out of Service for a Month for ‘Upgrades’](https://www.nytimes.com/2026/07/20/us/politics/new-air-force-one-upgrades.html?utm_source=lootura.com) — 2026-07-20T21:43:14.000Z
 - [White House Adds Jefferson Statue to the Rose Garden](https://www.nytimes.com/2026/07/20/arts/design/thomas-jefferson-statue-rose-garden-white-house.html?utm_source=lootura.com) — 2026-07-20T19:46:32.000Z

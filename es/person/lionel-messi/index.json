@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/lionel-messi/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/lionel-messi/index.json",
   "description": "Sigue la actividad de Lionel Messi en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-20T21:09:57.635Z",
+  "updatedAt": "2026-07-21T10:23:08.875Z",
   "aliases": [
     "Messi"
   ],
@@ -64,6 +64,13 @@
       "date": "2026-07-16"
     }
   ],
-  "sources": [],
+  "sources": [
+    {
+      "title": "La selección argentina regresa a casa sin Messi",
+      "url": "https://www.lavanguardia.com/deportes/futbol/20260721/11597384/seleccion-argentina-regresa-casa-messi.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-21T08:11:53.000Z",
+      "sourceId": "lootura-es-la-vanguardia"
+    }
+  ],
   "evidenceCount": 0
 }

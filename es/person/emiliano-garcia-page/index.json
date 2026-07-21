@@ -8,11 +8,16 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/emiliano-garcia-page/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/emiliano-garcia-page/index.json",
   "description": "Sigue la actividad de Emiliano García-Page en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-21T02:27:26.549Z",
+  "updatedAt": "2026-07-21T10:23:08.875Z",
   "aliases": [
     "García-Page"
   ],
   "changes": [
+    {
+      "title": "El incendio de La Mierla (Guadalajara) frena su avance a Soria y afecta a 29.000 hectáreas",
+      "summary": "Emiliano García-Page asegura que «empezamos a ver cómo son más las operaciones que culminan en éxito».",
+      "date": "2026-07-21"
+    },
     {
       "title": "Page vaticina que incendio La Mierla superará las 26.000 hectáreas quemadas",
       "summary": "El presidente de Castilla-La Mancha , Emiliano García-Page , ha vaticinado que el incendio forestal de La Mierla (Guadalajara) se irá «por encima de las 26.000 hectáreas» calcinadas , pero ha asegurado que el operativo de lucha contra el fuego está «triunfando» en sus prioridades, la defensa de las vidas humanas y de l.",
@@ -34,6 +39,13 @@
       "date": "2026-07-18"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "El incendio de La Mierla (Guadalajara) frena su avance a Soria y afecta a 29.000 hectáreas",
+      "url": "https://theobjective.com/sociedad/suceso/2026-07-21/incendio-la-mierla-guadalajara-frena-soria-29-000-hectareas/?amp=&utm_source=lootura.com",
+      "publishedAt": "2026-07-21T10:11:07.000Z",
+      "sourceId": "lootura-es-the-objective"
+    }
+  ],
+  "evidenceCount": 1
 }

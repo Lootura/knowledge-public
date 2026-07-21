@@ -3,10 +3,22 @@
 > Sigue la actividad de José Luis Rodríguez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-21T06:26:04.171Z
+- Actualizado: 2026-07-21T10:23:08.875Z
 - Canonical: https://atlas.lootura.com/es/person/jose-luis-rodriguez
 
 ## Cambios recientes
+
+### El horizonte judicial de Zapatero pende de la declaración ante el juez de Julio Martínez tras su decisión de “colaborar”
+
+El futuro penal de José Luis Rodríguez Zapatero tiene nombre propio. El empresario Julio Martínez Martínez, administrador de la consultora que pagó durante cinco años al expresidente del Gobierno, declara este martes ante el juez de la Audiencia Nacional José Luis Calama, después de contradecir por escrito la versión q.
+
+Date: 2026-07-21
+
+### Las tres incongruencias de Zapatero, al descubierto tras la confesión de Julio Martínez y el presidente de Plus Ultra
+
+El escrito presentado por el investigado Julio Martínez a 24 horas de su esperada declaración ante el juez de la Audiencia Nacional José Luis Calama complica el horizonte judicial de José Luis Rodríguez Zapatero, con quien entra en evidente contradicción en aspectos vitales sobre su posible participación en el rescate.
+
+Date: 2026-07-21
 
 ### Julio Martínez confirmará hoy los hallazgos de la UDEF y desmontará la versión de Zapatero ante el juez: "Él marcaba los pasos a seguir"
 
@@ -23,12 +35,6 @@ Date: 2026-07-21
 ### Plus Ultra sitúa el primer contacto con Zapatero casi un año antes del rescate de la aerolínea
 
 La aerolínea Plus Ultra, rescatada con dinero público durante la crisis del Covid-19, pidió la intermediación del empresario Julio Martínez Martínez, administrador de la firma Análisis Relevante, y de su íntimo amigo el expresidente del Gobierno, José Luis Rodríguez Zapatero , para solicitar y acelerar la ayuda de 53 m.
-
-Date: 2026-07-21
-
-### El horizonte judicial de Zapatero pende de la declaración ante el juez de Julio Martínez tras su decisión de “colaborar”
-
-El futuro penal de José Luis Rodríguez Zapatero tiene nombre propio. El empresario Julio Martínez Martínez, administrador de la consultora que pagó durante cinco años al expresidente del Gobierno, declara este martes ante el juez de la Audiencia Nacional José Luis Calama, después de contradecir por escrito la versión q.
 
 Date: 2026-07-21
 
@@ -62,16 +68,8 @@ Plus Ultra y Julio Martínez Martínez han enviado sendos escritos a la Audienci
 
 Date: 2026-07-20
 
-### El ‘testaferro’ de Zapatero confiesa al juez que el expresidente medió en el rescate de Plus Ultra
-
-Julio Martínez Martínez rompe la baraja . El presunto testaferro de José Luis Rodríguez Zapatero ha enviado este lunes un escrito al juez de la Audiencia Nacional José Luis Calama en el que confiesa que supo de «la existencia de Plus ultra» en mayo de 2020, cuando el expresidente del Gobierno «le adelantó que iba a rec.
-
-Date: 2026-07-20
-
 ## Fuentes
 
-- [Julio Martínez confirmará hoy los hallazgos de la UDEF y desmontará la versión de Zapatero ante el juez: "Él marcaba los pasos a seguir"](https://www.20minutos.es/nacional/julio-martinez-confirmara-los-hallazgos-udef-desmontara-version-zapatero-ante-juez-marcaba-los-pasos-seguir_7016860_0.html?utm_source=lootura.com) — 2026-07-21T03:00:00.000Z
-- [Julio Martínez delata a Zapatero y dice que se llevó el 1% por mediar en Plus Ultra](https://www.abc.es/espana/plus-ultra-julito-martinez-envian-escritos-juez-20260720142541-nt.html?utm_source=lootura.com) — 2026-07-21T05:26:54.000Z
-- [Plus Ultra sitúa el primer contacto con Zapatero casi un año antes del rescate de la aerolínea](https://elpais.com/espana/2026-07-21/plus-ultra-situa-el-primer-contacto-con-zapatero-casi-un-ano-antes-del-rescate-de-la-aerolinea.html?utm_source=lootura.com) — 2026-07-21T03:30:01.000Z
+- [Las tres incongruencias de Zapatero, al descubierto tras la confesión de Julio Martínez y el presidente de Plus Ultra](https://www.abc.es/espana/tres-contradicciones-zapatero-julio-martinez-dejan-expresidente-20260721185544-nt.html?utm_source=lootura.com) — 2026-07-21T09:20:34.000Z
 - [La confesión del empresario Julio Martínez y los directivos de Plus Ultra destruye la estrategia de defensa de Zapatero](https://amp.elmundo.es/espana/2026/07/20/6a5e7556e4d4d82f588b45ba.html?utm_source=lootura.com) — 2026-07-20T20:46:48.000Z
 - [El horizonte judicial de Zapatero pende de la declaración ante el juez de Julio Martínez tras su decisión de “colaborar”](https://elpais.com/espana/2026-07-21/el-horizonte-judicial-de-zapatero-pende-de-la-declaracion-ante-el-juez-de-julio-martinez-tras-su-decision-de-colaborar.html?utm_source=lootura.com) — 2026-07-21T03:30:01.000Z

@@ -3,10 +3,16 @@
 > Follow Customs Enforcement, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-07-21T06:26:28.839Z
+- Updated: 2026-07-21T10:23:35.333Z
 - Canonical: https://atlas.lootura.com/us/person/customs-enforcement
 
 ## Recent changes
+
+### Video appears to show United employee threatening to call ICE on customer
+
+A United Airlines employee appears to have been caught on video threatening to call U.S. Immigration and Customs Enforcement on a passenger last week at San Francisco International Airport.
+
+Date: 2026-07-21
 
 ### Video appears to show United employee threaten to call ICE on customer
 
@@ -62,13 +68,7 @@ U.S. Immigration and Customs Enforcement officials shot and killed two men in th
 
 Date: 2026-07-15
 
-### Acting AG Todd Blanche faces a key test. And, ICE pauses most traffic stops
-
-Acting Attorney General Todd Blanche is set to appear before the Senate for his confirmation hearing. And, Immigration and Customs Enforcement has paused most traffic stops after recent deadly shootings. (Image credit: Ken Cedeno).
-
-Date: 2026-07-15
-
 ## Sources
 
-- [Video appears to show United employee threaten to call ICE on customer](https://www.cbsnews.com/news/united-airlines-employee-threatens-to-call-ice-sfo-passenger-act-like-a-citizen/?utm_source=lootura.com) — 2026-07-21T01:43:54.000Z
+- [Video appears to show United employee threatening to call ICE on customer](https://www.cbsnews.com/news/united-airlines-employee-threatens-to-call-ice-sfo-passenger-act-like-a-citizen/?utm_source=lootura.com) — 2026-07-21T01:43:00.000Z
 - [Senators demand ICE answers and body cameras after deadly shootings in Maine and Houston](https://www.pbs.org/newshour/nation/senators-demand-ice-answers-and-body-cameras-after-deadly-shootings-in-maine-and-houston?utm_source=lootura.com) — 2026-07-20T19:10:30.000Z

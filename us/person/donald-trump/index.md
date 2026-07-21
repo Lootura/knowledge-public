@@ -3,7 +3,7 @@
 > Follow Donald Trump, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-07-21T06:26:28.839Z
+- Updated: 2026-07-21T10:23:35.333Z
 - Canonical: https://atlas.lootura.com/us/person/donald-trump
 
 ## Recent changes
@@ -11,6 +11,30 @@
 ### New round of strikes targeting Iran underway, U.S. officials say
 
 A 10th straight night of U.S. strikes on Iran is underway as President Trump vows Tehran will pay for the deaths of three American soldiers over the weekend. CBS News senior national security correspondent Charlie D'Agata reports. Then, global affairs analyst Jonathan Wachtel joins to discuss the state of the war.
+
+Date: 2026-07-21
+
+### New Air Force One going out of commission to get safety upgrades
+
+The new Air Force One is going out of commission to receive safety upgrades. What needs to be done and was it safe for President Trump to fly the plane to Turkey earlier this month?
+
+Date: 2026-07-21
+
+### South Carolina Republicans test Trump's clout in race for Graham's seat
+
+The race to fill Lindsey Graham’s seat has created a new test of President Donald Trump’s power. South Carolina Republicans aren’t sure Trump will pass. Sen. Darline Graham, who was appointed last week to fill the remainder of her late brother's term, announced Monday she will seek a full term for her brother’s old sea.
+
+Date: 2026-07-21
+
+### The U.S. Is Pulling Back on Energy Efficiency
+
+The Trump administration is undoing fuel-saving efforts even as war in Iran, data centers and heat waves are pushing up gasoline and electricity costs.
+
+Date: 2026-07-21
+
+### UK’s New Prime Minister Burnham Orders Cut in Taxes on Electricity
+
+Prime Minister Andy Burnham moved quickly to confront the high cost of living. And President Trump wished him well after a phone call between the two leaders.
 
 Date: 2026-07-21
 
@@ -25,18 +49,6 @@ Date: 2026-07-21
 The administration will use an untested legal provision to put significant duties on Canadian exports, reigniting a clash with one of America’s biggest trading partners.
 
 Date: 2026-07-21
-
-### North Sea Drilling Offers First Test for Burnham’s Relationship With Trump
-
-Andy Burnham has not yet met President Trump, but the two men will be expected to speak shortly after Mr. Burnham becomes prime minister.
-
-Date: 2026-07-20
-
-### Trump to keep using old Air Force One while new plane gets security upgrades
-
-The new Air Force One "has a lot of capability, but as I understand it, in about a month or so, they're going to send it to have it be maxed out," President Trump said Sunday.
-
-Date: 2026-07-20
 
 ### How recent killings of U.S. soldiers could affect the war with Iran
 
@@ -56,27 +68,15 @@ Ms. Graham, who filled her brother’s Senate seat in South Carolina after his d
 
 Date: 2026-07-20
 
-### Trump imposes 50% tariffs on dairy, alcohol, and cars from Canada
-
-The Trump administration imposed 50% tariffs on three categories of imports from Canada, dairy, alcohol, and cars, citing discriminatory actions. NBC News' Monica Alba reports on how Trump is also considering additional tariffs due to the Canadian wildfires.
-
-Date: 2026-07-20
-
-### Tamara Keith and Jasmine Wright on the political fallout of Trump's address
-
-NPR's Tamara Keith and Jasmine Wright of NOTUS join Amna Nawaz to discuss the latest political news, including Arizona's primary elections, where Republicans will choose a nominee to challenge the incumbent Democratic governor, Troy Jackson appearing to clinch the Democratic nomination for Senate following Graham Platn.
-
-Date: 2026-07-20
-
 ## Sources
 
 - [New round of strikes targeting Iran underway, U.S. officials say](https://www.cbsnews.com/video/new-round-strikes-targeting-iran-underway-officials/?utm_source=lootura.com) — 2026-07-21T01:13:00.000Z
 - [How recent killings of U.S. soldiers could affect the war with Iran](https://www.cbsnews.com/video/how-recent-killings-of-us-soldiers-could-affect-the-war-with-iran/?utm_source=lootura.com) — 2026-07-20T19:27:21.000Z
-- [Trump to keep using old Air Force One while new plane gets security upgrades](https://www.cbsnews.com/news/trump-air-force-one-maxed-out-security-capabilities-qatar/?utm_source=lootura.com) — 2026-07-20T17:35:23.000Z
-- [Trump imposes 50% tariffs on dairy, alcohol, and cars from Canada](https://www.nbcnews.com/video/trump-imposes-50-tariffs-on-dairy-alcohol-and-cars-from-canada-266971717891?utm_source=lootura.com) — 2026-07-20T21:52:47.000Z
+- [New Air Force One going out of commission to get safety upgrades](https://www.npr.org/2026/07/21/nx-s1-5901113/new-air-force-one-going-out-of-commission-to-get-safety-upgrades?utm_source=lootura.com) — 2026-07-21T08:44:35.000Z
 - [Tamara Keith and Jasmine Wright on the political fallout of Trump's address](https://www.pbs.org/newshour/show/tamara-keith-and-jasmine-wright-on-the-political-fallout-of-trumps-address?utm_source=lootura.com) — 2026-07-20T22:30:46.000Z
 - [DOJ sought phone records of journalists and relatives in effort to unmask sources of Air Force One security report](https://www.pbs.org/newshour/nation/doj-sought-phone-records-of-journalists-and-relatives-in-effort-to-unmask-sources-of-air-force-one-security-report?utm_source=lootura.com) — 2026-07-20T18:34:58.000Z
-- [Donald Trump to impose 50% tariff on most Canadian goods, White House says](https://www.theguardian.com/us-news/2026/jul/20/trump-canada-tariffs?utm_source=lootura.com) — 2026-07-21T02:29:47.000Z
-- [North Sea Drilling Offers First Test for Burnham’s Relationship With Trump](https://www.nytimes.com/2026/07/20/world/europe/burnham-trump-uk-us-relationship-north-sea-oil.html?utm_source=lootura.com) — 2026-07-20T09:32:27.000Z
+- [South Carolina Republicans test Trump's clout in race for Graham's seat](https://www.politico.com/news/2026/07/21/south-carolina-trump-graham-test-01005834?utm_source=lootura.com) — 2026-07-21T08:45:00.000Z
+- [The U.S. Is Pulling Back on Energy Efficiency](https://www.nytimes.com/2026/07/21/climate/trump-energy-efficiency-standards.html?utm_source=lootura.com) — 2026-07-21T09:02:07.000Z
 - [Will a Sex Scandal Involving Mark Lamb Matter in Arizona GOP House Primary?](https://www.nytimes.com/2026/07/20/us/politics/arizona-house-primary-lamb.html?utm_source=lootura.com) — 2026-07-20T22:28:12.000Z
 - [Lindsey Graham’s Sister, Darline Graham, Says She Will Run to Succeed Him](https://www.nytimes.com/2026/07/20/us/politics/darline-graham-south-carolina-senate-race.html?utm_source=lootura.com) — 2026-07-20T21:26:50.000Z
+- [UK’s New Prime Minister Burnham Orders Cut in Taxes on Electricity](https://www.nytimes.com/2026/07/21/world/europe/uk-andy-burnham-electricity-tax-vat.html?utm_source=lootura.com) — 2026-07-21T09:39:56.000Z

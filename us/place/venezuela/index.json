@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/venezuela/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/venezuela/index.json",
   "description": "Follow Venezuela, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-20T21:10:24.211Z",
+  "updatedAt": "2026-07-21T10:23:35.333Z",
   "aliases": [],
   "changes": [
     {
@@ -57,6 +57,13 @@
       "date": "2026-07-08"
     }
   ],
-  "sources": [],
+  "sources": [
+    {
+      "title": "Two Young Brothers and Their Search for Venezuela’s Dead",
+      "url": "https://www.nytimes.com/2026/07/21/world/americas/venezuela-quake-victims-search.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-21T09:02:56.000Z",
+      "sourceId": "lootura-us-the-new-york-times-world"
+    }
+  ],
   "evidenceCount": 0
 }

@@ -8,18 +8,13 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/white-house/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/white-house/index.json",
   "description": "Follow White House, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-21T06:26:28.839Z",
+  "updatedAt": "2026-07-21T10:23:35.333Z",
   "aliases": [],
   "changes": [
     {
       "title": "Donald Trump to impose 50% tariff on most Canadian goods, White House says",
       "summary": "Turmoil likely as Trump officials say Canada unfairly discriminated against US autos, alcohol and dairy products Donald Trump is imposing 50% tariffs on most Canadian goods in response to the country retaliating against previous US tariffs, the White House announced Monday, declaring Canada has unfairly discriminated a.",
       "date": "2026-07-21"
-    },
-    {
-      "title": "Democrats avoid a messy fight in Maine, but uncertainty lingers: From the Politics Desk",
-      "summary": "Welcome to From the Politics Desk, a daily newsletter that brings you the NBC News Politics team’s latest reporting and analysis from the White House, Capitol Hill and the campaign trail.",
-      "date": "2026-07-20"
     },
     {
       "title": "White House Adds Jefferson Statue to the Rose Garden",
@@ -29,6 +24,11 @@
     {
       "title": "White House Says New Air Force One Will Be Out of Service for a Month for ‘Upgrades’",
       "summary": "The White House press secretary said the unspecified “enhancements” would take place this fall. The plane has been under scrutiny over whether it has sufficient defensive capabilities.",
+      "date": "2026-07-20"
+    },
+    {
+      "title": "Democrats avoid a messy fight in Maine, but uncertainty lingers: From the Politics Desk",
+      "summary": "Welcome to From the Politics Desk, a daily newsletter that brings you the NBC News Politics team’s latest reporting and analysis from the White House, Capitol Hill and the campaign trail.",
       "date": "2026-07-20"
     },
     {
@@ -64,18 +64,6 @@
   ],
   "sources": [
     {
-      "title": "Democrats avoid a messy fight in Maine, but uncertainty lingers: From the Politics Desk",
-      "url": "https://www.nbcnews.com/politics/politics-news/democrats-avoid-messy-fight-maine-uncertainty-lingers-politics-desk-rcna588434?utm_source=lootura.com",
-      "publishedAt": "2026-07-20T21:00:40.000Z",
-      "sourceId": "lootura-us-nbc-news-politics"
-    },
-    {
-      "title": "Donald Trump to impose 50% tariff on most Canadian goods, White House says",
-      "url": "https://www.theguardian.com/us-news/2026/jul/20/trump-canada-tariffs?utm_source=lootura.com",
-      "publishedAt": "2026-07-21T02:29:47.000Z",
-      "sourceId": "lootura-us-the-guardian-us"
-    },
-    {
       "title": "White House Says New Air Force One Will Be Out of Service for a Month for ‘Upgrades’",
       "url": "https://www.nytimes.com/2026/07/20/us/politics/new-air-force-one-upgrades.html?utm_source=lootura.com",
       "publishedAt": "2026-07-20T21:43:14.000Z",
@@ -88,5 +76,5 @@
       "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 4
+  "evidenceCount": 3
 }

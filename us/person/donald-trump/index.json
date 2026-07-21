@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/donald-trump/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/donald-trump/index.json",
   "description": "Follow Donald Trump, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-21T06:26:28.839Z",
+  "updatedAt": "2026-07-21T10:23:35.333Z",
   "aliases": [
     "President Donald Trump",
     "President Trump",
@@ -21,6 +21,26 @@
       "date": "2026-07-21"
     },
     {
+      "title": "New Air Force One going out of commission to get safety upgrades",
+      "summary": "The new Air Force One is going out of commission to receive safety upgrades. What needs to be done and was it safe for President Trump to fly the plane to Turkey earlier this month?",
+      "date": "2026-07-21"
+    },
+    {
+      "title": "South Carolina Republicans test Trump's clout in race for Graham's seat",
+      "summary": "The race to fill Lindsey Graham’s seat has created a new test of President Donald Trump’s power. South Carolina Republicans aren’t sure Trump will pass. Sen. Darline Graham, who was appointed last week to fill the remainder of her late brother's term, announced Monday she will seek a full term for her brother’s old sea.",
+      "date": "2026-07-21"
+    },
+    {
+      "title": "The U.S. Is Pulling Back on Energy Efficiency",
+      "summary": "The Trump administration is undoing fuel-saving efforts even as war in Iran, data centers and heat waves are pushing up gasoline and electricity costs.",
+      "date": "2026-07-21"
+    },
+    {
+      "title": "UK’s New Prime Minister Burnham Orders Cut in Taxes on Electricity",
+      "summary": "Prime Minister Andy Burnham moved quickly to confront the high cost of living. And President Trump wished him well after a phone call between the two leaders.",
+      "date": "2026-07-21"
+    },
+    {
       "title": "Donald Trump to impose 50% tariff on most Canadian goods, White House says",
       "summary": "Turmoil likely as Trump officials say Canada unfairly discriminated against US autos, alcohol and dairy products Donald Trump is imposing 50% tariffs on most Canadian goods in response to the country retaliating against previous US tariffs, the White House announced Monday, declaring Canada has unfairly discriminated a.",
       "date": "2026-07-21"
@@ -29,16 +49,6 @@
       "title": "Trump to Impose 50% Tariff on Many Canadian Goods",
       "summary": "The administration will use an untested legal provision to put significant duties on Canadian exports, reigniting a clash with one of America’s biggest trading partners.",
       "date": "2026-07-21"
-    },
-    {
-      "title": "North Sea Drilling Offers First Test for Burnham’s Relationship With Trump",
-      "summary": "Andy Burnham has not yet met President Trump, but the two men will be expected to speak shortly after Mr. Burnham becomes prime minister.",
-      "date": "2026-07-20"
-    },
-    {
-      "title": "Trump to keep using old Air Force One while new plane gets security upgrades",
-      "summary": "The new Air Force One \"has a lot of capability, but as I understand it, in about a month or so, they're going to send it to have it be maxed out,\" President Trump said Sunday.",
-      "date": "2026-07-20"
     },
     {
       "title": "How recent killings of U.S. soldiers could affect the war with Iran",
@@ -53,16 +63,6 @@
     {
       "title": "Lindsey Graham’s Sister, Darline Graham, Says She Will Run to Succeed Him",
       "summary": "Ms. Graham, who filled her brother’s Senate seat in South Carolina after his death, does not appear to have previous political experience. But she does have President Trump’s endorsement.",
-      "date": "2026-07-20"
-    },
-    {
-      "title": "Trump imposes 50% tariffs on dairy, alcohol, and cars from Canada",
-      "summary": "The Trump administration imposed 50% tariffs on three categories of imports from Canada, dairy, alcohol, and cars, citing discriminatory actions. NBC News' Monica Alba reports on how Trump is also considering additional tariffs due to the Canadian wildfires.",
-      "date": "2026-07-20"
-    },
-    {
-      "title": "Tamara Keith and Jasmine Wright on the political fallout of Trump's address",
-      "summary": "NPR's Tamara Keith and Jasmine Wright of NOTUS join Amna Nawaz to discuss the latest political news, including Arizona's primary elections, where Republicans will choose a nominee to challenge the incumbent Democratic governor, Troy Jackson appearing to clinch the Democratic nomination for Senate following Graham Platn.",
       "date": "2026-07-20"
     }
   ],
@@ -80,16 +80,10 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "Trump to keep using old Air Force One while new plane gets security upgrades",
-      "url": "https://www.cbsnews.com/news/trump-air-force-one-maxed-out-security-capabilities-qatar/?utm_source=lootura.com",
-      "publishedAt": "2026-07-20T17:35:23.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
-    {
-      "title": "Trump imposes 50% tariffs on dairy, alcohol, and cars from Canada",
-      "url": "https://www.nbcnews.com/video/trump-imposes-50-tariffs-on-dairy-alcohol-and-cars-from-canada-266971717891?utm_source=lootura.com",
-      "publishedAt": "2026-07-20T21:52:47.000Z",
-      "sourceId": "lootura-us-nbc-news-politics"
+      "title": "New Air Force One going out of commission to get safety upgrades",
+      "url": "https://www.npr.org/2026/07/21/nx-s1-5901113/new-air-force-one-going-out-of-commission-to-get-safety-upgrades?utm_source=lootura.com",
+      "publishedAt": "2026-07-21T08:44:35.000Z",
+      "sourceId": "lootura-us-npr-politics"
     },
     {
       "title": "Tamara Keith and Jasmine Wright on the political fallout of Trump's address",
@@ -104,16 +98,16 @@
       "sourceId": "lootura-us-pbs-newshour"
     },
     {
-      "title": "Donald Trump to impose 50% tariff on most Canadian goods, White House says",
-      "url": "https://www.theguardian.com/us-news/2026/jul/20/trump-canada-tariffs?utm_source=lootura.com",
-      "publishedAt": "2026-07-21T02:29:47.000Z",
-      "sourceId": "lootura-us-the-guardian-us"
+      "title": "South Carolina Republicans test Trump's clout in race for Graham's seat",
+      "url": "https://www.politico.com/news/2026/07/21/south-carolina-trump-graham-test-01005834?utm_source=lootura.com",
+      "publishedAt": "2026-07-21T08:45:00.000Z",
+      "sourceId": "lootura-us-politico"
     },
     {
-      "title": "North Sea Drilling Offers First Test for Burnham’s Relationship With Trump",
-      "url": "https://www.nytimes.com/2026/07/20/world/europe/burnham-trump-uk-us-relationship-north-sea-oil.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-20T09:32:27.000Z",
-      "sourceId": "lootura-us-the-new-york-times"
+      "title": "The U.S. Is Pulling Back on Energy Efficiency",
+      "url": "https://www.nytimes.com/2026/07/21/climate/trump-energy-efficiency-standards.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-21T09:02:07.000Z",
+      "sourceId": "lootura-us-the-new-york-times-politics"
     },
     {
       "title": "Will a Sex Scandal Involving Mark Lamb Matter in Arizona GOP House Primary?",
@@ -126,7 +120,13 @@
       "url": "https://www.nytimes.com/2026/07/20/us/politics/darline-graham-south-carolina-senate-race.html?utm_source=lootura.com",
       "publishedAt": "2026-07-20T21:26:50.000Z",
       "sourceId": "lootura-us-the-new-york-times-politics"
+    },
+    {
+      "title": "UK’s New Prime Minister Burnham Orders Cut in Taxes on Electricity",
+      "url": "https://www.nytimes.com/2026/07/21/world/europe/uk-andy-burnham-electricity-tax-vat.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-21T09:39:56.000Z",
+      "sourceId": "lootura-us-the-new-york-times-world"
     }
   ],
-  "evidenceCount": 11
+  "evidenceCount": 12
 }

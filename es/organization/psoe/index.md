@@ -3,10 +3,22 @@
 > Sigue la actividad de Partido Socialista Obrero Español en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-21T06:26:04.171Z
+- Actualizado: 2026-07-21T10:23:08.875Z
 - Canonical: https://atlas.lootura.com/es/organization/psoe
 
 ## Cambios recientes
+
+### El PSOE recupera la condena al fiscal general para recurrir el archivo a Miguel Ángel Rodríguez: "Ha borrado mensajes"
+
+Los socialistas recurren directamente a la Audiencia Provincial y acusan a la magistrada Raquel Robles de una investigación "sesgada" después de evitar el testimonio clave de los policías que identificaron a dos periodistas de El País y luego le entregaron los datos presuntamente al jefe de gabinete de Ayuso La jueza a.
+
+Date: 2026-07-21
+
+### La abogada de Koldo García pide citar a Aldama en el ‘caso Leire Díez’
+
+La abogada del exasesor ministerial Koldo García , Leticia de la Hoz, ha pedido citar como testigo al comisionista Víctor de Aldama para comprobar la versión que dio la empresaria Carmen Pano, quien la acusa de intentar sobornarla para que se retractara de su afirmación de haber llevado 90.000 euros a la sede del PSOE.
+
+Date: 2026-07-21
 
 ### Manifestarse contra el turismo
 
@@ -56,18 +68,7 @@ Los militantes del PSOE de Madrid están convocados a las urnas este domingo, pa
 
 Date: 2026-07-19
 
-### Begoña Gómez, la última línea roja
-
-A Pedro Sánchez le quedan pocas líneas rojas que transgredir en política. Presentó una moción de censura contra el Partido Popular con solo 85 diputados, el peor resultado electoral que haya tenido el PSOE en democracia. Hasta ese momento, en España gobernaba el que ganaba en las urnas. Además, pactó, entre otros, con.
-
-Date: 2026-07-19
-
-### La doble vara de medir del PP de Ayuso ante el acoso sexual: de las críticas a Salazar al apoyo al alcalde de Móstoles
-
-El PP de Madrid sigue apostando por un apoyo cerrado a Manuel Bautista, a pesar de su imputación por acoso sexual y laboral mientras Ayuso incluso alaba su trabajo como regidor, una posición muy diferente a la que tomaron con otros escándalos que afectan al PSOE o a otros partidos de la izquierda Ayuso, tras conocer qu.
-
-Date: 2026-07-18
-
 ## Fuentes
 
-- [Manifestarse contra el turismo](https://okdiario.com/baleares/manifestarse-contra-turismo-19032188?utm_source=lootura.com) — 2026-07-21T02:00:11.000Z
+- [El PSOE recupera la condena al fiscal general para recurrir el archivo a Miguel Ángel Rodríguez: "Ha borrado mensajes"](https://www.eldiario.es/politica/psoe-recupera-condena-fiscal-general-recurrir-archivo-miguel-angel-rodriguez-borrado-mensajes_1_13392980.html?utm_source=lootura.com) — 2026-07-21T06:29:52.000Z
+- [La abogada de Koldo García pide citar a Aldama en el ‘caso Leire Díez’](https://theobjective.com/espana/tribunales/2026-07-21/abogada-koldo-garcia-caso-leire-diez/?utm_source=lootura.com) — 2026-07-21T09:13:38.000Z

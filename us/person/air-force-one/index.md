@@ -3,16 +3,16 @@
 > Follow Air Force One, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-07-21T06:26:28.839Z
+- Updated: 2026-07-21T10:23:35.333Z
 - Canonical: https://atlas.lootura.com/us/person/air-force-one
 
 ## Recent changes
 
-### Trump to keep using old Air Force One while new plane gets security upgrades
+### New Air Force One going out of commission to get safety upgrades
 
-The new Air Force One "has a lot of capability, but as I understand it, in about a month or so, they're going to send it to have it be maxed out," President Trump said Sunday.
+The new Air Force One is going out of commission to receive safety upgrades. What needs to be done and was it safe for President Trump to fly the plane to Turkey earlier this month?
 
-Date: 2026-07-20
+Date: 2026-07-21
 
 ### Trump Administration Sought Phone Records of Times Journalists and Their Relatives
 
@@ -23,6 +23,12 @@ Date: 2026-07-20
 ### DOJ sought phone records of journalists and relatives in effort to unmask sources of Air Force One security report
 
 A court document says the Trump administration sought New York Times journalists' phone records and even those of some of their relatives in an attempt to unmask the confidential sources of reporters who wrote about Trump's Qatari-gifted Air Force One jet.
+
+Date: 2026-07-20
+
+### Trump to keep using old Air Force One while new plane gets security upgrades
+
+The new Air Force One "has a lot of capability, but as I understand it, in about a month or so, they're going to send it to have it be maxed out," President Trump said Sunday.
 
 Date: 2026-07-20
 
@@ -62,14 +68,8 @@ The Justice Department is seeking to compel grand jury testimony as part of an i
 
 Date: 2026-07-16
 
-### Investigators Seek Information From Government Officials as Part of Air Force One Leak Investigation
-
-After The New York Times reported on security concerns related to the Qatari-donated jet, the F.B.I. sought to speak with several people who flew aboard the plane with President Trump last week and asked for their phones.
-
-Date: 2026-07-16
-
 ## Sources
 
-- [Trump to keep using old Air Force One while new plane gets security upgrades](https://www.cbsnews.com/news/trump-air-force-one-maxed-out-security-capabilities-qatar/?utm_source=lootura.com) — 2026-07-20T17:35:23.000Z
+- [New Air Force One going out of commission to get safety upgrades](https://www.npr.org/2026/07/21/nx-s1-5901113/new-air-force-one-going-out-of-commission-to-get-safety-upgrades?utm_source=lootura.com) — 2026-07-21T08:44:35.000Z
 - [DOJ sought phone records of journalists and relatives in effort to unmask sources of Air Force One security report](https://www.pbs.org/newshour/nation/doj-sought-phone-records-of-journalists-and-relatives-in-effort-to-unmask-sources-of-air-force-one-security-report?utm_source=lootura.com) — 2026-07-20T18:34:58.000Z
 - [Trump Administration Sought Phone Records of Times Journalists and Their Relatives](https://www.nytimes.com/2026/07/20/business/media/new-york-times-subpoenas-phone-records.html?utm_source=lootura.com) — 2026-07-20T19:25:15.000Z

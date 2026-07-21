@@ -8,19 +8,24 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/audiencia-nacional/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/audiencia-nacional/index.json",
   "description": "Sigue la actividad de Audiencia Nacional en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-21T06:26:04.171Z",
+  "updatedAt": "2026-07-21T10:23:08.875Z",
   "aliases": [
     "La Audiencia Nacional"
   ],
   "changes": [
     {
-      "title": "Julio Martínez delata a Zapatero y dice que se llevó el 1% por mediar en Plus Ultra",
-      "summary": "Plus Ultra y Julio Martínez Martínez han enviado sendos escritos a la Audiencia Nacional donde muestran su deseo de colaborar con la justicia y confiesan que José Luis Rodríguez Zapatero medió en el rescate de la aerolínea, según explican fuentes judiciales a ABC. El pagador del expresidente también detalla que alcanza.",
+      "title": "El horizonte judicial de Zapatero pende de la declaración ante el juez de Julio Martínez tras su decisión de “colaborar”",
+      "summary": "El futuro penal de José Luis Rodríguez Zapatero tiene nombre propio. El empresario Julio Martínez Martínez, administrador de la consultora que pagó durante cinco años al expresidente del Gobierno, declara este martes ante el juez de la Audiencia Nacional José Luis Calama, después de contradecir por escrito la versión q.",
       "date": "2026-07-21"
     },
     {
-      "title": "El horizonte judicial de Zapatero pende de la declaración ante el juez de Julio Martínez tras su decisión de “colaborar”",
-      "summary": "El futuro penal de José Luis Rodríguez Zapatero tiene nombre propio. El empresario Julio Martínez Martínez, administrador de la consultora que pagó durante cinco años al expresidente del Gobierno, declara este martes ante el juez de la Audiencia Nacional José Luis Calama, después de contradecir por escrito la versión q.",
+      "title": "Las tres incongruencias de Zapatero, al descubierto tras la confesión de Julio Martínez y el presidente de Plus Ultra",
+      "summary": "El escrito presentado por el investigado Julio Martínez a 24 horas de su esperada declaración ante el juez de la Audiencia Nacional José Luis Calama complica el horizonte judicial de José Luis Rodríguez Zapatero, con quien entra en evidente contradicción en aspectos vitales sobre su posible participación en el rescate.",
+      "date": "2026-07-21"
+    },
+    {
+      "title": "Julio Martínez delata a Zapatero y dice que se llevó el 1% por mediar en Plus Ultra",
+      "summary": "Plus Ultra y Julio Martínez Martínez han enviado sendos escritos a la Audiencia Nacional donde muestran su deseo de colaborar con la justicia y confiesan que José Luis Rodríguez Zapatero medió en el rescate de la aerolínea, según explican fuentes judiciales a ABC. El pagador del expresidente también detalla que alcanza.",
       "date": "2026-07-21"
     },
     {
@@ -57,18 +62,13 @@
       "title": "Jésica, 'Julito', el amigo de Zapatero, y los recursos de Cerdán y Leire: otra semana con la corrupción del PSOE en los juzgados",
       "summary": "'Este lunes arranca la tercera semana consecutiva de declaraciones en la Audiencia Nacional en el marco de las principales causas que cercan al PSOE. Tras varios días de intensa actividad judicial , marcada principalmente por la condena al hermano del presidente y la confirmación del procesamiento de su mujer , nos enf.",
       "date": "2026-07-20"
-    },
-    {
-      "title": "La UCO cifra en más de 300.000 euros los beneficios que Cerdán y su familia obtuvieron de la trama entre 2015 y 2024",
-      "summary": "Las investigaciones de la Unidad Central Operativa (UCO) de la Guardia Civil vuelven a poner el foco en el exsecretario de Organización del PSOE Santos Cerdán. El instituto armado ha entregado al juez de la Audiencia Nacional Ismael Moreno, que investiga la red corrupta que presuntamente anidó en el Ministerio de Trans.",
-      "date": "2026-07-17"
     }
   ],
   "sources": [
     {
-      "title": "Julio Martínez delata a Zapatero y dice que se llevó el 1% por mediar en Plus Ultra",
-      "url": "https://www.abc.es/espana/plus-ultra-julito-martinez-envian-escritos-juez-20260720142541-nt.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-21T05:26:54.000Z",
+      "title": "Las tres incongruencias de Zapatero, al descubierto tras la confesión de Julio Martínez y el presidente de Plus Ultra",
+      "url": "https://www.abc.es/espana/tres-contradicciones-zapatero-julio-martinez-dejan-expresidente-20260721185544-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-21T09:20:34.000Z",
       "sourceId": "lootura-es-abc"
     },
     {

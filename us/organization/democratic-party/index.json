@@ -8,11 +8,16 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/democratic-party/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/democratic-party/index.json",
   "description": "Follow Democratic Party, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-21T06:26:28.839Z",
+  "updatedAt": "2026-07-21T10:23:35.333Z",
   "aliases": [
     "Democrats"
   ],
   "changes": [
+    {
+      "title": "Arizona primaries set the stage for contested fall races in a swing state",
+      "summary": "Arizona Democrats choose who can try to flip a Republican-held House seat and Republicans pick their nominee to try to unseat a Democratic governor. (Image credit: Ross D. Franklin).",
+      "date": "2026-07-21"
+    },
     {
       "title": "Democrats avoid a messy fight in Maine, but uncertainty lingers: From the Politics Desk",
       "summary": "Welcome to From the Politics Desk, a daily newsletter that brings you the NBC News Politics team’s latest reporting and analysis from the White House, Capitol Hill and the campaign trail.",
@@ -57,20 +62,15 @@
       "title": "Mamdani doubles down on democratic socialism while insisting Wall Street, business leaders can work with him",
       "summary": "New York City Democratic Mayor Zohran Mamdani is embracing his identity as a Democratic Socialist, arguing the movement represents a return to the Democratic Party's New Deal roots even as he insists Wall Street and corporate leaders have nothing to fear from his administration. In a wide-ranging interview with The New.",
       "date": "2026-07-19"
-    },
-    {
-      "title": "These AIPAC-Backed Democrats Voted to Nix Israel Aid. AIPAC Punished Them.",
-      "summary": "Of the 103 Democrats who voted to eliminate aid to Israel, more than a dozen had been endorsed by the pro-Israel lobbying group. AIPAC quickly closed off online donations for them.",
-      "date": "2026-07-18"
     }
   ],
   "sources": [
     {
-      "title": "Democrats avoid a messy fight in Maine, but uncertainty lingers: From the Politics Desk",
-      "url": "https://www.nbcnews.com/politics/politics-news/democrats-avoid-messy-fight-maine-uncertainty-lingers-politics-desk-rcna588434?utm_source=lootura.com",
-      "publishedAt": "2026-07-20T21:00:40.000Z",
-      "sourceId": "lootura-us-nbc-news-politics"
+      "title": "Arizona primaries set the stage for contested fall races in a swing state",
+      "url": "https://www.npr.org/2026/07/21/nx-s1-5901065/midterms-primaries-arizona-elections?utm_source=lootura.com",
+      "publishedAt": "2026-07-21T09:00:00.000Z",
+      "sourceId": "lootura-us-npr-politics"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

@@ -1,69 +1,55 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-21T06:31:26.804Z",
+  "generatedAt": "2026-07-21T10:28:03.471Z",
   "radar": {
     "id": "es",
     "slug": "es",
     "locale": "es"
   },
   "state": {
-    "signature": "1.16.1|8|1784615164171",
+    "signature": "1.16.1|9|1784629388875",
     "version": "1.16.1",
-    "build": 8,
-    "latestEntityUpdatedAt": "2026-07-21T06:26:04.171Z"
+    "build": 9,
+    "latestEntityUpdatedAt": "2026-07-21T10:23:08.875Z"
   },
   "atlas": {
     "hero": {
       "id": "es-julio-martinez",
       "name": "Julio Martínez",
       "type": "person",
-      "title": "Julio Martínez delata a Zapatero y dice que se llevó el 1% por mediar en Plus Ultra",
+      "title": "Las tres incongruencias de Zapatero, al descubierto tras la confesión de Julio Martínez y el presidente de Plus Ultra",
       "url": "https://atlas.lootura.com/es/person/julio-martinez",
       "path": "/es/person/julio-martinez",
-      "updatedAt": "2026-07-21T06:26:04.171Z",
-      "score": 11607,
-      "sourceCount": 12,
-      "isBreaking": true,
-      "isPinned": false,
-      "badgeLabel": "Breaking"
+      "updatedAt": "2026-07-21T10:23:08.875Z",
+      "score": 1610,
+      "sourceCount": 13,
+      "isBreaking": false,
+      "isPinned": false
     },
     "cards": [
-      {
-        "id": "es-jose-luis-rodriguez",
-        "name": "José Luis Rodríguez",
-        "type": "person",
-        "title": "Julio Martínez delata a Zapatero y dice que se llevó el 1% por mediar en Plus Ultra",
-        "url": "https://atlas.lootura.com/es/person/jose-luis-rodriguez",
-        "path": "/es/person/jose-luis-rodriguez",
-        "updatedAt": "2026-07-21T06:26:04.171Z",
-        "score": 1588,
-        "sourceCount": 8,
-        "isBreaking": false,
-        "isPinned": false
-      },
       {
         "id": "es-plus-ultra",
         "name": "Plus Ultra",
         "type": "person",
-        "title": "Julio Martínez delata a Zapatero y dice que se llevó el 1% por mediar en Plus Ultra",
+        "title": "Sumar sentencia a Zapatero y pide a Sánchez explicaciones sobre el rescate de Plus Ultra",
         "url": "https://atlas.lootura.com/es/person/plus-ultra",
         "path": "/es/person/plus-ultra",
-        "updatedAt": "2026-07-21T06:26:04.171Z",
-        "score": 1579,
-        "sourceCount": 10,
+        "updatedAt": "2026-07-21T10:23:08.875Z",
+        "score": 1598,
+        "sourceCount": 12,
         "isBreaking": false,
         "isPinned": false
       },
       {
-        "id": "es-madrid",
-        "name": "Madrid",
-        "type": "place",
-        "title": "Precio de la gasolina hoy 21 de julio: localiza las gasolineras más baratas de Madrid",
-        "url": "https://atlas.lootura.com/es/place/madrid",
-        "path": "/es/place/madrid",
-        "updatedAt": "2026-07-21T06:26:04.171Z",
-        "score": 1568,
-        "sourceCount": 253,
+        "id": "es-jose-luis-rodriguez",
+        "name": "José Luis Rodríguez",
+        "type": "person",
+        "title": "Las tres incongruencias de Zapatero, al descubierto tras la confesión de Julio Martínez y el presidente de Plus Ultra",
+        "url": "https://atlas.lootura.com/es/person/jose-luis-rodriguez",
+        "path": "/es/person/jose-luis-rodriguez",
+        "updatedAt": "2026-07-21T10:23:08.875Z",
+        "score": 1591,
+        "sourceCount": 9,
         "isBreaking": false,
         "isPinned": false
       },
@@ -71,16 +57,29 @@
         "id": "es-audiencia-nacional",
         "name": "Audiencia Nacional",
         "type": "organization",
-        "title": "Julio Martínez delata a Zapatero y dice que se llevó el 1% por mediar en Plus Ultra",
+        "title": "Las tres incongruencias de Zapatero, al descubierto tras la confesión de Julio Martínez y el presidente de Plus Ultra",
         "url": "https://atlas.lootura.com/es/organization/audiencia-nacional",
         "path": "/es/organization/audiencia-nacional",
-        "updatedAt": "2026-07-21T06:26:04.171Z",
-        "score": 1549,
-        "sourceCount": 22,
+        "updatedAt": "2026-07-21T10:23:08.875Z",
+        "score": 1555,
+        "sourceCount": 23,
+        "isBreaking": false,
+        "isPinned": false
+      },
+      {
+        "id": "es-pedro-sanchez",
+        "name": "Pedro Sánchez",
+        "type": "person",
+        "title": "Sumar sentencia a Zapatero y pide a Sánchez explicaciones sobre el rescate de Plus Ultra",
+        "url": "https://atlas.lootura.com/es/person/pedro-sanchez",
+        "path": "/es/person/pedro-sanchez",
+        "updatedAt": "2026-07-21T10:23:08.875Z",
+        "score": 1531,
+        "sourceCount": 192,
         "isBreaking": false,
         "isPinned": false
       }
     ],
-    "publicEntityCount": 51
+    "publicEntityCount": 54
   }
 }

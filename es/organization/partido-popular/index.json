@@ -8,11 +8,16 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/partido-popular/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/partido-popular/index.json",
   "description": "Sigue la actividad de Partido Popular en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-21T06:26:04.171Z",
+  "updatedAt": "2026-07-21T10:23:08.875Z",
   "aliases": [
     "PP"
   ],
   "changes": [
+    {
+      "title": "Vox se ofende por la estrategia del PP para que no concurra en toda España: \"Que no se presenten ellos\"",
+      "summary": "En Génova creen que Vox resta la posibilidad de crecer en escaños en algunas provincias clave.",
+      "date": "2026-07-21"
+    },
     {
       "title": "Ofensiva en el Congreso por los fondos contra incendios",
       "summary": "El PP registra 50 preguntas exigiendo transparencia a Moncloa.",
@@ -57,18 +62,13 @@
       "title": "La última ocurrencia de los separatistas de Més en Palma: exigen redactar un plan municipal de espacios donde hay sombra",
       "summary": "La última ocurrencia de los separatistas de Més en Palma: exigen al Ayuntamiento gobernado en minoría por el alcalde del PP, Jaime Martínez, redactar un plan municipal de espacios y zonas donde hace sombra y elaborarlo en un plazo máximo de seis meses. En plena ola de calor, la formación culpa al PP de no desplegar nin.",
       "date": "2026-07-19"
-    },
-    {
-      "title": "El PP prepara una política de hierro para desmontar el sanchismo económico",
-      "summary": "Tendemos a exagerar lo que desconocemos. El Partido Popular no sabe lo que se va a encontrar tras la línea de meta de La Moncloa, pero se imagina que le espera una gorda. Las expectativas de acción en el plano económico son muy altas -siempre lo son para la derecha- y los populares no quieren arriesgarse a que cuajen l.",
-      "date": "2026-07-19"
     }
   ],
   "sources": [
     {
-      "title": "Ofensiva en el Congreso por los fondos contra incendios",
-      "url": "https://www.larazon.es/espana/ofensiva-congreso-fondos-incendios_202607216a5e60e2e9f2e84b5c7411bc.html?outputType=amp&utm_source=lootura.com",
-      "publishedAt": "2026-07-21T01:28:40.000Z",
+      "title": "Vox se ofende por la estrategia del PP para que no concurra en toda España: \"Que no se presenten ellos\"",
+      "url": "https://www.larazon.es/espana/vox-ofende-estrategia-que-concurra-toda-espana-que-presenten-ellos_202607216a5f4848e3eb0b64aa4b4c9d.html?outputType=amp&utm_source=lootura.com",
+      "publishedAt": "2026-07-21T10:22:09.000Z",
       "sourceId": "lootura-es-la-razon"
     }
   ],

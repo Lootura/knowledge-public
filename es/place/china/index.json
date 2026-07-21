@@ -8,9 +8,14 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/china/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/china/index.json",
   "description": "Sigue la actividad de China en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-21T06:26:04.171Z",
+  "updatedAt": "2026-07-21T10:23:08.875Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "Sun Tzu, estratega militar: «Cuando se está cerca, se debe parecer lejos; cuando se está lejos, se debe parecer cerca»",
+      "summary": "Sun Tzu es considerado uno de los grandes pensadores de la cultura oriental . Según la tradición china, fue general del Estado de Wu y sobresalió por sus ingeniosas estrategias y numerosas victorias, siempre apoyadas en la planificación y el profundo conocimiento del enemigo. Su filosofía se basaba en un principio esen.",
+      "date": "2026-07-21"
+    },
     {
       "title": "La acción de la semana: Alibaba rebota desde soporte, pero el cambio de tendencia todavía está por demostrar",
       "summary": "Alibaba Group es un consorcio privado chino dedicado principalmente al comercio electrónico en internet, siendo responsable de más del 60% de los paquetes entregados en China. Dentro del conglomerado se encuentran servicios como el comercio al por menor, Business to Business, pagos en línea y almacenamientos en la nube.",
@@ -55,11 +60,6 @@
       "title": "Trump anuncia una desclasificación que probaría injerencia electoral de China en EEUU",
       "summary": "El presidente de Estados Unidos, Donald Trump, ha anunciado este jueves la desclasificación y publicación de información «crítica» de inteligencia que.",
       "date": "2026-07-17"
-    },
-    {
-      "title": "Antonio Tajani: «No podemos dejar África solo en manos de China y Rusia»",
-      "summary": "El vicepresidente del Gobierno y ministro de Asuntos Exteriores de Italia, Antonio Tajani , aboga por seguir trabajando en un mercado único europeo para competir con las grandes potencias en el nuevo tablero global y llama a España a ser un socio estratégico para Italia dentro del plan de inversiones que el país transa.",
-      "date": "2026-07-17"
     }
   ],
   "sources": [
@@ -68,7 +68,13 @@
       "url": "https://www.expansion.com/podcasts/la-primera-de-expansion/2026/07/21/6a5efc86468aeb7a708b4575.html?utm_source=lootura.com",
       "publishedAt": "2026-07-21T05:25:37.000Z",
       "sourceId": "lootura-es-expansion"
+    },
+    {
+      "title": "Sun Tzu, estratega militar: «Cuando se está cerca, se debe parecer lejos; cuando se está lejos, se debe parecer cerca»",
+      "url": "https://okdiario.com/curiosidades/sun-tzu-estratega-militar-cuando-esta-cerca-debe-parecer-lejos-cuando-esta-lejos-debe-parecer-cerca-19038325?utm_source=lootura.com",
+      "publishedAt": "2026-07-21T10:00:08.000Z",
+      "sourceId": "lootura-es-ok-diario"
     }
   ],
-  "evidenceCount": 0
+  "evidenceCount": 1
 }

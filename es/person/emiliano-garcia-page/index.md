@@ -3,10 +3,16 @@
 > Sigue la actividad de Emiliano García-Page en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-21T02:27:26.549Z
+- Actualizado: 2026-07-21T10:23:08.875Z
 - Canonical: https://atlas.lootura.com/es/person/emiliano-garcia-page
 
 ## Cambios recientes
+
+### El incendio de La Mierla (Guadalajara) frena su avance a Soria y afecta a 29.000 hectáreas
+
+Emiliano García-Page asegura que «empezamos a ver cómo son más las operaciones que culminan en éxito».
+
+Date: 2026-07-21
 
 ### Page vaticina que incendio La Mierla superará las 26.000 hectáreas quemadas
 
@@ -34,4 +40,4 @@ Date: 2026-07-18
 
 ## Fuentes
 
-No public source links.
+- [El incendio de La Mierla (Guadalajara) frena su avance a Soria y afecta a 29.000 hectáreas](https://theobjective.com/sociedad/suceso/2026-07-21/incendio-la-mierla-guadalajara-frena-soria-29-000-hectareas/?amp=&utm_source=lootura.com) — 2026-07-21T10:11:07.000Z

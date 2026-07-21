@@ -3,10 +3,16 @@
 > Sigue la actividad de Portugal en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-18T13:08:36.432Z
+- Actualizado: 2026-07-21T10:23:08.875Z
 - Canonical: https://atlas.lootura.com/es/place/portugal
 
 ## Cambios recientes
+
+### Berkeley vuela en Bolsa con los minerales críticos hallados en su proyecto en Salamanca
+
+Las acciones de Berkeley Energía son las más destacadas hoy en la Bolsa española despues de que la compañía haya anunciado que ha encontrado ha encontrado minerales críticos en su proyecto 'Conchas' ubicado en la provincia de Salamanca, cerca de la frontera con Portugal.
+
+Date: 2026-07-21
 
 ### Un detenido y un investigado por los incendios intencionados de Hermisende (Zamora)
 
@@ -62,12 +68,6 @@ La muerte de Bonnie Tyler pone fin a más de dos meses de hospitalización en Po
 
 Date: 2026-07-09
 
-### Muere Bonnie Tyler a los 75 años
-
-La música británica ha perdido a una de sus voces más singulares. La cantante galesa Bonnie Tyler , autora de algunos de los mayores himnos del pop-rock de las décadas de 1970 y 1980 y dueña de un timbre inconfundible que desafió los cánones de la industria, ha fallecido a los 75 años en un hospital de Portugal, donde.
-
-Date: 2026-07-09
-
 ## Fuentes
 
-No public source links.
+- [Berkeley vuela en Bolsa con los minerales críticos hallados en su proyecto en Salamanca](https://www.expansion.com/mercados/2026/07/21/6a5f2ba1468aebb4418b4578.html?utm_source=lootura.com) — 2026-07-21T08:30:13.000Z

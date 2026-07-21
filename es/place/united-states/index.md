@@ -3,10 +3,28 @@
 > Sigue la actividad de Estados Unidos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-21T06:26:04.171Z
+- Actualizado: 2026-07-21T10:23:08.875Z
 - Canonical: https://atlas.lootura.com/es/place/united-states
 
 ## Cambios recientes
+
+### Sebastián Yatra cantará el 10 de octubre en el festival de la Hispanidad en Madrid
+
+El músico colombiano será el cabeza de cartel, en el que también estará Marta Sánchez, en la semana de eventos y conciertos en la región y en la que Estados Unidos será el país invitado.
+
+Date: 2026-07-21
+
+### Spencer Tunick lleva sus desnudos colectivos a Canarias: “Hay demasiado odio hacia la gente de mente abierta”
+
+Cuando, en los años noventa, Spencer Tunick comenzaba su carrera, en Nueva York, a diferencia de otros lugares de Estados Unidos, se permitía fotografiar desnudos en las calles, siempre que fuera con fines artísticos. De ese modo, él aprovechaba las primeras horas del día, cuando la ciudad se estaba desperezando y las.
+
+Date: 2026-07-21
+
+### La Comunidad de Madrid celebrará del 2 al 12 de octubre la fiesta de la Hispanidad con EEUU como país invitado
+
+La Comunidad de Madrid ha presentado este martes la sexta edición de Hispanidad , la gran cita de la cultura en español que se celebrará del 2 al 12 de octubre con más de 150 actividades de música, gastronomía, cine, folclore, arte y patrimonio repartidas por la capital y la región. Estados Unidos será el país invitado.
+
+Date: 2026-07-21
 
 ### Cadena perpetua para Ismael 'El Mayo' Zambada, el poderoso capo del Cártel de Sinaloa
 
@@ -50,24 +68,8 @@ El precio del barril de crudo de calidad Brent , que había llegado este lunes, 
 
 Date: 2026-07-20
 
-### El precio del petróleo modera su escalada tras anunciar Irán contactos con los mediadores
-
-La persistencia de la incertidumbre en Oriente Próximo ha llevado al precio del petróleo a superar por primera vez en más de un mes los 91 dólares por barril. Una escalada que se ha visto frenada tras el anuncio por parte del régimen iraní de contactos diplomáticos con los mediadores con Estados Unidos. El barril de br.
-
-Date: 2026-07-20
-
-### 15.000 personas rugen en el Movistar Arena para animar a la selección: "Queremos ser testigos de la historia"
-
-El balón echó a rodar en Estados Unidos, pero el epicentro de la emoción se ha trasladado al centro de Madrid bajo un lema generacional: "Queremos ser testigos de la...
-
-Date: 2026-07-19
-
-### Santander hace pleno en el mejor año de salidas a Bolsa en España desde 2018
-
-Santander se ha impuesto a los gigantes de Wall Street en un negocio en el que tener sede en Estados Unidos supone jugar con ventaja. Esta vez no ha sido así. Las cuatro salidas a Bolsa del año en España han elegido a Santander en la posición principal del sindicato. Seguir leyendo.
-
-Date: 2026-07-19
-
 ## Fuentes
 
-- [Cadena perpetua para Ismael 'El Mayo' Zambada, el poderoso capo del Cártel de Sinaloa](https://www.abc.es/internacional/sentencia-ismael-mayo-zambada-poderoso-capo-cartel-20260720174002-nt.html?utm_source=lootura.com) — 2026-07-21T05:26:41.000Z
+- [Sebastián Yatra cantará el 10 de octubre en el festival de la Hispanidad en Madrid](https://www.abc.es/espana/madrid/sebastian-yatra-cantara-octubre-festival-hispanidad-madrid-20260721114848-nt.html?utm_source=lootura.com) — 2026-07-21T09:48:48.000Z
+- [Spencer Tunick lleva sus desnudos colectivos a Canarias: “Hay demasiado odio hacia la gente de mente abierta”](https://elpais.com/cultura/2026-07-21/spencer-tunick-lleva-sus-desnudos-colectivos-a-canarias-hay-demasiado-odio-hacia-la-gente-de-mente-abierta.html?utm_source=lootura.com) — 2026-07-21T03:30:01.000Z
+- [La Comunidad de Madrid celebrará del 2 al 12 de octubre la fiesta de la Hispanidad con EEUU como país invitado](https://okdiario.com/madrid/comunidad-madrid-celebrara-del-2-12-octubre-fiesta-hispanidad-eeuu-como-pais-invitado-19038861?utm_source=lootura.com) — 2026-07-21T10:11:26.000Z

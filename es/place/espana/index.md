@@ -3,7 +3,7 @@
 > Sigue la actividad de España en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-21T06:26:04.171Z
+- Actualizado: 2026-07-21T10:23:08.875Z
 - Canonical: https://atlas.lootura.com/es/place/espana
 
 ## Cambios recientes
@@ -14,69 +14,69 @@ Fuera del terreno de juego pasa desapercibido. Discreto, abraza la normalidad de
 
 Date: 2026-07-21
 
-### El rey "impotente" y su turbulento reinado que cambió para siempre la historia de España
-
-Tal día como hoy, 21 de julio, pero de 1454, o lo que es lo mismo, hace 572 años, se producía en Valladoli d -que en ese momento funcionaba como la capital política de facto de la Corona de Castilla- uno de los momentos más importantes de la historia del reino de Castilla y de lo que hoy conocemos como España por cómo.
-
-Date: 2026-07-21
-
-### Tiene cuatro días para recorrer Vizcaya y termina realizando el mejor itinerario posible: "Es un viaje que se puede cerrar por todo lo alto"
-
-Vizcaya se ha consolidado en los últimos años como uno de los destinos más completos del norte de España. Costa, montaña, pueblos con historia, gastronomía y algunos de los paisajes más reconocibles del País Vasco convierten a este territorio en una opción cada vez más popular entre quienes buscan una escapada de vario.
-
-Date: 2026-07-21
-
-### Todo el mundo piensa en Derecho o Magisterio, pero el estudio dice otra cosa: esta es la carrera con más empleabilidad en España
-
-Elegir carrera universitaria en España es en muchos casos algo vocacional, pero lo cierto es que para muchas personas implica también cierta incertidumbre. Por ello, durante muchos años, ciertas opciones se han repetido como casi obligatorias y entre las que están Derecho, Magisterio, ADE o Psicología. Son conocidas, t.
-
-Date: 2026-07-21
-
 ### Dr. García Borreguero, experto en sueño: «Dormir 6 horas te deja igual que si bebieras»
 
 No es normal ir siempre cansado. Y no, no es solo «cosa de la edad». El doctor García-Borreguero , uno de los mayores expertos en sueño en España, ha lanzado un mensaje claro: dormir mal no es un problema menor y está detrás de una «epidemia silenciosa» de fatiga, ansiedad y depresión entre los jóvenes. Sus palabras, b.
 
 Date: 2026-07-21
 
-### ¿Cuánto tiempo hace falta que una obra se convierta en un clásico?
+### Pablo Gil: «Me espanta pensar que la mitad de la población quiere ser funcionario»
 
-Crítica de danza Ballet Nacional de España Programa 'Flamenco-Rock-Andaluz' (Rafaela Carrasco / Jesús de la Rosa, Ángeles Toledano, Harto Rodríguez) y 'Medea' (José Granero, Manolo Sanlúcar, Miguel Narros) Iluminación Gloria Montesinos, Freddy Gerlache, Felipe Ramos Escenografía Andrea d'Odorico Vestuario Belén Quintan.
-
-Date: 2026-07-21
-
-### El PP estudia pedir a Vox que no concurra en toda España
-
-Todavía no ha llegado el momento decisivo, pero los distintos partidos políticos ya empiezan a esbozar algunas de las estrategias que podrían poner encima de la mesa en cuanto Pedro Sánchez apriete el botón para convocar las elecciones generales . Es algo, además, que no se sabe a ciencia cierta cuándo pasará, ya que s.
+El sistema laboral en España se encuentra en una profunda crisis desde hace ya varios años. Encontrar un empleo es cada vez más complicado. Y cuando este aparece, su principal rasgo es la precariedad. Principalmente de sueldo, pero también de otras condiciones como el horario o el bienestar y el buen trato que se recib.
 
 Date: 2026-07-21
 
-### Un detenido y seis investigados por «amedrentar y coaccionar» a aficionados con la camiseta de España en San Sebastián
+### Vithas compra GenesisCare España y refuerza su red asistencial con 18 nuevos centros
 
-El Gobierno Vasco condena las agresiones y afirma que estos comportamientos son incompatibles con los valores de respeto y convivencia.
+Vithas avanza en la península Ibérica con la adquisición de GenesisCare España y acelera la concentración en el ámbito de la sanidad privada . La compañía ha anunciado la firma de un acuerdo con GenesisCare para la ejecución de dicha compra, que permitirá la incorporación de una red de 18 centros y unidades asistencial.
 
-Date: 2026-07-20
+Date: 2026-07-21
 
-### Loewe diseña el curioso traje con el que los jugadores de la selección de fútbol presentan la Copa del Mundo en Madrid
+### Roberto Brasero, meteorólogo, sobre el tiempo en España: "Después de la segunda estrella, llega la tercera ola de calor"
 
-Expectación total ante el recorrido de la selección española de fútbol por Madrid. Y un detalle: el traje que llevan los jugadores. Leer.
+España se prepara para un nuevo episodio de temperaturas extremas. Roberto Brasero ha anunciado la llegada de la tercera ola de calor , que provocará un importante ascenso de los termómetros en diferentes puntos del país. Andalucía, el este peninsular y el valle del Ebro serán algunas de las zonas más afectadas. “ Desp.
 
-Date: 2026-07-20
+Date: 2026-07-21
 
-### De Keyne, el hermano de Lamine Yamal, a la familia numerosa de Cucurella: los apoyos de los jugadores de la selección española fuera del campo
+### Amenazan a un futbolista vasco del Málaga por apoyar a Argentina contra España: «Etarra. Traidor. Antiespañol»
 
-El césped del MetLife Stadium de Nueva Jersey se convirtió este domingo en el escenario de emotivos encuentros de los futbolistas con sus familiares y amigos después de proclamarse campeones del mundo. Algunos posaron con ellos en persona, otros siempre se acuerdan de ellos en sus declaraciones.
+Einar Galilea llegó a la Costa del Sol hace tres años, cuando los boquerones aún eran un equipo de Primera RFEF.
 
-Date: 2026-07-20
+Date: 2026-07-21
+
+### Vox se ofende por la estrategia del PP para que no concurra en toda España: "Que no se presenten ellos"
+
+En Génova creen que Vox resta la posibilidad de crecer en escaños en algunas provincias clave.
+
+Date: 2026-07-21
+
+### España elevó un 16,6% su déficit comercial hasta mayo, con 25.094 millones de euros
+
+El déficit comercial de España ascendió en los cinco primeros meses de 2026 a 25.094 millones de euros, tras incrementarse en 3.570 millones respecto al mismo periodo de 202 5, lo que supone un aumento del 16,6% interanual, según ha informado el Ministerio de Economía, Comercio y Empresa. La tasa de cobertura se situó.
+
+Date: 2026-07-21
+
+### Marlaska defiende ante la ONU la baliza V-16 y presume de la seguridad vial en España
+
+El ministro del Interior, Fernando Grande-Marlaska, ha defendido ante las Naciones Unidas la implantación de la baliza V-16 conectada como una de las.
+
+Date: 2026-07-21
+
+### El rey "impotente" y su turbulento reinado que cambió para siempre la historia de España
+
+Tal día como hoy, 21 de julio, pero de 1454, o lo que es lo mismo, hace 572 años, se producía en Valladoli d -que en ese momento funcionaba como la capital política de facto de la Corona de Castilla- uno de los momentos más importantes de la historia del reino de Castilla y de lo que hoy conocemos como España por cómo.
+
+Date: 2026-07-21
 
 ## Fuentes
 
-- [La Reina Letizia, de rojo, y sus hijas, con la camiseta, para recibir a la selección](https://www.abc.es/estilo/moda/reina-letizia-rojo-hijas-camiseta-recibir-seleccion-20260720185701-nt.html?utm_source=lootura.com) — 2026-07-21T05:29:29.000Z
-- [Un detenido y seis investigados por «amedrentar y coaccionar» a aficionados con la camiseta de España en San Sebastián](https://www.diariovasco.com/gipuzkoa/detenido-seis-investigados-amedrentar-coaccionar-aficionados-camiseta-20260720115453-nt_amp.html?utm_source=lootura.com) — 2026-07-20T09:54:53.000Z
+- [Pablo Gil: «Me espanta pensar que la mitad de la población quiere ser funcionario»](https://www.abc.es/recreo/pablo-gil-economista-espanta-pensar-mitad-poblacion-20260721070000-nt.html?utm_source=lootura.com) — 2026-07-21T09:18:58.000Z
+- [Vithas compra GenesisCare España y refuerza su red asistencial con 18 nuevos centros](https://cincodias.elpais.com/companias/2026-07-21/vithas-compra-genesiscare-espana-y-refuerza-su-red-asistencial-con-18-nuevos-centros.html?utm_source=lootura.com) — 2026-07-21T09:34:32.000Z
+- [Roberto Brasero, meteorólogo, sobre el tiempo en España: "Después de la segunda estrella, llega la tercera ola de calor"](https://www.elconfidencial.com/espana/2026-07-21/roberto-brasero-meteorologo-tiempo-espana-ola-de-calor_4393281/?utm_source=lootura.com) — 2026-07-21T06:10:00.000Z
+- [Amenazan a un futbolista vasco del Málaga por apoyar a Argentina contra España: «Etarra. Traidor. Antiespañol»](https://www.elcorreo.com/deportes/futbol/liga-primera/amenazan-futbolista-vasco-malaga-apoyar-argentina-espana-20260721120601-nt_amp.html?utm_source=lootura.com) — 2026-07-21T10:06:01.000Z
 - [Éxtasis en Cibeles con los campeones: "Juntos somos más fuertes, viva España"](https://www.elmundo.es/deportes/futbol/mundial-de-futbol/2026/07/20/6a5e939afdddffd1328b4594.html?utm_source=lootura.com) — 2026-07-20T22:22:48.000Z
-- [Loewe diseña el curioso traje con el que los jugadores de la selección de fútbol presentan la Copa del Mundo en Madrid](https://www.elmundo.es/yodona/moda/2026/07/20/6a5e4cb6fc6c83377d8b4589.html?utm_source=lootura.com) — 2026-07-20T17:07:52.000Z
 - [La izquierda 'abertzale' también pierde contra España](https://www.elmundo.es/deportes/2026/07/21/6a5e9ca8fc6c8356048b457f.html?utm_source=lootura.com) — 2026-07-20T22:12:25.000Z
 - [El ascenso meteórico de Pau Cubarsí, el muro tranquilo de España](https://elpais.com/deportes/mundial-futbol/2026-07-21/el-ascenso-meteorico-de-pau-cubarsi-el-muro-tranquilo-de-espana.html?utm_source=lootura.com) — 2026-07-21T03:30:01.000Z
-- [De Keyne, el hermano de Lamine Yamal, a la familia numerosa de Cucurella: los apoyos de los jugadores de la selección española fuera del campo](https://elpais.com/gente/2026-07-20/de-keyne-el-hermano-de-lamine-yamal-a-la-familia-numerosa-de-cucurella-los-apoyos-de-los-jugadores-de-la-seleccion-espanola-dentro-y-fuera-del-campo.html?utm_source=lootura.com) — 2026-07-20T17:18:27.000Z
-- [Las celebraciones de los campeones del mundo 2026, en imágenes](https://elpais.com/deportes/mundial-futbol/2026-07-20/las-celebraciones-de-los-campeones-del-mundo-en-imagenes.html?utm_source=lootura.com) — 2026-07-20T16:55:17.000Z
-- [El Gobierno respalda a De Cos como el candidato español a presidir el BCE](https://amp.expansion.com/mercados/2026/07/21/6a5e7d62e5fdeaa71d8b4598.html?utm_source=lootura.com) — 2026-07-20T22:28:27.000Z
-- [El rey "impotente" y su turbulento reinado que cambió para siempre la historia de España](https://www.larazon.es/castilla-y-leon/rey-impotente-turbulento-reinado-que-cambio-siempre-historia-espana_202607216a5deeb40500ab412ca04a7d.html?utm_source=lootura.com) — 2026-07-21T06:00:27.000Z
+- [Vox se ofende por la estrategia del PP para que no concurra en toda España: "Que no se presenten ellos"](https://www.larazon.es/espana/vox-ofende-estrategia-que-concurra-toda-espana-que-presenten-ellos_202607216a5f4848e3eb0b64aa4b4c9d.html?outputType=amp&utm_source=lootura.com) — 2026-07-21T10:22:09.000Z
+- [España elevó un 16,6% su déficit comercial hasta mayo, con 25.094 millones de euros](https://theobjective.com/economia/2026-07-21/espana-deficit-comercial-25-094-millones/?utm_source=lootura.com) — 2026-07-21T09:14:41.000Z
+- [Marlaska defiende ante la ONU la baliza V-16 y presume de la seguridad vial en España](https://theobjective.com/espana/politica/2026-07-21/marlaska-onu-baliza-v-16/?amp=&utm_source=lootura.com) — 2026-07-21T10:11:02.000Z

@@ -8,12 +8,22 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/psoe/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/psoe/index.json",
   "description": "Sigue la actividad de Partido Socialista Obrero Español en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-21T06:26:04.171Z",
+  "updatedAt": "2026-07-21T10:23:08.875Z",
   "aliases": [
     "Partido Socialista",
     "Partido Socialista Obrero Español"
   ],
   "changes": [
+    {
+      "title": "El PSOE recupera la condena al fiscal general para recurrir el archivo a Miguel Ángel Rodríguez: \"Ha borrado mensajes\"",
+      "summary": "Los socialistas recurren directamente a la Audiencia Provincial y acusan a la magistrada Raquel Robles de una investigación \"sesgada\" después de evitar el testimonio clave de los policías que identificaron a dos periodistas de El País y luego le entregaron los datos presuntamente al jefe de gabinete de Ayuso La jueza a.",
+      "date": "2026-07-21"
+    },
+    {
+      "title": "La abogada de Koldo García pide citar a Aldama en el ‘caso Leire Díez’",
+      "summary": "La abogada del exasesor ministerial Koldo García , Leticia de la Hoz, ha pedido citar como testigo al comisionista Víctor de Aldama para comprobar la versión que dio la empresaria Carmen Pano, quien la acusa de intentar sobornarla para que se retractara de su afirmación de haber llevado 90.000 euros a la sede del PSOE.",
+      "date": "2026-07-21"
+    },
     {
       "title": "Manifestarse contra el turismo",
       "summary": "Una organización criminal , según la Guardia Civil, convoca una manifestación contra el turismo , sustento de la mayoría de los ciudadanos de Baleares, y recibe el apoyo de los partidos que han gobernado en las Islas: el corrupto PSOE y su sostén, Més per Mallorca . A esta sinrazón hemos llegado. Resulta curioso que na.",
@@ -53,25 +63,21 @@
       "title": "El PSOE de Madrid elige entre la continuidad de Reyes Maroto o volver a empezar con Enma López",
       "summary": "Los militantes del PSOE de Madrid están convocados a las urnas este domingo, para elegir en primarias a su candidata a la Alcaldía de la capital en la próxima cita electoral, el 23 de mayo de 2027. La actual portavoz socialista municipal, Reyes Maroto , se enfrentará a su portavoz adjunta en el ayuntamiento, Enma López.",
       "date": "2026-07-19"
-    },
-    {
-      "title": "Begoña Gómez, la última línea roja",
-      "summary": "A Pedro Sánchez le quedan pocas líneas rojas que transgredir en política. Presentó una moción de censura contra el Partido Popular con solo 85 diputados, el peor resultado electoral que haya tenido el PSOE en democracia. Hasta ese momento, en España gobernaba el que ganaba en las urnas. Además, pactó, entre otros, con.",
-      "date": "2026-07-19"
-    },
-    {
-      "title": "La doble vara de medir del PP de Ayuso ante el acoso sexual: de las críticas a Salazar al apoyo al alcalde de Móstoles",
-      "summary": "El PP de Madrid sigue apostando por un apoyo cerrado a Manuel Bautista, a pesar de su imputación por acoso sexual y laboral mientras Ayuso incluso alaba su trabajo como regidor, una posición muy diferente a la que tomaron con otros escándalos que afectan al PSOE o a otros partidos de la izquierda Ayuso, tras conocer qu.",
-      "date": "2026-07-18"
     }
   ],
   "sources": [
     {
-      "title": "Manifestarse contra el turismo",
-      "url": "https://okdiario.com/baleares/manifestarse-contra-turismo-19032188?utm_source=lootura.com",
-      "publishedAt": "2026-07-21T02:00:11.000Z",
-      "sourceId": "lootura-es-ok-diario"
+      "title": "El PSOE recupera la condena al fiscal general para recurrir el archivo a Miguel Ángel Rodríguez: \"Ha borrado mensajes\"",
+      "url": "https://www.eldiario.es/politica/psoe-recupera-condena-fiscal-general-recurrir-archivo-miguel-angel-rodriguez-borrado-mensajes_1_13392980.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-21T06:29:52.000Z",
+      "sourceId": "lootura-es-eldiario-es"
+    },
+    {
+      "title": "La abogada de Koldo García pide citar a Aldama en el ‘caso Leire Díez’",
+      "url": "https://theobjective.com/espana/tribunales/2026-07-21/abogada-koldo-garcia-caso-leire-diez/?utm_source=lootura.com",
+      "publishedAt": "2026-07-21T09:13:38.000Z",
+      "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 2
 }

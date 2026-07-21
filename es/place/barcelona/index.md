@@ -3,7 +3,7 @@
 > Sigue la actividad de Barcelona en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-21T06:26:04.171Z
+- Actualizado: 2026-07-21T10:23:08.875Z
 - Canonical: https://atlas.lootura.com/es/place/barcelona
 
 ## Cambios recientes
@@ -11,6 +11,24 @@
 ### Ferran Torres, como símbolo del secreto de Luis de la Fuente
 
 A Ferran Torres parecía que lo había devorado el meme. No importaba que hubiera terminado la temporada como uno de los goleadores del Barcelona ni que todos sus entrenadores hubieran confiado en él. Guardiola contó con él en el City. Xavi Hernández y Hansi Flick lo mimaron en el Camp Nou. Lo mismo ocurrió en la selecci.
+
+Date: 2026-07-21
+
+### Muere apuñalado en Barcelona tras quebrantar una orden de alejamiento contra una mujer
+
+Un hombre ha fallecido tras ser apuñalado la madrugada de este martes en el paseo marítimo de la Barceloneta , alrededor de las 3:25 horas, después de ser detenido por un presunto quebrantamiento de una orden de alejamiento sobre una mujer presente en el lugar. Así lo han confirmado a Europa Press fuentes de los Mossos.
+
+Date: 2026-07-21
+
+### El creador de "Sherlock", protagonista principal del Festival Serializados
+
+El 13 Serielizados - Festival de Series de Barcelona, que se celebrará del 19 al 28 de octubre, contará con el guionista escocés Steven Moffat, creador de 'Sherlock' y showrunner de 'Doctor Who', como invitado internacional de esta edición. Moffat tiene una larga trayectoria en la televisión británica y es conocido por.
+
+Date: 2026-07-21
+
+### Roban un móvil con arma blanca y huyen en patinete: los Mossos detienen a dos jóvenes multirreincidentes con 24 antecedentes en L'Hospitalet
+
+Los Mossos d'Esquadra han detenido en L'Hospitalet de Llobregat (Barcelona) a dos ladrones multirreincidentes que suman 24 antecedentes por robar el móvil a una muje r, a quien amenazaron con un arma blanca . Según ha informado la policía de la Generalitat este martes, los investigados, de 24 y 26 años, circulaban en u.
 
 Date: 2026-07-21
 
@@ -50,24 +68,9 @@ Los Mossos d'Esquadra detuvieron el pasado martes a un hombre de 36 años y a un
 
 Date: 2026-07-18
 
-### La exposición a incendios forestales durante el embarazo perjudica a los bebés
-
-Una nueva investigación llevada a cabo por el Centro de Estudios Demográficos (CED) de la Universitat Autònoma de Barcelona revela que la exposición a incendios forestales durante el embarazo tiene efectos negativos sobre la salud de los bebés . El estudio, publicado en la revista Perspectives Demogràfiques , identific.
-
-Date: 2026-07-17
-
-### Gil Marín, contundente con el ‘caso Julián’: «No aceptamos la oferta de 100 millones ni de 200»
-
-El consejero delegado del Atlético de Madrid , Miguel Ángel Gil Marín, aseguró que el club no quiere «transferir» al delantero argentino Julián Álvarez y defendió que su respuesta al interés del FC Barcelona «sí es infinita», porque no aceptan «la oferta de 100 millones de euros ni una de 200». «La opinión es clara, la.
-
-Date: 2026-07-17
-
-### El Barcelona disputará un triangular de amistosos el 8 de agosto en Italia
-
-El Barcelona sigue ampliando su lista de amistosos para la pretemporada 26/27 que desde el pasado lunes ya está en marcha en la Ciudad Deportiva Joan Gamper. El equipo blaugrana disputará dos amistosos en Italia el próximo 8 de agosto en un triangular ante Udinese y Nottingham Forest . Lo hará tras su stage en Reino Un.
-
-Date: 2026-07-17
-
 ## Fuentes
 
+- [Muere apuñalado en Barcelona tras quebrantar una orden de alejamiento contra una mujer](https://www.elconfidencial.com/espana/cataluna/2026-07-21/apunalamiento-barceloneta-hombre-muerte-1tna-1tps_4393346/?utm_source=lootura.com) — 2026-07-21T07:45:00.000Z
 - [Ferran Torres, como símbolo del secreto de Luis de la Fuente](https://elpais.com/deportes/mundial-futbol/2026-07-21/ferran-torres-como-simbolo-del-secreto-de-luis-de-la-fuente.html?utm_source=lootura.com) — 2026-07-21T03:30:01.000Z
+- [El creador de "Sherlock", protagonista principal del Festival Serializados](https://www.larazon.es/cataluna/creador-sherlock-protagonista-principal-festival-serializados_202607216a5f47a4303ca6202cc31f88.html?utm_source=lootura.com) — 2026-07-21T10:19:17.000Z
+- [Roban un móvil con arma blanca y huyen en patinete: los Mossos detienen a dos jóvenes multirreincidentes con 24 antecedentes en L'Hospitalet](https://www.larazon.es/cataluna/roban-movil-arma-blanca-huyen-patinete-mossos-detienen-dos-jovenes-multirreincidentes-24-antecedentes-lhospitalet_202607216a5f46ae303ca6202cc31dc4.html?utm_source=lootura.com) — 2026-07-21T10:15:10.000Z

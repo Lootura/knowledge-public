@@ -3,16 +3,16 @@
 > Follow Maine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-21T06:26:28.839Z
+- Updated: 2026-07-21T10:23:35.333Z
 - Canonical: https://atlas.lootura.com/us/place/maine
 
 ## Recent changes
 
-### Democrats avoid a messy fight in Maine, but uncertainty lingers: From the Politics Desk
+### Once Anti-Abortion, Now a Progressive: The Evolution of a Maine Democrat
 
-Welcome to From the Politics Desk, a daily newsletter that brings you the NBC News Politics team’s latest reporting and analysis from the White House, Capitol Hill and the campaign trail.
+Troy Jackson, who is expected to become his party’s nominee in the state’s marquee Senate race, has long been an economic populist, but his positions on social issues have changed markedly over time.
 
-Date: 2026-07-20
+Date: 2026-07-21
 
 ### Senators demand ICE answers and body cameras after deadly shootings in Maine and Houston
 
@@ -23,6 +23,12 @@ Date: 2026-07-20
 ### 5 Things to Know About the Maine Senate Candidate Troy Jackson
 
 Mr. Jackson, who has emerged as the clear front-runner to replace Graham Platner, is a Republican turned Democrat who is seen as close to Mr. Platner on policy.
+
+Date: 2026-07-20
+
+### Democrats avoid a messy fight in Maine, but uncertainty lingers: From the Politics Desk
+
+Welcome to From the Politics Desk, a daily newsletter that brings you the NBC News Politics team’s latest reporting and analysis from the White House, Capitol Hill and the campaign trail.
 
 Date: 2026-07-20
 
@@ -62,15 +68,9 @@ Troy Jackson, a progressive former State Senate president, showed signs of signi
 
 Date: 2026-07-20
 
-### Maine Democrat Shenna Bellows drops out of race to replace Graham Platner
-
-SANFORD, Maine — Maine Secretary of State Shenna Bellows ended her Senate campaign on Sunday, further clearing the path for rival Troy Jackson as he consolidates support in a fast-moving Democratic nomination contest. "This has been an unprecedented nominating process, compressed into days instead of months, and I'm gr.
-
-Date: 2026-07-19
-
 ## Sources
 
 - [Troy Jackson set to become Democratic Maine Senate nominee, replacing Platner](https://www.cbsnews.com/video/troy-jackson-set-to-become-democratic-maine-senate-nominee/?utm_source=lootura.com) — 2026-07-21T01:15:00.000Z
-- [Democrats avoid a messy fight in Maine, but uncertainty lingers: From the Politics Desk](https://www.nbcnews.com/politics/politics-news/democrats-avoid-messy-fight-maine-uncertainty-lingers-politics-desk-rcna588434?utm_source=lootura.com) — 2026-07-20T21:00:40.000Z
 - [Senators demand ICE answers and body cameras after deadly shootings in Maine and Houston](https://www.pbs.org/newshour/nation/senators-demand-ice-answers-and-body-cameras-after-deadly-shootings-in-maine-and-houston?utm_source=lootura.com) — 2026-07-20T19:10:30.000Z
 - [5 Things to Know About the Maine Senate Candidate Troy Jackson](https://www.nytimes.com/2026/07/20/us/politics/troy-jackson-maine-senate.html?utm_source=lootura.com) — 2026-07-20T15:11:12.000Z
+- [Once Anti-Abortion, Now a Progressive: The Evolution of a Maine Democrat](https://www.nytimes.com/2026/07/21/us/politics/troy-jackson-maine-senate.html?utm_source=lootura.com) — 2026-07-21T09:02:47.000Z

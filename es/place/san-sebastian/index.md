@@ -3,20 +3,20 @@
 > Sigue la actividad de San Sebastián en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-21T06:26:04.171Z
+- Actualizado: 2026-07-21T10:23:08.875Z
 - Canonical: https://atlas.lootura.com/es/place/san-sebastian
 
 ## Cambios recientes
 
-### Un detenido y seis investigados por «amedrentar y coaccionar» a aficionados con la camiseta de España en San Sebastián
-
-El Gobierno Vasco condena las agresiones y afirma que estos comportamientos son incompatibles con los valores de respeto y convivencia.
-
-Date: 2026-07-20
-
 ### El Torneo Donostia Hiria se apunta a la Semana Grande
 
 La cita se adelanta y la final se jugará el 14 de agosto en el Atano III con Altuna III y Rezusta dispuestos a encadenar su tercera txapela.
+
+Date: 2026-07-20
+
+### Un detenido y seis investigados por «amedrentar y coaccionar» a aficionados con la camiseta de España en San Sebastián
+
+El Gobierno Vasco condena las agresiones y afirma que estos comportamientos son incompatibles con los valores de respeto y convivencia.
 
 Date: 2026-07-20
 
@@ -70,5 +70,4 @@ Date: 2026-07-17
 
 ## Fuentes
 
-- [Un detenido y seis investigados por «amedrentar y coaccionar» a aficionados con la camiseta de España en San Sebastián](https://www.diariovasco.com/gipuzkoa/detenido-seis-investigados-amedrentar-coaccionar-aficionados-camiseta-20260720115453-nt_amp.html?utm_source=lootura.com) — 2026-07-20T09:54:53.000Z
 - [El Torneo Donostia Hiria se apunta a la Semana Grande](https://www.diariovasco.com/deportes/pelota/altuna-rezusta-buscaran-tercera-txapela-consecutiva-donostia-hiria-20260720123203-nt_amp.html?utm_source=lootura.com) — 2026-07-20T10:32:24.000Z
