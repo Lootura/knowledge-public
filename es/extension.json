@@ -1,15 +1,15 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-21T15:19:41.388Z",
+  "generatedAt": "2026-07-21T21:08:27.861Z",
   "radar": {
     "id": "es",
     "slug": "es",
     "locale": "es"
   },
   "state": {
-    "signature": "1.18.0|2|1784629388875",
+    "signature": "1.18.0|3|1784629388875",
     "version": "1.18.0",
-    "build": 2,
+    "build": 3,
     "latestEntityUpdatedAt": "2026-07-21T10:23:08.875Z"
   },
   "atlas": {
@@ -21,7 +21,7 @@
       "url": "https://atlas.lootura.com/es/person/rodriguez-zapatero",
       "path": "/es/person/rodriguez-zapatero",
       "updatedAt": "2026-07-21T10:23:08.875Z",
-      "score": 1710,
+      "score": 1677,
       "sourceCount": 11,
       "isBreaking": false,
       "isPinned": false
@@ -35,7 +35,7 @@
         "url": "https://atlas.lootura.com/es/organization/audiencia-nacional",
         "path": "/es/organization/audiencia-nacional",
         "updatedAt": "2026-07-21T10:23:08.875Z",
-        "score": 1650,
+        "score": 1617,
         "sourceCount": 23,
         "isBreaking": false,
         "isPinned": false
@@ -48,7 +48,7 @@
         "url": "https://atlas.lootura.com/es/person/pedro-sanchez",
         "path": "/es/person/pedro-sanchez",
         "updatedAt": "2026-07-21T10:23:08.875Z",
-        "score": 1626,
+        "score": 1593,
         "sourceCount": 192,
         "isBreaking": false,
         "isPinned": false
@@ -61,7 +61,7 @@
         "url": "https://atlas.lootura.com/es/place/espana",
         "path": "/es/place/espana",
         "updatedAt": "2026-07-21T10:23:08.875Z",
-        "score": 1617,
+        "score": 1584,
         "sourceCount": 429,
         "isBreaking": false,
         "isPinned": false
@@ -74,7 +74,7 @@
         "url": "https://atlas.lootura.com/es/person/ferran-torres",
         "path": "/es/person/ferran-torres",
         "updatedAt": "2026-07-21T10:23:08.875Z",
-        "score": 1612,
+        "score": 1580,
         "sourceCount": 7,
         "isBreaking": false,
         "isPinned": false

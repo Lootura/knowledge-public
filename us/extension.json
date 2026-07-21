@@ -1,15 +1,15 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-21T15:19:39.595Z",
+  "generatedAt": "2026-07-21T21:08:25.794Z",
   "radar": {
     "id": "usa",
     "slug": "us",
     "locale": "en"
   },
   "state": {
-    "signature": "1.18.0|2|1784629415333",
+    "signature": "1.18.0|3|1784629415333",
     "version": "1.18.0",
-    "build": 2,
+    "build": 3,
     "latestEntityUpdatedAt": "2026-07-21T10:23:35.333Z"
   },
   "atlas": {
@@ -21,7 +21,7 @@
       "url": "https://atlas.lootura.com/us/person/andy-burnham",
       "path": "/us/person/andy-burnham",
       "updatedAt": "2026-07-21T10:23:35.333Z",
-      "score": 1650,
+      "score": 1618,
       "sourceCount": 17,
       "isBreaking": false,
       "isPinned": false
@@ -35,21 +35,8 @@
         "url": "https://atlas.lootura.com/us/place/united-states",
         "path": "/us/place/united-states",
         "updatedAt": "2026-07-21T10:23:35.333Z",
-        "score": 1617,
+        "score": 1585,
         "sourceCount": 334,
-        "isBreaking": false,
-        "isPinned": false
-      },
-      {
-        "id": "usa-taylor-farms",
-        "name": "Taylor Farms",
-        "type": "company",
-        "title": "FDA still focused on Taylor Farms lettuce as Cyclospora source despite retracted test",
-        "url": "https://atlas.lootura.com/us/company/taylor-farms",
-        "path": "/us/company/taylor-farms",
-        "updatedAt": "2026-07-21T10:23:35.333Z",
-        "score": 1615,
-        "sourceCount": 12,
         "isBreaking": false,
         "isPinned": false
       },
@@ -61,8 +48,21 @@
         "url": "https://atlas.lootura.com/us/person/donald-trump",
         "path": "/us/person/donald-trump",
         "updatedAt": "2026-07-21T10:23:35.333Z",
-        "score": 1605,
+        "score": 1573,
         "sourceCount": 289,
+        "isBreaking": false,
+        "isPinned": false
+      },
+      {
+        "id": "usa-taylor-farms",
+        "name": "Taylor Farms",
+        "type": "company",
+        "title": "FDA still focused on Taylor Farms lettuce as Cyclospora source despite retracted test",
+        "url": "https://atlas.lootura.com/us/company/taylor-farms",
+        "path": "/us/company/taylor-farms",
+        "updatedAt": "2026-07-21T10:23:35.333Z",
+        "score": 1572,
+        "sourceCount": 12,
         "isBreaking": false,
         "isPinned": false
       },
@@ -74,7 +74,7 @@
         "url": "https://atlas.lootura.com/us/place/iran",
         "path": "/us/place/iran",
         "updatedAt": "2026-07-21T10:23:35.333Z",
-        "score": 1602,
+        "score": 1570,
         "sourceCount": 161,
         "isBreaking": false,
         "isPinned": false
