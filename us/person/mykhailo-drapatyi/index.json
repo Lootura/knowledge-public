@@ -1,0 +1,37 @@
+{
+  "id": "usa-mykhailo-drapatyi",
+  "name": "Mykhailo Drapatyi",
+  "type": "person",
+  "locale": "en",
+  "canonicalPath": "/us/person/mykhailo-drapatyi",
+  "canonicalUrl": "https://atlas.lootura.com/us/person/mykhailo-drapatyi",
+  "markdownUrl": "https://atlas.lootura.com/us/person/mykhailo-drapatyi/index.md",
+  "jsonUrl": "https://atlas.lootura.com/us/person/mykhailo-drapatyi/index.json",
+  "description": "Follow Mykhailo Drapatyi, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
+  "updatedAt": "2026-07-22T13:46:43.033Z",
+  "aliases": [
+    "Drapatyi",
+    "Mykhailo Vasylyovych Drapatyi"
+  ],
+  "changes": [
+    {
+      "title": "Mykhailo Drapatyi: What to Know About Ukraine’s New Top General",
+      "summary": "Maj. Gen. Mykhailo Drapatyi, a decorated commander, is popular both inside and outside of his country.",
+      "date": "2026-07-21"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Mykhailo Drapatyi first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-07-21"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Mykhailo Drapatyi: What to Know About Ukraine’s New Top General",
+      "url": "https://www.nytimes.com/2026/07/21/world/europe/ukraine-mykhailo-drapatyi.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-21T23:39:36.000Z",
+      "sourceId": "lootura-us-the-new-york-times"
+    }
+  ],
+  "evidenceCount": 1
+}

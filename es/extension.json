@@ -1,15 +1,15 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-22T13:56:18.807Z",
+  "generatedAt": "2026-07-22T15:27:05.822Z",
   "radar": {
     "id": "es",
     "slug": "es",
     "locale": "es"
   },
   "state": {
-    "signature": "1.18.0|11|1784727982256",
+    "signature": "1.18.0|12|1784727982256",
     "version": "1.18.0",
-    "build": 11,
+    "build": 12,
     "latestEntityUpdatedAt": "2026-07-22T13:46:22.256Z"
   },
   "atlas": {
@@ -21,7 +21,7 @@
       "url": "https://atlas.lootura.com/es/organization/psoe",
       "path": "/es/organization/psoe",
       "updatedAt": "2026-07-22T13:46:22.256Z",
-      "score": 1679,
+      "score": 1671,
       "sourceCount": 107,
       "isBreaking": false,
       "isPinned": false
@@ -35,7 +35,7 @@
         "url": "https://atlas.lootura.com/es/person/pedro-sanchez",
         "path": "/es/person/pedro-sanchez",
         "updatedAt": "2026-07-22T13:46:22.256Z",
-        "score": 1672,
+        "score": 1664,
         "sourceCount": 206,
         "isBreaking": false,
         "isPinned": false
@@ -48,8 +48,21 @@
         "url": "https://atlas.lootura.com/es/place/espana",
         "path": "/es/place/espana",
         "updatedAt": "2026-07-22T13:46:22.256Z",
-        "score": 1667,
+        "score": 1659,
         "sourceCount": 463,
+        "isBreaking": false,
+        "isPinned": false
+      },
+      {
+        "id": "es-juanfran-perez-llorca",
+        "name": "Juanfran Pérez Llorca",
+        "type": "person",
+        "title": "Diana Morant acusa a Pérez Llorca de convertir «el apartheid en ley» con sus presupuestos",
+        "url": "https://atlas.lootura.com/es/person/juanfran-perez-llorca",
+        "path": "/es/person/juanfran-perez-llorca",
+        "updatedAt": "2026-07-22T13:46:22.256Z",
+        "score": 1658,
+        "sourceCount": 4,
         "isBreaking": false,
         "isPinned": false
       },
@@ -61,21 +74,8 @@
         "url": "https://atlas.lootura.com/es/person/rodriguez-zapatero",
         "path": "/es/person/rodriguez-zapatero",
         "updatedAt": "2026-07-22T13:46:22.256Z",
-        "score": 1665,
+        "score": 1657,
         "sourceCount": 23,
-        "isBreaking": false,
-        "isPinned": false
-      },
-      {
-        "id": "es-alberto-nunez-feijoo",
-        "name": "Alberto Núñez Feijóo",
-        "type": "person",
-        "title": "Última hora de la actualidad política, en directo | Feijóo hace balance del curso político y de la legislatura",
-        "url": "https://atlas.lootura.com/es/person/alberto-nunez-feijoo",
-        "path": "/es/person/alberto-nunez-feijoo",
-        "updatedAt": "2026-07-22T13:46:22.256Z",
-        "score": 1660,
-        "sourceCount": 58,
         "isBreaking": false,
         "isPinned": false
       }

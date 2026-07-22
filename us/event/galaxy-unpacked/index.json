@@ -1,0 +1,36 @@
+{
+  "id": "usa-galaxy-unpacked",
+  "name": "Galaxy Unpacked",
+  "type": "event",
+  "locale": "en",
+  "canonicalPath": "/us/event/galaxy-unpacked",
+  "canonicalUrl": "https://atlas.lootura.com/us/event/galaxy-unpacked",
+  "markdownUrl": "https://atlas.lootura.com/us/event/galaxy-unpacked/index.md",
+  "jsonUrl": "https://atlas.lootura.com/us/event/galaxy-unpacked/index.json",
+  "description": "Follow Galaxy Unpacked, a tracked event, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
+  "updatedAt": "2026-07-22T13:46:43.033Z",
+  "aliases": [
+    "Samsung Unpacked"
+  ],
+  "changes": [
+    {
+      "title": "3 Google updates from Galaxy Unpacked 2026",
+      "summary": "We shared how Samsung users can boost productivity and get time back on new foldables, watches, and glasses coming soon.",
+      "date": "2026-07-22"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Galaxy Unpacked first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-07-22"
+    }
+  ],
+  "sources": [
+    {
+      "title": "3 Google updates from Galaxy Unpacked 2026",
+      "url": "https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026/?utm_source=lootura.com",
+      "publishedAt": "2026-07-22T13:00:00.000Z",
+      "sourceId": "lootura-us-google-ai"
+    }
+  ],
+  "evidenceCount": 1
+}

@@ -9,7 +9,10 @@
   "jsonUrl": "https://atlas.lootura.com/es/person/gianni-infantino/index.json",
   "description": "Sigue la actividad de Gianni Infantino en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
   "updatedAt": "2026-07-22T13:46:22.256Z",
-  "aliases": [],
+  "aliases": [
+    "Gianni",
+    "Infantino"
+  ],
   "changes": [
     {
       "title": "Trump sopesa proponer a Infantino como secretario general de la ONU, según el 'New York Post'",

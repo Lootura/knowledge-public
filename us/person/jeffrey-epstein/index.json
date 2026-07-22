@@ -9,7 +9,10 @@
   "jsonUrl": "https://atlas.lootura.com/us/person/jeffrey-epstein/index.json",
   "description": "Follow Jeffrey Epstein, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
   "updatedAt": "2026-07-22T13:46:43.033Z",
-  "aliases": [],
+  "aliases": [
+    "Epstein",
+    "Jeffrey"
+  ],
   "changes": [
     {
       "title": "Whitney Cummings’s Trump Joke at Kennedy Center Is Cut From Netflix Special",
