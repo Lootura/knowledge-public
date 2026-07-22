@@ -34,4 +34,4 @@ Date: 2026-07-19
 
 ## Fuentes
 
-- [El camino visual de España en un Mundial para la historia](https://www.abc.es/deportes/futbol/mundial/camino-visual-espana-mundial-historia-20260722012352-nt.html?utm_source=lootura.com) — 2026-07-22T05:23:14.000Z
+No public source links.

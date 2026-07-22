@@ -3,10 +3,16 @@
 > Follow Charlie Kirk, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-07-11T16:55:14.081Z
+- Updated: 2026-07-22T10:23:35.990Z
 - Canonical: https://atlas.lootura.com/us/person/charlie-kirk
 
 ## Recent changes
+
+### At a Utah Campus, an Emotional Odyssey After Charlie Kirk’s Death
+
+Since Mr. Kirk was gunned down at Utah Valley University, the school and its students have struggled to find a way forward.
+
+Date: 2026-07-22
 
 ### Friend of Charlie Kirk labels courtroom evidence 'devastating' after chilling surveillance footage shown
 
@@ -62,12 +68,6 @@ Prosecutors revealed that the roommate of the man accused of assassinating Charl
 
 Date: 2026-07-09
 
-### ‘His legacy is cringe’: how Charlie Kirk became a meme among the young – even his supporters
-
-Crude jokes about the Maga luminary are exploding online – less than a year after conservatives were suppressing any slander against him Ten months since his assassination , Charlie Kirk’s name and likeness are still proliferating online. Just not the way the far-right activist would have wanted. Audio of the gunshot t.
-
-Date: 2026-07-09
-
 ## Sources
 
-No public source links.
+- [At a Utah Campus, an Emotional Odyssey After Charlie Kirk’s Death](https://www.nytimes.com/2026/07/22/us/charlie-kirk-utah-valley-university.html?utm_source=lootura.com) — 2026-07-22T09:02:04.000Z

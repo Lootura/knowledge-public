@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/donald-trump/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/donald-trump/index.json",
   "description": "Sigue la actividad de Donald Trump en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-22T06:25:50.604Z",
+  "updatedAt": "2026-07-22T10:23:10.282Z",
   "aliases": [
     "@realDonaldTrump",
     "DJT",
@@ -25,13 +25,18 @@
   ],
   "changes": [
     {
-      "title": "Cautela en las Bolsas ante los resultados de las grandes tecnológicas y con el petróleo al alza",
-      "summary": "El pesimismo en torno a las negociaciones de paz entre EE UU e Irán, después de que el presidente Donald Trump restara importancia a la posibilidad de conversaciones inmediatas con Teherán, y la creciente amenaza a los suministros energéticos de Oriente Próximo derivada de un bloqueo naval dirigido contra Arabia Saudí.",
+      "title": "Trump aprueba acuerdo nuclear que permitiría a Arabia Saudí enriquecer uranio",
+      "summary": "Se prevé que el acuerdo tenga una vigencia de 30 años y que también implique a empresas de Estados Unidos en el desarrollo del programa Leer.",
       "date": "2026-07-22"
     },
     {
-      "title": "Trump aprueba acuerdo nuclear que permitiría a Arabia Saudí enriquecer uranio",
-      "summary": "Se prevé que el acuerdo tenga una vigencia de 30 años y que también implique a empresas de Estados Unidos en el desarrollo del programa Leer.",
+      "title": "Trump sopesa proponer a Infantino como secretario general de la ONU, según el 'New York Post'",
+      "summary": "La designación no es tan sencilla, ya que combina un procedimiento formal fijado en la Carta de las Naciones Unidas con intensas negociaciones a puerta cerrada entre las grandes potencias.",
+      "date": "2026-07-22"
+    },
+    {
+      "title": "Cautela en las Bolsas ante los resultados de las grandes tecnológicas y con el petróleo al alza",
+      "summary": "El pesimismo en torno a las negociaciones de paz entre EE UU e Irán, después de que el presidente Donald Trump restara importancia a la posibilidad de conversaciones inmediatas con Teherán, y la creciente amenaza a los suministros energéticos de Oriente Próximo derivada de un bloqueo naval dirigido contra Arabia Saudí.",
       "date": "2026-07-22"
     },
     {
@@ -68,19 +73,14 @@
       "title": "EEUU ataca Irán una noche más tras la muerte de dos de sus militares en una base en Jordania",
       "summary": "Estados Unidos ha anunciado el inicio de una nueva ronda de bombardeos contra Irán por orden del presidente Donald Trump , en una operación que tiene como objetivo reducir las capacidades de Teherán para amenazar el tráfico marítimo en el estrecho de Ormuz y responder al ataque -atribuido al Cuerpo de la Guardia Revolu.",
       "date": "2026-07-19"
-    },
-    {
-      "title": "Un don Diego entre Trump y un osito de peluche",
-      "summary": "MIC Producciones continúa su gira veraniega en Olmedo Clásico el 20 de julio, donde se podrá ver de nuevo el texto de Agustín Moreto.",
-      "date": "2026-07-19"
     }
   ],
   "sources": [
     {
-      "title": "Cautela en las Bolsas ante los resultados de las grandes tecnológicas y con el petróleo al alza",
-      "url": "https://cincodias.elpais.com/mercados-financieros/2026-07-22/la-bolsa-y-el-ibex-35.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-22T04:29:14.000Z",
-      "sourceId": "lootura-es-cinco-dias"
+      "title": "Trump sopesa proponer a Infantino como secretario general de la ONU, según el 'New York Post'",
+      "url": "https://www.abc.es/internacional/trump-sopesa-proponer-infantino-secretario-general-onu-20260722115546-nt_amp.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-22T09:55:47.000Z",
+      "sourceId": "lootura-es-abc"
     },
     {
       "title": "Trump aprueba acuerdo nuclear que permitiría a Arabia Saudí enriquecer uranio",

@@ -70,5 +70,4 @@ Date: 2026-07-11
 
 ## Fuentes
 
-- [El manipulador y atractivo rey consorte de Castilla que introdujo la dinastía de los Austria en España](https://www.larazon.es/castilla-y-leon/manipulador-atractivo-rey-consorte-castilla-que-introdujo-dinastia-austria-espana_202607226a5f4270303ca6202cc315ad.html?utm_source=lootura.com) — 2026-07-22T06:00:15.000Z
-- [De Matilde a Elisabeth y Eléonore: los looks con los que la Familia Real de Bélgica despide el Día Nacional entre conciertos y fuegos artificiales](https://www.larazon.es/lifestyle/moda/matilde-elisabeth-eleonore-looks-que-familia-real-belgica-despide-dia-nacional-conciertos-fuegos-artificiales_202607226a6057df4687a22bdec6d8b8.html?utm_source=lootura.com) — 2026-07-22T06:15:14.000Z
+No public source links.

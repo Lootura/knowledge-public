@@ -3,10 +3,16 @@
 > Sigue la actividad de José Luis Rodríguez Zapatero en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-22T06:25:50.604Z
+- Actualizado: 2026-07-22T10:23:10.282Z
 - Canonical: https://atlas.lootura.com/es/person/rodriguez-zapatero
 
 ## Cambios recientes
+
+### La causa contra Zapatero sitúa ahora el foco en la cúpula de Plus Ultra tras contradecir la versión del expresidente
+
+Julio Martínez Martínez entró sobre las 8.45 de este martes en la Audiencia Nacional y salió más de cuatro horas después sin moverse mucho de la línea marcada un día antes en el escrito enviado al juez José Luis Calama para implicar al expresidente José Luis Rodríguez Zapatero en el rescate de Plus Ultra . El giro del.
+
+Date: 2026-07-22
 
 ### Sánchez fuerza una defensa a ciegas a pesar de que Moncloa admite el "riesgo" de que "puede salir mal"
 
@@ -62,15 +68,7 @@ La incomodidad es cada vez más palmaria, pero el Gobierno mantiene su apoyo a J
 
 Date: 2026-07-21
 
-### Moncloa admite el coste político que asume en su defensa de Zapatero
-
-La investigación sobre el caso Plus Ultra avanza, mientras el Gobierno sigue inmóvil en su posición de defensa cerrada de José Luis Rodríguez Zapatero. Las declaraciones ante el juez José Luis Calama de quien fuera su amigo y pagador 'Julito' Martínez y dos directivos de la aerolínea ubicando al expresidente en el cent.
-
-Date: 2026-07-21
-
 ## Fuentes
 
-- [Sánchez fuerza una defensa a ciegas a pesar de que Moncloa admite el "riesgo" de que "puede salir mal"](https://www.20minutos.es/nacional/sanchez-fuerza-una-estrategia-defensa-ciegas-zapatero-pese-que-moncloa-admite-riesgo-que-puede-salir-mal_7017355_0.html?utm_source=lootura.com) — 2026-07-22T03:00:00.000Z
-- [Julio Martínez complica el futuro judicial de Zapatero aunque no despeja la X que pondría en serios aprietos a Moncloa](https://www.20minutos.es/nacional/julio-martinez-complica-futuro-judicial-zapatero-pero-no-despeja-x-que-pondria-serios-aprietos-moncloa_7017247_0.html?utm_source=lootura.com) — 2026-07-22T03:00:00.000Z
-- [La causa contra Zapatero sitúa ahora el foco en la cúpula de Plus Ultra tras contradecir la versión del expresidente](https://elpais.com/espana/2026-07-22/la-causa-contra-zapatero-situa-ahora-el-foco-en-la-cupula-de-plus-ultra-tras-contradecir-la-version-del-expresidente.html?utm_source=lootura.com) — 2026-07-22T03:30:01.000Z
 - [Zapatero ordenó camuflar en varios pagos la comisión del 1% en el rescate de Plus Ultra](https://amp.elmundo.es/espana/2026/07/21/6a5fbadb21efa0b26b8b458b.html?utm_source=lootura.com) — 2026-07-21T20:47:14.000Z
+- [La causa contra Zapatero sitúa ahora el foco en la cúpula de Plus Ultra tras contradecir la versión del expresidente](https://elpais.com/espana/2026-07-22/la-causa-contra-zapatero-situa-ahora-el-foco-en-la-cupula-de-plus-ultra-tras-contradecir-la-version-del-expresidente.html?utm_source=lootura.com) — 2026-07-22T03:30:01.000Z

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/naciones-unidas/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/naciones-unidas/index.json",
   "description": "Sigue la actividad de Organización de las Naciones Unidas en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-21T10:23:08.875Z",
+  "updatedAt": "2026-07-22T10:23:10.282Z",
   "aliases": [
     "NN. UU.",
     "Naciones Unidas",
@@ -18,13 +18,18 @@
   ],
   "changes": [
     {
+      "title": "Trump sopesa proponer a Infantino como secretario general de la ONU, según el 'New York Post'",
+      "summary": "La designación no es tan sencilla, ya que combina un procedimiento formal fijado en la Carta de las Naciones Unidas con intensas negociaciones a puerta cerrada entre las grandes potencias.",
+      "date": "2026-07-22"
+    },
+    {
       "title": "Marlaska defiende ante la ONU la baliza V-16 y presume de la seguridad vial en España",
       "summary": "El ministro del Interior, Fernando Grande-Marlaska, ha defendido ante las Naciones Unidas la implantación de la baliza V-16 conectada como una de las.",
       "date": "2026-07-21"
     },
     {
       "title": "Discovered by Atlas",
-      "summary": "Naciones Unidas first entered the public knowledge record with source-backed evidence.",
+      "summary": "Organización de las Naciones Unidas first entered the public knowledge record with source-backed evidence.",
       "date": "2026-07-19"
     },
     {
@@ -43,6 +48,13 @@
       "date": "2026-07-19"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Trump sopesa proponer a Infantino como secretario general de la ONU, según el 'New York Post'",
+      "url": "https://www.abc.es/internacional/trump-sopesa-proponer-infantino-secretario-general-onu-20260722115546-nt_amp.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-22T09:55:47.000Z",
+      "sourceId": "lootura-es-abc"
+    }
+  ],
+  "evidenceCount": 1
 }

@@ -3,10 +3,28 @@
 > Sigue la actividad de Pedro Sánchez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-22T06:25:50.604Z
+- Actualizado: 2026-07-22T10:23:10.282Z
 - Canonical: https://atlas.lootura.com/es/person/pedro-sanchez
 
 ## Cambios recientes
+
+### Sánchez anuncia préstamos por 300 millones para pymes que innoven para reducir el riesgo de incendios y en recuperar terrenos
+
+El presidente del Gobierno, Pedro Sánchez , ha anunciado este miércoles una línea de préstamos participativos por un importe total de 300 millones que se destinará a pequeñas y medianas empresas ( pymes ) que innoven en soluciones para anticipar el riesgo de que se declaren incendios así como para recuperar posteriorme.
+
+Date: 2026-07-22
+
+### Narbona afirma que Sánchez "ha asumido la responsabilidad política" por los casos de corrupción y defiende a Zapatero "por su enorme legado"
+
+La presidenta del PSOE admite conocer a Leire Díez, la llamada 'fontanera' del partido, desde hace años pero, recalca: "No he sido su madrina para nada" Leer.
+
+Date: 2026-07-22
+
+### Última hora de los incendios forestales, en directo | El incendio de Guadalajara entra en una fase de “optimismo” tras arrasar más de 32.000 hectáreas
+
+El incendio de la Sierra Norte de Guadalajara ha arrasado ya al menos 32.000 hectáreas de la provincia, mientras prosiguen este miércoles las labores de extinción. El presidente del Gobierno, Pedro Sánchez, ha visitado esta mañana las zonas afectadas por el incendio, cuyo frente más próximo a Soria sigue estable a entr.
+
+Date: 2026-07-22
 
 ### Sánchez fuerza una defensa a ciegas a pesar de que Moncloa admite el "riesgo" de que "puede salir mal"
 
@@ -50,25 +68,9 @@ El portavoz adjunto de Sumar en el Congreso y diputado de Compromís, Alberto Ib
 
 Date: 2026-07-21
 
-### Podcast | Fuera de micrófono con Ernesto Sáenz de Buruaga
-
-Alejado de la primera línea informativa, Ernesto Sáenz de Buruaga ve los toros desde la barrera y observa con preocupación la deriva que ha tomado nuestro país desde que Pedro Sánchez está al frente del Gobierno. Sigue los debates y las tertulias. También Noticias 2 , de Vicente Vallés , porque lo considera «el informa.
-
-Date: 2026-07-21
-
-### El PP estudia pedir a Vox que no concurra en toda España
-
-Todavía no ha llegado el momento decisivo, pero los distintos partidos políticos ya empiezan a esbozar algunas de las estrategias que podrían poner encima de la mesa en cuanto Pedro Sánchez apriete el botón para convocar las elecciones generales . Es algo, además, que no se sabe a ciencia cierta cuándo pasará, ya que s.
-
-Date: 2026-07-21
-
-### Moncloa cambia el protocolo con la selección: escenario, público y preguntas de Ibai Llanos
-
-La Selección española de fútbol, flamante campeona del mundo , ha sido recibida este lunes en el Palacio de la Moncloa por el presidente del Gobierno , Pedro Sánchez , y por el personal del recinto. Lo que suele ser un evento protocolario cerrado y sobrio, ha sido una auténtica fiesta: un escenario en los jardines del.
-
-Date: 2026-07-20
-
 ## Fuentes
 
-- [Sánchez fuerza una defensa a ciegas a pesar de que Moncloa admite el "riesgo" de que "puede salir mal"](https://www.20minutos.es/nacional/sanchez-fuerza-una-estrategia-defensa-ciegas-zapatero-pese-que-moncloa-admite-riesgo-que-puede-salir-mal_7017355_0.html?utm_source=lootura.com) — 2026-07-22T03:00:00.000Z
+- [Sánchez anuncia préstamos por 300 millones para pymes que innoven para reducir el riesgo de incendios y en recuperar terrenos](https://www.20minutos.es/nacional/sanchez-anuncia-prestamos-por-300-millones-para-pymes-que-innoven-para-reducir-riesgo-incendios-recuperar-terrenos_7017581_0.html?utm_source=lootura.com) — 2026-07-22T09:05:34.000Z
 - [El PP apunta a Sánchez por el 'caso ZP' y avisa de que «este chanchullo se los puede llevar a los dos por delante»](https://www.elcorreo.com/politica/pp-apunta-gobierno-tras-revelaciones-julio-martinez-20260721134247-ntrc_amp.html?utm_source=lootura.com) — 2026-07-21T11:42:47.000Z
+- [Narbona afirma que Sánchez "ha asumido la responsabilidad política" por los casos de corrupción y defiende a Zapatero "por su enorme legado"](https://www.elmundo.es/espana/2026/07/22/6a609717e9cf4a04078b456f.html?utm_source=lootura.com) — 2026-07-22T10:15:48.000Z
+- [Última hora de los incendios forestales, en directo | El incendio de Guadalajara entra en una fase de “optimismo” tras arrasar más de 32.000 hectáreas](https://elpais.com/espana/2026-07-22/ultima-hora-de-los-incendios-forestales-en-directo.html?utm_source=lootura.com) — 2026-07-22T10:13:23.000Z

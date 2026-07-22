@@ -70,5 +70,4 @@ Date: 2026-07-19
 
 ## Sources
 
-- [Once Anti-Abortion, Now a Progressive: The Evolution of a Maine Democrat](https://www.nytimes.com/2026/07/21/us/politics/troy-jackson-maine-senate.html?utm_source=lootura.com) — 2026-07-21T15:13:42.000Z
-- [Democrats’ Top Senate Candidate in Maine Won’t Support Schumer for Leader](https://www.nytimes.com/2026/07/21/us/politics/troy-jackson-schumer-maine-senate.html?utm_source=lootura.com) — 2026-07-21T17:52:33.000Z
+No public source links.

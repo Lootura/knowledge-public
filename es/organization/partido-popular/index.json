@@ -8,12 +8,32 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/partido-popular/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/partido-popular/index.json",
   "description": "Sigue la actividad de Partido Popular en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-22T06:25:50.604Z",
+  "updatedAt": "2026-07-22T10:23:10.282Z",
   "aliases": [
     "PP",
     "populares"
   ],
   "changes": [
+    {
+      "title": "El PP se pliega a Vox y Les Corts Valencianes aprueban los primeros presupuestos en España que incluyen la prioridad nacional",
+      "summary": "Vox llevaba meses advirtiendo al PP: si no se incluye expresamente su “prioridad nacional” en los Presupuestos de la Generalitat Valenciana para 2026, no los apoyará. Este miércoles, la formación de extrema derecha ha impuesto su exigencia y el pleno de Les Corts ha aprobado las cuentas de 33.305 millones de euros del.",
+      "date": "2026-07-22"
+    },
+    {
+      "title": "Última hora de la actualidad política, en directo | Feijóo hace balance del curso político y de la legislatura",
+      "summary": "El líder del PP, Alberto Núñez Feijóo, hace balance en rueda de prensa del curso político y de la marcha de la legislatura, con la mirada puesta en las causas judiciales que afectan al PSOE y al Gobierno y la falta de apoyos parlamentarios del Ejecutivo. La presidenta del PSOE, Cristina Narbona, comparece en la comisió.",
+      "date": "2026-07-22"
+    },
+    {
+      "title": "PP y Vox aprueban los presupuestos de Pérez Llorca, los últimos de la legislatura, con mención a la \"prioridad nacional\"",
+      "summary": "La derecha y la ultraderecha sacan adelante las cuentas en las Corts Valencianes, por valor de 33.305 millones de euros, sin aceptar enmiendas de la oposición El Gobierno recurrirá en el Constitucional la ley de presupuestos de Pérez Llorca si incluye la expresión “prioridad nacional” Prueba superada. El presidente de.",
+      "date": "2026-07-22"
+    },
+    {
+      "title": "DIRECTO | La presidenta del PSOE comparece en la comisión Koldo del Senado",
+      "summary": "La presidenta del PSOE, Cristina Narbona, comparece en la comisión de investigación del Senado sobre el caso Koldo citada por el PP para explicar su relación con Leire Díaz, exmilitante socialista investigada por urdir presuntamente una trama para boicotear causas judiciales que pudieran afectar al Gobierno.",
+      "date": "2026-07-22"
+    },
     {
       "title": "Vox se ofende con el PP y asegura que se presentará en toda España",
       "summary": "Los populares estudiaban un pacto para que Vox no concurriera en algunas provincias y no dividir el voto.",
@@ -43,26 +63,6 @@
       "title": "Un juez abre juicio oral al número 2 de Diana Morant por un delito de calumnias contra el PP",
       "summary": "El titular de la Sección de Instrucción del Tribunal de Instancia de Valencia, Plaza Número 1, ha abierto juicio oral contra el secretario de Organización y número 2 de la ministra Diana Morant , en el PSPV-PSOE, Vicent Mascarell , por un presunto delito de calumnias contra el PP previsto y penado en los artículos 205.",
       "date": "2026-07-21"
-    },
-    {
-      "title": "Vox se ofende por la estrategia del PP para que no concurra en toda España: \"Que no se presenten ellos\"",
-      "summary": "En Génova creen que Vox resta la posibilidad de crecer en escaños en algunas provincias clave.",
-      "date": "2026-07-21"
-    },
-    {
-      "title": "Ofensiva en el Congreso por los fondos contra incendios",
-      "summary": "El PP registra 50 preguntas exigiendo transparencia a Moncloa.",
-      "date": "2026-07-21"
-    },
-    {
-      "title": "El PP estudia pedir a Vox que no concurra en toda España",
-      "summary": "Todavía no ha llegado el momento decisivo, pero los distintos partidos políticos ya empiezan a esbozar algunas de las estrategias que podrían poner encima de la mesa en cuanto Pedro Sánchez apriete el botón para convocar las elecciones generales . Es algo, además, que no se sabe a ciencia cierta cuándo pasará, ya que s.",
-      "date": "2026-07-21"
-    },
-    {
-      "title": "Dos millones de votantes, cinco elecciones y solo dos anuncios: así ignoran los partidos al electorado latino",
-      "summary": "En junio de 2016, una mujer colombiana con doble nacionalidad apareció en un vídeo grabado con el móvil durante un acto del Partido Popular. Se llamaba Martha Inés y pedía el voto en nombre de “los latinos”. Ella no lo sabía, pero ese vídeo –visto por unos cientos de personas– sería uno de los dos únicos momentos en oc.",
-      "date": "2026-07-20"
     }
   ],
   "sources": [
@@ -77,7 +77,31 @@
       "url": "https://www.elmundo.es/comunidad-valenciana/2026/07/21/6a5faad5fc6c83204d8b458e.html?utm_source=lootura.com",
       "publishedAt": "2026-07-21T20:43:55.000Z",
       "sourceId": "lootura-es-el-mundo"
+    },
+    {
+      "title": "El PP se pliega a Vox y Les Corts Valencianes aprueban los primeros presupuestos en España que incluyen la prioridad nacional",
+      "url": "https://elpais.com/espana/comunidad-valenciana/2026-07-22/les-corts-valencianes-aprueban-los-primeros-presupuestos-en-espana-que-incluyen-la-prioridad-nacional-de-vox.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-22T10:01:40.000Z",
+      "sourceId": "lootura-es-el-pais"
+    },
+    {
+      "title": "Última hora de la actualidad política, en directo | Feijóo hace balance del curso político y de la legislatura",
+      "url": "https://elpais.com/espana/2026-07-22/ultima-hora-de-la-actualidad-politica-en-directo.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-22T10:20:37.000Z",
+      "sourceId": "lootura-es-el-pais"
+    },
+    {
+      "title": "PP y Vox aprueban los presupuestos de Pérez Llorca, los últimos de la legislatura, con mención a la \"prioridad nacional\"",
+      "url": "https://www.eldiario.es/comunitat-valenciana/politica/pp-vox-aprueban-presupuestos-perez-llorca-ultimos-legislatura-mencion-prioridad-nacional_1_13398223.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-22T10:10:37.000Z",
+      "sourceId": "lootura-es-eldiario-es"
+    },
+    {
+      "title": "DIRECTO | La presidenta del PSOE comparece en la comisión Koldo del Senado",
+      "url": "https://theobjective.com/videos/espana/politica/2026-07-22/directo-presidenta-psoe-comision-koldo-senado/?utm_source=lootura.com",
+      "publishedAt": "2026-07-22T09:04:11.000Z",
+      "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 6
 }

@@ -3,7 +3,7 @@
 > Follow Jay Clayton, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-07-22T06:26:12.535Z
+- Updated: 2026-07-22T10:23:35.990Z
 - Canonical: https://atlas.lootura.com/us/organization/jay-clayton
 
 ## Recent changes

@@ -3,7 +3,7 @@
 > Sigue la actividad de Barcelona en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-22T06:25:50.604Z
+- Actualizado: 2026-07-22T10:23:10.282Z
 - Canonical: https://atlas.lootura.com/es/place/barcelona
 
 ## Cambios recientes
@@ -11,6 +11,18 @@
 ### Marc Biarnés (Nosoloviernes): “Antes la familia se avergonzaba del hijo tonto, pero ahora tiene un ‘podcast”
 
 Marc Biarnés (Barcelona, 33 años) tiene lo que más cotiza en las redes sociales: una expresividad que solo es suya. Su forma de poner los ojos en blanco mientras pela una pieza de fruta o de fruncir levemente el ceño mientras se prepara una tostada le pertenece solo a él. Si muchas influencers han encontrado un filón e.
+
+Date: 2026-07-22
+
+### Una testigo revela que la terapia de los Andic incluía una situación extrema en un barranco
+
+El caso Andic ha dado un nuevo giro de tuerca con la declaración de una testigo que compromete la posición de Jonathan Andic, investigado como presunto autor de la muerte de su padre, Isak Andic, durante una excursión a la montaña de Montserrat (Barcelona) el 14 de diciembre de 2024. La testigo, intérprete británica y.
+
+Date: 2026-07-22
+
+### Destrozan el mural de Ferran Torres en Barcelona un día después de pintarlo
+
+Un grupo de vándalos ha destrozado el mural que un conocido artista callejero había dedicado al futbolísta de la selección española Ferran Torres , apenas un día después de que lo realizase. El artista TVBoy pintó la imagen del jugador besando la copa del mundo en la plaza Joanic de Barcelona y este pasado martes por l.
 
 Date: 2026-07-22
 
@@ -56,20 +68,8 @@ Cuando las últimas persianas de las naves industriales bajaban al final de la j
 
 Date: 2026-07-20
 
-### Esta docuserie española en Disney+ cuenta un caso que te dejará impactado y la puedes ver en una tarde
-
-Abandonados , la docuserie española de 4 capítulos que causa sensación en Disney+, narra un suceso desconcertante . Se trata del impactante misterio real de tres hermanos abandonados en una estación de tren en Barcelona en 1984. La producción, en colaboración con Luminol Media y bajo la mirada del periodista Carles Por.
-
-Date: 2026-07-19
-
-### Corrompidos por el narco en Cataluña
-
-¿Qué lleva a un inspector de la Policía Nacional a liderar una red de tráfico de cocaína en el puerto de Barcelona? Los motivos sólo los sabe él, pero la consecuencia ha sido una condena de 15 años de cárcel .La denuncia de un arrepentido, tras una descarga, llevó a los Mossos d'Esquadra hasta el entramado que lideraba.
-
-Date: 2026-07-19
-
 ## Fuentes
 
-- [El independentismo crucifica a Joan Laporta y Rufián por apoyar a la selección española](https://www.elconfidencial.com/espana/cataluna/2026-07-22/el-independentismo-crucifica-a-joan-laporta-apoyar-a-la-seleccion-espanola_4393768/?utm_source=lootura.com) — 2026-07-22T03:00:00.000Z
+- [Una testigo revela que la terapia de los Andic incluía una situación extrema en un barranco](https://elpais.com/espana/catalunya/2026-07-22/una-testigo-revela-que-la-terapia-de-los-andic-incluia-una-situacion-extrema-en-un-barranco.html?utm_source=lootura.com) — 2026-07-22T07:44:28.000Z
 - [Marc Biarnés (Nosoloviernes): “Antes la familia se avergonzaba del hijo tonto, pero ahora tiene un ‘podcast”](https://elpais.com/icon/2026-07-22/marc-biarnes-nosoloviernes-antes-la-familia-se-avergonzaba-del-hijo-tonto-pero-ahora-tiene-un-podcast.html?utm_source=lootura.com) — 2026-07-22T03:30:01.000Z
-- [Luis de la Fuente protagoniza un mural en Barcelona](https://www.larazon.es/cataluna/luis-fuente-protagoniza-mural-barcelona_202607226a606080aa17c0020f290716.html?outputType=amp&utm_source=lootura.com) — 2026-07-22T06:17:36.000Z
+- [Destrozan el mural de Ferran Torres en Barcelona un día después de pintarlo](https://theobjective.com/deportes/futbol/mundial/2026-07-22/destrozan-mural-ferran-torres-barcelona/?utm_source=lootura.com) — 2026-07-22T08:56:24.000Z

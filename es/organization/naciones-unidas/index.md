@@ -3,10 +3,16 @@
 > Sigue la actividad de Organización de las Naciones Unidas en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-21T10:23:08.875Z
+- Actualizado: 2026-07-22T10:23:10.282Z
 - Canonical: https://atlas.lootura.com/es/organization/naciones-unidas
 
 ## Cambios recientes
+
+### Trump sopesa proponer a Infantino como secretario general de la ONU, según el 'New York Post'
+
+La designación no es tan sencilla, ya que combina un procedimiento formal fijado en la Carta de las Naciones Unidas con intensas negociaciones a puerta cerrada entre las grandes potencias.
+
+Date: 2026-07-22
 
 ### Marlaska defiende ante la ONU la baliza V-16 y presume de la seguridad vial en España
 
@@ -16,7 +22,7 @@ Date: 2026-07-21
 
 ### Discovered by Atlas
 
-Naciones Unidas first entered the public knowledge record with source-backed evidence.
+Organización de las Naciones Unidas first entered the public knowledge record with source-backed evidence.
 
 Date: 2026-07-19
 
@@ -40,4 +46,4 @@ Date: 2026-07-19
 
 ## Fuentes
 
-No public source links.
+- [Trump sopesa proponer a Infantino como secretario general de la ONU, según el 'New York Post'](https://www.abc.es/internacional/trump-sopesa-proponer-infantino-secretario-general-onu-20260722115546-nt_amp.html?utm_source=lootura.com) — 2026-07-22T09:55:47.000Z

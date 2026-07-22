@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/iran/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/iran/index.json",
   "description": "Sigue la actividad de Irán en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-22T06:25:50.604Z",
+  "updatedAt": "2026-07-22T10:23:10.282Z",
   "aliases": [
     "IRI",
     "Islamic Rep. Iran",
@@ -21,6 +21,11 @@
     {
       "title": "EEUU lanza nuevos ataques contra Irán que eclipsan los esfuerzos diplomáticos",
       "summary": "Leer.",
+      "date": "2026-07-22"
+    },
+    {
+      "title": "El Ibex sube a los 19.500 puntos pese al alza del petróleo y ante los resultados de las grandes tecnológicas",
+      "summary": "El pesimismo en torno a las negociaciones de paz entre EE UU e Irán, después de que el el gobierno estadounidense restara importancia a la posibilidad de conversaciones inmediatas con Teherán, y la creciente amenaza a los suministros energéticos de Oriente Próximo derivada de un bloqueo naval dirigido contra Arabia Sau.",
       "date": "2026-07-22"
     },
     {
@@ -62,18 +67,13 @@
       "title": "El Ibex 35 sube 0,28% a mediodía y recupera los 19.200 puntos, con el petróleo 87 dólares",
       "summary": "El Ibex 35 cotizaba en la media sesión con una subida del 0,28% , hasta situarse en los 19.271,60 puntos , tras suavizarse el precio del crudo hasta los 87 dólares desde los 92 dólares marcados en la apertura de este lunes, en un contexto marcado por los ataques cruzados entre Irán y Estados Unidos en Oriente Próximo .",
       "date": "2026-07-20"
-    },
-    {
-      "title": "El petróleo pierde un 4% desde máximos por la expectativa de un acuerdo entre Irán y EEUU",
-      "summary": "El precio del barril de crudo de calidad Brent , que había llegado este lunes, 20 de julio, a superar el umbral de los 91 dólares , se ha dado la vuelta y cedía alrededor de un 4% desde los máximos del día. Todo esto ha pasado después de que Irán haya asegurado que los contactos diplomáticos con Estados Unidos continúa.",
-      "date": "2026-07-20"
     }
   ],
   "sources": [
     {
-      "title": "Cautela en las Bolsas ante los resultados de las grandes tecnológicas y con el petróleo al alza",
+      "title": "El Ibex sube a los 19.500 puntos pese al alza del petróleo y ante los resultados de las grandes tecnológicas",
       "url": "https://cincodias.elpais.com/mercados-financieros/2026-07-22/la-bolsa-y-el-ibex-35.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-22T04:29:14.000Z",
+      "publishedAt": "2026-07-22T09:49:12.000Z",
       "sourceId": "lootura-es-cinco-dias"
     },
     {

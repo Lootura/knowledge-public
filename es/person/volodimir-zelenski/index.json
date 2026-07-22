@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/volodimir-zelenski/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/volodimir-zelenski/index.json",
   "description": "Sigue la actividad de Volodímir Zelenski en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-22T06:25:50.604Z",
+  "updatedAt": "2026-07-22T10:23:10.282Z",
   "aliases": [
     "President Volodymyr Oleksandrovych Zelenskyy",
     "President Volodymyr Zelenskyy",
@@ -20,6 +20,11 @@
     "Zelenski"
   ],
   "changes": [
+    {
+      "title": "Zelenski destituye al jefe del Ejército ucraniano tras las protestas por el cese del ministro de Defensa",
+      "summary": "El presidente ucraniano, Volodímir Zelenski, ha destituido a Oleksandr Sirski, comandante en jefe del Ejército de Ucrania. Su cargo lo ocupará el popular comandante de las fuerzas conjuntas, Mijaílo Drapati, en medio del descontento tras la salida del ministro de Defensa .«He decidido que el nuevo comandante en jefe de.",
+      "date": "2026-07-22"
+    },
     {
       "title": "Zelenski releva al jefe del ejército en Ucrania tras seis días de protestas",
       "summary": "El presidente de Ucrania, Volodímir Zelenski , ha anunciado en la noche del martes el relevo al frente del ejército que lucha contra la invasión rusa del país . El hasta ahora jefe de las Fuerzas Armadas, el general Oleksandr Sirski, deja paso a Mijailo Drapaty, que hasta ahora ocupaba también un alto cargo militar. La.",
@@ -48,10 +53,10 @@
   ],
   "sources": [
     {
-      "title": "Zelenski releva al jefe del ejército en Ucrania tras seis días de protestas",
-      "url": "https://elpais.com/internacional/2026-07-21/zelenski-releva-al-jefe-del-ejercito-en-ucrania-tras-seis-dias-de-protestas.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-21T20:31:17.000Z",
-      "sourceId": "lootura-es-el-pais"
+      "title": "Zelenski destituye al jefe del Ejército ucraniano tras las protestas por el cese del ministro de Defensa",
+      "url": "https://www.abc.es/internacional/zelenski-reemplaza-jefe-fuerzas-armadas-ucrania-20260722081645-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-22T09:30:40.000Z",
+      "sourceId": "lootura-es-abc"
     }
   ],
   "evidenceCount": 1

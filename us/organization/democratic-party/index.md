@@ -3,7 +3,7 @@
 > Follow Democratic Party, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-07-22T06:26:12.535Z
+- Updated: 2026-07-22T10:23:35.990Z
 - Canonical: https://atlas.lootura.com/us/organization/democratic-party
 
 ## Recent changes
@@ -20,15 +20,15 @@ Republicans managed to push through legislation to fund the government through D
 
 Date: 2026-07-22
 
-### Democrats’ Top Senate Candidate in Maine Won’t Support Schumer for Leader
-
-Troy Jackson, who is set to become the party’s nominee, also said in an interview that he was not sure he wanted the support of Senator Chuck Schumer in the general election.
-
-Date: 2026-07-21
-
 ### Democrats could take initial vote on 2028 presidential primary calendar this week
 
 Democrats could vote as early as this week on the order of their primary calendar for the 2028 presidential election, although the decision wouldn't be final until the full Democratic National Committee agrees.
+
+Date: 2026-07-21
+
+### Democrats’ Top Senate Candidate in Maine Won’t Support Schumer for Leader
+
+Troy Jackson, who is set to become the party’s nominee, also said in an interview that he was not sure he wanted the support of Senator Chuck Schumer in the general election.
 
 Date: 2026-07-21
 
@@ -73,4 +73,3 @@ Date: 2026-07-20
 - [Democrats could take initial vote on 2028 presidential primary calendar this week](https://www.pbs.org/newshour/politics/democrats-could-take-initial-vote-on-2028-presidential-primary-calendar-this-week?utm_source=lootura.com) — 2026-07-21T23:52:05.000Z
 - [Senate panel advances Jay Clayton's nomination for director of national intelligence](https://www.pbs.org/newshour/politics/senate-panel-advances-jay-claytons-nomination-for-director-of-national-intelligence?utm_source=lootura.com) — 2026-07-22T00:26:02.000Z
 - [House Narrowly Passes Stopgap Spending Bill, but Shutdown Fight Looms](https://www.nytimes.com/2026/07/21/us/politics/house-stopgap-spending-bill-shutdown.html?utm_source=lootura.com) — 2026-07-22T02:37:17.000Z
-- [Democrats’ Top Senate Candidate in Maine Won’t Support Schumer for Leader](https://www.nytimes.com/2026/07/21/us/politics/troy-jackson-schumer-maine-senate.html?utm_source=lootura.com) — 2026-07-21T17:52:33.000Z

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/alberto-nunez-feijoo/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/alberto-nunez-feijoo/index.json",
   "description": "Sigue la actividad de Alberto Núñez Feijóo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-22T02:26:20.882Z",
+  "updatedAt": "2026-07-22T10:23:10.282Z",
   "aliases": [
     "Alberto",
     "Alberto Nuñez",
@@ -22,6 +22,11 @@
     "Núñez Feijóo"
   ],
   "changes": [
+    {
+      "title": "Última hora de la actualidad política, en directo | Feijóo hace balance del curso político y de la legislatura",
+      "summary": "El líder del PP, Alberto Núñez Feijóo, hace balance en rueda de prensa del curso político y de la marcha de la legislatura, con la mirada puesta en las causas judiciales que afectan al PSOE y al Gobierno y la falta de apoyos parlamentarios del Ejecutivo. La presidenta del PSOE, Cristina Narbona, comparece en la comisió.",
+      "date": "2026-07-22"
+    },
     {
       "title": "Feijóo se adelanta a Sánchez en el balance del curso para aprovechar el misil lanzado por Julio Martínez",
       "summary": "El líder del PP, Alberto Núñez Feijóo, ha decidido no esperar a la comparecencia ante la prensa de Pedro Sánchez el próximo martes 28 y se adelanta a este miércoles para valorar el curso político que toca a su fin. Lo hará después del misil lanzado por el empresario 'Julito' Martínez ante el juez de la Audiencia Nacion.",
@@ -66,13 +71,15 @@
       "title": "Feijóo presenta este sábado en Santiago a los candidatos del PP a las capitales de provincia",
       "summary": "El líder del Partido Popular , Alberto Núñez Feijóo , presenta este sábado, día 18 de julio, a los candidatos de su formación a las capitales de provincia de toda España de cara a las elecciones municipales del 2027 . El acto tendrá lugar en la Cidade da Cultura de Santiago de Compostela y en él también intervendrá el.",
       "date": "2026-07-18"
-    },
-    {
-      "title": "Feijóo pide al PP «ganar, ganar y volver a ganar» en las municipales: «Las urnas serán la sentencia del sanchismo»",
-      "summary": "El presidente del PP, Alberto Núñez Feijóo , ha presentado este sábado en Santiago de Compostela (Galicia) a los 54 candidatos de su formación en capitales de provincia, capitales de comunidad autónoma y las siete grandes ciudades gallegas para las próximas elecciones municipales del próximo 23 de mayo. El líder popula.",
-      "date": "2026-07-18"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Última hora de la actualidad política, en directo | Feijóo hace balance del curso político y de la legislatura",
+      "url": "https://elpais.com/espana/2026-07-22/ultima-hora-de-la-actualidad-politica-en-directo.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-22T10:20:37.000Z",
+      "sourceId": "lootura-es-el-pais"
+    }
+  ],
+  "evidenceCount": 1
 }

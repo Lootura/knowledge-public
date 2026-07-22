@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/psoe/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/psoe/index.json",
   "description": "Sigue la actividad de Partido Socialista Obrero Español en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-22T06:25:50.604Z",
+  "updatedAt": "2026-07-22T10:23:10.282Z",
   "aliases": [
     "Grupo Socialista",
     "PSOE",
@@ -24,6 +24,21 @@
     {
       "title": "La nueva dimensión del ‘caso Zapatero’ no mueve al Gobierno mientras el expresidente mantiene su silencio",
       "summary": "El caso Zapatero ha entrado en una nueva dimensión. Y cada vez peor para él mismo, para el PSOE y para el Gobierno. Su hasta ahora amigo Julio Martínez Martínez, a quien el juez ha presentado como un “correveidile” del expresidente, ha dado el paso que tanto se temía desde hace semanas en las filas socialistas: ha desm.",
+      "date": "2026-07-22"
+    },
+    {
+      "title": "Narbona afirma que Sánchez \"ha asumido la responsabilidad política\" por los casos de corrupción y defiende a Zapatero \"por su enorme legado\"",
+      "summary": "La presidenta del PSOE admite conocer a Leire Díez, la llamada 'fontanera' del partido, desde hace años pero, recalca: \"No he sido su madrina para nada\" Leer.",
+      "date": "2026-07-22"
+    },
+    {
+      "title": "Última hora de la actualidad política, en directo | Feijóo hace balance del curso político y de la legislatura",
+      "summary": "El líder del PP, Alberto Núñez Feijóo, hace balance en rueda de prensa del curso político y de la marcha de la legislatura, con la mirada puesta en las causas judiciales que afectan al PSOE y al Gobierno y la falta de apoyos parlamentarios del Ejecutivo. La presidenta del PSOE, Cristina Narbona, comparece en la comisió.",
+      "date": "2026-07-22"
+    },
+    {
+      "title": "DIRECTO | La presidenta del PSOE comparece en la comisión Koldo del Senado",
+      "summary": "La presidenta del PSOE, Cristina Narbona, comparece en la comisión de investigación del Senado sobre el caso Koldo citada por el PP para explicar su relación con Leire Díaz, exmilitante socialista investigada por urdir presuntamente una trama para boicotear causas judiciales que pudieran afectar al Gobierno.",
       "date": "2026-07-22"
     },
     {
@@ -55,24 +70,15 @@
       "title": "La abogada de Koldo García pide citar a Aldama en el ‘caso Leire Díez’",
       "summary": "La abogada del exasesor ministerial Koldo García , Leticia de la Hoz, ha pedido citar como testigo al comisionista Víctor de Aldama para comprobar la versión que dio la empresaria Carmen Pano, quien la acusa de intentar sobornarla para que se retractara de su afirmación de haber llevado 90.000 euros a la sede del PSOE.",
       "date": "2026-07-21"
-    },
-    {
-      "title": "Manifestarse contra el turismo",
-      "summary": "Una organización criminal , según la Guardia Civil, convoca una manifestación contra el turismo , sustento de la mayoría de los ciudadanos de Baleares, y recibe el apoyo de los partidos que han gobernado en las Islas: el corrupto PSOE y su sostén, Més per Mallorca . A esta sinrazón hemos llegado. Resulta curioso que na.",
-      "date": "2026-07-21"
-    },
-    {
-      "title": "Jésica, 'Julito', el amigo de Zapatero, y los recursos de Cerdán y Leire: otra semana con la corrupción del PSOE en los juzgados",
-      "summary": "'Este lunes arranca la tercera semana consecutiva de declaraciones en la Audiencia Nacional en el marco de las principales causas que cercan al PSOE. Tras varios días de intensa actividad judicial , marcada principalmente por la condena al hermano del presidente y la confirmación del procesamiento de su mujer , nos enf.",
-      "date": "2026-07-20"
-    },
-    {
-      "title": "La imposible derrota de Sánchez",
-      "summary": "Pedro Sánchez no ha reconocido jamás una derrota electoral. En las primeras elecciones que tuvo que afrontar como secretario general, el PSOE cosechó en diciembre de 2015 el peor resultado de su historia, con 20 escaños menos de los que había obtenido antes Alfredo Pérez Rubalcaba. Esa misma marca histórica adversa la.",
-      "date": "2026-07-20"
     }
   ],
   "sources": [
+    {
+      "title": "Narbona afirma que Sánchez \"ha asumido la responsabilidad política\" por los casos de corrupción y defiende a Zapatero \"por su enorme legado\"",
+      "url": "https://www.elmundo.es/espana/2026/07/22/6a609717e9cf4a04078b456f.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-22T10:15:48.000Z",
+      "sourceId": "lootura-es-el-mundo"
+    },
     {
       "title": "Depresión en el Gobierno por el jaque al ex presidente: \"Esto es peor que lo de Leire\"",
       "url": "https://www.elmundo.es/espana/2026/07/21/6a5fb71821efa057338b45ad.html?utm_source=lootura.com",
@@ -84,7 +90,19 @@
       "url": "https://elpais.com/espana/2026-07-22/la-nueva-dimension-del-caso-zapatero-no-mueve-al-gobierno-mientras-el-expresidente-mantiene-su-silencio.html?utm_source=lootura.com",
       "publishedAt": "2026-07-22T03:30:01.000Z",
       "sourceId": "lootura-es-el-pais"
+    },
+    {
+      "title": "Última hora de la actualidad política, en directo | Feijóo hace balance del curso político y de la legislatura",
+      "url": "https://elpais.com/espana/2026-07-22/ultima-hora-de-la-actualidad-politica-en-directo.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-22T10:20:37.000Z",
+      "sourceId": "lootura-es-el-pais"
+    },
+    {
+      "title": "DIRECTO | La presidenta del PSOE comparece en la comisión Koldo del Senado",
+      "url": "https://theobjective.com/videos/espana/politica/2026-07-22/directo-presidenta-psoe-comision-koldo-senado/?utm_source=lootura.com",
+      "publishedAt": "2026-07-22T09:04:11.000Z",
+      "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 5
 }

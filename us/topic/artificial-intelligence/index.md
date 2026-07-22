@@ -3,7 +3,7 @@
 > Follow Artificial intelligence, a tracked topic, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: topic
-- Updated: 2026-07-22T06:26:12.535Z
+- Updated: 2026-07-22T10:23:35.990Z
 - Canonical: https://atlas.lootura.com/us/topic/artificial-intelligence
 
 ## Recent changes
@@ -17,6 +17,12 @@ Date: 2026-07-22
 ### Don’t let AI steal all the joy: what scientists won’t give up to chatbots
 
 Nature, Published online: 21 July 2026; doi:10.1038/d41586-026-02213-0 Nature asked readers of the Nature Briefing what they like about their job and don’t want to hand over.
+
+Date: 2026-07-22
+
+### Developer ecosystem expanded
+
+The pledge was introduced in March, and has done little to quell concerns so far. | Image: Cath Virginia / The Verge, Getty Images In the face of backlash to concerns the AI boom will increase consumer electricity bills, the largest utility companies and data center developers in the US are now promising to do somethin.
 
 Date: 2026-07-22
 
@@ -62,14 +68,9 @@ Nature, Published online: 17 July 2026; doi:10.1038/d41586-026-02272-3 Synthetic
 
 Date: 2026-07-20
 
-### Funding milestone detected
-
-Researchers have copied massive quantities of publicly available climate and environmental data from NASA onto a Swiss supercomputer to train artificial intelligence models—and for safekeeping amid U.S. funding cuts.
-
-Date: 2026-07-20
-
 ## Sources
 
 - [Scientists propose model to protect Earth from solar storms](https://www.cbsnews.com/video/scientists-propose-model-to-protect-earth-from-solar-storms/?utm_source=lootura.com) — 2026-07-22T02:07:49.000Z
 - [Detailed maps of European wetlands reveal overlooked patches of ecosystems](https://www.nature.com/articles/d41586-026-02211-2?utm_source=lootura.com) — 2026-07-22T06:26:16.322Z
-- [Don’t let AI steal all the joy: what scientists won’t give up to chatbots](https://www.nature.com/articles/d41586-026-02213-0?utm_source=lootura.com) — 2026-07-22T06:26:16.322Z
+- [Don’t let AI steal all the joy: what scientists won’t give up to chatbots](https://www.nature.com/articles/d41586-026-02213-0?utm_source=lootura.com) — 2026-07-22T10:23:40.162Z
+- [Utility companies are promising to spare us from AI’s energy bill](https://www.theverge.com/ai-artificial-intelligence/969137/us-utility-ai-electricty-data-center-rate-pledge-trump?utm_source=lootura.com) — 2026-07-22T10:12:13.000Z

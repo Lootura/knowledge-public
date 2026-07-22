@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/red-sea/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/red-sea/index.json",
   "description": "Follow Red Sea, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-22T06:26:12.535Z",
+  "updatedAt": "2026-07-22T10:23:35.990Z",
   "aliases": [
     "Al Baḩr al Aḩmar",
     "Arabian Gulf",
@@ -18,13 +18,18 @@
   ],
   "changes": [
     {
-      "title": "Funding milestone detected",
-      "summary": "Iran-backed Houthis say they will blockade anothe waterway, threatening Red Sea shipping, Pete Hegseth heads to the Hill looking for $350 billion funding boost, Arizona voters head to the polls.",
-      "date": "2026-07-21"
+      "title": "See How Houthis Put the Red Sea at Risk as an Alternative Oil Route",
+      "summary": "Saudi Arabia has diverted huge amounts of oil to the Red Sea since the Iran war began, but now the Iranian-backed Houthi militants say that they intend to block that route.",
+      "date": "2026-07-22"
     },
     {
       "title": "Discovered by Atlas",
       "summary": "Red Sea first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-07-21"
+    },
+    {
+      "title": "Funding milestone detected",
+      "summary": "Iran-backed Houthis say they will blockade anothe waterway, threatening Red Sea shipping, Pete Hegseth heads to the Hill looking for $350 billion funding boost, Arizona voters head to the polls.",
       "date": "2026-07-21"
     },
     {
@@ -40,17 +45,11 @@
   ],
   "sources": [
     {
-      "title": "Morning news brief",
-      "url": "https://www.npr.org/2026/07/21/nx-s1-5895979/morning-news-brief?utm_source=lootura.com",
-      "publishedAt": "2026-07-21T08:44:49.000Z",
-      "sourceId": "lootura-us-npr"
-    },
-    {
-      "title": "WATCH: Trump says U.S. would have to 'take care' of potential Houthi blockade of Red Sea",
-      "url": "https://www.pbs.org/newshour/politics/watch-trump-says-u-s-would-have-to-take-care-of-potential-houthi-blockade-of-red-sea?utm_source=lootura.com",
-      "publishedAt": "2026-07-21T20:25:18.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
+      "title": "See How Houthis Put the Red Sea at Risk as an Alternative Oil Route",
+      "url": "https://www.nytimes.com/2026/07/22/business/energy-environment/red-sea-saudi-arabia-houthis.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-22T09:02:31.000Z",
+      "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

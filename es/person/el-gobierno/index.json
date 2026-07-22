@@ -8,9 +8,14 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/el-gobierno/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/el-gobierno/index.json",
   "description": "Sigue la actividad de El Gobierno en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-22T06:25:50.604Z",
+  "updatedAt": "2026-07-22T10:23:10.282Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "PP y Vox aprueban los presupuestos de Pérez Llorca, los últimos de la legislatura, con mención a la \"prioridad nacional\"",
+      "summary": "La derecha y la ultraderecha sacan adelante las cuentas en las Corts Valencianes, por valor de 33.305 millones de euros, sin aceptar enmiendas de la oposición El Gobierno recurrirá en el Constitucional la ley de presupuestos de Pérez Llorca si incluye la expresión “prioridad nacional” Prueba superada. El presidente de.",
+      "date": "2026-07-22"
+    },
     {
       "title": "El Gobierno reactiva la renovación de la RedIRIS un año después de anular el polémico contrato con Huawei",
       "summary": "Red.es, entidad pública adscrita al Ministerio para la Transformación Digital y de la Función Pública, ha lanzado una consulta preliminar al mercado para planificar la renovación de la electrónica de la red IP de RedIRIS, casi un año después de cancelar la adjudicación de 10 millones de euros a Telefónica que contempla.",
@@ -55,25 +60,20 @@
       "title": "El Gobierno lo confirma: se ha aprobado la ayuda de 166 euros de IMV por cada miembro de la unidad de convivencia si se cumplen estos requisitos",
       "summary": "El Ingreso Mínimo Vital llegó el pasado mes de mayo a más de 860.000 hogares españoles en los que viven más de un millón de niños, niñas y adolescentes. El Instituto Nacional de la Seguridad Social confirmó a primeros de junio que el IMV protege actualmente a 2.631.545 personas que están en una situación de ... Continu.",
       "date": "2026-07-20"
-    },
-    {
-      "title": "El Gobierno inicia la inhabilitación de Holaluz",
-      "summary": "La subdirección general de energía eléctrica , que depende del Ministerio de Transición Ecológica, ha iniciado un procedimiento para retirar la licencia de comercialización de electricidad a Holaluz. Así viene publicado en el Boletín Oficial del Estado (BOE). En concreto, el Gobierno va a proceder a la \"extinción de la.",
-      "date": "2026-07-19"
     }
   ],
   "sources": [
-    {
-      "title": "El Gobierno reactiva la renovación de la RedIRIS un año después de anular el polémico contrato con Huawei",
-      "url": "https://elpais.com/economia/2026-07-22/el-gobierno-reactiva-la-renovacion-de-la-rediris-un-ano-despues-de-anular-el-polemico-contrato-con-huawei.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-22T03:45:00.000Z",
-      "sourceId": "lootura-es-cinco-dias"
-    },
     {
       "title": "El Gobierno de Pradales anuncia que no habrá recibimiento a los jugadores vascos de La Roja",
       "url": "https://www.elcorreo.com/politica/gobierno-pradales-deja-aire-recibimiento-jugadores-vascos-20260721132932-nt_amp.html?utm_source=lootura.com",
       "publishedAt": "2026-07-21T11:29:33.000Z",
       "sourceId": "lootura-es-el-correo"
+    },
+    {
+      "title": "PP y Vox aprueban los presupuestos de Pérez Llorca, los últimos de la legislatura, con mención a la \"prioridad nacional\"",
+      "url": "https://www.eldiario.es/comunitat-valenciana/politica/pp-vox-aprueban-presupuestos-perez-llorca-ultimos-legislatura-mencion-prioridad-nacional_1_13398223.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-22T10:10:37.000Z",
+      "sourceId": "lootura-es-eldiario-es"
     }
   ],
   "evidenceCount": 2

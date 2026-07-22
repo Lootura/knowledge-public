@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/portugal/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/portugal/index.json",
   "description": "Sigue la actividad de República Portuguesa en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-21T21:06:12.863Z",
+  "updatedAt": "2026-07-22T10:23:10.282Z",
   "aliases": [
     "POR",
     "PRT",
@@ -68,6 +68,13 @@
       "date": "2026-07-10"
     }
   ],
-  "sources": [],
+  "sources": [
+    {
+      "title": "Chus Mateo convoca a los cinco NBA y Juancho Hernangómez regresa a una lista de España",
+      "url": "https://okdiario.com/deportes/chus-mateo-convoca-cinco-nba-juancho-hernangomez-regresa-lista-espana-19046310?utm_source=lootura.com",
+      "publishedAt": "2026-07-22T10:14:20.000Z",
+      "sourceId": "lootura-es-ok-diario"
+    }
+  ],
   "evidenceCount": 0
 }

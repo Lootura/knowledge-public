@@ -70,4 +70,4 @@ Date: 2026-07-17
 
 ## Fuentes
 
-- [Amenazan a un futbolista vasco del Málaga por apoyar a Argentina contra España: «Etarra. Traidor. Antiespañol»](https://www.elcorreo.com/deportes/futbol/liga-primera/amenazan-futbolista-vasco-malaga-apoyar-argentina-espana-20260721120601-nt_amp.html?utm_source=lootura.com) — 2026-07-21T10:06:01.000Z
+No public source links.

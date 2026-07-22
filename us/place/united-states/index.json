@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/united-states/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/united-states/index.json",
   "description": "Follow United States, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-22T06:26:12.535Z",
+  "updatedAt": "2026-07-22T10:23:35.990Z",
   "aliases": [
     "America",
     "Estados Unidos",
@@ -59,38 +59,32 @@
       "date": "2026-07-22"
     },
     {
+      "title": "U.S. identifies third service member believed to have been killed in Iranian attack",
+      "summary": "The United States military identified Angel S. Rampersad as a third servicemember believed to have been killed in Jordan after an Iranian attack last Friday.",
+      "date": "2026-07-22"
+    },
+    {
+      "title": "Analysis suggests debt may increase suicide risk",
+      "summary": "In a study published in Economic Inquiry that analyzed debt and income across U.S. counties at the onset of the Great Recession in 2008, investigators uncovered evidence that debt may affect the likelihood of suicide.",
+      "date": "2026-07-22"
+    },
+    {
+      "title": "The children who loved a killer",
+      "summary": "The Carr family took in Steven Judy, hoping to ‘save’ a troubled teen. They didn’t know he would become one of the most hated men in America Childhood returns to Traci Carr in fragments. Night-time. She is five. She wakes to shadows on the wall, her room strange in the dark. Her footie pyjamas slip against the wood as.",
+      "date": "2026-07-22"
+    },
+    {
+      "title": "A Lettuce-Growing Region in Mexico Stomachs the Fallout From the Cyclospora Outbreak",
+      "summary": "In central Mexico, a lettuce-growing region has been potentially linked to an outbreak in the U.S. that has sickened thousands.",
+      "date": "2026-07-22"
+    },
+    {
       "title": "New research sheds light on Texas hill country floods",
       "summary": "Two companion papers in the Bulletin of the American Meteorological Society provide new insight into the causes and predictability of the 2025 Texas Hill Country floods, the deadliest flash flood event in the United States since 1976.",
       "date": "2026-07-22"
-    },
-    {
-      "title": "Mamdani Calls Netanyahu a ‘War Criminal’ and Calls on U.S. to Arrest Him",
-      "summary": "Mayor Zohran Mamdani challenged the United States to execute an international arrest warrant against Prime Minister Benjamin Netanyahu of Israel, which New York itself cannot do.",
-      "date": "2026-07-22"
-    },
-    {
-      "title": "Mamdani Says Netanyahu Is a ‘War Criminal’ but New York Can’t Arrest Him",
-      "summary": "Mayor Zohran Mamdani, in a video address, challenged the U.S. government to execute an international arrest warrant against the Israeli prime minister.",
-      "date": "2026-07-22"
-    },
-    {
-      "title": "The U.S. Is Pulling Back on Energy Efficiency",
-      "summary": "The Trump administration is undoing fuel-saving efforts even as war in Iran, data centers and heat waves are pushing up gasoline and electricity costs.",
-      "date": "2026-07-21"
-    },
-    {
-      "title": "Ex-U.S. attorney in Seattle sues Trump over firing",
-      "summary": "Roger Rogoff was fired from his role as U.S. attorney in Seattle shortly after judges on the U.S. District Court for the Western District of Washington appointed him to the job.",
-      "date": "2026-07-21"
     }
   ],
   "sources": [
-    {
-      "title": "Ex-U.S. attorney in Seattle sues Trump over firing",
-      "url": "https://www.cbsnews.com/news/roger-rogoff-us-attorney-seattle-trump-firing-lawsuit/?utm_source=lootura.com",
-      "publishedAt": "2026-07-21T20:40:17.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
     {
       "title": "The Uplift: The American Dream",
       "url": "https://www.cbsnews.com/video/the-uplift-the-american-dream/?utm_source=lootura.com",
@@ -110,22 +104,16 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "Friends remember 19-year-old U.S. soldier Isabella Gonzales after death in Iran strike",
-      "url": "https://www.cbsnews.com/video/friends-remember-fallen-19-year-old-us-soldier-isabella-gonzales/?utm_source=lootura.com",
-      "publishedAt": "2026-07-21T20:48:50.000Z",
-      "sourceId": "lootura-us-cbs-news"
+      "title": "U.S. identifies third service member believed to have been killed in Iranian attack",
+      "url": "https://www.nbcnews.com/news/us-news/iran-war-us-service-member-killed-attack-jordan-base-military-rcna588668?utm_source=lootura.com",
+      "publishedAt": "2026-07-22T09:53:44.000Z",
+      "sourceId": "lootura-us-nbc-news"
     },
     {
       "title": "Staying in a job for the health insurance? About 1 in 4 Americans do, a survey says",
       "url": "https://www.npr.org/2026/07/22/nx-s1-5902333/health-insurance-jobs-gallup?utm_source=lootura.com",
       "publishedAt": "2026-07-22T04:01:00.000Z",
       "sourceId": "lootura-us-npr"
-    },
-    {
-      "title": "WATCH: Trump says U.S. would have to 'take care' of potential Houthi blockade of Red Sea",
-      "url": "https://www.pbs.org/newshour/politics/watch-trump-says-u-s-would-have-to-take-care-of-potential-houthi-blockade-of-red-sea?utm_source=lootura.com",
-      "publishedAt": "2026-07-21T20:25:18.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
     },
     {
       "title": "Tropical Storm Bertha forecast to bring heavy rain, flooding along the Gulf Coast",
@@ -140,11 +128,23 @@
       "sourceId": "lootura-us-pbs-newshour"
     },
     {
-      "title": "New research sheds light on Texas hill country floods",
-      "url": "https://phys.org/news/2026-07-texas-hill-country.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-22T02:40:02.000Z",
+      "title": "Analysis suggests debt may increase suicide risk",
+      "url": "https://phys.org/news/2026-07-analysis-debt-suicide.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-22T07:00:11.000Z",
       "sourceId": "lootura-us-phys-org"
+    },
+    {
+      "title": "The children who loved a killer",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/jul/22/steven-judy-serial-killer-siblings?utm_source=lootura.com",
+      "publishedAt": "2026-07-22T08:00:09.000Z",
+      "sourceId": "lootura-us-the-guardian-us"
+    },
+    {
+      "title": "Cyclospora Cases in the U.S. Hit Record High",
+      "url": "https://www.nytimes.com/2026/07/21/well/cyclospora-cases-record-cdc.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-21T23:30:24.000Z",
+      "sourceId": "lootura-us-the-new-york-times"
     }
   ],
-  "evidenceCount": 14
+  "evidenceCount": 11
 }

@@ -3,7 +3,7 @@
 > Sigue la actividad de La Mancha en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-22T06:25:50.604Z
+- Actualizado: 2026-07-22T10:23:10.282Z
 - Canonical: https://atlas.lootura.com/es/place/la-mancha
 
 ## Cambios recientes
@@ -13,24 +13,6 @@
 El incendio forestal declarado el pasado jueves en la Sierra Norte de Guadalajara continúa fuera de capacidad de extinción y ya ha arrasado cerca de 30.000 hectáreas , consolidándose como el mayor registrado este año en Castilla-La Mancha. Aunque el operativo ha logrado frenar el avance del fuego en algunos sectores gr.
 
 Date: 2026-07-22
-
-### El incendio de Guadalajara se acerca a las 32.000 hectáreas afectadas
-
-El incendio que se originó el pasado jueves en La Mierla, en la Sierra Norte de Guadalajara, empieza a arrojar los primeros resquicios para el optimismo tras seis días de lucha incansable contra el fuego. “Empezamos a ver la luz más allá del humo”, decía el presidente de Castilla-La Mancha, Emiliano García-Page , tras.
-
-Date: 2026-07-21
-
-### Incendio de la Sierra Norte de Guadalajara, en directo: avance del fuego en La Mierla y Selas
-
-El incendio forestal declarado el pasado jueves en la Sierra Norte de Guadalajara continúa fuera de capacidad de extinción y ya ha arrasado cerca de 29.000 hectáreas , consolidándose como el mayor registrado este año en Castilla-La Mancha. Aunque el operativo ha logrado ralentizar el avance de las llamas en las últimas.
-
-Date: 2026-07-21
-
-### El incendio de Guadalajara roza las 30.000 hectáreas quemadas y ya hay 34 municipios desalojados
-
-El incendio de La Mierla (Guadalajara) ha quemado 29.000 hectáreas y ya hay 34 municipios desalojados desde que comenzó el jueves pasado. El presidente de Castilla-La Mancha, el socialista Emiliano García-Page , ha asegurado, tras su reunión en el Cecopi por la mañana, que ya se plantean el posible regreso de vecinos a.
-
-Date: 2026-07-21
 
 ### Alerta naranja en siete comunidades por la ola de calor: temperaturas asfixiantes y amenaza de reventones y tormentas secas
 
@@ -68,7 +50,24 @@ El Gobierno de Castilla-La Mancha se encuentra perfilando una estrategia de actu
 
 Date: 2026-07-19
 
+### Incendios en España, en directo hoy: última hora de los fuegos activos, evolución y situación en Aragón, Castilla-La Mancha, Madrid y Andalucía
+
+Sigue en directo la última hora de los incendios forestales activos en España.
+
+Date: 2026-07-19
+
+### Discovered by Atlas
+
+La Mancha first entered the public knowledge record with source-backed evidence.
+
+Date: 2026-07-18
+
+### Incendios en España, en directo hoy: última hora de los fuegos activos, evolución y situación en Aragón, Castilla-La Mancha, Madrid y Andalucía
+
+España afronta una nueva jornada de máxima alerta por incendios forestales después de un viernes marcado por varios grandes fuegos activos en diferentes comunidades autónomas y un amplio despliegue de medios de extinción. Los servicios de emergencia han trabajado durante toda la noche para consolidar los perímetros, pr.
+
+Date: 2026-07-18
+
 ## Fuentes
 
-- [El incendio de Guadalajara se acerca a las 32.000 hectáreas afectadas](https://elpais.com/espana/2026-07-21/el-incendio-de-guadalajara-roza-las-30000-hectareas-quemadas-y-ya-hay-34-municipios-desalojados.html?utm_source=lootura.com) — 2026-07-21T16:45:55.000Z
-- [Incendio de Guadalajara, en directo: última hora del avance del fuego en La Mierla y Selas](https://www.larazon.es/sociedad/incendio-guadalajara-directo-ultima-hora-avance-fuego-mierla-selas_202607226a6041794687a22bdec6bd84.html?utm_source=lootura.com) — 2026-07-22T06:10:16.000Z
+- [Incendio de Guadalajara, en directo: última hora del avance del fuego en La Mierla y Selas](https://www.larazon.es/sociedad/incendio-guadalajara-directo-ultima-hora-avance-fuego-mierla-selas_202607226a6041794687a22bdec6bd84.html?utm_source=lootura.com) — 2026-07-22T10:15:24.000Z

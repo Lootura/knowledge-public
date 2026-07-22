@@ -3,10 +3,16 @@
 > Sigue la actividad de Alberto Núñez Feijóo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-22T02:26:20.882Z
+- Actualizado: 2026-07-22T10:23:10.282Z
 - Canonical: https://atlas.lootura.com/es/person/alberto-nunez-feijoo
 
 ## Cambios recientes
+
+### Última hora de la actualidad política, en directo | Feijóo hace balance del curso político y de la legislatura
+
+El líder del PP, Alberto Núñez Feijóo, hace balance en rueda de prensa del curso político y de la marcha de la legislatura, con la mirada puesta en las causas judiciales que afectan al PSOE y al Gobierno y la falta de apoyos parlamentarios del Ejecutivo. La presidenta del PSOE, Cristina Narbona, comparece en la comisió.
+
+Date: 2026-07-22
 
 ### Feijóo se adelanta a Sánchez en el balance del curso para aprovechar el misil lanzado por Julio Martínez
 
@@ -62,12 +68,6 @@ El líder del Partido Popular , Alberto Núñez Feijóo , presenta este sábado,
 
 Date: 2026-07-18
 
-### Feijóo pide al PP «ganar, ganar y volver a ganar» en las municipales: «Las urnas serán la sentencia del sanchismo»
-
-El presidente del PP, Alberto Núñez Feijóo , ha presentado este sábado en Santiago de Compostela (Galicia) a los 54 candidatos de su formación en capitales de provincia, capitales de comunidad autónoma y las siete grandes ciudades gallegas para las próximas elecciones municipales del próximo 23 de mayo. El líder popula.
-
-Date: 2026-07-18
-
 ## Fuentes
 
-No public source links.
+- [Última hora de la actualidad política, en directo | Feijóo hace balance del curso político y de la legislatura](https://elpais.com/espana/2026-07-22/ultima-hora-de-la-actualidad-politica-en-directo.html?utm_source=lootura.com) — 2026-07-22T10:20:37.000Z

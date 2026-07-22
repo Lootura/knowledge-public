@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/maine/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/maine/index.json",
   "description": "Follow Maine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-22T06:26:12.535Z",
+  "updatedAt": "2026-07-22T10:23:35.990Z",
   "aliases": [
     "ME",
     "Maine, United States",
@@ -74,19 +74,7 @@
       "url": "https://www.nytimes.com/2026/07/21/us/politics/troy-jackson-maine-senate-democrats.html?utm_source=lootura.com",
       "publishedAt": "2026-07-21T21:42:09.000Z",
       "sourceId": "lootura-us-the-new-york-times-politics"
-    },
-    {
-      "title": "Once Anti-Abortion, Now a Progressive: The Evolution of a Maine Democrat",
-      "url": "https://www.nytimes.com/2026/07/21/us/politics/troy-jackson-maine-senate.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-21T15:13:42.000Z",
-      "sourceId": "lootura-us-the-new-york-times-politics"
-    },
-    {
-      "title": "Democrats’ Top Senate Candidate in Maine Won’t Support Schumer for Leader",
-      "url": "https://www.nytimes.com/2026/07/21/us/politics/troy-jackson-schumer-maine-senate.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-21T17:52:33.000Z",
-      "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 0
 }

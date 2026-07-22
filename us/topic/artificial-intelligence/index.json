@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/topic/artificial-intelligence/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/topic/artificial-intelligence/index.json",
   "description": "Follow Artificial intelligence, a tracked topic, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-22T06:26:12.535Z",
+  "updatedAt": "2026-07-22T10:23:35.990Z",
   "aliases": [
     "AI",
     "AI science",
@@ -35,6 +35,11 @@
     {
       "title": "Don’t let AI steal all the joy: what scientists won’t give up to chatbots",
       "summary": "Nature, Published online: 21 July 2026; doi:10.1038/d41586-026-02213-0 Nature asked readers of the Nature Briefing what they like about their job and don’t want to hand over.",
+      "date": "2026-07-22"
+    },
+    {
+      "title": "Developer ecosystem expanded",
+      "summary": "The pledge was introduced in March, and has done little to quell concerns so far. | Image: Cath Virginia / The Verge, Getty Images In the face of backlash to concerns the AI boom will increase consumer electricity bills, the largest utility companies and data center developers in the US are now promising to do somethin.",
       "date": "2026-07-22"
     },
     {
@@ -71,11 +76,6 @@
       "title": "Daily briefing: CRISPR gets an AI-designed upgrade",
       "summary": "Nature, Published online: 17 July 2026; doi:10.1038/d41586-026-02272-3 Synthetic CRISPR proteins edit the genome more efficiently than their natural counterparts. Plus, a rocky exoplanet with an atmosphere and the mathematical wonderland of footballs.",
       "date": "2026-07-20"
-    },
-    {
-      "title": "Funding milestone detected",
-      "summary": "Researchers have copied massive quantities of publicly available climate and environmental data from NASA onto a Swiss supercomputer to train artificial intelligence models—and for safekeeping amid U.S. funding cuts.",
-      "date": "2026-07-20"
     }
   ],
   "sources": [
@@ -94,9 +94,15 @@
     {
       "title": "Don’t let AI steal all the joy: what scientists won’t give up to chatbots",
       "url": "https://www.nature.com/articles/d41586-026-02213-0?utm_source=lootura.com",
-      "publishedAt": "2026-07-22T06:26:16.322Z",
+      "publishedAt": "2026-07-22T10:23:40.162Z",
       "sourceId": "lootura-us-nature"
+    },
+    {
+      "title": "Utility companies are promising to spare us from AI’s energy bill",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/969137/us-utility-ai-electricty-data-center-rate-pledge-trump?utm_source=lootura.com",
+      "publishedAt": "2026-07-22T10:12:13.000Z",
+      "sourceId": "lootura-us-the-verge"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 3
 }

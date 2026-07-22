@@ -34,5 +34,4 @@ Date: 2026-07-21
 
 ## Fuentes
 
-- [Zelenski destituye al jefe del ejército ucraniano tras días de protestas y nombra a su sucesor](https://www.elmundo.es/internacional/2026/07/21/6a5fd425e9cf4aa53d8b459d.html?utm_source=lootura.com) — 2026-07-21T20:24:41.000Z
-- [Zelenski releva al jefe del ejército en Ucrania tras seis días de protestas](https://elpais.com/internacional/2026-07-21/zelenski-releva-al-jefe-del-ejercito-en-ucrania-tras-seis-dias-de-protestas.html?utm_source=lootura.com) — 2026-07-21T20:31:17.000Z
+No public source links.

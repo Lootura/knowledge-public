@@ -3,7 +3,7 @@
 > Sigue la actividad de Federación Internacional de Fútbol Asociación en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-22T02:26:20.882Z
+- Actualizado: 2026-07-22T10:23:10.282Z
 - Canonical: https://atlas.lootura.com/es/organization/fifa
 
 ## Cambios recientes
@@ -40,4 +40,4 @@ Date: 2026-07-08
 
 ## Fuentes
 
-No public source links.
+- [La FIFA ridiculiza al arbitraje español e internacionaliza su descrédito](https://okdiario.com/deportes/fifa-ridiculiza-arbitraje-espanol-internacionaliza-descredito-18989073?utm_source=lootura.com) — 2026-07-22T10:00:41.000Z

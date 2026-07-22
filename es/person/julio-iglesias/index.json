@@ -8,16 +8,26 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/julio-iglesias/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/julio-iglesias/index.json",
   "description": "Sigue la actividad de Julio Iglesias en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-22T02:26:20.882Z",
+  "updatedAt": "2026-07-22T10:23:10.282Z",
   "aliases": [
     "Iglesias",
     "Julio"
   ],
   "changes": [
     {
+      "title": "La demanda de Julio Iglesias contra Yolanda Díaz relata hechos falsos para acusar a la vicepresidenta",
+      "summary": "El abogado del cantante pide 50.000 euros de indemnización por \"daños morales\" a su cliente Julio Iglesias se querella contra elDiario.es, contra su director y contra cuatro de sus periodistas La demanda de protección civil del derecho al honor que ha interpuesto Julio Iglesias contra la vicepresidenta segunda y minist.",
+      "date": "2026-07-22"
+    },
+    {
       "title": "Julio Iglesias defiende su honor contra Yolanda Díaz: los límites del poder político",
       "summary": "Durante toda su vida Julio Iglesias ha sorteado rumores, exclusivas y titulares de toda condición sin hacer de los tribunales su escenario. Esta vez, sin embargo, ha decidido sentar frente a un juez a una vicepresidenta del Gobierno. El cantante ha presentado una demanda civil ante el Tribunal Supremo contra Yolanda Dí.",
       "date": "2026-07-22"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Julio Iglesias first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-07-21"
     },
     {
       "title": "Julio Iglesias se querella contra elDiario.es, contra su director y contra cuatro de sus periodistas",
@@ -28,13 +38,15 @@
       "title": "La querella de Julio Iglesias contra elDiario.es: falsedades y acusaciones sin fundamento",
       "summary": "La querella presentada por el abogado del cantante denuncia conductas de los periodistas que nunca se produjeron y numerosos hechos inveraces Julio Iglesias se querella contra elDiario.es, contra su director y contra cuatro de sus periodistas Así fueron los tres años de investigación sobre Julio Iglesias La querella pr.",
       "date": "2026-07-21"
-    },
-    {
-      "title": "Discovered by Atlas",
-      "summary": "Julio Iglesias first entered the public knowledge record with source-backed evidence.",
-      "date": "2026-07-21"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "La demanda de Julio Iglesias contra Yolanda Díaz relata hechos falsos para acusar a la vicepresidenta",
+      "url": "https://www.eldiario.es/politica/demanda-julio-iglesias-yolanda-diaz-relata-hechos-falsos-acusar-vicepresidenta_1_13397937.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-22T10:13:17.000Z",
+      "sourceId": "lootura-es-eldiario-es"
+    }
+  ],
+  "evidenceCount": 1
 }

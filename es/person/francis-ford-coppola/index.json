@@ -1,0 +1,47 @@
+{
+  "id": "es-francis-ford-coppola",
+  "name": "Francis Ford Coppola",
+  "type": "person",
+  "locale": "es",
+  "canonicalPath": "/es/person/francis-ford-coppola",
+  "canonicalUrl": "https://atlas.lootura.com/es/person/francis-ford-coppola",
+  "markdownUrl": "https://atlas.lootura.com/es/person/francis-ford-coppola/index.md",
+  "jsonUrl": "https://atlas.lootura.com/es/person/francis-ford-coppola/index.json",
+  "description": "Sigue la actividad de Francis Ford Coppola en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
+  "updatedAt": "2026-07-22T10:23:10.282Z",
+  "aliases": [
+    "Francis Coppola"
+  ],
+  "changes": [
+    {
+      "title": "Al Pacino (86 años), actor de cine, se sincera sobre el rodaje de ‘El padrino’: “Pensaba que estaba actuando en la peor película de todos los tiempos”",
+      "summary": "Una de las mejores películas de todos los tiempos es sin duda El padrino de Francis Ford Coppola , la cual se estrenó en 1972. Una brillante cinta que logró convertirse en todo un éxito de crítica y que lanzó al olimpo de las grandes actores a Al Pacino que interpretó el papel del mafioso Michael Corleone con solo 29 a.",
+      "date": "2026-07-22"
+    },
+    {
+      "title": "It’s not just business: why emotions are central to workplace management",
+      "summary": "UNIKYLUCKK/Shutterstock “It’s not personal, it’s strictly business.” This line, which echoes throughout Francis Ford Coppola’s 1972 gangster film The Godfather, epitomises the classic view of management: doing business is, above all, about making money, even if it means sacrificing all of the personal, social aspects o.",
+      "date": "2026-07-22"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Francis Ford Coppola first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-07-22"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Al Pacino (86 años), actor de cine, se sincera sobre el rodaje de ‘El padrino’: “Pensaba que estaba actuando en la peor película de todos los tiempos”",
+      "url": "https://okdiario.com/cool/television/pacino-86-anos-actor-cine-sincera-sobre-rodaje-padrino-pensaba-que-estaba-actuando-peor-pelicula-todos-tiempos-19045784?utm_source=lootura.com",
+      "publishedAt": "2026-07-22T10:00:39.000Z",
+      "sourceId": "lootura-es-ok-diario"
+    },
+    {
+      "title": "It’s not just business: why emotions are central to workplace management",
+      "url": "https://theconversation.com/its-not-just-business-why-emotions-are-central-to-workplace-management-287853?utm_source=lootura.com",
+      "publishedAt": "2026-07-22T10:01:00.000Z",
+      "sourceId": "lootura-es-the-conversation-espana"
+    }
+  ],
+  "evidenceCount": 2
+}

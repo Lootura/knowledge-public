@@ -3,7 +3,7 @@
 > Follow Maine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-22T06:26:12.535Z
+- Updated: 2026-07-22T10:23:35.990Z
 - Canonical: https://atlas.lootura.com/us/place/maine
 
 ## Recent changes
@@ -71,5 +71,3 @@ Date: 2026-07-20
 ## Sources
 
 - [Troy Jackson Tightens Hold on Democratic Senate Nomination in Maine](https://www.nytimes.com/2026/07/21/us/politics/troy-jackson-maine-senate-democrats.html?utm_source=lootura.com) — 2026-07-21T21:42:09.000Z
-- [Once Anti-Abortion, Now a Progressive: The Evolution of a Maine Democrat](https://www.nytimes.com/2026/07/21/us/politics/troy-jackson-maine-senate.html?utm_source=lootura.com) — 2026-07-21T15:13:42.000Z
-- [Democrats’ Top Senate Candidate in Maine Won’t Support Schumer for Leader](https://www.nytimes.com/2026/07/21/us/politics/troy-jackson-schumer-maine-senate.html?utm_source=lootura.com) — 2026-07-21T17:52:33.000Z

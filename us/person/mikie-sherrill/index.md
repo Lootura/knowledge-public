@@ -3,16 +3,10 @@
 > Follow Mikie Sherrill, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-07-22T06:26:12.535Z
+- Updated: 2026-07-22T10:23:35.990Z
 - Canonical: https://atlas.lootura.com/us/person/mikie-sherrill
 
 ## Recent changes
-
-### Software error improperly registered 6,600 noncitizens to vote, N.J. gov. says
-
-New Jersey Gov. Mikie Sherrill said a preliminary analysis showed that fewer than 400 of the people registered that way went on to cast ballots.
-
-Date: 2026-07-21
 
 ### Error Led to 400 Noncitizens Voting in New Jersey, Governor Says
 
@@ -26,6 +20,12 @@ Mikie Sherrill first entered the public knowledge record with source-backed evid
 
 Date: 2026-07-21
 
+### Software error improperly registered 6,600 noncitizens to vote, N.J. gov. says
+
+New Jersey Gov. Mikie Sherrill said a preliminary analysis showed that fewer than 400 of the people registered that way went on to cast ballots.
+
+Date: 2026-07-21
+
 ### Thousands of Non-Citizens Registered to Vote in New Jersey Due to Software Issue
 
 Voters cast their ballots during early voting in Bridgewater, New Jersey, on October 31, 2025. —Kena Betancur—Getty Images Roughly 6,600 non-citizens were accidentally registered on New Jersey voter rolls following a software error in the state’s Motor Vehicle System, Gov. Mikie Sherrill announced on Tuesday. The error.
@@ -34,5 +34,4 @@ Date: 2026-07-21
 
 ## Sources
 
-- [Software error improperly registered 6,600 noncitizens to vote, N.J. gov. says](https://www.cbsnews.com/news/noncitizens-registered-vote-error-new-jersey/?utm_source=lootura.com) — 2026-07-21T19:19:48.000Z
 - [Error Led to 400 Noncitizens Voting in New Jersey, Governor Says](https://www.nytimes.com/2026/07/21/nyregion/noncitizen-voting-new-jersey-error.html?utm_source=lootura.com) — 2026-07-21T19:19:21.000Z

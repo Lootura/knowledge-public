@@ -1,0 +1,45 @@
+{
+  "id": "es-generalitat-valenciana",
+  "name": "Generalitat Valenciana",
+  "type": "organization",
+  "locale": "es",
+  "canonicalPath": "/es/organization/generalitat-valenciana",
+  "canonicalUrl": "https://atlas.lootura.com/es/organization/generalitat-valenciana",
+  "markdownUrl": "https://atlas.lootura.com/es/organization/generalitat-valenciana/index.md",
+  "jsonUrl": "https://atlas.lootura.com/es/organization/generalitat-valenciana/index.json",
+  "description": "Sigue la actividad de Generalitat Valenciana en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
+  "updatedAt": "2026-07-22T10:23:10.282Z",
+  "aliases": [],
+  "changes": [
+    {
+      "title": "El PP se pliega a Vox y Les Corts Valencianes aprueban los primeros presupuestos en España que incluyen la prioridad nacional",
+      "summary": "Vox llevaba meses advirtiendo al PP: si no se incluye expresamente su “prioridad nacional” en los Presupuestos de la Generalitat Valenciana para 2026, no los apoyará. Este miércoles, la formación de extrema derecha ha impuesto su exigencia y el pleno de Les Corts ha aprobado las cuentas de 33.305 millones de euros del.",
+      "date": "2026-07-22"
+    },
+    {
+      "title": "PP y Vox llevan por primera vez a una ley la \"prioridad nacional\" con la aprobación de los presupuestos de la Generalitat Valenciana",
+      "summary": "Ambos partidos acuerdan acotarla al \"arraigo real\" mientras el Gobierno de España amenaza con recurrir la norma ante el Constitucional Leer.",
+      "date": "2026-07-21"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Generalitat Valenciana first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-07-21"
+    }
+  ],
+  "sources": [
+    {
+      "title": "PP y Vox llevan por primera vez a una ley la \"prioridad nacional\" con la aprobación de los presupuestos de la Generalitat Valenciana",
+      "url": "https://www.elmundo.es/comunidad-valenciana/2026/07/21/6a5faad5fc6c83204d8b458e.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-21T20:43:55.000Z",
+      "sourceId": "lootura-es-el-mundo"
+    },
+    {
+      "title": "El PP se pliega a Vox y Les Corts Valencianes aprueban los primeros presupuestos en España que incluyen la prioridad nacional",
+      "url": "https://elpais.com/espana/comunidad-valenciana/2026-07-22/les-corts-valencianes-aprueban-los-primeros-presupuestos-en-espana-que-incluyen-la-prioridad-nacional-de-vox.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-22T10:01:40.000Z",
+      "sourceId": "lootura-es-el-pais"
+    }
+  ],
+  "evidenceCount": 2
+}

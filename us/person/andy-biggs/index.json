@@ -8,19 +8,15 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/andy-biggs/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/andy-biggs/index.json",
   "description": "Follow Andy Biggs, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-22T06:26:12.535Z",
+  "updatedAt": "2026-07-22T10:23:35.990Z",
   "aliases": [
-    "Andrew Steven Biggs"
+    "Andrew Steven Biggs",
+    "Biggs"
   ],
   "changes": [
     {
       "title": "Trump ally Andy Biggs wins GOP nomination for Arizona governor, AP projects",
       "summary": "Trump-endorsed Rep. Andy Biggs will take on Democratic Arizona Gov. Katie Hobbs in November.",
-      "date": "2026-07-22"
-    },
-    {
-      "title": "Trump-backed Rep. Andy Biggs wins GOP primary for Arizona governor",
-      "summary": "NBC News projects that Biggs defeated fellow Rep. David Schweikert to move on to the general election against Democratic Gov. Katie Hobbs.",
       "date": "2026-07-22"
     },
     {
@@ -32,6 +28,11 @@
       "title": "Discovered by Atlas",
       "summary": "Andy Biggs first entered the public knowledge record with source-backed evidence.",
       "date": "2026-07-22"
+    },
+    {
+      "title": "Trump-backed Rep. Andy Biggs wins GOP primary for Arizona governor",
+      "summary": "NBC News projects that Biggs defeated fellow Rep. David Schweikert to move on to the general election against Democratic Gov. Katie Hobbs.",
+      "date": "2026-07-22"
     }
   ],
   "sources": [
@@ -42,17 +43,11 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "Trump-backed Rep. Andy Biggs wins GOP primary for Arizona governor",
-      "url": "https://www.nbcnews.com/politics/2026-election/trump-backed-rep-andy-biggs-wins-gop-primary-arizona-governor-rcna587980?utm_source=lootura.com",
-      "publishedAt": "2026-07-22T03:03:23.000Z",
-      "sourceId": "lootura-us-nbc-news-politics"
-    },
-    {
       "title": "The top of Arizona’s GOP ticket is littered with 2020 election deniers",
       "url": "https://www.politico.com/news/2026/07/22/arizona-republicans-elect-2020-deniers-trump-01007511?utm_source=lootura.com",
       "publishedAt": "2026-07-22T05:15:06.000Z",
       "sourceId": "lootura-us-politico"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 2
 }

@@ -3,10 +3,16 @@
 > Sigue la actividad de Audiencia Nacional (España) en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-22T06:25:50.604Z
+- Actualizado: 2026-07-22T10:23:10.282Z
 - Canonical: https://atlas.lootura.com/es/organization/audiencia-nacional
 
 ## Cambios recientes
+
+### La causa contra Zapatero sitúa ahora el foco en la cúpula de Plus Ultra tras contradecir la versión del expresidente
+
+Julio Martínez Martínez entró sobre las 8.45 de este martes en la Audiencia Nacional y salió más de cuatro horas después sin moverse mucho de la línea marcada un día antes en el escrito enviado al juez José Luis Calama para implicar al expresidente José Luis Rodríguez Zapatero en el rescate de Plus Ultra . El giro del.
+
+Date: 2026-07-22
 
 ### Julio Martínez complica el futuro judicial de Zapatero aunque no despeja la X que pondría en serios aprietos a Moncloa
 
@@ -62,14 +68,6 @@ El escrito presentado por el investigado Julio Martínez a 24 horas de su espera
 
 Date: 2026-07-21
 
-### Julio Martínez delata a Zapatero y dice que se llevó el 1% por mediar en Plus Ultra
-
-Plus Ultra y Julio Martínez Martínez han enviado sendos escritos a la Audiencia Nacional donde muestran su deseo de colaborar con la justicia y confiesan que José Luis Rodríguez Zapatero medió en el rescate de la aerolínea, según explican fuentes judiciales a ABC. El pagador del expresidente también detalla que alcanza.
-
-Date: 2026-07-21
-
 ## Fuentes
 
-- [Julio Martínez complica el futuro judicial de Zapatero aunque no despeja la X que pondría en serios aprietos a Moncloa](https://www.20minutos.es/nacional/julio-martinez-complica-futuro-judicial-zapatero-pero-no-despeja-x-que-pondria-serios-aprietos-moncloa_7017247_0.html?utm_source=lootura.com) — 2026-07-22T03:00:00.000Z
 - [La causa contra Zapatero sitúa ahora el foco en la cúpula de Plus Ultra tras contradecir la versión del expresidente](https://elpais.com/espana/2026-07-22/la-causa-contra-zapatero-situa-ahora-el-foco-en-la-cupula-de-plus-ultra-tras-contradecir-la-version-del-expresidente.html?utm_source=lootura.com) — 2026-07-22T03:30:01.000Z
-- [El testaferro confirma que Zapatero usó una empresa pantalla para recibir los pagos de hasta tres clientes venezolanos](https://www.eldebate.com/espana/20260722/testaferro-confirma-zapatero-empresa-pantalla-recibir-pagos-hasta-tres-clientes-venezolanos_442196.html?utm_source=lootura.com) — 2026-07-22T02:46:57.000Z

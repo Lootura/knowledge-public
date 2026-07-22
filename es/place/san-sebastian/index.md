@@ -3,10 +3,16 @@
 > Sigue la actividad de San Sebastián en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-22T06:25:50.604Z
+- Actualizado: 2026-07-22T10:23:10.282Z
 - Canonical: https://atlas.lootura.com/es/place/san-sebastian
 
 ## Cambios recientes
+
+### Profanan una tumba del Cementerio de los Ingleses de San Sebastián: «Ha aparecido con la lápida rota y abierta»
+
+Se trata de la tumba donde reposan los restos de Sara y Matilde, fallecidas a mediados de la década de 1830 y sepultadas en la ladera del monte Urgull.
+
+Date: 2026-07-22
 
 ### Los sindicatos de los técnicos de espectáculos convocan una huelga para el día del concierto de ETS en Aste Nagusia
 
@@ -62,12 +68,7 @@ Los sublevados contra la República se atrincheraron los primeros días en San S
 
 Date: 2026-07-18
 
-### Cinco jóvenes investigados por insultar y agredir a un hombre con la camiseta de España en el paseo de La Concha de San Sebastián
-
-La víctima ha tenido que ser atendida en el cuarto de socorro, tras lo cual ha interpuesto una denuncia por lo ocurrido.
-
-Date: 2026-07-17
-
 ## Fuentes
 
 - [Los sindicatos de los técnicos de espectáculos convocan una huelga para el día del concierto de ETS en Aste Nagusia](https://www.elcorreo.com/culturas/musica/sindicatos-tecnicos-espectaculos-convocan-huelga-agosto-plena-20260721123831-nt_amp.html?utm_source=lootura.com) — 2026-07-21T10:38:31.000Z
+- [Profanan una tumba del Cementerio de los Ingleses de San Sebastián: «Ha aparecido con la lápida rota y abierta»](https://www.diariovasco.com/san-sebastian/profanan-tumba-cementerio-ingleses-monte-urgull-20260722115557-nt_amp.html?utm_source=lootura.com) — 2026-07-22T09:57:08.000Z

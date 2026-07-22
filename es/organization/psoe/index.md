@@ -3,7 +3,7 @@
 > Sigue la actividad de Partido Socialista Obrero Español en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-22T06:25:50.604Z
+- Actualizado: 2026-07-22T10:23:10.282Z
 - Canonical: https://atlas.lootura.com/es/organization/psoe
 
 ## Cambios recientes
@@ -11,6 +11,24 @@
 ### La nueva dimensión del ‘caso Zapatero’ no mueve al Gobierno mientras el expresidente mantiene su silencio
 
 El caso Zapatero ha entrado en una nueva dimensión. Y cada vez peor para él mismo, para el PSOE y para el Gobierno. Su hasta ahora amigo Julio Martínez Martínez, a quien el juez ha presentado como un “correveidile” del expresidente, ha dado el paso que tanto se temía desde hace semanas en las filas socialistas: ha desm.
+
+Date: 2026-07-22
+
+### Narbona afirma que Sánchez "ha asumido la responsabilidad política" por los casos de corrupción y defiende a Zapatero "por su enorme legado"
+
+La presidenta del PSOE admite conocer a Leire Díez, la llamada 'fontanera' del partido, desde hace años pero, recalca: "No he sido su madrina para nada" Leer.
+
+Date: 2026-07-22
+
+### Última hora de la actualidad política, en directo | Feijóo hace balance del curso político y de la legislatura
+
+El líder del PP, Alberto Núñez Feijóo, hace balance en rueda de prensa del curso político y de la marcha de la legislatura, con la mirada puesta en las causas judiciales que afectan al PSOE y al Gobierno y la falta de apoyos parlamentarios del Ejecutivo. La presidenta del PSOE, Cristina Narbona, comparece en la comisió.
+
+Date: 2026-07-22
+
+### DIRECTO | La presidenta del PSOE comparece en la comisión Koldo del Senado
+
+La presidenta del PSOE, Cristina Narbona, comparece en la comisión de investigación del Senado sobre el caso Koldo citada por el PP para explicar su relación con Leire Díaz, exmilitante socialista investigada por urdir presuntamente una trama para boicotear causas judiciales que pudieran afectar al Gobierno.
 
 Date: 2026-07-22
 
@@ -50,25 +68,10 @@ La abogada del exasesor ministerial Koldo García , Leticia de la Hoz, ha pedido
 
 Date: 2026-07-21
 
-### Manifestarse contra el turismo
-
-Una organización criminal , según la Guardia Civil, convoca una manifestación contra el turismo , sustento de la mayoría de los ciudadanos de Baleares, y recibe el apoyo de los partidos que han gobernado en las Islas: el corrupto PSOE y su sostén, Més per Mallorca . A esta sinrazón hemos llegado. Resulta curioso que na.
-
-Date: 2026-07-21
-
-### Jésica, 'Julito', el amigo de Zapatero, y los recursos de Cerdán y Leire: otra semana con la corrupción del PSOE en los juzgados
-
-'Este lunes arranca la tercera semana consecutiva de declaraciones en la Audiencia Nacional en el marco de las principales causas que cercan al PSOE. Tras varios días de intensa actividad judicial , marcada principalmente por la condena al hermano del presidente y la confirmación del procesamiento de su mujer , nos enf.
-
-Date: 2026-07-20
-
-### La imposible derrota de Sánchez
-
-Pedro Sánchez no ha reconocido jamás una derrota electoral. En las primeras elecciones que tuvo que afrontar como secretario general, el PSOE cosechó en diciembre de 2015 el peor resultado de su historia, con 20 escaños menos de los que había obtenido antes Alfredo Pérez Rubalcaba. Esa misma marca histórica adversa la.
-
-Date: 2026-07-20
-
 ## Fuentes
 
+- [Narbona afirma que Sánchez "ha asumido la responsabilidad política" por los casos de corrupción y defiende a Zapatero "por su enorme legado"](https://www.elmundo.es/espana/2026/07/22/6a609717e9cf4a04078b456f.html?utm_source=lootura.com) — 2026-07-22T10:15:48.000Z
 - [Depresión en el Gobierno por el jaque al ex presidente: "Esto es peor que lo de Leire"](https://www.elmundo.es/espana/2026/07/21/6a5fb71821efa057338b45ad.html?utm_source=lootura.com) — 2026-07-21T20:46:34.000Z
 - [La nueva dimensión del ‘caso Zapatero’ no mueve al Gobierno mientras el expresidente mantiene su silencio](https://elpais.com/espana/2026-07-22/la-nueva-dimension-del-caso-zapatero-no-mueve-al-gobierno-mientras-el-expresidente-mantiene-su-silencio.html?utm_source=lootura.com) — 2026-07-22T03:30:01.000Z
+- [Última hora de la actualidad política, en directo | Feijóo hace balance del curso político y de la legislatura](https://elpais.com/espana/2026-07-22/ultima-hora-de-la-actualidad-politica-en-directo.html?utm_source=lootura.com) — 2026-07-22T10:20:37.000Z
+- [DIRECTO | La presidenta del PSOE comparece en la comisión Koldo del Senado](https://theobjective.com/videos/espana/politica/2026-07-22/directo-presidenta-psoe-comision-koldo-senado/?utm_source=lootura.com) — 2026-07-22T09:04:11.000Z

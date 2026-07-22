@@ -3,10 +3,16 @@
 > Sigue la actividad de El Gobierno en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-22T06:25:50.604Z
+- Actualizado: 2026-07-22T10:23:10.282Z
 - Canonical: https://atlas.lootura.com/es/person/el-gobierno
 
 ## Cambios recientes
+
+### PP y Vox aprueban los presupuestos de Pérez Llorca, los últimos de la legislatura, con mención a la "prioridad nacional"
+
+La derecha y la ultraderecha sacan adelante las cuentas en las Corts Valencianes, por valor de 33.305 millones de euros, sin aceptar enmiendas de la oposición El Gobierno recurrirá en el Constitucional la ley de presupuestos de Pérez Llorca si incluye la expresión “prioridad nacional” Prueba superada. El presidente de.
+
+Date: 2026-07-22
 
 ### El Gobierno reactiva la renovación de la RedIRIS un año después de anular el polémico contrato con Huawei
 
@@ -62,13 +68,7 @@ El Ingreso Mínimo Vital llegó el pasado mes de mayo a más de 860.000 hogares 
 
 Date: 2026-07-20
 
-### El Gobierno inicia la inhabilitación de Holaluz
-
-La subdirección general de energía eléctrica , que depende del Ministerio de Transición Ecológica, ha iniciado un procedimiento para retirar la licencia de comercialización de electricidad a Holaluz. Así viene publicado en el Boletín Oficial del Estado (BOE). En concreto, el Gobierno va a proceder a la "extinción de la.
-
-Date: 2026-07-19
-
 ## Fuentes
 
-- [El Gobierno reactiva la renovación de la RedIRIS un año después de anular el polémico contrato con Huawei](https://elpais.com/economia/2026-07-22/el-gobierno-reactiva-la-renovacion-de-la-rediris-un-ano-despues-de-anular-el-polemico-contrato-con-huawei.html?utm_source=lootura.com) — 2026-07-22T03:45:00.000Z
 - [El Gobierno de Pradales anuncia que no habrá recibimiento a los jugadores vascos de La Roja](https://www.elcorreo.com/politica/gobierno-pradales-deja-aire-recibimiento-jugadores-vascos-20260721132932-nt_amp.html?utm_source=lootura.com) — 2026-07-21T11:29:33.000Z
+- [PP y Vox aprueban los presupuestos de Pérez Llorca, los últimos de la legislatura, con mención a la "prioridad nacional"](https://www.eldiario.es/comunitat-valenciana/politica/pp-vox-aprueban-presupuestos-perez-llorca-ultimos-legislatura-mencion-prioridad-nacional_1_13398223.html?utm_source=lootura.com) — 2026-07-22T10:10:37.000Z

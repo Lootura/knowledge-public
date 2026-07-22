@@ -64,4 +64,4 @@ Date: 2026-07-14
 
 ## Fuentes
 
-- [Lío con la Federación Valenciana de Hockey: Antifraude pide a Catalá que expediente a su presidente por conflicto de interés](https://www.elconfidencial.com/espana/comunidad-valenciana/2026-07-22/federacion-hockey-antifraude-catala-valencia_4393691/?utm_source=lootura.com) — 2026-07-22T03:00:00.000Z
+No public source links.

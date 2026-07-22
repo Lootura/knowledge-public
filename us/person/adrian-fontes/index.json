@@ -8,14 +8,12 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/adrian-fontes/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/adrian-fontes/index.json",
   "description": "Follow Adrian Fontes, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-22T06:26:12.535Z",
-  "aliases": [],
+  "updatedAt": "2026-07-22T10:23:35.990Z",
+  "aliases": [
+    "Adrian",
+    "Fontes"
+  ],
   "changes": [
-    {
-      "title": "Alexander Kolodin, who tried to overturn Arizona election results, wins GOP nod for secretary of state",
-      "summary": "Kolodin will face Democratic incumbent Adrian Fontes after defeating former state Republican Party chair Gina Swoboda, NBC News projects.",
-      "date": "2026-07-22"
-    },
     {
       "title": "Election Denier Wins G.O.P. Nomination to Be Arizona’s Top Election Official",
       "summary": "State Representative Alexander Kolodin will take on Adrian Fontes, the incumbent Democratic secretary of state, after defeating a more moderate Republican in the primary.",
@@ -25,15 +23,14 @@
       "title": "Discovered by Atlas",
       "summary": "Adrian Fontes first entered the public knowledge record with source-backed evidence.",
       "date": "2026-07-22"
+    },
+    {
+      "title": "Alexander Kolodin, who tried to overturn Arizona election results, wins GOP nod for secretary of state",
+      "summary": "Kolodin will face Democratic incumbent Adrian Fontes after defeating former state Republican Party chair Gina Swoboda, NBC News projects.",
+      "date": "2026-07-22"
     }
   ],
   "sources": [
-    {
-      "title": "Alexander Kolodin, who tried to overturn Arizona election results, wins GOP nod for secretary of state",
-      "url": "https://www.nbcnews.com/politics/2026-election/alexander-kolodin-tried-overturn-arizona-election-results-wins-gop-nod-rcna588197?utm_source=lootura.com",
-      "publishedAt": "2026-07-22T03:17:32.000Z",
-      "sourceId": "lootura-us-nbc-news-politics"
-    },
     {
       "title": "Election Denier Wins G.O.P. Nomination to Be Arizona’s Top Election Official",
       "url": "https://www.nytimes.com/2026/07/21/us/elections/arizona-primary-secretary-of-state-alexander-kolodin-wins.html?utm_source=lootura.com",
@@ -41,5 +38,5 @@
       "sourceId": "lootura-us-the-new-york-times"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

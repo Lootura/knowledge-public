@@ -3,7 +3,7 @@
 > Sigue la actividad de República Portuguesa en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-21T21:06:12.863Z
+- Actualizado: 2026-07-22T10:23:10.282Z
 - Canonical: https://atlas.lootura.com/es/place/portugal
 
 ## Cambios recientes
@@ -70,4 +70,4 @@ Date: 2026-07-10
 
 ## Fuentes
 
-No public source links.
+- [Chus Mateo convoca a los cinco NBA y Juancho Hernangómez regresa a una lista de España](https://okdiario.com/deportes/chus-mateo-convoca-cinco-nba-juancho-hernangomez-regresa-lista-espana-19046310?utm_source=lootura.com) — 2026-07-22T10:14:20.000Z

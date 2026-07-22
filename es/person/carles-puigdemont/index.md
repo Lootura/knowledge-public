@@ -64,4 +64,4 @@ Date: 2026-07-16
 
 ## Fuentes
 
-- [El gran fichaje empresarial de Puigdemont deja su escaño lejos de las expectativas creadas](https://www.elconfidencial.com/espana/cataluna/2026-07-22/segunda-puigdemont-sale-rana-deja-escano_4393883/?utm_source=lootura.com) — 2026-07-22T03:00:00.000Z
+No public source links.

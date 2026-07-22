@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/iran/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/iran/index.json",
   "description": "Follow Iran, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-22T06:26:12.535Z",
+  "updatedAt": "2026-07-22T10:23:35.990Z",
   "aliases": [
     "IRI",
     "Islamic Rep. Iran",
@@ -37,6 +37,11 @@
       "date": "2026-07-22"
     },
     {
+      "title": "See How Houthis Put the Red Sea at Risk as an Alternative Oil Route",
+      "summary": "Saudi Arabia has diverted huge amounts of oil to the Red Sea since the Iran war began, but now the Iranian-backed Houthi militants say that they intend to block that route.",
+      "date": "2026-07-22"
+    },
+    {
       "title": "Iran’s foreign minister describes moment of attack that killed Khamenei",
       "summary": "Abbas Araghchi says he has kept on the move since being pulled from rubble after strike on first day of war Iran’s foreign minister, Abbas Araghchi, has described how he was pulled from the rubble of a leadership compound after the US-Israeli airstrike that killed the country’s supreme leader, Ali Khamenei, on the firs.",
       "date": "2026-07-22"
@@ -47,27 +52,28 @@
       "date": "2026-07-22"
     },
     {
-      "title": "Funding milestone detected",
-      "summary": "Iran-backed Houthis say they will blockade anothe waterway, threatening Red Sea shipping, Pete Hegseth heads to the Hill looking for $350 billion funding boost, Arizona voters head to the polls.",
-      "date": "2026-07-21"
-    },
-    {
-      "title": "The U.S. Is Pulling Back on Energy Efficiency",
-      "summary": "The Trump administration is undoing fuel-saving efforts even as war in Iran, data centers and heat waves are pushing up gasoline and electricity costs.",
-      "date": "2026-07-21"
-    },
-    {
       "title": "Watch Live: Hegseth and Caine testify before Senate panel amid escalating Iran war",
       "summary": "Defense Secretary Pete Hegseth said the administration estimates that the Iran war has cost $37.5 billion since it began in late February.",
       "date": "2026-07-21"
     },
     {
-      "title": "Friends remember 19-year-old U.S. soldier Isabella Gonzales after death in Iran strike",
-      "summary": "Isabella Gonzales' friends in Texas are fondly remembering the fallen soldier as they come to terms with her death on Friday in the U.S. war with Iran. CBS News Texas reports.",
+      "title": "Pentagon Identifies Soldier Killed in Iran War as Sgt. Michael Emmanuel Swinton",
+      "summary": "Sgt. Michael Emmanuel Swinton, the 17th service member to be named, was killed during the disposal of a drone in northern Iraq.",
+      "date": "2026-07-21"
+    },
+    {
+      "title": "Hegseth and Caine Will Appear Before Senators to Seek More Money for Iran War",
+      "summary": "The Pentagon seeks an additional $80 billion to cover the costs of the conflict and replenish depleted weapons stocks.",
       "date": "2026-07-21"
     }
   ],
   "sources": [
+    {
+      "title": "3 soldiers killed in Iran strike on base in Jordan were from Texas, Hawaii, N.Y.",
+      "url": "https://www.cbsnews.com/news/iran-strike-jordan-us-troops-killed/?utm_source=lootura.com",
+      "publishedAt": "2026-07-22T07:22:00.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
     {
       "title": "U.S. launches strikes on Iran for 11th consecutive night",
       "url": "https://www.cbsnews.com/video/us-launches-strikes-iran-11th-consecutive-night/?utm_source=lootura.com",
@@ -93,18 +99,6 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "Friends remember 19-year-old U.S. soldier Isabella Gonzales after death in Iran strike",
-      "url": "https://www.cbsnews.com/video/friends-remember-fallen-19-year-old-us-soldier-isabella-gonzales/?utm_source=lootura.com",
-      "publishedAt": "2026-07-21T20:48:50.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
-    {
-      "title": "Morning news brief",
-      "url": "https://www.npr.org/2026/07/21/nx-s1-5895979/morning-news-brief?utm_source=lootura.com",
-      "publishedAt": "2026-07-21T08:44:49.000Z",
-      "sourceId": "lootura-us-npr"
-    },
-    {
       "title": "Senators grilled Hegseth on Iran. Here are 3 big moments from the hearing",
       "url": "https://www.pbs.org/newshour/politics/senators-grilled-hegseth-on-iran-here-are-3-big-moments-from-the-hearing?utm_source=lootura.com",
       "publishedAt": "2026-07-21T23:00:45.000Z",
@@ -123,11 +117,17 @@
       "sourceId": "lootura-us-pbs-newshour"
     },
     {
-      "title": "Iran’s foreign minister describes moment of attack that killed Khamenei",
-      "url": "https://www.theguardian.com/world/2026/jul/22/iran-foreign-minister-abbas-aragchi-attack-killed-khamenei?utm_source=lootura.com",
-      "publishedAt": "2026-07-22T05:00:07.000Z",
-      "sourceId": "lootura-us-the-guardian-us"
+      "title": "Pentagon Identifies Soldier Killed in Iran War as Sgt. Michael Emmanuel Swinton",
+      "url": "https://www.nytimes.com/2026/07/21/us/pentagon-identifies-soldier-iran-war-emmanuel-swinton.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-21T20:25:29.000Z",
+      "sourceId": "lootura-us-the-new-york-times"
+    },
+    {
+      "title": "Hegseth and Caine Will Appear Before Senators to Seek More Money for Iran War",
+      "url": "https://www.nytimes.com/2026/07/21/us/iran-war-funding.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-21T16:54:59.000Z",
+      "sourceId": "lootura-us-the-new-york-times"
     }
   ],
-  "evidenceCount": 15
+  "evidenceCount": 13
 }

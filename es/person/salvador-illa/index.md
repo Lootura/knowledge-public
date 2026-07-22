@@ -3,7 +3,7 @@
 > Sigue la actividad de Salvador Illa en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-20T06:43:17.611Z
+- Actualizado: 2026-07-22T10:23:10.282Z
 - Canonical: https://atlas.lootura.com/es/person/salvador-illa
 
 ## Cambios recientes
@@ -46,4 +46,4 @@ Date: 2026-07-16
 
 ## Fuentes
 
-No public source links.
+- [Illa admite ante Junts el “problema” con la baja inversión del Estado pero les pide ir “más allá de la queja”](https://www.lavanguardia.com/politica/20260722/11598302/illa-admite-junts-problema-baja-inversion-les-pide-mas-queja.html?utm_source=lootura.com) — 2026-07-22T08:24:29.000Z

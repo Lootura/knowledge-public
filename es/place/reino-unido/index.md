@@ -3,10 +3,16 @@
 > Sigue la actividad de Reino Unido de Gran Bretaña e Irlanda del Norte en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-22T06:25:50.604Z
+- Actualizado: 2026-07-22T10:23:10.282Z
 - Canonical: https://atlas.lootura.com/es/place/reino-unido
 
 ## Cambios recientes
+
+### Galán pide rebajar la fiscalidad de la luz y eliminar el IVA para los hogares, en línea con Reino Unido
+
+El presidente de Iberdrola, Ignacio Sánchez Galán, se ha mostrado partidario de rebajar las cargas fiscales que gravan la factura de la luz, en línea con las recomendaciones de la Comisión Europea y la decisión del nuevo primer ministro británico, Andy Burgham, de suprimir el IVA de la luz para los hogares. Así lo ha d.
+
+Date: 2026-07-22
 
 ### CaixaBank desembarca en energía en Reino Unido con 3.500 millones financiados en un año
 
@@ -62,13 +68,6 @@ El exalcalde de Mánchester, Andy Burnham, de 56 años, fue proclamado este vier
 
 Date: 2026-07-17
 
-### Gibraltar avisa de que los taxis españoles seguirán sin prestar servicio en el Peñón
-
-Gibraltar ha avisado de que los taxis españoles seguirán sin prestar servicio en el Peñón, tras la desaparición de la Verja con el tratado entre la UE y el Reino Unido, y ha anunciado la presencia de inspectores de Transporte en la frontera para vigilar el cumplimiento de la normativa. Según ha informado el Gobierno de.
-
-Date: 2026-07-16
-
 ## Fuentes
 
-- [CaixaBank desembarca en energía en Reino Unido con 3.500 millones financiados en un año](https://amp.expansion.com/empresas/banca/2026/07/22/6a5df132e5fdeae5798b4587.html?utm_source=lootura.com) — 2026-07-22T00:03:26.000Z
-- [George cumple 13 años e inicia en Eton su camino hacia la Corona](https://www.larazon.es/gente/casa-real/george-cumple-13-anos-inicia-eton-camino-corona_202607226a605c73da3add27d4db3b56.html?utm_source=lootura.com) — 2026-07-22T06:00:19.000Z
+- [Galán pide rebajar la fiscalidad de la luz y eliminar el IVA para los hogares, en línea con Reino Unido](https://cincodias.elpais.com/companias/2026-07-22/iberdrola-dispara-su-beneficio-neto-un-22-hasta-los-4336-millones-en-el-primer-semestre.html?utm_source=lootura.com) — 2026-07-22T06:53:58.000Z

@@ -3,16 +3,28 @@
 > Sigue la actividad de Julio Iglesias en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-22T02:26:20.882Z
+- Actualizado: 2026-07-22T10:23:10.282Z
 - Canonical: https://atlas.lootura.com/es/person/julio-iglesias
 
 ## Cambios recientes
+
+### La demanda de Julio Iglesias contra Yolanda Díaz relata hechos falsos para acusar a la vicepresidenta
+
+El abogado del cantante pide 50.000 euros de indemnización por "daños morales" a su cliente Julio Iglesias se querella contra elDiario.es, contra su director y contra cuatro de sus periodistas La demanda de protección civil del derecho al honor que ha interpuesto Julio Iglesias contra la vicepresidenta segunda y minist.
+
+Date: 2026-07-22
 
 ### Julio Iglesias defiende su honor contra Yolanda Díaz: los límites del poder político
 
 Durante toda su vida Julio Iglesias ha sorteado rumores, exclusivas y titulares de toda condición sin hacer de los tribunales su escenario. Esta vez, sin embargo, ha decidido sentar frente a un juez a una vicepresidenta del Gobierno. El cantante ha presentado una demanda civil ante el Tribunal Supremo contra Yolanda Dí.
 
 Date: 2026-07-22
+
+### Discovered by Atlas
+
+Julio Iglesias first entered the public knowledge record with source-backed evidence.
+
+Date: 2026-07-21
 
 ### Julio Iglesias se querella contra elDiario.es, contra su director y contra cuatro de sus periodistas
 
@@ -26,12 +38,6 @@ La querella presentada por el abogado del cantante denuncia conductas de los per
 
 Date: 2026-07-21
 
-### Discovered by Atlas
-
-Julio Iglesias first entered the public knowledge record with source-backed evidence.
-
-Date: 2026-07-21
-
 ## Fuentes
 
-No public source links.
+- [La demanda de Julio Iglesias contra Yolanda Díaz relata hechos falsos para acusar a la vicepresidenta](https://www.eldiario.es/politica/demanda-julio-iglesias-yolanda-diaz-relata-hechos-falsos-acusar-vicepresidenta_1_13397937.html?utm_source=lootura.com) — 2026-07-22T10:13:17.000Z

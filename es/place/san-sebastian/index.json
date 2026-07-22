@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/san-sebastian/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/san-sebastian/index.json",
   "description": "Sigue la actividad de San Sebastián en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-22T06:25:50.604Z",
+  "updatedAt": "2026-07-22T10:23:10.282Z",
   "aliases": [
     "Donostia",
     "Donostia / San Sebastian",
@@ -20,6 +20,11 @@
     "San Sebastián-Donostia"
   ],
   "changes": [
+    {
+      "title": "Profanan una tumba del Cementerio de los Ingleses de San Sebastián: «Ha aparecido con la lápida rota y abierta»",
+      "summary": "Se trata de la tumba donde reposan los restos de Sara y Matilde, fallecidas a mediados de la década de 1830 y sepultadas en la ladera del monte Urgull.",
+      "date": "2026-07-22"
+    },
     {
       "title": "Los sindicatos de los técnicos de espectáculos convocan una huelga para el día del concierto de ETS en Aste Nagusia",
       "summary": "El conflicto también afectará a las fiestas de Vitoria, el 5 de agosto, y a las de San Sebastián, el 14.",
@@ -64,11 +69,6 @@
       "title": "La rebelión fracasa en Donostia pero la ciudad cae bajo un clima prebélico",
       "summary": "Los sublevados contra la República se atrincheraron los primeros días en San Sebastián, que cayó el 13 de septiembre tras dos meses de lucha y bombardeos en los que la ciudad vivió una cruenta espiral de muerte.",
       "date": "2026-07-18"
-    },
-    {
-      "title": "Cinco jóvenes investigados por insultar y agredir a un hombre con la camiseta de España en el paseo de La Concha de San Sebastián",
-      "summary": "La víctima ha tenido que ser atendida en el cuarto de socorro, tras lo cual ha interpuesto una denuncia por lo ocurrido.",
-      "date": "2026-07-17"
     }
   ],
   "sources": [
@@ -77,7 +77,13 @@
       "url": "https://www.elcorreo.com/culturas/musica/sindicatos-tecnicos-espectaculos-convocan-huelga-agosto-plena-20260721123831-nt_amp.html?utm_source=lootura.com",
       "publishedAt": "2026-07-21T10:38:31.000Z",
       "sourceId": "lootura-es-el-correo"
+    },
+    {
+      "title": "Profanan una tumba del Cementerio de los Ingleses de San Sebastián: «Ha aparecido con la lápida rota y abierta»",
+      "url": "https://www.diariovasco.com/san-sebastian/profanan-tumba-cementerio-ingleses-monte-urgull-20260722115557-nt_amp.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-22T09:57:08.000Z",
+      "sourceId": "lootura-es-el-diario-vasco"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 2
 }

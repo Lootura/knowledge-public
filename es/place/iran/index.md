@@ -3,7 +3,7 @@
 > Sigue la actividad de Irán en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-22T06:25:50.604Z
+- Actualizado: 2026-07-22T10:23:10.282Z
 - Canonical: https://atlas.lootura.com/es/place/iran
 
 ## Cambios recientes
@@ -11,6 +11,12 @@
 ### EEUU lanza nuevos ataques contra Irán que eclipsan los esfuerzos diplomáticos
 
 Leer.
+
+Date: 2026-07-22
+
+### El Ibex sube a los 19.500 puntos pese al alza del petróleo y ante los resultados de las grandes tecnológicas
+
+El pesimismo en torno a las negociaciones de paz entre EE UU e Irán, después de que el el gobierno estadounidense restara importancia a la posibilidad de conversaciones inmediatas con Teherán, y la creciente amenaza a los suministros energéticos de Oriente Próximo derivada de un bloqueo naval dirigido contra Arabia Sau.
 
 Date: 2026-07-22
 
@@ -62,13 +68,7 @@ El Ibex 35 cotizaba en la media sesión con una subida del 0,28% , hasta situars
 
 Date: 2026-07-20
 
-### El petróleo pierde un 4% desde máximos por la expectativa de un acuerdo entre Irán y EEUU
-
-El precio del barril de crudo de calidad Brent , que había llegado este lunes, 20 de julio, a superar el umbral de los 91 dólares , se ha dado la vuelta y cedía alrededor de un 4% desde los máximos del día. Todo esto ha pasado después de que Irán haya asegurado que los contactos diplomáticos con Estados Unidos continúa.
-
-Date: 2026-07-20
-
 ## Fuentes
 
-- [Cautela en las Bolsas ante los resultados de las grandes tecnológicas y con el petróleo al alza](https://cincodias.elpais.com/mercados-financieros/2026-07-22/la-bolsa-y-el-ibex-35.html?utm_source=lootura.com) — 2026-07-22T04:29:14.000Z
+- [El Ibex sube a los 19.500 puntos pese al alza del petróleo y ante los resultados de las grandes tecnológicas](https://cincodias.elpais.com/mercados-financieros/2026-07-22/la-bolsa-y-el-ibex-35.html?utm_source=lootura.com) — 2026-07-22T09:49:12.000Z
 - [EEUU lanza nuevos ataques contra Irán que eclipsan los esfuerzos diplomáticos](https://www.elmundo.es/internacional/2026/07/22/6a601510fdddff835a8b456d.html?utm_source=lootura.com) — 2026-07-22T00:59:32.000Z

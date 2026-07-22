@@ -3,10 +3,16 @@
 > Sigue la actividad de Volodímir Zelenski en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-22T06:25:50.604Z
+- Actualizado: 2026-07-22T10:23:10.282Z
 - Canonical: https://atlas.lootura.com/es/person/volodimir-zelenski
 
 ## Cambios recientes
+
+### Zelenski destituye al jefe del Ejército ucraniano tras las protestas por el cese del ministro de Defensa
+
+El presidente ucraniano, Volodímir Zelenski, ha destituido a Oleksandr Sirski, comandante en jefe del Ejército de Ucrania. Su cargo lo ocupará el popular comandante de las fuerzas conjuntas, Mijaílo Drapati, en medio del descontento tras la salida del ministro de Defensa .«He decidido que el nuevo comandante en jefe de.
+
+Date: 2026-07-22
 
 ### Zelenski releva al jefe del ejército en Ucrania tras seis días de protestas
 
@@ -40,4 +46,4 @@ Date: 2026-07-16
 
 ## Fuentes
 
-- [Zelenski releva al jefe del ejército en Ucrania tras seis días de protestas](https://elpais.com/internacional/2026-07-21/zelenski-releva-al-jefe-del-ejercito-en-ucrania-tras-seis-dias-de-protestas.html?utm_source=lootura.com) — 2026-07-21T20:31:17.000Z
+- [Zelenski destituye al jefe del Ejército ucraniano tras las protestas por el cese del ministro de Defensa](https://www.abc.es/internacional/zelenski-reemplaza-jefe-fuerzas-armadas-ucrania-20260722081645-nt.html?utm_source=lootura.com) — 2026-07-22T09:30:40.000Z

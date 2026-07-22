@@ -8,13 +8,23 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/julio-martinez/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/julio-martinez/index.json",
   "description": "Sigue la actividad de Julio Martínez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-22T06:25:50.604Z",
+  "updatedAt": "2026-07-22T10:23:10.282Z",
   "aliases": [
     "Julio Mart",
     "Julio Martínez Martínez",
     "Julito Martínez"
   ],
   "changes": [
+    {
+      "title": "La nueva dimensión del ‘caso Zapatero’ no mueve al Gobierno mientras el expresidente mantiene su silencio",
+      "summary": "El caso Zapatero ha entrado en una nueva dimensión. Y cada vez peor para él mismo, para el PSOE y para el Gobierno. Su hasta ahora amigo Julio Martínez Martínez, a quien el juez ha presentado como un “correveidile” del expresidente, ha dado el paso que tanto se temía desde hace semanas en las filas socialistas: ha desm.",
+      "date": "2026-07-22"
+    },
+    {
+      "title": "La causa contra Zapatero sitúa ahora el foco en la cúpula de Plus Ultra tras contradecir la versión del expresidente",
+      "summary": "Julio Martínez Martínez entró sobre las 8.45 de este martes en la Audiencia Nacional y salió más de cuatro horas después sin moverse mucho de la línea marcada un día antes en el escrito enviado al juez José Luis Calama para implicar al expresidente José Luis Rodríguez Zapatero en el rescate de Plus Ultra . El giro del.",
+      "date": "2026-07-22"
+    },
     {
       "title": "Julio Martínez complica el futuro judicial de Zapatero aunque no despeja la X que pondría en serios aprietos a Moncloa",
       "summary": "La declaración de Julio Martínez Martínez y los escritos que tanto él como dos altos cargos de Plus Ultra han remitido esta semana a la Audiencia Nacional han complicado seriamente el futuro judicial de José Luis Rodríguez Zapatero . Los tres investigados corroboran ahora los informes de la UDEF y señalan que el expres.",
@@ -28,11 +38,6 @@
     {
       "title": "El testaferro confirma que Zapatero usó una empresa pantalla para recibir los pagos de hasta tres clientes venezolanos",
       "summary": "La declaración prestada por Julito Martìnez Martínez en la Audiencia Nacional, decidido a colaborar con la Justicia, ha dinamitado la estrategia de...",
-      "date": "2026-07-22"
-    },
-    {
-      "title": "La nueva dimensión del ‘caso Zapatero’ no mueve al Gobierno mientras el expresidente mantiene su silencio",
-      "summary": "El caso Zapatero ha entrado en una nueva dimensión. Y cada vez peor para él mismo, para el PSOE y para el Gobierno. Su hasta ahora amigo Julio Martínez Martínez, a quien el juez ha presentado como un “correveidile” del expresidente, ha dado el paso que tanto se temía desde hace semanas en las filas socialistas: ha desm.",
       "date": "2026-07-22"
     },
     {
@@ -59,32 +64,9 @@
       "title": "Feijóo se adelanta a Sánchez en el balance del curso para aprovechar el misil lanzado por Julio Martínez",
       "summary": "El líder del PP, Alberto Núñez Feijóo, ha decidido no esperar a la comparecencia ante la prensa de Pedro Sánchez el próximo martes 28 y se adelanta a este miércoles para valorar el curso político que toca a su fin. Lo hará después del misil lanzado por el empresario 'Julito' Martínez ante el juez de la Audiencia Nacion.",
       "date": "2026-07-21"
-    },
-    {
-      "title": "El pagador de Zapatero declara ante el juez que el ex presidente le anticipó que el Gobierno iba a aprobar el rescate de Plus Ultra",
-      "summary": "El empresario alicantino Julio Martínez Martínez ha declarado este martes en la Audiencia Nacional que fue el ex presidente del Gobierno José Luis Rodríguez Zapatero quien le...",
-      "date": "2026-07-21"
     }
   ],
   "sources": [
-    {
-      "title": "Julio Martínez complica el futuro judicial de Zapatero aunque no despeja la X que pondría en serios aprietos a Moncloa",
-      "url": "https://www.20minutos.es/nacional/julio-martinez-complica-futuro-judicial-zapatero-pero-no-despeja-x-que-pondria-serios-aprietos-moncloa_7017247_0.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-22T03:00:00.000Z",
-      "sourceId": "lootura-es-20minutos"
-    },
-    {
-      "title": "La causa contra Zapatero sitúa ahora el foco en la cúpula de Plus Ultra tras contradecir la versión del expresidente",
-      "url": "https://elpais.com/espana/2026-07-22/la-causa-contra-zapatero-situa-ahora-el-foco-en-la-cupula-de-plus-ultra-tras-contradecir-la-version-del-expresidente.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-22T03:30:01.000Z",
-      "sourceId": "lootura-es-cinco-dias"
-    },
-    {
-      "title": "El testaferro confirma que Zapatero usó una empresa pantalla para recibir los pagos de hasta tres clientes venezolanos",
-      "url": "https://www.eldebate.com/espana/20260722/testaferro-confirma-zapatero-empresa-pantalla-recibir-pagos-hasta-tres-clientes-venezolanos_442196.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-22T02:46:57.000Z",
-      "sourceId": "lootura-es-el-debate"
-    },
     {
       "title": "El juez abrirá una investigación exhaustiva a las hijas de Zapatero",
       "url": "https://amp.elmundo.es/espana/2026/07/21/6a5fccb5e4d4d8d9598b4582.html?utm_source=lootura.com",
@@ -98,11 +80,17 @@
       "sourceId": "lootura-es-el-mundo"
     },
     {
+      "title": "La causa contra Zapatero sitúa ahora el foco en la cúpula de Plus Ultra tras contradecir la versión del expresidente",
+      "url": "https://elpais.com/espana/2026-07-22/la-causa-contra-zapatero-situa-ahora-el-foco-en-la-cupula-de-plus-ultra-tras-contradecir-la-version-del-expresidente.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-22T03:30:01.000Z",
+      "sourceId": "lootura-es-el-pais"
+    },
+    {
       "title": "La nueva dimensión del ‘caso Zapatero’ no mueve al Gobierno mientras el expresidente mantiene su silencio",
       "url": "https://elpais.com/espana/2026-07-22/la-nueva-dimension-del-caso-zapatero-no-mueve-al-gobierno-mientras-el-expresidente-mantiene-su-silencio.html?utm_source=lootura.com",
       "publishedAt": "2026-07-22T03:30:01.000Z",
       "sourceId": "lootura-es-el-pais"
     }
   ],
-  "evidenceCount": 6
+  "evidenceCount": 4
 }

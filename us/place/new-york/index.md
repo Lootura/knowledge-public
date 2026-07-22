@@ -3,20 +3,26 @@
 > Follow New York City, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-22T06:26:12.535Z
+- Updated: 2026-07-22T10:23:35.990Z
 - Canonical: https://atlas.lootura.com/us/place/new-york
 
 ## Recent changes
 
-### Mamdani says he won't try to arrest Israel's Netanyahu, acknowledges NYC doesn't have legal authority
-
-New York City Mayor Zohran Mamdani conceded late Tuesday that the city does not have the authority to arrest Israeli Prime Minister Benjamin Netanyahu.
-
-Date: 2026-07-22
-
 ### Mamdani says New York City can't arrest Netanyahu but the federal government should
 
 New York Mayor Mamdani said the city would not be able to execute an arrest warrant issued by the top war-crimes court for Israel's Benjamin Netanyahu, but urged the federal government to do so. (Image credit: Anna Connors/Anna Connors).
+
+Date: 2026-07-22
+
+### New York Mayor Mamdani Admits He Can’t Arrest ‘War Criminal’ Netanyahu
+
+New York City Mayor Zohran Mamdani speaks in a video posted on X on July 21, 2026. —Screenshot from Mayor Zohran Kwame Mamdani's X account (@NYCMayor) Since campaigning for New York City mayor, Zohran Mamdani has pledged to arrest Israel’s Prime Minister Benjamin Netanyahu for his alleged war crimes if he ever shows up.
+
+Date: 2026-07-22
+
+### Mamdani says he won't try to arrest Israel's Netanyahu, acknowledges NYC doesn't have legal authority
+
+New York City Mayor Zohran Mamdani conceded late Tuesday that the city does not have the authority to arrest Israeli Prime Minister Benjamin Netanyahu.
 
 Date: 2026-07-22
 
@@ -62,14 +68,7 @@ Missed the second half of the show? New York Gov. Kathy Hochul, White House bord
 
 Date: 2026-07-19
 
-### Second death reported in Legionnaires' disease outbreak in New York City
-
-The outbreak on Manhattan's Upper East Side has infected 72 people, according to health officials.
-
-Date: 2026-07-19
-
 ## Sources
 
-- [Mamdani says he won't try to arrest Israel's Netanyahu, acknowledges NYC doesn't have legal authority](https://www.cbsnews.com/news/mamdani-will-not-arrest-israel-netanyahu-nyc-legal-authority-nypd-un/?utm_source=lootura.com) — 2026-07-22T04:05:55.000Z
 - [Mamdani says New York City can't arrest Netanyahu but the federal government should](https://www.npr.org/2026/07/22/g-s1-134880/mamdani-nyc-netanyahu?utm_source=lootura.com) — 2026-07-22T06:04:29.000Z
-- [Mamdani Calls Netanyahu a ‘War Criminal’ and Calls on U.S. to Arrest Him](https://www.nytimes.com/2026/07/21/nyregion/mamdani-netanyahu-arrest-warrant.html?utm_source=lootura.com) — 2026-07-22T03:49:08.000Z
+- [New York Mayor Mamdani Admits He Can’t Arrest ‘War Criminal’ Netanyahu](https://time.com/article/2026/07/22/zohran-mamdani-new-york-arrest-benjamin-netanyahu-icc-war-crimes/?utm_source=lootura.com) — 2026-07-22T07:15:03.000Z

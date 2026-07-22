@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/fifa/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/fifa/index.json",
   "description": "Sigue la actividad de Federación Internacional de Fútbol Asociación en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-22T02:26:20.882Z",
+  "updatedAt": "2026-07-22T10:23:10.282Z",
   "aliases": [
     "Federacion Internacional de Futbol Asociacion",
     "Federacion Internacional de Futbol Asociados",
@@ -45,6 +45,13 @@
       "date": "2026-07-08"
     }
   ],
-  "sources": [],
+  "sources": [
+    {
+      "title": "La FIFA ridiculiza al arbitraje español e internacionaliza su descrédito",
+      "url": "https://okdiario.com/deportes/fifa-ridiculiza-arbitraje-espanol-internacionaliza-descredito-18989073?utm_source=lootura.com",
+      "publishedAt": "2026-07-22T10:00:41.000Z",
+      "sourceId": "lootura-es-ok-diario"
+    }
+  ],
   "evidenceCount": 0
 }

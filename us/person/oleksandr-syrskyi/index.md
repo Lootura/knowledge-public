@@ -28,4 +28,4 @@ Date: 2026-07-21
 
 ## Sources
 
-- [Ukraine’s Zelenskyy fires his commander in chief after protests and major rift](https://www.nbcnews.com/world/ukraine/ukraines-zelenskyy-fires-commander-chief-protests-major-rift-rcna588159?utm_source=lootura.com) — 2026-07-21T19:51:22.000Z
+No public source links.

@@ -3,7 +3,7 @@
 > Follow Donald Trump, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-07-22T06:26:12.535Z
+- Updated: 2026-07-22T10:23:35.990Z
 - Canonical: https://atlas.lootura.com/us/person/donald-trump
 
 ## Recent changes
@@ -26,12 +26,6 @@ Trump-endorsed Rep. Andy Biggs will take on Democratic Arizona Gov. Katie Hobbs 
 
 Date: 2026-07-22
 
-### Trump-backed Rep. Andy Biggs wins GOP primary for Arizona governor
-
-NBC News projects that Biggs defeated fellow Rep. David Schweikert to move on to the general election against Democratic Gov. Katie Hobbs.
-
-Date: 2026-07-22
-
 ### Trump-backed Jay Feely wins GOP primary in Arizona’s battleground 1st District
 
 Former Arizona Cardinals kicker Jay Feely cruised to victory in Arizona’s 1st District on Tuesday, one of the nation’s most competitive battlegrounds. Feely, a close ally of President Donald Trump, leveraged Trump’s endorsement to topple former state Rep. Joseph Chaplik. He’ll face a steep challenge defeating the Democ.
@@ -50,33 +44,39 @@ Republicans nominated a former N.F.L. kicker in a top House battleground, a Trum
 
 Date: 2026-07-22
 
-### Canada cancels joint bridge-opening celebration with US amid trade tensions
+### Funding milestone detected
 
-The ribbon-cutting celebration of the Gordie Howe International Bridge is no longer taking place after Trump announced a 50% tariff on Canadian goods A planned joint US-Canada ceremony Friday celebrating the opening of the Gordie Howe International Bridge connecting Detroit and Windsor, Ontario, is no longer expected t.
+Funding cuts and program changes required by President Trump's big budget law are forcing states to rethink bipartisan efforts to bring Medicaid into jails and prisons. (Image credit: Ramon Dompor for Tradeoffs).
 
 Date: 2026-07-22
 
-### The U.S. Is Pulling Back on Energy Efficiency
+### Trump-backed candidates, 2020 election deniers, win Arizona primaries
 
-The Trump administration is undoing fuel-saving efforts even as war in Iran, data centers and heat waves are pushing up gasoline and electricity costs.
+The primaries set the field for what are expected to be heated contests for Congress and governor in a swing state this fall. (Image credit: Ross D. Franklin).
 
-Date: 2026-07-21
+Date: 2026-07-22
 
-### Ex-U.S. attorney in Seattle sues Trump over firing
+### Trump has campaigned more so far in 2026 midterms than he did at this point in 2018
 
-Roger Rogoff was fired from his role as U.S. attorney in Seattle shortly after judges on the U.S. District Court for the Western District of Washington appointed him to the job.
+Heading to Georgia on Wednesday, President Trump is campaigning more often this year than he did in the same period for 2018 and has already rallied for a dozen candidates in toss-up races. (Image credit: Roberto Schmidt).
 
-Date: 2026-07-21
+Date: 2026-07-22
+
+### Laredo’s Future Rides on Trump’s Next Trade Move
+
+The economy of Laredo, Texas, has boomed under the president’s global tariffs. Now, his demands may threaten its success.
+
+Date: 2026-07-22
 
 ## Sources
 
-- [Ex-U.S. attorney in Seattle sues Trump over firing](https://www.cbsnews.com/news/roger-rogoff-us-attorney-seattle-trump-firing-lawsuit/?utm_source=lootura.com) — 2026-07-21T20:40:17.000Z
 - [Trump ally Andy Biggs wins GOP nomination for Arizona governor, AP projects](https://www.cbsnews.com/news/arizona-governors-race-results-katie-hobbs-andy-biggs-david-schweikert/?utm_source=lootura.com) — 2026-07-22T03:06:24.000Z
-- [Markets undeterred so far as Trump imposes additional 50% tariffs on some Canadian goods](https://www.cbsnews.com/video/markets-undeterred-as-trump-imposes-additional-50-tariffs-on-some-canadian-goods/?utm_source=lootura.com) — 2026-07-21T19:04:45.000Z
-- [Trump to impose 50% tariffs on Canadian hockey sticks, alcohol, other goods](https://www.cbsnews.com/news/trump-canada-tariffs-hockey-milk-alcohol/?utm_source=lootura.com) — 2026-07-21T19:26:00.000Z
 - [What to know about Pickaxe Mountain, an Iranian target noted by Trump](https://www.cbsnews.com/video/what-to-know-about-pickaxe-mountain-an-iranian-target-noted-by-trump/?utm_source=lootura.com) — 2026-07-22T01:56:08.000Z
-- [Trump says Lebanon has been "badly treated" as Aoun pushes for withdrawal of Israeli troops](https://www.cbsnews.com/video/trump-says-lebanon-has-been-badly-treated/?utm_source=lootura.com) — 2026-07-21T19:07:19.000Z
-- [Trump-backed Rep. Andy Biggs wins GOP primary for Arizona governor](https://www.nbcnews.com/politics/2026-election/trump-backed-rep-andy-biggs-wins-gop-primary-arizona-governor-rcna587980?utm_source=lootura.com) — 2026-07-22T03:03:23.000Z
 - [Trump hits Canada with slew of new 50% tariffs set to take effect in 30 days](https://www.npr.org/2026/07/21/nx-s1-5901957/trump-hits-canada-with-slew-of-new-50-tariffs-set-to-take-effect-in-30-days?utm_source=lootura.com) — 2026-07-21T20:09:34.000Z
-- [WATCH: Trump says U.S. would have to 'take care' of potential Houthi blockade of Red Sea](https://www.pbs.org/newshour/politics/watch-trump-says-u-s-would-have-to-take-care-of-potential-houthi-blockade-of-red-sea?utm_source=lootura.com) — 2026-07-21T20:25:18.000Z
+- [States want to bring Medicaid behind bars. Federal changes make that harder](https://www.npr.org/2026/07/22/nx-s1-5896456/medicaid-cuts-incarceration-states-obbba?utm_source=lootura.com) — 2026-07-22T09:00:00.000Z
+- [Trump-backed candidates, 2020 election deniers, win Arizona primaries](https://www.npr.org/2026/07/22/nx-s1-5902198/arizona-primary-results-trump-elections-biggs?utm_source=lootura.com) — 2026-07-22T08:33:21.000Z
+- [Trump has campaigned more so far in 2026 midterms than he did at this point in 2018](https://www.npr.org/2026/07/22/nx-s1-5887428/2026-midterm-election-trump-campaign-rally?utm_source=lootura.com) — 2026-07-22T09:00:00.000Z
 - [Southern Lebanese skeptical of Israel agreement as violence continues](https://www.pbs.org/newshour/show/southern-lebanese-skeptical-of-israel-agreement-as-violence-continues?utm_source=lootura.com) — 2026-07-21T22:50:07.000Z
+- [Hegseth says Iran war has cost $37.5B so far and Pentagon needs $67B to restock arms](https://www.pbs.org/newshour/show/hegseth-says-iran-war-has-cost-37-5b-so-far-and-pentagon-needs-67b-to-restock-arms?utm_source=lootura.com) — 2026-07-21T22:55:58.000Z
+- [Trump-backed Jay Feely wins GOP primary in Arizona’s battleground 1st District](https://www.politico.com/news/2026/07/21/feely-wins-arizona-house-primary-01007468?utm_source=lootura.com) — 2026-07-22T03:16:31.000Z
+- [The top of Arizona’s GOP ticket is littered with 2020 election deniers](https://www.politico.com/news/2026/07/22/arizona-republicans-elect-2020-deniers-trump-01007511?utm_source=lootura.com) — 2026-07-22T05:15:06.000Z

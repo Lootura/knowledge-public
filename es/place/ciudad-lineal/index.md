@@ -3,7 +3,7 @@
 > Sigue la actividad de Ciudad Lineal en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-18T20:42:47.844Z
+- Actualizado: 2026-07-22T10:23:10.282Z
 - Canonical: https://atlas.lootura.com/es/place/ciudad-lineal
 
 ## Cambios recientes
@@ -40,4 +40,4 @@ Date: 2026-07-18
 
 ## Fuentes
 
-No public source links.
+- [Ciudad Lineal se reinventa: condesa de Venadito ganará espacio peatonal y zonas verdes](https://www.larazon.es/madrid/ciudad-lineal-reinventa-condesa-venadito-ganara-espacio-peatonal-zonas-verdes_202607226a60966aaa17c0020f29683e.html?utm_source=lootura.com) — 2026-07-22T10:07:38.000Z

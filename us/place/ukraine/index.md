@@ -3,16 +3,16 @@
 > Follow Ukraine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-22T06:26:12.535Z
+- Updated: 2026-07-22T10:23:35.990Z
 - Canonical: https://atlas.lootura.com/us/place/ukraine
 
 ## Recent changes
 
-### Ukraine’s Zelenskyy fires his commander in chief after protests and major rift
+### Ukraine's Zelenskyy fires top military commander amid ongoing protests
 
-The firing caps a major crisis for Volodymyr Zelenskyy after Ukrainians took to the streets to call for Oleksandr Syrskyi’s resignation.
+Ukraine's President Volodymyr Zelenskyy fires the country's army chief, just days after he dismissed the defense minister. Those two key figures had been feuding with each other.
 
-Date: 2026-07-21
+Date: 2026-07-22
 
 ### News Wrap: Gulf Coast prepares for Tropical Storm Bertha
 
@@ -23,6 +23,12 @@ Date: 2026-07-21
 ### Mykhailo Drapatyi: What to Know About Ukraine’s New Top General
 
 Maj. Gen. Mykhailo Drapatyi, a decorated commander, is popular both inside and outside of his country.
+
+Date: 2026-07-21
+
+### Ukraine’s Zelenskyy fires his commander in chief after protests and major rift
+
+The firing caps a major crisis for Volodymyr Zelenskyy after Ukrainians took to the streets to call for Oleksandr Syrskyi’s resignation.
 
 Date: 2026-07-21
 
@@ -62,14 +68,8 @@ Demonstrators and many soldiers want President Volodymyr Zelensky to reaffirm th
 
 Date: 2026-07-20
 
-### Russian attacks on Ukrainian cities kill 6 and expose defense gaps
-
-One person was killed and 16 others wounded in the overnight Russian attack on Kyiv, local authorities said.
-
-Date: 2026-07-19
-
 ## Sources
 
-- [Ukraine’s Zelenskyy fires his commander in chief after protests and major rift](https://www.nbcnews.com/world/ukraine/ukraines-zelenskyy-fires-commander-chief-protests-major-rift-rcna588159?utm_source=lootura.com) — 2026-07-21T19:51:22.000Z
+- [Ukraine's Zelenskyy fires top military commander amid ongoing protests](https://www.npr.org/2026/07/22/nx-s1-5902279/ukraines-zelenskyy-fires-top-military-commander-amid-ongoing-protests?utm_source=lootura.com) — 2026-07-22T08:46:42.000Z
 - [News Wrap: Gulf Coast prepares for Tropical Storm Bertha](https://www.pbs.org/newshour/show/news-wrap-gulf-coast-prepares-for-tropical-storm-bertha?utm_source=lootura.com) — 2026-07-21T22:45:25.000Z
 - [Mykhailo Drapatyi: What to Know About Ukraine’s New Top General](https://www.nytimes.com/2026/07/21/world/europe/ukraine-mykhailo-drapatyi.html?utm_source=lootura.com) — 2026-07-21T23:39:36.000Z

@@ -70,4 +70,4 @@ Date: 2026-07-13
 
 ## Sources
 
-- [French lawmakers approve a sweeping social media ban for children under 15](https://www.npr.org/2026/07/22/g-s1-134875/france-social-media-ban?utm_source=lootura.com) — 2026-07-22T05:46:50.000Z
+No public source links.

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/audiencia-nacional/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/audiencia-nacional/index.json",
   "description": "Sigue la actividad de Audiencia Nacional (España) en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-22T06:25:50.604Z",
+  "updatedAt": "2026-07-22T10:23:10.282Z",
   "aliases": [
     "Audiencia Nacional (Espana)",
     "Audiencia Nacional (España)",
@@ -21,6 +21,11 @@
     "La Audiencia Nacional"
   ],
   "changes": [
+    {
+      "title": "La causa contra Zapatero sitúa ahora el foco en la cúpula de Plus Ultra tras contradecir la versión del expresidente",
+      "summary": "Julio Martínez Martínez entró sobre las 8.45 de este martes en la Audiencia Nacional y salió más de cuatro horas después sin moverse mucho de la línea marcada un día antes en el escrito enviado al juez José Luis Calama para implicar al expresidente José Luis Rodríguez Zapatero en el rescate de Plus Ultra . El giro del.",
+      "date": "2026-07-22"
+    },
     {
       "title": "Julio Martínez complica el futuro judicial de Zapatero aunque no despeja la X que pondría en serios aprietos a Moncloa",
       "summary": "La declaración de Julio Martínez Martínez y los escritos que tanto él como dos altos cargos de Plus Ultra han remitido esta semana a la Audiencia Nacional han complicado seriamente el futuro judicial de José Luis Rodríguez Zapatero . Los tres investigados corroboran ahora los informes de la UDEF y señalan que el expres.",
@@ -65,32 +70,15 @@
       "title": "Las tres incongruencias de Zapatero, al descubierto tras la confesión de Julio Martínez y el presidente de Plus Ultra",
       "summary": "El escrito presentado por el investigado Julio Martínez a 24 horas de su esperada declaración ante el juez de la Audiencia Nacional José Luis Calama complica el horizonte judicial de José Luis Rodríguez Zapatero, con quien entra en evidente contradicción en aspectos vitales sobre su posible participación en el rescate.",
       "date": "2026-07-21"
-    },
-    {
-      "title": "Julio Martínez delata a Zapatero y dice que se llevó el 1% por mediar en Plus Ultra",
-      "summary": "Plus Ultra y Julio Martínez Martínez han enviado sendos escritos a la Audiencia Nacional donde muestran su deseo de colaborar con la justicia y confiesan que José Luis Rodríguez Zapatero medió en el rescate de la aerolínea, según explican fuentes judiciales a ABC. El pagador del expresidente también detalla que alcanza.",
-      "date": "2026-07-21"
     }
   ],
   "sources": [
     {
-      "title": "Julio Martínez complica el futuro judicial de Zapatero aunque no despeja la X que pondría en serios aprietos a Moncloa",
-      "url": "https://www.20minutos.es/nacional/julio-martinez-complica-futuro-judicial-zapatero-pero-no-despeja-x-que-pondria-serios-aprietos-moncloa_7017247_0.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-22T03:00:00.000Z",
-      "sourceId": "lootura-es-20minutos"
-    },
-    {
       "title": "La causa contra Zapatero sitúa ahora el foco en la cúpula de Plus Ultra tras contradecir la versión del expresidente",
       "url": "https://elpais.com/espana/2026-07-22/la-causa-contra-zapatero-situa-ahora-el-foco-en-la-cupula-de-plus-ultra-tras-contradecir-la-version-del-expresidente.html?utm_source=lootura.com",
       "publishedAt": "2026-07-22T03:30:01.000Z",
-      "sourceId": "lootura-es-cinco-dias"
-    },
-    {
-      "title": "El testaferro confirma que Zapatero usó una empresa pantalla para recibir los pagos de hasta tres clientes venezolanos",
-      "url": "https://www.eldebate.com/espana/20260722/testaferro-confirma-zapatero-empresa-pantalla-recibir-pagos-hasta-tres-clientes-venezolanos_442196.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-22T02:46:57.000Z",
-      "sourceId": "lootura-es-el-debate"
+      "sourceId": "lootura-es-el-pais"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 1
 }

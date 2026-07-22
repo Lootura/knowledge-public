@@ -52,4 +52,4 @@ Date: 2026-07-18
 
 ## Fuentes
 
-- [El incendio de Guadalajara se acerca a las 32.000 hectáreas afectadas](https://elpais.com/espana/2026-07-21/el-incendio-de-guadalajara-roza-las-30000-hectareas-quemadas-y-ya-hay-34-municipios-desalojados.html?utm_source=lootura.com) — 2026-07-21T16:45:55.000Z
+No public source links.

@@ -3,10 +3,16 @@
 > Sigue la actividad de "El Tiburón" en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-22T06:25:50.604Z
+- Actualizado: 2026-07-22T10:23:10.282Z
 - Canonical: https://atlas.lootura.com/es/person/ferran-torres
 
 ## Cambios recientes
+
+### Destrozan el mural de Ferran Torres en Barcelona un día después de pintarlo
+
+Un grupo de vándalos ha destrozado el mural que un conocido artista callejero había dedicado al futbolísta de la selección española Ferran Torres , apenas un día después de que lo realizase. El artista TVBoy pintó la imagen del jugador besando la copa del mundo en la plaza Joanic de Barcelona y este pasado martes por l.
+
+Date: 2026-07-22
 
 ### Ferran Torres, como símbolo del secreto de Luis de la Fuente
 
@@ -52,4 +58,5 @@ Date: 2026-07-19
 
 ## Fuentes
 
-- [El camino visual de España en un Mundial para la historia](https://www.abc.es/deportes/futbol/mundial/camino-visual-espana-mundial-historia-20260722012352-nt.html?utm_source=lootura.com) — 2026-07-22T05:23:14.000Z
+- [Sale a la luz la conversación entre la princesa Leonor y Ferran Torres tras ganar el Mundial a Argentina: "¿No te ibas a cortar el pelo?"](https://www.20minutos.es/deportes/futbol/sale-luz-conversacion-entre-princesa-leonor-ferran-torres-tras-ganar-mundial-no-te-ibas-cortar-pelo_7017472_0.html?utm_source=lootura.com) — 2026-07-22T06:41:11.000Z
+- [Destrozan el mural de Ferran Torres en Barcelona un día después de pintarlo](https://theobjective.com/deportes/futbol/mundial/2026-07-22/destrozan-mural-ferran-torres-barcelona/?utm_source=lootura.com) — 2026-07-22T08:56:24.000Z
