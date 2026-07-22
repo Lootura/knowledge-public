@@ -40,5 +40,4 @@ Date: 2026-07-20
 
 ## Sources
 
-- [Sen. Chris Murphy on the Iran war and Pete Hegseth's upcoming Senate testimony](https://www.npr.org/2026/07/21/nx-s1-5900980/sen-chris-murphy-on-the-iran-war-and-pete-hegseths-upcoming-senate-testimony?utm_source=lootura.com) — 2026-07-21T10:41:37.000Z
-- [Houthis in Yemen Edge Closer to Entering U.S.-Iran War](https://www.nytimes.com/2026/07/21/world/middleeast/houthis-yemen-iran-war.html?utm_source=lootura.com) — 2026-07-21T18:16:45.000Z
+No public source links.

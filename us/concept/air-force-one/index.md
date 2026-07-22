@@ -70,4 +70,4 @@ Date: 2026-07-20
 
 ## Sources
 
-- [New Air Force One going out of commission to get safety upgrades](https://www.npr.org/2026/07/21/nx-s1-5901113/new-air-force-one-going-out-of-commission-to-get-safety-upgrades?utm_source=lootura.com) — 2026-07-21T08:44:35.000Z
+No public source links.

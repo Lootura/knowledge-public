@@ -8,31 +8,36 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/new-york/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/new-york/index.json",
   "description": "Follow New York City, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-21T10:23:35.333Z",
+  "updatedAt": "2026-07-22T02:26:42.354Z",
   "aliases": [
-    "New York",
-    "the five boroughs",
-    "City of New York",
-    "NY City",
-    "New York City, New York",
-    "New York, NY",
-    "New York City, NY",
     "Capital of the World",
-    "New York City (NYC)",
-    "city of New York",
     "Center of the Universe",
-    "New York City, USA",
-    "New York City, United States of America",
-    "New York, New York, USA",
-    "New York (NY)",
-    "New York, N.Y.",
-    "NY, NY",
-    "New York City, United States",
+    "City of New York",
+    "Empire City",
     "N. Y., N. Y.",
+    "NY City",
+    "NY, NY",
+    "New York",
+    "New York (NY)",
+    "New York City (NYC)",
+    "New York City, NY",
+    "New York City, New York",
     "New York City, New York, United States",
-    "Empire City"
+    "New York City, USA",
+    "New York City, United States",
+    "New York City, United States of America",
+    "New York, N.Y.",
+    "New York, NY",
+    "New York, New York, USA",
+    "city of New York",
+    "the five boroughs"
   ],
   "changes": [
+    {
+      "title": "Mamdani Says Netanyahu Is a ‘War Criminal’ but New York Can’t Arrest Him",
+      "summary": "Mayor Zohran Mamdani, in a video address, challenged the U.S. government to execute an international arrest warrant against the Israeli prime minister.",
+      "date": "2026-07-22"
+    },
     {
       "title": "Explosion outside New York federal building in Manhattan apparently caused by fireworks, sources say",
       "summary": "NYPD sources said fireworks were found in a garbage can and a man was taken into custody outside the federal building in Lower Manhattan.",
@@ -77,13 +82,15 @@
       "title": "Knicks stars provide back up for WWE favorites in electric Saturday Night's Main Event at MSG",
       "summary": "WWE’s Saturday Night’s Main Event at Madison Square Garden featured a celebration of the New York Knicks and their championship run during the 2025-26 season. Knicks star Karl-Anthony Towns supported Danhausen in his no disqualification match against JD McDonagh. Towns provided some fierce backup for Danhausen and got.",
       "date": "2026-07-19"
-    },
-    {
-      "title": "Caitlin Clark smacked in the face by WNBA legend after getting foul that could trigger fine in big win",
-      "summary": "Caitlin Clark took a hit to the face, received a technical foul that could lead to a hefty fine, and still came away with a win and first place in the Eastern Conference on Saturday. Early in the first quarter of the Fever's 108-88 win over the New York Liberty , Clark was called for a technical foul after she ran full.",
-      "date": "2026-07-19"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Mamdani Says Netanyahu Is a ‘War Criminal’ but New York Can’t Arrest Him",
+      "url": "https://www.nytimes.com/2026/07/21/nyregion/mamdani-netanyahu-arrest-warrant.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-22T01:48:41.000Z",
+      "sourceId": "lootura-us-the-new-york-times"
+    }
+  ],
+  "evidenceCount": 1
 }

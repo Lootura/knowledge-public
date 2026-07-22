@@ -3,20 +3,20 @@
 > Sigue la actividad de Estados Unidos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-21T21:06:12.863Z
+- Actualizado: 2026-07-22T02:26:20.882Z
 - Canonical: https://atlas.lootura.com/es/place/united-states
 
 ## Cambios recientes
 
-### Iberostar y Barceló se suman a Meliá y dejan de operar en Cuba por las sanciones de EE UU
-
-Las tres cadenas españolas ponen fin a décadas de presencia en la isla ante las dificultades operativas y los riesgos asociados al embargo de Estados Unidos.
-
-Date: 2026-07-21
-
 ### Trump pide inmunidad judicial para Delcy Rodríguez mientras siga en el poder
 
 La Administración de Donald Trump ha pedido al Departamento de Justicia de Estados Unidos que garantice la inmunidad judicial de la presidenta interina de.
+
+Date: 2026-07-21
+
+### Iberostar y Barceló se suman a Meliá y dejan de operar en Cuba por las sanciones de EE UU
+
+Las tres cadenas españolas ponen fin a décadas de presencia en la isla ante las dificultades operativas y los riesgos asociados al embargo de Estados Unidos.
 
 Date: 2026-07-21
 
@@ -70,5 +70,4 @@ Date: 2026-07-20
 
 ## Fuentes
 
-- [Iberostar y Barceló se suman a Meliá y dejan de operar en Cuba por las sanciones de EE UU](https://www.larazon.es/economia/iberostar-barcelo-suman-melia-dejan-operar-cuba-sanciones_202607216a5fa8d7e3eb0b64aa4bf3f6.html?outputType=amp&utm_source=lootura.com) — 2026-07-21T17:13:59.000Z
 - [Trump pide inmunidad judicial para Delcy Rodríguez mientras siga en el poder](https://theobjective.com/internacional/2026-07-21/trump-inmunidad-delcy-rodriguez/?amp=&utm_source=lootura.com) — 2026-07-21T20:53:36.000Z

@@ -3,7 +3,7 @@
 > Sigue la actividad de Partido Socialista Obrero Español en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-21T21:06:12.863Z
+- Actualizado: 2026-07-22T02:26:20.882Z
 - Canonical: https://atlas.lootura.com/es/organization/psoe
 
 ## Cambios recientes
@@ -14,15 +14,21 @@ La incomodidad es cada vez más palmaria, pero el Gobierno mantiene su apoyo a J
 
 Date: 2026-07-21
 
-### Un juez abre juicio oral al número 2 de Diana Morant por un delito de calumnias contra el PP
-
-El titular de la Sección de Instrucción del Tribunal de Instancia de Valencia, Plaza Número 1, ha abierto juicio oral contra el secretario de Organización y número 2 de la ministra Diana Morant , en el PSPV-PSOE, Vicent Mascarell , por un presunto delito de calumnias contra el PP previsto y penado en los artículos 205.
-
-Date: 2026-07-21
-
 ### El PSOE recurre el archivo de la causa contra Miguel Ángel Rodríguez por revelación de datos
 
 El PSOE ha pedido a la Audiencia Provincial de Madrid que ordene reabrir la investigación por presunta revelación de secretos a Miguel Ángel Rodríguez,.
+
+Date: 2026-07-21
+
+### Depresión en el Gobierno por el jaque al ex presidente: "Esto es peor que lo de Leire"
+
+La confesión de 'Julito' y los directivos de Plus Ultra desmoraliza al PSOE y alerta al Gobierno: "Para los nuestros, esto es peor que lo de Leire" Leer.
+
+Date: 2026-07-21
+
+### Un juez abre juicio oral al número 2 de Diana Morant por un delito de calumnias contra el PP
+
+El titular de la Sección de Instrucción del Tribunal de Instancia de Valencia, Plaza Número 1, ha abierto juicio oral contra el secretario de Organización y número 2 de la ministra Diana Morant , en el PSPV-PSOE, Vicent Mascarell , por un presunto delito de calumnias contra el PP previsto y penado en los artículos 205.
 
 Date: 2026-07-21
 
@@ -62,14 +68,8 @@ La exministra de Industria Reyes Maroto volverá a encabezar la candidatura soci
 
 Date: 2026-07-19
 
-### Maroto se impone en las primarias del PSOE de Madrid a Enma López y se enfrentará a Almeida
-
-Reyes Maroto volverá a medirse a José Luis Martínez-Almeida en las urnas. La exministra será la rival del actual alcalde y dirigente del PP en las elecciones municipales del próximo año tras vencer este domingo en las primarias del PSOE de Madrid a Enma López . La portavoz adjunta de los socialistas en el Ayuntamiento.
-
-Date: 2026-07-19
-
 ## Fuentes
 
+- [Depresión en el Gobierno por el jaque al ex presidente: "Esto es peor que lo de Leire"](https://www.elmundo.es/espana/2026/07/21/6a5fb71821efa057338b45ad.html?utm_source=lootura.com) — 2026-07-21T20:46:34.000Z
 - [El Gobierno reitera su confianza en Zapatero pese al nerviosismo creciente en el PSOE](https://elpais.com/espana/2026-07-21/el-gobierno-reitera-su-confianza-en-zapatero-pese-al-nerviosismo-creciente-en-el-psoe.html?utm_source=lootura.com) — 2026-07-21T12:49:44.000Z
-- [Un juez abre juicio oral al número 2 de Diana Morant por un delito de calumnias contra el PP](https://okdiario.com/espana/juez-abre-juicio-oral-numero-2-diana-morant-delito-calumnias-contra-pp-19039288?utm_source=lootura.com) — 2026-07-21T19:05:17.000Z
 - [El PSOE recurre el archivo de la causa contra Miguel Ángel Rodríguez por revelación de datos](https://theobjective.com/espana/tribunales/2026-07-21/psoe-recurre-archivo-causa-miguel-angel-rodriguez/?amp=&utm_source=lootura.com) — 2026-07-21T16:57:11.000Z

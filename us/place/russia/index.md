@@ -3,7 +3,7 @@
 > Follow Russia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-21T21:06:38.270Z
+- Updated: 2026-07-22T02:26:42.354Z
 - Canonical: https://atlas.lootura.com/us/place/russia
 
 ## Recent changes
@@ -70,4 +70,4 @@ Date: 2026-07-18
 
 ## Sources
 
-- [Trump Pushes Chinese Election Threat, but Files Show Russia’s Heavy Hand](https://www.nytimes.com/2026/07/21/us/politics/trump-china-russia-election.html?utm_source=lootura.com) — 2026-07-21T18:27:44.000Z
+- [Trump Pushes Chinese Election Threat, but Files Show Russia’s Heavy Hand](https://www.nytimes.com/2026/07/21/us/politics/trump-china-russia-election.html?utm_source=lootura.com) — 2026-07-21T18:27:45.000Z

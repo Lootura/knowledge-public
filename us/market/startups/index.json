@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/market/startups/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/market/startups/index.json",
   "description": "Follow Startups, a tracked market, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-21T21:06:38.270Z",
+  "updatedAt": "2026-07-22T02:26:42.354Z",
   "aliases": [
     "startup funding"
   ],
@@ -36,10 +36,10 @@
   ],
   "sources": [
     {
-      "title": "Morning news brief",
-      "url": "https://www.npr.org/2026/07/21/nx-s1-5895979/morning-news-brief?utm_source=lootura.com",
-      "publishedAt": "2026-07-21T08:44:49.000Z",
-      "sourceId": "lootura-us-npr"
+      "title": "U.S. launches strikes on Iran for 11th consecutive night",
+      "url": "https://www.cbsnews.com/video/us-launches-strikes-iran-11th-consecutive-night/?utm_source=lootura.com",
+      "publishedAt": "2026-07-22T02:11:05.000Z",
+      "sourceId": "lootura-us-cbs-news"
     }
   ],
   "evidenceCount": 0

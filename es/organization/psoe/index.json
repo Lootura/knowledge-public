@@ -8,17 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/psoe/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/psoe/index.json",
   "description": "Sigue la actividad de Partido Socialista Obrero Español en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-21T21:06:12.863Z",
+  "updatedAt": "2026-07-22T02:26:20.882Z",
   "aliases": [
-    "Partido Socialista",
-    "PSOE",
-    "Partido Socialista Espanol",
-    "Partido Socialista de España",
-    "Partido Socialista de Espana",
-    "Partido Socialista Español",
     "Grupo Socialista",
-    "Spanish Workers' Socialist Party",
-    "Spanish Socialist Party"
+    "PSOE",
+    "Partido Socialista",
+    "Partido Socialista Espanol",
+    "Partido Socialista Español",
+    "Partido Socialista de Espana",
+    "Partido Socialista de España",
+    "Spanish Socialist Party",
+    "Spanish Workers' Socialist Party"
   ],
   "changes": [
     {
@@ -27,13 +27,18 @@
       "date": "2026-07-21"
     },
     {
-      "title": "Un juez abre juicio oral al número 2 de Diana Morant por un delito de calumnias contra el PP",
-      "summary": "El titular de la Sección de Instrucción del Tribunal de Instancia de Valencia, Plaza Número 1, ha abierto juicio oral contra el secretario de Organización y número 2 de la ministra Diana Morant , en el PSPV-PSOE, Vicent Mascarell , por un presunto delito de calumnias contra el PP previsto y penado en los artículos 205.",
+      "title": "El PSOE recurre el archivo de la causa contra Miguel Ángel Rodríguez por revelación de datos",
+      "summary": "El PSOE ha pedido a la Audiencia Provincial de Madrid que ordene reabrir la investigación por presunta revelación de secretos a Miguel Ángel Rodríguez,.",
       "date": "2026-07-21"
     },
     {
-      "title": "El PSOE recurre el archivo de la causa contra Miguel Ángel Rodríguez por revelación de datos",
-      "summary": "El PSOE ha pedido a la Audiencia Provincial de Madrid que ordene reabrir la investigación por presunta revelación de secretos a Miguel Ángel Rodríguez,.",
+      "title": "Depresión en el Gobierno por el jaque al ex presidente: \"Esto es peor que lo de Leire\"",
+      "summary": "La confesión de 'Julito' y los directivos de Plus Ultra desmoraliza al PSOE y alerta al Gobierno: \"Para los nuestros, esto es peor que lo de Leire\" Leer.",
+      "date": "2026-07-21"
+    },
+    {
+      "title": "Un juez abre juicio oral al número 2 de Diana Morant por un delito de calumnias contra el PP",
+      "summary": "El titular de la Sección de Instrucción del Tribunal de Instancia de Valencia, Plaza Número 1, ha abierto juicio oral contra el secretario de Organización y número 2 de la ministra Diana Morant , en el PSPV-PSOE, Vicent Mascarell , por un presunto delito de calumnias contra el PP previsto y penado en los artículos 205.",
       "date": "2026-07-21"
     },
     {
@@ -65,25 +70,20 @@
       "title": "Las bases del PSOE eligen continuismo: Reyes Maroto se impone a Enma López como candidata a la alcaldía de Madrid",
       "summary": "La exministra de Industria Reyes Maroto volverá a encabezar la candidatura socialista a la alcaldía de Madrid. Y consiguió la validación en las primarias celebradas este domingo: los militantes optaron por la continuidad y la eligieron a ella frente a la concejala Enma López , que se lanzó a la carrera sin el permiso p.",
       "date": "2026-07-19"
-    },
-    {
-      "title": "Maroto se impone en las primarias del PSOE de Madrid a Enma López y se enfrentará a Almeida",
-      "summary": "Reyes Maroto volverá a medirse a José Luis Martínez-Almeida en las urnas. La exministra será la rival del actual alcalde y dirigente del PP en las elecciones municipales del próximo año tras vencer este domingo en las primarias del PSOE de Madrid a Enma López . La portavoz adjunta de los socialistas en el Ayuntamiento.",
-      "date": "2026-07-19"
     }
   ],
   "sources": [
+    {
+      "title": "Depresión en el Gobierno por el jaque al ex presidente: \"Esto es peor que lo de Leire\"",
+      "url": "https://www.elmundo.es/espana/2026/07/21/6a5fb71821efa057338b45ad.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-21T20:46:34.000Z",
+      "sourceId": "lootura-es-el-mundo"
+    },
     {
       "title": "El Gobierno reitera su confianza en Zapatero pese al nerviosismo creciente en el PSOE",
       "url": "https://elpais.com/espana/2026-07-21/el-gobierno-reitera-su-confianza-en-zapatero-pese-al-nerviosismo-creciente-en-el-psoe.html?utm_source=lootura.com",
       "publishedAt": "2026-07-21T12:49:44.000Z",
       "sourceId": "lootura-es-el-pais"
-    },
-    {
-      "title": "Un juez abre juicio oral al número 2 de Diana Morant por un delito de calumnias contra el PP",
-      "url": "https://okdiario.com/espana/juez-abre-juicio-oral-numero-2-diana-morant-delito-calumnias-contra-pp-19039288?utm_source=lootura.com",
-      "publishedAt": "2026-07-21T19:05:17.000Z",
-      "sourceId": "lootura-es-ok-diario"
     },
     {
       "title": "El PSOE recurre el archivo de la causa contra Miguel Ángel Rodríguez por revelación de datos",

@@ -1,29 +1,29 @@
 {
   "id": "es-nueva-jersey",
-  "name": "Nueva Jersey (Estados Unidos)",
+  "name": "El Estado Jardín",
   "type": "place",
   "locale": "es",
   "canonicalPath": "/es/place/nueva-jersey",
   "canonicalUrl": "https://atlas.lootura.com/es/place/nueva-jersey",
   "markdownUrl": "https://atlas.lootura.com/es/place/nueva-jersey/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/nueva-jersey/index.json",
-  "description": "Sigue la actividad de Nueva Jersey (Estados Unidos) en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-21T10:23:08.875Z",
+  "description": "Sigue la actividad de El Estado Jardín en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
+  "updatedAt": "2026-07-22T02:26:20.882Z",
   "aliases": [
-    "Nueva Jersey (Estados Unidos)",
     "El Estado Jardín",
     "Estado de Nueva Jersey",
-    "NJ",
     "Garden State",
-    "Jersey",
-    "New Jersey, United States",
-    "State of New Jersey",
-    "N.J.",
-    "US-NJ",
-    "the State of New Jersey",
-    "the Garden State",
     "Iersey",
-    "New Iersey"
+    "N.J.",
+    "NJ",
+    "New Iersey",
+    "New Jersey, United States",
+    "Nueva Jersey (Estados Unidos)",
+    "State of New Jersey",
+    "US-NJ",
+    "the Garden State",
+    "the State of New Jersey",
+    "Jersey"
   ],
   "changes": [
     {
@@ -52,6 +52,13 @@
       "date": "2026-07-18"
     }
   ],
-  "sources": [],
+  "sources": [
+    {
+      "title": "Scaloni reconoce la derrota ante España con señorío: «Perdimos porque ellos fueron mejores»",
+      "url": "https://okdiario.com/deportes/scaloni-reconoce-derrota-espana-senorio-perdimos-porque-ellos-fueron-mejores-19043851?utm_source=lootura.com",
+      "publishedAt": "2026-07-21T22:04:39.000Z",
+      "sourceId": "lootura-es-ok-diario"
+    }
+  ],
   "evidenceCount": 0
 }

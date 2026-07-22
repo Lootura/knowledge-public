@@ -3,10 +3,16 @@
 > Sigue la actividad de Irán en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-21T21:06:12.863Z
+- Actualizado: 2026-07-22T02:26:20.882Z
 - Canonical: https://atlas.lootura.com/es/place/iran
 
 ## Cambios recientes
+
+### EEUU lanza nuevos ataques contra Irán que eclipsan los esfuerzos diplomáticos
+
+Leer.
+
+Date: 2026-07-22
 
 ### La banca se apoya en la subida del euríbor para apuntar a nuevos máximos de beneficios
 
@@ -62,13 +68,7 @@ La persistencia de la incertidumbre en Oriente Próximo ha llevado al precio del
 
 Date: 2026-07-20
 
-### EEUU ataca Irán una noche más tras la muerte de dos de sus militares en una base en Jordania
-
-Estados Unidos ha anunciado el inicio de una nueva ronda de bombardeos contra Irán por orden del presidente Donald Trump , en una operación que tiene como objetivo reducir las capacidades de Teherán para amenazar el tráfico marítimo en el estrecho de Ormuz y responder al ataque -atribuido al Cuerpo de la Guardia Revolu.
-
-Date: 2026-07-19
-
 ## Fuentes
 
 - [La banca se apoya en la subida del euríbor para apuntar a nuevos máximos de beneficios](https://cincodias.elpais.com/companias/2026-07-21/la-banca-se-apoya-en-la-subida-del-euribor-para-apuntar-a-nuevos-maximos-de-beneficios.html?utm_source=lootura.com) — 2026-07-21T17:18:15.000Z
-- [An emerging Iran-Pakistan allegiance is reshaping southwest Asia’s power structures](https://theconversation.com/an-emerging-iran-pakistan-allegiance-is-reshaping-southwest-asias-power-structures-287738?utm_source=lootura.com) — 2026-07-21T15:50:51.000Z
+- [EEUU lanza nuevos ataques contra Irán que eclipsan los esfuerzos diplomáticos](https://www.elmundo.es/internacional/2026/07/22/6a601510fdddff835a8b456d.html?utm_source=lootura.com) — 2026-07-22T00:59:32.000Z

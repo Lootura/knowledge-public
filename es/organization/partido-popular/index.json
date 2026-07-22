@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/partido-popular/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/partido-popular/index.json",
   "description": "Sigue la actividad de Partido Popular en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-21T21:06:12.863Z",
+  "updatedAt": "2026-07-22T02:26:20.882Z",
   "aliases": [
     "PP",
     "populares"
   ],
   "changes": [
+    {
+      "title": "Vox se ofende con el PP y asegura que se presentará en toda España",
+      "summary": "Los populares estudiaban un pacto para que Vox no concurriera en algunas provincias y no dividir el voto.",
+      "date": "2026-07-22"
+    },
     {
       "title": "Vox se adelanta al PP: recurre al Supremo y mira a la Audiencia Nacional y al TJUE para frenar la ley de nietos",
       "summary": "Santiago Abascal quiere pilotar la presión política, institucional y judicial contra la controvertida ley de nietos que tiene ya enfrente por distintos motivos a funcionarios, juristas, diplomáticos y a los dos principales partidos de la oposición. Vox ha convertido el rechazo a la nacionalización masiva promovida por.",
@@ -27,6 +32,11 @@
     {
       "title": "Feijóo se adelanta a Sánchez en el balance del curso para aprovechar el misil lanzado por Julio Martínez",
       "summary": "El líder del PP, Alberto Núñez Feijóo, ha decidido no esperar a la comparecencia ante la prensa de Pedro Sánchez el próximo martes 28 y se adelanta a este miércoles para valorar el curso político que toca a su fin. Lo hará después del misil lanzado por el empresario 'Julito' Martínez ante el juez de la Audiencia Nacion.",
+      "date": "2026-07-21"
+    },
+    {
+      "title": "PP y Vox llevan por primera vez a una ley la \"prioridad nacional\" con la aprobación de los presupuestos de la Generalitat Valenciana",
+      "summary": "Ambos partidos acuerdan acotarla al \"arraigo real\" mientras el Gobierno de España amenaza con recurrir la norma ante el Constitucional Leer.",
       "date": "2026-07-21"
     },
     {
@@ -53,16 +63,6 @@
       "title": "Dos millones de votantes, cinco elecciones y solo dos anuncios: así ignoran los partidos al electorado latino",
       "summary": "En junio de 2016, una mujer colombiana con doble nacionalidad apareció en un vídeo grabado con el móvil durante un acto del Partido Popular. Se llamaba Martha Inés y pedía el voto en nombre de “los latinos”. Ella no lo sabía, pero ese vídeo –visto por unos cientos de personas– sería uno de los dos únicos momentos en oc.",
       "date": "2026-07-20"
-    },
-    {
-      "title": "Así funciona la campaña permanente del PP que tiene a Abascal en sus oraciones",
-      "summary": "Alberto Núñez Feijóo ha decidido dejar de mirar el calendario de Pedro Sánchez. Aunque nadie sabe cuándo convocará las próximas elecciones generales y el presidente del Gobierno insiste en mantener la incógnita mientras reivindica su intención de agotar la legislatura, el líder del PP ha puesto en marcha una estrategia.",
-      "date": "2026-07-20"
-    },
-    {
-      "title": "«Antes de que se carguen la pantalla, me llevan por delante», dice la secretaria general del PP vasco",
-      "summary": "Esther Martínez, portavoz y candidata a la Alcaldía en Bilbao, se enfrenta a los radicales que querían boicotear la televisión gigante del parque.",
-      "date": "2026-07-19"
     }
   ],
   "sources": [
@@ -85,11 +85,17 @@
       "sourceId": "lootura-es-el-independiente"
     },
     {
-      "title": "Un juez abre juicio oral al número 2 de Diana Morant por un delito de calumnias contra el PP",
-      "url": "https://okdiario.com/espana/juez-abre-juicio-oral-numero-2-diana-morant-delito-calumnias-contra-pp-19039288?utm_source=lootura.com",
-      "publishedAt": "2026-07-21T19:05:17.000Z",
-      "sourceId": "lootura-es-ok-diario"
+      "title": "PP y Vox llevan por primera vez a una ley la \"prioridad nacional\" con la aprobación de los presupuestos de la Generalitat Valenciana",
+      "url": "https://www.elmundo.es/comunidad-valenciana/2026/07/21/6a5faad5fc6c83204d8b458e.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-21T20:43:55.000Z",
+      "sourceId": "lootura-es-el-mundo"
+    },
+    {
+      "title": "Vox se ofende con el PP y asegura que se presentará en toda España",
+      "url": "https://www.larazon.es/espana/vox-ofende-asegura-que-presentara-toda-espana_202607226a5fb15fe3eb0b64aa4bff6e.html?outputType=amp&utm_source=lootura.com",
+      "publishedAt": "2026-07-22T01:20:17.000Z",
+      "sourceId": "lootura-es-la-razon"
     }
   ],
-  "evidenceCount": 4
+  "evidenceCount": 5
 }

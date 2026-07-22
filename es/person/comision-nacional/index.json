@@ -27,19 +27,6 @@
       "date": "2026-07-21"
     }
   ],
-  "sources": [
-    {
-      "title": "El Gobierno nombra a Juan José Ganuza presidente de la CNMC y tres consejeros afines",
-      "url": "https://www.abc.es/economia/gobierno-nombra-juan-jose-ganuza-presidente-cnmc-20260721212746-nt.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-21T20:18:02.000Z",
-      "sourceId": "lootura-es-abc"
-    },
-    {
-      "title": "Meliá completa su salida de Cuba tras cancelar todos sus contratos y servicios en la isla",
-      "url": "https://www.elindependiente.com/economia/2026/07/21/melia-abandona-definitivamente-cuba-cancela-contratos/?utm_source=lootura.com",
-      "publishedAt": "2026-07-21T16:20:24.000Z",
-      "sourceId": "lootura-es-el-independiente"
-    }
-  ],
-  "evidenceCount": 2
+  "sources": [],
+  "evidenceCount": 0
 }

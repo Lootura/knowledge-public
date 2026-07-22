@@ -1,9 +1,9 @@
-# Nueva Jersey (Estados Unidos)
+# El Estado Jardín
 
-> Sigue la actividad de Nueva Jersey (Estados Unidos) en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
+> Sigue la actividad de El Estado Jardín en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-21T10:23:08.875Z
+- Actualizado: 2026-07-22T02:26:20.882Z
 - Canonical: https://atlas.lootura.com/es/place/nueva-jersey
 
 ## Cambios recientes
@@ -40,4 +40,4 @@ Date: 2026-07-18
 
 ## Fuentes
 
-No public source links.
+- [Scaloni reconoce la derrota ante España con señorío: «Perdimos porque ellos fueron mejores»](https://okdiario.com/deportes/scaloni-reconoce-derrota-espana-senorio-perdimos-porque-ellos-fueron-mejores-19043851?utm_source=lootura.com) — 2026-07-21T22:04:39.000Z

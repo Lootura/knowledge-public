@@ -10,11 +10,11 @@
   "description": "Sigue la actividad de República Portuguesa en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
   "updatedAt": "2026-07-21T21:06:12.863Z",
   "aliases": [
-    "República Portuguesa",
-    "República de Portugal",
-    "Portuguese Republic",
+    "POR",
     "PRT",
-    "POR"
+    "Portuguese Republic",
+    "República Portuguesa",
+    "República de Portugal"
   ],
   "changes": [
     {
@@ -68,13 +68,6 @@
       "date": "2026-07-10"
     }
   ],
-  "sources": [
-    {
-      "title": "Muere repentinamente un futbolista de 26 años haciendo running en Portugal",
-      "url": "https://okdiario.com/deportes/muere-repentinamente-futbolista-26-anos-haciendo-running-portugal-19042670?utm_source=lootura.com",
-      "publishedAt": "2026-07-21T17:02:49.000Z",
-      "sourceId": "lootura-es-ok-diario"
-    }
-  ],
-  "evidenceCount": 1
+  "sources": [],
+  "evidenceCount": 0
 }

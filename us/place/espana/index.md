@@ -16,4 +16,4 @@ Date: 2026-07-09
 
 ## Sources
 
-- [Spain’s supremacy, Messi and Mbappé’s race for greatness, and a freak injury: World Cup quiz](https://www.nbcnews.com/news/news-quiz/world-cup-news-quiz-rcna588404?utm_source=lootura.com) — 2026-07-21T09:15:40.000Z
+No public source links.

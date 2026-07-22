@@ -40,4 +40,4 @@ Date: 2026-07-14
 
 ## Fuentes
 
-- [El mensaje de unidad de Llorente con recado a la ultraizquierda: «Qué maravilla ver una España así»](https://okdiario.com/deportes/mensaje-unidad-llorente-recado-ultraizquierda-que-maravilla-ver-espana-asi-19043455?utm_source=lootura.com) — 2026-07-21T20:02:57.000Z
+No public source links.

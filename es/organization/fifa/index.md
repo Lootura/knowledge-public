@@ -3,7 +3,7 @@
 > Sigue la actividad de Federación Internacional de Fútbol Asociación en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-21T10:23:08.875Z
+- Actualizado: 2026-07-22T02:26:20.882Z
 - Canonical: https://atlas.lootura.com/es/organization/fifa
 
 ## Cambios recientes
@@ -40,4 +40,4 @@ Date: 2026-07-08
 
 ## Fuentes
 
-No public source links.
+- [La Casa Blanca reacciona a la gorra de Ferran Torres: “Todo el mundo quiere subirse a la ola”](https://www.lavanguardia.com/deportes/futbol/20260722/11598170/casa-blanca-reacciona-gorra-ferran-torres-mundo-quiere-subirse-ola.html?utm_source=lootura.com) — 2026-07-21T22:19:21.000Z

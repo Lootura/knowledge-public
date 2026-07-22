@@ -8,30 +8,30 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/donald-trump/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/donald-trump/index.json",
   "description": "Sigue la actividad de Donald Trump en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-21T21:06:12.863Z",
+  "updatedAt": "2026-07-22T02:26:20.882Z",
   "aliases": [
-    "Donald",
-    "President Donald Trump",
-    "President Trump",
-    "Trump",
-    "POTUS 45",
-    "President Donald J. Trump",
-    "President Donald John Trump",
-    "President Donald J Trump",
     "@realDonaldTrump",
+    "DJT",
+    "Donald",
+    "POTUS 45",
     "POTUS 47",
     "President DJT",
-    "DJT"
+    "President Donald J Trump",
+    "President Donald J. Trump",
+    "President Donald John Trump",
+    "President Donald Trump",
+    "President Trump",
+    "Trump"
   ],
   "changes": [
     {
-      "title": "Trump da inmunidad a Delcy ante la Justicia estadounidense mientras siga en el poder",
-      "summary": "Una carta del Departamento de Estado reclama el rápido archivo de un caso por la vía civil debido a sus importantes implicaciones de política exterior.",
+      "title": "Trump pide inmunidad judicial para Delcy Rodríguez mientras siga en el poder",
+      "summary": "La Administración de Donald Trump ha pedido al Departamento de Justicia de Estados Unidos que garantice la inmunidad judicial de la presidenta interina de.",
       "date": "2026-07-21"
     },
     {
-      "title": "Trump pide inmunidad judicial para Delcy Rodríguez mientras siga en el poder",
-      "summary": "La Administración de Donald Trump ha pedido al Departamento de Justicia de Estados Unidos que garantice la inmunidad judicial de la presidenta interina de.",
+      "title": "Trump da inmunidad a Delcy ante la Justicia estadounidense mientras siga en el poder",
+      "summary": "Una carta del Departamento de Estado reclama el rápido archivo de un caso por la vía civil debido a sus importantes implicaciones de política exterior.",
       "date": "2026-07-21"
     },
     {
@@ -77,23 +77,11 @@
   ],
   "sources": [
     {
-      "title": "La Casa Blanca comparte fotos de Ferran y su gorra con referencia a Trump: \"Todos quieren sumarse\"",
-      "url": "https://www.20minutos.es/deportes/futbol/casa-blanca-comparte-imagenes-ferran-torres-su-gorra-con-referencia-trump-todos-quieren-sumarse-movimiento_7017422_0.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-21T20:15:48.000Z",
-      "sourceId": "lootura-es-20minutos"
-    },
-    {
-      "title": "Trump da inmunidad a Delcy ante la Justicia estadounidense mientras siga en el poder",
-      "url": "https://www.abc.es/internacional/trump-inmunidad-delcy-ante-justicia-estadounidense-siga-20260720213736-nt_amp.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-21T19:38:00.000Z",
-      "sourceId": "lootura-es-abc"
-    },
-    {
       "title": "Trump pide inmunidad judicial para Delcy Rodríguez mientras siga en el poder",
       "url": "https://theobjective.com/internacional/2026-07-21/trump-inmunidad-delcy-rodriguez/?amp=&utm_source=lootura.com",
       "publishedAt": "2026-07-21T20:53:36.000Z",
       "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

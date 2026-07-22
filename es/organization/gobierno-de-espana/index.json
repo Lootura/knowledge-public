@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/gobierno-de-espana/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/gobierno-de-espana/index.json",
   "description": "Sigue la actividad de Gobierno de España en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-16T20:54:41.819Z",
+  "updatedAt": "2026-07-22T02:26:20.882Z",
   "aliases": [
     "Ejecutivo español",
     "Gobierno español"
   ],
   "changes": [
+    {
+      "title": "PP y Vox llevan por primera vez a una ley la \"prioridad nacional\" con la aprobación de los presupuestos de la Generalitat Valenciana",
+      "summary": "Ambos partidos acuerdan acotarla al \"arraigo real\" mientras el Gobierno de España amenaza con recurrir la norma ante el Constitucional Leer.",
+      "date": "2026-07-21"
+    },
     {
       "title": "El trilero y Gibraltar",
       "summary": "La tramitación del Tratado entre la Unión Europea y el Reino Unido sobre Gibraltar semeja a la de un juego trilero hilvanado por el Gobierno español y la Comisión de la Unión Europea. Con ello se busca desmontar las bazas que ciertamente tienen la oposición para bloquear un tratado traidor a nuestra historia y a nuestr.",
@@ -58,13 +63,15 @@
       "title": "Francia ve «absolutamente inaceptables» las palabras de Rajoy sobre su selección",
       "summary": "El expresidente del Gobierno español Mariano Rajoy ha suscitado este domingo una ola de críticas en Francia. Varios miembros del Ejecutivo de Sébastien Lecornu han tachado de «racista» e «inaceptable» el comentario del exjefe del Ejecutivo español (2011-2018) sobre la selección francesa , que se enfrentará el martes a.",
       "date": "2026-07-12"
-    },
-    {
-      "title": "Discovered by Atlas",
-      "summary": "Gobierno de España first entered the public knowledge record with source-backed evidence.",
-      "date": "2026-07-10"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "PP y Vox llevan por primera vez a una ley la \"prioridad nacional\" con la aprobación de los presupuestos de la Generalitat Valenciana",
+      "url": "https://www.elmundo.es/comunidad-valenciana/2026/07/21/6a5faad5fc6c83204d8b458e.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-21T20:43:55.000Z",
+      "sourceId": "lootura-es-el-mundo"
+    }
+  ],
+  "evidenceCount": 1
 }

@@ -70,4 +70,4 @@ Date: 2026-07-13
 
 ## Sources
 
-- [How Europe's Extreme Heat Waves Have Impacted the Tour de France](https://time.com/article/2026/07/21/europe-extreme-heat-tour-de-france/?utm_source=lootura.com) — 2026-07-21T18:16:56.000Z
+No public source links.

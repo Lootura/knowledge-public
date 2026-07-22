@@ -3,10 +3,16 @@
 > Follow Canada, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-21T21:06:38.270Z
+- Updated: 2026-07-22T02:26:42.354Z
 - Canonical: https://atlas.lootura.com/us/place/canada
 
 ## Recent changes
+
+### Canada cancels joint bridge-opening celebration with US amid trade tensions
+
+The ribbon-cutting celebration of the Gordie Howe International Bridge is no longer taking place after Trump announced a 50% tariff on Canadian goods A planned joint US-Canada ceremony Friday celebrating the opening of the Gordie Howe International Bridge connecting Detroit and Windsor, Ontario, is no longer expected t.
+
+Date: 2026-07-22
 
 ### Trump hits Canada with slew of new 50% tariffs set to take effect in 30 days
 
@@ -62,13 +68,7 @@ Smoke from hundreds of wildfires burning across Canada and Minnesota is creating
 
 Date: 2026-07-19
 
-### Air quality improving in Northeast, while wildfire smoke hangs over Midwest
-
-Wildfire smoke and unhealthy air persist and shift direction, as Trump demands explanation from Canada. (Image credit: Finn Gomez/Getty Images).
-
-Date: 2026-07-18
-
 ## Sources
 
 - [Trump hits Canada with slew of new 50% tariffs set to take effect in 30 days](https://www.npr.org/2026/07/21/nx-s1-5901957/trump-hits-canada-with-slew-of-new-50-tariffs-set-to-take-effect-in-30-days?utm_source=lootura.com) — 2026-07-21T20:09:34.000Z
-- [Trump Escalates Canada Tariffs as Mark Carney Holds Firm](https://www.nytimes.com/2026/07/21/world/canada/trump-carney-trade-tariffs.html?utm_source=lootura.com) — 2026-07-21T17:21:51.000Z
+- [Canada cancels joint bridge-opening celebration with US amid trade tensions](https://www.theguardian.com/us-news/2026/jul/21/gordie-howe-bridge-opening-celebration-canceled?utm_source=lootura.com) — 2026-07-22T00:58:40.000Z

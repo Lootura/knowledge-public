@@ -11,15 +11,15 @@
   "updatedAt": "2026-07-21T21:06:12.863Z",
   "aliases": [
     "Emiliano",
-    "García-Page",
-    "Emiliano García-Page Sánchez",
-    "Emiliano Garcia-Page Sanchez",
     "Emiliano Garcia Page Sanchez",
-    "Emiliano García-Page Sanchez",
+    "Emiliano Garcia Page Sánchez",
+    "Emiliano Garcia-Page Sanchez",
     "Emiliano Garcia-Page Sánchez",
-    "Emiliano García Page Sánchez",
     "Emiliano García Page Sanchez",
-    "Emiliano Garcia Page Sánchez"
+    "Emiliano García Page Sánchez",
+    "Emiliano García-Page Sanchez",
+    "Emiliano García-Page Sánchez",
+    "García-Page"
   ],
   "changes": [
     {
@@ -53,13 +53,6 @@
       "date": "2026-07-18"
     }
   ],
-  "sources": [
-    {
-      "title": "El incendio de Guadalajara roza las 30.000 hectáreas quemadas y ya hay 34 municipios desalojados",
-      "url": "https://elpais.com/espana/2026-07-21/el-incendio-de-guadalajara-roza-las-30000-hectareas-quemadas-y-ya-hay-34-municipios-desalojados.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-21T10:12:14.000Z",
-      "sourceId": "lootura-es-el-pais"
-    }
-  ],
-  "evidenceCount": 1
+  "sources": [],
+  "evidenceCount": 0
 }

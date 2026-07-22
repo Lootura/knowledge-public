@@ -3,10 +3,16 @@
 > Sigue la actividad de Pedro Sánchez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-21T21:06:12.863Z
+- Actualizado: 2026-07-22T02:26:20.882Z
 - Canonical: https://atlas.lootura.com/es/person/pedro-sanchez
 
 ## Cambios recientes
+
+### Rosario Sánchez desprecia su cargo en Turismo y se apunta a la protesta antiturística del día 26 en Palma
+
+Es oficialmente la candi target="_blank" rel="noopener noreferrer">la manifestación antiturismo que tendrá lugar el domingo por las calles de Palma . Durante meses ha abandonado su despacho de cargo público en Madrid para hacerse promoción en las Islas Baleares . Para darse a conocer ha hecho pellas de las Secretaría d.
+
+Date: 2026-07-22
 
 ### El PP apunta a Sánchez por el 'caso ZP' y avisa de que «este chanchullo se los puede llevar a los dos por delante»
 
@@ -62,14 +68,8 @@ Date: 2026-07-20
 
 Date: 2026-07-20
 
-### Sánchez alardea de Selección después de amagar con no ir a la final: «Inmensas gracias»
-
-El presidente recibió a los campeones del mundo en la Moncloa, en un acto amenizado por Ibai Llanos. Borja Iglesias fue el más efusivo en su saludo.
-
-Date: 2026-07-20
-
 ## Fuentes
 
 - [El PP apunta a Sánchez por el 'caso ZP' y avisa de que «este chanchullo se los puede llevar a los dos por delante»](https://www.elcorreo.com/politica/pp-apunta-gobierno-tras-revelaciones-julio-martinez-20260721134247-ntrc_amp.html?utm_source=lootura.com) — 2026-07-21T11:42:47.000Z
 - [Feijóo se adelanta a Sánchez en el balance del curso para aprovechar el misil lanzado por Julio Martínez](https://www.elindependiente.com/espana/2026/07/21/feijoo-se-adelanta-a-sanchez-en-el-balance-del-curso-para-aprovechar-el-misil-lanzado-por-julio-martinez/?utm_source=lootura.com) — 2026-07-21T17:29:59.000Z
-- [Sin Sánchez, Zapatero no se habría llevado una mordida de medio millón de euros](https://okdiario.com/opinion/sin-sanchez-zapatero-no-habria-llevado-mordida-medio-millon-euros-19041779?utm_source=lootura.com) — 2026-07-21T19:03:24.000Z
+- [Rosario Sánchez desprecia su cargo en Turismo y se apunta a la protesta antiturística del día 26 en Palma](https://okdiario.com/baleares/rosario-sanchez-desprecia-cargo-turismo-apunta-protesta-antituristica-del-dia-26-palma-19041766?utm_source=lootura.com) — 2026-07-22T02:00:49.000Z

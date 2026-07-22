@@ -8,23 +8,28 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/reino-unido/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/reino-unido/index.json",
   "description": "Sigue la actividad de Reino Unido de Gran Bretaña e Irlanda del Norte en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-21T21:06:12.863Z",
+  "updatedAt": "2026-07-22T02:26:20.882Z",
   "aliases": [
-    "Reino Unido de Gran Bretaña e Irlanda del Norte",
-    "Reino Unido de la Gran Bretaña e Irlanda del Norte",
-    "United Kingdom of Great Britain and Northern Ireland",
-    "U K",
     "G B",
     "Great Britain",
     "Great Britain and Northern Ireland",
-    "the United Kingdom of Great Britain and Northern Ireland",
+    "Reino Unido de Gran Bretaña e Irlanda del Norte",
+    "Reino Unido de la Gran Bretaña e Irlanda del Norte",
+    "U K",
+    "United Kingdom of Great Britain and Northern Ireland",
     "the UK",
-    "the United Kingdom"
+    "the United Kingdom",
+    "the United Kingdom of Great Britain and Northern Ireland"
   ],
   "changes": [
     {
       "title": "Iberdrola compra la mayor red de luz de Finlandia por 5.000 millones",
       "summary": "Iberdrola ha alcanzado un acuerdo para adquirir Caruna, la principal compañía de distribución eléctrica de Finlandia, en una transacción que valora el 100% de la empresa en cerca de 5.000 millones de euros, incluyendo su deuda financiera. Es un importe similar al de la compra de ENW en Reino Unido hace dos años. Seguir.",
+      "date": "2026-07-21"
+    },
+    {
+      "title": "Francia, al borde de emitir una señal de peligro en el mercado de deuda",
+      "summary": "Mientras muchos analistas están pendientes de las primeras decisiones de Andy Burnham como primer ministro británico , por su posible impacto en el déficit de Reino Unido , algunos inversores miran ya a otro potencial flanco débil en la economía europea: Francia . Seguir leyendo.",
       "date": "2026-07-21"
     },
     {
@@ -66,11 +71,6 @@
       "title": "Begoña Gómez entrega al juez Peinado los billetes de su viaje a Londres para la graduación de su hija",
       "summary": "Begoña Gómez ha entregado al juzgado los billetes de avión de su viaje a Londres de la pasada semana y ha presentado un recurso contra la iniciativa del magistrado Juan Carlos Peinado de reclamarle que “acredite” que solo usó el pasaporte para acudir a Reino Unido a la graduación de su hija. En su escrito de alegacione.",
       "date": "2026-07-15"
-    },
-    {
-      "title": "Pedro Sánchez, tras la retirada de la Verja de Gibraltar, que ya es historia: \"Los conflictos no están para gestionarlos sino para resolverlos\"",
-      "summary": "El presidente del Gobierno asiste al acto simbólico de la eliminación de la frontera física junto al ministro principal del Peñón, el embajador del Reino Unido y los alcaldes de la comarca Leer.",
-      "date": "2026-07-15"
     }
   ],
   "sources": [
@@ -79,7 +79,13 @@
       "url": "https://www.expansion.com/empresas/energia/2026/07/21/6a5f7ea2e5fdea3e5d8b4592.html?utm_source=lootura.com",
       "publishedAt": "2026-07-21T19:12:44.000Z",
       "sourceId": "lootura-es-expansion"
+    },
+    {
+      "title": "Francia, al borde de emitir una señal de peligro en el mercado de deuda",
+      "url": "https://www.expansion.com/mercados/2026/07/21/6a5f9cd4468aebdc058b4593.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-21T18:31:13.000Z",
+      "sourceId": "lootura-es-expansion"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 2
 }

@@ -3,10 +3,22 @@
 > Follow White House, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-07-21T21:06:38.270Z
+- Updated: 2026-07-22T02:26:42.354Z
 - Canonical: https://atlas.lootura.com/us/organization/white-house
 
 ## Recent changes
+
+### Smithsonian too focused on 'oppressors and the oppressed,' say House Republicans
+
+In a House DOGE subcommittee hearing, GOP representatives excoriated the director of the National Museum of American History, following a White House report earlier this month that also criticized her. (Image credit: Andrew Harnik).
+
+Date: 2026-07-21
+
+### Southern Lebanese skeptical of Israel agreement as violence continues
+
+When Lebanon's president met President Trump at the White House, it was the first such visit by a Lebanese head of state in nearly two decades. It comes after Lebanon and Israel resumed diplomatic relations under the auspices of the Trump administration, signing a deal meant to end a long history of wars. But as specia.
+
+Date: 2026-07-21
 
 ### Donald Trump to impose 50% tariff on most Canadian goods, White House says
 
@@ -56,18 +68,7 @@ Intelligence agencies provided the White House with a trove of declassified docu
 
 Date: 2026-07-17
 
-### Trump encourages Darline Graham to run for Lindsey Graham's seat
-
-Darline Graham indicated in a White House meeting Thursday that she's weighing a bid, CBS News confirmed. A day later, President Trump wrote on Truth Social: "RUN, DARLINE, RUN! ".
-
-Date: 2026-07-17
-
-### White House teleprompter operator allegedly made over $100K betting on Trump's speeches
-
-The prediction market Kalshi alleges President Trump's longtime teleprompter operator engaged in trading, betting on the words the president would use in speeches. Jo Ling Kent reports.
-
-Date: 2026-07-17
-
 ## Sources
 
-- [What to watch for in Arizona tonight: From the Politics Desk](https://www.nbcnews.com/politics/politics-news/watch-arizona-primary-tonight-politics-desk-rcna588599?utm_source=lootura.com) — 2026-07-21T21:00:00.000Z
+- [Smithsonian too focused on 'oppressors and the oppressed,' say House Republicans](https://www.npr.org/2026/07/21/nx-s1-5902101/smithsonian-house-hearing?utm_source=lootura.com) — 2026-07-21T21:41:25.000Z
+- [Southern Lebanese skeptical of Israel agreement as violence continues](https://www.pbs.org/newshour/show/southern-lebanese-skeptical-of-israel-agreement-as-violence-continues?utm_source=lootura.com) — 2026-07-21T22:50:07.000Z

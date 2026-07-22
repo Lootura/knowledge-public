@@ -3,7 +3,7 @@
 > Follow Startups, a tracked market, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: market
-- Updated: 2026-07-21T21:06:38.270Z
+- Updated: 2026-07-22T02:26:42.354Z
 - Canonical: https://atlas.lootura.com/us/market/startups
 
 ## Recent changes
@@ -34,4 +34,4 @@ Date: 2026-07-10
 
 ## Sources
 
-- [Morning news brief](https://www.npr.org/2026/07/21/nx-s1-5895979/morning-news-brief?utm_source=lootura.com) — 2026-07-21T08:44:49.000Z
+- [U.S. launches strikes on Iran for 11th consecutive night](https://www.cbsnews.com/video/us-launches-strikes-iran-11th-consecutive-night/?utm_source=lootura.com) — 2026-07-22T02:11:05.000Z

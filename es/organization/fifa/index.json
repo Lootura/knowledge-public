@@ -8,15 +8,15 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/fifa/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/fifa/index.json",
   "description": "Sigue la actividad de Federación Internacional de Fútbol Asociación en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-21T10:23:08.875Z",
+  "updatedAt": "2026-07-22T02:26:20.882Z",
   "aliases": [
-    "Federation Internationale de Football Association",
-    "Federación Internacional de Fútbol Asociación",
     "Federacion Internacional de Futbol Asociacion",
-    "International Federation of Association Football",
-    "Federación Internacional de Fútbol Asociado",
     "Federacion Internacional de Futbol Asociados",
-    "Fédération internationale de football association"
+    "Federación Internacional de Fútbol Asociación",
+    "Federación Internacional de Fútbol Asociado",
+    "Federation Internationale de Football Association",
+    "Fédération internationale de football association",
+    "International Federation of Association Football"
   ],
   "changes": [
     {
@@ -45,6 +45,13 @@
       "date": "2026-07-08"
     }
   ],
-  "sources": [],
+  "sources": [
+    {
+      "title": "La Casa Blanca reacciona a la gorra de Ferran Torres: “Todo el mundo quiere subirse a la ola”",
+      "url": "https://www.lavanguardia.com/deportes/futbol/20260722/11598170/casa-blanca-reacciona-gorra-ferran-torres-mundo-quiere-subirse-ola.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-21T22:19:21.000Z",
+      "sourceId": "lootura-es-la-vanguardia"
+    }
+  ],
   "evidenceCount": 0
 }

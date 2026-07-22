@@ -8,47 +8,47 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/united-states/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/united-states/index.json",
   "description": "Sigue la actividad de Estados Unidos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-21T21:06:12.863Z",
+  "updatedAt": "2026-07-22T02:26:20.882Z",
   "aliases": [
     "America",
-    "U.S.",
-    "United States",
     "EE.UU.",
+    "EE.UU. de América",
     "EEUU",
     "Estados Unidos de América",
     "Los Estados Unidos",
     "Los Estados Unidos de América",
-    "EE.UU. de América",
-    "los Estados",
-    "Unión Americana",
-    "the States",
-    "the United States of America",
-    "US of America",
-    "the US",
-    "the U.S.",
-    "the US of A",
-    "U.S. of America",
-    "the US of America",
-    "the USA",
-    "the U.S.A.",
-    "the U.S. of A",
-    "US of A",
-    "the U.S. of America",
-    "the United States",
     "Merica",
     "Murica",
     "U. S.",
-    "U. S. A."
+    "U. S. A.",
+    "U.S.",
+    "U.S. of America",
+    "US of A",
+    "US of America",
+    "United States",
+    "Unión Americana",
+    "los Estados",
+    "the States",
+    "the U.S.",
+    "the U.S. of A",
+    "the U.S. of America",
+    "the U.S.A.",
+    "the US",
+    "the US of A",
+    "the US of America",
+    "the USA",
+    "the United States",
+    "the United States of America"
   ],
   "changes": [
     {
-      "title": "Iberostar y Barceló se suman a Meliá y dejan de operar en Cuba por las sanciones de EE UU",
-      "summary": "Las tres cadenas españolas ponen fin a décadas de presencia en la isla ante las dificultades operativas y los riesgos asociados al embargo de Estados Unidos.",
+      "title": "Trump pide inmunidad judicial para Delcy Rodríguez mientras siga en el poder",
+      "summary": "La Administración de Donald Trump ha pedido al Departamento de Justicia de Estados Unidos que garantice la inmunidad judicial de la presidenta interina de.",
       "date": "2026-07-21"
     },
     {
-      "title": "Trump pide inmunidad judicial para Delcy Rodríguez mientras siga en el poder",
-      "summary": "La Administración de Donald Trump ha pedido al Departamento de Justicia de Estados Unidos que garantice la inmunidad judicial de la presidenta interina de.",
+      "title": "Iberostar y Barceló se suman a Meliá y dejan de operar en Cuba por las sanciones de EE UU",
+      "summary": "Las tres cadenas españolas ponen fin a décadas de presencia en la isla ante las dificultades operativas y los riesgos asociados al embargo de Estados Unidos.",
       "date": "2026-07-21"
     },
     {
@@ -94,17 +94,11 @@
   ],
   "sources": [
     {
-      "title": "Iberostar y Barceló se suman a Meliá y dejan de operar en Cuba por las sanciones de EE UU",
-      "url": "https://www.larazon.es/economia/iberostar-barcelo-suman-melia-dejan-operar-cuba-sanciones_202607216a5fa8d7e3eb0b64aa4bf3f6.html?outputType=amp&utm_source=lootura.com",
-      "publishedAt": "2026-07-21T17:13:59.000Z",
-      "sourceId": "lootura-es-la-razon"
-    },
-    {
       "title": "Trump pide inmunidad judicial para Delcy Rodríguez mientras siga en el poder",
       "url": "https://theobjective.com/internacional/2026-07-21/trump-inmunidad-delcy-rodriguez/?amp=&utm_source=lootura.com",
       "publishedAt": "2026-07-21T20:53:36.000Z",
       "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

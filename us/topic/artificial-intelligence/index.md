@@ -3,10 +3,22 @@
 > Follow Artificial intelligence, a tracked topic, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: topic
-- Updated: 2026-07-21T21:06:38.270Z
+- Updated: 2026-07-22T02:26:42.354Z
 - Canonical: https://atlas.lootura.com/us/topic/artificial-intelligence
 
 ## Recent changes
+
+### Detailed maps of European wetlands reveal overlooked patches of ecosystems
+
+Nature, Published online: 20 July 2026; doi:10.1038/d41586-026-02211-2 Satellite images have been analysed by a machine-learning algorithm to produce high-resolution maps of wetland environments — a boon for conservation efforts.
+
+Date: 2026-07-22
+
+### Don’t let AI steal all the joy: what scientists won’t give up to chatbots
+
+Nature, Published online: 21 July 2026; doi:10.1038/d41586-026-02213-0 Nature asked readers of the Nature Briefing what they like about their job and don’t want to hand over.
+
+Date: 2026-07-22
 
 ### Detailed maps of European wetlands reveal overlooked patches of ecosystems
 
@@ -56,20 +68,8 @@ Researchers have copied massive quantities of publicly available climate and env
 
 Date: 2026-07-20
 
-### AI ‘ghosts’ can comfort mourners — even when the bots get the facts wrong
-
-A small study suggests emotional fit, not perfect accuracy, may make chatbot versions of dead loved ones feel real.
-
-Date: 2026-07-20
-
-### Dr. Jill Lepore on why AI backlash is vital for the future
-
-Today, I’m talking with Harvard professor and New Yorker staff writer Dr. Jill Lepore about her new book, The Rise and Fall of the Artificial State , which comes out on August 25. Jill is one of the best writers there is at identifying institutional patterns in history, and Decoder is a show about systems, so this book.
-
-Date: 2026-07-20
-
 ## Sources
 
-- [Why AI Needs a “Genie Coefficient”](https://spectrum.ieee.org/ai-agent-benchmark?utm_source=lootura.com) — 2026-07-21T17:41:11.000Z
-- [Detailed maps of European wetlands reveal overlooked patches of ecosystems](https://www.nature.com/articles/d41586-026-02211-2?utm_source=lootura.com) — 2026-07-21T17:15:56.129Z
-- [Substack adds an AI detector to help spot blogs written by no one](https://www.theverge.com/ai-artificial-intelligence/968855/substack-pangram-ai-detecting-tool?utm_source=lootura.com) — 2026-07-21T19:22:28.000Z
+- [Scientists propose model to protect Earth from solar storms](https://www.cbsnews.com/video/scientists-propose-model-to-protect-earth-from-solar-storms/?utm_source=lootura.com) — 2026-07-22T02:07:49.000Z
+- [Detailed maps of European wetlands reveal overlooked patches of ecosystems](https://www.nature.com/articles/d41586-026-02211-2?utm_source=lootura.com) — 2026-07-22T02:26:46.718Z
+- [Don’t let AI steal all the joy: what scientists won’t give up to chatbots](https://www.nature.com/articles/d41586-026-02213-0?utm_source=lootura.com) — 2026-07-22T02:26:46.718Z

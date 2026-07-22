@@ -3,20 +3,32 @@
 > Follow Democratic Party, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-07-21T21:06:38.270Z
+- Updated: 2026-07-22T02:26:42.354Z
 - Canonical: https://atlas.lootura.com/us/organization/democratic-party
 
 ## Recent changes
 
-### Arizona primaries set the stage for contested fall races in a swing state
+### Senate panel advances Jay Clayton's nomination for director of national intelligence
 
-Arizona Democrats choose who can try to flip a Republican-held House seat, and Republicans pick their nominee to try to unseat a Democratic governor. (Image credit: Ross D. Franklin).
+The 9-8 vote came after some Democrats had praised Clayton and indicated that they might vote for him. But that shifted after a contentious hearing last week in which Clayton repeatedly refused to say that former President Joe Biden won the 2020 election.
 
-Date: 2026-07-21
+Date: 2026-07-22
 
 ### Democrats’ Top Senate Candidate in Maine Won’t Support Schumer for Leader
 
 Troy Jackson, who is set to become the party’s nominee, also said in an interview that he was not sure he wanted the support of Senator Chuck Schumer in the general election.
+
+Date: 2026-07-21
+
+### Democrats could take initial vote on 2028 presidential primary calendar this week
+
+Democrats could vote as early as this week on the order of their primary calendar for the 2028 presidential election, although the decision wouldn't be final until the full Democratic National Committee agrees.
+
+Date: 2026-07-21
+
+### Arizona primaries set the stage for contested fall races in a swing state
+
+Arizona Democrats choose who can try to flip a Republican-held House seat, and Republicans pick their nominee to try to unseat a Democratic governor. (Image credit: Ross D. Franklin).
 
 Date: 2026-07-21
 
@@ -56,19 +68,8 @@ A battle over idealized economic systems doesn’t help Democratic candidates.
 
 Date: 2026-07-19
 
-### In Arizona’s Primaries, Democrats Fight Over a House Seat They Need Badly
-
-Democrats have a chance to flip a competitive battleground district in and around Scottsdale, but the winner of Tuesday’s primary will emerge bloodied and broke.
-
-Date: 2026-07-19
-
-### US politicians push agencies to restrict research collaboration with China
-
-Nature, Published online: 16 July 2026; doi:10.1038/d41586-026-02226-9 Republicans and Democrats worry about research theft and exploitation — but don’t agree on how to solve the problem.
-
-Date: 2026-07-19
-
 ## Sources
 
-- [Arizona primaries set the stage for contested fall races in a swing state](https://www.npr.org/2026/07/21/nx-s1-5901065/midterms-primaries-arizona-elections?utm_source=lootura.com) — 2026-07-21T09:00:00.000Z
+- [Democrats could take initial vote on 2028 presidential primary calendar this week](https://www.pbs.org/newshour/politics/democrats-could-take-initial-vote-on-2028-presidential-primary-calendar-this-week?utm_source=lootura.com) — 2026-07-21T23:52:05.000Z
+- [Senate panel advances Jay Clayton's nomination for director of national intelligence](https://www.pbs.org/newshour/politics/senate-panel-advances-jay-claytons-nomination-for-director-of-national-intelligence?utm_source=lootura.com) — 2026-07-22T00:26:02.000Z
 - [Democrats’ Top Senate Candidate in Maine Won’t Support Schumer for Leader](https://www.nytimes.com/2026/07/21/us/politics/troy-jackson-schumer-maine-senate.html?utm_source=lootura.com) — 2026-07-21T17:52:33.000Z

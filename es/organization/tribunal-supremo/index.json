@@ -1,0 +1,45 @@
+{
+  "id": "es-tribunal-supremo",
+  "name": "Tribunal Supremo",
+  "type": "organization",
+  "locale": "es",
+  "canonicalPath": "/es/organization/tribunal-supremo",
+  "canonicalUrl": "https://atlas.lootura.com/es/organization/tribunal-supremo",
+  "markdownUrl": "https://atlas.lootura.com/es/organization/tribunal-supremo/index.md",
+  "jsonUrl": "https://atlas.lootura.com/es/organization/tribunal-supremo/index.json",
+  "description": "Sigue la actividad de Tribunal Supremo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
+  "updatedAt": "2026-07-22T02:26:20.882Z",
+  "aliases": [],
+  "changes": [
+    {
+      "title": "Julio Iglesias defiende su honor contra Yolanda Díaz: los límites del poder político",
+      "summary": "Durante toda su vida Julio Iglesias ha sorteado rumores, exclusivas y titulares de toda condición sin hacer de los tribunales su escenario. Esta vez, sin embargo, ha decidido sentar frente a un juez a una vicepresidenta del Gobierno. El cantante ha presentado una demanda civil ante el Tribunal Supremo contra Yolanda Dí.",
+      "date": "2026-07-22"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Tribunal Supremo first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-07-22"
+    },
+    {
+      "title": "Vox lleva a la Junta Electoral al Supremo para forzar su intervención en la ‘ley de nietos’",
+      "summary": "Vox recurrirá ante el Tribunal Supremo la resolución de la Junta Electoral Central (JEC) que afirma no tener competencias para suspender el voto por correo exterior, como reclamó el partido de Santiago Abascal, al creer que se está adulterando el censo por la denominada ley de nietos . En su reunión del pasado 16 de ju.",
+      "date": "2026-07-21"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Julio Iglesias defiende su honor contra Yolanda Díaz: los límites del poder político",
+      "url": "https://www.larazon.es/gente/poder/julio-iglesias-defiende-honor-yolanda-diaz-limites-poder-politico_202607226a60084ce3eb0b64aa4c6e2b.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-22T00:01:16.000Z",
+      "sourceId": "lootura-es-la-razon"
+    },
+    {
+      "title": "Vox lleva a la Junta Electoral al Supremo para forzar su intervención en la ‘ley de nietos’",
+      "url": "https://theobjective.com/espana/tribunales/2026-07-21/vox-recurrira-junta-electoral-ley-de-nietos/?utm_source=lootura.com",
+      "publishedAt": "2026-07-21T18:54:34.000Z",
+      "sourceId": "lootura-es-the-objective"
+    }
+  ],
+  "evidenceCount": 2
+}

@@ -8,14 +8,39 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/iran/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/iran/index.json",
   "description": "Follow Iran, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-21T21:06:38.270Z",
+  "updatedAt": "2026-07-22T02:26:42.354Z",
   "aliases": [
-    "Islamic Republic of Iran",
-    "ir",
+    "IRI",
     "Islamic Rep. Iran",
-    "IRI"
+    "Islamic Republic of Iran",
+    "ir"
   ],
   "changes": [
+    {
+      "title": "Funding milestone detected",
+      "summary": "The U.S. launched an 11th consecutive night of strikes against Iran on Tuesday. CBS News' Weijia Jiang reports on Defense Secretary Pete Hegseth's earlier testimony about the Pentagon's request for additional funding. Then, Washington Post national security reporter Noah Robertson joins with analysis.",
+      "date": "2026-07-22"
+    },
+    {
+      "title": "Funding milestone detected",
+      "summary": "Defense Secretary Pete Hegseth and Chairman of the Joint Chiefs Dan Caine testified Tuesday before a Senate panel to ask for an additional $67 billion to fight the war against Iran. CBS News' Caitlin Huey-Burns has more.",
+      "date": "2026-07-22"
+    },
+    {
+      "title": "What to know about Pickaxe Mountain, an Iranian target noted by Trump",
+      "summary": "President Trump on Tuesday threatened to attack Pickaxe Mountain in Iran, a secure facility allegedly used for nuclear activity. CBS News national security analyst Aaron MacLean has more.",
+      "date": "2026-07-22"
+    },
+    {
+      "title": "Hegseth puts cost of Iran war at $37.5 billion as the Pentagon seeks more money",
+      "summary": "The defense secretary’s estimate, revealed at a combative Senate hearing, is up from the $25 billion Pentagon officials gave in late April. NBC News has reported the amount is much higher.",
+      "date": "2026-07-22"
+    },
+    {
+      "title": "With His Latest Threats, Trump Signals to Iran That He Is Willing to Escalate",
+      "summary": "President Trump is facing a critical moment in the war, which has failed to bring about the “unconditional surrender” he once demanded.",
+      "date": "2026-07-22"
+    },
     {
       "title": "Funding milestone detected",
       "summary": "Iran-backed Houthis say they will blockade anothe waterway, threatening Red Sea shipping, Pete Hegseth heads to the Hill looking for $350 billion funding boost, Arizona voters head to the polls.",
@@ -24,11 +49,6 @@
     {
       "title": "The U.S. Is Pulling Back on Energy Efficiency",
       "summary": "The Trump administration is undoing fuel-saving efforts even as war in Iran, data centers and heat waves are pushing up gasoline and electricity costs.",
-      "date": "2026-07-21"
-    },
-    {
-      "title": "Houthis in Yemen Edge Closer to Entering U.S.-Iran War",
-      "summary": "The Iran-backed Houthi militia in Yemen has declared a Red Sea blockade on Saudi Arabia, potentially opening a new front in the war rippling across the Middle East.",
       "date": "2026-07-21"
     },
     {
@@ -42,36 +62,22 @@
       "date": "2026-07-21"
     },
     {
-      "title": "Iran retaliates after U.S. military carries out 10th night of strikes",
-      "summary": "The U.S. carried out its 10th consecutive night of strikes against Iran. Tehran said it retaliated by targeting U.S. assets in Kuwait, Bahrain and Jordan. CBS News' Charlie D'Agata reports.",
-      "date": "2026-07-21"
-    },
-    {
       "title": "Friends remember 19-year-old U.S. soldier Isabella Gonzales after death in Iran strike",
       "summary": "Isabella Gonzales' friends in Texas are fondly remembering the fallen soldier as they come to terms with her death on Friday in the U.S. war with Iran. CBS News Texas reports.",
-      "date": "2026-07-21"
-    },
-    {
-      "title": "Funding milestone detected",
-      "summary": "Defense secretary Pete Hegseth will appear on the Hill on Tuesday. He's looking for a nearly $90 billion funding boost, as the Iran war once again flares.",
-      "date": "2026-07-21"
-    },
-    {
-      "title": "Sen. Chris Murphy on the Iran war and Pete Hegseth's upcoming Senate testimony",
-      "summary": "NPR's Michel Martin speaks with Sen. Chris Murphy, D-Conn., about the escalating war in the Middle East and the testimony of Defense Secretary Pete Hegseth in front of a Senate panel on Tuesday.",
-      "date": "2026-07-21"
-    },
-    {
-      "title": "Pentagon Identifies Soldier Killed in Iran War as Sgt. Michael Emmanuel Swinton",
-      "summary": "Sgt. Michael Emmanuel Swinton, the 17th service member to be named, was killed during the disposal of a drone in northern Iraq.",
       "date": "2026-07-21"
     }
   ],
   "sources": [
     {
-      "title": "2 soldiers from Texas and Hawaii killed in Iran strike in Jordan; 1 still missing",
-      "url": "https://www.cbsnews.com/news/iran-strike-jordan-us-troops-killed/?utm_source=lootura.com",
-      "publishedAt": "2026-07-21T13:37:29.000Z",
+      "title": "U.S. launches strikes on Iran for 11th consecutive night",
+      "url": "https://www.cbsnews.com/video/us-launches-strikes-iran-11th-consecutive-night/?utm_source=lootura.com",
+      "publishedAt": "2026-07-22T02:11:05.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
+    {
+      "title": "Takeaways from Hegseth's Senate hearing over Iran war funding",
+      "url": "https://www.cbsnews.com/video/takeaways-from-hegseth-senate-hearing-over-iran-war-funding/?utm_source=lootura.com",
+      "publishedAt": "2026-07-22T01:35:46.000Z",
       "sourceId": "lootura-us-cbs-news"
     },
     {
@@ -87,9 +93,9 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "Iran retaliates after U.S. military carries out 10th night of strikes",
-      "url": "https://www.cbsnews.com/video/us-carries-out-tenth-night-of-strikes-on-iran/?utm_source=lootura.com",
-      "publishedAt": "2026-07-21T13:21:00.000Z",
+      "title": "What to know about Pickaxe Mountain, an Iranian target noted by Trump",
+      "url": "https://www.cbsnews.com/video/what-to-know-about-pickaxe-mountain-an-iranian-target-noted-by-trump/?utm_source=lootura.com",
+      "publishedAt": "2026-07-22T01:56:08.000Z",
       "sourceId": "lootura-us-cbs-news"
     },
     {
@@ -99,35 +105,29 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
+      "title": "Hegseth puts cost of Iran war at $37.5 billion as the Pentagon seeks more money",
+      "url": "https://www.nbcnews.com/politics/trump-administration/iran-war-cost-estimate-37-billion-pete-hegseth-senate-hearing-rcna588619?utm_source=lootura.com",
+      "publishedAt": "2026-07-22T00:22:24.000Z",
+      "sourceId": "lootura-us-nbc-news-politics"
+    },
+    {
+      "title": "Secretary Hegseth grilled over growing cost of war with Iran",
+      "url": "https://www.nbcnews.com/nightly-news/video/secretary-hegseth-grilled-over-growing-cost-of-war-with-iran-267052101969?utm_source=lootura.com",
+      "publishedAt": "2026-07-21T22:44:47.000Z",
+      "sourceId": "lootura-us-nbc-news-politics"
+    },
+    {
       "title": "Morning news brief",
       "url": "https://www.npr.org/2026/07/21/nx-s1-5895979/morning-news-brief?utm_source=lootura.com",
       "publishedAt": "2026-07-21T08:44:49.000Z",
       "sourceId": "lootura-us-npr"
     },
     {
-      "title": "Defense Secretary Pete Hegseth goes to the Hill with nearly $90B funding request",
-      "url": "https://www.npr.org/2026/07/21/nx-s1-5900838/defense-secretary-pete-hegseth-goes-to-the-hill-with-350b-funding-request?utm_source=lootura.com",
-      "publishedAt": "2026-07-21T10:41:41.000Z",
-      "sourceId": "lootura-us-npr-politics"
-    },
-    {
-      "title": "Sen. Chris Murphy on the Iran war and Pete Hegseth's upcoming Senate testimony",
-      "url": "https://www.npr.org/2026/07/21/nx-s1-5900980/sen-chris-murphy-on-the-iran-war-and-pete-hegseths-upcoming-senate-testimony?utm_source=lootura.com",
-      "publishedAt": "2026-07-21T10:41:37.000Z",
-      "sourceId": "lootura-us-npr-politics"
-    },
-    {
-      "title": "Pentagon Identifies Soldier Killed in Iran War as Sgt. Michael Emmanuel Swinton",
-      "url": "https://www.nytimes.com/2026/07/21/us/pentagon-identifies-soldier-iran-war-emmanuel-swinton.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-21T20:25:29.000Z",
-      "sourceId": "lootura-us-the-new-york-times"
-    },
-    {
-      "title": "Hegseth and Caine Will Appear Before Senators to Seek More Money for Iran War",
-      "url": "https://www.nytimes.com/2026/07/21/us/iran-war-funding.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-21T16:54:59.000Z",
-      "sourceId": "lootura-us-the-new-york-times"
+      "title": "Senators grilled Hegseth on Iran. Here are 3 big moments from the hearing",
+      "url": "https://www.pbs.org/newshour/politics/senators-grilled-hegseth-on-iran-here-are-3-big-moments-from-the-hearing?utm_source=lootura.com",
+      "publishedAt": "2026-07-21T23:00:45.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
     }
   ],
-  "evidenceCount": 12
+  "evidenceCount": 17
 }

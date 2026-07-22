@@ -8,16 +8,16 @@
   "markdownUrl": "https://atlas.lootura.com/es/object/casa-blanca/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/object/casa-blanca/index.json",
   "description": "Sigue la actividad de mansión exclusiva en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-21T10:23:08.875Z",
+  "updatedAt": "2026-07-22T02:26:20.882Z",
   "aliases": [
-    "La Casa Blanca",
-    "mansión exclusiva",
+    "1600 Pennsylvania Avenue",
     "Executive Mansion",
+    "La Casa Blanca",
+    "President's House",
     "President's Palace",
     "Presidential Mansion",
-    "President's House",
-    "the White House",
-    "1600 Pennsylvania Avenue"
+    "mansión exclusiva",
+    "the White House"
   ],
   "changes": [
     {
@@ -61,6 +61,13 @@
       "date": "2026-07-14"
     }
   ],
-  "sources": [],
+  "sources": [
+    {
+      "title": "La Casa Blanca reacciona a la gorra de Ferran Torres: “Todo el mundo quiere subirse a la ola”",
+      "url": "https://www.lavanguardia.com/deportes/futbol/20260722/11598170/casa-blanca-reacciona-gorra-ferran-torres-mundo-quiere-subirse-ola.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-21T22:19:21.000Z",
+      "sourceId": "lootura-es-la-vanguardia"
+    }
+  ],
   "evidenceCount": 0
 }

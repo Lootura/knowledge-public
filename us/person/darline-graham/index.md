@@ -70,4 +70,4 @@ Date: 2026-07-16
 
 ## Sources
 
-- [There’s a power struggle brewing in South Carolina, and Trump might not win](https://www.politico.com/news/2026/07/21/south-carolina-trump-graham-test-01005834?utm_source=lootura.com) — 2026-07-21T08:45:00.000Z
+No public source links.

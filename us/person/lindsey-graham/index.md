@@ -3,20 +3,20 @@
 > Follow Lindsey Graham, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-07-21T21:06:38.270Z
+- Updated: 2026-07-22T02:26:42.354Z
 - Canonical: https://atlas.lootura.com/us/person/lindsey-graham
 
 ## Recent changes
 
-### There’s a power struggle brewing in South Carolina, and Trump might not win
-
-The race to fill Lindsey Graham’s seat has created a new test of President Donald Trump’s power. South Carolina Republicans aren’t sure Trump will pass. Sen. Darline Graham, who was appointed last week to fill the remainder of her late brother's term, announced Monday she will seek a full term for her brother’s old sea.
-
-Date: 2026-07-21
-
 ### South Carolina Senate poll shows surprising frontrunner: Trey Gowdy
 
 Former Rep. Trey Gowdy insists he’s not interested in running in the South Carolina special election. But a new poll suggests Gowdy would be formidable if he changed his mind. Gowdy holds a massive lead over seven other potential and declared GOP candidates for the late Sen. Lindsey Graham’s seat, according to a poll f.
+
+Date: 2026-07-21
+
+### There’s a power struggle brewing in South Carolina, and Trump might not win
+
+The race to fill Lindsey Graham’s seat has created a new test of President Donald Trump’s power. South Carolina Republicans aren’t sure Trump will pass. Sen. Darline Graham, who was appointed last week to fill the remainder of her late brother's term, announced Monday she will seek a full term for her brother’s old sea.
 
 Date: 2026-07-21
 
@@ -70,5 +70,4 @@ Date: 2026-07-17
 
 ## Sources
 
-- [There’s a power struggle brewing in South Carolina, and Trump might not win](https://www.politico.com/news/2026/07/21/south-carolina-trump-graham-test-01005834?utm_source=lootura.com) — 2026-07-21T08:45:00.000Z
 - [South Carolina Senate poll shows surprising frontrunner: Trey Gowdy](https://www.politico.com/news/2026/07/21/south-carolina-senate-poll-trey-gowdy-graham-01006741?utm_source=lootura.com) — 2026-07-21T19:47:06.000Z

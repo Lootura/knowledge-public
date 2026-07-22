@@ -70,4 +70,4 @@ Date: 2026-07-17
 
 ## Fuentes
 
-- [La Audiencia de Vizcaya absuelve a un guardia municipal de San Sebastián acusado de agredir sexualmente a una compañera en las fiestas de Bilbao.](https://www.larazon.es/pais-vasco/audiencia-vizcaya-absuelve-guardia-municipal-san-sebastian-acusado-agredir-sexualmente-companera-fiestas-bilbao_202607216a5fa5a3303ca6202cc3c548.html?utm_source=lootura.com) — 2026-07-21T17:00:19.000Z
+No public source links.

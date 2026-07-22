@@ -3,10 +3,40 @@
 > Follow Iran, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-21T21:06:38.270Z
+- Updated: 2026-07-22T02:26:42.354Z
 - Canonical: https://atlas.lootura.com/us/place/iran
 
 ## Recent changes
+
+### Funding milestone detected
+
+The U.S. launched an 11th consecutive night of strikes against Iran on Tuesday. CBS News' Weijia Jiang reports on Defense Secretary Pete Hegseth's earlier testimony about the Pentagon's request for additional funding. Then, Washington Post national security reporter Noah Robertson joins with analysis.
+
+Date: 2026-07-22
+
+### Funding milestone detected
+
+Defense Secretary Pete Hegseth and Chairman of the Joint Chiefs Dan Caine testified Tuesday before a Senate panel to ask for an additional $67 billion to fight the war against Iran. CBS News' Caitlin Huey-Burns has more.
+
+Date: 2026-07-22
+
+### What to know about Pickaxe Mountain, an Iranian target noted by Trump
+
+President Trump on Tuesday threatened to attack Pickaxe Mountain in Iran, a secure facility allegedly used for nuclear activity. CBS News national security analyst Aaron MacLean has more.
+
+Date: 2026-07-22
+
+### Hegseth puts cost of Iran war at $37.5 billion as the Pentagon seeks more money
+
+The defense secretary’s estimate, revealed at a combative Senate hearing, is up from the $25 billion Pentagon officials gave in late April. NBC News has reported the amount is much higher.
+
+Date: 2026-07-22
+
+### With His Latest Threats, Trump Signals to Iran That He Is Willing to Escalate
+
+President Trump is facing a critical moment in the war, which has failed to bring about the “unconditional surrender” he once demanded.
+
+Date: 2026-07-22
 
 ### Funding milestone detected
 
@@ -17,12 +47,6 @@ Date: 2026-07-21
 ### The U.S. Is Pulling Back on Energy Efficiency
 
 The Trump administration is undoing fuel-saving efforts even as war in Iran, data centers and heat waves are pushing up gasoline and electricity costs.
-
-Date: 2026-07-21
-
-### Houthis in Yemen Edge Closer to Entering U.S.-Iran War
-
-The Iran-backed Houthi militia in Yemen has declared a Red Sea blockade on Saudi Arabia, potentially opening a new front in the war rippling across the Middle East.
 
 Date: 2026-07-21
 
@@ -38,45 +62,21 @@ A retired Jordanian general tells CBS News Iran is "developing techniques and ca
 
 Date: 2026-07-21
 
-### Iran retaliates after U.S. military carries out 10th night of strikes
-
-The U.S. carried out its 10th consecutive night of strikes against Iran. Tehran said it retaliated by targeting U.S. assets in Kuwait, Bahrain and Jordan. CBS News' Charlie D'Agata reports.
-
-Date: 2026-07-21
-
 ### Friends remember 19-year-old U.S. soldier Isabella Gonzales after death in Iran strike
 
 Isabella Gonzales' friends in Texas are fondly remembering the fallen soldier as they come to terms with her death on Friday in the U.S. war with Iran. CBS News Texas reports.
 
 Date: 2026-07-21
 
-### Funding milestone detected
-
-Defense secretary Pete Hegseth will appear on the Hill on Tuesday. He's looking for a nearly $90 billion funding boost, as the Iran war once again flares.
-
-Date: 2026-07-21
-
-### Sen. Chris Murphy on the Iran war and Pete Hegseth's upcoming Senate testimony
-
-NPR's Michel Martin speaks with Sen. Chris Murphy, D-Conn., about the escalating war in the Middle East and the testimony of Defense Secretary Pete Hegseth in front of a Senate panel on Tuesday.
-
-Date: 2026-07-21
-
-### Pentagon Identifies Soldier Killed in Iran War as Sgt. Michael Emmanuel Swinton
-
-Sgt. Michael Emmanuel Swinton, the 17th service member to be named, was killed during the disposal of a drone in northern Iraq.
-
-Date: 2026-07-21
-
 ## Sources
 
-- [2 soldiers from Texas and Hawaii killed in Iran strike in Jordan; 1 still missing](https://www.cbsnews.com/news/iran-strike-jordan-us-troops-killed/?utm_source=lootura.com) — 2026-07-21T13:37:29.000Z
+- [U.S. launches strikes on Iran for 11th consecutive night](https://www.cbsnews.com/video/us-launches-strikes-iran-11th-consecutive-night/?utm_source=lootura.com) — 2026-07-22T02:11:05.000Z
+- [Takeaways from Hegseth's Senate hearing over Iran war funding](https://www.cbsnews.com/video/takeaways-from-hegseth-senate-hearing-over-iran-war-funding/?utm_source=lootura.com) — 2026-07-22T01:35:46.000Z
 - [Watch Live: Hegseth and Caine testify before Senate panel amid escalating Iran war](https://www.cbsnews.com/news/hegseth-caine-senate-hearing-iran/?utm_source=lootura.com) — 2026-07-21T21:01:01.000Z
 - [Deadly attack on U.S. forces in Jordan part of evolving Iranian tactics](https://www.cbsnews.com/news/iran-us-war-iranian-missiles-evading-defenses-to-kill-american-soldiers/?utm_source=lootura.com) — 2026-07-21T16:36:00.000Z
-- [Iran retaliates after U.S. military carries out 10th night of strikes](https://www.cbsnews.com/video/us-carries-out-tenth-night-of-strikes-on-iran/?utm_source=lootura.com) — 2026-07-21T13:21:00.000Z
+- [What to know about Pickaxe Mountain, an Iranian target noted by Trump](https://www.cbsnews.com/video/what-to-know-about-pickaxe-mountain-an-iranian-target-noted-by-trump/?utm_source=lootura.com) — 2026-07-22T01:56:08.000Z
 - [Friends remember 19-year-old U.S. soldier Isabella Gonzales after death in Iran strike](https://www.cbsnews.com/video/friends-remember-fallen-19-year-old-us-soldier-isabella-gonzales/?utm_source=lootura.com) — 2026-07-21T20:48:50.000Z
+- [Hegseth puts cost of Iran war at $37.5 billion as the Pentagon seeks more money](https://www.nbcnews.com/politics/trump-administration/iran-war-cost-estimate-37-billion-pete-hegseth-senate-hearing-rcna588619?utm_source=lootura.com) — 2026-07-22T00:22:24.000Z
+- [Secretary Hegseth grilled over growing cost of war with Iran](https://www.nbcnews.com/nightly-news/video/secretary-hegseth-grilled-over-growing-cost-of-war-with-iran-267052101969?utm_source=lootura.com) — 2026-07-21T22:44:47.000Z
 - [Morning news brief](https://www.npr.org/2026/07/21/nx-s1-5895979/morning-news-brief?utm_source=lootura.com) — 2026-07-21T08:44:49.000Z
-- [Defense Secretary Pete Hegseth goes to the Hill with nearly $90B funding request](https://www.npr.org/2026/07/21/nx-s1-5900838/defense-secretary-pete-hegseth-goes-to-the-hill-with-350b-funding-request?utm_source=lootura.com) — 2026-07-21T10:41:41.000Z
-- [Sen. Chris Murphy on the Iran war and Pete Hegseth's upcoming Senate testimony](https://www.npr.org/2026/07/21/nx-s1-5900980/sen-chris-murphy-on-the-iran-war-and-pete-hegseths-upcoming-senate-testimony?utm_source=lootura.com) — 2026-07-21T10:41:37.000Z
-- [Pentagon Identifies Soldier Killed in Iran War as Sgt. Michael Emmanuel Swinton](https://www.nytimes.com/2026/07/21/us/pentagon-identifies-soldier-iran-war-emmanuel-swinton.html?utm_source=lootura.com) — 2026-07-21T20:25:29.000Z
-- [Hegseth and Caine Will Appear Before Senators to Seek More Money for Iran War](https://www.nytimes.com/2026/07/21/us/iran-war-funding.html?utm_source=lootura.com) — 2026-07-21T16:54:59.000Z
+- [Senators grilled Hegseth on Iran. Here are 3 big moments from the hearing](https://www.pbs.org/newshour/politics/senators-grilled-hegseth-on-iran-here-are-3-big-moments-from-the-hearing?utm_source=lootura.com) — 2026-07-21T23:00:45.000Z

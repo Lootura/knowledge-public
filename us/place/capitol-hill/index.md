@@ -3,10 +3,16 @@
 > Follow Capitol Hill, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-21T06:26:28.839Z
+- Updated: 2026-07-22T02:26:42.354Z
 - Canonical: https://atlas.lootura.com/us/place/capitol-hill
 
 ## Recent changes
+
+### Hegseth says Iran war has cost $37.5B so far and Pentagon needs $67B to restock arms
+
+President Trump's top military advisors were on Capitol Hill to make the case for the war in Iran, and additional money to fund the Pentagon. Secretary of Defense Pete Hegseth and Joint Chiefs Chairman Gen. Dan Caine argued for an additional $67 billion, what Hegseth called an urgent and necessary injection of funds. N.
+
+Date: 2026-07-21
 
 ### Democrats avoid a messy fight in Maine, but uncertainty lingers: From the Politics Desk
 
@@ -64,4 +70,4 @@ Date: 2026-07-12
 
 ## Sources
 
-No public source links.
+- [Hegseth says Iran war has cost $37.5B so far and Pentagon needs $67B to restock arms](https://www.pbs.org/newshour/show/hegseth-says-iran-war-has-cost-37-5b-so-far-and-pentagon-needs-67b-to-restock-arms?utm_source=lootura.com) — 2026-07-21T22:55:58.000Z

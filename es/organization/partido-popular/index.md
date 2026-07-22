@@ -3,10 +3,16 @@
 > Sigue la actividad de Partido Popular en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-21T21:06:12.863Z
+- Actualizado: 2026-07-22T02:26:20.882Z
 - Canonical: https://atlas.lootura.com/es/organization/partido-popular
 
 ## Cambios recientes
+
+### Vox se ofende con el PP y asegura que se presentará en toda España
+
+Los populares estudiaban un pacto para que Vox no concurriera en algunas provincias y no dividir el voto.
+
+Date: 2026-07-22
 
 ### Vox se adelanta al PP: recurre al Supremo y mira a la Audiencia Nacional y al TJUE para frenar la ley de nietos
 
@@ -23,6 +29,12 @@ Date: 2026-07-21
 ### Feijóo se adelanta a Sánchez en el balance del curso para aprovechar el misil lanzado por Julio Martínez
 
 El líder del PP, Alberto Núñez Feijóo, ha decidido no esperar a la comparecencia ante la prensa de Pedro Sánchez el próximo martes 28 y se adelanta a este miércoles para valorar el curso político que toca a su fin. Lo hará después del misil lanzado por el empresario 'Julito' Martínez ante el juez de la Audiencia Nacion.
+
+Date: 2026-07-21
+
+### PP y Vox llevan por primera vez a una ley la "prioridad nacional" con la aprobación de los presupuestos de la Generalitat Valenciana
+
+Ambos partidos acuerdan acotarla al "arraigo real" mientras el Gobierno de España amenaza con recurrir la norma ante el Constitucional Leer.
 
 Date: 2026-07-21
 
@@ -56,21 +68,10 @@ En junio de 2016, una mujer colombiana con doble nacionalidad apareció en un v�
 
 Date: 2026-07-20
 
-### Así funciona la campaña permanente del PP que tiene a Abascal en sus oraciones
-
-Alberto Núñez Feijóo ha decidido dejar de mirar el calendario de Pedro Sánchez. Aunque nadie sabe cuándo convocará las próximas elecciones generales y el presidente del Gobierno insiste en mantener la incógnita mientras reivindica su intención de agotar la legislatura, el líder del PP ha puesto en marcha una estrategia.
-
-Date: 2026-07-20
-
-### «Antes de que se carguen la pantalla, me llevan por delante», dice la secretaria general del PP vasco
-
-Esther Martínez, portavoz y candidata a la Alcaldía en Bilbao, se enfrenta a los radicales que querían boicotear la televisión gigante del parque.
-
-Date: 2026-07-19
-
 ## Fuentes
 
 - [Vox se adelanta al PP: recurre al Supremo y mira a la Audiencia Nacional y al TJUE para frenar la ley de nietos](https://www.elconfidencial.com/espana/2026-07-21/vox-pp-y-audiencia-nacional-tjue-ley-de-nietos_4393702/?utm_source=lootura.com) — 2026-07-21T18:14:00.000Z
 - [El PP apunta a Sánchez por el 'caso ZP' y avisa de que «este chanchullo se los puede llevar a los dos por delante»](https://www.elcorreo.com/politica/pp-apunta-gobierno-tras-revelaciones-julio-martinez-20260721134247-ntrc_amp.html?utm_source=lootura.com) — 2026-07-21T11:42:47.000Z
 - [Feijóo se adelanta a Sánchez en el balance del curso para aprovechar el misil lanzado por Julio Martínez](https://www.elindependiente.com/espana/2026/07/21/feijoo-se-adelanta-a-sanchez-en-el-balance-del-curso-para-aprovechar-el-misil-lanzado-por-julio-martinez/?utm_source=lootura.com) — 2026-07-21T17:29:59.000Z
-- [Un juez abre juicio oral al número 2 de Diana Morant por un delito de calumnias contra el PP](https://okdiario.com/espana/juez-abre-juicio-oral-numero-2-diana-morant-delito-calumnias-contra-pp-19039288?utm_source=lootura.com) — 2026-07-21T19:05:17.000Z
+- [PP y Vox llevan por primera vez a una ley la "prioridad nacional" con la aprobación de los presupuestos de la Generalitat Valenciana](https://www.elmundo.es/comunidad-valenciana/2026/07/21/6a5faad5fc6c83204d8b458e.html?utm_source=lootura.com) — 2026-07-21T20:43:55.000Z
+- [Vox se ofende con el PP y asegura que se presentará en toda España](https://www.larazon.es/espana/vox-ofende-asegura-que-presentara-toda-espana_202607226a5fb15fe3eb0b64aa4bff6e.html?outputType=amp&utm_source=lootura.com) — 2026-07-22T01:20:17.000Z

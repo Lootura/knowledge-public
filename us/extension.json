@@ -1,16 +1,16 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-21T21:26:05.746Z",
+  "generatedAt": "2026-07-22T02:34:52.715Z",
   "radar": {
     "id": "usa",
     "slug": "us",
     "locale": "en"
   },
   "state": {
-    "signature": "1.18.0|6|1784667998270",
+    "signature": "1.18.0|7|1784687202354",
     "version": "1.18.0",
-    "build": 6,
-    "latestEntityUpdatedAt": "2026-07-21T21:06:38.270Z"
+    "build": 7,
+    "latestEntityUpdatedAt": "2026-07-22T02:26:42.354Z"
   },
   "atlas": {
     "hero": {
@@ -20,23 +20,23 @@
       "title": "Funding milestone detected",
       "url": "https://atlas.lootura.com/us/place/iran",
       "path": "/us/place/iran",
-      "updatedAt": "2026-07-21T21:06:38.270Z",
-      "score": 1707,
-      "sourceCount": 171,
+      "updatedAt": "2026-07-22T02:26:42.354Z",
+      "score": 1675,
+      "sourceCount": 178,
       "isBreaking": false,
       "isPinned": false
     },
     "cards": [
       {
-        "id": "usa-canada",
-        "name": "Canada",
+        "id": "usa-united-states",
+        "name": "United States",
         "type": "place",
-        "title": "Trump hits Canada with slew of new 50% tariffs set to take effect in 30 days",
-        "url": "https://atlas.lootura.com/us/place/canada",
-        "path": "/us/place/canada",
-        "updatedAt": "2026-07-21T21:06:38.270Z",
-        "score": 1661,
-        "sourceCount": 40,
+        "title": "Funding milestone detected",
+        "url": "https://atlas.lootura.com/us/place/united-states",
+        "path": "/us/place/united-states",
+        "updatedAt": "2026-07-22T02:26:42.354Z",
+        "score": 1654,
+        "sourceCount": 349,
         "isBreaking": false,
         "isPinned": false
       },
@@ -44,42 +44,42 @@
         "id": "usa-donald-trump",
         "name": "Donald Trump",
         "type": "person",
-        "title": "Ex-U.S. attorney in Seattle sues Trump over firing",
+        "title": "What to know about Pickaxe Mountain, an Iranian target noted by Trump",
         "url": "https://atlas.lootura.com/us/person/donald-trump",
         "path": "/us/person/donald-trump",
-        "updatedAt": "2026-07-21T21:06:38.270Z",
-        "score": 1659,
-        "sourceCount": 298,
+        "updatedAt": "2026-07-22T02:26:42.354Z",
+        "score": 1642,
+        "sourceCount": 304,
         "isBreaking": false,
         "isPinned": false
       },
       {
-        "id": "usa-united-states",
-        "name": "United States",
+        "id": "usa-ukraine",
+        "name": "Ukraine",
         "type": "place",
-        "title": "The U.S. Is Pulling Back on Energy Efficiency",
-        "url": "https://atlas.lootura.com/us/place/united-states",
-        "path": "/us/place/united-states",
-        "updatedAt": "2026-07-21T21:06:38.270Z",
-        "score": 1659,
-        "sourceCount": 341,
+        "title": "Ukraine’s Zelenskyy fires his commander in chief after protests and major rift",
+        "url": "https://atlas.lootura.com/us/place/ukraine",
+        "path": "/us/place/ukraine",
+        "updatedAt": "2026-07-22T02:26:42.354Z",
+        "score": 1635,
+        "sourceCount": 59,
         "isBreaking": false,
         "isPinned": false
       },
       {
-        "id": "usa-new-jersey",
-        "name": "New Jersey",
+        "id": "usa-canada",
+        "name": "Canada",
         "type": "place",
-        "title": "6,600 noncitizens registered to vote by New Jersey motor vehicle system error, Gov. Sherill says",
-        "url": "https://atlas.lootura.com/us/place/new-jersey",
-        "path": "/us/place/new-jersey",
-        "updatedAt": "2026-07-21T21:06:38.270Z",
-        "score": 1652,
-        "sourceCount": 4,
+        "title": "Canada cancels joint bridge-opening celebration with US amid trade tensions",
+        "url": "https://atlas.lootura.com/us/place/canada",
+        "path": "/us/place/canada",
+        "updatedAt": "2026-07-22T02:26:42.354Z",
+        "score": 1632,
+        "sourceCount": 41,
         "isBreaking": false,
         "isPinned": false
       }
     ],
-    "publicEntityCount": 62
+    "publicEntityCount": 61
   }
 }

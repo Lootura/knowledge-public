@@ -46,4 +46,4 @@ Date: 2026-07-18
 
 ## Fuentes
 
-- [El incendio de Guadalajara roza las 30.000 hectáreas quemadas y ya hay 34 municipios desalojados](https://elpais.com/espana/2026-07-21/el-incendio-de-guadalajara-roza-las-30000-hectareas-quemadas-y-ya-hay-34-municipios-desalojados.html?utm_source=lootura.com) — 2026-07-21T10:12:14.000Z
+No public source links.

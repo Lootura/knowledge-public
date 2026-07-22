@@ -10,8 +10,8 @@
   "description": "Sigue la actividad de Pedro Porro en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
   "updatedAt": "2026-07-21T21:06:12.863Z",
   "aliases": [
-    "Porro",
-    "Pedro Antonio Porro Sauceda"
+    "Pedro Antonio Porro Sauceda",
+    "Porro"
   ],
   "changes": [
     {
@@ -40,13 +40,6 @@
       "date": "2026-07-14"
     }
   ],
-  "sources": [
-    {
-      "title": "El mensaje de unidad de Llorente con recado a la ultraizquierda: «Qué maravilla ver una España así»",
-      "url": "https://okdiario.com/deportes/mensaje-unidad-llorente-recado-ultraizquierda-que-maravilla-ver-espana-asi-19043455?utm_source=lootura.com",
-      "publishedAt": "2026-07-21T20:02:57.000Z",
-      "sourceId": "lootura-es-ok-diario"
-    }
-  ],
+  "sources": [],
   "evidenceCount": 0
 }

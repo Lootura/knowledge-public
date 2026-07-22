@@ -3,7 +3,7 @@
 > Sigue la actividad de Audiencia Nacional (España) en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-21T21:06:12.863Z
+- Actualizado: 2026-07-22T02:26:20.882Z
 - Canonical: https://atlas.lootura.com/es/organization/audiencia-nacional
 
 ## Cambios recientes
@@ -70,7 +70,6 @@ Date: 2026-07-20
 
 ## Fuentes
 
-- [Ni Ábalos, ni Leire, ni Julito: estas tramas tienen su 'X'](https://www.abc.es/opinion/editorial-abalos-leire-julito-tramas-20260721193423-nt.html?utm_source=lootura.com) — 2026-07-21T20:12:05.000Z
+- [Ni Ábalos, ni Leire, ni Julito: estas tramas tienen su 'X'](https://www.abc.es/opinion/editorial-abalos-leire-julito-tramas-20260721193423-nt.html?utm_source=lootura.com) — 2026-07-21T23:32:50.000Z
 - [Vox se adelanta al PP: recurre al Supremo y mira a la Audiencia Nacional y al TJUE para frenar la ley de nietos](https://www.elconfidencial.com/espana/2026-07-21/vox-pp-y-audiencia-nacional-tjue-ley-de-nietos_4393702/?utm_source=lootura.com) — 2026-07-21T18:14:00.000Z
 - [El pagador de Zapatero declara ante el juez que el ex presidente le anticipó que el Gobierno iba a aprobar el rescate de Plus Ultra](https://amp.elmundo.es/espana/2026/07/21/6a5f3001e4d4d886458b4577.html?utm_source=lootura.com) — 2026-07-21T11:30:12.000Z
-- [‘Julito’ Martínez endosa a Zapatero cuatro delitos que sumarían hasta 22 años de cárcel](https://okdiario.com/espana/julito-martinez-endosa-zapatero-cuatro-delitos-que-sumarian-hasta-22-anos-carcel-19042873?utm_source=lootura.com) — 2026-07-21T19:02:52.000Z

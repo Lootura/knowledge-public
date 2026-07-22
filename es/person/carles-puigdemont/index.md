@@ -1,9 +1,9 @@
-# Carles Puigdemont i Casamajó
+# Carles Puigdemont Casamajó
 
-> Sigue la actividad de Carles Puigdemont i Casamajó en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
+> Sigue la actividad de Carles Puigdemont Casamajó en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-21T21:06:12.863Z
+- Actualizado: 2026-07-22T02:26:20.882Z
 - Canonical: https://atlas.lootura.com/es/person/carles-puigdemont
 
 ## Cambios recientes
@@ -59,4 +59,3 @@ Date: 2026-07-16
 ## Fuentes
 
 - [Puigdemont denuncia a España ante la Comisión Europea por incumplir de la Ley de Amnistía](https://okdiario.com/espana/puigdemont-denuncia-espana-comision-europea-incumplir-ley-amnistia-19043545/amp?utm_source=lootura.com) — 2026-07-21T20:37:19.000Z
-- [El Supremo avala la destrucción del material del 1-O tras rechazar dárselo a Puigdemont](https://theobjective.com/espana/tribunales/2026-07-21/supremo-destruccion-material-1-o-puigdemont/?utm_source=lootura.com) — 2026-07-21T16:45:43.000Z

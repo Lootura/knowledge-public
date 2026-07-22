@@ -1,19 +1,19 @@
 {
   "id": "es-ferran-torres",
-  "name": "Ferran Torres García",
+  "name": "\"El Tiburón\"",
   "type": "person",
   "locale": "es",
   "canonicalPath": "/es/person/ferran-torres",
   "canonicalUrl": "https://atlas.lootura.com/es/person/ferran-torres",
   "markdownUrl": "https://atlas.lootura.com/es/person/ferran-torres/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/ferran-torres/index.json",
-  "description": "Sigue la actividad de Ferran Torres García en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-21T21:06:12.863Z",
+  "description": "Sigue la actividad de \"El Tiburón\" en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
+  "updatedAt": "2026-07-22T02:26:20.882Z",
   "aliases": [
+    "\"El Tiburón\"",
     "Ferran",
-    "Torres",
     "Ferran Torres García",
-    "\"El Tiburón\""
+    "Torres"
   ],
   "changes": [
     {
@@ -54,11 +54,11 @@
   ],
   "sources": [
     {
-      "title": "La Casa Blanca comparte fotos de Ferran y su gorra con referencia a Trump: \"Todos quieren sumarse\"",
-      "url": "https://www.20minutos.es/deportes/futbol/casa-blanca-comparte-imagenes-ferran-torres-su-gorra-con-referencia-trump-todos-quieren-sumarse-movimiento_7017422_0.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-21T20:15:48.000Z",
-      "sourceId": "lootura-es-20minutos"
+      "title": "La Casa Blanca reacciona a la gorra de Ferran Torres: “Todo el mundo quiere subirse a la ola”",
+      "url": "https://www.lavanguardia.com/deportes/futbol/20260722/11598170/casa-blanca-reacciona-gorra-ferran-torres-mundo-quiere-subirse-ola.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-21T22:19:21.000Z",
+      "sourceId": "lootura-es-la-vanguardia"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 0
 }

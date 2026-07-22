@@ -1,21 +1,21 @@
 {
   "id": "es-carles-puigdemont",
-  "name": "Carles Puigdemont i Casamajó",
+  "name": "Carles Puigdemont Casamajó",
   "type": "person",
   "locale": "es",
   "canonicalPath": "/es/person/carles-puigdemont",
   "canonicalUrl": "https://atlas.lootura.com/es/person/carles-puigdemont",
   "markdownUrl": "https://atlas.lootura.com/es/person/carles-puigdemont/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/carles-puigdemont/index.json",
-  "description": "Sigue la actividad de Carles Puigdemont i Casamajó en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-21T21:06:12.863Z",
+  "description": "Sigue la actividad de Carles Puigdemont Casamajó en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
+  "updatedAt": "2026-07-22T02:26:20.882Z",
   "aliases": [
     "Carles",
-    "Puigdemont",
-    "Carles Puigdemont i Casamajó",
     "Carles Puigdemont Casamajó",
+    "Carles Puigdemont i Casamajó",
     "Carlos Puigdemont",
-    "Carlos Puigdemont i Casamajó"
+    "Carlos Puigdemont i Casamajó",
+    "Puigdemont"
   ],
   "changes": [
     {
@@ -65,13 +65,7 @@
       "url": "https://okdiario.com/espana/puigdemont-denuncia-espana-comision-europea-incumplir-ley-amnistia-19043545/amp?utm_source=lootura.com",
       "publishedAt": "2026-07-21T20:37:19.000Z",
       "sourceId": "lootura-es-ok-diario"
-    },
-    {
-      "title": "El Supremo avala la destrucción del material del 1-O tras rechazar dárselo a Puigdemont",
-      "url": "https://theobjective.com/espana/tribunales/2026-07-21/supremo-destruccion-material-1-o-puigdemont/?utm_source=lootura.com",
-      "publishedAt": "2026-07-21T16:45:43.000Z",
-      "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

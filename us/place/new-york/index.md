@@ -3,10 +3,16 @@
 > Follow New York City, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-21T10:23:35.333Z
+- Updated: 2026-07-22T02:26:42.354Z
 - Canonical: https://atlas.lootura.com/us/place/new-york
 
 ## Recent changes
+
+### Mamdani Says Netanyahu Is a ‘War Criminal’ but New York Can’t Arrest Him
+
+Mayor Zohran Mamdani, in a video address, challenged the U.S. government to execute an international arrest warrant against the Israeli prime minister.
+
+Date: 2026-07-22
 
 ### Explosion outside New York federal building in Manhattan apparently caused by fireworks, sources say
 
@@ -62,12 +68,6 @@ WWE’s Saturday Night’s Main Event at Madison Square Garden featured a celebr
 
 Date: 2026-07-19
 
-### Caitlin Clark smacked in the face by WNBA legend after getting foul that could trigger fine in big win
-
-Caitlin Clark took a hit to the face, received a technical foul that could lead to a hefty fine, and still came away with a win and first place in the Eastern Conference on Saturday. Early in the first quarter of the Fever's 108-88 win over the New York Liberty , Clark was called for a technical foul after she ran full.
-
-Date: 2026-07-19
-
 ## Sources
 
-No public source links.
+- [Mamdani Says Netanyahu Is a ‘War Criminal’ but New York Can’t Arrest Him](https://www.nytimes.com/2026/07/21/nyregion/mamdani-netanyahu-arrest-warrant.html?utm_source=lootura.com) — 2026-07-22T01:48:41.000Z

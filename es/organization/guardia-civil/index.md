@@ -3,10 +3,16 @@
 > Sigue la actividad de Guardia Civil en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-21T10:23:08.875Z
+- Actualizado: 2026-07-22T02:26:20.882Z
 - Canonical: https://atlas.lootura.com/es/organization/guardia-civil
 
 ## Cambios recientes
+
+### Mandos de la Guardia Civil urgen a Marlaska cambiar la ley para poder disparar a los motores de las narcolanchas
+
+Urgen cambiar la ley y aseguran que en una macrooperación el DAO ordenó abrir fuego Leer.
+
+Date: 2026-07-21
 
 ### Detenido un hombre tras asesinar a su pareja con un arma blanca en Alameda de la Sagra (Toledo)
 
@@ -62,12 +68,6 @@ La declaración de la directora general de la Guardia Civil Mercedes González c
 
 Date: 2026-07-19
 
-### El alcalde de Vox señalado por el incendio de La Mierla niega haber estado en el lugar donde se originó el fuego
-
-Rubén Marchamalo ha comparecido esta tarde ante los medios de comunicación tras conocerse la investigación abierta por la Guardia Civil para determinar las circunstancias en las que produjo el siniestro. Se desmarca de lo ocurrido y apela a "la presunción de inocencia". Desde el partido exigen "disculpas públicas" por.
-
-Date: 2026-07-18
-
 ## Fuentes
 
-No public source links.
+- [Mandos de la Guardia Civil urgen a Marlaska cambiar la ley para poder disparar a los motores de las narcolanchas](https://www.elmundo.es/espana/2026/07/21/6a5fb961fdddff05188b456e.html?utm_source=lootura.com) — 2026-07-21T20:42:44.000Z

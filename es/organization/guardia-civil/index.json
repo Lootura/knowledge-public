@@ -8,9 +8,14 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/guardia-civil/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/guardia-civil/index.json",
   "description": "Sigue la actividad de Guardia Civil en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-21T10:23:08.875Z",
+  "updatedAt": "2026-07-22T02:26:20.882Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "Mandos de la Guardia Civil urgen a Marlaska cambiar la ley para poder disparar a los motores de las narcolanchas",
+      "summary": "Urgen cambiar la ley y aseguran que en una macrooperación el DAO ordenó abrir fuego Leer.",
+      "date": "2026-07-21"
+    },
     {
       "title": "Detenido un hombre tras asesinar a su pareja con un arma blanca en Alameda de la Sagra (Toledo)",
       "summary": "Una mujer ha sido asesinada este martes con un arma blanca por su pareja, un hombre de 48 años, que ha sido detenido por la Guardia Civil en la localidad toledana de Alameda de la Sagra. El servicio de emergencias 112 de Castilla-La Mancha ha informado a EFE de que la agresión se ha producido a las 5:16 horas en una vi.",
@@ -55,13 +60,15 @@
       "title": "La jefa política de la Guardia Civil se venga de Cerdán en «plato frío»",
       "summary": "La declaración de la directora general de la Guardia Civil Mercedes González como imputada por delitos de prevaricación y obstrucción a la Justicia ante el magistrado Santiago Pedraz no puede entenderse, según fuentes consultadas por este periódico y conocedoras de la relación de esta con el exsecretario de Organizació.",
       "date": "2026-07-19"
-    },
-    {
-      "title": "El alcalde de Vox señalado por el incendio de La Mierla niega haber estado en el lugar donde se originó el fuego",
-      "summary": "Rubén Marchamalo ha comparecido esta tarde ante los medios de comunicación tras conocerse la investigación abierta por la Guardia Civil para determinar las circunstancias en las que produjo el siniestro. Se desmarca de lo ocurrido y apela a \"la presunción de inocencia\". Desde el partido exigen \"disculpas públicas\" por.",
-      "date": "2026-07-18"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Mandos de la Guardia Civil urgen a Marlaska cambiar la ley para poder disparar a los motores de las narcolanchas",
+      "url": "https://www.elmundo.es/espana/2026/07/21/6a5fb961fdddff05188b456e.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-21T20:42:44.000Z",
+      "sourceId": "lootura-es-el-mundo"
+    }
+  ],
+  "evidenceCount": 1
 }

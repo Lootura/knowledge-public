@@ -8,23 +8,33 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/ukraine/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/ukraine/index.json",
   "description": "Follow Ukraine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-21T21:06:38.270Z",
+  "updatedAt": "2026-07-22T02:26:42.354Z",
   "aliases": [
     "Kyiv",
-    "Ukrainia",
     "Ukr.",
     "Ukraina",
+    "Ukrainia",
     "Ukraïna"
   ],
   "changes": [
     {
-      "title": "Ukraine’s Zelenskyy fires his commander-in-chief after protests and major rift",
-      "summary": "The Ukrainian president fired his commander-in-chief Oleksandr Syrskyi on Tuesday, bowing to pressure after the removal of popular Defense Minister Mykhailo Fedorov sparked the fiercest leadership crisis of his presidency.",
+      "title": "Ukraine’s Zelenskyy fires his commander in chief after protests and major rift",
+      "summary": "The firing caps a major crisis for Volodymyr Zelenskyy after Ukrainians took to the streets to call for Oleksandr Syrskyi’s resignation.",
       "date": "2026-07-21"
     },
     {
       "title": "Tech innovator and old guard general are focus of Ukraine's political crisis",
       "summary": "When their personalities and policies clashed, President Volodymyr Zelenskyy decided to fire popular young Defense Minister Mykhailo Fedorov and keep Gen. Oleksandr Syrskyi.",
+      "date": "2026-07-21"
+    },
+    {
+      "title": "News Wrap: Gulf Coast prepares for Tropical Storm Bertha",
+      "summary": "In our news wrap Tuesday, millions along the Gulf Coast are bracing for impacts from Tropical Storm Bertha, Ukrainian President Zelenskyy fired the commander-in-chief of Ukraine's armed forces in the latest shake-up of his top military ranks and New Jersey's governor said more than 6,000 noncitizens were registered to.",
+      "date": "2026-07-21"
+    },
+    {
+      "title": "Mykhailo Drapatyi: What to Know About Ukraine’s New Top General",
+      "summary": "Maj. Gen. Mykhailo Drapatyi, a decorated commander, is popular both inside and outside of his country.",
       "date": "2026-07-21"
     },
     {
@@ -56,24 +66,20 @@
       "title": "Russian attacks on Ukrainian cities kill 6 and expose defense gaps",
       "summary": "One person was killed and 16 others wounded in the overnight Russian attack on Kyiv, local authorities said.",
       "date": "2026-07-19"
-    },
-    {
-      "title": "Russia Batters Kyiv in One of the Largest Missile Assaults of the War",
-      "summary": "On Saturday, Ukraine hit two warehouses in Russia in strikes that killed at least eight people and injured 62.",
-      "date": "2026-07-19"
-    },
-    {
-      "title": "Ukraine’s Top General Becomes a Target of Protesters’ Anger",
-      "summary": "Demonstrators supporting Ukraine’s ousted defense minister have begun denouncing the commander he clashed with in office, Gen. Oleksandr Syrskyi.",
-      "date": "2026-07-19"
     }
   ],
   "sources": [
     {
-      "title": "Ukraine’s Zelenskyy fires his commander-in-chief after protests and major rift",
+      "title": "Ukraine’s Zelenskyy fires his commander in chief after protests and major rift",
       "url": "https://www.nbcnews.com/world/ukraine/ukraines-zelenskyy-fires-commander-chief-protests-major-rift-rcna588159?utm_source=lootura.com",
       "publishedAt": "2026-07-21T19:51:22.000Z",
       "sourceId": "lootura-us-nbc-news"
+    },
+    {
+      "title": "News Wrap: Gulf Coast prepares for Tropical Storm Bertha",
+      "url": "https://www.pbs.org/newshour/show/news-wrap-gulf-coast-prepares-for-tropical-storm-bertha?utm_source=lootura.com",
+      "publishedAt": "2026-07-21T22:45:25.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
     },
     {
       "title": "Tech innovator and old guard general are focus of Ukraine's political crisis",
@@ -82,11 +88,11 @@
       "sourceId": "lootura-us-pbs-newshour"
     },
     {
-      "title": "Zelensky Dismisses Ukraine’s Top General After Protests",
-      "url": "https://www.nytimes.com/2026/07/21/world/europe/ukraine-syrskyi-russia-war-fedorov-zelensky-protest.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-21T20:50:31.000Z",
-      "sourceId": "lootura-us-the-new-york-times-world"
+      "title": "Mykhailo Drapatyi: What to Know About Ukraine’s New Top General",
+      "url": "https://www.nytimes.com/2026/07/21/world/europe/ukraine-mykhailo-drapatyi.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-21T23:39:36.000Z",
+      "sourceId": "lootura-us-the-new-york-times"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 4
 }

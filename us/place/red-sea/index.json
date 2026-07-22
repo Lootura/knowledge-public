@@ -8,23 +8,18 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/red-sea/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/red-sea/index.json",
   "description": "Follow Red Sea, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-21T21:06:38.270Z",
+  "updatedAt": "2026-07-22T02:26:42.354Z",
   "aliases": [
-    "Sinus Arabicus",
     "Al Baḩr al Aḩmar",
-    "Erythraean Sea",
     "Arabian Gulf",
+    "Erythraean Sea",
+    "Sinus Arabicus",
     "the Red Sea"
   ],
   "changes": [
     {
       "title": "Funding milestone detected",
       "summary": "Iran-backed Houthis say they will blockade anothe waterway, threatening Red Sea shipping, Pete Hegseth heads to the Hill looking for $350 billion funding boost, Arizona voters head to the polls.",
-      "date": "2026-07-21"
-    },
-    {
-      "title": "Houthis in Yemen Edge Closer to Entering U.S.-Iran War",
-      "summary": "The Iran-backed Houthi militia in Yemen has declared a Red Sea blockade on Saudi Arabia, potentially opening a new front in the war rippling across the Middle East.",
       "date": "2026-07-21"
     },
     {
@@ -35,6 +30,11 @@
     {
       "title": "Trump says U.S. would have to 'take care' of potential Houthi blockade of Red Sea",
       "summary": "Asked about his level of concern about a blockade of the Red Sea by the Iranian-backed Houthi rebels, President Donald Trump suggested Tuesday it wasn't an immediate problem.",
+      "date": "2026-07-21"
+    },
+    {
+      "title": "Houthis in Yemen Edge Closer to Entering U.S.-Iran War",
+      "summary": "The Iran-backed Houthi militia in Yemen has declared a Red Sea blockade on Saudi Arabia, potentially opening a new front in the war rippling across the Middle East.",
       "date": "2026-07-21"
     }
   ],
@@ -50,13 +50,7 @@
       "url": "https://www.pbs.org/newshour/politics/watch-trump-says-u-s-would-have-to-take-care-of-potential-houthi-blockade-of-red-sea?utm_source=lootura.com",
       "publishedAt": "2026-07-21T20:25:18.000Z",
       "sourceId": "lootura-us-pbs-newshour"
-    },
-    {
-      "title": "Houthis in Yemen Edge Closer to Entering U.S.-Iran War",
-      "url": "https://www.nytimes.com/2026/07/21/world/middleeast/houthis-yemen-iran-war.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-21T18:16:45.000Z",
-      "sourceId": "lootura-us-the-new-york-times-world"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 2
 }

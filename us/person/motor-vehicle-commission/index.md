@@ -3,7 +3,7 @@
 > Follow Motor Vehicle Commission, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-07-21T21:06:38.270Z
+- Updated: 2026-07-22T02:26:42.354Z
 - Canonical: https://atlas.lootura.com/us/person/motor-vehicle-commission
 
 ## Recent changes

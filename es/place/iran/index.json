@@ -8,16 +8,21 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/iran/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/iran/index.json",
   "description": "Sigue la actividad de Irán en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-21T21:06:12.863Z",
+  "updatedAt": "2026-07-22T02:26:20.882Z",
   "aliases": [
+    "IRI",
+    "Islamic Rep. Iran",
+    "Islamic Republic of Iran",
     "República Islámica de Irán",
     "República Islámica del Irán",
-    "Islamic Republic of Iran",
-    "ir",
-    "Islamic Rep. Iran",
-    "IRI"
+    "ir"
   ],
   "changes": [
+    {
+      "title": "EEUU lanza nuevos ataques contra Irán que eclipsan los esfuerzos diplomáticos",
+      "summary": "Leer.",
+      "date": "2026-07-22"
+    },
     {
       "title": "La banca se apoya en la subida del euríbor para apuntar a nuevos máximos de beneficios",
       "summary": "El panorama de los bancos se ha dado la vuelta como un calcetín en los últimos meses. Si antes vivían una era de tipos a la baja e incrementos en la cartera de préstamos, la guerra en Irán ha girado los tornos. El Banco Central Europeo (BCE) ha subido el precio del dinero por primera vez en tres años mientras el euríbo.",
@@ -62,11 +67,6 @@
       "title": "El precio del petróleo modera su escalada tras anunciar Irán contactos con los mediadores",
       "summary": "La persistencia de la incertidumbre en Oriente Próximo ha llevado al precio del petróleo a superar por primera vez en más de un mes los 91 dólares por barril. Una escalada que se ha visto frenada tras el anuncio por parte del régimen iraní de contactos diplomáticos con los mediadores con Estados Unidos. El barril de br.",
       "date": "2026-07-20"
-    },
-    {
-      "title": "EEUU ataca Irán una noche más tras la muerte de dos de sus militares en una base en Jordania",
-      "summary": "Estados Unidos ha anunciado el inicio de una nueva ronda de bombardeos contra Irán por orden del presidente Donald Trump , en una operación que tiene como objetivo reducir las capacidades de Teherán para amenazar el tráfico marítimo en el estrecho de Ormuz y responder al ataque -atribuido al Cuerpo de la Guardia Revolu.",
-      "date": "2026-07-19"
     }
   ],
   "sources": [
@@ -77,10 +77,10 @@
       "sourceId": "lootura-es-cinco-dias"
     },
     {
-      "title": "An emerging Iran-Pakistan allegiance is reshaping southwest Asia’s power structures",
-      "url": "https://theconversation.com/an-emerging-iran-pakistan-allegiance-is-reshaping-southwest-asias-power-structures-287738?utm_source=lootura.com",
-      "publishedAt": "2026-07-21T15:50:51.000Z",
-      "sourceId": "lootura-es-the-conversation-espana"
+      "title": "EEUU lanza nuevos ataques contra Irán que eclipsan los esfuerzos diplomáticos",
+      "url": "https://www.elmundo.es/internacional/2026/07/22/6a601510fdddff835a8b456d.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-22T00:59:32.000Z",
+      "sourceId": "lootura-es-el-mundo"
     }
   ],
   "evidenceCount": 2

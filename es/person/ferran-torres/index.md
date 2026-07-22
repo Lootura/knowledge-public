@@ -1,9 +1,9 @@
-# Ferran Torres García
+# "El Tiburón"
 
-> Sigue la actividad de Ferran Torres García en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
+> Sigue la actividad de "El Tiburón" en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-21T21:06:12.863Z
+- Actualizado: 2026-07-22T02:26:20.882Z
 - Canonical: https://atlas.lootura.com/es/person/ferran-torres
 
 ## Cambios recientes
@@ -52,4 +52,4 @@ Date: 2026-07-19
 
 ## Fuentes
 
-- [La Casa Blanca comparte fotos de Ferran y su gorra con referencia a Trump: "Todos quieren sumarse"](https://www.20minutos.es/deportes/futbol/casa-blanca-comparte-imagenes-ferran-torres-su-gorra-con-referencia-trump-todos-quieren-sumarse-movimiento_7017422_0.html?utm_source=lootura.com) — 2026-07-21T20:15:48.000Z
+- [La Casa Blanca reacciona a la gorra de Ferran Torres: “Todo el mundo quiere subirse a la ola”](https://www.lavanguardia.com/deportes/futbol/20260722/11598170/casa-blanca-reacciona-gorra-ferran-torres-mundo-quiere-subirse-ola.html?utm_source=lootura.com) — 2026-07-21T22:19:21.000Z

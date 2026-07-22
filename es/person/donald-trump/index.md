@@ -3,20 +3,20 @@
 > Sigue la actividad de Donald Trump en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-21T21:06:12.863Z
+- Actualizado: 2026-07-22T02:26:20.882Z
 - Canonical: https://atlas.lootura.com/es/person/donald-trump
 
 ## Cambios recientes
 
-### Trump da inmunidad a Delcy ante la Justicia estadounidense mientras siga en el poder
-
-Una carta del Departamento de Estado reclama el rápido archivo de un caso por la vía civil debido a sus importantes implicaciones de política exterior.
-
-Date: 2026-07-21
-
 ### Trump pide inmunidad judicial para Delcy Rodríguez mientras siga en el poder
 
 La Administración de Donald Trump ha pedido al Departamento de Justicia de Estados Unidos que garantice la inmunidad judicial de la presidenta interina de.
+
+Date: 2026-07-21
+
+### Trump da inmunidad a Delcy ante la Justicia estadounidense mientras siga en el poder
+
+Una carta del Departamento de Estado reclama el rápido archivo de un caso por la vía civil debido a sus importantes implicaciones de política exterior.
 
 Date: 2026-07-21
 
@@ -70,6 +70,4 @@ Date: 2026-07-18
 
 ## Fuentes
 
-- [La Casa Blanca comparte fotos de Ferran y su gorra con referencia a Trump: "Todos quieren sumarse"](https://www.20minutos.es/deportes/futbol/casa-blanca-comparte-imagenes-ferran-torres-su-gorra-con-referencia-trump-todos-quieren-sumarse-movimiento_7017422_0.html?utm_source=lootura.com) — 2026-07-21T20:15:48.000Z
-- [Trump da inmunidad a Delcy ante la Justicia estadounidense mientras siga en el poder](https://www.abc.es/internacional/trump-inmunidad-delcy-ante-justicia-estadounidense-siga-20260720213736-nt_amp.html?utm_source=lootura.com) — 2026-07-21T19:38:00.000Z
 - [Trump pide inmunidad judicial para Delcy Rodríguez mientras siga en el poder](https://theobjective.com/internacional/2026-07-21/trump-inmunidad-delcy-rodriguez/?amp=&utm_source=lootura.com) — 2026-07-21T20:53:36.000Z

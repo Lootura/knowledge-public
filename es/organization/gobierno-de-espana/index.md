@@ -3,10 +3,16 @@
 > Sigue la actividad de Gobierno de España en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-16T20:54:41.819Z
+- Actualizado: 2026-07-22T02:26:20.882Z
 - Canonical: https://atlas.lootura.com/es/organization/gobierno-de-espana
 
 ## Cambios recientes
+
+### PP y Vox llevan por primera vez a una ley la "prioridad nacional" con la aprobación de los presupuestos de la Generalitat Valenciana
+
+Ambos partidos acuerdan acotarla al "arraigo real" mientras el Gobierno de España amenaza con recurrir la norma ante el Constitucional Leer.
+
+Date: 2026-07-21
 
 ### El trilero y Gibraltar
 
@@ -62,12 +68,6 @@ El expresidente del Gobierno español Mariano Rajoy ha suscitado este domingo un
 
 Date: 2026-07-12
 
-### Discovered by Atlas
-
-Gobierno de España first entered the public knowledge record with source-backed evidence.
-
-Date: 2026-07-10
-
 ## Fuentes
 
-No public source links.
+- [PP y Vox llevan por primera vez a una ley la "prioridad nacional" con la aprobación de los presupuestos de la Generalitat Valenciana](https://www.elmundo.es/comunidad-valenciana/2026/07/21/6a5faad5fc6c83204d8b458e.html?utm_source=lootura.com) — 2026-07-21T20:43:55.000Z

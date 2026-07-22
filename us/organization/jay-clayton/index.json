@@ -1,0 +1,70 @@
+{
+  "id": "usa-jay-clayton",
+  "name": "Jay Clayton",
+  "type": "organization",
+  "locale": "en",
+  "canonicalPath": "/us/organization/jay-clayton",
+  "canonicalUrl": "https://atlas.lootura.com/us/organization/jay-clayton",
+  "markdownUrl": "https://atlas.lootura.com/us/organization/jay-clayton/index.md",
+  "jsonUrl": "https://atlas.lootura.com/us/organization/jay-clayton/index.json",
+  "description": "Follow Jay Clayton, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
+  "updatedAt": "2026-07-22T02:26:42.354Z",
+  "aliases": [],
+  "changes": [
+    {
+      "title": "Senate panel advances Jay Clayton's nomination for director of national intelligence",
+      "summary": "The 9-8 vote came after some Democrats had praised Clayton and indicated that they might vote for him. But that shifted after a contentious hearing last week in which Clayton repeatedly refused to say that former President Joe Biden won the 2020 election.",
+      "date": "2026-07-22"
+    },
+    {
+      "title": "Senate Panel Advances Jay Clayton as Next Spy Chief on Party-Line Vote",
+      "summary": "If the full Senate confirms him as expected, Mr. Clayton will take over the Office of the Director of National Intelligence from Bill Pulte, a housing official with little national security experience.",
+      "date": "2026-07-21"
+    },
+    {
+      "title": "Week in Politics: Trump's speech; midterm elections; Todd Blanche and Jay Clayton",
+      "summary": "Three months from the November midterms, President Trump is drawing attention to issues that are not top priorities for voters.",
+      "date": "2026-07-18"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Jay Clayton first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-07-15"
+    },
+    {
+      "title": "Clayton Dodges Question on 2020 Election, and Democrats Call Him on It",
+      "summary": "Jay Clayton’s nomination to lead the U.S. intelligence community comes as the White House pushes to use declassified intelligence to show concerns about election security.",
+      "date": "2026-07-15"
+    },
+    {
+      "title": "Trump's intelligence nominee refuses to say who won 2020 election",
+      "summary": "Jay Clayton appeared before the Senate Intelligence Committee for his confirmation hearing to become director of national intelligence. The job is largely focused on foreign threats and national security, but much of the hearing focused instead on the recent past. Nick Schifrin reports and discusses the hearing with Fr.",
+      "date": "2026-07-15"
+    },
+    {
+      "title": "Trump's intelligence head pick Jay Clayton gives opening statement at Senate committee hearing",
+      "summary": "Trump's pick for director of national intelligence, Jay Clayton, addressed the Senate Intelligence Committee before his confirmation hearing on Tuesday.",
+      "date": "2026-07-15"
+    },
+    {
+      "title": "Watch Live: Jay Clayton, Trump",
+      "summary": "Clayton, currently the U.S. attorney for the Southern District of New York, is expected to succeed Bill Pulte, Trump.",
+      "date": "2026-07-15"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Senate panel advances Jay Clayton's nomination for director of national intelligence",
+      "url": "https://www.pbs.org/newshour/politics/senate-panel-advances-jay-claytons-nomination-for-director-of-national-intelligence?utm_source=lootura.com",
+      "publishedAt": "2026-07-22T00:26:02.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
+    },
+    {
+      "title": "Senate Panel Advances Jay Clayton as Next Spy Chief on Party-Line Vote",
+      "url": "https://www.nytimes.com/2026/07/21/us/politics/senate-panel-jay-clayton-spy-chief.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-21T21:38:00.000Z",
+      "sourceId": "lootura-us-the-new-york-times-politics"
+    }
+  ],
+  "evidenceCount": 2
+}

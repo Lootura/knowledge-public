@@ -2,17 +2,11 @@
 
 > Sigue la actividad de El Gobierno en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
-- Type: person
-- Actualizado: 2026-07-21T21:06:12.863Z
+- Type: organization
+- Actualizado: 2026-07-22T02:26:20.882Z
 - Canonical: https://atlas.lootura.com/es/person/el-gobierno
 
 ## Cambios recientes
-
-### El Gobierno nombra a Juan José Ganuza presidente de la CNMC y tres consejeros afines
-
-El Consejo de Ministros ha aprobado el nombramiento de Juan José Ganuza Fernández como nuevo presidente de la Comisión Nacional de los Mercados y la Competencia (CNMC) , así como de Joan Capdevila, Carmen Balsa y Marina Echebarría como consejeros de la misma entidad.La oficialización de estas designaciones se producen.
-
-Date: 2026-07-21
 
 ### El Gobierno de Pradales anuncia que no habrá recibimiento a los jugadores vascos de La Roja
 
@@ -29,6 +23,18 @@ Date: 2026-07-21
 ### El Gobierno reitera su confianza en Zapatero pese al nerviosismo creciente en el PSOE
 
 La incomodidad es cada vez más palmaria, pero el Gobierno mantiene su apoyo a José Luis Rodríguez Zapatero tras el terremoto político que ha provocado Julio Martínez al señalar al expresidente como la persona que “marcaba los pasos a seguir” en el rescate de 53 millones de euros de Plus Ultra. Un giro en su estrategia.
+
+Date: 2026-07-21
+
+### El Gobierno pone límites a los niños 'influencers' tras aparcar la norma de la IA
+
+El Consejo de Ministros aprobó este martes el decreto que actualiza la relación laboral especial de los artistas y del personal técnico, y que incorpora algunas de las reivindicaciones previstas en el Estatuto del Artista. La norma, elaborada por el Ministerio de Trabajo junto con el de Cultura regula el trabajo de los.
+
+Date: 2026-07-21
+
+### El Gobierno nombra a Juan José Ganuza presidente de la CNMC y tres consejeros afines
+
+El Consejo de Ministros ha aprobado el nombramiento de Juan José Ganuza Fernández como nuevo presidente de la Comisión Nacional de los Mercados y la Competencia (CNMC) , así como de Joan Capdevila, Carmen Balsa y Marina Echebarría como consejeros de la misma entidad.La oficialización de estas designaciones se producen.
 
 Date: 2026-07-21
 
@@ -62,15 +68,9 @@ El Gobierno de Castilla-La Mancha se encuentra perfilando una estrategia de actu
 
 Date: 2026-07-19
 
-### «El Gobierno ha perdido una oportunidad histórica en Gibraltar»
-
-La colonia británica es una vieja conocida para Nicolás de la Parte. Su primer destino en la carrera diplomática fue en la Dirección General de Europa a cargo de los asuntos de Gibraltar entre 1987 y 1988, cuando se negociaba el acuerdo para el uso conjunto del aeropuerto que no llegó a término. En 2017 fue designado e.
-
-Date: 2026-07-19
-
 ## Fuentes
 
-- [El Gobierno nombra a Juan José Ganuza presidente de la CNMC y tres consejeros afines](https://www.abc.es/economia/gobierno-nombra-juan-jose-ganuza-presidente-cnmc-20260721212746-nt.html?utm_source=lootura.com) — 2026-07-21T20:18:02.000Z
+- [El Gobierno pone límites a los niños 'influencers' tras aparcar la norma de la IA](https://www.abc.es/cultura/gobierno-pone-limites-ninos-influencers-tras-aparcar-20260721123806-nt.html?utm_source=lootura.com) — 2026-07-21T23:44:10.000Z
 - [El Gobierno de Pradales anuncia que no habrá recibimiento a los jugadores vascos de La Roja](https://www.elcorreo.com/politica/gobierno-pradales-deja-aire-recibimiento-jugadores-vascos-20260721132932-nt_amp.html?utm_source=lootura.com) — 2026-07-21T11:29:33.000Z
 - [El Gobierno sigue manteniendo la "inocencia" de Zapatero y defiende como "correcta" la concesión del rescate a Plus Ultra](https://amp.elmundo.es/espana/2026/07/21/6a5f5acffc6c83723b8b45a4.html?utm_source=lootura.com) — 2026-07-21T11:41:55.000Z
 - [El Gobierno reitera su confianza en Zapatero pese al nerviosismo creciente en el PSOE](https://elpais.com/espana/2026-07-21/el-gobierno-reitera-su-confianza-en-zapatero-pese-al-nerviosismo-creciente-en-el-psoe.html?utm_source=lootura.com) — 2026-07-21T12:49:44.000Z

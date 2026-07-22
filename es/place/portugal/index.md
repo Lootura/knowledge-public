@@ -70,4 +70,4 @@ Date: 2026-07-10
 
 ## Fuentes
 
-- [Muere repentinamente un futbolista de 26 años haciendo running en Portugal](https://okdiario.com/deportes/muere-repentinamente-futbolista-26-anos-haciendo-running-portugal-19042670?utm_source=lootura.com) — 2026-07-21T17:02:49.000Z
+No public source links.

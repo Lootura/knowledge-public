@@ -8,17 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/audiencia-nacional/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/audiencia-nacional/index.json",
   "description": "Sigue la actividad de Audiencia Nacional (España) en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-21T21:06:12.863Z",
+  "updatedAt": "2026-07-22T02:26:20.882Z",
   "aliases": [
-    "La Audiencia Nacional",
-    "Audiencia Nacional (España)",
-    "Audiencia nacional de españa",
-    "Audiencia Nacional de Espana",
-    "Audiencia Nacional española",
     "Audiencia Nacional (Espana)",
+    "Audiencia Nacional (España)",
+    "Audiencia Nacional de Espana",
     "Audiencia Nacional espanola",
+    "Audiencia Nacional española",
+    "Audiencia Nacional of Spain",
     "Audiencia nacional de espana",
-    "Audiencia Nacional of Spain"
+    "Audiencia nacional de españa",
+    "La Audiencia Nacional"
   ],
   "changes": [
     {
@@ -76,7 +76,7 @@
     {
       "title": "Ni Ábalos, ni Leire, ni Julito: estas tramas tienen su 'X'",
       "url": "https://www.abc.es/opinion/editorial-abalos-leire-julito-tramas-20260721193423-nt.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-21T20:12:05.000Z",
+      "publishedAt": "2026-07-21T23:32:50.000Z",
       "sourceId": "lootura-es-abc"
     },
     {
@@ -90,13 +90,7 @@
       "url": "https://amp.elmundo.es/espana/2026/07/21/6a5f3001e4d4d886458b4577.html?utm_source=lootura.com",
       "publishedAt": "2026-07-21T11:30:12.000Z",
       "sourceId": "lootura-es-el-mundo"
-    },
-    {
-      "title": "‘Julito’ Martínez endosa a Zapatero cuatro delitos que sumarían hasta 22 años de cárcel",
-      "url": "https://okdiario.com/espana/julito-martinez-endosa-zapatero-cuatro-delitos-que-sumarian-hasta-22-anos-carcel-19042873?utm_source=lootura.com",
-      "publishedAt": "2026-07-21T19:02:52.000Z",
-      "sourceId": "lootura-es-ok-diario"
     }
   ],
-  "evidenceCount": 4
+  "evidenceCount": 3
 }

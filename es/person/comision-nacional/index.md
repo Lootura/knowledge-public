@@ -28,5 +28,4 @@ Date: 2026-07-21
 
 ## Fuentes
 
-- [El Gobierno nombra a Juan José Ganuza presidente de la CNMC y tres consejeros afines](https://www.abc.es/economia/gobierno-nombra-juan-jose-ganuza-presidente-cnmc-20260721212746-nt.html?utm_source=lootura.com) — 2026-07-21T20:18:02.000Z
-- [Meliá completa su salida de Cuba tras cancelar todos sus contratos y servicios en la isla](https://www.elindependiente.com/economia/2026/07/21/melia-abandona-definitivamente-cuba-cancela-contratos/?utm_source=lootura.com) — 2026-07-21T16:20:24.000Z
+No public source links.

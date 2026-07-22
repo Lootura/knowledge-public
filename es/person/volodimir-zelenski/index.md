@@ -3,14 +3,14 @@
 > Sigue la actividad de Volodímir Zelenski en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-21T21:06:12.863Z
+- Actualizado: 2026-07-22T02:26:20.882Z
 - Canonical: https://atlas.lootura.com/es/person/volodimir-zelenski
 
 ## Cambios recientes
 
 ### Zelenski releva al jefe del ejército en Ucrania tras seis días de protestas
 
-El presidente de Ucrania, Volodímir Zelenski , ha anunciado en la noche del martes el relevo al frente del ejército que hace frente a la invasión rusa del país . El hasta ahora jefe de las Fuerzas Armadas, el general Oleksandr Sirski, deja paso a Mijailo Drapaty, que hasta ahora ocupaba también un alto cargo militar. L.
+El presidente de Ucrania, Volodímir Zelenski , ha anunciado en la noche del martes el relevo al frente del ejército que lucha contra la invasión rusa del país . El hasta ahora jefe de las Fuerzas Armadas, el general Oleksandr Sirski, deja paso a Mijailo Drapaty, que hasta ahora ocupaba también un alto cargo militar. La.
 
 Date: 2026-07-21
 
@@ -22,7 +22,7 @@ Date: 2026-07-21
 
 ### Discovered by Atlas
 
-Volodimir Zelenski first entered the public knowledge record with source-backed evidence.
+Volodímir Zelenski first entered the public knowledge record with source-backed evidence.
 
 Date: 2026-07-16
 
@@ -41,4 +41,3 @@ Date: 2026-07-16
 ## Fuentes
 
 - [Zelenski releva al jefe del ejército en Ucrania tras seis días de protestas](https://elpais.com/internacional/2026-07-21/zelenski-releva-al-jefe-del-ejercito-en-ucrania-tras-seis-dias-de-protestas.html?utm_source=lootura.com) — 2026-07-21T20:31:17.000Z
-- [Zelenski cesa al jefe del Ejército y lo reemplaza por el general Mijailo Drapati](https://www.larazon.es/internacional/zelenski-cesa-jefe-ejercito-reemplaza-general-mijailo-drapati_202607216a5fd6de303ca6202cc40aa5.html?utm_source=lootura.com) — 2026-07-21T20:30:23.000Z

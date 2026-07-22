@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://atlas.lootura.com/us/</loc><lastmod>2026-07-21T21:06:38.270Z</lastmod></url>
-  <url><loc>https://atlas.lootura.com/us/entities/</loc><lastmod>2026-07-21T21:06:38.270Z</lastmod></url>
+  <url><loc>https://atlas.lootura.com/us/</loc><lastmod>2026-07-22T02:26:42.354Z</lastmod></url>
+  <url><loc>https://atlas.lootura.com/us/entities/</loc><lastmod>2026-07-22T02:26:42.354Z</lastmod></url>
   <url><loc>https://atlas.lootura.com/us/about/</loc></url>
   <url><loc>https://atlas.lootura.com/us/updates/</loc><lastmod>2026-07-22</lastmod></url>
   <url><loc>https://atlas.lootura.com/us/concept/air-force-one</loc><lastmod>2026-07-21T21:06:38.270Z</lastmod></url>
@@ -10,21 +10,20 @@
   <url><loc>https://atlas.lootura.com/us/person/andy-burnham</loc><lastmod>2026-07-21T10:23:35.333Z</lastmod></url>
   <url><loc>https://atlas.lootura.com/us/person/angus-king</loc><lastmod>2026-07-15T10:00:29.427Z</lastmod></url>
   <url><loc>https://atlas.lootura.com/us/company/apple</loc><lastmod>2026-07-21T21:06:38.270Z</lastmod></url>
-  <url><loc>https://atlas.lootura.com/us/topic/artificial-intelligence</loc><lastmod>2026-07-21T21:06:38.270Z</lastmod></url>
+  <url><loc>https://atlas.lootura.com/us/topic/artificial-intelligence</loc><lastmod>2026-07-22T02:26:42.354Z</lastmod></url>
   <url><loc>https://atlas.lootura.com/us/person/attorney-general</loc><lastmod>2026-07-15T20:58:15.661Z</lastmod></url>
   <url><loc>https://atlas.lootura.com/us/place/barcelona</loc><lastmod>2026-07-20T21:10:24.211Z</lastmod></url>
   <url><loc>https://atlas.lootura.com/us/event/bastille-day</loc><lastmod>2026-07-14T20:58:39.119Z</lastmod></url>
   <url><loc>https://atlas.lootura.com/us/place/bears-ears</loc><lastmod>2026-07-14T20:58:39.119Z</lastmod></url>
-  <url><loc>https://atlas.lootura.com/us/place/canada</loc><lastmod>2026-07-21T21:06:38.270Z</lastmod></url>
-  <url><loc>https://atlas.lootura.com/us/place/capitol-hill</loc><lastmod>2026-07-21T06:26:28.839Z</lastmod></url>
+  <url><loc>https://atlas.lootura.com/us/place/canada</loc><lastmod>2026-07-22T02:26:42.354Z</lastmod></url>
+  <url><loc>https://atlas.lootura.com/us/place/capitol-hill</loc><lastmod>2026-07-22T02:26:42.354Z</lastmod></url>
   <url><loc>https://atlas.lootura.com/us/person/charlie-kirk</loc><lastmod>2026-07-11T16:55:14.081Z</lastmod></url>
-  <url><loc>https://atlas.lootura.com/us/place/china</loc><lastmod>2026-07-21T21:06:38.270Z</lastmod></url>
+  <url><loc>https://atlas.lootura.com/us/place/china</loc><lastmod>2026-07-22T02:26:42.354Z</lastmod></url>
   <url><loc>https://atlas.lootura.com/us/person/darline-graham</loc><lastmod>2026-07-21T21:06:38.270Z</lastmod></url>
-  <url><loc>https://atlas.lootura.com/us/person/defense-minister-mykhailo</loc><lastmod>2026-07-21T21:06:38.270Z</lastmod></url>
-  <url><loc>https://atlas.lootura.com/us/person/defense-secretary-pete</loc><lastmod>2026-07-21T21:06:38.270Z</lastmod></url>
-  <url><loc>https://atlas.lootura.com/us/organization/democratic-party</loc><lastmod>2026-07-21T21:06:38.270Z</lastmod></url>
+  <url><loc>https://atlas.lootura.com/us/person/defense-secretary-pete</loc><lastmod>2026-07-22T02:26:42.354Z</lastmod></url>
+  <url><loc>https://atlas.lootura.com/us/organization/democratic-party</loc><lastmod>2026-07-22T02:26:42.354Z</lastmod></url>
   <url><loc>https://atlas.lootura.com/us/organization/democratic-senate</loc><lastmod>2026-07-21T10:23:35.333Z</lastmod></url>
-  <url><loc>https://atlas.lootura.com/us/person/donald-trump</loc><lastmod>2026-07-21T21:06:38.270Z</lastmod></url>
+  <url><loc>https://atlas.lootura.com/us/person/donald-trump</loc><lastmod>2026-07-22T02:26:42.354Z</lastmod></url>
   <url><loc>https://atlas.lootura.com/us/person/elena-kagan</loc><lastmod>2026-07-15T20:58:15.661Z</lastmod></url>
   <url><loc>https://atlas.lootura.com/us/person/erica-schwartz</loc><lastmod>2026-07-16T13:45:32.280Z</lastmod></url>
   <url><loc>https://atlas.lootura.com/us/place/espana</loc><lastmod>2026-07-21T21:06:38.270Z</lastmod></url>
@@ -33,124 +32,126 @@
   <url><loc>https://atlas.lootura.com/us/person/graham-platner</loc><lastmod>2026-07-21T10:23:35.333Z</lastmod></url>
   <url><loc>https://atlas.lootura.com/us/place/grand-staircase</loc><lastmod>2026-07-14T20:58:39.119Z</lastmod></url>
   <url><loc>https://atlas.lootura.com/us/organization/immigration-and-customs-enforcement</loc><lastmod>2026-07-21T10:23:35.333Z</lastmod></url>
-  <url><loc>https://atlas.lootura.com/us/place/iran</loc><lastmod>2026-07-21T21:06:38.270Z</lastmod></url>
+  <url><loc>https://atlas.lootura.com/us/place/iran</loc><lastmod>2026-07-22T02:26:42.354Z</lastmod></url>
+  <url><loc>https://atlas.lootura.com/us/organization/jay-clayton</loc><lastmod>2026-07-22T02:26:42.354Z</lastmod></url>
   <url><loc>https://atlas.lootura.com/us/product/jurassic-park</loc><lastmod>2026-07-18T06:03:03.575Z</lastmod></url>
-  <url><loc>https://atlas.lootura.com/us/person/justice-department</loc><lastmod>2026-07-21T21:06:38.270Z</lastmod></url>
   <url><loc>https://atlas.lootura.com/us/person/keir-starmer</loc><lastmod>2026-07-20T21:10:24.211Z</lastmod></url>
-  <url><loc>https://atlas.lootura.com/us/person/lindsey-graham</loc><lastmod>2026-07-21T21:06:38.270Z</lastmod></url>
+  <url><loc>https://atlas.lootura.com/us/person/lindsey-graham</loc><lastmod>2026-07-22T02:26:42.354Z</lastmod></url>
   <url><loc>https://atlas.lootura.com/us/organization/maine-democratic-senate</loc><lastmod>2026-07-20T21:10:24.211Z</lastmod></url>
   <url><loc>https://atlas.lootura.com/us/organization/maine-senate</loc><lastmod>2026-07-21T10:23:35.333Z</lastmod></url>
-  <url><loc>https://atlas.lootura.com/us/place/maine</loc><lastmod>2026-07-21T21:06:38.270Z</lastmod></url>
+  <url><loc>https://atlas.lootura.com/us/place/maine</loc><lastmod>2026-07-22T02:26:42.354Z</lastmod></url>
   <url><loc>https://atlas.lootura.com/us/person/markwayne-mullin</loc><lastmod>2026-07-20T06:43:38.114Z</lastmod></url>
   <url><loc>https://atlas.lootura.com/us/place/middle-east</loc><lastmod>2026-07-21T21:06:38.270Z</lastmod></url>
-  <url><loc>https://atlas.lootura.com/us/person/mikie-sherrill</loc><lastmod>2026-07-21T21:06:38.270Z</lastmod></url>
-  <url><loc>https://atlas.lootura.com/us/person/motor-vehicle-commission</loc><lastmod>2026-07-21T21:06:38.270Z</lastmod></url>
+  <url><loc>https://atlas.lootura.com/us/person/mikie-sherrill</loc><lastmod>2026-07-22T02:26:42.354Z</lastmod></url>
+  <url><loc>https://atlas.lootura.com/us/person/motor-vehicle-commission</loc><lastmod>2026-07-22T02:26:42.354Z</lastmod></url>
   <url><loc>https://atlas.lootura.com/us/person/mykhailo-fedorov</loc><lastmod>2026-07-16T20:55:05.764Z</lastmod></url>
   <url><loc>https://atlas.lootura.com/us/organization/nato</loc><lastmod>2026-07-14T09:56:10.561Z</lastmod></url>
-  <url><loc>https://atlas.lootura.com/us/place/new-jersey</loc><lastmod>2026-07-21T21:06:38.270Z</lastmod></url>
-  <url><loc>https://atlas.lootura.com/us/place/new-york</loc><lastmod>2026-07-21T10:23:35.333Z</lastmod></url>
-  <url><loc>https://atlas.lootura.com/us/person/oleksandr-syrskyi</loc><lastmod>2026-07-21T21:06:38.270Z</lastmod></url>
+  <url><loc>https://atlas.lootura.com/us/place/new-jersey</loc><lastmod>2026-07-22T02:26:42.354Z</lastmod></url>
+  <url><loc>https://atlas.lootura.com/us/place/new-york</loc><lastmod>2026-07-22T02:26:42.354Z</lastmod></url>
+  <url><loc>https://atlas.lootura.com/us/person/oleksandr-syrskyi</loc><lastmod>2026-07-22T02:26:42.354Z</lastmod></url>
   <url><loc>https://atlas.lootura.com/us/object/oval-office</loc><lastmod>2026-07-14T20:58:39.119Z</lastmod></url>
-  <url><loc>https://atlas.lootura.com/us/place/red-sea</loc><lastmod>2026-07-21T21:06:38.270Z</lastmod></url>
-  <url><loc>https://atlas.lootura.com/us/place/russia</loc><lastmod>2026-07-21T21:06:38.270Z</lastmod></url>
-  <url><loc>https://atlas.lootura.com/us/place/south-carolina</loc><lastmod>2026-07-21T21:06:38.270Z</lastmod></url>
-  <url><loc>https://atlas.lootura.com/us/market/startups</loc><lastmod>2026-07-21T21:06:38.270Z</lastmod></url>
+  <url><loc>https://atlas.lootura.com/us/place/red-sea</loc><lastmod>2026-07-22T02:26:42.354Z</lastmod></url>
+  <url><loc>https://atlas.lootura.com/us/place/russia</loc><lastmod>2026-07-22T02:26:42.354Z</lastmod></url>
+  <url><loc>https://atlas.lootura.com/us/place/south-carolina</loc><lastmod>2026-07-22T02:26:42.354Z</lastmod></url>
+  <url><loc>https://atlas.lootura.com/us/market/startups</loc><lastmod>2026-07-22T02:26:42.354Z</lastmod></url>
   <url><loc>https://atlas.lootura.com/us/organization/supreme-court</loc><lastmod>2026-07-16T20:55:05.764Z</lastmod></url>
   <url><loc>https://atlas.lootura.com/us/organization/taco-bell</loc><lastmod>2026-07-18T16:55:42.019Z</lastmod></url>
-  <url><loc>https://atlas.lootura.com/us/company/taylor-farms</loc><lastmod>2026-07-21T21:06:38.270Z</lastmod></url>
+  <url><loc>https://atlas.lootura.com/us/company/taylor-farms</loc><lastmod>2026-07-22T02:26:42.354Z</lastmod></url>
   <url><loc>https://atlas.lootura.com/us/person/todd-blanche</loc><lastmod>2026-07-19T09:50:13.921Z</lastmod></url>
   <url><loc>https://atlas.lootura.com/us/person/tristan-tate</loc><lastmod>2026-07-21T10:23:35.333Z</lastmod></url>
   <url><loc>https://atlas.lootura.com/us/person/tyler-robinson</loc><lastmod>2026-07-11T16:55:14.081Z</lastmod></url>
-  <url><loc>https://atlas.lootura.com/us/place/ukraine</loc><lastmod>2026-07-21T21:06:38.270Z</lastmod></url>
-  <url><loc>https://atlas.lootura.com/us/place/united-states</loc><lastmod>2026-07-21T21:06:38.270Z</lastmod></url>
+  <url><loc>https://atlas.lootura.com/us/place/ukraine</loc><lastmod>2026-07-22T02:26:42.354Z</lastmod></url>
+  <url><loc>https://atlas.lootura.com/us/place/united-states</loc><lastmod>2026-07-22T02:26:42.354Z</lastmod></url>
   <url><loc>https://atlas.lootura.com/us/place/venezuela</loc><lastmod>2026-07-21T21:06:38.270Z</lastmod></url>
   <url><loc>https://atlas.lootura.com/us/product/warner-bros</loc><lastmod>2026-07-21T10:23:35.333Z</lastmod></url>
-  <url><loc>https://atlas.lootura.com/us/organization/white-house</loc><lastmod>2026-07-21T21:06:38.270Z</lastmod></url>
-  <url><loc>https://atlas.lootura.com/es/</loc><lastmod>2026-07-21T21:06:12.863Z</lastmod></url>
-  <url><loc>https://atlas.lootura.com/es/entities/</loc><lastmod>2026-07-21T21:06:12.863Z</lastmod></url>
+  <url><loc>https://atlas.lootura.com/us/organization/white-house</loc><lastmod>2026-07-22T02:26:42.354Z</lastmod></url>
+  <url><loc>https://atlas.lootura.com/es/</loc><lastmod>2026-07-22T02:26:20.882Z</lastmod></url>
+  <url><loc>https://atlas.lootura.com/es/entities/</loc><lastmod>2026-07-22T02:26:20.882Z</lastmod></url>
   <url><loc>https://atlas.lootura.com/es/about/</loc></url>
   <url><loc>https://atlas.lootura.com/es/updates/</loc><lastmod>2026-07-22</lastmod></url>
   <url><loc>https://atlas.lootura.com/es/person/alberto-ibanez</loc><lastmod>2026-07-21T10:23:08.875Z</lastmod></url>
-  <url><loc>https://atlas.lootura.com/es/person/alberto-nunez-feijoo</loc><lastmod>2026-07-21T21:06:12.863Z</lastmod></url>
-  <url><loc>https://atlas.lootura.com/es/company/apple</loc><lastmod>2026-07-21T21:06:12.863Z</lastmod></url>
-  <url><loc>https://atlas.lootura.com/es/topic/artificial-intelligence</loc><lastmod>2026-07-21T21:06:12.863Z</lastmod></url>
-  <url><loc>https://atlas.lootura.com/es/organization/audiencia-nacional</loc><lastmod>2026-07-21T21:06:12.863Z</lastmod></url>
+  <url><loc>https://atlas.lootura.com/es/person/alberto-nunez-feijoo</loc><lastmod>2026-07-22T02:26:20.882Z</lastmod></url>
+  <url><loc>https://atlas.lootura.com/es/company/apple</loc><lastmod>2026-07-22T02:26:20.882Z</lastmod></url>
+  <url><loc>https://atlas.lootura.com/es/topic/artificial-intelligence</loc><lastmod>2026-07-22T02:26:20.882Z</lastmod></url>
+  <url><loc>https://atlas.lootura.com/es/organization/audiencia-nacional</loc><lastmod>2026-07-22T02:26:20.882Z</lastmod></url>
   <url><loc>https://atlas.lootura.com/es/place/barcelona</loc><lastmod>2026-07-21T10:23:08.875Z</lastmod></url>
-  <url><loc>https://atlas.lootura.com/es/person/begona-gomez</loc><lastmod>2026-07-21T21:06:12.863Z</lastmod></url>
+  <url><loc>https://atlas.lootura.com/es/person/begona-gomez</loc><lastmod>2026-07-22T02:26:20.882Z</lastmod></url>
   <url><loc>https://atlas.lootura.com/es/place/belgium</loc><lastmod>2026-07-21T10:23:08.875Z</lastmod></url>
   <url><loc>https://atlas.lootura.com/es/place/canada</loc><lastmod>2026-07-21T02:27:26.549Z</lastmod></url>
-  <url><loc>https://atlas.lootura.com/es/person/carles-puigdemont</loc><lastmod>2026-07-21T21:06:12.863Z</lastmod></url>
-  <url><loc>https://atlas.lootura.com/es/object/casa-blanca</loc><lastmod>2026-07-21T10:23:08.875Z</lastmod></url>
+  <url><loc>https://atlas.lootura.com/es/person/carles-puigdemont</loc><lastmod>2026-07-22T02:26:20.882Z</lastmod></url>
+  <url><loc>https://atlas.lootura.com/es/object/casa-blanca</loc><lastmod>2026-07-22T02:26:20.882Z</lastmod></url>
   <url><loc>https://atlas.lootura.com/es/place/china</loc><lastmod>2026-07-21T10:23:08.875Z</lastmod></url>
   <url><loc>https://atlas.lootura.com/es/place/ciudad-lineal</loc><lastmod>2026-07-18T20:42:47.844Z</lastmod></url>
   <url><loc>https://atlas.lootura.com/es/place/ciudad-real</loc><lastmod>2026-07-19T16:56:12.315Z</lastmod></url>
   <url><loc>https://atlas.lootura.com/es/person/comision-nacional</loc><lastmod>2026-07-21T21:06:12.863Z</lastmod></url>
   <url><loc>https://atlas.lootura.com/es/place/comunidad-valenciana</loc><lastmod>2026-07-21T10:23:08.875Z</lastmod></url>
   <url><loc>https://atlas.lootura.com/es/organization/correos</loc><lastmod>2026-07-20T14:00:22.171Z</lastmod></url>
-  <url><loc>https://atlas.lootura.com/es/person/donald-trump</loc><lastmod>2026-07-21T21:06:12.863Z</lastmod></url>
-  <url><loc>https://atlas.lootura.com/es/place/el-consejo</loc><lastmod>2026-07-21T21:06:12.863Z</lastmod></url>
-  <url><loc>https://atlas.lootura.com/es/person/el-gobierno</loc><lastmod>2026-07-21T21:06:12.863Z</lastmod></url>
+  <url><loc>https://atlas.lootura.com/es/person/donald-trump</loc><lastmod>2026-07-22T02:26:20.882Z</lastmod></url>
+  <url><loc>https://atlas.lootura.com/es/place/el-consejo</loc><lastmod>2026-07-22T02:26:20.882Z</lastmod></url>
+  <url><loc>https://atlas.lootura.com/es/person/el-gobierno</loc><lastmod>2026-07-22T02:26:20.882Z</lastmod></url>
   <url><loc>https://atlas.lootura.com/es/person/emiliano-garcia-page</loc><lastmod>2026-07-21T21:06:12.863Z</lastmod></url>
-  <url><loc>https://atlas.lootura.com/es/place/espana</loc><lastmod>2026-07-21T21:06:12.863Z</lastmod></url>
+  <url><loc>https://atlas.lootura.com/es/place/espana</loc><lastmod>2026-07-22T02:26:20.882Z</lastmod></url>
   <url><loc>https://atlas.lootura.com/es/person/fabian-picardo</loc><lastmod>2026-07-15T17:14:56.110Z</lastmod></url>
-  <url><loc>https://atlas.lootura.com/es/person/ferran-torres</loc><lastmod>2026-07-21T21:06:12.863Z</lastmod></url>
-  <url><loc>https://atlas.lootura.com/es/organization/fifa</loc><lastmod>2026-07-21T10:23:08.875Z</lastmod></url>
-  <url><loc>https://atlas.lootura.com/es/person/fuerzas-armadas</loc><lastmod>2026-07-21T21:06:12.863Z</lastmod></url>
+  <url><loc>https://atlas.lootura.com/es/person/ferran-torres</loc><lastmod>2026-07-22T02:26:20.882Z</lastmod></url>
+  <url><loc>https://atlas.lootura.com/es/organization/fifa</loc><lastmod>2026-07-22T02:26:20.882Z</lastmod></url>
+  <url><loc>https://atlas.lootura.com/es/person/fuerzas-armadas</loc><lastmod>2026-07-22T02:26:20.882Z</lastmod></url>
   <url><loc>https://atlas.lootura.com/es/person/gianni-infantino</loc><lastmod>2026-07-19T20:42:54.963Z</lastmod></url>
-  <url><loc>https://atlas.lootura.com/es/organization/gobierno-de-espana</loc><lastmod>2026-07-16T20:54:41.819Z</lastmod></url>
-  <url><loc>https://atlas.lootura.com/es/organization/guardia-civil</loc><lastmod>2026-07-21T10:23:08.875Z</lastmod></url>
+  <url><loc>https://atlas.lootura.com/es/organization/gobierno-de-espana</loc><lastmod>2026-07-22T02:26:20.882Z</lastmod></url>
+  <url><loc>https://atlas.lootura.com/es/organization/guardia-civil</loc><lastmod>2026-07-22T02:26:20.882Z</lastmod></url>
   <url><loc>https://atlas.lootura.com/es/person/ibai-llanos</loc><lastmod>2026-07-21T02:27:26.549Z</lastmod></url>
-  <url><loc>https://atlas.lootura.com/es/place/iran</loc><lastmod>2026-07-21T21:06:12.863Z</lastmod></url>
+  <url><loc>https://atlas.lootura.com/es/place/iran</loc><lastmod>2026-07-22T02:26:20.882Z</lastmod></url>
   <url><loc>https://atlas.lootura.com/es/person/jens-spahn</loc><lastmod>2026-07-19T02:29:06.108Z</lastmod></url>
-  <url><loc>https://atlas.lootura.com/es/person/julio-iglesias</loc><lastmod>2026-07-21T21:06:12.863Z</lastmod></url>
-  <url><loc>https://atlas.lootura.com/es/person/julio-martinez</loc><lastmod>2026-07-21T21:06:12.863Z</lastmod></url>
-  <url><loc>https://atlas.lootura.com/es/place/la-mancha</loc><lastmod>2026-07-21T21:06:12.863Z</lastmod></url>
-  <url><loc>https://atlas.lootura.com/es/place/la-mierla</loc><lastmod>2026-07-21T21:06:12.863Z</lastmod></url>
+  <url><loc>https://atlas.lootura.com/es/person/josep-vallverdu</loc><lastmod>2026-07-22T02:26:20.882Z</lastmod></url>
+  <url><loc>https://atlas.lootura.com/es/person/julio-iglesias</loc><lastmod>2026-07-22T02:26:20.882Z</lastmod></url>
+  <url><loc>https://atlas.lootura.com/es/person/julio-martinez</loc><lastmod>2026-07-22T02:26:20.882Z</lastmod></url>
+  <url><loc>https://atlas.lootura.com/es/place/la-mancha</loc><lastmod>2026-07-22T02:26:20.882Z</lastmod></url>
+  <url><loc>https://atlas.lootura.com/es/place/la-mierla</loc><lastmod>2026-07-22T02:26:20.882Z</lastmod></url>
   <url><loc>https://atlas.lootura.com/es/object/la-moncloa</loc><lastmod>2026-07-21T06:26:04.171Z</lastmod></url>
   <url><loc>https://atlas.lootura.com/es/person/la-rioja</loc><lastmod>2026-07-19T16:56:12.315Z</lastmod></url>
   <url><loc>https://atlas.lootura.com/es/place/la-sagra</loc><lastmod>2026-07-11T02:26:42.781Z</lastmod></url>
   <url><loc>https://atlas.lootura.com/es/person/la-secci</loc><lastmod>2026-07-20T14:00:22.171Z</lastmod></url>
   <url><loc>https://atlas.lootura.com/es/person/la-seccion-septima</loc><lastmod>2026-07-20T14:00:22.171Z</lastmod></url>
-  <url><loc>https://atlas.lootura.com/es/person/lamine-yamal</loc><lastmod>2026-07-21T21:06:12.863Z</lastmod></url>
+  <url><loc>https://atlas.lootura.com/es/person/lamine-yamal</loc><lastmod>2026-07-22T02:26:20.882Z</lastmod></url>
   <url><loc>https://atlas.lootura.com/es/organization/las-malvinas</loc><lastmod>2026-07-17T02:26:45.462Z</lastmod></url>
-  <url><loc>https://atlas.lootura.com/es/person/lionel-messi</loc><lastmod>2026-07-21T21:06:12.863Z</lastmod></url>
+  <url><loc>https://atlas.lootura.com/es/person/lionel-messi</loc><lastmod>2026-07-22T02:26:20.882Z</lastmod></url>
   <url><loc>https://atlas.lootura.com/es/place/los-gallardos</loc><lastmod>2026-07-17T06:12:48.444Z</lastmod></url>
   <url><loc>https://atlas.lootura.com/es/person/luis-goytisolo</loc><lastmod>2026-07-14T06:09:00.827Z</lastmod></url>
   <url><loc>https://atlas.lootura.com/es/person/luis-rodr</loc><lastmod>2026-07-20T14:00:22.171Z</lastmod></url>
-  <url><loc>https://atlas.lootura.com/es/place/madrid</loc><lastmod>2026-07-21T21:06:12.863Z</lastmod></url>
-  <url><loc>https://atlas.lootura.com/es/place/malaga</loc><lastmod>2026-07-21T21:06:12.863Z</lastmod></url>
+  <url><loc>https://atlas.lootura.com/es/place/madrid</loc><lastmod>2026-07-22T02:26:20.882Z</lastmod></url>
+  <url><loc>https://atlas.lootura.com/es/place/malaga</loc><lastmod>2026-07-22T02:26:20.882Z</lastmod></url>
   <url><loc>https://atlas.lootura.com/es/person/manuel-llamas</loc><lastmod>2026-07-18T09:22:10.056Z</lastmod></url>
   <url><loc>https://atlas.lootura.com/es/person/mariano-rajoy</loc><lastmod>2026-07-19T06:28:06.146Z</lastmod></url>
   <url><loc>https://atlas.lootura.com/es/place/mijas</loc><lastmod>2026-07-14T20:58:20.799Z</lastmod></url>
   <url><loc>https://atlas.lootura.com/es/person/mikel-oyarzabal</loc><lastmod>2026-07-20T21:09:57.635Z</lastmod></url>
   <url><loc>https://atlas.lootura.com/es/organization/naciones-unidas</loc><lastmod>2026-07-21T10:23:08.875Z</lastmod></url>
   <url><loc>https://atlas.lootura.com/es/organization/nato</loc><lastmod>2026-07-16T20:54:41.819Z</lastmod></url>
-  <url><loc>https://atlas.lootura.com/es/place/nueva-jersey</loc><lastmod>2026-07-21T10:23:08.875Z</lastmod></url>
+  <url><loc>https://atlas.lootura.com/es/place/nueva-jersey</loc><lastmod>2026-07-22T02:26:20.882Z</lastmod></url>
   <url><loc>https://atlas.lootura.com/es/place/nueva-york</loc><lastmod>2026-07-21T10:23:08.875Z</lastmod></url>
   <url><loc>https://atlas.lootura.com/es/company/openai</loc><lastmod>2026-07-18T09:22:10.056Z</lastmod></url>
   <url><loc>https://atlas.lootura.com/es/person/oriol-junqueras</loc><lastmod>2026-07-17T09:54:46.288Z</lastmod></url>
   <url><loc>https://atlas.lootura.com/es/place/pais-vasco</loc><lastmod>2026-07-21T10:23:08.875Z</lastmod></url>
-  <url><loc>https://atlas.lootura.com/es/organization/partido-popular</loc><lastmod>2026-07-21T21:06:12.863Z</lastmod></url>
+  <url><loc>https://atlas.lootura.com/es/organization/partido-popular</loc><lastmod>2026-07-22T02:26:20.882Z</lastmod></url>
   <url><loc>https://atlas.lootura.com/es/person/pedro-porro</loc><lastmod>2026-07-21T21:06:12.863Z</lastmod></url>
-  <url><loc>https://atlas.lootura.com/es/person/pedro-sanchez</loc><lastmod>2026-07-21T21:06:12.863Z</lastmod></url>
-  <url><loc>https://atlas.lootura.com/es/person/plus-ultra</loc><lastmod>2026-07-21T21:06:12.863Z</lastmod></url>
+  <url><loc>https://atlas.lootura.com/es/person/pedro-sanchez</loc><lastmod>2026-07-22T02:26:20.882Z</lastmod></url>
+  <url><loc>https://atlas.lootura.com/es/person/plus-ultra</loc><lastmod>2026-07-22T02:26:20.882Z</lastmod></url>
   <url><loc>https://atlas.lootura.com/es/place/portugal</loc><lastmod>2026-07-21T21:06:12.863Z</lastmod></url>
-  <url><loc>https://atlas.lootura.com/es/organization/psoe</loc><lastmod>2026-07-21T21:06:12.863Z</lastmod></url>
+  <url><loc>https://atlas.lootura.com/es/organization/psoe</loc><lastmod>2026-07-22T02:26:20.882Z</lastmod></url>
   <url><loc>https://atlas.lootura.com/es/person/real-sociedad</loc><lastmod>2026-07-21T10:23:08.875Z</lastmod></url>
-  <url><loc>https://atlas.lootura.com/es/place/reino-unido</loc><lastmod>2026-07-21T21:06:12.863Z</lastmod></url>
+  <url><loc>https://atlas.lootura.com/es/place/reino-unido</loc><lastmod>2026-07-22T02:26:20.882Z</lastmod></url>
   <url><loc>https://atlas.lootura.com/es/company/reserva-federal</loc><lastmod>2026-07-16T10:06:17.457Z</lastmod></url>
-  <url><loc>https://atlas.lootura.com/es/person/rodriguez-zapatero</loc><lastmod>2026-07-21T21:06:12.863Z</lastmod></url>
+  <url><loc>https://atlas.lootura.com/es/person/rodriguez-zapatero</loc><lastmod>2026-07-22T02:26:20.882Z</lastmod></url>
   <url><loc>https://atlas.lootura.com/es/person/salvador-illa</loc><lastmod>2026-07-20T06:43:17.611Z</lastmod></url>
   <url><loc>https://atlas.lootura.com/es/place/san-sebastian</loc><lastmod>2026-07-21T21:06:12.863Z</lastmod></url>
-  <url><loc>https://atlas.lootura.com/es/organization/santiago-abascal</loc><lastmod>2026-07-21T21:06:12.863Z</lastmod></url>
+  <url><loc>https://atlas.lootura.com/es/organization/santiago-abascal</loc><lastmod>2026-07-22T02:26:20.882Z</lastmod></url>
   <url><loc>https://atlas.lootura.com/es/person/santiago-pedraz</loc><lastmod>2026-07-19T06:28:06.146Z</lastmod></url>
   <url><loc>https://atlas.lootura.com/es/organization/tribunal-constitucional</loc><lastmod>2026-07-20T14:00:22.171Z</lastmod></url>
-  <url><loc>https://atlas.lootura.com/es/person/unai-simon</loc><lastmod>2026-07-21T21:06:12.863Z</lastmod></url>
+  <url><loc>https://atlas.lootura.com/es/organization/tribunal-supremo</loc><lastmod>2026-07-22T02:26:20.882Z</lastmod></url>
+  <url><loc>https://atlas.lootura.com/es/person/unai-simon</loc><lastmod>2026-07-22T02:26:20.882Z</lastmod></url>
   <url><loc>https://atlas.lootura.com/es/organization/unidad-central-operativa</loc><lastmod>2026-07-20T06:43:17.611Z</lastmod></url>
   <url><loc>https://atlas.lootura.com/es/organization/unidad-militar</loc><lastmod>2026-07-17T13:22:29.680Z</lastmod></url>
-  <url><loc>https://atlas.lootura.com/es/place/united-states</loc><lastmod>2026-07-21T21:06:12.863Z</lastmod></url>
-  <url><loc>https://atlas.lootura.com/es/place/venezuela</loc><lastmod>2026-07-21T21:06:12.863Z</lastmod></url>
-  <url><loc>https://atlas.lootura.com/es/person/volodimir-zelenski</loc><lastmod>2026-07-21T21:06:12.863Z</lastmod></url>
+  <url><loc>https://atlas.lootura.com/es/place/united-states</loc><lastmod>2026-07-22T02:26:20.882Z</lastmod></url>
+  <url><loc>https://atlas.lootura.com/es/place/venezuela</loc><lastmod>2026-07-22T02:26:20.882Z</lastmod></url>
+  <url><loc>https://atlas.lootura.com/es/person/volodimir-zelenski</loc><lastmod>2026-07-22T02:26:20.882Z</lastmod></url>
   <url><loc>https://atlas.lootura.com/es/journal/el-problema-de-internet-es-la-memoria</loc><lastmod>2026-07-12T00:00:00.000Z</lastmod></url>
   <url><loc>https://atlas.lootura.com/us/journal/the-internet-no-longer-has-an-information-problem</loc><lastmod>2026-07-12T00:00:00.000Z</lastmod></url>
   <url><loc>https://atlas.lootura.com/us/journal/</loc><lastmod>2026-07-12T00:00:00.000Z</lastmod></url>
