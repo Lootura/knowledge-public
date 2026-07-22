@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/salvador-illa/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/salvador-illa/index.json",
   "description": "Sigue la actividad de Salvador Illa en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-22T13:46:22.256Z",
+  "updatedAt": "2026-07-22T17:15:40.463Z",
   "aliases": [
     "Salvador",
     "Salvador Illa Roca"
@@ -47,11 +47,11 @@
   ],
   "sources": [
     {
-      "title": "Bronca en el Parlament entre Illa y el PP por el no homenaje a los jugadores catalanes de España",
-      "url": "https://www.elconfidencial.com/espana/cataluna/2026-07-22/bronca-illa-alejandro-fernandez-victoria-roja_4394151/?utm_source=lootura.com",
-      "publishedAt": "2026-07-22T11:53:00.000Z",
-      "sourceId": "lootura-es-el-confidencial"
+      "title": "Illa desvela el plantón de los catalanes campeones del mundo: «No han querido venir»",
+      "url": "https://theobjective.com/espana/cataluna/2026-07-22/illa-planton-catalanes-campeones-mundo/?utm_source=lootura.com",
+      "publishedAt": "2026-07-22T15:17:10.000Z",
+      "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 0
 }

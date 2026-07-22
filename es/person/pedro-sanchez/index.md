@@ -3,7 +3,7 @@
 > Sigue la actividad de Pedro Sánchez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-22T13:46:22.256Z
+- Actualizado: 2026-07-22T17:15:40.463Z
 - Canonical: https://atlas.lootura.com/es/person/pedro-sanchez
 
 ## Cambios recientes
@@ -11,6 +11,18 @@
 ### Narbona afirma que Sánchez "ha asumido la responsabilidad política" por los casos de corrupción y defiende a Zapatero "por su enorme legado"
 
 La presidenta del PSOE admite conocer a Leire Díez, la llamada 'fontanera' del partido, desde hace años pero, recalca: "No he sido su madrina para nada" Leer.
+
+Date: 2026-07-22
+
+### Feijóo sitúa a Sánchez como "el señor X" de todos los casos del PSOE y promete "una limpieza a fondo" de las instituciones
+
+Comienza la "cuenta atrás" para el PP. Alberto Núñez Feijóo mira ya hacia las elecciones generales y mete la directa hacia "el cambio". Un cambio...
+
+Date: 2026-07-22
+
+### La china Geely llega a un acuerdo con Ford para producir coches en su fábrica de Almussafes
+
+El presidente de Ford Europa, Jim Baumbick, oficializará el anuncio este jueves, en presencia de Pedro Sánchez y Juanfran Pérez Llorca, para garantizar la supervivencia de la planta valenciana Leer.
 
 Date: 2026-07-22
 
@@ -23,12 +35,6 @@ Date: 2026-07-22
 ### Feijóo promete una «limpieza a fondo y no un relevo» cuando Sánchez salga de Moncloa
 
 Alberto Núñez Feijóo empezó su balance del curso político sentenciando que el Gobierno «está políticamente acabado, parlamentariamente bloqueado y éticamente inhabilitado» y volvió a reclamar, una vez más, elecciones generales adelantadas como «única salida razonable y democrática» ante la avalancha de casos de corrupc.
-
-Date: 2026-07-22
-
-### Feijóo sitúa a Sánchez como "el señor X" de todos los casos del PSOE y promete "una limpieza a fondo" de las instituciones
-
-Comienza la "cuenta atrás" para el PP. Alberto Núñez Feijóo mira ya hacia las elecciones generales y mete la directa hacia "el cambio". Un cambio...
 
 Date: 2026-07-22
 
@@ -62,18 +68,8 @@ El incendio de la Sierra Norte de Guadalajara ha arrasado ya al menos 32.000 hec
 
 Date: 2026-07-22
 
-### Sánchez fuerza una defensa a ciegas a pesar de que Moncloa admite el "riesgo" de que "puede salir mal"
-
-La defensa férrea de José Luis Rodríguez Zapatero por parte de Pedro Sánchez comenzó en el mismo momento de su imputación. El presidente ordenó cerrar filas con él incluso antes de conocer los argumentos del juez y mantiene desde entonces un respaldo que en Moncloa justifican casi como un acto de fe y de lealtad . No e.
-
-Date: 2026-07-22
-
 ## Fuentes
 
-- [Narbona niega haber hablado con Sánchez sobre Leire Díez y reivindica el "respeto que merece" Zapatero](https://www.20minutos.es/nacional/narbona-niega-haber-hablado-con-sanchez-sobre-leire-diez-reivindica-senado-enorme-respeto-que-merece-zapatero_7017617_0.html?utm_source=lootura.com) — 2026-07-22T10:55:49.000Z
-- [Feijóo promete una «limpieza a fondo y no un relevo» cuando Sánchez salga de Moncloa](https://www.abc.es/espana/feijoo-promete-limpieza-fondo-relevo-sanchez-salga-20260722132605-nt.html?utm_source=lootura.com) — 2026-07-22T12:13:59.000Z
+- [La china Geely llega a un acuerdo con Ford para producir coches en su fábrica de Almussafes](https://www.elmundo.es/economia/empresas/2026/07/22/6a60c041fdddff05188b4581.html?utm_source=lootura.com) — 2026-07-22T16:55:15.000Z
 - [Narbona afirma que Sánchez "ha asumido la responsabilidad política" por los casos de corrupción y defiende a Zapatero "por su enorme legado"](https://www.elmundo.es/espana/2026/07/22/6a609717e9cf4a04078b456f.html?utm_source=lootura.com) — 2026-07-22T10:15:48.000Z
 - [Feijóo sitúa a Sánchez como "el señor X" de todos los casos del PSOE y promete "una limpieza a fondo" de las instituciones](https://amp.elmundo.es/espana/2026/07/22/6a609c9be85ecedc108b4578.html?utm_source=lootura.com) — 2026-07-22T10:46:17.000Z
-- [Feijóo da por hecha su llegada a Moncloa sin esperar a las elecciones: "Será una limpieza a fondo"](https://www.eldiario.es/politica/feijoo-da-hecha-llegada-moncloa-esperar-elecciones-sera-limpieza-fondo_1_13398253.html?utm_source=lootura.com) — 2026-07-22T10:46:12.000Z
-- [Feijóo arremete contra Sánchez: “Son sus últimas Navidades en la Moncloa”](https://www.lavanguardia.com/politica/20260722/11598549/feijoo-da-finiquitada-legislatura-promete-gobierno-reconstruccion.html?utm_source=lootura.com) — 2026-07-22T11:32:04.000Z
-- [España ya tiene fecha y lugar para estrenar la segunda estrella en casa](https://okdiario.com/deportes/espana-ya-tiene-fecha-lugar-estrenar-segunda-estrella-casa-19048063?utm_source=lootura.com) — 2026-07-22T12:35:33.000Z

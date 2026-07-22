@@ -3,7 +3,7 @@
 > Follow White House, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-07-22T13:46:43.033Z
+- Updated: 2026-07-22T17:16:02.754Z
 - Canonical: https://atlas.lootura.com/us/organization/white-house
 
 ## Recent changes

@@ -3,10 +3,16 @@
 > Follow Middle East, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-22T13:46:43.033Z
+- Updated: 2026-07-22T17:16:02.754Z
 - Canonical: https://atlas.lootura.com/us/place/middle-east
 
 ## Recent changes
+
+### Trump will attend the dignified transfer of 4 U.S. service members killed in the Middle East
+
+The ritual is one of the most somber duties of a commander-in-chief.
+
+Date: 2026-07-22
 
 ### Trump to attend dignified transfer of fallen soldiers. And, Hegseth testifies on Iran
 
@@ -46,4 +52,4 @@ Date: 2026-07-20
 
 ## Sources
 
-- [Trump to attend dignified transfer of fallen soldiers. And, Hegseth testifies on Iran](https://www.npr.org/2026/07/22/g-s1-134896/up-first-newsletter-trump-iran-war-pete-hegseth-arizona-primaries?utm_source=lootura.com) — 2026-07-22T11:24:22.000Z
+- [Trump will attend the dignified transfer of 4 U.S. service members killed in the Middle East](https://www.pbs.org/newshour/world/trump-will-attend-the-dignified-transfer-of-4-u-s-service-members-killed-in-the-middle-east?utm_source=lootura.com) — 2026-07-22T14:27:14.000Z

@@ -1,0 +1,50 @@
+{
+  "id": "es-las-tablas",
+  "name": "Las Tablas",
+  "type": "place",
+  "locale": "es",
+  "canonicalPath": "/es/place/las-tablas",
+  "canonicalUrl": "https://atlas.lootura.com/es/place/las-tablas",
+  "markdownUrl": "https://atlas.lootura.com/es/place/las-tablas/index.md",
+  "jsonUrl": "https://atlas.lootura.com/es/place/las-tablas/index.json",
+  "description": "Sigue la actividad de Las Tablas en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
+  "updatedAt": "2026-07-22T17:15:40.463Z",
+  "aliases": [],
+  "changes": [
+    {
+      "title": "Crimen de Las Tablas: a Facundo lo asesinó Alberto, un marido obsesionado con la infidelidad de su esposa",
+      "summary": "El hombre que presuntamente mató a Facundo Rico en una lujosa urbanización de Madrid la semana pasada se aplicó a sí mismo justicia antes de que lo hicieran los tribunales. Alberto Juan, el presunto autor del crimen, se suicidó el día después de asestar 13 puñaladas a este ingeniero de origen argentino con el que sospe.",
+      "date": "2026-07-22"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Las Tablas first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-07-22"
+    },
+    {
+      "title": "Resuelto el crimen del ingeniero de Las Tablas: el autor, obsesionado con una supuesta infidelidad, lo asesinó y se suicidó horas después",
+      "summary": "Fue asesinado de 14 puñaladas por un vecino del barrio de Las Tablas, cuya mujer acudía al mismo gimnasio que la víctima Leer.",
+      "date": "2026-07-22"
+    },
+    {
+      "title": "Resuelto el crimen de Las Tablas: el asesino de Facundo era el marido de una de sus amantes",
+      "summary": "La investigación en torno a la muerte de Facundo R. ha llegado a su fin. La Policía Nacional ha resuelto el crimen que tuvo lugar en Las Tablas la semana pasada. El autor de este asesinato, se suicidó tirándose de un barranco en el municipio de La Adrada (Ávila) , era el marido de una de las amantes de la víctima, segú.",
+      "date": "2026-07-22"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Resuelto el crimen del ingeniero de Las Tablas: el autor, obsesionado con una supuesta infidelidad, lo asesinó y se suicidó horas después",
+      "url": "https://www.elmundo.es/madrid/2026/07/22/6a60a59bfc6c83b2298b45aa.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-22T11:27:54.000Z",
+      "sourceId": "lootura-es-el-mundo"
+    },
+    {
+      "title": "Crimen de Las Tablas: a Facundo lo asesinó Alberto, un marido obsesionado con la infidelidad de su esposa",
+      "url": "https://elpais.com/espana/madrid/2026-07-22/crimen-de-las-tablas-a-facundo-lo-asesino-alberto-un-marido-obsesionado-con-la-infidelidad-de-su-esposa.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-22T12:53:31.000Z",
+      "sourceId": "lootura-es-el-pais"
+    }
+  ],
+  "evidenceCount": 2
+}

@@ -3,7 +3,7 @@
 > Sigue la actividad de Alberto Núñez Feijóo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-22T13:46:22.256Z
+- Actualizado: 2026-07-22T17:15:40.463Z
 - Canonical: https://atlas.lootura.com/es/person/alberto-nunez-feijoo
 
 ## Cambios recientes
@@ -14,15 +14,15 @@ El líder del PP, Alberto Núñez Feijóo, hace balance en rueda de prensa del c
 
 Date: 2026-07-22
 
-### Feijóo promete una «limpieza a fondo y no un relevo» cuando Sánchez salga de Moncloa
-
-Alberto Núñez Feijóo empezó su balance del curso político sentenciando que el Gobierno «está políticamente acabado, parlamentariamente bloqueado y éticamente inhabilitado» y volvió a reclamar, una vez más, elecciones generales adelantadas como «única salida razonable y democrática» ante la avalancha de casos de corrupc.
-
-Date: 2026-07-22
-
 ### Feijóo sitúa a Sánchez como "el señor X" de todos los casos del PSOE y promete "una limpieza a fondo" de las instituciones
 
 Comienza la "cuenta atrás" para el PP. Alberto Núñez Feijóo mira ya hacia las elecciones generales y mete la directa hacia "el cambio". Un cambio...
+
+Date: 2026-07-22
+
+### Feijóo promete una «limpieza a fondo y no un relevo» cuando Sánchez salga de Moncloa
+
+Alberto Núñez Feijóo empezó su balance del curso político sentenciando que el Gobierno «está políticamente acabado, parlamentariamente bloqueado y éticamente inhabilitado» y volvió a reclamar, una vez más, elecciones generales adelantadas como «única salida razonable y democrática» ante la avalancha de casos de corrupc.
 
 Date: 2026-07-22
 
@@ -70,8 +70,5 @@ Date: 2026-07-18
 
 ## Fuentes
 
-- [Feijóo promete una «limpieza a fondo y no un relevo» cuando Sánchez salga de Moncloa](https://www.abc.es/espana/feijoo-promete-limpieza-fondo-relevo-sanchez-salga-20260722132605-nt.html?utm_source=lootura.com) — 2026-07-22T12:13:59.000Z
 - [Feijóo sitúa a Sánchez como "el señor X" de todos los casos del PSOE y promete "una limpieza a fondo" de las instituciones](https://amp.elmundo.es/espana/2026/07/22/6a609c9be85ecedc108b4578.html?utm_source=lootura.com) — 2026-07-22T10:46:17.000Z
 - [Última hora de la actualidad política, en directo | Feijóo hace balance del curso político y de la legislatura](https://elpais.com/espana/2026-07-22/ultima-hora-de-la-actualidad-politica-en-directo.html?utm_source=lootura.com) — 2026-07-22T10:20:37.000Z
-- [Feijóo da por hecha su llegada a Moncloa sin esperar a las elecciones: "Será una limpieza a fondo"](https://www.eldiario.es/politica/feijoo-da-hecha-llegada-moncloa-esperar-elecciones-sera-limpieza-fondo_1_13398253.html?utm_source=lootura.com) — 2026-07-22T10:46:12.000Z
-- [Feijóo arremete contra Sánchez: “Son sus últimas Navidades en la Moncloa”](https://www.lavanguardia.com/politica/20260722/11598549/feijoo-da-finiquitada-legislatura-promete-gobierno-reconstruccion.html?utm_source=lootura.com) — 2026-07-22T11:32:04.000Z

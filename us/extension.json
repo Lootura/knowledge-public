@@ -1,45 +1,32 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-22T15:27:03.577Z",
+  "generatedAt": "2026-07-22T17:25:09.735Z",
   "radar": {
     "id": "usa",
     "slug": "us",
     "locale": "en"
   },
   "state": {
-    "signature": "1.18.0|12|1784728003033",
+    "signature": "1.18.0|13|1784740562754",
     "version": "1.18.0",
-    "build": 12,
-    "latestEntityUpdatedAt": "2026-07-22T13:46:43.033Z"
+    "build": 13,
+    "latestEntityUpdatedAt": "2026-07-22T17:16:02.754Z"
   },
   "atlas": {
     "hero": {
-      "id": "usa-andy-biggs",
-      "name": "Andy Biggs",
+      "id": "usa-donald-trump",
+      "name": "Donald Trump",
       "type": "person",
-      "title": "Trump-Backed Rep. Andy Biggs Wins Arizona Governor Primary",
-      "url": "https://atlas.lootura.com/us/person/andy-biggs",
-      "path": "/us/person/andy-biggs",
-      "updatedAt": "2026-07-22T13:46:43.033Z",
-      "score": 1674,
-      "sourceCount": 5,
+      "title": "Andy Biggs wins Republican nomination to challenge Democrat Katie Hobbs for Arizona governor",
+      "url": "https://atlas.lootura.com/us/person/donald-trump",
+      "path": "/us/person/donald-trump",
+      "updatedAt": "2026-07-22T17:16:02.754Z",
+      "score": 1738,
+      "sourceCount": 325,
       "isBreaking": false,
       "isPinned": false
     },
     "cards": [
-      {
-        "id": "usa-donald-trump",
-        "name": "Donald Trump",
-        "type": "person",
-        "title": "What to know about Pickaxe Mountain, an Iranian target noted by Trump",
-        "url": "https://atlas.lootura.com/us/person/donald-trump",
-        "path": "/us/person/donald-trump",
-        "updatedAt": "2026-07-22T13:46:43.033Z",
-        "score": 1658,
-        "sourceCount": 319,
-        "isBreaking": false,
-        "isPinned": false
-      },
       {
         "id": "usa-iran",
         "name": "Iran",
@@ -47,9 +34,35 @@
         "title": "Funding milestone detected",
         "url": "https://atlas.lootura.com/us/place/iran",
         "path": "/us/place/iran",
-        "updatedAt": "2026-07-22T13:46:43.033Z",
-        "score": 1658,
-        "sourceCount": 185,
+        "updatedAt": "2026-07-22T17:16:02.754Z",
+        "score": 1709,
+        "sourceCount": 187,
+        "isBreaking": false,
+        "isPinned": false
+      },
+      {
+        "id": "usa-andy-biggs",
+        "name": "Andy Biggs",
+        "type": "person",
+        "title": "Andy Biggs wins Republican nomination to challenge Democrat Katie Hobbs for Arizona governor",
+        "url": "https://atlas.lootura.com/us/person/andy-biggs",
+        "path": "/us/person/andy-biggs",
+        "updatedAt": "2026-07-22T17:16:02.754Z",
+        "score": 1690,
+        "sourceCount": 6,
+        "isBreaking": false,
+        "isPinned": false
+      },
+      {
+        "id": "usa-united-states",
+        "name": "United States",
+        "type": "place",
+        "title": "U.S. identifies third service member believed to have been killed in Iranian attack",
+        "url": "https://atlas.lootura.com/us/place/united-states",
+        "path": "/us/place/united-states",
+        "updatedAt": "2026-07-22T17:16:02.754Z",
+        "score": 1654,
+        "sourceCount": 371,
         "isBreaking": false,
         "isPinned": false
       },
@@ -60,22 +73,9 @@
         "title": "Trump-Backed Rep. Andy Biggs Wins Arizona Governor Primary",
         "url": "https://atlas.lootura.com/us/person/katie-hobbs",
         "path": "/us/person/katie-hobbs",
-        "updatedAt": "2026-07-22T13:46:43.033Z",
-        "score": 1657,
+        "updatedAt": "2026-07-22T17:16:02.754Z",
+        "score": 1647,
         "sourceCount": 4,
-        "isBreaking": false,
-        "isPinned": false
-      },
-      {
-        "id": "usa-united-states",
-        "name": "United States",
-        "type": "place",
-        "title": "Funding milestone detected",
-        "url": "https://atlas.lootura.com/us/place/united-states",
-        "path": "/us/place/united-states",
-        "updatedAt": "2026-07-22T13:46:43.033Z",
-        "score": 1654,
-        "sourceCount": 362,
         "isBreaking": false,
         "isPinned": false
       }

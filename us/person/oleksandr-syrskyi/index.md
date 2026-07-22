@@ -34,4 +34,4 @@ Date: 2026-07-21
 
 ## Sources
 
-- [Firing of Ukraine’s Top General Signals the End of an Era](https://www.nytimes.com/2026/07/22/world/europe/ukraine-syrskyi-general-russia-war.html?utm_source=lootura.com) — 2026-07-22T10:46:17.000Z
+No public source links.

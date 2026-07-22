@@ -3,10 +3,16 @@
 > Follow Ukraine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-22T13:46:43.033Z
+- Updated: 2026-07-22T17:16:02.754Z
 - Canonical: https://atlas.lootura.com/us/place/ukraine
 
 ## Recent changes
+
+### Ukraine targets Russian online retailer Wildberries
+
+Ukrainian long-range drones targeted large warehouses belonging to Wildberries, Russia’s equivalent of Amazon, which sells military equipment like body armor and drone parts, but mainly serves as a place for regular Russians to sell their goods. President Zelenskyy said the warehouses are “involved in supplying the Rus.
+
+Date: 2026-07-22
 
 ### Firing of Ukraine’s Top General Signals the End of an Era
 
@@ -62,13 +68,7 @@ Russia targeted Kyiv, Ukraine, in one of its largest missile assaults of the war
 
 Date: 2026-07-20
 
-### Funding milestone detected
-
-At a conference on reconstruction, the focus shifted to private investment, not donor assistance.
-
-Date: 2026-07-20
-
 ## Sources
 
+- [Ukraine targets Russian online retailer Wildberries](https://www.nbcnews.com/video/ukraine-targets-russian-online-retailer-wildberries-267087429820?utm_source=lootura.com) — 2026-07-22T11:42:06.000Z
 - [Mykhailo Drapatyi: What to Know About Ukraine’s New Top General](https://www.nytimes.com/2026/07/21/world/europe/ukraine-mykhailo-drapatyi.html?utm_source=lootura.com) — 2026-07-21T23:39:36.000Z
-- [Firing of Ukraine’s Top General Signals the End of an Era](https://www.nytimes.com/2026/07/22/world/europe/ukraine-syrskyi-general-russia-war.html?utm_source=lootura.com) — 2026-07-22T10:46:17.000Z

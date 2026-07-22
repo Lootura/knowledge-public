@@ -40,4 +40,4 @@ Date: 2026-07-21
 
 ## Fuentes
 
-- [La demanda de Julio Iglesias contra Yolanda Díaz relata hechos falsos para acusar a la vicepresidenta](https://www.eldiario.es/politica/demanda-julio-iglesias-yolanda-diaz-relata-hechos-falsos-acusar-vicepresidenta_1_13397937.html?utm_source=lootura.com) — 2026-07-22T10:13:17.000Z
+No public source links.

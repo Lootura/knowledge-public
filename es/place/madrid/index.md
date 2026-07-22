@@ -3,26 +3,56 @@
 > Sigue la actividad de Madrid en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-22T13:46:22.256Z
+- Actualizado: 2026-07-22T17:15:40.463Z
 - Canonical: https://atlas.lootura.com/es/place/madrid
 
 ## Cambios recientes
 
-### Ayuso nombra a Aguirre, Gallardón y Cifuentes miembros de la Comisión Jurídica Asesora
+### Crimen de Las Tablas: a Facundo lo asesinó Alberto, un marido obsesionado con la infidelidad de su esposa
 
-Los expresidentes de la Comunidad de Madrid tienen desde hace un año estatuto propio, algo que ya existía en el resto de regionales españolas, con la excepción de Cantabria. Y desde este miércoles, tres de ellos, Esperanza Aguirre, Alberto Ruiz-Gallardón y Cristina Cifuentes, son ya miembros de la Comisión Jurídica Ase.
-
-Date: 2026-07-22
-
-### Crimen de Las Tablas: A Facundo lo asesinó Alberto, un marido obsesionado con la infidelidad de su esposa
-
-El hombre que mató a Facundo Rico en una lujosa urbanización de Madrid la semana pasada se aplicó a sí mismo justicia antes de que lo hicieran los tribunales. Alberto Juan, el presunto autor del crimen, se suicidó el día después de asestar 13 puñaladas a este ingeniero de origen argentino con el que sospechaba que su m.
+El hombre que presuntamente mató a Facundo Rico en una lujosa urbanización de Madrid la semana pasada se aplicó a sí mismo justicia antes de que lo hicieran los tribunales. Alberto Juan, el presunto autor del crimen, se suicidó el día después de asestar 13 puñaladas a este ingeniero de origen argentino con el que sospe.
 
 Date: 2026-07-22
 
 ### Así será la pretemporada del nuevo Real Madrid de Mourinho: Austria y el Teresa Herrera
 
 Fue el lunes pasado, 13 de julio, cuando arrancó la pretemporada del Real Madrid al mando, de nuevo, de José Mourinho. El entrenador portugués ha llevado.
+
+Date: 2026-07-22
+
+### El Real Madrid cierra el fichaje de Mikael Jantunen como relevo de Hezonja
+
+El proyecto madridista de baloncesto suma una pieza estratégica para su juego interior. La marcha de Mario Hezonja rumbo a la NBA —tras abonar el alero croata su cláusula de rescisión el pasado lunes— obligó a mover ficha con rapidez en las oficinas de Concha Espina. La respuesta del club blanco ha sido el anuncio de u.
+
+Date: 2026-07-22
+
+### Muere un trabajador durante «labores de mantenimiento» en una base de Renfe en Madrid
+
+Además otros dos empleados han resultado heridos de diversa consideración en un accidente «bajo investigación».
+
+Date: 2026-07-22
+
+### La Audiencia Provincial respalda al juez Zamarriego y rechaza que Aldama se persone en el "caso Leire"
+
+La Audiencia Provincial de Madrid ha ratificado la decisión del juez Arturo Zamarriego de negar a Víctor de Aldama ejercer la acusación particular, en calidad de perjudicado, en la investigación a Leire Díez por las «cloacas del PSOE» (procedimiento del que el juez de la Audiencia Nacional Santiago Pedraz le ha pedido.
+
+Date: 2026-07-22
+
+### Roberto Ruiz, el chef que cambió la historia de la cocina mexicana en Madrid: "Hemos creado nuevos sabores"
+
+Por qué la cocina mexicana vive su mejor momento en Madrid, según Roberto Ruiz, el primer chef en lograr una estrella Michelin para un restaurante mexicano en Europa.
+
+Date: 2026-07-22
+
+### Una juez abre diligencias contra la hermana de Puente por prevaricación en la ‘ley de nietos’
+
+La denominada ley de nietos puede suponer un dolor de cabeza para Sofía Puente . La titular del Juzgado de Instrucción número 35 de Madrid , Inmaculada Lova, ha abierto diligencias preliminares contra la hermana del ministro de Transportes, Óscar Puente , tras la querella que presentó hace tres semanas Hazte Oír por un.
+
+Date: 2026-07-22
+
+### Ayuso nombra a Aguirre, Gallardón y Cifuentes miembros de la Comisión Jurídica Asesora
+
+Los expresidentes de la Comunidad de Madrid tienen desde hace un año estatuto propio, algo que ya existía en el resto de regionales españolas, con la excepción de Cantabria. Y desde este miércoles, tres de ellos, Esperanza Aguirre, Alberto Ruiz-Gallardón y Cristina Cifuentes, son ya miembros de la Comisión Jurídica Ase.
 
 Date: 2026-07-22
 
@@ -38,38 +68,12 @@ La Comunidad de Madrid habilitará 52 puntos de observación y organizará un fe
 
 Date: 2026-07-22
 
-### Rescatan a un hombre de 63 años que sufría un ahogamiento en una piscina municipal de Usera
-
-Samur-Protección Civil de Madrid ha revertido la parada cardiorrespiratoria de un hombre de 63 años que había sido rescatado por los socorristas en la piscina del Centro Deportivo Municipal Moscardó, en Usera. Los socorristas han comenzado las maniobras de reanimación hasta la llegada de los equipos médicos , que han c.
-
-Date: 2026-07-22
-
-### El supermercado donde puedes ahorrar más de 4.000 euros al año en Madrid, según un estudio de la OCU
-
-Hacer la compra se ha convertido en una especie de prueba de resistencia para muchas familias, pero no tanto por lo que se compra, sino por lo que acaba costando. En los últimos años la cesta ha subido tanto que da igual si lo que compras es lo básico o algún extra, ya que todo está más caro. Y en ese contexto, hay un.
-
-Date: 2026-07-22
-
-### Precio de la gasolina hoy 22 de julio: localiza las gasolineras más baratas de Madrid
-
-Llegamos a miércoles con muchos coches que siguen circulando en el tráfico de Madrid de trabajadores, pero también están aquellos de quienes están de vacaciones o quienes visitan la capital durante el verano. De este modo, es importante estar atentos y saber dónde repostar de modo que toma nota porque este es el precio.
-
-Date: 2026-07-22
-
-### El mirador gratuito de Madrid que puedes disfrutar este verano: se contemplan las mejores puestas de sol y sigue siendo un gran desconocido
-
-Madrid en verano tiene una serie de planes que nunca faltan y entre los que tenemos terrazas , parques llenos al atardecer y los mismos puntos de siempre para ver el skyline de la ciudad y también, cómo cae el sol. Sin embargo, hay quien prefiere salir del centro, evitar las multitudes y encontrar un sitio donde el rui.
-
-Date: 2026-07-22
-
-### Cobo apuntala la Iglesia de Madrid al estilo León
-
-Es 8 de junio de 2026. León XIV toma la palabra en el estadio Santiago Bernabéu. Sin papel. Se dirige al cardenal arzobispo de Madrid. «Don José, hoy la Iglesia de Madrid ha metido un golazo para siempre». Respaldo explícito del Papa al pastor de la capital española que cumplía tres días como anfitrión y refuerzo a la.
-
-Date: 2026-07-22
-
 ## Fuentes
 
-- [Ayuso nombra a Aguirre, Gallardón y Cifuentes miembros de la Comisión Jurídica Asesora](https://www.abc.es/espana/madrid/ayuso-nombra-aguirre-gallardon-cifuentes-miembros-comision-20260722135644-nt.html?utm_source=lootura.com) — 2026-07-22T13:15:06.000Z
-- [Crimen de Las Tablas: A Facundo lo asesinó Alberto, un marido obsesionado con la infidelidad de su esposa](https://elpais.com/espana/madrid/2026-07-22/crimen-de-las-tablas-a-facundo-lo-asesino-alberto-un-marido-obsesionado-con-la-infidelidad-de-su-esposa.html?utm_source=lootura.com) — 2026-07-22T12:53:31.000Z
+- [El Real Madrid cierra el fichaje de Mikael Jantunen como relevo de Hezonja](https://www.abc.es/deportes/baloncesto/real-madrid-cierra-fichaje-mikael-jantunen-relevo-20260722183206-nt.html?utm_source=lootura.com) — 2026-07-22T16:42:23.000Z
+- [Muere un trabajador durante «labores de mantenimiento» en una base de Renfe en Madrid](https://www.elcorreo.com/economia/empresas/muere-trabajador-labores-mantenimiento-base-renfe-madrid-20260722163457-ntrc_amp.html?utm_source=lootura.com) — 2026-07-22T14:34:57.000Z
+- [Crimen de Las Tablas: a Facundo lo asesinó Alberto, un marido obsesionado con la infidelidad de su esposa](https://elpais.com/espana/madrid/2026-07-22/crimen-de-las-tablas-a-facundo-lo-asesino-alberto-un-marido-obsesionado-con-la-infidelidad-de-su-esposa.html?utm_source=lootura.com) — 2026-07-22T12:53:31.000Z
+- [La Audiencia Provincial respalda al juez Zamarriego y rechaza que Aldama se persone en el "caso Leire"](https://www.larazon.es/espana/audiencia-provincial-respalda-juez-zamarriego-rechaza-que-aldama-persone-causa-cloacas-psoe_202607226a60f7b7da3add27d4dc53f9.html?utm_source=lootura.com) — 2026-07-22T17:11:28.000Z
+- [Roberto Ruiz, el chef que cambió la historia de la cocina mexicana en Madrid: "Hemos creado nuevos sabores"](https://okdiario.com/cool/lifestyle/mexicano-restaurantes-madrid-entrevista-roberto-ruiz-chef-19040196/amp?utm_source=lootura.com) — 2026-07-22T17:05:39.000Z
+- [Una juez abre diligencias contra la hermana de Puente por prevaricación en la ‘ley de nietos’](https://theobjective.com/espana/tribunales/2026-07-22/juez-diligencias-hermana-puente-prevaricacion-ley-nietos/?utm_source=lootura.com) — 2026-07-22T14:57:30.000Z
 - [Así será la pretemporada del nuevo Real Madrid de Mourinho: Austria y el Teresa Herrera](https://theobjective.com/deportes/futbol/2026-07-22/asi-sera-pretemporada-nuevo-real-madrid-mourinho/?amp=&utm_source=lootura.com) — 2026-07-22T13:39:01.000Z

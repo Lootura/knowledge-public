@@ -8,14 +8,9 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/defense-secretary-pete/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/defense-secretary-pete/index.json",
   "description": "Follow Defense Secretary Pete, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-22T13:46:43.033Z",
+  "updatedAt": "2026-07-22T17:16:02.754Z",
   "aliases": [],
   "changes": [
-    {
-      "title": "Funding milestone detected",
-      "summary": "The U.S. launched an 11th consecutive night of strikes against Iran on Tuesday. CBS News' Weijia Jiang reports on Defense Secretary Pete Hegseth's earlier testimony about the Pentagon's request for additional funding. Then, Washington Post national security reporter Noah Robertson joins with analysis.",
-      "date": "2026-07-22"
-    },
     {
       "title": "Funding milestone detected",
       "summary": "Defense Secretary Pete Hegseth faced a barrage of questions about the war with Iran from lawmakers on Tuesday, as the administration seeks more money for the escalating conflict.",
@@ -24,6 +19,11 @@
     {
       "title": "Sen. Patty Murray, D-Wash., on Defense Secretary Pete Hegseth's Senate testimony",
       "summary": "NPR's Leila Fadel speaks with Democratic Sen. Patty Murray of Washington about the administration's Iran war objectives following the testimony of Defense Secretary Pete Hegseth.",
+      "date": "2026-07-22"
+    },
+    {
+      "title": "Funding milestone detected",
+      "summary": "The U.S. launched an 11th consecutive night of strikes against Iran on Tuesday. CBS News' Weijia Jiang reports on Defense Secretary Pete Hegseth's earlier testimony about the Pentagon's request for additional funding. Then, Washington Post national security reporter Noah Robertson joins with analysis.",
       "date": "2026-07-22"
     },
     {
@@ -64,9 +64,9 @@
   ],
   "sources": [
     {
-      "title": "U.S. launches strikes on Iran for 11th consecutive night",
-      "url": "https://www.cbsnews.com/video/us-launches-strikes-iran-11th-consecutive-night/?utm_source=lootura.com",
-      "publishedAt": "2026-07-22T02:11:05.000Z",
+      "title": "Total cost of Iran war likely higher than $37.5 billion claimed by Hegseth, sources say",
+      "url": "https://www.cbsnews.com/video/total-cost-iran-war-likely-higher-than-37-5-billion-hegseth-claims-sources-say/?utm_source=lootura.com",
+      "publishedAt": "2026-07-22T13:29:01.000Z",
       "sourceId": "lootura-us-cbs-news"
     },
     {
@@ -82,5 +82,5 @@
       "sourceId": "lootura-us-npr-politics"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 2
 }

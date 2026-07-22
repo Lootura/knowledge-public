@@ -3,28 +3,10 @@
 > Follow Donald Trump, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-07-22T13:46:43.033Z
+- Updated: 2026-07-22T17:16:02.754Z
 - Canonical: https://atlas.lootura.com/us/person/donald-trump
 
 ## Recent changes
-
-### What to know about Pickaxe Mountain, an Iranian target noted by Trump
-
-President Trump on Tuesday threatened to attack Pickaxe Mountain in Iran, a secure facility allegedly used for nuclear activity. CBS News national security analyst Aaron MacLean has more.
-
-Date: 2026-07-22
-
-### Trump ally Andy Biggs wins GOP nomination for Arizona governor, AP projects
-
-Trump-endorsed Rep. Andy Biggs will take on Democratic Arizona Gov. Katie Hobbs in November.
-
-Date: 2026-07-22
-
-### Trump-backed Jay Feely wins GOP primary in Arizona’s battleground 1st District
-
-Former Arizona Cardinals kicker Jay Feely cruised to victory in Arizona’s 1st District on Tuesday, one of the nation’s most competitive battlegrounds. Feely, a close ally of President Donald Trump, leveraged Trump’s endorsement to topple former state Rep. Joseph Chaplik. He’ll face a steep challenge defeating the Democ.
-
-Date: 2026-07-22
 
 ### Funding milestone detected
 
@@ -50,33 +32,51 @@ The economy of Laredo, Texas, has boomed under the president’s global tariffs.
 
 Date: 2026-07-22
 
-### Trump approves landmark U.S.-Saudi nuclear deal
+### ‘It’s a stone around your neck’: Arizona Republicans once again nominate 2020 election deniers
 
-President Donald Trump has approved a landmark civilian nuclear deal between the United States and Saudi Arabia that is expected to be announced Wednesday, a senior administration official told NBC News.
-
-Date: 2026-07-22
-
-### Trump-Backed Rep. Andy Biggs Wins Arizona Governor Primary
-
-Arizona Rep. Andy Biggs was the runaway winner of the Republican primary in the governor’s race. That sets up a matchup this fall with Democratic Gov. Katie Hobbs. Biggs, who was endorsed by President Donald Trump, held a consistent lead in the polls leading up to the vote.
+To make it out of a Republican primary in Arizona, there’s one key litmus test: believing the 2020 election was stolen from Donald Trump. Election deniers who played prominent roles in efforts to overturn the 2020 results triumphed in statewide Republican primaries Tuesday: Rep. Andy Biggs for governor , state Rep. Ale.
 
 Date: 2026-07-22
 
-### Trump to attend dignified transfer of fallen soldiers. And, Hegseth testifies on Iran
+### Arizona Elections: 6 Takeaways From the Trump-Dominated Primaries
 
-Trump will attend the dignified transfer of U.S. service members killed in the Middle East. And, Pete Hegseth is requesting billions from Congress to help with the rising cost of the war in Iran. (Image credit: Saul Loeb).
+Republicans nominated a former N.F.L. kicker in a top House battleground, a Trump loyalist for governor and an election denier for the state’s top election post.
+
+Date: 2026-07-22
+
+### Trump’s 50% Tariffs on Canada: What to Know, and What’s Next
+
+The president said punishing 50 percent tariffs would begin by Aug. 19, a significant escalation of the trade war between Canada and the U.S. that he started over a year ago.
+
+Date: 2026-07-22
+
+### Sen. Bennet rails against trade chief for Trump policy's impact on farmers
+
+Sen. Michael Bennet, a Democrat from Washington, challenged some of U.S. Trade Representative Jamieson Greer's assertions about the successes of President Trump's trade policies and their impact on farmers.
+
+Date: 2026-07-22
+
+### Trump threatens to attack Iran's infrastructure over Strait of Hormuz
+
+President Trump in a social media post threatened to attack Iran's infrastructure if the Iranian military shoots at ships in the Strait of Hormuz. CBS News' Natalie Brand and Charlie D'Agata have more.
+
+Date: 2026-07-22
+
+### Andy Biggs wins Republican nomination to challenge Democrat Katie Hobbs for Arizona governor
+
+Biggs, a fierce ally of President Donald Trump and former head of the House Freedom Caucus, won the Republican nomination for Arizona governor Tuesday.
 
 Date: 2026-07-22
 
 ## Sources
 
-- [Trump ally Andy Biggs wins GOP nomination for Arizona governor, AP projects](https://www.cbsnews.com/news/arizona-governors-race-results-katie-hobbs-andy-biggs-david-schweikert/?utm_source=lootura.com) — 2026-07-22T03:06:24.000Z
-- [What to know about Pickaxe Mountain, an Iranian target noted by Trump](https://www.cbsnews.com/video/what-to-know-about-pickaxe-mountain-an-iranian-target-noted-by-trump/?utm_source=lootura.com) — 2026-07-22T01:56:08.000Z
-- [Trump approves landmark U.S.-Saudi nuclear deal](https://www.nbcnews.com/world/saudi-arabia/trump-us-saudi-nuclear-deal-uranium-enrichment-iran-war-israel-rcna588660?utm_source=lootura.com) — 2026-07-22T12:04:33.000Z
-- [Trump-Backed Rep. Andy Biggs Wins Arizona Governor Primary](https://www.today.com/video/trump-backed-rep-andy-biggs-wins-arizona-governor-primary-267091013514?utm_source=lootura.com) — 2026-07-22T12:14:34.000Z
+- [Watch: Sen. Bennet rails against trade chief for Trump policy's impact on farmers](https://www.cbsnews.com/video/sen-bennet-and-jamieson-greer-clash-over-trump-policy-impacts-on-farmers/?utm_source=lootura.com) — 2026-07-22T16:51:14.000Z
+- [Trump threatens to attack Iran's infrastructure over Strait of Hormuz](https://www.cbsnews.com/video/trump-threatens-attack-iran-infrastructure-over-strait-of-hormuz/?utm_source=lootura.com) — 2026-07-22T16:44:35.000Z
 - [States want to bring Medicaid behind bars. Federal changes make that harder](https://www.npr.org/2026/07/22/nx-s1-5896456/medicaid-cuts-incarceration-states-obbba?utm_source=lootura.com) — 2026-07-22T09:00:00.000Z
 - [Trump-backed candidates, 2020 election deniers, win Arizona primaries](https://www.npr.org/2026/07/22/nx-s1-5902198/arizona-primary-results-trump-elections-biggs?utm_source=lootura.com) — 2026-07-22T08:33:21.000Z
 - [Trump has campaigned more so far in 2026 midterms than he did at this point in 2018](https://www.npr.org/2026/07/22/nx-s1-5887428/2026-midterm-election-trump-campaign-rally?utm_source=lootura.com) — 2026-07-22T09:00:00.000Z
-- [Trump to attend dignified transfer of fallen soldiers. And, Hegseth testifies on Iran](https://www.npr.org/2026/07/22/g-s1-134896/up-first-newsletter-trump-iran-war-pete-hegseth-arizona-primaries?utm_source=lootura.com) — 2026-07-22T11:24:22.000Z
+- [Andy Biggs wins Republican nomination to challenge Democrat Katie Hobbs for Arizona governor](https://www.pbs.org/newshour/politics/andy-biggs-wins-republican-nomination-to-challenge-democrat-katie-hobbs-for-arizona-governor?utm_source=lootura.com) — 2026-07-22T14:53:48.000Z
+- [Trump will attend the dignified transfer of 4 U.S. service members killed in the Middle East](https://www.pbs.org/newshour/world/trump-will-attend-the-dignified-transfer-of-4-u-s-service-members-killed-in-the-middle-east?utm_source=lootura.com) — 2026-07-22T14:27:14.000Z
 - [‘It’s a stone around your neck’: Arizona Republicans once again nominate 2020 election deniers](https://www.politico.com/news/2026/07/22/arizona-republicans-elect-2020-deniers-trump-01007511?utm_source=lootura.com) — 2026-07-22T05:15:06.000Z
-- [Trump-backed Jay Feely wins GOP primary in Arizona’s battleground 1st District](https://www.politico.com/news/2026/07/21/feely-wins-arizona-house-primary-01007468?utm_source=lootura.com) — 2026-07-22T03:16:31.000Z
+- [Arizona Elections: 6 Takeaways From the Trump-Dominated Primaries](https://www.nytimes.com/2026/07/22/us/politics/arizona-primary-takeaways.html?utm_source=lootura.com) — 2026-07-22T09:17:02.000Z
+- [Rubio and Chinese Diplomat Make Plans for Trump and Xi’s Washington Summit](https://www.nytimes.com/2026/07/22/us/politics/trump-xi-rubio-manila-china.html?utm_source=lootura.com) — 2026-07-22T16:23:06.000Z

@@ -3,7 +3,7 @@
 > Sigue la actividad de Salvador Illa en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-22T13:46:22.256Z
+- Actualizado: 2026-07-22T17:15:40.463Z
 - Canonical: https://atlas.lootura.com/es/person/salvador-illa
 
 ## Cambios recientes
@@ -46,4 +46,4 @@ Date: 2026-07-16
 
 ## Fuentes
 
-- [Bronca en el Parlament entre Illa y el PP por el no homenaje a los jugadores catalanes de España](https://www.elconfidencial.com/espana/cataluna/2026-07-22/bronca-illa-alejandro-fernandez-victoria-roja_4394151/?utm_source=lootura.com) — 2026-07-22T11:53:00.000Z
+- [Illa desvela el plantón de los catalanes campeones del mundo: «No han querido venir»](https://theobjective.com/espana/cataluna/2026-07-22/illa-planton-catalanes-campeones-mundo/?utm_source=lootura.com) — 2026-07-22T15:17:10.000Z

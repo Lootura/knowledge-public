@@ -3,22 +3,10 @@
 > Follow Iran, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-22T13:46:43.033Z
+- Updated: 2026-07-22T17:16:02.754Z
 - Canonical: https://atlas.lootura.com/us/place/iran
 
 ## Recent changes
-
-### Funding milestone detected
-
-The U.S. launched an 11th consecutive night of strikes against Iran on Tuesday. CBS News' Weijia Jiang reports on Defense Secretary Pete Hegseth's earlier testimony about the Pentagon's request for additional funding. Then, Washington Post national security reporter Noah Robertson joins with analysis.
-
-Date: 2026-07-22
-
-### What to know about Pickaxe Mountain, an Iranian target noted by Trump
-
-President Trump on Tuesday threatened to attack Pickaxe Mountain in Iran, a secure facility allegedly used for nuclear activity. CBS News national security analyst Aaron MacLean has more.
-
-Date: 2026-07-22
 
 ### See How Houthis Put the Red Sea at Risk as an Alternative Oil Route
 
@@ -35,6 +23,30 @@ Date: 2026-07-22
 ### Sen. Patty Murray, D-Wash., on Defense Secretary Pete Hegseth's Senate testimony
 
 NPR's Leila Fadel speaks with Democratic Sen. Patty Murray of Washington about the administration's Iran war objectives following the testimony of Defense Secretary Pete Hegseth.
+
+Date: 2026-07-22
+
+### Trump threatens to attack Iran's infrastructure over Strait of Hormuz
+
+President Trump in a social media post threatened to attack Iran's infrastructure if the Iranian military shoots at ships in the Strait of Hormuz. CBS News' Natalie Brand and Charlie D'Agata have more.
+
+Date: 2026-07-22
+
+### Iran’s Neighbors Long for a Deal, Any Deal, to End the War
+
+Business owners in Pakistan are getting impatient for a chance to finally trade goods and oil along their long shared border with Iran.
+
+Date: 2026-07-22
+
+### Funding milestone detected
+
+The U.S. launched an 11th consecutive night of strikes against Iran on Tuesday. CBS News' Weijia Jiang reports on Defense Secretary Pete Hegseth's earlier testimony about the Pentagon's request for additional funding. Then, Washington Post national security reporter Noah Robertson joins with analysis.
+
+Date: 2026-07-22
+
+### What to know about Pickaxe Mountain, an Iranian target noted by Trump
+
+President Trump on Tuesday threatened to attack Pickaxe Mountain in Iran, a secure facility allegedly used for nuclear activity. CBS News national security analyst Aaron MacLean has more.
 
 Date: 2026-07-22
 
@@ -56,27 +68,12 @@ Defense Secretary Pete Hegseth and Chairman of the Joint Chiefs Dan Caine testif
 
 Date: 2026-07-22
 
-### With His Latest Threats, Trump Signals to Iran That He Is Willing to Escalate
-
-President Trump is facing a critical moment in the war, which has failed to bring about the “unconditional surrender” he once demanded.
-
-Date: 2026-07-22
-
-### Iran’s foreign minister describes moment of attack that killed Khamenei
-
-Abbas Araghchi says he has kept on the move since being pulled from rubble after strike on first day of war Iran’s foreign minister, Abbas Araghchi, has described how he was pulled from the rubble of a leadership compound after the US-Israeli airstrike that killed the country’s supreme leader, Ali Khamenei, on the firs.
-
-Date: 2026-07-22
-
 ## Sources
 
 - [3 soldiers killed in Iran strike on base in Jordan were from Texas, Hawaii, N.Y.](https://www.cbsnews.com/news/iran-strike-jordan-us-troops-killed/?utm_source=lootura.com) — 2026-07-22T07:22:00.000Z
-- [U.S. launches strikes on Iran for 11th consecutive night](https://www.cbsnews.com/video/us-launches-strikes-iran-11th-consecutive-night/?utm_source=lootura.com) — 2026-07-22T02:11:05.000Z
-- [What to know about Pickaxe Mountain, an Iranian target noted by Trump](https://www.cbsnews.com/video/what-to-know-about-pickaxe-mountain-an-iranian-target-noted-by-trump/?utm_source=lootura.com) — 2026-07-22T01:56:08.000Z
+- [Trump threatens to attack Iran's infrastructure over Strait of Hormuz](https://www.cbsnews.com/video/trump-threatens-attack-iran-infrastructure-over-strait-of-hormuz/?utm_source=lootura.com) — 2026-07-22T16:44:35.000Z
 - [Defense Secretary Pete Hegseth defends Iran war funding request at fiery hearing](https://www.npr.org/2026/07/22/nx-s1-5901981/defense-secretary-pete-hegseth-defends-iran-war-funding-request-at-fiery-hearing?utm_source=lootura.com) — 2026-07-22T10:43:36.000Z
 - [Sen. Patty Murray, D-Wash., on Defense Secretary Pete Hegseth's Senate testimony](https://www.npr.org/2026/07/22/nx-s1-5902047/sen-patty-murray-d-wash-on-defense-secretary-pete-hegseths-senate-testimony?utm_source=lootura.com) — 2026-07-22T10:43:28.000Z
-- [U.S. and Iranian attacks continue as tensions mount on a key waterway in the Red Sea](https://www.npr.org/2026/07/22/nx-s1-5902843/us-iran-updates?utm_source=lootura.com) — 2026-07-22T10:46:01.000Z
-- [Trump to attend dignified transfer of fallen soldiers. And, Hegseth testifies on Iran](https://www.npr.org/2026/07/22/g-s1-134896/up-first-newsletter-trump-iran-war-pete-hegseth-arizona-primaries?utm_source=lootura.com) — 2026-07-22T11:24:22.000Z
 - [Pentagon Identifies Soldier Killed in Iran War as Sgt. Michael Emmanuel Swinton](https://www.nytimes.com/2026/07/21/us/pentagon-identifies-soldier-iran-war-emmanuel-swinton.html?utm_source=lootura.com) — 2026-07-21T20:25:29.000Z
-- [Hegseth and Caine Will Appear Before Senators to Seek More Money for Iran War](https://www.nytimes.com/2026/07/21/us/iran-war-funding.html?utm_source=lootura.com) — 2026-07-21T16:54:59.000Z
+- [Iran’s Neighbors Long for a Deal, Any Deal, to End the War](https://www.nytimes.com/2026/07/22/world/asia/iran-pakistan-karachi-trade-oil.html?utm_source=lootura.com) — 2026-07-22T15:21:18.000Z
 - [See How Houthis Put the Red Sea at Risk as an Alternative Oil Route](https://www.nytimes.com/2026/07/22/business/energy-environment/red-sea-saudi-arabia-houthis.html?utm_source=lootura.com) — 2026-07-22T12:17:51.000Z

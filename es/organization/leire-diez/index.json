@@ -1,14 +1,14 @@
 {
   "id": "es-leire-diez",
   "name": "Leire Díez",
-  "type": "organization",
+  "type": "person",
   "locale": "es",
   "canonicalPath": "/es/organization/leire-diez",
   "canonicalUrl": "https://atlas.lootura.com/es/organization/leire-diez",
   "markdownUrl": "https://atlas.lootura.com/es/organization/leire-diez/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/leire-diez/index.json",
   "description": "Sigue la actividad de Leire Díez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-22T13:46:22.256Z",
+  "updatedAt": "2026-07-22T17:15:40.463Z",
   "aliases": [],
   "changes": [
     {
@@ -17,13 +17,23 @@
       "date": "2026-07-22"
     },
     {
-      "title": "Narbona admite que derivó a Leire Díez a Cerdán pero rechaza que conociera los detalles",
-      "summary": "Narbona asegura que Cerdán le dijo que la información que le había transmitido Leire Díez era «intrascendente».",
+      "title": "Discovered by Atlas",
+      "summary": "Leire Díez first entered the public knowledge record with source-backed evidence.",
       "date": "2026-07-22"
     },
     {
-      "title": "Discovered by Atlas",
-      "summary": "Leire Díez first entered the public knowledge record with source-backed evidence.",
+      "title": "Narbona niega haber promocionado a Leire Díez: “Yo no soy la madrina de nadie”",
+      "summary": "Leire Díez se ha convertido en una bomba política de efectos retardados que le ha servido al PP de excusa para forzar la comparecencia de Cristina Narbona en el Senado. La presidenta del PSOE ha negado que conociera la presunta trama orquestada por la exmilitante socialista con Santos Cerdán para desestabilizar causas.",
+      "date": "2026-07-22"
+    },
+    {
+      "title": "La Audiencia Provincial respalda al juez Zamarriego y rechaza que Aldama se persone en el \"caso Leire\"",
+      "summary": "La Audiencia Provincial de Madrid ha ratificado la decisión del juez Arturo Zamarriego de negar a Víctor de Aldama ejercer la acusación particular, en calidad de perjudicado, en la investigación a Leire Díez por las «cloacas del PSOE» (procedimiento del que el juez de la Audiencia Nacional Santiago Pedraz le ha pedido.",
+      "date": "2026-07-22"
+    },
+    {
+      "title": "Narbona admite que derivó a Leire Díez a Cerdán pero rechaza que conociera los detalles",
+      "summary": "Narbona asegura que Cerdán le dijo que la información que le había transmitido Leire Díez era «intrascendente».",
       "date": "2026-07-22"
     },
     {
@@ -39,29 +49,23 @@
   ],
   "sources": [
     {
-      "title": "Narbona niega haber hablado con Sánchez sobre Leire Díez y reivindica el \"respeto que merece\" Zapatero",
-      "url": "https://www.20minutos.es/nacional/narbona-niega-haber-hablado-con-sanchez-sobre-leire-diez-reivindica-senado-enorme-respeto-que-merece-zapatero_7017617_0.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-22T10:55:49.000Z",
-      "sourceId": "lootura-es-20minutos"
-    },
-    {
-      "title": "Cristina Narbona niega ser «madrina» de Leire Díez y reitera que la derivó a Santos Cerdán",
-      "url": "https://www.abc.es/espana/cristina-narbona-niega-madrina-leire-diez-reitera-20260722122958-nt.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-22T11:42:59.000Z",
-      "sourceId": "lootura-es-abc"
-    },
-    {
       "title": "Narbona afirma que Sánchez \"ha asumido la responsabilidad política\" por los casos de corrupción y defiende a Zapatero \"por su enorme legado\"",
       "url": "https://www.elmundo.es/espana/2026/07/22/6a609717e9cf4a04078b456f.html?utm_source=lootura.com",
       "publishedAt": "2026-07-22T10:15:48.000Z",
       "sourceId": "lootura-es-el-mundo"
     },
     {
-      "title": "Narbona admite que derivó a Leire Díez a Cerdán pero rechaza que conociera los detalles",
-      "url": "https://theobjective.com/espana/2026-07-22/narbona-leire-diaz-cerdan-detalles/?amp=&utm_source=lootura.com",
-      "publishedAt": "2026-07-22T09:56:34.000Z",
-      "sourceId": "lootura-es-the-objective"
+      "title": "Narbona niega haber promocionado a Leire Díez: “Yo no soy la madrina de nadie”",
+      "url": "https://elpais.com/espana/2026-07-22/narbona-niega-haber-promocionado-a-leire-diez-yo-no-soy-la-madrina-de-nadie.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-22T13:57:33.000Z",
+      "sourceId": "lootura-es-el-pais"
+    },
+    {
+      "title": "La Audiencia Provincial respalda al juez Zamarriego y rechaza que Aldama se persone en el \"caso Leire\"",
+      "url": "https://www.larazon.es/espana/audiencia-provincial-respalda-juez-zamarriego-rechaza-que-aldama-persone-causa-cloacas-psoe_202607226a60f7b7da3add27d4dc53f9.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-22T17:11:28.000Z",
+      "sourceId": "lootura-es-la-razon"
     }
   ],
-  "evidenceCount": 4
+  "evidenceCount": 3
 }

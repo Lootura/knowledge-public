@@ -3,7 +3,7 @@
 > Sigue la actividad de Artificial intelligence en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: topic
-- Actualizado: 2026-07-22T13:46:22.256Z
+- Actualizado: 2026-07-22T17:15:40.463Z
 - Canonical: https://atlas.lootura.com/es/topic/artificial-intelligence
 
 ## Cambios recientes
@@ -46,5 +46,5 @@ Date: 2026-07-10
 
 ## Fuentes
 
-- [Un nuevo modelo de OpenAI provoca un ataque “sin precedentes” contra otra plataforma de inteligencia artificial](https://elpais.com/tecnologia/2026-07-22/un-nuevo-modelo-de-openai-provoca-un-ataque-sin-precedentes-contra-otra-plataforma-de-inteligencia-artificial.html?utm_source=lootura.com) — 2026-07-22T11:50:39.000Z
+- [AMD y Anthropic sacuden la IA con una alianza estratégica que incluye una inversión de 5.000 millones de dólares](https://cincodias.elpais.com/companias/2026-07-22/amd-y-anthropic-sacuden-la-ia-con-una-alianza-estrategica-que-incluye-una-inversion-de-5000-millones-de-dolares.html?utm_source=lootura.com) — 2026-07-22T16:13:05.000Z
 - [Samsung regala 6 meses de Google AI Pro con sus nuevos Galaxy Z Fold 8 y Z Flip 8](https://hipertextual.com/mobile/galaxy-z-fold8-flip8-google-ai-pro-gratis/?utm_source=lootura.com) — 2026-07-22T13:05:00.000Z

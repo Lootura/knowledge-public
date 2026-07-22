@@ -70,4 +70,4 @@ Date: 2026-07-20
 
 ## Fuentes
 
-- [Nuevos Samsung Galaxy Watch9 y Watch Ultra2: la IA toma también tu muñeca, ahora para ayudarte a cuidar al máximo tu cuerpo y tu salud](https://www.larazon.es/tecnologia-consumo/samsung/nuevos-samsung-galaxy-watch9-watch-ultra2-ia-toma-tambien-tu-muneca-ahora-ayudarte-cuidar-maximo-tu-cuerpo-tu-salud_202607226a607a9eda3add27d4db69fe.html?utm_source=lootura.com) — 2026-07-22T13:03:00.000Z
+No public source links.

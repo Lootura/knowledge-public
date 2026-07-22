@@ -3,10 +3,16 @@
 > Sigue la actividad de mansión exclusiva en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: object
-- Actualizado: 2026-07-22T02:26:20.882Z
+- Actualizado: 2026-07-22T17:15:40.463Z
 - Canonical: https://atlas.lootura.com/es/object/casa-blanca
 
 ## Cambios recientes
+
+### Hegseth eleva el coste de la guerra con Irán y pide financiación adicional «urgente»
+
+La Casa Blanca ha elevado a cerca de 37.500 millones de dólares (cerca de 32.875 millones de euros) el coste de la guerra con Irán, desatada por la ofensiva lanzada por sorpresa el 28 de febrero por fuerzas estadounidenses e israelíes contra el país centroasiático en plenas conversaciones diplomáticas entre Washington.
+
+Date: 2026-07-22
 
 ### Los yihadistas ofrecen 10 millones de dólares al que asesine al presidente Trump
 
@@ -58,4 +64,4 @@ Date: 2026-07-14
 
 ## Fuentes
 
-No public source links.
+- [Hegseth eleva el coste de la guerra con Irán y pide financiación adicional «urgente»](https://www.abc.es/internacional/hegseth-eleva-coste-guerra-iran-pide-financiacion-20260722105133-nt.html?utm_source=lootura.com) — 2026-07-22T16:40:19.000Z

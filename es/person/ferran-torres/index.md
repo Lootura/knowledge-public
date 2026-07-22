@@ -3,10 +3,16 @@
 > Sigue la actividad de "El Tiburón" en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-22T13:46:22.256Z
+- Actualizado: 2026-07-22T17:15:40.463Z
 - Canonical: https://atlas.lootura.com/es/person/ferran-torres
 
 ## Cambios recientes
+
+### Todos quieren emparejar a Ferran Torres, el soltero de oro de los campeones
+
+Las búsquedas con el nombre de Ferran Torres (26 años) han visto un pico que tiene difícil comparación. Un 400% más que en los tres meses anteriores y en los últimos días hay un aumento puntual que supera en un 5.000% el mismo periodo del año anterior. Quizás decir que es la estrella de la Roja es exagerar, puesto que.
+
+Date: 2026-07-22
 
 ### Destrozan el mural de Ferran Torres en Barcelona un día después de pintarlo
 
@@ -58,4 +64,4 @@ Date: 2026-07-19
 
 ## Fuentes
 
-- [El mural homenaje a Ferran Torres en Barcelona amanece vandalizado con pinturas de "Puta España"](https://www.elconfidencial.com/espana/cataluna/2026-07-22/mural-ferran-torres-vandalizado-barcelona-pintura_4394146/?utm_source=lootura.com) — 2026-07-22T12:01:00.000Z
+- [Todos quieren emparejar a Ferran Torres, el soltero de oro de los campeones](https://www.abc.es/gente/quieren-emparejar-ferran-torres-20260722163327-nt.html?utm_source=lootura.com) — 2026-07-22T16:49:11.000Z

@@ -8,30 +8,30 @@
   "markdownUrl": "https://atlas.lootura.com/us/company/openai/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/company/openai/index.json",
   "description": "Follow OpenAI, a tracked company, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-22T13:46:43.033Z",
+  "updatedAt": "2026-07-22T17:16:02.754Z",
   "aliases": [
     "ChatGPT maker",
     "openai.com"
   ],
   "changes": [
     {
-      "title": "Funding milestone detected",
-      "summary": "OpenAI announces Project Camellia in Effingham County, Georgia, with commitments to responsible energy, community investment, jobs, and access to Codex.",
+      "title": "Discovered by Atlas",
+      "summary": "OpenAI first entered the public knowledge record with source-backed evidence.",
       "date": "2026-07-22"
     },
     {
-      "title": "Discovered by Atlas",
-      "summary": "OpenAI first entered the public knowledge record with source-backed evidence.",
+      "title": "Funding milestone detected",
+      "summary": "OpenAI announces Project Camellia in Effingham County, Georgia, with commitments to responsible energy, community investment, jobs, and access to Codex.",
       "date": "2026-07-22"
     }
   ],
   "sources": [
     {
-      "title": "Building AI infrastructure with the Effingham County community",
-      "url": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community?utm_source=lootura.com",
-      "publishedAt": "2026-07-22T13:00:00.000Z",
-      "sourceId": "lootura-us-openai"
+      "title": "Google Releases Three New Gemini A.I. Models",
+      "url": "https://www.nytimes.com/2026/07/21/technology/google-ai-cybersecurity-gemini.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-21T19:38:58.000Z",
+      "sourceId": "lootura-us-the-new-york-times"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 0
 }

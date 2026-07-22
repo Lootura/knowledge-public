@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/carles-puigdemont/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/carles-puigdemont/index.json",
   "description": "Sigue la actividad de Carles Puigdemont Casamajó en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-22T13:46:22.256Z",
+  "updatedAt": "2026-07-22T17:15:40.463Z",
   "aliases": [
     "Carles",
     "Carles Puigdemont Casamajó",
@@ -18,6 +18,16 @@
     "Puigdemont"
   ],
   "changes": [
+    {
+      "title": "La Comisión Europea recuerda que los tribunales españoles tienen que aplicar el fallo del TJUE",
+      "summary": "La Comisión Europea dice haber recibido la denuncia contra España interpuesta por el expresident de la Generalitat, Carles Puigdemont, como respuesta a la maniobra del Tribunal de Cuentas para no aplicar directamente la ley de Amnistía, pero de momento no ha dado pistas de lo que hará y se limita a recordar que “corres.",
+      "date": "2026-07-22"
+    },
+    {
+      "title": "Bruselas rechaza mediar en la ley de amnistía: «Corresponde a los tribunales españoles»",
+      "summary": "La Comisión Europea confirmó este miércoles que ha recibido el escrito de la defensa del expresidente catalán Carles Puigdemont que acusa a España de «incumplimiento» del derecho europeo y, aunque descartó comentarlo, incidió en que los tribunales que remitieron preguntas prejudiciales son los que deben aplicar la sent.",
+      "date": "2026-07-22"
+    },
     {
       "title": "¿Cómo funciona la denuncia que ha presentado Puigdemont contra España?",
       "summary": "La defensa del expresident Carles Puigdemont presentó el lunes dos denuncias contra España ante instancias europeas como respuesta a la negativa del Tribunal de Cuentas a aplicar la ley de Amnistía a la treintena de ex altos cargos de la administración catalana a los que se reclaman los gastos del procés . El órgano fi.",
@@ -57,25 +67,21 @@
       "title": "Junts fía su futuro electoral al regreso de Puigdemont",
       "summary": "Ayer, el Tribunal de Justicia de la Unión Europea (TJUE) dio un auténtico espaldarazo a la Ley de Amnistía y allanó el camino, aunque todavía queda una parte por recorrer, para el regreso a España de Carles Puigdemont . Desde Junts se anotaron así una importante victoria política y vendieron en sus círculos que habían.",
       "date": "2026-07-17"
-    },
-    {
-      "title": "Discovered by Atlas",
-      "summary": "Carles Puigdemont first entered the public knowledge record with source-backed evidence.",
-      "date": "2026-07-16"
-    },
-    {
-      "title": "El Supremo mantiene el motivo clave por el que rechazó amnistiar la malversación de Puigdemont",
-      "summary": "Aunque el ex presidente catalán Carles Puigdemont celebró ayer el fallo del Tribunal de Justicia de la Unión Europea (TJUE) sobre la amnistía, lo cierto es que tendrá que...",
-      "date": "2026-07-16"
     }
   ],
   "sources": [
     {
-      "title": "¿Cómo funciona la denuncia que ha presentado Puigdemont contra España?",
-      "url": "https://www.lavanguardia.com/politica/20260722/11598504/como-funciona-denuncia-presentado-puigdemont-espana-comision-europea.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-22T11:03:21.000Z",
+      "title": "La Comisión Europea recuerda que los tribunales españoles tienen que aplicar el fallo del TJUE",
+      "url": "https://www.lavanguardia.com/politica/20260722/11598431/comision-europea-recibe-demanda-puigdemont-abstiene-comentarla.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-22T13:35:16.000Z",
       "sourceId": "lootura-es-la-vanguardia"
+    },
+    {
+      "title": "Bruselas rechaza mediar en la ley de amnistía: «Corresponde a los tribunales españoles»",
+      "url": "https://theobjective.com/internacional/2026-07-22/bruselas-ley-amnistia-tribunales-espanoles/?utm_source=lootura.com",
+      "publishedAt": "2026-07-22T16:23:08.000Z",
+      "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 2
 }

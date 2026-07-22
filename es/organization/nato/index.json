@@ -8,13 +8,18 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/nato/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/nato/index.json",
   "description": "Sigue la actividad de Organización del Tratado del Atlántico Norte en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-16T20:54:41.819Z",
+  "updatedAt": "2026-07-22T17:15:40.463Z",
   "aliases": [
     "North Atlantic Treaty Organization",
     "OTAN",
     "Organización del Tratado del Atlántico Norte"
   ],
   "changes": [
+    {
+      "title": "Airbus prueba en España el nuevo simulador de aviones cisterna para la flota de la OTAN",
+      "summary": "La OTAN continúa reforzando una de sus capacidades aéreas más estratégicas. La Agencia de Apoyo y Adquisiciones de la Alianza (NSPA) ha superado un nuevo hito en el desarrollo del sistema de entrenamiento de la Flota Multinacional de Aviones Cisterna y Transporte (MMF, por sus siglas en inglés) tras completar con éxito.",
+      "date": "2026-07-22"
+    },
     {
       "title": "España asume el liderazgo de la fuerza naval de la OTAN con maniobras junto a Japón y Canadá",
       "summary": "España ha asumido por primera vez el mando de la fuerza naval de la OTAN encargada de vigilar el Atlántico Norte , una responsabilidad que sitúa a la Armada en el centro del nuevo dispositivo de disuasión diseñado por la Alianza. El estreno de este liderazgo ha llegado acompañado de ejercicios navales con las marinas d.",
@@ -59,13 +64,15 @@
       "title": "Las claves: el mercado deja de comprar defensa europea en bloque",
       "summary": "La tensión bélica en Europa no ha aflojado. El secretario general de la OTAN, Mark Rutte, anunció durante la cumbre de Ankara “decenas de miles de millones” en nuevos contratos para la industria de defensa . Sin embargo, el mercado ha dejado de comprar el sector en bloque. Si durante 2024 y buena parte de 2025 bastaba.",
       "date": "2026-07-12"
-    },
-    {
-      "title": "La ruleta geopolítica abre oportunidades en la defensa europea, pero el mercado ya no compra a ciegas",
-      "summary": "La ruleta geopolítica sigue girando y, mientras las alianzas globales se reconfiguran, los inversores evalúan si el sector europeo de la defensa todavía esconde oportunidades. Durante la reciente cumbre de la OTAN en Ankara , el secretario general, Mark Rutte, anunció “decenas de miles de millones” en nuevos contratos.",
-      "date": "2026-07-12"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Airbus prueba en España el nuevo simulador de aviones cisterna para la flota de la OTAN",
+      "url": "https://theobjective.com/tecnologia/2026-07-22/airbus-simulador-flota-otan/?utm_source=lootura.com",
+      "publishedAt": "2026-07-22T15:31:22.000Z",
+      "sourceId": "lootura-es-the-objective"
+    }
+  ],
+  "evidenceCount": 1
 }

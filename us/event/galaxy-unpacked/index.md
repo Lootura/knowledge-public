@@ -22,4 +22,4 @@ Date: 2026-07-22
 
 ## Sources
 
-- [3 Google updates from Galaxy Unpacked 2026](https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026/?utm_source=lootura.com) — 2026-07-22T13:00:00.000Z
+No public source links.

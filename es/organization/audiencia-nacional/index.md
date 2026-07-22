@@ -3,20 +3,38 @@
 > Sigue la actividad de Audiencia Nacional (España) en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-22T13:46:22.256Z
+- Actualizado: 2026-07-22T17:15:40.463Z
 - Canonical: https://atlas.lootura.com/es/organization/audiencia-nacional
 
 ## Cambios recientes
 
-### La causa contra Zapatero sitúa ahora el foco en la cúpula de Plus Ultra tras contradecir la versión del expresidente
-
-Julio Martínez Martínez entró sobre las 8.45 de este martes en la Audiencia Nacional y salió más de cuatro horas después sin moverse mucho de la línea marcada un día antes en el escrito enviado al juez José Luis Calama para implicar al expresidente José Luis Rodríguez Zapatero en el rescate de Plus Ultra . El giro del.
-
-Date: 2026-07-22
-
 ### Fernández Díaz alega que se busca condenarlo en Kitchen “por razón” de su cargo de ministro
 
 Jorge Fernández Díaz, ministro del Interior de 2011 a 2016 y hombre de confianza del expresidente Mariano Rajoy, ya ha jugado sus cartas en el juicio del caso Kitchen , que se ha reanudado este miércoles en la Audiencia Nacional. Tres meses después del arranque de la vista , su abogado ha expuesto al tribunal su alegat.
+
+Date: 2026-07-22
+
+### Las seis mayores contradicciones entre lo que Julio Martínez declaró y la versión de Zapatero
+
+La declaración de Julio Martínez Martínez ha complicado el futuro judicial de José Luis Rodríguez Zapatero . Eso y los escritos que tanto el "amigo" como dos altos cargos de Plus Ultra han remitido esta semana a la Audiencia Nacional. Según ellos, el expresidente habría influido en favor del rescate de 53 millones de e.
+
+Date: 2026-07-22
+
+### Narbona se agarra al legado de Zapatero, pero solo pone la mano en el fuego por Sánchez
+
+Una semana después de declarar como testigo ante la Audiencia Nacional , la presidenta del PSOE, Cristina Narbona, ha acudido este miércoles a la sala Clara Campoamor del Senado —donde se daba cita la comisión de investigación por el caso Koldo y otras tantas derivadas— por las dudas que suscita su relación con Leire D.
+
+Date: 2026-07-22
+
+### La Audiencia Provincial respalda al juez Zamarriego y rechaza que Aldama se persone en el "caso Leire"
+
+La Audiencia Provincial de Madrid ha ratificado la decisión del juez Arturo Zamarriego de negar a Víctor de Aldama ejercer la acusación particular, en calidad de perjudicado, en la investigación a Leire Díez por las «cloacas del PSOE» (procedimiento del que el juez de la Audiencia Nacional Santiago Pedraz le ha pedido.
+
+Date: 2026-07-22
+
+### La causa contra Zapatero sitúa ahora el foco en la cúpula de Plus Ultra tras contradecir la versión del expresidente
+
+Julio Martínez Martínez entró sobre las 8.45 de este martes en la Audiencia Nacional y salió más de cuatro horas después sin moverse mucho de la línea marcada un día antes en el escrito enviado al juez José Luis Calama para implicar al expresidente José Luis Rodríguez Zapatero en el rescate de Plus Ultra . El giro del.
 
 Date: 2026-07-22
 
@@ -50,26 +68,9 @@ Julio Martínez 'Julito', el exsocio de Rodríguez Zapatero, ratificó este mart
 
 Date: 2026-07-21
 
-### Vox se adelanta al PP: recurre al Supremo y mira a la Audiencia Nacional y al TJUE para frenar la ley de nietos
-
-Santiago Abascal quiere pilotar la presión política, institucional y judicial contra la controvertida ley de nietos que tiene ya enfrente por distintos motivos a funcionarios, juristas, diplomáticos y a los dos principales partidos de la oposición. Vox ha convertido el rechazo a la nacionalización masiva promovida por.
-
-Date: 2026-07-21
-
-### El pagador de Zapatero declara ante el juez que el ex presidente le anticipó que el Gobierno iba a aprobar el rescate de Plus Ultra
-
-El empresario alicantino Julio Martínez Martínez ha declarado este martes en la Audiencia Nacional que fue el ex presidente del Gobierno José Luis Rodríguez Zapatero quien le...
-
-Date: 2026-07-21
-
-### ‘Julito’ Martínez endosa a Zapatero cuatro delitos que sumarían hasta 22 años de cárcel
-
-La declaración de Julio Martínez Martínez , conocido como Julito , ante el juez de la Audiencia Nacional José Luis Calama ha reforzado los indicios de hasta cuatro de los siete delitos que se investigan en la causa contra José Luis Rodríguez Zapatero: tráfico de influencias, blanqueo de capitales, falsedad documental y.
-
-Date: 2026-07-21
-
 ## Fuentes
 
-- [La causa contra Zapatero sitúa ahora el foco en la cúpula de Plus Ultra tras contradecir la versión del expresidente](https://elpais.com/espana/2026-07-22/la-causa-contra-zapatero-situa-ahora-el-foco-en-la-cupula-de-plus-ultra-tras-contradecir-la-version-del-expresidente.html?utm_source=lootura.com) — 2026-07-22T03:30:01.000Z
-- [Fernández Díaz alega que se busca condenarlo en Kitchen “por razón” de su cargo de ministro](https://elpais.com/espana/2026-07-22/fernandez-diaz-alega-que-se-busca-condenarlo-en-kitchen-por-razon-de-su-cargo-de-ministro.html?utm_source=lootura.com) — 2026-07-22T10:51:41.000Z
-- [El Gobierno vasco concede beneficios penitenciarios al asesino de Gregorio Ordóñez](https://www.larazon.es/espana/gobierno-vasco-concede-beneficios-penitenciarios-asesino-gregorio-ordonez_202607226a60c5b94687a22bdec7a7fc.html?utm_source=lootura.com) — 2026-07-22T13:29:29.000Z
+- [Las seis mayores contradicciones entre lo que Julio Martínez declaró y la versión de Zapatero](https://www.20minutos.es/nacional/las-cinco-mayores-contradicciones-entre-que-julio-martinez-declaro-juez-calama-version-defendida-por-zapatero_7017741_0.html?utm_source=lootura.com) — 2026-07-22T14:11:43.000Z
+- [Narbona se agarra al legado de Zapatero, pero solo pone la mano en el fuego por Sánchez](https://www.abc.es/espana/cristina-narbona-niega-madrina-leire-diez-reitera-20260722122958-nt.html?utm_source=lootura.com) — 2026-07-22T16:33:00.000Z
+- [Fernández Díaz alega que se busca condenarlo en Kitchen “por razón” de su cargo de ministro](https://elpais.com/espana/2026-07-22/fernandez-diaz-alega-que-se-busca-condenarlo-en-kitchen-por-razon-de-su-cargo-de-ministro.html?utm_source=lootura.com) — 2026-07-22T14:18:40.000Z
+- [La Audiencia Provincial respalda al juez Zamarriego y rechaza que Aldama se persone en el "caso Leire"](https://www.larazon.es/espana/audiencia-provincial-respalda-juez-zamarriego-rechaza-que-aldama-persone-causa-cloacas-psoe_202607226a60f7b7da3add27d4dc53f9.html?utm_source=lootura.com) — 2026-07-22T17:11:28.000Z

@@ -3,7 +3,7 @@
 > Follow Jeffrey Epstein, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-07-22T13:46:43.033Z
+- Updated: 2026-07-22T17:16:02.754Z
 - Canonical: https://atlas.lootura.com/us/person/jeffrey-epstein
 
 ## Recent changes
@@ -22,5 +22,4 @@ Date: 2026-07-22
 
 ## Sources
 
-- [Model scout for Jeffrey Epstein found dead at his home near Paris](https://www.theguardian.com/us-news/2026/jul/22/daniel-siad-model-scout-jeffrey-epstein-found-dead-home-paris?utm_source=lootura.com) — 2026-07-22T13:38:59.000Z
 - [Whitney Cummings’s Trump Joke at Kennedy Center Is Cut From Netflix Special](https://www.nytimes.com/2026/07/21/arts/television/whitney-cummings-trump-joke-kennedy-center.html?utm_source=lootura.com) — 2026-07-22T00:22:02.000Z

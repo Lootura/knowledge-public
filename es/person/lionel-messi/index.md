@@ -3,10 +3,16 @@
 > Sigue la actividad de El Messías en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-22T10:23:10.282Z
+- Actualizado: 2026-07-22T17:15:40.463Z
 - Canonical: https://atlas.lootura.com/es/person/lionel-messi
 
 ## Cambios recientes
+
+### Casemiro se va con Messi: ficha por Inter Miami hasta 2027
+
+Casemiro ya tiene nuevo equipo tras abanadonar el Manchester United. Ha firmado por un año, con opción a dos más, con el Inter Miami de Messi.
+
+Date: 2026-07-22
 
 ### Messi dice adiós entre lágrimas en una Argentina impotente y furiosa: "Tenemos que ser grandes en la derrota"
 
@@ -62,12 +68,6 @@ Para el ser humano es difícil creer en el destino, aceptar que todo está escri
 
 Date: 2026-07-17
 
-### La intrahistoria de las fotos de Leo Messi junto a un Lamine Yamal de seis meses
-
-Las redes sociales se han inundado con la recordada imagen de Leo Messi junto a un Lamine Yamal de seis meses de edad. Descubre su historia.
-
-Date: 2026-07-16
-
 ## Fuentes
 
-No public source links.
+- [Casemiro se va con Messi: ficha por Inter Miami hasta 2027](https://okdiario.com/deportes/casemiro-va-messi-ficha-inter-miami-hasta-2027-19050216/amp?utm_source=lootura.com) — 2026-07-22T17:06:00.000Z

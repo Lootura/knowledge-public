@@ -3,7 +3,7 @@
 > Sigue la actividad de Federación Internacional de Fútbol Asociación en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-22T13:46:22.256Z
+- Actualizado: 2026-07-22T17:15:40.463Z
 - Canonical: https://atlas.lootura.com/es/organization/fifa
 
 ## Cambios recientes
@@ -46,4 +46,4 @@ Date: 2026-07-08
 
 ## Fuentes
 
-- [Trump sopesa proponer a Infantino como secretario general de la ONU, según el 'New York Post'](https://www.abc.es/internacional/trump-sopesa-proponer-infantino-secretario-general-onu-20260722115546-nt.html?utm_source=lootura.com) — 2026-07-22T12:05:50.000Z
+- [Porro, Cucurella y Rodri, únicos españoles en el mejor once del Mundial](https://www.abc.es/deportes/futbol/mundial/porro-cucurella-rodri-unicos-espanoles-mejor-once-20260722170720-nt.html?utm_source=lootura.com) — 2026-07-22T16:45:39.000Z

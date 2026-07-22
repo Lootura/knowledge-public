@@ -3,7 +3,7 @@
 > Sigue la actividad de República Portuguesa en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-22T13:46:22.256Z
+- Actualizado: 2026-07-22T17:15:40.463Z
 - Canonical: https://atlas.lootura.com/es/place/portugal
 
 ## Cambios recientes
@@ -71,4 +71,3 @@ Date: 2026-07-10
 ## Fuentes
 
 - [El exclusivo club del Toisón de Oro suma un nuevo nombre: Felipe VI distingue a Marcelo Rebelo de Sousa](https://okdiario.com/cool/casa-real/exclusivo-club-del-toison-oro-suma-nuevo-nombre-felipe-vi-distingue-marcelo-rebelo-sousa-19047505/amp?utm_source=lootura.com) — 2026-07-22T13:44:58.000Z
-- [El Rey concede el Toisón de Oro al expresidente de Portugal Rebelo de Sousa](https://theobjective.com/internacional/2026-07-22/rey-toison-oro-expresidente-portugal-rebelo-de-sousa/?utm_source=lootura.com) — 2026-07-22T12:52:26.000Z

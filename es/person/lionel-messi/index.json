@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/lionel-messi/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/lionel-messi/index.json",
   "description": "Sigue la actividad de El Messías en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-22T10:23:10.282Z",
+  "updatedAt": "2026-07-22T17:15:40.463Z",
   "aliases": [
     "El Messias",
     "El Messías",
@@ -25,6 +25,11 @@
     "Messi"
   ],
   "changes": [
+    {
+      "title": "Casemiro se va con Messi: ficha por Inter Miami hasta 2027",
+      "summary": "Casemiro ya tiene nuevo equipo tras abanadonar el Manchester United. Ha firmado por un año, con opción a dos más, con el Inter Miami de Messi.",
+      "date": "2026-07-22"
+    },
     {
       "title": "Messi dice adiós entre lágrimas en una Argentina impotente y furiosa: \"Tenemos que ser grandes en la derrota\"",
       "summary": "El argentino, neutralizado por España, se vino abajo ante su grada al recibir la medalla de plata. La albiceleste no tiró a puerta y sólo creó peligro en el minuto 119. Leer.",
@@ -69,13 +74,15 @@
       "title": "La fotografía que anticipó una final: \"Messi se encontró de sopetón con un bebé y se quedó más tieso que una tabla de planchar\"",
       "summary": "Para el ser humano es difícil creer en el destino, aceptar que todo está escrito de antemano y que nada depende de lo que uno haga, pero hay situaciones que escapan completamente a la lógica. Una de ellas es la foto que unió en 2007 a dos estrellas actuales del fútbol, cuando uno, Leo Messi , estaba empezando su carrer.",
       "date": "2026-07-17"
-    },
-    {
-      "title": "La intrahistoria de las fotos de Leo Messi junto a un Lamine Yamal de seis meses",
-      "summary": "Las redes sociales se han inundado con la recordada imagen de Leo Messi junto a un Lamine Yamal de seis meses de edad. Descubre su historia.",
-      "date": "2026-07-16"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Casemiro se va con Messi: ficha por Inter Miami hasta 2027",
+      "url": "https://okdiario.com/deportes/casemiro-va-messi-ficha-inter-miami-hasta-2027-19050216/amp?utm_source=lootura.com",
+      "publishedAt": "2026-07-22T17:06:00.000Z",
+      "sourceId": "lootura-es-ok-diario"
+    }
+  ],
+  "evidenceCount": 1
 }

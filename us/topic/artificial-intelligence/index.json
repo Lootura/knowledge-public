@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/topic/artificial-intelligence/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/topic/artificial-intelligence/index.json",
   "description": "Follow Artificial intelligence, a tracked topic, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-22T13:46:43.033Z",
+  "updatedAt": "2026-07-22T17:16:02.754Z",
   "aliases": [
     "AI",
     "AI science",
@@ -27,6 +27,21 @@
     "simulated intelligence"
   ],
   "changes": [
+    {
+      "title": "Funding milestone detected",
+      "summary": "Investment in artificial intelligence and related companies is lifting the stock market and spending across the economy.",
+      "date": "2026-07-22"
+    },
+    {
+      "title": "Here’s what Samsung’s smart glasses actually look like",
+      "summary": "With a camera on every pair, Google’s and Samsung’s AI glasses face the same privacy problems as Meta’s. | Photo: Dominic Preston / The Verge Samsung has given us our first chance to check out its upcoming smart glasses in person, revealing two new designs and the first specs in the process, including an impressive 9-h.",
+      "date": "2026-07-22"
+    },
+    {
+      "title": "AMD commits up to $5 billion to Anthropic",
+      "summary": "AMD says it's going to invest up to $5 billion in Anthropic, while helping to expand the AI company's computing power, according to an announcement on Wednesday . As part of the new partnership, Anthropic will deploy up to 2 gigawatts of AMD's Instinct MI450 AI GPUs using the chipmaker's new Helios rack-scale system, a.",
+      "date": "2026-07-22"
+    },
     {
       "title": "Google commits $40M to the Genesis Mission | Google Cloud Blog",
       "summary": "Google is committing $40 million in AI tokens and cloud credits to support the DOE’s Genesis Mission and accelerate groundbreaking scientific discovery.",
@@ -61,46 +76,31 @@
       "title": "Detailed maps of European wetlands reveal overlooked patches of ecosystems",
       "summary": "Nature, Published online: 20 July 2026; doi:10.1038/d41586-026-02211-2 Satellite images have been analysed by a machine-learning algorithm to produce high-resolution maps of wetland environments — a boon for conservation efforts.",
       "date": "2026-07-21"
-    },
-    {
-      "title": "Why AI Needs a “Genie Coefficient”",
-      "summary": "Major benchmarks measure what AI can do. None measure whether it does what you mean: the distance between what you ask an AI to do, and the unspoken assumptions about how you want the AI to do it. We propose a new metric: the Genie coefficient. There’s often a gap between one person’s request and another’s understandin.",
-      "date": "2026-07-21"
-    },
-    {
-      "title": "Substack adds an AI detector to help spot blogs written by no one",
-      "summary": "Substack will now help users determine whether what they're reading may have been written by AI. A new tool coming to the platform can scan posts, notes, replies, and comments to provide an estimate of how much text could be AI-generated or written with AI assistance, according to a blog post published on Tuesday . The.",
-      "date": "2026-07-21"
-    },
-    {
-      "title": "Funding milestone detected",
-      "summary": "EXCLUSIVE: A conservative super PAC focused on policy involving artificial intelligence is making its first campaign investments, throwing its support behind two Republican candidates in House races it views as critical to the GOP's hopes of keeping control of the chamber. Fox News Digital has learned from a person fam.",
-      "date": "2026-07-21"
     }
   ],
   "sources": [
     {
-      "title": "Scientists propose model to protect Earth from solar storms",
-      "url": "https://www.cbsnews.com/video/scientists-propose-model-to-protect-earth-from-solar-storms/?utm_source=lootura.com",
-      "publishedAt": "2026-07-22T02:07:49.000Z",
-      "sourceId": "lootura-us-cbs-news"
+      "title": "Researchers develop new AI system for highly accurate mapping and modeling of orchards",
+      "url": "https://phys.org/news/2026-07-ai-highly-accurate-orchards.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-22T16:40:04.000Z",
+      "sourceId": "lootura-us-phys-org"
     },
     {
-      "title": "Google commits $40M to the Genesis Mission | Google Cloud Blog",
-      "url": "https://cloud.google.com/blog/topics/public-sector/accelerating-frontiers-of-scientific-discovery-40-million-dollar-commitment-genesis-mission?utm_source=lootura.com",
-      "publishedAt": "2026-07-22T13:38:54.000Z",
-      "sourceId": "lootura-us-google-deepmind"
+      "title": "Stocks and the Economy Are Increasingly Relying on the A.I. Boom",
+      "url": "https://www.nytimes.com/2026/07/22/business/economy/stocks-economy-ai.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-22T15:46:48.000Z",
+      "sourceId": "lootura-us-the-new-york-times"
     },
     {
-      "title": "Building AI infrastructure with the Effingham County community",
-      "url": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community?utm_source=lootura.com",
-      "publishedAt": "2026-07-22T13:00:00.000Z",
-      "sourceId": "lootura-us-openai"
+      "title": "Here’s what Samsung’s smart glasses actually look like",
+      "url": "https://www.theverge.com/tech/969382/samsung-google-smart-glasses-gentle-monster-warby-parker?utm_source=lootura.com",
+      "publishedAt": "2026-07-22T16:35:34.000Z",
+      "sourceId": "lootura-us-the-verge"
     },
     {
-      "title": "Meta made its own AI detection system. It should have just used Google’s",
-      "url": "https://www.theverge.com/tech/968680/meta-ai-detection-labeling-content-seal-watermarks-synthid?utm_source=lootura.com",
-      "publishedAt": "2026-07-22T11:00:00.000Z",
+      "title": "AMD commits up to $5 billion to Anthropic",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/969285/amd-anthropic-ai-infrastructure-deal?utm_source=lootura.com",
+      "publishedAt": "2026-07-22T14:44:27.000Z",
       "sourceId": "lootura-us-the-verge"
     }
   ],

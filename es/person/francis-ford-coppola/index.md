@@ -28,4 +28,4 @@ Date: 2026-07-22
 
 ## Fuentes
 
-- [It’s not just business: why emotions are central to workplace management](https://theconversation.com/its-not-just-business-why-emotions-are-central-to-workplace-management-287853?utm_source=lootura.com) — 2026-07-22T10:01:00.000Z
+No public source links.

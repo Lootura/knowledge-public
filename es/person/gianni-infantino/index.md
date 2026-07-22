@@ -28,4 +28,4 @@ Date: 2026-07-19
 
 ## Fuentes
 
-- [Trump sopesa proponer a Infantino como secretario general de la ONU, según el 'New York Post'](https://www.abc.es/internacional/trump-sopesa-proponer-infantino-secretario-general-onu-20260722115546-nt.html?utm_source=lootura.com) — 2026-07-22T12:05:50.000Z
+No public source links.

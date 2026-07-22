@@ -3,16 +3,10 @@
 > Follow Defense Secretary Pete, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-07-22T13:46:43.033Z
+- Updated: 2026-07-22T17:16:02.754Z
 - Canonical: https://atlas.lootura.com/us/person/defense-secretary-pete
 
 ## Recent changes
-
-### Funding milestone detected
-
-The U.S. launched an 11th consecutive night of strikes against Iran on Tuesday. CBS News' Weijia Jiang reports on Defense Secretary Pete Hegseth's earlier testimony about the Pentagon's request for additional funding. Then, Washington Post national security reporter Noah Robertson joins with analysis.
-
-Date: 2026-07-22
 
 ### Funding milestone detected
 
@@ -23,6 +17,12 @@ Date: 2026-07-22
 ### Sen. Patty Murray, D-Wash., on Defense Secretary Pete Hegseth's Senate testimony
 
 NPR's Leila Fadel speaks with Democratic Sen. Patty Murray of Washington about the administration's Iran war objectives following the testimony of Defense Secretary Pete Hegseth.
+
+Date: 2026-07-22
+
+### Funding milestone detected
+
+The U.S. launched an 11th consecutive night of strikes against Iran on Tuesday. CBS News' Weijia Jiang reports on Defense Secretary Pete Hegseth's earlier testimony about the Pentagon's request for additional funding. Then, Washington Post national security reporter Noah Robertson joins with analysis.
 
 Date: 2026-07-22
 
@@ -70,6 +70,6 @@ Date: 2026-07-16
 
 ## Sources
 
-- [U.S. launches strikes on Iran for 11th consecutive night](https://www.cbsnews.com/video/us-launches-strikes-iran-11th-consecutive-night/?utm_source=lootura.com) — 2026-07-22T02:11:05.000Z
+- [Total cost of Iran war likely higher than $37.5 billion claimed by Hegseth, sources say](https://www.cbsnews.com/video/total-cost-iran-war-likely-higher-than-37-5-billion-hegseth-claims-sources-say/?utm_source=lootura.com) — 2026-07-22T13:29:01.000Z
 - [Defense Secretary Pete Hegseth defends Iran war funding request at fiery hearing](https://www.npr.org/2026/07/22/nx-s1-5901981/defense-secretary-pete-hegseth-defends-iran-war-funding-request-at-fiery-hearing?utm_source=lootura.com) — 2026-07-22T10:43:36.000Z
 - [Sen. Patty Murray, D-Wash., on Defense Secretary Pete Hegseth's Senate testimony](https://www.npr.org/2026/07/22/nx-s1-5902047/sen-patty-murray-d-wash-on-defense-secretary-pete-hegseths-senate-testimony?utm_source=lootura.com) — 2026-07-22T10:43:28.000Z

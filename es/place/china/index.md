@@ -3,10 +3,22 @@
 > Sigue la actividad de China en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-21T10:23:08.875Z
+- Actualizado: 2026-07-22T17:15:40.463Z
 - Canonical: https://atlas.lootura.com/es/place/china
 
 ## Cambios recientes
+
+### La china Geely llega a un acuerdo con Ford para producir coches en su fábrica de Almussafes
+
+El presidente de Ford Europa, Jim Baumbick, oficializará el anuncio este jueves, en presencia de Pedro Sánchez y Juanfran Pérez Llorca, para garantizar la supervivencia de la planta valenciana Leer.
+
+Date: 2026-07-22
+
+### Ford y Geely cierran un acuerdo para fabricar coches eléctricos en Valencia
+
+Las automovilísticas Ford y Geely han cerrado un acuerdo para que la compañía china fabrique coches eléctricos en la planta de Ford en Almussafes (Valencia), según adelantó...
+
+Date: 2026-07-22
 
 ### Sun Tzu, estratega militar: «Cuando se está cerca, se debe parecer lejos; cuando se está lejos, se debe parecer cerca»
 
@@ -56,18 +68,7 @@ Donald Trump, líder de un país en guerra y con el coste de la vida en alza, se
 
 Date: 2026-07-17
 
-### XPENG L03: el SUV chino con diseño español
-
-La marca china Xpeng crece sin parar en el mercado global. Por ello ha realizado una macro-presentación en Múnich con miles de invitados para mostrar su alto nivel tecnológico (que excede del mundo del automóvil), como su taxi volador o su humanoide IRON. Aunque la estrella fue el nuevo L03, un SUV de segmento C y tecn.
-
-Date: 2026-07-17
-
-### Trump anuncia una desclasificación que probaría injerencia electoral de China en EEUU
-
-El presidente de Estados Unidos, Donald Trump, ha anunciado este jueves la desclasificación y publicación de información «crítica» de inteligencia que.
-
-Date: 2026-07-17
-
 ## Fuentes
 
-No public source links.
+- [La china Geely llega a un acuerdo con Ford para producir coches en su fábrica de Almussafes](https://www.elmundo.es/economia/empresas/2026/07/22/6a60c041fdddff05188b4581.html?utm_source=lootura.com) — 2026-07-22T16:55:15.000Z
+- [Ford y Geely cierran un acuerdo para fabricar coches eléctricos en Valencia](https://amp.expansion.com/valencia/2026/07/22/6a60ca8be5fdea50158b4599.html?utm_source=lootura.com) — 2026-07-22T13:50:37.000Z

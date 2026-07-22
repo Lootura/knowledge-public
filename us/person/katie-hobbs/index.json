@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/katie-hobbs/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/katie-hobbs/index.json",
   "description": "Follow Katie Hobbs, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-22T13:46:43.033Z",
+  "updatedAt": "2026-07-22T17:16:02.754Z",
   "aliases": [
     "Hobbs",
     "Kathleen M. Hobbs",
@@ -17,11 +17,6 @@
   ],
   "changes": [
     {
-      "title": "Trump ally Andy Biggs wins GOP nomination for Arizona governor, AP projects",
-      "summary": "Trump-endorsed Rep. Andy Biggs will take on Democratic Arizona Gov. Katie Hobbs in November.",
-      "date": "2026-07-22"
-    },
-    {
       "title": "Trump Pick Wins G.O.P. Nomination to Challenge Arizona Governor",
       "summary": "Representative Andy Biggs, a conservative Republican and an ally of the president, will try to unite Republicans against Gov. Katie Hobbs in a crucial swing state.",
       "date": "2026-07-22"
@@ -29,6 +24,11 @@
     {
       "title": "Discovered by Atlas",
       "summary": "Katie Hobbs first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-07-22"
+    },
+    {
+      "title": "Trump ally Andy Biggs wins GOP nomination for Arizona governor, AP projects",
+      "summary": "Trump-endorsed Rep. Andy Biggs will take on Democratic Arizona Gov. Katie Hobbs in November.",
       "date": "2026-07-22"
     },
     {
@@ -44,23 +44,11 @@
   ],
   "sources": [
     {
-      "title": "Trump ally Andy Biggs wins GOP nomination for Arizona governor, AP projects",
-      "url": "https://www.cbsnews.com/news/arizona-governors-race-results-katie-hobbs-andy-biggs-david-schweikert/?utm_source=lootura.com",
-      "publishedAt": "2026-07-22T03:06:24.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
-    {
-      "title": "Trump-Backed Rep. Andy Biggs Wins Arizona Governor Primary",
-      "url": "https://www.today.com/video/trump-backed-rep-andy-biggs-wins-arizona-governor-primary-267091013514?utm_source=lootura.com",
-      "publishedAt": "2026-07-22T12:14:34.000Z",
-      "sourceId": "lootura-us-nbc-news-politics"
-    },
-    {
       "title": "Trump Pick Wins G.O.P. Nomination to Challenge Arizona Governor",
       "url": "https://www.nytimes.com/2026/07/21/us/elections/arizona-governor-andy-biggs-republican-primary.html?utm_source=lootura.com",
       "publishedAt": "2026-07-22T03:06:56.000Z",
       "sourceId": "lootura-us-the-new-york-times"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 1
 }

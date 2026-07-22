@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/barcelona/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/barcelona/index.json",
   "description": "Sigue la actividad de Barcelona en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-22T13:46:22.256Z",
+  "updatedAt": "2026-07-22T17:15:40.463Z",
   "aliases": [
     "B'na",
     "Barcelona City",
@@ -22,11 +22,6 @@
   ],
   "changes": [
     {
-      "title": "Marc Biarnés (Nosoloviernes): “Antes la familia se avergonzaba del hijo tonto, pero ahora tiene un ‘podcast”",
-      "summary": "Marc Biarnés (Barcelona, 33 años) tiene lo que más cotiza en las redes sociales: una expresividad que solo es suya. Su forma de poner los ojos en blanco mientras pela una pieza de fruta o de fruncir levemente el ceño mientras se prepara una tostada le pertenece solo a él. Si muchas influencers han encontrado un filón e.",
-      "date": "2026-07-22"
-    },
-    {
       "title": "Una testigo revela que la terapia de los Andic incluía una situación extrema en un barranco",
       "summary": "El caso Andic ha dado un nuevo giro de tuerca con la declaración de una testigo que compromete la posición de Jonathan Andic, investigado como presunto autor de la muerte de su padre, Isak Andic, durante una excursión a la montaña de Montserrat (Barcelona) el 14 de diciembre de 2024. La testigo, intérprete británica y.",
       "date": "2026-07-22"
@@ -34,6 +29,16 @@
     {
       "title": "Así será la pretemporada del FC Barcelona: Italia y un Gamper aún sin rival confirmado",
       "summary": "El pasado 10 de julio comenzó la pretemporada para el FC Barcelona. Los jugadores blaugranas se pusieron a las órdenes de Flick, que, como es habitual, se.",
+      "date": "2026-07-22"
+    },
+    {
+      "title": "Un condenado por descuartizar a su compañero de piso se fuga en una salida programada de prisión",
+      "summary": "Un hombre condenado a diez años y tres meses de cárcel por matar y descuartizar en 2022 a su compañero de piso en Barcelona se ha fugado durante una salida programada de prisión el pasado lunes, por lo que se ha montado un dispositivo de búsqueda para localizarle. Según ha adelantado El Caso y han confirmado a EFE fuen.",
+      "date": "2026-07-22"
+    },
+    {
+      "title": "Marc Biarnés (Nosoloviernes): “Antes la familia se avergonzaba del hijo tonto, pero ahora tiene un ‘podcast”",
+      "summary": "Marc Biarnés (Barcelona, 33 años) tiene lo que más cotiza en las redes sociales: una expresividad que solo es suya. Su forma de poner los ojos en blanco mientras pela una pieza de fruta o de fruncir levemente el ceño mientras se prepara una tostada le pertenece solo a él. Si muchas influencers han encontrado un filón e.",
       "date": "2026-07-22"
     },
     {
@@ -65,30 +70,19 @@
       "title": "Roban un móvil con arma blanca y huyen en patinete: los Mossos detienen a dos jóvenes multirreincidentes con 24 antecedentes en L'Hospitalet",
       "summary": "Los Mossos d'Esquadra han detenido en L'Hospitalet de Llobregat (Barcelona) a dos ladrones multirreincidentes que suman 24 antecedentes por robar el móvil a una muje r, a quien amenazaron con un arma blanca . Según ha informado la policía de la Generalitat este martes, los investigados, de 24 y 26 años, circulaban en u.",
       "date": "2026-07-21"
-    },
-    {
-      "title": "¿Qué aprendimos del 18 de julio?",
-      "summary": "«A pesar de todo lo que se hace para destruirla, España subsiste», declaró Manuel Azaña el 18 de julio de 1938, justo dos años después del inicio de la Guerra Civil en su famoso discurso 'Paz, piedad y perdón'. Pronunciado en Barcelona, el objetivo del presidente de la República era la reconciliación, lograr la mediaci.",
-      "date": "2026-07-20"
     }
   ],
   "sources": [
     {
-      "title": "El mural homenaje a Ferran Torres en Barcelona amanece vandalizado con pinturas de \"Puta España\"",
-      "url": "https://www.elconfidencial.com/espana/cataluna/2026-07-22/mural-ferran-torres-vandalizado-barcelona-pintura_4394146/?utm_source=lootura.com",
-      "publishedAt": "2026-07-22T12:01:00.000Z",
+      "title": "Un condenado por descuartizar a su compañero de piso se fuga en una salida programada de prisión",
+      "url": "https://www.elconfidencial.com/espana/cataluna/2026-07-22/condenado-descuartizar-companero-piso-fuga-salida-prision_4394380/?utm_source=lootura.com",
+      "publishedAt": "2026-07-22T15:26:00.000Z",
       "sourceId": "lootura-es-el-confidencial"
     },
     {
       "title": "Una testigo revela que la terapia de los Andic incluía una situación extrema en un barranco",
       "url": "https://elpais.com/espana/catalunya/2026-07-22/una-testigo-revela-que-la-terapia-de-los-andic-incluia-una-situacion-extrema-en-un-barranco.html?utm_source=lootura.com",
       "publishedAt": "2026-07-22T07:44:28.000Z",
-      "sourceId": "lootura-es-el-pais"
-    },
-    {
-      "title": "Marc Biarnés (Nosoloviernes): “Antes la familia se avergonzaba del hijo tonto, pero ahora tiene un ‘podcast”",
-      "url": "https://elpais.com/icon/2026-07-22/marc-biarnes-nosoloviernes-antes-la-familia-se-avergonzaba-del-hijo-tonto-pero-ahora-tiene-un-podcast.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-22T03:30:01.000Z",
       "sourceId": "lootura-es-el-pais"
     },
     {

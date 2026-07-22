@@ -3,10 +3,16 @@
 > Follow Europe, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-22T06:26:12.535Z
+- Updated: 2026-07-22T17:16:02.754Z
 - Canonical: https://atlas.lootura.com/us/place/europe
 
 ## Recent changes
+
+### EU watchdog reduces safe level of exposure to 'forever chemical' TFA
+
+The EU's food safety agency said Wednesday it has dramatically reduced the acceptable daily intake level of the so-called forever chemical TFA, following new evidence of its effect on a key hormone that regulates the body's metabolism.
+
+Date: 2026-07-22
 
 ### How Europe's Extreme Heat Waves Have Impacted the Tour de France
 
@@ -62,12 +68,6 @@ The population of the 27-nation European Union will peak in 2029 before falling 
 
 Date: 2026-07-14
 
-### Ukraine and 9 other countries form coalition to protect Europe from ballistic missiles
-
-Ukraine and nine other countries have announced a coalition to protect Europe from ballistic missiles, taking advantage of Kyiv's experience of fighting Russia.
-
-Date: 2026-07-13
-
 ## Sources
 
-No public source links.
+- [EU watchdog reduces safe level of exposure to 'forever chemical' TFA](https://phys.org/news/2026-07-eu-watchdog-safe-exposure-chemical.html?utm_source=lootura.com) — 2026-07-22T17:08:23.000Z

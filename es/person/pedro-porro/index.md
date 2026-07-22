@@ -3,7 +3,7 @@
 > Sigue la actividad de Pedro Porro en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-21T21:06:12.863Z
+- Actualizado: 2026-07-22T17:15:40.463Z
 - Canonical: https://atlas.lootura.com/es/person/pedro-porro
 
 ## Cambios recientes
@@ -40,4 +40,4 @@ Date: 2026-07-14
 
 ## Fuentes
 
-No public source links.
+- [Porro, Cucurella y Rodri, únicos españoles en el mejor once del Mundial](https://www.abc.es/deportes/futbol/mundial/porro-cucurella-rodri-unicos-espanoles-mejor-once-20260722170720-nt.html?utm_source=lootura.com) — 2026-07-22T16:45:39.000Z

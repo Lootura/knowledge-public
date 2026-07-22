@@ -8,14 +8,9 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/el-tribunal-supremo/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/el-tribunal-supremo/index.json",
   "description": "Sigue la actividad de El Tribunal Supremo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-22T13:46:22.256Z",
+  "updatedAt": "2026-07-22T17:15:40.463Z",
   "aliases": [],
   "changes": [
-    {
-      "title": "El Supremo levanta las medidas cautelares a Aldama tras la sentencia del caso mascarillas",
-      "summary": "El Tribunal Supremo ha decidido levantar las medidas cautelares que pesaban sobre el empresario Víctor de Aldama en el conocido como ‘ caso mascarillas ’. La decisión llega una vez que ha adquirido firmeza la sentencia que también condenó al exministro de Transportes José Luis Ábalos y a su antiguo asesor, Koldo García.",
-      "date": "2026-07-22"
-    },
     {
       "title": "El Tribunal Supremo levanta las medidas cautelares de Aldama a petición de su defensa",
       "summary": "La Sala sostiene que \"aunque la ejecutoria de la sentencia aún no ha sido incoada\", la consecuencia lógica del dictado de la misma es el decaimiento de las medidas cautelares sobre el empresario Leer.",
@@ -25,20 +20,30 @@
       "title": "Discovered by Atlas",
       "summary": "El Tribunal Supremo first entered the public knowledge record with source-backed evidence.",
       "date": "2026-07-22"
+    },
+    {
+      "title": "El Supremo devuelve a Aldama su pasaporte para seguir con sus negocios en el extranjero",
+      "summary": "El Tribunal Supremo acaba de levantar las medidas cautelares impuestas al empresario Víctor de Aldama, por lo que podrá empezar a viajar al extranjero para continuar con sus negocios. Así lo ha acordado la Sala que le condenó a cuatro años y medio de prisión por corromper al entoncesministro de Transportes José Luis Áb.",
+      "date": "2026-07-22"
+    },
+    {
+      "title": "El Supremo levanta las medidas cautelares a Aldama tras la sentencia del caso mascarillas",
+      "summary": "El Tribunal Supremo ha decidido levantar las medidas cautelares que pesaban sobre el empresario Víctor de Aldama en el conocido como ‘ caso mascarillas ’. La decisión llega una vez que ha adquirido firmeza la sentencia que también condenó al exministro de Transportes José Luis Ábalos y a su antiguo asesor, Koldo García.",
+      "date": "2026-07-22"
     }
   ],
   "sources": [
-    {
-      "title": "El Supremo levanta las medidas cautelares a Aldama tras la sentencia del caso mascarillas",
-      "url": "https://www.elconfidencial.com/espana/2026-07-22/tribunal-supremo-caso-mascarillas-cohecho-1tps_4394126/?utm_source=lootura.com",
-      "publishedAt": "2026-07-22T10:52:00.000Z",
-      "sourceId": "lootura-es-el-confidencial"
-    },
     {
       "title": "El Tribunal Supremo levanta las medidas cautelares de Aldama a petición de su defensa",
       "url": "https://www.elmundo.es/espana/2026/07/22/6a60940f21efa097198b45a5.html?utm_source=lootura.com",
       "publishedAt": "2026-07-22T10:07:09.000Z",
       "sourceId": "lootura-es-el-mundo"
+    },
+    {
+      "title": "El Supremo devuelve a Aldama su pasaporte para seguir con sus negocios en el extranjero",
+      "url": "https://www.lavanguardia.com/politica/20260722/11598656/supremo-devuelve-aldama-pasaporte-seguir-negocios-extranjero.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-22T13:38:05.000Z",
+      "sourceId": "lootura-es-la-vanguardia"
     }
   ],
   "evidenceCount": 2

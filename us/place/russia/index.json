@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/russia/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/russia/index.json",
   "description": "Follow Russia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-22T13:46:43.033Z",
+  "updatedAt": "2026-07-22T17:16:02.754Z",
   "aliases": [
     "Federation of Russia",
     "Russian Federation"
   ],
   "changes": [
+    {
+      "title": "Ukraine targets Russian online retailer Wildberries",
+      "summary": "Ukrainian long-range drones targeted large warehouses belonging to Wildberries, Russia’s equivalent of Amazon, which sells military equipment like body armor and drone parts, but mainly serves as a place for regular Russians to sell their goods. President Zelenskyy said the warehouses are “involved in supplying the Rus.",
+      "date": "2026-07-22"
+    },
     {
       "title": "Firing of Ukraine’s Top General Signals the End of an Era",
       "summary": "Gen. Oleksandr Syrskyi, who commanded crucial battles, oversaw an expansion of drone warfare against Russia, but many Ukrainians want even more.",
@@ -58,19 +63,14 @@
       "title": "Russia Bill Broadens Sanctions but Could Fuel Fears Over the Dollar",
       "summary": "The Trump administration has recently sought to scale back sanctions as adversaries develop workarounds that some believe could erode the U.S. dollar’s supremacy.",
       "date": "2026-07-18"
-    },
-    {
-      "title": "8 killed and more than 60 wounded in Ukrainian drone attack on Russian regions",
-      "summary": "Kyiv's forces are continuing their aerial campaign against energy infrastructure and military targets inside Russia, aiming to undermine Moscow's war effort. (Image credit: Moscow Region Governor Andrei Vo).",
-      "date": "2026-07-18"
     }
   ],
   "sources": [
     {
-      "title": "Firing of Ukraine’s Top General Signals the End of an Era",
-      "url": "https://www.nytimes.com/2026/07/22/world/europe/ukraine-syrskyi-general-russia-war.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-22T10:46:17.000Z",
-      "sourceId": "lootura-us-the-new-york-times-world"
+      "title": "Ukraine targets Russian online retailer Wildberries",
+      "url": "https://www.nbcnews.com/video/ukraine-targets-russian-online-retailer-wildberries-267087429820?utm_source=lootura.com",
+      "publishedAt": "2026-07-22T11:42:06.000Z",
+      "sourceId": "lootura-us-nbc-news"
     }
   ],
   "evidenceCount": 1

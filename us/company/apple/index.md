@@ -3,7 +3,7 @@
 > Follow Apple Inc., a tracked company, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: company
-- Updated: 2026-07-22T13:46:43.033Z
+- Updated: 2026-07-22T17:16:02.754Z
 - Canonical: https://atlas.lootura.com/us/company/apple
 
 ## Recent changes
@@ -22,4 +22,4 @@ Date: 2026-07-13
 
 ## Sources
 
-- [Samsung’s newest foldable finally feels Ultra](https://www.theverge.com/gadgets/968200/samsung-galaxy-z-fold-8-ultra-announced-hands-on-photos?utm_source=lootura.com) — 2026-07-22T13:00:00.000Z
+- [Apple is reportedly testing a MacBook Neo with more RAM](https://www.theverge.com/tech/969434/apple-macbook-neo-a19-pro-ram-upgrade?utm_source=lootura.com) — 2026-07-22T16:35:58.000Z

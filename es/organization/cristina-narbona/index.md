@@ -3,7 +3,7 @@
 > Sigue la actividad de María Cristina Narbona Ruiz en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-22T13:46:22.256Z
+- Actualizado: 2026-07-22T17:15:40.463Z
 - Canonical: https://atlas.lootura.com/es/organization/cristina-narbona
 
 ## Cambios recientes
@@ -17,6 +17,18 @@ Date: 2026-07-22
 ### Discovered by Atlas
 
 Cristina Narbona first entered the public knowledge record with source-backed evidence.
+
+Date: 2026-07-22
+
+### Narbona se agarra al legado de Zapatero, pero solo pone la mano en el fuego por Sánchez
+
+Una semana después de declarar como testigo ante la Audiencia Nacional , la presidenta del PSOE, Cristina Narbona, ha acudido este miércoles a la sala Clara Campoamor del Senado —donde se daba cita la comisión de investigación por el caso Koldo y otras tantas derivadas— por las dudas que suscita su relación con Leire D.
+
+Date: 2026-07-22
+
+### Narbona niega haber promocionado a Leire Díez: “Yo no soy la madrina de nadie”
+
+Leire Díez se ha convertido en una bomba política de efectos retardados que le ha servido al PP de excusa para forzar la comparecencia de Cristina Narbona en el Senado. La presidenta del PSOE ha negado que conociera la presunta trama orquestada por la exmilitante socialista con Santos Cerdán para desestabilizar causas.
 
 Date: 2026-07-22
 
@@ -40,6 +52,6 @@ Date: 2026-07-22
 
 ## Fuentes
 
-- [Narbona niega haber hablado con Sánchez sobre Leire Díez y reivindica el "respeto que merece" Zapatero](https://www.20minutos.es/nacional/narbona-niega-haber-hablado-con-sanchez-sobre-leire-diez-reivindica-senado-enorme-respeto-que-merece-zapatero_7017617_0.html?utm_source=lootura.com) — 2026-07-22T10:55:49.000Z
-- [Cristina Narbona niega ser «madrina» de Leire Díez y reitera que la derivó a Santos Cerdán](https://www.abc.es/espana/cristina-narbona-niega-madrina-leire-diez-reitera-20260722122958-nt.html?utm_source=lootura.com) — 2026-07-22T11:42:59.000Z
+- [Narbona se agarra al legado de Zapatero, pero solo pone la mano en el fuego por Sánchez](https://www.abc.es/espana/cristina-narbona-niega-madrina-leire-diez-reitera-20260722122958-nt.html?utm_source=lootura.com) — 2026-07-22T16:33:00.000Z
+- [Narbona niega haber promocionado a Leire Díez: “Yo no soy la madrina de nadie”](https://elpais.com/espana/2026-07-22/narbona-niega-haber-promocionado-a-leire-diez-yo-no-soy-la-madrina-de-nadie.html?utm_source=lootura.com) — 2026-07-22T13:57:33.000Z
 - [Última hora de la actualidad política, en directo | Feijóo hace balance del curso político y de la legislatura](https://elpais.com/espana/2026-07-22/ultima-hora-de-la-actualidad-politica-en-directo.html?utm_source=lootura.com) — 2026-07-22T10:20:37.000Z

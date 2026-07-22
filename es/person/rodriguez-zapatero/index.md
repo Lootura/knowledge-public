@@ -3,10 +3,16 @@
 > Sigue la actividad de José Luis Rodríguez Zapatero en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-22T13:46:22.256Z
+- Actualizado: 2026-07-22T17:15:40.463Z
 - Canonical: https://atlas.lootura.com/es/person/rodriguez-zapatero
 
 ## Cambios recientes
+
+### Las seis mayores contradicciones entre lo que Julio Martínez declaró y la versión de Zapatero
+
+La declaración de Julio Martínez Martínez ha complicado el futuro judicial de José Luis Rodríguez Zapatero . Eso y los escritos que tanto el "amigo" como dos altos cargos de Plus Ultra han remitido esta semana a la Audiencia Nacional. Según ellos, el expresidente habría influido en favor del rescate de 53 millones de e.
+
+Date: 2026-07-22
 
 ### La causa contra Zapatero sitúa ahora el foco en la cúpula de Plus Ultra tras contradecir la versión del expresidente
 
@@ -62,12 +68,6 @@ El Gobierno ha reaccionado a las confesiones de Julio Martínez, presunto testaf
 
 Date: 2026-07-21
 
-### El Gobierno reitera su confianza en Zapatero pese al nerviosismo creciente en el PSOE
-
-La incomodidad es cada vez más palmaria, pero el Gobierno mantiene su apoyo a José Luis Rodríguez Zapatero tras el terremoto político que ha provocado Julio Martínez al señalar al expresidente como la persona que “marcaba los pasos a seguir” en el rescate de 53 millones de euros de Plus Ultra. Un giro en su estrategia.
-
-Date: 2026-07-21
-
 ## Fuentes
 
-- [La causa contra Zapatero sitúa ahora el foco en la cúpula de Plus Ultra tras contradecir la versión del expresidente](https://elpais.com/espana/2026-07-22/la-causa-contra-zapatero-situa-ahora-el-foco-en-la-cupula-de-plus-ultra-tras-contradecir-la-version-del-expresidente.html?utm_source=lootura.com) — 2026-07-22T03:30:01.000Z
+- [Las seis mayores contradicciones entre lo que Julio Martínez declaró y la versión de Zapatero](https://www.20minutos.es/nacional/las-cinco-mayores-contradicciones-entre-que-julio-martinez-declaro-juez-calama-version-defendida-por-zapatero_7017741_0.html?utm_source=lootura.com) — 2026-07-22T14:11:43.000Z

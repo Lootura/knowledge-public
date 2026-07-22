@@ -3,7 +3,7 @@
 > Follow New York City, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-22T13:46:43.033Z
+- Updated: 2026-07-22T17:16:02.754Z
 - Canonical: https://atlas.lootura.com/us/place/new-york
 
 ## Recent changes
@@ -71,4 +71,3 @@ Date: 2026-07-19
 ## Sources
 
 - [Mamdani says New York City can't arrest Netanyahu but the federal government should](https://www.npr.org/2026/07/22/g-s1-134880/mamdani-nyc-netanyahu?utm_source=lootura.com) — 2026-07-22T06:04:29.000Z
-- [Mamdani Calls Netanyahu a ‘War Criminal’ and Calls on U.S. to Arrest Him](https://www.nytimes.com/2026/07/21/nyregion/mamdani-netanyahu-arrest-warrant.html?utm_source=lootura.com) — 2026-07-22T13:19:36.000Z

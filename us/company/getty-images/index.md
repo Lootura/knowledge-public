@@ -3,10 +3,16 @@
 > Follow Getty Images, a tracked company, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: company
-- Updated: 2026-07-22T13:46:43.033Z
+- Updated: 2026-07-22T17:16:02.754Z
 - Canonical: https://atlas.lootura.com/us/company/getty-images
 
 ## Recent changes
+
+### Is Mushroom Coffee Healthy? Here's What to Know
+
+—Photo-Illustration by TIME (Source Images: Iryna Veklich, vsviridova—Getty Images) There’s quite a buzz around mushroom coffee these days. Some social-media influencers claim the lightly caffeinated beverage can provide a sense of calm , long-lasting energy , laser-sharp focus , and other benefits. But do these fungi.
+
+Date: 2026-07-22
 
 ### How TIME and Statista Determined the World's Top EdTech Companies of 2026
 
@@ -58,5 +64,4 @@ Date: 2026-07-16
 
 ## Sources
 
-- [How TIME and Statista Determined the World's Top EdTech Companies of 2026](https://time.com/article/2026/07/22/worlds-top-edtech-companies-2026-methodology/?utm_source=lootura.com) — 2026-07-22T12:48:01.000Z
-- [How to Support Someone Without Giving Advice](https://time.com/article/2026/07/22/how-to-support-someone-without-giving-advice/?utm_source=lootura.com) — 2026-07-22T12:00:03.000Z
+- [Is Mushroom Coffee Healthy? Here's What to Know](https://time.com/article/2026/07/22/what-is-mushroom-coffee-is-it-healthy/?utm_source=lootura.com) — 2026-07-22T14:55:15.000Z

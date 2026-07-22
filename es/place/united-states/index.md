@@ -3,7 +3,7 @@
 > Sigue la actividad de Estados Unidos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-22T13:46:22.256Z
+- Actualizado: 2026-07-22T17:15:40.463Z
 - Canonical: https://atlas.lootura.com/es/place/united-states
 
 ## Cambios recientes
@@ -14,15 +14,27 @@ Se prevé que el acuerdo tenga una vigencia de 30 años y que también implique 
 
 Date: 2026-07-22
 
-### Trump sopesa proponer a Infantino como secretario general de la ONU, según el 'New York Post'
-
-El presidente de Estados Unidos, Donald Trump, estaría sopesando presentar la candidatura de Gianni Infantino, presidente de la FIFA, para ocupar el cargo de secretario general de Naciones Unidas y convertirse en el décimo mandatario en asumir la función , según ha adelantado este martes el 'New York Post'. Trump sosti.
-
-Date: 2026-07-22
-
 ### El alcalde de Nueva York, Zohran Mamdani, insta a Trump a detener al “criminal” Netanyahu si entra en Estados Unidos
 
 Zohran Mamdani ganó el año pasado las elecciones a la alcaldía de Nueva York con un discurso durísimo contra el Gobierno israelí y su actuación en Gaza y Cisjordania. Ahora ha dado un paso más al reclamar a la Administración republicana de Donald Trump que detenga al primer ministro Benjamín Netanyahu si pisa suelo est.
+
+Date: 2026-07-22
+
+### Trump se dispone a firmar un acuerdo nuclear con Arabia Saudí en plena escalada de tensiones con Irán
+
+En plena escalada de tensiones bélicas con Irán, el Gobierno de Estados Unidos que preside Donald Trump se dispone a firmar un acuerdo con Arabia Saudí que permitiría al país contar con un programa nuclear civil, abriendo la puerta al enriquecimiento de uranio. El acuerdo, que busca reordenar el equilibrio de poderes e.
+
+Date: 2026-07-22
+
+### El talento latinoamericano emigra hacia España y vacía de capital humano a muchos países de la región
+
+koldo_studio/Shutterstock América Latina vive una paradoja demográfica muy particular. Muchos gobiernos miden el éxito económico mediante el flujo de remesas. Sin embargo, la región pierde hoy a sus mejores profesionales. Una hemorragia de capital intelectual y financiero que está transformando la fisonomía de sus clas.
+
+Date: 2026-07-22
+
+### Trump sopesa proponer a Infantino como secretario general de la ONU, según el 'New York Post'
+
+El presidente de Estados Unidos, Donald Trump, estaría sopesando presentar la candidatura de Gianni Infantino, presidente de la FIFA, para ocupar el cargo de secretario general de Naciones Unidas y convertirse en el décimo mandatario en asumir la función , según ha adelantado este martes el 'New York Post'. Trump sosti.
 
 Date: 2026-07-22
 
@@ -56,20 +68,9 @@ La Comunidad de Madrid ha presentado este martes la sexta edición de Hispanidad
 
 Date: 2026-07-21
 
-### Cadena perpetua para Ismael 'El Mayo' Zambada, el poderoso capo del Cártel de Sinaloa
-
-El narcotraficante mexicano Ismael 'El Mayo' Zambada fue condenado este lunes a cadena perpetua en Estados Unidos, tras un acuerdo con el Departamento de Justicia alcanzado el año pasado en el cual reconoció haber traficado millones de kilos de cocaína durante décadas como líder del Cártel de Sinaloa.Su sentencia, suma.
-
-Date: 2026-07-21
-
-### Una jueza bloquea temporalmente el acuerdo entre Paramount y Warner para crear el mayor grupo audiovisual de Estados Unidos
-
-A Paramount puede atragantársele el gran bocado que pegó el pasado febrero con la compra de Warner Bros, para crear el mayor grupo audiovisual de Estados Unidos. La operación, valorada en unos 110.000 millones de dólares, ha sufrido un repentino parón tras la decisión de un juez federal de California de dictar una orde.
-
-Date: 2026-07-20
-
 ## Fuentes
 
-- [Trump sopesa proponer a Infantino como secretario general de la ONU, según el 'New York Post'](https://www.abc.es/internacional/trump-sopesa-proponer-infantino-secretario-general-onu-20260722115546-nt.html?utm_source=lootura.com) — 2026-07-22T12:05:50.000Z
 - [Trump aprueba acuerdo nuclear que permitiría a Arabia Saudí enriquecer uranio](https://www.elmundo.es/internacional/2026/07/22/6a605530e9cf4a8a088b4596.html?utm_source=lootura.com) — 2026-07-22T05:35:01.000Z
 - [El alcalde de Nueva York, Zohran Mamdani, insta a Trump a detener al “criminal” Netanyahu si entra en Estados Unidos](https://elpais.com/internacional/2026-07-22/el-alcalde-de-nueva-york-zohran-mamdani-insta-a-trump-a-detener-al-criminal-netanyahu-si-entra-en-estados-unidos.html?utm_source=lootura.com) — 2026-07-22T11:32:36.000Z
+- [Trump se dispone a firmar un acuerdo nuclear con Arabia Saudí en plena escalada de tensiones con Irán](https://www.expansion.com/economia/2026/07/22/6a60c9f7468aebc5648b4591.html?utm_source=lootura.com) — 2026-07-22T15:30:46.000Z
+- [El talento latinoamericano emigra hacia España y vacía de capital humano a muchos países de la región](https://theconversation.com/el-talento-latinoamericano-emigra-hacia-espana-y-vacia-de-capital-humano-a-muchos-paises-de-la-region-282819?utm_source=lootura.com) — 2026-07-22T16:16:27.000Z

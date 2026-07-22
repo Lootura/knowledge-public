@@ -3,10 +3,22 @@
 > Sigue la actividad de Irán en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-22T13:46:22.256Z
+- Actualizado: 2026-07-22T17:15:40.463Z
 - Canonical: https://atlas.lootura.com/es/place/iran
 
 ## Cambios recientes
+
+### Hegseth eleva el coste de la guerra con Irán y pide financiación adicional «urgente»
+
+La Casa Blanca ha elevado a cerca de 37.500 millones de dólares (cerca de 32.875 millones de euros) el coste de la guerra con Irán, desatada por la ofensiva lanzada por sorpresa el 28 de febrero por fuerzas estadounidenses e israelíes contra el país centroasiático en plenas conversaciones diplomáticas entre Washington.
+
+Date: 2026-07-22
+
+### Trump se dispone a firmar un acuerdo nuclear con Arabia Saudí en plena escalada de tensiones con Irán
+
+En plena escalada de tensiones bélicas con Irán, el Gobierno de Estados Unidos que preside Donald Trump se dispone a firmar un acuerdo con Arabia Saudí que permitiría al país contar con un programa nuclear civil, abriendo la puerta al enriquecimiento de uranio. El acuerdo, que busca reordenar el equilibrio de poderes e.
+
+Date: 2026-07-22
 
 ### EEUU lanza nuevos ataques contra Irán que eclipsan los esfuerzos diplomáticos
 
@@ -56,18 +68,7 @@ La persistencia de la incertidumbre sobre Oriente Próximo ha llevado al precio 
 
 Date: 2026-07-20
 
-### Irán presume de haber atacado de forma simultánea a EE UU en Bahrein y Qatar
-
-Irán afirmó este lunes haber atacado simultáneamente tres posiciones militares estadounidenses en Bahrein y Kuwait, en una nueva oleada de su ofensiva contra objetivos de Estados Unidos en Oriente Medio en respuesta a los ataques estadounidenses contra territorio iraní. "Los combatientes de la Armada de la Guardia Revo.
-
-Date: 2026-07-20
-
-### El Ibex 35 sube 0,28% a mediodía y recupera los 19.200 puntos, con el petróleo 87 dólares
-
-El Ibex 35 cotizaba en la media sesión con una subida del 0,28% , hasta situarse en los 19.271,60 puntos , tras suavizarse el precio del crudo hasta los 87 dólares desde los 92 dólares marcados en la apertura de este lunes, en un contexto marcado por los ataques cruzados entre Irán y Estados Unidos en Oriente Próximo .
-
-Date: 2026-07-20
-
 ## Fuentes
 
-- [EEUU lanza nuevos ataques contra Irán que eclipsan los esfuerzos diplomáticos](https://www.elmundo.es/internacional/2026/07/22/6a601510fdddff835a8b456d.html?utm_source=lootura.com) — 2026-07-22T00:59:32.000Z
+- [Hegseth eleva el coste de la guerra con Irán y pide financiación adicional «urgente»](https://www.abc.es/internacional/hegseth-eleva-coste-guerra-iran-pide-financiacion-20260722105133-nt.html?utm_source=lootura.com) — 2026-07-22T16:40:19.000Z
+- [Trump se dispone a firmar un acuerdo nuclear con Arabia Saudí en plena escalada de tensiones con Irán](https://www.expansion.com/economia/2026/07/22/6a60c9f7468aebc5648b4591.html?utm_source=lootura.com) — 2026-07-22T15:30:46.000Z

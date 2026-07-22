@@ -3,7 +3,7 @@
 > Sigue la actividad de Oriente Próximo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-22T13:46:22.256Z
+- Actualizado: 2026-07-22T17:15:40.463Z
 - Canonical: https://atlas.lootura.com/es/place/oriente-proximo
 
 ## Cambios recientes
@@ -11,6 +11,12 @@
 ### Discovered by Atlas
 
 Oriente Próximo first entered the public knowledge record with source-backed evidence.
+
+Date: 2026-07-22
+
+### El Ibex deja de lado la escalada del petróleo y se refugia en los resultados empresariales
+
+Con el conflicto en Oriente Próximo estancado y la amenaza de una interrupción del tráfico marítimo en el mar Rojo sobrevolando los mercados, los inversores están optando por prestar más atención a la temporada de resultados trimestrales. Las Bolsas europeas registran avances moderados pese al deterioro del contexto ge.
 
 Date: 2026-07-22
 
@@ -64,7 +70,4 @@ Date: 2026-07-22
 
 ## Fuentes
 
-- [El precio del gas en Europa supera los máximos de marzo y complica el acopio de reservas para el invierno](https://cincodias.elpais.com/mercados-financieros/2026-07-22/el-precio-del-gas-en-europa-supera-los-maximos-de-marzo-y-complica-el-acopio-de-reservas-para-el-invierno.html?utm_source=lootura.com) — 2026-07-22T12:01:25.000Z
-- [Naturgy alerta de que Europa puede sufrir escasez de gas este invierno tras las nuevas sanciones a Rusia](https://cincodias.elpais.com/companias/2026-07-22/naturgy-alerta-de-que-europa-puede-sufrir-escasez-de-gas-este-invierno-tras-las-nuevas-sanciones-a-rusia.html?utm_source=lootura.com) — 2026-07-22T11:00:25.000Z
-- [El petróleo toca los 95 dólares pero no aplaca el asalto del Ibex a los 19.600 gracias a los resultados](https://cincodias.elpais.com/mercados-financieros/2026-07-22/la-bolsa-y-el-ibex-35.html?utm_source=lootura.com) — 2026-07-22T12:39:22.000Z
-- [Seopan cifra en 1.200 millones el agujero en la obra pública licitada desde 2025 por la crisis en Oriente Próximo](https://cincodias.elpais.com/companias/2026-07-22/seopan-cifra-en-1200-millones-el-agujero-en-la-obra-publica-licitada-desde-2025-por-la-crisis-en-oriente-proximo.html?utm_source=lootura.com) — 2026-07-22T10:46:58.000Z
+- [El Ibex deja de lado la escalada del petróleo y se refugia en los resultados empresariales](https://cincodias.elpais.com/mercados-financieros/2026-07-22/la-bolsa-y-el-ibex-35.html?utm_source=lootura.com) — 2026-07-22T15:59:55.000Z

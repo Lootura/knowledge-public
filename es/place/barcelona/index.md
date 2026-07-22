@@ -3,16 +3,10 @@
 > Sigue la actividad de Barcelona en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-22T13:46:22.256Z
+- Actualizado: 2026-07-22T17:15:40.463Z
 - Canonical: https://atlas.lootura.com/es/place/barcelona
 
 ## Cambios recientes
-
-### Marc Biarnés (Nosoloviernes): “Antes la familia se avergonzaba del hijo tonto, pero ahora tiene un ‘podcast”
-
-Marc Biarnés (Barcelona, 33 años) tiene lo que más cotiza en las redes sociales: una expresividad que solo es suya. Su forma de poner los ojos en blanco mientras pela una pieza de fruta o de fruncir levemente el ceño mientras se prepara una tostada le pertenece solo a él. Si muchas influencers han encontrado un filón e.
-
-Date: 2026-07-22
 
 ### Una testigo revela que la terapia de los Andic incluía una situación extrema en un barranco
 
@@ -23,6 +17,18 @@ Date: 2026-07-22
 ### Así será la pretemporada del FC Barcelona: Italia y un Gamper aún sin rival confirmado
 
 El pasado 10 de julio comenzó la pretemporada para el FC Barcelona. Los jugadores blaugranas se pusieron a las órdenes de Flick, que, como es habitual, se.
+
+Date: 2026-07-22
+
+### Un condenado por descuartizar a su compañero de piso se fuga en una salida programada de prisión
+
+Un hombre condenado a diez años y tres meses de cárcel por matar y descuartizar en 2022 a su compañero de piso en Barcelona se ha fugado durante una salida programada de prisión el pasado lunes, por lo que se ha montado un dispositivo de búsqueda para localizarle. Según ha adelantado El Caso y han confirmado a EFE fuen.
+
+Date: 2026-07-22
+
+### Marc Biarnés (Nosoloviernes): “Antes la familia se avergonzaba del hijo tonto, pero ahora tiene un ‘podcast”
+
+Marc Biarnés (Barcelona, 33 años) tiene lo que más cotiza en las redes sociales: una expresividad que solo es suya. Su forma de poner los ojos en blanco mientras pela una pieza de fruta o de fruncir levemente el ceño mientras se prepara una tostada le pertenece solo a él. Si muchas influencers han encontrado un filón e.
 
 Date: 2026-07-22
 
@@ -62,15 +68,8 @@ Los Mossos d'Esquadra han detenido en L'Hospitalet de Llobregat (Barcelona) a do
 
 Date: 2026-07-21
 
-### ¿Qué aprendimos del 18 de julio?
-
-«A pesar de todo lo que se hace para destruirla, España subsiste», declaró Manuel Azaña el 18 de julio de 1938, justo dos años después del inicio de la Guerra Civil en su famoso discurso 'Paz, piedad y perdón'. Pronunciado en Barcelona, el objetivo del presidente de la República era la reconciliación, lograr la mediaci.
-
-Date: 2026-07-20
-
 ## Fuentes
 
-- [El mural homenaje a Ferran Torres en Barcelona amanece vandalizado con pinturas de "Puta España"](https://www.elconfidencial.com/espana/cataluna/2026-07-22/mural-ferran-torres-vandalizado-barcelona-pintura_4394146/?utm_source=lootura.com) — 2026-07-22T12:01:00.000Z
+- [Un condenado por descuartizar a su compañero de piso se fuga en una salida programada de prisión](https://www.elconfidencial.com/espana/cataluna/2026-07-22/condenado-descuartizar-companero-piso-fuga-salida-prision_4394380/?utm_source=lootura.com) — 2026-07-22T15:26:00.000Z
 - [Una testigo revela que la terapia de los Andic incluía una situación extrema en un barranco](https://elpais.com/espana/catalunya/2026-07-22/una-testigo-revela-que-la-terapia-de-los-andic-incluia-una-situacion-extrema-en-un-barranco.html?utm_source=lootura.com) — 2026-07-22T07:44:28.000Z
-- [Marc Biarnés (Nosoloviernes): “Antes la familia se avergonzaba del hijo tonto, pero ahora tiene un ‘podcast”](https://elpais.com/icon/2026-07-22/marc-biarnes-nosoloviernes-antes-la-familia-se-avergonzaba-del-hijo-tonto-pero-ahora-tiene-un-podcast.html?utm_source=lootura.com) — 2026-07-22T03:30:01.000Z
 - [Así será la pretemporada del FC Barcelona: Italia y un Gamper aún sin rival confirmado](https://theobjective.com/deportes/futbol/2026-07-22/pretemporada-barcelona-italia-gamper/?amp=&utm_source=lootura.com) — 2026-07-22T13:44:24.000Z

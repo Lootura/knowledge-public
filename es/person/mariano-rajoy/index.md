@@ -3,7 +3,7 @@
 > Sigue la actividad de Mariano Rajoy en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-22T13:46:22.256Z
+- Actualizado: 2026-07-22T17:15:40.463Z
 - Canonical: https://atlas.lootura.com/es/person/mariano-rajoy
 
 ## Cambios recientes
@@ -11,6 +11,12 @@
 ### Fernández Díaz alega que se busca condenarlo en Kitchen “por razón” de su cargo de ministro
 
 Jorge Fernández Díaz, ministro del Interior de 2011 a 2016 y hombre de confianza del expresidente Mariano Rajoy, ya ha jugado sus cartas en el juicio del caso Kitchen , que se ha reanudado este miércoles en la Audiencia Nacional. Tres meses después del arranque de la vista , su abogado ha expuesto al tribunal su alegat.
+
+Date: 2026-07-22
+
+### El ex ‘número dos’ de Interior defiende que la ‘Kitchen’ fue una «operación de Estado» legal
+
+La defensa del exsecretario de Estado de Seguridad en el Gobierno de Mariano Rajoy , Francisco Martínez, ha negado que su cliente organizara la operación Kitchen , de la que no obstante ha defendido su legalidad como una «operación policial real lícita de inteligencia» sobre el extesorero del PP Luis Bárcenas. Una oper.
 
 Date: 2026-07-22
 
@@ -62,12 +68,7 @@ Marine Le Pen debió de sonreír este fin de semana, o tal vez frunció el ceño
 
 Date: 2026-07-13
 
-### Borja Iglesias responde a Rajoy por sus palabras sobre Francia: "Me sorprende que a estas alturas sigamos con estas cosas"
-
-Las declaraciones del expresidente del Gobierno español, Mariano Rajoy , en las que afirmó que les Bleus son un gran equipo, pero sin franceses, siguen generando multitud de reacciones. El último en pronunciarse al respecto ha sido el internacional español Borja Iglesias . "Francia tiene, además, una plantilla de altís.
-
-Date: 2026-07-13
-
 ## Fuentes
 
-- [Fernández Díaz alega que se busca condenarlo en Kitchen “por razón” de su cargo de ministro](https://elpais.com/espana/2026-07-22/fernandez-diaz-alega-que-se-busca-condenarlo-en-kitchen-por-razon-de-su-cargo-de-ministro.html?utm_source=lootura.com) — 2026-07-22T10:51:41.000Z
+- [Fernández Díaz alega que se busca condenarlo en Kitchen “por razón” de su cargo de ministro](https://elpais.com/espana/2026-07-22/fernandez-diaz-alega-que-se-busca-condenarlo-en-kitchen-por-razon-de-su-cargo-de-ministro.html?utm_source=lootura.com) — 2026-07-22T14:18:40.000Z
+- [El ex ‘número dos’ de Interior defiende que la ‘Kitchen’ fue una «operación de Estado» legal](https://theobjective.com/espana/tribunales/2026-07-22/exnumero-dos-interior-kitchen-legalidad/?utm_source=lootura.com) — 2026-07-22T15:53:03.000Z

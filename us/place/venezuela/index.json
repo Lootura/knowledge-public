@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/venezuela/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/venezuela/index.json",
   "description": "Follow Venezuela, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-21T21:06:38.270Z",
+  "updatedAt": "2026-07-22T17:16:02.754Z",
   "aliases": [
     "BR Venezuela",
     "Bolivarian Republic of Venezuela",
@@ -61,6 +61,13 @@
       "date": "2026-07-08"
     }
   ],
-  "sources": [],
+  "sources": [
+    {
+      "title": "Venezuela's Nicolás Maduro back to court for pretrial hearing in his U.S. drug trafficking case",
+      "url": "https://www.pbs.org/newshour/world/venezuelas-nicolas-maduro-back-to-court-for-pretrial-hearing-in-his-u-s-drug-trafficking-case?utm_source=lootura.com",
+      "publishedAt": "2026-07-22T15:29:08.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
+    }
+  ],
   "evidenceCount": 0
 }

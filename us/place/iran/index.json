@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/iran/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/iran/index.json",
   "description": "Follow Iran, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-22T13:46:43.033Z",
+  "updatedAt": "2026-07-22T17:16:02.754Z",
   "aliases": [
     "IRI",
     "Islamic Rep. Iran",
@@ -16,16 +16,6 @@
     "ir"
   ],
   "changes": [
-    {
-      "title": "Funding milestone detected",
-      "summary": "The U.S. launched an 11th consecutive night of strikes against Iran on Tuesday. CBS News' Weijia Jiang reports on Defense Secretary Pete Hegseth's earlier testimony about the Pentagon's request for additional funding. Then, Washington Post national security reporter Noah Robertson joins with analysis.",
-      "date": "2026-07-22"
-    },
-    {
-      "title": "What to know about Pickaxe Mountain, an Iranian target noted by Trump",
-      "summary": "President Trump on Tuesday threatened to attack Pickaxe Mountain in Iran, a secure facility allegedly used for nuclear activity. CBS News national security analyst Aaron MacLean has more.",
-      "date": "2026-07-22"
-    },
     {
       "title": "See How Houthis Put the Red Sea at Risk as an Alternative Oil Route",
       "summary": "Saudi Arabia has diverted huge amounts of oil to the Red Sea since the Iran war began, but now the Iranian-backed Houthi militants say that they intend to block that route.",
@@ -42,6 +32,26 @@
       "date": "2026-07-22"
     },
     {
+      "title": "Trump threatens to attack Iran's infrastructure over Strait of Hormuz",
+      "summary": "President Trump in a social media post threatened to attack Iran's infrastructure if the Iranian military shoots at ships in the Strait of Hormuz. CBS News' Natalie Brand and Charlie D'Agata have more.",
+      "date": "2026-07-22"
+    },
+    {
+      "title": "Iran’s Neighbors Long for a Deal, Any Deal, to End the War",
+      "summary": "Business owners in Pakistan are getting impatient for a chance to finally trade goods and oil along their long shared border with Iran.",
+      "date": "2026-07-22"
+    },
+    {
+      "title": "Funding milestone detected",
+      "summary": "The U.S. launched an 11th consecutive night of strikes against Iran on Tuesday. CBS News' Weijia Jiang reports on Defense Secretary Pete Hegseth's earlier testimony about the Pentagon's request for additional funding. Then, Washington Post national security reporter Noah Robertson joins with analysis.",
+      "date": "2026-07-22"
+    },
+    {
+      "title": "What to know about Pickaxe Mountain, an Iranian target noted by Trump",
+      "summary": "President Trump on Tuesday threatened to attack Pickaxe Mountain in Iran, a secure facility allegedly used for nuclear activity. CBS News national security analyst Aaron MacLean has more.",
+      "date": "2026-07-22"
+    },
+    {
       "title": "U.S. and Iranian attacks continue as tensions mount on a key waterway in the Red Sea",
       "summary": "The attacks overshadowed diplomatic efforts in Pakistan, one of the conflict's mediators, where a senior Iranian official held talks potentially aimed at reviving a collapsed ceasefire between the United States and Iran. (Image credit: Atta Kenare).",
       "date": "2026-07-22"
@@ -55,16 +65,6 @@
       "title": "Funding milestone detected",
       "summary": "Defense Secretary Pete Hegseth and Chairman of the Joint Chiefs Dan Caine testified Tuesday before a Senate panel to ask for an additional $67 billion to fight the war against Iran. CBS News' Caitlin Huey-Burns has more.",
       "date": "2026-07-22"
-    },
-    {
-      "title": "With His Latest Threats, Trump Signals to Iran That He Is Willing to Escalate",
-      "summary": "President Trump is facing a critical moment in the war, which has failed to bring about the “unconditional surrender” he once demanded.",
-      "date": "2026-07-22"
-    },
-    {
-      "title": "Iran’s foreign minister describes moment of attack that killed Khamenei",
-      "summary": "Abbas Araghchi says he has kept on the move since being pulled from rubble after strike on first day of war Iran’s foreign minister, Abbas Araghchi, has described how he was pulled from the rubble of a leadership compound after the US-Israeli airstrike that killed the country’s supreme leader, Ali Khamenei, on the firs.",
-      "date": "2026-07-22"
     }
   ],
   "sources": [
@@ -75,15 +75,9 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "U.S. launches strikes on Iran for 11th consecutive night",
-      "url": "https://www.cbsnews.com/video/us-launches-strikes-iran-11th-consecutive-night/?utm_source=lootura.com",
-      "publishedAt": "2026-07-22T02:11:05.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
-    {
-      "title": "What to know about Pickaxe Mountain, an Iranian target noted by Trump",
-      "url": "https://www.cbsnews.com/video/what-to-know-about-pickaxe-mountain-an-iranian-target-noted-by-trump/?utm_source=lootura.com",
-      "publishedAt": "2026-07-22T01:56:08.000Z",
+      "title": "Trump threatens to attack Iran's infrastructure over Strait of Hormuz",
+      "url": "https://www.cbsnews.com/video/trump-threatens-attack-iran-infrastructure-over-strait-of-hormuz/?utm_source=lootura.com",
+      "publishedAt": "2026-07-22T16:44:35.000Z",
       "sourceId": "lootura-us-cbs-news"
     },
     {
@@ -99,27 +93,15 @@
       "sourceId": "lootura-us-npr-politics"
     },
     {
-      "title": "U.S. and Iranian attacks continue as tensions mount on a key waterway in the Red Sea",
-      "url": "https://www.npr.org/2026/07/22/nx-s1-5902843/us-iran-updates?utm_source=lootura.com",
-      "publishedAt": "2026-07-22T10:46:01.000Z",
-      "sourceId": "lootura-us-npr-world"
-    },
-    {
-      "title": "Trump to attend dignified transfer of fallen soldiers. And, Hegseth testifies on Iran",
-      "url": "https://www.npr.org/2026/07/22/g-s1-134896/up-first-newsletter-trump-iran-war-pete-hegseth-arizona-primaries?utm_source=lootura.com",
-      "publishedAt": "2026-07-22T11:24:22.000Z",
-      "sourceId": "lootura-us-npr-world"
-    },
-    {
       "title": "Pentagon Identifies Soldier Killed in Iran War as Sgt. Michael Emmanuel Swinton",
       "url": "https://www.nytimes.com/2026/07/21/us/pentagon-identifies-soldier-iran-war-emmanuel-swinton.html?utm_source=lootura.com",
       "publishedAt": "2026-07-21T20:25:29.000Z",
       "sourceId": "lootura-us-the-new-york-times"
     },
     {
-      "title": "Hegseth and Caine Will Appear Before Senators to Seek More Money for Iran War",
-      "url": "https://www.nytimes.com/2026/07/21/us/iran-war-funding.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-21T16:54:59.000Z",
+      "title": "Iran’s Neighbors Long for a Deal, Any Deal, to End the War",
+      "url": "https://www.nytimes.com/2026/07/22/world/asia/iran-pakistan-karachi-trade-oil.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-22T15:21:18.000Z",
       "sourceId": "lootura-us-the-new-york-times"
     },
     {
@@ -129,5 +111,5 @@
       "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 10
+  "evidenceCount": 7
 }

@@ -3,10 +3,16 @@
 > Sigue la actividad de Organización del Tratado del Atlántico Norte en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-16T20:54:41.819Z
+- Actualizado: 2026-07-22T17:15:40.463Z
 - Canonical: https://atlas.lootura.com/es/organization/nato
 
 ## Cambios recientes
+
+### Airbus prueba en España el nuevo simulador de aviones cisterna para la flota de la OTAN
+
+La OTAN continúa reforzando una de sus capacidades aéreas más estratégicas. La Agencia de Apoyo y Adquisiciones de la Alianza (NSPA) ha superado un nuevo hito en el desarrollo del sistema de entrenamiento de la Flota Multinacional de Aviones Cisterna y Transporte (MMF, por sus siglas en inglés) tras completar con éxito.
+
+Date: 2026-07-22
 
 ### España asume el liderazgo de la fuerza naval de la OTAN con maniobras junto a Japón y Canadá
 
@@ -62,12 +68,6 @@ La tensión bélica en Europa no ha aflojado. El secretario general de la OTAN, 
 
 Date: 2026-07-12
 
-### La ruleta geopolítica abre oportunidades en la defensa europea, pero el mercado ya no compra a ciegas
-
-La ruleta geopolítica sigue girando y, mientras las alianzas globales se reconfiguran, los inversores evalúan si el sector europeo de la defensa todavía esconde oportunidades. Durante la reciente cumbre de la OTAN en Ankara , el secretario general, Mark Rutte, anunció “decenas de miles de millones” en nuevos contratos.
-
-Date: 2026-07-12
-
 ## Fuentes
 
-No public source links.
+- [Airbus prueba en España el nuevo simulador de aviones cisterna para la flota de la OTAN](https://theobjective.com/tecnologia/2026-07-22/airbus-simulador-flota-otan/?utm_source=lootura.com) — 2026-07-22T15:31:22.000Z

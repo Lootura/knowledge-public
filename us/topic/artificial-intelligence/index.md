@@ -3,10 +3,28 @@
 > Follow Artificial intelligence, a tracked topic, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: topic
-- Updated: 2026-07-22T13:46:43.033Z
+- Updated: 2026-07-22T17:16:02.754Z
 - Canonical: https://atlas.lootura.com/us/topic/artificial-intelligence
 
 ## Recent changes
+
+### Funding milestone detected
+
+Investment in artificial intelligence and related companies is lifting the stock market and spending across the economy.
+
+Date: 2026-07-22
+
+### Here’s what Samsung’s smart glasses actually look like
+
+With a camera on every pair, Google’s and Samsung’s AI glasses face the same privacy problems as Meta’s. | Photo: Dominic Preston / The Verge Samsung has given us our first chance to check out its upcoming smart glasses in person, revealing two new designs and the first specs in the process, including an impressive 9-h.
+
+Date: 2026-07-22
+
+### AMD commits up to $5 billion to Anthropic
+
+AMD says it's going to invest up to $5 billion in Anthropic, while helping to expand the AI company's computing power, according to an announcement on Wednesday . As part of the new partnership, Anthropic will deploy up to 2 gigawatts of AMD's Instinct MI450 AI GPUs using the chipmaker's new Helios rack-scale system, a.
+
+Date: 2026-07-22
 
 ### Google commits $40M to the Genesis Mission | Google Cloud Blog
 
@@ -50,27 +68,9 @@ Nature, Published online: 20 July 2026; doi:10.1038/d41586-026-02211-2 Satellite
 
 Date: 2026-07-21
 
-### Why AI Needs a “Genie Coefficient”
-
-Major benchmarks measure what AI can do. None measure whether it does what you mean: the distance between what you ask an AI to do, and the unspoken assumptions about how you want the AI to do it. We propose a new metric: the Genie coefficient. There’s often a gap between one person’s request and another’s understandin.
-
-Date: 2026-07-21
-
-### Substack adds an AI detector to help spot blogs written by no one
-
-Substack will now help users determine whether what they're reading may have been written by AI. A new tool coming to the platform can scan posts, notes, replies, and comments to provide an estimate of how much text could be AI-generated or written with AI assistance, according to a blog post published on Tuesday . The.
-
-Date: 2026-07-21
-
-### Funding milestone detected
-
-EXCLUSIVE: A conservative super PAC focused on policy involving artificial intelligence is making its first campaign investments, throwing its support behind two Republican candidates in House races it views as critical to the GOP's hopes of keeping control of the chamber. Fox News Digital has learned from a person fam.
-
-Date: 2026-07-21
-
 ## Sources
 
-- [Scientists propose model to protect Earth from solar storms](https://www.cbsnews.com/video/scientists-propose-model-to-protect-earth-from-solar-storms/?utm_source=lootura.com) — 2026-07-22T02:07:49.000Z
-- [Google commits $40M to the Genesis Mission | Google Cloud Blog](https://cloud.google.com/blog/topics/public-sector/accelerating-frontiers-of-scientific-discovery-40-million-dollar-commitment-genesis-mission?utm_source=lootura.com) — 2026-07-22T13:38:54.000Z
-- [Building AI infrastructure with the Effingham County community](https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community?utm_source=lootura.com) — 2026-07-22T13:00:00.000Z
-- [Meta made its own AI detection system. It should have just used Google’s](https://www.theverge.com/tech/968680/meta-ai-detection-labeling-content-seal-watermarks-synthid?utm_source=lootura.com) — 2026-07-22T11:00:00.000Z
+- [Researchers develop new AI system for highly accurate mapping and modeling of orchards](https://phys.org/news/2026-07-ai-highly-accurate-orchards.html?utm_source=lootura.com) — 2026-07-22T16:40:04.000Z
+- [Stocks and the Economy Are Increasingly Relying on the A.I. Boom](https://www.nytimes.com/2026/07/22/business/economy/stocks-economy-ai.html?utm_source=lootura.com) — 2026-07-22T15:46:48.000Z
+- [Here’s what Samsung’s smart glasses actually look like](https://www.theverge.com/tech/969382/samsung-google-smart-glasses-gentle-monster-warby-parker?utm_source=lootura.com) — 2026-07-22T16:35:34.000Z
+- [AMD commits up to $5 billion to Anthropic](https://www.theverge.com/ai-artificial-intelligence/969285/amd-anthropic-ai-infrastructure-deal?utm_source=lootura.com) — 2026-07-22T14:44:27.000Z

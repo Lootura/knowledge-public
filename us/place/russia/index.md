@@ -3,10 +3,16 @@
 > Follow Russia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-22T13:46:43.033Z
+- Updated: 2026-07-22T17:16:02.754Z
 - Canonical: https://atlas.lootura.com/us/place/russia
 
 ## Recent changes
+
+### Ukraine targets Russian online retailer Wildberries
+
+Ukrainian long-range drones targeted large warehouses belonging to Wildberries, Russia’s equivalent of Amazon, which sells military equipment like body armor and drone parts, but mainly serves as a place for regular Russians to sell their goods. President Zelenskyy said the warehouses are “involved in supplying the Rus.
+
+Date: 2026-07-22
 
 ### Firing of Ukraine’s Top General Signals the End of an Era
 
@@ -62,12 +68,6 @@ The Trump administration has recently sought to scale back sanctions as adversar
 
 Date: 2026-07-18
 
-### 8 killed and more than 60 wounded in Ukrainian drone attack on Russian regions
-
-Kyiv's forces are continuing their aerial campaign against energy infrastructure and military targets inside Russia, aiming to undermine Moscow's war effort. (Image credit: Moscow Region Governor Andrei Vo).
-
-Date: 2026-07-18
-
 ## Sources
 
-- [Firing of Ukraine’s Top General Signals the End of an Era](https://www.nytimes.com/2026/07/22/world/europe/ukraine-syrskyi-general-russia-war.html?utm_source=lootura.com) — 2026-07-22T10:46:17.000Z
+- [Ukraine targets Russian online retailer Wildberries](https://www.nbcnews.com/video/ukraine-targets-russian-online-retailer-wildberries-267087429820?utm_source=lootura.com) — 2026-07-22T11:42:06.000Z

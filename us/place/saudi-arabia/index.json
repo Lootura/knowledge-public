@@ -8,17 +8,12 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/saudi-arabia/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/saudi-arabia/index.json",
   "description": "Follow Saudi Arabia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-22T13:46:43.033Z",
+  "updatedAt": "2026-07-22T17:16:02.754Z",
   "aliases": [
     "Kingdom of Saudi Arabia",
     "Saudi"
   ],
   "changes": [
-    {
-      "title": "Trump approves landmark U.S.-Saudi nuclear deal",
-      "summary": "President Donald Trump has approved a landmark civilian nuclear deal between the United States and Saudi Arabia that is expected to be announced Wednesday, a senior administration official told NBC News.",
-      "date": "2026-07-22"
-    },
     {
       "title": "See How Houthis Put the Red Sea at Risk as an Alternative Oil Route",
       "summary": "Saudi Arabia has diverted huge amounts of oil to the Red Sea since the Iran war began, but now the Iranian-backed Houthi militants say that they intend to block that route.",
@@ -28,21 +23,42 @@
       "title": "Discovered by Atlas",
       "summary": "Saudi Arabia first entered the public knowledge record with source-backed evidence.",
       "date": "2026-07-22"
+    },
+    {
+      "title": "How the Trump Administration’s Nuclear Deal With Saudi Arabia May Work",
+      "summary": "The Trump administration is expected to announce an agreement with Saudi Arabia on a civilian nuclear program. Such deals, known as 123 Agreements, are designed to prevent the development of weapons.",
+      "date": "2026-07-22"
+    },
+    {
+      "title": "Coveted U.S. Nuclear Deal Is a Coup for Saudi Crown Prince",
+      "summary": "Saudi Arabia had for years sought the controversial deal to transfer American nuclear technology to the kingdom. It is expected to be sealed on Wednesday.",
+      "date": "2026-07-22"
+    },
+    {
+      "title": "Trump approves landmark U.S.-Saudi nuclear deal",
+      "summary": "President Donald Trump has approved a landmark civilian nuclear deal between the United States and Saudi Arabia that is expected to be announced Wednesday, a senior administration official told NBC News.",
+      "date": "2026-07-22"
     }
   ],
   "sources": [
-    {
-      "title": "Trump approves landmark U.S.-Saudi nuclear deal",
-      "url": "https://www.nbcnews.com/world/saudi-arabia/trump-us-saudi-nuclear-deal-uranium-enrichment-iran-war-israel-rcna588660?utm_source=lootura.com",
-      "publishedAt": "2026-07-22T12:04:33.000Z",
-      "sourceId": "lootura-us-nbc-news-politics"
-    },
     {
       "title": "See How Houthis Put the Red Sea at Risk as an Alternative Oil Route",
       "url": "https://www.nytimes.com/2026/07/22/business/energy-environment/red-sea-saudi-arabia-houthis.html?utm_source=lootura.com",
       "publishedAt": "2026-07-22T12:17:51.000Z",
       "sourceId": "lootura-us-the-new-york-times-politics"
+    },
+    {
+      "title": "How the Trump Administration’s Nuclear Deal With Saudi Arabia May Work",
+      "url": "https://www.nytimes.com/2026/07/22/world/middleeast/us-saudi-arabia-nuclear-deal-123-agreement.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-22T17:11:03.000Z",
+      "sourceId": "lootura-us-the-new-york-times-world"
+    },
+    {
+      "title": "Coveted U.S. Nuclear Deal Is a Coup for Saudi Crown Prince",
+      "url": "https://www.nytimes.com/2026/07/22/world/middleeast/us-saudi-arabia-nuclear-deal.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-22T14:50:07.000Z",
+      "sourceId": "lootura-us-the-new-york-times-world"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 3
 }

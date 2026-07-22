@@ -70,4 +70,4 @@ Date: 2026-07-14
 
 ## Fuentes
 
-- [La alianza PP-Vox hace ley por primera vez la “prioridad nacional” en los presupuestos de la Comunitat Valenciana](https://www.eldiario.es/comunitat-valenciana/politica/pp-vox-aprueban-presupuestos-perez-llorca-ultimos-legislatura-mencion-prioridad-nacional_1_13398223.html?utm_source=lootura.com) — 2026-07-22T10:10:37.000Z
+No public source links.

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/mariano-rajoy/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/mariano-rajoy/index.json",
   "description": "Sigue la actividad de Mariano Rajoy en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-22T13:46:22.256Z",
+  "updatedAt": "2026-07-22T17:15:40.463Z",
   "aliases": [
     "M.Rajoy",
     "Mariano",
@@ -20,6 +20,11 @@
     {
       "title": "Fernández Díaz alega que se busca condenarlo en Kitchen “por razón” de su cargo de ministro",
       "summary": "Jorge Fernández Díaz, ministro del Interior de 2011 a 2016 y hombre de confianza del expresidente Mariano Rajoy, ya ha jugado sus cartas en el juicio del caso Kitchen , que se ha reanudado este miércoles en la Audiencia Nacional. Tres meses después del arranque de la vista , su abogado ha expuesto al tribunal su alegat.",
+      "date": "2026-07-22"
+    },
+    {
+      "title": "El ex ‘número dos’ de Interior defiende que la ‘Kitchen’ fue una «operación de Estado» legal",
+      "summary": "La defensa del exsecretario de Estado de Seguridad en el Gobierno de Mariano Rajoy , Francisco Martínez, ha negado que su cliente organizara la operación Kitchen , de la que no obstante ha defendido su legalidad como una «operación policial real lícita de inteligencia» sobre el extesorero del PP Luis Bárcenas. Una oper.",
       "date": "2026-07-22"
     },
     {
@@ -61,20 +66,21 @@
       "title": "Jean-Marie Le Pen debe de estar aplaudiendo a Rajoy desde su tumba",
       "summary": "Marine Le Pen debió de sonreír este fin de semana, o tal vez frunció el ceño de estupefacción, al leer las palabras de Mariano Rajoy sobre la selección francesa de fútbol. El expresidente del Gobierno español elogió en un artículo “la plantilla de altísimo nivel” de Francia, y añadió: “Eso sí, sin franceses”. Son palab.",
       "date": "2026-07-13"
-    },
-    {
-      "title": "Borja Iglesias responde a Rajoy por sus palabras sobre Francia: \"Me sorprende que a estas alturas sigamos con estas cosas\"",
-      "summary": "Las declaraciones del expresidente del Gobierno español, Mariano Rajoy , en las que afirmó que les Bleus son un gran equipo, pero sin franceses, siguen generando multitud de reacciones. El último en pronunciarse al respecto ha sido el internacional español Borja Iglesias . \"Francia tiene, además, una plantilla de altís.",
-      "date": "2026-07-13"
     }
   ],
   "sources": [
     {
       "title": "Fernández Díaz alega que se busca condenarlo en Kitchen “por razón” de su cargo de ministro",
       "url": "https://elpais.com/espana/2026-07-22/fernandez-diaz-alega-que-se-busca-condenarlo-en-kitchen-por-razon-de-su-cargo-de-ministro.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-22T10:51:41.000Z",
+      "publishedAt": "2026-07-22T14:18:40.000Z",
       "sourceId": "lootura-es-el-pais"
+    },
+    {
+      "title": "El ex ‘número dos’ de Interior defiende que la ‘Kitchen’ fue una «operación de Estado» legal",
+      "url": "https://theobjective.com/espana/tribunales/2026-07-22/exnumero-dos-interior-kitchen-legalidad/?utm_source=lootura.com",
+      "publishedAt": "2026-07-22T15:53:03.000Z",
+      "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 2
 }

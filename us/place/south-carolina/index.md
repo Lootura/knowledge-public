@@ -3,10 +3,16 @@
 > Follow South Carolina, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-22T10:23:35.990Z
+- Updated: 2026-07-22T17:16:02.754Z
 - Canonical: https://atlas.lootura.com/us/place/south-carolina
 
 ## Recent changes
+
+### South Carolina and Nevada Fight to Kick Off Democrats’ 2028 Presidential Calendar
+
+The calendar order could be hugely important to the 2028 presidential primary race. Democratic insiders will try to sketch out a schedule this week, and rival states are sniping at one another.
+
+Date: 2026-07-22
 
 ### South Carolina Senate poll shows surprising frontrunner: Trey Gowdy
 
@@ -62,12 +68,6 @@ South Carolina first entered the public knowledge record with source-backed evid
 
 Date: 2026-07-12
 
-### U.S. and world leaders pay tribute to Lindsey Graham following sudden death
-
-The senior U.S. senator for South Carolina died suddenly at 71 on Saturday.
-
-Date: 2026-07-12
-
 ## Sources
 
-No public source links.
+- [South Carolina and Nevada Fight to Kick Off Democrats’ 2028 Presidential Calendar](https://www.nytimes.com/2026/07/22/us/politics/south-carolina-nevada-democrats-2028-presidential-calendar.html?utm_source=lootura.com) — 2026-07-22T16:28:18.000Z

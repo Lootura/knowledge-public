@@ -3,7 +3,7 @@
 > Sigue la actividad de Apple en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: company
-- Actualizado: 2026-07-22T02:26:20.882Z
+- Actualizado: 2026-07-22T17:15:40.463Z
 - Canonical: https://atlas.lootura.com/es/company/apple
 
 ## Cambios recientes
@@ -70,4 +70,4 @@ Date: 2026-07-17
 
 ## Fuentes
 
-No public source links.
+- [Apple acelera la renovación total de los Mac, comenzando con el iMac y el MacBook Pro](https://hipertextual.com/apple/apple-acelera-la-renovacion-total-de-los-mac-comenzando-con-el-imac-y-el-macbook-pro/?utm_source=lootura.com) — 2026-07-22T16:00:25.000Z

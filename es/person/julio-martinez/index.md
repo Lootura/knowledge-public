@@ -3,10 +3,22 @@
 > Sigue la actividad de Julio Martínez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-22T13:46:22.256Z
+- Actualizado: 2026-07-22T17:15:40.463Z
 - Canonical: https://atlas.lootura.com/es/person/julio-martinez
 
 ## Cambios recientes
+
+### Las seis mayores contradicciones entre lo que Julio Martínez declaró y la versión de Zapatero
+
+La declaración de Julio Martínez Martínez ha complicado el futuro judicial de José Luis Rodríguez Zapatero . Eso y los escritos que tanto el "amigo" como dos altos cargos de Plus Ultra han remitido esta semana a la Audiencia Nacional. Según ellos, el expresidente habría influido en favor del rescate de 53 millones de e.
+
+Date: 2026-07-22
+
+### Zapatero, tocado y hundido
+
+Los periodistas de THE OBJECTIVE abordan en 'Objetivo directo' la confesión de Julio Martínez Martínez.
+
+Date: 2026-07-22
 
 ### La nueva dimensión del ‘caso Zapatero’ no mueve al Gobierno mientras el expresidente mantiene su silencio
 
@@ -56,19 +68,7 @@ Julio Martínez Martínez, quien fuera hombre de la total confianza del ex presi
 
 Date: 2026-07-21
 
-### Ni Ábalos, ni Leire, ni Julito: estas tramas tienen su 'X'
-
-Julio Martínez 'Julito', el exsocio de Rodríguez Zapatero, ratificó este martes ante el juez instructor de la Audiencia Nacional la información que ya había comunicado al juzgado: que el expresidente era quien manejaba los hilos de una trama de comisiones ilegales a través de la sociedad mercantil Análisis Relevante, S.
-
-Date: 2026-07-21
-
-### Feijóo se adelanta a Sánchez en el balance del curso para aprovechar el misil lanzado por Julio Martínez
-
-El líder del PP, Alberto Núñez Feijóo, ha decidido no esperar a la comparecencia ante la prensa de Pedro Sánchez el próximo martes 28 y se adelanta a este miércoles para valorar el curso político que toca a su fin. Lo hará después del misil lanzado por el empresario 'Julito' Martínez ante el juez de la Audiencia Nacion.
-
-Date: 2026-07-21
-
 ## Fuentes
 
-- [La causa contra Zapatero sitúa ahora el foco en la cúpula de Plus Ultra tras contradecir la versión del expresidente](https://elpais.com/espana/2026-07-22/la-causa-contra-zapatero-situa-ahora-el-foco-en-la-cupula-de-plus-ultra-tras-contradecir-la-version-del-expresidente.html?utm_source=lootura.com) — 2026-07-22T03:30:01.000Z
-- [La nueva dimensión del ‘caso Zapatero’ no mueve al Gobierno mientras el expresidente mantiene su silencio](https://elpais.com/espana/2026-07-22/la-nueva-dimension-del-caso-zapatero-no-mueve-al-gobierno-mientras-el-expresidente-mantiene-su-silencio.html?utm_source=lootura.com) — 2026-07-22T03:30:01.000Z
+- [Las seis mayores contradicciones entre lo que Julio Martínez declaró y la versión de Zapatero](https://www.20minutos.es/nacional/las-cinco-mayores-contradicciones-entre-que-julio-martinez-declaro-juez-calama-version-defendida-por-zapatero_7017741_0.html?utm_source=lootura.com) — 2026-07-22T14:11:43.000Z
+- [Zapatero, tocado y hundido](https://theobjective.com/espana/2026-07-22/objetivo-directo-zapatero-tocado-hundido/?amp=&utm_source=lootura.com) — 2026-07-22T16:25:49.000Z

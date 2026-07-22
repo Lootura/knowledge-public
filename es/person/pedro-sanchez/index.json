@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/pedro-sanchez/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/pedro-sanchez/index.json",
   "description": "Sigue la actividad de Pedro Sánchez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-22T13:46:22.256Z",
+  "updatedAt": "2026-07-22T17:15:40.463Z",
   "aliases": [
     "P S",
     "P. S.",
@@ -23,6 +23,16 @@
       "date": "2026-07-22"
     },
     {
+      "title": "Feijóo sitúa a Sánchez como \"el señor X\" de todos los casos del PSOE y promete \"una limpieza a fondo\" de las instituciones",
+      "summary": "Comienza la \"cuenta atrás\" para el PP. Alberto Núñez Feijóo mira ya hacia las elecciones generales y mete la directa hacia \"el cambio\". Un cambio...",
+      "date": "2026-07-22"
+    },
+    {
+      "title": "La china Geely llega a un acuerdo con Ford para producir coches en su fábrica de Almussafes",
+      "summary": "El presidente de Ford Europa, Jim Baumbick, oficializará el anuncio este jueves, en presencia de Pedro Sánchez y Juanfran Pérez Llorca, para garantizar la supervivencia de la planta valenciana Leer.",
+      "date": "2026-07-22"
+    },
+    {
       "title": "Narbona niega haber hablado con Sánchez sobre Leire Díez y reivindica el \"respeto que merece\" Zapatero",
       "summary": "La presidenta del PSOE , Cristina Narbona, ha acudido este martes a la comisión de investigación del caso Koldo en el Senado , convocada por los mensajes de WhatsApp que intercambió con Leire Díez y otros asuntos judiciales que afectan a Ferraz. En lo referente al caso Leire, se ha desvinculado por completo de la supue.",
       "date": "2026-07-22"
@@ -30,11 +40,6 @@
     {
       "title": "Feijóo promete una «limpieza a fondo y no un relevo» cuando Sánchez salga de Moncloa",
       "summary": "Alberto Núñez Feijóo empezó su balance del curso político sentenciando que el Gobierno «está políticamente acabado, parlamentariamente bloqueado y éticamente inhabilitado» y volvió a reclamar, una vez más, elecciones generales adelantadas como «única salida razonable y democrática» ante la avalancha de casos de corrupc.",
-      "date": "2026-07-22"
-    },
-    {
-      "title": "Feijóo sitúa a Sánchez como \"el señor X\" de todos los casos del PSOE y promete \"una limpieza a fondo\" de las instituciones",
-      "summary": "Comienza la \"cuenta atrás\" para el PP. Alberto Núñez Feijóo mira ya hacia las elecciones generales y mete la directa hacia \"el cambio\". Un cambio...",
       "date": "2026-07-22"
     },
     {
@@ -61,25 +66,14 @@
       "title": "Última hora de los incendios forestales, en directo | El incendio de Guadalajara entra en una fase de “optimismo” tras arrasar más de 32.000 hectáreas",
       "summary": "El incendio de la Sierra Norte de Guadalajara ha arrasado ya al menos 32.000 hectáreas de la provincia, mientras prosiguen este miércoles las labores de extinción. El presidente del Gobierno, Pedro Sánchez, ha visitado esta mañana las zonas afectadas por el incendio, cuyo frente más próximo a Soria sigue estable a entr.",
       "date": "2026-07-22"
-    },
-    {
-      "title": "Sánchez fuerza una defensa a ciegas a pesar de que Moncloa admite el \"riesgo\" de que \"puede salir mal\"",
-      "summary": "La defensa férrea de José Luis Rodríguez Zapatero por parte de Pedro Sánchez comenzó en el mismo momento de su imputación. El presidente ordenó cerrar filas con él incluso antes de conocer los argumentos del juez y mantiene desde entonces un respaldo que en Moncloa justifican casi como un acto de fe y de lealtad . No e.",
-      "date": "2026-07-22"
     }
   ],
   "sources": [
     {
-      "title": "Narbona niega haber hablado con Sánchez sobre Leire Díez y reivindica el \"respeto que merece\" Zapatero",
-      "url": "https://www.20minutos.es/nacional/narbona-niega-haber-hablado-con-sanchez-sobre-leire-diez-reivindica-senado-enorme-respeto-que-merece-zapatero_7017617_0.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-22T10:55:49.000Z",
-      "sourceId": "lootura-es-20minutos"
-    },
-    {
-      "title": "Feijóo promete una «limpieza a fondo y no un relevo» cuando Sánchez salga de Moncloa",
-      "url": "https://www.abc.es/espana/feijoo-promete-limpieza-fondo-relevo-sanchez-salga-20260722132605-nt.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-22T12:13:59.000Z",
-      "sourceId": "lootura-es-abc"
+      "title": "La china Geely llega a un acuerdo con Ford para producir coches en su fábrica de Almussafes",
+      "url": "https://www.elmundo.es/economia/empresas/2026/07/22/6a60c041fdddff05188b4581.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-22T16:55:15.000Z",
+      "sourceId": "lootura-es-el-mundo"
     },
     {
       "title": "Narbona afirma que Sánchez \"ha asumido la responsabilidad política\" por los casos de corrupción y defiende a Zapatero \"por su enorme legado\"",
@@ -92,25 +86,7 @@
       "url": "https://amp.elmundo.es/espana/2026/07/22/6a609c9be85ecedc108b4578.html?utm_source=lootura.com",
       "publishedAt": "2026-07-22T10:46:17.000Z",
       "sourceId": "lootura-es-el-mundo"
-    },
-    {
-      "title": "Feijóo da por hecha su llegada a Moncloa sin esperar a las elecciones: \"Será una limpieza a fondo\"",
-      "url": "https://www.eldiario.es/politica/feijoo-da-hecha-llegada-moncloa-esperar-elecciones-sera-limpieza-fondo_1_13398253.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-22T10:46:12.000Z",
-      "sourceId": "lootura-es-eldiario-es"
-    },
-    {
-      "title": "Feijóo arremete contra Sánchez: “Son sus últimas Navidades en la Moncloa”",
-      "url": "https://www.lavanguardia.com/politica/20260722/11598549/feijoo-da-finiquitada-legislatura-promete-gobierno-reconstruccion.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-22T11:32:04.000Z",
-      "sourceId": "lootura-es-la-vanguardia"
-    },
-    {
-      "title": "España ya tiene fecha y lugar para estrenar la segunda estrella en casa",
-      "url": "https://okdiario.com/deportes/espana-ya-tiene-fecha-lugar-estrenar-segunda-estrella-casa-19048063?utm_source=lootura.com",
-      "publishedAt": "2026-07-22T12:35:33.000Z",
-      "sourceId": "lootura-es-ok-diario"
     }
   ],
-  "evidenceCount": 7
+  "evidenceCount": 3
 }

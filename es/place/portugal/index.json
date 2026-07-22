@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/portugal/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/portugal/index.json",
   "description": "Sigue la actividad de República Portuguesa en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-22T13:46:22.256Z",
+  "updatedAt": "2026-07-22T17:15:40.463Z",
   "aliases": [
     "POR",
     "PRT",
@@ -74,13 +74,7 @@
       "url": "https://okdiario.com/cool/casa-real/exclusivo-club-del-toison-oro-suma-nuevo-nombre-felipe-vi-distingue-marcelo-rebelo-sousa-19047505/amp?utm_source=lootura.com",
       "publishedAt": "2026-07-22T13:44:58.000Z",
       "sourceId": "lootura-es-ok-diario"
-    },
-    {
-      "title": "El Rey concede el Toisón de Oro al expresidente de Portugal Rebelo de Sousa",
-      "url": "https://theobjective.com/internacional/2026-07-22/rey-toison-oro-expresidente-portugal-rebelo-de-sousa/?utm_source=lootura.com",
-      "publishedAt": "2026-07-22T12:52:26.000Z",
-      "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

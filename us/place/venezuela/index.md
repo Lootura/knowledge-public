@@ -3,7 +3,7 @@
 > Follow Venezuela, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-21T21:06:38.270Z
+- Updated: 2026-07-22T17:16:02.754Z
 - Canonical: https://atlas.lootura.com/us/place/venezuela
 
 ## Recent changes
@@ -64,4 +64,4 @@ Date: 2026-07-08
 
 ## Sources
 
-No public source links.
+- [Venezuela's Nicolás Maduro back to court for pretrial hearing in his U.S. drug trafficking case](https://www.pbs.org/newshour/world/venezuelas-nicolas-maduro-back-to-court-for-pretrial-hearing-in-his-u-s-drug-trafficking-case?utm_source=lootura.com) — 2026-07-22T15:29:08.000Z

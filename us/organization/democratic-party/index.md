@@ -3,10 +3,16 @@
 > Follow Democratic Party, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-07-22T13:46:43.033Z
+- Updated: 2026-07-22T17:16:02.754Z
 - Canonical: https://atlas.lootura.com/us/organization/democratic-party
 
 ## Recent changes
+
+### South Carolina and Nevada Fight to Kick Off Democrats’ 2028 Presidential Calendar
+
+The calendar order could be hugely important to the 2028 presidential primary race. Democratic insiders will try to sketch out a schedule this week, and rival states are sniping at one another.
+
+Date: 2026-07-22
 
 ### House Narrowly Passes Stopgap Spending Bill, but Shutdown Fight Looms
 
@@ -62,12 +68,6 @@ Maine Democrats appear to be settling on a frontrunner to replace former Senate 
 
 Date: 2026-07-20
 
-### US politicians push agencies to restrict research collaboration with China
-
-Nature, Published online: 16 July 2026; doi:10.1038/d41586-026-02226-9 Republicans and Democrats worry about research theft and exploitation — but don’t agree on how to solve the problem.
-
-Date: 2026-07-20
-
 ## Sources
 
-- [House Narrowly Passes Stopgap Spending Bill, but Shutdown Fight Looms](https://www.nytimes.com/2026/07/21/us/politics/house-stopgap-spending-bill-shutdown.html?utm_source=lootura.com) — 2026-07-22T02:37:17.000Z
+- [South Carolina and Nevada Fight to Kick Off Democrats’ 2028 Presidential Calendar](https://www.nytimes.com/2026/07/22/us/politics/south-carolina-nevada-democrats-2028-presidential-calendar.html?utm_source=lootura.com) — 2026-07-22T16:28:18.000Z

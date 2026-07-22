@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/donald-trump/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/donald-trump/index.json",
   "description": "Follow Donald Trump, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-22T13:46:43.033Z",
+  "updatedAt": "2026-07-22T17:16:02.754Z",
   "aliases": [
     "@realDonaldTrump",
     "DJT",
@@ -24,21 +24,6 @@
     "Trump"
   ],
   "changes": [
-    {
-      "title": "What to know about Pickaxe Mountain, an Iranian target noted by Trump",
-      "summary": "President Trump on Tuesday threatened to attack Pickaxe Mountain in Iran, a secure facility allegedly used for nuclear activity. CBS News national security analyst Aaron MacLean has more.",
-      "date": "2026-07-22"
-    },
-    {
-      "title": "Trump ally Andy Biggs wins GOP nomination for Arizona governor, AP projects",
-      "summary": "Trump-endorsed Rep. Andy Biggs will take on Democratic Arizona Gov. Katie Hobbs in November.",
-      "date": "2026-07-22"
-    },
-    {
-      "title": "Trump-backed Jay Feely wins GOP primary in Arizona’s battleground 1st District",
-      "summary": "Former Arizona Cardinals kicker Jay Feely cruised to victory in Arizona’s 1st District on Tuesday, one of the nation’s most competitive battlegrounds. Feely, a close ally of President Donald Trump, leveraged Trump’s endorsement to topple former state Rep. Joseph Chaplik. He’ll face a steep challenge defeating the Democ.",
-      "date": "2026-07-22"
-    },
     {
       "title": "Funding milestone detected",
       "summary": "Funding cuts and program changes required by President Trump's big budget law are forcing states to rethink bipartisan efforts to bring Medicaid into jails and prisons. (Image credit: Ramon Dompor for Tradeoffs).",
@@ -60,45 +45,48 @@
       "date": "2026-07-22"
     },
     {
-      "title": "Trump approves landmark U.S.-Saudi nuclear deal",
-      "summary": "President Donald Trump has approved a landmark civilian nuclear deal between the United States and Saudi Arabia that is expected to be announced Wednesday, a senior administration official told NBC News.",
+      "title": "‘It’s a stone around your neck’: Arizona Republicans once again nominate 2020 election deniers",
+      "summary": "To make it out of a Republican primary in Arizona, there’s one key litmus test: believing the 2020 election was stolen from Donald Trump. Election deniers who played prominent roles in efforts to overturn the 2020 results triumphed in statewide Republican primaries Tuesday: Rep. Andy Biggs for governor , state Rep. Ale.",
       "date": "2026-07-22"
     },
     {
-      "title": "Trump-Backed Rep. Andy Biggs Wins Arizona Governor Primary",
-      "summary": "Arizona Rep. Andy Biggs was the runaway winner of the Republican primary in the governor’s race. That sets up a matchup this fall with Democratic Gov. Katie Hobbs. Biggs, who was endorsed by President Donald Trump, held a consistent lead in the polls leading up to the vote.",
+      "title": "Arizona Elections: 6 Takeaways From the Trump-Dominated Primaries",
+      "summary": "Republicans nominated a former N.F.L. kicker in a top House battleground, a Trump loyalist for governor and an election denier for the state’s top election post.",
       "date": "2026-07-22"
     },
     {
-      "title": "Trump to attend dignified transfer of fallen soldiers. And, Hegseth testifies on Iran",
-      "summary": "Trump will attend the dignified transfer of U.S. service members killed in the Middle East. And, Pete Hegseth is requesting billions from Congress to help with the rising cost of the war in Iran. (Image credit: Saul Loeb).",
+      "title": "Trump’s 50% Tariffs on Canada: What to Know, and What’s Next",
+      "summary": "The president said punishing 50 percent tariffs would begin by Aug. 19, a significant escalation of the trade war between Canada and the U.S. that he started over a year ago.",
+      "date": "2026-07-22"
+    },
+    {
+      "title": "Sen. Bennet rails against trade chief for Trump policy's impact on farmers",
+      "summary": "Sen. Michael Bennet, a Democrat from Washington, challenged some of U.S. Trade Representative Jamieson Greer's assertions about the successes of President Trump's trade policies and their impact on farmers.",
+      "date": "2026-07-22"
+    },
+    {
+      "title": "Trump threatens to attack Iran's infrastructure over Strait of Hormuz",
+      "summary": "President Trump in a social media post threatened to attack Iran's infrastructure if the Iranian military shoots at ships in the Strait of Hormuz. CBS News' Natalie Brand and Charlie D'Agata have more.",
+      "date": "2026-07-22"
+    },
+    {
+      "title": "Andy Biggs wins Republican nomination to challenge Democrat Katie Hobbs for Arizona governor",
+      "summary": "Biggs, a fierce ally of President Donald Trump and former head of the House Freedom Caucus, won the Republican nomination for Arizona governor Tuesday.",
       "date": "2026-07-22"
     }
   ],
   "sources": [
     {
-      "title": "Trump ally Andy Biggs wins GOP nomination for Arizona governor, AP projects",
-      "url": "https://www.cbsnews.com/news/arizona-governors-race-results-katie-hobbs-andy-biggs-david-schweikert/?utm_source=lootura.com",
-      "publishedAt": "2026-07-22T03:06:24.000Z",
+      "title": "Watch: Sen. Bennet rails against trade chief for Trump policy's impact on farmers",
+      "url": "https://www.cbsnews.com/video/sen-bennet-and-jamieson-greer-clash-over-trump-policy-impacts-on-farmers/?utm_source=lootura.com",
+      "publishedAt": "2026-07-22T16:51:14.000Z",
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "What to know about Pickaxe Mountain, an Iranian target noted by Trump",
-      "url": "https://www.cbsnews.com/video/what-to-know-about-pickaxe-mountain-an-iranian-target-noted-by-trump/?utm_source=lootura.com",
-      "publishedAt": "2026-07-22T01:56:08.000Z",
+      "title": "Trump threatens to attack Iran's infrastructure over Strait of Hormuz",
+      "url": "https://www.cbsnews.com/video/trump-threatens-attack-iran-infrastructure-over-strait-of-hormuz/?utm_source=lootura.com",
+      "publishedAt": "2026-07-22T16:44:35.000Z",
       "sourceId": "lootura-us-cbs-news"
-    },
-    {
-      "title": "Trump approves landmark U.S.-Saudi nuclear deal",
-      "url": "https://www.nbcnews.com/world/saudi-arabia/trump-us-saudi-nuclear-deal-uranium-enrichment-iran-war-israel-rcna588660?utm_source=lootura.com",
-      "publishedAt": "2026-07-22T12:04:33.000Z",
-      "sourceId": "lootura-us-nbc-news-politics"
-    },
-    {
-      "title": "Trump-Backed Rep. Andy Biggs Wins Arizona Governor Primary",
-      "url": "https://www.today.com/video/trump-backed-rep-andy-biggs-wins-arizona-governor-primary-267091013514?utm_source=lootura.com",
-      "publishedAt": "2026-07-22T12:14:34.000Z",
-      "sourceId": "lootura-us-nbc-news-politics"
     },
     {
       "title": "States want to bring Medicaid behind bars. Federal changes make that harder",
@@ -119,10 +107,16 @@
       "sourceId": "lootura-us-npr-politics"
     },
     {
-      "title": "Trump to attend dignified transfer of fallen soldiers. And, Hegseth testifies on Iran",
-      "url": "https://www.npr.org/2026/07/22/g-s1-134896/up-first-newsletter-trump-iran-war-pete-hegseth-arizona-primaries?utm_source=lootura.com",
-      "publishedAt": "2026-07-22T11:24:22.000Z",
-      "sourceId": "lootura-us-npr-world"
+      "title": "Andy Biggs wins Republican nomination to challenge Democrat Katie Hobbs for Arizona governor",
+      "url": "https://www.pbs.org/newshour/politics/andy-biggs-wins-republican-nomination-to-challenge-democrat-katie-hobbs-for-arizona-governor?utm_source=lootura.com",
+      "publishedAt": "2026-07-22T14:53:48.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
+    },
+    {
+      "title": "Trump will attend the dignified transfer of 4 U.S. service members killed in the Middle East",
+      "url": "https://www.pbs.org/newshour/world/trump-will-attend-the-dignified-transfer-of-4-u-s-service-members-killed-in-the-middle-east?utm_source=lootura.com",
+      "publishedAt": "2026-07-22T14:27:14.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
     },
     {
       "title": "‘It’s a stone around your neck’: Arizona Republicans once again nominate 2020 election deniers",
@@ -131,10 +125,16 @@
       "sourceId": "lootura-us-politico"
     },
     {
-      "title": "Trump-backed Jay Feely wins GOP primary in Arizona’s battleground 1st District",
-      "url": "https://www.politico.com/news/2026/07/21/feely-wins-arizona-house-primary-01007468?utm_source=lootura.com",
-      "publishedAt": "2026-07-22T03:16:31.000Z",
-      "sourceId": "lootura-us-politico"
+      "title": "Arizona Elections: 6 Takeaways From the Trump-Dominated Primaries",
+      "url": "https://www.nytimes.com/2026/07/22/us/politics/arizona-primary-takeaways.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-22T09:17:02.000Z",
+      "sourceId": "lootura-us-the-new-york-times-politics"
+    },
+    {
+      "title": "Rubio and Chinese Diplomat Make Plans for Trump and Xi’s Washington Summit",
+      "url": "https://www.nytimes.com/2026/07/22/us/politics/trump-xi-rubio-manila-china.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-22T16:23:06.000Z",
+      "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
   "evidenceCount": 13

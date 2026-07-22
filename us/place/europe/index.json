@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/europe/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/europe/index.json",
   "description": "Follow Europe, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-22T06:26:12.535Z",
+  "updatedAt": "2026-07-22T17:16:02.754Z",
   "aliases": [
     "EU",
     "European Union"
   ],
   "changes": [
+    {
+      "title": "EU watchdog reduces safe level of exposure to 'forever chemical' TFA",
+      "summary": "The EU's food safety agency said Wednesday it has dramatically reduced the acceptable daily intake level of the so-called forever chemical TFA, following new evidence of its effect on a key hormone that regulates the body's metabolism.",
+      "date": "2026-07-22"
+    },
     {
       "title": "How Europe's Extreme Heat Waves Have Impacted the Tour de France",
       "summary": "Dorian Godon of France and Netcompany INEOS Cycling Team refreshes during the Tour de France, Stage 9, on July 12, 2026 in Ussel, France. The stage was shortened due to a red alert for a heat wave. —Tim de Waele—Getty Images Through the first two weeks of the 2026 Tour de France, the average temperature of 87.4°F has f.",
@@ -58,13 +63,15 @@
       "title": "Ticking time bomb? Europe's aging population brings challenges",
       "summary": "The population of the 27-nation European Union will peak in 2029 before falling in the coming decades, according to a report published Tuesday that spotlights the major challenges the bloc faces from an aging population.",
       "date": "2026-07-14"
-    },
-    {
-      "title": "Ukraine and 9 other countries form coalition to protect Europe from ballistic missiles",
-      "summary": "Ukraine and nine other countries have announced a coalition to protect Europe from ballistic missiles, taking advantage of Kyiv's experience of fighting Russia.",
-      "date": "2026-07-13"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "EU watchdog reduces safe level of exposure to 'forever chemical' TFA",
+      "url": "https://phys.org/news/2026-07-eu-watchdog-safe-exposure-chemical.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-22T17:08:23.000Z",
+      "sourceId": "lootura-us-phys-org"
+    }
+  ],
+  "evidenceCount": 1
 }

@@ -8,11 +8,16 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/democratic-party/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/democratic-party/index.json",
   "description": "Follow Democratic Party, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-22T13:46:43.033Z",
+  "updatedAt": "2026-07-22T17:16:02.754Z",
   "aliases": [
     "Democrats"
   ],
   "changes": [
+    {
+      "title": "South Carolina and Nevada Fight to Kick Off Democrats’ 2028 Presidential Calendar",
+      "summary": "The calendar order could be hugely important to the 2028 presidential primary race. Democratic insiders will try to sketch out a schedule this week, and rival states are sniping at one another.",
+      "date": "2026-07-22"
+    },
     {
       "title": "House Narrowly Passes Stopgap Spending Bill, but Shutdown Fight Looms",
       "summary": "Republicans managed to push through legislation to fund the government through Dec. 4. But with Democrats opposed, the stage is set for a broader battle.",
@@ -57,18 +62,13 @@
       "title": "Maine Democrats close in on pick to replace Senate candidate Graham Platner",
       "summary": "Maine Democrats appear to be settling on a frontrunner to replace former Senate candidate Graham Platner in a rushed process to take on Republican Sen. Susan Collins.",
       "date": "2026-07-20"
-    },
-    {
-      "title": "US politicians push agencies to restrict research collaboration with China",
-      "summary": "Nature, Published online: 16 July 2026; doi:10.1038/d41586-026-02226-9 Republicans and Democrats worry about research theft and exploitation — but don’t agree on how to solve the problem.",
-      "date": "2026-07-20"
     }
   ],
   "sources": [
     {
-      "title": "House Narrowly Passes Stopgap Spending Bill, but Shutdown Fight Looms",
-      "url": "https://www.nytimes.com/2026/07/21/us/politics/house-stopgap-spending-bill-shutdown.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-22T02:37:17.000Z",
+      "title": "South Carolina and Nevada Fight to Kick Off Democrats’ 2028 Presidential Calendar",
+      "url": "https://www.nytimes.com/2026/07/22/us/politics/south-carolina-nevada-democrats-2028-presidential-calendar.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-22T16:28:18.000Z",
       "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
