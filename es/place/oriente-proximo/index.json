@@ -1,0 +1,50 @@
+{
+  "id": "es-oriente-proximo",
+  "name": "Oriente Próximo",
+  "type": "place",
+  "locale": "es",
+  "canonicalPath": "/es/place/oriente-proximo",
+  "canonicalUrl": "https://atlas.lootura.com/es/place/oriente-proximo",
+  "markdownUrl": "https://atlas.lootura.com/es/place/oriente-proximo/index.md",
+  "jsonUrl": "https://atlas.lootura.com/es/place/oriente-proximo/index.json",
+  "description": "Sigue la actividad de Oriente Próximo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
+  "updatedAt": "2026-07-22T06:25:50.604Z",
+  "aliases": [
+    "Proximo Oriente",
+    "Próximo Oriente",
+    "Cercano Oriente",
+    "Oriente cercano"
+  ],
+  "changes": [
+    {
+      "title": "Cautela en las Bolsas ante los resultados de las grandes tecnológicas y con el petróleo al alza",
+      "summary": "El pesimismo en torno a las negociaciones de paz entre EE UU e Irán, después de que el presidente Donald Trump restara importancia a la posibilidad de conversaciones inmediatas con Teherán, y la creciente amenaza a los suministros energéticos de Oriente Próximo derivada de un bloqueo naval dirigido contra Arabia Saudí.",
+      "date": "2026-07-22"
+    },
+    {
+      "title": "De Ormuz a los hutíes en Bab al Mandeb: el nuevo foco de la guerra en Oriente Próximo",
+      "summary": "Los rebeldes yemeníes, el principal bastión del Eje de la Resistencia iraní en la actualidad, han recrudecido su confrontación con Arabia Saudí. La ampliación del conflicto regional amenaza aún más el suministro de petróleo y el comercio internacional.",
+      "date": "2026-07-22"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Oriente Próximo first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-07-22"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Cautela en las Bolsas ante los resultados de las grandes tecnológicas y con el petróleo al alza",
+      "url": "https://cincodias.elpais.com/mercados-financieros/2026-07-22/la-bolsa-y-el-ibex-35.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-22T04:29:14.000Z",
+      "sourceId": "lootura-es-cinco-dias"
+    },
+    {
+      "title": "De Ormuz a los hutíes en Bab al Mandeb: el nuevo foco de la guerra en Oriente Próximo",
+      "url": "https://elordenmundial.com/blitz-bab-al-mandeb-huties-guerra-oriente-proximo/?utm_source=lootura.com",
+      "publishedAt": "2026-07-22T06:08:02.000Z",
+      "sourceId": "lootura-es-el-orden-mundial"
+    }
+  ],
+  "evidenceCount": 2
+}

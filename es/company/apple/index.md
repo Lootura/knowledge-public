@@ -70,5 +70,4 @@ Date: 2026-07-17
 
 ## Fuentes
 
-- [Adiós a comprar el iPhone de contado: Apple quiere que lo pagues como un coche con este nuevo programa](https://hipertextual.com/apple/apple-upgrade-programa-renta-iphone-mac-ipad/?utm_source=lootura.com) — 2026-07-21T19:10:00.000Z
-- [Samsung lanza su primera tarjeta de crédito para competir con la Apple Card](https://hipertextual.com/tecnologia/samsung-lanza-su-primera-tarjeta-de-credito-para-competir-con-la-apple-card/?utm_source=lootura.com) — 2026-07-21T18:08:00.000Z
+No public source links.

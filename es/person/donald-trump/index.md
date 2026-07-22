@@ -3,10 +3,22 @@
 > Sigue la actividad de Donald Trump en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-22T02:26:20.882Z
+- Actualizado: 2026-07-22T06:25:50.604Z
 - Canonical: https://atlas.lootura.com/es/person/donald-trump
 
 ## Cambios recientes
+
+### Cautela en las Bolsas ante los resultados de las grandes tecnológicas y con el petróleo al alza
+
+El pesimismo en torno a las negociaciones de paz entre EE UU e Irán, después de que el presidente Donald Trump restara importancia a la posibilidad de conversaciones inmediatas con Teherán, y la creciente amenaza a los suministros energéticos de Oriente Próximo derivada de un bloqueo naval dirigido contra Arabia Saudí.
+
+Date: 2026-07-22
+
+### Trump aprueba acuerdo nuclear que permitiría a Arabia Saudí enriquecer uranio
+
+Se prevé que el acuerdo tenga una vigencia de 30 años y que también implique a empresas de Estados Unidos en el desarrollo del programa Leer.
+
+Date: 2026-07-22
 
 ### Trump pide inmunidad judicial para Delcy Rodríguez mientras siga en el poder
 
@@ -56,18 +68,7 @@ MIC Producciones continúa su gira veraniega en Olmedo Clásico el 20 de julio, 
 
 Date: 2026-07-19
 
-### Por qué las idas y venidas de Trump alejan la solución a la crisis en el estrecho de Ormuz
-
-Cinco meses de cambios de rumbo y fanfarronadas en su guerra contra Irán empeoran la situación del presidente de EEUU Nuevo bandazo de Trump en su errática gestión de la guerra en Irán: recula con la tasa del 20% por patrullar Ormuz Donald Trump ha llevado la guerra con Irán a una nueva fase, aún más turbia, a medida q.
-
-Date: 2026-07-18
-
-### Lealtad, telegenia y testosterona: la extravagante carrera de Hegseth al frente del Pentágono
-
-En la reunión celebrada en el salón de té de la mansión/hotel de Donald Trump de Mar-a-Lago en la que se decidió el 11 de noviembre de 2024 que Pete Hegseth sería el siguiente secretario de Defensa de Estados Unidos, el entonces presidente electo ofreció dos argumentos, para él, de peso. “Nadie ha dado mejor en cámara.
-
-Date: 2026-07-18
-
 ## Fuentes
 
-- [Trump pide inmunidad judicial para Delcy Rodríguez mientras siga en el poder](https://theobjective.com/internacional/2026-07-21/trump-inmunidad-delcy-rodriguez/?amp=&utm_source=lootura.com) — 2026-07-21T20:53:36.000Z
+- [Cautela en las Bolsas ante los resultados de las grandes tecnológicas y con el petróleo al alza](https://cincodias.elpais.com/mercados-financieros/2026-07-22/la-bolsa-y-el-ibex-35.html?utm_source=lootura.com) — 2026-07-22T04:29:14.000Z
+- [Trump aprueba acuerdo nuclear que permitiría a Arabia Saudí enriquecer uranio](https://www.elmundo.es/internacional/2026/07/22/6a605530e9cf4a8a088b4596.html?utm_source=lootura.com) — 2026-07-22T05:35:01.000Z

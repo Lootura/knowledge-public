@@ -8,11 +8,16 @@
   "markdownUrl": "https://atlas.lootura.com/es/company/openai/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/company/openai/index.json",
   "description": "Sigue la actividad de OpenAI en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-18T09:22:10.056Z",
+  "updatedAt": "2026-07-22T06:25:50.604Z",
   "aliases": [
     "ChatGPT maker"
   ],
   "changes": [
+    {
+      "title": "La Primera de Expansión sobre Santander, Holaluz, Iberdrola, Ormuz, Infantino y OpenAI",
+      "summary": "Santander gano 8.973 millones, un 31% más, por la plusvalía de la venta en Polonia.",
+      "date": "2026-07-22"
+    },
     {
       "title": "Apple envía cartas de advertencia a decenas de exempleados que ahora trabajan en OpenAI",
       "summary": "Apple ha decidido llevar su disputa legal con OpenAI a un terreno mucho más personal. El gigante tecnológico envió cartas de advertencia a decenas de extrabajadores que hoy forman parte de la plantilla de la empresa de IA. La medida llega a unos días de que Apple presentara una demanda en la que acusa a OpenAI de robar.",
@@ -34,6 +39,13 @@
       "date": "2026-07-15"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "La Primera de Expansión sobre Santander, Holaluz, Iberdrola, Ormuz, Infantino y OpenAI",
+      "url": "https://www.expansion.com/podcasts/la-primera-de-expansion/2026/07/22/6a604cca468aeb35718b457d.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-22T05:33:26.000Z",
+      "sourceId": "lootura-es-expansion"
+    }
+  ],
+  "evidenceCount": 1
 }

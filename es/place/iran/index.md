@@ -3,7 +3,7 @@
 > Sigue la actividad de Irán en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-22T02:26:20.882Z
+- Actualizado: 2026-07-22T06:25:50.604Z
 - Canonical: https://atlas.lootura.com/es/place/iran
 
 ## Cambios recientes
@@ -11,6 +11,12 @@
 ### EEUU lanza nuevos ataques contra Irán que eclipsan los esfuerzos diplomáticos
 
 Leer.
+
+Date: 2026-07-22
+
+### Cautela en las Bolsas ante los resultados de las grandes tecnológicas y con el petróleo al alza
+
+El pesimismo en torno a las negociaciones de paz entre EE UU e Irán, después de que el presidente Donald Trump restara importancia a la posibilidad de conversaciones inmediatas con Teherán, y la creciente amenaza a los suministros energéticos de Oriente Próximo derivada de un bloqueo naval dirigido contra Arabia Saudí.
 
 Date: 2026-07-22
 
@@ -62,13 +68,7 @@ El precio del barril de crudo de calidad Brent , que había llegado este lunes, 
 
 Date: 2026-07-20
 
-### El precio del petróleo modera su escalada tras anunciar Irán contactos con los mediadores
-
-La persistencia de la incertidumbre en Oriente Próximo ha llevado al precio del petróleo a superar por primera vez en más de un mes los 91 dólares por barril. Una escalada que se ha visto frenada tras el anuncio por parte del régimen iraní de contactos diplomáticos con los mediadores con Estados Unidos. El barril de br.
-
-Date: 2026-07-20
-
 ## Fuentes
 
-- [La banca se apoya en la subida del euríbor para apuntar a nuevos máximos de beneficios](https://cincodias.elpais.com/companias/2026-07-21/la-banca-se-apoya-en-la-subida-del-euribor-para-apuntar-a-nuevos-maximos-de-beneficios.html?utm_source=lootura.com) — 2026-07-21T17:18:15.000Z
+- [Cautela en las Bolsas ante los resultados de las grandes tecnológicas y con el petróleo al alza](https://cincodias.elpais.com/mercados-financieros/2026-07-22/la-bolsa-y-el-ibex-35.html?utm_source=lootura.com) — 2026-07-22T04:29:14.000Z
 - [EEUU lanza nuevos ataques contra Irán que eclipsan los esfuerzos diplomáticos](https://www.elmundo.es/internacional/2026/07/22/6a601510fdddff835a8b456d.html?utm_source=lootura.com) — 2026-07-22T00:59:32.000Z

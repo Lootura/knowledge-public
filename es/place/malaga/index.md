@@ -3,7 +3,7 @@
 > Sigue la actividad de Málaga en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-22T02:26:20.882Z
+- Actualizado: 2026-07-22T06:25:50.604Z
 - Canonical: https://atlas.lootura.com/es/place/malaga
 
 ## Cambios recientes
@@ -71,4 +71,3 @@ Date: 2026-07-17
 ## Fuentes
 
 - [Amenazan a un futbolista vasco del Málaga por apoyar a Argentina contra España: «Etarra. Traidor. Antiespañol»](https://www.elcorreo.com/deportes/futbol/liga-primera/amenazan-futbolista-vasco-malaga-apoyar-argentina-espana-20260721120601-nt_amp.html?utm_source=lootura.com) — 2026-07-21T10:06:01.000Z
-- [Tres mujeres asesinadas en apenas unas horas en sus domicilios de Toledo, Alicante y Málaga](https://www.elmundo.es/espana/2026/07/21/6a5f3a5ce85ece993b8b457e.html?utm_source=lootura.com) — 2026-07-21T13:34:58.000Z

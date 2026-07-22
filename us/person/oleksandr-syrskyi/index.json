@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/oleksandr-syrskyi/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/oleksandr-syrskyi/index.json",
   "description": "Follow Oleksandr Syrskyi, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-22T02:26:42.354Z",
+  "updatedAt": "2026-07-22T06:26:12.535Z",
   "aliases": [
     "Alexander Stanislavovich Syrsky",
     "Alexander Syrsky",
@@ -26,13 +26,13 @@
       "date": "2026-07-21"
     },
     {
-      "title": "Tech innovator and old guard general are focus of Ukraine's political crisis",
-      "summary": "When their personalities and policies clashed, President Volodymyr Zelenskyy decided to fire popular young Defense Minister Mykhailo Fedorov and keep Gen. Oleksandr Syrskyi.",
+      "title": "Discovered by Atlas",
+      "summary": "Oleksandr Syrskyi first entered the public knowledge record with source-backed evidence.",
       "date": "2026-07-21"
     },
     {
-      "title": "Discovered by Atlas",
-      "summary": "Oleksandr Syrskyi first entered the public knowledge record with source-backed evidence.",
+      "title": "Tech innovator and old guard general are focus of Ukraine's political crisis",
+      "summary": "When their personalities and policies clashed, President Volodymyr Zelenskyy decided to fire popular young Defense Minister Mykhailo Fedorov and keep Gen. Oleksandr Syrskyi.",
       "date": "2026-07-21"
     }
   ],
@@ -42,13 +42,7 @@
       "url": "https://www.nbcnews.com/world/ukraine/ukraines-zelenskyy-fires-commander-chief-protests-major-rift-rcna588159?utm_source=lootura.com",
       "publishedAt": "2026-07-21T19:51:22.000Z",
       "sourceId": "lootura-us-nbc-news"
-    },
-    {
-      "title": "Tech innovator and old guard general are focus of Ukraine's political crisis",
-      "url": "https://www.pbs.org/newshour/world/tech-innovator-and-old-guard-general-are-focus-of-ukraines-political-crisis?utm_source=lootura.com",
-      "publishedAt": "2026-07-21T18:25:03.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

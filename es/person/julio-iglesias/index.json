@@ -35,25 +35,6 @@
       "date": "2026-07-21"
     }
   ],
-  "sources": [
-    {
-      "title": "Julio Iglesias se querella contra elDiario.es, contra su director y contra cuatro de sus periodistas",
-      "url": "https://www.eldiario.es/politica/julio-iglesias-querella-eldiario-director-cuatro-periodistas_1_13397000.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-21T20:15:10.000Z",
-      "sourceId": "lootura-es-eldiario-es"
-    },
-    {
-      "title": "La querella de Julio Iglesias contra elDiario.es: falsedades y acusaciones sin fundamento",
-      "url": "https://www.eldiario.es/politica/querella-julio-iglesias-eldiario-falsedades-acusaciones-fundamento_129_13397281.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-21T20:14:58.000Z",
-      "sourceId": "lootura-es-eldiario-es"
-    },
-    {
-      "title": "Julio Iglesias defiende su honor contra Yolanda Díaz: los límites del poder político",
-      "url": "https://www.larazon.es/gente/poder/julio-iglesias-defiende-honor-yolanda-diaz-limites-poder-politico_202607226a60084ce3eb0b64aa4c6e2b.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-22T00:01:16.000Z",
-      "sourceId": "lootura-es-la-razon"
-    }
-  ],
-  "evidenceCount": 3
+  "sources": [],
+  "evidenceCount": 0
 }

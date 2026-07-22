@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/espana/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/espana/index.json",
   "description": "Sigue la actividad de España en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-22T02:26:20.882Z",
+  "updatedAt": "2026-07-22T06:25:50.604Z",
   "aliases": [
     "Estado español",
     "Kingdom of Spain",
@@ -16,6 +16,46 @@
     "Spain"
   ],
   "changes": [
+    {
+      "title": "La tercera ola de calor se intensifica hoy en España antes de alcanzar su punto álgido: 13 comunidades autónomas están en alerta",
+      "summary": "España se encuentra inmersa desde este martes en la tercera ola de calor del verano, un episodio que continuará intensificándose durante los próximos días y que alcanzará previsiblemente su punto álgido este jueves, cuando se podrían llegar a los 44 grados en algunas zonas. Mientras tanto, este miércoles las temperatur.",
+      "date": "2026-07-22"
+    },
+    {
+      "title": "Este es el pueblo del País Vasco más barato para alquilar una casa en la playa este verano",
+      "summary": "El Mediterráneo suele concentrar buena parte de las miradas cuando llega el verano, pero el norte de España también ofrece numerosas alternativas para pasar las vacaciones junto al mar. La costa del País Vasco es una de las más deseadas, aunque alojarse durante el mes de agosto puede exigir un importante desembolso.El.",
+      "date": "2026-07-22"
+    },
+    {
+      "title": "Boticaria García, sobre el azúcar en el café: «Que no te vendan humo»",
+      "summary": "En España se consumen más de 67 millones de tazas de café al día, lo que equivale a unas 1,5 tazas diarias por persona. Esta cifra se traduce en un consumo anual de unas 562 tazas por habitante. Los números no mienten y estas estimaciones de la Asociación Española del Café ( AECafé ) reflejan que estamos ante uno de lo.",
+      "date": "2026-07-22"
+    },
+    {
+      "title": "El país que vendió su verano: por qué España no puede vivir sin turistas",
+      "summary": "No hay alternativas para el motor de la economía española. ¿Qué hacemos entonces con cien millones de turistas?",
+      "date": "2026-07-22"
+    },
+    {
+      "title": "El incendio de Guadalajara dispara la superficie quemada en España tras un nefasto comienzo de julio",
+      "summary": "Si el año pasado las llamas se desbocaron en agosto arrasando el noroeste de la Península, coincidiendo con una extensa e intensa ola de calor , este verano los problemas han llegado antes a España, el país europeo con más superficie dañada en estos momentos. Tras un junio que ya fue complicado, en julio se ha disparad.",
+      "date": "2026-07-22"
+    },
+    {
+      "title": "El manipulador y atractivo rey consorte de Castilla que introdujo la dinastía de los Austria en España",
+      "summary": "Tal día como hoy, 22 de julio, pero de 1478, o lo que es lo mismo, hace 548 años, nacía en Brujas (Bélgica) Felipe I de Castilla , rey consorte por su matrimonio con Juana I de Castilla (la Loca) y figura clave en la transición política de la monarquía hispánica de la época. Miembro de la dinastía Habsburgo, su breve r.",
+      "date": "2026-07-22"
+    },
+    {
+      "title": "Samuel Biener, meteorólogo, lanza un aviso para España: el chorro polar cambiará el tiempo en solo cuatro días tras el calor extremo",
+      "summary": "El chorro polar cambiará el tiempo en solo cuatro días tras el calor extremo, este meteorólogo no duda en lanzar un aviso para España.",
+      "date": "2026-07-22"
+    },
+    {
+      "title": "¿De qué reconciliación nos hablan?",
+      "summary": "El señor Koen Lenaerts, presidente del Tribunal de Justicia Europeo , con sede en Luxemburgo, afirmó públicamente que el derecho de la Unión Europea no se opone a la ley que concede la amnistía en España, cuyo propósito es «reducir las tensiones institucionales y políticas, así como facilitar un escenario de reconcilia.",
+      "date": "2026-07-22"
+    },
     {
       "title": "Vox se ofende con el PP y asegura que se presentará en toda España",
       "summary": "Los populares estudiaban un pacto para que Vox no concurriera en algunas provincias y no dividir el voto.",
@@ -25,53 +65,31 @@
       "title": "Amenazan a un futbolista vasco del Málaga por apoyar a Argentina contra España: «Etarra. Traidor. Antiespañol»",
       "summary": "Einar Galilea llegó a la Costa del Sol hace tres años, cuando los boquerones aún eran un equipo de Primera RFEF.",
       "date": "2026-07-21"
-    },
-    {
-      "title": "Las reclamaciones por uso de tarjetas desbancan a las de hipotecas como la mayor causa de conflicto entre entidades y clientes",
-      "summary": "El Banco de España alerta del aumento de casos de fraude y engaño a través del pago con tarjetas Leer.",
-      "date": "2026-07-21"
-    },
-    {
-      "title": "Puigdemont denuncia a España ante la Comisión Europea por incumplir de la Ley de Amnistía",
-      "summary": "Carles Puigdemont, ex presidente de la Generalitat de Cataluña y líder de Junts, ha presentado un escrito ante la Secretaría General de la Comisión Europea en el que denuncia a España por el incumplimiento de la Ley de Amnistía. El ex presidente catalán responde así después de que el Tribunal de Justicia de la Unión ..",
-      "date": "2026-07-21"
-    },
-    {
-      "title": "PP y Vox llevan por primera vez a una ley la \"prioridad nacional\" con la aprobación de los presupuestos de la Generalitat Valenciana",
-      "summary": "Ambos partidos acuerdan acotarla al \"arraigo real\" mientras el Gobierno de España amenaza con recurrir la norma ante el Constitucional Leer.",
-      "date": "2026-07-21"
-    },
-    {
-      "title": "¿Puede Hacienda embargar una cuenta de Revolut?",
-      "summary": "Aunque Revolut es una entidad de origen lituano, opera en España como sucursal bancaria supervisada por el Banco de España y ofrece cuentas con IBAN español (que comienza por \"ES\"). Esto facilita que Hacienda envíe órdenes de embargo directamente a la entidad de forma automatizada, del mismo modo que lo hace con los ba.",
-      "date": "2026-07-21"
-    },
-    {
-      "title": "España es el mayor refugio para la tortuga boba del mar Mediterráneo, y la mayoría de los nidos están en el litoral de Murcia",
-      "summary": "Las playas españolas, y especialmente las de la Región de Murcia , se están consolidando como uno de los principales enclaves para la tortuga boba en el Mediterráneo occidental. Las hembras eligen con mayor frecuencia este tramo del litoral para realizar sus puestas, un comportamiento que refuerza el valor ecológico de.",
-      "date": "2026-07-21"
-    },
-    {
-      "title": "¿Quién debe pagar por eliminar los microcontaminantes del agua?",
-      "summary": "Instalaciones de depuración de aguas. dongfang/Shutterstock Durante las últimas décadas, la depuración de aguas residuales ha sido una de las grandes historias de éxito ambiental en España. La Directiva europea sobre tratamiento de aguas residuales urbanas de 1991 supuso la construcción de miles de kilómetros de redes.",
-      "date": "2026-07-21"
-    },
-    {
-      "title": "Los nuevos casos humanos de fiebre del Nilo Occidental en España activan la alerta",
-      "summary": "El mosquito común (_Culex pipiens_) es uno de los principales transmisores del virus del Nilo Occidental. Nikul6533/Shutterstock Ya están aquí los primeros casos de la temporada en España de fiebre del Nilo Occidental en humanos. Los afectados son un hombre de la provincia de Alicante, que requirió hospitalización, y u.",
-      "date": "2026-07-21"
-    },
-    {
-      "title": "El ascenso meteórico de Pau Cubarsí, el muro tranquilo de España",
-      "summary": "Fuera del terreno de juego pasa desapercibido. Discreto, abraza la normalidad desde sus orígenes, desde la carpintería de su bisabuelo que regenta su padre en el Estanyol (Girona), su pueblo de menos de 200 habitantes. Pero sobre el césped logra lo excepcional. Pau Cubarsí tiene 19 años y un aspecto que sigue pareciend.",
-      "date": "2026-07-21"
     }
   ],
   "sources": [
     {
-      "title": "Una insólita cadena de favores: los detalles ocultos del gol de Ferran",
-      "url": "https://www.abc.es/deportes/futbol/mundial/media-giuliano-giro-nahuel-detalles-ocultos-gol-20260721013100-nt.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-21T23:39:51.000Z",
+      "title": "Lo que se sabe del crimen en Alameda de la Sagra: una mujer asesinada, su marido con cortes en las muñecas...",
+      "url": "https://www.20minutos.es/castilla-la-mancha/toledo/que-se-sabe-crimen-alameda-sagra-una-mujer-asesinada-su-marido-con-cortes-las-munecas-cuatro-hijos_7017197_0.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-22T03:00:00.000Z",
+      "sourceId": "lootura-es-20minutos"
+    },
+    {
+      "title": "La tercera ola de calor se intensifica hoy en España antes de alcanzar su punto álgido: 13 comunidades autónomas están en alerta",
+      "url": "https://www.20minutos.es/nacional/tercera-ola-calor-se-intensifica-este-miercoles-antes-alcanzar-su-punto-algido-jueves-hay-13-comunidades-alerta_7017266_0.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-22T03:00:00.000Z",
+      "sourceId": "lootura-es-20minutos"
+    },
+    {
+      "title": "Este es el pueblo del País Vasco más barato para alquilar una casa en la playa este verano",
+      "url": "https://www.abc.es/economia/cuentas-corrientes/pueblo-pais-vasco-barato-alquilar-casa-playa-20260722050000-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-22T05:33:55.000Z",
+      "sourceId": "lootura-es-abc"
+    },
+    {
+      "title": "Boticaria García, sobre el azúcar en el café: «Que no te vendan humo»",
+      "url": "https://www.abc.es/bienestar/alimentacion/boticaria-garcia-nutricionista-sobre-mejor-echar-azucar-20260722073000-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-22T05:34:18.000Z",
       "sourceId": "lootura-es-abc"
     },
     {
@@ -81,16 +99,22 @@
       "sourceId": "lootura-es-el-correo"
     },
     {
-      "title": "Las reclamaciones por uso de tarjetas desbancan a las de hipotecas como la mayor causa de conflicto entre entidades y clientes",
-      "url": "https://www.elmundo.es/economia/dinero-inversion/2026/07/21/6a5f645be4d4d8691e8b4574.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-21T12:41:35.000Z",
-      "sourceId": "lootura-es-el-mundo"
-    },
-    {
       "title": "PP y Vox llevan por primera vez a una ley la \"prioridad nacional\" con la aprobación de los presupuestos de la Generalitat Valenciana",
       "url": "https://www.elmundo.es/comunidad-valenciana/2026/07/21/6a5faad5fc6c83204d8b458e.html?utm_source=lootura.com",
       "publishedAt": "2026-07-21T20:43:55.000Z",
       "sourceId": "lootura-es-el-mundo"
+    },
+    {
+      "title": "El país que vendió su verano: por qué España no puede vivir sin turistas",
+      "url": "https://elordenmundial.com/espana-turismo-verano-100-millones/?utm_source=lootura.com",
+      "publishedAt": "2026-07-22T05:00:00.000Z",
+      "sourceId": "lootura-es-el-orden-mundial"
+    },
+    {
+      "title": "El incendio de Guadalajara dispara la superficie quemada en España tras un nefasto comienzo de julio",
+      "url": "https://elpais.com/clima-y-medio-ambiente/2026-07-22/el-incendio-de-guadalajara-dispara-la-superficie-quemada-en-espana-tras-un-nefasto-comienzo-de-julio.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-22T03:30:01.000Z",
+      "sourceId": "lootura-es-el-pais"
     },
     {
       "title": "¿Puede Hacienda embargar una cuenta de Revolut?",
@@ -99,17 +123,11 @@
       "sourceId": "lootura-es-expansion"
     },
     {
-      "title": "Vox se ofende con el PP y asegura que se presentará en toda España",
-      "url": "https://www.larazon.es/espana/vox-ofende-asegura-que-presentara-toda-espana_202607226a5fb15fe3eb0b64aa4bff6e.html?outputType=amp&utm_source=lootura.com",
-      "publishedAt": "2026-07-22T01:20:17.000Z",
+      "title": "El manipulador y atractivo rey consorte de Castilla que introdujo la dinastía de los Austria en España",
+      "url": "https://www.larazon.es/castilla-y-leon/manipulador-atractivo-rey-consorte-castilla-que-introdujo-dinastia-austria-espana_202607226a5f4270303ca6202cc315ad.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-22T06:00:15.000Z",
       "sourceId": "lootura-es-la-razon"
-    },
-    {
-      "title": "Puigdemont denuncia a España ante la Comisión Europea por incumplir de la Ley de Amnistía",
-      "url": "https://okdiario.com/espana/puigdemont-denuncia-espana-comision-europea-incumplir-ley-amnistia-19043545/amp?utm_source=lootura.com",
-      "publishedAt": "2026-07-21T20:37:19.000Z",
-      "sourceId": "lootura-es-ok-diario"
     }
   ],
-  "evidenceCount": 7
+  "evidenceCount": 11
 }

@@ -28,5 +28,4 @@ Date: 2026-07-21
 
 ## Fuentes
 
-- [Julio Iglesias defiende su honor contra Yolanda Díaz: los límites del poder político](https://www.larazon.es/gente/poder/julio-iglesias-defiende-honor-yolanda-diaz-limites-poder-politico_202607226a60084ce3eb0b64aa4c6e2b.html?utm_source=lootura.com) — 2026-07-22T00:01:16.000Z
-- [Vox lleva a la Junta Electoral al Supremo para forzar su intervención en la ‘ley de nietos’](https://theobjective.com/espana/tribunales/2026-07-21/vox-recurrira-junta-electoral-ley-de-nietos/?utm_source=lootura.com) — 2026-07-21T18:54:34.000Z
+No public source links.

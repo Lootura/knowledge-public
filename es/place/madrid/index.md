@@ -3,10 +3,46 @@
 > Sigue la actividad de Madrid en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-22T02:26:20.882Z
+- Actualizado: 2026-07-22T06:25:50.604Z
 - Canonical: https://atlas.lootura.com/es/place/madrid
 
 ## Cambios recientes
+
+### El aeródromo de Casarrubios se mueve para convertirse en el segundo aeropuerto de Madrid
+
+Una pista de 1.000 metros de longitud, 65.000 aviones al año ajenos al transporte comercial regular o a operaciones militares, y un centenar de empresas dedicadas principalmente a formación y mantenimiento aeronáutico. Es el perfil del aeródromo de capital privado de Casarrubios del Monte , con 400.000 metros cuadrados.
+
+Date: 2026-07-22
+
+### La Comunidad de Madrid habilitará 52 puntos de observación y celebrará un festival en Buitrago del Lozoya para el eclipse solar
+
+La Comunidad de Madrid habilitará 52 puntos de observación y organizará un festival en Buitrago del Lozoya con motivo del eclipse solar que tendrá lugar el próximo 12 de agosto. El acontecimiento, que no se produce en la península ibérica desde 1905 , se podrá seguir desde 93 localidades repartidas entre las zonas nort.
+
+Date: 2026-07-22
+
+### Rescatan a un hombre de 63 años que sufría un ahogamiento en una piscina municipal de Usera
+
+Samur-Protección Civil de Madrid ha revertido la parada cardiorrespiratoria de un hombre de 63 años que había sido rescatado por los socorristas en la piscina del Centro Deportivo Municipal Moscardó, en Usera. Los socorristas han comenzado las maniobras de reanimación hasta la llegada de los equipos médicos , que han c.
+
+Date: 2026-07-22
+
+### El supermercado donde puedes ahorrar más de 4.000 euros al año en Madrid, según un estudio de la OCU
+
+Hacer la compra se ha convertido en una especie de prueba de resistencia para muchas familias, pero no tanto por lo que se compra, sino por lo que acaba costando. En los últimos años la cesta ha subido tanto que da igual si lo que compras es lo básico o algún extra, ya que todo está más caro. Y en ese contexto, hay un.
+
+Date: 2026-07-22
+
+### Precio de la gasolina hoy 22 de julio: localiza las gasolineras más baratas de Madrid
+
+Llegamos a miércoles con muchos coches que siguen circulando en el tráfico de Madrid de trabajadores, pero también están aquellos de quienes están de vacaciones o quienes visitan la capital durante el verano. De este modo, es importante estar atentos y saber dónde repostar de modo que toma nota porque este es el precio.
+
+Date: 2026-07-22
+
+### El mirador gratuito de Madrid que puedes disfrutar este verano: se contemplan las mejores puestas de sol y sigue siendo un gran desconocido
+
+Madrid en verano tiene una serie de planes que nunca faltan y entre los que tenemos terrazas , parques llenos al atardecer y los mismos puntos de siempre para ver el skyline de la ciudad y también, cómo cae el sol. Sin embargo, hay quien prefiere salir del centro, evitar las multitudes y encontrar un sitio donde el rui.
+
+Date: 2026-07-22
 
 ### Cobo apuntala la Iglesia de Madrid al estilo León
 
@@ -20,12 +56,6 @@ Es oficialmente la candi target="_blank" rel="noopener noreferrer">la manifestac
 
 Date: 2026-07-22
 
-### El buen rollito de Unai Simón con la 'periodista de los puñitos' y el destino final de la txapela del Athletic
-
-El portero rojiblanco y Elena G. Durán, reportera de DAZN, volvieron a encontrarse en la celebración del título por las calles de Madrid.
-
-Date: 2026-07-21
-
 ### El doctor Alessandro Alarcão explica el cambio radical de Vinícius Jr.: «El reto fue lograr una proyección mandibular de aspecto natural»
 
 El reconocido dermatólogo rompe el silencio sobre la intervención estética realizada a la estrella del Real Madrid tras su descanso estival a puerta cerrada.
@@ -38,41 +68,14 @@ Los de Matarazzo jugarán Stamford Bridge el 15 de agosto, fecha en la que debí
 
 Date: 2026-07-21
 
-### El PSOE recurre el archivo de la causa contra Miguel Ángel Rodríguez por revelación de datos
-
-El PSOE ha pedido a la Audiencia Provincial de Madrid que ordene reabrir la investigación por presunta revelación de secretos a Miguel Ángel Rodríguez,.
-
-Date: 2026-07-21
-
-### Sebastián Yatra cantará el 10 de octubre en el festival de la Hispanidad en Madrid
-
-El músico colombiano será el cabeza de cartel, en el que también estará Marta Sánchez, en la semana de eventos y conciertos en la región y en la que Estados Unidos será el país invitado.
-
-Date: 2026-07-21
-
-### La Comunidad de Madrid celebrará del 2 al 12 de octubre la fiesta de la Hispanidad con EEUU como país invitado
-
-La Comunidad de Madrid ha presentado este martes la sexta edición de Hispanidad , la gran cita de la cultura en español que se celebrará del 2 al 12 de octubre con más de 150 actividades de música, gastronomía, cine, folclore, arte y patrimonio repartidas por la capital y la región. Estados Unidos será el país invitado.
-
-Date: 2026-07-21
-
-### Una reyerta entre okupas acaba con un inmigrante de 19 años apuñalado de gravedad en el barrio de Tetuán (Madrid)
-
-Una violenta reyerta con cuchillos junto a un edificio okupado del barrio de Tetuán, en Madrid , se ha cobrado un herido grave de 19 años, apuñalado en al menos cinco ocasiones . Los hechos se han producido sobre las 4:00 horas de la madrugada de este martes en las inmediaciones del número 17 de la calle Miosotis, hast.
-
-Date: 2026-07-21
-
-### El Ayuntamiento de Madrid rechaza la creación de una tasa turística
-
-El Ayuntamiento de Madrid ha rechazado este martes la creación de una tasa turística, una propuesta defendida por Más Madrid que considera que permitiría recaudar más de 70 millones de euros anuales para destinarlos a las necesidades de la ciudad. Más Madrid ha llevado la iniciativa al Pleno municipal mediante una preg.
-
-Date: 2026-07-21
-
 ## Fuentes
 
-- [El buen rollito de Unai Simón con la 'periodista de los puñitos' y el destino final de la txapela del Athletic](https://www.elcorreo.com/deportes/futbol/mundial/buen-rollito-unai-simon-periodista-punitos-destino-20260721082157-nt_amp.html?utm_source=lootura.com) — 2026-07-21T06:21:57.000Z
+- [El incierto futuro de los héroes del Mundial: Rodri y su fichaje por el Real Madrid y el Barça espera a Ferran](https://www.20minutos.es/deportes/futbol/incierto-futuro-los-heroes-mundial-rodri-hernandez-su-fichaje-por-real-madrid-barca-espera-decision-ferran_7017363_0.html?utm_source=lootura.com) — 2026-07-22T03:00:00.000Z
+- [El aeródromo de Casarrubios se mueve para convertirse en el segundo aeropuerto de Madrid](https://cincodias.elpais.com/companias/2026-07-22/el-aerodromo-de-casarrubios-insiste-en-convertirse-en-segundo-aeropuerto-de-madrid-con-un-plan-de-inversion-recortado.html?utm_source=lootura.com) — 2026-07-22T03:15:00.000Z
+- [La Comunidad de Madrid habilitará 52 puntos de observación y celebrará un festival en Buitrago del Lozoya para el eclipse solar](https://www.elconfidencial.com/espana/madrid/2026-07-22/comunidad-madrid-puntos-observacion-festival-buitrago-lozoya-eclipse-solar_4393666/?utm_source=lootura.com) — 2026-07-22T03:00:00.000Z
 - [La Real Sociedad cierra un amistoso de campanillas: visitará al Chelsea de Xabi Alonso en agosto](https://www.diariovasco.com/real-sociedad/real-sociedad-amistoso-campanillas-visitara-chelsea-xabi-alonso-agosto-20260721151702-nt_amp.html?utm_source=lootura.com) — 2026-07-21T13:17:41.000Z
 - [El doctor Alessandro Alarcão explica el cambio radical de Vinícius Jr.: «El reto fue lograr una proyección mandibular de aspecto natural»](https://www.diariovasco.com/gente-estilo/alessandro-alarcao-explica-cambio-radical-vinicius-cara-20260721120209-nt_amp.html?utm_source=lootura.com) — 2026-07-21T10:03:04.000Z
-- [Cobo apuntala la Iglesia de Madrid al estilo León](https://www.larazon.es/madrid/cobo-apuntala-iglesia-madrid-estilo-leon_202607226a600bf6da3add27d4dadbab.html?utm_source=lootura.com) — 2026-07-22T00:16:54.000Z
-- [Rosario Sánchez desprecia su cargo en Turismo y se apunta a la protesta antiturística del día 26 en Palma](https://okdiario.com/baleares/rosario-sanchez-desprecia-cargo-turismo-apunta-protesta-antituristica-del-dia-26-palma-19041766?utm_source=lootura.com) — 2026-07-22T02:00:49.000Z
-- [El PSOE recurre el archivo de la causa contra Miguel Ángel Rodríguez por revelación de datos](https://theobjective.com/espana/tribunales/2026-07-21/psoe-recurre-archivo-causa-miguel-angel-rodriguez/?amp=&utm_source=lootura.com) — 2026-07-21T16:57:11.000Z
+- [Rescatan a un hombre de 63 años que sufría un ahogamiento en una piscina municipal de Usera](https://www.larazon.es/madrid/rescatan-hombre-63-anos-que-sufria-ahogamiento-piscina-municipal-usera_202607226a605a3bda3add27d4db383c.html?utm_source=lootura.com) — 2026-07-22T05:50:51.000Z
+- [El supermercado donde puedes ahorrar más de 4.000 euros al año en Madrid, según un estudio de la OCU](https://okdiario.com/madrid/supermercado-donde-puedes-ahorrar-mas-4-000-euros-ano-madrid-segun-estudio-ocu-19040215?utm_source=lootura.com) — 2026-07-22T06:15:04.000Z
+- [Precio de la gasolina hoy 22 de julio: localiza las gasolineras más baratas de Madrid](https://okdiario.com/madrid/precio-gasolina-hoy-22-julio-localiza-gasolineras-mas-baratas-madrid-19030000?utm_source=lootura.com) — 2026-07-22T06:15:22.000Z
+- [El mirador gratuito de Madrid que puedes disfrutar este verano: se contemplan las mejores puestas de sol y sigue siendo un gran desconocido](https://okdiario.com/madrid/mirador-gratuito-madrid-que-puedes-disfrutar-este-verano-contemplan-mejores-puestas-sol-sigue-siendo-gran-desconocido-19038406?utm_source=lootura.com) — 2026-07-22T06:00:26.000Z

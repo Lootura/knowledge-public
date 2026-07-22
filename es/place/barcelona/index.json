@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/barcelona/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/barcelona/index.json",
   "description": "Sigue la actividad de Barcelona en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-21T10:23:08.875Z",
+  "updatedAt": "2026-07-22T06:25:50.604Z",
   "aliases": [
     "B'na",
     "Barcelona City",
@@ -21,6 +21,16 @@
     "Ciudad condal"
   ],
   "changes": [
+    {
+      "title": "Marc Biarnés (Nosoloviernes): “Antes la familia se avergonzaba del hijo tonto, pero ahora tiene un ‘podcast”",
+      "summary": "Marc Biarnés (Barcelona, 33 años) tiene lo que más cotiza en las redes sociales: una expresividad que solo es suya. Su forma de poner los ojos en blanco mientras pela una pieza de fruta o de fruncir levemente el ceño mientras se prepara una tostada le pertenece solo a él. Si muchas influencers han encontrado un filón e.",
+      "date": "2026-07-22"
+    },
+    {
+      "title": "Luis de la Fuente protagoniza un mural en Barcelona",
+      "summary": "El artista Alberto Leon dedica una obra al seleccionador nacional.",
+      "date": "2026-07-22"
+    },
     {
       "title": "Ferran Torres, como símbolo del secreto de Luis de la Fuente",
       "summary": "A Ferran Torres parecía que lo había devorado el meme. No importaba que hubiera terminado la temporada como uno de los goleadores del Barcelona ni que todos sus entrenadores hubieran confiado en él. Guardiola contó con él en el City. Xavi Hernández y Hansi Flick lo mimaron en el Camp Nou. Lo mismo ocurrió en la selecci.",
@@ -60,18 +70,27 @@
       "title": "Corrompidos por el narco en Cataluña",
       "summary": "¿Qué lleva a un inspector de la Policía Nacional a liderar una red de tráfico de cocaína en el puerto de Barcelona? Los motivos sólo los sabe él, pero la consecuencia ha sido una condena de 15 años de cárcel .La denuncia de un arrepentido, tras una descarga, llevó a los Mossos d'Esquadra hasta el entramado que lideraba.",
       "date": "2026-07-19"
-    },
-    {
-      "title": "Los Mossos detienen a una pareja reincidente por el robo de joyas valoradas en 8.000 euros",
-      "summary": "Los Mossos d’Esquadra detuvieron el pasado martes a un hombre de 36 años y a una mujer de 25 como presuntos autores de un robo con fuerza en una joyería del distrito de Gràcia de Barcelona, donde sustrajeron joyas valoradas en 8.530 euros, según han informado este sábado en un comunicado. Los hechos ocurrieron el pasad.",
-      "date": "2026-07-18"
-    },
-    {
-      "title": "Dos detenidos por robar joyas valoradas en más de 8.500 euros en una joyería de Barcelona",
-      "summary": "Los Mossos d'Esquadra detuvieron el pasado martes a un hombre de 36 años y a una mujer de 25 como presuntos autores de un robo con fuerza en una joyería del distrito de Gràcia de Barcelona, donde sustrajeron joyas valoradas en 8.530 euros, según han informado este sábado en un comunicado. Los hechos ocurrieron el pasad.",
-      "date": "2026-07-18"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "El independentismo crucifica a Joan Laporta y Rufián por apoyar a la selección española",
+      "url": "https://www.elconfidencial.com/espana/cataluna/2026-07-22/el-independentismo-crucifica-a-joan-laporta-apoyar-a-la-seleccion-espanola_4393768/?utm_source=lootura.com",
+      "publishedAt": "2026-07-22T03:00:00.000Z",
+      "sourceId": "lootura-es-el-confidencial"
+    },
+    {
+      "title": "Marc Biarnés (Nosoloviernes): “Antes la familia se avergonzaba del hijo tonto, pero ahora tiene un ‘podcast”",
+      "url": "https://elpais.com/icon/2026-07-22/marc-biarnes-nosoloviernes-antes-la-familia-se-avergonzaba-del-hijo-tonto-pero-ahora-tiene-un-podcast.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-22T03:30:01.000Z",
+      "sourceId": "lootura-es-el-pais"
+    },
+    {
+      "title": "Luis de la Fuente protagoniza un mural en Barcelona",
+      "url": "https://www.larazon.es/cataluna/luis-fuente-protagoniza-mural-barcelona_202607226a606080aa17c0020f290716.html?outputType=amp&utm_source=lootura.com",
+      "publishedAt": "2026-07-22T06:17:36.000Z",
+      "sourceId": "lootura-es-la-razon"
+    }
+  ],
+  "evidenceCount": 2
 }

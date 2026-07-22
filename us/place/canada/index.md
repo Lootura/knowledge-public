@@ -3,7 +3,7 @@
 > Follow Canada, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-22T02:26:42.354Z
+- Updated: 2026-07-22T06:26:12.535Z
 - Canonical: https://atlas.lootura.com/us/place/canada
 
 ## Recent changes
@@ -71,4 +71,3 @@ Date: 2026-07-19
 ## Sources
 
 - [Trump hits Canada with slew of new 50% tariffs set to take effect in 30 days](https://www.npr.org/2026/07/21/nx-s1-5901957/trump-hits-canada-with-slew-of-new-50-tariffs-set-to-take-effect-in-30-days?utm_source=lootura.com) — 2026-07-21T20:09:34.000Z
-- [Canada cancels joint bridge-opening celebration with US amid trade tensions](https://www.theguardian.com/us-news/2026/jul/21/gordie-howe-bridge-opening-celebration-canceled?utm_source=lootura.com) — 2026-07-22T00:58:40.000Z

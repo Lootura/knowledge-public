@@ -3,10 +3,22 @@
 > Sigue la actividad de Bélgica en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-21T10:23:08.875Z
+- Actualizado: 2026-07-22T06:25:50.604Z
 - Canonical: https://atlas.lootura.com/es/place/belgium
 
 ## Cambios recientes
+
+### El manipulador y atractivo rey consorte de Castilla que introdujo la dinastía de los Austria en España
+
+Tal día como hoy, 22 de julio, pero de 1478, o lo que es lo mismo, hace 548 años, nacía en Brujas (Bélgica) Felipe I de Castilla , rey consorte por su matrimonio con Juana I de Castilla (la Loca) y figura clave en la transición política de la monarquía hispánica de la época. Miembro de la dinastía Habsburgo, su breve r.
+
+Date: 2026-07-22
+
+### De Matilde a Elisabeth y Eléonore: los looks con los que la Familia Real de Bélgica despide el Día Nacional entre conciertos y fuegos artificiales
+
+Tras una intensa jornada de actos oficiales, la Familia Real de Bélgica ha cambiado el protocolo por un ambiente mucho más relajado para asistir al tradicional concierto y al espectáculo de fuegos artificiales celebrado en el Parque del Cincuentenario de Bruselas. Una de las imágenes más comentadas de la noche ha sido.
+
+Date: 2026-07-22
 
 ### El vestido de estreno de Matilde de Bélgica para el Día Nacional: guipur, tono champán y una espectacular pamela
 
@@ -56,18 +68,7 @@ El ministro de Asuntos Exteriores, José Manuel Albares , ha intercambiado infor
 
 Date: 2026-07-11
 
-### Discovered by Atlas
-
-Belgium first entered the public knowledge record with source-backed evidence.
-
-Date: 2026-07-10
-
-### Lamine Yamal: “Si a alguien debe temer Francia es a nosotros”
-
-Entre la pizarra de Luis de la Fuente y el olfato goleador de Mikel Merino , aparece la gambeta de Lamine Yamal. De nuevo elegido el mejor jugador del duelo ante Bélgica ayer. El canterano del Barcelona no necesitó ni marcar ni asistir para llevarse el trofeo individual. “Estoy muy contento por la victoria. Quiero marc.
-
-Date: 2026-07-10
-
 ## Fuentes
 
-No public source links.
+- [El manipulador y atractivo rey consorte de Castilla que introdujo la dinastía de los Austria en España](https://www.larazon.es/castilla-y-leon/manipulador-atractivo-rey-consorte-castilla-que-introdujo-dinastia-austria-espana_202607226a5f4270303ca6202cc315ad.html?utm_source=lootura.com) — 2026-07-22T06:00:15.000Z
+- [De Matilde a Elisabeth y Eléonore: los looks con los que la Familia Real de Bélgica despide el Día Nacional entre conciertos y fuegos artificiales](https://www.larazon.es/lifestyle/moda/matilde-elisabeth-eleonore-looks-que-familia-real-belgica-despide-dia-nacional-conciertos-fuegos-artificiales_202607226a6057df4687a22bdec6d8b8.html?utm_source=lootura.com) — 2026-07-22T06:15:14.000Z

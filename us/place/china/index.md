@@ -3,7 +3,7 @@
 > Follow China, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-22T02:26:42.354Z
+- Updated: 2026-07-22T06:26:12.535Z
 - Canonical: https://atlas.lootura.com/us/place/china
 
 ## Recent changes
@@ -70,4 +70,4 @@ Date: 2026-07-17
 
 ## Sources
 
-- [Does China’s latest AI model finally equal US rivals? What scientists think](https://www.nature.com/articles/d41586-026-02281-2?utm_source=lootura.com) — 2026-07-22T02:26:46.718Z
+- [Does China’s latest AI model finally equal US rivals? What scientists think](https://www.nature.com/articles/d41586-026-02281-2?utm_source=lootura.com) — 2026-07-22T06:26:16.322Z

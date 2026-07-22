@@ -37,19 +37,6 @@
       "date": "2026-07-21"
     }
   ],
-  "sources": [
-    {
-      "title": "El Gobierno pone límites a los niños 'influencers' tras aparcar la norma de la IA",
-      "url": "https://www.abc.es/cultura/gobierno-pone-limites-ninos-influencers-tras-aparcar-20260721123806-nt.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-21T23:44:10.000Z",
-      "sourceId": "lootura-es-abc"
-    },
-    {
-      "title": "La nueva ley del tabaco prohíbe fumar a los menores y hacerlo en playas, terrazas y campus universitarios",
-      "url": "https://elpais.com/sociedad/2026-07-21/la-nueva-ley-del-tabaco-prohibe-fumar-a-los-menores-y-hacerlo-en-terrazas-y-campus-universitarios.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-21T11:53:40.000Z",
-      "sourceId": "lootura-es-el-pais"
-    }
-  ],
-  "evidenceCount": 2
+  "sources": [],
+  "evidenceCount": 0
 }

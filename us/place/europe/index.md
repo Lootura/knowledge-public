@@ -3,7 +3,7 @@
 > Follow Europe, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-21T21:06:38.270Z
+- Updated: 2026-07-22T06:26:12.535Z
 - Canonical: https://atlas.lootura.com/us/place/europe
 
 ## Recent changes
@@ -70,4 +70,4 @@ Date: 2026-07-13
 
 ## Sources
 
-No public source links.
+- [French lawmakers approve a sweeping social media ban for children under 15](https://www.npr.org/2026/07/22/g-s1-134875/france-social-media-ban?utm_source=lootura.com) — 2026-07-22T05:46:50.000Z

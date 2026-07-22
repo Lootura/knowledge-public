@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/democratic-party/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/democratic-party/index.json",
   "description": "Follow Democratic Party, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-22T02:26:42.354Z",
+  "updatedAt": "2026-07-22T06:26:12.535Z",
   "aliases": [
     "Democrats"
   ],
@@ -16,6 +16,11 @@
     {
       "title": "Senate panel advances Jay Clayton's nomination for director of national intelligence",
       "summary": "The 9-8 vote came after some Democrats had praised Clayton and indicated that they might vote for him. But that shifted after a contentious hearing last week in which Clayton repeatedly refused to say that former President Joe Biden won the 2020 election.",
+      "date": "2026-07-22"
+    },
+    {
+      "title": "House Narrowly Passes Stopgap Spending Bill, but Shutdown Fight Looms",
+      "summary": "Republicans managed to push through legislation to fund the government through Dec. 4. But with Democrats opposed, the stage is set for a broader battle.",
       "date": "2026-07-22"
     },
     {
@@ -57,11 +62,6 @@
       "title": "US politicians push agencies to restrict research collaboration with China",
       "summary": "Nature, Published online: 16 July 2026; doi:10.1038/d41586-026-02226-9 Republicans and Democrats worry about research theft and exploitation — but don’t agree on how to solve the problem.",
       "date": "2026-07-20"
-    },
-    {
-      "title": "Don’t Let This Useless Debate Distract You, Democrats",
-      "summary": "A battle over idealized economic systems doesn’t help Democratic candidates.",
-      "date": "2026-07-19"
     }
   ],
   "sources": [
@@ -76,6 +76,12 @@
       "url": "https://www.pbs.org/newshour/politics/senate-panel-advances-jay-claytons-nomination-for-director-of-national-intelligence?utm_source=lootura.com",
       "publishedAt": "2026-07-22T00:26:02.000Z",
       "sourceId": "lootura-us-pbs-newshour"
+    },
+    {
+      "title": "House Narrowly Passes Stopgap Spending Bill, but Shutdown Fight Looms",
+      "url": "https://www.nytimes.com/2026/07/21/us/politics/house-stopgap-spending-bill-shutdown.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-22T02:37:17.000Z",
+      "sourceId": "lootura-us-the-new-york-times-politics"
     },
     {
       "title": "Democrats’ Top Senate Candidate in Maine Won’t Support Schumer for Leader",

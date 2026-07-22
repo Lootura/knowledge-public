@@ -3,7 +3,7 @@
 > Sigue la actividad de Partido Popular en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-22T02:26:20.882Z
+- Actualizado: 2026-07-22T06:25:50.604Z
 - Canonical: https://atlas.lootura.com/es/organization/partido-popular
 
 ## Cambios recientes
@@ -14,27 +14,27 @@ Los populares estudiaban un pacto para que Vox no concurriera en algunas provinc
 
 Date: 2026-07-22
 
-### Vox se adelanta al PP: recurre al Supremo y mira a la Audiencia Nacional y al TJUE para frenar la ley de nietos
-
-Santiago Abascal quiere pilotar la presión política, institucional y judicial contra la controvertida ley de nietos que tiene ya enfrente por distintos motivos a funcionarios, juristas, diplomáticos y a los dos principales partidos de la oposición. Vox ha convertido el rechazo a la nacionalización masiva promovida por.
-
-Date: 2026-07-21
-
 ### El PP apunta a Sánchez por el 'caso ZP' y avisa de que «este chanchullo se los puede llevar a los dos por delante»
 
 Los populares creen probado que el expresidente contaba con los apoyos de Venezuela y Moncloa en sus actividades para rescatar a Plus UItra tras las revelaciones de su testaferro.
 
 Date: 2026-07-21
 
-### Feijóo se adelanta a Sánchez en el balance del curso para aprovechar el misil lanzado por Julio Martínez
-
-El líder del PP, Alberto Núñez Feijóo, ha decidido no esperar a la comparecencia ante la prensa de Pedro Sánchez el próximo martes 28 y se adelanta a este miércoles para valorar el curso político que toca a su fin. Lo hará después del misil lanzado por el empresario 'Julito' Martínez ante el juez de la Audiencia Nacion.
-
-Date: 2026-07-21
-
 ### PP y Vox llevan por primera vez a una ley la "prioridad nacional" con la aprobación de los presupuestos de la Generalitat Valenciana
 
 Ambos partidos acuerdan acotarla al "arraigo real" mientras el Gobierno de España amenaza con recurrir la norma ante el Constitucional Leer.
+
+Date: 2026-07-21
+
+### Vox se adelanta al PP: recurre al Supremo y mira a la Audiencia Nacional y al TJUE para frenar la ley de nietos
+
+Santiago Abascal quiere pilotar la presión política, institucional y judicial contra la controvertida ley de nietos que tiene ya enfrente por distintos motivos a funcionarios, juristas, diplomáticos y a los dos principales partidos de la oposición. Vox ha convertido el rechazo a la nacionalización masiva promovida por.
+
+Date: 2026-07-21
+
+### Feijóo se adelanta a Sánchez en el balance del curso para aprovechar el misil lanzado por Julio Martínez
+
+El líder del PP, Alberto Núñez Feijóo, ha decidido no esperar a la comparecencia ante la prensa de Pedro Sánchez el próximo martes 28 y se adelanta a este miércoles para valorar el curso político que toca a su fin. Lo hará después del misil lanzado por el empresario 'Julito' Martínez ante el juez de la Audiencia Nacion.
 
 Date: 2026-07-21
 
@@ -70,8 +70,5 @@ Date: 2026-07-20
 
 ## Fuentes
 
-- [Vox se adelanta al PP: recurre al Supremo y mira a la Audiencia Nacional y al TJUE para frenar la ley de nietos](https://www.elconfidencial.com/espana/2026-07-21/vox-pp-y-audiencia-nacional-tjue-ley-de-nietos_4393702/?utm_source=lootura.com) — 2026-07-21T18:14:00.000Z
 - [El PP apunta a Sánchez por el 'caso ZP' y avisa de que «este chanchullo se los puede llevar a los dos por delante»](https://www.elcorreo.com/politica/pp-apunta-gobierno-tras-revelaciones-julio-martinez-20260721134247-ntrc_amp.html?utm_source=lootura.com) — 2026-07-21T11:42:47.000Z
-- [Feijóo se adelanta a Sánchez en el balance del curso para aprovechar el misil lanzado por Julio Martínez](https://www.elindependiente.com/espana/2026/07/21/feijoo-se-adelanta-a-sanchez-en-el-balance-del-curso-para-aprovechar-el-misil-lanzado-por-julio-martinez/?utm_source=lootura.com) — 2026-07-21T17:29:59.000Z
 - [PP y Vox llevan por primera vez a una ley la "prioridad nacional" con la aprobación de los presupuestos de la Generalitat Valenciana](https://www.elmundo.es/comunidad-valenciana/2026/07/21/6a5faad5fc6c83204d8b458e.html?utm_source=lootura.com) — 2026-07-21T20:43:55.000Z
-- [Vox se ofende con el PP y asegura que se presentará en toda España](https://www.larazon.es/espana/vox-ofende-asegura-que-presentara-toda-espana_202607226a5fb15fe3eb0b64aa4bff6e.html?outputType=amp&utm_source=lootura.com) — 2026-07-22T01:20:17.000Z

@@ -3,10 +3,16 @@
 > Sigue la actividad de Emiliano García-Page en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-21T21:06:12.863Z
+- Actualizado: 2026-07-22T06:25:50.604Z
 - Canonical: https://atlas.lootura.com/es/person/emiliano-garcia-page
 
 ## Cambios recientes
+
+### El incendio de Guadalajara se acerca a las 32.000 hectáreas afectadas
+
+El incendio que se originó el pasado jueves en La Mierla, en la Sierra Norte de Guadalajara, empieza a arrojar los primeros resquicios para el optimismo tras seis días de lucha incansable contra el fuego. “Empezamos a ver la luz más allá del humo”, decía el presidente de Castilla-La Mancha, Emiliano García-Page , tras.
+
+Date: 2026-07-21
 
 ### El incendio de Guadalajara roza las 30.000 hectáreas quemadas y ya hay 34 municipios desalojados
 
@@ -46,4 +52,4 @@ Date: 2026-07-18
 
 ## Fuentes
 
-No public source links.
+- [El incendio de Guadalajara se acerca a las 32.000 hectáreas afectadas](https://elpais.com/espana/2026-07-21/el-incendio-de-guadalajara-roza-las-30000-hectareas-quemadas-y-ya-hay-34-municipios-desalojados.html?utm_source=lootura.com) — 2026-07-21T16:45:55.000Z

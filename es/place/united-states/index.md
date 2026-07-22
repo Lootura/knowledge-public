@@ -3,10 +3,16 @@
 > Sigue la actividad de Estados Unidos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-22T02:26:20.882Z
+- Actualizado: 2026-07-22T06:25:50.604Z
 - Canonical: https://atlas.lootura.com/es/place/united-states
 
 ## Cambios recientes
+
+### Trump aprueba acuerdo nuclear que permitiría a Arabia Saudí enriquecer uranio
+
+Se prevé que el acuerdo tenga una vigencia de 30 años y que también implique a empresas de Estados Unidos en el desarrollo del programa Leer.
+
+Date: 2026-07-22
 
 ### Trump pide inmunidad judicial para Delcy Rodríguez mientras siga en el poder
 
@@ -62,12 +68,6 @@ El Mando Central de las Fuerzas Armadas estadounidenses (Centcom) ha informado e
 
 Date: 2026-07-20
 
-### Irán presume de haber atacado de forma simultánea a EE UU en Bahrein y Qatar
-
-Irán afirmó este lunes haber atacado simultáneamente tres posiciones militares estadounidenses en Bahrein y Kuwait, en una nueva oleada de su ofensiva contra objetivos de Estados Unidos en Oriente Medio en respuesta a los ataques estadounidenses contra territorio iraní. "Los combatientes de la Armada de la Guardia Revo.
-
-Date: 2026-07-20
-
 ## Fuentes
 
-- [Trump pide inmunidad judicial para Delcy Rodríguez mientras siga en el poder](https://theobjective.com/internacional/2026-07-21/trump-inmunidad-delcy-rodriguez/?amp=&utm_source=lootura.com) — 2026-07-21T20:53:36.000Z
+- [Trump aprueba acuerdo nuclear que permitiría a Arabia Saudí enriquecer uranio](https://www.elmundo.es/internacional/2026/07/22/6a605530e9cf4a8a088b4596.html?utm_source=lootura.com) — 2026-07-22T05:35:01.000Z

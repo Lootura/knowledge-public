@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/donald-trump/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/donald-trump/index.json",
   "description": "Follow Donald Trump, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-22T02:26:42.354Z",
+  "updatedAt": "2026-07-22T06:26:12.535Z",
   "aliases": [
     "@realDonaldTrump",
     "DJT",
@@ -30,13 +30,38 @@
       "date": "2026-07-22"
     },
     {
-      "title": "Canada cancels joint bridge-opening celebration with US amid trade tensions",
-      "summary": "The ribbon-cutting celebration of the Gordie Howe International Bridge is no longer taking place after Trump announced a 50% tariff on Canadian goods A planned joint US-Canada ceremony Friday celebrating the opening of the Gordie Howe International Bridge connecting Detroit and Windsor, Ontario, is no longer expected t.",
+      "title": "With His Latest Threats, Trump Signals to Iran That He Is Willing to Escalate",
+      "summary": "President Trump is facing a critical moment in the war, which has failed to bring about the “unconditional surrender” he once demanded.",
       "date": "2026-07-22"
     },
     {
-      "title": "With His Latest Threats, Trump Signals to Iran That He Is Willing to Escalate",
-      "summary": "President Trump is facing a critical moment in the war, which has failed to bring about the “unconditional surrender” he once demanded.",
+      "title": "Trump ally Andy Biggs wins GOP nomination for Arizona governor, AP projects",
+      "summary": "Trump-endorsed Rep. Andy Biggs will take on Democratic Arizona Gov. Katie Hobbs in November.",
+      "date": "2026-07-22"
+    },
+    {
+      "title": "Trump-backed Rep. Andy Biggs wins GOP primary for Arizona governor",
+      "summary": "NBC News projects that Biggs defeated fellow Rep. David Schweikert to move on to the general election against Democratic Gov. Katie Hobbs.",
+      "date": "2026-07-22"
+    },
+    {
+      "title": "Trump-backed Jay Feely wins GOP primary in Arizona’s battleground 1st District",
+      "summary": "Former Arizona Cardinals kicker Jay Feely cruised to victory in Arizona’s 1st District on Tuesday, one of the nation’s most competitive battlegrounds. Feely, a close ally of President Donald Trump, leveraged Trump’s endorsement to topple former state Rep. Joseph Chaplik. He’ll face a steep challenge defeating the Democ.",
+      "date": "2026-07-22"
+    },
+    {
+      "title": "The top of Arizona’s GOP ticket is littered with 2020 election deniers",
+      "summary": "To make it out of a Republican primary in Arizona, there’s one key litmus test: believing the 2020 election was stolen from Donald Trump. Election deniers who played prominent roles in efforts to overturn the 2020 results triumphed in statewide Republican primaries Tuesday, from Rep. Andy Biggs for governor to state Re.",
+      "date": "2026-07-22"
+    },
+    {
+      "title": "6 Takeaways From Arizona’s Tense, Trump-Dominated Primaries",
+      "summary": "Republicans nominated a former N.F.L. kicker in a top House battleground, a Trump loyalist for governor and an election denier for the state’s top election post.",
+      "date": "2026-07-22"
+    },
+    {
+      "title": "Canada cancels joint bridge-opening celebration with US amid trade tensions",
+      "summary": "The ribbon-cutting celebration of the Gordie Howe International Bridge is no longer taking place after Trump announced a 50% tariff on Canadian goods A planned joint US-Canada ceremony Friday celebrating the opening of the Gordie Howe International Bridge connecting Detroit and Windsor, Ontario, is no longer expected t.",
       "date": "2026-07-22"
     },
     {
@@ -48,31 +73,6 @@
       "title": "Ex-U.S. attorney in Seattle sues Trump over firing",
       "summary": "Roger Rogoff was fired from his role as U.S. attorney in Seattle shortly after judges on the U.S. District Court for the Western District of Washington appointed him to the job.",
       "date": "2026-07-21"
-    },
-    {
-      "title": "Markets undeterred so far as Trump imposes additional 50% tariffs on some Canadian goods",
-      "summary": "President Trump plans to impose a new 50% tariff on certain Canadian goods in addition to his existing tariffs. CBS News' Kelly O'Grady explains the tariffs and investor reaction.",
-      "date": "2026-07-21"
-    },
-    {
-      "title": "Trump admin. halts $1 billion in Medicaid payments to California, Minnesota",
-      "summary": "Health and Human Services Secretary Robert F. Kennedy Jr. said his agency is pausing $867.5 million in Medicaid payments to California and $199 million to Minnesota.",
-      "date": "2026-07-21"
-    },
-    {
-      "title": "Trump to impose 50% tariffs on Canadian hockey sticks, alcohol, other goods",
-      "summary": "President Trump is imposing 50% tariffs on a range of Canadian goods, from hockey equipment to alcoholic beverages, escalating the trade dispute between the two countries.",
-      "date": "2026-07-21"
-    },
-    {
-      "title": "Trump says Lebanon has been \"badly treated\" as Aoun pushes for withdrawal of Israeli troops",
-      "summary": "President Trump conceded that Lebanon has been \"badly treated\" following a meeting with President Joseph Aoun on Tuesday, pledging to help the country be \"properly treated\" as the Lebanese reprieve from the presence of Israeli forces in their southern territory. Weijia Jiang reports.",
-      "date": "2026-07-21"
-    },
-    {
-      "title": "Trump hits Canada with slew of new 50% tariffs set to take effect in 30 days",
-      "summary": "President Trump takes aim at Canada with his latest round of tariffs hitting a variety of goods at 50%.",
-      "date": "2026-07-21"
     }
   ],
   "sources": [
@@ -83,15 +83,15 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "Markets undeterred so far as Trump imposes additional 50% tariffs on some Canadian goods",
-      "url": "https://www.cbsnews.com/video/markets-undeterred-as-trump-imposes-additional-50-tariffs-on-some-canadian-goods/?utm_source=lootura.com",
-      "publishedAt": "2026-07-21T19:04:45.000Z",
+      "title": "Trump ally Andy Biggs wins GOP nomination for Arizona governor, AP projects",
+      "url": "https://www.cbsnews.com/news/arizona-governors-race-results-katie-hobbs-andy-biggs-david-schweikert/?utm_source=lootura.com",
+      "publishedAt": "2026-07-22T03:06:24.000Z",
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "Trump admin. halts $1 billion in Medicaid payments to California, Minnesota",
-      "url": "https://www.cbsnews.com/news/medicaid-payments-california-minnesota-fraud-hhs/?utm_source=lootura.com",
-      "publishedAt": "2026-07-21T16:20:00.000Z",
+      "title": "Markets undeterred so far as Trump imposes additional 50% tariffs on some Canadian goods",
+      "url": "https://www.cbsnews.com/video/markets-undeterred-as-trump-imposes-additional-50-tariffs-on-some-canadian-goods/?utm_source=lootura.com",
+      "publishedAt": "2026-07-21T19:04:45.000Z",
       "sourceId": "lootura-us-cbs-news"
     },
     {
@@ -113,9 +113,9 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "U.S. attorney who served for 54 minutes sues over firing by Trump",
-      "url": "https://www.nbcnews.com/politics/justice-department/seattle-us-attorney-roger-rogoff-sues-over-trump-firing-him-rcna588607?utm_source=lootura.com",
-      "publishedAt": "2026-07-21T22:29:19.000Z",
+      "title": "Trump-backed Rep. Andy Biggs wins GOP primary for Arizona governor",
+      "url": "https://www.nbcnews.com/politics/2026-election/trump-backed-rep-andy-biggs-wins-gop-primary-arizona-governor-rcna587980?utm_source=lootura.com",
+      "publishedAt": "2026-07-22T03:03:23.000Z",
       "sourceId": "lootura-us-nbc-news-politics"
     },
     {
@@ -137,5 +137,5 @@
       "sourceId": "lootura-us-pbs-newshour"
     }
   ],
-  "evidenceCount": 14
+  "evidenceCount": 16
 }

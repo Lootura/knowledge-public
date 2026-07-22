@@ -70,4 +70,4 @@ Date: 2026-07-18
 
 ## Fuentes
 
-- [Feijóo se adelanta a Sánchez en el balance del curso para aprovechar el misil lanzado por Julio Martínez](https://www.elindependiente.com/espana/2026/07/21/feijoo-se-adelanta-a-sanchez-en-el-balance-del-curso-para-aprovechar-el-misil-lanzado-por-julio-martinez/?utm_source=lootura.com) — 2026-07-21T17:29:59.000Z
+No public source links.

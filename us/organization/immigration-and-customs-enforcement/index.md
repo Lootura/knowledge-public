@@ -70,4 +70,4 @@ Date: 2026-07-15
 
 ## Sources
 
-- [Video appears to show United employee threatening to call ICE on customer](https://www.cbsnews.com/news/united-airlines-employee-threatens-to-call-ice-sfo-passenger-act-like-a-citizen/?utm_source=lootura.com) — 2026-07-21T16:53:39.000Z
+No public source links.

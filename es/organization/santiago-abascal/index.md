@@ -28,5 +28,4 @@ Date: 2026-07-21
 
 ## Fuentes
 
-- [Vox se adelanta al PP: recurre al Supremo y mira a la Audiencia Nacional y al TJUE para frenar la ley de nietos](https://www.elconfidencial.com/espana/2026-07-21/vox-pp-y-audiencia-nacional-tjue-ley-de-nietos_4393702/?utm_source=lootura.com) — 2026-07-21T18:14:00.000Z
-- [Vox lleva a la Junta Electoral al Supremo para forzar su intervención en la ‘ley de nietos’](https://theobjective.com/espana/tribunales/2026-07-21/vox-recurrira-junta-electoral-ley-de-nietos/?utm_source=lootura.com) — 2026-07-21T18:54:34.000Z
+No public source links.

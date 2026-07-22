@@ -3,10 +3,22 @@
 > Sigue la actividad de Partido Socialista Obrero Español en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-22T02:26:20.882Z
+- Actualizado: 2026-07-22T06:25:50.604Z
 - Canonical: https://atlas.lootura.com/es/organization/psoe
 
 ## Cambios recientes
+
+### La nueva dimensión del ‘caso Zapatero’ no mueve al Gobierno mientras el expresidente mantiene su silencio
+
+El caso Zapatero ha entrado en una nueva dimensión. Y cada vez peor para él mismo, para el PSOE y para el Gobierno. Su hasta ahora amigo Julio Martínez Martínez, a quien el juez ha presentado como un “correveidile” del expresidente, ha dado el paso que tanto se temía desde hace semanas en las filas socialistas: ha desm.
+
+Date: 2026-07-22
+
+### Depresión en el Gobierno por el jaque al ex presidente: "Esto es peor que lo de Leire"
+
+La confesión de 'Julito' y los directivos de Plus Ultra desmoraliza al PSOE y alerta al Gobierno: "Para los nuestros, esto es peor que lo de Leire" Leer.
+
+Date: 2026-07-21
 
 ### El Gobierno reitera su confianza en Zapatero pese al nerviosismo creciente en el PSOE
 
@@ -17,12 +29,6 @@ Date: 2026-07-21
 ### El PSOE recurre el archivo de la causa contra Miguel Ángel Rodríguez por revelación de datos
 
 El PSOE ha pedido a la Audiencia Provincial de Madrid que ordene reabrir la investigación por presunta revelación de secretos a Miguel Ángel Rodríguez,.
-
-Date: 2026-07-21
-
-### Depresión en el Gobierno por el jaque al ex presidente: "Esto es peor que lo de Leire"
-
-La confesión de 'Julito' y los directivos de Plus Ultra desmoraliza al PSOE y alerta al Gobierno: "Para los nuestros, esto es peor que lo de Leire" Leer.
 
 Date: 2026-07-21
 
@@ -62,14 +68,7 @@ Pedro Sánchez no ha reconocido jamás una derrota electoral. En las primeras el
 
 Date: 2026-07-20
 
-### Las bases del PSOE eligen continuismo: Reyes Maroto se impone a Enma López como candidata a la alcaldía de Madrid
-
-La exministra de Industria Reyes Maroto volverá a encabezar la candidatura socialista a la alcaldía de Madrid. Y consiguió la validación en las primarias celebradas este domingo: los militantes optaron por la continuidad y la eligieron a ella frente a la concejala Enma López , que se lanzó a la carrera sin el permiso p.
-
-Date: 2026-07-19
-
 ## Fuentes
 
 - [Depresión en el Gobierno por el jaque al ex presidente: "Esto es peor que lo de Leire"](https://www.elmundo.es/espana/2026/07/21/6a5fb71821efa057338b45ad.html?utm_source=lootura.com) — 2026-07-21T20:46:34.000Z
-- [El Gobierno reitera su confianza en Zapatero pese al nerviosismo creciente en el PSOE](https://elpais.com/espana/2026-07-21/el-gobierno-reitera-su-confianza-en-zapatero-pese-al-nerviosismo-creciente-en-el-psoe.html?utm_source=lootura.com) — 2026-07-21T12:49:44.000Z
-- [El PSOE recurre el archivo de la causa contra Miguel Ángel Rodríguez por revelación de datos](https://theobjective.com/espana/tribunales/2026-07-21/psoe-recurre-archivo-causa-miguel-angel-rodriguez/?amp=&utm_source=lootura.com) — 2026-07-21T16:57:11.000Z
+- [La nueva dimensión del ‘caso Zapatero’ no mueve al Gobierno mientras el expresidente mantiene su silencio](https://elpais.com/espana/2026-07-22/la-nueva-dimension-del-caso-zapatero-no-mueve-al-gobierno-mientras-el-expresidente-mantiene-su-silencio.html?utm_source=lootura.com) — 2026-07-22T03:30:01.000Z

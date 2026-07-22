@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/iran/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/iran/index.json",
   "description": "Sigue la actividad de Irán en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-22T02:26:20.882Z",
+  "updatedAt": "2026-07-22T06:25:50.604Z",
   "aliases": [
     "IRI",
     "Islamic Rep. Iran",
@@ -21,6 +21,11 @@
     {
       "title": "EEUU lanza nuevos ataques contra Irán que eclipsan los esfuerzos diplomáticos",
       "summary": "Leer.",
+      "date": "2026-07-22"
+    },
+    {
+      "title": "Cautela en las Bolsas ante los resultados de las grandes tecnológicas y con el petróleo al alza",
+      "summary": "El pesimismo en torno a las negociaciones de paz entre EE UU e Irán, después de que el presidente Donald Trump restara importancia a la posibilidad de conversaciones inmediatas con Teherán, y la creciente amenaza a los suministros energéticos de Oriente Próximo derivada de un bloqueo naval dirigido contra Arabia Saudí.",
       "date": "2026-07-22"
     },
     {
@@ -62,18 +67,13 @@
       "title": "El petróleo pierde un 4% desde máximos por la expectativa de un acuerdo entre Irán y EEUU",
       "summary": "El precio del barril de crudo de calidad Brent , que había llegado este lunes, 20 de julio, a superar el umbral de los 91 dólares , se ha dado la vuelta y cedía alrededor de un 4% desde los máximos del día. Todo esto ha pasado después de que Irán haya asegurado que los contactos diplomáticos con Estados Unidos continúa.",
       "date": "2026-07-20"
-    },
-    {
-      "title": "El precio del petróleo modera su escalada tras anunciar Irán contactos con los mediadores",
-      "summary": "La persistencia de la incertidumbre en Oriente Próximo ha llevado al precio del petróleo a superar por primera vez en más de un mes los 91 dólares por barril. Una escalada que se ha visto frenada tras el anuncio por parte del régimen iraní de contactos diplomáticos con los mediadores con Estados Unidos. El barril de br.",
-      "date": "2026-07-20"
     }
   ],
   "sources": [
     {
-      "title": "La banca se apoya en la subida del euríbor para apuntar a nuevos máximos de beneficios",
-      "url": "https://cincodias.elpais.com/companias/2026-07-21/la-banca-se-apoya-en-la-subida-del-euribor-para-apuntar-a-nuevos-maximos-de-beneficios.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-21T17:18:15.000Z",
+      "title": "Cautela en las Bolsas ante los resultados de las grandes tecnológicas y con el petróleo al alza",
+      "url": "https://cincodias.elpais.com/mercados-financieros/2026-07-22/la-bolsa-y-el-ibex-35.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-22T04:29:14.000Z",
       "sourceId": "lootura-es-cinco-dias"
     },
     {

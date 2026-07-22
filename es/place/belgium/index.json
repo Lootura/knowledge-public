@@ -8,11 +8,21 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/belgium/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/belgium/index.json",
   "description": "Sigue la actividad de Bélgica en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-21T10:23:08.875Z",
+  "updatedAt": "2026-07-22T06:25:50.604Z",
   "aliases": [
     "Belgica"
   ],
   "changes": [
+    {
+      "title": "El manipulador y atractivo rey consorte de Castilla que introdujo la dinastía de los Austria en España",
+      "summary": "Tal día como hoy, 22 de julio, pero de 1478, o lo que es lo mismo, hace 548 años, nacía en Brujas (Bélgica) Felipe I de Castilla , rey consorte por su matrimonio con Juana I de Castilla (la Loca) y figura clave en la transición política de la monarquía hispánica de la época. Miembro de la dinastía Habsburgo, su breve r.",
+      "date": "2026-07-22"
+    },
+    {
+      "title": "De Matilde a Elisabeth y Eléonore: los looks con los que la Familia Real de Bélgica despide el Día Nacional entre conciertos y fuegos artificiales",
+      "summary": "Tras una intensa jornada de actos oficiales, la Familia Real de Bélgica ha cambiado el protocolo por un ambiente mucho más relajado para asistir al tradicional concierto y al espectáculo de fuegos artificiales celebrado en el Parque del Cincuentenario de Bruselas. Una de las imágenes más comentadas de la noche ha sido.",
+      "date": "2026-07-22"
+    },
     {
       "title": "El vestido de estreno de Matilde de Bélgica para el Día Nacional: guipur, tono champán y una espectacular pamela",
       "summary": "La Fiesta Nacional de Bélgica ha vuelto a convertirse en una pasarela de elegancia para la Familia Real. Como cada 21 de julio, los Reyes Felipe y Matilde han presidido el tradicional Te Deum celebrado en la catedral de San Miguel y Santa Gúdula de Bruselas, una de las citas institucionales más importantes del año. Par.",
@@ -52,18 +62,21 @@
       "title": "Albares, en contacto con Reino Unido y Bélgica por los afectados del incendio de Almería",
       "summary": "El ministro de Asuntos Exteriores, José Manuel Albares , ha intercambiado información con sus homólogos del Reino Unido y Bélgica sobre la situación de los ciudadanos de esos países afectados por el incendio de Los Gallardos ( Almería ), que ha dejado ya doce víctimas mortales y 6.600 hectáreas calcinadas . Agradezco t.",
       "date": "2026-07-11"
-    },
-    {
-      "title": "Discovered by Atlas",
-      "summary": "Belgium first entered the public knowledge record with source-backed evidence.",
-      "date": "2026-07-10"
-    },
-    {
-      "title": "Lamine Yamal: “Si a alguien debe temer Francia es a nosotros”",
-      "summary": "Entre la pizarra de Luis de la Fuente y el olfato goleador de Mikel Merino , aparece la gambeta de Lamine Yamal. De nuevo elegido el mejor jugador del duelo ante Bélgica ayer. El canterano del Barcelona no necesitó ni marcar ni asistir para llevarse el trofeo individual. “Estoy muy contento por la victoria. Quiero marc.",
-      "date": "2026-07-10"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "El manipulador y atractivo rey consorte de Castilla que introdujo la dinastía de los Austria en España",
+      "url": "https://www.larazon.es/castilla-y-leon/manipulador-atractivo-rey-consorte-castilla-que-introdujo-dinastia-austria-espana_202607226a5f4270303ca6202cc315ad.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-22T06:00:15.000Z",
+      "sourceId": "lootura-es-la-razon"
+    },
+    {
+      "title": "De Matilde a Elisabeth y Eléonore: los looks con los que la Familia Real de Bélgica despide el Día Nacional entre conciertos y fuegos artificiales",
+      "url": "https://www.larazon.es/lifestyle/moda/matilde-elisabeth-eleonore-looks-que-familia-real-belgica-despide-dia-nacional-conciertos-fuegos-artificiales_202607226a6057df4687a22bdec6d8b8.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-22T06:15:14.000Z",
+      "sourceId": "lootura-es-la-razon"
+    }
+  ],
+  "evidenceCount": 2
 }

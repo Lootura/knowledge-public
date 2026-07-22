@@ -3,10 +3,16 @@
 > Sigue la actividad de País Valenciano en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-21T10:23:08.875Z
+- Actualizado: 2026-07-22T06:25:50.604Z
 - Canonical: https://atlas.lootura.com/es/place/comunidad-valenciana
 
 ## Cambios recientes
+
+### Lío con la Federación Valenciana de Hockey: Antifraude pide a Catalá que expediente a su presidente por conflicto de interés
+
+La Agencia Valenciana Antifraude ha instado al Ayuntamiento de Valencia a abrir un expediente disciplinario contra el presidente de la Federación de Hockey de la Comunitat Valenciana (FHCV), Jesús Gracia , al considerar que incumplió su deber de abstención en varios procedimientos de contratación pública mientras desem.
+
+Date: 2026-07-22
 
 ### Alerta naranja en siete comunidades por la ola de calor: temperaturas asfixiantes y amenaza de reventones y tormentas secas
 
@@ -58,4 +64,4 @@ Date: 2026-07-14
 
 ## Fuentes
 
-No public source links.
+- [Lío con la Federación Valenciana de Hockey: Antifraude pide a Catalá que expediente a su presidente por conflicto de interés](https://www.elconfidencial.com/espana/comunidad-valenciana/2026-07-22/federacion-hockey-antifraude-catala-valencia_4393691/?utm_source=lootura.com) — 2026-07-22T03:00:00.000Z

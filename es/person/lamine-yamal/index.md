@@ -70,4 +70,4 @@ Date: 2026-07-10
 
 ## Fuentes
 
-- [Irán celebra la victoria de la selección: Lamine Yamal, en uno de los drones lanzados contra bases de EEUU](https://www.elindependiente.com/internacional/2026/07/21/iran-victoria-seleccion-lamine-yamal-drones-bases-eeuu/?utm_source=lootura.com) — 2026-07-21T17:53:36.000Z
+No public source links.

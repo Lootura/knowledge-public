@@ -40,4 +40,4 @@ Date: 2026-07-18
 
 ## Fuentes
 
-- [Scaloni reconoce la derrota ante España con señorío: «Perdimos porque ellos fueron mejores»](https://okdiario.com/deportes/scaloni-reconoce-derrota-espana-senorio-perdimos-porque-ellos-fueron-mejores-19043851?utm_source=lootura.com) — 2026-07-21T22:04:39.000Z
+No public source links.

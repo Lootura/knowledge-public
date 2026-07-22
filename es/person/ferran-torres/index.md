@@ -3,7 +3,7 @@
 > Sigue la actividad de "El Tiburón" en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-22T02:26:20.882Z
+- Actualizado: 2026-07-22T06:25:50.604Z
 - Canonical: https://atlas.lootura.com/es/person/ferran-torres
 
 ## Cambios recientes
@@ -52,4 +52,4 @@ Date: 2026-07-19
 
 ## Fuentes
 
-- [La Casa Blanca reacciona a la gorra de Ferran Torres: “Todo el mundo quiere subirse a la ola”](https://www.lavanguardia.com/deportes/futbol/20260722/11598170/casa-blanca-reacciona-gorra-ferran-torres-mundo-quiere-subirse-ola.html?utm_source=lootura.com) — 2026-07-21T22:19:21.000Z
+- [El camino visual de España en un Mundial para la historia](https://www.abc.es/deportes/futbol/mundial/camino-visual-espana-mundial-historia-20260722012352-nt.html?utm_source=lootura.com) — 2026-07-22T05:23:14.000Z

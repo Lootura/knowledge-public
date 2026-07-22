@@ -3,10 +3,16 @@
 > Sigue la actividad de El Gobierno en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-22T02:26:20.882Z
+- Actualizado: 2026-07-22T06:25:50.604Z
 - Canonical: https://atlas.lootura.com/es/person/el-gobierno
 
 ## Cambios recientes
+
+### El Gobierno reactiva la renovación de la RedIRIS un año después de anular el polémico contrato con Huawei
+
+Red.es, entidad pública adscrita al Ministerio para la Transformación Digital y de la Función Pública, ha lanzado una consulta preliminar al mercado para planificar la renovación de la electrónica de la red IP de RedIRIS, casi un año después de cancelar la adjudicación de 10 millones de euros a Telefónica que contempla.
+
+Date: 2026-07-22
 
 ### El Gobierno de Pradales anuncia que no habrá recibimiento a los jugadores vascos de La Roja
 
@@ -62,15 +68,7 @@ La subdirección general de energía eléctrica , que depende del Ministerio de 
 
 Date: 2026-07-19
 
-### Castilla-La Mancha estudia plan de recuperación en La Mierla cuando cese el fuego
-
-El Gobierno de Castilla-La Mancha se encuentra perfilando una estrategia de actuación en la zona afectada por el incendio de La Mierla de cara a impulsar tanto al sector primario como al turístico cuando regrese la normalidad. Fuentes del Ejecutivo autonómico consultadas por Europa Press destacan la zona por su riqueza.
-
-Date: 2026-07-19
-
 ## Fuentes
 
-- [El Gobierno pone límites a los niños 'influencers' tras aparcar la norma de la IA](https://www.abc.es/cultura/gobierno-pone-limites-ninos-influencers-tras-aparcar-20260721123806-nt.html?utm_source=lootura.com) — 2026-07-21T23:44:10.000Z
+- [El Gobierno reactiva la renovación de la RedIRIS un año después de anular el polémico contrato con Huawei](https://elpais.com/economia/2026-07-22/el-gobierno-reactiva-la-renovacion-de-la-rediris-un-ano-despues-de-anular-el-polemico-contrato-con-huawei.html?utm_source=lootura.com) — 2026-07-22T03:45:00.000Z
 - [El Gobierno de Pradales anuncia que no habrá recibimiento a los jugadores vascos de La Roja](https://www.elcorreo.com/politica/gobierno-pradales-deja-aire-recibimiento-jugadores-vascos-20260721132932-nt_amp.html?utm_source=lootura.com) — 2026-07-21T11:29:33.000Z
-- [El Gobierno sigue manteniendo la "inocencia" de Zapatero y defiende como "correcta" la concesión del rescate a Plus Ultra](https://amp.elmundo.es/espana/2026/07/21/6a5f5acffc6c83723b8b45a4.html?utm_source=lootura.com) — 2026-07-21T11:41:55.000Z
-- [El Gobierno reitera su confianza en Zapatero pese al nerviosismo creciente en el PSOE](https://elpais.com/espana/2026-07-21/el-gobierno-reitera-su-confianza-en-zapatero-pese-al-nerviosismo-creciente-en-el-psoe.html?utm_source=lootura.com) — 2026-07-21T12:49:44.000Z

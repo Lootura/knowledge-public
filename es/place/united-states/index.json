@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/united-states/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/united-states/index.json",
   "description": "Sigue la actividad de Estados Unidos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-22T02:26:20.882Z",
+  "updatedAt": "2026-07-22T06:25:50.604Z",
   "aliases": [
     "America",
     "EE.UU.",
@@ -41,6 +41,11 @@
     "the United States of America"
   ],
   "changes": [
+    {
+      "title": "Trump aprueba acuerdo nuclear que permitiría a Arabia Saudí enriquecer uranio",
+      "summary": "Se prevé que el acuerdo tenga una vigencia de 30 años y que también implique a empresas de Estados Unidos en el desarrollo del programa Leer.",
+      "date": "2026-07-22"
+    },
     {
       "title": "Trump pide inmunidad judicial para Delcy Rodríguez mientras siga en el poder",
       "summary": "La Administración de Donald Trump ha pedido al Departamento de Justicia de Estados Unidos que garantice la inmunidad judicial de la presidenta interina de.",
@@ -85,19 +90,14 @@
       "title": "Estados Unidos lanza una nueva oleada de bombardeos sobre Irán",
       "summary": "El Mando Central de las Fuerzas Armadas estadounidenses (Centcom) ha informado este lunes de que ha lanzado una nueva oleada de bombardeos sobre.",
       "date": "2026-07-20"
-    },
-    {
-      "title": "Irán presume de haber atacado de forma simultánea a EE UU en Bahrein y Qatar",
-      "summary": "Irán afirmó este lunes haber atacado simultáneamente tres posiciones militares estadounidenses en Bahrein y Kuwait, en una nueva oleada de su ofensiva contra objetivos de Estados Unidos en Oriente Medio en respuesta a los ataques estadounidenses contra territorio iraní. \"Los combatientes de la Armada de la Guardia Revo.",
-      "date": "2026-07-20"
     }
   ],
   "sources": [
     {
-      "title": "Trump pide inmunidad judicial para Delcy Rodríguez mientras siga en el poder",
-      "url": "https://theobjective.com/internacional/2026-07-21/trump-inmunidad-delcy-rodriguez/?amp=&utm_source=lootura.com",
-      "publishedAt": "2026-07-21T20:53:36.000Z",
-      "sourceId": "lootura-es-the-objective"
+      "title": "Trump aprueba acuerdo nuclear que permitiría a Arabia Saudí enriquecer uranio",
+      "url": "https://www.elmundo.es/internacional/2026/07/22/6a605530e9cf4a8a088b4596.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-22T05:35:01.000Z",
+      "sourceId": "lootura-es-el-mundo"
     }
   ],
   "evidenceCount": 1

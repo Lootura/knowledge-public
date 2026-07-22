@@ -3,10 +3,16 @@
 > Sigue la actividad de OpenAI en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: company
-- Actualizado: 2026-07-18T09:22:10.056Z
+- Actualizado: 2026-07-22T06:25:50.604Z
 - Canonical: https://atlas.lootura.com/es/company/openai
 
 ## Cambios recientes
+
+### La Primera de Expansión sobre Santander, Holaluz, Iberdrola, Ormuz, Infantino y OpenAI
+
+Santander gano 8.973 millones, un 31% más, por la plusvalía de la venta en Polonia.
+
+Date: 2026-07-22
 
 ### Apple envía cartas de advertencia a decenas de exempleados que ahora trabajan en OpenAI
 
@@ -34,4 +40,4 @@ Date: 2026-07-15
 
 ## Fuentes
 
-No public source links.
+- [La Primera de Expansión sobre Santander, Holaluz, Iberdrola, Ormuz, Infantino y OpenAI](https://www.expansion.com/podcasts/la-primera-de-expansion/2026/07/22/6a604cca468aeb35718b457d.html?utm_source=lootura.com) — 2026-07-22T05:33:26.000Z

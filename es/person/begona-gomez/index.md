@@ -70,4 +70,4 @@ Date: 2026-07-17
 
 ## Fuentes
 
-- [El Poder Judicial aplaza su decisión sobre si expedienta a Peinado tras no llegar a un acuerdo](https://elpais.com/espana/2026-07-21/el-poder-judicial-aplaza-su-decision-sobre-si-expedienta-a-peinado-tras-no-llegar-a-un-acuerdo.html?utm_source=lootura.com) — 2026-07-21T10:59:58.000Z
+No public source links.

@@ -3,10 +3,16 @@
 > Sigue la actividad de San Sebastián en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-21T21:06:12.863Z
+- Actualizado: 2026-07-22T06:25:50.604Z
 - Canonical: https://atlas.lootura.com/es/place/san-sebastian
 
 ## Cambios recientes
+
+### Los sindicatos de los técnicos de espectáculos convocan una huelga para el día del concierto de ETS en Aste Nagusia
+
+El conflicto también afectará a las fiestas de Vitoria, el 5 de agosto, y a las de San Sebastián, el 14.
+
+Date: 2026-07-21
 
 ### La Audiencia de Vizcaya absuelve a un guardia municipal de San Sebastián acusado de agredir sexualmente a una compañera en las fiestas de Bilbao.
 
@@ -62,12 +68,6 @@ La víctima ha tenido que ser atendida en el cuarto de socorro, tras lo cual ha 
 
 Date: 2026-07-17
 
-### Rincones a la sombra en los que sentarse
-
-Año 1951. Para «pasear o sentarse a descansar, sin sentir los rigores del sol», Donostia ofrece espacios archiconocidos y otros, menos frecuentados. Hace 75 años, citaban el paseo de los Fueros o los jardines situados tras el hotel María Cristina.
-
-Date: 2026-07-17
-
 ## Fuentes
 
-No public source links.
+- [Los sindicatos de los técnicos de espectáculos convocan una huelga para el día del concierto de ETS en Aste Nagusia](https://www.elcorreo.com/culturas/musica/sindicatos-tecnicos-espectaculos-convocan-huelga-agosto-plena-20260721123831-nt_amp.html?utm_source=lootura.com) — 2026-07-21T10:38:31.000Z

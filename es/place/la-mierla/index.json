@@ -8,11 +8,21 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/la-mierla/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/la-mierla/index.json",
   "description": "Sigue la actividad de La Mierla en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-22T02:26:20.882Z",
+  "updatedAt": "2026-07-22T06:25:50.604Z",
   "aliases": [
     "Mierla"
   ],
   "changes": [
+    {
+      "title": "Incendio de Guadalajara, en directo: última hora del avance del fuego en La Mierla y Selas",
+      "summary": "El incendio forestal declarado el pasado jueves en la Sierra Norte de Guadalajara continúa fuera de capacidad de extinción y ya ha arrasado cerca de 30.000 hectáreas , consolidándose como el mayor registrado este año en Castilla-La Mancha. Aunque el operativo ha logrado frenar el avance del fuego en algunos sectores gr.",
+      "date": "2026-07-22"
+    },
+    {
+      "title": "El incendio de Guadalajara se acerca a las 32.000 hectáreas afectadas",
+      "summary": "El incendio que se originó el pasado jueves en La Mierla, en la Sierra Norte de Guadalajara, empieza a arrojar los primeros resquicios para el optimismo tras seis días de lucha incansable contra el fuego. “Empezamos a ver la luz más allá del humo”, decía el presidente de Castilla-La Mancha, Emiliano García-Page , tras.",
+      "date": "2026-07-21"
+    },
     {
       "title": "El incendio de La Mierla (Guadalajara) frena su avance a Soria y afecta ya a unas 29.000 hectáreas",
       "summary": "El municipio de Barcones ha sido evacuado dada la situación de la calidad del aire. Además, hay otras localidades sorianas amenazadas por la posible afectación por el humo Leer.",
@@ -52,29 +62,19 @@
       "title": "Castilla-La Mancha estudia plan de recuperación en La Mierla cuando cese el fuego",
       "summary": "El Gobierno de Castilla-La Mancha se encuentra perfilando una estrategia de actuación en la zona afectada por el incendio de La Mierla de cara a impulsar tanto al sector primario como al turístico cuando regrese la normalidad. Fuentes del Ejecutivo autonómico consultadas por Europa Press destacan la zona por su riqueza.",
       "date": "2026-07-19"
-    },
-    {
-      "title": "El fuego avanza 14 kilómetros en una noche y arrasa más de 13.000 hectáreas en La Mierla",
-      "summary": "La provincia de Guadalajara sufre un verano más la devastación de las llamas con cifras para la desesperanza. Si en septiembre de 2025 el incendio forestal del Pico del Lobo se daba por extinguido 22 días después de iniciarse y calcinar 2.500 hectáreas en terreno autonómico, el siniestro que desde el jueves afecta al P.",
-      "date": "2026-07-19"
-    },
-    {
-      "title": "El incendio de La Mierla ha arrasado 13.000 hectáreas tras avanzar 14 kilómetros en Guadalajara durante la noche",
-      "summary": "Además de las 16 localidades previamente evacuadas, se ha notificado a Prádena de Atienza, Robledo de Corpes, Aldeanueva de Atienza y Naharros que abandonen sus casas \"con tranquilidad\", según detalla la consejera de Desarrollo Sostenible, Mercedes Gómez, pues el fuego \" todavía no va a alcanzarlas\". El fuego iguala ya.",
-      "date": "2026-07-19"
     }
   ],
   "sources": [
     {
-      "title": "El incendio de La Mierla (Guadalajara) frena su avance a Soria y afecta ya a unas 29.000 hectáreas",
-      "url": "https://www.elmundo.es/espana/2026/07/21/6a5f1e63e4d4d842108b459d.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-21T15:32:28.000Z",
-      "sourceId": "lootura-es-el-mundo"
+      "title": "El incendio de Guadalajara se acerca a las 32.000 hectáreas afectadas",
+      "url": "https://elpais.com/espana/2026-07-21/el-incendio-de-guadalajara-roza-las-30000-hectareas-quemadas-y-ya-hay-34-municipios-desalojados.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-21T16:45:55.000Z",
+      "sourceId": "lootura-es-el-pais"
     },
     {
-      "title": "Incendio de la Sierra Norte de Guadalajara, en directo: avance del fuego en La Mierla y Selas",
-      "url": "https://www.larazon.es/sociedad/incendio-sierra-norte-guadalajara-directo-fuego-sigue-control-afecta-mas-34-municipios_202607216a5eeff9f172396e89eb12e1.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-21T20:40:15.000Z",
+      "title": "Incendio de Guadalajara, en directo: última hora del avance del fuego en La Mierla y Selas",
+      "url": "https://www.larazon.es/sociedad/incendio-guadalajara-directo-ultima-hora-avance-fuego-mierla-selas_202607226a6041794687a22bdec6bd84.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-22T06:10:16.000Z",
       "sourceId": "lootura-es-la-razon"
     }
   ],

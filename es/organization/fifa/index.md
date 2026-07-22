@@ -40,4 +40,4 @@ Date: 2026-07-08
 
 ## Fuentes
 
-- [La Casa Blanca reacciona a la gorra de Ferran Torres: “Todo el mundo quiere subirse a la ola”](https://www.lavanguardia.com/deportes/futbol/20260722/11598170/casa-blanca-reacciona-gorra-ferran-torres-mundo-quiere-subirse-ola.html?utm_source=lootura.com) — 2026-07-21T22:19:21.000Z
+No public source links.

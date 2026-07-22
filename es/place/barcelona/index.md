@@ -3,10 +3,22 @@
 > Sigue la actividad de Barcelona en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-21T10:23:08.875Z
+- Actualizado: 2026-07-22T06:25:50.604Z
 - Canonical: https://atlas.lootura.com/es/place/barcelona
 
 ## Cambios recientes
+
+### Marc Biarnés (Nosoloviernes): “Antes la familia se avergonzaba del hijo tonto, pero ahora tiene un ‘podcast”
+
+Marc Biarnés (Barcelona, 33 años) tiene lo que más cotiza en las redes sociales: una expresividad que solo es suya. Su forma de poner los ojos en blanco mientras pela una pieza de fruta o de fruncir levemente el ceño mientras se prepara una tostada le pertenece solo a él. Si muchas influencers han encontrado un filón e.
+
+Date: 2026-07-22
+
+### Luis de la Fuente protagoniza un mural en Barcelona
+
+El artista Alberto Leon dedica una obra al seleccionador nacional.
+
+Date: 2026-07-22
 
 ### Ferran Torres, como símbolo del secreto de Luis de la Fuente
 
@@ -56,18 +68,8 @@ Date: 2026-07-19
 
 Date: 2026-07-19
 
-### Los Mossos detienen a una pareja reincidente por el robo de joyas valoradas en 8.000 euros
-
-Los Mossos d’Esquadra detuvieron el pasado martes a un hombre de 36 años y a una mujer de 25 como presuntos autores de un robo con fuerza en una joyería del distrito de Gràcia de Barcelona, donde sustrajeron joyas valoradas en 8.530 euros, según han informado este sábado en un comunicado. Los hechos ocurrieron el pasad.
-
-Date: 2026-07-18
-
-### Dos detenidos por robar joyas valoradas en más de 8.500 euros en una joyería de Barcelona
-
-Los Mossos d'Esquadra detuvieron el pasado martes a un hombre de 36 años y a una mujer de 25 como presuntos autores de un robo con fuerza en una joyería del distrito de Gràcia de Barcelona, donde sustrajeron joyas valoradas en 8.530 euros, según han informado este sábado en un comunicado. Los hechos ocurrieron el pasad.
-
-Date: 2026-07-18
-
 ## Fuentes
 
-No public source links.
+- [El independentismo crucifica a Joan Laporta y Rufián por apoyar a la selección española](https://www.elconfidencial.com/espana/cataluna/2026-07-22/el-independentismo-crucifica-a-joan-laporta-apoyar-a-la-seleccion-espanola_4393768/?utm_source=lootura.com) — 2026-07-22T03:00:00.000Z
+- [Marc Biarnés (Nosoloviernes): “Antes la familia se avergonzaba del hijo tonto, pero ahora tiene un ‘podcast”](https://elpais.com/icon/2026-07-22/marc-biarnes-nosoloviernes-antes-la-familia-se-avergonzaba-del-hijo-tonto-pero-ahora-tiene-un-podcast.html?utm_source=lootura.com) — 2026-07-22T03:30:01.000Z
+- [Luis de la Fuente protagoniza un mural en Barcelona](https://www.larazon.es/cataluna/luis-fuente-protagoniza-mural-barcelona_202607226a606080aa17c0020f290716.html?outputType=amp&utm_source=lootura.com) — 2026-07-22T06:17:36.000Z

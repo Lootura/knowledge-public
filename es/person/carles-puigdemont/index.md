@@ -3,10 +3,16 @@
 > Sigue la actividad de Carles Puigdemont Casamajó en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-22T02:26:20.882Z
+- Actualizado: 2026-07-22T06:25:50.604Z
 - Canonical: https://atlas.lootura.com/es/person/carles-puigdemont
 
 ## Cambios recientes
+
+### El gran fichaje empresarial de Puigdemont deja su escaño lejos de las expectativas creadas
+
+Los fichajes de independientes siempre son complicados en política. En 2024, Carles Puigdemont incorporó a una directiva de nivel medio de Silicon Valley, Anna Navarro, como gran fichaje empresarial. Fue de número dos en la lista de las elecciones catalanas, justo detrás del propio Puigdemont. El fichaje ha estado lejo.
+
+Date: 2026-07-22
 
 ### Puigdemont denuncia a España ante la Comisión Europea por incumplir de la Ley de Amnistía
 
@@ -58,4 +64,4 @@ Date: 2026-07-16
 
 ## Fuentes
 
-- [Puigdemont denuncia a España ante la Comisión Europea por incumplir de la Ley de Amnistía](https://okdiario.com/espana/puigdemont-denuncia-espana-comision-europea-incumplir-ley-amnistia-19043545/amp?utm_source=lootura.com) — 2026-07-21T20:37:19.000Z
+- [El gran fichaje empresarial de Puigdemont deja su escaño lejos de las expectativas creadas](https://www.elconfidencial.com/espana/cataluna/2026-07-22/segunda-puigdemont-sale-rana-deja-escano_4393883/?utm_source=lootura.com) — 2026-07-22T03:00:00.000Z

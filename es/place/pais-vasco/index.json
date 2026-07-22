@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/pais-vasco/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/pais-vasco/index.json",
   "description": "Sigue la actividad de País Vasco en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-21T10:23:08.875Z",
+  "updatedAt": "2026-07-22T06:25:50.604Z",
   "aliases": [
     "Autonomous Community of the Basque Country",
     "Basque Autonomous Community",
@@ -23,6 +23,11 @@
     "Vascongadas"
   ],
   "changes": [
+    {
+      "title": "Este es el pueblo del País Vasco más barato para alquilar una casa en la playa este verano",
+      "summary": "El Mediterráneo suele concentrar buena parte de las miradas cuando llega el verano, pero el norte de España también ofrece numerosas alternativas para pasar las vacaciones junto al mar. La costa del País Vasco es una de las más deseadas, aunque alojarse durante el mes de agosto puede exigir un importante desembolso.El.",
+      "date": "2026-07-22"
+    },
     {
       "title": "Tiene cuatro días para recorrer Vizcaya y termina realizando el mejor itinerario posible: \"Es un viaje que se puede cerrar por todo lo alto\"",
       "summary": "Vizcaya se ha consolidado en los últimos años como uno de los destinos más completos del norte de España. Costa, montaña, pueblos con historia, gastronomía y algunos de los paisajes más reconocibles del País Vasco convierten a este territorio en una opción cada vez más popular entre quienes buscan una escapada de vario.",
@@ -67,13 +72,15 @@
       "title": "La cifra de muertes por calor en Bizkaia desde mayo duplica a la de todo el verano pasado",
       "summary": "Euskadi anota 282 fallecidos, la segunda cifra más alta de España por detrás de Cataluña, que contó 389 decesos.",
       "date": "2026-07-15"
-    },
-    {
-      "title": "Las familias de Gipuzkoa son las que más gastan en Euskadi y disparan su inversión en salud un 33%",
-      "summary": "La factura total de los hogares alcanza los 40.917 euros por el precio de la vivienda y los alimentos, una cifra muy superior al registrado en Bizkaia y Araba.",
-      "date": "2026-07-15"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Este es el pueblo del País Vasco más barato para alquilar una casa en la playa este verano",
+      "url": "https://www.abc.es/economia/cuentas-corrientes/pueblo-pais-vasco-barato-alquilar-casa-playa-20260722050000-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-22T05:33:55.000Z",
+      "sourceId": "lootura-es-abc"
+    }
+  ],
+  "evidenceCount": 1
 }

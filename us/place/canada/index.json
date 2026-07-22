@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/canada/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/canada/index.json",
   "description": "Follow Canada, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-22T02:26:42.354Z",
+  "updatedAt": "2026-07-22T06:26:12.535Z",
   "aliases": [
     "Can"
   ],
@@ -70,13 +70,7 @@
       "url": "https://www.npr.org/2026/07/21/nx-s1-5901957/trump-hits-canada-with-slew-of-new-50-tariffs-set-to-take-effect-in-30-days?utm_source=lootura.com",
       "publishedAt": "2026-07-21T20:09:34.000Z",
       "sourceId": "lootura-us-npr-politics"
-    },
-    {
-      "title": "Canada cancels joint bridge-opening celebration with US amid trade tensions",
-      "url": "https://www.theguardian.com/us-news/2026/jul/21/gordie-howe-bridge-opening-celebration-canceled?utm_source=lootura.com",
-      "publishedAt": "2026-07-22T00:58:40.000Z",
-      "sourceId": "lootura-us-the-guardian-us"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

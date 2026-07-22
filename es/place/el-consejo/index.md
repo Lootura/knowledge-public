@@ -40,5 +40,4 @@ Date: 2026-07-21
 
 ## Fuentes
 
-- [El Gobierno pone límites a los niños 'influencers' tras aparcar la norma de la IA](https://www.abc.es/cultura/gobierno-pone-limites-ninos-influencers-tras-aparcar-20260721123806-nt.html?utm_source=lootura.com) — 2026-07-21T23:44:10.000Z
-- [La nueva ley del tabaco prohíbe fumar a los menores y hacerlo en playas, terrazas y campus universitarios](https://elpais.com/sociedad/2026-07-21/la-nueva-ley-del-tabaco-prohibe-fumar-a-los-menores-y-hacerlo-en-terrazas-y-campus-universitarios.html?utm_source=lootura.com) — 2026-07-21T11:53:40.000Z
+No public source links.

@@ -3,10 +3,28 @@
 > Follow New York City, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-22T02:26:42.354Z
+- Updated: 2026-07-22T06:26:12.535Z
 - Canonical: https://atlas.lootura.com/us/place/new-york
 
 ## Recent changes
+
+### Mamdani says he won't try to arrest Israel's Netanyahu, acknowledges NYC doesn't have legal authority
+
+New York City Mayor Zohran Mamdani conceded late Tuesday that the city does not have the authority to arrest Israeli Prime Minister Benjamin Netanyahu.
+
+Date: 2026-07-22
+
+### Mamdani says New York City can't arrest Netanyahu but the federal government should
+
+New York Mayor Mamdani said the city would not be able to execute an arrest warrant issued by the top war-crimes court for Israel's Benjamin Netanyahu, but urged the federal government to do so. (Image credit: Anna Connors/Anna Connors).
+
+Date: 2026-07-22
+
+### Mamdani Calls Netanyahu a ‘War Criminal’ and Calls on U.S. to Arrest Him
+
+Mayor Zohran Mamdani challenged the United States to execute an international arrest warrant against Prime Minister Benjamin Netanyahu of Israel, which New York itself cannot do.
+
+Date: 2026-07-22
 
 ### Mamdani Says Netanyahu Is a ‘War Criminal’ but New York Can’t Arrest Him
 
@@ -50,24 +68,8 @@ The outbreak on Manhattan's Upper East Side has infected 72 people, according to
 
 Date: 2026-07-19
 
-### Healthcare costs associated with aging out of reach for many Americans
-
-One New York couple depleted their retirement and savings accounts, paying out-of-pocket for healthcare, before they were able to access Medicaid funds.
-
-Date: 2026-07-19
-
-### Controversial program paying drug users for used syringes becomes permanent in NYC
-
-New York City is permanently bankrolling a program that pays people up to $10 a day for used syringes, a controversial effort critics argue puts taxpayer dollars into addicts' pockets rather than getting them treatment. The program, known as the Community Syringe Redemption Program, was quietly made permanent through M.
-
-Date: 2026-07-19
-
-### Knicks stars provide back up for WWE favorites in electric Saturday Night's Main Event at MSG
-
-WWE’s Saturday Night’s Main Event at Madison Square Garden featured a celebration of the New York Knicks and their championship run during the 2025-26 season. Knicks star Karl-Anthony Towns supported Danhausen in his no disqualification match against JD McDonagh. Towns provided some fierce backup for Danhausen and got.
-
-Date: 2026-07-19
-
 ## Sources
 
-- [Mamdani Says Netanyahu Is a ‘War Criminal’ but New York Can’t Arrest Him](https://www.nytimes.com/2026/07/21/nyregion/mamdani-netanyahu-arrest-warrant.html?utm_source=lootura.com) — 2026-07-22T01:48:41.000Z
+- [Mamdani says he won't try to arrest Israel's Netanyahu, acknowledges NYC doesn't have legal authority](https://www.cbsnews.com/news/mamdani-will-not-arrest-israel-netanyahu-nyc-legal-authority-nypd-un/?utm_source=lootura.com) — 2026-07-22T04:05:55.000Z
+- [Mamdani says New York City can't arrest Netanyahu but the federal government should](https://www.npr.org/2026/07/22/g-s1-134880/mamdani-nyc-netanyahu?utm_source=lootura.com) — 2026-07-22T06:04:29.000Z
+- [Mamdani Calls Netanyahu a ‘War Criminal’ and Calls on U.S. to Arrest Him](https://www.nytimes.com/2026/07/21/nyregion/mamdani-netanyahu-arrest-warrant.html?utm_source=lootura.com) — 2026-07-22T03:49:08.000Z

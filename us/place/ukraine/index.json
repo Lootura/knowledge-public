@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/ukraine/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/ukraine/index.json",
   "description": "Follow Ukraine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-22T02:26:42.354Z",
+  "updatedAt": "2026-07-22T06:26:12.535Z",
   "aliases": [
     "Kyiv",
     "Ukr.",
@@ -23,11 +23,6 @@
       "date": "2026-07-21"
     },
     {
-      "title": "Tech innovator and old guard general are focus of Ukraine's political crisis",
-      "summary": "When their personalities and policies clashed, President Volodymyr Zelenskyy decided to fire popular young Defense Minister Mykhailo Fedorov and keep Gen. Oleksandr Syrskyi.",
-      "date": "2026-07-21"
-    },
-    {
       "title": "News Wrap: Gulf Coast prepares for Tropical Storm Bertha",
       "summary": "In our news wrap Tuesday, millions along the Gulf Coast are bracing for impacts from Tropical Storm Bertha, Ukrainian President Zelenskyy fired the commander-in-chief of Ukraine's armed forces in the latest shake-up of his top military ranks and New Jersey's governor said more than 6,000 noncitizens were registered to.",
       "date": "2026-07-21"
@@ -35,6 +30,11 @@
     {
       "title": "Mykhailo Drapatyi: What to Know About Ukraine’s New Top General",
       "summary": "Maj. Gen. Mykhailo Drapatyi, a decorated commander, is popular both inside and outside of his country.",
+      "date": "2026-07-21"
+    },
+    {
+      "title": "Tech innovator and old guard general are focus of Ukraine's political crisis",
+      "summary": "When their personalities and policies clashed, President Volodymyr Zelenskyy decided to fire popular young Defense Minister Mykhailo Fedorov and keep Gen. Oleksandr Syrskyi.",
       "date": "2026-07-21"
     },
     {
@@ -82,17 +82,11 @@
       "sourceId": "lootura-us-pbs-newshour"
     },
     {
-      "title": "Tech innovator and old guard general are focus of Ukraine's political crisis",
-      "url": "https://www.pbs.org/newshour/world/tech-innovator-and-old-guard-general-are-focus-of-ukraines-political-crisis?utm_source=lootura.com",
-      "publishedAt": "2026-07-21T18:25:03.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
-    },
-    {
       "title": "Mykhailo Drapatyi: What to Know About Ukraine’s New Top General",
       "url": "https://www.nytimes.com/2026/07/21/world/europe/ukraine-mykhailo-drapatyi.html?utm_source=lootura.com",
       "publishedAt": "2026-07-21T23:39:36.000Z",
       "sourceId": "lootura-us-the-new-york-times"
     }
   ],
-  "evidenceCount": 4
+  "evidenceCount": 3
 }

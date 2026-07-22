@@ -3,10 +3,28 @@
 > Sigue la actividad de Audiencia Nacional (España) en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-22T02:26:20.882Z
+- Actualizado: 2026-07-22T06:25:50.604Z
 - Canonical: https://atlas.lootura.com/es/organization/audiencia-nacional
 
 ## Cambios recientes
+
+### Julio Martínez complica el futuro judicial de Zapatero aunque no despeja la X que pondría en serios aprietos a Moncloa
+
+La declaración de Julio Martínez Martínez y los escritos que tanto él como dos altos cargos de Plus Ultra han remitido esta semana a la Audiencia Nacional han complicado seriamente el futuro judicial de José Luis Rodríguez Zapatero . Los tres investigados corroboran ahora los informes de la UDEF y señalan que el expres.
+
+Date: 2026-07-22
+
+### La causa contra Zapatero sitúa ahora el foco en la cúpula de Plus Ultra tras contradecir la versión del expresidente
+
+Julio Martínez Martínez entró sobre las 8.45 de este martes en la Audiencia Nacional y salió más de cuatro horas después sin moverse mucho de la línea marcada un día antes en el escrito enviado al juez José Luis Calama para implicar al expresidente José Luis Rodríguez Zapatero en el rescate de Plus Ultra . El giro del.
+
+Date: 2026-07-22
+
+### El testaferro confirma que Zapatero usó una empresa pantalla para recibir los pagos de hasta tres clientes venezolanos
+
+La declaración prestada por Julito Martìnez Martínez en la Audiencia Nacional, decidido a colaborar con la Justicia, ha dinamitado la estrategia de...
+
+Date: 2026-07-22
 
 ### Ni Ábalos, ni Leire, ni Julito: estas tramas tienen su 'X'
 
@@ -50,26 +68,8 @@ Plus Ultra y Julio Martínez Martínez han enviado sendos escritos a la Audienci
 
 Date: 2026-07-21
 
-### Julio Martínez delata a Zapatero y dice que se llevó el 1% por mediar en Plus Ultra
-
-Plus Ultra y Julio Martínez Martínez han enviado sendos escritos a la Audiencia Nacional donde muestran su deseo de colaborar con la justicia y confiesan que José Luis Rodríguez Zapatero medió en el rescate de la aerolínea, según explican fuentes judiciales a ABC. El pagador del expresidente también detalla que alcanza.
-
-Date: 2026-07-20
-
-### El empresario Julio Martínez señala a Zapatero en el rescate de Plus Ultra: “Era el que marcaba los pasos a seguir”
-
-Cambio de guion en el caso Plus Ultra . El empresario Julio Martínez Martínez, administrador de la consultora Análisis Relevante , epicentro del caso en el que se investigan las supuestas irregularidades en la concesión de una millonaria ayuda pública a la aerolínea, ha presentado un escrito en la Audiencia Nacional en.
-
-Date: 2026-07-20
-
-### Plus Ultra y Julito Martínez envían escritos al juez confesando las mediaciones de Zapatero en el rescate de la aerolínea
-
-Plus Ultra y Julio Martínez Martínez han enviado sendos escritos a la Audiencia Nacional donde muestran su deseo de colaborar con la Justicia y confiesan que José Luis Rodríguez Zapatero medió en el rescate de la aerolínea, según explican fuentes judiciales a ABC. El pagador del expresidente también detalla que alcanza.
-
-Date: 2026-07-20
-
 ## Fuentes
 
-- [Ni Ábalos, ni Leire, ni Julito: estas tramas tienen su 'X'](https://www.abc.es/opinion/editorial-abalos-leire-julito-tramas-20260721193423-nt.html?utm_source=lootura.com) — 2026-07-21T23:32:50.000Z
-- [Vox se adelanta al PP: recurre al Supremo y mira a la Audiencia Nacional y al TJUE para frenar la ley de nietos](https://www.elconfidencial.com/espana/2026-07-21/vox-pp-y-audiencia-nacional-tjue-ley-de-nietos_4393702/?utm_source=lootura.com) — 2026-07-21T18:14:00.000Z
-- [El pagador de Zapatero declara ante el juez que el ex presidente le anticipó que el Gobierno iba a aprobar el rescate de Plus Ultra](https://amp.elmundo.es/espana/2026/07/21/6a5f3001e4d4d886458b4577.html?utm_source=lootura.com) — 2026-07-21T11:30:12.000Z
+- [Julio Martínez complica el futuro judicial de Zapatero aunque no despeja la X que pondría en serios aprietos a Moncloa](https://www.20minutos.es/nacional/julio-martinez-complica-futuro-judicial-zapatero-pero-no-despeja-x-que-pondria-serios-aprietos-moncloa_7017247_0.html?utm_source=lootura.com) — 2026-07-22T03:00:00.000Z
+- [La causa contra Zapatero sitúa ahora el foco en la cúpula de Plus Ultra tras contradecir la versión del expresidente](https://elpais.com/espana/2026-07-22/la-causa-contra-zapatero-situa-ahora-el-foco-en-la-cupula-de-plus-ultra-tras-contradecir-la-version-del-expresidente.html?utm_source=lootura.com) — 2026-07-22T03:30:01.000Z
+- [El testaferro confirma que Zapatero usó una empresa pantalla para recibir los pagos de hasta tres clientes venezolanos](https://www.eldebate.com/espana/20260722/testaferro-confirma-zapatero-empresa-pantalla-recibir-pagos-hasta-tres-clientes-venezolanos_442196.html?utm_source=lootura.com) — 2026-07-22T02:46:57.000Z

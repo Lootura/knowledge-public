@@ -3,10 +3,22 @@
 > Sigue la actividad de La Mancha en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-22T02:26:20.882Z
+- Actualizado: 2026-07-22T06:25:50.604Z
 - Canonical: https://atlas.lootura.com/es/place/la-mancha
 
 ## Cambios recientes
+
+### Incendio de Guadalajara, en directo: última hora del avance del fuego en La Mierla y Selas
+
+El incendio forestal declarado el pasado jueves en la Sierra Norte de Guadalajara continúa fuera de capacidad de extinción y ya ha arrasado cerca de 30.000 hectáreas , consolidándose como el mayor registrado este año en Castilla-La Mancha. Aunque el operativo ha logrado frenar el avance del fuego en algunos sectores gr.
+
+Date: 2026-07-22
+
+### El incendio de Guadalajara se acerca a las 32.000 hectáreas afectadas
+
+El incendio que se originó el pasado jueves en La Mierla, en la Sierra Norte de Guadalajara, empieza a arrojar los primeros resquicios para el optimismo tras seis días de lucha incansable contra el fuego. “Empezamos a ver la luz más allá del humo”, decía el presidente de Castilla-La Mancha, Emiliano García-Page , tras.
+
+Date: 2026-07-21
 
 ### Incendio de la Sierra Norte de Guadalajara, en directo: avance del fuego en La Mierla y Selas
 
@@ -56,18 +68,7 @@ El Gobierno de Castilla-La Mancha se encuentra perfilando una estrategia de actu
 
 Date: 2026-07-19
 
-### Incendios en España, en directo hoy: última hora de los fuegos activos, evolución y situación en Aragón, Castilla-La Mancha, Madrid y Andalucía
-
-Sigue en directo la última hora de los incendios forestales activos en España.
-
-Date: 2026-07-19
-
-### Discovered by Atlas
-
-La Mancha first entered the public knowledge record with source-backed evidence.
-
-Date: 2026-07-18
-
 ## Fuentes
 
-- [Incendio de la Sierra Norte de Guadalajara, en directo: avance del fuego en La Mierla y Selas](https://www.larazon.es/sociedad/incendio-sierra-norte-guadalajara-directo-fuego-sigue-control-afecta-mas-34-municipios_202607216a5eeff9f172396e89eb12e1.html?utm_source=lootura.com) — 2026-07-21T20:40:15.000Z
+- [El incendio de Guadalajara se acerca a las 32.000 hectáreas afectadas](https://elpais.com/espana/2026-07-21/el-incendio-de-guadalajara-roza-las-30000-hectareas-quemadas-y-ya-hay-34-municipios-desalojados.html?utm_source=lootura.com) — 2026-07-21T16:45:55.000Z
+- [Incendio de Guadalajara, en directo: última hora del avance del fuego en La Mierla y Selas](https://www.larazon.es/sociedad/incendio-guadalajara-directo-ultima-hora-avance-fuego-mierla-selas_202607226a6041794687a22bdec6bd84.html?utm_source=lootura.com) — 2026-07-22T06:10:16.000Z

@@ -3,10 +3,58 @@
 > Sigue la actividad de España en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-22T02:26:20.882Z
+- Actualizado: 2026-07-22T06:25:50.604Z
 - Canonical: https://atlas.lootura.com/es/place/espana
 
 ## Cambios recientes
+
+### La tercera ola de calor se intensifica hoy en España antes de alcanzar su punto álgido: 13 comunidades autónomas están en alerta
+
+España se encuentra inmersa desde este martes en la tercera ola de calor del verano, un episodio que continuará intensificándose durante los próximos días y que alcanzará previsiblemente su punto álgido este jueves, cuando se podrían llegar a los 44 grados en algunas zonas. Mientras tanto, este miércoles las temperatur.
+
+Date: 2026-07-22
+
+### Este es el pueblo del País Vasco más barato para alquilar una casa en la playa este verano
+
+El Mediterráneo suele concentrar buena parte de las miradas cuando llega el verano, pero el norte de España también ofrece numerosas alternativas para pasar las vacaciones junto al mar. La costa del País Vasco es una de las más deseadas, aunque alojarse durante el mes de agosto puede exigir un importante desembolso.El.
+
+Date: 2026-07-22
+
+### Boticaria García, sobre el azúcar en el café: «Que no te vendan humo»
+
+En España se consumen más de 67 millones de tazas de café al día, lo que equivale a unas 1,5 tazas diarias por persona. Esta cifra se traduce en un consumo anual de unas 562 tazas por habitante. Los números no mienten y estas estimaciones de la Asociación Española del Café ( AECafé ) reflejan que estamos ante uno de lo.
+
+Date: 2026-07-22
+
+### El país que vendió su verano: por qué España no puede vivir sin turistas
+
+No hay alternativas para el motor de la economía española. ¿Qué hacemos entonces con cien millones de turistas?
+
+Date: 2026-07-22
+
+### El incendio de Guadalajara dispara la superficie quemada en España tras un nefasto comienzo de julio
+
+Si el año pasado las llamas se desbocaron en agosto arrasando el noroeste de la Península, coincidiendo con una extensa e intensa ola de calor , este verano los problemas han llegado antes a España, el país europeo con más superficie dañada en estos momentos. Tras un junio que ya fue complicado, en julio se ha disparad.
+
+Date: 2026-07-22
+
+### El manipulador y atractivo rey consorte de Castilla que introdujo la dinastía de los Austria en España
+
+Tal día como hoy, 22 de julio, pero de 1478, o lo que es lo mismo, hace 548 años, nacía en Brujas (Bélgica) Felipe I de Castilla , rey consorte por su matrimonio con Juana I de Castilla (la Loca) y figura clave en la transición política de la monarquía hispánica de la época. Miembro de la dinastía Habsburgo, su breve r.
+
+Date: 2026-07-22
+
+### Samuel Biener, meteorólogo, lanza un aviso para España: el chorro polar cambiará el tiempo en solo cuatro días tras el calor extremo
+
+El chorro polar cambiará el tiempo en solo cuatro días tras el calor extremo, este meteorólogo no duda en lanzar un aviso para España.
+
+Date: 2026-07-22
+
+### ¿De qué reconciliación nos hablan?
+
+El señor Koen Lenaerts, presidente del Tribunal de Justicia Europeo , con sede en Luxemburgo, afirmó públicamente que el derecho de la Unión Europea no se opone a la ley que concede la amnistía en España, cuyo propósito es «reducir las tensiones institucionales y políticas, así como facilitar un escenario de reconcilia.
+
+Date: 2026-07-22
 
 ### Vox se ofende con el PP y asegura que se presentará en toda España
 
@@ -20,60 +68,15 @@ Einar Galilea llegó a la Costa del Sol hace tres años, cuando los boquerones a
 
 Date: 2026-07-21
 
-### Las reclamaciones por uso de tarjetas desbancan a las de hipotecas como la mayor causa de conflicto entre entidades y clientes
-
-El Banco de España alerta del aumento de casos de fraude y engaño a través del pago con tarjetas Leer.
-
-Date: 2026-07-21
-
-### Puigdemont denuncia a España ante la Comisión Europea por incumplir de la Ley de Amnistía
-
-Carles Puigdemont, ex presidente de la Generalitat de Cataluña y líder de Junts, ha presentado un escrito ante la Secretaría General de la Comisión Europea en el que denuncia a España por el incumplimiento de la Ley de Amnistía. El ex presidente catalán responde así después de que el Tribunal de Justicia de la Unión ..
-
-Date: 2026-07-21
-
-### PP y Vox llevan por primera vez a una ley la "prioridad nacional" con la aprobación de los presupuestos de la Generalitat Valenciana
-
-Ambos partidos acuerdan acotarla al "arraigo real" mientras el Gobierno de España amenaza con recurrir la norma ante el Constitucional Leer.
-
-Date: 2026-07-21
-
-### ¿Puede Hacienda embargar una cuenta de Revolut?
-
-Aunque Revolut es una entidad de origen lituano, opera en España como sucursal bancaria supervisada por el Banco de España y ofrece cuentas con IBAN español (que comienza por "ES"). Esto facilita que Hacienda envíe órdenes de embargo directamente a la entidad de forma automatizada, del mismo modo que lo hace con los ba.
-
-Date: 2026-07-21
-
-### España es el mayor refugio para la tortuga boba del mar Mediterráneo, y la mayoría de los nidos están en el litoral de Murcia
-
-Las playas españolas, y especialmente las de la Región de Murcia , se están consolidando como uno de los principales enclaves para la tortuga boba en el Mediterráneo occidental. Las hembras eligen con mayor frecuencia este tramo del litoral para realizar sus puestas, un comportamiento que refuerza el valor ecológico de.
-
-Date: 2026-07-21
-
-### ¿Quién debe pagar por eliminar los microcontaminantes del agua?
-
-Instalaciones de depuración de aguas. dongfang/Shutterstock Durante las últimas décadas, la depuración de aguas residuales ha sido una de las grandes historias de éxito ambiental en España. La Directiva europea sobre tratamiento de aguas residuales urbanas de 1991 supuso la construcción de miles de kilómetros de redes.
-
-Date: 2026-07-21
-
-### Los nuevos casos humanos de fiebre del Nilo Occidental en España activan la alerta
-
-El mosquito común (_Culex pipiens_) es uno de los principales transmisores del virus del Nilo Occidental. Nikul6533/Shutterstock Ya están aquí los primeros casos de la temporada en España de fiebre del Nilo Occidental en humanos. Los afectados son un hombre de la provincia de Alicante, que requirió hospitalización, y u.
-
-Date: 2026-07-21
-
-### El ascenso meteórico de Pau Cubarsí, el muro tranquilo de España
-
-Fuera del terreno de juego pasa desapercibido. Discreto, abraza la normalidad desde sus orígenes, desde la carpintería de su bisabuelo que regenta su padre en el Estanyol (Girona), su pueblo de menos de 200 habitantes. Pero sobre el césped logra lo excepcional. Pau Cubarsí tiene 19 años y un aspecto que sigue pareciend.
-
-Date: 2026-07-21
-
 ## Fuentes
 
-- [Una insólita cadena de favores: los detalles ocultos del gol de Ferran](https://www.abc.es/deportes/futbol/mundial/media-giuliano-giro-nahuel-detalles-ocultos-gol-20260721013100-nt.html?utm_source=lootura.com) — 2026-07-21T23:39:51.000Z
+- [Lo que se sabe del crimen en Alameda de la Sagra: una mujer asesinada, su marido con cortes en las muñecas...](https://www.20minutos.es/castilla-la-mancha/toledo/que-se-sabe-crimen-alameda-sagra-una-mujer-asesinada-su-marido-con-cortes-las-munecas-cuatro-hijos_7017197_0.html?utm_source=lootura.com) — 2026-07-22T03:00:00.000Z
+- [La tercera ola de calor se intensifica hoy en España antes de alcanzar su punto álgido: 13 comunidades autónomas están en alerta](https://www.20minutos.es/nacional/tercera-ola-calor-se-intensifica-este-miercoles-antes-alcanzar-su-punto-algido-jueves-hay-13-comunidades-alerta_7017266_0.html?utm_source=lootura.com) — 2026-07-22T03:00:00.000Z
+- [Este es el pueblo del País Vasco más barato para alquilar una casa en la playa este verano](https://www.abc.es/economia/cuentas-corrientes/pueblo-pais-vasco-barato-alquilar-casa-playa-20260722050000-nt.html?utm_source=lootura.com) — 2026-07-22T05:33:55.000Z
+- [Boticaria García, sobre el azúcar en el café: «Que no te vendan humo»](https://www.abc.es/bienestar/alimentacion/boticaria-garcia-nutricionista-sobre-mejor-echar-azucar-20260722073000-nt.html?utm_source=lootura.com) — 2026-07-22T05:34:18.000Z
 - [Amenazan a un futbolista vasco del Málaga por apoyar a Argentina contra España: «Etarra. Traidor. Antiespañol»](https://www.elcorreo.com/deportes/futbol/liga-primera/amenazan-futbolista-vasco-malaga-apoyar-argentina-espana-20260721120601-nt_amp.html?utm_source=lootura.com) — 2026-07-21T10:06:01.000Z
-- [Las reclamaciones por uso de tarjetas desbancan a las de hipotecas como la mayor causa de conflicto entre entidades y clientes](https://www.elmundo.es/economia/dinero-inversion/2026/07/21/6a5f645be4d4d8691e8b4574.html?utm_source=lootura.com) — 2026-07-21T12:41:35.000Z
 - [PP y Vox llevan por primera vez a una ley la "prioridad nacional" con la aprobación de los presupuestos de la Generalitat Valenciana](https://www.elmundo.es/comunidad-valenciana/2026/07/21/6a5faad5fc6c83204d8b458e.html?utm_source=lootura.com) — 2026-07-21T20:43:55.000Z
+- [El país que vendió su verano: por qué España no puede vivir sin turistas](https://elordenmundial.com/espana-turismo-verano-100-millones/?utm_source=lootura.com) — 2026-07-22T05:00:00.000Z
+- [El incendio de Guadalajara dispara la superficie quemada en España tras un nefasto comienzo de julio](https://elpais.com/clima-y-medio-ambiente/2026-07-22/el-incendio-de-guadalajara-dispara-la-superficie-quemada-en-espana-tras-un-nefasto-comienzo-de-julio.html?utm_source=lootura.com) — 2026-07-22T03:30:01.000Z
 - [¿Puede Hacienda embargar una cuenta de Revolut?](https://www.expansion.com/fiscal/2026/07/22/6a5fba73e5fdead5168b457e.html?utm_source=lootura.com) — 2026-07-21T22:24:31.000Z
-- [Vox se ofende con el PP y asegura que se presentará en toda España](https://www.larazon.es/espana/vox-ofende-asegura-que-presentara-toda-espana_202607226a5fb15fe3eb0b64aa4bff6e.html?outputType=amp&utm_source=lootura.com) — 2026-07-22T01:20:17.000Z
-- [Puigdemont denuncia a España ante la Comisión Europea por incumplir de la Ley de Amnistía](https://okdiario.com/espana/puigdemont-denuncia-espana-comision-europea-incumplir-ley-amnistia-19043545/amp?utm_source=lootura.com) — 2026-07-21T20:37:19.000Z
+- [El manipulador y atractivo rey consorte de Castilla que introdujo la dinastía de los Austria en España](https://www.larazon.es/castilla-y-leon/manipulador-atractivo-rey-consorte-castilla-que-introdujo-dinastia-austria-espana_202607226a5f4270303ca6202cc315ad.html?utm_source=lootura.com) — 2026-07-22T06:00:15.000Z

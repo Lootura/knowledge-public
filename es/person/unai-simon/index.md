@@ -3,7 +3,7 @@
 > Sigue la actividad de Unai Simón en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-22T02:26:20.882Z
+- Actualizado: 2026-07-22T06:25:50.604Z
 - Canonical: https://atlas.lootura.com/es/person/unai-simon
 
 ## Cambios recientes
@@ -34,4 +34,4 @@ Date: 2026-07-19
 
 ## Fuentes
 
-- [El buen rollito de Unai Simón con la 'periodista de los puñitos' y el destino final de la txapela del Athletic](https://www.elcorreo.com/deportes/futbol/mundial/buen-rollito-unai-simon-periodista-punitos-destino-20260721082157-nt_amp.html?utm_source=lootura.com) — 2026-07-21T06:21:57.000Z
+- [El camino visual de España en un Mundial para la historia](https://www.abc.es/deportes/futbol/mundial/camino-visual-espana-mundial-historia-20260722012352-nt.html?utm_source=lootura.com) — 2026-07-22T05:23:14.000Z

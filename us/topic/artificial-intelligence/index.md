@@ -3,7 +3,7 @@
 > Follow Artificial intelligence, a tracked topic, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: topic
-- Updated: 2026-07-22T02:26:42.354Z
+- Updated: 2026-07-22T06:26:12.535Z
 - Canonical: https://atlas.lootura.com/us/topic/artificial-intelligence
 
 ## Recent changes
@@ -71,5 +71,5 @@ Date: 2026-07-20
 ## Sources
 
 - [Scientists propose model to protect Earth from solar storms](https://www.cbsnews.com/video/scientists-propose-model-to-protect-earth-from-solar-storms/?utm_source=lootura.com) — 2026-07-22T02:07:49.000Z
-- [Detailed maps of European wetlands reveal overlooked patches of ecosystems](https://www.nature.com/articles/d41586-026-02211-2?utm_source=lootura.com) — 2026-07-22T02:26:46.718Z
-- [Don’t let AI steal all the joy: what scientists won’t give up to chatbots](https://www.nature.com/articles/d41586-026-02213-0?utm_source=lootura.com) — 2026-07-22T02:26:46.718Z
+- [Detailed maps of European wetlands reveal overlooked patches of ecosystems](https://www.nature.com/articles/d41586-026-02211-2?utm_source=lootura.com) — 2026-07-22T06:26:16.322Z
+- [Don’t let AI steal all the joy: what scientists won’t give up to chatbots](https://www.nature.com/articles/d41586-026-02213-0?utm_source=lootura.com) — 2026-07-22T06:26:16.322Z

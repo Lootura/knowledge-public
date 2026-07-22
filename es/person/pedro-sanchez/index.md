@@ -3,10 +3,16 @@
 > Sigue la actividad de Pedro Sánchez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-22T02:26:20.882Z
+- Actualizado: 2026-07-22T06:25:50.604Z
 - Canonical: https://atlas.lootura.com/es/person/pedro-sanchez
 
 ## Cambios recientes
+
+### Sánchez fuerza una defensa a ciegas a pesar de que Moncloa admite el "riesgo" de que "puede salir mal"
+
+La defensa férrea de José Luis Rodríguez Zapatero por parte de Pedro Sánchez comenzó en el mismo momento de su imputación. El presidente ordenó cerrar filas con él incluso antes de conocer los argumentos del juez y mantiene desde entonces un respaldo que en Moncloa justifican casi como un acto de fe y de lealtad . No e.
+
+Date: 2026-07-22
 
 ### Rosario Sánchez desprecia su cargo en Turismo y se apunta a la protesta antiturística del día 26 en Palma
 
@@ -62,14 +68,7 @@ La Selección española de fútbol, flamante campeona del mundo , ha sido recibi
 
 Date: 2026-07-20
 
-### Baena se marca ‘un Carvajal’ y le da la mano a Sánchez sin dirigirle la mirada
-
-Álex Baena ha protagonizado uno de los momentos más comentados de la recepción oficial a la selección española en el Palacio de La Moncloa. El internacional saludó al presidente del Gobierno, Pedro Sánchez , con un apretón de manos, pero sin mirarle en ningún momento , un gesto que no pasó desapercibido y que rápidamen.
-
-Date: 2026-07-20
-
 ## Fuentes
 
+- [Sánchez fuerza una defensa a ciegas a pesar de que Moncloa admite el "riesgo" de que "puede salir mal"](https://www.20minutos.es/nacional/sanchez-fuerza-una-estrategia-defensa-ciegas-zapatero-pese-que-moncloa-admite-riesgo-que-puede-salir-mal_7017355_0.html?utm_source=lootura.com) — 2026-07-22T03:00:00.000Z
 - [El PP apunta a Sánchez por el 'caso ZP' y avisa de que «este chanchullo se los puede llevar a los dos por delante»](https://www.elcorreo.com/politica/pp-apunta-gobierno-tras-revelaciones-julio-martinez-20260721134247-ntrc_amp.html?utm_source=lootura.com) — 2026-07-21T11:42:47.000Z
-- [Feijóo se adelanta a Sánchez en el balance del curso para aprovechar el misil lanzado por Julio Martínez](https://www.elindependiente.com/espana/2026/07/21/feijoo-se-adelanta-a-sanchez-en-el-balance-del-curso-para-aprovechar-el-misil-lanzado-por-julio-martinez/?utm_source=lootura.com) — 2026-07-21T17:29:59.000Z
-- [Rosario Sánchez desprecia su cargo en Turismo y se apunta a la protesta antiturística del día 26 en Palma](https://okdiario.com/baleares/rosario-sanchez-desprecia-cargo-turismo-apunta-protesta-antituristica-del-dia-26-palma-19041766?utm_source=lootura.com) — 2026-07-22T02:00:49.000Z

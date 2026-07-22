@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/carles-puigdemont/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/carles-puigdemont/index.json",
   "description": "Sigue la actividad de Carles Puigdemont Casamajó en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-22T02:26:20.882Z",
+  "updatedAt": "2026-07-22T06:25:50.604Z",
   "aliases": [
     "Carles",
     "Carles Puigdemont Casamajó",
@@ -18,6 +18,11 @@
     "Puigdemont"
   ],
   "changes": [
+    {
+      "title": "El gran fichaje empresarial de Puigdemont deja su escaño lejos de las expectativas creadas",
+      "summary": "Los fichajes de independientes siempre son complicados en política. En 2024, Carles Puigdemont incorporó a una directiva de nivel medio de Silicon Valley, Anna Navarro, como gran fichaje empresarial. Fue de número dos en la lista de las elecciones catalanas, justo detrás del propio Puigdemont. El fichaje ha estado lejo.",
+      "date": "2026-07-22"
+    },
     {
       "title": "Puigdemont denuncia a España ante la Comisión Europea por incumplir de la Ley de Amnistía",
       "summary": "Carles Puigdemont, ex presidente de la Generalitat de Cataluña y líder de Junts, ha presentado un escrito ante la Secretaría General de la Comisión Europea en el que denuncia a España por el incumplimiento de la Ley de Amnistía. El ex presidente catalán responde así después de que el Tribunal de Justicia de la Unión ..",
@@ -61,10 +66,10 @@
   ],
   "sources": [
     {
-      "title": "Puigdemont denuncia a España ante la Comisión Europea por incumplir de la Ley de Amnistía",
-      "url": "https://okdiario.com/espana/puigdemont-denuncia-espana-comision-europea-incumplir-ley-amnistia-19043545/amp?utm_source=lootura.com",
-      "publishedAt": "2026-07-21T20:37:19.000Z",
-      "sourceId": "lootura-es-ok-diario"
+      "title": "El gran fichaje empresarial de Puigdemont deja su escaño lejos de las expectativas creadas",
+      "url": "https://www.elconfidencial.com/espana/cataluna/2026-07-22/segunda-puigdemont-sale-rana-deja-escano_4393883/?utm_source=lootura.com",
+      "publishedAt": "2026-07-22T03:00:00.000Z",
+      "sourceId": "lootura-es-el-confidencial"
     }
   ],
   "evidenceCount": 1

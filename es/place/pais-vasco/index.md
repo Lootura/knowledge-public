@@ -3,10 +3,16 @@
 > Sigue la actividad de País Vasco en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-21T10:23:08.875Z
+- Actualizado: 2026-07-22T06:25:50.604Z
 - Canonical: https://atlas.lootura.com/es/place/pais-vasco
 
 ## Cambios recientes
+
+### Este es el pueblo del País Vasco más barato para alquilar una casa en la playa este verano
+
+El Mediterráneo suele concentrar buena parte de las miradas cuando llega el verano, pero el norte de España también ofrece numerosas alternativas para pasar las vacaciones junto al mar. La costa del País Vasco es una de las más deseadas, aunque alojarse durante el mes de agosto puede exigir un importante desembolso.El.
+
+Date: 2026-07-22
 
 ### Tiene cuatro días para recorrer Vizcaya y termina realizando el mejor itinerario posible: "Es un viaje que se puede cerrar por todo lo alto"
 
@@ -62,12 +68,6 @@ Euskadi anota 282 fallecidos, la segunda cifra más alta de España por detrás 
 
 Date: 2026-07-15
 
-### Las familias de Gipuzkoa son las que más gastan en Euskadi y disparan su inversión en salud un 33%
-
-La factura total de los hogares alcanza los 40.917 euros por el precio de la vivienda y los alimentos, una cifra muy superior al registrado en Bizkaia y Araba.
-
-Date: 2026-07-15
-
 ## Fuentes
 
-No public source links.
+- [Este es el pueblo del País Vasco más barato para alquilar una casa en la playa este verano](https://www.abc.es/economia/cuentas-corrientes/pueblo-pais-vasco-barato-alquilar-casa-playa-20260722050000-nt.html?utm_source=lootura.com) — 2026-07-22T05:33:55.000Z

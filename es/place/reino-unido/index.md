@@ -3,10 +3,22 @@
 > Sigue la actividad de Reino Unido de Gran Bretaña e Irlanda del Norte en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-22T02:26:20.882Z
+- Actualizado: 2026-07-22T06:25:50.604Z
 - Canonical: https://atlas.lootura.com/es/place/reino-unido
 
 ## Cambios recientes
+
+### CaixaBank desembarca en energía en Reino Unido con 3.500 millones financiados en un año
+
+CaixaBank acelera en Reino Unido en su negocio de utilities (energía, gas y agua) con una financiación de más de 3.000 millones de libras (3.500 millones de euros) en los...
+
+Date: 2026-07-22
+
+### George cumple 13 años e inicia en Eton su camino hacia la Corona
+
+Desde el instante en que apareció en brazos de sus padres a las puertas del hospital St. Mary's de Londres, el 22 de julio de 2013, su destino quedó escrito con claridad. Un día será rey del Reino Unido. Ahora, cuando cumple trece años, la infancia toca a su fin y comienza la formación definitiva del heredero. Septiemb.
+
+Date: 2026-07-22
 
 ### Iberdrola compra la mayor red de luz de Finlandia por 5.000 millones
 
@@ -56,19 +68,7 @@ Gibraltar ha avisado de que los taxis españoles seguirán sin prestar servicio 
 
 Date: 2026-07-16
 
-### Discovered by Atlas
-
-Reino Unido first entered the public knowledge record with source-backed evidence.
-
-Date: 2026-07-15
-
-### Begoña Gómez entrega al juez Peinado los billetes de su viaje a Londres para la graduación de su hija
-
-Begoña Gómez ha entregado al juzgado los billetes de avión de su viaje a Londres de la pasada semana y ha presentado un recurso contra la iniciativa del magistrado Juan Carlos Peinado de reclamarle que “acredite” que solo usó el pasaporte para acudir a Reino Unido a la graduación de su hija. En su escrito de alegacione.
-
-Date: 2026-07-15
-
 ## Fuentes
 
-- [Iberdrola compra la mayor red de luz de Finlandia por 5.000 millones](https://www.expansion.com/empresas/energia/2026/07/21/6a5f7ea2e5fdea3e5d8b4592.html?utm_source=lootura.com) — 2026-07-21T19:12:44.000Z
-- [Francia, al borde de emitir una señal de peligro en el mercado de deuda](https://www.expansion.com/mercados/2026/07/21/6a5f9cd4468aebdc058b4593.html?utm_source=lootura.com) — 2026-07-21T18:31:13.000Z
+- [CaixaBank desembarca en energía en Reino Unido con 3.500 millones financiados en un año](https://amp.expansion.com/empresas/banca/2026/07/22/6a5df132e5fdeae5798b4587.html?utm_source=lootura.com) — 2026-07-22T00:03:26.000Z
+- [George cumple 13 años e inicia en Eton su camino hacia la Corona](https://www.larazon.es/gente/casa-real/george-cumple-13-anos-inicia-eton-camino-corona_202607226a605c73da3add27d4db3b56.html?utm_source=lootura.com) — 2026-07-22T06:00:19.000Z
