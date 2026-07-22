@@ -125,6 +125,7 @@
 - [Oleksandr Syrskyi](https://atlas.lootura.com/us/person/oleksandr-syrskyi): Follow Oleksandr Syrskyi, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 - [Todd Blanche](https://atlas.lootura.com/us/person/todd-blanche): Follow Todd Blanche, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 - [Tristan Tate](https://atlas.lootura.com/us/person/tristan-tate): Follow Tristan Tate, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
+- [Troy Jackson](https://atlas.lootura.com/us/person/troy-jackson): Follow Troy Jackson, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 - [Tyler Robinson](https://atlas.lootura.com/us/person/tyler-robinson): Follow Tyler Robinson, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 - [Barcelona](https://atlas.lootura.com/us/place/barcelona): Follow Barcelona, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 - [Bears Ears](https://atlas.lootura.com/us/place/bears-ears): Follow Bears Ears, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.

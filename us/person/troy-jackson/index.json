@@ -1,0 +1,80 @@
+{
+  "id": "usa-troy-jackson",
+  "name": "Troy Jackson",
+  "type": "person",
+  "locale": "en",
+  "canonicalPath": "/us/person/troy-jackson",
+  "canonicalUrl": "https://atlas.lootura.com/us/person/troy-jackson",
+  "markdownUrl": "https://atlas.lootura.com/us/person/troy-jackson/index.md",
+  "jsonUrl": "https://atlas.lootura.com/us/person/troy-jackson/index.json",
+  "description": "Follow Troy Jackson, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
+  "updatedAt": "2026-07-22T02:26:42.354Z",
+  "aliases": [],
+  "changes": [
+    {
+      "title": "Once Anti-Abortion, Now a Progressive: The Evolution of a Maine Democrat",
+      "summary": "Troy Jackson, who is expected to become his party’s nominee in the state’s marquee Senate race, has long been an economic populist, but his positions on social issues have changed markedly over time.",
+      "date": "2026-07-21"
+    },
+    {
+      "title": "Democrats’ Top Senate Candidate in Maine Won’t Support Schumer for Leader",
+      "summary": "Troy Jackson, who is set to become the party’s nominee, also said in an interview that he was not sure he wanted the support of Senator Chuck Schumer in the general election.",
+      "date": "2026-07-21"
+    },
+    {
+      "title": "Tamara Keith and Jasmine Wright on the political fallout of Trump's address",
+      "summary": "NPR's Tamara Keith and Jasmine Wright of NOTUS join Amna Nawaz to discuss the latest political news, including Arizona's primary elections, where Republicans will choose a nominee to challenge the incumbent Democratic governor, Troy Jackson appearing to clinch the Democratic nomination for Senate following Graham Platn.",
+      "date": "2026-07-20"
+    },
+    {
+      "title": "5 Things to Know About the Maine Senate Candidate Troy Jackson",
+      "summary": "Mr. Jackson, who has emerged as the clear front-runner to replace Graham Platner, is a Republican turned Democrat who is seen as close to Mr. Platner on policy.",
+      "date": "2026-07-20"
+    },
+    {
+      "title": "In Maine Senate Race, Democrats Go From Chaos to Coronation",
+      "summary": "Troy Jackson’s emergence as the clear front-runner to replace Graham Platner spares the party some challenges but points to some new ones.",
+      "date": "2026-07-20"
+    },
+    {
+      "title": "5 Things to Know About the Maine Senate Candidate Troy Jackson",
+      "summary": "Mr. Jackson, who has emerged as the clear front-runner to replace Graham Platner, is a Republican turned Democrat who is seen as close to Mr. Platner on policy.",
+      "date": "2026-07-20"
+    },
+    {
+      "title": "Maine Democratic Senate race narrows as candidates rally behind Troy Jackson",
+      "summary": "The crowded Maine Senate race to replace Graham Platner has narrowed as Democrats rallied around former state Senate President Troy Jackson in the leadup to the party's nominating convention on Saturday.",
+      "date": "2026-07-20"
+    },
+    {
+      "title": "In Maine Senate Race, Jackson Sprints Ahead of Pack, as Bellows Drops Out",
+      "summary": "Troy Jackson, a progressive, solidified his clear edge in the contest to replace Graham Platner, as Shenna Bellows, Jordan Wood and Nirav Shah ended their bids.",
+      "date": "2026-07-20"
+    },
+    {
+      "title": "In Maine, Troy Jackson Gains Momentum in Bid to Replace Platner",
+      "summary": "Troy Jackson, a progressive former State Senate president, showed signs of significant strength, as half the state’s counties picked delegates to a convention where they will choose Graham Platner’s replacement.",
+      "date": "2026-07-20"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Troy Jackson first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-07-19"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Once Anti-Abortion, Now a Progressive: The Evolution of a Maine Democrat",
+      "url": "https://www.nytimes.com/2026/07/21/us/politics/troy-jackson-maine-senate.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-21T15:13:42.000Z",
+      "sourceId": "lootura-us-the-new-york-times-politics"
+    },
+    {
+      "title": "Democrats’ Top Senate Candidate in Maine Won’t Support Schumer for Leader",
+      "url": "https://www.nytimes.com/2026/07/21/us/politics/troy-jackson-schumer-maine-senate.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-21T17:52:33.000Z",
+      "sourceId": "lootura-us-the-new-york-times-politics"
+    }
+  ],
+  "evidenceCount": 2
+}

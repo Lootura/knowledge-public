@@ -1,15 +1,15 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-22T02:34:52.715Z",
+  "generatedAt": "2026-07-22T04:51:11.345Z",
   "radar": {
     "id": "usa",
     "slug": "us",
     "locale": "en"
   },
   "state": {
-    "signature": "1.18.0|7|1784687202354",
+    "signature": "1.18.0|8|1784687202354",
     "version": "1.18.0",
-    "build": 7,
+    "build": 8,
     "latestEntityUpdatedAt": "2026-07-22T02:26:42.354Z"
   },
   "atlas": {
@@ -21,7 +21,7 @@
       "url": "https://atlas.lootura.com/us/place/iran",
       "path": "/us/place/iran",
       "updatedAt": "2026-07-22T02:26:42.354Z",
-      "score": 1675,
+      "score": 1663,
       "sourceCount": 178,
       "isBreaking": false,
       "isPinned": false
@@ -35,7 +35,7 @@
         "url": "https://atlas.lootura.com/us/place/united-states",
         "path": "/us/place/united-states",
         "updatedAt": "2026-07-22T02:26:42.354Z",
-        "score": 1654,
+        "score": 1641,
         "sourceCount": 349,
         "isBreaking": false,
         "isPinned": false
@@ -48,7 +48,7 @@
         "url": "https://atlas.lootura.com/us/person/donald-trump",
         "path": "/us/person/donald-trump",
         "updatedAt": "2026-07-22T02:26:42.354Z",
-        "score": 1642,
+        "score": 1629,
         "sourceCount": 304,
         "isBreaking": false,
         "isPinned": false
@@ -61,25 +61,25 @@
         "url": "https://atlas.lootura.com/us/place/ukraine",
         "path": "/us/place/ukraine",
         "updatedAt": "2026-07-22T02:26:42.354Z",
-        "score": 1635,
+        "score": 1622,
         "sourceCount": 59,
         "isBreaking": false,
         "isPinned": false
       },
       {
-        "id": "usa-canada",
-        "name": "Canada",
+        "id": "usa-new-jersey",
+        "name": "New Jersey",
         "type": "place",
-        "title": "Canada cancels joint bridge-opening celebration with US amid trade tensions",
-        "url": "https://atlas.lootura.com/us/place/canada",
-        "path": "/us/place/canada",
+        "title": "6,600 noncitizens registered to vote by New Jersey motor vehicle system error, Gov. Sherill says",
+        "url": "https://atlas.lootura.com/us/place/new-jersey",
+        "path": "/us/place/new-jersey",
         "updatedAt": "2026-07-22T02:26:42.354Z",
-        "score": 1632,
-        "sourceCount": 41,
+        "score": 1620,
+        "sourceCount": 5,
         "isBreaking": false,
         "isPinned": false
       }
     ],
-    "publicEntityCount": 61
+    "publicEntityCount": 62
   }
 }

@@ -1,15 +1,15 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-22T02:34:54.922Z",
+  "generatedAt": "2026-07-22T04:51:13.469Z",
   "radar": {
     "id": "es",
     "slug": "es",
     "locale": "es"
   },
   "state": {
-    "signature": "1.18.0|7|1784687180882",
+    "signature": "1.18.0|8|1784687180882",
     "version": "1.18.0",
-    "build": 7,
+    "build": 8,
     "latestEntityUpdatedAt": "2026-07-22T02:26:20.882Z"
   },
   "atlas": {
@@ -21,7 +21,7 @@
       "url": "https://atlas.lootura.com/es/person/rodriguez-zapatero",
       "path": "/es/person/rodriguez-zapatero",
       "updatedAt": "2026-07-22T02:26:20.882Z",
-      "score": 1689,
+      "score": 1677,
       "sourceCount": 19,
       "isBreaking": false,
       "isPinned": false
@@ -35,7 +35,7 @@
         "url": "https://atlas.lootura.com/es/place/la-mierla",
         "path": "/es/place/la-mierla",
         "updatedAt": "2026-07-22T02:26:20.882Z",
-        "score": 1652,
+        "score": 1640,
         "sourceCount": 17,
         "isBreaking": false,
         "isPinned": false
@@ -48,7 +48,7 @@
         "url": "https://atlas.lootura.com/es/organization/audiencia-nacional",
         "path": "/es/organization/audiencia-nacional",
         "updatedAt": "2026-07-22T02:26:20.882Z",
-        "score": 1637,
+        "score": 1625,
         "sourceCount": 27,
         "isBreaking": false,
         "isPinned": false
@@ -61,7 +61,7 @@
         "url": "https://atlas.lootura.com/es/organization/psoe",
         "path": "/es/organization/psoe",
         "updatedAt": "2026-07-22T02:26:20.882Z",
-        "score": 1637,
+        "score": 1625,
         "sourceCount": 97,
         "isBreaking": false,
         "isPinned": false
@@ -74,7 +74,7 @@
         "url": "https://atlas.lootura.com/es/place/espana",
         "path": "/es/place/espana",
         "updatedAt": "2026-07-22T02:26:20.882Z",
-        "score": 1630,
+        "score": 1618,
         "sourceCount": 438,
         "isBreaking": false,
         "isPinned": false
