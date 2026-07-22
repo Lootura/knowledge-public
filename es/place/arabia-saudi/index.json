@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/arabia-saudi/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/arabia-saudi/index.json",
   "description": "Sigue la actividad de Arabia Saudí en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-22T17:15:40.463Z",
+  "updatedAt": "2026-07-22T21:08:41.543Z",
   "aliases": [
     "Arabia Saudí",
     "Kingdom of Saudi Arabia",
@@ -17,11 +17,6 @@
     "Saudi"
   ],
   "changes": [
-    {
-      "title": "Trump aprueba acuerdo nuclear que permitiría a Arabia Saudí enriquecer uranio",
-      "summary": "Se prevé que el acuerdo tenga una vigencia de 30 años y que también implique a empresas de Estados Unidos en el desarrollo del programa Leer.",
-      "date": "2026-07-22"
-    },
     {
       "title": "Discovered by Atlas",
       "summary": "Arabia Saudita first entered the public knowledge record with source-backed evidence.",
@@ -35,6 +30,16 @@
     {
       "title": "Trump se dispone a firmar un acuerdo nuclear con Arabia Saudí en plena escalada de tensiones con Irán",
       "summary": "En plena escalada de tensiones bélicas con Irán, el Gobierno de Estados Unidos que preside Donald Trump se dispone a firmar un acuerdo con Arabia Saudí que permitiría al país contar con un programa nuclear civil, abriendo la puerta al enriquecimiento de uranio. El acuerdo, que busca reordenar el equilibrio de poderes e.",
+      "date": "2026-07-22"
+    },
+    {
+      "title": "El pacto nuclear de EE.UU. con Arabia Saudí hace temer una carrera atómica en Oriente Próximo",
+      "summary": "Fuentes oficiales de la Casa Blanca han filtrado a los principales medios de prensa anglosajones que el presidente Trump ha cerrado un acuerdo para compartir tecnología nuclear con Arabia Saudí. El plan, que será sometido al Congreso de Estados Unidos para su aprobación, supone un cambio de política radical al no inclu.",
+      "date": "2026-07-22"
+    },
+    {
+      "title": "Trump autoriza un pacto nuclear que permitirá a Arabia Saudí enriquecer uranio",
+      "summary": "De las muchas justificaciones que Donald Trump ha dado en casi cinco meses para su guerra en Irán , la de impedir que el régimen de los ayatolás continúe con su programa nuclear y pueda acabar teniendo la bomba atómica es la que ha acabado cristalizando en el argumentario de la Casa Blanca y sus aliados. El presidente.",
       "date": "2026-07-22"
     },
     {
@@ -55,10 +60,10 @@
   ],
   "sources": [
     {
-      "title": "Trump aprueba acuerdo nuclear que permitiría a Arabia Saudí enriquecer uranio",
-      "url": "https://www.elmundo.es/internacional/2026/07/22/6a605530e9cf4a8a088b4596.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-22T05:35:01.000Z",
-      "sourceId": "lootura-es-el-mundo"
+      "title": "El pacto nuclear de EE.UU. con Arabia Saudí hace temer una carrera atómica en Oriente Próximo",
+      "url": "https://www.abc.es/internacional/eeuu-arabia-saudi-firman-acuerdo-nuclear-despierta-20260722210722-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-22T20:28:49.000Z",
+      "sourceId": "lootura-es-abc"
     },
     {
       "title": "Trump aprueba un histórico acuerdo nuclear con Arabia Saudí en una gran victoria para el reino",
@@ -67,11 +72,17 @@
       "sourceId": "lootura-es-el-mundo"
     },
     {
+      "title": "Trump autoriza un pacto nuclear que permitirá a Arabia Saudí enriquecer uranio",
+      "url": "https://elpais.com/internacional/2026-07-22/trump-autoriza-un-pacto-nuclear-que-permitira-a-arabia-saudi-enriquecer-uranio.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-22T19:34:04.000Z",
+      "sourceId": "lootura-es-el-pais"
+    },
+    {
       "title": "Trump se dispone a firmar un acuerdo nuclear con Arabia Saudí en plena escalada de tensiones con Irán",
       "url": "https://www.expansion.com/economia/2026/07/22/6a60c9f7468aebc5648b4591.html?utm_source=lootura.com",
       "publishedAt": "2026-07-22T15:30:46.000Z",
       "sourceId": "lootura-es-expansion"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 4
 }

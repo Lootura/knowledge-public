@@ -8,13 +8,23 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/julio-martinez/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/julio-martinez/index.json",
   "description": "Sigue la actividad de Julio Martínez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-22T17:15:40.463Z",
+  "updatedAt": "2026-07-22T21:08:41.543Z",
   "aliases": [
     "Julio Mart",
     "Julio Martínez Martínez",
     "Julito Martínez"
   ],
   "changes": [
+    {
+      "title": "OKDIARIO localiza a Alba, la otra hija de Zapatero, tras la confesión de ‘Julito’ Martínez ante el juez Calama",
+      "summary": "OKDIARIO ha localizado este miércoles a Alba Zapatero Espinosa , la hija menor de José Luis Rodríguez Zapatero, al día siguiente de que ‘Julito’ Martínez, el presunto testaferro de su padre, confesara ante el juez Calama, en la Audiencia Nacional, haber estado pagándoles sin trabajar durante tres años como parte de la.",
+      "date": "2026-07-22"
+    },
+    {
+      "title": "Podcast | Zapatero, tocado y hundido",
+      "summary": "El futuro de José Luis Rodríguez Zapatero es cada vez más oscuro. Su presunto testaferro, Julito Martínez, se ha marcado un Aldama y ha confesado ante el juez José Luis Calama que el ex presidente del Gobierno medió en la concesión del rescate a Plus Ultra y pactó cobrar el 1% de comisión , así como 5.000 euros al mes.",
+      "date": "2026-07-22"
+    },
     {
       "title": "Las seis mayores contradicciones entre lo que Julio Martínez declaró y la versión de Zapatero",
       "summary": "La declaración de Julio Martínez Martínez ha complicado el futuro judicial de José Luis Rodríguez Zapatero . Eso y los escritos que tanto el \"amigo\" como dos altos cargos de Plus Ultra han remitido esta semana a la Audiencia Nacional. Según ellos, el expresidente habría influido en favor del rescate de 53 millones de e.",
@@ -54,29 +64,19 @@
       "title": "El juez interrogará a la cúpula de Plus Ultra por los pagos a Zapatero",
       "summary": "El «caso Plus Ultra» entra en una nueva dimensión judicial. Tras la confesión y la posterior declaración del empresario «Julito» Martínez y «amigo» del expresidente del Gobierno José Luis Rodríguez Zapatero, a quien ha situado como la persona que influyó en la concesión pública de 53 millones de euros a la aerolínea, c.",
       "date": "2026-07-22"
-    },
-    {
-      "title": "El juez abrirá una investigación exhaustiva a las hijas de Zapatero",
-      "summary": "La declaración de Julio Martínez Martínez no solo sirvió para aclarar su actuación en el caso Plus Ultra. También permitió anticipar los próximos movimientos del juez...",
-      "date": "2026-07-21"
-    },
-    {
-      "title": "Zapatero ordenó camuflar en varios pagos la comisión del 1% en el rescate de Plus Ultra",
-      "summary": "Julio Martínez Martínez, quien fuera hombre de la total confianza del ex presidente José Luis Rodríguez Zapatero, comenzó ayer a colaborar con la Justicia. Aseguró que el ex...",
-      "date": "2026-07-21"
     }
   ],
   "sources": [
     {
-      "title": "Las seis mayores contradicciones entre lo que Julio Martínez declaró y la versión de Zapatero",
-      "url": "https://www.20minutos.es/nacional/las-cinco-mayores-contradicciones-entre-que-julio-martinez-declaro-juez-calama-version-defendida-por-zapatero_7017741_0.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-22T14:11:43.000Z",
-      "sourceId": "lootura-es-20minutos"
+      "title": "OKDIARIO localiza a Alba, la otra hija de Zapatero, tras la confesión de ‘Julito’ Martínez ante el juez Calama",
+      "url": "https://okdiario.com/espana/okdiario-localiza-alba-otra-hija-zapatero-confesion-julito-martinez-juez-calama-19050790?utm_source=lootura.com",
+      "publishedAt": "2026-07-22T19:16:33.000Z",
+      "sourceId": "lootura-es-ok-diario"
     },
     {
-      "title": "Zapatero, tocado y hundido",
-      "url": "https://theobjective.com/espana/2026-07-22/objetivo-directo-zapatero-tocado-hundido/?amp=&utm_source=lootura.com",
-      "publishedAt": "2026-07-22T16:25:49.000Z",
+      "title": "Podcast | Zapatero, tocado y hundido",
+      "url": "https://theobjective.com/podcasts/objetivo-directo-podcast/podcast-objetivo-directo-zapatero-tocado-hundido/?utm_source=lootura.com",
+      "publishedAt": "2026-07-22T18:42:45.000Z",
       "sourceId": "lootura-es-the-objective"
     }
   ],

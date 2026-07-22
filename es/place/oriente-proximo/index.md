@@ -3,7 +3,7 @@
 > Sigue la actividad de Oriente Próximo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-22T17:15:40.463Z
+- Actualizado: 2026-07-22T21:08:41.543Z
 - Canonical: https://atlas.lootura.com/es/place/oriente-proximo
 
 ## Cambios recientes
@@ -17,6 +17,12 @@ Date: 2026-07-22
 ### El Ibex deja de lado la escalada del petróleo y se refugia en los resultados empresariales
 
 Con el conflicto en Oriente Próximo estancado y la amenaza de una interrupción del tráfico marítimo en el mar Rojo sobrevolando los mercados, los inversores están optando por prestar más atención a la temporada de resultados trimestrales. Las Bolsas europeas registran avances moderados pese al deterioro del contexto ge.
+
+Date: 2026-07-22
+
+### El pacto nuclear de EE.UU. con Arabia Saudí hace temer una carrera atómica en Oriente Próximo
+
+Fuentes oficiales de la Casa Blanca han filtrado a los principales medios de prensa anglosajones que el presidente Trump ha cerrado un acuerdo para compartir tecnología nuclear con Arabia Saudí. El plan, que será sometido al Congreso de Estados Unidos para su aprobación, supone un cambio de política radical al no inclu.
 
 Date: 2026-07-22
 
@@ -62,12 +68,7 @@ El pesimismo en torno a las negociaciones de paz entre EE UU e Irán, después d
 
 Date: 2026-07-22
 
-### De Ormuz a los hutíes en Bab al Mandeb: el nuevo foco de la guerra en Oriente Próximo
-
-Los rebeldes yemeníes, el principal bastión del Eje de la Resistencia iraní en la actualidad, han recrudecido su confrontación con Arabia Saudí. La ampliación del conflicto regional amenaza aún más el suministro de petróleo y el comercio internacional.
-
-Date: 2026-07-22
-
 ## Fuentes
 
+- [El pacto nuclear de EE.UU. con Arabia Saudí hace temer una carrera atómica en Oriente Próximo](https://www.abc.es/internacional/eeuu-arabia-saudi-firman-acuerdo-nuclear-despierta-20260722210722-nt.html?utm_source=lootura.com) — 2026-07-22T20:28:49.000Z
 - [El Ibex deja de lado la escalada del petróleo y se refugia en los resultados empresariales](https://cincodias.elpais.com/mercados-financieros/2026-07-22/la-bolsa-y-el-ibex-35.html?utm_source=lootura.com) — 2026-07-22T15:59:55.000Z

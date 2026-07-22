@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/topic/artificial-intelligence/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/topic/artificial-intelligence/index.json",
   "description": "Follow Artificial intelligence, a tracked topic, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-22T17:16:02.754Z",
+  "updatedAt": "2026-07-22T21:09:05.351Z",
   "aliases": [
     "AI",
     "AI science",
@@ -30,6 +30,16 @@
     {
       "title": "Funding milestone detected",
       "summary": "Investment in artificial intelligence and related companies is lifting the stock market and spending across the economy.",
+      "date": "2026-07-22"
+    },
+    {
+      "title": "In pursuit of 'Instagram face,' are we losing the imperfections that make us human?",
+      "summary": "Plastic surgery is becoming so normalized and undetectable, it's changing our relationship to reality. The New Yorker staff writer Jia Tolentino considers how beauty standards have dovetailed with AI.",
+      "date": "2026-07-22"
+    },
+    {
+      "title": "AI and quantum chemistry combine to identify efficient blue OLED materials",
+      "summary": "Organic light-emitting diodes (OLEDs) have become a standard in modern devices with incredible contrast and sleek designs. While initially an expensive luxury, OLEDs are gradually becoming more financially accessible as the technology improves. Now, researchers at the Institute of Transformative Bio-Molecules (WPI-ITbM.",
       "date": "2026-07-22"
     },
     {
@@ -66,23 +76,25 @@
       "title": "Don’t let AI steal all the joy: what scientists won’t give up to chatbots",
       "summary": "Nature, Published online: 21 July 2026; doi:10.1038/d41586-026-02213-0 Nature asked readers of the Nature Briefing what they like about their job and don’t want to hand over.",
       "date": "2026-07-22"
-    },
-    {
-      "title": "Developer ecosystem expanded",
-      "summary": "The pledge was introduced in March, and has done little to quell concerns so far. | Image: Cath Virginia / The Verge, Getty Images In the face of backlash to concerns the AI boom will increase consumer electricity bills, the largest utility companies and data center developers in the US are now promising to do somethin.",
-      "date": "2026-07-22"
-    },
-    {
-      "title": "Detailed maps of European wetlands reveal overlooked patches of ecosystems",
-      "summary": "Nature, Published online: 20 July 2026; doi:10.1038/d41586-026-02211-2 Satellite images have been analysed by a machine-learning algorithm to produce high-resolution maps of wetland environments — a boon for conservation efforts.",
-      "date": "2026-07-21"
     }
   ],
   "sources": [
     {
-      "title": "Researchers develop new AI system for highly accurate mapping and modeling of orchards",
-      "url": "https://phys.org/news/2026-07-ai-highly-accurate-orchards.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-22T16:40:04.000Z",
+      "title": "ChatGPT's medical advice nearly killed a man, lawsuit claims",
+      "url": "https://www.cbsnews.com/news/chatgpt-dangerous-medical-advice-openai-lawsuit/?utm_source=lootura.com",
+      "publishedAt": "2026-07-22T20:45:33.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
+    {
+      "title": "In pursuit of 'Instagram face,' are we losing the imperfections that make us human?",
+      "url": "https://www.npr.org/2026/07/22/nx-s1-5902070/jia-tolentino-instagram-face-plastic-surgery?utm_source=lootura.com",
+      "publishedAt": "2026-07-22T17:11:19.000Z",
+      "sourceId": "lootura-us-npr"
+    },
+    {
+      "title": "AI and quantum chemistry combine to identify efficient blue OLED materials",
+      "url": "https://phys.org/news/2026-07-ai-quantum-chemistry-combine-efficient.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-22T20:20:01.000Z",
       "sourceId": "lootura-us-phys-org"
     },
     {
@@ -90,18 +102,6 @@
       "url": "https://www.nytimes.com/2026/07/22/business/economy/stocks-economy-ai.html?utm_source=lootura.com",
       "publishedAt": "2026-07-22T15:46:48.000Z",
       "sourceId": "lootura-us-the-new-york-times"
-    },
-    {
-      "title": "Here’s what Samsung’s smart glasses actually look like",
-      "url": "https://www.theverge.com/tech/969382/samsung-google-smart-glasses-gentle-monster-warby-parker?utm_source=lootura.com",
-      "publishedAt": "2026-07-22T16:35:34.000Z",
-      "sourceId": "lootura-us-the-verge"
-    },
-    {
-      "title": "AMD commits up to $5 billion to Anthropic",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/969285/amd-anthropic-ai-infrastructure-deal?utm_source=lootura.com",
-      "publishedAt": "2026-07-22T14:44:27.000Z",
-      "sourceId": "lootura-us-the-verge"
     }
   ],
   "evidenceCount": 3

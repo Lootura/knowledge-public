@@ -70,4 +70,4 @@ Date: 2026-07-10
 
 ## Fuentes
 
-- [El exclusivo club del Toisón de Oro suma un nuevo nombre: Felipe VI distingue a Marcelo Rebelo de Sousa](https://okdiario.com/cool/casa-real/exclusivo-club-del-toison-oro-suma-nuevo-nombre-felipe-vi-distingue-marcelo-rebelo-sousa-19047505/amp?utm_source=lootura.com) — 2026-07-22T13:44:58.000Z
+No public source links.

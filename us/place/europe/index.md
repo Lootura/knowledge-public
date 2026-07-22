@@ -3,10 +3,16 @@
 > Follow Europe, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-22T17:16:02.754Z
+- Updated: 2026-07-22T21:09:05.351Z
 - Canonical: https://atlas.lootura.com/us/place/europe
 
 ## Recent changes
+
+### Shifting weather patterns drive 55% of Europe's summer drought trend, study finds
+
+In a new study, researchers at Leipzig University have identified a major cause of the unusually severe summer soil drying and rising temperatures across Europe. They found that much of the trend can be attributed to changes in atmospheric circulation patterns—that is, shifts in the weather regimes that typically occur.
+
+Date: 2026-07-22
 
 ### EU watchdog reduces safe level of exposure to 'forever chemical' TFA
 
@@ -62,12 +68,6 @@ In a show of collective strength, President Emmanuel Macron of France hosted Eur
 
 Date: 2026-07-14
 
-### Ticking time bomb? Europe's aging population brings challenges
-
-The population of the 27-nation European Union will peak in 2029 before falling in the coming decades, according to a report published Tuesday that spotlights the major challenges the bloc faces from an aging population.
-
-Date: 2026-07-14
-
 ## Sources
 
-- [EU watchdog reduces safe level of exposure to 'forever chemical' TFA](https://phys.org/news/2026-07-eu-watchdog-safe-exposure-chemical.html?utm_source=lootura.com) — 2026-07-22T17:08:23.000Z
+- [Shifting weather patterns drive 55% of Europe's summer drought trend, study finds](https://phys.org/news/2026-07-shifting-weather-patterns-europe-summer.html?utm_source=lootura.com) — 2026-07-22T21:00:05.000Z

@@ -1,0 +1,52 @@
+{
+  "id": "es-fuerzas-armadas",
+  "name": "Fuerzas armadas",
+  "type": "organization",
+  "locale": "es",
+  "canonicalPath": "/es/organization/fuerzas-armadas",
+  "canonicalUrl": "https://atlas.lootura.com/es/organization/fuerzas-armadas",
+  "markdownUrl": "https://atlas.lootura.com/es/organization/fuerzas-armadas/index.md",
+  "jsonUrl": "https://atlas.lootura.com/es/organization/fuerzas-armadas/index.json",
+  "description": "Sigue la actividad de Fuerzas armadas en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
+  "updatedAt": "2026-07-22T21:08:41.543Z",
+  "aliases": [
+    "fuerza armada",
+    "army"
+  ],
+  "changes": [
+    {
+      "title": "Del heroísmo a los algoritmos: Zelenski sustituye al veterano jefe del ejército por un reformista para intentar cerrar su mayor crisis interna",
+      "summary": "Buscando un equilibrio que calme las calles y no le cueste más capital político, Volodimir Zelenski destituyó el martes por la noche al comandante en jefe de las Fuerzas Armadas...",
+      "date": "2026-07-22"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Fuerzas Armadas first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-07-21"
+    },
+    {
+      "title": "Zelenski destituye al jefe del ejército ucraniano tras días de protestas y nombra a su sucesor",
+      "summary": "El presidente ucraniano ha nombrado a Mykhailo Drapatyi como nuevo comandante en jefe de las Fuerzas Armadas y sucesor de Oleksandr Syrskyi Leer.",
+      "date": "2026-07-21"
+    },
+    {
+      "title": "Zelenski releva al jefe del ejército en Ucrania tras seis días de protestas",
+      "summary": "El presidente de Ucrania, Volodímir Zelenski , ha anunciado en la noche del martes el relevo al frente del ejército que lucha contra la invasión rusa del país . El hasta ahora jefe de las Fuerzas Armadas, el general Oleksandr Sirski, deja paso a Mijailo Drapaty, que hasta ahora ocupaba también un alto cargo militar. La.",
+      "date": "2026-07-21"
+    },
+    {
+      "title": "Zelenski cesa al jefe del Ejército y lo reemplaza por el general Mijailo Drapati",
+      "summary": "El presidente de Ucrania, Volodimir Zelenski, cesó a última hora del martes como jefe del Ejército al general Oleksandr Sirski y nombró como nuevo comandante de las Fuerzas Armadas al general Mijailo Drapati, que hasta ahora dirigía las Fuerzas Conjuntas del Ejército. \"He decidido que el nuevo comandante en jefe de las.",
+      "date": "2026-07-21"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Del heroísmo a los algoritmos: Zelenski sustituye al veterano jefe del ejército por un reformista para intentar cerrar su mayor crisis interna",
+      "url": "https://amp.elmundo.es/internacional/2026/07/22/6a60f897e85ece030d8b457e.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-22T17:11:47.000Z",
+      "sourceId": "lootura-es-el-mundo"
+    }
+  ],
+  "evidenceCount": 1
+}

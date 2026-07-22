@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/alberto-nunez-feijoo/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/alberto-nunez-feijoo/index.json",
   "description": "Sigue la actividad de Alberto Núñez Feijóo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-22T17:15:40.463Z",
+  "updatedAt": "2026-07-22T21:08:41.543Z",
   "aliases": [
     "Alberto",
     "Alberto Nuñez",
@@ -30,6 +30,11 @@
     {
       "title": "Feijóo sitúa a Sánchez como \"el señor X\" de todos los casos del PSOE y promete \"una limpieza a fondo\" de las instituciones",
       "summary": "Comienza la \"cuenta atrás\" para el PP. Alberto Núñez Feijóo mira ya hacia las elecciones generales y mete la directa hacia \"el cambio\". Un cambio...",
+      "date": "2026-07-22"
+    },
+    {
+      "title": "Morant: «Feijóo está dibujando una coalición que se parece a un gobierno criminal de Hitler»",
+      "summary": "La ministra de Ciencia, Innovación y Universidades, Diana Morant , ha vaticinado que el líder del PP, Alberto Núñez Feijóo , «está dibujando» un próximo ejecutivo de coalición que se parece «cada vez más a esos gobiernos criminales como el de Hitler », en referencia al que fuera dictador alemán. En una entrevista en TV.",
       "date": "2026-07-22"
     },
     {
@@ -66,11 +71,6 @@
       "title": "El PP reduce sus beneficios a la mitad en el último año",
       "summary": "Los populares, que compraron dos sedes en Andalucía el año pasado, aumentaron su patrimonio neto de los 81 a los 90,6 millones de euros El PP de Feijóo promete una ambiciosa contrarreforma legal con recortes en derechos sociales si llega al poder El Partido Popular (PP) registró un beneficio neto acumulado de 9,6 millo.",
       "date": "2026-07-19"
-    },
-    {
-      "title": "Los candidatos del PP a las alcaldías de Castilla y León apelan a la ambición y a la cercanía",
-      "summary": "A pesar de que aún quedan casi diez meses por delante, el partido Popular dio el pistoletazo de salida paras las próximas elecciones municipales del mes de mayo de 2027. Y lo hizo con un gran acto en Santiago de Compostela, presidido por Alberto Núñez Feijóo, y que contó con la presencia de los candidatos de todas las.",
-      "date": "2026-07-18"
     }
   ],
   "sources": [
@@ -85,7 +85,13 @@
       "url": "https://elpais.com/espana/2026-07-22/ultima-hora-de-la-actualidad-politica-en-directo.html?utm_source=lootura.com",
       "publishedAt": "2026-07-22T10:20:37.000Z",
       "sourceId": "lootura-es-el-pais"
+    },
+    {
+      "title": "Morant: «Feijóo está dibujando una coalición que se parece a un gobierno criminal de Hitler»",
+      "url": "https://theobjective.com/espana/politica/2026-07-22/morant-feijoo-coalicion-gobierno-criminal-hitler/?utm_source=lootura.com",
+      "publishedAt": "2026-07-22T18:33:50.000Z",
+      "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 3
 }

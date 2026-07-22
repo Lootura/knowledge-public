@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/andy-biggs/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/andy-biggs/index.json",
   "description": "Follow Andy Biggs, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-22T17:16:02.754Z",
+  "updatedAt": "2026-07-22T21:09:05.351Z",
   "aliases": [
     "Andrew Steven Biggs",
     "Biggs"
@@ -20,13 +20,18 @@
       "date": "2026-07-22"
     },
     {
-      "title": "‘It’s a stone around your neck’: Arizona Republicans once again nominate 2020 election deniers",
-      "summary": "To make it out of a Republican primary in Arizona, there’s one key litmus test: believing the 2020 election was stolen from Donald Trump. Election deniers who played prominent roles in efforts to overturn the 2020 results triumphed in statewide Republican primaries Tuesday: Rep. Andy Biggs for governor , state Rep. Ale.",
+      "title": "Andy Biggs wins Republican nomination to challenge Democrat Katie Hobbs for Arizona governor",
+      "summary": "Biggs, a fierce ally of President Donald Trump and former head of the House Freedom Caucus, won the Republican nomination for Arizona governor Tuesday.",
       "date": "2026-07-22"
     },
     {
-      "title": "Andy Biggs wins Republican nomination to challenge Democrat Katie Hobbs for Arizona governor",
-      "summary": "Biggs, a fierce ally of President Donald Trump and former head of the House Freedom Caucus, won the Republican nomination for Arizona governor Tuesday.",
+      "title": "What to Know About Andy Biggs, the Trump-Backed Republican in Arizona’s Governor Race",
+      "summary": "Republican Rep. Andy Biggs speaks at a campaign event in Gilbert, Arizona, ahead of the state's gubernatorial primary on July 17, 2026. —Ross D. Franklin—AP Rep. Andy Biggs won the Republican nomination for governor of Arizona on Tuesday, setting up a battle between him and Democratic incumbent Gov. Katie Hobbs in one.",
+      "date": "2026-07-22"
+    },
+    {
+      "title": "‘It’s a stone around your neck’: Arizona Republicans once again nominate 2020 election deniers",
+      "summary": "To make it out of a Republican primary in Arizona, there’s one key litmus test: believing the 2020 election was stolen from Donald Trump. Election deniers who played prominent roles in efforts to overturn the 2020 results triumphed in statewide Republican primaries Tuesday: Rep. Andy Biggs for governor , state Rep. Ale.",
       "date": "2026-07-22"
     },
     {
@@ -58,10 +63,10 @@
       "sourceId": "lootura-us-pbs-newshour"
     },
     {
-      "title": "‘It’s a stone around your neck’: Arizona Republicans once again nominate 2020 election deniers",
-      "url": "https://www.politico.com/news/2026/07/22/arizona-republicans-elect-2020-deniers-trump-01007511?utm_source=lootura.com",
-      "publishedAt": "2026-07-22T05:15:06.000Z",
-      "sourceId": "lootura-us-politico"
+      "title": "What to Know About Andy Biggs, the Trump-Backed Republican in Arizona’s Governor Race",
+      "url": "https://time.com/article/2026/07/22/what-to-know-about-andy-biggs-the-trump-backed-republican-in-arizonas-governor-race/?utm_source=lootura.com",
+      "publishedAt": "2026-07-22T19:14:21.000Z",
+      "sourceId": "lootura-us-time"
     }
   ],
   "evidenceCount": 2

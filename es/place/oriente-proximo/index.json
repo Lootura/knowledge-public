@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/oriente-proximo/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/oriente-proximo/index.json",
   "description": "Sigue la actividad de Oriente Próximo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-22T17:15:40.463Z",
+  "updatedAt": "2026-07-22T21:08:41.543Z",
   "aliases": [
     "Cercano Oriente",
     "Oriente cercano",
@@ -24,6 +24,11 @@
     {
       "title": "El Ibex deja de lado la escalada del petróleo y se refugia en los resultados empresariales",
       "summary": "Con el conflicto en Oriente Próximo estancado y la amenaza de una interrupción del tráfico marítimo en el mar Rojo sobrevolando los mercados, los inversores están optando por prestar más atención a la temporada de resultados trimestrales. Las Bolsas europeas registran avances moderados pese al deterioro del contexto ge.",
+      "date": "2026-07-22"
+    },
+    {
+      "title": "El pacto nuclear de EE.UU. con Arabia Saudí hace temer una carrera atómica en Oriente Próximo",
+      "summary": "Fuentes oficiales de la Casa Blanca han filtrado a los principales medios de prensa anglosajones que el presidente Trump ha cerrado un acuerdo para compartir tecnología nuclear con Arabia Saudí. El plan, que será sometido al Congreso de Estados Unidos para su aprobación, supone un cambio de política radical al no inclu.",
       "date": "2026-07-22"
     },
     {
@@ -60,14 +65,15 @@
       "title": "Cautela en las Bolsas ante los resultados de las grandes tecnológicas y con el petróleo al alza",
       "summary": "El pesimismo en torno a las negociaciones de paz entre EE UU e Irán, después de que el presidente Donald Trump restara importancia a la posibilidad de conversaciones inmediatas con Teherán, y la creciente amenaza a los suministros energéticos de Oriente Próximo derivada de un bloqueo naval dirigido contra Arabia Saudí.",
       "date": "2026-07-22"
-    },
-    {
-      "title": "De Ormuz a los hutíes en Bab al Mandeb: el nuevo foco de la guerra en Oriente Próximo",
-      "summary": "Los rebeldes yemeníes, el principal bastión del Eje de la Resistencia iraní en la actualidad, han recrudecido su confrontación con Arabia Saudí. La ampliación del conflicto regional amenaza aún más el suministro de petróleo y el comercio internacional.",
-      "date": "2026-07-22"
     }
   ],
   "sources": [
+    {
+      "title": "El pacto nuclear de EE.UU. con Arabia Saudí hace temer una carrera atómica en Oriente Próximo",
+      "url": "https://www.abc.es/internacional/eeuu-arabia-saudi-firman-acuerdo-nuclear-despierta-20260722210722-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-22T20:28:49.000Z",
+      "sourceId": "lootura-es-abc"
+    },
     {
       "title": "El Ibex deja de lado la escalada del petróleo y se refugia en los resultados empresariales",
       "url": "https://cincodias.elpais.com/mercados-financieros/2026-07-22/la-bolsa-y-el-ibex-35.html?utm_source=lootura.com",
@@ -75,5 +81,5 @@
       "sourceId": "lootura-es-cinco-dias"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 2
 }

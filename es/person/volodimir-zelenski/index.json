@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/volodimir-zelenski/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/volodimir-zelenski/index.json",
   "description": "Sigue la actividad de Volodímir Zelenski en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-22T10:23:10.282Z",
+  "updatedAt": "2026-07-22T21:08:41.543Z",
   "aliases": [
     "President Volodymyr Oleksandrovych Zelenskyy",
     "President Volodymyr Zelenskyy",
@@ -20,6 +20,11 @@
     "Zelenski"
   ],
   "changes": [
+    {
+      "title": "Del heroísmo a los algoritmos: Zelenski sustituye al veterano jefe del ejército por un reformista para intentar cerrar su mayor crisis interna",
+      "summary": "Buscando un equilibrio que calme las calles y no le cueste más capital político, Volodimir Zelenski destituyó el martes por la noche al comandante en jefe de las Fuerzas Armadas...",
+      "date": "2026-07-22"
+    },
     {
       "title": "Zelenski destituye al jefe del Ejército ucraniano tras las protestas por el cese del ministro de Defensa",
       "summary": "El presidente ucraniano, Volodímir Zelenski, ha destituido a Oleksandr Sirski, comandante en jefe del Ejército de Ucrania. Su cargo lo ocupará el popular comandante de las fuerzas conjuntas, Mijaílo Drapati, en medio del descontento tras la salida del ministro de Defensa .«He decidido que el nuevo comandante en jefe de.",
@@ -51,6 +56,13 @@
       "date": "2026-07-16"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Del heroísmo a los algoritmos: Zelenski sustituye al veterano jefe del ejército por un reformista para intentar cerrar su mayor crisis interna",
+      "url": "https://amp.elmundo.es/internacional/2026/07/22/6a60f897e85ece030d8b457e.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-22T17:11:47.000Z",
+      "sourceId": "lootura-es-el-mundo"
+    }
+  ],
+  "evidenceCount": 1
 }

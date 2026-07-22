@@ -3,7 +3,7 @@
 > Follow Andy Biggs, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-07-22T17:16:02.754Z
+- Updated: 2026-07-22T21:09:05.351Z
 - Canonical: https://atlas.lootura.com/us/person/andy-biggs
 
 ## Recent changes
@@ -14,15 +14,21 @@ Andy Biggs first entered the public knowledge record with source-backed evidence
 
 Date: 2026-07-22
 
-### ‘It’s a stone around your neck’: Arizona Republicans once again nominate 2020 election deniers
-
-To make it out of a Republican primary in Arizona, there’s one key litmus test: believing the 2020 election was stolen from Donald Trump. Election deniers who played prominent roles in efforts to overturn the 2020 results triumphed in statewide Republican primaries Tuesday: Rep. Andy Biggs for governor , state Rep. Ale.
-
-Date: 2026-07-22
-
 ### Andy Biggs wins Republican nomination to challenge Democrat Katie Hobbs for Arizona governor
 
 Biggs, a fierce ally of President Donald Trump and former head of the House Freedom Caucus, won the Republican nomination for Arizona governor Tuesday.
+
+Date: 2026-07-22
+
+### What to Know About Andy Biggs, the Trump-Backed Republican in Arizona’s Governor Race
+
+Republican Rep. Andy Biggs speaks at a campaign event in Gilbert, Arizona, ahead of the state's gubernatorial primary on July 17, 2026. —Ross D. Franklin—AP Rep. Andy Biggs won the Republican nomination for governor of Arizona on Tuesday, setting up a battle between him and Democratic incumbent Gov. Katie Hobbs in one.
+
+Date: 2026-07-22
+
+### ‘It’s a stone around your neck’: Arizona Republicans once again nominate 2020 election deniers
+
+To make it out of a Republican primary in Arizona, there’s one key litmus test: believing the 2020 election was stolen from Donald Trump. Election deniers who played prominent roles in efforts to overturn the 2020 results triumphed in statewide Republican primaries Tuesday: Rep. Andy Biggs for governor , state Rep. Ale.
 
 Date: 2026-07-22
 
@@ -53,4 +59,4 @@ Date: 2026-07-22
 ## Sources
 
 - [Andy Biggs wins Republican nomination to challenge Democrat Katie Hobbs for Arizona governor](https://www.pbs.org/newshour/politics/andy-biggs-wins-republican-nomination-to-challenge-democrat-katie-hobbs-for-arizona-governor?utm_source=lootura.com) — 2026-07-22T14:53:48.000Z
-- [‘It’s a stone around your neck’: Arizona Republicans once again nominate 2020 election deniers](https://www.politico.com/news/2026/07/22/arizona-republicans-elect-2020-deniers-trump-01007511?utm_source=lootura.com) — 2026-07-22T05:15:06.000Z
+- [What to Know About Andy Biggs, the Trump-Backed Republican in Arizona’s Governor Race](https://time.com/article/2026/07/22/what-to-know-about-andy-biggs-the-trump-backed-republican-in-arizonas-governor-race/?utm_source=lootura.com) — 2026-07-22T19:14:21.000Z

@@ -8,17 +8,12 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/saudi-arabia/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/saudi-arabia/index.json",
   "description": "Follow Saudi Arabia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-22T17:16:02.754Z",
+  "updatedAt": "2026-07-22T21:09:05.351Z",
   "aliases": [
     "Kingdom of Saudi Arabia",
     "Saudi"
   ],
   "changes": [
-    {
-      "title": "See How Houthis Put the Red Sea at Risk as an Alternative Oil Route",
-      "summary": "Saudi Arabia has diverted huge amounts of oil to the Red Sea since the Iran war began, but now the Iranian-backed Houthi militants say that they intend to block that route.",
-      "date": "2026-07-22"
-    },
     {
       "title": "Discovered by Atlas",
       "summary": "Saudi Arabia first entered the public knowledge record with source-backed evidence.",
@@ -26,7 +21,27 @@
     },
     {
       "title": "How the Trump Administration’s Nuclear Deal With Saudi Arabia May Work",
-      "summary": "The Trump administration is expected to announce an agreement with Saudi Arabia on a civilian nuclear program. Such deals, known as 123 Agreements, are designed to prevent the development of weapons.",
+      "summary": "The Trump administration announced an agreement with Saudi Arabia on a civilian nuclear program. Such deals, known as 123 Agreements, are designed to prevent the development of weapons.",
+      "date": "2026-07-22"
+    },
+    {
+      "title": "Latest on U.S.-Saudi nuclear deal, Trump threats against Iranian infrastructure",
+      "summary": "CBS News National security analyst Aaron MacLean breaks down President Trump's threats against Iranian infrastructure and the United States' new nuclear deal with Saudi Arabia.",
+      "date": "2026-07-22"
+    },
+    {
+      "title": "Coveted U.S. Nuclear Deal Is a Coup for Saudi Crown Prince",
+      "summary": "Saudi Arabia has for years sought a deal to obtain American nuclear technology. The agreement, signed on Wednesday, could deepen U.S.-Saudi ties for decades to come.",
+      "date": "2026-07-22"
+    },
+    {
+      "title": "See How Houthis Put the Red Sea at Risk as an Alternative Oil Route",
+      "summary": "Saudi Arabia has diverted huge amounts of oil to the Red Sea since the Iran war began, but now the Iranian-backed Houthi militants say that they intend to block that route.",
+      "date": "2026-07-22"
+    },
+    {
+      "title": "See How Houthis Put the Red Sea at Risk as an Alternative Oil Route",
+      "summary": "Saudi Arabia has diverted huge amounts of oil to the Red Sea since the Iran war began, but now the Iranian-backed Houthi militants say that they intend to block that route.",
       "date": "2026-07-22"
     },
     {
@@ -42,23 +57,29 @@
   ],
   "sources": [
     {
-      "title": "See How Houthis Put the Red Sea at Risk as an Alternative Oil Route",
-      "url": "https://www.nytimes.com/2026/07/22/business/energy-environment/red-sea-saudi-arabia-houthis.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-22T12:17:51.000Z",
-      "sourceId": "lootura-us-the-new-york-times-politics"
-    },
-    {
-      "title": "How the Trump Administration’s Nuclear Deal With Saudi Arabia May Work",
-      "url": "https://www.nytimes.com/2026/07/22/world/middleeast/us-saudi-arabia-nuclear-deal-123-agreement.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-22T17:11:03.000Z",
-      "sourceId": "lootura-us-the-new-york-times-world"
+      "title": "Latest on U.S.-Saudi nuclear deal, Trump threats against Iranian infrastructure",
+      "url": "https://www.cbsnews.com/video/details-on-us-saudi-nuclear-deal-trump-threads-against-iranian-infrastructure/?utm_source=lootura.com",
+      "publishedAt": "2026-07-22T20:00:09.000Z",
+      "sourceId": "lootura-us-cbs-news"
     },
     {
       "title": "Coveted U.S. Nuclear Deal Is a Coup for Saudi Crown Prince",
       "url": "https://www.nytimes.com/2026/07/22/world/middleeast/us-saudi-arabia-nuclear-deal.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-22T14:50:07.000Z",
+      "publishedAt": "2026-07-22T20:54:10.000Z",
+      "sourceId": "lootura-us-the-new-york-times"
+    },
+    {
+      "title": "See How Houthis Put the Red Sea at Risk as an Alternative Oil Route",
+      "url": "https://www.nytimes.com/2026/07/22/business/energy-environment/red-sea-saudi-arabia-houthis.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-22T12:17:51.000Z",
+      "sourceId": "lootura-us-the-new-york-times"
+    },
+    {
+      "title": "How the Trump Administration’s Nuclear Deal With Saudi Arabia May Work",
+      "url": "https://www.nytimes.com/2026/07/22/world/middleeast/us-saudi-arabia-nuclear-deal-123-agreement.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-22T20:43:49.000Z",
       "sourceId": "lootura-us-the-new-york-times-world"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 4
 }

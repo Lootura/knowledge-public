@@ -70,4 +70,4 @@ Date: 2026-07-17
 
 ## Sources
 
-- [Smithsonian too focused on 'oppressors and the oppressed,' say House Republicans](https://www.npr.org/2026/07/21/nx-s1-5902101/smithsonian-house-hearing?utm_source=lootura.com) — 2026-07-21T21:41:25.000Z
+No public source links.

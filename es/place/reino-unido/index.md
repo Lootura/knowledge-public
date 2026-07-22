@@ -3,10 +3,16 @@
 > Sigue la actividad de Reino Unido de Gran Bretaña e Irlanda del Norte en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-22T13:46:22.256Z
+- Actualizado: 2026-07-22T21:08:41.543Z
 - Canonical: https://atlas.lootura.com/es/place/reino-unido
 
 ## Cambios recientes
+
+### Un 50% menos de combustible y 9200 km de autonomía: así es el primer avión a reacción de ala integrada del mundo
+
+El mundo de la aviación comercial podría estar a las puertas de su cambio más radical en décadas. Durante el reciente Salón Aeronáutico de Farnborough, en el Reino Unido, la startup estadounidense JetZero presentó oficialmente el Z4 , un avión que promete ser un punto de inflexión . Su gran baza es un diseño de ala int.
+
+Date: 2026-07-22
 
 ### Nuevos Samsung Galaxy Watch9 y Watch Ultra2: la IA toma también tu muñeca, ahora para ayudarte a cuidar al máximo tu cuerpo y tu salud
 
@@ -62,12 +68,6 @@ Es probable que el nombre de Peter Hennessy no signifique mucho para quien vive 
 
 Date: 2026-07-20
 
-### Letterone paraliza nuevas inversiones en Europa, EE UU y Reino Unido mientras sigan las sanciones a Fridman y Aven
-
-Letterone, el grupo inversor propietario de la cadena española de supermercados Dia, mejoró en 2025 tanto los resultados como el valor de sus activos bajo gestión , pero dice seguir arrastrando las consecuencias de las sanciones a dos de sus principales accionistas, Mijail Fridman y Petr Aven, tras entrar en las listas.
-
-Date: 2026-07-20
-
 ## Fuentes
 
-No public source links.
+- [Un 50% menos de combustible y 9200 km de autonomía: así es el primer avión a reacción de ala integrada del mundo](https://www.larazon.es/tecnologia-consumo/50-menos-combustible-9200-km-autonomia-asi-es-primer-avion-reaccion-ala-integrada-mundo_202607226a6070f54687a22bdec6fd24.html?utm_source=lootura.com) — 2026-07-22T21:00:00.000Z

@@ -3,7 +3,7 @@
 > Sigue la actividad de La Mierla en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-22T17:15:40.463Z
+- Actualizado: 2026-07-22T21:08:41.543Z
 - Canonical: https://atlas.lootura.com/es/place/la-mierla
 
 ## Cambios recientes

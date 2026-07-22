@@ -3,40 +3,10 @@
 > Follow Donald Trump, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-07-22T17:16:02.754Z
+- Updated: 2026-07-22T21:09:05.351Z
 - Canonical: https://atlas.lootura.com/us/person/donald-trump
 
 ## Recent changes
-
-### Funding milestone detected
-
-Funding cuts and program changes required by President Trump's big budget law are forcing states to rethink bipartisan efforts to bring Medicaid into jails and prisons. (Image credit: Ramon Dompor for Tradeoffs).
-
-Date: 2026-07-22
-
-### Trump-backed candidates, 2020 election deniers, win Arizona primaries
-
-The primaries set the field for what are expected to be heated contests for Congress and governor in a swing state this fall. (Image credit: Ross D. Franklin).
-
-Date: 2026-07-22
-
-### Trump has campaigned more so far in 2026 midterms than he did at this point in 2018
-
-Heading to Georgia on Wednesday, President Trump is campaigning more often this year than he did in the same period for 2018 and has already rallied for a dozen candidates in toss-up races. (Image credit: Roberto Schmidt).
-
-Date: 2026-07-22
-
-### Laredo’s Future Rides on Trump’s Next Trade Move
-
-The economy of Laredo, Texas, has boomed under the president’s global tariffs. Now, his demands may threaten its success.
-
-Date: 2026-07-22
-
-### ‘It’s a stone around your neck’: Arizona Republicans once again nominate 2020 election deniers
-
-To make it out of a Republican primary in Arizona, there’s one key litmus test: believing the 2020 election was stolen from Donald Trump. Election deniers who played prominent roles in efforts to overturn the 2020 results triumphed in statewide Republican primaries Tuesday: Rep. Andy Biggs for governor , state Rep. Ale.
-
-Date: 2026-07-22
 
 ### Arizona Elections: 6 Takeaways From the Trump-Dominated Primaries
 
@@ -68,15 +38,45 @@ Biggs, a fierce ally of President Donald Trump and former head of the House Free
 
 Date: 2026-07-22
 
+### Trump will attend the dignified transfer of 4 U.S. service members killed in the Middle East
+
+The ritual is one of the most somber duties of a commander-in-chief.
+
+Date: 2026-07-22
+
+### Rubio and Chinese Diplomat Make Plans for Trump and Xi’s Washington Summit
+
+Secretary of State Marco Rubio spent much of a meeting with China’s foreign minister discussing the summit, but did not bring up President Trump’s claims of election interference by China.
+
+Date: 2026-07-22
+
+### How the Trump Administration’s Nuclear Deal With Saudi Arabia May Work
+
+The Trump administration announced an agreement with Saudi Arabia on a civilian nuclear program. Such deals, known as 123 Agreements, are designed to prevent the development of weapons.
+
+Date: 2026-07-22
+
+### Latest on U.S.-Saudi nuclear deal, Trump threats against Iranian infrastructure
+
+CBS News National security analyst Aaron MacLean breaks down President Trump's threats against Iranian infrastructure and the United States' new nuclear deal with Saudi Arabia.
+
+Date: 2026-07-22
+
+### Trump speaks at Georgia high school after attending dignified transfer
+
+President Trump spoke at a high school in Marietta, Georgia, on Wednesday, after attending a dignified transfer for four U.S. troops killed in the Middle East. CBS News congressional reporter Taurean Small has the latest.
+
+Date: 2026-07-22
+
 ## Sources
 
+- [Latest on U.S.-Saudi nuclear deal, Trump threats against Iranian infrastructure](https://www.cbsnews.com/video/details-on-us-saudi-nuclear-deal-trump-threads-against-iranian-infrastructure/?utm_source=lootura.com) — 2026-07-22T20:00:09.000Z
 - [Watch: Sen. Bennet rails against trade chief for Trump policy's impact on farmers](https://www.cbsnews.com/video/sen-bennet-and-jamieson-greer-clash-over-trump-policy-impacts-on-farmers/?utm_source=lootura.com) — 2026-07-22T16:51:14.000Z
 - [Trump threatens to attack Iran's infrastructure over Strait of Hormuz](https://www.cbsnews.com/video/trump-threatens-attack-iran-infrastructure-over-strait-of-hormuz/?utm_source=lootura.com) — 2026-07-22T16:44:35.000Z
-- [States want to bring Medicaid behind bars. Federal changes make that harder](https://www.npr.org/2026/07/22/nx-s1-5896456/medicaid-cuts-incarceration-states-obbba?utm_source=lootura.com) — 2026-07-22T09:00:00.000Z
-- [Trump-backed candidates, 2020 election deniers, win Arizona primaries](https://www.npr.org/2026/07/22/nx-s1-5902198/arizona-primary-results-trump-elections-biggs?utm_source=lootura.com) — 2026-07-22T08:33:21.000Z
-- [Trump has campaigned more so far in 2026 midterms than he did at this point in 2018](https://www.npr.org/2026/07/22/nx-s1-5887428/2026-midterm-election-trump-campaign-rally?utm_source=lootura.com) — 2026-07-22T09:00:00.000Z
+- [Trump speaks at Georgia high school after attending dignified transfer](https://www.cbsnews.com/video/trump-speaks-at-georgia-high-school-after-attending-dignified-transfer/?utm_source=lootura.com) — 2026-07-22T20:31:04.000Z
+- [Trump escalates threats on Iran as he attends dignified transfer of fallen soldiers](https://www.nbcnews.com/meet-the-press/video/trump-escalates-threats-on-iran-as-he-attends-dignified-transfer-of-fallen-soldiers-267117637561?utm_source=lootura.com) — 2026-07-22T20:33:16.000Z
+- [Trump says U.S. will destroy a bridge or power plant for each Iranian attack in the Strait of Hormuz](https://www.pbs.org/newshour/world/trump-says-u-s-will-destroy-a-bridge-or-power-plant-for-each-iranian-attack-in-the-strait-of-hormuz?utm_source=lootura.com) — 2026-07-22T19:42:53.000Z
 - [Andy Biggs wins Republican nomination to challenge Democrat Katie Hobbs for Arizona governor](https://www.pbs.org/newshour/politics/andy-biggs-wins-republican-nomination-to-challenge-democrat-katie-hobbs-for-arizona-governor?utm_source=lootura.com) — 2026-07-22T14:53:48.000Z
 - [Trump will attend the dignified transfer of 4 U.S. service members killed in the Middle East](https://www.pbs.org/newshour/world/trump-will-attend-the-dignified-transfer-of-4-u-s-service-members-killed-in-the-middle-east?utm_source=lootura.com) — 2026-07-22T14:27:14.000Z
-- [‘It’s a stone around your neck’: Arizona Republicans once again nominate 2020 election deniers](https://www.politico.com/news/2026/07/22/arizona-republicans-elect-2020-deniers-trump-01007511?utm_source=lootura.com) — 2026-07-22T05:15:06.000Z
-- [Arizona Elections: 6 Takeaways From the Trump-Dominated Primaries](https://www.nytimes.com/2026/07/22/us/politics/arizona-primary-takeaways.html?utm_source=lootura.com) — 2026-07-22T09:17:02.000Z
-- [Rubio and Chinese Diplomat Make Plans for Trump and Xi’s Washington Summit](https://www.nytimes.com/2026/07/22/us/politics/trump-xi-rubio-manila-china.html?utm_source=lootura.com) — 2026-07-22T16:23:06.000Z
+- [US House passes $1.15tn defense policy bill in near party-line vote](https://www.theguardian.com/us-news/2026/jul/22/us-house-defense-bill-iran-war?utm_source=lootura.com) — 2026-07-22T20:44:08.000Z
+- [Laredo’s Future Rides on Trump’s Next Trade Move](https://www.nytimes.com/2026/07/22/business/economy/trump-tariffs-laredo-trade-mexico.html?utm_source=lootura.com) — 2026-07-22T19:20:35.000Z

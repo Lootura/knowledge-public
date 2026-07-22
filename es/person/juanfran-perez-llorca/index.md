@@ -3,16 +3,10 @@
 > Sigue la actividad de Juanfran Pérez Llorca en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-22T17:15:40.463Z
+- Actualizado: 2026-07-22T21:08:41.543Z
 - Canonical: https://atlas.lootura.com/es/person/juanfran-perez-llorca
 
 ## Cambios recientes
-
-### Diana Morant acusa a Pérez Llorca de convertir «el apartheid en ley» con sus presupuestos
-
-La secretaria general del PSPV-PSOE y ministra de Ciencia, Innovación y Universidades, Diana Morant , ha acusado al president de la Generalitat, Juanfran Pérez Llorca, de haber «convertido el apartheid en ley» con los presupuestos de la Generalitat de 2026 que el PP ha aprobado este miércoles con el apoyo de Vox , a su.
-
-Date: 2026-07-22
 
 ### Discovered by Atlas
 
@@ -23,6 +17,12 @@ Date: 2026-07-22
 ### La china Geely llega a un acuerdo con Ford para producir coches en su fábrica de Almussafes
 
 El presidente de Ford Europa, Jim Baumbick, oficializará el anuncio este jueves, en presencia de Pedro Sánchez y Juanfran Pérez Llorca, para garantizar la supervivencia de la planta valenciana Leer.
+
+Date: 2026-07-22
+
+### Diana Morant acusa a Pérez Llorca de convertir «el apartheid en ley» con sus presupuestos
+
+La secretaria general del PSPV-PSOE y ministra de Ciencia, Innovación y Universidades, Diana Morant , ha acusado al president de la Generalitat, Juanfran Pérez Llorca, de haber «convertido el apartheid en ley» con los presupuestos de la Generalitat de 2026 que el PP ha aprobado este miércoles con el apoyo de Vox , a su.
 
 Date: 2026-07-22
 
@@ -41,4 +41,3 @@ Date: 2026-07-22
 ## Fuentes
 
 - [La china Geely llega a un acuerdo con Ford para producir coches en su fábrica de Almussafes](https://www.elmundo.es/economia/empresas/2026/07/22/6a60c041fdddff05188b4581.html?utm_source=lootura.com) — 2026-07-22T16:55:15.000Z
-- [Diana Morant acusa a Pérez Llorca de convertir «el apartheid en ley» con sus presupuestos](https://theobjective.com/espana/politica/2026-07-22/diana-morant-perez-llorca-apartheid-ley-presupuestos/?utm_source=lootura.com) — 2026-07-22T13:00:18.000Z

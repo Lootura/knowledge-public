@@ -3,7 +3,7 @@
 > Sigue la actividad de Alberto Núñez Feijóo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-22T17:15:40.463Z
+- Actualizado: 2026-07-22T21:08:41.543Z
 - Canonical: https://atlas.lootura.com/es/person/alberto-nunez-feijoo
 
 ## Cambios recientes
@@ -17,6 +17,12 @@ Date: 2026-07-22
 ### Feijóo sitúa a Sánchez como "el señor X" de todos los casos del PSOE y promete "una limpieza a fondo" de las instituciones
 
 Comienza la "cuenta atrás" para el PP. Alberto Núñez Feijóo mira ya hacia las elecciones generales y mete la directa hacia "el cambio". Un cambio...
+
+Date: 2026-07-22
+
+### Morant: «Feijóo está dibujando una coalición que se parece a un gobierno criminal de Hitler»
+
+La ministra de Ciencia, Innovación y Universidades, Diana Morant , ha vaticinado que el líder del PP, Alberto Núñez Feijóo , «está dibujando» un próximo ejecutivo de coalición que se parece «cada vez más a esos gobiernos criminales como el de Hitler », en referencia al que fuera dictador alemán. En una entrevista en TV.
 
 Date: 2026-07-22
 
@@ -62,13 +68,8 @@ Los populares, que compraron dos sedes en Andalucía el año pasado, aumentaron 
 
 Date: 2026-07-19
 
-### Los candidatos del PP a las alcaldías de Castilla y León apelan a la ambición y a la cercanía
-
-A pesar de que aún quedan casi diez meses por delante, el partido Popular dio el pistoletazo de salida paras las próximas elecciones municipales del mes de mayo de 2027. Y lo hizo con un gran acto en Santiago de Compostela, presidido por Alberto Núñez Feijóo, y que contó con la presencia de los candidatos de todas las.
-
-Date: 2026-07-18
-
 ## Fuentes
 
 - [Feijóo sitúa a Sánchez como "el señor X" de todos los casos del PSOE y promete "una limpieza a fondo" de las instituciones](https://amp.elmundo.es/espana/2026/07/22/6a609c9be85ecedc108b4578.html?utm_source=lootura.com) — 2026-07-22T10:46:17.000Z
 - [Última hora de la actualidad política, en directo | Feijóo hace balance del curso político y de la legislatura](https://elpais.com/espana/2026-07-22/ultima-hora-de-la-actualidad-politica-en-directo.html?utm_source=lootura.com) — 2026-07-22T10:20:37.000Z
+- [Morant: «Feijóo está dibujando una coalición que se parece a un gobierno criminal de Hitler»](https://theobjective.com/espana/politica/2026-07-22/morant-feijoo-coalicion-gobierno-criminal-hitler/?utm_source=lootura.com) — 2026-07-22T18:33:50.000Z

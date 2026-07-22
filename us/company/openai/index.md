@@ -3,7 +3,7 @@
 > Follow OpenAI, a tracked company, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: company
-- Updated: 2026-07-22T17:16:02.754Z
+- Updated: 2026-07-22T21:09:05.351Z
 - Canonical: https://atlas.lootura.com/us/company/openai
 
 ## Recent changes
@@ -22,4 +22,4 @@ Date: 2026-07-22
 
 ## Sources
 
-- [Google Releases Three New Gemini A.I. Models](https://www.nytimes.com/2026/07/21/technology/google-ai-cybersecurity-gemini.html?utm_source=lootura.com) — 2026-07-21T19:38:58.000Z
+- [ChatGPT's medical advice nearly killed a man, lawsuit claims](https://www.cbsnews.com/news/chatgpt-dangerous-medical-advice-openai-lawsuit/?utm_source=lootura.com) — 2026-07-22T20:45:33.000Z

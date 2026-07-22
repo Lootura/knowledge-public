@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/psoe/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/psoe/index.json",
   "description": "Sigue la actividad de Partido Socialista Obrero Español en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-22T17:15:40.463Z",
+  "updatedAt": "2026-07-22T21:08:41.543Z",
   "aliases": [
     "Grupo Socialista",
     "PSOE",
@@ -37,6 +37,21 @@
       "date": "2026-07-22"
     },
     {
+      "title": "Narbona niega haber promocionado a Leire Díez: “Yo no soy la madrina de nadie”",
+      "summary": "Leire Díez se ha convertido en una bomba política de efectos retardados que le ha servido al PP de excusa para forzar la comparecencia de Cristina Narbona en el Senado. La presidenta del PSOE ha negado que conociera la presunta trama orquestada por la exmilitante socialista con Santos Cerdán para desestabilizar causas.",
+      "date": "2026-07-22"
+    },
+    {
+      "title": "PSOE y Sumar pactan blindar el precio de los alquileres hasta julio de 2028 en un decreto que debe convencer a PNV y Junts",
+      "summary": "El texto, que se aprobará el próximo martes en el último Consejo de Ministros del curso, beneficiará a casi cuatro millones de personas y contempla también subir el IVA de los pisos turísticos hasta el 21% Leer.",
+      "date": "2026-07-22"
+    },
+    {
+      "title": "Junts cuestiona el borrador del decreto de vivienda por no incluir sus medidas fiscales y 'antiokupas'",
+      "summary": "Tras revisar el texto, la formación no ve incluidas sus medidas para degravar a inquilinos e hipotecados PSOE y Sumar pactan que el decreto de vivienda incluya una prórroga de los alquileres hasta julio de 2028 Después de las críticas de Podemos y del PNV a varios puntos del decreto de vivienda pactado por PSOE y Sumar.",
+      "date": "2026-07-22"
+    },
+    {
       "title": "PSOE y Sumar pactan una prórroga para los alquileres que venzan antes de julio de 2028",
       "summary": "Los socios del Gobierno de coalición —PSOE y Sumar— han llegado a un acuerdo para incluir en el decreto de vivienda que aprobará el próximo 28 de julio el Consejo de Ministros una nueva prórroga extraordinaria de dos años para los contratos de alquiler que venzan antes del 30 de junio de 2028. Según cuentan fuentes de.",
       "date": "2026-07-22"
@@ -52,32 +67,17 @@
       "date": "2026-07-22"
     },
     {
-      "title": "Narbona niega haber promocionado a Leire Díez: “Yo no soy la madrina de nadie”",
-      "summary": "Leire Díez se ha convertido en una bomba política de efectos retardados que le ha servido al PP de excusa para forzar la comparecencia de Cristina Narbona en el Senado. La presidenta del PSOE ha negado que conociera la presunta trama orquestada por la exmilitante socialista con Santos Cerdán para desestabilizar causas.",
-      "date": "2026-07-22"
-    },
-    {
       "title": "PSOE y Sumar pactan congelar el precio de los alquileres hasta julio de 2028",
       "summary": "Los socios de gobierno, PSOE y Sumar, han acordado incluir en el nuevo decreto de vivienda una congelación del precio de los alquileres a la que se podrán acoger aquellos cuyo contrato venza antes de julio de 2028. Según han confirmado este miércoles fuentes del socio minoritario de la coalición, tras el pacto en el se.",
-      "date": "2026-07-22"
-    },
-    {
-      "title": "La Audiencia Provincial respalda al juez Zamarriego y rechaza que Aldama se persone en el \"caso Leire\"",
-      "summary": "La Audiencia Provincial de Madrid ha ratificado la decisión del juez Arturo Zamarriego de negar a Víctor de Aldama ejercer la acusación particular, en calidad de perjudicado, en la investigación a Leire Díez por las «cloacas del PSOE» (procedimiento del que el juez de la Audiencia Nacional Santiago Pedraz le ha pedido.",
-      "date": "2026-07-22"
-    },
-    {
-      "title": "La nueva dimensión del ‘caso Zapatero’ no mueve al Gobierno mientras el expresidente mantiene su silencio",
-      "summary": "El caso Zapatero ha entrado en una nueva dimensión. Y cada vez peor para él mismo, para el PSOE y para el Gobierno. Su hasta ahora amigo Julio Martínez Martínez, a quien el juez ha presentado como un “correveidile” del expresidente, ha dado el paso que tanto se temía desde hace semanas en las filas socialistas: ha desm.",
       "date": "2026-07-22"
     }
   ],
   "sources": [
     {
-      "title": "Narbona se agarra al legado de Zapatero, pero solo pone la mano en el fuego por Sánchez",
-      "url": "https://www.abc.es/espana/cristina-narbona-niega-madrina-leire-diez-reitera-20260722122958-nt.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-22T16:33:00.000Z",
-      "sourceId": "lootura-es-abc"
+      "title": "PSOE y Sumar pactan blindar el precio de los alquileres hasta julio de 2028 en un decreto que debe convencer a PNV y Junts",
+      "url": "https://www.elmundo.es/economia/vivienda/2026/07/22/6a60f8c7fdddff0f798b4585.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-22T18:31:06.000Z",
+      "sourceId": "lootura-es-el-mundo"
     },
     {
       "title": "Narbona afirma que Sánchez \"ha asumido la responsabilidad política\" por los casos de corrupción y defiende a Zapatero \"por su enorme legado\"",
@@ -104,29 +104,11 @@
       "sourceId": "lootura-es-el-pais"
     },
     {
-      "title": "PSOE y Sumar pactan congelar el precio de los alquileres hasta julio de 2028",
-      "url": "https://elpais.com/espana/2026-07-22/sumar-anuncia-un-acuerdo-con-el-psoe-para-prorrogar-los-alquileres-hasta-junio-de-2028.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-22T12:13:52.000Z",
-      "sourceId": "lootura-es-el-pais"
-    },
-    {
-      "title": "La Audiencia Provincial respalda al juez Zamarriego y rechaza que Aldama se persone en el \"caso Leire\"",
-      "url": "https://www.larazon.es/espana/audiencia-provincial-respalda-juez-zamarriego-rechaza-que-aldama-persone-causa-cloacas-psoe_202607226a60f7b7da3add27d4dc53f9.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-22T17:11:28.000Z",
-      "sourceId": "lootura-es-la-razon"
-    },
-    {
-      "title": "PSOE y Sumar pactan una prórroga para los alquileres que venzan antes de julio de 2028",
-      "url": "https://theobjective.com/espana/politica/2026-07-22/psoe-sumar-prorroga-alquileres-julio-2028/?utm_source=lootura.com",
-      "publishedAt": "2026-07-22T13:32:36.000Z",
-      "sourceId": "lootura-es-the-objective"
-    },
-    {
-      "title": "Diana Morant acusa a Pérez Llorca de convertir «el apartheid en ley» con sus presupuestos",
-      "url": "https://theobjective.com/espana/politica/2026-07-22/diana-morant-perez-llorca-apartheid-ley-presupuestos/?utm_source=lootura.com",
-      "publishedAt": "2026-07-22T13:00:18.000Z",
-      "sourceId": "lootura-es-the-objective"
+      "title": "Junts cuestiona el borrador del decreto de vivienda por no incluir sus medidas fiscales y 'antiokupas'",
+      "url": "https://www.eldiario.es/politica/junts-cuestiona-borrador-decreto-vivienda-no-incluir-medidas-fiscales-antiokupas_1_13400181.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-22T18:16:34.000Z",
+      "sourceId": "lootura-es-eldiario-es"
     }
   ],
-  "evidenceCount": 9
+  "evidenceCount": 6
 }

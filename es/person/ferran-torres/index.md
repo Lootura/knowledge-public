@@ -3,10 +3,16 @@
 > Sigue la actividad de "El Tiburón" en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-22T17:15:40.463Z
+- Actualizado: 2026-07-22T21:08:41.543Z
 - Canonical: https://atlas.lootura.com/es/person/ferran-torres
 
 ## Cambios recientes
+
+### Linchamiento en redes a Rodri por su «viva España, viva el Rey»
+
+Aparece vandalizado el mural homenaje en Barcelona a Ferran Torres, otro de los campeones vilipendiado por 'haters' por cuestiones de oportunismo político.
+
+Date: 2026-07-22
 
 ### Todos quieren emparejar a Ferran Torres, el soltero de oro de los campeones
 
@@ -64,4 +70,4 @@ Date: 2026-07-19
 
 ## Fuentes
 
-- [Todos quieren emparejar a Ferran Torres, el soltero de oro de los campeones](https://www.abc.es/gente/quieren-emparejar-ferran-torres-20260722163327-nt.html?utm_source=lootura.com) — 2026-07-22T16:49:11.000Z
+- [Linchamiento en redes a Rodri por su «viva España, viva el Rey»](https://www.abc.es/deportes/futbol/mundial/linchamiento-redes-rodri-viva-espana-viva-rey-20260722192643-nt_amp.html?utm_source=lootura.com) — 2026-07-22T17:26:43.000Z

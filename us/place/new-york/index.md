@@ -3,10 +3,16 @@
 > Follow New York City, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-22T17:16:02.754Z
+- Updated: 2026-07-22T21:09:05.351Z
 - Canonical: https://atlas.lootura.com/us/place/new-york
 
 ## Recent changes
+
+### Mamdani says NYC can't arrest Netanyahu but the federal government should
+
+New York Mayor Zohran Mamdani said late Tuesday that the city would not be able to execute an arrest warrant issued by the world's top war-crimes court for Israel's Benjamin Netanyahu, but urged the federal government to do so.
+
+Date: 2026-07-22
 
 ### Mamdani says New York City can't arrest Netanyahu but the federal government should
 
@@ -62,12 +68,6 @@ Longtime leaders and advocates in minority districts fear that victories by the 
 
 Date: 2026-07-19
 
-### Face the Nation: Hochul, Homan, Moynihan
-
-Missed the second half of the show? New York Gov. Kathy Hochul, White House border czar Tom Homan and Bank of America CEO Brian Moynihan join the show.
-
-Date: 2026-07-19
-
 ## Sources
 
-- [Mamdani says New York City can't arrest Netanyahu but the federal government should](https://www.npr.org/2026/07/22/g-s1-134880/mamdani-nyc-netanyahu?utm_source=lootura.com) — 2026-07-22T06:04:29.000Z
+- [Mamdani says NYC can't arrest Netanyahu but the federal government should](https://www.pbs.org/newshour/world/mamdani-says-nyc-cant-arrest-netanyahu-but-the-federal-government-should?utm_source=lootura.com) — 2026-07-22T20:49:55.000Z

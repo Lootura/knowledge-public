@@ -3,10 +3,16 @@
 > Sigue la actividad de Apple en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: company
-- Actualizado: 2026-07-22T17:15:40.463Z
+- Actualizado: 2026-07-22T21:08:41.543Z
 - Canonical: https://atlas.lootura.com/es/company/apple
 
 ## Cambios recientes
+
+### Galaxy Watch Ultra 2 vs. Apple Watch Ultra 3: ¿cuál es mejor?
+
+Samsung ha renovado su gama de relojes inteligentes con el lanzamiento de los Galaxy Watch Ultra 2 y Galaxy Watch 9 . Ambos relojes llegan con hardware actualizado y nuevas funciones que sacan el provecho a los sensores para medir cuestiones como la actividad física, sueño y más. De los dos, el Galaxy Watch Ultra 2 es.
+
+Date: 2026-07-22
 
 ### Adiós a comprar el iPhone de contado: Apple quiere que lo pagues como un coche con este nuevo programa
 
@@ -62,12 +68,7 @@ Malas noticias para los usuarios de Apple Music : desde hoy, el servicio es más
 
 Date: 2026-07-17
 
-### Apple envía cartas de advertencia a decenas de exempleados que ahora trabajan en OpenAI
-
-Apple ha decidido llevar su disputa legal con OpenAI a un terreno mucho más personal. El gigante tecnológico envió cartas de advertencia a decenas de extrabajadores que hoy forman parte de la plantilla de la empresa de IA. La medida llega a unos días de que Apple presentara una demanda en la que acusa a OpenAI de robar.
-
-Date: 2026-07-17
-
 ## Fuentes
 
 - [Apple acelera la renovación total de los Mac, comenzando con el iMac y el MacBook Pro](https://hipertextual.com/apple/apple-acelera-la-renovacion-total-de-los-mac-comenzando-con-el-imac-y-el-macbook-pro/?utm_source=lootura.com) — 2026-07-22T16:00:25.000Z
+- [Galaxy Watch Ultra 2 vs. Apple Watch Ultra 3: ¿cuál es mejor?](https://hipertextual.com/mobile/galaxy-watch-ultra-2-vs-apple-watch-ultra-3-comparativa/?utm_source=lootura.com) — 2026-07-22T18:13:44.000Z

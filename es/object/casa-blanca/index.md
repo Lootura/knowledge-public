@@ -3,10 +3,22 @@
 > Sigue la actividad de mansión exclusiva en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: object
-- Actualizado: 2026-07-22T17:15:40.463Z
+- Actualizado: 2026-07-22T21:08:41.543Z
 - Canonical: https://atlas.lootura.com/es/object/casa-blanca
 
 ## Cambios recientes
+
+### El pacto nuclear de EE.UU. con Arabia Saudí hace temer una carrera atómica en Oriente Próximo
+
+Fuentes oficiales de la Casa Blanca han filtrado a los principales medios de prensa anglosajones que el presidente Trump ha cerrado un acuerdo para compartir tecnología nuclear con Arabia Saudí. El plan, que será sometido al Congreso de Estados Unidos para su aprobación, supone un cambio de política radical al no inclu.
+
+Date: 2026-07-22
+
+### Trump autoriza un pacto nuclear que permitirá a Arabia Saudí enriquecer uranio
+
+De las muchas justificaciones que Donald Trump ha dado en casi cinco meses para su guerra en Irán , la de impedir que el régimen de los ayatolás continúe con su programa nuclear y pueda acabar teniendo la bomba atómica es la que ha acabado cristalizando en el argumentario de la Casa Blanca y sus aliados. El presidente.
+
+Date: 2026-07-22
 
 ### Hegseth eleva el coste de la guerra con Irán y pide financiación adicional «urgente»
 
@@ -56,12 +68,7 @@ Donald Trump dio marcha atrás este martes en su intención repentina de cobrar 
 
 Date: 2026-07-14
 
-### Trump da marcha atrás: sustituirá su peaje del 20% en Ormuz por acuerdos comerciales en el Golfo
-
-La espectacular escalada de precios de petróleo registrada este lunes, hasta sus mayores cotas en el último mes, ha llevado este martes al presidente de Estados Unidos, Donald Trump, a protagonizar una de sus famosas marchas atrás. El inquilino de la Casa Blanca ha anunciado que finalmente sustituirá el peaje del 20% q.
-
-Date: 2026-07-14
-
 ## Fuentes
 
-- [Hegseth eleva el coste de la guerra con Irán y pide financiación adicional «urgente»](https://www.abc.es/internacional/hegseth-eleva-coste-guerra-iran-pide-financiacion-20260722105133-nt.html?utm_source=lootura.com) — 2026-07-22T16:40:19.000Z
+- [El pacto nuclear de EE.UU. con Arabia Saudí hace temer una carrera atómica en Oriente Próximo](https://www.abc.es/internacional/eeuu-arabia-saudi-firman-acuerdo-nuclear-despierta-20260722210722-nt.html?utm_source=lootura.com) — 2026-07-22T20:28:49.000Z
+- [Trump autoriza un pacto nuclear que permitirá a Arabia Saudí enriquecer uranio](https://elpais.com/internacional/2026-07-22/trump-autoriza-un-pacto-nuclear-que-permitira-a-arabia-saudi-enriquecer-uranio.html?utm_source=lootura.com) — 2026-07-22T19:34:04.000Z

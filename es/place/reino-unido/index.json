@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/reino-unido/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/reino-unido/index.json",
   "description": "Sigue la actividad de Reino Unido de Gran Bretaña e Irlanda del Norte en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-22T13:46:22.256Z",
+  "updatedAt": "2026-07-22T21:08:41.543Z",
   "aliases": [
     "G B",
     "Great Britain",
@@ -22,6 +22,11 @@
     "the United Kingdom of Great Britain and Northern Ireland"
   ],
   "changes": [
+    {
+      "title": "Un 50% menos de combustible y 9200 km de autonomía: así es el primer avión a reacción de ala integrada del mundo",
+      "summary": "El mundo de la aviación comercial podría estar a las puertas de su cambio más radical en décadas. Durante el reciente Salón Aeronáutico de Farnborough, en el Reino Unido, la startup estadounidense JetZero presentó oficialmente el Z4 , un avión que promete ser un punto de inflexión . Su gran baza es un diseño de ala int.",
+      "date": "2026-07-22"
+    },
     {
       "title": "Nuevos Samsung Galaxy Watch9 y Watch Ultra2: la IA toma también tu muñeca, ahora para ayudarte a cuidar al máximo tu cuerpo y tu salud",
       "summary": "Fiel a su cita con las presentaciones veraniegas, esta vez Samsung ha vuelto a convocar a toda la atención mediática de la industria para un interesantísimo Galaxy Unpacked 2026 celebrado en Londres. Allí, en la capital del Reino Unido, la empresa surcoreana nos ha enseñado no sólo a los nuevos Galaxy Z Fold8 , Fold8 U.",
@@ -66,13 +71,15 @@
       "title": "El arte de saber cuándo retirarse",
       "summary": "Es probable que el nombre de Peter Hennessy no signifique mucho para quien vive fuera de Reino Unido, pero en el país, este lord de 79 años es un célebre historiador político cuyos numerosos admiradores lo consideran una institución nacional. Seguir leyendo.",
       "date": "2026-07-20"
-    },
-    {
-      "title": "Letterone paraliza nuevas inversiones en Europa, EE UU y Reino Unido mientras sigan las sanciones a Fridman y Aven",
-      "summary": "Letterone, el grupo inversor propietario de la cadena española de supermercados Dia, mejoró en 2025 tanto los resultados como el valor de sus activos bajo gestión , pero dice seguir arrastrando las consecuencias de las sanciones a dos de sus principales accionistas, Mijail Fridman y Petr Aven, tras entrar en las listas.",
-      "date": "2026-07-20"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Un 50% menos de combustible y 9200 km de autonomía: así es el primer avión a reacción de ala integrada del mundo",
+      "url": "https://www.larazon.es/tecnologia-consumo/50-menos-combustible-9200-km-autonomia-asi-es-primer-avion-reaccion-ala-integrada-mundo_202607226a6070f54687a22bdec6fd24.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-22T21:00:00.000Z",
+      "sourceId": "lootura-es-la-razon"
+    }
+  ],
+  "evidenceCount": 1
 }

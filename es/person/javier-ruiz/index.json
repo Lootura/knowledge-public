@@ -1,0 +1,45 @@
+{
+  "id": "es-javier-ruiz",
+  "name": "Javier Ruiz",
+  "type": "person",
+  "locale": "es",
+  "canonicalPath": "/es/person/javier-ruiz",
+  "canonicalUrl": "https://atlas.lootura.com/es/person/javier-ruiz",
+  "markdownUrl": "https://atlas.lootura.com/es/person/javier-ruiz/index.md",
+  "jsonUrl": "https://atlas.lootura.com/es/person/javier-ruiz/index.json",
+  "description": "Sigue la actividad de Javier Ruiz en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
+  "updatedAt": "2026-07-22T21:08:41.543Z",
+  "aliases": [],
+  "changes": [
+    {
+      "title": "El expresidente dará su primera entrevista en TVE con Javier Ruiz para replicar a su presunto testaferro y hablar de las joyas",
+      "summary": "El expresidente del Gobierno José Luis Rodríguez Zapatero será entrevistado este jueves en Mañaneros 360 de TVE , según ha informado la cadena. Zapatero estará en el plató del programa de actualidad de La 1 a partir de las 13.00 horas y la entrevista correrá a cargo del copresentador del programa, Javier Ruiz. Se trata.",
+      "date": "2026-07-22"
+    },
+    {
+      "title": "Zapatero romperá su silencio este jueves en TVE en su primera entrevista tras la imputación",
+      "summary": "El expresidente del Gobierno José Luis Rodríguez Zapatero será entrevistado este jueves en Mañaneros 360 de TVE , según ha informado la cadena. Zapatero estará en el plató del programa de actualidad de La 1 a partir de las 13 horas y la entrevista correrá a cargo del copresentador del programa, Javier Ruiz. 'Mañaneros.",
+      "date": "2026-07-22"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Javier Ruiz first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-07-22"
+    }
+  ],
+  "sources": [
+    {
+      "title": "El expresidente dará su primera entrevista en TVE con Javier Ruiz para replicar a su presunto testaferro y hablar de las joyas",
+      "url": "https://www.20minutos.es/nacional/zapatero-dara-su-primera-entrevista-este-jueves-tve-con-javier-ruiz-para-replicar-su-presunto-testaferro-hablar-las-joyas_7017909_0.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-22T18:44:30.000Z",
+      "sourceId": "lootura-es-20minutos"
+    },
+    {
+      "title": "Zapatero romperá su silencio este jueves en TVE en su primera entrevista tras la imputación",
+      "url": "https://theobjective.com/espana/politica/2026-07-22/zapatero-entrevista-tve-imputacion/?utm_source=lootura.com",
+      "publishedAt": "2026-07-22T18:19:35.000Z",
+      "sourceId": "lootura-es-the-objective"
+    }
+  ],
+  "evidenceCount": 2
+}

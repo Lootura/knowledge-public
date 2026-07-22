@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/middle-east/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/middle-east/index.json",
   "description": "Follow Middle East, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-22T17:16:02.754Z",
+  "updatedAt": "2026-07-22T21:09:05.351Z",
   "aliases": [
     "Mid East",
     "Mideast"
@@ -20,8 +20,13 @@
       "date": "2026-07-22"
     },
     {
-      "title": "Trump to attend dignified transfer of fallen soldiers. And, Hegseth testifies on Iran",
-      "summary": "Trump will attend the dignified transfer of U.S. service members killed in the Middle East. And, Pete Hegseth is requesting billions from Congress to help with the rising cost of the war in Iran. (Image credit: Saul Loeb).",
+      "title": "Trump speaks at Georgia high school after attending dignified transfer",
+      "summary": "President Trump spoke at a high school in Marietta, Georgia, on Wednesday, after attending a dignified transfer for four U.S. troops killed in the Middle East. CBS News congressional reporter Taurean Small has the latest.",
+      "date": "2026-07-22"
+    },
+    {
+      "title": "Trump escalates threats on Iran as he attends dignified transfer of fallen soldiers",
+      "summary": "NBC News correspondents Monica Alba, Courtney Kube and Julie Tsirkin report on recent developments regarding the war with Iran as President Trump attends the dignified transfer of four soldiers killed in the Middle East. NBC News Intelligence Reporter Dan De Luce reports on President Trump’s approval of a deal with Sau.",
       "date": "2026-07-22"
     },
     {
@@ -52,11 +57,23 @@
   ],
   "sources": [
     {
+      "title": "Trump speaks at Georgia high school after attending dignified transfer",
+      "url": "https://www.cbsnews.com/video/trump-speaks-at-georgia-high-school-after-attending-dignified-transfer/?utm_source=lootura.com",
+      "publishedAt": "2026-07-22T20:31:04.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
+    {
+      "title": "Trump escalates threats on Iran as he attends dignified transfer of fallen soldiers",
+      "url": "https://www.nbcnews.com/meet-the-press/video/trump-escalates-threats-on-iran-as-he-attends-dignified-transfer-of-fallen-soldiers-267117637561?utm_source=lootura.com",
+      "publishedAt": "2026-07-22T20:33:16.000Z",
+      "sourceId": "lootura-us-nbc-news-politics"
+    },
+    {
       "title": "Trump will attend the dignified transfer of 4 U.S. service members killed in the Middle East",
       "url": "https://www.pbs.org/newshour/world/trump-will-attend-the-dignified-transfer-of-4-u-s-service-members-killed-in-the-middle-east?utm_source=lootura.com",
       "publishedAt": "2026-07-22T14:27:14.000Z",
       "sourceId": "lootura-us-pbs-newshour"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 3
 }

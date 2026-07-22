@@ -3,7 +3,7 @@
 > Follow South Carolina, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-22T17:16:02.754Z
+- Updated: 2026-07-22T21:09:05.351Z
 - Canonical: https://atlas.lootura.com/us/place/south-carolina
 
 ## Recent changes
@@ -70,4 +70,4 @@ Date: 2026-07-12
 
 ## Sources
 
-- [South Carolina and Nevada Fight to Kick Off Democrats’ 2028 Presidential Calendar](https://www.nytimes.com/2026/07/22/us/politics/south-carolina-nevada-democrats-2028-presidential-calendar.html?utm_source=lootura.com) — 2026-07-22T16:28:18.000Z
+- [South Carolina and Nevada Fight to Kick Off Democrats’ 2028 Presidential Calendar](https://www.nytimes.com/2026/07/22/us/politics/south-carolina-nevada-democrats-2028-presidential-calendar.html?utm_source=lootura.com) — 2026-07-22T20:30:40.000Z

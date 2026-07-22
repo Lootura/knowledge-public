@@ -8,14 +8,9 @@
   "markdownUrl": "https://atlas.lootura.com/es/company/asociacion-espanola/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/company/asociacion-espanola/index.json",
   "description": "Sigue la actividad de Asociación Española en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-22T17:15:40.463Z",
+  "updatedAt": "2026-07-22T21:08:41.543Z",
   "aliases": [],
   "changes": [
-    {
-      "title": "Los sectores de la defensa y la seguridad casi duplican el salario medio en España",
-      "summary": "La remuneración media en los sectores de defensa y seguridad se sitúa en 68.011 euros por empleado, casi el doble que los 33.783 euros de media en el conjunto de la economía española, según el informe Impacto Económico y Social de la Industria de Defensa, Seguridad, Aeronáutica y Espacio de la Asociación Española de Em.",
-      "date": "2026-07-22"
-    },
     {
       "title": "La industria española de defensa exhibirá en Polonia sus tecnologías más avanzadas",
       "summary": "La industria española de defensa volverá a medir fuerzas en uno de los principales escaparates militares de Europa. Del 8 al 11 de septiembre, una delegación coordinada por la Asociación Española de Empresas Tecnológicas de Defensa, Seguridad, Aeronáutica y Espacio (Tedae) participará en la International Defence Indust.",
@@ -25,15 +20,14 @@
       "title": "Discovered by Atlas",
       "summary": "Asociación Española first entered the public knowledge record with source-backed evidence.",
       "date": "2026-07-22"
+    },
+    {
+      "title": "Los sectores de la defensa y la seguridad casi duplican el salario medio en España",
+      "summary": "La remuneración media en los sectores de defensa y seguridad se sitúa en 68.011 euros por empleado, casi el doble que los 33.783 euros de media en el conjunto de la economía española, según el informe Impacto Económico y Social de la Industria de Defensa, Seguridad, Aeronáutica y Espacio de la Asociación Española de Em.",
+      "date": "2026-07-22"
     }
   ],
   "sources": [
-    {
-      "title": "Los sectores de la defensa y la seguridad casi duplican el salario medio en España",
-      "url": "https://theobjective.com/espana/2026-07-22/sectores-defensa-seguridad-salario-medio-espana/?utm_source=lootura.com",
-      "publishedAt": "2026-07-22T13:38:51.000Z",
-      "sourceId": "lootura-es-the-objective"
-    },
     {
       "title": "La industria española de defensa exhibirá en Polonia sus tecnologías más avanzadas",
       "url": "https://theobjective.com/tecnologia/2026-07-22/industria-espanola-defensa-polonia/?utm_source=lootura.com",
@@ -41,5 +35,5 @@
       "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

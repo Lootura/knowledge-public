@@ -3,7 +3,7 @@
 > Follow Getty Images, a tracked company, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: company
-- Updated: 2026-07-22T17:16:02.754Z
+- Updated: 2026-07-22T21:09:05.351Z
 - Canonical: https://atlas.lootura.com/us/company/getty-images
 
 ## Recent changes
@@ -64,4 +64,4 @@ Date: 2026-07-16
 
 ## Sources
 
-- [Is Mushroom Coffee Healthy? Here's What to Know](https://time.com/article/2026/07/22/what-is-mushroom-coffee-is-it-healthy/?utm_source=lootura.com) — 2026-07-22T14:55:15.000Z
+- [Tesla’s revenues are bouncing back, but profits are still weak](https://www.theverge.com/transportation/969311/tesla-q2-2026-earnings-revenue-profit-sales?utm_source=lootura.com) — 2026-07-22T20:17:46.000Z

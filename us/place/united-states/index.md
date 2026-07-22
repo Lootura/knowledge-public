@@ -3,7 +3,7 @@
 > Follow United States, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-22T17:16:02.754Z
+- Updated: 2026-07-22T21:09:05.351Z
 - Canonical: https://atlas.lootura.com/us/place/united-states
 
 ## Recent changes
@@ -32,12 +32,6 @@ The president said punishing 50 percent tariffs would begin by Aug. 19, a signif
 
 Date: 2026-07-22
 
-### A Mexican Town Was Known for Lettuce. Now It’s Because of Cyclospora.
-
-In central Mexico, a lettuce-growing region has been potentially linked to an outbreak in the U.S. that has sickened thousands.
-
-Date: 2026-07-22
-
 ### Sen. Bennet rails against trade chief for Trump policy's impact on farmers
 
 Sen. Michael Bennet, a Democrat from Washington, challenged some of U.S. Trade Representative Jamieson Greer's assertions about the successes of President Trump's trade policies and their impact on farmers.
@@ -56,27 +50,33 @@ The ritual is one of the most somber duties of a commander-in-chief.
 
 Date: 2026-07-22
 
-### There are gaps in food access in Georgia, but not where you'd expect
+### U.S.-Saudi Nuclear Deal Stokes Israeli Concerns of Mideast Arms Race
 
-In 2023, more than 50 million people across the United States turned to food pantries and other charitable organizations for meals. But many may be unable to access the food they need, particularly if they live in a more well-off area, according to a new study from the University of Georgia published in The Professiona.
+An Israeli minister sought to downplay the agreement, while critics said it could spur other regional countries to pursue a nuclear program, and potentially the creation of a bomb.
 
 Date: 2026-07-22
 
-### Measles cases in the U.S. hit a new 34-year high
+### Latest on U.S.-Saudi nuclear deal, Trump threats against Iranian infrastructure
 
-The U.S. hasn't seen measles numbers like this since 1992. An epidemiologist explains what's driving the surge.
+CBS News National security analyst Aaron MacLean breaks down President Trump's threats against Iranian infrastructure and the United States' new nuclear deal with Saudi Arabia.
+
+Date: 2026-07-22
+
+### Waltz clashes with Rep. Jackson over Cuba question: "Absolute propaganda"
+
+U.S. Ambassador to the United Nations Mike Waltz testified Wednesday in front of the House Foreign Affairs Committee, where he and Rep. Jonathan L. Jackson had a tense exchange on the current U.S.-Cuba situation.
 
 Date: 2026-07-22
 
 ## Sources
 
+- [Latest on U.S.-Saudi nuclear deal, Trump threats against Iranian infrastructure](https://www.cbsnews.com/video/details-on-us-saudi-nuclear-deal-trump-threads-against-iranian-infrastructure/?utm_source=lootura.com) — 2026-07-22T20:00:09.000Z
+- [Waltz clashes with Rep. Jackson over Cuba question: "Absolute propaganda"](https://www.cbsnews.com/video/mike-waltz-snaps-back-at-rep-jackson-over-cuban-blockade-question-absolute-propaganda/?utm_source=lootura.com) — 2026-07-22T20:03:08.000Z
 - [Watch: Sen. Bennet rails against trade chief for Trump policy's impact on farmers](https://www.cbsnews.com/video/sen-bennet-and-jamieson-greer-clash-over-trump-policy-impacts-on-farmers/?utm_source=lootura.com) — 2026-07-22T16:51:14.000Z
 - [The Uplift: The American Dream](https://www.cbsnews.com/video/the-uplift-the-american-dream/?utm_source=lootura.com) — 2026-07-27T10:30:00.000Z
+- [Trump speaks at Georgia high school after attending dignified transfer](https://www.cbsnews.com/video/trump-speaks-at-georgia-high-school-after-attending-dignified-transfer/?utm_source=lootura.com) — 2026-07-22T20:31:04.000Z
 - ["Nothing is going through" the Strait of Hormuz, shipping insider says](https://www.cbsnews.com/news/iran-war-strait-of-hormuz-not-open-red-sea-bab-el-mandeb/?utm_source=lootura.com) — 2026-07-22T16:59:52.000Z
+- [What to know about Taylor Farms amid the cyclospora outbreak](https://www.cbsnews.com/news/taylor-farms-cyclospora-outbreak/?utm_source=lootura.com) — 2026-07-22T20:16:52.000Z
+- [Send your questions for Richard Engel on the war with Iran and more](https://www.nbcnews.com/world/iran/richard-engel-qa-iran-rcna353221?utm_source=lootura.com) — 2026-07-22T18:21:09.000Z
 - [U.S. identifies 3rd service member ‘believed’ killed in Iranian attack](https://www.nbcnews.com/news/us-news/iran-war-us-service-member-killed-attack-jordan-base-military-rcna588668?utm_source=lootura.com) — 2026-07-22T09:53:44.000Z
-- [Staying in a job for the health insurance? About 1 in 4 Americans do, a survey says](https://www.npr.org/2026/07/22/nx-s1-5902333/health-insurance-jobs-gallup?utm_source=lootura.com) — 2026-07-22T04:01:00.000Z
-- [Trump will attend the dignified transfer of 4 U.S. service members killed in the Middle East](https://www.pbs.org/newshour/world/trump-will-attend-the-dignified-transfer-of-4-u-s-service-members-killed-in-the-middle-east?utm_source=lootura.com) — 2026-07-22T14:27:14.000Z
-- [There are gaps in food access in Georgia, but not where you'd expect](https://phys.org/news/2026-07-gaps-food-access-georgia-youd.html?utm_source=lootura.com) — 2026-07-22T16:00:01.000Z
-- [Measles cases in the U.S. hit a new 34-year high](https://www.sciencenews.org/article/measles-us-34-high-elimination-vaccine?utm_source=lootura.com) — 2026-07-22T14:19:58.000Z
-- [CDC cuts leave US less prepared for disease outbreaks, former officials warn](https://www.theguardian.com/us-news/2026/jul/22/cdc-cuts-disease-outbreaks-cyclospora-hantavirus-measles?utm_source=lootura.com) — 2026-07-22T14:00:16.000Z
-- [Cyclospora Cases in the U.S. Hit Record High](https://www.nytimes.com/2026/07/21/well/cyclospora-cases-record-cdc.html?utm_source=lootura.com) — 2026-07-21T23:30:24.000Z
+- [Oil surges past $95 as U.S. downplays Iran diplomacy and 2nd key trade route is disrupted](https://www.nbcnews.com/business/business-news/oil-prices-brent-gas-iran-war-trump-hormuz-red-sea-houthis-rcna588671?utm_source=lootura.com) — 2026-07-22T11:15:37.000Z

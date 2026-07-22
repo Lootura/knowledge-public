@@ -3,7 +3,7 @@
 > Sigue la actividad de Partido Popular en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-22T17:15:40.463Z
+- Actualizado: 2026-07-22T21:08:41.543Z
 - Canonical: https://atlas.lootura.com/es/organization/partido-popular
 
 ## Cambios recientes
@@ -26,12 +26,6 @@ Comienza la "cuenta atrás" para el PP. Alberto Núñez Feijóo mira ya hacia la
 
 Date: 2026-07-22
 
-### Diana Morant acusa a Pérez Llorca de convertir «el apartheid en ley» con sus presupuestos
-
-La secretaria general del PSPV-PSOE y ministra de Ciencia, Innovación y Universidades, Diana Morant , ha acusado al president de la Generalitat, Juanfran Pérez Llorca, de haber «convertido el apartheid en ley» con los presupuestos de la Generalitat de 2026 que el PP ha aprobado este miércoles con el apoyo de Vox , a su.
-
-Date: 2026-07-22
-
 ### Narbona niega haber promocionado a Leire Díez: “Yo no soy la madrina de nadie”
 
 Leire Díez se ha convertido en una bomba política de efectos retardados que le ha servido al PP de excusa para forzar la comparecencia de Cristina Narbona en el Senado. La presidenta del PSOE ha negado que conociera la presunta trama orquestada por la exmilitante socialista con Santos Cerdán para desestabilizar causas.
@@ -41,6 +35,18 @@ Date: 2026-07-22
 ### El ex ‘número dos’ de Interior defiende que la ‘Kitchen’ fue una «operación de Estado» legal
 
 La defensa del exsecretario de Estado de Seguridad en el Gobierno de Mariano Rajoy , Francisco Martínez, ha negado que su cliente organizara la operación Kitchen , de la que no obstante ha defendido su legalidad como una «operación policial real lícita de inteligencia» sobre el extesorero del PP Luis Bárcenas. Una oper.
+
+Date: 2026-07-22
+
+### Morant: «Feijóo está dibujando una coalición que se parece a un gobierno criminal de Hitler»
+
+La ministra de Ciencia, Innovación y Universidades, Diana Morant , ha vaticinado que el líder del PP, Alberto Núñez Feijóo , «está dibujando» un próximo ejecutivo de coalición que se parece «cada vez más a esos gobiernos criminales como el de Hitler », en referencia al que fuera dictador alemán. En una entrevista en TV.
+
+Date: 2026-07-22
+
+### Diana Morant acusa a Pérez Llorca de convertir «el apartheid en ley» con sus presupuestos
+
+La secretaria general del PSPV-PSOE y ministra de Ciencia, Innovación y Universidades, Diana Morant , ha acusado al president de la Generalitat, Juanfran Pérez Llorca, de haber «convertido el apartheid en ley» con los presupuestos de la Generalitat de 2026 que el PP ha aprobado este miércoles con el apoyo de Vox , a su.
 
 Date: 2026-07-22
 
@@ -62,12 +68,6 @@ La derecha y la ultraderecha sacan adelante las cuentas en las Corts Valencianes
 
 Date: 2026-07-22
 
-### DIRECTO | La presidenta del PSOE comparece en la comisión Koldo del Senado
-
-La presidenta del PSOE, Cristina Narbona, comparece en la comisión de investigación del Senado sobre el caso Koldo citada por el PP para explicar su relación con Leire Díaz, exmilitante socialista investigada por urdir presuntamente una trama para boicotear causas judiciales que pudieran afectar al Gobierno.
-
-Date: 2026-07-22
-
 ## Fuentes
 
 - [Feijóo sitúa a Sánchez como "el señor X" de todos los casos del PSOE y promete "una limpieza a fondo" de las instituciones](https://amp.elmundo.es/espana/2026/07/22/6a609c9be85ecedc108b4578.html?utm_source=lootura.com) — 2026-07-22T10:46:17.000Z
@@ -75,4 +75,4 @@ Date: 2026-07-22
 - [Narbona niega haber promocionado a Leire Díez: “Yo no soy la madrina de nadie”](https://elpais.com/espana/2026-07-22/narbona-niega-haber-promocionado-a-leire-diez-yo-no-soy-la-madrina-de-nadie.html?utm_source=lootura.com) — 2026-07-22T13:57:33.000Z
 - [Última hora de la actualidad política, en directo | Feijóo hace balance del curso político y de la legislatura](https://elpais.com/espana/2026-07-22/ultima-hora-de-la-actualidad-politica-en-directo.html?utm_source=lootura.com) — 2026-07-22T10:20:37.000Z
 - [El ex ‘número dos’ de Interior defiende que la ‘Kitchen’ fue una «operación de Estado» legal](https://theobjective.com/espana/tribunales/2026-07-22/exnumero-dos-interior-kitchen-legalidad/?utm_source=lootura.com) — 2026-07-22T15:53:03.000Z
-- [Diana Morant acusa a Pérez Llorca de convertir «el apartheid en ley» con sus presupuestos](https://theobjective.com/espana/politica/2026-07-22/diana-morant-perez-llorca-apartheid-ley-presupuestos/?utm_source=lootura.com) — 2026-07-22T13:00:18.000Z
+- [Morant: «Feijóo está dibujando una coalición que se parece a un gobierno criminal de Hitler»](https://theobjective.com/espana/politica/2026-07-22/morant-feijoo-coalicion-gobierno-criminal-hitler/?utm_source=lootura.com) — 2026-07-22T18:33:50.000Z

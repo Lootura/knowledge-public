@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/europe/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/europe/index.json",
   "description": "Follow Europe, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-22T17:16:02.754Z",
+  "updatedAt": "2026-07-22T21:09:05.351Z",
   "aliases": [
     "EU",
     "European Union"
   ],
   "changes": [
+    {
+      "title": "Shifting weather patterns drive 55% of Europe's summer drought trend, study finds",
+      "summary": "In a new study, researchers at Leipzig University have identified a major cause of the unusually severe summer soil drying and rising temperatures across Europe. They found that much of the trend can be attributed to changes in atmospheric circulation patterns—that is, shifts in the weather regimes that typically occur.",
+      "date": "2026-07-22"
+    },
     {
       "title": "EU watchdog reduces safe level of exposure to 'forever chemical' TFA",
       "summary": "The EU's food safety agency said Wednesday it has dramatically reduced the acceptable daily intake level of the so-called forever chemical TFA, following new evidence of its effect on a key hormone that regulates the body's metabolism.",
@@ -58,18 +63,13 @@
       "title": "Europe, Flexing Muscle in Ukraine, Is Still on Sidelines in Iran",
       "summary": "In a show of collective strength, President Emmanuel Macron of France hosted European allies at the annual Bastille Day parade in Paris. Yet Europe is still a hostage to America’s foreign policy.",
       "date": "2026-07-14"
-    },
-    {
-      "title": "Ticking time bomb? Europe's aging population brings challenges",
-      "summary": "The population of the 27-nation European Union will peak in 2029 before falling in the coming decades, according to a report published Tuesday that spotlights the major challenges the bloc faces from an aging population.",
-      "date": "2026-07-14"
     }
   ],
   "sources": [
     {
-      "title": "EU watchdog reduces safe level of exposure to 'forever chemical' TFA",
-      "url": "https://phys.org/news/2026-07-eu-watchdog-safe-exposure-chemical.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-22T17:08:23.000Z",
+      "title": "Shifting weather patterns drive 55% of Europe's summer drought trend, study finds",
+      "url": "https://phys.org/news/2026-07-shifting-weather-patterns-europe-summer.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-22T21:00:05.000Z",
       "sourceId": "lootura-us-phys-org"
     }
   ],

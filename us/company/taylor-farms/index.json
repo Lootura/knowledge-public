@@ -8,11 +8,21 @@
   "markdownUrl": "https://atlas.lootura.com/us/company/taylor-farms/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/company/taylor-farms/index.json",
   "description": "Follow Taylor Farms, a tracked company, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-22T17:16:02.754Z",
+  "updatedAt": "2026-07-22T21:09:05.351Z",
   "aliases": [
     "Taylor Fresh Foods"
   ],
   "changes": [
+    {
+      "title": "Taylor Farms pulls iceberg lettuce linked to cyclosporiasis outbreak",
+      "summary": "Taylor Farms said none of its branded salads or kits contain the iceberg lettuce associated with the outbreak.",
+      "date": "2026-07-22"
+    },
+    {
+      "title": "What to know about Taylor Farms amid the cyclospora outbreak",
+      "summary": "The nation's largest recent cyclospora outbreak has put one of America's biggest produce suppliers under renewed scrutiny.",
+      "date": "2026-07-22"
+    },
     {
       "title": "FDA still focused on Taylor Farms lettuce as Cyclospora source despite retracted test",
       "summary": "The FDA says lettuce distributed by Taylor Fresh Foods and Taylor Farms de Mexico is still linked to the multistate outbreak of cyclosporiasis. But the source may be difficult to definitively trace.",
@@ -52,25 +62,21 @@
       "title": "Taylor Farms recalls lettuce shipped to 27 states over cyclospora risk",
       "summary": "Products with the potential to be contaminated with the diarrhea-causing parasite were shipped to 27 states including Texas, Florida, Pennsylvania, Illinois and New Jersey.",
       "date": "2026-07-18"
-    },
-    {
-      "title": "Taylor Farms pulls iceberg lettuce linked to cyclosporiasis outbreak",
-      "summary": "Taylor Farms said none of its branded salads or kits contain the iceberg lettuce associated with the outbreak.",
-      "date": "2026-07-18"
-    },
-    {
-      "title": "Discovered by Atlas",
-      "summary": "Taylor Farms first entered the public knowledge record with source-backed evidence.",
-      "date": "2026-07-17"
     }
   ],
   "sources": [
     {
-      "title": "RFK Jr. Says Cyclosporiasis Outbreak is ‘Under Control’",
-      "url": "https://www.today.com/video/cyclosporiasis-outbreak-is-under-control-rfk-jr-says-267087429569?utm_source=lootura.com",
-      "publishedAt": "2026-07-22T11:32:18.000Z",
-      "sourceId": "lootura-us-nbc-news"
+      "title": "Taylor Farms pulls iceberg lettuce linked to cyclosporiasis outbreak",
+      "url": "https://www.cbsnews.com/news/taylor-farms-pulls-iceberg-lettuce/?utm_source=lootura.com",
+      "publishedAt": "2026-07-22T20:14:08.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
+    {
+      "title": "What to know about Taylor Farms amid the cyclospora outbreak",
+      "url": "https://www.cbsnews.com/news/taylor-farms-cyclospora-outbreak/?utm_source=lootura.com",
+      "publishedAt": "2026-07-22T20:16:52.000Z",
+      "sourceId": "lootura-us-cbs-news"
     }
   ],
-  "evidenceCount": 0
+  "evidenceCount": 2
 }

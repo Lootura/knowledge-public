@@ -3,7 +3,7 @@
 > Follow China, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-22T17:16:02.754Z
+- Updated: 2026-07-22T21:09:05.351Z
 - Canonical: https://atlas.lootura.com/us/place/china
 
 ## Recent changes
@@ -70,4 +70,4 @@ Date: 2026-07-17
 
 ## Sources
 
-- [Rubio and Chinese Diplomat Make Plans for Trump and Xi’s Washington Summit](https://www.nytimes.com/2026/07/22/us/politics/trump-xi-rubio-manila-china.html?utm_source=lootura.com) — 2026-07-22T16:23:06.000Z
+- [Rubio and Chinese Diplomat Make Plans for Trump and Xi’s Washington Summit](https://www.nytimes.com/2026/07/22/us/politics/trump-xi-rubio-manila-china.html?utm_source=lootura.com) — 2026-07-22T16:23:07.000Z

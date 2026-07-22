@@ -3,7 +3,7 @@
 > Follow Katie Hobbs, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-07-22T17:16:02.754Z
+- Updated: 2026-07-22T21:09:05.351Z
 - Canonical: https://atlas.lootura.com/us/person/katie-hobbs
 
 ## Recent changes
@@ -17,6 +17,12 @@ Date: 2026-07-22
 ### Discovered by Atlas
 
 Katie Hobbs first entered the public knowledge record with source-backed evidence.
+
+Date: 2026-07-22
+
+### What to Know About Andy Biggs, the Trump-Backed Republican in Arizona’s Governor Race
+
+Republican Rep. Andy Biggs speaks at a campaign event in Gilbert, Arizona, ahead of the state's gubernatorial primary on July 17, 2026. —Ross D. Franklin—AP Rep. Andy Biggs won the Republican nomination for governor of Arizona on Tuesday, setting up a battle between him and Democratic incumbent Gov. Katie Hobbs in one.
 
 Date: 2026-07-22
 
@@ -41,3 +47,4 @@ Date: 2026-07-22
 ## Sources
 
 - [Trump Pick Wins G.O.P. Nomination to Challenge Arizona Governor](https://www.nytimes.com/2026/07/21/us/elections/arizona-governor-andy-biggs-republican-primary.html?utm_source=lootura.com) — 2026-07-22T03:06:56.000Z
+- [What to Know About Andy Biggs, the Trump-Backed Republican in Arizona’s Governor Race](https://time.com/article/2026/07/22/what-to-know-about-andy-biggs-the-trump-backed-republican-in-arizonas-governor-race/?utm_source=lootura.com) — 2026-07-22T19:14:21.000Z

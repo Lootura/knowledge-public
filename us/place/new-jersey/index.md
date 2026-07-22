@@ -52,4 +52,4 @@ Date: 2026-07-18
 
 ## Sources
 
-- [Error Led to 400 Noncitizens Voting in New Jersey, Governor Says](https://www.nytimes.com/2026/07/21/nyregion/noncitizen-voting-new-jersey-error.html?utm_source=lootura.com) — 2026-07-21T19:19:21.000Z
+No public source links.

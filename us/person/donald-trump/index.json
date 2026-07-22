@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/donald-trump/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/donald-trump/index.json",
   "description": "Follow Donald Trump, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-22T17:16:02.754Z",
+  "updatedAt": "2026-07-22T21:09:05.351Z",
   "aliases": [
     "@realDonaldTrump",
     "DJT",
@@ -24,31 +24,6 @@
     "Trump"
   ],
   "changes": [
-    {
-      "title": "Funding milestone detected",
-      "summary": "Funding cuts and program changes required by President Trump's big budget law are forcing states to rethink bipartisan efforts to bring Medicaid into jails and prisons. (Image credit: Ramon Dompor for Tradeoffs).",
-      "date": "2026-07-22"
-    },
-    {
-      "title": "Trump-backed candidates, 2020 election deniers, win Arizona primaries",
-      "summary": "The primaries set the field for what are expected to be heated contests for Congress and governor in a swing state this fall. (Image credit: Ross D. Franklin).",
-      "date": "2026-07-22"
-    },
-    {
-      "title": "Trump has campaigned more so far in 2026 midterms than he did at this point in 2018",
-      "summary": "Heading to Georgia on Wednesday, President Trump is campaigning more often this year than he did in the same period for 2018 and has already rallied for a dozen candidates in toss-up races. (Image credit: Roberto Schmidt).",
-      "date": "2026-07-22"
-    },
-    {
-      "title": "Laredo’s Future Rides on Trump’s Next Trade Move",
-      "summary": "The economy of Laredo, Texas, has boomed under the president’s global tariffs. Now, his demands may threaten its success.",
-      "date": "2026-07-22"
-    },
-    {
-      "title": "‘It’s a stone around your neck’: Arizona Republicans once again nominate 2020 election deniers",
-      "summary": "To make it out of a Republican primary in Arizona, there’s one key litmus test: believing the 2020 election was stolen from Donald Trump. Election deniers who played prominent roles in efforts to overturn the 2020 results triumphed in statewide Republican primaries Tuesday: Rep. Andy Biggs for governor , state Rep. Ale.",
-      "date": "2026-07-22"
-    },
     {
       "title": "Arizona Elections: 6 Takeaways From the Trump-Dominated Primaries",
       "summary": "Republicans nominated a former N.F.L. kicker in a top House battleground, a Trump loyalist for governor and an election denier for the state’s top election post.",
@@ -73,9 +48,40 @@
       "title": "Andy Biggs wins Republican nomination to challenge Democrat Katie Hobbs for Arizona governor",
       "summary": "Biggs, a fierce ally of President Donald Trump and former head of the House Freedom Caucus, won the Republican nomination for Arizona governor Tuesday.",
       "date": "2026-07-22"
+    },
+    {
+      "title": "Trump will attend the dignified transfer of 4 U.S. service members killed in the Middle East",
+      "summary": "The ritual is one of the most somber duties of a commander-in-chief.",
+      "date": "2026-07-22"
+    },
+    {
+      "title": "Rubio and Chinese Diplomat Make Plans for Trump and Xi’s Washington Summit",
+      "summary": "Secretary of State Marco Rubio spent much of a meeting with China’s foreign minister discussing the summit, but did not bring up President Trump’s claims of election interference by China.",
+      "date": "2026-07-22"
+    },
+    {
+      "title": "How the Trump Administration’s Nuclear Deal With Saudi Arabia May Work",
+      "summary": "The Trump administration announced an agreement with Saudi Arabia on a civilian nuclear program. Such deals, known as 123 Agreements, are designed to prevent the development of weapons.",
+      "date": "2026-07-22"
+    },
+    {
+      "title": "Latest on U.S.-Saudi nuclear deal, Trump threats against Iranian infrastructure",
+      "summary": "CBS News National security analyst Aaron MacLean breaks down President Trump's threats against Iranian infrastructure and the United States' new nuclear deal with Saudi Arabia.",
+      "date": "2026-07-22"
+    },
+    {
+      "title": "Trump speaks at Georgia high school after attending dignified transfer",
+      "summary": "President Trump spoke at a high school in Marietta, Georgia, on Wednesday, after attending a dignified transfer for four U.S. troops killed in the Middle East. CBS News congressional reporter Taurean Small has the latest.",
+      "date": "2026-07-22"
     }
   ],
   "sources": [
+    {
+      "title": "Latest on U.S.-Saudi nuclear deal, Trump threats against Iranian infrastructure",
+      "url": "https://www.cbsnews.com/video/details-on-us-saudi-nuclear-deal-trump-threads-against-iranian-infrastructure/?utm_source=lootura.com",
+      "publishedAt": "2026-07-22T20:00:09.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
     {
       "title": "Watch: Sen. Bennet rails against trade chief for Trump policy's impact on farmers",
       "url": "https://www.cbsnews.com/video/sen-bennet-and-jamieson-greer-clash-over-trump-policy-impacts-on-farmers/?utm_source=lootura.com",
@@ -89,22 +95,22 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "States want to bring Medicaid behind bars. Federal changes make that harder",
-      "url": "https://www.npr.org/2026/07/22/nx-s1-5896456/medicaid-cuts-incarceration-states-obbba?utm_source=lootura.com",
-      "publishedAt": "2026-07-22T09:00:00.000Z",
-      "sourceId": "lootura-us-npr-politics"
+      "title": "Trump speaks at Georgia high school after attending dignified transfer",
+      "url": "https://www.cbsnews.com/video/trump-speaks-at-georgia-high-school-after-attending-dignified-transfer/?utm_source=lootura.com",
+      "publishedAt": "2026-07-22T20:31:04.000Z",
+      "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "Trump-backed candidates, 2020 election deniers, win Arizona primaries",
-      "url": "https://www.npr.org/2026/07/22/nx-s1-5902198/arizona-primary-results-trump-elections-biggs?utm_source=lootura.com",
-      "publishedAt": "2026-07-22T08:33:21.000Z",
-      "sourceId": "lootura-us-npr-politics"
+      "title": "Trump escalates threats on Iran as he attends dignified transfer of fallen soldiers",
+      "url": "https://www.nbcnews.com/meet-the-press/video/trump-escalates-threats-on-iran-as-he-attends-dignified-transfer-of-fallen-soldiers-267117637561?utm_source=lootura.com",
+      "publishedAt": "2026-07-22T20:33:16.000Z",
+      "sourceId": "lootura-us-nbc-news-politics"
     },
     {
-      "title": "Trump has campaigned more so far in 2026 midterms than he did at this point in 2018",
-      "url": "https://www.npr.org/2026/07/22/nx-s1-5887428/2026-midterm-election-trump-campaign-rally?utm_source=lootura.com",
-      "publishedAt": "2026-07-22T09:00:00.000Z",
-      "sourceId": "lootura-us-npr-politics"
+      "title": "Trump says U.S. will destroy a bridge or power plant for each Iranian attack in the Strait of Hormuz",
+      "url": "https://www.pbs.org/newshour/world/trump-says-u-s-will-destroy-a-bridge-or-power-plant-for-each-iranian-attack-in-the-strait-of-hormuz?utm_source=lootura.com",
+      "publishedAt": "2026-07-22T19:42:53.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
     },
     {
       "title": "Andy Biggs wins Republican nomination to challenge Democrat Katie Hobbs for Arizona governor",
@@ -119,23 +125,17 @@
       "sourceId": "lootura-us-pbs-newshour"
     },
     {
-      "title": "‘It’s a stone around your neck’: Arizona Republicans once again nominate 2020 election deniers",
-      "url": "https://www.politico.com/news/2026/07/22/arizona-republicans-elect-2020-deniers-trump-01007511?utm_source=lootura.com",
-      "publishedAt": "2026-07-22T05:15:06.000Z",
-      "sourceId": "lootura-us-politico"
+      "title": "US House passes $1.15tn defense policy bill in near party-line vote",
+      "url": "https://www.theguardian.com/us-news/2026/jul/22/us-house-defense-bill-iran-war?utm_source=lootura.com",
+      "publishedAt": "2026-07-22T20:44:08.000Z",
+      "sourceId": "lootura-us-the-guardian-us"
     },
     {
-      "title": "Arizona Elections: 6 Takeaways From the Trump-Dominated Primaries",
-      "url": "https://www.nytimes.com/2026/07/22/us/politics/arizona-primary-takeaways.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-22T09:17:02.000Z",
-      "sourceId": "lootura-us-the-new-york-times-politics"
-    },
-    {
-      "title": "Rubio and Chinese Diplomat Make Plans for Trump and Xi’s Washington Summit",
-      "url": "https://www.nytimes.com/2026/07/22/us/politics/trump-xi-rubio-manila-china.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-22T16:23:06.000Z",
-      "sourceId": "lootura-us-the-new-york-times-politics"
+      "title": "Laredo’s Future Rides on Trump’s Next Trade Move",
+      "url": "https://www.nytimes.com/2026/07/22/business/economy/trump-tariffs-laredo-trade-mexico.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-22T19:20:35.000Z",
+      "sourceId": "lootura-us-the-new-york-times"
     }
   ],
-  "evidenceCount": 13
+  "evidenceCount": 16
 }

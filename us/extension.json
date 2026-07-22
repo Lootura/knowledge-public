@@ -1,32 +1,45 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-22T17:25:09.735Z",
+  "generatedAt": "2026-07-22T21:18:22.657Z",
   "radar": {
     "id": "usa",
     "slug": "us",
     "locale": "en"
   },
   "state": {
-    "signature": "1.18.0|13|1784740562754",
+    "signature": "1.18.0|14|1784754545351",
     "version": "1.18.0",
-    "build": 13,
-    "latestEntityUpdatedAt": "2026-07-22T17:16:02.754Z"
+    "build": 14,
+    "latestEntityUpdatedAt": "2026-07-22T21:09:05.351Z"
   },
   "atlas": {
     "hero": {
       "id": "usa-donald-trump",
       "name": "Donald Trump",
       "type": "person",
-      "title": "Andy Biggs wins Republican nomination to challenge Democrat Katie Hobbs for Arizona governor",
+      "title": "What to Know About Andy Biggs, the Trump-Backed Republican in Arizona’s Governor Race",
       "url": "https://atlas.lootura.com/us/person/donald-trump",
       "path": "/us/person/donald-trump",
-      "updatedAt": "2026-07-22T17:16:02.754Z",
-      "score": 1738,
-      "sourceCount": 325,
+      "updatedAt": "2026-07-22T21:09:05.351Z",
+      "score": 1759,
+      "sourceCount": 332,
       "isBreaking": false,
       "isPinned": false
     },
     "cards": [
+      {
+        "id": "usa-united-states",
+        "name": "United States",
+        "type": "place",
+        "title": "U.S.-Saudi Nuclear Deal Stokes Israeli Concerns of Mideast Arms Race",
+        "url": "https://atlas.lootura.com/us/place/united-states",
+        "path": "/us/place/united-states",
+        "updatedAt": "2026-07-22T21:09:05.351Z",
+        "score": 1759,
+        "sourceCount": 378,
+        "isBreaking": false,
+        "isPinned": false
+      },
       {
         "id": "usa-iran",
         "name": "Iran",
@@ -34,9 +47,9 @@
         "title": "Funding milestone detected",
         "url": "https://atlas.lootura.com/us/place/iran",
         "path": "/us/place/iran",
-        "updatedAt": "2026-07-22T17:16:02.754Z",
-        "score": 1709,
-        "sourceCount": 187,
+        "updatedAt": "2026-07-22T21:09:05.351Z",
+        "score": 1753,
+        "sourceCount": 195,
         "isBreaking": false,
         "isPinned": false
       },
@@ -44,38 +57,25 @@
         "id": "usa-andy-biggs",
         "name": "Andy Biggs",
         "type": "person",
-        "title": "Andy Biggs wins Republican nomination to challenge Democrat Katie Hobbs for Arizona governor",
+        "title": "What to Know About Andy Biggs, the Trump-Backed Republican in Arizona’s Governor Race",
         "url": "https://atlas.lootura.com/us/person/andy-biggs",
         "path": "/us/person/andy-biggs",
-        "updatedAt": "2026-07-22T17:16:02.754Z",
-        "score": 1690,
-        "sourceCount": 6,
+        "updatedAt": "2026-07-22T21:09:05.351Z",
+        "score": 1699,
+        "sourceCount": 7,
         "isBreaking": false,
         "isPinned": false
       },
       {
-        "id": "usa-united-states",
-        "name": "United States",
+        "id": "usa-middle-east",
+        "name": "Middle East",
         "type": "place",
-        "title": "U.S. identifies third service member believed to have been killed in Iranian attack",
-        "url": "https://atlas.lootura.com/us/place/united-states",
-        "path": "/us/place/united-states",
-        "updatedAt": "2026-07-22T17:16:02.754Z",
-        "score": 1654,
-        "sourceCount": 371,
-        "isBreaking": false,
-        "isPinned": false
-      },
-      {
-        "id": "usa-katie-hobbs",
-        "name": "Katie Hobbs",
-        "type": "person",
-        "title": "Trump-Backed Rep. Andy Biggs Wins Arizona Governor Primary",
-        "url": "https://atlas.lootura.com/us/person/katie-hobbs",
-        "path": "/us/person/katie-hobbs",
-        "updatedAt": "2026-07-22T17:16:02.754Z",
-        "score": 1647,
-        "sourceCount": 4,
+        "title": "Trump escalates threats on Iran as he attends dignified transfer of fallen soldiers",
+        "url": "https://atlas.lootura.com/us/place/middle-east",
+        "path": "/us/place/middle-east",
+        "updatedAt": "2026-07-22T21:09:05.351Z",
+        "score": 1667,
+        "sourceCount": 7,
         "isBreaking": false,
         "isPinned": false
       }

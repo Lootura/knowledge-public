@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/ferran-torres/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/ferran-torres/index.json",
   "description": "Sigue la actividad de \"El Tiburón\" en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-22T17:15:40.463Z",
+  "updatedAt": "2026-07-22T21:08:41.543Z",
   "aliases": [
     "\"El Tiburón\"",
     "Ferran",
@@ -16,6 +16,11 @@
     "Torres"
   ],
   "changes": [
+    {
+      "title": "Linchamiento en redes a Rodri por su «viva España, viva el Rey»",
+      "summary": "Aparece vandalizado el mural homenaje en Barcelona a Ferran Torres, otro de los campeones vilipendiado por 'haters' por cuestiones de oportunismo político.",
+      "date": "2026-07-22"
+    },
     {
       "title": "Todos quieren emparejar a Ferran Torres, el soltero de oro de los campeones",
       "summary": "Las búsquedas con el nombre de Ferran Torres (26 años) han visto un pico que tiene difícil comparación. Un 400% más que en los tres meses anteriores y en los últimos días hay un aumento puntual que supera en un 5.000% el mismo periodo del año anterior. Quizás decir que es la estrella de la Roja es exagerar, puesto que.",
@@ -64,9 +69,9 @@
   ],
   "sources": [
     {
-      "title": "Todos quieren emparejar a Ferran Torres, el soltero de oro de los campeones",
-      "url": "https://www.abc.es/gente/quieren-emparejar-ferran-torres-20260722163327-nt.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-22T16:49:11.000Z",
+      "title": "Linchamiento en redes a Rodri por su «viva España, viva el Rey»",
+      "url": "https://www.abc.es/deportes/futbol/mundial/linchamiento-redes-rodri-viva-espana-viva-rey-20260722192643-nt_amp.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-22T17:26:43.000Z",
       "sourceId": "lootura-es-abc"
     }
   ],

@@ -3,7 +3,7 @@
 > Sigue la actividad de El Messías en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-22T17:15:40.463Z
+- Actualizado: 2026-07-22T21:08:41.543Z
 - Canonical: https://atlas.lootura.com/es/person/lionel-messi
 
 ## Cambios recientes
@@ -70,4 +70,4 @@ Date: 2026-07-17
 
 ## Fuentes
 
-- [Casemiro se va con Messi: ficha por Inter Miami hasta 2027](https://okdiario.com/deportes/casemiro-va-messi-ficha-inter-miami-hasta-2027-19050216/amp?utm_source=lootura.com) — 2026-07-22T17:06:00.000Z
+- [Lamine y Haaland baten todos los registros: superan los 200 millones de valor de mercado](https://okdiario.com/deportes/lamine-haaland-baten-todos-registros-superan-200-millones-valor-mercado-19050640?utm_source=lootura.com) — 2026-07-22T19:01:28.000Z

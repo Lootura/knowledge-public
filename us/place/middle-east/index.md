@@ -3,7 +3,7 @@
 > Follow Middle East, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-22T17:16:02.754Z
+- Updated: 2026-07-22T21:09:05.351Z
 - Canonical: https://atlas.lootura.com/us/place/middle-east
 
 ## Recent changes
@@ -14,9 +14,15 @@ The ritual is one of the most somber duties of a commander-in-chief.
 
 Date: 2026-07-22
 
-### Trump to attend dignified transfer of fallen soldiers. And, Hegseth testifies on Iran
+### Trump speaks at Georgia high school after attending dignified transfer
 
-Trump will attend the dignified transfer of U.S. service members killed in the Middle East. And, Pete Hegseth is requesting billions from Congress to help with the rising cost of the war in Iran. (Image credit: Saul Loeb).
+President Trump spoke at a high school in Marietta, Georgia, on Wednesday, after attending a dignified transfer for four U.S. troops killed in the Middle East. CBS News congressional reporter Taurean Small has the latest.
+
+Date: 2026-07-22
+
+### Trump escalates threats on Iran as he attends dignified transfer of fallen soldiers
+
+NBC News correspondents Monica Alba, Courtney Kube and Julie Tsirkin report on recent developments regarding the war with Iran as President Trump attends the dignified transfer of four soldiers killed in the Middle East. NBC News Intelligence Reporter Dan De Luce reports on President Trump’s approval of a deal with Sau.
 
 Date: 2026-07-22
 
@@ -52,4 +58,6 @@ Date: 2026-07-20
 
 ## Sources
 
+- [Trump speaks at Georgia high school after attending dignified transfer](https://www.cbsnews.com/video/trump-speaks-at-georgia-high-school-after-attending-dignified-transfer/?utm_source=lootura.com) — 2026-07-22T20:31:04.000Z
+- [Trump escalates threats on Iran as he attends dignified transfer of fallen soldiers](https://www.nbcnews.com/meet-the-press/video/trump-escalates-threats-on-iran-as-he-attends-dignified-transfer-of-fallen-soldiers-267117637561?utm_source=lootura.com) — 2026-07-22T20:33:16.000Z
 - [Trump will attend the dignified transfer of 4 U.S. service members killed in the Middle East](https://www.pbs.org/newshour/world/trump-will-attend-the-dignified-transfer-of-4-u-s-service-members-killed-in-the-middle-east?utm_source=lootura.com) — 2026-07-22T14:27:14.000Z

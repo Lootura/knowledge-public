@@ -3,7 +3,7 @@
 > Sigue la actividad de China en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-22T17:15:40.463Z
+- Actualizado: 2026-07-22T21:08:41.543Z
 - Canonical: https://atlas.lootura.com/es/place/china
 
 ## Cambios recientes
@@ -71,4 +71,3 @@ Date: 2026-07-17
 ## Fuentes
 
 - [La china Geely llega a un acuerdo con Ford para producir coches en su fábrica de Almussafes](https://www.elmundo.es/economia/empresas/2026/07/22/6a60c041fdddff05188b4581.html?utm_source=lootura.com) — 2026-07-22T16:55:15.000Z
-- [Ford y Geely cierran un acuerdo para fabricar coches eléctricos en Valencia](https://amp.expansion.com/valencia/2026/07/22/6a60ca8be5fdea50158b4599.html?utm_source=lootura.com) — 2026-07-22T13:50:37.000Z

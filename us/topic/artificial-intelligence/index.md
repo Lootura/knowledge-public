@@ -3,7 +3,7 @@
 > Follow Artificial intelligence, a tracked topic, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: topic
-- Updated: 2026-07-22T17:16:02.754Z
+- Updated: 2026-07-22T21:09:05.351Z
 - Canonical: https://atlas.lootura.com/us/topic/artificial-intelligence
 
 ## Recent changes
@@ -11,6 +11,18 @@
 ### Funding milestone detected
 
 Investment in artificial intelligence and related companies is lifting the stock market and spending across the economy.
+
+Date: 2026-07-22
+
+### In pursuit of 'Instagram face,' are we losing the imperfections that make us human?
+
+Plastic surgery is becoming so normalized and undetectable, it's changing our relationship to reality. The New Yorker staff writer Jia Tolentino considers how beauty standards have dovetailed with AI.
+
+Date: 2026-07-22
+
+### AI and quantum chemistry combine to identify efficient blue OLED materials
+
+Organic light-emitting diodes (OLEDs) have become a standard in modern devices with incredible contrast and sleek designs. While initially an expensive luxury, OLEDs are gradually becoming more financially accessible as the technology improves. Now, researchers at the Institute of Transformative Bio-Molecules (WPI-ITbM.
 
 Date: 2026-07-22
 
@@ -56,21 +68,9 @@ Nature, Published online: 21 July 2026; doi:10.1038/d41586-026-02213-0 Nature as
 
 Date: 2026-07-22
 
-### Developer ecosystem expanded
-
-The pledge was introduced in March, and has done little to quell concerns so far. | Image: Cath Virginia / The Verge, Getty Images In the face of backlash to concerns the AI boom will increase consumer electricity bills, the largest utility companies and data center developers in the US are now promising to do somethin.
-
-Date: 2026-07-22
-
-### Detailed maps of European wetlands reveal overlooked patches of ecosystems
-
-Nature, Published online: 20 July 2026; doi:10.1038/d41586-026-02211-2 Satellite images have been analysed by a machine-learning algorithm to produce high-resolution maps of wetland environments — a boon for conservation efforts.
-
-Date: 2026-07-21
-
 ## Sources
 
-- [Researchers develop new AI system for highly accurate mapping and modeling of orchards](https://phys.org/news/2026-07-ai-highly-accurate-orchards.html?utm_source=lootura.com) — 2026-07-22T16:40:04.000Z
+- [ChatGPT's medical advice nearly killed a man, lawsuit claims](https://www.cbsnews.com/news/chatgpt-dangerous-medical-advice-openai-lawsuit/?utm_source=lootura.com) — 2026-07-22T20:45:33.000Z
+- [In pursuit of 'Instagram face,' are we losing the imperfections that make us human?](https://www.npr.org/2026/07/22/nx-s1-5902070/jia-tolentino-instagram-face-plastic-surgery?utm_source=lootura.com) — 2026-07-22T17:11:19.000Z
+- [AI and quantum chemistry combine to identify efficient blue OLED materials](https://phys.org/news/2026-07-ai-quantum-chemistry-combine-efficient.html?utm_source=lootura.com) — 2026-07-22T20:20:01.000Z
 - [Stocks and the Economy Are Increasingly Relying on the A.I. Boom](https://www.nytimes.com/2026/07/22/business/economy/stocks-economy-ai.html?utm_source=lootura.com) — 2026-07-22T15:46:48.000Z
-- [Here’s what Samsung’s smart glasses actually look like](https://www.theverge.com/tech/969382/samsung-google-smart-glasses-gentle-monster-warby-parker?utm_source=lootura.com) — 2026-07-22T16:35:34.000Z
-- [AMD commits up to $5 billion to Anthropic](https://www.theverge.com/ai-artificial-intelligence/969285/amd-anthropic-ai-infrastructure-deal?utm_source=lootura.com) — 2026-07-22T14:44:27.000Z

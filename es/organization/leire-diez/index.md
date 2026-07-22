@@ -2,8 +2,8 @@
 
 > Sigue la actividad de Leire Díez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
-- Type: person
-- Actualizado: 2026-07-22T17:15:40.463Z
+- Type: organization
+- Actualizado: 2026-07-22T21:08:41.543Z
 - Canonical: https://atlas.lootura.com/es/organization/leire-diez
 
 ## Cambios recientes
@@ -54,4 +54,3 @@ Date: 2026-07-22
 
 - [Narbona afirma que Sánchez "ha asumido la responsabilidad política" por los casos de corrupción y defiende a Zapatero "por su enorme legado"](https://www.elmundo.es/espana/2026/07/22/6a609717e9cf4a04078b456f.html?utm_source=lootura.com) — 2026-07-22T10:15:48.000Z
 - [Narbona niega haber promocionado a Leire Díez: “Yo no soy la madrina de nadie”](https://elpais.com/espana/2026-07-22/narbona-niega-haber-promocionado-a-leire-diez-yo-no-soy-la-madrina-de-nadie.html?utm_source=lootura.com) — 2026-07-22T13:57:33.000Z
-- [La Audiencia Provincial respalda al juez Zamarriego y rechaza que Aldama se persone en el "caso Leire"](https://www.larazon.es/espana/audiencia-provincial-respalda-juez-zamarriego-rechaza-que-aldama-persone-causa-cloacas-psoe_202607226a60f7b7da3add27d4dc53f9.html?utm_source=lootura.com) — 2026-07-22T17:11:28.000Z

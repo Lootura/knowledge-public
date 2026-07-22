@@ -3,7 +3,7 @@
 > Sigue la actividad de Barcelona en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-22T17:15:40.463Z
+- Actualizado: 2026-07-22T21:08:41.543Z
 - Canonical: https://atlas.lootura.com/es/place/barcelona
 
 ## Cambios recientes
@@ -11,6 +11,12 @@
 ### Una testigo revela que la terapia de los Andic incluía una situación extrema en un barranco
 
 El caso Andic ha dado un nuevo giro de tuerca con la declaración de una testigo que compromete la posición de Jonathan Andic, investigado como presunto autor de la muerte de su padre, Isak Andic, durante una excursión a la montaña de Montserrat (Barcelona) el 14 de diciembre de 2024. La testigo, intérprete británica y.
+
+Date: 2026-07-22
+
+### Linchamiento en redes a Rodri por su «viva España, viva el Rey»
+
+Aparece vandalizado el mural homenaje en Barcelona a Ferran Torres, otro de los campeones vilipendiado por 'haters' por cuestiones de oportunismo político.
 
 Date: 2026-07-22
 
@@ -62,14 +68,7 @@ El 13 Serielizados - Festival de Series de Barcelona, que se celebrará del 19 a
 
 Date: 2026-07-21
 
-### Roban un móvil con arma blanca y huyen en patinete: los Mossos detienen a dos jóvenes multirreincidentes con 24 antecedentes en L'Hospitalet
-
-Los Mossos d'Esquadra han detenido en L'Hospitalet de Llobregat (Barcelona) a dos ladrones multirreincidentes que suman 24 antecedentes por robar el móvil a una muje r, a quien amenazaron con un arma blanca . Según ha informado la policía de la Generalitat este martes, los investigados, de 24 y 26 años, circulaban en u.
-
-Date: 2026-07-21
-
 ## Fuentes
 
-- [Un condenado por descuartizar a su compañero de piso se fuga en una salida programada de prisión](https://www.elconfidencial.com/espana/cataluna/2026-07-22/condenado-descuartizar-companero-piso-fuga-salida-prision_4394380/?utm_source=lootura.com) — 2026-07-22T15:26:00.000Z
+- [Linchamiento en redes a Rodri por su «viva España, viva el Rey»](https://www.abc.es/deportes/futbol/mundial/linchamiento-redes-rodri-viva-espana-viva-rey-20260722192643-nt_amp.html?utm_source=lootura.com) — 2026-07-22T17:26:43.000Z
 - [Una testigo revela que la terapia de los Andic incluía una situación extrema en un barranco](https://elpais.com/espana/catalunya/2026-07-22/una-testigo-revela-que-la-terapia-de-los-andic-incluia-una-situacion-extrema-en-un-barranco.html?utm_source=lootura.com) — 2026-07-22T07:44:28.000Z
-- [Así será la pretemporada del FC Barcelona: Italia y un Gamper aún sin rival confirmado](https://theobjective.com/deportes/futbol/2026-07-22/pretemporada-barcelona-italia-gamper/?amp=&utm_source=lootura.com) — 2026-07-22T13:44:24.000Z

@@ -3,10 +3,16 @@
 > Sigue la actividad de Estados Unidos de Venezuela en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-22T10:23:10.282Z
+- Actualizado: 2026-07-22T21:08:41.543Z
 - Canonical: https://atlas.lootura.com/es/place/venezuela
 
 ## Cambios recientes
+
+### Trump blinda a Delcy hasta que celebre elecciones en Venezuela dentro de un año
+
+Donald Trump ha decidido proteger judicialmente a Delcy Rodríguez, pero no liberarla de la amenaza de los tribunales estadounidenses. La inmunidad solicitada por su Administración ante un juez federal de Miami es un escudo condicionado , pues solo existe mientras ella siga siendo la jefa de Estado reconocida por Estado.
+
+Date: 2026-07-22
 
 ### El PP apunta a Sánchez por el 'caso ZP' y avisa de que «este chanchullo se los puede llevar a los dos por delante»
 
@@ -62,12 +68,6 @@ El balance de muertos por el doble terremoto de magnitud 7,2 y 7,5 ocurrido hace
 
 Date: 2026-07-15
 
-### Machado defiende su regreso a Venezuela como fuerza «estabilizadora» y «pacificadora»
-
-La líder de la oposición y premio Nobel de la Paz, María Corina Machado , ha defendido este miércoles su regreso a Venezuela como una fuerza «estabilizadora» y «pacificadora», insistiendo en que solo una transición democrática llevará la estabilidad al país tras la caída de Nicolás Maduro. «Ese es mi propósito ahora qu.
-
-Date: 2026-07-15
-
 ## Fuentes
 
-No public source links.
+- [Trump blinda a Delcy hasta que celebre elecciones en Venezuela dentro de un año](https://www.abc.es/internacional/trump-blinda-temporalmente-delcy-prepara-elecciones-venezuela-20260721195048-nt.html?utm_source=lootura.com) — 2026-07-22T20:30:40.000Z

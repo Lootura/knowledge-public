@@ -3,10 +3,16 @@
 > Follow Red Sea, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-22T17:16:02.754Z
+- Updated: 2026-07-22T21:09:05.351Z
 - Canonical: https://atlas.lootura.com/us/place/red-sea
 
 ## Recent changes
+
+### See How Houthis Put the Red Sea at Risk as an Alternative Oil Route
+
+Saudi Arabia has diverted huge amounts of oil to the Red Sea since the Iran war began, but now the Iranian-backed Houthi militants say that they intend to block that route.
+
+Date: 2026-07-22
 
 ### See How Houthis Put the Red Sea at Risk as an Alternative Oil Route
 

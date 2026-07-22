@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/venezuela/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/venezuela/index.json",
   "description": "Sigue la actividad de Estados Unidos de Venezuela en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-22T10:23:10.282Z",
+  "updatedAt": "2026-07-22T21:08:41.543Z",
   "aliases": [
     "BR Venezuela",
     "Bolivarian Republic of Venezuela",
@@ -19,6 +19,11 @@
     "República de Venezuela"
   ],
   "changes": [
+    {
+      "title": "Trump blinda a Delcy hasta que celebre elecciones en Venezuela dentro de un año",
+      "summary": "Donald Trump ha decidido proteger judicialmente a Delcy Rodríguez, pero no liberarla de la amenaza de los tribunales estadounidenses. La inmunidad solicitada por su Administración ante un juez federal de Miami es un escudo condicionado , pues solo existe mientras ella siga siendo la jefa de Estado reconocida por Estado.",
+      "date": "2026-07-22"
+    },
     {
       "title": "El PP apunta a Sánchez por el 'caso ZP' y avisa de que «este chanchullo se los puede llevar a los dos por delante»",
       "summary": "Los populares creen probado que el expresidente contaba con los apoyos de Venezuela y Moncloa en sus actividades para rescatar a Plus UItra tras las revelaciones de su testaferro.",
@@ -63,13 +68,15 @@
       "title": "Sube a 4.829 la cifra de muertos por los terremotos de hace tres semanas en Venezuela",
       "summary": "El balance de muertos por el doble terremoto de magnitud 7,2 y 7,5 ocurrido hace tres semanas en la zona norte de Venezuela ha ascendido este miércoles a.",
       "date": "2026-07-15"
-    },
-    {
-      "title": "Machado defiende su regreso a Venezuela como fuerza «estabilizadora» y «pacificadora»",
-      "summary": "La líder de la oposición y premio Nobel de la Paz, María Corina Machado , ha defendido este miércoles su regreso a Venezuela como una fuerza «estabilizadora» y «pacificadora», insistiendo en que solo una transición democrática llevará la estabilidad al país tras la caída de Nicolás Maduro. «Ese es mi propósito ahora qu.",
-      "date": "2026-07-15"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Trump blinda a Delcy hasta que celebre elecciones en Venezuela dentro de un año",
+      "url": "https://www.abc.es/internacional/trump-blinda-temporalmente-delcy-prepara-elecciones-venezuela-20260721195048-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-22T20:30:40.000Z",
+      "sourceId": "lootura-es-abc"
+    }
+  ],
+  "evidenceCount": 1
 }

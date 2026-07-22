@@ -3,7 +3,7 @@
 > Follow Canada, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-22T17:16:02.754Z
+- Updated: 2026-07-22T21:09:05.351Z
 - Canonical: https://atlas.lootura.com/us/place/canada
 
 ## Recent changes
@@ -70,4 +70,4 @@ Date: 2026-07-19
 
 ## Sources
 
-- [Trump’s 50% Tariffs on Canada: What to Know, and What’s Next](https://www.nytimes.com/2026/07/22/world/canada/canada-trump-tariffs-trade.html?utm_source=lootura.com) — 2026-07-22T13:18:46.000Z
+- [Trump’s 50% Tariffs on Canada: What to Know, and What’s Next](https://www.nytimes.com/2026/07/22/world/canada/canada-trump-tariffs-trade.html?utm_source=lootura.com) — 2026-07-22T20:33:31.000Z

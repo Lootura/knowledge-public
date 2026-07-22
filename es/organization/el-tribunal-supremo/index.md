@@ -3,7 +3,7 @@
 > Sigue la actividad de El Tribunal Supremo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-22T17:15:40.463Z
+- Actualizado: 2026-07-22T21:08:41.543Z
 - Canonical: https://atlas.lootura.com/es/organization/el-tribunal-supremo
 
 ## Cambios recientes
@@ -17,6 +17,12 @@ Date: 2026-07-22
 ### Discovered by Atlas
 
 El Tribunal Supremo first entered the public knowledge record with source-backed evidence.
+
+Date: 2026-07-22
+
+### El Supremo reclama a la Junta Electoral central documentación de la 'ley de nietos'
+
+El Tribunal Supremo (TS) ha requerido a la Junta Electoral Central (JEC) que aporte documentación relativa a la conocida como 'ley de nietos', desp...
 
 Date: 2026-07-22
 
@@ -34,5 +40,5 @@ Date: 2026-07-22
 
 ## Fuentes
 
+- [El Supremo reclama a la Junta Electoral central documentación de la 'ley de nietos'](https://www.eldebate.com/espana/20260722/supremo-reclama-junta-electoral-central-documentacion-ley-nietos_442640.html?utm_source=lootura.com) — 2026-07-22T18:17:11.000Z
 - [El Tribunal Supremo levanta las medidas cautelares de Aldama a petición de su defensa](https://www.elmundo.es/espana/2026/07/22/6a60940f21efa097198b45a5.html?utm_source=lootura.com) — 2026-07-22T10:07:09.000Z
-- [El Supremo devuelve a Aldama su pasaporte para seguir con sus negocios en el extranjero](https://www.lavanguardia.com/politica/20260722/11598656/supremo-devuelve-aldama-pasaporte-seguir-negocios-extranjero.html?utm_source=lootura.com) — 2026-07-22T13:38:05.000Z

@@ -8,17 +8,12 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/la-comision-europea/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/la-comision-europea/index.json",
   "description": "Sigue la actividad de La Comisión Europea en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-22T17:15:40.463Z",
+  "updatedAt": "2026-07-22T21:08:41.543Z",
   "aliases": [],
   "changes": [
     {
       "title": "La Comisión Europea se limita a confirmar que ha recibido la denuncia de Puigdemont: \"No tenemos más comentarios\"",
       "summary": "Y sobre la sentencia del TJUE añade que \"corresponde a los órganos jurisdiccionales remitentes aplicar las sentencias del Tribunal\" Leer.",
-      "date": "2026-07-22"
-    },
-    {
-      "title": "La Comisión Europea recuerda que los tribunales españoles tienen que aplicar el fallo del TJUE",
-      "summary": "La Comisión Europea dice haber recibido la denuncia contra España interpuesta por el expresident de la Generalitat, Carles Puigdemont, como respuesta a la maniobra del Tribunal de Cuentas para no aplicar directamente la ley de Amnistía, pero de momento no ha dado pistas de lo que hará y se limita a recordar que “corres.",
       "date": "2026-07-22"
     },
     {
@@ -30,20 +25,30 @@
       "title": "Discovered by Atlas",
       "summary": "La Comisión Europea first entered the public knowledge record with source-backed evidence.",
       "date": "2026-07-22"
+    },
+    {
+      "title": "Bruselas autoriza con condiciones la compra de Warner con Paramount",
+      "summary": "La Comisión Europea autoriza la compra de Warner por Paramount . La empresa de David Ellison recibe esta buena noticia un día después de que en Estados Unidos una jueza bloqueara temporalmente la operación que ha marcado al sector de contenidos audiovisuales en todo el mundo en el último año. Pero no le sale gratis. Ha.",
+      "date": "2026-07-22"
+    },
+    {
+      "title": "La Comisión Europea recuerda que los tribunales españoles tienen que aplicar el fallo del TJUE",
+      "summary": "La Comisión Europea dice haber recibido la denuncia contra España interpuesta por el expresident de la Generalitat, Carles Puigdemont, como respuesta a la maniobra del Tribunal de Cuentas para no aplicar directamente la ley de Amnistía, pero de momento no ha dado pistas de lo que hará y se limita a recordar que “corres.",
+      "date": "2026-07-22"
     }
   ],
   "sources": [
+    {
+      "title": "Bruselas autoriza con condiciones la compra de Warner con Paramount",
+      "url": "https://elpais.com/economia/2026-07-22/bruselas-autoriza-con-condiciones-la-compra-de-warner-con-paramount.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-22T18:54:17.000Z",
+      "sourceId": "lootura-es-cinco-dias"
+    },
     {
       "title": "La Comisión Europea se limita a confirmar que ha recibido la denuncia de Puigdemont: \"No tenemos más comentarios\"",
       "url": "https://www.elmundo.es/espana/2026/07/22/6a60c810fdddff07098b457d.html?utm_source=lootura.com",
       "publishedAt": "2026-07-22T14:08:31.000Z",
       "sourceId": "lootura-es-el-mundo"
-    },
-    {
-      "title": "La Comisión Europea recuerda que los tribunales españoles tienen que aplicar el fallo del TJUE",
-      "url": "https://www.lavanguardia.com/politica/20260722/11598431/comision-europea-recibe-demanda-puigdemont-abstiene-comentarla.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-22T13:35:16.000Z",
-      "sourceId": "lootura-es-la-vanguardia"
     },
     {
       "title": "Bruselas rechaza mediar en la ley de amnistía: «Corresponde a los tribunales españoles»",

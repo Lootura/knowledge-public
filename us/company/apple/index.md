@@ -3,10 +3,16 @@
 > Follow Apple Inc., a tracked company, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: company
-- Updated: 2026-07-22T17:16:02.754Z
+- Updated: 2026-07-22T21:09:05.351Z
 - Canonical: https://atlas.lootura.com/us/company/apple
 
 ## Recent changes
+
+### Price-hiked iPads are a little cheaper right now
+
+The iPad Pro M5 is one of the iPads discounted for the sale. | Image: The Verge A number of Apple products got more expensive last month, so we’re happy to find deals wherever and whenever we can. If you’re searching for a high-end iPad, one of the more notable deals currently happening is on the 13-inch iPad Pro M5 wi.
+
+Date: 2026-07-22
 
 ### Samsung’s newest foldable finally feels Ultra
 
@@ -22,4 +28,5 @@ Date: 2026-07-13
 
 ## Sources
 
-- [Apple is reportedly testing a MacBook Neo with more RAM](https://www.theverge.com/tech/969434/apple-macbook-neo-a19-pro-ram-upgrade?utm_source=lootura.com) — 2026-07-22T16:35:58.000Z
+- [iOS code could reportedly let Apple cut off apps when users miss iPhone payments](https://www.theverge.com/tech/969596/apple-restricted-mode-ios-27?utm_source=lootura.com) — 2026-07-22T19:13:21.000Z
+- [Price-hiked iPads are a little cheaper right now](https://www.theverge.com/gadgets/969003/apple-ipad-air-pro-airtag-deal-sale?utm_source=lootura.com) — 2026-07-22T19:14:31.000Z

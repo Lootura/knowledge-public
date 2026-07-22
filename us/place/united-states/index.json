@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/united-states/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/united-states/index.json",
   "description": "Follow United States, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-22T17:16:02.754Z",
+  "updatedAt": "2026-07-22T21:09:05.351Z",
   "aliases": [
     "America",
     "Estados Unidos",
@@ -54,11 +54,6 @@
       "date": "2026-07-22"
     },
     {
-      "title": "A Mexican Town Was Known for Lettuce. Now It’s Because of Cyclospora.",
-      "summary": "In central Mexico, a lettuce-growing region has been potentially linked to an outbreak in the U.S. that has sickened thousands.",
-      "date": "2026-07-22"
-    },
-    {
       "title": "Sen. Bennet rails against trade chief for Trump policy's impact on farmers",
       "summary": "Sen. Michael Bennet, a Democrat from Washington, challenged some of U.S. Trade Representative Jamieson Greer's assertions about the successes of President Trump's trade policies and their impact on farmers.",
       "date": "2026-07-22"
@@ -74,17 +69,34 @@
       "date": "2026-07-22"
     },
     {
-      "title": "There are gaps in food access in Georgia, but not where you'd expect",
-      "summary": "In 2023, more than 50 million people across the United States turned to food pantries and other charitable organizations for meals. But many may be unable to access the food they need, particularly if they live in a more well-off area, according to a new study from the University of Georgia published in The Professiona.",
+      "title": "U.S.-Saudi Nuclear Deal Stokes Israeli Concerns of Mideast Arms Race",
+      "summary": "An Israeli minister sought to downplay the agreement, while critics said it could spur other regional countries to pursue a nuclear program, and potentially the creation of a bomb.",
       "date": "2026-07-22"
     },
     {
-      "title": "Measles cases in the U.S. hit a new 34-year high",
-      "summary": "The U.S. hasn't seen measles numbers like this since 1992. An epidemiologist explains what's driving the surge.",
+      "title": "Latest on U.S.-Saudi nuclear deal, Trump threats against Iranian infrastructure",
+      "summary": "CBS News National security analyst Aaron MacLean breaks down President Trump's threats against Iranian infrastructure and the United States' new nuclear deal with Saudi Arabia.",
+      "date": "2026-07-22"
+    },
+    {
+      "title": "Waltz clashes with Rep. Jackson over Cuba question: \"Absolute propaganda\"",
+      "summary": "U.S. Ambassador to the United Nations Mike Waltz testified Wednesday in front of the House Foreign Affairs Committee, where he and Rep. Jonathan L. Jackson had a tense exchange on the current U.S.-Cuba situation.",
       "date": "2026-07-22"
     }
   ],
   "sources": [
+    {
+      "title": "Latest on U.S.-Saudi nuclear deal, Trump threats against Iranian infrastructure",
+      "url": "https://www.cbsnews.com/video/details-on-us-saudi-nuclear-deal-trump-threads-against-iranian-infrastructure/?utm_source=lootura.com",
+      "publishedAt": "2026-07-22T20:00:09.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
+    {
+      "title": "Waltz clashes with Rep. Jackson over Cuba question: \"Absolute propaganda\"",
+      "url": "https://www.cbsnews.com/video/mike-waltz-snaps-back-at-rep-jackson-over-cuban-blockade-question-absolute-propaganda/?utm_source=lootura.com",
+      "publishedAt": "2026-07-22T20:03:08.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
     {
       "title": "Watch: Sen. Bennet rails against trade chief for Trump policy's impact on farmers",
       "url": "https://www.cbsnews.com/video/sen-bennet-and-jamieson-greer-clash-over-trump-policy-impacts-on-farmers/?utm_source=lootura.com",
@@ -98,10 +110,28 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
+      "title": "Trump speaks at Georgia high school after attending dignified transfer",
+      "url": "https://www.cbsnews.com/video/trump-speaks-at-georgia-high-school-after-attending-dignified-transfer/?utm_source=lootura.com",
+      "publishedAt": "2026-07-22T20:31:04.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
+    {
       "title": "\"Nothing is going through\" the Strait of Hormuz, shipping insider says",
       "url": "https://www.cbsnews.com/news/iran-war-strait-of-hormuz-not-open-red-sea-bab-el-mandeb/?utm_source=lootura.com",
       "publishedAt": "2026-07-22T16:59:52.000Z",
       "sourceId": "lootura-us-cbs-news"
+    },
+    {
+      "title": "What to know about Taylor Farms amid the cyclospora outbreak",
+      "url": "https://www.cbsnews.com/news/taylor-farms-cyclospora-outbreak/?utm_source=lootura.com",
+      "publishedAt": "2026-07-22T20:16:52.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
+    {
+      "title": "Send your questions for Richard Engel on the war with Iran and more",
+      "url": "https://www.nbcnews.com/world/iran/richard-engel-qa-iran-rcna353221?utm_source=lootura.com",
+      "publishedAt": "2026-07-22T18:21:09.000Z",
+      "sourceId": "lootura-us-nbc-news"
     },
     {
       "title": "U.S. identifies 3rd service member ‘believed’ killed in Iranian attack",
@@ -110,41 +140,11 @@
       "sourceId": "lootura-us-nbc-news"
     },
     {
-      "title": "Staying in a job for the health insurance? About 1 in 4 Americans do, a survey says",
-      "url": "https://www.npr.org/2026/07/22/nx-s1-5902333/health-insurance-jobs-gallup?utm_source=lootura.com",
-      "publishedAt": "2026-07-22T04:01:00.000Z",
-      "sourceId": "lootura-us-npr"
-    },
-    {
-      "title": "Trump will attend the dignified transfer of 4 U.S. service members killed in the Middle East",
-      "url": "https://www.pbs.org/newshour/world/trump-will-attend-the-dignified-transfer-of-4-u-s-service-members-killed-in-the-middle-east?utm_source=lootura.com",
-      "publishedAt": "2026-07-22T14:27:14.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
-    },
-    {
-      "title": "There are gaps in food access in Georgia, but not where you'd expect",
-      "url": "https://phys.org/news/2026-07-gaps-food-access-georgia-youd.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-22T16:00:01.000Z",
-      "sourceId": "lootura-us-phys-org"
-    },
-    {
-      "title": "Measles cases in the U.S. hit a new 34-year high",
-      "url": "https://www.sciencenews.org/article/measles-us-34-high-elimination-vaccine?utm_source=lootura.com",
-      "publishedAt": "2026-07-22T14:19:58.000Z",
-      "sourceId": "lootura-us-science-news"
-    },
-    {
-      "title": "CDC cuts leave US less prepared for disease outbreaks, former officials warn",
-      "url": "https://www.theguardian.com/us-news/2026/jul/22/cdc-cuts-disease-outbreaks-cyclospora-hantavirus-measles?utm_source=lootura.com",
-      "publishedAt": "2026-07-22T14:00:16.000Z",
-      "sourceId": "lootura-us-the-guardian-us"
-    },
-    {
-      "title": "Cyclospora Cases in the U.S. Hit Record High",
-      "url": "https://www.nytimes.com/2026/07/21/well/cyclospora-cases-record-cdc.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-21T23:30:24.000Z",
-      "sourceId": "lootura-us-the-new-york-times"
+      "title": "Oil surges past $95 as U.S. downplays Iran diplomacy and 2nd key trade route is disrupted",
+      "url": "https://www.nbcnews.com/business/business-news/oil-prices-brent-gas-iran-war-trump-hormuz-red-sea-houthis-rcna588671?utm_source=lootura.com",
+      "publishedAt": "2026-07-22T11:15:37.000Z",
+      "sourceId": "lootura-us-nbc-news"
     }
   ],
-  "evidenceCount": 16
+  "evidenceCount": 17
 }

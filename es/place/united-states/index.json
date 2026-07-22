@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/united-states/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/united-states/index.json",
   "description": "Sigue la actividad de Estados Unidos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-22T17:15:40.463Z",
+  "updatedAt": "2026-07-22T21:08:41.543Z",
   "aliases": [
     "America",
     "EE.UU.",
@@ -42,11 +42,6 @@
   ],
   "changes": [
     {
-      "title": "Trump aprueba acuerdo nuclear que permitiría a Arabia Saudí enriquecer uranio",
-      "summary": "Se prevé que el acuerdo tenga una vigencia de 30 años y que también implique a empresas de Estados Unidos en el desarrollo del programa Leer.",
-      "date": "2026-07-22"
-    },
-    {
       "title": "El alcalde de Nueva York, Zohran Mamdani, insta a Trump a detener al “criminal” Netanyahu si entra en Estados Unidos",
       "summary": "Zohran Mamdani ganó el año pasado las elecciones a la alcaldía de Nueva York con un discurso durísimo contra el Gobierno israelí y su actuación en Gaza y Cisjordania. Ahora ha dado un paso más al reclamar a la Administración republicana de Donald Trump que detenga al primer ministro Benjamín Netanyahu si pisa suelo est.",
       "date": "2026-07-22"
@@ -59,6 +54,21 @@
     {
       "title": "El talento latinoamericano emigra hacia España y vacía de capital humano a muchos países de la región",
       "summary": "koldo_studio/Shutterstock América Latina vive una paradoja demográfica muy particular. Muchos gobiernos miden el éxito económico mediante el flujo de remesas. Sin embargo, la región pierde hoy a sus mejores profesionales. Una hemorragia de capital intelectual y financiero que está transformando la fisonomía de sus clas.",
+      "date": "2026-07-22"
+    },
+    {
+      "title": "El pacto nuclear de EE.UU. con Arabia Saudí hace temer una carrera atómica en Oriente Próximo",
+      "summary": "Fuentes oficiales de la Casa Blanca han filtrado a los principales medios de prensa anglosajones que el presidente Trump ha cerrado un acuerdo para compartir tecnología nuclear con Arabia Saudí. El plan, que será sometido al Congreso de Estados Unidos para su aprobación, supone un cambio de política radical al no inclu.",
+      "date": "2026-07-22"
+    },
+    {
+      "title": "Bruselas autoriza con condiciones la compra de Warner con Paramount",
+      "summary": "La Comisión Europea autoriza la compra de Warner por Paramount . La empresa de David Ellison recibe esta buena noticia un día después de que en Estados Unidos una jueza bloqueara temporalmente la operación que ha marcado al sector de contenidos audiovisuales en todo el mundo en el último año. Pero no le sale gratis. Ha.",
+      "date": "2026-07-22"
+    },
+    {
+      "title": "Trump amenaza con destruir puentes o centrales eléctricas cada vez que Irán ataque un barco en Ormuz",
+      "summary": "Estados Unidos e Irán cada vez están más cerca de una guerra total al tiempo que el conflicto entra en un callejón sin salida. El presidente de Estados Unidos, Donald Trump, ha prometido este miércoles destruir un puente o una central eléctrica iraní cada vez que Irán dispare contra un barco en el estrecho de Ormuz. El.",
       "date": "2026-07-22"
     },
     {
@@ -80,24 +90,26 @@
       "title": "Sebastián Yatra cantará el 10 de octubre en el festival de la Hispanidad en Madrid",
       "summary": "El músico colombiano será el cabeza de cartel, en el que también estará Marta Sánchez, en la semana de eventos y conciertos en la región y en la que Estados Unidos será el país invitado.",
       "date": "2026-07-21"
-    },
-    {
-      "title": "Spencer Tunick lleva sus desnudos colectivos a Canarias: “Hay demasiado odio hacia la gente de mente abierta”",
-      "summary": "Cuando, en los años noventa, Spencer Tunick comenzaba su carrera, en Nueva York, a diferencia de otros lugares de Estados Unidos, se permitía fotografiar desnudos en las calles, siempre que fuera con fines artísticos. De ese modo, él aprovechaba las primeras horas del día, cuando la ciudad se estaba desperezando y las.",
-      "date": "2026-07-21"
-    },
-    {
-      "title": "La Comunidad de Madrid celebrará del 2 al 12 de octubre la fiesta de la Hispanidad con EEUU como país invitado",
-      "summary": "La Comunidad de Madrid ha presentado este martes la sexta edición de Hispanidad , la gran cita de la cultura en español que se celebrará del 2 al 12 de octubre con más de 150 actividades de música, gastronomía, cine, folclore, arte y patrimonio repartidas por la capital y la región. Estados Unidos será el país invitado.",
-      "date": "2026-07-21"
     }
   ],
   "sources": [
     {
-      "title": "Trump aprueba acuerdo nuclear que permitiría a Arabia Saudí enriquecer uranio",
-      "url": "https://www.elmundo.es/internacional/2026/07/22/6a605530e9cf4a8a088b4596.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-22T05:35:01.000Z",
-      "sourceId": "lootura-es-el-mundo"
+      "title": "El pacto nuclear de EE.UU. con Arabia Saudí hace temer una carrera atómica en Oriente Próximo",
+      "url": "https://www.abc.es/internacional/eeuu-arabia-saudi-firman-acuerdo-nuclear-despierta-20260722210722-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-22T20:28:49.000Z",
+      "sourceId": "lootura-es-abc"
+    },
+    {
+      "title": "Bruselas autoriza con condiciones la compra de Warner con Paramount",
+      "url": "https://elpais.com/economia/2026-07-22/bruselas-autoriza-con-condiciones-la-compra-de-warner-con-paramount.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-22T18:54:17.000Z",
+      "sourceId": "lootura-es-cinco-dias"
+    },
+    {
+      "title": "Trump amenaza con destruir puentes o centrales eléctricas cada vez que Irán ataque un barco en Ormuz",
+      "url": "https://elpais.com/internacional/2026-07-22/trump-amenaza-con-destruir-puentes-o-centrales-electricas-cada-vez-que-teheran-ataque-un-barco-ormuz.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-22T18:31:32.000Z",
+      "sourceId": "lootura-es-el-pais"
     },
     {
       "title": "El alcalde de Nueva York, Zohran Mamdani, insta a Trump a detener al “criminal” Netanyahu si entra en Estados Unidos",
@@ -118,5 +130,5 @@
       "sourceId": "lootura-es-the-conversation-espana"
     }
   ],
-  "evidenceCount": 4
+  "evidenceCount": 7
 }

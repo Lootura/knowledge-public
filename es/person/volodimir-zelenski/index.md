@@ -3,10 +3,16 @@
 > Sigue la actividad de Volodímir Zelenski en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-22T10:23:10.282Z
+- Actualizado: 2026-07-22T21:08:41.543Z
 - Canonical: https://atlas.lootura.com/es/person/volodimir-zelenski
 
 ## Cambios recientes
+
+### Del heroísmo a los algoritmos: Zelenski sustituye al veterano jefe del ejército por un reformista para intentar cerrar su mayor crisis interna
+
+Buscando un equilibrio que calme las calles y no le cueste más capital político, Volodimir Zelenski destituyó el martes por la noche al comandante en jefe de las Fuerzas Armadas...
+
+Date: 2026-07-22
 
 ### Zelenski destituye al jefe del Ejército ucraniano tras las protestas por el cese del ministro de Defensa
 
@@ -46,4 +52,4 @@ Date: 2026-07-16
 
 ## Fuentes
 
-No public source links.
+- [Del heroísmo a los algoritmos: Zelenski sustituye al veterano jefe del ejército por un reformista para intentar cerrar su mayor crisis interna](https://amp.elmundo.es/internacional/2026/07/22/6a60f897e85ece030d8b457e.html?utm_source=lootura.com) — 2026-07-22T17:11:47.000Z

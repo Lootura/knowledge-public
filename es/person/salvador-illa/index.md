@@ -46,4 +46,4 @@ Date: 2026-07-16
 
 ## Fuentes
 
-- [Illa desvela el plantón de los catalanes campeones del mundo: «No han querido venir»](https://theobjective.com/espana/cataluna/2026-07-22/illa-planton-catalanes-campeones-mundo/?utm_source=lootura.com) — 2026-07-22T15:17:10.000Z
+No public source links.
