@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/katie-hobbs/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/katie-hobbs/index.json",
   "description": "Follow Katie Hobbs, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-22T10:23:35.990Z",
+  "updatedAt": "2026-07-22T13:46:43.033Z",
   "aliases": [
     "Hobbs",
     "Kathleen M. Hobbs",
@@ -32,6 +32,11 @@
       "date": "2026-07-22"
     },
     {
+      "title": "Trump-Backed Rep. Andy Biggs Wins Arizona Governor Primary",
+      "summary": "Arizona Rep. Andy Biggs was the runaway winner of the Republican primary in the governor’s race. That sets up a matchup this fall with Democratic Gov. Katie Hobbs. Biggs, who was endorsed by President Donald Trump, held a consistent lead in the polls leading up to the vote.",
+      "date": "2026-07-22"
+    },
+    {
       "title": "Trump-backed Rep. Andy Biggs wins GOP primary for Arizona governor",
       "summary": "NBC News projects that Biggs defeated fellow Rep. David Schweikert to move on to the general election against Democratic Gov. Katie Hobbs.",
       "date": "2026-07-22"
@@ -45,11 +50,17 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
+      "title": "Trump-Backed Rep. Andy Biggs Wins Arizona Governor Primary",
+      "url": "https://www.today.com/video/trump-backed-rep-andy-biggs-wins-arizona-governor-primary-267091013514?utm_source=lootura.com",
+      "publishedAt": "2026-07-22T12:14:34.000Z",
+      "sourceId": "lootura-us-nbc-news-politics"
+    },
+    {
       "title": "Trump Pick Wins G.O.P. Nomination to Challenge Arizona Governor",
       "url": "https://www.nytimes.com/2026/07/21/us/elections/arizona-governor-andy-biggs-republican-primary.html?utm_source=lootura.com",
       "publishedAt": "2026-07-22T03:06:56.000Z",
       "sourceId": "lootura-us-the-new-york-times"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 3
 }

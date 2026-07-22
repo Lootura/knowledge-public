@@ -3,10 +3,16 @@
 > Follow Middle East, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-21T21:06:38.270Z
+- Updated: 2026-07-22T13:46:43.033Z
 - Canonical: https://atlas.lootura.com/us/place/middle-east
 
 ## Recent changes
+
+### Trump to attend dignified transfer of fallen soldiers. And, Hegseth testifies on Iran
+
+Trump will attend the dignified transfer of U.S. service members killed in the Middle East. And, Pete Hegseth is requesting billions from Congress to help with the rising cost of the war in Iran. (Image credit: Saul Loeb).
+
+Date: 2026-07-22
 
 ### Houthis in Yemen Edge Closer to Entering U.S.-Iran War
 
@@ -40,4 +46,4 @@ Date: 2026-07-20
 
 ## Sources
 
-No public source links.
+- [Trump to attend dignified transfer of fallen soldiers. And, Hegseth testifies on Iran](https://www.npr.org/2026/07/22/g-s1-134896/up-first-newsletter-trump-iran-war-pete-hegseth-arizona-primaries?utm_source=lootura.com) — 2026-07-22T11:24:22.000Z

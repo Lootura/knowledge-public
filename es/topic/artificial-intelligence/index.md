@@ -3,10 +3,16 @@
 > Sigue la actividad de Artificial intelligence en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: topic
-- Actualizado: 2026-07-22T10:23:10.282Z
+- Actualizado: 2026-07-22T13:46:22.256Z
 - Canonical: https://atlas.lootura.com/es/topic/artificial-intelligence
 
 ## Cambios recientes
+
+### Samsung regala 6 meses de Google AI Pro con sus nuevos Galaxy Z Fold 8 y Z Flip 8
+
+Samsung ha presentado su nueva familia de plegables Galaxy Z. Tras meses de rumores y filtraciones, el fabricante reveló los nuevos Galaxy Z Fold 8, Galaxy Z Fold 8 Ultra y Galaxy Z Flip 8 , cada uno enfocado a un público particular. Aunque sus funciones han acaparado los reflectores, los móviles incluyen un beneficio.
+
+Date: 2026-07-22
 
 ### Este pequeño, pero matón portátil de Acer está hecho para la IA y acaba de tocar su precio mínimo en MediaMarkt
 
@@ -40,4 +46,5 @@ Date: 2026-07-10
 
 ## Fuentes
 
-- [La Primera de Expansión sobre Santander, Holaluz, Iberdrola, Ormuz, Infantino y OpenAI](https://www.expansion.com/podcasts/la-primera-de-expansion/2026/07/22/6a604cca468aeb35718b457d.html?utm_source=lootura.com) — 2026-07-22T05:33:26.000Z
+- [Un nuevo modelo de OpenAI provoca un ataque “sin precedentes” contra otra plataforma de inteligencia artificial](https://elpais.com/tecnologia/2026-07-22/un-nuevo-modelo-de-openai-provoca-un-ataque-sin-precedentes-contra-otra-plataforma-de-inteligencia-artificial.html?utm_source=lootura.com) — 2026-07-22T11:50:39.000Z
+- [Samsung regala 6 meses de Google AI Pro con sus nuevos Galaxy Z Fold 8 y Z Flip 8](https://hipertextual.com/mobile/galaxy-z-fold8-flip8-google-ai-pro-gratis/?utm_source=lootura.com) — 2026-07-22T13:05:00.000Z

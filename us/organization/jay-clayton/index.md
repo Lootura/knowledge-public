@@ -58,5 +58,4 @@ Date: 2026-07-15
 
 ## Sources
 
-- [Senate panel advances Jay Clayton's nomination for director of national intelligence](https://www.pbs.org/newshour/politics/senate-panel-advances-jay-claytons-nomination-for-director-of-national-intelligence?utm_source=lootura.com) — 2026-07-22T00:26:02.000Z
-- [Senate Panel Advances Jay Clayton as Next Spy Chief on Party-Line Vote](https://www.nytimes.com/2026/07/21/us/politics/senate-panel-jay-clayton-spy-chief.html?utm_source=lootura.com) — 2026-07-21T21:38:01.000Z
+No public source links.

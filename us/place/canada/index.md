@@ -3,10 +3,16 @@
 > Follow Canada, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-22T10:23:35.990Z
+- Updated: 2026-07-22T13:46:43.033Z
 - Canonical: https://atlas.lootura.com/us/place/canada
 
 ## Recent changes
+
+### Trump’s 50% Tariffs on Canada: What to Know, and What’s Next
+
+The president said punishing 50 percent tariffs would begin by Aug. 19, a significant escalation of the trade war between Canada and the U.S. that he started over a year ago.
+
+Date: 2026-07-22
 
 ### Canada cancels joint bridge-opening celebration with US amid trade tensions
 
@@ -62,12 +68,6 @@ A follow-up national survey developed by Western researchers shows workplace har
 
 Date: 2026-07-19
 
-### Wildfire smoke fouls air across Northeast
-
-Smoke from hundreds of wildfires burning across Canada and Minnesota is creating air quality issues in the Northeast. There are also severe weather threats to the Midwest, as well as the risk of flash flooding in some areas. Meteorologist Andrew Kozak has the forecast.
-
-Date: 2026-07-19
-
 ## Sources
 
-- [Trump hits Canada with slew of new 50% tariffs set to take effect in 30 days](https://www.npr.org/2026/07/21/nx-s1-5901957/trump-hits-canada-with-slew-of-new-50-tariffs-set-to-take-effect-in-30-days?utm_source=lootura.com) — 2026-07-21T20:09:34.000Z
+- [Trump’s 50% Tariffs on Canada: What to Know, and What’s Next](https://www.nytimes.com/2026/07/22/world/canada/canada-trump-tariffs-trade.html?utm_source=lootura.com) — 2026-07-22T13:18:46.000Z

@@ -3,10 +3,16 @@
 > Sigue la actividad de La Mancha en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-22T10:23:10.282Z
+- Actualizado: 2026-07-22T13:46:22.256Z
 - Canonical: https://atlas.lootura.com/es/place/la-mancha
 
 ## Cambios recientes
+
+### El incendio de Guadalajara entra en fase de “estabilización” tras arrasar más de 32.000 hectáreas
+
+El incendio de La Mierla (Guadalajara), el más grande de la historia de Castilla-La Mancha , que ha arrasado más de 32.000 hectáreas, ya ha entrado en fase de “estabilización”, según ha anunciado este miércoles el presidente de Castilla-La Mancha, Emiliano García-Page, desde el puesto de mando avanzado de Tamajón, en u.
+
+Date: 2026-07-22
 
 ### Incendio de Guadalajara, en directo: última hora del avance del fuego en La Mierla y Selas
 
@@ -62,12 +68,6 @@ La Mancha first entered the public knowledge record with source-backed evidence.
 
 Date: 2026-07-18
 
-### Incendios en España, en directo hoy: última hora de los fuegos activos, evolución y situación en Aragón, Castilla-La Mancha, Madrid y Andalucía
-
-España afronta una nueva jornada de máxima alerta por incendios forestales después de un viernes marcado por varios grandes fuegos activos en diferentes comunidades autónomas y un amplio despliegue de medios de extinción. Los servicios de emergencia han trabajado durante toda la noche para consolidar los perímetros, pr.
-
-Date: 2026-07-18
-
 ## Fuentes
 
-- [Incendio de Guadalajara, en directo: última hora del avance del fuego en La Mierla y Selas](https://www.larazon.es/sociedad/incendio-guadalajara-directo-ultima-hora-avance-fuego-mierla-selas_202607226a6041794687a22bdec6bd84.html?utm_source=lootura.com) — 2026-07-22T10:15:24.000Z
+- [El incendio de Guadalajara entra en fase de “estabilización” tras arrasar más de 32.000 hectáreas](https://elpais.com/espana/2026-07-22/el-incendio-de-guadalajara-entra-en-fase-de-estabilizacion-tras-arrasar-mas-de-32000-hectareas.html?utm_source=lootura.com) — 2026-07-22T11:03:06.000Z

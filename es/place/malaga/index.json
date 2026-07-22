@@ -8,9 +8,14 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/malaga/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/malaga/index.json",
   "description": "Sigue la actividad de Málaga en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-22T06:25:50.604Z",
+  "updatedAt": "2026-07-22T13:46:22.256Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "El crimen de Benahavís (Málaga): víctima y autor se conocían, pero el Gobierno descarta por ahora la violencia machista",
+      "summary": "El Ejecutivo desestima, «de momento», la violencia de género tras tomar declaración a la hija.",
+      "date": "2026-07-22"
+    },
     {
       "title": "Amenazan a un futbolista vasco del Málaga por apoyar a Argentina contra España: «Etarra. Traidor. Antiespañol»",
       "summary": "Einar Galilea llegó a la Costa del Sol hace tres años, cuando los boquerones aún eran un equipo de Primera RFEF.",
@@ -55,13 +60,15 @@
       "title": "Los hoteleros de Málaga rechazan la moratoria que prohíbe levantar establecimientos turísticos",
       "summary": "La patronal hotelera de la Costa del Sol (Aehcos) ha apelado este viernes al diálogo y a la seguridad jurídica ante la moratoria de tres años aprobada por el Ayuntamiento de Málaga para nuevos hoteles y apartamentos turísticos en suelo residencial, una medida que considera ineficaz para resolver el problema del acceso.",
       "date": "2026-07-17"
-    },
-    {
-      "title": "La autovía que nunca llega a Ronda: 30 años de espera y un exiguo primer paso",
-      "summary": "Cuando un viajero llega en coche a Ronda desde Málaga , el paisaje da paso a una postal icónica del patrimonio andaluz: el Tajo, una espectacular garganta excavada por el río Guadalevín. Este verano, la apertura de la segunda fase del Camino del Desfiladero permitirá recorrer el interior de este famoso cortado, pasando.",
-      "date": "2026-07-17"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "El crimen de Benahavís (Málaga): víctima y autor se conocían, pero el Gobierno descarta por ahora la violencia machista",
+      "url": "https://www.elcorreo.com/sociedad/crimen-benahavis-malaga-victima-autor-conocian-gobierno-20260722133842-ntrc.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-22T11:38:43.000Z",
+      "sourceId": "lootura-es-el-correo"
+    }
+  ],
+  "evidenceCount": 1
 }

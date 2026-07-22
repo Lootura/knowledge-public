@@ -3,10 +3,16 @@
 > Follow Ukraine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-22T10:23:35.990Z
+- Updated: 2026-07-22T13:46:43.033Z
 - Canonical: https://atlas.lootura.com/us/place/ukraine
 
 ## Recent changes
+
+### Firing of Ukraine’s Top General Signals the End of an Era
+
+Gen. Oleksandr Syrskyi, who commanded crucial battles, oversaw an expansion of drone warfare against Russia, but many Ukrainians want even more.
+
+Date: 2026-07-22
 
 ### Ukraine's Zelenskyy fires top military commander amid ongoing protests
 
@@ -14,15 +20,15 @@ Ukraine's President Volodymyr Zelenskyy fires the country's army chief, just day
 
 Date: 2026-07-22
 
-### News Wrap: Gulf Coast prepares for Tropical Storm Bertha
-
-In our news wrap Tuesday, millions along the Gulf Coast are bracing for impacts from Tropical Storm Bertha, Ukrainian President Zelenskyy fired the commander-in-chief of Ukraine's armed forces in the latest shake-up of his top military ranks and New Jersey's governor said more than 6,000 noncitizens were registered to.
-
-Date: 2026-07-21
-
 ### Mykhailo Drapatyi: What to Know About Ukraine’s New Top General
 
 Maj. Gen. Mykhailo Drapatyi, a decorated commander, is popular both inside and outside of his country.
+
+Date: 2026-07-21
+
+### News Wrap: Gulf Coast prepares for Tropical Storm Bertha
+
+In our news wrap Tuesday, millions along the Gulf Coast are bracing for impacts from Tropical Storm Bertha, Ukrainian President Zelenskyy fired the commander-in-chief of Ukraine's armed forces in the latest shake-up of his top military ranks and New Jersey's governor said more than 6,000 noncitizens were registered to.
 
 Date: 2026-07-21
 
@@ -62,14 +68,7 @@ At a conference on reconstruction, the focus shifted to private investment, not 
 
 Date: 2026-07-20
 
-### Zelensky Faces Pressure to Remove Ukraine’s Top General
-
-Demonstrators and many soldiers want President Volodymyr Zelensky to reaffirm the vision of drone warfare laid out by the defense minister he fired last week.
-
-Date: 2026-07-20
-
 ## Sources
 
-- [Ukraine's Zelenskyy fires top military commander amid ongoing protests](https://www.npr.org/2026/07/22/nx-s1-5902279/ukraines-zelenskyy-fires-top-military-commander-amid-ongoing-protests?utm_source=lootura.com) — 2026-07-22T08:46:42.000Z
-- [News Wrap: Gulf Coast prepares for Tropical Storm Bertha](https://www.pbs.org/newshour/show/news-wrap-gulf-coast-prepares-for-tropical-storm-bertha?utm_source=lootura.com) — 2026-07-21T22:45:25.000Z
 - [Mykhailo Drapatyi: What to Know About Ukraine’s New Top General](https://www.nytimes.com/2026/07/21/world/europe/ukraine-mykhailo-drapatyi.html?utm_source=lootura.com) — 2026-07-21T23:39:36.000Z
+- [Firing of Ukraine’s Top General Signals the End of an Era](https://www.nytimes.com/2026/07/22/world/europe/ukraine-syrskyi-general-russia-war.html?utm_source=lootura.com) — 2026-07-22T10:46:17.000Z

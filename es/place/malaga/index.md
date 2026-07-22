@@ -3,10 +3,16 @@
 > Sigue la actividad de Málaga en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-22T06:25:50.604Z
+- Actualizado: 2026-07-22T13:46:22.256Z
 - Canonical: https://atlas.lootura.com/es/place/malaga
 
 ## Cambios recientes
+
+### El crimen de Benahavís (Málaga): víctima y autor se conocían, pero el Gobierno descarta por ahora la violencia machista
+
+El Ejecutivo desestima, «de momento», la violencia de género tras tomar declaración a la hija.
+
+Date: 2026-07-22
 
 ### Amenazan a un futbolista vasco del Málaga por apoyar a Argentina contra España: «Etarra. Traidor. Antiespañol»
 
@@ -62,12 +68,6 @@ La patronal hotelera de la Costa del Sol (Aehcos) ha apelado este viernes al di�
 
 Date: 2026-07-17
 
-### La autovía que nunca llega a Ronda: 30 años de espera y un exiguo primer paso
-
-Cuando un viajero llega en coche a Ronda desde Málaga , el paisaje da paso a una postal icónica del patrimonio andaluz: el Tajo, una espectacular garganta excavada por el río Guadalevín. Este verano, la apertura de la segunda fase del Camino del Desfiladero permitirá recorrer el interior de este famoso cortado, pasando.
-
-Date: 2026-07-17
-
 ## Fuentes
 
-No public source links.
+- [El crimen de Benahavís (Málaga): víctima y autor se conocían, pero el Gobierno descarta por ahora la violencia machista](https://www.elcorreo.com/sociedad/crimen-benahavis-malaga-victima-autor-conocian-gobierno-20260722133842-ntrc.html?utm_source=lootura.com) — 2026-07-22T11:38:43.000Z

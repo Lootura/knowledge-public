@@ -3,10 +3,22 @@
 > Follow Getty Images, a tracked company, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: company
-- Updated: 2026-07-20T14:00:46.863Z
+- Updated: 2026-07-22T13:46:43.033Z
 - Canonical: https://atlas.lootura.com/us/company/getty-images
 
 ## Recent changes
+
+### How TIME and Statista Determined the World's Top EdTech Companies of 2026
+
+—Illustration by TIME; Mst Innaka Akter/Getty Images TIME has published the third annual " World’s Top EdTech Companies 2026 " ranking, in partnership with Statista, a leading international provider of market and consumer data and rankings. The result of this quantitative study: 500 companies dedicated to the developme.
+
+Date: 2026-07-22
+
+### How to Support Someone Without Giving Advice
+
+—Photo-Illustration by TIME (Source Image: Liquid Sky Studio/Getty Images) When someone you care about is going through a hard time, you'd probably do anything to help them feel better . Yet one of the easiest traps to fall into is offering advice too soon. "We'll often jump into, 'How can I fix this? How can I say the.
+
+Date: 2026-07-22
 
 ### How Livestreamed Child Abuse Is Challenging How We Think About Online Privacy
 
@@ -46,4 +58,5 @@ Date: 2026-07-16
 
 ## Sources
 
-No public source links.
+- [How TIME and Statista Determined the World's Top EdTech Companies of 2026](https://time.com/article/2026/07/22/worlds-top-edtech-companies-2026-methodology/?utm_source=lootura.com) — 2026-07-22T12:48:01.000Z
+- [How to Support Someone Without Giving Advice](https://time.com/article/2026/07/22/how-to-support-someone-without-giving-advice/?utm_source=lootura.com) — 2026-07-22T12:00:03.000Z

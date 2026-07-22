@@ -8,11 +8,16 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/canada/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/canada/index.json",
   "description": "Follow Canada, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-22T10:23:35.990Z",
+  "updatedAt": "2026-07-22T13:46:43.033Z",
   "aliases": [
     "Can"
   ],
   "changes": [
+    {
+      "title": "Trump’s 50% Tariffs on Canada: What to Know, and What’s Next",
+      "summary": "The president said punishing 50 percent tariffs would begin by Aug. 19, a significant escalation of the trade war between Canada and the U.S. that he started over a year ago.",
+      "date": "2026-07-22"
+    },
     {
       "title": "Canada cancels joint bridge-opening celebration with US amid trade tensions",
       "summary": "The ribbon-cutting celebration of the Gordie Howe International Bridge is no longer taking place after Trump announced a 50% tariff on Canadian goods A planned joint US-Canada ceremony Friday celebrating the opening of the Gordie Howe International Bridge connecting Detroit and Windsor, Ontario, is no longer expected t.",
@@ -57,19 +62,14 @@
       "title": "Are workplaces safer? Harassment and violence persist, survey finds",
       "summary": "A follow-up national survey developed by Western researchers shows workplace harassment and violence continue to be widespread in Canada, with some signs of improvement. The second national survey on harassment and violence at work in Canada was conducted by Western's Center for Research and Education on Violence Again.",
       "date": "2026-07-19"
-    },
-    {
-      "title": "Wildfire smoke fouls air across Northeast",
-      "summary": "Smoke from hundreds of wildfires burning across Canada and Minnesota is creating air quality issues in the Northeast. There are also severe weather threats to the Midwest, as well as the risk of flash flooding in some areas. Meteorologist Andrew Kozak has the forecast.",
-      "date": "2026-07-19"
     }
   ],
   "sources": [
     {
-      "title": "Trump hits Canada with slew of new 50% tariffs set to take effect in 30 days",
-      "url": "https://www.npr.org/2026/07/21/nx-s1-5901957/trump-hits-canada-with-slew-of-new-50-tariffs-set-to-take-effect-in-30-days?utm_source=lootura.com",
-      "publishedAt": "2026-07-21T20:09:34.000Z",
-      "sourceId": "lootura-us-npr-politics"
+      "title": "Trump’s 50% Tariffs on Canada: What to Know, and What’s Next",
+      "url": "https://www.nytimes.com/2026/07/22/world/canada/canada-trump-tariffs-trade.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-22T13:18:46.000Z",
+      "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
   "evidenceCount": 1

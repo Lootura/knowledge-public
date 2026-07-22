@@ -3,38 +3,14 @@
 > Sigue la actividad de España en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-22T10:23:10.282Z
+- Actualizado: 2026-07-22T13:46:22.256Z
 - Canonical: https://atlas.lootura.com/es/place/espana
 
 ## Cambios recientes
 
-### El país que vendió su verano: por qué España no puede vivir sin turistas
-
-No hay alternativas para el motor de la economía española. ¿Qué hacemos entonces con cien millones de turistas?
-
-Date: 2026-07-22
-
 ### El incendio de Guadalajara dispara la superficie quemada en España tras un nefasto comienzo de julio
 
 Si el año pasado las llamas se desbocaron en agosto arrasando el noroeste de la Península, coincidiendo con una extensa e intensa ola de calor , este verano los problemas han llegado antes a España, el país europeo con más superficie dañada en estos momentos. Tras un junio que ya fue complicado, en julio se ha disparad.
-
-Date: 2026-07-22
-
-### Los incendios en España duplican la superficie quemada en dos semanas y suman ya cerca de 120.000 hectáreas
-
-La superficie forestal quemada en España en lo que va de año se ha duplicado en las últimas dos semanas y se acerca ya a las 120.000 hectáreas , más del triple que en el mismo periodo de 2025, según datos del Sistema Europeo de Información sobre Incendios Forestales (EFFIS, por sus siglas en inglés). La extensión afect.
-
-Date: 2026-07-22
-
-### Luis García Abad, sobre Madring: «Poner en marcha un GP de Fórmula 1 no es solo hacer un circuito»
-
-El director general del Gran Premio de España analizó el impacto económico y deportivo de la prueba que se disputará del 11 al 13 de septiembre en torno al recinto ferial de Ifema.
-
-Date: 2026-07-22
-
-### Las cementeras esperan un enfriamiento de la demanda tras un alza del 7,5% en España en el primer semestre
-
-El mercado doméstico ha seguido tirando de la producción de cemento en los últimos meses, según apuntan los datos de demanda publicados este miércoles por la patronal Oficemen . El consumo ha aumentado un 7,5% en la primera mitad del año, en comparación con el mismo periodo de 2025, hasta los 8,35 millones de toneladas.
 
 Date: 2026-07-22
 
@@ -44,39 +20,63 @@ Vodafone España ha lanzado una plataforma digital destinada a la comercializaci
 
 Date: 2026-07-22
 
-### Qué es el chorro polar: el fenómeno atmosférico que podría cambiar de golpe el tiempo en España en tan solo 4 días
+### El PP se pliega a Vox y Les Corts Valencianes aprueban los primeros presupuestos en España que incluyen la “prioridad nacional”
 
-España afrontará una nueva ola de calor con temperaturas de hasta 45 ºC , aunque el escenario meteorológico podría cambiar de forma brusca en apenas cuatro días. Según ha explicado el meteorólogo Samuel Biener , a partir del viernes el chorro polar se reforzará y descenderá de latitud , lo que podría provocar un import.
-
-Date: 2026-07-22
-
-### Roberto Brasero, meteorólogo: "No todas las olas de calor son iguales, pero está se va a concentrar en el este y sur de España"
-
-Roberto Brasero ha advertido de la llegada de la tercera ola de calor del verano , un episodio que no afectará por igual a todo el territorio. “ No todas las olas de calor son iguales, pero esta se va a concentrar en el este y sur de España ”, ha explicado el meteorólogo, que sitúa el foco principal en el sureste penin.
+Vox llevaba meses advirtiendo al PP de que, si no se incluía expresamente su “prioridad nacional” en los Presupuestos de la Generalitat Valenciana para 2026, no los apoyaría. Este miércoles, la formación de extrema derecha ha impuesto su exigencia y el pleno de Les Corts ha aprobado las cuentas de 33.305 millones de eu.
 
 Date: 2026-07-22
 
-### El PP se pliega a Vox y Les Corts Valencianes aprueban los primeros presupuestos en España que incluyen la prioridad nacional
+### Cuatro radicales agreden brutalmente a un joven por llevar la bandera de España en Bilbao
 
-Vox llevaba meses advirtiendo al PP: si no se incluye expresamente su “prioridad nacional” en los Presupuestos de la Generalitat Valenciana para 2026, no los apoyará. Este miércoles, la formación de extrema derecha ha impuesto su exigencia y el pleno de Les Corts ha aprobado las cuentas de 33.305 millones de euros del.
+Los violentos golpearon en el cuerpo y cara al hombre, lo tiraron al piso y le pegaron patadas en la cabeza.
 
 Date: 2026-07-22
 
-### Moeve y ArcelorMittal firman el mayor acuerdo de Certificados de Ahorro Energético de España
+### Ya es oficial: Netflix es gratis en España para los usuarios que cumplan este requisito
 
-Moeve y ArcelorMittal han firmado el mayor acuerdo de Certificados de Ahorro Energético (CAE) de España , una operación de 2,1 TWh anuales de ahorro que multiplica por diez el mayor pacto de este tipo registrado hasta la fecha en el país. La firma refuerza este mecanismo como palanca real para la descarbonización de la.
+Netflix se ha consolidado como una de las plataformas de referencia en todo el mundo. Su amplio catálogo de series , películas y documentales , junto a una estrategia constante de estrenos y producciones originales, la ha convertido en una de las opciones preferidas por millones de espectadores.No obstante, disfrutar d.
+
+Date: 2026-07-22
+
+### No es país para niños: "Cada vez hay más gente que sólo los ve como una molestia"
+
+La exclusión de los menores de los espacios públicos es imperceptible e imparable: hoteles, restaurantes, cruceros, trenes, viviendas de alquiler, bodas... ¿Se puede permitir España un 'apartheid' infantil? Leer.
+
+Date: 2026-07-22
+
+### Santander desliga el plan de prejubilaciones de la irrupción de la IA
+
+El consejero delegado de Santander, Héctor Grisi, ha valorado positivamente este miércoles el plan de prejubilaciones alcanzado por el banco con los sindicatos en España.
+
+Date: 2026-07-22
+
+### Cuentas remuneradas: así funcionan y éstas son las mejores de 2026
+
+Las cuentas remuneradas se han convertido en uno de los productos financieros de mayor crecimiento en España. Mientras los bancos tradicionales son poco activos en este negocio, los neobancos han visto un filón para captar nuevos clientes ofreciendo altas rentabilidades.
+
+Date: 2026-07-22
+
+### ¿Cómo funciona la denuncia que ha presentado Puigdemont contra España?
+
+La defensa del expresident Carles Puigdemont presentó el lunes dos denuncias contra España ante instancias europeas como respuesta a la negativa del Tribunal de Cuentas a aplicar la ley de Amnistía a la treintena de ex altos cargos de la administración catalana a los que se reclaman los gastos del procés . El órgano fi.
+
+Date: 2026-07-22
+
+### España ya tiene fecha y lugar para estrenar la segunda estrella en casa
+
+España sigue celebrando la Copa del Mundo. Sin embargo, el público siempre quiere más y los jugadores ya tienen fecha y ubicación para estrenar la segunda estrella . La Roja se medirá a Croacia en el Ramón Sánchez-Pizjuán y a la República Checa en el Nuevo Carlos Tartiere . Ambos partidos son de la UEFA Nations League.
 
 Date: 2026-07-22
 
 ## Fuentes
 
-- [Los incendios en España duplican la superficie quemada en dos semanas y suman ya cerca de 120.000 hectáreas](https://www.20minutos.es/nacional/los-incendios-espana-duplican-superficie-quemada-dos-semanas-suman-ya-cerca-120-000-hectareas_7017530_0.html?utm_source=lootura.com) — 2026-07-22T08:31:32.000Z
-- [Luis García Abad, sobre Madring: «Poner en marcha un GP de Fórmula 1 no es solo hacer un circuito»](https://www.abc.es/deportes/formula-1/luis-garcia-abad-sobre-madring-poner-marcha-20260722111916-nt_amp.html?utm_source=lootura.com) — 2026-07-22T09:19:16.000Z
-- [Las cementeras esperan un enfriamiento de la demanda tras un alza del 7,5% en España en el primer semestre](https://cincodias.elpais.com/companias/2026-07-22/las-cementeras-esperan-un-enfriamiento-de-la-demanda-tras-un-alza-del-75-en-espana-en-el-primer-semestre.html?utm_source=lootura.com) — 2026-07-22T08:55:30.000Z
+- [Ya es oficial: Netflix es gratis en España para los usuarios que cumplan este requisito](https://www.abc.es/play/television/noticias/oficial-netflix-gratis-espana-usuarios-cumplan-requisito-20260722131758-nt.html?utm_source=lootura.com) — 2026-07-22T12:43:02.000Z
 - [Vodafone comercializa sus inmuebles y espacios vacíos mediante una nueva plataforma digital](https://cincodias.elpais.com/companias/2026-07-22/vodafone-comercializa-sus-inmuebles-y-espacios-vacios-mediante-una-nueva-plataforma-digital.html?utm_source=lootura.com) — 2026-07-22T10:13:08.000Z
-- [Qué es el chorro polar: el fenómeno atmosférico que podría cambiar de golpe el tiempo en España en tan solo 4 días](https://www.elconfidencial.com/espana/2026-07-22/chorro-polar-fenomeno-golpe-tiempo-espana_4393998/?utm_source=lootura.com) — 2026-07-22T08:06:00.000Z
-- [Roberto Brasero, meteorólogo: "No todas las olas de calor son iguales, pero está se va a concentrar en el este y sur de España"](https://www.elconfidencial.com/espana/2026-07-22/roberto-brasero-meteorologo-olas-de-calor_4393996/?utm_source=lootura.com) — 2026-07-22T08:06:00.000Z
-- [PP y Vox llevan por primera vez a una ley la "prioridad nacional" con la aprobación de los presupuestos de la Generalitat Valenciana](https://www.elmundo.es/comunidad-valenciana/2026/07/21/6a5faad5fc6c83204d8b458e.html?utm_source=lootura.com) — 2026-07-21T20:43:55.000Z
-- [El país que vendió su verano: por qué España no puede vivir sin turistas](https://elordenmundial.com/espana-turismo-verano-100-millones/?utm_source=lootura.com) — 2026-07-22T05:00:00.000Z
-- [El PP se pliega a Vox y Les Corts Valencianes aprueban los primeros presupuestos en España que incluyen la prioridad nacional](https://elpais.com/espana/comunidad-valenciana/2026-07-22/les-corts-valencianes-aprueban-los-primeros-presupuestos-en-espana-que-incluyen-la-prioridad-nacional-de-vox.html?utm_source=lootura.com) — 2026-07-22T10:01:40.000Z
+- [No es país para niños: "Cada vez hay más gente que sólo los ve como una molestia"](https://www.elmundo.es/papel/historias/2026/07/22/6a5a50d0e9cf4a33658b4596.html?utm_source=lootura.com) — 2026-07-22T13:11:59.000Z
+- [El PP se pliega a Vox y Les Corts Valencianes aprueban los primeros presupuestos en España que incluyen la “prioridad nacional”](https://elpais.com/espana/comunidad-valenciana/2026-07-22/les-corts-valencianes-aprueban-los-primeros-presupuestos-en-espana-que-incluyen-la-prioridad-nacional-de-vox.html?utm_source=lootura.com) — 2026-07-22T10:01:40.000Z
 - [El incendio de Guadalajara dispara la superficie quemada en España tras un nefasto comienzo de julio](https://elpais.com/clima-y-medio-ambiente/2026-07-22/el-incendio-de-guadalajara-dispara-la-superficie-quemada-en-espana-tras-un-nefasto-comienzo-de-julio.html?utm_source=lootura.com) — 2026-07-22T03:30:01.000Z
+- [Santander desliga el plan de prejubilaciones de la irrupción de la IA](https://amp.expansion.com/empresas/banca/2026/07/22/6a60b000e5fdea67198b459b.html?utm_source=lootura.com) — 2026-07-22T12:14:52.000Z
+- [Cuentas remuneradas: así funcionan y éstas son las mejores de 2026](https://www.expansion.com/podcasts/en-accion/2026/07/22/6a609a49468aeb926e8b457e.html?utm_source=lootura.com) — 2026-07-22T12:47:49.000Z
+- [¿Cómo funciona la denuncia que ha presentado Puigdemont contra España?](https://www.lavanguardia.com/politica/20260722/11598504/como-funciona-denuncia-presentado-puigdemont-espana-comision-europea.html?utm_source=lootura.com) — 2026-07-22T11:03:21.000Z
+- [España ya tiene fecha y lugar para estrenar la segunda estrella en casa](https://okdiario.com/deportes/espana-ya-tiene-fecha-lugar-estrenar-segunda-estrella-casa-19048063?utm_source=lootura.com) — 2026-07-22T12:35:33.000Z
+- [No basta con reducir emisiones: el cambio climático y las olas de calor exigen planes que protejan vidas](https://theconversation.com/no-basta-con-reducir-emisiones-el-cambio-climatico-y-las-olas-de-calor-exigen-planes-que-protejan-vidas-286498?utm_source=lootura.com) — 2026-07-22T11:19:02.000Z

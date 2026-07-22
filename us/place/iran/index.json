@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/iran/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/iran/index.json",
   "description": "Follow Iran, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-22T10:23:35.990Z",
+  "updatedAt": "2026-07-22T13:46:43.033Z",
   "aliases": [
     "IRI",
     "Islamic Rep. Iran",
@@ -22,18 +22,8 @@
       "date": "2026-07-22"
     },
     {
-      "title": "Funding milestone detected",
-      "summary": "Defense Secretary Pete Hegseth and Chairman of the Joint Chiefs Dan Caine testified Tuesday before a Senate panel to ask for an additional $67 billion to fight the war against Iran. CBS News' Caitlin Huey-Burns has more.",
-      "date": "2026-07-22"
-    },
-    {
       "title": "What to know about Pickaxe Mountain, an Iranian target noted by Trump",
       "summary": "President Trump on Tuesday threatened to attack Pickaxe Mountain in Iran, a secure facility allegedly used for nuclear activity. CBS News national security analyst Aaron MacLean has more.",
-      "date": "2026-07-22"
-    },
-    {
-      "title": "With His Latest Threats, Trump Signals to Iran That He Is Willing to Escalate",
-      "summary": "President Trump is facing a critical moment in the war, which has failed to bring about the “unconditional surrender” he once demanded.",
       "date": "2026-07-22"
     },
     {
@@ -42,29 +32,39 @@
       "date": "2026-07-22"
     },
     {
+      "title": "Funding milestone detected",
+      "summary": "Defense Secretary Pete Hegseth faced a barrage of questions about the war with Iran from lawmakers on Tuesday, as the administration seeks more money for the escalating conflict.",
+      "date": "2026-07-22"
+    },
+    {
+      "title": "Sen. Patty Murray, D-Wash., on Defense Secretary Pete Hegseth's Senate testimony",
+      "summary": "NPR's Leila Fadel speaks with Democratic Sen. Patty Murray of Washington about the administration's Iran war objectives following the testimony of Defense Secretary Pete Hegseth.",
+      "date": "2026-07-22"
+    },
+    {
+      "title": "U.S. and Iranian attacks continue as tensions mount on a key waterway in the Red Sea",
+      "summary": "The attacks overshadowed diplomatic efforts in Pakistan, one of the conflict's mediators, where a senior Iranian official held talks potentially aimed at reviving a collapsed ceasefire between the United States and Iran. (Image credit: Atta Kenare).",
+      "date": "2026-07-22"
+    },
+    {
+      "title": "Trump to attend dignified transfer of fallen soldiers. And, Hegseth testifies on Iran",
+      "summary": "Trump will attend the dignified transfer of U.S. service members killed in the Middle East. And, Pete Hegseth is requesting billions from Congress to help with the rising cost of the war in Iran. (Image credit: Saul Loeb).",
+      "date": "2026-07-22"
+    },
+    {
+      "title": "Funding milestone detected",
+      "summary": "Defense Secretary Pete Hegseth and Chairman of the Joint Chiefs Dan Caine testified Tuesday before a Senate panel to ask for an additional $67 billion to fight the war against Iran. CBS News' Caitlin Huey-Burns has more.",
+      "date": "2026-07-22"
+    },
+    {
+      "title": "With His Latest Threats, Trump Signals to Iran That He Is Willing to Escalate",
+      "summary": "President Trump is facing a critical moment in the war, which has failed to bring about the “unconditional surrender” he once demanded.",
+      "date": "2026-07-22"
+    },
+    {
       "title": "Iran’s foreign minister describes moment of attack that killed Khamenei",
       "summary": "Abbas Araghchi says he has kept on the move since being pulled from rubble after strike on first day of war Iran’s foreign minister, Abbas Araghchi, has described how he was pulled from the rubble of a leadership compound after the US-Israeli airstrike that killed the country’s supreme leader, Ali Khamenei, on the firs.",
       "date": "2026-07-22"
-    },
-    {
-      "title": "Hegseth puts cost of Iran war at $37.5 billion as the Pentagon seeks more money",
-      "summary": "The defense secretary’s estimate, revealed at a combative Senate hearing, is up from the $25 billion Pentagon officials gave in late April. NBC News has reported the amount is much higher.",
-      "date": "2026-07-22"
-    },
-    {
-      "title": "Watch Live: Hegseth and Caine testify before Senate panel amid escalating Iran war",
-      "summary": "Defense Secretary Pete Hegseth said the administration estimates that the Iran war has cost $37.5 billion since it began in late February.",
-      "date": "2026-07-21"
-    },
-    {
-      "title": "Pentagon Identifies Soldier Killed in Iran War as Sgt. Michael Emmanuel Swinton",
-      "summary": "Sgt. Michael Emmanuel Swinton, the 17th service member to be named, was killed during the disposal of a drone in northern Iraq.",
-      "date": "2026-07-21"
-    },
-    {
-      "title": "Hegseth and Caine Will Appear Before Senators to Seek More Money for Iran War",
-      "summary": "The Pentagon seeks an additional $80 billion to cover the costs of the conflict and replenish depleted weapons stocks.",
-      "date": "2026-07-21"
     }
   ],
   "sources": [
@@ -81,40 +81,34 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "Takeaways from Hegseth's Senate hearing over Iran war funding",
-      "url": "https://www.cbsnews.com/video/takeaways-from-hegseth-senate-hearing-over-iran-war-funding/?utm_source=lootura.com",
-      "publishedAt": "2026-07-22T01:35:46.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
-    {
-      "title": "Watch Live: Hegseth and Caine testify before Senate panel amid escalating Iran war",
-      "url": "https://www.cbsnews.com/news/hegseth-caine-senate-hearing-iran/?utm_source=lootura.com",
-      "publishedAt": "2026-07-21T21:01:01.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
-    {
       "title": "What to know about Pickaxe Mountain, an Iranian target noted by Trump",
       "url": "https://www.cbsnews.com/video/what-to-know-about-pickaxe-mountain-an-iranian-target-noted-by-trump/?utm_source=lootura.com",
       "publishedAt": "2026-07-22T01:56:08.000Z",
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "Senators grilled Hegseth on Iran. Here are 3 big moments from the hearing",
-      "url": "https://www.pbs.org/newshour/politics/senators-grilled-hegseth-on-iran-here-are-3-big-moments-from-the-hearing?utm_source=lootura.com",
-      "publishedAt": "2026-07-21T23:00:45.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
+      "title": "Defense Secretary Pete Hegseth defends Iran war funding request at fiery hearing",
+      "url": "https://www.npr.org/2026/07/22/nx-s1-5901981/defense-secretary-pete-hegseth-defends-iran-war-funding-request-at-fiery-hearing?utm_source=lootura.com",
+      "publishedAt": "2026-07-22T10:43:36.000Z",
+      "sourceId": "lootura-us-npr-politics"
     },
     {
-      "title": "WATCH: 'You, sir, are the failure,' Sen. Peters tells Hegseth over lack of U.S. strategy in Iran war",
-      "url": "https://www.pbs.org/newshour/politics/watch-you-sir-are-the-failure-sen-peters-tells-hegseth-over-lack-of-u-s-strategy-in-iran-war?utm_source=lootura.com",
-      "publishedAt": "2026-07-21T23:14:45.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
+      "title": "Sen. Patty Murray, D-Wash., on Defense Secretary Pete Hegseth's Senate testimony",
+      "url": "https://www.npr.org/2026/07/22/nx-s1-5902047/sen-patty-murray-d-wash-on-defense-secretary-pete-hegseths-senate-testimony?utm_source=lootura.com",
+      "publishedAt": "2026-07-22T10:43:28.000Z",
+      "sourceId": "lootura-us-npr-politics"
     },
     {
-      "title": "Hegseth says Iran war has cost $37.5B so far and Pentagon needs $67B to restock arms",
-      "url": "https://www.pbs.org/newshour/show/hegseth-says-iran-war-has-cost-37-5b-so-far-and-pentagon-needs-67b-to-restock-arms?utm_source=lootura.com",
-      "publishedAt": "2026-07-21T22:55:58.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
+      "title": "U.S. and Iranian attacks continue as tensions mount on a key waterway in the Red Sea",
+      "url": "https://www.npr.org/2026/07/22/nx-s1-5902843/us-iran-updates?utm_source=lootura.com",
+      "publishedAt": "2026-07-22T10:46:01.000Z",
+      "sourceId": "lootura-us-npr-world"
+    },
+    {
+      "title": "Trump to attend dignified transfer of fallen soldiers. And, Hegseth testifies on Iran",
+      "url": "https://www.npr.org/2026/07/22/g-s1-134896/up-first-newsletter-trump-iran-war-pete-hegseth-arizona-primaries?utm_source=lootura.com",
+      "publishedAt": "2026-07-22T11:24:22.000Z",
+      "sourceId": "lootura-us-npr-world"
     },
     {
       "title": "Pentagon Identifies Soldier Killed in Iran War as Sgt. Michael Emmanuel Swinton",
@@ -127,7 +121,13 @@
       "url": "https://www.nytimes.com/2026/07/21/us/iran-war-funding.html?utm_source=lootura.com",
       "publishedAt": "2026-07-21T16:54:59.000Z",
       "sourceId": "lootura-us-the-new-york-times"
+    },
+    {
+      "title": "See How Houthis Put the Red Sea at Risk as an Alternative Oil Route",
+      "url": "https://www.nytimes.com/2026/07/22/business/energy-environment/red-sea-saudi-arabia-houthis.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-22T12:17:51.000Z",
+      "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 13
+  "evidenceCount": 10
 }

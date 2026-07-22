@@ -3,7 +3,7 @@
 > Follow White House, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-07-22T10:23:35.990Z
+- Updated: 2026-07-22T13:46:43.033Z
 - Canonical: https://atlas.lootura.com/us/organization/white-house
 
 ## Recent changes
@@ -71,4 +71,3 @@ Date: 2026-07-17
 ## Sources
 
 - [Smithsonian too focused on 'oppressors and the oppressed,' say House Republicans](https://www.npr.org/2026/07/21/nx-s1-5902101/smithsonian-house-hearing?utm_source=lootura.com) — 2026-07-21T21:41:25.000Z
-- [Southern Lebanese skeptical of Israel agreement as violence continues](https://www.pbs.org/newshour/show/southern-lebanese-skeptical-of-israel-agreement-as-violence-continues?utm_source=lootura.com) — 2026-07-21T22:50:07.000Z

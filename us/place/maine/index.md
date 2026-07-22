@@ -70,4 +70,4 @@ Date: 2026-07-20
 
 ## Sources
 
-- [Troy Jackson Tightens Hold on Democratic Senate Nomination in Maine](https://www.nytimes.com/2026/07/21/us/politics/troy-jackson-maine-senate-democrats.html?utm_source=lootura.com) — 2026-07-21T21:42:09.000Z
+No public source links.

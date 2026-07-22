@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/portugal/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/portugal/index.json",
   "description": "Sigue la actividad de República Portuguesa en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-22T10:23:10.282Z",
+  "updatedAt": "2026-07-22T13:46:22.256Z",
   "aliases": [
     "POR",
     "PRT",
@@ -17,6 +17,11 @@
     "República de Portugal"
   ],
   "changes": [
+    {
+      "title": "El Rey concede el Toisón de Oro al expresidente de Portugal Rebelo de Sousa",
+      "summary": "El Rey ha concedido al expresidente de Portugal Marcelo Rebelo de Sousa el collar de la Insigne Orden del Toisón de Oro , la más alta distinción que puede otorgar la Casa Real española y una de las órdenes dinásticas de mayor prestigio del mundo. El Boletín Oficial del Estado (BOE) ha publicado este miércoles el real d.",
+      "date": "2026-07-22"
+    },
     {
       "title": "Muere repentinamente un futbolista de 26 años haciendo running en Portugal",
       "summary": "La trágica muerte de Usalifa Indi ha conmocionado al fútbol portugués. El joven centrocampista de 26 años falleció este lunes después de desplomarse mientras hacía running en la localidad de Armil, en el municipio de Fafe, al norte de Portugal. El jugador, que había pasado por la cantera del FC Porto y que actualmente.",
@@ -61,20 +66,21 @@
       "title": "Renfe pone rumbo a Portugal con Talgo tras el retroceso en Francia",
       "summary": "\"Renfe va a ser el único operador con capacidad para prestar servicios internacionales ferroviarios de alta velocidad con Portugal, lo que le da una clara ventaja competitiva para liderar el mercado ibérico del tren\". Así se manifiestan representantes del Gobierno español para explicar las ventajas del acuerdo firmado.",
       "date": "2026-07-10"
-    },
-    {
-      "title": "Pedrógão Grande, Mati, Valparaíso, Almería... ¿Por qué huir de un incendio puede ser más peligroso que quedarse?",
-      "summary": "La tragedia de Los Gallardos reabre un debate que ya cambió los protocolos tras incendios como los de Portugal, Grecia, Hawái o Chile Leer.",
-      "date": "2026-07-10"
     }
   ],
   "sources": [
     {
-      "title": "Chus Mateo convoca a los cinco NBA y Juancho Hernangómez regresa a una lista de España",
-      "url": "https://okdiario.com/deportes/chus-mateo-convoca-cinco-nba-juancho-hernangomez-regresa-lista-espana-19046310?utm_source=lootura.com",
-      "publishedAt": "2026-07-22T10:14:20.000Z",
+      "title": "El exclusivo club del Toisón de Oro suma un nuevo nombre: Felipe VI distingue a Marcelo Rebelo de Sousa",
+      "url": "https://okdiario.com/cool/casa-real/exclusivo-club-del-toison-oro-suma-nuevo-nombre-felipe-vi-distingue-marcelo-rebelo-sousa-19047505/amp?utm_source=lootura.com",
+      "publishedAt": "2026-07-22T13:44:58.000Z",
       "sourceId": "lootura-es-ok-diario"
+    },
+    {
+      "title": "El Rey concede el Toisón de Oro al expresidente de Portugal Rebelo de Sousa",
+      "url": "https://theobjective.com/internacional/2026-07-22/rey-toison-oro-expresidente-portugal-rebelo-de-sousa/?utm_source=lootura.com",
+      "publishedAt": "2026-07-22T12:52:26.000Z",
+      "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 0
+  "evidenceCount": 2
 }

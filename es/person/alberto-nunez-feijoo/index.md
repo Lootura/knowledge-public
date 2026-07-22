@@ -3,7 +3,7 @@
 > Sigue la actividad de Alberto Núñez Feijóo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-22T10:23:10.282Z
+- Actualizado: 2026-07-22T13:46:22.256Z
 - Canonical: https://atlas.lootura.com/es/person/alberto-nunez-feijoo
 
 ## Cambios recientes
@@ -11,6 +11,30 @@
 ### Última hora de la actualidad política, en directo | Feijóo hace balance del curso político y de la legislatura
 
 El líder del PP, Alberto Núñez Feijóo, hace balance en rueda de prensa del curso político y de la marcha de la legislatura, con la mirada puesta en las causas judiciales que afectan al PSOE y al Gobierno y la falta de apoyos parlamentarios del Ejecutivo. La presidenta del PSOE, Cristina Narbona, comparece en la comisió.
+
+Date: 2026-07-22
+
+### Feijóo promete una «limpieza a fondo y no un relevo» cuando Sánchez salga de Moncloa
+
+Alberto Núñez Feijóo empezó su balance del curso político sentenciando que el Gobierno «está políticamente acabado, parlamentariamente bloqueado y éticamente inhabilitado» y volvió a reclamar, una vez más, elecciones generales adelantadas como «única salida razonable y democrática» ante la avalancha de casos de corrupc.
+
+Date: 2026-07-22
+
+### Feijóo sitúa a Sánchez como "el señor X" de todos los casos del PSOE y promete "una limpieza a fondo" de las instituciones
+
+Comienza la "cuenta atrás" para el PP. Alberto Núñez Feijóo mira ya hacia las elecciones generales y mete la directa hacia "el cambio". Un cambio...
+
+Date: 2026-07-22
+
+### Feijóo da por hecha su llegada a Moncloa sin esperar a las elecciones: "Será una limpieza a fondo"
+
+"La zona cero de la corrupción es la Moncloa y el señor X es Sánchez", afirma el líder del PP en su comparecencia de balance de fin de curso en la que anuncia que enmendará todas las políticas del Gobierno progresista El PP de Feijóo promete una ambiciosa contrarreforma legal con recortes en derechos sociales si llega.
+
+Date: 2026-07-22
+
+### Feijóo arremete contra Sánchez: “Son sus últimas Navidades en la Moncloa”
+
+Alberto Núñez Feijóo ha hecho este miércoles balance del curso político que ha acabado y ha dado la legislatura por finiquitada en un momento en que la debilidad del Gobierno en el Congreso impide prácticamente la aprobación de leyes y los casos de corrupción cercan al entorno político y personal de Pedro Sánchez. Fren.
 
 Date: 2026-07-22
 
@@ -44,30 +68,10 @@ A pesar de que aún quedan casi diez meses por delante, el partido Popular dio e
 
 Date: 2026-07-18
 
-### Feijóo anuncia a los 50 candidatos a las alcaldías de provincia, entre ellos Gema Igual
-
-El presidente nacional del PP, Alberto Núñez Feijóo , presentará este sábado en Santiago de Compostela a los 50 cabezas de lista para las alcaldías de capitales de provincia . Mantendrá a los 30 actuales regidores -entre ellos la alcaldesa de Santander, Gema Igual - y renovará 11 candidaturas en las 20 capitales donde.
-
-Date: 2026-07-18
-
-### Feijóo vaticina que «las urnas serán también la sentencia» del sanchismo
-
-En la semana en que se ha conocido el tercer fallo judicial relacionado con los escándalos que afectan al Gobierno, Alberto Núñez Feijóo ha vaticinado que «las urnas también serán la sentencia» de un sanchismo «que ya ha sido condenado en todas sus formas de corrupción» y «España hará justicia, y a cada uno le impondrá.
-
-Date: 2026-07-18
-
-### Feijóo pide "decencia" en una España "harta de mentiras": "El sanchismo ha sido condenado en todas sus formas"
-
-El líder del Partido Popular, en su discurso, ha arremetido contra el presidente del Gobierno, Pedro Sánchez: "Aún hay más de una decena de tramas en los juzgados".
-
-Date: 2026-07-18
-
-### Feijóo presenta este sábado en Santiago a los candidatos del PP a las capitales de provincia
-
-El líder del Partido Popular , Alberto Núñez Feijóo , presenta este sábado, día 18 de julio, a los candidatos de su formación a las capitales de provincia de toda España de cara a las elecciones municipales del 2027 . El acto tendrá lugar en la Cidade da Cultura de Santiago de Compostela y en él también intervendrá el.
-
-Date: 2026-07-18
-
 ## Fuentes
 
+- [Feijóo promete una «limpieza a fondo y no un relevo» cuando Sánchez salga de Moncloa](https://www.abc.es/espana/feijoo-promete-limpieza-fondo-relevo-sanchez-salga-20260722132605-nt.html?utm_source=lootura.com) — 2026-07-22T12:13:59.000Z
+- [Feijóo sitúa a Sánchez como "el señor X" de todos los casos del PSOE y promete "una limpieza a fondo" de las instituciones](https://amp.elmundo.es/espana/2026/07/22/6a609c9be85ecedc108b4578.html?utm_source=lootura.com) — 2026-07-22T10:46:17.000Z
 - [Última hora de la actualidad política, en directo | Feijóo hace balance del curso político y de la legislatura](https://elpais.com/espana/2026-07-22/ultima-hora-de-la-actualidad-politica-en-directo.html?utm_source=lootura.com) — 2026-07-22T10:20:37.000Z
+- [Feijóo da por hecha su llegada a Moncloa sin esperar a las elecciones: "Será una limpieza a fondo"](https://www.eldiario.es/politica/feijoo-da-hecha-llegada-moncloa-esperar-elecciones-sera-limpieza-fondo_1_13398253.html?utm_source=lootura.com) — 2026-07-22T10:46:12.000Z
+- [Feijóo arremete contra Sánchez: “Son sus últimas Navidades en la Moncloa”](https://www.lavanguardia.com/politica/20260722/11598549/feijoo-da-finiquitada-legislatura-promete-gobierno-reconstruccion.html?utm_source=lootura.com) — 2026-07-22T11:32:04.000Z

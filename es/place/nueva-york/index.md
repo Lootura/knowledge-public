@@ -3,10 +3,16 @@
 > Sigue la actividad de Nueva York en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-21T10:23:08.875Z
+- Actualizado: 2026-07-22T13:46:22.256Z
 - Canonical: https://atlas.lootura.com/es/place/nueva-york
 
 ## Cambios recientes
+
+### El alcalde de Nueva York, Zohran Mamdani, insta a Trump a detener al “criminal” Netanyahu si entra en Estados Unidos
+
+Zohran Mamdani ganó el año pasado las elecciones a la alcaldía de Nueva York con un discurso durísimo contra el Gobierno israelí y su actuación en Gaza y Cisjordania. Ahora ha dado un paso más al reclamar a la Administración republicana de Donald Trump que detenga al primer ministro Benjamín Netanyahu si pisa suelo est.
+
+Date: 2026-07-22
 
 ### La IA, la guerra en Oriente Próximo y la inflación bloquean el camino a nuevos máximos bursátiles
 
@@ -62,12 +68,6 @@ El fútbol, en su caprichosa y hermosa naturaleza cíclica, ha decidido tender u
 
 Date: 2026-07-19
 
-### Nueva York se enamora del fútbol… no se sabe por cuánto tiempo
-
-Las luces sobre el campo de fútbol contrastan con la oscuridad que sepulta a la ciudad. Son las once de la noche del viernes y en el parque de Astoria, en el distrito de Queens, centenares de jóvenes —la inmensa mayoría hombres— juegan sobre un inmenso césped. Adam lleva tiempo viniendo aquí a entrenar. Antes, se iba a.
-
-Date: 2026-07-18
-
 ## Fuentes
 
-No public source links.
+- [El alcalde de Nueva York, Zohran Mamdani, insta a Trump a detener al “criminal” Netanyahu si entra en Estados Unidos](https://elpais.com/internacional/2026-07-22/el-alcalde-de-nueva-york-zohran-mamdani-insta-a-trump-a-detener-al-criminal-netanyahu-si-entra-en-estados-unidos.html?utm_source=lootura.com) — 2026-07-22T11:32:36.000Z

@@ -8,11 +8,11 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/cristina-narbona/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/cristina-narbona/index.json",
   "description": "Sigue la actividad de María Cristina Narbona Ruiz en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-22T10:23:10.282Z",
+  "updatedAt": "2026-07-22T13:46:22.256Z",
   "aliases": [
     "Cristina Narbona Ruiz",
-    "María Cristina Narbona Ruiz",
     "Maria Cristina Narbona Ruiz",
+    "María Cristina Narbona Ruiz",
     "madrildar ekonomialaria , unibertsitateko irakaslea eta politikaria"
   ],
   "changes": [
@@ -22,29 +22,45 @@
       "date": "2026-07-22"
     },
     {
-      "title": "DIRECTO | La presidenta del PSOE comparece en la comisión Koldo del Senado",
-      "summary": "La presidenta del PSOE, Cristina Narbona, comparece en la comisión de investigación del Senado sobre el caso Koldo citada por el PP para explicar su relación con Leire Díaz, exmilitante socialista investigada por urdir presuntamente una trama para boicotear causas judiciales que pudieran afectar al Gobierno.",
+      "title": "Discovered by Atlas",
+      "summary": "Cristina Narbona first entered the public knowledge record with source-backed evidence.",
       "date": "2026-07-22"
     },
     {
-      "title": "Discovered by Atlas",
-      "summary": "Cristina Narbona first entered the public knowledge record with source-backed evidence.",
+      "title": "Narbona niega haber hablado con Sánchez sobre Leire Díez y reivindica el \"respeto que merece\" Zapatero",
+      "summary": "La presidenta del PSOE , Cristina Narbona, ha acudido este martes a la comisión de investigación del caso Koldo en el Senado , convocada por los mensajes de WhatsApp que intercambió con Leire Díez y otros asuntos judiciales que afectan a Ferraz. En lo referente al caso Leire, se ha desvinculado por completo de la supue.",
+      "date": "2026-07-22"
+    },
+    {
+      "title": "Cristina Narbona niega ser «madrina» de Leire Díez y reitera que la derivó a Santos Cerdán",
+      "summary": "La presidenta del PSOE dice que nunca tuvo «ni la menor sospecha» de que se urdiesen unas 'cloacas' para boicotear las causas judiciales contra el partido.",
+      "date": "2026-07-22"
+    },
+    {
+      "title": "DIRECTO | La presidenta del PSOE comparece en la comisión Koldo del Senado",
+      "summary": "La presidenta del PSOE, Cristina Narbona, comparece en la comisión de investigación del Senado sobre el caso Koldo citada por el PP para explicar su relación con Leire Díaz, exmilitante socialista investigada por urdir presuntamente una trama para boicotear causas judiciales que pudieran afectar al Gobierno.",
       "date": "2026-07-22"
     }
   ],
   "sources": [
     {
+      "title": "Narbona niega haber hablado con Sánchez sobre Leire Díez y reivindica el \"respeto que merece\" Zapatero",
+      "url": "https://www.20minutos.es/nacional/narbona-niega-haber-hablado-con-sanchez-sobre-leire-diez-reivindica-senado-enorme-respeto-que-merece-zapatero_7017617_0.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-22T10:55:49.000Z",
+      "sourceId": "lootura-es-20minutos"
+    },
+    {
+      "title": "Cristina Narbona niega ser «madrina» de Leire Díez y reitera que la derivó a Santos Cerdán",
+      "url": "https://www.abc.es/espana/cristina-narbona-niega-madrina-leire-diez-reitera-20260722122958-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-22T11:42:59.000Z",
+      "sourceId": "lootura-es-abc"
+    },
+    {
       "title": "Última hora de la actualidad política, en directo | Feijóo hace balance del curso político y de la legislatura",
       "url": "https://elpais.com/espana/2026-07-22/ultima-hora-de-la-actualidad-politica-en-directo.html?utm_source=lootura.com",
       "publishedAt": "2026-07-22T10:20:37.000Z",
       "sourceId": "lootura-es-el-pais"
-    },
-    {
-      "title": "DIRECTO | La presidenta del PSOE comparece en la comisión Koldo del Senado",
-      "url": "https://theobjective.com/videos/espana/politica/2026-07-22/directo-presidenta-psoe-comision-koldo-senado/?utm_source=lootura.com",
-      "publishedAt": "2026-07-22T09:04:11.000Z",
-      "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 3
 }

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/new-york/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/new-york/index.json",
   "description": "Follow New York City, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-22T10:23:35.990Z",
+  "updatedAt": "2026-07-22T13:46:43.033Z",
   "aliases": [
     "Capital of the World",
     "Center of the Universe",
@@ -39,6 +39,11 @@
       "date": "2026-07-22"
     },
     {
+      "title": "Mamdani Calls Netanyahu a ‘War Criminal’ and Calls on U.S. to Arrest Him",
+      "summary": "Mayor Zohran Mamdani challenged the United States to execute an international arrest warrant against Prime Minister Benjamin Netanyahu of Israel, which New York itself cannot do.",
+      "date": "2026-07-22"
+    },
+    {
       "title": "New York Mayor Mamdani Admits He Can’t Arrest ‘War Criminal’ Netanyahu",
       "summary": "New York City Mayor Zohran Mamdani speaks in a video posted on X on July 21, 2026. —Screenshot from Mayor Zohran Kwame Mamdani's X account (@NYCMayor) Since campaigning for New York City mayor, Zohran Mamdani has pledged to arrest Israel’s Prime Minister Benjamin Netanyahu for his alleged war crimes if he ever shows up.",
       "date": "2026-07-22"
@@ -46,11 +51,6 @@
     {
       "title": "Mamdani says he won't try to arrest Israel's Netanyahu, acknowledges NYC doesn't have legal authority",
       "summary": "New York City Mayor Zohran Mamdani conceded late Tuesday that the city does not have the authority to arrest Israeli Prime Minister Benjamin Netanyahu.",
-      "date": "2026-07-22"
-    },
-    {
-      "title": "Mamdani Calls Netanyahu a ‘War Criminal’ and Calls on U.S. to Arrest Him",
-      "summary": "Mayor Zohran Mamdani challenged the United States to execute an international arrest warrant against Prime Minister Benjamin Netanyahu of Israel, which New York itself cannot do.",
       "date": "2026-07-22"
     },
     {
@@ -92,10 +92,10 @@
       "sourceId": "lootura-us-npr-politics"
     },
     {
-      "title": "New York Mayor Mamdani Admits He Can’t Arrest ‘War Criminal’ Netanyahu",
-      "url": "https://time.com/article/2026/07/22/zohran-mamdani-new-york-arrest-benjamin-netanyahu-icc-war-crimes/?utm_source=lootura.com",
-      "publishedAt": "2026-07-22T07:15:03.000Z",
-      "sourceId": "lootura-us-time"
+      "title": "Mamdani Calls Netanyahu a ‘War Criminal’ and Calls on U.S. to Arrest Him",
+      "url": "https://www.nytimes.com/2026/07/21/nyregion/mamdani-netanyahu-arrest-warrant.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-22T13:19:36.000Z",
+      "sourceId": "lootura-us-the-new-york-times"
     }
   ],
   "evidenceCount": 2

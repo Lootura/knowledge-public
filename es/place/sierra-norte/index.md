@@ -28,5 +28,4 @@ Date: 2026-07-21
 
 ## Fuentes
 
-- [Última hora de los incendios forestales, en directo | El incendio de Guadalajara entra en una fase de “optimismo” tras arrasar más de 32.000 hectáreas](https://elpais.com/espana/2026-07-22/ultima-hora-de-los-incendios-forestales-en-directo.html?utm_source=lootura.com) — 2026-07-22T10:13:23.000Z
-- [Incendio de Guadalajara, en directo: última hora del avance del fuego en La Mierla y Selas](https://www.larazon.es/sociedad/incendio-guadalajara-directo-ultima-hora-avance-fuego-mierla-selas_202607226a6041794687a22bdec6bd84.html?utm_source=lootura.com) — 2026-07-22T10:15:24.000Z
+No public source links.

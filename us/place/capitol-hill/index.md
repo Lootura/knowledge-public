@@ -70,4 +70,4 @@ Date: 2026-07-12
 
 ## Sources
 
-- [Hegseth says Iran war has cost $37.5B so far and Pentagon needs $67B to restock arms](https://www.pbs.org/newshour/show/hegseth-says-iran-war-has-cost-37-5b-so-far-and-pentagon-needs-67b-to-restock-arms?utm_source=lootura.com) — 2026-07-21T22:55:58.000Z
+No public source links.

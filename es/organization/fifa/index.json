@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/fifa/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/fifa/index.json",
   "description": "Sigue la actividad de Federación Internacional de Fútbol Asociación en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-22T10:23:10.282Z",
+  "updatedAt": "2026-07-22T13:46:22.256Z",
   "aliases": [
     "Federacion Internacional de Futbol Asociacion",
     "Federacion Internacional de Futbol Asociados",
@@ -19,6 +19,11 @@
     "International Federation of Association Football"
   ],
   "changes": [
+    {
+      "title": "Trump sopesa proponer a Infantino como secretario general de la ONU, según el 'New York Post'",
+      "summary": "El presidente de Estados Unidos, Donald Trump, estaría sopesando presentar la candidatura de Gianni Infantino, presidente de la FIFA, para ocupar el cargo de secretario general de Naciones Unidas y convertirse en el décimo mandatario en asumir la función , según ha adelantado este martes el 'New York Post'. Trump sosti.",
+      "date": "2026-07-22"
+    },
     {
       "title": "Argentina se queda huérfana",
       "summary": "El gran favor que la FIFA le hizo a Argentina en este siglo nadie suele recordarlo. Durante cuatro partidos y seis meses, entre noviembre de 2001 y abril de 2002, la Albiceleste dejó de utilizar la camiseta número 10 como tributo a Diego Maradona , que a fines de 2001 acababa de jugar su partido de despedida. La medida.",
@@ -47,11 +52,11 @@
   ],
   "sources": [
     {
-      "title": "La FIFA ridiculiza al arbitraje español e internacionaliza su descrédito",
-      "url": "https://okdiario.com/deportes/fifa-ridiculiza-arbitraje-espanol-internacionaliza-descredito-18989073?utm_source=lootura.com",
-      "publishedAt": "2026-07-22T10:00:41.000Z",
-      "sourceId": "lootura-es-ok-diario"
+      "title": "Trump sopesa proponer a Infantino como secretario general de la ONU, según el 'New York Post'",
+      "url": "https://www.abc.es/internacional/trump-sopesa-proponer-infantino-secretario-general-onu-20260722115546-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-22T12:05:50.000Z",
+      "sourceId": "lootura-es-abc"
     }
   ],
-  "evidenceCount": 0
+  "evidenceCount": 1
 }

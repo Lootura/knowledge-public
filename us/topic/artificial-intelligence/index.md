@@ -3,10 +3,28 @@
 > Follow Artificial intelligence, a tracked topic, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: topic
-- Updated: 2026-07-22T10:23:35.990Z
+- Updated: 2026-07-22T13:46:43.033Z
 - Canonical: https://atlas.lootura.com/us/topic/artificial-intelligence
 
 ## Recent changes
+
+### Google commits $40M to the Genesis Mission | Google Cloud Blog
+
+Google is committing $40 million in AI tokens and cloud credits to support the DOE’s Genesis Mission and accelerate groundbreaking scientific discovery.
+
+Date: 2026-07-22
+
+### Funding milestone detected
+
+OpenAI announces Project Camellia in Effingham County, Georgia, with commitments to responsible energy, community investment, jobs, and access to Codex.
+
+Date: 2026-07-22
+
+### Meta made its own AI detection system. It should have just used Google’s
+
+Content Seal sounds a lot like a less accessible and reliable version of SynthID. | Image: Meta / The Verge IIn March, Meta's Oversight Board called on the company to "meet its public commitments and employ its own tools" to help quell the spread of deceptive generative AI content across platforms. Meta responded in Ju.
+
+Date: 2026-07-22
 
 ### Detailed maps of European wetlands reveal overlooked patches of ecosystems
 
@@ -50,27 +68,9 @@ EXCLUSIVE: A conservative super PAC focused on policy involving artificial intel
 
 Date: 2026-07-21
 
-### Meta’s smartglasses mean any child can be covertly filmed. In the age of AI, how do we tackle that risk?
-
-The company argues that it’s for individuals to ensure they don’t ‘actively exploit’ this technology. That won’t keep children safe It took me a while to realise what the man sitting next to me on the train was doing. He was flicking through pictures of a little girl on his phone; zooming in on some, cropping the image.
-
-Date: 2026-07-21
-
-### Detailed maps of European wetlands reveal overlooked patches of ecosystems
-
-Nature, Published online: 20 July 2026; doi:10.1038/d41586-026-02211-2 Satellite images have been analysed by a machine-learning algorithm to produce high-resolution maps of wetland environments — a boon for conservation efforts.
-
-Date: 2026-07-20
-
-### Daily briefing: CRISPR gets an AI-designed upgrade
-
-Nature, Published online: 17 July 2026; doi:10.1038/d41586-026-02272-3 Synthetic CRISPR proteins edit the genome more efficiently than their natural counterparts. Plus, a rocky exoplanet with an atmosphere and the mathematical wonderland of footballs.
-
-Date: 2026-07-20
-
 ## Sources
 
 - [Scientists propose model to protect Earth from solar storms](https://www.cbsnews.com/video/scientists-propose-model-to-protect-earth-from-solar-storms/?utm_source=lootura.com) — 2026-07-22T02:07:49.000Z
-- [Detailed maps of European wetlands reveal overlooked patches of ecosystems](https://www.nature.com/articles/d41586-026-02211-2?utm_source=lootura.com) — 2026-07-22T06:26:16.322Z
-- [Don’t let AI steal all the joy: what scientists won’t give up to chatbots](https://www.nature.com/articles/d41586-026-02213-0?utm_source=lootura.com) — 2026-07-22T10:23:40.162Z
-- [Utility companies are promising to spare us from AI’s energy bill](https://www.theverge.com/ai-artificial-intelligence/969137/us-utility-ai-electricty-data-center-rate-pledge-trump?utm_source=lootura.com) — 2026-07-22T10:12:13.000Z
+- [Google commits $40M to the Genesis Mission | Google Cloud Blog](https://cloud.google.com/blog/topics/public-sector/accelerating-frontiers-of-scientific-discovery-40-million-dollar-commitment-genesis-mission?utm_source=lootura.com) — 2026-07-22T13:38:54.000Z
+- [Building AI infrastructure with the Effingham County community](https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community?utm_source=lootura.com) — 2026-07-22T13:00:00.000Z
+- [Meta made its own AI detection system. It should have just used Google’s](https://www.theverge.com/tech/968680/meta-ai-detection-labeling-content-seal-watermarks-synthid?utm_source=lootura.com) — 2026-07-22T11:00:00.000Z

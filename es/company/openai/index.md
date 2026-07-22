@@ -3,7 +3,7 @@
 > Sigue la actividad de OpenAI en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: company
-- Actualizado: 2026-07-22T10:23:10.282Z
+- Actualizado: 2026-07-22T13:46:22.256Z
 - Canonical: https://atlas.lootura.com/es/company/openai
 
 ## Cambios recientes
@@ -40,4 +40,4 @@ Date: 2026-07-15
 
 ## Fuentes
 
-- [La Primera de Expansión sobre Santander, Holaluz, Iberdrola, Ormuz, Infantino y OpenAI](https://www.expansion.com/podcasts/la-primera-de-expansion/2026/07/22/6a604cca468aeb35718b457d.html?utm_source=lootura.com) — 2026-07-22T05:33:26.000Z
+- [Un nuevo modelo de OpenAI provoca un ataque “sin precedentes” contra otra plataforma de inteligencia artificial](https://elpais.com/tecnologia/2026-07-22/un-nuevo-modelo-de-openai-provoca-un-ataque-sin-precedentes-contra-otra-plataforma-de-inteligencia-artificial.html?utm_source=lootura.com) — 2026-07-22T11:50:39.000Z

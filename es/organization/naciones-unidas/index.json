@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/naciones-unidas/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/naciones-unidas/index.json",
   "description": "Sigue la actividad de Organización de las Naciones Unidas en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-22T10:23:10.282Z",
+  "updatedAt": "2026-07-22T13:46:22.256Z",
   "aliases": [
     "NN. UU.",
     "Naciones Unidas",
@@ -17,6 +17,11 @@
     "the UN"
   ],
   "changes": [
+    {
+      "title": "Trump sopesa proponer a Infantino como secretario general de la ONU, según el 'New York Post'",
+      "summary": "El presidente de Estados Unidos, Donald Trump, estaría sopesando presentar la candidatura de Gianni Infantino, presidente de la FIFA, para ocupar el cargo de secretario general de Naciones Unidas y convertirse en el décimo mandatario en asumir la función , según ha adelantado este martes el 'New York Post'. Trump sosti.",
+      "date": "2026-07-22"
+    },
     {
       "title": "Trump sopesa proponer a Infantino como secretario general de la ONU, según el 'New York Post'",
       "summary": "La designación no es tan sencilla, ya que combina un procedimiento formal fijado en la Carta de las Naciones Unidas con intensas negociaciones a puerta cerrada entre las grandes potencias.",
@@ -51,8 +56,8 @@
   "sources": [
     {
       "title": "Trump sopesa proponer a Infantino como secretario general de la ONU, según el 'New York Post'",
-      "url": "https://www.abc.es/internacional/trump-sopesa-proponer-infantino-secretario-general-onu-20260722115546-nt_amp.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-22T09:55:47.000Z",
+      "url": "https://www.abc.es/internacional/trump-sopesa-proponer-infantino-secretario-general-onu-20260722115546-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-22T12:05:50.000Z",
       "sourceId": "lootura-es-abc"
     }
   ],

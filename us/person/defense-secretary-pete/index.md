@@ -3,7 +3,7 @@
 > Follow Defense Secretary Pete, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-07-22T10:23:35.990Z
+- Updated: 2026-07-22T13:46:43.033Z
 - Canonical: https://atlas.lootura.com/us/person/defense-secretary-pete
 
 ## Recent changes
@@ -11,6 +11,18 @@
 ### Funding milestone detected
 
 The U.S. launched an 11th consecutive night of strikes against Iran on Tuesday. CBS News' Weijia Jiang reports on Defense Secretary Pete Hegseth's earlier testimony about the Pentagon's request for additional funding. Then, Washington Post national security reporter Noah Robertson joins with analysis.
+
+Date: 2026-07-22
+
+### Funding milestone detected
+
+Defense Secretary Pete Hegseth faced a barrage of questions about the war with Iran from lawmakers on Tuesday, as the administration seeks more money for the escalating conflict.
+
+Date: 2026-07-22
+
+### Sen. Patty Murray, D-Wash., on Defense Secretary Pete Hegseth's Senate testimony
+
+NPR's Leila Fadel speaks with Democratic Sen. Patty Murray of Washington about the administration's Iran war objectives following the testimony of Defense Secretary Pete Hegseth.
 
 Date: 2026-07-22
 
@@ -56,21 +68,8 @@ Defense Secretary Pete first entered the public knowledge record with source-bac
 
 Date: 2026-07-16
 
-### On the War Against Iran, the Pentagon Has Said Little
-
-Defense Secretary Pete Hegseth has spoken about a range of issues in recent days — from testosterone to leak investigations — but he has said little about the war.
-
-Date: 2026-07-16
-
-### Doctors question plan to screen military members for low testosterone
-
-Doctors raised a range of concerns about a testosterone screening policy announced by Defense Secretary Pete Hegseth, which is likely to be costly to implement.
-
-Date: 2026-07-16
-
 ## Sources
 
 - [U.S. launches strikes on Iran for 11th consecutive night](https://www.cbsnews.com/video/us-launches-strikes-iran-11th-consecutive-night/?utm_source=lootura.com) — 2026-07-22T02:11:05.000Z
-- [Takeaways from Hegseth's Senate hearing over Iran war funding](https://www.cbsnews.com/video/takeaways-from-hegseth-senate-hearing-over-iran-war-funding/?utm_source=lootura.com) — 2026-07-22T01:35:46.000Z
-- [Watch Live: Hegseth and Caine testify before Senate panel amid escalating Iran war](https://www.cbsnews.com/news/hegseth-caine-senate-hearing-iran/?utm_source=lootura.com) — 2026-07-21T21:01:01.000Z
-- [WATCH: 'You, sir, are the failure,' Sen. Peters tells Hegseth over lack of U.S. strategy in Iran war](https://www.pbs.org/newshour/politics/watch-you-sir-are-the-failure-sen-peters-tells-hegseth-over-lack-of-u-s-strategy-in-iran-war?utm_source=lootura.com) — 2026-07-21T23:14:45.000Z
+- [Defense Secretary Pete Hegseth defends Iran war funding request at fiery hearing](https://www.npr.org/2026/07/22/nx-s1-5901981/defense-secretary-pete-hegseth-defends-iran-war-funding-request-at-fiery-hearing?utm_source=lootura.com) — 2026-07-22T10:43:36.000Z
+- [Sen. Patty Murray, D-Wash., on Defense Secretary Pete Hegseth's Senate testimony](https://www.npr.org/2026/07/22/nx-s1-5902047/sen-patty-murray-d-wash-on-defense-secretary-pete-hegseths-senate-testimony?utm_source=lootura.com) — 2026-07-22T10:43:28.000Z

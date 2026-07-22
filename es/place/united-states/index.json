@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/united-states/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/united-states/index.json",
   "description": "Sigue la actividad de Estados Unidos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-22T10:23:10.282Z",
+  "updatedAt": "2026-07-22T13:46:22.256Z",
   "aliases": [
     "America",
     "EE.UU.",
@@ -47,6 +47,16 @@
       "date": "2026-07-22"
     },
     {
+      "title": "Trump sopesa proponer a Infantino como secretario general de la ONU, según el 'New York Post'",
+      "summary": "El presidente de Estados Unidos, Donald Trump, estaría sopesando presentar la candidatura de Gianni Infantino, presidente de la FIFA, para ocupar el cargo de secretario general de Naciones Unidas y convertirse en el décimo mandatario en asumir la función , según ha adelantado este martes el 'New York Post'. Trump sosti.",
+      "date": "2026-07-22"
+    },
+    {
+      "title": "El alcalde de Nueva York, Zohran Mamdani, insta a Trump a detener al “criminal” Netanyahu si entra en Estados Unidos",
+      "summary": "Zohran Mamdani ganó el año pasado las elecciones a la alcaldía de Nueva York con un discurso durísimo contra el Gobierno israelí y su actuación en Gaza y Cisjordania. Ahora ha dado un paso más al reclamar a la Administración republicana de Donald Trump que detenga al primer ministro Benjamín Netanyahu si pisa suelo est.",
+      "date": "2026-07-22"
+    },
+    {
       "title": "Trump pide inmunidad judicial para Delcy Rodríguez mientras siga en el poder",
       "summary": "La Administración de Donald Trump ha pedido al Departamento de Justicia de Estados Unidos que garantice la inmunidad judicial de la presidenta interina de.",
       "date": "2026-07-21"
@@ -80,25 +90,27 @@
       "title": "Una jueza bloquea temporalmente el acuerdo entre Paramount y Warner para crear el mayor grupo audiovisual de Estados Unidos",
       "summary": "A Paramount puede atragantársele el gran bocado que pegó el pasado febrero con la compra de Warner Bros, para crear el mayor grupo audiovisual de Estados Unidos. La operación, valorada en unos 110.000 millones de dólares, ha sufrido un repentino parón tras la decisión de un juez federal de California de dictar una orde.",
       "date": "2026-07-20"
-    },
-    {
-      "title": "El impactante ataque de un bisonte a un abuelo en Yellowstone que ha conmocionado a Estados Unidos",
-      "summary": "La naturaleza no es un zoológico sin vallas. La reciente agresión sufrida por un turista en el Parque Nacional de Yellowstone (EE UU) ha vuelto a poner sobre la mesa el debate sobre la insensatez humana frente a la fauna indómita. Un hombre, acompañado por su nieto, fue proyectado por los aires tras ser embestido por u.",
-      "date": "2026-07-20"
-    },
-    {
-      "title": "Estados Unidos lanza una nueva oleada de bombardeos sobre Irán",
-      "summary": "El Mando Central de las Fuerzas Armadas estadounidenses (Centcom) ha informado este lunes de que ha lanzado una nueva oleada de bombardeos sobre.",
-      "date": "2026-07-20"
     }
   ],
   "sources": [
+    {
+      "title": "Trump sopesa proponer a Infantino como secretario general de la ONU, según el 'New York Post'",
+      "url": "https://www.abc.es/internacional/trump-sopesa-proponer-infantino-secretario-general-onu-20260722115546-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-22T12:05:50.000Z",
+      "sourceId": "lootura-es-abc"
+    },
     {
       "title": "Trump aprueba acuerdo nuclear que permitiría a Arabia Saudí enriquecer uranio",
       "url": "https://www.elmundo.es/internacional/2026/07/22/6a605530e9cf4a8a088b4596.html?utm_source=lootura.com",
       "publishedAt": "2026-07-22T05:35:01.000Z",
       "sourceId": "lootura-es-el-mundo"
+    },
+    {
+      "title": "El alcalde de Nueva York, Zohran Mamdani, insta a Trump a detener al “criminal” Netanyahu si entra en Estados Unidos",
+      "url": "https://elpais.com/internacional/2026-07-22/el-alcalde-de-nueva-york-zohran-mamdani-insta-a-trump-a-detener-al-criminal-netanyahu-si-entra-en-estados-unidos.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-22T11:32:36.000Z",
+      "sourceId": "lootura-es-el-pais"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 3
 }

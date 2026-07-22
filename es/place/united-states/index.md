@@ -3,7 +3,7 @@
 > Sigue la actividad de Estados Unidos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-22T10:23:10.282Z
+- Actualizado: 2026-07-22T13:46:22.256Z
 - Canonical: https://atlas.lootura.com/es/place/united-states
 
 ## Cambios recientes
@@ -11,6 +11,18 @@
 ### Trump aprueba acuerdo nuclear que permitiría a Arabia Saudí enriquecer uranio
 
 Se prevé que el acuerdo tenga una vigencia de 30 años y que también implique a empresas de Estados Unidos en el desarrollo del programa Leer.
+
+Date: 2026-07-22
+
+### Trump sopesa proponer a Infantino como secretario general de la ONU, según el 'New York Post'
+
+El presidente de Estados Unidos, Donald Trump, estaría sopesando presentar la candidatura de Gianni Infantino, presidente de la FIFA, para ocupar el cargo de secretario general de Naciones Unidas y convertirse en el décimo mandatario en asumir la función , según ha adelantado este martes el 'New York Post'. Trump sosti.
+
+Date: 2026-07-22
+
+### El alcalde de Nueva York, Zohran Mamdani, insta a Trump a detener al “criminal” Netanyahu si entra en Estados Unidos
+
+Zohran Mamdani ganó el año pasado las elecciones a la alcaldía de Nueva York con un discurso durísimo contra el Gobierno israelí y su actuación en Gaza y Cisjordania. Ahora ha dado un paso más al reclamar a la Administración republicana de Donald Trump que detenga al primer ministro Benjamín Netanyahu si pisa suelo est.
 
 Date: 2026-07-22
 
@@ -56,18 +68,8 @@ A Paramount puede atragantársele el gran bocado que pegó el pasado febrero con
 
 Date: 2026-07-20
 
-### El impactante ataque de un bisonte a un abuelo en Yellowstone que ha conmocionado a Estados Unidos
-
-La naturaleza no es un zoológico sin vallas. La reciente agresión sufrida por un turista en el Parque Nacional de Yellowstone (EE UU) ha vuelto a poner sobre la mesa el debate sobre la insensatez humana frente a la fauna indómita. Un hombre, acompañado por su nieto, fue proyectado por los aires tras ser embestido por u.
-
-Date: 2026-07-20
-
-### Estados Unidos lanza una nueva oleada de bombardeos sobre Irán
-
-El Mando Central de las Fuerzas Armadas estadounidenses (Centcom) ha informado este lunes de que ha lanzado una nueva oleada de bombardeos sobre.
-
-Date: 2026-07-20
-
 ## Fuentes
 
+- [Trump sopesa proponer a Infantino como secretario general de la ONU, según el 'New York Post'](https://www.abc.es/internacional/trump-sopesa-proponer-infantino-secretario-general-onu-20260722115546-nt.html?utm_source=lootura.com) — 2026-07-22T12:05:50.000Z
 - [Trump aprueba acuerdo nuclear que permitiría a Arabia Saudí enriquecer uranio](https://www.elmundo.es/internacional/2026/07/22/6a605530e9cf4a8a088b4596.html?utm_source=lootura.com) — 2026-07-22T05:35:01.000Z
+- [El alcalde de Nueva York, Zohran Mamdani, insta a Trump a detener al “criminal” Netanyahu si entra en Estados Unidos](https://elpais.com/internacional/2026-07-22/el-alcalde-de-nueva-york-zohran-mamdani-insta-a-trump-a-detener-al-criminal-netanyahu-si-entra-en-estados-unidos.html?utm_source=lootura.com) — 2026-07-22T11:32:36.000Z

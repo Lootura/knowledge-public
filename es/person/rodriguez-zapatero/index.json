@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/rodriguez-zapatero/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/rodriguez-zapatero/index.json",
   "description": "Sigue la actividad de José Luis Rodríguez Zapatero en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-22T10:23:10.282Z",
+  "updatedAt": "2026-07-22T13:46:22.256Z",
   "aliases": [
     "José Luis Rodríguez",
     "Rodríguez",
@@ -69,17 +69,11 @@
   ],
   "sources": [
     {
-      "title": "Zapatero ordenó camuflar en varios pagos la comisión del 1% en el rescate de Plus Ultra",
-      "url": "https://amp.elmundo.es/espana/2026/07/21/6a5fbadb21efa0b26b8b458b.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-21T20:47:14.000Z",
-      "sourceId": "lootura-es-el-mundo"
-    },
-    {
       "title": "La causa contra Zapatero sitúa ahora el foco en la cúpula de Plus Ultra tras contradecir la versión del expresidente",
       "url": "https://elpais.com/espana/2026-07-22/la-causa-contra-zapatero-situa-ahora-el-foco-en-la-cupula-de-plus-ultra-tras-contradecir-la-version-del-expresidente.html?utm_source=lootura.com",
       "publishedAt": "2026-07-22T03:30:01.000Z",
       "sourceId": "lootura-es-el-pais"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

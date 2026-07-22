@@ -1,0 +1,48 @@
+{
+  "id": "usa-saudi-arabia",
+  "name": "Saudi Arabia",
+  "type": "place",
+  "locale": "en",
+  "canonicalPath": "/us/place/saudi-arabia",
+  "canonicalUrl": "https://atlas.lootura.com/us/place/saudi-arabia",
+  "markdownUrl": "https://atlas.lootura.com/us/place/saudi-arabia/index.md",
+  "jsonUrl": "https://atlas.lootura.com/us/place/saudi-arabia/index.json",
+  "description": "Follow Saudi Arabia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
+  "updatedAt": "2026-07-22T13:46:43.033Z",
+  "aliases": [
+    "Kingdom of Saudi Arabia",
+    "Saudi"
+  ],
+  "changes": [
+    {
+      "title": "Trump approves landmark U.S.-Saudi nuclear deal",
+      "summary": "President Donald Trump has approved a landmark civilian nuclear deal between the United States and Saudi Arabia that is expected to be announced Wednesday, a senior administration official told NBC News.",
+      "date": "2026-07-22"
+    },
+    {
+      "title": "See How Houthis Put the Red Sea at Risk as an Alternative Oil Route",
+      "summary": "Saudi Arabia has diverted huge amounts of oil to the Red Sea since the Iran war began, but now the Iranian-backed Houthi militants say that they intend to block that route.",
+      "date": "2026-07-22"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Saudi Arabia first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-07-22"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Trump approves landmark U.S.-Saudi nuclear deal",
+      "url": "https://www.nbcnews.com/world/saudi-arabia/trump-us-saudi-nuclear-deal-uranium-enrichment-iran-war-israel-rcna588660?utm_source=lootura.com",
+      "publishedAt": "2026-07-22T12:04:33.000Z",
+      "sourceId": "lootura-us-nbc-news-politics"
+    },
+    {
+      "title": "See How Houthis Put the Red Sea at Risk as an Alternative Oil Route",
+      "url": "https://www.nytimes.com/2026/07/22/business/energy-environment/red-sea-saudi-arabia-houthis.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-22T12:17:51.000Z",
+      "sourceId": "lootura-us-the-new-york-times-politics"
+    }
+  ],
+  "evidenceCount": 2
+}

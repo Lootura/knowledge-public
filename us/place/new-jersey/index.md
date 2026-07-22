@@ -3,10 +3,16 @@
 > Follow New Jersey, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-22T10:23:35.990Z
+- Updated: 2026-07-22T13:46:43.033Z
 - Canonical: https://atlas.lootura.com/us/place/new-jersey
 
 ## Recent changes
+
+### 'Software Error' Led Hundreds of Noncitizens to Vote in NJ
+
+New Jersey Gov. Mikie Sherrill says a DMV software error led to more than 6,000 noncitizens being registered to vote when they signed up for driver’s licenses or ID cards. Four hundred of them actually cast ballots in New Jersey elections between 2023 and 2024. The governor says there is no evidence that any elections.
+
+Date: 2026-07-22
 
 ### Error Led to 400 Noncitizens Voting in New Jersey, Governor Says
 
@@ -46,5 +52,5 @@ Date: 2026-07-18
 
 ## Sources
 
-- [News Wrap: Gulf Coast prepares for Tropical Storm Bertha](https://www.pbs.org/newshour/show/news-wrap-gulf-coast-prepares-for-tropical-storm-bertha?utm_source=lootura.com) — 2026-07-21T22:45:25.000Z
+- ['Software Error' Led Hundreds of Noncitizens to Vote in NJ](https://www.today.com/video/400-noncitizens-voted-in-new-jersey-due-to-software-error-267085893704?utm_source=lootura.com) — 2026-07-22T11:28:43.000Z
 - [Error Led to 400 Noncitizens Voting in New Jersey, Governor Says](https://www.nytimes.com/2026/07/21/nyregion/noncitizen-voting-new-jersey-error.html?utm_source=lootura.com) — 2026-07-21T19:19:21.000Z

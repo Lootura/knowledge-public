@@ -3,10 +3,16 @@
 > Sigue la actividad de Reino Unido de Gran Bretaña e Irlanda del Norte en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-22T10:23:10.282Z
+- Actualizado: 2026-07-22T13:46:22.256Z
 - Canonical: https://atlas.lootura.com/es/place/reino-unido
 
 ## Cambios recientes
+
+### Nuevos Samsung Galaxy Watch9 y Watch Ultra2: la IA toma también tu muñeca, ahora para ayudarte a cuidar al máximo tu cuerpo y tu salud
+
+Fiel a su cita con las presentaciones veraniegas, esta vez Samsung ha vuelto a convocar a toda la atención mediática de la industria para un interesantísimo Galaxy Unpacked 2026 celebrado en Londres. Allí, en la capital del Reino Unido, la empresa surcoreana nos ha enseñado no sólo a los nuevos Galaxy Z Fold8 , Fold8 U.
+
+Date: 2026-07-22
 
 ### Galán pide rebajar la fiscalidad de la luz y eliminar el IVA para los hogares, en línea con Reino Unido
 
@@ -62,12 +68,6 @@ Letterone, el grupo inversor propietario de la cadena española de supermercados
 
 Date: 2026-07-20
 
-### Andy Burnham, nuevo líder del Partido Laborista británico en sustitución de Starmer
-
-El exalcalde de Mánchester, Andy Burnham, de 56 años, fue proclamado este viernes oficialmente nuevo líder del Partido Laborista británico, en sustitución de Keir Starmer , a quien también sucederá el lunes como primer ministro del Reino Unido . La secretaria general del Comité Nacional Ejecutivo, órgano rector de la f.
-
-Date: 2026-07-17
-
 ## Fuentes
 
-- [Galán pide rebajar la fiscalidad de la luz y eliminar el IVA para los hogares, en línea con Reino Unido](https://cincodias.elpais.com/companias/2026-07-22/iberdrola-dispara-su-beneficio-neto-un-22-hasta-los-4336-millones-en-el-primer-semestre.html?utm_source=lootura.com) — 2026-07-22T06:53:58.000Z
+- [Nuevos Samsung Galaxy Watch9 y Watch Ultra2: la IA toma también tu muñeca, ahora para ayudarte a cuidar al máximo tu cuerpo y tu salud](https://www.larazon.es/tecnologia-consumo/samsung/nuevos-samsung-galaxy-watch9-watch-ultra2-ia-toma-tambien-tu-muneca-ahora-ayudarte-cuidar-maximo-tu-cuerpo-tu-salud_202607226a607a9eda3add27d4db69fe.html?utm_source=lootura.com) — 2026-07-22T13:03:00.000Z

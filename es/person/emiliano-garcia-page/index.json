@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/emiliano-garcia-page/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/emiliano-garcia-page/index.json",
   "description": "Sigue la actividad de Emiliano García-Page en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-22T06:25:50.604Z",
+  "updatedAt": "2026-07-22T13:46:22.256Z",
   "aliases": [
     "Emiliano",
     "Emiliano Garcia Page Sanchez",
@@ -22,6 +22,11 @@
     "García-Page"
   ],
   "changes": [
+    {
+      "title": "El incendio de Guadalajara entra en fase de “estabilización” tras arrasar más de 32.000 hectáreas",
+      "summary": "El incendio de La Mierla (Guadalajara), el más grande de la historia de Castilla-La Mancha , que ha arrasado más de 32.000 hectáreas, ya ha entrado en fase de “estabilización”, según ha anunciado este miércoles el presidente de Castilla-La Mancha, Emiliano García-Page, desde el puesto de mando avanzado de Tamajón, en u.",
+      "date": "2026-07-22"
+    },
     {
       "title": "El incendio de Guadalajara se acerca a las 32.000 hectáreas afectadas",
       "summary": "El incendio que se originó el pasado jueves en La Mierla, en la Sierra Norte de Guadalajara, empieza a arrojar los primeros resquicios para el optimismo tras seis días de lucha incansable contra el fuego. “Empezamos a ver la luz más allá del humo”, decía el presidente de Castilla-La Mancha, Emiliano García-Page , tras.",
@@ -58,6 +63,13 @@
       "date": "2026-07-18"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "El incendio de Guadalajara entra en fase de “estabilización” tras arrasar más de 32.000 hectáreas",
+      "url": "https://elpais.com/espana/2026-07-22/el-incendio-de-guadalajara-entra-en-fase-de-estabilizacion-tras-arrasar-mas-de-32000-hectareas.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-22T11:03:06.000Z",
+      "sourceId": "lootura-es-el-pais"
+    }
+  ],
+  "evidenceCount": 1
 }

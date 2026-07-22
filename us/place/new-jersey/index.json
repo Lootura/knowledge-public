@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/new-jersey/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/new-jersey/index.json",
   "description": "Follow New Jersey, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-22T10:23:35.990Z",
+  "updatedAt": "2026-07-22T13:46:43.033Z",
   "aliases": [
     "Garden State",
     "Iersey",
@@ -23,6 +23,11 @@
     "Jersey"
   ],
   "changes": [
+    {
+      "title": "'Software Error' Led Hundreds of Noncitizens to Vote in NJ",
+      "summary": "New Jersey Gov. Mikie Sherrill says a DMV software error led to more than 6,000 noncitizens being registered to vote when they signed up for driver’s licenses or ID cards. Four hundred of them actually cast ballots in New Jersey elections between 2023 and 2024. The governor says there is no evidence that any elections.",
+      "date": "2026-07-22"
+    },
     {
       "title": "Error Led to 400 Noncitizens Voting in New Jersey, Governor Says",
       "summary": "A 2023 software glitch at the state’s Motor Vehicle Commission led to roughly 6,600 noncitizens being registered to vote during the Murphy administration, Gov. Mikie Sherrill announced.",
@@ -56,10 +61,10 @@
   ],
   "sources": [
     {
-      "title": "News Wrap: Gulf Coast prepares for Tropical Storm Bertha",
-      "url": "https://www.pbs.org/newshour/show/news-wrap-gulf-coast-prepares-for-tropical-storm-bertha?utm_source=lootura.com",
-      "publishedAt": "2026-07-21T22:45:25.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
+      "title": "'Software Error' Led Hundreds of Noncitizens to Vote in NJ",
+      "url": "https://www.today.com/video/400-noncitizens-voted-in-new-jersey-due-to-software-error-267085893704?utm_source=lootura.com",
+      "publishedAt": "2026-07-22T11:28:43.000Z",
+      "sourceId": "lootura-us-nbc-news-politics"
     },
     {
       "title": "Error Led to 400 Noncitizens Voting in New Jersey, Governor Says",

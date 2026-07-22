@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/carles-puigdemont/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/carles-puigdemont/index.json",
   "description": "Sigue la actividad de Carles Puigdemont Casamajó en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-22T06:25:50.604Z",
+  "updatedAt": "2026-07-22T13:46:22.256Z",
   "aliases": [
     "Carles",
     "Carles Puigdemont Casamajó",
@@ -18,6 +18,11 @@
     "Puigdemont"
   ],
   "changes": [
+    {
+      "title": "¿Cómo funciona la denuncia que ha presentado Puigdemont contra España?",
+      "summary": "La defensa del expresident Carles Puigdemont presentó el lunes dos denuncias contra España ante instancias europeas como respuesta a la negativa del Tribunal de Cuentas a aplicar la ley de Amnistía a la treintena de ex altos cargos de la administración catalana a los que se reclaman los gastos del procés . El órgano fi.",
+      "date": "2026-07-22"
+    },
     {
       "title": "El gran fichaje empresarial de Puigdemont deja su escaño lejos de las expectativas creadas",
       "summary": "Los fichajes de independientes siempre son complicados en política. En 2024, Carles Puigdemont incorporó a una directiva de nivel medio de Silicon Valley, Anna Navarro, como gran fichaje empresarial. Fue de número dos en la lista de las elecciones catalanas, justo detrás del propio Puigdemont. El fichaje ha estado lejo.",
@@ -64,6 +69,13 @@
       "date": "2026-07-16"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "¿Cómo funciona la denuncia que ha presentado Puigdemont contra España?",
+      "url": "https://www.lavanguardia.com/politica/20260722/11598504/como-funciona-denuncia-presentado-puigdemont-espana-comision-europea.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-22T11:03:21.000Z",
+      "sourceId": "lootura-es-la-vanguardia"
+    }
+  ],
+  "evidenceCount": 1
 }

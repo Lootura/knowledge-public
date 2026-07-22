@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/es/topic/artificial-intelligence/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/topic/artificial-intelligence/index.json",
   "description": "Sigue la actividad de Artificial intelligence en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-22T10:23:10.282Z",
+  "updatedAt": "2026-07-22T13:46:22.256Z",
   "aliases": [
     "AI",
     "machine learning"
   ],
   "changes": [
+    {
+      "title": "Samsung regala 6 meses de Google AI Pro con sus nuevos Galaxy Z Fold 8 y Z Flip 8",
+      "summary": "Samsung ha presentado su nueva familia de plegables Galaxy Z. Tras meses de rumores y filtraciones, el fabricante reveló los nuevos Galaxy Z Fold 8, Galaxy Z Fold 8 Ultra y Galaxy Z Flip 8 , cada uno enfocado a un público particular. Aunque sus funciones han acaparado los reflectores, los móviles incluyen un beneficio.",
+      "date": "2026-07-22"
+    },
     {
       "title": "Este pequeño, pero matón portátil de Acer está hecho para la IA y acaba de tocar su precio mínimo en MediaMarkt",
       "summary": "Disponer de una herramienta compacta que responda con inmediatez al abrir múltiples programas a la vez es una prioridad para quienes trabajan o estudian en constante movimiento. El Acer Aspire 14 AI A14-52M Copilot+ PC corta de raíz este problema al integrar funciones de inteligencia artificial nativas que automatizan.",
@@ -42,11 +47,17 @@
   ],
   "sources": [
     {
-      "title": "La Primera de Expansión sobre Santander, Holaluz, Iberdrola, Ormuz, Infantino y OpenAI",
-      "url": "https://www.expansion.com/podcasts/la-primera-de-expansion/2026/07/22/6a604cca468aeb35718b457d.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-22T05:33:26.000Z",
-      "sourceId": "lootura-es-expansion"
+      "title": "Un nuevo modelo de OpenAI provoca un ataque “sin precedentes” contra otra plataforma de inteligencia artificial",
+      "url": "https://elpais.com/tecnologia/2026-07-22/un-nuevo-modelo-de-openai-provoca-un-ataque-sin-precedentes-contra-otra-plataforma-de-inteligencia-artificial.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-22T11:50:39.000Z",
+      "sourceId": "lootura-es-el-pais"
+    },
+    {
+      "title": "Samsung regala 6 meses de Google AI Pro con sus nuevos Galaxy Z Fold 8 y Z Flip 8",
+      "url": "https://hipertextual.com/mobile/galaxy-z-fold8-flip8-google-ai-pro-gratis/?utm_source=lootura.com",
+      "publishedAt": "2026-07-22T13:05:00.000Z",
+      "sourceId": "lootura-es-hipertextual"
     }
   ],
-  "evidenceCount": 0
+  "evidenceCount": 1
 }

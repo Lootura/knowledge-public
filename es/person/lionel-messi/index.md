@@ -70,4 +70,4 @@ Date: 2026-07-16
 
 ## Fuentes
 
-- [Messi regresa a Argentina tras la derrota en la final del Mundial](https://elpais.com/argentina/2026-07-21/messi-regresa-a-argentina-tras-la-derrota-en-la-final-del-mundial.html?utm_source=lootura.com) — 2026-07-21T20:53:49.000Z
+No public source links.

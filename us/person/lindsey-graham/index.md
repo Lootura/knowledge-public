@@ -70,4 +70,4 @@ Date: 2026-07-17
 
 ## Sources
 
-- [South Carolina Senate poll shows surprising frontrunner: Trey Gowdy](https://www.politico.com/news/2026/07/21/south-carolina-senate-poll-trey-gowdy-graham-01006741?utm_source=lootura.com) — 2026-07-21T19:47:06.000Z
+No public source links.

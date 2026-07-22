@@ -1,0 +1,45 @@
+{
+  "id": "es-el-tribunal-supremo",
+  "name": "El Tribunal Supremo",
+  "type": "organization",
+  "locale": "es",
+  "canonicalPath": "/es/organization/el-tribunal-supremo",
+  "canonicalUrl": "https://atlas.lootura.com/es/organization/el-tribunal-supremo",
+  "markdownUrl": "https://atlas.lootura.com/es/organization/el-tribunal-supremo/index.md",
+  "jsonUrl": "https://atlas.lootura.com/es/organization/el-tribunal-supremo/index.json",
+  "description": "Sigue la actividad de El Tribunal Supremo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
+  "updatedAt": "2026-07-22T13:46:22.256Z",
+  "aliases": [],
+  "changes": [
+    {
+      "title": "El Supremo levanta las medidas cautelares a Aldama tras la sentencia del caso mascarillas",
+      "summary": "El Tribunal Supremo ha decidido levantar las medidas cautelares que pesaban sobre el empresario Víctor de Aldama en el conocido como ‘ caso mascarillas ’. La decisión llega una vez que ha adquirido firmeza la sentencia que también condenó al exministro de Transportes José Luis Ábalos y a su antiguo asesor, Koldo García.",
+      "date": "2026-07-22"
+    },
+    {
+      "title": "El Tribunal Supremo levanta las medidas cautelares de Aldama a petición de su defensa",
+      "summary": "La Sala sostiene que \"aunque la ejecutoria de la sentencia aún no ha sido incoada\", la consecuencia lógica del dictado de la misma es el decaimiento de las medidas cautelares sobre el empresario Leer.",
+      "date": "2026-07-22"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "El Tribunal Supremo first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-07-22"
+    }
+  ],
+  "sources": [
+    {
+      "title": "El Supremo levanta las medidas cautelares a Aldama tras la sentencia del caso mascarillas",
+      "url": "https://www.elconfidencial.com/espana/2026-07-22/tribunal-supremo-caso-mascarillas-cohecho-1tps_4394126/?utm_source=lootura.com",
+      "publishedAt": "2026-07-22T10:52:00.000Z",
+      "sourceId": "lootura-es-el-confidencial"
+    },
+    {
+      "title": "El Tribunal Supremo levanta las medidas cautelares de Aldama a petición de su defensa",
+      "url": "https://www.elmundo.es/espana/2026/07/22/6a60940f21efa097198b45a5.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-22T10:07:09.000Z",
+      "sourceId": "lootura-es-el-mundo"
+    }
+  ],
+  "evidenceCount": 2
+}

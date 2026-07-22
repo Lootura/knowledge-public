@@ -3,10 +3,28 @@
 > Sigue la actividad de El Gobierno en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-22T10:23:10.282Z
+- Actualizado: 2026-07-22T13:46:22.256Z
 - Canonical: https://atlas.lootura.com/es/person/el-gobierno
 
 ## Cambios recientes
+
+### La alianza PP-Vox hace ley por primera vez la “prioridad nacional” en los presupuestos de la Comunitat Valenciana
+
+La derecha y la ultraderecha sacan adelante las cuentas de Pérez Llorca en las Corts Valencianes, por valor de 33.305 millones de euros, sin aceptar enmiendas de la oposición y con riesgo de un recurso de inconstitucionalidad El Gobierno recurrirá en el Constitucional la ley de presupuestos de Pérez Llorca si incluye l.
+
+Date: 2026-07-22
+
+### El Gobierno incluye una prórroga de alquileres hasta 2028 en el nuevo decreto de vivienda
+
+Recta final en la negociación por el nuevo decreto de vivienda . El Gobierno de coalición ha llegado a un acuerdo con el que pretende convencer a los socios de investidura que tumbaron el anterior decreto, y que incluye una prórroga automática de los alquileres para todos los contratos que finalicen antes de julio de 2.
+
+Date: 2026-07-22
+
+### El Gobierno vasco concede beneficios penitenciarios al asesino de Gregorio Ordóñez
+
+La AVT ha recibido la notificación de la concesión de otras dos flexibilizaciones del segundo grado a los presos de ETA Alberto López de la Calle, "Mobutu", y Juan Ramón Carasatorre, asesino de Gregorio Ordóñez. Caarasatorre obtiene esta medida después de que la Audiencia Nacional revocara una decisión anterior al cons.
+
+Date: 2026-07-22
 
 ### PP y Vox aprueban los presupuestos de Pérez Llorca, los últimos de la legislatura, con mención a la "prioridad nacional"
 
@@ -50,25 +68,8 @@ El Consejo de Ministros ha aprobado el nombramiento de Juan José Ganuza Fernán
 
 Date: 2026-07-21
 
-### Irlanda prohibirá el uso de patinetes eléctricos a los menores de 18 años
-
-El Gobierno irlandés confirmó este martes que prohibirá el uso de patinetes eléctricos a los menores de 18 años , ante el repunte de lesiones graves causadas por accidentes con este tipo de vehículos y el aumento de actividades delictivas. La medida entrará en vigor en agosto e impondrá asimismo la obligatoriedad del u.
-
-Date: 2026-07-21
-
-### El Gobierno respalda a De Cos como el candidato español a presidir el BCE
-
-España apunta a lo más alto en el juego de las sillas del Comité Ejecutivo del Banco Central Europeo (BCE). El Gobierno ve una oportunidad real para presidir la autoridad...
-
-Date: 2026-07-20
-
-### El Gobierno lo confirma: se ha aprobado la ayuda de 166 euros de IMV por cada miembro de la unidad de convivencia si se cumplen estos requisitos
-
-El Ingreso Mínimo Vital llegó el pasado mes de mayo a más de 860.000 hogares españoles en los que viven más de un millón de niños, niñas y adolescentes. El Instituto Nacional de la Seguridad Social confirmó a primeros de junio que el IMV protege actualmente a 2.631.545 personas que están en una situación de ... Continu.
-
-Date: 2026-07-20
-
 ## Fuentes
 
-- [El Gobierno de Pradales anuncia que no habrá recibimiento a los jugadores vascos de La Roja](https://www.elcorreo.com/politica/gobierno-pradales-deja-aire-recibimiento-jugadores-vascos-20260721132932-nt_amp.html?utm_source=lootura.com) — 2026-07-21T11:29:33.000Z
-- [PP y Vox aprueban los presupuestos de Pérez Llorca, los últimos de la legislatura, con mención a la "prioridad nacional"](https://www.eldiario.es/comunitat-valenciana/politica/pp-vox-aprueban-presupuestos-perez-llorca-ultimos-legislatura-mencion-prioridad-nacional_1_13398223.html?utm_source=lootura.com) — 2026-07-22T10:10:37.000Z
+- [La alianza PP-Vox hace ley por primera vez la “prioridad nacional” en los presupuestos de la Comunitat Valenciana](https://www.eldiario.es/comunitat-valenciana/politica/pp-vox-aprueban-presupuestos-perez-llorca-ultimos-legislatura-mencion-prioridad-nacional_1_13398223.html?utm_source=lootura.com) — 2026-07-22T10:10:37.000Z
+- [El Gobierno incluye una prórroga de alquileres hasta 2028 en el nuevo decreto de vivienda](https://www.expansion.com/inmobiliario/mercado/2026/07/22/6a60bffae5fdeab55c8b45ab.html?utm_source=lootura.com) — 2026-07-22T13:29:05.000Z
+- [El Gobierno vasco concede beneficios penitenciarios al asesino de Gregorio Ordóñez](https://www.larazon.es/espana/gobierno-vasco-concede-beneficios-penitenciarios-asesino-gregorio-ordonez_202607226a60c5b94687a22bdec7a7fc.html?utm_source=lootura.com) — 2026-07-22T13:29:29.000Z

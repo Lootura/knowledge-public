@@ -3,7 +3,7 @@
 > Sigue la actividad de Plus Ultra en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-22T10:23:10.282Z
+- Actualizado: 2026-07-22T13:46:22.256Z
 - Canonical: https://atlas.lootura.com/es/person/plus-ultra
 
 ## Cambios recientes
@@ -11,6 +11,12 @@
 ### La causa contra Zapatero sitúa ahora el foco en la cúpula de Plus Ultra tras contradecir la versión del expresidente
 
 Julio Martínez Martínez entró sobre las 8.45 de este martes en la Audiencia Nacional y salió más de cuatro horas después sin moverse mucho de la línea marcada un día antes en el escrito enviado al juez José Luis Calama para implicar al expresidente José Luis Rodríguez Zapatero en el rescate de Plus Ultra . El giro del.
+
+Date: 2026-07-22
+
+### Óscar López afirma que la operación de Plus Ultra cumplió «todos» los requisitos y filtros
+
+El ministro para la Transformación Digital y de la Función Pública, Óscar López , ha sostenido este miércoles que el préstamo público a la aerolínea Plus Ultra cumplió con «todos» los requisitos ya que pasó los informes y filtros de los preceptivos organismos en «una operación correcta». En declaraciones a los periodis.
 
 Date: 2026-07-22
 
@@ -62,16 +68,7 @@ Julio Martínez Martínez, quien fuera hombre de la total confianza del ex presi
 
 Date: 2026-07-21
 
-### El pagador de Zapatero declara ante el juez que el ex presidente le anticipó que el Gobierno iba a aprobar el rescate de Plus Ultra
-
-El empresario alicantino Julio Martínez Martínez ha declarado este martes en la Audiencia Nacional que fue el ex presidente del Gobierno José Luis Rodríguez Zapatero quien le...
-
-Date: 2026-07-21
-
 ## Fuentes
 
-- [El juez abrirá una investigación exhaustiva a las hijas de Zapatero](https://amp.elmundo.es/espana/2026/07/21/6a5fccb5e4d4d8d9598b4582.html?utm_source=lootura.com) — 2026-07-21T20:46:52.000Z
-- [Zapatero conoció en tiempo real la llegada al Gobierno del último informe necesario para aprobar el rescate a Plus Ultra](https://www.elmundo.es/espana/2026/07/21/6a5fca0421efa065748b4580.html?utm_source=lootura.com) — 2026-07-21T20:46:09.000Z
-- [Depresión en el Gobierno por el jaque al ex presidente: "Esto es peor que lo de Leire"](https://www.elmundo.es/espana/2026/07/21/6a5fb71821efa057338b45ad.html?utm_source=lootura.com) — 2026-07-21T20:46:34.000Z
-- [Zapatero ordenó camuflar en varios pagos la comisión del 1% en el rescate de Plus Ultra](https://amp.elmundo.es/espana/2026/07/21/6a5fbadb21efa0b26b8b458b.html?utm_source=lootura.com) — 2026-07-21T20:47:14.000Z
 - [La causa contra Zapatero sitúa ahora el foco en la cúpula de Plus Ultra tras contradecir la versión del expresidente](https://elpais.com/espana/2026-07-22/la-causa-contra-zapatero-situa-ahora-el-foco-en-la-cupula-de-plus-ultra-tras-contradecir-la-version-del-expresidente.html?utm_source=lootura.com) — 2026-07-22T03:30:01.000Z
+- [Óscar López afirma que la operación de Plus Ultra cumplió «todos» los requisitos y filtros](https://theobjective.com/espana/politica/2026-07-22/oscar-lopez-operacion-plus-ultra-equisitos-filtros/?utm_source=lootura.com) — 2026-07-22T12:38:44.000Z

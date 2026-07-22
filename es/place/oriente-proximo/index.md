@@ -3,7 +3,7 @@
 > Sigue la actividad de Oriente Próximo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-22T10:23:10.282Z
+- Actualizado: 2026-07-22T13:46:22.256Z
 - Canonical: https://atlas.lootura.com/es/place/oriente-proximo
 
 ## Cambios recientes
@@ -11,6 +11,30 @@
 ### Discovered by Atlas
 
 Oriente Próximo first entered the public knowledge record with source-backed evidence.
+
+Date: 2026-07-22
+
+### El precio del gas en Europa supera los máximos de marzo y complica el acopio de reservas para el invierno
+
+El riesgo de crisis energética asoma de nuevo en su versión más amenazante para Europa con el encarecimiento del gas natural, materia prima clave para la economía de la región. Europa ha encajado hasta ahora el golpe del conflicto en Oriente Próximo, pero la prolongación de la guerra está añadiendo de nuevo presión sob.
+
+Date: 2026-07-22
+
+### Naturgy alerta de que Europa puede sufrir escasez de gas este invierno tras las nuevas sanciones a Rusia
+
+Naturgy advierte a sus inversores que Europa se enfrenta a una potencial escasez de suministro gasista ante las nuevas sanciones de la Unión Europea contra Rusia y la incertidumbre por la escalada bélica en Oriente Próximo. Seguir leyendo.
+
+Date: 2026-07-22
+
+### El petróleo toca los 95 dólares pero no aplaca el asalto del Ibex a los 19.600 gracias a los resultados
+
+Con el conflicto en Oriente Próximo sin visos de registrar progresos y la amenaza de un bloqueo del mar Rojo de fondo que complique aún más la situación, los inversores están optando por prestar más atención a la temporada de resultados trimestrales. Las Bolsas europeas se dejan llevar por unas subidas moderadas pese a.
+
+Date: 2026-07-22
+
+### Seopan cifra en 1.200 millones el agujero en la obra pública licitada desde 2025 por la crisis en Oriente Próximo
+
+Los proyectos de obra pública más recientes, licitados entre diciembre de 2025 y el pasado febrero con un presupuesto total de 6.900 millones (6.425 obras de todas las administraciones), están sufriendo de manera extraordinaria el encarecimiento de los materiales de construcción derivado del conflicto en Oriente Próxim.
 
 Date: 2026-07-22
 
@@ -40,5 +64,7 @@ Date: 2026-07-22
 
 ## Fuentes
 
-- [El Ibex sube a los 19.500 puntos pese al alza del petróleo y ante los resultados de las grandes tecnológicas](https://cincodias.elpais.com/mercados-financieros/2026-07-22/la-bolsa-y-el-ibex-35.html?utm_source=lootura.com) — 2026-07-22T09:49:12.000Z
-- [Los hutíes en Bab al Mandeb: el nuevo foco de la guerra en Oriente Próximo](https://elordenmundial.com/blitz-bab-al-mandeb-huties-guerra-oriente-proximo/?utm_source=lootura.com) — 2026-07-22T06:08:02.000Z
+- [El precio del gas en Europa supera los máximos de marzo y complica el acopio de reservas para el invierno](https://cincodias.elpais.com/mercados-financieros/2026-07-22/el-precio-del-gas-en-europa-supera-los-maximos-de-marzo-y-complica-el-acopio-de-reservas-para-el-invierno.html?utm_source=lootura.com) — 2026-07-22T12:01:25.000Z
+- [Naturgy alerta de que Europa puede sufrir escasez de gas este invierno tras las nuevas sanciones a Rusia](https://cincodias.elpais.com/companias/2026-07-22/naturgy-alerta-de-que-europa-puede-sufrir-escasez-de-gas-este-invierno-tras-las-nuevas-sanciones-a-rusia.html?utm_source=lootura.com) — 2026-07-22T11:00:25.000Z
+- [El petróleo toca los 95 dólares pero no aplaca el asalto del Ibex a los 19.600 gracias a los resultados](https://cincodias.elpais.com/mercados-financieros/2026-07-22/la-bolsa-y-el-ibex-35.html?utm_source=lootura.com) — 2026-07-22T12:39:22.000Z
+- [Seopan cifra en 1.200 millones el agujero en la obra pública licitada desde 2025 por la crisis en Oriente Próximo](https://cincodias.elpais.com/companias/2026-07-22/seopan-cifra-en-1200-millones-el-agujero-en-la-obra-publica-licitada-desde-2025-por-la-crisis-en-oriente-proximo.html?utm_source=lootura.com) — 2026-07-22T10:46:58.000Z

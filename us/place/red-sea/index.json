@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/red-sea/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/red-sea/index.json",
   "description": "Follow Red Sea, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-22T10:23:35.990Z",
+  "updatedAt": "2026-07-22T13:46:43.033Z",
   "aliases": [
     "Al Baḩr al Aḩmar",
     "Arabian Gulf",
@@ -20,6 +20,11 @@
     {
       "title": "See How Houthis Put the Red Sea at Risk as an Alternative Oil Route",
       "summary": "Saudi Arabia has diverted huge amounts of oil to the Red Sea since the Iran war began, but now the Iranian-backed Houthi militants say that they intend to block that route.",
+      "date": "2026-07-22"
+    },
+    {
+      "title": "U.S. and Iranian attacks continue as tensions mount on a key waterway in the Red Sea",
+      "summary": "The attacks overshadowed diplomatic efforts in Pakistan, one of the conflict's mediators, where a senior Iranian official held talks potentially aimed at reviving a collapsed ceasefire between the United States and Iran. (Image credit: Atta Kenare).",
       "date": "2026-07-22"
     },
     {
@@ -45,11 +50,17 @@
   ],
   "sources": [
     {
+      "title": "U.S. and Iranian attacks continue as tensions mount on a key waterway in the Red Sea",
+      "url": "https://www.npr.org/2026/07/22/nx-s1-5902843/us-iran-updates?utm_source=lootura.com",
+      "publishedAt": "2026-07-22T10:46:01.000Z",
+      "sourceId": "lootura-us-npr-world"
+    },
+    {
       "title": "See How Houthis Put the Red Sea at Risk as an Alternative Oil Route",
       "url": "https://www.nytimes.com/2026/07/22/business/energy-environment/red-sea-saudi-arabia-houthis.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-22T09:02:31.000Z",
+      "publishedAt": "2026-07-22T12:17:51.000Z",
       "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 2
 }

@@ -3,7 +3,7 @@
 > Sigue la actividad de "El Tiburón" en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-22T10:23:10.282Z
+- Actualizado: 2026-07-22T13:46:22.256Z
 - Canonical: https://atlas.lootura.com/es/person/ferran-torres
 
 ## Cambios recientes
@@ -58,5 +58,4 @@ Date: 2026-07-19
 
 ## Fuentes
 
-- [Sale a la luz la conversación entre la princesa Leonor y Ferran Torres tras ganar el Mundial a Argentina: "¿No te ibas a cortar el pelo?"](https://www.20minutos.es/deportes/futbol/sale-luz-conversacion-entre-princesa-leonor-ferran-torres-tras-ganar-mundial-no-te-ibas-cortar-pelo_7017472_0.html?utm_source=lootura.com) — 2026-07-22T06:41:11.000Z
-- [Destrozan el mural de Ferran Torres en Barcelona un día después de pintarlo](https://theobjective.com/deportes/futbol/mundial/2026-07-22/destrozan-mural-ferran-torres-barcelona/?utm_source=lootura.com) — 2026-07-22T08:56:24.000Z
+- [El mural homenaje a Ferran Torres en Barcelona amanece vandalizado con pinturas de "Puta España"](https://www.elconfidencial.com/espana/cataluna/2026-07-22/mural-ferran-torres-vandalizado-barcelona-pintura_4394146/?utm_source=lootura.com) — 2026-07-22T12:01:00.000Z

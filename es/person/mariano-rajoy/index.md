@@ -3,10 +3,16 @@
 > Sigue la actividad de Mariano Rajoy en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-19T06:28:06.146Z
+- Actualizado: 2026-07-22T13:46:22.256Z
 - Canonical: https://atlas.lootura.com/es/person/mariano-rajoy
 
 ## Cambios recientes
+
+### Fernández Díaz alega que se busca condenarlo en Kitchen “por razón” de su cargo de ministro
+
+Jorge Fernández Díaz, ministro del Interior de 2011 a 2016 y hombre de confianza del expresidente Mariano Rajoy, ya ha jugado sus cartas en el juicio del caso Kitchen , que se ha reanudado este miércoles en la Audiencia Nacional. Tres meses después del arranque de la vista , su abogado ha expuesto al tribunal su alegat.
+
+Date: 2026-07-22
 
 ### Margallo: "Lo de Gibraltar no tiene vuelta atrás, Sánchez desguaza el Estado pieza a pieza"
 
@@ -62,12 +68,6 @@ Las declaraciones del expresidente del Gobierno español, Mariano Rajoy , en las
 
 Date: 2026-07-13
 
-### El ministro de Exteriores francés, sobre el artículo de Rajoy: “Es una estupidez, racismo o las dos cosas”
-
-Francia se ha levantado este lunes todavía más indignada con el artículo de Mariano Rajoy sobre la selección gala en el que afirmaba que “juegan a un gran nivel” pero “sin franceses”. Su afirmación había sido ya contestada el domingo por varios ministros, pero este lunes la censuraron también la portavoz del Gobierno y.
-
-Date: 2026-07-13
-
 ## Fuentes
 
-No public source links.
+- [Fernández Díaz alega que se busca condenarlo en Kitchen “por razón” de su cargo de ministro](https://elpais.com/espana/2026-07-22/fernandez-diaz-alega-que-se-busca-condenarlo-en-kitchen-por-razon-de-su-cargo-de-ministro.html?utm_source=lootura.com) — 2026-07-22T10:51:41.000Z

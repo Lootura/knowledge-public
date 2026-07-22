@@ -3,7 +3,7 @@
 > Sigue la actividad de José Luis Rodríguez Zapatero en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-22T10:23:10.282Z
+- Actualizado: 2026-07-22T13:46:22.256Z
 - Canonical: https://atlas.lootura.com/es/person/rodriguez-zapatero
 
 ## Cambios recientes
@@ -70,5 +70,4 @@ Date: 2026-07-21
 
 ## Fuentes
 
-- [Zapatero ordenó camuflar en varios pagos la comisión del 1% en el rescate de Plus Ultra](https://amp.elmundo.es/espana/2026/07/21/6a5fbadb21efa0b26b8b458b.html?utm_source=lootura.com) — 2026-07-21T20:47:14.000Z
 - [La causa contra Zapatero sitúa ahora el foco en la cúpula de Plus Ultra tras contradecir la versión del expresidente](https://elpais.com/espana/2026-07-22/la-causa-contra-zapatero-situa-ahora-el-foco-en-la-cupula-de-plus-ultra-tras-contradecir-la-version-del-expresidente.html?utm_source=lootura.com) — 2026-07-22T03:30:01.000Z

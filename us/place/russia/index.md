@@ -3,10 +3,16 @@
 > Follow Russia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-22T06:26:12.535Z
+- Updated: 2026-07-22T13:46:43.033Z
 - Canonical: https://atlas.lootura.com/us/place/russia
 
 ## Recent changes
+
+### Firing of Ukraine’s Top General Signals the End of an Era
+
+Gen. Oleksandr Syrskyi, who commanded crucial battles, oversaw an expansion of drone warfare against Russia, but many Ukrainians want even more.
+
+Date: 2026-07-22
 
 ### Ukraine fires 400 drones toward Moscow as Zelenskyy grapples with protests
 
@@ -62,12 +68,6 @@ Kyiv's forces are continuing their aerial campaign against energy infrastructure
 
 Date: 2026-07-18
 
-### Ukrainian drone attacks on Russia kill at least 8, injure over 60
-
-Kyiv's forces are continuing their relentless aerial campaign​ against energy infrastructure and military targets inside Russia.
-
-Date: 2026-07-18
-
 ## Sources
 
-No public source links.
+- [Firing of Ukraine’s Top General Signals the End of an Era](https://www.nytimes.com/2026/07/22/world/europe/ukraine-syrskyi-general-russia-war.html?utm_source=lootura.com) — 2026-07-22T10:46:17.000Z

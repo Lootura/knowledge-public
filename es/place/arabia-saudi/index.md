@@ -3,7 +3,7 @@
 > Sigue la actividad de Arabia Saudí en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-22T10:23:10.282Z
+- Actualizado: 2026-07-22T13:46:22.256Z
 - Canonical: https://atlas.lootura.com/es/place/arabia-saudi
 
 ## Cambios recientes
@@ -41,4 +41,3 @@ Date: 2026-07-22
 ## Fuentes
 
 - [Trump aprueba acuerdo nuclear que permitiría a Arabia Saudí enriquecer uranio](https://www.elmundo.es/internacional/2026/07/22/6a605530e9cf4a8a088b4596.html?utm_source=lootura.com) — 2026-07-22T05:35:01.000Z
-- [Los hutíes en Bab al Mandeb: el nuevo foco de la guerra en Oriente Próximo](https://elordenmundial.com/blitz-bab-al-mandeb-huties-guerra-oriente-proximo/?utm_source=lootura.com) — 2026-07-22T06:08:02.000Z

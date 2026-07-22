@@ -3,7 +3,7 @@
 > Sigue la actividad de Audiencia Nacional (España) en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-22T10:23:10.282Z
+- Actualizado: 2026-07-22T13:46:22.256Z
 - Canonical: https://atlas.lootura.com/es/organization/audiencia-nacional
 
 ## Cambios recientes
@@ -11,6 +11,18 @@
 ### La causa contra Zapatero sitúa ahora el foco en la cúpula de Plus Ultra tras contradecir la versión del expresidente
 
 Julio Martínez Martínez entró sobre las 8.45 de este martes en la Audiencia Nacional y salió más de cuatro horas después sin moverse mucho de la línea marcada un día antes en el escrito enviado al juez José Luis Calama para implicar al expresidente José Luis Rodríguez Zapatero en el rescate de Plus Ultra . El giro del.
+
+Date: 2026-07-22
+
+### Fernández Díaz alega que se busca condenarlo en Kitchen “por razón” de su cargo de ministro
+
+Jorge Fernández Díaz, ministro del Interior de 2011 a 2016 y hombre de confianza del expresidente Mariano Rajoy, ya ha jugado sus cartas en el juicio del caso Kitchen , que se ha reanudado este miércoles en la Audiencia Nacional. Tres meses después del arranque de la vista , su abogado ha expuesto al tribunal su alegat.
+
+Date: 2026-07-22
+
+### El Gobierno vasco concede beneficios penitenciarios al asesino de Gregorio Ordóñez
+
+La AVT ha recibido la notificación de la concesión de otras dos flexibilizaciones del segundo grado a los presos de ETA Alberto López de la Calle, "Mobutu", y Juan Ramón Carasatorre, asesino de Gregorio Ordóñez. Caarasatorre obtiene esta medida después de que la Audiencia Nacional revocara una decisión anterior al cons.
 
 Date: 2026-07-22
 
@@ -56,18 +68,8 @@ La declaración de Julio Martínez Martínez , conocido como Julito , ante el ju
 
 Date: 2026-07-21
 
-### El horizonte judicial de Zapatero pende de la declaración ante el juez de Julio Martínez tras su decisión de “colaborar”
-
-El futuro penal de José Luis Rodríguez Zapatero tiene nombre propio. El empresario Julio Martínez Martínez, administrador de la consultora que pagó durante cinco años al expresidente del Gobierno, declara este martes ante el juez de la Audiencia Nacional José Luis Calama, después de contradecir por escrito la versión q.
-
-Date: 2026-07-21
-
-### Las tres incongruencias de Zapatero, al descubierto tras la confesión de Julio Martínez y el presidente de Plus Ultra
-
-El escrito presentado por el investigado Julio Martínez a 24 horas de su esperada declaración ante el juez de la Audiencia Nacional José Luis Calama complica el horizonte judicial de José Luis Rodríguez Zapatero, con quien entra en evidente contradicción en aspectos vitales sobre su posible participación en el rescate.
-
-Date: 2026-07-21
-
 ## Fuentes
 
 - [La causa contra Zapatero sitúa ahora el foco en la cúpula de Plus Ultra tras contradecir la versión del expresidente](https://elpais.com/espana/2026-07-22/la-causa-contra-zapatero-situa-ahora-el-foco-en-la-cupula-de-plus-ultra-tras-contradecir-la-version-del-expresidente.html?utm_source=lootura.com) — 2026-07-22T03:30:01.000Z
+- [Fernández Díaz alega que se busca condenarlo en Kitchen “por razón” de su cargo de ministro](https://elpais.com/espana/2026-07-22/fernandez-diaz-alega-que-se-busca-condenarlo-en-kitchen-por-razon-de-su-cargo-de-ministro.html?utm_source=lootura.com) — 2026-07-22T10:51:41.000Z
+- [El Gobierno vasco concede beneficios penitenciarios al asesino de Gregorio Ordóñez](https://www.larazon.es/espana/gobierno-vasco-concede-beneficios-penitenciarios-asesino-gregorio-ordonez_202607226a60c5b94687a22bdec7a7fc.html?utm_source=lootura.com) — 2026-07-22T13:29:29.000Z

@@ -3,10 +3,28 @@
 > Sigue la actividad de Madrid en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-22T10:23:10.282Z
+- Actualizado: 2026-07-22T13:46:22.256Z
 - Canonical: https://atlas.lootura.com/es/place/madrid
 
 ## Cambios recientes
+
+### Ayuso nombra a Aguirre, Gallardón y Cifuentes miembros de la Comisión Jurídica Asesora
+
+Los expresidentes de la Comunidad de Madrid tienen desde hace un año estatuto propio, algo que ya existía en el resto de regionales españolas, con la excepción de Cantabria. Y desde este miércoles, tres de ellos, Esperanza Aguirre, Alberto Ruiz-Gallardón y Cristina Cifuentes, son ya miembros de la Comisión Jurídica Ase.
+
+Date: 2026-07-22
+
+### Crimen de Las Tablas: A Facundo lo asesinó Alberto, un marido obsesionado con la infidelidad de su esposa
+
+El hombre que mató a Facundo Rico en una lujosa urbanización de Madrid la semana pasada se aplicó a sí mismo justicia antes de que lo hicieran los tribunales. Alberto Juan, el presunto autor del crimen, se suicidó el día después de asestar 13 puñaladas a este ingeniero de origen argentino con el que sospechaba que su m.
+
+Date: 2026-07-22
+
+### Así será la pretemporada del nuevo Real Madrid de Mourinho: Austria y el Teresa Herrera
+
+Fue el lunes pasado, 13 de julio, cuando arrancó la pretemporada del Real Madrid al mando, de nuevo, de José Mourinho. El entrenador portugués ha llevado.
+
+Date: 2026-07-22
 
 ### El aeródromo de Casarrubios se mueve para convertirse en el segundo aeropuerto de Madrid
 
@@ -50,25 +68,8 @@ Es 8 de junio de 2026. León XIV toma la palabra en el estadio Santiago Bernabé
 
 Date: 2026-07-22
 
-### Rosario Sánchez desprecia su cargo en Turismo y se apunta a la protesta antiturística del día 26 en Palma
-
-Es oficialmente la candi target="_blank" rel="noopener noreferrer">la manifestación antiturismo que tendrá lugar el domingo por las calles de Palma . Durante meses ha abandonado su despacho de cargo público en Madrid para hacerse promoción en las Islas Baleares . Para darse a conocer ha hecho pellas de las Secretaría d.
-
-Date: 2026-07-22
-
-### La Real Sociedad cierra un amistoso de campanillas: visitará al Chelsea de Xabi Alonso en agosto
-
-Los de Matarazzo jugarán Stamford Bridge el 15 de agosto, fecha en la que debían estrenarse en Liga contra el Real Madrid.
-
-Date: 2026-07-21
-
-### El doctor Alessandro Alarcão explica el cambio radical de Vinícius Jr.: «El reto fue lograr una proyección mandibular de aspecto natural»
-
-El reconocido dermatólogo rompe el silencio sobre la intervención estética realizada a la estrella del Real Madrid tras su descanso estival a puerta cerrada.
-
-Date: 2026-07-21
-
 ## Fuentes
 
-- [Sale a la luz la conversación entre la princesa Leonor y Ferran Torres tras ganar el Mundial a Argentina: "¿No te ibas a cortar el pelo?"](https://www.20minutos.es/deportes/futbol/sale-luz-conversacion-entre-princesa-leonor-ferran-torres-tras-ganar-mundial-no-te-ibas-cortar-pelo_7017472_0.html?utm_source=lootura.com) — 2026-07-22T06:41:11.000Z
-- [La Real Sociedad cierra un amistoso de campanillas: visitará al Chelsea de Xabi Alonso en agosto](https://www.diariovasco.com/real-sociedad/real-sociedad-amistoso-campanillas-visitara-chelsea-xabi-alonso-agosto-20260721151702-nt_amp.html?utm_source=lootura.com) — 2026-07-21T13:17:41.000Z
+- [Ayuso nombra a Aguirre, Gallardón y Cifuentes miembros de la Comisión Jurídica Asesora](https://www.abc.es/espana/madrid/ayuso-nombra-aguirre-gallardon-cifuentes-miembros-comision-20260722135644-nt.html?utm_source=lootura.com) — 2026-07-22T13:15:06.000Z
+- [Crimen de Las Tablas: A Facundo lo asesinó Alberto, un marido obsesionado con la infidelidad de su esposa](https://elpais.com/espana/madrid/2026-07-22/crimen-de-las-tablas-a-facundo-lo-asesino-alberto-un-marido-obsesionado-con-la-infidelidad-de-su-esposa.html?utm_source=lootura.com) — 2026-07-22T12:53:31.000Z
+- [Así será la pretemporada del nuevo Real Madrid de Mourinho: Austria y el Teresa Herrera](https://theobjective.com/deportes/futbol/2026-07-22/asi-sera-pretemporada-nuevo-real-madrid-mourinho/?amp=&utm_source=lootura.com) — 2026-07-22T13:39:01.000Z

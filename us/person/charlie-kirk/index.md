@@ -3,7 +3,7 @@
 > Follow Charlie Kirk, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-07-22T10:23:35.990Z
+- Updated: 2026-07-22T13:46:43.033Z
 - Canonical: https://atlas.lootura.com/us/person/charlie-kirk
 
 ## Recent changes
@@ -70,4 +70,4 @@ Date: 2026-07-09
 
 ## Sources
 
-- [At a Utah Campus, an Emotional Odyssey After Charlie Kirk’s Death](https://www.nytimes.com/2026/07/22/us/charlie-kirk-utah-valley-university.html?utm_source=lootura.com) — 2026-07-22T09:02:04.000Z
+- [At a Utah Campus, an Emotional Odyssey After Charlie Kirk’s Death](https://www.nytimes.com/2026/07/22/us/charlie-kirk-utah-valley-university.html?utm_source=lootura.com) — 2026-07-22T09:02:05.000Z

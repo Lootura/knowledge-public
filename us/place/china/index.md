@@ -70,4 +70,4 @@ Date: 2026-07-17
 
 ## Sources
 
-- [Does China’s latest AI model finally equal US rivals? What scientists think](https://www.nature.com/articles/d41586-026-02281-2?utm_source=lootura.com) — 2026-07-22T10:23:40.162Z
+No public source links.

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/ukraine/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/ukraine/index.json",
   "description": "Follow Ukraine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-22T10:23:35.990Z",
+  "updatedAt": "2026-07-22T13:46:43.033Z",
   "aliases": [
     "Kyiv",
     "Ukr.",
@@ -18,18 +18,23 @@
   ],
   "changes": [
     {
+      "title": "Firing of Ukraine’s Top General Signals the End of an Era",
+      "summary": "Gen. Oleksandr Syrskyi, who commanded crucial battles, oversaw an expansion of drone warfare against Russia, but many Ukrainians want even more.",
+      "date": "2026-07-22"
+    },
+    {
       "title": "Ukraine's Zelenskyy fires top military commander amid ongoing protests",
       "summary": "Ukraine's President Volodymyr Zelenskyy fires the country's army chief, just days after he dismissed the defense minister. Those two key figures had been feuding with each other.",
       "date": "2026-07-22"
     },
     {
-      "title": "News Wrap: Gulf Coast prepares for Tropical Storm Bertha",
-      "summary": "In our news wrap Tuesday, millions along the Gulf Coast are bracing for impacts from Tropical Storm Bertha, Ukrainian President Zelenskyy fired the commander-in-chief of Ukraine's armed forces in the latest shake-up of his top military ranks and New Jersey's governor said more than 6,000 noncitizens were registered to.",
+      "title": "Mykhailo Drapatyi: What to Know About Ukraine’s New Top General",
+      "summary": "Maj. Gen. Mykhailo Drapatyi, a decorated commander, is popular both inside and outside of his country.",
       "date": "2026-07-21"
     },
     {
-      "title": "Mykhailo Drapatyi: What to Know About Ukraine’s New Top General",
-      "summary": "Maj. Gen. Mykhailo Drapatyi, a decorated commander, is popular both inside and outside of his country.",
+      "title": "News Wrap: Gulf Coast prepares for Tropical Storm Bertha",
+      "summary": "In our news wrap Tuesday, millions along the Gulf Coast are bracing for impacts from Tropical Storm Bertha, Ukrainian President Zelenskyy fired the commander-in-chief of Ukraine's armed forces in the latest shake-up of his top military ranks and New Jersey's governor said more than 6,000 noncitizens were registered to.",
       "date": "2026-07-21"
     },
     {
@@ -61,32 +66,21 @@
       "title": "Funding milestone detected",
       "summary": "At a conference on reconstruction, the focus shifted to private investment, not donor assistance.",
       "date": "2026-07-20"
-    },
-    {
-      "title": "Zelensky Faces Pressure to Remove Ukraine’s Top General",
-      "summary": "Demonstrators and many soldiers want President Volodymyr Zelensky to reaffirm the vision of drone warfare laid out by the defense minister he fired last week.",
-      "date": "2026-07-20"
     }
   ],
   "sources": [
-    {
-      "title": "Ukraine's Zelenskyy fires top military commander amid ongoing protests",
-      "url": "https://www.npr.org/2026/07/22/nx-s1-5902279/ukraines-zelenskyy-fires-top-military-commander-amid-ongoing-protests?utm_source=lootura.com",
-      "publishedAt": "2026-07-22T08:46:42.000Z",
-      "sourceId": "lootura-us-npr-world"
-    },
-    {
-      "title": "News Wrap: Gulf Coast prepares for Tropical Storm Bertha",
-      "url": "https://www.pbs.org/newshour/show/news-wrap-gulf-coast-prepares-for-tropical-storm-bertha?utm_source=lootura.com",
-      "publishedAt": "2026-07-21T22:45:25.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
-    },
     {
       "title": "Mykhailo Drapatyi: What to Know About Ukraine’s New Top General",
       "url": "https://www.nytimes.com/2026/07/21/world/europe/ukraine-mykhailo-drapatyi.html?utm_source=lootura.com",
       "publishedAt": "2026-07-21T23:39:36.000Z",
       "sourceId": "lootura-us-the-new-york-times"
+    },
+    {
+      "title": "Firing of Ukraine’s Top General Signals the End of an Era",
+      "url": "https://www.nytimes.com/2026/07/22/world/europe/ukraine-syrskyi-general-russia-war.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-22T10:46:17.000Z",
+      "sourceId": "lootura-us-the-new-york-times-world"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 2
 }

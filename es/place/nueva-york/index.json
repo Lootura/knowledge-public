@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/nueva-york/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/nueva-york/index.json",
   "description": "Sigue la actividad de Nueva York en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-21T10:23:08.875Z",
+  "updatedAt": "2026-07-22T13:46:22.256Z",
   "aliases": [
     "Capital del Mundo",
     "Capital of the World",
@@ -41,6 +41,11 @@
     "the five boroughs"
   ],
   "changes": [
+    {
+      "title": "El alcalde de Nueva York, Zohran Mamdani, insta a Trump a detener al “criminal” Netanyahu si entra en Estados Unidos",
+      "summary": "Zohran Mamdani ganó el año pasado las elecciones a la alcaldía de Nueva York con un discurso durísimo contra el Gobierno israelí y su actuación en Gaza y Cisjordania. Ahora ha dado un paso más al reclamar a la Administración republicana de Donald Trump que detenga al primer ministro Benjamín Netanyahu si pisa suelo est.",
+      "date": "2026-07-22"
+    },
     {
       "title": "La IA, la guerra en Oriente Próximo y la inflación bloquean el camino a nuevos máximos bursátiles",
       "summary": "“El dinero nunca duerme”, sentenciaba el codicioso Gordon Gekko en Wall Street (1987). Con Bolsas como las de Nueva York, Nasdaq o Corea del Sur estudiando ampliar sus horarios a imagen y semejanza de los mercados de criptoactivos, la imagen cobra sentido más que nunca, si bien es en periodos estivales como el actual c.",
@@ -85,13 +90,15 @@
       "title": "De Sudáfrica a Nueva York: el hilo rojo de la eternidad",
       "summary": "El fútbol, en su caprichosa y hermosa naturaleza cíclica, ha decidido tender un puente de dieciséis años entre dos puntos cardinales de la historia del deporte español. De Johannesburgo, la ciudad más grande de Sudáfrica, al MetLife Stadium de Nueva York, España vuelve a paralizarse ante la pantalla . Este domingo, la.",
       "date": "2026-07-19"
-    },
-    {
-      "title": "Nueva York se enamora del fútbol… no se sabe por cuánto tiempo",
-      "summary": "Las luces sobre el campo de fútbol contrastan con la oscuridad que sepulta a la ciudad. Son las once de la noche del viernes y en el parque de Astoria, en el distrito de Queens, centenares de jóvenes —la inmensa mayoría hombres— juegan sobre un inmenso césped. Adam lleva tiempo viniendo aquí a entrenar. Antes, se iba a.",
-      "date": "2026-07-18"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "El alcalde de Nueva York, Zohran Mamdani, insta a Trump a detener al “criminal” Netanyahu si entra en Estados Unidos",
+      "url": "https://elpais.com/internacional/2026-07-22/el-alcalde-de-nueva-york-zohran-mamdani-insta-a-trump-a-detener-al-criminal-netanyahu-si-entra-en-estados-unidos.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-22T11:32:36.000Z",
+      "sourceId": "lootura-es-el-pais"
+    }
+  ],
+  "evidenceCount": 1
 }

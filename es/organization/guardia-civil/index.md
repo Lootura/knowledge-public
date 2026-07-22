@@ -70,4 +70,4 @@ Date: 2026-07-19
 
 ## Fuentes
 
-- [Mandos de la Guardia Civil urgen a Marlaska cambiar la ley para poder disparar a los motores de las narcolanchas](https://www.elmundo.es/espana/2026/07/21/6a5fb961fdddff05188b456e.html?utm_source=lootura.com) — 2026-07-21T20:42:44.000Z
+No public source links.

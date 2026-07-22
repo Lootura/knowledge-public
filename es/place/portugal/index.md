@@ -3,10 +3,16 @@
 > Sigue la actividad de República Portuguesa en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-22T10:23:10.282Z
+- Actualizado: 2026-07-22T13:46:22.256Z
 - Canonical: https://atlas.lootura.com/es/place/portugal
 
 ## Cambios recientes
+
+### El Rey concede el Toisón de Oro al expresidente de Portugal Rebelo de Sousa
+
+El Rey ha concedido al expresidente de Portugal Marcelo Rebelo de Sousa el collar de la Insigne Orden del Toisón de Oro , la más alta distinción que puede otorgar la Casa Real española y una de las órdenes dinásticas de mayor prestigio del mundo. El Boletín Oficial del Estado (BOE) ha publicado este miércoles el real d.
+
+Date: 2026-07-22
 
 ### Muere repentinamente un futbolista de 26 años haciendo running en Portugal
 
@@ -62,12 +68,7 @@ Date: 2026-07-11
 
 Date: 2026-07-10
 
-### Pedrógão Grande, Mati, Valparaíso, Almería... ¿Por qué huir de un incendio puede ser más peligroso que quedarse?
-
-La tragedia de Los Gallardos reabre un debate que ya cambió los protocolos tras incendios como los de Portugal, Grecia, Hawái o Chile Leer.
-
-Date: 2026-07-10
-
 ## Fuentes
 
-- [Chus Mateo convoca a los cinco NBA y Juancho Hernangómez regresa a una lista de España](https://okdiario.com/deportes/chus-mateo-convoca-cinco-nba-juancho-hernangomez-regresa-lista-espana-19046310?utm_source=lootura.com) — 2026-07-22T10:14:20.000Z
+- [El exclusivo club del Toisón de Oro suma un nuevo nombre: Felipe VI distingue a Marcelo Rebelo de Sousa](https://okdiario.com/cool/casa-real/exclusivo-club-del-toison-oro-suma-nuevo-nombre-felipe-vi-distingue-marcelo-rebelo-sousa-19047505/amp?utm_source=lootura.com) — 2026-07-22T13:44:58.000Z
+- [El Rey concede el Toisón de Oro al expresidente de Portugal Rebelo de Sousa](https://theobjective.com/internacional/2026-07-22/rey-toison-oro-expresidente-portugal-rebelo-de-sousa/?utm_source=lootura.com) — 2026-07-22T12:52:26.000Z

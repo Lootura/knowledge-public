@@ -3,20 +3,20 @@
 > Follow Democratic Party, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-07-22T10:23:35.990Z
+- Updated: 2026-07-22T13:46:43.033Z
 - Canonical: https://atlas.lootura.com/us/organization/democratic-party
 
 ## Recent changes
 
-### Senate panel advances Jay Clayton's nomination for director of national intelligence
-
-The 9-8 vote came after some Democrats had praised Clayton and indicated that they might vote for him. But that shifted after a contentious hearing last week in which Clayton repeatedly refused to say that former President Joe Biden won the 2020 election.
-
-Date: 2026-07-22
-
 ### House Narrowly Passes Stopgap Spending Bill, but Shutdown Fight Looms
 
 Republicans managed to push through legislation to fund the government through Dec. 4. But with Democrats opposed, the stage is set for a broader battle.
+
+Date: 2026-07-22
+
+### Senate panel advances Jay Clayton's nomination for director of national intelligence
+
+The 9-8 vote came after some Democrats had praised Clayton and indicated that they might vote for him. But that shifted after a contentious hearing last week in which Clayton repeatedly refused to say that former President Joe Biden won the 2020 election.
 
 Date: 2026-07-22
 
@@ -70,6 +70,4 @@ Date: 2026-07-20
 
 ## Sources
 
-- [Democrats could take initial vote on 2028 presidential primary calendar this week](https://www.pbs.org/newshour/politics/democrats-could-take-initial-vote-on-2028-presidential-primary-calendar-this-week?utm_source=lootura.com) — 2026-07-21T23:52:05.000Z
-- [Senate panel advances Jay Clayton's nomination for director of national intelligence](https://www.pbs.org/newshour/politics/senate-panel-advances-jay-claytons-nomination-for-director-of-national-intelligence?utm_source=lootura.com) — 2026-07-22T00:26:02.000Z
 - [House Narrowly Passes Stopgap Spending Bill, but Shutdown Fight Looms](https://www.nytimes.com/2026/07/21/us/politics/house-stopgap-spending-bill-shutdown.html?utm_source=lootura.com) — 2026-07-22T02:37:17.000Z

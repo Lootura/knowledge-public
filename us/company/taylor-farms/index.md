@@ -3,7 +3,7 @@
 > Follow Taylor Farms, a tracked company, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: company
-- Updated: 2026-07-22T10:23:35.990Z
+- Updated: 2026-07-22T13:46:43.033Z
 - Canonical: https://atlas.lootura.com/us/company/taylor-farms
 
 ## Recent changes
@@ -70,4 +70,4 @@ Date: 2026-07-17
 
 ## Sources
 
-- [RFK Jr. says cyclosporiasis outbreak is ‘under control’ amid investigation into its origins](https://www.nbcnews.com/health/health-news/rfk-jr-says-cyclosporiasis-outbreak-control-mexico-casts-doubt-link-ta-rcna588604?utm_source=lootura.com) — 2026-07-21T21:58:48.000Z
+- [RFK Jr. Says Cyclosporiasis Outbreak is ‘Under Control’](https://www.today.com/video/cyclosporiasis-outbreak-is-under-control-rfk-jr-says-267087429569?utm_source=lootura.com) — 2026-07-22T11:32:18.000Z
