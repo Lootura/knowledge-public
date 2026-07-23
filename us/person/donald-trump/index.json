@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/donald-trump/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/donald-trump/index.json",
   "description": "Follow Donald Trump, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-23T02:31:30.185Z",
+  "updatedAt": "2026-07-23T06:29:04.058Z",
   "aliases": [
     "@realDonaldTrump",
     "DJT",
@@ -25,6 +25,16 @@
   ],
   "changes": [
     {
+      "title": "House committee urges DOJ to charge former Trump prosecutor Jack Smith",
+      "summary": "The GOP chair of the House Judiciary Committee encouraged the DOJ to look into criminally charging Jack Smith, alleging the former special counsel who brought charges against President Trump lied to Congress.",
+      "date": "2026-07-23"
+    },
+    {
+      "title": "Houthis claim strikes on two Saudi tankers as US attacks on Iran widen",
+      "summary": "Attacks by Iranian-aligned Houthis in Red Sea follow Trump threats to destroy more Iranian infrastructure Yemen’s ⁠Houthi militia attacked two ​Saudi Arabian oil tankers, the Iranian-aligned group said on Thursday, with a Saudi news agency later confirming one of the vessels was ablaze in the Red Sea. The threat of new.",
+      "date": "2026-07-23"
+    },
+    {
       "title": "Trump’s 50% Tariffs on Canada: What to Know, and What’s Next",
       "summary": "The president said punishing 50 percent tariffs would begin by Aug. 19, a significant escalation of the trade war between Canada and the U.S. that he started over a year ago.",
       "date": "2026-07-22"
@@ -32,21 +42,6 @@
     {
       "title": "Sen. Bennet rails against trade chief for Trump policy's impact on farmers",
       "summary": "Sen. Michael Bennet, a Democrat from Washington, challenged some of U.S. Trade Representative Jamieson Greer's assertions about the successes of President Trump's trade policies and their impact on farmers.",
-      "date": "2026-07-22"
-    },
-    {
-      "title": "Trump threatens to attack Iran's infrastructure over Strait of Hormuz",
-      "summary": "President Trump in a social media post threatened to attack Iran's infrastructure if the Iranian military shoots at ships in the Strait of Hormuz. CBS News' Natalie Brand and Charlie D'Agata have more.",
-      "date": "2026-07-22"
-    },
-    {
-      "title": "Andy Biggs wins Republican nomination to challenge Democrat Katie Hobbs for Arizona governor",
-      "summary": "Biggs, a fierce ally of President Donald Trump and former head of the House Freedom Caucus, won the Republican nomination for Arizona governor Tuesday.",
-      "date": "2026-07-22"
-    },
-    {
-      "title": "Trump will attend the dignified transfer of 4 U.S. service members killed in the Middle East",
-      "summary": "The ritual is one of the most somber duties of a commander-in-chief.",
       "date": "2026-07-22"
     },
     {
@@ -73,6 +68,11 @@
       "title": "Laredo’s Future Rides on Trump’s Next Trade Move",
       "summary": "The economy of Laredo, Texas, has boomed under the president’s global tariffs. Now, his demands may threaten its success.",
       "date": "2026-07-22"
+    },
+    {
+      "title": "Speaking for Fallen Soldiers, Trump Says They Supported the Iran War",
+      "summary": "President Trump attended a dignified transfer for the soldiers as Americans were growing increasingly critical of the war.",
+      "date": "2026-07-22"
     }
   ],
   "sources": [
@@ -89,15 +89,15 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "Trump threatens to attack Iran's infrastructure over Strait of Hormuz",
-      "url": "https://www.cbsnews.com/video/trump-threatens-attack-iran-infrastructure-over-strait-of-hormuz/?utm_source=lootura.com",
-      "publishedAt": "2026-07-22T16:44:35.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
-    {
       "title": "Trump speaks at Georgia high school after attending dignified transfer",
       "url": "https://www.cbsnews.com/video/trump-speaks-at-georgia-high-school-after-attending-dignified-transfer/?utm_source=lootura.com",
       "publishedAt": "2026-07-22T20:31:04.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
+    {
+      "title": "House committee urges DOJ to charge former Trump prosecutor Jack Smith",
+      "url": "https://www.cbsnews.com/news/house-committee-jack-smith-criminal-referral-doj/?utm_source=lootura.com",
+      "publishedAt": "2026-07-23T03:51:35.000Z",
       "sourceId": "lootura-us-cbs-news"
     },
     {
@@ -131,11 +131,11 @@
       "sourceId": "lootura-us-pbs-newshour"
     },
     {
-      "title": "Andy Biggs wins Republican nomination to challenge Democrat Katie Hobbs for Arizona governor",
-      "url": "https://www.pbs.org/newshour/politics/andy-biggs-wins-republican-nomination-to-challenge-democrat-katie-hobbs-for-arizona-governor?utm_source=lootura.com",
-      "publishedAt": "2026-07-22T14:53:48.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
+      "title": "Houthis claim strikes on two Saudi tankers as US attacks on Iran widen",
+      "url": "https://www.theguardian.com/world/2026/jul/23/houthis-claim-attack-ship-tanker-saudi-arabia-red-sea?utm_source=lootura.com",
+      "publishedAt": "2026-07-23T04:19:03.000Z",
+      "sourceId": "lootura-us-the-guardian-us"
     }
   ],
-  "evidenceCount": 16
+  "evidenceCount": 15
 }

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/red-sea/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/red-sea/index.json",
   "description": "Follow Red Sea, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-23T02:31:30.185Z",
+  "updatedAt": "2026-07-23T06:29:04.058Z",
   "aliases": [
     "Al Baḩr al Aḩmar",
     "Arabian Gulf",
@@ -17,6 +17,11 @@
     "the Red Sea"
   ],
   "changes": [
+    {
+      "title": "Houthis claim strikes on two Saudi tankers as US attacks on Iran widen",
+      "summary": "Attacks by Iranian-aligned Houthis in Red Sea follow Trump threats to destroy more Iranian infrastructure Yemen’s ⁠Houthi militia attacked two ​Saudi Arabian oil tankers, the Iranian-aligned group said on Thursday, with a Saudi news agency later confirming one of the vessels was ablaze in the Red Sea. The threat of new.",
+      "date": "2026-07-23"
+    },
     {
       "title": "Houthis Claim Strikes on 2 Saudi Oil Tankers in Red Sea",
       "summary": "The Saudi authorities had yet to confirm the hits, which would be the first attacks since the Iranian-backed Yemeni group announced a blockade on Saudi Arabia.",
@@ -60,10 +65,10 @@
   ],
   "sources": [
     {
-      "title": "Houthis Claim Strikes on 2 Saudi Oil Tankers in Red Sea",
-      "url": "https://www.nytimes.com/2026/07/22/world/middleeast/houthis-saudi-oil-tankers-red-sea.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-23T01:35:52.000Z",
-      "sourceId": "lootura-us-the-new-york-times"
+      "title": "Houthis claim strikes on two Saudi tankers as US attacks on Iran widen",
+      "url": "https://www.theguardian.com/world/2026/jul/23/houthis-claim-attack-ship-tanker-saudi-arabia-red-sea?utm_source=lootura.com",
+      "publishedAt": "2026-07-23T04:19:03.000Z",
+      "sourceId": "lootura-us-the-guardian-us"
     },
     {
       "title": "See How Houthis Put the Red Sea at Risk as an Alternative Oil Route",

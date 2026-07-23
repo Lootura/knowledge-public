@@ -70,4 +70,4 @@ Date: 2026-07-13
 
 ## Fuentes
 
-- [Fernández Díaz alega que se busca condenarlo en Kitchen “por razón” de su cargo de ministro](https://elpais.com/espana/2026-07-22/fernandez-diaz-alega-que-se-busca-condenarlo-en-kitchen-por-razon-de-su-cargo-de-ministro.html?utm_source=lootura.com) — 2026-07-22T14:18:40.000Z
+No public source links.

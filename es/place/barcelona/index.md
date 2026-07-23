@@ -3,10 +3,28 @@
 > Sigue la actividad de Barcelona en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-23T02:31:05.539Z
+- Actualizado: 2026-07-23T06:28:35.711Z
 - Canonical: https://atlas.lootura.com/es/place/barcelona
 
 ## Cambios recientes
+
+### Ocho heridos en la deflagración de gas en la plaza Sants de Barcelona
+
+Los Bombers de Barcelona trabajan con 9 dotaciones esta noche del miércoles al jueves en un incendio por una deflagración de gas a las 22.50 en la Plaça de Sants, según fuentes del Ayuntamiento de Barcelona.Hay 8 hombres heridos: 2 afectados graves y 2 menos graves (traslados al Hospital Vall d'Hebron), 1 menos grave y.
+
+Date: 2026-07-23
+
+### Una testigo inesperada cuestiona la declaración de Jonathan Andic y torpedea su defensa
+
+Las contradicciones y las mentiras, o al menos lo que los Mossos interpretaron como contradicciones y mentiras, convirtieron a Jonathan Andic en sospechoso en primera instancia. Sus dos declaraciones, como testigo, sobre la excursión a la montaña de Montserrat (Barcelona) en la que murió su padre, el fundador de Mango.
+
+Date: 2026-07-23
+
+### De la “confrontación” a las “siete cronologías” de los Andic: los peligros de abrazar pseudociencias para resolver conflictos familiares
+
+La extraña terapia a la que se estaba sometiendo la familia Andic antes de la muerte del padre, Isak, se ha colocado en el centro del proceso judicial que investiga al primogénito, Jonathan Andic, como presunto autor de la muerte de su padre durante una excursión a la montaña de Montserrat (Barcelona). Para mejorar la.
+
+Date: 2026-07-23
 
 ### Cómo Marc Cucurella y Claudia Rodríguez convirtieron la conciliación en una decisión estratégica
 
@@ -50,25 +68,8 @@ Marc Biarnés (Barcelona, 33 años) tiene lo que más cotiza en las redes social
 
 Date: 2026-07-22
 
-### Destrozan el mural de Ferran Torres en Barcelona un día después de pintarlo
-
-Un grupo de vándalos ha destrozado el mural que un conocido artista callejero había dedicado al futbolísta de la selección española Ferran Torres , apenas un día después de que lo realizase. El artista TVBoy pintó la imagen del jugador besando la copa del mundo en la plaza Joanic de Barcelona y este pasado martes por l.
-
-Date: 2026-07-22
-
-### Luis de la Fuente protagoniza un mural en Barcelona
-
-El artista Alberto Leon dedica una obra al seleccionador nacional.
-
-Date: 2026-07-22
-
-### Ferran Torres, como símbolo del secreto de Luis de la Fuente
-
-A Ferran Torres parecía que lo había devorado el meme. No importaba que hubiera terminado la temporada como uno de los goleadores del Barcelona ni que todos sus entrenadores hubieran confiado en él. Guardiola contó con él en el City. Xavi Hernández y Hansi Flick lo mimaron en el Camp Nou. Lo mismo ocurrió en la selecci.
-
-Date: 2026-07-21
-
 ## Fuentes
 
-- [Cómo Marc Cucurella y Claudia Rodríguez convirtieron la conciliación en una decisión estratégica](https://www.expansion.com/directivos/deporte-negocio/2026/07/23/6a60f23c468aebc3408b459b.html?utm_source=lootura.com) — 2026-07-22T22:23:48.000Z
-- [Ocho heridos en una deflagración de gas en Barcelona](https://theobjective.com/sociedad/suceso/2026-07-23/ocho-heridos-deflagracion-barcelona/?amp=&utm_source=lootura.com) — 2026-07-22T23:02:47.000Z
+- [Ocho heridos en la deflagración de gas en la plaza Sants de Barcelona](https://www.abc.es/espana/cataluna/heridos-incendio-deflagracion-gas-plaza-sants-barcelona-20260723003256-nt.html?utm_source=lootura.com) — 2026-07-23T05:30:46.000Z
+- [Una testigo inesperada cuestiona la declaración de Jonathan Andic y torpedea su defensa](https://elpais.com/espana/catalunya/2026-07-23/una-testigo-inesperada-cuestiona-la-declaracion-de-jonathan-andic-y-torpedea-su-defensa.html?utm_source=lootura.com) — 2026-07-23T03:30:01.000Z
+- [De la “confrontación” a las “siete cronologías” de los Andic: los peligros de abrazar pseudociencias para resolver conflictos familiares](https://elpais.com/espana/catalunya/2026-07-23/de-la-confrontacion-a-las-siete-cronologias-de-los-andic-los-peligros-de-abrazar-pseudociencias-para-resolver-conflictos-familiares.html?utm_source=lootura.com) — 2026-07-23T03:30:01.000Z

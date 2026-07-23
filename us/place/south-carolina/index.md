@@ -3,10 +3,16 @@
 > Follow South Carolina, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-23T02:31:30.185Z
+- Updated: 2026-07-23T06:29:04.058Z
 - Canonical: https://atlas.lootura.com/us/place/south-carolina
 
 ## Recent changes
+
+### South Carolina and Nevada Fight to Kick Off Democrats’ 2028 Presidential Calendar
+
+The calendar order could be hugely important to the 2028 presidential primary race. Democratic insiders will try to sketch out a schedule this week, and rival states are sniping at one another.
+
+Date: 2026-07-22
 
 ### South Carolina and Nevada Fight to Kick Off Democrats’ 2028 Presidential Calendar
 
@@ -61,12 +67,6 @@ Date: 2026-07-13
 President Donald Trump said Monday that he has recommended to South Carolina Gov. Henry McMaster that he choose Lindsey Graham’s sister, Darline Graham Nordone, to serve the remainder of the late Republican senator’s term, which ends in early January.
 
 Date: 2026-07-13
-
-### Discovered by Atlas
-
-South Carolina first entered the public knowledge record with source-backed evidence.
-
-Date: 2026-07-12
 
 ## Sources
 

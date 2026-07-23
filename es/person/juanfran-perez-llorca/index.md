@@ -40,4 +40,4 @@ Date: 2026-07-22
 
 ## Fuentes
 
-- [La china Geely llega a un acuerdo con Ford para producir coches en su fábrica de Almussafes](https://www.elmundo.es/economia/empresas/2026/07/22/6a60c041fdddff05188b4581.html?utm_source=lootura.com) — 2026-07-22T16:55:15.000Z
+No public source links.

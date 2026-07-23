@@ -3,20 +3,26 @@
 > Sigue la actividad de El Consejo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-22T02:26:20.882Z
+- Actualizado: 2026-07-23T06:28:35.711Z
 - Canonical: https://atlas.lootura.com/es/place/el-consejo
 
 ## Cambios recientes
 
-### La nueva ley del tabaco prohíbe fumar a los menores y hacerlo en playas, terrazas y campus universitarios
+### El BCE dejará los tipos sin cambios pero sin perder de vista el coste creciente de la energía
 
-El Consejo de Ministros ha aprobado este martes el proyecto de la ley del tabaco , que amplía los espacios sin humo para incluir playas y terrazas, entre otros, y endurece la legislación para vapeadores y otros dispositivos. El texto impulsado por el Ministerio de Sanidad será remitido posteriormente a las Cortes para.
+Imposible poner el piloto automático en la política monetaria cuando la geopolítica tiene subidos en una montaña rusa a los precios de las materias primas. El Consejo de Gobierno del Banco Central Europeo se reúne hoy en un entorno bien diferente al de la pasada cita de junio, cuando decidió la primera subida de tipos.
 
-Date: 2026-07-21
+Date: 2026-07-23
 
 ### Discovered by Atlas
 
 El Consejo first entered the public knowledge record with source-backed evidence.
+
+Date: 2026-07-21
+
+### La nueva ley del tabaco prohíbe fumar a los menores y hacerlo en playas, terrazas y campus universitarios
+
+El Consejo de Ministros ha aprobado este martes el proyecto de la ley del tabaco , que amplía los espacios sin humo para incluir playas y terrazas, entre otros, y endurece la legislación para vapeadores y otros dispositivos. El texto impulsado por el Ministerio de Sanidad será remitido posteriormente a las Cortes para.
 
 Date: 2026-07-21
 
@@ -40,4 +46,4 @@ Date: 2026-07-21
 
 ## Fuentes
 
-No public source links.
+- [El BCE dejará los tipos sin cambios pero sin perder de vista el coste creciente de la energía](https://cincodias.elpais.com/mercados-financieros/2026-07-23/el-bce-dejara-los-tipos-sin-cambios-pero-sin-perder-de-vista-el-coste-creciente-de-la-energia.html?utm_source=lootura.com) — 2026-07-23T03:25:00.000Z

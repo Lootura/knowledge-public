@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/south-carolina/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/south-carolina/index.json",
   "description": "Follow South Carolina, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-23T02:31:30.185Z",
+  "updatedAt": "2026-07-23T06:29:04.058Z",
   "aliases": [
     "Palmetto State",
     "S. C.",
@@ -19,6 +19,11 @@
     "US-SC"
   ],
   "changes": [
+    {
+      "title": "South Carolina and Nevada Fight to Kick Off Democrats’ 2028 Presidential Calendar",
+      "summary": "The calendar order could be hugely important to the 2028 presidential primary race. Democratic insiders will try to sketch out a schedule this week, and rival states are sniping at one another.",
+      "date": "2026-07-22"
+    },
     {
       "title": "South Carolina and Nevada Fight to Kick Off Democrats’ 2028 Presidential Calendar",
       "summary": "The calendar order could be hugely important to the 2028 presidential primary race. Democratic insiders will try to sketch out a schedule this week, and rival states are sniping at one another.",
@@ -63,11 +68,6 @@
       "title": "Trump recommends South Carolina’s governor appoint Lindsey Graham’s sister to finish his Senate term",
       "summary": "President Donald Trump said Monday that he has recommended to South Carolina Gov. Henry McMaster that he choose Lindsey Graham’s sister, Darline Graham Nordone, to serve the remainder of the late Republican senator’s term, which ends in early January.",
       "date": "2026-07-13"
-    },
-    {
-      "title": "Discovered by Atlas",
-      "summary": "South Carolina first entered the public knowledge record with source-backed evidence.",
-      "date": "2026-07-12"
     }
   ],
   "sources": [
@@ -75,7 +75,7 @@
       "title": "South Carolina and Nevada Fight to Kick Off Democrats’ 2028 Presidential Calendar",
       "url": "https://www.nytimes.com/2026/07/22/us/politics/south-carolina-nevada-democrats-2028-presidential-calendar.html?utm_source=lootura.com",
       "publishedAt": "2026-07-22T20:30:40.000Z",
-      "sourceId": "lootura-us-the-new-york-times-politics"
+      "sourceId": "lootura-us-the-new-york-times"
     }
   ],
   "evidenceCount": 1

@@ -3,10 +3,40 @@
 > Sigue la actividad de Pedro Sánchez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-23T02:31:05.539Z
+- Actualizado: 2026-07-23T06:28:35.711Z
 - Canonical: https://atlas.lootura.com/es/person/pedro-sanchez
 
 ## Cambios recientes
+
+### El PP y Vox suben tras el caso Zapatero y amplían la brecha con el PSOE y sus socios
+
+El goteo de presuntos casos de corrupción está pasando factura al PSOE . Según el barómetro de julio elaborado por el Instituto DYM para 20minutos , si mañana se celebrasen elecciones, el PP sería la fuerza más votada y ampliaría su distancia con respecto a un PSOE en retroceso. El partido de Pedro Sánchez lleva desde.
+
+Date: 2026-07-23
+
+### Casi el 40% de los votantes socialistas no ve que haya un candidato alternativo a Sánchez en unas elecciones
+
+Cuatro de cada diez votantes socialistas no identifican una alternativa a Pedro Sánchez al frente del PSOE. Según una encuesta del Instituto DYM para 20minutos , Emiliano García-Page es quien más respaldo cosecha entre los cinco posibles candidatos planteados, con un 27,3%, aunque el porcentaje de quienes no se decanta.
+
+Date: 2026-07-23
+
+### La valoración de los líderes políticos cae y Sánchez se mantiene en cabeza
+
+La nota que los ciudadanos conceden a los líderes políticos está marcada en el polibarómetro del mes de julio del Instituto DYM para 20minutos por los casos de corrupción, lo que ha erosionado la valoración tanto del Gobierno como de Pedro Sánchez como líder político y como favorito para presidente. En estos dos meses,.
+
+Date: 2026-07-23
+
+### Un Consejo de Ministros bajo sospecha por el caso
+
+El 7 de enero de 2020 PSOE y Unidas Podemos pusieron en marcha el primer Gobierno de coalición —«progresista»— de la historia reciente de España. Catorce meses después, pandemia de por medio, Pedro Sánchez y su gabinete ministerial dieron luz verde de manera formal al rescate financiero de Plus Ultra. Un préstamo a la.
+
+Date: 2026-07-23
+
+### Denuncia contra David Sánchez Pérez-Castejón ante el Tribunal de Cuentas para que devuelva las nóminas que cobró en la Diputación de Badajoz
+
+Una de las acusaciones particulares, Iustitia Europa, quiere que tanto el hermano del presidente del Gobierno como su amigo de Moncloa devuelvan los ingresos públicos que recibieron tras no requerirlos ni la Diputación de Badajoz ni la Fiscalía Leer.
+
+Date: 2026-07-23
 
 ### Feijóo sitúa a Sánchez como "el señor X" de todos los casos del PSOE y promete "una limpieza a fondo" de las instituciones
 
@@ -38,37 +68,10 @@ Alberto Núñez Feijóo empezó su balance del curso político sentenciando que 
 
 Date: 2026-07-22
 
-### Feijóo da por hecha su llegada a Moncloa sin esperar a las elecciones: "Será una limpieza a fondo"
-
-"La zona cero de la corrupción es la Moncloa y el señor X es Sánchez", afirma el líder del PP en su comparecencia de balance de fin de curso en la que anuncia que enmendará todas las políticas del Gobierno progresista El PP de Feijóo promete una ambiciosa contrarreforma legal con recortes en derechos sociales si llega.
-
-Date: 2026-07-22
-
-### Feijóo arremete contra Sánchez: “Son sus últimas Navidades en la Moncloa”
-
-Alberto Núñez Feijóo ha hecho este miércoles balance del curso político que ha acabado y ha dado la legislatura por finiquitada en un momento en que la debilidad del Gobierno en el Congreso impide prácticamente la aprobación de leyes y los casos de corrupción cercan al entorno político y personal de Pedro Sánchez. Fren.
-
-Date: 2026-07-22
-
-### España ya tiene fecha y lugar para estrenar la segunda estrella en casa
-
-España sigue celebrando la Copa del Mundo. Sin embargo, el público siempre quiere más y los jugadores ya tienen fecha y ubicación para estrenar la segunda estrella . La Roja se medirá a Croacia en el Ramón Sánchez-Pizjuán y a la República Checa en el Nuevo Carlos Tartiere . Ambos partidos son de la UEFA Nations League.
-
-Date: 2026-07-22
-
-### Sánchez anuncia préstamos por 300 millones para pymes que innoven para reducir el riesgo de incendios y en recuperar terrenos
-
-El presidente del Gobierno, Pedro Sánchez , ha anunciado este miércoles una línea de préstamos participativos por un importe total de 300 millones que se destinará a pequeñas y medianas empresas ( pymes ) que innoven en soluciones para anticipar el riesgo de que se declaren incendios así como para recuperar posteriorme.
-
-Date: 2026-07-22
-
-### Última hora de los incendios forestales, en directo | El incendio de Guadalajara entra en una fase de “optimismo” tras arrasar más de 32.000 hectáreas
-
-El incendio de la Sierra Norte de Guadalajara ha arrasado ya al menos 32.000 hectáreas de la provincia, mientras prosiguen este miércoles las labores de extinción. El presidente del Gobierno, Pedro Sánchez, ha visitado esta mañana las zonas afectadas por el incendio, cuyo frente más próximo a Soria sigue estable a entr.
-
-Date: 2026-07-22
-
 ## Fuentes
 
-- [La china Geely llega a un acuerdo con Ford para producir coches en su fábrica de Almussafes](https://www.elmundo.es/economia/empresas/2026/07/22/6a60c041fdddff05188b4581.html?utm_source=lootura.com) — 2026-07-22T16:55:15.000Z
-- [Feijóo sitúa a Sánchez como "el señor X" de todos los casos del PSOE y promete "una limpieza a fondo" de las instituciones](https://amp.elmundo.es/espana/2026/07/22/6a609c9be85ecedc108b4578.html?utm_source=lootura.com) — 2026-07-22T10:46:17.000Z
+- [El PP y Vox suben tras el caso Zapatero y amplían la brecha con el PSOE y sus socios](https://www.20minutos.es/nacional/pp-vox-suben-tras-caso-zapatero-amplian-brecha-con-psoe-sus-socios_7017602_0.html?utm_source=lootura.com) — 2026-07-23T03:00:00.000Z
+- [Casi el 40% de los votantes socialistas no ve que haya un candidato alternativo a Sánchez en unas elecciones](https://www.20minutos.es/nacional/casi-40-votantes-socialistas-no-ve-candidato-alternativo-sanchez_7017637_0.html?utm_source=lootura.com) — 2026-07-23T03:00:00.000Z
+- [La valoración de los líderes políticos cae y Sánchez se mantiene en cabeza](https://www.20minutos.es/nacional/valoracion-los-lideres-politicos-cae-sanchez-se-mantiene-cabeza_7017693_0.html?utm_source=lootura.com) — 2026-07-23T03:00:00.000Z
+- [Un Consejo de Ministros bajo sospecha por el caso](https://www.abc.es/espana/consejo-ministros-bajo-sospecha-plus-ultra-20260723014056-nt.html?utm_source=lootura.com) — 2026-07-23T05:20:35.000Z
+- [Denuncia contra David Sánchez Pérez-Castejón ante el Tribunal de Cuentas para que devuelva las nóminas que cobró en la Diputación de Badajoz](https://www.elmundo.es/espana/2026/07/23/6a612007e4d4d892728b4571.html?utm_source=lootura.com) — 2026-07-23T05:01:46.000Z

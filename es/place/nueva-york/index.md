@@ -70,4 +70,4 @@ Date: 2026-07-19
 
 ## Fuentes
 
-- [El alcalde de Nueva York, Zohran Mamdani, insta a Trump a detener al “criminal” Netanyahu si entra en Estados Unidos](https://elpais.com/internacional/2026-07-22/el-alcalde-de-nueva-york-zohran-mamdani-insta-a-trump-a-detener-al-criminal-netanyahu-si-entra-en-estados-unidos.html?utm_source=lootura.com) — 2026-07-22T11:32:36.000Z
+No public source links.

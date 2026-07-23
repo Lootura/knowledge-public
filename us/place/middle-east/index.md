@@ -3,7 +3,7 @@
 > Follow Middle East, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-23T02:31:30.185Z
+- Updated: 2026-07-23T06:29:04.058Z
 - Canonical: https://atlas.lootura.com/us/place/middle-east
 
 ## Recent changes
@@ -20,15 +20,15 @@ Video footage and satellite images reveal new details about Iranian strikes on U
 
 Date: 2026-07-23
 
-### Trump will attend the dignified transfer of 4 U.S. service members killed in the Middle East
-
-The ritual is one of the most somber duties of a commander-in-chief.
-
-Date: 2026-07-22
-
 ### Trump speaks at Georgia high school after attending dignified transfer
 
 President Trump spoke at a high school in Marietta, Georgia, on Wednesday, after attending a dignified transfer for four U.S. troops killed in the Middle East. CBS News congressional reporter Taurean Small has the latest.
+
+Date: 2026-07-22
+
+### Trump will attend the dignified transfer of 4 U.S. service members killed in the Middle East
+
+The ritual is one of the most somber duties of a commander-in-chief.
 
 Date: 2026-07-22
 
@@ -72,5 +72,4 @@ Date: 2026-07-20
 
 - [Trump speaks at Georgia high school after attending dignified transfer](https://www.cbsnews.com/video/trump-speaks-at-georgia-high-school-after-attending-dignified-transfer/?utm_source=lootura.com) — 2026-07-22T20:31:04.000Z
 - [Remembering the 4 U.S. service members killed recently in the Iran war](https://www.cbsnews.com/video/remembering-the-4-us-service-members-killed-recently-in-the-iran-war/?utm_source=lootura.com) — 2026-07-23T00:32:33.000Z
-- [Trump will attend the dignified transfer of 4 U.S. service members killed in the Middle East](https://www.pbs.org/newshour/world/trump-will-attend-the-dignified-transfer-of-4-u-s-service-members-killed-in-the-middle-east?utm_source=lootura.com) — 2026-07-22T14:27:14.000Z
 - [What Visuals Show About Recent Damage to U.S. Military Sites in the Middle East](https://www.nytimes.com/2026/07/22/world/middleeast/iran-war-us-bases-images.html?utm_source=lootura.com) — 2026-07-23T01:37:39.000Z

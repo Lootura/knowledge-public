@@ -3,7 +3,7 @@
 > Sigue la actividad de Oriente Próximo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-23T02:31:05.539Z
+- Actualizado: 2026-07-23T06:28:35.711Z
 - Canonical: https://atlas.lootura.com/es/place/oriente-proximo
 
 ## Cambios recientes
@@ -11,6 +11,18 @@
 ### La rentabilidad de los bonos, en máximos a la espera del BCE
 
 La escalada del conflicto en Oriente Próximo tiene una víctima secundaria en los mercados: la renta fija. En Europa, la venta de bonos soberanos ha llevado su rentabilidad a máximos del año, ante el temor de los inversores a una mayor inflación y un mensaje más duro del Banco Central Europeo . Seguir leyendo.
+
+Date: 2026-07-23
+
+### El pacto nuclear de EE.UU. con Arabia Saudí hace temer una carrera atómica en Oriente Próximo
+
+Fuentes oficiales de la Casa Blanca han filtrado a los principales medios de prensa anglosajones que el presidente Trump ha cerrado un acuerdo para compartir tecnología nuclear con Arabia Saudí. El plan, que será sometido al Congreso de Estados Unidos para su aprobación, supone un cambio de política radical al no inclu.
+
+Date: 2026-07-23
+
+### Los hutíes de Yemen atacan dos buques de Arabia Saudí en Ormuz e intensifican el conflicto en Oriente Próximo
+
+Los rebeldes hutíes de Yemen han anunciado en la madrugada de este jueves un ataque con drones y misiles contra dos buques petroleros saudíes en el mar Rojo a los que ha acusado de «violar el bloqueo impuesto» por las milicias contra Arabia Saudí en respuesta a lo que el grupo describe como un continuo «asedio» por par.
 
 Date: 2026-07-23
 
@@ -56,18 +68,8 @@ Los proyectos de obra pública más recientes, licitados entre diciembre de 2025
 
 Date: 2026-07-22
 
-### El Ibex sube a los 19.500 puntos pese al alza del petróleo y ante los resultados de las grandes tecnológicas
-
-El pesimismo en torno a las negociaciones de paz entre EE UU e Irán, después de que el el gobierno estadounidense restara importancia a la posibilidad de conversaciones inmediatas con Teherán, y la creciente amenaza a los suministros energéticos de Oriente Próximo derivada de un bloqueo naval dirigido contra Arabia Sau.
-
-Date: 2026-07-22
-
-### Los hutíes en Bab al Mandeb: el nuevo foco de la guerra en Oriente Próximo
-
-Los rebeldes yemeníes, el principal bastión del Eje de la Resistencia iraní en la actualidad, han recrudecido su confrontación con Arabia Saudí. La ampliación del conflicto regional amenaza aún más el suministro de petróleo y el comercio internacional.
-
-Date: 2026-07-22
-
 ## Fuentes
 
+- [El pacto nuclear de EE.UU. con Arabia Saudí hace temer una carrera atómica en Oriente Próximo](https://www.abc.es/internacional/eeuu-arabia-saudi-firman-acuerdo-nuclear-despierta-20260722210722-nt.html?utm_source=lootura.com) — 2026-07-23T05:20:41.000Z
+- [Los hutíes de Yemen atacan dos buques de Arabia Saudí en Ormuz e intensifican el conflicto en Oriente Próximo](https://www.abc.es/internacional/huties-yemen-atacan-dos-buques-arabia-saudi-20260723080327-nt.html?utm_source=lootura.com) — 2026-07-23T06:03:28.000Z
 - [La rentabilidad de los bonos, en máximos a la espera del BCE](https://www.expansion.com/mercados/renta-fija/2026/07/23/6a610c94468aebbc5b8b45b7.html?utm_source=lootura.com) — 2026-07-23T00:04:27.000Z

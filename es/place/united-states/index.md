@@ -3,7 +3,7 @@
 > Sigue la actividad de Estados Unidos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-23T02:31:05.539Z
+- Actualizado: 2026-07-23T06:28:35.711Z
 - Canonical: https://atlas.lootura.com/es/place/united-states
 
 ## Cambios recientes
@@ -14,6 +14,30 @@ Bank of America (BofA) reafirma su optimismo con Inditex tras las últimas inver
 
 Date: 2026-07-23
 
+### El pacto nuclear de EE.UU. con Arabia Saudí hace temer una carrera atómica en Oriente Próximo
+
+Fuentes oficiales de la Casa Blanca han filtrado a los principales medios de prensa anglosajones que el presidente Trump ha cerrado un acuerdo para compartir tecnología nuclear con Arabia Saudí. El plan, que será sometido al Congreso de Estados Unidos para su aprobación, supone un cambio de política radical al no inclu.
+
+Date: 2026-07-23
+
+### La imagen de España en Estados Unidos
+
+Con motivo del 250 Aniversario de la Declaración de Independencia de los Estados Unidos, distintas instituciones y medios de comunicación han dedicado conferencias y publicaciones donde se destacan diversas facetas de la relación histórica entre España y los Estados Unidos. La Revista de Occidente dedica su último núme.
+
+Date: 2026-07-23
+
+### EEUU y Arabia Saudí firman un histórico pacto que allana a Riad lograr enriquecer uranio
+
+Estados Unidos ha anunciado este miércoles que ha alcanzado un importante acuerdo de cooperación nuclear pacífica con Arabia Saudí que podría allanar el.
+
+Date: 2026-07-23
+
+### Trump amenaza con destruir puentes o centrales eléctricas cada vez que Irán ataque un barco en Ormuz
+
+Estados Unidos e Irán cada vez están más cerca de una guerra total al tiempo que el conflicto entra en un callejón sin salida. El presidente de Estados Unidos, Donald Trump, ha prometido este miércoles destruir un puente o una central eléctrica iraní cada vez que Irán dispare contra un barco en el estrecho de Ormuz. El.
+
+Date: 2026-07-22
+
 ### El alcalde de Nueva York, Zohran Mamdani, insta a Trump a detener al “criminal” Netanyahu si entra en Estados Unidos
 
 Zohran Mamdani ganó el año pasado las elecciones a la alcaldía de Nueva York con un discurso durísimo contra el Gobierno israelí y su actuación en Gaza y Cisjordania. Ahora ha dado un paso más al reclamar a la Administración republicana de Donald Trump que detenga al primer ministro Benjamín Netanyahu si pisa suelo est.
@@ -23,12 +47,6 @@ Date: 2026-07-22
 ### Bruselas autoriza con condiciones la compra de Warner con Paramount
 
 La Comisión Europea autoriza la compra de Warner por Paramount . La empresa de David Ellison recibe esta buena noticia un día después de que en Estados Unidos una jueza bloqueara temporalmente la operación que ha marcado al sector de contenidos audiovisuales en todo el mundo en el último año. Pero no le sale gratis. Ha.
-
-Date: 2026-07-22
-
-### Trump amenaza con destruir puentes o centrales eléctricas cada vez que Irán ataque un barco en Ormuz
-
-Estados Unidos e Irán cada vez están más cerca de una guerra total al tiempo que el conflicto entra en un callejón sin salida. El presidente de Estados Unidos, Donald Trump, ha prometido este miércoles destruir un puente o una central eléctrica iraní cada vez que Irán dispare contra un barco en el estrecho de Ormuz. El.
 
 Date: 2026-07-22
 
@@ -50,27 +68,10 @@ Fuentes oficiales de la Casa Blanca han filtrado a los principales medios de pre
 
 Date: 2026-07-22
 
-### Trump sopesa proponer a Infantino como secretario general de la ONU, según el 'New York Post'
-
-El presidente de Estados Unidos, Donald Trump, estaría sopesando presentar la candidatura de Gianni Infantino, presidente de la FIFA, para ocupar el cargo de secretario general de Naciones Unidas y convertirse en el décimo mandatario en asumir la función , según ha adelantado este martes el 'New York Post'. Trump sosti.
-
-Date: 2026-07-22
-
-### Trump pide inmunidad judicial para Delcy Rodríguez mientras siga en el poder
-
-La Administración de Donald Trump ha pedido al Departamento de Justicia de Estados Unidos que garantice la inmunidad judicial de la presidenta interina de.
-
-Date: 2026-07-21
-
-### Iberostar y Barceló se suman a Meliá y dejan de operar en Cuba por las sanciones de EE UU
-
-Las tres cadenas españolas ponen fin a décadas de presencia en la isla ante las dificultades operativas y los riesgos asociados al embargo de Estados Unidos.
-
-Date: 2026-07-21
-
 ## Fuentes
 
-- [Bruselas autoriza con condiciones la compra de Warner con Paramount](https://elpais.com/economia/2026-07-22/bruselas-autoriza-con-condiciones-la-compra-de-warner-con-paramount.html?utm_source=lootura.com) — 2026-07-22T18:54:17.000Z
+- [El pacto nuclear de EE.UU. con Arabia Saudí hace temer una carrera atómica en Oriente Próximo](https://www.abc.es/internacional/eeuu-arabia-saudi-firman-acuerdo-nuclear-despierta-20260722210722-nt.html?utm_source=lootura.com) — 2026-07-23T05:20:41.000Z
 - [Trump amenaza con destruir puentes o centrales eléctricas cada vez que Irán ataque un barco en Ormuz](https://elpais.com/internacional/2026-07-22/trump-amenaza-con-destruir-puentes-o-centrales-electricas-cada-vez-que-teheran-ataque-un-barco-ormuz.html?utm_source=lootura.com) — 2026-07-22T18:31:32.000Z
-- [El alcalde de Nueva York, Zohran Mamdani, insta a Trump a detener al “criminal” Netanyahu si entra en Estados Unidos](https://elpais.com/internacional/2026-07-22/el-alcalde-de-nueva-york-zohran-mamdani-insta-a-trump-a-detener-al-criminal-netanyahu-si-entra-en-estados-unidos.html?utm_source=lootura.com) — 2026-07-22T11:32:36.000Z
 - [Bank of America eleva a 65 euros el precio objetivo de Inditex, con un potencial del 19%](https://www.expansion.com/mercados/2026/07/23/6a610d83e5fdea414b8b45a0.html?utm_source=lootura.com) — 2026-07-23T00:04:38.000Z
+- [La imagen de España en Estados Unidos](https://theobjective.com/elsubjetivo/opinion/2026-07-23/imagen-espana-eeuu-articulo-eduardo-garrigues/?utm_source=lootura.com) — 2026-07-23T03:25:00.000Z
+- [EEUU y Arabia Saudí firman un histórico pacto que allana a Riad lograr enriquecer uranio](https://theobjective.com/internacional/2026-07-23/eeuu-arabia-saudi-pacto-nriquecer-uranio/?amp=&utm_source=lootura.com) — 2026-07-23T06:21:04.000Z

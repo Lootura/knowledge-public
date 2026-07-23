@@ -3,7 +3,7 @@
 > Sigue la actividad de Audiencia Nacional (España) en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-23T02:31:05.539Z
+- Actualizado: 2026-07-23T06:28:35.711Z
 - Canonical: https://atlas.lootura.com/es/organization/audiencia-nacional
 
 ## Cambios recientes
@@ -14,15 +14,15 @@ La anunciada colaboración con la Justicia del empresario Julio Martínez, clave
 
 Date: 2026-07-23
 
-### Fernández Díaz alega que se busca condenarlo en Kitchen “por razón” de su cargo de ministro
-
-Jorge Fernández Díaz, ministro del Interior de 2011 a 2016 y hombre de confianza del expresidente Mariano Rajoy, ya ha jugado sus cartas en el juicio del caso Kitchen , que se ha reanudado este miércoles en la Audiencia Nacional. Tres meses después del arranque de la vista , su abogado ha expuesto al tribunal su alegat.
-
-Date: 2026-07-22
-
 ### El juez amplía la investigación patrimonial de Santos Cerdán a las cuentas de su mujer, su hija, su hermana y su cuñado
 
 El juez del caso Koldo en la Audiencia Nacional ha extendido la investigación patrimonial en torno a Santos Cerdán a su mujer, su hija, su hermana y su cuñado. Ismael Moreno ha...
+
+Date: 2026-07-22
+
+### Fernández Díaz alega que se busca condenarlo en Kitchen “por razón” de su cargo de ministro
+
+Jorge Fernández Díaz, ministro del Interior de 2011 a 2016 y hombre de confianza del expresidente Mariano Rajoy, ya ha jugado sus cartas en el juicio del caso Kitchen , que se ha reanudado este miércoles en la Audiencia Nacional. Tres meses después del arranque de la vista , su abogado ha expuesto al tribunal su alegat.
 
 Date: 2026-07-22
 
@@ -71,6 +71,3 @@ Date: 2026-07-22
 ## Fuentes
 
 - [El juez amplía la investigación patrimonial de Santos Cerdán a las cuentas de su mujer, su hija, su hermana y su cuñado](https://amp.elmundo.es/espana/2026/07/22/6a610bf4e9cf4a3b3e8b45b6.html?utm_source=lootura.com) — 2026-07-22T18:30:38.000Z
-- [Fernández Díaz alega que se busca condenarlo en Kitchen “por razón” de su cargo de ministro](https://elpais.com/espana/2026-07-22/fernandez-diaz-alega-que-se-busca-condenarlo-en-kitchen-por-razon-de-su-cargo-de-ministro.html?utm_source=lootura.com) — 2026-07-22T14:18:40.000Z
-- ["Si Julio Martínez quiere equipararse a Aldama, tiene que aportar más"](https://www.larazon.es/espana/julio-martinez-quiere-equipararse-aldama-tiene-que-aportar-mas_202607236a60ffcbda3add27d4dc60b4.html?utm_source=lootura.com) — 2026-07-23T00:00:13.000Z
-- [El juez del 'caso Koldo' pide información sobre las cuentas bancarias de la familia de Cerdán](https://theobjective.com/espana/tribunales/2026-07-22/juez-caso-koldo-cuentas-familia-cerdan/?amp=&utm_source=lootura.com) — 2026-07-22T20:41:41.000Z

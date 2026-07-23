@@ -8,11 +8,16 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/la-mierla/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/la-mierla/index.json",
   "description": "Sigue la actividad de La Mierla en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-23T02:31:05.539Z",
+  "updatedAt": "2026-07-23T06:28:35.711Z",
   "aliases": [
     "Mierla"
   ],
   "changes": [
+    {
+      "title": "Consulta el mapa de incendios en España en tiempo real: focos activos en La Mierla (Guadalajara), Almorox (Toledo), Aragón, Andalucía, en directo",
+      "summary": "La evolución de los principales focos obliga a mantener un amplio dispositivo de emergencia mientras miles de hectáreas siguen afectadas y varias localidades permanecen pendientes de la evolución de las llamas.",
+      "date": "2026-07-23"
+    },
     {
       "title": "El incendio de Guadalajara entra en fase de “estabilización” tras arrasar más de 32.000 hectáreas",
       "summary": "El incendio de La Mierla (Guadalajara), el más grande de la historia de Castilla-La Mancha , que ha arrasado más de 32.000 hectáreas, ya ha entrado en fase de “estabilización”, según ha anunciado este miércoles el presidente de Castilla-La Mancha, Emiliano García-Page, desde el puesto de mando avanzado de Tamajón, en u.",
@@ -57,19 +62,14 @@
       "title": "El fuego avanza 14 kilómetros en una noche y arrasa más de 13.000 hectáreas en La Mierla",
       "summary": "La provincia de Guadalajara sufre un verano más la devastación de las llamas con cifras para la desesperanza. Si en septiembre de 2025 el incendio forestal del Pico del Lobo se daba por extinguido 22 días después de iniciarse y calcinar 2.500 hectáreas en terreno autonómico, el siniestro que desde el jueves afecta al P.",
       "date": "2026-07-19"
-    },
-    {
-      "title": "El incendio de La Mierla ha arrasado 13.000 hectáreas tras avanzar 14 kilómetros en Guadalajara durante la noche",
-      "summary": "Además de las 16 localidades previamente evacuadas, se ha notificado a Prádena de Atienza, Robledo de Corpes, Aldeanueva de Atienza y Naharros que abandonen sus casas \"con tranquilidad\", según detalla la consejera de Desarrollo Sostenible, Mercedes Gómez, pues el fuego \" todavía no va a alcanzarlas\". El fuego iguala ya.",
-      "date": "2026-07-19"
     }
   ],
   "sources": [
     {
-      "title": "El incendio de Guadalajara entra en fase de “estabilización” tras arrasar más de 32.000 hectáreas",
-      "url": "https://elpais.com/espana/2026-07-22/el-incendio-de-guadalajara-entra-en-fase-de-estabilizacion-tras-arrasar-mas-de-32000-hectareas.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-22T11:03:06.000Z",
-      "sourceId": "lootura-es-el-pais"
+      "title": "Consulta el mapa de incendios en España en tiempo real: focos activos en La Mierla (Guadalajara), Almorox (Toledo), Aragón, Andalucía, en directo",
+      "url": "https://www.elconfidencial.com/espana/2026-07-23/1qrt-mapa-incendios-espana-directo-mierla-almorox-andalucia-focos-activos_4394031/?utm_source=lootura.com",
+      "publishedAt": "2026-07-23T06:03:00.000Z",
+      "sourceId": "lootura-es-el-confidencial"
     }
   ],
   "evidenceCount": 1

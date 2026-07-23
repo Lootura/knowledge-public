@@ -3,20 +3,32 @@
 > Sigue la actividad de Plus Ultra en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-23T02:31:05.539Z
+- Actualizado: 2026-07-23T06:28:35.711Z
 - Canonical: https://atlas.lootura.com/es/person/plus-ultra
 
 ## Cambios recientes
 
-### Podcast | Zapatero, tocado y hundido
+### Un Consejo de Ministros bajo sospecha por el caso
 
-El futuro de José Luis Rodríguez Zapatero es cada vez más oscuro. Su presunto testaferro, Julito Martínez, se ha marcado un Aldama y ha confesado ante el juez José Luis Calama que el ex presidente del Gobierno medió en la concesión del rescate a Plus Ultra y pactó cobrar el 1% de comisión , así como 5.000 euros al mes.
+El 7 de enero de 2020 PSOE y Unidas Podemos pusieron en marcha el primer Gobierno de coalición —«progresista»— de la historia reciente de España. Catorce meses después, pandemia de por medio, Pedro Sánchez y su gabinete ministerial dieron luz verde de manera formal al rescate financiero de Plus Ultra. Un préstamo a la.
 
-Date: 2026-07-22
+Date: 2026-07-23
+
+### Zapatero dará su primera entrevista este jueves en TVE tras su imputación en el 'caso Plus Ultra'
+
+El expresidente del Gobierno José Luis Rodríguez Zapatero será entrevistado este jueves en Mañaneros 360 de TVE, según ha informado la cadena. Zapatero.
+
+Date: 2026-07-23
 
 ### La Audiencia ve como un "gran avance" para el tráfico de influencias la confesión del pagador de Zapatero y los directivos de Plus Ultra
 
 Las confesiones del empresario Julio Martínez Martínez y los responsables de la aerolínea Plus Ultra, el dueño Julio Martínez Sola, y el CEO de la compañía, Roberto Roselli,...
+
+Date: 2026-07-22
+
+### Podcast | Zapatero, tocado y hundido
+
+El futuro de José Luis Rodríguez Zapatero es cada vez más oscuro. Su presunto testaferro, Julito Martínez, se ha marcado un Aldama y ha confesado ante el juez José Luis Calama que el ex presidente del Gobierno medió en la concesión del rescate a Plus Ultra y pactó cobrar el 1% de comisión , así como 5.000 euros al mes.
 
 Date: 2026-07-22
 
@@ -56,20 +68,8 @@ La declaración de Julito coloca el foco en varios ministros: Escrivá, Montero 
 
 Date: 2026-07-22
 
-### El juez interrogará a la cúpula de Plus Ultra por los pagos a Zapatero
-
-El «caso Plus Ultra» entra en una nueva dimensión judicial. Tras la confesión y la posterior declaración del empresario «Julito» Martínez y «amigo» del expresidente del Gobierno José Luis Rodríguez Zapatero, a quien ha situado como la persona que influyó en la concesión pública de 53 millones de euros a la aerolínea, c.
-
-Date: 2026-07-22
-
-### El juez abrirá una investigación exhaustiva a las hijas de Zapatero
-
-La declaración de Julio Martínez Martínez no solo sirvió para aclarar su actuación en el caso Plus Ultra. También permitió anticipar los próximos movimientos del juez...
-
-Date: 2026-07-21
-
 ## Fuentes
 
-- [El Gobierno rescató a Plus Ultra con una estructura de control accionarial falseada](https://amp.elmundo.es/espana/2026/07/22/6a611098fc6c8380618b45a4.html?utm_source=lootura.com) — 2026-07-22T20:41:43.000Z
+- [Un Consejo de Ministros bajo sospecha por el caso](https://www.abc.es/espana/consejo-ministros-bajo-sospecha-plus-ultra-20260723014056-nt.html?utm_source=lootura.com) — 2026-07-23T05:20:35.000Z
 - [La Audiencia ve como un "gran avance" para el tráfico de influencias la confesión del pagador de Zapatero y los directivos de Plus Ultra](https://amp.elmundo.es/espana/2026/07/22/6a60e3bf21efa078558b4583.html?utm_source=lootura.com) — 2026-07-22T20:40:16.000Z
-- [Podcast | Zapatero, tocado y hundido](https://theobjective.com/podcasts/objetivo-directo-podcast/podcast-objetivo-directo-zapatero-tocado-hundido/?utm_source=lootura.com) — 2026-07-22T18:42:45.000Z
+- [Zapatero dará su primera entrevista este jueves en TVE tras su imputación en el 'caso Plus Ultra'](https://theobjective.com/espana/politica/2026-07-23/zapatero-primera-entrevista-tve/?amp=&utm_source=lootura.com) — 2026-07-23T05:48:52.000Z

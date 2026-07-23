@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/santos-cerdan/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/santos-cerdan/index.json",
   "description": "Sigue la actividad de Santos Cerdán en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-23T02:31:05.539Z",
+  "updatedAt": "2026-07-23T06:28:35.711Z",
   "aliases": [
     "Cerdán",
     "Santos"
@@ -20,13 +20,13 @@
       "date": "2026-07-22"
     },
     {
-      "title": "Narbona niega haber promocionado a Leire Díez: “Yo no soy la madrina de nadie”",
-      "summary": "Leire Díez se ha convertido en una bomba política de efectos retardados que le ha servido al PP de excusa para forzar la comparecencia de Cristina Narbona en el Senado. La presidenta del PSOE ha negado que conociera la presunta trama orquestada por la exmilitante socialista con Santos Cerdán para desestabilizar causas.",
+      "title": "Discovered by Atlas",
+      "summary": "Santos Cerdán first entered the public knowledge record with source-backed evidence.",
       "date": "2026-07-22"
     },
     {
-      "title": "Discovered by Atlas",
-      "summary": "Santos Cerdán first entered the public knowledge record with source-backed evidence.",
+      "title": "Narbona niega haber promocionado a Leire Díez: “Yo no soy la madrina de nadie”",
+      "summary": "Leire Díez se ha convertido en una bomba política de efectos retardados que le ha servido al PP de excusa para forzar la comparecencia de Cristina Narbona en el Senado. La presidenta del PSOE ha negado que conociera la presunta trama orquestada por la exmilitante socialista con Santos Cerdán para desestabilizar causas.",
       "date": "2026-07-22"
     }
   ],
@@ -36,13 +36,7 @@
       "url": "https://amp.elmundo.es/espana/2026/07/22/6a610bf4e9cf4a3b3e8b45b6.html?utm_source=lootura.com",
       "publishedAt": "2026-07-22T18:30:38.000Z",
       "sourceId": "lootura-es-el-mundo"
-    },
-    {
-      "title": "Narbona niega haber promocionado a Leire Díez: “Yo no soy la madrina de nadie”",
-      "url": "https://elpais.com/espana/2026-07-22/narbona-niega-haber-promocionado-a-leire-diez-yo-no-soy-la-madrina-de-nadie.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-22T13:57:33.000Z",
-      "sourceId": "lootura-es-el-pais"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

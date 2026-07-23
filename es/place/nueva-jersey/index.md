@@ -40,4 +40,4 @@ Date: 2026-07-18
 
 ## Fuentes
 
-- [El mundo árabe también celebró la victoria de España en el Mundial](https://www.larazon.es/deportes/mundo-arabe-tambien-celebro-victoria-espana-mundial_202607236a616b43aa17c0020f2ab1a6.html?utm_source=lootura.com) — 2026-07-23T01:15:47.000Z
+No public source links.

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/oriente-proximo/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/oriente-proximo/index.json",
   "description": "Sigue la actividad de Oriente Próximo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-23T02:31:05.539Z",
+  "updatedAt": "2026-07-23T06:28:35.711Z",
   "aliases": [
     "Cercano Oriente",
     "Oriente cercano",
@@ -19,6 +19,16 @@
     {
       "title": "La rentabilidad de los bonos, en máximos a la espera del BCE",
       "summary": "La escalada del conflicto en Oriente Próximo tiene una víctima secundaria en los mercados: la renta fija. En Europa, la venta de bonos soberanos ha llevado su rentabilidad a máximos del año, ante el temor de los inversores a una mayor inflación y un mensaje más duro del Banco Central Europeo . Seguir leyendo.",
+      "date": "2026-07-23"
+    },
+    {
+      "title": "El pacto nuclear de EE.UU. con Arabia Saudí hace temer una carrera atómica en Oriente Próximo",
+      "summary": "Fuentes oficiales de la Casa Blanca han filtrado a los principales medios de prensa anglosajones que el presidente Trump ha cerrado un acuerdo para compartir tecnología nuclear con Arabia Saudí. El plan, que será sometido al Congreso de Estados Unidos para su aprobación, supone un cambio de política radical al no inclu.",
+      "date": "2026-07-23"
+    },
+    {
+      "title": "Los hutíes de Yemen atacan dos buques de Arabia Saudí en Ormuz e intensifican el conflicto en Oriente Próximo",
+      "summary": "Los rebeldes hutíes de Yemen han anunciado en la madrugada de este jueves un ataque con drones y misiles contra dos buques petroleros saudíes en el mar Rojo a los que ha acusado de «violar el bloqueo impuesto» por las milicias contra Arabia Saudí en respuesta a lo que el grupo describe como un continuo «asedio» por par.",
       "date": "2026-07-23"
     },
     {
@@ -55,19 +65,21 @@
       "title": "Seopan cifra en 1.200 millones el agujero en la obra pública licitada desde 2025 por la crisis en Oriente Próximo",
       "summary": "Los proyectos de obra pública más recientes, licitados entre diciembre de 2025 y el pasado febrero con un presupuesto total de 6.900 millones (6.425 obras de todas las administraciones), están sufriendo de manera extraordinaria el encarecimiento de los materiales de construcción derivado del conflicto en Oriente Próxim.",
       "date": "2026-07-22"
-    },
-    {
-      "title": "El Ibex sube a los 19.500 puntos pese al alza del petróleo y ante los resultados de las grandes tecnológicas",
-      "summary": "El pesimismo en torno a las negociaciones de paz entre EE UU e Irán, después de que el el gobierno estadounidense restara importancia a la posibilidad de conversaciones inmediatas con Teherán, y la creciente amenaza a los suministros energéticos de Oriente Próximo derivada de un bloqueo naval dirigido contra Arabia Sau.",
-      "date": "2026-07-22"
-    },
-    {
-      "title": "Los hutíes en Bab al Mandeb: el nuevo foco de la guerra en Oriente Próximo",
-      "summary": "Los rebeldes yemeníes, el principal bastión del Eje de la Resistencia iraní en la actualidad, han recrudecido su confrontación con Arabia Saudí. La ampliación del conflicto regional amenaza aún más el suministro de petróleo y el comercio internacional.",
-      "date": "2026-07-22"
     }
   ],
   "sources": [
+    {
+      "title": "El pacto nuclear de EE.UU. con Arabia Saudí hace temer una carrera atómica en Oriente Próximo",
+      "url": "https://www.abc.es/internacional/eeuu-arabia-saudi-firman-acuerdo-nuclear-despierta-20260722210722-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-23T05:20:41.000Z",
+      "sourceId": "lootura-es-abc"
+    },
+    {
+      "title": "Los hutíes de Yemen atacan dos buques de Arabia Saudí en Ormuz e intensifican el conflicto en Oriente Próximo",
+      "url": "https://www.abc.es/internacional/huties-yemen-atacan-dos-buques-arabia-saudi-20260723080327-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-23T06:03:28.000Z",
+      "sourceId": "lootura-es-abc"
+    },
     {
       "title": "La rentabilidad de los bonos, en máximos a la espera del BCE",
       "url": "https://www.expansion.com/mercados/renta-fija/2026/07/23/6a610c94468aebbc5b8b45b7.html?utm_source=lootura.com",
@@ -75,5 +87,5 @@
       "sourceId": "lootura-es-expansion"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 3
 }

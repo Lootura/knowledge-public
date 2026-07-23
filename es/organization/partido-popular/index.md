@@ -3,10 +3,16 @@
 > Sigue la actividad de Partido Popular en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-23T02:31:05.539Z
+- Actualizado: 2026-07-23T06:28:35.711Z
 - Canonical: https://atlas.lootura.com/es/organization/partido-popular
 
 ## Cambios recientes
+
+### El PP y Vox suben tras el caso Zapatero y amplían la brecha con el PSOE y sus socios
+
+El goteo de presuntos casos de corrupción está pasando factura al PSOE . Según el barómetro de julio elaborado por el Instituto DYM para 20minutos , si mañana se celebrasen elecciones, el PP sería la fuerza más votada y ampliaría su distancia con respecto a un PSOE en retroceso. El partido de Pedro Sánchez lleva desde.
+
+Date: 2026-07-23
 
 ### Feijóo sitúa a Sánchez como "el señor X" de todos los casos del PSOE y promete "una limpieza a fondo" de las instituciones
 
@@ -62,14 +68,6 @@ La derecha y la ultraderecha sacan adelante las cuentas de Pérez Llorca en las 
 
 Date: 2026-07-22
 
-### PP y Vox aprueban los presupuestos de Pérez Llorca, los últimos de la legislatura, con mención a la "prioridad nacional"
-
-La derecha y la ultraderecha sacan adelante las cuentas en las Corts Valencianes, por valor de 33.305 millones de euros, sin aceptar enmiendas de la oposición El Gobierno recurrirá en el Constitucional la ley de presupuestos de Pérez Llorca si incluye la expresión “prioridad nacional” Prueba superada. El presidente de.
-
-Date: 2026-07-22
-
 ## Fuentes
 
-- [Feijóo sitúa a Sánchez como "el señor X" de todos los casos del PSOE y promete "una limpieza a fondo" de las instituciones](https://amp.elmundo.es/espana/2026/07/22/6a609c9be85ecedc108b4578.html?utm_source=lootura.com) — 2026-07-22T10:46:17.000Z
-- [Narbona niega haber promocionado a Leire Díez: “Yo no soy la madrina de nadie”](https://elpais.com/espana/2026-07-22/narbona-niega-haber-promocionado-a-leire-diez-yo-no-soy-la-madrina-de-nadie.html?utm_source=lootura.com) — 2026-07-22T13:57:33.000Z
-- [Morant: «Feijóo está dibujando una coalición que se parece a un gobierno criminal de Hitler»](https://theobjective.com/espana/politica/2026-07-22/morant-feijoo-coalicion-gobierno-criminal-hitler/?utm_source=lootura.com) — 2026-07-22T18:33:50.000Z
+- [El PP y Vox suben tras el caso Zapatero y amplían la brecha con el PSOE y sus socios](https://www.20minutos.es/nacional/pp-vox-suben-tras-caso-zapatero-amplian-brecha-con-psoe-sus-socios_7017602_0.html?utm_source=lootura.com) — 2026-07-23T03:00:00.000Z

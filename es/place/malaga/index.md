@@ -3,10 +3,16 @@
 > Sigue la actividad de Málaga en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-23T02:31:05.539Z
+- Actualizado: 2026-07-23T06:28:35.711Z
 - Canonical: https://atlas.lootura.com/es/place/malaga
 
 ## Cambios recientes
+
+### La Aemet sitúa a seis provincias andaluzas en aviso naranja por temperaturas de 42ºC
+
+La Agencia Estatal de Meteorología (Aemet) ha activado para este jueves aviso naranja por calor en Almería, Cádiz, Córdoba, Granada, Jaén y Málaga por temperaturas máximas que podrían alcanzar los 41 grados y alerta amarilla por temperaturas máximas en Sevilla, así como por tormentas en la provincia de Almería que podr.
+
+Date: 2026-07-23
 
 ### El crimen de Benahavís (Málaga): víctima y autor se conocían, pero el Gobierno descarta por ahora la violencia machista
 
@@ -62,12 +68,7 @@ José María Almoguera vuelve a situarse en el centro de la actualidad, aunque e
 
 Date: 2026-07-17
 
-### Los hoteleros de Málaga rechazan la moratoria que prohíbe levantar establecimientos turísticos
-
-La patronal hotelera de la Costa del Sol (Aehcos) ha apelado este viernes al diálogo y a la seguridad jurídica ante la moratoria de tres años aprobada por el Ayuntamiento de Málaga para nuevos hoteles y apartamentos turísticos en suelo residencial, una medida que considera ineficaz para resolver el problema del acceso.
-
-Date: 2026-07-17
-
 ## Fuentes
 
 - [El crimen de Benahavís (Málaga): víctima y autor se conocían, pero el Gobierno descarta por ahora la violencia machista](https://www.elcorreo.com/sociedad/crimen-benahavis-malaga-victima-autor-conocian-gobierno-20260722133842-ntrc.html?utm_source=lootura.com) — 2026-07-22T11:38:43.000Z
+- [La Aemet sitúa a seis provincias andaluzas en aviso naranja por temperaturas de 42ºC](https://www.larazon.es/andalucia/aemet-situa-seis-provincias-andaluzas-aviso-naranja-temperaturas-42c_202607236a61ae20da3add27d4dd376b.html?utm_source=lootura.com) — 2026-07-23T06:01:04.000Z

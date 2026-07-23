@@ -34,5 +34,4 @@ Date: 2026-07-22
 
 ## Fuentes
 
-- [Resuelto el crimen del ingeniero de Las Tablas: el autor, obsesionado con una supuesta infidelidad, lo asesinó y se suicidó horas después](https://www.elmundo.es/madrid/2026/07/22/6a60a59bfc6c83b2298b45aa.html?utm_source=lootura.com) — 2026-07-22T11:27:54.000Z
-- [Crimen de Las Tablas: a Facundo lo asesinó Alberto, un marido obsesionado con la infidelidad de su esposa](https://elpais.com/espana/madrid/2026-07-22/crimen-de-las-tablas-a-facundo-lo-asesino-alberto-un-marido-obsesionado-con-la-infidelidad-de-su-esposa.html?utm_source=lootura.com) — 2026-07-22T12:53:31.000Z
+No public source links.

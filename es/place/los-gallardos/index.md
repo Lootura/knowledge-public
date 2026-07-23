@@ -3,10 +3,16 @@
 > Sigue la actividad de Los Gallardos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-17T06:12:48.444Z
+- Actualizado: 2026-07-23T06:28:35.711Z
 - Canonical: https://atlas.lootura.com/es/place/los-gallardos
 
 ## Cambios recientes
+
+### El llamamiento de Bédar para resurgir de las cenizas: "No dejen de venir, los necesitamos"
+
+Han pasado ya 21 días desde que el fuego empezó a arder en Los Gallardos y los efectivos del plan Infoca, el servicio de extinción de incendios de la Junta, aún siguen refrescando las 7.000 hectáreas arrasadas por el incendio más mortífero que se recuerda en Andalucía . Todos los vecinos evacuados, que por momentos fue.
+
+Date: 2026-07-23
 
 ### La toma de decisiones en una gran emergencia: cuando la realidad cambia más deprisa que la información disponible
 
@@ -62,12 +68,6 @@ Stanislas Verdonckt, un empresario belga de 63 años afincado en Bédar, llamó 
 
 Date: 2026-07-13
 
-### El hijo de una víctima del incendio de Los Gallardos: “Nadie les dijo que el fuego venía hacia ellos y cuando intentaron salir ya era tarde”
-
-El hijo de un ciudadano belga fallecido en el incendio de Los Gallardos (Almería) cuestiona la versión de las autoridades de que su padre y otras víctimas desoyeron las recomendaciones oficiales de permanecer en sus viviendas, al asegurar que los servicios de emergencia no les dieron ninguna indicación. Seguir leyendo.
-
-Date: 2026-07-13
-
 ## Fuentes
 
-No public source links.
+- [El llamamiento de Bédar para resurgir de las cenizas: "No dejen de venir, los necesitamos"](https://www.elconfidencial.com/espana/andalucia/2026-07-23/llamamiento-bedar-resurgir-cenizas-visitantes_4393749/?utm_source=lootura.com) — 2026-07-23T03:00:00.000Z

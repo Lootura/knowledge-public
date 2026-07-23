@@ -3,10 +3,46 @@
 > Sigue la actividad de Madrid en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-23T02:31:05.539Z
+- Actualizado: 2026-07-23T06:28:35.711Z
 - Canonical: https://atlas.lootura.com/es/place/madrid
 
 ## Cambios recientes
+
+### "No ha pasado lo peor": Feijóo aguarda la "traca final" de la corrupción del PSOE a la vuelta del verano
+
+Pilotar la bancada de la oposición no entraba en los planes de Alberto Núñez Feijóo cuando decidió saltar a Madrid hace ya más de cuatro años, que en política es toda una eternidad. Pero el líder popular divisa ya la luz al final del túnel. La legislatura finalizará, como máximo, dentro de un año y en Génova ven comple.
+
+Date: 2026-07-23
+
+### La Fuente de Cibeles abre por primera vez al público durante su restauración: así puedes conseguir entradas gratis para verla por dentro
+
+La Fuente de Cibeles podrá visitarse por primera vez desde su interior gracias al programa Abierto por Restauración . El Ayuntamiento de Madrid ofrece visitas guiadas gratuitas para descubrir de cerca las obras de conservación del monumento y conocer uno de los grandes símbolos de la capital desde una perspectiva inédi.
+
+Date: 2026-07-23
+
+### Madrid activa el aviso amarillo por calor con máximas de hasta 39 grados este jueves
+
+La Comunidad de Madrid afronta este jueves una nueva jornada marcada por el calor extremo. La Agencia Estatal de Meteorología (Aemet) mantiene activado el aviso amarillo por altas temperaturas en buena parte de la región, donde los termómetros alcanzarán los 39 grados en las horas centrales del día . El aviso permanece.
+
+Date: 2026-07-23
+
+### Precio de la gasolina hoy 23 de julio: localiza las gasolineras más baratas de Madrid
+
+Precio de la gasolina hoy 23 de julio en Madrid: consulta las gasolineras más baratas y ahorra al repostar.
+
+Date: 2026-07-23
+
+### El tesoro que destrozas a pisotones en el campo, pero es una planta extinguida en Madrid y redescubierta en 2021 en Toledo
+
+España recupera un tesoro botánico que la ciencia daba por perdido desde hacía casi un siglo. El Carduncellus matritensis , un pequeño cardo endémico del centro peninsular , ha reaparecido en Toledo tras confirmarse su extinción en la capital. Este hallazgo activa ahora un proceso legal urgente para otorgarle la máxima.
+
+Date: 2026-07-23
+
+### Antonio Banderas (65 años) recuerda cómo llegó a Madrid para perseguir su sueño: «Mi madre me cosió el dinero dentro del pantalón»
+
+Antonio Banderas tiene 65 años y se ha convertido en uno de los artistas más emblemáticos de nuestro país. Nosotros sabemos que llegar hasta aquí no ha sido un camino fácil. Antes de arrasar en España y de conquistar Hollywood fue un joven malagueño que tuvo que abandonar su ciudad para perseguir sus sueños. El actor h.
+
+Date: 2026-07-23
 
 ### Leonor Watling: «Las mujeres somos un tiro más fácil, los hombres son más difíciles de tumbar»
 
@@ -20,12 +56,6 @@ Isabel Díaz Ayuso definió a Luis Álvarez Cervera en una gala de la Federació
 
 Date: 2026-07-23
 
-### Crimen de Las Tablas: a Facundo lo asesinó Alberto, un marido obsesionado con la infidelidad de su esposa
-
-El hombre que presuntamente mató a Facundo Rico en una lujosa urbanización de Madrid la semana pasada se aplicó a sí mismo justicia antes de que lo hicieran los tribunales. Alberto Juan, el presunto autor del crimen, se suicidó el día después de asestar 13 puñaladas a este ingeniero de origen argentino con el que sospe.
-
-Date: 2026-07-22
-
 ### Muere un trabajador durante «labores de mantenimiento» en una base de Renfe en Madrid
 
 Además otros dos empleados han resultado heridos de diversa consideración en un accidente «bajo investigación».
@@ -38,41 +68,14 @@ Se han enviado dos mensajes de alerta a la población Leer.
 
 Date: 2026-07-22
 
-### El incendio de la localidad toledana de Almorox salta a Madrid y se moviliza la UME
-
-Un incendio desatado la tarde de este miércoles en Toledo ha saltado a la Comunidad de Madrid. La Agencia de Seguridad y Emergencias Madrid 112 (ASEM112) ha enviado sobre las siete de la tarde un primer mensaje ES-Alert para informar de que, debido a la evolución del incendio forestal de la localidad toledana de Almoro.
-
-Date: 2026-07-22
-
-### La AEMET avisa sobre lo que está pasando en el cielo de Madrid y sorprende a muchos
-
-Si este miércoles has levantado la vista y has visto un cielo más grisáceo o amarillento de lo habitua l, la explicación está en la combinación de dos fenómenos: el polvo sahariano en suspensión y el humo del incendio declarado en Almorox (Toledo). Ambos factores reducen la visibilidad y alteran el aspecto habitual del.
-
-Date: 2026-07-22
-
-### Sale a la luz la razón por la que Can Yaman abandonó Italia: «No aguanto más el acoso…»
-
-Indiscutiblemente, el nombre del actor turco que más ha sonado durante los últimos meses ha sido el de Can Yaman . El popular actor se encuentra en nuestro país, concretamente en Madrid, porque se ha embarcado en su primer proyecto en español . Un nuevo reto profesional para él que enfrenta con mucha ilusión, pues ha a.
-
-Date: 2026-07-22
-
-### Así será la pretemporada del nuevo Real Madrid de Mourinho: Austria y el Teresa Herrera
-
-Fue el lunes pasado, 13 de julio, cuando arrancó la pretemporada del Real Madrid al mando, de nuevo, de José Mourinho. El entrenador portugués ha llevado.
-
-Date: 2026-07-22
-
-### El Real Madrid cierra el fichaje de Mikael Jantunen como relevo de Hezonja
-
-El proyecto madridista de baloncesto suma una pieza estratégica para su juego interior. La marcha de Mario Hezonja rumbo a la NBA —tras abonar el alero croata su cláusula de rescisión el pasado lunes— obligó a mover ficha con rapidez en las oficinas de Concha Espina. La respuesta del club blanco ha sido el anuncio de u.
-
-Date: 2026-07-22
-
 ## Fuentes
 
-- [Leonor Watling: «Las mujeres somos un tiro más fácil, los hombres son más difíciles de tumbar»](https://www.abc.es/play/series/noticias/cabeza-alta-pasa-intimidad-escapa-20260716202334-nt.html?utm_source=lootura.com) — 2026-07-23T00:00:09.000Z
+- ["No ha pasado lo peor": Feijóo aguarda la "traca final" de la corrupción del PSOE a la vuelta del verano](https://www.elconfidencial.com/espana/2026-07-23/feijoo-aguarda-traca-final-corrupcion-psoe-vuelta-verano_4394407/?utm_source=lootura.com) — 2026-07-23T03:00:00.000Z
+- [La Fuente de Cibeles abre por primera vez al público durante su restauración: así puedes conseguir entradas gratis para verla por dentro](https://www.elconfidencial.com/espana/madrid/2026-07-23/conseguir-entradas-gratis-fuente-cibeles-1tna-1qrt_4394552/?utm_source=lootura.com) — 2026-07-23T06:02:00.000Z
 - [Muere un trabajador durante «labores de mantenimiento» en una base de Renfe en Madrid](https://www.elcorreo.com/economia/empresas/muere-trabajador-labores-mantenimiento-base-renfe-madrid-20260722163457-ntrc_amp.html?utm_source=lootura.com) — 2026-07-22T14:34:57.000Z
 - [El fuego de Almorox llega a Madrid y activa la UME: confinan Villa del Prado y desalojan varias urbanizaciones](https://www.elmundo.es/madrid/2026/07/22/6a60f636fc6c83ba588b4570.html?utm_source=lootura.com) — 2026-07-22T19:41:19.000Z
 - [El incendio de la localidad toledana de Almorox salta a Madrid y se moviliza la UME](https://elpais.com/espana/madrid/2026-07-22/evacuado-el-encinar-del-alberche-y-confinado-villa-del-prado-en-madrid-por-un-incendio-en-la-localidad-toledana-de-almorox.html?utm_source=lootura.com) — 2026-07-22T17:53:58.000Z
-- [Crimen de Las Tablas: a Facundo lo asesinó Alberto, un marido obsesionado con la infidelidad de su esposa](https://elpais.com/espana/madrid/2026-07-22/crimen-de-las-tablas-a-facundo-lo-asesino-alberto-un-marido-obsesionado-con-la-infidelidad-de-su-esposa.html?utm_source=lootura.com) — 2026-07-22T12:53:31.000Z
-- [Luis Álvarez Cervera, el mito de la hípica española cumple 79 años](https://www.larazon.es/deportes/luis-alvarez-cervera-mito-hipica-espanola-cumple-79-anos_202607236a616b17da3add27d4dce917.html?utm_source=lootura.com) — 2026-07-23T01:15:03.000Z
+- [Madrid activa el aviso amarillo por calor con máximas de hasta 39 grados este jueves](https://www.larazon.es/economia/madrid-activa-aviso-amarillo-calor-maximas-39-grados-este-jueves_202607236a61b0664687a22bdec8e2ff.html?utm_source=lootura.com) — 2026-07-23T06:11:22.000Z
+- [Precio de la gasolina hoy 23 de julio: localiza las gasolineras más baratas de Madrid](https://okdiario.com/madrid/precio-gasolina-hoy-23-julio-localiza-gasolineras-mas-baratas-madrid-19030041/amp?utm_source=lootura.com) — 2026-07-23T06:15:56.000Z
+- [El tesoro que destrozas a pisotones en el campo, pero es una planta extinguida en Madrid y redescubierta en 2021 en Toledo](https://okdiario.com/naturaleza/tesoro-que-destrozas-pisotones-campo-pero-planta-extinguida-madrid-redescubierta-2021-toledo-18901933?utm_source=lootura.com) — 2026-07-23T06:00:38.000Z
+- [Antonio Banderas (65 años) recuerda cómo llegó a Madrid para perseguir su sueño: «Mi madre me cosió el dinero dentro del pantalón»](https://okdiario.com/cool/famosos/antonio-banderas-65-anos-recuerda-como-llego-madrid-perseguir-sueno-madre-cosio-dinero-dentro-del-pantalon-19051666?utm_source=lootura.com) — 2026-07-23T06:01:49.000Z

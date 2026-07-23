@@ -70,4 +70,4 @@ Date: 2026-07-19
 
 ## Fuentes
 
-- [Las imágenes del incendio de Villa del Prado: casas calcinadas y rescates ‘in extremis’ de la Guardia Civil](https://okdiario.com/madrid/imagenes-del-incendio-villa-del-prado-casas-calcinadas-rescates-in-extremis-guardia-civil-19051323?utm_source=lootura.com) — 2026-07-22T22:46:34.000Z
+No public source links.

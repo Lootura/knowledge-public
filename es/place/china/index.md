@@ -3,7 +3,7 @@
 > Sigue la actividad de China en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-23T02:31:05.539Z
+- Actualizado: 2026-07-23T06:28:35.711Z
 - Canonical: https://atlas.lootura.com/es/place/china
 
 ## Cambios recientes
@@ -14,15 +14,15 @@ El mapa industrial del automóvil en España vuelve a redibujarse con un movimie
 
 Date: 2026-07-23
 
-### La china Geely llega a un acuerdo con Ford para producir coches en su fábrica de Almussafes
-
-El presidente de Ford Europa, Jim Baumbick, oficializará el anuncio este jueves, en presencia de Pedro Sánchez y Juanfran Pérez Llorca, para garantizar la supervivencia de la planta valenciana Leer.
-
-Date: 2026-07-22
-
 ### La china Geely entra a producir sus coches a la planta valenciana de Ford, que tiene un excedente de 1.000 trabajadores
 
 La china producirá automóviles en una línea de montaje inactiva de Almussafes, que tiene a sus empleados en ERTE y que el año pasado hizo menos de 100.000 coches, la cuarta parte de su récord. A cambio, evitará los aranceles de esa producción Leer.
+
+Date: 2026-07-22
+
+### La china Geely llega a un acuerdo con Ford para producir coches en su fábrica de Almussafes
+
+El presidente de Ford Europa, Jim Baumbick, oficializará el anuncio este jueves, en presencia de Pedro Sánchez y Juanfran Pérez Llorca, para garantizar la supervivencia de la planta valenciana Leer.
 
 Date: 2026-07-22
 
@@ -70,6 +70,4 @@ Date: 2026-07-17
 
 ## Fuentes
 
-- [Ford y la china Geely firman un acuerdo histórico para fabricar en Almussafes](https://www.abc.es/motor/economia/ford-geely-firman-acuerdo-historico-fabricar-almussafes-20260722133717-nt.html?utm_source=lootura.com) — 2026-07-23T00:01:59.000Z
-- [La china Geely llega a un acuerdo con Ford para producir coches en su fábrica de Almussafes](https://www.elmundo.es/economia/empresas/2026/07/22/6a60c041fdddff05188b4581.html?utm_source=lootura.com) — 2026-07-22T16:55:15.000Z
 - [La china Geely entra a producir sus coches a la planta valenciana de Ford, que tiene un excedente de 1.000 trabajadores](https://www.elmundo.es/motor/2026/07/22/6a60f936e4d4d8eb788b4581.html?utm_source=lootura.com) — 2026-07-22T20:36:55.000Z

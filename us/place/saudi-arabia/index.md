@@ -3,7 +3,7 @@
 > Follow Saudi Arabia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-23T02:31:30.185Z
+- Updated: 2026-07-23T06:29:04.058Z
 - Canonical: https://atlas.lootura.com/us/place/saudi-arabia
 
 ## Recent changes
@@ -72,6 +72,5 @@ Date: 2026-07-22
 
 - [Latest on U.S.-Saudi nuclear deal, Trump threats against Iranian infrastructure](https://www.cbsnews.com/video/details-on-us-saudi-nuclear-deal-trump-threads-against-iranian-infrastructure/?utm_source=lootura.com) — 2026-07-22T20:00:09.000Z
 - [Critics warn U.S. nuclear power deal with Saudi Arabia could fuel proliferation](https://www.pbs.org/newshour/show/critics-warn-u-s-nuclear-power-deal-with-saudi-arabia-could-fuel-proliferation?utm_source=lootura.com) — 2026-07-22T22:50:47.000Z
-- [Houthis Claim Strikes on 2 Saudi Oil Tankers in Red Sea](https://www.nytimes.com/2026/07/22/world/middleeast/houthis-saudi-oil-tankers-red-sea.html?utm_source=lootura.com) — 2026-07-23T01:35:52.000Z
 - [Coveted U.S. Nuclear Deal Is a Coup for Saudi Crown Prince](https://www.nytimes.com/2026/07/22/world/middleeast/us-saudi-arabia-nuclear-deal.html?utm_source=lootura.com) — 2026-07-22T20:54:10.000Z
 - [See How Houthis Put the Red Sea at Risk as an Alternative Oil Route](https://www.nytimes.com/2026/07/22/business/energy-environment/red-sea-saudi-arabia-houthis.html?utm_source=lootura.com) — 2026-07-22T12:17:51.000Z

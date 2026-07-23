@@ -8,9 +8,14 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/el-gobierno/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/el-gobierno/index.json",
   "description": "Sigue la actividad de El Gobierno en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-23T02:31:05.539Z",
+  "updatedAt": "2026-07-23T06:28:35.711Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "El Gobierno declara la guerra al tabaco con la recaudación de los cigarrillos y vapeadores en máximos históricos",
+      "summary": "El Gobierno pretende que en España se fume cada vez en menos lugares. El proyecto de ley del tabaco aprobado esta semana por el Consejo de Ministros amplía los espacios sin humo a las terrazas , las playas, las piscinas de uso colectivo y otros espacios al aire libre, endurece las restricciones sobre los cigarrillos el.",
+      "date": "2026-07-23"
+    },
     {
       "title": "El Gobierno mide hoy sus apoyos en el último examen parlamentario del curso político",
       "summary": "Después del fracaso parlamentario del pasado martes, 14 de julio, el Gobierno se enfrenta hoy al último examen del Congreso de los Diputados antes de las vacaciones políticas de...",
@@ -55,32 +60,15 @@
       "title": "El Gobierno sigue manteniendo la \"inocencia\" de Zapatero y defiende como \"correcta\" la concesión del rescate a Plus Ultra",
       "summary": "El Gobierno ha reaccionado a las confesiones de Julio Martínez, presunto testaferro de José Luis Rodríguez Zapatero, y de los directivos de Plus Ultra, por boca de la portavoz...",
       "date": "2026-07-21"
-    },
-    {
-      "title": "El Gobierno reitera su confianza en Zapatero pese al nerviosismo creciente en el PSOE",
-      "summary": "La incomodidad es cada vez más palmaria, pero el Gobierno mantiene su apoyo a José Luis Rodríguez Zapatero tras el terremoto político que ha provocado Julio Martínez al señalar al expresidente como la persona que “marcaba los pasos a seguir” en el rescate de 53 millones de euros de Plus Ultra. Un giro en su estrategia.",
-      "date": "2026-07-21"
     }
   ],
   "sources": [
     {
-      "title": "El Gobierno rescató a Plus Ultra con una estructura de control accionarial falseada",
-      "url": "https://amp.elmundo.es/espana/2026/07/22/6a611098fc6c8380618b45a4.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-22T20:41:43.000Z",
-      "sourceId": "lootura-es-el-mundo"
-    },
-    {
-      "title": "El Gobierno mide hoy sus apoyos en el último examen parlamentario del curso político",
-      "url": "https://amp.expansion.com/economia/2026/07/23/6a610bd3e5fdea67198b45b6.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-23T00:04:26.000Z",
-      "sourceId": "lootura-es-expansion"
-    },
-    {
-      "title": "El Gobierno perseguirá a las gasolineras que incumplan los márgenes marcados por el decreto anticrisis",
-      "url": "https://www.larazon.es/economia/gobierno-perseguira-gasolineras-que-incumplan-margenes-marcados-decreto-anticrisis_202607236a616a62da3add27d4dce837.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-23T01:12:02.000Z",
-      "sourceId": "lootura-es-la-razon"
+      "title": "El Gobierno declara la guerra al tabaco con la recaudación de los cigarrillos y vapeadores en máximos históricos",
+      "url": "https://elpais.com/economia/2026-07-23/el-gobierno-declara-la-guerra-al-tabaco-con-la-recaudacion-de-los-cigarrillos-y-vapeadores-en-maximos-historicos.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-23T03:45:00.000Z",
+      "sourceId": "lootura-es-cinco-dias"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

@@ -8,9 +8,14 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/malaga/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/malaga/index.json",
   "description": "Sigue la actividad de Málaga en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-23T02:31:05.539Z",
+  "updatedAt": "2026-07-23T06:28:35.711Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "La Aemet sitúa a seis provincias andaluzas en aviso naranja por temperaturas de 42ºC",
+      "summary": "La Agencia Estatal de Meteorología (Aemet) ha activado para este jueves aviso naranja por calor en Almería, Cádiz, Córdoba, Granada, Jaén y Málaga por temperaturas máximas que podrían alcanzar los 41 grados y alerta amarilla por temperaturas máximas en Sevilla, así como por tormentas en la provincia de Almería que podr.",
+      "date": "2026-07-23"
+    },
     {
       "title": "El crimen de Benahavís (Málaga): víctima y autor se conocían, pero el Gobierno descarta por ahora la violencia machista",
       "summary": "El Ejecutivo desestima, «de momento», la violencia de género tras tomar declaración a la hija.",
@@ -55,11 +60,6 @@
       "title": "José María Almoguera aclara la polémica por la venta de la casa de María Teresa Campos: «Hemos confiado en alguien que la ha liado»",
       "summary": "José María Almoguera vuelve a situarse en el centro de la actualidad, aunque esta vez no es por su vida sentimental. El hijo de Carmen Borrego ha sido señalado tras la inesperada aparición de la casa que María Teresa Campos tenía en Málaga en un conocido portal inmobiliario. El inmueble, adquirido por la periodista en.",
       "date": "2026-07-17"
-    },
-    {
-      "title": "Los hoteleros de Málaga rechazan la moratoria que prohíbe levantar establecimientos turísticos",
-      "summary": "La patronal hotelera de la Costa del Sol (Aehcos) ha apelado este viernes al diálogo y a la seguridad jurídica ante la moratoria de tres años aprobada por el Ayuntamiento de Málaga para nuevos hoteles y apartamentos turísticos en suelo residencial, una medida que considera ineficaz para resolver el problema del acceso.",
-      "date": "2026-07-17"
     }
   ],
   "sources": [
@@ -68,7 +68,13 @@
       "url": "https://www.elcorreo.com/sociedad/crimen-benahavis-malaga-victima-autor-conocian-gobierno-20260722133842-ntrc.html?utm_source=lootura.com",
       "publishedAt": "2026-07-22T11:38:43.000Z",
       "sourceId": "lootura-es-el-correo"
+    },
+    {
+      "title": "La Aemet sitúa a seis provincias andaluzas en aviso naranja por temperaturas de 42ºC",
+      "url": "https://www.larazon.es/andalucia/aemet-situa-seis-provincias-andaluzas-aviso-naranja-temperaturas-42c_202607236a61ae20da3add27d4dd376b.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-23T06:01:04.000Z",
+      "sourceId": "lootura-es-la-razon"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 2
 }

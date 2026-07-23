@@ -3,7 +3,7 @@
 > Sigue la actividad de Artificial intelligence en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: topic
-- Actualizado: 2026-07-23T02:31:05.539Z
+- Actualizado: 2026-07-23T06:28:35.711Z
 - Canonical: https://atlas.lootura.com/es/topic/artificial-intelligence
 
 ## Cambios recientes
@@ -46,4 +46,4 @@ Date: 2026-07-10
 
 ## Fuentes
 
-- [Alphabet bate previsiones, pero no convence a unos inversores cada vez más escépticos con la IA](https://cincodias.elpais.com/companias/2026-07-22/alphabet-bate-previsiones-pero-no-convence-a-unos-inversores-cada-vez-mas-escepticos-con-la-ia.html?utm_source=lootura.com) — 2026-07-22T21:06:57.000Z
+- [Obras de mejora y nuevo modelo de gestión en el edificio Emeterio Arrese](https://www.diariovasco.com/tolosa-goierri/tolosa/obras-mejora-nuevo-modelo-gestion-edificio-emeterio-20260722154834-nt_amp.html?utm_source=lootura.com) — 2026-07-22T13:48:34.000Z

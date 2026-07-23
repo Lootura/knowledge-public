@@ -3,10 +3,16 @@
 > Sigue la actividad de mansión exclusiva en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: object
-- Actualizado: 2026-07-23T02:31:05.539Z
+- Actualizado: 2026-07-23T06:28:35.711Z
 - Canonical: https://atlas.lootura.com/es/object/casa-blanca
 
 ## Cambios recientes
+
+### El pacto nuclear de EE.UU. con Arabia Saudí hace temer una carrera atómica en Oriente Próximo
+
+Fuentes oficiales de la Casa Blanca han filtrado a los principales medios de prensa anglosajones que el presidente Trump ha cerrado un acuerdo para compartir tecnología nuclear con Arabia Saudí. El plan, que será sometido al Congreso de Estados Unidos para su aprobación, supone un cambio de política radical al no inclu.
+
+Date: 2026-07-23
 
 ### Trump autoriza un pacto nuclear que permitirá a Arabia Saudí enriquecer uranio
 
@@ -62,12 +68,7 @@ Casa Blanca first entered the public knowledge record with source-backed evidenc
 
 Date: 2026-07-14
 
-### Trump da marcha atrás en el peaje a los barcos que transitan por el estrecho de Ormuz
-
-Donald Trump dio marcha atrás este martes en su intención repentina de cobrar una tasa del 20% sobre toda la carga transportada por los barcos que atraviesen el estrecho de Ormuz. El presidente confirmó la retirada del plan durante la reunión bilateral que mantuvo en la Casa Blanca con el primer ministro de Irak, despu.
-
-Date: 2026-07-14
-
 ## Fuentes
 
+- [El pacto nuclear de EE.UU. con Arabia Saudí hace temer una carrera atómica en Oriente Próximo](https://www.abc.es/internacional/eeuu-arabia-saudi-firman-acuerdo-nuclear-despierta-20260722210722-nt.html?utm_source=lootura.com) — 2026-07-23T05:20:41.000Z
 - [Trump autoriza un pacto nuclear que permitirá a Arabia Saudí enriquecer uranio](https://elpais.com/internacional/2026-07-22/trump-autoriza-un-pacto-nuclear-que-permitira-a-arabia-saudi-enriquecer-uranio.html?utm_source=lootura.com) — 2026-07-22T19:34:04.000Z

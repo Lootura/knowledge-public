@@ -3,7 +3,7 @@
 > Follow United States, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-23T02:31:30.185Z
+- Updated: 2026-07-23T06:29:04.058Z
 - Canonical: https://atlas.lootura.com/us/place/united-states
 
 ## Recent changes
@@ -38,12 +38,6 @@ An Israeli minister sought to downplay the agreement, while critics said it coul
 
 Date: 2026-07-23
 
-### Staying in a job for the health insurance? About 1 in 4 Americans do, a survey says
-
-About 24% of U.S. employees stay in unwanted jobs just for health insurance, a report out Wednesday finds. Up significantly since 2021, the uptick in "job lock" is a concerning sign for the U.S. economy. (Image credit: Creative Images Lab).
-
-Date: 2026-07-22
-
 ### Trump’s 50% Tariffs on Canada: What to Know, and What’s Next
 
 The president said punishing 50 percent tariffs would begin by Aug. 19, a significant escalation of the trade war between Canada and the U.S. that he started over a year ago.
@@ -62,9 +56,15 @@ Despite U.S. assertions, the CEO of a maritime risk firm says "there is no guara
 
 Date: 2026-07-22
 
-### Trump will attend the dignified transfer of 4 U.S. service members killed in the Middle East
+### Latest on U.S.-Saudi nuclear deal, Trump threats against Iranian infrastructure
 
-The ritual is one of the most somber duties of a commander-in-chief.
+CBS News National security analyst Aaron MacLean breaks down President Trump's threats against Iranian infrastructure and the United States' new nuclear deal with Saudi Arabia.
+
+Date: 2026-07-22
+
+### Waltz clashes with Rep. Jackson over Cuba question: "Absolute propaganda"
+
+U.S. Ambassador to the United Nations Mike Waltz testified Wednesday in front of the House Foreign Affairs Committee, where he and Rep. Jonathan L. Jackson had a tense exchange on the current U.S.-Cuba situation.
 
 Date: 2026-07-22
 

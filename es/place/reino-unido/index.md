@@ -70,4 +70,4 @@ Date: 2026-07-20
 
 ## Fuentes
 
-- [Un 50% menos de combustible y 9200 km de autonomía: así es el primer avión a reacción de ala integrada del mundo](https://www.larazon.es/tecnologia-consumo/50-menos-combustible-9200-km-autonomia-asi-es-primer-avion-reaccion-ala-integrada-mundo_202607226a6070f54687a22bdec6fd24.html?utm_source=lootura.com) — 2026-07-22T21:00:00.000Z
+No public source links.

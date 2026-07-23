@@ -70,4 +70,4 @@ Date: 2026-07-19
 
 ## Fuentes
 
-- [Sumar acusa a Ferran Torres de «especular» con la vivienda en Valencia](https://www.elcorreo.com/deportes/futbol/mundial/sumar-acusa-ferran-torres-especular-vivienda-valencia-20260722074216-nt_amp.html?utm_source=lootura.com) — 2026-07-22T05:42:16.000Z
+No public source links.

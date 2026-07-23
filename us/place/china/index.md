@@ -3,7 +3,7 @@
 > Follow China, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-23T02:31:30.185Z
+- Updated: 2026-07-23T06:29:04.058Z
 - Canonical: https://atlas.lootura.com/us/place/china
 
 ## Recent changes

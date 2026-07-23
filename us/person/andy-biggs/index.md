@@ -58,4 +58,4 @@ Date: 2026-07-22
 
 ## Sources
 
-- [Andy Biggs wins Republican nomination to challenge Democrat Katie Hobbs for Arizona governor](https://www.pbs.org/newshour/politics/andy-biggs-wins-republican-nomination-to-challenge-democrat-katie-hobbs-for-arizona-governor?utm_source=lootura.com) — 2026-07-22T14:53:48.000Z
+No public source links.

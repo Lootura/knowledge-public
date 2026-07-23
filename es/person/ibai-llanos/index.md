@@ -3,20 +3,26 @@
 > Sigue la actividad de Ibai Llanos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-21T02:27:26.549Z
+- Actualizado: 2026-07-23T06:28:35.711Z
 - Canonical: https://atlas.lootura.com/es/person/ibai-llanos
 
 ## Cambios recientes
 
-### Moncloa cambia el protocolo con la selección: escenario, público y preguntas de Ibai Llanos
+### Quién es Angie Velasco, la influencer argentina que se enfrenta a una antigua amiga en La Velada
 
-La Selección española de fútbol, flamante campeona del mundo , ha sido recibida este lunes en el Palacio de la Moncloa por el presidente del Gobierno , Pedro Sánchez , y por el personal del recinto. Lo que suele ser un evento protocolario cerrado y sobrio, ha sido una auténtica fiesta: un escenario en los jardines del.
+La cuenta atrás para La Velada del Año V ya ha comenzado y uno de los nombres propios del evento organizado por Ibai Llanos es el de Angie Velasco . La creadora de contenido argentina será una de las protagonistas de la edición de 2026, en la que se subirá por primera vez al ring para enfrentarse a la influencer puerto.
 
-Date: 2026-07-20
+Date: 2026-07-23
 
 ### Discovered by Atlas
 
 Ibai Llanos first entered the public knowledge record with source-backed evidence.
+
+Date: 2026-07-20
+
+### Moncloa cambia el protocolo con la selección: escenario, público y preguntas de Ibai Llanos
+
+La Selección española de fútbol, flamante campeona del mundo , ha sido recibida este lunes en el Palacio de la Moncloa por el presidente del Gobierno , Pedro Sánchez , y por el personal del recinto. Lo que suele ser un evento protocolario cerrado y sobrio, ha sido una auténtica fiesta: un escenario en los jardines del.
 
 Date: 2026-07-20
 
@@ -28,4 +34,4 @@ Date: 2026-07-20
 
 ## Fuentes
 
-No public source links.
+- [Quién es Angie Velasco, la influencer argentina que se enfrenta a una antigua amiga en La Velada](https://www.larazon.es/gente/quien-angie-velasco-influencer-argentina-que-enfrenta-antigua-amiga-velada-b50m_202607236a61b00daa17c0020f2b02b0.html?utm_source=lootura.com) — 2026-07-23T06:09:17.000Z

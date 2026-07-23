@@ -3,10 +3,22 @@
 > Sigue la actividad de José Luis Rodríguez Zapatero en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-23T02:31:05.539Z
+- Actualizado: 2026-07-23T06:28:35.711Z
 - Canonical: https://atlas.lootura.com/es/person/rodriguez-zapatero
 
 ## Cambios recientes
+
+### Zapatero dará su primera entrevista este jueves en TVE tras su imputación en el 'caso Plus Ultra'
+
+El expresidente del Gobierno José Luis Rodríguez Zapatero será entrevistado este jueves en Mañaneros 360 de TVE, según ha informado la cadena. Zapatero.
+
+Date: 2026-07-23
+
+### ZP sin paracaídas y sin suerte
+
+Quienes creíamos conocer a José Luis Rodríguez Zapatero nos hemos quedado de piedra al ver las chapuzas e ilegalidades cometidas por este hombre, al que creíamos honrado y protegido por la suerte. Veamos esto último. Tras la renuncia de Felipe González, aspiraron a la Secretaría General del PSOE cuatro candidatos: Bono.
+
+Date: 2026-07-23
 
 ### "Si Julio Martínez quiere equipararse a Aldama, tiene que aportar más"
 
@@ -56,20 +68,7 @@ La defensa férrea de José Luis Rodríguez Zapatero por parte de Pedro Sánchez
 
 Date: 2026-07-22
 
-### Julio Martínez complica el futuro judicial de Zapatero aunque no despeja la X que pondría en serios aprietos a Moncloa
-
-La declaración de Julio Martínez Martínez y los escritos que tanto él como dos altos cargos de Plus Ultra han remitido esta semana a la Audiencia Nacional han complicado seriamente el futuro judicial de José Luis Rodríguez Zapatero . Los tres investigados corroboran ahora los informes de la UDEF y señalan que el expres.
-
-Date: 2026-07-22
-
-### La causa contra Zapatero sitúa ahora el foco en la cúpula de Plus Ultra tras contradecir la versión del expresidente
-
-Julio Martínez Martínez entró sobre las 8.45 de este martes en la Audiencia Nacional y salió más de cuatro horas después sin moverse mucho de la línea marcada un día antes en el escrito enviado al juez José Luis Calama para implicar al expresidente José Luis Rodríguez Zapatero en el rescate de Plus Ultra . El giro del.
-
-Date: 2026-07-22
-
 ## Fuentes
 
-- ["Si Julio Martínez quiere equipararse a Aldama, tiene que aportar más"](https://www.larazon.es/espana/julio-martinez-quiere-equipararse-aldama-tiene-que-aportar-mas_202607236a60ffcbda3add27d4dc60b4.html?utm_source=lootura.com) — 2026-07-23T00:00:13.000Z
-- [Zapatero romperá su silencio este jueves en TVE en su primera entrevista tras la imputación](https://theobjective.com/espana/politica/2026-07-22/zapatero-entrevista-tve-imputacion/?utm_source=lootura.com) — 2026-07-22T18:19:35.000Z
-- [Podcast | Zapatero, tocado y hundido](https://theobjective.com/podcasts/objetivo-directo-podcast/podcast-objetivo-directo-zapatero-tocado-hundido/?utm_source=lootura.com) — 2026-07-22T18:42:45.000Z
+- [Zapatero dará su primera entrevista este jueves en TVE tras su imputación en el 'caso Plus Ultra'](https://theobjective.com/espana/politica/2026-07-23/zapatero-primera-entrevista-tve/?amp=&utm_source=lootura.com) — 2026-07-23T05:48:52.000Z
+- [ZP sin paracaídas y sin suerte](https://theobjective.com/elsubjetivo/opinion/2026-07-23/zapatero-suerte-articulo-joaquin-leguina/?utm_source=lootura.com) — 2026-07-23T03:25:00.000Z

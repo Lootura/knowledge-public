@@ -52,4 +52,4 @@ Date: 2026-07-22
 
 ## Fuentes
 
-- [Narbona niega haber promocionado a Leire Díez: “Yo no soy la madrina de nadie”](https://elpais.com/espana/2026-07-22/narbona-niega-haber-promocionado-a-leire-diez-yo-no-soy-la-madrina-de-nadie.html?utm_source=lootura.com) — 2026-07-22T13:57:33.000Z
+No public source links.

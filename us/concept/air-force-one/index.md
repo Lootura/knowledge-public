@@ -3,7 +3,7 @@
 > Follow Air Force One, a tracked concept, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: concept
-- Updated: 2026-07-21T21:06:38.270Z
+- Updated: 2026-07-23T06:29:04.058Z
 - Canonical: https://atlas.lootura.com/us/concept/air-force-one
 
 ## Recent changes
@@ -70,4 +70,4 @@ Date: 2026-07-20
 
 ## Sources
 
-No public source links.
+- [Trump attends dignified transfer of U.S. troops](https://www.nbcnews.com/nightly-news/video/trump-attends-dignified-transfer-of-u-s-troops-267132997610?utm_source=lootura.com) — 2026-07-22T23:47:29.000Z

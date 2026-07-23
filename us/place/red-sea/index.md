@@ -3,10 +3,16 @@
 > Follow Red Sea, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-23T02:31:30.185Z
+- Updated: 2026-07-23T06:29:04.058Z
 - Canonical: https://atlas.lootura.com/us/place/red-sea
 
 ## Recent changes
+
+### Houthis claim strikes on two Saudi tankers as US attacks on Iran widen
+
+Attacks by Iranian-aligned Houthis in Red Sea follow Trump threats to destroy more Iranian infrastructure Yemen’s ⁠Houthi militia attacked two ​Saudi Arabian oil tankers, the Iranian-aligned group said on Thursday, with a Saudi news agency later confirming one of the vessels was ablaze in the Red Sea. The threat of new.
+
+Date: 2026-07-23
 
 ### Houthis Claim Strikes on 2 Saudi Oil Tankers in Red Sea
 
@@ -58,5 +64,5 @@ Date: 2026-07-21
 
 ## Sources
 
-- [Houthis Claim Strikes on 2 Saudi Oil Tankers in Red Sea](https://www.nytimes.com/2026/07/22/world/middleeast/houthis-saudi-oil-tankers-red-sea.html?utm_source=lootura.com) — 2026-07-23T01:35:52.000Z
+- [Houthis claim strikes on two Saudi tankers as US attacks on Iran widen](https://www.theguardian.com/world/2026/jul/23/houthis-claim-attack-ship-tanker-saudi-arabia-red-sea?utm_source=lootura.com) — 2026-07-23T04:19:03.000Z
 - [See How Houthis Put the Red Sea at Risk as an Alternative Oil Route](https://www.nytimes.com/2026/07/22/business/energy-environment/red-sea-saudi-arabia-houthis.html?utm_source=lootura.com) — 2026-07-22T12:17:51.000Z

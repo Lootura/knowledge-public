@@ -3,10 +3,22 @@
 > Sigue la actividad de La Mancha en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-23T02:31:05.539Z
+- Actualizado: 2026-07-23T06:28:35.711Z
 - Canonical: https://atlas.lootura.com/es/place/la-mancha
 
 ## Cambios recientes
+
+### Incendios en España, en directo hoy: Mejora la situación de Almorox y esperan estabilizarlo en unas horas
+
+Los servicios de emergencia continúan trabajando en varios incendios forestales activos en distintos puntos de España, con especial atención a la evolución de los fuegos declarados en Castilla-La Mancha, Cataluña, Castilla y León, Andalucía y Aragón.
+
+Date: 2026-07-23
+
+### La mejor planta floral y aromática que puedes poner en el jardín en Castilla La-Mancha: necesita todas las horas de sol posibles
+
+La lavanda se ha convertido en una de las plantas favoritas para quienes buscan un jardín resistente, aromático y fácil de mantener en Castilla-La Mancha . Su capacidad para soportar tanto los inviernos fríos como los veranos secos y calurosos de la región la convierten en una apuesta segura para parcelas, patios y zon.
+
+Date: 2026-07-23
 
 ### El incendio de Guadalajara entra en fase de “estabilización” tras arrasar más de 32.000 hectáreas
 
@@ -56,18 +68,7 @@ El Gobierno de Castilla-La Mancha se encuentra perfilando una estrategia de actu
 
 Date: 2026-07-19
 
-### Incendios en España, en directo hoy: última hora de los fuegos activos, evolución y situación en Aragón, Castilla-La Mancha, Madrid y Andalucía
-
-Sigue en directo la última hora de los incendios forestales activos en España.
-
-Date: 2026-07-19
-
-### Discovered by Atlas
-
-La Mancha first entered the public knowledge record with source-backed evidence.
-
-Date: 2026-07-18
-
 ## Fuentes
 
-- [El incendio de Guadalajara entra en fase de “estabilización” tras arrasar más de 32.000 hectáreas](https://elpais.com/espana/2026-07-22/el-incendio-de-guadalajara-entra-en-fase-de-estabilizacion-tras-arrasar-mas-de-32000-hectareas.html?utm_source=lootura.com) — 2026-07-22T11:03:06.000Z
+- [Incendios en España, en directo hoy: Mejora la situación de Almorox y esperan estabilizarlo en unas horas](https://www.larazon.es/sociedad/incendios-espana-directo-hoy-ultima-hora-fuegos-activos-operativos-extincion_202607236a6192fada3add27d4dd1811.html?outputType=amp&utm_source=lootura.com) — 2026-07-23T06:25:15.000Z
+- [La mejor planta floral y aromática que puedes poner en el jardín en Castilla La-Mancha: necesita todas las horas de sol posibles](https://okdiario.com/naturaleza/mejor-planta-floral-aromatica-que-puedes-poner-jardin-castilla-mancha-necesita-todas-horas-sol-posibles-18892358?utm_source=lootura.com) — 2026-07-23T06:15:15.000Z

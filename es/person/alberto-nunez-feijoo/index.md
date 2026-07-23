@@ -3,10 +3,22 @@
 > Sigue la actividad de Alberto Núñez Feijóo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-23T02:31:05.539Z
+- Actualizado: 2026-07-23T06:28:35.711Z
 - Canonical: https://atlas.lootura.com/es/person/alberto-nunez-feijoo
 
 ## Cambios recientes
+
+### "No ha pasado lo peor": Feijóo aguarda la "traca final" de la corrupción del PSOE a la vuelta del verano
+
+Pilotar la bancada de la oposición no entraba en los planes de Alberto Núñez Feijóo cuando decidió saltar a Madrid hace ya más de cuatro años, que en política es toda una eternidad. Pero el líder popular divisa ya la luz al final del túnel. La legislatura finalizará, como máximo, dentro de un año y en Génova ven comple.
+
+Date: 2026-07-23
+
+### Feijóo promete una "reconstrucción nacional" y reformas estructurales: "Hacienda dejará de ser el gran beneficiario"
+
+Activa la "cuenta atrás" hacia La Moncloa y plantea un plan de regeneración institucional, más "gestión" y rebajas fiscales a familia y autónomos Leer.
+
+Date: 2026-07-22
 
 ### Feijóo sitúa a Sánchez como "el señor X" de todos los casos del PSOE y promete "una limpieza a fondo" de las instituciones
 
@@ -17,12 +29,6 @@ Date: 2026-07-22
 ### Morant: «Feijóo está dibujando una coalición que se parece a un gobierno criminal de Hitler»
 
 La ministra de Ciencia, Innovación y Universidades, Diana Morant , ha vaticinado que el líder del PP, Alberto Núñez Feijóo , «está dibujando» un próximo ejecutivo de coalición que se parece «cada vez más a esos gobiernos criminales como el de Hitler », en referencia al que fuera dictador alemán. En una entrevista en TV.
-
-Date: 2026-07-22
-
-### Feijóo promete una "reconstrucción nacional" y reformas estructurales: "Hacienda dejará de ser el gran beneficiario"
-
-Activa la "cuenta atrás" hacia La Moncloa y plantea un plan de regeneración institucional, más "gestión" y rebajas fiscales a familia y autónomos Leer.
 
 Date: 2026-07-22
 
@@ -62,14 +68,7 @@ Alberto Núñez Feijóo ha decidido dejar de mirar el calendario de Pedro Sánch
 
 Date: 2026-07-20
 
-### La CEOE pide detectar a «los profesionales» del absentismo y alaba a Feijóo
-
-El presidente de la CEOE , Antonio Garamendi , ha exigido «detectar a los profesionales» en no ir a trabajar y, tras denunciar que «no se hace nada» para arreglar el problema del absentismo, valora que Alberto Núñez Feijóo , «coja el guante y diga que hay un problema». En una entrevista publicada en El Correo , Garamen.
-
-Date: 2026-07-19
-
 ## Fuentes
 
+- ["No ha pasado lo peor": Feijóo aguarda la "traca final" de la corrupción del PSOE a la vuelta del verano](https://www.elconfidencial.com/espana/2026-07-23/feijoo-aguarda-traca-final-corrupcion-psoe-vuelta-verano_4394407/?utm_source=lootura.com) — 2026-07-23T03:00:00.000Z
 - [Feijóo promete una "reconstrucción nacional" y reformas estructurales: "Hacienda dejará de ser el gran beneficiario"](https://www.elmundo.es/espana/2026/07/22/6a611444e4d4d8850e8b4588.html?utm_source=lootura.com) — 2026-07-22T20:38:09.000Z
-- [Feijóo sitúa a Sánchez como "el señor X" de todos los casos del PSOE y promete "una limpieza a fondo" de las instituciones](https://amp.elmundo.es/espana/2026/07/22/6a609c9be85ecedc108b4578.html?utm_source=lootura.com) — 2026-07-22T10:46:17.000Z
-- [Morant: «Feijóo está dibujando una coalición que se parece a un gobierno criminal de Hitler»](https://theobjective.com/espana/politica/2026-07-22/morant-feijoo-coalicion-gobierno-criminal-hitler/?utm_source=lootura.com) — 2026-07-22T18:33:50.000Z

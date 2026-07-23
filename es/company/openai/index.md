@@ -40,4 +40,4 @@ Date: 2026-07-15
 
 ## Fuentes
 
-- [Un nuevo modelo de OpenAI provoca un ataque “sin precedentes” contra otra plataforma de inteligencia artificial](https://elpais.com/tecnologia/2026-07-22/un-nuevo-modelo-de-openai-provoca-un-ataque-sin-precedentes-contra-otra-plataforma-de-inteligencia-artificial.html?utm_source=lootura.com) — 2026-07-22T11:50:39.000Z
+No public source links.

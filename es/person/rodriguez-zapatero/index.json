@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/rodriguez-zapatero/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/rodriguez-zapatero/index.json",
   "description": "Sigue la actividad de José Luis Rodríguez Zapatero en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-23T02:31:05.539Z",
+  "updatedAt": "2026-07-23T06:28:35.711Z",
   "aliases": [
     "José Luis Rodríguez",
     "Rodríguez",
@@ -16,6 +16,16 @@
     "Zapatero"
   ],
   "changes": [
+    {
+      "title": "Zapatero dará su primera entrevista este jueves en TVE tras su imputación en el 'caso Plus Ultra'",
+      "summary": "El expresidente del Gobierno José Luis Rodríguez Zapatero será entrevistado este jueves en Mañaneros 360 de TVE, según ha informado la cadena. Zapatero.",
+      "date": "2026-07-23"
+    },
+    {
+      "title": "ZP sin paracaídas y sin suerte",
+      "summary": "Quienes creíamos conocer a José Luis Rodríguez Zapatero nos hemos quedado de piedra al ver las chapuzas e ilegalidades cometidas por este hombre, al que creíamos honrado y protegido por la suerte. Veamos esto último. Tras la renuncia de Felipe González, aspiraron a la Secretaría General del PSOE cuatro candidatos: Bono.",
+      "date": "2026-07-23"
+    },
     {
       "title": "\"Si Julio Martínez quiere equipararse a Aldama, tiene que aportar más\"",
       "summary": "La anunciada colaboración con la Justicia del empresario Julio Martínez, clave en la supuesta trama de tráfico de influencias en torno a José Luis Rodríguez Zapatero, dejó el pasado martes entre las acusaciones un cierto sabor agridulce. «Julito» llegó a la Audiencia Nacional con la vitola de su confesión por escrito d.",
@@ -55,37 +65,21 @@
       "title": "Sánchez fuerza una defensa a ciegas a pesar de que Moncloa admite el \"riesgo\" de que \"puede salir mal\"",
       "summary": "La defensa férrea de José Luis Rodríguez Zapatero por parte de Pedro Sánchez comenzó en el mismo momento de su imputación. El presidente ordenó cerrar filas con él incluso antes de conocer los argumentos del juez y mantiene desde entonces un respaldo que en Moncloa justifican casi como un acto de fe y de lealtad . No e.",
       "date": "2026-07-22"
-    },
-    {
-      "title": "Julio Martínez complica el futuro judicial de Zapatero aunque no despeja la X que pondría en serios aprietos a Moncloa",
-      "summary": "La declaración de Julio Martínez Martínez y los escritos que tanto él como dos altos cargos de Plus Ultra han remitido esta semana a la Audiencia Nacional han complicado seriamente el futuro judicial de José Luis Rodríguez Zapatero . Los tres investigados corroboran ahora los informes de la UDEF y señalan que el expres.",
-      "date": "2026-07-22"
-    },
-    {
-      "title": "La causa contra Zapatero sitúa ahora el foco en la cúpula de Plus Ultra tras contradecir la versión del expresidente",
-      "summary": "Julio Martínez Martínez entró sobre las 8.45 de este martes en la Audiencia Nacional y salió más de cuatro horas después sin moverse mucho de la línea marcada un día antes en el escrito enviado al juez José Luis Calama para implicar al expresidente José Luis Rodríguez Zapatero en el rescate de Plus Ultra . El giro del.",
-      "date": "2026-07-22"
     }
   ],
   "sources": [
     {
-      "title": "\"Si Julio Martínez quiere equipararse a Aldama, tiene que aportar más\"",
-      "url": "https://www.larazon.es/espana/julio-martinez-quiere-equipararse-aldama-tiene-que-aportar-mas_202607236a60ffcbda3add27d4dc60b4.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-23T00:00:13.000Z",
-      "sourceId": "lootura-es-la-razon"
-    },
-    {
-      "title": "Zapatero romperá su silencio este jueves en TVE en su primera entrevista tras la imputación",
-      "url": "https://theobjective.com/espana/politica/2026-07-22/zapatero-entrevista-tve-imputacion/?utm_source=lootura.com",
-      "publishedAt": "2026-07-22T18:19:35.000Z",
+      "title": "Zapatero dará su primera entrevista este jueves en TVE tras su imputación en el 'caso Plus Ultra'",
+      "url": "https://theobjective.com/espana/politica/2026-07-23/zapatero-primera-entrevista-tve/?amp=&utm_source=lootura.com",
+      "publishedAt": "2026-07-23T05:48:52.000Z",
       "sourceId": "lootura-es-the-objective"
     },
     {
-      "title": "Podcast | Zapatero, tocado y hundido",
-      "url": "https://theobjective.com/podcasts/objetivo-directo-podcast/podcast-objetivo-directo-zapatero-tocado-hundido/?utm_source=lootura.com",
-      "publishedAt": "2026-07-22T18:42:45.000Z",
+      "title": "ZP sin paracaídas y sin suerte",
+      "url": "https://theobjective.com/elsubjetivo/opinion/2026-07-23/zapatero-suerte-articulo-joaquin-leguina/?utm_source=lootura.com",
+      "publishedAt": "2026-07-23T03:25:00.000Z",
       "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 2
 }

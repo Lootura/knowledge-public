@@ -3,10 +3,16 @@
 > Sigue la actividad de El Gobierno en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-23T02:31:05.539Z
+- Actualizado: 2026-07-23T06:28:35.711Z
 - Canonical: https://atlas.lootura.com/es/organization/el-gobierno
 
 ## Cambios recientes
+
+### El Gobierno declara la guerra al tabaco con la recaudación de los cigarrillos y vapeadores en máximos históricos
+
+El Gobierno pretende que en España se fume cada vez en menos lugares. El proyecto de ley del tabaco aprobado esta semana por el Consejo de Ministros amplía los espacios sin humo a las terrazas , las playas, las piscinas de uso colectivo y otros espacios al aire libre, endurece las restricciones sobre los cigarrillos el.
+
+Date: 2026-07-23
 
 ### El Gobierno mide hoy sus apoyos en el último examen parlamentario del curso político
 
@@ -62,14 +68,6 @@ El Gobierno ha reaccionado a las confesiones de Julio Martínez, presunto testaf
 
 Date: 2026-07-21
 
-### El Gobierno reitera su confianza en Zapatero pese al nerviosismo creciente en el PSOE
-
-La incomodidad es cada vez más palmaria, pero el Gobierno mantiene su apoyo a José Luis Rodríguez Zapatero tras el terremoto político que ha provocado Julio Martínez al señalar al expresidente como la persona que “marcaba los pasos a seguir” en el rescate de 53 millones de euros de Plus Ultra. Un giro en su estrategia.
-
-Date: 2026-07-21
-
 ## Fuentes
 
-- [El Gobierno rescató a Plus Ultra con una estructura de control accionarial falseada](https://amp.elmundo.es/espana/2026/07/22/6a611098fc6c8380618b45a4.html?utm_source=lootura.com) — 2026-07-22T20:41:43.000Z
-- [El Gobierno mide hoy sus apoyos en el último examen parlamentario del curso político](https://amp.expansion.com/economia/2026/07/23/6a610bd3e5fdea67198b45b6.html?utm_source=lootura.com) — 2026-07-23T00:04:26.000Z
-- [El Gobierno perseguirá a las gasolineras que incumplan los márgenes marcados por el decreto anticrisis](https://www.larazon.es/economia/gobierno-perseguira-gasolineras-que-incumplan-margenes-marcados-decreto-anticrisis_202607236a616a62da3add27d4dce837.html?utm_source=lootura.com) — 2026-07-23T01:12:02.000Z
+- [El Gobierno declara la guerra al tabaco con la recaudación de los cigarrillos y vapeadores en máximos históricos](https://elpais.com/economia/2026-07-23/el-gobierno-declara-la-guerra-al-tabaco-con-la-recaudacion-de-los-cigarrillos-y-vapeadores-en-maximos-historicos.html?utm_source=lootura.com) — 2026-07-23T03:45:00.000Z

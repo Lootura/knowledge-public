@@ -3,10 +3,16 @@
 > Sigue la actividad de La Mierla en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-23T02:31:05.539Z
+- Actualizado: 2026-07-23T06:28:35.711Z
 - Canonical: https://atlas.lootura.com/es/place/la-mierla
 
 ## Cambios recientes
+
+### Consulta el mapa de incendios en España en tiempo real: focos activos en La Mierla (Guadalajara), Almorox (Toledo), Aragón, Andalucía, en directo
+
+La evolución de los principales focos obliga a mantener un amplio dispositivo de emergencia mientras miles de hectáreas siguen afectadas y varias localidades permanecen pendientes de la evolución de las llamas.
+
+Date: 2026-07-23
 
 ### El incendio de Guadalajara entra en fase de “estabilización” tras arrasar más de 32.000 hectáreas
 
@@ -62,12 +68,6 @@ La provincia de Guadalajara sufre un verano más la devastación de las llamas c
 
 Date: 2026-07-19
 
-### El incendio de La Mierla ha arrasado 13.000 hectáreas tras avanzar 14 kilómetros en Guadalajara durante la noche
-
-Además de las 16 localidades previamente evacuadas, se ha notificado a Prádena de Atienza, Robledo de Corpes, Aldeanueva de Atienza y Naharros que abandonen sus casas "con tranquilidad", según detalla la consejera de Desarrollo Sostenible, Mercedes Gómez, pues el fuego " todavía no va a alcanzarlas". El fuego iguala ya.
-
-Date: 2026-07-19
-
 ## Fuentes
 
-- [El incendio de Guadalajara entra en fase de “estabilización” tras arrasar más de 32.000 hectáreas](https://elpais.com/espana/2026-07-22/el-incendio-de-guadalajara-entra-en-fase-de-estabilizacion-tras-arrasar-mas-de-32000-hectareas.html?utm_source=lootura.com) — 2026-07-22T11:03:06.000Z
+- [Consulta el mapa de incendios en España en tiempo real: focos activos en La Mierla (Guadalajara), Almorox (Toledo), Aragón, Andalucía, en directo](https://www.elconfidencial.com/espana/2026-07-23/1qrt-mapa-incendios-espana-directo-mierla-almorox-andalucia-focos-activos_4394031/?utm_source=lootura.com) — 2026-07-23T06:03:00.000Z

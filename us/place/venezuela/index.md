@@ -64,4 +64,4 @@ Date: 2026-07-08
 
 ## Sources
 
-- [Venezuela's Nicolás Maduro back to court for pretrial hearing in his U.S. drug trafficking case](https://www.pbs.org/newshour/world/venezuelas-nicolas-maduro-back-to-court-for-pretrial-hearing-in-his-u-s-drug-trafficking-case?utm_source=lootura.com) — 2026-07-22T15:29:08.000Z
+No public source links.

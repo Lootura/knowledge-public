@@ -40,5 +40,4 @@ Date: 2026-07-22
 
 ## Fuentes
 
-- [Bruselas autoriza con condiciones la compra de Warner con Paramount](https://elpais.com/economia/2026-07-22/bruselas-autoriza-con-condiciones-la-compra-de-warner-con-paramount.html?utm_source=lootura.com) — 2026-07-22T18:54:17.000Z
-- [La Comisión Europea se limita a confirmar que ha recibido la denuncia de Puigdemont: "No tenemos más comentarios"](https://www.elmundo.es/espana/2026/07/22/6a60c810fdddff07098b457d.html?utm_source=lootura.com) — 2026-07-22T14:08:31.000Z
+No public source links.

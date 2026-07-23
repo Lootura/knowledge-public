@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/democratic-party/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/democratic-party/index.json",
   "description": "Follow Democratic Party, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-23T02:31:30.185Z",
+  "updatedAt": "2026-07-23T06:29:04.058Z",
   "aliases": [
     "Democrats"
   ],
@@ -19,13 +19,18 @@
       "date": "2026-07-23"
     },
     {
+      "title": "Trump’s Plan for Science: More Money for A.I., Less for Universities",
+      "summary": "Michael Kratsios, President Trump’s science adviser, proposed overhauling how the government funds research. Democrats said Mr. Trump’s actions had weakened science.",
+      "date": "2026-07-22"
+    },
+    {
       "title": "South Carolina and Nevada Fight to Kick Off Democrats’ 2028 Presidential Calendar",
       "summary": "The calendar order could be hugely important to the 2028 presidential primary race. Democratic insiders will try to sketch out a schedule this week, and rival states are sniping at one another.",
       "date": "2026-07-22"
     },
     {
-      "title": "Trump’s Plan for Science: More Money for A.I., Less for Universities",
-      "summary": "Michael Kratsios, President Trump’s science adviser, proposed overhauling how the government funds research. Democrats said Mr. Trump’s actions had weakened science.",
+      "title": "South Carolina and Nevada Fight to Kick Off Democrats’ 2028 Presidential Calendar",
+      "summary": "The calendar order could be hugely important to the 2028 presidential primary race. Democratic insiders will try to sketch out a schedule this week, and rival states are sniping at one another.",
       "date": "2026-07-22"
     },
     {
@@ -57,14 +62,15 @@
       "title": "Democrats’ Top Senate Candidate in Maine Won’t Support Schumer for Leader",
       "summary": "Troy Jackson, who is set to become the party’s nominee, also said in an interview that he was not sure he wanted the support of Senator Chuck Schumer in the general election.",
       "date": "2026-07-21"
-    },
-    {
-      "title": "Arizona primaries set the stage for contested fall races in a swing state",
-      "summary": "Arizona Democrats choose who can try to flip a Republican-held House seat, and Republicans pick their nominee to try to unseat a Democratic governor. (Image credit: Ross D. Franklin).",
-      "date": "2026-07-21"
     }
   ],
   "sources": [
+    {
+      "title": "South Carolina and Nevada Fight to Kick Off Democrats’ 2028 Presidential Calendar",
+      "url": "https://www.nytimes.com/2026/07/22/us/politics/south-carolina-nevada-democrats-2028-presidential-calendar.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-22T20:30:40.000Z",
+      "sourceId": "lootura-us-the-new-york-times"
+    },
     {
       "title": "Trump’s Plan for Science: More Money for A.I., Less for Universities",
       "url": "https://www.nytimes.com/2026/07/22/us/politics/trump-research-funding-artificial-intelligence.html?utm_source=lootura.com",
@@ -72,15 +78,9 @@
       "sourceId": "lootura-us-the-new-york-times-politics"
     },
     {
-      "title": "South Carolina and Nevada Fight to Kick Off Democrats’ 2028 Presidential Calendar",
-      "url": "https://www.nytimes.com/2026/07/22/us/politics/south-carolina-nevada-democrats-2028-presidential-calendar.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-22T20:30:40.000Z",
-      "sourceId": "lootura-us-the-new-york-times-politics"
-    },
-    {
       "title": "House Passes Defense Bill Amid Iran War Divide",
       "url": "https://www.nytimes.com/2026/07/22/us/politics/house-defense-bill-iran-war.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-23T01:10:28.000Z",
+      "publishedAt": "2026-07-23T01:10:29.000Z",
       "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],

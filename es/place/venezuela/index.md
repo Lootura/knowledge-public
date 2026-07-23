@@ -70,4 +70,4 @@ Date: 2026-07-15
 
 ## Fuentes
 
-- [Trump blinda a Delcy hasta que celebre elecciones en Venezuela dentro de un año](https://www.abc.es/internacional/trump-blinda-temporalmente-delcy-prepara-elecciones-venezuela-20260721195048-nt.html?utm_source=lootura.com) — 2026-07-22T20:30:40.000Z
+No public source links.

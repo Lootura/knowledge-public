@@ -70,4 +70,4 @@ Date: 2026-07-17
 
 ## Fuentes
 
-- [Galaxy Watch Ultra 2 vs. Apple Watch Ultra 3: ¿cuál es mejor?](https://hipertextual.com/mobile/galaxy-watch-ultra-2-vs-apple-watch-ultra-3-comparativa/?utm_source=lootura.com) — 2026-07-22T18:13:44.000Z
+No public source links.

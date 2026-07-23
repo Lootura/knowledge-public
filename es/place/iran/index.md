@@ -3,10 +3,16 @@
 > Sigue la actividad de Irán en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-23T02:31:05.539Z
+- Actualizado: 2026-07-23T06:28:35.711Z
 - Canonical: https://atlas.lootura.com/es/place/iran
 
 ## Cambios recientes
+
+### Contención en las Bolsas con el petróleo en máximos de seis semanas
+
+Los inversores sopesan las tensiones geopolíticas al tiempo que esperan resultados empresariales y decisiones de política monetaria. Entre tanto, los precios del petróleo encadenan su quinta sesión consecutiva al alza hasta máximos de seis semanas, después de que los hutíes de Yemen, alineados con Irán, reivindicaran a.
+
+Date: 2026-07-23
 
 ### Trump autoriza un pacto nuclear que permitirá a Arabia Saudí enriquecer uranio
 
@@ -62,14 +68,8 @@ El panorama de los bancos se ha dado la vuelta como un calcetín en los últimos
 
 Date: 2026-07-21
 
-### An emerging Iran-Pakistan allegiance is reshaping southwest Asia’s power structures
-
-Earlier this month, the Supreme Leader of Iran, Ayatollah Ali Khamenei, was buried in his hometown of Mashhad after a four-day ceremony. Many international delegations were present, but each country will have chosen their representatives with the utmost care. Sending high-ranking officials would go beyond mere diplomat.
-
-Date: 2026-07-21
-
 ## Fuentes
 
+- [Contención en las Bolsas con el petróleo en máximos de seis semanas](https://cincodias.elpais.com/mercados-financieros/2026-07-23/la-bolsa-y-el-ibex-35.html?utm_source=lootura.com) — 2026-07-23T04:39:18.000Z
 - [Trump autoriza un pacto nuclear que permitirá a Arabia Saudí enriquecer uranio](https://elpais.com/internacional/2026-07-22/trump-autoriza-un-pacto-nuclear-que-permitira-a-arabia-saudi-enriquecer-uranio.html?utm_source=lootura.com) — 2026-07-22T19:34:04.000Z
 - [Trump amenaza con destruir puentes o centrales eléctricas cada vez que Irán ataque un barco en Ormuz](https://elpais.com/internacional/2026-07-22/trump-amenaza-con-destruir-puentes-o-centrales-electricas-cada-vez-que-teheran-ataque-un-barco-ormuz.html?utm_source=lootura.com) — 2026-07-22T18:31:32.000Z
-- [El Ibex remonta un 0,99% y recupera los 19.500 puntos pese al repunte del precio del petróleo](https://theobjective.com/economia/2026-07-22/ibex-35-19-500-puntos-repunte-crudo/?utm_source=lootura.com) — 2026-07-22T18:57:53.000Z

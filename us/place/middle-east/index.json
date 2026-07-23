@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/middle-east/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/middle-east/index.json",
   "description": "Follow Middle East, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-23T02:31:30.185Z",
+  "updatedAt": "2026-07-23T06:29:04.058Z",
   "aliases": [
     "Mid East",
     "Mideast"
@@ -25,13 +25,13 @@
       "date": "2026-07-23"
     },
     {
-      "title": "Trump will attend the dignified transfer of 4 U.S. service members killed in the Middle East",
-      "summary": "The ritual is one of the most somber duties of a commander-in-chief.",
+      "title": "Trump speaks at Georgia high school after attending dignified transfer",
+      "summary": "President Trump spoke at a high school in Marietta, Georgia, on Wednesday, after attending a dignified transfer for four U.S. troops killed in the Middle East. CBS News congressional reporter Taurean Small has the latest.",
       "date": "2026-07-22"
     },
     {
-      "title": "Trump speaks at Georgia high school after attending dignified transfer",
-      "summary": "President Trump spoke at a high school in Marietta, Georgia, on Wednesday, after attending a dignified transfer for four U.S. troops killed in the Middle East. CBS News congressional reporter Taurean Small has the latest.",
+      "title": "Trump will attend the dignified transfer of 4 U.S. service members killed in the Middle East",
+      "summary": "The ritual is one of the most somber duties of a commander-in-chief.",
       "date": "2026-07-22"
     },
     {
@@ -79,17 +79,11 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "Trump will attend the dignified transfer of 4 U.S. service members killed in the Middle East",
-      "url": "https://www.pbs.org/newshour/world/trump-will-attend-the-dignified-transfer-of-4-u-s-service-members-killed-in-the-middle-east?utm_source=lootura.com",
-      "publishedAt": "2026-07-22T14:27:14.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
-    },
-    {
       "title": "What Visuals Show About Recent Damage to U.S. Military Sites in the Middle East",
       "url": "https://www.nytimes.com/2026/07/22/world/middleeast/iran-war-us-bases-images.html?utm_source=lootura.com",
       "publishedAt": "2026-07-23T01:37:39.000Z",
       "sourceId": "lootura-us-the-new-york-times"
     }
   ],
-  "evidenceCount": 4
+  "evidenceCount": 3
 }

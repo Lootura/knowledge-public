@@ -3,10 +3,28 @@
 > Sigue la actividad de Arabia Saudí en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-23T02:31:05.539Z
+- Actualizado: 2026-07-23T06:28:35.711Z
 - Canonical: https://atlas.lootura.com/es/place/arabia-saudi
 
 ## Cambios recientes
+
+### El pacto nuclear de EE.UU. con Arabia Saudí hace temer una carrera atómica en Oriente Próximo
+
+Fuentes oficiales de la Casa Blanca han filtrado a los principales medios de prensa anglosajones que el presidente Trump ha cerrado un acuerdo para compartir tecnología nuclear con Arabia Saudí. El plan, que será sometido al Congreso de Estados Unidos para su aprobación, supone un cambio de política radical al no inclu.
+
+Date: 2026-07-23
+
+### Los hutíes de Yemen atacan dos buques de Arabia Saudí en Ormuz e intensifican el conflicto en Oriente Próximo
+
+Los rebeldes hutíes de Yemen han anunciado en la madrugada de este jueves un ataque con drones y misiles contra dos buques petroleros saudíes en el mar Rojo a los que ha acusado de «violar el bloqueo impuesto» por las milicias contra Arabia Saudí en respuesta a lo que el grupo describe como un continuo «asedio» por par.
+
+Date: 2026-07-23
+
+### EEUU y Arabia Saudí firman un histórico pacto que allana a Riad lograr enriquecer uranio
+
+Estados Unidos ha anunciado este miércoles que ha alcanzado un importante acuerdo de cooperación nuclear pacífica con Arabia Saudí que podría allanar el.
+
+Date: 2026-07-23
 
 ### Discovered by Atlas
 
@@ -14,15 +32,15 @@ Arabia Saudita first entered the public knowledge record with source-backed evid
 
 Date: 2026-07-22
 
-### Trump aprueba un histórico acuerdo nuclear con Arabia Saudí en una gran victoria para el reino
-
-El pacto podría suponer grandes beneficios para las empresas estadounidenses, pero también es probable que suscite inquietud sobre la proliferación nuclear en Oriente Próximo Leer.
-
-Date: 2026-07-22
-
 ### Trump autoriza un pacto nuclear que permitirá a Arabia Saudí enriquecer uranio
 
 De las muchas justificaciones que Donald Trump ha dado en casi cinco meses para su guerra en Irán , la de impedir que el régimen de los ayatolás continúe con su programa nuclear y pueda acabar teniendo la bomba atómica es la que ha acabado cristalizando en el argumentario de la Casa Blanca y sus aliados. El presidente.
+
+Date: 2026-07-22
+
+### Trump aprueba un histórico acuerdo nuclear con Arabia Saudí en una gran victoria para el reino
+
+El pacto podría suponer grandes beneficios para las empresas estadounidenses, pero también es probable que suscite inquietud sobre la proliferación nuclear en Oriente Próximo Leer.
 
 Date: 2026-07-22
 
@@ -50,13 +68,9 @@ El pesimismo en torno a las negociaciones de paz entre EE UU e Irán, después d
 
 Date: 2026-07-22
 
-### De Ormuz a los hutíes en Bab al Mandeb: el nuevo foco de la guerra en Oriente Próximo
-
-Los rebeldes yemeníes, el principal bastión del Eje de la Resistencia iraní en la actualidad, han recrudecido su confrontación con Arabia Saudí. La ampliación del conflicto regional amenaza aún más el suministro de petróleo y el comercio internacional.
-
-Date: 2026-07-22
-
 ## Fuentes
 
-- [Trump aprueba un histórico acuerdo nuclear con Arabia Saudí en una gran victoria para el reino](https://www.elmundo.es/internacional/2026/07/22/6a60c26ffc6c8379178b45ad.html?utm_source=lootura.com) — 2026-07-22T13:42:17.000Z
+- [El pacto nuclear de EE.UU. con Arabia Saudí hace temer una carrera atómica en Oriente Próximo](https://www.abc.es/internacional/eeuu-arabia-saudi-firman-acuerdo-nuclear-despierta-20260722210722-nt.html?utm_source=lootura.com) — 2026-07-23T05:20:41.000Z
+- [Los hutíes de Yemen atacan dos buques de Arabia Saudí en Ormuz e intensifican el conflicto en Oriente Próximo](https://www.abc.es/internacional/huties-yemen-atacan-dos-buques-arabia-saudi-20260723080327-nt.html?utm_source=lootura.com) — 2026-07-23T06:03:28.000Z
 - [Trump autoriza un pacto nuclear que permitirá a Arabia Saudí enriquecer uranio](https://elpais.com/internacional/2026-07-22/trump-autoriza-un-pacto-nuclear-que-permitira-a-arabia-saudi-enriquecer-uranio.html?utm_source=lootura.com) — 2026-07-22T19:34:04.000Z
+- [EEUU y Arabia Saudí firman un histórico pacto que allana a Riad lograr enriquecer uranio](https://theobjective.com/internacional/2026-07-23/eeuu-arabia-saudi-pacto-nriquecer-uranio/?amp=&utm_source=lootura.com) — 2026-07-23T06:21:04.000Z

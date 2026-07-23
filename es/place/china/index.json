@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/china/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/china/index.json",
   "description": "Sigue la actividad de China en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-23T02:31:05.539Z",
+  "updatedAt": "2026-07-23T06:28:35.711Z",
   "aliases": [],
   "changes": [
     {
@@ -17,13 +17,13 @@
       "date": "2026-07-23"
     },
     {
-      "title": "La china Geely llega a un acuerdo con Ford para producir coches en su fábrica de Almussafes",
-      "summary": "El presidente de Ford Europa, Jim Baumbick, oficializará el anuncio este jueves, en presencia de Pedro Sánchez y Juanfran Pérez Llorca, para garantizar la supervivencia de la planta valenciana Leer.",
+      "title": "La china Geely entra a producir sus coches a la planta valenciana de Ford, que tiene un excedente de 1.000 trabajadores",
+      "summary": "La china producirá automóviles en una línea de montaje inactiva de Almussafes, que tiene a sus empleados en ERTE y que el año pasado hizo menos de 100.000 coches, la cuarta parte de su récord. A cambio, evitará los aranceles de esa producción Leer.",
       "date": "2026-07-22"
     },
     {
-      "title": "La china Geely entra a producir sus coches a la planta valenciana de Ford, que tiene un excedente de 1.000 trabajadores",
-      "summary": "La china producirá automóviles en una línea de montaje inactiva de Almussafes, que tiene a sus empleados en ERTE y que el año pasado hizo menos de 100.000 coches, la cuarta parte de su récord. A cambio, evitará los aranceles de esa producción Leer.",
+      "title": "La china Geely llega a un acuerdo con Ford para producir coches en su fábrica de Almussafes",
+      "summary": "El presidente de Ford Europa, Jim Baumbick, oficializará el anuncio este jueves, en presencia de Pedro Sánchez y Juanfran Pérez Llorca, para garantizar la supervivencia de la planta valenciana Leer.",
       "date": "2026-07-22"
     },
     {
@@ -64,23 +64,11 @@
   ],
   "sources": [
     {
-      "title": "Ford y la china Geely firman un acuerdo histórico para fabricar en Almussafes",
-      "url": "https://www.abc.es/motor/economia/ford-geely-firman-acuerdo-historico-fabricar-almussafes-20260722133717-nt.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-23T00:01:59.000Z",
-      "sourceId": "lootura-es-abc"
-    },
-    {
-      "title": "La china Geely llega a un acuerdo con Ford para producir coches en su fábrica de Almussafes",
-      "url": "https://www.elmundo.es/economia/empresas/2026/07/22/6a60c041fdddff05188b4581.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-22T16:55:15.000Z",
-      "sourceId": "lootura-es-el-mundo"
-    },
-    {
       "title": "La china Geely entra a producir sus coches a la planta valenciana de Ford, que tiene un excedente de 1.000 trabajadores",
       "url": "https://www.elmundo.es/motor/2026/07/22/6a60f936e4d4d8eb788b4581.html?utm_source=lootura.com",
       "publishedAt": "2026-07-22T20:36:55.000Z",
       "sourceId": "lootura-es-el-mundo"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 1
 }

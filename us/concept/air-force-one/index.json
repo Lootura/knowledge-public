@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/concept/air-force-one/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/concept/air-force-one/index.json",
   "description": "Follow Air Force One, a tracked concept, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-21T21:06:38.270Z",
+  "updatedAt": "2026-07-23T06:29:04.058Z",
   "aliases": [
     "Boeing VC-25",
     "VC-137C",
@@ -66,6 +66,13 @@
       "date": "2026-07-20"
     }
   ],
-  "sources": [],
+  "sources": [
+    {
+      "title": "Trump attends dignified transfer of U.S. troops",
+      "url": "https://www.nbcnews.com/nightly-news/video/trump-attends-dignified-transfer-of-u-s-troops-267132997610?utm_source=lootura.com",
+      "publishedAt": "2026-07-22T23:47:29.000Z",
+      "sourceId": "lootura-us-nbc-news-politics"
+    }
+  ],
   "evidenceCount": 0
 }

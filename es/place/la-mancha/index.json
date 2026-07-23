@@ -8,12 +8,22 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/la-mancha/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/la-mancha/index.json",
   "description": "Sigue la actividad de La Mancha en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-23T02:31:05.539Z",
+  "updatedAt": "2026-07-23T06:28:35.711Z",
   "aliases": [
     "Comarca manchega",
     "Mancha"
   ],
   "changes": [
+    {
+      "title": "Incendios en España, en directo hoy: Mejora la situación de Almorox y esperan estabilizarlo en unas horas",
+      "summary": "Los servicios de emergencia continúan trabajando en varios incendios forestales activos en distintos puntos de España, con especial atención a la evolución de los fuegos declarados en Castilla-La Mancha, Cataluña, Castilla y León, Andalucía y Aragón.",
+      "date": "2026-07-23"
+    },
+    {
+      "title": "La mejor planta floral y aromática que puedes poner en el jardín en Castilla La-Mancha: necesita todas las horas de sol posibles",
+      "summary": "La lavanda se ha convertido en una de las plantas favoritas para quienes buscan un jardín resistente, aromático y fácil de mantener en Castilla-La Mancha . Su capacidad para soportar tanto los inviernos fríos como los veranos secos y calurosos de la región la convierten en una apuesta segura para parcelas, patios y zon.",
+      "date": "2026-07-23"
+    },
     {
       "title": "El incendio de Guadalajara entra en fase de “estabilización” tras arrasar más de 32.000 hectáreas",
       "summary": "El incendio de La Mierla (Guadalajara), el más grande de la historia de Castilla-La Mancha , que ha arrasado más de 32.000 hectáreas, ya ha entrado en fase de “estabilización”, según ha anunciado este miércoles el presidente de Castilla-La Mancha, Emiliano García-Page, desde el puesto de mando avanzado de Tamajón, en u.",
@@ -53,25 +63,21 @@
       "title": "Castilla-La Mancha estudia plan de recuperación en La Mierla cuando cese el fuego",
       "summary": "El Gobierno de Castilla-La Mancha se encuentra perfilando una estrategia de actuación en la zona afectada por el incendio de La Mierla de cara a impulsar tanto al sector primario como al turístico cuando regrese la normalidad. Fuentes del Ejecutivo autonómico consultadas por Europa Press destacan la zona por su riqueza.",
       "date": "2026-07-19"
-    },
-    {
-      "title": "Incendios en España, en directo hoy: última hora de los fuegos activos, evolución y situación en Aragón, Castilla-La Mancha, Madrid y Andalucía",
-      "summary": "Sigue en directo la última hora de los incendios forestales activos en España.",
-      "date": "2026-07-19"
-    },
-    {
-      "title": "Discovered by Atlas",
-      "summary": "La Mancha first entered the public knowledge record with source-backed evidence.",
-      "date": "2026-07-18"
     }
   ],
   "sources": [
     {
-      "title": "El incendio de Guadalajara entra en fase de “estabilización” tras arrasar más de 32.000 hectáreas",
-      "url": "https://elpais.com/espana/2026-07-22/el-incendio-de-guadalajara-entra-en-fase-de-estabilizacion-tras-arrasar-mas-de-32000-hectareas.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-22T11:03:06.000Z",
-      "sourceId": "lootura-es-el-pais"
+      "title": "Incendios en España, en directo hoy: Mejora la situación de Almorox y esperan estabilizarlo en unas horas",
+      "url": "https://www.larazon.es/sociedad/incendios-espana-directo-hoy-ultima-hora-fuegos-activos-operativos-extincion_202607236a6192fada3add27d4dd1811.html?outputType=amp&utm_source=lootura.com",
+      "publishedAt": "2026-07-23T06:25:15.000Z",
+      "sourceId": "lootura-es-la-razon"
+    },
+    {
+      "title": "La mejor planta floral y aromática que puedes poner en el jardín en Castilla La-Mancha: necesita todas las horas de sol posibles",
+      "url": "https://okdiario.com/naturaleza/mejor-planta-floral-aromatica-que-puedes-poner-jardin-castilla-mancha-necesita-todas-horas-sol-posibles-18892358?utm_source=lootura.com",
+      "publishedAt": "2026-07-23T06:15:15.000Z",
+      "sourceId": "lootura-es-ok-diario"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 2
 }

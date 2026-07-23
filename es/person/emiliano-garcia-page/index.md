@@ -3,10 +3,16 @@
 > Sigue la actividad de Emiliano García-Page en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-23T02:31:05.539Z
+- Actualizado: 2026-07-23T06:28:35.711Z
 - Canonical: https://atlas.lootura.com/es/person/emiliano-garcia-page
 
 ## Cambios recientes
+
+### Casi el 40% de los votantes socialistas no ve que haya un candidato alternativo a Sánchez en unas elecciones
+
+Cuatro de cada diez votantes socialistas no identifican una alternativa a Pedro Sánchez al frente del PSOE. Según una encuesta del Instituto DYM para 20minutos , Emiliano García-Page es quien más respaldo cosecha entre los cinco posibles candidatos planteados, con un 27,3%, aunque el porcentaje de quienes no se decanta.
+
+Date: 2026-07-23
 
 ### El incendio de Guadalajara entra en fase de “estabilización” tras arrasar más de 32.000 hectáreas
 
@@ -58,4 +64,4 @@ Date: 2026-07-18
 
 ## Fuentes
 
-- [El incendio de Guadalajara entra en fase de “estabilización” tras arrasar más de 32.000 hectáreas](https://elpais.com/espana/2026-07-22/el-incendio-de-guadalajara-entra-en-fase-de-estabilizacion-tras-arrasar-mas-de-32000-hectareas.html?utm_source=lootura.com) — 2026-07-22T11:03:06.000Z
+- [Casi el 40% de los votantes socialistas no ve que haya un candidato alternativo a Sánchez en unas elecciones](https://www.20minutos.es/nacional/casi-40-votantes-socialistas-no-ve-candidato-alternativo-sanchez_7017637_0.html?utm_source=lootura.com) — 2026-07-23T03:00:00.000Z
