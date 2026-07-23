@@ -3,7 +3,7 @@
 > Follow Middle East, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-23T13:51:24.628Z
+- Updated: 2026-07-23T17:20:03.497Z
 - Canonical: https://atlas.lootura.com/us/place/middle-east
 
 ## Recent changes
@@ -11,6 +11,18 @@
 ### What Visuals Show About Recent Damage to U.S. Military Sites in the Middle East
 
 Video footage and satellite images reveal new details about Iranian strikes on U.S. targets during the latest flare-up in fighting.
+
+Date: 2026-07-23
+
+### U.S.-Saudi Deal Prompts Fears of a Global Nuclear Arms Race
+
+In Europe, Asia and the Middle East, countries seek nuclear capabilities to hedge against aggressive neighbors and a receding Washington, potentially creating a more freewheeling era.
+
+Date: 2026-07-23
+
+### Coal-fired power generation rising globally on Mideast war: IEA
+
+Coal-fired power generation is set to increase in 2026, driven by supply difficulties and soaring natural gas prices linked to the war in the Middle East, the International Energy Agency said Thursday.
 
 Date: 2026-07-23
 
@@ -23,12 +35,6 @@ Date: 2026-07-23
 ### Oil price passes $100 a barrel again as Middle East conflict escalates
 
 Benchmark rises sharply over fears Houthi militia could strangle Saudi exports as US-Iran fighting intensifies The oil price has climbed back above $100 a barrel for the first time in two months, as a fresh escalation of the Middle East conflict threatens to compound disruption to global oil supplies. The benchmark oil.
-
-Date: 2026-07-23
-
-### U.S.-Saudi Deal Prompts Fears of a Global Nuclear Arms Race
-
-In Europe, Asia and the Middle East, countries seek nuclear capabilities to hedge against aggressive neighbors and a receding Washington, potentially creating a more freewheeling era.
 
 Date: 2026-07-23
 
@@ -62,15 +68,8 @@ NBC News correspondents Monica Alba, Courtney Kube and Julie Tsirkin report on r
 
 Date: 2026-07-22
 
-### Houthis in Yemen Edge Closer to Entering U.S.-Iran War
-
-The Iran-backed Houthi militia in Yemen has declared a Red Sea blockade on Saudi Arabia, potentially opening a new front in the war rippling across the Middle East.
-
-Date: 2026-07-21
-
 ## Sources
 
-- [New Concerns Over Oil Prices After Houthis Attack Saudi Tankers](https://www.today.com/video/cost-of-iran-war-per-us-household-nears-1-200-report-shows-267156549661?utm_source=lootura.com) — 2026-07-23T11:36:18.000Z
-- [Oil price passes $100 a barrel again as Middle East conflict escalates](https://www.theguardian.com/business/2026/jul/23/oil-price-passes-100-a-barrel-again-as-middle-east-conflict-escalates?utm_source=lootura.com) — 2026-07-23T13:37:42.000Z
+- [Coal-fired power generation rising globally on Mideast war: IEA](https://phys.org/news/2026-07-coal-power-generation-globally-mideast.html?utm_source=lootura.com) — 2026-07-23T17:19:32.000Z
 - [What Visuals Show About Recent Damage to U.S. Military Sites in the Middle East](https://www.nytimes.com/2026/07/22/world/middleeast/iran-war-us-bases-images.html?utm_source=lootura.com) — 2026-07-23T01:37:39.000Z
-- [U.S.-Saudi Deal Prompts Fears of a Global Nuclear Arms Race](https://www.nytimes.com/2026/07/23/world/europe/us-saudi-deal-nuclear-hedging.html?utm_source=lootura.com) — 2026-07-23T13:03:50.000Z
+- [U.S.-Saudi Deal Prompts Fears of a Global Nuclear Arms Race](https://www.nytimes.com/2026/07/23/world/europe/us-saudi-deal-nuclear-hedging.html?utm_source=lootura.com) — 2026-07-23T15:28:15.000Z

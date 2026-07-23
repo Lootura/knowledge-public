@@ -40,31 +40,6 @@
       "date": "2026-07-23"
     }
   ],
-  "sources": [
-    {
-      "title": "La CNMC multa a Ibai Llanos y Nachter por publicidad encubierta y a Jordi Wild por contenido violento",
-      "url": "https://www.abc.es/economia/cnmc-multa-ibai-llanos-nachter-jordi-wild-20260723124532-nt.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-23T12:39:07.000Z",
-      "sourceId": "lootura-es-abc"
-    },
-    {
-      "title": "La CNMC impone una multa de 4.000 euros a los ‘influencers’ Ibai Llanos, Jordi Wild y Nachter",
-      "url": "https://elpais.com/economia/2026-07-23/la-cnmc-impone-una-multa-de-4000-euros-a-los-influencers-ibai-llanos-jordi-wild-y-nachter.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-23T10:30:20.000Z",
-      "sourceId": "lootura-es-cinco-dias"
-    },
-    {
-      "title": "Multa histórica de 4.000 euros a Ibai Llanos, Jordi Wild y Nachter por sus contenidos en redes sociales",
-      "url": "https://hipertextual.com/actualidad/multa-historica-de-4-000-euros-a-ibai-llanos-jordi-wild-y-nachter-por-sus-contenidos-en-redes-sociales/?utm_source=lootura.com",
-      "publishedAt": "2026-07-23T12:12:27.000Z",
-      "sourceId": "lootura-es-hipertextual"
-    },
-    {
-      "title": "Comisión de la Competencia multa a Ibai Llanos, Jordi Wild y Nachter por irregularidades",
-      "url": "https://theobjective.com/economia/2026-07-23/comision-competencia-multa-ibai/?utm_source=lootura.com",
-      "publishedAt": "2026-07-23T12:39:04.000Z",
-      "sourceId": "lootura-es-the-objective"
-    }
-  ],
-  "evidenceCount": 4
+  "sources": [],
+  "evidenceCount": 0
 }

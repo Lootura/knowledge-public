@@ -3,16 +3,10 @@
 > Sigue la actividad de Partido Popular en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-23T13:51:07.363Z
+- Actualizado: 2026-07-23T17:19:26.220Z
 - Canonical: https://atlas.lootura.com/es/organization/partido-popular
 
 ## Cambios recientes
-
-### El PP ve una "tomadura de pelo" la entrevista de Zapatero porque ha ido únicamente "a defender su inocencia y la de Sánchez"
-
-Para el Partido Popular, la primera entrevista que ha dado el expresidente del Gobierno José Luis Rodríguez Zapatero desde que fue imputado ha sido "una tomadura de pelo", pues no ha dado ninguna explicación de las "muchas incógnitas" que le rodean. " No ha dicho de dónde son las joyas , por qué no las tributó, por qué.
-
-Date: 2026-07-23
 
 ### El PP planta al Gobierno en la Conferencia de Inmigración y le acusa de "deslealtad"
 
@@ -26,12 +20,6 @@ La portavoz del PP en el Congreso, Ester Muñoz, ha cargado contra el expresiden
 
 Date: 2026-07-23
 
-### El PSOE mantiene su apoyo a la inocencia de Zapatero tras su entrevista en TVE y el PP la considera "una tomadura de pelo"
-
-Los socialistas no se mueven de la posición que llevan manteninendo desde el estallido del caso 'Plus Ultra' y el Gobierno pide "respeto" al derecho a la defensa del expresidente. Mientras tanto, la portavoz popular Ester Muñoz denuncia que "no ha contestado ninguna duda” e Isabel Díaz Ayuso denuncia que "a un socialis.
-
-Date: 2026-07-23
-
 ### Las comunidades del PP plantan al Gobierno en la reunión sobre regularización de migrantes y fuerzan su suspensión
 
 La reunión, destinada a abordar el balance del proceso de regularización extraordinaria de migrantes o la aplicación del Pacto Europeo de Migración y Asilo, solo ha contado con la representación de seis autonomías: Navarra, Euskadi, Catalunya, Canarias, Asturias y Castilla-La Mancha El Tribunal Supremo rechaza llevar l.
@@ -41,12 +29,6 @@ Date: 2026-07-23
 ### El PP pide la dimisión de Rosario Sánchez por apoyar la protesta antiturismo de Palma siendo el máximo cargo del sector
 
 El senador y portavoz de turismo del Partido Popular en el Senado , Agustín Alomodóbar , ha registrado este jueves una batería de preguntas en la Cámara Alta para que el Gobierno apoye o reprenda a la secretaria de Estado de Turismo y candi target="_blank" rel="noopener noreferrer">por apoyar públicamente la manifestac.
-
-Date: 2026-07-23
-
-### El PP asegura que el expresidente Zapatero «ha tomado el pelo a los españoles»
-
-La portavoz del Grupo Popular en el Congreso de los Diputados , Ester Muñoz, ha asegurado que el expresidente del Gobierno José Luis Rodríguez Zapatero «ha tomado el pelo a los españoles» en su entrevista en TVE , insistiendo en que «ha sido una tomadura de pelo cuando le preguntan por el origen de las joyas y dice que.
 
 Date: 2026-07-23
 
@@ -68,13 +50,26 @@ Los que han obtenido más votos han sido los senadores propuestos por el PP-A, c
 
 Date: 2026-07-23
 
+### El PP y Vox suben tras el caso Zapatero y amplían la brecha con el PSOE y sus socios
+
+El goteo de presuntos casos de corrupción está pasando factura al PSOE . Según el barómetro de julio elaborado por el Instituto DYM para 20minutos , si mañana se celebrasen elecciones, el PP sería la fuerza más votada y ampliaría su distancia con respecto a un PSOE en retroceso. El partido de Pedro Sánchez lleva desde.
+
+Date: 2026-07-23
+
+### El PP denuncia que un udaleku de la Diputación de Gipuzkoa reprendió a niños por pintar la bandera española
+
+El padre lleva al Ararteko el caso de su hija, a la que monitores impidieron dibujar una bandera en apoyo a la selección y Lezama interpela a Mendoza.
+
+Date: 2026-07-22
+
+### Feijóo sitúa a Sánchez como "el señor X" de todos los casos del PSOE y promete "una limpieza a fondo" de las instituciones
+
+Comienza la "cuenta atrás" para el PP. Alberto Núñez Feijóo mira ya hacia las elecciones generales y mete la directa hacia "el cambio". Un cambio...
+
+Date: 2026-07-22
+
 ## Fuentes
 
-- [El PP ve una "tomadura de pelo" la entrevista de Zapatero porque ha ido únicamente "a defender su inocencia y la de Sánchez"](https://www.20minutos.es/nacional/pp-ve-una-tomadura-pelo-entrevista-zapatero-porque-ha-ido-unicamente-defender-su-inocencia-sanchez_7018179_0.html?utm_source=lootura.com) — 2026-07-23T12:33:14.000Z
 - [El PP denuncia que un udaleku de la Diputación de Gipuzkoa reprendió a niños por pintar la bandera española](https://www.diariovasco.com/politica/pp-denuncia-udaleku-diputacion-gipuzkoa-reprendio-ninos-20260723014543-nt_amp.html?utm_source=lootura.com) — 2026-07-22T23:45:57.000Z
 - [El PP planta al Gobierno en la Conferencia de Inmigración y le acusa de "deslealtad"](https://www.elmundo.es/espana/2026/07/23/6a620419fdddffd36e8b45a4.html?utm_source=lootura.com) — 2026-07-23T12:29:53.000Z
 - [Última hora de la actualidad política, en directo | El PSOE mantiene “exactamente la misma posición” en su defensa del exjefe de Gobierno](https://elpais.com/espana/2026-07-23/ultima-hora-de-la-actualidad-politica-en-directo.html?utm_source=lootura.com) — 2026-07-23T13:37:20.000Z
-- [El PSOE mantiene su apoyo a la inocencia de Zapatero tras su entrevista en TVE y el PP la considera "una tomadura de pelo"](https://www.eldiario.es/politica/psoe-mantiene-apoyo-inocencia-zapatero-entrevista-tve-pp-considera-tomadura-pelo_1_13402170.html?utm_source=lootura.com) — 2026-07-23T13:17:04.000Z
-- [Las comunidades del PP plantan al Gobierno en la reunión sobre regularización de migrantes y fuerzan su suspensión](https://www.eldiario.es/desalambre/comunidades-pp-plantan-gobierno-reunion-regularizacion-migrantes_1_13401812.html?utm_source=lootura.com) — 2026-07-23T12:04:37.000Z
-- [El PP pide la dimisión de Rosario Sánchez por apoyar la protesta antiturismo de Palma siendo el máximo cargo del sector](https://okdiario.com/baleares/pp-pide-dimision-rosario-sanchez-apoyar-protesta-antiturismo-palma-siendo-maximo-cargo-del-sector-19052436?utm_source=lootura.com) — 2026-07-23T13:15:21.000Z
-- [El PP asegura que el expresidente Zapatero «ha tomado el pelo a los españoles»](https://theobjective.com/espana/politica/2026-07-23/pp-expresidente-pelo-espanoles/?utm_source=lootura.com) — 2026-07-23T12:27:56.000Z

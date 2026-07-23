@@ -70,4 +70,4 @@ Date: 2026-07-10
 
 ## Fuentes
 
-- [Bankinter da hipotecas en Portugal e Irlanda, pero pocas en España](https://www.expansion.com/empresas/banca/2026/07/23/6a61f7a9468aeb99128b4588.html?utm_source=lootura.com) — 2026-07-23T11:14:52.000Z
+No public source links.

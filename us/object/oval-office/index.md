@@ -28,4 +28,4 @@ Date: 2026-07-14
 
 ## Sources
 
-- [U.S. Reaches Landmark Nuclear Deal With Saudi Arabia](https://time.com/article/2026/07/23/us-saudi-arabia-nuclear-deal-explainer/?utm_source=lootura.com) — 2026-07-23T11:00:18.000Z
+No public source links.

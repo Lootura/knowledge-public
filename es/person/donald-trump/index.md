@@ -3,10 +3,16 @@
 > Sigue la actividad de Donald Trump en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-23T10:20:05.700Z
+- Actualizado: 2026-07-23T17:19:26.220Z
 - Canonical: https://atlas.lootura.com/es/person/donald-trump
 
 ## Cambios recientes
+
+### Los ataques hutíes en el Mar Rojo, que Trump promete castigar, disparan el petróleo a 100 dólares
+
+Lejos de amainar, el conflicto de Oriente Próximo sacude al mundo, las economías nacionales y los mercados con un segundo nuevo frente. Tras una docena de días de nuevas...
+
+Date: 2026-07-23
 
 ### El Gobierno propone a la vicepresidenta Yolanda Díaz como candidata a dirigir la OIT
 
@@ -62,12 +68,6 @@ En plena escalada de tensiones bélicas con Irán, el Gobierno de Estados Unidos
 
 Date: 2026-07-22
 
-### El pacto nuclear de EE.UU. con Arabia Saudí hace temer una carrera atómica en Oriente Próximo
-
-Fuentes oficiales de la Casa Blanca han filtrado a los principales medios de prensa anglosajones que el presidente Trump ha cerrado un acuerdo para compartir tecnología nuclear con Arabia Saudí. El plan, que será sometido al Congreso de Estados Unidos para su aprobación, supone un cambio de política radical al no inclu.
-
-Date: 2026-07-22
-
 ## Fuentes
 
-No public source links.
+- [Los ataques hutíes en el Mar Rojo, que Trump promete castigar, disparan el petróleo a 100 dólares](https://amp.expansion.com/economia/2026/07/23/6a623bc7e5fdea930a8b4594.html?utm_source=lootura.com) — 2026-07-23T16:05:29.000Z

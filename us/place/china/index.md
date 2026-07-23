@@ -3,10 +3,16 @@
 > Follow China, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-23T06:29:04.058Z
+- Updated: 2026-07-23T17:20:03.497Z
 - Canonical: https://atlas.lootura.com/us/place/china
 
 ## Recent changes
+
+### In a first, Chinese woman wins the prestigious Fields Medal
+
+Despite criticisms of a brain drain from China to the U.S., the awards come at a time when several high-profile Chinese scholars have returned home, some citing an increasingly hostile academic environment in America.
+
+Date: 2026-07-23
 
 ### Rubio and Chinese Diplomat Make Plans for Trump and Xi’s Washington Summit
 
@@ -62,12 +68,6 @@ The landslide occurred around 9:08 a.m. on the outer edge of the Chongqing munic
 
 Date: 2026-07-17
 
-### China warns of reciprocal countermeasures after U.S. shortens foreign journalist visas
-
-The Trump administration announced Thursday it will drastically shorten visas for foreign journalists in the U.S. to 240 days, down from years, and cut those for Chinese journalists to only 90 days, raising concerns over press freedom in the United States and prompting China to warn of possible reciprocal countermeasur.
-
-Date: 2026-07-17
-
 ## Sources
 
-No public source links.
+- [In a first, Chinese woman wins the prestigious Fields Medal](https://www.npr.org/2026/07/23/g-s1-135032/in-a-first-chinese-woman-wins-the-prestigious-fields-medal?utm_source=lootura.com) — 2026-07-23T14:56:47.000Z

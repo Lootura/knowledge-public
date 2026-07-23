@@ -8,17 +8,12 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/partido-popular/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/partido-popular/index.json",
   "description": "Sigue la actividad de Partido Popular en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-23T13:51:07.363Z",
+  "updatedAt": "2026-07-23T17:19:26.220Z",
   "aliases": [
     "PP",
     "populares"
   ],
   "changes": [
-    {
-      "title": "El PP ve una \"tomadura de pelo\" la entrevista de Zapatero porque ha ido únicamente \"a defender su inocencia y la de Sánchez\"",
-      "summary": "Para el Partido Popular, la primera entrevista que ha dado el expresidente del Gobierno José Luis Rodríguez Zapatero desde que fue imputado ha sido \"una tomadura de pelo\", pues no ha dado ninguna explicación de las \"muchas incógnitas\" que le rodean. \" No ha dicho de dónde son las joyas , por qué no las tributó, por qué.",
-      "date": "2026-07-23"
-    },
     {
       "title": "El PP planta al Gobierno en la Conferencia de Inmigración y le acusa de \"deslealtad\"",
       "summary": "Los 'populares' consideran que el Gobierno \"oculta actas y grabaciones\" de las comisiones preparatorias y tachan la política migratoria de \"opaca e irresponsable\" Leer.",
@@ -30,11 +25,6 @@
       "date": "2026-07-23"
     },
     {
-      "title": "El PSOE mantiene su apoyo a la inocencia de Zapatero tras su entrevista en TVE y el PP la considera \"una tomadura de pelo\"",
-      "summary": "Los socialistas no se mueven de la posición que llevan manteninendo desde el estallido del caso 'Plus Ultra' y el Gobierno pide \"respeto\" al derecho a la defensa del expresidente. Mientras tanto, la portavoz popular Ester Muñoz denuncia que \"no ha contestado ninguna duda” e Isabel Díaz Ayuso denuncia que \"a un socialis.",
-      "date": "2026-07-23"
-    },
-    {
       "title": "Las comunidades del PP plantan al Gobierno en la reunión sobre regularización de migrantes y fuerzan su suspensión",
       "summary": "La reunión, destinada a abordar el balance del proceso de regularización extraordinaria de migrantes o la aplicación del Pacto Europeo de Migración y Asilo, solo ha contado con la representación de seis autonomías: Navarra, Euskadi, Catalunya, Canarias, Asturias y Castilla-La Mancha El Tribunal Supremo rechaza llevar l.",
       "date": "2026-07-23"
@@ -42,11 +32,6 @@
     {
       "title": "El PP pide la dimisión de Rosario Sánchez por apoyar la protesta antiturismo de Palma siendo el máximo cargo del sector",
       "summary": "El senador y portavoz de turismo del Partido Popular en el Senado , Agustín Alomodóbar , ha registrado este jueves una batería de preguntas en la Cámara Alta para que el Gobierno apoye o reprenda a la secretaria de Estado de Turismo y candi target=\"_blank\" rel=\"noopener noreferrer\">por apoyar públicamente la manifestac.",
-      "date": "2026-07-23"
-    },
-    {
-      "title": "El PP asegura que el expresidente Zapatero «ha tomado el pelo a los españoles»",
-      "summary": "La portavoz del Grupo Popular en el Congreso de los Diputados , Ester Muñoz, ha asegurado que el expresidente del Gobierno José Luis Rodríguez Zapatero «ha tomado el pelo a los españoles» en su entrevista en TVE , insistiendo en que «ha sido una tomadura de pelo cuando le preguntan por el origen de las joyas y dice que.",
       "date": "2026-07-23"
     },
     {
@@ -63,15 +48,24 @@
       "title": "El Parlamento reelige a Arenas, Díaz y Espadas y designa a Montero, Zancajo y Aguirre como senadores por la comunidad",
       "summary": "Los que han obtenido más votos han sido los senadores propuestos por el PP-A, con un total de 98; los del PSOE-A, 83, y los de Vox, 65 votos.",
       "date": "2026-07-23"
+    },
+    {
+      "title": "El PP y Vox suben tras el caso Zapatero y amplían la brecha con el PSOE y sus socios",
+      "summary": "El goteo de presuntos casos de corrupción está pasando factura al PSOE . Según el barómetro de julio elaborado por el Instituto DYM para 20minutos , si mañana se celebrasen elecciones, el PP sería la fuerza más votada y ampliaría su distancia con respecto a un PSOE en retroceso. El partido de Pedro Sánchez lleva desde.",
+      "date": "2026-07-23"
+    },
+    {
+      "title": "El PP denuncia que un udaleku de la Diputación de Gipuzkoa reprendió a niños por pintar la bandera española",
+      "summary": "El padre lleva al Ararteko el caso de su hija, a la que monitores impidieron dibujar una bandera en apoyo a la selección y Lezama interpela a Mendoza.",
+      "date": "2026-07-22"
+    },
+    {
+      "title": "Feijóo sitúa a Sánchez como \"el señor X\" de todos los casos del PSOE y promete \"una limpieza a fondo\" de las instituciones",
+      "summary": "Comienza la \"cuenta atrás\" para el PP. Alberto Núñez Feijóo mira ya hacia las elecciones generales y mete la directa hacia \"el cambio\". Un cambio...",
+      "date": "2026-07-22"
     }
   ],
   "sources": [
-    {
-      "title": "El PP ve una \"tomadura de pelo\" la entrevista de Zapatero porque ha ido únicamente \"a defender su inocencia y la de Sánchez\"",
-      "url": "https://www.20minutos.es/nacional/pp-ve-una-tomadura-pelo-entrevista-zapatero-porque-ha-ido-unicamente-defender-su-inocencia-sanchez_7018179_0.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-23T12:33:14.000Z",
-      "sourceId": "lootura-es-20minutos"
-    },
     {
       "title": "El PP denuncia que un udaleku de la Diputación de Gipuzkoa reprendió a niños por pintar la bandera española",
       "url": "https://www.diariovasco.com/politica/pp-denuncia-udaleku-diputacion-gipuzkoa-reprendio-ninos-20260723014543-nt_amp.html?utm_source=lootura.com",
@@ -89,31 +83,7 @@
       "url": "https://elpais.com/espana/2026-07-23/ultima-hora-de-la-actualidad-politica-en-directo.html?utm_source=lootura.com",
       "publishedAt": "2026-07-23T13:37:20.000Z",
       "sourceId": "lootura-es-el-pais"
-    },
-    {
-      "title": "El PSOE mantiene su apoyo a la inocencia de Zapatero tras su entrevista en TVE y el PP la considera \"una tomadura de pelo\"",
-      "url": "https://www.eldiario.es/politica/psoe-mantiene-apoyo-inocencia-zapatero-entrevista-tve-pp-considera-tomadura-pelo_1_13402170.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-23T13:17:04.000Z",
-      "sourceId": "lootura-es-eldiario-es"
-    },
-    {
-      "title": "Las comunidades del PP plantan al Gobierno en la reunión sobre regularización de migrantes y fuerzan su suspensión",
-      "url": "https://www.eldiario.es/desalambre/comunidades-pp-plantan-gobierno-reunion-regularizacion-migrantes_1_13401812.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-23T12:04:37.000Z",
-      "sourceId": "lootura-es-eldiario-es"
-    },
-    {
-      "title": "El PP pide la dimisión de Rosario Sánchez por apoyar la protesta antiturismo de Palma siendo el máximo cargo del sector",
-      "url": "https://okdiario.com/baleares/pp-pide-dimision-rosario-sanchez-apoyar-protesta-antiturismo-palma-siendo-maximo-cargo-del-sector-19052436?utm_source=lootura.com",
-      "publishedAt": "2026-07-23T13:15:21.000Z",
-      "sourceId": "lootura-es-ok-diario"
-    },
-    {
-      "title": "El PP asegura que el expresidente Zapatero «ha tomado el pelo a los españoles»",
-      "url": "https://theobjective.com/espana/politica/2026-07-23/pp-expresidente-pelo-espanoles/?utm_source=lootura.com",
-      "publishedAt": "2026-07-23T12:27:56.000Z",
-      "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 8
+  "evidenceCount": 3
 }

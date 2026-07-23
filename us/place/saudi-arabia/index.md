@@ -3,7 +3,7 @@
 > Follow Saudi Arabia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-23T13:51:24.628Z
+- Updated: 2026-07-23T17:20:03.497Z
 - Canonical: https://atlas.lootura.com/us/place/saudi-arabia
 
 ## Recent changes
@@ -26,21 +26,21 @@ President Donald Trump said Thursday that a nuclear deal between the United Stat
 
 Date: 2026-07-23
 
-### U.S. signs nuclear deal with Saudi Arabia. And, Nolan Wells' independent autopsy results
+### White House says Saudi Arabia nuclear deal contingent on joining Abraham Accords
 
-The U.S. has signed a nuclear cooperation agreement with Saudi Arabia. And, the independent autopsy results of Nolan Wells fuel more questions surrounding his cause of death. (Image credit: Brendan Smialowski).
-
-Date: 2026-07-23
-
-### U.S. nuclear power deal with Saudi Arabia faces criticism in Israel
-
-The nuclear power deal between the U.S. and Saudi Arabia was met with alarm in Israel as it deepened concerns that Israel, a major American ally, and Trump are increasingly diverging on foreign policy and security. (Image credit: Chip Somodevilla).
+During a press briefing, White House press secretary Karoline Leavitt echoed a social media post from President Trump that said any nuclear deal with Saudi Arabia would be contingent on them joining the Abraham Accords. NBC News' Monica Alba reports from the White House on the potential deal and the White House's appro.
 
 Date: 2026-07-23
 
-### U.S. Reaches Landmark Nuclear Deal With Saudi Arabia
+### Israel Welcomes Trump’s Demand for Diplomatic Ties With Saudi Arabia
 
-U.S. President Donald Trump and Crown Prince Mohammed bin Salman of Saudi Arabia during a bilateral meeting in the Oval Office of the White House on Nov. 18, 2025. —Demetrius Freeman—The Washington Post/Getty Images Washington has reached a watershed civilian nuclear cooperation agreement with Saudi Arabia, the U.S. En.
+Israeli officials greeted the possibility of normalized ties, but analysts said the U.S.-Saudi nuclear deal nonetheless remained bad for Israel. Prime Minister Benjamin Netanyahu has not yet commented on the agreement.
+
+Date: 2026-07-23
+
+### For South Korea, U.S.-Saudi Nuclear Deal Exposes a Double Standard
+
+President Trump has put Saudi Arabia on the path to enriching uranium on its own soil, a demand South Korea has been making for years.
 
 Date: 2026-07-23
 
@@ -71,9 +71,9 @@ Date: 2026-07-22
 ## Sources
 
 - [Trump says Saudi Arabia must normalize Israel ties before nuclear deal is approved](https://www.nbcnews.com/world/middle-east/trump-saudi-arabia-normalize-israel-ties-nuclear-deal-rcna588859?utm_source=lootura.com) — 2026-07-23T12:35:22.000Z
+- [White House says Saudi Arabia nuclear deal contingent on joining Abraham Accords](https://www.nbcnews.com/now/video/white-house-says-saudi-arabia-nuclear-deal-contingent-on-joining-abraham-accords-267170885845?utm_source=lootura.com) — 2026-07-23T15:53:39.000Z
 - [Morning news brief](https://www.npr.org/2026/07/23/nx-s1-5895984/morning-news-brief?utm_source=lootura.com) — 2026-07-23T08:47:19.000Z
-- [U.S. signs nuclear deal with Saudi Arabia. And, Nolan Wells' independent autopsy results](https://www.npr.org/2026/07/23/g-s1-135097/up-first-newsletter-saudi-arabia-nuclear-deal-house-bills-peptides-nolan-wells?utm_source=lootura.com) — 2026-07-23T11:39:57.000Z
-- [U.S. nuclear power deal with Saudi Arabia faces criticism in Israel](https://www.npr.org/2026/07/23/nx-s1-5904327/us-saudi-arabia-iran?utm_source=lootura.com) — 2026-07-23T10:55:44.000Z
 - [Coveted U.S. Nuclear Deal Is a Coup for Saudi Crown Prince](https://www.nytimes.com/2026/07/22/world/middleeast/us-saudi-arabia-nuclear-deal.html?utm_source=lootura.com) — 2026-07-22T20:54:10.000Z
-- [Nuclear Energy Revival Puts Westinghouse in Prime Position](https://www.nytimes.com/2026/07/23/business/energy-environment/westinghouse-nuclear-energy-trump-saudi-arabia.html?utm_source=lootura.com) — 2026-07-23T12:27:42.000Z
-- [U.S. Reaches Landmark Nuclear Deal With Saudi Arabia](https://time.com/article/2026/07/23/us-saudi-arabia-nuclear-deal-explainer/?utm_source=lootura.com) — 2026-07-23T11:00:18.000Z
+- [Nuclear Energy Revival Puts Westinghouse in Prime Position](https://www.nytimes.com/2026/07/23/business/energy-environment/westinghouse-nuclear-energy-trump-saudi-arabia.html?utm_source=lootura.com) — 2026-07-23T15:26:07.000Z
+- [Israel Welcomes Trump’s Demand for Diplomatic Ties With Saudi Arabia](https://www.nytimes.com/2026/07/23/us/politics/israel-saudi-arabia-us-nuclear-deal.html?utm_source=lootura.com) — 2026-07-23T15:24:31.000Z
+- [For South Korea, U.S.-Saudi Nuclear Deal Exposes a Double Standard](https://www.nytimes.com/2026/07/23/world/asia/us-saudi-nuclear-deal-south-korea.html?utm_source=lootura.com) — 2026-07-23T14:24:39.000Z

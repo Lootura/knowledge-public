@@ -3,7 +3,7 @@
 > Sigue la actividad de Pedro Sánchez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-23T13:51:07.363Z
+- Actualizado: 2026-07-23T17:19:26.220Z
 - Canonical: https://atlas.lootura.com/es/person/pedro-sanchez
 
 ## Cambios recientes
@@ -14,15 +14,15 @@ Una de las acusaciones particulares, Iustitia Europa, quiere que tanto el herman
 
 Date: 2026-07-23
 
-### El PP ve una "tomadura de pelo" la entrevista de Zapatero porque ha ido únicamente "a defender su inocencia y la de Sánchez"
-
-Para el Partido Popular, la primera entrevista que ha dado el expresidente del Gobierno José Luis Rodríguez Zapatero desde que fue imputado ha sido "una tomadura de pelo", pues no ha dado ninguna explicación de las "muchas incógnitas" que le rodean. " No ha dicho de dónde son las joyas , por qué no las tributó, por qué.
-
-Date: 2026-07-23
-
 ### La cúpula del PSOE da por buenas las explicaciones de Zapatero: "Mantenemos nuestro apoyo"
 
 Desde que se conoció la investigación judicial a José Luis Rodríguez Zapatero, tanto Pedro Sánchez como desde Ferraz han mantenido contacto con el ex presidente del Gobierno....
+
+Date: 2026-07-23
+
+### El PP ve una "tomadura de pelo" la entrevista de Zapatero porque ha ido únicamente "a defender su inocencia y la de Sánchez"
+
+Para el Partido Popular, la primera entrevista que ha dado el expresidente del Gobierno José Luis Rodríguez Zapatero desde que fue imputado ha sido "una tomadura de pelo", pues no ha dado ninguna explicación de las "muchas incógnitas" que le rodean. " No ha dicho de dónde son las joyas , por qué no las tributó, por qué.
 
 Date: 2026-07-23
 
@@ -70,9 +70,5 @@ Date: 2026-07-23
 
 ## Fuentes
 
-- [El PP ve una "tomadura de pelo" la entrevista de Zapatero porque ha ido únicamente "a defender su inocencia y la de Sánchez"](https://www.20minutos.es/nacional/pp-ve-una-tomadura-pelo-entrevista-zapatero-porque-ha-ido-unicamente-defender-su-inocencia-sanchez_7018179_0.html?utm_source=lootura.com) — 2026-07-23T12:33:14.000Z
 - [Denuncia contra David Sánchez Pérez-Castejón ante el Tribunal de Cuentas para que devuelva las nóminas que cobró en la Diputación de Badajoz](https://www.elmundo.es/espana/2026/07/23/6a612007e4d4d892728b4571.html?utm_source=lootura.com) — 2026-07-23T05:01:46.000Z
 - [La cúpula del PSOE da por buenas las explicaciones de Zapatero: "Mantenemos nuestro apoyo"](https://amp.elmundo.es/espana/2026/07/23/6a6202be21efa0605a8b45ba.html?utm_source=lootura.com) — 2026-07-23T12:02:40.000Z
-- [Una exministra de Sánchez gobierna la ciudad que más tarda en pagar de toda España: 80 días, según Hacienda](https://www.larazon.es/canarias/exministra-sanchez-gobierna-ciudad-que-mas-tarda-pagar-toda-espana-80-dias-segun-hacienda_202607236a61dd80da3add27d4dd8616.html?utm_source=lootura.com) — 2026-07-23T13:40:13.000Z
-- [El PP pide la dimisión de Rosario Sánchez por apoyar la protesta antiturismo de Palma siendo el máximo cargo del sector](https://okdiario.com/baleares/pp-pide-dimision-rosario-sanchez-apoyar-protesta-antiturismo-palma-siendo-maximo-cargo-del-sector-19052436?utm_source=lootura.com) — 2026-07-23T13:15:21.000Z
-- [El Govern de Prohens apremia a Rosario Sánchez para que diga «si se manifestará contra sus propias políticas»](https://okdiario.com/baleares/govern-prohens-apremia-rosario-sanchez-que-diga-si-manifestara-contra-sus-propias-politicas-19054754?utm_source=lootura.com) — 2026-07-23T13:16:36.000Z

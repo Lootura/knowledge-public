@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/ester-munoz/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/ester-munoz/index.json",
   "description": "Sigue la actividad de Ester Muñoz en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-23T13:51:07.363Z",
+  "updatedAt": "2026-07-23T17:19:26.220Z",
   "aliases": [
     "Ester",
     "Ester Muñoz de la Iglesia",
@@ -23,16 +23,6 @@
       "date": "2026-07-23"
     },
     {
-      "title": "El PSOE mantiene su apoyo a la inocencia de Zapatero tras su entrevista en TVE y el PP la considera \"una tomadura de pelo\"",
-      "summary": "Los socialistas no se mueven de la posición que llevan manteninendo desde el estallido del caso 'Plus Ultra' y el Gobierno pide \"respeto\" al derecho a la defensa del expresidente. Mientras tanto, la portavoz popular Ester Muñoz denuncia que \"no ha contestado ninguna duda” e Isabel Díaz Ayuso denuncia que \"a un socialis.",
-      "date": "2026-07-23"
-    },
-    {
-      "title": "El PP asegura que el expresidente Zapatero «ha tomado el pelo a los españoles»",
-      "summary": "La portavoz del Grupo Popular en el Congreso de los Diputados , Ester Muñoz, ha asegurado que el expresidente del Gobierno José Luis Rodríguez Zapatero «ha tomado el pelo a los españoles» en su entrevista en TVE , insistiendo en que «ha sido una tomadura de pelo cuando le preguntan por el origen de las joyas y dice que.",
-      "date": "2026-07-23"
-    },
-    {
       "title": "Discovered by Atlas",
       "summary": "Ester Muñoz first entered the public knowledge record with source-backed evidence.",
       "date": "2026-07-23"
@@ -44,19 +34,7 @@
       "url": "https://elpais.com/espana/2026-07-23/ultima-hora-de-la-actualidad-politica-en-directo.html?utm_source=lootura.com",
       "publishedAt": "2026-07-23T13:37:20.000Z",
       "sourceId": "lootura-es-el-pais"
-    },
-    {
-      "title": "El PSOE mantiene su apoyo a la inocencia de Zapatero tras su entrevista en TVE y el PP la considera \"una tomadura de pelo\"",
-      "url": "https://www.eldiario.es/politica/psoe-mantiene-apoyo-inocencia-zapatero-entrevista-tve-pp-considera-tomadura-pelo_1_13402170.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-23T13:17:04.000Z",
-      "sourceId": "lootura-es-eldiario-es"
-    },
-    {
-      "title": "El PP asegura que el expresidente Zapatero «ha tomado el pelo a los españoles»",
-      "url": "https://theobjective.com/espana/politica/2026-07-23/pp-expresidente-pelo-espanoles/?utm_source=lootura.com",
-      "publishedAt": "2026-07-23T12:27:56.000Z",
-      "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 1
 }

@@ -8,14 +8,9 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/javier-ruiz/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/javier-ruiz/index.json",
   "description": "Sigue la actividad de Javier Ruiz en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-23T13:51:07.363Z",
+  "updatedAt": "2026-07-23T17:19:26.220Z",
   "aliases": [],
   "changes": [
-    {
-      "title": "Zapatero se desinfla en TVE y no da una sola prueba a los suyos para seguir defendiéndolo",
-      "summary": "El expresidente dejó en su entrevista con Javier Ruiz las mismas dudas que dejó al juez en su declaración del 17 de junio. Lo negó todo sin aportar...",
-      "date": "2026-07-23"
-    },
     {
       "title": "Entrevista a Zapatero, en ‘Mañaneros 360′: Una clase de periodismo y de pilates",
       "summary": "José Luis Rodríguez Zapatero habló por sus cuerdas vocales en la televisión pública, pero también con el cuerpo. Se marcó algo parecido a una clase de pilates mientras Javier Ruiz disparaba las preguntas en una comparecencia que casi nadie esperaba y, sin embargo, a todo el mundo le urgía. Los hombros arriba, junto a l.",
@@ -24,6 +19,16 @@
     {
       "title": "Zapatero baja de la Luna",
       "summary": "Zapatero en la televisión pública con Javier Ruiz. La entrevista en sí ya encierra un debate: ¿le conviene? Refugiado hasta ahora en el silencio, el expresidente decide coger el guante mediático y presentar batalla pública. Pero llega con esa batalla empezada, así que lo único que puede hacer ya es defenderse, a veces.",
+      "date": "2026-07-23"
+    },
+    {
+      "title": "La turra televisiva del expresidente",
+      "summary": "Javier Ruiz ha entrevistado a Zapatero . Y ha sido tan incisivo con el expresidente como un panda bebé con su peluche favorito rodando abrazados por una suave ladera de césped recién cortado. Ha empezado implacable (ejem), disparando a la línea de flotación (ejem, ejem): «Presidente, ¿se ha corrompido usted?». Y Zapate.",
+      "date": "2026-07-23"
+    },
+    {
+      "title": "Zapatero se desinfla en TVE y no da una sola prueba a los suyos para seguir defendiéndolo",
+      "summary": "El expresidente dejó en su entrevista con Javier Ruiz las mismas dudas que dejó al juez en su declaración del 17 de junio. Lo negó todo sin aportar...",
       "date": "2026-07-23"
     },
     {
@@ -54,10 +59,10 @@
   ],
   "sources": [
     {
-      "title": "Zapatero se desinfla en TVE y no da una sola prueba a los suyos para seguir defendiéndolo",
-      "url": "https://www.eldebate.com/espana/20260723/zapatero-desinfla-tve-no-da-sola-prueba-suyos-seguir-defendiendolo_442907.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-23T12:40:09.000Z",
-      "sourceId": "lootura-es-el-debate"
+      "title": "La turra televisiva del expresidente",
+      "url": "https://www.abc.es/play/television/noticias/rebeca-argudo-turra-televisiva-expresidente-20260723181555-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-23T16:30:01.000Z",
+      "sourceId": "lootura-es-abc"
     },
     {
       "title": "Entrevista a Zapatero, en ‘Mañaneros 360′: Una clase de periodismo y de pilates",

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/china/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/china/index.json",
   "description": "Follow China, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-23T06:29:04.058Z",
+  "updatedAt": "2026-07-23T17:20:03.497Z",
   "aliases": [
     "China PR",
     "Communist China",
@@ -20,6 +20,11 @@
     "the People's Republic of China"
   ],
   "changes": [
+    {
+      "title": "In a first, Chinese woman wins the prestigious Fields Medal",
+      "summary": "Despite criticisms of a brain drain from China to the U.S., the awards come at a time when several high-profile Chinese scholars have returned home, some citing an increasingly hostile academic environment in America.",
+      "date": "2026-07-23"
+    },
     {
       "title": "Rubio and Chinese Diplomat Make Plans for Trump and Xi’s Washington Summit",
       "summary": "Secretary of State Marco Rubio spent much of a meeting with China’s foreign minister discussing the summit, but did not bring up President Trump’s claims of election interference by China.",
@@ -64,13 +69,15 @@
       "title": "Landslide in southwestern China kills at least 8 and leaves 34 missing",
       "summary": "The landslide occurred around 9:08 a.m. on the outer edge of the Chongqing municipality, when massive amounts of rocks and soil washed downslope, burying more than 10 residential buildings, state broadcaster CCTV said.",
       "date": "2026-07-17"
-    },
-    {
-      "title": "China warns of reciprocal countermeasures after U.S. shortens foreign journalist visas",
-      "summary": "The Trump administration announced Thursday it will drastically shorten visas for foreign journalists in the U.S. to 240 days, down from years, and cut those for Chinese journalists to only 90 days, raising concerns over press freedom in the United States and prompting China to warn of possible reciprocal countermeasur.",
-      "date": "2026-07-17"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "In a first, Chinese woman wins the prestigious Fields Medal",
+      "url": "https://www.npr.org/2026/07/23/g-s1-135032/in-a-first-chinese-woman-wins-the-prestigious-fields-medal?utm_source=lootura.com",
+      "publishedAt": "2026-07-23T14:56:47.000Z",
+      "sourceId": "lootura-us-npr-world"
+    }
+  ],
+  "evidenceCount": 1
 }

@@ -70,4 +70,4 @@ Date: 2026-07-16
 
 ## Fuentes
 
-- [Repsol prioriza elevar la producción en Venezuela y aparca el debate de la deuda](https://theobjective.com/economia/2026-07-23/repsol-elevar-produccion-venezuela/?utm_source=lootura.com) — 2026-07-23T12:38:01.000Z
+No public source links.

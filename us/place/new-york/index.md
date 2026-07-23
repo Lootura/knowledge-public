@@ -3,7 +3,7 @@
 > Follow New York City, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-23T13:51:24.628Z
+- Updated: 2026-07-23T17:20:03.497Z
 - Canonical: https://atlas.lootura.com/us/place/new-york
 
 ## Recent changes
@@ -70,5 +70,5 @@ Date: 2026-07-20
 
 ## Sources
 
-- [Mamdani says he won't try to arrest Israel's Netanyahu](https://www.cbsnews.com/news/mamdani-will-not-arrest-israel-netanyahu-nyc-legal-authority-nypd-un/?utm_source=lootura.com) — 2026-07-23T00:39:53.000Z
+- [NYPD says dozens rescued from human trafficking during World Cup](https://www.cbsnews.com/news/nypd-says-dozens-rescued-from-human-trafficking-during-world-cup/?utm_source=lootura.com) — 2026-07-23T17:17:28.000Z
 - [Mamdani Knew He Couldn’t Arrest Netanyahu. But He Could Denounce Him.](https://www.nytimes.com/2026/07/22/nyregion/mamdani-netanyahu-speech.html?utm_source=lootura.com) — 2026-07-22T23:42:33.000Z

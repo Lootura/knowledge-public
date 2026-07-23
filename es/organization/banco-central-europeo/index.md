@@ -40,5 +40,4 @@ Date: 2026-07-23
 
 ## Fuentes
 
-- [El BCE mantiene los tipos en el 2,25% a pesar de la escalada de los precios de la energía](https://www.abc.es/economia/bce-mantiene-tipos-225-pesar-riesgos-derivados-20260723141757-nt.html?utm_source=lootura.com) — 2026-07-23T12:37:19.000Z
-- [Lagarde mantiene tipos en el 2,25% y deja la siguiente subida para septiembre: “El shock energético puede intensificarse”](https://elpais.com/economia/2026-07-23/el-bce-mantiene-tipos-en-el-225-y-deja-la-siguiente-subida-para-septiembre.html?utm_source=lootura.com) — 2026-07-23T13:07:08.000Z
+No public source links.

@@ -3,10 +3,16 @@
 > Sigue la actividad de Julio Iglesias en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-22T13:46:22.256Z
+- Actualizado: 2026-07-23T17:19:26.220Z
 - Canonical: https://atlas.lootura.com/es/person/julio-iglesias
 
 ## Cambios recientes
+
+### Una cantante presume de su pasado en ‘First Dates’: «Me acosté con la mitad que Julio Iglesias»
+
+El equipo de First Dates continúa con su labor de presentar solteros, también en verano. El popular formato se ha convertido en uno de los más vistos de la parrilla televisiva española, y sus diez años en emisión lo avalan. Una aventura televisiva a la que cada vez acuden más comensales. Por ello, recientemente, tuvimo.
+
+Date: 2026-07-23
 
 ### La demanda de Julio Iglesias contra Yolanda Díaz relata hechos falsos para acusar a la vicepresidenta
 
@@ -40,4 +46,4 @@ Date: 2026-07-21
 
 ## Fuentes
 
-No public source links.
+- [Una cantante presume de su pasado en ‘First Dates’: «Me acosté con la mitad que Julio Iglesias»](https://okdiario.com/happyfm/cantante-presume-pasado-first-dates-acoste-mitad-que-julio-iglesias-19053996?utm_source=lootura.com) — 2026-07-23T16:30:14.000Z

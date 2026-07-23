@@ -3,10 +3,22 @@
 > Sigue la actividad de El Gobierno en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-23T13:51:07.363Z
+- Actualizado: 2026-07-23T17:19:26.220Z
 - Canonical: https://atlas.lootura.com/es/organization/el-gobierno
 
 ## Cambios recientes
+
+### El Gobierno lanza a Díaz como candidata para dirigir la Organización Internacional del Trabajo
+
+Despejada la incógnita sobre el futuro político de Yolanda Díaz, que, tras claudicar en su propio proyecto político en España —Sumar, ahora descabezado—, aspira ahora a recolocarse en las Naciones Unidas. La dirigente izquierdista se postula oficialmente para liderar la Organización Internacional del Trabajo (OIT) en G.
+
+Date: 2026-07-23
+
+### El Gobierno y el PSOE cierran filas con Zapatero y aseguran que probará su inocencia
+
+El Gobierno y la dirección del PSOE reiteran su respaldo a José Luis Rodríguez Zapatero tras las explicaciones que el expresidente ha dado en RTVE, donde ha defendido su inocencia sin aportar ninguna información nueva a la que ya había declarado a mediados de junio ante el juez José Luis Calama de la Audiencia Nacional.
+
+Date: 2026-07-23
 
 ### Qué es la OIT: el organismo de Naciones Unidas para el que Yolanda Díaz ha sido propuesta para la dirección general por el Gobierno
 
@@ -23,12 +35,6 @@ Date: 2026-07-23
 ### El Gobierno reparte 23,7 millones en ayudas directas a 84 entidades culturales hasta 2029
 
 El Gobierno ha aprobado un Real Decreto por el que regula la concesión directa de 23.661.710 euros en subvenciones a 84 administraciones públicas y entidades culturales para el periodo 2026-2029, destinadas a proyectos relacionados con la conservación del patrimonio histórico, la actividad museística, la creación conte.
-
-Date: 2026-07-23
-
-### El Gobierno lanza a Díaz como candidata para dirigir la Organización Internacional del Trabajo
-
-Despejada la incógnita sobre el futuro político de Yolanda Díaz, que, tras claudicar en su propio proyecto político en España —Sumar, ahora descabezado—, aspira ahora a recolocarse en las Naciones Unidas. La dirigente izquierdista se postula oficialmente para liderar la Organización Internacional del Trabajo (OIT) en G.
 
 Date: 2026-07-23
 
@@ -62,16 +68,7 @@ Sánchez destaca que la vicepresidenta "ha demostrado con políticas y resultado
 
 Date: 2026-07-23
 
-### El Gobierno propone a la vicepresidenta Yolanda Díaz como candidata a dirigir la OIT
-
-El presidente Sánchez anuncia el "honor" de postular a su ministra de Trabajo quien "ha demostrado con políticas y resultados su compromiso con los derechos laborales, el diálogo social y la prosperidad de España" Qué es la OIT: el organismo de Naciones Unidas amenazado por Trump en el que sitúan a Yolanda Díaz El Gobi.
-
-Date: 2026-07-23
-
 ## Fuentes
 
-- [El Gobierno lanza a Díaz como candidata para dirigir la Organización Internacional del Trabajo](https://www.abc.es/espana/moncloa-propone-yolanda-diaz-optar-direccion-general-20260723090113-nt.html?utm_source=lootura.com) — 2026-07-23T13:23:46.000Z
-- [Qué es la OIT: el organismo de Naciones Unidas para el que Yolanda Díaz ha sido propuesta para la dirección general por el Gobierno](https://www.elconfidencial.com/espana/2026-07-23/que-es-oit-onu-yolanda-diaz-candidata-1qrt_4394690/?utm_source=lootura.com) — 2026-07-23T10:07:00.000Z
-- [El Gobierno declara la guerra al tabaco con la recaudación de los cigarrillos y vapeadores en máximos históricos](https://elpais.com/economia/2026-07-23/el-gobierno-declara-la-guerra-al-tabaco-con-la-recaudacion-de-los-cigarrillos-y-vapeadores-en-maximos-historicos.html?utm_source=lootura.com) — 2026-07-23T03:45:00.000Z
-- [El Gobierno salva el escudo anticrisis por la guerra en Irán con rebajas fiscales en los carburantes hasta octubre](https://www.eldiario.es/economia/gobierno-salva-escudo-anticrisis-guerra-iran-rebajas-fiscales-carburantes-octubre_1_13401170.html?utm_source=lootura.com) — 2026-07-23T11:00:50.000Z
-- [El Gobierno reparte 23,7 millones en ayudas directas a 84 entidades culturales hasta 2029](https://theobjective.com/cultura/2026-07-23/gobierno-237-millones-ayudas-directas-entidades-culturales/?utm_source=lootura.com) — 2026-07-23T09:55:20.000Z
+- [El Gobierno lanza a Díaz como candidata para dirigir la Organización Internacional del Trabajo](https://www.abc.es/espana/moncloa-propone-yolanda-diaz-optar-direccion-general-20260723090113-nt.html?utm_source=lootura.com) — 2026-07-23T16:37:48.000Z
+- [El Gobierno y el PSOE cierran filas con Zapatero y aseguran que probará su inocencia](https://elpais.com/espana/2026-07-23/el-gobierno-y-el-psoe-cierran-filas-con-zapatero-y-aseguran-que-probara-su-inocencia.html?utm_source=lootura.com) — 2026-07-23T12:48:42.000Z

@@ -70,4 +70,4 @@ Date: 2026-07-19
 
 ## Fuentes
 
-- [Nando Díaz, peluquero de la selección española: «Ferran Torres usa aceite de romero en su pelo. Refuerza el cabello y estimula el crecimiento»](https://www.abc.es/summum/estilo/belleza/nando-diaz-peluquero-seleccion-espanola-ferran-torres-20260723150116-nt_amp.html?utm_source=lootura.com) — 2026-07-23T13:01:17.000Z
+No public source links.

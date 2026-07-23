@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/julio-martinez/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/julio-martinez/index.json",
   "description": "Sigue la actividad de Julio Martínez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-23T13:51:07.363Z",
+  "updatedAt": "2026-07-23T17:19:26.220Z",
   "aliases": [
     "Julio Mart",
     "Julio Martínez Martínez",
@@ -18,6 +18,11 @@
     {
       "title": "Los titulares de la entrevista a Zapatero: de la estrategia de defensa de Julio Martínez a los trabajos de sus hijas",
       "summary": "El expresidente del Gobierno José Luis Rodríguez Zapatero ha dado este jueves en RTVE su primera entrevista a un medio de comunicación desde que fuese imputado en una investigación de la Audiencia Nacional que lo coloca en la cúspide de una trama internacional de tráfico ilícito de influencias. El asunto partía del lav.",
+      "date": "2026-07-23"
+    },
+    {
+      "title": "Zapatero no aclara el origen de las joyas y niega su implicación en Plus Ultra",
+      "summary": "José Luis Rodríguez Zapatero cambia de guion, pero no de versión. Después de más de dos meses sumido en un silencio prudente, que priorizaba la estrategia procesal, el giro en el caso -propiciado por la confesión de quien fuera su amigo 'Julito' Martínez y dos directivos de Plus Ultra- le ha obligado a romper el hermet.",
       "date": "2026-07-23"
     },
     {
@@ -56,17 +61,18 @@
       "date": "2026-07-22"
     },
     {
-      "title": "La nueva dimensión del ‘caso Zapatero’ no mueve al Gobierno mientras el expresidente mantiene su silencio",
-      "summary": "El caso Zapatero ha entrado en una nueva dimensión. Y cada vez peor para él mismo, para el PSOE y para el Gobierno. Su hasta ahora amigo Julio Martínez Martínez, a quien el juez ha presentado como un “correveidile” del expresidente, ha dado el paso que tanto se temía desde hace semanas en las filas socialistas: ha desm.",
-      "date": "2026-07-22"
-    },
-    {
-      "title": "La causa contra Zapatero sitúa ahora el foco en la cúpula de Plus Ultra tras contradecir la versión del expresidente",
-      "summary": "Julio Martínez Martínez entró sobre las 8.45 de este martes en la Audiencia Nacional y salió más de cuatro horas después sin moverse mucho de la línea marcada un día antes en el escrito enviado al juez José Luis Calama para implicar al expresidente José Luis Rodríguez Zapatero en el rescate de Plus Ultra . El giro del.",
+      "title": "Julio Martínez complica el futuro judicial de Zapatero aunque no despeja la X que pondría en serios aprietos a Moncloa",
+      "summary": "La declaración de Julio Martínez Martínez y los escritos que tanto él como dos altos cargos de Plus Ultra han remitido esta semana a la Audiencia Nacional han complicado seriamente el futuro judicial de José Luis Rodríguez Zapatero . Los tres investigados corroboran ahora los informes de la UDEF y señalan que el expres.",
       "date": "2026-07-22"
     }
   ],
   "sources": [
+    {
+      "title": "Zapatero no aclara el origen de las joyas y niega su implicación en Plus Ultra",
+      "url": "https://www.abc.es/espana/zapatero-reafirma-inocencia-aclara-origen-joyas-regalo-20260723131048-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-23T16:41:00.000Z",
+      "sourceId": "lootura-es-abc"
+    },
     {
       "title": "Los titulares de la entrevista a Zapatero: de la estrategia de defensa de Julio Martínez a los trabajos de sus hijas",
       "url": "https://elpais.com/espana/2026-07-23/las-titulares-de-la-entrevista-a-zapatero-de-la-estrategia-de-defensa-de-julio-martinez-a-los-trabajos-de-sus-hijas.html?utm_source=lootura.com",
@@ -74,5 +80,5 @@
       "sourceId": "lootura-es-el-pais"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 2
 }

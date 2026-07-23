@@ -70,4 +70,4 @@ Date: 2026-07-22
 
 ## Fuentes
 
-- [Emirates dice que no está dispuesta a aceptar ninguno de los primeros Boeing 777X de producción](http://www.microsiervos.com/archivo/aerotrastorno/emirate-no-aceptar-primeros-boeing-777x-produccion.html?utm_source=lootura.com) — 2026-07-23T11:00:00.000Z
+No public source links.

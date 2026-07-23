@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/julio-iglesias/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/julio-iglesias/index.json",
   "description": "Sigue la actividad de Julio Iglesias en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-22T13:46:22.256Z",
+  "updatedAt": "2026-07-23T17:19:26.220Z",
   "aliases": [
     "Iglesias",
     "Julio"
   ],
   "changes": [
+    {
+      "title": "Una cantante presume de su pasado en ‘First Dates’: «Me acosté con la mitad que Julio Iglesias»",
+      "summary": "El equipo de First Dates continúa con su labor de presentar solteros, también en verano. El popular formato se ha convertido en uno de los más vistos de la parrilla televisiva española, y sus diez años en emisión lo avalan. Una aventura televisiva a la que cada vez acuden más comensales. Por ello, recientemente, tuvimo.",
+      "date": "2026-07-23"
+    },
     {
       "title": "La demanda de Julio Iglesias contra Yolanda Díaz relata hechos falsos para acusar a la vicepresidenta",
       "summary": "El abogado del cantante pide 50.000 euros de indemnización por \"daños morales\" a su cliente Julio Iglesias se querella contra elDiario.es, contra su director y contra cuatro de sus periodistas La demanda de protección civil del derecho al honor que ha interpuesto Julio Iglesias contra la vicepresidenta segunda y minist.",
@@ -40,6 +45,13 @@
       "date": "2026-07-21"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Una cantante presume de su pasado en ‘First Dates’: «Me acosté con la mitad que Julio Iglesias»",
+      "url": "https://okdiario.com/happyfm/cantante-presume-pasado-first-dates-acoste-mitad-que-julio-iglesias-19053996?utm_source=lootura.com",
+      "publishedAt": "2026-07-23T16:30:14.000Z",
+      "sourceId": "lootura-es-ok-diario"
+    }
+  ],
+  "evidenceCount": 1
 }

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/donald-trump/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/donald-trump/index.json",
   "description": "Sigue la actividad de Donald Trump en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-23T10:20:05.700Z",
+  "updatedAt": "2026-07-23T17:19:26.220Z",
   "aliases": [
     "@realDonaldTrump",
     "DJT",
@@ -24,6 +24,11 @@
     "Trump"
   ],
   "changes": [
+    {
+      "title": "Los ataques hutíes en el Mar Rojo, que Trump promete castigar, disparan el petróleo a 100 dólares",
+      "summary": "Lejos de amainar, el conflicto de Oriente Próximo sacude al mundo, las economías nacionales y los mercados con un segundo nuevo frente. Tras una docena de días de nuevas...",
+      "date": "2026-07-23"
+    },
     {
       "title": "El Gobierno propone a la vicepresidenta Yolanda Díaz como candidata a dirigir la OIT",
       "summary": "El presidente Sánchez anuncia el \"honor\" de postular a su ministra de Trabajo quien \"ha demostrado con políticas y resultados su compromiso con los derechos laborales, el diálogo social y la prosperidad de España\" Qué es la OIT: el organismo de Naciones Unidas amenazado por Trump en el que sitúan a Yolanda Díaz El Gobi.",
@@ -68,13 +73,15 @@
       "title": "Trump se dispone a firmar un acuerdo nuclear con Arabia Saudí en plena escalada de tensiones con Irán",
       "summary": "En plena escalada de tensiones bélicas con Irán, el Gobierno de Estados Unidos que preside Donald Trump se dispone a firmar un acuerdo con Arabia Saudí que permitiría al país contar con un programa nuclear civil, abriendo la puerta al enriquecimiento de uranio. El acuerdo, que busca reordenar el equilibrio de poderes e.",
       "date": "2026-07-22"
-    },
-    {
-      "title": "El pacto nuclear de EE.UU. con Arabia Saudí hace temer una carrera atómica en Oriente Próximo",
-      "summary": "Fuentes oficiales de la Casa Blanca han filtrado a los principales medios de prensa anglosajones que el presidente Trump ha cerrado un acuerdo para compartir tecnología nuclear con Arabia Saudí. El plan, que será sometido al Congreso de Estados Unidos para su aprobación, supone un cambio de política radical al no inclu.",
-      "date": "2026-07-22"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Los ataques hutíes en el Mar Rojo, que Trump promete castigar, disparan el petróleo a 100 dólares",
+      "url": "https://amp.expansion.com/economia/2026/07/23/6a623bc7e5fdea930a8b4594.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-23T16:05:29.000Z",
+      "sourceId": "lootura-es-expansion"
+    }
+  ],
+  "evidenceCount": 1
 }

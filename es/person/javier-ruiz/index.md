@@ -3,16 +3,10 @@
 > Sigue la actividad de Javier Ruiz en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-23T13:51:07.363Z
+- Actualizado: 2026-07-23T17:19:26.220Z
 - Canonical: https://atlas.lootura.com/es/person/javier-ruiz
 
 ## Cambios recientes
-
-### Zapatero se desinfla en TVE y no da una sola prueba a los suyos para seguir defendiéndolo
-
-El expresidente dejó en su entrevista con Javier Ruiz las mismas dudas que dejó al juez en su declaración del 17 de junio. Lo negó todo sin aportar...
-
-Date: 2026-07-23
 
 ### Entrevista a Zapatero, en ‘Mañaneros 360′: Una clase de periodismo y de pilates
 
@@ -23,6 +17,18 @@ Date: 2026-07-23
 ### Zapatero baja de la Luna
 
 Zapatero en la televisión pública con Javier Ruiz. La entrevista en sí ya encierra un debate: ¿le conviene? Refugiado hasta ahora en el silencio, el expresidente decide coger el guante mediático y presentar batalla pública. Pero llega con esa batalla empezada, así que lo único que puede hacer ya es defenderse, a veces.
+
+Date: 2026-07-23
+
+### La turra televisiva del expresidente
+
+Javier Ruiz ha entrevistado a Zapatero . Y ha sido tan incisivo con el expresidente como un panda bebé con su peluche favorito rodando abrazados por una suave ladera de césped recién cortado. Ha empezado implacable (ejem), disparando a la línea de flotación (ejem, ejem): «Presidente, ¿se ha corrompido usted?». Y Zapate.
+
+Date: 2026-07-23
+
+### Zapatero se desinfla en TVE y no da una sola prueba a los suyos para seguir defendiéndolo
+
+El expresidente dejó en su entrevista con Javier Ruiz las mismas dudas que dejó al juez en su declaración del 17 de junio. Lo negó todo sin aportar...
 
 Date: 2026-07-23
 
@@ -58,6 +64,6 @@ Date: 2026-07-22
 
 ## Fuentes
 
-- [Zapatero se desinfla en TVE y no da una sola prueba a los suyos para seguir defendiéndolo](https://www.eldebate.com/espana/20260723/zapatero-desinfla-tve-no-da-sola-prueba-suyos-seguir-defendiendolo_442907.html?utm_source=lootura.com) — 2026-07-23T12:40:09.000Z
+- [La turra televisiva del expresidente](https://www.abc.es/play/television/noticias/rebeca-argudo-turra-televisiva-expresidente-20260723181555-nt.html?utm_source=lootura.com) — 2026-07-23T16:30:01.000Z
 - [Entrevista a Zapatero, en ‘Mañaneros 360′: Una clase de periodismo y de pilates](https://elpais.com/television/2026-07-23/entrevista-a-zapatero-en-mananeros-360-una-clase-de-periodismo-y-de-pilates.html?utm_source=lootura.com) — 2026-07-23T12:34:11.000Z
 - [Zapatero baja de la Luna](https://elpais.com/espana/2026-07-23/zapatero-baja-de-la-luna.html?utm_source=lootura.com) — 2026-07-23T13:21:32.000Z

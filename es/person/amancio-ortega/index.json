@@ -1,0 +1,48 @@
+{
+  "id": "es-amancio-ortega",
+  "name": "Amancio Ortega",
+  "type": "person",
+  "locale": "es",
+  "canonicalPath": "/es/person/amancio-ortega",
+  "canonicalUrl": "https://atlas.lootura.com/es/person/amancio-ortega",
+  "markdownUrl": "https://atlas.lootura.com/es/person/amancio-ortega/index.md",
+  "jsonUrl": "https://atlas.lootura.com/es/person/amancio-ortega/index.json",
+  "description": "Sigue la actividad de Amancio Ortega en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
+  "updatedAt": "2026-07-23T17:19:26.220Z",
+  "aliases": [
+    "Amancio Ortega Gaona",
+    "Amancio Ortega y Gaona"
+  ],
+  "changes": [
+    {
+      "title": "Sanda Ortega ganó 307 millones con su holding empresarial gracias al alza de dividendos de Inditex",
+      "summary": "Sandra Ortega, primogénita del principal accionista de Inditex, Amancio Ortega , y segunda mayor inversora a título individual del gigante textil, alcanzó unos beneficios de 307 millones de euros en 2025 a través de su holding empresarial Rosp Corunna. A través de este posee el 5,05% del capital del grupo gallego, adem.",
+      "date": "2026-07-23"
+    },
+    {
+      "title": "Pontegadea sella su operación récord en Europa con una compra en París por 800 millones",
+      "summary": "Pontegadea da el campanazo con la mayor compra de un inmueble que cierra en Europa en toda su historia. La patrimonial de Amancio Ortega ha comprado Capital 8 en París por más de 800 millones de euros , según ha podido confirmar EXPANSIÓN en fuentes del mercado. Seguir leyendo.",
+      "date": "2026-07-23"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Amancio Ortega first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-07-23"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Sanda Ortega ganó 307 millones con su holding empresarial gracias al alza de dividendos de Inditex",
+      "url": "https://cincodias.elpais.com/companias/2026-07-23/sanda-ortega-gano-307-millones-con-su-holding-empresarial-gracias-al-alza-de-dividendos-de-inditex.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-23T17:01:22.000Z",
+      "sourceId": "lootura-es-cinco-dias"
+    },
+    {
+      "title": "Pontegadea sella su operación récord en Europa con una compra en París por 800 millones",
+      "url": "https://www.expansion.com/inmobiliario/mercado/2026/07/23/6a624222468aeb48318b4591.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-23T16:32:41.000Z",
+      "sourceId": "lootura-es-expansion"
+    }
+  ],
+  "evidenceCount": 2
+}

@@ -70,4 +70,4 @@ Date: 2026-07-16
 
 ## Sources
 
-- [Tick Bites Are Causing Red-Meat Allergies. What to Know About Alpha-Gal Syndrome](https://time.com/article/2026/07/23/ticks-alpha-gal-red-meat-allergy/?utm_source=lootura.com) — 2026-07-23T13:31:21.000Z
+No public source links.

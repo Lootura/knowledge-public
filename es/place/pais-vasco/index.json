@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/pais-vasco/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/pais-vasco/index.json",
   "description": "Sigue la actividad de País Vasco en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-23T13:51:07.363Z",
+  "updatedAt": "2026-07-23T17:19:26.220Z",
   "aliases": [
     "Autonomous Community of the Basque Country",
     "Basque Autonomous Community",
@@ -26,6 +26,11 @@
     {
       "title": "Rebajan la condena de siete a tres años y medio de cárcel a un vizcaíno por tenencia ilícita de armas y fabricación de munición",
       "summary": "El Tribunal Superior de Justicia del País Vasco le absuelve del delito de depósito de explosivos.",
+      "date": "2026-07-23"
+    },
+    {
+      "title": "Hondarribia, la joya medieval de Gipuzkoa que combina historia, color y algunos de los mejores pintxos del verano",
+      "summary": "Mientras algunos vascos aprovechan el verano para viajar al extranjero, otros prefieren quedarse cerca y explorar lugares que conservan la esencia de Euskadi. Entre ellos destaca Hondarribia , una localidad que mezcla mar, historia y gastronomía en un entorno que parece detenido en el tiempo. Según Hondarribia Turismo.",
       "date": "2026-07-23"
     },
     {
@@ -67,11 +72,6 @@
       "title": "Las escaleras más famosas de Bizkaia",
       "summary": "San Juan de Gaztelugatxe recibe más de 1.400 visitantes al día. La fe, el paisaje y Juego de Tronos explican el éxito de los rincones más visitados del País Vasco.",
       "date": "2026-07-18"
-    },
-    {
-      "title": "El retraso en la devolución de las fianzas de los alquileres en Euskadi obliga a Vivienda a pagar intereses",
-      "summary": "El plazo se ha duplicado en un año, pasando de mes y medio a tres meses, y el Gobierno Vasco lo achaca a «problemas de personal».",
-      "date": "2026-07-17"
     }
   ],
   "sources": [
@@ -82,10 +82,10 @@
       "sourceId": "lootura-es-el-correo"
     },
     {
-      "title": "Las comunidades del PP plantan al Gobierno en la reunión sobre regularización de migrantes y fuerzan su suspensión",
-      "url": "https://www.eldiario.es/desalambre/comunidades-pp-plantan-gobierno-reunion-regularizacion-migrantes_1_13401812.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-23T12:04:37.000Z",
-      "sourceId": "lootura-es-eldiario-es"
+      "title": "Hondarribia, la joya medieval de Gipuzkoa que combina historia, color y algunos de los mejores pintxos del verano",
+      "url": "https://www.larazon.es/pais-vasco/hondarribia-joya-medieval-gipuzkoa-que-combina-historia-color-algunos-mejores-pintxos-verano_202607236a6248a4aa17c0020f2c0770.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-23T17:00:20.000Z",
+      "sourceId": "lootura-es-la-razon"
     }
   ],
   "evidenceCount": 2

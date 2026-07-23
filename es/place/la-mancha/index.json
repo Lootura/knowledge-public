@@ -8,20 +8,20 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/la-mancha/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/la-mancha/index.json",
   "description": "Sigue la actividad de La Mancha en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-23T13:51:07.363Z",
+  "updatedAt": "2026-07-23T17:19:26.220Z",
   "aliases": [
     "Comarca manchega",
     "Mancha"
   ],
   "changes": [
     {
-      "title": "El regreso de algunos vecinos de Guadalajara tras la pesadilla del fuego: “Se escuchaba cómo venía el infierno”",
-      "summary": "El paisaje de la Sierra Norte de Guadalajara es desolador. Más de 32.000 hectáreas han sido arrasadas por el mayor incendio de la historia de Castilla-La Mancha, que este miércoles por primer vez parece dar tregua tras más de seis días. Algunos pueblos han podido ser realojados, otros siguen confinados o desalojados. L.",
+      "title": "Castilla-La Mancha se suma a los avisos rojos por calor de Murcia y la Comunidad Valenciana",
+      "summary": "Jueves cruel en las regiones mediterráneas, a las que la ola de calor castigará especialmente con un repunte en las temperaturas en el mismo día en el que se despide de España. Tanto apretará en el sudeste que la Agencia Estatal de Meteorología (Aemet) ha decretado el aviso rojo , el máximo, en Murcia y en la Comunidad.",
       "date": "2026-07-23"
     },
     {
-      "title": "Castilla-La Mancha se suma a los avisos rojos por calor de Murcia y la Comunidad Valenciana",
-      "summary": "Jueves cruel en las regiones mediterráneas, a las que la ola de calor castigará especialmente con un repunte en las temperaturas en el mismo día en el que se despide de España. Tanto apretará en el sudeste que la Agencia Estatal de Meteorología (Aemet) ha decretado el aviso rojo , el máximo, en Murcia y en la Comunidad.",
+      "title": "El regreso de algunos vecinos de Guadalajara tras la pesadilla del fuego: “Se escuchaba cómo venía el infierno”",
+      "summary": "El paisaje de la Sierra Norte de Guadalajara es desolador. Más de 32.000 hectáreas han sido arrasadas por el mayor incendio de la historia de Castilla-La Mancha, que este miércoles por primer vez parece dar tregua tras más de seis días. Algunos pueblos han podido ser realojados, otros siguen confinados o desalojados. L.",
       "date": "2026-07-23"
     },
     {
@@ -67,17 +67,11 @@
   ],
   "sources": [
     {
-      "title": "El regreso de algunos vecinos de Guadalajara tras la pesadilla del fuego: “Se escuchaba cómo venía el infierno”",
-      "url": "https://elpais.com/espana/2026-07-23/el-regreso-de-algunos-vecinos-de-guadalajara-tras-la-pesadilla-del-fuego-se-escuchaba-como-venia-el-infierno.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-23T03:30:01.000Z",
-      "sourceId": "lootura-es-el-pais"
-    },
-    {
       "title": "Castilla-La Mancha se suma a los avisos rojos por calor de Murcia y la Comunidad Valenciana",
       "url": "https://elpais.com/clima-y-medio-ambiente/2026-07-23/la-tercera-ola-de-calor-del-verano-se-despide-con-avisos-rojos-en-murcia-y-la-comunidad-valenciana.html?utm_source=lootura.com",
       "publishedAt": "2026-07-23T10:12:32.000Z",
       "sourceId": "lootura-es-el-pais"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

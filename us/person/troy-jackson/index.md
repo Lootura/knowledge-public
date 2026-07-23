@@ -70,4 +70,4 @@ Date: 2026-07-20
 
 ## Sources
 
-- [The Debate Moment That Captures Democrats’ Worries About Troy Jackson](https://time.com/article/2026/07/23/the-moment-that-explains-why-troy-jackson-has-democrats-spooked/?utm_source=lootura.com) — 2026-07-23T11:00:00.000Z
+No public source links.

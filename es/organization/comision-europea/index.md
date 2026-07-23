@@ -3,16 +3,10 @@
 > Sigue la actividad de Comisión Europea en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-23T13:51:07.363Z
+- Actualizado: 2026-07-23T17:19:26.220Z
 - Canonical: https://atlas.lootura.com/es/organization/comision-europea
 
 ## Cambios recientes
-
-### Bruselas multa a Google con 890 millones por favorecer a sus propios servicios y obstaculizar los de la competencia
-
-Nueva multa a Google de la Comisión Europea . En este caso, de 890 millones por favorecer sus propios productos y por poner restricciones a la competencia. La sanción, en realidad, son dos: una de 460 millones por “privilegiar sus propios servicios” en el buscador Google Search, y otra de 430 millones por “imponer rest.
-
-Date: 2026-07-23
 
 ### Nueva multa millonaria a Google en Europa, esta vez por dos infracciones a la Ley de Mercados Digitales
 
@@ -26,7 +20,12 @@ Comisión Europea first entered the public knowledge record with source-backed e
 
 Date: 2026-07-23
 
+### Bruselas multa a Google con 890 millones por favorecer a sus propios servicios y obstaculizar los de la competencia
+
+Nueva multa a Google de la Comisión Europea . En este caso, de 890 millones por favorecer sus propios productos y por poner restricciones a la competencia. La sanción, en realidad, son dos: una de 460 millones por “privilegiar sus propios servicios” en el buscador Google Search, y otra de 430 millones por “imponer rest.
+
+Date: 2026-07-23
+
 ## Fuentes
 
-- [Bruselas multa a Google con 890 millones por favorecer a sus propios servicios y obstaculizar los de la competencia](https://elpais.com/economia/2026-07-23/bruselas-multa-a-google-con-890-millones-por-favorecer-a-sus-propios-servicios-y-obstaculizar-los-de-la-competencia.html?utm_source=lootura.com) — 2026-07-23T10:05:46.000Z
 - [Nueva multa millonaria a Google en Europa, esta vez por dos infracciones a la Ley de Mercados Digitales](https://hipertextual.com/legal/europa-multa-google-890-millones-euros-julio-2026/?utm_source=lootura.com) — 2026-07-23T13:46:48.000Z

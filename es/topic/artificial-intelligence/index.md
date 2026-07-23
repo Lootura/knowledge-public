@@ -3,7 +3,7 @@
 > Sigue la actividad de Artificial intelligence en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: topic
-- Actualizado: 2026-07-23T13:51:07.363Z
+- Actualizado: 2026-07-23T17:19:26.220Z
 - Canonical: https://atlas.lootura.com/es/topic/artificial-intelligence
 
 ## Cambios recientes
@@ -46,4 +46,4 @@ Date: 2026-07-10
 
 ## Fuentes
 
-- [La escuela y la herencia del futuro](https://elpais.com/opinion/2026-07-23/la-escuela-y-la-herencia-del-futuro.html?utm_source=lootura.com) — 2026-07-23T03:30:01.000Z
+- [Así escapó una inteligencia artificial para robar las respuestas de su propio examen: «El riesgo está en que cumplan órdenes a cualquier precio»](https://www.diariovasco.com/egia-guztia/inteligencia-artificial/escapo-inteligencia-artificial-robar-respuestas-propio-examen-20260723185353-nt_amp.html?utm_source=lootura.com) — 2026-07-23T16:53:53.000Z

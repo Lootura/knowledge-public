@@ -3,7 +3,7 @@
 > Follow Startups, a tracked market, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: market
-- Updated: 2026-07-23T13:51:24.628Z
+- Updated: 2026-07-23T17:20:03.497Z
 - Canonical: https://atlas.lootura.com/us/market/startups
 
 ## Recent changes

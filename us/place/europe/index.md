@@ -3,7 +3,7 @@
 > Follow Europe, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-23T13:51:24.628Z
+- Updated: 2026-07-23T17:20:03.497Z
 - Canonical: https://atlas.lootura.com/us/place/europe
 
 ## Recent changes
@@ -71,5 +71,4 @@ Date: 2026-07-17
 ## Sources
 
 - [Google Hit With $1 Billion Fine By EU Over Search Engine Practices](https://www.nytimes.com/2026/07/23/business/google-eu-fine-search-competition.html?utm_source=lootura.com) — 2026-07-23T12:33:45.000Z
-- [U.S.-Saudi Deal Prompts Fears of a Global Nuclear Arms Race](https://www.nytimes.com/2026/07/23/world/europe/us-saudi-deal-nuclear-hedging.html?utm_source=lootura.com) — 2026-07-23T13:03:50.000Z
-- [Google hit with $1 billion fine for breaking EU antitrust rules](https://www.theverge.com/tech/943866/google-alphabet-eu-dma-fine-search-services-play-store-steering?utm_source=lootura.com) — 2026-07-23T10:33:08.000Z
+- [U.S.-Saudi Deal Prompts Fears of a Global Nuclear Arms Race](https://www.nytimes.com/2026/07/23/world/europe/us-saudi-deal-nuclear-hedging.html?utm_source=lootura.com) — 2026-07-23T15:28:15.000Z

@@ -3,10 +3,16 @@
 > Sigue la actividad de San Sebastián en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-23T10:20:05.700Z
+- Actualizado: 2026-07-23T17:19:26.220Z
 - Canonical: https://atlas.lootura.com/es/place/san-sebastian
 
 ## Cambios recientes
+
+### La Oreja de Van Gogh, a días de su vuelta a casa: «Estamos aterrorizados porque San Sebastián es la plaza más importante de todas»
+
+Xabi San Martín y Álvaro Fuentes desvelan algunas pinceladas sobre los dos conciertos que La Oreja de Van Gogh dará en la capital guipuzcoana la próxima semana.
+
+Date: 2026-07-23
 
 ### Una avería provoca retrasos en varias líneas de Cercanáis Madrid entre Villaverde Bajo y Atocha
 
@@ -62,12 +68,6 @@ La película está protagonizada por Antonio de la Torre, Patricia López Arnaiz
 
 Date: 2026-07-19
 
-### El Hospital Donostia realiza una operación pionera en bebés con problemas en el riñón
-
-Opera por primera vez en Euskadi a lactantes para corregir el estrechamiento entre el uréter y el riñón con una técnica mínimamente invasiva.
-
-Date: 2026-07-18
-
 ## Fuentes
 
-No public source links.
+- [La Oreja de Van Gogh, a días de su vuelta a casa: «Estamos aterrorizados porque San Sebastián es la plaza más importante de todas»](https://www.diariovasco.com/culturas/musica/la-oreja-de-van-gogh-vuelta-san-sebastian-conciertos-aterrorizados-20260723141004-nt_amp.html?utm_source=lootura.com) — 2026-07-23T12:24:48.000Z

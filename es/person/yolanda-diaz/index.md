@@ -3,16 +3,10 @@
 > Sigue la actividad de Yolanda Díaz en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-23T13:51:07.363Z
+- Actualizado: 2026-07-23T17:19:26.220Z
 - Canonical: https://atlas.lootura.com/es/person/yolanda-diaz
 
 ## Cambios recientes
-
-### Qué es la OIT: el organismo de Naciones Unidas para el que Yolanda Díaz ha sido propuesta para la dirección general por el Gobierno
-
-El Gobierno ha respaldado la candidatura de Yolanda Díaz para optar a la dirección general del organismo de Naciones Unidas , la Organización Internacional del Trabajo (OIT) . La elección, prevista para noviembre, sitúa el foco en una institución clave para las políticas laborales internacionales y en el papel que dese.
-
-Date: 2026-07-23
 
 ### Discovered by Atlas
 
@@ -23,6 +17,18 @@ Date: 2026-07-23
 ### El Gobierno lanza a Díaz como candidata para dirigir la Organización Internacional del Trabajo
 
 Despejada la incógnita sobre el futuro político de Yolanda Díaz, que, tras claudicar en su propio proyecto político en España —Sumar, ahora descabezado—, aspira ahora a recolocarse en las Naciones Unidas. La dirigente izquierdista se postula oficialmente para liderar la Organización Internacional del Trabajo (OIT) en G.
+
+Date: 2026-07-23
+
+### El rechazo de las patronales complica la llegada de Díaz a la OIT
+
+Abandonados todos los cargos orgánicos en Sumar y con el fin de su carrera en primera línea de la política cuando acabe la legislatura, la vicepresidenta segunda y ministra de Trabajo, Yolanda Díaz, lleva tiempo buscando la forma de dirigir la Organización Internacional del Trabajo (OIT), una agencia de las Naciones Un.
+
+Date: 2026-07-23
+
+### Qué es la OIT: el organismo de Naciones Unidas para el que Yolanda Díaz ha sido propuesta para la dirección general por el Gobierno
+
+El Gobierno ha respaldado la candidatura de Yolanda Díaz para optar a la dirección general del organismo de Naciones Unidas , la Organización Internacional del Trabajo (OIT) . La elección, prevista para noviembre, sitúa el foco en una institución clave para las políticas laborales internacionales y en el papel que dese.
 
 Date: 2026-07-23
 
@@ -64,6 +70,5 @@ Date: 2026-07-23
 
 ## Fuentes
 
-- [El Gobierno lanza a Díaz como candidata para dirigir la Organización Internacional del Trabajo](https://www.abc.es/espana/moncloa-propone-yolanda-diaz-optar-direccion-general-20260723090113-nt.html?utm_source=lootura.com) — 2026-07-23T13:23:46.000Z
-- [El rechazo de las patronales complica su llegada a la dirección del organismo](https://www.abc.es/economia/rechazo-patronales-complica-llegada-yolanda-diaz-direccion-20260723111725-nt.html?utm_source=lootura.com) — 2026-07-23T13:03:04.000Z
-- [Qué es la OIT: el organismo de Naciones Unidas para el que Yolanda Díaz ha sido propuesta para la dirección general por el Gobierno](https://www.elconfidencial.com/espana/2026-07-23/que-es-oit-onu-yolanda-diaz-candidata-1qrt_4394690/?utm_source=lootura.com) — 2026-07-23T10:07:00.000Z
+- [El rechazo de las patronales complica la llegada de Díaz a la OIT](https://www.abc.es/economia/rechazo-patronales-complica-llegada-yolanda-diaz-direccion-20260723111725-nt.html?utm_source=lootura.com) — 2026-07-23T16:41:05.000Z
+- [El Gobierno lanza a Díaz como candidata para dirigir la Organización Internacional del Trabajo](https://www.abc.es/espana/moncloa-propone-yolanda-diaz-optar-direccion-general-20260723090113-nt.html?utm_source=lootura.com) — 2026-07-23T16:37:48.000Z

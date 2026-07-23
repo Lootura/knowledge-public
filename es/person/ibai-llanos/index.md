@@ -64,8 +64,4 @@ Date: 2026-07-20
 
 ## Fuentes
 
-- [La CNMC multa a Ibai Llanos y Nachter por publicidad encubierta y a Jordi Wild por contenido violento](https://www.abc.es/economia/cnmc-multa-ibai-llanos-nachter-jordi-wild-20260723124532-nt.html?utm_source=lootura.com) — 2026-07-23T12:39:07.000Z
-- [Lola Índigo dedica un romántico mensaje a IlloJuan antes de su combate en La Velada VI](https://www.abc.es/gente/lola-indigo-rompe-regla-oro-dedica-romantico-20260723144348-nt.html?utm_source=lootura.com) — 2026-07-23T12:43:49.000Z
-- [La CNMC impone una multa de 4.000 euros a los ‘influencers’ Ibai Llanos, Jordi Wild y Nachter](https://elpais.com/economia/2026-07-23/la-cnmc-impone-una-multa-de-4000-euros-a-los-influencers-ibai-llanos-jordi-wild-y-nachter.html?utm_source=lootura.com) — 2026-07-23T10:30:20.000Z
-- [Multa histórica de 4.000 euros a Ibai Llanos, Jordi Wild y Nachter por sus contenidos en redes sociales](https://hipertextual.com/actualidad/multa-historica-de-4-000-euros-a-ibai-llanos-jordi-wild-y-nachter-por-sus-contenidos-en-redes-sociales/?utm_source=lootura.com) — 2026-07-23T12:12:27.000Z
-- [Comisión de la Competencia multa a Ibai Llanos, Jordi Wild y Nachter por irregularidades](https://theobjective.com/economia/2026-07-23/comision-competencia-multa-ibai/?utm_source=lootura.com) — 2026-07-23T12:39:04.000Z
+No public source links.

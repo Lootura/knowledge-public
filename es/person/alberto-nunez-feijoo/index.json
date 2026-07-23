@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/alberto-nunez-feijoo/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/alberto-nunez-feijoo/index.json",
   "description": "Sigue la actividad de Alberto Núñez Feijóo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-23T10:20:05.700Z",
+  "updatedAt": "2026-07-23T17:19:26.220Z",
   "aliases": [
     "Alberto",
     "Alberto Nuñez",
@@ -22,6 +22,11 @@
     "Núñez Feijóo"
   ],
   "changes": [
+    {
+      "title": "La desvergüenza de comparar a Feijóo con Hitler",
+      "summary": "Comparar a Feijóo con Hitler no es solo una ofensa a las víctimas, sino que demuestra que Diana Morant es una sectaria sin escrúpulos.",
+      "date": "2026-07-23"
+    },
     {
       "title": "El PP exige la dimisión de Morant por comparar un gobierno de Feijóo con Hitler: \"Está en una situación desesperada\"",
       "summary": "El secretario general del PP, Miguel Tellado , ha reclamado este jueves la dimisión inmediata de la ministra de Ciencia y líder del PSPV-PSOE, Diana Morant , después de que esta comparase un eventual Gobierno presidido por Alberto Núñez Feijóo con el “criminal” Hitler . A su entender, esas palabras definen tanto a la d.",
@@ -66,13 +71,15 @@
       "title": "Feijóo arremete contra Sánchez: “Son sus últimas Navidades en la Moncloa”",
       "summary": "Alberto Núñez Feijóo ha hecho este miércoles balance del curso político que ha acabado y ha dado la legislatura por finiquitada en un momento en que la debilidad del Gobierno en el Congreso impide prácticamente la aprobación de leyes y los casos de corrupción cercan al entorno político y personal de Pedro Sánchez. Fren.",
       "date": "2026-07-22"
-    },
-    {
-      "title": "Feijóo se adelanta a Sánchez en el balance del curso para aprovechar el misil lanzado por Julio Martínez",
-      "summary": "El líder del PP, Alberto Núñez Feijóo, ha decidido no esperar a la comparecencia ante la prensa de Pedro Sánchez el próximo martes 28 y se adelanta a este miércoles para valorar el curso político que toca a su fin. Lo hará después del misil lanzado por el empresario 'Julito' Martínez ante el juez de la Audiencia Nacion.",
-      "date": "2026-07-21"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "La desvergüenza de comparar a Feijóo con Hitler",
+      "url": "https://okdiario.com/opinion/desverguenza-comparar-feijoo-hitler-19055633/amp?utm_source=lootura.com",
+      "publishedAt": "2026-07-23T17:00:47.000Z",
+      "sourceId": "lootura-es-ok-diario"
+    }
+  ],
+  "evidenceCount": 1
 }

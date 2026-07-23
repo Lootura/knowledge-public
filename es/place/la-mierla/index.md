@@ -3,10 +3,16 @@
 > Sigue la actividad de La Mierla en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-23T13:51:07.363Z
+- Actualizado: 2026-07-23T17:19:26.220Z
 - Canonical: https://atlas.lootura.com/es/place/la-mierla
 
 ## Cambios recientes
+
+### Incendios en España, en directo: restablecida la circulación de la alta velocidad entre Madrid y Barcelona
+
+Los equipos de extinción continúan desplegados en distintos puntos del país para hacer frente a una de las jornadas más complejas de la campaña de incendios forestales. Mientras el incendio de La Mierla (Guadalajara) sigue evolucionando favorablemente y los trabajos se centran en consolidar el perímetro, otros focos ma.
+
+Date: 2026-07-23
 
 ### Incendios en España, en directo: un incendio produce el corte de la circulación Madrid-Barcelona
 
@@ -62,12 +68,6 @@ El incendio de La Mierla ( Guadalajara ) ha arrasado ya unas 13.000 hectáreas, 
 
 Date: 2026-07-19
 
-### Castilla-La Mancha estudia plan de recuperación en La Mierla cuando cese el fuego
-
-El Gobierno de Castilla-La Mancha se encuentra perfilando una estrategia de actuación en la zona afectada por el incendio de La Mierla de cara a impulsar tanto al sector primario como al turístico cuando regrese la normalidad. Fuentes del Ejecutivo autonómico consultadas por Europa Press destacan la zona por su riqueza.
-
-Date: 2026-07-19
-
 ## Fuentes
 
-- [Incendios en España, en directo: un incendio produce el corte de la circulación Madrid-Barcelona](https://www.larazon.es/sociedad/incendios-espana-directo-hoy-ultima-hora-fuegos-activos-operativos-extincion_202607236a6192fada3add27d4dd1811.html?utm_source=lootura.com) — 2026-07-23T13:40:17.000Z
+- [Incendios en España, en directo: restablecida la circulación de la alta velocidad entre Madrid y Barcelona](https://www.larazon.es/sociedad/incendios-espana-directo-hoy-ultima-hora-fuegos-activos-operativos-extincion_202607236a6192fada3add27d4dd1811.html?utm_source=lootura.com) — 2026-07-23T17:00:26.000Z

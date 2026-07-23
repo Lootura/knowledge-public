@@ -3,10 +3,22 @@
 > Follow Democratic Party, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-07-23T13:51:24.628Z
+- Updated: 2026-07-23T17:20:03.497Z
 - Canonical: https://atlas.lootura.com/us/organization/democratic-party
 
 ## Recent changes
+
+### House again rebukes Trump over Iran, while similar effort stalls in Senate
+
+The House on Thursday voted to direct President Trump to end the war with Iran, after four Republicans joined Democrats to rebuke the president over his handling of the conflict.
+
+Date: 2026-07-23
+
+### House Again Rebukes Trump on Iran War Powers Vote
+
+For the second time, a few Republicans joined Democrats to back a measure calling on the president to seek authorization for the conflict.
+
+Date: 2026-07-23
 
 ### House Passes Defense Bill Amid Iran War Divide
 
@@ -56,20 +68,8 @@ Republicans managed to push through legislation to fund the government through D
 
 Date: 2026-07-22
 
-### Senate panel advances Jay Clayton's nomination for director of national intelligence
-
-The 9-8 vote came after some Democrats had praised Clayton and indicated that they might vote for him. But that shifted after a contentious hearing last week in which Clayton repeatedly refused to say that former President Joe Biden won the 2020 election.
-
-Date: 2026-07-22
-
-### Democrats could take initial vote on 2028 presidential primary calendar this week
-
-Democrats could vote as early as this week on the order of their primary calendar for the 2028 presidential election, although the decision wouldn't be final until the full Democratic National Committee agrees.
-
-Date: 2026-07-21
-
 ## Sources
 
+- [House again rebukes Trump over Iran, while similar effort stalls in Senate](https://www.cbsnews.com/news/house-trump-war-powers-vote/?utm_source=lootura.com) — 2026-07-23T16:54:09.000Z
 - [South Carolina and Nevada Fight to Kick Off Democrats’ 2028 Presidential Calendar](https://www.nytimes.com/2026/07/22/us/politics/south-carolina-nevada-democrats-2028-presidential-calendar.html?utm_source=lootura.com) — 2026-07-22T20:30:40.000Z
-- [House Passes Defense Bill Amid Iran War Divide](https://www.nytimes.com/2026/07/22/us/politics/house-defense-bill-iran-war.html?utm_source=lootura.com) — 2026-07-23T01:10:29.000Z
-- [The Debate Moment That Captures Democrats’ Worries About Troy Jackson](https://time.com/article/2026/07/23/the-moment-that-explains-why-troy-jackson-has-democrats-spooked/?utm_source=lootura.com) — 2026-07-23T11:00:00.000Z
+- [House Again Rebukes Trump on Iran War Powers Vote](https://www.nytimes.com/2026/07/23/us/politics/house-iran-war-powers-vote-trump.html?utm_source=lootura.com) — 2026-07-23T15:39:44.000Z

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/maine/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/maine/index.json",
   "description": "Follow Maine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-23T13:51:24.628Z",
+  "updatedAt": "2026-07-23T17:20:03.497Z",
   "aliases": [
     "ME",
     "Maine, United States",
@@ -74,13 +74,7 @@
       "url": "https://www.npr.org/2026/07/23/nx-s1-5903173/police-experts-question-ice-officer-vetting?utm_source=lootura.com",
       "publishedAt": "2026-07-23T09:00:00.000Z",
       "sourceId": "lootura-us-npr"
-    },
-    {
-      "title": "The Debate Moment That Captures Democrats’ Worries About Troy Jackson",
-      "url": "https://time.com/article/2026/07/23/the-moment-that-explains-why-troy-jackson-has-democrats-spooked/?utm_source=lootura.com",
-      "publishedAt": "2026-07-23T11:00:00.000Z",
-      "sourceId": "lootura-us-time"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 0
 }

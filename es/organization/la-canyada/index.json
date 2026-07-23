@@ -1,0 +1,47 @@
+{
+  "id": "es-la-canyada",
+  "name": "La Cañada (Paterna)",
+  "type": "organization",
+  "locale": "es",
+  "canonicalPath": "/es/organization/la-canyada",
+  "canonicalUrl": "https://atlas.lootura.com/es/organization/la-canyada",
+  "markdownUrl": "https://atlas.lootura.com/es/organization/la-canyada/index.md",
+  "jsonUrl": "https://atlas.lootura.com/es/organization/la-canyada/index.json",
+  "description": "Sigue la actividad de La Cañada (Paterna) en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
+  "updatedAt": "2026-07-23T17:19:26.220Z",
+  "aliases": [
+    "La Canyada"
+  ],
+  "changes": [
+    {
+      "title": "¿Dónde están los radares que más multan? En 2025 se pusieron las botas y recaudaron 250 millones de euros, un 14% más",
+      "summary": "Los ingresos obtenidos por multas de velocidad suponen el 41% del total. El radar más activo es el ubicado en el kilómetro 326 de la A-7, a la altura de La Canyada, que puso 90.766 denuncias Leer.",
+      "date": "2026-07-23"
+    },
+    {
+      "title": "El radar más 'multón' de España está en Valencia y sanciona cada 6 minutos",
+      "summary": "El radar de la DGT que más multas pone en España está en Valencia . Concretamente, se encuentra en el kilómetro 326 de la A-7 , en el 'bypass' a la altura de La Canyada (Paterna) , donde el límite de velocidad es de 120 km/h , al encontrarse en un tramo general de autovía. Seguir leyendo.",
+      "date": "2026-07-23"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "La Canyada first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-07-23"
+    }
+  ],
+  "sources": [
+    {
+      "title": "¿Dónde están los radares que más multan? En 2025 se pusieron las botas y recaudaron 250 millones de euros, un 14% más",
+      "url": "https://www.elmundo.es/motor/2026/07/23/6a61cd2afdddff280c8b459a.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-23T10:21:57.000Z",
+      "sourceId": "lootura-es-el-mundo"
+    },
+    {
+      "title": "El radar más 'multón' de España está en Valencia y sanciona cada 6 minutos",
+      "url": "https://www.expansion.com/empresas/motor/2026/07/23/6a62356b468aeb1e5f8b458d.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-23T15:41:41.000Z",
+      "sourceId": "lootura-es-expansion"
+    }
+  ],
+  "evidenceCount": 2
+}

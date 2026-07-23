@@ -3,7 +3,7 @@
 > Follow White House, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-07-23T13:51:24.628Z
+- Updated: 2026-07-23T17:20:03.497Z
 - Canonical: https://atlas.lootura.com/us/organization/white-house
 
 ## Recent changes
@@ -17,6 +17,18 @@ Date: 2026-07-23
 ### 'New York Times' alleges White House abuses legal system to intimidate reporters
 
 The New York Times reported earlier this month that security concerns had led the Secret Service to urge Trump to fly home from Turkey on a different jet.'/> The New York Times will argue in court Thursday that the White House is abusing the justice system to intimidate reporters over a story that angered President Tru.
+
+Date: 2026-07-23
+
+### Secret Service warns of uptick in threats ahead of rescheduled White House Correspondents' Dinner
+
+The Secret Service is warning about a rise in threats ahead of the rescheduled White House Correspondents' Dinner, which is set for Friday. CBS News' Nicole Sganga has the latest.
+
+Date: 2026-07-23
+
+### White House says Saudi Arabia nuclear deal contingent on joining Abraham Accords
+
+During a press briefing, White House press secretary Karoline Leavitt echoed a social media post from President Trump that said any nuclear deal with Saudi Arabia would be contingent on them joining the Abraham Accords. NBC News' Monica Alba reports from the White House on the potential deal and the White House's appro.
 
 Date: 2026-07-23
 
@@ -56,20 +68,9 @@ When Lebanon's president met President Trump at the White House, it was the firs
 
 Date: 2026-07-21
 
-### Donald Trump to impose 50% tariff on most Canadian goods, White House says
-
-Turmoil likely as Trump officials say Canada unfairly discriminated against US autos, alcohol and dairy products Donald Trump is imposing 50% tariffs on most Canadian goods in response to the country retaliating against previous US tariffs, the White House announced Monday, declaring Canada has unfairly discriminated a.
-
-Date: 2026-07-21
-
-### White House Adds Jefferson Statue to the Rose Garden
-
-The statue, which depicts the third president drafting the Declaration of Independence, joins those of Washington, Franklin and Hamilton.
-
-Date: 2026-07-20
-
 ## Sources
 
+- [Secret Service warns of uptick in threats ahead of rescheduled White House Correspondents' Dinner](https://www.cbsnews.com/video/secret-service-warns-of-uptick-in-threats-ahead-of-rescheduled-white-house-correspondents-dinner/?utm_source=lootura.com) — 2026-07-23T16:32:25.000Z
+- [White House says Saudi Arabia nuclear deal contingent on joining Abraham Accords](https://www.nbcnews.com/now/video/white-house-says-saudi-arabia-nuclear-deal-contingent-on-joining-abraham-accords-267170885845?utm_source=lootura.com) — 2026-07-23T15:53:39.000Z
 - [The White House pushes healthy eating. It cut a landmark nutrition education program](https://www.npr.org/2026/07/23/nx-s1-5896280/snap-ed-healthy-eating-cuts-maha?utm_source=lootura.com) — 2026-07-23T09:00:00.000Z
 - ['New York Times' alleges White House abuses legal system to intimidate reporters](https://www.npr.org/2026/07/23/nx-s1-5903854/trump-new-air-force-one-nyt-subpoenas?utm_source=lootura.com) — 2026-07-23T09:00:00.000Z
-- [U.S. Reaches Landmark Nuclear Deal With Saudi Arabia](https://time.com/article/2026/07/23/us-saudi-arabia-nuclear-deal-explainer/?utm_source=lootura.com) — 2026-07-23T11:00:18.000Z

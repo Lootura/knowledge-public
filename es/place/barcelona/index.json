@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/barcelona/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/barcelona/index.json",
   "description": "Sigue la actividad de Barcelona en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-23T13:51:07.363Z",
+  "updatedAt": "2026-07-23T17:19:26.220Z",
   "aliases": [
     "B'na",
     "Barcelona City",
@@ -21,6 +21,11 @@
     "Ciudad condal"
   ],
   "changes": [
+    {
+      "title": "Incendios en España, en directo: restablecida la circulación de la alta velocidad entre Madrid y Barcelona",
+      "summary": "Los equipos de extinción continúan desplegados en distintos puntos del país para hacer frente a una de las jornadas más complejas de la campaña de incendios forestales. Mientras el incendio de La Mierla (Guadalajara) sigue evolucionando favorablemente y los trabajos se centran en consolidar el perímetro, otros focos ma.",
+      "date": "2026-07-23"
+    },
     {
       "title": "Una testigo inesperada cuestiona la declaración de Jonathan Andic y torpedea su defensa",
       "summary": "Las contradicciones y las mentiras, o al menos lo que los Mossos interpretaron como contradicciones y mentiras, convirtieron a Jonathan Andic en sospechoso en primera instancia. Sus dos declaraciones, como testigo, sobre la excursión a la montaña de Montserrat (Barcelona) en la que murió su padre, el fundador de Mango.",
@@ -65,56 +70,15 @@
       "title": "Cómo Marc Cucurella y Claudia Rodríguez convirtieron la conciliación en una decisión estratégica",
       "summary": "Suele decirse que las personas que tienen una sonrisa perenne y que buscan alegrar a los demás son las que más han sufrido. No sabemos si esta es la razón detrás de la radiante sonrisa de Marc Cucurella (Alella, Barcelona, 1998) , el lateral izquierdo que el pasado domingo ayudó a la selección española a levantar su se.",
       "date": "2026-07-22"
-    },
-    {
-      "title": "Ocho heridos en una deflagración de gas en Barcelona",
-      "summary": "El incendio ha tenido lugar en una estación de metro de la Ciudad Condal.",
-      "date": "2026-07-22"
     }
   ],
   "sources": [
     {
-      "title": "Un fuego junto a las vías obliga a suspender los trenes de alta velocidad entre Madrid y Barcelona",
-      "url": "https://www.20minutos.es/nacional/un-incendio-junto-las-vias-obliga-suspender-los-trenes-alta-velocidad-entre-madrid-barcelona_7018221_0.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-23T13:11:51.000Z",
-      "sourceId": "lootura-es-20minutos"
-    },
-    {
-      "title": "Karim Adeyemi ya es del Barcelona tras sortear un labertinto burocrático",
-      "url": "https://www.abc.es/deportes/futbol/karim-adeyemi-barcelona-tras-sortear-labertinto-burocratico-20260723150611-nt.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-23T13:06:49.000Z",
-      "sourceId": "lootura-es-abc"
-    },
-    {
-      "title": "Una testigo inesperada cuestiona la declaración de Jonathan Andic y torpedea su defensa",
-      "url": "https://elpais.com/espana/catalunya/2026-07-23/una-testigo-inesperada-cuestiona-la-declaracion-de-jonathan-andic-y-torpedea-su-defensa.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-23T03:30:01.000Z",
-      "sourceId": "lootura-es-el-pais"
-    },
-    {
-      "title": "De la “confrontación” a las “siete cronologías” de los Andic: los peligros de abrazar pseudociencias para resolver conflictos familiares",
-      "url": "https://elpais.com/espana/catalunya/2026-07-23/de-la-confrontacion-a-las-siete-cronologias-de-los-andic-los-peligros-de-abrazar-pseudociencias-para-resolver-conflictos-familiares.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-23T03:30:01.000Z",
-      "sourceId": "lootura-es-el-pais"
-    },
-    {
-      "title": "Incendios en España, en directo: un incendio produce el corte de la circulación Madrid-Barcelona",
+      "title": "Incendios en España, en directo: restablecida la circulación de la alta velocidad entre Madrid y Barcelona",
       "url": "https://www.larazon.es/sociedad/incendios-espana-directo-hoy-ultima-hora-fuegos-activos-operativos-extincion_202607236a6192fada3add27d4dd1811.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-23T13:40:17.000Z",
+      "publishedAt": "2026-07-23T17:00:26.000Z",
       "sourceId": "lootura-es-la-razon"
-    },
-    {
-      "title": "Interrumpida la circulación del AVE entre Madrid y Barcelona por un incendio entre Mejorada del Campo y Alcalá de Henares",
-      "url": "https://okdiario.com/sucesos/interrumpida-circulacion-del-ave-madrid-barcelona-incendio-mejorada-del-campo-alcala-henares-19055568?utm_source=lootura.com",
-      "publishedAt": "2026-07-23T13:25:15.000Z",
-      "sourceId": "lootura-es-ok-diario"
-    },
-    {
-      "title": "Suspendida la línea de alta velocidad entre Madrid y Barcelona por un incendio",
-      "url": "https://theobjective.com/economia/transporte/2026-07-23/suspendida-linea-alta-velocidad-madrid-barcelona-incendio/?utm_source=lootura.com",
-      "publishedAt": "2026-07-23T13:21:04.000Z",
-      "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 7
+  "evidenceCount": 1
 }

@@ -3,7 +3,7 @@
 > Follow Donald Trump, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-07-23T13:51:24.628Z
+- Updated: 2026-07-23T17:20:03.497Z
 - Canonical: https://atlas.lootura.com/us/person/donald-trump
 
 ## Recent changes
@@ -44,39 +44,39 @@ The company, which filed for bankruptcy protection in 2017, stands to benefit fr
 
 Date: 2026-07-23
 
-### U.S. and Saudis sign nuclear deal, contingent on joining Abraham Accords
-
-President Trump said on Thursday the deal would include no enrichment of nuclear material.
-
-Date: 2026-07-23
-
 ### Trump says Saudi Arabia must normalize Israel ties before nuclear deal is approved
 
 President Donald Trump said Thursday that a nuclear deal between the United States and Saudi Arabia requires the kingdom to normalize relations with Israel — a significant condition not previously mentioned as the deal was announced.
 
 Date: 2026-07-23
 
-### Trump Attends Dignified Transfer of 4 Troops Killed in Iran Attacks
+### House again rebukes Trump over Iran, while similar effort stalls in Senate
 
-The United States carried out a 12th straight night of airstrikes just hours after President Donald Trump attended the dignified transfer of four American service members killed in Iran attacks. With negotiations to end the war stalled, Trump has threatened to destroy Iran’s bridges and power plants each time it attack.
+The House on Thursday voted to direct President Trump to end the war with Iran, after four Republicans joined Democrats to rebuke the president over his handling of the conflict.
 
 Date: 2026-07-23
 
-### U.S. nuclear power deal with Saudi Arabia faces criticism in Israel
+### Senate fails to advance latest attempt to limit Trump's Iran war powers
 
-The nuclear power deal between the U.S. and Saudi Arabia was met with alarm in Israel as it deepened concerns that Israel, a major American ally, and Trump are increasingly diverging on foreign policy and security. (Image credit: Chip Somodevilla).
+The Senate rejected an attempt to rein in President Trump's war powers in Iran, soon after the House adopted a separate measure rebuking the president amid escalations in the conflict in recent days.
+
+Date: 2026-07-23
+
+### White House says Saudi Arabia nuclear deal contingent on joining Abraham Accords
+
+During a press briefing, White House press secretary Karoline Leavitt echoed a social media post from President Trump that said any nuclear deal with Saudi Arabia would be contingent on them joining the Abraham Accords. NBC News' Monica Alba reports from the White House on the potential deal and the White House's appro.
 
 Date: 2026-07-23
 
 ## Sources
 
-- [U.S. and Saudis sign nuclear deal, contingent on joining Abraham Accords](https://www.cbsnews.com/news/us-deal-saudis-enrich-nuclear-program/?utm_source=lootura.com) — 2026-07-23T13:33:29.000Z
+- [House again rebukes Trump over Iran, while similar effort stalls in Senate](https://www.cbsnews.com/news/house-trump-war-powers-vote/?utm_source=lootura.com) — 2026-07-23T16:54:09.000Z
+- [Senate fails to advance latest attempt to limit Trump's Iran war powers](https://www.cbsnews.com/news/senate-trump-iran-war-powers/?utm_source=lootura.com) — 2026-07-23T16:39:50.000Z
 - [House committee urges DOJ to charge former Trump prosecutor Jack Smith](https://www.cbsnews.com/news/house-committee-jack-smith-criminal-referral-doj/?utm_source=lootura.com) — 2026-07-23T03:51:35.000Z
 - [Trump says Saudi Arabia must normalize Israel ties before nuclear deal is approved](https://www.nbcnews.com/world/middle-east/trump-saudi-arabia-normalize-israel-ties-nuclear-deal-rcna588859?utm_source=lootura.com) — 2026-07-23T12:35:22.000Z
-- [Trump Attends Dignified Transfer of 4 Troops Killed in Iran Attacks](https://www.today.com/video/trump-attends-dignified-transfer-of-4-troops-killed-in-iran-war-267156037768?utm_source=lootura.com) — 2026-07-23T11:21:56.000Z
+- [White House says Saudi Arabia nuclear deal contingent on joining Abraham Accords](https://www.nbcnews.com/now/video/white-house-says-saudi-arabia-nuclear-deal-contingent-on-joining-abraham-accords-267170885845?utm_source=lootura.com) — 2026-07-23T15:53:39.000Z
 - [The White House pushes healthy eating. It cut a landmark nutrition education program](https://www.npr.org/2026/07/23/nx-s1-5896280/snap-ed-healthy-eating-cuts-maha?utm_source=lootura.com) — 2026-07-23T09:00:00.000Z
 - [In South Dakota, public media endures a year after federal funding was wiped out](https://www.npr.org/2026/07/22/nx-s1-5903146/in-south-dakota-public-media-endures-a-year-after-federal-funding-was-wiped-out?utm_source=lootura.com) — 2026-07-22T21:21:35.000Z
 - [Morning news brief](https://www.npr.org/2026/07/23/nx-s1-5895984/morning-news-brief?utm_source=lootura.com) — 2026-07-23T08:47:19.000Z
 - [How predominantly Black areas in 6 states have been split up by redistricting](https://www.npr.org/2026/07/23/nx-s1-5896335/black-voters-republican-redistricting?utm_source=lootura.com) — 2026-07-23T09:00:00.000Z
-- ['New York Times' alleges White House abuses legal system to intimidate reporters](https://www.npr.org/2026/07/23/nx-s1-5903854/trump-new-air-force-one-nyt-subpoenas?utm_source=lootura.com) — 2026-07-23T09:00:00.000Z
-- [U.S. nuclear power deal with Saudi Arabia faces criticism in Israel](https://www.npr.org/2026/07/23/nx-s1-5904327/us-saudi-arabia-iran?utm_source=lootura.com) — 2026-07-23T10:55:44.000Z
+- [Republicans urge Justice Department to investigate former prosecutor Jack Smith](https://www.npr.org/2026/07/23/g-s1-135121/republicans-justice-department-jack-smith?utm_source=lootura.com) — 2026-07-23T14:12:45.000Z

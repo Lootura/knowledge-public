@@ -3,7 +3,7 @@
 > Sigue la actividad de País Vasco en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-23T13:51:07.363Z
+- Actualizado: 2026-07-23T17:19:26.220Z
 - Canonical: https://atlas.lootura.com/es/place/pais-vasco
 
 ## Cambios recientes
@@ -11,6 +11,12 @@
 ### Rebajan la condena de siete a tres años y medio de cárcel a un vizcaíno por tenencia ilícita de armas y fabricación de munición
 
 El Tribunal Superior de Justicia del País Vasco le absuelve del delito de depósito de explosivos.
+
+Date: 2026-07-23
+
+### Hondarribia, la joya medieval de Gipuzkoa que combina historia, color y algunos de los mejores pintxos del verano
+
+Mientras algunos vascos aprovechan el verano para viajar al extranjero, otros prefieren quedarse cerca y explorar lugares que conservan la esencia de Euskadi. Entre ellos destaca Hondarribia , una localidad que mezcla mar, historia y gastronomía en un entorno que parece detenido en el tiempo. Según Hondarribia Turismo.
 
 Date: 2026-07-23
 
@@ -62,13 +68,7 @@ San Juan de Gaztelugatxe recibe más de 1.400 visitantes al día. La fe, el pais
 
 Date: 2026-07-18
 
-### El retraso en la devolución de las fianzas de los alquileres en Euskadi obliga a Vivienda a pagar intereses
-
-El plazo se ha duplicado en un año, pasando de mes y medio a tres meses, y el Gobierno Vasco lo achaca a «problemas de personal».
-
-Date: 2026-07-17
-
 ## Fuentes
 
 - [Rebajan la condena de siete a tres años y medio de cárcel a un vizcaíno por tenencia ilícita de armas y fabricación de munición](https://www.elcorreo.com/bizkaia/condenan-tres-anos-medio-carcel-vecino-bizkaia-20260723114522-nt_amp.html?utm_source=lootura.com) — 2026-07-23T09:45:22.000Z
-- [Las comunidades del PP plantan al Gobierno en la reunión sobre regularización de migrantes y fuerzan su suspensión](https://www.eldiario.es/desalambre/comunidades-pp-plantan-gobierno-reunion-regularizacion-migrantes_1_13401812.html?utm_source=lootura.com) — 2026-07-23T12:04:37.000Z
+- [Hondarribia, la joya medieval de Gipuzkoa que combina historia, color y algunos de los mejores pintxos del verano](https://www.larazon.es/pais-vasco/hondarribia-joya-medieval-gipuzkoa-que-combina-historia-color-algunos-mejores-pintxos-verano_202607236a6248a4aa17c0020f2c0770.html?utm_source=lootura.com) — 2026-07-23T17:00:20.000Z

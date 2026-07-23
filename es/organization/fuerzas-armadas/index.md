@@ -3,10 +3,16 @@
 > Sigue la actividad de Fuerzas armadas en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-23T06:28:35.711Z
+- Actualizado: 2026-07-23T17:19:26.220Z
 - Canonical: https://atlas.lootura.com/es/organization/fuerzas-armadas
 
 ## Cambios recientes
+
+### Francia condecora al jefe de la Armada por reforzar la cooperación entre ambos países
+
+Francia ha reconocido a dos de los principales mandos de las Fuerzas Armadas españolas con algunas de sus más altas condecoraciones militares . El jefe de Estado Mayor de la Armada (Ajema), almirante general Antonio Piñeiro, y el jefe de la Fuerza Terrestre, teniente general Carlos Melero, han sido distinguidos por el.
+
+Date: 2026-07-23
 
 ### Del heroísmo a los algoritmos: Zelenski sustituye al veterano jefe del ejército por un reformista para intentar cerrar su mayor crisis interna
 
@@ -40,4 +46,4 @@ Date: 2026-07-21
 
 ## Fuentes
 
-No public source links.
+- [Francia condecora al jefe de la Armada por reforzar la cooperación entre ambos países](https://theobjective.com/espana/2026-07-23/francia-armada-cooperacion-paises/?utm_source=lootura.com) — 2026-07-23T16:30:53.000Z

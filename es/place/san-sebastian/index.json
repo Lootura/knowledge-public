@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/san-sebastian/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/san-sebastian/index.json",
   "description": "Sigue la actividad de San Sebastián en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-23T10:20:05.700Z",
+  "updatedAt": "2026-07-23T17:19:26.220Z",
   "aliases": [
     "Donostia",
     "Donostia / San Sebastian",
@@ -20,6 +20,11 @@
     "San Sebastián-Donostia"
   ],
   "changes": [
+    {
+      "title": "La Oreja de Van Gogh, a días de su vuelta a casa: «Estamos aterrorizados porque San Sebastián es la plaza más importante de todas»",
+      "summary": "Xabi San Martín y Álvaro Fuentes desvelan algunas pinceladas sobre los dos conciertos que La Oreja de Van Gogh dará en la capital guipuzcoana la próxima semana.",
+      "date": "2026-07-23"
+    },
     {
       "title": "Una avería provoca retrasos en varias líneas de Cercanáis Madrid entre Villaverde Bajo y Atocha",
       "summary": "La circulación de Cercanías permanece interrumpida desde primera hora de este viernes entre Villaverde Bajo y Atocha en las líneas C3 (Aranjuez-Chamartín) y C4 ( Parla-San Sebastián de los Reyes ) debido a una avería que afecta al sistema de señalización. Adif ha señalado que los equipos técnicos han trabajado para sol.",
@@ -64,13 +69,15 @@
       "title": "El burgalés David Pérez Sañudo estrenará fuera de competición en el Festival de San Sebastián ‘Sacamantecas’, su tercer largometraje",
       "summary": "La película está protagonizada por Antonio de la Torre, Patricia López Arnaiz, Josean Bengoetxea, Eneko Sagardoy y Haizea Carneros, y llegará a las salas comerciales el 6 de noviembre.",
       "date": "2026-07-19"
-    },
-    {
-      "title": "El Hospital Donostia realiza una operación pionera en bebés con problemas en el riñón",
-      "summary": "Opera por primera vez en Euskadi a lactantes para corregir el estrechamiento entre el uréter y el riñón con una técnica mínimamente invasiva.",
-      "date": "2026-07-18"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "La Oreja de Van Gogh, a días de su vuelta a casa: «Estamos aterrorizados porque San Sebastián es la plaza más importante de todas»",
+      "url": "https://www.diariovasco.com/culturas/musica/la-oreja-de-van-gogh-vuelta-san-sebastian-conciertos-aterrorizados-20260723141004-nt_amp.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-23T12:24:48.000Z",
+      "sourceId": "lootura-es-el-diario-vasco"
+    }
+  ],
+  "evidenceCount": 1
 }

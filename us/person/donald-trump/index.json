@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/donald-trump/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/donald-trump/index.json",
   "description": "Follow Donald Trump, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-23T13:51:24.628Z",
+  "updatedAt": "2026-07-23T17:20:03.497Z",
   "aliases": [
     "@realDonaldTrump",
     "DJT",
@@ -55,31 +55,37 @@
       "date": "2026-07-23"
     },
     {
-      "title": "U.S. and Saudis sign nuclear deal, contingent on joining Abraham Accords",
-      "summary": "President Trump said on Thursday the deal would include no enrichment of nuclear material.",
-      "date": "2026-07-23"
-    },
-    {
       "title": "Trump says Saudi Arabia must normalize Israel ties before nuclear deal is approved",
       "summary": "President Donald Trump said Thursday that a nuclear deal between the United States and Saudi Arabia requires the kingdom to normalize relations with Israel — a significant condition not previously mentioned as the deal was announced.",
       "date": "2026-07-23"
     },
     {
-      "title": "Trump Attends Dignified Transfer of 4 Troops Killed in Iran Attacks",
-      "summary": "The United States carried out a 12th straight night of airstrikes just hours after President Donald Trump attended the dignified transfer of four American service members killed in Iran attacks. With negotiations to end the war stalled, Trump has threatened to destroy Iran’s bridges and power plants each time it attack.",
+      "title": "House again rebukes Trump over Iran, while similar effort stalls in Senate",
+      "summary": "The House on Thursday voted to direct President Trump to end the war with Iran, after four Republicans joined Democrats to rebuke the president over his handling of the conflict.",
       "date": "2026-07-23"
     },
     {
-      "title": "U.S. nuclear power deal with Saudi Arabia faces criticism in Israel",
-      "summary": "The nuclear power deal between the U.S. and Saudi Arabia was met with alarm in Israel as it deepened concerns that Israel, a major American ally, and Trump are increasingly diverging on foreign policy and security. (Image credit: Chip Somodevilla).",
+      "title": "Senate fails to advance latest attempt to limit Trump's Iran war powers",
+      "summary": "The Senate rejected an attempt to rein in President Trump's war powers in Iran, soon after the House adopted a separate measure rebuking the president amid escalations in the conflict in recent days.",
+      "date": "2026-07-23"
+    },
+    {
+      "title": "White House says Saudi Arabia nuclear deal contingent on joining Abraham Accords",
+      "summary": "During a press briefing, White House press secretary Karoline Leavitt echoed a social media post from President Trump that said any nuclear deal with Saudi Arabia would be contingent on them joining the Abraham Accords. NBC News' Monica Alba reports from the White House on the potential deal and the White House's appro.",
       "date": "2026-07-23"
     }
   ],
   "sources": [
     {
-      "title": "U.S. and Saudis sign nuclear deal, contingent on joining Abraham Accords",
-      "url": "https://www.cbsnews.com/news/us-deal-saudis-enrich-nuclear-program/?utm_source=lootura.com",
-      "publishedAt": "2026-07-23T13:33:29.000Z",
+      "title": "House again rebukes Trump over Iran, while similar effort stalls in Senate",
+      "url": "https://www.cbsnews.com/news/house-trump-war-powers-vote/?utm_source=lootura.com",
+      "publishedAt": "2026-07-23T16:54:09.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
+    {
+      "title": "Senate fails to advance latest attempt to limit Trump's Iran war powers",
+      "url": "https://www.cbsnews.com/news/senate-trump-iran-war-powers/?utm_source=lootura.com",
+      "publishedAt": "2026-07-23T16:39:50.000Z",
       "sourceId": "lootura-us-cbs-news"
     },
     {
@@ -95,9 +101,9 @@
       "sourceId": "lootura-us-nbc-news"
     },
     {
-      "title": "Trump Attends Dignified Transfer of 4 Troops Killed in Iran Attacks",
-      "url": "https://www.today.com/video/trump-attends-dignified-transfer-of-4-troops-killed-in-iran-war-267156037768?utm_source=lootura.com",
-      "publishedAt": "2026-07-23T11:21:56.000Z",
+      "title": "White House says Saudi Arabia nuclear deal contingent on joining Abraham Accords",
+      "url": "https://www.nbcnews.com/now/video/white-house-says-saudi-arabia-nuclear-deal-contingent-on-joining-abraham-accords-267170885845?utm_source=lootura.com",
+      "publishedAt": "2026-07-23T15:53:39.000Z",
       "sourceId": "lootura-us-nbc-news-politics"
     },
     {
@@ -125,17 +131,11 @@
       "sourceId": "lootura-us-npr-politics"
     },
     {
-      "title": "'New York Times' alleges White House abuses legal system to intimidate reporters",
-      "url": "https://www.npr.org/2026/07/23/nx-s1-5903854/trump-new-air-force-one-nyt-subpoenas?utm_source=lootura.com",
-      "publishedAt": "2026-07-23T09:00:00.000Z",
+      "title": "Republicans urge Justice Department to investigate former prosecutor Jack Smith",
+      "url": "https://www.npr.org/2026/07/23/g-s1-135121/republicans-justice-department-jack-smith?utm_source=lootura.com",
+      "publishedAt": "2026-07-23T14:12:45.000Z",
       "sourceId": "lootura-us-npr-politics"
-    },
-    {
-      "title": "U.S. nuclear power deal with Saudi Arabia faces criticism in Israel",
-      "url": "https://www.npr.org/2026/07/23/nx-s1-5904327/us-saudi-arabia-iran?utm_source=lootura.com",
-      "publishedAt": "2026-07-23T10:55:44.000Z",
-      "sourceId": "lootura-us-npr-world"
     }
   ],
-  "evidenceCount": 14
+  "evidenceCount": 19
 }

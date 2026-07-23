@@ -3,7 +3,7 @@
 > Follow Maine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-23T13:51:24.628Z
+- Updated: 2026-07-23T17:20:03.497Z
 - Canonical: https://atlas.lootura.com/us/place/maine
 
 ## Recent changes
@@ -71,4 +71,3 @@ Date: 2026-07-20
 ## Sources
 
 - [Amid a big hiring push, police experts question ICE officer vetting](https://www.npr.org/2026/07/23/nx-s1-5903173/police-experts-question-ice-officer-vetting?utm_source=lootura.com) — 2026-07-23T09:00:00.000Z
-- [The Debate Moment That Captures Democrats’ Worries About Troy Jackson](https://time.com/article/2026/07/23/the-moment-that-explains-why-troy-jackson-has-democrats-spooked/?utm_source=lootura.com) — 2026-07-23T11:00:00.000Z

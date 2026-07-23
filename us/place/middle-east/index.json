@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/middle-east/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/middle-east/index.json",
   "description": "Follow Middle East, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-23T13:51:24.628Z",
+  "updatedAt": "2026-07-23T17:20:03.497Z",
   "aliases": [
     "Mid East",
     "Mideast"
@@ -20,6 +20,16 @@
       "date": "2026-07-23"
     },
     {
+      "title": "U.S.-Saudi Deal Prompts Fears of a Global Nuclear Arms Race",
+      "summary": "In Europe, Asia and the Middle East, countries seek nuclear capabilities to hedge against aggressive neighbors and a receding Washington, potentially creating a more freewheeling era.",
+      "date": "2026-07-23"
+    },
+    {
+      "title": "Coal-fired power generation rising globally on Mideast war: IEA",
+      "summary": "Coal-fired power generation is set to increase in 2026, driven by supply difficulties and soaring natural gas prices linked to the war in the Middle East, the International Energy Agency said Thursday.",
+      "date": "2026-07-23"
+    },
+    {
       "title": "New Concerns Over Oil Prices After Houthis Attack Saudi Tankers",
       "summary": "There are new concerns about the future of oil and gas prices after Yemen-based Houthi rebels, backed by Iran, attacked two Saudi Arabian oil tankers in the Red Sea. NBC’s Richard Engel reports on the new front in the Middle East conflict and Christine Romans joins TODAY with analysis on the economic impact to gas pric.",
       "date": "2026-07-23"
@@ -27,11 +37,6 @@
     {
       "title": "Oil price passes $100 a barrel again as Middle East conflict escalates",
       "summary": "Benchmark rises sharply over fears Houthi militia could strangle Saudi exports as US-Iran fighting intensifies The oil price has climbed back above $100 a barrel for the first time in two months, as a fresh escalation of the Middle East conflict threatens to compound disruption to global oil supplies. The benchmark oil.",
-      "date": "2026-07-23"
-    },
-    {
-      "title": "U.S.-Saudi Deal Prompts Fears of a Global Nuclear Arms Race",
-      "summary": "In Europe, Asia and the Middle East, countries seek nuclear capabilities to hedge against aggressive neighbors and a receding Washington, potentially creating a more freewheeling era.",
       "date": "2026-07-23"
     },
     {
@@ -58,25 +63,14 @@
       "title": "Trump escalates threats on Iran as he attends dignified transfer of fallen soldiers",
       "summary": "NBC News correspondents Monica Alba, Courtney Kube and Julie Tsirkin report on recent developments regarding the war with Iran as President Trump attends the dignified transfer of four soldiers killed in the Middle East. NBC News Intelligence Reporter Dan De Luce reports on President Trump’s approval of a deal with Sau.",
       "date": "2026-07-22"
-    },
-    {
-      "title": "Houthis in Yemen Edge Closer to Entering U.S.-Iran War",
-      "summary": "The Iran-backed Houthi militia in Yemen has declared a Red Sea blockade on Saudi Arabia, potentially opening a new front in the war rippling across the Middle East.",
-      "date": "2026-07-21"
     }
   ],
   "sources": [
     {
-      "title": "New Concerns Over Oil Prices After Houthis Attack Saudi Tankers",
-      "url": "https://www.today.com/video/cost-of-iran-war-per-us-household-nears-1-200-report-shows-267156549661?utm_source=lootura.com",
-      "publishedAt": "2026-07-23T11:36:18.000Z",
-      "sourceId": "lootura-us-nbc-news-politics"
-    },
-    {
-      "title": "Oil price passes $100 a barrel again as Middle East conflict escalates",
-      "url": "https://www.theguardian.com/business/2026/jul/23/oil-price-passes-100-a-barrel-again-as-middle-east-conflict-escalates?utm_source=lootura.com",
-      "publishedAt": "2026-07-23T13:37:42.000Z",
-      "sourceId": "lootura-us-the-guardian-us"
+      "title": "Coal-fired power generation rising globally on Mideast war: IEA",
+      "url": "https://phys.org/news/2026-07-coal-power-generation-globally-mideast.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-23T17:19:32.000Z",
+      "sourceId": "lootura-us-phys-org"
     },
     {
       "title": "What Visuals Show About Recent Damage to U.S. Military Sites in the Middle East",
@@ -87,9 +81,9 @@
     {
       "title": "U.S.-Saudi Deal Prompts Fears of a Global Nuclear Arms Race",
       "url": "https://www.nytimes.com/2026/07/23/world/europe/us-saudi-deal-nuclear-hedging.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-23T13:03:50.000Z",
+      "publishedAt": "2026-07-23T15:28:15.000Z",
       "sourceId": "lootura-us-the-new-york-times-world"
     }
   ],
-  "evidenceCount": 4
+  "evidenceCount": 3
 }

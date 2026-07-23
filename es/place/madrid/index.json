@@ -8,9 +8,49 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/madrid/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/madrid/index.json",
   "description": "Sigue la actividad de Madrid en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-23T13:51:07.363Z",
+  "updatedAt": "2026-07-23T17:19:26.220Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "Tres fuegos arrasan Madrid: desalojos en Villa del Prado, San Martín de Valdeiglesias y el entorno de Almorox",
+      "summary": "Tres incendios se extienden por la Comunidad de Madrid: en el municipio de Villa del Prado con afectación a Aldea del Fresno, en San Martín de Valdeiglesias y en el entorno de Almorox. Estos tres focos han provocado el desalojo de Pelayos de la Presa y varias urbanizaciones, entre ellas Caravan Garden, San Ramón, Jarac.",
+      "date": "2026-07-23"
+    },
+    {
+      "title": "La Comunidad de Madrid manda una nueva ES-ALERT en el incendio de Villa del Prado, con la incorporación de la UME a la evacuación",
+      "summary": "El incendio forestal originado en Almorox (Toledo) ha afectado ya a 890 hectáreas, de las que 600 pertenecen a la Comunidad de Madrid, hasta donde se ha extendido el incendio a través de la localidad de Villa del Prado, en el sur de la región. A las 17:15 horas de este jueves, la Agencia de Seguridad y Emergencias Madr.",
+      "date": "2026-07-23"
+    },
+    {
+      "title": "Madrid registra un tercer incendio que obliga a evacuar una urbanización y un centro residencial",
+      "summary": "Otro incendio forestal ― independiente del originado en Almorox (Toledo) este miércoles ― se ha declarado este jueves en el municipio madrileño de Villa del Prado, lo que ha obligado a activar el sistema de avisos ES-Alert para pedir a la población próxima a la zona afectada que permanezca confinada en sus viviendas ha.",
+      "date": "2026-07-23"
+    },
+    {
+      "title": "Incendios en España, en directo: restablecida la circulación de la alta velocidad entre Madrid y Barcelona",
+      "summary": "Los equipos de extinción continúan desplegados en distintos puntos del país para hacer frente a una de las jornadas más complejas de la campaña de incendios forestales. Mientras el incendio de La Mierla (Guadalajara) sigue evolucionando favorablemente y los trabajos se centran en consolidar el perímetro, otros focos ma.",
+      "date": "2026-07-23"
+    },
+    {
+      "title": "Incendios en Madrid, en directo: San Martín de Valdeiglesias confina varias urbanizaciones y desata la alerta en la Comunidad",
+      "summary": "En concreto, se ha producido un incendio forestal en San Martín de Valdeiglesias, a la altura del km 57 de la M-501.",
+      "date": "2026-07-23"
+    },
+    {
+      "title": "Tres fuegos simultáneos en 20 km dificultan la extinción y amenazan núcleos urbanos",
+      "summary": "La simultaneidad de incendios en Madrid dificulta los trabajos de extinción, con tres fuegos activos en un radio de menos de 20 kilómetros. Así, a las llamas de Almorox (Toledo) y Burgohondo (Ávila), se añade un nuevo incendio en San Martín de Valdeiglesias (Madrid) tras arder un coche en la M-501, con la dificultad añ.",
+      "date": "2026-07-23"
+    },
+    {
+      "title": "Invertir en vivienda en Madrid ya no es tan rentable: estos son los barrios donde todavía es posible obtener más beneficios",
+      "summary": "Invertir en vivienda en Madrid ya no es lo que era. El fuerte encarecimiento del precio de compra ha ido reduciendo poco a poco la rentabilidad que pueden obtener los propietarios, hasta el punto de que ya apenas quedan barrios donde el rendimiento supere el 5%. Según los últimos datos de la OCU , sólo Orcasitas alcanz.",
+      "date": "2026-07-23"
+    },
+    {
+      "title": "Otro incendio en Villa del Prado (Madrid) obliga a evacuar una urbanización y moviliza a la UME",
+      "summary": "Otro incendio forestal –independiente del originado en Almorox (Toledo) ayer– se ha declarado este jueves en el municipio madrileño de Villa del Prado, lo que ha obligado a activar el sistema de avisos ES-Alert para pedir a la población próxima a la zona afectada que permanezca confinada en sus viviendas hasta nuevo av.",
+      "date": "2026-07-23"
+    },
     {
       "title": "Qué han estudiado las hijas de Zapatero: desde su formación hasta montar su agencia de publicidad",
       "summary": "Zapatero entrevista en TVE por el caso 'Plus Ultra' y las joyas, en directo Cunde en el PSOE el temor a que el caso ZP implique al Gobierno: \"¿Por qué no le expulsamos del partido?\" El cotizado barrio de Madrid donde Zapatero compró vivienda y canceló su hipoteca en menos de un año Laura y Alba Rodríguez Espinosa, hija.",
@@ -20,109 +60,57 @@
       "title": "Última hora de los incendios forestales, en directo | Perimetrado el incendio de Almorox (Toledo) tras quemar unas 1.000 hectáreas",
       "summary": "El incendio originado el miércoles por la tarde en el municipio toledano de Almorox, que pasó rápidamente a la Comunidad de Madrid y que ha obligado a desalojar varias urbanizaciones, está ya perimetrado y ha bajado al nivel 1 de gravedad tras quemar una superficie aproximada de 1.000 hectáreas, según ha confirmado la.",
       "date": "2026-07-23"
-    },
-    {
-      "title": "Un fuego junto a las vías obliga a suspender los trenes de alta velocidad entre Madrid y Barcelona",
-      "summary": "La circulación de trenes de alta velocidad entre Madrid y Barcelona ha quedado interrumpida este jueves debido a un incendio declarado en las proximidades de la infraestructura ferroviaria en la Comunidad de Madrid, han informado Renfe y Adif en sus redes sociales. Renfe ha informado de que el tráfico permanece suspend.",
-      "date": "2026-07-23"
-    },
-    {
-      "title": "Planes en Madrid este fin de semana: de la visita a la Fuente de Cibeles a experiencias inmersivas",
-      "summary": "El último fin de semana de julio llega con muchas propuestas de ocio para protegerse del calor o pasar un buen rato. El Ayuntamiento de Madrid habilita por primera vez este fin de semana visitas guiadas al proceso de restauración de la Fuente de Cibeles. Un recorrido cultural que se une a la diversidad de exposiciones.",
-      "date": "2026-07-23"
-    },
-    {
-      "title": "La Policía detiene en Madrid a un fugitivo buscado en Colombia por participar en un homicidio",
-      "summary": "Agentes de la Policía Nacional han arrestado en Madrid a un prófugo reclamado por Colombia por homicidio, lesiones y detención ilegal, delitos por los que podría cumplir hasta 60 años de cárcel. De acuerdo con una nota de prensa del cuerpo, las autoridades colombianas lo buscaban por su presunta implicación en un homic.",
-      "date": "2026-07-23"
-    },
-    {
-      "title": "Así es Whathefav, la agencia de publicidad de las hijas de Zapatero que se dedica a los eSports",
-      "summary": "Zapatero entrevista en TVE por el caso 'Plus Ultra' y las joyas, en directo Cunde en el PSOE el temor a que el caso ZP implique al Gobierno: \"¿Por qué no le expulsamos del partido?\" El cotizado barrio de Madrid donde Zapatero compró vivienda y canceló su hipoteca en menos de un año Qué han estudiado las hijas de Zapate.",
-      "date": "2026-07-23"
-    },
-    {
-      "title": "Incendios en España, en directo: un incendio produce el corte de la circulación Madrid-Barcelona",
-      "summary": "Los equipos de extinción continúan desplegados en distintos puntos del país para hacer frente a una de las jornadas más complejas de la campaña de incendios forestales. Mientras el incendio de La Mierla (Guadalajara) sigue evolucionando favorablemente y los trabajos se centran en consolidar el perímetro, otros focos ma.",
-      "date": "2026-07-23"
-    },
-    {
-      "title": "Interrumpida la circulación del AVE entre Madrid y Barcelona por un incendio entre Mejorada del Campo y Alcalá de Henares",
-      "summary": "Un incendio entre Mejorada del Campo y Alcalá de Henares ha obligado a interrumpir la circulación del AVE entre Madrid y Barcelona a la espera de que el fuego sea extinguido. Renfe ha lanzado un comunicado asegurando que se espera que se reanude lo antes posible y que de momento los trenes se encuentran «detenidos». De.",
-      "date": "2026-07-23"
-    },
-    {
-      "title": "Suspendida la línea de alta velocidad entre Madrid y Barcelona por un incendio",
-      "summary": "ADIF ha comunicado que la línea de alta velocidad entre Madrid y Barcelona está actualmente suspendida «por un incendio próximo a la vía y ajeno a la explotación ferroviaria». En un tuit, la entidad pública española ha explicado que se ha suspendido la circulación entre Mejorada del Campo y Alcalá de Henares. En otro m.",
-      "date": "2026-07-23"
-    },
-    {
-      "title": "La Fuente de Cibeles abre por primera vez al público durante su restauración: así puedes conseguir entradas gratis para verla por dentro",
-      "summary": "La Fuente de Cibeles podrá visitarse por primera vez desde su interior gracias al programa Abierto por Restauración . El Ayuntamiento de Madrid ofrece visitas guiadas gratuitas para descubrir de cerca las obras de conservación del monumento y conocer uno de los grandes símbolos de la capital desde una perspectiva inédi.",
-      "date": "2026-07-23"
     }
   ],
   "sources": [
     {
-      "title": "Un fuego junto a las vías obliga a suspender los trenes de alta velocidad entre Madrid y Barcelona",
-      "url": "https://www.20minutos.es/nacional/un-incendio-junto-las-vias-obliga-suspender-los-trenes-alta-velocidad-entre-madrid-barcelona_7018221_0.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-23T13:11:51.000Z",
+      "title": "Tres fuegos arrasan Madrid: desalojos en Villa del Prado, San Martín de Valdeiglesias y el entorno de Almorox",
+      "url": "https://www.20minutos.es/madrid/un-nuevo-incendio-forestal-se-desata-san-martin-valdeiglesias-tras-arder-un-coche-desalojan-una-residencia-mayores_7018258_0.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-23T14:36:41.000Z",
       "sourceId": "lootura-es-20minutos"
     },
     {
-      "title": "Planes en Madrid este fin de semana: de la visita a la Fuente de Cibeles a experiencias inmersivas",
-      "url": "https://www.abc.es/espana/madrid/planes-madrid-fin-semana-visita-fuente-cibeles-20260722151842-nt.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-23T13:18:42.000Z",
-      "sourceId": "lootura-es-abc"
-    },
-    {
-      "title": "La Policía detiene en Madrid a un fugitivo buscado en Colombia por participar en un homicidio",
-      "url": "https://www.elconfidencial.com/espana/madrid/2026-07-23/fugitivo-homicidio-colombia-madrid-1tps_4394766/?utm_source=lootura.com",
-      "publishedAt": "2026-07-23T10:28:00.000Z",
+      "title": "La Comunidad de Madrid manda una nueva ES-ALERT en el incendio de Villa del Prado, con la incorporación de la UME a la evacuación",
+      "url": "https://www.elconfidencial.com/espana/madrid/2026-07-23/asi-se-encuentra-el-incendio-de-villa-del-prado-600-hectareas-afectadas-y-700-desalojados_4395004/?utm_source=lootura.com",
+      "publishedAt": "2026-07-23T15:58:00.000Z",
       "sourceId": "lootura-es-el-confidencial"
     },
     {
-      "title": "Así es Whathefav, la agencia de publicidad de las hijas de Zapatero que se dedica a los eSports",
-      "url": "https://www.elconfidencial.com/espana/2026-07-23/whathefav-agencia-publicidad-hijas-zapatero-dedica-esports_4357610/?utm_source=lootura.com",
-      "publishedAt": "2026-07-23T11:26:00.000Z",
-      "sourceId": "lootura-es-el-confidencial"
-    },
-    {
-      "title": "Qué han estudiado las hijas de Zapatero: desde su formación hasta montar su agencia de publicidad",
-      "url": "https://www.elconfidencial.com/espana/2026-07-23/que-han-estudiado-hijas-zapatero-formacion-agencia-publicidad-1qrt_4357643/?utm_source=lootura.com",
-      "publishedAt": "2026-07-23T10:02:00.000Z",
-      "sourceId": "lootura-es-el-confidencial"
-    },
-    {
-      "title": "Muere un trabajador durante «labores de mantenimiento» en una base de Renfe en Madrid",
-      "url": "https://www.elcorreo.com/economia/empresas/muere-trabajador-labores-mantenimiento-base-renfe-madrid-20260722163457-ntrc_amp.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-22T14:34:57.000Z",
-      "sourceId": "lootura-es-el-correo"
-    },
-    {
-      "title": "Última hora de los incendios forestales, en directo | Perimetrado el incendio de Almorox (Toledo) tras quemar unas 1.000 hectáreas",
-      "url": "https://elpais.com/espana/2026-07-23/ultima-hora-de-los-incendios-forestales-en-directo.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-23T13:31:06.000Z",
+      "title": "Madrid registra un tercer incendio que obliga a evacuar una urbanización y un centro residencial",
+      "url": "https://elpais.com/espana/madrid/2026-07-23/madrid-registra-un-tercer-incendio-que-obliga-a-evacuar-una-urbanizacion-y-un-centro-residencial.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-23T17:02:53.000Z",
       "sourceId": "lootura-es-el-pais"
     },
     {
-      "title": "Incendios en España, en directo: un incendio produce el corte de la circulación Madrid-Barcelona",
+      "title": "Incendios en España, en directo: restablecida la circulación de la alta velocidad entre Madrid y Barcelona",
       "url": "https://www.larazon.es/sociedad/incendios-espana-directo-hoy-ultima-hora-fuegos-activos-operativos-extincion_202607236a6192fada3add27d4dd1811.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-23T13:40:17.000Z",
+      "publishedAt": "2026-07-23T17:00:26.000Z",
       "sourceId": "lootura-es-la-razon"
     },
     {
-      "title": "Interrumpida la circulación del AVE entre Madrid y Barcelona por un incendio entre Mejorada del Campo y Alcalá de Henares",
-      "url": "https://okdiario.com/sucesos/interrumpida-circulacion-del-ave-madrid-barcelona-incendio-mejorada-del-campo-alcala-henares-19055568?utm_source=lootura.com",
-      "publishedAt": "2026-07-23T13:25:15.000Z",
+      "title": "Incendios en Madrid, en directo: San Martín de Valdeiglesias confina varias urbanizaciones y desata la alerta en la Comunidad",
+      "url": "https://www.larazon.es/madrid/nuevo-incendio-san-martin-valdeiglesias-confina-varias-urbanizaciones-desata-alerta-comunidad-madrid_202607236a6230fbda3add27d4de1808.html?outputType=amp&utm_source=lootura.com",
+      "publishedAt": "2026-07-23T17:15:17.000Z",
+      "sourceId": "lootura-es-la-razon"
+    },
+    {
+      "title": "Tres fuegos simultáneos en 20 km dificultan la extinción y amenazan núcleos urbanos",
+      "url": "https://www.lavanguardia.com/local/madrid/20260723/11599559/incendio-descontrolado-san-martin-valdeiglesias-arder-coche-m-501.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-23T15:16:22.000Z",
+      "sourceId": "lootura-es-la-vanguardia"
+    },
+    {
+      "title": "Invertir en vivienda en Madrid ya no es tan rentable: estos son los barrios donde todavía es posible obtener más beneficios",
+      "url": "https://okdiario.com/madrid/invertir-vivienda-madrid-ya-no-tan-rentable-estos-son-barrios-donde-todavia-posible-obtener-mas-beneficios-19042499?utm_source=lootura.com",
+      "publishedAt": "2026-07-23T17:00:06.000Z",
       "sourceId": "lootura-es-ok-diario"
     },
     {
-      "title": "Suspendida la línea de alta velocidad entre Madrid y Barcelona por un incendio",
-      "url": "https://theobjective.com/economia/transporte/2026-07-23/suspendida-linea-alta-velocidad-madrid-barcelona-incendio/?utm_source=lootura.com",
-      "publishedAt": "2026-07-23T13:21:04.000Z",
+      "title": "Otro incendio en Villa del Prado (Madrid) obliga a evacuar una urbanización y moviliza a la UME",
+      "url": "https://theobjective.com/sociedad/suceso/2026-07-23/incendio-villa-prado-madrid-urbanizacion-ume/?utm_source=lootura.com",
+      "publishedAt": "2026-07-23T16:11:10.000Z",
       "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 10
+  "evidenceCount": 8
 }

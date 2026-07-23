@@ -70,4 +70,4 @@ Date: 2026-07-18
 
 ## Sources
 
-- [A New Target for Ukraine’s Long-Range Attacks: Russia’s Version of Amazon](https://www.nytimes.com/2026/07/23/world/europe/russia-ukraine-wildberries-attacks.html?utm_source=lootura.com) — 2026-07-23T13:05:18.000Z
+No public source links.

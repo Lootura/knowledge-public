@@ -3,10 +3,16 @@
 > Sigue la actividad de Alberto Núñez Feijóo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-23T10:20:05.700Z
+- Actualizado: 2026-07-23T17:19:26.220Z
 - Canonical: https://atlas.lootura.com/es/person/alberto-nunez-feijoo
 
 ## Cambios recientes
+
+### La desvergüenza de comparar a Feijóo con Hitler
+
+Comparar a Feijóo con Hitler no es solo una ofensa a las víctimas, sino que demuestra que Diana Morant es una sectaria sin escrúpulos.
+
+Date: 2026-07-23
 
 ### El PP exige la dimisión de Morant por comparar un gobierno de Feijóo con Hitler: "Está en una situación desesperada"
 
@@ -62,12 +68,6 @@ Alberto Núñez Feijóo ha hecho este miércoles balance del curso político que
 
 Date: 2026-07-22
 
-### Feijóo se adelanta a Sánchez en el balance del curso para aprovechar el misil lanzado por Julio Martínez
-
-El líder del PP, Alberto Núñez Feijóo, ha decidido no esperar a la comparecencia ante la prensa de Pedro Sánchez el próximo martes 28 y se adelanta a este miércoles para valorar el curso político que toca a su fin. Lo hará después del misil lanzado por el empresario 'Julito' Martínez ante el juez de la Audiencia Nacion.
-
-Date: 2026-07-21
-
 ## Fuentes
 
-No public source links.
+- [La desvergüenza de comparar a Feijóo con Hitler](https://okdiario.com/opinion/desverguenza-comparar-feijoo-hitler-19055633/amp?utm_source=lootura.com) — 2026-07-23T17:00:47.000Z

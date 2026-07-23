@@ -3,10 +3,16 @@
 > Follow Supreme court, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-07-16T20:55:05.764Z
+- Updated: 2026-07-23T17:20:03.497Z
 - Canonical: https://atlas.lootura.com/us/organization/supreme-court
 
 ## Recent changes
+
+### Supreme Court Turbocharges Presidential Power
+
+A pair of decisions reshaped the structure of the federal government.
+
+Date: 2026-07-23
 
 ### Trump Administration to Impose New Tariffs on Brazil
 
@@ -62,12 +68,6 @@ Frustrated by the appointed court’s support of abortion rights, which has been
 
 Date: 2026-07-11
 
-### Discovered by Atlas
-
-Supreme Court first entered the public knowledge record with source-backed evidence.
-
-Date: 2026-07-10
-
 ## Sources
 
-No public source links.
+- [Supreme Court Turbocharges Presidential Power](https://www.nytimes.com/2026/07/23/us/politics/the-docket-presidential-power-trump.html?utm_source=lootura.com) — 2026-07-23T16:07:36.000Z

@@ -8,11 +8,21 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/democratic-party/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/democratic-party/index.json",
   "description": "Follow Democratic Party, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-23T13:51:24.628Z",
+  "updatedAt": "2026-07-23T17:20:03.497Z",
   "aliases": [
     "Democrats"
   ],
   "changes": [
+    {
+      "title": "House again rebukes Trump over Iran, while similar effort stalls in Senate",
+      "summary": "The House on Thursday voted to direct President Trump to end the war with Iran, after four Republicans joined Democrats to rebuke the president over his handling of the conflict.",
+      "date": "2026-07-23"
+    },
+    {
+      "title": "House Again Rebukes Trump on Iran War Powers Vote",
+      "summary": "For the second time, a few Republicans joined Democrats to back a measure calling on the president to seek authorization for the conflict.",
+      "date": "2026-07-23"
+    },
     {
       "title": "House Passes Defense Bill Amid Iran War Divide",
       "summary": "Republicans pushed through the $1.15 trillion bill over opposition from Democrats, who said backing it was akin to embracing the war.",
@@ -52,19 +62,15 @@
       "title": "House Narrowly Passes Stopgap Spending Bill, but Shutdown Fight Looms",
       "summary": "Republicans managed to push through legislation to fund the government through Dec. 4. But with Democrats opposed, the stage is set for a broader battle.",
       "date": "2026-07-22"
-    },
-    {
-      "title": "Senate panel advances Jay Clayton's nomination for director of national intelligence",
-      "summary": "The 9-8 vote came after some Democrats had praised Clayton and indicated that they might vote for him. But that shifted after a contentious hearing last week in which Clayton repeatedly refused to say that former President Joe Biden won the 2020 election.",
-      "date": "2026-07-22"
-    },
-    {
-      "title": "Democrats could take initial vote on 2028 presidential primary calendar this week",
-      "summary": "Democrats could vote as early as this week on the order of their primary calendar for the 2028 presidential election, although the decision wouldn't be final until the full Democratic National Committee agrees.",
-      "date": "2026-07-21"
     }
   ],
   "sources": [
+    {
+      "title": "House again rebukes Trump over Iran, while similar effort stalls in Senate",
+      "url": "https://www.cbsnews.com/news/house-trump-war-powers-vote/?utm_source=lootura.com",
+      "publishedAt": "2026-07-23T16:54:09.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
     {
       "title": "South Carolina and Nevada Fight to Kick Off Democrats’ 2028 Presidential Calendar",
       "url": "https://www.nytimes.com/2026/07/22/us/politics/south-carolina-nevada-democrats-2028-presidential-calendar.html?utm_source=lootura.com",
@@ -72,16 +78,10 @@
       "sourceId": "lootura-us-the-new-york-times"
     },
     {
-      "title": "House Passes Defense Bill Amid Iran War Divide",
-      "url": "https://www.nytimes.com/2026/07/22/us/politics/house-defense-bill-iran-war.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-23T01:10:29.000Z",
+      "title": "House Again Rebukes Trump on Iran War Powers Vote",
+      "url": "https://www.nytimes.com/2026/07/23/us/politics/house-iran-war-powers-vote-trump.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-23T15:39:44.000Z",
       "sourceId": "lootura-us-the-new-york-times-politics"
-    },
-    {
-      "title": "The Debate Moment That Captures Democrats’ Worries About Troy Jackson",
-      "url": "https://time.com/article/2026/07/23/the-moment-that-explains-why-troy-jackson-has-democrats-spooked/?utm_source=lootura.com",
-      "publishedAt": "2026-07-23T11:00:00.000Z",
-      "sourceId": "lootura-us-time"
     }
   ],
   "evidenceCount": 3

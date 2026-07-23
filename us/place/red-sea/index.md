@@ -3,7 +3,7 @@
 > Follow Red Sea, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-23T13:51:24.628Z
+- Updated: 2026-07-23T17:20:03.497Z
 - Canonical: https://atlas.lootura.com/us/place/red-sea
 
 ## Recent changes
@@ -72,4 +72,3 @@ Date: 2026-07-21
 
 - [Global oil prices hit $100 a barrel amid attacks in Red Sea](https://www.cbsnews.com/news/global-oil-prices-red-sea-attacks-rates/?utm_source=lootura.com) — 2026-07-23T13:38:00.000Z
 - [Oil surges to $100 per barrel after Red Sea attacks](https://www.nbcnews.com/business/markets/oil-prices-rise-red-sea-attacks-houthis-saudi-trump-iran-war-rcna588851?utm_source=lootura.com) — 2026-07-23T11:39:33.000Z
-- [New Concerns Over Oil Prices After Houthis Attack Saudi Tankers](https://www.today.com/video/cost-of-iran-war-per-us-household-nears-1-200-report-shows-267156549661?utm_source=lootura.com) — 2026-07-23T11:36:18.000Z

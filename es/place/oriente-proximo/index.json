@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/oriente-proximo/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/oriente-proximo/index.json",
   "description": "Sigue la actividad de Oriente Próximo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-23T13:51:07.363Z",
+  "updatedAt": "2026-07-23T17:19:26.220Z",
   "aliases": [
     "Cercano Oriente",
     "Oriente cercano",
@@ -19,6 +19,11 @@
     {
       "title": "El barril de petróleo Brent rebasa los 100 dólares por primera vez en dos meses",
       "summary": "El precio del barril de petróleo Brent, de referencia en Europa, supera la barrera de los 100 dólares por primera vez en los últimos dos meses y alcanza un incremento intradía del 6,3%, mientras continúan los ataques cruzados en Oriente Próximo . Por su parte, el barril de West Texas Intermediate (WTI), de referencia e.",
+      "date": "2026-07-23"
+    },
+    {
+      "title": "Los ataques hutíes en el Mar Rojo, que Trump promete castigar, disparan el petróleo a 100 dólares",
+      "summary": "Lejos de amainar, el conflicto de Oriente Próximo sacude al mundo, las economías nacionales y los mercados con un segundo nuevo frente. Tras una docena de días de nuevas...",
       "date": "2026-07-23"
     },
     {
@@ -60,14 +65,15 @@
       "title": "Naturgy alerta de que Europa puede sufrir escasez de gas este invierno tras las nuevas sanciones a Rusia",
       "summary": "Naturgy advierte a sus inversores que Europa se enfrenta a una potencial escasez de suministro gasista ante las nuevas sanciones de la Unión Europea contra Rusia y la incertidumbre por la escalada bélica en Oriente Próximo. Seguir leyendo.",
       "date": "2026-07-22"
-    },
-    {
-      "title": "El petróleo toca los 95 dólares pero no aplaca el asalto del Ibex a los 19.600 gracias a los resultados",
-      "summary": "Con el conflicto en Oriente Próximo sin visos de registrar progresos y la amenaza de un bloqueo del mar Rojo de fondo que complique aún más la situación, los inversores están optando por prestar más atención a la temporada de resultados trimestrales. Las Bolsas europeas se dejan llevar por unas subidas moderadas pese a.",
-      "date": "2026-07-22"
     }
   ],
   "sources": [
+    {
+      "title": "Los ataques hutíes en el Mar Rojo, que Trump promete castigar, disparan el petróleo a 100 dólares",
+      "url": "https://amp.expansion.com/economia/2026/07/23/6a623bc7e5fdea930a8b4594.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-23T16:05:29.000Z",
+      "sourceId": "lootura-es-expansion"
+    },
     {
       "title": "El barril de petróleo Brent rebasa los 100 dólares por primera vez en dos meses",
       "url": "https://theobjective.com/economia/energia/2026-07-23/petroleo-brent-supera-100-dolares/?utm_source=lootura.com",
@@ -75,5 +81,5 @@
       "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 2
 }

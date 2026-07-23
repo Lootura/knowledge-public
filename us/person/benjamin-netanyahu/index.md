@@ -40,4 +40,4 @@ Date: 2026-07-22
 
 ## Sources
 
-- [Mamdani says he won't try to arrest Israel's Netanyahu](https://www.cbsnews.com/news/mamdani-will-not-arrest-israel-netanyahu-nyc-legal-authority-nypd-un/?utm_source=lootura.com) — 2026-07-23T00:39:53.000Z
+No public source links.

@@ -3,10 +3,16 @@
 > Follow Ukraine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-23T13:51:24.628Z
+- Updated: 2026-07-23T17:20:03.497Z
 - Canonical: https://atlas.lootura.com/us/place/ukraine
 
 ## Recent changes
+
+### Zelensky’s Dizzying U-Turn Is the Latest Zigzag in a Presidency Full of Them
+
+President Volodymyr Zelensky of Ukraine has pivoted from unpopular moves before, but a recent decision about military leadership and strategy could weaken his position.
+
+Date: 2026-07-23
 
 ### A New Target for Ukraine’s Long-Range Attacks: Russia’s Version of Amazon
 
@@ -62,12 +68,6 @@ The move followed the firing of a popular defense minister, who had clashed with
 
 Date: 2026-07-21
 
-### Ukraine fires 400 drones toward Moscow as Zelenskyy grapples with protests
-
-The blitz came hours after Russia bombarded Kyiv and other Ukrainian cities with ballistic missiles in a relentless cycle of tit-for-tat strikes.
-
-Date: 2026-07-20
-
 ## Sources
 
-- [A New Target for Ukraine’s Long-Range Attacks: Russia’s Version of Amazon](https://www.nytimes.com/2026/07/23/world/europe/russia-ukraine-wildberries-attacks.html?utm_source=lootura.com) — 2026-07-23T13:05:18.000Z
+- [Zelensky’s Dizzying U-Turn Is the Latest Zigzag in a Presidency Full of Them](https://www.nytimes.com/2026/07/23/world/europe/zelensky-ukraine-military-reversal.html?utm_source=lootura.com) — 2026-07-23T15:45:00.000Z

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/topic/artificial-intelligence/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/topic/artificial-intelligence/index.json",
   "description": "Sigue la actividad de Artificial intelligence en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-23T13:51:07.363Z",
+  "updatedAt": "2026-07-23T17:19:26.220Z",
   "aliases": [
     "AI",
     "machine learning"
@@ -47,10 +47,10 @@
   ],
   "sources": [
     {
-      "title": "La escuela y la herencia del futuro",
-      "url": "https://elpais.com/opinion/2026-07-23/la-escuela-y-la-herencia-del-futuro.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-23T03:30:01.000Z",
-      "sourceId": "lootura-es-el-pais"
+      "title": "Así escapó una inteligencia artificial para robar las respuestas de su propio examen: «El riesgo está en que cumplan órdenes a cualquier precio»",
+      "url": "https://www.diariovasco.com/egia-guztia/inteligencia-artificial/escapo-inteligencia-artificial-robar-respuestas-propio-examen-20260723185353-nt_amp.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-23T16:53:53.000Z",
+      "sourceId": "lootura-es-el-diario-vasco"
     }
   ],
   "evidenceCount": 0

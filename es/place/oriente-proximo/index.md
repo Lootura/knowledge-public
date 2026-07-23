@@ -3,7 +3,7 @@
 > Sigue la actividad de Oriente Próximo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-23T13:51:07.363Z
+- Actualizado: 2026-07-23T17:19:26.220Z
 - Canonical: https://atlas.lootura.com/es/place/oriente-proximo
 
 ## Cambios recientes
@@ -11,6 +11,12 @@
 ### El barril de petróleo Brent rebasa los 100 dólares por primera vez en dos meses
 
 El precio del barril de petróleo Brent, de referencia en Europa, supera la barrera de los 100 dólares por primera vez en los últimos dos meses y alcanza un incremento intradía del 6,3%, mientras continúan los ataques cruzados en Oriente Próximo . Por su parte, el barril de West Texas Intermediate (WTI), de referencia e.
+
+Date: 2026-07-23
+
+### Los ataques hutíes en el Mar Rojo, que Trump promete castigar, disparan el petróleo a 100 dólares
+
+Lejos de amainar, el conflicto de Oriente Próximo sacude al mundo, las economías nacionales y los mercados con un segundo nuevo frente. Tras una docena de días de nuevas...
 
 Date: 2026-07-23
 
@@ -62,12 +68,7 @@ Naturgy advierte a sus inversores que Europa se enfrenta a una potencial escasez
 
 Date: 2026-07-22
 
-### El petróleo toca los 95 dólares pero no aplaca el asalto del Ibex a los 19.600 gracias a los resultados
-
-Con el conflicto en Oriente Próximo sin visos de registrar progresos y la amenaza de un bloqueo del mar Rojo de fondo que complique aún más la situación, los inversores están optando por prestar más atención a la temporada de resultados trimestrales. Las Bolsas europeas se dejan llevar por unas subidas moderadas pese a.
-
-Date: 2026-07-22
-
 ## Fuentes
 
+- [Los ataques hutíes en el Mar Rojo, que Trump promete castigar, disparan el petróleo a 100 dólares](https://amp.expansion.com/economia/2026/07/23/6a623bc7e5fdea930a8b4594.html?utm_source=lootura.com) — 2026-07-23T16:05:29.000Z
 - [El barril de petróleo Brent rebasa los 100 dólares por primera vez en dos meses](https://theobjective.com/economia/energia/2026-07-23/petroleo-brent-supera-100-dolares/?utm_source=lootura.com) — 2026-07-23T13:27:24.000Z

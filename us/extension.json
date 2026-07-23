@@ -1,42 +1,55 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-23T15:39:20.348Z",
+  "generatedAt": "2026-07-23T17:29:28.285Z",
   "radar": {
     "id": "usa",
     "slug": "us",
     "locale": "en"
   },
   "state": {
-    "signature": "1.18.0|20|1784814684628",
+    "signature": "1.18.0|21|1784827203497",
     "version": "1.18.0",
-    "build": 20,
-    "latestEntityUpdatedAt": "2026-07-23T13:51:24.628Z"
+    "build": 21,
+    "latestEntityUpdatedAt": "2026-07-23T17:20:03.497Z"
   },
   "atlas": {
     "hero": {
-      "id": "usa-saudi-arabia",
-      "name": "Saudi Arabia",
-      "type": "place",
-      "title": "Trump says Saudi Arabia must normalize Israel ties before nuclear deal is approved",
-      "url": "https://atlas.lootura.com/us/place/saudi-arabia",
-      "path": "/us/place/saudi-arabia",
-      "updatedAt": "2026-07-23T13:51:24.628Z",
-      "score": 1725,
-      "sourceCount": 15,
+      "id": "usa-donald-trump",
+      "name": "Donald Trump",
+      "type": "person",
+      "title": "House again rebukes Trump over Iran, while similar effort stalls in Senate",
+      "url": "https://atlas.lootura.com/us/person/donald-trump",
+      "path": "/us/person/donald-trump",
+      "updatedAt": "2026-07-23T17:20:03.497Z",
+      "score": 1761,
+      "sourceCount": 358,
       "isBreaking": false,
       "isPinned": false
     },
     "cards": [
       {
-        "id": "usa-donald-trump",
-        "name": "Donald Trump",
-        "type": "person",
-        "title": "House committee urges DOJ to charge former Trump prosecutor Jack Smith",
-        "url": "https://atlas.lootura.com/us/person/donald-trump",
-        "path": "/us/person/donald-trump",
-        "updatedAt": "2026-07-23T13:51:24.628Z",
-        "score": 1713,
-        "sourceCount": 351,
+        "id": "usa-iran",
+        "name": "Iran",
+        "type": "place",
+        "title": "Funding milestone detected",
+        "url": "https://atlas.lootura.com/us/place/iran",
+        "path": "/us/place/iran",
+        "updatedAt": "2026-07-23T17:20:03.497Z",
+        "score": 1761,
+        "sourceCount": 209,
+        "isBreaking": false,
+        "isPinned": false
+      },
+      {
+        "id": "usa-saudi-arabia",
+        "name": "Saudi Arabia",
+        "type": "place",
+        "title": "White House says Saudi Arabia nuclear deal contingent on joining Abraham Accords",
+        "url": "https://atlas.lootura.com/us/place/saudi-arabia",
+        "path": "/us/place/saudi-arabia",
+        "updatedAt": "2026-07-23T17:20:03.497Z",
+        "score": 1719,
+        "sourceCount": 15,
         "isBreaking": false,
         "isPinned": false
       },
@@ -47,9 +60,9 @@
         "title": "What Visuals Show About Recent Damage to U.S. Military Sites in the Middle East",
         "url": "https://atlas.lootura.com/us/place/united-states",
         "path": "/us/place/united-states",
-        "updatedAt": "2026-07-23T13:51:24.628Z",
-        "score": 1677,
-        "sourceCount": 399,
+        "updatedAt": "2026-07-23T17:20:03.497Z",
+        "score": 1683,
+        "sourceCount": 405,
         "isBreaking": false,
         "isPinned": false
       },
@@ -60,26 +73,13 @@
         "title": "The White House pushes healthy eating. It cut a landmark nutrition education program",
         "url": "https://atlas.lootura.com/us/organization/white-house",
         "path": "/us/organization/white-house",
-        "updatedAt": "2026-07-23T13:51:24.628Z",
-        "score": 1670,
-        "sourceCount": 57,
-        "isBreaking": false,
-        "isPinned": false
-      },
-      {
-        "id": "usa-new-york",
-        "name": "New York City",
-        "type": "place",
-        "title": "Mamdani says he won't try to arrest Israel's Netanyahu",
-        "url": "https://atlas.lootura.com/us/place/new-york",
-        "path": "/us/place/new-york",
-        "updatedAt": "2026-07-23T13:51:24.628Z",
-        "score": 1665,
-        "sourceCount": 53,
+        "updatedAt": "2026-07-23T17:20:03.497Z",
+        "score": 1680,
+        "sourceCount": 59,
         "isBreaking": false,
         "isPinned": false
       }
     ],
-    "publicEntityCount": 71
+    "publicEntityCount": 75
   }
 }

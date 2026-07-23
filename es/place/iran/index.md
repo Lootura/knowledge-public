@@ -3,10 +3,22 @@
 > Sigue la actividad de Irán en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-23T13:51:07.363Z
+- Actualizado: 2026-07-23T17:19:26.220Z
 - Canonical: https://atlas.lootura.com/es/place/iran
 
 ## Cambios recientes
+
+### El BCE mantiene los tipos y anticipa una nueva subida en septiembre si la guerra en Irán persiste
+
+El Eurobanco deja los tipos de interés en el 2,25% y aplaza cualquier decisión a después del verano, cuando contará con nuevas previsiones macroeconómicas.
+
+Date: 2026-07-23
+
+### El petróleo vuelve a superar los 100 dólares y desata otra oleada de ventas en los mercados
+
+Después de un mes de junio en el que la Bolsa, el petróleo y la deuda celebraron el acercamiento entre EE UU e Irán, julio ha dado un vuelco al sentimiento de los mercados. Dos semanas después de que Washington diera por rota la tregua y los ataques se intensificaran, un nuevo actor ha entrado en escena: los hutíes de.
+
+Date: 2026-07-23
 
 ### El BCE mantiene los tipos en el 2,25% a pesar de la escalada de los precios de la energía
 
@@ -17,12 +29,6 @@ Date: 2026-07-23
 ### Lagarde mantiene tipos en el 2,25% y deja la siguiente subida para septiembre: “El shock energético puede intensificarse”
 
 El precio del petróleo se acerca a los 100 dólares el barril y el del gas en Europa se dispara al nivel más alto desde que empezó la guerra de Irán . El coste de la energía vuelve a ser un motivo de preocupación en la zona euro pero el Banco Central Europeo (BCE) ha decidido este jueves no avanzar en las subidas de tip.
-
-Date: 2026-07-23
-
-### El BCE mantiene los tipos y anticipa una nueva subida en septiembre si la guerra en Irán persiste
-
-El Eurobanco deja los tipos de interés en el 2,25% y aplaza cualquier decisión a después del verano, cuando contará con nuevas previsiones macroeconómicas.
 
 Date: 2026-07-23
 
@@ -62,15 +68,7 @@ La Bolsa española ha ganado el 0,99% este miércoles y ha recuperado el nivel d
 
 Date: 2026-07-22
 
-### Trump se dispone a firmar un acuerdo nuclear con Arabia Saudí en plena escalada de tensiones con Irán
-
-En plena escalada de tensiones bélicas con Irán, el Gobierno de Estados Unidos que preside Donald Trump se dispone a firmar un acuerdo con Arabia Saudí que permitiría al país contar con un programa nuclear civil, abriendo la puerta al enriquecimiento de uranio. El acuerdo, que busca reordenar el equilibrio de poderes e.
-
-Date: 2026-07-22
-
 ## Fuentes
 
-- [El BCE mantiene los tipos en el 2,25% a pesar de la escalada de los precios de la energía](https://www.abc.es/economia/bce-mantiene-tipos-225-pesar-riesgos-derivados-20260723141757-nt.html?utm_source=lootura.com) — 2026-07-23T12:37:19.000Z
-- [Lagarde mantiene tipos en el 2,25% y deja la siguiente subida para septiembre: “El shock energético puede intensificarse”](https://elpais.com/economia/2026-07-23/el-bce-mantiene-tipos-en-el-225-y-deja-la-siguiente-subida-para-septiembre.html?utm_source=lootura.com) — 2026-07-23T13:07:08.000Z
+- [El petróleo vuelve a superar los 100 dólares y desata otra oleada de ventas en los mercados](https://cincodias.elpais.com/mercados-financieros/2026-07-23/la-bolsa-y-el-ibex-35.html?utm_source=lootura.com) — 2026-07-23T16:15:32.000Z
 - [El BCE mantiene los tipos y anticipa una nueva subida en septiembre si la guerra en Irán persiste](https://www.elcorreo.com/economia/bce-mantiene-tipos-anticipa-nueva-subida-septiembre-20260723141530-ntrc_amp.html?utm_source=lootura.com) — 2026-07-23T12:16:09.000Z
-- [El Gobierno salva el escudo anticrisis por la guerra en Irán con rebajas fiscales en los carburantes hasta octubre](https://www.eldiario.es/economia/gobierno-salva-escudo-anticrisis-guerra-iran-rebajas-fiscales-carburantes-octubre_1_13401170.html?utm_source=lootura.com) — 2026-07-23T11:00:50.000Z

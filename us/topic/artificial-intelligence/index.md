@@ -3,7 +3,7 @@
 > Follow Artificial intelligence, a tracked topic, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: topic
-- Updated: 2026-07-23T13:51:24.628Z
+- Updated: 2026-07-23T17:20:03.497Z
 - Canonical: https://atlas.lootura.com/us/topic/artificial-intelligence
 
 ## Recent changes
@@ -17,6 +17,18 @@ Date: 2026-07-23
 ### This AI tool promises a 'second sight of eyes' to clinicians. Did patients benefit?
 
 Medical workers in a Nairobi clinic used an AI tool to check their work. A new study evaluates the result. (Image credit: Patrick Meinhardt/AFP).
+
+Date: 2026-07-23
+
+### Tilly Norwood's creator insists the AI actor is creating Hollywood jobs
+
+The robot actor is generating work for Hollywood creatives, not stealing jobs from actors, her inventor tells CBS News.
+
+Date: 2026-07-23
+
+### Product availability changed in Europe
+
+Lawmakers are preparing to introduce an "AI Kill Switch Act" that would require AI companies to shut down or throttle their systems on orders from the Department of Homeland Security, according to a report from Politico . Reps. Ted Lieu (D-CA) and Nathaniel Moran (R-TX) are expected to introduce the legislation on Thur.
 
 Date: 2026-07-23
 
@@ -56,24 +68,9 @@ Organic light-emitting diodes (OLEDs) have become a standard in modern devices w
 
 Date: 2026-07-22
 
-### Here’s what Samsung’s smart glasses actually look like
-
-With a camera on every pair, Google’s and Samsung’s AI glasses face the same privacy problems as Meta’s. | Photo: Dominic Preston / The Verge Samsung has given us our first chance to check out its upcoming smart glasses in person, revealing two new designs and the first specs in the process, including an impressive 9-h.
-
-Date: 2026-07-22
-
-### AMD commits up to $5 billion to Anthropic
-
-AMD says it's going to invest up to $5 billion in Anthropic, while helping to expand the AI company's computing power, according to an announcement on Wednesday . As part of the new partnership, Anthropic will deploy up to 2 gigawatts of AMD's Instinct MI450 AI GPUs using the chipmaker's new Helios rack-scale system, a.
-
-Date: 2026-07-22
-
 ## Sources
 
-- [Epstein associate found dead in France](https://www.cbsnews.com/video/epstein-associate-found-dead-france/?utm_source=lootura.com) — 2026-07-23T13:11:43.000Z
-- [In pursuit of 'Instagram face,' are we losing the imperfections that make us human?](https://www.npr.org/2026/07/22/nx-s1-5902070/jia-tolentino-instagram-face-plastic-surgery?utm_source=lootura.com) — 2026-07-22T17:11:19.000Z
+- [Tilly Norwood's creator insists the AI actor is creating Hollywood jobs](https://www.cbsnews.com/news/tilly-norwood-ai-actor-hollywood-jobs/?utm_source=lootura.com) — 2026-07-23T17:05:00.000Z
 - [A town renamed its festival 'AI Love Irondale Day.' Then came the comments](https://www.npr.org/2026/07/23/nx-s1-5896481/data-center-backlash-ai-love-irondale-day?utm_source=lootura.com) — 2026-07-23T09:00:00.000Z
 - [This AI tool promises a 'second sight of eyes' to clinicians. Did patients benefit?](https://www.npr.org/2026/07/23/g-s1-134929/this-ai-tool-promises-a-second-sight-of-eyes-to-clinicians-did-patients-benefit?utm_source=lootura.com) — 2026-07-23T11:36:52.000Z
-- [Stocks and the Economy Are Increasingly Relying on the A.I. Boom](https://www.nytimes.com/2026/07/22/business/economy/stocks-economy-ai.html?utm_source=lootura.com) — 2026-07-22T15:46:48.000Z
-- [The right-wing boomers protesting data centers have a lot in common with the left](https://www.theverge.com/policy/969667/humans-first-data-center-protest-hernando-county-florida-republicans?utm_source=lootura.com) — 2026-07-23T12:00:00.000Z
-- [The sci-fi movie that imagines AI isn’t so dystopian after all](https://www.theverge.com/entertainment/969584/hirokazu-kore-eda-sheep-in-a-box-interview?utm_source=lootura.com) — 2026-07-23T13:00:00.000Z
+- [Lawmakers prepare bill requiring AI ‘kill switch’](https://www.theverge.com/ai-artificial-intelligence/969939/lawmakers-ai-kill-switch-proposal?utm_source=lootura.com) — 2026-07-23T14:13:35.000Z

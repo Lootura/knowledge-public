@@ -3,22 +3,10 @@
 > Sigue la actividad de Audiencia Nacional (España) en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-23T13:51:07.363Z
+- Actualizado: 2026-07-23T17:19:26.220Z
 - Canonical: https://atlas.lootura.com/es/organization/audiencia-nacional
 
 ## Cambios recientes
-
-### Las frases más destacadas: "Hasta que no haya una sentencia firme, aquí no delinque nadie"
-
-El expresidente del Gobierno José Luis Rodríguez Zapatero ha concedido este jueves una entrevista en el programa Mañaneros 360 de TVE, la primera desde que trascendiera su investigación judicial en relación con el rescate de la aerolínea Plus Ultra y su posterior declaración ante el juez de la Audiencia Nacional, José.
-
-Date: 2026-07-23
-
-### Zapatero, sobre el rescate de Plus Ultra: “No es que no influyera, es que no hablé con nadie”
-
-La primera entrevista de José Luis Rodríguez Zapatero —en el programa Mañaneros de TVE— desde que la Audiencia Nacional le imputó por liderar una trama de tráfico de influencias ilícitas, ha dejado escasas novedades de impacto jurídico. El propio expresidente del Gobierno ha admitido durante la entrevista que, tras dos.
-
-Date: 2026-07-23
 
 ### Los titulares de la entrevista a Zapatero: de la estrategia de defensa de Julio Martínez a los trabajos de sus hijas
 
@@ -29,6 +17,24 @@ Date: 2026-07-23
 ### Caso Zapatero: explicaciones insuficientes contra una decepción
 
 El expresidente se remite a próximas diligencias en el juzgado para aclarar los aspectos más controvertidos que pesan contra él en la causa penal abierta en la Audiencia Nacional Zapatero niega influencias en el rescate de Plus Ultra en su reaparición: “No hablé con nadie, ni de la SEPI ni del Gobierno” El expresidente.
+
+Date: 2026-07-23
+
+### El Gobierno y el PSOE cierran filas con Zapatero y aseguran que probará su inocencia
+
+El Gobierno y la dirección del PSOE reiteran su respaldo a José Luis Rodríguez Zapatero tras las explicaciones que el expresidente ha dado en RTVE, donde ha defendido su inocencia sin aportar ninguna información nueva a la que ya había declarado a mediados de junio ante el juez José Luis Calama de la Audiencia Nacional.
+
+Date: 2026-07-23
+
+### Las frases más destacadas: "Hasta que no haya una sentencia firme, aquí no delinque nadie"
+
+El expresidente del Gobierno José Luis Rodríguez Zapatero ha concedido este jueves una entrevista en el programa Mañaneros 360 de TVE, la primera desde que trascendiera su investigación judicial en relación con el rescate de la aerolínea Plus Ultra y su posterior declaración ante el juez de la Audiencia Nacional, José.
+
+Date: 2026-07-23
+
+### Zapatero, sobre el rescate de Plus Ultra: “No es que no influyera, es que no hablé con nadie”
+
+La primera entrevista de José Luis Rodríguez Zapatero —en el programa Mañaneros de TVE— desde que la Audiencia Nacional le imputó por liderar una trama de tráfico de influencias ilícitas, ha dejado escasas novedades de impacto jurídico. El propio expresidente del Gobierno ha admitido durante la entrevista que, tras dos.
 
 Date: 2026-07-23
 
@@ -62,15 +68,8 @@ OKDIARIO ha localizado este miércoles a Alba Zapatero Espinosa , la hija menor 
 
 Date: 2026-07-22
 
-### Las seis mayores contradicciones entre lo que Julio Martínez declaró y la versión de Zapatero
-
-La declaración de Julio Martínez Martínez ha complicado el futuro judicial de José Luis Rodríguez Zapatero . Eso y los escritos que tanto el "amigo" como dos altos cargos de Plus Ultra han remitido esta semana a la Audiencia Nacional. Según ellos, el expresidente habría influido en favor del rescate de 53 millones de e.
-
-Date: 2026-07-22
-
 ## Fuentes
 
-- [Las frases más destacadas: "Hasta que no haya una sentencia firme, aquí no delinque nadie"](https://www.20minutos.es/nacional/frases-mas-destacadas-entrevista-zapatero-hasta-que-no-haya-una-sentencia-firme-aqui-no-delinque-nadie_7018166_0.html?utm_source=lootura.com) — 2026-07-23T11:52:42.000Z
-- [Zapatero, sobre el rescate de Plus Ultra: “No es que no influyera, es que no hablé con nadie”](https://elpais.com/espana/2026-07-23/zapatero-en-su-primera-entrevista-tras-su-imputacion-no-es-que-no-influyera-es-que-no-hable-con-nadie-del-rescate-de-plus-ultra.html?utm_source=lootura.com) — 2026-07-23T13:20:27.000Z
 - [Los titulares de la entrevista a Zapatero: de la estrategia de defensa de Julio Martínez a los trabajos de sus hijas](https://elpais.com/espana/2026-07-23/las-titulares-de-la-entrevista-a-zapatero-de-la-estrategia-de-defensa-de-julio-martinez-a-los-trabajos-de-sus-hijas.html?utm_source=lootura.com) — 2026-07-23T12:32:24.000Z
+- [El Gobierno y el PSOE cierran filas con Zapatero y aseguran que probará su inocencia](https://elpais.com/espana/2026-07-23/el-gobierno-y-el-psoe-cierran-filas-con-zapatero-y-aseguran-que-probara-su-inocencia.html?utm_source=lootura.com) — 2026-07-23T12:48:42.000Z
 - [Caso Zapatero: explicaciones insuficientes contra una decepción](https://www.eldiario.es/politica/caso-zapatero-explicaciones-insuficientes-decepcion_129_13401206.html?utm_source=lootura.com) — 2026-07-23T13:33:21.000Z

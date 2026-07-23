@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/red-sea/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/red-sea/index.json",
   "description": "Follow Red Sea, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-23T13:51:24.628Z",
+  "updatedAt": "2026-07-23T17:20:03.497Z",
   "aliases": [
     "Al Baḩr al Aḩmar",
     "Arabian Gulf",
@@ -80,13 +80,7 @@
       "url": "https://www.nbcnews.com/business/markets/oil-prices-rise-red-sea-attacks-houthis-saudi-trump-iran-war-rcna588851?utm_source=lootura.com",
       "publishedAt": "2026-07-23T11:39:33.000Z",
       "sourceId": "lootura-us-nbc-news"
-    },
-    {
-      "title": "New Concerns Over Oil Prices After Houthis Attack Saudi Tankers",
-      "url": "https://www.today.com/video/cost-of-iran-war-per-us-household-nears-1-200-report-shows-267156549661?utm_source=lootura.com",
-      "publishedAt": "2026-07-23T11:36:18.000Z",
-      "sourceId": "lootura-us-nbc-news-politics"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 2
 }

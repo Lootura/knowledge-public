@@ -3,10 +3,16 @@
 > Sigue la actividad de Arabia Saudí en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-23T13:51:07.363Z
+- Actualizado: 2026-07-23T17:19:26.220Z
 - Canonical: https://atlas.lootura.com/es/place/arabia-saudi
 
 ## Cambios recientes
+
+### Los técnicos de Hacienda apuntan a la prescripción de los delitos fiscales de Zapatero
+
+El sindicato de técnicos del Ministerio de Hacienda, Gestha, considera que el expresidente del Gobierno debería ceder a Patrimonio del Estado las joyas que supuestamente recibió como regalo de Arabia Saudí cuando era presidente. Apuntan a la prescripción de cualquier delito fiscal o de contrabando tras la entrevista co.
+
+Date: 2026-07-23
 
 ### EEUU y Arabia Saudí firman un histórico pacto que allana a Riad lograr enriquecer uranio
 
@@ -62,12 +68,6 @@ Los rebeldes yemeníes, el principal bastión del Eje de la Resistencia iraní e
 
 Date: 2026-07-22
 
-### Cautela en las Bolsas ante los resultados de las grandes tecnológicas y con el petróleo al alza
-
-El pesimismo en torno a las negociaciones de paz entre EE UU e Irán, después de que el presidente Donald Trump restara importancia a la posibilidad de conversaciones inmediatas con Teherán, y la creciente amenaza a los suministros energéticos de Oriente Próximo derivada de un bloqueo naval dirigido contra Arabia Saudí.
-
-Date: 2026-07-22
-
 ## Fuentes
 
-- [Los ataques hutíes amenazan con cortar la vía de salida vital del petróleo saudí](https://www.expansion.com/economia/financial-times/2026/07/23/6a620e3f468aeb48318b4581.html?utm_source=lootura.com) — 2026-07-23T12:51:16.000Z
+- [Los técnicos de Hacienda apuntan a la prescripción de los delitos fiscales de Zapatero](https://www.expansion.com/economia/2026/07/23/6a622417e5fdea045b8b4598.html?utm_source=lootura.com) — 2026-07-23T14:28:08.000Z

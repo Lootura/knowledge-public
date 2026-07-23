@@ -3,10 +3,22 @@
 > Sigue la actividad de Begoña Gómez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-22T02:26:20.882Z
+- Actualizado: 2026-07-23T17:19:26.220Z
 - Canonical: https://atlas.lootura.com/es/person/begona-gomez
 
 ## Cambios recientes
+
+### La asesora de Begoña Gómez reprocha al juez que les haga recoger en persona el pasaporte
+
+Sostiene que el juez Peinado invade competencias del letrado de la Administración de Justicia y denuncia que mantiene una restricción de la libertad Leer.
+
+Date: 2026-07-23
+
+### La asistente de Begoña Gómez denuncia que el juez Peinado retiene "a sabiendas" su pasaporte sin justificación
+
+El abogado de Cristina Álvarez exige al juez que no dilate más la entrega del documento porque está violando un derecho constitucional, el de movimiento, e incumpliendo una orden de la instancia superior El Poder Judicial se divide sobre si archivar o no las quejas contra el juez Peinado por el caso de Begoña Gómez La.
+
+Date: 2026-07-23
 
 ### El Poder Judicial aplaza su decisión sobre si expedienta a Peinado tras no llegar a un acuerdo
 
@@ -56,18 +68,7 @@ El socialista asturiano se plantea «no casarse», ya que «esa persona siempre 
 
 Date: 2026-07-17
 
-### Cuándo será el juicio a Begoña Gómez: delitos de los que se le acusan y previsión de fechas
-
-El calendario judicial apunta a 2027 como el horizonte más probable para la celebración de uno de los juicios con mayor repercusión pública de los últimos años. Aunque todavía no existe una fecha concreta , los trámites pendientes, la composición del tribunal y la carga de trabajo de la Audiencia Provincial de Madrid h.
-
-Date: 2026-07-17
-
-### Cómo se elegirán a los nueve miembros del jurado que juzgarán a Begoña Gómez: así es la lista de los candidatos
-
-La elección de los nueve miembros del jurado que juzgarán a Begoña Gómez partirá de una lista de 2.846 candidatos de la Comunidad de Madrid . De ese registro se convocará a 30 ciudadanos , entre los que se escogerá a los nueve titulares y a dos suplentes que participarán en el juicio. La Audiencia Provincial de Madrid.
-
-Date: 2026-07-17
-
 ## Fuentes
 
-No public source links.
+- [La asesora de Begoña Gómez reprocha al juez que les haga recoger en persona el pasaporte](https://www.elmundo.es/espana/2026/07/23/6a62456ce85ece904a8b4576.html?utm_source=lootura.com) — 2026-07-23T16:49:24.000Z
+- [La asistente de Begoña Gómez denuncia que el juez Peinado retiene "a sabiendas" su pasaporte sin justificación](https://www.eldiario.es/politica/asistente-begona-gomez-denuncia-peinado-retiene-sabiendas-pasaporte-justificacion_1_13402071.html?utm_source=lootura.com) — 2026-07-23T14:29:17.000Z
