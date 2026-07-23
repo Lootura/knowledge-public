@@ -46,4 +46,4 @@ Date: 2026-07-21
 
 ## Fuentes
 
-- [El BCE dejará los tipos sin cambios pero sin perder de vista el coste creciente de la energía](https://cincodias.elpais.com/mercados-financieros/2026-07-23/el-bce-dejara-los-tipos-sin-cambios-pero-sin-perder-de-vista-el-coste-creciente-de-la-energia.html?utm_source=lootura.com) — 2026-07-23T03:25:00.000Z
+No public source links.

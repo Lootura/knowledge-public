@@ -3,16 +3,10 @@
 > Sigue la actividad de Barcelona en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-23T06:28:35.711Z
+- Actualizado: 2026-07-23T10:20:05.700Z
 - Canonical: https://atlas.lootura.com/es/place/barcelona
 
 ## Cambios recientes
-
-### Ocho heridos en la deflagración de gas en la plaza Sants de Barcelona
-
-Los Bombers de Barcelona trabajan con 9 dotaciones esta noche del miércoles al jueves en un incendio por una deflagración de gas a las 22.50 en la Plaça de Sants, según fuentes del Ayuntamiento de Barcelona.Hay 8 hombres heridos: 2 afectados graves y 2 menos graves (traslados al Hospital Vall d'Hebron), 1 menos grave y.
-
-Date: 2026-07-23
 
 ### Una testigo inesperada cuestiona la declaración de Jonathan Andic y torpedea su defensa
 
@@ -23,6 +17,12 @@ Date: 2026-07-23
 ### De la “confrontación” a las “siete cronologías” de los Andic: los peligros de abrazar pseudociencias para resolver conflictos familiares
 
 La extraña terapia a la que se estaba sometiendo la familia Andic antes de la muerte del padre, Isak, se ha colocado en el centro del proceso judicial que investiga al primogénito, Jonathan Andic, como presunto autor de la muerte de su padre durante una excursión a la montaña de Montserrat (Barcelona). Para mejorar la.
+
+Date: 2026-07-23
+
+### Ocho heridos en la deflagración de gas en la plaza Sants de Barcelona
+
+Los Bombers de Barcelona trabajan con 9 dotaciones esta noche del miércoles al jueves en un incendio por una deflagración de gas a las 22.50 en la Plaça de Sants, según fuentes del Ayuntamiento de Barcelona.Hay 8 hombres heridos: 2 afectados graves y 2 menos graves (traslados al Hospital Vall d'Hebron), 1 menos grave y.
 
 Date: 2026-07-23
 
@@ -70,6 +70,5 @@ Date: 2026-07-22
 
 ## Fuentes
 
-- [Ocho heridos en la deflagración de gas en la plaza Sants de Barcelona](https://www.abc.es/espana/cataluna/heridos-incendio-deflagracion-gas-plaza-sants-barcelona-20260723003256-nt.html?utm_source=lootura.com) — 2026-07-23T05:30:46.000Z
 - [Una testigo inesperada cuestiona la declaración de Jonathan Andic y torpedea su defensa](https://elpais.com/espana/catalunya/2026-07-23/una-testigo-inesperada-cuestiona-la-declaracion-de-jonathan-andic-y-torpedea-su-defensa.html?utm_source=lootura.com) — 2026-07-23T03:30:01.000Z
 - [De la “confrontación” a las “siete cronologías” de los Andic: los peligros de abrazar pseudociencias para resolver conflictos familiares](https://elpais.com/espana/catalunya/2026-07-23/de-la-confrontacion-a-las-siete-cronologias-de-los-andic-los-peligros-de-abrazar-pseudociencias-para-resolver-conflictos-familiares.html?utm_source=lootura.com) — 2026-07-23T03:30:01.000Z

@@ -3,10 +3,16 @@
 > Sigue la actividad de Julio Martínez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-23T06:28:35.711Z
+- Actualizado: 2026-07-23T10:20:05.700Z
 - Canonical: https://atlas.lootura.com/es/person/julio-martinez
 
 ## Cambios recientes
+
+### Javier Ruiz, sobre irse de la RTVE de Pedro Sánchez y 'Mañaneros '360': «Me dan ganas de dejarlo todas las mañanas. Hay un coste humano»
+
+El presentador de 'Mañaneros' entrevistará a José Luis Rodríguez Zapatero este jueves tras la declaración de Julio Martínez.
+
+Date: 2026-07-23
 
 ### "Si Julio Martínez quiere equipararse a Aldama, tiene que aportar más"
 
@@ -62,12 +68,7 @@ La declaración de Julio Martínez Martínez y los escritos que tanto él como d
 
 Date: 2026-07-22
 
-### La causa contra Zapatero sitúa ahora el foco en la cúpula de Plus Ultra tras contradecir la versión del expresidente
-
-Julio Martínez Martínez entró sobre las 8.45 de este martes en la Audiencia Nacional y salió más de cuatro horas después sin moverse mucho de la línea marcada un día antes en el escrito enviado al juez José Luis Calama para implicar al expresidente José Luis Rodríguez Zapatero en el rescate de Plus Ultra . El giro del.
-
-Date: 2026-07-22
-
 ## Fuentes
 
+- [Javier Ruiz, sobre irse de la RTVE de Pedro Sánchez y 'Mañaneros '360': «Me dan ganas de dejarlo todas las mañanas. Hay un coste humano»](https://www.abc.es/play/television/noticias/javier-ruiz-tajante-sobre-irse-rtve-pedro-20260723104318-nt_amp.html?utm_source=lootura.com) — 2026-07-23T08:43:19.000Z
 - [La Audiencia ve como un "gran avance" para el tráfico de influencias la confesión del pagador de Zapatero y los directivos de Plus Ultra](https://amp.elmundo.es/espana/2026/07/22/6a60e3bf21efa078558b4583.html?utm_source=lootura.com) — 2026-07-22T20:40:16.000Z

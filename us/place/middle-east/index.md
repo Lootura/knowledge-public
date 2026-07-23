@@ -3,7 +3,7 @@
 > Follow Middle East, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-23T06:29:04.058Z
+- Updated: 2026-07-23T10:20:24.199Z
 - Canonical: https://atlas.lootura.com/us/place/middle-east
 
 ## Recent changes
@@ -17,6 +17,12 @@ Date: 2026-07-23
 ### What Visuals Show About Recent Damage to U.S. Military Sites in the Middle East
 
 Video footage and satellite images reveal new details about Iranian strikes on U.S. targets during the latest flare-up in fighting.
+
+Date: 2026-07-23
+
+### U.S.-Saudi Deal Prompts Fears of a Nuclear Arms Race
+
+In Europe, Asia and the Middle East, countries seek nuclear capabilities to hedge against aggressive neighbors and a receding Washington, potentially creating a more freewheeling era.
 
 Date: 2026-07-23
 
@@ -62,14 +68,9 @@ Almost 100 American service members have been injured in strikes on bases in the
 
 Date: 2026-07-20
 
-### How recent killings of U.S. soldiers could affect the war with Iran
-
-President Trump reacted to the recent killings of U.S. soldiers in the Middle East with strong words on Monday, promising that Iran will pay "many times over." Mark Cancian, senior adviser at the Center for Strategic and International Studies, joins CBS News to break down what this means for the war and CBS News' Weiji.
-
-Date: 2026-07-20
-
 ## Sources
 
 - [Trump speaks at Georgia high school after attending dignified transfer](https://www.cbsnews.com/video/trump-speaks-at-georgia-high-school-after-attending-dignified-transfer/?utm_source=lootura.com) — 2026-07-22T20:31:04.000Z
 - [Remembering the 4 U.S. service members killed recently in the Iran war](https://www.cbsnews.com/video/remembering-the-4-us-service-members-killed-recently-in-the-iran-war/?utm_source=lootura.com) — 2026-07-23T00:32:33.000Z
 - [What Visuals Show About Recent Damage to U.S. Military Sites in the Middle East](https://www.nytimes.com/2026/07/22/world/middleeast/iran-war-us-bases-images.html?utm_source=lootura.com) — 2026-07-23T01:37:39.000Z
+- [U.S.-Saudi Deal Prompts Fears of a Nuclear Arms Race](https://www.nytimes.com/2026/07/23/world/europe/us-saudi-deal-nuclear-hedging.html?utm_source=lootura.com) — 2026-07-23T09:44:04.000Z

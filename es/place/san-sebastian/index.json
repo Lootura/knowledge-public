@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/san-sebastian/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/san-sebastian/index.json",
   "description": "Sigue la actividad de San Sebastián en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-23T06:28:35.711Z",
+  "updatedAt": "2026-07-23T10:20:05.700Z",
   "aliases": [
     "Donostia",
     "Donostia / San Sebastian",
@@ -20,6 +20,11 @@
     "San Sebastián-Donostia"
   ],
   "changes": [
+    {
+      "title": "Una avería provoca retrasos en varias líneas de Cercanáis Madrid entre Villaverde Bajo y Atocha",
+      "summary": "La circulación de Cercanías permanece interrumpida desde primera hora de este viernes entre Villaverde Bajo y Atocha en las líneas C3 (Aranjuez-Chamartín) y C4 ( Parla-San Sebastián de los Reyes ) debido a una avería que afecta al sistema de señalización. Adif ha señalado que los equipos técnicos han trabajado para sol.",
+      "date": "2026-07-23"
+    },
     {
       "title": "Profanan una tumba del Cementerio de los Ingleses de San Sebastián: «Ha aparecido con la lápida rota y abierta»",
       "summary": "Se trata de la tumba donde reposan los restos de Sara y Matilde, fallecidas a mediados de la década de 1830 y sepultadas en la ladera del monte Urgull.",
@@ -64,19 +69,14 @@
       "title": "El Hospital Donostia realiza una operación pionera en bebés con problemas en el riñón",
       "summary": "Opera por primera vez en Euskadi a lactantes para corregir el estrechamiento entre el uréter y el riñón con una técnica mínimamente invasiva.",
       "date": "2026-07-18"
-    },
-    {
-      "title": "La rebelión fracasa en Donostia pero la ciudad cae bajo un clima prebélico",
-      "summary": "Los sublevados contra la República se atrincheraron los primeros días en San Sebastián, que cayó el 13 de septiembre tras dos meses de lucha y bombardeos en los que la ciudad vivió una cruenta espiral de muerte.",
-      "date": "2026-07-18"
     }
   ],
   "sources": [
     {
-      "title": "Profanan una tumba del Cementerio de los Ingleses de San Sebastián: «Ha aparecido con la lápida rota y abierta»",
-      "url": "https://www.diariovasco.com/san-sebastian/profanan-tumba-cementerio-ingleses-monte-urgull-20260722115557-nt_amp.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-22T09:57:08.000Z",
-      "sourceId": "lootura-es-el-diario-vasco"
+      "title": "Una avería provoca retrasos en varias líneas de Cercanáis Madrid entre Villaverde Bajo y Atocha",
+      "url": "https://www.elconfidencial.com/espana/madrid/2026-07-23/cercanias-incidencia-retrasos-madrid-1tna-1tps_4394658/?utm_source=lootura.com",
+      "publishedAt": "2026-07-23T08:22:00.000Z",
+      "sourceId": "lootura-es-el-confidencial"
     }
   ],
   "evidenceCount": 1

@@ -3,10 +3,16 @@
 > Sigue la actividad de Alberto Núñez Feijóo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-23T06:28:35.711Z
+- Actualizado: 2026-07-23T10:20:05.700Z
 - Canonical: https://atlas.lootura.com/es/person/alberto-nunez-feijoo
 
 ## Cambios recientes
+
+### El PP exige la dimisión de Morant por comparar un gobierno de Feijóo con Hitler: "Está en una situación desesperada"
+
+El secretario general del PP, Miguel Tellado , ha reclamado este jueves la dimisión inmediata de la ministra de Ciencia y líder del PSPV-PSOE, Diana Morant , después de que esta comparase un eventual Gobierno presidido por Alberto Núñez Feijóo con el “criminal” Hitler . A su entender, esas palabras definen tanto a la d.
+
+Date: 2026-07-23
 
 ### "No ha pasado lo peor": Feijóo aguarda la "traca final" de la corrupción del PSOE a la vuelta del verano
 
@@ -62,13 +68,7 @@ El líder del PP, Alberto Núñez Feijóo, ha decidido no esperar a la comparece
 
 Date: 2026-07-21
 
-### Así funciona la campaña permanente del PP que tiene a Abascal en sus oraciones
-
-Alberto Núñez Feijóo ha decidido dejar de mirar el calendario de Pedro Sánchez. Aunque nadie sabe cuándo convocará las próximas elecciones generales y el presidente del Gobierno insiste en mantener la incógnita mientras reivindica su intención de agotar la legislatura, el líder del PP ha puesto en marcha una estrategia.
-
-Date: 2026-07-20
-
 ## Fuentes
 
-- ["No ha pasado lo peor": Feijóo aguarda la "traca final" de la corrupción del PSOE a la vuelta del verano](https://www.elconfidencial.com/espana/2026-07-23/feijoo-aguarda-traca-final-corrupcion-psoe-vuelta-verano_4394407/?utm_source=lootura.com) — 2026-07-23T03:00:00.000Z
+- [El PP exige la dimisión de Morant por comparar un gobierno de Feijóo con Hitler: "Está en una situación desesperada"](https://www.elconfidencial.com/espana/2026-07-23/dimision-morant-pp-psoe-democracia-1tps_4394692/?utm_source=lootura.com) — 2026-07-23T09:12:00.000Z
 - [Feijóo promete una "reconstrucción nacional" y reformas estructurales: "Hacienda dejará de ser el gran beneficiario"](https://www.elmundo.es/espana/2026/07/22/6a611444e4d4d8850e8b4588.html?utm_source=lootura.com) — 2026-07-22T20:38:09.000Z

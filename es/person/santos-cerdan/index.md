@@ -28,4 +28,4 @@ Date: 2026-07-22
 
 ## Fuentes
 
-- [El juez amplía la investigación patrimonial de Santos Cerdán a las cuentas de su mujer, su hija, su hermana y su cuñado](https://amp.elmundo.es/espana/2026/07/22/6a610bf4e9cf4a3b3e8b45b6.html?utm_source=lootura.com) — 2026-07-22T18:30:38.000Z
+No public source links.

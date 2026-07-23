@@ -3,7 +3,7 @@
 > Follow New York City, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-23T06:29:04.058Z
+- Updated: 2026-07-23T10:20:24.199Z
 - Canonical: https://atlas.lootura.com/us/place/new-york
 
 ## Recent changes
@@ -11,6 +11,12 @@
 ### Mamdani says he won't try to arrest Israel's Netanyahu
 
 New York City Mayor Zohran Mamdani conceded late Tuesday that the city does not have the authority to arrest Israeli Prime Minister Benjamin Netanyahu.
+
+Date: 2026-07-23
+
+### The latest US troops killed in Trump’s Iran war are remembered for lives of service
+
+Angel Rampersad, Michael Swinton, Isabella Gonzales and Tyler Feehan were among 18 US troops killed in the war A 30-year-old husband and father of two. A 25-year-old officer just weeks away from earning his MBA. A 19-year-old recent high school graduate. And a 28-year-old from Queens, New York, with a “radiant smile”.
 
 Date: 2026-07-23
 
@@ -62,13 +68,8 @@ NYPD sources said fireworks were found in a garbage can and a man was taken into
 
 Date: 2026-07-20
 
-### Who speaks for the horses? New push seeks to ban Central Park’s carriages
-
-A tourist’s death has boosted animal advocates’ drive to end a trade supporters say provides jobs and treats horses well New York city’s council chamber was packed, the debate wide-ranging and heated, but lacked one component – a talking horse. Many of the 200 people packed into the debating hall last week felt only th.
-
-Date: 2026-07-20
-
 ## Sources
 
 - [Mamdani says he won't try to arrest Israel's Netanyahu](https://www.cbsnews.com/news/mamdani-will-not-arrest-israel-netanyahu-nyc-legal-authority-nypd-un/?utm_source=lootura.com) — 2026-07-23T00:39:53.000Z
+- [The latest US troops killed in Trump’s Iran war are remembered for lives of service](https://www.theguardian.com/world/2026/jul/23/iran-war-us-troops?utm_source=lootura.com) — 2026-07-23T10:00:42.000Z
 - [Mamdani Knew He Couldn’t Arrest Netanyahu. But He Could Denounce Him.](https://www.nytimes.com/2026/07/22/nyregion/mamdani-netanyahu-speech.html?utm_source=lootura.com) — 2026-07-22T23:42:33.000Z

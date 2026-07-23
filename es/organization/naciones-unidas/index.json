@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/naciones-unidas/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/naciones-unidas/index.json",
   "description": "Sigue la actividad de Organización de las Naciones Unidas en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-22T13:46:22.256Z",
+  "updatedAt": "2026-07-23T10:20:05.700Z",
   "aliases": [
     "NN. UU.",
     "Naciones Unidas",
@@ -17,6 +17,16 @@
     "the UN"
   ],
   "changes": [
+    {
+      "title": "Qué es la OIT: el organismo de Naciones Unidas para el que Yolanda Díaz ha sido propuesta para la dirección general por el Gobierno",
+      "summary": "El Gobierno ha respaldado la candidatura de Yolanda Díaz para optar a la dirección general del organismo de Naciones Unidas , la Organización Internacional del Trabajo (OIT) . La elección, prevista para noviembre, sitúa el foco en una institución clave para las políticas laborales internacionales y en el papel que dese.",
+      "date": "2026-07-23"
+    },
+    {
+      "title": "El Gobierno propone a la vicepresidenta Yolanda Díaz como candidata a dirigir la OIT",
+      "summary": "El presidente Sánchez anuncia el \"honor\" de postular a su ministra de Trabajo quien \"ha demostrado con políticas y resultados su compromiso con los derechos laborales, el diálogo social y la prosperidad de España\" Qué es la OIT: el organismo de Naciones Unidas amenazado por Trump en el que sitúan a Yolanda Díaz El Gobi.",
+      "date": "2026-07-23"
+    },
     {
       "title": "Trump sopesa proponer a Infantino como secretario general de la ONU, según el 'New York Post'",
       "summary": "El presidente de Estados Unidos, Donald Trump, estaría sopesando presentar la candidatura de Gianni Infantino, presidente de la FIFA, para ocupar el cargo de secretario general de Naciones Unidas y convertirse en el décimo mandatario en asumir la función , según ha adelantado este martes el 'New York Post'. Trump sosti.",
@@ -53,6 +63,19 @@
       "date": "2026-07-19"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Qué es la OIT: el organismo de Naciones Unidas para el que Yolanda Díaz ha sido propuesta para la dirección general por el Gobierno",
+      "url": "https://www.elconfidencial.com/espana/2026-07-23/que-es-oit-onu-yolanda-diaz-candidata-1qrt_4394690/?utm_source=lootura.com",
+      "publishedAt": "2026-07-23T10:07:00.000Z",
+      "sourceId": "lootura-es-el-confidencial"
+    },
+    {
+      "title": "El Gobierno propone a la vicepresidenta Yolanda Díaz como candidata a dirigir la OIT",
+      "url": "https://www.eldiario.es/economia/gobierno-propone-vicepresidenta-yolanda-diaz-candidata-dirigir-oit_1_13400602.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-23T06:55:31.000Z",
+      "sourceId": "lootura-es-eldiario-es"
+    }
+  ],
+  "evidenceCount": 2
 }

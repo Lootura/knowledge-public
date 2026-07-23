@@ -3,7 +3,7 @@
 > Sigue la actividad de Mikel Oyarzabal en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-23T06:28:35.711Z
+- Actualizado: 2026-07-23T10:20:05.700Z
 - Canonical: https://atlas.lootura.com/es/person/mikel-oyarzabal
 
 ## Cambios recientes

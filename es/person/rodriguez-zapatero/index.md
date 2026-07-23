@@ -3,10 +3,40 @@
 > Sigue la actividad de José Luis Rodríguez Zapatero en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-23T06:28:35.711Z
+- Actualizado: 2026-07-23T10:20:05.700Z
 - Canonical: https://atlas.lootura.com/es/person/rodriguez-zapatero
 
 ## Cambios recientes
+
+### El Gobierno pide a Zapatero "que cuente la verdad" en la primera entrevista que concede tras ser investigado por el rescate de Plus Ultra
+
+El expresidente del Gobierno José Luis Rodríguez Zapatero será entrevistado este jueves en el programa 'Mañaneros 360' de TVE a las 13.00 horas . Se trata de la primera entrevista concedida por el expresidente socialista tras su imputación por el rescate a la aerolínea Plus Ultra y su posterior declaración ante el juez.
+
+Date: 2026-07-23
+
+### Javier Ruiz, sobre irse de la RTVE de Pedro Sánchez y 'Mañaneros '360': «Me dan ganas de dejarlo todas las mañanas. Hay un coste humano»
+
+El presentador de 'Mañaneros' entrevistará a José Luis Rodríguez Zapatero este jueves tras la declaración de Julio Martínez.
+
+Date: 2026-07-23
+
+### El cotizado barrio de Madrid donde Zapatero compró vivienda y canceló su hipoteca en menos de un año
+
+Ciudad Universitaria vuelve a colocarse en el foco inmobiliario de Madrid después de conocerse la compra de una vivienda en la zona por parte de José Luis Rodríguez Zapatero y María Sonsoles Espinosa . La operación, cerrada en 2024 y liquidada hipotecariamente menos de un año después , ha servido también para poner el.
+
+Date: 2026-07-23
+
+### Última hora de la actualidad política, en directo | El PSOE espera de la entrevista a Zapatero que dé “explicaciones que despejen dudas”
+
+El portavoz del PSOE en el Congreso, Patxi López, ha dicho este jueves a su llegada a la Cámara Baja que lo que espera de la entrevista que va a dar el expresidente del Gobierno José Luis Rodríguez Zapatero en TVE es “lo que hemos esperado siempre, explicaciones que despejen dudas”. “Yo desde el primer día dije y mante.
+
+Date: 2026-07-23
+
+### Entrevista a Zapatero en RTVE, en directo: última hora sobre el "caso Plus Ultra" y reacciones
+
+El expresidente del Gobierno José Luis Rodríguez Zapatero romperá su silencio hoy en una entrevista en el programa "Mañaneros", dirigido por Javier Ruiz, tras ser investigado por su implicación en el "caso Plus Ultra" . La entrevista será emitida en directo en La 1 de Televisión Española a partir de las 13:00 horas. Es.
+
+Date: 2026-07-23
 
 ### Zapatero dará su primera entrevista este jueves en TVE tras su imputación en el 'caso Plus Ultra'
 
@@ -38,37 +68,10 @@ El futuro de José Luis Rodríguez Zapatero es cada vez más oscuro. Su presunto
 
 Date: 2026-07-22
 
-### El expresidente dará su primera entrevista en TVE con Javier Ruiz para replicar a su presunto testaferro y hablar de las joyas
-
-El expresidente del Gobierno José Luis Rodríguez Zapatero será entrevistado este jueves en Mañaneros 360 de TVE , según ha informado la cadena. Zapatero estará en el plató del programa de actualidad de La 1 a partir de las 13.00 horas y la entrevista correrá a cargo del copresentador del programa, Javier Ruiz. Se trata.
-
-Date: 2026-07-22
-
-### OKDIARIO localiza a Alba, la otra hija de Zapatero, tras la confesión de ‘Julito’ Martínez ante el juez Calama
-
-OKDIARIO ha localizado este miércoles a Alba Zapatero Espinosa , la hija menor de José Luis Rodríguez Zapatero, al día siguiente de que ‘Julito’ Martínez, el presunto testaferro de su padre, confesara ante el juez Calama, en la Audiencia Nacional, haber estado pagándoles sin trabajar durante tres años como parte de la.
-
-Date: 2026-07-22
-
-### Las seis mayores contradicciones entre lo que Julio Martínez declaró y la versión de Zapatero
-
-La declaración de Julio Martínez Martínez ha complicado el futuro judicial de José Luis Rodríguez Zapatero . Eso y los escritos que tanto el "amigo" como dos altos cargos de Plus Ultra han remitido esta semana a la Audiencia Nacional. Según ellos, el expresidente habría influido en favor del rescate de 53 millones de e.
-
-Date: 2026-07-22
-
-### La causa contra Zapatero sitúa ahora el foco en la cúpula de Plus Ultra tras contradecir la versión del expresidente
-
-Julio Martínez Martínez entró sobre las 8.45 de este martes en la Audiencia Nacional y salió más de cuatro horas después sin moverse mucho de la línea marcada un día antes en el escrito enviado al juez José Luis Calama para implicar al expresidente José Luis Rodríguez Zapatero en el rescate de Plus Ultra . El giro del.
-
-Date: 2026-07-22
-
-### Sánchez fuerza una defensa a ciegas a pesar de que Moncloa admite el "riesgo" de que "puede salir mal"
-
-La defensa férrea de José Luis Rodríguez Zapatero por parte de Pedro Sánchez comenzó en el mismo momento de su imputación. El presidente ordenó cerrar filas con él incluso antes de conocer los argumentos del juez y mantiene desde entonces un respaldo que en Moncloa justifican casi como un acto de fe y de lealtad . No e.
-
-Date: 2026-07-22
-
 ## Fuentes
 
-- [Zapatero dará su primera entrevista este jueves en TVE tras su imputación en el 'caso Plus Ultra'](https://theobjective.com/espana/politica/2026-07-23/zapatero-primera-entrevista-tve/?amp=&utm_source=lootura.com) — 2026-07-23T05:48:52.000Z
-- [ZP sin paracaídas y sin suerte](https://theobjective.com/elsubjetivo/opinion/2026-07-23/zapatero-suerte-articulo-joaquin-leguina/?utm_source=lootura.com) — 2026-07-23T03:25:00.000Z
+- [El Gobierno pide a Zapatero "que cuente la verdad" en la primera entrevista que concede tras ser investigado por el rescate de Plus Ultra](https://www.20minutos.es/nacional/entrevista-zapatero-directo-ultimas-noticias-corrupcion-psoe-rescate-plus-ultra_7018066_6.html?utm_source=lootura.com) — 2026-07-23T09:29:39.000Z
+- [Javier Ruiz, sobre irse de la RTVE de Pedro Sánchez y 'Mañaneros '360': «Me dan ganas de dejarlo todas las mañanas. Hay un coste humano»](https://www.abc.es/play/television/noticias/javier-ruiz-tajante-sobre-irse-rtve-pedro-20260723104318-nt_amp.html?utm_source=lootura.com) — 2026-07-23T08:43:19.000Z
+- [El cotizado barrio de Madrid donde Zapatero compró vivienda y canceló su hipoteca en menos de un año](https://www.elconfidencial.com/espana/madrid/2026-07-23/exclusivo-barrio-madrid-zapatero-compro-casa_4363066/?utm_source=lootura.com) — 2026-07-23T08:08:00.000Z
+- [Última hora de la actualidad política, en directo | El PSOE espera de la entrevista a Zapatero que dé “explicaciones que despejen dudas”](https://elpais.com/espana/2026-07-23/ultima-hora-de-la-actualidad-politica-en-directo.html?utm_source=lootura.com) — 2026-07-23T10:05:49.000Z
+- [Entrevista a Zapatero en RTVE, en directo: última hora sobre el "caso Plus Ultra" y reacciones](https://www.larazon.es/espana/entrevista-zapatero-rtve-directo-ultima-hora-caso-plus-ultra-reacciones_202607236a61bd624687a22bdec8f604.html?utm_source=lootura.com) — 2026-07-23T10:15:19.000Z

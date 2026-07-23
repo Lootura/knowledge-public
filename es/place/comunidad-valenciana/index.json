@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/comunidad-valenciana/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/comunidad-valenciana/index.json",
   "description": "Sigue la actividad de País Valenciano en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-22T13:46:22.256Z",
+  "updatedAt": "2026-07-23T10:20:05.700Z",
   "aliases": [
     "Community of Valencia",
     "Comunitat Valenciana",
@@ -20,6 +20,11 @@
     "València"
   ],
   "changes": [
+    {
+      "title": "Castilla-La Mancha se suma a los avisos rojos por calor de Murcia y la Comunidad Valenciana",
+      "summary": "Jueves cruel en las regiones mediterráneas, a las que la ola de calor castigará especialmente con un repunte en las temperaturas en el mismo día en el que se despide de España. Tanto apretará en el sudeste que la Agencia Estatal de Meteorología (Aemet) ha decretado el aviso rojo , el máximo, en Murcia y en la Comunidad.",
+      "date": "2026-07-23"
+    },
     {
       "title": "La alianza PP-Vox hace ley por primera vez la “prioridad nacional” en los presupuestos de la Comunitat Valenciana",
       "summary": "La derecha y la ultraderecha sacan adelante las cuentas de Pérez Llorca en las Corts Valencianes, por valor de 33.305 millones de euros, sin aceptar enmiendas de la oposición y con riesgo de un recurso de inconstitucionalidad El Gobierno recurrirá en el Constitucional la ley de presupuestos de Pérez Llorca si incluye l.",
@@ -64,13 +69,15 @@
       "title": "Este es el pueblo de la Comunidad Valenciana más barato para alquilar una casa en la playa este verano",
       "summary": "La Comunidad Valenciana es uno de los centros turísticos más importantes en España. Este territorio cerró 2025 con casi 30 millones de turistas, de los cuales 12,5 millones fueron extranjeros y 17,4% son nacionales.Las previsiones para este 2026 apuntan a que los números seguirán al alza en el caso de los turistas proc.",
       "date": "2026-07-14"
-    },
-    {
-      "title": "Incendios forestales en España hoy, en directo: última hora de la evolución del fuego",
-      "summary": "El calor extremo y las altas temperaturas siguen complicando las labores de extinción de varios incendios forestales activos en distintos puntos de España. Castilla y León, Cataluña, la Comunidad Valenciana y Andalucía concentran algunos de los principales focos.",
-      "date": "2026-07-14"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Castilla-La Mancha se suma a los avisos rojos por calor de Murcia y la Comunidad Valenciana",
+      "url": "https://elpais.com/clima-y-medio-ambiente/2026-07-23/la-tercera-ola-de-calor-del-verano-se-despide-con-avisos-rojos-en-murcia-y-la-comunidad-valenciana.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-23T10:12:32.000Z",
+      "sourceId": "lootura-es-el-pais"
+    }
+  ],
+  "evidenceCount": 1
 }

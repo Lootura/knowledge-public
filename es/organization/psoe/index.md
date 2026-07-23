@@ -3,10 +3,34 @@
 > Sigue la actividad de Partido Socialista Obrero Español en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-23T06:28:35.711Z
+- Actualizado: 2026-07-23T10:20:05.700Z
 - Canonical: https://atlas.lootura.com/es/organization/psoe
 
 ## Cambios recientes
+
+### El PP exige la dimisión de Morant por comparar un gobierno de Feijóo con Hitler: "Está en una situación desesperada"
+
+El secretario general del PP, Miguel Tellado , ha reclamado este jueves la dimisión inmediata de la ministra de Ciencia y líder del PSPV-PSOE, Diana Morant , después de que esta comparase un eventual Gobierno presidido por Alberto Núñez Feijóo con el “criminal” Hitler . A su entender, esas palabras definen tanto a la d.
+
+Date: 2026-07-23
+
+### Qué han estudiado las hijas de Zapatero: desde su formación hasta montar su agencia de publicidad
+
+Zapatero entrevista en TVE por el caso 'Plus Ultra' y las joyas, en directo Cunde en el PSOE el temor a que el caso ZP implique al Gobierno: "¿Por qué no le expulsamos del partido?" El cotizado barrio de Madrid donde Zapatero compró vivienda y canceló su hipoteca en menos de un año Laura y Alba Rodríguez Espinosa, hija.
+
+Date: 2026-07-23
+
+### Última hora de la actualidad política, en directo | El PSOE espera de la entrevista a Zapatero que dé “explicaciones que despejen dudas”
+
+El portavoz del PSOE en el Congreso, Patxi López, ha dicho este jueves a su llegada a la Cámara Baja que lo que espera de la entrevista que va a dar el expresidente del Gobierno José Luis Rodríguez Zapatero en TVE es “lo que hemos esperado siempre, explicaciones que despejen dudas”. “Yo desde el primer día dije y mante.
+
+Date: 2026-07-23
+
+### El Parlamento reelige a Arenas, Díaz y Espadas y designa a Montero, Zancajo y Aguirre como senadores por la comunidad
+
+Los que han obtenido más votos han sido los senadores propuestos por el PP-A, con un total de 98; los del PSOE-A, 83, y los de Vox, 65 votos.
+
+Date: 2026-07-23
 
 ### El PP y Vox suben tras el caso Zapatero y amplían la brecha con el PSOE y sus socios
 
@@ -44,35 +68,9 @@ Los 30.000 vecinos de Mahón tendrán que lavar el coche a mano al ordenar el al
 
 Date: 2026-07-23
 
-### PSOE y Sumar pactan blindar el precio de los alquileres hasta julio de 2028 en un decreto que debe convencer a PNV y Junts
-
-El texto, que se aprobará el próximo martes en el último Consejo de Ministros del curso, beneficiará a casi cuatro millones de personas y contempla también subir el IVA de los pisos turísticos hasta el 21% Leer.
-
-Date: 2026-07-22
-
-### Feijóo sitúa a Sánchez como "el señor X" de todos los casos del PSOE y promete "una limpieza a fondo" de las instituciones
-
-Comienza la "cuenta atrás" para el PP. Alberto Núñez Feijóo mira ya hacia las elecciones generales y mete la directa hacia "el cambio". Un cambio...
-
-Date: 2026-07-22
-
-### Narbona niega haber promocionado a Leire Díez: “Yo no soy la madrina de nadie”
-
-Leire Díez se ha convertido en una bomba política de efectos retardados que le ha servido al PP de excusa para forzar la comparecencia de Cristina Narbona en el Senado. La presidenta del PSOE ha negado que conociera la presunta trama orquestada por la exmilitante socialista con Santos Cerdán para desestabilizar causas.
-
-Date: 2026-07-22
-
-### Junts cuestiona el borrador del decreto de vivienda por no incluir sus medidas fiscales y 'antiokupas'
-
-Tras revisar el texto, la formación no ve incluidas sus medidas para degravar a inquilinos e hipotecados PSOE y Sumar pactan que el decreto de vivienda incluya una prórroga de los alquileres hasta julio de 2028 Después de las críticas de Podemos y del PNV a varios puntos del decreto de vivienda pactado por PSOE y Sumar.
-
-Date: 2026-07-22
-
 ## Fuentes
 
-- [El PP y Vox suben tras el caso Zapatero y amplían la brecha con el PSOE y sus socios](https://www.20minutos.es/nacional/pp-vox-suben-tras-caso-zapatero-amplian-brecha-con-psoe-sus-socios_7017602_0.html?utm_source=lootura.com) — 2026-07-23T03:00:00.000Z
-- [Casi el 40% de los votantes socialistas no ve que haya un candidato alternativo a Sánchez en unas elecciones](https://www.20minutos.es/nacional/casi-40-votantes-socialistas-no-ve-candidato-alternativo-sanchez_7017637_0.html?utm_source=lootura.com) — 2026-07-23T03:00:00.000Z
-- [Un Consejo de Ministros bajo sospecha por el caso](https://www.abc.es/espana/consejo-ministros-bajo-sospecha-plus-ultra-20260723014056-nt.html?utm_source=lootura.com) — 2026-07-23T05:20:35.000Z
-- ["No ha pasado lo peor": Feijóo aguarda la "traca final" de la corrupción del PSOE a la vuelta del verano](https://www.elconfidencial.com/espana/2026-07-23/feijoo-aguarda-traca-final-corrupcion-psoe-vuelta-verano_4394407/?utm_source=lootura.com) — 2026-07-23T03:00:00.000Z
-- [PSOE y Sumar pactan blindar el precio de los alquileres hasta julio de 2028 en un decreto que debe convencer a PNV y Junts](https://www.elmundo.es/economia/vivienda/2026/07/22/6a60f8c7fdddff0f798b4585.html?utm_source=lootura.com) — 2026-07-22T18:31:06.000Z
-- [ZP sin paracaídas y sin suerte](https://theobjective.com/elsubjetivo/opinion/2026-07-23/zapatero-suerte-articulo-joaquin-leguina/?utm_source=lootura.com) — 2026-07-23T03:25:00.000Z
+- [El PP exige la dimisión de Morant por comparar un gobierno de Feijóo con Hitler: "Está en una situación desesperada"](https://www.elconfidencial.com/espana/2026-07-23/dimision-morant-pp-psoe-democracia-1tps_4394692/?utm_source=lootura.com) — 2026-07-23T09:12:00.000Z
+- [Qué han estudiado las hijas de Zapatero: desde su formación hasta montar su agencia de publicidad](https://www.elconfidencial.com/espana/2026-07-23/que-han-estudiado-hijas-zapatero-formacion-agencia-publicidad-1qrt_4357643/?utm_source=lootura.com) — 2026-07-23T10:02:00.000Z
+- [Última hora de la actualidad política, en directo | El PSOE espera de la entrevista a Zapatero que dé “explicaciones que despejen dudas”](https://elpais.com/espana/2026-07-23/ultima-hora-de-la-actualidad-politica-en-directo.html?utm_source=lootura.com) — 2026-07-23T10:05:49.000Z
+- [El Parlamento reelige a Arenas, Díaz y Espadas y designa a Montero, Zancajo y Aguirre como senadores por la comunidad](https://www.larazon.es/andalucia/parlamento-reelige-arenas-diaz-espadas-designa-montero-zancajo-aguirre-como-senadores-comunidad_202607236a61eaa6aa17c0020f2b671b.html?outputType=amp&utm_source=lootura.com) — 2026-07-23T10:19:18.000Z

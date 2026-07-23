@@ -3,10 +3,16 @@
 > Follow Ukraine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-22T21:09:05.351Z
+- Updated: 2026-07-23T10:20:24.199Z
 - Canonical: https://atlas.lootura.com/us/place/ukraine
 
 ## Recent changes
+
+### A New Target for Ukraine’s Long-Range Attacks: Russia’s Version of Amazon
+
+Kyiv is escalating its air war by striking commercial warehouses, trying to bring the conflict closer to home for ordinary Russians.
+
+Date: 2026-07-23
 
 ### Ukraine targets Russian online retailer Wildberries
 
@@ -62,12 +68,6 @@ The blitz came hours after Russia bombarded Kyiv and other Ukrainian cities with
 
 Date: 2026-07-20
 
-### What it's like inside Ukraine during a massive Russian ballistic missile attack
-
-Russia targeted Kyiv, Ukraine, in one of its largest missile assaults of the war over the weekend, Ukrainian President Volodymyr Zelenskyy said. CBS News' Aidan Stretch has the latest from Kyiv.
-
-Date: 2026-07-20
-
 ## Sources
 
-No public source links.
+- [A New Target for Ukraine’s Long-Range Attacks: Russia’s Version of Amazon](https://www.nytimes.com/2026/07/23/world/europe/russia-ukraine-wildberries-attacks.html?utm_source=lootura.com) — 2026-07-23T09:40:15.000Z

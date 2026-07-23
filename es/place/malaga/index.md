@@ -3,7 +3,7 @@
 > Sigue la actividad de Málaga en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-23T06:28:35.711Z
+- Actualizado: 2026-07-23T10:20:05.700Z
 - Canonical: https://atlas.lootura.com/es/place/malaga
 
 ## Cambios recientes
@@ -71,4 +71,3 @@ Date: 2026-07-17
 ## Fuentes
 
 - [El crimen de Benahavís (Málaga): víctima y autor se conocían, pero el Gobierno descarta por ahora la violencia machista](https://www.elcorreo.com/sociedad/crimen-benahavis-malaga-victima-autor-conocian-gobierno-20260722133842-ntrc.html?utm_source=lootura.com) — 2026-07-22T11:38:43.000Z
-- [La Aemet sitúa a seis provincias andaluzas en aviso naranja por temperaturas de 42ºC](https://www.larazon.es/andalucia/aemet-situa-seis-provincias-andaluzas-aviso-naranja-temperaturas-42c_202607236a61ae20da3add27d4dd376b.html?utm_source=lootura.com) — 2026-07-23T06:01:04.000Z

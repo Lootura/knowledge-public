@@ -1,0 +1,31 @@
+{
+  "id": "es-startups",
+  "name": "Startups",
+  "type": "market",
+  "locale": "es",
+  "canonicalPath": "/es/market/startups",
+  "canonicalUrl": "https://atlas.lootura.com/es/market/startups",
+  "markdownUrl": "https://atlas.lootura.com/es/market/startups/index.md",
+  "jsonUrl": "https://atlas.lootura.com/es/market/startups/index.json",
+  "description": "Sigue la actividad de Startups en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
+  "updatedAt": "2026-07-23T10:20:05.700Z",
+  "aliases": [
+    "startup funding"
+  ],
+  "changes": [
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Startups first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-07-23"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Ford y la china Geely se alían en una empresa conjunta para elevar la producción de Almussafes a cinco coches",
+      "url": "https://www.20minutos.es/comunidad-valenciana/ford-china-geely-se-alian-una-empresa-conjunta-para-elevar-produccion-almussafes-cinco-vehiculos_7018077_0.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-23T09:43:48.000Z",
+      "sourceId": "lootura-es-20minutos"
+    }
+  ],
+  "evidenceCount": 1
+}

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/pais-vasco/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/pais-vasco/index.json",
   "description": "Sigue la actividad de País Vasco en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-22T06:25:50.604Z",
+  "updatedAt": "2026-07-23T10:20:05.700Z",
   "aliases": [
     "Autonomous Community of the Basque Country",
     "Basque Autonomous Community",
@@ -23,6 +23,11 @@
     "Vascongadas"
   ],
   "changes": [
+    {
+      "title": "Rebajan la condena de siete a tres años y medio de cárcel a un vizcaíno por tenencia ilícita de armas y fabricación de munición",
+      "summary": "El Tribunal Superior de Justicia del País Vasco le absuelve del delito de depósito de explosivos.",
+      "date": "2026-07-23"
+    },
     {
       "title": "Este es el pueblo del País Vasco más barato para alquilar una casa en la playa este verano",
       "summary": "El Mediterráneo suele concentrar buena parte de las miradas cuando llega el verano, pero el norte de España también ofrece numerosas alternativas para pasar las vacaciones junto al mar. La costa del País Vasco es una de las más deseadas, aunque alojarse durante el mes de agosto puede exigir un importante desembolso.El.",
@@ -67,13 +72,15 @@
       "title": "La economía vasca mantiene el pulso y avanza un 2,1% en el segundo trimestre",
       "summary": "Euskadi desafía la incertidumbre de la guerra gracias al tirón de los servicios y la construcción.",
       "date": "2026-07-17"
-    },
-    {
-      "title": "La cifra de muertes por calor en Bizkaia desde mayo duplica a la de todo el verano pasado",
-      "summary": "Euskadi anota 282 fallecidos, la segunda cifra más alta de España por detrás de Cataluña, que contó 389 decesos.",
-      "date": "2026-07-15"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Rebajan la condena de siete a tres años y medio de cárcel a un vizcaíno por tenencia ilícita de armas y fabricación de munición",
+      "url": "https://www.elcorreo.com/bizkaia/condenan-tres-anos-medio-carcel-vecino-bizkaia-20260723114522-nt_amp.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-23T09:45:22.000Z",
+      "sourceId": "lootura-es-el-correo"
+    }
+  ],
+  "evidenceCount": 1
 }

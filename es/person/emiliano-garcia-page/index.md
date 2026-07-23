@@ -64,4 +64,4 @@ Date: 2026-07-18
 
 ## Fuentes
 
-- [Casi el 40% de los votantes socialistas no ve que haya un candidato alternativo a Sánchez en unas elecciones](https://www.20minutos.es/nacional/casi-40-votantes-socialistas-no-ve-candidato-alternativo-sanchez_7017637_0.html?utm_source=lootura.com) — 2026-07-23T03:00:00.000Z
+No public source links.

@@ -3,10 +3,16 @@
 > Sigue la actividad de Reino Unido de Gran Bretaña e Irlanda del Norte en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-23T02:31:05.539Z
+- Actualizado: 2026-07-23T10:20:05.700Z
 - Canonical: https://atlas.lootura.com/es/place/reino-unido
 
 ## Cambios recientes
+
+### El nuevo primer ministro británico anuncia una rebaja de impuestos a pubs y discotecas
+
+El nuevo primer ministro de Reino Unido , Andy Burnham, ha anunciado este jueves una rebaja de impuestos a pubs, discotecas y locales de conciertos en el país , en una nueva medida para reactivar la economía y proteger una seña cultural británica. «Voy a aplicar una reducción del 20% en el impuesto sobre actividades ec.
+
+Date: 2026-07-23
 
 ### Un 50% menos de combustible y 9200 km de autonomía: así es el primer avión a reacción de ala integrada del mundo
 
@@ -62,12 +68,6 @@ Hay una imagen del Reino Unido instalada en el imaginario colectivo construida a
 
 Date: 2026-07-21
 
-### El arte de saber cuándo retirarse
-
-Es probable que el nombre de Peter Hennessy no signifique mucho para quien vive fuera de Reino Unido, pero en el país, este lord de 79 años es un célebre historiador político cuyos numerosos admiradores lo consideran una institución nacional. Seguir leyendo.
-
-Date: 2026-07-20
-
 ## Fuentes
 
-No public source links.
+- [El nuevo primer ministro británico anuncia una rebaja de impuestos a pubs y discotecas](https://theobjective.com/internacional/2026-07-23/nuevo-primer-ministro-britanico-rebaja-impuestos-pubs-discotecas/?utm_source=lootura.com) — 2026-07-23T09:43:06.000Z

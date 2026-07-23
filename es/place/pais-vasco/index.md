@@ -3,10 +3,16 @@
 > Sigue la actividad de País Vasco en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-22T06:25:50.604Z
+- Actualizado: 2026-07-23T10:20:05.700Z
 - Canonical: https://atlas.lootura.com/es/place/pais-vasco
 
 ## Cambios recientes
+
+### Rebajan la condena de siete a tres años y medio de cárcel a un vizcaíno por tenencia ilícita de armas y fabricación de munición
+
+El Tribunal Superior de Justicia del País Vasco le absuelve del delito de depósito de explosivos.
+
+Date: 2026-07-23
 
 ### Este es el pueblo del País Vasco más barato para alquilar una casa en la playa este verano
 
@@ -62,12 +68,6 @@ Euskadi desafía la incertidumbre de la guerra gracias al tirón de los servicio
 
 Date: 2026-07-17
 
-### La cifra de muertes por calor en Bizkaia desde mayo duplica a la de todo el verano pasado
-
-Euskadi anota 282 fallecidos, la segunda cifra más alta de España por detrás de Cataluña, que contó 389 decesos.
-
-Date: 2026-07-15
-
 ## Fuentes
 
-No public source links.
+- [Rebajan la condena de siete a tres años y medio de cárcel a un vizcaíno por tenencia ilícita de armas y fabricación de munición](https://www.elcorreo.com/bizkaia/condenan-tres-anos-medio-carcel-vecino-bizkaia-20260723114522-nt_amp.html?utm_source=lootura.com) — 2026-07-23T09:45:22.000Z

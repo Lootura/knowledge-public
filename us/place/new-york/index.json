@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/new-york/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/new-york/index.json",
   "description": "Follow New York City, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-23T06:29:04.058Z",
+  "updatedAt": "2026-07-23T10:20:24.199Z",
   "aliases": [
     "Capital of the World",
     "Center of the Universe",
@@ -36,6 +36,11 @@
     {
       "title": "Mamdani says he won't try to arrest Israel's Netanyahu",
       "summary": "New York City Mayor Zohran Mamdani conceded late Tuesday that the city does not have the authority to arrest Israeli Prime Minister Benjamin Netanyahu.",
+      "date": "2026-07-23"
+    },
+    {
+      "title": "The latest US troops killed in Trump’s Iran war are remembered for lives of service",
+      "summary": "Angel Rampersad, Michael Swinton, Isabella Gonzales and Tyler Feehan were among 18 US troops killed in the war A 30-year-old husband and father of two. A 25-year-old officer just weeks away from earning his MBA. A 19-year-old recent high school graduate. And a 28-year-old from Queens, New York, with a “radiant smile”.",
       "date": "2026-07-23"
     },
     {
@@ -77,11 +82,6 @@
       "title": "Explosion outside New York federal building in Manhattan apparently caused by fireworks, sources say",
       "summary": "NYPD sources said fireworks were found in a garbage can and a man was taken into custody outside the federal building in Lower Manhattan.",
       "date": "2026-07-20"
-    },
-    {
-      "title": "Who speaks for the horses? New push seeks to ban Central Park’s carriages",
-      "summary": "A tourist’s death has boosted animal advocates’ drive to end a trade supporters say provides jobs and treats horses well New York city’s council chamber was packed, the debate wide-ranging and heated, but lacked one component – a talking horse. Many of the 200 people packed into the debating hall last week felt only th.",
-      "date": "2026-07-20"
     }
   ],
   "sources": [
@@ -92,11 +92,17 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
+      "title": "The latest US troops killed in Trump’s Iran war are remembered for lives of service",
+      "url": "https://www.theguardian.com/world/2026/jul/23/iran-war-us-troops?utm_source=lootura.com",
+      "publishedAt": "2026-07-23T10:00:42.000Z",
+      "sourceId": "lootura-us-the-guardian-us"
+    },
+    {
       "title": "Mamdani Knew He Couldn’t Arrest Netanyahu. But He Could Denounce Him.",
       "url": "https://www.nytimes.com/2026/07/22/nyregion/mamdani-netanyahu-speech.html?utm_source=lootura.com",
       "publishedAt": "2026-07-22T23:42:33.000Z",
       "sourceId": "lootura-us-the-new-york-times"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 3
 }

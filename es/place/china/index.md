@@ -3,10 +3,16 @@
 > Sigue la actividad de China en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-23T06:28:35.711Z
+- Actualizado: 2026-07-23T10:20:05.700Z
 - Canonical: https://atlas.lootura.com/es/place/china
 
 ## Cambios recientes
+
+### Ford da entrada al grupo chino Geely en Almussafes con un 34%
+
+Acuerdo histórico para la planta de Ford en Almussafes. Cincuenta años después de arrancar motores, la multinacional americana ha anunciado la creación de una empresa conjunta con la china Geely para impulsar la planta de Valencia. Seguir leyendo.
+
+Date: 2026-07-23
 
 ### Ford y la china Geely firman un acuerdo histórico para fabricar en Almussafes
 
@@ -62,12 +68,8 @@ China ha rechazado por completo las acusaciones formuladas por el presidente de 
 
 Date: 2026-07-17
 
-### Qué fue del cohete reutilizable que Rusia anunció hace 6 años y debía volar en 2026
-
-China se convirtió la semana pasada en el segundo país del mundo que demostraba su capacidad para poner un cohete en órbita y hacer regresar y aterrizar de forma segura su primera etapa . No es el único que está siguiendo el camino abierto por SpaceX hace una década. La agencia espacial japonesa JAXA realizó el pasado.
-
-Date: 2026-07-17
-
 ## Fuentes
 
+- [Ford y la china Geely se alían en una empresa conjunta para elevar la producción de Almussafes a cinco coches](https://www.20minutos.es/comunidad-valenciana/ford-china-geely-se-alian-una-empresa-conjunta-para-elevar-produccion-almussafes-cinco-vehiculos_7018077_0.html?utm_source=lootura.com) — 2026-07-23T09:43:48.000Z
 - [La china Geely entra a producir sus coches a la planta valenciana de Ford, que tiene un excedente de 1.000 trabajadores](https://www.elmundo.es/motor/2026/07/22/6a60f936e4d4d8eb788b4581.html?utm_source=lootura.com) — 2026-07-22T20:36:55.000Z
+- [Ford da entrada al grupo chino Geely en Almussafes con un 34%](https://www.expansion.com/valencia/2026/07/23/6a61ce2fe5fdea6b488b4571.html?utm_source=lootura.com) — 2026-07-23T09:30:25.000Z

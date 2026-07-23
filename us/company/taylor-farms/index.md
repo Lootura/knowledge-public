@@ -70,5 +70,4 @@ Date: 2026-07-18
 
 ## Sources
 
-- [Taylor Farms pulls iceberg lettuce linked to cyclosporiasis outbreak](https://www.cbsnews.com/news/taylor-farms-pulls-iceberg-lettuce/?utm_source=lootura.com) — 2026-07-22T20:14:08.000Z
-- [What to know about Taylor Farms amid the cyclospora outbreak](https://www.cbsnews.com/news/taylor-farms-cyclospora-outbreak/?utm_source=lootura.com) — 2026-07-22T20:16:52.000Z
+No public source links.

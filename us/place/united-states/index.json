@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/united-states/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/united-states/index.json",
   "description": "Follow United States, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-23T06:29:04.058Z",
+  "updatedAt": "2026-07-23T10:20:24.199Z",
   "aliases": [
     "America",
     "Estados Unidos",
@@ -54,6 +54,26 @@
       "date": "2026-07-23"
     },
     {
+      "title": "The White House pushes healthy eating. It cut a landmark nutrition education program",
+      "summary": "Nutrition advocates and public health experts are mystified by the decision to eliminate SNAP-Ed, given the Trump administration's embrace of the Make America Healthy Again agenda. (Image credit: Rachel Wisniewski for NPR).",
+      "date": "2026-07-23"
+    },
+    {
+      "title": "U.S. Employers Forced to Fire Thousands of Immigrants, and a Showdown over Peptides",
+      "summary": "Plus, America says no thanks to salad.",
+      "date": "2026-07-23"
+    },
+    {
+      "title": "U.S.-Saudi Deal Prompts Fears of a Nuclear Arms Race",
+      "summary": "In Europe, Asia and the Middle East, countries seek nuclear capabilities to hedge against aggressive neighbors and a receding Washington, potentially creating a more freewheeling era.",
+      "date": "2026-07-23"
+    },
+    {
+      "title": "U.S. Military Presence in Jordan Makes It Iranian Target",
+      "summary": "Relying heavily on U.S. aid and protection, Jordan is unlikely to restrict the American military presence there, despite escalating Iranian airstrikes.",
+      "date": "2026-07-23"
+    },
+    {
       "title": "U.S.-Saudi Nuclear Deal Stokes Israeli Concerns of Mideast Arms Race",
       "summary": "An Israeli minister sought to downplay the agreement, while critics said it could spur other regional countries to pursue a nuclear program, and potentially the creation of a bomb.",
       "date": "2026-07-23"
@@ -62,47 +82,9 @@
       "title": "Trump’s 50% Tariffs on Canada: What to Know, and What’s Next",
       "summary": "The president said punishing 50 percent tariffs would begin by Aug. 19, a significant escalation of the trade war between Canada and the U.S. that he started over a year ago.",
       "date": "2026-07-22"
-    },
-    {
-      "title": "Sen. Bennet rails against trade chief for Trump policy's impact on farmers",
-      "summary": "Sen. Michael Bennet, a Democrat from Washington, challenged some of U.S. Trade Representative Jamieson Greer's assertions about the successes of President Trump's trade policies and their impact on farmers.",
-      "date": "2026-07-22"
-    },
-    {
-      "title": "\"Nothing is going through\" the Strait of Hormuz, shipping insider says",
-      "summary": "Despite U.S. assertions, the CEO of a maritime risk firm says \"there is no guarantee of safe passage\" through the Strait of Hormuz.",
-      "date": "2026-07-22"
-    },
-    {
-      "title": "Latest on U.S.-Saudi nuclear deal, Trump threats against Iranian infrastructure",
-      "summary": "CBS News National security analyst Aaron MacLean breaks down President Trump's threats against Iranian infrastructure and the United States' new nuclear deal with Saudi Arabia.",
-      "date": "2026-07-22"
-    },
-    {
-      "title": "Waltz clashes with Rep. Jackson over Cuba question: \"Absolute propaganda\"",
-      "summary": "U.S. Ambassador to the United Nations Mike Waltz testified Wednesday in front of the House Foreign Affairs Committee, where he and Rep. Jonathan L. Jackson had a tense exchange on the current U.S.-Cuba situation.",
-      "date": "2026-07-22"
     }
   ],
   "sources": [
-    {
-      "title": "Latest on U.S.-Saudi nuclear deal, Trump threats against Iranian infrastructure",
-      "url": "https://www.cbsnews.com/video/details-on-us-saudi-nuclear-deal-trump-threads-against-iranian-infrastructure/?utm_source=lootura.com",
-      "publishedAt": "2026-07-22T20:00:09.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
-    {
-      "title": "Waltz clashes with Rep. Jackson over Cuba question: \"Absolute propaganda\"",
-      "url": "https://www.cbsnews.com/video/mike-waltz-snaps-back-at-rep-jackson-over-cuban-blockade-question-absolute-propaganda/?utm_source=lootura.com",
-      "publishedAt": "2026-07-22T20:03:08.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
-    {
-      "title": "Watch: Sen. Bennet rails against trade chief for Trump policy's impact on farmers",
-      "url": "https://www.cbsnews.com/video/sen-bennet-and-jamieson-greer-clash-over-trump-policy-impacts-on-farmers/?utm_source=lootura.com",
-      "publishedAt": "2026-07-22T16:51:14.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
     {
       "title": "The Uplift: The American Dream",
       "url": "https://www.cbsnews.com/video/the-uplift-the-american-dream/?utm_source=lootura.com",
@@ -128,23 +110,41 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "\"Nothing is going through\" the Strait of Hormuz, shipping insider says",
-      "url": "https://www.cbsnews.com/news/iran-war-strait-of-hormuz-not-open-red-sea-bab-el-mandeb/?utm_source=lootura.com",
-      "publishedAt": "2026-07-22T16:59:52.000Z",
-      "sourceId": "lootura-us-cbs-news"
+      "title": "The White House pushes healthy eating. It cut a landmark nutrition education program",
+      "url": "https://www.npr.org/2026/07/23/nx-s1-5896280/snap-ed-healthy-eating-cuts-maha?utm_source=lootura.com",
+      "publishedAt": "2026-07-23T09:00:00.000Z",
+      "sourceId": "lootura-us-npr"
     },
     {
-      "title": "What to know about Taylor Farms amid the cyclospora outbreak",
-      "url": "https://www.cbsnews.com/news/taylor-farms-cyclospora-outbreak/?utm_source=lootura.com",
-      "publishedAt": "2026-07-22T20:16:52.000Z",
-      "sourceId": "lootura-us-cbs-news"
+      "title": "Critics warn U.S. nuclear power deal with Saudi Arabia could fuel proliferation",
+      "url": "https://www.pbs.org/newshour/show/critics-warn-u-s-nuclear-power-deal-with-saudi-arabia-could-fuel-proliferation?utm_source=lootura.com",
+      "publishedAt": "2026-07-22T22:50:47.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
     },
     {
-      "title": "Send your questions for Richard Engel on the war with Iran and more",
-      "url": "https://www.nbcnews.com/world/iran/richard-engel-qa-iran-rcna353221?utm_source=lootura.com",
-      "publishedAt": "2026-07-22T18:21:09.000Z",
-      "sourceId": "lootura-us-nbc-news"
+      "title": "Breakthroughs in Chinese AI models threaten U.S. lead in tech race",
+      "url": "https://www.pbs.org/newshour/show/breakthroughs-in-chinese-ai-models-threaten-u-s-lead-in-tech-race?utm_source=lootura.com",
+      "publishedAt": "2026-07-22T22:35:28.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
+    },
+    {
+      "title": "Coveted U.S. Nuclear Deal Is a Coup for Saudi Crown Prince",
+      "url": "https://www.nytimes.com/2026/07/22/world/middleeast/us-saudi-arabia-nuclear-deal.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-22T20:54:10.000Z",
+      "sourceId": "lootura-us-the-new-york-times"
+    },
+    {
+      "title": "U.S. Employers Forced to Fire Thousands of Immigrants, and a Showdown over Peptides",
+      "url": "https://www.nytimes.com/2026/07/23/podcasts/the-headlines/immigrants-peptides-salad.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-23T10:00:09.000Z",
+      "sourceId": "lootura-us-the-new-york-times"
+    },
+    {
+      "title": "What Visuals Show About Recent Damage to U.S. Military Sites in the Middle East",
+      "url": "https://www.nytimes.com/2026/07/22/world/middleeast/iran-war-us-bases-images.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-23T01:37:39.000Z",
+      "sourceId": "lootura-us-the-new-york-times"
     }
   ],
-  "evidenceCount": 17
+  "evidenceCount": 13
 }

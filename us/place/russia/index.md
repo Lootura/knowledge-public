@@ -3,10 +3,16 @@
 > Follow Russia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-22T21:09:05.351Z
+- Updated: 2026-07-23T10:20:24.199Z
 - Canonical: https://atlas.lootura.com/us/place/russia
 
 ## Recent changes
+
+### A New Target for Ukraine’s Long-Range Attacks: Russia’s Version of Amazon
+
+Kyiv is escalating its air war by striking commercial warehouses, trying to bring the conflict closer to home for ordinary Russians.
+
+Date: 2026-07-23
 
 ### Ukraine targets Russian online retailer Wildberries
 
@@ -62,12 +68,6 @@ Kyiv's forces have pressed their relentless aerial campaign against energy infra
 
 Date: 2026-07-18
 
-### Russia Bill Broadens Sanctions but Could Fuel Fears Over the Dollar
-
-The Trump administration has recently sought to scale back sanctions as adversaries develop workarounds that some believe could erode the U.S. dollar’s supremacy.
-
-Date: 2026-07-18
-
 ## Sources
 
-No public source links.
+- [A New Target for Ukraine’s Long-Range Attacks: Russia’s Version of Amazon](https://www.nytimes.com/2026/07/23/world/europe/russia-ukraine-wildberries-attacks.html?utm_source=lootura.com) — 2026-07-23T09:40:15.000Z

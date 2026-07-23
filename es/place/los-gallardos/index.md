@@ -70,4 +70,4 @@ Date: 2026-07-13
 
 ## Fuentes
 
-- [El llamamiento de Bédar para resurgir de las cenizas: "No dejen de venir, los necesitamos"](https://www.elconfidencial.com/espana/andalucia/2026-07-23/llamamiento-bedar-resurgir-cenizas-visitantes_4393749/?utm_source=lootura.com) — 2026-07-23T03:00:00.000Z
+No public source links.

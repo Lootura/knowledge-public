@@ -3,7 +3,7 @@
 > Follow Maine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-22T10:23:35.990Z
+- Updated: 2026-07-23T10:20:24.199Z
 - Canonical: https://atlas.lootura.com/us/place/maine
 
 ## Recent changes
@@ -70,4 +70,4 @@ Date: 2026-07-20
 
 ## Sources
 
-No public source links.
+- [After deadly shootings, police experts question how well ICE officers are vetted](https://www.npr.org/2026/07/23/nx-s1-5903173/police-experts-question-ice-officer-vetting?utm_source=lootura.com) — 2026-07-23T09:00:00.000Z

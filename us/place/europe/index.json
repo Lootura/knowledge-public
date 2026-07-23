@@ -8,12 +8,27 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/europe/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/europe/index.json",
   "description": "Follow Europe, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-22T21:09:05.351Z",
+  "updatedAt": "2026-07-23T10:20:24.199Z",
   "aliases": [
     "EU",
     "European Union"
   ],
   "changes": [
+    {
+      "title": "Climate change making Europe drought 'more severe': study",
+      "summary": "Human-caused climate change has intensified a drought across Europe, with extreme heat rather than low rainfall driving the exceptionally dry conditions, a team of international scientists said Thursday.",
+      "date": "2026-07-23"
+    },
+    {
+      "title": "Google Hit With $1 Billion Fine By EU Over Search Engine Practices",
+      "summary": "At a tense moment for trans-Atlantic trade, the European Union accused Google of anti-competitive business practices.",
+      "date": "2026-07-23"
+    },
+    {
+      "title": "U.S.-Saudi Deal Prompts Fears of a Nuclear Arms Race",
+      "summary": "In Europe, Asia and the Middle East, countries seek nuclear capabilities to hedge against aggressive neighbors and a receding Washington, potentially creating a more freewheeling era.",
+      "date": "2026-07-23"
+    },
     {
       "title": "Shifting weather patterns drive 55% of Europe's summer drought trend, study finds",
       "summary": "In a new study, researchers at Leipzig University have identified a major cause of the unusually severe summer soil drying and rising temperatures across Europe. They found that much of the trend can be attributed to changes in atmospheric circulation patterns—that is, shifts in the weather regimes that typically occur.",
@@ -48,23 +63,27 @@
       "title": "Understanding Bavaria's Indigeneity",
       "summary": "When I tell people that I am a proud Boarisch-Schwob—Bavarian-Swabian—Indigenous person, I am often met with disbelief. I am white. I am European. I come from Bavaria, one of Europe's wealthiest regions. For some people, those facts settle the question before I have explained anything else.",
       "date": "2026-07-16"
-    },
-    {
-      "title": "Ultraviolet light uncovers the first known juveniles of a mysterious Jurassic fish family",
-      "summary": "For more than 150 years, fossils of Jurassic fish scattered across Europe's museums were studied and drawn by generations of scientists. However, when a paleontologist decided to shine an ultraviolet light on them, a hidden world lit up.",
-      "date": "2026-07-15"
-    },
-    {
-      "title": "Report details ecological characterization of peatlands and coastal lagoons in EU",
-      "summary": "A new synthesis report, titled \"Ecological Characterisation of Peatlands and Coastal Lagoons in Europe,\" has been published to support the assessment, monitoring and restoration of European wetlands under EU environmental legislation. The report was prepared in response to a policy request submitted by the Directorate-.",
-      "date": "2026-07-15"
-    },
-    {
-      "title": "Europe, Flexing Muscle in Ukraine, Is Still on Sidelines in Iran",
-      "summary": "In a show of collective strength, President Emmanuel Macron of France hosted European allies at the annual Bastille Day parade in Paris. Yet Europe is still a hostage to America’s foreign policy.",
-      "date": "2026-07-14"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Climate change making Europe drought 'more severe': study",
+      "url": "https://phys.org/news/2026-07-climate-europe-drought-severe.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-23T09:00:12.000Z",
+      "sourceId": "lootura-us-phys-org"
+    },
+    {
+      "title": "Google Hit With $1 Billion Fine By EU Over Search Engine Practices",
+      "url": "https://www.nytimes.com/2026/07/23/business/google-eu-fine-search-competition.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-23T10:06:28.000Z",
+      "sourceId": "lootura-us-the-new-york-times"
+    },
+    {
+      "title": "U.S.-Saudi Deal Prompts Fears of a Nuclear Arms Race",
+      "url": "https://www.nytimes.com/2026/07/23/world/europe/us-saudi-deal-nuclear-hedging.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-23T09:44:04.000Z",
+      "sourceId": "lootura-us-the-new-york-times-world"
+    }
+  ],
+  "evidenceCount": 3
 }

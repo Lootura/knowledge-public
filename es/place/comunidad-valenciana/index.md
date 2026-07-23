@@ -3,10 +3,16 @@
 > Sigue la actividad de País Valenciano en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-22T13:46:22.256Z
+- Actualizado: 2026-07-23T10:20:05.700Z
 - Canonical: https://atlas.lootura.com/es/place/comunidad-valenciana
 
 ## Cambios recientes
+
+### Castilla-La Mancha se suma a los avisos rojos por calor de Murcia y la Comunidad Valenciana
+
+Jueves cruel en las regiones mediterráneas, a las que la ola de calor castigará especialmente con un repunte en las temperaturas en el mismo día en el que se despide de España. Tanto apretará en el sudeste que la Agencia Estatal de Meteorología (Aemet) ha decretado el aviso rojo , el máximo, en Murcia y en la Comunidad.
+
+Date: 2026-07-23
 
 ### La alianza PP-Vox hace ley por primera vez la “prioridad nacional” en los presupuestos de la Comunitat Valenciana
 
@@ -62,12 +68,6 @@ La Comunidad Valenciana es uno de los centros turísticos más importantes en Es
 
 Date: 2026-07-14
 
-### Incendios forestales en España hoy, en directo: última hora de la evolución del fuego
-
-El calor extremo y las altas temperaturas siguen complicando las labores de extinción de varios incendios forestales activos en distintos puntos de España. Castilla y León, Cataluña, la Comunidad Valenciana y Andalucía concentran algunos de los principales focos.
-
-Date: 2026-07-14
-
 ## Fuentes
 
-No public source links.
+- [Castilla-La Mancha se suma a los avisos rojos por calor de Murcia y la Comunidad Valenciana](https://elpais.com/clima-y-medio-ambiente/2026-07-23/la-tercera-ola-de-calor-del-verano-se-despide-con-avisos-rojos-en-murcia-y-la-comunidad-valenciana.html?utm_source=lootura.com) — 2026-07-23T10:12:32.000Z

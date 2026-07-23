@@ -64,19 +64,6 @@
       "date": "2026-07-18"
     }
   ],
-  "sources": [
-    {
-      "title": "Taylor Farms pulls iceberg lettuce linked to cyclosporiasis outbreak",
-      "url": "https://www.cbsnews.com/news/taylor-farms-pulls-iceberg-lettuce/?utm_source=lootura.com",
-      "publishedAt": "2026-07-22T20:14:08.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
-    {
-      "title": "What to know about Taylor Farms amid the cyclospora outbreak",
-      "url": "https://www.cbsnews.com/news/taylor-farms-cyclospora-outbreak/?utm_source=lootura.com",
-      "publishedAt": "2026-07-22T20:16:52.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    }
-  ],
-  "evidenceCount": 2
+  "sources": [],
+  "evidenceCount": 0
 }

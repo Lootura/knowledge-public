@@ -3,7 +3,7 @@
 > Follow Red Sea, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-23T06:29:04.058Z
+- Updated: 2026-07-23T10:20:24.199Z
 - Canonical: https://atlas.lootura.com/us/place/red-sea
 
 ## Recent changes
@@ -64,5 +64,4 @@ Date: 2026-07-21
 
 ## Sources
 
-- [Houthis claim strikes on two Saudi tankers as US attacks on Iran widen](https://www.theguardian.com/world/2026/jul/23/houthis-claim-attack-ship-tanker-saudi-arabia-red-sea?utm_source=lootura.com) — 2026-07-23T04:19:03.000Z
 - [See How Houthis Put the Red Sea at Risk as an Alternative Oil Route](https://www.nytimes.com/2026/07/22/business/energy-environment/red-sea-saudi-arabia-houthis.html?utm_source=lootura.com) — 2026-07-22T12:17:51.000Z

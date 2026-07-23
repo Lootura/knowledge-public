@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/maine/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/maine/index.json",
   "description": "Follow Maine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-22T10:23:35.990Z",
+  "updatedAt": "2026-07-23T10:20:24.199Z",
   "aliases": [
     "ME",
     "Maine, United States",
@@ -68,6 +68,13 @@
       "date": "2026-07-20"
     }
   ],
-  "sources": [],
+  "sources": [
+    {
+      "title": "After deadly shootings, police experts question how well ICE officers are vetted",
+      "url": "https://www.npr.org/2026/07/23/nx-s1-5903173/police-experts-question-ice-officer-vetting?utm_source=lootura.com",
+      "publishedAt": "2026-07-23T09:00:00.000Z",
+      "sourceId": "lootura-us-npr"
+    }
+  ],
   "evidenceCount": 0
 }

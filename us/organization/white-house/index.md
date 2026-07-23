@@ -3,16 +3,22 @@
 > Follow White House, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-07-23T06:29:04.058Z
+- Updated: 2026-07-23T10:20:24.199Z
 - Canonical: https://atlas.lootura.com/us/organization/white-house
 
 ## Recent changes
 
-### ‘Off the charts’: Secret Service describes rising threats to protectees
+### The White House pushes healthy eating. It cut a landmark nutrition education program
 
-Despite the heightened environment, the Secret Service says it’s confident in plans for the rescheduled White House Correspondents’ Association dinner.
+Nutrition advocates and public health experts are mystified by the decision to eliminate SNAP-Ed, given the Trump administration's embrace of the Make America Healthy Again agenda. (Image credit: Rachel Wisniewski for NPR).
 
-Date: 2026-07-22
+Date: 2026-07-23
+
+### 'New York Times' alleges White House abuses legal system to intimidate reporters
+
+The New York Times reported earlier this month that security concerns had led the Secret Service to urge Trump to fly home from Turkey on a different jet.'/> The New York Times will argue in court Thursday that the White House is abusing the justice system to intimidate reporters over a story that angered President Tru.
+
+Date: 2026-07-23
 
 ### Trump escalates threats, vows to target Iranian bridges and power plants
 
@@ -23,6 +29,12 @@ Date: 2026-07-22
 ### Funding milestone detected
 
 Breakthroughs in Chinese AI models are sending shockwaves through Washington and Silicon Valley. Chinese companies are narrowing the AI gap despite vast differences in computing power and resources. It comes as the White House is planning to redirect billions in funding from universities to individuals in a bid to acce.
+
+Date: 2026-07-22
+
+### ‘Off the charts’: Secret Service describes rising threats to protectees
+
+Despite the heightened environment, the Secret Service says it’s confident in plans for the rescheduled White House Correspondents’ Association dinner.
 
 Date: 2026-07-22
 
@@ -56,20 +68,9 @@ The White House press secretary said the unspecified “enhancements” would ta
 
 Date: 2026-07-20
 
-### Democrats avoid a messy fight in Maine, but uncertainty lingers: From the Politics Desk
-
-Welcome to From the Politics Desk, a daily newsletter that brings you the NBC News Politics team’s latest reporting and analysis from the White House, Capitol Hill and the campaign trail.
-
-Date: 2026-07-20
-
-### Face the Nation: Hochul, Homan, Moynihan
-
-Missed the second half of the show? New York Gov. Kathy Hochul, White House border czar Tom Homan and Bank of America CEO Brian Moynihan join the show.
-
-Date: 2026-07-19
-
 ## Sources
 
-- [‘Off the charts’: Secret Service describes rising threats to protectees](https://www.nbcnews.com/politics/national-security/-charts-secret-service-describes-rising-threats-protectees-rcna588819?utm_source=lootura.com) — 2026-07-22T23:46:14.000Z
+- [The White House pushes healthy eating. It cut a landmark nutrition education program](https://www.npr.org/2026/07/23/nx-s1-5896280/snap-ed-healthy-eating-cuts-maha?utm_source=lootura.com) — 2026-07-23T09:00:00.000Z
+- ['New York Times' alleges White House abuses legal system to intimidate reporters](https://www.npr.org/2026/07/23/nx-s1-5903854/trump-new-air-force-one-nyt-subpoenas?utm_source=lootura.com) — 2026-07-23T09:00:00.000Z
 - [Trump escalates threats, vows to target Iranian bridges and power plants](https://www.pbs.org/newshour/show/trump-escalates-threats-vows-to-target-iranian-bridges-and-power-plants?utm_source=lootura.com) — 2026-07-22T22:55:33.000Z
 - [Breakthroughs in Chinese AI models threaten U.S. lead in tech race](https://www.pbs.org/newshour/show/breakthroughs-in-chinese-ai-models-threaten-u-s-lead-in-tech-race?utm_source=lootura.com) — 2026-07-22T22:35:28.000Z

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/reino-unido/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/reino-unido/index.json",
   "description": "Sigue la actividad de Reino Unido de Gran Bretaña e Irlanda del Norte en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-23T02:31:05.539Z",
+  "updatedAt": "2026-07-23T10:20:05.700Z",
   "aliases": [
     "G B",
     "Great Britain",
@@ -22,6 +22,11 @@
     "the United Kingdom of Great Britain and Northern Ireland"
   ],
   "changes": [
+    {
+      "title": "El nuevo primer ministro británico anuncia una rebaja de impuestos a pubs y discotecas",
+      "summary": "El nuevo primer ministro de Reino Unido , Andy Burnham, ha anunciado este jueves una rebaja de impuestos a pubs, discotecas y locales de conciertos en el país , en una nueva medida para reactivar la economía y proteger una seña cultural británica. «Voy a aplicar una reducción del 20% en el impuesto sobre actividades ec.",
+      "date": "2026-07-23"
+    },
     {
       "title": "Un 50% menos de combustible y 9200 km de autonomía: así es el primer avión a reacción de ala integrada del mundo",
       "summary": "El mundo de la aviación comercial podría estar a las puertas de su cambio más radical en décadas. Durante el reciente Salón Aeronáutico de Farnborough, en el Reino Unido, la startup estadounidense JetZero presentó oficialmente el Z4 , un avión que promete ser un punto de inflexión . Su gran baza es un diseño de ala int.",
@@ -66,13 +71,15 @@
       "title": "Mi paraíso en Reino Unido: el Lake District, donde Inglaterra se vuelve salvaje",
       "summary": "Hay una imagen del Reino Unido instalada en el imaginario colectivo construida a partir de los autobuses rojos de Londres, las casas victorianas, el té de las cinco, el fútbol y una sucesión de ciudades icónicas donde la historia parece imponerse a la naturaleza. Sin embargo, basta conducir unas cinco horas hacia el no.",
       "date": "2026-07-21"
-    },
-    {
-      "title": "El arte de saber cuándo retirarse",
-      "summary": "Es probable que el nombre de Peter Hennessy no signifique mucho para quien vive fuera de Reino Unido, pero en el país, este lord de 79 años es un célebre historiador político cuyos numerosos admiradores lo consideran una institución nacional. Seguir leyendo.",
-      "date": "2026-07-20"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "El nuevo primer ministro británico anuncia una rebaja de impuestos a pubs y discotecas",
+      "url": "https://theobjective.com/internacional/2026-07-23/nuevo-primer-ministro-britanico-rebaja-impuestos-pubs-discotecas/?utm_source=lootura.com",
+      "publishedAt": "2026-07-23T09:43:06.000Z",
+      "sourceId": "lootura-es-the-objective"
+    }
+  ],
+  "evidenceCount": 1
 }

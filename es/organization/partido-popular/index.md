@@ -3,10 +3,28 @@
 > Sigue la actividad de Partido Popular en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-23T06:28:35.711Z
+- Actualizado: 2026-07-23T10:20:05.700Z
 - Canonical: https://atlas.lootura.com/es/organization/partido-popular
 
 ## Cambios recientes
+
+### El Gobierno reintentará tras el verano firmar el Pacto de Estado antiincendios y confía en que el PP se sume tras ver "rectificar" a Feijóo
+
+Un año después de hacerlo por primera vez en septiembre del año pasado, el Gobierno volverá convocar a los partidos políticos después del verano para intentar firmar un Pacto de Estado contra la Emergencia Climática , en esta ocasión con algo más de confianza de que el PP se siente a negociar, después de que hace días.
+
+Date: 2026-07-23
+
+### El PP exige la dimisión de Morant por comparar un gobierno de Feijóo con Hitler: "Está en una situación desesperada"
+
+El secretario general del PP, Miguel Tellado , ha reclamado este jueves la dimisión inmediata de la ministra de Ciencia y líder del PSPV-PSOE, Diana Morant , después de que esta comparase un eventual Gobierno presidido por Alberto Núñez Feijóo con el “criminal” Hitler . A su entender, esas palabras definen tanto a la d.
+
+Date: 2026-07-23
+
+### El Parlamento reelige a Arenas, Díaz y Espadas y designa a Montero, Zancajo y Aguirre como senadores por la comunidad
+
+Los que han obtenido más votos han sido los senadores propuestos por el PP-A, con un total de 98; los del PSOE-A, 83, y los de Vox, 65 votos.
+
+Date: 2026-07-23
 
 ### El PP y Vox suben tras el caso Zapatero y amplían la brecha con el PSOE y sus socios
 
@@ -50,24 +68,8 @@ La defensa del exsecretario de Estado de Seguridad en el Gobierno de Mariano Raj
 
 Date: 2026-07-22
 
-### Diana Morant acusa a Pérez Llorca de convertir «el apartheid en ley» con sus presupuestos
-
-La secretaria general del PSPV-PSOE y ministra de Ciencia, Innovación y Universidades, Diana Morant , ha acusado al president de la Generalitat, Juanfran Pérez Llorca, de haber «convertido el apartheid en ley» con los presupuestos de la Generalitat de 2026 que el PP ha aprobado este miércoles con el apoyo de Vox , a su.
-
-Date: 2026-07-22
-
-### Feijóo da por hecha su llegada a Moncloa sin esperar a las elecciones: "Será una limpieza a fondo"
-
-"La zona cero de la corrupción es la Moncloa y el señor X es Sánchez", afirma el líder del PP en su comparecencia de balance de fin de curso en la que anuncia que enmendará todas las políticas del Gobierno progresista El PP de Feijóo promete una ambiciosa contrarreforma legal con recortes en derechos sociales si llega.
-
-Date: 2026-07-22
-
-### La alianza PP-Vox hace ley por primera vez la “prioridad nacional” en los presupuestos de la Comunitat Valenciana
-
-La derecha y la ultraderecha sacan adelante las cuentas de Pérez Llorca en las Corts Valencianes, por valor de 33.305 millones de euros, sin aceptar enmiendas de la oposición y con riesgo de un recurso de inconstitucionalidad El Gobierno recurrirá en el Constitucional la ley de presupuestos de Pérez Llorca si incluye l.
-
-Date: 2026-07-22
-
 ## Fuentes
 
-- [El PP y Vox suben tras el caso Zapatero y amplían la brecha con el PSOE y sus socios](https://www.20minutos.es/nacional/pp-vox-suben-tras-caso-zapatero-amplian-brecha-con-psoe-sus-socios_7017602_0.html?utm_source=lootura.com) — 2026-07-23T03:00:00.000Z
+- [El Gobierno reintentará tras el verano firmar el Pacto de Estado antiincendios y confía en que el PP se sume tras ver "rectificar" a Feijóo](https://www.20minutos.es/nacional/gobierno-reintentara-tras-verano-firmar-pacto-estado-antiincendios-confia-que-pp-se-sume-tras-ver-rectificar-feijoo_7018004_0.html?utm_source=lootura.com) — 2026-07-23T08:23:18.000Z
+- [El PP exige la dimisión de Morant por comparar un gobierno de Feijóo con Hitler: "Está en una situación desesperada"](https://www.elconfidencial.com/espana/2026-07-23/dimision-morant-pp-psoe-democracia-1tps_4394692/?utm_source=lootura.com) — 2026-07-23T09:12:00.000Z
+- [El Parlamento reelige a Arenas, Díaz y Espadas y designa a Montero, Zancajo y Aguirre como senadores por la comunidad](https://www.larazon.es/andalucia/parlamento-reelige-arenas-diaz-espadas-designa-montero-zancajo-aguirre-como-senadores-comunidad_202607236a61eaa6aa17c0020f2b671b.html?outputType=amp&utm_source=lootura.com) — 2026-07-23T10:19:18.000Z

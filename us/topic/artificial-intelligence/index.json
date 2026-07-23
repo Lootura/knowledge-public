@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/topic/artificial-intelligence/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/topic/artificial-intelligence/index.json",
   "description": "Follow Artificial intelligence, a tracked topic, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-23T06:29:04.058Z",
+  "updatedAt": "2026-07-23T10:20:24.199Z",
   "aliases": [
     "AI",
     "AI science",
@@ -27,6 +27,11 @@
     "simulated intelligence"
   ],
   "changes": [
+    {
+      "title": "A town renamed its festival 'AI Love Irondale Day.' Then came the comments",
+      "summary": "The online outcry over the renaming of a summer festival illustrates the unease over the data center boom in the South. (Image credit: Stephan Bisaha).",
+      "date": "2026-07-23"
+    },
     {
       "title": "Funding milestone detected",
       "summary": "Investment in artificial intelligence and related companies is lifting the stock market and spending across the economy.",
@@ -71,11 +76,6 @@
       "title": "Meta made its own AI detection system. It should have just used Google’s",
       "summary": "Content Seal sounds a lot like a less accessible and reliable version of SynthID. | Image: Meta / The Verge IIn March, Meta's Oversight Board called on the company to \"meet its public commitments and employ its own tools\" to help quell the spread of deceptive generative AI content across platforms. Meta responded in Ju.",
       "date": "2026-07-22"
-    },
-    {
-      "title": "Detailed maps of European wetlands reveal overlooked patches of ecosystems",
-      "summary": "Nature, Published online: 20 July 2026; doi:10.1038/d41586-026-02211-2 Satellite images have been analysed by a machine-learning algorithm to produce high-resolution maps of wetland environments — a boon for conservation efforts.",
-      "date": "2026-07-22"
     }
   ],
   "sources": [
@@ -92,6 +92,12 @@
       "sourceId": "lootura-us-npr"
     },
     {
+      "title": "A town renamed its festival 'AI Love Irondale Day.' Then came the comments",
+      "url": "https://www.npr.org/2026/07/23/nx-s1-5896481/data-center-backlash-ai-love-irondale-day?utm_source=lootura.com",
+      "publishedAt": "2026-07-23T09:00:00.000Z",
+      "sourceId": "lootura-us-npr"
+    },
+    {
       "title": "Breakthroughs in Chinese AI models threaten U.S. lead in tech race",
       "url": "https://www.pbs.org/newshour/show/breakthroughs-in-chinese-ai-models-threaten-u-s-lead-in-tech-race?utm_source=lootura.com",
       "publishedAt": "2026-07-22T22:35:28.000Z",
@@ -104,5 +110,5 @@
       "sourceId": "lootura-us-the-new-york-times"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 4
 }

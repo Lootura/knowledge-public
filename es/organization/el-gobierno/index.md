@@ -2,11 +2,59 @@
 
 > Sigue la actividad de El Gobierno en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
-- Type: organization
-- Actualizado: 2026-07-23T06:28:35.711Z
+- Type: person
+- Actualizado: 2026-07-23T10:20:05.700Z
 - Canonical: https://atlas.lootura.com/es/organization/el-gobierno
 
 ## Cambios recientes
+
+### El Gobierno pide a Zapatero "que cuente la verdad" en la primera entrevista que concede tras ser investigado por el rescate de Plus Ultra
+
+El expresidente del Gobierno José Luis Rodríguez Zapatero será entrevistado este jueves en el programa 'Mañaneros 360' de TVE a las 13.00 horas . Se trata de la primera entrevista concedida por el expresidente socialista tras su imputación por el rescate a la aerolínea Plus Ultra y su posterior declaración ante el juez.
+
+Date: 2026-07-23
+
+### El Gobierno reintentará tras el verano firmar el Pacto de Estado antiincendios y confía en que el PP se sume tras ver "rectificar" a Feijóo
+
+Un año después de hacerlo por primera vez en septiembre del año pasado, el Gobierno volverá convocar a los partidos políticos después del verano para intentar firmar un Pacto de Estado contra la Emergencia Climática , en esta ocasión con algo más de confianza de que el PP se siente a negociar, después de que hace días.
+
+Date: 2026-07-23
+
+### El Gobierno propone a Yolanda Díaz como directora general de la OIT, el organismo de la ONU dedicado al trabajo
+
+El Gobierno propone a Yolanda Díaz como directora general de la Organización Internacional del Trabajo (OIT), según ha podido saber EL PAÍS por fuentes conocedoras de la decisión y ha confirmado La Moncloa este jueves. La vicepresidenta segunda y ministra de Trabajo plantará cara a Gilbert F. Houngbo , que dirige desde.
+
+Date: 2026-07-23
+
+### Qué es la OIT: el organismo de Naciones Unidas para el que Yolanda Díaz ha sido propuesta para la dirección general por el Gobierno
+
+El Gobierno ha respaldado la candidatura de Yolanda Díaz para optar a la dirección general del organismo de Naciones Unidas , la Organización Internacional del Trabajo (OIT) . La elección, prevista para noviembre, sitúa el foco en una institución clave para las políticas laborales internacionales y en el papel que dese.
+
+Date: 2026-07-23
+
+### El Gobierno propone a Yolanda Díaz para dirigir la Organización Internacional del Trabajo
+
+Sánchez destaca que la vicepresidenta "ha demostrado con políticas y resultados su compromiso con los derechos laborales, el diálogo social y la prosperidad de España" Leer.
+
+Date: 2026-07-23
+
+### El Gobierno declara la guerra al tabaco con la recaudación de los cigarrillos y vapeadores en máximos históricos
+
+El Gobierno pretende que en España se fume cada vez en menos lugares. El proyecto de ley del tabaco aprobado esta semana por el Consejo de Ministros amplía los espacios sin humo a las terrazas , las playas, las piscinas de uso colectivo y otros espacios al aire libre, endurece las restricciones sobre los cigarrillos el.
+
+Date: 2026-07-23
+
+### El Gobierno propone a la vicepresidenta Yolanda Díaz como candidata a dirigir la OIT
+
+El presidente Sánchez anuncia el "honor" de postular a su ministra de Trabajo quien "ha demostrado con políticas y resultados su compromiso con los derechos laborales, el diálogo social y la prosperidad de España" Qué es la OIT: el organismo de Naciones Unidas amenazado por Trump en el que sitúan a Yolanda Díaz El Gobi.
+
+Date: 2026-07-23
+
+### El Gobierno reparte 23,7 millones en ayudas directas a 84 entidades culturales hasta 2029
+
+El Gobierno ha aprobado un Real Decreto por el que regula la concesión directa de 23.661.710 euros en subvenciones a 84 administraciones públicas y entidades culturales para el periodo 2026-2029, destinadas a proyectos relacionados con la conservación del patrimonio histórico, la actividad museística, la creación conte.
+
+Date: 2026-07-23
 
 ### El Gobierno declara la guerra al tabaco con la recaudación de los cigarrillos y vapeadores en máximos históricos
 
@@ -20,54 +68,13 @@ Después del fracaso parlamentario del pasado martes, 14 de julio, el Gobierno s
 
 Date: 2026-07-23
 
-### El Gobierno perseguirá a las gasolineras que incumplan los márgenes marcados por el decreto anticrisis
-
-El Gobierno aprobó con el inicio del conflicto en Oriente Medio un primer paquete de medidas para contener las consecuencias económicas de la guerra, sobre trodo por la subida del precios energéticos y de algunos insumos, especialmente los hidrocarburos por el bloqueo del Estrecho de Ormuz. Aquel decreto ley contenía l.
-
-Date: 2026-07-23
-
-### El Gobierno incluye una prórroga de alquileres hasta 2028 en el nuevo decreto de vivienda
-
-Recta final en la negociación por el nuevo decreto de vivienda . El Gobierno de coalición ha llegado a un acuerdo con el que pretende convencer a los socios de investidura que tumbaron el anterior decreto, y que incluye una prórroga automática de los alquileres para todos los contratos que finalicen antes de julio de 2.
-
-Date: 2026-07-22
-
-### La alianza PP-Vox hace ley por primera vez la “prioridad nacional” en los presupuestos de la Comunitat Valenciana
-
-La derecha y la ultraderecha sacan adelante las cuentas de Pérez Llorca en las Corts Valencianes, por valor de 33.305 millones de euros, sin aceptar enmiendas de la oposición y con riesgo de un recurso de inconstitucionalidad El Gobierno recurrirá en el Constitucional la ley de presupuestos de Pérez Llorca si incluye l.
-
-Date: 2026-07-22
-
-### El Gobierno vasco concede beneficios penitenciarios al asesino de Gregorio Ordóñez
-
-La AVT ha recibido la notificación de la concesión de otras dos flexibilizaciones del segundo grado a los presos de ETA Alberto López de la Calle, "Mobutu", y Juan Ramón Carasatorre, asesino de Gregorio Ordóñez. Caarasatorre obtiene esta medida después de que la Audiencia Nacional revocara una decisión anterior al cons.
-
-Date: 2026-07-22
-
-### PP y Vox aprueban los presupuestos de Pérez Llorca, los últimos de la legislatura, con mención a la "prioridad nacional"
-
-La derecha y la ultraderecha sacan adelante las cuentas en las Corts Valencianes, por valor de 33.305 millones de euros, sin aceptar enmiendas de la oposición El Gobierno recurrirá en el Constitucional la ley de presupuestos de Pérez Llorca si incluye la expresión “prioridad nacional” Prueba superada. El presidente de.
-
-Date: 2026-07-22
-
-### El Gobierno reactiva la renovación de la RedIRIS un año después de anular el polémico contrato con Huawei
-
-Red.es, entidad pública adscrita al Ministerio para la Transformación Digital y de la Función Pública, ha lanzado una consulta preliminar al mercado para planificar la renovación de la electrónica de la red IP de RedIRIS, casi un año después de cancelar la adjudicación de 10 millones de euros a Telefónica que contempla.
-
-Date: 2026-07-22
-
-### El Gobierno de Pradales anuncia que no habrá recibimiento a los jugadores vascos de La Roja
-
-La portavoz del Ejecutivo vasco, Maria Ubarretxena, rechaza el «aprovechamiento político» de las agresiones a aficionados de la selección española.
-
-Date: 2026-07-21
-
-### El Gobierno sigue manteniendo la "inocencia" de Zapatero y defiende como "correcta" la concesión del rescate a Plus Ultra
-
-El Gobierno ha reaccionado a las confesiones de Julio Martínez, presunto testaferro de José Luis Rodríguez Zapatero, y de los directivos de Plus Ultra, por boca de la portavoz...
-
-Date: 2026-07-21
-
 ## Fuentes
 
+- [El Gobierno pide a Zapatero "que cuente la verdad" en la primera entrevista que concede tras ser investigado por el rescate de Plus Ultra](https://www.20minutos.es/nacional/entrevista-zapatero-directo-ultimas-noticias-corrupcion-psoe-rescate-plus-ultra_7018066_6.html?utm_source=lootura.com) — 2026-07-23T09:29:39.000Z
+- [El Gobierno reintentará tras el verano firmar el Pacto de Estado antiincendios y confía en que el PP se sume tras ver "rectificar" a Feijóo](https://www.20minutos.es/nacional/gobierno-reintentara-tras-verano-firmar-pacto-estado-antiincendios-confia-que-pp-se-sume-tras-ver-rectificar-feijoo_7018004_0.html?utm_source=lootura.com) — 2026-07-23T08:23:18.000Z
+- [El Gobierno propone a Yolanda Díaz como directora general de la OIT, el organismo de la ONU dedicado al trabajo](https://elpais.com/economia/2026-07-23/el-gobierno-propone-a-yolanda-diaz-como-directora-general-de-la-oit-el-organismo-de-la-onu-dedicado-al-trabajo.html?utm_source=lootura.com) — 2026-07-23T06:46:14.000Z
+- [Qué es la OIT: el organismo de Naciones Unidas para el que Yolanda Díaz ha sido propuesta para la dirección general por el Gobierno](https://www.elconfidencial.com/espana/2026-07-23/que-es-oit-onu-yolanda-diaz-candidata-1qrt_4394690/?utm_source=lootura.com) — 2026-07-23T10:07:00.000Z
+- [El Gobierno propone a Yolanda Díaz para dirigir la Organización Internacional del Trabajo](https://www.elmundo.es/economia/2026/07/23/6a61bd11e4d4d85a3e8b456f.html?utm_source=lootura.com) — 2026-07-23T07:55:56.000Z
 - [El Gobierno declara la guerra al tabaco con la recaudación de los cigarrillos y vapeadores en máximos históricos](https://elpais.com/economia/2026-07-23/el-gobierno-declara-la-guerra-al-tabaco-con-la-recaudacion-de-los-cigarrillos-y-vapeadores-en-maximos-historicos.html?utm_source=lootura.com) — 2026-07-23T03:45:00.000Z
+- [El Gobierno propone a la vicepresidenta Yolanda Díaz como candidata a dirigir la OIT](https://www.eldiario.es/economia/gobierno-propone-vicepresidenta-yolanda-diaz-candidata-dirigir-oit_1_13400602.html?utm_source=lootura.com) — 2026-07-23T06:55:31.000Z
+- [El Gobierno reparte 23,7 millones en ayudas directas a 84 entidades culturales hasta 2029](https://theobjective.com/cultura/2026-07-23/gobierno-237-millones-ayudas-directas-entidades-culturales/?utm_source=lootura.com) — 2026-07-23T09:55:20.000Z

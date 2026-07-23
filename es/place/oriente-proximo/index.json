@@ -67,25 +67,6 @@
       "date": "2026-07-22"
     }
   ],
-  "sources": [
-    {
-      "title": "El pacto nuclear de EE.UU. con Arabia Saudí hace temer una carrera atómica en Oriente Próximo",
-      "url": "https://www.abc.es/internacional/eeuu-arabia-saudi-firman-acuerdo-nuclear-despierta-20260722210722-nt.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-23T05:20:41.000Z",
-      "sourceId": "lootura-es-abc"
-    },
-    {
-      "title": "Los hutíes de Yemen atacan dos buques de Arabia Saudí en Ormuz e intensifican el conflicto en Oriente Próximo",
-      "url": "https://www.abc.es/internacional/huties-yemen-atacan-dos-buques-arabia-saudi-20260723080327-nt.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-23T06:03:28.000Z",
-      "sourceId": "lootura-es-abc"
-    },
-    {
-      "title": "La rentabilidad de los bonos, en máximos a la espera del BCE",
-      "url": "https://www.expansion.com/mercados/renta-fija/2026/07/23/6a610c94468aebbc5b8b45b7.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-23T00:04:27.000Z",
-      "sourceId": "lootura-es-expansion"
-    }
-  ],
-  "evidenceCount": 3
+  "sources": [],
+  "evidenceCount": 0
 }

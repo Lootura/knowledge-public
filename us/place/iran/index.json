@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/iran/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/iran/index.json",
   "description": "Follow Iran, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-23T06:29:04.058Z",
+  "updatedAt": "2026-07-23T10:20:24.199Z",
   "aliases": [
     "IRI",
     "Islamic Rep. Iran",
@@ -27,6 +27,21 @@
       "date": "2026-07-23"
     },
     {
+      "title": "Funding milestone detected",
+      "summary": "Trump administration signs nuclear cooperation agreement with Saudi Arabia, Trump ramps up aggression against Iran despite declining support, House passes Pentagon funding bill.",
+      "date": "2026-07-23"
+    },
+    {
+      "title": "The latest US troops killed in Trump’s Iran war are remembered for lives of service",
+      "summary": "Angel Rampersad, Michael Swinton, Isabella Gonzales and Tyler Feehan were among 18 US troops killed in the war A 30-year-old husband and father of two. A 25-year-old officer just weeks away from earning his MBA. A 19-year-old recent high school graduate. And a 28-year-old from Queens, New York, with a “radiant smile”.",
+      "date": "2026-07-23"
+    },
+    {
+      "title": "House Adopts $95 Billion G.O.P. Budget for Iran War",
+      "summary": "Republican leaders muscled through resistance in their own ranks to approve the budget blueprint for the war and other measures, but its prospects were far dimmer in the Senate.",
+      "date": "2026-07-23"
+    },
+    {
       "title": "Houthis claim strikes on two Saudi tankers as US attacks on Iran widen",
       "summary": "Attacks by Iranian-aligned Houthis in Red Sea follow Trump threats to destroy more Iranian infrastructure Yemen’s ⁠Houthi militia attacked two ​Saudi Arabian oil tankers, the Iranian-aligned group said on Thursday, with a Saudi news agency later confirming one of the vessels was ablaze in the Red Sea. The threat of new.",
       "date": "2026-07-23"
@@ -34,11 +49,6 @@
     {
       "title": "Iran’s Neighbors Long for a Deal, Any Deal, to End the War",
       "summary": "Business owners in Pakistan are getting impatient for a chance to finally trade goods and oil along their long shared border with Iran.",
-      "date": "2026-07-22"
-    },
-    {
-      "title": "Send your questions for Richard Engel on the war with Iran and more",
-      "summary": "The United States is about to enter its fifth month of war with Iran, and NBC News’ chief foreign correspondent Richard Engel has been covering all the developments.",
       "date": "2026-07-22"
     },
     {
@@ -52,18 +62,8 @@
       "date": "2026-07-22"
     },
     {
-      "title": "House Adopts $95 Billion G.O.P. Budget for Iran War",
-      "summary": "Republican leaders muscled through resistance in their own ranks to approve the budget blueprint for the war and other measures, but its prospects were far dimmer in the Senate.",
-      "date": "2026-07-22"
-    },
-    {
       "title": "Funding milestone detected",
       "summary": "Republicans passed more than $1 trillion for the Pentagon alongside a budget blueprint to fund the war with Iran and implement provisions of President Trump's election overhaul bill. (Image credit: Anna Moneymaker).",
-      "date": "2026-07-22"
-    },
-    {
-      "title": "Trump escalates threats, vows to target Iranian bridges and power plants",
-      "summary": "Iranian news agencies are reporting widespread aerial attacks across southern Iran. It comes as President Trump issued more threats against Iran and the Islamic Republic's foreign minister responded that any future attacks would be met with \"an eye for an eye.\" White House correspondent Liz Landers reports.",
       "date": "2026-07-22"
     }
   ],
@@ -81,10 +81,10 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "Send your questions for Richard Engel on the war with Iran and more",
-      "url": "https://www.nbcnews.com/world/iran/richard-engel-qa-iran-rcna353221?utm_source=lootura.com",
-      "publishedAt": "2026-07-22T18:21:09.000Z",
-      "sourceId": "lootura-us-nbc-news"
+      "title": "Morning news brief",
+      "url": "https://www.npr.org/2026/07/23/nx-s1-5895984/morning-news-brief?utm_source=lootura.com",
+      "publishedAt": "2026-07-23T08:47:19.000Z",
+      "sourceId": "lootura-us-npr"
     },
     {
       "title": "House passes Pentagon funding bill and a blueprint to unlock new dollars for Iran war",
@@ -99,9 +99,9 @@
       "sourceId": "lootura-us-pbs-newshour"
     },
     {
-      "title": "Houthis claim strikes on two Saudi tankers as US attacks on Iran widen",
-      "url": "https://www.theguardian.com/world/2026/jul/23/houthis-claim-attack-ship-tanker-saudi-arabia-red-sea?utm_source=lootura.com",
-      "publishedAt": "2026-07-23T04:19:03.000Z",
+      "title": "The latest US troops killed in Trump’s Iran war are remembered for lives of service",
+      "url": "https://www.theguardian.com/world/2026/jul/23/iran-war-us-troops?utm_source=lootura.com",
+      "publishedAt": "2026-07-23T10:00:42.000Z",
       "sourceId": "lootura-us-the-guardian-us"
     },
     {
@@ -125,7 +125,7 @@
     {
       "title": "House Adopts $95 Billion G.O.P. Budget for Iran War",
       "url": "https://www.nytimes.com/2026/07/22/us/politics/house-republicans-iran-budget-pentagon.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-22T21:56:01.000Z",
+      "publishedAt": "2026-07-23T08:29:58.000Z",
       "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],

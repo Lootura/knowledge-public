@@ -52,4 +52,4 @@ Date: 2026-07-16
 
 ## Fuentes
 
-- [Del heroísmo a los algoritmos: Zelenski sustituye al veterano jefe del ejército por un reformista para intentar cerrar su mayor crisis interna](https://amp.elmundo.es/internacional/2026/07/22/6a60f897e85ece030d8b457e.html?utm_source=lootura.com) — 2026-07-22T17:11:47.000Z
+No public source links.

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/malaga/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/malaga/index.json",
   "description": "Sigue la actividad de Málaga en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-23T06:28:35.711Z",
+  "updatedAt": "2026-07-23T10:20:05.700Z",
   "aliases": [],
   "changes": [
     {
@@ -68,13 +68,7 @@
       "url": "https://www.elcorreo.com/sociedad/crimen-benahavis-malaga-victima-autor-conocian-gobierno-20260722133842-ntrc.html?utm_source=lootura.com",
       "publishedAt": "2026-07-22T11:38:43.000Z",
       "sourceId": "lootura-es-el-correo"
-    },
-    {
-      "title": "La Aemet sitúa a seis provincias andaluzas en aviso naranja por temperaturas de 42ºC",
-      "url": "https://www.larazon.es/andalucia/aemet-situa-seis-provincias-andaluzas-aviso-naranja-temperaturas-42c_202607236a61ae20da3add27d4dd376b.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-23T06:01:04.000Z",
-      "sourceId": "lootura-es-la-razon"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

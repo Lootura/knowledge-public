@@ -3,10 +3,28 @@
 > Sigue la actividad de La Mancha en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-23T06:28:35.711Z
+- Actualizado: 2026-07-23T10:20:05.700Z
 - Canonical: https://atlas.lootura.com/es/place/la-mancha
 
 ## Cambios recientes
+
+### El regreso de algunos vecinos de Guadalajara tras la pesadilla del fuego: “Se escuchaba cómo venía el infierno”
+
+El paisaje de la Sierra Norte de Guadalajara es desolador. Más de 32.000 hectáreas han sido arrasadas por el mayor incendio de la historia de Castilla-La Mancha, que este miércoles por primer vez parece dar tregua tras más de seis días. Algunos pueblos han podido ser realojados, otros siguen confinados o desalojados. L.
+
+Date: 2026-07-23
+
+### Castilla-La Mancha se suma a los avisos rojos por calor de Murcia y la Comunidad Valenciana
+
+Jueves cruel en las regiones mediterráneas, a las que la ola de calor castigará especialmente con un repunte en las temperaturas en el mismo día en el que se despide de España. Tanto apretará en el sudeste que la Agencia Estatal de Meteorología (Aemet) ha decretado el aviso rojo , el máximo, en Murcia y en la Comunidad.
+
+Date: 2026-07-23
+
+### Incendios en España, en directo hoy: Mejora la situación de Almorox y esperan estabilizarlo en unas horas
+
+Los equipos de extinción afrontan una nueva jornada de trabajo en varios incendios forestales que permanecen activos en diferentes comunidades autónomas. Castilla-La Mancha continúa concentrando buena parte del operativo nacional, mientras los servicios de emergencia mantienen desplegados numerosos medios terrestres y.
+
+Date: 2026-07-23
 
 ### Incendios en España, en directo hoy: Mejora la situación de Almorox y esperan estabilizarlo en unas horas
 
@@ -50,25 +68,8 @@ Hay casas que simplemente se reforman y otras que recuperan una memoria perdida 
 
 Date: 2026-07-21
 
-### Page vaticina que incendio La Mierla superará las 26.000 hectáreas quemadas
-
-El presidente de Castilla-La Mancha , Emiliano García-Page , ha vaticinado que el incendio forestal de La Mierla (Guadalajara) se irá «por encima de las 26.000 hectáreas» calcinadas , pero ha asegurado que el operativo de lucha contra el fuego está «triunfando» en sus prioridades, la defensa de las vidas humanas y de l.
-
-Date: 2026-07-20
-
-### Incendios en España, en directo hoy: última hora de los fuegos activos, evolución y situación en Aragón, Castilla-La Mancha, Madrid y Andalucía
-
-El presidente de la Junta de Comunidades de Castilla-La Mancha, Emiliano García-Page , señaló este sábado que la culpa de los incendios "no la tiene nadie por su profesión, condición política o raza" sino que la tiene "aquel que incumple las leyes" y subrayó que "llegará el momento de esclarecer las causas" , como así.
-
-Date: 2026-07-19
-
-### Castilla-La Mancha estudia plan de recuperación en La Mierla cuando cese el fuego
-
-El Gobierno de Castilla-La Mancha se encuentra perfilando una estrategia de actuación en la zona afectada por el incendio de La Mierla de cara a impulsar tanto al sector primario como al turístico cuando regrese la normalidad. Fuentes del Ejecutivo autonómico consultadas por Europa Press destacan la zona por su riqueza.
-
-Date: 2026-07-19
-
 ## Fuentes
 
-- [Incendios en España, en directo hoy: Mejora la situación de Almorox y esperan estabilizarlo en unas horas](https://www.larazon.es/sociedad/incendios-espana-directo-hoy-ultima-hora-fuegos-activos-operativos-extincion_202607236a6192fada3add27d4dd1811.html?outputType=amp&utm_source=lootura.com) — 2026-07-23T06:25:15.000Z
-- [La mejor planta floral y aromática que puedes poner en el jardín en Castilla La-Mancha: necesita todas las horas de sol posibles](https://okdiario.com/naturaleza/mejor-planta-floral-aromatica-que-puedes-poner-jardin-castilla-mancha-necesita-todas-horas-sol-posibles-18892358?utm_source=lootura.com) — 2026-07-23T06:15:15.000Z
+- [El regreso de algunos vecinos de Guadalajara tras la pesadilla del fuego: “Se escuchaba cómo venía el infierno”](https://elpais.com/espana/2026-07-23/el-regreso-de-algunos-vecinos-de-guadalajara-tras-la-pesadilla-del-fuego-se-escuchaba-como-venia-el-infierno.html?utm_source=lootura.com) — 2026-07-23T03:30:01.000Z
+- [Castilla-La Mancha se suma a los avisos rojos por calor de Murcia y la Comunidad Valenciana](https://elpais.com/clima-y-medio-ambiente/2026-07-23/la-tercera-ola-de-calor-del-verano-se-despide-con-avisos-rojos-en-murcia-y-la-comunidad-valenciana.html?utm_source=lootura.com) — 2026-07-23T10:12:32.000Z
+- [Incendios en España, en directo hoy: Mejora la situación de Almorox y esperan estabilizarlo en unas horas](https://www.larazon.es/sociedad/incendios-espana-directo-hoy-ultima-hora-fuegos-activos-operativos-extincion_202607236a6192fada3add27d4dd1811.html?utm_source=lootura.com) — 2026-07-23T10:10:42.000Z

@@ -8,12 +8,22 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/saudi-arabia/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/saudi-arabia/index.json",
   "description": "Follow Saudi Arabia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-23T06:29:04.058Z",
+  "updatedAt": "2026-07-23T10:20:24.199Z",
   "aliases": [
     "Kingdom of Saudi Arabia",
     "Saudi"
   ],
   "changes": [
+    {
+      "title": "Funding milestone detected",
+      "summary": "Trump administration signs nuclear cooperation agreement with Saudi Arabia, Trump ramps up aggression against Iran despite declining support, House passes Pentagon funding bill.",
+      "date": "2026-07-23"
+    },
+    {
+      "title": "Nuclear Energy Revival Puts Westinghouse in Prime Position",
+      "summary": "The company, which filed for bankruptcy protection in 2017, stands to benefit from growing support for nuclear power and President Trump’s deal with Saudi Arabia.",
+      "date": "2026-07-23"
+    },
     {
       "title": "Houthis Claim Strikes on 2 Saudi Oil Tankers in Red Sea",
       "summary": "The Saudi authorities had yet to confirm the hits, which would be the first attacks since the Iranian-backed Yemeni group announced a blockade on Saudi Arabia.",
@@ -22,11 +32,6 @@
     {
       "title": "Discovered by Atlas",
       "summary": "Saudi Arabia first entered the public knowledge record with source-backed evidence.",
-      "date": "2026-07-22"
-    },
-    {
-      "title": "Latest on U.S.-Saudi nuclear deal, Trump threats against Iranian infrastructure",
-      "summary": "CBS News National security analyst Aaron MacLean breaks down President Trump's threats against Iranian infrastructure and the United States' new nuclear deal with Saudi Arabia.",
       "date": "2026-07-22"
     },
     {
@@ -45,6 +50,11 @@
       "date": "2026-07-22"
     },
     {
+      "title": "Latest on U.S.-Saudi nuclear deal, Trump threats against Iranian infrastructure",
+      "summary": "CBS News National security analyst Aaron MacLean breaks down President Trump's threats against Iranian infrastructure and the United States' new nuclear deal with Saudi Arabia.",
+      "date": "2026-07-22"
+    },
+    {
       "title": "How the Trump Administration’s Nuclear Deal With Saudi Arabia May Work",
       "summary": "The Trump administration announced an agreement with Saudi Arabia on a civilian nuclear program. Such deals, known as 123 Agreements, are designed to prevent the development of weapons.",
       "date": "2026-07-22"
@@ -53,24 +63,14 @@
       "title": "See How Houthis Put the Red Sea at Risk as an Alternative Oil Route",
       "summary": "Saudi Arabia has diverted huge amounts of oil to the Red Sea since the Iran war began, but now the Iranian-backed Houthi militants say that they intend to block that route.",
       "date": "2026-07-22"
-    },
-    {
-      "title": "Coveted U.S. Nuclear Deal Is a Coup for Saudi Crown Prince",
-      "summary": "Saudi Arabia had for years sought the controversial deal to transfer American nuclear technology to the kingdom. It is expected to be sealed on Wednesday.",
-      "date": "2026-07-22"
-    },
-    {
-      "title": "Trump approves landmark U.S.-Saudi nuclear deal",
-      "summary": "President Donald Trump has approved a landmark civilian nuclear deal between the United States and Saudi Arabia that is expected to be announced Wednesday, a senior administration official told NBC News.",
-      "date": "2026-07-22"
     }
   ],
   "sources": [
     {
-      "title": "Latest on U.S.-Saudi nuclear deal, Trump threats against Iranian infrastructure",
-      "url": "https://www.cbsnews.com/video/details-on-us-saudi-nuclear-deal-trump-threads-against-iranian-infrastructure/?utm_source=lootura.com",
-      "publishedAt": "2026-07-22T20:00:09.000Z",
-      "sourceId": "lootura-us-cbs-news"
+      "title": "Morning news brief",
+      "url": "https://www.npr.org/2026/07/23/nx-s1-5895984/morning-news-brief?utm_source=lootura.com",
+      "publishedAt": "2026-07-23T08:47:19.000Z",
+      "sourceId": "lootura-us-npr"
     },
     {
       "title": "Critics warn U.S. nuclear power deal with Saudi Arabia could fuel proliferation",
@@ -89,7 +89,13 @@
       "url": "https://www.nytimes.com/2026/07/22/business/energy-environment/red-sea-saudi-arabia-houthis.html?utm_source=lootura.com",
       "publishedAt": "2026-07-22T12:17:51.000Z",
       "sourceId": "lootura-us-the-new-york-times"
+    },
+    {
+      "title": "Nuclear Energy Revival Puts Westinghouse in Prime Position",
+      "url": "https://www.nytimes.com/2026/07/23/business/energy-environment/westinghouse-nuclear-energy-trump-saudi-arabia.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-23T09:05:32.000Z",
+      "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 4
+  "evidenceCount": 5
 }

@@ -3,10 +3,28 @@
 > Follow Europe, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-22T21:09:05.351Z
+- Updated: 2026-07-23T10:20:24.199Z
 - Canonical: https://atlas.lootura.com/us/place/europe
 
 ## Recent changes
+
+### Climate change making Europe drought 'more severe': study
+
+Human-caused climate change has intensified a drought across Europe, with extreme heat rather than low rainfall driving the exceptionally dry conditions, a team of international scientists said Thursday.
+
+Date: 2026-07-23
+
+### Google Hit With $1 Billion Fine By EU Over Search Engine Practices
+
+At a tense moment for trans-Atlantic trade, the European Union accused Google of anti-competitive business practices.
+
+Date: 2026-07-23
+
+### U.S.-Saudi Deal Prompts Fears of a Nuclear Arms Race
+
+In Europe, Asia and the Middle East, countries seek nuclear capabilities to hedge against aggressive neighbors and a receding Washington, potentially creating a more freewheeling era.
+
+Date: 2026-07-23
 
 ### Shifting weather patterns drive 55% of Europe's summer drought trend, study finds
 
@@ -50,24 +68,8 @@ When I tell people that I am a proud Boarisch-Schwob—Bavarian-Swabian—Indige
 
 Date: 2026-07-16
 
-### Ultraviolet light uncovers the first known juveniles of a mysterious Jurassic fish family
-
-For more than 150 years, fossils of Jurassic fish scattered across Europe's museums were studied and drawn by generations of scientists. However, when a paleontologist decided to shine an ultraviolet light on them, a hidden world lit up.
-
-Date: 2026-07-15
-
-### Report details ecological characterization of peatlands and coastal lagoons in EU
-
-A new synthesis report, titled "Ecological Characterisation of Peatlands and Coastal Lagoons in Europe," has been published to support the assessment, monitoring and restoration of European wetlands under EU environmental legislation. The report was prepared in response to a policy request submitted by the Directorate-.
-
-Date: 2026-07-15
-
-### Europe, Flexing Muscle in Ukraine, Is Still on Sidelines in Iran
-
-In a show of collective strength, President Emmanuel Macron of France hosted European allies at the annual Bastille Day parade in Paris. Yet Europe is still a hostage to America’s foreign policy.
-
-Date: 2026-07-14
-
 ## Sources
 
-No public source links.
+- [Climate change making Europe drought 'more severe': study](https://phys.org/news/2026-07-climate-europe-drought-severe.html?utm_source=lootura.com) — 2026-07-23T09:00:12.000Z
+- [Google Hit With $1 Billion Fine By EU Over Search Engine Practices](https://www.nytimes.com/2026/07/23/business/google-eu-fine-search-competition.html?utm_source=lootura.com) — 2026-07-23T10:06:28.000Z
+- [U.S.-Saudi Deal Prompts Fears of a Nuclear Arms Race](https://www.nytimes.com/2026/07/23/world/europe/us-saudi-deal-nuclear-hedging.html?utm_source=lootura.com) — 2026-07-23T09:44:04.000Z

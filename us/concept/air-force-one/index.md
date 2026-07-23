@@ -70,4 +70,4 @@ Date: 2026-07-20
 
 ## Sources
 
-- [Trump attends dignified transfer of U.S. troops](https://www.nbcnews.com/nightly-news/video/trump-attends-dignified-transfer-of-u-s-troops-267132997610?utm_source=lootura.com) — 2026-07-22T23:47:29.000Z
+No public source links.

@@ -70,4 +70,4 @@ Date: 2026-07-17
 
 ## Sources
 
-- [Rubio and Chinese Diplomat Make Plans for Trump and Xi’s Washington Summit](https://www.nytimes.com/2026/07/22/us/politics/trump-xi-rubio-manila-china.html?utm_source=lootura.com) — 2026-07-22T16:23:07.000Z
+No public source links.

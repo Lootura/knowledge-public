@@ -3,10 +3,16 @@
 > Sigue la actividad de Irán en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-23T06:28:35.711Z
+- Actualizado: 2026-07-23T10:20:05.700Z
 - Canonical: https://atlas.lootura.com/es/place/iran
 
 ## Cambios recientes
+
+### El precio de los carburantes, desbocado por el fin de la rebaja del IVA: el depósito se encarece un 13% en tres semanas, un euro extra cada 48 horas
+
+El contador del surtidor sube más deprisa que hace un mes y asfixia a los hogares españoles en plenas vacaciones de verano. Desde el 30 de junio, cuando expiró la rebaja fiscal aprobada para amortiguar el impacto de la guerra entre Estados Unidos e Irán, el depósito de combustible se ha encarecido a un ritmo cercano a.
+
+Date: 2026-07-23
 
 ### Contención en las Bolsas con el petróleo en máximos de seis semanas
 
@@ -62,14 +68,7 @@ El pesimismo en torno a las negociaciones de paz entre EE UU e Irán, después d
 
 Date: 2026-07-22
 
-### La banca se apoya en la subida del euríbor para apuntar a nuevos máximos de beneficios
-
-El panorama de los bancos se ha dado la vuelta como un calcetín en los últimos meses. Si antes vivían una era de tipos a la baja e incrementos en la cartera de préstamos, la guerra en Irán ha girado los tornos. El Banco Central Europeo (BCE) ha subido el precio del dinero por primera vez en tres años mientras el euríbo.
-
-Date: 2026-07-21
-
 ## Fuentes
 
-- [Contención en las Bolsas con el petróleo en máximos de seis semanas](https://cincodias.elpais.com/mercados-financieros/2026-07-23/la-bolsa-y-el-ibex-35.html?utm_source=lootura.com) — 2026-07-23T04:39:18.000Z
-- [Trump autoriza un pacto nuclear que permitirá a Arabia Saudí enriquecer uranio](https://elpais.com/internacional/2026-07-22/trump-autoriza-un-pacto-nuclear-que-permitira-a-arabia-saudi-enriquecer-uranio.html?utm_source=lootura.com) — 2026-07-22T19:34:04.000Z
-- [Trump amenaza con destruir puentes o centrales eléctricas cada vez que Irán ataque un barco en Ormuz](https://elpais.com/internacional/2026-07-22/trump-amenaza-con-destruir-puentes-o-centrales-electricas-cada-vez-que-teheran-ataque-un-barco-ormuz.html?utm_source=lootura.com) — 2026-07-22T18:31:32.000Z
+- [Ford y la china Geely se alían en una empresa conjunta para elevar la producción de Almussafes a cinco coches](https://www.20minutos.es/comunidad-valenciana/ford-china-geely-se-alian-una-empresa-conjunta-para-elevar-produccion-almussafes-cinco-vehiculos_7018077_0.html?utm_source=lootura.com) — 2026-07-23T09:43:48.000Z
+- [El precio de los carburantes, desbocado por el fin de la rebaja del IVA: el depósito se encarece un 13% en tres semanas, un euro extra cada 48 horas](https://www.larazon.es/economia/precio-carburantes-desbocado-fin-rebaja-iva-deposito-encarece-13-tres-semanas-euro-extra-cada-48-horas_202607236a61e729aa17c0020f2b603d.html?utm_source=lootura.com) — 2026-07-23T10:05:15.000Z

@@ -1,0 +1,45 @@
+{
+  "id": "es-camara-baja",
+  "name": "Cámara Baja",
+  "type": "person",
+  "locale": "es",
+  "canonicalPath": "/es/person/camara-baja",
+  "canonicalUrl": "https://atlas.lootura.com/es/person/camara-baja",
+  "markdownUrl": "https://atlas.lootura.com/es/person/camara-baja/index.md",
+  "jsonUrl": "https://atlas.lootura.com/es/person/camara-baja/index.json",
+  "description": "Sigue la actividad de Cámara Baja en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
+  "updatedAt": "2026-07-23T10:20:05.700Z",
+  "aliases": [],
+  "changes": [
+    {
+      "title": "Ortega Smith ocupará el despacho y el escaño de Ábalos en el Congreso",
+      "summary": "El concejal y diputado Javier Ortega Smith , quien la semana pasada anunció que dejaba el Grupo Parlamentario Vox en el Congreso, ocupará a partir de ahora el despacho del exministro José Luis Ábalos y el escaño que ostentó en la Cámara Baja durante el tiempo que este estuvo en el Grupo Mixto.Así lo indicaron fuentes p.",
+      "date": "2026-07-23"
+    },
+    {
+      "title": "Última hora de la actualidad política, en directo | El PSOE espera de la entrevista a Zapatero que dé “explicaciones que despejen dudas”",
+      "summary": "El portavoz del PSOE en el Congreso, Patxi López, ha dicho este jueves a su llegada a la Cámara Baja que lo que espera de la entrevista que va a dar el expresidente del Gobierno José Luis Rodríguez Zapatero en TVE es “lo que hemos esperado siempre, explicaciones que despejen dudas”. “Yo desde el primer día dije y mante.",
+      "date": "2026-07-23"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Cámara Baja first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-07-23"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Ortega Smith ocupará el despacho y el escaño de Ábalos en el Congreso",
+      "url": "https://www.abc.es/espana/ortega-smith-ocupara-despacho-escano-abalos-congreso-20260723112101-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-23T09:49:42.000Z",
+      "sourceId": "lootura-es-abc"
+    },
+    {
+      "title": "Última hora de la actualidad política, en directo | El PSOE espera de la entrevista a Zapatero que dé “explicaciones que despejen dudas”",
+      "url": "https://elpais.com/espana/2026-07-23/ultima-hora-de-la-actualidad-politica-en-directo.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-23T10:05:49.000Z",
+      "sourceId": "lootura-es-el-pais"
+    }
+  ],
+  "evidenceCount": 2
+}

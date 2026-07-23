@@ -3,10 +3,16 @@
 > Sigue la actividad de San Sebastián en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-23T06:28:35.711Z
+- Actualizado: 2026-07-23T10:20:05.700Z
 - Canonical: https://atlas.lootura.com/es/place/san-sebastian
 
 ## Cambios recientes
+
+### Una avería provoca retrasos en varias líneas de Cercanáis Madrid entre Villaverde Bajo y Atocha
+
+La circulación de Cercanías permanece interrumpida desde primera hora de este viernes entre Villaverde Bajo y Atocha en las líneas C3 (Aranjuez-Chamartín) y C4 ( Parla-San Sebastián de los Reyes ) debido a una avería que afecta al sistema de señalización. Adif ha señalado que los equipos técnicos han trabajado para sol.
+
+Date: 2026-07-23
 
 ### Profanan una tumba del Cementerio de los Ingleses de San Sebastián: «Ha aparecido con la lápida rota y abierta»
 
@@ -62,12 +68,6 @@ Opera por primera vez en Euskadi a lactantes para corregir el estrechamiento ent
 
 Date: 2026-07-18
 
-### La rebelión fracasa en Donostia pero la ciudad cae bajo un clima prebélico
-
-Los sublevados contra la República se atrincheraron los primeros días en San Sebastián, que cayó el 13 de septiembre tras dos meses de lucha y bombardeos en los que la ciudad vivió una cruenta espiral de muerte.
-
-Date: 2026-07-18
-
 ## Fuentes
 
-- [Profanan una tumba del Cementerio de los Ingleses de San Sebastián: «Ha aparecido con la lápida rota y abierta»](https://www.diariovasco.com/san-sebastian/profanan-tumba-cementerio-ingleses-monte-urgull-20260722115557-nt_amp.html?utm_source=lootura.com) — 2026-07-22T09:57:08.000Z
+- [Una avería provoca retrasos en varias líneas de Cercanáis Madrid entre Villaverde Bajo y Atocha](https://www.elconfidencial.com/espana/madrid/2026-07-23/cercanias-incidencia-retrasos-madrid-1tna-1tps_4394658/?utm_source=lootura.com) — 2026-07-23T08:22:00.000Z

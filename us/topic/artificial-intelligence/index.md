@@ -3,10 +3,16 @@
 > Follow Artificial intelligence, a tracked topic, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: topic
-- Updated: 2026-07-23T06:29:04.058Z
+- Updated: 2026-07-23T10:20:24.199Z
 - Canonical: https://atlas.lootura.com/us/topic/artificial-intelligence
 
 ## Recent changes
+
+### A town renamed its festival 'AI Love Irondale Day.' Then came the comments
+
+The online outcry over the renaming of a summer festival illustrates the unease over the data center boom in the South. (Image credit: Stephan Bisaha).
+
+Date: 2026-07-23
 
 ### Funding milestone detected
 
@@ -62,15 +68,10 @@ Content Seal sounds a lot like a less accessible and reliable version of SynthID
 
 Date: 2026-07-22
 
-### Detailed maps of European wetlands reveal overlooked patches of ecosystems
-
-Nature, Published online: 20 July 2026; doi:10.1038/d41586-026-02211-2 Satellite images have been analysed by a machine-learning algorithm to produce high-resolution maps of wetland environments — a boon for conservation efforts.
-
-Date: 2026-07-22
-
 ## Sources
 
 - [ChatGPT's medical advice nearly killed a man, lawsuit claims](https://www.cbsnews.com/news/chatgpt-dangerous-medical-advice-openai-lawsuit/?utm_source=lootura.com) — 2026-07-22T20:45:33.000Z
 - [In pursuit of 'Instagram face,' are we losing the imperfections that make us human?](https://www.npr.org/2026/07/22/nx-s1-5902070/jia-tolentino-instagram-face-plastic-surgery?utm_source=lootura.com) — 2026-07-22T17:11:19.000Z
+- [A town renamed its festival 'AI Love Irondale Day.' Then came the comments](https://www.npr.org/2026/07/23/nx-s1-5896481/data-center-backlash-ai-love-irondale-day?utm_source=lootura.com) — 2026-07-23T09:00:00.000Z
 - [Breakthroughs in Chinese AI models threaten U.S. lead in tech race](https://www.pbs.org/newshour/show/breakthroughs-in-chinese-ai-models-threaten-u-s-lead-in-tech-race?utm_source=lootura.com) — 2026-07-22T22:35:28.000Z
 - [Stocks and the Economy Are Increasingly Relying on the A.I. Boom](https://www.nytimes.com/2026/07/22/business/economy/stocks-economy-ai.html?utm_source=lootura.com) — 2026-07-22T15:46:48.000Z

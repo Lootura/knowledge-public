@@ -3,10 +3,22 @@
 > Sigue la actividad de Donald Trump en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-23T06:28:35.711Z
+- Actualizado: 2026-07-23T10:20:05.700Z
 - Canonical: https://atlas.lootura.com/es/person/donald-trump
 
 ## Cambios recientes
+
+### El Gobierno propone a la vicepresidenta Yolanda Díaz como candidata a dirigir la OIT
+
+El presidente Sánchez anuncia el "honor" de postular a su ministra de Trabajo quien "ha demostrado con políticas y resultados su compromiso con los derechos laborales, el diálogo social y la prosperidad de España" Qué es la OIT: el organismo de Naciones Unidas amenazado por Trump en el que sitúan a Yolanda Díaz El Gobi.
+
+Date: 2026-07-23
+
+### Trump evalúa ahora la posibilidad de atacar a yihadistas en Mali
+
+El presidente de Estados Unidos, Donald Trump, está considerando lanzar una operación militar contra un grupo yihadista vinculado a Al Qaeda en Mali, según informó este miércoles The Washington Post. El diario, que cita a altos funcionarios estadounidenses bajo condición de anonimato, señala que la propuesta ha generad.
+
+Date: 2026-07-23
 
 ### El pacto nuclear de EE.UU. con Arabia Saudí hace temer una carrera atómica en Oriente Próximo
 
@@ -56,20 +68,7 @@ Fuentes oficiales de la Casa Blanca han filtrado a los principales medios de pre
 
 Date: 2026-07-22
 
-### Trump sopesa proponer a Infantino como secretario general de la ONU, según el 'New York Post'
-
-El presidente de Estados Unidos, Donald Trump, estaría sopesando presentar la candidatura de Gianni Infantino, presidente de la FIFA, para ocupar el cargo de secretario general de Naciones Unidas y convertirse en el décimo mandatario en asumir la función , según ha adelantado este martes el 'New York Post'. Trump sosti.
-
-Date: 2026-07-22
-
-### Trump sopesa proponer a Infantino como secretario general de la ONU, según el 'New York Post'
-
-La designación no es tan sencilla, ya que combina un procedimiento formal fijado en la Carta de las Naciones Unidas con intensas negociaciones a puerta cerrada entre las grandes potencias.
-
-Date: 2026-07-22
-
 ## Fuentes
 
-- [El pacto nuclear de EE.UU. con Arabia Saudí hace temer una carrera atómica en Oriente Próximo](https://www.abc.es/internacional/eeuu-arabia-saudi-firman-acuerdo-nuclear-despierta-20260722210722-nt.html?utm_source=lootura.com) — 2026-07-23T05:20:41.000Z
-- [Trump autoriza un pacto nuclear que permitirá a Arabia Saudí enriquecer uranio](https://elpais.com/internacional/2026-07-22/trump-autoriza-un-pacto-nuclear-que-permitira-a-arabia-saudi-enriquecer-uranio.html?utm_source=lootura.com) — 2026-07-22T19:34:04.000Z
-- [Trump amenaza con destruir puentes o centrales eléctricas cada vez que Irán ataque un barco en Ormuz](https://elpais.com/internacional/2026-07-22/trump-amenaza-con-destruir-puentes-o-centrales-electricas-cada-vez-que-teheran-ataque-un-barco-ormuz.html?utm_source=lootura.com) — 2026-07-22T18:31:32.000Z
+- [El Gobierno propone a la vicepresidenta Yolanda Díaz como candidata a dirigir la OIT](https://www.eldiario.es/economia/gobierno-propone-vicepresidenta-yolanda-diaz-candidata-dirigir-oit_1_13400602.html?utm_source=lootura.com) — 2026-07-23T06:55:31.000Z
+- [Trump evalúa ahora la posibilidad de atacar a yihadistas en Mali](https://www.larazon.es/internacional/trump-evalua-ahora-posibilidad-atacar-yihadistas-mali_202607236a61e89d4687a22bdec94390.html?utm_source=lootura.com) — 2026-07-23T10:10:37.000Z

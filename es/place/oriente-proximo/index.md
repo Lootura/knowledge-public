@@ -70,6 +70,4 @@ Date: 2026-07-22
 
 ## Fuentes
 
-- [El pacto nuclear de EE.UU. con Arabia Saudí hace temer una carrera atómica en Oriente Próximo](https://www.abc.es/internacional/eeuu-arabia-saudi-firman-acuerdo-nuclear-despierta-20260722210722-nt.html?utm_source=lootura.com) — 2026-07-23T05:20:41.000Z
-- [Los hutíes de Yemen atacan dos buques de Arabia Saudí en Ormuz e intensifican el conflicto en Oriente Próximo](https://www.abc.es/internacional/huties-yemen-atacan-dos-buques-arabia-saudi-20260723080327-nt.html?utm_source=lootura.com) — 2026-07-23T06:03:28.000Z
-- [La rentabilidad de los bonos, en máximos a la espera del BCE](https://www.expansion.com/mercados/renta-fija/2026/07/23/6a610c94468aebbc5b8b45b7.html?utm_source=lootura.com) — 2026-07-23T00:04:27.000Z
+No public source links.

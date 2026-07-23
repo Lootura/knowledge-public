@@ -3,10 +3,40 @@
 > Sigue la actividad de Pedro Sánchez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-23T06:28:35.711Z
+- Actualizado: 2026-07-23T10:20:05.700Z
 - Canonical: https://atlas.lootura.com/es/person/pedro-sanchez
 
 ## Cambios recientes
+
+### Denuncia contra David Sánchez Pérez-Castejón ante el Tribunal de Cuentas para que devuelva las nóminas que cobró en la Diputación de Badajoz
+
+Una de las acusaciones particulares, Iustitia Europa, quiere que tanto el hermano del presidente del Gobierno como su amigo de Moncloa devuelvan los ingresos públicos que recibieron tras no requerirlos ni la Diputación de Badajoz ni la Fiscalía Leer.
+
+Date: 2026-07-23
+
+### Javier Ruiz, sobre irse de la RTVE de Pedro Sánchez y 'Mañaneros '360': «Me dan ganas de dejarlo todas las mañanas. Hay un coste humano»
+
+El presentador de 'Mañaneros' entrevistará a José Luis Rodríguez Zapatero este jueves tras la declaración de Julio Martínez.
+
+Date: 2026-07-23
+
+### El Gobierno propone a Yolanda Díaz para dirigir la Organización Internacional del Trabajo
+
+Sánchez destaca que la vicepresidenta "ha demostrado con políticas y resultados su compromiso con los derechos laborales, el diálogo social y la prosperidad de España" Leer.
+
+Date: 2026-07-23
+
+### El Gobierno propone a la vicepresidenta Yolanda Díaz como candidata a dirigir la OIT
+
+El presidente Sánchez anuncia el "honor" de postular a su ministra de Trabajo quien "ha demostrado con políticas y resultados su compromiso con los derechos laborales, el diálogo social y la prosperidad de España" Qué es la OIT: el organismo de Naciones Unidas amenazado por Trump en el que sitúan a Yolanda Díaz El Gobi.
+
+Date: 2026-07-23
+
+### Junts insiste en que Sánchez se aparte y se «ponga a alguien» que cumpla los compromisos
+
+La portavoz de Junts en el Congreso, Miriam Nogueras, ha exigido hoy que se aparte Pedro Sánchez y se «ponga a alguien» que cumpla los acuerdos con Junts . Además, y en cuanto a la propuesta de financiación autonómica, ha exigido que Cataluña tenga la «llave de la caja» para recaudar y gestionar los recursos y ha empla.
+
+Date: 2026-07-23
 
 ### El PP y Vox suben tras el caso Zapatero y amplían la brecha con el PSOE y sus socios
 
@@ -32,46 +62,16 @@ El 7 de enero de 2020 PSOE y Unidas Podemos pusieron en marcha el primer Gobiern
 
 Date: 2026-07-23
 
-### Denuncia contra David Sánchez Pérez-Castejón ante el Tribunal de Cuentas para que devuelva las nóminas que cobró en la Diputación de Badajoz
-
-Una de las acusaciones particulares, Iustitia Europa, quiere que tanto el hermano del presidente del Gobierno como su amigo de Moncloa devuelvan los ingresos públicos que recibieron tras no requerirlos ni la Diputación de Badajoz ni la Fiscalía Leer.
-
-Date: 2026-07-23
-
 ### Feijóo sitúa a Sánchez como "el señor X" de todos los casos del PSOE y promete "una limpieza a fondo" de las instituciones
 
 Comienza la "cuenta atrás" para el PP. Alberto Núñez Feijóo mira ya hacia las elecciones generales y mete la directa hacia "el cambio". Un cambio...
 
 Date: 2026-07-22
 
-### La china Geely llega a un acuerdo con Ford para producir coches en su fábrica de Almussafes
-
-El presidente de Ford Europa, Jim Baumbick, oficializará el anuncio este jueves, en presencia de Pedro Sánchez y Juanfran Pérez Llorca, para garantizar la supervivencia de la planta valenciana Leer.
-
-Date: 2026-07-22
-
-### Narbona afirma que Sánchez "ha asumido la responsabilidad política" por los casos de corrupción y defiende a Zapatero "por su enorme legado"
-
-La presidenta del PSOE admite conocer a Leire Díez, la llamada 'fontanera' del partido, desde hace años pero, recalca: "No he sido su madrina para nada" Leer.
-
-Date: 2026-07-22
-
-### Narbona niega haber hablado con Sánchez sobre Leire Díez y reivindica el "respeto que merece" Zapatero
-
-La presidenta del PSOE , Cristina Narbona, ha acudido este martes a la comisión de investigación del caso Koldo en el Senado , convocada por los mensajes de WhatsApp que intercambió con Leire Díez y otros asuntos judiciales que afectan a Ferraz. En lo referente al caso Leire, se ha desvinculado por completo de la supue.
-
-Date: 2026-07-22
-
-### Feijóo promete una «limpieza a fondo y no un relevo» cuando Sánchez salga de Moncloa
-
-Alberto Núñez Feijóo empezó su balance del curso político sentenciando que el Gobierno «está políticamente acabado, parlamentariamente bloqueado y éticamente inhabilitado» y volvió a reclamar, una vez más, elecciones generales adelantadas como «única salida razonable y democrática» ante la avalancha de casos de corrupc.
-
-Date: 2026-07-22
-
 ## Fuentes
 
-- [El PP y Vox suben tras el caso Zapatero y amplían la brecha con el PSOE y sus socios](https://www.20minutos.es/nacional/pp-vox-suben-tras-caso-zapatero-amplian-brecha-con-psoe-sus-socios_7017602_0.html?utm_source=lootura.com) — 2026-07-23T03:00:00.000Z
-- [Casi el 40% de los votantes socialistas no ve que haya un candidato alternativo a Sánchez en unas elecciones](https://www.20minutos.es/nacional/casi-40-votantes-socialistas-no-ve-candidato-alternativo-sanchez_7017637_0.html?utm_source=lootura.com) — 2026-07-23T03:00:00.000Z
-- [La valoración de los líderes políticos cae y Sánchez se mantiene en cabeza](https://www.20minutos.es/nacional/valoracion-los-lideres-politicos-cae-sanchez-se-mantiene-cabeza_7017693_0.html?utm_source=lootura.com) — 2026-07-23T03:00:00.000Z
-- [Un Consejo de Ministros bajo sospecha por el caso](https://www.abc.es/espana/consejo-ministros-bajo-sospecha-plus-ultra-20260723014056-nt.html?utm_source=lootura.com) — 2026-07-23T05:20:35.000Z
+- [Javier Ruiz, sobre irse de la RTVE de Pedro Sánchez y 'Mañaneros '360': «Me dan ganas de dejarlo todas las mañanas. Hay un coste humano»](https://www.abc.es/play/television/noticias/javier-ruiz-tajante-sobre-irse-rtve-pedro-20260723104318-nt_amp.html?utm_source=lootura.com) — 2026-07-23T08:43:19.000Z
+- [El Gobierno propone a Yolanda Díaz para dirigir la Organización Internacional del Trabajo](https://www.elmundo.es/economia/2026/07/23/6a61bd11e4d4d85a3e8b456f.html?utm_source=lootura.com) — 2026-07-23T07:55:56.000Z
 - [Denuncia contra David Sánchez Pérez-Castejón ante el Tribunal de Cuentas para que devuelva las nóminas que cobró en la Diputación de Badajoz](https://www.elmundo.es/espana/2026/07/23/6a612007e4d4d892728b4571.html?utm_source=lootura.com) — 2026-07-23T05:01:46.000Z
+- [El Gobierno propone a la vicepresidenta Yolanda Díaz como candidata a dirigir la OIT](https://www.eldiario.es/economia/gobierno-propone-vicepresidenta-yolanda-diaz-candidata-dirigir-oit_1_13400602.html?utm_source=lootura.com) — 2026-07-23T06:55:31.000Z
+- [Junts insiste en que Sánchez se aparte y se «ponga a alguien» que cumpla los compromisos](https://theobjective.com/espana/politica/2026-07-23/junts-sanchez-se-aparte-alguien-cumpla-compromisos/?utm_source=lootura.com) — 2026-07-23T09:42:09.000Z

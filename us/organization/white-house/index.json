@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/white-house/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/white-house/index.json",
   "description": "Follow White House, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-23T06:29:04.058Z",
+  "updatedAt": "2026-07-23T10:20:24.199Z",
   "aliases": [
     "1600 Pennsylvania Avenue",
     "Executive Mansion",
@@ -19,9 +19,14 @@
   ],
   "changes": [
     {
-      "title": "‘Off the charts’: Secret Service describes rising threats to protectees",
-      "summary": "Despite the heightened environment, the Secret Service says it’s confident in plans for the rescheduled White House Correspondents’ Association dinner.",
-      "date": "2026-07-22"
+      "title": "The White House pushes healthy eating. It cut a landmark nutrition education program",
+      "summary": "Nutrition advocates and public health experts are mystified by the decision to eliminate SNAP-Ed, given the Trump administration's embrace of the Make America Healthy Again agenda. (Image credit: Rachel Wisniewski for NPR).",
+      "date": "2026-07-23"
+    },
+    {
+      "title": "'New York Times' alleges White House abuses legal system to intimidate reporters",
+      "summary": "The New York Times reported earlier this month that security concerns had led the Secret Service to urge Trump to fly home from Turkey on a different jet.'/> The New York Times will argue in court Thursday that the White House is abusing the justice system to intimidate reporters over a story that angered President Tru.",
+      "date": "2026-07-23"
     },
     {
       "title": "Trump escalates threats, vows to target Iranian bridges and power plants",
@@ -31,6 +36,11 @@
     {
       "title": "Funding milestone detected",
       "summary": "Breakthroughs in Chinese AI models are sending shockwaves through Washington and Silicon Valley. Chinese companies are narrowing the AI gap despite vast differences in computing power and resources. It comes as the White House is planning to redirect billions in funding from universities to individuals in a bid to acce.",
+      "date": "2026-07-22"
+    },
+    {
+      "title": "‘Off the charts’: Secret Service describes rising threats to protectees",
+      "summary": "Despite the heightened environment, the Secret Service says it’s confident in plans for the rescheduled White House Correspondents’ Association dinner.",
       "date": "2026-07-22"
     },
     {
@@ -57,24 +67,20 @@
       "title": "White House Says New Air Force One Will Be Out of Service for a Month for ‘Upgrades’",
       "summary": "The White House press secretary said the unspecified “enhancements” would take place this fall. The plane has been under scrutiny over whether it has sufficient defensive capabilities.",
       "date": "2026-07-20"
-    },
-    {
-      "title": "Democrats avoid a messy fight in Maine, but uncertainty lingers: From the Politics Desk",
-      "summary": "Welcome to From the Politics Desk, a daily newsletter that brings you the NBC News Politics team’s latest reporting and analysis from the White House, Capitol Hill and the campaign trail.",
-      "date": "2026-07-20"
-    },
-    {
-      "title": "Face the Nation: Hochul, Homan, Moynihan",
-      "summary": "Missed the second half of the show? New York Gov. Kathy Hochul, White House border czar Tom Homan and Bank of America CEO Brian Moynihan join the show.",
-      "date": "2026-07-19"
     }
   ],
   "sources": [
     {
-      "title": "‘Off the charts’: Secret Service describes rising threats to protectees",
-      "url": "https://www.nbcnews.com/politics/national-security/-charts-secret-service-describes-rising-threats-protectees-rcna588819?utm_source=lootura.com",
-      "publishedAt": "2026-07-22T23:46:14.000Z",
-      "sourceId": "lootura-us-nbc-news-politics"
+      "title": "The White House pushes healthy eating. It cut a landmark nutrition education program",
+      "url": "https://www.npr.org/2026/07/23/nx-s1-5896280/snap-ed-healthy-eating-cuts-maha?utm_source=lootura.com",
+      "publishedAt": "2026-07-23T09:00:00.000Z",
+      "sourceId": "lootura-us-npr"
+    },
+    {
+      "title": "'New York Times' alleges White House abuses legal system to intimidate reporters",
+      "url": "https://www.npr.org/2026/07/23/nx-s1-5903854/trump-new-air-force-one-nyt-subpoenas?utm_source=lootura.com",
+      "publishedAt": "2026-07-23T09:00:00.000Z",
+      "sourceId": "lootura-us-npr-politics"
     },
     {
       "title": "Trump escalates threats, vows to target Iranian bridges and power plants",
@@ -89,5 +95,5 @@
       "sourceId": "lootura-us-pbs-newshour"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 4
 }
