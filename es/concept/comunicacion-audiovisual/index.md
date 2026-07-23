@@ -22,7 +22,7 @@ Date: 2026-07-23
 
 ### Discovered by Atlas
 
-Comunicación Audiovisual first entered the public knowledge record with source-backed evidence.
+Comunicación audiovisual first entered the public knowledge record with source-backed evidence.
 
 Date: 2026-07-23
 
