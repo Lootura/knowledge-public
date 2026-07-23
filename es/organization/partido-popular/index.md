@@ -3,7 +3,7 @@
 > Sigue la actividad de Partido Popular en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-23T17:19:26.220Z
+- Actualizado: 2026-07-23T21:01:09.831Z
 - Canonical: https://atlas.lootura.com/es/organization/partido-popular
 
 ## Cambios recientes
@@ -20,56 +20,63 @@ La portavoz del PP en el Congreso, Ester Muñoz, ha cargado contra el expresiden
 
 Date: 2026-07-23
 
-### Las comunidades del PP plantan al Gobierno en la reunión sobre regularización de migrantes y fuerzan su suspensión
+### El Congreso convalida el nuevo decreto anticrisis por la guerra en Irán entre críticas de los grupos por considerarlo "insuficiente"
 
-La reunión, destinada a abordar el balance del proceso de regularización extraordinaria de migrantes o la aplicación del Pacto Europeo de Migración y Asilo, solo ha contado con la representación de seis autonomías: Navarra, Euskadi, Catalunya, Canarias, Asturias y Castilla-La Mancha El Tribunal Supremo rechaza llevar l.
-
-Date: 2026-07-23
-
-### El PP pide la dimisión de Rosario Sánchez por apoyar la protesta antiturismo de Palma siendo el máximo cargo del sector
-
-El senador y portavoz de turismo del Partido Popular en el Senado , Agustín Alomodóbar , ha registrado este jueves una batería de preguntas en la Cámara Alta para que el Gobierno apoye o reprenda a la secretaria de Estado de Turismo y candi target="_blank" rel="noopener noreferrer">por apoyar públicamente la manifestac.
+El Congreso ha convalidado este jueves, con el apoyo de la mayoría de los grupos, la abstención del PP y Podemos y el rechazo de Vox, un nuevo decreto anticrisis, más limitado que el anterior , para hacer frente a las consecuencias económicas de la guerra en Irán. La norma, en vigor desde hace un mes, prorroga parte de.
 
 Date: 2026-07-23
 
-### El Gobierno reintentará tras el verano firmar el Pacto de Estado antiincendios y confía en que el PP se sume tras ver "rectificar" a Feijóo
+### El Congreso consuma la cesión al nacionalismo para facilitarle formar grupo propio
 
-Un año después de hacerlo por primera vez en septiembre del año pasado, el Gobierno volverá convocar a los partidos políticos después del verano para intentar firmar un Pacto de Estado contra la Emergencia Climática , en esta ocasión con algo más de confianza de que el PP se siente a negociar, después de que hace días.
-
-Date: 2026-07-23
-
-### El PP exige la dimisión de Morant por comparar un gobierno de Feijóo con Hitler: "Está en una situación desesperada"
-
-El secretario general del PP, Miguel Tellado , ha reclamado este jueves la dimisión inmediata de la ministra de Ciencia y líder del PSPV-PSOE, Diana Morant , después de que esta comparase un eventual Gobierno presidido por Alberto Núñez Feijóo con el “criminal” Hitler . A su entender, esas palabras definen tanto a la d.
+La próxima vez que se repartan cartas, es decir, después de las siguientes elecciones generales, los partidos nacionalistas y minoritarios tendrán más fácil formar su propio grupo parlamentario. El Congreso de los Diputados ha aprobado este jueves, con el voto en contra de PP, Vox y Unión del Pueblo Navarro (UPN), una.
 
 Date: 2026-07-23
 
-### El Parlamento reelige a Arenas, Díaz y Espadas y designa a Montero, Zancajo y Aguirre como senadores por la comunidad
+### Vox y PP piden a Tribunal de Cuentas que investigue a la Diputación de Badajoz tras la condena al hermano de Sánchez
 
-Los que han obtenido más votos han sido los senadores propuestos por el PP-A, con un total de 98; los del PSOE-A, 83, y los de Vox, 65 votos.
-
-Date: 2026-07-23
-
-### El PP y Vox suben tras el caso Zapatero y amplían la brecha con el PSOE y sus socios
-
-El goteo de presuntos casos de corrupción está pasando factura al PSOE . Según el barómetro de julio elaborado por el Instituto DYM para 20minutos , si mañana se celebrasen elecciones, el PP sería la fuerza más votada y ampliaría su distancia con respecto a un PSOE en retroceso. El partido de Pedro Sánchez lleva desde.
+Vox y PP han pedido al Tribunal de Cuentas que investigue por responsabilidad contable a la Diputación de Badajoz tras la condena a David Sánchez , hermano del presidente del Gobierno, por prevaricación administrativa por la plaza que se le concedió de manera irregular, según la sentencia, en la institución provincial.
 
 Date: 2026-07-23
 
-### El PP denuncia que un udaleku de la Diputación de Gipuzkoa reprendió a niños por pintar la bandera española
+### El Gobierno y sus socios se unen para frenar el intento de PP y Vox de torpedear la quita de la deuda autonómica
 
-El padre lleva al Ararteko el caso de su hija, a la que monitores impidieron dibujar una bandera en apoyo a la selección y Lezama interpela a Mendoza.
+Junts votará en el Congreso junto al Ejecutivo y sus habituales aliados para que continúe tramitándose la ley que permitirá a las comunidades solicitar al Estado que asuma una parte de su deuda pública El Gobierno aprueba la quita de la deuda de las comunidades por 83.252 millones: estas son las claves El proyecto de l.
 
-Date: 2026-07-22
+Date: 2026-07-23
 
-### Feijóo sitúa a Sánchez como "el señor X" de todos los casos del PSOE y promete "una limpieza a fondo" de las instituciones
+### El Congreso aprueba definitivamente la pasarela de los mutualistas a la Seguridad Social, pero excluye a los ya jubilados
 
-Comienza la "cuenta atrás" para el PP. Alberto Núñez Feijóo mira ya hacia las elecciones generales y mete la directa hacia "el cambio". Un cambio...
+Los grupos votan a favor de que cobren pensiones públicas pero la autoenmienda del PP deja fuera a los pasivos El Senado envía la pasarela de mutualistas a la Seguridad Social a su votación definitiva sin acceso de los pensionistas Los mutualistas con una pensión privada insuficiente podrán acogerse al régimen especial.
 
-Date: 2026-07-22
+Date: 2026-07-23
+
+### Sánchez, a Feijóo: "Se le ha olvidado que hay unas elecciones de por medio, y ya veremos"
+
+"Una cosa sí que es cierta, leía en un periódico que ya asume que van a ser en 2027", ha añadido Sánchez, en alusión a que el líder del PP, que pide una y otra vez un adelanto electoral, ha expresado públicamente que finalmente los comicios serán el próximo año Feijóo da por hecha su llegada a Moncloa sin esperar a las.
+
+Date: 2026-07-23
+
+### El Congreso rechaza otra vez la senda de déficit con el voto de PP, Vox y Junts y da vía libre al Gobierno para el Presupuesto
+
+El Ejecutivo cumple el trámite de las dos votaciones de la senda de estabilidad para volver de las vacaciones con todo preparado para presentar las cuentas públicas El Gobierno salva el escudo anticrisis por la guerra en Irán con rebajas fiscales en los carburantes hasta octubre El Congreso ha tumbado con los votos del.
+
+Date: 2026-07-23
+
+### El Congreso vuelve a rechazar la senda de déficit con los votos en contra de PP, Vox y Junts
+
+El pleno del Congreso de los Diputados ha rechazado de nuevo la senda de déficit propuesta por el Gobierno prevista para 2027-2020 con los votos en contra de PP, Vox y Junts. El resultado ha sido el mismo que hace una semana, cuando se votó por primera vez. La negativa del Congreso supone un nuevo revés para el Gobiern.
+
+Date: 2026-07-23
 
 ## Fuentes
 
+- [El Congreso convalida el nuevo decreto anticrisis por la guerra en Irán entre críticas de los grupos por considerarlo "insuficiente"](https://www.20minutos.es/nacional/congreso-convalida-nuevo-decreto-anticrisis-por-guerra-iran-entre-criticas-los-grupos-por-ser-insuficiente_7018223_0.html?utm_source=lootura.com) — 2026-07-23T18:51:43.000Z
+- [El Congreso consuma la cesión al nacionalismo para facilitarle formar grupo propio](https://www.abc.es/espana/congreso-consuma-cesion-nacionalismo-facilitarle-formar-grupo-20260723175410-nt.html?utm_source=lootura.com) — 2026-07-23T19:23:21.000Z
 - [El PP denuncia que un udaleku de la Diputación de Gipuzkoa reprendió a niños por pintar la bandera española](https://www.diariovasco.com/politica/pp-denuncia-udaleku-diputacion-gipuzkoa-reprendio-ninos-20260723014543-nt_amp.html?utm_source=lootura.com) — 2026-07-22T23:45:57.000Z
+- [Vox y PP piden a Tribunal de Cuentas que investigue a la Diputación de Badajoz tras la condena al hermano de Sánchez](https://www.elindependiente.com/espana/2026/07/23/vox-y-pp-piden-a-tribunal-de-cuentas-que-investigue-a-la-diputacion-de-badajoz-tras-la-condena-al-hermano-de-sanchez/?utm_source=lootura.com) — 2026-07-23T18:16:42.000Z
 - [El PP planta al Gobierno en la Conferencia de Inmigración y le acusa de "deslealtad"](https://www.elmundo.es/espana/2026/07/23/6a620419fdddffd36e8b45a4.html?utm_source=lootura.com) — 2026-07-23T12:29:53.000Z
 - [Última hora de la actualidad política, en directo | El PSOE mantiene “exactamente la misma posición” en su defensa del exjefe de Gobierno](https://elpais.com/espana/2026-07-23/ultima-hora-de-la-actualidad-politica-en-directo.html?utm_source=lootura.com) — 2026-07-23T13:37:20.000Z
+- [El Gobierno y sus socios se unen para frenar el intento de PP y Vox de torpedear la quita de la deuda autonómica](https://www.eldiario.es/politica/gobierno-socios-unen-frenar-pp-vox-torpedear-quita-deuda-autonomica_1_13402923.html?utm_source=lootura.com) — 2026-07-23T18:12:33.000Z
+- [El Congreso aprueba definitivamente la pasarela de los mutualistas a la Seguridad Social, pero excluye a los ya jubilados](https://www.eldiario.es/economia/congreso-aprueba-definitivamente-pasarela-mutualistas-seguridad-social-excluye-jubilados_1_13403158.html?utm_source=lootura.com) — 2026-07-23T19:24:42.000Z
+- [Sánchez, a Feijóo: "Se le ha olvidado que hay unas elecciones de por medio, y ya veremos"](https://www.eldiario.es/politica/sanchez-feijoo-le-olvidado-hay-elecciones-medio-veremos_1_13403082.html?utm_source=lootura.com) — 2026-07-23T18:29:29.000Z
+- [El Congreso rechaza otra vez la senda de déficit con el voto de PP, Vox y Junts y da vía libre al Gobierno para el Presupuesto](https://www.eldiario.es/economia/congreso-rechaza-vez-senda-deficit-voto-pp-vox-junts-da-via-libre-gobierno-presupuesto_1_13402684.html?utm_source=lootura.com) — 2026-07-23T18:59:41.000Z

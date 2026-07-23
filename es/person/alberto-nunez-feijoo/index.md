@@ -3,10 +3,16 @@
 > Sigue la actividad de Alberto Núñez Feijóo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-23T17:19:26.220Z
+- Actualizado: 2026-07-23T21:01:09.831Z
 - Canonical: https://atlas.lootura.com/es/person/alberto-nunez-feijoo
 
 ## Cambios recientes
+
+### Sánchez, a Feijóo: "Se le ha olvidado que hay unas elecciones de por medio, y ya veremos"
+
+"Una cosa sí que es cierta, leía en un periódico que ya asume que van a ser en 2027", ha añadido Sánchez, en alusión a que el líder del PP, que pide una y otra vez un adelanto electoral, ha expresado públicamente que finalmente los comicios serán el próximo año Feijóo da por hecha su llegada a Moncloa sin esperar a las.
+
+Date: 2026-07-23
 
 ### La desvergüenza de comparar a Feijóo con Hitler
 
@@ -62,12 +68,6 @@ Date: 2026-07-22
 
 Date: 2026-07-22
 
-### Feijóo arremete contra Sánchez: “Son sus últimas Navidades en la Moncloa”
-
-Alberto Núñez Feijóo ha hecho este miércoles balance del curso político que ha acabado y ha dado la legislatura por finiquitada en un momento en que la debilidad del Gobierno en el Congreso impide prácticamente la aprobación de leyes y los casos de corrupción cercan al entorno político y personal de Pedro Sánchez. Fren.
-
-Date: 2026-07-22
-
 ## Fuentes
 
-- [La desvergüenza de comparar a Feijóo con Hitler](https://okdiario.com/opinion/desverguenza-comparar-feijoo-hitler-19055633/amp?utm_source=lootura.com) — 2026-07-23T17:00:47.000Z
+- [Sánchez, a Feijóo: "Se le ha olvidado que hay unas elecciones de por medio, y ya veremos"](https://www.eldiario.es/politica/sanchez-feijoo-le-olvidado-hay-elecciones-medio-veremos_1_13403082.html?utm_source=lootura.com) — 2026-07-23T18:29:29.000Z

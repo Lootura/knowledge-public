@@ -3,7 +3,7 @@
 > Sigue la actividad de País Vasco en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-23T17:19:26.220Z
+- Actualizado: 2026-07-23T21:01:09.831Z
 - Canonical: https://atlas.lootura.com/es/place/pais-vasco
 
 ## Cambios recientes
@@ -71,4 +71,3 @@ Date: 2026-07-18
 ## Fuentes
 
 - [Rebajan la condena de siete a tres años y medio de cárcel a un vizcaíno por tenencia ilícita de armas y fabricación de munición](https://www.elcorreo.com/bizkaia/condenan-tres-anos-medio-carcel-vecino-bizkaia-20260723114522-nt_amp.html?utm_source=lootura.com) — 2026-07-23T09:45:22.000Z
-- [Hondarribia, la joya medieval de Gipuzkoa que combina historia, color y algunos de los mejores pintxos del verano](https://www.larazon.es/pais-vasco/hondarribia-joya-medieval-gipuzkoa-que-combina-historia-color-algunos-mejores-pintxos-verano_202607236a6248a4aa17c0020f2c0770.html?utm_source=lootura.com) — 2026-07-23T17:00:20.000Z

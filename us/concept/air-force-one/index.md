@@ -3,10 +3,16 @@
 > Follow Air Force One, a tracked concept, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: concept
-- Updated: 2026-07-23T06:29:04.058Z
+- Updated: 2026-07-23T21:01:27.760Z
 - Canonical: https://atlas.lootura.com/us/concept/air-force-one
 
 ## Recent changes
+
+### DOJ to withdraw subpoenas for New York Times reporters over Air Force One story
+
+The New York Times moved to block subpoenas issued by the Justice Department for grand jury testimony and phone records from its reporters.
+
+Date: 2026-07-23
 
 ### New Air Force One going out of commission to get safety upgrades
 
@@ -62,12 +68,6 @@ The Qatari-donated plane has been under scrutiny over whether it is fitted with 
 
 Date: 2026-07-20
 
-### Trump says new Air Force One will be sent away for upgrades, amid security concerns
-
-President Trump said the Air Force One plane that was donated by Qatar will be sent away for upgrades, amid swirling concerns about its security features.
-
-Date: 2026-07-20
-
 ## Sources
 
-No public source links.
+- [DOJ to withdraw subpoenas for New York Times reporters over Air Force One story](https://www.cbsnews.com/news/government-withdraws-subpoenas-for-new-york-times-reporters/?utm_source=lootura.com) — 2026-07-23T20:36:40.000Z

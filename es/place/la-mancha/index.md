@@ -3,7 +3,7 @@
 > Sigue la actividad de La Mancha en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-23T17:19:26.220Z
+- Actualizado: 2026-07-23T21:01:09.831Z
 - Canonical: https://atlas.lootura.com/es/place/la-mancha
 
 ## Cambios recientes
@@ -11,6 +11,18 @@
 ### Castilla-La Mancha se suma a los avisos rojos por calor de Murcia y la Comunidad Valenciana
 
 Jueves cruel en las regiones mediterráneas, a las que la ola de calor castigará especialmente con un repunte en las temperaturas en el mismo día en el que se despide de España. Tanto apretará en el sudeste que la Agencia Estatal de Meteorología (Aemet) ha decretado el aviso rojo , el máximo, en Murcia y en la Comunidad.
+
+Date: 2026-07-23
+
+### Los incendios mantienen en alerta a los bomberos de todo el país: Ávila, Zamora, Madrid, Guadalajara...
+
+Sigue en directo los incendios forestales activos alrededor de España, en comunidades como Madrid, Castilla y León o Castilla-La Mancha, y la última hora de las personas evacuadas, pueblos confinados y hectáreas quemadas.
+
+Date: 2026-07-23
+
+### Incendios en España, en directo: restablecida la circulación de la alta velocidad entre Madrid y Barcelona
+
+Los servicios de emergencia continúan trabajando en varios incendios forestales activos en distintos puntos de España, con especial atención a la evolución de los fuegos declarados en Castilla-La Mancha, Cataluña, Castilla y León, Andalucía y Aragón.
 
 Date: 2026-07-23
 
@@ -56,18 +68,8 @@ La Agencia Estatal de Meteorología (AEMET) ha activado este martes el aviso nar
 
 Date: 2026-07-21
 
-### Detenido un hombre tras asesinar a su pareja con un arma blanca en Alameda de la Sagra (Toledo)
-
-Una mujer ha sido asesinada este martes con un arma blanca por su pareja, un hombre de 48 años, que ha sido detenido por la Guardia Civil en la localidad toledana de Alameda de la Sagra. El servicio de emergencias 112 de Castilla-La Mancha ha informado a EFE de que la agresión se ha producido a las 5:16 horas en una vi.
-
-Date: 2026-07-21
-
-### Así es el caserón del siglo XVIII de Josie en La Mancha: «No puede ser un museo, esta casa tiene que estar viva»
-
-Hay casas que simplemente se reforman y otras que recuperan una memoria perdida . Villa Yoichi, el caserón del siglo XVIII de Josie en Villajos, La Mancha, pertenece a esa segunda categoría: una vivienda donde cada baldosa, cada mueble y cada objeto conservan una historia . Durante tres años de trabajo, el estilista y.
-
-Date: 2026-07-21
-
 ## Fuentes
 
+- [Los incendios mantienen en alerta a los bomberos de todo el país: Ávila, Zamora, Madrid, Guadalajara...](https://www.abc.es/sociedad/incendios-espana-hoy-directo-fuegos-activos-madrid-20260723185959-di.html?utm_source=lootura.com) — 2026-07-23T19:23:02.000Z
 - [Castilla-La Mancha se suma a los avisos rojos por calor de Murcia y la Comunidad Valenciana](https://elpais.com/clima-y-medio-ambiente/2026-07-23/la-tercera-ola-de-calor-del-verano-se-despide-con-avisos-rojos-en-murcia-y-la-comunidad-valenciana.html?utm_source=lootura.com) — 2026-07-23T10:12:32.000Z
+- [Incendios en España, en directo: restablecida la circulación de la alta velocidad entre Madrid y Barcelona](https://www.larazon.es/sociedad/incendios-espana-directo-hoy-ultima-hora-fuegos-activos-operativos-extincion_202607236a6192fada3add27d4dd1811.html?outputType=amp&utm_source=lootura.com) — 2026-07-23T20:54:17.000Z

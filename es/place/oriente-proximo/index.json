@@ -67,19 +67,6 @@
       "date": "2026-07-22"
     }
   ],
-  "sources": [
-    {
-      "title": "Los ataques hutíes en el Mar Rojo, que Trump promete castigar, disparan el petróleo a 100 dólares",
-      "url": "https://amp.expansion.com/economia/2026/07/23/6a623bc7e5fdea930a8b4594.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-23T16:05:29.000Z",
-      "sourceId": "lootura-es-expansion"
-    },
-    {
-      "title": "El barril de petróleo Brent rebasa los 100 dólares por primera vez en dos meses",
-      "url": "https://theobjective.com/economia/energia/2026-07-23/petroleo-brent-supera-100-dolares/?utm_source=lootura.com",
-      "publishedAt": "2026-07-23T13:27:24.000Z",
-      "sourceId": "lootura-es-the-objective"
-    }
-  ],
-  "evidenceCount": 2
+  "sources": [],
+  "evidenceCount": 0
 }

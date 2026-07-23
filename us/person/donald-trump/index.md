@@ -3,16 +3,10 @@
 > Follow Donald Trump, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-07-23T17:20:03.497Z
+- Updated: 2026-07-23T21:01:27.760Z
 - Canonical: https://atlas.lootura.com/us/person/donald-trump
 
 ## Recent changes
-
-### House committee urges DOJ to charge former Trump prosecutor Jack Smith
-
-The GOP chair of the House Judiciary Committee encouraged the DOJ to look into criminally charging Jack Smith, alleging the former special counsel who brought charges against President Trump lied to Congress.
-
-Date: 2026-07-23
 
 ### The White House pushes healthy eating. It cut a landmark nutrition education program
 
@@ -62,9 +56,15 @@ The Senate rejected an attempt to rein in President Trump's war powers in Iran, 
 
 Date: 2026-07-23
 
-### White House says Saudi Arabia nuclear deal contingent on joining Abraham Accords
+### Republicans urge Justice Department to investigate former prosecutor Jack Smith
 
-During a press briefing, White House press secretary Karoline Leavitt echoed a social media post from President Trump that said any nuclear deal with Saudi Arabia would be contingent on them joining the Abraham Accords. NBC News' Monica Alba reports from the White House on the potential deal and the White House's appro.
+The former special counsel led two criminal investigations of President Trump and has been a frequent target of Trump's ire on social media. (Image credit: Saul Loeb).
+
+Date: 2026-07-23
+
+### Some House Republicans defect to again pass resolution seeking to halt military action in Iran
+
+The House on Thursday narrowly passed a resolution to halt U.S. military action in Iran, sending a warning to President Donald Trump for the second time as the war has escalated and the future of the conflict is increasingly uncertain.
 
 Date: 2026-07-23
 
@@ -72,11 +72,11 @@ Date: 2026-07-23
 
 - [House again rebukes Trump over Iran, while similar effort stalls in Senate](https://www.cbsnews.com/news/house-trump-war-powers-vote/?utm_source=lootura.com) — 2026-07-23T16:54:09.000Z
 - [Senate fails to advance latest attempt to limit Trump's Iran war powers](https://www.cbsnews.com/news/senate-trump-iran-war-powers/?utm_source=lootura.com) — 2026-07-23T16:39:50.000Z
-- [House committee urges DOJ to charge former Trump prosecutor Jack Smith](https://www.cbsnews.com/news/house-committee-jack-smith-criminal-referral-doj/?utm_source=lootura.com) — 2026-07-23T03:51:35.000Z
+- [Trump talks plan to prevent ratepayers from shouldering costs of new AI data centers](https://www.cbsnews.com/video/trump-talks-plan-to-prevent-ratepayers-from-shouldering-costs-of-new-ai-data-centers/?utm_source=lootura.com) — 2026-07-23T20:30:42.000Z
+- [International PhD students to face strict limits on time in the US](https://www.nature.com/articles/d41586-026-02280-3?utm_source=lootura.com) — 2026-07-23T21:01:31.749Z
 - [Trump says Saudi Arabia must normalize Israel ties before nuclear deal is approved](https://www.nbcnews.com/world/middle-east/trump-saudi-arabia-normalize-israel-ties-nuclear-deal-rcna588859?utm_source=lootura.com) — 2026-07-23T12:35:22.000Z
-- [White House says Saudi Arabia nuclear deal contingent on joining Abraham Accords](https://www.nbcnews.com/now/video/white-house-says-saudi-arabia-nuclear-deal-contingent-on-joining-abraham-accords-267170885845?utm_source=lootura.com) — 2026-07-23T15:53:39.000Z
+- [House votes to end Iran war, but Senate Republicans vote to let Trump continue waging it](https://www.nbcnews.com/politics/congress/house-votes-end-iran-war-senate-republicans-let-trump-continue-war-rcna588874?utm_source=lootura.com) — 2026-07-23T18:20:47.000Z
+- [Marco Rubio describes Trump's military strategy with Iran as a ‘head for an eye’](https://www.nbcnews.com/meet-the-press/video/marco-rubio-describes-trump-s-military-strategy-with-iran-as-a-head-for-an-eye-267186757837?utm_source=lootura.com) — 2026-07-23T20:30:39.000Z
 - [The White House pushes healthy eating. It cut a landmark nutrition education program](https://www.npr.org/2026/07/23/nx-s1-5896280/snap-ed-healthy-eating-cuts-maha?utm_source=lootura.com) — 2026-07-23T09:00:00.000Z
-- [In South Dakota, public media endures a year after federal funding was wiped out](https://www.npr.org/2026/07/22/nx-s1-5903146/in-south-dakota-public-media-endures-a-year-after-federal-funding-was-wiped-out?utm_source=lootura.com) — 2026-07-22T21:21:35.000Z
 - [Morning news brief](https://www.npr.org/2026/07/23/nx-s1-5895984/morning-news-brief?utm_source=lootura.com) — 2026-07-23T08:47:19.000Z
-- [How predominantly Black areas in 6 states have been split up by redistricting](https://www.npr.org/2026/07/23/nx-s1-5896335/black-voters-republican-redistricting?utm_source=lootura.com) — 2026-07-23T09:00:00.000Z
-- [Republicans urge Justice Department to investigate former prosecutor Jack Smith](https://www.npr.org/2026/07/23/g-s1-135121/republicans-justice-department-jack-smith?utm_source=lootura.com) — 2026-07-23T14:12:45.000Z
+- [Trump allies are poised to weaken protections for historic sites — not just in D.C.](https://www.npr.org/2026/07/23/nx-s1-5904435/section-106-review-trump-historic-preservation-council?utm_source=lootura.com) — 2026-07-23T20:14:58.000Z

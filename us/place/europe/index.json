@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/europe/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/europe/index.json",
   "description": "Follow Europe, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-23T17:20:03.497Z",
+  "updatedAt": "2026-07-23T21:01:27.760Z",
   "aliases": [
     "EU",
     "European Union"
@@ -17,6 +17,11 @@
     {
       "title": "Google Hit With $1 Billion Fine By EU Over Search Engine Practices",
       "summary": "At a tense moment for trans-Atlantic trade, the European Union accused Google of anti-competitive business practices.",
+      "date": "2026-07-23"
+    },
+    {
+      "title": "U.S.-Saudi Deal Prompts Fears of a Global Nuclear Arms Race",
+      "summary": "In Europe, Asia and the Middle East, countries seek nuclear capabilities to hedge against aggressive neighbors and a receding Washington, potentially creating a more freewheeling era.",
       "date": "2026-07-23"
     },
     {
@@ -58,11 +63,6 @@
       "title": "Greece braces for year's first heat wave",
       "summary": "Greece, which was spared the record heat that ravaged most of Europe in June, is finally bracing for its first heat wave of the year.",
       "date": "2026-07-20"
-    },
-    {
-      "title": "EU's AI 'guardrails' cannot absorb rapid changes in technology, study warns",
-      "summary": "\"Guardrails\" built by the EU to govern AI fall short in both ambition and execution and have become too heavy to absorb rapid changes in technology, a new study in Big Data & Society warns.",
-      "date": "2026-07-17"
     }
   ],
   "sources": [
@@ -76,7 +76,7 @@
       "title": "U.S.-Saudi Deal Prompts Fears of a Global Nuclear Arms Race",
       "url": "https://www.nytimes.com/2026/07/23/world/europe/us-saudi-deal-nuclear-hedging.html?utm_source=lootura.com",
       "publishedAt": "2026-07-23T15:28:15.000Z",
-      "sourceId": "lootura-us-the-new-york-times-world"
+      "sourceId": "lootura-us-the-new-york-times"
     }
   ],
   "evidenceCount": 2

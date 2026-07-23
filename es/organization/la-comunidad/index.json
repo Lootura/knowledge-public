@@ -1,0 +1,43 @@
+{
+  "id": "es-la-comunidad",
+  "name": "La comunidad",
+  "type": "organization",
+  "locale": "es",
+  "canonicalPath": "/es/organization/la-comunidad",
+  "canonicalUrl": "https://atlas.lootura.com/es/organization/la-comunidad",
+  "markdownUrl": "https://atlas.lootura.com/es/organization/la-comunidad/index.md",
+  "jsonUrl": "https://atlas.lootura.com/es/organization/la-comunidad/index.json",
+  "description": "Sigue la actividad de La comunidad en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
+  "updatedAt": "2026-07-23T21:01:09.831Z",
+  "aliases": [
+    "Comunidad",
+    "Common Wealth"
+  ],
+  "changes": [
+    {
+      "title": "Madrid solicita la emergencia nacional por los incendios: \"Estamos con fuegos fuera de capacidad de extinción\"",
+      "summary": "La Comunidad de Madrid ha solicitado al Gobierno de España la declaración de la Situación Operativa 3 del Plan Especial de Protección Civil de Emergencia por Incendios Forestales (INFOMA) ante la gravedad de los incendios que afectan de forma simultánea a varias comunidades autónomas. El Ejecutivo regional ha explicado.",
+      "date": "2026-07-23"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "La Comunidad first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-07-23"
+    }
+  ],
+  "sources": [
+    {
+      "title": "El Gobierno de Madrid pide a La Moncloa que tome el control ante la evolución de los incendios",
+      "url": "https://elpais.com/espana/madrid/2026-07-23/madrid-registra-un-tercer-incendio-que-obliga-a-evacuar-una-urbanizacion-y-un-centro-residencial.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-23T17:02:53.000Z",
+      "sourceId": "lootura-es-el-pais"
+    },
+    {
+      "title": "Madrid solicita la emergencia nacional por los incendios: \"Estamos con fuegos fuera de capacidad de extinción\"",
+      "url": "https://www.larazon.es/madrid/madrid-solicita-emergencia-nacional-incendios-estamos-incendios-fuera-capacidad-extincion_202607236a627568aa17c0020f2c4811.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-23T20:11:20.000Z",
+      "sourceId": "lootura-es-la-razon"
+    }
+  ],
+  "evidenceCount": 3
+}

@@ -1,0 +1,45 @@
+{
+  "id": "usa-the-times",
+  "name": "The Times",
+  "type": "person",
+  "locale": "en",
+  "canonicalPath": "/us/person/the-times",
+  "canonicalUrl": "https://atlas.lootura.com/us/person/the-times",
+  "markdownUrl": "https://atlas.lootura.com/us/person/the-times/index.md",
+  "jsonUrl": "https://atlas.lootura.com/us/person/the-times/index.json",
+  "description": "Follow The Times, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
+  "updatedAt": "2026-07-23T21:01:27.760Z",
+  "aliases": [],
+  "changes": [
+    {
+      "title": "U.S. to Withdraw Subpoenas Issued to New York Times Journalists",
+      "summary": "A federal judge raised questions about the government’s handling of the subpoenas, which The Times said were an attempt to intimidate the free press.",
+      "date": "2026-07-23"
+    },
+    {
+      "title": "A Russian Spy, Suddenly Cast Into the Spotlight, Flees Japan",
+      "summary": "The military intelligence officer left the country after The Times reported that he was using the Aeroflot airline office in Tokyo to conduct espionage.",
+      "date": "2026-07-23"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "The Times first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-07-23"
+    }
+  ],
+  "sources": [
+    {
+      "title": "U.S. to Withdraw Subpoenas Issued to New York Times Journalists",
+      "url": "https://www.nytimes.com/2026/07/23/business/media/new-york-times-subpoenas-withdraw.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-23T19:36:19.000Z",
+      "sourceId": "lootura-us-the-new-york-times-politics"
+    },
+    {
+      "title": "A Russian Spy, Suddenly Cast Into the Spotlight, Flees Japan",
+      "url": "https://www.nytimes.com/2026/07/23/world/asia/russian-spy-flees-japan.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-23T19:39:53.000Z",
+      "sourceId": "lootura-us-the-new-york-times-world"
+    }
+  ],
+  "evidenceCount": 2
+}

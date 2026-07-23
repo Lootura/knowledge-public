@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/barcelona/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/barcelona/index.json",
   "description": "Sigue la actividad de Barcelona en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-23T17:19:26.220Z",
+  "updatedAt": "2026-07-23T21:01:09.831Z",
   "aliases": [
     "B'na",
     "Barcelona City",
@@ -21,6 +21,11 @@
     "Ciudad condal"
   ],
   "changes": [
+    {
+      "title": "Incendios en España, en directo: restablecida la circulación de la alta velocidad entre Madrid y Barcelona",
+      "summary": "Los servicios de emergencia continúan trabajando en varios incendios forestales activos en distintos puntos de España, con especial atención a la evolución de los fuegos declarados en Castilla-La Mancha, Cataluña, Castilla y León, Andalucía y Aragón.",
+      "date": "2026-07-23"
+    },
     {
       "title": "Incendios en España, en directo: restablecida la circulación de la alta velocidad entre Madrid y Barcelona",
       "summary": "Los equipos de extinción continúan desplegados en distintos puntos del país para hacer frente a una de las jornadas más complejas de la campaña de incendios forestales. Mientras el incendio de La Mierla (Guadalajara) sigue evolucionando favorablemente y los trabajos se centran en consolidar el perímetro, otros focos ma.",
@@ -65,18 +70,13 @@
       "title": "Ocho heridos en la deflagración de gas en la plaza Sants de Barcelona",
       "summary": "Los Bombers de Barcelona trabajan con 9 dotaciones esta noche del miércoles al jueves en un incendio por una deflagración de gas a las 22.50 en la Plaça de Sants, según fuentes del Ayuntamiento de Barcelona.Hay 8 hombres heridos: 2 afectados graves y 2 menos graves (traslados al Hospital Vall d'Hebron), 1 menos grave y.",
       "date": "2026-07-23"
-    },
-    {
-      "title": "Cómo Marc Cucurella y Claudia Rodríguez convirtieron la conciliación en una decisión estratégica",
-      "summary": "Suele decirse que las personas que tienen una sonrisa perenne y que buscan alegrar a los demás son las que más han sufrido. No sabemos si esta es la razón detrás de la radiante sonrisa de Marc Cucurella (Alella, Barcelona, 1998) , el lateral izquierdo que el pasado domingo ayudó a la selección española a levantar su se.",
-      "date": "2026-07-22"
     }
   ],
   "sources": [
     {
       "title": "Incendios en España, en directo: restablecida la circulación de la alta velocidad entre Madrid y Barcelona",
-      "url": "https://www.larazon.es/sociedad/incendios-espana-directo-hoy-ultima-hora-fuegos-activos-operativos-extincion_202607236a6192fada3add27d4dd1811.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-23T17:00:26.000Z",
+      "url": "https://www.larazon.es/sociedad/incendios-espana-directo-hoy-ultima-hora-fuegos-activos-operativos-extincion_202607236a6192fada3add27d4dd1811.html?outputType=amp&utm_source=lootura.com",
+      "publishedAt": "2026-07-23T20:54:17.000Z",
       "sourceId": "lootura-es-la-razon"
     }
   ],

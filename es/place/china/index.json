@@ -8,9 +8,14 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/china/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/china/index.json",
   "description": "Sigue la actividad de China en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-23T17:19:26.220Z",
+  "updatedAt": "2026-07-23T21:01:09.831Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "La planta de Almusafes entra de lleno en la guerra comercial entre EE.UU. y China",
+      "summary": "Washington carga contra la empresa Ford por su alianza con la china Geely y alerta de que el acuerdo puede reforzar la expansión industrial de Pekín en Europa.",
+      "date": "2026-07-23"
+    },
     {
       "title": "Ford da entrada al grupo chino Geely en Almussafes con un 34%",
       "summary": "Acuerdo histórico para la planta de Ford en Almussafes. Cincuenta años después de arrancar motores, la multinacional americana ha anunciado la creación de una empresa conjunta con la china Geely para impulsar la planta de Valencia. Seguir leyendo.",
@@ -55,20 +60,15 @@
       "title": "Didi en China, así funciona la app de VTC para moverse por las ciudades que visites",
       "summary": "Hace unos días escribí sobre la experiencia de un robotaxi , vehículo sin conductor, en mi viaje a China. Ahora, voy con otro asunto a tener en cuenta si viajas al gigante asiático. Pedir un Didi ha sido una de las cosas que más rápido incorporé a mi rutina durante un viaje reciente a Shenzhen. La compañía absorbió el.",
       "date": "2026-07-19"
-    },
-    {
-      "title": "China exige a Trump que aparque el «invento» de la presunta injerencia electoral en 2020",
-      "summary": "China ha rechazado por completo las acusaciones formuladas por el presidente de Estados Unidos , Donald Trump , quien, esta pasada noche y en un discurso ante la nación, denunció que las autoridades de Pekín se habían inmiscuido en el desarrollo de las elecciones de 2020 . Trump y el Gobierno de Estados Unidos acusaron.",
-      "date": "2026-07-17"
     }
   ],
   "sources": [
     {
-      "title": "Ford vende a la china Geely el 34% de su planta de Valencia, donde ambas fabricarán cinco modelos",
-      "url": "https://www.elmundo.es/economia/empresas/2026/07/23/6a61de0d21efa09d488b45ae.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-23T10:21:20.000Z",
-      "sourceId": "lootura-es-el-mundo"
+      "title": "La planta de Almusafes entra de lleno en la guerra comercial entre EE.UU. y China",
+      "url": "https://www.abc.es/internacional/planta-almusafes-entra-lleno-guerra-comercial-eeuu-20260722224548-nt_amp.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-23T20:47:35.000Z",
+      "sourceId": "lootura-es-abc"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 2
 }

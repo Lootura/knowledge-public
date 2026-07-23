@@ -34,4 +34,4 @@ Date: 2026-07-21
 
 ## Fuentes
 
-- [Abascal acusa a RTVE de «proteger y blanquear» a Zapatero por su entrevista](https://theobjective.com/espana/politica/2026-07-23/abascal-rtve-blanquear-zapatero-entrevista/?utm_source=lootura.com) — 2026-07-23T15:49:06.000Z
+No public source links.

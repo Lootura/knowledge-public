@@ -3,7 +3,7 @@
 > Sigue la actividad de Partido Socialista Obrero Español en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-23T17:19:26.220Z
+- Actualizado: 2026-07-23T21:01:09.831Z
 - Canonical: https://atlas.lootura.com/es/organization/psoe
 
 ## Cambios recientes
@@ -20,12 +20,6 @@ La portavoz del PP en el Congreso, Ester Muñoz, ha cargado contra el expresiden
 
 Date: 2026-07-23
 
-### Sumar considera insuficientes las explicaciones de Zapatero sobre el caso Plus Ultra: "Sigue decepcionando"
-
-Sumar , socio de Gobierno del PSOE, considera que las explicaciones que ha dado este jueves el expresidente del Ejecutivo José Luis Rodríguez Zapatero sobre su imputación en el caso Plus Ultra "siguen siendo insuficientes" y que él, más allá de que haya o no delito, "sigue decepcionando". Tras la entrevista de Zapatero.
-
-Date: 2026-07-23
-
 ### La 'popular' Ana Mestre se estrena como presidenta del Parlamento andaluz con un plantón del PSOE de María Jesús Montero: "Esto no va ser un ring"
 
 Tras pedir silencio en múltiples ocasiones a los diputados socialistas y negarles la palabra, el grupo que lidera Montero abandona el pleno Leer.
@@ -38,27 +32,15 @@ El Gobierno y la dirección del PSOE reiteran su respaldo a José Luis Rodrígue
 
 Date: 2026-07-23
 
+### Sumar considera insuficientes las explicaciones de Zapatero sobre el caso Plus Ultra: "Sigue decepcionando"
+
+Sumar , socio de Gobierno del PSOE, considera que las explicaciones que ha dado este jueves el expresidente del Ejecutivo José Luis Rodríguez Zapatero sobre su imputación en el caso Plus Ultra "siguen siendo insuficientes" y que él, más allá de que haya o no delito, "sigue decepcionando". Tras la entrevista de Zapatero.
+
+Date: 2026-07-23
+
 ### Abascal acusa a RTVE de «proteger y blanquear» a Zapatero por su entrevista
 
 El líder de Vox, Santiago Abascal , ha denunciado este jueves tras la entrevista del expresidente del Gobierno José Luis Rodríguez Zapatero este mediodía en RTVE que la corporación « ya no es una televisión pública, es una televisión al servicio únicamente de la mafia », refiriéndose al PSOE y al Gobierno de Pedro Sánc.
-
-Date: 2026-07-23
-
-### Qué han estudiado las hijas de Zapatero: desde su formación hasta montar su agencia de publicidad
-
-Zapatero entrevista en TVE por el caso 'Plus Ultra' y las joyas, en directo Cunde en el PSOE el temor a que el caso ZP implique al Gobierno: "¿Por qué no le expulsamos del partido?" El cotizado barrio de Madrid donde Zapatero compró vivienda y canceló su hipoteca en menos de un año Laura y Alba Rodríguez Espinosa, hija.
-
-Date: 2026-07-23
-
-### Así es Whathefav, la agencia de publicidad de las hijas de Zapatero que se dedica a los eSports
-
-Zapatero entrevista en TVE por el caso 'Plus Ultra' y las joyas, en directo Cunde en el PSOE el temor a que el caso ZP implique al Gobierno: "¿Por qué no le expulsamos del partido?" El cotizado barrio de Madrid donde Zapatero compró vivienda y canceló su hipoteca en menos de un año Qué han estudiado las hijas de Zapate.
-
-Date: 2026-07-23
-
-### El PSOE mantiene su apoyo a la inocencia de Zapatero tras su entrevista en TVE y el PP la considera "una tomadura de pelo"
-
-Los socialistas no se mueven de la posición que llevan manteninendo desde el estallido del caso 'Plus Ultra' y el Gobierno pide "respeto" al derecho a la defensa del expresidente. Mientras tanto, la portavoz popular Ester Muñoz denuncia que "no ha contestado ninguna duda” e Isabel Díaz Ayuso denuncia que "a un socialis.
 
 Date: 2026-07-23
 
@@ -68,11 +50,27 @@ El Ejecutivo ata los apoyos de sus socios habituales pese a las críticas de alg
 
 Date: 2026-07-23
 
+### El PP exige la dimisión de Morant por comparar un gobierno de Feijóo con Hitler: "Está en una situación desesperada"
+
+El secretario general del PP, Miguel Tellado , ha reclamado este jueves la dimisión inmediata de la ministra de Ciencia y líder del PSPV-PSOE, Diana Morant , después de que esta comparase un eventual Gobierno presidido por Alberto Núñez Feijóo con el “criminal” Hitler . A su entender, esas palabras definen tanto a la d.
+
+Date: 2026-07-23
+
+### Última hora de la actualidad política, en directo | El PSOE espera de la entrevista a Zapatero que dé “explicaciones que despejen dudas”
+
+El portavoz del PSOE en el Congreso, Patxi López, ha dicho este jueves a su llegada a la Cámara Baja que lo que espera de la entrevista que va a dar el expresidente del Gobierno José Luis Rodríguez Zapatero en TVE es “lo que hemos esperado siempre, explicaciones que despejen dudas”. “Yo desde el primer día dije y mante.
+
+Date: 2026-07-23
+
+### El Parlamento reelige a Arenas, Díaz y Espadas y designa a Montero, Zancajo y Aguirre como senadores por la comunidad
+
+Los que han obtenido más votos han sido los senadores propuestos por el PP-A, con un total de 98; los del PSOE-A, 83, y los de Vox, 65 votos.
+
+Date: 2026-07-23
+
 ## Fuentes
 
-- [Sumar considera insuficientes las explicaciones de Zapatero sobre el caso Plus Ultra: "Sigue decepcionando"](https://www.20minutos.es/nacional/sumar-considera-insuficientes-las-explicaciones-zapatero-sobre-caso-plus-ultra-sigue-decepcionando_7018321_0.html?utm_source=lootura.com) — 2026-07-23T16:27:16.000Z
-- [La 'popular' Ana Mestre se estrena como presidenta del Parlamento andaluz con un plantón del PSOE de María Jesús Montero: "Esto no va ser un ring"](https://www.elmundo.es/andalucia/2026/07/23/6a61ca2efc6c83037c8b4579.html?utm_source=lootura.com) — 2026-07-23T15:25:54.000Z
+- [La 'popular' Ana Mestre se estrena como presidenta del Parlamento andaluz con un plantón del PSOE de María Jesús Montero: "Esto no va ser un ring"](https://www.elmundo.es/andalucia/2026/07/23/6a61ca2efc6c83037c8b4579.html?utm_source=lootura.com) — 2026-07-23T20:10:05.000Z
 - [La cúpula del PSOE da por buenas las explicaciones de Zapatero: "Mantenemos nuestro apoyo"](https://amp.elmundo.es/espana/2026/07/23/6a6202be21efa0605a8b45ba.html?utm_source=lootura.com) — 2026-07-23T12:02:40.000Z
 - [Última hora de la actualidad política, en directo | El PSOE mantiene “exactamente la misma posición” en su defensa del exjefe de Gobierno](https://elpais.com/espana/2026-07-23/ultima-hora-de-la-actualidad-politica-en-directo.html?utm_source=lootura.com) — 2026-07-23T13:37:20.000Z
 - [El Gobierno y el PSOE cierran filas con Zapatero y aseguran que probará su inocencia](https://elpais.com/espana/2026-07-23/el-gobierno-y-el-psoe-cierran-filas-con-zapatero-y-aseguran-que-probara-su-inocencia.html?utm_source=lootura.com) — 2026-07-23T12:48:42.000Z
-- [Abascal acusa a RTVE de «proteger y blanquear» a Zapatero por su entrevista](https://theobjective.com/espana/politica/2026-07-23/abascal-rtve-blanquear-zapatero-entrevista/?utm_source=lootura.com) — 2026-07-23T15:49:06.000Z

@@ -3,7 +3,7 @@
 > Follow Democratic Party, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-07-23T17:20:03.497Z
+- Updated: 2026-07-23T21:01:27.760Z
 - Canonical: https://atlas.lootura.com/us/organization/democratic-party
 
 ## Recent changes
@@ -11,6 +11,18 @@
 ### House again rebukes Trump over Iran, while similar effort stalls in Senate
 
 The House on Thursday voted to direct President Trump to end the war with Iran, after four Republicans joined Democrats to rebuke the president over his handling of the conflict.
+
+Date: 2026-07-23
+
+### For a 2nd time, House approves resolution to end the war in Iran in a rebuke to Trump
+
+Four Republicans joined Democrats to approve the measure. And while it is not legally binding, the resolution represents growing frustration inside Congress over the war. (Image credit: J. Scott Applewhite).
+
+Date: 2026-07-23
+
+### House Rebukes Trump on Iran in War Powers Vote as Senate Blocks Debate
+
+For the second time, a few House Republicans joined Democrats to back a measure calling on the president to seek authorization for the war.
 
 Date: 2026-07-23
 
@@ -56,20 +68,8 @@ Passage of annual bill complicated by Trump’s decision to join Israel in attac
 
 Date: 2026-07-22
 
-### House Passes Defense Bill Amid Iran War Divide
-
-Republicans pushed through the $1.15 trillion bill over opposition from Democrats, who said backing it was akin to embracing the war.
-
-Date: 2026-07-22
-
-### House Narrowly Passes Stopgap Spending Bill, but Shutdown Fight Looms
-
-Republicans managed to push through legislation to fund the government through Dec. 4. But with Democrats opposed, the stage is set for a broader battle.
-
-Date: 2026-07-22
-
 ## Sources
 
 - [House again rebukes Trump over Iran, while similar effort stalls in Senate](https://www.cbsnews.com/news/house-trump-war-powers-vote/?utm_source=lootura.com) — 2026-07-23T16:54:09.000Z
-- [South Carolina and Nevada Fight to Kick Off Democrats’ 2028 Presidential Calendar](https://www.nytimes.com/2026/07/22/us/politics/south-carolina-nevada-democrats-2028-presidential-calendar.html?utm_source=lootura.com) — 2026-07-22T20:30:40.000Z
-- [House Again Rebukes Trump on Iran War Powers Vote](https://www.nytimes.com/2026/07/23/us/politics/house-iran-war-powers-vote-trump.html?utm_source=lootura.com) — 2026-07-23T15:39:44.000Z
+- [For a 2nd time, House approves resolution to end the war in Iran in a rebuke to Trump](https://www.npr.org/2026/07/23/nx-s1-5904515/congress-iran-war-powers-vote?utm_source=lootura.com) — 2026-07-23T17:35:02.000Z
+- [House Rebukes Trump on Iran in War Powers Vote as Senate Blocks Debate](https://www.nytimes.com/2026/07/23/us/politics/house-iran-war-powers-vote-trump.html?utm_source=lootura.com) — 2026-07-23T18:17:54.000Z

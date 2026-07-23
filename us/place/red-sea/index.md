@@ -3,7 +3,7 @@
 > Follow Red Sea, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-23T17:20:03.497Z
+- Updated: 2026-07-23T21:01:27.760Z
 - Canonical: https://atlas.lootura.com/us/place/red-sea
 
 ## Recent changes
@@ -17,6 +17,12 @@ Date: 2026-07-23
 ### Oil surges to $100 per barrel after Red Sea attacks
 
 Oil prices rose Thursday to their highest level since early June after the latest Iran war escalation threatened severe new disruption to global supplies.
+
+Date: 2026-07-23
+
+### Yemen's Houthis attack Saudi tankers in the Red Sea, threatening to widen Iran war
+
+As the U.S. carried out a 12th night of strikes across Iran, President Donald Trump threatened "major military punishment" against the Houthis if their attacks on ships continue.
 
 Date: 2026-07-23
 
@@ -62,13 +68,8 @@ Red Sea first entered the public knowledge record with source-backed evidence.
 
 Date: 2026-07-21
 
-### Funding milestone detected
-
-Iran-backed Houthis say they will blockade anothe waterway, threatening Red Sea shipping, Pete Hegseth heads to the Hill looking for $350 billion funding boost, Arizona voters head to the polls.
-
-Date: 2026-07-21
-
 ## Sources
 
-- [Global oil prices hit $100 a barrel amid attacks in Red Sea](https://www.cbsnews.com/news/global-oil-prices-red-sea-attacks-rates/?utm_source=lootura.com) — 2026-07-23T13:38:00.000Z
+- [Global oil prices hit $100 a barrel amid attacks in Red Sea](https://www.cbsnews.com/news/global-oil-prices-red-sea-attacks-rates/?utm_source=lootura.com) — 2026-07-23T20:32:52.000Z
 - [Oil surges to $100 per barrel after Red Sea attacks](https://www.nbcnews.com/business/markets/oil-prices-rise-red-sea-attacks-houthis-saudi-trump-iran-war-rcna588851?utm_source=lootura.com) — 2026-07-23T11:39:33.000Z
+- [Yemen's Houthis attack Saudi tankers in the Red Sea, threatening to widen Iran war](https://www.pbs.org/newshour/world/yemens-houthis-attack-saudi-tankers-in-the-red-sea-threatening-to-widen-iran-war?utm_source=lootura.com) — 2026-07-23T17:26:28.000Z

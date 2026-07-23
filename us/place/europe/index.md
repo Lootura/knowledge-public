@@ -3,7 +3,7 @@
 > Follow Europe, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-23T17:20:03.497Z
+- Updated: 2026-07-23T21:01:27.760Z
 - Canonical: https://atlas.lootura.com/us/place/europe
 
 ## Recent changes
@@ -11,6 +11,12 @@
 ### Google Hit With $1 Billion Fine By EU Over Search Engine Practices
 
 At a tense moment for trans-Atlantic trade, the European Union accused Google of anti-competitive business practices.
+
+Date: 2026-07-23
+
+### U.S.-Saudi Deal Prompts Fears of a Global Nuclear Arms Race
+
+In Europe, Asia and the Middle East, countries seek nuclear capabilities to hedge against aggressive neighbors and a receding Washington, potentially creating a more freewheeling era.
 
 Date: 2026-07-23
 
@@ -61,12 +67,6 @@ Date: 2026-07-21
 Greece, which was spared the record heat that ravaged most of Europe in June, is finally bracing for its first heat wave of the year.
 
 Date: 2026-07-20
-
-### EU's AI 'guardrails' cannot absorb rapid changes in technology, study warns
-
-"Guardrails" built by the EU to govern AI fall short in both ambition and execution and have become too heavy to absorb rapid changes in technology, a new study in Big Data & Society warns.
-
-Date: 2026-07-17
 
 ## Sources
 

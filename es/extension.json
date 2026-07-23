@@ -1,55 +1,42 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-23T17:29:30.450Z",
+  "generatedAt": "2026-07-23T21:10:52.878Z",
   "radar": {
     "id": "es",
     "slug": "es",
     "locale": "es"
   },
   "state": {
-    "signature": "1.18.0|21|1784827166220",
+    "signature": "1.18.0|22|1784840469831",
     "version": "1.18.0",
-    "build": 21,
-    "latestEntityUpdatedAt": "2026-07-23T17:19:26.220Z"
+    "build": 22,
+    "latestEntityUpdatedAt": "2026-07-23T21:01:09.831Z"
   },
   "atlas": {
     "hero": {
       "id": "es-rodriguez-zapatero",
       "name": "José Luis Rodríguez Zapatero",
       "type": "person",
-      "title": "El Gobierno y el PSOE cierran filas con Zapatero y aseguran que probará su inocencia",
+      "title": "Sánchez instó a Zapatero a hablar en TVE para reducir la presión sobre el Gobierno por el rescate de Plus Ultra",
       "url": "https://atlas.lootura.com/es/person/rodriguez-zapatero",
       "path": "/es/person/rodriguez-zapatero",
-      "updatedAt": "2026-07-23T17:19:26.220Z",
-      "score": 1749,
-      "sourceCount": 51,
+      "updatedAt": "2026-07-23T21:01:09.831Z",
+      "score": 1729,
+      "sourceCount": 46,
       "isBreaking": false,
       "isPinned": false
     },
     "cards": [
       {
-        "id": "es-psoe",
-        "name": "Partido Socialista Obrero Español",
-        "type": "organization",
-        "title": "El Gobierno y el PSOE cierran filas con Zapatero y aseguran que probará su inocencia",
-        "url": "https://atlas.lootura.com/es/organization/psoe",
-        "path": "/es/organization/psoe",
-        "updatedAt": "2026-07-23T17:19:26.220Z",
-        "score": 1740,
-        "sourceCount": 132,
-        "isBreaking": false,
-        "isPinned": false
-      },
-      {
-        "id": "es-audiencia-nacional",
-        "name": "Audiencia Nacional (España)",
-        "type": "organization",
-        "title": "El Gobierno y el PSOE cierran filas con Zapatero y aseguran que probará su inocencia",
-        "url": "https://atlas.lootura.com/es/organization/audiencia-nacional",
-        "path": "/es/organization/audiencia-nacional",
-        "updatedAt": "2026-07-23T17:19:26.220Z",
-        "score": 1697,
-        "sourceCount": 45,
+        "id": "es-madrid",
+        "name": "Madrid",
+        "type": "place",
+        "title": "Madrid registra un tercer incendio que obliga a evacuar una urbanización y un centro residencial",
+        "url": "https://atlas.lootura.com/es/place/madrid",
+        "path": "/es/place/madrid",
+        "updatedAt": "2026-07-23T21:01:09.831Z",
+        "score": 1719,
+        "sourceCount": 316,
         "isBreaking": false,
         "isPinned": false
       },
@@ -60,9 +47,22 @@
         "title": "Lagarde mantiene tipos en el 2,25% y deja la siguiente subida para septiembre: “El shock energético puede intensificarse”",
         "url": "https://atlas.lootura.com/es/place/iran",
         "path": "/es/place/iran",
-        "updatedAt": "2026-07-23T17:19:26.220Z",
-        "score": 1675,
-        "sourceCount": 109,
+        "updatedAt": "2026-07-23T21:01:09.831Z",
+        "score": 1704,
+        "sourceCount": 111,
+        "isBreaking": false,
+        "isPinned": false
+      },
+      {
+        "id": "es-pedro-sanchez",
+        "name": "Pedro Sánchez",
+        "type": "person",
+        "title": "Sánchez instó a Zapatero a hablar en TVE para reducir la presión sobre el Gobierno por el rescate de Plus Ultra",
+        "url": "https://atlas.lootura.com/es/person/pedro-sanchez",
+        "path": "/es/person/pedro-sanchez",
+        "updatedAt": "2026-07-23T21:01:09.831Z",
+        "score": 1695,
+        "sourceCount": 228,
         "isBreaking": false,
         "isPinned": false
       },
@@ -70,16 +70,16 @@
         "id": "es-espana",
         "name": "España",
         "type": "place",
-        "title": "El Gobierno lanza a Díaz como candidata para dirigir la Organización Internacional del Trabajo",
+        "title": "Carrefour eleva ventas y beneficios en España gracias a los frescos y las nuevas aperturas",
         "url": "https://atlas.lootura.com/es/place/espana",
         "path": "/es/place/espana",
-        "updatedAt": "2026-07-23T17:19:26.220Z",
-        "score": 1666,
-        "sourceCount": 509,
+        "updatedAt": "2026-07-23T21:01:09.831Z",
+        "score": 1671,
+        "sourceCount": 516,
         "isBreaking": false,
         "isPinned": false
       }
     ],
-    "publicEntityCount": 101
+    "publicEntityCount": 104
   }
 }

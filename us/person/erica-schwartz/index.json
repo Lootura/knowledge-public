@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/erica-schwartz/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/erica-schwartz/index.json",
   "description": "Follow Erica Schwartz, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-16T13:45:32.280Z",
+  "updatedAt": "2026-07-23T21:01:27.760Z",
   "aliases": [
     "Erica",
     "Schwartz"
   ],
   "changes": [
+    {
+      "title": "Key Republican Senator Says He Will Support Erica Schwartz for C.D.C. Director",
+      "summary": "Senator Bill Cassidy, who is believed to hold the deciding vote in the Senate health committee for Dr. Erica Schwartz’s confirmation, had declined for days to say whether he would back her.",
+      "date": "2026-07-23"
+    },
     {
       "title": "Discovered by Atlas",
       "summary": "Erica Schwartz first entered the public knowledge record with source-backed evidence.",
@@ -45,6 +50,13 @@
       "date": "2026-07-15"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Key Republican Senator Says He Will Support Erica Schwartz for C.D.C. Director",
+      "url": "https://www.nytimes.com/2026/07/23/health/erica-schwartz-cdc-vote.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-23T18:51:07.000Z",
+      "sourceId": "lootura-us-the-new-york-times-politics"
+    }
+  ],
+  "evidenceCount": 1
 }

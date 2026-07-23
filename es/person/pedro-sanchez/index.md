@@ -3,20 +3,62 @@
 > Sigue la actividad de Pedro Sánchez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-23T17:19:26.220Z
+- Actualizado: 2026-07-23T21:01:09.831Z
 - Canonical: https://atlas.lootura.com/es/person/pedro-sanchez
 
 ## Cambios recientes
 
-### Denuncia contra David Sánchez Pérez-Castejón ante el Tribunal de Cuentas para que devuelva las nóminas que cobró en la Diputación de Badajoz
-
-Una de las acusaciones particulares, Iustitia Europa, quiere que tanto el hermano del presidente del Gobierno como su amigo de Moncloa devuelvan los ingresos públicos que recibieron tras no requerirlos ni la Diputación de Badajoz ni la Fiscalía Leer.
-
-Date: 2026-07-23
-
 ### La cúpula del PSOE da por buenas las explicaciones de Zapatero: "Mantenemos nuestro apoyo"
 
 Desde que se conoció la investigación judicial a José Luis Rodríguez Zapatero, tanto Pedro Sánchez como desde Ferraz han mantenido contacto con el ex presidente del Gobierno....
+
+Date: 2026-07-23
+
+### La senda de déficit de Sánchez naufraga por tercer año seguido y enmaraña los presupuestos
+
+El Gobierno se esfuerza en aparentar normalidad, pero muy pocas cosas lo son esta legislatura. Mientras el Pleno del Congreso celebraba este jueves su segunda sesión plenaria extraordinaria del mes de julio, el expresidente José Luis Rodríguez Zapatero trataba de explicar, sin aclarar nada, por qué tenía joyas valorada.
+
+Date: 2026-07-23
+
+### Vox y PP piden a Tribunal de Cuentas que investigue a la Diputación de Badajoz tras la condena al hermano de Sánchez
+
+Vox y PP han pedido al Tribunal de Cuentas que investigue por responsabilidad contable a la Diputación de Badajoz tras la condena a David Sánchez , hermano del presidente del Gobierno, por prevaricación administrativa por la plaza que se le concedió de manera irregular, según la sentencia, en la institución provincial.
+
+Date: 2026-07-23
+
+### Sánchez, a Feijóo: "Se le ha olvidado que hay unas elecciones de por medio, y ya veremos"
+
+"Una cosa sí que es cierta, leía en un periódico que ya asume que van a ser en 2027", ha añadido Sánchez, en alusión a que el líder del PP, que pide una y otra vez un adelanto electoral, ha expresado públicamente que finalmente los comicios serán el próximo año Feijóo da por hecha su llegada a Moncloa sin esperar a las.
+
+Date: 2026-07-23
+
+### El Gobierno salva tres leyes, pero vuelve a perder la senda de déficit
+
+El Gobierno de Pedro Sánchez ha salido del último pleno extraordinario del curso político con un sabor agridulce: ha salvado tres iniciativas con rango de ley, pero ha sufrido una nueva derrota en la senda de déficit, que ha sido la votación de mayor calado político de la jornada porque es el paso previo para poder pre.
+
+Date: 2026-07-23
+
+### Sánchez instó a Zapatero a hablar en TVE para reducir la presión sobre el Gobierno por el rescate de Plus Ultra
+
+El presidente del Gobierno , Pedro Sánchez , instó al expresidente del Ejecutivo, José Luis Rodríguez Zapatero , a comparecer públicamente para dar explicaciones y proclamar su inocencia en TVE , según han confirmado fuentes del entorno del presidente a OKDIARIO . Según estas mismas fuentes, ambos siguen manteniendo un.
+
+Date: 2026-07-23
+
+### Sánchez y Pradales aplazan su reunión bilateral por la falta de acuerdos sobre las transferencias
+
+El Gobierno vasco y el central han decidido de «común acuerdo» aplazar hasta después del periodo estival la Comisión Bilateral de Cooperación presidida por el lehendakari, Imanol Pradales , y el presidente, Pedro Sánchez , que se iba a celebrar este mes, para seguir trabajando en la búsqueda de acuerdos sobre las trans.
+
+Date: 2026-07-23
+
+### El PP denuncia a David Sánchez para que devuelva los 417.000 euros del sueldo que ganó
+
+El PP ha denunciado ante el Tribunal de Cuentas la contratación de David Sánchez en la Diputación de Badajoz y pide que se determine si debe reintegrar hasta 416.798,82 euros por las retribuciones y cotizaciones sociales vinculadas a la plaza que ocupó desde julio de 2017. La denuncia fue presentada por el portavoz pop.
+
+Date: 2026-07-23
+
+### Denuncia contra David Sánchez Pérez-Castejón ante el Tribunal de Cuentas para que devuelva las nóminas que cobró en la Diputación de Badajoz
+
+Una de las acusaciones particulares, Iustitia Europa, quiere que tanto el hermano del presidente del Gobierno como su amigo de Moncloa devuelvan los ingresos públicos que recibieron tras no requerirlos ni la Diputación de Badajoz ni la Fiscalía Leer.
 
 Date: 2026-07-23
 
@@ -26,49 +68,13 @@ Para el Partido Popular, la primera entrevista que ha dado el expresidente del G
 
 Date: 2026-07-23
 
-### Una exministra de Sánchez gobierna la ciudad que más tarda en pagar de toda España: 80 días, según Hacienda
-
-El Ayuntamiento de Las Palmas de Gran Canaria tardó una media de 80,43 días en pagar sus facturas en mayo -un dato lastrado por dos sociedades municipales, la de Promoción de la Ciudad (89,41) y la urbanística Geursa (90,66) -, según las cifras que difundió esta semana el Ministerio de Hacienda . Es casi el triple del.
-
-Date: 2026-07-23
-
-### El PP pide la dimisión de Rosario Sánchez por apoyar la protesta antiturismo de Palma siendo el máximo cargo del sector
-
-El senador y portavoz de turismo del Partido Popular en el Senado , Agustín Alomodóbar , ha registrado este jueves una batería de preguntas en la Cámara Alta para que el Gobierno apoye o reprenda a la secretaria de Estado de Turismo y candi target="_blank" rel="noopener noreferrer">por apoyar públicamente la manifestac.
-
-Date: 2026-07-23
-
-### El Govern de Prohens apremia a Rosario Sánchez para que diga «si se manifestará contra sus propias políticas»
-
-El portavoz del Govern balear que preside Marga Prohens , Antoni Costa , ha invitado este jueves a la secretaria de Estado de Turismo, Rosario Sánchez , a que confirme «si se manifestará en contra de sus propias políticas» en la protesta antiturística convocada para el próximo domingo en Palma . Sánchez ha mostrado est.
-
-Date: 2026-07-23
-
-### Javier Ruiz, sobre irse de la RTVE de Pedro Sánchez y 'Mañaneros '360': «Me dan ganas de dejarlo todas las mañanas. Hay un coste humano»
-
-El presentador de 'Mañaneros' entrevistará a José Luis Rodríguez Zapatero este jueves tras la declaración de Julio Martínez.
-
-Date: 2026-07-23
-
-### El Gobierno propone a Yolanda Díaz para dirigir la Organización Internacional del Trabajo
-
-Sánchez destaca que la vicepresidenta "ha demostrado con políticas y resultados su compromiso con los derechos laborales, el diálogo social y la prosperidad de España" Leer.
-
-Date: 2026-07-23
-
-### El Gobierno propone a la vicepresidenta Yolanda Díaz como candidata a dirigir la OIT
-
-El presidente Sánchez anuncia el "honor" de postular a su ministra de Trabajo quien "ha demostrado con políticas y resultados su compromiso con los derechos laborales, el diálogo social y la prosperidad de España" Qué es la OIT: el organismo de Naciones Unidas amenazado por Trump en el que sitúan a Yolanda Díaz El Gobi.
-
-Date: 2026-07-23
-
-### Junts insiste en que Sánchez se aparte y se «ponga a alguien» que cumpla los compromisos
-
-La portavoz de Junts en el Congreso, Miriam Nogueras, ha exigido hoy que se aparte Pedro Sánchez y se «ponga a alguien» que cumpla los acuerdos con Junts . Además, y en cuanto a la propuesta de financiación autonómica, ha exigido que Cataluña tenga la «llave de la caja» para recaudar y gestionar los recursos y ha empla.
-
-Date: 2026-07-23
-
 ## Fuentes
 
-- [Denuncia contra David Sánchez Pérez-Castejón ante el Tribunal de Cuentas para que devuelva las nóminas que cobró en la Diputación de Badajoz](https://www.elmundo.es/espana/2026/07/23/6a612007e4d4d892728b4571.html?utm_source=lootura.com) — 2026-07-23T05:01:46.000Z
+- [La senda de déficit de Sánchez naufraga por tercer año seguido y enmaraña los presupuestos](https://www.abc.es/espana/senda-deficit-sanchez-naufraga-tercer-ano-seguido-20260723202117-nt.html?utm_source=lootura.com) — 2026-07-23T19:30:13.000Z
+- [Vox y PP piden a Tribunal de Cuentas que investigue a la Diputación de Badajoz tras la condena al hermano de Sánchez](https://www.elindependiente.com/espana/2026/07/23/vox-y-pp-piden-a-tribunal-de-cuentas-que-investigue-a-la-diputacion-de-badajoz-tras-la-condena-al-hermano-de-sanchez/?utm_source=lootura.com) — 2026-07-23T18:16:42.000Z
 - [La cúpula del PSOE da por buenas las explicaciones de Zapatero: "Mantenemos nuestro apoyo"](https://amp.elmundo.es/espana/2026/07/23/6a6202be21efa0605a8b45ba.html?utm_source=lootura.com) — 2026-07-23T12:02:40.000Z
+- [Sánchez, a Feijóo: "Se le ha olvidado que hay unas elecciones de por medio, y ya veremos"](https://www.eldiario.es/politica/sanchez-feijoo-le-olvidado-hay-elecciones-medio-veremos_1_13403082.html?utm_source=lootura.com) — 2026-07-23T18:29:29.000Z
+- [El Gobierno salva tres leyes, pero vuelve a perder la senda de déficit](https://www.lavanguardia.com/politica/20260723/11599704/gobierno-salva-tres-leyes-vuelve-perder-senda-deficit.html?utm_source=lootura.com) — 2026-07-23T19:16:03.000Z
+- [Sánchez instó a Zapatero a hablar en TVE para reducir la presión sobre el Gobierno por el rescate de Plus Ultra](https://okdiario.com/espana/sanchez-insto-zapatero-hablar-tve-reducir-presion-sobre-gobierno-rescate-plus-ultra-19055476?utm_source=lootura.com) — 2026-07-23T18:54:06.000Z
+- [Sánchez y Pradales aplazan su reunión bilateral por la falta de acuerdos sobre las transferencias](https://theobjective.com/espana/politica/2026-07-23/sanchez-pradales-reunion-bilateral-acuerdos-transferencias/?utm_source=lootura.com) — 2026-07-23T20:19:26.000Z
+- [El PP denuncia a David Sánchez para que devuelva los 417.000 euros del sueldo que ganó](https://theobjective.com/espana/politica/2026-07-23/pp-david-sanchez-417-000-plaza-diputacion-badajoz/?utm_source=lootura.com) — 2026-07-23T19:57:19.000Z

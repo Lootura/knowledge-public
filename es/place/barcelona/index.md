@@ -3,10 +3,16 @@
 > Sigue la actividad de Barcelona en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-23T17:19:26.220Z
+- Actualizado: 2026-07-23T21:01:09.831Z
 - Canonical: https://atlas.lootura.com/es/place/barcelona
 
 ## Cambios recientes
+
+### Incendios en España, en directo: restablecida la circulación de la alta velocidad entre Madrid y Barcelona
+
+Los servicios de emergencia continúan trabajando en varios incendios forestales activos en distintos puntos de España, con especial atención a la evolución de los fuegos declarados en Castilla-La Mancha, Cataluña, Castilla y León, Andalucía y Aragón.
+
+Date: 2026-07-23
 
 ### Incendios en España, en directo: restablecida la circulación de la alta velocidad entre Madrid y Barcelona
 
@@ -62,12 +68,6 @@ Los Bombers de Barcelona trabajan con 9 dotaciones esta noche del miércoles al 
 
 Date: 2026-07-23
 
-### Cómo Marc Cucurella y Claudia Rodríguez convirtieron la conciliación en una decisión estratégica
-
-Suele decirse que las personas que tienen una sonrisa perenne y que buscan alegrar a los demás son las que más han sufrido. No sabemos si esta es la razón detrás de la radiante sonrisa de Marc Cucurella (Alella, Barcelona, 1998) , el lateral izquierdo que el pasado domingo ayudó a la selección española a levantar su se.
-
-Date: 2026-07-22
-
 ## Fuentes
 
-- [Incendios en España, en directo: restablecida la circulación de la alta velocidad entre Madrid y Barcelona](https://www.larazon.es/sociedad/incendios-espana-directo-hoy-ultima-hora-fuegos-activos-operativos-extincion_202607236a6192fada3add27d4dd1811.html?utm_source=lootura.com) — 2026-07-23T17:00:26.000Z
+- [Incendios en España, en directo: restablecida la circulación de la alta velocidad entre Madrid y Barcelona](https://www.larazon.es/sociedad/incendios-espana-directo-hoy-ultima-hora-fuegos-activos-operativos-extincion_202607236a6192fada3add27d4dd1811.html?outputType=amp&utm_source=lootura.com) — 2026-07-23T20:54:17.000Z

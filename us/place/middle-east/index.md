@@ -3,7 +3,7 @@
 > Follow Middle East, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-23T17:20:03.497Z
+- Updated: 2026-07-23T21:01:27.760Z
 - Canonical: https://atlas.lootura.com/us/place/middle-east
 
 ## Recent changes
@@ -11,6 +11,18 @@
 ### What Visuals Show About Recent Damage to U.S. Military Sites in the Middle East
 
 Video footage and satellite images reveal new details about Iranian strikes on U.S. targets during the latest flare-up in fighting.
+
+Date: 2026-07-23
+
+### Marco Rubio describes Trump's military strategy with Iran as a ‘head for an eye’
+
+NBC News’ Gabe Gutierrez, Richard Engel and Courtney Kube discuss President Trump’s threats to escalate attacks inside Iran as fears grow over a widening conflict in the Middle East. NBC News Contributor Hooman Maj analyzes the state of diplomacy between the U.S. and Iran after 12 consecutive days of U.S. attacks.
+
+Date: 2026-07-23
+
+### U.S.-Saudi Deal Prompts Fears of a Global Nuclear Arms Race
+
+In Europe, Asia and the Middle East, countries seek nuclear capabilities to hedge against aggressive neighbors and a receding Washington, potentially creating a more freewheeling era.
 
 Date: 2026-07-23
 
@@ -56,20 +68,8 @@ President Trump spoke at a high school in Marietta, Georgia, on Wednesday, after
 
 Date: 2026-07-22
 
-### Trump will attend the dignified transfer of 4 U.S. service members killed in the Middle East
-
-The ritual is one of the most somber duties of a commander-in-chief.
-
-Date: 2026-07-22
-
-### Trump escalates threats on Iran as he attends dignified transfer of fallen soldiers
-
-NBC News correspondents Monica Alba, Courtney Kube and Julie Tsirkin report on recent developments regarding the war with Iran as President Trump attends the dignified transfer of four soldiers killed in the Middle East. NBC News Intelligence Reporter Dan De Luce reports on President Trump’s approval of a deal with Sau.
-
-Date: 2026-07-22
-
 ## Sources
 
-- [Coal-fired power generation rising globally on Mideast war: IEA](https://phys.org/news/2026-07-coal-power-generation-globally-mideast.html?utm_source=lootura.com) — 2026-07-23T17:19:32.000Z
-- [What Visuals Show About Recent Damage to U.S. Military Sites in the Middle East](https://www.nytimes.com/2026/07/22/world/middleeast/iran-war-us-bases-images.html?utm_source=lootura.com) — 2026-07-23T01:37:39.000Z
+- [Marco Rubio describes Trump's military strategy with Iran as a ‘head for an eye’](https://www.nbcnews.com/meet-the-press/video/marco-rubio-describes-trump-s-military-strategy-with-iran-as-a-head-for-an-eye-267186757837?utm_source=lootura.com) — 2026-07-23T20:30:39.000Z
 - [U.S.-Saudi Deal Prompts Fears of a Global Nuclear Arms Race](https://www.nytimes.com/2026/07/23/world/europe/us-saudi-deal-nuclear-hedging.html?utm_source=lootura.com) — 2026-07-23T15:28:15.000Z
+- [What Visuals Show About Recent Damage to U.S. Military Sites in the Middle East](https://www.nytimes.com/2026/07/22/world/middleeast/iran-war-us-bases-images.html?utm_source=lootura.com) — 2026-07-23T01:37:39.000Z

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/julio-martinez/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/julio-martinez/index.json",
   "description": "Sigue la actividad de Julio Martínez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-23T17:19:26.220Z",
+  "updatedAt": "2026-07-23T21:01:09.831Z",
   "aliases": [
     "Julio Mart",
     "Julio Martínez Martínez",
@@ -68,17 +68,11 @@
   ],
   "sources": [
     {
-      "title": "Zapatero no aclara el origen de las joyas y niega su implicación en Plus Ultra",
-      "url": "https://www.abc.es/espana/zapatero-reafirma-inocencia-aclara-origen-joyas-regalo-20260723131048-nt.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-23T16:41:00.000Z",
-      "sourceId": "lootura-es-abc"
-    },
-    {
       "title": "Los titulares de la entrevista a Zapatero: de la estrategia de defensa de Julio Martínez a los trabajos de sus hijas",
       "url": "https://elpais.com/espana/2026-07-23/las-titulares-de-la-entrevista-a-zapatero-de-la-estrategia-de-defensa-de-julio-martinez-a-los-trabajos-de-sus-hijas.html?utm_source=lootura.com",
       "publishedAt": "2026-07-23T12:32:24.000Z",
       "sourceId": "lootura-es-el-pais"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

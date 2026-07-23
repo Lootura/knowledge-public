@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/topic/artificial-intelligence/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/topic/artificial-intelligence/index.json",
   "description": "Follow Artificial intelligence, a tracked topic, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-23T17:20:03.497Z",
+  "updatedAt": "2026-07-23T21:01:27.760Z",
   "aliases": [
     "AI",
     "AI science",
@@ -43,6 +43,21 @@
       "date": "2026-07-23"
     },
     {
+      "title": "Trump talks plan to prevent ratepayers from shouldering costs of new AI data centers",
+      "summary": "President Trump spoke Thursday about a plan to prevent ratepayers from taking on the costs of a new AI data centers. CBS News' Kelly O'Grady has more.",
+      "date": "2026-07-23"
+    },
+    {
+      "title": "Machine learning narrows search for additional particles in the Higgs boson family",
+      "summary": "What if the Higgs boson found in 2012 is not alone but is the only sibling we have encountered so far? Scientists at CERN discovered the particle that year, and it was a major discovery because it explained how other particles acquire mass. For a long time, scientists thought this was the final piece of the puzzle.",
+      "date": "2026-07-23"
+    },
+    {
+      "title": "Patreon is laying off 20 percent of workers",
+      "summary": "Patreon is laying off 20 percent of its workers, or around 93 employees, as reported earlier by 404 Media . In a memo to employees, Patreon CEO Jack Conte writes that the company isn't making these changes \"because we believe AI replaces humans,\" but says AI has \"fundamentally transformed the tech industry, including h.",
+      "date": "2026-07-23"
+    },
+    {
       "title": "Product availability changed in Europe",
       "summary": "Lawmakers are preparing to introduce an \"AI Kill Switch Act\" that would require AI companies to shut down or throttle their systems on orders from the Department of Homeland Security, according to a report from Politico . Reps. Ted Lieu (D-CA) and Nathaniel Moran (R-TX) are expected to introduce the legislation on Thur.",
       "date": "2026-07-23"
@@ -61,21 +76,6 @@
       "title": "Funding milestone detected",
       "summary": "Investment in artificial intelligence and related companies is lifting the stock market and spending across the economy.",
       "date": "2026-07-22"
-    },
-    {
-      "title": "In pursuit of 'Instagram face,' are we losing the imperfections that make us human?",
-      "summary": "Plastic surgery is becoming so normalized and undetectable, it's changing our relationship to reality. The New Yorker staff writer Jia Tolentino considers how beauty standards have dovetailed with AI.",
-      "date": "2026-07-22"
-    },
-    {
-      "title": "Funding milestone detected",
-      "summary": "Breakthroughs in Chinese AI models are sending shockwaves through Washington and Silicon Valley. Chinese companies are narrowing the AI gap despite vast differences in computing power and resources. It comes as the White House is planning to redirect billions in funding from universities to individuals in a bid to acce.",
-      "date": "2026-07-22"
-    },
-    {
-      "title": "AI and quantum chemistry combine to identify efficient blue OLED materials",
-      "summary": "Organic light-emitting diodes (OLEDs) have become a standard in modern devices with incredible contrast and sleek designs. While initially an expensive luxury, OLEDs are gradually becoming more financially accessible as the technology improves. Now, researchers at the Institute of Transformative Bio-Molecules (WPI-ITbM.",
-      "date": "2026-07-22"
     }
   ],
   "sources": [
@@ -83,6 +83,12 @@
       "title": "Tilly Norwood's creator insists the AI actor is creating Hollywood jobs",
       "url": "https://www.cbsnews.com/news/tilly-norwood-ai-actor-hollywood-jobs/?utm_source=lootura.com",
       "publishedAt": "2026-07-23T17:05:00.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
+    {
+      "title": "Trump talks plan to prevent ratepayers from shouldering costs of new AI data centers",
+      "url": "https://www.cbsnews.com/video/trump-talks-plan-to-prevent-ratepayers-from-shouldering-costs-of-new-ai-data-centers/?utm_source=lootura.com",
+      "publishedAt": "2026-07-23T20:30:42.000Z",
       "sourceId": "lootura-us-cbs-news"
     },
     {
@@ -98,11 +104,17 @@
       "sourceId": "lootura-us-npr"
     },
     {
-      "title": "Lawmakers prepare bill requiring AI ‘kill switch’",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/969939/lawmakers-ai-kill-switch-proposal?utm_source=lootura.com",
-      "publishedAt": "2026-07-23T14:13:35.000Z",
+      "title": "Machine learning narrows search for additional particles in the Higgs boson family",
+      "url": "https://phys.org/news/2026-07-machine-narrows-additional-particles-higgs.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-23T20:50:01.000Z",
+      "sourceId": "lootura-us-phys-org"
+    },
+    {
+      "title": "Patreon is laying off 20 percent of workers",
+      "url": "https://www.theverge.com/tech/970211/patreon-layoffs-ai?utm_source=lootura.com",
+      "publishedAt": "2026-07-23T18:20:30.000Z",
       "sourceId": "lootura-us-the-verge"
     }
   ],
-  "evidenceCount": 4
+  "evidenceCount": 6
 }

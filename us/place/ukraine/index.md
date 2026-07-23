@@ -70,4 +70,4 @@ Date: 2026-07-21
 
 ## Sources
 
-- [Zelensky’s Dizzying U-Turn Is the Latest Zigzag in a Presidency Full of Them](https://www.nytimes.com/2026/07/23/world/europe/zelensky-ukraine-military-reversal.html?utm_source=lootura.com) — 2026-07-23T15:45:00.000Z
+No public source links.

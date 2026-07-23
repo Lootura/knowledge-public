@@ -3,10 +3,16 @@
 > Follow Erica Schwartz, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-07-16T13:45:32.280Z
+- Updated: 2026-07-23T21:01:27.760Z
 - Canonical: https://atlas.lootura.com/us/person/erica-schwartz
 
 ## Recent changes
+
+### Key Republican Senator Says He Will Support Erica Schwartz for C.D.C. Director
+
+Senator Bill Cassidy, who is believed to hold the deciding vote in the Senate health committee for Dr. Erica Schwartz’s confirmation, had declined for days to say whether he would back her.
+
+Date: 2026-07-23
 
 ### Discovered by Atlas
 
@@ -46,4 +52,4 @@ Date: 2026-07-15
 
 ## Sources
 
-No public source links.
+- [Key Republican Senator Says He Will Support Erica Schwartz for C.D.C. Director](https://www.nytimes.com/2026/07/23/health/erica-schwartz-cdc-vote.html?utm_source=lootura.com) — 2026-07-23T18:51:07.000Z

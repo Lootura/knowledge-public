@@ -3,7 +3,7 @@
 > Sigue la actividad de San Sebastián en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-23T17:19:26.220Z
+- Actualizado: 2026-07-23T21:01:09.831Z
 - Canonical: https://atlas.lootura.com/es/place/san-sebastian
 
 ## Cambios recientes
@@ -11,6 +11,18 @@
 ### La Oreja de Van Gogh, a días de su vuelta a casa: «Estamos aterrorizados porque San Sebastián es la plaza más importante de todas»
 
 Xabi San Martín y Álvaro Fuentes desvelan algunas pinceladas sobre los dos conciertos que La Oreja de Van Gogh dará en la capital guipuzcoana la próxima semana.
+
+Date: 2026-07-23
+
+### El PNV reúne a sus dos grandes promesas: el candidato a la alcaldía de Bilbao y el regidor de San Sebastián
+
+El regidor donostiarra y Mikel Hidalgo abordan una agenda común para los grandes retos comunes de ambas ciudades.
+
+Date: 2026-07-23
+
+### El PNV reúne en Donostia a sus dos grandes promesas electorales, Insausti y el candidato a alcalde de Bilbao
+
+El regidor donostiarra y Mikel Hidalgo abordan una agenda común para los grandes retos comunes de ambas ciudades.
 
 Date: 2026-07-23
 
@@ -56,18 +68,8 @@ Los aficionados han llenado desde primera hora de la tarde la avenida de la Zurr
 
 Date: 2026-07-19
 
-### El PNV de Esteban reafirma su entente soberanista con Bildu y usa como arietes del "derecho a decidir" a 200 alcaldes vascos
-
-La diputada general de Guipúzcoa Eider Mendoza amadrina en Bergara un acto conjunto por la "soberanía política". Los alcaldes de Bilbao y San Sebastián, a la cabeza de la convención nacionalista Leer.
-
-Date: 2026-07-19
-
-### El burgalés David Pérez Sañudo estrenará fuera de competición en el Festival de San Sebastián ‘Sacamantecas’, su tercer largometraje
-
-La película está protagonizada por Antonio de la Torre, Patricia López Arnaiz, Josean Bengoetxea, Eneko Sagardoy y Haizea Carneros, y llegará a las salas comerciales el 6 de noviembre.
-
-Date: 2026-07-19
-
 ## Fuentes
 
+- [El PNV reúne a sus dos grandes promesas: el candidato a la alcaldía de Bilbao y el regidor de San Sebastián](https://www.elcorreo.com/politica/pnv-reune-san-sebastian-dos-grandes-promesas-20260723205928-nt_amp.html?utm_source=lootura.com) — 2026-07-23T18:59:29.000Z
+- [El PNV reúne en Donostia a sus dos grandes promesas electorales, Insausti y el candidato a alcalde de Bilbao](https://www.diariovasco.com/politica/pnv-reune-donostia-dos-grandes-promesas-electorales-20260723190914-nt_amp.html?utm_source=lootura.com) — 2026-07-23T18:29:58.000Z
 - [La Oreja de Van Gogh, a días de su vuelta a casa: «Estamos aterrorizados porque San Sebastián es la plaza más importante de todas»](https://www.diariovasco.com/culturas/musica/la-oreja-de-van-gogh-vuelta-san-sebastian-conciertos-aterrorizados-20260723141004-nt_amp.html?utm_source=lootura.com) — 2026-07-23T12:24:48.000Z

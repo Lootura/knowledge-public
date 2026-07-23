@@ -3,7 +3,7 @@
 > Sigue la actividad de Begoña Gómez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-23T17:19:26.220Z
+- Actualizado: 2026-07-23T21:01:09.831Z
 - Canonical: https://atlas.lootura.com/es/person/begona-gomez
 
 ## Cambios recientes
@@ -71,4 +71,3 @@ Date: 2026-07-17
 ## Fuentes
 
 - [La asesora de Begoña Gómez reprocha al juez que les haga recoger en persona el pasaporte](https://www.elmundo.es/espana/2026/07/23/6a62456ce85ece904a8b4576.html?utm_source=lootura.com) — 2026-07-23T16:49:24.000Z
-- [La asistente de Begoña Gómez denuncia que el juez Peinado retiene "a sabiendas" su pasaporte sin justificación](https://www.eldiario.es/politica/asistente-begona-gomez-denuncia-peinado-retiene-sabiendas-pasaporte-justificacion_1_13402071.html?utm_source=lootura.com) — 2026-07-23T14:29:17.000Z

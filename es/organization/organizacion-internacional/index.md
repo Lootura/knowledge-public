@@ -64,5 +64,4 @@ Date: 2026-07-23
 
 ## Fuentes
 
-- [El rechazo de las patronales complica la llegada de Díaz a la OIT](https://www.abc.es/economia/rechazo-patronales-complica-llegada-yolanda-diaz-direccion-20260723111725-nt.html?utm_source=lootura.com) — 2026-07-23T16:41:05.000Z
-- [El Gobierno lanza a Díaz como candidata para dirigir la Organización Internacional del Trabajo](https://www.abc.es/espana/moncloa-propone-yolanda-diaz-optar-direccion-general-20260723090113-nt.html?utm_source=lootura.com) — 2026-07-23T16:37:48.000Z
+No public source links.

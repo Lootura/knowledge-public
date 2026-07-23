@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/alberto-nunez-feijoo/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/alberto-nunez-feijoo/index.json",
   "description": "Sigue la actividad de Alberto Núñez Feijóo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-23T17:19:26.220Z",
+  "updatedAt": "2026-07-23T21:01:09.831Z",
   "aliases": [
     "Alberto",
     "Alberto Nuñez",
@@ -22,6 +22,11 @@
     "Núñez Feijóo"
   ],
   "changes": [
+    {
+      "title": "Sánchez, a Feijóo: \"Se le ha olvidado que hay unas elecciones de por medio, y ya veremos\"",
+      "summary": "\"Una cosa sí que es cierta, leía en un periódico que ya asume que van a ser en 2027\", ha añadido Sánchez, en alusión a que el líder del PP, que pide una y otra vez un adelanto electoral, ha expresado públicamente que finalmente los comicios serán el próximo año Feijóo da por hecha su llegada a Moncloa sin esperar a las.",
+      "date": "2026-07-23"
+    },
     {
       "title": "La desvergüenza de comparar a Feijóo con Hitler",
       "summary": "Comparar a Feijóo con Hitler no es solo una ofensa a las víctimas, sino que demuestra que Diana Morant es una sectaria sin escrúpulos.",
@@ -66,19 +71,14 @@
       "title": "Feijóo da por hecha su llegada a Moncloa sin esperar a las elecciones: \"Será una limpieza a fondo\"",
       "summary": "\"La zona cero de la corrupción es la Moncloa y el señor X es Sánchez\", afirma el líder del PP en su comparecencia de balance de fin de curso en la que anuncia que enmendará todas las políticas del Gobierno progresista El PP de Feijóo promete una ambiciosa contrarreforma legal con recortes en derechos sociales si llega.",
       "date": "2026-07-22"
-    },
-    {
-      "title": "Feijóo arremete contra Sánchez: “Son sus últimas Navidades en la Moncloa”",
-      "summary": "Alberto Núñez Feijóo ha hecho este miércoles balance del curso político que ha acabado y ha dado la legislatura por finiquitada en un momento en que la debilidad del Gobierno en el Congreso impide prácticamente la aprobación de leyes y los casos de corrupción cercan al entorno político y personal de Pedro Sánchez. Fren.",
-      "date": "2026-07-22"
     }
   ],
   "sources": [
     {
-      "title": "La desvergüenza de comparar a Feijóo con Hitler",
-      "url": "https://okdiario.com/opinion/desverguenza-comparar-feijoo-hitler-19055633/amp?utm_source=lootura.com",
-      "publishedAt": "2026-07-23T17:00:47.000Z",
-      "sourceId": "lootura-es-ok-diario"
+      "title": "Sánchez, a Feijóo: \"Se le ha olvidado que hay unas elecciones de por medio, y ya veremos\"",
+      "url": "https://www.eldiario.es/politica/sanchez-feijoo-le-olvidado-hay-elecciones-medio-veremos_1_13403082.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-23T18:29:29.000Z",
+      "sourceId": "lootura-es-eldiario-es"
     }
   ],
   "evidenceCount": 1

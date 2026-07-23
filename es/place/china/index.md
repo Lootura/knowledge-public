@@ -3,10 +3,16 @@
 > Sigue la actividad de China en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-23T17:19:26.220Z
+- Actualizado: 2026-07-23T21:01:09.831Z
 - Canonical: https://atlas.lootura.com/es/place/china
 
 ## Cambios recientes
+
+### La planta de Almusafes entra de lleno en la guerra comercial entre EE.UU. y China
+
+Washington carga contra la empresa Ford por su alianza con la china Geely y alerta de que el acuerdo puede reforzar la expansión industrial de Pekín en Europa.
+
+Date: 2026-07-23
 
 ### Ford da entrada al grupo chino Geely en Almussafes con un 34%
 
@@ -62,12 +68,6 @@ Hace unos días escribí sobre la experiencia de un robotaxi , vehículo sin con
 
 Date: 2026-07-19
 
-### China exige a Trump que aparque el «invento» de la presunta injerencia electoral en 2020
-
-China ha rechazado por completo las acusaciones formuladas por el presidente de Estados Unidos , Donald Trump , quien, esta pasada noche y en un discurso ante la nación, denunció que las autoridades de Pekín se habían inmiscuido en el desarrollo de las elecciones de 2020 . Trump y el Gobierno de Estados Unidos acusaron.
-
-Date: 2026-07-17
-
 ## Fuentes
 
-- [Ford vende a la china Geely el 34% de su planta de Valencia, donde ambas fabricarán cinco modelos](https://www.elmundo.es/economia/empresas/2026/07/23/6a61de0d21efa09d488b45ae.html?utm_source=lootura.com) — 2026-07-23T10:21:20.000Z
+- [La planta de Almusafes entra de lleno en la guerra comercial entre EE.UU. y China](https://www.abc.es/internacional/planta-almusafes-entra-lleno-guerra-comercial-eeuu-20260722224548-nt_amp.html?utm_source=lootura.com) — 2026-07-23T20:47:35.000Z

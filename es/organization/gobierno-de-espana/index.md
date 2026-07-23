@@ -3,10 +3,16 @@
 > Sigue la actividad de Gobierno de España en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-22T10:23:10.282Z
+- Actualizado: 2026-07-23T21:01:09.831Z
 - Canonical: https://atlas.lootura.com/es/organization/gobierno-de-espana
 
 ## Cambios recientes
+
+### Madrid solicita la emergencia nacional por los incendios: "Estamos con fuegos fuera de capacidad de extinción"
+
+La Comunidad de Madrid ha solicitado al Gobierno de España la declaración de la Situación Operativa 3 del Plan Especial de Protección Civil de Emergencia por Incendios Forestales (INFOMA) ante la gravedad de los incendios que afectan de forma simultánea a varias comunidades autónomas. El Ejecutivo regional ha explicado.
+
+Date: 2026-07-23
 
 ### PP y Vox llevan por primera vez a una ley la "prioridad nacional" con la aprobación de los presupuestos de la Generalitat Valenciana
 
@@ -62,12 +68,6 @@ El ministro francés del Interior, Laurent Nuñez, ha calificado este domingo de
 
 Date: 2026-07-12
 
-### Francia ve «absolutamente inaceptables» las palabras de Rajoy sobre su selección
-
-El expresidente del Gobierno español Mariano Rajoy ha suscitado este domingo una ola de críticas en Francia. Varios miembros del Ejecutivo de Sébastien Lecornu han tachado de «racista» e «inaceptable» el comentario del exjefe del Ejecutivo español (2011-2018) sobre la selección francesa , que se enfrentará el martes a.
-
-Date: 2026-07-12
-
 ## Fuentes
 
-No public source links.
+- [Madrid solicita la emergencia nacional por los incendios: "Estamos con fuegos fuera de capacidad de extinción"](https://www.larazon.es/madrid/madrid-solicita-emergencia-nacional-incendios-estamos-incendios-fuera-capacidad-extincion_202607236a627568aa17c0020f2c4811.html?utm_source=lootura.com) — 2026-07-23T20:11:20.000Z

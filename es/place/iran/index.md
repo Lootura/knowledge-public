@@ -3,7 +3,7 @@
 > Sigue la actividad de Irán en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-23T17:19:26.220Z
+- Actualizado: 2026-07-23T21:01:09.831Z
 - Canonical: https://atlas.lootura.com/es/place/iran
 
 ## Cambios recientes
@@ -17,6 +17,18 @@ Date: 2026-07-23
 ### El petróleo vuelve a superar los 100 dólares y desata otra oleada de ventas en los mercados
 
 Después de un mes de junio en el que la Bolsa, el petróleo y la deuda celebraron el acercamiento entre EE UU e Irán, julio ha dado un vuelco al sentimiento de los mercados. Dos semanas después de que Washington diera por rota la tregua y los ataques se intensificaran, un nuevo actor ha entrado en escena: los hutíes de.
+
+Date: 2026-07-23
+
+### El Congreso convalida el nuevo decreto anticrisis por la guerra en Irán entre críticas de los grupos por considerarlo "insuficiente"
+
+El Congreso ha convalidado este jueves, con el apoyo de la mayoría de los grupos, la abstención del PP y Podemos y el rechazo de Vox, un nuevo decreto anticrisis, más limitado que el anterior , para hacer frente a las consecuencias económicas de la guerra en Irán. La norma, en vigor desde hace un mes, prorroga parte de.
+
+Date: 2026-07-23
+
+### El Congreso rechaza otra vez la senda de déficit con el voto de PP, Vox y Junts y da vía libre al Gobierno para el Presupuesto
+
+El Ejecutivo cumple el trámite de las dos votaciones de la senda de estabilidad para volver de las vacaciones con todo preparado para presentar las cuentas públicas El Gobierno salva el escudo anticrisis por la guerra en Irán con rebajas fiscales en los carburantes hasta octubre El Congreso ha tumbado con los votos del.
 
 Date: 2026-07-23
 
@@ -56,19 +68,9 @@ De las muchas justificaciones que Donald Trump ha dado en casi cinco meses para 
 
 Date: 2026-07-22
 
-### Trump amenaza con destruir puentes o centrales eléctricas cada vez que Irán ataque un barco en Ormuz
-
-Estados Unidos e Irán cada vez están más cerca de una guerra total al tiempo que el conflicto entra en un callejón sin salida. El presidente de Estados Unidos, Donald Trump, ha prometido este miércoles destruir un puente o una central eléctrica iraní cada vez que Irán dispare contra un barco en el estrecho de Ormuz. El.
-
-Date: 2026-07-22
-
-### El Ibex remonta un 0,99% y recupera los 19.500 puntos pese al repunte del precio del petróleo
-
-La Bolsa española ha ganado el 0,99% este miércoles y ha recuperado el nivel de los 19.500 puntos en una jornada marcada por los resultados empresariales y a pesar del repunte del precio del petróleo en el undécimo día de ataques ininterrumpidos entre EEUU e Irán. El principal índice del mercado nacional, el Ibex 35, h.
-
-Date: 2026-07-22
-
 ## Fuentes
 
-- [El petróleo vuelve a superar los 100 dólares y desata otra oleada de ventas en los mercados](https://cincodias.elpais.com/mercados-financieros/2026-07-23/la-bolsa-y-el-ibex-35.html?utm_source=lootura.com) — 2026-07-23T16:15:32.000Z
+- [El Congreso convalida el nuevo decreto anticrisis por la guerra en Irán entre críticas de los grupos por considerarlo "insuficiente"](https://www.20minutos.es/nacional/congreso-convalida-nuevo-decreto-anticrisis-por-guerra-iran-entre-criticas-los-grupos-por-ser-insuficiente_7018223_0.html?utm_source=lootura.com) — 2026-07-23T18:51:43.000Z
+- [El petróleo vuelve a superar los 100 dólares y desata otra oleada de ventas en los mercados](https://cincodias.elpais.com/mercados-financieros/2026-07-23/la-bolsa-y-el-ibex-35.html?utm_source=lootura.com) — 2026-07-23T20:08:19.000Z
 - [El BCE mantiene los tipos y anticipa una nueva subida en septiembre si la guerra en Irán persiste](https://www.elcorreo.com/economia/bce-mantiene-tipos-anticipa-nueva-subida-septiembre-20260723141530-ntrc_amp.html?utm_source=lootura.com) — 2026-07-23T12:16:09.000Z
+- [El Congreso rechaza otra vez la senda de déficit con el voto de PP, Vox y Junts y da vía libre al Gobierno para el Presupuesto](https://www.eldiario.es/economia/congreso-rechaza-vez-senda-deficit-voto-pp-vox-junts-da-via-libre-gobierno-presupuesto_1_13402684.html?utm_source=lootura.com) — 2026-07-23T18:59:41.000Z

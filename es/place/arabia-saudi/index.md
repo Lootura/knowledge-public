@@ -70,4 +70,4 @@ Date: 2026-07-22
 
 ## Fuentes
 
-- [Los técnicos de Hacienda apuntan a la prescripción de los delitos fiscales de Zapatero](https://www.expansion.com/economia/2026/07/23/6a622417e5fdea045b8b4598.html?utm_source=lootura.com) — 2026-07-23T14:28:08.000Z
+No public source links.

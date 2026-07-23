@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/object/la-moncloa/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/object/la-moncloa/index.json",
   "description": "Sigue la actividad de Palacio de la Moncloa en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-23T10:20:05.700Z",
+  "updatedAt": "2026-07-23T21:01:09.831Z",
   "aliases": [
     "La Moncloa",
     "Moncloa Palace"
@@ -40,6 +40,13 @@
       "date": "2026-07-20"
     }
   ],
-  "sources": [],
+  "sources": [
+    {
+      "title": "El Gobierno de Madrid pide a La Moncloa que tome el control ante la evolución de los incendios",
+      "url": "https://elpais.com/espana/madrid/2026-07-23/madrid-registra-un-tercer-incendio-que-obliga-a-evacuar-una-urbanizacion-y-un-centro-residencial.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-23T17:02:53.000Z",
+      "sourceId": "lootura-es-el-pais"
+    }
+  ],
   "evidenceCount": 0
 }

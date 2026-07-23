@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/begona-gomez/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/begona-gomez/index.json",
   "description": "Sigue la actividad de Begoña Gómez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-23T17:19:26.220Z",
+  "updatedAt": "2026-07-23T21:01:09.831Z",
   "aliases": [],
   "changes": [
     {
@@ -68,13 +68,7 @@
       "url": "https://www.elmundo.es/espana/2026/07/23/6a62456ce85ece904a8b4576.html?utm_source=lootura.com",
       "publishedAt": "2026-07-23T16:49:24.000Z",
       "sourceId": "lootura-es-el-mundo"
-    },
-    {
-      "title": "La asistente de Begoña Gómez denuncia que el juez Peinado retiene \"a sabiendas\" su pasaporte sin justificación",
-      "url": "https://www.eldiario.es/politica/asistente-begona-gomez-denuncia-peinado-retiene-sabiendas-pasaporte-justificacion_1_13402071.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-23T14:29:17.000Z",
-      "sourceId": "lootura-es-eldiario-es"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/iran/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/iran/index.json",
   "description": "Follow Iran, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-23T17:20:03.497Z",
+  "updatedAt": "2026-07-23T21:01:27.760Z",
   "aliases": [
     "IRI",
     "Islamic Rep. Iran",
@@ -52,18 +52,18 @@
       "date": "2026-07-23"
     },
     {
-      "title": "House Again Rebukes Trump on Iran War Powers Vote",
-      "summary": "For the second time, a few Republicans joined Democrats to back a measure calling on the president to seek authorization for the conflict.",
+      "title": "House votes to end Iran war, but Senate Republicans vote to let Trump continue waging it",
+      "summary": "The House approved a nonbinding proposal to end the Iran war, directing President Donald Trump to remove armed forces from hostilities.",
       "date": "2026-07-23"
     },
     {
-      "title": "House Passes Defense Bill Amid Iran War Divide",
-      "summary": "Republicans pushed through the $1.15 trillion bill over opposition from Democrats, who said backing it was akin to embracing the war.",
+      "title": "Marco Rubio describes Trump's military strategy with Iran as a ‘head for an eye’",
+      "summary": "NBC News’ Gabe Gutierrez, Richard Engel and Courtney Kube discuss President Trump’s threats to escalate attacks inside Iran as fears grow over a widening conflict in the Middle East. NBC News Contributor Hooman Maj analyzes the state of diplomacy between the U.S. and Iran after 12 consecutive days of U.S. attacks.",
       "date": "2026-07-23"
     },
     {
-      "title": "Trump Attends Dignified Transfer of 4 Troops Killed in Iran Attacks",
-      "summary": "The United States carried out a 12th straight night of airstrikes just hours after President Donald Trump attended the dignified transfer of four American service members killed in Iran attacks. With negotiations to end the war stalled, Trump has threatened to destroy Iran’s bridges and power plants each time it attack.",
+      "title": "For a 2nd time, House approves resolution to end the war in Iran in a rebuke to Trump",
+      "summary": "Four Republicans joined Democrats to approve the measure. And while it is not legally binding, the resolution represents growing frustration inside Congress over the war. (Image credit: J. Scott Applewhite).",
       "date": "2026-07-23"
     }
   ],
@@ -87,10 +87,34 @@
       "sourceId": "lootura-us-nbc-news"
     },
     {
+      "title": "House votes to end Iran war, but Senate Republicans vote to let Trump continue waging it",
+      "url": "https://www.nbcnews.com/politics/congress/house-votes-end-iran-war-senate-republicans-let-trump-continue-war-rcna588874?utm_source=lootura.com",
+      "publishedAt": "2026-07-23T18:20:47.000Z",
+      "sourceId": "lootura-us-nbc-news-politics"
+    },
+    {
+      "title": "Marco Rubio describes Trump's military strategy with Iran as a ‘head for an eye’",
+      "url": "https://www.nbcnews.com/meet-the-press/video/marco-rubio-describes-trump-s-military-strategy-with-iran-as-a-head-for-an-eye-267186757837?utm_source=lootura.com",
+      "publishedAt": "2026-07-23T20:30:39.000Z",
+      "sourceId": "lootura-us-nbc-news-politics"
+    },
+    {
       "title": "Morning news brief",
       "url": "https://www.npr.org/2026/07/23/nx-s1-5895984/morning-news-brief?utm_source=lootura.com",
       "publishedAt": "2026-07-23T08:47:19.000Z",
       "sourceId": "lootura-us-npr"
+    },
+    {
+      "title": "For a 2nd time, House approves resolution to end the war in Iran in a rebuke to Trump",
+      "url": "https://www.npr.org/2026/07/23/nx-s1-5904515/congress-iran-war-powers-vote?utm_source=lootura.com",
+      "publishedAt": "2026-07-23T17:35:02.000Z",
+      "sourceId": "lootura-us-npr-politics"
+    },
+    {
+      "title": "Yemen's Houthis attack Saudi tankers in the Red Sea, threatening to widen Iran war",
+      "url": "https://www.pbs.org/newshour/world/yemens-houthis-attack-saudi-tankers-in-the-red-sea-threatening-to-widen-iran-war?utm_source=lootura.com",
+      "publishedAt": "2026-07-23T17:26:28.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
     },
     {
       "title": "Some House Republicans defect to again pass resolution seeking to halt military action in Iran",
@@ -103,19 +127,7 @@
       "url": "https://www.nytimes.com/2026/07/23/business/iran-war-oil-prices.html?utm_source=lootura.com",
       "publishedAt": "2026-07-23T14:19:17.000Z",
       "sourceId": "lootura-us-the-new-york-times"
-    },
-    {
-      "title": "House Again Rebukes Trump on Iran War Powers Vote",
-      "url": "https://www.nytimes.com/2026/07/23/us/politics/house-iran-war-powers-vote-trump.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-23T15:39:44.000Z",
-      "sourceId": "lootura-us-the-new-york-times-politics"
-    },
-    {
-      "title": "House Adopts $95 Billion G.O.P. Budget for Iran War",
-      "url": "https://www.nytimes.com/2026/07/22/us/politics/house-republicans-iran-budget-pentagon.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-23T08:29:58.000Z",
-      "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 8
+  "evidenceCount": 12
 }

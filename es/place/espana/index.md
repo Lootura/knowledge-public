@@ -3,7 +3,7 @@
 > Sigue la actividad de España en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-23T17:19:26.220Z
+- Actualizado: 2026-07-23T21:01:09.831Z
 - Canonical: https://atlas.lootura.com/es/place/espana
 
 ## Cambios recientes
@@ -14,65 +14,68 @@ Jueves cruel en las regiones mediterráneas, a las que la ola de calor castigar�
 
 Date: 2026-07-23
 
-### El Gobierno lanza a Díaz como candidata para dirigir la Organización Internacional del Trabajo
-
-Despejada la incógnita sobre el futuro político de Yolanda Díaz, que, tras claudicar en su propio proyecto político en España —Sumar, ahora descabezado—, aspira ahora a recolocarse en las Naciones Unidas. La dirigente izquierdista se postula oficialmente para liderar la Organización Internacional del Trabajo (OIT) en G.
-
-Date: 2026-07-23
-
 ### Carrefour eleva ventas y beneficios en España gracias a los frescos y las nuevas aperturas
 
 Carrefour sigue con su buen momento en España, uno de los tres mercados, junto a Francia y Brasil, que tiene fijados como estratégicos. La compañía francesa alcanzó los 5.300 millones de euros en ventas netas en su negocio español a cierre del primer semestre, cifra que supone un incremento del, 2,8% interanual. A perí.
 
 Date: 2026-07-23
 
-### El radar más 'multón' de España está en Valencia y sanciona cada 6 minutos
+### Airbus alcanza un nuevo preacuerdo con los sindicatos, con subidas salariales superiores al IPC
 
-El radar de la DGT que más multas pone en España está en Valencia . Concretamente, se encuentra en el kilómetro 326 de la A-7 , en el 'bypass' a la altura de La Canyada (Paterna) , donde el límite de velocidad es de 120 km/h , al encontrarse en un tramo general de autovía. Seguir leyendo.
+SIPA, el sindicato convocante de la huelga en Airbus España desde el 1 de julio, y ATP han decidido unirse al preacuerdo alcanzado entre CC.OO. y la dirección de la compañía de la semana pasada, que incluye una revisión salarial del 12% hasta 2027 y mantener los dos días de teletrabajo actuales.Las tres organizaciones.
+
+Date: 2026-07-23
+
+### Los incendios mantienen en alerta a los bomberos de todo el país: Ávila, Zamora, Madrid, Guadalajara...
+
+Sigue en directo los incendios forestales activos alrededor de España, en comunidades como Madrid, Castilla y León o Castilla-La Mancha, y la última hora de las personas evacuadas, pueblos confinados y hectáreas quemadas.
+
+Date: 2026-07-23
+
+### España afronta una jornada crítica por los incendios forestales con varios frentes activos
+
+Los incendios de Madrid, Ávila, Murcia y Guadalajara concentran la mayor preocupación en un día marcado por las altas temperaturas y el viento.
 
 Date: 2026-07-23
 
 ### Incendios en España, en directo: restablecida la circulación de la alta velocidad entre Madrid y Barcelona
 
-Los equipos de extinción continúan desplegados en distintos puntos del país para hacer frente a una de las jornadas más complejas de la campaña de incendios forestales. Mientras el incendio de La Mierla (Guadalajara) sigue evolucionando favorablemente y los trabajos se centran en consolidar el perímetro, otros focos ma.
+Los servicios de emergencia continúan trabajando en varios incendios forestales activos en distintos puntos de España, con especial atención a la evolución de los fuegos declarados en Castilla-La Mancha, Cataluña, Castilla y León, Andalucía y Aragón.
 
 Date: 2026-07-23
 
-### Conmoción en la arqueología española: reforman una casa en Mérida y hallan la tumba de una niña con la fecha exacta de su muerte (15 de junio de 516)
+### Madrid solicita la emergencia nacional por los incendios: "Estamos con fuegos fuera de capacidad de extinción"
 
-España vuelve a demostrar que gran parte de su historia sigue enterrada bajo el asfalto y los cimientos de sus ciudades . Cualquier obra de reforma, por pequeña que parezca, puede transformarse en un yacimiento sin previo aviso. Esta vez le ha tocado a una casa en Mérida , que ha acaparado la atención de los arqueólogo.
-
-Date: 2026-07-23
-
-### De la generación sin humo británica a fumar en los bares alemanes: así lucha Europa contra el tabaco
-
-España está un paso más cerca de prohibir fumar a los menores y vetar los cigarrillos de playas y terrazas. El proyecto de ley de tabaco , que reforma la normativa de 2005, ha comenzado su camino parlamentario después de ser aprobado en segunda vuelta este martes en el Consejo de Ministros. Entre los cambios, endurece.
+La Comunidad de Madrid ha solicitado al Gobierno de España la declaración de la Situación Operativa 3 del Plan Especial de Protección Civil de Emergencia por Incendios Forestales (INFOMA) ante la gravedad de los incendios que afectan de forma simultánea a varias comunidades autónomas. El Ejecutivo regional ha explicado.
 
 Date: 2026-07-23
 
-### La CNC alerta de una crisis en la obra pública con 1.900 contratos desiertos o con una sola oferta en el primer semestre
+### La lección de un español en Suiza tras ir a un supermercado: «Vosotros comprando fruta de Marruecos y nosotros comprando fruta de España»
 
-El incremento de costes en la obra pública, por el encarecimiento de materiales básicos y de la energía , está dejando centenares de licitaciones desiertas en España . El presidente de la Confederación Nacional de la Construcción (CNC), Pedro Fernández Alén, ha presentado esta mañana un informe que aflora una media de.
-
-Date: 2026-07-23
-
-### El Gobierno declara la guerra al tabaco con la recaudación de los cigarrillos y vapeadores en máximos históricos
-
-El Gobierno pretende que en España se fume cada vez en menos lugares. El proyecto de ley del tabaco aprobado esta semana por el Consejo de Ministros amplía los espacios sin humo a las terrazas , las playas, las piscinas de uso colectivo y otros espacios al aire libre, endurece las restricciones sobre los cigarrillos el.
+Un vídeo grabado en TikTok por un español residente en Suiza ha reavivado el debate sobre el consumo de frutas y hortalizas en España. Mientras recorría un supermercado suizo, el joven mostró etiquetas de melones, tomates, pimientos, melocotones y otras frutas procedentes de España. Su conclusión fue contundente: «Voso.
 
 Date: 2026-07-23
 
-### Incendios en España, en directo: un incendio produce el corte de la circulación Madrid-Barcelona
+### Carlos Latre confiesa que abandona Mediaset: "Después de 'Got Talent' acaba mi contrato"
 
-Los equipos de extinción continúan desplegados en distintos puntos del país para hacer frente a una de las jornadas más complejas de la campaña de incendios forestales. Mientras el incendio de La Mierla (Guadalajara) sigue evolucionando favorablemente y los trabajos se centran en consolidar el perímetro, otros focos ma.
+Carlos Latre ha confirmado que su contrato con Mediaset España va a terminar en breve una vez terminen las grabaciones de 'Got Talent'.
+
+Date: 2026-07-23
+
+### El Gobierno lanza a Díaz como candidata para dirigir la Organización Internacional del Trabajo
+
+Despejada la incógnita sobre el futuro político de Yolanda Díaz, que, tras claudicar en su propio proyecto político en España —Sumar, ahora descabezado—, aspira ahora a recolocarse en las Naciones Unidas. La dirigente izquierdista se postula oficialmente para liderar la Organización Internacional del Trabajo (OIT) en G.
 
 Date: 2026-07-23
 
 ## Fuentes
 
-- [El Gobierno lanza a Díaz como candidata para dirigir la Organización Internacional del Trabajo](https://www.abc.es/espana/moncloa-propone-yolanda-diaz-optar-direccion-general-20260723090113-nt.html?utm_source=lootura.com) — 2026-07-23T16:37:48.000Z
+- [Airbus alcanza un nuevo preacuerdo con los sindicatos, con subidas salariales superiores al IPC](https://www.abc.es/economia/airbus-alcanza-nuevo-preacuerdo-sindicatos-subidas-salariales-20260723214004-nt.html?utm_source=lootura.com) — 2026-07-23T19:40:40.000Z
+- [Los incendios mantienen en alerta a los bomberos de todo el país: Ávila, Zamora, Madrid, Guadalajara...](https://www.abc.es/sociedad/incendios-espana-hoy-directo-fuegos-activos-madrid-20260723185959-di.html?utm_source=lootura.com) — 2026-07-23T19:23:02.000Z
 - [Carrefour eleva ventas y beneficios en España gracias a los frescos y las nuevas aperturas](https://cincodias.elpais.com/companias/2026-07-23/carrefour-eleva-ventas-y-beneficios-en-espana-gracias-a-los-frescos-y-las-nuevas-aperturas.html?utm_source=lootura.com) — 2026-07-23T17:12:28.000Z
+- [España afronta una jornada crítica por los incendios forestales con varios frentes activos](https://www.elcorreo.com/sociedad/espana-afronta-jornada-critica-incendios-forestales-varios-20260723212619-ntrc_amp.html?utm_source=lootura.com) — 2026-07-23T19:26:20.000Z
 - [Castilla-La Mancha se suma a los avisos rojos por calor de Murcia y la Comunidad Valenciana](https://elpais.com/clima-y-medio-ambiente/2026-07-23/la-tercera-ola-de-calor-del-verano-se-despide-con-avisos-rojos-en-murcia-y-la-comunidad-valenciana.html?utm_source=lootura.com) — 2026-07-23T10:12:32.000Z
-- [El radar más 'multón' de España está en Valencia y sanciona cada 6 minutos](https://www.expansion.com/empresas/motor/2026/07/23/6a62356b468aeb1e5f8b458d.html?utm_source=lootura.com) — 2026-07-23T15:41:41.000Z
-- [Incendios en España, en directo: restablecida la circulación de la alta velocidad entre Madrid y Barcelona](https://www.larazon.es/sociedad/incendios-espana-directo-hoy-ultima-hora-fuegos-activos-operativos-extincion_202607236a6192fada3add27d4dd1811.html?utm_source=lootura.com) — 2026-07-23T17:00:26.000Z
-- [Conmoción en la arqueología española: reforman una casa en Mérida y hallan la tumba de una niña con la fecha exacta de su muerte (15 de junio de 516)](https://okdiario.com/historia/conmocion-arqueologia-espanola-reforman-casa-merida-hallan-tumba-nina-fecha-exacta-muerte-15-junio-516-19055648?utm_source=lootura.com) — 2026-07-23T17:00:14.000Z
+- [Incendios en España, en directo: restablecida la circulación de la alta velocidad entre Madrid y Barcelona](https://www.larazon.es/sociedad/incendios-espana-directo-hoy-ultima-hora-fuegos-activos-operativos-extincion_202607236a6192fada3add27d4dd1811.html?outputType=amp&utm_source=lootura.com) — 2026-07-23T20:54:17.000Z
+- [Madrid solicita la emergencia nacional por los incendios: "Estamos con fuegos fuera de capacidad de extinción"](https://www.larazon.es/madrid/madrid-solicita-emergencia-nacional-incendios-estamos-incendios-fuera-capacidad-extincion_202607236a627568aa17c0020f2c4811.html?utm_source=lootura.com) — 2026-07-23T20:11:20.000Z
+- [La lección de un español en Suiza tras ir a un supermercado: «Vosotros comprando fruta de Marruecos y nosotros comprando fruta de España»](https://okdiario.com/economia/leccion-espanol-suiza-ir-supermercado-vosotros-comprando-fruta-marruecos-nosotros-comprando-fruta-espana-19058150?utm_source=lootura.com) — 2026-07-23T19:40:09.000Z
+- [Carlos Latre confiesa que abandona Mediaset: "Después de 'Got Talent' acaba mi contrato"](https://okdiario.com/cool/television/carlos-latre-confiesa-que-abandona-mediaset-despues-got-talent-acaba-contrato-19058336/amp?utm_source=lootura.com) — 2026-07-23T20:56:03.000Z

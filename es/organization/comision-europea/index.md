@@ -28,4 +28,4 @@ Date: 2026-07-23
 
 ## Fuentes
 
-- [Nueva multa millonaria a Google en Europa, esta vez por dos infracciones a la Ley de Mercados Digitales](https://hipertextual.com/legal/europa-multa-google-890-millones-euros-julio-2026/?utm_source=lootura.com) — 2026-07-23T13:46:48.000Z
+No public source links.

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/donald-trump/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/donald-trump/index.json",
   "description": "Follow Donald Trump, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-23T17:20:03.497Z",
+  "updatedAt": "2026-07-23T21:01:27.760Z",
   "aliases": [
     "@realDonaldTrump",
     "DJT",
@@ -24,11 +24,6 @@
     "Trump"
   ],
   "changes": [
-    {
-      "title": "House committee urges DOJ to charge former Trump prosecutor Jack Smith",
-      "summary": "The GOP chair of the House Judiciary Committee encouraged the DOJ to look into criminally charging Jack Smith, alleging the former special counsel who brought charges against President Trump lied to Congress.",
-      "date": "2026-07-23"
-    },
     {
       "title": "The White House pushes healthy eating. It cut a landmark nutrition education program",
       "summary": "Nutrition advocates and public health experts are mystified by the decision to eliminate SNAP-Ed, given the Trump administration's embrace of the Make America Healthy Again agenda. (Image credit: Rachel Wisniewski for NPR).",
@@ -70,8 +65,13 @@
       "date": "2026-07-23"
     },
     {
-      "title": "White House says Saudi Arabia nuclear deal contingent on joining Abraham Accords",
-      "summary": "During a press briefing, White House press secretary Karoline Leavitt echoed a social media post from President Trump that said any nuclear deal with Saudi Arabia would be contingent on them joining the Abraham Accords. NBC News' Monica Alba reports from the White House on the potential deal and the White House's appro.",
+      "title": "Republicans urge Justice Department to investigate former prosecutor Jack Smith",
+      "summary": "The former special counsel led two criminal investigations of President Trump and has been a frequent target of Trump's ire on social media. (Image credit: Saul Loeb).",
+      "date": "2026-07-23"
+    },
+    {
+      "title": "Some House Republicans defect to again pass resolution seeking to halt military action in Iran",
+      "summary": "The House on Thursday narrowly passed a resolution to halt U.S. military action in Iran, sending a warning to President Donald Trump for the second time as the war has escalated and the future of the conflict is increasingly uncertain.",
       "date": "2026-07-23"
     }
   ],
@@ -89,10 +89,16 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "House committee urges DOJ to charge former Trump prosecutor Jack Smith",
-      "url": "https://www.cbsnews.com/news/house-committee-jack-smith-criminal-referral-doj/?utm_source=lootura.com",
-      "publishedAt": "2026-07-23T03:51:35.000Z",
+      "title": "Trump talks plan to prevent ratepayers from shouldering costs of new AI data centers",
+      "url": "https://www.cbsnews.com/video/trump-talks-plan-to-prevent-ratepayers-from-shouldering-costs-of-new-ai-data-centers/?utm_source=lootura.com",
+      "publishedAt": "2026-07-23T20:30:42.000Z",
       "sourceId": "lootura-us-cbs-news"
+    },
+    {
+      "title": "International PhD students to face strict limits on time in the US",
+      "url": "https://www.nature.com/articles/d41586-026-02280-3?utm_source=lootura.com",
+      "publishedAt": "2026-07-23T21:01:31.749Z",
+      "sourceId": "lootura-us-nature"
     },
     {
       "title": "Trump says Saudi Arabia must normalize Israel ties before nuclear deal is approved",
@@ -101,9 +107,15 @@
       "sourceId": "lootura-us-nbc-news"
     },
     {
-      "title": "White House says Saudi Arabia nuclear deal contingent on joining Abraham Accords",
-      "url": "https://www.nbcnews.com/now/video/white-house-says-saudi-arabia-nuclear-deal-contingent-on-joining-abraham-accords-267170885845?utm_source=lootura.com",
-      "publishedAt": "2026-07-23T15:53:39.000Z",
+      "title": "House votes to end Iran war, but Senate Republicans vote to let Trump continue waging it",
+      "url": "https://www.nbcnews.com/politics/congress/house-votes-end-iran-war-senate-republicans-let-trump-continue-war-rcna588874?utm_source=lootura.com",
+      "publishedAt": "2026-07-23T18:20:47.000Z",
+      "sourceId": "lootura-us-nbc-news-politics"
+    },
+    {
+      "title": "Marco Rubio describes Trump's military strategy with Iran as a ‘head for an eye’",
+      "url": "https://www.nbcnews.com/meet-the-press/video/marco-rubio-describes-trump-s-military-strategy-with-iran-as-a-head-for-an-eye-267186757837?utm_source=lootura.com",
+      "publishedAt": "2026-07-23T20:30:39.000Z",
       "sourceId": "lootura-us-nbc-news-politics"
     },
     {
@@ -113,29 +125,17 @@
       "sourceId": "lootura-us-npr"
     },
     {
-      "title": "In South Dakota, public media endures a year after federal funding was wiped out",
-      "url": "https://www.npr.org/2026/07/22/nx-s1-5903146/in-south-dakota-public-media-endures-a-year-after-federal-funding-was-wiped-out?utm_source=lootura.com",
-      "publishedAt": "2026-07-22T21:21:35.000Z",
-      "sourceId": "lootura-us-npr"
-    },
-    {
       "title": "Morning news brief",
       "url": "https://www.npr.org/2026/07/23/nx-s1-5895984/morning-news-brief?utm_source=lootura.com",
       "publishedAt": "2026-07-23T08:47:19.000Z",
       "sourceId": "lootura-us-npr"
     },
     {
-      "title": "How predominantly Black areas in 6 states have been split up by redistricting",
-      "url": "https://www.npr.org/2026/07/23/nx-s1-5896335/black-voters-republican-redistricting?utm_source=lootura.com",
-      "publishedAt": "2026-07-23T09:00:00.000Z",
-      "sourceId": "lootura-us-npr-politics"
-    },
-    {
-      "title": "Republicans urge Justice Department to investigate former prosecutor Jack Smith",
-      "url": "https://www.npr.org/2026/07/23/g-s1-135121/republicans-justice-department-jack-smith?utm_source=lootura.com",
-      "publishedAt": "2026-07-23T14:12:45.000Z",
+      "title": "Trump allies are poised to weaken protections for historic sites — not just in D.C.",
+      "url": "https://www.npr.org/2026/07/23/nx-s1-5904435/section-106-review-trump-historic-preservation-council?utm_source=lootura.com",
+      "publishedAt": "2026-07-23T20:14:58.000Z",
       "sourceId": "lootura-us-npr-politics"
     }
   ],
-  "evidenceCount": 19
+  "evidenceCount": 23
 }

@@ -70,4 +70,4 @@ Date: 2026-07-22
 
 ## Fuentes
 
-- [Los ataques hutíes en el Mar Rojo, que Trump promete castigar, disparan el petróleo a 100 dólares](https://amp.expansion.com/economia/2026/07/23/6a623bc7e5fdea930a8b4594.html?utm_source=lootura.com) — 2026-07-23T16:05:29.000Z
+No public source links.

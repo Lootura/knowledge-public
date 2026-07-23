@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/china/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/china/index.json",
   "description": "Follow China, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-23T17:20:03.497Z",
+  "updatedAt": "2026-07-23T21:01:27.760Z",
   "aliases": [
     "China PR",
     "Communist China",
@@ -73,11 +73,11 @@
   ],
   "sources": [
     {
-      "title": "In a first, Chinese woman wins the prestigious Fields Medal",
-      "url": "https://www.npr.org/2026/07/23/g-s1-135032/in-a-first-chinese-woman-wins-the-prestigious-fields-medal?utm_source=lootura.com",
-      "publishedAt": "2026-07-23T14:56:47.000Z",
-      "sourceId": "lootura-us-npr-world"
+      "title": "China Rewrites the ‘Soft Power’ Playbook for the A.I. Age",
+      "url": "https://www.nytimes.com/2026/07/23/business/china-ai-soft-power.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-23T17:11:03.000Z",
+      "sourceId": "lootura-us-the-new-york-times"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 0
 }

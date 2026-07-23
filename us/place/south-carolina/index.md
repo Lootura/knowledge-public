@@ -70,4 +70,4 @@ Date: 2026-07-13
 
 ## Sources
 
-- [South Carolina and Nevada Fight to Kick Off Democrats’ 2028 Presidential Calendar](https://www.nytimes.com/2026/07/22/us/politics/south-carolina-nevada-democrats-2028-presidential-calendar.html?utm_source=lootura.com) — 2026-07-22T20:30:40.000Z
+No public source links.

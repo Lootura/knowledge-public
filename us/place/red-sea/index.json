@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/red-sea/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/red-sea/index.json",
   "description": "Follow Red Sea, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-23T17:20:03.497Z",
+  "updatedAt": "2026-07-23T21:01:27.760Z",
   "aliases": [
     "Al Baḩr al Aḩmar",
     "Arabian Gulf",
@@ -25,6 +25,11 @@
     {
       "title": "Oil surges to $100 per barrel after Red Sea attacks",
       "summary": "Oil prices rose Thursday to their highest level since early June after the latest Iran war escalation threatened severe new disruption to global supplies.",
+      "date": "2026-07-23"
+    },
+    {
+      "title": "Yemen's Houthis attack Saudi tankers in the Red Sea, threatening to widen Iran war",
+      "summary": "As the U.S. carried out a 12th night of strikes across Iran, President Donald Trump threatened \"major military punishment\" against the Houthis if their attacks on ships continue.",
       "date": "2026-07-23"
     },
     {
@@ -61,18 +66,13 @@
       "title": "Discovered by Atlas",
       "summary": "Red Sea first entered the public knowledge record with source-backed evidence.",
       "date": "2026-07-21"
-    },
-    {
-      "title": "Funding milestone detected",
-      "summary": "Iran-backed Houthis say they will blockade anothe waterway, threatening Red Sea shipping, Pete Hegseth heads to the Hill looking for $350 billion funding boost, Arizona voters head to the polls.",
-      "date": "2026-07-21"
     }
   ],
   "sources": [
     {
       "title": "Global oil prices hit $100 a barrel amid attacks in Red Sea",
       "url": "https://www.cbsnews.com/news/global-oil-prices-red-sea-attacks-rates/?utm_source=lootura.com",
-      "publishedAt": "2026-07-23T13:38:00.000Z",
+      "publishedAt": "2026-07-23T20:32:52.000Z",
       "sourceId": "lootura-us-cbs-news"
     },
     {
@@ -80,7 +80,13 @@
       "url": "https://www.nbcnews.com/business/markets/oil-prices-rise-red-sea-attacks-houthis-saudi-trump-iran-war-rcna588851?utm_source=lootura.com",
       "publishedAt": "2026-07-23T11:39:33.000Z",
       "sourceId": "lootura-us-nbc-news"
+    },
+    {
+      "title": "Yemen's Houthis attack Saudi tankers in the Red Sea, threatening to widen Iran war",
+      "url": "https://www.pbs.org/newshour/world/yemens-houthis-attack-saudi-tankers-in-the-red-sea-threatening-to-widen-iran-war?utm_source=lootura.com",
+      "publishedAt": "2026-07-23T17:26:28.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 3
 }
