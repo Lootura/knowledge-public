@@ -70,6 +70,4 @@ Date: 2026-07-16
 
 ## Sources
 
-- [Total cost of Iran war likely higher than $37.5 billion claimed by Hegseth, sources say](https://www.cbsnews.com/video/total-cost-iran-war-likely-higher-than-37-5-billion-hegseth-claims-sources-say/?utm_source=lootura.com) — 2026-07-22T13:29:01.000Z
-- [Defense Secretary Pete Hegseth defends Iran war funding request at fiery hearing](https://www.npr.org/2026/07/22/nx-s1-5901981/defense-secretary-pete-hegseth-defends-iran-war-funding-request-at-fiery-hearing?utm_source=lootura.com) — 2026-07-22T10:43:36.000Z
-- [Sen. Patty Murray, D-Wash., on Defense Secretary Pete Hegseth's Senate testimony](https://www.npr.org/2026/07/22/nx-s1-5902047/sen-patty-murray-d-wash-on-defense-secretary-pete-hegseths-senate-testimony?utm_source=lootura.com) — 2026-07-22T10:43:28.000Z
+No public source links.

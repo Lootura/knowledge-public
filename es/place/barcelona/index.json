@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/barcelona/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/barcelona/index.json",
   "description": "Sigue la actividad de Barcelona en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-22T21:08:41.543Z",
+  "updatedAt": "2026-07-23T02:31:05.539Z",
   "aliases": [
     "B'na",
     "Barcelona City",
@@ -21,6 +21,16 @@
     "Ciudad condal"
   ],
   "changes": [
+    {
+      "title": "Cómo Marc Cucurella y Claudia Rodríguez convirtieron la conciliación en una decisión estratégica",
+      "summary": "Suele decirse que las personas que tienen una sonrisa perenne y que buscan alegrar a los demás son las que más han sufrido. No sabemos si esta es la razón detrás de la radiante sonrisa de Marc Cucurella (Alella, Barcelona, 1998) , el lateral izquierdo que el pasado domingo ayudó a la selección española a levantar su se.",
+      "date": "2026-07-22"
+    },
+    {
+      "title": "Ocho heridos en una deflagración de gas en Barcelona",
+      "summary": "El incendio ha tenido lugar en una estación de metro de la Ciudad Condal.",
+      "date": "2026-07-22"
+    },
     {
       "title": "Una testigo revela que la terapia de los Andic incluía una situación extrema en un barranco",
       "summary": "El caso Andic ha dado un nuevo giro de tuerca con la declaración de una testigo que compromete la posición de Jonathan Andic, investigado como presunto autor de la muerte de su padre, Isak Andic, durante una excursión a la montaña de Montserrat (Barcelona) el 14 de diciembre de 2024. La testigo, intérprete británica y.",
@@ -60,30 +70,20 @@
       "title": "Ferran Torres, como símbolo del secreto de Luis de la Fuente",
       "summary": "A Ferran Torres parecía que lo había devorado el meme. No importaba que hubiera terminado la temporada como uno de los goleadores del Barcelona ni que todos sus entrenadores hubieran confiado en él. Guardiola contó con él en el City. Xavi Hernández y Hansi Flick lo mimaron en el Camp Nou. Lo mismo ocurrió en la selecci.",
       "date": "2026-07-21"
-    },
-    {
-      "title": "Muere apuñalado en Barcelona tras quebrantar una orden de alejamiento contra una mujer",
-      "summary": "Un hombre ha fallecido tras ser apuñalado la madrugada de este martes en el paseo marítimo de la Barceloneta , alrededor de las 3:25 horas, después de ser detenido por un presunto quebrantamiento de una orden de alejamiento sobre una mujer presente en el lugar. Así lo han confirmado a Europa Press fuentes de los Mossos.",
-      "date": "2026-07-21"
-    },
-    {
-      "title": "El creador de \"Sherlock\", protagonista principal del Festival Serializados",
-      "summary": "El 13 Serielizados - Festival de Series de Barcelona, que se celebrará del 19 al 28 de octubre, contará con el guionista escocés Steven Moffat, creador de 'Sherlock' y showrunner de 'Doctor Who', como invitado internacional de esta edición. Moffat tiene una larga trayectoria en la televisión británica y es conocido por.",
-      "date": "2026-07-21"
     }
   ],
   "sources": [
     {
-      "title": "Linchamiento en redes a Rodri por su «viva España, viva el Rey»",
-      "url": "https://www.abc.es/deportes/futbol/mundial/linchamiento-redes-rodri-viva-espana-viva-rey-20260722192643-nt_amp.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-22T17:26:43.000Z",
-      "sourceId": "lootura-es-abc"
+      "title": "Cómo Marc Cucurella y Claudia Rodríguez convirtieron la conciliación en una decisión estratégica",
+      "url": "https://www.expansion.com/directivos/deporte-negocio/2026/07/23/6a60f23c468aebc3408b459b.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-22T22:23:48.000Z",
+      "sourceId": "lootura-es-expansion"
     },
     {
-      "title": "Una testigo revela que la terapia de los Andic incluía una situación extrema en un barranco",
-      "url": "https://elpais.com/espana/catalunya/2026-07-22/una-testigo-revela-que-la-terapia-de-los-andic-incluia-una-situacion-extrema-en-un-barranco.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-22T07:44:28.000Z",
-      "sourceId": "lootura-es-el-pais"
+      "title": "Ocho heridos en una deflagración de gas en Barcelona",
+      "url": "https://theobjective.com/sociedad/suceso/2026-07-23/ocho-heridos-deflagracion-barcelona/?amp=&utm_source=lootura.com",
+      "publishedAt": "2026-07-22T23:02:47.000Z",
+      "sourceId": "lootura-es-the-objective"
     }
   ],
   "evidenceCount": 2

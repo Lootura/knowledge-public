@@ -3,16 +3,10 @@
 > Sigue la actividad de Irán en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-22T21:08:41.543Z
+- Actualizado: 2026-07-23T02:31:05.539Z
 - Canonical: https://atlas.lootura.com/es/place/iran
 
 ## Cambios recientes
-
-### Trump se dispone a firmar un acuerdo nuclear con Arabia Saudí en plena escalada de tensiones con Irán
-
-En plena escalada de tensiones bélicas con Irán, el Gobierno de Estados Unidos que preside Donald Trump se dispone a firmar un acuerdo con Arabia Saudí que permitiría al país contar con un programa nuclear civil, abriendo la puerta al enriquecimiento de uranio. El acuerdo, que busca reordenar el equilibrio de poderes e.
-
-Date: 2026-07-22
 
 ### Trump autoriza un pacto nuclear que permitirá a Arabia Saudí enriquecer uranio
 
@@ -29,6 +23,12 @@ Date: 2026-07-22
 ### El Ibex remonta un 0,99% y recupera los 19.500 puntos pese al repunte del precio del petróleo
 
 La Bolsa española ha ganado el 0,99% este miércoles y ha recuperado el nivel de los 19.500 puntos en una jornada marcada por los resultados empresariales y a pesar del repunte del precio del petróleo en el undécimo día de ataques ininterrumpidos entre EEUU e Irán. El principal índice del mercado nacional, el Ibex 35, h.
+
+Date: 2026-07-22
+
+### Trump se dispone a firmar un acuerdo nuclear con Arabia Saudí en plena escalada de tensiones con Irán
+
+En plena escalada de tensiones bélicas con Irán, el Gobierno de Estados Unidos que preside Donald Trump se dispone a firmar un acuerdo con Arabia Saudí que permitiría al país contar con un programa nuclear civil, abriendo la puerta al enriquecimiento de uranio. El acuerdo, que busca reordenar el equilibrio de poderes e.
 
 Date: 2026-07-22
 
@@ -72,5 +72,4 @@ Date: 2026-07-21
 
 - [Trump autoriza un pacto nuclear que permitirá a Arabia Saudí enriquecer uranio](https://elpais.com/internacional/2026-07-22/trump-autoriza-un-pacto-nuclear-que-permitira-a-arabia-saudi-enriquecer-uranio.html?utm_source=lootura.com) — 2026-07-22T19:34:04.000Z
 - [Trump amenaza con destruir puentes o centrales eléctricas cada vez que Irán ataque un barco en Ormuz](https://elpais.com/internacional/2026-07-22/trump-amenaza-con-destruir-puentes-o-centrales-electricas-cada-vez-que-teheran-ataque-un-barco-ormuz.html?utm_source=lootura.com) — 2026-07-22T18:31:32.000Z
-- [Trump se dispone a firmar un acuerdo nuclear con Arabia Saudí en plena escalada de tensiones con Irán](https://www.expansion.com/economia/2026/07/22/6a60c9f7468aebc5648b4591.html?utm_source=lootura.com) — 2026-07-22T15:30:46.000Z
 - [El Ibex remonta un 0,99% y recupera los 19.500 puntos pese al repunte del precio del petróleo](https://theobjective.com/economia/2026-07-22/ibex-35-19-500-puntos-repunte-crudo/?utm_source=lootura.com) — 2026-07-22T18:57:53.000Z

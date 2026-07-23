@@ -3,10 +3,28 @@
 > Follow White House, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-07-22T17:16:02.754Z
+- Updated: 2026-07-23T02:31:30.185Z
 - Canonical: https://atlas.lootura.com/us/organization/white-house
 
 ## Recent changes
+
+### ‘Off the charts’: Secret Service describes rising threats to protectees
+
+Despite the heightened environment, the Secret Service says it’s confident in plans for the rescheduled White House Correspondents’ Association dinner.
+
+Date: 2026-07-22
+
+### Trump escalates threats, vows to target Iranian bridges and power plants
+
+Iranian news agencies are reporting widespread aerial attacks across southern Iran. It comes as President Trump issued more threats against Iran and the Islamic Republic's foreign minister responded that any future attacks would be met with "an eye for an eye." White House correspondent Liz Landers reports.
+
+Date: 2026-07-22
+
+### Funding milestone detected
+
+Breakthroughs in Chinese AI models are sending shockwaves through Washington and Silicon Valley. Chinese companies are narrowing the AI gap despite vast differences in computing power and resources. It comes as the White House is planning to redirect billions in funding from universities to individuals in a bid to acce.
+
+Date: 2026-07-22
 
 ### Smithsonian too focused on 'oppressors and the oppressed,' say House Republicans
 
@@ -50,24 +68,8 @@ Missed the second half of the show? New York Gov. Kathy Hochul, White House bord
 
 Date: 2026-07-19
 
-### Homan says "I think body cameras are the way to go" after ICE shootings
-
-White House border czar Tom Homan said "I think body cameras are the way to go" after fatal shootings by federal immigration officers in Texas and Maine earlier this month.
-
-Date: 2026-07-19
-
-### Trump says these documents prove his false claims of election fraud. Here's what they really say
-
-"The White House promised a bombshell, and they delivered a dud," said David Becker, executive director of the Center for Election Innovation & Research.
-
-Date: 2026-07-17
-
-### Trump Brings Full Weight of Government to Bolster False Election Claims
-
-Intelligence agencies provided the White House with a trove of declassified documents that President Trump cited on Thursday as evidence of election vulnerabilities.
-
-Date: 2026-07-17
-
 ## Sources
 
-No public source links.
+- [‘Off the charts’: Secret Service describes rising threats to protectees](https://www.nbcnews.com/politics/national-security/-charts-secret-service-describes-rising-threats-protectees-rcna588819?utm_source=lootura.com) — 2026-07-22T23:46:14.000Z
+- [Trump escalates threats, vows to target Iranian bridges and power plants](https://www.pbs.org/newshour/show/trump-escalates-threats-vows-to-target-iranian-bridges-and-power-plants?utm_source=lootura.com) — 2026-07-22T22:55:33.000Z
+- [Breakthroughs in Chinese AI models threaten U.S. lead in tech race](https://www.pbs.org/newshour/show/breakthroughs-in-chinese-ai-models-threaten-u-s-lead-in-tech-race?utm_source=lootura.com) — 2026-07-22T22:35:28.000Z

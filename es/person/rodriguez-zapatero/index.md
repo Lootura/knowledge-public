@@ -3,22 +3,16 @@
 > Sigue la actividad de José Luis Rodríguez Zapatero en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-22T21:08:41.543Z
+- Actualizado: 2026-07-23T02:31:05.539Z
 - Canonical: https://atlas.lootura.com/es/person/rodriguez-zapatero
 
 ## Cambios recientes
 
-### El expresidente dará su primera entrevista en TVE con Javier Ruiz para replicar a su presunto testaferro y hablar de las joyas
+### "Si Julio Martínez quiere equipararse a Aldama, tiene que aportar más"
 
-El expresidente del Gobierno José Luis Rodríguez Zapatero será entrevistado este jueves en Mañaneros 360 de TVE , según ha informado la cadena. Zapatero estará en el plató del programa de actualidad de La 1 a partir de las 13.00 horas y la entrevista correrá a cargo del copresentador del programa, Javier Ruiz. Se trata.
+La anunciada colaboración con la Justicia del empresario Julio Martínez, clave en la supuesta trama de tráfico de influencias en torno a José Luis Rodríguez Zapatero, dejó el pasado martes entre las acusaciones un cierto sabor agridulce. «Julito» llegó a la Audiencia Nacional con la vitola de su confesión por escrito d.
 
-Date: 2026-07-22
-
-### OKDIARIO localiza a Alba, la otra hija de Zapatero, tras la confesión de ‘Julito’ Martínez ante el juez Calama
-
-OKDIARIO ha localizado este miércoles a Alba Zapatero Espinosa , la hija menor de José Luis Rodríguez Zapatero, al día siguiente de que ‘Julito’ Martínez, el presunto testaferro de su padre, confesara ante el juez Calama, en la Audiencia Nacional, haber estado pagándoles sin trabajar durante tres años como parte de la.
-
-Date: 2026-07-22
+Date: 2026-07-23
 
 ### Zapatero romperá su silencio este jueves en TVE en su primera entrevista tras la imputación
 
@@ -29,6 +23,18 @@ Date: 2026-07-22
 ### Podcast | Zapatero, tocado y hundido
 
 El futuro de José Luis Rodríguez Zapatero es cada vez más oscuro. Su presunto testaferro, Julito Martínez, se ha marcado un Aldama y ha confesado ante el juez José Luis Calama que el ex presidente del Gobierno medió en la concesión del rescate a Plus Ultra y pactó cobrar el 1% de comisión , así como 5.000 euros al mes.
+
+Date: 2026-07-22
+
+### El expresidente dará su primera entrevista en TVE con Javier Ruiz para replicar a su presunto testaferro y hablar de las joyas
+
+El expresidente del Gobierno José Luis Rodríguez Zapatero será entrevistado este jueves en Mañaneros 360 de TVE , según ha informado la cadena. Zapatero estará en el plató del programa de actualidad de La 1 a partir de las 13.00 horas y la entrevista correrá a cargo del copresentador del programa, Javier Ruiz. Se trata.
+
+Date: 2026-07-22
+
+### OKDIARIO localiza a Alba, la otra hija de Zapatero, tras la confesión de ‘Julito’ Martínez ante el juez Calama
+
+OKDIARIO ha localizado este miércoles a Alba Zapatero Espinosa , la hija menor de José Luis Rodríguez Zapatero, al día siguiente de que ‘Julito’ Martínez, el presunto testaferro de su padre, confesara ante el juez Calama, en la Audiencia Nacional, haber estado pagándoles sin trabajar durante tres años como parte de la.
 
 Date: 2026-07-22
 
@@ -62,15 +68,8 @@ Julio Martínez Martínez entró sobre las 8.45 de este martes en la Audiencia N
 
 Date: 2026-07-22
 
-### El juez interrogará a la cúpula de Plus Ultra por los pagos a Zapatero
-
-El «caso Plus Ultra» entra en una nueva dimensión judicial. Tras la confesión y la posterior declaración del empresario «Julito» Martínez y «amigo» del expresidente del Gobierno José Luis Rodríguez Zapatero, a quien ha situado como la persona que influyó en la concesión pública de 53 millones de euros a la aerolínea, c.
-
-Date: 2026-07-22
-
 ## Fuentes
 
-- [El expresidente dará su primera entrevista en TVE con Javier Ruiz para replicar a su presunto testaferro y hablar de las joyas](https://www.20minutos.es/nacional/zapatero-dara-su-primera-entrevista-este-jueves-tve-con-javier-ruiz-para-replicar-su-presunto-testaferro-hablar-las-joyas_7017909_0.html?utm_source=lootura.com) — 2026-07-22T18:44:30.000Z
-- [OKDIARIO localiza a Alba, la otra hija de Zapatero, tras la confesión de ‘Julito’ Martínez ante el juez Calama](https://okdiario.com/espana/okdiario-localiza-alba-otra-hija-zapatero-confesion-julito-martinez-juez-calama-19050790?utm_source=lootura.com) — 2026-07-22T19:16:33.000Z
+- ["Si Julio Martínez quiere equipararse a Aldama, tiene que aportar más"](https://www.larazon.es/espana/julio-martinez-quiere-equipararse-aldama-tiene-que-aportar-mas_202607236a60ffcbda3add27d4dc60b4.html?utm_source=lootura.com) — 2026-07-23T00:00:13.000Z
 - [Zapatero romperá su silencio este jueves en TVE en su primera entrevista tras la imputación](https://theobjective.com/espana/politica/2026-07-22/zapatero-entrevista-tve-imputacion/?utm_source=lootura.com) — 2026-07-22T18:19:35.000Z
 - [Podcast | Zapatero, tocado y hundido](https://theobjective.com/podcasts/objetivo-directo-podcast/podcast-objetivo-directo-zapatero-tocado-hundido/?utm_source=lootura.com) — 2026-07-22T18:42:45.000Z

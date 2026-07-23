@@ -3,16 +3,10 @@
 > Sigue la actividad de María Cristina Narbona Ruiz en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-22T21:08:41.543Z
+- Actualizado: 2026-07-23T02:31:05.539Z
 - Canonical: https://atlas.lootura.com/es/organization/cristina-narbona
 
 ## Cambios recientes
-
-### Última hora de la actualidad política, en directo | Feijóo hace balance del curso político y de la legislatura
-
-El líder del PP, Alberto Núñez Feijóo, hace balance en rueda de prensa del curso político y de la marcha de la legislatura, con la mirada puesta en las causas judiciales que afectan al PSOE y al Gobierno y la falta de apoyos parlamentarios del Ejecutivo. La presidenta del PSOE, Cristina Narbona, comparece en la comisió.
-
-Date: 2026-07-22
 
 ### Discovered by Atlas
 
@@ -23,6 +17,12 @@ Date: 2026-07-22
 ### Narbona niega haber promocionado a Leire Díez: “Yo no soy la madrina de nadie”
 
 Leire Díez se ha convertido en una bomba política de efectos retardados que le ha servido al PP de excusa para forzar la comparecencia de Cristina Narbona en el Senado. La presidenta del PSOE ha negado que conociera la presunta trama orquestada por la exmilitante socialista con Santos Cerdán para desestabilizar causas.
+
+Date: 2026-07-22
+
+### Última hora de la actualidad política, en directo | Feijóo hace balance del curso político y de la legislatura
+
+El líder del PP, Alberto Núñez Feijóo, hace balance en rueda de prensa del curso político y de la marcha de la legislatura, con la mirada puesta en las causas judiciales que afectan al PSOE y al Gobierno y la falta de apoyos parlamentarios del Ejecutivo. La presidenta del PSOE, Cristina Narbona, comparece en la comisió.
 
 Date: 2026-07-22
 
@@ -53,4 +53,3 @@ Date: 2026-07-22
 ## Fuentes
 
 - [Narbona niega haber promocionado a Leire Díez: “Yo no soy la madrina de nadie”](https://elpais.com/espana/2026-07-22/narbona-niega-haber-promocionado-a-leire-diez-yo-no-soy-la-madrina-de-nadie.html?utm_source=lootura.com) — 2026-07-22T13:57:33.000Z
-- [Última hora de la actualidad política, en directo | Feijóo hace balance del curso político y de la legislatura](https://elpais.com/espana/2026-07-22/ultima-hora-de-la-actualidad-politica-en-directo.html?utm_source=lootura.com) — 2026-07-22T10:20:37.000Z

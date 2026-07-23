@@ -3,22 +3,16 @@
 > Sigue la actividad de Partido Socialista Obrero Español en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-22T21:08:41.543Z
+- Actualizado: 2026-07-23T02:31:05.539Z
 - Canonical: https://atlas.lootura.com/es/organization/psoe
 
 ## Cambios recientes
 
-### Narbona afirma que Sánchez "ha asumido la responsabilidad política" por los casos de corrupción y defiende a Zapatero "por su enorme legado"
+### Los vecinos de Mahón tendrán que lavar el coche a mano al ordenar el alcalde el cierre de los lavaderos por sequía
 
-La presidenta del PSOE admite conocer a Leire Díez, la llamada 'fontanera' del partido, desde hace años pero, recalca: "No he sido su madrina para nada" Leer.
+Los 30.000 vecinos de Mahón tendrán que lavar el coche a mano al ordenar el alcalde del PSOE, Héctor Pons, el cierre de los lavaderos. El primer edil ha ordenado a la Policía Local el cierre de los lavacoches que hay en la capital menorquina, ya que en el decreto de medidas aprobado figura la de evitar la limpieza de v.
 
-Date: 2026-07-22
-
-### Última hora de la actualidad política, en directo | Feijóo hace balance del curso político y de la legislatura
-
-El líder del PP, Alberto Núñez Feijóo, hace balance en rueda de prensa del curso político y de la marcha de la legislatura, con la mirada puesta en las causas judiciales que afectan al PSOE y al Gobierno y la falta de apoyos parlamentarios del Ejecutivo. La presidenta del PSOE, Cristina Narbona, comparece en la comisió.
-
-Date: 2026-07-22
+Date: 2026-07-23
 
 ### Feijóo sitúa a Sánchez como "el señor X" de todos los casos del PSOE y promete "una limpieza a fondo" de las instituciones
 
@@ -44,6 +38,18 @@ Tras revisar el texto, la formación no ve incluidas sus medidas para degravar a
 
 Date: 2026-07-22
 
+### Narbona afirma que Sánchez "ha asumido la responsabilidad política" por los casos de corrupción y defiende a Zapatero "por su enorme legado"
+
+La presidenta del PSOE admite conocer a Leire Díez, la llamada 'fontanera' del partido, desde hace años pero, recalca: "No he sido su madrina para nada" Leer.
+
+Date: 2026-07-22
+
+### Última hora de la actualidad política, en directo | Feijóo hace balance del curso político y de la legislatura
+
+El líder del PP, Alberto Núñez Feijóo, hace balance en rueda de prensa del curso político y de la marcha de la legislatura, con la mirada puesta en las causas judiciales que afectan al PSOE y al Gobierno y la falta de apoyos parlamentarios del Ejecutivo. La presidenta del PSOE, Cristina Narbona, comparece en la comisió.
+
+Date: 2026-07-22
+
 ### PSOE y Sumar pactan una prórroga para los alquileres que venzan antes de julio de 2028
 
 Los socios del Gobierno de coalición —PSOE y Sumar— han llegado a un acuerdo para incluir en el decreto de vivienda que aprobará el próximo 28 de julio el Consejo de Ministros una nueva prórroga extraordinaria de dos años para los contratos de alquiler que venzan antes del 30 de junio de 2028. Según cuentan fuentes de.
@@ -62,17 +68,10 @@ Una semana después de declarar como testigo ante la Audiencia Nacional , la pre
 
 Date: 2026-07-22
 
-### PSOE y Sumar pactan congelar el precio de los alquileres hasta julio de 2028
-
-Los socios de gobierno, PSOE y Sumar, han acordado incluir en el nuevo decreto de vivienda una congelación del precio de los alquileres a la que se podrán acoger aquellos cuyo contrato venza antes de julio de 2028. Según han confirmado este miércoles fuentes del socio minoritario de la coalición, tras el pacto en el se.
-
-Date: 2026-07-22
-
 ## Fuentes
 
 - [PSOE y Sumar pactan blindar el precio de los alquileres hasta julio de 2028 en un decreto que debe convencer a PNV y Junts](https://www.elmundo.es/economia/vivienda/2026/07/22/6a60f8c7fdddff0f798b4585.html?utm_source=lootura.com) — 2026-07-22T18:31:06.000Z
-- [Narbona afirma que Sánchez "ha asumido la responsabilidad política" por los casos de corrupción y defiende a Zapatero "por su enorme legado"](https://www.elmundo.es/espana/2026/07/22/6a609717e9cf4a04078b456f.html?utm_source=lootura.com) — 2026-07-22T10:15:48.000Z
 - [Feijóo sitúa a Sánchez como "el señor X" de todos los casos del PSOE y promete "una limpieza a fondo" de las instituciones](https://amp.elmundo.es/espana/2026/07/22/6a609c9be85ecedc108b4578.html?utm_source=lootura.com) — 2026-07-22T10:46:17.000Z
 - [Narbona niega haber promocionado a Leire Díez: “Yo no soy la madrina de nadie”](https://elpais.com/espana/2026-07-22/narbona-niega-haber-promocionado-a-leire-diez-yo-no-soy-la-madrina-de-nadie.html?utm_source=lootura.com) — 2026-07-22T13:57:33.000Z
-- [Última hora de la actualidad política, en directo | Feijóo hace balance del curso político y de la legislatura](https://elpais.com/espana/2026-07-22/ultima-hora-de-la-actualidad-politica-en-directo.html?utm_source=lootura.com) — 2026-07-22T10:20:37.000Z
 - [Junts cuestiona el borrador del decreto de vivienda por no incluir sus medidas fiscales y 'antiokupas'](https://www.eldiario.es/politica/junts-cuestiona-borrador-decreto-vivienda-no-incluir-medidas-fiscales-antiokupas_1_13400181.html?utm_source=lootura.com) — 2026-07-22T18:16:34.000Z
+- [Los vecinos de Mahón tendrán que lavar el coche a mano al ordenar el alcalde el cierre de los lavaderos por sequía](https://okdiario.com/baleares/vecinos-mahon-tendran-que-lavar-coche-mano-ordenar-alcalde-cierre-lavaderos-sequia-19049095?utm_source=lootura.com) — 2026-07-23T02:00:34.000Z

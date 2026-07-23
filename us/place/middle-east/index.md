@@ -3,10 +3,22 @@
 > Follow Middle East, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-22T21:09:05.351Z
+- Updated: 2026-07-23T02:31:30.185Z
 - Canonical: https://atlas.lootura.com/us/place/middle-east
 
 ## Recent changes
+
+### Remembering the 4 U.S. service members killed recently in the Iran war
+
+A dignified transfer was held Wednesday for the four U.S. Army soldiers killed in the Middle East in recent days amid the ongoing war with Iran. Lindsey Reiser shares more details on Lt. Tyler James Feehan, Pvt. Isabella Gonzales, Sgt. Angel Rampersad and Sgt. Michael Emmanuel Swinton.
+
+Date: 2026-07-23
+
+### What Visuals Show About Recent Damage to U.S. Military Sites in the Middle East
+
+Video footage and satellite images reveal new details about Iranian strikes on U.S. targets during the latest flare-up in fighting.
+
+Date: 2026-07-23
 
 ### Trump will attend the dignified transfer of 4 U.S. service members killed in the Middle East
 
@@ -59,5 +71,6 @@ Date: 2026-07-20
 ## Sources
 
 - [Trump speaks at Georgia high school after attending dignified transfer](https://www.cbsnews.com/video/trump-speaks-at-georgia-high-school-after-attending-dignified-transfer/?utm_source=lootura.com) — 2026-07-22T20:31:04.000Z
-- [Trump escalates threats on Iran as he attends dignified transfer of fallen soldiers](https://www.nbcnews.com/meet-the-press/video/trump-escalates-threats-on-iran-as-he-attends-dignified-transfer-of-fallen-soldiers-267117637561?utm_source=lootura.com) — 2026-07-22T20:33:16.000Z
+- [Remembering the 4 U.S. service members killed recently in the Iran war](https://www.cbsnews.com/video/remembering-the-4-us-service-members-killed-recently-in-the-iran-war/?utm_source=lootura.com) — 2026-07-23T00:32:33.000Z
 - [Trump will attend the dignified transfer of 4 U.S. service members killed in the Middle East](https://www.pbs.org/newshour/world/trump-will-attend-the-dignified-transfer-of-4-u-s-service-members-killed-in-the-middle-east?utm_source=lootura.com) — 2026-07-22T14:27:14.000Z
+- [What Visuals Show About Recent Damage to U.S. Military Sites in the Middle East](https://www.nytimes.com/2026/07/22/world/middleeast/iran-war-us-bases-images.html?utm_source=lootura.com) — 2026-07-23T01:37:39.000Z

@@ -3,10 +3,22 @@
 > Follow New York City, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-22T21:09:05.351Z
+- Updated: 2026-07-23T02:31:30.185Z
 - Canonical: https://atlas.lootura.com/us/place/new-york
 
 ## Recent changes
+
+### Mamdani says he won't try to arrest Israel's Netanyahu
+
+New York City Mayor Zohran Mamdani conceded late Tuesday that the city does not have the authority to arrest Israeli Prime Minister Benjamin Netanyahu.
+
+Date: 2026-07-23
+
+### Mamdani Knew He Couldn’t Arrest Netanyahu. But He Could Denounce Him.
+
+In a video message, the mayor of New York City said he could not legally arrest Israel’s prime minister but reinforced his position as a voice of the international left.
+
+Date: 2026-07-22
 
 ### Mamdani says NYC can't arrest Netanyahu but the federal government should
 
@@ -56,18 +68,7 @@ A tourist’s death has boosted animal advocates’ drive to end a trade support
 
 Date: 2026-07-20
 
-### Before Lettuce Felled Thousands, a Cilantro-Linked Cyclospora Outbreak Sickened New Yorkers
-
-New York City health officials shared details of how they traced a much smaller cyclosporiasis outbreak, showing the difficulty of tracing contamination.
-
-Date: 2026-07-19
-
-### Black and Latino Leaders Ask: What Do Socialist Wins Mean for New York?
-
-Longtime leaders and advocates in minority districts fear that victories by the Democratic Socialists of America in gentrifying neighborhoods could mean political erasure.
-
-Date: 2026-07-19
-
 ## Sources
 
-- [Mamdani says NYC can't arrest Netanyahu but the federal government should](https://www.pbs.org/newshour/world/mamdani-says-nyc-cant-arrest-netanyahu-but-the-federal-government-should?utm_source=lootura.com) — 2026-07-22T20:49:55.000Z
+- [Mamdani says he won't try to arrest Israel's Netanyahu](https://www.cbsnews.com/news/mamdani-will-not-arrest-israel-netanyahu-nyc-legal-authority-nypd-un/?utm_source=lootura.com) — 2026-07-23T00:39:53.000Z
+- [Mamdani Knew He Couldn’t Arrest Netanyahu. But He Could Denounce Him.](https://www.nytimes.com/2026/07/22/nyregion/mamdani-netanyahu-speech.html?utm_source=lootura.com) — 2026-07-22T23:42:33.000Z

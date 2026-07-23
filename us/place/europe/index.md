@@ -70,4 +70,4 @@ Date: 2026-07-14
 
 ## Sources
 
-- [Shifting weather patterns drive 55% of Europe's summer drought trend, study finds](https://phys.org/news/2026-07-shifting-weather-patterns-europe-summer.html?utm_source=lootura.com) — 2026-07-22T21:00:05.000Z
+No public source links.

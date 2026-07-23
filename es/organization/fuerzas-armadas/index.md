@@ -3,7 +3,7 @@
 > Sigue la actividad de Fuerzas armadas en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-22T21:08:41.543Z
+- Actualizado: 2026-07-23T02:31:05.539Z
 - Canonical: https://atlas.lootura.com/es/organization/fuerzas-armadas
 
 ## Cambios recientes
@@ -16,7 +16,7 @@ Date: 2026-07-22
 
 ### Discovered by Atlas
 
-Fuerzas Armadas first entered the public knowledge record with source-backed evidence.
+Fuerzas armadas first entered the public knowledge record with source-backed evidence.
 
 Date: 2026-07-21
 

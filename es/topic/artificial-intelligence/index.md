@@ -3,7 +3,7 @@
 > Sigue la actividad de Artificial intelligence en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: topic
-- Actualizado: 2026-07-22T21:08:41.543Z
+- Actualizado: 2026-07-23T02:31:05.539Z
 - Canonical: https://atlas.lootura.com/es/topic/artificial-intelligence
 
 ## Cambios recientes
@@ -46,4 +46,4 @@ Date: 2026-07-10
 
 ## Fuentes
 
-- [AMD y Anthropic sacuden la IA con una alianza estratégica que incluye una inversión de 5.000 millones de dólares](https://cincodias.elpais.com/companias/2026-07-22/amd-y-anthropic-sacuden-la-ia-con-una-alianza-estrategica-que-incluye-una-inversion-de-5000-millones-de-dolares.html?utm_source=lootura.com) — 2026-07-22T16:13:05.000Z
+- [Alphabet bate previsiones, pero no convence a unos inversores cada vez más escépticos con la IA](https://cincodias.elpais.com/companias/2026-07-22/alphabet-bate-previsiones-pero-no-convence-a-unos-inversores-cada-vez-mas-escepticos-con-la-ia.html?utm_source=lootura.com) — 2026-07-22T21:06:57.000Z

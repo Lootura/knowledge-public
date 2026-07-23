@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/market/startups/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/market/startups/index.json",
   "description": "Follow Startups, a tracked market, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-22T21:09:05.351Z",
+  "updatedAt": "2026-07-23T02:31:30.185Z",
   "aliases": [
     "startup funding"
   ],
@@ -36,10 +36,10 @@
   ],
   "sources": [
     {
-      "title": "Defense Secretary Pete Hegseth defends Iran war funding request at fiery hearing",
-      "url": "https://www.npr.org/2026/07/22/nx-s1-5901981/defense-secretary-pete-hegseth-defends-iran-war-funding-request-at-fiery-hearing?utm_source=lootura.com",
-      "publishedAt": "2026-07-22T10:43:36.000Z",
-      "sourceId": "lootura-us-npr-politics"
+      "title": "In South Dakota, public media endures a year after federal funding was wiped out",
+      "url": "https://www.npr.org/2026/07/22/nx-s1-5903146/in-south-dakota-public-media-endures-a-year-after-federal-funding-was-wiped-out?utm_source=lootura.com",
+      "publishedAt": "2026-07-22T21:21:35.000Z",
+      "sourceId": "lootura-us-npr"
     }
   ],
   "evidenceCount": 0

@@ -70,4 +70,4 @@ Date: 2026-07-17
 
 ## Fuentes
 
-- [Lamine y Haaland baten todos los registros: superan los 200 millones de valor de mercado](https://okdiario.com/deportes/lamine-haaland-baten-todos-registros-superan-200-millones-valor-mercado-19050640?utm_source=lootura.com) — 2026-07-22T19:01:28.000Z
+No public source links.

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/cristina-narbona/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/cristina-narbona/index.json",
   "description": "Sigue la actividad de María Cristina Narbona Ruiz en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-22T21:08:41.543Z",
+  "updatedAt": "2026-07-23T02:31:05.539Z",
   "aliases": [
     "Cristina Narbona Ruiz",
     "Maria Cristina Narbona Ruiz",
@@ -17,11 +17,6 @@
   ],
   "changes": [
     {
-      "title": "Última hora de la actualidad política, en directo | Feijóo hace balance del curso político y de la legislatura",
-      "summary": "El líder del PP, Alberto Núñez Feijóo, hace balance en rueda de prensa del curso político y de la marcha de la legislatura, con la mirada puesta en las causas judiciales que afectan al PSOE y al Gobierno y la falta de apoyos parlamentarios del Ejecutivo. La presidenta del PSOE, Cristina Narbona, comparece en la comisió.",
-      "date": "2026-07-22"
-    },
-    {
       "title": "Discovered by Atlas",
       "summary": "Cristina Narbona first entered the public knowledge record with source-backed evidence.",
       "date": "2026-07-22"
@@ -29,6 +24,11 @@
     {
       "title": "Narbona niega haber promocionado a Leire Díez: “Yo no soy la madrina de nadie”",
       "summary": "Leire Díez se ha convertido en una bomba política de efectos retardados que le ha servido al PP de excusa para forzar la comparecencia de Cristina Narbona en el Senado. La presidenta del PSOE ha negado que conociera la presunta trama orquestada por la exmilitante socialista con Santos Cerdán para desestabilizar causas.",
+      "date": "2026-07-22"
+    },
+    {
+      "title": "Última hora de la actualidad política, en directo | Feijóo hace balance del curso político y de la legislatura",
+      "summary": "El líder del PP, Alberto Núñez Feijóo, hace balance en rueda de prensa del curso político y de la marcha de la legislatura, con la mirada puesta en las causas judiciales que afectan al PSOE y al Gobierno y la falta de apoyos parlamentarios del Ejecutivo. La presidenta del PSOE, Cristina Narbona, comparece en la comisió.",
       "date": "2026-07-22"
     },
     {
@@ -58,13 +58,7 @@
       "url": "https://elpais.com/espana/2026-07-22/narbona-niega-haber-promocionado-a-leire-diez-yo-no-soy-la-madrina-de-nadie.html?utm_source=lootura.com",
       "publishedAt": "2026-07-22T13:57:33.000Z",
       "sourceId": "lootura-es-el-pais"
-    },
-    {
-      "title": "Última hora de la actualidad política, en directo | Feijóo hace balance del curso político y de la legislatura",
-      "url": "https://elpais.com/espana/2026-07-22/ultima-hora-de-la-actualidad-politica-en-directo.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-22T10:20:37.000Z",
-      "sourceId": "lootura-es-el-pais"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

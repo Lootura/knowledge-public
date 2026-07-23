@@ -70,4 +70,4 @@ Date: 2026-07-09
 
 ## Sources
 
-- [At a Utah Campus, an Emotional Odyssey After Charlie Kirk’s Death](https://www.nytimes.com/2026/07/22/us/charlie-kirk-utah-valley-university.html?utm_source=lootura.com) — 2026-07-22T09:02:05.000Z
+No public source links.

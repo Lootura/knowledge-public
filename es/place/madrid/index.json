@@ -8,9 +8,19 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/madrid/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/madrid/index.json",
   "description": "Sigue la actividad de Madrid en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-22T21:08:41.543Z",
+  "updatedAt": "2026-07-23T02:31:05.539Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "Leonor Watling: «Las mujeres somos un tiro más fácil, los hombres son más difíciles de tumbar»",
+      "summary": "La arquitectura neomudéjar y el arco gótico de un colegio del centro de Madrid, sumado a la niñez que emanan los patinetes que hay en la entrada, abren las puertas al próximo proyecto especial de Mediaset : 'Cabeza alta'. 'Cabeza alta' es una adaptación de la producción italiana 'A testa alta: Il coraggio di una donna'.",
+      "date": "2026-07-23"
+    },
+    {
+      "title": "Luis Álvarez Cervera, el mito de la hípica española cumple 79 años",
+      "summary": "Isabel Díaz Ayuso definió a Luis Álvarez Cervera en una gala de la Federación Hípica de Madrid como \"el mayor orgullo de la hípica madrileña\" . Un jinete irrepetible cumple hoy 79 años . Luis Álvarez Cervera marcó un antes y un después en la hípica española. Fue un jinete adelantado a su tiempo, capaz de competir al má.",
+      "date": "2026-07-23"
+    },
     {
       "title": "Crimen de Las Tablas: a Facundo lo asesinó Alberto, un marido obsesionado con la infidelidad de su esposa",
       "summary": "El hombre que presuntamente mató a Facundo Rico en una lujosa urbanización de Madrid la semana pasada se aplicó a sí mismo justicia antes de que lo hicieran los tribunales. Alberto Juan, el presunto autor del crimen, se suicidó el día después de asestar 13 puñaladas a este ingeniero de origen argentino con el que sospe.",
@@ -50,19 +60,15 @@
       "title": "El Real Madrid cierra el fichaje de Mikael Jantunen como relevo de Hezonja",
       "summary": "El proyecto madridista de baloncesto suma una pieza estratégica para su juego interior. La marcha de Mario Hezonja rumbo a la NBA —tras abonar el alero croata su cláusula de rescisión el pasado lunes— obligó a mover ficha con rapidez en las oficinas de Concha Espina. La respuesta del club blanco ha sido el anuncio de u.",
       "date": "2026-07-22"
-    },
-    {
-      "title": "La Audiencia Provincial respalda al juez Zamarriego y rechaza que Aldama se persone en el \"caso Leire\"",
-      "summary": "La Audiencia Provincial de Madrid ha ratificado la decisión del juez Arturo Zamarriego de negar a Víctor de Aldama ejercer la acusación particular, en calidad de perjudicado, en la investigación a Leire Díez por las «cloacas del PSOE» (procedimiento del que el juez de la Audiencia Nacional Santiago Pedraz le ha pedido.",
-      "date": "2026-07-22"
-    },
-    {
-      "title": "Roberto Ruiz, el chef que cambió la historia de la cocina mexicana en Madrid: \"Hemos creado nuevos sabores\"",
-      "summary": "Por qué la cocina mexicana vive su mejor momento en Madrid, según Roberto Ruiz, el primer chef en lograr una estrella Michelin para un restaurante mexicano en Europa.",
-      "date": "2026-07-22"
     }
   ],
   "sources": [
+    {
+      "title": "Leonor Watling: «Las mujeres somos un tiro más fácil, los hombres son más difíciles de tumbar»",
+      "url": "https://www.abc.es/play/series/noticias/cabeza-alta-pasa-intimidad-escapa-20260716202334-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-23T00:00:09.000Z",
+      "sourceId": "lootura-es-abc"
+    },
     {
       "title": "Muere un trabajador durante «labores de mantenimiento» en una base de Renfe en Madrid",
       "url": "https://www.elcorreo.com/economia/empresas/muere-trabajador-labores-mantenimiento-base-renfe-madrid-20260722163457-ntrc_amp.html?utm_source=lootura.com",
@@ -88,16 +94,10 @@
       "sourceId": "lootura-es-el-pais"
     },
     {
-      "title": "La AEMET avisa sobre lo que está pasando en el cielo de Madrid y sorprende a muchos",
-      "url": "https://www.larazon.es/actualidad/aemet-avisa-que-esta-pasando-cielo-madrid-sorprende-muchos-b51m_202607226a61227daa17c0020f2a5887.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-22T20:05:17.000Z",
+      "title": "Luis Álvarez Cervera, el mito de la hípica española cumple 79 años",
+      "url": "https://www.larazon.es/deportes/luis-alvarez-cervera-mito-hipica-espanola-cumple-79-anos_202607236a616b17da3add27d4dce917.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-23T01:15:03.000Z",
       "sourceId": "lootura-es-la-razon"
-    },
-    {
-      "title": "Sale a la luz la razón por la que Can Yaman abandonó Italia: «No aguanto más el acoso…»",
-      "url": "https://okdiario.com/happyfm/sale-luz-razon-que-can-yaman-abandono-italia-no-aguanto-mas-acoso-19046420?utm_source=lootura.com",
-      "publishedAt": "2026-07-22T19:00:03.000Z",
-      "sourceId": "lootura-es-ok-diario"
     }
   ],
   "evidenceCount": 6

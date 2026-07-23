@@ -3,7 +3,7 @@
 > Sigue la actividad de Apple en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: company
-- Actualizado: 2026-07-22T21:08:41.543Z
+- Actualizado: 2026-07-23T02:31:05.539Z
 - Canonical: https://atlas.lootura.com/es/company/apple
 
 ## Cambios recientes
@@ -70,5 +70,4 @@ Date: 2026-07-17
 
 ## Fuentes
 
-- [Apple acelera la renovación total de los Mac, comenzando con el iMac y el MacBook Pro](https://hipertextual.com/apple/apple-acelera-la-renovacion-total-de-los-mac-comenzando-con-el-imac-y-el-macbook-pro/?utm_source=lootura.com) — 2026-07-22T16:00:25.000Z
 - [Galaxy Watch Ultra 2 vs. Apple Watch Ultra 3: ¿cuál es mejor?](https://hipertextual.com/mobile/galaxy-watch-ultra-2-vs-apple-watch-ultra-3-comparativa/?utm_source=lootura.com) — 2026-07-22T18:13:44.000Z

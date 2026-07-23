@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/nueva-jersey/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/nueva-jersey/index.json",
   "description": "Sigue la actividad de El Estado Jardín en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-22T02:26:20.882Z",
+  "updatedAt": "2026-07-23T02:31:05.539Z",
   "aliases": [
     "El Estado Jardín",
     "Estado de Nueva Jersey",
@@ -52,6 +52,13 @@
       "date": "2026-07-18"
     }
   ],
-  "sources": [],
+  "sources": [
+    {
+      "title": "El mundo árabe también celebró la victoria de España en el Mundial",
+      "url": "https://www.larazon.es/deportes/mundo-arabe-tambien-celebro-victoria-espana-mundial_202607236a616b43aa17c0020f2ab1a6.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-23T01:15:47.000Z",
+      "sourceId": "lootura-es-la-razon"
+    }
+  ],
   "evidenceCount": 0
 }

@@ -3,16 +3,10 @@
 > Sigue la actividad de Alberto Núñez Feijóo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-22T21:08:41.543Z
+- Actualizado: 2026-07-23T02:31:05.539Z
 - Canonical: https://atlas.lootura.com/es/person/alberto-nunez-feijoo
 
 ## Cambios recientes
-
-### Última hora de la actualidad política, en directo | Feijóo hace balance del curso político y de la legislatura
-
-El líder del PP, Alberto Núñez Feijóo, hace balance en rueda de prensa del curso político y de la marcha de la legislatura, con la mirada puesta en las causas judiciales que afectan al PSOE y al Gobierno y la falta de apoyos parlamentarios del Ejecutivo. La presidenta del PSOE, Cristina Narbona, comparece en la comisió.
-
-Date: 2026-07-22
 
 ### Feijóo sitúa a Sánchez como "el señor X" de todos los casos del PSOE y promete "una limpieza a fondo" de las instituciones
 
@@ -23,6 +17,18 @@ Date: 2026-07-22
 ### Morant: «Feijóo está dibujando una coalición que se parece a un gobierno criminal de Hitler»
 
 La ministra de Ciencia, Innovación y Universidades, Diana Morant , ha vaticinado que el líder del PP, Alberto Núñez Feijóo , «está dibujando» un próximo ejecutivo de coalición que se parece «cada vez más a esos gobiernos criminales como el de Hitler », en referencia al que fuera dictador alemán. En una entrevista en TV.
+
+Date: 2026-07-22
+
+### Feijóo promete una "reconstrucción nacional" y reformas estructurales: "Hacienda dejará de ser el gran beneficiario"
+
+Activa la "cuenta atrás" hacia La Moncloa y plantea un plan de regeneración institucional, más "gestión" y rebajas fiscales a familia y autónomos Leer.
+
+Date: 2026-07-22
+
+### Última hora de la actualidad política, en directo | Feijóo hace balance del curso político y de la legislatura
+
+El líder del PP, Alberto Núñez Feijóo, hace balance en rueda de prensa del curso político y de la marcha de la legislatura, con la mirada puesta en las causas judiciales que afectan al PSOE y al Gobierno y la falta de apoyos parlamentarios del Ejecutivo. La presidenta del PSOE, Cristina Narbona, comparece en la comisió.
 
 Date: 2026-07-22
 
@@ -62,14 +68,8 @@ El presidente de la CEOE , Antonio Garamendi , ha exigido «detectar a los profe
 
 Date: 2026-07-19
 
-### El PP reduce sus beneficios a la mitad en el último año
-
-Los populares, que compraron dos sedes en Andalucía el año pasado, aumentaron su patrimonio neto de los 81 a los 90,6 millones de euros El PP de Feijóo promete una ambiciosa contrarreforma legal con recortes en derechos sociales si llega al poder El Partido Popular (PP) registró un beneficio neto acumulado de 9,6 millo.
-
-Date: 2026-07-19
-
 ## Fuentes
 
+- [Feijóo promete una "reconstrucción nacional" y reformas estructurales: "Hacienda dejará de ser el gran beneficiario"](https://www.elmundo.es/espana/2026/07/22/6a611444e4d4d8850e8b4588.html?utm_source=lootura.com) — 2026-07-22T20:38:09.000Z
 - [Feijóo sitúa a Sánchez como "el señor X" de todos los casos del PSOE y promete "una limpieza a fondo" de las instituciones](https://amp.elmundo.es/espana/2026/07/22/6a609c9be85ecedc108b4578.html?utm_source=lootura.com) — 2026-07-22T10:46:17.000Z
-- [Última hora de la actualidad política, en directo | Feijóo hace balance del curso político y de la legislatura](https://elpais.com/espana/2026-07-22/ultima-hora-de-la-actualidad-politica-en-directo.html?utm_source=lootura.com) — 2026-07-22T10:20:37.000Z
 - [Morant: «Feijóo está dibujando una coalición que se parece a un gobierno criminal de Hitler»](https://theobjective.com/espana/politica/2026-07-22/morant-feijoo-coalicion-gobierno-criminal-hitler/?utm_source=lootura.com) — 2026-07-22T18:33:50.000Z

@@ -47,19 +47,6 @@
       "date": "2026-07-22"
     }
   ],
-  "sources": [
-    {
-      "title": "Trump Pick Wins G.O.P. Nomination to Challenge Arizona Governor",
-      "url": "https://www.nytimes.com/2026/07/21/us/elections/arizona-governor-andy-biggs-republican-primary.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-22T03:06:56.000Z",
-      "sourceId": "lootura-us-the-new-york-times"
-    },
-    {
-      "title": "What to Know About Andy Biggs, the Trump-Backed Republican in Arizona’s Governor Race",
-      "url": "https://time.com/article/2026/07/22/what-to-know-about-andy-biggs-the-trump-backed-republican-in-arizonas-governor-race/?utm_source=lootura.com",
-      "publishedAt": "2026-07-22T19:14:21.000Z",
-      "sourceId": "lootura-us-time"
-    }
-  ],
-  "evidenceCount": 2
+  "sources": [],
+  "evidenceCount": 0
 }

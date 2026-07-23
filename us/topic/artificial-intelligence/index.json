@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/topic/artificial-intelligence/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/topic/artificial-intelligence/index.json",
   "description": "Follow Artificial intelligence, a tracked topic, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-22T21:09:05.351Z",
+  "updatedAt": "2026-07-23T02:31:30.185Z",
   "aliases": [
     "AI",
     "AI science",
@@ -35,6 +35,11 @@
     {
       "title": "In pursuit of 'Instagram face,' are we losing the imperfections that make us human?",
       "summary": "Plastic surgery is becoming so normalized and undetectable, it's changing our relationship to reality. The New Yorker staff writer Jia Tolentino considers how beauty standards have dovetailed with AI.",
+      "date": "2026-07-22"
+    },
+    {
+      "title": "Funding milestone detected",
+      "summary": "Breakthroughs in Chinese AI models are sending shockwaves through Washington and Silicon Valley. Chinese companies are narrowing the AI gap despite vast differences in computing power and resources. It comes as the White House is planning to redirect billions in funding from universities to individuals in a bid to acce.",
       "date": "2026-07-22"
     },
     {
@@ -71,11 +76,6 @@
       "title": "Detailed maps of European wetlands reveal overlooked patches of ecosystems",
       "summary": "Nature, Published online: 20 July 2026; doi:10.1038/d41586-026-02211-2 Satellite images have been analysed by a machine-learning algorithm to produce high-resolution maps of wetland environments — a boon for conservation efforts.",
       "date": "2026-07-22"
-    },
-    {
-      "title": "Don’t let AI steal all the joy: what scientists won’t give up to chatbots",
-      "summary": "Nature, Published online: 21 July 2026; doi:10.1038/d41586-026-02213-0 Nature asked readers of the Nature Briefing what they like about their job and don’t want to hand over.",
-      "date": "2026-07-22"
     }
   ],
   "sources": [
@@ -92,10 +92,10 @@
       "sourceId": "lootura-us-npr"
     },
     {
-      "title": "AI and quantum chemistry combine to identify efficient blue OLED materials",
-      "url": "https://phys.org/news/2026-07-ai-quantum-chemistry-combine-efficient.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-22T20:20:01.000Z",
-      "sourceId": "lootura-us-phys-org"
+      "title": "Breakthroughs in Chinese AI models threaten U.S. lead in tech race",
+      "url": "https://www.pbs.org/newshour/show/breakthroughs-in-chinese-ai-models-threaten-u-s-lead-in-tech-race?utm_source=lootura.com",
+      "publishedAt": "2026-07-22T22:35:28.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
     },
     {
       "title": "Stocks and the Economy Are Increasingly Relying on the A.I. Boom",

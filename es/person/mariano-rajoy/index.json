@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/mariano-rajoy/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/mariano-rajoy/index.json",
   "description": "Sigue la actividad de Mariano Rajoy en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-22T21:08:41.543Z",
+  "updatedAt": "2026-07-23T02:31:05.539Z",
   "aliases": [
     "M.Rajoy",
     "Mariano",
@@ -74,13 +74,7 @@
       "url": "https://elpais.com/espana/2026-07-22/fernandez-diaz-alega-que-se-busca-condenarlo-en-kitchen-por-razon-de-su-cargo-de-ministro.html?utm_source=lootura.com",
       "publishedAt": "2026-07-22T14:18:40.000Z",
       "sourceId": "lootura-es-el-pais"
-    },
-    {
-      "title": "El ex ‘número dos’ de Interior defiende que la ‘Kitchen’ fue una «operación de Estado» legal",
-      "url": "https://theobjective.com/espana/tribunales/2026-07-22/exnumero-dos-interior-kitchen-legalidad/?utm_source=lootura.com",
-      "publishedAt": "2026-07-22T15:53:03.000Z",
-      "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

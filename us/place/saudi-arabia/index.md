@@ -3,20 +3,20 @@
 > Follow Saudi Arabia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-22T21:09:05.351Z
+- Updated: 2026-07-23T02:31:30.185Z
 - Canonical: https://atlas.lootura.com/us/place/saudi-arabia
 
 ## Recent changes
 
+### Houthis Claim Strikes on 2 Saudi Oil Tankers in Red Sea
+
+The Saudi authorities had yet to confirm the hits, which would be the first attacks since the Iranian-backed Yemeni group announced a blockade on Saudi Arabia.
+
+Date: 2026-07-23
+
 ### Discovered by Atlas
 
 Saudi Arabia first entered the public knowledge record with source-backed evidence.
-
-Date: 2026-07-22
-
-### How the Trump Administration’s Nuclear Deal With Saudi Arabia May Work
-
-The Trump administration announced an agreement with Saudi Arabia on a civilian nuclear program. Such deals, known as 123 Agreements, are designed to prevent the development of weapons.
 
 Date: 2026-07-22
 
@@ -35,6 +35,18 @@ Date: 2026-07-22
 ### See How Houthis Put the Red Sea at Risk as an Alternative Oil Route
 
 Saudi Arabia has diverted huge amounts of oil to the Red Sea since the Iran war began, but now the Iranian-backed Houthi militants say that they intend to block that route.
+
+Date: 2026-07-22
+
+### Critics warn U.S. nuclear power deal with Saudi Arabia could fuel proliferation
+
+The U.S. and Saudi Arabia announced a landmark deal that would give the kingdom a civilian nuclear program using American technology, and might allow for uranium enrichment in Saudi Arabia. Critics warn it could lead to further nuclear proliferation. Nick Schifrin reports and Geoff Bennett discusses more with John Wolf.
+
+Date: 2026-07-22
+
+### How the Trump Administration’s Nuclear Deal With Saudi Arabia May Work
+
+The Trump administration announced an agreement with Saudi Arabia on a civilian nuclear program. Such deals, known as 123 Agreements, are designed to prevent the development of weapons.
 
 Date: 2026-07-22
 
@@ -59,6 +71,7 @@ Date: 2026-07-22
 ## Sources
 
 - [Latest on U.S.-Saudi nuclear deal, Trump threats against Iranian infrastructure](https://www.cbsnews.com/video/details-on-us-saudi-nuclear-deal-trump-threads-against-iranian-infrastructure/?utm_source=lootura.com) — 2026-07-22T20:00:09.000Z
+- [Critics warn U.S. nuclear power deal with Saudi Arabia could fuel proliferation](https://www.pbs.org/newshour/show/critics-warn-u-s-nuclear-power-deal-with-saudi-arabia-could-fuel-proliferation?utm_source=lootura.com) — 2026-07-22T22:50:47.000Z
+- [Houthis Claim Strikes on 2 Saudi Oil Tankers in Red Sea](https://www.nytimes.com/2026/07/22/world/middleeast/houthis-saudi-oil-tankers-red-sea.html?utm_source=lootura.com) — 2026-07-23T01:35:52.000Z
 - [Coveted U.S. Nuclear Deal Is a Coup for Saudi Crown Prince](https://www.nytimes.com/2026/07/22/world/middleeast/us-saudi-arabia-nuclear-deal.html?utm_source=lootura.com) — 2026-07-22T20:54:10.000Z
 - [See How Houthis Put the Red Sea at Risk as an Alternative Oil Route](https://www.nytimes.com/2026/07/22/business/energy-environment/red-sea-saudi-arabia-houthis.html?utm_source=lootura.com) — 2026-07-22T12:17:51.000Z
-- [How the Trump Administration’s Nuclear Deal With Saudi Arabia May Work](https://www.nytimes.com/2026/07/22/world/middleeast/us-saudi-arabia-nuclear-deal-123-agreement.html?utm_source=lootura.com) — 2026-07-22T20:43:49.000Z

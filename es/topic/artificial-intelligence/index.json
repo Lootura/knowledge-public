@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/topic/artificial-intelligence/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/topic/artificial-intelligence/index.json",
   "description": "Sigue la actividad de Artificial intelligence en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-22T21:08:41.543Z",
+  "updatedAt": "2026-07-23T02:31:05.539Z",
   "aliases": [
     "AI",
     "machine learning"
@@ -47,9 +47,9 @@
   ],
   "sources": [
     {
-      "title": "AMD y Anthropic sacuden la IA con una alianza estratégica que incluye una inversión de 5.000 millones de dólares",
-      "url": "https://cincodias.elpais.com/companias/2026-07-22/amd-y-anthropic-sacuden-la-ia-con-una-alianza-estrategica-que-incluye-una-inversion-de-5000-millones-de-dolares.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-22T16:13:05.000Z",
+      "title": "Alphabet bate previsiones, pero no convence a unos inversores cada vez más escépticos con la IA",
+      "url": "https://cincodias.elpais.com/companias/2026-07-22/alphabet-bate-previsiones-pero-no-convence-a-unos-inversores-cada-vez-mas-escepticos-con-la-ia.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-22T21:06:57.000Z",
       "sourceId": "lootura-es-cinco-dias"
     }
   ],

@@ -3,7 +3,7 @@
 > Follow Andy Biggs, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-07-22T21:09:05.351Z
+- Updated: 2026-07-23T02:31:30.185Z
 - Canonical: https://atlas.lootura.com/us/person/andy-biggs
 
 ## Recent changes
@@ -59,4 +59,3 @@ Date: 2026-07-22
 ## Sources
 
 - [Andy Biggs wins Republican nomination to challenge Democrat Katie Hobbs for Arizona governor](https://www.pbs.org/newshour/politics/andy-biggs-wins-republican-nomination-to-challenge-democrat-katie-hobbs-for-arizona-governor?utm_source=lootura.com) — 2026-07-22T14:53:48.000Z
-- [What to Know About Andy Biggs, the Trump-Backed Republican in Arizona’s Governor Race](https://time.com/article/2026/07/22/what-to-know-about-andy-biggs-the-trump-backed-republican-in-arizonas-governor-race/?utm_source=lootura.com) — 2026-07-22T19:14:21.000Z

@@ -3,10 +3,16 @@
 > Follow Benjamin Netanyahu, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-07-22T21:09:05.351Z
+- Updated: 2026-07-23T02:31:30.185Z
 - Canonical: https://atlas.lootura.com/us/person/benjamin-netanyahu
 
 ## Recent changes
+
+### Mamdani says he won't try to arrest Israel's Netanyahu
+
+New York City Mayor Zohran Mamdani conceded late Tuesday that the city does not have the authority to arrest Israeli Prime Minister Benjamin Netanyahu.
+
+Date: 2026-07-23
 
 ### Discovered by Atlas
 
@@ -34,4 +40,4 @@ Date: 2026-07-22
 
 ## Sources
 
-- [Mamdani says NYC can't arrest Netanyahu but the federal government should](https://www.pbs.org/newshour/world/mamdani-says-nyc-cant-arrest-netanyahu-but-the-federal-government-should?utm_source=lootura.com) — 2026-07-22T20:49:55.000Z
+- [Mamdani says he won't try to arrest Israel's Netanyahu](https://www.cbsnews.com/news/mamdani-will-not-arrest-israel-netanyahu-nyc-legal-authority-nypd-un/?utm_source=lootura.com) — 2026-07-23T00:39:53.000Z

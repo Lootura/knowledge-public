@@ -68,19 +68,6 @@
       "date": "2026-07-20"
     }
   ],
-  "sources": [
-    {
-      "title": "Ukraine targets Russian online retailer Wildberries",
-      "url": "https://www.nbcnews.com/video/ukraine-targets-russian-online-retailer-wildberries-267087429820?utm_source=lootura.com",
-      "publishedAt": "2026-07-22T11:42:06.000Z",
-      "sourceId": "lootura-us-nbc-news"
-    },
-    {
-      "title": "Mykhailo Drapatyi: What to Know About Ukraine’s New Top General",
-      "url": "https://www.nytimes.com/2026/07/21/world/europe/ukraine-mykhailo-drapatyi.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-21T23:39:36.000Z",
-      "sourceId": "lootura-us-the-new-york-times"
-    }
-  ],
-  "evidenceCount": 2
+  "sources": [],
+  "evidenceCount": 0
 }

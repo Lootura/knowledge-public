@@ -3,16 +3,10 @@
 > Follow Donald Trump, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-07-22T21:09:05.351Z
+- Updated: 2026-07-23T02:31:30.185Z
 - Canonical: https://atlas.lootura.com/us/person/donald-trump
 
 ## Recent changes
-
-### Arizona Elections: 6 Takeaways From the Trump-Dominated Primaries
-
-Republicans nominated a former N.F.L. kicker in a top House battleground, a Trump loyalist for governor and an election denier for the state’s top election post.
-
-Date: 2026-07-22
 
 ### Trump’s 50% Tariffs on Canada: What to Know, and What’s Next
 
@@ -50,12 +44,6 @@ Secretary of State Marco Rubio spent much of a meeting with China’s foreign mi
 
 Date: 2026-07-22
 
-### How the Trump Administration’s Nuclear Deal With Saudi Arabia May Work
-
-The Trump administration announced an agreement with Saudi Arabia on a civilian nuclear program. Such deals, known as 123 Agreements, are designed to prevent the development of weapons.
-
-Date: 2026-07-22
-
 ### Latest on U.S.-Saudi nuclear deal, Trump threats against Iranian infrastructure
 
 CBS News National security analyst Aaron MacLean breaks down President Trump's threats against Iranian infrastructure and the United States' new nuclear deal with Saudi Arabia.
@@ -68,15 +56,27 @@ President Trump spoke at a high school in Marietta, Georgia, on Wednesday, after
 
 Date: 2026-07-22
 
+### Trump says U.S. will destroy a bridge or power plant for each Iranian attack in the Strait of Hormuz
+
+President Donald Trump's latest threat to target civilian infrastructure came as the unpopular war spirals with no clear off-ramp, threatening further worldwide economic disruption and sending fuel prices up ahead of midterm U.S. elections this fall.
+
+Date: 2026-07-22
+
+### Laredo’s Future Rides on Trump’s Next Trade Move
+
+The economy of Laredo, Texas, has boomed under the president’s global tariffs. Now, his demands may threaten its success.
+
+Date: 2026-07-22
+
 ## Sources
 
 - [Latest on U.S.-Saudi nuclear deal, Trump threats against Iranian infrastructure](https://www.cbsnews.com/video/details-on-us-saudi-nuclear-deal-trump-threads-against-iranian-infrastructure/?utm_source=lootura.com) — 2026-07-22T20:00:09.000Z
 - [Watch: Sen. Bennet rails against trade chief for Trump policy's impact on farmers](https://www.cbsnews.com/video/sen-bennet-and-jamieson-greer-clash-over-trump-policy-impacts-on-farmers/?utm_source=lootura.com) — 2026-07-22T16:51:14.000Z
 - [Trump threatens to attack Iran's infrastructure over Strait of Hormuz](https://www.cbsnews.com/video/trump-threatens-attack-iran-infrastructure-over-strait-of-hormuz/?utm_source=lootura.com) — 2026-07-22T16:44:35.000Z
 - [Trump speaks at Georgia high school after attending dignified transfer](https://www.cbsnews.com/video/trump-speaks-at-georgia-high-school-after-attending-dignified-transfer/?utm_source=lootura.com) — 2026-07-22T20:31:04.000Z
-- [Trump escalates threats on Iran as he attends dignified transfer of fallen soldiers](https://www.nbcnews.com/meet-the-press/video/trump-escalates-threats-on-iran-as-he-attends-dignified-transfer-of-fallen-soldiers-267117637561?utm_source=lootura.com) — 2026-07-22T20:33:16.000Z
+- [In South Dakota, public media endures a year after federal funding was wiped out](https://www.npr.org/2026/07/22/nx-s1-5903146/in-south-dakota-public-media-endures-a-year-after-federal-funding-was-wiped-out?utm_source=lootura.com) — 2026-07-22T21:21:35.000Z
+- [House passes Pentagon funding bill and a blueprint to unlock new dollars for Iran war](https://www.npr.org/2026/07/22/nx-s1-5903130/house-vote-iran-war-funding-reconciliation?utm_source=lootura.com) — 2026-07-22T21:51:19.000Z
+- [House votes to adopt Department of War renaming as part of annual defense bill](https://www.pbs.org/newshour/politics/house-votes-to-adopt-department-of-war-renaming-as-part-of-annual-defense-bill?utm_source=lootura.com) — 2026-07-22T23:45:20.000Z
 - [Trump says U.S. will destroy a bridge or power plant for each Iranian attack in the Strait of Hormuz](https://www.pbs.org/newshour/world/trump-says-u-s-will-destroy-a-bridge-or-power-plant-for-each-iranian-attack-in-the-strait-of-hormuz?utm_source=lootura.com) — 2026-07-22T19:42:53.000Z
+- [Trump escalates threats, vows to target Iranian bridges and power plants](https://www.pbs.org/newshour/show/trump-escalates-threats-vows-to-target-iranian-bridges-and-power-plants?utm_source=lootura.com) — 2026-07-22T22:55:33.000Z
 - [Andy Biggs wins Republican nomination to challenge Democrat Katie Hobbs for Arizona governor](https://www.pbs.org/newshour/politics/andy-biggs-wins-republican-nomination-to-challenge-democrat-katie-hobbs-for-arizona-governor?utm_source=lootura.com) — 2026-07-22T14:53:48.000Z
-- [Trump will attend the dignified transfer of 4 U.S. service members killed in the Middle East](https://www.pbs.org/newshour/world/trump-will-attend-the-dignified-transfer-of-4-u-s-service-members-killed-in-the-middle-east?utm_source=lootura.com) — 2026-07-22T14:27:14.000Z
-- [US House passes $1.15tn defense policy bill in near party-line vote](https://www.theguardian.com/us-news/2026/jul/22/us-house-defense-bill-iran-war?utm_source=lootura.com) — 2026-07-22T20:44:08.000Z
-- [Laredo’s Future Rides on Trump’s Next Trade Move](https://www.nytimes.com/2026/07/22/business/economy/trump-tariffs-laredo-trade-mexico.html?utm_source=lootura.com) — 2026-07-22T19:20:35.000Z

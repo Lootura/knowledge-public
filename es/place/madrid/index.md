@@ -3,10 +3,22 @@
 > Sigue la actividad de Madrid en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-22T21:08:41.543Z
+- Actualizado: 2026-07-23T02:31:05.539Z
 - Canonical: https://atlas.lootura.com/es/place/madrid
 
 ## Cambios recientes
+
+### Leonor Watling: «Las mujeres somos un tiro más fácil, los hombres son más difíciles de tumbar»
+
+La arquitectura neomudéjar y el arco gótico de un colegio del centro de Madrid, sumado a la niñez que emanan los patinetes que hay en la entrada, abren las puertas al próximo proyecto especial de Mediaset : 'Cabeza alta'. 'Cabeza alta' es una adaptación de la producción italiana 'A testa alta: Il coraggio di una donna'.
+
+Date: 2026-07-23
+
+### Luis Álvarez Cervera, el mito de la hípica española cumple 79 años
+
+Isabel Díaz Ayuso definió a Luis Álvarez Cervera en una gala de la Federación Hípica de Madrid como "el mayor orgullo de la hípica madrileña" . Un jinete irrepetible cumple hoy 79 años . Luis Álvarez Cervera marcó un antes y un después en la hípica española. Fue un jinete adelantado a su tiempo, capaz de competir al má.
+
+Date: 2026-07-23
 
 ### Crimen de Las Tablas: a Facundo lo asesinó Alberto, un marido obsesionado con la infidelidad de su esposa
 
@@ -56,23 +68,11 @@ El proyecto madridista de baloncesto suma una pieza estratégica para su juego i
 
 Date: 2026-07-22
 
-### La Audiencia Provincial respalda al juez Zamarriego y rechaza que Aldama se persone en el "caso Leire"
-
-La Audiencia Provincial de Madrid ha ratificado la decisión del juez Arturo Zamarriego de negar a Víctor de Aldama ejercer la acusación particular, en calidad de perjudicado, en la investigación a Leire Díez por las «cloacas del PSOE» (procedimiento del que el juez de la Audiencia Nacional Santiago Pedraz le ha pedido.
-
-Date: 2026-07-22
-
-### Roberto Ruiz, el chef que cambió la historia de la cocina mexicana en Madrid: "Hemos creado nuevos sabores"
-
-Por qué la cocina mexicana vive su mejor momento en Madrid, según Roberto Ruiz, el primer chef en lograr una estrella Michelin para un restaurante mexicano en Europa.
-
-Date: 2026-07-22
-
 ## Fuentes
 
+- [Leonor Watling: «Las mujeres somos un tiro más fácil, los hombres son más difíciles de tumbar»](https://www.abc.es/play/series/noticias/cabeza-alta-pasa-intimidad-escapa-20260716202334-nt.html?utm_source=lootura.com) — 2026-07-23T00:00:09.000Z
 - [Muere un trabajador durante «labores de mantenimiento» en una base de Renfe en Madrid](https://www.elcorreo.com/economia/empresas/muere-trabajador-labores-mantenimiento-base-renfe-madrid-20260722163457-ntrc_amp.html?utm_source=lootura.com) — 2026-07-22T14:34:57.000Z
 - [El fuego de Almorox llega a Madrid y activa la UME: confinan Villa del Prado y desalojan varias urbanizaciones](https://www.elmundo.es/madrid/2026/07/22/6a60f636fc6c83ba588b4570.html?utm_source=lootura.com) — 2026-07-22T19:41:19.000Z
 - [El incendio de la localidad toledana de Almorox salta a Madrid y se moviliza la UME](https://elpais.com/espana/madrid/2026-07-22/evacuado-el-encinar-del-alberche-y-confinado-villa-del-prado-en-madrid-por-un-incendio-en-la-localidad-toledana-de-almorox.html?utm_source=lootura.com) — 2026-07-22T17:53:58.000Z
 - [Crimen de Las Tablas: a Facundo lo asesinó Alberto, un marido obsesionado con la infidelidad de su esposa](https://elpais.com/espana/madrid/2026-07-22/crimen-de-las-tablas-a-facundo-lo-asesino-alberto-un-marido-obsesionado-con-la-infidelidad-de-su-esposa.html?utm_source=lootura.com) — 2026-07-22T12:53:31.000Z
-- [La AEMET avisa sobre lo que está pasando en el cielo de Madrid y sorprende a muchos](https://www.larazon.es/actualidad/aemet-avisa-que-esta-pasando-cielo-madrid-sorprende-muchos-b51m_202607226a61227daa17c0020f2a5887.html?utm_source=lootura.com) — 2026-07-22T20:05:17.000Z
-- [Sale a la luz la razón por la que Can Yaman abandonó Italia: «No aguanto más el acoso…»](https://okdiario.com/happyfm/sale-luz-razon-que-can-yaman-abandono-italia-no-aguanto-mas-acoso-19046420?utm_source=lootura.com) — 2026-07-22T19:00:03.000Z
+- [Luis Álvarez Cervera, el mito de la hípica española cumple 79 años](https://www.larazon.es/deportes/luis-alvarez-cervera-mito-hipica-espanola-cumple-79-anos_202607236a616b17da3add27d4dce917.html?utm_source=lootura.com) — 2026-07-23T01:15:03.000Z

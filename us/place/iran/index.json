@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/iran/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/iran/index.json",
   "description": "Follow Iran, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-22T21:09:05.351Z",
+  "updatedAt": "2026-07-23T02:31:30.185Z",
   "aliases": [
     "IRI",
     "Islamic Rep. Iran",
@@ -17,14 +17,14 @@
   ],
   "changes": [
     {
-      "title": "Funding milestone detected",
-      "summary": "Defense Secretary Pete Hegseth faced a barrage of questions about the war with Iran from lawmakers on Tuesday, as the administration seeks more money for the escalating conflict.",
-      "date": "2026-07-22"
+      "title": "Remembering the 4 U.S. service members killed recently in the Iran war",
+      "summary": "A dignified transfer was held Wednesday for the four U.S. Army soldiers killed in the Middle East in recent days amid the ongoing war with Iran. Lindsey Reiser shares more details on Lt. Tyler James Feehan, Pvt. Isabella Gonzales, Sgt. Angel Rampersad and Sgt. Michael Emmanuel Swinton.",
+      "date": "2026-07-23"
     },
     {
-      "title": "Sen. Patty Murray, D-Wash., on Defense Secretary Pete Hegseth's Senate testimony",
-      "summary": "NPR's Leila Fadel speaks with Democratic Sen. Patty Murray of Washington about the administration's Iran war objectives following the testimony of Defense Secretary Pete Hegseth.",
-      "date": "2026-07-22"
+      "title": "House Passes Defense Bill Amid Iran War Divide",
+      "summary": "Republicans pushed through the $1.15 trillion bill over opposition from Democrats, who said backing it was akin to embracing the war.",
+      "date": "2026-07-23"
     },
     {
       "title": "Trump threatens to attack Iran's infrastructure over Strait of Hormuz",
@@ -42,21 +42,6 @@
       "date": "2026-07-22"
     },
     {
-      "title": "Oil surges past $95 as U.S. downplays Iran diplomacy and 2nd key trade route is disrupted",
-      "summary": "The price of oil surged nearly 5% Wednesday as U.S. officials talked down new peace talks. Major disruptions now face two of the world’s key supply routes.",
-      "date": "2026-07-22"
-    },
-    {
-      "title": "Trump escalates threats on Iran as he attends dignified transfer of fallen soldiers",
-      "summary": "NBC News correspondents Monica Alba, Courtney Kube and Julie Tsirkin report on recent developments regarding the war with Iran as President Trump attends the dignified transfer of four soldiers killed in the Middle East. NBC News Intelligence Reporter Dan De Luce reports on President Trump’s approval of a deal with Sau.",
-      "date": "2026-07-22"
-    },
-    {
-      "title": "US House passes $1.15tn defense policy bill in near party-line vote",
-      "summary": "Passage of annual bill complicated by Trump’s decision to join Israel in attacking Iran without congressional approval The US House of Representatives passed a $1.15tn defense policy bill in a near-party-line vote on Wednesday, after Democrats refused to back the measure amid the war with Iran and Donald Trump ’s push.",
-      "date": "2026-07-22"
-    },
-    {
       "title": "See How Houthis Put the Red Sea at Risk as an Alternative Oil Route",
       "summary": "Saudi Arabia has diverted huge amounts of oil to the Red Sea since the Iran war began, but now the Iranian-backed Houthi militants say that they intend to block that route.",
       "date": "2026-07-22"
@@ -64,6 +49,21 @@
     {
       "title": "Speaking for Fallen Soldiers, Trump Says They Supported the Iran War",
       "summary": "President Trump attended a dignified transfer for the soldiers as Americans were growing increasingly critical of the war.",
+      "date": "2026-07-22"
+    },
+    {
+      "title": "House Adopts $95 Billion G.O.P. Budget for Iran War",
+      "summary": "Republican leaders muscled through resistance in their own ranks to approve the budget blueprint for the war and other measures, but its prospects were far dimmer in the Senate.",
+      "date": "2026-07-22"
+    },
+    {
+      "title": "Funding milestone detected",
+      "summary": "Republicans passed more than $1 trillion for the Pentagon alongside a budget blueprint to fund the war with Iran and implement provisions of President Trump's election overhaul bill. (Image credit: Anna Moneymaker).",
+      "date": "2026-07-22"
+    },
+    {
+      "title": "Trump escalates threats, vows to target Iranian bridges and power plants",
+      "summary": "Iranian news agencies are reporting widespread aerial attacks across southern Iran. It comes as President Trump issued more threats against Iran and the Islamic Republic's foreign minister responded that any future attacks would be met with \"an eye for an eye.\" White House correspondent Liz Landers reports.",
       "date": "2026-07-22"
     }
   ],
@@ -81,40 +81,28 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
+      "title": "Remembering the 4 U.S. service members killed recently in the Iran war",
+      "url": "https://www.cbsnews.com/video/remembering-the-4-us-service-members-killed-recently-in-the-iran-war/?utm_source=lootura.com",
+      "publishedAt": "2026-07-23T00:32:33.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
+    {
       "title": "Send your questions for Richard Engel on the war with Iran and more",
       "url": "https://www.nbcnews.com/world/iran/richard-engel-qa-iran-rcna353221?utm_source=lootura.com",
       "publishedAt": "2026-07-22T18:21:09.000Z",
       "sourceId": "lootura-us-nbc-news"
     },
     {
-      "title": "Oil surges past $95 as U.S. downplays Iran diplomacy and 2nd key trade route is disrupted",
-      "url": "https://www.nbcnews.com/business/business-news/oil-prices-brent-gas-iran-war-trump-hormuz-red-sea-houthis-rcna588671?utm_source=lootura.com",
-      "publishedAt": "2026-07-22T11:15:37.000Z",
-      "sourceId": "lootura-us-nbc-news"
-    },
-    {
-      "title": "Trump escalates threats on Iran as he attends dignified transfer of fallen soldiers",
-      "url": "https://www.nbcnews.com/meet-the-press/video/trump-escalates-threats-on-iran-as-he-attends-dignified-transfer-of-fallen-soldiers-267117637561?utm_source=lootura.com",
-      "publishedAt": "2026-07-22T20:33:16.000Z",
-      "sourceId": "lootura-us-nbc-news-politics"
-    },
-    {
-      "title": "Defense Secretary Pete Hegseth defends Iran war funding request at fiery hearing",
-      "url": "https://www.npr.org/2026/07/22/nx-s1-5901981/defense-secretary-pete-hegseth-defends-iran-war-funding-request-at-fiery-hearing?utm_source=lootura.com",
-      "publishedAt": "2026-07-22T10:43:36.000Z",
+      "title": "House passes Pentagon funding bill and a blueprint to unlock new dollars for Iran war",
+      "url": "https://www.npr.org/2026/07/22/nx-s1-5903130/house-vote-iran-war-funding-reconciliation?utm_source=lootura.com",
+      "publishedAt": "2026-07-22T21:51:19.000Z",
       "sourceId": "lootura-us-npr-politics"
     },
     {
-      "title": "Sen. Patty Murray, D-Wash., on Defense Secretary Pete Hegseth's Senate testimony",
-      "url": "https://www.npr.org/2026/07/22/nx-s1-5902047/sen-patty-murray-d-wash-on-defense-secretary-pete-hegseths-senate-testimony?utm_source=lootura.com",
-      "publishedAt": "2026-07-22T10:43:28.000Z",
-      "sourceId": "lootura-us-npr-politics"
-    },
-    {
-      "title": "US House passes $1.15tn defense policy bill in near party-line vote",
-      "url": "https://www.theguardian.com/us-news/2026/jul/22/us-house-defense-bill-iran-war?utm_source=lootura.com",
-      "publishedAt": "2026-07-22T20:44:08.000Z",
-      "sourceId": "lootura-us-the-guardian-us"
+      "title": "Trump escalates threats, vows to target Iranian bridges and power plants",
+      "url": "https://www.pbs.org/newshour/show/trump-escalates-threats-vows-to-target-iranian-bridges-and-power-plants?utm_source=lootura.com",
+      "publishedAt": "2026-07-22T22:55:33.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
     },
     {
       "title": "Iran’s Neighbors Long for a Deal, Any Deal, to End the War",
@@ -127,7 +115,19 @@
       "url": "https://www.nytimes.com/2026/07/22/business/energy-environment/red-sea-saudi-arabia-houthis.html?utm_source=lootura.com",
       "publishedAt": "2026-07-22T12:17:51.000Z",
       "sourceId": "lootura-us-the-new-york-times"
+    },
+    {
+      "title": "Speaking for Fallen Soldiers, Trump Says They Supported the Iran War",
+      "url": "https://www.nytimes.com/2026/07/22/us/politics/trump-dignified-transfer-soldiers-iran-war.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-22T21:04:23.000Z",
+      "sourceId": "lootura-us-the-new-york-times-politics"
+    },
+    {
+      "title": "House Adopts $95 Billion G.O.P. Budget for Iran War",
+      "url": "https://www.nytimes.com/2026/07/22/us/politics/house-republicans-iran-budget-pentagon.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-22T21:56:01.000Z",
+      "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 13
+  "evidenceCount": 10
 }

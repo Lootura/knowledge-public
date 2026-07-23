@@ -70,5 +70,4 @@ Date: 2026-07-20
 
 ## Sources
 
-- [Ukraine targets Russian online retailer Wildberries](https://www.nbcnews.com/video/ukraine-targets-russian-online-retailer-wildberries-267087429820?utm_source=lootura.com) — 2026-07-22T11:42:06.000Z
-- [Mykhailo Drapatyi: What to Know About Ukraine’s New Top General](https://www.nytimes.com/2026/07/21/world/europe/ukraine-mykhailo-drapatyi.html?utm_source=lootura.com) — 2026-07-21T23:39:36.000Z
+No public source links.

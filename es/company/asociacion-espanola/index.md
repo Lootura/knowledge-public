@@ -28,4 +28,4 @@ Date: 2026-07-22
 
 ## Fuentes
 
-- [La industria española de defensa exhibirá en Polonia sus tecnologías más avanzadas](https://theobjective.com/tecnologia/2026-07-22/industria-espanola-defensa-polonia/?utm_source=lootura.com) — 2026-07-22T16:17:04.000Z
+No public source links.

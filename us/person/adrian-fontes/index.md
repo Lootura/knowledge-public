@@ -28,4 +28,4 @@ Date: 2026-07-22
 
 ## Sources
 
-- [Election Denier Wins G.O.P. Nomination to Be Arizona’s Top Election Official](https://www.nytimes.com/2026/07/21/us/elections/arizona-primary-secretary-of-state-alexander-kolodin-wins.html?utm_source=lootura.com) — 2026-07-22T03:22:21.000Z
+No public source links.

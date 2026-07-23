@@ -3,7 +3,7 @@
 > Sigue la actividad de La Mierla en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-22T21:08:41.543Z
+- Actualizado: 2026-07-23T02:31:05.539Z
 - Canonical: https://atlas.lootura.com/es/place/la-mierla
 
 ## Cambios recientes
@@ -71,4 +71,3 @@ Date: 2026-07-19
 ## Fuentes
 
 - [El incendio de Guadalajara entra en fase de “estabilización” tras arrasar más de 32.000 hectáreas](https://elpais.com/espana/2026-07-22/el-incendio-de-guadalajara-entra-en-fase-de-estabilizacion-tras-arrasar-mas-de-32000-hectareas.html?utm_source=lootura.com) — 2026-07-22T11:03:06.000Z
-- [Incendios forestales en España, en directo: Castilla y León lucha contra el fuego mientras preocupa los focos activos de La Mierla y Selas](https://www.larazon.es/sociedad/incendio-guadalajara-directo-ultima-hora-avance-fuego-mierla-selas_202607226a6041794687a22bdec6bd84.html?outputType=amp&utm_source=lootura.com) — 2026-07-22T17:15:19.000Z

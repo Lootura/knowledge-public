@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/ferran-torres/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/ferran-torres/index.json",
   "description": "Sigue la actividad de \"El Tiburón\" en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-22T21:08:41.543Z",
+  "updatedAt": "2026-07-23T02:31:05.539Z",
   "aliases": [
     "\"El Tiburón\"",
     "Ferran",
@@ -69,11 +69,11 @@
   ],
   "sources": [
     {
-      "title": "Linchamiento en redes a Rodri por su «viva España, viva el Rey»",
-      "url": "https://www.abc.es/deportes/futbol/mundial/linchamiento-redes-rodri-viva-espana-viva-rey-20260722192643-nt_amp.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-22T17:26:43.000Z",
-      "sourceId": "lootura-es-abc"
+      "title": "Sumar acusa a Ferran Torres de «especular» con la vivienda en Valencia",
+      "url": "https://www.elcorreo.com/deportes/futbol/mundial/sumar-acusa-ferran-torres-especular-vivienda-valencia-20260722074216-nt_amp.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-22T05:42:16.000Z",
+      "sourceId": "lootura-es-el-correo"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 0
 }

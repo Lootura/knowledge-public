@@ -40,5 +40,4 @@ Date: 2026-07-22
 
 ## Fuentes
 
-- [El Supremo reclama a la Junta Electoral central documentación de la 'ley de nietos'](https://www.eldebate.com/espana/20260722/supremo-reclama-junta-electoral-central-documentacion-ley-nietos_442640.html?utm_source=lootura.com) — 2026-07-22T18:17:11.000Z
-- [El Tribunal Supremo levanta las medidas cautelares de Aldama a petición de su defensa](https://www.elmundo.es/espana/2026/07/22/6a60940f21efa097198b45a5.html?utm_source=lootura.com) — 2026-07-22T10:07:09.000Z
+No public source links.

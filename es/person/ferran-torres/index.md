@@ -3,7 +3,7 @@
 > Sigue la actividad de "El Tiburón" en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-22T21:08:41.543Z
+- Actualizado: 2026-07-23T02:31:05.539Z
 - Canonical: https://atlas.lootura.com/es/person/ferran-torres
 
 ## Cambios recientes
@@ -70,4 +70,4 @@ Date: 2026-07-19
 
 ## Fuentes
 
-- [Linchamiento en redes a Rodri por su «viva España, viva el Rey»](https://www.abc.es/deportes/futbol/mundial/linchamiento-redes-rodri-viva-espana-viva-rey-20260722192643-nt_amp.html?utm_source=lootura.com) — 2026-07-22T17:26:43.000Z
+- [Sumar acusa a Ferran Torres de «especular» con la vivienda en Valencia](https://www.elcorreo.com/deportes/futbol/mundial/sumar-acusa-ferran-torres-especular-vivienda-valencia-20260722074216-nt_amp.html?utm_source=lootura.com) — 2026-07-22T05:42:16.000Z

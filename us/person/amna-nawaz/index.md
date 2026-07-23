@@ -3,10 +3,16 @@
 > Follow Amna Nawaz, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-07-21T10:23:35.333Z
+- Updated: 2026-07-23T02:31:30.185Z
 - Canonical: https://atlas.lootura.com/us/person/amna-nawaz
 
 ## Recent changes
+
+### Discovered by Atlas
+
+Amna Nawaz first entered the public knowledge record with source-backed evidence.
+
+Date: 2026-07-20
 
 ### Iran war hurting U.S. allies in region, former Jordanian foreign minister says
 
@@ -26,12 +32,6 @@ Two deadly shootings involving ICE officers reignited protests and renewed quest
 
 Date: 2026-07-20
 
-### Discovered by Atlas
-
-Amna Nawaz first entered the public knowledge record with source-backed evidence.
-
-Date: 2026-07-20
-
 ## Sources
 
-No public source links.
+- [The implications of Trump loyalists and election deniers winning GOP primaries](https://www.pbs.org/newshour/show/the-implications-of-trump-loyalists-and-election-deniers-winning-gop-primaries?utm_source=lootura.com) — 2026-07-22T22:40:07.000Z

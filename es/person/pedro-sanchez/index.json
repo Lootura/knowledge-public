@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/pedro-sanchez/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/pedro-sanchez/index.json",
   "description": "Sigue la actividad de Pedro Sánchez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-22T21:08:41.543Z",
+  "updatedAt": "2026-07-23T02:31:05.539Z",
   "aliases": [
     "P S",
     "P. S.",
@@ -18,11 +18,6 @@
   ],
   "changes": [
     {
-      "title": "Narbona afirma que Sánchez \"ha asumido la responsabilidad política\" por los casos de corrupción y defiende a Zapatero \"por su enorme legado\"",
-      "summary": "La presidenta del PSOE admite conocer a Leire Díez, la llamada 'fontanera' del partido, desde hace años pero, recalca: \"No he sido su madrina para nada\" Leer.",
-      "date": "2026-07-22"
-    },
-    {
       "title": "Feijóo sitúa a Sánchez como \"el señor X\" de todos los casos del PSOE y promete \"una limpieza a fondo\" de las instituciones",
       "summary": "Comienza la \"cuenta atrás\" para el PP. Alberto Núñez Feijóo mira ya hacia las elecciones generales y mete la directa hacia \"el cambio\". Un cambio...",
       "date": "2026-07-22"
@@ -30,6 +25,11 @@
     {
       "title": "La china Geely llega a un acuerdo con Ford para producir coches en su fábrica de Almussafes",
       "summary": "El presidente de Ford Europa, Jim Baumbick, oficializará el anuncio este jueves, en presencia de Pedro Sánchez y Juanfran Pérez Llorca, para garantizar la supervivencia de la planta valenciana Leer.",
+      "date": "2026-07-22"
+    },
+    {
+      "title": "Narbona afirma que Sánchez \"ha asumido la responsabilidad política\" por los casos de corrupción y defiende a Zapatero \"por su enorme legado\"",
+      "summary": "La presidenta del PSOE admite conocer a Leire Díez, la llamada 'fontanera' del partido, desde hace años pero, recalca: \"No he sido su madrina para nada\" Leer.",
       "date": "2026-07-22"
     },
     {
@@ -76,17 +76,11 @@
       "sourceId": "lootura-es-el-mundo"
     },
     {
-      "title": "Narbona afirma que Sánchez \"ha asumido la responsabilidad política\" por los casos de corrupción y defiende a Zapatero \"por su enorme legado\"",
-      "url": "https://www.elmundo.es/espana/2026/07/22/6a609717e9cf4a04078b456f.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-22T10:15:48.000Z",
-      "sourceId": "lootura-es-el-mundo"
-    },
-    {
       "title": "Feijóo sitúa a Sánchez como \"el señor X\" de todos los casos del PSOE y promete \"una limpieza a fondo\" de las instituciones",
       "url": "https://amp.elmundo.es/espana/2026/07/22/6a609c9be85ecedc108b4578.html?utm_source=lootura.com",
       "publishedAt": "2026-07-22T10:46:17.000Z",
       "sourceId": "lootura-es-el-mundo"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 2
 }

@@ -3,10 +3,22 @@
 > Sigue la actividad de Barcelona en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-22T21:08:41.543Z
+- Actualizado: 2026-07-23T02:31:05.539Z
 - Canonical: https://atlas.lootura.com/es/place/barcelona
 
 ## Cambios recientes
+
+### Cómo Marc Cucurella y Claudia Rodríguez convirtieron la conciliación en una decisión estratégica
+
+Suele decirse que las personas que tienen una sonrisa perenne y que buscan alegrar a los demás son las que más han sufrido. No sabemos si esta es la razón detrás de la radiante sonrisa de Marc Cucurella (Alella, Barcelona, 1998) , el lateral izquierdo que el pasado domingo ayudó a la selección española a levantar su se.
+
+Date: 2026-07-22
+
+### Ocho heridos en una deflagración de gas en Barcelona
+
+El incendio ha tenido lugar en una estación de metro de la Ciudad Condal.
+
+Date: 2026-07-22
 
 ### Una testigo revela que la terapia de los Andic incluía una situación extrema en un barranco
 
@@ -56,19 +68,7 @@ A Ferran Torres parecía que lo había devorado el meme. No importaba que hubier
 
 Date: 2026-07-21
 
-### Muere apuñalado en Barcelona tras quebrantar una orden de alejamiento contra una mujer
-
-Un hombre ha fallecido tras ser apuñalado la madrugada de este martes en el paseo marítimo de la Barceloneta , alrededor de las 3:25 horas, después de ser detenido por un presunto quebrantamiento de una orden de alejamiento sobre una mujer presente en el lugar. Así lo han confirmado a Europa Press fuentes de los Mossos.
-
-Date: 2026-07-21
-
-### El creador de "Sherlock", protagonista principal del Festival Serializados
-
-El 13 Serielizados - Festival de Series de Barcelona, que se celebrará del 19 al 28 de octubre, contará con el guionista escocés Steven Moffat, creador de 'Sherlock' y showrunner de 'Doctor Who', como invitado internacional de esta edición. Moffat tiene una larga trayectoria en la televisión británica y es conocido por.
-
-Date: 2026-07-21
-
 ## Fuentes
 
-- [Linchamiento en redes a Rodri por su «viva España, viva el Rey»](https://www.abc.es/deportes/futbol/mundial/linchamiento-redes-rodri-viva-espana-viva-rey-20260722192643-nt_amp.html?utm_source=lootura.com) — 2026-07-22T17:26:43.000Z
-- [Una testigo revela que la terapia de los Andic incluía una situación extrema en un barranco](https://elpais.com/espana/catalunya/2026-07-22/una-testigo-revela-que-la-terapia-de-los-andic-incluia-una-situacion-extrema-en-un-barranco.html?utm_source=lootura.com) — 2026-07-22T07:44:28.000Z
+- [Cómo Marc Cucurella y Claudia Rodríguez convirtieron la conciliación en una decisión estratégica](https://www.expansion.com/directivos/deporte-negocio/2026/07/23/6a60f23c468aebc3408b459b.html?utm_source=lootura.com) — 2026-07-22T22:23:48.000Z
+- [Ocho heridos en una deflagración de gas en Barcelona](https://theobjective.com/sociedad/suceso/2026-07-23/ocho-heridos-deflagracion-barcelona/?amp=&utm_source=lootura.com) — 2026-07-22T23:02:47.000Z

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/donald-trump/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/donald-trump/index.json",
   "description": "Sigue la actividad de Donald Trump en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-22T21:08:41.543Z",
+  "updatedAt": "2026-07-23T02:31:05.539Z",
   "aliases": [
     "@realDonaldTrump",
     "DJT",
@@ -35,16 +35,6 @@
       "date": "2026-07-22"
     },
     {
-      "title": "Trump se dispone a firmar un acuerdo nuclear con Arabia Saudí en plena escalada de tensiones con Irán",
-      "summary": "En plena escalada de tensiones bélicas con Irán, el Gobierno de Estados Unidos que preside Donald Trump se dispone a firmar un acuerdo con Arabia Saudí que permitiría al país contar con un programa nuclear civil, abriendo la puerta al enriquecimiento de uranio. El acuerdo, que busca reordenar el equilibrio de poderes e.",
-      "date": "2026-07-22"
-    },
-    {
-      "title": "El pacto nuclear de EE.UU. con Arabia Saudí hace temer una carrera atómica en Oriente Próximo",
-      "summary": "Fuentes oficiales de la Casa Blanca han filtrado a los principales medios de prensa anglosajones que el presidente Trump ha cerrado un acuerdo para compartir tecnología nuclear con Arabia Saudí. El plan, que será sometido al Congreso de Estados Unidos para su aprobación, supone un cambio de política radical al no inclu.",
-      "date": "2026-07-22"
-    },
-    {
       "title": "Trump blinda a Delcy hasta que celebre elecciones en Venezuela dentro de un año",
       "summary": "Donald Trump ha decidido proteger judicialmente a Delcy Rodríguez, pero no liberarla de la amenaza de los tribunales estadounidenses. La inmunidad solicitada por su Administración ante un juez federal de Miami es un escudo condicionado , pues solo existe mientras ella siga siendo la jefa de Estado reconocida por Estado.",
       "date": "2026-07-22"
@@ -57,6 +47,16 @@
     {
       "title": "Trump amenaza con destruir puentes o centrales eléctricas cada vez que Irán ataque un barco en Ormuz",
       "summary": "Estados Unidos e Irán cada vez están más cerca de una guerra total al tiempo que el conflicto entra en un callejón sin salida. El presidente de Estados Unidos, Donald Trump, ha prometido este miércoles destruir un puente o una central eléctrica iraní cada vez que Irán dispare contra un barco en el estrecho de Ormuz. El.",
+      "date": "2026-07-22"
+    },
+    {
+      "title": "Trump se dispone a firmar un acuerdo nuclear con Arabia Saudí en plena escalada de tensiones con Irán",
+      "summary": "En plena escalada de tensiones bélicas con Irán, el Gobierno de Estados Unidos que preside Donald Trump se dispone a firmar un acuerdo con Arabia Saudí que permitiría al país contar con un programa nuclear civil, abriendo la puerta al enriquecimiento de uranio. El acuerdo, que busca reordenar el equilibrio de poderes e.",
+      "date": "2026-07-22"
+    },
+    {
+      "title": "El pacto nuclear de EE.UU. con Arabia Saudí hace temer una carrera atómica en Oriente Próximo",
+      "summary": "Fuentes oficiales de la Casa Blanca han filtrado a los principales medios de prensa anglosajones que el presidente Trump ha cerrado un acuerdo para compartir tecnología nuclear con Arabia Saudí. El plan, que será sometido al Congreso de Estados Unidos para su aprobación, supone un cambio de política radical al no inclu.",
       "date": "2026-07-22"
     },
     {
@@ -76,12 +76,6 @@
     }
   ],
   "sources": [
-    {
-      "title": "El pacto nuclear de EE.UU. con Arabia Saudí hace temer una carrera atómica en Oriente Próximo",
-      "url": "https://www.abc.es/internacional/eeuu-arabia-saudi-firman-acuerdo-nuclear-despierta-20260722210722-nt.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-22T20:28:49.000Z",
-      "sourceId": "lootura-es-abc"
-    },
     {
       "title": "Trump blinda a Delcy hasta que celebre elecciones en Venezuela dentro de un año",
       "url": "https://www.abc.es/internacional/trump-blinda-temporalmente-delcy-prepara-elecciones-venezuela-20260721195048-nt.html?utm_source=lootura.com",
@@ -111,13 +105,7 @@
       "url": "https://elpais.com/internacional/2026-07-22/el-alcalde-de-nueva-york-zohran-mamdani-insta-a-trump-a-detener-al-criminal-netanyahu-si-entra-en-estados-unidos.html?utm_source=lootura.com",
       "publishedAt": "2026-07-22T11:32:36.000Z",
       "sourceId": "lootura-es-el-pais"
-    },
-    {
-      "title": "Trump se dispone a firmar un acuerdo nuclear con Arabia Saudí en plena escalada de tensiones con Irán",
-      "url": "https://www.expansion.com/economia/2026/07/22/6a60c9f7468aebc5648b4591.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-22T15:30:46.000Z",
-      "sourceId": "lootura-es-expansion"
     }
   ],
-  "evidenceCount": 7
+  "evidenceCount": 5
 }

@@ -3,7 +3,7 @@
 > Follow Artificial intelligence, a tracked topic, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: topic
-- Updated: 2026-07-22T21:09:05.351Z
+- Updated: 2026-07-23T02:31:30.185Z
 - Canonical: https://atlas.lootura.com/us/topic/artificial-intelligence
 
 ## Recent changes
@@ -17,6 +17,12 @@ Date: 2026-07-22
 ### In pursuit of 'Instagram face,' are we losing the imperfections that make us human?
 
 Plastic surgery is becoming so normalized and undetectable, it's changing our relationship to reality. The New Yorker staff writer Jia Tolentino considers how beauty standards have dovetailed with AI.
+
+Date: 2026-07-22
+
+### Funding milestone detected
+
+Breakthroughs in Chinese AI models are sending shockwaves through Washington and Silicon Valley. Chinese companies are narrowing the AI gap despite vast differences in computing power and resources. It comes as the White House is planning to redirect billions in funding from universities to individuals in a bid to acce.
 
 Date: 2026-07-22
 
@@ -62,15 +68,9 @@ Nature, Published online: 20 July 2026; doi:10.1038/d41586-026-02211-2 Satellite
 
 Date: 2026-07-22
 
-### Don’t let AI steal all the joy: what scientists won’t give up to chatbots
-
-Nature, Published online: 21 July 2026; doi:10.1038/d41586-026-02213-0 Nature asked readers of the Nature Briefing what they like about their job and don’t want to hand over.
-
-Date: 2026-07-22
-
 ## Sources
 
 - [ChatGPT's medical advice nearly killed a man, lawsuit claims](https://www.cbsnews.com/news/chatgpt-dangerous-medical-advice-openai-lawsuit/?utm_source=lootura.com) — 2026-07-22T20:45:33.000Z
 - [In pursuit of 'Instagram face,' are we losing the imperfections that make us human?](https://www.npr.org/2026/07/22/nx-s1-5902070/jia-tolentino-instagram-face-plastic-surgery?utm_source=lootura.com) — 2026-07-22T17:11:19.000Z
-- [AI and quantum chemistry combine to identify efficient blue OLED materials](https://phys.org/news/2026-07-ai-quantum-chemistry-combine-efficient.html?utm_source=lootura.com) — 2026-07-22T20:20:01.000Z
+- [Breakthroughs in Chinese AI models threaten U.S. lead in tech race](https://www.pbs.org/newshour/show/breakthroughs-in-chinese-ai-models-threaten-u-s-lead-in-tech-race?utm_source=lootura.com) — 2026-07-22T22:35:28.000Z
 - [Stocks and the Economy Are Increasingly Relying on the A.I. Boom](https://www.nytimes.com/2026/07/22/business/economy/stocks-economy-ai.html?utm_source=lootura.com) — 2026-07-22T15:46:48.000Z

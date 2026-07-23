@@ -3,7 +3,7 @@
 > Sigue la actividad de El Estado Jardín en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-22T02:26:20.882Z
+- Actualizado: 2026-07-23T02:31:05.539Z
 - Canonical: https://atlas.lootura.com/es/place/nueva-jersey
 
 ## Cambios recientes
@@ -40,4 +40,4 @@ Date: 2026-07-18
 
 ## Fuentes
 
-No public source links.
+- [El mundo árabe también celebró la victoria de España en el Mundial](https://www.larazon.es/deportes/mundo-arabe-tambien-celebro-victoria-espana-mundial_202607236a616b43aa17c0020f2ab1a6.html?utm_source=lootura.com) — 2026-07-23T01:15:47.000Z

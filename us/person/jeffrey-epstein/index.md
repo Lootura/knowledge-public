@@ -22,4 +22,4 @@ Date: 2026-07-22
 
 ## Sources
 
-- [Whitney Cummings’s Trump Joke at Kennedy Center Is Cut From Netflix Special](https://www.nytimes.com/2026/07/21/arts/television/whitney-cummings-trump-joke-kennedy-center.html?utm_source=lootura.com) — 2026-07-22T00:22:02.000Z
+No public source links.

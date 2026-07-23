@@ -8,20 +8,25 @@
   "markdownUrl": "https://atlas.lootura.com/es/object/la-moncloa/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/object/la-moncloa/index.json",
   "description": "Sigue la actividad de Palacio de la Moncloa en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-21T06:26:04.171Z",
+  "updatedAt": "2026-07-23T02:31:05.539Z",
   "aliases": [
     "La Moncloa",
     "Moncloa Palace"
   ],
   "changes": [
     {
-      "title": "Las celebraciones de los campeones del mundo 2026, en imágenes",
-      "summary": "Tras la visita a Zarzuela y La Moncloa, la selección española recorre en autobús las calles de Madrid para culminar la fiesta en La Cibeles.",
-      "date": "2026-07-20"
+      "title": "Feijóo promete una \"reconstrucción nacional\" y reformas estructurales: \"Hacienda dejará de ser el gran beneficiario\"",
+      "summary": "Activa la \"cuenta atrás\" hacia La Moncloa y plantea un plan de regeneración institucional, más \"gestión\" y rebajas fiscales a familia y autónomos Leer.",
+      "date": "2026-07-22"
     },
     {
       "title": "Discovered by Atlas",
-      "summary": "La Moncloa first entered the public knowledge record with source-backed evidence.",
+      "summary": "Palacio de la Moncloa first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-07-20"
+    },
+    {
+      "title": "Las celebraciones de los campeones del mundo 2026, en imágenes",
+      "summary": "Tras la visita a Zarzuela y La Moncloa, la selección española recorre en autobús las calles de Madrid para culminar la fiesta en La Cibeles.",
       "date": "2026-07-20"
     },
     {
@@ -30,6 +35,13 @@
       "date": "2026-07-20"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Feijóo promete una \"reconstrucción nacional\" y reformas estructurales: \"Hacienda dejará de ser el gran beneficiario\"",
+      "url": "https://www.elmundo.es/espana/2026/07/22/6a611444e4d4d8850e8b4588.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-22T20:38:09.000Z",
+      "sourceId": "lootura-es-el-mundo"
+    }
+  ],
+  "evidenceCount": 1
 }

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/psoe/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/psoe/index.json",
   "description": "Sigue la actividad de Partido Socialista Obrero Español en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-22T21:08:41.543Z",
+  "updatedAt": "2026-07-23T02:31:05.539Z",
   "aliases": [
     "Grupo Socialista",
     "PSOE",
@@ -22,14 +22,9 @@
   ],
   "changes": [
     {
-      "title": "Narbona afirma que Sánchez \"ha asumido la responsabilidad política\" por los casos de corrupción y defiende a Zapatero \"por su enorme legado\"",
-      "summary": "La presidenta del PSOE admite conocer a Leire Díez, la llamada 'fontanera' del partido, desde hace años pero, recalca: \"No he sido su madrina para nada\" Leer.",
-      "date": "2026-07-22"
-    },
-    {
-      "title": "Última hora de la actualidad política, en directo | Feijóo hace balance del curso político y de la legislatura",
-      "summary": "El líder del PP, Alberto Núñez Feijóo, hace balance en rueda de prensa del curso político y de la marcha de la legislatura, con la mirada puesta en las causas judiciales que afectan al PSOE y al Gobierno y la falta de apoyos parlamentarios del Ejecutivo. La presidenta del PSOE, Cristina Narbona, comparece en la comisió.",
-      "date": "2026-07-22"
+      "title": "Los vecinos de Mahón tendrán que lavar el coche a mano al ordenar el alcalde el cierre de los lavaderos por sequía",
+      "summary": "Los 30.000 vecinos de Mahón tendrán que lavar el coche a mano al ordenar el alcalde del PSOE, Héctor Pons, el cierre de los lavaderos. El primer edil ha ordenado a la Policía Local el cierre de los lavacoches que hay en la capital menorquina, ya que en el decreto de medidas aprobado figura la de evitar la limpieza de v.",
+      "date": "2026-07-23"
     },
     {
       "title": "Feijóo sitúa a Sánchez como \"el señor X\" de todos los casos del PSOE y promete \"una limpieza a fondo\" de las instituciones",
@@ -52,6 +47,16 @@
       "date": "2026-07-22"
     },
     {
+      "title": "Narbona afirma que Sánchez \"ha asumido la responsabilidad política\" por los casos de corrupción y defiende a Zapatero \"por su enorme legado\"",
+      "summary": "La presidenta del PSOE admite conocer a Leire Díez, la llamada 'fontanera' del partido, desde hace años pero, recalca: \"No he sido su madrina para nada\" Leer.",
+      "date": "2026-07-22"
+    },
+    {
+      "title": "Última hora de la actualidad política, en directo | Feijóo hace balance del curso político y de la legislatura",
+      "summary": "El líder del PP, Alberto Núñez Feijóo, hace balance en rueda de prensa del curso político y de la marcha de la legislatura, con la mirada puesta en las causas judiciales que afectan al PSOE y al Gobierno y la falta de apoyos parlamentarios del Ejecutivo. La presidenta del PSOE, Cristina Narbona, comparece en la comisió.",
+      "date": "2026-07-22"
+    },
+    {
       "title": "PSOE y Sumar pactan una prórroga para los alquileres que venzan antes de julio de 2028",
       "summary": "Los socios del Gobierno de coalición —PSOE y Sumar— han llegado a un acuerdo para incluir en el decreto de vivienda que aprobará el próximo 28 de julio el Consejo de Ministros una nueva prórroga extraordinaria de dos años para los contratos de alquiler que venzan antes del 30 de junio de 2028. Según cuentan fuentes de.",
       "date": "2026-07-22"
@@ -65,11 +70,6 @@
       "title": "Narbona se agarra al legado de Zapatero, pero solo pone la mano en el fuego por Sánchez",
       "summary": "Una semana después de declarar como testigo ante la Audiencia Nacional , la presidenta del PSOE, Cristina Narbona, ha acudido este miércoles a la sala Clara Campoamor del Senado —donde se daba cita la comisión de investigación por el caso Koldo y otras tantas derivadas— por las dudas que suscita su relación con Leire D.",
       "date": "2026-07-22"
-    },
-    {
-      "title": "PSOE y Sumar pactan congelar el precio de los alquileres hasta julio de 2028",
-      "summary": "Los socios de gobierno, PSOE y Sumar, han acordado incluir en el nuevo decreto de vivienda una congelación del precio de los alquileres a la que se podrán acoger aquellos cuyo contrato venza antes de julio de 2028. Según han confirmado este miércoles fuentes del socio minoritario de la coalición, tras el pacto en el se.",
-      "date": "2026-07-22"
     }
   ],
   "sources": [
@@ -77,12 +77,6 @@
       "title": "PSOE y Sumar pactan blindar el precio de los alquileres hasta julio de 2028 en un decreto que debe convencer a PNV y Junts",
       "url": "https://www.elmundo.es/economia/vivienda/2026/07/22/6a60f8c7fdddff0f798b4585.html?utm_source=lootura.com",
       "publishedAt": "2026-07-22T18:31:06.000Z",
-      "sourceId": "lootura-es-el-mundo"
-    },
-    {
-      "title": "Narbona afirma que Sánchez \"ha asumido la responsabilidad política\" por los casos de corrupción y defiende a Zapatero \"por su enorme legado\"",
-      "url": "https://www.elmundo.es/espana/2026/07/22/6a609717e9cf4a04078b456f.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-22T10:15:48.000Z",
       "sourceId": "lootura-es-el-mundo"
     },
     {
@@ -98,17 +92,17 @@
       "sourceId": "lootura-es-el-pais"
     },
     {
-      "title": "Última hora de la actualidad política, en directo | Feijóo hace balance del curso político y de la legislatura",
-      "url": "https://elpais.com/espana/2026-07-22/ultima-hora-de-la-actualidad-politica-en-directo.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-22T10:20:37.000Z",
-      "sourceId": "lootura-es-el-pais"
-    },
-    {
       "title": "Junts cuestiona el borrador del decreto de vivienda por no incluir sus medidas fiscales y 'antiokupas'",
       "url": "https://www.eldiario.es/politica/junts-cuestiona-borrador-decreto-vivienda-no-incluir-medidas-fiscales-antiokupas_1_13400181.html?utm_source=lootura.com",
       "publishedAt": "2026-07-22T18:16:34.000Z",
       "sourceId": "lootura-es-eldiario-es"
+    },
+    {
+      "title": "Los vecinos de Mahón tendrán que lavar el coche a mano al ordenar el alcalde el cierre de los lavaderos por sequía",
+      "url": "https://okdiario.com/baleares/vecinos-mahon-tendran-que-lavar-coche-mano-ordenar-alcalde-cierre-lavaderos-sequia-19049095?utm_source=lootura.com",
+      "publishedAt": "2026-07-23T02:00:34.000Z",
+      "sourceId": "lootura-es-ok-diario"
     }
   ],
-  "evidenceCount": 6
+  "evidenceCount": 5
 }

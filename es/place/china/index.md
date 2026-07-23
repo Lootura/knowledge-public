@@ -3,10 +3,16 @@
 > Sigue la actividad de China en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-22T21:08:41.543Z
+- Actualizado: 2026-07-23T02:31:05.539Z
 - Canonical: https://atlas.lootura.com/es/place/china
 
 ## Cambios recientes
+
+### Ford y la china Geely firman un acuerdo histórico para fabricar en Almussafes
+
+El mapa industrial del automóvil en España vuelve a redibujarse con un movimiento de calado histórico, ya que la firma Ford formalizará este jueves un acuerdo con el gigante chino Geely para la venta de la planta Body 3, ubicada dentro del complejo industrial de Almussafes (Valencia). Según han informado al diario Las.
+
+Date: 2026-07-23
 
 ### La china Geely llega a un acuerdo con Ford para producir coches en su fábrica de Almussafes
 
@@ -14,9 +20,9 @@ El presidente de Ford Europa, Jim Baumbick, oficializará el anuncio este jueves
 
 Date: 2026-07-22
 
-### Ford y Geely cierran un acuerdo para fabricar coches eléctricos en Valencia
+### La china Geely entra a producir sus coches a la planta valenciana de Ford, que tiene un excedente de 1.000 trabajadores
 
-Las automovilísticas Ford y Geely han cerrado un acuerdo para que la compañía china fabrique coches eléctricos en la planta de Ford en Almussafes (Valencia), según adelantó...
+La china producirá automóviles en una línea de montaje inactiva de Almussafes, que tiene a sus empleados en ERTE y que el año pasado hizo menos de 100.000 coches, la cuarta parte de su récord. A cambio, evitará los aranceles de esa producción Leer.
 
 Date: 2026-07-22
 
@@ -62,12 +68,8 @@ China se convirtió la semana pasada en el segundo país del mundo que demostrab
 
 Date: 2026-07-17
 
-### Trump resucita en un discurso a la nación el bulo del fraude electoral de 2020 y exagera la influencia de China en su derrota
-
-Donald Trump, líder de un país en guerra y con el coste de la vida en alza, se dirigió este jueves por la noche a la nación para hablar de las elecciones... de hace seis años. No fue solo un intento de ajuste de cuentas con un fracaso personal; el presidente de Estados Unidos, cuya impopularidad bate récords, habló con.
-
-Date: 2026-07-17
-
 ## Fuentes
 
+- [Ford y la china Geely firman un acuerdo histórico para fabricar en Almussafes](https://www.abc.es/motor/economia/ford-geely-firman-acuerdo-historico-fabricar-almussafes-20260722133717-nt.html?utm_source=lootura.com) — 2026-07-23T00:01:59.000Z
 - [La china Geely llega a un acuerdo con Ford para producir coches en su fábrica de Almussafes](https://www.elmundo.es/economia/empresas/2026/07/22/6a60c041fdddff05188b4581.html?utm_source=lootura.com) — 2026-07-22T16:55:15.000Z
+- [La china Geely entra a producir sus coches a la planta valenciana de Ford, que tiene un excedente de 1.000 trabajadores](https://www.elmundo.es/motor/2026/07/22/6a60f936e4d4d8eb788b4581.html?utm_source=lootura.com) — 2026-07-22T20:36:55.000Z

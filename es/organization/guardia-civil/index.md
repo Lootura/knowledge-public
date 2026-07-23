@@ -3,10 +3,16 @@
 > Sigue la actividad de Guardia Civil en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-22T10:23:10.282Z
+- Actualizado: 2026-07-23T02:31:05.539Z
 - Canonical: https://atlas.lootura.com/es/organization/guardia-civil
 
 ## Cambios recientes
+
+### Las imágenes del incendio de Villa del Prado: casas calcinadas y rescates ‘in extremis’ de la Guardia Civil
+
+Casas y coches completamente calcinados , rescates de la Guardia Civil con el fuego pisando los talones … Es el panorama que deja, esta madrugada del jueves, el incendio forestal iniciado en Almorox (Toledo) y que el viento ha propagado con gran velocidad a la localidad madrileña vecina de Villa del Prado , cuya poblac.
+
+Date: 2026-07-22
 
 ### Mandos de la Guardia Civil urgen a Marlaska cambiar la ley para poder disparar a los motores de las narcolanchas
 
@@ -62,12 +68,6 @@ Todo empezó en agosto de 2018. Apenas dos meses después de la llegada de Pedro
 
 Date: 2026-07-19
 
-### La jefa política de la Guardia Civil se venga de Cerdán en «plato frío»
-
-La declaración de la directora general de la Guardia Civil Mercedes González como imputada por delitos de prevaricación y obstrucción a la Justicia ante el magistrado Santiago Pedraz no puede entenderse, según fuentes consultadas por este periódico y conocedoras de la relación de esta con el exsecretario de Organizació.
-
-Date: 2026-07-19
-
 ## Fuentes
 
-No public source links.
+- [Las imágenes del incendio de Villa del Prado: casas calcinadas y rescates ‘in extremis’ de la Guardia Civil](https://okdiario.com/madrid/imagenes-del-incendio-villa-del-prado-casas-calcinadas-rescates-in-extremis-guardia-civil-19051323?utm_source=lootura.com) — 2026-07-22T22:46:34.000Z

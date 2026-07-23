@@ -70,4 +70,4 @@ Date: 2026-07-12
 
 ## Fuentes
 
-- [Airbus prueba en España el nuevo simulador de aviones cisterna para la flota de la OTAN](https://theobjective.com/tecnologia/2026-07-22/airbus-simulador-flota-otan/?utm_source=lootura.com) — 2026-07-22T15:31:22.000Z
+No public source links.

@@ -3,7 +3,7 @@
 > Sigue la actividad de Mariano Rajoy en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-22T21:08:41.543Z
+- Actualizado: 2026-07-23T02:31:05.539Z
 - Canonical: https://atlas.lootura.com/es/person/mariano-rajoy
 
 ## Cambios recientes
@@ -71,4 +71,3 @@ Date: 2026-07-13
 ## Fuentes
 
 - [Fernández Díaz alega que se busca condenarlo en Kitchen “por razón” de su cargo de ministro](https://elpais.com/espana/2026-07-22/fernandez-diaz-alega-que-se-busca-condenarlo-en-kitchen-por-razon-de-su-cargo-de-ministro.html?utm_source=lootura.com) — 2026-07-22T14:18:40.000Z
-- [El ex ‘número dos’ de Interior defiende que la ‘Kitchen’ fue una «operación de Estado» legal](https://theobjective.com/espana/tribunales/2026-07-22/exnumero-dos-interior-kitchen-legalidad/?utm_source=lootura.com) — 2026-07-22T15:53:03.000Z

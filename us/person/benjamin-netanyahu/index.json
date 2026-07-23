@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/benjamin-netanyahu/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/benjamin-netanyahu/index.json",
   "description": "Follow Benjamin Netanyahu, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-22T21:09:05.351Z",
+  "updatedAt": "2026-07-23T02:31:30.185Z",
   "aliases": [
     "Ben Nitai",
     "Ben Nitay",
@@ -21,6 +21,11 @@
     "Netanyahu"
   ],
   "changes": [
+    {
+      "title": "Mamdani says he won't try to arrest Israel's Netanyahu",
+      "summary": "New York City Mayor Zohran Mamdani conceded late Tuesday that the city does not have the authority to arrest Israeli Prime Minister Benjamin Netanyahu.",
+      "date": "2026-07-23"
+    },
     {
       "title": "Discovered by Atlas",
       "summary": "Benjamin Netanyahu first entered the public knowledge record with source-backed evidence.",
@@ -44,10 +49,10 @@
   ],
   "sources": [
     {
-      "title": "Mamdani says NYC can't arrest Netanyahu but the federal government should",
-      "url": "https://www.pbs.org/newshour/world/mamdani-says-nyc-cant-arrest-netanyahu-but-the-federal-government-should?utm_source=lootura.com",
-      "publishedAt": "2026-07-22T20:49:55.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
+      "title": "Mamdani says he won't try to arrest Israel's Netanyahu",
+      "url": "https://www.cbsnews.com/news/mamdani-will-not-arrest-israel-netanyahu-nyc-legal-authority-nypd-un/?utm_source=lootura.com",
+      "publishedAt": "2026-07-23T00:39:53.000Z",
+      "sourceId": "lootura-us-cbs-news"
     }
   ],
   "evidenceCount": 1

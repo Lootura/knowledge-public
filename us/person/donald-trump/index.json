@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/donald-trump/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/donald-trump/index.json",
   "description": "Follow Donald Trump, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-22T21:09:05.351Z",
+  "updatedAt": "2026-07-23T02:31:30.185Z",
   "aliases": [
     "@realDonaldTrump",
     "DJT",
@@ -24,11 +24,6 @@
     "Trump"
   ],
   "changes": [
-    {
-      "title": "Arizona Elections: 6 Takeaways From the Trump-Dominated Primaries",
-      "summary": "Republicans nominated a former N.F.L. kicker in a top House battleground, a Trump loyalist for governor and an election denier for the state’s top election post.",
-      "date": "2026-07-22"
-    },
     {
       "title": "Trump’s 50% Tariffs on Canada: What to Know, and What’s Next",
       "summary": "The president said punishing 50 percent tariffs would begin by Aug. 19, a significant escalation of the trade war between Canada and the U.S. that he started over a year ago.",
@@ -60,11 +55,6 @@
       "date": "2026-07-22"
     },
     {
-      "title": "How the Trump Administration’s Nuclear Deal With Saudi Arabia May Work",
-      "summary": "The Trump administration announced an agreement with Saudi Arabia on a civilian nuclear program. Such deals, known as 123 Agreements, are designed to prevent the development of weapons.",
-      "date": "2026-07-22"
-    },
-    {
       "title": "Latest on U.S.-Saudi nuclear deal, Trump threats against Iranian infrastructure",
       "summary": "CBS News National security analyst Aaron MacLean breaks down President Trump's threats against Iranian infrastructure and the United States' new nuclear deal with Saudi Arabia.",
       "date": "2026-07-22"
@@ -72,6 +62,16 @@
     {
       "title": "Trump speaks at Georgia high school after attending dignified transfer",
       "summary": "President Trump spoke at a high school in Marietta, Georgia, on Wednesday, after attending a dignified transfer for four U.S. troops killed in the Middle East. CBS News congressional reporter Taurean Small has the latest.",
+      "date": "2026-07-22"
+    },
+    {
+      "title": "Trump says U.S. will destroy a bridge or power plant for each Iranian attack in the Strait of Hormuz",
+      "summary": "President Donald Trump's latest threat to target civilian infrastructure came as the unpopular war spirals with no clear off-ramp, threatening further worldwide economic disruption and sending fuel prices up ahead of midterm U.S. elections this fall.",
+      "date": "2026-07-22"
+    },
+    {
+      "title": "Laredo’s Future Rides on Trump’s Next Trade Move",
+      "summary": "The economy of Laredo, Texas, has boomed under the president’s global tariffs. Now, his demands may threaten its success.",
       "date": "2026-07-22"
     }
   ],
@@ -101,10 +101,22 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "Trump escalates threats on Iran as he attends dignified transfer of fallen soldiers",
-      "url": "https://www.nbcnews.com/meet-the-press/video/trump-escalates-threats-on-iran-as-he-attends-dignified-transfer-of-fallen-soldiers-267117637561?utm_source=lootura.com",
-      "publishedAt": "2026-07-22T20:33:16.000Z",
-      "sourceId": "lootura-us-nbc-news-politics"
+      "title": "In South Dakota, public media endures a year after federal funding was wiped out",
+      "url": "https://www.npr.org/2026/07/22/nx-s1-5903146/in-south-dakota-public-media-endures-a-year-after-federal-funding-was-wiped-out?utm_source=lootura.com",
+      "publishedAt": "2026-07-22T21:21:35.000Z",
+      "sourceId": "lootura-us-npr"
+    },
+    {
+      "title": "House passes Pentagon funding bill and a blueprint to unlock new dollars for Iran war",
+      "url": "https://www.npr.org/2026/07/22/nx-s1-5903130/house-vote-iran-war-funding-reconciliation?utm_source=lootura.com",
+      "publishedAt": "2026-07-22T21:51:19.000Z",
+      "sourceId": "lootura-us-npr-politics"
+    },
+    {
+      "title": "House votes to adopt Department of War renaming as part of annual defense bill",
+      "url": "https://www.pbs.org/newshour/politics/house-votes-to-adopt-department-of-war-renaming-as-part-of-annual-defense-bill?utm_source=lootura.com",
+      "publishedAt": "2026-07-22T23:45:20.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
     },
     {
       "title": "Trump says U.S. will destroy a bridge or power plant for each Iranian attack in the Strait of Hormuz",
@@ -113,28 +125,16 @@
       "sourceId": "lootura-us-pbs-newshour"
     },
     {
+      "title": "Trump escalates threats, vows to target Iranian bridges and power plants",
+      "url": "https://www.pbs.org/newshour/show/trump-escalates-threats-vows-to-target-iranian-bridges-and-power-plants?utm_source=lootura.com",
+      "publishedAt": "2026-07-22T22:55:33.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
+    },
+    {
       "title": "Andy Biggs wins Republican nomination to challenge Democrat Katie Hobbs for Arizona governor",
       "url": "https://www.pbs.org/newshour/politics/andy-biggs-wins-republican-nomination-to-challenge-democrat-katie-hobbs-for-arizona-governor?utm_source=lootura.com",
       "publishedAt": "2026-07-22T14:53:48.000Z",
       "sourceId": "lootura-us-pbs-newshour"
-    },
-    {
-      "title": "Trump will attend the dignified transfer of 4 U.S. service members killed in the Middle East",
-      "url": "https://www.pbs.org/newshour/world/trump-will-attend-the-dignified-transfer-of-4-u-s-service-members-killed-in-the-middle-east?utm_source=lootura.com",
-      "publishedAt": "2026-07-22T14:27:14.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
-    },
-    {
-      "title": "US House passes $1.15tn defense policy bill in near party-line vote",
-      "url": "https://www.theguardian.com/us-news/2026/jul/22/us-house-defense-bill-iran-war?utm_source=lootura.com",
-      "publishedAt": "2026-07-22T20:44:08.000Z",
-      "sourceId": "lootura-us-the-guardian-us"
-    },
-    {
-      "title": "Laredo’s Future Rides on Trump’s Next Trade Move",
-      "url": "https://www.nytimes.com/2026/07/22/business/economy/trump-tariffs-laredo-trade-mexico.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-22T19:20:35.000Z",
-      "sourceId": "lootura-us-the-new-york-times"
     }
   ],
   "evidenceCount": 16

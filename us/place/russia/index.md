@@ -70,4 +70,4 @@ Date: 2026-07-18
 
 ## Sources
 
-- [Ukraine targets Russian online retailer Wildberries](https://www.nbcnews.com/video/ukraine-targets-russian-online-retailer-wildberries-267087429820?utm_source=lootura.com) — 2026-07-22T11:42:06.000Z
+No public source links.

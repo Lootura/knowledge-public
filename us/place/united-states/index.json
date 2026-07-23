@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/united-states/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/united-states/index.json",
   "description": "Follow United States, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-22T21:09:05.351Z",
+  "updatedAt": "2026-07-23T02:31:30.185Z",
   "aliases": [
     "America",
     "Estados Unidos",
@@ -39,13 +39,28 @@
       "date": "2026-07-27"
     },
     {
-      "title": "Staying in a job for the health insurance? About 1 in 4 Americans do, a survey says",
-      "summary": "About 24% of U.S. employees stay in unwanted jobs just for health insurance, a report out Wednesday finds. Up significantly since 2021, the uptick in \"job lock\" is a concerning sign for the U.S. economy. (Image credit: Creative Images Lab).",
-      "date": "2026-07-22"
+      "title": "Expert on why the cyclospora parasite has been so hard to track",
+      "summary": "Julie Swann, head of the department of industrial and systems engineering at North Carolina State University, joins \"The Daily Report\" to discuss the tracking and tracing underway as the U.S.' cyclosporiasis outbreak surpasses 4,000 cases.",
+      "date": "2026-07-23"
     },
     {
-      "title": "U.S. identifies 3rd service member ‘believed’ killed in Iranian attack",
-      "summary": "The United States military identified Angel S. Rampersad as a third servicemember believed to have been killed in Jordan after an Iranian attack last Friday.",
+      "title": "Remembering the 4 U.S. service members killed recently in the Iran war",
+      "summary": "A dignified transfer was held Wednesday for the four U.S. Army soldiers killed in the Middle East in recent days amid the ongoing war with Iran. Lindsey Reiser shares more details on Lt. Tyler James Feehan, Pvt. Isabella Gonzales, Sgt. Angel Rampersad and Sgt. Michael Emmanuel Swinton.",
+      "date": "2026-07-23"
+    },
+    {
+      "title": "What Visuals Show About Recent Damage to U.S. Military Sites in the Middle East",
+      "summary": "Video footage and satellite images reveal new details about Iranian strikes on U.S. targets during the latest flare-up in fighting.",
+      "date": "2026-07-23"
+    },
+    {
+      "title": "U.S.-Saudi Nuclear Deal Stokes Israeli Concerns of Mideast Arms Race",
+      "summary": "An Israeli minister sought to downplay the agreement, while critics said it could spur other regional countries to pursue a nuclear program, and potentially the creation of a bomb.",
+      "date": "2026-07-23"
+    },
+    {
+      "title": "Staying in a job for the health insurance? About 1 in 4 Americans do, a survey says",
+      "summary": "About 24% of U.S. employees stay in unwanted jobs just for health insurance, a report out Wednesday finds. Up significantly since 2021, the uptick in \"job lock\" is a concerning sign for the U.S. economy. (Image credit: Creative Images Lab).",
       "date": "2026-07-22"
     },
     {
@@ -66,21 +81,6 @@
     {
       "title": "Trump will attend the dignified transfer of 4 U.S. service members killed in the Middle East",
       "summary": "The ritual is one of the most somber duties of a commander-in-chief.",
-      "date": "2026-07-22"
-    },
-    {
-      "title": "U.S.-Saudi Nuclear Deal Stokes Israeli Concerns of Mideast Arms Race",
-      "summary": "An Israeli minister sought to downplay the agreement, while critics said it could spur other regional countries to pursue a nuclear program, and potentially the creation of a bomb.",
-      "date": "2026-07-22"
-    },
-    {
-      "title": "Latest on U.S.-Saudi nuclear deal, Trump threats against Iranian infrastructure",
-      "summary": "CBS News National security analyst Aaron MacLean breaks down President Trump's threats against Iranian infrastructure and the United States' new nuclear deal with Saudi Arabia.",
-      "date": "2026-07-22"
-    },
-    {
-      "title": "Waltz clashes with Rep. Jackson over Cuba question: \"Absolute propaganda\"",
-      "summary": "U.S. Ambassador to the United Nations Mike Waltz testified Wednesday in front of the House Foreign Affairs Committee, where he and Rep. Jonathan L. Jackson had a tense exchange on the current U.S.-Cuba situation.",
       "date": "2026-07-22"
     }
   ],
@@ -116,6 +116,18 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
+      "title": "Expert on why the cyclospora parasite has been so hard to track",
+      "url": "https://www.cbsnews.com/video/expert-shares-what-is-causing-cyclosporiasis-spread-as-us-cases-surpass-4000/?utm_source=lootura.com",
+      "publishedAt": "2026-07-23T00:37:52.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
+    {
+      "title": "Remembering the 4 U.S. service members killed recently in the Iran war",
+      "url": "https://www.cbsnews.com/video/remembering-the-4-us-service-members-killed-recently-in-the-iran-war/?utm_source=lootura.com",
+      "publishedAt": "2026-07-23T00:32:33.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
+    {
       "title": "\"Nothing is going through\" the Strait of Hormuz, shipping insider says",
       "url": "https://www.cbsnews.com/news/iran-war-strait-of-hormuz-not-open-red-sea-bab-el-mandeb/?utm_source=lootura.com",
       "publishedAt": "2026-07-22T16:59:52.000Z",
@@ -132,19 +144,7 @@
       "url": "https://www.nbcnews.com/world/iran/richard-engel-qa-iran-rcna353221?utm_source=lootura.com",
       "publishedAt": "2026-07-22T18:21:09.000Z",
       "sourceId": "lootura-us-nbc-news"
-    },
-    {
-      "title": "U.S. identifies 3rd service member ‘believed’ killed in Iranian attack",
-      "url": "https://www.nbcnews.com/news/us-news/iran-war-us-service-member-killed-attack-jordan-base-military-rcna588668?utm_source=lootura.com",
-      "publishedAt": "2026-07-22T09:53:44.000Z",
-      "sourceId": "lootura-us-nbc-news"
-    },
-    {
-      "title": "Oil surges past $95 as U.S. downplays Iran diplomacy and 2nd key trade route is disrupted",
-      "url": "https://www.nbcnews.com/business/business-news/oil-prices-brent-gas-iran-war-trump-hormuz-red-sea-houthis-rcna588671?utm_source=lootura.com",
-      "publishedAt": "2026-07-22T11:15:37.000Z",
-      "sourceId": "lootura-us-nbc-news"
     }
   ],
-  "evidenceCount": 17
+  "evidenceCount": 19
 }

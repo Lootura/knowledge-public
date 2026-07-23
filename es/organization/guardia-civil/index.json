@@ -8,9 +8,14 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/guardia-civil/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/guardia-civil/index.json",
   "description": "Sigue la actividad de Guardia Civil en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-22T10:23:10.282Z",
+  "updatedAt": "2026-07-23T02:31:05.539Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "Las imágenes del incendio de Villa del Prado: casas calcinadas y rescates ‘in extremis’ de la Guardia Civil",
+      "summary": "Casas y coches completamente calcinados , rescates de la Guardia Civil con el fuego pisando los talones … Es el panorama que deja, esta madrugada del jueves, el incendio forestal iniciado en Almorox (Toledo) y que el viento ha propagado con gran velocidad a la localidad madrileña vecina de Villa del Prado , cuya poblac.",
+      "date": "2026-07-22"
+    },
     {
       "title": "Mandos de la Guardia Civil urgen a Marlaska cambiar la ley para poder disparar a los motores de las narcolanchas",
       "summary": "Urgen cambiar la ley y aseguran que en una macrooperación el DAO ordenó abrir fuego Leer.",
@@ -55,13 +60,15 @@
       "title": "Mandos de la Guardia Civil denuncian una «alteración» en el sistema de ascensos para sancionar a los generales y coroneles díscolos",
       "summary": "Todo empezó en agosto de 2018. Apenas dos meses después de la llegada de Pedro Sánchez a Moncloa, el ministro del Interior, Fernando Grande-Marlaska emite la primera orden política contra la Unidad Central Operativa (UCO) de la Guardia Civil : dejar sin fondos reservados a la policía judicial para investigar la corrupc.",
       "date": "2026-07-19"
-    },
-    {
-      "title": "La jefa política de la Guardia Civil se venga de Cerdán en «plato frío»",
-      "summary": "La declaración de la directora general de la Guardia Civil Mercedes González como imputada por delitos de prevaricación y obstrucción a la Justicia ante el magistrado Santiago Pedraz no puede entenderse, según fuentes consultadas por este periódico y conocedoras de la relación de esta con el exsecretario de Organizació.",
-      "date": "2026-07-19"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Las imágenes del incendio de Villa del Prado: casas calcinadas y rescates ‘in extremis’ de la Guardia Civil",
+      "url": "https://okdiario.com/madrid/imagenes-del-incendio-villa-del-prado-casas-calcinadas-rescates-in-extremis-guardia-civil-19051323?utm_source=lootura.com",
+      "publishedAt": "2026-07-22T22:46:34.000Z",
+      "sourceId": "lootura-es-ok-diario"
+    }
+  ],
+  "evidenceCount": 1
 }

@@ -70,4 +70,4 @@ Date: 2026-07-17
 
 ## Fuentes
 
-- [Bruselas rechaza mediar en la ley de amnistía: «Corresponde a los tribunales españoles»](https://theobjective.com/internacional/2026-07-22/bruselas-ley-amnistia-tribunales-espanoles/?utm_source=lootura.com) — 2026-07-22T16:23:08.000Z
+No public source links.

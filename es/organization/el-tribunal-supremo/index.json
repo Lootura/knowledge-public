@@ -37,19 +37,6 @@
       "date": "2026-07-22"
     }
   ],
-  "sources": [
-    {
-      "title": "El Supremo reclama a la Junta Electoral central documentación de la 'ley de nietos'",
-      "url": "https://www.eldebate.com/espana/20260722/supremo-reclama-junta-electoral-central-documentacion-ley-nietos_442640.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-22T18:17:11.000Z",
-      "sourceId": "lootura-es-el-debate"
-    },
-    {
-      "title": "El Tribunal Supremo levanta las medidas cautelares de Aldama a petición de su defensa",
-      "url": "https://www.elmundo.es/espana/2026/07/22/6a60940f21efa097198b45a5.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-22T10:07:09.000Z",
-      "sourceId": "lootura-es-el-mundo"
-    }
-  ],
-  "evidenceCount": 2
+  "sources": [],
+  "evidenceCount": 0
 }

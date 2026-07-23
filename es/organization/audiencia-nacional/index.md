@@ -3,10 +3,16 @@
 > Sigue la actividad de Audiencia Nacional (España) en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-22T21:08:41.543Z
+- Actualizado: 2026-07-23T02:31:05.539Z
 - Canonical: https://atlas.lootura.com/es/organization/audiencia-nacional
 
 ## Cambios recientes
+
+### "Si Julio Martínez quiere equipararse a Aldama, tiene que aportar más"
+
+La anunciada colaboración con la Justicia del empresario Julio Martínez, clave en la supuesta trama de tráfico de influencias en torno a José Luis Rodríguez Zapatero, dejó el pasado martes entre las acusaciones un cierto sabor agridulce. «Julito» llegó a la Audiencia Nacional con la vitola de su confesión por escrito d.
+
+Date: 2026-07-23
 
 ### Fernández Díaz alega que se busca condenarlo en Kitchen “por razón” de su cargo de ministro
 
@@ -20,15 +26,15 @@ El juez del caso Koldo en la Audiencia Nacional ha extendido la investigación p
 
 Date: 2026-07-22
 
-### OKDIARIO localiza a Alba, la otra hija de Zapatero, tras la confesión de ‘Julito’ Martínez ante el juez Calama
-
-OKDIARIO ha localizado este miércoles a Alba Zapatero Espinosa , la hija menor de José Luis Rodríguez Zapatero, al día siguiente de que ‘Julito’ Martínez, el presunto testaferro de su padre, confesara ante el juez Calama, en la Audiencia Nacional, haber estado pagándoles sin trabajar durante tres años como parte de la.
-
-Date: 2026-07-22
-
 ### El juez del 'caso Koldo' pide información sobre las cuentas bancarias de la familia de Cerdán
 
 El juez de la Audiencia Nacional Ismael Moreno ha solicitado a varias entidades bancarias información de diversas cuentas y productos financieros de la.
+
+Date: 2026-07-22
+
+### OKDIARIO localiza a Alba, la otra hija de Zapatero, tras la confesión de ‘Julito’ Martínez ante el juez Calama
+
+OKDIARIO ha localizado este miércoles a Alba Zapatero Espinosa , la hija menor de José Luis Rodríguez Zapatero, al día siguiente de que ‘Julito’ Martínez, el presunto testaferro de su padre, confesara ante el juez Calama, en la Audiencia Nacional, haber estado pagándoles sin trabajar durante tres años como parte de la.
 
 Date: 2026-07-22
 
@@ -62,15 +68,9 @@ La AVT ha recibido la notificación de la concesión de otras dos flexibilizacio
 
 Date: 2026-07-22
 
-### Julio Martínez complica el futuro judicial de Zapatero aunque no despeja la X que pondría en serios aprietos a Moncloa
-
-La declaración de Julio Martínez Martínez y los escritos que tanto él como dos altos cargos de Plus Ultra han remitido esta semana a la Audiencia Nacional han complicado seriamente el futuro judicial de José Luis Rodríguez Zapatero . Los tres investigados corroboran ahora los informes de la UDEF y señalan que el expres.
-
-Date: 2026-07-22
-
 ## Fuentes
 
 - [El juez amplía la investigación patrimonial de Santos Cerdán a las cuentas de su mujer, su hija, su hermana y su cuñado](https://amp.elmundo.es/espana/2026/07/22/6a610bf4e9cf4a3b3e8b45b6.html?utm_source=lootura.com) — 2026-07-22T18:30:38.000Z
 - [Fernández Díaz alega que se busca condenarlo en Kitchen “por razón” de su cargo de ministro](https://elpais.com/espana/2026-07-22/fernandez-diaz-alega-que-se-busca-condenarlo-en-kitchen-por-razon-de-su-cargo-de-ministro.html?utm_source=lootura.com) — 2026-07-22T14:18:40.000Z
-- [OKDIARIO localiza a Alba, la otra hija de Zapatero, tras la confesión de ‘Julito’ Martínez ante el juez Calama](https://okdiario.com/espana/okdiario-localiza-alba-otra-hija-zapatero-confesion-julito-martinez-juez-calama-19050790?utm_source=lootura.com) — 2026-07-22T19:16:33.000Z
+- ["Si Julio Martínez quiere equipararse a Aldama, tiene que aportar más"](https://www.larazon.es/espana/julio-martinez-quiere-equipararse-aldama-tiene-que-aportar-mas_202607236a60ffcbda3add27d4dc60b4.html?utm_source=lootura.com) — 2026-07-23T00:00:13.000Z
 - [El juez del 'caso Koldo' pide información sobre las cuentas bancarias de la familia de Cerdán](https://theobjective.com/espana/tribunales/2026-07-22/juez-caso-koldo-cuentas-familia-cerdan/?amp=&utm_source=lootura.com) — 2026-07-22T20:41:41.000Z

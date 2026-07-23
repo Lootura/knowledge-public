@@ -8,11 +8,16 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/amna-nawaz/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/amna-nawaz/index.json",
   "description": "Follow Amna Nawaz, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-21T10:23:35.333Z",
+  "updatedAt": "2026-07-23T02:31:30.185Z",
   "aliases": [
     "Nawaz"
   ],
   "changes": [
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Amna Nawaz first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-07-20"
+    },
     {
       "title": "Iran war hurting U.S. allies in region, former Jordanian foreign minister says",
       "summary": "For perspective on the latest developments in the Iran war and the regional ramifications, Amna Nawaz spoke with Marwan Muasher. He's the vice president for studies at the Carnegie Endowment for International Peace and the former deputy prime minister and foreign minister of Jordan.",
@@ -27,13 +32,15 @@
       "title": "Deadly shootings by ICE officers renew scrutiny of recruitment and training",
       "summary": "Two deadly shootings involving ICE officers reignited protests and renewed questions about tactics, training and recruitment at the agency. None of the agents involved were wearing body cameras, and neither of the victims was the intended target of the operation. Amna Nawaz discussed more with John Sandweg, who served.",
       "date": "2026-07-20"
-    },
-    {
-      "title": "Discovered by Atlas",
-      "summary": "Amna Nawaz first entered the public knowledge record with source-backed evidence.",
-      "date": "2026-07-20"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "The implications of Trump loyalists and election deniers winning GOP primaries",
+      "url": "https://www.pbs.org/newshour/show/the-implications-of-trump-loyalists-and-election-deniers-winning-gop-primaries?utm_source=lootura.com",
+      "publishedAt": "2026-07-22T22:40:07.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
+    }
+  ],
+  "evidenceCount": 1
 }

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/julio-martinez/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/julio-martinez/index.json",
   "description": "Sigue la actividad de Julio Martínez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-22T21:08:41.543Z",
+  "updatedAt": "2026-07-23T02:31:05.539Z",
   "aliases": [
     "Julio Mart",
     "Julio Martínez Martínez",
@@ -16,13 +16,23 @@
   ],
   "changes": [
     {
-      "title": "OKDIARIO localiza a Alba, la otra hija de Zapatero, tras la confesión de ‘Julito’ Martínez ante el juez Calama",
-      "summary": "OKDIARIO ha localizado este miércoles a Alba Zapatero Espinosa , la hija menor de José Luis Rodríguez Zapatero, al día siguiente de que ‘Julito’ Martínez, el presunto testaferro de su padre, confesara ante el juez Calama, en la Audiencia Nacional, haber estado pagándoles sin trabajar durante tres años como parte de la.",
-      "date": "2026-07-22"
+      "title": "\"Si Julio Martínez quiere equipararse a Aldama, tiene que aportar más\"",
+      "summary": "La anunciada colaboración con la Justicia del empresario Julio Martínez, clave en la supuesta trama de tráfico de influencias en torno a José Luis Rodríguez Zapatero, dejó el pasado martes entre las acusaciones un cierto sabor agridulce. «Julito» llegó a la Audiencia Nacional con la vitola de su confesión por escrito d.",
+      "date": "2026-07-23"
     },
     {
       "title": "Podcast | Zapatero, tocado y hundido",
       "summary": "El futuro de José Luis Rodríguez Zapatero es cada vez más oscuro. Su presunto testaferro, Julito Martínez, se ha marcado un Aldama y ha confesado ante el juez José Luis Calama que el ex presidente del Gobierno medió en la concesión del rescate a Plus Ultra y pactó cobrar el 1% de comisión , así como 5.000 euros al mes.",
+      "date": "2026-07-22"
+    },
+    {
+      "title": "La Audiencia ve como un \"gran avance\" para el tráfico de influencias la confesión del pagador de Zapatero y los directivos de Plus Ultra",
+      "summary": "Las confesiones del empresario Julio Martínez Martínez y los responsables de la aerolínea Plus Ultra, el dueño Julio Martínez Sola, y el CEO de la compañía, Roberto Roselli,...",
+      "date": "2026-07-22"
+    },
+    {
+      "title": "OKDIARIO localiza a Alba, la otra hija de Zapatero, tras la confesión de ‘Julito’ Martínez ante el juez Calama",
+      "summary": "OKDIARIO ha localizado este miércoles a Alba Zapatero Espinosa , la hija menor de José Luis Rodríguez Zapatero, al día siguiente de que ‘Julito’ Martínez, el presunto testaferro de su padre, confesara ante el juez Calama, en la Audiencia Nacional, haber estado pagándoles sin trabajar durante tres años como parte de la.",
       "date": "2026-07-22"
     },
     {
@@ -54,24 +64,20 @@
       "title": "La causa contra Zapatero sitúa ahora el foco en la cúpula de Plus Ultra tras contradecir la versión del expresidente",
       "summary": "Julio Martínez Martínez entró sobre las 8.45 de este martes en la Audiencia Nacional y salió más de cuatro horas después sin moverse mucho de la línea marcada un día antes en el escrito enviado al juez José Luis Calama para implicar al expresidente José Luis Rodríguez Zapatero en el rescate de Plus Ultra . El giro del.",
       "date": "2026-07-22"
-    },
-    {
-      "title": "El testaferro confirma que Zapatero usó una empresa pantalla para recibir los pagos de hasta tres clientes venezolanos",
-      "summary": "La declaración prestada por Julito Martìnez Martínez en la Audiencia Nacional, decidido a colaborar con la Justicia, ha dinamitado la estrategia de...",
-      "date": "2026-07-22"
-    },
-    {
-      "title": "El juez interrogará a la cúpula de Plus Ultra por los pagos a Zapatero",
-      "summary": "El «caso Plus Ultra» entra en una nueva dimensión judicial. Tras la confesión y la posterior declaración del empresario «Julito» Martínez y «amigo» del expresidente del Gobierno José Luis Rodríguez Zapatero, a quien ha situado como la persona que influyó en la concesión pública de 53 millones de euros a la aerolínea, c.",
-      "date": "2026-07-22"
     }
   ],
   "sources": [
     {
-      "title": "OKDIARIO localiza a Alba, la otra hija de Zapatero, tras la confesión de ‘Julito’ Martínez ante el juez Calama",
-      "url": "https://okdiario.com/espana/okdiario-localiza-alba-otra-hija-zapatero-confesion-julito-martinez-juez-calama-19050790?utm_source=lootura.com",
-      "publishedAt": "2026-07-22T19:16:33.000Z",
-      "sourceId": "lootura-es-ok-diario"
+      "title": "La Audiencia ve como un \"gran avance\" para el tráfico de influencias la confesión del pagador de Zapatero y los directivos de Plus Ultra",
+      "url": "https://amp.elmundo.es/espana/2026/07/22/6a60e3bf21efa078558b4583.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-22T20:40:16.000Z",
+      "sourceId": "lootura-es-el-mundo"
+    },
+    {
+      "title": "\"Si Julio Martínez quiere equipararse a Aldama, tiene que aportar más\"",
+      "url": "https://www.larazon.es/espana/julio-martinez-quiere-equipararse-aldama-tiene-que-aportar-mas_202607236a60ffcbda3add27d4dc60b4.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-23T00:00:13.000Z",
+      "sourceId": "lootura-es-la-razon"
     },
     {
       "title": "Podcast | Zapatero, tocado y hundido",
@@ -80,5 +86,5 @@
       "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 3
 }

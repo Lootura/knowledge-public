@@ -3,14 +3,26 @@
 > Follow Democratic Party, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-07-22T21:09:05.351Z
+- Updated: 2026-07-23T02:31:30.185Z
 - Canonical: https://atlas.lootura.com/us/organization/democratic-party
 
 ## Recent changes
 
+### House Passes Defense Bill Amid Iran War Divide
+
+Republicans pushed through the $1.15 trillion bill over opposition from Democrats, who said backing it was akin to embracing the war.
+
+Date: 2026-07-23
+
 ### South Carolina and Nevada Fight to Kick Off Democrats’ 2028 Presidential Calendar
 
 The calendar order could be hugely important to the 2028 presidential primary race. Democratic insiders will try to sketch out a schedule this week, and rival states are sniping at one another.
+
+Date: 2026-07-22
+
+### Trump’s Plan for Science: More Money for A.I., Less for Universities
+
+Michael Kratsios, President Trump’s science adviser, proposed overhauling how the government funds research. Democrats said Mr. Trump’s actions had weakened science.
 
 Date: 2026-07-22
 
@@ -56,20 +68,8 @@ Arizona Democrats choose who can try to flip a Republican-held House seat, and R
 
 Date: 2026-07-21
 
-### Democrats avoid a messy fight in Maine, but uncertainty lingers: From the Politics Desk
-
-Welcome to From the Politics Desk, a daily newsletter that brings you the NBC News Politics team’s latest reporting and analysis from the White House, Capitol Hill and the campaign trail.
-
-Date: 2026-07-20
-
-### In Maine Senate Race, Democrats Go From Chaos to Coronation
-
-Troy Jackson’s emergence as the clear front-runner to replace Graham Platner spares the party some challenges but points to some new ones.
-
-Date: 2026-07-20
-
 ## Sources
 
-- [US House passes $1.15tn defense policy bill in near party-line vote](https://www.theguardian.com/us-news/2026/jul/22/us-house-defense-bill-iran-war?utm_source=lootura.com) — 2026-07-22T20:44:08.000Z
+- [Trump’s Plan for Science: More Money for A.I., Less for Universities](https://www.nytimes.com/2026/07/22/us/politics/trump-research-funding-artificial-intelligence.html?utm_source=lootura.com) — 2026-07-22T22:30:42.000Z
 - [South Carolina and Nevada Fight to Kick Off Democrats’ 2028 Presidential Calendar](https://www.nytimes.com/2026/07/22/us/politics/south-carolina-nevada-democrats-2028-presidential-calendar.html?utm_source=lootura.com) — 2026-07-22T20:30:40.000Z
-- [House Passes Defense Bill Amid Iran War Divide](https://www.nytimes.com/2026/07/22/us/politics/house-defense-bill-iran-war.html?utm_source=lootura.com) — 2026-07-22T20:47:22.000Z
+- [House Passes Defense Bill Amid Iran War Divide](https://www.nytimes.com/2026/07/22/us/politics/house-defense-bill-iran-war.html?utm_source=lootura.com) — 2026-07-23T01:10:28.000Z

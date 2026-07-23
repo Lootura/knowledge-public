@@ -64,4 +64,4 @@ Date: 2026-07-16
 
 ## Sources
 
-- [Tesla’s revenues are bouncing back, but profits are still weak](https://www.theverge.com/transportation/969311/tesla-q2-2026-earnings-revenue-profit-sales?utm_source=lootura.com) — 2026-07-22T20:17:46.000Z
+No public source links.

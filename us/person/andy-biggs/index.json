@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/andy-biggs/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/andy-biggs/index.json",
   "description": "Follow Andy Biggs, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-22T21:09:05.351Z",
+  "updatedAt": "2026-07-23T02:31:30.185Z",
   "aliases": [
     "Andrew Steven Biggs",
     "Biggs"
@@ -61,13 +61,7 @@
       "url": "https://www.pbs.org/newshour/politics/andy-biggs-wins-republican-nomination-to-challenge-democrat-katie-hobbs-for-arizona-governor?utm_source=lootura.com",
       "publishedAt": "2026-07-22T14:53:48.000Z",
       "sourceId": "lootura-us-pbs-newshour"
-    },
-    {
-      "title": "What to Know About Andy Biggs, the Trump-Backed Republican in Arizona’s Governor Race",
-      "url": "https://time.com/article/2026/07/22/what-to-know-about-andy-biggs-the-trump-backed-republican-in-arizonas-governor-race/?utm_source=lootura.com",
-      "publishedAt": "2026-07-22T19:14:21.000Z",
-      "sourceId": "lootura-us-time"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

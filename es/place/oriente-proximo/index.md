@@ -3,10 +3,16 @@
 > Sigue la actividad de Oriente Próximo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-22T21:08:41.543Z
+- Actualizado: 2026-07-23T02:31:05.539Z
 - Canonical: https://atlas.lootura.com/es/place/oriente-proximo
 
 ## Cambios recientes
+
+### La rentabilidad de los bonos, en máximos a la espera del BCE
+
+La escalada del conflicto en Oriente Próximo tiene una víctima secundaria en los mercados: la renta fija. En Europa, la venta de bonos soberanos ha llevado su rentabilidad a máximos del año, ante el temor de los inversores a una mayor inflación y un mensaje más duro del Banco Central Europeo . Seguir leyendo.
+
+Date: 2026-07-23
 
 ### Discovered by Atlas
 
@@ -62,13 +68,6 @@ Los rebeldes yemeníes, el principal bastión del Eje de la Resistencia iraní e
 
 Date: 2026-07-22
 
-### Cautela en las Bolsas ante los resultados de las grandes tecnológicas y con el petróleo al alza
-
-El pesimismo en torno a las negociaciones de paz entre EE UU e Irán, después de que el presidente Donald Trump restara importancia a la posibilidad de conversaciones inmediatas con Teherán, y la creciente amenaza a los suministros energéticos de Oriente Próximo derivada de un bloqueo naval dirigido contra Arabia Saudí.
-
-Date: 2026-07-22
-
 ## Fuentes
 
-- [El pacto nuclear de EE.UU. con Arabia Saudí hace temer una carrera atómica en Oriente Próximo](https://www.abc.es/internacional/eeuu-arabia-saudi-firman-acuerdo-nuclear-despierta-20260722210722-nt.html?utm_source=lootura.com) — 2026-07-22T20:28:49.000Z
-- [El Ibex deja de lado la escalada del petróleo y se refugia en los resultados empresariales](https://cincodias.elpais.com/mercados-financieros/2026-07-22/la-bolsa-y-el-ibex-35.html?utm_source=lootura.com) — 2026-07-22T15:59:55.000Z
+- [La rentabilidad de los bonos, en máximos a la espera del BCE](https://www.expansion.com/mercados/renta-fija/2026/07/23/6a610c94468aebbc5b8b45b7.html?utm_source=lootura.com) — 2026-07-23T00:04:27.000Z
