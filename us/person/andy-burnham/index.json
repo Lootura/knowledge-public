@@ -8,11 +8,16 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/andy-burnham/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/andy-burnham/index.json",
   "description": "Follow Andy Burnham, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-21T10:23:35.333Z",
+  "updatedAt": "2026-07-23T13:51:24.628Z",
   "aliases": [
     "Burnham"
   ],
   "changes": [
+    {
+      "title": "Meet Marie-France van Heel, Wife of Britain's New Prime Minister Andy Burnham",
+      "summary": "Marie-France van Heel alongside her husband Prime Minister Andy Burnham, arriving at Downing Street in London, United Kingdom, on July 20, 2026. —Karwai Tang—Getty Images When the U.K.’s new Prime Minister Andy Burnham arrived at 10 Downing Street earlier this week, his wife of 25 years, Marie-France van Heel, was righ.",
+      "date": "2026-07-23"
+    },
     {
       "title": "Here's how the UK went through 6 prime ministers in 7 years",
       "summary": "Andy Burnham became the UK's new prime minister on Monday, calling for a national \"reset\" as many Britons struggle with poverty and an elevated cost of living. CBS News' senior foreign correspondent Imtiaz Tyab reports from London and Lindsey Reiser looks at the timeline of recent British prime ministers.",
@@ -57,13 +62,15 @@
       "title": "Andy Burnham formally appointed U.K. prime minster",
       "summary": "Andy Burnham was formally appointed the newest British prime minster, the seventh to take up the position in the last decade. NBC News’ Raf Sanchez reports on how Burnham differs from outgoing prime minster Keir Starmer and his meeting with King Charles III.",
       "date": "2026-07-20"
-    },
-    {
-      "title": "Andy Burnham says politicians 'need to be better' in first speech as UK's new prime minister",
-      "summary": "Burnham spoke for several minutes outside 10 Downing St., where he promised to end street sleeping by homeless people and deliver a \"circuit breaker\" for a system he says has taken wrong turns since the 1980s.",
-      "date": "2026-07-20"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Meet Marie-France van Heel, Wife of Britain's New Prime Minister Andy Burnham",
+      "url": "https://time.com/article/2026/07/23/andy-burnham-wife-marie-france-van-heel-bio-family-new-prime-minister/?utm_source=lootura.com",
+      "publishedAt": "2026-07-23T13:44:06.000Z",
+      "sourceId": "lootura-us-time"
+    }
+  ],
+  "evidenceCount": 1
 }

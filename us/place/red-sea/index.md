@@ -3,10 +3,28 @@
 > Follow Red Sea, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-23T10:20:24.199Z
+- Updated: 2026-07-23T13:51:24.628Z
 - Canonical: https://atlas.lootura.com/us/place/red-sea
 
 ## Recent changes
+
+### Global oil prices hit $100 a barrel amid attacks in Red Sea
+
+The last time global oil prices settled above $100 was on May 22, data from FactSet shows.
+
+Date: 2026-07-23
+
+### Oil surges to $100 per barrel after Red Sea attacks
+
+Oil prices rose Thursday to their highest level since early June after the latest Iran war escalation threatened severe new disruption to global supplies.
+
+Date: 2026-07-23
+
+### New Concerns Over Oil Prices After Houthis Attack Saudi Tankers
+
+There are new concerns about the future of oil and gas prices after Yemen-based Houthi rebels, backed by Iran, attacked two Saudi Arabian oil tankers in the Red Sea. NBC’s Richard Engel reports on the new front in the Middle East conflict and Christine Romans joins TODAY with analysis on the economic impact to gas pric.
+
+Date: 2026-07-23
 
 ### Houthis claim strikes on two Saudi tankers as US attacks on Iran widen
 
@@ -50,18 +68,8 @@ Iran-backed Houthis say they will blockade anothe waterway, threatening Red Sea 
 
 Date: 2026-07-21
 
-### Trump says U.S. would have to 'take care' of potential Houthi blockade of Red Sea
-
-Asked about his level of concern about a blockade of the Red Sea by the Iranian-backed Houthi rebels, President Donald Trump suggested Tuesday it wasn't an immediate problem.
-
-Date: 2026-07-21
-
-### Houthis in Yemen Edge Closer to Entering U.S.-Iran War
-
-The Iran-backed Houthi militia in Yemen has declared a Red Sea blockade on Saudi Arabia, potentially opening a new front in the war rippling across the Middle East.
-
-Date: 2026-07-21
-
 ## Sources
 
-- [See How Houthis Put the Red Sea at Risk as an Alternative Oil Route](https://www.nytimes.com/2026/07/22/business/energy-environment/red-sea-saudi-arabia-houthis.html?utm_source=lootura.com) — 2026-07-22T12:17:51.000Z
+- [Global oil prices hit $100 a barrel amid attacks in Red Sea](https://www.cbsnews.com/news/global-oil-prices-red-sea-attacks-rates/?utm_source=lootura.com) — 2026-07-23T13:38:00.000Z
+- [Oil surges to $100 per barrel after Red Sea attacks](https://www.nbcnews.com/business/markets/oil-prices-rise-red-sea-attacks-houthis-saudi-trump-iran-war-rcna588851?utm_source=lootura.com) — 2026-07-23T11:39:33.000Z
+- [New Concerns Over Oil Prices After Houthis Attack Saudi Tankers](https://www.today.com/video/cost-of-iran-war-per-us-household-nears-1-200-report-shows-267156549661?utm_source=lootura.com) — 2026-07-23T11:36:18.000Z

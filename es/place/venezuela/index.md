@@ -3,10 +3,16 @@
 > Sigue la actividad de Estados Unidos de Venezuela en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-23T02:31:05.539Z
+- Actualizado: 2026-07-23T13:51:07.363Z
 - Canonical: https://atlas.lootura.com/es/place/venezuela
 
 ## Cambios recientes
+
+### Repsol prioriza elevar la producción en Venezuela y aparca el debate de la deuda
+
+El consejero delegado de Repsol , Josu Jon Imaz, ha reafirmado el compromiso de la compañía con su actividad en Venezuela y ha asegurado que el debate sobre la deuda histórica con la energética no se encuentra actualmente «sobre la mesa», siendo así actualmente la prioridad elevar la producción de hidrocarburos en el p.
+
+Date: 2026-07-23
 
 ### Trump blinda a Delcy hasta que celebre elecciones en Venezuela dentro de un año
 
@@ -62,12 +68,6 @@ La sucesora de Nicolás Maduro, Delcy Rodríguez, ha prometido soluciones habita
 
 Date: 2026-07-16
 
-### Sube a 4.829 la cifra de muertos por los terremotos de hace tres semanas en Venezuela
-
-El balance de muertos por el doble terremoto de magnitud 7,2 y 7,5 ocurrido hace tres semanas en la zona norte de Venezuela ha ascendido este miércoles a.
-
-Date: 2026-07-15
-
 ## Fuentes
 
-No public source links.
+- [Repsol prioriza elevar la producción en Venezuela y aparca el debate de la deuda](https://theobjective.com/economia/2026-07-23/repsol-elevar-produccion-venezuela/?utm_source=lootura.com) — 2026-07-23T12:38:01.000Z

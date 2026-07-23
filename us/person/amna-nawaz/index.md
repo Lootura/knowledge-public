@@ -34,4 +34,4 @@ Date: 2026-07-20
 
 ## Sources
 
-- [The implications of Trump loyalists and election deniers winning GOP primaries](https://www.pbs.org/newshour/show/the-implications-of-trump-loyalists-and-election-deniers-winning-gop-primaries?utm_source=lootura.com) — 2026-07-22T22:40:07.000Z
+No public source links.

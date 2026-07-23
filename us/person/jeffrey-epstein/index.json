@@ -8,23 +8,30 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/jeffrey-epstein/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/jeffrey-epstein/index.json",
   "description": "Follow Jeffrey Epstein, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-22T21:09:05.351Z",
+  "updatedAt": "2026-07-23T13:51:24.628Z",
   "aliases": [
     "Epstein",
     "Jeffrey"
   ],
   "changes": [
     {
-      "title": "Whitney Cummings’s Trump Joke at Kennedy Center Is Cut From Netflix Special",
-      "summary": "At the Mark Twain Prize ceremony, the comedian Whitney Cummings made a joke about the president that seemed to refer to Jeffrey Epstein.",
-      "date": "2026-07-22"
-    },
-    {
       "title": "Discovered by Atlas",
       "summary": "Jeffrey Epstein first entered the public knowledge record with source-backed evidence.",
       "date": "2026-07-22"
+    },
+    {
+      "title": "Whitney Cummings’s Trump Joke at Kennedy Center Is Cut From Netflix Special",
+      "summary": "At the Mark Twain Prize ceremony, the comedian Whitney Cummings made a joke about the president that seemed to refer to Jeffrey Epstein.",
+      "date": "2026-07-22"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Epstein associate found dead in France",
+      "url": "https://www.cbsnews.com/video/epstein-associate-found-dead-france/?utm_source=lootura.com",
+      "publishedAt": "2026-07-23T13:11:43.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    }
+  ],
+  "evidenceCount": 1
 }

@@ -3,10 +3,16 @@
 > Sigue la actividad de Oriente Próximo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-23T06:28:35.711Z
+- Actualizado: 2026-07-23T13:51:07.363Z
 - Canonical: https://atlas.lootura.com/es/place/oriente-proximo
 
 ## Cambios recientes
+
+### El barril de petróleo Brent rebasa los 100 dólares por primera vez en dos meses
+
+El precio del barril de petróleo Brent, de referencia en Europa, supera la barrera de los 100 dólares por primera vez en los últimos dos meses y alcanza un incremento intradía del 6,3%, mientras continúan los ataques cruzados en Oriente Próximo . Por su parte, el barril de West Texas Intermediate (WTI), de referencia e.
+
+Date: 2026-07-23
 
 ### La rentabilidad de los bonos, en máximos a la espera del BCE
 
@@ -62,12 +68,6 @@ Con el conflicto en Oriente Próximo sin visos de registrar progresos y la amena
 
 Date: 2026-07-22
 
-### Seopan cifra en 1.200 millones el agujero en la obra pública licitada desde 2025 por la crisis en Oriente Próximo
-
-Los proyectos de obra pública más recientes, licitados entre diciembre de 2025 y el pasado febrero con un presupuesto total de 6.900 millones (6.425 obras de todas las administraciones), están sufriendo de manera extraordinaria el encarecimiento de los materiales de construcción derivado del conflicto en Oriente Próxim.
-
-Date: 2026-07-22
-
 ## Fuentes
 
-No public source links.
+- [El barril de petróleo Brent rebasa los 100 dólares por primera vez en dos meses](https://theobjective.com/economia/energia/2026-07-23/petroleo-brent-supera-100-dolares/?utm_source=lootura.com) — 2026-07-23T13:27:24.000Z

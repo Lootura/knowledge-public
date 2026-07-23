@@ -3,10 +3,16 @@
 > Sigue la actividad de Estados Unidos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-23T10:20:05.700Z
+- Actualizado: 2026-07-23T13:51:07.363Z
 - Canonical: https://atlas.lootura.com/es/place/united-states
 
 ## Cambios recientes
+
+### Emirates dice que no está dispuesta a aceptar ninguno de los primeros Boeing 777X de producción
+
+Un 777X en producción en la factoría de Boeing de Everett – Boeing Desde hace unos meses no sólo va personal de Boeing a bordo de los vuelos de prueba del 777X, que empezaron allá por julio de 2020, sino que también hay personal de la Administración Federal de Aviación (FAA) de los Estados Unidos en ellos. Eso indica q.
+
+Date: 2026-07-23
 
 ### EEUU y Arabia Saudí firman un histórico pacto que allana a Riad lograr enriquecer uranio
 
@@ -62,15 +68,6 @@ Zohran Mamdani ganó el año pasado las elecciones a la alcaldía de Nueva York 
 
 Date: 2026-07-22
 
-### Bruselas autoriza con condiciones la compra de Warner con Paramount
-
-La Comisión Europea autoriza la compra de Warner por Paramount . La empresa de David Ellison recibe esta buena noticia un día después de que en Estados Unidos una jueza bloqueara temporalmente la operación que ha marcado al sector de contenidos audiovisuales en todo el mundo en el último año. Pero no le sale gratis. Ha.
-
-Date: 2026-07-22
-
 ## Fuentes
 
-- [Trump evalúa ahora la posibilidad de atacar a yihadistas en Mali](https://www.larazon.es/internacional/trump-evalua-ahora-posibilidad-atacar-yihadistas-mali_202607236a61e89d4687a22bdec94390.html?utm_source=lootura.com) — 2026-07-23T10:10:37.000Z
-- [El precio de los carburantes, desbocado por el fin de la rebaja del IVA: el depósito se encarece un 13% en tres semanas, un euro extra cada 48 horas](https://www.larazon.es/economia/precio-carburantes-desbocado-fin-rebaja-iva-deposito-encarece-13-tres-semanas-euro-extra-cada-48-horas_202607236a61e729aa17c0020f2b603d.html?utm_source=lootura.com) — 2026-07-23T10:05:15.000Z
-- [La Asociación del Fútbol Argentino desmiente que el FBI haya requisado el móvil al presidente](https://okdiario.com/deportes/asociacion-del-futbol-argentino-desmiente-que-fbi-haya-requisado-movil-presidente-19053043/amp?utm_source=lootura.com) — 2026-07-23T10:11:00.000Z
-- [EEUU y Arabia Saudí firman un histórico pacto que allana a Riad lograr enriquecer uranio](https://theobjective.com/internacional/2026-07-23/eeuu-arabia-saudi-pacto-nriquecer-uranio/?amp=&utm_source=lootura.com) — 2026-07-23T06:21:04.000Z
+- [Emirates dice que no está dispuesta a aceptar ninguno de los primeros Boeing 777X de producción](http://www.microsiervos.com/archivo/aerotrastorno/emirate-no-aceptar-primeros-boeing-777x-produccion.html?utm_source=lootura.com) — 2026-07-23T11:00:00.000Z

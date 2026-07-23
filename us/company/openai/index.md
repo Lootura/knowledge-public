@@ -3,7 +3,7 @@
 > Follow OpenAI, a tracked company, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: company
-- Updated: 2026-07-23T10:20:24.199Z
+- Updated: 2026-07-23T13:51:24.628Z
 - Canonical: https://atlas.lootura.com/us/company/openai
 
 ## Recent changes
@@ -22,4 +22,4 @@ Date: 2026-07-22
 
 ## Sources
 
-- [ChatGPT's medical advice nearly killed a man, lawsuit claims](https://www.cbsnews.com/news/chatgpt-dangerous-medical-advice-openai-lawsuit/?utm_source=lootura.com) — 2026-07-22T20:45:33.000Z
+- [OpenAI blamed a hacking event on its AI models gone rogue. Here is what to know](https://www.npr.org/2026/07/23/g-s1-135085/openai-hacking-ai-models?utm_source=lootura.com) — 2026-07-23T05:23:42.000Z

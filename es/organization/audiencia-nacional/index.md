@@ -3,10 +3,34 @@
 > Sigue la actividad de Audiencia Nacional (España) en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-23T06:28:35.711Z
+- Actualizado: 2026-07-23T13:51:07.363Z
 - Canonical: https://atlas.lootura.com/es/organization/audiencia-nacional
 
 ## Cambios recientes
+
+### Las frases más destacadas: "Hasta que no haya una sentencia firme, aquí no delinque nadie"
+
+El expresidente del Gobierno José Luis Rodríguez Zapatero ha concedido este jueves una entrevista en el programa Mañaneros 360 de TVE, la primera desde que trascendiera su investigación judicial en relación con el rescate de la aerolínea Plus Ultra y su posterior declaración ante el juez de la Audiencia Nacional, José.
+
+Date: 2026-07-23
+
+### Zapatero, sobre el rescate de Plus Ultra: “No es que no influyera, es que no hablé con nadie”
+
+La primera entrevista de José Luis Rodríguez Zapatero —en el programa Mañaneros de TVE— desde que la Audiencia Nacional le imputó por liderar una trama de tráfico de influencias ilícitas, ha dejado escasas novedades de impacto jurídico. El propio expresidente del Gobierno ha admitido durante la entrevista que, tras dos.
+
+Date: 2026-07-23
+
+### Los titulares de la entrevista a Zapatero: de la estrategia de defensa de Julio Martínez a los trabajos de sus hijas
+
+El expresidente del Gobierno José Luis Rodríguez Zapatero ha dado este jueves en RTVE su primera entrevista a un medio de comunicación desde que fuese imputado en una investigación de la Audiencia Nacional que lo coloca en la cúspide de una trama internacional de tráfico ilícito de influencias. El asunto partía del lav.
+
+Date: 2026-07-23
+
+### Caso Zapatero: explicaciones insuficientes contra una decepción
+
+El expresidente se remite a próximas diligencias en el juzgado para aclarar los aspectos más controvertidos que pesan contra él en la causa penal abierta en la Audiencia Nacional Zapatero niega influencias en el rescate de Plus Ultra en su reaparición: “No hablé con nadie, ni de la SEPI ni del Gobierno” El expresidente.
+
+Date: 2026-07-23
 
 ### "Si Julio Martínez quiere equipararse a Aldama, tiene que aportar más"
 
@@ -44,30 +68,9 @@ La declaración de Julio Martínez Martínez ha complicado el futuro judicial de
 
 Date: 2026-07-22
 
-### Narbona se agarra al legado de Zapatero, pero solo pone la mano en el fuego por Sánchez
-
-Una semana después de declarar como testigo ante la Audiencia Nacional , la presidenta del PSOE, Cristina Narbona, ha acudido este miércoles a la sala Clara Campoamor del Senado —donde se daba cita la comisión de investigación por el caso Koldo y otras tantas derivadas— por las dudas que suscita su relación con Leire D.
-
-Date: 2026-07-22
-
-### La Audiencia Provincial respalda al juez Zamarriego y rechaza que Aldama se persone en el "caso Leire"
-
-La Audiencia Provincial de Madrid ha ratificado la decisión del juez Arturo Zamarriego de negar a Víctor de Aldama ejercer la acusación particular, en calidad de perjudicado, en la investigación a Leire Díez por las «cloacas del PSOE» (procedimiento del que el juez de la Audiencia Nacional Santiago Pedraz le ha pedido.
-
-Date: 2026-07-22
-
-### La causa contra Zapatero sitúa ahora el foco en la cúpula de Plus Ultra tras contradecir la versión del expresidente
-
-Julio Martínez Martínez entró sobre las 8.45 de este martes en la Audiencia Nacional y salió más de cuatro horas después sin moverse mucho de la línea marcada un día antes en el escrito enviado al juez José Luis Calama para implicar al expresidente José Luis Rodríguez Zapatero en el rescate de Plus Ultra . El giro del.
-
-Date: 2026-07-22
-
-### El Gobierno vasco concede beneficios penitenciarios al asesino de Gregorio Ordóñez
-
-La AVT ha recibido la notificación de la concesión de otras dos flexibilizaciones del segundo grado a los presos de ETA Alberto López de la Calle, "Mobutu", y Juan Ramón Carasatorre, asesino de Gregorio Ordóñez. Caarasatorre obtiene esta medida después de que la Audiencia Nacional revocara una decisión anterior al cons.
-
-Date: 2026-07-22
-
 ## Fuentes
 
-No public source links.
+- [Las frases más destacadas: "Hasta que no haya una sentencia firme, aquí no delinque nadie"](https://www.20minutos.es/nacional/frases-mas-destacadas-entrevista-zapatero-hasta-que-no-haya-una-sentencia-firme-aqui-no-delinque-nadie_7018166_0.html?utm_source=lootura.com) — 2026-07-23T11:52:42.000Z
+- [Zapatero, sobre el rescate de Plus Ultra: “No es que no influyera, es que no hablé con nadie”](https://elpais.com/espana/2026-07-23/zapatero-en-su-primera-entrevista-tras-su-imputacion-no-es-que-no-influyera-es-que-no-hable-con-nadie-del-rescate-de-plus-ultra.html?utm_source=lootura.com) — 2026-07-23T13:20:27.000Z
+- [Los titulares de la entrevista a Zapatero: de la estrategia de defensa de Julio Martínez a los trabajos de sus hijas](https://elpais.com/espana/2026-07-23/las-titulares-de-la-entrevista-a-zapatero-de-la-estrategia-de-defensa-de-julio-martinez-a-los-trabajos-de-sus-hijas.html?utm_source=lootura.com) — 2026-07-23T12:32:24.000Z
+- [Caso Zapatero: explicaciones insuficientes contra una decepción](https://www.eldiario.es/politica/caso-zapatero-explicaciones-insuficientes-decepcion_129_13401206.html?utm_source=lootura.com) — 2026-07-23T13:33:21.000Z

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/saudi-arabia/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/saudi-arabia/index.json",
   "description": "Follow Saudi Arabia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-23T10:20:24.199Z",
+  "updatedAt": "2026-07-23T13:51:24.628Z",
   "aliases": [
     "Kingdom of Saudi Arabia",
     "Saudi"
@@ -22,6 +22,26 @@
     {
       "title": "Nuclear Energy Revival Puts Westinghouse in Prime Position",
       "summary": "The company, which filed for bankruptcy protection in 2017, stands to benefit from growing support for nuclear power and President Trump’s deal with Saudi Arabia.",
+      "date": "2026-07-23"
+    },
+    {
+      "title": "Trump says Saudi Arabia must normalize Israel ties before nuclear deal is approved",
+      "summary": "President Donald Trump said Thursday that a nuclear deal between the United States and Saudi Arabia requires the kingdom to normalize relations with Israel — a significant condition not previously mentioned as the deal was announced.",
+      "date": "2026-07-23"
+    },
+    {
+      "title": "U.S. signs nuclear deal with Saudi Arabia. And, Nolan Wells' independent autopsy results",
+      "summary": "The U.S. has signed a nuclear cooperation agreement with Saudi Arabia. And, the independent autopsy results of Nolan Wells fuel more questions surrounding his cause of death. (Image credit: Brendan Smialowski).",
+      "date": "2026-07-23"
+    },
+    {
+      "title": "U.S. nuclear power deal with Saudi Arabia faces criticism in Israel",
+      "summary": "The nuclear power deal between the U.S. and Saudi Arabia was met with alarm in Israel as it deepened concerns that Israel, a major American ally, and Trump are increasingly diverging on foreign policy and security. (Image credit: Chip Somodevilla).",
+      "date": "2026-07-23"
+    },
+    {
+      "title": "U.S. Reaches Landmark Nuclear Deal With Saudi Arabia",
+      "summary": "U.S. President Donald Trump and Crown Prince Mohammed bin Salman of Saudi Arabia during a bilateral meeting in the Oval Office of the White House on Nov. 18, 2025. —Demetrius Freeman—The Washington Post/Getty Images Washington has reached a watershed civilian nuclear cooperation agreement with Saudi Arabia, the U.S. En.",
       "date": "2026-07-23"
     },
     {
@@ -43,29 +63,15 @@
       "title": "See How Houthis Put the Red Sea at Risk as an Alternative Oil Route",
       "summary": "Saudi Arabia has diverted huge amounts of oil to the Red Sea since the Iran war began, but now the Iranian-backed Houthi militants say that they intend to block that route.",
       "date": "2026-07-22"
-    },
-    {
-      "title": "Critics warn U.S. nuclear power deal with Saudi Arabia could fuel proliferation",
-      "summary": "The U.S. and Saudi Arabia announced a landmark deal that would give the kingdom a civilian nuclear program using American technology, and might allow for uranium enrichment in Saudi Arabia. Critics warn it could lead to further nuclear proliferation. Nick Schifrin reports and Geoff Bennett discusses more with John Wolf.",
-      "date": "2026-07-22"
-    },
-    {
-      "title": "Latest on U.S.-Saudi nuclear deal, Trump threats against Iranian infrastructure",
-      "summary": "CBS News National security analyst Aaron MacLean breaks down President Trump's threats against Iranian infrastructure and the United States' new nuclear deal with Saudi Arabia.",
-      "date": "2026-07-22"
-    },
-    {
-      "title": "How the Trump Administration’s Nuclear Deal With Saudi Arabia May Work",
-      "summary": "The Trump administration announced an agreement with Saudi Arabia on a civilian nuclear program. Such deals, known as 123 Agreements, are designed to prevent the development of weapons.",
-      "date": "2026-07-22"
-    },
-    {
-      "title": "See How Houthis Put the Red Sea at Risk as an Alternative Oil Route",
-      "summary": "Saudi Arabia has diverted huge amounts of oil to the Red Sea since the Iran war began, but now the Iranian-backed Houthi militants say that they intend to block that route.",
-      "date": "2026-07-22"
     }
   ],
   "sources": [
+    {
+      "title": "Trump says Saudi Arabia must normalize Israel ties before nuclear deal is approved",
+      "url": "https://www.nbcnews.com/world/middle-east/trump-saudi-arabia-normalize-israel-ties-nuclear-deal-rcna588859?utm_source=lootura.com",
+      "publishedAt": "2026-07-23T12:35:22.000Z",
+      "sourceId": "lootura-us-nbc-news"
+    },
     {
       "title": "Morning news brief",
       "url": "https://www.npr.org/2026/07/23/nx-s1-5895984/morning-news-brief?utm_source=lootura.com",
@@ -73,10 +79,16 @@
       "sourceId": "lootura-us-npr"
     },
     {
-      "title": "Critics warn U.S. nuclear power deal with Saudi Arabia could fuel proliferation",
-      "url": "https://www.pbs.org/newshour/show/critics-warn-u-s-nuclear-power-deal-with-saudi-arabia-could-fuel-proliferation?utm_source=lootura.com",
-      "publishedAt": "2026-07-22T22:50:47.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
+      "title": "U.S. signs nuclear deal with Saudi Arabia. And, Nolan Wells' independent autopsy results",
+      "url": "https://www.npr.org/2026/07/23/g-s1-135097/up-first-newsletter-saudi-arabia-nuclear-deal-house-bills-peptides-nolan-wells?utm_source=lootura.com",
+      "publishedAt": "2026-07-23T11:39:57.000Z",
+      "sourceId": "lootura-us-npr-world"
+    },
+    {
+      "title": "U.S. nuclear power deal with Saudi Arabia faces criticism in Israel",
+      "url": "https://www.npr.org/2026/07/23/nx-s1-5904327/us-saudi-arabia-iran?utm_source=lootura.com",
+      "publishedAt": "2026-07-23T10:55:44.000Z",
+      "sourceId": "lootura-us-npr-world"
     },
     {
       "title": "Coveted U.S. Nuclear Deal Is a Coup for Saudi Crown Prince",
@@ -85,17 +97,17 @@
       "sourceId": "lootura-us-the-new-york-times"
     },
     {
-      "title": "See How Houthis Put the Red Sea at Risk as an Alternative Oil Route",
-      "url": "https://www.nytimes.com/2026/07/22/business/energy-environment/red-sea-saudi-arabia-houthis.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-22T12:17:51.000Z",
-      "sourceId": "lootura-us-the-new-york-times"
-    },
-    {
       "title": "Nuclear Energy Revival Puts Westinghouse in Prime Position",
       "url": "https://www.nytimes.com/2026/07/23/business/energy-environment/westinghouse-nuclear-energy-trump-saudi-arabia.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-23T09:05:32.000Z",
+      "publishedAt": "2026-07-23T12:27:42.000Z",
       "sourceId": "lootura-us-the-new-york-times-politics"
+    },
+    {
+      "title": "U.S. Reaches Landmark Nuclear Deal With Saudi Arabia",
+      "url": "https://time.com/article/2026/07/23/us-saudi-arabia-nuclear-deal-explainer/?utm_source=lootura.com",
+      "publishedAt": "2026-07-23T11:00:18.000Z",
+      "sourceId": "lootura-us-time"
     }
   ],
-  "evidenceCount": 5
+  "evidenceCount": 7
 }

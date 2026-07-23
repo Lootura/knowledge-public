@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/united-states/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/united-states/index.json",
   "description": "Follow United States, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-23T10:20:24.199Z",
+  "updatedAt": "2026-07-23T13:51:24.628Z",
   "aliases": [
     "America",
     "Estados Unidos",
@@ -44,11 +44,6 @@
       "date": "2026-07-23"
     },
     {
-      "title": "Remembering the 4 U.S. service members killed recently in the Iran war",
-      "summary": "A dignified transfer was held Wednesday for the four U.S. Army soldiers killed in the Middle East in recent days amid the ongoing war with Iran. Lindsey Reiser shares more details on Lt. Tyler James Feehan, Pvt. Isabella Gonzales, Sgt. Angel Rampersad and Sgt. Michael Emmanuel Swinton.",
-      "date": "2026-07-23"
-    },
-    {
       "title": "What Visuals Show About Recent Damage to U.S. Military Sites in the Middle East",
       "summary": "Video footage and satellite images reveal new details about Iranian strikes on U.S. targets during the latest flare-up in fighting.",
       "date": "2026-07-23"
@@ -64,24 +59,29 @@
       "date": "2026-07-23"
     },
     {
-      "title": "U.S.-Saudi Deal Prompts Fears of a Nuclear Arms Race",
-      "summary": "In Europe, Asia and the Middle East, countries seek nuclear capabilities to hedge against aggressive neighbors and a receding Washington, potentially creating a more freewheeling era.",
-      "date": "2026-07-23"
-    },
-    {
       "title": "U.S. Military Presence in Jordan Makes It Iranian Target",
       "summary": "Relying heavily on U.S. aid and protection, Jordan is unlikely to restrict the American military presence there, despite escalating Iranian airstrikes.",
       "date": "2026-07-23"
     },
     {
-      "title": "U.S.-Saudi Nuclear Deal Stokes Israeli Concerns of Mideast Arms Race",
-      "summary": "An Israeli minister sought to downplay the agreement, while critics said it could spur other regional countries to pursue a nuclear program, and potentially the creation of a bomb.",
+      "title": "U.S. and Saudis sign nuclear deal, contingent on joining Abraham Accords",
+      "summary": "President Trump said on Thursday the deal would include no enrichment of nuclear material.",
       "date": "2026-07-23"
     },
     {
-      "title": "Trump’s 50% Tariffs on Canada: What to Know, and What’s Next",
-      "summary": "The president said punishing 50 percent tariffs would begin by Aug. 19, a significant escalation of the trade war between Canada and the U.S. that he started over a year ago.",
-      "date": "2026-07-22"
+      "title": "How does Make America Healthy Again hold up against scientific scrutiny?",
+      "summary": "Nature, Published online: 23 July 2026; doi:10.1038/d41586-026-02024-3 Researchers share their views on the US health policy spanning topics from vaccines to nutrition.",
+      "date": "2026-07-23"
+    },
+    {
+      "title": "Trump says Saudi Arabia must normalize Israel ties before nuclear deal is approved",
+      "summary": "President Donald Trump said Thursday that a nuclear deal between the United States and Saudi Arabia requires the kingdom to normalize relations with Israel — a significant condition not previously mentioned as the deal was announced.",
+      "date": "2026-07-23"
+    },
+    {
+      "title": "Trump Attends Dignified Transfer of 4 Troops Killed in Iran Attacks",
+      "summary": "The United States carried out a 12th straight night of airstrikes just hours after President Donald Trump attended the dignified transfer of four American service members killed in Iran attacks. With negotiations to end the war stalled, Trump has threatened to destroy Iran’s bridges and power plants each time it attack.",
+      "date": "2026-07-23"
     }
   ],
   "sources": [
@@ -92,9 +92,9 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "Trump speaks at Georgia high school after attending dignified transfer",
-      "url": "https://www.cbsnews.com/video/trump-speaks-at-georgia-high-school-after-attending-dignified-transfer/?utm_source=lootura.com",
-      "publishedAt": "2026-07-22T20:31:04.000Z",
+      "title": "U.S. and Saudis sign nuclear deal, contingent on joining Abraham Accords",
+      "url": "https://www.cbsnews.com/news/us-deal-saudis-enrich-nuclear-program/?utm_source=lootura.com",
+      "publishedAt": "2026-07-23T13:33:29.000Z",
       "sourceId": "lootura-us-cbs-news"
     },
     {
@@ -104,10 +104,22 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "Remembering the 4 U.S. service members killed recently in the Iran war",
-      "url": "https://www.cbsnews.com/video/remembering-the-4-us-service-members-killed-recently-in-the-iran-war/?utm_source=lootura.com",
-      "publishedAt": "2026-07-23T00:32:33.000Z",
-      "sourceId": "lootura-us-cbs-news"
+      "title": "How does Make America Healthy Again hold up against scientific scrutiny?",
+      "url": "https://www.nature.com/articles/d41586-026-02024-3?utm_source=lootura.com",
+      "publishedAt": "2026-07-23T13:51:28.525Z",
+      "sourceId": "lootura-us-nature"
+    },
+    {
+      "title": "Trump says Saudi Arabia must normalize Israel ties before nuclear deal is approved",
+      "url": "https://www.nbcnews.com/world/middle-east/trump-saudi-arabia-normalize-israel-ties-nuclear-deal-rcna588859?utm_source=lootura.com",
+      "publishedAt": "2026-07-23T12:35:22.000Z",
+      "sourceId": "lootura-us-nbc-news"
+    },
+    {
+      "title": "Trump Attends Dignified Transfer of 4 Troops Killed in Iran Attacks",
+      "url": "https://www.today.com/video/trump-attends-dignified-transfer-of-4-troops-killed-in-iran-war-267156037768?utm_source=lootura.com",
+      "publishedAt": "2026-07-23T11:21:56.000Z",
+      "sourceId": "lootura-us-nbc-news-politics"
     },
     {
       "title": "The White House pushes healthy eating. It cut a landmark nutrition education program",
@@ -116,35 +128,23 @@
       "sourceId": "lootura-us-npr"
     },
     {
-      "title": "Critics warn U.S. nuclear power deal with Saudi Arabia could fuel proliferation",
-      "url": "https://www.pbs.org/newshour/show/critics-warn-u-s-nuclear-power-deal-with-saudi-arabia-could-fuel-proliferation?utm_source=lootura.com",
-      "publishedAt": "2026-07-22T22:50:47.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
+      "title": "U.S. signs nuclear deal with Saudi Arabia. And, Nolan Wells' independent autopsy results",
+      "url": "https://www.npr.org/2026/07/23/g-s1-135097/up-first-newsletter-saudi-arabia-nuclear-deal-house-bills-peptides-nolan-wells?utm_source=lootura.com",
+      "publishedAt": "2026-07-23T11:39:57.000Z",
+      "sourceId": "lootura-us-npr-world"
     },
     {
-      "title": "Breakthroughs in Chinese AI models threaten U.S. lead in tech race",
-      "url": "https://www.pbs.org/newshour/show/breakthroughs-in-chinese-ai-models-threaten-u-s-lead-in-tech-race?utm_source=lootura.com",
-      "publishedAt": "2026-07-22T22:35:28.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
+      "title": "U.S. nuclear power deal with Saudi Arabia faces criticism in Israel",
+      "url": "https://www.npr.org/2026/07/23/nx-s1-5904327/us-saudi-arabia-iran?utm_source=lootura.com",
+      "publishedAt": "2026-07-23T10:55:44.000Z",
+      "sourceId": "lootura-us-npr-world"
     },
     {
-      "title": "Coveted U.S. Nuclear Deal Is a Coup for Saudi Crown Prince",
-      "url": "https://www.nytimes.com/2026/07/22/world/middleeast/us-saudi-arabia-nuclear-deal.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-22T20:54:10.000Z",
-      "sourceId": "lootura-us-the-new-york-times"
-    },
-    {
-      "title": "U.S. Employers Forced to Fire Thousands of Immigrants, and a Showdown over Peptides",
-      "url": "https://www.nytimes.com/2026/07/23/podcasts/the-headlines/immigrants-peptides-salad.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-23T10:00:09.000Z",
-      "sourceId": "lootura-us-the-new-york-times"
-    },
-    {
-      "title": "What Visuals Show About Recent Damage to U.S. Military Sites in the Middle East",
-      "url": "https://www.nytimes.com/2026/07/22/world/middleeast/iran-war-us-bases-images.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-23T01:37:39.000Z",
-      "sourceId": "lootura-us-the-new-york-times"
+      "title": "Former State Department official on the implications of the U.S.-Saudi nuclear deal",
+      "url": "https://www.npr.org/2026/07/23/nx-s1-5903069/former-state-department-official-on-the-implications-of-the-u-s-saudi-nuclear-deal?utm_source=lootura.com",
+      "publishedAt": "2026-07-23T10:45:56.000Z",
+      "sourceId": "lootura-us-npr-world"
     }
   ],
-  "evidenceCount": 13
+  "evidenceCount": 19
 }

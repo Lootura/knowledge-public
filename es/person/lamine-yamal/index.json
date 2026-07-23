@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/lamine-yamal/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/lamine-yamal/index.json",
   "description": "Sigue la actividad de Lamine Yamal en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-22T02:26:20.882Z",
+  "updatedAt": "2026-07-23T13:51:07.363Z",
   "aliases": [
     "Lamine",
     "Lamine Yamal Nasraoui",
@@ -16,6 +16,11 @@
     "Yamal"
   ],
   "changes": [
+    {
+      "title": "El universo de Sheila Ebana alrededor de la fama de su hijo Lamine Yamal: de las redes a experiencias de 800 €",
+      "summary": "La irrupción de Lamine Yamal en la élite del fútbol ha cambiado la vida de quienes forman parte de su entorno más cercano. Uno de los casos más llamativos es el de Sheila Ebana , su madre, que durante años permaneció alejada del foco mediático y que ahora se ha convertido en una figura muy seguida tanto en redes social.",
+      "date": "2026-07-23"
+    },
     {
       "title": "De Keyne, el hermano de Lamine Yamal, a la familia numerosa de Cucurella: los apoyos de los jugadores de la selección española fuera del campo",
       "summary": "El césped del MetLife Stadium de Nueva Jersey se convirtió este domingo en el escenario de emotivos encuentros de los futbolistas con sus familiares y amigos después de proclamarse campeones del mundo. Algunos posaron con ellos en persona, otros siempre se acuerdan de ellos en sus declaraciones.",
@@ -60,13 +65,15 @@
       "title": "Lamine Yamal cumple 19 a punto de hacer historia: los eventos que han marcado su vida (un apuñalamiento, lujo, varias novias y más)",
       "summary": "nació el 13 de julio de 2007 en Esplugues de Llobregat, hijo de Mounir Nasraoui y de Sheila Ebana. Sus padres se separaron cuando era niño, aunque ambos permanecieron muy presentes en su crianza, que transcurrió entre Mataró y Granollers. El barrio de Rocafonda, donde creció, sigue siendo una referencia ce.",
       "date": "2026-07-13"
-    },
-    {
-      "title": "Discovered by Atlas",
-      "summary": "Lamine Yamal first entered the public knowledge record with source-backed evidence.",
-      "date": "2026-07-10"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "El universo de Sheila Ebana alrededor de la fama de su hijo Lamine Yamal: de las redes a experiencias de 800 €",
+      "url": "https://okdiario.com/cool/famosos/asi-convertido-sheila-ebana-fama-lamine-yamal-negocio-redes-sociales-cenas-800-euros-19049341?utm_source=lootura.com",
+      "publishedAt": "2026-07-23T13:01:06.000Z",
+      "sourceId": "lootura-es-ok-diario"
+    }
+  ],
+  "evidenceCount": 1
 }

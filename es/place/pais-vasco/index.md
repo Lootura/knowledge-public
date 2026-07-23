@@ -3,7 +3,7 @@
 > Sigue la actividad de País Vasco en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-23T10:20:05.700Z
+- Actualizado: 2026-07-23T13:51:07.363Z
 - Canonical: https://atlas.lootura.com/es/place/pais-vasco
 
 ## Cambios recientes
@@ -11,6 +11,12 @@
 ### Rebajan la condena de siete a tres años y medio de cárcel a un vizcaíno por tenencia ilícita de armas y fabricación de munición
 
 El Tribunal Superior de Justicia del País Vasco le absuelve del delito de depósito de explosivos.
+
+Date: 2026-07-23
+
+### Las comunidades del PP plantan al Gobierno en la reunión sobre regularización de migrantes y fuerzan su suspensión
+
+La reunión, destinada a abordar el balance del proceso de regularización extraordinaria de migrantes o la aplicación del Pacto Europeo de Migración y Asilo, solo ha contado con la representación de seis autonomías: Navarra, Euskadi, Catalunya, Canarias, Asturias y Castilla-La Mancha El Tribunal Supremo rechaza llevar l.
 
 Date: 2026-07-23
 
@@ -62,12 +68,7 @@ El plazo se ha duplicado en un año, pasando de mes y medio a tres meses, y el G
 
 Date: 2026-07-17
 
-### La economía vasca mantiene el pulso y avanza un 2,1% en el segundo trimestre
-
-Euskadi desafía la incertidumbre de la guerra gracias al tirón de los servicios y la construcción.
-
-Date: 2026-07-17
-
 ## Fuentes
 
 - [Rebajan la condena de siete a tres años y medio de cárcel a un vizcaíno por tenencia ilícita de armas y fabricación de munición](https://www.elcorreo.com/bizkaia/condenan-tres-anos-medio-carcel-vecino-bizkaia-20260723114522-nt_amp.html?utm_source=lootura.com) — 2026-07-23T09:45:22.000Z
+- [Las comunidades del PP plantan al Gobierno en la reunión sobre regularización de migrantes y fuerzan su suspensión](https://www.eldiario.es/desalambre/comunidades-pp-plantan-gobierno-reunion-regularizacion-migrantes_1_13401812.html?utm_source=lootura.com) — 2026-07-23T12:04:37.000Z

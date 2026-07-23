@@ -8,9 +8,14 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/taco-bell/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/taco-bell/index.json",
   "description": "Follow Taco Bell, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-18T16:55:42.019Z",
+  "updatedAt": "2026-07-23T13:51:24.628Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "Heightened scrutiny over food safety amid cyclospora outbreak",
+      "summary": "The cyclospora outbreak linked to contaminated lettuce is having a big impact on wary consumers and businesses like Taco Bell as the number of confirmed cases rises. Carter Evans has more.",
+      "date": "2026-07-23"
+    },
     {
       "title": "Cyclosporiasis outbreak traced to lettuce from Mexico used by Taco Bell",
       "summary": "A lettuce supplier to fast-food giant Taco Bell has been linked to a nationwide cyclosporiasis outbreak that has sickened thousands of people, the CDC said.",
@@ -57,6 +62,13 @@
       "date": "2026-07-17"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Heightened scrutiny over food safety amid cyclospora outbreak",
+      "url": "https://www.cbsnews.com/video/heightened-scrutiny-over-food-safety-amid-cyclospora-outbreak/?utm_source=lootura.com",
+      "publishedAt": "2026-07-23T13:19:53.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    }
+  ],
+  "evidenceCount": 1
 }

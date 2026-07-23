@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/united-states/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/united-states/index.json",
   "description": "Sigue la actividad de Estados Unidos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-23T10:20:05.700Z",
+  "updatedAt": "2026-07-23T13:51:07.363Z",
   "aliases": [
     "America",
     "EE.UU.",
@@ -41,6 +41,11 @@
     "the United States of America"
   ],
   "changes": [
+    {
+      "title": "Emirates dice que no está dispuesta a aceptar ninguno de los primeros Boeing 777X de producción",
+      "summary": "Un 777X en producción en la factoría de Boeing de Everett – Boeing Desde hace unos meses no sólo va personal de Boeing a bordo de los vuelos de prueba del 777X, que empezaron allá por julio de 2020, sino que también hay personal de la Administración Federal de Aviación (FAA) de los Estados Unidos en ellos. Eso indica q.",
+      "date": "2026-07-23"
+    },
     {
       "title": "EEUU y Arabia Saudí firman un histórico pacto que allana a Riad lograr enriquecer uranio",
       "summary": "Estados Unidos ha anunciado este miércoles que ha alcanzado un importante acuerdo de cooperación nuclear pacífica con Arabia Saudí que podría allanar el.",
@@ -85,38 +90,15 @@
       "title": "El alcalde de Nueva York, Zohran Mamdani, insta a Trump a detener al “criminal” Netanyahu si entra en Estados Unidos",
       "summary": "Zohran Mamdani ganó el año pasado las elecciones a la alcaldía de Nueva York con un discurso durísimo contra el Gobierno israelí y su actuación en Gaza y Cisjordania. Ahora ha dado un paso más al reclamar a la Administración republicana de Donald Trump que detenga al primer ministro Benjamín Netanyahu si pisa suelo est.",
       "date": "2026-07-22"
-    },
-    {
-      "title": "Bruselas autoriza con condiciones la compra de Warner con Paramount",
-      "summary": "La Comisión Europea autoriza la compra de Warner por Paramount . La empresa de David Ellison recibe esta buena noticia un día después de que en Estados Unidos una jueza bloqueara temporalmente la operación que ha marcado al sector de contenidos audiovisuales en todo el mundo en el último año. Pero no le sale gratis. Ha.",
-      "date": "2026-07-22"
     }
   ],
   "sources": [
     {
-      "title": "Trump evalúa ahora la posibilidad de atacar a yihadistas en Mali",
-      "url": "https://www.larazon.es/internacional/trump-evalua-ahora-posibilidad-atacar-yihadistas-mali_202607236a61e89d4687a22bdec94390.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-23T10:10:37.000Z",
-      "sourceId": "lootura-es-la-razon"
-    },
-    {
-      "title": "El precio de los carburantes, desbocado por el fin de la rebaja del IVA: el depósito se encarece un 13% en tres semanas, un euro extra cada 48 horas",
-      "url": "https://www.larazon.es/economia/precio-carburantes-desbocado-fin-rebaja-iva-deposito-encarece-13-tres-semanas-euro-extra-cada-48-horas_202607236a61e729aa17c0020f2b603d.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-23T10:05:15.000Z",
-      "sourceId": "lootura-es-la-razon"
-    },
-    {
-      "title": "La Asociación del Fútbol Argentino desmiente que el FBI haya requisado el móvil al presidente",
-      "url": "https://okdiario.com/deportes/asociacion-del-futbol-argentino-desmiente-que-fbi-haya-requisado-movil-presidente-19053043/amp?utm_source=lootura.com",
-      "publishedAt": "2026-07-23T10:11:00.000Z",
-      "sourceId": "lootura-es-ok-diario"
-    },
-    {
-      "title": "EEUU y Arabia Saudí firman un histórico pacto que allana a Riad lograr enriquecer uranio",
-      "url": "https://theobjective.com/internacional/2026-07-23/eeuu-arabia-saudi-pacto-nriquecer-uranio/?amp=&utm_source=lootura.com",
-      "publishedAt": "2026-07-23T06:21:04.000Z",
-      "sourceId": "lootura-es-the-objective"
+      "title": "Emirates dice que no está dispuesta a aceptar ninguno de los primeros Boeing 777X de producción",
+      "url": "http://www.microsiervos.com/archivo/aerotrastorno/emirate-no-aceptar-primeros-boeing-777x-produccion.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-23T11:00:00.000Z",
+      "sourceId": "lootura-es-microsiervos"
     }
   ],
-  "evidenceCount": 4
+  "evidenceCount": 1
 }

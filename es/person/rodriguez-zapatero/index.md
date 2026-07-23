@@ -3,75 +3,80 @@
 > Sigue la actividad de José Luis Rodríguez Zapatero en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-23T10:20:05.700Z
+- Actualizado: 2026-07-23T13:51:07.363Z
 - Canonical: https://atlas.lootura.com/es/person/rodriguez-zapatero
 
 ## Cambios recientes
 
-### El Gobierno pide a Zapatero "que cuente la verdad" en la primera entrevista que concede tras ser investigado por el rescate de Plus Ultra
+### El PP ve una "tomadura de pelo" la entrevista de Zapatero porque ha ido únicamente "a defender su inocencia y la de Sánchez"
 
-El expresidente del Gobierno José Luis Rodríguez Zapatero será entrevistado este jueves en el programa 'Mañaneros 360' de TVE a las 13.00 horas . Se trata de la primera entrevista concedida por el expresidente socialista tras su imputación por el rescate a la aerolínea Plus Ultra y su posterior declaración ante el juez.
-
-Date: 2026-07-23
-
-### Javier Ruiz, sobre irse de la RTVE de Pedro Sánchez y 'Mañaneros '360': «Me dan ganas de dejarlo todas las mañanas. Hay un coste humano»
-
-El presentador de 'Mañaneros' entrevistará a José Luis Rodríguez Zapatero este jueves tras la declaración de Julio Martínez.
+Para el Partido Popular, la primera entrevista que ha dado el expresidente del Gobierno José Luis Rodríguez Zapatero desde que fue imputado ha sido "una tomadura de pelo", pues no ha dado ninguna explicación de las "muchas incógnitas" que le rodean. " No ha dicho de dónde son las joyas , por qué no las tributó, por qué.
 
 Date: 2026-07-23
 
-### El cotizado barrio de Madrid donde Zapatero compró vivienda y canceló su hipoteca en menos de un año
+### Las frases más destacadas: "Hasta que no haya una sentencia firme, aquí no delinque nadie"
 
-Ciudad Universitaria vuelve a colocarse en el foco inmobiliario de Madrid después de conocerse la compra de una vivienda en la zona por parte de José Luis Rodríguez Zapatero y María Sonsoles Espinosa . La operación, cerrada en 2024 y liquidada hipotecariamente menos de un año después , ha servido también para poner el.
-
-Date: 2026-07-23
-
-### Última hora de la actualidad política, en directo | El PSOE espera de la entrevista a Zapatero que dé “explicaciones que despejen dudas”
-
-El portavoz del PSOE en el Congreso, Patxi López, ha dicho este jueves a su llegada a la Cámara Baja que lo que espera de la entrevista que va a dar el expresidente del Gobierno José Luis Rodríguez Zapatero en TVE es “lo que hemos esperado siempre, explicaciones que despejen dudas”. “Yo desde el primer día dije y mante.
+El expresidente del Gobierno José Luis Rodríguez Zapatero ha concedido este jueves una entrevista en el programa Mañaneros 360 de TVE, la primera desde que trascendiera su investigación judicial en relación con el rescate de la aerolínea Plus Ultra y su posterior declaración ante el juez de la Audiencia Nacional, José.
 
 Date: 2026-07-23
 
-### Entrevista a Zapatero en RTVE, en directo: última hora sobre el "caso Plus Ultra" y reacciones
+### Zapatero, sobre el rescate de Plus Ultra: “No es que no influyera, es que no hablé con nadie”
 
-El expresidente del Gobierno José Luis Rodríguez Zapatero romperá su silencio hoy en una entrevista en el programa "Mañaneros", dirigido por Javier Ruiz, tras ser investigado por su implicación en el "caso Plus Ultra" . La entrevista será emitida en directo en La 1 de Televisión Española a partir de las 13:00 horas. Es.
-
-Date: 2026-07-23
-
-### Zapatero dará su primera entrevista este jueves en TVE tras su imputación en el 'caso Plus Ultra'
-
-El expresidente del Gobierno José Luis Rodríguez Zapatero será entrevistado este jueves en Mañaneros 360 de TVE, según ha informado la cadena. Zapatero.
+La primera entrevista de José Luis Rodríguez Zapatero —en el programa Mañaneros de TVE— desde que la Audiencia Nacional le imputó por liderar una trama de tráfico de influencias ilícitas, ha dejado escasas novedades de impacto jurídico. El propio expresidente del Gobierno ha admitido durante la entrevista que, tras dos.
 
 Date: 2026-07-23
 
-### ZP sin paracaídas y sin suerte
+### La cúpula del PSOE da por buenas las explicaciones de Zapatero: "Mantenemos nuestro apoyo"
 
-Quienes creíamos conocer a José Luis Rodríguez Zapatero nos hemos quedado de piedra al ver las chapuzas e ilegalidades cometidas por este hombre, al que creíamos honrado y protegido por la suerte. Veamos esto último. Tras la renuncia de Felipe González, aspiraron a la Secretaría General del PSOE cuatro candidatos: Bono.
-
-Date: 2026-07-23
-
-### "Si Julio Martínez quiere equipararse a Aldama, tiene que aportar más"
-
-La anunciada colaboración con la Justicia del empresario Julio Martínez, clave en la supuesta trama de tráfico de influencias en torno a José Luis Rodríguez Zapatero, dejó el pasado martes entre las acusaciones un cierto sabor agridulce. «Julito» llegó a la Audiencia Nacional con la vitola de su confesión por escrito d.
+Desde que se conoció la investigación judicial a José Luis Rodríguez Zapatero, tanto Pedro Sánchez como desde Ferraz han mantenido contacto con el ex presidente del Gobierno....
 
 Date: 2026-07-23
 
-### Zapatero romperá su silencio este jueves en TVE en su primera entrevista tras la imputación
+### Los titulares de la entrevista a Zapatero: de la estrategia de defensa de Julio Martínez a los trabajos de sus hijas
 
-El expresidente del Gobierno José Luis Rodríguez Zapatero será entrevistado este jueves en Mañaneros 360 de TVE , según ha informado la cadena. Zapatero estará en el plató del programa de actualidad de La 1 a partir de las 13 horas y la entrevista correrá a cargo del copresentador del programa, Javier Ruiz. 'Mañaneros.
+El expresidente del Gobierno José Luis Rodríguez Zapatero ha dado este jueves en RTVE su primera entrevista a un medio de comunicación desde que fuese imputado en una investigación de la Audiencia Nacional que lo coloca en la cúspide de una trama internacional de tráfico ilícito de influencias. El asunto partía del lav.
 
-Date: 2026-07-22
+Date: 2026-07-23
 
-### Podcast | Zapatero, tocado y hundido
+### Entrevista a Zapatero, en ‘Mañaneros 360′: Una clase de periodismo y de pilates
 
-El futuro de José Luis Rodríguez Zapatero es cada vez más oscuro. Su presunto testaferro, Julito Martínez, se ha marcado un Aldama y ha confesado ante el juez José Luis Calama que el ex presidente del Gobierno medió en la concesión del rescate a Plus Ultra y pactó cobrar el 1% de comisión , así como 5.000 euros al mes.
+José Luis Rodríguez Zapatero habló por sus cuerdas vocales en la televisión pública, pero también con el cuerpo. Se marcó algo parecido a una clase de pilates mientras Javier Ruiz disparaba las preguntas en una comparecencia que casi nadie esperaba y, sin embargo, a todo el mundo le urgía. Los hombros arriba, junto a l.
 
-Date: 2026-07-22
+Date: 2026-07-23
+
+### Zapatero rechaza aclarar el origen de las joyas: “Son un regalo de cortesía personal”
+
+Ni quién, ni cuándo, ni en qué circunstancias. El expresidente del Gobierno José Luis Rodríguez Zapatero ha rechazado este jueves , durante la entrevista en el programa Mañaneros 360 de TVE, dar explicaciones sobre el origen de las acerca de 80 joyas que fueron encontradas el pasado 19 de mayo en una caja fuerte durant.
+
+Date: 2026-07-23
+
+### El PP asegura que el expresidente Zapatero «ha tomado el pelo a los españoles»
+
+La portavoz del Grupo Popular en el Congreso de los Diputados , Ester Muñoz, ha asegurado que el expresidente del Gobierno José Luis Rodríguez Zapatero «ha tomado el pelo a los españoles» en su entrevista en TVE , insistiendo en que «ha sido una tomadura de pelo cuando le preguntan por el origen de las joyas y dice que.
+
+Date: 2026-07-23
+
+### Vox critica que Zapatero haya acudido a TVE como «una estrella» y no haya explicado nada
+
+La portavoz de Vox en el Congreso, Pepa Millán , cree que el expresidente José Luis Rodríguez Zapatero ha acudido a TVE como «si fuera una estrella» y ha criticado que siga sin explicar el origen de las joyas ni su papel en el rescate de Plus Ultra o el de sus hijas «en toda esta macrotrama corrupta». Una trama, ha dic.
+
+Date: 2026-07-23
+
+### Sumar critica que Zapatero no convence y afirma que existen aún «muchas incógnitas»
+
+El portavoz adjunto de Sumar en el Congreso y diputado de Compromís, Alberto Ibáñez, ha asegurado que el expresidente José Luis Rodríguez Zapatero no convence a la hora de explicar su comportamiento tras ser imputado en el caso Plus Ultra y que sigue habiendo «muchas incógnitas» respecto a su comportamiento. Así lo ha.
+
+Date: 2026-07-23
 
 ## Fuentes
 
-- [El Gobierno pide a Zapatero "que cuente la verdad" en la primera entrevista que concede tras ser investigado por el rescate de Plus Ultra](https://www.20minutos.es/nacional/entrevista-zapatero-directo-ultimas-noticias-corrupcion-psoe-rescate-plus-ultra_7018066_6.html?utm_source=lootura.com) — 2026-07-23T09:29:39.000Z
-- [Javier Ruiz, sobre irse de la RTVE de Pedro Sánchez y 'Mañaneros '360': «Me dan ganas de dejarlo todas las mañanas. Hay un coste humano»](https://www.abc.es/play/television/noticias/javier-ruiz-tajante-sobre-irse-rtve-pedro-20260723104318-nt_amp.html?utm_source=lootura.com) — 2026-07-23T08:43:19.000Z
-- [El cotizado barrio de Madrid donde Zapatero compró vivienda y canceló su hipoteca en menos de un año](https://www.elconfidencial.com/espana/madrid/2026-07-23/exclusivo-barrio-madrid-zapatero-compro-casa_4363066/?utm_source=lootura.com) — 2026-07-23T08:08:00.000Z
-- [Última hora de la actualidad política, en directo | El PSOE espera de la entrevista a Zapatero que dé “explicaciones que despejen dudas”](https://elpais.com/espana/2026-07-23/ultima-hora-de-la-actualidad-politica-en-directo.html?utm_source=lootura.com) — 2026-07-23T10:05:49.000Z
-- [Entrevista a Zapatero en RTVE, en directo: última hora sobre el "caso Plus Ultra" y reacciones](https://www.larazon.es/espana/entrevista-zapatero-rtve-directo-ultima-hora-caso-plus-ultra-reacciones_202607236a61bd624687a22bdec8f604.html?utm_source=lootura.com) — 2026-07-23T10:15:19.000Z
+- [El PP ve una "tomadura de pelo" la entrevista de Zapatero porque ha ido únicamente "a defender su inocencia y la de Sánchez"](https://www.20minutos.es/nacional/pp-ve-una-tomadura-pelo-entrevista-zapatero-porque-ha-ido-unicamente-defender-su-inocencia-sanchez_7018179_0.html?utm_source=lootura.com) — 2026-07-23T12:33:14.000Z
+- [Las frases más destacadas: "Hasta que no haya una sentencia firme, aquí no delinque nadie"](https://www.20minutos.es/nacional/frases-mas-destacadas-entrevista-zapatero-hasta-que-no-haya-una-sentencia-firme-aqui-no-delinque-nadie_7018166_0.html?utm_source=lootura.com) — 2026-07-23T11:52:42.000Z
+- [Zapatero, sobre el rescate de Plus Ultra: “No es que no influyera, es que no hablé con nadie”](https://elpais.com/espana/2026-07-23/zapatero-en-su-primera-entrevista-tras-su-imputacion-no-es-que-no-influyera-es-que-no-hable-con-nadie-del-rescate-de-plus-ultra.html?utm_source=lootura.com) — 2026-07-23T13:20:27.000Z
+- [La cúpula del PSOE da por buenas las explicaciones de Zapatero: "Mantenemos nuestro apoyo"](https://amp.elmundo.es/espana/2026/07/23/6a6202be21efa0605a8b45ba.html?utm_source=lootura.com) — 2026-07-23T12:02:40.000Z
+- [Los titulares de la entrevista a Zapatero: de la estrategia de defensa de Julio Martínez a los trabajos de sus hijas](https://elpais.com/espana/2026-07-23/las-titulares-de-la-entrevista-a-zapatero-de-la-estrategia-de-defensa-de-julio-martinez-a-los-trabajos-de-sus-hijas.html?utm_source=lootura.com) — 2026-07-23T12:32:24.000Z
+- [Entrevista a Zapatero, en ‘Mañaneros 360′: Una clase de periodismo y de pilates](https://elpais.com/television/2026-07-23/entrevista-a-zapatero-en-mananeros-360-una-clase-de-periodismo-y-de-pilates.html?utm_source=lootura.com) — 2026-07-23T12:34:11.000Z
+- [Zapatero rechaza aclarar el origen de las joyas: “Son un regalo de cortesía personal”](https://elpais.com/espana/2026-07-23/zapatero-rechaza-aclarar-el-origen-de-las-joyas-son-un-regalo-personal-de-cortesia.html?utm_source=lootura.com) — 2026-07-23T11:58:15.000Z
+- [El PP asegura que el expresidente Zapatero «ha tomado el pelo a los españoles»](https://theobjective.com/espana/politica/2026-07-23/pp-expresidente-pelo-espanoles/?utm_source=lootura.com) — 2026-07-23T12:27:56.000Z
+- [Vox critica que Zapatero haya acudido a TVE como «una estrella» y no haya explicado nada](https://theobjective.com/espana/politica/2026-07-23/vox-critica-zapatero/?utm_source=lootura.com) — 2026-07-23T12:40:00.000Z
+- [Sumar critica que Zapatero no convence y afirma que existen aún «muchas incógnitas»](https://theobjective.com/espana/politica/2026-07-23/sumar-critica-zapatero-no-convence-incognitas/?utm_source=lootura.com) — 2026-07-23T12:53:48.000Z

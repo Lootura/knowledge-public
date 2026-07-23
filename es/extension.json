@@ -1,86 +1,85 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-23T10:30:38.428Z",
+  "generatedAt": "2026-07-23T14:00:40.391Z",
   "radar": {
     "id": "es",
     "slug": "es",
     "locale": "es"
   },
   "state": {
-    "signature": "1.18.0|18|1784802005700",
+    "signature": "1.18.0|19|1784814667363",
     "version": "1.18.0",
-    "build": 18,
-    "latestEntityUpdatedAt": "2026-07-23T10:20:05.700Z"
+    "build": 19,
+    "latestEntityUpdatedAt": "2026-07-23T13:51:07.363Z"
   },
   "atlas": {
     "hero": {
-      "id": "es-china",
-      "name": "China",
-      "type": "place",
-      "title": "Product capability expanded",
-      "url": "https://atlas.lootura.com/es/place/china",
-      "path": "/es/place/china",
-      "updatedAt": "2026-07-23T10:20:05.700Z",
-      "score": 11300,
-      "sourceCount": 45,
-      "isBreaking": true,
-      "isPinned": false,
-      "badgeLabel": "Breaking"
+      "id": "es-rodriguez-zapatero",
+      "name": "José Luis Rodríguez Zapatero",
+      "type": "person",
+      "title": "Entrevista a Zapatero, en ‘Mañaneros 360′: Una clase de periodismo y de pilates",
+      "url": "https://atlas.lootura.com/es/person/rodriguez-zapatero",
+      "path": "/es/person/rodriguez-zapatero",
+      "updatedAt": "2026-07-23T13:51:07.363Z",
+      "score": 1758,
+      "sourceCount": 46,
+      "isBreaking": false,
+      "isPinned": false
     },
     "cards": [
       {
-        "id": "es-rodriguez-zapatero",
-        "name": "José Luis Rodríguez Zapatero",
+        "id": "es-psoe",
+        "name": "Partido Socialista Obrero Español",
+        "type": "organization",
+        "title": "Última hora de la actualidad política, en directo | El PSOE mantiene “exactamente la misma posición” en su defensa del exjefe de Gobierno",
+        "url": "https://atlas.lootura.com/es/organization/psoe",
+        "path": "/es/organization/psoe",
+        "updatedAt": "2026-07-23T13:51:07.363Z",
+        "score": 1749,
+        "sourceCount": 128,
+        "isBreaking": false,
+        "isPinned": false
+      },
+      {
+        "id": "es-audiencia-nacional",
+        "name": "Audiencia Nacional (España)",
+        "type": "organization",
+        "title": "Los titulares de la entrevista a Zapatero: de la estrategia de defensa de Julio Martínez a los trabajos de sus hijas",
+        "url": "https://atlas.lootura.com/es/organization/audiencia-nacional",
+        "path": "/es/organization/audiencia-nacional",
+        "updatedAt": "2026-07-23T13:51:07.363Z",
+        "score": 1713,
+        "sourceCount": 44,
+        "isBreaking": false,
+        "isPinned": false
+      },
+      {
+        "id": "es-pedro-sanchez",
+        "name": "Pedro Sánchez",
         "type": "person",
-        "title": "Entrevista a Zapatero en RTVE, en directo: última hora sobre el \"caso Plus Ultra\" y reacciones",
-        "url": "https://atlas.lootura.com/es/person/rodriguez-zapatero",
-        "path": "/es/person/rodriguez-zapatero",
-        "updatedAt": "2026-07-23T10:20:05.700Z",
-        "score": 1685,
-        "sourceCount": 36,
+        "title": "El Govern de Prohens apremia a Rosario Sánchez para que diga «si se manifestará contra sus propias políticas»",
+        "url": "https://atlas.lootura.com/es/person/pedro-sanchez",
+        "path": "/es/person/pedro-sanchez",
+        "updatedAt": "2026-07-23T13:51:07.363Z",
+        "score": 1713,
+        "sourceCount": 221,
         "isBreaking": false,
         "isPinned": false
       },
       {
-        "id": "es-yolanda-diaz",
-        "name": "Yolanda Díaz",
+        "id": "es-ibai-llanos",
+        "name": "Ibai Llanos",
         "type": "person",
-        "title": "Qué es la OIT: el organismo de Naciones Unidas para el que Yolanda Díaz ha sido propuesta para la dirección general por el Gobierno",
-        "url": "https://atlas.lootura.com/es/person/yolanda-diaz",
-        "path": "/es/person/yolanda-diaz",
-        "updatedAt": "2026-07-23T10:20:05.700Z",
-        "score": 1676,
-        "sourceCount": 6,
-        "isBreaking": false,
-        "isPinned": false
-      },
-      {
-        "id": "es-espana",
-        "name": "España",
-        "type": "place",
-        "title": "Los incendios calcinan ya al menos 108.000 hectáreas en España, cuatro veces más que hace un año",
-        "url": "https://atlas.lootura.com/es/place/espana",
-        "path": "/es/place/espana",
-        "updatedAt": "2026-07-23T10:20:05.700Z",
-        "score": 1673,
-        "sourceCount": 503,
-        "isBreaking": false,
-        "isPinned": false
-      },
-      {
-        "id": "es-madrid",
-        "name": "Madrid",
-        "type": "place",
-        "title": "Última hora de los incendios forestales, en directo | Perimetrado el incendio de Almorox (Toledo) tras quemar unas 1.000 hectáreas",
-        "url": "https://atlas.lootura.com/es/place/madrid",
-        "path": "/es/place/madrid",
-        "updatedAt": "2026-07-23T10:20:05.700Z",
-        "score": 1666,
-        "sourceCount": 293,
+        "title": "La CNMC multa a Ibai Llanos y Nachter por publicidad encubierta y a Jordi Wild por contenido violento",
+        "url": "https://atlas.lootura.com/es/person/ibai-llanos",
+        "path": "/es/person/ibai-llanos",
+        "updatedAt": "2026-07-23T13:51:07.363Z",
+        "score": 1689,
+        "sourceCount": 8,
         "isBreaking": false,
         "isPinned": false
       }
     ],
-    "publicEntityCount": 94
+    "publicEntityCount": 99
   }
 }

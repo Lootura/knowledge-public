@@ -28,5 +28,4 @@ Date: 2026-07-23
 
 ## Fuentes
 
-- [Ortega Smith ocupará el despacho y el escaño de Ábalos en el Congreso](https://www.abc.es/espana/ortega-smith-ocupara-despacho-escano-abalos-congreso-20260723112101-nt.html?utm_source=lootura.com) — 2026-07-23T09:49:42.000Z
-- [Última hora de la actualidad política, en directo | El PSOE espera de la entrevista a Zapatero que dé “explicaciones que despejen dudas”](https://elpais.com/espana/2026-07-23/ultima-hora-de-la-actualidad-politica-en-directo.html?utm_source=lootura.com) — 2026-07-23T10:05:49.000Z
+No public source links.

@@ -8,13 +8,18 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/julio-martinez/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/julio-martinez/index.json",
   "description": "Sigue la actividad de Julio Martínez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-23T10:20:05.700Z",
+  "updatedAt": "2026-07-23T13:51:07.363Z",
   "aliases": [
     "Julio Mart",
     "Julio Martínez Martínez",
     "Julito Martínez"
   ],
   "changes": [
+    {
+      "title": "Los titulares de la entrevista a Zapatero: de la estrategia de defensa de Julio Martínez a los trabajos de sus hijas",
+      "summary": "El expresidente del Gobierno José Luis Rodríguez Zapatero ha dado este jueves en RTVE su primera entrevista a un medio de comunicación desde que fuese imputado en una investigación de la Audiencia Nacional que lo coloca en la cúspide de una trama internacional de tráfico ilícito de influencias. El asunto partía del lav.",
+      "date": "2026-07-23"
+    },
     {
       "title": "Javier Ruiz, sobre irse de la RTVE de Pedro Sánchez y 'Mañaneros '360': «Me dan ganas de dejarlo todas las mañanas. Hay un coste humano»",
       "summary": "El presentador de 'Mañaneros' entrevistará a José Luis Rodríguez Zapatero este jueves tras la declaración de Julio Martínez.",
@@ -59,26 +64,15 @@
       "title": "La causa contra Zapatero sitúa ahora el foco en la cúpula de Plus Ultra tras contradecir la versión del expresidente",
       "summary": "Julio Martínez Martínez entró sobre las 8.45 de este martes en la Audiencia Nacional y salió más de cuatro horas después sin moverse mucho de la línea marcada un día antes en el escrito enviado al juez José Luis Calama para implicar al expresidente José Luis Rodríguez Zapatero en el rescate de Plus Ultra . El giro del.",
       "date": "2026-07-22"
-    },
-    {
-      "title": "Julio Martínez complica el futuro judicial de Zapatero aunque no despeja la X que pondría en serios aprietos a Moncloa",
-      "summary": "La declaración de Julio Martínez Martínez y los escritos que tanto él como dos altos cargos de Plus Ultra han remitido esta semana a la Audiencia Nacional han complicado seriamente el futuro judicial de José Luis Rodríguez Zapatero . Los tres investigados corroboran ahora los informes de la UDEF y señalan que el expres.",
-      "date": "2026-07-22"
     }
   ],
   "sources": [
     {
-      "title": "Javier Ruiz, sobre irse de la RTVE de Pedro Sánchez y 'Mañaneros '360': «Me dan ganas de dejarlo todas las mañanas. Hay un coste humano»",
-      "url": "https://www.abc.es/play/television/noticias/javier-ruiz-tajante-sobre-irse-rtve-pedro-20260723104318-nt_amp.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-23T08:43:19.000Z",
-      "sourceId": "lootura-es-abc"
-    },
-    {
-      "title": "La Audiencia ve como un \"gran avance\" para el tráfico de influencias la confesión del pagador de Zapatero y los directivos de Plus Ultra",
-      "url": "https://amp.elmundo.es/espana/2026/07/22/6a60e3bf21efa078558b4583.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-22T20:40:16.000Z",
-      "sourceId": "lootura-es-el-mundo"
+      "title": "Los titulares de la entrevista a Zapatero: de la estrategia de defensa de Julio Martínez a los trabajos de sus hijas",
+      "url": "https://elpais.com/espana/2026-07-23/las-titulares-de-la-entrevista-a-zapatero-de-la-estrategia-de-defensa-de-julio-martinez-a-los-trabajos-de-sus-hijas.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-23T12:32:24.000Z",
+      "sourceId": "lootura-es-el-pais"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

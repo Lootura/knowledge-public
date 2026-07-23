@@ -8,20 +8,30 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/europe/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/europe/index.json",
   "description": "Follow Europe, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-23T10:20:24.199Z",
+  "updatedAt": "2026-07-23T13:51:24.628Z",
   "aliases": [
     "EU",
     "European Union"
   ],
   "changes": [
     {
-      "title": "Climate change making Europe drought 'more severe': study",
-      "summary": "Human-caused climate change has intensified a drought across Europe, with extreme heat rather than low rainfall driving the exceptionally dry conditions, a team of international scientists said Thursday.",
+      "title": "Google Hit With $1 Billion Fine By EU Over Search Engine Practices",
+      "summary": "At a tense moment for trans-Atlantic trade, the European Union accused Google of anti-competitive business practices.",
       "date": "2026-07-23"
     },
     {
-      "title": "Google Hit With $1 Billion Fine By EU Over Search Engine Practices",
-      "summary": "At a tense moment for trans-Atlantic trade, the European Union accused Google of anti-competitive business practices.",
+      "title": "U.S.-Saudi Deal Prompts Fears of a Global Nuclear Arms Race",
+      "summary": "In Europe, Asia and the Middle East, countries seek nuclear capabilities to hedge against aggressive neighbors and a receding Washington, potentially creating a more freewheeling era.",
+      "date": "2026-07-23"
+    },
+    {
+      "title": "Developer ecosystem expanded",
+      "summary": "The European Union has fined Google's parent company Alphabet €890 million (about $1 billion) for two separate violations of the bloc's Digital Markets Act (DMA). One penalty is for giving its own products preferential treatment in search results, while the other is for blocking Android developers from sending users to.",
+      "date": "2026-07-23"
+    },
+    {
+      "title": "Climate change making Europe drought 'more severe': study",
+      "summary": "Human-caused climate change has intensified a drought across Europe, with extreme heat rather than low rainfall driving the exceptionally dry conditions, a team of international scientists said Thursday.",
       "date": "2026-07-23"
     },
     {
@@ -53,36 +63,26 @@
       "title": "EU's AI 'guardrails' cannot absorb rapid changes in technology, study warns",
       "summary": "\"Guardrails\" built by the EU to govern AI fall short in both ambition and execution and have become too heavy to absorb rapid changes in technology, a new study in Big Data & Society warns.",
       "date": "2026-07-17"
-    },
-    {
-      "title": "Devastating Asian beetle detected in EU for first time",
-      "summary": "A tiny Asian-origin beetle that has devastated ash forests in North America has been detected in the European Union for the first time, in Hungary and Slovakia, authorities said.",
-      "date": "2026-07-16"
-    },
-    {
-      "title": "Understanding Bavaria's Indigeneity",
-      "summary": "When I tell people that I am a proud Boarisch-Schwob—Bavarian-Swabian—Indigenous person, I am often met with disbelief. I am white. I am European. I come from Bavaria, one of Europe's wealthiest regions. For some people, those facts settle the question before I have explained anything else.",
-      "date": "2026-07-16"
     }
   ],
   "sources": [
     {
-      "title": "Climate change making Europe drought 'more severe': study",
-      "url": "https://phys.org/news/2026-07-climate-europe-drought-severe.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-23T09:00:12.000Z",
-      "sourceId": "lootura-us-phys-org"
-    },
-    {
       "title": "Google Hit With $1 Billion Fine By EU Over Search Engine Practices",
       "url": "https://www.nytimes.com/2026/07/23/business/google-eu-fine-search-competition.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-23T10:06:28.000Z",
+      "publishedAt": "2026-07-23T12:33:45.000Z",
       "sourceId": "lootura-us-the-new-york-times"
     },
     {
-      "title": "U.S.-Saudi Deal Prompts Fears of a Nuclear Arms Race",
+      "title": "U.S.-Saudi Deal Prompts Fears of a Global Nuclear Arms Race",
       "url": "https://www.nytimes.com/2026/07/23/world/europe/us-saudi-deal-nuclear-hedging.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-23T09:44:04.000Z",
+      "publishedAt": "2026-07-23T13:03:50.000Z",
       "sourceId": "lootura-us-the-new-york-times-world"
+    },
+    {
+      "title": "Google hit with $1 billion fine for breaking EU antitrust rules",
+      "url": "https://www.theverge.com/tech/943866/google-alphabet-eu-dma-fine-search-services-play-store-steering?utm_source=lootura.com",
+      "publishedAt": "2026-07-23T10:33:08.000Z",
+      "sourceId": "lootura-us-the-verge"
     }
   ],
   "evidenceCount": 3

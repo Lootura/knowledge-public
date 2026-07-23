@@ -1,0 +1,76 @@
+{
+  "id": "es-javier-ruiz",
+  "name": "Javier Ruiz",
+  "type": "person",
+  "locale": "es",
+  "canonicalPath": "/es/person/javier-ruiz",
+  "canonicalUrl": "https://atlas.lootura.com/es/person/javier-ruiz",
+  "markdownUrl": "https://atlas.lootura.com/es/person/javier-ruiz/index.md",
+  "jsonUrl": "https://atlas.lootura.com/es/person/javier-ruiz/index.json",
+  "description": "Sigue la actividad de Javier Ruiz en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
+  "updatedAt": "2026-07-23T13:51:07.363Z",
+  "aliases": [],
+  "changes": [
+    {
+      "title": "Zapatero se desinfla en TVE y no da una sola prueba a los suyos para seguir defendiéndolo",
+      "summary": "El expresidente dejó en su entrevista con Javier Ruiz las mismas dudas que dejó al juez en su declaración del 17 de junio. Lo negó todo sin aportar...",
+      "date": "2026-07-23"
+    },
+    {
+      "title": "Entrevista a Zapatero, en ‘Mañaneros 360′: Una clase de periodismo y de pilates",
+      "summary": "José Luis Rodríguez Zapatero habló por sus cuerdas vocales en la televisión pública, pero también con el cuerpo. Se marcó algo parecido a una clase de pilates mientras Javier Ruiz disparaba las preguntas en una comparecencia que casi nadie esperaba y, sin embargo, a todo el mundo le urgía. Los hombros arriba, junto a l.",
+      "date": "2026-07-23"
+    },
+    {
+      "title": "Zapatero baja de la Luna",
+      "summary": "Zapatero en la televisión pública con Javier Ruiz. La entrevista en sí ya encierra un debate: ¿le conviene? Refugiado hasta ahora en el silencio, el expresidente decide coger el guante mediático y presentar batalla pública. Pero llega con esa batalla empezada, así que lo único que puede hacer ya es defenderse, a veces.",
+      "date": "2026-07-23"
+    },
+    {
+      "title": "Javier Ruiz, sobre irse de la RTVE de Pedro Sánchez y 'Mañaneros '360': «Me dan ganas de dejarlo todas las mañanas. Hay un coste humano»",
+      "summary": "El presentador de 'Mañaneros' entrevistará a José Luis Rodríguez Zapatero este jueves tras la declaración de Julio Martínez.",
+      "date": "2026-07-23"
+    },
+    {
+      "title": "Entrevista a Zapatero en RTVE, en directo: última hora sobre el \"caso Plus Ultra\" y reacciones",
+      "summary": "El expresidente del Gobierno José Luis Rodríguez Zapatero romperá su silencio hoy en una entrevista en el programa \"Mañaneros\", dirigido por Javier Ruiz, tras ser investigado por su implicación en el \"caso Plus Ultra\" . La entrevista será emitida en directo en La 1 de Televisión Española a partir de las 13:00 horas. Es.",
+      "date": "2026-07-23"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Javier Ruiz first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-07-22"
+    },
+    {
+      "title": "Zapatero romperá su silencio este jueves en TVE en su primera entrevista tras la imputación",
+      "summary": "El expresidente del Gobierno José Luis Rodríguez Zapatero será entrevistado este jueves en Mañaneros 360 de TVE , según ha informado la cadena. Zapatero estará en el plató del programa de actualidad de La 1 a partir de las 13 horas y la entrevista correrá a cargo del copresentador del programa, Javier Ruiz. 'Mañaneros.",
+      "date": "2026-07-22"
+    },
+    {
+      "title": "El expresidente dará su primera entrevista en TVE con Javier Ruiz para replicar a su presunto testaferro y hablar de las joyas",
+      "summary": "El expresidente del Gobierno José Luis Rodríguez Zapatero será entrevistado este jueves en Mañaneros 360 de TVE , según ha informado la cadena. Zapatero estará en el plató del programa de actualidad de La 1 a partir de las 13.00 horas y la entrevista correrá a cargo del copresentador del programa, Javier Ruiz. Se trata.",
+      "date": "2026-07-22"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Zapatero se desinfla en TVE y no da una sola prueba a los suyos para seguir defendiéndolo",
+      "url": "https://www.eldebate.com/espana/20260723/zapatero-desinfla-tve-no-da-sola-prueba-suyos-seguir-defendiendolo_442907.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-23T12:40:09.000Z",
+      "sourceId": "lootura-es-el-debate"
+    },
+    {
+      "title": "Entrevista a Zapatero, en ‘Mañaneros 360′: Una clase de periodismo y de pilates",
+      "url": "https://elpais.com/television/2026-07-23/entrevista-a-zapatero-en-mananeros-360-una-clase-de-periodismo-y-de-pilates.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-23T12:34:11.000Z",
+      "sourceId": "lootura-es-el-pais"
+    },
+    {
+      "title": "Zapatero baja de la Luna",
+      "url": "https://elpais.com/espana/2026-07-23/zapatero-baja-de-la-luna.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-23T13:21:32.000Z",
+      "sourceId": "lootura-es-el-pais"
+    }
+  ],
+  "evidenceCount": 3
+}

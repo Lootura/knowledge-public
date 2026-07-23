@@ -40,5 +40,4 @@ Date: 2026-07-20
 
 ## Fuentes
 
-- [El Gobierno propone a Yolanda Díaz como directora general de la OIT, el organismo de la ONU dedicado al trabajo](https://elpais.com/economia/2026-07-23/el-gobierno-propone-a-yolanda-diaz-como-directora-general-de-la-oit-el-organismo-de-la-onu-dedicado-al-trabajo.html?utm_source=lootura.com) — 2026-07-23T06:46:14.000Z
-- [Feijóo promete una "reconstrucción nacional" y reformas estructurales: "Hacienda dejará de ser el gran beneficiario"](https://www.elmundo.es/espana/2026/07/22/6a611444e4d4d8850e8b4588.html?utm_source=lootura.com) — 2026-07-22T20:38:09.000Z
+No public source links.

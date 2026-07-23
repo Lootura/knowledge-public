@@ -70,5 +70,4 @@ Date: 2026-07-21
 
 ## Fuentes
 
-- [El PP exige la dimisión de Morant por comparar un gobierno de Feijóo con Hitler: "Está en una situación desesperada"](https://www.elconfidencial.com/espana/2026-07-23/dimision-morant-pp-psoe-democracia-1tps_4394692/?utm_source=lootura.com) — 2026-07-23T09:12:00.000Z
-- [Feijóo promete una "reconstrucción nacional" y reformas estructurales: "Hacienda dejará de ser el gran beneficiario"](https://www.elmundo.es/espana/2026/07/22/6a611444e4d4d8850e8b4588.html?utm_source=lootura.com) — 2026-07-22T20:38:09.000Z
+No public source links.

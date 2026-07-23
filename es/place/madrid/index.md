@@ -3,38 +3,14 @@
 > Sigue la actividad de Madrid en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-23T10:20:05.700Z
+- Actualizado: 2026-07-23T13:51:07.363Z
 - Canonical: https://atlas.lootura.com/es/place/madrid
 
 ## Cambios recientes
 
-### La Fuente de Cibeles abre por primera vez al público durante su restauración: así puedes conseguir entradas gratis para verla por dentro
-
-La Fuente de Cibeles podrá visitarse por primera vez desde su interior gracias al programa Abierto por Restauración . El Ayuntamiento de Madrid ofrece visitas guiadas gratuitas para descubrir de cerca las obras de conservación del monumento y conocer uno de los grandes símbolos de la capital desde una perspectiva inédi.
-
-Date: 2026-07-23
-
-### Casas y coches calcinados, rescates contrarreloj... las impactantes imágenes del incendio de Almorox
-
-Un incendio forestal declarado durante la tarde de este miércoles en Almorox (Toledo) se propagó hasta la Comunidad de Madrid , obligando a activar un amplio dispositivo de emergencias y la Situación Operativa 2 del Plan de Protección Civil ante Incendios Forestales. La Comunidad de Madrid solicitó la intervención de l.
-
-Date: 2026-07-23
-
-### El cotizado barrio de Madrid donde Zapatero compró vivienda y canceló su hipoteca en menos de un año
-
-Ciudad Universitaria vuelve a colocarse en el foco inmobiliario de Madrid después de conocerse la compra de una vivienda en la zona por parte de José Luis Rodríguez Zapatero y María Sonsoles Espinosa . La operación, cerrada en 2024 y liquidada hipotecariamente menos de un año después , ha servido también para poner el.
-
-Date: 2026-07-23
-
 ### Qué han estudiado las hijas de Zapatero: desde su formación hasta montar su agencia de publicidad
 
 Zapatero entrevista en TVE por el caso 'Plus Ultra' y las joyas, en directo Cunde en el PSOE el temor a que el caso ZP implique al Gobierno: "¿Por qué no le expulsamos del partido?" El cotizado barrio de Madrid donde Zapatero compró vivienda y canceló su hipoteca en menos de un año Laura y Alba Rodríguez Espinosa, hija.
-
-Date: 2026-07-23
-
-### Una avería provoca retrasos en varias líneas de Cercanáis Madrid entre Villaverde Bajo y Atocha
-
-La circulación de Cercanías permanece interrumpida desde primera hora de este viernes entre Villaverde Bajo y Atocha en las líneas C3 (Aranjuez-Chamartín) y C4 ( Parla-San Sebastián de los Reyes ) debido a una avería que afecta al sistema de señalización. Adif ha señalado que los equipos técnicos han trabajado para sol.
 
 Date: 2026-07-23
 
@@ -44,36 +20,63 @@ El incendio originado el miércoles por la tarde en el municipio toledano de Alm
 
 Date: 2026-07-23
 
-### "No ha pasado lo peor": Feijóo aguarda la "traca final" de la corrupción del PSOE a la vuelta del verano
+### Un fuego junto a las vías obliga a suspender los trenes de alta velocidad entre Madrid y Barcelona
 
-Pilotar la bancada de la oposición no entraba en los planes de Alberto Núñez Feijóo cuando decidió saltar a Madrid hace ya más de cuatro años, que en política es toda una eternidad. Pero el líder popular divisa ya la luz al final del túnel. La legislatura finalizará, como máximo, dentro de un año y en Génova ven comple.
-
-Date: 2026-07-23
-
-### Madrid activa el aviso amarillo por calor con máximas de hasta 39 grados este jueves
-
-La Comunidad de Madrid afronta este jueves una nueva jornada marcada por el calor extremo. La Agencia Estatal de Meteorología (Aemet) mantiene activado el aviso amarillo por altas temperaturas en buena parte de la región, donde los termómetros alcanzarán los 39 grados en las horas centrales del día . El aviso permanece.
+La circulación de trenes de alta velocidad entre Madrid y Barcelona ha quedado interrumpida este jueves debido a un incendio declarado en las proximidades de la infraestructura ferroviaria en la Comunidad de Madrid, han informado Renfe y Adif en sus redes sociales. Renfe ha informado de que el tráfico permanece suspend.
 
 Date: 2026-07-23
 
-### Precio de la gasolina hoy 23 de julio: localiza las gasolineras más baratas de Madrid
+### Planes en Madrid este fin de semana: de la visita a la Fuente de Cibeles a experiencias inmersivas
 
-Precio de la gasolina hoy 23 de julio en Madrid: consulta las gasolineras más baratas y ahorra al repostar.
+El último fin de semana de julio llega con muchas propuestas de ocio para protegerse del calor o pasar un buen rato. El Ayuntamiento de Madrid habilita por primera vez este fin de semana visitas guiadas al proceso de restauración de la Fuente de Cibeles. Un recorrido cultural que se une a la diversidad de exposiciones.
 
 Date: 2026-07-23
 
-### El tesoro que destrozas a pisotones en el campo, pero es una planta extinguida en Madrid y redescubierta en 2021 en Toledo
+### La Policía detiene en Madrid a un fugitivo buscado en Colombia por participar en un homicidio
 
-España recupera un tesoro botánico que la ciencia daba por perdido desde hacía casi un siglo. El Carduncellus matritensis , un pequeño cardo endémico del centro peninsular , ha reaparecido en Toledo tras confirmarse su extinción en la capital. Este hallazgo activa ahora un proceso legal urgente para otorgarle la máxima.
+Agentes de la Policía Nacional han arrestado en Madrid a un prófugo reclamado por Colombia por homicidio, lesiones y detención ilegal, delitos por los que podría cumplir hasta 60 años de cárcel. De acuerdo con una nota de prensa del cuerpo, las autoridades colombianas lo buscaban por su presunta implicación en un homic.
+
+Date: 2026-07-23
+
+### Así es Whathefav, la agencia de publicidad de las hijas de Zapatero que se dedica a los eSports
+
+Zapatero entrevista en TVE por el caso 'Plus Ultra' y las joyas, en directo Cunde en el PSOE el temor a que el caso ZP implique al Gobierno: "¿Por qué no le expulsamos del partido?" El cotizado barrio de Madrid donde Zapatero compró vivienda y canceló su hipoteca en menos de un año Qué han estudiado las hijas de Zapate.
+
+Date: 2026-07-23
+
+### Incendios en España, en directo: un incendio produce el corte de la circulación Madrid-Barcelona
+
+Los equipos de extinción continúan desplegados en distintos puntos del país para hacer frente a una de las jornadas más complejas de la campaña de incendios forestales. Mientras el incendio de La Mierla (Guadalajara) sigue evolucionando favorablemente y los trabajos se centran en consolidar el perímetro, otros focos ma.
+
+Date: 2026-07-23
+
+### Interrumpida la circulación del AVE entre Madrid y Barcelona por un incendio entre Mejorada del Campo y Alcalá de Henares
+
+Un incendio entre Mejorada del Campo y Alcalá de Henares ha obligado a interrumpir la circulación del AVE entre Madrid y Barcelona a la espera de que el fuego sea extinguido. Renfe ha lanzado un comunicado asegurando que se espera que se reanude lo antes posible y que de momento los trenes se encuentran «detenidos». De.
+
+Date: 2026-07-23
+
+### Suspendida la línea de alta velocidad entre Madrid y Barcelona por un incendio
+
+ADIF ha comunicado que la línea de alta velocidad entre Madrid y Barcelona está actualmente suspendida «por un incendio próximo a la vía y ajeno a la explotación ferroviaria». En un tuit, la entidad pública española ha explicado que se ha suspendido la circulación entre Mejorada del Campo y Alcalá de Henares. En otro m.
+
+Date: 2026-07-23
+
+### La Fuente de Cibeles abre por primera vez al público durante su restauración: así puedes conseguir entradas gratis para verla por dentro
+
+La Fuente de Cibeles podrá visitarse por primera vez desde su interior gracias al programa Abierto por Restauración . El Ayuntamiento de Madrid ofrece visitas guiadas gratuitas para descubrir de cerca las obras de conservación del monumento y conocer uno de los grandes símbolos de la capital desde una perspectiva inédi.
 
 Date: 2026-07-23
 
 ## Fuentes
 
-- [Casas y coches calcinados, rescates contrarreloj... las impactantes imágenes del incendio de Almorox](https://www.20minutos.es/madrid/casas-coches-calcinados-rescates-contrarreloj-las-impactantes-imagenes-incendio-almorox_7017972_0.html?utm_source=lootura.com) — 2026-07-23T06:48:52.000Z
-- [El cotizado barrio de Madrid donde Zapatero compró vivienda y canceló su hipoteca en menos de un año](https://www.elconfidencial.com/espana/madrid/2026-07-23/exclusivo-barrio-madrid-zapatero-compro-casa_4363066/?utm_source=lootura.com) — 2026-07-23T08:08:00.000Z
+- [Un fuego junto a las vías obliga a suspender los trenes de alta velocidad entre Madrid y Barcelona](https://www.20minutos.es/nacional/un-incendio-junto-las-vias-obliga-suspender-los-trenes-alta-velocidad-entre-madrid-barcelona_7018221_0.html?utm_source=lootura.com) — 2026-07-23T13:11:51.000Z
+- [Planes en Madrid este fin de semana: de la visita a la Fuente de Cibeles a experiencias inmersivas](https://www.abc.es/espana/madrid/planes-madrid-fin-semana-visita-fuente-cibeles-20260722151842-nt.html?utm_source=lootura.com) — 2026-07-23T13:18:42.000Z
+- [La Policía detiene en Madrid a un fugitivo buscado en Colombia por participar en un homicidio](https://www.elconfidencial.com/espana/madrid/2026-07-23/fugitivo-homicidio-colombia-madrid-1tps_4394766/?utm_source=lootura.com) — 2026-07-23T10:28:00.000Z
+- [Así es Whathefav, la agencia de publicidad de las hijas de Zapatero que se dedica a los eSports](https://www.elconfidencial.com/espana/2026-07-23/whathefav-agencia-publicidad-hijas-zapatero-dedica-esports_4357610/?utm_source=lootura.com) — 2026-07-23T11:26:00.000Z
 - [Qué han estudiado las hijas de Zapatero: desde su formación hasta montar su agencia de publicidad](https://www.elconfidencial.com/espana/2026-07-23/que-han-estudiado-hijas-zapatero-formacion-agencia-publicidad-1qrt_4357643/?utm_source=lootura.com) — 2026-07-23T10:02:00.000Z
-- [Una avería provoca retrasos en varias líneas de Cercanáis Madrid entre Villaverde Bajo y Atocha](https://www.elconfidencial.com/espana/madrid/2026-07-23/cercanias-incidencia-retrasos-madrid-1tna-1tps_4394658/?utm_source=lootura.com) — 2026-07-23T08:22:00.000Z
-- [La Fuente de Cibeles abre por primera vez al público durante su restauración: así puedes conseguir entradas gratis para verla por dentro](https://www.elconfidencial.com/espana/madrid/2026-07-23/conseguir-entradas-gratis-fuente-cibeles-1tna-1qrt_4394552/?utm_source=lootura.com) — 2026-07-23T06:02:00.000Z
 - [Muere un trabajador durante «labores de mantenimiento» en una base de Renfe en Madrid](https://www.elcorreo.com/economia/empresas/muere-trabajador-labores-mantenimiento-base-renfe-madrid-20260722163457-ntrc_amp.html?utm_source=lootura.com) — 2026-07-22T14:34:57.000Z
-- [Última hora de los incendios forestales, en directo | Perimetrado el incendio de Almorox (Toledo) tras quemar unas 1.000 hectáreas](https://elpais.com/espana/2026-07-23/ultima-hora-de-los-incendios-forestales-en-directo.html?utm_source=lootura.com) — 2026-07-23T09:59:10.000Z
+- [Última hora de los incendios forestales, en directo | Perimetrado el incendio de Almorox (Toledo) tras quemar unas 1.000 hectáreas](https://elpais.com/espana/2026-07-23/ultima-hora-de-los-incendios-forestales-en-directo.html?utm_source=lootura.com) — 2026-07-23T13:31:06.000Z
+- [Incendios en España, en directo: un incendio produce el corte de la circulación Madrid-Barcelona](https://www.larazon.es/sociedad/incendios-espana-directo-hoy-ultima-hora-fuegos-activos-operativos-extincion_202607236a6192fada3add27d4dd1811.html?utm_source=lootura.com) — 2026-07-23T13:40:17.000Z
+- [Interrumpida la circulación del AVE entre Madrid y Barcelona por un incendio entre Mejorada del Campo y Alcalá de Henares](https://okdiario.com/sucesos/interrumpida-circulacion-del-ave-madrid-barcelona-incendio-mejorada-del-campo-alcala-henares-19055568?utm_source=lootura.com) — 2026-07-23T13:25:15.000Z
+- [Suspendida la línea de alta velocidad entre Madrid y Barcelona por un incendio](https://theobjective.com/economia/transporte/2026-07-23/suspendida-linea-alta-velocidad-madrid-barcelona-incendio/?utm_source=lootura.com) — 2026-07-23T13:21:04.000Z

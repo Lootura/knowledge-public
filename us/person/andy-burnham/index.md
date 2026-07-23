@@ -3,10 +3,16 @@
 > Follow Andy Burnham, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-07-21T10:23:35.333Z
+- Updated: 2026-07-23T13:51:24.628Z
 - Canonical: https://atlas.lootura.com/us/person/andy-burnham
 
 ## Recent changes
+
+### Meet Marie-France van Heel, Wife of Britain's New Prime Minister Andy Burnham
+
+Marie-France van Heel alongside her husband Prime Minister Andy Burnham, arriving at Downing Street in London, United Kingdom, on July 20, 2026. —Karwai Tang—Getty Images When the U.K.’s new Prime Minister Andy Burnham arrived at 10 Downing Street earlier this week, his wife of 25 years, Marie-France van Heel, was righ.
+
+Date: 2026-07-23
 
 ### Here's how the UK went through 6 prime ministers in 7 years
 
@@ -62,12 +68,6 @@ Andy Burnham was formally appointed the newest British prime minster, the sevent
 
 Date: 2026-07-20
 
-### Andy Burnham says politicians 'need to be better' in first speech as UK's new prime minister
-
-Burnham spoke for several minutes outside 10 Downing St., where he promised to end street sleeping by homeless people and deliver a "circuit breaker" for a system he says has taken wrong turns since the 1980s.
-
-Date: 2026-07-20
-
 ## Sources
 
-No public source links.
+- [Meet Marie-France van Heel, Wife of Britain's New Prime Minister Andy Burnham](https://time.com/article/2026/07/23/andy-burnham-wife-marie-france-van-heel-bio-family-new-prime-minister/?utm_source=lootura.com) — 2026-07-23T13:44:06.000Z

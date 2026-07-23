@@ -70,4 +70,4 @@ Date: 2026-07-18
 
 ## Fuentes
 
-- [Una avería provoca retrasos en varias líneas de Cercanáis Madrid entre Villaverde Bajo y Atocha](https://www.elconfidencial.com/espana/madrid/2026-07-23/cercanias-incidencia-retrasos-madrid-1tna-1tps_4394658/?utm_source=lootura.com) — 2026-07-23T08:22:00.000Z
+No public source links.

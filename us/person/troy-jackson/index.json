@@ -8,11 +8,16 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/troy-jackson/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/troy-jackson/index.json",
   "description": "Follow Troy Jackson, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-22T06:26:12.535Z",
+  "updatedAt": "2026-07-23T13:51:24.628Z",
   "aliases": [
     "Jackson"
   ],
   "changes": [
+    {
+      "title": "The Debate Moment That Captures Democrats’ Worries About Troy Jackson",
+      "summary": "Troy Jackson, Democratic candidate for U.S. Senate, speaks outside of a federal immigration office in Scarborough, Maine, on July 14, 2026, after a man was fatally shot by ICE agents. —Ryan Murphy—Getty Images It should have been a layup. Instead, the question illustrated why some Democrats fear they are about to swap.",
+      "date": "2026-07-23"
+    },
     {
       "title": "Once Anti-Abortion, Now a Progressive: The Evolution of a Maine Democrat",
       "summary": "Troy Jackson, who is expected to become his party’s nominee in the state’s marquee Senate race, has long been an economic populist, but his positions on social issues have changed markedly over time.",
@@ -57,13 +62,15 @@
       "title": "In Maine, Troy Jackson Gains Momentum in Bid to Replace Platner",
       "summary": "Troy Jackson, a progressive former State Senate president, showed signs of significant strength, as half the state’s counties picked delegates to a convention where they will choose Graham Platner’s replacement.",
       "date": "2026-07-20"
-    },
-    {
-      "title": "Discovered by Atlas",
-      "summary": "Troy Jackson first entered the public knowledge record with source-backed evidence.",
-      "date": "2026-07-19"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "The Debate Moment That Captures Democrats’ Worries About Troy Jackson",
+      "url": "https://time.com/article/2026/07/23/the-moment-that-explains-why-troy-jackson-has-democrats-spooked/?utm_source=lootura.com",
+      "publishedAt": "2026-07-23T11:00:00.000Z",
+      "sourceId": "lootura-us-time"
+    }
+  ],
+  "evidenceCount": 1
 }

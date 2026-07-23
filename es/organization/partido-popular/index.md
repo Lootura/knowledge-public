@@ -3,10 +3,52 @@
 > Sigue la actividad de Partido Popular en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-23T10:20:05.700Z
+- Actualizado: 2026-07-23T13:51:07.363Z
 - Canonical: https://atlas.lootura.com/es/organization/partido-popular
 
 ## Cambios recientes
+
+### El PP ve una "tomadura de pelo" la entrevista de Zapatero porque ha ido únicamente "a defender su inocencia y la de Sánchez"
+
+Para el Partido Popular, la primera entrevista que ha dado el expresidente del Gobierno José Luis Rodríguez Zapatero desde que fue imputado ha sido "una tomadura de pelo", pues no ha dado ninguna explicación de las "muchas incógnitas" que le rodean. " No ha dicho de dónde son las joyas , por qué no las tributó, por qué.
+
+Date: 2026-07-23
+
+### El PP planta al Gobierno en la Conferencia de Inmigración y le acusa de "deslealtad"
+
+Los 'populares' consideran que el Gobierno "oculta actas y grabaciones" de las comisiones preparatorias y tachan la política migratoria de "opaca e irresponsable" Leer.
+
+Date: 2026-07-23
+
+### Última hora de la actualidad política, en directo | El PSOE mantiene “exactamente la misma posición” en su defensa del exjefe de Gobierno
+
+La portavoz del PP en el Congreso, Ester Muñoz, ha cargado contra el expresidente del Gobierno José Luis Zapatero tras su entrevista en TVE, la primera desde que fue imputado por el caso Plus Ultra . “Ha sido una tomadura de pelo”, ha dicho Muñoz en los pasillos. “No ha ido a defender solo su inocencia, sino a defender.
+
+Date: 2026-07-23
+
+### El PSOE mantiene su apoyo a la inocencia de Zapatero tras su entrevista en TVE y el PP la considera "una tomadura de pelo"
+
+Los socialistas no se mueven de la posición que llevan manteninendo desde el estallido del caso 'Plus Ultra' y el Gobierno pide "respeto" al derecho a la defensa del expresidente. Mientras tanto, la portavoz popular Ester Muñoz denuncia que "no ha contestado ninguna duda” e Isabel Díaz Ayuso denuncia que "a un socialis.
+
+Date: 2026-07-23
+
+### Las comunidades del PP plantan al Gobierno en la reunión sobre regularización de migrantes y fuerzan su suspensión
+
+La reunión, destinada a abordar el balance del proceso de regularización extraordinaria de migrantes o la aplicación del Pacto Europeo de Migración y Asilo, solo ha contado con la representación de seis autonomías: Navarra, Euskadi, Catalunya, Canarias, Asturias y Castilla-La Mancha El Tribunal Supremo rechaza llevar l.
+
+Date: 2026-07-23
+
+### El PP pide la dimisión de Rosario Sánchez por apoyar la protesta antiturismo de Palma siendo el máximo cargo del sector
+
+El senador y portavoz de turismo del Partido Popular en el Senado , Agustín Alomodóbar , ha registrado este jueves una batería de preguntas en la Cámara Alta para que el Gobierno apoye o reprenda a la secretaria de Estado de Turismo y candi target="_blank" rel="noopener noreferrer">por apoyar públicamente la manifestac.
+
+Date: 2026-07-23
+
+### El PP asegura que el expresidente Zapatero «ha tomado el pelo a los españoles»
+
+La portavoz del Grupo Popular en el Congreso de los Diputados , Ester Muñoz, ha asegurado que el expresidente del Gobierno José Luis Rodríguez Zapatero «ha tomado el pelo a los españoles» en su entrevista en TVE , insistiendo en que «ha sido una tomadura de pelo cuando le preguntan por el origen de las joyas y dice que.
+
+Date: 2026-07-23
 
 ### El Gobierno reintentará tras el verano firmar el Pacto de Estado antiincendios y confía en que el PP se sume tras ver "rectificar" a Feijóo
 
@@ -26,50 +68,13 @@ Los que han obtenido más votos han sido los senadores propuestos por el PP-A, c
 
 Date: 2026-07-23
 
-### El PP y Vox suben tras el caso Zapatero y amplían la brecha con el PSOE y sus socios
-
-El goteo de presuntos casos de corrupción está pasando factura al PSOE . Según el barómetro de julio elaborado por el Instituto DYM para 20minutos , si mañana se celebrasen elecciones, el PP sería la fuerza más votada y ampliaría su distancia con respecto a un PSOE en retroceso. El partido de Pedro Sánchez lleva desde.
-
-Date: 2026-07-23
-
-### Feijóo sitúa a Sánchez como "el señor X" de todos los casos del PSOE y promete "una limpieza a fondo" de las instituciones
-
-Comienza la "cuenta atrás" para el PP. Alberto Núñez Feijóo mira ya hacia las elecciones generales y mete la directa hacia "el cambio". Un cambio...
-
-Date: 2026-07-22
-
-### Narbona niega haber promocionado a Leire Díez: “Yo no soy la madrina de nadie”
-
-Leire Díez se ha convertido en una bomba política de efectos retardados que le ha servido al PP de excusa para forzar la comparecencia de Cristina Narbona en el Senado. La presidenta del PSOE ha negado que conociera la presunta trama orquestada por la exmilitante socialista con Santos Cerdán para desestabilizar causas.
-
-Date: 2026-07-22
-
-### Morant: «Feijóo está dibujando una coalición que se parece a un gobierno criminal de Hitler»
-
-La ministra de Ciencia, Innovación y Universidades, Diana Morant , ha vaticinado que el líder del PP, Alberto Núñez Feijóo , «está dibujando» un próximo ejecutivo de coalición que se parece «cada vez más a esos gobiernos criminales como el de Hitler », en referencia al que fuera dictador alemán. En una entrevista en TV.
-
-Date: 2026-07-22
-
-### El PP se pliega a Vox y Les Corts Valencianes aprueban los primeros presupuestos en España que incluyen la “prioridad nacional”
-
-Vox llevaba meses advirtiendo al PP de que, si no se incluía expresamente su “prioridad nacional” en los Presupuestos de la Generalitat Valenciana para 2026, no los apoyaría. Este miércoles, la formación de extrema derecha ha impuesto su exigencia y el pleno de Les Corts ha aprobado las cuentas de 33.305 millones de eu.
-
-Date: 2026-07-22
-
-### Última hora de la actualidad política, en directo | Feijóo hace balance del curso político y de la legislatura
-
-El líder del PP, Alberto Núñez Feijóo, hace balance en rueda de prensa del curso político y de la marcha de la legislatura, con la mirada puesta en las causas judiciales que afectan al PSOE y al Gobierno y la falta de apoyos parlamentarios del Ejecutivo. La presidenta del PSOE, Cristina Narbona, comparece en la comisió.
-
-Date: 2026-07-22
-
-### El ex ‘número dos’ de Interior defiende que la ‘Kitchen’ fue una «operación de Estado» legal
-
-La defensa del exsecretario de Estado de Seguridad en el Gobierno de Mariano Rajoy , Francisco Martínez, ha negado que su cliente organizara la operación Kitchen , de la que no obstante ha defendido su legalidad como una «operación policial real lícita de inteligencia» sobre el extesorero del PP Luis Bárcenas. Una oper.
-
-Date: 2026-07-22
-
 ## Fuentes
 
-- [El Gobierno reintentará tras el verano firmar el Pacto de Estado antiincendios y confía en que el PP se sume tras ver "rectificar" a Feijóo](https://www.20minutos.es/nacional/gobierno-reintentara-tras-verano-firmar-pacto-estado-antiincendios-confia-que-pp-se-sume-tras-ver-rectificar-feijoo_7018004_0.html?utm_source=lootura.com) — 2026-07-23T08:23:18.000Z
-- [El PP exige la dimisión de Morant por comparar un gobierno de Feijóo con Hitler: "Está en una situación desesperada"](https://www.elconfidencial.com/espana/2026-07-23/dimision-morant-pp-psoe-democracia-1tps_4394692/?utm_source=lootura.com) — 2026-07-23T09:12:00.000Z
-- [El Parlamento reelige a Arenas, Díaz y Espadas y designa a Montero, Zancajo y Aguirre como senadores por la comunidad](https://www.larazon.es/andalucia/parlamento-reelige-arenas-diaz-espadas-designa-montero-zancajo-aguirre-como-senadores-comunidad_202607236a61eaa6aa17c0020f2b671b.html?outputType=amp&utm_source=lootura.com) — 2026-07-23T10:19:18.000Z
+- [El PP ve una "tomadura de pelo" la entrevista de Zapatero porque ha ido únicamente "a defender su inocencia y la de Sánchez"](https://www.20minutos.es/nacional/pp-ve-una-tomadura-pelo-entrevista-zapatero-porque-ha-ido-unicamente-defender-su-inocencia-sanchez_7018179_0.html?utm_source=lootura.com) — 2026-07-23T12:33:14.000Z
+- [El PP denuncia que un udaleku de la Diputación de Gipuzkoa reprendió a niños por pintar la bandera española](https://www.diariovasco.com/politica/pp-denuncia-udaleku-diputacion-gipuzkoa-reprendio-ninos-20260723014543-nt_amp.html?utm_source=lootura.com) — 2026-07-22T23:45:57.000Z
+- [El PP planta al Gobierno en la Conferencia de Inmigración y le acusa de "deslealtad"](https://www.elmundo.es/espana/2026/07/23/6a620419fdddffd36e8b45a4.html?utm_source=lootura.com) — 2026-07-23T12:29:53.000Z
+- [Última hora de la actualidad política, en directo | El PSOE mantiene “exactamente la misma posición” en su defensa del exjefe de Gobierno](https://elpais.com/espana/2026-07-23/ultima-hora-de-la-actualidad-politica-en-directo.html?utm_source=lootura.com) — 2026-07-23T13:37:20.000Z
+- [El PSOE mantiene su apoyo a la inocencia de Zapatero tras su entrevista en TVE y el PP la considera "una tomadura de pelo"](https://www.eldiario.es/politica/psoe-mantiene-apoyo-inocencia-zapatero-entrevista-tve-pp-considera-tomadura-pelo_1_13402170.html?utm_source=lootura.com) — 2026-07-23T13:17:04.000Z
+- [Las comunidades del PP plantan al Gobierno en la reunión sobre regularización de migrantes y fuerzan su suspensión](https://www.eldiario.es/desalambre/comunidades-pp-plantan-gobierno-reunion-regularizacion-migrantes_1_13401812.html?utm_source=lootura.com) — 2026-07-23T12:04:37.000Z
+- [El PP pide la dimisión de Rosario Sánchez por apoyar la protesta antiturismo de Palma siendo el máximo cargo del sector](https://okdiario.com/baleares/pp-pide-dimision-rosario-sanchez-apoyar-protesta-antiturismo-palma-siendo-maximo-cargo-del-sector-19052436?utm_source=lootura.com) — 2026-07-23T13:15:21.000Z
+- [El PP asegura que el expresidente Zapatero «ha tomado el pelo a los españoles»](https://theobjective.com/espana/politica/2026-07-23/pp-expresidente-pelo-espanoles/?utm_source=lootura.com) — 2026-07-23T12:27:56.000Z

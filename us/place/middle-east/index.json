@@ -8,20 +8,35 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/middle-east/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/middle-east/index.json",
   "description": "Follow Middle East, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-23T10:20:24.199Z",
+  "updatedAt": "2026-07-23T13:51:24.628Z",
   "aliases": [
     "Mid East",
     "Mideast"
   ],
   "changes": [
     {
-      "title": "Remembering the 4 U.S. service members killed recently in the Iran war",
-      "summary": "A dignified transfer was held Wednesday for the four U.S. Army soldiers killed in the Middle East in recent days amid the ongoing war with Iran. Lindsey Reiser shares more details on Lt. Tyler James Feehan, Pvt. Isabella Gonzales, Sgt. Angel Rampersad and Sgt. Michael Emmanuel Swinton.",
+      "title": "What Visuals Show About Recent Damage to U.S. Military Sites in the Middle East",
+      "summary": "Video footage and satellite images reveal new details about Iranian strikes on U.S. targets during the latest flare-up in fighting.",
       "date": "2026-07-23"
     },
     {
-      "title": "What Visuals Show About Recent Damage to U.S. Military Sites in the Middle East",
-      "summary": "Video footage and satellite images reveal new details about Iranian strikes on U.S. targets during the latest flare-up in fighting.",
+      "title": "New Concerns Over Oil Prices After Houthis Attack Saudi Tankers",
+      "summary": "There are new concerns about the future of oil and gas prices after Yemen-based Houthi rebels, backed by Iran, attacked two Saudi Arabian oil tankers in the Red Sea. NBC’s Richard Engel reports on the new front in the Middle East conflict and Christine Romans joins TODAY with analysis on the economic impact to gas pric.",
+      "date": "2026-07-23"
+    },
+    {
+      "title": "Oil price passes $100 a barrel again as Middle East conflict escalates",
+      "summary": "Benchmark rises sharply over fears Houthi militia could strangle Saudi exports as US-Iran fighting intensifies The oil price has climbed back above $100 a barrel for the first time in two months, as a fresh escalation of the Middle East conflict threatens to compound disruption to global oil supplies. The benchmark oil.",
+      "date": "2026-07-23"
+    },
+    {
+      "title": "U.S.-Saudi Deal Prompts Fears of a Global Nuclear Arms Race",
+      "summary": "In Europe, Asia and the Middle East, countries seek nuclear capabilities to hedge against aggressive neighbors and a receding Washington, potentially creating a more freewheeling era.",
+      "date": "2026-07-23"
+    },
+    {
+      "title": "Remembering the 4 U.S. service members killed recently in the Iran war",
+      "summary": "A dignified transfer was held Wednesday for the four U.S. Army soldiers killed in the Middle East in recent days amid the ongoing war with Iran. Lindsey Reiser shares more details on Lt. Tyler James Feehan, Pvt. Isabella Gonzales, Sgt. Angel Rampersad and Sgt. Michael Emmanuel Swinton.",
       "date": "2026-07-23"
     },
     {
@@ -48,35 +63,20 @@
       "title": "Houthis in Yemen Edge Closer to Entering U.S.-Iran War",
       "summary": "The Iran-backed Houthi militia in Yemen has declared a Red Sea blockade on Saudi Arabia, potentially opening a new front in the war rippling across the Middle East.",
       "date": "2026-07-21"
-    },
-    {
-      "title": "Sen. Chris Murphy on the Iran war and Pete Hegseth's upcoming Senate testimony",
-      "summary": "NPR's Michel Martin speaks with Sen. Chris Murphy, D-Conn., about the escalating war in the Middle East and the testimony of Defense Secretary Pete Hegseth in front of a Senate panel on Tuesday.",
-      "date": "2026-07-21"
-    },
-    {
-      "title": "Discovered by Atlas",
-      "summary": "Middle East first entered the public knowledge record with source-backed evidence.",
-      "date": "2026-07-20"
-    },
-    {
-      "title": "Nearly 100 U.S. service members injured in Iranian strikes this month",
-      "summary": "Almost 100 American service members have been injured in strikes on bases in the Middle East this month, U.S. officials said.",
-      "date": "2026-07-20"
     }
   ],
   "sources": [
     {
-      "title": "Trump speaks at Georgia high school after attending dignified transfer",
-      "url": "https://www.cbsnews.com/video/trump-speaks-at-georgia-high-school-after-attending-dignified-transfer/?utm_source=lootura.com",
-      "publishedAt": "2026-07-22T20:31:04.000Z",
-      "sourceId": "lootura-us-cbs-news"
+      "title": "New Concerns Over Oil Prices After Houthis Attack Saudi Tankers",
+      "url": "https://www.today.com/video/cost-of-iran-war-per-us-household-nears-1-200-report-shows-267156549661?utm_source=lootura.com",
+      "publishedAt": "2026-07-23T11:36:18.000Z",
+      "sourceId": "lootura-us-nbc-news-politics"
     },
     {
-      "title": "Remembering the 4 U.S. service members killed recently in the Iran war",
-      "url": "https://www.cbsnews.com/video/remembering-the-4-us-service-members-killed-recently-in-the-iran-war/?utm_source=lootura.com",
-      "publishedAt": "2026-07-23T00:32:33.000Z",
-      "sourceId": "lootura-us-cbs-news"
+      "title": "Oil price passes $100 a barrel again as Middle East conflict escalates",
+      "url": "https://www.theguardian.com/business/2026/jul/23/oil-price-passes-100-a-barrel-again-as-middle-east-conflict-escalates?utm_source=lootura.com",
+      "publishedAt": "2026-07-23T13:37:42.000Z",
+      "sourceId": "lootura-us-the-guardian-us"
     },
     {
       "title": "What Visuals Show About Recent Damage to U.S. Military Sites in the Middle East",
@@ -85,9 +85,9 @@
       "sourceId": "lootura-us-the-new-york-times"
     },
     {
-      "title": "U.S.-Saudi Deal Prompts Fears of a Nuclear Arms Race",
+      "title": "U.S.-Saudi Deal Prompts Fears of a Global Nuclear Arms Race",
       "url": "https://www.nytimes.com/2026/07/23/world/europe/us-saudi-deal-nuclear-hedging.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-23T09:44:04.000Z",
+      "publishedAt": "2026-07-23T13:03:50.000Z",
       "sourceId": "lootura-us-the-new-york-times-world"
     }
   ],

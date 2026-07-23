@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/venezuela/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/venezuela/index.json",
   "description": "Sigue la actividad de Estados Unidos de Venezuela en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-23T02:31:05.539Z",
+  "updatedAt": "2026-07-23T13:51:07.363Z",
   "aliases": [
     "BR Venezuela",
     "Bolivarian Republic of Venezuela",
@@ -19,6 +19,11 @@
     "República de Venezuela"
   ],
   "changes": [
+    {
+      "title": "Repsol prioriza elevar la producción en Venezuela y aparca el debate de la deuda",
+      "summary": "El consejero delegado de Repsol , Josu Jon Imaz, ha reafirmado el compromiso de la compañía con su actividad en Venezuela y ha asegurado que el debate sobre la deuda histórica con la energética no se encuentra actualmente «sobre la mesa», siendo así actualmente la prioridad elevar la producción de hidrocarburos en el p.",
+      "date": "2026-07-23"
+    },
     {
       "title": "Trump blinda a Delcy hasta que celebre elecciones en Venezuela dentro de un año",
       "summary": "Donald Trump ha decidido proteger judicialmente a Delcy Rodríguez, pero no liberarla de la amenaza de los tribunales estadounidenses. La inmunidad solicitada por su Administración ante un juez federal de Miami es un escudo condicionado , pues solo existe mientras ella siga siendo la jefa de Estado reconocida por Estado.",
@@ -63,13 +68,15 @@
       "title": "El contraste tras la tragedia en Venezuela",
       "summary": "La sucesora de Nicolás Maduro, Delcy Rodríguez, ha prometido soluciones habitacionales antes de concluir este año producto de los dos terremotos sufridos el pasado 24 de junio. Al mismo tiempo, eleva el tono del discurso, enfocándose más en sus enemigos políticos que en la atención de la crisis. Las preguntas de la pre.",
       "date": "2026-07-16"
-    },
-    {
-      "title": "Sube a 4.829 la cifra de muertos por los terremotos de hace tres semanas en Venezuela",
-      "summary": "El balance de muertos por el doble terremoto de magnitud 7,2 y 7,5 ocurrido hace tres semanas en la zona norte de Venezuela ha ascendido este miércoles a.",
-      "date": "2026-07-15"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Repsol prioriza elevar la producción en Venezuela y aparca el debate de la deuda",
+      "url": "https://theobjective.com/economia/2026-07-23/repsol-elevar-produccion-venezuela/?utm_source=lootura.com",
+      "publishedAt": "2026-07-23T12:38:01.000Z",
+      "sourceId": "lootura-es-the-objective"
+    }
+  ],
+  "evidenceCount": 1
 }

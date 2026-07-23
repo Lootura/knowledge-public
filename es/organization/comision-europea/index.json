@@ -1,0 +1,49 @@
+{
+  "id": "es-comision-europea",
+  "name": "Comisión Europea",
+  "type": "organization",
+  "locale": "es",
+  "canonicalPath": "/es/organization/comision-europea",
+  "canonicalUrl": "https://atlas.lootura.com/es/organization/comision-europea",
+  "markdownUrl": "https://atlas.lootura.com/es/organization/comision-europea/index.md",
+  "jsonUrl": "https://atlas.lootura.com/es/organization/comision-europea/index.json",
+  "description": "Sigue la actividad de Comisión Europea en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
+  "updatedAt": "2026-07-23T13:51:07.363Z",
+  "aliases": [
+    "EU commission",
+    "EC",
+    "ec.europa.eu"
+  ],
+  "changes": [
+    {
+      "title": "Bruselas multa a Google con 890 millones por favorecer a sus propios servicios y obstaculizar los de la competencia",
+      "summary": "Nueva multa a Google de la Comisión Europea . En este caso, de 890 millones por favorecer sus propios productos y por poner restricciones a la competencia. La sanción, en realidad, son dos: una de 460 millones por “privilegiar sus propios servicios” en el buscador Google Search, y otra de 430 millones por “imponer rest.",
+      "date": "2026-07-23"
+    },
+    {
+      "title": "Nueva multa millonaria a Google en Europa, esta vez por dos infracciones a la Ley de Mercados Digitales",
+      "summary": "Una vez más, la Comisión Europea ha aplicado una multa millonaria a Google por infringir las normativas de la UE con sus productos. En esta oportunidad, se trata de una sanción de 890 millones de euros por dos infracciones a la Ley de Mercados Digitales (DMA), una con su buscador y la otra con la Play Store. La nueva m.",
+      "date": "2026-07-23"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Comisión Europea first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-07-23"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Bruselas multa a Google con 890 millones por favorecer a sus propios servicios y obstaculizar los de la competencia",
+      "url": "https://elpais.com/economia/2026-07-23/bruselas-multa-a-google-con-890-millones-por-favorecer-a-sus-propios-servicios-y-obstaculizar-los-de-la-competencia.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-23T10:05:46.000Z",
+      "sourceId": "lootura-es-cinco-dias"
+    },
+    {
+      "title": "Nueva multa millonaria a Google en Europa, esta vez por dos infracciones a la Ley de Mercados Digitales",
+      "url": "https://hipertextual.com/legal/europa-multa-google-890-millones-euros-julio-2026/?utm_source=lootura.com",
+      "publishedAt": "2026-07-23T13:46:48.000Z",
+      "sourceId": "lootura-es-hipertextual"
+    }
+  ],
+  "evidenceCount": 2
+}

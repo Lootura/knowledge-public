@@ -3,16 +3,16 @@
 > Follow Oval Office, a tracked object, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: object
-- Updated: 2026-07-14T20:58:39.119Z
+- Updated: 2026-07-23T13:51:24.628Z
 - Canonical: https://atlas.lootura.com/us/object/oval-office
 
 ## Recent changes
 
-### Trump says he doesn't see a lot of "evil" in Lindsey Graham's death when asked about FBI probe
+### U.S. Reaches Landmark Nuclear Deal With Saudi Arabia
 
-President Trump took questions in the Oval Office and commented on an apparent FBI probe into Lindsey Graham's death, saying he doesn't see a lot of "evil" behind the sudden incident.
+U.S. President Donald Trump and Crown Prince Mohammed bin Salman of Saudi Arabia during a bilateral meeting in the Oval Office of the White House on Nov. 18, 2025. —Demetrius Freeman—The Washington Post/Getty Images Washington has reached a watershed civilian nuclear cooperation agreement with Saudi Arabia, the U.S. En.
 
-Date: 2026-07-14
+Date: 2026-07-23
 
 ### Discovered by Atlas
 
@@ -20,6 +20,12 @@ Oval Office first entered the public knowledge record with source-backed evidenc
 
 Date: 2026-07-14
 
+### Trump says he doesn't see a lot of "evil" in Lindsey Graham's death when asked about FBI probe
+
+President Trump took questions in the Oval Office and commented on an apparent FBI probe into Lindsey Graham's death, saying he doesn't see a lot of "evil" behind the sudden incident.
+
+Date: 2026-07-14
+
 ## Sources
 
-No public source links.
+- [U.S. Reaches Landmark Nuclear Deal With Saudi Arabia](https://time.com/article/2026/07/23/us-saudi-arabia-nuclear-deal-explainer/?utm_source=lootura.com) — 2026-07-23T11:00:18.000Z

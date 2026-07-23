@@ -3,10 +3,16 @@
 > Follow Troy Jackson, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-07-22T06:26:12.535Z
+- Updated: 2026-07-23T13:51:24.628Z
 - Canonical: https://atlas.lootura.com/us/person/troy-jackson
 
 ## Recent changes
+
+### The Debate Moment That Captures Democrats’ Worries About Troy Jackson
+
+Troy Jackson, Democratic candidate for U.S. Senate, speaks outside of a federal immigration office in Scarborough, Maine, on July 14, 2026, after a man was fatally shot by ICE agents. —Ryan Murphy—Getty Images It should have been a layup. Instead, the question illustrated why some Democrats fear they are about to swap.
+
+Date: 2026-07-23
 
 ### Once Anti-Abortion, Now a Progressive: The Evolution of a Maine Democrat
 
@@ -62,12 +68,6 @@ Troy Jackson, a progressive former State Senate president, showed signs of signi
 
 Date: 2026-07-20
 
-### Discovered by Atlas
-
-Troy Jackson first entered the public knowledge record with source-backed evidence.
-
-Date: 2026-07-19
-
 ## Sources
 
-No public source links.
+- [The Debate Moment That Captures Democrats’ Worries About Troy Jackson](https://time.com/article/2026/07/23/the-moment-that-explains-why-troy-jackson-has-democrats-spooked/?utm_source=lootura.com) — 2026-07-23T11:00:00.000Z

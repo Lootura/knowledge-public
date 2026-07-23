@@ -3,7 +3,7 @@
 > Sigue la actividad de Organización de las Naciones Unidas en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-23T10:20:05.700Z
+- Actualizado: 2026-07-23T13:51:07.363Z
 - Canonical: https://atlas.lootura.com/es/organization/naciones-unidas
 
 ## Cambios recientes
@@ -11,6 +11,12 @@
 ### Qué es la OIT: el organismo de Naciones Unidas para el que Yolanda Díaz ha sido propuesta para la dirección general por el Gobierno
 
 El Gobierno ha respaldado la candidatura de Yolanda Díaz para optar a la dirección general del organismo de Naciones Unidas , la Organización Internacional del Trabajo (OIT) . La elección, prevista para noviembre, sitúa el foco en una institución clave para las políticas laborales internacionales y en el papel que dese.
+
+Date: 2026-07-23
+
+### El Gobierno lanza a Díaz como candidata para dirigir la Organización Internacional del Trabajo
+
+Despejada la incógnita sobre el futuro político de Yolanda Díaz, que, tras claudicar en su propio proyecto político en España —Sumar, ahora descabezado—, aspira ahora a recolocarse en las Naciones Unidas. La dirigente izquierdista se postula oficialmente para liderar la Organización Internacional del Trabajo (OIT) en G.
 
 Date: 2026-07-23
 
@@ -64,5 +70,5 @@ Date: 2026-07-19
 
 ## Fuentes
 
+- [El Gobierno lanza a Díaz como candidata para dirigir la Organización Internacional del Trabajo](https://www.abc.es/espana/moncloa-propone-yolanda-diaz-optar-direccion-general-20260723090113-nt.html?utm_source=lootura.com) — 2026-07-23T13:23:46.000Z
 - [Qué es la OIT: el organismo de Naciones Unidas para el que Yolanda Díaz ha sido propuesta para la dirección general por el Gobierno](https://www.elconfidencial.com/espana/2026-07-23/que-es-oit-onu-yolanda-diaz-candidata-1qrt_4394690/?utm_source=lootura.com) — 2026-07-23T10:07:00.000Z
-- [El Gobierno propone a la vicepresidenta Yolanda Díaz como candidata a dirigir la OIT](https://www.eldiario.es/economia/gobierno-propone-vicepresidenta-yolanda-diaz-candidata-dirigir-oit_1_13400602.html?utm_source=lootura.com) — 2026-07-23T06:55:31.000Z

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/maine/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/maine/index.json",
   "description": "Follow Maine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-23T10:20:24.199Z",
+  "updatedAt": "2026-07-23T13:51:24.628Z",
   "aliases": [
     "ME",
     "Maine, United States",
@@ -17,6 +17,11 @@
     "US-ME"
   ],
   "changes": [
+    {
+      "title": "The Debate Moment That Captures Democrats’ Worries About Troy Jackson",
+      "summary": "Troy Jackson, Democratic candidate for U.S. Senate, speaks outside of a federal immigration office in Scarborough, Maine, on July 14, 2026, after a man was fatally shot by ICE agents. —Ryan Murphy—Getty Images It should have been a layup. Instead, the question illustrated why some Democrats fear they are about to swap.",
+      "date": "2026-07-23"
+    },
     {
       "title": "Once Anti-Abortion, Now a Progressive: The Evolution of a Maine Democrat",
       "summary": "Troy Jackson, who is expected to become his party’s nominee in the state’s marquee Senate race, has long been an economic populist, but his positions on social issues have changed markedly over time.",
@@ -61,20 +66,21 @@
       "title": "Maine Democrats close in on pick to replace Senate candidate Graham Platner",
       "summary": "Maine Democrats appear to be settling on a frontrunner to replace former Senate candidate Graham Platner in a rushed process to take on Republican Sen. Susan Collins.",
       "date": "2026-07-20"
-    },
-    {
-      "title": "In Maine Senate Race, Jackson Sprints Ahead of Pack, as Bellows Drops Out",
-      "summary": "Troy Jackson, a progressive, solidified his clear edge in the contest to replace Graham Platner, as Shenna Bellows, Jordan Wood and Nirav Shah ended their bids.",
-      "date": "2026-07-20"
     }
   ],
   "sources": [
     {
-      "title": "After deadly shootings, police experts question how well ICE officers are vetted",
+      "title": "Amid a big hiring push, police experts question ICE officer vetting",
       "url": "https://www.npr.org/2026/07/23/nx-s1-5903173/police-experts-question-ice-officer-vetting?utm_source=lootura.com",
       "publishedAt": "2026-07-23T09:00:00.000Z",
       "sourceId": "lootura-us-npr"
+    },
+    {
+      "title": "The Debate Moment That Captures Democrats’ Worries About Troy Jackson",
+      "url": "https://time.com/article/2026/07/23/the-moment-that-explains-why-troy-jackson-has-democrats-spooked/?utm_source=lootura.com",
+      "publishedAt": "2026-07-23T11:00:00.000Z",
+      "sourceId": "lootura-us-time"
     }
   ],
-  "evidenceCount": 0
+  "evidenceCount": 1
 }

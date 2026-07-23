@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/ferran-torres/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/ferran-torres/index.json",
   "description": "Sigue la actividad de \"El Tiburón\" en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-23T02:31:05.539Z",
+  "updatedAt": "2026-07-23T13:51:07.363Z",
   "aliases": [
     "\"El Tiburón\"",
     "Ferran",
@@ -67,6 +67,13 @@
       "date": "2026-07-19"
     }
   ],
-  "sources": [],
+  "sources": [
+    {
+      "title": "Nando Díaz, peluquero de la selección española: «Ferran Torres usa aceite de romero en su pelo. Refuerza el cabello y estimula el crecimiento»",
+      "url": "https://www.abc.es/summum/estilo/belleza/nando-diaz-peluquero-seleccion-espanola-ferran-torres-20260723150116-nt_amp.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-23T13:01:17.000Z",
+      "sourceId": "lootura-es-abc"
+    }
+  ],
   "evidenceCount": 0
 }

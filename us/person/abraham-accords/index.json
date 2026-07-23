@@ -1,0 +1,45 @@
+{
+  "id": "usa-abraham-accords",
+  "name": "Abraham Accords",
+  "type": "person",
+  "locale": "en",
+  "canonicalPath": "/us/person/abraham-accords",
+  "canonicalUrl": "https://atlas.lootura.com/us/person/abraham-accords",
+  "markdownUrl": "https://atlas.lootura.com/us/person/abraham-accords/index.md",
+  "jsonUrl": "https://atlas.lootura.com/us/person/abraham-accords/index.json",
+  "description": "Follow Abraham Accords, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
+  "updatedAt": "2026-07-23T13:51:24.628Z",
+  "aliases": [],
+  "changes": [
+    {
+      "title": "U.S. and Saudis sign nuclear deal, contingent on joining Abraham Accords",
+      "summary": "President Trump said on Thursday the deal would include no enrichment of nuclear material.",
+      "date": "2026-07-23"
+    },
+    {
+      "title": "As Part of Nuclear Deal, Trump Demands Saudi Arabia Join the Abraham Accords",
+      "summary": "The president’s new condition could create a roadblock to the Saudi nuclear deal his administration announced this week.",
+      "date": "2026-07-23"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Abraham Accords first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-07-23"
+    }
+  ],
+  "sources": [
+    {
+      "title": "U.S. and Saudis sign nuclear deal, contingent on joining Abraham Accords",
+      "url": "https://www.cbsnews.com/news/us-deal-saudis-enrich-nuclear-program/?utm_source=lootura.com",
+      "publishedAt": "2026-07-23T13:33:29.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
+    {
+      "title": "As Part of Nuclear Deal, Trump Demands Saudi Arabia Join the Abraham Accords",
+      "url": "https://www.nytimes.com/2026/07/23/us/politics/saudi-nuclear-deal-israel.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-23T13:26:54.000Z",
+      "sourceId": "lootura-us-the-new-york-times-politics"
+    }
+  ],
+  "evidenceCount": 2
+}

@@ -1,16 +1,41 @@
 {
   "id": "es-el-gobierno",
   "name": "El Gobierno",
-  "type": "person",
+  "type": "organization",
   "locale": "es",
   "canonicalPath": "/es/organization/el-gobierno",
   "canonicalUrl": "https://atlas.lootura.com/es/organization/el-gobierno",
   "markdownUrl": "https://atlas.lootura.com/es/organization/el-gobierno/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/el-gobierno/index.json",
   "description": "Sigue la actividad de El Gobierno en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-23T10:20:05.700Z",
+  "updatedAt": "2026-07-23T13:51:07.363Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "Qué es la OIT: el organismo de Naciones Unidas para el que Yolanda Díaz ha sido propuesta para la dirección general por el Gobierno",
+      "summary": "El Gobierno ha respaldado la candidatura de Yolanda Díaz para optar a la dirección general del organismo de Naciones Unidas , la Organización Internacional del Trabajo (OIT) . La elección, prevista para noviembre, sitúa el foco en una institución clave para las políticas laborales internacionales y en el papel que dese.",
+      "date": "2026-07-23"
+    },
+    {
+      "title": "El Gobierno declara la guerra al tabaco con la recaudación de los cigarrillos y vapeadores en máximos históricos",
+      "summary": "El Gobierno pretende que en España se fume cada vez en menos lugares. El proyecto de ley del tabaco aprobado esta semana por el Consejo de Ministros amplía los espacios sin humo a las terrazas , las playas, las piscinas de uso colectivo y otros espacios al aire libre, endurece las restricciones sobre los cigarrillos el.",
+      "date": "2026-07-23"
+    },
+    {
+      "title": "El Gobierno reparte 23,7 millones en ayudas directas a 84 entidades culturales hasta 2029",
+      "summary": "El Gobierno ha aprobado un Real Decreto por el que regula la concesión directa de 23.661.710 euros en subvenciones a 84 administraciones públicas y entidades culturales para el periodo 2026-2029, destinadas a proyectos relacionados con la conservación del patrimonio histórico, la actividad museística, la creación conte.",
+      "date": "2026-07-23"
+    },
+    {
+      "title": "El Gobierno lanza a Díaz como candidata para dirigir la Organización Internacional del Trabajo",
+      "summary": "Despejada la incógnita sobre el futuro político de Yolanda Díaz, que, tras claudicar en su propio proyecto político en España —Sumar, ahora descabezado—, aspira ahora a recolocarse en las Naciones Unidas. La dirigente izquierdista se postula oficialmente para liderar la Organización Internacional del Trabajo (OIT) en G.",
+      "date": "2026-07-23"
+    },
+    {
+      "title": "El Gobierno salva el escudo anticrisis por la guerra en Irán con rebajas fiscales en los carburantes hasta octubre",
+      "summary": "El Ejecutivo ata los apoyos de sus socios habituales pese a las críticas de algunos como Podemos, que cuestionan las rebajas fiscales mientras energéticas como Repsol disparan sus beneficios PSOE y Sumar pactan que el decreto de vivienda incluya una prórroga de los alquileres hasta julio de 2028 El Gobierno ha salvado.",
+      "date": "2026-07-23"
+    },
     {
       "title": "El Gobierno pide a Zapatero \"que cuente la verdad\" en la primera entrevista que concede tras ser investigado por el rescate de Plus Ultra",
       "summary": "El expresidente del Gobierno José Luis Rodríguez Zapatero será entrevistado este jueves en el programa 'Mañaneros 360' de TVE a las 13.00 horas . Se trata de la primera entrevista concedida por el expresidente socialista tras su imputación por el rescate a la aerolínea Plus Ultra y su posterior declaración ante el juez.",
@@ -27,59 +52,22 @@
       "date": "2026-07-23"
     },
     {
-      "title": "Qué es la OIT: el organismo de Naciones Unidas para el que Yolanda Díaz ha sido propuesta para la dirección general por el Gobierno",
-      "summary": "El Gobierno ha respaldado la candidatura de Yolanda Díaz para optar a la dirección general del organismo de Naciones Unidas , la Organización Internacional del Trabajo (OIT) . La elección, prevista para noviembre, sitúa el foco en una institución clave para las políticas laborales internacionales y en el papel que dese.",
-      "date": "2026-07-23"
-    },
-    {
       "title": "El Gobierno propone a Yolanda Díaz para dirigir la Organización Internacional del Trabajo",
       "summary": "Sánchez destaca que la vicepresidenta \"ha demostrado con políticas y resultados su compromiso con los derechos laborales, el diálogo social y la prosperidad de España\" Leer.",
-      "date": "2026-07-23"
-    },
-    {
-      "title": "El Gobierno declara la guerra al tabaco con la recaudación de los cigarrillos y vapeadores en máximos históricos",
-      "summary": "El Gobierno pretende que en España se fume cada vez en menos lugares. El proyecto de ley del tabaco aprobado esta semana por el Consejo de Ministros amplía los espacios sin humo a las terrazas , las playas, las piscinas de uso colectivo y otros espacios al aire libre, endurece las restricciones sobre los cigarrillos el.",
       "date": "2026-07-23"
     },
     {
       "title": "El Gobierno propone a la vicepresidenta Yolanda Díaz como candidata a dirigir la OIT",
       "summary": "El presidente Sánchez anuncia el \"honor\" de postular a su ministra de Trabajo quien \"ha demostrado con políticas y resultados su compromiso con los derechos laborales, el diálogo social y la prosperidad de España\" Qué es la OIT: el organismo de Naciones Unidas amenazado por Trump en el que sitúan a Yolanda Díaz El Gobi.",
       "date": "2026-07-23"
-    },
-    {
-      "title": "El Gobierno reparte 23,7 millones en ayudas directas a 84 entidades culturales hasta 2029",
-      "summary": "El Gobierno ha aprobado un Real Decreto por el que regula la concesión directa de 23.661.710 euros en subvenciones a 84 administraciones públicas y entidades culturales para el periodo 2026-2029, destinadas a proyectos relacionados con la conservación del patrimonio histórico, la actividad museística, la creación conte.",
-      "date": "2026-07-23"
-    },
-    {
-      "title": "El Gobierno declara la guerra al tabaco con la recaudación de los cigarrillos y vapeadores en máximos históricos",
-      "summary": "El Gobierno pretende que en España se fume cada vez en menos lugares. El proyecto de ley del tabaco aprobado esta semana por el Consejo de Ministros amplía los espacios sin humo a las terrazas , las playas, las piscinas de uso colectivo y otros espacios al aire libre, endurece las restricciones sobre los cigarrillos el.",
-      "date": "2026-07-23"
-    },
-    {
-      "title": "El Gobierno mide hoy sus apoyos en el último examen parlamentario del curso político",
-      "summary": "Después del fracaso parlamentario del pasado martes, 14 de julio, el Gobierno se enfrenta hoy al último examen del Congreso de los Diputados antes de las vacaciones políticas de...",
-      "date": "2026-07-23"
     }
   ],
   "sources": [
     {
-      "title": "El Gobierno pide a Zapatero \"que cuente la verdad\" en la primera entrevista que concede tras ser investigado por el rescate de Plus Ultra",
-      "url": "https://www.20minutos.es/nacional/entrevista-zapatero-directo-ultimas-noticias-corrupcion-psoe-rescate-plus-ultra_7018066_6.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-23T09:29:39.000Z",
-      "sourceId": "lootura-es-20minutos"
-    },
-    {
-      "title": "El Gobierno reintentará tras el verano firmar el Pacto de Estado antiincendios y confía en que el PP se sume tras ver \"rectificar\" a Feijóo",
-      "url": "https://www.20minutos.es/nacional/gobierno-reintentara-tras-verano-firmar-pacto-estado-antiincendios-confia-que-pp-se-sume-tras-ver-rectificar-feijoo_7018004_0.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-23T08:23:18.000Z",
-      "sourceId": "lootura-es-20minutos"
-    },
-    {
-      "title": "El Gobierno propone a Yolanda Díaz como directora general de la OIT, el organismo de la ONU dedicado al trabajo",
-      "url": "https://elpais.com/economia/2026-07-23/el-gobierno-propone-a-yolanda-diaz-como-directora-general-de-la-oit-el-organismo-de-la-onu-dedicado-al-trabajo.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-23T06:46:14.000Z",
-      "sourceId": "lootura-es-cinco-dias"
+      "title": "El Gobierno lanza a Díaz como candidata para dirigir la Organización Internacional del Trabajo",
+      "url": "https://www.abc.es/espana/moncloa-propone-yolanda-diaz-optar-direccion-general-20260723090113-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-23T13:23:46.000Z",
+      "sourceId": "lootura-es-abc"
     },
     {
       "title": "Qué es la OIT: el organismo de Naciones Unidas para el que Yolanda Díaz ha sido propuesta para la dirección general por el Gobierno",
@@ -88,21 +76,15 @@
       "sourceId": "lootura-es-el-confidencial"
     },
     {
-      "title": "El Gobierno propone a Yolanda Díaz para dirigir la Organización Internacional del Trabajo",
-      "url": "https://www.elmundo.es/economia/2026/07/23/6a61bd11e4d4d85a3e8b456f.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-23T07:55:56.000Z",
-      "sourceId": "lootura-es-el-mundo"
-    },
-    {
       "title": "El Gobierno declara la guerra al tabaco con la recaudación de los cigarrillos y vapeadores en máximos históricos",
       "url": "https://elpais.com/economia/2026-07-23/el-gobierno-declara-la-guerra-al-tabaco-con-la-recaudacion-de-los-cigarrillos-y-vapeadores-en-maximos-historicos.html?utm_source=lootura.com",
       "publishedAt": "2026-07-23T03:45:00.000Z",
       "sourceId": "lootura-es-el-pais"
     },
     {
-      "title": "El Gobierno propone a la vicepresidenta Yolanda Díaz como candidata a dirigir la OIT",
-      "url": "https://www.eldiario.es/economia/gobierno-propone-vicepresidenta-yolanda-diaz-candidata-dirigir-oit_1_13400602.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-23T06:55:31.000Z",
+      "title": "El Gobierno salva el escudo anticrisis por la guerra en Irán con rebajas fiscales en los carburantes hasta octubre",
+      "url": "https://www.eldiario.es/economia/gobierno-salva-escudo-anticrisis-guerra-iran-rebajas-fiscales-carburantes-octubre_1_13401170.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-23T11:00:50.000Z",
       "sourceId": "lootura-es-eldiario-es"
     },
     {
@@ -112,5 +94,5 @@
       "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 8
+  "evidenceCount": 5
 }

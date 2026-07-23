@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/portugal/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/portugal/index.json",
   "description": "Sigue la actividad de República Portuguesa en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-22T17:15:40.463Z",
+  "updatedAt": "2026-07-23T13:51:07.363Z",
   "aliases": [
     "POR",
     "PRT",
@@ -68,6 +68,13 @@
       "date": "2026-07-10"
     }
   ],
-  "sources": [],
+  "sources": [
+    {
+      "title": "Bankinter da hipotecas en Portugal e Irlanda, pero pocas en España",
+      "url": "https://www.expansion.com/empresas/banca/2026/07/23/6a61f7a9468aeb99128b4588.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-23T11:14:52.000Z",
+      "sourceId": "lootura-es-expansion"
+    }
+  ],
   "evidenceCount": 0
 }

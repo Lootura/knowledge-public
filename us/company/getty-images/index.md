@@ -3,10 +3,16 @@
 > Follow Getty Images, a tracked company, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: company
-- Updated: 2026-07-22T21:09:05.351Z
+- Updated: 2026-07-23T13:51:24.628Z
 - Canonical: https://atlas.lootura.com/us/company/getty-images
 
 ## Recent changes
+
+### Tick Bites Are Causing Red-Meat Allergies. What to Know About Alpha-Gal Syndrome
+
+An adult female lone star tick (Amblyomma americanum) crawls on a blade of grass. Image courtesy CDC. (Photo by Smith Collection/Gado/Getty Images) Doctors in the U.S. are hearing an odd complaint from their patients more frequently: lifelong meat eaters are suddenly breaking out into hives, getting bad stomach pains ,.
+
+Date: 2026-07-23
 
 ### Is Mushroom Coffee Healthy? Here's What to Know
 
@@ -64,4 +70,4 @@ Date: 2026-07-16
 
 ## Sources
 
-No public source links.
+- [Tick Bites Are Causing Red-Meat Allergies. What to Know About Alpha-Gal Syndrome](https://time.com/article/2026/07/23/ticks-alpha-gal-red-meat-allergy/?utm_source=lootura.com) — 2026-07-23T13:31:21.000Z

@@ -3,7 +3,7 @@
 > Sigue la actividad de Startups en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: market
-- Actualizado: 2026-07-23T10:20:05.700Z
+- Actualizado: 2026-07-23T13:51:07.363Z
 - Canonical: https://atlas.lootura.com/es/market/startups
 
 ## Cambios recientes
@@ -16,4 +16,4 @@ Date: 2026-07-23
 
 ## Fuentes
 
-- [Ford y la china Geely se alían en una empresa conjunta para elevar la producción de Almussafes a cinco coches](https://www.20minutos.es/comunidad-valenciana/ford-china-geely-se-alian-una-empresa-conjunta-para-elevar-produccion-almussafes-cinco-vehiculos_7018077_0.html?utm_source=lootura.com) — 2026-07-23T09:43:48.000Z
+- [Ford vende a la china Geely el 34% de su planta de Valencia, donde ambas fabricarán cinco modelos](https://www.elmundo.es/economia/empresas/2026/07/23/6a61de0d21efa09d488b45ae.html?utm_source=lootura.com) — 2026-07-23T10:21:20.000Z

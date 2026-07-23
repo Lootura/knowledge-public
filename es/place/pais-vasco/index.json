@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/pais-vasco/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/pais-vasco/index.json",
   "description": "Sigue la actividad de País Vasco en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-23T10:20:05.700Z",
+  "updatedAt": "2026-07-23T13:51:07.363Z",
   "aliases": [
     "Autonomous Community of the Basque Country",
     "Basque Autonomous Community",
@@ -26,6 +26,11 @@
     {
       "title": "Rebajan la condena de siete a tres años y medio de cárcel a un vizcaíno por tenencia ilícita de armas y fabricación de munición",
       "summary": "El Tribunal Superior de Justicia del País Vasco le absuelve del delito de depósito de explosivos.",
+      "date": "2026-07-23"
+    },
+    {
+      "title": "Las comunidades del PP plantan al Gobierno en la reunión sobre regularización de migrantes y fuerzan su suspensión",
+      "summary": "La reunión, destinada a abordar el balance del proceso de regularización extraordinaria de migrantes o la aplicación del Pacto Europeo de Migración y Asilo, solo ha contado con la representación de seis autonomías: Navarra, Euskadi, Catalunya, Canarias, Asturias y Castilla-La Mancha El Tribunal Supremo rechaza llevar l.",
       "date": "2026-07-23"
     },
     {
@@ -67,11 +72,6 @@
       "title": "El retraso en la devolución de las fianzas de los alquileres en Euskadi obliga a Vivienda a pagar intereses",
       "summary": "El plazo se ha duplicado en un año, pasando de mes y medio a tres meses, y el Gobierno Vasco lo achaca a «problemas de personal».",
       "date": "2026-07-17"
-    },
-    {
-      "title": "La economía vasca mantiene el pulso y avanza un 2,1% en el segundo trimestre",
-      "summary": "Euskadi desafía la incertidumbre de la guerra gracias al tirón de los servicios y la construcción.",
-      "date": "2026-07-17"
     }
   ],
   "sources": [
@@ -80,7 +80,13 @@
       "url": "https://www.elcorreo.com/bizkaia/condenan-tres-anos-medio-carcel-vecino-bizkaia-20260723114522-nt_amp.html?utm_source=lootura.com",
       "publishedAt": "2026-07-23T09:45:22.000Z",
       "sourceId": "lootura-es-el-correo"
+    },
+    {
+      "title": "Las comunidades del PP plantan al Gobierno en la reunión sobre regularización de migrantes y fuerzan su suspensión",
+      "url": "https://www.eldiario.es/desalambre/comunidades-pp-plantan-gobierno-reunion-regularizacion-migrantes_1_13401812.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-23T12:04:37.000Z",
+      "sourceId": "lootura-es-eldiario-es"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 2
 }

@@ -1,0 +1,45 @@
+{
+  "id": "es-comunicacion-audiovisual",
+  "name": "Comunicación audiovisual",
+  "type": "concept",
+  "locale": "es",
+  "canonicalPath": "/es/concept/comunicacion-audiovisual",
+  "canonicalUrl": "https://atlas.lootura.com/es/concept/comunicacion-audiovisual",
+  "markdownUrl": "https://atlas.lootura.com/es/concept/comunicacion-audiovisual/index.md",
+  "jsonUrl": "https://atlas.lootura.com/es/concept/comunicacion-audiovisual/index.json",
+  "description": "Sigue la actividad de Comunicación audiovisual en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
+  "updatedAt": "2026-07-23T13:51:07.363Z",
+  "aliases": [],
+  "changes": [
+    {
+      "title": "La CNMC impone una multa de 4.000 euros a los ‘influencers’ Ibai Llanos, Jordi Wild y Nachter",
+      "summary": "La Comisión Nacional de los Mercados y la Competencia (CNMC) ha sancionado a los creadores de contenido, o influencers, Ibai Llanos, Jordi Wild y Nachter con multas conjuntas de más 4.000 euros . La resolución responde al incumplimiento de la Ley General de Comunicación Audiovisual en materia de identificación publicit.",
+      "date": "2026-07-23"
+    },
+    {
+      "title": "Multa histórica de 4.000 euros a Ibai Llanos, Jordi Wild y Nachter por sus contenidos en redes sociales",
+      "summary": "La Comisión Nacional de los Mercados y la Competencia ha impuesto un total de tres sanciones a Ibai Llanos, Jordi Wild y el influencer Nachter por vulnerar la Ley General de Comunicación Audiovisual . La multa asciende a un conjunto de unos 4.000 euros, y el motivo no es otro que el indebido cumplimiento de la ley que.",
+      "date": "2026-07-23"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Comunicación Audiovisual first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-07-23"
+    }
+  ],
+  "sources": [
+    {
+      "title": "La CNMC impone una multa de 4.000 euros a los ‘influencers’ Ibai Llanos, Jordi Wild y Nachter",
+      "url": "https://elpais.com/economia/2026-07-23/la-cnmc-impone-una-multa-de-4000-euros-a-los-influencers-ibai-llanos-jordi-wild-y-nachter.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-23T10:30:20.000Z",
+      "sourceId": "lootura-es-cinco-dias"
+    },
+    {
+      "title": "Multa histórica de 4.000 euros a Ibai Llanos, Jordi Wild y Nachter por sus contenidos en redes sociales",
+      "url": "https://hipertextual.com/actualidad/multa-historica-de-4-000-euros-a-ibai-llanos-jordi-wild-y-nachter-por-sus-contenidos-en-redes-sociales/?utm_source=lootura.com",
+      "publishedAt": "2026-07-23T12:12:27.000Z",
+      "sourceId": "lootura-es-hipertextual"
+    }
+  ],
+  "evidenceCount": 2
+}

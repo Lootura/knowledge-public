@@ -3,10 +3,34 @@
 > Sigue la actividad de Irán en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-23T10:20:05.700Z
+- Actualizado: 2026-07-23T13:51:07.363Z
 - Canonical: https://atlas.lootura.com/es/place/iran
 
 ## Cambios recientes
+
+### El BCE mantiene los tipos en el 2,25% a pesar de la escalada de los precios de la energía
+
+El consejo de gobierno del Banco Central Europeo (BCE) ha decidido mantener los tipos de interés en el 2,25% , a pesar de las últimas tensiones derivadas del conflicto de Irán y del encarecimiento del precio del petróleo, que ha rozado este jueves los 100 dólares por barril, provocando otra subida del coste de los comb.
+
+Date: 2026-07-23
+
+### Lagarde mantiene tipos en el 2,25% y deja la siguiente subida para septiembre: “El shock energético puede intensificarse”
+
+El precio del petróleo se acerca a los 100 dólares el barril y el del gas en Europa se dispara al nivel más alto desde que empezó la guerra de Irán . El coste de la energía vuelve a ser un motivo de preocupación en la zona euro pero el Banco Central Europeo (BCE) ha decidido este jueves no avanzar en las subidas de tip.
+
+Date: 2026-07-23
+
+### El BCE mantiene los tipos y anticipa una nueva subida en septiembre si la guerra en Irán persiste
+
+El Eurobanco deja los tipos de interés en el 2,25% y aplaza cualquier decisión a después del verano, cuando contará con nuevas previsiones macroeconómicas.
+
+Date: 2026-07-23
+
+### El Gobierno salva el escudo anticrisis por la guerra en Irán con rebajas fiscales en los carburantes hasta octubre
+
+El Ejecutivo ata los apoyos de sus socios habituales pese a las críticas de algunos como Podemos, que cuestionan las rebajas fiscales mientras energéticas como Repsol disparan sus beneficios PSOE y Sumar pactan que el decreto de vivienda incluya una prórroga de los alquileres hasta julio de 2028 El Gobierno ha salvado.
+
+Date: 2026-07-23
 
 ### El precio de los carburantes, desbocado por el fin de la rebaja del IVA: el depósito se encarece un 13% en tres semanas, un euro extra cada 48 horas
 
@@ -44,31 +68,9 @@ En plena escalada de tensiones bélicas con Irán, el Gobierno de Estados Unidos
 
 Date: 2026-07-22
 
-### Hegseth eleva el coste de la guerra con Irán y pide financiación adicional «urgente»
-
-La Casa Blanca ha elevado a cerca de 37.500 millones de dólares (cerca de 32.875 millones de euros) el coste de la guerra con Irán, desatada por la ofensiva lanzada por sorpresa el 28 de febrero por fuerzas estadounidenses e israelíes contra el país centroasiático en plenas conversaciones diplomáticas entre Washington.
-
-Date: 2026-07-22
-
-### EEUU lanza nuevos ataques contra Irán que eclipsan los esfuerzos diplomáticos
-
-Leer.
-
-Date: 2026-07-22
-
-### El Ibex sube a los 19.500 puntos pese al alza del petróleo y ante los resultados de las grandes tecnológicas
-
-El pesimismo en torno a las negociaciones de paz entre EE UU e Irán, después de que el el gobierno estadounidense restara importancia a la posibilidad de conversaciones inmediatas con Teherán, y la creciente amenaza a los suministros energéticos de Oriente Próximo derivada de un bloqueo naval dirigido contra Arabia Sau.
-
-Date: 2026-07-22
-
-### Cautela en las Bolsas ante los resultados de las grandes tecnológicas y con el petróleo al alza
-
-El pesimismo en torno a las negociaciones de paz entre EE UU e Irán, después de que el presidente Donald Trump restara importancia a la posibilidad de conversaciones inmediatas con Teherán, y la creciente amenaza a los suministros energéticos de Oriente Próximo derivada de un bloqueo naval dirigido contra Arabia Saudí.
-
-Date: 2026-07-22
-
 ## Fuentes
 
-- [Ford y la china Geely se alían en una empresa conjunta para elevar la producción de Almussafes a cinco coches](https://www.20minutos.es/comunidad-valenciana/ford-china-geely-se-alian-una-empresa-conjunta-para-elevar-produccion-almussafes-cinco-vehiculos_7018077_0.html?utm_source=lootura.com) — 2026-07-23T09:43:48.000Z
-- [El precio de los carburantes, desbocado por el fin de la rebaja del IVA: el depósito se encarece un 13% en tres semanas, un euro extra cada 48 horas](https://www.larazon.es/economia/precio-carburantes-desbocado-fin-rebaja-iva-deposito-encarece-13-tres-semanas-euro-extra-cada-48-horas_202607236a61e729aa17c0020f2b603d.html?utm_source=lootura.com) — 2026-07-23T10:05:15.000Z
+- [El BCE mantiene los tipos en el 2,25% a pesar de la escalada de los precios de la energía](https://www.abc.es/economia/bce-mantiene-tipos-225-pesar-riesgos-derivados-20260723141757-nt.html?utm_source=lootura.com) — 2026-07-23T12:37:19.000Z
+- [Lagarde mantiene tipos en el 2,25% y deja la siguiente subida para septiembre: “El shock energético puede intensificarse”](https://elpais.com/economia/2026-07-23/el-bce-mantiene-tipos-en-el-225-y-deja-la-siguiente-subida-para-septiembre.html?utm_source=lootura.com) — 2026-07-23T13:07:08.000Z
+- [El BCE mantiene los tipos y anticipa una nueva subida en septiembre si la guerra en Irán persiste](https://www.elcorreo.com/economia/bce-mantiene-tipos-anticipa-nueva-subida-septiembre-20260723141530-ntrc_amp.html?utm_source=lootura.com) — 2026-07-23T12:16:09.000Z
+- [El Gobierno salva el escudo anticrisis por la guerra en Irán con rebajas fiscales en los carburantes hasta octubre](https://www.eldiario.es/economia/gobierno-salva-escudo-anticrisis-guerra-iran-rebajas-fiscales-carburantes-octubre_1_13401170.html?utm_source=lootura.com) — 2026-07-23T11:00:50.000Z

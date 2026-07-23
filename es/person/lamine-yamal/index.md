@@ -3,10 +3,16 @@
 > Sigue la actividad de Lamine Yamal en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-22T02:26:20.882Z
+- Actualizado: 2026-07-23T13:51:07.363Z
 - Canonical: https://atlas.lootura.com/es/person/lamine-yamal
 
 ## Cambios recientes
+
+### El universo de Sheila Ebana alrededor de la fama de su hijo Lamine Yamal: de las redes a experiencias de 800 €
+
+La irrupción de Lamine Yamal en la élite del fútbol ha cambiado la vida de quienes forman parte de su entorno más cercano. Uno de los casos más llamativos es el de Sheila Ebana , su madre, que durante años permaneció alejada del foco mediático y que ahora se ha convertido en una figura muy seguida tanto en redes social.
+
+Date: 2026-07-23
 
 ### De Keyne, el hermano de Lamine Yamal, a la familia numerosa de Cucurella: los apoyos de los jugadores de la selección española fuera del campo
 
@@ -62,12 +68,6 @@ nació el 13 de julio de 2007 en Esplugues de Llobregat, hijo de Mounir Nasraoui
 
 Date: 2026-07-13
 
-### Discovered by Atlas
-
-Lamine Yamal first entered the public knowledge record with source-backed evidence.
-
-Date: 2026-07-10
-
 ## Fuentes
 
-No public source links.
+- [El universo de Sheila Ebana alrededor de la fama de su hijo Lamine Yamal: de las redes a experiencias de 800 €](https://okdiario.com/cool/famosos/asi-convertido-sheila-ebana-fama-lamine-yamal-negocio-redes-sociales-cenas-800-euros-19049341?utm_source=lootura.com) — 2026-07-23T13:01:06.000Z

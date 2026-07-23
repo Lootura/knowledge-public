@@ -70,4 +70,4 @@ Date: 2026-07-19
 
 ## Sources
 
-- [Trump’s 50% Tariffs on Canada: What to Know, and What’s Next](https://www.nytimes.com/2026/07/22/world/canada/canada-trump-tariffs-trade.html?utm_source=lootura.com) — 2026-07-22T20:33:31.000Z
+No public source links.

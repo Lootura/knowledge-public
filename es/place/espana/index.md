@@ -3,22 +3,10 @@
 > Sigue la actividad de España en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-23T10:20:05.700Z
+- Actualizado: 2026-07-23T13:51:07.363Z
 - Canonical: https://atlas.lootura.com/es/place/espana
 
 ## Cambios recientes
-
-### Indra duplica la cartera de pedidos por encima de los 20.500 millones y gana un 2% más hasta junio
-
-Indra, el llamado a ser el gigante terrestre de la industria militar en España, tiene una suculenta cartera de pedidos por delante. Según los resultados del primer semestre publicados este jueves por la cotizada en el Ibex 35, Indra cuenta con pedidos por valor de 20.533 millones, un 117% más que hace un año, cuando el.
-
-Date: 2026-07-23
-
-### Consulta el mapa de incendios en España en tiempo real: focos activos en La Mierla (Guadalajara), Almorox (Toledo), Aragón, Andalucía, en directo
-
-La evolución de los principales focos obliga a mantener un amplio dispositivo de emergencia mientras miles de hectáreas siguen afectadas y varias localidades permanecen pendientes de la evolución de las llamas.
-
-Date: 2026-07-23
 
 ### De la generación sin humo británica a fumar en los bares alemanes: así lucha Europa contra el tabaco
 
@@ -29,12 +17,6 @@ Date: 2026-07-23
 ### La CNC alerta de una crisis en la obra pública con 1.900 contratos desiertos o con una sola oferta en el primer semestre
 
 El incremento de costes en la obra pública, por el encarecimiento de materiales básicos y de la energía , está dejando centenares de licitaciones desiertas en España . El presidente de la Confederación Nacional de la Construcción (CNC), Pedro Fernández Alén, ha presentado esta mañana un informe que aflora una media de.
-
-Date: 2026-07-23
-
-### El Gobierno propone a Yolanda Díaz para dirigir la Organización Internacional del Trabajo
-
-Sánchez destaca que la vicepresidenta "ha demostrado con políticas y resultados su compromiso con los derechos laborales, el diálogo social y la prosperidad de España" Leer.
 
 Date: 2026-07-23
 
@@ -50,33 +32,48 @@ El Gobierno pretende que en España se fume cada vez en menos lugares. El proyec
 
 Date: 2026-07-23
 
-### El Gobierno propone a la vicepresidenta Yolanda Díaz como candidata a dirigir la OIT
+### El Gobierno lanza a Díaz como candidata para dirigir la Organización Internacional del Trabajo
 
-El presidente Sánchez anuncia el "honor" de postular a su ministra de Trabajo quien "ha demostrado con políticas y resultados su compromiso con los derechos laborales, el diálogo social y la prosperidad de España" Qué es la OIT: el organismo de Naciones Unidas amenazado por Trump en el que sitúan a Yolanda Díaz El Gobi.
-
-Date: 2026-07-23
-
-### Quiénes son los asesores fiscales de las grandes fortunas de España
-
-Las fortunas más grandes del mundo cuentan con los mejores asesores fiscales que les ayudan no sólo a sacar más partido de su dinero con inversiones acertadas, sino también a...
+Despejada la incógnita sobre el futuro político de Yolanda Díaz, que, tras claudicar en su propio proyecto político en España —Sumar, ahora descabezado—, aspira ahora a recolocarse en las Naciones Unidas. La dirigente izquierdista se postula oficialmente para liderar la Organización Internacional del Trabajo (OIT) en G.
 
 Date: 2026-07-23
 
-### Andalucía lidera las exportaciones de alimentos y bebidas de España, con un récord de 8.165 millones hasta mayo
+### Incendios en España, en directo: un incendio produce el corte de la circulación Madrid-Barcelona
 
-Las exportaciones agroalimentarias de Andalucía alcanzaron los 8.165 millones de euros entre enero y mayo de 2026, su mejor registro para los primeros cinco meses de un año desde que se tienen datos homologables (1995), gracias a un crecimiento interanual del 1,6%, la mayor subida de las ocho comunidades más exportador.
+Los equipos de extinción continúan desplegados en distintos puntos del país para hacer frente a una de las jornadas más complejas de la campaña de incendios forestales. Mientras el incendio de La Mierla (Guadalajara) sigue evolucionando favorablemente y los trabajos se centran en consolidar el perímetro, otros focos ma.
+
+Date: 2026-07-23
+
+### Una exministra de Sánchez gobierna la ciudad que más tarda en pagar de toda España: 80 días, según Hacienda
+
+El Ayuntamiento de Las Palmas de Gran Canaria tardó una media de 80,43 días en pagar sus facturas en mayo -un dato lastrado por dos sociedades municipales, la de Promoción de la Ciudad (89,41) y la urbanística Geursa (90,66) -, según las cifras que difundió esta semana el Ministerio de Hacienda . Es casi el triple del.
+
+Date: 2026-07-23
+
+### Indra duplica la cartera de pedidos por encima de los 20.500 millones y gana un 2% más hasta junio
+
+Indra, el llamado a ser el gigante terrestre de la industria militar en España, tiene una suculenta cartera de pedidos por delante. Según los resultados del primer semestre publicados este jueves por la cotizada en el Ibex 35, Indra cuenta con pedidos por valor de 20.533 millones, un 117% más que hace un año, cuando el.
+
+Date: 2026-07-23
+
+### Consulta el mapa de incendios en España en tiempo real: focos activos en La Mierla (Guadalajara), Almorox (Toledo), Aragón, Andalucía, en directo
+
+La evolución de los principales focos obliga a mantener un amplio dispositivo de emergencia mientras miles de hectáreas siguen afectadas y varias localidades permanecen pendientes de la evolución de las llamas.
+
+Date: 2026-07-23
+
+### El Gobierno propone a Yolanda Díaz para dirigir la Organización Internacional del Trabajo
+
+Sánchez destaca que la vicepresidenta "ha demostrado con políticas y resultados su compromiso con los derechos laborales, el diálogo social y la prosperidad de España" Leer.
 
 Date: 2026-07-23
 
 ## Fuentes
 
-- [El avión de Iberia vinilado de la selección aterriza en Buenos Aires](https://www.abc.es/deportes/futbol/mundial/avion-iberia-vinilado-jugadores-seleccion-espanola-aterriza-20260723101436-nt.html?utm_source=lootura.com) — 2026-07-23T09:38:01.000Z
-- [Indra duplica la cartera de pedidos por encima de los 20.500 millones y gana un 2% más hasta junio](https://cincodias.elpais.com/companias/2026-07-23/indra-duplica-la-cartera-de-pedidos-por-encima-de-los-20500-millones-y-gana-un-2-mas-hasta-junio.html?utm_source=lootura.com) — 2026-07-23T06:17:07.000Z
+- [El Gobierno lanza a Díaz como candidata para dirigir la Organización Internacional del Trabajo](https://www.abc.es/espana/moncloa-propone-yolanda-diaz-optar-direccion-general-20260723090113-nt.html?utm_source=lootura.com) — 2026-07-23T13:23:46.000Z
 - [La CNC alerta de una crisis en la obra pública con 1.900 contratos desiertos o con una sola oferta en el primer semestre](https://cincodias.elpais.com/companias/2026-07-23/la-cnc-alerta-de-una-crisis-en-la-obra-publica-con-1900-contratos-desiertos-o-con-una-sola-oferta-en-el-primer-semestre.html?utm_source=lootura.com) — 2026-07-23T10:09:18.000Z
-- [Consulta el mapa de incendios en España en tiempo real: focos activos en La Mierla (Guadalajara), Almorox (Toledo), Aragón, Andalucía, en directo](https://www.elconfidencial.com/espana/2026-07-23/1qrt-mapa-incendios-espana-directo-mierla-almorox-andalucia-focos-activos_4394031/?utm_source=lootura.com) — 2026-07-23T06:03:00.000Z
-- [El Gobierno propone a Yolanda Díaz para dirigir la Organización Internacional del Trabajo](https://www.elmundo.es/economia/2026/07/23/6a61bd11e4d4d85a3e8b456f.html?utm_source=lootura.com) — 2026-07-23T07:55:56.000Z
 - [De la generación sin humo británica a fumar en los bares alemanes: así lucha Europa contra el tabaco](https://elpais.com/sociedad/2026-07-23/de-la-generacion-sin-humo-britanica-a-fumar-en-los-bares-alemanes-asi-lucha-europa-contra-el-tabaco.html?utm_source=lootura.com) — 2026-07-23T03:30:01.000Z
 - [Castilla-La Mancha se suma a los avisos rojos por calor de Murcia y la Comunidad Valenciana](https://elpais.com/clima-y-medio-ambiente/2026-07-23/la-tercera-ola-de-calor-del-verano-se-despide-con-avisos-rojos-en-murcia-y-la-comunidad-valenciana.html?utm_source=lootura.com) — 2026-07-23T10:12:32.000Z
 - [El Gobierno declara la guerra al tabaco con la recaudación de los cigarrillos y vapeadores en máximos históricos](https://elpais.com/economia/2026-07-23/el-gobierno-declara-la-guerra-al-tabaco-con-la-recaudacion-de-los-cigarrillos-y-vapeadores-en-maximos-historicos.html?utm_source=lootura.com) — 2026-07-23T03:45:00.000Z
-- [El Gobierno propone a la vicepresidenta Yolanda Díaz como candidata a dirigir la OIT](https://www.eldiario.es/economia/gobierno-propone-vicepresidenta-yolanda-diaz-candidata-dirigir-oit_1_13400602.html?utm_source=lootura.com) — 2026-07-23T06:55:31.000Z
-- [Quiénes son los asesores fiscales de las grandes fortunas de España](https://amp.expansion.com/juridico/actualidad-tendencias/2026/07/23/6a61cc05468aeb225a8b457a.html?utm_source=lootura.com) — 2026-07-23T08:08:41.000Z
+- [Incendios en España, en directo: un incendio produce el corte de la circulación Madrid-Barcelona](https://www.larazon.es/sociedad/incendios-espana-directo-hoy-ultima-hora-fuegos-activos-operativos-extincion_202607236a6192fada3add27d4dd1811.html?utm_source=lootura.com) — 2026-07-23T13:40:17.000Z
+- [Una exministra de Sánchez gobierna la ciudad que más tarda en pagar de toda España: 80 días, según Hacienda](https://www.larazon.es/canarias/exministra-sanchez-gobierna-ciudad-que-mas-tarda-pagar-toda-espana-80-dias-segun-hacienda_202607236a61dd80da3add27d4dd8616.html?utm_source=lootura.com) — 2026-07-23T13:40:13.000Z

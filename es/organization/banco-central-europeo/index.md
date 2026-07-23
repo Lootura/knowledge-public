@@ -3,10 +3,28 @@
 > Sigue la actividad de Banco Central Europeo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-23T06:28:35.711Z
+- Actualizado: 2026-07-23T13:51:07.363Z
 - Canonical: https://atlas.lootura.com/es/organization/banco-central-europeo
 
 ## Cambios recientes
+
+### Discovered by Atlas
+
+Banco Central Europeo first entered the public knowledge record with source-backed evidence.
+
+Date: 2026-07-23
+
+### El BCE mantiene los tipos en el 2,25% a pesar de la escalada de los precios de la energía
+
+El consejo de gobierno del Banco Central Europeo (BCE) ha decidido mantener los tipos de interés en el 2,25% , a pesar de las últimas tensiones derivadas del conflicto de Irán y del encarecimiento del precio del petróleo, que ha rozado este jueves los 100 dólares por barril, provocando otra subida del coste de los comb.
+
+Date: 2026-07-23
+
+### Lagarde mantiene tipos en el 2,25% y deja la siguiente subida para septiembre: “El shock energético puede intensificarse”
+
+El precio del petróleo se acerca a los 100 dólares el barril y el del gas en Europa se dispara al nivel más alto desde que empezó la guerra de Irán . El coste de la energía vuelve a ser un motivo de preocupación en la zona euro pero el Banco Central Europeo (BCE) ha decidido este jueves no avanzar en las subidas de tip.
+
+Date: 2026-07-23
 
 ### El BCE dejará los tipos sin cambios pero sin perder de vista el coste creciente de la energía
 
@@ -20,12 +38,7 @@ La escalada del conflicto en Oriente Próximo tiene una víctima secundaria en l
 
 Date: 2026-07-23
 
-### Discovered by Atlas
-
-Banco Central Europeo first entered the public knowledge record with source-backed evidence.
-
-Date: 2026-07-23
-
 ## Fuentes
 
-No public source links.
+- [El BCE mantiene los tipos en el 2,25% a pesar de la escalada de los precios de la energía](https://www.abc.es/economia/bce-mantiene-tipos-225-pesar-riesgos-derivados-20260723141757-nt.html?utm_source=lootura.com) — 2026-07-23T12:37:19.000Z
+- [Lagarde mantiene tipos en el 2,25% y deja la siguiente subida para septiembre: “El shock energético puede intensificarse”](https://elpais.com/economia/2026-07-23/el-bce-mantiene-tipos-en-el-225-y-deja-la-siguiente-subida-para-septiembre.html?utm_source=lootura.com) — 2026-07-23T13:07:08.000Z

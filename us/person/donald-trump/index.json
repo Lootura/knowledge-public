@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/donald-trump/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/donald-trump/index.json",
   "description": "Follow Donald Trump, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-23T10:20:24.199Z",
+  "updatedAt": "2026-07-23T13:51:24.628Z",
   "aliases": [
     "@realDonaldTrump",
     "DJT",
@@ -50,36 +50,36 @@
       "date": "2026-07-23"
     },
     {
-      "title": "The latest US troops killed in Trump’s Iran war are remembered for lives of service",
-      "summary": "Angel Rampersad, Michael Swinton, Isabella Gonzales and Tyler Feehan were among 18 US troops killed in the war A 30-year-old husband and father of two. A 25-year-old officer just weeks away from earning his MBA. A 19-year-old recent high school graduate. And a 28-year-old from Queens, New York, with a “radiant smile”.",
-      "date": "2026-07-23"
-    },
-    {
       "title": "Nuclear Energy Revival Puts Westinghouse in Prime Position",
       "summary": "The company, which filed for bankruptcy protection in 2017, stands to benefit from growing support for nuclear power and President Trump’s deal with Saudi Arabia.",
       "date": "2026-07-23"
     },
     {
-      "title": "Houthis claim strikes on two Saudi tankers as US attacks on Iran widen",
-      "summary": "Attacks by Iranian-aligned Houthis in Red Sea follow Trump threats to destroy more Iranian infrastructure Yemen’s ⁠Houthi militia attacked two ​Saudi Arabian oil tankers, the Iranian-aligned group said on Thursday, with a Saudi news agency later confirming one of the vessels was ablaze in the Red Sea. The threat of new.",
+      "title": "U.S. and Saudis sign nuclear deal, contingent on joining Abraham Accords",
+      "summary": "President Trump said on Thursday the deal would include no enrichment of nuclear material.",
       "date": "2026-07-23"
     },
     {
-      "title": "Trump’s 50% Tariffs on Canada: What to Know, and What’s Next",
-      "summary": "The president said punishing 50 percent tariffs would begin by Aug. 19, a significant escalation of the trade war between Canada and the U.S. that he started over a year ago.",
-      "date": "2026-07-22"
+      "title": "Trump says Saudi Arabia must normalize Israel ties before nuclear deal is approved",
+      "summary": "President Donald Trump said Thursday that a nuclear deal between the United States and Saudi Arabia requires the kingdom to normalize relations with Israel — a significant condition not previously mentioned as the deal was announced.",
+      "date": "2026-07-23"
     },
     {
-      "title": "Trump speaks at Georgia high school after attending dignified transfer",
-      "summary": "President Trump spoke at a high school in Marietta, Georgia, on Wednesday, after attending a dignified transfer for four U.S. troops killed in the Middle East. CBS News congressional reporter Taurean Small has the latest.",
-      "date": "2026-07-22"
+      "title": "Trump Attends Dignified Transfer of 4 Troops Killed in Iran Attacks",
+      "summary": "The United States carried out a 12th straight night of airstrikes just hours after President Donald Trump attended the dignified transfer of four American service members killed in Iran attacks. With negotiations to end the war stalled, Trump has threatened to destroy Iran’s bridges and power plants each time it attack.",
+      "date": "2026-07-23"
+    },
+    {
+      "title": "U.S. nuclear power deal with Saudi Arabia faces criticism in Israel",
+      "summary": "The nuclear power deal between the U.S. and Saudi Arabia was met with alarm in Israel as it deepened concerns that Israel, a major American ally, and Trump are increasingly diverging on foreign policy and security. (Image credit: Chip Somodevilla).",
+      "date": "2026-07-23"
     }
   ],
   "sources": [
     {
-      "title": "Trump speaks at Georgia high school after attending dignified transfer",
-      "url": "https://www.cbsnews.com/video/trump-speaks-at-georgia-high-school-after-attending-dignified-transfer/?utm_source=lootura.com",
-      "publishedAt": "2026-07-22T20:31:04.000Z",
+      "title": "U.S. and Saudis sign nuclear deal, contingent on joining Abraham Accords",
+      "url": "https://www.cbsnews.com/news/us-deal-saudis-enrich-nuclear-program/?utm_source=lootura.com",
+      "publishedAt": "2026-07-23T13:33:29.000Z",
       "sourceId": "lootura-us-cbs-news"
     },
     {
@@ -87,6 +87,18 @@
       "url": "https://www.cbsnews.com/news/house-committee-jack-smith-criminal-referral-doj/?utm_source=lootura.com",
       "publishedAt": "2026-07-23T03:51:35.000Z",
       "sourceId": "lootura-us-cbs-news"
+    },
+    {
+      "title": "Trump says Saudi Arabia must normalize Israel ties before nuclear deal is approved",
+      "url": "https://www.nbcnews.com/world/middle-east/trump-saudi-arabia-normalize-israel-ties-nuclear-deal-rcna588859?utm_source=lootura.com",
+      "publishedAt": "2026-07-23T12:35:22.000Z",
+      "sourceId": "lootura-us-nbc-news"
+    },
+    {
+      "title": "Trump Attends Dignified Transfer of 4 Troops Killed in Iran Attacks",
+      "url": "https://www.today.com/video/trump-attends-dignified-transfer-of-4-troops-killed-in-iran-war-267156037768?utm_source=lootura.com",
+      "publishedAt": "2026-07-23T11:21:56.000Z",
+      "sourceId": "lootura-us-nbc-news-politics"
     },
     {
       "title": "The White House pushes healthy eating. It cut a landmark nutrition education program",
@@ -113,29 +125,17 @@
       "sourceId": "lootura-us-npr-politics"
     },
     {
-      "title": "House passes Pentagon funding bill and a blueprint to unlock new dollars for Iran war",
-      "url": "https://www.npr.org/2026/07/22/nx-s1-5903130/house-vote-iran-war-funding-reconciliation?utm_source=lootura.com",
-      "publishedAt": "2026-07-22T21:51:19.000Z",
-      "sourceId": "lootura-us-npr-politics"
-    },
-    {
       "title": "'New York Times' alleges White House abuses legal system to intimidate reporters",
       "url": "https://www.npr.org/2026/07/23/nx-s1-5903854/trump-new-air-force-one-nyt-subpoenas?utm_source=lootura.com",
       "publishedAt": "2026-07-23T09:00:00.000Z",
       "sourceId": "lootura-us-npr-politics"
     },
     {
-      "title": "House votes to adopt Department of War renaming as part of annual defense bill",
-      "url": "https://www.pbs.org/newshour/politics/house-votes-to-adopt-department-of-war-renaming-as-part-of-annual-defense-bill?utm_source=lootura.com",
-      "publishedAt": "2026-07-22T23:45:20.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
-    },
-    {
-      "title": "Trump escalates threats, vows to target Iranian bridges and power plants",
-      "url": "https://www.pbs.org/newshour/show/trump-escalates-threats-vows-to-target-iranian-bridges-and-power-plants?utm_source=lootura.com",
-      "publishedAt": "2026-07-22T22:55:33.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
+      "title": "U.S. nuclear power deal with Saudi Arabia faces criticism in Israel",
+      "url": "https://www.npr.org/2026/07/23/nx-s1-5904327/us-saudi-arabia-iran?utm_source=lootura.com",
+      "publishedAt": "2026-07-23T10:55:44.000Z",
+      "sourceId": "lootura-us-npr-world"
     }
   ],
-  "evidenceCount": 16
+  "evidenceCount": 14
 }

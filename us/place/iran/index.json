@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/iran/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/iran/index.json",
   "description": "Follow Iran, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-23T10:20:24.199Z",
+  "updatedAt": "2026-07-23T13:51:24.628Z",
   "aliases": [
     "IRI",
     "Islamic Rep. Iran",
@@ -16,11 +16,6 @@
     "ir"
   ],
   "changes": [
-    {
-      "title": "Remembering the 4 U.S. service members killed recently in the Iran war",
-      "summary": "A dignified transfer was held Wednesday for the four U.S. Army soldiers killed in the Middle East in recent days amid the ongoing war with Iran. Lindsey Reiser shares more details on Lt. Tyler James Feehan, Pvt. Isabella Gonzales, Sgt. Angel Rampersad and Sgt. Michael Emmanuel Swinton.",
-      "date": "2026-07-23"
-    },
     {
       "title": "House Passes Defense Bill Amid Iran War Divide",
       "summary": "Republicans pushed through the $1.15 trillion bill over opposition from Democrats, who said backing it was akin to embracing the war.",
@@ -32,53 +27,64 @@
       "date": "2026-07-23"
     },
     {
-      "title": "The latest US troops killed in Trump’s Iran war are remembered for lives of service",
-      "summary": "Angel Rampersad, Michael Swinton, Isabella Gonzales and Tyler Feehan were among 18 US troops killed in the war A 30-year-old husband and father of two. A 25-year-old officer just weeks away from earning his MBA. A 19-year-old recent high school graduate. And a 28-year-old from Queens, New York, with a “radiant smile”.",
+      "title": "House Adopts $95 Billion G.O.P. Budget for Iran War",
+      "summary": "Republican leaders muscled through resistance in their own ranks to approve the budget blueprint for the war and other measures, but its prospects were far dimmer in the Senate.",
       "date": "2026-07-23"
     },
     {
-      "title": "House Adopts $95 Billion G.O.P. Budget for Iran War",
-      "summary": "Republican leaders muscled through resistance in their own ranks to approve the budget blueprint for the war and other measures, but its prospects were far dimmer in the Senate.",
+      "title": "Oil surges to $100 per barrel after Red Sea attacks",
+      "summary": "Oil prices rose Thursday to their highest level since early June after the latest Iran war escalation threatened severe new disruption to global supplies.",
+      "date": "2026-07-23"
+    },
+    {
+      "title": "Trump Attends Dignified Transfer of 4 Troops Killed in Iran Attacks",
+      "summary": "The United States carried out a 12th straight night of airstrikes just hours after President Donald Trump attended the dignified transfer of four American service members killed in Iran attacks. With negotiations to end the war stalled, Trump has threatened to destroy Iran’s bridges and power plants each time it attack.",
+      "date": "2026-07-23"
+    },
+    {
+      "title": "New Concerns Over Oil Prices After Houthis Attack Saudi Tankers",
+      "summary": "There are new concerns about the future of oil and gas prices after Yemen-based Houthi rebels, backed by Iran, attacked two Saudi Arabian oil tankers in the Red Sea. NBC’s Richard Engel reports on the new front in the Middle East conflict and Christine Romans joins TODAY with analysis on the economic impact to gas pric.",
+      "date": "2026-07-23"
+    },
+    {
+      "title": "Oil price passes $100 a barrel again as Middle East conflict escalates",
+      "summary": "Benchmark rises sharply over fears Houthi militia could strangle Saudi exports as US-Iran fighting intensifies The oil price has climbed back above $100 a barrel for the first time in two months, as a fresh escalation of the Middle East conflict threatens to compound disruption to global oil supplies. The benchmark oil.",
+      "date": "2026-07-23"
+    },
+    {
+      "title": "Remembering the 4 U.S. service members killed recently in the Iran war",
+      "summary": "A dignified transfer was held Wednesday for the four U.S. Army soldiers killed in the Middle East in recent days amid the ongoing war with Iran. Lindsey Reiser shares more details on Lt. Tyler James Feehan, Pvt. Isabella Gonzales, Sgt. Angel Rampersad and Sgt. Michael Emmanuel Swinton.",
+      "date": "2026-07-23"
+    },
+    {
+      "title": "The latest US troops killed in Trump’s Iran war are remembered for lives of service",
+      "summary": "Angel Rampersad, Michael Swinton, Isabella Gonzales and Tyler Feehan were among 18 US troops killed in the war A 30-year-old husband and father of two. A 25-year-old officer just weeks away from earning his MBA. A 19-year-old recent high school graduate. And a 28-year-old from Queens, New York, with a “radiant smile”.",
       "date": "2026-07-23"
     },
     {
       "title": "Houthis claim strikes on two Saudi tankers as US attacks on Iran widen",
       "summary": "Attacks by Iranian-aligned Houthis in Red Sea follow Trump threats to destroy more Iranian infrastructure Yemen’s ⁠Houthi militia attacked two ​Saudi Arabian oil tankers, the Iranian-aligned group said on Thursday, with a Saudi news agency later confirming one of the vessels was ablaze in the Red Sea. The threat of new.",
       "date": "2026-07-23"
-    },
-    {
-      "title": "Iran’s Neighbors Long for a Deal, Any Deal, to End the War",
-      "summary": "Business owners in Pakistan are getting impatient for a chance to finally trade goods and oil along their long shared border with Iran.",
-      "date": "2026-07-22"
-    },
-    {
-      "title": "See How Houthis Put the Red Sea at Risk as an Alternative Oil Route",
-      "summary": "Saudi Arabia has diverted huge amounts of oil to the Red Sea since the Iran war began, but now the Iranian-backed Houthi militants say that they intend to block that route.",
-      "date": "2026-07-22"
-    },
-    {
-      "title": "Speaking for Fallen Soldiers, Trump Says They Supported the Iran War",
-      "summary": "President Trump attended a dignified transfer for the soldiers as Americans were growing increasingly critical of the war.",
-      "date": "2026-07-22"
-    },
-    {
-      "title": "Funding milestone detected",
-      "summary": "Republicans passed more than $1 trillion for the Pentagon alongside a budget blueprint to fund the war with Iran and implement provisions of President Trump's election overhaul bill. (Image credit: Anna Moneymaker).",
-      "date": "2026-07-22"
     }
   ],
   "sources": [
     {
-      "title": "House GOP advances $95 billion plan to fund Iran war and SAVE America Act",
-      "url": "https://www.cbsnews.com/news/house-iran-war-save-america-act-funding-budget-resolution-vote/?utm_source=lootura.com",
-      "publishedAt": "2026-07-22T21:03:39.000Z",
-      "sourceId": "lootura-us-cbs-news"
+      "title": "Oil surges to $100 per barrel after Red Sea attacks",
+      "url": "https://www.nbcnews.com/business/markets/oil-prices-rise-red-sea-attacks-houthis-saudi-trump-iran-war-rcna588851?utm_source=lootura.com",
+      "publishedAt": "2026-07-23T11:39:33.000Z",
+      "sourceId": "lootura-us-nbc-news"
     },
     {
-      "title": "Remembering the 4 U.S. service members killed recently in the Iran war",
-      "url": "https://www.cbsnews.com/video/remembering-the-4-us-service-members-killed-recently-in-the-iran-war/?utm_source=lootura.com",
-      "publishedAt": "2026-07-23T00:32:33.000Z",
-      "sourceId": "lootura-us-cbs-news"
+      "title": "Trump Attends Dignified Transfer of 4 Troops Killed in Iran Attacks",
+      "url": "https://www.today.com/video/trump-attends-dignified-transfer-of-4-troops-killed-in-iran-war-267156037768?utm_source=lootura.com",
+      "publishedAt": "2026-07-23T11:21:56.000Z",
+      "sourceId": "lootura-us-nbc-news-politics"
+    },
+    {
+      "title": "New Concerns Over Oil Prices After Houthis Attack Saudi Tankers",
+      "url": "https://www.today.com/video/cost-of-iran-war-per-us-household-nears-1-200-report-shows-267156549661?utm_source=lootura.com",
+      "publishedAt": "2026-07-23T11:36:18.000Z",
+      "sourceId": "lootura-us-nbc-news-politics"
     },
     {
       "title": "Morning news brief",
@@ -87,21 +93,9 @@
       "sourceId": "lootura-us-npr"
     },
     {
-      "title": "House passes Pentagon funding bill and a blueprint to unlock new dollars for Iran war",
-      "url": "https://www.npr.org/2026/07/22/nx-s1-5903130/house-vote-iran-war-funding-reconciliation?utm_source=lootura.com",
-      "publishedAt": "2026-07-22T21:51:19.000Z",
-      "sourceId": "lootura-us-npr-politics"
-    },
-    {
-      "title": "Trump escalates threats, vows to target Iranian bridges and power plants",
-      "url": "https://www.pbs.org/newshour/show/trump-escalates-threats-vows-to-target-iranian-bridges-and-power-plants?utm_source=lootura.com",
-      "publishedAt": "2026-07-22T22:55:33.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
-    },
-    {
-      "title": "The latest US troops killed in Trump’s Iran war are remembered for lives of service",
-      "url": "https://www.theguardian.com/world/2026/jul/23/iran-war-us-troops?utm_source=lootura.com",
-      "publishedAt": "2026-07-23T10:00:42.000Z",
+      "title": "Oil price passes $100 a barrel again as Middle East conflict escalates",
+      "url": "https://www.theguardian.com/business/2026/jul/23/oil-price-passes-100-a-barrel-again-as-middle-east-conflict-escalates?utm_source=lootura.com",
+      "publishedAt": "2026-07-23T13:37:42.000Z",
       "sourceId": "lootura-us-the-guardian-us"
     },
     {
@@ -111,23 +105,17 @@
       "sourceId": "lootura-us-the-new-york-times"
     },
     {
-      "title": "See How Houthis Put the Red Sea at Risk as an Alternative Oil Route",
-      "url": "https://www.nytimes.com/2026/07/22/business/energy-environment/red-sea-saudi-arabia-houthis.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-22T12:17:51.000Z",
-      "sourceId": "lootura-us-the-new-york-times"
-    },
-    {
-      "title": "Speaking for Fallen Soldiers, Trump Says They Supported the Iran War",
-      "url": "https://www.nytimes.com/2026/07/22/us/politics/trump-dignified-transfer-soldiers-iran-war.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-22T21:04:23.000Z",
-      "sourceId": "lootura-us-the-new-york-times-politics"
-    },
-    {
       "title": "House Adopts $95 Billion G.O.P. Budget for Iran War",
       "url": "https://www.nytimes.com/2026/07/22/us/politics/house-republicans-iran-budget-pentagon.html?utm_source=lootura.com",
       "publishedAt": "2026-07-23T08:29:58.000Z",
       "sourceId": "lootura-us-the-new-york-times-politics"
+    },
+    {
+      "title": "House Passes Defense Bill Amid Iran War Divide",
+      "url": "https://www.nytimes.com/2026/07/22/us/politics/house-defense-bill-iran-war.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-23T01:10:29.000Z",
+      "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 10
+  "evidenceCount": 8
 }

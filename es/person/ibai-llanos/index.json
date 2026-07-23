@@ -8,13 +8,38 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/ibai-llanos/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/ibai-llanos/index.json",
   "description": "Sigue la actividad de Ibai Llanos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-23T06:28:35.711Z",
+  "updatedAt": "2026-07-23T13:51:07.363Z",
   "aliases": [
     "Ibai",
     "Ibai Llanos Garatea",
     "Llanos"
   ],
   "changes": [
+    {
+      "title": "La CNMC multa a Ibai Llanos y Nachter por publicidad encubierta y a Jordi Wild por contenido violento",
+      "summary": "La Comisión Nacional de los Mercados y la Competencia (CNMC) ha impuesto multas de 710 euros a Ibai Llanos y de 1.779 euros a Nachter por emisión de publicidad sin la debida identificación, y a Jordi Wild de 1.543 euros por la emisión de un contenido deportivo violento sin la advertencia a menores requerida.Según las r.",
+      "date": "2026-07-23"
+    },
+    {
+      "title": "Lola Índigo dedica un romántico mensaje a IlloJuan antes de su combate en La Velada VI",
+      "summary": "La cuenta atrás para 'La Velada del Año VI' ya ha comenzado. Este sábado Sevilla acogerá una nueva edición del evento organizado por Ibai Llanos, una cita que volverá a reunir a algunos de los creadores de contenido más conocidos del panorama hispanohablante y que promete convertirse, una vez más, en uno de los acontec.",
+      "date": "2026-07-23"
+    },
+    {
+      "title": "La CNMC impone una multa de 4.000 euros a los ‘influencers’ Ibai Llanos, Jordi Wild y Nachter",
+      "summary": "La Comisión Nacional de los Mercados y la Competencia (CNMC) ha sancionado a los creadores de contenido, o influencers, Ibai Llanos, Jordi Wild y Nachter con multas conjuntas de más 4.000 euros . La resolución responde al incumplimiento de la Ley General de Comunicación Audiovisual en materia de identificación publicit.",
+      "date": "2026-07-23"
+    },
+    {
+      "title": "Multa histórica de 4.000 euros a Ibai Llanos, Jordi Wild y Nachter por sus contenidos en redes sociales",
+      "summary": "La Comisión Nacional de los Mercados y la Competencia ha impuesto un total de tres sanciones a Ibai Llanos, Jordi Wild y el influencer Nachter por vulnerar la Ley General de Comunicación Audiovisual . La multa asciende a un conjunto de unos 4.000 euros, y el motivo no es otro que el indebido cumplimiento de la ley que.",
+      "date": "2026-07-23"
+    },
+    {
+      "title": "Comisión de la Competencia multa a Ibai Llanos, Jordi Wild y Nachter por irregularidades",
+      "summary": "La Comisión Nacional de los Mercados y la Competencia (CNMC) ha comunicado este jueves las sanciones a los influencers I bai Llanos , Jordi Wild y Nachter con multas que van de los 700 euros a casi los 1.800 por irregularidades en su actividad comercial en redes sociales. Según la CNMC, estas sanciones se han impuesto.",
+      "date": "2026-07-23"
+    },
     {
       "title": "Quién es Angie Velasco, la influencer argentina que se enfrenta a una antigua amiga en La Velada",
       "summary": "La cuenta atrás para La Velada del Año V ya ha comenzado y uno de los nombres propios del evento organizado por Ibai Llanos es el de Angie Velasco . La creadora de contenido argentina será una de las protagonistas de la edición de 2026, en la que se subirá por primera vez al ring para enfrentarse a la influencer puerto.",
@@ -36,6 +61,37 @@
       "date": "2026-07-20"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "La CNMC multa a Ibai Llanos y Nachter por publicidad encubierta y a Jordi Wild por contenido violento",
+      "url": "https://www.abc.es/economia/cnmc-multa-ibai-llanos-nachter-jordi-wild-20260723124532-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-23T12:39:07.000Z",
+      "sourceId": "lootura-es-abc"
+    },
+    {
+      "title": "Lola Índigo dedica un romántico mensaje a IlloJuan antes de su combate en La Velada VI",
+      "url": "https://www.abc.es/gente/lola-indigo-rompe-regla-oro-dedica-romantico-20260723144348-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-23T12:43:49.000Z",
+      "sourceId": "lootura-es-abc"
+    },
+    {
+      "title": "La CNMC impone una multa de 4.000 euros a los ‘influencers’ Ibai Llanos, Jordi Wild y Nachter",
+      "url": "https://elpais.com/economia/2026-07-23/la-cnmc-impone-una-multa-de-4000-euros-a-los-influencers-ibai-llanos-jordi-wild-y-nachter.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-23T10:30:20.000Z",
+      "sourceId": "lootura-es-cinco-dias"
+    },
+    {
+      "title": "Multa histórica de 4.000 euros a Ibai Llanos, Jordi Wild y Nachter por sus contenidos en redes sociales",
+      "url": "https://hipertextual.com/actualidad/multa-historica-de-4-000-euros-a-ibai-llanos-jordi-wild-y-nachter-por-sus-contenidos-en-redes-sociales/?utm_source=lootura.com",
+      "publishedAt": "2026-07-23T12:12:27.000Z",
+      "sourceId": "lootura-es-hipertextual"
+    },
+    {
+      "title": "Comisión de la Competencia multa a Ibai Llanos, Jordi Wild y Nachter por irregularidades",
+      "url": "https://theobjective.com/economia/2026-07-23/comision-competencia-multa-ibai/?utm_source=lootura.com",
+      "publishedAt": "2026-07-23T12:39:04.000Z",
+      "sourceId": "lootura-es-the-objective"
+    }
+  ],
+  "evidenceCount": 5
 }

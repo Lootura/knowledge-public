@@ -3,7 +3,7 @@
 > Follow White House, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-07-23T10:20:24.199Z
+- Updated: 2026-07-23T13:51:24.628Z
 - Canonical: https://atlas.lootura.com/us/organization/white-house
 
 ## Recent changes
@@ -17,6 +17,12 @@ Date: 2026-07-23
 ### 'New York Times' alleges White House abuses legal system to intimidate reporters
 
 The New York Times reported earlier this month that security concerns had led the Secret Service to urge Trump to fly home from Turkey on a different jet.'/> The New York Times will argue in court Thursday that the White House is abusing the justice system to intimidate reporters over a story that angered President Tru.
+
+Date: 2026-07-23
+
+### U.S. Reaches Landmark Nuclear Deal With Saudi Arabia
+
+U.S. President Donald Trump and Crown Prince Mohammed bin Salman of Saudi Arabia during a bilateral meeting in the Oval Office of the White House on Nov. 18, 2025. —Demetrius Freeman—The Washington Post/Getty Images Washington has reached a watershed civilian nuclear cooperation agreement with Saudi Arabia, the U.S. En.
 
 Date: 2026-07-23
 
@@ -62,15 +68,8 @@ The statue, which depicts the third president drafting the Declaration of Indepe
 
 Date: 2026-07-20
 
-### White House Says New Air Force One Will Be Out of Service for a Month for ‘Upgrades’
-
-The White House press secretary said the unspecified “enhancements” would take place this fall. The plane has been under scrutiny over whether it has sufficient defensive capabilities.
-
-Date: 2026-07-20
-
 ## Sources
 
 - [The White House pushes healthy eating. It cut a landmark nutrition education program](https://www.npr.org/2026/07/23/nx-s1-5896280/snap-ed-healthy-eating-cuts-maha?utm_source=lootura.com) — 2026-07-23T09:00:00.000Z
 - ['New York Times' alleges White House abuses legal system to intimidate reporters](https://www.npr.org/2026/07/23/nx-s1-5903854/trump-new-air-force-one-nyt-subpoenas?utm_source=lootura.com) — 2026-07-23T09:00:00.000Z
-- [Trump escalates threats, vows to target Iranian bridges and power plants](https://www.pbs.org/newshour/show/trump-escalates-threats-vows-to-target-iranian-bridges-and-power-plants?utm_source=lootura.com) — 2026-07-22T22:55:33.000Z
-- [Breakthroughs in Chinese AI models threaten U.S. lead in tech race](https://www.pbs.org/newshour/show/breakthroughs-in-chinese-ai-models-threaten-u-s-lead-in-tech-race?utm_source=lootura.com) — 2026-07-22T22:35:28.000Z
+- [U.S. Reaches Landmark Nuclear Deal With Saudi Arabia](https://time.com/article/2026/07/23/us-saudi-arabia-nuclear-deal-explainer/?utm_source=lootura.com) — 2026-07-23T11:00:18.000Z

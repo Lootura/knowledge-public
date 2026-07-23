@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/china/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/china/index.json",
   "description": "Sigue la actividad de China en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-23T10:20:05.700Z",
+  "updatedAt": "2026-07-23T13:51:07.363Z",
   "aliases": [],
   "changes": [
     {
@@ -64,23 +64,11 @@
   ],
   "sources": [
     {
-      "title": "Ford y la china Geely se alían en una empresa conjunta para elevar la producción de Almussafes a cinco coches",
-      "url": "https://www.20minutos.es/comunidad-valenciana/ford-china-geely-se-alian-una-empresa-conjunta-para-elevar-produccion-almussafes-cinco-vehiculos_7018077_0.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-23T09:43:48.000Z",
-      "sourceId": "lootura-es-20minutos"
-    },
-    {
-      "title": "La china Geely entra a producir sus coches a la planta valenciana de Ford, que tiene un excedente de 1.000 trabajadores",
-      "url": "https://www.elmundo.es/motor/2026/07/22/6a60f936e4d4d8eb788b4581.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-22T20:36:55.000Z",
+      "title": "Ford vende a la china Geely el 34% de su planta de Valencia, donde ambas fabricarán cinco modelos",
+      "url": "https://www.elmundo.es/economia/empresas/2026/07/23/6a61de0d21efa09d488b45ae.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-23T10:21:20.000Z",
       "sourceId": "lootura-es-el-mundo"
-    },
-    {
-      "title": "Ford da entrada al grupo chino Geely en Almussafes con un 34%",
-      "url": "https://www.expansion.com/valencia/2026/07/23/6a61ce2fe5fdea6b488b4571.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-23T09:30:25.000Z",
-      "sourceId": "lootura-es-expansion"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 1
 }

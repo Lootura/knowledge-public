@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/topic/artificial-intelligence/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/topic/artificial-intelligence/index.json",
   "description": "Follow Artificial intelligence, a tracked topic, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-23T10:20:24.199Z",
+  "updatedAt": "2026-07-23T13:51:24.628Z",
   "aliases": [
     "AI",
     "AI science",
@@ -30,6 +30,21 @@
     {
       "title": "A town renamed its festival 'AI Love Irondale Day.' Then came the comments",
       "summary": "The online outcry over the renaming of a summer festival illustrates the unease over the data center boom in the South. (Image credit: Stephan Bisaha).",
+      "date": "2026-07-23"
+    },
+    {
+      "title": "This AI tool promises a 'second sight of eyes' to clinicians. Did patients benefit?",
+      "summary": "Medical workers in a Nairobi clinic used an AI tool to check their work. A new study evaluates the result. (Image credit: Patrick Meinhardt/AFP).",
+      "date": "2026-07-23"
+    },
+    {
+      "title": "The right-wing boomers protesting data centers have a lot in common with the left",
+      "summary": "A person holds signs during a nationwide protest against AI data center expansion outside Peace Hall in New Port Richey, Florida. | AFP via Getty Images On a gray, humid Saturday morning in central Florida, a little under a dozen people gathered outside the Spring Hill Branch Library to protest the construction of a hy.",
+      "date": "2026-07-23"
+    },
+    {
+      "title": "The sci-fi movie that imagines AI isn’t so dystopian after all",
+      "summary": "Imagine you are the parent of an inquisitive seven-year-old who loves his family, playing baseball, and hanging out with his friends. It's the life you've always wanted. And then the worst thing that ever could happen happens: A freak accident takes your son away. But as it turns out, you don't have to live with the gr.",
       "date": "2026-07-23"
     },
     {
@@ -61,28 +76,13 @@
       "title": "AMD commits up to $5 billion to Anthropic",
       "summary": "AMD says it's going to invest up to $5 billion in Anthropic, while helping to expand the AI company's computing power, according to an announcement on Wednesday . As part of the new partnership, Anthropic will deploy up to 2 gigawatts of AMD's Instinct MI450 AI GPUs using the chipmaker's new Helios rack-scale system, a.",
       "date": "2026-07-22"
-    },
-    {
-      "title": "Google commits $40M to the Genesis Mission | Google Cloud Blog",
-      "summary": "Google is committing $40 million in AI tokens and cloud credits to support the DOE’s Genesis Mission and accelerate groundbreaking scientific discovery.",
-      "date": "2026-07-22"
-    },
-    {
-      "title": "Funding milestone detected",
-      "summary": "OpenAI announces Project Camellia in Effingham County, Georgia, with commitments to responsible energy, community investment, jobs, and access to Codex.",
-      "date": "2026-07-22"
-    },
-    {
-      "title": "Meta made its own AI detection system. It should have just used Google’s",
-      "summary": "Content Seal sounds a lot like a less accessible and reliable version of SynthID. | Image: Meta / The Verge IIn March, Meta's Oversight Board called on the company to \"meet its public commitments and employ its own tools\" to help quell the spread of deceptive generative AI content across platforms. Meta responded in Ju.",
-      "date": "2026-07-22"
     }
   ],
   "sources": [
     {
-      "title": "ChatGPT's medical advice nearly killed a man, lawsuit claims",
-      "url": "https://www.cbsnews.com/news/chatgpt-dangerous-medical-advice-openai-lawsuit/?utm_source=lootura.com",
-      "publishedAt": "2026-07-22T20:45:33.000Z",
+      "title": "Epstein associate found dead in France",
+      "url": "https://www.cbsnews.com/video/epstein-associate-found-dead-france/?utm_source=lootura.com",
+      "publishedAt": "2026-07-23T13:11:43.000Z",
       "sourceId": "lootura-us-cbs-news"
     },
     {
@@ -98,17 +98,29 @@
       "sourceId": "lootura-us-npr"
     },
     {
-      "title": "Breakthroughs in Chinese AI models threaten U.S. lead in tech race",
-      "url": "https://www.pbs.org/newshour/show/breakthroughs-in-chinese-ai-models-threaten-u-s-lead-in-tech-race?utm_source=lootura.com",
-      "publishedAt": "2026-07-22T22:35:28.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
+      "title": "This AI tool promises a 'second sight of eyes' to clinicians. Did patients benefit?",
+      "url": "https://www.npr.org/2026/07/23/g-s1-134929/this-ai-tool-promises-a-second-sight-of-eyes-to-clinicians-did-patients-benefit?utm_source=lootura.com",
+      "publishedAt": "2026-07-23T11:36:52.000Z",
+      "sourceId": "lootura-us-npr"
     },
     {
       "title": "Stocks and the Economy Are Increasingly Relying on the A.I. Boom",
       "url": "https://www.nytimes.com/2026/07/22/business/economy/stocks-economy-ai.html?utm_source=lootura.com",
       "publishedAt": "2026-07-22T15:46:48.000Z",
       "sourceId": "lootura-us-the-new-york-times"
+    },
+    {
+      "title": "The right-wing boomers protesting data centers have a lot in common with the left",
+      "url": "https://www.theverge.com/policy/969667/humans-first-data-center-protest-hernando-county-florida-republicans?utm_source=lootura.com",
+      "publishedAt": "2026-07-23T12:00:00.000Z",
+      "sourceId": "lootura-us-the-verge"
+    },
+    {
+      "title": "The sci-fi movie that imagines AI isn’t so dystopian after all",
+      "url": "https://www.theverge.com/entertainment/969584/hirokazu-kore-eda-sheep-in-a-box-interview?utm_source=lootura.com",
+      "publishedAt": "2026-07-23T13:00:00.000Z",
+      "sourceId": "lootura-us-the-verge"
     }
   ],
-  "evidenceCount": 4
+  "evidenceCount": 6
 }

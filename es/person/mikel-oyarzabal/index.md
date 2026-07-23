@@ -28,4 +28,4 @@ Date: 2026-07-14
 
 ## Fuentes
 
-- [Mikel Oyarzabal ya tiene la foto que quería en Eibar, con cuarenta amigos y la Copa del Mundo](https://www.diariovasco.com/bajo-deba/eibar/mikel-oyarzabal-foto-queria-eibar-cuarenta-amigos-copa-mundo-20260722152424-nt_amp.html?utm_source=lootura.com) — 2026-07-22T13:25:59.000Z
+No public source links.

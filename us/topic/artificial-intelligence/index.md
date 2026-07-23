@@ -3,7 +3,7 @@
 > Follow Artificial intelligence, a tracked topic, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: topic
-- Updated: 2026-07-23T10:20:24.199Z
+- Updated: 2026-07-23T13:51:24.628Z
 - Canonical: https://atlas.lootura.com/us/topic/artificial-intelligence
 
 ## Recent changes
@@ -11,6 +11,24 @@
 ### A town renamed its festival 'AI Love Irondale Day.' Then came the comments
 
 The online outcry over the renaming of a summer festival illustrates the unease over the data center boom in the South. (Image credit: Stephan Bisaha).
+
+Date: 2026-07-23
+
+### This AI tool promises a 'second sight of eyes' to clinicians. Did patients benefit?
+
+Medical workers in a Nairobi clinic used an AI tool to check their work. A new study evaluates the result. (Image credit: Patrick Meinhardt/AFP).
+
+Date: 2026-07-23
+
+### The right-wing boomers protesting data centers have a lot in common with the left
+
+A person holds signs during a nationwide protest against AI data center expansion outside Peace Hall in New Port Richey, Florida. | AFP via Getty Images On a gray, humid Saturday morning in central Florida, a little under a dozen people gathered outside the Spring Hill Branch Library to protest the construction of a hy.
+
+Date: 2026-07-23
+
+### The sci-fi movie that imagines AI isn’t so dystopian after all
+
+Imagine you are the parent of an inquisitive seven-year-old who loves his family, playing baseball, and hanging out with his friends. It's the life you've always wanted. And then the worst thing that ever could happen happens: A freak accident takes your son away. But as it turns out, you don't have to live with the gr.
 
 Date: 2026-07-23
 
@@ -50,28 +68,12 @@ AMD says it's going to invest up to $5 billion in Anthropic, while helping to ex
 
 Date: 2026-07-22
 
-### Google commits $40M to the Genesis Mission | Google Cloud Blog
-
-Google is committing $40 million in AI tokens and cloud credits to support the DOE’s Genesis Mission and accelerate groundbreaking scientific discovery.
-
-Date: 2026-07-22
-
-### Funding milestone detected
-
-OpenAI announces Project Camellia in Effingham County, Georgia, with commitments to responsible energy, community investment, jobs, and access to Codex.
-
-Date: 2026-07-22
-
-### Meta made its own AI detection system. It should have just used Google’s
-
-Content Seal sounds a lot like a less accessible and reliable version of SynthID. | Image: Meta / The Verge IIn March, Meta's Oversight Board called on the company to "meet its public commitments and employ its own tools" to help quell the spread of deceptive generative AI content across platforms. Meta responded in Ju.
-
-Date: 2026-07-22
-
 ## Sources
 
-- [ChatGPT's medical advice nearly killed a man, lawsuit claims](https://www.cbsnews.com/news/chatgpt-dangerous-medical-advice-openai-lawsuit/?utm_source=lootura.com) — 2026-07-22T20:45:33.000Z
+- [Epstein associate found dead in France](https://www.cbsnews.com/video/epstein-associate-found-dead-france/?utm_source=lootura.com) — 2026-07-23T13:11:43.000Z
 - [In pursuit of 'Instagram face,' are we losing the imperfections that make us human?](https://www.npr.org/2026/07/22/nx-s1-5902070/jia-tolentino-instagram-face-plastic-surgery?utm_source=lootura.com) — 2026-07-22T17:11:19.000Z
 - [A town renamed its festival 'AI Love Irondale Day.' Then came the comments](https://www.npr.org/2026/07/23/nx-s1-5896481/data-center-backlash-ai-love-irondale-day?utm_source=lootura.com) — 2026-07-23T09:00:00.000Z
-- [Breakthroughs in Chinese AI models threaten U.S. lead in tech race](https://www.pbs.org/newshour/show/breakthroughs-in-chinese-ai-models-threaten-u-s-lead-in-tech-race?utm_source=lootura.com) — 2026-07-22T22:35:28.000Z
+- [This AI tool promises a 'second sight of eyes' to clinicians. Did patients benefit?](https://www.npr.org/2026/07/23/g-s1-134929/this-ai-tool-promises-a-second-sight-of-eyes-to-clinicians-did-patients-benefit?utm_source=lootura.com) — 2026-07-23T11:36:52.000Z
 - [Stocks and the Economy Are Increasingly Relying on the A.I. Boom](https://www.nytimes.com/2026/07/22/business/economy/stocks-economy-ai.html?utm_source=lootura.com) — 2026-07-22T15:46:48.000Z
+- [The right-wing boomers protesting data centers have a lot in common with the left](https://www.theverge.com/policy/969667/humans-first-data-center-protest-hernando-county-florida-republicans?utm_source=lootura.com) — 2026-07-23T12:00:00.000Z
+- [The sci-fi movie that imagines AI isn’t so dystopian after all](https://www.theverge.com/entertainment/969584/hirokazu-kore-eda-sheep-in-a-box-interview?utm_source=lootura.com) — 2026-07-23T13:00:00.000Z

@@ -70,5 +70,4 @@ Date: 2026-07-22
 
 ## Fuentes
 
-- [El Gobierno propone a la vicepresidenta Yolanda Díaz como candidata a dirigir la OIT](https://www.eldiario.es/economia/gobierno-propone-vicepresidenta-yolanda-diaz-candidata-dirigir-oit_1_13400602.html?utm_source=lootura.com) — 2026-07-23T06:55:31.000Z
-- [Trump evalúa ahora la posibilidad de atacar a yihadistas en Mali](https://www.larazon.es/internacional/trump-evalua-ahora-posibilidad-atacar-yihadistas-mali_202607236a61e89d4687a22bdec94390.html?utm_source=lootura.com) — 2026-07-23T10:10:37.000Z
+No public source links.

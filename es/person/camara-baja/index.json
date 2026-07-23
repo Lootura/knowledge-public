@@ -27,19 +27,6 @@
       "date": "2026-07-23"
     }
   ],
-  "sources": [
-    {
-      "title": "Ortega Smith ocupará el despacho y el escaño de Ábalos en el Congreso",
-      "url": "https://www.abc.es/espana/ortega-smith-ocupara-despacho-escano-abalos-congreso-20260723112101-nt.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-23T09:49:42.000Z",
-      "sourceId": "lootura-es-abc"
-    },
-    {
-      "title": "Última hora de la actualidad política, en directo | El PSOE espera de la entrevista a Zapatero que dé “explicaciones que despejen dudas”",
-      "url": "https://elpais.com/espana/2026-07-23/ultima-hora-de-la-actualidad-politica-en-directo.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-23T10:05:49.000Z",
-      "sourceId": "lootura-es-el-pais"
-    }
-  ],
-  "evidenceCount": 2
+  "sources": [],
+  "evidenceCount": 0
 }

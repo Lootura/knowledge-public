@@ -3,7 +3,7 @@
 > Sigue la actividad de La Mancha en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-23T10:20:05.700Z
+- Actualizado: 2026-07-23T13:51:07.363Z
 - Canonical: https://atlas.lootura.com/es/place/la-mancha
 
 ## Cambios recientes
@@ -72,4 +72,3 @@ Date: 2026-07-21
 
 - [El regreso de algunos vecinos de Guadalajara tras la pesadilla del fuego: “Se escuchaba cómo venía el infierno”](https://elpais.com/espana/2026-07-23/el-regreso-de-algunos-vecinos-de-guadalajara-tras-la-pesadilla-del-fuego-se-escuchaba-como-venia-el-infierno.html?utm_source=lootura.com) — 2026-07-23T03:30:01.000Z
 - [Castilla-La Mancha se suma a los avisos rojos por calor de Murcia y la Comunidad Valenciana](https://elpais.com/clima-y-medio-ambiente/2026-07-23/la-tercera-ola-de-calor-del-verano-se-despide-con-avisos-rojos-en-murcia-y-la-comunidad-valenciana.html?utm_source=lootura.com) — 2026-07-23T10:12:32.000Z
-- [Incendios en España, en directo hoy: Mejora la situación de Almorox y esperan estabilizarlo en unas horas](https://www.larazon.es/sociedad/incendios-espana-directo-hoy-ultima-hora-fuegos-activos-operativos-extincion_202607236a6192fada3add27d4dd1811.html?utm_source=lootura.com) — 2026-07-23T10:10:42.000Z

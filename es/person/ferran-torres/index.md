@@ -3,7 +3,7 @@
 > Sigue la actividad de "El Tiburón" en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-23T02:31:05.539Z
+- Actualizado: 2026-07-23T13:51:07.363Z
 - Canonical: https://atlas.lootura.com/es/person/ferran-torres
 
 ## Cambios recientes
@@ -70,4 +70,4 @@ Date: 2026-07-19
 
 ## Fuentes
 
-No public source links.
+- [Nando Díaz, peluquero de la selección española: «Ferran Torres usa aceite de romero en su pelo. Refuerza el cabello y estimula el crecimiento»](https://www.abc.es/summum/estilo/belleza/nando-diaz-peluquero-seleccion-espanola-ferran-torres-20260723150116-nt_amp.html?utm_source=lootura.com) — 2026-07-23T13:01:17.000Z

@@ -3,10 +3,16 @@
 > Follow Maine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-23T10:20:24.199Z
+- Updated: 2026-07-23T13:51:24.628Z
 - Canonical: https://atlas.lootura.com/us/place/maine
 
 ## Recent changes
+
+### The Debate Moment That Captures Democrats’ Worries About Troy Jackson
+
+Troy Jackson, Democratic candidate for U.S. Senate, speaks outside of a federal immigration office in Scarborough, Maine, on July 14, 2026, after a man was fatally shot by ICE agents. —Ryan Murphy—Getty Images It should have been a layup. Instead, the question illustrated why some Democrats fear they are about to swap.
+
+Date: 2026-07-23
 
 ### Once Anti-Abortion, Now a Progressive: The Evolution of a Maine Democrat
 
@@ -62,12 +68,7 @@ Maine Democrats appear to be settling on a frontrunner to replace former Senate 
 
 Date: 2026-07-20
 
-### In Maine Senate Race, Jackson Sprints Ahead of Pack, as Bellows Drops Out
-
-Troy Jackson, a progressive, solidified his clear edge in the contest to replace Graham Platner, as Shenna Bellows, Jordan Wood and Nirav Shah ended their bids.
-
-Date: 2026-07-20
-
 ## Sources
 
-- [After deadly shootings, police experts question how well ICE officers are vetted](https://www.npr.org/2026/07/23/nx-s1-5903173/police-experts-question-ice-officer-vetting?utm_source=lootura.com) — 2026-07-23T09:00:00.000Z
+- [Amid a big hiring push, police experts question ICE officer vetting](https://www.npr.org/2026/07/23/nx-s1-5903173/police-experts-question-ice-officer-vetting?utm_source=lootura.com) — 2026-07-23T09:00:00.000Z
+- [The Debate Moment That Captures Democrats’ Worries About Troy Jackson](https://time.com/article/2026/07/23/the-moment-that-explains-why-troy-jackson-has-democrats-spooked/?utm_source=lootura.com) — 2026-07-23T11:00:00.000Z

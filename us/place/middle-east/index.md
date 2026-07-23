@@ -3,20 +3,38 @@
 > Follow Middle East, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-23T10:20:24.199Z
+- Updated: 2026-07-23T13:51:24.628Z
 - Canonical: https://atlas.lootura.com/us/place/middle-east
 
 ## Recent changes
 
-### Remembering the 4 U.S. service members killed recently in the Iran war
-
-A dignified transfer was held Wednesday for the four U.S. Army soldiers killed in the Middle East in recent days amid the ongoing war with Iran. Lindsey Reiser shares more details on Lt. Tyler James Feehan, Pvt. Isabella Gonzales, Sgt. Angel Rampersad and Sgt. Michael Emmanuel Swinton.
-
-Date: 2026-07-23
-
 ### What Visuals Show About Recent Damage to U.S. Military Sites in the Middle East
 
 Video footage and satellite images reveal new details about Iranian strikes on U.S. targets during the latest flare-up in fighting.
+
+Date: 2026-07-23
+
+### New Concerns Over Oil Prices After Houthis Attack Saudi Tankers
+
+There are new concerns about the future of oil and gas prices after Yemen-based Houthi rebels, backed by Iran, attacked two Saudi Arabian oil tankers in the Red Sea. NBC’s Richard Engel reports on the new front in the Middle East conflict and Christine Romans joins TODAY with analysis on the economic impact to gas pric.
+
+Date: 2026-07-23
+
+### Oil price passes $100 a barrel again as Middle East conflict escalates
+
+Benchmark rises sharply over fears Houthi militia could strangle Saudi exports as US-Iran fighting intensifies The oil price has climbed back above $100 a barrel for the first time in two months, as a fresh escalation of the Middle East conflict threatens to compound disruption to global oil supplies. The benchmark oil.
+
+Date: 2026-07-23
+
+### U.S.-Saudi Deal Prompts Fears of a Global Nuclear Arms Race
+
+In Europe, Asia and the Middle East, countries seek nuclear capabilities to hedge against aggressive neighbors and a receding Washington, potentially creating a more freewheeling era.
+
+Date: 2026-07-23
+
+### Remembering the 4 U.S. service members killed recently in the Iran war
+
+A dignified transfer was held Wednesday for the four U.S. Army soldiers killed in the Middle East in recent days amid the ongoing war with Iran. Lindsey Reiser shares more details on Lt. Tyler James Feehan, Pvt. Isabella Gonzales, Sgt. Angel Rampersad and Sgt. Michael Emmanuel Swinton.
 
 Date: 2026-07-23
 
@@ -50,27 +68,9 @@ The Iran-backed Houthi militia in Yemen has declared a Red Sea blockade on Saudi
 
 Date: 2026-07-21
 
-### Sen. Chris Murphy on the Iran war and Pete Hegseth's upcoming Senate testimony
-
-NPR's Michel Martin speaks with Sen. Chris Murphy, D-Conn., about the escalating war in the Middle East and the testimony of Defense Secretary Pete Hegseth in front of a Senate panel on Tuesday.
-
-Date: 2026-07-21
-
-### Discovered by Atlas
-
-Middle East first entered the public knowledge record with source-backed evidence.
-
-Date: 2026-07-20
-
-### Nearly 100 U.S. service members injured in Iranian strikes this month
-
-Almost 100 American service members have been injured in strikes on bases in the Middle East this month, U.S. officials said.
-
-Date: 2026-07-20
-
 ## Sources
 
-- [Trump speaks at Georgia high school after attending dignified transfer](https://www.cbsnews.com/video/trump-speaks-at-georgia-high-school-after-attending-dignified-transfer/?utm_source=lootura.com) — 2026-07-22T20:31:04.000Z
-- [Remembering the 4 U.S. service members killed recently in the Iran war](https://www.cbsnews.com/video/remembering-the-4-us-service-members-killed-recently-in-the-iran-war/?utm_source=lootura.com) — 2026-07-23T00:32:33.000Z
+- [New Concerns Over Oil Prices After Houthis Attack Saudi Tankers](https://www.today.com/video/cost-of-iran-war-per-us-household-nears-1-200-report-shows-267156549661?utm_source=lootura.com) — 2026-07-23T11:36:18.000Z
+- [Oil price passes $100 a barrel again as Middle East conflict escalates](https://www.theguardian.com/business/2026/jul/23/oil-price-passes-100-a-barrel-again-as-middle-east-conflict-escalates?utm_source=lootura.com) — 2026-07-23T13:37:42.000Z
 - [What Visuals Show About Recent Damage to U.S. Military Sites in the Middle East](https://www.nytimes.com/2026/07/22/world/middleeast/iran-war-us-bases-images.html?utm_source=lootura.com) — 2026-07-23T01:37:39.000Z
-- [U.S.-Saudi Deal Prompts Fears of a Nuclear Arms Race](https://www.nytimes.com/2026/07/23/world/europe/us-saudi-deal-nuclear-hedging.html?utm_source=lootura.com) — 2026-07-23T09:44:04.000Z
+- [U.S.-Saudi Deal Prompts Fears of a Global Nuclear Arms Race](https://www.nytimes.com/2026/07/23/world/europe/us-saudi-deal-nuclear-hedging.html?utm_source=lootura.com) — 2026-07-23T13:03:50.000Z

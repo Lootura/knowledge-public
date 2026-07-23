@@ -3,10 +3,16 @@
 > Sigue la actividad de La Mierla en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-23T10:20:05.700Z
+- Actualizado: 2026-07-23T13:51:07.363Z
 - Canonical: https://atlas.lootura.com/es/place/la-mierla
 
 ## Cambios recientes
+
+### Incendios en España, en directo: un incendio produce el corte de la circulación Madrid-Barcelona
+
+Los equipos de extinción continúan desplegados en distintos puntos del país para hacer frente a una de las jornadas más complejas de la campaña de incendios forestales. Mientras el incendio de La Mierla (Guadalajara) sigue evolucionando favorablemente y los trabajos se centran en consolidar el perímetro, otros focos ma.
+
+Date: 2026-07-23
 
 ### Consulta el mapa de incendios en España en tiempo real: focos activos en La Mierla (Guadalajara), Almorox (Toledo), Aragón, Andalucía, en directo
 
@@ -62,12 +68,6 @@ El Gobierno de Castilla-La Mancha se encuentra perfilando una estrategia de actu
 
 Date: 2026-07-19
 
-### El fuego avanza 14 kilómetros en una noche y arrasa más de 13.000 hectáreas en La Mierla
-
-La provincia de Guadalajara sufre un verano más la devastación de las llamas con cifras para la desesperanza. Si en septiembre de 2025 el incendio forestal del Pico del Lobo se daba por extinguido 22 días después de iniciarse y calcinar 2.500 hectáreas en terreno autonómico, el siniestro que desde el jueves afecta al P.
-
-Date: 2026-07-19
-
 ## Fuentes
 
-- [Consulta el mapa de incendios en España en tiempo real: focos activos en La Mierla (Guadalajara), Almorox (Toledo), Aragón, Andalucía, en directo](https://www.elconfidencial.com/espana/2026-07-23/1qrt-mapa-incendios-espana-directo-mierla-almorox-andalucia-focos-activos_4394031/?utm_source=lootura.com) — 2026-07-23T06:03:00.000Z
+- [Incendios en España, en directo: un incendio produce el corte de la circulación Madrid-Barcelona](https://www.larazon.es/sociedad/incendios-espana-directo-hoy-ultima-hora-fuegos-activos-operativos-extincion_202607236a6192fada3add27d4dd1811.html?utm_source=lootura.com) — 2026-07-23T13:40:17.000Z

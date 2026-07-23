@@ -3,10 +3,16 @@
 > Follow Taco Bell, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-07-18T16:55:42.019Z
+- Updated: 2026-07-23T13:51:24.628Z
 - Canonical: https://atlas.lootura.com/us/organization/taco-bell
 
 ## Recent changes
+
+### Heightened scrutiny over food safety amid cyclospora outbreak
+
+The cyclospora outbreak linked to contaminated lettuce is having a big impact on wary consumers and businesses like Taco Bell as the number of confirmed cases rises. Carter Evans has more.
+
+Date: 2026-07-23
 
 ### Cyclosporiasis outbreak traced to lettuce from Mexico used by Taco Bell
 
@@ -64,4 +70,4 @@ Date: 2026-07-17
 
 ## Sources
 
-No public source links.
+- [Heightened scrutiny over food safety amid cyclospora outbreak](https://www.cbsnews.com/video/heightened-scrutiny-over-food-safety-amid-cyclospora-outbreak/?utm_source=lootura.com) — 2026-07-23T13:19:53.000Z

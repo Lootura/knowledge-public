@@ -8,13 +8,18 @@
   "markdownUrl": "https://atlas.lootura.com/us/company/getty-images/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/company/getty-images/index.json",
   "description": "Follow Getty Images, a tracked company, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-22T21:09:05.351Z",
+  "updatedAt": "2026-07-23T13:51:24.628Z",
   "aliases": [
     "Getty Images Holdings, Inc.",
     "Getty Images, Inc.",
     "Getty"
   ],
   "changes": [
+    {
+      "title": "Tick Bites Are Causing Red-Meat Allergies. What to Know About Alpha-Gal Syndrome",
+      "summary": "An adult female lone star tick (Amblyomma americanum) crawls on a blade of grass. Image courtesy CDC. (Photo by Smith Collection/Gado/Getty Images) Doctors in the U.S. are hearing an odd complaint from their patients more frequently: lifelong meat eaters are suddenly breaking out into hives, getting bad stomach pains ,.",
+      "date": "2026-07-23"
+    },
     {
       "title": "Is Mushroom Coffee Healthy? Here's What to Know",
       "summary": "—Photo-Illustration by TIME (Source Images: Iryna Veklich, vsviridova—Getty Images) There’s quite a buzz around mushroom coffee these days. Some social-media influencers claim the lightly caffeinated beverage can provide a sense of calm , long-lasting energy , laser-sharp focus , and other benefits. But do these fungi.",
@@ -61,6 +66,13 @@
       "date": "2026-07-16"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Tick Bites Are Causing Red-Meat Allergies. What to Know About Alpha-Gal Syndrome",
+      "url": "https://time.com/article/2026/07/23/ticks-alpha-gal-red-meat-allergy/?utm_source=lootura.com",
+      "publishedAt": "2026-07-23T13:31:21.000Z",
+      "sourceId": "lootura-us-time"
+    }
+  ],
+  "evidenceCount": 1
 }

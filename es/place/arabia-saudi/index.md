@@ -3,7 +3,7 @@
 > Sigue la actividad de Arabia Saudí en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-23T10:20:05.700Z
+- Actualizado: 2026-07-23T13:51:07.363Z
 - Canonical: https://atlas.lootura.com/es/place/arabia-saudi
 
 ## Cambios recientes
@@ -70,4 +70,4 @@ Date: 2026-07-22
 
 ## Fuentes
 
-- [EEUU y Arabia Saudí firman un histórico pacto que allana a Riad lograr enriquecer uranio](https://theobjective.com/internacional/2026-07-23/eeuu-arabia-saudi-pacto-nriquecer-uranio/?amp=&utm_source=lootura.com) — 2026-07-23T06:21:04.000Z
+- [Los ataques hutíes amenazan con cortar la vía de salida vital del petróleo saudí](https://www.expansion.com/economia/financial-times/2026/07/23/6a620e3f468aeb48318b4581.html?utm_source=lootura.com) — 2026-07-23T12:51:16.000Z

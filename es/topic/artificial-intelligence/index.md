@@ -3,7 +3,7 @@
 > Sigue la actividad de Artificial intelligence en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: topic
-- Actualizado: 2026-07-23T10:20:05.700Z
+- Actualizado: 2026-07-23T13:51:07.363Z
 - Canonical: https://atlas.lootura.com/es/topic/artificial-intelligence
 
 ## Cambios recientes
@@ -46,4 +46,4 @@ Date: 2026-07-10
 
 ## Fuentes
 
-- [Obras de mejora y nuevo modelo de gestión en el edificio Emeterio Arrese](https://www.diariovasco.com/tolosa-goierri/tolosa/obras-mejora-nuevo-modelo-gestion-edificio-emeterio-20260722154834-nt_amp.html?utm_source=lootura.com) — 2026-07-22T13:48:34.000Z
+- [La escuela y la herencia del futuro](https://elpais.com/opinion/2026-07-23/la-escuela-y-la-herencia-del-futuro.html?utm_source=lootura.com) — 2026-07-23T03:30:01.000Z

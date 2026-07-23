@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/new-york/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/new-york/index.json",
   "description": "Follow New York City, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-23T10:20:24.199Z",
+  "updatedAt": "2026-07-23T13:51:24.628Z",
   "aliases": [
     "Capital of the World",
     "Center of the Universe",
@@ -92,17 +92,11 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "The latest US troops killed in Trump’s Iran war are remembered for lives of service",
-      "url": "https://www.theguardian.com/world/2026/jul/23/iran-war-us-troops?utm_source=lootura.com",
-      "publishedAt": "2026-07-23T10:00:42.000Z",
-      "sourceId": "lootura-us-the-guardian-us"
-    },
-    {
       "title": "Mamdani Knew He Couldn’t Arrest Netanyahu. But He Could Denounce Him.",
       "url": "https://www.nytimes.com/2026/07/22/nyregion/mamdani-netanyahu-speech.html?utm_source=lootura.com",
       "publishedAt": "2026-07-22T23:42:33.000Z",
       "sourceId": "lootura-us-the-new-york-times"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 2
 }

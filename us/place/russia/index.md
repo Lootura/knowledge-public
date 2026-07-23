@@ -3,7 +3,7 @@
 > Follow Russia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-23T10:20:24.199Z
+- Updated: 2026-07-23T13:51:24.628Z
 - Canonical: https://atlas.lootura.com/us/place/russia
 
 ## Recent changes
@@ -70,4 +70,4 @@ Date: 2026-07-18
 
 ## Sources
 
-- [A New Target for Ukraine’s Long-Range Attacks: Russia’s Version of Amazon](https://www.nytimes.com/2026/07/23/world/europe/russia-ukraine-wildberries-attacks.html?utm_source=lootura.com) — 2026-07-23T09:40:15.000Z
+- [A New Target for Ukraine’s Long-Range Attacks: Russia’s Version of Amazon](https://www.nytimes.com/2026/07/23/world/europe/russia-ukraine-wildberries-attacks.html?utm_source=lootura.com) — 2026-07-23T13:05:18.000Z

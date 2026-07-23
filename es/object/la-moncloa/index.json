@@ -40,19 +40,6 @@
       "date": "2026-07-20"
     }
   ],
-  "sources": [
-    {
-      "title": "El Gobierno propone a Yolanda Díaz como directora general de la OIT, el organismo de la ONU dedicado al trabajo",
-      "url": "https://elpais.com/economia/2026-07-23/el-gobierno-propone-a-yolanda-diaz-como-directora-general-de-la-oit-el-organismo-de-la-onu-dedicado-al-trabajo.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-23T06:46:14.000Z",
-      "sourceId": "lootura-es-cinco-dias"
-    },
-    {
-      "title": "Feijóo promete una \"reconstrucción nacional\" y reformas estructurales: \"Hacienda dejará de ser el gran beneficiario\"",
-      "url": "https://www.elmundo.es/espana/2026/07/22/6a611444e4d4d8850e8b4588.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-22T20:38:09.000Z",
-      "sourceId": "lootura-es-el-mundo"
-    }
-  ],
-  "evidenceCount": 2
+  "sources": [],
+  "evidenceCount": 0
 }

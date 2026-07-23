@@ -3,7 +3,7 @@
 > Sigue la actividad de República Portuguesa en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-22T17:15:40.463Z
+- Actualizado: 2026-07-23T13:51:07.363Z
 - Canonical: https://atlas.lootura.com/es/place/portugal
 
 ## Cambios recientes
@@ -70,4 +70,4 @@ Date: 2026-07-10
 
 ## Fuentes
 
-No public source links.
+- [Bankinter da hipotecas en Portugal e Irlanda, pero pocas en España](https://www.expansion.com/empresas/banca/2026/07/23/6a61f7a9468aeb99128b4588.html?utm_source=lootura.com) — 2026-07-23T11:14:52.000Z

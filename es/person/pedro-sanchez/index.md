@@ -3,7 +3,7 @@
 > Sigue la actividad de Pedro Sánchez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-23T10:20:05.700Z
+- Actualizado: 2026-07-23T13:51:07.363Z
 - Canonical: https://atlas.lootura.com/es/person/pedro-sanchez
 
 ## Cambios recientes
@@ -11,6 +11,36 @@
 ### Denuncia contra David Sánchez Pérez-Castejón ante el Tribunal de Cuentas para que devuelva las nóminas que cobró en la Diputación de Badajoz
 
 Una de las acusaciones particulares, Iustitia Europa, quiere que tanto el hermano del presidente del Gobierno como su amigo de Moncloa devuelvan los ingresos públicos que recibieron tras no requerirlos ni la Diputación de Badajoz ni la Fiscalía Leer.
+
+Date: 2026-07-23
+
+### El PP ve una "tomadura de pelo" la entrevista de Zapatero porque ha ido únicamente "a defender su inocencia y la de Sánchez"
+
+Para el Partido Popular, la primera entrevista que ha dado el expresidente del Gobierno José Luis Rodríguez Zapatero desde que fue imputado ha sido "una tomadura de pelo", pues no ha dado ninguna explicación de las "muchas incógnitas" que le rodean. " No ha dicho de dónde son las joyas , por qué no las tributó, por qué.
+
+Date: 2026-07-23
+
+### La cúpula del PSOE da por buenas las explicaciones de Zapatero: "Mantenemos nuestro apoyo"
+
+Desde que se conoció la investigación judicial a José Luis Rodríguez Zapatero, tanto Pedro Sánchez como desde Ferraz han mantenido contacto con el ex presidente del Gobierno....
+
+Date: 2026-07-23
+
+### Una exministra de Sánchez gobierna la ciudad que más tarda en pagar de toda España: 80 días, según Hacienda
+
+El Ayuntamiento de Las Palmas de Gran Canaria tardó una media de 80,43 días en pagar sus facturas en mayo -un dato lastrado por dos sociedades municipales, la de Promoción de la Ciudad (89,41) y la urbanística Geursa (90,66) -, según las cifras que difundió esta semana el Ministerio de Hacienda . Es casi el triple del.
+
+Date: 2026-07-23
+
+### El PP pide la dimisión de Rosario Sánchez por apoyar la protesta antiturismo de Palma siendo el máximo cargo del sector
+
+El senador y portavoz de turismo del Partido Popular en el Senado , Agustín Alomodóbar , ha registrado este jueves una batería de preguntas en la Cámara Alta para que el Gobierno apoye o reprenda a la secretaria de Estado de Turismo y candi target="_blank" rel="noopener noreferrer">por apoyar públicamente la manifestac.
+
+Date: 2026-07-23
+
+### El Govern de Prohens apremia a Rosario Sánchez para que diga «si se manifestará contra sus propias políticas»
+
+El portavoz del Govern balear que preside Marga Prohens , Antoni Costa , ha invitado este jueves a la secretaria de Estado de Turismo, Rosario Sánchez , a que confirme «si se manifestará en contra de sus propias políticas» en la protesta antiturística convocada para el próximo domingo en Palma . Sánchez ha mostrado est.
 
 Date: 2026-07-23
 
@@ -38,40 +68,11 @@ La portavoz de Junts en el Congreso, Miriam Nogueras, ha exigido hoy que se apar
 
 Date: 2026-07-23
 
-### El PP y Vox suben tras el caso Zapatero y amplían la brecha con el PSOE y sus socios
-
-El goteo de presuntos casos de corrupción está pasando factura al PSOE . Según el barómetro de julio elaborado por el Instituto DYM para 20minutos , si mañana se celebrasen elecciones, el PP sería la fuerza más votada y ampliaría su distancia con respecto a un PSOE en retroceso. El partido de Pedro Sánchez lleva desde.
-
-Date: 2026-07-23
-
-### Casi el 40% de los votantes socialistas no ve que haya un candidato alternativo a Sánchez en unas elecciones
-
-Cuatro de cada diez votantes socialistas no identifican una alternativa a Pedro Sánchez al frente del PSOE. Según una encuesta del Instituto DYM para 20minutos , Emiliano García-Page es quien más respaldo cosecha entre los cinco posibles candidatos planteados, con un 27,3%, aunque el porcentaje de quienes no se decanta.
-
-Date: 2026-07-23
-
-### La valoración de los líderes políticos cae y Sánchez se mantiene en cabeza
-
-La nota que los ciudadanos conceden a los líderes políticos está marcada en el polibarómetro del mes de julio del Instituto DYM para 20minutos por los casos de corrupción, lo que ha erosionado la valoración tanto del Gobierno como de Pedro Sánchez como líder político y como favorito para presidente. En estos dos meses,.
-
-Date: 2026-07-23
-
-### Un Consejo de Ministros bajo sospecha por el caso
-
-El 7 de enero de 2020 PSOE y Unidas Podemos pusieron en marcha el primer Gobierno de coalición —«progresista»— de la historia reciente de España. Catorce meses después, pandemia de por medio, Pedro Sánchez y su gabinete ministerial dieron luz verde de manera formal al rescate financiero de Plus Ultra. Un préstamo a la.
-
-Date: 2026-07-23
-
-### Feijóo sitúa a Sánchez como "el señor X" de todos los casos del PSOE y promete "una limpieza a fondo" de las instituciones
-
-Comienza la "cuenta atrás" para el PP. Alberto Núñez Feijóo mira ya hacia las elecciones generales y mete la directa hacia "el cambio". Un cambio...
-
-Date: 2026-07-22
-
 ## Fuentes
 
-- [Javier Ruiz, sobre irse de la RTVE de Pedro Sánchez y 'Mañaneros '360': «Me dan ganas de dejarlo todas las mañanas. Hay un coste humano»](https://www.abc.es/play/television/noticias/javier-ruiz-tajante-sobre-irse-rtve-pedro-20260723104318-nt_amp.html?utm_source=lootura.com) — 2026-07-23T08:43:19.000Z
-- [El Gobierno propone a Yolanda Díaz para dirigir la Organización Internacional del Trabajo](https://www.elmundo.es/economia/2026/07/23/6a61bd11e4d4d85a3e8b456f.html?utm_source=lootura.com) — 2026-07-23T07:55:56.000Z
+- [El PP ve una "tomadura de pelo" la entrevista de Zapatero porque ha ido únicamente "a defender su inocencia y la de Sánchez"](https://www.20minutos.es/nacional/pp-ve-una-tomadura-pelo-entrevista-zapatero-porque-ha-ido-unicamente-defender-su-inocencia-sanchez_7018179_0.html?utm_source=lootura.com) — 2026-07-23T12:33:14.000Z
 - [Denuncia contra David Sánchez Pérez-Castejón ante el Tribunal de Cuentas para que devuelva las nóminas que cobró en la Diputación de Badajoz](https://www.elmundo.es/espana/2026/07/23/6a612007e4d4d892728b4571.html?utm_source=lootura.com) — 2026-07-23T05:01:46.000Z
-- [El Gobierno propone a la vicepresidenta Yolanda Díaz como candidata a dirigir la OIT](https://www.eldiario.es/economia/gobierno-propone-vicepresidenta-yolanda-diaz-candidata-dirigir-oit_1_13400602.html?utm_source=lootura.com) — 2026-07-23T06:55:31.000Z
-- [Junts insiste en que Sánchez se aparte y se «ponga a alguien» que cumpla los compromisos](https://theobjective.com/espana/politica/2026-07-23/junts-sanchez-se-aparte-alguien-cumpla-compromisos/?utm_source=lootura.com) — 2026-07-23T09:42:09.000Z
+- [La cúpula del PSOE da por buenas las explicaciones de Zapatero: "Mantenemos nuestro apoyo"](https://amp.elmundo.es/espana/2026/07/23/6a6202be21efa0605a8b45ba.html?utm_source=lootura.com) — 2026-07-23T12:02:40.000Z
+- [Una exministra de Sánchez gobierna la ciudad que más tarda en pagar de toda España: 80 días, según Hacienda](https://www.larazon.es/canarias/exministra-sanchez-gobierna-ciudad-que-mas-tarda-pagar-toda-espana-80-dias-segun-hacienda_202607236a61dd80da3add27d4dd8616.html?utm_source=lootura.com) — 2026-07-23T13:40:13.000Z
+- [El PP pide la dimisión de Rosario Sánchez por apoyar la protesta antiturismo de Palma siendo el máximo cargo del sector](https://okdiario.com/baleares/pp-pide-dimision-rosario-sanchez-apoyar-protesta-antiturismo-palma-siendo-maximo-cargo-del-sector-19052436?utm_source=lootura.com) — 2026-07-23T13:15:21.000Z
+- [El Govern de Prohens apremia a Rosario Sánchez para que diga «si se manifestará contra sus propias políticas»](https://okdiario.com/baleares/govern-prohens-apremia-rosario-sanchez-que-diga-si-manifestara-contra-sus-propias-politicas-19054754?utm_source=lootura.com) — 2026-07-23T13:16:36.000Z

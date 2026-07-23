@@ -3,20 +3,32 @@
 > Follow Europe, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-23T10:20:24.199Z
+- Updated: 2026-07-23T13:51:24.628Z
 - Canonical: https://atlas.lootura.com/us/place/europe
 
 ## Recent changes
 
-### Climate change making Europe drought 'more severe': study
-
-Human-caused climate change has intensified a drought across Europe, with extreme heat rather than low rainfall driving the exceptionally dry conditions, a team of international scientists said Thursday.
-
-Date: 2026-07-23
-
 ### Google Hit With $1 Billion Fine By EU Over Search Engine Practices
 
 At a tense moment for trans-Atlantic trade, the European Union accused Google of anti-competitive business practices.
+
+Date: 2026-07-23
+
+### U.S.-Saudi Deal Prompts Fears of a Global Nuclear Arms Race
+
+In Europe, Asia and the Middle East, countries seek nuclear capabilities to hedge against aggressive neighbors and a receding Washington, potentially creating a more freewheeling era.
+
+Date: 2026-07-23
+
+### Developer ecosystem expanded
+
+The European Union has fined Google's parent company Alphabet €890 million (about $1 billion) for two separate violations of the bloc's Digital Markets Act (DMA). One penalty is for giving its own products preferential treatment in search results, while the other is for blocking Android developers from sending users to.
+
+Date: 2026-07-23
+
+### Climate change making Europe drought 'more severe': study
+
+Human-caused climate change has intensified a drought across Europe, with extreme heat rather than low rainfall driving the exceptionally dry conditions, a team of international scientists said Thursday.
 
 Date: 2026-07-23
 
@@ -56,20 +68,8 @@ Date: 2026-07-20
 
 Date: 2026-07-17
 
-### Devastating Asian beetle detected in EU for first time
-
-A tiny Asian-origin beetle that has devastated ash forests in North America has been detected in the European Union for the first time, in Hungary and Slovakia, authorities said.
-
-Date: 2026-07-16
-
-### Understanding Bavaria's Indigeneity
-
-When I tell people that I am a proud Boarisch-Schwob—Bavarian-Swabian—Indigenous person, I am often met with disbelief. I am white. I am European. I come from Bavaria, one of Europe's wealthiest regions. For some people, those facts settle the question before I have explained anything else.
-
-Date: 2026-07-16
-
 ## Sources
 
-- [Climate change making Europe drought 'more severe': study](https://phys.org/news/2026-07-climate-europe-drought-severe.html?utm_source=lootura.com) — 2026-07-23T09:00:12.000Z
-- [Google Hit With $1 Billion Fine By EU Over Search Engine Practices](https://www.nytimes.com/2026/07/23/business/google-eu-fine-search-competition.html?utm_source=lootura.com) — 2026-07-23T10:06:28.000Z
-- [U.S.-Saudi Deal Prompts Fears of a Nuclear Arms Race](https://www.nytimes.com/2026/07/23/world/europe/us-saudi-deal-nuclear-hedging.html?utm_source=lootura.com) — 2026-07-23T09:44:04.000Z
+- [Google Hit With $1 Billion Fine By EU Over Search Engine Practices](https://www.nytimes.com/2026/07/23/business/google-eu-fine-search-competition.html?utm_source=lootura.com) — 2026-07-23T12:33:45.000Z
+- [U.S.-Saudi Deal Prompts Fears of a Global Nuclear Arms Race](https://www.nytimes.com/2026/07/23/world/europe/us-saudi-deal-nuclear-hedging.html?utm_source=lootura.com) — 2026-07-23T13:03:50.000Z
+- [Google hit with $1 billion fine for breaking EU antitrust rules](https://www.theverge.com/tech/943866/google-alphabet-eu-dma-fine-search-services-play-store-steering?utm_source=lootura.com) — 2026-07-23T10:33:08.000Z

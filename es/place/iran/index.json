@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/iran/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/iran/index.json",
   "description": "Sigue la actividad de Irán en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-23T10:20:05.700Z",
+  "updatedAt": "2026-07-23T13:51:07.363Z",
   "aliases": [
     "IRI",
     "Islamic Rep. Iran",
@@ -18,6 +18,26 @@
     "ir"
   ],
   "changes": [
+    {
+      "title": "El BCE mantiene los tipos en el 2,25% a pesar de la escalada de los precios de la energía",
+      "summary": "El consejo de gobierno del Banco Central Europeo (BCE) ha decidido mantener los tipos de interés en el 2,25% , a pesar de las últimas tensiones derivadas del conflicto de Irán y del encarecimiento del precio del petróleo, que ha rozado este jueves los 100 dólares por barril, provocando otra subida del coste de los comb.",
+      "date": "2026-07-23"
+    },
+    {
+      "title": "Lagarde mantiene tipos en el 2,25% y deja la siguiente subida para septiembre: “El shock energético puede intensificarse”",
+      "summary": "El precio del petróleo se acerca a los 100 dólares el barril y el del gas en Europa se dispara al nivel más alto desde que empezó la guerra de Irán . El coste de la energía vuelve a ser un motivo de preocupación en la zona euro pero el Banco Central Europeo (BCE) ha decidido este jueves no avanzar en las subidas de tip.",
+      "date": "2026-07-23"
+    },
+    {
+      "title": "El BCE mantiene los tipos y anticipa una nueva subida en septiembre si la guerra en Irán persiste",
+      "summary": "El Eurobanco deja los tipos de interés en el 2,25% y aplaza cualquier decisión a después del verano, cuando contará con nuevas previsiones macroeconómicas.",
+      "date": "2026-07-23"
+    },
+    {
+      "title": "El Gobierno salva el escudo anticrisis por la guerra en Irán con rebajas fiscales en los carburantes hasta octubre",
+      "summary": "El Ejecutivo ata los apoyos de sus socios habituales pese a las críticas de algunos como Podemos, que cuestionan las rebajas fiscales mientras energéticas como Repsol disparan sus beneficios PSOE y Sumar pactan que el decreto de vivienda incluya una prórroga de los alquileres hasta julio de 2028 El Gobierno ha salvado.",
+      "date": "2026-07-23"
+    },
     {
       "title": "El precio de los carburantes, desbocado por el fin de la rebaja del IVA: el depósito se encarece un 13% en tres semanas, un euro extra cada 48 horas",
       "summary": "El contador del surtidor sube más deprisa que hace un mes y asfixia a los hogares españoles en plenas vacaciones de verano. Desde el 30 de junio, cuando expiró la rebaja fiscal aprobada para amortiguar el impacto de la guerra entre Estados Unidos e Irán, el depósito de combustible se ha encarecido a un ritmo cercano a.",
@@ -47,41 +67,33 @@
       "title": "Trump se dispone a firmar un acuerdo nuclear con Arabia Saudí en plena escalada de tensiones con Irán",
       "summary": "En plena escalada de tensiones bélicas con Irán, el Gobierno de Estados Unidos que preside Donald Trump se dispone a firmar un acuerdo con Arabia Saudí que permitiría al país contar con un programa nuclear civil, abriendo la puerta al enriquecimiento de uranio. El acuerdo, que busca reordenar el equilibrio de poderes e.",
       "date": "2026-07-22"
-    },
-    {
-      "title": "Hegseth eleva el coste de la guerra con Irán y pide financiación adicional «urgente»",
-      "summary": "La Casa Blanca ha elevado a cerca de 37.500 millones de dólares (cerca de 32.875 millones de euros) el coste de la guerra con Irán, desatada por la ofensiva lanzada por sorpresa el 28 de febrero por fuerzas estadounidenses e israelíes contra el país centroasiático en plenas conversaciones diplomáticas entre Washington.",
-      "date": "2026-07-22"
-    },
-    {
-      "title": "EEUU lanza nuevos ataques contra Irán que eclipsan los esfuerzos diplomáticos",
-      "summary": "Leer.",
-      "date": "2026-07-22"
-    },
-    {
-      "title": "El Ibex sube a los 19.500 puntos pese al alza del petróleo y ante los resultados de las grandes tecnológicas",
-      "summary": "El pesimismo en torno a las negociaciones de paz entre EE UU e Irán, después de que el el gobierno estadounidense restara importancia a la posibilidad de conversaciones inmediatas con Teherán, y la creciente amenaza a los suministros energéticos de Oriente Próximo derivada de un bloqueo naval dirigido contra Arabia Sau.",
-      "date": "2026-07-22"
-    },
-    {
-      "title": "Cautela en las Bolsas ante los resultados de las grandes tecnológicas y con el petróleo al alza",
-      "summary": "El pesimismo en torno a las negociaciones de paz entre EE UU e Irán, después de que el presidente Donald Trump restara importancia a la posibilidad de conversaciones inmediatas con Teherán, y la creciente amenaza a los suministros energéticos de Oriente Próximo derivada de un bloqueo naval dirigido contra Arabia Saudí.",
-      "date": "2026-07-22"
     }
   ],
   "sources": [
     {
-      "title": "Ford y la china Geely se alían en una empresa conjunta para elevar la producción de Almussafes a cinco coches",
-      "url": "https://www.20minutos.es/comunidad-valenciana/ford-china-geely-se-alian-una-empresa-conjunta-para-elevar-produccion-almussafes-cinco-vehiculos_7018077_0.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-23T09:43:48.000Z",
-      "sourceId": "lootura-es-20minutos"
+      "title": "El BCE mantiene los tipos en el 2,25% a pesar de la escalada de los precios de la energía",
+      "url": "https://www.abc.es/economia/bce-mantiene-tipos-225-pesar-riesgos-derivados-20260723141757-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-23T12:37:19.000Z",
+      "sourceId": "lootura-es-abc"
     },
     {
-      "title": "El precio de los carburantes, desbocado por el fin de la rebaja del IVA: el depósito se encarece un 13% en tres semanas, un euro extra cada 48 horas",
-      "url": "https://www.larazon.es/economia/precio-carburantes-desbocado-fin-rebaja-iva-deposito-encarece-13-tres-semanas-euro-extra-cada-48-horas_202607236a61e729aa17c0020f2b603d.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-23T10:05:15.000Z",
-      "sourceId": "lootura-es-la-razon"
+      "title": "Lagarde mantiene tipos en el 2,25% y deja la siguiente subida para septiembre: “El shock energético puede intensificarse”",
+      "url": "https://elpais.com/economia/2026-07-23/el-bce-mantiene-tipos-en-el-225-y-deja-la-siguiente-subida-para-septiembre.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-23T13:07:08.000Z",
+      "sourceId": "lootura-es-cinco-dias"
+    },
+    {
+      "title": "El BCE mantiene los tipos y anticipa una nueva subida en septiembre si la guerra en Irán persiste",
+      "url": "https://www.elcorreo.com/economia/bce-mantiene-tipos-anticipa-nueva-subida-septiembre-20260723141530-ntrc_amp.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-23T12:16:09.000Z",
+      "sourceId": "lootura-es-el-correo"
+    },
+    {
+      "title": "El Gobierno salva el escudo anticrisis por la guerra en Irán con rebajas fiscales en los carburantes hasta octubre",
+      "url": "https://www.eldiario.es/economia/gobierno-salva-escudo-anticrisis-guerra-iran-rebajas-fiscales-carburantes-octubre_1_13401170.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-23T11:00:50.000Z",
+      "sourceId": "lootura-es-eldiario-es"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 4
 }

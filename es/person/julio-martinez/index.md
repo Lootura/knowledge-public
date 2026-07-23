@@ -3,10 +3,16 @@
 > Sigue la actividad de Julio Martínez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-23T10:20:05.700Z
+- Actualizado: 2026-07-23T13:51:07.363Z
 - Canonical: https://atlas.lootura.com/es/person/julio-martinez
 
 ## Cambios recientes
+
+### Los titulares de la entrevista a Zapatero: de la estrategia de defensa de Julio Martínez a los trabajos de sus hijas
+
+El expresidente del Gobierno José Luis Rodríguez Zapatero ha dado este jueves en RTVE su primera entrevista a un medio de comunicación desde que fuese imputado en una investigación de la Audiencia Nacional que lo coloca en la cúspide de una trama internacional de tráfico ilícito de influencias. El asunto partía del lav.
+
+Date: 2026-07-23
 
 ### Javier Ruiz, sobre irse de la RTVE de Pedro Sánchez y 'Mañaneros '360': «Me dan ganas de dejarlo todas las mañanas. Hay un coste humano»
 
@@ -62,13 +68,6 @@ Julio Martínez Martínez entró sobre las 8.45 de este martes en la Audiencia N
 
 Date: 2026-07-22
 
-### Julio Martínez complica el futuro judicial de Zapatero aunque no despeja la X que pondría en serios aprietos a Moncloa
-
-La declaración de Julio Martínez Martínez y los escritos que tanto él como dos altos cargos de Plus Ultra han remitido esta semana a la Audiencia Nacional han complicado seriamente el futuro judicial de José Luis Rodríguez Zapatero . Los tres investigados corroboran ahora los informes de la UDEF y señalan que el expres.
-
-Date: 2026-07-22
-
 ## Fuentes
 
-- [Javier Ruiz, sobre irse de la RTVE de Pedro Sánchez y 'Mañaneros '360': «Me dan ganas de dejarlo todas las mañanas. Hay un coste humano»](https://www.abc.es/play/television/noticias/javier-ruiz-tajante-sobre-irse-rtve-pedro-20260723104318-nt_amp.html?utm_source=lootura.com) — 2026-07-23T08:43:19.000Z
-- [La Audiencia ve como un "gran avance" para el tráfico de influencias la confesión del pagador de Zapatero y los directivos de Plus Ultra](https://amp.elmundo.es/espana/2026/07/22/6a60e3bf21efa078558b4583.html?utm_source=lootura.com) — 2026-07-22T20:40:16.000Z
+- [Los titulares de la entrevista a Zapatero: de la estrategia de defensa de Julio Martínez a los trabajos de sus hijas](https://elpais.com/espana/2026-07-23/las-titulares-de-la-entrevista-a-zapatero-de-la-estrategia-de-defensa-de-julio-martinez-a-los-trabajos-de-sus-hijas.html?utm_source=lootura.com) — 2026-07-23T12:32:24.000Z

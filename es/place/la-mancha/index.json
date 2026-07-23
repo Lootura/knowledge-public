@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/la-mancha/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/la-mancha/index.json",
   "description": "Sigue la actividad de La Mancha en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-23T10:20:05.700Z",
+  "updatedAt": "2026-07-23T13:51:07.363Z",
   "aliases": [
     "Comarca manchega",
     "Mancha"
@@ -77,13 +77,7 @@
       "url": "https://elpais.com/clima-y-medio-ambiente/2026-07-23/la-tercera-ola-de-calor-del-verano-se-despide-con-avisos-rojos-en-murcia-y-la-comunidad-valenciana.html?utm_source=lootura.com",
       "publishedAt": "2026-07-23T10:12:32.000Z",
       "sourceId": "lootura-es-el-pais"
-    },
-    {
-      "title": "Incendios en España, en directo hoy: Mejora la situación de Almorox y esperan estabilizarlo en unas horas",
-      "url": "https://www.larazon.es/sociedad/incendios-espana-directo-hoy-ultima-hora-fuegos-activos-operativos-extincion_202607236a6192fada3add27d4dd1811.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-23T10:10:42.000Z",
-      "sourceId": "lootura-es-la-razon"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 2
 }
