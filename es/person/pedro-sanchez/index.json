@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/pedro-sanchez/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/pedro-sanchez/index.json",
   "description": "Sigue la actividad de Pedro Sánchez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-24T17:27:46.992Z",
+  "updatedAt": "2026-07-24T20:59:56.236Z",
   "aliases": [
     "P S",
     "P. S.",
@@ -25,6 +25,11 @@
     {
       "title": "Podcast | Escándalo en la regularización: se ‘cuelan’ 400.000 inmigrantes",
       "summary": "Todo lo que rodea a la regularización masiva de inmigrantes impulsada por el Gobierno de Pedro Sánchez es escandaloso. Primero dijeron que solo iba a beneficiar a 500.000, que se encontraban en situación irregular en nuestro país, y finalmente fueron 1,2 millones de solicitudes. Pues bien, de estos, tal y como ha desve.",
+      "date": "2026-07-24"
+    },
+    {
+      "title": "Sánchez visita este sábado la zona afectada por los incendios de Madrid",
+      "summary": "El presidente del Gobierno, Pedro Sánchez , visitará la zona afectada por los incendios que han calcinado la Comunidad de Madrid el próximo sábado. Estos fuegos han dejado, al menos, 45.000 personas o evacuadas . Así lo ha detallado el Gobierno en un comunicado, en el que, además, informan que el jefe del Ejecutivo acu.",
       "date": "2026-07-24"
     },
     {
@@ -61,14 +66,15 @@
       "title": "España pide ayuda a la UE y moviliza a 1000 militares y efectivos de otras comunidades para atajar los incendios de Madrid y Ávila",
       "summary": "Tras declarar el Gobierno la emergencia nacional por la rápida propagación del fuego, la reunión de coordinación celebrada en La Monloa y presidida por Pedro Sánchez ha terminado pasadas las 10.00 de la mañana DIRECTO - Sigue aquí la última hora sobre los incendios España ha solicitado a través de la Unidad Militar de.",
       "date": "2026-07-24"
-    },
-    {
-      "title": "La UE suspende al Gobierno por la financiación de partidos políticos y la desregulación del 'lobby'",
-      "summary": "El Informe sobre el Estado de derecho en España, elaborado por la Comisión Europea , saca a relucir las promesas incumplidas de Pedro Sánchez en regeneración democrática y prevención de la corrupción. En concreto, el ente europeo apunta a ámbitos de total actualidad , como la falta de transparencia en la financiación d.",
-      "date": "2026-07-24"
     }
   ],
   "sources": [
+    {
+      "title": "Sánchez visita este sábado la zona afectada por los incendios de Madrid",
+      "url": "https://www.20minutos.es/madrid/sanchez-visita-este-sabado-zona-afectada-por-los-incendios-madrid_7018805_0.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-24T18:34:25.000Z",
+      "sourceId": "lootura-es-20minutos"
+    },
     {
       "title": "Ayuso y Puente se llaman mutuamente “mamarrachos” por la crisis de los incendios",
       "url": "https://elpais.com/espana/2026-07-24/sanchez-y-marlaska-inciden-en-la-solidaridad-y-puente-acusa-al-pp-de-querer-que-les-resuelvan-la-papeleta-de-los-incendios.html?utm_source=lootura.com",
@@ -82,5 +88,5 @@
       "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 3
 }

@@ -3,7 +3,7 @@
 > Follow Iran, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-24T17:28:08.619Z
+- Updated: 2026-07-24T21:00:15.269Z
 - Canonical: https://atlas.lootura.com/us/place/iran
 
 ## Recent changes
@@ -50,31 +50,33 @@ Already feeling pinched since the start of the Iran war, consumers are likely to
 
 Date: 2026-07-24
 
-### Rapid pace of interceptor and precision-guided weapons use worries Trump admin.
+### Mixed close on Wall Street amid U.S.-Iran fighting, new Trump tariffs
 
-The U.S. defense industrial base isn't equipped to produce missiles rapidly enough to replenish munitions used in the war with Iran, or transferred for use to Central Command.
-
-Date: 2026-07-24
-
-### Number of U.S. Troop Deaths in Iran War Appears Lower on Pentagon Website
-
-Three military officials and a Pentagon spokesman gave conflicting explanations for why the number of Americans killed in the Iran war had changed.
+Stock markets closed mixed on Friday as the Iran war continues to upend energy prices. CBS News MoneyWatch correspondent Kelly O'Grady has more.
 
 Date: 2026-07-24
 
-### ‘We’re Trapped in Hell’: Iranians Say Life Is Put On Hold by Months of War
+### Trump says U.S. 'locked and loaded' to attack Iran as concerns grow over rising costs at home
 
-Devastated by cycles of violence and economic crisis, many are giving up on work and their futures as the United States batters Iran again.
+NBC’s Monica Alba, Brian Cheung, Courtney Kube and Richard Engel share their latest reporting on new strikes in Iran and the economic impact of a growing war. Retired Vice Admiral Kevin Donegan reacts to the president’s comments, saying he sees a “potential path to escalation" in Iran.
+
+Date: 2026-07-24
+
+### Trump takes questions on Iran and cyclosporiasis outbreak during White House event
+
+During an event on nuclear innovation, President Trump fielded questions from reporters on the war with Iran and threats about potential targets and the outbreak of cyclosporiasis. NBC News' Monica Alba reports on what the president had to say about the issues facing the administration.
 
 Date: 2026-07-24
 
 ## Sources
 
 - [How Trump's threat of a "massive attack" on Iran could unfold](https://www.cbsnews.com/video/how-trumps-threat-massive-attack-on-iran-could-unfold/?utm_source=lootura.com) — 2026-07-24T17:01:00.000Z
+- [Mixed close on Wall Street amid U.S.-Iran fighting, new Trump tariffs](https://www.cbsnews.com/video/mixed-close-wall-street-us-iran-fighting-new-trump-tariffs/?utm_source=lootura.com) — 2026-07-24T20:50:53.000Z
 - [Concerns over U.S. weapons getting depleted as U.S. and Iran continue to trade strikes](https://www.cbsnews.com/video/concerns-over-us-weapons-getting-depleted-as-us-and-iran-continue-to-trade-strikes/?utm_source=lootura.com) — 2026-07-24T13:17:11.000Z
+- [Trump says U.S. 'locked and loaded' to attack Iran as concerns grow over rising costs at home](https://www.nbcnews.com/meet-the-press/video/trump-says-u-s-locked-and-loaded-to-attack-iran-as-concerns-grow-over-rising-costs-at-home-267244101960?utm_source=lootura.com) — 2026-07-24T20:33:49.000Z
+- [Trump takes questions on Iran and cyclosporiasis outbreak during White House event](https://www.nbcnews.com/now/video/trump-takes-questions-on-iran-and-cyclosporiasis-outbreak-during-white-house-event-267243589518?utm_source=lootura.com) — 2026-07-24T20:14:14.000Z
 - [Morning news brief](https://www.npr.org/2026/07/24/nx-s1-5895986/morning-news-brief?utm_source=lootura.com) — 2026-07-24T08:45:17.000Z
 - [Gas, groceries and back-to-school items are where shoppers might see higher oil prices surface](https://www.pbs.org/newshour/nation/gas-groceries-and-back-to-school-items-are-where-shoppers-might-see-higher-oil-prices-surface?utm_source=lootura.com) — 2026-07-24T15:12:57.000Z
 - [A Fallen Soldier’s Angst, Love and Longing to Return Home From the Iran War](https://www.nytimes.com/2026/07/23/us/michael-emmanuel-swinton-iran-soldier.html?utm_source=lootura.com) — 2026-07-24T00:04:57.000Z
-- [House Rebukes Trump on Iran in War Powers Vote as Senate Blocks Debate](https://www.nytimes.com/2026/07/23/us/politics/house-iran-war-powers-vote-trump.html?utm_source=lootura.com) — 2026-07-23T18:17:54.000Z
+- [Cornell, Northwestern and Other Universities Plan for Classes at Middle East Campuses](https://www.nytimes.com/2026/07/24/us/middle-east-campuses-american-universities.html?utm_source=lootura.com) — 2026-07-24T18:27:32.000Z
 - [Brent Crude Oil Prices Top $100 as Conflict With Iran Drags On](https://www.nytimes.com/2026/07/24/business/oil-prices-global-stocks-shipping.html?utm_source=lootura.com) — 2026-07-24T09:28:16.000Z
-- [Iran War and Trump’s Tariffs Threaten a Resilient U.S. Economy](https://www.nytimes.com/2026/07/24/business/iran-war-tariffs-economy.html?utm_source=lootura.com) — 2026-07-24T13:41:20.000Z

@@ -3,10 +3,16 @@
 > Sigue la actividad de Estados Unidos de Venezuela en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-23T13:51:07.363Z
+- Actualizado: 2026-07-24T20:59:56.236Z
 - Canonical: https://atlas.lootura.com/es/place/venezuela
 
 ## Cambios recientes
+
+### Alex Saab, testaferro de Maduro, se declara inocente de lavado de dinero en EEUU
+
+El presunto testaferro de Nicolás Maduro afronta varios cargos tras ser deportado desde Venezuela.
+
+Date: 2026-07-24
 
 ### Repsol prioriza elevar la producción en Venezuela y aparca el debate de la deuda
 
@@ -62,12 +68,6 @@ Delcy Rodríguez ha confirmado que fue José Luis Ábalos quien la invitó a via
 
 Date: 2026-07-16
 
-### El contraste tras la tragedia en Venezuela
-
-La sucesora de Nicolás Maduro, Delcy Rodríguez, ha prometido soluciones habitacionales antes de concluir este año producto de los dos terremotos sufridos el pasado 24 de junio. Al mismo tiempo, eleva el tono del discurso, enfocándose más en sus enemigos políticos que en la atención de la crisis. Las preguntas de la pre.
-
-Date: 2026-07-16
-
 ## Fuentes
 
-No public source links.
+- [Alex Saab, testaferro de Maduro, se declara inocente de lavado de dinero en EEUU](https://theobjective.com/internacional/2026-07-24/exmministro-venezolano-alex-saab-no-culpable-dinero-eeuu/?amp=&utm_source=lootura.com) — 2026-07-24T20:42:31.000Z

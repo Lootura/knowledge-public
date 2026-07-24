@@ -27,19 +27,6 @@
       "date": "2026-07-24"
     }
   ],
-  "sources": [
-    {
-      "title": "More than 80,000 flee forest infernos in France and Spain",
-      "url": "https://phys.org/news/2026-07-forest-infernos-france-spain.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-24T16:40:07.000Z",
-      "sourceId": "lootura-us-phys-org"
-    },
-    {
-      "title": "Wildfires in France and Spain Drive Tens of Thousands From Their Homes",
-      "url": "https://www.nytimes.com/2026/07/24/world/europe/france-spain-wildfires.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-24T16:12:41.000Z",
-      "sourceId": "lootura-us-the-new-york-times-world"
-    }
-  ],
-  "evidenceCount": 2
+  "sources": [],
+  "evidenceCount": 0
 }

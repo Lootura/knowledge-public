@@ -3,7 +3,7 @@
 > Sigue la actividad de José Luis Rodríguez Zapatero en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-24T17:27:46.992Z
+- Actualizado: 2026-07-24T20:59:56.236Z
 - Canonical: https://atlas.lootura.com/es/person/rodriguez-zapatero
 
 ## Cambios recientes
@@ -11,12 +11,6 @@
 ### El juez Calama cita a declarar a los directivos de Plus Ultra que implicaron a Zapatero en el rescate
 
 El magistrado José Luis Calama, instructor del caso Plus Ultra , da un nuevo paso en la investigación abierta contra el expresidente José Luis Rodríguez Zapatero. El juez ha decidido interrogar los próximos 7 y 8 de septiembre a Julio Martínez Sola, presidente de la aerolínea, y a su consejero delegado, Roberto Roselli.
-
-Date: 2026-07-24
-
-### El juez llama a declarar a los directivos de Plus Ultra que aseguraron que Zapatero estaba detrás del rescate
-
-El juez José Luis Calama ha llamado a declarar este viernes al presidente de la aerolínea Plus Ultra , Julio Martínez Sola, y al consejero delegado, Roberto Roselli Miele, en la causa que investiga al expresidente José Luis Rodríguez Zapatero como miembro de una trama ilícita de influencias vinculada al rescate de la a.
 
 Date: 2026-07-24
 
@@ -65,6 +59,12 @@ Date: 2026-07-24
 ### Anticorrupción pide ampliar el análisis de las joyas de Zapatero para averiguar la fecha exacta de su montaje
 
 La Fiscalía Anticorrupción ha solicitado una ampliación del estudio sobre las joyas millonarias que escondía el ex presidente del Gobierno José Luis Rodríguez Zapatero en una...
+
+Date: 2026-07-23
+
+### Los cinco indicios sin respuesta tras las declaraciones de Zapatero en su entrevista en RTVE
+
+Negación, evasivas e inhibición. Así fue la primera entrevista concedida por el ex presidente José Luis Rodríguez Zapatero desde su imputación en el caso Plus Ultra. Con sus...
 
 Date: 2026-07-23
 

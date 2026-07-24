@@ -8,9 +8,14 @@
   "markdownUrl": "https://atlas.lootura.com/us/product/warner-bros/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/product/warner-bros/index.json",
   "description": "Follow Warner Bros., a tracked product, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-21T10:23:35.333Z",
+  "updatedAt": "2026-07-24T21:00:15.269Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "Paramount Skydance agrees to halt Warner Bros. merger until next June",
+      "summary": "Paramount Skydance has agreed to freeze its merger with rival Hollywood studio Warner Bros.",
+      "date": "2026-07-24"
+    },
     {
       "title": "Judge puts temporary pause on Paramount-Warner merger",
       "summary": "Paramount Skydance’s takeover of Warner Bros. Discovery hit a roadblock Monday after a federal judge temporarily paused the proposed merger.",
@@ -48,20 +53,22 @@
     },
     {
       "title": "Discovered by Atlas",
-      "summary": "Warner Bros first entered the public knowledge record with source-backed evidence.",
+      "summary": "Warner Bros. first entered the public knowledge record with source-backed evidence.",
       "date": "2026-07-13"
     },
     {
       "title": "States sue to stop Paramount-Warner Bros blockbuster merger",
       "summary": "California is among the states suing to block Paramount from buying Warner Bros. Discovery in a Hollywood mega-merger that would unite some of the nation's largest movie studios and TV newsrooms. (Image credit: Bloomberg via Getty Images).",
       "date": "2026-07-13"
-    },
-    {
-      "title": "12 states sue to block Paramount-Warner Bros. Discovery merger",
-      "summary": "The suit poses a new challenge to the $110 billion deal that would unite two of the nation.",
-      "date": "2026-07-13"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Paramount Skydance agrees to halt Warner Bros. merger until next June",
+      "url": "https://www.nbcnews.com/business/business-news/paramount-skydance-agrees-halt-warner-bros-merger-june-2027-rcna589137?utm_source=lootura.com",
+      "publishedAt": "2026-07-24T19:46:21.000Z",
+      "sourceId": "lootura-us-nbc-news"
+    }
+  ],
+  "evidenceCount": 1
 }

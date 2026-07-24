@@ -3,7 +3,7 @@
 > Sigue la actividad de San Sebastián en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-24T17:27:46.992Z
+- Actualizado: 2026-07-24T20:59:56.236Z
 - Canonical: https://atlas.lootura.com/es/place/san-sebastian
 
 ## Cambios recientes
@@ -70,6 +70,4 @@ Date: 2026-07-20
 
 ## Fuentes
 
-- [El PNV reúne a sus dos grandes promesas: el candidato a la alcaldía de Bilbao y el regidor de San Sebastián](https://www.elcorreo.com/politica/pnv-reune-san-sebastian-dos-grandes-promesas-20260723205928-nt_amp.html?utm_source=lootura.com) — 2026-07-23T18:59:29.000Z
-- [El PNV reúne en Donostia a sus dos grandes promesas electorales, Insausti y el candidato a alcalde de Bilbao](https://www.diariovasco.com/politica/pnv-reune-donostia-dos-grandes-promesas-electorales-20260723190914-nt_amp.html?utm_source=lootura.com) — 2026-07-23T18:29:58.000Z
 - [Las carabelas portuguesas dejan casi un centenar de picaduras leves en Donostia y otras playas de Gipuzkoa esta semana](https://www.diariovasco.com/san-sebastian/carabelas-portuguesas-dejan-centenar-picaduras-leves-donostia-gipuzkoa-20260724144803-nt_amp.html?utm_source=lootura.com) — 2026-07-24T12:48:21.000Z

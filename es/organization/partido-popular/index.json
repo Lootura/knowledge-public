@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/partido-popular/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/partido-popular/index.json",
   "description": "Sigue la actividad de Partido Popular en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-24T17:27:46.992Z",
+  "updatedAt": "2026-07-24T20:59:56.236Z",
   "aliases": [
     "PP",
     "populares"
@@ -17,6 +17,11 @@
     {
       "title": "El PP pide al juez del 'caso Leire' que prohíba a la cúpula de la Guardia Civil dirigir la UCO mientras dure la causa",
       "summary": "El partido advierte de que Mercedes González y Manuel Llamas mantienen \"el ejercicio pleno de sus funciones y en la superioridad jerárquica sobre la propia unidad cuya labor se investiga si trataron de obstaculizar\". Leer.",
+      "date": "2026-07-24"
+    },
+    {
+      "title": "Puente a Ayuso por los incendios en Madrid: \"Si hay una mamarracha en España, esa eres tú\"",
+      "summary": "Óscar Puente e Isabel Díaz Ayuso han protagonizado un duro enfrentamiento político por los incendios de Madrid, después de que el ministro de Transportes acusara a los gobiernos autonómicos del PP de recortar servicios públicos y reclamar después la intervención del Gobierno. La disputa ha estallado mientras miles de p.",
       "date": "2026-07-24"
     },
     {
@@ -32,11 +37,6 @@
     {
       "title": "Las acusaciones populares piden que la directora de la Guardia Civil y el DAO investigados no puedan mandar sobre la UCO",
       "summary": "Las acusaciones populares del caso Leire Díez o las cloacas del PSOE, representadas por el Partido Popular, han pedido al juez Santiago Pedraz, como medida cautelar, que obligue a la directora de la Guardia Civil, Mercedes González y al Director Adjunto Operativo (DAO) de dicho Cuerpo, Manuel Llamas, ambos investigados.",
-      "date": "2026-07-24"
-    },
-    {
-      "title": "Puente a Ayuso por los incendios en Madrid: \"Si hay una mamarracha en España, esa eres tú\"",
-      "summary": "Óscar Puente e Isabel Díaz Ayuso han protagonizado un duro enfrentamiento político por los incendios de Madrid, después de que el ministro de Transportes acusara a los gobiernos autonómicos del PP de recortar servicios públicos y reclamar después la intervención del Gobierno. La disputa ha estallado mientras miles de p.",
       "date": "2026-07-24"
     },
     {
@@ -67,18 +67,6 @@
   ],
   "sources": [
     {
-      "title": "Las acusaciones populares piden que la directora de la Guardia Civil y el DAO investigados no puedan mandar sobre la UCO",
-      "url": "https://www.abc.es/espana/acusaciones-populares-piden-directora-guardia-civil-dao-20260724104145-nt.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-24T17:06:07.000Z",
-      "sourceId": "lootura-es-abc"
-    },
-    {
-      "title": "Puente responde a las críticas de Ayuso: \"Si hay una mamarracha en España, esa eres tú\"",
-      "url": "https://www.elconfidencial.com/espana/2026-07-24/ayuso-puente-incendios-madrid-1tps_4395604/?utm_source=lootura.com",
-      "publishedAt": "2026-07-24T12:52:00.000Z",
-      "sourceId": "lootura-es-el-confidencial"
-    },
-    {
       "title": "Puente a Ayuso por los incendios en Madrid: \"Si hay una mamarracha en España, esa eres tú\"",
       "url": "https://www.elconfidencial.com/espana/2026-07-24/puente-ayuso-incendios-madrid-mamarracha-1qrt_4395672/?utm_source=lootura.com",
       "publishedAt": "2026-07-24T14:40:00.000Z",
@@ -89,13 +77,7 @@
       "url": "https://www.elmundo.es/espana/2026/07/24/6a632582e9cf4a69018b4588.html?utm_source=lootura.com",
       "publishedAt": "2026-07-24T08:53:02.000Z",
       "sourceId": "lootura-es-el-mundo"
-    },
-    {
-      "title": "Puente ataca de nuevo a Ayuso: «Si hay una mamarracha en España, esa eres tú»",
-      "url": "https://theobjective.com/espana/politica/2026-07-24/puente-ayuso-llama-mamarracha/?utm_source=lootura.com",
-      "publishedAt": "2026-07-24T13:20:24.000Z",
-      "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 5
+  "evidenceCount": 2
 }

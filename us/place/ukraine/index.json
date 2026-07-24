@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/ukraine/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/ukraine/index.json",
   "description": "Follow Ukraine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-24T17:28:08.619Z",
+  "updatedAt": "2026-07-24T21:00:15.269Z",
   "aliases": [
     "Kyiv",
     "Ukr.",
@@ -74,13 +74,7 @@
       "url": "https://www.pbs.org/newshour/world/ukraine-hits-russias-largest-online-marketplace-hurting-small-businesses-and-bringing-the-war-home?utm_source=lootura.com",
       "publishedAt": "2026-07-24T15:33:58.000Z",
       "sourceId": "lootura-us-pbs-newshour"
-    },
-    {
-      "title": "Russia and Ukraine Trade Deadly Blows With Missiles and Drones",
-      "url": "https://www.nytimes.com/2026/07/24/world/europe/russia-ukraine-war-attacks.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-24T13:41:46.000Z",
-      "sourceId": "lootura-us-the-new-york-times-world"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/company/el-corte-ingles/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/company/el-corte-ingles/index.json",
   "description": "Sigue la actividad de El Corte Inglés en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-24T17:27:46.992Z",
+  "updatedAt": "2026-07-24T20:59:56.236Z",
   "aliases": [
     "Corte Ingles",
     "Corte Inglés",
@@ -21,6 +21,16 @@
   ],
   "changes": [
     {
+      "title": "Discovered by Atlas",
+      "summary": "El Corte Inglés first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-07-24"
+    },
+    {
+      "title": "Product availability changed in Europe",
+      "summary": "Los televisores Mini LED están ganando terreno a los OLED como propuestas más accesibles para los que buscan una mejor calidad de imagen y mayor control del brillo sin gastar tanto dinero, pero los OLED siguen ofreciendo un nivel de contraste impresionante al poder apagar cada pixel de manera individual. Por este motiv.",
+      "date": "2026-07-24"
+    },
+    {
       "title": "El Corte Inglés aprueba un nuevo dividendo récord: abonará en torno a 250 millones de euros",
       "summary": "El Corte Inglés vuelve a batir un nuevo récord en el reparto de dividendos. La compañía de distribución, que este viernes ha celebrado su junta de accionistas anual, ha aprobado el reparto de un dividendo de en torno a 250 millones de euros, según ha podido saber este periódico. Una cifra que supera los 225 millones de.",
       "date": "2026-07-24"
@@ -29,26 +39,15 @@
       "title": "El Corte Inglés presentará en septiembre la revisión de su plan con una inversión más ambiciosa",
       "summary": "El Corte Inglés presentará en septiembre la actualización al alza de su plan estratégico. Así lo ha confirmado la presidenta de los grandes almacenes, Cristina Álvarez,...",
       "date": "2026-07-24"
-    },
-    {
-      "title": "Discovered by Atlas",
-      "summary": "El Corte Inglés first entered the public knowledge record with source-backed evidence.",
-      "date": "2026-07-24"
     }
   ],
   "sources": [
     {
-      "title": "El Corte Inglés aprueba un nuevo dividendo récord: abonará en torno a 250 millones de euros",
-      "url": "https://cincodias.elpais.com/companias/2026-07-24/el-corte-ingles-aprobara-en-septiembre-una-actualizacion-de-su-plan-estrategico-con-mas-inversiones.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-24T13:17:28.000Z",
-      "sourceId": "lootura-es-cinco-dias"
-    },
-    {
-      "title": "El Corte Inglés presentará en septiembre la revisión de su plan con una inversión más ambiciosa",
-      "url": "https://amp.expansion.com/empresas/distribucion/2026/07/24/6a6359d4e5fdeac4678b458a.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-24T12:27:07.000Z",
-      "sourceId": "lootura-es-expansion"
+      "title": "La Smart TV perfecta para jugar con tu PS5, Switch 2 o Xbox es esta LG OLED de 48 pulgadas, ahora a precio mínimo en El Corte Inglés",
+      "url": "https://www.larazon.es/compras/nuestra-eleccion/smart-perfecta-jugar-ps5-switch-2-xbox-esta-oled-48-pulgadas-ahora-precio-minimo-corte-ingles_202607246a63cb554687a22bdecc24fc.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-24T20:30:13.000Z",
+      "sourceId": "lootura-es-la-razon"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

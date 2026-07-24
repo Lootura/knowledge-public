@@ -3,7 +3,7 @@
 > Follow Artificial intelligence, a tracked topic, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: topic
-- Updated: 2026-07-24T17:28:08.619Z
+- Updated: 2026-07-24T21:00:15.269Z
 - Canonical: https://atlas.lootura.com/us/topic/artificial-intelligence
 
 ## Recent changes
@@ -11,6 +11,18 @@
 ### Briefing Chat: Baby T. rex were killers from birth, suggest new fossils
 
 Nature, Published online: 24 July 2026; doi:10.1038/d41586-026-02338-2 Nature staff discuss the young but deadly dinosaur kings, the prowess of ancient Egyptian princesses, and how London is becoming the world’s AI safety capital.
+
+Date: 2026-07-24
+
+### Funding milestone detected
+
+Nature, Published online: 24 July 2026; doi:10.1038/d41586-026-02332-8 Chief US science adviser calls for a shakeup in funding while handing out grants to accelerate research with AI.
+
+Date: 2026-07-24
+
+### Midjourney bought the astrology app Co-Star
+
+Midjourney, which has gone from generating AI cat images to full-body ultrasound scans , is getting into a new field: astrology. The AI startup announced on Thursday that it has acquired the personalized astrology app Co-Star, as reported earlier by Bloomberg . Co-Star is a free app that offers daily horoscopes and all.
 
 Date: 2026-07-24
 
@@ -56,20 +68,8 @@ President Trump spoke Thursday about a plan to prevent ratepayers from taking on
 
 Date: 2026-07-23
 
-### AI unlocks Atlantic circulation insights from 20 years of ocean float data
-
-For more than 20 years, about 4,000 autonomous profiling floats have been drifting through the ocean. They form part of the international Argo program (Argo—global array of profiling floats). At regular intervals, they descend to a depth of 2,000 meters (6,600 feet) and, as they rise, measure parameters such as tempera.
-
-Date: 2026-07-23
-
-### Tilly Norwood's creator insists the AI actor is creating Hollywood jobs
-
-The robot actor is generating work for Hollywood creatives, not stealing jobs from actors, her inventor tells CBS News.
-
-Date: 2026-07-23
-
 ## Sources
 
-- [Briefing Chat: Baby T. rex were killers from birth, suggest new fossils](https://www.nature.com/articles/d41586-026-02338-2?utm_source=lootura.com) — 2026-07-24T17:28:12.627Z
-- [Struggling with a hard life choice? AI future selves have tips](https://www.sciencenews.org/article/life-choice-ai-future-selves-decisions?utm_source=lootura.com) — 2026-07-24T15:00:00.000Z
-- [The tech-broification of American science has officially begun](https://www.theverge.com/science/970534/genesis-mission-ai-science-funding-trump-grants?utm_source=lootura.com) — 2026-07-24T14:43:55.000Z
+- [White House rolls out AI funding — and signals a new era for US science](https://www.nature.com/articles/d41586-026-02332-8?utm_source=lootura.com) — 2026-07-24T21:00:19.062Z
+- [Briefing Chat: Baby T. rex were killers from birth, suggest new fossils](https://www.nature.com/articles/d41586-026-02338-2?utm_source=lootura.com) — 2026-07-24T21:00:19.062Z
+- [Midjourney bought the astrology app Co-Star](https://www.theverge.com/ai-artificial-intelligence/970894/midjourney-co-star-acquisition?utm_source=lootura.com) — 2026-07-24T19:06:58.000Z

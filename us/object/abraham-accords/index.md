@@ -3,10 +3,16 @@
 > Follow Abraham Accords, a tracked object, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: object
-- Updated: 2026-07-24T13:39:26.682Z
+- Updated: 2026-07-24T21:00:15.269Z
 - Canonical: https://atlas.lootura.com/us/object/abraham-accords
 
 ## Recent changes
+
+### Trump says "nobody got out ahead" of him on Saudi nuclear deal announcement after changing terms
+
+President Trump took questions from reporters the day after he seemed to upend a nuclear agreement with Saudi Arabia by adding a new condition: that the country join the Abraham Accords. CBS News White House reporter Olivia Rinaldi has the details.
+
+Date: 2026-07-24
 
 ### Discovered by Atlas
 
@@ -52,4 +58,4 @@ Date: 2026-07-23
 
 ## Sources
 
-No public source links.
+- [Trump says "nobody got out ahead" of him on Saudi nuclear deal announcement after changing terms](https://www.cbsnews.com/video/trump-nobody-got-out-ahead-saudi-nuclear-deal-announcement-changing-terms/?utm_source=lootura.com) — 2026-07-24T20:28:05.000Z

@@ -3,10 +3,16 @@
 > Follow Europe, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-24T17:28:08.619Z
+- Updated: 2026-07-24T21:00:15.269Z
 - Canonical: https://atlas.lootura.com/us/place/europe
 
 ## Recent changes
+
+### Trump's replacement tariffs continue to put pressure on U.S. economy
+
+President Trump slapped replacement tariffs on 59 countries and the European Union to replace expiring ones.
+
+Date: 2026-07-24
 
 ### More than 80,000 flee forest infernos in France and Spain
 
@@ -62,12 +68,6 @@ Human-caused climate change has intensified a drought across Europe, with extrem
 
 Date: 2026-07-23
 
-### U.S.-Saudi Deal Prompts Fears of a Nuclear Arms Race
-
-In Europe, Asia and the Middle East, countries seek nuclear capabilities to hedge against aggressive neighbors and a receding Washington, potentially creating a more freewheeling era.
-
-Date: 2026-07-23
-
 ## Sources
 
-- [More than 80,000 flee forest infernos in France and Spain](https://phys.org/news/2026-07-forest-infernos-france-spain.html?utm_source=lootura.com) — 2026-07-24T16:40:07.000Z
+- [Trump's replacement tariffs continue to put pressure on U.S. economy](https://www.npr.org/2026/07/24/nx-s1-5904620/trumps-replacement-tariffs-continue-to-put-pressure-on-u-s-economy?utm_source=lootura.com) — 2026-07-24T20:26:01.000Z

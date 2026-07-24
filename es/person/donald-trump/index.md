@@ -3,20 +3,32 @@
 > Sigue la actividad de Donald Trump en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-24T17:27:46.992Z
+- Actualizado: 2026-07-24T20:59:56.236Z
 - Canonical: https://atlas.lootura.com/es/person/donald-trump
 
 ## Cambios recientes
 
-### Trump intenta reconstruir su muro proteccionista con aranceles del 10 y el 12% a más de 60 socios comerciales, incluyendo la UE
-
-Tras la decisión del Tribunal Supremo, que en febrero declaró ilegales los gravámenes aplicados con una ley de emergencia económica, Washington aplica un nuevo recargo amparándose en legislación sobre trabajos forzosos Leer.
-
-Date: 2026-07-24
-
 ### Bruselas valora "positivamente" los nuevos aranceles de Trump del 10% porque "se ajustan" al acuerdo de Turnberry
 
 El acuerdo que la UE y EEUU alcanzaron hace justamente un año planteaba una tasa general máxima del 15%. La Comisión cree que la decisión del magnate "aporta un impulso positivo para seguir trabajando en la búsqueda de nuevas exenciones" Leer.
+
+Date: 2026-07-24
+
+### Trump vuelve a la cena de corresponsales que fue interrumpida a tiros en abril
+
+La Asociación de Corresponsales de la Casa Blanca celebra este viernes de nuevo la cena que quedó suspendida hace tres meses tras el tiroteo registrado en el Washington Hilton. Donald Trump volverá a asistir a la cita, esta vez en un recinto distinto y con un dispositivo de seguridad muy reforzado, para completar un pr.
+
+Date: 2026-07-24
+
+### Trump amenaza a Europa con nuevos aranceles tras la multa de la UE a Google
+
+Ahora que ha encontrado un nuevo artefacto comercial, Donald Trump vuelve a disparar a diestro y siniestro. El presidente de Estados Unidos ha amenazado este viernes a la Unión Europea con imponer nuevos aranceles por la multa que Bruselas ha anunciado esta semana a Google por vulnerar las leyes de competencia. Seguir.
+
+Date: 2026-07-24
+
+### Trump amenaza a la UE con más aranceles por multar a Google y las tecnológicas: "Lo pagarán caro"
+
+"La Unión Europea vuelve a las andadas y, como siempre, ¡ataca directamente a grandes empresas estadounidenses!", ha denunciado el presidente de Estados Unidos en un mensaje en su plataforma de redes sociales, en el que ha acusado a Bruselas de "robar" a estas compañías sin dar ningún tipo de explicación. Seguir leyend.
 
 Date: 2026-07-24
 
@@ -50,25 +62,15 @@ El Gobierno del presidente de Estados Unidos, Donald Trump, anunció este jueves
 
 Date: 2026-07-24
 
-### Trump impone nuevos aranceles de entre el 10% y el 12,5% a más de 60 países para mantener su muro comercial
+### Los ataques hutíes en el Mar Rojo, que Trump promete castigar, disparan el petróleo a 100 dólares
 
-El presidente de Estados Unidos, Donald Trump, ha aprobado este jueves una orden ejecutiva para imponer aranceles de entre el 10% y el 12,5% a más de 60 países, entre los que se encuentran España y el resto de miembros de la Unión Europea, Reino Unido, China, India, Japón, Corea del Sur o México, por no haber tomado su.
-
-Date: 2026-07-23
-
-### Trump intenta reconstruir su muro proteccionista con aranceles del 10 y el 12% a más de 60 socios comerciales, incluyendo la UE
-
-Tras la decisión del Tribunal Supremo, que en febrero declaró ilegales los gravámenes aplicados con una ley de emergencia económica, Washington aplica un nuevo recargo amparándose en legislación sobre trabajos forzosos Leer.
-
-Date: 2026-07-23
-
-### Trump activa este viernes una nueva tanda de aranceles globales del 10% al 12,5% a más de 60 países
-
-Donald Trump ha terminado por desplegar la artillería para su nueva batalla comercial. Estados Unidos estrenará este viernes una nueva oleada de aranceles, de entre el 10% y el 12,5%, sobre los productos de más de 60 países para sustituir a las tarifas generales del 10% que impuso después de que la Justicia estadounide.
+Lejos de amainar, el conflicto de Oriente Próximo sacude al mundo, las economías nacionales y los mercados con un segundo nuevo frente. Tras una docena de días de nuevas...
 
 Date: 2026-07-23
 
 ## Fuentes
 
-- [Trump intenta reconstruir su muro proteccionista con aranceles del 10 y el 12% a más de 60 socios comerciales, incluyendo la UE](https://www.elmundo.es/economia/2026/07/24/6a628eabe4d4d8a9278b458b.html?utm_source=lootura.com) — 2026-07-24T05:56:49.000Z
+- [Trump vuelve a la cena de corresponsales que fue interrumpida a tiros en abril](https://www.abc.es/internacional/trump-vuelve-cenar-prensa-terminar-fiesta-interrumpida-20260723215516-nt.html?utm_source=lootura.com) — 2026-07-24T19:57:15.000Z
+- [Trump amenaza a Europa con nuevos aranceles tras la multa de la UE a Google](https://elpais.com/economia/2026-07-24/trump-amenaza-a-europa-con-nuevos-aranceles-tras-la-multa-de-la-ue-a-google.html?utm_source=lootura.com) — 2026-07-24T17:46:49.000Z
 - [Bruselas valora "positivamente" los nuevos aranceles de Trump del 10% porque "se ajustan" al acuerdo de Turnberry](https://www.elmundo.es/economia/2026/07/24/6a63193efdddffb82f8b457c.html?utm_source=lootura.com) — 2026-07-24T07:59:34.000Z
+- [Trump amenaza a la UE con más aranceles por multar a Google y las tecnológicas: "Lo pagarán caro"](https://www.expansion.com/economia/2026/07/24/6a63b3f9468aebf87d8b45ba.html?utm_source=lootura.com) — 2026-07-24T19:46:00.000Z

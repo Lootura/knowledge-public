@@ -3,7 +3,7 @@
 > Sigue la actividad de Estados Unidos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-24T17:27:46.992Z
+- Actualizado: 2026-07-24T20:59:56.236Z
 - Canonical: https://atlas.lootura.com/es/place/united-states
 
 ## Cambios recientes
@@ -11,6 +11,18 @@
 ### El mercado penaliza la compra de Mapfre en EEUU: sus acciones caen un 4,7%
 
 Mapfre salió ayer de compras por Estados Unidos y el mercado no ha recibido bien sus adquisiciones. La aseguradora española anunció la compra de la estadounidense Safety por 1.352 millones de euros. Las primeras reacciones de los inversores no han sido positivas: la acción cae cerca de un 5%. A todo ello se suman ademá.
+
+Date: 2026-07-24
+
+### Trump amenaza a Europa con nuevos aranceles tras la multa de la UE a Google
+
+Ahora que ha encontrado un nuevo artefacto comercial, Donald Trump vuelve a disparar a diestro y siniestro. El presidente de Estados Unidos ha amenazado este viernes a la Unión Europea con imponer nuevos aranceles por la multa que Bruselas ha anunciado esta semana a Google por vulnerar las leyes de competencia. Seguir.
+
+Date: 2026-07-24
+
+### Trump amenaza a la UE con más aranceles por multar a Google y las tecnológicas: "Lo pagarán caro"
+
+"La Unión Europea vuelve a las andadas y, como siempre, ¡ataca directamente a grandes empresas estadounidenses!", ha denunciado el presidente de Estados Unidos en un mensaje en su plataforma de redes sociales, en el que ha acusado a Bruselas de "robar" a estas compañías sin dar ningún tipo de explicación. Seguir leyend.
 
 Date: 2026-07-24
 
@@ -56,18 +68,8 @@ Mapfre redobla la apuesta por Estados Unidos. La aseguradora anunció este jueve
 
 Date: 2026-07-23
 
-### Donald Trump anuncia aranceles de hasta el 12,5% a 60 países, entre ellos España
-
-La Administración del presidente de Estados Unidos , Donald Trump , ha anunciado este jueves nuevos aranceles de entre el 10% y el 12,5% a las importaciones procedentes de 60 países, entre ellos España. El presidente justifica la medida en una investigación sobre «esfuerzos insuficientes para combatir el trabajo forzos.
-
-Date: 2026-07-23
-
-### Emirates dice que no está dispuesta a aceptar ninguno de los primeros Boeing 777X de producción
-
-Un 777X en producción en la factoría de Boeing de Everett – Boeing Desde hace unos meses no sólo va personal de Boeing a bordo de los vuelos de prueba del 777X, que empezaron allá por julio de 2020, sino que también hay personal de la Administración Federal de Aviación (FAA) de los Estados Unidos en ellos. Eso indica q.
-
-Date: 2026-07-23
-
 ## Fuentes
 
+- [Trump amenaza a Europa con nuevos aranceles tras la multa de la UE a Google](https://elpais.com/economia/2026-07-24/trump-amenaza-a-europa-con-nuevos-aranceles-tras-la-multa-de-la-ue-a-google.html?utm_source=lootura.com) — 2026-07-24T17:46:49.000Z
 - [El mercado penaliza la compra de Mapfre en EEUU: sus acciones caen un 4,7%](https://www.expansion.com/mercados/2026/07/24/6a633d7be5fdeaf81a8b457f.html?utm_source=lootura.com) — 2026-07-24T15:54:33.000Z
+- [Trump amenaza a la UE con más aranceles por multar a Google y las tecnológicas: "Lo pagarán caro"](https://www.expansion.com/economia/2026/07/24/6a63b3f9468aebf87d8b45ba.html?utm_source=lootura.com) — 2026-07-24T19:46:00.000Z

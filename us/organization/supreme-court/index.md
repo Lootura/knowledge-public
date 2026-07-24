@@ -3,7 +3,7 @@
 > Follow Supreme court, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-07-24T17:28:08.619Z
+- Updated: 2026-07-24T21:00:15.269Z
 - Canonical: https://atlas.lootura.com/us/organization/supreme-court
 
 ## Recent changes

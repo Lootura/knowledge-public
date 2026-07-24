@@ -28,4 +28,4 @@ Date: 2026-07-22
 
 ## Sources
 
-- [Anthropic releases Opus 5 with ‘close’ to Fable 5’s capabilities](https://www.theverge.com/ai-artificial-intelligence/970105/claude-opus-5-announced-anthropic-ai-model-release?utm_source=lootura.com) — 2026-07-24T17:00:00.000Z
+No public source links.

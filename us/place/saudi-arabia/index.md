@@ -3,10 +3,22 @@
 > Follow Saudi Arabia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-24T10:14:29.742Z
+- Updated: 2026-07-24T21:00:15.269Z
 - Canonical: https://atlas.lootura.com/us/place/saudi-arabia
 
 ## Recent changes
+
+### Trump says "nobody got out ahead" of him on Saudi nuclear deal announcement after changing terms
+
+President Trump took questions from reporters the day after he seemed to upend a nuclear agreement with Saudi Arabia by adding a new condition: that the country join the Abraham Accords. CBS News White House reporter Olivia Rinaldi has the details.
+
+Date: 2026-07-24
+
+### Cornell, Northwestern and Other Universities Plan for Classes at Middle East Campuses
+
+Even after the collapse of the cease-fire between the United States and Iran, American universities expect to teach in Qatar and the United Arab Emirates, and a new outpost is on track to open in Saudi Arabia.
+
+Date: 2026-07-24
 
 ### Israel Welcomes Trump’s Demand for Diplomatic Ties With Saudi Arabia
 
@@ -56,18 +68,7 @@ The Saudi authorities had yet to confirm the hits, which would be the first atta
 
 Date: 2026-07-23
 
-### Discovered by Atlas
-
-Saudi Arabia first entered the public knowledge record with source-backed evidence.
-
-Date: 2026-07-22
-
-### Coveted U.S. Nuclear Deal Is a Coup for Saudi Crown Prince
-
-Saudi Arabia has for years sought a deal to obtain American nuclear technology. The agreement, signed on Wednesday, could deepen U.S.-Saudi ties for decades to come.
-
-Date: 2026-07-22
-
 ## Sources
 
-No public source links.
+- [Trump says "nobody got out ahead" of him on Saudi nuclear deal announcement after changing terms](https://www.cbsnews.com/video/trump-nobody-got-out-ahead-saudi-nuclear-deal-announcement-changing-terms/?utm_source=lootura.com) — 2026-07-24T20:28:05.000Z
+- [Cornell, Northwestern and Other Universities Plan for Classes at Middle East Campuses](https://www.nytimes.com/2026/07/24/us/middle-east-campuses-american-universities.html?utm_source=lootura.com) — 2026-07-24T18:27:32.000Z

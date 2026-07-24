@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/san-sebastian/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/san-sebastian/index.json",
   "description": "Sigue la actividad de San Sebastián en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-24T17:27:46.992Z",
+  "updatedAt": "2026-07-24T20:59:56.236Z",
   "aliases": [
     "Donostia",
     "Donostia / San Sebastian",
@@ -73,23 +73,11 @@
   ],
   "sources": [
     {
-      "title": "El PNV reúne a sus dos grandes promesas: el candidato a la alcaldía de Bilbao y el regidor de San Sebastián",
-      "url": "https://www.elcorreo.com/politica/pnv-reune-san-sebastian-dos-grandes-promesas-20260723205928-nt_amp.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-23T18:59:29.000Z",
-      "sourceId": "lootura-es-el-correo"
-    },
-    {
-      "title": "El PNV reúne en Donostia a sus dos grandes promesas electorales, Insausti y el candidato a alcalde de Bilbao",
-      "url": "https://www.diariovasco.com/politica/pnv-reune-donostia-dos-grandes-promesas-electorales-20260723190914-nt_amp.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-23T18:29:58.000Z",
-      "sourceId": "lootura-es-el-diario-vasco"
-    },
-    {
       "title": "Las carabelas portuguesas dejan casi un centenar de picaduras leves en Donostia y otras playas de Gipuzkoa esta semana",
       "url": "https://www.diariovasco.com/san-sebastian/carabelas-portuguesas-dejan-centenar-picaduras-leves-donostia-gipuzkoa-20260724144803-nt_amp.html?utm_source=lootura.com",
       "publishedAt": "2026-07-24T12:48:21.000Z",
       "sourceId": "lootura-es-el-diario-vasco"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 1
 }

@@ -3,10 +3,16 @@
 > Follow South Carolina, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-24T17:28:08.619Z
+- Updated: 2026-07-24T21:00:15.269Z
 - Canonical: https://atlas.lootura.com/us/place/south-carolina
 
 ## Recent changes
+
+### There are already more U.S. measles cases this year than in all of 2025
+
+This year has easily become the U.S.'s worst year for measles since 1991, as major outbreaks in South Carolina, Utah and Arizona have sickened hundreds and smaller clusters of cases sparked in other states.
+
+Date: 2026-07-24
 
 ### DNC committee sets up South Carolina to vote first in Democrats’ 2028 presidential primaries
 
@@ -62,13 +68,7 @@ Gov. Henry McMaster says he is appointing Darline Graham to finish the term of h
 
 Date: 2026-07-14
 
-### Darline Graham, sister of Lindsey Graham, sworn in to fulfill his Senate term
-
-Lindsey Graham’s younger sister appointed by South Carolina’s governor three days after senator’s death Darline Graham Nordone: Lindsey Graham’s sister and interim US senator Darline Graham, the sister of the late Republican senator Lindsey Graham, was sworn in to temporarily fill his Senate seat on Tuesday, just three.
-
-Date: 2026-07-14
-
 ## Sources
 
-- [DNC committee sets up South Carolina to vote first in Democrats’ 2028 presidential primaries](https://www.nbcnews.com/politics/2028-election/dnc-committee-sets-south-carolina-vote-first-democrats-2028-presidenti-rcna588863?utm_source=lootura.com) — 2026-07-24T17:13:24.000Z
-- [Here Are the Candidates Vying for Sen. Lindsey Graham’s Seat](https://time.com/article/2026/07/24/lindsey-graham-senate-south-carolina-special-republican-primary-election-candidates/?utm_source=lootura.com) — 2026-07-24T14:30:55.000Z
+- [South Carolina on cusp of being first 2028 Democratic presidential primary state](https://www.cbsnews.com/news/south-carolina-first-2028-democratic-presidential-primary-state/?utm_source=lootura.com) — 2026-07-24T19:30:22.000Z
+- [There are already more U.S. measles cases this year than in all of 2025](https://www.pbs.org/newshour/health/there-are-already-more-u-s-measles-cases-this-year-than-in-all-of-2025?utm_source=lootura.com) — 2026-07-24T16:37:10.000Z

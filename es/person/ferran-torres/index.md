@@ -3,7 +3,7 @@
 > Sigue la actividad de "El Tiburón" en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-24T10:14:05.930Z
+- Actualizado: 2026-07-24T20:59:56.236Z
 - Canonical: https://atlas.lootura.com/es/person/ferran-torres
 
 ## Cambios recientes
@@ -70,4 +70,4 @@ Date: 2026-07-19
 
 ## Fuentes
 
-No public source links.
+- [Trump opina sobre la gorra de Ferran Torres: "Creo que lo hizo con buena intención"](https://www.larazon.es/deportes/laotraliga/trump-opina-gorra-ferran-torres-creo-que-hizo-buena-intencion_202607246a63ca51aa17c0020f2e42b4.html?utm_source=lootura.com) — 2026-07-24T20:25:53.000Z

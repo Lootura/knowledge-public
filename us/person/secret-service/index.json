@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/secret-service/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/secret-service/index.json",
   "description": "Follow Secret Service, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-24T17:28:08.619Z",
+  "updatedAt": "2026-07-24T21:00:15.269Z",
   "aliases": [],
   "changes": [
     {
       "title": "Secret Service warns of high threat levels before White House Correspondents' Dinner",
       "summary": "Secret Service officials warned nationwide threats have reached an unprecedented level since January, nearly 40% higher than during the same period last year.",
+      "date": "2026-07-24"
+    },
+    {
+      "title": "NATO spending pressure returned",
+      "summary": "The threat led the Secret Service to urge President Trump to fly out of Turkey on the old plane, raising questions about the security of the Qatari-donated jet.",
       "date": "2026-07-24"
     },
     {
@@ -60,10 +65,10 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "Trump to deliver ‘unifying yet vicious’ remarks at Correspondents’ dinner, White House says",
-      "url": "https://www.nbcnews.com/politics/trump-administration/trump-white-house-correspondents-dinner-remarks-shooting-rcna589049?utm_source=lootura.com",
-      "publishedAt": "2026-07-24T16:48:35.000Z",
-      "sourceId": "lootura-us-nbc-news-politics"
+      "title": "Trump Switched to Old Air Force One at NATO Summit After Credible Iranian Threat",
+      "url": "https://www.nytimes.com/2026/07/24/us/politics/trump-plane-iran-threat.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-24T20:24:58.000Z",
+      "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
   "evidenceCount": 2

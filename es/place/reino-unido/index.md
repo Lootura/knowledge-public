@@ -3,20 +3,20 @@
 > Sigue la actividad de Reino Unido de Gran Bretaña e Irlanda del Norte en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-24T17:27:46.992Z
+- Actualizado: 2026-07-24T20:59:56.236Z
 - Canonical: https://atlas.lootura.com/es/place/reino-unido
 
 ## Cambios recientes
 
-### Reino Unido prepara barcos autónomos capaces de derribar drones con sistemas de misiles guiados de precisión
-
-Reino Unido avanza en el desarrollo de una defensa marítima contra ataques masivos con drones basada en barcos autónomos, lanzadores modulares y pequeños misiles guiados de precisión concebidos para fabricarse a gran escala . La compañía británica Babcock International , la también británica ACUA Ocean Technologies y l.
-
-Date: 2026-07-24
-
 ### La Policía intercepta un coche bomba cerca de la frontera entre Irlanda e Irlanda del Norte
 
 La Policía irlandesa se ha incautado esta semana de una « potente bomba » durante una operación en la frontera con Reino Unido que se ha saldado por ahora con dos arrestos y una línea de investigación que apunta a la posibilidad de que el artefacto explosivo tenía Irlanda del Norte como destino final. La operación ha o.
+
+Date: 2026-07-24
+
+### Reino Unido prepara barcos autónomos capaces de derribar drones con sistemas de misiles guiados de precisión
+
+Reino Unido avanza en el desarrollo de una defensa marítima contra ataques masivos con drones basada en barcos autónomos, lanzadores modulares y pequeños misiles guiados de precisión concebidos para fabricarse a gran escala . La compañía británica Babcock International , la también británica ACUA Ocean Technologies y l.
 
 Date: 2026-07-24
 
@@ -70,5 +70,4 @@ Date: 2026-07-22
 
 ## Fuentes
 
-- [Reino Unido prepara barcos autónomos capaces de derribar drones con sistemas de misiles guiados de precisión](https://www.larazon.es/tecnologia/reino-unido-prepara-barcos-autonomos-capaces-derribar-drones-sistemas-misiles-guiados-precision_202607246a6398b5aa17c0020f2df8f6.html?utm_source=lootura.com) — 2026-07-24T17:00:31.000Z
 - [La Policía intercepta un coche bomba cerca de la frontera entre Irlanda e Irlanda del Norte](https://theobjective.com/internacional/2026-07-24/coche-bomba-frontera-irlanda-e-irlanda-norte/?utm_source=lootura.com) — 2026-07-24T15:13:19.000Z

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/la-mancha/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/la-mancha/index.json",
   "description": "Sigue la actividad de La Mancha en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-24T17:27:46.992Z",
+  "updatedAt": "2026-07-24T20:59:56.236Z",
   "aliases": [
     "Comarca manchega",
     "Mancha"
@@ -69,15 +69,9 @@
     {
       "title": "Incendios en España hoy, en directo: última hora de los fuegos en Madrid, Castilla y León y Castilla-La Mancha y de los pueblos evacuados",
       "url": "https://www.abc.es/sociedad/incendios-espana-hoy-directo-fuegos-activos-madrid-20260723185959-di_amp.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-24T17:12:30.000Z",
+      "publishedAt": "2026-07-24T20:31:27.000Z",
       "sourceId": "lootura-es-abc"
-    },
-    {
-      "title": "Detienen al hombre atrincherado en su casa en Villarrobledo (Albacete) con una escopeta",
-      "url": "https://www.elconfidencial.com/espana/2026-07-24/hombre-atrincherado-vivienda-escopeta-villarrobledo_4395642/?utm_source=lootura.com",
-      "publishedAt": "2026-07-24T13:51:00.000Z",
-      "sourceId": "lootura-es-el-confidencial"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

@@ -70,4 +70,4 @@ Date: 2026-07-16
 
 ## Sources
 
-- [How OpenAI Lost Control of an AI Model—and What Needs to Change](https://time.com/article/2026/07/24/openai-hugging-face-attack/?utm_source=lootura.com) — 2026-07-24T15:13:52.000Z
+No public source links.

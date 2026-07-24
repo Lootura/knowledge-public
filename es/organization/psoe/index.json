@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/psoe/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/psoe/index.json",
   "description": "Sigue la actividad de Partido Socialista Obrero Español en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-24T17:27:46.992Z",
+  "updatedAt": "2026-07-24T20:59:56.236Z",
   "aliases": [
     "Grupo Socialista",
     "PSOE",
@@ -21,6 +21,11 @@
     "Spanish Workers' Socialist Party"
   ],
   "changes": [
+    {
+      "title": "El nuevo decreto de vivienda incluye bonificaciones fiscales para caseros e inquilinos",
+      "summary": "Después del acuerdo alcanzado entre el PSOE y Sumar hace unos días sobre el nuevo decreto de vivienda, que, entre otras medidas, recoge la prórroga extraordinaria de los...",
+      "date": "2026-07-24"
+    },
     {
       "title": "El PSOE apunta a responsabilidades políticas por la gestión del incendio de Almería",
       "summary": "El PSOE-A ha apuntado a posibles responsabilidades políticas de los responsables de Emergencias en el Gobierno autonómico por «el vacío de tres horas» en la gestión del incendio de Los Gallardos , en Almería, y ha reclamado el apoyo para su petición de una comisión de investigación en el Parlamento andaluz. Los sociali.",
@@ -65,26 +70,15 @@
       "title": "Última hora de la actualidad política, en directo | El PSOE mantiene “exactamente la misma posición” en su defensa del exjefe de Gobierno",
       "summary": "La portavoz del PP en el Congreso, Ester Muñoz, ha cargado contra el expresidente del Gobierno José Luis Zapatero tras su entrevista en TVE, la primera desde que fue imputado por el caso Plus Ultra . “Ha sido una tomadura de pelo”, ha dicho Muñoz en los pasillos. “No ha ido a defender solo su inocencia, sino a defender.",
       "date": "2026-07-23"
-    },
-    {
-      "title": "El Gobierno y el PSOE cierran filas con Zapatero y aseguran que probará su inocencia",
-      "summary": "El Gobierno y la dirección del PSOE reiteran su respaldo a José Luis Rodríguez Zapatero tras las explicaciones que el expresidente ha dado en RTVE, donde ha defendido su inocencia sin aportar ninguna información nueva a la que ya había declarado a mediados de junio ante el juez José Luis Calama de la Audiencia Nacional.",
-      "date": "2026-07-23"
     }
   ],
   "sources": [
     {
-      "title": "Las acusaciones populares piden que la directora de la Guardia Civil y el DAO investigados no puedan mandar sobre la UCO",
-      "url": "https://www.abc.es/espana/acusaciones-populares-piden-directora-guardia-civil-dao-20260724104145-nt.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-24T17:06:07.000Z",
-      "sourceId": "lootura-es-abc"
-    },
-    {
-      "title": "El PSOE apunta a responsabilidades políticas por la gestión del incendio de Almería",
-      "url": "https://theobjective.com/espana/politica/2026-07-24/psoe-responsabilidades-gestion-incendio/?utm_source=lootura.com",
-      "publishedAt": "2026-07-24T12:08:14.000Z",
-      "sourceId": "lootura-es-the-objective"
+      "title": "El nuevo decreto de vivienda incluye bonificaciones fiscales para caseros e inquilinos",
+      "url": "https://amp.expansion.com/economia/2026/07/24/6a63a1ad468aeba9388b45a1.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-24T17:32:32.000Z",
+      "sourceId": "lootura-es-expansion"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

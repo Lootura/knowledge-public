@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/europe/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/europe/index.json",
   "description": "Follow Europe, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-24T17:28:08.619Z",
+  "updatedAt": "2026-07-24T21:00:15.269Z",
   "aliases": [
     "EU",
     "European Union"
   ],
   "changes": [
+    {
+      "title": "Trump's replacement tariffs continue to put pressure on U.S. economy",
+      "summary": "President Trump slapped replacement tariffs on 59 countries and the European Union to replace expiring ones.",
+      "date": "2026-07-24"
+    },
     {
       "title": "More than 80,000 flee forest infernos in France and Spain",
       "summary": "Europe's wildfire crisis forced more than 80,000 people to flee for safety Friday, as vacationers boarded boats to escape fires on a French peninsula and Spanish officials ordered mass evacuations in towns near Madrid.",
@@ -58,19 +63,14 @@
       "title": "Climate change making Europe drought 'more severe': study",
       "summary": "Human-caused climate change has intensified a drought across Europe, with extreme heat rather than low rainfall driving the exceptionally dry conditions, a team of international scientists said Thursday.",
       "date": "2026-07-23"
-    },
-    {
-      "title": "U.S.-Saudi Deal Prompts Fears of a Nuclear Arms Race",
-      "summary": "In Europe, Asia and the Middle East, countries seek nuclear capabilities to hedge against aggressive neighbors and a receding Washington, potentially creating a more freewheeling era.",
-      "date": "2026-07-23"
     }
   ],
   "sources": [
     {
-      "title": "More than 80,000 flee forest infernos in France and Spain",
-      "url": "https://phys.org/news/2026-07-forest-infernos-france-spain.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-24T16:40:07.000Z",
-      "sourceId": "lootura-us-phys-org"
+      "title": "Trump's replacement tariffs continue to put pressure on U.S. economy",
+      "url": "https://www.npr.org/2026/07/24/nx-s1-5904620/trumps-replacement-tariffs-continue-to-put-pressure-on-u-s-economy?utm_source=lootura.com",
+      "publishedAt": "2026-07-24T20:26:01.000Z",
+      "sourceId": "lootura-us-npr-politics"
     }
   ],
   "evidenceCount": 1

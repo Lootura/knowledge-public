@@ -8,17 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/cap-ferret/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/cap-ferret/index.json",
   "description": "Follow Cap Ferret, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-24T17:28:08.619Z",
+  "updatedAt": "2026-07-24T21:00:15.269Z",
   "aliases": [],
   "changes": [
     {
-      "title": "Wildfires in France and Spain Drive Tens of Thousands From Their Homes",
-      "summary": "French officials ordered the evacuation of the Cap Ferret peninsula, a popular holiday destination. Fires west of Madrid were closing in on populated areas.",
+      "title": "Discovered by Atlas",
+      "summary": "Cap Ferret first entered the public knowledge record with source-backed evidence.",
       "date": "2026-07-24"
     },
     {
-      "title": "Discovered by Atlas",
-      "summary": "Cap Ferret first entered the public knowledge record with source-backed evidence.",
+      "title": "Wildfires in France and Spain Drive Tens of Thousands From Their Homes",
+      "summary": "French officials ordered the evacuation of the Cap Ferret peninsula, a popular holiday destination. Fires west of Madrid were closing in on populated areas.",
       "date": "2026-07-24"
     }
   ],
@@ -28,13 +28,7 @@
       "url": "https://www.pbs.org/newshour/world/tens-of-thousands-of-people-flee-raging-wildfires-in-france-and-spain-some-escaping-by-boat?utm_source=lootura.com",
       "publishedAt": "2026-07-24T16:25:09.000Z",
       "sourceId": "lootura-us-pbs-newshour"
-    },
-    {
-      "title": "Wildfires in France and Spain Drive Tens of Thousands From Their Homes",
-      "url": "https://www.nytimes.com/2026/07/24/world/europe/france-spain-wildfires.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-24T16:12:41.000Z",
-      "sourceId": "lootura-us-the-new-york-times-world"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

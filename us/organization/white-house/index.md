@@ -3,7 +3,7 @@
 > Follow White House, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-07-24T17:28:08.619Z
+- Updated: 2026-07-24T21:00:15.269Z
 - Canonical: https://atlas.lootura.com/us/organization/white-house
 
 ## Recent changes
@@ -32,47 +32,51 @@ President Trump is expected to attend the redo of the White House Correspondents
 
 Date: 2026-07-24
 
-### Trump to deliver ‘unifying yet vicious’ remarks at Correspondents’ dinner, White House says
+### Ontario Premier Doug Ford says "we didn't start this trade war" as Trump slaps Canada with tariffs
 
-The White House Correspondents’ Association Dinner with President Donald Trump that was disrupted earlier this year when a gunman charged past Secret Service agents toward the event is scheduled to be re-held in a different, smaller and more secure venue Friday night.
-
-Date: 2026-07-24
-
-### The tech-broification of American science has officially begun
-
-Trump’s science adviser Michael Kratsios has no science background. | Image: Getty / The Verge The Trump administration unveiled the first "Genesis Mission" grants on Thursday, directing $5 billion toward hundreds of AI-driven science projects in an effort the White House has described as "comparable in urgency and amb.
+Ontario Premier Doug Ford spoke with CBS News senior White House and political correspondent Ed O'Keefe about the upcoming opening of the Gordie Howe Bridge and President Trump's new tariffs on Canada. "We didn't start this trade war. President Trump decided to go after his close ally and friend, his number one custome.
 
 Date: 2026-07-24
 
-### The White House pushes healthy eating. It cut a landmark nutrition education program
+### Trump says "nobody got out ahead" of him on Saudi nuclear deal announcement after changing terms
 
-Nutrition advocates and public health experts are mystified by the decision to eliminate SNAP-Ed, given the Trump administration's embrace of the Make America Healthy Again agenda. (Image credit: Rachel Wisniewski for NPR).
+President Trump took questions from reporters the day after he seemed to upend a nuclear agreement with Saudi Arabia by adding a new condition: that the country join the Abraham Accords. CBS News White House reporter Olivia Rinaldi has the details.
 
-Date: 2026-07-23
+Date: 2026-07-24
 
-### White House says Saudi Arabia nuclear deal contingent on joining Abraham Accords
+### Funding milestone detected
 
-During a press briefing, White House press secretary Karoline Leavitt echoed a social media post from President Trump that said any nuclear deal with Saudi Arabia would be contingent on them joining the Abraham Accords. NBC News' Monica Alba reports from the White House on the potential deal and the White House's appro.
+Nature, Published online: 24 July 2026; doi:10.1038/d41586-026-02332-8 Chief US science adviser calls for a shakeup in funding while handing out grants to accelerate research with AI.
 
-Date: 2026-07-23
+Date: 2026-07-24
 
-### 'New York Times' alleges White House abuses legal system to intimidate reporters
+### White House Correspondents’ Dinner Returns Under High Security
 
-The New York Times reported earlier this month that security concerns had led the Secret Service to urge Trump to fly home from Turkey on a different jet.'/> The New York Times will argue in court Thursday that the White House is abusing the justice system to intimidate reporters over a story that angered President Tru.
+President Donald Trump is gearing up to attend the rescheduled White House Correspondents Dinner Friday night, after the initial event back in April was targeted by a gunman. The Secret Service says it’s confident in the security plan for the dinner while also acknowledging an alarming rise in threats. NBC’s Garrett Ha.
 
-Date: 2026-07-23
+Date: 2026-07-24
 
-### Secret Service warns of uptick in threats ahead of rescheduled White House Correspondents' Dinner
+### Trump takes questions on Iran and cyclosporiasis outbreak during White House event
 
-The Secret Service is warning about a rise in threats ahead of the rescheduled White House Correspondents' Dinner, which is set for Friday. CBS News' Nicole Sganga has the latest.
+During an event on nuclear innovation, President Trump fielded questions from reporters on the war with Iran and threats about potential targets and the outbreak of cyclosporiasis. NBC News' Monica Alba reports on what the president had to say about the issues facing the administration.
 
-Date: 2026-07-23
+Date: 2026-07-24
+
+### Trump touts new nuclear reactors in his push to speed up domestic power
+
+President Donald Trump hosted executives from nuclear power companies Friday in the Oval Office to celebrate a new milestone in the White House's push to accelerate the growth of nuclear power in the United States.
+
+Date: 2026-07-24
 
 ## Sources
 
 - [Inside the heightened security for the rescheduled White House Correspondents' Dinner](https://www.cbsnews.com/video/inside-heightened-security-rescheduled-white-house-correspondents-dinner/?utm_source=lootura.com) — 2026-07-24T17:07:00.000Z
+- [Ontario Premier Doug Ford says "we didn't start this trade war" as Trump slaps Canada with tariffs](https://www.cbsnews.com/video/ontario-premier-doug-ford-we-didnt-start-trade-war-trump-canada-tariffs/?utm_source=lootura.com) — 2026-07-24T19:53:48.000Z
 - [Secret Service warns of high threat levels before White House Correspondents' Dinner](https://www.cbsnews.com/news/secret-service-threat-levels-rescheduled-white-house-correspondents-dinner/?utm_source=lootura.com) — 2026-07-24T13:00:14.000Z
 - [Trump expected to attend White House Correspondents' Dinner redo after April attack](https://www.cbsnews.com/news/trump-white-house-correspondents-dinner-redo/?utm_source=lootura.com) — 2026-07-24T16:57:25.000Z
-- [Trump to deliver ‘unifying yet vicious’ remarks at Correspondents’ dinner, White House says](https://www.nbcnews.com/politics/trump-administration/trump-white-house-correspondents-dinner-remarks-shooting-rcna589049?utm_source=lootura.com) — 2026-07-24T16:48:35.000Z
+- [Trump says "nobody got out ahead" of him on Saudi nuclear deal announcement after changing terms](https://www.cbsnews.com/video/trump-nobody-got-out-ahead-saudi-nuclear-deal-announcement-changing-terms/?utm_source=lootura.com) — 2026-07-24T20:28:05.000Z
+- [White House rolls out AI funding — and signals a new era for US science](https://www.nature.com/articles/d41586-026-02332-8?utm_source=lootura.com) — 2026-07-24T21:00:19.062Z
+- [White House Correspondents’ Dinner Returns Under High Security](https://www.today.com/video/trump-to-attend-correspondents-dinner-under-high-security-267214917522?utm_source=lootura.com) — 2026-07-24T11:20:35.000Z
+- [Trump takes questions on Iran and cyclosporiasis outbreak during White House event](https://www.nbcnews.com/now/video/trump-takes-questions-on-iran-and-cyclosporiasis-outbreak-during-white-house-event-267243589518?utm_source=lootura.com) — 2026-07-24T20:14:14.000Z
+- [WATCH: Trump touts new nuclear reactors in his push to speed up domestic power](https://www.pbs.org/newshour/politics/watch-trump-touts-new-nuclear-reactors-in-his-push-to-speed-up-production?utm_source=lootura.com) — 2026-07-24T20:45:37.000Z
 - [The Artist Matthew Taylor Is Helping Trump Reshape Washington](https://www.nytimes.com/2026/07/24/arts/design/matthew-taylor-artist-filmmaker-trump-washington.html?utm_source=lootura.com) — 2026-07-24T09:00:17.000Z
-- [The tech-broification of American science has officially begun](https://www.theverge.com/science/970534/genesis-mission-ai-science-funding-trump-grants?utm_source=lootura.com) — 2026-07-24T14:43:55.000Z

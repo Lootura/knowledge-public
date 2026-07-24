@@ -3,7 +3,7 @@
 > Follow Air Force One, a tracked concept, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: concept
-- Updated: 2026-07-24T17:28:08.619Z
+- Updated: 2026-07-24T21:00:15.269Z
 - Canonical: https://atlas.lootura.com/us/concept/air-force-one
 
 ## Recent changes
@@ -11,6 +11,12 @@
 ### DOJ admits legal errors, drops subpoenas of New York Times journalists
 
 A judge criticized the Justice Department for legal errors that ultimately led the agency to withdraw its subpoenas of two New York Times journalists who wrote a story about security concerns on President Trump's Qatari-gifted Air Force One. CBS News' Katrina Kaufman has the latest.
+
+Date: 2026-07-24
+
+### NATO spending pressure returned
+
+The threat led the Secret Service to urge President Trump to fly out of Turkey on the old plane, raising questions about the security of the Qatari-donated jet.
 
 Date: 2026-07-24
 
@@ -62,12 +68,7 @@ The White House press secretary said the unspecified “enhancements” would ta
 
 Date: 2026-07-20
 
-### Trump to keep using old Air Force One while new plane gets security upgrades
-
-The new Air Force One "has a lot of capability, but as I understand it, in about a month or so, they're going to send it to have it be maxed out," President Trump said Sunday.
-
-Date: 2026-07-20
-
 ## Sources
 
 - [DOJ admits legal errors, drops subpoenas of New York Times journalists](https://www.cbsnews.com/video/doj-admits-legal-errors-drops-subpoenas-new-york-times-journalists/?utm_source=lootura.com) — 2026-07-24T17:13:52.000Z
+- [Trump Switched to Old Air Force One at NATO Summit After Credible Iranian Threat](https://www.nytimes.com/2026/07/24/us/politics/trump-plane-iran-threat.html?utm_source=lootura.com) — 2026-07-24T20:24:58.000Z

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/nato/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/nato/index.json",
   "description": "Follow NATO, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-24T13:39:26.682Z",
+  "updatedAt": "2026-07-24T21:00:15.269Z",
   "aliases": [
     "NATO Alliance",
     "North Atlantic Alliance",
@@ -18,6 +18,11 @@
     "Organización del Tratado del Atlántico Norte"
   ],
   "changes": [
+    {
+      "title": "NATO spending pressure returned",
+      "summary": "The threat led the Secret Service to urge President Trump to fly out of Turkey on the old plane, raising questions about the security of the Qatari-donated jet.",
+      "date": "2026-07-24"
+    },
     {
       "title": "NATO spending pressure returned",
       "summary": "President Donald Trump and NATO Secretary General Mark Rutte at the NATO Summit in Ankara, Turkey, on July 8, 2026. —Klaudia Radecka-NurPhoto via Getty Images The portents were not good. Before departing for the recent NATO summit in Ankara, President Donald Trump took to Truth Social to berate the alliance. He posted.",
@@ -62,13 +67,15 @@
       "title": "NATO spending pressure returned",
       "summary": "The agreement on the long-range missiles, which are used to strike targets deep inside enemy territory, was reached this week on the sidelines of the NATO summit in Turkey's capital, Ankara, Merz said.",
       "date": "2026-07-09"
-    },
-    {
-      "title": "NATO spending pressure returned",
-      "summary": "President Trump flew partway home from a NATO summit on an old Air Force One plane instead of the new Qatari-gifted plane, a surprise swap that came as the U.S. and Iran began trading strikes again. (Image credit: Alex Brandon).",
-      "date": "2026-07-09"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Trump Switched to Old Air Force One at NATO Summit After Credible Iranian Threat",
+      "url": "https://www.nytimes.com/2026/07/24/us/politics/trump-plane-iran-threat.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-24T20:24:58.000Z",
+      "sourceId": "lootura-us-the-new-york-times-politics"
+    }
+  ],
+  "evidenceCount": 1
 }

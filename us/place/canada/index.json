@@ -8,16 +8,11 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/canada/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/canada/index.json",
   "description": "Follow Canada, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-24T17:28:08.619Z",
+  "updatedAt": "2026-07-24T21:00:15.269Z",
   "aliases": [
     "Can"
   ],
   "changes": [
-    {
-      "title": "What’s to blame for Canada’s wildfires?",
-      "summary": "The inferno that sent toxic smoke billowing toward the United States won't be the last. Officials are now battling both the wildfires and misinformation.",
-      "date": "2026-07-24"
-    },
     {
       "title": "As Canada Opens Gordie Howe International Bridge, Americans Are Told to Stay Home",
       "summary": "After a delay ordered by President Trump and new tariffs against Canada, the bridge between Windsor, Ontario, and Detroit opens in “underwhelming” fashion on Friday.",
@@ -26,6 +21,21 @@
     {
       "title": "China Has Come Through Trump’s Trade War in a Good Position",
       "summary": "Despite threats from President Trump, the overall average weighted tariff on Chinese goods remained about the same, and is now lower than countries like Brazil and Canada.",
+      "date": "2026-07-24"
+    },
+    {
+      "title": "Ontario Premier Doug Ford says \"we didn't start this trade war\" as Trump slaps Canada with tariffs",
+      "summary": "Ontario Premier Doug Ford spoke with CBS News senior White House and political correspondent Ed O'Keefe about the upcoming opening of the Gordie Howe Bridge and President Trump's new tariffs on Canada. \"We didn't start this trade war. President Trump decided to go after his close ally and friend, his number one custome.",
+      "date": "2026-07-24"
+    },
+    {
+      "title": "Canada's Doug Ford on why country needs to \"fight back\" against Trump trade war",
+      "summary": "\"We didn't start this war,\" Ontario Premier Doug Ford told CBS News on \"The Takeout.\".",
+      "date": "2026-07-24"
+    },
+    {
+      "title": "What’s to blame for Canada’s wildfires?",
+      "summary": "The inferno that sent toxic smoke billowing toward the United States won't be the last. Officials are now battling both the wildfires and misinformation.",
       "date": "2026-07-24"
     },
     {
@@ -52,24 +62,20 @@
       "title": "Trump Escalates Canada Tariffs as Mark Carney Holds Firm",
       "summary": "The president’s new tariffs on a top U.S. trading partner aim at gaining concessions, but the Canadian government, and the public, have been bracing for the escalation.",
       "date": "2026-07-21"
-    },
-    {
-      "title": "Donald Trump to impose 50% tariff on most Canadian goods, White House says",
-      "summary": "Turmoil likely as Trump officials say Canada unfairly discriminated against US autos, alcohol and dairy products Donald Trump is imposing 50% tariffs on most Canadian goods in response to the country retaliating against previous US tariffs, the White House announced Monday, declaring Canada has unfairly discriminated a.",
-      "date": "2026-07-21"
-    },
-    {
-      "title": "Trump imposes 50% tariffs on dairy, alcohol, and cars from Canada",
-      "summary": "The Trump administration imposed 50% tariffs on three categories of imports from Canada, dairy, alcohol, and cars, citing discriminatory actions. NBC News' Monica Alba reports on how Trump is also considering additional tariffs due to the Canadian wildfires.",
-      "date": "2026-07-20"
     }
   ],
   "sources": [
     {
-      "title": "What’s to blame for Canada’s wildfires?",
-      "url": "https://www.sciencenews.org/article/what-blame-canada-wildfires-toxic-smoke?utm_source=lootura.com",
-      "publishedAt": "2026-07-24T17:00:00.000Z",
-      "sourceId": "lootura-us-science-news"
+      "title": "Ontario Premier Doug Ford says \"we didn't start this trade war\" as Trump slaps Canada with tariffs",
+      "url": "https://www.cbsnews.com/video/ontario-premier-doug-ford-we-didnt-start-trade-war-trump-canada-tariffs/?utm_source=lootura.com",
+      "publishedAt": "2026-07-24T19:53:48.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
+    {
+      "title": "Canada's Doug Ford on why country needs to \"fight back\" against Trump trade war",
+      "url": "https://www.cbsnews.com/news/canada-doug-ford-trump-trade-war-prices-tariffs/?utm_source=lootura.com",
+      "publishedAt": "2026-07-24T20:10:52.000Z",
+      "sourceId": "lootura-us-cbs-news"
     },
     {
       "title": "As Canada Opens Gordie Howe International Bridge, Americans Are Told to Stay Home",
@@ -84,5 +90,5 @@
       "sourceId": "lootura-us-the-new-york-times"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 4
 }

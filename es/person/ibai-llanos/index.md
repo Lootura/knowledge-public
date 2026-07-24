@@ -3,10 +3,16 @@
 > Sigue la actividad de Ibai Llanos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-23T13:51:07.363Z
+- Actualizado: 2026-07-24T20:59:56.236Z
 - Canonical: https://atlas.lootura.com/es/person/ibai-llanos
 
 ## Cambios recientes
+
+### Ibai Llanos: «Algunos políticos se han ofrecido a pelear en La Velada»
+
+El creador de contenido rechaza incorporar representantes públicos al evento porque cree que «no pega» con su formato.
+
+Date: 2026-07-24
 
 ### La CNMC multa a Ibai Llanos y Nachter por publicidad encubierta y a Jordi Wild por contenido violento
 
@@ -64,4 +70,4 @@ Date: 2026-07-20
 
 ## Fuentes
 
-No public source links.
+- [Ibai Llanos: «Algunos políticos se han ofrecido a pelear en La Velada»](https://theobjective.com/gente/2026-07-24/ibai-llanos-politicos-ofrecido-plelear-la-velada/?amp=&utm_source=lootura.com) — 2026-07-24T20:49:52.000Z

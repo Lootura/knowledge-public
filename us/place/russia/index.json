@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/russia/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/russia/index.json",
   "description": "Follow Russia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-24T17:28:08.619Z",
+  "updatedAt": "2026-07-24T21:00:15.269Z",
   "aliases": [
     "Federation of Russia",
     "Russian Federation"
@@ -17,6 +17,11 @@
     {
       "title": "Ukraine hits Russia's largest online marketplace, hurting small businesses and bringing the war home",
       "summary": "The Ukrainian attacks on the sprawling Russian warehouses produced stark images, with massive pillars of black smoke rising above fires that raged at facilities of Wildberries, the country's biggest online retailer and its equivalent of Amazon.",
+      "date": "2026-07-24"
+    },
+    {
+      "title": "Trump Tariff Fight Stalls Russia Sanctions Bill Championed by Lindsey Graham",
+      "summary": "A bipartisan bill championed by the late Senator Lindsey Graham has become mired in a dispute over expanding President Trump’s tariff power.",
       "date": "2026-07-24"
     },
     {
@@ -58,11 +63,6 @@
       "title": "Russia Batters Kyiv in One of the Largest Missile Assaults of the War",
       "summary": "On Saturday, Ukraine hit two warehouses in Russia in strikes that killed at least eight people and injured 62.",
       "date": "2026-07-19"
-    },
-    {
-      "title": "Russia Batters Kyiv in One of the Largest Missile Assaults of the War",
-      "summary": "On Saturday, Ukraine hit two warehouses in Russia in strikes that killed at least eight people and injured 62.",
-      "date": "2026-07-19"
     }
   ],
   "sources": [
@@ -73,10 +73,10 @@
       "sourceId": "lootura-us-pbs-newshour"
     },
     {
-      "title": "Russia and Ukraine Trade Deadly Blows With Missiles and Drones",
-      "url": "https://www.nytimes.com/2026/07/24/world/europe/russia-ukraine-war-attacks.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-24T13:41:46.000Z",
-      "sourceId": "lootura-us-the-new-york-times-world"
+      "title": "Trump Tariff Fight Stalls Russia Sanctions Bill Championed by Lindsey Graham",
+      "url": "https://www.nytimes.com/2026/07/24/us/politics/trump-tariffs-russia-sanctions.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-24T18:33:21.000Z",
+      "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
   "evidenceCount": 2

@@ -62,19 +62,6 @@
       "date": "2026-07-21"
     }
   ],
-  "sources": [
-    {
-      "title": "Xpeng L03: el SUV futurista que queríamos, con un precio y una autonomía que decepciona",
-      "url": "https://hipertextual.com/movilidad/xpeng-l03-suv-electrico-futurista-decepcion/?utm_source=lootura.com",
-      "publishedAt": "2026-07-24T13:21:26.000Z",
-      "sourceId": "lootura-es-hipertextual"
-    },
-    {
-      "title": "El embajador chino en España, con los pintores Rao Jinzhong y Du Miaolos",
-      "url": "https://www.larazon.es/madrid/embajador-chino-espana-pintores-rao-jinzhong-miaolos_202607246a639d3dda3add27d4e0375d.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-24T17:13:33.000Z",
-      "sourceId": "lootura-es-la-razon"
-    }
-  ],
-  "evidenceCount": 2
+  "sources": [],
+  "evidenceCount": 0
 }

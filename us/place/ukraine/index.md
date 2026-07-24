@@ -3,7 +3,7 @@
 > Follow Ukraine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-24T17:28:08.619Z
+- Updated: 2026-07-24T21:00:15.269Z
 - Canonical: https://atlas.lootura.com/us/place/ukraine
 
 ## Recent changes
@@ -71,4 +71,3 @@ Date: 2026-07-21
 ## Sources
 
 - [Ukraine hits Russia's largest online marketplace, hurting small businesses and bringing the war home](https://www.pbs.org/newshour/world/ukraine-hits-russias-largest-online-marketplace-hurting-small-businesses-and-bringing-the-war-home?utm_source=lootura.com) — 2026-07-24T15:33:58.000Z
-- [Russia and Ukraine Trade Deadly Blows With Missiles and Drones](https://www.nytimes.com/2026/07/24/world/europe/russia-ukraine-war-attacks.html?utm_source=lootura.com) — 2026-07-24T13:41:46.000Z

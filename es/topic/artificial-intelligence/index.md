@@ -3,7 +3,7 @@
 > Sigue la actividad de Artificial intelligence en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: topic
-- Actualizado: 2026-07-24T13:39:03.048Z
+- Actualizado: 2026-07-24T20:59:56.236Z
 - Canonical: https://atlas.lootura.com/es/topic/artificial-intelligence
 
 ## Cambios recientes
@@ -46,4 +46,4 @@ Date: 2026-07-10
 
 ## Fuentes
 
-No public source links.
+- [Anthropic lanza Claude Opus 5: su nueva IA se acerca a Fable 5, pero sin ser tan cara](https://hipertextual.com/inteligencia-artificial/nuevo-claude-opus-5/?utm_source=lootura.com) — 2026-07-24T18:19:14.000Z

@@ -3,7 +3,7 @@
 > Follow Secret Service, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-07-24T17:28:08.619Z
+- Updated: 2026-07-24T21:00:15.269Z
 - Canonical: https://atlas.lootura.com/us/person/secret-service
 
 ## Recent changes
@@ -11,6 +11,12 @@
 ### Secret Service warns of high threat levels before White House Correspondents' Dinner
 
 Secret Service officials warned nationwide threats have reached an unprecedented level since January, nearly 40% higher than during the same period last year.
+
+Date: 2026-07-24
+
+### NATO spending pressure returned
+
+The threat led the Secret Service to urge President Trump to fly out of Turkey on the old plane, raising questions about the security of the Qatari-donated jet.
 
 Date: 2026-07-24
 
@@ -59,4 +65,4 @@ Date: 2026-07-23
 ## Sources
 
 - [Secret Service warns of high threat levels before White House Correspondents' Dinner](https://www.cbsnews.com/news/secret-service-threat-levels-rescheduled-white-house-correspondents-dinner/?utm_source=lootura.com) — 2026-07-24T13:00:14.000Z
-- [Trump to deliver ‘unifying yet vicious’ remarks at Correspondents’ dinner, White House says](https://www.nbcnews.com/politics/trump-administration/trump-white-house-correspondents-dinner-remarks-shooting-rcna589049?utm_source=lootura.com) — 2026-07-24T16:48:35.000Z
+- [Trump Switched to Old Air Force One at NATO Summit After Credible Iranian Threat](https://www.nytimes.com/2026/07/24/us/politics/trump-plane-iran-threat.html?utm_source=lootura.com) — 2026-07-24T20:24:58.000Z

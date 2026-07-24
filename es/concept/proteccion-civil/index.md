@@ -3,20 +3,20 @@
 > Sigue la actividad de Protección civil en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: concept
-- Actualizado: 2026-07-24T17:27:46.992Z
+- Actualizado: 2026-07-24T20:59:56.236Z
 - Canonical: https://atlas.lootura.com/es/concept/proteccion-civil
 
 ## Cambios recientes
 
-### Última hora de los incendios forestales, en directo | Los incendios de la Comunidad de Madrid se unen en un solo frente y amenazan a nuevos municipios
-
-Los tres incendios que afectan a la Comunidad de Madrid ya se han fusionado y amenazan nuevos municipios, según ha confirmado este viernes el consejero de Medio Ambiente, Agricultura e Interior de la Comunidad de Madrid, Carlos Novillo. La Secretaría General de Protección Civil y Emergencias, del Ministerio del Interio.
-
-Date: 2026-07-24
-
 ### La directora de Protección Civil: "Tuvimos dos meses de borrascas, ahora incendios... La realidad es tozuda, hay que creer en la ciencia"
 
 La responsable de Protección Civil sostiene que los eventos climáticos extremos, como las interminables lluvias que hubo en invierno o los fuegos del verano, cada año más intensos y veloces en su expansión, son ya la nueva normalidad y exigen que se realice el pacto de Estado que propone el Gobierno Los fuegos en Madri.
+
+Date: 2026-07-24
+
+### Última hora de los incendios forestales, en directo | Los incendios de la Comunidad de Madrid se unen en un solo frente y amenazan a nuevos municipios
+
+Los tres incendios que afectan a la Comunidad de Madrid ya se han fusionado y amenazan nuevos municipios, según ha confirmado este viernes el consejero de Medio Ambiente, Agricultura e Interior de la Comunidad de Madrid, Carlos Novillo. La Secretaría General de Protección Civil y Emergencias, del Ministerio del Interio.
 
 Date: 2026-07-24
 
@@ -70,5 +70,4 @@ Date: 2026-07-24
 
 ## Fuentes
 
-- [Última hora de los incendios forestales, en directo | Los incendios de la Comunidad de Madrid se unen en un solo frente y amenazan a nuevos municipios](https://elpais.com/espana/2026-07-24/ultima-hora-de-los-incendios-forestales-en-directo.html?utm_source=lootura.com) — 2026-07-24T13:30:04.000Z
 - [La directora de Protección Civil: "Tuvimos dos meses de borrascas, ahora incendios... La realidad es tozuda, hay que creer en la ciencia"](https://www.eldiario.es/sociedad/directora-proteccion-civil-tuvimos-meses-borrascas-ahora-incendios-realidad-tozuda-hay-creer-ciencia_128_13404634.html?utm_source=lootura.com) — 2026-07-24T16:06:14.000Z

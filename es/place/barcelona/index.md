@@ -3,10 +3,16 @@
 > Sigue la actividad de Barcelona en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-24T17:27:46.992Z
+- Actualizado: 2026-07-24T20:59:56.236Z
 - Canonical: https://atlas.lootura.com/es/place/barcelona
 
 ## Cambios recientes
+
+### El Barcelona se impone al Europa por 4-1 en su primer partido de pretemporada a puerta cerrada
+
+El FC Barcelona ha disputado a puerta cerrada su primer partido amistoso de la pretemporada, en el que ha derrotado por 4-1 al Europa (equipo de Primera RFEF ) en la Ciudad Deportiva Joan Gamper . Hansi Flick ha tenido que optar por un once repleto de canteranos y de futbolistas que apuntan a salir en las próximas sema.
+
+Date: 2026-07-24
 
 ### El Barcelona pesca en la NBA para salir de la tumba
 
@@ -62,12 +68,6 @@ Las contradicciones y las mentiras, o al menos lo que los Mossos interpretaron c
 
 Date: 2026-07-23
 
-### De la “confrontación” a las “siete cronologías” de los Andic: los peligros de abrazar pseudociencias para resolver conflictos familiares
-
-La extraña terapia a la que se estaba sometiendo la familia Andic antes de la muerte del padre, Isak, se ha colocado en el centro del proceso judicial que investiga al primogénito, Jonathan Andic, como presunto autor de la muerte de su padre durante una excursión a la montaña de Montserrat (Barcelona). Para mejorar la.
-
-Date: 2026-07-23
-
 ## Fuentes
 
-- [El Barcelona pesca en la NBA para salir de la tumba](https://www.abc.es/deportes/baloncesto/barcelona-pesca-nba-salir-tumba-20260724184711-nt_amp.html?utm_source=lootura.com) — 2026-07-24T16:47:12.000Z
+- [El Barcelona se impone al Europa por 4-1 en su primer partido de pretemporada a puerta cerrada](https://okdiario.com/deportes/barcelona-impone-europa-4-1-primer-partido-pretemporada-puerta-cerrada-19065645?utm_source=lootura.com) — 2026-07-24T20:31:24.000Z

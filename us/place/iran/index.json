@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/iran/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/iran/index.json",
   "description": "Follow Iran, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-24T17:28:08.619Z",
+  "updatedAt": "2026-07-24T21:00:15.269Z",
   "aliases": [
     "IRI",
     "Islamic Rep. Iran",
@@ -52,18 +52,18 @@
       "date": "2026-07-24"
     },
     {
-      "title": "Rapid pace of interceptor and precision-guided weapons use worries Trump admin.",
-      "summary": "The U.S. defense industrial base isn't equipped to produce missiles rapidly enough to replenish munitions used in the war with Iran, or transferred for use to Central Command.",
+      "title": "Mixed close on Wall Street amid U.S.-Iran fighting, new Trump tariffs",
+      "summary": "Stock markets closed mixed on Friday as the Iran war continues to upend energy prices. CBS News MoneyWatch correspondent Kelly O'Grady has more.",
       "date": "2026-07-24"
     },
     {
-      "title": "Number of U.S. Troop Deaths in Iran War Appears Lower on Pentagon Website",
-      "summary": "Three military officials and a Pentagon spokesman gave conflicting explanations for why the number of Americans killed in the Iran war had changed.",
+      "title": "Trump says U.S. 'locked and loaded' to attack Iran as concerns grow over rising costs at home",
+      "summary": "NBC’s Monica Alba, Brian Cheung, Courtney Kube and Richard Engel share their latest reporting on new strikes in Iran and the economic impact of a growing war. Retired Vice Admiral Kevin Donegan reacts to the president’s comments, saying he sees a “potential path to escalation\" in Iran.",
       "date": "2026-07-24"
     },
     {
-      "title": "‘We’re Trapped in Hell’: Iranians Say Life Is Put On Hold by Months of War",
-      "summary": "Devastated by cycles of violence and economic crisis, many are giving up on work and their futures as the United States batters Iran again.",
+      "title": "Trump takes questions on Iran and cyclosporiasis outbreak during White House event",
+      "summary": "During an event on nuclear innovation, President Trump fielded questions from reporters on the war with Iran and threats about potential targets and the outbreak of cyclosporiasis. NBC News' Monica Alba reports on what the president had to say about the issues facing the administration.",
       "date": "2026-07-24"
     }
   ],
@@ -75,10 +75,28 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
+      "title": "Mixed close on Wall Street amid U.S.-Iran fighting, new Trump tariffs",
+      "url": "https://www.cbsnews.com/video/mixed-close-wall-street-us-iran-fighting-new-trump-tariffs/?utm_source=lootura.com",
+      "publishedAt": "2026-07-24T20:50:53.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
+    {
       "title": "Concerns over U.S. weapons getting depleted as U.S. and Iran continue to trade strikes",
       "url": "https://www.cbsnews.com/video/concerns-over-us-weapons-getting-depleted-as-us-and-iran-continue-to-trade-strikes/?utm_source=lootura.com",
       "publishedAt": "2026-07-24T13:17:11.000Z",
       "sourceId": "lootura-us-cbs-news"
+    },
+    {
+      "title": "Trump says U.S. 'locked and loaded' to attack Iran as concerns grow over rising costs at home",
+      "url": "https://www.nbcnews.com/meet-the-press/video/trump-says-u-s-locked-and-loaded-to-attack-iran-as-concerns-grow-over-rising-costs-at-home-267244101960?utm_source=lootura.com",
+      "publishedAt": "2026-07-24T20:33:49.000Z",
+      "sourceId": "lootura-us-nbc-news-politics"
+    },
+    {
+      "title": "Trump takes questions on Iran and cyclosporiasis outbreak during White House event",
+      "url": "https://www.nbcnews.com/now/video/trump-takes-questions-on-iran-and-cyclosporiasis-outbreak-during-white-house-event-267243589518?utm_source=lootura.com",
+      "publishedAt": "2026-07-24T20:14:14.000Z",
+      "sourceId": "lootura-us-nbc-news-politics"
     },
     {
       "title": "Morning news brief",
@@ -99,9 +117,9 @@
       "sourceId": "lootura-us-the-new-york-times"
     },
     {
-      "title": "House Rebukes Trump on Iran in War Powers Vote as Senate Blocks Debate",
-      "url": "https://www.nytimes.com/2026/07/23/us/politics/house-iran-war-powers-vote-trump.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-23T18:17:54.000Z",
+      "title": "Cornell, Northwestern and Other Universities Plan for Classes at Middle East Campuses",
+      "url": "https://www.nytimes.com/2026/07/24/us/middle-east-campuses-american-universities.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-24T18:27:32.000Z",
       "sourceId": "lootura-us-the-new-york-times"
     },
     {
@@ -109,13 +127,7 @@
       "url": "https://www.nytimes.com/2026/07/24/business/oil-prices-global-stocks-shipping.html?utm_source=lootura.com",
       "publishedAt": "2026-07-24T09:28:16.000Z",
       "sourceId": "lootura-us-the-new-york-times"
-    },
-    {
-      "title": "Iran War and Trump’s Tariffs Threaten a Resilient U.S. Economy",
-      "url": "https://www.nytimes.com/2026/07/24/business/iran-war-tariffs-economy.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-24T13:41:20.000Z",
-      "sourceId": "lootura-us-the-new-york-times"
     }
   ],
-  "evidenceCount": 8
+  "evidenceCount": 14
 }

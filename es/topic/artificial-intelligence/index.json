@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/topic/artificial-intelligence/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/topic/artificial-intelligence/index.json",
   "description": "Sigue la actividad de Artificial intelligence en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-24T13:39:03.048Z",
+  "updatedAt": "2026-07-24T20:59:56.236Z",
   "aliases": [
     "AI",
     "machine learning"
@@ -45,6 +45,13 @@
       "date": "2026-07-10"
     }
   ],
-  "sources": [],
+  "sources": [
+    {
+      "title": "Anthropic lanza Claude Opus 5: su nueva IA se acerca a Fable 5, pero sin ser tan cara",
+      "url": "https://hipertextual.com/inteligencia-artificial/nuevo-claude-opus-5/?utm_source=lootura.com",
+      "publishedAt": "2026-07-24T18:19:14.000Z",
+      "sourceId": "lootura-es-hipertextual"
+    }
+  ],
   "evidenceCount": 0
 }

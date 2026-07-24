@@ -28,5 +28,4 @@ Date: 2026-07-24
 
 ## Sources
 
-- [More than 80,000 flee forest infernos in France and Spain](https://phys.org/news/2026-07-forest-infernos-france-spain.html?utm_source=lootura.com) — 2026-07-24T16:40:07.000Z
-- [Wildfires in France and Spain Drive Tens of Thousands From Their Homes](https://www.nytimes.com/2026/07/24/world/europe/france-spain-wildfires.html?utm_source=lootura.com) — 2026-07-24T16:12:41.000Z
+No public source links.

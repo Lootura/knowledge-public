@@ -3,16 +3,10 @@
 > Follow Canada, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-24T17:28:08.619Z
+- Updated: 2026-07-24T21:00:15.269Z
 - Canonical: https://atlas.lootura.com/us/place/canada
 
 ## Recent changes
-
-### What’s to blame for Canada’s wildfires?
-
-The inferno that sent toxic smoke billowing toward the United States won't be the last. Officials are now battling both the wildfires and misinformation.
-
-Date: 2026-07-24
 
 ### As Canada Opens Gordie Howe International Bridge, Americans Are Told to Stay Home
 
@@ -23,6 +17,24 @@ Date: 2026-07-24
 ### China Has Come Through Trump’s Trade War in a Good Position
 
 Despite threats from President Trump, the overall average weighted tariff on Chinese goods remained about the same, and is now lower than countries like Brazil and Canada.
+
+Date: 2026-07-24
+
+### Ontario Premier Doug Ford says "we didn't start this trade war" as Trump slaps Canada with tariffs
+
+Ontario Premier Doug Ford spoke with CBS News senior White House and political correspondent Ed O'Keefe about the upcoming opening of the Gordie Howe Bridge and President Trump's new tariffs on Canada. "We didn't start this trade war. President Trump decided to go after his close ally and friend, his number one custome.
+
+Date: 2026-07-24
+
+### Canada's Doug Ford on why country needs to "fight back" against Trump trade war
+
+"We didn't start this war," Ontario Premier Doug Ford told CBS News on "The Takeout.".
+
+Date: 2026-07-24
+
+### What’s to blame for Canada’s wildfires?
+
+The inferno that sent toxic smoke billowing toward the United States won't be the last. Officials are now battling both the wildfires and misinformation.
 
 Date: 2026-07-24
 
@@ -56,20 +68,9 @@ The president’s new tariffs on a top U.S. trading partner aim at gaining conce
 
 Date: 2026-07-21
 
-### Donald Trump to impose 50% tariff on most Canadian goods, White House says
-
-Turmoil likely as Trump officials say Canada unfairly discriminated against US autos, alcohol and dairy products Donald Trump is imposing 50% tariffs on most Canadian goods in response to the country retaliating against previous US tariffs, the White House announced Monday, declaring Canada has unfairly discriminated a.
-
-Date: 2026-07-21
-
-### Trump imposes 50% tariffs on dairy, alcohol, and cars from Canada
-
-The Trump administration imposed 50% tariffs on three categories of imports from Canada, dairy, alcohol, and cars, citing discriminatory actions. NBC News' Monica Alba reports on how Trump is also considering additional tariffs due to the Canadian wildfires.
-
-Date: 2026-07-20
-
 ## Sources
 
-- [What’s to blame for Canada’s wildfires?](https://www.sciencenews.org/article/what-blame-canada-wildfires-toxic-smoke?utm_source=lootura.com) — 2026-07-24T17:00:00.000Z
+- [Ontario Premier Doug Ford says "we didn't start this trade war" as Trump slaps Canada with tariffs](https://www.cbsnews.com/video/ontario-premier-doug-ford-we-didnt-start-trade-war-trump-canada-tariffs/?utm_source=lootura.com) — 2026-07-24T19:53:48.000Z
+- [Canada's Doug Ford on why country needs to "fight back" against Trump trade war](https://www.cbsnews.com/news/canada-doug-ford-trump-trade-war-prices-tariffs/?utm_source=lootura.com) — 2026-07-24T20:10:52.000Z
 - [As Canada Opens Gordie Howe International Bridge, Americans Are Told to Stay Home](https://www.nytimes.com/2026/07/24/world/canada/canada-gordie-howe-bridge-trump.html?utm_source=lootura.com) — 2026-07-24T14:54:57.000Z
 - [China Has Come Through Trump’s Trade War in a Good Position](https://www.nytimes.com/2026/07/24/business/china-tariffs-trump.html?utm_source=lootura.com) — 2026-07-24T14:20:13.000Z

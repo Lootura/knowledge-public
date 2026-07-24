@@ -8,12 +8,22 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/saudi-arabia/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/saudi-arabia/index.json",
   "description": "Follow Saudi Arabia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-24T10:14:29.742Z",
+  "updatedAt": "2026-07-24T21:00:15.269Z",
   "aliases": [
     "Kingdom of Saudi Arabia",
     "Saudi"
   ],
   "changes": [
+    {
+      "title": "Trump says \"nobody got out ahead\" of him on Saudi nuclear deal announcement after changing terms",
+      "summary": "President Trump took questions from reporters the day after he seemed to upend a nuclear agreement with Saudi Arabia by adding a new condition: that the country join the Abraham Accords. CBS News White House reporter Olivia Rinaldi has the details.",
+      "date": "2026-07-24"
+    },
+    {
+      "title": "Cornell, Northwestern and Other Universities Plan for Classes at Middle East Campuses",
+      "summary": "Even after the collapse of the cease-fire between the United States and Iran, American universities expect to teach in Qatar and the United Arab Emirates, and a new outpost is on track to open in Saudi Arabia.",
+      "date": "2026-07-24"
+    },
     {
       "title": "Israel Welcomes Trump’s Demand for Diplomatic Ties With Saudi Arabia",
       "summary": "Israeli officials embraced the possibility of normalized ties, but analysts said the U.S.-Saudi nuclear deal nonetheless remained bad for Israel.",
@@ -53,18 +63,21 @@
       "title": "Houthis Claim Strikes on 2 Saudi Oil Tankers in Red Sea",
       "summary": "The Saudi authorities had yet to confirm the hits, which would be the first attacks since the Iranian-backed Yemeni group announced a blockade on Saudi Arabia.",
       "date": "2026-07-23"
-    },
-    {
-      "title": "Discovered by Atlas",
-      "summary": "Saudi Arabia first entered the public knowledge record with source-backed evidence.",
-      "date": "2026-07-22"
-    },
-    {
-      "title": "Coveted U.S. Nuclear Deal Is a Coup for Saudi Crown Prince",
-      "summary": "Saudi Arabia has for years sought a deal to obtain American nuclear technology. The agreement, signed on Wednesday, could deepen U.S.-Saudi ties for decades to come.",
-      "date": "2026-07-22"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Trump says \"nobody got out ahead\" of him on Saudi nuclear deal announcement after changing terms",
+      "url": "https://www.cbsnews.com/video/trump-nobody-got-out-ahead-saudi-nuclear-deal-announcement-changing-terms/?utm_source=lootura.com",
+      "publishedAt": "2026-07-24T20:28:05.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
+    {
+      "title": "Cornell, Northwestern and Other Universities Plan for Classes at Middle East Campuses",
+      "url": "https://www.nytimes.com/2026/07/24/us/middle-east-campuses-american-universities.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-24T18:27:32.000Z",
+      "sourceId": "lootura-us-the-new-york-times"
+    }
+  ],
+  "evidenceCount": 2
 }

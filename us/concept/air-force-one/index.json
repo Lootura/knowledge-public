@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/concept/air-force-one/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/concept/air-force-one/index.json",
   "description": "Follow Air Force One, a tracked concept, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-24T17:28:08.619Z",
+  "updatedAt": "2026-07-24T21:00:15.269Z",
   "aliases": [
     "Boeing VC-25",
     "VC-137C",
@@ -18,6 +18,11 @@
     {
       "title": "DOJ admits legal errors, drops subpoenas of New York Times journalists",
       "summary": "A judge criticized the Justice Department for legal errors that ultimately led the agency to withdraw its subpoenas of two New York Times journalists who wrote a story about security concerns on President Trump's Qatari-gifted Air Force One. CBS News' Katrina Kaufman has the latest.",
+      "date": "2026-07-24"
+    },
+    {
+      "title": "NATO spending pressure returned",
+      "summary": "The threat led the Secret Service to urge President Trump to fly out of Turkey on the old plane, raising questions about the security of the Qatari-donated jet.",
       "date": "2026-07-24"
     },
     {
@@ -59,11 +64,6 @@
       "title": "White House Says New Air Force One Will Be Out of Service for a Month for ‘Upgrades’",
       "summary": "The White House press secretary said the unspecified “enhancements” would take place this fall. The plane has been under scrutiny over whether it has sufficient defensive capabilities.",
       "date": "2026-07-20"
-    },
-    {
-      "title": "Trump to keep using old Air Force One while new plane gets security upgrades",
-      "summary": "The new Air Force One \"has a lot of capability, but as I understand it, in about a month or so, they're going to send it to have it be maxed out,\" President Trump said Sunday.",
-      "date": "2026-07-20"
     }
   ],
   "sources": [
@@ -72,7 +72,13 @@
       "url": "https://www.cbsnews.com/video/doj-admits-legal-errors-drops-subpoenas-new-york-times-journalists/?utm_source=lootura.com",
       "publishedAt": "2026-07-24T17:13:52.000Z",
       "sourceId": "lootura-us-cbs-news"
+    },
+    {
+      "title": "Trump Switched to Old Air Force One at NATO Summit After Credible Iranian Threat",
+      "url": "https://www.nytimes.com/2026/07/24/us/politics/trump-plane-iran-threat.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-24T20:24:58.000Z",
+      "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 3
 }

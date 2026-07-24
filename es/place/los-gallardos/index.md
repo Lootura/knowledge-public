@@ -70,4 +70,4 @@ Date: 2026-07-14
 
 ## Fuentes
 
-- [El PSOE apunta a responsabilidades políticas por la gestión del incendio de Almería](https://theobjective.com/espana/politica/2026-07-24/psoe-responsabilidades-gestion-incendio/?utm_source=lootura.com) — 2026-07-24T12:08:14.000Z
+No public source links.

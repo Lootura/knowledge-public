@@ -8,9 +8,14 @@
   "markdownUrl": "https://atlas.lootura.com/us/object/oval-office/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/object/oval-office/index.json",
   "description": "Follow Oval Office, a tracked object, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-23T13:51:24.628Z",
+  "updatedAt": "2026-07-24T21:00:15.269Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "Trump touts new nuclear reactors in his push to speed up domestic power",
+      "summary": "President Donald Trump hosted executives from nuclear power companies Friday in the Oval Office to celebrate a new milestone in the White House's push to accelerate the growth of nuclear power in the United States.",
+      "date": "2026-07-24"
+    },
     {
       "title": "U.S. Reaches Landmark Nuclear Deal With Saudi Arabia",
       "summary": "U.S. President Donald Trump and Crown Prince Mohammed bin Salman of Saudi Arabia during a bilateral meeting in the Oval Office of the White House on Nov. 18, 2025. —Demetrius Freeman—The Washington Post/Getty Images Washington has reached a watershed civilian nuclear cooperation agreement with Saudi Arabia, the U.S. En.",
@@ -27,6 +32,13 @@
       "date": "2026-07-14"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "WATCH: Trump touts new nuclear reactors in his push to speed up domestic power",
+      "url": "https://www.pbs.org/newshour/politics/watch-trump-touts-new-nuclear-reactors-in-his-push-to-speed-up-production?utm_source=lootura.com",
+      "publishedAt": "2026-07-24T20:45:37.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
+    }
+  ],
+  "evidenceCount": 1
 }

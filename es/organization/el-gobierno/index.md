@@ -3,7 +3,7 @@
 > Sigue la actividad de El Gobierno en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-24T17:27:46.992Z
+- Actualizado: 2026-07-24T20:59:56.236Z
 - Canonical: https://atlas.lootura.com/es/organization/el-gobierno
 
 ## Cambios recientes
@@ -11,6 +11,12 @@
 ### De casa a un polideportivo, expulsados por el fuego de Aldea del Fresno: "No he dormido un minuto"
 
 El polideportivo del Villamanta se ha convertido en un refugio improvisado para cientos de personas que esperan con angustia noticias de sus hogares Directo - El Gobierno alerta de que queda “muy poco” para que los fuegos de Madrid y Ávila se unan en un macroincendio Las cuestiones más inmediatas se mezclan con el inde.
+
+Date: 2026-07-24
+
+### El Gobierno vasco y Jainaga lanzan una opa de 245 millones por el 100% de Azkoyen
+
+Clerbil (presidida por José Antonio Jainaga), acompañada por los socios actuales de Ohmnia (Carmen Lequerica Holding, el Instituto Vasco de Finanzas y la Fundación Bancaria...
 
 Date: 2026-07-24
 
@@ -62,13 +68,7 @@ El Gobierno de España ha recogido en cuestión de un par de horas el guante lan
 
 Date: 2026-07-24
 
-### El Gobierno retrasa la aprobación del registro horario pese al ultimátum de los sindicatos y dice que lo tramitará en septiembre
-
-“O para el 31 de julio está resuelto todo lo que tiene que ver con el registro horario o que no cuenten con los sindicatos para acuerdos que luego no se ven reflejados en la legislación”, dijo el 30 de junio el líder de CC OO, Unai Sordo. “La paciencia de los sindicatos está más que superada”, comentó a su lado el secr.
-
-Date: 2026-07-24
-
 ## Fuentes
 
-- [El Gobierno ordena evacuar Fresnedillas de la Oliva, Robledo de Chavela, Navalagamella y Zarzalejo](https://www.eldebate.com/espana/madrid/20260724/gobierno-ordena-evacuar-fresnedillas-oliva-robledo-chavela-confina-navalagamella_443460.html?utm_source=lootura.com) — 2026-07-24T15:27:38.000Z
 - [De casa a un polideportivo, expulsados por el fuego de Aldea del Fresno: "No he dormido un minuto"](https://www.eldiario.es/sociedad/casa-polideportivo-expulsados-fuego-aldea-fresno-no-he-dormido-minuto_1_13405634.html?utm_source=lootura.com) — 2026-07-24T17:21:42.000Z
+- [El Gobierno vasco y Jainaga lanzan una opa de 245 millones por el 100% de Azkoyen](https://amp.expansion.com/empresas/2026/07/24/6a639a82468aebb2708b458f.html?utm_source=lootura.com) — 2026-07-24T17:01:57.000Z

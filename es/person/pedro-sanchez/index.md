@@ -3,7 +3,7 @@
 > Sigue la actividad de Pedro Sánchez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-24T17:27:46.992Z
+- Actualizado: 2026-07-24T20:59:56.236Z
 - Canonical: https://atlas.lootura.com/es/person/pedro-sanchez
 
 ## Cambios recientes
@@ -17,6 +17,12 @@ Date: 2026-07-24
 ### Podcast | Escándalo en la regularización: se ‘cuelan’ 400.000 inmigrantes
 
 Todo lo que rodea a la regularización masiva de inmigrantes impulsada por el Gobierno de Pedro Sánchez es escandaloso. Primero dijeron que solo iba a beneficiar a 500.000, que se encontraban en situación irregular en nuestro país, y finalmente fueron 1,2 millones de solicitudes. Pues bien, de estos, tal y como ha desve.
+
+Date: 2026-07-24
+
+### Sánchez visita este sábado la zona afectada por los incendios de Madrid
+
+El presidente del Gobierno, Pedro Sánchez , visitará la zona afectada por los incendios que han calcinado la Comunidad de Madrid el próximo sábado. Estos fuegos han dejado, al menos, 45.000 personas o evacuadas . Así lo ha detallado el Gobierno en un comunicado, en el que, además, informan que el jefe del Ejecutivo acu.
 
 Date: 2026-07-24
 
@@ -62,13 +68,8 @@ Tras declarar el Gobierno la emergencia nacional por la rápida propagación del
 
 Date: 2026-07-24
 
-### La UE suspende al Gobierno por la financiación de partidos políticos y la desregulación del 'lobby'
-
-El Informe sobre el Estado de derecho en España, elaborado por la Comisión Europea , saca a relucir las promesas incumplidas de Pedro Sánchez en regeneración democrática y prevención de la corrupción. En concreto, el ente europeo apunta a ámbitos de total actualidad , como la falta de transparencia en la financiación d.
-
-Date: 2026-07-24
-
 ## Fuentes
 
+- [Sánchez visita este sábado la zona afectada por los incendios de Madrid](https://www.20minutos.es/madrid/sanchez-visita-este-sabado-zona-afectada-por-los-incendios-madrid_7018805_0.html?utm_source=lootura.com) — 2026-07-24T18:34:25.000Z
 - [Ayuso y Puente se llaman mutuamente “mamarrachos” por la crisis de los incendios](https://elpais.com/espana/2026-07-24/sanchez-y-marlaska-inciden-en-la-solidaridad-y-puente-acusa-al-pp-de-querer-que-les-resuelvan-la-papeleta-de-los-incendios.html?utm_source=lootura.com) — 2026-07-24T11:41:40.000Z
 - [Podcast | Escándalo en la regularización: se ‘cuelan’ 400.000 inmigrantes](https://theobjective.com/podcasts/objetivo-directo-podcast/podcast-objetivo-directo-escandalo-regularizacion-inmigrantes/?utm_source=lootura.com) — 2026-07-24T15:20:49.000Z

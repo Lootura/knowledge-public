@@ -3,10 +3,16 @@
 > Sigue la actividad de mansión exclusiva en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: object
-- Actualizado: 2026-07-23T06:28:35.711Z
+- Actualizado: 2026-07-24T20:59:56.236Z
 - Canonical: https://atlas.lootura.com/es/object/casa-blanca
 
 ## Cambios recientes
+
+### Trump vuelve a la cena de corresponsales que fue interrumpida a tiros en abril
+
+La Asociación de Corresponsales de la Casa Blanca celebra este viernes de nuevo la cena que quedó suspendida hace tres meses tras el tiroteo registrado en el Washington Hilton. Donald Trump volverá a asistir a la cita, esta vez en un recinto distinto y con un dispositivo de seguridad muy reforzado, para completar un pr.
+
+Date: 2026-07-24
 
 ### El pacto nuclear de EE.UU. con Arabia Saudí hace temer una carrera atómica en Oriente Próximo
 
@@ -62,12 +68,6 @@ Sin grandes anuncios ni gestos solemnes, Donald Trump ha situado a Cuba en el ce
 
 Date: 2026-07-15
 
-### Discovered by Atlas
-
-Casa Blanca first entered the public knowledge record with source-backed evidence.
-
-Date: 2026-07-14
-
 ## Fuentes
 
-No public source links.
+- [Trump vuelve a la cena de corresponsales que fue interrumpida a tiros en abril](https://www.abc.es/internacional/trump-vuelve-cenar-prensa-terminar-fiesta-interrumpida-20260723215516-nt.html?utm_source=lootura.com) — 2026-07-24T19:57:15.000Z

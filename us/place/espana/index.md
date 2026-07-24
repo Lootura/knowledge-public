@@ -3,20 +3,20 @@
 > Follow Spain, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-24T17:28:08.619Z
+- Updated: 2026-07-24T21:00:15.269Z
 - Canonical: https://atlas.lootura.com/us/place/espana
 
 ## Recent changes
 
-### More than 80,000 flee forest infernos in France and Spain
-
-Europe's wildfire crisis forced more than 80,000 people to flee for safety Friday, as vacationers boarded boats to escape fires on a French peninsula and Spanish officials ordered mass evacuations in towns near Madrid.
-
-Date: 2026-07-24
-
 ### Faced With Heat and Wildfires, France Turns to Spain to Learn How to Cope
 
 A French government delegation will travel to its southern neighbor to learn how it copes with long spells of hot weather.
+
+Date: 2026-07-24
+
+### More than 80,000 flee forest infernos in France and Spain
+
+Europe's wildfire crisis forced more than 80,000 people to flee for safety Friday, as vacationers boarded boats to escape fires on a French peninsula and Spanish officials ordered mass evacuations in towns near Madrid.
 
 Date: 2026-07-24
 
@@ -41,6 +41,4 @@ Date: 2026-07-09
 ## Sources
 
 - [Tens of thousands of people flee raging wildfires in France and Spain, some escaping by boat](https://www.pbs.org/newshour/world/tens-of-thousands-of-people-flee-raging-wildfires-in-france-and-spain-some-escaping-by-boat?utm_source=lootura.com) — 2026-07-24T16:25:09.000Z
-- [More than 80,000 flee forest infernos in France and Spain](https://phys.org/news/2026-07-forest-infernos-france-spain.html?utm_source=lootura.com) — 2026-07-24T16:40:07.000Z
 - [Faced With Heat and Wildfires, France Turns to Spain to Learn How to Cope](https://www.nytimes.com/2026/07/24/world/europe/france-spain-climate-heat-wildfires.html?utm_source=lootura.com) — 2026-07-24T16:10:17.000Z
-- [Wildfires in France and Spain Drive Tens of Thousands From Their Homes](https://www.nytimes.com/2026/07/24/world/europe/france-spain-wildfires.html?utm_source=lootura.com) — 2026-07-24T16:12:41.000Z

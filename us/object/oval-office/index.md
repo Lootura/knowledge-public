@@ -3,10 +3,16 @@
 > Follow Oval Office, a tracked object, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: object
-- Updated: 2026-07-23T13:51:24.628Z
+- Updated: 2026-07-24T21:00:15.269Z
 - Canonical: https://atlas.lootura.com/us/object/oval-office
 
 ## Recent changes
+
+### Trump touts new nuclear reactors in his push to speed up domestic power
+
+President Donald Trump hosted executives from nuclear power companies Friday in the Oval Office to celebrate a new milestone in the White House's push to accelerate the growth of nuclear power in the United States.
+
+Date: 2026-07-24
 
 ### U.S. Reaches Landmark Nuclear Deal With Saudi Arabia
 
@@ -28,4 +34,4 @@ Date: 2026-07-14
 
 ## Sources
 
-No public source links.
+- [WATCH: Trump touts new nuclear reactors in his push to speed up domestic power](https://www.pbs.org/newshour/politics/watch-trump-touts-new-nuclear-reactors-in-his-push-to-speed-up-production?utm_source=lootura.com) — 2026-07-24T20:45:37.000Z

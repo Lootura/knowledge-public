@@ -70,5 +70,4 @@ Date: 2026-07-21
 
 ## Fuentes
 
-- [Xpeng L03: el SUV futurista que queríamos, con un precio y una autonomía que decepciona](https://hipertextual.com/movilidad/xpeng-l03-suv-electrico-futurista-decepcion/?utm_source=lootura.com) — 2026-07-24T13:21:26.000Z
-- [El embajador chino en España, con los pintores Rao Jinzhong y Du Miaolos](https://www.larazon.es/madrid/embajador-chino-espana-pintores-rao-jinzhong-miaolos_202607246a639d3dda3add27d4e0375d.html?utm_source=lootura.com) — 2026-07-24T17:13:33.000Z
+No public source links.

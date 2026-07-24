@@ -3,10 +3,16 @@
 > Sigue la actividad de Partido Socialista Obrero Español en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-24T17:27:46.992Z
+- Actualizado: 2026-07-24T20:59:56.236Z
 - Canonical: https://atlas.lootura.com/es/organization/psoe
 
 ## Cambios recientes
+
+### El nuevo decreto de vivienda incluye bonificaciones fiscales para caseros e inquilinos
+
+Después del acuerdo alcanzado entre el PSOE y Sumar hace unos días sobre el nuevo decreto de vivienda, que, entre otras medidas, recoge la prórroga extraordinaria de los...
+
+Date: 2026-07-24
 
 ### El PSOE apunta a responsabilidades políticas por la gestión del incendio de Almería
 
@@ -62,13 +68,6 @@ La portavoz del PP en el Congreso, Ester Muñoz, ha cargado contra el expresiden
 
 Date: 2026-07-23
 
-### El Gobierno y el PSOE cierran filas con Zapatero y aseguran que probará su inocencia
-
-El Gobierno y la dirección del PSOE reiteran su respaldo a José Luis Rodríguez Zapatero tras las explicaciones que el expresidente ha dado en RTVE, donde ha defendido su inocencia sin aportar ninguna información nueva a la que ya había declarado a mediados de junio ante el juez José Luis Calama de la Audiencia Nacional.
-
-Date: 2026-07-23
-
 ## Fuentes
 
-- [Las acusaciones populares piden que la directora de la Guardia Civil y el DAO investigados no puedan mandar sobre la UCO](https://www.abc.es/espana/acusaciones-populares-piden-directora-guardia-civil-dao-20260724104145-nt.html?utm_source=lootura.com) — 2026-07-24T17:06:07.000Z
-- [El PSOE apunta a responsabilidades políticas por la gestión del incendio de Almería](https://theobjective.com/espana/politica/2026-07-24/psoe-responsabilidades-gestion-incendio/?utm_source=lootura.com) — 2026-07-24T12:08:14.000Z
+- [El nuevo decreto de vivienda incluye bonificaciones fiscales para caseros e inquilinos](https://amp.expansion.com/economia/2026/07/24/6a63a1ad468aeba9388b45a1.html?utm_source=lootura.com) — 2026-07-24T17:32:32.000Z

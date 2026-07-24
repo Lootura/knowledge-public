@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/donald-trump/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/donald-trump/index.json",
   "description": "Follow Donald Trump, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-24T17:28:08.619Z",
+  "updatedAt": "2026-07-24T21:00:15.269Z",
   "aliases": [
     "@realDonaldTrump",
     "DJT",
@@ -30,18 +30,8 @@
       "date": "2026-07-24"
     },
     {
-      "title": "Rob Bonta on blocking the Paramount merger, CNN concerns and Trump’s DOJ",
-      "summary": "Rob Bonta on blocking the Paramount merger, CNN concerns and Trump’s DOJ lead image.",
-      "date": "2026-07-24"
-    },
-    {
       "title": "Trump’s Global Tariffs: What’s the Latest on the Trade War",
       "summary": "The president has unveiled a complicated system to forge ahead with his trade war, after the Supreme Court struck down his original levies.",
-      "date": "2026-07-24"
-    },
-    {
-      "title": "Trump imposes new tariffs on dozens of countries, citing forced labor concerns",
-      "summary": "The Trump administration will impose tariffs of up to 12.5% on goods from 60 U.S. trading partners accused of failing to crack down on forced labor, extending the administration's tariffs on much of the world.",
       "date": "2026-07-24"
     },
     {
@@ -73,6 +63,16 @@
       "title": "Some Trump officials worried about rapid use of interceptor, precision-guided weapons, sources say",
       "summary": "Some Trump administration officials are concerned about the rapid use of interceptor and precision-guided weapons in the Middle East, sources told CBS News. CBS News' Kathryn Watson has more.",
       "date": "2026-07-24"
+    },
+    {
+      "title": "Why Trump’s Renewed Trade War Could Be Costly",
+      "summary": "Households and businesses were already contending with an affordability crunch. A new round of tariffs could inflict more pain.",
+      "date": "2026-07-24"
+    },
+    {
+      "title": "How Trump's threat of a \"massive attack\" on Iran could unfold",
+      "summary": "President Trump said he is considering a \"massive attack\" on Iran as fighting ramps up. CBS News' Charlie D'Agata explains how a U.S. military attack on Iran could unfold.",
+      "date": "2026-07-24"
     }
   ],
   "sources": [
@@ -89,9 +89,21 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "Trump imposes new tariffs on dozens of countries, citing forced labor concerns",
-      "url": "https://www.cbsnews.com/news/trump-tariffs-dozens-countries-forced-labor/?utm_source=lootura.com",
-      "publishedAt": "2026-07-24T05:02:49.000Z",
+      "title": "Ontario Premier Doug Ford says \"we didn't start this trade war\" as Trump slaps Canada with tariffs",
+      "url": "https://www.cbsnews.com/video/ontario-premier-doug-ford-we-didnt-start-trade-war-trump-canada-tariffs/?utm_source=lootura.com",
+      "publishedAt": "2026-07-24T19:53:48.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
+    {
+      "title": "Mixed close on Wall Street amid U.S.-Iran fighting, new Trump tariffs",
+      "url": "https://www.cbsnews.com/video/mixed-close-wall-street-us-iran-fighting-new-trump-tariffs/?utm_source=lootura.com",
+      "publishedAt": "2026-07-24T20:50:53.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
+    {
+      "title": "Canada's Doug Ford on why country needs to \"fight back\" against Trump trade war",
+      "url": "https://www.cbsnews.com/news/canada-doug-ford-trump-trade-war-prices-tariffs/?utm_source=lootura.com",
+      "publishedAt": "2026-07-24T20:10:52.000Z",
       "sourceId": "lootura-us-cbs-news"
     },
     {
@@ -113,29 +125,17 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
+      "title": "Trump says \"nobody got out ahead\" of him on Saudi nuclear deal announcement after changing terms",
+      "url": "https://www.cbsnews.com/video/trump-nobody-got-out-ahead-saudi-nuclear-deal-announcement-changing-terms/?utm_source=lootura.com",
+      "publishedAt": "2026-07-24T20:28:05.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
+    {
       "title": "Some Trump officials worried about rapid use of interceptor, precision-guided weapons, sources say",
       "url": "https://www.cbsnews.com/video/some-trump-officials-worried-rapid-pace-interceptor-precision-guided-weapons-being-used/?utm_source=lootura.com",
       "publishedAt": "2026-07-24T13:18:54.000Z",
       "sourceId": "lootura-us-cbs-news"
-    },
-    {
-      "title": "International PhD students to face strict limits on time in the US",
-      "url": "https://www.nature.com/articles/d41586-026-02280-3?utm_source=lootura.com",
-      "publishedAt": "2026-07-24T17:28:12.627Z",
-      "sourceId": "lootura-us-nature"
-    },
-    {
-      "title": "Trump to deliver ‘unifying yet vicious’ remarks at Correspondents’ dinner, White House says",
-      "url": "https://www.nbcnews.com/politics/trump-administration/trump-white-house-correspondents-dinner-remarks-shooting-rcna589049?utm_source=lootura.com",
-      "publishedAt": "2026-07-24T16:48:35.000Z",
-      "sourceId": "lootura-us-nbc-news-politics"
-    },
-    {
-      "title": "Morning news brief",
-      "url": "https://www.npr.org/2026/07/24/nx-s1-5895986/morning-news-brief?utm_source=lootura.com",
-      "publishedAt": "2026-07-24T08:45:17.000Z",
-      "sourceId": "lootura-us-npr"
     }
   ],
-  "evidenceCount": 23
+  "evidenceCount": 33
 }

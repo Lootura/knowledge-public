@@ -70,4 +70,4 @@ Date: 2026-07-23
 
 ## Fuentes
 
-- [De Cervantes a Da Vinci y Marie Curie: los billetes de euro cambian y así son todos los nuevos por los que ya puedes votar](https://theobjective.com/galerias/economia/2026-07-24/de-cervantes-a-da-vinci-y-marie-curie-los-billetes-de-euro-cambian-y-asi-son-todos-los-nuevos-por-los-que-ya-puedes-votar/?utm_source=lootura.com) — 2026-07-24T13:09:02.000Z
+No public source links.

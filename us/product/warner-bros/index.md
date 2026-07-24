@@ -3,10 +3,16 @@
 > Follow Warner Bros., a tracked product, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: product
-- Updated: 2026-07-21T10:23:35.333Z
+- Updated: 2026-07-24T21:00:15.269Z
 - Canonical: https://atlas.lootura.com/us/product/warner-bros
 
 ## Recent changes
+
+### Paramount Skydance agrees to halt Warner Bros. merger until next June
+
+Paramount Skydance has agreed to freeze its merger with rival Hollywood studio Warner Bros.
+
+Date: 2026-07-24
 
 ### Judge puts temporary pause on Paramount-Warner merger
 
@@ -52,7 +58,7 @@ Date: 2026-07-14
 
 ### Discovered by Atlas
 
-Warner Bros first entered the public knowledge record with source-backed evidence.
+Warner Bros. first entered the public knowledge record with source-backed evidence.
 
 Date: 2026-07-13
 
@@ -62,12 +68,6 @@ California is among the states suing to block Paramount from buying Warner Bros.
 
 Date: 2026-07-13
 
-### 12 states sue to block Paramount-Warner Bros. Discovery merger
-
-The suit poses a new challenge to the $110 billion deal that would unite two of the nation.
-
-Date: 2026-07-13
-
 ## Sources
 
-No public source links.
+- [Paramount Skydance agrees to halt Warner Bros. merger until next June](https://www.nbcnews.com/business/business-news/paramount-skydance-agrees-halt-warner-bros-merger-june-2027-rcna589137?utm_source=lootura.com) — 2026-07-24T19:46:21.000Z

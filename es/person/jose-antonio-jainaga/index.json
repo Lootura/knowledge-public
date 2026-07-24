@@ -1,0 +1,45 @@
+{
+  "id": "es-jose-antonio-jainaga",
+  "name": "José Antonio Jainaga",
+  "type": "person",
+  "locale": "es",
+  "canonicalPath": "/es/person/jose-antonio-jainaga",
+  "canonicalUrl": "https://atlas.lootura.com/es/person/jose-antonio-jainaga",
+  "markdownUrl": "https://atlas.lootura.com/es/person/jose-antonio-jainaga/index.md",
+  "jsonUrl": "https://atlas.lootura.com/es/person/jose-antonio-jainaga/index.json",
+  "description": "Sigue la actividad de José Antonio Jainaga en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
+  "updatedAt": "2026-07-24T20:59:56.236Z",
+  "aliases": [],
+  "changes": [
+    {
+      "title": "Jainaga y un grupo de inversores vascos lanzan una OPA sobre Azkoyen por 244 millones",
+      "summary": "El empresario vasco José Antonio Jainaga , presidente del fabricante de trenes Talgo y de la siderúrgica Sidenor, lidera un consorcio de inversores vascos en el lanzamiento de una OPA sobre Azkoyen para conformar un grupo en torno a Ohmnia. Seguir leyendo.",
+      "date": "2026-07-24"
+    },
+    {
+      "title": "El Gobierno vasco y Jainaga lanzan una opa de 245 millones por el 100% de Azkoyen",
+      "summary": "Clerbil (presidida por José Antonio Jainaga), acompañada por los socios actuales de Ohmnia (Carmen Lequerica Holding, el Instituto Vasco de Finanzas y la Fundación Bancaria...",
+      "date": "2026-07-24"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "José Antonio Jainaga first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-07-24"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Jainaga y un grupo de inversores vascos lanzan una OPA sobre Azkoyen por 244 millones",
+      "url": "https://cincodias.elpais.com/companias/2026-07-24/jainaga-y-un-grupo-inversores-vascos-lanzan-una-opa-sobre-azkoyen-por-244-millones.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-24T17:38:59.000Z",
+      "sourceId": "lootura-es-cinco-dias"
+    },
+    {
+      "title": "El Gobierno vasco y Jainaga lanzan una opa de 245 millones por el 100% de Azkoyen",
+      "url": "https://amp.expansion.com/empresas/2026/07/24/6a639a82468aebb2708b458f.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-24T17:01:57.000Z",
+      "sourceId": "lootura-es-expansion"
+    }
+  ],
+  "evidenceCount": 2
+}

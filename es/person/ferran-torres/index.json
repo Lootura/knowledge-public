@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/ferran-torres/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/ferran-torres/index.json",
   "description": "Sigue la actividad de \"El Tiburón\" en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-24T10:14:05.930Z",
+  "updatedAt": "2026-07-24T20:59:56.236Z",
   "aliases": [
     "\"El Tiburón\"",
     "El Tiburón",
@@ -68,6 +68,13 @@
       "date": "2026-07-19"
     }
   ],
-  "sources": [],
+  "sources": [
+    {
+      "title": "Trump opina sobre la gorra de Ferran Torres: \"Creo que lo hizo con buena intención\"",
+      "url": "https://www.larazon.es/deportes/laotraliga/trump-opina-gorra-ferran-torres-creo-que-hizo-buena-intencion_202607246a63ca51aa17c0020f2e42b4.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-24T20:25:53.000Z",
+      "sourceId": "lootura-es-la-razon"
+    }
+  ],
   "evidenceCount": 0
 }

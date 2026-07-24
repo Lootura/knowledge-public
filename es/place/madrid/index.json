@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/madrid/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/madrid/index.json",
   "description": "Sigue la actividad de Madrid en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-24T17:27:46.992Z",
+  "updatedAt": "2026-07-24T20:59:56.236Z",
   "aliases": [],
   "changes": [
     {
@@ -27,23 +27,8 @@
       "date": "2026-07-24"
     },
     {
-      "title": "Puente responde a las críticas de Ayuso: \"Si hay una mamarracha en España, esa eres tú\"",
-      "summary": "El ministro de Transportes, Óscar Puente , ha llamado \"mamarracha\" a la presidenta de la Comunidad de Madrid, Isabel Díaz Ayuso , después de que la mandataria autonómica haya censurado su actitud, tras arremeter éste contra los ejecutivos regionales del PP , y loara la coordinación entre administraciones frente a los \".",
-      "date": "2026-07-24"
-    },
-    {
-      "title": "A cuántos campos de fútbol equivale el incendio de Madrid: las dimensiones del incendio",
-      "summary": "Con más de 10.000 vecinos evacuados y un amplio dispositivo desplegado sobre el terreno, el incendio que afecta al suroeste de la Comunidad de Madrid continúa activo. La superficie arrasada alcanza una dimensión que resulta más fácil de comprender cuando se compara con un elemento tan cotidiano como un campo de fútbol.",
-      "date": "2026-07-24"
-    },
-    {
       "title": "Incertidumbre y angustia entre los miles de evacuados en los pueblos amenazados de Madrid: \"Hoy estamos aquí, mañana no lo sabemos\"",
       "summary": "Familias, mayores y personas dependientes pasan las horas en el pabellón de Villamanta esperando esa llamada que les permita regresar: \"No nos ha faltado de nada. Anoche faltaron camas, pero la UME estaba desbordada\" Leer.",
-      "date": "2026-07-24"
-    },
-    {
-      "title": "Última hora de los incendios forestales, en directo | Los incendios de la Comunidad de Madrid se unen en un solo frente y amenazan a nuevos municipios",
-      "summary": "Los tres incendios que afectan a la Comunidad de Madrid ya se han fusionado y amenazan nuevos municipios, según ha confirmado este viernes el consejero de Medio Ambiente, Agricultura e Interior de la Comunidad de Madrid, Carlos Novillo. La Secretaría General de Protección Civil y Emergencias, del Ministerio del Interio.",
       "date": "2026-07-24"
     },
     {
@@ -57,64 +42,61 @@
       "date": "2026-07-24"
     },
     {
-      "title": "MAPA | La expansión del incendio que ha obligado a activar la emergencia nacional en Madrid y Ávila",
-      "summary": "El fuerte viento está aumentando la velocidad del avance de los incendios en la Comunidad de Madrid y en Castilla y León y las autoridades avisan de que las llamas se encuentran \"en su punto álgido\" y se intenta evitar la unión de ambos en un \"macroincendio\" Los incendios de Madrid se unen en un solo frente y obligan a.",
+      "title": "Incendios en Madrid, en directo: Declaran la emergencia nacional en Madrid y Ávila y el fuego sigue sin estar perimetrado",
+      "summary": "Las llamas y el fuerte viento arrasan pueblos enteros en una auténtica emergencia de carácter nacional que mantiene en alerta a los servicios de emergencia y ha obligado a ampliar las evacuaciones y confinamientos en varios municipios.",
+      "date": "2026-07-24"
+    },
+    {
+      "title": "Puente a Ayuso por los incendios en Madrid: \"Si hay una mamarracha en España, esa eres tú\"",
+      "summary": "Óscar Puente e Isabel Díaz Ayuso han protagonizado un duro enfrentamiento político por los incendios de Madrid, después de que el ministro de Transportes acusara a los gobiernos autonómicos del PP de recortar servicios públicos y reclamar después la intervención del Gobierno. La disputa ha estallado mientras miles de p.",
+      "date": "2026-07-24"
+    },
+    {
+      "title": "Cebreros acoge a los evacuados por los incendios de Madrid: “Los ancianos llegaban descalzos y en bata”",
+      "summary": "Nadie ha pegado ojo en Cebreros. Este pueblo abulense acogió a más de 500 personas que tuvieron que abandonar sus casas por el avance del humo y las llamas provenientes de los tres incendios que amenazan la capital española y la provincia de Ávila. En las calles, las pavesas vuelan mientras una nube gris cubre el cielo.",
+      "date": "2026-07-24"
+    },
+    {
+      "title": "Las imágenes de los incendios en España | Día 24 de julio",
+      "summary": "Los frentes de Madrid y Ávila, los más virulentos.",
       "date": "2026-07-24"
     }
   ],
   "sources": [
     {
-      "title": "Así se ve desde el cielo el drama del fuego en San Martín: decenas de focos arrasando todo sin control",
-      "url": "https://www.20minutos.es/madrid/asi-se-ve-desde-cielo-dramatica-situacion-incendio-san-martin-valdeiglesias-decenas-focos-arrasando-todo-sin-control_7018735_0.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-24T14:48:54.000Z",
+      "title": "Detectan varios fuegos nuevos en poco tiempo en Casillas y temen que los estén provocando: \"Tiene toda la pinta\"",
+      "url": "https://www.20minutos.es/castilla-y-leon/avila/detectan-varios-fuegos-nuevos-poco-tiempo-casillas-temen-provocados-tiene-toda-pinta_7018792_0.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-24T17:43:14.000Z",
       "sourceId": "lootura-es-20minutos"
     },
     {
-      "title": "Los bomberos, abrumados por los incendios en Madrid: \"No he visto algo igual en la vida, varios operarios han quedado atrapados\"",
-      "url": "https://www.20minutos.es/madrid/bomberos-abrumados-incendios-madrid-anos-visto-vida-operaciones-quedado-atrapados_7018737_0.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-24T15:06:50.000Z",
+      "title": "Sánchez visita este sábado la zona afectada por los incendios de Madrid",
+      "url": "https://www.20minutos.es/madrid/sanchez-visita-este-sabado-zona-afectada-por-los-incendios-madrid_7018805_0.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-24T18:34:25.000Z",
       "sourceId": "lootura-es-20minutos"
     },
     {
-      "title": "Los incendios y una masa de aire africano deterioran la calidad del aire en el oeste y la Sierra norte de Madrid",
-      "url": "https://www.20minutos.es/madrid/los-incendios-una-masa-aire-africano-deterioran-calidad-aire-oeste-sierra-norte-madrid_7018775_0.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-24T16:34:14.000Z",
+      "title": "Madrid admite que el incendio está \"fuera de capacidad de extinción\" y llega a su \"momento álgido\" con miles de afectados",
+      "url": "https://www.20minutos.es/madrid/novillo-admite-que-incendio-madrid-esta-fuera-capacidad-extincion-llega-su-momento-algido-con-miles-afectados_7018793_0.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-24T17:46:55.000Z",
       "sourceId": "lootura-es-20minutos"
-    },
-    {
-      "title": "El delegado del Gobierno en Castilla y León adelanta que los incendios de Madrid y Ávila están a punto de unirse: \"Queda muy poquito\"",
-      "url": "https://www.20minutos.es/castilla-y-leon/avila/delegado-gobierno-castilla-leon-adelanta-que-los-incendios-madrid-avila-estan-punto-unirse-queda-muy-poquito_7018751_0.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-24T15:26:08.000Z",
-      "sourceId": "lootura-es-20minutos"
-    },
-    {
-      "title": "El nivel 3 de Emergencia por incendios se activa por primera vez: ¿qué implica?",
-      "url": "https://www.abc.es/sociedad/implica-activacion-nivel-emergencia-espana-20260724150056-nt.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-24T16:52:07.000Z",
-      "sourceId": "lootura-es-abc"
     },
     {
       "title": "Incendios en España hoy, en directo: última hora de los fuegos en Madrid, Castilla y León y Castilla-La Mancha y de los pueblos evacuados",
       "url": "https://www.abc.es/sociedad/incendios-espana-hoy-directo-fuegos-activos-madrid-20260723185959-di_amp.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-24T17:12:30.000Z",
+      "publishedAt": "2026-07-24T20:31:27.000Z",
       "sourceId": "lootura-es-abc"
     },
     {
-      "title": "Un detenido por provocar el incendio de Ávila",
-      "url": "https://www.abc.es/espana/castilla-leon/detenido-provocar-incendio-burgohondo-arrasado-9000-hectareas-20260724165951-nt.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-24T17:01:25.000Z",
-      "sourceId": "lootura-es-abc"
+      "title": "Última hora de los incendios forestales, en directo | Más de 60.000 afectados por el fuego voraz en Madrid y Ávila",
+      "url": "https://elpais.com/espana/2026-07-24/ultima-hora-de-los-incendios-forestales-en-directo.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-24T20:47:14.000Z",
+      "sourceId": "lootura-es-cinco-dias"
     },
     {
-      "title": "Puente responde a las críticas de Ayuso: \"Si hay una mamarracha en España, esa eres tú\"",
-      "url": "https://www.elconfidencial.com/espana/2026-07-24/ayuso-puente-incendios-madrid-1tps_4395604/?utm_source=lootura.com",
-      "publishedAt": "2026-07-24T12:52:00.000Z",
-      "sourceId": "lootura-es-el-confidencial"
-    },
-    {
-      "title": "A cuántos campos de fútbol equivale el incendio de Madrid: las dimensiones del incendio",
-      "url": "https://www.elconfidencial.com/espana/madrid/2026-07-24/hectareas-incendio-madrid-campos-futbol-1tna-1qrt_4395484/?utm_source=lootura.com",
-      "publishedAt": "2026-07-24T13:30:00.000Z",
+      "title": "Ayuso eleva a 12.000 las hectáreas quemadas en un situación \"muy crítica\" para Madrid",
+      "url": "https://www.elconfidencial.com/espana/2026-07-24/ayuso-12-000-hectareas-situacion-muy-critica-madrid_4395826/?utm_source=lootura.com",
+      "publishedAt": "2026-07-24T18:58:00.000Z",
       "sourceId": "lootura-es-el-confidencial"
     },
     {
@@ -122,7 +104,25 @@
       "url": "https://www.elconfidencial.com/espana/2026-07-24/puente-ayuso-incendios-madrid-mamarracha-1qrt_4395672/?utm_source=lootura.com",
       "publishedAt": "2026-07-24T14:40:00.000Z",
       "sourceId": "lootura-es-el-confidencial"
+    },
+    {
+      "title": "El incendio deja en situación \"crítica\" el complejo de antenas de la NASA en Robledo de Chavela (Madrid)",
+      "url": "https://www.elconfidencial.com/espana/madrid/2026-07-24/incendio-sierra-madrid-nasa-antenas-1hms_4395815/?utm_source=lootura.com",
+      "publishedAt": "2026-07-24T19:13:00.000Z",
+      "sourceId": "lootura-es-el-confidencial"
+    },
+    {
+      "title": "34 edición de la Euskal Encounter: «Aquí hay tiendas de campaña más grandes que pisos de Madrid»",
+      "url": "https://www.elcorreo.com/bizkaia/pistoletazo-salida-edicion-euskal-encounter-tiendas-campana-20260724105759-nt_amp.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-24T09:51:43.000Z",
+      "sourceId": "lootura-es-el-correo"
+    },
+    {
+      "title": "Ayuso define como \"inédito\" el incendio que ya obliga a evacuar a 36.000 personas en Madrid: \"Es una tormenta perfecta. Está siendo catastrófico\"",
+      "url": "https://www.elmundo.es/espana/2026/07/24/6a632fdce85ece8e1b8b456f.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-24T20:07:02.000Z",
+      "sourceId": "lootura-es-el-mundo"
     }
   ],
-  "evidenceCount": 32
+  "evidenceCount": 26
 }

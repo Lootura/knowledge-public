@@ -3,7 +3,7 @@
 > Sigue la actividad de República Portuguesa en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-23T13:51:07.363Z
+- Actualizado: 2026-07-24T20:59:56.236Z
 - Canonical: https://atlas.lootura.com/es/place/portugal
 
 ## Cambios recientes
@@ -70,4 +70,4 @@ Date: 2026-07-10
 
 ## Fuentes
 
-No public source links.
+- [Guardiola no será el próximo seleccionador de Italia](https://theobjective.com/deportes/futbol/2026-07-24/guardiola-no-sera-proximo-entrenador-italia/?utm_source=lootura.com) — 2026-07-24T20:25:09.000Z

@@ -8,9 +8,14 @@
   "markdownUrl": "https://atlas.lootura.com/us/object/abraham-accords/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/object/abraham-accords/index.json",
   "description": "Follow Abraham Accords, a tracked object, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-24T13:39:26.682Z",
+  "updatedAt": "2026-07-24T21:00:15.269Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "Trump says \"nobody got out ahead\" of him on Saudi nuclear deal announcement after changing terms",
+      "summary": "President Trump took questions from reporters the day after he seemed to upend a nuclear agreement with Saudi Arabia by adding a new condition: that the country join the Abraham Accords. CBS News White House reporter Olivia Rinaldi has the details.",
+      "date": "2026-07-24"
+    },
     {
       "title": "Discovered by Atlas",
       "summary": "Abraham Accords first entered the public knowledge record with source-backed evidence.",
@@ -47,6 +52,13 @@
       "date": "2026-07-23"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Trump says \"nobody got out ahead\" of him on Saudi nuclear deal announcement after changing terms",
+      "url": "https://www.cbsnews.com/video/trump-nobody-got-out-ahead-saudi-nuclear-deal-announcement-changing-terms/?utm_source=lootura.com",
+      "publishedAt": "2026-07-24T20:28:05.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    }
+  ],
+  "evidenceCount": 1
 }

@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/el-gobierno/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/el-gobierno/index.json",
   "description": "Sigue la actividad de El Gobierno en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-24T17:27:46.992Z",
+  "updatedAt": "2026-07-24T20:59:56.236Z",
   "aliases": [],
   "changes": [
     {
       "title": "De casa a un polideportivo, expulsados por el fuego de Aldea del Fresno: \"No he dormido un minuto\"",
       "summary": "El polideportivo del Villamanta se ha convertido en un refugio improvisado para cientos de personas que esperan con angustia noticias de sus hogares Directo - El Gobierno alerta de que queda “muy poco” para que los fuegos de Madrid y Ávila se unan en un macroincendio Las cuestiones más inmediatas se mezclan con el inde.",
+      "date": "2026-07-24"
+    },
+    {
+      "title": "El Gobierno vasco y Jainaga lanzan una opa de 245 millones por el 100% de Azkoyen",
+      "summary": "Clerbil (presidida por José Antonio Jainaga), acompañada por los socios actuales de Ohmnia (Carmen Lequerica Holding, el Instituto Vasco de Finanzas y la Fundación Bancaria...",
       "date": "2026-07-24"
     },
     {
@@ -55,26 +60,21 @@
       "title": "El Gobierno declara la emergencia nacional en la Comunidad de Madrid y en Ávila por cuatro incendios",
       "summary": "El Gobierno de España ha recogido en cuestión de un par de horas el guante lanzado por Madrid. Sobre las diez de la noche y en una decisión con un solo precedente, la presidenta madrileña, Isabel Díaz Ayuso, ha pedido vía tuit la declaración de la situación operativa tres del Plan de Protección Civil contra incendios f.",
       "date": "2026-07-24"
-    },
-    {
-      "title": "El Gobierno retrasa la aprobación del registro horario pese al ultimátum de los sindicatos y dice que lo tramitará en septiembre",
-      "summary": "“O para el 31 de julio está resuelto todo lo que tiene que ver con el registro horario o que no cuenten con los sindicatos para acuerdos que luego no se ven reflejados en la legislación”, dijo el 30 de junio el líder de CC OO, Unai Sordo. “La paciencia de los sindicatos está más que superada”, comentó a su lado el secr.",
-      "date": "2026-07-24"
     }
   ],
   "sources": [
-    {
-      "title": "El Gobierno ordena evacuar Fresnedillas de la Oliva, Robledo de Chavela, Navalagamella y Zarzalejo",
-      "url": "https://www.eldebate.com/espana/madrid/20260724/gobierno-ordena-evacuar-fresnedillas-oliva-robledo-chavela-confina-navalagamella_443460.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-24T15:27:38.000Z",
-      "sourceId": "lootura-es-el-debate"
-    },
     {
       "title": "De casa a un polideportivo, expulsados por el fuego de Aldea del Fresno: \"No he dormido un minuto\"",
       "url": "https://www.eldiario.es/sociedad/casa-polideportivo-expulsados-fuego-aldea-fresno-no-he-dormido-minuto_1_13405634.html?utm_source=lootura.com",
       "publishedAt": "2026-07-24T17:21:42.000Z",
       "sourceId": "lootura-es-eldiario-es"
+    },
+    {
+      "title": "El Gobierno vasco y Jainaga lanzan una opa de 245 millones por el 100% de Azkoyen",
+      "url": "https://amp.expansion.com/empresas/2026/07/24/6a639a82468aebb2708b458f.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-24T17:01:57.000Z",
+      "sourceId": "lootura-es-expansion"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 2
 }

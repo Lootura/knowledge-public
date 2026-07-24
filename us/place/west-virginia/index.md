@@ -3,7 +3,7 @@
 > Follow West Virginia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-24T17:28:08.619Z
+- Updated: 2026-07-24T21:00:15.269Z
 - Canonical: https://atlas.lootura.com/us/place/west-virginia
 
 ## Recent changes
@@ -17,6 +17,12 @@ Date: 2026-07-24
 ### C.D.C. Expands Cyclospora Outbreak Linked to Iceberg Lettuce to Nine States
 
 Illinois, Kansas, Oklahoma and Pennsylvania now join Michigan, Ohio, Indiana, Kentucky and West Virginia in cyclospora outbreak linked to iceberg lettuce.
+
+Date: 2026-07-24
+
+### 2 dead after flash floods inundate West Virginia; National Guard deployed
+
+Torrential rains in West Virginia have caused flash flooding that inundated homes and businesses this week.
 
 Date: 2026-07-24
 
@@ -34,5 +40,6 @@ Date: 2026-07-23
 
 ## Sources
 
+- [2 dead after flash floods inundate West Virginia; National Guard deployed](https://www.cbsnews.com/news/west-virginia-flash-floods-national-guard/?utm_source=lootura.com) — 2026-07-24T20:51:07.000Z
 - [West Virginia paid digital nomads to move there during COVID. Many are staying](https://www.npr.org/2026/07/24/nx-s1-5869402/remote-work-west-virginia-cash-incentive?utm_source=lootura.com) — 2026-07-24T09:00:00.000Z
-- [C.D.C. Expands Cyclospora Outbreak Linked to Iceberg Lettuce to Nine States](https://www.nytimes.com/2026/07/24/well/eat/cyclospora-outbreak-states-cdc.html?utm_source=lootura.com) — 2026-07-24T16:06:02.000Z
+- [C.D.C. Expands Cyclospora Outbreak Linked to Iceberg Lettuce to Nine States](https://www.nytimes.com/2026/07/24/well/eat/cyclospora-outbreak-states-cdc.html?utm_source=lootura.com) — 2026-07-24T16:06:03.000Z

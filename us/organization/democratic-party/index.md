@@ -3,10 +3,16 @@
 > Follow Democratic Party, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-07-24T17:28:08.619Z
+- Updated: 2026-07-24T21:00:15.269Z
 - Canonical: https://atlas.lootura.com/us/organization/democratic-party
 
 ## Recent changes
+
+### Opposing Defense Bill, Democrats Shift Their Tactics
+
+Crossing what was once seen as a political red line, Democrats voted against the usually bipartisan measure, registering dissent about the war in Iran.
+
+Date: 2026-07-24
 
 ### DNC committee sets up South Carolina to vote first in Democrats’ 2028 presidential primaries
 
@@ -62,13 +68,7 @@ The calendar order could be hugely important to the 2028 presidential primary ra
 
 Date: 2026-07-22
 
-### Trump’s Plan for Science: More Money for A.I., Less for Universities
-
-Michael Kratsios, President Trump’s science adviser, proposed overhauling how the government funds research. Democrats said Mr. Trump’s actions had weakened science.
-
-Date: 2026-07-22
-
 ## Sources
 
-- [DNC committee sets up South Carolina to vote first in Democrats’ 2028 presidential primaries](https://www.nbcnews.com/politics/2028-election/dnc-committee-sets-south-carolina-vote-first-democrats-2028-presidenti-rcna588863?utm_source=lootura.com) — 2026-07-24T17:13:24.000Z
-- [House Rebukes Trump on Iran in War Powers Vote as Senate Blocks Debate](https://www.nytimes.com/2026/07/23/us/politics/house-iran-war-powers-vote-trump.html?utm_source=lootura.com) — 2026-07-23T18:17:54.000Z
+- [Democrats seize on AI data center backlash that's dividing rural Republicans in places like Texas](https://www.pbs.org/newshour/nation/democrats-seize-on-ai-data-center-backlash-thats-dividing-rural-republicans-in-places-like-texas?utm_source=lootura.com) — 2026-07-24T14:43:59.000Z
+- [Opposing Defense Bill, Democrats Shift Their Tactics](https://www.nytimes.com/2026/07/24/us/politics/democrats-defense-bill.html?utm_source=lootura.com) — 2026-07-24T19:14:36.000Z

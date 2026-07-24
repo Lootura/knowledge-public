@@ -1,28 +1,28 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-24T17:37:16.358Z",
+  "generatedAt": "2026-07-24T21:09:46.376Z",
   "radar": {
     "id": "usa",
     "slug": "us",
     "locale": "en"
   },
   "state": {
-    "signature": "1.18.0|29|1784914088619",
+    "signature": "1.18.0|30|1784926815269",
     "version": "1.18.0",
-    "build": 29,
-    "latestEntityUpdatedAt": "2026-07-24T17:28:08.619Z"
+    "build": 30,
+    "latestEntityUpdatedAt": "2026-07-24T21:00:15.269Z"
   },
   "atlas": {
     "hero": {
       "id": "usa-donald-trump",
       "name": "Donald Trump",
       "type": "person",
-      "title": "New U.S. tariffs linked to claims of foreign forced labor dismay and anger trading partners",
+      "title": "Mixed close on Wall Street amid U.S.-Iran fighting, new Trump tariffs",
       "url": "https://atlas.lootura.com/us/person/donald-trump",
       "path": "/us/person/donald-trump",
-      "updatedAt": "2026-07-24T17:28:08.619Z",
-      "score": 1732,
-      "sourceCount": 409,
+      "updatedAt": "2026-07-24T21:00:15.269Z",
+      "score": 1749,
+      "sourceCount": 422,
       "isBreaking": false,
       "isPinned": false
     },
@@ -31,25 +31,12 @@
         "id": "usa-white-house",
         "name": "White House",
         "type": "organization",
-        "title": "Inside the heightened security for the rescheduled White House Correspondents' Dinner",
+        "title": "Funding milestone detected",
         "url": "https://atlas.lootura.com/us/organization/white-house",
         "path": "/us/organization/white-house",
-        "updatedAt": "2026-07-24T17:28:08.619Z",
-        "score": 1675,
-        "sourceCount": 66,
-        "isBreaking": false,
-        "isPinned": false
-      },
-      {
-        "id": "usa-espana",
-        "name": "Spain",
-        "type": "place",
-        "title": "More than 80,000 flee forest infernos in France and Spain",
-        "url": "https://atlas.lootura.com/us/place/espana",
-        "path": "/us/place/espana",
-        "updatedAt": "2026-07-24T17:28:08.619Z",
-        "score": 1673,
-        "sourceCount": 5,
+        "updatedAt": "2026-07-24T21:00:15.269Z",
+        "score": 1749,
+        "sourceCount": 71,
         "isBreaking": false,
         "isPinned": false
       },
@@ -60,9 +47,22 @@
         "title": "Trump’s Global Tariffs: What’s the Latest on the Trade War",
         "url": "https://atlas.lootura.com/us/organization/supreme-court",
         "path": "/us/organization/supreme-court",
-        "updatedAt": "2026-07-24T17:28:08.619Z",
-        "score": 1668,
+        "updatedAt": "2026-07-24T21:00:15.269Z",
+        "score": 1685,
         "sourceCount": 17,
+        "isBreaking": false,
+        "isPinned": false
+      },
+      {
+        "id": "usa-canada",
+        "name": "Canada",
+        "type": "place",
+        "title": "As Canada Opens Gordie Howe International Bridge, Americans Are Told to Stay Home",
+        "url": "https://atlas.lootura.com/us/place/canada",
+        "path": "/us/place/canada",
+        "updatedAt": "2026-07-24T21:00:15.269Z",
+        "score": 1673,
+        "sourceCount": 48,
         "isBreaking": false,
         "isPinned": false
       },
@@ -73,13 +73,13 @@
         "title": "New U.S. tariffs linked to claims of foreign forced labor dismay and anger trading partners",
         "url": "https://atlas.lootura.com/us/place/china",
         "path": "/us/place/china",
-        "updatedAt": "2026-07-24T17:28:08.619Z",
-        "score": 1656,
+        "updatedAt": "2026-07-24T21:00:15.269Z",
+        "score": 1673,
         "sourceCount": 42,
         "isBreaking": false,
         "isPinned": false
       }
     ],
-    "publicEntityCount": 80
+    "publicEntityCount": 82
   }
 }

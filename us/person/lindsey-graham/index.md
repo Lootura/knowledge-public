@@ -3,10 +3,16 @@
 > Follow Lindsey Graham, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-07-24T17:28:08.619Z
+- Updated: 2026-07-24T21:00:15.269Z
 - Canonical: https://atlas.lootura.com/us/person/lindsey-graham
 
 ## Recent changes
+
+### Trump Tariff Fight Stalls Russia Sanctions Bill Championed by Lindsey Graham
+
+A bipartisan bill championed by the late Senator Lindsey Graham has become mired in a dispute over expanding President Trump’s tariff power.
+
+Date: 2026-07-24
 
 ### Here Are the Candidates Vying for Sen. Lindsey Graham’s Seat
 
@@ -62,12 +68,6 @@ Senator Darline Graham had been seen as a caretaker for her brother’s seat aft
 
 Date: 2026-07-17
 
-### Trump encourages Darline Graham to run for Lindsey Graham's seat
-
-Darline Graham indicated in a White House meeting Thursday that she's weighing a bid, CBS News confirmed. A day later, President Trump wrote on Truth Social: "RUN, DARLINE, RUN! ".
-
-Date: 2026-07-17
-
 ## Sources
 
-- [Here Are the Candidates Vying for Sen. Lindsey Graham’s Seat](https://time.com/article/2026/07/24/lindsey-graham-senate-south-carolina-special-republican-primary-election-candidates/?utm_source=lootura.com) — 2026-07-24T14:30:55.000Z
+- [Trump Tariff Fight Stalls Russia Sanctions Bill Championed by Lindsey Graham](https://www.nytimes.com/2026/07/24/us/politics/trump-tariffs-russia-sanctions.html?utm_source=lootura.com) — 2026-07-24T18:33:21.000Z

@@ -3,10 +3,22 @@
 > Follow Apalachee High School, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-07-24T17:28:08.619Z
+- Updated: 2026-07-24T21:00:15.269Z
 - Canonical: https://atlas.lootura.com/us/organization/apalachee-high-school
 
 ## Recent changes
+
+### Discovered by Atlas
+
+Apalachee High School first entered the public knowledge record with source-backed evidence.
+
+Date: 2026-07-24
+
+### Apalachee High School shooting suspect pleads guilty to all charges
+
+Colt Gray was charged with 55 counts, including malice murder, and faces life in prison without parole for the deadly mass shooting at Apalachee High School.
+
+Date: 2026-07-24
 
 ### Apalachee High School shooting suspect Colt Gray pleads guilty at hearing
 
@@ -20,13 +32,6 @@ A teenager has pleaded guilty to all 55 counts, including murder, in a shooting 
 
 Date: 2026-07-24
 
-### Discovered by Atlas
-
-Apalachee High School first entered the public knowledge record with source-backed evidence.
-
-Date: 2026-07-24
-
 ## Sources
 
-- [Apalachee High School shooting suspect Colt Gray pleads guilty at hearing](https://www.cbsnews.com/atlanta/news/apalachee-high-school-shooting-suspect-colt-gray-non-negotiated-plea-hearing-updates/?utm_source=lootura.com) — 2026-07-24T13:35:32.000Z
-- [Teen pleads guilty to murder in a 2024 shooting that left 4 dead at Georgia's Apalachee High School](https://www.pbs.org/newshour/nation/teen-pleads-guilty-to-murder-in-a-2024-shooting-that-left-4-dead-at-georgias-apalachee-high-school?utm_source=lootura.com) — 2026-07-24T17:09:34.000Z
+- [Apalachee High School shooting suspect pleads guilty to all charges](https://www.cbsnews.com/news/apalachee-high-school-shooting-suspect-colt-gray-non-negotiated-plea-hearing-updates/?utm_source=lootura.com) — 2026-07-24T20:38:00.000Z

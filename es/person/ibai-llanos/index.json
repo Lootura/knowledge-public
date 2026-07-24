@@ -8,13 +8,18 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/ibai-llanos/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/ibai-llanos/index.json",
   "description": "Sigue la actividad de Ibai Llanos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-23T13:51:07.363Z",
+  "updatedAt": "2026-07-24T20:59:56.236Z",
   "aliases": [
     "Ibai",
     "Ibai Llanos Garatea",
     "Llanos"
   ],
   "changes": [
+    {
+      "title": "Ibai Llanos: «Algunos políticos se han ofrecido a pelear en La Velada»",
+      "summary": "El creador de contenido rechaza incorporar representantes públicos al evento porque cree que «no pega» con su formato.",
+      "date": "2026-07-24"
+    },
     {
       "title": "La CNMC multa a Ibai Llanos y Nachter por publicidad encubierta y a Jordi Wild por contenido violento",
       "summary": "La Comisión Nacional de los Mercados y la Competencia (CNMC) ha impuesto multas de 710 euros a Ibai Llanos y de 1.779 euros a Nachter por emisión de publicidad sin la debida identificación, y a Jordi Wild de 1.543 euros por la emisión de un contenido deportivo violento sin la advertencia a menores requerida.Según las r.",
@@ -61,6 +66,13 @@
       "date": "2026-07-20"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Ibai Llanos: «Algunos políticos se han ofrecido a pelear en La Velada»",
+      "url": "https://theobjective.com/gente/2026-07-24/ibai-llanos-politicos-ofrecido-plelear-la-velada/?amp=&utm_source=lootura.com",
+      "publishedAt": "2026-07-24T20:49:52.000Z",
+      "sourceId": "lootura-es-the-objective"
+    }
+  ],
+  "evidenceCount": 1
 }

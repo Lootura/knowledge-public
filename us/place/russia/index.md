@@ -3,7 +3,7 @@
 > Follow Russia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-24T17:28:08.619Z
+- Updated: 2026-07-24T21:00:15.269Z
 - Canonical: https://atlas.lootura.com/us/place/russia
 
 ## Recent changes
@@ -11,6 +11,12 @@
 ### Ukraine hits Russia's largest online marketplace, hurting small businesses and bringing the war home
 
 The Ukrainian attacks on the sprawling Russian warehouses produced stark images, with massive pillars of black smoke rising above fires that raged at facilities of Wildberries, the country's biggest online retailer and its equivalent of Amazon.
+
+Date: 2026-07-24
+
+### Trump Tariff Fight Stalls Russia Sanctions Bill Championed by Lindsey Graham
+
+A bipartisan bill championed by the late Senator Lindsey Graham has become mired in a dispute over expanding President Trump’s tariff power.
 
 Date: 2026-07-24
 
@@ -62,13 +68,7 @@ On Saturday, Ukraine hit two warehouses in Russia in strikes that killed at leas
 
 Date: 2026-07-19
 
-### Russia Batters Kyiv in One of the Largest Missile Assaults of the War
-
-On Saturday, Ukraine hit two warehouses in Russia in strikes that killed at least eight people and injured 62.
-
-Date: 2026-07-19
-
 ## Sources
 
 - [Ukraine hits Russia's largest online marketplace, hurting small businesses and bringing the war home](https://www.pbs.org/newshour/world/ukraine-hits-russias-largest-online-marketplace-hurting-small-businesses-and-bringing-the-war-home?utm_source=lootura.com) — 2026-07-24T15:33:58.000Z
-- [Russia and Ukraine Trade Deadly Blows With Missiles and Drones](https://www.nytimes.com/2026/07/24/world/europe/russia-ukraine-war-attacks.html?utm_source=lootura.com) — 2026-07-24T13:41:46.000Z
+- [Trump Tariff Fight Stalls Russia Sanctions Bill Championed by Lindsey Graham](https://www.nytimes.com/2026/07/24/us/politics/trump-tariffs-russia-sanctions.html?utm_source=lootura.com) — 2026-07-24T18:33:21.000Z

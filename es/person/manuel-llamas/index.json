@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/manuel-llamas/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/manuel-llamas/index.json",
   "description": "Sigue la actividad de Manuel Llamas en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-24T17:27:46.992Z",
+  "updatedAt": "2026-07-24T20:59:56.236Z",
   "aliases": [
     "Llamas",
     "Manuel"
@@ -67,17 +67,11 @@
   ],
   "sources": [
     {
-      "title": "Las acusaciones populares piden que la directora de la Guardia Civil y el DAO investigados no puedan mandar sobre la UCO",
-      "url": "https://www.abc.es/espana/acusaciones-populares-piden-directora-guardia-civil-dao-20260724104145-nt.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-24T17:06:07.000Z",
-      "sourceId": "lootura-es-abc"
-    },
-    {
       "title": "El PP pide al juez del 'caso Leire' que prohíba a la cúpula de la Guardia Civil dirigir la UCO mientras dure la causa",
       "url": "https://www.elmundo.es/espana/2026/07/24/6a632582e9cf4a69018b4588.html?utm_source=lootura.com",
       "publishedAt": "2026-07-24T08:53:02.000Z",
       "sourceId": "lootura-es-el-mundo"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }
