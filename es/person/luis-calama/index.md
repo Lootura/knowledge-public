@@ -46,5 +46,4 @@ Date: 2026-07-21
 
 ## Fuentes
 
-- [Anticorrupción pide ampliar la información de las joyas requisadas a Zapatero](https://www.abc.es/espana/anticorrupcion-pide-ampliar-informacion-joyas-requisadas-zapatero-20260724105723-nt.html?utm_source=lootura.com) — 2026-07-24T09:27:32.000Z
-- [El juez tumba la nulidad que Zapatero pedía del ‘caso Plus Ultra’ por los registros y el bloqueo de sus cuentas](https://okdiario.com/espana/juez-tumba-nulidad-que-zapatero-pedia-del-caso-plus-ultra-registros-bloqueo-sus-cuentas-19061110?utm_source=lootura.com) — 2026-07-24T10:08:00.000Z
+No public source links.

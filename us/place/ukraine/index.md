@@ -3,7 +3,7 @@
 > Follow Ukraine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-24T10:14:29.742Z
+- Updated: 2026-07-24T13:39:26.682Z
 - Canonical: https://atlas.lootura.com/us/place/ukraine
 
 ## Recent changes
@@ -70,5 +70,4 @@ Date: 2026-07-21
 
 ## Sources
 
-- [Rubio says U.S. is ready to help end war in Ukraine but no quick deal ahead](https://www.npr.org/2026/07/24/g-s1-135405/rubio-ukraine-russia-war?utm_source=lootura.com) — 2026-07-24T05:45:47.000Z
 - [Laura Loomer meets with Ukraine's Zelenskyy after her major reversal on the war](https://www.pbs.org/newshour/world/laura-loomer-meets-with-ukraines-zelenskyy-after-her-major-reversal-on-the-war?utm_source=lootura.com) — 2026-07-24T00:02:06.000Z

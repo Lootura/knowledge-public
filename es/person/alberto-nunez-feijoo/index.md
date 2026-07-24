@@ -3,7 +3,7 @@
 > Sigue la actividad de Alberto Núñez Feijóo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-24T10:14:05.930Z
+- Actualizado: 2026-07-24T13:39:03.048Z
 - Canonical: https://atlas.lootura.com/es/person/alberto-nunez-feijoo
 
 ## Cambios recientes
@@ -11,6 +11,12 @@
 ### Morant niega que comparara a Feijóo con Hitler: fue un paralelismo sobre «políticas racistas»
 
 La ministra de Ciencia y Universidades y líder del PSPV, Diana Morant , ha asegurado este viernes que no comparó al presidente del Partido Popular, Alberto Núñez Feijóo, con Hitler , sino que quería realizar «un paralelismo» para señalar que «los gobiernos nazis empezaron también con políticas racistas y xenófobas» com.
+
+Date: 2026-07-24
+
+### Morant matiza pero insiste en equiparar al PP con las políticas nazis
+
+«Yo no dije eso. Yo no comparé a -Alberto Núñez- Feijóo con -Adolf- Hitler». La ministra de Ciencia, Innovación y Universidades, Diana Morant, ha matizado este viernes sus declaraciones sobre los planes para un hipotético gobierno del líder nacional del PP si llega a la Moncloa con Vox.No obstante, ha insistido en real.
 
 Date: 2026-07-24
 
@@ -62,12 +68,7 @@ El líder del PP, Alberto Núñez Feijóo, hace balance en rueda de prensa del c
 
 Date: 2026-07-22
 
-### Feijóo promete una «limpieza a fondo y no un relevo» cuando Sánchez salga de Moncloa
-
-Alberto Núñez Feijóo empezó su balance del curso político sentenciando que el Gobierno «está políticamente acabado, parlamentariamente bloqueado y éticamente inhabilitado» y volvió a reclamar, una vez más, elecciones generales adelantadas como «única salida razonable y democrática» ante la avalancha de casos de corrupc.
-
-Date: 2026-07-22
-
 ## Fuentes
 
+- [Morant matiza pero insiste en equiparar al PP con las políticas nazis](https://www.abc.es/espana/comunidad-valenciana/morant-matiza-insiste-equiparar-pp-politicas-nazis-20260724115457-nt.html?utm_source=lootura.com) — 2026-07-24T13:04:10.000Z
 - [Morant niega que comparara a Feijóo con Hitler: fue un paralelismo sobre «políticas racistas»](https://theobjective.com/espana/politica/2026-07-24/morant-feijoo-hitler-politicas-racistas/?utm_source=lootura.com) — 2026-07-24T10:09:06.000Z

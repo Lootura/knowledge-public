@@ -70,4 +70,4 @@ Date: 2026-07-23
 
 ## Fuentes
 
-- [Economía y Trabajo pactan llevar el registro horario a septiembre para salvar las objeciones del Consejo de Estado](https://www.eldiario.es/economia/economia-trabajo-pactan-llevar-registro-horario-septiembre-salvar-objeciones-consejo_1_13403321.html?utm_source=lootura.com) — 2026-07-24T06:00:03.000Z
+No public source links.

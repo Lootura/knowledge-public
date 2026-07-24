@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/topic/artificial-intelligence/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/topic/artificial-intelligence/index.json",
   "description": "Follow Artificial intelligence, a tracked topic, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-24T10:14:29.742Z",
+  "updatedAt": "2026-07-24T13:39:26.682Z",
   "aliases": [
     "AI",
     "AI science",
@@ -27,6 +27,11 @@
     "simulated intelligence"
   ],
   "changes": [
+    {
+      "title": "Product availability changed in Europe",
+      "summary": "Days after OpenAI revealed one of its models went rogue and hacked into another company's servers, House lawmakers are considering a bill that would allow the federal government to effectively shut down models that may put the public at risk. Jo Ling Kent explains.",
+      "date": "2026-07-24"
+    },
     {
       "title": "This AI tool promises a 'second sight of eyes' to clinicians. Did patients benefit?",
       "summary": "Medical workers in a Nairobi clinic used an AI tool to check their work. A new study evaluates the result. (Image credit: Patrick Meinhardt/AFP).",
@@ -71,26 +76,15 @@
       "title": "Patreon is laying off 20 percent of workers",
       "summary": "Patreon is laying off 20 percent of its workers, or around 93 employees, as reported earlier by 404 Media . In a memo to employees, Patreon CEO Jack Conte writes that the company isn't making these changes \"because we believe AI replaces humans,\" but says AI has \"fundamentally transformed the tech industry, including h.",
       "date": "2026-07-23"
-    },
-    {
-      "title": "Product availability changed in Europe",
-      "summary": "Lawmakers are preparing to introduce an \"AI Kill Switch Act\" that would require AI companies to shut down or throttle their systems on orders from the Department of Homeland Security, according to a report from Politico . Reps. Ted Lieu (D-CA) and Nathaniel Moran (R-TX) are expected to introduce the legislation on Thur.",
-      "date": "2026-07-23"
     }
   ],
   "sources": [
     {
-      "title": "This AI tool promises a 'second sight of eyes' to clinicians. Did patients benefit?",
-      "url": "https://www.npr.org/2026/07/23/g-s1-134929/this-ai-tool-promises-a-second-sight-of-eyes-to-clinicians-did-patients-benefit?utm_source=lootura.com",
-      "publishedAt": "2026-07-23T11:36:52.000Z",
-      "sourceId": "lootura-us-npr"
-    },
-    {
-      "title": "Earnings at Musk's Tesla fall as spending on research cuts into profit from selling cars",
-      "url": "https://www.pbs.org/newshour/economy/earnings-at-musks-tesla-fall-as-spending-on-research-cuts-into-profit-from-selling-cars?utm_source=lootura.com",
-      "publishedAt": "2026-07-23T22:56:35.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
+      "title": "Lawmakers propose AI \"kill switch\" bill after unprecedented cyber attack",
+      "url": "https://www.cbsnews.com/video/lawmakers-propose-ai-kill-switch-bill-after-unprecedented-cyber-attack/?utm_source=lootura.com",
+      "publishedAt": "2026-07-24T13:11:55.000Z",
+      "sourceId": "lootura-us-cbs-news"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

@@ -8,12 +8,22 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/middle-east/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/middle-east/index.json",
   "description": "Follow Middle East, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-24T10:14:29.742Z",
+  "updatedAt": "2026-07-24T13:39:26.682Z",
   "aliases": [
     "Mid East",
     "Mideast"
   ],
   "changes": [
+    {
+      "title": "Concerns over U.S. weapons getting depleted as U.S. and Iran continue to trade strikes",
+      "summary": "As the U.S. builds up forces in the Middle East amid the ongoing war with Iran, there's concern among some officials that U.S. weapons may be getting depleted. It comes as President Trump has threatened new escalations and as the U.S. and Iran continue to trade strikes. Charlie D'Agata reports.",
+      "date": "2026-07-24"
+    },
+    {
+      "title": "Some Trump officials worried about rapid use of interceptor, precision-guided weapons, sources say",
+      "summary": "Some Trump administration officials are concerned about the rapid use of interceptor and precision-guided weapons in the Middle East, sources told CBS News. CBS News' Kathryn Watson has more.",
+      "date": "2026-07-24"
+    },
     {
       "title": "U.S.-Saudi Deal Prompts Fears of a Global Nuclear Arms Race",
       "summary": "In Europe, Asia and the Middle East, countries seek nuclear capabilities to hedge against aggressive neighbors and a receding Washington, potentially creating a more freewheeling era.",
@@ -53,19 +63,21 @@
       "title": "Remembering the 4 U.S. service members killed recently in the Iran war",
       "summary": "A dignified transfer was held Wednesday for the four U.S. Army soldiers killed in the Middle East in recent days amid the ongoing war with Iran. Lindsey Reiser shares more details on Lt. Tyler James Feehan, Pvt. Isabella Gonzales, Sgt. Angel Rampersad and Sgt. Michael Emmanuel Swinton.",
       "date": "2026-07-23"
-    },
-    {
-      "title": "U.S.-Saudi Deal Prompts Fears of a Nuclear Arms Race",
-      "summary": "In Europe, Asia and the Middle East, countries seek nuclear capabilities to hedge against aggressive neighbors and a receding Washington, potentially creating a more freewheeling era.",
-      "date": "2026-07-23"
-    },
-    {
-      "title": "Trump speaks at Georgia high school after attending dignified transfer",
-      "summary": "President Trump spoke at a high school in Marietta, Georgia, on Wednesday, after attending a dignified transfer for four U.S. troops killed in the Middle East. CBS News congressional reporter Taurean Small has the latest.",
-      "date": "2026-07-22"
     }
   ],
   "sources": [
+    {
+      "title": "Concerns over U.S. weapons getting depleted as U.S. and Iran continue to trade strikes",
+      "url": "https://www.cbsnews.com/video/concerns-over-us-weapons-getting-depleted-as-us-and-iran-continue-to-trade-strikes/?utm_source=lootura.com",
+      "publishedAt": "2026-07-24T13:17:11.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
+    {
+      "title": "Some Trump officials worried about rapid use of interceptor, precision-guided weapons, sources say",
+      "url": "https://www.cbsnews.com/video/some-trump-officials-worried-rapid-pace-interceptor-precision-guided-weapons-being-used/?utm_source=lootura.com",
+      "publishedAt": "2026-07-24T13:18:54.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
     {
       "title": "U.S.-Saudi Deal Prompts Fears of a Global Nuclear Arms Race",
       "url": "https://www.nytimes.com/2026/07/23/world/europe/us-saudi-deal-nuclear-hedging.html?utm_source=lootura.com",
@@ -73,5 +85,5 @@
       "sourceId": "lootura-us-the-new-york-times"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 3
 }

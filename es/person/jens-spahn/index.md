@@ -28,4 +28,4 @@ Date: 2026-07-18
 
 ## Fuentes
 
-- [Merz reestructura su Gobierno para reducir las críticas internas a su reforma de las pensiones](https://www.abc.es/internacional/merz-reestructura-gobierno-control-grupo-parlamentario-20260724104203-nt.html?utm_source=lootura.com) — 2026-07-24T09:06:21.000Z
+No public source links.

@@ -3,10 +3,16 @@
 > Sigue la actividad de Málaga en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-24T06:23:11.193Z
+- Actualizado: 2026-07-24T13:39:03.048Z
 - Canonical: https://atlas.lootura.com/es/place/malaga
 
 ## Cambios recientes
+
+### El Tribunal Supremo absuelve al tuitero que se burló de la búsqueda del niño Julen
+
+El Tribunal Supremo ha absuelto al tuitero Camilo de Ory al estimar que sus mensajes en Twitter en los que se burlaba de la cobertura mediática de la búsqueda de Julen , el niño de 2 años que murió tras caer el 13 de enero de 2019 a un pozo en Totalán (Málaga), no suponen un delito contra la integridad moral. A juicio.
+
+Date: 2026-07-24
 
 ### Lío en Málaga con el Palacio de la Ópera: temor a que los congresos desplacen a la música
 
@@ -62,12 +68,6 @@ Los incendios forestales que están atacando España han provocado el corte de h
 
 Date: 2026-07-18
 
-### Discovered by Atlas
-
-Málaga first entered the public knowledge record with source-backed evidence.
-
-Date: 2026-07-17
-
 ## Fuentes
 
-No public source links.
+- [El Tribunal Supremo absuelve al tuitero que se burló de la búsqueda del niño Julen](https://theobjective.com/espana/tribunales/2026-07-24/tribunal-supremo-absuelve-tuitero-julen/?utm_source=lootura.com) — 2026-07-24T11:34:49.000Z

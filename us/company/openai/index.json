@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/us/company/openai/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/company/openai/index.json",
   "description": "Follow OpenAI, a tracked company, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-24T10:14:29.742Z",
+  "updatedAt": "2026-07-24T13:39:26.682Z",
   "aliases": [
     "ChatGPT maker",
     "openai.com"
   ],
   "changes": [
+    {
+      "title": "Product availability changed in Europe",
+      "summary": "Days after OpenAI revealed one of its models went rogue and hacked into another company's servers, House lawmakers are considering a bill that would allow the federal government to effectively shut down models that may put the public at risk. Jo Ling Kent explains.",
+      "date": "2026-07-24"
+    },
     {
       "title": "Discovered by Atlas",
       "summary": "OpenAI first entered the public knowledge record with source-backed evidence.",
@@ -27,11 +32,11 @@
   ],
   "sources": [
     {
-      "title": "OpenAI blamed a hacking event on its AI models going rogue. Here's what to know",
-      "url": "https://www.pbs.org/newshour/science/openai-blamed-a-hacking-event-on-its-ai-models-going-rogue-heres-what-to-know?utm_source=lootura.com",
-      "publishedAt": "2026-07-23T23:37:00.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
+      "title": "Lawmakers propose AI \"kill switch\" bill after unprecedented cyber attack",
+      "url": "https://www.cbsnews.com/video/lawmakers-propose-ai-kill-switch-bill-after-unprecedented-cyber-attack/?utm_source=lootura.com",
+      "publishedAt": "2026-07-24T13:11:55.000Z",
+      "sourceId": "lootura-us-cbs-news"
     }
   ],
-  "evidenceCount": 0
+  "evidenceCount": 1
 }

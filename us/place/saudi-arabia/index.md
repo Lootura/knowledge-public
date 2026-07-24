@@ -70,4 +70,4 @@ Date: 2026-07-22
 
 ## Sources
 
-- [Israel Welcomes Trump’s Demand for Diplomatic Ties With Saudi Arabia](https://www.nytimes.com/2026/07/23/us/politics/israel-saudi-arabia-us-nuclear-deal.html?utm_source=lootura.com) — 2026-07-23T17:56:27.000Z
+No public source links.

@@ -3,7 +3,7 @@
 > Follow White House, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-07-24T10:14:29.742Z
+- Updated: 2026-07-24T13:39:26.682Z
 - Canonical: https://atlas.lootura.com/us/organization/white-house
 
 ## Recent changes
@@ -11,6 +11,18 @@
 ### The Artist Matthew Taylor Is Helping Trump Reshape Washington
 
 Matthew Taylor, a conceptual artist and political strategist, made influential ads and documentaries produced by Steve Bannon. Now he’s assisting the White House.
+
+Date: 2026-07-24
+
+### Secret Service warns of high threat levels before White House Correspondents' Dinner
+
+Secret Service officials warned nationwide threats have reached an unprecedented level since January, nearly 40% higher than during the same period last year.
+
+Date: 2026-07-24
+
+### White House Correspondents’ Dinner Returns Under High Security
+
+President Donald Trump is gearing up to attend the rescheduled White House Correspondents Dinner Friday night, after the initial event back in April was targeted by a gunman. The Secret Service says it’s confident in the security plan for the dinner while also acknowledging an alarming rise in threats. NBC’s Garrett Ha.
 
 Date: 2026-07-24
 
@@ -56,19 +68,8 @@ Iranian news agencies are reporting widespread aerial attacks across southern Ir
 
 Date: 2026-07-22
 
-### Funding milestone detected
-
-Breakthroughs in Chinese AI models are sending shockwaves through Washington and Silicon Valley. Chinese companies are narrowing the AI gap despite vast differences in computing power and resources. It comes as the White House is planning to redirect billions in funding from universities to individuals in a bid to acce.
-
-Date: 2026-07-22
-
-### ‘Off the charts’: Secret Service describes rising threats to protectees
-
-Despite the heightened environment, the Secret Service says it’s confident in plans for the rescheduled White House Correspondents’ Association dinner.
-
-Date: 2026-07-22
-
 ## Sources
 
-- [Trump and Thune Clash Over SAVE America Act](https://www.nytimes.com/2026/07/23/us/politics/trump-thune-senate-election-bill.html?utm_source=lootura.com) — 2026-07-23T21:39:07.000Z
+- [Secret Service warns of high threat levels before White House Correspondents' Dinner](https://www.cbsnews.com/news/secret-service-threat-levels-rescheduled-white-house-correspondents-dinner/?utm_source=lootura.com) — 2026-07-24T13:00:14.000Z
+- [White House Correspondents’ Dinner Returns Under High Security](https://www.today.com/video/trump-to-attend-correspondents-dinner-under-high-security-267214917522?utm_source=lootura.com) — 2026-07-24T11:20:35.000Z
 - [The Artist Matthew Taylor Is Helping Trump Reshape Washington](https://www.nytimes.com/2026/07/24/arts/design/matthew-taylor-artist-filmmaker-trump-washington.html?utm_source=lootura.com) — 2026-07-24T09:00:16.000Z

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/donald-trump/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/donald-trump/index.json",
   "description": "Follow Donald Trump, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-24T10:14:29.742Z",
+  "updatedAt": "2026-07-24T13:39:26.682Z",
   "aliases": [
     "@realDonaldTrump",
     "DJT",
@@ -50,18 +50,13 @@
       "date": "2026-07-24"
     },
     {
-      "title": "Rubio says U.S. is ready to help end war in Ukraine but no quick deal ahead",
-      "summary": "Secretary of State Marco Rubio, who met with his Russian counterpart Sergey Lavrov, said that President Trump was committed to the work \"if conditions and factors have changed to make that possible.\" (Image credit: BRENDAN SMIALOWSKI).",
-      "date": "2026-07-24"
-    },
-    {
       "title": "Rob Bonta on blocking the Paramount merger, CNN concerns and Trump’s DOJ",
       "summary": "Rob Bonta on blocking the Paramount merger, CNN concerns and Trump’s DOJ lead image.",
       "date": "2026-07-24"
     },
     {
       "title": "Trump’s Global Tariffs: What’s the Latest on the Trade War",
-      "summary": "The president has unveiled a complicated system to forge ahead with his trade war, after the Supreme Court stuck down his original levies.",
+      "summary": "The president has unveiled a complicated system to forge ahead with his trade war, after the Supreme Court struck down his original levies.",
       "date": "2026-07-24"
     },
     {
@@ -72,6 +67,11 @@
     {
       "title": "Morning news brief",
       "summary": "U.S.-Iran strikes escalate, affecting global energy markets, Trump imposes double-digit tariffs on dozens of countries, Vigil held in Madison, Wisconsin, for man killed by police.",
+      "date": "2026-07-24"
+    },
+    {
+      "title": "Trump refuses to give up on tariffs — a pillar of his economic legacy",
+      "summary": "The administration timed a new set of tariffs on all of its largest trading partners to take effect at the same time the old, global tariff ended. (Image credit: Kevin Dietsch).",
       "date": "2026-07-24"
     }
   ],
@@ -95,6 +95,24 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
+      "title": "Concerns over U.S. weapons getting depleted as U.S. and Iran continue to trade strikes",
+      "url": "https://www.cbsnews.com/video/concerns-over-us-weapons-getting-depleted-as-us-and-iran-continue-to-trade-strikes/?utm_source=lootura.com",
+      "publishedAt": "2026-07-24T13:17:11.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
+    {
+      "title": "Trump imposes new tariffs on dozens of countries, including U.S. allies",
+      "url": "https://www.cbsnews.com/video/trump-imposes-new-tariffs-on-dozens-of-countries-including-us-allies/?utm_source=lootura.com",
+      "publishedAt": "2026-07-24T13:22:15.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
+    {
+      "title": "Some Trump officials worried about rapid use of interceptor, precision-guided weapons, sources say",
+      "url": "https://www.cbsnews.com/video/some-trump-officials-worried-rapid-pace-interceptor-precision-guided-weapons-being-used/?utm_source=lootura.com",
+      "publishedAt": "2026-07-24T13:18:54.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
+    {
       "title": "Trump fires U.S. attorney in Washington on heels of court appointment",
       "url": "https://www.cbsnews.com/news/trump-fires-roger-rogoff-u-s-attorney-seattle-washington/?utm_source=lootura.com",
       "publishedAt": "2026-07-24T00:35:47.000Z",
@@ -103,39 +121,21 @@
     {
       "title": "International PhD students to face strict limits on time in the US",
       "url": "https://www.nature.com/articles/d41586-026-02280-3?utm_source=lootura.com",
-      "publishedAt": "2026-07-24T10:14:35.542Z",
+      "publishedAt": "2026-07-24T13:39:30.490Z",
       "sourceId": "lootura-us-nature"
     },
     {
-      "title": "Morning news brief",
-      "url": "https://www.npr.org/2026/07/24/nx-s1-5895986/morning-news-brief?utm_source=lootura.com",
-      "publishedAt": "2026-07-24T08:45:17.000Z",
-      "sourceId": "lootura-us-npr"
+      "title": "Trump Vows Retaliation Against Iran for Houthi Attack in Red Sea",
+      "url": "https://www.today.com/video/trump-vows-retaliation-against-iran-for-houthi-attack-in-red-sea-267213893508?utm_source=lootura.com",
+      "publishedAt": "2026-07-24T11:19:38.000Z",
+      "sourceId": "lootura-us-nbc-news-politics"
     },
     {
-      "title": "Trump cuts target federal advisory boards. What does it mean for agencies like NASA?",
-      "url": "https://www.npr.org/2026/07/23/nx-s1-5869732/trump-cuts-target-federal-advisory-boards-what-does-it-mean-for-agencies-like-nasa?utm_source=lootura.com",
-      "publishedAt": "2026-07-23T20:33:52.000Z",
-      "sourceId": "lootura-us-npr"
-    },
-    {
-      "title": "Trump allies are poised to weaken protections for historic sites — not just in D.C.",
-      "url": "https://www.npr.org/2026/07/23/nx-s1-5904435/section-106-review-trump-historic-preservation-council?utm_source=lootura.com",
-      "publishedAt": "2026-07-23T20:14:58.000Z",
-      "sourceId": "lootura-us-npr-politics"
-    },
-    {
-      "title": "Trump refuses to give up on tariffs - a pillar of his economic legacy",
-      "url": "https://www.npr.org/2026/07/24/nx-s1-5905783/trump-tariff-trade-global-canada?utm_source=lootura.com",
-      "publishedAt": "2026-07-24T09:00:00.000Z",
-      "sourceId": "lootura-us-npr-politics"
-    },
-    {
-      "title": "Rubio says U.S. is ready to help end war in Ukraine but no quick deal ahead",
-      "url": "https://www.npr.org/2026/07/24/g-s1-135405/rubio-ukraine-russia-war?utm_source=lootura.com",
-      "publishedAt": "2026-07-24T05:45:47.000Z",
-      "sourceId": "lootura-us-npr-world"
+      "title": "White House Correspondents’ Dinner Returns Under High Security",
+      "url": "https://www.today.com/video/trump-to-attend-correspondents-dinner-under-high-security-267214917522?utm_source=lootura.com",
+      "publishedAt": "2026-07-24T11:20:35.000Z",
+      "sourceId": "lootura-us-nbc-news-politics"
     }
   ],
-  "evidenceCount": 24
+  "evidenceCount": 28
 }

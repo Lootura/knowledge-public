@@ -8,9 +8,14 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/china/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/china/index.json",
   "description": "Sigue la actividad de China en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-24T10:14:05.930Z",
+  "updatedAt": "2026-07-24T13:39:03.048Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "Xpeng L03: el SUV futurista que queríamos, con un precio y una autonomía que decepciona",
+      "summary": "Xpeng ha llevado a Europa uno de sus lanzamientos más esperados del año, el Xpeng L03 , la versión SUV del Mona M03 con el que la marca arrasó en el mercado chino. La fórmula que le funcionó allí es conocida: mucha tecnología a un precio muy ajustado. La compañía confía tanto en repetir ese éxito fuera de China que ha.",
+      "date": "2026-07-24"
+    },
     {
       "title": "Ocultan la muerte de una niña en China tras probar en ella una terapia de edición genética",
       "summary": "Un equipo del Hospital Xinhua de Shanghái administró un complejo tratamiento a una niña de seis años, para corregir un retraso del desarrollo; los científicos silenciaron el desenlace fatal mientras publicaban sus resultados en la revista 'Nature'.",
@@ -55,19 +60,14 @@
       "title": "La acción de la semana: Alibaba rebota desde soporte, pero el cambio de tendencia todavía está por demostrar",
       "summary": "Alibaba Group es un consorcio privado chino dedicado principalmente al comercio electrónico en internet, siendo responsable de más del 60% de los paquetes entregados en China. Dentro del conglomerado se encuentran servicios como el comercio al por menor, Business to Business, pagos en línea y almacenamientos en la nube.",
       "date": "2026-07-20"
-    },
-    {
-      "title": "Soberanía a plazos",
-      "summary": "China ha puesto a los robots a trabajar y a los hombres a esperar en la puerta. En Kunshan, corazón electrónico del país, las máquinas aprietan tornillos, clasifican piezas y no piden vacaciones; fuera, los obreros hacen cola por un empleo que se va volviendo reliquia. Pekín lo llama « modernización ». Occidente, a vec.",
-      "date": "2026-07-20"
     }
   ],
   "sources": [
     {
-      "title": "Ocultan la muerte de una niña en China tras probar en ella una terapia de edición genética",
-      "url": "https://www.abc.es/salud/ocultan-muerte-nina-china-tras-probar-terapia-20260724114332-nt_amp.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-24T09:43:32.000Z",
-      "sourceId": "lootura-es-abc"
+      "title": "Xpeng L03: el SUV futurista que queríamos, con un precio y una autonomía que decepciona",
+      "url": "https://hipertextual.com/movilidad/xpeng-l03-suv-electrico-futurista-decepcion/?utm_source=lootura.com",
+      "publishedAt": "2026-07-24T13:21:26.000Z",
+      "sourceId": "lootura-es-hipertextual"
     }
   ],
   "evidenceCount": 1

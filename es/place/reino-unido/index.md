@@ -70,5 +70,4 @@ Date: 2026-07-21
 
 ## Fuentes
 
-- [Letterpaths: un generador gratuito y de código abierto para aprender (o reaprender) caligrafía](http://www.microsiervos.com/archivo/arte-y-diseno/letterpaths-generador-gratuito-codigo-abierto-aprender-caligrafia.html?utm_source=lootura.com) — 2026-07-24T09:00:03.000Z
-- [Burnham establece una nueva sede del Gobierno de Reino Unido en Manchester](https://theobjective.com/internacional/2026-07-24/burnham-sede-gobierno-reino-unido-manchester/?amp=&utm_source=lootura.com) — 2026-07-24T06:16:16.000Z
+No public source links.

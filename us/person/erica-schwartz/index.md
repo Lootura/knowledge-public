@@ -52,4 +52,4 @@ Date: 2026-07-15
 
 ## Sources
 
-- [Key Republican Senator Says He Will Support Erica Schwartz for C.D.C. Director](https://www.nytimes.com/2026/07/23/health/erica-schwartz-cdc-vote.html?utm_source=lootura.com) — 2026-07-23T18:51:07.000Z
+No public source links.

@@ -3,7 +3,7 @@
 > Follow Fields Medal, a tracked object, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: object
-- Updated: 2026-07-24T10:14:29.742Z
+- Updated: 2026-07-24T13:39:26.682Z
 - Canonical: https://atlas.lootura.com/us/object/fields-medal
 
 ## Recent changes
@@ -34,4 +34,4 @@ Date: 2026-07-23
 
 ## Sources
 
-- [Rising stars of mathematics awarded prestigious 2026 Fields Medal](https://www.nature.com/articles/d41586-026-02169-1?utm_source=lootura.com) — 2026-07-24T10:14:35.543Z
+- [Rising stars of mathematics awarded prestigious 2026 Fields Medal](https://www.nature.com/articles/d41586-026-02169-1?utm_source=lootura.com) — 2026-07-24T13:39:30.491Z

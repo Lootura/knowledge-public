@@ -3,10 +3,16 @@
 > Sigue la actividad de La Mancha en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-23T21:01:09.831Z
+- Actualizado: 2026-07-24T13:39:03.048Z
 - Canonical: https://atlas.lootura.com/es/place/la-mancha
 
 ## Cambios recientes
+
+### Incendios en España hoy, en directo: última hora de los fuegos en Madrid, Castilla y León y Castilla-La Mancha y de los pueblos evacuados
+
+Sigue en directo los incendios forestales activos alrededor de España, en comunidades como Madrid, Castilla y León o Castilla-La Mancha, y la última hora de las personas evacuadas, pueblos confinados y hectáreas quemadas.
+
+Date: 2026-07-24
 
 ### Castilla-La Mancha se suma a los avisos rojos por calor de Murcia y la Comunidad Valenciana
 
@@ -62,12 +68,6 @@ El incendio forestal declarado el pasado jueves en la Sierra Norte de Guadalajar
 
 Date: 2026-07-22
 
-### Alerta naranja en siete comunidades por la ola de calor: temperaturas asfixiantes y amenaza de reventones y tormentas secas
-
-La Agencia Estatal de Meteorología (AEMET) ha activado este martes el aviso naranja por riesgo importante en siete comunidades autónomas debido al inicio de un nuevo episodio de temperaturas extremas . Comunidades como Andalucía, Aragón, Baleares, Castilla-La Mancha, Cataluña, Región de Murcia y la Comunidad Valenciana.
-
-Date: 2026-07-21
-
 ## Fuentes
 
-No public source links.
+- [Incendios en España hoy, en directo: última hora de los fuegos en Madrid, Castilla y León y Castilla-La Mancha y de los pueblos evacuados](https://www.abc.es/sociedad/incendios-espana-hoy-directo-fuegos-activos-madrid-20260723185959-di_amp.html?utm_source=lootura.com) — 2026-07-24T13:17:48.000Z

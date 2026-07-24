@@ -8,9 +8,24 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/el-gobierno/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/el-gobierno/index.json",
   "description": "Sigue la actividad de El Gobierno en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-24T10:14:05.930Z",
+  "updatedAt": "2026-07-24T13:39:03.048Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "Qué es la emergencia nacional activada por los incendios de Madrid y Ávila y qué implica",
+      "summary": "El Gobierno activa la emergencia nacional, tras la petición de Madrid, como ya hizo en 2025 por el apagón y el ministro Marlaska asume la dirección de la crisis en un \"día crítico\" Directo - Última hora sobre los incendios en España: Interior asume la dirección de la lucha contra el fuego en Madrid y Ávila Los incendio.",
+      "date": "2026-07-24"
+    },
+    {
+      "title": "El PP tilda de \"miserable\" la actuación de Puente y el delegado del Gobierno en Madrid ante los incendios",
+      "summary": "\"Ellos ven bandos donde nosotros vemos fuego\", afirma Alma Ezcurra, que dice no entender \"que todas las fuerzas políticas no colaboren en el mismo objetivo\" contra los incendios El Gobierno declara la emergencia nacional en la Comunidad de Madrid y Ávila por los incendios Última hora de los incendios en España El Parti.",
+      "date": "2026-07-24"
+    },
+    {
+      "title": "El Gobierno plantea un castigo fiscal a las Socimis de viviendas",
+      "summary": "Los socios de gobierno, PSOE y Sumar, vuelven a sacar a las Socimis a la palestra al plantear un castigo fiscal a aquellas empresas que tiene en su cartera viviendas y a las que...",
+      "date": "2026-07-24"
+    },
     {
       "title": "Economía y Trabajo pactan llevar el registro horario a septiembre para salvar las objeciones del Consejo de Estado",
       "summary": "Las dos vicepresidencias se dan el verano para cerrar los últimos flecos del real decreto que prevé endurecer el registro horario, tras unos informes consultivos demoledores con la norma El Gobierno propone a la vicepresidenta Yolanda Díaz como candidata a dirigir la OIT Los vicepresidentes Carlos Cuerpo y Yolanda Díaz.",
@@ -45,21 +60,6 @@
       "title": "El Gobierno activará los Presupuestos pese al rechazo de la senda fiscal y abrirá un escenario insólito en España",
       "summary": "El guion estaba escrito y nadie ha querido improvisar. El Congreso de los Diputados ha rechazado este jueves por segunda vez la senda de estabilidad propuesta por el Gobierno, el documento que fija los objetivos de déficit de las Administraciones públicas y que es condición necesaria para poder presentar unos Presupues.",
       "date": "2026-07-24"
-    },
-    {
-      "title": "Última hora sobre los incendios en España: Interior asume la dirección de la lucha contra el fuego en Madrid y Ávila",
-      "summary": "El Gobierno ha decretado la emergencia nacional en Madrid y Ávila por los tres incendios que en las últimas horas se han complicado con virulencia, obligando al desalojo de 11.500 personas. En la Comunidad de Madrid han sido evacuadas más de 10.000 personas debido a tres incendios: uno en Villa del Prado, con afectació.",
-      "date": "2026-07-24"
-    },
-    {
-      "title": "Críticas en Brasil, inquietud en Chile y negociación en México ante los nuevos aranceles de Trump",
-      "summary": "El Gobierno del presidente de Estados Unidos, Donald Trump, anunció este jueves nuevos aranceles de entre el 10 % y el 12,5 % a las importaciones procedentes de 60 países y economías, decisión que sustenta en una investigación sobre \"esfuerzos insuficientes para combatir el trabajo forzoso\". Esta medida, que entrará en.",
-      "date": "2026-07-24"
-    },
-    {
-      "title": "El Gobierno lanza a Yolanda Díaz como candidata para dirigir la OIT",
-      "summary": "Despejada la incógnita sobre el futuro político de Yolanda Díaz, que, tras claudicar en su propio proyecto político en España —Sumar, ahora descabezado—, aspira ahora a recolocarse en las Naciones Unidas. La dirigente izquierdista se postula oficialmente para liderar la Organización Internacional del Trabajo (OIT) en G.",
-      "date": "2026-07-24"
     }
   ],
   "sources": [
@@ -70,29 +70,23 @@
       "sourceId": "lootura-es-el-pais"
     },
     {
-      "title": "\"Nos enfrentamos a una importante amenaza\": el Ejecutivo de Ayuso pidió en una escueta carta al Gobierno que declarara la emergencia nacional",
-      "url": "https://www.eldiario.es/madrid/enfrentamos-importante-amenaza-ejecutivo-ayuso-pidio-carta-gobierno-declarara-emergencia-nacional_1_13403750.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-24T08:19:21.000Z",
+      "title": "Qué es la emergencia nacional activada por los incendios de Madrid y Ávila y qué implica",
+      "url": "https://www.eldiario.es/sociedad/emergencia-nacional-activada-incendios-implica_1_13403677.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-24T10:54:12.000Z",
       "sourceId": "lootura-es-eldiario-es"
     },
     {
-      "title": "FOTOS | Los incendios que asolan Madrid y Ávila, en imágenes",
-      "url": "https://www.eldiario.es/sociedad/fotos-incendios-asolan-madrid-avila-imagenes_3_13403965.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-24T09:23:01.000Z",
+      "title": "El PP tilda de \"miserable\" la actuación de Puente y el delegado del Gobierno en Madrid ante los incendios",
+      "url": "https://www.eldiario.es/madrid/pp-miserable-actuacion-puente-delegado-gobierno-incendios_1_13404260.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-24T10:34:15.000Z",
       "sourceId": "lootura-es-eldiario-es"
     },
     {
-      "title": "Economía y Trabajo pactan llevar el registro horario a septiembre para salvar las objeciones del Consejo de Estado",
-      "url": "https://www.eldiario.es/economia/economia-trabajo-pactan-llevar-registro-horario-septiembre-salvar-objeciones-consejo_1_13403321.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-24T06:00:03.000Z",
-      "sourceId": "lootura-es-eldiario-es"
-    },
-    {
-      "title": "El Gobierno catalán y los Comuns pactan una ley para convertir oficinas en VPO",
-      "url": "https://theobjective.com/espana/politica/2026-07-24/gobierno-catalan-comuns-ley-oficinas-vpo/?utm_source=lootura.com",
-      "publishedAt": "2026-07-24T09:19:13.000Z",
-      "sourceId": "lootura-es-the-objective"
+      "title": "El Gobierno plantea un castigo fiscal a las Socimis de viviendas",
+      "url": "https://amp.expansion.com/inmobiliario/mercado/2026/07/24/6a633b58468aeb12608b458a.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-24T10:16:34.000Z",
+      "sourceId": "lootura-es-expansion"
     }
   ],
-  "evidenceCount": 4
+  "evidenceCount": 3
 }

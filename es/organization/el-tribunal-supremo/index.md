@@ -3,20 +3,38 @@
 > Sigue la actividad de El Tribunal Supremo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-22T21:08:41.543Z
+- Actualizado: 2026-07-24T13:39:03.048Z
 - Canonical: https://atlas.lootura.com/es/organization/el-tribunal-supremo
 
 ## Cambios recientes
 
-### El Tribunal Supremo levanta las medidas cautelares de Aldama a petición de su defensa
+### El Supremo aplica por primera vez la amnistía: accede a borrar los delitos de ocho condenados por desórdenes públicos
 
-La Sala sostiene que "aunque la ejecutoria de la sentencia aún no ha sido incoada", la consecuencia lógica del dictado de la misma es el decaimiento de las medidas cautelares sobre el empresario Leer.
+El Tribunal Supremo va a acceder a borrar los delitos de ocho condenados por desórdenes públicos tras aplicar por primera vez la ley de amnistía, tras el visto bueno del TJUE.
 
-Date: 2026-07-22
+Date: 2026-07-24
+
+### El Supremo amnistía por primera vez a ocho condenados por desobediencia en el 'procès'
+
+El Tribunal Supremo ha acordado aplicar la ley de amnistía a cuatro exdirigentes del Parlament de Cataluña, incluido su expresidente Roger Torrent, que.
+
+Date: 2026-07-24
+
+### El Tribunal Supremo absuelve al tuitero que se burló de la búsqueda del niño Julen
+
+El Tribunal Supremo ha absuelto al tuitero Camilo de Ory al estimar que sus mensajes en Twitter en los que se burlaba de la cobertura mediática de la búsqueda de Julen , el niño de 2 años que murió tras caer el 13 de enero de 2019 a un pozo en Totalán (Málaga), no suponen un delito contra la integridad moral. A juicio.
+
+Date: 2026-07-24
 
 ### Discovered by Atlas
 
 El Tribunal Supremo first entered the public knowledge record with source-backed evidence.
+
+Date: 2026-07-22
+
+### El Tribunal Supremo levanta las medidas cautelares de Aldama a petición de su defensa
+
+La Sala sostiene que "aunque la ejecutoria de la sentencia aún no ha sido incoada", la consecuencia lógica del dictado de la misma es el decaimiento de las medidas cautelares sobre el empresario Leer.
 
 Date: 2026-07-22
 
@@ -40,4 +58,6 @@ Date: 2026-07-22
 
 ## Fuentes
 
-No public source links.
+- [El Supremo aplica por primera vez la amnistía: accede a borrar los delitos de ocho condenados por desórdenes públicos](https://www.larazon.es/espana/supremo-aplica-primera-vez-amnistia-accede-borrar-delitos-ocho-condenados-desordenes-publicos_202607246a6369fa4687a22bdecb9017.html?utm_source=lootura.com) — 2026-07-24T13:34:50.000Z
+- [El Supremo amnistía por primera vez a ocho condenados por desobediencia en el 'procès'](https://theobjective.com/espana/tribunales/2026-07-24/supremo-amnistia-primera-vez-condenados-desordenes/?amp=&utm_source=lootura.com) — 2026-07-24T13:36:28.000Z
+- [El Tribunal Supremo absuelve al tuitero que se burló de la búsqueda del niño Julen](https://theobjective.com/espana/tribunales/2026-07-24/tribunal-supremo-absuelve-tuitero-julen/?utm_source=lootura.com) — 2026-07-24T11:34:49.000Z

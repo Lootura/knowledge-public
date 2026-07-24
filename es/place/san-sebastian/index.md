@@ -3,16 +3,16 @@
 > Sigue la actividad de San Sebastián en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-24T10:14:05.930Z
+- Actualizado: 2026-07-24T13:39:03.048Z
 - Canonical: https://atlas.lootura.com/es/place/san-sebastian
 
 ## Cambios recientes
 
-### La Oreja de Van Gogh, a días de su vuelta a casa: «Estamos aterrorizados porque San Sebastián es la plaza más importante de todas»
+### Las carabelas portuguesas dejan casi un centenar de picaduras leves en Donostia y otras playas de Gipuzkoa esta semana
 
-Xabi San Martín y Álvaro Fuentes desvelan algunas pinceladas sobre los dos conciertos que La Oreja de Van Gogh dará en la capital guipuzcoana la próxima semana.
+La cifra más alta se registró este jueves entre Ondarreta, La Concha y Zurriola, aunque no se requirió traslado de ningún afectado. Las falsas medusas son cada vez más pequeñas.
 
-Date: 2026-07-23
+Date: 2026-07-24
 
 ### El PNV reúne a sus dos grandes promesas: el candidato a la alcaldía de Bilbao y el regidor de San Sebastián
 
@@ -23,6 +23,12 @@ Date: 2026-07-23
 ### El PNV reúne en Donostia a sus dos grandes promesas electorales, Insausti y el candidato a alcalde de Bilbao
 
 El regidor donostiarra y Mikel Hidalgo abordan una agenda común para los grandes retos comunes de ambas ciudades.
+
+Date: 2026-07-23
+
+### La Oreja de Van Gogh, a días de su vuelta a casa: «Estamos aterrorizados porque San Sebastián es la plaza más importante de todas»
+
+Xabi San Martín y Álvaro Fuentes desvelan algunas pinceladas sobre los dos conciertos que La Oreja de Van Gogh dará en la capital guipuzcoana la próxima semana.
 
 Date: 2026-07-23
 
@@ -62,14 +68,8 @@ El Gobierno Vasco condena las agresiones y afirma que estos comportamientos son 
 
 Date: 2026-07-20
 
-### La hinchada argentina también apoya desde Donostia a su selección
-
-Los aficionados han llenado desde primera hora de la tarde la avenida de la Zurriola de banderas y camisetas albicelestes.
-
-Date: 2026-07-19
-
 ## Fuentes
 
 - [El PNV reúne a sus dos grandes promesas: el candidato a la alcaldía de Bilbao y el regidor de San Sebastián](https://www.elcorreo.com/politica/pnv-reune-san-sebastian-dos-grandes-promesas-20260723205928-nt_amp.html?utm_source=lootura.com) — 2026-07-23T18:59:29.000Z
 - [El PNV reúne en Donostia a sus dos grandes promesas electorales, Insausti y el candidato a alcalde de Bilbao](https://www.diariovasco.com/politica/pnv-reune-donostia-dos-grandes-promesas-electorales-20260723190914-nt_amp.html?utm_source=lootura.com) — 2026-07-23T18:29:58.000Z
-- [La Oreja de Van Gogh, a días de su vuelta a casa: «Estamos aterrorizados porque San Sebastián es la plaza más importante de todas»](https://www.diariovasco.com/culturas/musica/la-oreja-de-van-gogh-vuelta-san-sebastian-conciertos-aterrorizados-20260723141004-nt_amp.html?utm_source=lootura.com) — 2026-07-23T12:24:48.000Z
+- [Las carabelas portuguesas dejan casi un centenar de picaduras leves en Donostia y otras playas de Gipuzkoa esta semana](https://www.diariovasco.com/san-sebastian/carabelas-portuguesas-dejan-centenar-picaduras-leves-donostia-gipuzkoa-20260724144803-nt_amp.html?utm_source=lootura.com) — 2026-07-24T12:48:21.000Z

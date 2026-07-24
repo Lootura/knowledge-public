@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/object/fields-medal/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/object/fields-medal/index.json",
   "description": "Follow Fields Medal, a tracked object, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-24T10:14:29.742Z",
+  "updatedAt": "2026-07-24T13:39:26.682Z",
   "aliases": [
     "Fields Medals",
     "International Medal for Outstanding Discoveries in Mathematics"
@@ -39,7 +39,7 @@
     {
       "title": "Rising stars of mathematics awarded prestigious 2026 Fields Medal",
       "url": "https://www.nature.com/articles/d41586-026-02169-1?utm_source=lootura.com",
-      "publishedAt": "2026-07-24T10:14:35.543Z",
+      "publishedAt": "2026-07-24T13:39:30.491Z",
       "sourceId": "lootura-us-nature"
     }
   ],

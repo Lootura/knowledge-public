@@ -3,10 +3,16 @@
 > Follow Artificial intelligence, a tracked topic, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: topic
-- Updated: 2026-07-24T10:14:29.742Z
+- Updated: 2026-07-24T13:39:26.682Z
 - Canonical: https://atlas.lootura.com/us/topic/artificial-intelligence
 
 ## Recent changes
+
+### Product availability changed in Europe
+
+Days after OpenAI revealed one of its models went rogue and hacked into another company's servers, House lawmakers are considering a bill that would allow the federal government to effectively shut down models that may put the public at risk. Jo Ling Kent explains.
+
+Date: 2026-07-24
 
 ### This AI tool promises a 'second sight of eyes' to clinicians. Did patients benefit?
 
@@ -62,13 +68,6 @@ Patreon is laying off 20 percent of its workers, or around 93 employees, as repo
 
 Date: 2026-07-23
 
-### Product availability changed in Europe
-
-Lawmakers are preparing to introduce an "AI Kill Switch Act" that would require AI companies to shut down or throttle their systems on orders from the Department of Homeland Security, according to a report from Politico . Reps. Ted Lieu (D-CA) and Nathaniel Moran (R-TX) are expected to introduce the legislation on Thur.
-
-Date: 2026-07-23
-
 ## Sources
 
-- [This AI tool promises a 'second sight of eyes' to clinicians. Did patients benefit?](https://www.npr.org/2026/07/23/g-s1-134929/this-ai-tool-promises-a-second-sight-of-eyes-to-clinicians-did-patients-benefit?utm_source=lootura.com) — 2026-07-23T11:36:52.000Z
-- [Earnings at Musk's Tesla fall as spending on research cuts into profit from selling cars](https://www.pbs.org/newshour/economy/earnings-at-musks-tesla-fall-as-spending-on-research-cuts-into-profit-from-selling-cars?utm_source=lootura.com) — 2026-07-23T22:56:35.000Z
+- [Lawmakers propose AI "kill switch" bill after unprecedented cyber attack](https://www.cbsnews.com/video/lawmakers-propose-ai-kill-switch-bill-after-unprecedented-cyber-attack/?utm_source=lootura.com) — 2026-07-24T13:11:55.000Z

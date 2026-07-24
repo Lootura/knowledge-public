@@ -45,19 +45,6 @@
       "date": "2026-07-23"
     }
   ],
-  "sources": [
-    {
-      "title": "La Comunidad de Madrid moviliza autobuses para evacuar a unos 5.000 vecinos afectados por los incendios",
-      "url": "https://www.20minutos.es/madrid/comunidad-madrid-moviliza-autobuses-para-evacuar-unos-5-000-vecinos-afectados-por-los-incendios_7018495_0.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-24T08:44:47.000Z",
-      "sourceId": "lootura-es-20minutos"
-    },
-    {
-      "title": "Los incendios de Madrid obligan a evacuar Navas del Rey, Chapinería y Colmenar del Arroyo",
-      "url": "https://www.larazon.es/madrid/incendios-madrid-obligan-evacuar-navas-rey-chapineria-colmenar-arroyo_202607246a6337bcaa17c0020f2d4c9b.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-24T10:00:28.000Z",
-      "sourceId": "lootura-es-la-razon"
-    }
-  ],
-  "evidenceCount": 2
+  "sources": [],
+  "evidenceCount": 0
 }

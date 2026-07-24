@@ -70,5 +70,4 @@ Date: 2026-07-23
 
 ## Fuentes
 
-- [El BCE mantiene los tipos y anticipa una nueva subida en septiembre si la guerra en Irán persiste](https://www.elcorreo.com/economia/bce-mantiene-tipos-anticipa-nueva-subida-septiembre-20260723141530-ntrc_amp.html?utm_source=lootura.com) — 2026-07-23T12:16:09.000Z
-- [El petróleo alcanza los 100 dólares mientras Trump sopesa un 'ataque masivo'](https://www.expansion.com/economia/financial-times/2026/07/24/6a6317da468aeb031f8b456d.html?utm_source=lootura.com) — 2026-07-24T07:44:47.000Z
+No public source links.

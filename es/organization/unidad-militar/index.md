@@ -58,5 +58,4 @@ Date: 2026-07-16
 
 ## Fuentes
 
-- [España pide ayuda a la UE y moviliza a 1000 militares y efectivos de otras comunidades para atajar los incendios de Madrid y Ávila](https://www.eldiario.es/sociedad/espana-pide-ayuda-ue-moviliza-1000-militares-efectivos-comunidades-atajar-incendios-madrid-avila_1_13403814.html?utm_source=lootura.com) — 2026-07-24T08:40:12.000Z
-- [Puente critica PP por pedir ayuda a la UME para los incendios mientras «reduce impuestos»](https://theobjective.com/espana/politica/2026-07-24/puente-critica-pp-ayuda-ume/?utm_source=lootura.com) — 2026-07-24T09:18:59.000Z
+No public source links.

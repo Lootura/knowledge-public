@@ -3,14 +3,14 @@
 > Follow Supreme court, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-07-24T10:14:29.742Z
+- Updated: 2026-07-24T13:39:26.682Z
 - Canonical: https://atlas.lootura.com/us/organization/supreme-court
 
 ## Recent changes
 
 ### Trump’s Global Tariffs: What’s the Latest on the Trade War
 
-The president has unveiled a complicated system to forge ahead with his trade war, after the Supreme Court stuck down his original levies.
+The president has unveiled a complicated system to forge ahead with his trade war, after the Supreme Court struck down his original levies.
 
 Date: 2026-07-24
 
@@ -70,5 +70,4 @@ Date: 2026-07-14
 
 ## Sources
 
-- [Trump imposes double-digit tariffs on dozens of countries as stopgap 10% levies expire Friday](https://www.pbs.org/newshour/politics/trump-imposes-double-digit-tariffs-on-dozens-of-countries-as-stopgap-10-levies-expire-friday?utm_source=lootura.com) — 2026-07-23T23:04:52.000Z
-- [Trump’s Global Tariffs: What’s the Latest on the Trade War](https://www.nytimes.com/article/trump-tariffs-trade.html?utm_source=lootura.com) — 2026-07-24T04:01:02.000Z
+- [Trump’s Global Tariffs: What’s the Latest on the Trade War](https://www.nytimes.com/article/trump-tariffs-trade.html?utm_source=lootura.com) — 2026-07-24T12:24:12.000Z

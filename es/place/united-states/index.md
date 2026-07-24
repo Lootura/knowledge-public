@@ -3,10 +3,16 @@
 > Sigue la actividad de Estados Unidos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-24T10:14:05.930Z
+- Actualizado: 2026-07-24T13:39:03.048Z
 - Canonical: https://atlas.lootura.com/es/place/united-states
 
 ## Cambios recientes
+
+### El mercado penaliza la compra de Mapfre en EEUU: sus acciones caen casi un 5%
+
+Mapfre salió ayer de compras por Estados Unidos y el mercado no ha recibido bien sus adquisiciones. La aseguradora española anunció la compra de la estadounidense Safety por 1.352 millones de euros. Las primeras reacciones de los inversores no han sido positivas: la acción cae cerca de un 5%. A todo ello se suman ademá.
+
+Date: 2026-07-24
 
 ### Trump afirma que «todo daño» a buques será pagado con «fondos iraníes»
 
@@ -62,12 +68,6 @@ Estados Unidos ha anunciado este miércoles que ha alcanzado un importante acuer
 
 Date: 2026-07-23
 
-### Trump evalúa ahora la posibilidad de atacar a yihadistas en Mali
-
-El presidente de Estados Unidos, Donald Trump, está considerando lanzar una operación militar contra un grupo yihadista vinculado a Al Qaeda en Mali, según informó este miércoles The Washington Post. El diario, que cita a altos funcionarios estadounidenses bajo condición de anonimato, señala que la propuesta ha generad.
-
-Date: 2026-07-23
-
 ## Fuentes
 
-- [Klopp, la apuesta para hacer resurgir a Alemania](https://www.larazon.es/deportes/klopp-apuesta-hacer-resurgir-alemania_202607246a6337c64687a22bdecb306f.html?utm_source=lootura.com) — 2026-07-24T10:00:38.000Z
+- [El mercado penaliza la compra de Mapfre en EEUU: sus acciones caen casi un 5%](https://www.expansion.com/mercados/2026/07/24/6a633d7be5fdeaf81a8b457f.html?utm_source=lootura.com) — 2026-07-24T11:38:56.000Z

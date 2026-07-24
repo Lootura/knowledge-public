@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/donald-trump/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/donald-trump/index.json",
   "description": "Sigue la actividad de Donald Trump en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-24T10:14:05.930Z",
+  "updatedAt": "2026-07-24T13:39:03.048Z",
   "aliases": [
     "@realDonaldTrump",
     "DJT",
@@ -25,11 +25,6 @@
   ],
   "changes": [
     {
-      "title": "Trump impone un sistema comercial caótico en su tercera ronda arancelaria",
-      "summary": "Como Sísifo empujando la roca en la montaña, Donald Trump reconstruye una barrera arancelaria una y otra vez pese a los continuos reveses de los tribunales. El presidente estadounidense ha levantado un muro amorfo, caótico y repleto de agujeros con la tercera ronda de aranceles. Seguir leyendo.",
-      "date": "2026-07-24"
-    },
-    {
       "title": "Trump intenta reconstruir su muro proteccionista con aranceles del 10 y el 12% a más de 60 socios comerciales, incluyendo la UE",
       "summary": "Tras la decisión del Tribunal Supremo, que en febrero declaró ilegales los gravámenes aplicados con una ley de emergencia económica, Washington aplica un nuevo recargo amparándose en legislación sobre trabajos forzosos Leer.",
       "date": "2026-07-24"
@@ -37,6 +32,11 @@
     {
       "title": "Bruselas valora \"positivamente\" los nuevos aranceles de Trump del 10% porque \"se ajustan\" al acuerdo de Turnberry",
       "summary": "El acuerdo que la UE y EEUU alcanzaron hace justamente un año planteaba una tasa general máxima del 15%. La Comisión cree que la decisión del magnate \"aporta un impulso positivo para seguir trabajando en la búsqueda de nuevas exenciones\" Leer.",
+      "date": "2026-07-24"
+    },
+    {
+      "title": "Trump impone un sistema comercial caótico en su tercera ronda arancelaria",
+      "summary": "Como Sísifo empujando la roca en la montaña, Donald Trump reconstruye una barrera arancelaria una y otra vez pese a los continuos reveses de los tribunales. El presidente estadounidense ha levantado un muro amorfo, caótico y repleto de agujeros con la tercera ronda de aranceles. Seguir leyendo.",
       "date": "2026-07-24"
     },
     {
@@ -77,12 +77,6 @@
   ],
   "sources": [
     {
-      "title": "Trump impone un sistema comercial caótico en su tercera ronda arancelaria",
-      "url": "https://elpais.com/internacional/2026-07-24/trump-impone-un-sistema-comercial-caotico-en-su-tercera-ronda-arancelaria.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-24T04:00:00.000Z",
-      "sourceId": "lootura-es-cinco-dias"
-    },
-    {
       "title": "Trump intenta reconstruir su muro proteccionista con aranceles del 10 y el 12% a más de 60 socios comerciales, incluyendo la UE",
       "url": "https://www.elmundo.es/economia/2026/07/24/6a628eabe4d4d8a9278b458b.html?utm_source=lootura.com",
       "publishedAt": "2026-07-24T05:56:49.000Z",
@@ -93,13 +87,7 @@
       "url": "https://www.elmundo.es/economia/2026/07/24/6a63193efdddffb82f8b457c.html?utm_source=lootura.com",
       "publishedAt": "2026-07-24T07:59:34.000Z",
       "sourceId": "lootura-es-el-mundo"
-    },
-    {
-      "title": "El petróleo alcanza los 100 dólares mientras Trump sopesa un 'ataque masivo'",
-      "url": "https://www.expansion.com/economia/financial-times/2026/07/24/6a6317da468aeb031f8b456d.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-24T07:44:47.000Z",
-      "sourceId": "lootura-es-expansion"
     }
   ],
-  "evidenceCount": 4
+  "evidenceCount": 2
 }

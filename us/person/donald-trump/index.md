@@ -3,7 +3,7 @@
 > Follow Donald Trump, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-07-24T10:14:29.742Z
+- Updated: 2026-07-24T13:39:26.682Z
 - Canonical: https://atlas.lootura.com/us/person/donald-trump
 
 ## Recent changes
@@ -38,12 +38,6 @@ Laura Loomer, an ardent ally of President Donald Trump with a reputation for inc
 
 Date: 2026-07-24
 
-### Rubio says U.S. is ready to help end war in Ukraine but no quick deal ahead
-
-Secretary of State Marco Rubio, who met with his Russian counterpart Sergey Lavrov, said that President Trump was committed to the work "if conditions and factors have changed to make that possible." (Image credit: BRENDAN SMIALOWSKI).
-
-Date: 2026-07-24
-
 ### Rob Bonta on blocking the Paramount merger, CNN concerns and Trump’s DOJ
 
 Rob Bonta on blocking the Paramount merger, CNN concerns and Trump’s DOJ lead image.
@@ -52,7 +46,7 @@ Date: 2026-07-24
 
 ### Trump’s Global Tariffs: What’s the Latest on the Trade War
 
-The president has unveiled a complicated system to forge ahead with his trade war, after the Supreme Court stuck down his original levies.
+The president has unveiled a complicated system to forge ahead with his trade war, after the Supreme Court struck down his original levies.
 
 Date: 2026-07-24
 
@@ -68,15 +62,21 @@ U.S.-Iran strikes escalate, affecting global energy markets, Trump imposes doubl
 
 Date: 2026-07-24
 
+### Trump refuses to give up on tariffs — a pillar of his economic legacy
+
+The administration timed a new set of tariffs on all of its largest trading partners to take effect at the same time the old, global tariff ended. (Image credit: Kevin Dietsch).
+
+Date: 2026-07-24
+
 ## Sources
 
 - [Trump imposes new tariffs on dozens of countries, citing forced labor concerns](https://www.cbsnews.com/news/trump-tariffs-dozens-countries-forced-labor/?utm_source=lootura.com) — 2026-07-24T05:02:49.000Z
 - [Rapid pace of interceptor and precision-guided weapons use worries Trump admin.](https://www.cbsnews.com/news/interceptor-precision-guided-weapons-use-trump-administration/?utm_source=lootura.com) — 2026-07-24T00:47:24.000Z
 - [U.S. attorney who served for less than an hour suing Trump administration over firing](https://www.cbsnews.com/video/us-attorney-who-served-less-than-hour-suing-trump-administration-over-firing/?utm_source=lootura.com) — 2026-07-24T00:26:55.000Z
+- [Concerns over U.S. weapons getting depleted as U.S. and Iran continue to trade strikes](https://www.cbsnews.com/video/concerns-over-us-weapons-getting-depleted-as-us-and-iran-continue-to-trade-strikes/?utm_source=lootura.com) — 2026-07-24T13:17:11.000Z
+- [Trump imposes new tariffs on dozens of countries, including U.S. allies](https://www.cbsnews.com/video/trump-imposes-new-tariffs-on-dozens-of-countries-including-us-allies/?utm_source=lootura.com) — 2026-07-24T13:22:15.000Z
+- [Some Trump officials worried about rapid use of interceptor, precision-guided weapons, sources say](https://www.cbsnews.com/video/some-trump-officials-worried-rapid-pace-interceptor-precision-guided-weapons-being-used/?utm_source=lootura.com) — 2026-07-24T13:18:54.000Z
 - [Trump fires U.S. attorney in Washington on heels of court appointment](https://www.cbsnews.com/news/trump-fires-roger-rogoff-u-s-attorney-seattle-washington/?utm_source=lootura.com) — 2026-07-24T00:35:47.000Z
-- [International PhD students to face strict limits on time in the US](https://www.nature.com/articles/d41586-026-02280-3?utm_source=lootura.com) — 2026-07-24T10:14:35.542Z
-- [Morning news brief](https://www.npr.org/2026/07/24/nx-s1-5895986/morning-news-brief?utm_source=lootura.com) — 2026-07-24T08:45:17.000Z
-- [Trump cuts target federal advisory boards. What does it mean for agencies like NASA?](https://www.npr.org/2026/07/23/nx-s1-5869732/trump-cuts-target-federal-advisory-boards-what-does-it-mean-for-agencies-like-nasa?utm_source=lootura.com) — 2026-07-23T20:33:52.000Z
-- [Trump allies are poised to weaken protections for historic sites — not just in D.C.](https://www.npr.org/2026/07/23/nx-s1-5904435/section-106-review-trump-historic-preservation-council?utm_source=lootura.com) — 2026-07-23T20:14:58.000Z
-- [Trump refuses to give up on tariffs - a pillar of his economic legacy](https://www.npr.org/2026/07/24/nx-s1-5905783/trump-tariff-trade-global-canada?utm_source=lootura.com) — 2026-07-24T09:00:00.000Z
-- [Rubio says U.S. is ready to help end war in Ukraine but no quick deal ahead](https://www.npr.org/2026/07/24/g-s1-135405/rubio-ukraine-russia-war?utm_source=lootura.com) — 2026-07-24T05:45:47.000Z
+- [International PhD students to face strict limits on time in the US](https://www.nature.com/articles/d41586-026-02280-3?utm_source=lootura.com) — 2026-07-24T13:39:30.490Z
+- [Trump Vows Retaliation Against Iran for Houthi Attack in Red Sea](https://www.today.com/video/trump-vows-retaliation-against-iran-for-houthi-attack-in-red-sea-267213893508?utm_source=lootura.com) — 2026-07-24T11:19:38.000Z
+- [White House Correspondents’ Dinner Returns Under High Security](https://www.today.com/video/trump-to-attend-correspondents-dinner-under-high-security-267214917522?utm_source=lootura.com) — 2026-07-24T11:20:35.000Z

@@ -3,10 +3,16 @@
 > Follow Europe, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-24T10:14:29.742Z
+- Updated: 2026-07-24T13:39:26.682Z
 - Canonical: https://atlas.lootura.com/us/place/europe
 
 ## Recent changes
+
+### US allies hit with new tariffs object to Trump's forced labor claims
+
+Australia and the European Union were among U.S. trade partners who condemned the tariffs. (Image credit: Mark Schiefelbein).
+
+Date: 2026-07-24
 
 ### Thousands flee wildfires in southern Europe
 
@@ -20,15 +26,15 @@ The European Union adopted new legislation on plants obtained through certain ne
 
 Date: 2026-07-24
 
-### Google Hit With $1 Billion Fine By EU Over Search Engine Practices
-
-At a tense moment for trans-Atlantic trade, the European Union accused Google of anti-competitive business practices.
-
-Date: 2026-07-23
-
 ### U.S.-Saudi Deal Prompts Fears of a Global Nuclear Arms Race
 
 In Europe, Asia and the Middle East, countries seek nuclear capabilities to hedge against aggressive neighbors and a receding Washington, potentially creating a more freewheeling era.
+
+Date: 2026-07-23
+
+### Google Hit With $1 Billion Fine By EU Over Search Engine Practices
+
+At a tense moment for trans-Atlantic trade, the European Union accused Google of anti-competitive business practices.
 
 Date: 2026-07-23
 
@@ -62,14 +68,7 @@ In a new study, researchers at Leipzig University have identified a major cause 
 
 Date: 2026-07-22
 
-### EU watchdog reduces safe level of exposure to 'forever chemical' TFA
-
-The EU's food safety agency said Wednesday it has dramatically reduced the acceptable daily intake level of the so-called forever chemical TFA, following new evidence of its effect on a key hormone that regulates the body's metabolism.
-
-Date: 2026-07-22
-
 ## Sources
 
-- [Thousands flee wildfires in southern Europe](https://phys.org/news/2026-07-thousands-wildfires-southern-europe.html?utm_source=lootura.com) — 2026-07-24T08:37:07.000Z
-- [Google Hit With $1 Billion Fine By EU Over Search Engine Practices](https://www.nytimes.com/2026/07/23/business/google-eu-fine-search-competition.html?utm_source=lootura.com) — 2026-07-23T12:33:45.000Z
+- [US allies hit with new tariffs object to Trump's forced labor claims](https://www.npr.org/2026/07/24/nx-s1-5906301/us-global-trump-tariffs-reaction?utm_source=lootura.com) — 2026-07-24T10:31:08.000Z
 - [U.S.-Saudi Deal Prompts Fears of a Global Nuclear Arms Race](https://www.nytimes.com/2026/07/23/world/europe/us-saudi-deal-nuclear-hedging.html?utm_source=lootura.com) — 2026-07-23T15:28:15.000Z

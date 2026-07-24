@@ -70,4 +70,4 @@ Date: 2026-07-19
 
 ## Fuentes
 
-- [Es el momento de comprar un Apple Watch: Amazon ha tirado el precio al mínimo histórico](https://hipertextual.com/apple/es-el-momento-de-comprar-un-apple-watch-amazon-ha-tirado-el-precio-al-minimo-historico/?utm_source=lootura.com) — 2026-07-24T08:57:29.000Z
+No public source links.

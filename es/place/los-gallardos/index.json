@@ -8,11 +8,16 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/los-gallardos/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/los-gallardos/index.json",
   "description": "Sigue la actividad de Los Gallardos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-23T06:28:35.711Z",
+  "updatedAt": "2026-07-24T13:39:03.048Z",
   "aliases": [
     "Gallardos"
   ],
   "changes": [
+    {
+      "title": "El PSOE apunta a responsabilidades políticas por la gestión del incendio de Almería",
+      "summary": "El PSOE-A ha apuntado a posibles responsabilidades políticas de los responsables de Emergencias en el Gobierno autonómico por «el vacío de tres horas» en la gestión del incendio de Los Gallardos , en Almería, y ha reclamado el apoyo para su petición de una comisión de investigación en el Parlamento andaluz. Los sociali.",
+      "date": "2026-07-24"
+    },
     {
       "title": "El llamamiento de Bédar para resurgir de las cenizas: \"No dejen de venir, los necesitamos\"",
       "summary": "Han pasado ya 21 días desde que el fuego empezó a arder en Los Gallardos y los efectivos del plan Infoca, el servicio de extinción de incendios de la Junta, aún siguen refrescando las 7.000 hectáreas arrasadas por el incendio más mortífero que se recuerda en Andalucía . Todos los vecinos evacuados, que por momentos fue.",
@@ -57,13 +62,15 @@
       "title": "Moreno resucita su versión 'verde' en Los Gallardos ante Sánchez pese a chocar con su pacto con Vox",
       "summary": "Juanma Moreno anunció una \"revolución verde\" cuando logró su mayoría absoluta en 2022. Puso el foco en el impulso a las energías renovables y creó una consejería de Sostenibilidad que acabó asociando a la portavocía en sus primeros dos años. Una legislatura después, el pacto con Vox para seguir como inquilino en el pal.",
       "date": "2026-07-14"
-    },
-    {
-      "title": "Tres británicos, tres belgas, una francesa, una estadounidense y un español, las nueve primeras víctimas identificadas del incendio de Los Gallardos",
-      "summary": "Stanislas Verdonckt, un empresario belga de 63 años afincado en Bédar, llamó a su hijo minutos antes de la tragedia y le dijo que se marchaban porque el fuego estaba acercándose a la casa Leer.",
-      "date": "2026-07-13"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "El PSOE apunta a responsabilidades políticas por la gestión del incendio de Almería",
+      "url": "https://theobjective.com/espana/politica/2026-07-24/psoe-responsabilidades-gestion-incendio/?utm_source=lootura.com",
+      "publishedAt": "2026-07-24T12:08:14.000Z",
+      "sourceId": "lootura-es-the-objective"
+    }
+  ],
+  "evidenceCount": 1
 }

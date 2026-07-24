@@ -3,20 +3,20 @@
 > Follow Democratic Party, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-07-24T10:14:29.742Z
+- Updated: 2026-07-24T13:39:26.682Z
 - Canonical: https://atlas.lootura.com/us/organization/democratic-party
 
 ## Recent changes
 
-### For a 2nd time, House approves resolution to end the war in Iran in a rebuke to Trump
-
-Four Republicans joined Democrats to approve the measure. And while it is not legally binding, the resolution represents growing frustration inside Congress over the war. (Image credit: J. Scott Applewhite).
-
-Date: 2026-07-23
-
 ### House Rebukes Trump on Iran in War Powers Vote as Senate Blocks Debate
 
 For the second time, a few House Republicans joined Democrats to back a measure calling on the president to seek authorization for the war.
+
+Date: 2026-07-23
+
+### For a 2nd time, House approves resolution to end the war in Iran in a rebuke to Trump
+
+Four Republicans joined Democrats to approve the measure. And while it is not legally binding, the resolution represents growing frustration inside Congress over the war. (Image credit: J. Scott Applewhite).
 
 Date: 2026-07-23
 
@@ -70,5 +70,5 @@ Date: 2026-07-22
 
 ## Sources
 
-- [For a 2nd time, House approves resolution to end the war in Iran in a rebuke to Trump](https://www.npr.org/2026/07/23/nx-s1-5904515/congress-iran-war-powers-vote?utm_source=lootura.com) — 2026-07-23T17:35:02.000Z
+- [Trump administration drive to seize election powers sparking ‘chaos’ despite pushback](https://www.theguardian.com/us-news/2026/jul/24/trump-administration-election-chaos?utm_source=lootura.com) — 2026-07-24T11:00:12.000Z
 - [House Rebukes Trump on Iran in War Powers Vote as Senate Blocks Debate](https://www.nytimes.com/2026/07/23/us/politics/house-iran-war-powers-vote-trump.html?utm_source=lootura.com) — 2026-07-23T18:17:54.000Z

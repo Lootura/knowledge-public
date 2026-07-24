@@ -3,10 +3,16 @@
 > Follow OpenAI, a tracked company, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: company
-- Updated: 2026-07-24T10:14:29.742Z
+- Updated: 2026-07-24T13:39:26.682Z
 - Canonical: https://atlas.lootura.com/us/company/openai
 
 ## Recent changes
+
+### Product availability changed in Europe
+
+Days after OpenAI revealed one of its models went rogue and hacked into another company's servers, House lawmakers are considering a bill that would allow the federal government to effectively shut down models that may put the public at risk. Jo Ling Kent explains.
+
+Date: 2026-07-24
 
 ### Discovered by Atlas
 
@@ -22,4 +28,4 @@ Date: 2026-07-22
 
 ## Sources
 
-- [OpenAI blamed a hacking event on its AI models going rogue. Here's what to know](https://www.pbs.org/newshour/science/openai-blamed-a-hacking-event-on-its-ai-models-going-rogue-heres-what-to-know?utm_source=lootura.com) — 2026-07-23T23:37:00.000Z
+- [Lawmakers propose AI "kill switch" bill after unprecedented cyber attack](https://www.cbsnews.com/video/lawmakers-propose-ai-kill-switch-bill-after-unprecedented-cyber-attack/?utm_source=lootura.com) — 2026-07-24T13:11:55.000Z

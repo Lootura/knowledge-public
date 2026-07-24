@@ -70,4 +70,4 @@ Date: 2026-07-19
 
 ## Fuentes
 
-- [Vandalizan también el mural de Luis de la Fuente en el centro de Barcelona: una bandera independentista y la frase "No olvidamos"](https://www.larazon.es/cataluna/vandalizan-tambien-mural-luis-fuente-centro-barcelona_202607246a633919aa17c0020f2d4fb1.html?utm_source=lootura.com) — 2026-07-24T10:06:17.000Z
+No public source links.

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/united-states/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/united-states/index.json",
   "description": "Follow United States, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-24T10:14:29.742Z",
+  "updatedAt": "2026-07-24T13:39:26.682Z",
   "aliases": [
     "America",
     "Estados Unidos",
@@ -69,11 +69,6 @@
       "date": "2026-07-24"
     },
     {
-      "title": "Rubio says U.S. is ready to help end war in Ukraine but no quick deal ahead",
-      "summary": "Secretary of State Marco Rubio, who met with his Russian counterpart Sergey Lavrov, said that President Trump was committed to the work \"if conditions and factors have changed to make that possible.\" (Image credit: BRENDAN SMIALOWSKI).",
-      "date": "2026-07-24"
-    },
-    {
       "title": "Trump imposes new tariffs on dozens of countries, citing forced labor concerns",
       "summary": "The Trump administration will impose tariffs of up to 12.5% on goods from 60 U.S. trading partners accused of failing to crack down on forced labor, extending the administration's tariffs on much of the world.",
       "date": "2026-07-24"
@@ -81,6 +76,11 @@
     {
       "title": "Tree of Life rabbi Jeffrey Myers bids farewell 8 years after deadliest antisemitic attack in U.S. history",
       "summary": "Rabbi Jeffrey Myers is retiring from Tree of Life Congregation in Pittsburgh, which he led through the aftermath of the deadliest antisemitic attack in U.S. history.",
+      "date": "2026-07-24"
+    },
+    {
+      "title": "Morning news brief",
+      "summary": "U.S.-Iran strikes escalate, affecting global energy markets, Trump imposes double-digit tariffs on dozens of countries, Vigil held in Madison, Wisconsin, for man killed by police.",
       "date": "2026-07-24"
     }
   ],
@@ -116,6 +116,18 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
+      "title": "Concerns over U.S. weapons getting depleted as U.S. and Iran continue to trade strikes",
+      "url": "https://www.cbsnews.com/video/concerns-over-us-weapons-getting-depleted-as-us-and-iran-continue-to-trade-strikes/?utm_source=lootura.com",
+      "publishedAt": "2026-07-24T13:17:11.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
+    {
+      "title": "Trump imposes new tariffs on dozens of countries, including U.S. allies",
+      "url": "https://www.cbsnews.com/video/trump-imposes-new-tariffs-on-dozens-of-countries-including-us-allies/?utm_source=lootura.com",
+      "publishedAt": "2026-07-24T13:22:15.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
+    {
       "title": "Trump fires U.S. attorney in Washington on heels of court appointment",
       "url": "https://www.cbsnews.com/news/trump-fires-roger-rogoff-u-s-attorney-seattle-washington/?utm_source=lootura.com",
       "publishedAt": "2026-07-24T00:35:47.000Z",
@@ -124,7 +136,7 @@
     {
       "title": "How does Make America Healthy Again hold up against scientific scrutiny?",
       "url": "https://www.nature.com/articles/d41586-026-02024-3?utm_source=lootura.com",
-      "publishedAt": "2026-07-24T10:14:35.542Z",
+      "publishedAt": "2026-07-24T13:39:30.490Z",
       "sourceId": "lootura-us-nature"
     },
     {
@@ -132,19 +144,7 @@
       "url": "https://www.npr.org/2026/07/24/nx-s1-5895986/morning-news-brief?utm_source=lootura.com",
       "publishedAt": "2026-07-24T08:45:17.000Z",
       "sourceId": "lootura-us-npr"
-    },
-    {
-      "title": "Rubio says U.S. is ready to help end war in Ukraine but no quick deal ahead",
-      "url": "https://www.npr.org/2026/07/24/g-s1-135405/rubio-ukraine-russia-war?utm_source=lootura.com",
-      "publishedAt": "2026-07-24T05:45:47.000Z",
-      "sourceId": "lootura-us-npr-world"
-    },
-    {
-      "title": "U.S. filings for unemployment aid fall to 187,000 last week, fewest since 1969",
-      "url": "https://www.pbs.org/newshour/economy/u-s-filings-for-unemployment-aid-fall-to-187000-last-week-fewest-since-1969?utm_source=lootura.com",
-      "publishedAt": "2026-07-23T20:08:39.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
     }
   ],
-  "evidenceCount": 23
+  "evidenceCount": 20
 }

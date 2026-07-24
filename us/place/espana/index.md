@@ -3,7 +3,7 @@
 > Follow Spain, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-24T10:14:29.742Z
+- Updated: 2026-07-24T13:39:26.682Z
 - Canonical: https://atlas.lootura.com/us/place/espana
 
 ## Recent changes
@@ -16,7 +16,7 @@ Date: 2026-07-24
 
 ### Discovered by Atlas
 
-España first entered the public knowledge record with source-backed evidence.
+Spain first entered the public knowledge record with source-backed evidence.
 
 Date: 2026-07-09
 

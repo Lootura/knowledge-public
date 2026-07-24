@@ -34,4 +34,4 @@ Date: 2026-07-20
 
 ## Sources
 
-- [Former U.S. diplomat breaks down Houthi attacks on Red Sea shipping](https://www.pbs.org/newshour/show/former-u-s-diplomat-breaks-down-houthi-attacks-on-red-sea-shipping?utm_source=lootura.com) — 2026-07-23T22:52:59.000Z
+No public source links.

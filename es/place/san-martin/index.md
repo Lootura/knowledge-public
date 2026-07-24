@@ -2,11 +2,23 @@
 
 > Sigue la actividad de San Martín en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
-- Type: place
-- Actualizado: 2026-07-24T10:14:05.930Z
+- Type: person
+- Actualizado: 2026-07-24T13:39:03.048Z
 - Canonical: https://atlas.lootura.com/es/place/san-martin
 
 ## Cambios recientes
+
+### El mapa de los tres incendios: así avanzan los fuegos que cercan la Comunidad de Madrid
+
+La grave situación por los incendios , que ha obligado al Gobierno a declarar la emergencia nacional en Madrid y Ávila, afronta "un día crítico", según ha explicado el ministro del Interior, Fernando Grande-Marlaska: los focos de San Martín de Valdeiglesias y Villa del Prado , en Madrid, se han fusionado en un solo fre.
+
+Date: 2026-07-24
+
+### El humo y las cenizas de los incendios forestales alcanzan Madrid: estas son las recomendaciones para protegerse
+
+El cambio de dirección del viento desplaza hacia la capital una gran humareda procedente de los incendios de Villa del Prado y San Martín de Valdeiglesias. Los servicios de emergencias de la Comunidad recomiendan evitar permanecer al aire libre y mantener puertas y ventanas cerradas La previsión de intensas rachas de v.
+
+Date: 2026-07-24
 
 ### Las impactantes imágenes de las llamas que ponen en jaque a Madrid y a Ávila
 
@@ -58,4 +70,5 @@ Date: 2026-07-23
 
 ## Fuentes
 
-- [Las impactantes imágenes de las llamas que ponen en jaque a Madrid y a Ávila](https://www.20minutos.es/madrid/las-impactantes-imagenes-los-incendios-que-han-puesto-madrid-avila-situacion-emergencia-nacional_7018478_0.html?utm_source=lootura.com) — 2026-07-24T08:20:38.000Z
+- [El mapa de los tres incendios: así avanzan los fuegos que cercan la Comunidad de Madrid](https://www.20minutos.es/nacional/mapa-los-tres-incendios-asi-avanzan-los-fuegos-que-cercan-comunidad-madrid_7018620_0.html?utm_source=lootura.com) — 2026-07-24T11:04:12.000Z
+- [El humo y las cenizas de los incendios forestales alcanzan Madrid: estas son las recomendaciones para protegerse](https://www.eldiario.es/madrid/somos/humo-cenizas-incendios-forestales-alcanzan-madrid-son-recomendaciones-protegerse_1_13404626.html?utm_source=lootura.com) — 2026-07-24T13:00:25.000Z

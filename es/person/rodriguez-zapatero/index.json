@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/rodriguez-zapatero/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/rodriguez-zapatero/index.json",
   "description": "Sigue la actividad de José Luis Rodríguez Zapatero en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-24T10:14:05.930Z",
+  "updatedAt": "2026-07-24T13:39:03.048Z",
   "aliases": [
     "José Luis Rodríguez",
     "Rodríguez",
@@ -16,6 +16,21 @@
     "Zapatero"
   ],
   "changes": [
+    {
+      "title": "El juez llama a declarar a los directivos de Plus Ultra que aseguraron que Zapatero estaba detrás del rescate",
+      "summary": "El juez José Luis Calama ha llamado a declarar este viernes al presidente de la aerolínea Plus Ultra , Julio Martínez Sola, y al consejero delegado, Roberto Roselli Miele, en la causa que investiga al expresidente José Luis Rodríguez Zapatero como miembro de una trama ilícita de influencias vinculada al rescate de la a.",
+      "date": "2026-07-24"
+    },
+    {
+      "title": "El juez Calama cita a declarar a los directivos de Plus Ultra que implicaron a Zapatero en el rescate",
+      "summary": "El magistrado José Luis Calama, instructor del caso Plus Ultra , da un nuevo paso en la investigación abierta contra el expresidente José Luis Rodríguez Zapatero. El juez ha decidido interrogar los próximos 7 y 8 de septiembre a Julio Martínez Sola, presidente de la aerolínea, y a su consejero delegado, Roberto Roselli.",
+      "date": "2026-07-24"
+    },
+    {
+      "title": "Implicaciones políticas, éticas y penales de las joyas que Zapatero asegura haber recibido por “cortesía”",
+      "summary": "José Luis Rodríguez Zapatero anunció, tras ser imputado por un presunto delito de tráfico de influencias y ser registrado su despacho el pasado 19 de mayo, que pronto iba a dar explicaciones a los ciudadanos. No lo hizo y cuando, el 17 de junio, acudió a declarar ante el juez José Luis Calama en la Audiencia Nacional,.",
+      "date": "2026-07-24"
+    },
     {
       "title": "Manu Sánchez escucha las explicaciones de Zapatero en TVE y es tajante con el expresidente del Gobierno: «Este rojo ya no llora más por ti»",
       "summary": "Este jueves 23 de julio, José Luis Rodríguez Zapatero ha concedido su primera entrevista desde su imputación por el caso Plus Ultra . El expresidente del Gobierno ha elegido 'Mañaneros 360', el programa de TVE presentador por Javier Ruiz , para defenderse sobre su presunta implicación en la trama corrupta.En la charla,.",
@@ -50,41 +65,26 @@
       "title": "Anticorrupción pide ampliar el análisis de las joyas de Zapatero para averiguar la fecha exacta de su montaje",
       "summary": "La Fiscalía Anticorrupción ha solicitado una ampliación del estudio sobre las joyas millonarias que escondía el ex presidente del Gobierno José Luis Rodríguez Zapatero en una...",
       "date": "2026-07-23"
-    },
-    {
-      "title": "Los cinco indicios sin respuesta tras las declaraciones de Zapatero en su entrevista en RTVE",
-      "summary": "Negación, evasivas e inhibición. Así fue la primera entrevista concedida por el ex presidente José Luis Rodríguez Zapatero desde su imputación en el caso Plus Ultra. Con sus...",
-      "date": "2026-07-23"
-    },
-    {
-      "title": "La cúpula del PSOE da por buenas las explicaciones de Zapatero: \"Mantenemos nuestro apoyo\"",
-      "summary": "Desde que se conoció la investigación judicial a José Luis Rodríguez Zapatero, tanto Pedro Sánchez como desde Ferraz han mantenido contacto con el ex presidente del Gobierno....",
-      "date": "2026-07-23"
-    },
-    {
-      "title": "Los titulares de la entrevista a Zapatero: de la estrategia de defensa de Julio Martínez a los trabajos de sus hijas",
-      "summary": "El expresidente del Gobierno José Luis Rodríguez Zapatero ha dado este jueves en RTVE su primera entrevista a un medio de comunicación desde que fuese imputado en una investigación de la Audiencia Nacional que lo coloca en la cúspide de una trama internacional de tráfico ilícito de influencias. El asunto partía del lav.",
-      "date": "2026-07-23"
     }
   ],
   "sources": [
     {
-      "title": "Manu Sánchez escucha las explicaciones de Zapatero en TVE y es tajante con el expresidente del Gobierno: «Este rojo ya no llora más por ti»",
-      "url": "https://www.abc.es/play/television/noticias/manu-sanchez-escucha-explicaciones-zapatero-tve-tajante-20260724105332-nt.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-24T08:53:32.000Z",
+      "title": "El juez llama a declarar a los directivos de Plus Ultra que aseguraron que Zapatero estaba detrás del rescate",
+      "url": "https://www.abc.es/espana/juez-llama-declarar-directivos-plus-ultra-aseguraron-20260724125923-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-24T12:34:06.000Z",
       "sourceId": "lootura-es-abc"
     },
     {
-      "title": "Anticorrupción pide ampliar la información de las joyas requisadas a Zapatero",
-      "url": "https://www.abc.es/espana/anticorrupcion-pide-ampliar-informacion-joyas-requisadas-zapatero-20260724105723-nt.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-24T09:27:32.000Z",
-      "sourceId": "lootura-es-abc"
+      "title": "El juez Calama cita a declarar a los directivos de Plus Ultra que implicaron a Zapatero en el rescate",
+      "url": "https://elpais.com/espana/2026-07-24/el-juez-calama-cita-a-declarar-a-los-directivos-de-plus-ultra-que-implicaron-a-zapatero-en-el-rescate.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-24T13:22:29.000Z",
+      "sourceId": "lootura-es-el-pais"
     },
     {
-      "title": "El juez tumba la nulidad que Zapatero pedía del ‘caso Plus Ultra’ por los registros y el bloqueo de sus cuentas",
-      "url": "https://okdiario.com/espana/juez-tumba-nulidad-que-zapatero-pedia-del-caso-plus-ultra-registros-bloqueo-sus-cuentas-19061110?utm_source=lootura.com",
-      "publishedAt": "2026-07-24T10:08:00.000Z",
-      "sourceId": "lootura-es-ok-diario"
+      "title": "Implicaciones políticas, éticas y penales de las joyas que Zapatero asegura haber recibido por “cortesía”",
+      "url": "https://elpais.com/espana/2026-07-24/implicaciones-politicas-eticas-y-penales-de-las-joyas-que-zapatero-asegura-haber-recibido-por-cortesia.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-24T03:30:01.000Z",
+      "sourceId": "lootura-es-el-pais"
     }
   ],
   "evidenceCount": 3

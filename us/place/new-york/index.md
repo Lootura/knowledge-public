@@ -70,4 +70,4 @@ Date: 2026-07-22
 
 ## Sources
 
-- [Stabbings near New York City’s Central Park](https://www.nbcnews.com/nightly-news/video/stabbings-near-new-york-city-s-central-park-267194437527?utm_source=lootura.com) — 2026-07-23T23:05:19.000Z
+No public source links.

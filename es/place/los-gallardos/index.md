@@ -3,10 +3,16 @@
 > Sigue la actividad de Los Gallardos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-23T06:28:35.711Z
+- Actualizado: 2026-07-24T13:39:03.048Z
 - Canonical: https://atlas.lootura.com/es/place/los-gallardos
 
 ## Cambios recientes
+
+### El PSOE apunta a responsabilidades políticas por la gestión del incendio de Almería
+
+El PSOE-A ha apuntado a posibles responsabilidades políticas de los responsables de Emergencias en el Gobierno autonómico por «el vacío de tres horas» en la gestión del incendio de Los Gallardos , en Almería, y ha reclamado el apoyo para su petición de una comisión de investigación en el Parlamento andaluz. Los sociali.
+
+Date: 2026-07-24
 
 ### El llamamiento de Bédar para resurgir de las cenizas: "No dejen de venir, los necesitamos"
 
@@ -62,12 +68,6 @@ Juanma Moreno anunció una "revolución verde" cuando logró su mayoría absolut
 
 Date: 2026-07-14
 
-### Tres británicos, tres belgas, una francesa, una estadounidense y un español, las nueve primeras víctimas identificadas del incendio de Los Gallardos
-
-Stanislas Verdonckt, un empresario belga de 63 años afincado en Bédar, llamó a su hijo minutos antes de la tragedia y le dijo que se marchaban porque el fuego estaba acercándose a la casa Leer.
-
-Date: 2026-07-13
-
 ## Fuentes
 
-No public source links.
+- [El PSOE apunta a responsabilidades políticas por la gestión del incendio de Almería](https://theobjective.com/espana/politica/2026-07-24/psoe-responsabilidades-gestion-incendio/?utm_source=lootura.com) — 2026-07-24T12:08:14.000Z

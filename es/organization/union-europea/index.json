@@ -1,0 +1,59 @@
+{
+  "id": "es-union-europea",
+  "name": "Unión Europea",
+  "type": "organization",
+  "locale": "es",
+  "canonicalPath": "/es/organization/union-europea",
+  "canonicalUrl": "https://atlas.lootura.com/es/organization/union-europea",
+  "markdownUrl": "https://atlas.lootura.com/es/organization/union-europea/index.md",
+  "jsonUrl": "https://atlas.lootura.com/es/organization/union-europea/index.json",
+  "description": "Sigue la actividad de Unión Europea en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
+  "updatedAt": "2026-07-24T13:39:03.048Z",
+  "aliases": [
+    "Europa",
+    "Unión"
+  ],
+  "changes": [
+    {
+      "title": "Sánchez pide ayuda a Bruselas con los incendios y Grecia e Italia envían cuatro aviones de extinción",
+      "summary": "La Comisión Europea ha explicado este viernes que recibió el jueves por la noche la petición por parte del Gobierno español de la activación del Mecanismo de Protección Civil de la Unión Europea, solicitando cuatro aviones. Fuentes del Gobierno confirmaban esta mañana que Grecia ya había ofrecido dos Canadair CL-415. E.",
+      "date": "2026-07-24"
+    },
+    {
+      "title": "Los nuevos billetes del euro ya tienen finalistas: diez diseños y una encuesta abierta al público",
+      "summary": "El Banco Central Europeo (BCE) ha presentado las diez propuestas finalistas para la próxima serie de billetes del euro y ha abierto una encuesta pública para que cualquier ciudadano europeo pueda opinar hasta el 21 de septiembre de 2026. Al concurso se presentaron más de 1.200 diseñadores de toda la Unión Europea. Un j.",
+      "date": "2026-07-24"
+    },
+    {
+      "title": "Bruselas manda cuatro aviones para combatir los incendios forestales en España",
+      "summary": "La Comisión Europea ha confirmado este viernes el despliegue de cuatro aviones para apoyar la lucha contra los incendios forestales en España, después de que el Gobierno solicitara la activación del Mecanismo de Protección Civil de la Unión Europea ante la gravedad de los fuegos que afectan especialmente a la Comunidad.",
+      "date": "2026-07-24"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Unión Europea first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-07-24"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Sánchez pide ayuda a Bruselas con los incendios y Grecia e Italia envían cuatro aviones de extinción",
+      "url": "https://www.elconfidencial.com/espana/2026-07-24/incendios-espana-aviones-bruselas-1tps_4395535/?utm_source=lootura.com",
+      "publishedAt": "2026-07-24T11:34:00.000Z",
+      "sourceId": "lootura-es-el-confidencial"
+    },
+    {
+      "title": "Los nuevos billetes del euro ya tienen finalistas: diez diseños y una encuesta abierta al público",
+      "url": "http://www.microsiervos.com/archivo/arte-y-diseno/billetes-opinion-publico-banco-euro.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-24T11:21:25.000Z",
+      "sourceId": "lootura-es-microsiervos"
+    },
+    {
+      "title": "Bruselas manda cuatro aviones para combatir los incendios forestales en España",
+      "url": "https://theobjective.com/sociedad/2026-07-24/bruselas-manda-aviones-incendios/?utm_source=lootura.com",
+      "publishedAt": "2026-07-24T11:34:48.000Z",
+      "sourceId": "lootura-es-the-objective"
+    }
+  ],
+  "evidenceCount": 3
+}

@@ -3,10 +3,28 @@
 > Sigue la actividad de El Gobierno en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-24T10:14:05.930Z
+- Actualizado: 2026-07-24T13:39:03.048Z
 - Canonical: https://atlas.lootura.com/es/organization/el-gobierno
 
 ## Cambios recientes
+
+### Qué es la emergencia nacional activada por los incendios de Madrid y Ávila y qué implica
+
+El Gobierno activa la emergencia nacional, tras la petición de Madrid, como ya hizo en 2025 por el apagón y el ministro Marlaska asume la dirección de la crisis en un "día crítico" Directo - Última hora sobre los incendios en España: Interior asume la dirección de la lucha contra el fuego en Madrid y Ávila Los incendio.
+
+Date: 2026-07-24
+
+### El PP tilda de "miserable" la actuación de Puente y el delegado del Gobierno en Madrid ante los incendios
+
+"Ellos ven bandos donde nosotros vemos fuego", afirma Alma Ezcurra, que dice no entender "que todas las fuerzas políticas no colaboren en el mismo objetivo" contra los incendios El Gobierno declara la emergencia nacional en la Comunidad de Madrid y Ávila por los incendios Última hora de los incendios en España El Parti.
+
+Date: 2026-07-24
+
+### El Gobierno plantea un castigo fiscal a las Socimis de viviendas
+
+Los socios de gobierno, PSOE y Sumar, vuelven a sacar a las Socimis a la palestra al plantear un castigo fiscal a aquellas empresas que tiene en su cartera viviendas y a las que...
+
+Date: 2026-07-24
 
 ### Economía y Trabajo pactan llevar el registro horario a septiembre para salvar las objeciones del Consejo de Estado
 
@@ -50,28 +68,9 @@ El guion estaba escrito y nadie ha querido improvisar. El Congreso de los Diputa
 
 Date: 2026-07-24
 
-### Última hora sobre los incendios en España: Interior asume la dirección de la lucha contra el fuego en Madrid y Ávila
-
-El Gobierno ha decretado la emergencia nacional en Madrid y Ávila por los tres incendios que en las últimas horas se han complicado con virulencia, obligando al desalojo de 11.500 personas. En la Comunidad de Madrid han sido evacuadas más de 10.000 personas debido a tres incendios: uno en Villa del Prado, con afectació.
-
-Date: 2026-07-24
-
-### Críticas en Brasil, inquietud en Chile y negociación en México ante los nuevos aranceles de Trump
-
-El Gobierno del presidente de Estados Unidos, Donald Trump, anunció este jueves nuevos aranceles de entre el 10 % y el 12,5 % a las importaciones procedentes de 60 países y economías, decisión que sustenta en una investigación sobre "esfuerzos insuficientes para combatir el trabajo forzoso". Esta medida, que entrará en.
-
-Date: 2026-07-24
-
-### El Gobierno lanza a Yolanda Díaz como candidata para dirigir la OIT
-
-Despejada la incógnita sobre el futuro político de Yolanda Díaz, que, tras claudicar en su propio proyecto político en España —Sumar, ahora descabezado—, aspira ahora a recolocarse en las Naciones Unidas. La dirigente izquierdista se postula oficialmente para liderar la Organización Internacional del Trabajo (OIT) en G.
-
-Date: 2026-07-24
-
 ## Fuentes
 
 - [Los tres incendios que arrasan Madrid siguen ardiendo sin control: “Sopla mucho viento, va a ser un día muy peligroso”](https://elpais.com/espana/madrid/2026-07-24/los-tres-incendios-que-arrasan-madrid-siguen-ardiendo-sin-control.html?utm_source=lootura.com) — 2026-07-24T06:18:52.000Z
-- ["Nos enfrentamos a una importante amenaza": el Ejecutivo de Ayuso pidió en una escueta carta al Gobierno que declarara la emergencia nacional](https://www.eldiario.es/madrid/enfrentamos-importante-amenaza-ejecutivo-ayuso-pidio-carta-gobierno-declarara-emergencia-nacional_1_13403750.html?utm_source=lootura.com) — 2026-07-24T08:19:21.000Z
-- [FOTOS | Los incendios que asolan Madrid y Ávila, en imágenes](https://www.eldiario.es/sociedad/fotos-incendios-asolan-madrid-avila-imagenes_3_13403965.html?utm_source=lootura.com) — 2026-07-24T09:23:01.000Z
-- [Economía y Trabajo pactan llevar el registro horario a septiembre para salvar las objeciones del Consejo de Estado](https://www.eldiario.es/economia/economia-trabajo-pactan-llevar-registro-horario-septiembre-salvar-objeciones-consejo_1_13403321.html?utm_source=lootura.com) — 2026-07-24T06:00:03.000Z
-- [El Gobierno catalán y los Comuns pactan una ley para convertir oficinas en VPO](https://theobjective.com/espana/politica/2026-07-24/gobierno-catalan-comuns-ley-oficinas-vpo/?utm_source=lootura.com) — 2026-07-24T09:19:13.000Z
+- [Qué es la emergencia nacional activada por los incendios de Madrid y Ávila y qué implica](https://www.eldiario.es/sociedad/emergencia-nacional-activada-incendios-implica_1_13403677.html?utm_source=lootura.com) — 2026-07-24T10:54:12.000Z
+- [El PP tilda de "miserable" la actuación de Puente y el delegado del Gobierno en Madrid ante los incendios](https://www.eldiario.es/madrid/pp-miserable-actuacion-puente-delegado-gobierno-incendios_1_13404260.html?utm_source=lootura.com) — 2026-07-24T10:34:15.000Z
+- [El Gobierno plantea un castigo fiscal a las Socimis de viviendas](https://amp.expansion.com/inmobiliario/mercado/2026/07/24/6a633b58468aeb12608b458a.html?utm_source=lootura.com) — 2026-07-24T10:16:34.000Z

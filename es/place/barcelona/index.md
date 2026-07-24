@@ -70,6 +70,4 @@ Date: 2026-07-23
 
 ## Fuentes
 
-- [Primer trasplante de órganos entre pacientes con VIH en España](https://www.abc.es/sociedad/primer-trasplante-organos-dos-pacientes-vih-espana-20260722191812-nt.html?utm_source=lootura.com) — 2026-07-24T08:41:56.000Z
-- [Vandalizan también el mural de Luis de la Fuente en el centro de Barcelona: una bandera independentista y la frase "No olvidamos"](https://www.larazon.es/cataluna/vandalizan-tambien-mural-luis-fuente-centro-barcelona_202607246a633919aa17c0020f2d4fb1.html?utm_source=lootura.com) — 2026-07-24T10:06:17.000Z
-- [El pueblo a 20 minutos de Barcelona donde vive el presentador Jordi Hurtado desde hace 20 años](https://okdiario.com/viajes/pueblo-20-minutos-barcelona-donde-vive-presentador-jordi-hurtado-desde-hace-20-anos-19060778?utm_source=lootura.com) — 2026-07-24T10:00:57.000Z
+No public source links.

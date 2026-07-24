@@ -3,7 +3,7 @@
 > Follow Getty Images, a tracked company, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: company
-- Updated: 2026-07-24T10:14:29.742Z
+- Updated: 2026-07-24T13:39:26.682Z
 - Canonical: https://atlas.lootura.com/us/company/getty-images
 
 ## Recent changes
@@ -70,4 +70,5 @@ Date: 2026-07-16
 
 ## Sources
 
+- [Trump threatens a major escalation in Iran as the war nears the end of Month 5](https://www.npr.org/2026/07/24/g-s1-135417/us-iran-war-updates?utm_source=lootura.com) — 2026-07-24T11:30:08.000Z
 - [Meet Me in the Notes App](https://time.com/article/2026/07/24/meet-me-in-the-notes-app/?utm_source=lootura.com) — 2026-07-24T10:00:04.000Z

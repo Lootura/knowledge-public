@@ -1,16 +1,26 @@
 {
   "id": "es-san-martin",
   "name": "San Martín",
-  "type": "place",
+  "type": "person",
   "locale": "es",
   "canonicalPath": "/es/place/san-martin",
   "canonicalUrl": "https://atlas.lootura.com/es/place/san-martin",
   "markdownUrl": "https://atlas.lootura.com/es/place/san-martin/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/san-martin/index.json",
   "description": "Sigue la actividad de San Martín en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-24T10:14:05.930Z",
+  "updatedAt": "2026-07-24T13:39:03.048Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "El mapa de los tres incendios: así avanzan los fuegos que cercan la Comunidad de Madrid",
+      "summary": "La grave situación por los incendios , que ha obligado al Gobierno a declarar la emergencia nacional en Madrid y Ávila, afronta \"un día crítico\", según ha explicado el ministro del Interior, Fernando Grande-Marlaska: los focos de San Martín de Valdeiglesias y Villa del Prado , en Madrid, se han fusionado en un solo fre.",
+      "date": "2026-07-24"
+    },
+    {
+      "title": "El humo y las cenizas de los incendios forestales alcanzan Madrid: estas son las recomendaciones para protegerse",
+      "summary": "El cambio de dirección del viento desplaza hacia la capital una gran humareda procedente de los incendios de Villa del Prado y San Martín de Valdeiglesias. Los servicios de emergencias de la Comunidad recomiendan evitar permanecer al aire libre y mantener puertas y ventanas cerradas La previsión de intensas rachas de v.",
+      "date": "2026-07-24"
+    },
     {
       "title": "Las impactantes imágenes de las llamas que ponen en jaque a Madrid y a Ávila",
       "summary": "El ministro del Interior, Fernando Grande-Marlaska , ha declarado la emergencia de interés nacional en la Comunidad de Madrid y Ávila ante la evolución de los incendios forestales de Villa del Prado, San Martín de Valdeiglesias y Burgohondo. La decisión llega después de que la Comunidad de Madrid solicitara la activaci.",
@@ -54,11 +64,17 @@
   ],
   "sources": [
     {
-      "title": "Las impactantes imágenes de las llamas que ponen en jaque a Madrid y a Ávila",
-      "url": "https://www.20minutos.es/madrid/las-impactantes-imagenes-los-incendios-que-han-puesto-madrid-avila-situacion-emergencia-nacional_7018478_0.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-24T08:20:38.000Z",
+      "title": "El mapa de los tres incendios: así avanzan los fuegos que cercan la Comunidad de Madrid",
+      "url": "https://www.20minutos.es/nacional/mapa-los-tres-incendios-asi-avanzan-los-fuegos-que-cercan-comunidad-madrid_7018620_0.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-24T11:04:12.000Z",
       "sourceId": "lootura-es-20minutos"
+    },
+    {
+      "title": "El humo y las cenizas de los incendios forestales alcanzan Madrid: estas son las recomendaciones para protegerse",
+      "url": "https://www.eldiario.es/madrid/somos/humo-cenizas-incendios-forestales-alcanzan-madrid-son-recomendaciones-protegerse_1_13404626.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-24T13:00:25.000Z",
+      "sourceId": "lootura-es-eldiario-es"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 2
 }

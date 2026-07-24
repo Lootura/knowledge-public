@@ -1,0 +1,47 @@
+{
+  "id": "es-da-vinci",
+  "name": "Leonardo da Vinci",
+  "type": "person",
+  "locale": "es",
+  "canonicalPath": "/es/person/da-vinci",
+  "canonicalUrl": "https://atlas.lootura.com/es/person/da-vinci",
+  "markdownUrl": "https://atlas.lootura.com/es/person/da-vinci/index.md",
+  "jsonUrl": "https://atlas.lootura.com/es/person/da-vinci/index.json",
+  "description": "Sigue la actividad de Leonardo da Vinci en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
+  "updatedAt": "2026-07-24T13:39:03.048Z",
+  "aliases": [
+    "Da Vinci"
+  ],
+  "changes": [
+    {
+      "title": "De Cervantes a Curie o Da Vinci: el BCE lanza una encuesta para elegir los nuevos billetes de euro",
+      "summary": "El euro va a cambiar de imagen. El BCE ha lanzado una encuesta en su página para consultar a la ciudadanía europea sobre el diseño de los nuevos billetes , que no entrarán en circulación hasta dentro de “años”, según el anuncio del banco, y que convivirán con los actuales sin sustituirlos. La votación está abierta desd.",
+      "date": "2026-07-24"
+    },
+    {
+      "title": "De Cervantes a Da Vinci y Marie Curie: los billetes de euro cambian y así son todos los nuevos por los que ya puedes votar",
+      "summary": "Anverso del billete de 5 euros del diseño preseleccionado por Studio Joost Grootens, con un retrato de Maria Callas, una de las grandes figuras de la ópera del siglo XX. Banco Central Europeo (BCE) Reverso del billete de 5 euros del diseño preseleccionado por Studio Joost Grootens, que representa un espacio público don.",
+      "date": "2026-07-24"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Da Vinci first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-07-24"
+    }
+  ],
+  "sources": [
+    {
+      "title": "De Cervantes a Curie o Da Vinci: el BCE lanza una encuesta para elegir los nuevos billetes de euro",
+      "url": "https://cincodias.elpais.com/mercados-financieros/2026-07-24/de-cervantes-a-curie-o-da-vinci-el-bce-lanza-una-encuesta-para-elegir-los-nuevos-billetes-del-euro.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-24T10:17:04.000Z",
+      "sourceId": "lootura-es-cinco-dias"
+    },
+    {
+      "title": "De Cervantes a Da Vinci y Marie Curie: los billetes de euro cambian y así son todos los nuevos por los que ya puedes votar",
+      "url": "https://theobjective.com/galerias/economia/2026-07-24/de-cervantes-a-da-vinci-y-marie-curie-los-billetes-de-euro-cambian-y-asi-son-todos-los-nuevos-por-los-que-ya-puedes-votar/?utm_source=lootura.com",
+      "publishedAt": "2026-07-24T13:09:02.000Z",
+      "sourceId": "lootura-es-the-objective"
+    }
+  ],
+  "evidenceCount": 2
+}

@@ -3,7 +3,7 @@
 > Sigue la actividad de Oriente Próximo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-24T10:14:05.930Z
+- Actualizado: 2026-07-24T13:39:03.048Z
 - Canonical: https://atlas.lootura.com/es/place/oriente-proximo
 
 ## Cambios recientes
@@ -71,4 +71,3 @@ Date: 2026-07-22
 ## Fuentes
 
 - [El Ibex rebota con los aranceles, el petróleo y las preocupaciones por la IA en el foco](https://cincodias.elpais.com/mercados-financieros/2026-07-24/la-bolsa-y-el-ibex-35.html?utm_source=lootura.com) — 2026-07-24T09:57:37.000Z
-- [El petróleo alcanza los 100 dólares mientras Trump sopesa un 'ataque masivo'](https://www.expansion.com/economia/financial-times/2026/07/24/6a6317da468aeb031f8b456d.html?utm_source=lootura.com) — 2026-07-24T07:44:47.000Z

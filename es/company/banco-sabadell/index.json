@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/company/banco-sabadell/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/company/banco-sabadell/index.json",
   "description": "Sigue la actividad de Banco Sabadell en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-24T10:14:05.930Z",
+  "updatedAt": "2026-07-24T13:39:03.048Z",
   "aliases": [
     "BANCO DE SABADELL SA",
     "BANCO DE SABADELL, S.A.",
@@ -22,6 +22,16 @@
   ],
   "changes": [
     {
+      "title": "Discovered by Atlas",
+      "summary": "Banco Sabadell first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-07-24"
+    },
+    {
+      "title": "El año de transición de Banco Sabadell",
+      "summary": "Tras la finalización de la OPA frustrada de BBVA sobre Sabadell y las decisiones que el equipo gestor de esta entidad tomaron para conseguir triunfar (esencialmente la ventas de su filial británica y el recurso a aumentar de manera sustancial la remuneración a los accionistas que seguían apostando por la independencia.",
+      "date": "2026-07-24"
+    },
+    {
       "title": "Banco Sabadell gana 971 millones en medio año y destaca la recuperación del “ritmo comercial”",
       "summary": "Banco Sabadell ha alcanzado un beneficio neto de 971 millones de euros en el primer semestre de 2026, según la presentación de resultados que da a conocer este viernes. La entidad subraya que ha recuperado “ritmo comercial”, después de un frenazo entre enero y marzo , lo que ha permitido hacer crecer los ingresos del n.",
       "date": "2026-07-24"
@@ -32,11 +42,6 @@
       "date": "2026-07-24"
     },
     {
-      "title": "Discovered by Atlas",
-      "summary": "Banco Sabadell first entered the public knowledge record with source-backed evidence.",
-      "date": "2026-07-24"
-    },
-    {
       "title": "Sabadell rebota un 4% tras presentar resultados y reducir su capital en 14,97 millones",
       "summary": "Banco Sabadell se alzaba un 4% en Bolsa en los primeros compases de la apertura de mercado de este viernes tras comunicar que cerró el primer semestre del año con un beneficio neto de 971 millones de euros, un 0,5% menos que en el mismo periodo del año anterior , y aprobar una reducción de su capital social de 14,97 mi.",
       "date": "2026-07-24"
@@ -44,23 +49,11 @@
   ],
   "sources": [
     {
-      "title": "Banco Sabadell gana 971 millones en medio año y destaca la recuperación del “ritmo comercial”",
-      "url": "https://elpais.com/economia/2026-07-24/banco-sabadell-gana-971-millones-en-medio-ano-y-destaca-la-recuperacion-del-ritmo-comercial.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-24T05:10:03.000Z",
-      "sourceId": "lootura-es-cinco-dias"
-    },
-    {
-      "title": "Sabadell rebota un 4% tras presentar resultados y reducir su capital en 14,97 millones",
-      "url": "https://theobjective.com/economia/2026-07-24/sabadell-rebota-4-resultados-reducir-capital-14-millones/?utm_source=lootura.com",
-      "publishedAt": "2026-07-24T09:19:16.000Z",
-      "sourceId": "lootura-es-the-objective"
-    },
-    {
-      "title": "Banco Sabadell gana 971 millones en el primer semestre, un 0,5% menos",
-      "url": "https://theobjective.com/economia/banca/2026-07-24/banco-sabadell-millones/?utm_source=lootura.com",
-      "publishedAt": "2026-07-24T05:47:53.000Z",
-      "sourceId": "lootura-es-the-objective"
+      "title": "El año de transición de Banco Sabadell",
+      "url": "https://www.expansion.com/empresas/banca/2026/07/24/6a6346b6e5fdeac4678b4581.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-24T11:14:53.000Z",
+      "sourceId": "lootura-es-expansion"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 1
 }

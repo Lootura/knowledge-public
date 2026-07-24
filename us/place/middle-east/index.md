@@ -3,10 +3,22 @@
 > Follow Middle East, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-24T10:14:29.742Z
+- Updated: 2026-07-24T13:39:26.682Z
 - Canonical: https://atlas.lootura.com/us/place/middle-east
 
 ## Recent changes
+
+### Concerns over U.S. weapons getting depleted as U.S. and Iran continue to trade strikes
+
+As the U.S. builds up forces in the Middle East amid the ongoing war with Iran, there's concern among some officials that U.S. weapons may be getting depleted. It comes as President Trump has threatened new escalations and as the U.S. and Iran continue to trade strikes. Charlie D'Agata reports.
+
+Date: 2026-07-24
+
+### Some Trump officials worried about rapid use of interceptor, precision-guided weapons, sources say
+
+Some Trump administration officials are concerned about the rapid use of interceptor and precision-guided weapons in the Middle East, sources told CBS News. CBS News' Kathryn Watson has more.
+
+Date: 2026-07-24
 
 ### U.S.-Saudi Deal Prompts Fears of a Global Nuclear Arms Race
 
@@ -56,18 +68,8 @@ A dignified transfer was held Wednesday for the four U.S. Army soldiers killed i
 
 Date: 2026-07-23
 
-### U.S.-Saudi Deal Prompts Fears of a Nuclear Arms Race
-
-In Europe, Asia and the Middle East, countries seek nuclear capabilities to hedge against aggressive neighbors and a receding Washington, potentially creating a more freewheeling era.
-
-Date: 2026-07-23
-
-### Trump speaks at Georgia high school after attending dignified transfer
-
-President Trump spoke at a high school in Marietta, Georgia, on Wednesday, after attending a dignified transfer for four U.S. troops killed in the Middle East. CBS News congressional reporter Taurean Small has the latest.
-
-Date: 2026-07-22
-
 ## Sources
 
+- [Concerns over U.S. weapons getting depleted as U.S. and Iran continue to trade strikes](https://www.cbsnews.com/video/concerns-over-us-weapons-getting-depleted-as-us-and-iran-continue-to-trade-strikes/?utm_source=lootura.com) — 2026-07-24T13:17:11.000Z
+- [Some Trump officials worried about rapid use of interceptor, precision-guided weapons, sources say](https://www.cbsnews.com/video/some-trump-officials-worried-rapid-pace-interceptor-precision-guided-weapons-being-used/?utm_source=lootura.com) — 2026-07-24T13:18:54.000Z
 - [U.S.-Saudi Deal Prompts Fears of a Global Nuclear Arms Race](https://www.nytimes.com/2026/07/23/world/europe/us-saudi-deal-nuclear-hedging.html?utm_source=lootura.com) — 2026-07-23T15:28:15.000Z

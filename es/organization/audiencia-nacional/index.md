@@ -3,10 +3,22 @@
 > Sigue la actividad de Audiencia Nacional (España) en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-24T10:14:05.930Z
+- Actualizado: 2026-07-24T13:39:03.048Z
 - Canonical: https://atlas.lootura.com/es/organization/audiencia-nacional
 
 ## Cambios recientes
+
+### El juez del ‘caso Koldo’ pide a Hacienda información fiscal de las empresas investigadas
+
+El juez de la Audiencia Nacional que investiga el caso Koldo , Ismael Moreno, ha solicitado a la Agencia Tributaria que remita la «copia completa de los expedientes» de varias empresas «por los i mpuestos devengados en los ejercicios fiscales 2021, 2022 y 2023». Así lo ha hecho en un auto, al que ha tenido acceso Europ.
+
+Date: 2026-07-24
+
+### Implicaciones políticas, éticas y penales de las joyas que Zapatero asegura haber recibido por “cortesía”
+
+José Luis Rodríguez Zapatero anunció, tras ser imputado por un presunto delito de tráfico de influencias y ser registrado su despacho el pasado 19 de mayo, que pronto iba a dar explicaciones a los ciudadanos. No lo hizo y cuando, el 17 de junio, acudió a declarar ante el juez José Luis Calama en la Audiencia Nacional,.
+
+Date: 2026-07-24
 
 ### Anticorrupción pide ampliar la información de las joyas requisadas a Zapatero
 
@@ -17,12 +29,6 @@ Date: 2026-07-24
 ### El juez tumba la nulidad que Zapatero pedía del ‘caso Plus Ultra’ por los registros y el bloqueo de sus cuentas
 
 El juez de la Audiencia Nacional José Luis Calama ha inadmitido a trámite el incidente de nulidad de actuaciones que la defensa de José Luis Rodríguez Zapatero había presentado contra doce resoluciones dictadas en el caso Plus Ultra o caso Zapatero , entre ellas los autos que autorizaron la entrada y registro en la sed.
-
-Date: 2026-07-24
-
-### El juez del ‘caso Koldo’ pide a Hacienda información fiscal de las empresas investigadas
-
-El juez de la Audiencia Nacional que investiga el caso Koldo , Ismael Moreno, ha solicitado a la Agencia Tributaria que remita la «copia completa de los expedientes» de varias empresas «por los i mpuestos devengados en los ejercicios fiscales 2021, 2022 y 2023». Así lo ha hecho en un auto, al que ha tenido acceso Europ.
 
 Date: 2026-07-24
 
@@ -62,14 +68,7 @@ El expresidente del Gobierno José Luis Rodríguez Zapatero ha concedido este ju
 
 Date: 2026-07-23
 
-### Zapatero, sobre el rescate de Plus Ultra: “No es que no influyera, es que no hablé con nadie”
-
-La primera entrevista de José Luis Rodríguez Zapatero —en el programa Mañaneros de TVE— desde que la Audiencia Nacional le imputó por liderar una trama de tráfico de influencias ilícitas, ha dejado escasas novedades de impacto jurídico. El propio expresidente del Gobierno ha admitido durante la entrevista que, tras dos.
-
-Date: 2026-07-23
-
 ## Fuentes
 
-- [Anticorrupción pide ampliar la información de las joyas requisadas a Zapatero](https://www.abc.es/espana/anticorrupcion-pide-ampliar-informacion-joyas-requisadas-zapatero-20260724105723-nt.html?utm_source=lootura.com) — 2026-07-24T09:27:32.000Z
-- [El juez tumba la nulidad que Zapatero pedía del ‘caso Plus Ultra’ por los registros y el bloqueo de sus cuentas](https://okdiario.com/espana/juez-tumba-nulidad-que-zapatero-pedia-del-caso-plus-ultra-registros-bloqueo-sus-cuentas-19061110?utm_source=lootura.com) — 2026-07-24T10:08:00.000Z
+- [Implicaciones políticas, éticas y penales de las joyas que Zapatero asegura haber recibido por “cortesía”](https://elpais.com/espana/2026-07-24/implicaciones-politicas-eticas-y-penales-de-las-joyas-que-zapatero-asegura-haber-recibido-por-cortesia.html?utm_source=lootura.com) — 2026-07-24T03:30:01.000Z
 - [El juez del ‘caso Koldo’ pide a Hacienda información fiscal de las empresas investigadas](https://theobjective.com/espana/tribunales/2026-07-24/juez-caso-koldo-hacienda-empresas-investigadas/?utm_source=lootura.com) — 2026-07-24T10:09:09.000Z

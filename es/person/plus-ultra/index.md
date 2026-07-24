@@ -3,10 +3,22 @@
 > Sigue la actividad de Plus Ultra en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-24T10:14:05.930Z
+- Actualizado: 2026-07-24T13:39:03.048Z
 - Canonical: https://atlas.lootura.com/es/person/plus-ultra
 
 ## Cambios recientes
+
+### El juez llama a declarar a los directivos de Plus Ultra que aseguraron que Zapatero estaba detrás del rescate
+
+El juez José Luis Calama ha llamado a declarar este viernes al presidente de la aerolínea Plus Ultra , Julio Martínez Sola, y al consejero delegado, Roberto Roselli Miele, en la causa que investiga al expresidente José Luis Rodríguez Zapatero como miembro de una trama ilícita de influencias vinculada al rescate de la a.
+
+Date: 2026-07-24
+
+### El juez Calama cita a declarar a los directivos de Plus Ultra que implicaron a Zapatero en el rescate
+
+El magistrado José Luis Calama, instructor del caso Plus Ultra , da un nuevo paso en la investigación abierta contra el expresidente José Luis Rodríguez Zapatero. El juez ha decidido interrogar los próximos 7 y 8 de septiembre a Julio Martínez Sola, presidente de la aerolínea, y a su consejero delegado, Roberto Roselli.
+
+Date: 2026-07-24
 
 ### Manu Sánchez escucha las explicaciones de Zapatero en TVE y es tajante con el expresidente del Gobierno: «Este rojo ya no llora más por ti»
 
@@ -56,19 +68,7 @@ La portavoz del PP en el Congreso, Ester Muñoz, ha cargado contra el expresiden
 
 Date: 2026-07-23
 
-### Las siete claves de la entrevista de José Luis Rodríguez Zapatero en Mañaneros en vídeo
-
-El expresidente del Gobierno rompe su silencio sobre las acusaciones relacionadas con el caso Plus Ultra en una entrevista concedida al programa Mañaneros de TVE.
-
-Date: 2026-07-23
-
-### Zapatero, sobre el rescate de Plus Ultra: “No es que no influyera, es que no hablé con nadie”
-
-La primera entrevista de José Luis Rodríguez Zapatero —en el programa Mañaneros de TVE— desde que la Audiencia Nacional le imputó por liderar una trama de tráfico de influencias ilícitas, ha dejado escasas novedades de impacto jurídico a pesar de la enorme expectación generada desde el ámbito político, sobre todo, por.
-
-Date: 2026-07-23
-
 ## Fuentes
 
-- [Manu Sánchez escucha las explicaciones de Zapatero en TVE y es tajante con el expresidente del Gobierno: «Este rojo ya no llora más por ti»](https://www.abc.es/play/television/noticias/manu-sanchez-escucha-explicaciones-zapatero-tve-tajante-20260724105332-nt.html?utm_source=lootura.com) — 2026-07-24T08:53:32.000Z
-- [El juez tumba la nulidad que Zapatero pedía del ‘caso Plus Ultra’ por los registros y el bloqueo de sus cuentas](https://okdiario.com/espana/juez-tumba-nulidad-que-zapatero-pedia-del-caso-plus-ultra-registros-bloqueo-sus-cuentas-19061110?utm_source=lootura.com) — 2026-07-24T10:08:00.000Z
+- [El juez llama a declarar a los directivos de Plus Ultra que aseguraron que Zapatero estaba detrás del rescate](https://www.abc.es/espana/juez-llama-declarar-directivos-plus-ultra-aseguraron-20260724125923-nt.html?utm_source=lootura.com) — 2026-07-24T12:34:06.000Z
+- [El juez Calama cita a declarar a los directivos de Plus Ultra que implicaron a Zapatero en el rescate](https://elpais.com/espana/2026-07-24/el-juez-calama-cita-a-declarar-a-los-directivos-de-plus-ultra-que-implicaron-a-zapatero-en-el-rescate.html?utm_source=lootura.com) — 2026-07-24T13:22:29.000Z

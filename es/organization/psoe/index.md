@@ -3,10 +3,28 @@
 > Sigue la actividad de Partido Socialista Obrero Español en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-24T10:14:05.930Z
+- Actualizado: 2026-07-24T13:39:03.048Z
 - Canonical: https://atlas.lootura.com/es/organization/psoe
 
 ## Cambios recientes
+
+### El Gobierno plantea un castigo fiscal a las Socimis de viviendas
+
+Los socios de gobierno, PSOE y Sumar, vuelven a sacar a las Socimis a la palestra al plantear un castigo fiscal a aquellas empresas que tiene en su cartera viviendas y a las que...
+
+Date: 2026-07-24
+
+### Morant, implacable con el PP, victimiza a Zapatero pese a sus 8 mentiras en TVE: «Fue muy valiente»
+
+La secretaria general de los socialistas valencianos y ministra en el Gobierno del socialista Pedro Sánchez, Diana Morant, implacable cuando de pedir dimisiones y exigir responsabilidades al PP se trata, ha vuelto a victimizar a un representante del Partido Socialista inmerso en un procedimiento judicial, como en su dí.
+
+Date: 2026-07-24
+
+### El PSOE apunta a responsabilidades políticas por la gestión del incendio de Almería
+
+El PSOE-A ha apuntado a posibles responsabilidades políticas de los responsables de Emergencias en el Gobierno autonómico por «el vacío de tres horas» en la gestión del incendio de Los Gallardos , en Almería, y ha reclamado el apoyo para su petición de una comisión de investigación en el Parlamento andaluz. Los sociali.
+
+Date: 2026-07-24
 
 ### Más del 40% de votantes del PSOE no ve creíble a Zapatero y piensa que el Gobierno no debería apoyarle
 
@@ -50,24 +68,8 @@ El Congreso ha aprobado este jueves definitivamente la rebaja de los requisitos 
 
 Date: 2026-07-23
 
-### Sumar considera insuficientes las explicaciones de Zapatero sobre el caso Plus Ultra: "Sigue decepcionando"
-
-Sumar , socio de Gobierno del PSOE, considera que las explicaciones que ha dado este jueves el expresidente del Ejecutivo José Luis Rodríguez Zapatero sobre su imputación en el caso Plus Ultra "siguen siendo insuficientes" y que él, más allá de que haya o no delito, "sigue decepcionando". Tras la entrevista de Zapatero.
-
-Date: 2026-07-23
-
-### Abascal acusa a RTVE de «proteger y blanquear» a Zapatero por su entrevista
-
-El líder de Vox, Santiago Abascal , ha denunciado este jueves tras la entrevista del expresidente del Gobierno José Luis Rodríguez Zapatero este mediodía en RTVE que la corporación « ya no es una televisión pública, es una televisión al servicio únicamente de la mafia », refiriéndose al PSOE y al Gobierno de Pedro Sánc.
-
-Date: 2026-07-23
-
-### El Gobierno salva el escudo anticrisis por la guerra en Irán con rebajas fiscales en los carburantes hasta octubre
-
-El Ejecutivo ata los apoyos de sus socios habituales pese a las críticas de algunos como Podemos, que cuestionan las rebajas fiscales mientras energéticas como Repsol disparan sus beneficios PSOE y Sumar pactan que el decreto de vivienda incluya una prórroga de los alquileres hasta julio de 2028 El Gobierno ha salvado.
-
-Date: 2026-07-23
-
 ## Fuentes
 
-- [Gerardo Pisarello: "Comparto con Gabriel Rufián la urgencia de un frente amplio de izquierdas para frenar al neofascismo"](https://www.elmundo.es/cataluna/2026/07/23/6a6271fae85ece54368b458f.html?utm_source=lootura.com) — 2026-07-23T22:49:03.000Z
+- [El Gobierno plantea un castigo fiscal a las Socimis de viviendas](https://amp.expansion.com/inmobiliario/mercado/2026/07/24/6a633b58468aeb12608b458a.html?utm_source=lootura.com) — 2026-07-24T10:16:34.000Z
+- [Morant, implacable con el PP, victimiza a Zapatero pese a sus 8 mentiras en TVE: «Fue muy valiente»](https://okdiario.com/comunidad-valenciana/morant-implacable-pp-victimiza-zapatero-pese-sus-8-mentiras-tve-fue-muy-valiente-19061673?utm_source=lootura.com) — 2026-07-24T12:51:44.000Z
+- [El PSOE apunta a responsabilidades políticas por la gestión del incendio de Almería](https://theobjective.com/espana/politica/2026-07-24/psoe-responsabilidades-gestion-incendio/?utm_source=lootura.com) — 2026-07-24T12:08:14.000Z

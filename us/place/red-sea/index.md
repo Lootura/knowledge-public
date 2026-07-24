@@ -3,10 +3,22 @@
 > Follow Red Sea, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-24T10:14:29.742Z
+- Updated: 2026-07-24T13:39:26.682Z
 - Canonical: https://atlas.lootura.com/us/place/red-sea
 
 ## Recent changes
+
+### Trump Vows Retaliation Against Iran for Houthi Attack in Red Sea
+
+President Donald Trump is vowing retaliation against Iran, saying he is considering a “massive attack” after Houthi rebels struck two Saudi oil tankers in the Red Sea. The attack pushed international oil prices above $100 a barrel for the first time since May. NBC’s Richard Engel reports and Meet the Press moderator Kr.
+
+Date: 2026-07-24
+
+### Oil surges to $100 per barrel. And, Trump imposes a new round of tariffs
+
+Oil surged to $100 per barrel after Iran-backed Houthi rebels attacked two Saudi tankers in the Red Sea. And, President Trump overnight replaced expiring tariffs with a slew of new ones. (Image credit: Kevin Dietsch).
+
+Date: 2026-07-24
 
 ### Trump threatens 'major military punishment' after Houthi attacks on tankers in Red Sea
 
@@ -56,19 +68,7 @@ The Saudi authorities had yet to confirm the hits, which would be the first atta
 
 Date: 2026-07-23
 
-### See How Houthis Put the Red Sea at Risk as an Alternative Oil Route
-
-Saudi Arabia has diverted huge amounts of oil to the Red Sea since the Iran war began, but now the Iranian-backed Houthi militants say that they intend to block that route.
-
-Date: 2026-07-22
-
-### See How Houthis Put the Red Sea at Risk as an Alternative Oil Route
-
-Saudi Arabia has diverted huge amounts of oil to the Red Sea since the Iran war began, but now the Iranian-backed Houthi militants say that they intend to block that route.
-
-Date: 2026-07-22
-
 ## Sources
 
-- [Former U.S. diplomat breaks down Houthi attacks on Red Sea shipping](https://www.pbs.org/newshour/show/former-u-s-diplomat-breaks-down-houthi-attacks-on-red-sea-shipping?utm_source=lootura.com) — 2026-07-23T22:52:59.000Z
-- [Trump threatens 'major military punishment' after Houthi attacks on tankers in Red Sea](https://www.pbs.org/newshour/show/trump-threatens-major-military-punishment-after-houthi-attacks-on-tankers-in-red-sea?utm_source=lootura.com) — 2026-07-23T22:55:29.000Z
+- [Trump Vows Retaliation Against Iran for Houthi Attack in Red Sea](https://www.today.com/video/trump-vows-retaliation-against-iran-for-houthi-attack-in-red-sea-267213893508?utm_source=lootura.com) — 2026-07-24T11:19:38.000Z
+- [Oil surges to $100 per barrel. And, Trump imposes a new round of tariffs](https://www.npr.org/2026/07/24/g-s1-135418/up-first-newsletter-iran-war-oil-prices-tariffs-wisconsin-corey-ruiz?utm_source=lootura.com) — 2026-07-24T11:37:58.000Z

@@ -1,0 +1,44 @@
+# The Secret Service
+
+> Follow The Secret Service, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
+
+- Type: person
+- Updated: 2026-07-24T13:39:26.682Z
+- Canonical: https://atlas.lootura.com/us/person/the-secret-service
+
+## Recent changes
+
+### Member of Vance's Secret Service detail under investigation for leaking
+
+The Secret Service said a member of Vice President JD Vance's detail is under investigation for "compromising operational and information security.".
+
+Date: 2026-07-24
+
+### White House Correspondents’ Dinner Returns Under High Security
+
+President Donald Trump is gearing up to attend the rescheduled White House Correspondents Dinner Friday night, after the initial event back in April was targeted by a gunman. The Secret Service says it’s confident in the security plan for the dinner while also acknowledging an alarming rise in threats. NBC’s Garrett Ha.
+
+Date: 2026-07-24
+
+### Discovered by Atlas
+
+The Secret Service first entered the public knowledge record with source-backed evidence.
+
+Date: 2026-07-23
+
+### Secret Service warns of uptick in threats ahead of rescheduled White House Correspondents' Dinner
+
+The Secret Service is warning about a rise in threats ahead of the rescheduled White House Correspondents' Dinner, which is set for Friday. CBS News' Nicole Sganga has the latest.
+
+Date: 2026-07-23
+
+### Secret Service Agent in JD Vance’s Detail Under Investigation
+
+The Secret Service said that a member of Vice President JD Vance’s team was accused of “compromising operational and information security.”.
+
+Date: 2026-07-23
+
+## Sources
+
+- [Member of Vance's Secret Service detail under investigation for leaking](https://www.cbsnews.com/news/jd-vance-secret-service-detail-leak-investigation/?utm_source=lootura.com) — 2026-07-24T00:50:42.000Z
+- [White House Correspondents’ Dinner Returns Under High Security](https://www.today.com/video/trump-to-attend-correspondents-dinner-under-high-security-267214917522?utm_source=lootura.com) — 2026-07-24T11:20:35.000Z

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/red-sea/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/red-sea/index.json",
   "description": "Follow Red Sea, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-24T10:14:29.742Z",
+  "updatedAt": "2026-07-24T13:39:26.682Z",
   "aliases": [
     "Al Baḩr al Aḩmar",
     "Arabian Gulf",
@@ -17,6 +17,16 @@
     "the Red Sea"
   ],
   "changes": [
+    {
+      "title": "Trump Vows Retaliation Against Iran for Houthi Attack in Red Sea",
+      "summary": "President Donald Trump is vowing retaliation against Iran, saying he is considering a “massive attack” after Houthi rebels struck two Saudi oil tankers in the Red Sea. The attack pushed international oil prices above $100 a barrel for the first time since May. NBC’s Richard Engel reports and Meet the Press moderator Kr.",
+      "date": "2026-07-24"
+    },
+    {
+      "title": "Oil surges to $100 per barrel. And, Trump imposes a new round of tariffs",
+      "summary": "Oil surged to $100 per barrel after Iran-backed Houthi rebels attacked two Saudi tankers in the Red Sea. And, President Trump overnight replaced expiring tariffs with a slew of new ones. (Image credit: Kevin Dietsch).",
+      "date": "2026-07-24"
+    },
     {
       "title": "Trump threatens 'major military punishment' after Houthi attacks on tankers in Red Sea",
       "summary": "International oil prices topped $100 a barrel after Houthi rebels in Yemen claimed they attacked two oil tankers in the Red Sea, raising new fears of disruptions to global energy supplies. In response, President Trump warned that if the Houthis attack another ship, the U.S. would inflict \"major military punishment.\" He.",
@@ -56,31 +66,21 @@
       "title": "Houthis Claim Strikes on 2 Saudi Oil Tankers in Red Sea",
       "summary": "The Saudi authorities had yet to confirm the hits, which would be the first attacks since the Iranian-backed Yemeni group announced a blockade on Saudi Arabia.",
       "date": "2026-07-23"
-    },
-    {
-      "title": "See How Houthis Put the Red Sea at Risk as an Alternative Oil Route",
-      "summary": "Saudi Arabia has diverted huge amounts of oil to the Red Sea since the Iran war began, but now the Iranian-backed Houthi militants say that they intend to block that route.",
-      "date": "2026-07-22"
-    },
-    {
-      "title": "See How Houthis Put the Red Sea at Risk as an Alternative Oil Route",
-      "summary": "Saudi Arabia has diverted huge amounts of oil to the Red Sea since the Iran war began, but now the Iranian-backed Houthi militants say that they intend to block that route.",
-      "date": "2026-07-22"
     }
   ],
   "sources": [
     {
-      "title": "Former U.S. diplomat breaks down Houthi attacks on Red Sea shipping",
-      "url": "https://www.pbs.org/newshour/show/former-u-s-diplomat-breaks-down-houthi-attacks-on-red-sea-shipping?utm_source=lootura.com",
-      "publishedAt": "2026-07-23T22:52:59.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
+      "title": "Trump Vows Retaliation Against Iran for Houthi Attack in Red Sea",
+      "url": "https://www.today.com/video/trump-vows-retaliation-against-iran-for-houthi-attack-in-red-sea-267213893508?utm_source=lootura.com",
+      "publishedAt": "2026-07-24T11:19:38.000Z",
+      "sourceId": "lootura-us-nbc-news-politics"
     },
     {
-      "title": "Trump threatens 'major military punishment' after Houthi attacks on tankers in Red Sea",
-      "url": "https://www.pbs.org/newshour/show/trump-threatens-major-military-punishment-after-houthi-attacks-on-tankers-in-red-sea?utm_source=lootura.com",
-      "publishedAt": "2026-07-23T22:55:29.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
+      "title": "Oil surges to $100 per barrel. And, Trump imposes a new round of tariffs",
+      "url": "https://www.npr.org/2026/07/24/g-s1-135418/up-first-newsletter-iran-war-oil-prices-tariffs-wisconsin-corey-ruiz?utm_source=lootura.com",
+      "publishedAt": "2026-07-24T11:37:58.000Z",
+      "sourceId": "lootura-us-npr-world"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 2
 }

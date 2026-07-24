@@ -3,10 +3,16 @@
 > Sigue la actividad de China en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-24T10:14:05.930Z
+- Actualizado: 2026-07-24T13:39:03.048Z
 - Canonical: https://atlas.lootura.com/es/place/china
 
 ## Cambios recientes
+
+### Xpeng L03: el SUV futurista que queríamos, con un precio y una autonomía que decepciona
+
+Xpeng ha llevado a Europa uno de sus lanzamientos más esperados del año, el Xpeng L03 , la versión SUV del Mona M03 con el que la marca arrasó en el mercado chino. La fórmula que le funcionó allí es conocida: mucha tecnología a un precio muy ajustado. La compañía confía tanto en repetir ese éxito fuera de China que ha.
+
+Date: 2026-07-24
 
 ### Ocultan la muerte de una niña en China tras probar en ella una terapia de edición genética
 
@@ -62,12 +68,6 @@ Alibaba Group es un consorcio privado chino dedicado principalmente al comercio 
 
 Date: 2026-07-20
 
-### Soberanía a plazos
-
-China ha puesto a los robots a trabajar y a los hombres a esperar en la puerta. En Kunshan, corazón electrónico del país, las máquinas aprietan tornillos, clasifican piezas y no piden vacaciones; fuera, los obreros hacen cola por un empleo que se va volviendo reliquia. Pekín lo llama « modernización ». Occidente, a vec.
-
-Date: 2026-07-20
-
 ## Fuentes
 
-- [Ocultan la muerte de una niña en China tras probar en ella una terapia de edición genética](https://www.abc.es/salud/ocultan-muerte-nina-china-tras-probar-terapia-20260724114332-nt_amp.html?utm_source=lootura.com) — 2026-07-24T09:43:32.000Z
+- [Xpeng L03: el SUV futurista que queríamos, con un precio y una autonomía que decepciona](https://hipertextual.com/movilidad/xpeng-l03-suv-electrico-futurista-decepcion/?utm_source=lootura.com) — 2026-07-24T13:21:26.000Z

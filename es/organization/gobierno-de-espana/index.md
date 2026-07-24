@@ -3,10 +3,16 @@
 > Sigue la actividad de Gobierno de España en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-24T06:23:11.193Z
+- Actualizado: 2026-07-24T13:39:03.048Z
 - Canonical: https://atlas.lootura.com/es/organization/gobierno-de-espana
 
 ## Cambios recientes
+
+### Sánchez pide ayuda a Bruselas con los incendios y Grecia e Italia envían cuatro aviones de extinción
+
+La Comisión Europea ha explicado este viernes que recibió el jueves por la noche la petición por parte del Gobierno español de la activación del Mecanismo de Protección Civil de la Unión Europea, solicitando cuatro aviones. Fuentes del Gobierno confirmaban esta mañana que Grecia ya había ofrecido dos Canadair CL-415. E.
+
+Date: 2026-07-24
 
 ### El Gobierno declara la emergencia nacional en la Comunidad de Madrid y en Ávila por cuatro incendios
 
@@ -62,12 +68,6 @@ Philippe Diallo, presidente de la Federación Francesa de Fútbol (FFF), critic�
 
 Date: 2026-07-13
 
-### Mariano Rajoy sobre los que le tachan de racista: "No me voy a poner al nivel de ciertos miembros del Gobierno español"
-
-El ex presidente español transmite a EL MUNDO que no va a responder a los insultos escritos por los miembros del Ejecutivo en redes sociales tachándole de «zoquete post franquista corrupto» Leer.
-
-Date: 2026-07-12
-
 ## Fuentes
 
-No public source links.
+- [Sánchez pide ayuda a Bruselas con los incendios y Grecia e Italia envían cuatro aviones de extinción](https://www.elconfidencial.com/espana/2026-07-24/incendios-espana-aviones-bruselas-1tps_4395535/?utm_source=lootura.com) — 2026-07-24T11:34:00.000Z

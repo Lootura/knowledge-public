@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/iran/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/iran/index.json",
   "description": "Follow Iran, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-24T10:14:29.742Z",
+  "updatedAt": "2026-07-24T13:39:26.682Z",
   "aliases": [
     "IRI",
     "Islamic Rep. Iran",
@@ -52,19 +52,19 @@
       "date": "2026-07-24"
     },
     {
-      "title": "Brent Crude Oil Prices Top $100 as Conflict With Iran Drags On",
-      "summary": "Stocks in Asia were down following a sell-off in the U.S. markets over soaring oil prices, rising borrowing costs and worries about the technology industry.",
+      "title": "Concerns over U.S. weapons getting depleted as U.S. and Iran continue to trade strikes",
+      "summary": "As the U.S. builds up forces in the Middle East amid the ongoing war with Iran, there's concern among some officials that U.S. weapons may be getting depleted. It comes as President Trump has threatened new escalations and as the U.S. and Iran continue to trade strikes. Charlie D'Agata reports.",
       "date": "2026-07-24"
     },
     {
-      "title": "Even as War Rages, Investors Bet Oil Will Be Cheaper in a Few Months",
-      "summary": "Futures contracts reflect an expectation that low inventories and midterm elections are likely to push the Trump administration to try to ease tensions with Iran.",
-      "date": "2026-07-23"
+      "title": "Trump Vows Retaliation Against Iran for Houthi Attack in Red Sea",
+      "summary": "President Donald Trump is vowing retaliation against Iran, saying he is considering a “massive attack” after Houthi rebels struck two Saudi oil tankers in the Red Sea. The attack pushed international oil prices above $100 a barrel for the first time since May. NBC’s Richard Engel reports and Meet the Press moderator Kr.",
+      "date": "2026-07-24"
     },
     {
-      "title": "For a 2nd time, House approves resolution to end the war in Iran in a rebuke to Trump",
-      "summary": "Four Republicans joined Democrats to approve the measure. And while it is not legally binding, the resolution represents growing frustration inside Congress over the war. (Image credit: J. Scott Applewhite).",
-      "date": "2026-07-23"
+      "title": "Oil surges to $100 per barrel. And, Trump imposes a new round of tariffs",
+      "summary": "Oil surged to $100 per barrel after Iran-backed Houthi rebels attacked two Saudi tankers in the Red Sea. And, President Trump overnight replaced expiring tariffs with a slew of new ones. (Image credit: Kevin Dietsch).",
+      "date": "2026-07-24"
     }
   ],
   "sources": [
@@ -75,16 +75,28 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
+      "title": "Concerns over U.S. weapons getting depleted as U.S. and Iran continue to trade strikes",
+      "url": "https://www.cbsnews.com/video/concerns-over-us-weapons-getting-depleted-as-us-and-iran-continue-to-trade-strikes/?utm_source=lootura.com",
+      "publishedAt": "2026-07-24T13:17:11.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
+    {
+      "title": "Trump Vows Retaliation Against Iran for Houthi Attack in Red Sea",
+      "url": "https://www.today.com/video/trump-vows-retaliation-against-iran-for-houthi-attack-in-red-sea-267213893508?utm_source=lootura.com",
+      "publishedAt": "2026-07-24T11:19:38.000Z",
+      "sourceId": "lootura-us-nbc-news-politics"
+    },
+    {
       "title": "Morning news brief",
       "url": "https://www.npr.org/2026/07/24/nx-s1-5895986/morning-news-brief?utm_source=lootura.com",
       "publishedAt": "2026-07-24T08:45:17.000Z",
       "sourceId": "lootura-us-npr"
     },
     {
-      "title": "For a 2nd time, House approves resolution to end the war in Iran in a rebuke to Trump",
-      "url": "https://www.npr.org/2026/07/23/nx-s1-5904515/congress-iran-war-powers-vote?utm_source=lootura.com",
-      "publishedAt": "2026-07-23T17:35:02.000Z",
-      "sourceId": "lootura-us-npr-politics"
+      "title": "Oil surges to $100 per barrel. And, Trump imposes a new round of tariffs",
+      "url": "https://www.npr.org/2026/07/24/g-s1-135418/up-first-newsletter-iran-war-oil-prices-tariffs-wisconsin-corey-ruiz?utm_source=lootura.com",
+      "publishedAt": "2026-07-24T11:37:58.000Z",
+      "sourceId": "lootura-us-npr-world"
     },
     {
       "title": "A Fallen Soldier’s Angst, Love and Longing to Return Home From the Iran War",
@@ -115,19 +127,7 @@
       "url": "https://www.nytimes.com/2026/07/24/business/iran-war-tariffs-economy.html?utm_source=lootura.com",
       "publishedAt": "2026-07-24T09:05:22.000Z",
       "sourceId": "lootura-us-the-new-york-times"
-    },
-    {
-      "title": "Number of U.S. Troop Deaths in Iran War Appears Lower on Pentagon Website",
-      "url": "https://www.nytimes.com/2026/07/23/us/politics/iran-troop-deaths.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-24T00:15:18.000Z",
-      "sourceId": "lootura-us-the-new-york-times-politics"
-    },
-    {
-      "title": "‘We’re Trapped in Hell’: Iranians Say Life Is Put On Hold by Months of War",
-      "url": "https://www.nytimes.com/2026/07/24/world/middleeast/iran-war-cycle.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-24T09:04:59.000Z",
-      "sourceId": "lootura-us-the-new-york-times-world"
     }
   ],
-  "evidenceCount": 10
+  "evidenceCount": 12
 }

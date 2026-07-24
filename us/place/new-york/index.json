@@ -84,13 +84,6 @@
       "date": "2026-07-22"
     }
   ],
-  "sources": [
-    {
-      "title": "Stabbings near New York City’s Central Park",
-      "url": "https://www.nbcnews.com/nightly-news/video/stabbings-near-new-york-city-s-central-park-267194437527?utm_source=lootura.com",
-      "publishedAt": "2026-07-23T23:05:19.000Z",
-      "sourceId": "lootura-us-nbc-news"
-    }
-  ],
-  "evidenceCount": 1
+  "sources": [],
+  "evidenceCount": 0
 }

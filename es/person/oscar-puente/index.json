@@ -1,0 +1,59 @@
+{
+  "id": "es-oscar-puente",
+  "name": "Óscar Puente",
+  "type": "person",
+  "locale": "es",
+  "canonicalPath": "/es/person/oscar-puente",
+  "canonicalUrl": "https://atlas.lootura.com/es/person/oscar-puente",
+  "markdownUrl": "https://atlas.lootura.com/es/person/oscar-puente/index.md",
+  "jsonUrl": "https://atlas.lootura.com/es/person/oscar-puente/index.json",
+  "description": "Sigue la actividad de Óscar Puente en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
+  "updatedAt": "2026-07-24T13:39:03.048Z",
+  "aliases": [
+    "Óscar Puente Santiago",
+    "Oscar Puente Santiago"
+  ],
+  "changes": [
+    {
+      "title": "Puente responde a las críticas de Ayuso: \"Si hay una mamarracha en España, esa eres tú\"",
+      "summary": "El ministro de Transportes, Óscar Puente , ha llamado \"mamarracha\" a la presidenta de la Comunidad de Madrid, Isabel Díaz Ayuso , después de que la mandataria autonómica haya censurado su actitud, tras arremeter éste contra los ejecutivos regionales del PP , y loara la coordinación entre administraciones frente a los \".",
+      "date": "2026-07-24"
+    },
+    {
+      "title": "Choque entre Puente y Ayuso: “Si hay una mamarracha en España, esa eres tú”",
+      "summary": "Choque entre el ministro de Transportes y Movilidad Sostenible, Óscar Puente, y la presidenta de la Comunidad de Madrid, Isabel Díaz Ayuso, en plena emergencia nacional por los incendios que asolan Madrid y Ávila . Puente por la mañana ha acusado a las comunidades autónomas gobernadas por el PP de reducir impuestos y r.",
+      "date": "2026-07-24"
+    },
+    {
+      "title": "Puente ataca de nuevo a Ayuso: «Si hay una mamarracha en España, esa eres tú»",
+      "summary": "El ministro de Transportes, Óscar Puente , ha llamado « mamarracha » a la presidenta de la Comunidad de Madrid, Isabel Díaz Ayuso , después de que la mandataria autonómica haya censurado su actitud, tras arremeter este contra los ejecutivos regionales del PP, y loara la coordinación entre administraciones frente a los.",
+      "date": "2026-07-24"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Óscar Puente first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-07-24"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Puente responde a las críticas de Ayuso: \"Si hay una mamarracha en España, esa eres tú\"",
+      "url": "https://www.elconfidencial.com/espana/2026-07-24/ayuso-puente-incendios-madrid-1tps_4395604/?utm_source=lootura.com",
+      "publishedAt": "2026-07-24T12:52:00.000Z",
+      "sourceId": "lootura-es-el-confidencial"
+    },
+    {
+      "title": "Choque entre Puente y Ayuso: “Si hay una mamarracha en España, esa eres tú”",
+      "url": "https://www.lavanguardia.com/politica/20260724/11600279/puente-acusa-pp-recortar-servicios-pedir-les-resuelvan-papeleta.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-24T11:10:37.000Z",
+      "sourceId": "lootura-es-la-vanguardia"
+    },
+    {
+      "title": "Puente ataca de nuevo a Ayuso: «Si hay una mamarracha en España, esa eres tú»",
+      "url": "https://theobjective.com/espana/politica/2026-07-24/puente-ayuso-llama-mamarracha/?utm_source=lootura.com",
+      "publishedAt": "2026-07-24T13:20:24.000Z",
+      "sourceId": "lootura-es-the-objective"
+    }
+  ],
+  "evidenceCount": 3
+}
