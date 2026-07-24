@@ -3,7 +3,7 @@
 > Follow United States, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-24T02:28:29.719Z
+- Updated: 2026-07-24T06:23:31.535Z
 - Canonical: https://atlas.lootura.com/us/place/united-states
 
 ## Recent changes
@@ -13,12 +13,6 @@
 We celebrate the United States ahead of its 250th anniversary with stories about American heroes and pastimes. The founder of e.l.f. Cosmetics shares how he made a massive life change to become a Catholic priest.
 
 Date: 2026-07-27
-
-### Trump imposes new tariffs on dozens of countries, citing forced labor concerns
-
-The Trump administration will impose tariffs of up to 12.5% on goods from 60 U.S. trading partners accused of failing to crack down on forced labor, extending the administration's tariffs on much of the world.
-
-Date: 2026-07-24
 
 ### Rapid pace of interceptor and precision-guided weapons use worries Trump admin.
 
@@ -56,27 +50,33 @@ Three military officials and a Pentagon spokesman gave conflicting explanations 
 
 Date: 2026-07-24
 
-### The White House pushes healthy eating. It cut a landmark nutrition education program
+### Trump administration imposes new tariffs on dozens of countries, citing forced labor concerns
 
-Nutrition advocates and public health experts are mystified by the decision to eliminate SNAP-Ed, given the Trump administration's embrace of the Make America Healthy Again agenda. (Image credit: Rachel Wisniewski for NPR).
+The Trump administration will impose tariffs of up to 12.5% on goods from 60 U.S. trading partners accused of failing to crack down on forced labor, extending the administration's tariffs on much of the world.
 
-Date: 2026-07-23
+Date: 2026-07-24
 
-### U.S. Employers Forced to Fire Thousands of Immigrants, and a Showdown over Peptides
+### Rubio says U.S. is ready to help end war in Ukraine but no quick deal ahead
 
-Plus, America says no thanks to salad.
+Secretary of State Marco Rubio, who met with his Russian counterpart Sergey Lavrov, said that President Trump was committed to the work "if conditions and factors have changed to make that possible." (Image credit: BRENDAN SMIALOWSKI).
 
-Date: 2026-07-23
+Date: 2026-07-24
+
+### Brent Crude Oil Prices Top $100 as Conflict With Iran Drags On
+
+Stocks in Asia were down following a sell-off in the U.S. markets over soaring oil prices, rising borrowing costs and worries about the technology industry.
+
+Date: 2026-07-24
 
 ## Sources
 
-- [Trump imposes new tariffs on dozens of countries, citing forced labor concerns](https://www.cbsnews.com/news/trump-tariffs-dozens-countries-forced-labor/?utm_source=lootura.com) — 2026-07-24T00:49:51.000Z
 - [Rapid pace of interceptor and precision-guided weapons use worries Trump admin.](https://www.cbsnews.com/news/interceptor-precision-guided-weapons-use-trump-administration/?utm_source=lootura.com) — 2026-07-24T00:47:24.000Z
 - [The Uplift: The American Dream](https://www.cbsnews.com/video/the-uplift-the-american-dream/?utm_source=lootura.com) — 2026-07-27T10:30:00.000Z
+- [Trump administration imposes new tariffs on dozens of countries, citing forced labor concerns](https://www.cbsnews.com/news/trump-tariffs-dozens-countries-forced-labor/?utm_source=lootura.com) — 2026-07-24T05:02:49.000Z
 - [U.S. attorney who served for less than an hour suing Trump administration over firing](https://www.cbsnews.com/video/us-attorney-who-served-less-than-hour-suing-trump-administration-over-firing/?utm_source=lootura.com) — 2026-07-24T00:26:55.000Z
 - [Trump fires U.S. attorney in Washington on heels of court appointment](https://www.cbsnews.com/news/trump-fires-roger-rogoff-u-s-attorney-seattle-washington/?utm_source=lootura.com) — 2026-07-24T00:35:47.000Z
-- [How does Make America Healthy Again hold up against scientific scrutiny?](https://www.nature.com/articles/d41586-026-02024-3?utm_source=lootura.com) — 2026-07-24T02:28:34.437Z
+- [How does Make America Healthy Again hold up against scientific scrutiny?](https://www.nature.com/articles/d41586-026-02024-3?utm_source=lootura.com) — 2026-07-24T06:23:35.615Z
 - [The White House pushes healthy eating. It cut a landmark nutrition education program](https://www.npr.org/2026/07/23/nx-s1-5896280/snap-ed-healthy-eating-cuts-maha?utm_source=lootura.com) — 2026-07-23T09:00:00.000Z
+- [Rubio says U.S. is ready to help end war in Ukraine but no quick deal ahead](https://www.npr.org/2026/07/24/g-s1-135405/rubio-ukraine-russia-war?utm_source=lootura.com) — 2026-07-24T05:45:47.000Z
 - [U.S. health officials investigate new outbreak of parasite cyclospora](https://www.pbs.org/newshour/health/u-s-health-officials-investigate-new-outbreak-of-parasite-cyclospora?utm_source=lootura.com) — 2026-07-23T19:42:10.000Z
 - [Yemen's Houthis attack Saudi tankers in the Red Sea, threatening to widen Iran war](https://www.pbs.org/newshour/world/yemens-houthis-attack-saudi-tankers-in-the-red-sea-threatening-to-widen-iran-war?utm_source=lootura.com) — 2026-07-23T17:26:28.000Z
-- [U.S. filings for unemployment aid fall to 187,000 last week, fewest since 1969](https://www.pbs.org/newshour/economy/u-s-filings-for-unemployment-aid-fall-to-187000-last-week-fewest-since-1969?utm_source=lootura.com) — 2026-07-23T20:08:39.000Z

@@ -70,4 +70,4 @@ Date: 2026-07-19
 
 ## Fuentes
 
-- [El peluquero que cambió el look a Ferrán Torres: «El secreto es el aceite de romero»](https://www.abc.es/summum/estilo/belleza/nando-diaz-peluquero-seleccion-espanola-ferran-torres-20260723150116-nt.html?utm_source=lootura.com) — 2026-07-24T00:49:21.000Z
+No public source links.

@@ -3,7 +3,7 @@
 > Sigue la actividad de Artificial intelligence en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: topic
-- Actualizado: 2026-07-24T02:28:09.478Z
+- Actualizado: 2026-07-24T06:23:11.193Z
 - Canonical: https://atlas.lootura.com/es/topic/artificial-intelligence
 
 ## Cambios recientes
@@ -46,4 +46,4 @@ Date: 2026-07-10
 
 ## Fuentes
 
-- [Así escapó una inteligencia artificial para robar las respuestas de su propio examen: «El riesgo está en que cumplan órdenes a cualquier precio»](https://www.diariovasco.com/egia-guztia/inteligencia-artificial/escapo-inteligencia-artificial-robar-respuestas-propio-examen-20260723185353-nt_amp.html?utm_source=lootura.com) — 2026-07-23T16:53:53.000Z
+- [Triumph lanza la Speed Twin 1200 TFC, una edición premium limitada de 750 unidades](https://www.abc.es/motor/motos/triumph-lanza-speed-twin-1200-tfc-edicion-20260721224144-nt.html?utm_source=lootura.com) — 2026-07-24T04:57:51.000Z

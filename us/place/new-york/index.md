@@ -3,7 +3,7 @@
 > Follow New York City, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-24T02:28:29.719Z
+- Updated: 2026-07-24T06:23:31.535Z
 - Canonical: https://atlas.lootura.com/us/place/new-york
 
 ## Recent changes
@@ -72,4 +72,3 @@ Date: 2026-07-22
 
 - [NYPD says dozens rescued from human trafficking during World Cup](https://www.cbsnews.com/news/nypd-says-dozens-rescued-from-human-trafficking-during-world-cup/?utm_source=lootura.com) — 2026-07-23T17:17:28.000Z
 - [Stabbings near New York City’s Central Park](https://www.nbcnews.com/nightly-news/video/stabbings-near-new-york-city-s-central-park-267194437527?utm_source=lootura.com) — 2026-07-23T23:05:19.000Z
-- [New York Gov. Kathy Hochul explains why she signed the first statewide moratorium on data centers](https://www.nbcnews.com/politics/politics-news/new-york-gov-kathy-hochul-explains-signed-first-statewide-moratorium-d-rcna588832?utm_source=lootura.com) — 2026-07-23T22:19:33.000Z

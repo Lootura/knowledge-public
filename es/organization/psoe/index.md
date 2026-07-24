@@ -3,10 +3,28 @@
 > Sigue la actividad de Partido Socialista Obrero Español en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-24T02:28:09.478Z
+- Actualizado: 2026-07-24T06:23:11.193Z
 - Canonical: https://atlas.lootura.com/es/organization/psoe
 
 ## Cambios recientes
+
+### Más del 40% de votantes del PSOE no ve creíble a Zapatero y piensa que el Gobierno no debería apoyarle
+
+Las explicaciones ofrecidas por el expresidente José Luis Rodríguez Zapatero tras su imputación no han calado entre el electorado socialista, que en gran medida —un 45,3%— considera que el Gobierno debería dejar de apoyarle . Así lo revela la última encuesta realizada por el Instituto DYM para 20minutos , realizada ant.
+
+Date: 2026-07-24
+
+### La 'popular' Ana Mestre se estrena como presidenta del Parlamento andaluz con un plantón del PSOE de María Jesús Montero: "Esto no va ser un ring"
+
+Tras pedir silencio en múltiples ocasiones a los diputados socialistas y negarles la palabra, el grupo que lidera Montero abandona el pleno Leer.
+
+Date: 2026-07-23
+
+### "Decepción" en el PSOE con Zapatero tras su entrevista: "No lo hemos entendido, no ha aclarado nada de las joyas"
+
+La Moncloa y Ferraz cierran filas con el ex presidente, que no convence a todos en el partido Leer.
+
+Date: 2026-07-23
 
 ### La cúpula del PSOE da por buenas las explicaciones de Zapatero: "Mantenemos nuestro apoyo"
 
@@ -20,21 +38,9 @@ La portavoz del PP en el Congreso, Ester Muñoz, ha cargado contra el expresiden
 
 Date: 2026-07-23
 
-### La 'popular' Ana Mestre se estrena como presidenta del Parlamento andaluz con un plantón del PSOE de María Jesús Montero: "Esto no va ser un ring"
-
-Tras pedir silencio en múltiples ocasiones a los diputados socialistas y negarles la palabra, el grupo que lidera Montero abandona el pleno Leer.
-
-Date: 2026-07-23
-
 ### El Gobierno y el PSOE cierran filas con Zapatero y aseguran que probará su inocencia
 
 El Gobierno y la dirección del PSOE reiteran su respaldo a José Luis Rodríguez Zapatero tras las explicaciones que el expresidente ha dado en RTVE, donde ha defendido su inocencia sin aportar ninguna información nueva a la que ya había declarado a mediados de junio ante el juez José Luis Calama de la Audiencia Nacional.
-
-Date: 2026-07-23
-
-### "Decepción" en el PSOE con Zapatero tras su entrevista: "No lo hemos entendido, no ha aclarado nada de las joyas"
-
-La Moncloa y Ferraz cierran filas con el ex presidente, que no convence a todos en el partido Leer.
 
 Date: 2026-07-23
 
@@ -62,18 +68,8 @@ El Ejecutivo ata los apoyos de sus socios habituales pese a las críticas de alg
 
 Date: 2026-07-23
 
-### El PP exige la dimisión de Morant por comparar un gobierno de Feijóo con Hitler: "Está en una situación desesperada"
-
-El secretario general del PP, Miguel Tellado , ha reclamado este jueves la dimisión inmediata de la ministra de Ciencia y líder del PSPV-PSOE, Diana Morant , después de que esta comparase un eventual Gobierno presidido por Alberto Núñez Feijóo con el “criminal” Hitler . A su entender, esas palabras definen tanto a la d.
-
-Date: 2026-07-23
-
 ## Fuentes
 
-- [Gerardo Pisarello: "Comparto con Gabriel Rufián la urgencia de un frente amplio de izquierdas para frenar al neofascismo"](https://www.elmundo.es/cataluna/2026/07/23/6a6271fae85ece54368b458f.html?utm_source=lootura.com) — 2026-07-23T22:49:03.000Z
+- [Más del 40% de votantes del PSOE no ve creíble a Zapatero y piensa que el Gobierno no debería apoyarle](https://www.20minutos.es/nacional/mas-40-votantes-socialistas-no-ve-creible-zapatero-piensa-que-gobierno-no-deberia-apoyarle_7017831_0.html?utm_source=lootura.com) — 2026-07-24T03:00:00.000Z
 - ["Decepción" en el PSOE con Zapatero tras su entrevista: "No lo hemos entendido, no ha aclarado nada de las joyas"](https://www.elmundo.es/espana/2026/07/23/6a625f38e4d4d84c798b4596.html?utm_source=lootura.com) — 2026-07-23T20:48:53.000Z
 - [La 'popular' Ana Mestre se estrena como presidenta del Parlamento andaluz con un plantón del PSOE de María Jesús Montero: "Esto no va ser un ring"](https://www.elmundo.es/andalucia/2026/07/23/6a61ca2efc6c83037c8b4579.html?utm_source=lootura.com) — 2026-07-23T20:10:05.000Z
-- [La cúpula del PSOE da por buenas las explicaciones de Zapatero: "Mantenemos nuestro apoyo"](https://amp.elmundo.es/espana/2026/07/23/6a6202be21efa0605a8b45ba.html?utm_source=lootura.com) — 2026-07-23T12:02:40.000Z
-- [Última hora de la actualidad política, en directo | El PSOE mantiene “exactamente la misma posición” en su defensa del exjefe de Gobierno](https://elpais.com/espana/2026-07-23/ultima-hora-de-la-actualidad-politica-en-directo.html?utm_source=lootura.com) — 2026-07-23T13:37:20.000Z
-- [El Gobierno y el PSOE cierran filas con Zapatero y aseguran que probará su inocencia](https://elpais.com/espana/2026-07-23/el-gobierno-y-el-psoe-cierran-filas-con-zapatero-y-aseguran-que-probara-su-inocencia.html?utm_source=lootura.com) — 2026-07-23T12:48:42.000Z
-- [El Congreso rebaja los requisitos para formar grupo propio a petición de los nacionalistas](https://theobjective.com/espana/politica/2026-07-24/congreso-requisitos-grupo-propio-nacionalistas/?utm_source=lootura.com) — 2026-07-23T22:21:25.000Z

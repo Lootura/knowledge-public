@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/yolanda-diaz/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/yolanda-diaz/index.json",
   "description": "Sigue la actividad de Yolanda Díaz en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-24T02:28:09.478Z",
+  "updatedAt": "2026-07-24T06:23:11.193Z",
   "aliases": [
     "Yolanda",
     "Yolanda Diaz Perez",
@@ -17,6 +17,11 @@
     "Yolanda Díaz Pérez"
   ],
   "changes": [
+    {
+      "title": "Economía y Trabajo pactan llevar el registro horario a septiembre para salvar las objeciones del Consejo de Estado",
+      "summary": "Las dos vicepresidencias se dan el verano para cerrar los últimos flecos del real decreto que prevé endurecer el registro horario, tras unos informes consultivos demoledores con la norma El Gobierno propone a la vicepresidenta Yolanda Díaz como candidata a dirigir la OIT Los vicepresidentes Carlos Cuerpo y Yolanda Díaz.",
+      "date": "2026-07-24"
+    },
     {
       "title": "El Gobierno lanza a Yolanda Díaz como candidata para dirigir la OIT",
       "summary": "Despejada la incógnita sobre el futuro político de Yolanda Díaz, que, tras claudicar en su propio proyecto político en España —Sumar, ahora descabezado—, aspira ahora a recolocarse en las Naciones Unidas. La dirigente izquierdista se postula oficialmente para liderar la Organización Internacional del Trabajo (OIT) en G.",
@@ -61,19 +66,14 @@
       "title": "El Gobierno propone a Yolanda Díaz como directora general de la OIT, el organismo de la ONU dedicado al trabajo",
       "summary": "El Gobierno propone a Yolanda Díaz como directora general de la Organización Internacional del Trabajo (OIT), según ha podido saber EL PAÍS por fuentes conocedoras de la decisión y ha confirmado La Moncloa este jueves. La vicepresidenta segunda y ministra de Trabajo plantará cara a Gilbert F. Houngbo , que dirige desde.",
       "date": "2026-07-23"
-    },
-    {
-      "title": "El Gobierno propone a Yolanda Díaz para dirigir la Organización Internacional del Trabajo",
-      "summary": "Sánchez destaca que la vicepresidenta \"ha demostrado con políticas y resultados su compromiso con los derechos laborales, el diálogo social y la prosperidad de España\" Leer.",
-      "date": "2026-07-23"
     }
   ],
   "sources": [
     {
-      "title": "El Gobierno lanza a Yolanda Díaz como candidata para dirigir la OIT",
-      "url": "https://www.abc.es/espana/moncloa-propone-yolanda-diaz-optar-direccion-general-20260723090113-nt.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-24T00:51:41.000Z",
-      "sourceId": "lootura-es-abc"
+      "title": "Economía y Trabajo pactan llevar el registro horario a septiembre para salvar las objeciones del Consejo de Estado",
+      "url": "https://www.eldiario.es/economia/economia-trabajo-pactan-llevar-registro-horario-septiembre-salvar-objeciones-consejo_1_13403321.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-24T06:00:03.000Z",
+      "sourceId": "lootura-es-eldiario-es"
     }
   ],
   "evidenceCount": 1

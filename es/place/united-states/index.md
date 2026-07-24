@@ -3,7 +3,7 @@
 > Sigue la actividad de Estados Unidos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-24T02:28:09.478Z
+- Actualizado: 2026-07-24T06:23:11.193Z
 - Canonical: https://atlas.lootura.com/es/place/united-states
 
 ## Cambios recientes
@@ -11,6 +11,18 @@
 ### Trump afirma que «todo daño» a buques será pagado con «fondos iraníes»
 
 El presidente de Estados Unidos, Donald Trump , ha afirmado que todo daño causado a buques y cargamentos —presumiblemente en el estrecho de Ormuz, aunque ha responsabilizado a Teherán de los ataques de los rebeldes hutíes de Yemen a embarcaciones en el mar Rojo—, «será pagado con fondos iraníes que Estados Unidos tiene.
+
+Date: 2026-07-24
+
+### Así ven dos artistas españoles en la Casa de América los 250 años de historia de EEUU
+
+¿Cómo pintar Estados Unidos ? Si desde mediados del siglo XIX los autores norteamericanos se preguntaban por la gran novela americana , ¿por qué no la gran pintura? Una obra pictórica que, al igual que Moby Dick (1851), Las aventuras de Huckleberry Finn (1885) o El gran Gatsby (1925), encarne la idiosincrasia tan eferv.
+
+Date: 2026-07-24
+
+### Críticas en Brasil, inquietud en Chile y negociación en México ante los nuevos aranceles de Trump
+
+El Gobierno del presidente de Estados Unidos, Donald Trump, anunció este jueves nuevos aranceles de entre el 10 % y el 12,5 % a las importaciones procedentes de 60 países y economías, decisión que sustenta en una investigación sobre "esfuerzos insuficientes para combatir el trabajo forzoso". Esta medida, que entrará en.
 
 Date: 2026-07-24
 
@@ -56,22 +68,8 @@ El presidente de Estados Unidos, Donald Trump, está considerando lanzar una ope
 
 Date: 2026-07-23
 
-### El precio de los carburantes, desbocado por el fin de la rebaja del IVA: el depósito se encarece un 13% en tres semanas, un euro extra cada 48 horas
-
-El contador del surtidor sube más deprisa que hace un mes y asfixia a los hogares españoles en plenas vacaciones de verano. Desde el 30 de junio, cuando expiró la rebaja fiscal aprobada para amortiguar el impacto de la guerra entre Estados Unidos e Irán, el depósito de combustible se ha encarecido a un ritmo cercano a.
-
-Date: 2026-07-23
-
-### La Asociación del Fútbol Argentino desmiente que el FBI haya requisado el móvil al presidente
-
-La AFA ha salido al paso de las informaciones que señalaban a su presidente como objeto de una investigación de la Justica de Estados Unidos.
-
-Date: 2026-07-23
-
 ## Fuentes
 
-- [Trump impone nuevos aranceles de entre el 10% y el 12,5% a más de 60 países para mantener su muro comercial](https://elpais.com/internacional/2026-07-23/trump-impone-nuevos-aranceles-de-entre-el-10-y-el-125-a-60-paises-para-mantener-su-muro-comercial.html?utm_source=lootura.com) — 2026-07-23T21:35:58.000Z
-- [Trump activa este viernes una nueva tanda de aranceles globales del 10% al 12,5% a más de 60 países](https://www.expansion.com/economia/2026/07/23/6a628982e5fdead43d8b457b.html?utm_source=lootura.com) — 2026-07-23T21:58:25.000Z
-- [Mapfre compra la estadounidense Safety por 1.352 millones de euros](https://www.expansion.com/empresas/seguros/2026/07/23/6a628a93e5fdea4f0f8b459d.html?utm_source=lootura.com) — 2026-07-23T21:42:05.000Z
-- [Donald Trump anuncia aranceles de hasta el 12,5% a 60 países, entre ellos España](https://theobjective.com/internacional/2026-07-24/trump-aranceles-60-paises-espana/?utm_source=lootura.com) — 2026-07-23T22:00:48.000Z
+- [Así ven dos artistas españoles en la Casa de América los 250 años de historia de EEUU](https://www.elconfidencial.com/espana/madrid/2026-07-24/democracia-americana-casa-america-madrid_4394813/?utm_source=lootura.com) — 2026-07-24T03:00:00.000Z
+- [Críticas en Brasil, inquietud en Chile y negociación en México ante los nuevos aranceles de Trump](https://www.larazon.es/internacional/criticas-brasil-inquietud-chile-negociacion-mexico-nuevos-aranceles-trump_202607246a6302bc4687a22bdecad841.html?utm_source=lootura.com) — 2026-07-24T06:14:21.000Z
 - [Trump afirma que «todo daño» a buques será pagado con «fondos iraníes»](https://theobjective.com/internacional/2026-07-24/trump-dano-buques-fondos-iranies/?utm_source=lootura.com) — 2026-07-24T00:22:09.000Z

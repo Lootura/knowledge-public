@@ -2,17 +2,11 @@
 
 > Sigue la actividad de El Gobierno en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
-- Type: organization
-- Actualizado: 2026-07-24T02:28:09.478Z
+- Type: person
+- Actualizado: 2026-07-24T06:23:11.193Z
 - Canonical: https://atlas.lootura.com/es/organization/el-gobierno
 
 ## Cambios recientes
-
-### El Gobierno lanza a Yolanda Díaz como candidata para dirigir la OIT
-
-Despejada la incógnita sobre el futuro político de Yolanda Díaz, que, tras claudicar en su propio proyecto político en España —Sumar, ahora descabezado—, aspira ahora a recolocarse en las Naciones Unidas. La dirigente izquierdista se postula oficialmente para liderar la Organización Internacional del Trabajo (OIT) en G.
-
-Date: 2026-07-24
 
 ### El Gobierno declara la emergencia nacional en la Comunidad de Madrid y en Ávila por cuatro incendios
 
@@ -20,17 +14,41 @@ El Gobierno de España ha recogido en cuestión de un par de horas el guante lan
 
 Date: 2026-07-24
 
-### El Gobierno y el PSOE cierran filas con Zapatero y aseguran que probará su inocencia
+### El Gobierno retrasa la aprobación del registro horario pese al ultimátum de los sindicatos y dice que lo tramitará en septiembre
 
-El Gobierno y la dirección del PSOE reiteran su respaldo a José Luis Rodríguez Zapatero tras las explicaciones que el expresidente ha dado en RTVE, donde ha defendido su inocencia sin aportar ninguna información nueva a la que ya había declarado a mediados de junio ante el juez José Luis Calama de la Audiencia Nacional.
+“O para el 31 de julio está resuelto todo lo que tiene que ver con el registro horario o que no cuenten con los sindicatos para acuerdos que luego no se ven reflejados en la legislación”, dijo el 30 de junio el líder de CC OO, Unai Sordo. “La paciencia de los sindicatos está más que superada”, comentó a su lado el secr.
 
-Date: 2026-07-23
+Date: 2026-07-24
 
-### El Gobierno salva el primer trámite de la quita de la deuda pero naufraga de nuevo en la senda de déficit por culpa de Junts
+### El Gobierno activará los Presupuestos pese al rechazo de la senda fiscal y abrirá un escenario insólito en España
 
-El Congreso ha asestado este jueves un nuevo revés al Gobierno al rechazar por segunda y definitiva vez la senda de estabilidad , paso previo imprescindible para la elaboración de los Presupuestos Generales del Estado de 2027 , al tiempo que ha permitido seguir adelante con la tramitación del proyecto de ley para condo.
+El guion estaba escrito y nadie ha querido improvisar. El Congreso de los Diputados ha rechazado este jueves por segunda vez la senda de estabilidad propuesta por el Gobierno, el documento que fija los objetivos de déficit de las Administraciones públicas y que es condición necesaria para poder presentar unos Presupues.
 
-Date: 2026-07-23
+Date: 2026-07-24
+
+### Economía y Trabajo pactan llevar el registro horario a septiembre para salvar las objeciones del Consejo de Estado
+
+Las dos vicepresidencias se dan el verano para cerrar los últimos flecos del real decreto que prevé endurecer el registro horario, tras unos informes consultivos demoledores con la norma El Gobierno propone a la vicepresidenta Yolanda Díaz como candidata a dirigir la OIT Los vicepresidentes Carlos Cuerpo y Yolanda Díaz.
+
+Date: 2026-07-24
+
+### Última hora sobre los incendios en España: Interior asume la dirección de la lucha contra el fuego en Madrid y Ávila
+
+El Gobierno ha decretado la emergencia nacional en Madrid y Ávila por los tres incendios que en las últimas horas se han complicado con virulencia, obligando al desalojo de 11.500 personas. En la Comunidad de Madrid han sido evacuadas más de 10.000 personas debido a tres incendios: uno en Villa del Prado, con afectació.
+
+Date: 2026-07-24
+
+### Críticas en Brasil, inquietud en Chile y negociación en México ante los nuevos aranceles de Trump
+
+El Gobierno del presidente de Estados Unidos, Donald Trump, anunció este jueves nuevos aranceles de entre el 10 % y el 12,5 % a las importaciones procedentes de 60 países y economías, decisión que sustenta en una investigación sobre "esfuerzos insuficientes para combatir el trabajo forzoso". Esta medida, que entrará en.
+
+Date: 2026-07-24
+
+### El Gobierno lanza a Yolanda Díaz como candidata para dirigir la OIT
+
+Despejada la incógnita sobre el futuro político de Yolanda Díaz, que, tras claudicar en su propio proyecto político en España —Sumar, ahora descabezado—, aspira ahora a recolocarse en las Naciones Unidas. La dirigente izquierdista se postula oficialmente para liderar la Organización Internacional del Trabajo (OIT) en G.
+
+Date: 2026-07-24
 
 ### Última hora de los incendios forestales, en directo | El Gobierno cuestiona la petición de Ayuso: “Tienen que explicar y justificar esa solicitud”
 
@@ -44,38 +62,19 @@ El Congreso se fue de vacaciones este jueves con un maratoniano pleno cuya concl
 
 Date: 2026-07-23
 
-### El Congreso rechaza otra vez la senda de déficit con el voto de PP, Vox y Junts y da vía libre al Gobierno para el Presupuesto
+### El Gobierno y el PSOE cierran filas con Zapatero y aseguran que probará su inocencia
 
-El Ejecutivo cumple el trámite de las dos votaciones de la senda de estabilidad para volver de las vacaciones con todo preparado para presentar las cuentas públicas El Gobierno salva el escudo anticrisis por la guerra en Irán con rebajas fiscales en los carburantes hasta octubre El Congreso ha tumbado con los votos del.
-
-Date: 2026-07-23
-
-### Sánchez y Pradales aplazan su reunión bilateral por la falta de acuerdos sobre las transferencias
-
-El Gobierno vasco y el central han decidido de «común acuerdo» aplazar hasta después del periodo estival la Comisión Bilateral de Cooperación presidida por el lehendakari, Imanol Pradales , y el presidente, Pedro Sánchez , que se iba a celebrar este mes, para seguir trabajando en la búsqueda de acuerdos sobre las trans.
-
-Date: 2026-07-23
-
-### El Gobierno declara la emergencia nacional tras evacuar Madrid a 10.000 personas por los incendios
-
-La Comunidad de Madrid vive "una situación crítica" por los incendios . Así de tajantes se manifestaban en la noche de este jueves fuentes oficiales de la Presidencia del Gobierno de la Comunidad de Madrid por el recrudecimiento de los fuegos en el suroeste de la región. Son incendios "múltiples y de extrema gravedad".
-
-Date: 2026-07-23
-
-### La senda de déficit de Sánchez naufraga por tercer año seguido y enmaraña los presupuestos
-
-El Gobierno se esfuerza en aparentar normalidad, pero muy pocas cosas lo son esta legislatura. Mientras el Pleno del Congreso celebraba este jueves su segunda sesión plenaria extraordinaria del mes de julio, el expresidente José Luis Rodríguez Zapatero trataba de explicar, sin aclarar nada, por qué tenía joyas valorada.
+El Gobierno y la dirección del PSOE reiteran su respaldo a José Luis Rodríguez Zapatero tras las explicaciones que el expresidente ha dado en RTVE, donde ha defendido su inocencia sin aportar ninguna información nueva a la que ya había declarado a mediados de junio ante el juez José Luis Calama de la Audiencia Nacional.
 
 Date: 2026-07-23
 
 ## Fuentes
 
-- [El Gobierno lanza a Yolanda Díaz como candidata para dirigir la OIT](https://www.abc.es/espana/moncloa-propone-yolanda-diaz-optar-direccion-general-20260723090113-nt.html?utm_source=lootura.com) — 2026-07-24T00:51:41.000Z
-- [El Gobierno declara la emergencia nacional tras evacuar Madrid a 10.000 personas por los incendios](https://www.elconfidencial.com/espana/madrid/2026-07-23/madrid-alerta-incendios-intervencion-gobierno_4395004/?utm_source=lootura.com) — 2026-07-23T20:19:00.000Z
-- [El Gobierno salva el primer trámite de la quita de la deuda pero naufraga de nuevo en la senda de déficit por culpa de Junts](https://www.elindependiente.com/espana/2026/07/23/el-gobierno-salva-el-primer-tramite-de-la-quita-de-la-deuda-pero-naufraga-de-nuevo-en-la-senda-de-deficit-por-culpa-de-junts/?utm_source=lootura.com) — 2026-07-23T19:22:50.000Z
+- [El Gobierno retrasa la aprobación del registro horario pese al ultimátum de los sindicatos y dice que lo tramitará en septiembre](https://elpais.com/economia/2026-07-24/el-gobierno-retrasa-la-aprobacion-del-registro-horario-pese-al-ultimatum-de-los-sindicatos.html?utm_source=lootura.com) — 2026-07-24T03:45:00.000Z
+- [El Gobierno activará los Presupuestos pese al rechazo de la senda fiscal y abrirá un escenario insólito en España](https://elpais.com/economia/2026-07-24/el-gobierno-activara-los-presupuestos-pese-al-rechazo-de-la-senda-fiscal-y-abrira-un-escenario-insolito-en-espana.html?utm_source=lootura.com) — 2026-07-24T03:45:00.000Z
 - [Última hora de los incendios forestales, en directo | El Gobierno cuestiona la petición de Ayuso: “Tienen que explicar y justificar esa solicitud”](https://elpais.com/espana/2026-07-23/ultima-hora-de-los-incendios-forestales-en-directo.html?utm_source=lootura.com) — 2026-07-23T20:53:08.000Z
 - [El Gobierno declara la emergencia nacional en la Comunidad de Madrid y en Ávila por cuatro incendios](https://elpais.com/espana/2026-07-23/el-gobierno-declara-la-emergencia-nacional-en-la-comunidad-de-madrid-y-en-avila-por-los-incendios.html?utm_source=lootura.com) — 2026-07-24T00:10:33.000Z
-- [El Gobierno y el PSOE cierran filas con Zapatero y aseguran que probará su inocencia](https://elpais.com/espana/2026-07-23/el-gobierno-y-el-psoe-cierran-filas-con-zapatero-y-aseguran-que-probara-su-inocencia.html?utm_source=lootura.com) — 2026-07-23T12:48:42.000Z
 - [El Gobierno salva por ahora la quita autonómica pero no avanza con los Presupuestos](https://elpais.com/espana/2026-07-23/el-gobierno-salva-por-ahora-la-quita-autonomica-pero-no-avanza-con-los-presupuestos.html?utm_source=lootura.com) — 2026-07-23T19:00:04.000Z
-- [El Congreso rechaza otra vez la senda de déficit con el voto de PP, Vox y Junts y da vía libre al Gobierno para el Presupuesto](https://www.eldiario.es/economia/congreso-rechaza-vez-senda-deficit-voto-pp-vox-junts-da-via-libre-gobierno-presupuesto_1_13402684.html?utm_source=lootura.com) — 2026-07-23T18:59:41.000Z
-- [Sánchez y Pradales aplazan su reunión bilateral por la falta de acuerdos sobre las transferencias](https://theobjective.com/espana/politica/2026-07-23/sanchez-pradales-reunion-bilateral-acuerdos-transferencias/?utm_source=lootura.com) — 2026-07-23T20:19:26.000Z
+- [Economía y Trabajo pactan llevar el registro horario a septiembre para salvar las objeciones del Consejo de Estado](https://www.eldiario.es/economia/economia-trabajo-pactan-llevar-registro-horario-septiembre-salvar-objeciones-consejo_1_13403321.html?utm_source=lootura.com) — 2026-07-24T06:00:03.000Z
+- [Última hora sobre los incendios en España: Interior asume la dirección de la lucha contra el fuego en Madrid y Ávila](https://www.eldiario.es/sociedad/ultima-hora-incendios-espana-interior-asume-direccion-lucha-fuego-madrid-avila_133_13403506.html?utm_source=lootura.com) — 2026-07-24T05:18:05.000Z
+- [Críticas en Brasil, inquietud en Chile y negociación en México ante los nuevos aranceles de Trump](https://www.larazon.es/internacional/criticas-brasil-inquietud-chile-negociacion-mexico-nuevos-aranceles-trump_202607246a6302bc4687a22bdecad841.html?utm_source=lootura.com) — 2026-07-24T06:14:21.000Z

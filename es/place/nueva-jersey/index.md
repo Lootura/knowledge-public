@@ -3,10 +3,16 @@
 > Sigue la actividad de El Estado Jardín en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-23T02:31:05.539Z
+- Actualizado: 2026-07-24T06:23:11.193Z
 - Canonical: https://atlas.lootura.com/es/place/nueva-jersey
 
 ## Cambios recientes
+
+### La hora de Carlos Alcaraz: tres semanas clave que definirán su regreso (o no) a la competición
+
+El pasado domingo, Carlos Alcaraz irrumpió en el MetLife Stadium de Nueva Jersey envuelto en un traje de color marfil y portando un cofrecillo en cuyo interior se ocultaba la Copa del Mundo de fútbol. También, con una sonrisa de oreja a oreja. Magnífica señal en un deportista especial y diferente, que vive, sueña y com.
+
+Date: 2026-07-24
 
 ### De Keyne, el hermano de Lamine Yamal, a la familia numerosa de Cucurella: los apoyos de los jugadores de la selección española fuera del campo
 
@@ -40,4 +46,4 @@ Date: 2026-07-18
 
 ## Fuentes
 
-No public source links.
+- [La hora de Carlos Alcaraz: tres semanas clave que definirán su regreso (o no) a la competición](https://elpais.com/deportes/tenis/2026-07-24/la-hora-de-carlos-alcaraz-tres-semanas-clave-que-definiran-su-regreso-o-no-a-la-competicion.html?utm_source=lootura.com) — 2026-07-24T03:30:00.000Z

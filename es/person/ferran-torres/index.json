@@ -13,7 +13,8 @@
     "\"El Tiburón\"",
     "Ferran",
     "Ferran Torres García",
-    "Torres"
+    "Torres",
+    "El Tiburón"
   ],
   "changes": [
     {
@@ -67,13 +68,6 @@
       "date": "2026-07-19"
     }
   ],
-  "sources": [
-    {
-      "title": "El peluquero que cambió el look a Ferrán Torres: «El secreto es el aceite de romero»",
-      "url": "https://www.abc.es/summum/estilo/belleza/nando-diaz-peluquero-seleccion-espanola-ferran-torres-20260723150116-nt.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-24T00:49:21.000Z",
-      "sourceId": "lootura-es-abc"
-    }
-  ],
+  "sources": [],
   "evidenceCount": 0
 }

@@ -70,4 +70,4 @@ Date: 2026-07-18
 
 ## Fuentes
 
-- [Nepobabies: Apple Martin, el relevo «cool» de Hollywood](https://www.larazon.es/gente/famosos/nepobabies-apple-martin-relevo-cool-hollywood_202607246a62c39eaa17c0020f2ca8b1.html?outputType=amp&utm_source=lootura.com) — 2026-07-24T01:45:02.000Z
+No public source links.

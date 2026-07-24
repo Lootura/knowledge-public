@@ -70,4 +70,4 @@ Date: 2026-07-22
 
 ## Fuentes
 
-- [Sánchez, a Feijóo: "Se le ha olvidado que hay unas elecciones de por medio, y ya veremos"](https://www.eldiario.es/politica/sanchez-feijoo-le-olvidado-hay-elecciones-medio-veremos_1_13403082.html?utm_source=lootura.com) — 2026-07-23T18:29:29.000Z
+No public source links.

@@ -40,4 +40,4 @@ Date: 2026-07-15
 
 ## Fuentes
 
-- [Estados Unidos propone un botón para apagar la IA antes de que se descontrole](https://hipertextual.com/inteligencia-artificial/boton-apagado-ia-estados-unidos/?utm_source=lootura.com) — 2026-07-23T21:25:00.000Z
+No public source links.

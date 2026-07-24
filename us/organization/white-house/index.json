@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/white-house/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/white-house/index.json",
   "description": "Follow White House, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-24T02:28:29.719Z",
+  "updatedAt": "2026-07-24T06:23:31.535Z",
   "aliases": [
     "1600 Pennsylvania Avenue",
     "Executive Mansion",
@@ -71,17 +71,11 @@
   ],
   "sources": [
     {
-      "title": "White House says Saudi Arabia nuclear deal contingent on joining Abraham Accords",
-      "url": "https://www.nbcnews.com/now/video/white-house-says-saudi-arabia-nuclear-deal-contingent-on-joining-abraham-accords-267170885845?utm_source=lootura.com",
-      "publishedAt": "2026-07-23T15:53:39.000Z",
-      "sourceId": "lootura-us-nbc-news"
-    },
-    {
       "title": "The White House pushes healthy eating. It cut a landmark nutrition education program",
       "url": "https://www.npr.org/2026/07/23/nx-s1-5896280/snap-ed-healthy-eating-cuts-maha?utm_source=lootura.com",
       "publishedAt": "2026-07-23T09:00:00.000Z",
       "sourceId": "lootura-us-npr"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

@@ -3,10 +3,40 @@
 > Sigue la actividad de José Luis Rodríguez Zapatero en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-24T02:28:09.478Z
+- Actualizado: 2026-07-24T06:23:11.193Z
 - Canonical: https://atlas.lootura.com/es/person/rodriguez-zapatero
 
 ## Cambios recientes
+
+### Más del 40% de votantes del PSOE no ve creíble a Zapatero y piensa que el Gobierno no debería apoyarle
+
+Las explicaciones ofrecidas por el expresidente José Luis Rodríguez Zapatero tras su imputación no han calado entre el electorado socialista, que en gran medida —un 45,3%— considera que el Gobierno debería dejar de apoyarle . Así lo revela la última encuesta realizada por el Instituto DYM para 20minutos , realizada ant.
+
+Date: 2026-07-24
+
+### Zapatero dice que no tuvo datos del rescate de Plus Ultra pero no explica por qué 'Julito' supo que se aprobaría 11 días antes
+
+El expresidente del Gobierno José Luis Rodríguez Zapatero apareció públicamente este jueves por primera vez desde su imputación y negó todas las presuntas ilegalidades que le atribuye la Audiencia Nacional. No obstante, en muchos puntos de la entrevista que concedió a Televisión Española no logró exponer una versión al.
+
+Date: 2026-07-24
+
+### Zapatero no aclara el origen de las joyas y niega su implicación en Plus Ultra
+
+José Luis Rodríguez Zapatero cambia de guion, pero no de versión. Después de más de dos meses sumido en un silencio prudente, que priorizaba la estrategia procesal, el giro en el caso -propiciado por la confesión de quien fuera su amigo 'Julito' Martínez y dos directivos de Plus Ultra- le ha obligado a romper el hermet.
+
+Date: 2026-07-24
+
+### Anticorrupción pide ampliar el análisis de las joyas de Zapatero para averiguar la fecha exacta de su montaje
+
+La Fiscalía Anticorrupción ha solicitado una ampliación del estudio sobre las joyas millonarias que escondía el ex presidente del Gobierno José Luis Rodríguez Zapatero en una...
+
+Date: 2026-07-23
+
+### Los cinco indicios sin respuesta tras las declaraciones de Zapatero en su entrevista en RTVE
+
+Negación, evasivas e inhibición. Así fue la primera entrevista concedida por el ex presidente José Luis Rodríguez Zapatero desde su imputación en el caso Plus Ultra. Con sus...
+
+Date: 2026-07-23
 
 ### La cúpula del PSOE da por buenas las explicaciones de Zapatero: "Mantenemos nuestro apoyo"
 
@@ -38,45 +68,10 @@ El expresidente del Gobierno rompe su silencio sobre las acusaciones relacionada
 
 Date: 2026-07-23
 
-### El Gobierno y el PSOE cierran filas con Zapatero y aseguran que probará su inocencia
-
-El Gobierno y la dirección del PSOE reiteran su respaldo a José Luis Rodríguez Zapatero tras las explicaciones que el expresidente ha dado en RTVE, donde ha defendido su inocencia sin aportar ninguna información nueva a la que ya había declarado a mediados de junio ante el juez José Luis Calama de la Audiencia Nacional.
-
-Date: 2026-07-23
-
-### Zapatero, sobre el rescate de Plus Ultra: “No es que no influyera, es que no hablé con nadie”
-
-La primera entrevista de José Luis Rodríguez Zapatero —en el programa Mañaneros de TVE— desde que la Audiencia Nacional le imputó por liderar una trama de tráfico de influencias ilícitas, ha dejado escasas novedades de impacto jurídico a pesar de la enorme expectación generada desde el ámbito político, sobre todo, por.
-
-Date: 2026-07-23
-
-### Anticorrupción pide ampliar el análisis de las joyas de Zapatero para averiguar la fecha exacta de su montaje
-
-La Fiscalía Anticorrupción ha solicitado una ampliación del estudio sobre las joyas millonarias que escondía el ex presidente del Gobierno José Luis Rodríguez Zapatero en una...
-
-Date: 2026-07-23
-
-### Los cinco indicios sin respuesta tras las declaraciones de Zapatero en su entrevista en RTVE
-
-Negación, evasivas e inhibición. Así fue la primera entrevista concedida por el ex presidente José Luis Rodríguez Zapatero desde su imputación en el caso Plus Ultra. Con sus...
-
-Date: 2026-07-23
-
-### Sabes que no soy buena
-
-“Sin uso ni destino o afán patrimonial” podría haber sido una frase del Capitán Alatriste, pero la dijo ayer en televisión José Luis Rodríguez Zapatero a una pregunta sobre las joyas en su caja fuerte. Llevamos tanto tiempo viendo y oyendo cosas parecidas –declaraciones, comisiones, entrevistas– que estamos agotados. D.
-
-Date: 2026-07-23
-
 ## Fuentes
 
+- [Más del 40% de votantes del PSOE no ve creíble a Zapatero y piensa que el Gobierno no debería apoyarle](https://www.20minutos.es/nacional/mas-40-votantes-socialistas-no-ve-creible-zapatero-piensa-que-gobierno-no-deberia-apoyarle_7017831_0.html?utm_source=lootura.com) — 2026-07-24T03:00:00.000Z
+- [Zapatero dice que no tuvo datos del rescate de Plus Ultra pero no explica por qué 'Julito' supo que se aprobaría 11 días antes](https://www.20minutos.es/nacional/zapatero-dice-que-no-tuvo-informacion-rescate-plus-ultra-pero-no-explica-por-que-julito-supo-que-se-aprobaria-11-dias-antes_7018319_0.html?utm_source=lootura.com) — 2026-07-24T03:00:00.000Z
+- [Zapatero no aclara el origen de las joyas y niega su implicación en Plus Ultra](https://www.abc.es/espana/zapatero-reafirma-inocencia-aclara-origen-joyas-regalo-20260723131048-nt.html?utm_source=lootura.com) — 2026-07-24T04:57:10.000Z
 - [Anticorrupción pide ampliar el análisis de las joyas de Zapatero para averiguar la fecha exacta de su montaje](https://amp.elmundo.es/espana/2026/07/23/6a625e4bfc6c83151b8b4586.html?utm_source=lootura.com) — 2026-07-23T20:50:02.000Z
 - [Los cinco indicios sin respuesta tras las declaraciones de Zapatero en su entrevista en RTVE](https://amp.elmundo.es/espana/2026/07/23/6a6258c521efa0175f8b4580.html?utm_source=lootura.com) — 2026-07-23T20:49:45.000Z
-- [La cúpula del PSOE da por buenas las explicaciones de Zapatero: "Mantenemos nuestro apoyo"](https://amp.elmundo.es/espana/2026/07/23/6a6202be21efa0605a8b45ba.html?utm_source=lootura.com) — 2026-07-23T12:02:40.000Z
-- [Zapatero, sobre el rescate de Plus Ultra: “No es que no influyera, es que no hablé con nadie”](https://elpais.com/espana/2026-07-23/zapatero-en-su-primera-entrevista-tras-su-imputacion-no-es-que-no-influyera-es-que-no-hable-con-nadie-del-rescate-de-plus-ultra.html?utm_source=lootura.com) — 2026-07-23T13:20:27.000Z
-- [Las siete claves de la entrevista de José Luis Rodríguez Zapatero en Mañaneros en vídeo](https://elpais.com/videos/2026-07-23/las-siete-claves-de-la-entrevista-de-jose-luis-rodriguez-zapatero-en-mananeros-en-video.html?utm_source=lootura.com) — 2026-07-23T13:54:54.000Z
-- [Los titulares de la entrevista a Zapatero: de la estrategia de defensa de Julio Martínez a los trabajos de sus hijas](https://elpais.com/espana/2026-07-23/las-titulares-de-la-entrevista-a-zapatero-de-la-estrategia-de-defensa-de-julio-martinez-a-los-trabajos-de-sus-hijas.html?utm_source=lootura.com) — 2026-07-23T12:32:24.000Z
-- [Entrevista a Zapatero, en ‘Mañaneros 360′: Una clase de periodismo y de pilates](https://elpais.com/television/2026-07-23/entrevista-a-zapatero-en-mananeros-360-una-clase-de-periodismo-y-de-pilates.html?utm_source=lootura.com) — 2026-07-23T12:34:11.000Z
-- [Zapatero rechaza aclarar el origen de las joyas: “Son un regalo de cortesía personal”](https://elpais.com/espana/2026-07-23/zapatero-rechaza-aclarar-el-origen-de-las-joyas-son-un-regalo-personal-de-cortesia.html?utm_source=lootura.com) — 2026-07-23T11:58:15.000Z
-- [El Gobierno y el PSOE cierran filas con Zapatero y aseguran que probará su inocencia](https://elpais.com/espana/2026-07-23/el-gobierno-y-el-psoe-cierran-filas-con-zapatero-y-aseguran-que-probara-su-inocencia.html?utm_source=lootura.com) — 2026-07-23T12:48:42.000Z
-- [Sabes que no soy buena](https://www.lavanguardia.com/opinion/20260724/11599600/buena.html?utm_source=lootura.com) — 2026-07-23T22:30:00.000Z

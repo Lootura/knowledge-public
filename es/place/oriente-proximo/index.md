@@ -3,10 +3,22 @@
 > Sigue la actividad de Oriente Próximo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-23T17:19:26.220Z
+- Actualizado: 2026-07-24T06:23:11.193Z
 - Canonical: https://atlas.lootura.com/es/place/oriente-proximo
 
 ## Cambios recientes
+
+### Los aranceles, el petróleo y las preocupaciones por la IA golpean los mercados
+
+El alza del precio del petróleo por las tensiones en Oriente Próximo, los aranceles y los resultados de las grandes tecnológicas estadounidenses ante las dudas sobre la rentabilidad de los miles de millones de dólares invertidos en inteligencia artificial sacuden la confianza de los inversores. El riesgo de inflación (.
+
+Date: 2026-07-24
+
+### La parálisis en Ormuz y los ataques hutíes en el mar Rojo amenazan con llevar el petróleo a los 120 dólares
+
+Los acontecimientos de los últimos días en Oriente Próximo casi remiten a la casilla de salida del conflicto, cuando en marzo EE UU e Israel lanzaron un ataque sobre Irán que fue el inicio de un shock energético que disparó los precios del petróleo y el gas. Con la reanudación de las hostilidades entre Washington y Teh.
+
+Date: 2026-07-24
 
 ### El barril de petróleo Brent rebasa los 100 dólares por primera vez en dos meses
 
@@ -56,18 +68,7 @@ Fuentes oficiales de la Casa Blanca han filtrado a los principales medios de pre
 
 Date: 2026-07-22
 
-### El precio del gas en Europa supera los máximos de marzo y complica el acopio de reservas para el invierno
-
-El riesgo de crisis energética asoma de nuevo en su versión más amenazante para Europa con el encarecimiento del gas natural, materia prima clave para la economía de la región. Europa ha encajado hasta ahora el golpe del conflicto en Oriente Próximo, pero la prolongación de la guerra está añadiendo de nuevo presión sob.
-
-Date: 2026-07-22
-
-### Naturgy alerta de que Europa puede sufrir escasez de gas este invierno tras las nuevas sanciones a Rusia
-
-Naturgy advierte a sus inversores que Europa se enfrenta a una potencial escasez de suministro gasista ante las nuevas sanciones de la Unión Europea contra Rusia y la incertidumbre por la escalada bélica en Oriente Próximo. Seguir leyendo.
-
-Date: 2026-07-22
-
 ## Fuentes
 
-No public source links.
+- [Los aranceles, el petróleo y las preocupaciones por la IA golpean los mercados](https://cincodias.elpais.com/mercados-financieros/2026-07-24/la-bolsa-y-el-ibex-35.html?utm_source=lootura.com) — 2026-07-24T04:34:11.000Z
+- [La parálisis en Ormuz y los ataques hutíes en el mar Rojo amenazan con llevar el petróleo a los 120 dólares](https://elpais.com/economia/2026-07-24/la-paralisis-en-ormuz-y-los-ataques-huties-en-el-mar-rojo-amenazan-con-llevar-el-petroleo-a-los-120-dolares.html?utm_source=lootura.com) — 2026-07-24T03:25:00.000Z

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/united-states/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/united-states/index.json",
   "description": "Sigue la actividad de Estados Unidos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-24T02:28:09.478Z",
+  "updatedAt": "2026-07-24T06:23:11.193Z",
   "aliases": [
     "America",
     "EE.UU.",
@@ -47,6 +47,16 @@
       "date": "2026-07-24"
     },
     {
+      "title": "Así ven dos artistas españoles en la Casa de América los 250 años de historia de EEUU",
+      "summary": "¿Cómo pintar Estados Unidos ? Si desde mediados del siglo XIX los autores norteamericanos se preguntaban por la gran novela americana , ¿por qué no la gran pintura? Una obra pictórica que, al igual que Moby Dick (1851), Las aventuras de Huckleberry Finn (1885) o El gran Gatsby (1925), encarne la idiosincrasia tan eferv.",
+      "date": "2026-07-24"
+    },
+    {
+      "title": "Críticas en Brasil, inquietud en Chile y negociación en México ante los nuevos aranceles de Trump",
+      "summary": "El Gobierno del presidente de Estados Unidos, Donald Trump, anunció este jueves nuevos aranceles de entre el 10 % y el 12,5 % a las importaciones procedentes de 60 países y economías, decisión que sustenta en una investigación sobre \"esfuerzos insuficientes para combatir el trabajo forzoso\". Esta medida, que entrará en.",
+      "date": "2026-07-24"
+    },
+    {
       "title": "Trump impone nuevos aranceles de entre el 10% y el 12,5% a más de 60 países para mantener su muro comercial",
       "summary": "El presidente de Estados Unidos, Donald Trump, ha aprobado este jueves una orden ejecutiva para imponer aranceles de entre el 10% y el 12,5% a más de 60 países, entre los que se encuentran España y el resto de miembros de la Unión Europea, Reino Unido, China, India, Japón, Corea del Sur o México, por no haber tomado su.",
       "date": "2026-07-23"
@@ -80,42 +90,20 @@
       "title": "Trump evalúa ahora la posibilidad de atacar a yihadistas en Mali",
       "summary": "El presidente de Estados Unidos, Donald Trump, está considerando lanzar una operación militar contra un grupo yihadista vinculado a Al Qaeda en Mali, según informó este miércoles The Washington Post. El diario, que cita a altos funcionarios estadounidenses bajo condición de anonimato, señala que la propuesta ha generad.",
       "date": "2026-07-23"
-    },
-    {
-      "title": "El precio de los carburantes, desbocado por el fin de la rebaja del IVA: el depósito se encarece un 13% en tres semanas, un euro extra cada 48 horas",
-      "summary": "El contador del surtidor sube más deprisa que hace un mes y asfixia a los hogares españoles en plenas vacaciones de verano. Desde el 30 de junio, cuando expiró la rebaja fiscal aprobada para amortiguar el impacto de la guerra entre Estados Unidos e Irán, el depósito de combustible se ha encarecido a un ritmo cercano a.",
-      "date": "2026-07-23"
-    },
-    {
-      "title": "La Asociación del Fútbol Argentino desmiente que el FBI haya requisado el móvil al presidente",
-      "summary": "La AFA ha salido al paso de las informaciones que señalaban a su presidente como objeto de una investigación de la Justica de Estados Unidos.",
-      "date": "2026-07-23"
     }
   ],
   "sources": [
     {
-      "title": "Trump impone nuevos aranceles de entre el 10% y el 12,5% a más de 60 países para mantener su muro comercial",
-      "url": "https://elpais.com/internacional/2026-07-23/trump-impone-nuevos-aranceles-de-entre-el-10-y-el-125-a-60-paises-para-mantener-su-muro-comercial.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-23T21:35:58.000Z",
-      "sourceId": "lootura-es-cinco-dias"
+      "title": "Así ven dos artistas españoles en la Casa de América los 250 años de historia de EEUU",
+      "url": "https://www.elconfidencial.com/espana/madrid/2026-07-24/democracia-americana-casa-america-madrid_4394813/?utm_source=lootura.com",
+      "publishedAt": "2026-07-24T03:00:00.000Z",
+      "sourceId": "lootura-es-el-confidencial"
     },
     {
-      "title": "Trump activa este viernes una nueva tanda de aranceles globales del 10% al 12,5% a más de 60 países",
-      "url": "https://www.expansion.com/economia/2026/07/23/6a628982e5fdead43d8b457b.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-23T21:58:25.000Z",
-      "sourceId": "lootura-es-expansion"
-    },
-    {
-      "title": "Mapfre compra la estadounidense Safety por 1.352 millones de euros",
-      "url": "https://www.expansion.com/empresas/seguros/2026/07/23/6a628a93e5fdea4f0f8b459d.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-23T21:42:05.000Z",
-      "sourceId": "lootura-es-expansion"
-    },
-    {
-      "title": "Donald Trump anuncia aranceles de hasta el 12,5% a 60 países, entre ellos España",
-      "url": "https://theobjective.com/internacional/2026-07-24/trump-aranceles-60-paises-espana/?utm_source=lootura.com",
-      "publishedAt": "2026-07-23T22:00:48.000Z",
-      "sourceId": "lootura-es-the-objective"
+      "title": "Críticas en Brasil, inquietud en Chile y negociación en México ante los nuevos aranceles de Trump",
+      "url": "https://www.larazon.es/internacional/criticas-brasil-inquietud-chile-negociacion-mexico-nuevos-aranceles-trump_202607246a6302bc4687a22bdecad841.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-24T06:14:21.000Z",
+      "sourceId": "lootura-es-la-razon"
     },
     {
       "title": "Trump afirma que «todo daño» a buques será pagado con «fondos iraníes»",
@@ -124,5 +112,5 @@
       "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 5
+  "evidenceCount": 3
 }

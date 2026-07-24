@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/isabel-diaz-ayuso/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/isabel-diaz-ayuso/index.json",
   "description": "Sigue la actividad de Isabel Díaz Ayuso en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-24T02:28:09.478Z",
+  "updatedAt": "2026-07-24T06:23:11.193Z",
   "aliases": [
     "Ayuso",
     "Isabel Natividad Díaz Ayuso"
@@ -17,6 +17,11 @@
     {
       "title": "El Gobierno declara la emergencia nacional en la Comunidad de Madrid y en Ávila por cuatro incendios",
       "summary": "El Gobierno de España ha recogido en cuestión de un par de horas el guante lanzado por Madrid. Sobre las diez de la noche y en una decisión con un solo precedente, la presidenta madrileña, Isabel Díaz Ayuso, ha pedido vía tuit la declaración de la situación operativa tres del Plan de Protección Civil contra incendios f.",
+      "date": "2026-07-24"
+    },
+    {
+      "title": "Última hora de los incendios en Madrid, en directo | Más de 11.500 evacuados en la Comunidad de Madrid y Castilla y León",
+      "summary": "La presidenta de la Comunidad de Madrid, Isabel Díaz Ayuso, ha solicitado la medida y el Ejecutivo central asume el mando de las tareas de extinción.",
       "date": "2026-07-24"
     },
     {
@@ -42,7 +47,13 @@
       "url": "https://elpais.com/espana/2026-07-23/el-gobierno-declara-la-emergencia-nacional-en-la-comunidad-de-madrid-y-en-avila-por-los-incendios.html?utm_source=lootura.com",
       "publishedAt": "2026-07-24T00:10:33.000Z",
       "sourceId": "lootura-es-el-pais"
+    },
+    {
+      "title": "Última hora de los incendios en Madrid, en directo | Más de 11.500 evacuados en la Comunidad de Madrid y Castilla y León",
+      "url": "https://www.lavanguardia.com/vida/20260724/11599750/incendios-madrid-emergencia-nacional-evacuados-en-directo.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-24T05:39:35.000Z",
+      "sourceId": "lootura-es-la-vanguardia"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 3
 }

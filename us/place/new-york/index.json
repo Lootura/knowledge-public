@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/new-york/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/new-york/index.json",
   "description": "Follow New York City, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-24T02:28:29.719Z",
+  "updatedAt": "2026-07-24T06:23:31.535Z",
   "aliases": [
     "Capital of the World",
     "Center of the Universe",
@@ -96,13 +96,7 @@
       "url": "https://www.nbcnews.com/nightly-news/video/stabbings-near-new-york-city-s-central-park-267194437527?utm_source=lootura.com",
       "publishedAt": "2026-07-23T23:05:19.000Z",
       "sourceId": "lootura-us-nbc-news"
-    },
-    {
-      "title": "New York Gov. Kathy Hochul explains why she signed the first statewide moratorium on data centers",
-      "url": "https://www.nbcnews.com/politics/politics-news/new-york-gov-kathy-hochul-explains-signed-first-statewide-moratorium-d-rcna588832?utm_source=lootura.com",
-      "publishedAt": "2026-07-23T22:19:33.000Z",
-      "sourceId": "lootura-us-nbc-news-politics"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

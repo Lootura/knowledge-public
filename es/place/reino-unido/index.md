@@ -3,10 +3,16 @@
 > Sigue la actividad de Reino Unido de Gran Bretaña e Irlanda del Norte en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-24T02:28:09.478Z
+- Actualizado: 2026-07-24T06:23:11.193Z
 - Canonical: https://atlas.lootura.com/es/place/reino-unido
 
 ## Cambios recientes
+
+### Burnham establece una nueva sede del Gobierno de Reino Unido en Manchester
+
+El nuevo primer ministro de Reino Unido y exalcalde de Mánchester, Andy Burnham, ha anunciado que constituirá en esta ciudad del norte de Inglaterra «la.
+
+Date: 2026-07-24
 
 ### Trump impone nuevos aranceles de entre el 10% y el 12,5% a más de 60 países para mantener su muro comercial
 
@@ -62,12 +68,6 @@ Mientras muchos analistas están pendientes de las primeras decisiones de Andy B
 
 Date: 2026-07-21
 
-### Burnham anuncia como primera medida la supresión del IVA en la factura eléctrica
-
-El nuevo primer ministro del Reino Unido, Andy Burnham , está decidido a que el periodo de gracia que acaba de estrenar dure todo lo posible. Horas después de poner un pie en Downing Street, su primera medida anunciada este martes ha sido la supresión del IVA de la factura eléctrica de los hogares. No es una cantidad m.
-
-Date: 2026-07-21
-
 ## Fuentes
 
-- [Trump impone nuevos aranceles de entre el 10% y el 12,5% a más de 60 países para mantener su muro comercial](https://elpais.com/internacional/2026-07-23/trump-impone-nuevos-aranceles-de-entre-el-10-y-el-125-a-60-paises-para-mantener-su-muro-comercial.html?utm_source=lootura.com) — 2026-07-23T21:35:58.000Z
+- [Burnham establece una nueva sede del Gobierno de Reino Unido en Manchester](https://theobjective.com/internacional/2026-07-24/burnham-sede-gobierno-reino-unido-manchester/?amp=&utm_source=lootura.com) — 2026-07-24T06:16:16.000Z

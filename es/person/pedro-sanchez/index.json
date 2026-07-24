@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/pedro-sanchez/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/pedro-sanchez/index.json",
   "description": "Sigue la actividad de Pedro Sánchez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-24T02:28:09.478Z",
+  "updatedAt": "2026-07-24T06:23:11.193Z",
   "aliases": [
     "P S",
     "P. S.",
@@ -17,6 +17,11 @@
     "Sánchez"
   ],
   "changes": [
+    {
+      "title": "La UE suspende al Gobierno por la financiación de partidos políticos y la desregulación del 'lobby'",
+      "summary": "El Informe sobre el Estado de derecho en España, elaborado por la Comisión Europea , saca a relucir las promesas incumplidas de Pedro Sánchez en regeneración democrática y prevención de la corrupción. En concreto, el ente europeo apunta a ámbitos de total actualidad , como la falta de transparencia en la financiación d.",
+      "date": "2026-07-24"
+    },
     {
       "title": "La cúpula del PSOE da por buenas las explicaciones de Zapatero: \"Mantenemos nuestro apoyo\"",
       "summary": "Desde que se conoció la investigación judicial a José Luis Rodríguez Zapatero, tanto Pedro Sánchez como desde Ferraz han mantenido contacto con el ex presidente del Gobierno....",
@@ -61,44 +66,15 @@
       "title": "Denuncia contra David Sánchez Pérez-Castejón ante el Tribunal de Cuentas para que devuelva las nóminas que cobró en la Diputación de Badajoz",
       "summary": "Una de las acusaciones particulares, Iustitia Europa, quiere que tanto el hermano del presidente del Gobierno como su amigo de Moncloa devuelvan los ingresos públicos que recibieron tras no requerirlos ni la Diputación de Badajoz ni la Fiscalía Leer.",
       "date": "2026-07-23"
-    },
-    {
-      "title": "El PP ve una \"tomadura de pelo\" la entrevista de Zapatero porque ha ido únicamente \"a defender su inocencia y la de Sánchez\"",
-      "summary": "Para el Partido Popular, la primera entrevista que ha dado el expresidente del Gobierno José Luis Rodríguez Zapatero desde que fue imputado ha sido \"una tomadura de pelo\", pues no ha dado ninguna explicación de las \"muchas incógnitas\" que le rodean. \" No ha dicho de dónde son las joyas , por qué no las tributó, por qué.",
-      "date": "2026-07-23"
     }
   ],
   "sources": [
     {
-      "title": "Vox y PP piden a Tribunal de Cuentas que investigue a la Diputación de Badajoz tras la condena al hermano de Sánchez",
-      "url": "https://www.elindependiente.com/espana/2026/07/23/vox-y-pp-piden-a-tribunal-de-cuentas-que-investigue-a-la-diputacion-de-badajoz-tras-la-condena-al-hermano-de-sanchez/?utm_source=lootura.com",
-      "publishedAt": "2026-07-23T18:16:42.000Z",
-      "sourceId": "lootura-es-el-independiente"
-    },
-    {
-      "title": "La cúpula del PSOE da por buenas las explicaciones de Zapatero: \"Mantenemos nuestro apoyo\"",
-      "url": "https://amp.elmundo.es/espana/2026/07/23/6a6202be21efa0605a8b45ba.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-23T12:02:40.000Z",
-      "sourceId": "lootura-es-el-mundo"
-    },
-    {
-      "title": "Sánchez, a Feijóo: \"Se le ha olvidado que hay unas elecciones de por medio, y ya veremos\"",
-      "url": "https://www.eldiario.es/politica/sanchez-feijoo-le-olvidado-hay-elecciones-medio-veremos_1_13403082.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-23T18:29:29.000Z",
-      "sourceId": "lootura-es-eldiario-es"
-    },
-    {
-      "title": "Sánchez y Pradales aplazan su reunión bilateral por la falta de acuerdos sobre las transferencias",
-      "url": "https://theobjective.com/espana/politica/2026-07-23/sanchez-pradales-reunion-bilateral-acuerdos-transferencias/?utm_source=lootura.com",
-      "publishedAt": "2026-07-23T20:19:26.000Z",
-      "sourceId": "lootura-es-the-objective"
-    },
-    {
-      "title": "El PP denuncia a David Sánchez para que devuelva los 417.000 euros del sueldo que ganó",
-      "url": "https://theobjective.com/espana/politica/2026-07-23/pp-david-sanchez-417-000-plaza-diputacion-badajoz/?utm_source=lootura.com",
-      "publishedAt": "2026-07-23T19:57:19.000Z",
-      "sourceId": "lootura-es-the-objective"
+      "title": "La UE suspende al Gobierno por la financiación de partidos políticos y la desregulación del 'lobby'",
+      "url": "https://www.elconfidencial.com/espana/2026-07-24/ue-suspende-gobierno-financiacion-partidos-politicos-desregulacion-lobby_4393034/?utm_source=lootura.com",
+      "publishedAt": "2026-07-24T03:00:00.000Z",
+      "sourceId": "lootura-es-el-confidencial"
     }
   ],
-  "evidenceCount": 5
+  "evidenceCount": 1
 }

@@ -3,10 +3,16 @@
 > Sigue la actividad de Barcelona en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-24T02:28:09.478Z
+- Actualizado: 2026-07-24T06:23:11.193Z
 - Canonical: https://atlas.lootura.com/es/place/barcelona
 
 ## Cambios recientes
+
+### ¿Por qué el trazado urbano de Barcelona es tan cuadriculado? Hay una explicación más allá de la organización
+
+Por qué Barcelona tiene calles en cuadrícula: el origen del Eixample y el diseño urbano que explica su estructura más allá de la estética.
+
+Date: 2026-07-24
 
 ### Karim Adeyemi ya es del Barcelona tras sortear un labertinto burocrático
 
@@ -62,12 +68,7 @@ Un incendio entre Mejorada del Campo y Alcalá de Henares ha obligado a interrum
 
 Date: 2026-07-23
 
-### Suspendida la línea de alta velocidad entre Madrid y Barcelona por un incendio
-
-ADIF ha comunicado que la línea de alta velocidad entre Madrid y Barcelona está actualmente suspendida «por un incendio próximo a la vía y ajeno a la explotación ferroviaria». En un tuit, la entidad pública española ha explicado que se ha suspendido la circulación entre Mejorada del Campo y Alcalá de Henares. En otro m.
-
-Date: 2026-07-23
-
 ## Fuentes
 
-- [Karim Adeyemi ya es del Barcelona tras sortear un labertinto burocrático](https://www.abc.es/deportes/futbol/karim-adeyemi-barcelona-tras-sortear-labertinto-burocratico-20260723150611-nt.html?utm_source=lootura.com) — 2026-07-24T00:48:23.000Z
+- [Gerardo Pisarello: "Comparto con Gabriel Rufián la urgencia de un frente amplio de izquierdas para frenar al neofascismo"](https://www.elmundo.es/cataluna/2026/07/23/6a6271fae85ece54368b458f.html?utm_source=lootura.com) — 2026-07-23T22:49:03.000Z
+- [¿Por qué el trazado urbano de Barcelona es tan cuadriculado? Hay una explicación más allá de la organización](https://okdiario.com/cataluna/que-trazado-urbano-barcelona-tan-cuadriculado-hay-explicacion-mas-alla-organizacion-19050129/amp?utm_source=lootura.com) — 2026-07-24T06:15:48.000Z

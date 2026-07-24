@@ -70,4 +70,4 @@ Date: 2026-07-19
 
 ## Fuentes
 
-- [Trump impone nuevos aranceles de entre el 10% y el 12,5% a más de 60 países para mantener su muro comercial](https://elpais.com/internacional/2026-07-23/trump-impone-nuevos-aranceles-de-entre-el-10-y-el-125-a-60-paises-para-mantener-su-muro-comercial.html?utm_source=lootura.com) — 2026-07-23T21:35:58.000Z
+No public source links.

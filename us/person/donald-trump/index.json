@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/donald-trump/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/donald-trump/index.json",
   "description": "Follow Donald Trump, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-24T02:28:29.719Z",
+  "updatedAt": "2026-07-24T06:23:31.535Z",
   "aliases": [
     "@realDonaldTrump",
     "DJT",
@@ -24,11 +24,6 @@
     "Trump"
   ],
   "changes": [
-    {
-      "title": "Trump imposes new tariffs on dozens of countries, citing forced labor concerns",
-      "summary": "The Trump administration will impose tariffs of up to 12.5% on goods from 60 U.S. trading partners accused of failing to crack down on forced labor, extending the administration's tariffs on much of the world.",
-      "date": "2026-07-24"
-    },
     {
       "title": "Rapid pace of interceptor and precision-guided weapons use worries Trump admin.",
       "summary": "The U.S. defense industrial base isn't equipped to produce missiles rapidly enough to replenish munitions used in the war with Iran, or transferred for use to Central Command.",
@@ -55,33 +50,32 @@
       "date": "2026-07-24"
     },
     {
-      "title": "The White House pushes healthy eating. It cut a landmark nutrition education program",
-      "summary": "Nutrition advocates and public health experts are mystified by the decision to eliminate SNAP-Ed, given the Trump administration's embrace of the Make America Healthy Again agenda. (Image credit: Rachel Wisniewski for NPR).",
-      "date": "2026-07-23"
+      "title": "Trump administration imposes new tariffs on dozens of countries, citing forced labor concerns",
+      "summary": "The Trump administration will impose tariffs of up to 12.5% on goods from 60 U.S. trading partners accused of failing to crack down on forced labor, extending the administration's tariffs on much of the world.",
+      "date": "2026-07-24"
     },
     {
-      "title": "Funding milestone detected",
-      "summary": "Trump administration signs nuclear cooperation agreement with Saudi Arabia, Trump ramps up aggression against Iran despite declining support, House passes Pentagon funding bill.",
-      "date": "2026-07-23"
+      "title": "Rubio says U.S. is ready to help end war in Ukraine but no quick deal ahead",
+      "summary": "Secretary of State Marco Rubio, who met with his Russian counterpart Sergey Lavrov, said that President Trump was committed to the work \"if conditions and factors have changed to make that possible.\" (Image credit: BRENDAN SMIALOWSKI).",
+      "date": "2026-07-24"
     },
     {
-      "title": "Nuclear Energy Revival Puts Westinghouse in Prime Position",
-      "summary": "The company, which filed for bankruptcy protection in 2017, stands to benefit from growing support for nuclear power and President Trump’s deal with Saudi Arabia.",
-      "date": "2026-07-23"
+      "title": "Rob Bonta on blocking the Paramount merger, CNN concerns and Trump’s DOJ",
+      "summary": "Rob Bonta on blocking the Paramount merger, CNN concerns and Trump’s DOJ lead image.",
+      "date": "2026-07-24"
     },
     {
-      "title": "House again rebukes Trump over Iran, while similar effort stalls in Senate",
-      "summary": "The House on Thursday voted to direct President Trump to end the war with Iran, after four Republicans joined Democrats to rebuke the president over his handling of the conflict.",
-      "date": "2026-07-23"
+      "title": "Trump imposes fresh tariffs on more than 80 countries, drawing protests from US allies and trading partners",
+      "summary": "The new tariffs will replace a 10% global duty set to expire on Friday, and comes as after the US supreme court declared many of the earlier levies were illegal Donald Trump has imposed a fresh round of sweeping tariffs on more than 80 countries to replace a 10% global duty that was due to expire, setting off a wave of.",
+      "date": "2026-07-24"
+    },
+    {
+      "title": "Trump’s Global Tariffs: What’s the Latest on the Trade War",
+      "summary": "The president has unveiled a complicated system to forge ahead with his trade war, after the Supreme Court stuck down his original levies.",
+      "date": "2026-07-24"
     }
   ],
   "sources": [
-    {
-      "title": "Trump imposes new tariffs on dozens of countries, citing forced labor concerns",
-      "url": "https://www.cbsnews.com/news/trump-tariffs-dozens-countries-forced-labor/?utm_source=lootura.com",
-      "publishedAt": "2026-07-24T00:49:51.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
     {
       "title": "Rapid pace of interceptor and precision-guided weapons use worries Trump admin.",
       "url": "https://www.cbsnews.com/news/interceptor-precision-guided-weapons-use-trump-administration/?utm_source=lootura.com",
@@ -89,15 +83,9 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "House again rebukes Trump over Iran, while similar effort stalls in Senate",
-      "url": "https://www.cbsnews.com/news/house-trump-war-powers-vote/?utm_source=lootura.com",
-      "publishedAt": "2026-07-23T16:54:09.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
-    {
-      "title": "Senate fails to advance latest attempt to limit Trump's Iran war powers",
-      "url": "https://www.cbsnews.com/news/senate-trump-iran-war-powers/?utm_source=lootura.com",
-      "publishedAt": "2026-07-23T16:39:50.000Z",
+      "title": "Trump administration imposes new tariffs on dozens of countries, citing forced labor concerns",
+      "url": "https://www.cbsnews.com/news/trump-tariffs-dozens-countries-forced-labor/?utm_source=lootura.com",
+      "publishedAt": "2026-07-24T05:02:49.000Z",
       "sourceId": "lootura-us-cbs-news"
     },
     {
@@ -121,21 +109,33 @@
     {
       "title": "International PhD students to face strict limits on time in the US",
       "url": "https://www.nature.com/articles/d41586-026-02280-3?utm_source=lootura.com",
-      "publishedAt": "2026-07-24T02:28:34.437Z",
+      "publishedAt": "2026-07-24T06:23:35.615Z",
       "sourceId": "lootura-us-nature"
     },
     {
-      "title": "White House says Saudi Arabia nuclear deal contingent on joining Abraham Accords",
-      "url": "https://www.nbcnews.com/now/video/white-house-says-saudi-arabia-nuclear-deal-contingent-on-joining-abraham-accords-267170885845?utm_source=lootura.com",
-      "publishedAt": "2026-07-23T15:53:39.000Z",
-      "sourceId": "lootura-us-nbc-news"
+      "title": "The White House pushes healthy eating. It cut a landmark nutrition education program",
+      "url": "https://www.npr.org/2026/07/23/nx-s1-5896280/snap-ed-healthy-eating-cuts-maha?utm_source=lootura.com",
+      "publishedAt": "2026-07-23T09:00:00.000Z",
+      "sourceId": "lootura-us-npr"
     },
     {
-      "title": "President Trump announces new tariffs on dozens of countries",
-      "url": "https://www.nbcnews.com/video/president-trump-announces-new-tariffs-on-dozens-of-countries-267191877751?utm_source=lootura.com",
-      "publishedAt": "2026-07-23T21:55:34.000Z",
-      "sourceId": "lootura-us-nbc-news-politics"
+      "title": "Morning news brief",
+      "url": "https://www.npr.org/2026/07/23/nx-s1-5895984/morning-news-brief?utm_source=lootura.com",
+      "publishedAt": "2026-07-23T08:47:19.000Z",
+      "sourceId": "lootura-us-npr"
+    },
+    {
+      "title": "Trump cuts target federal advisory boards. What does it mean for agencies like NASA?",
+      "url": "https://www.npr.org/2026/07/23/nx-s1-5869732/trump-cuts-target-federal-advisory-boards-what-does-it-mean-for-agencies-like-nasa?utm_source=lootura.com",
+      "publishedAt": "2026-07-23T20:33:52.000Z",
+      "sourceId": "lootura-us-npr"
+    },
+    {
+      "title": "Trump allies are poised to weaken protections for historic sites — not just in D.C.",
+      "url": "https://www.npr.org/2026/07/23/nx-s1-5904435/section-106-review-trump-historic-preservation-council?utm_source=lootura.com",
+      "publishedAt": "2026-07-23T20:14:58.000Z",
+      "sourceId": "lootura-us-npr-politics"
     }
   ],
-  "evidenceCount": 26
+  "evidenceCount": 25
 }

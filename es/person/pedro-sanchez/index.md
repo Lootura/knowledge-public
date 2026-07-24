@@ -3,10 +3,16 @@
 > Sigue la actividad de Pedro Sánchez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-24T02:28:09.478Z
+- Actualizado: 2026-07-24T06:23:11.193Z
 - Canonical: https://atlas.lootura.com/es/person/pedro-sanchez
 
 ## Cambios recientes
+
+### La UE suspende al Gobierno por la financiación de partidos políticos y la desregulación del 'lobby'
+
+El Informe sobre el Estado de derecho en España, elaborado por la Comisión Europea , saca a relucir las promesas incumplidas de Pedro Sánchez en regeneración democrática y prevención de la corrupción. En concreto, el ente europeo apunta a ámbitos de total actualidad , como la falta de transparencia en la financiación d.
+
+Date: 2026-07-24
 
 ### La cúpula del PSOE da por buenas las explicaciones de Zapatero: "Mantenemos nuestro apoyo"
 
@@ -62,16 +68,6 @@ Una de las acusaciones particulares, Iustitia Europa, quiere que tanto el herman
 
 Date: 2026-07-23
 
-### El PP ve una "tomadura de pelo" la entrevista de Zapatero porque ha ido únicamente "a defender su inocencia y la de Sánchez"
-
-Para el Partido Popular, la primera entrevista que ha dado el expresidente del Gobierno José Luis Rodríguez Zapatero desde que fue imputado ha sido "una tomadura de pelo", pues no ha dado ninguna explicación de las "muchas incógnitas" que le rodean. " No ha dicho de dónde son las joyas , por qué no las tributó, por qué.
-
-Date: 2026-07-23
-
 ## Fuentes
 
-- [Vox y PP piden a Tribunal de Cuentas que investigue a la Diputación de Badajoz tras la condena al hermano de Sánchez](https://www.elindependiente.com/espana/2026/07/23/vox-y-pp-piden-a-tribunal-de-cuentas-que-investigue-a-la-diputacion-de-badajoz-tras-la-condena-al-hermano-de-sanchez/?utm_source=lootura.com) — 2026-07-23T18:16:42.000Z
-- [La cúpula del PSOE da por buenas las explicaciones de Zapatero: "Mantenemos nuestro apoyo"](https://amp.elmundo.es/espana/2026/07/23/6a6202be21efa0605a8b45ba.html?utm_source=lootura.com) — 2026-07-23T12:02:40.000Z
-- [Sánchez, a Feijóo: "Se le ha olvidado que hay unas elecciones de por medio, y ya veremos"](https://www.eldiario.es/politica/sanchez-feijoo-le-olvidado-hay-elecciones-medio-veremos_1_13403082.html?utm_source=lootura.com) — 2026-07-23T18:29:29.000Z
-- [Sánchez y Pradales aplazan su reunión bilateral por la falta de acuerdos sobre las transferencias](https://theobjective.com/espana/politica/2026-07-23/sanchez-pradales-reunion-bilateral-acuerdos-transferencias/?utm_source=lootura.com) — 2026-07-23T20:19:26.000Z
-- [El PP denuncia a David Sánchez para que devuelva los 417.000 euros del sueldo que ganó](https://theobjective.com/espana/politica/2026-07-23/pp-david-sanchez-417-000-plaza-diputacion-badajoz/?utm_source=lootura.com) — 2026-07-23T19:57:19.000Z
+- [La UE suspende al Gobierno por la financiación de partidos políticos y la desregulación del 'lobby'](https://www.elconfidencial.com/espana/2026-07-24/ue-suspende-gobierno-financiacion-partidos-politicos-desregulacion-lobby_4393034/?utm_source=lootura.com) — 2026-07-24T03:00:00.000Z

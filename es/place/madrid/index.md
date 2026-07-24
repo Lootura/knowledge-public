@@ -3,7 +3,7 @@
 > Sigue la actividad de Madrid en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-24T02:28:09.478Z
+- Actualizado: 2026-07-24T06:23:11.193Z
 - Canonical: https://atlas.lootura.com/es/place/madrid
 
 ## Cambios recientes
@@ -20,63 +20,63 @@ El fuego no da tregua en la Comunidad de Madrid . Las altas temperaturas, el vie
 
 Date: 2026-07-24
 
-### España afronta una jornada crítica por los incendios forestales con varios frentes activos
+### Consulta el mapa de incendios en España en tiempo real: focos activos en Madrid, Ávila, Toledo, Zamora, Guadalajara, en directo
 
-Los incendios de Madrid, Ávila, Murcia y Guadalajara concentran la mayor preocupación en un día marcado por las altas temperaturas y el viento.
+La evolución de los principales focos mantiene movilizados a miles de efectivos en varias comunidades, con evacuaciones, cortes de carreteras y un amplio despliegue de medios para frenar el avance de las llamas.
 
-Date: 2026-07-23
+Date: 2026-07-24
 
-### Última hora de los incendios forestales, en directo | El Gobierno cuestiona la petición de Ayuso: “Tienen que explicar y justificar esa solicitud”
+### Cortes de tráfico por los incendios en Madrid: todas las carreteras afectadas, pueblos confinados y focos activos
 
-El delegado del Gobierno en Madrid, Francisco Martín Aguirre, ha cuestionado la petición de la presidenta regional, Isabel Díaz Ayuso, para que se declare el nivel 3 de emergencia de interés nacional por la gravedad y simultaneidad de los incendios que están activos en tres comunidades. “Tienen que explicar y justifica.
+Las llamas mantienen evacuadas a más de 10.000 personas y han obligado a desplegar un amplio dispositivo de emergencias, mientras las autoridades actualizan las restricciones a la circulación en distintos puntos de la región.
 
-Date: 2026-07-23
+Date: 2026-07-24
 
-### Ayuso pide al Gobierno que asuma la gestión de los incendios en Madrid y otras dos regiones
+### Última hora sobre los incendios en España: Interior asume la dirección de la lucha contra el fuego en Madrid y Ávila
 
-La C omunidad de Madrid solicita la declaración de la situación operativa 3 de interés nacional por la gravedad y simultaneidad de incendios forestales en tres comunidades autónomas y la posibilidad, como sucedió el miércoles en la provincia de Toledo, de que un gran incendio forestal proveniente de la provincia de Ávi.
+El Gobierno ha decretado la emergencia nacional en Madrid y Ávila por los tres incendios que en las últimas horas se han complicado con virulencia, obligando al desalojo de 11.500 personas. En la Comunidad de Madrid han sido evacuadas más de 10.000 personas debido a tres incendios: uno en Villa del Prado, con afectació.
 
-Date: 2026-07-23
+Date: 2026-07-24
 
-### El Gobierno declara la emergencia nacional tras evacuar Madrid a 10.000 personas por los incendios
+### Incendios en Madrid, en directo: Declaran la emergencia nacional en Madrid y Ávila y el fuego sigue sin estar perimetrado
 
-La Comunidad de Madrid vive "una situación crítica" por los incendios . Así de tajantes se manifestaban en la noche de este jueves fuentes oficiales de la Presidencia del Gobierno de la Comunidad de Madrid por el recrudecimiento de los fuegos en el suroeste de la región. Son incendios "múltiples y de extrema gravedad".
+Los tres incendios que se están desarrollando en la Comunidad de Madrid han obligado a desalojar a 10.000 personas en Villa del Prado, San Martín de Valdeiglesias, Pelayos de la Presa y Aldea del Fresno.
 
-Date: 2026-07-23
+Date: 2026-07-24
 
-### Más de 10.000 evacuados por tres incendios simultáneos en Madrid: “El fuego vino como un cohete”
+### Por qué huele a quemado en Madrid: los focos activos que están detrás de la sensación de ambiente cargado en gran parte de la comunidad
 
-Una urbanización llena de vida en verano por sus chalets con piscinas, jardines y camas balinesas parece ahora, de repente, un pueblo abandonado. Las casas y los coches calcinados se suceden a los lados de la calle de este lugar laberíntico en el suroeste de Madrid que hasta hace pocas horas vivía como un riesgo lejano.
+Buena parte de la Comunidad de Madrid lleva días notando un olor a quemado que tiene que ver con un cúmulo de desgracias en parte de la comunidad y en otras muy próximas a esta misma. En resumidas cuentas: se está dando una oleada de incendios forestales que ha obligado a evacuar y confinar a miles de personas en la re.
 
-Date: 2026-07-23
+Date: 2026-07-24
 
-### Capital Dynamics, la gestora suiza especializada en capital privado y energías limpias
+### Cuatro residencias evacuadas en la Comunidad de Madrid por la ola de incendios simultáneos
 
-Cuando Capital Dynamics , gestora especializada en inversiones de capital riesgo y energías renovables, abrió en 2024 su oficina en Madrid, llevaba más de 20 años operando en el mercado español. Así, España tiene la mayor parte de los activos de energía limpia de la empresa. El objetivo de la oficina era, además de ref.
+La Consejería de Familia, Juventud y Asuntos Sociales mantiene un seguimiento permanente para coordinar los traslados.
 
-Date: 2026-07-23
+Date: 2026-07-24
 
-### La simultaneidad de incendios en Madrid, Toledo y Ávila dificulta los trabajos de extinción
+### Última hora de los incendios en Madrid, en directo | Más de 11.500 evacuados en la Comunidad de Madrid y Castilla y León
 
-La simultaneidad de incendios a los aledaños de Madrid dificulta los trabajos de extinción, con cuatro fuegos activos cercanos entre ellos y la dificultad añadida de encontrarse entre ellos muy cerca y en tres comunidades autónomas distintas. Seguir leyendo...
+La presidenta de la Comunidad de Madrid, Isabel Díaz Ayuso, ha solicitado la medida y el Ejecutivo central asume el mando de las tareas de extinción.
 
-Date: 2026-07-23
+Date: 2026-07-24
 
-### Marlaska entra en razón y declara la emergencia nacional por los incendios que Ayuso pidió y el delegado del Gobierno negó
+### Precio de la gasolina hoy 24 de julio: localiza las gasolineras más baratas de Madrid
 
-El ministro del Interior, Fernando Grande-Marlaska, ha declarado en la madrugada de este jueves al viernes la emergencia de interés nacional en la Comunidad de Madrid y en la provincia de Ávila (Castilla y León) como consecuencia de la evolución de los incendios, atendiendo así la petición de la presidenta de la Comuni.
+Precio de la gasolina hoy 24 de julio en Madrid: descubre las gasolineras más baratas y ahorra al repostar este viernes.
 
-Date: 2026-07-23
+Date: 2026-07-24
 
 ## Fuentes
 
-- [El Gobierno declara la emergencia nacional tras evacuar Madrid a 10.000 personas por los incendios](https://www.elconfidencial.com/espana/madrid/2026-07-23/madrid-alerta-incendios-intervencion-gobierno_4395004/?utm_source=lootura.com) — 2026-07-23T20:19:00.000Z
+- [Consulta el mapa de incendios en España en tiempo real: focos activos en Madrid, Ávila, Toledo, Zamora, Guadalajara, en directo](https://www.elconfidencial.com/espana/2026-07-24/1qrt-mapa-incendios-espana-directo-madrid-avila-toledo-zamora-tiempo-real_4394031/?utm_source=lootura.com) — 2026-07-24T05:44:00.000Z
+- [Cortes de tráfico por los incendios en Madrid: todas las carreteras afectadas, pueblos confinados y focos activos](https://www.elconfidencial.com/espana/madrid/2026-07-24/1qrt-incendios-madrid-cortes-trafico-carreteras-afectadas-pueblos-confinado_4395224/?utm_source=lootura.com) — 2026-07-24T06:18:00.000Z
 - [España afronta una jornada crítica por los incendios forestales con varios frentes activos](https://www.elcorreo.com/sociedad/espana-afronta-jornada-critica-incendios-forestales-varios-20260723212619-ntrc_amp.html?utm_source=lootura.com) — 2026-07-23T19:26:20.000Z
 - [Más de 10.000 evacuados por tres incendios simultáneos en Madrid: “El fuego vino como un cohete”](https://elpais.com/espana/madrid/2026-07-23/mas-de-10000-evacuados-por-tres-fuegos-simultaneos-en-madrid-el-fuego-vino-como-un-cohete.html?utm_source=lootura.com) — 2026-07-23T21:48:45.000Z
 - [Última hora de los incendios forestales, en directo | El Gobierno cuestiona la petición de Ayuso: “Tienen que explicar y justificar esa solicitud”](https://elpais.com/espana/2026-07-23/ultima-hora-de-los-incendios-forestales-en-directo.html?utm_source=lootura.com) — 2026-07-23T20:53:08.000Z
 - [El Gobierno declara la emergencia nacional en la Comunidad de Madrid y en Ávila por cuatro incendios](https://elpais.com/espana/2026-07-23/el-gobierno-declara-la-emergencia-nacional-en-la-comunidad-de-madrid-y-en-avila-por-los-incendios.html?utm_source=lootura.com) — 2026-07-24T00:10:33.000Z
+- [Última hora sobre los incendios en España: Interior asume la dirección de la lucha contra el fuego en Madrid y Ávila](https://www.eldiario.es/sociedad/ultima-hora-incendios-espana-interior-asume-direccion-lucha-fuego-madrid-avila_133_13403506.html?utm_source=lootura.com) — 2026-07-24T05:18:05.000Z
 - [Capital Dynamics, la gestora suiza especializada en capital privado y energías limpias](https://www.expansion.com/mercados/fondos/2026/07/24/6a61de82e5fdea91718b457b.html?utm_source=lootura.com) — 2026-07-23T23:56:17.000Z
-- [Incendios en Madrid, en directo: San Martín de Valdeiglesias confina varias urbanizaciones y desata la alerta en la Comunidad](https://www.larazon.es/madrid/nuevo-incendio-san-martin-valdeiglesias-confina-varias-urbanizaciones-desata-alerta-comunidad-madrid_202607236a6230fbda3add27d4de1808.html?utm_source=lootura.com) — 2026-07-24T01:28:06.000Z
-- [La simultaneidad de incendios en Madrid, Toledo y Ávila dificulta los trabajos de extinción](https://www.lavanguardia.com/vida/20260724/11599753/simultaneidad-incendios-forestales-madrid-toledo-avila-dificulta-trabajos-extincion.html?utm_source=lootura.com) — 2026-07-23T22:58:55.000Z
-- [Marlaska entra en razón y declara la emergencia nacional por los incendios que Ayuso pidió y el delegado del Gobierno negó](https://okdiario.com/espana/marlaska-hace-entrar-razon-gobierno-declara-emergencia-nacional-incendios-que-ayuso-pidio-delegado-nego-19058533?utm_source=lootura.com) — 2026-07-23T22:53:05.000Z
-- [Suspendido el servicio de cinco líneas de interurbanos en Madrid por los incendios](https://theobjective.com/espana/madrid/2026-07-24/suspendido-servicio-interurbanos-madrid-incendios/?utm_source=lootura.com) — 2026-07-23T23:04:49.000Z
+- [Incendios en Madrid, en directo: Declaran la emergencia nacional en Madrid y Ávila y el fuego sigue sin estar perimetrado](https://www.larazon.es/madrid/incendios-madrid-directo-declaran-emergencia-nacional-madrid-avila-fuego-sigue-estar-perimetrado_202607246a6301a8da3add27d4df2b87.html?outputType=amp&utm_source=lootura.com) — 2026-07-24T06:20:37.000Z
+- [Por qué huele a quemado en Madrid: los focos activos que están detrás de la sensación de ambiente cargado en gran parte de la comunidad](https://www.larazon.es/madrid/que-huele-quemado-madrid-focos-activos-que-estan-detras-sensacion-ambiente-cargado-gran-parte-comunidad_202607246a6301e44687a22bdecad6d7.html?utm_source=lootura.com) — 2026-07-24T06:10:44.000Z

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/nueva-jersey/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/nueva-jersey/index.json",
   "description": "Sigue la actividad de El Estado Jardín en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-23T02:31:05.539Z",
+  "updatedAt": "2026-07-24T06:23:11.193Z",
   "aliases": [
     "El Estado Jardín",
     "Estado de Nueva Jersey",
@@ -26,6 +26,11 @@
     "Jersey"
   ],
   "changes": [
+    {
+      "title": "La hora de Carlos Alcaraz: tres semanas clave que definirán su regreso (o no) a la competición",
+      "summary": "El pasado domingo, Carlos Alcaraz irrumpió en el MetLife Stadium de Nueva Jersey envuelto en un traje de color marfil y portando un cofrecillo en cuyo interior se ocultaba la Copa del Mundo de fútbol. También, con una sonrisa de oreja a oreja. Magnífica señal en un deportista especial y diferente, que vive, sueña y com.",
+      "date": "2026-07-24"
+    },
     {
       "title": "De Keyne, el hermano de Lamine Yamal, a la familia numerosa de Cucurella: los apoyos de los jugadores de la selección española fuera del campo",
       "summary": "El césped del MetLife Stadium de Nueva Jersey se convirtió este domingo en el escenario de emotivos encuentros de los futbolistas con sus familiares y amigos después de proclamarse campeones del mundo. Algunos posaron con ellos en persona, otros siempre se acuerdan de ellos en sus declaraciones.",
@@ -52,6 +57,13 @@
       "date": "2026-07-18"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "La hora de Carlos Alcaraz: tres semanas clave que definirán su regreso (o no) a la competición",
+      "url": "https://elpais.com/deportes/tenis/2026-07-24/la-hora-de-carlos-alcaraz-tres-semanas-clave-que-definiran-su-regreso-o-no-a-la-competicion.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-24T03:30:00.000Z",
+      "sourceId": "lootura-es-el-pais"
+    }
+  ],
+  "evidenceCount": 1
 }

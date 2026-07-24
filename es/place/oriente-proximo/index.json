@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/oriente-proximo/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/oriente-proximo/index.json",
   "description": "Sigue la actividad de Oriente Próximo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-23T17:19:26.220Z",
+  "updatedAt": "2026-07-24T06:23:11.193Z",
   "aliases": [
     "Cercano Oriente",
     "Oriente cercano",
@@ -16,6 +16,16 @@
     "Próximo Oriente"
   ],
   "changes": [
+    {
+      "title": "Los aranceles, el petróleo y las preocupaciones por la IA golpean los mercados",
+      "summary": "El alza del precio del petróleo por las tensiones en Oriente Próximo, los aranceles y los resultados de las grandes tecnológicas estadounidenses ante las dudas sobre la rentabilidad de los miles de millones de dólares invertidos en inteligencia artificial sacuden la confianza de los inversores. El riesgo de inflación (.",
+      "date": "2026-07-24"
+    },
+    {
+      "title": "La parálisis en Ormuz y los ataques hutíes en el mar Rojo amenazan con llevar el petróleo a los 120 dólares",
+      "summary": "Los acontecimientos de los últimos días en Oriente Próximo casi remiten a la casilla de salida del conflicto, cuando en marzo EE UU e Israel lanzaron un ataque sobre Irán que fue el inicio de un shock energético que disparó los precios del petróleo y el gas. Con la reanudación de las hostilidades entre Washington y Teh.",
+      "date": "2026-07-24"
+    },
     {
       "title": "El barril de petróleo Brent rebasa los 100 dólares por primera vez en dos meses",
       "summary": "El precio del barril de petróleo Brent, de referencia en Europa, supera la barrera de los 100 dólares por primera vez en los últimos dos meses y alcanza un incremento intradía del 6,3%, mientras continúan los ataques cruzados en Oriente Próximo . Por su parte, el barril de West Texas Intermediate (WTI), de referencia e.",
@@ -55,18 +65,21 @@
       "title": "El pacto nuclear de EE.UU. con Arabia Saudí hace temer una carrera atómica en Oriente Próximo",
       "summary": "Fuentes oficiales de la Casa Blanca han filtrado a los principales medios de prensa anglosajones que el presidente Trump ha cerrado un acuerdo para compartir tecnología nuclear con Arabia Saudí. El plan, que será sometido al Congreso de Estados Unidos para su aprobación, supone un cambio de política radical al no inclu.",
       "date": "2026-07-22"
-    },
-    {
-      "title": "El precio del gas en Europa supera los máximos de marzo y complica el acopio de reservas para el invierno",
-      "summary": "El riesgo de crisis energética asoma de nuevo en su versión más amenazante para Europa con el encarecimiento del gas natural, materia prima clave para la economía de la región. Europa ha encajado hasta ahora el golpe del conflicto en Oriente Próximo, pero la prolongación de la guerra está añadiendo de nuevo presión sob.",
-      "date": "2026-07-22"
-    },
-    {
-      "title": "Naturgy alerta de que Europa puede sufrir escasez de gas este invierno tras las nuevas sanciones a Rusia",
-      "summary": "Naturgy advierte a sus inversores que Europa se enfrenta a una potencial escasez de suministro gasista ante las nuevas sanciones de la Unión Europea contra Rusia y la incertidumbre por la escalada bélica en Oriente Próximo. Seguir leyendo.",
-      "date": "2026-07-22"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Los aranceles, el petróleo y las preocupaciones por la IA golpean los mercados",
+      "url": "https://cincodias.elpais.com/mercados-financieros/2026-07-24/la-bolsa-y-el-ibex-35.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-24T04:34:11.000Z",
+      "sourceId": "lootura-es-cinco-dias"
+    },
+    {
+      "title": "La parálisis en Ormuz y los ataques hutíes en el mar Rojo amenazan con llevar el petróleo a los 120 dólares",
+      "url": "https://elpais.com/economia/2026-07-24/la-paralisis-en-ormuz-y-los-ataques-huties-en-el-mar-rojo-amenazan-con-llevar-el-petroleo-a-los-120-dolares.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-24T03:25:00.000Z",
+      "sourceId": "lootura-es-cinco-dias"
+    }
+  ],
+  "evidenceCount": 2
 }

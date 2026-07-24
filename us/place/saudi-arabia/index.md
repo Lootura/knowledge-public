@@ -3,7 +3,7 @@
 > Follow Saudi Arabia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-24T02:28:29.719Z
+- Updated: 2026-07-24T06:23:31.535Z
 - Canonical: https://atlas.lootura.com/us/place/saudi-arabia
 
 ## Recent changes
@@ -70,7 +70,6 @@ Date: 2026-07-22
 
 ## Sources
 
-- [White House says Saudi Arabia nuclear deal contingent on joining Abraham Accords](https://www.nbcnews.com/now/video/white-house-says-saudi-arabia-nuclear-deal-contingent-on-joining-abraham-accords-267170885845?utm_source=lootura.com) — 2026-07-23T15:53:39.000Z
 - [Morning news brief](https://www.npr.org/2026/07/23/nx-s1-5895984/morning-news-brief?utm_source=lootura.com) — 2026-07-23T08:47:19.000Z
 - [Nuclear Energy Revival Puts Westinghouse in Prime Position](https://www.nytimes.com/2026/07/23/business/energy-environment/westinghouse-nuclear-energy-trump-saudi-arabia.html?utm_source=lootura.com) — 2026-07-23T15:26:07.000Z
 - [Israel Welcomes Trump’s Demand for Diplomatic Ties With Saudi Arabia](https://www.nytimes.com/2026/07/23/us/politics/israel-saudi-arabia-us-nuclear-deal.html?utm_source=lootura.com) — 2026-07-23T17:56:27.000Z

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/iran/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/iran/index.json",
   "description": "Sigue la actividad de Irán en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-24T02:28:09.478Z",
+  "updatedAt": "2026-07-24T06:23:11.193Z",
   "aliases": [
     "IRI",
     "Islamic Rep. Iran",
@@ -18,6 +18,16 @@
     "ir"
   ],
   "changes": [
+    {
+      "title": "Las constructoras dejan desiertas 1.130 obras tras la guerra en Irán por la subida de precios",
+      "summary": "La Confederación Nacional de la Construcción (CNC) denuncia una situación límite en la licitación de obra pública tras el estallido de la guerra en Irán, que ha vuelto a disparar el precio de los materiales para edificar. La patronal de las empresas constructoras ha cifrado hoy en 1.130 el número de concursos que se ha.",
+      "date": "2026-07-24"
+    },
+    {
+      "title": "La parálisis en Ormuz y los ataques hutíes en el mar Rojo amenazan con llevar el petróleo a los 120 dólares",
+      "summary": "Los acontecimientos de los últimos días en Oriente Próximo casi remiten a la casilla de salida del conflicto, cuando en marzo EE UU e Israel lanzaron un ataque sobre Irán que fue el inicio de un shock energético que disparó los precios del petróleo y el gas. Con la reanudación de las hostilidades entre Washington y Teh.",
+      "date": "2026-07-24"
+    },
     {
       "title": "El BCE mantiene los tipos y anticipa una nueva subida en septiembre si la guerra en Irán persiste",
       "summary": "El Eurobanco deja los tipos de interés en el 2,25% y aplaza cualquier decisión a después del verano, cuando contará con nuevas previsiones macroeconómicas.",
@@ -57,23 +67,19 @@
       "title": "El Gobierno salva el escudo anticrisis por la guerra en Irán con rebajas fiscales en los carburantes hasta octubre",
       "summary": "El Ejecutivo ata los apoyos de sus socios habituales pese a las críticas de algunos como Podemos, que cuestionan las rebajas fiscales mientras energéticas como Repsol disparan sus beneficios PSOE y Sumar pactan que el decreto de vivienda incluya una prórroga de los alquileres hasta julio de 2028 El Gobierno ha salvado.",
       "date": "2026-07-23"
-    },
-    {
-      "title": "El precio de los carburantes, desbocado por el fin de la rebaja del IVA: el depósito se encarece un 13% en tres semanas, un euro extra cada 48 horas",
-      "summary": "El contador del surtidor sube más deprisa que hace un mes y asfixia a los hogares españoles en plenas vacaciones de verano. Desde el 30 de junio, cuando expiró la rebaja fiscal aprobada para amortiguar el impacto de la guerra entre Estados Unidos e Irán, el depósito de combustible se ha encarecido a un ritmo cercano a.",
-      "date": "2026-07-23"
-    },
-    {
-      "title": "Contención en las Bolsas con el petróleo en máximos de seis semanas",
-      "summary": "Los inversores sopesan las tensiones geopolíticas al tiempo que esperan resultados empresariales y decisiones de política monetaria. Entre tanto, los precios del petróleo encadenan su quinta sesión consecutiva al alza hasta máximos de seis semanas, después de que los hutíes de Yemen, alineados con Irán, reivindicaran a.",
-      "date": "2026-07-23"
     }
   ],
   "sources": [
     {
-      "title": "El petróleo vuelve a superar los 100 dólares y desata otra oleada de ventas en los mercados",
-      "url": "https://cincodias.elpais.com/mercados-financieros/2026-07-23/la-bolsa-y-el-ibex-35.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-23T20:08:19.000Z",
+      "title": "Las constructoras dejan desiertas 1.130 obras tras la guerra en Irán por la subida de precios",
+      "url": "https://www.abc.es/economia/constructoras-dejan-desiertas-1130-obras-tras-guerra-20260723134116-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-24T04:57:17.000Z",
+      "sourceId": "lootura-es-abc"
+    },
+    {
+      "title": "La parálisis en Ormuz y los ataques hutíes en el mar Rojo amenazan con llevar el petróleo a los 120 dólares",
+      "url": "https://elpais.com/economia/2026-07-24/la-paralisis-en-ormuz-y-los-ataques-huties-en-el-mar-rojo-amenazan-con-llevar-el-petroleo-a-los-120-dolares.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-24T03:25:00.000Z",
       "sourceId": "lootura-es-cinco-dias"
     },
     {
@@ -81,19 +87,7 @@
       "url": "https://www.elcorreo.com/economia/bce-mantiene-tipos-anticipa-nueva-subida-septiembre-20260723141530-ntrc_amp.html?utm_source=lootura.com",
       "publishedAt": "2026-07-23T12:16:09.000Z",
       "sourceId": "lootura-es-el-correo"
-    },
-    {
-      "title": "El Congreso rechaza otra vez la senda de déficit con el voto de PP, Vox y Junts y da vía libre al Gobierno para el Presupuesto",
-      "url": "https://www.eldiario.es/economia/congreso-rechaza-vez-senda-deficit-voto-pp-vox-junts-da-via-libre-gobierno-presupuesto_1_13402684.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-23T18:59:41.000Z",
-      "sourceId": "lootura-es-eldiario-es"
-    },
-    {
-      "title": "La jubilación parcial del personal laboral de las administraciones sale adelante en el Congreso tras la abstención del PP",
-      "url": "https://www.eldiario.es/economia/jubilacion-parcial-personal-laboral-administraciones-sale-adelante-congreso-gracias-abstencion-pp_1_13401849.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-23T18:53:02.000Z",
-      "sourceId": "lootura-es-eldiario-es"
     }
   ],
-  "evidenceCount": 4
+  "evidenceCount": 3
 }

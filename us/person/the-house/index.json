@@ -32,19 +32,6 @@
       "date": "2026-07-23"
     }
   ],
-  "sources": [
-    {
-      "title": "House again rebukes Trump over Iran, while similar effort stalls in Senate",
-      "url": "https://www.cbsnews.com/news/house-trump-war-powers-vote/?utm_source=lootura.com",
-      "publishedAt": "2026-07-23T16:54:09.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
-    {
-      "title": "Some House Republicans defect to again pass resolution seeking to halt military action in Iran",
-      "url": "https://www.pbs.org/newshour/politics/some-house-republicans-defect-to-again-pass-resolution-seeking-to-halt-military-action-in-iran?utm_source=lootura.com",
-      "publishedAt": "2026-07-23T16:19:36.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
-    }
-  ],
-  "evidenceCount": 2
+  "sources": [],
+  "evidenceCount": 0
 }

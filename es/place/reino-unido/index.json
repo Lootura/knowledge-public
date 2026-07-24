@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/reino-unido/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/reino-unido/index.json",
   "description": "Sigue la actividad de Reino Unido de Gran Bretaña e Irlanda del Norte en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-24T02:28:09.478Z",
+  "updatedAt": "2026-07-24T06:23:11.193Z",
   "aliases": [
     "El Reino Unido",
     "G B",
@@ -23,6 +23,11 @@
     "the United Kingdom of Great Britain and Northern Ireland"
   ],
   "changes": [
+    {
+      "title": "Burnham establece una nueva sede del Gobierno de Reino Unido en Manchester",
+      "summary": "El nuevo primer ministro de Reino Unido y exalcalde de Mánchester, Andy Burnham, ha anunciado que constituirá en esta ciudad del norte de Inglaterra «la.",
+      "date": "2026-07-24"
+    },
     {
       "title": "Trump impone nuevos aranceles de entre el 10% y el 12,5% a más de 60 países para mantener su muro comercial",
       "summary": "El presidente de Estados Unidos, Donald Trump, ha aprobado este jueves una orden ejecutiva para imponer aranceles de entre el 10% y el 12,5% a más de 60 países, entre los que se encuentran España y el resto de miembros de la Unión Europea, Reino Unido, China, India, Japón, Corea del Sur o México, por no haber tomado su.",
@@ -67,19 +72,14 @@
       "title": "Francia, al borde de emitir una señal de peligro en el mercado de deuda",
       "summary": "Mientras muchos analistas están pendientes de las primeras decisiones de Andy Burnham como primer ministro británico , por su posible impacto en el déficit de Reino Unido , algunos inversores miran ya a otro potencial flanco débil en la economía europea: Francia . Seguir leyendo.",
       "date": "2026-07-21"
-    },
-    {
-      "title": "Burnham anuncia como primera medida la supresión del IVA en la factura eléctrica",
-      "summary": "El nuevo primer ministro del Reino Unido, Andy Burnham , está decidido a que el periodo de gracia que acaba de estrenar dure todo lo posible. Horas después de poner un pie en Downing Street, su primera medida anunciada este martes ha sido la supresión del IVA de la factura eléctrica de los hogares. No es una cantidad m.",
-      "date": "2026-07-21"
     }
   ],
   "sources": [
     {
-      "title": "Trump impone nuevos aranceles de entre el 10% y el 12,5% a más de 60 países para mantener su muro comercial",
-      "url": "https://elpais.com/internacional/2026-07-23/trump-impone-nuevos-aranceles-de-entre-el-10-y-el-125-a-60-paises-para-mantener-su-muro-comercial.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-23T21:35:58.000Z",
-      "sourceId": "lootura-es-cinco-dias"
+      "title": "Burnham establece una nueva sede del Gobierno de Reino Unido en Manchester",
+      "url": "https://theobjective.com/internacional/2026-07-24/burnham-sede-gobierno-reino-unido-manchester/?amp=&utm_source=lootura.com",
+      "publishedAt": "2026-07-24T06:16:16.000Z",
+      "sourceId": "lootura-es-the-objective"
     }
   ],
   "evidenceCount": 1

@@ -8,16 +8,11 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/democratic-party/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/democratic-party/index.json",
   "description": "Follow Democratic Party, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-24T02:28:29.719Z",
+  "updatedAt": "2026-07-24T06:23:31.535Z",
   "aliases": [
     "Democrats"
   ],
   "changes": [
-    {
-      "title": "House again rebukes Trump over Iran, while similar effort stalls in Senate",
-      "summary": "The House on Thursday voted to direct President Trump to end the war with Iran, after four Republicans joined Democrats to rebuke the president over his handling of the conflict.",
-      "date": "2026-07-23"
-    },
     {
       "title": "For a 2nd time, House approves resolution to end the war in Iran in a rebuke to Trump",
       "summary": "Four Republicans joined Democrats to approve the measure. And while it is not legally binding, the resolution represents growing frustration inside Congress over the war. (Image credit: J. Scott Applewhite).",
@@ -26,6 +21,11 @@
     {
       "title": "House Rebukes Trump on Iran in War Powers Vote as Senate Blocks Debate",
       "summary": "For the second time, a few House Republicans joined Democrats to back a measure calling on the president to seek authorization for the war.",
+      "date": "2026-07-23"
+    },
+    {
+      "title": "House again rebukes Trump over Iran, while similar effort stalls in Senate",
+      "summary": "The House on Thursday voted to direct President Trump to end the war with Iran, after four Republicans joined Democrats to rebuke the president over his handling of the conflict.",
       "date": "2026-07-23"
     },
     {
@@ -66,12 +66,6 @@
   ],
   "sources": [
     {
-      "title": "House again rebukes Trump over Iran, while similar effort stalls in Senate",
-      "url": "https://www.cbsnews.com/news/house-trump-war-powers-vote/?utm_source=lootura.com",
-      "publishedAt": "2026-07-23T16:54:09.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
-    {
       "title": "For a 2nd time, House approves resolution to end the war in Iran in a rebuke to Trump",
       "url": "https://www.npr.org/2026/07/23/nx-s1-5904515/congress-iran-war-powers-vote?utm_source=lootura.com",
       "publishedAt": "2026-07-23T17:35:02.000Z",
@@ -84,5 +78,5 @@
       "sourceId": "lootura-us-the-new-york-times"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 2
 }

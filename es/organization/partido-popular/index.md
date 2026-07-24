@@ -70,13 +70,4 @@ Date: 2026-07-23
 
 ## Fuentes
 
-- [Vox y PP piden a Tribunal de Cuentas que investigue a la Diputación de Badajoz tras la condena al hermano de Sánchez](https://www.elindependiente.com/espana/2026/07/23/vox-y-pp-piden-a-tribunal-de-cuentas-que-investigue-a-la-diputacion-de-badajoz-tras-la-condena-al-hermano-de-sanchez/?utm_source=lootura.com) — 2026-07-23T18:16:42.000Z
-- [El PP planta al Gobierno en la Conferencia de Inmigración y le acusa de "deslealtad"](https://www.elmundo.es/espana/2026/07/23/6a620419fdddffd36e8b45a4.html?utm_source=lootura.com) — 2026-07-23T12:29:53.000Z
-- [Última hora de la actualidad política, en directo | El PSOE mantiene “exactamente la misma posición” en su defensa del exjefe de Gobierno](https://elpais.com/espana/2026-07-23/ultima-hora-de-la-actualidad-politica-en-directo.html?utm_source=lootura.com) — 2026-07-23T13:37:20.000Z
-- [El Congreso aprueba definitivamente la pasarela de los mutualistas a la Seguridad Social, pero excluye a los ya jubilados](https://www.eldiario.es/economia/congreso-aprueba-definitivamente-pasarela-mutualistas-seguridad-social-excluye-jubilados_1_13403158.html?utm_source=lootura.com) — 2026-07-23T19:24:42.000Z
-- [Sánchez, a Feijóo: "Se le ha olvidado que hay unas elecciones de por medio, y ya veremos"](https://www.eldiario.es/politica/sanchez-feijoo-le-olvidado-hay-elecciones-medio-veremos_1_13403082.html?utm_source=lootura.com) — 2026-07-23T18:29:29.000Z
-- [El Congreso rechaza otra vez la senda de déficit con el voto de PP, Vox y Junts y da vía libre al Gobierno para el Presupuesto](https://www.eldiario.es/economia/congreso-rechaza-vez-senda-deficit-voto-pp-vox-junts-da-via-libre-gobierno-presupuesto_1_13402684.html?utm_source=lootura.com) — 2026-07-23T18:59:41.000Z
-- [La jubilación parcial del personal laboral de las administraciones sale adelante en el Congreso tras la abstención del PP](https://www.eldiario.es/economia/jubilacion-parcial-personal-laboral-administraciones-sale-adelante-congreso-gracias-abstencion-pp_1_13401849.html?utm_source=lootura.com) — 2026-07-23T18:53:02.000Z
-- [Junts se suma al bloque de investidura para poder tramitar la quita de la deuda autonómica](https://theobjective.com/espana/politica/2026-07-23/junts-gobierno-quita-deuda-autonomica/?utm_source=lootura.com) — 2026-07-23T19:28:35.000Z
-- [El PP denuncia a David Sánchez para que devuelva los 417.000 euros del sueldo que ganó](https://theobjective.com/espana/politica/2026-07-23/pp-david-sanchez-417-000-plaza-diputacion-badajoz/?utm_source=lootura.com) — 2026-07-23T19:57:19.000Z
-- [El Congreso rebaja los requisitos para formar grupo propio a petición de los nacionalistas](https://theobjective.com/espana/politica/2026-07-24/congreso-requisitos-grupo-propio-nacionalistas/?utm_source=lootura.com) — 2026-07-23T22:21:25.000Z
+No public source links.

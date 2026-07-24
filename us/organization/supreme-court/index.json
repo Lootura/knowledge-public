@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/supreme-court/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/supreme-court/index.json",
   "description": "Follow Supreme court, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-24T02:28:29.719Z",
+  "updatedAt": "2026-07-24T06:23:31.535Z",
   "aliases": [
     "U.S. Supreme Court",
     "apex court",
@@ -16,6 +16,16 @@
     "highest court of appeal"
   ],
   "changes": [
+    {
+      "title": "Trump imposes fresh tariffs on more than 80 countries, drawing protests from US allies and trading partners",
+      "summary": "The new tariffs will replace a 10% global duty set to expire on Friday, and comes as after the US supreme court declared many of the earlier levies were illegal Donald Trump has imposed a fresh round of sweeping tariffs on more than 80 countries to replace a 10% global duty that was due to expire, setting off a wave of.",
+      "date": "2026-07-24"
+    },
+    {
+      "title": "Trump’s Global Tariffs: What’s the Latest on the Trade War",
+      "summary": "The president has unveiled a complicated system to forge ahead with his trade war, after the Supreme Court stuck down his original levies.",
+      "date": "2026-07-24"
+    },
     {
       "title": "Supreme Court Turbocharges Presidential Power",
       "summary": "A pair of decisions reshaped the structure of the federal government.",
@@ -55,16 +65,6 @@
       "title": "Justice Kagan Tells House Panel That ‘Threats Have Come Very Close’",
       "summary": "In her prepared remarks, Justice Elena Kagan said the Supreme Court Police estimated a 38 percent increase in threats this year.",
       "date": "2026-07-14"
-    },
-    {
-      "title": "Barrett testifies about swatting incident and threatening packages at hearing",
-      "summary": "During a hearing on the Supreme Court's budget, Justice Amy Coney Barrett shared the security threats she and her family have faced, including a swatting incident and threatening packages sent to her home.",
-      "date": "2026-07-14"
-    },
-    {
-      "title": "With Threats Rising, Supreme Court Asks Congress to Increase Security Funds",
-      "summary": "Justices Amy Coney Barrett and Elena Kagan are scheduled to make a rare appearance at the Capitol to testify about the court’s more than $200 million request.",
-      "date": "2026-07-13"
     }
   ],
   "sources": [
@@ -75,11 +75,23 @@
       "sourceId": "lootura-us-pbs-newshour"
     },
     {
+      "title": "Trump imposes fresh tariffs on more than 80 countries, drawing protests from US allies and trading partners",
+      "url": "https://www.theguardian.com/us-news/2026/jul/23/trump-administration-trade-tariffs?utm_source=lootura.com",
+      "publishedAt": "2026-07-24T04:03:27.000Z",
+      "sourceId": "lootura-us-the-guardian-us"
+    },
+    {
+      "title": "Trump’s Global Tariffs: What’s the Latest on the Trade War",
+      "url": "https://www.nytimes.com/article/trump-tariffs-trade.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-24T04:01:02.000Z",
+      "sourceId": "lootura-us-the-new-york-times"
+    },
+    {
       "title": "Supreme Court Turbocharges Presidential Power",
       "url": "https://www.nytimes.com/2026/07/23/us/politics/the-docket-presidential-power-trump.html?utm_source=lootura.com",
       "publishedAt": "2026-07-23T16:07:36.000Z",
       "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 5
 }

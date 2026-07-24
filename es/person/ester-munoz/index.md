@@ -22,4 +22,4 @@ Date: 2026-07-23
 
 ## Fuentes
 
-- [Última hora de la actualidad política, en directo | El PSOE mantiene “exactamente la misma posición” en su defensa del exjefe de Gobierno](https://elpais.com/espana/2026-07-23/ultima-hora-de-la-actualidad-politica-en-directo.html?utm_source=lootura.com) — 2026-07-23T13:37:20.000Z
+No public source links.

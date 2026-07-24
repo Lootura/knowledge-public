@@ -3,7 +3,7 @@
 > Follow Ukraine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-24T02:28:29.719Z
+- Updated: 2026-07-24T06:23:31.535Z
 - Canonical: https://atlas.lootura.com/us/place/ukraine
 
 ## Recent changes
@@ -11,6 +11,12 @@
 ### Laura Loomer meets with Ukraine's Zelenskyy after her major reversal on the war
 
 Laura Loomer, an ardent ally of President Donald Trump with a reputation for incendiary social media commentary, sat down with Ukrainian President Volodymyr Zelenskyy on Thursday after a dramatic turnaround on the war that could have political reverberations back in Washington.
+
+Date: 2026-07-24
+
+### Rubio says U.S. is ready to help end war in Ukraine but no quick deal ahead
+
+Secretary of State Marco Rubio, who met with his Russian counterpart Sergey Lavrov, said that President Trump was committed to the work "if conditions and factors have changed to make that possible." (Image credit: BRENDAN SMIALOWSKI).
 
 Date: 2026-07-24
 
@@ -62,12 +68,7 @@ The firing caps a major crisis for Volodymyr Zelenskyy after Ukrainians took to 
 
 Date: 2026-07-21
 
-### Tech innovator and old guard general are focus of Ukraine's political crisis
-
-When their personalities and policies clashed, President Volodymyr Zelenskyy decided to fire popular young Defense Minister Mykhailo Fedorov and keep Gen. Oleksandr Syrskyi.
-
-Date: 2026-07-21
-
 ## Sources
 
+- [Rubio says U.S. is ready to help end war in Ukraine but no quick deal ahead](https://www.npr.org/2026/07/24/g-s1-135405/rubio-ukraine-russia-war?utm_source=lootura.com) — 2026-07-24T05:45:47.000Z
 - [Laura Loomer meets with Ukraine's Zelenskyy after her major reversal on the war](https://www.pbs.org/newshour/world/laura-loomer-meets-with-ukraines-zelenskyy-after-her-major-reversal-on-the-war?utm_source=lootura.com) — 2026-07-24T00:02:06.000Z

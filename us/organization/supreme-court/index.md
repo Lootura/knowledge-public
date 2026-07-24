@@ -3,10 +3,22 @@
 > Follow Supreme court, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-07-24T02:28:29.719Z
+- Updated: 2026-07-24T06:23:31.535Z
 - Canonical: https://atlas.lootura.com/us/organization/supreme-court
 
 ## Recent changes
+
+### Trump imposes fresh tariffs on more than 80 countries, drawing protests from US allies and trading partners
+
+The new tariffs will replace a 10% global duty set to expire on Friday, and comes as after the US supreme court declared many of the earlier levies were illegal Donald Trump has imposed a fresh round of sweeping tariffs on more than 80 countries to replace a 10% global duty that was due to expire, setting off a wave of.
+
+Date: 2026-07-24
+
+### Trump’s Global Tariffs: What’s the Latest on the Trade War
+
+The president has unveiled a complicated system to forge ahead with his trade war, after the Supreme Court stuck down his original levies.
+
+Date: 2026-07-24
 
 ### Supreme Court Turbocharges Presidential Power
 
@@ -56,19 +68,9 @@ In her prepared remarks, Justice Elena Kagan said the Supreme Court Police estim
 
 Date: 2026-07-14
 
-### Barrett testifies about swatting incident and threatening packages at hearing
-
-During a hearing on the Supreme Court's budget, Justice Amy Coney Barrett shared the security threats she and her family have faced, including a swatting incident and threatening packages sent to her home.
-
-Date: 2026-07-14
-
-### With Threats Rising, Supreme Court Asks Congress to Increase Security Funds
-
-Justices Amy Coney Barrett and Elena Kagan are scheduled to make a rare appearance at the Capitol to testify about the court’s more than $200 million request.
-
-Date: 2026-07-13
-
 ## Sources
 
 - [Trump imposes double-digit tariffs on dozens of countries as stopgap 10% levies expire Friday](https://www.pbs.org/newshour/politics/trump-imposes-double-digit-tariffs-on-dozens-of-countries-as-stopgap-10-levies-expire-friday?utm_source=lootura.com) — 2026-07-23T23:04:52.000Z
+- [Trump imposes fresh tariffs on more than 80 countries, drawing protests from US allies and trading partners](https://www.theguardian.com/us-news/2026/jul/23/trump-administration-trade-tariffs?utm_source=lootura.com) — 2026-07-24T04:03:27.000Z
+- [Trump’s Global Tariffs: What’s the Latest on the Trade War](https://www.nytimes.com/article/trump-tariffs-trade.html?utm_source=lootura.com) — 2026-07-24T04:01:02.000Z
 - [Supreme Court Turbocharges Presidential Power](https://www.nytimes.com/2026/07/23/us/politics/the-docket-presidential-power-trump.html?utm_source=lootura.com) — 2026-07-23T16:07:36.000Z

@@ -8,9 +8,14 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/malaga/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/malaga/index.json",
   "description": "Sigue la actividad de Málaga en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-23T10:20:05.700Z",
+  "updatedAt": "2026-07-24T06:23:11.193Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "Lío en Málaga con el Palacio de la Ópera: temor a que los congresos desplacen a la música",
+      "summary": "Desde comienzos de siglo, Málaga ha confeccionado un amplio escaparate cultural con el Museo Picasso, el Centre Pompidou, el Ruso -cuyas obras se retiraron al inicio de la invasión de Ucrania- o el Carmen Thyssen. Ese despliegue, que dio pie a una etiqueta de ciudad de los museos que ya empieza a sonar manida, ha convi.",
+      "date": "2026-07-24"
+    },
     {
       "title": "La Aemet sitúa a seis provincias andaluzas en aviso naranja por temperaturas de 42ºC",
       "summary": "La Agencia Estatal de Meteorología (Aemet) ha activado para este jueves aviso naranja por calor en Almería, Cádiz, Córdoba, Granada, Jaén y Málaga por temperaturas máximas que podrían alcanzar los 41 grados y alerta amarilla por temperaturas máximas en Sevilla, así como por tormentas en la provincia de Almería que podr.",
@@ -55,13 +60,15 @@
       "title": "Discovered by Atlas",
       "summary": "Málaga first entered the public knowledge record with source-backed evidence.",
       "date": "2026-07-17"
-    },
-    {
-      "title": "José María Almoguera aclara la polémica por la venta de la casa de María Teresa Campos: «Hemos confiado en alguien que la ha liado»",
-      "summary": "José María Almoguera vuelve a situarse en el centro de la actualidad, aunque esta vez no es por su vida sentimental. El hijo de Carmen Borrego ha sido señalado tras la inesperada aparición de la casa que María Teresa Campos tenía en Málaga en un conocido portal inmobiliario. El inmueble, adquirido por la periodista en.",
-      "date": "2026-07-17"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Lío en Málaga con el Palacio de la Ópera: temor a que los congresos desplacen a la música",
+      "url": "https://www.elconfidencial.com/espana/andalucia/2026-07-24/malaga-palacio-opera-auditorio-congresos-musica_4394945/?utm_source=lootura.com",
+      "publishedAt": "2026-07-24T03:00:00.000Z",
+      "sourceId": "lootura-es-el-confidencial"
+    }
+  ],
+  "evidenceCount": 1
 }

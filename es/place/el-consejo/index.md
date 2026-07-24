@@ -3,10 +3,16 @@
 > Sigue la actividad de El Consejo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-23T06:28:35.711Z
+- Actualizado: 2026-07-24T06:23:11.193Z
 - Canonical: https://atlas.lootura.com/es/place/el-consejo
 
 ## Cambios recientes
+
+### Golpe del Consejo de Estado a la ley anticorrupción de Bolaños: duda que sirva para luchar contra el fraude
+
+El anteproyecto de Ley de Integridad Pública impulsado por el Gobierno sigue sumando opiniones críticas. El Consejo de Estado ha emitido un duro informe en el que alerta de que algunas de las líneas principales de la norma diseñada por los socialistas podrían acarrear serios problemas para la seguridad jurídica. El doc.
+
+Date: 2026-07-24
 
 ### El BCE dejará los tipos sin cambios pero sin perder de vista el coste creciente de la energía
 
@@ -46,4 +52,4 @@ Date: 2026-07-21
 
 ## Fuentes
 
-No public source links.
+- [Golpe del Consejo de Estado a la ley anticorrupción de Bolaños: duda que sirva para luchar contra el fraude](https://www.elconfidencial.com/espana/2026-07-24/golpe-consejo-estado-ley-anticorrupcion-bolanos-fraude_4395171/?utm_source=lootura.com) — 2026-07-24T03:00:00.000Z

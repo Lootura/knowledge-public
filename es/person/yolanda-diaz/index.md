@@ -3,10 +3,16 @@
 > Sigue la actividad de Yolanda Díaz en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-24T02:28:09.478Z
+- Actualizado: 2026-07-24T06:23:11.193Z
 - Canonical: https://atlas.lootura.com/es/person/yolanda-diaz
 
 ## Cambios recientes
+
+### Economía y Trabajo pactan llevar el registro horario a septiembre para salvar las objeciones del Consejo de Estado
+
+Las dos vicepresidencias se dan el verano para cerrar los últimos flecos del real decreto que prevé endurecer el registro horario, tras unos informes consultivos demoledores con la norma El Gobierno propone a la vicepresidenta Yolanda Díaz como candidata a dirigir la OIT Los vicepresidentes Carlos Cuerpo y Yolanda Díaz.
+
+Date: 2026-07-24
 
 ### El Gobierno lanza a Yolanda Díaz como candidata para dirigir la OIT
 
@@ -62,12 +68,6 @@ El Gobierno propone a Yolanda Díaz como directora general de la Organización I
 
 Date: 2026-07-23
 
-### El Gobierno propone a Yolanda Díaz para dirigir la Organización Internacional del Trabajo
-
-Sánchez destaca que la vicepresidenta "ha demostrado con políticas y resultados su compromiso con los derechos laborales, el diálogo social y la prosperidad de España" Leer.
-
-Date: 2026-07-23
-
 ## Fuentes
 
-- [El Gobierno lanza a Yolanda Díaz como candidata para dirigir la OIT](https://www.abc.es/espana/moncloa-propone-yolanda-diaz-optar-direccion-general-20260723090113-nt.html?utm_source=lootura.com) — 2026-07-24T00:51:41.000Z
+- [Economía y Trabajo pactan llevar el registro horario a septiembre para salvar las objeciones del Consejo de Estado](https://www.eldiario.es/economia/economia-trabajo-pactan-llevar-registro-horario-septiembre-salvar-objeciones-consejo_1_13403321.html?utm_source=lootura.com) — 2026-07-24T06:00:03.000Z

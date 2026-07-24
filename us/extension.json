@@ -1,32 +1,58 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-24T04:52:53.616Z",
+  "generatedAt": "2026-07-24T06:33:04.437Z",
   "radar": {
     "id": "usa",
     "slug": "us",
     "locale": "en"
   },
   "state": {
-    "signature": "1.18.0|24|1784860109719",
+    "signature": "1.18.0|25|1784874211535",
     "version": "1.18.0",
-    "build": 24,
-    "latestEntityUpdatedAt": "2026-07-24T02:28:29.719Z"
+    "build": 25,
+    "latestEntityUpdatedAt": "2026-07-24T06:23:31.535Z"
   },
   "atlas": {
     "hero": {
-      "id": "usa-donald-trump",
-      "name": "Donald Trump",
-      "type": "person",
-      "title": "Trump imposes new tariffs on dozens of countries, citing forced labor concerns",
-      "url": "https://atlas.lootura.com/us/person/donald-trump",
-      "path": "/us/person/donald-trump",
-      "updatedAt": "2026-07-24T02:28:29.719Z",
-      "score": 1720,
-      "sourceCount": 381,
+      "id": "usa-united-states",
+      "name": "United States",
+      "type": "place",
+      "title": "Trump administration imposes new tariffs on dozens of countries, citing forced labor concerns",
+      "url": "https://atlas.lootura.com/us/place/united-states",
+      "path": "/us/place/united-states",
+      "updatedAt": "2026-07-24T06:23:31.535Z",
+      "score": 1740,
+      "sourceCount": 423,
       "isBreaking": false,
       "isPinned": false
     },
     "cards": [
+      {
+        "id": "usa-supreme-court",
+        "name": "Supreme court",
+        "type": "organization",
+        "title": "Trump imposes fresh tariffs on more than 80 countries, drawing protests from US allies and trading partners",
+        "url": "https://atlas.lootura.com/us/organization/supreme-court",
+        "path": "/us/organization/supreme-court",
+        "updatedAt": "2026-07-24T06:23:31.535Z",
+        "score": 1701,
+        "sourceCount": 18,
+        "isBreaking": false,
+        "isPinned": false
+      },
+      {
+        "id": "usa-donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "title": "Rapid pace of interceptor and precision-guided weapons use worries Trump admin.",
+        "url": "https://atlas.lootura.com/us/person/donald-trump",
+        "path": "/us/person/donald-trump",
+        "updatedAt": "2026-07-24T06:23:31.535Z",
+        "score": 1680,
+        "sourceCount": 386,
+        "isBreaking": false,
+        "isPinned": false
+      },
       {
         "id": "usa-saudi-arabia",
         "name": "Saudi Arabia",
@@ -34,52 +60,26 @@
         "title": "Israel Welcomes Trump’s Demand for Diplomatic Ties With Saudi Arabia",
         "url": "https://atlas.lootura.com/us/place/saudi-arabia",
         "path": "/us/place/saudi-arabia",
-        "updatedAt": "2026-07-24T02:28:29.719Z",
-        "score": 1687,
+        "updatedAt": "2026-07-24T06:23:31.535Z",
+        "score": 1676,
         "sourceCount": 16,
         "isBreaking": false,
         "isPinned": false
       },
       {
-        "id": "usa-united-states",
-        "name": "United States",
+        "id": "usa-middle-east",
+        "name": "Middle East",
         "type": "place",
-        "title": "Trump imposes new tariffs on dozens of countries, citing forced labor concerns",
-        "url": "https://atlas.lootura.com/us/place/united-states",
-        "path": "/us/place/united-states",
-        "updatedAt": "2026-07-24T02:28:29.719Z",
-        "score": 1684,
-        "sourceCount": 421,
-        "isBreaking": false,
-        "isPinned": false
-      },
-      {
-        "id": "usa-iran",
-        "name": "Iran",
-        "type": "place",
-        "title": "A Fallen Soldier’s Angst, Love and Longing to Return Home From the Iran War",
-        "url": "https://atlas.lootura.com/us/place/iran",
-        "path": "/us/place/iran",
-        "updatedAt": "2026-07-24T02:28:29.719Z",
-        "score": 1646,
-        "sourceCount": 219,
-        "isBreaking": false,
-        "isPinned": false
-      },
-      {
-        "id": "usa-white-house",
-        "name": "White House",
-        "type": "organization",
-        "title": "The White House pushes healthy eating. It cut a landmark nutrition education program",
-        "url": "https://atlas.lootura.com/us/organization/white-house",
-        "path": "/us/organization/white-house",
-        "updatedAt": "2026-07-24T02:28:29.719Z",
-        "score": 1639,
-        "sourceCount": 60,
+        "title": "U.S.-Saudi Deal Prompts Fears of a Global Nuclear Arms Race",
+        "url": "https://atlas.lootura.com/us/place/middle-east",
+        "path": "/us/place/middle-east",
+        "updatedAt": "2026-07-24T06:23:31.535Z",
+        "score": 1632,
+        "sourceCount": 16,
         "isBreaking": false,
         "isPinned": false
       }
     ],
-    "publicEntityCount": 75
+    "publicEntityCount": 74
   }
 }

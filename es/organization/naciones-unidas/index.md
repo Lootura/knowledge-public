@@ -70,4 +70,4 @@ Date: 2026-07-19
 
 ## Fuentes
 
-- [El Gobierno lanza a Yolanda Díaz como candidata para dirigir la OIT](https://www.abc.es/espana/moncloa-propone-yolanda-diaz-optar-direccion-general-20260723090113-nt.html?utm_source=lootura.com) — 2026-07-24T00:51:41.000Z
+No public source links.

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/saudi-arabia/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/saudi-arabia/index.json",
   "description": "Follow Saudi Arabia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-24T02:28:29.719Z",
+  "updatedAt": "2026-07-24T06:23:31.535Z",
   "aliases": [
     "Kingdom of Saudi Arabia",
     "Saudi"
@@ -67,12 +67,6 @@
   ],
   "sources": [
     {
-      "title": "White House says Saudi Arabia nuclear deal contingent on joining Abraham Accords",
-      "url": "https://www.nbcnews.com/now/video/white-house-says-saudi-arabia-nuclear-deal-contingent-on-joining-abraham-accords-267170885845?utm_source=lootura.com",
-      "publishedAt": "2026-07-23T15:53:39.000Z",
-      "sourceId": "lootura-us-nbc-news"
-    },
-    {
       "title": "Morning news brief",
       "url": "https://www.npr.org/2026/07/23/nx-s1-5895984/morning-news-brief?utm_source=lootura.com",
       "publishedAt": "2026-07-23T08:47:19.000Z",
@@ -91,5 +85,5 @@
       "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 4
+  "evidenceCount": 3
 }

@@ -3,10 +3,16 @@
 > Sigue la actividad de País Vasco en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-24T02:28:09.478Z
+- Actualizado: 2026-07-24T06:23:11.193Z
 - Canonical: https://atlas.lootura.com/es/place/pais-vasco
 
 ## Cambios recientes
+
+### Ya es oficial: Euskadi y Andalucía recuperan su conexión aérea directa con una nueva ruta entre Bilbao y Granada
+
+La Diputación de Granada adjudica a Vueling un contrato de tres años con 104 frecuencias anuales que pondrá fin a la intermitencia en el enlace e incluirá también la recuperación de los vuelos a Valencia.
+
+Date: 2026-07-24
 
 ### Rebajan la condena de siete a tres años y medio de cárcel a un vizcaíno por tenencia ilícita de armas y fabricación de munición
 
@@ -62,12 +68,7 @@ Un extenso informe de la Asociación de Mutuas española constata una «hipercon
 
 Date: 2026-07-18
 
-### Las escaleras más famosas de Bizkaia
-
-San Juan de Gaztelugatxe recibe más de 1.400 visitantes al día. La fe, el paisaje y Juego de Tronos explican el éxito de los rincones más visitados del País Vasco.
-
-Date: 2026-07-18
-
 ## Fuentes
 
 - [Rebajan la condena de siete a tres años y medio de cárcel a un vizcaíno por tenencia ilícita de armas y fabricación de munición](https://www.elcorreo.com/bizkaia/condenan-tres-anos-medio-carcel-vecino-bizkaia-20260723114522-nt_amp.html?utm_source=lootura.com) — 2026-07-23T09:45:22.000Z
+- [Ya es oficial: Euskadi y Andalucía recuperan su conexión aérea directa con una nueva ruta entre Bilbao y Granada](https://www.diariovasco.com/sociedad/oficial-euskadi-andalucia-recuperan-conexion-aerea-directa-20260724174904-nt_amp.html?utm_source=lootura.com) — 2026-07-24T05:32:40.000Z

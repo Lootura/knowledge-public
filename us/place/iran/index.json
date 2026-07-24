@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/iran/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/iran/index.json",
   "description": "Follow Iran, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-24T02:28:29.719Z",
+  "updatedAt": "2026-07-24T06:23:31.535Z",
   "aliases": [
     "IRI",
     "Islamic Rep. Iran",
@@ -32,23 +32,13 @@
       "date": "2026-07-24"
     },
     {
+      "title": "Brent Crude Oil Prices Top $100 as Conflict With Iran Drags On",
+      "summary": "Stocks in Asia were down following a sell-off in the U.S. markets over soaring oil prices, rising borrowing costs and worries about the technology industry.",
+      "date": "2026-07-24"
+    },
+    {
       "title": "Funding milestone detected",
       "summary": "Trump administration signs nuclear cooperation agreement with Saudi Arabia, Trump ramps up aggression against Iran despite declining support, House passes Pentagon funding bill.",
-      "date": "2026-07-23"
-    },
-    {
-      "title": "House again rebukes Trump over Iran, while similar effort stalls in Senate",
-      "summary": "The House on Thursday voted to direct President Trump to end the war with Iran, after four Republicans joined Democrats to rebuke the president over his handling of the conflict.",
-      "date": "2026-07-23"
-    },
-    {
-      "title": "Senate fails to advance latest attempt to limit Trump's Iran war powers",
-      "summary": "The Senate rejected an attempt to rein in President Trump's war powers in Iran, soon after the House adopted a separate measure rebuking the president amid escalations in the conflict in recent days.",
-      "date": "2026-07-23"
-    },
-    {
-      "title": "Some House Republicans defect to again pass resolution seeking to halt military action in Iran",
-      "summary": "The House on Thursday narrowly passed a resolution to halt U.S. military action in Iran, sending a warning to President Donald Trump for the second time as the war has escalated and the future of the conflict is increasingly uncertain.",
       "date": "2026-07-23"
     },
     {
@@ -65,6 +55,16 @@
       "title": "Yemen's Houthis attack Saudi tankers in the Red Sea, threatening to widen Iran war",
       "summary": "As the U.S. carried out a 12th night of strikes across Iran, President Donald Trump threatened \"major military punishment\" against the Houthis if their attacks on ships continue.",
       "date": "2026-07-23"
+    },
+    {
+      "title": "House Rebukes Trump on Iran in War Powers Vote as Senate Blocks Debate",
+      "summary": "For the second time, a few House Republicans joined Democrats to back a measure calling on the president to seek authorization for the war.",
+      "date": "2026-07-23"
+    },
+    {
+      "title": "House again rebukes Trump over Iran, while similar effort stalls in Senate",
+      "summary": "The House on Thursday voted to direct President Trump to end the war with Iran, after four Republicans joined Democrats to rebuke the president over his handling of the conflict.",
+      "date": "2026-07-23"
     }
   ],
   "sources": [
@@ -73,24 +73,6 @@
       "url": "https://www.cbsnews.com/news/interceptor-precision-guided-weapons-use-trump-administration/?utm_source=lootura.com",
       "publishedAt": "2026-07-24T00:47:24.000Z",
       "sourceId": "lootura-us-cbs-news"
-    },
-    {
-      "title": "House again rebukes Trump over Iran, while similar effort stalls in Senate",
-      "url": "https://www.cbsnews.com/news/house-trump-war-powers-vote/?utm_source=lootura.com",
-      "publishedAt": "2026-07-23T16:54:09.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
-    {
-      "title": "Senate fails to advance latest attempt to limit Trump's Iran war powers",
-      "url": "https://www.cbsnews.com/news/senate-trump-iran-war-powers/?utm_source=lootura.com",
-      "publishedAt": "2026-07-23T16:39:50.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
-    {
-      "title": "Oil price surge as war with Iran expands",
-      "url": "https://www.nbcnews.com/nightly-news/video/oil-price-surge-as-war-with-iran-expands-267195973767?utm_source=lootura.com",
-      "publishedAt": "2026-07-23T22:52:53.000Z",
-      "sourceId": "lootura-us-nbc-news-politics"
     },
     {
       "title": "Morning news brief",
@@ -111,12 +93,6 @@
       "sourceId": "lootura-us-pbs-newshour"
     },
     {
-      "title": "Some House Republicans defect to again pass resolution seeking to halt military action in Iran",
-      "url": "https://www.pbs.org/newshour/politics/some-house-republicans-defect-to-again-pass-resolution-seeking-to-halt-military-action-in-iran?utm_source=lootura.com",
-      "publishedAt": "2026-07-23T16:19:36.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
-    },
-    {
       "title": "A Fallen Soldier’s Angst, Love and Longing to Return Home From the Iran War",
       "url": "https://www.nytimes.com/2026/07/23/us/michael-emmanuel-swinton-iran-soldier.html?utm_source=lootura.com",
       "publishedAt": "2026-07-24T00:04:57.000Z",
@@ -127,7 +103,25 @@
       "url": "https://www.nytimes.com/2026/07/23/us/politics/house-iran-war-powers-vote-trump.html?utm_source=lootura.com",
       "publishedAt": "2026-07-23T18:17:54.000Z",
       "sourceId": "lootura-us-the-new-york-times"
+    },
+    {
+      "title": "Even as War Rages, Investors Bet Oil Will Be Cheaper in a Few Months",
+      "url": "https://www.nytimes.com/2026/07/23/business/iran-war-oil-prices.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-23T14:19:17.000Z",
+      "sourceId": "lootura-us-the-new-york-times"
+    },
+    {
+      "title": "Brent Crude Oil Prices Top $100 as Conflict With Iran Drags On",
+      "url": "https://www.nytimes.com/2026/07/24/technology/oil-prices-global-stocks-shipping.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-24T05:12:38.000Z",
+      "sourceId": "lootura-us-the-new-york-times"
+    },
+    {
+      "title": "Number of U.S. Troop Deaths in Iran War Appears Lower on Pentagon Website",
+      "url": "https://www.nytimes.com/2026/07/23/us/politics/iran-troop-deaths.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-24T00:15:18.000Z",
+      "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 12
+  "evidenceCount": 9
 }

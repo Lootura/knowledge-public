@@ -3,10 +3,16 @@
 > Sigue la actividad de Julio Martínez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-24T02:28:09.478Z
+- Actualizado: 2026-07-24T06:23:11.193Z
 - Canonical: https://atlas.lootura.com/es/person/julio-martinez
 
 ## Cambios recientes
+
+### Zapatero no aclara el origen de las joyas y niega su implicación en Plus Ultra
+
+José Luis Rodríguez Zapatero cambia de guion, pero no de versión. Después de más de dos meses sumido en un silencio prudente, que priorizaba la estrategia procesal, el giro en el caso -propiciado por la confesión de quien fuera su amigo 'Julito' Martínez y dos directivos de Plus Ultra- le ha obligado a romper el hermet.
+
+Date: 2026-07-24
 
 ### Los titulares de la entrevista a Zapatero: de la estrategia de defensa de Julio Martínez a los trabajos de sus hijas
 
@@ -62,13 +68,6 @@ La declaración de Julio Martínez Martínez ha complicado el futuro judicial de
 
 Date: 2026-07-22
 
-### Zapatero, tocado y hundido
-
-Los periodistas de THE OBJECTIVE abordan en 'Objetivo directo' la confesión de Julio Martínez Martínez.
-
-Date: 2026-07-22
-
 ## Fuentes
 
-- [Los titulares de la entrevista a Zapatero: de la estrategia de defensa de Julio Martínez a los trabajos de sus hijas](https://elpais.com/espana/2026-07-23/las-titulares-de-la-entrevista-a-zapatero-de-la-estrategia-de-defensa-de-julio-martinez-a-los-trabajos-de-sus-hijas.html?utm_source=lootura.com) — 2026-07-23T12:32:24.000Z
-- [Zapatero salta al rescate](https://www.lavanguardia.com/opinion/20260724/11599751/zapatero-salta-rescate.html?utm_source=lootura.com) — 2026-07-23T22:38:55.000Z
+- [Zapatero no aclara el origen de las joyas y niega su implicación en Plus Ultra](https://www.abc.es/espana/zapatero-reafirma-inocencia-aclara-origen-joyas-regalo-20260723131048-nt.html?utm_source=lootura.com) — 2026-07-24T04:57:10.000Z

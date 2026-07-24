@@ -3,16 +3,10 @@
 > Follow Abraham Accords, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-07-24T02:28:29.719Z
+- Updated: 2026-07-24T06:23:31.535Z
 - Canonical: https://atlas.lootura.com/us/person/abraham-accords
 
 ## Recent changes
-
-### As Part of Nuclear Deal, Trump Demands Saudi Arabia Join the Abraham Accords
-
-The president’s new condition could create a roadblock to the agreement his administration announced this week.
-
-Date: 2026-07-23
 
 ### Discovered by Atlas
 
@@ -23,6 +17,18 @@ Date: 2026-07-23
 ### Trump adds new condition to Saudi nuclear deal, says kingdom must normalize relations with Israel
 
 President Donald Trump's social media post asserting that the agreement was subject to the Saudis joining the Abraham Accords was unexpected and almost certain to make finalizing the deal complicated.
+
+Date: 2026-07-23
+
+### As Part of Nuclear Deal, Trump Demands Saudi Arabia Join the Abraham Accords
+
+The president’s new condition could create a roadblock to the agreement his administration announced this week.
+
+Date: 2026-07-23
+
+### As Part of Nuclear Deal, Trump Demands Saudi Arabia Join the Abraham Accords
+
+The president’s new condition could create a roadblock to the agreement his administration announced this week.
 
 Date: 2026-07-23
 
@@ -46,6 +52,5 @@ Date: 2026-07-23
 
 ## Sources
 
-- [White House says Saudi Arabia nuclear deal contingent on joining Abraham Accords](https://www.nbcnews.com/now/video/white-house-says-saudi-arabia-nuclear-deal-contingent-on-joining-abraham-accords-267170885845?utm_source=lootura.com) — 2026-07-23T15:53:39.000Z
 - [Trump adds new condition to Saudi nuclear deal, says kingdom must normalize relations with Israel](https://www.pbs.org/newshour/world/trump-adds-new-condition-to-saudi-nuclear-deal-says-kingdom-must-normalize-relations-with-israel?utm_source=lootura.com) — 2026-07-23T18:40:05.000Z
 - [As Part of Nuclear Deal, Trump Demands Saudi Arabia Join the Abraham Accords](https://www.nytimes.com/2026/07/23/us/politics/saudi-nuclear-deal-israel.html?utm_source=lootura.com) — 2026-07-23T17:29:33.000Z

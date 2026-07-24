@@ -8,13 +8,18 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/julio-martinez/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/julio-martinez/index.json",
   "description": "Sigue la actividad de Julio Martínez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-24T02:28:09.478Z",
+  "updatedAt": "2026-07-24T06:23:11.193Z",
   "aliases": [
     "Julio Mart",
     "Julio Martínez Martínez",
     "Julito Martínez"
   ],
   "changes": [
+    {
+      "title": "Zapatero no aclara el origen de las joyas y niega su implicación en Plus Ultra",
+      "summary": "José Luis Rodríguez Zapatero cambia de guion, pero no de versión. Después de más de dos meses sumido en un silencio prudente, que priorizaba la estrategia procesal, el giro en el caso -propiciado por la confesión de quien fuera su amigo 'Julito' Martínez y dos directivos de Plus Ultra- le ha obligado a romper el hermet.",
+      "date": "2026-07-24"
+    },
     {
       "title": "Los titulares de la entrevista a Zapatero: de la estrategia de defensa de Julio Martínez a los trabajos de sus hijas",
       "summary": "El expresidente del Gobierno José Luis Rodríguez Zapatero ha dado este jueves en RTVE su primera entrevista a un medio de comunicación desde que fuese imputado en una investigación de la Audiencia Nacional que lo coloca en la cúspide de una trama internacional de tráfico ilícito de influencias. El asunto partía del lav.",
@@ -59,26 +64,15 @@
       "title": "Las seis mayores contradicciones entre lo que Julio Martínez declaró y la versión de Zapatero",
       "summary": "La declaración de Julio Martínez Martínez ha complicado el futuro judicial de José Luis Rodríguez Zapatero . Eso y los escritos que tanto el \"amigo\" como dos altos cargos de Plus Ultra han remitido esta semana a la Audiencia Nacional. Según ellos, el expresidente habría influido en favor del rescate de 53 millones de e.",
       "date": "2026-07-22"
-    },
-    {
-      "title": "Zapatero, tocado y hundido",
-      "summary": "Los periodistas de THE OBJECTIVE abordan en 'Objetivo directo' la confesión de Julio Martínez Martínez.",
-      "date": "2026-07-22"
     }
   ],
   "sources": [
     {
-      "title": "Los titulares de la entrevista a Zapatero: de la estrategia de defensa de Julio Martínez a los trabajos de sus hijas",
-      "url": "https://elpais.com/espana/2026-07-23/las-titulares-de-la-entrevista-a-zapatero-de-la-estrategia-de-defensa-de-julio-martinez-a-los-trabajos-de-sus-hijas.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-23T12:32:24.000Z",
-      "sourceId": "lootura-es-el-pais"
-    },
-    {
-      "title": "Zapatero salta al rescate",
-      "url": "https://www.lavanguardia.com/opinion/20260724/11599751/zapatero-salta-rescate.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-23T22:38:55.000Z",
-      "sourceId": "lootura-es-la-vanguardia"
+      "title": "Zapatero no aclara el origen de las joyas y niega su implicación en Plus Ultra",
+      "url": "https://www.abc.es/espana/zapatero-reafirma-inocencia-aclara-origen-joyas-regalo-20260723131048-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-24T04:57:10.000Z",
+      "sourceId": "lootura-es-abc"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

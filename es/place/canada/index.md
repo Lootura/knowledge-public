@@ -3,10 +3,16 @@
 > Sigue la actividad de Canadá en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-21T02:27:26.549Z
+- Actualizado: 2026-07-24T06:23:11.193Z
 - Canonical: https://atlas.lootura.com/es/place/canada
 
 ## Cambios recientes
+
+### Christopher Anderson, el último hombre que fotografió a Epstein: “Lo primero que recuerdo es a la joven que abrió la puerta”
+
+Christopher Anderson (Kelowna, Canadá, 56 años) es uno de los grandes iconos de la fotografía moderna, no solo por su carrera sino por su versatilidad. El canadiense se crio en Texas y su primer gran reconocimiento llegó en 1999 cuando junto al periodista Michael Finkel se subió a una barca en la que viajaban 44 haitia.
+
+Date: 2026-07-24
 
 ### Gentrificación, sobreexplotación turística, vivienda escasa: ¿y si no todo fuera culpa de Airbnb?
 
@@ -16,7 +22,7 @@ Date: 2026-07-20
 
 ### Discovered by Atlas
 
-Canada first entered the public knowledge record with source-backed evidence.
+Canadá first entered the public knowledge record with source-backed evidence.
 
 Date: 2026-07-18
 
@@ -28,4 +34,4 @@ Date: 2026-07-18
 
 ## Fuentes
 
-No public source links.
+- [Christopher Anderson, el último hombre que fotografió a Epstein: “Lo primero que recuerdo es a la joven que abrió la puerta”](https://elpais.com/icon/2026-07-24/christopher-anderson-el-ultimo-hombre-que-fotografio-a-epstein-lo-primero-que-recuerdo-es-a-la-joven-que-abrio-la-puerta.html?utm_source=lootura.com) — 2026-07-24T03:30:01.000Z

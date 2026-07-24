@@ -3,10 +3,16 @@
 > Sigue la actividad de Málaga en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-23T10:20:05.700Z
+- Actualizado: 2026-07-24T06:23:11.193Z
 - Canonical: https://atlas.lootura.com/es/place/malaga
 
 ## Cambios recientes
+
+### Lío en Málaga con el Palacio de la Ópera: temor a que los congresos desplacen a la música
+
+Desde comienzos de siglo, Málaga ha confeccionado un amplio escaparate cultural con el Museo Picasso, el Centre Pompidou, el Ruso -cuyas obras se retiraron al inicio de la invasión de Ucrania- o el Carmen Thyssen. Ese despliegue, que dio pie a una etiqueta de ciudad de los museos que ya empieza a sonar manida, ha convi.
+
+Date: 2026-07-24
 
 ### La Aemet sitúa a seis provincias andaluzas en aviso naranja por temperaturas de 42ºC
 
@@ -62,12 +68,6 @@ Málaga first entered the public knowledge record with source-backed evidence.
 
 Date: 2026-07-17
 
-### José María Almoguera aclara la polémica por la venta de la casa de María Teresa Campos: «Hemos confiado en alguien que la ha liado»
-
-José María Almoguera vuelve a situarse en el centro de la actualidad, aunque esta vez no es por su vida sentimental. El hijo de Carmen Borrego ha sido señalado tras la inesperada aparición de la casa que María Teresa Campos tenía en Málaga en un conocido portal inmobiliario. El inmueble, adquirido por la periodista en.
-
-Date: 2026-07-17
-
 ## Fuentes
 
-No public source links.
+- [Lío en Málaga con el Palacio de la Ópera: temor a que los congresos desplacen a la música](https://www.elconfidencial.com/espana/andalucia/2026-07-24/malaga-palacio-opera-auditorio-congresos-musica_4394945/?utm_source=lootura.com) — 2026-07-24T03:00:00.000Z

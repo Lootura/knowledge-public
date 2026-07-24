@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/topic/artificial-intelligence/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/topic/artificial-intelligence/index.json",
   "description": "Follow Artificial intelligence, a tracked topic, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-24T02:28:29.719Z",
+  "updatedAt": "2026-07-24T06:23:31.535Z",
   "aliases": [
     "AI",
     "AI science",
@@ -38,18 +38,8 @@
       "date": "2026-07-23"
     },
     {
-      "title": "Tilly Norwood's creator insists the AI actor is creating Hollywood jobs",
-      "summary": "The robot actor is generating work for Hollywood creatives, not stealing jobs from actors, her inventor tells CBS News.",
-      "date": "2026-07-23"
-    },
-    {
       "title": "Trump talks plan to prevent ratepayers from shouldering costs of new AI data centers",
       "summary": "President Trump spoke Thursday about a plan to prevent ratepayers from taking on the costs of a new AI data centers. CBS News' Kelly O'Grady has more.",
-      "date": "2026-07-23"
-    },
-    {
-      "title": "New York Gov. Kathy Hochul explains why she signed the first statewide moratorium on data centers",
-      "summary": "Speaking with NBC News’ “Here’s the Scoop,” Hochul said that she’s responding to the concerns of localities and that New York doesn’t need data centers to support the AI boom.",
       "date": "2026-07-23"
     },
     {
@@ -60,6 +50,16 @@
     {
       "title": "AI unlocks Atlantic circulation insights from 20 years of ocean float data",
       "summary": "For more than 20 years, about 4,000 autonomous profiling floats have been drifting through the ocean. They form part of the international Argo program (Argo—global array of profiling floats). At regular intervals, they descend to a depth of 2,000 meters (6,600 feet) and, as they rise, measure parameters such as tempera.",
+      "date": "2026-07-23"
+    },
+    {
+      "title": "Tilly Norwood's creator insists the AI actor is creating Hollywood jobs",
+      "summary": "The robot actor is generating work for Hollywood creatives, not stealing jobs from actors, her inventor tells CBS News.",
+      "date": "2026-07-23"
+    },
+    {
+      "title": "New York Gov. Kathy Hochul explains why she signed the first statewide moratorium on data centers",
+      "summary": "Speaking with NBC News’ “Here’s the Scoop,” Hochul said that she’s responding to the concerns of localities and that New York doesn’t need data centers to support the AI boom.",
       "date": "2026-07-23"
     },
     {
@@ -80,22 +80,10 @@
   ],
   "sources": [
     {
-      "title": "Tilly Norwood's creator insists the AI actor is creating Hollywood jobs",
-      "url": "https://www.cbsnews.com/news/tilly-norwood-ai-actor-hollywood-jobs/?utm_source=lootura.com",
-      "publishedAt": "2026-07-23T17:05:00.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
-    {
       "title": "Trump talks plan to prevent ratepayers from shouldering costs of new AI data centers",
       "url": "https://www.cbsnews.com/video/trump-talks-plan-to-prevent-ratepayers-from-shouldering-costs-of-new-ai-data-centers/?utm_source=lootura.com",
       "publishedAt": "2026-07-23T20:30:42.000Z",
       "sourceId": "lootura-us-cbs-news"
-    },
-    {
-      "title": "New York Gov. Kathy Hochul explains why she signed the first statewide moratorium on data centers",
-      "url": "https://www.nbcnews.com/politics/politics-news/new-york-gov-kathy-hochul-explains-signed-first-statewide-moratorium-d-rcna588832?utm_source=lootura.com",
-      "publishedAt": "2026-07-23T22:19:33.000Z",
-      "sourceId": "lootura-us-nbc-news-politics"
     },
     {
       "title": "A town renamed its festival 'AI Love Irondale Day.' Then came the comments",
@@ -122,5 +110,5 @@
       "sourceId": "lootura-us-phys-org"
     }
   ],
-  "evidenceCount": 7
+  "evidenceCount": 5
 }

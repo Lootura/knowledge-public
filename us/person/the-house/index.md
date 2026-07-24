@@ -34,5 +34,4 @@ Date: 2026-07-23
 
 ## Sources
 
-- [House again rebukes Trump over Iran, while similar effort stalls in Senate](https://www.cbsnews.com/news/house-trump-war-powers-vote/?utm_source=lootura.com) — 2026-07-23T16:54:09.000Z
-- [Some House Republicans defect to again pass resolution seeking to halt military action in Iran](https://www.pbs.org/newshour/politics/some-house-republicans-defect-to-again-pass-resolution-seeking-to-halt-military-action-in-iran?utm_source=lootura.com) — 2026-07-23T16:19:36.000Z
+No public source links.

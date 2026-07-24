@@ -3,22 +3,16 @@
 > Sigue la actividad de El Congreso en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-24T02:28:09.478Z
+- Actualizado: 2026-07-24T06:23:11.193Z
 - Canonical: https://atlas.lootura.com/es/organization/el-congreso
 
 ## Cambios recientes
 
-### El Congreso aprueba la pasarela para que hasta 100.000 autónomos accedan a la pensión pública
+### El Gobierno activará los Presupuestos pese al rechazo de la senda fiscal y abrirá un escenario insólito en España
 
-Decenas de miles de abogados y procuradores respiran al fin tranquilos: podrán cobrar una pensión digna. El Congreso ha aprobado la ley que permitirá convertir el dinero ahorrado por estos profesionales a través de sus mutualidades gremiales en años de cotización a la Seguridad Social. Así podrán acceder a pensiones pú.
+El guion estaba escrito y nadie ha querido improvisar. El Congreso de los Diputados ha rechazado este jueves por segunda vez la senda de estabilidad propuesta por el Gobierno, el documento que fija los objetivos de déficit de las Administraciones públicas y que es condición necesaria para poder presentar unos Presupues.
 
-Date: 2026-07-23
-
-### El Gobierno salva el primer trámite de la quita de la deuda pero naufraga de nuevo en la senda de déficit por culpa de Junts
-
-El Congreso ha asestado este jueves un nuevo revés al Gobierno al rechazar por segunda y definitiva vez la senda de estabilidad , paso previo imprescindible para la elaboración de los Presupuestos Generales del Estado de 2027 , al tiempo que ha permitido seguir adelante con la tramitación del proyecto de ley para condo.
-
-Date: 2026-07-23
+Date: 2026-07-24
 
 ### El Congreso golpea al Gobierno: tumba la senda fiscal y anticipa la derrota de los Presupuestos y el derrumbe de la legislatura
 
@@ -29,6 +23,18 @@ Date: 2026-07-23
 ### El Gobierno salva por ahora la quita autonómica pero no avanza con los Presupuestos
 
 El Congreso se fue de vacaciones este jueves con un maratoniano pleno cuya conclusión se presta a la ambivalencia del vaso medio lleno o medio vacío. Tras un periodo de sesiones en la cuerda floja por la creciente hostilidad de una mayoría de la Cámara , el Gobierno pudo completar un balance vistoso: se aprobaron tres.
+
+Date: 2026-07-23
+
+### El Congreso aprueba la pasarela para que hasta 100.000 autónomos accedan a la pensión pública
+
+Decenas de miles de abogados y procuradores respiran al fin tranquilos: podrán cobrar una pensión digna. El Congreso ha aprobado la ley que permitirá convertir el dinero ahorrado por estos profesionales a través de sus mutualidades gremiales en años de cotización a la Seguridad Social. Así podrán acceder a pensiones pú.
+
+Date: 2026-07-23
+
+### El Gobierno salva el primer trámite de la quita de la deuda pero naufraga de nuevo en la senda de déficit por culpa de Junts
+
+El Congreso ha asestado este jueves un nuevo revés al Gobierno al rechazar por segunda y definitiva vez la senda de estabilidad , paso previo imprescindible para la elaboración de los Presupuestos Generales del Estado de 2027 , al tiempo que ha permitido seguir adelante con la tramitación del proyecto de ley para condo.
 
 Date: 2026-07-23
 
@@ -62,19 +68,8 @@ El Congreso ha convalidado este jueves, con el apoyo de la mayoría de los grupo
 
 Date: 2026-07-23
 
-### El Congreso consuma la cesión al nacionalismo para facilitarle formar grupo propio
-
-La próxima vez que se repartan cartas, es decir, después de las siguientes elecciones generales, los partidos nacionalistas y minoritarios tendrán más fácil formar su propio grupo parlamentario. El Congreso de los Diputados ha aprobado este jueves, con el voto en contra de PP, Vox y Unión del Pueblo Navarro (UPN), una.
-
-Date: 2026-07-23
-
 ## Fuentes
 
-- [El Congreso aprueba la pasarela para que hasta 100.000 autónomos accedan a la pensión pública](https://elpais.com/economia/2026-07-23/el-congreso-aprueba-la-pasarela-para-que-hasta-100000-autonomos-accedan-a-la-pension-publica.html?utm_source=lootura.com) — 2026-07-23T19:05:18.000Z
-- [El Gobierno salva el primer trámite de la quita de la deuda pero naufraga de nuevo en la senda de déficit por culpa de Junts](https://www.elindependiente.com/espana/2026/07/23/el-gobierno-salva-el-primer-tramite-de-la-quita-de-la-deuda-pero-naufraga-de-nuevo-en-la-senda-de-deficit-por-culpa-de-junts/?utm_source=lootura.com) — 2026-07-23T19:22:50.000Z
+- [El Gobierno activará los Presupuestos pese al rechazo de la senda fiscal y abrirá un escenario insólito en España](https://elpais.com/economia/2026-07-24/el-gobierno-activara-los-presupuestos-pese-al-rechazo-de-la-senda-fiscal-y-abrira-un-escenario-insolito-en-espana.html?utm_source=lootura.com) — 2026-07-24T03:45:00.000Z
 - [El Congreso golpea al Gobierno: tumba la senda fiscal y anticipa la derrota de los Presupuestos y el derrumbe de la legislatura](https://amp.elmundo.es/espana/2026/07/23/6a625ae8fdddff4a578b45b7.html?utm_source=lootura.com) — 2026-07-23T19:02:11.000Z
 - [El Gobierno salva por ahora la quita autonómica pero no avanza con los Presupuestos](https://elpais.com/espana/2026-07-23/el-gobierno-salva-por-ahora-la-quita-autonomica-pero-no-avanza-con-los-presupuestos.html?utm_source=lootura.com) — 2026-07-23T19:00:04.000Z
-- [El Congreso aprueba definitivamente la pasarela de los mutualistas a la Seguridad Social, pero excluye a los ya jubilados](https://www.eldiario.es/economia/congreso-aprueba-definitivamente-pasarela-mutualistas-seguridad-social-excluye-jubilados_1_13403158.html?utm_source=lootura.com) — 2026-07-23T19:24:42.000Z
-- [El Congreso rechaza otra vez la senda de déficit con el voto de PP, Vox y Junts y da vía libre al Gobierno para el Presupuesto](https://www.eldiario.es/economia/congreso-rechaza-vez-senda-deficit-voto-pp-vox-junts-da-via-libre-gobierno-presupuesto_1_13402684.html?utm_source=lootura.com) — 2026-07-23T18:59:41.000Z
-- [Junts se suma al bloque de investidura para poder tramitar la quita de la deuda autonómica](https://theobjective.com/espana/politica/2026-07-23/junts-gobierno-quita-deuda-autonomica/?utm_source=lootura.com) — 2026-07-23T19:28:35.000Z
-- [El Congreso rebaja los requisitos para formar grupo propio a petición de los nacionalistas](https://theobjective.com/espana/politica/2026-07-24/congreso-requisitos-grupo-propio-nacionalistas/?utm_source=lootura.com) — 2026-07-23T22:21:25.000Z

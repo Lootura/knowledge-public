@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/united-states/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/united-states/index.json",
   "description": "Follow United States, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-24T02:28:29.719Z",
+  "updatedAt": "2026-07-24T06:23:31.535Z",
   "aliases": [
     "America",
     "Estados Unidos",
@@ -37,11 +37,6 @@
       "title": "The Uplift: The American Dream",
       "summary": "We celebrate the United States ahead of its 250th anniversary with stories about American heroes and pastimes. The founder of e.l.f. Cosmetics shares how he made a massive life change to become a Catholic priest.",
       "date": "2026-07-27"
-    },
-    {
-      "title": "Trump imposes new tariffs on dozens of countries, citing forced labor concerns",
-      "summary": "The Trump administration will impose tariffs of up to 12.5% on goods from 60 U.S. trading partners accused of failing to crack down on forced labor, extending the administration's tariffs on much of the world.",
-      "date": "2026-07-24"
     },
     {
       "title": "Rapid pace of interceptor and precision-guided weapons use worries Trump admin.",
@@ -74,23 +69,22 @@
       "date": "2026-07-24"
     },
     {
-      "title": "The White House pushes healthy eating. It cut a landmark nutrition education program",
-      "summary": "Nutrition advocates and public health experts are mystified by the decision to eliminate SNAP-Ed, given the Trump administration's embrace of the Make America Healthy Again agenda. (Image credit: Rachel Wisniewski for NPR).",
-      "date": "2026-07-23"
+      "title": "Trump administration imposes new tariffs on dozens of countries, citing forced labor concerns",
+      "summary": "The Trump administration will impose tariffs of up to 12.5% on goods from 60 U.S. trading partners accused of failing to crack down on forced labor, extending the administration's tariffs on much of the world.",
+      "date": "2026-07-24"
     },
     {
-      "title": "U.S. Employers Forced to Fire Thousands of Immigrants, and a Showdown over Peptides",
-      "summary": "Plus, America says no thanks to salad.",
-      "date": "2026-07-23"
+      "title": "Rubio says U.S. is ready to help end war in Ukraine but no quick deal ahead",
+      "summary": "Secretary of State Marco Rubio, who met with his Russian counterpart Sergey Lavrov, said that President Trump was committed to the work \"if conditions and factors have changed to make that possible.\" (Image credit: BRENDAN SMIALOWSKI).",
+      "date": "2026-07-24"
+    },
+    {
+      "title": "Brent Crude Oil Prices Top $100 as Conflict With Iran Drags On",
+      "summary": "Stocks in Asia were down following a sell-off in the U.S. markets over soaring oil prices, rising borrowing costs and worries about the technology industry.",
+      "date": "2026-07-24"
     }
   ],
   "sources": [
-    {
-      "title": "Trump imposes new tariffs on dozens of countries, citing forced labor concerns",
-      "url": "https://www.cbsnews.com/news/trump-tariffs-dozens-countries-forced-labor/?utm_source=lootura.com",
-      "publishedAt": "2026-07-24T00:49:51.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
     {
       "title": "Rapid pace of interceptor and precision-guided weapons use worries Trump admin.",
       "url": "https://www.cbsnews.com/news/interceptor-precision-guided-weapons-use-trump-administration/?utm_source=lootura.com",
@@ -101,6 +95,12 @@
       "title": "The Uplift: The American Dream",
       "url": "https://www.cbsnews.com/video/the-uplift-the-american-dream/?utm_source=lootura.com",
       "publishedAt": "2026-07-27T10:30:00.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
+    {
+      "title": "Trump administration imposes new tariffs on dozens of countries, citing forced labor concerns",
+      "url": "https://www.cbsnews.com/news/trump-tariffs-dozens-countries-forced-labor/?utm_source=lootura.com",
+      "publishedAt": "2026-07-24T05:02:49.000Z",
       "sourceId": "lootura-us-cbs-news"
     },
     {
@@ -118,7 +118,7 @@
     {
       "title": "How does Make America Healthy Again hold up against scientific scrutiny?",
       "url": "https://www.nature.com/articles/d41586-026-02024-3?utm_source=lootura.com",
-      "publishedAt": "2026-07-24T02:28:34.437Z",
+      "publishedAt": "2026-07-24T06:23:35.615Z",
       "sourceId": "lootura-us-nature"
     },
     {
@@ -126,6 +126,12 @@
       "url": "https://www.npr.org/2026/07/23/nx-s1-5896280/snap-ed-healthy-eating-cuts-maha?utm_source=lootura.com",
       "publishedAt": "2026-07-23T09:00:00.000Z",
       "sourceId": "lootura-us-npr"
+    },
+    {
+      "title": "Rubio says U.S. is ready to help end war in Ukraine but no quick deal ahead",
+      "url": "https://www.npr.org/2026/07/24/g-s1-135405/rubio-ukraine-russia-war?utm_source=lootura.com",
+      "publishedAt": "2026-07-24T05:45:47.000Z",
+      "sourceId": "lootura-us-npr-world"
     },
     {
       "title": "U.S. health officials investigate new outbreak of parasite cyclospora",
@@ -138,13 +144,7 @@
       "url": "https://www.pbs.org/newshour/world/yemens-houthis-attack-saudi-tankers-in-the-red-sea-threatening-to-widen-iran-war?utm_source=lootura.com",
       "publishedAt": "2026-07-23T17:26:28.000Z",
       "sourceId": "lootura-us-pbs-newshour"
-    },
-    {
-      "title": "U.S. filings for unemployment aid fall to 187,000 last week, fewest since 1969",
-      "url": "https://www.pbs.org/newshour/economy/u-s-filings-for-unemployment-aid-fall-to-187000-last-week-fewest-since-1969?utm_source=lootura.com",
-      "publishedAt": "2026-07-23T20:08:39.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
     }
   ],
-  "evidenceCount": 18
+  "evidenceCount": 19
 }

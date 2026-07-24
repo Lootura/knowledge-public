@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/barcelona/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/barcelona/index.json",
   "description": "Sigue la actividad de Barcelona en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-24T02:28:09.478Z",
+  "updatedAt": "2026-07-24T06:23:11.193Z",
   "aliases": [
     "B'na",
     "Barcelona City",
@@ -21,6 +21,11 @@
     "Ciudad condal"
   ],
   "changes": [
+    {
+      "title": "¿Por qué el trazado urbano de Barcelona es tan cuadriculado? Hay una explicación más allá de la organización",
+      "summary": "Por qué Barcelona tiene calles en cuadrícula: el origen del Eixample y el diseño urbano que explica su estructura más allá de la estética.",
+      "date": "2026-07-24"
+    },
     {
       "title": "Karim Adeyemi ya es del Barcelona tras sortear un labertinto burocrático",
       "summary": "El FC Barcelona ha hecho oficial el fichaje del extremo alemán Karim Adeyemi, quien queda vinculado al club catalán mediante un contrato de cinco temporadas. El delantero de 24 años llega procedente del Borussia Dortmund en una operación relámpago liderada por la dirección deportiva de Deco. Su llegada añade velocidad.",
@@ -65,19 +70,20 @@
       "title": "Interrumpida la circulación del AVE entre Madrid y Barcelona por un incendio entre Mejorada del Campo y Alcalá de Henares",
       "summary": "Un incendio entre Mejorada del Campo y Alcalá de Henares ha obligado a interrumpir la circulación del AVE entre Madrid y Barcelona a la espera de que el fuego sea extinguido. Renfe ha lanzado un comunicado asegurando que se espera que se reanude lo antes posible y que de momento los trenes se encuentran «detenidos». De.",
       "date": "2026-07-23"
-    },
-    {
-      "title": "Suspendida la línea de alta velocidad entre Madrid y Barcelona por un incendio",
-      "summary": "ADIF ha comunicado que la línea de alta velocidad entre Madrid y Barcelona está actualmente suspendida «por un incendio próximo a la vía y ajeno a la explotación ferroviaria». En un tuit, la entidad pública española ha explicado que se ha suspendido la circulación entre Mejorada del Campo y Alcalá de Henares. En otro m.",
-      "date": "2026-07-23"
     }
   ],
   "sources": [
     {
-      "title": "Karim Adeyemi ya es del Barcelona tras sortear un labertinto burocrático",
-      "url": "https://www.abc.es/deportes/futbol/karim-adeyemi-barcelona-tras-sortear-labertinto-burocratico-20260723150611-nt.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-24T00:48:23.000Z",
-      "sourceId": "lootura-es-abc"
+      "title": "Gerardo Pisarello: \"Comparto con Gabriel Rufián la urgencia de un frente amplio de izquierdas para frenar al neofascismo\"",
+      "url": "https://www.elmundo.es/cataluna/2026/07/23/6a6271fae85ece54368b458f.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-23T22:49:03.000Z",
+      "sourceId": "lootura-es-el-mundo"
+    },
+    {
+      "title": "¿Por qué el trazado urbano de Barcelona es tan cuadriculado? Hay una explicación más allá de la organización",
+      "url": "https://okdiario.com/cataluna/que-trazado-urbano-barcelona-tan-cuadriculado-hay-explicacion-mas-alla-organizacion-19050129/amp?utm_source=lootura.com",
+      "publishedAt": "2026-07-24T06:15:48.000Z",
+      "sourceId": "lootura-es-ok-diario"
     }
   ],
   "evidenceCount": 1

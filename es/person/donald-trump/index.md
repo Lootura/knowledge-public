@@ -3,7 +3,7 @@
 > Sigue la actividad de Donald Trump en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-24T02:28:09.478Z
+- Actualizado: 2026-07-24T06:23:11.193Z
 - Canonical: https://atlas.lootura.com/es/person/donald-trump
 
 ## Cambios recientes
@@ -17,6 +17,24 @@ Date: 2026-07-24
 ### Trump afirma que «todo daño» a buques será pagado con «fondos iraníes»
 
 El presidente de Estados Unidos, Donald Trump , ha afirmado que todo daño causado a buques y cargamentos —presumiblemente en el estrecho de Ormuz, aunque ha responsabilizado a Teherán de los ataques de los rebeldes hutíes de Yemen a embarcaciones en el mar Rojo—, «será pagado con fondos iraníes que Estados Unidos tiene.
+
+Date: 2026-07-24
+
+### Trump impone un sistema comercial caótico en su tercera ronda arancelaria
+
+Como Sísifo empujando la roca en la montaña, Donald Trump reconstruye una barrera arancelaria una y otra vez pese a los continuos reveses de los tribunales. El presidente estadounidense ha levantado un muro amorfo, caótico y repleto de agujeros con la tercera ronda de aranceles. Seguir leyendo.
+
+Date: 2026-07-24
+
+### Trump intenta reconstruir su muro proteccionista con aranceles del 10 y el 12% a más de 60 socios comerciales, incluyendo la UE
+
+Tras la decisión del Tribunal Supremo, que en febrero declaró ilegales los gravámenes aplicados con una ley de emergencia económica, Washington aplica un nuevo recargo amparándose en legislación sobre trabajos forzosos Leer.
+
+Date: 2026-07-24
+
+### Críticas en Brasil, inquietud en Chile y negociación en México ante los nuevos aranceles de Trump
+
+El Gobierno del presidente de Estados Unidos, Donald Trump, anunció este jueves nuevos aranceles de entre el 10 % y el 12,5 % a las importaciones procedentes de 60 países y economías, decisión que sustenta en una investigación sobre "esfuerzos insuficientes para combatir el trabajo forzoso". Esta medida, que entrará en.
 
 Date: 2026-07-24
 
@@ -50,29 +68,10 @@ Lejos de amainar, el conflicto de Oriente Próximo sacude al mundo, las economí
 
 Date: 2026-07-23
 
-### El Gobierno propone a la vicepresidenta Yolanda Díaz como candidata a dirigir la OIT
-
-El presidente Sánchez anuncia el "honor" de postular a su ministra de Trabajo quien "ha demostrado con políticas y resultados su compromiso con los derechos laborales, el diálogo social y la prosperidad de España" Qué es la OIT: el organismo de Naciones Unidas amenazado por Trump en el que sitúan a Yolanda Díaz El Gobi.
-
-Date: 2026-07-23
-
-### Trump evalúa ahora la posibilidad de atacar a yihadistas en Mali
-
-El presidente de Estados Unidos, Donald Trump, está considerando lanzar una operación militar contra un grupo yihadista vinculado a Al Qaeda en Mali, según informó este miércoles The Washington Post. El diario, que cita a altos funcionarios estadounidenses bajo condición de anonimato, señala que la propuesta ha generad.
-
-Date: 2026-07-23
-
-### El pacto nuclear de EE.UU. con Arabia Saudí hace temer una carrera atómica en Oriente Próximo
-
-Fuentes oficiales de la Casa Blanca han filtrado a los principales medios de prensa anglosajones que el presidente Trump ha cerrado un acuerdo para compartir tecnología nuclear con Arabia Saudí. El plan, que será sometido al Congreso de Estados Unidos para su aprobación, supone un cambio de política radical al no inclu.
-
-Date: 2026-07-23
-
 ## Fuentes
 
-- [Trump impone nuevos aranceles de entre el 10% y el 12,5% a más de 60 países para mantener su muro comercial](https://elpais.com/internacional/2026-07-23/trump-impone-nuevos-aranceles-de-entre-el-10-y-el-125-a-60-paises-para-mantener-su-muro-comercial.html?utm_source=lootura.com) — 2026-07-23T21:35:58.000Z
-- [Trump intenta reconstruir su muro proteccionista con aranceles del 10 y el 12% a más de 60 socios comerciales, incluyendo la UE](https://www.elmundo.es/economia/2026/07/24/6a628eabe4d4d8a9278b458b.html?utm_source=lootura.com) — 2026-07-23T22:00:13.000Z
-- [Trump activa este viernes una nueva tanda de aranceles globales del 10% al 12,5% a más de 60 países](https://www.expansion.com/economia/2026/07/23/6a628982e5fdead43d8b457b.html?utm_source=lootura.com) — 2026-07-23T21:58:25.000Z
-- [Donald Trump anuncia aranceles de hasta el 12,5% a 60 países, entre ellos España](https://theobjective.com/internacional/2026-07-24/trump-aranceles-60-paises-espana/?utm_source=lootura.com) — 2026-07-23T22:00:48.000Z
+- [Trump impone un sistema comercial caótico en su tercera ronda arancelaria](https://elpais.com/internacional/2026-07-24/trump-impone-un-sistema-comercial-caotico-en-su-tercera-ronda-arancelaria.html?utm_source=lootura.com) — 2026-07-24T04:00:00.000Z
+- [Trump intenta reconstruir su muro proteccionista con aranceles del 10 y el 12% a más de 60 socios comerciales, incluyendo la UE](https://www.elmundo.es/economia/2026/07/24/6a628eabe4d4d8a9278b458b.html?utm_source=lootura.com) — 2026-07-24T05:56:49.000Z
+- [Críticas en Brasil, inquietud en Chile y negociación en México ante los nuevos aranceles de Trump](https://www.larazon.es/internacional/criticas-brasil-inquietud-chile-negociacion-mexico-nuevos-aranceles-trump_202607246a6302bc4687a22bdecad841.html?utm_source=lootura.com) — 2026-07-24T06:14:21.000Z
 - [24 estados demandan al Gobierno de Trump por ligar fondos a cooperar en inmigración](https://theobjective.com/internacional/2026-07-24/24-estados-gobierno-trump-fondos-cooperar-inmigracion/?amp=&utm_source=lootura.com) — 2026-07-24T00:47:49.000Z
 - [Trump afirma que «todo daño» a buques será pagado con «fondos iraníes»](https://theobjective.com/internacional/2026-07-24/trump-dano-buques-fondos-iranies/?utm_source=lootura.com) — 2026-07-24T00:22:09.000Z
