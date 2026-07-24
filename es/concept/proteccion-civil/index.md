@@ -3,10 +3,22 @@
 > Sigue la actividad de Protección civil en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: concept
-- Actualizado: 2026-07-24T13:39:03.048Z
+- Actualizado: 2026-07-24T17:27:46.992Z
 - Canonical: https://atlas.lootura.com/es/concept/proteccion-civil
 
 ## Cambios recientes
+
+### Última hora de los incendios forestales, en directo | Los incendios de la Comunidad de Madrid se unen en un solo frente y amenazan a nuevos municipios
+
+Los tres incendios que afectan a la Comunidad de Madrid ya se han fusionado y amenazan nuevos municipios, según ha confirmado este viernes el consejero de Medio Ambiente, Agricultura e Interior de la Comunidad de Madrid, Carlos Novillo. La Secretaría General de Protección Civil y Emergencias, del Ministerio del Interio.
+
+Date: 2026-07-24
+
+### La directora de Protección Civil: "Tuvimos dos meses de borrascas, ahora incendios... La realidad es tozuda, hay que creer en la ciencia"
+
+La responsable de Protección Civil sostiene que los eventos climáticos extremos, como las interminables lluvias que hubo en invierno o los fuegos del verano, cada año más intensos y veloces en su expansión, son ya la nueva normalidad y exigen que se realice el pacto de Estado que propone el Gobierno Los fuegos en Madri.
+
+Date: 2026-07-24
 
 ### La M.O.D.A.: héroes de Burgos que reivindican a ‘los nadie’ de la vida
 
@@ -23,12 +35,6 @@ Date: 2026-07-24
 ### Sánchez pide ayuda a Bruselas con los incendios y Grecia e Italia envían cuatro aviones de extinción
 
 La Comisión Europea ha explicado este viernes que recibió el jueves por la noche la petición por parte del Gobierno español de la activación del Mecanismo de Protección Civil de la Unión Europea, solicitando cuatro aviones. Fuentes del Gobierno confirmaban esta mañana que Grecia ya había ofrecido dos Canadair CL-415. E.
-
-Date: 2026-07-24
-
-### Última hora de los incendios forestales, en directo | Los incendios de la Comunidad de Madrid se unen en un solo frente y amenazan a nuevos municipios
-
-Los tres incendios que afectan a la Comunidad de Madrid ya se han fusionado y amenazan nuevos municipios, según ha confirmado este viernes el consejero de Medio Ambiente, Agricultura e Interior de la Comunidad de Madrid, Carlos Novillo. La Secretaría General de Protección Civil y Emergencias, del Ministerio del Interio.
 
 Date: 2026-07-24
 
@@ -62,16 +68,7 @@ El Gobierno de España ha recogido en cuestión de un par de horas el guante lan
 
 Date: 2026-07-24
 
-### Discovered by Atlas
-
-Protección civil first entered the public knowledge record with source-backed evidence.
-
-Date: 2026-07-23
-
 ## Fuentes
 
-- [Sánchez pide ayuda a la UE para luchar contra el fuego: Grecia e Italia mandan efectivos](https://www.abc.es/sociedad/sanchez-pide-ayuda-union-europea-luchar-incendios-20260724105908-nt.html?utm_source=lootura.com) — 2026-07-24T12:46:55.000Z
-- [Sánchez pide ayuda a Bruselas con los incendios y Grecia e Italia envían cuatro aviones de extinción](https://www.elconfidencial.com/espana/2026-07-24/incendios-espana-aviones-bruselas-1tps_4395535/?utm_source=lootura.com) — 2026-07-24T11:34:00.000Z
-- [La M.O.D.A.: héroes de Burgos que reivindican a ‘los nadie’ de la vida](https://elpais.com/eps/2026-07-24/la-moda-heroes-de-burgos-que-reivindican-a-los-nadie-de-la-vida.html?utm_source=lootura.com) — 2026-07-24T03:30:01.000Z
 - [Última hora de los incendios forestales, en directo | Los incendios de la Comunidad de Madrid se unen en un solo frente y amenazan a nuevos municipios](https://elpais.com/espana/2026-07-24/ultima-hora-de-los-incendios-forestales-en-directo.html?utm_source=lootura.com) — 2026-07-24T13:30:04.000Z
-- [Bruselas manda cuatro aviones para combatir los incendios forestales en España](https://theobjective.com/sociedad/2026-07-24/bruselas-manda-aviones-incendios/?utm_source=lootura.com) — 2026-07-24T11:34:48.000Z
+- [La directora de Protección Civil: "Tuvimos dos meses de borrascas, ahora incendios... La realidad es tozuda, hay que creer en la ciencia"](https://www.eldiario.es/sociedad/directora-proteccion-civil-tuvimos-meses-borrascas-ahora-incendios-realidad-tozuda-hay-creer-ciencia_128_13404634.html?utm_source=lootura.com) — 2026-07-24T16:06:14.000Z

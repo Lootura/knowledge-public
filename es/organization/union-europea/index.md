@@ -3,10 +3,22 @@
 > Sigue la actividad de Unión Europea en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-24T13:39:03.048Z
+- Actualizado: 2026-07-24T17:27:46.992Z
 - Canonical: https://atlas.lootura.com/es/organization/union-europea
 
 ## Cambios recientes
+
+### Discovered by Atlas
+
+Unión Europea first entered the public knowledge record with source-backed evidence.
+
+Date: 2026-07-24
+
+### La UE moviliza su mecanismo de emergencia por los incendios de España y Francia y avisa: “Nos preparamos para una situación grave”
+
+La Comisión Europea ha desplegado siete aeronaves de su flota de emergencia rescEU —cuatro aviones en España y tres aviones más dos helicópteros en Francia— para combatir los incendios forestales que golpean España y Francia. El Ejecutivo comunitario ha advertido este viernes de que la Unión Europea se prepara para esc.
+
+Date: 2026-07-24
 
 ### Sánchez pide ayuda a Bruselas con los incendios y Grecia e Italia envían cuatro aviones de extinción
 
@@ -26,14 +38,6 @@ La Comisión Europea ha confirmado este viernes el despliegue de cuatro aviones 
 
 Date: 2026-07-24
 
-### Discovered by Atlas
-
-Unión Europea first entered the public knowledge record with source-backed evidence.
-
-Date: 2026-07-24
-
 ## Fuentes
 
-- [Sánchez pide ayuda a Bruselas con los incendios y Grecia e Italia envían cuatro aviones de extinción](https://www.elconfidencial.com/espana/2026-07-24/incendios-espana-aviones-bruselas-1tps_4395535/?utm_source=lootura.com) — 2026-07-24T11:34:00.000Z
-- [Los nuevos billetes del euro ya tienen finalistas: diez diseños y una encuesta abierta al público](http://www.microsiervos.com/archivo/arte-y-diseno/billetes-opinion-publico-banco-euro.html?utm_source=lootura.com) — 2026-07-24T11:21:25.000Z
-- [Bruselas manda cuatro aviones para combatir los incendios forestales en España](https://theobjective.com/sociedad/2026-07-24/bruselas-manda-aviones-incendios/?utm_source=lootura.com) — 2026-07-24T11:34:48.000Z
+- [La UE moviliza su mecanismo de emergencia por los incendios de España y Francia y avisa: “Nos preparamos para una situación grave”](https://elpais.com/internacional/2026-07-24/la-ue-moviliza-su-mecanismo-de-emergencia-por-los-incendios-de-espana-y-francia-y-avisa-nos-preparamos-para-una-situacion-grave.html?utm_source=lootura.com) — 2026-07-24T15:52:56.000Z

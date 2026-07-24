@@ -8,13 +8,28 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/espana/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/espana/index.json",
   "description": "Follow Spain, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-24T13:39:26.682Z",
+  "updatedAt": "2026-07-24T17:28:08.619Z",
   "aliases": [
     "España",
     "Estado español",
     "Kingdom of Spain"
   ],
   "changes": [
+    {
+      "title": "More than 80,000 flee forest infernos in France and Spain",
+      "summary": "Europe's wildfire crisis forced more than 80,000 people to flee for safety Friday, as vacationers boarded boats to escape fires on a French peninsula and Spanish officials ordered mass evacuations in towns near Madrid.",
+      "date": "2026-07-24"
+    },
+    {
+      "title": "Faced With Heat and Wildfires, France Turns to Spain to Learn How to Cope",
+      "summary": "A French government delegation will travel to its southern neighbor to learn how it copes with long spells of hot weather.",
+      "date": "2026-07-24"
+    },
+    {
+      "title": "Wildfires in France and Spain Drive Tens of Thousands From Their Homes",
+      "summary": "French officials ordered the evacuation of the Cap Ferret peninsula, a popular holiday destination. Fires west of Madrid were closing in on populated areas.",
+      "date": "2026-07-24"
+    },
     {
       "title": "Faced With Heat and Wildfires, France Turns to Spain to Learn How to Cope",
       "summary": "A French government delegation will travel to its southern neighbor to learn how it copes with long spells of hot weather.",
@@ -28,11 +43,29 @@
   ],
   "sources": [
     {
+      "title": "Tens of thousands of people flee raging wildfires in France and Spain, some escaping by boat",
+      "url": "https://www.pbs.org/newshour/world/tens-of-thousands-of-people-flee-raging-wildfires-in-france-and-spain-some-escaping-by-boat?utm_source=lootura.com",
+      "publishedAt": "2026-07-24T16:25:09.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
+    },
+    {
+      "title": "More than 80,000 flee forest infernos in France and Spain",
+      "url": "https://phys.org/news/2026-07-forest-infernos-france-spain.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-24T16:40:07.000Z",
+      "sourceId": "lootura-us-phys-org"
+    },
+    {
       "title": "Faced With Heat and Wildfires, France Turns to Spain to Learn How to Cope",
       "url": "https://www.nytimes.com/2026/07/24/world/europe/france-spain-climate-heat-wildfires.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-24T08:43:46.000Z",
+      "publishedAt": "2026-07-24T16:10:17.000Z",
+      "sourceId": "lootura-us-the-new-york-times"
+    },
+    {
+      "title": "Wildfires in France and Spain Drive Tens of Thousands From Their Homes",
+      "url": "https://www.nytimes.com/2026/07/24/world/europe/france-spain-wildfires.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-24T16:12:41.000Z",
       "sourceId": "lootura-us-the-new-york-times-world"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 3
 }

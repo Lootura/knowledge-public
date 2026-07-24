@@ -3,7 +3,7 @@
 > Sigue la actividad de Oriol Junqueras en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-24T13:39:03.048Z
+- Actualizado: 2026-07-24T17:27:46.992Z
 - Canonical: https://atlas.lootura.com/es/person/oriol-junqueras
 
 ## Cambios recientes

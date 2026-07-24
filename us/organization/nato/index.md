@@ -70,4 +70,4 @@ Date: 2026-07-09
 
 ## Sources
 
-- [How NATO Is Quietly Reinventing Itself for Trump](https://time.com/article/2026/07/24/trump-mark-rutte-europe-nato-/?utm_source=lootura.com) — 2026-07-24T10:00:00.000Z
+No public source links.

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/united-states/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/united-states/index.json",
   "description": "Follow United States, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-24T13:39:26.682Z",
+  "updatedAt": "2026-07-24T17:28:08.619Z",
   "aliases": [
     "America",
     "Estados Unidos",
@@ -39,21 +39,6 @@
       "date": "2026-07-27"
     },
     {
-      "title": "Rapid pace of interceptor and precision-guided weapons use worries Trump admin.",
-      "summary": "The U.S. defense industrial base isn't equipped to produce missiles rapidly enough to replenish munitions used in the war with Iran, or transferred for use to Central Command.",
-      "date": "2026-07-24"
-    },
-    {
-      "title": "U.S. attorney who served for less than an hour suing Trump administration over firing",
-      "summary": "A U.S. attorney who served for less than an hour is suing the Trump administration over his firing. Roger Rogoff is asking a federal court to reinstate him as U.S. Attorney for the Western District of Washington. CBS News legal contributor Jessica Levinson breaks down the legal questions in this case.",
-      "date": "2026-07-24"
-    },
-    {
-      "title": "Trump fires U.S. attorney in Washington on heels of court appointment",
-      "summary": "Judges on the U.S. District Court for the Western District of Washington had appointed Roger Rogoff as U.S. attorney in Seattle. But he was fired shortly after.",
-      "date": "2026-07-24"
-    },
-    {
       "title": "How does Make America Healthy Again hold up against scientific scrutiny?",
       "summary": "Nature, Published online: 23 July 2026; doi:10.1038/d41586-026-02024-3 Researchers share their views on the US health policy spanning topics from vaccines to nutrition.",
       "date": "2026-07-24"
@@ -61,11 +46,6 @@
     {
       "title": "A Fallen Soldier’s Angst, Love and Longing to Return Home From the Iran War",
       "summary": "Sgt. Michael Emmanuel Swinton was killed in recent days, one of 18 U.S. soldiers who have lost their lives since the beginning of the war in Iran.",
-      "date": "2026-07-24"
-    },
-    {
-      "title": "Number of U.S. Troop Deaths in Iran War Appears Lower on Pentagon Website",
-      "summary": "Three military officials and a Pentagon spokesman gave conflicting explanations for why the number of Americans killed in the Iran war had changed.",
       "date": "2026-07-24"
     },
     {
@@ -82,9 +62,35 @@
       "title": "Morning news brief",
       "summary": "U.S.-Iran strikes escalate, affecting global energy markets, Trump imposes double-digit tariffs on dozens of countries, Vigil held in Madison, Wisconsin, for man killed by police.",
       "date": "2026-07-24"
+    },
+    {
+      "title": "Brent Crude Oil Prices Top $100 as Conflict With Iran Drags On",
+      "summary": "Stocks in Asia were down following a sell-off in the U.S. markets over soaring oil prices, rising borrowing costs and worries about the technology industry.",
+      "date": "2026-07-24"
+    },
+    {
+      "title": "Iran War and Trump’s Tariffs Threaten a Resilient U.S. Economy",
+      "summary": "As renewed fighting with Iran sends oil and gas prices soaring, President Trump has imposed new global tariffs that could push up prices further.",
+      "date": "2026-07-24"
+    },
+    {
+      "title": "Concerns over U.S. weapons getting depleted as U.S. and Iran continue to trade strikes",
+      "summary": "As the U.S. builds up forces in the Middle East amid the ongoing war with Iran, there's concern among some officials that U.S. weapons may be getting depleted. It comes as President Trump has threatened new escalations and as the U.S. and Iran continue to trade strikes. Charlie D'Agata reports.",
+      "date": "2026-07-24"
+    },
+    {
+      "title": "Trump imposes new tariffs on dozens of countries, including U.S. allies",
+      "summary": "President Trump is imposing new tariffs on dozens of countries accused of failing to crack down on forced labor. The tariffs range from 10% to 12.5% and include U.S. allies. Nancy Cordes reports.",
+      "date": "2026-07-24"
     }
   ],
   "sources": [
+    {
+      "title": "How Trump's threat of a \"massive attack\" on Iran could unfold",
+      "url": "https://www.cbsnews.com/video/how-trumps-threat-massive-attack-on-iran-could-unfold/?utm_source=lootura.com",
+      "publishedAt": "2026-07-24T17:01:00.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
     {
       "title": "Trump imposes new tariffs on dozens of countries, citing forced labor concerns",
       "url": "https://www.cbsnews.com/news/trump-tariffs-dozens-countries-forced-labor/?utm_source=lootura.com",
@@ -92,21 +98,9 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "Rapid pace of interceptor and precision-guided weapons use worries Trump admin.",
-      "url": "https://www.cbsnews.com/news/interceptor-precision-guided-weapons-use-trump-administration/?utm_source=lootura.com",
-      "publishedAt": "2026-07-24T00:47:24.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
-    {
       "title": "The Uplift: The American Dream",
       "url": "https://www.cbsnews.com/video/the-uplift-the-american-dream/?utm_source=lootura.com",
       "publishedAt": "2026-07-27T10:30:00.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
-    {
-      "title": "U.S. attorney who served for less than an hour suing Trump administration over firing",
-      "url": "https://www.cbsnews.com/video/us-attorney-who-served-less-than-hour-suing-trump-administration-over-firing/?utm_source=lootura.com",
-      "publishedAt": "2026-07-24T00:26:55.000Z",
       "sourceId": "lootura-us-cbs-news"
     },
     {
@@ -128,15 +122,9 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "Trump fires U.S. attorney in Washington on heels of court appointment",
-      "url": "https://www.cbsnews.com/news/trump-fires-roger-rogoff-u-s-attorney-seattle-washington/?utm_source=lootura.com",
-      "publishedAt": "2026-07-24T00:35:47.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
-    {
       "title": "How does Make America Healthy Again hold up against scientific scrutiny?",
       "url": "https://www.nature.com/articles/d41586-026-02024-3?utm_source=lootura.com",
-      "publishedAt": "2026-07-24T13:39:30.490Z",
+      "publishedAt": "2026-07-24T17:28:12.627Z",
       "sourceId": "lootura-us-nature"
     },
     {
@@ -144,7 +132,19 @@
       "url": "https://www.npr.org/2026/07/24/nx-s1-5895986/morning-news-brief?utm_source=lootura.com",
       "publishedAt": "2026-07-24T08:45:17.000Z",
       "sourceId": "lootura-us-npr"
+    },
+    {
+      "title": "A defiant Trump imposes replacement tariffs on biggest U.S. trading partners",
+      "url": "https://www.npr.org/2026/07/24/nx-s1-5905783/trump-tariff-trade-global-canada?utm_source=lootura.com",
+      "publishedAt": "2026-07-24T09:00:00.000Z",
+      "sourceId": "lootura-us-npr-politics"
+    },
+    {
+      "title": "New U.S. tariffs linked to claims of foreign forced labor dismay and anger trading partners",
+      "url": "https://www.pbs.org/newshour/world/new-u-s-tariffs-linked-to-claims-of-foreign-forced-labor-dismay-and-anger-trading-partners?utm_source=lootura.com",
+      "publishedAt": "2026-07-24T16:57:09.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
     }
   ],
-  "evidenceCount": 20
+  "evidenceCount": 17
 }

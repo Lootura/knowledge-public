@@ -3,7 +3,7 @@
 > Sigue la actividad de La Mancha en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-24T13:39:03.048Z
+- Actualizado: 2026-07-24T17:27:46.992Z
 - Canonical: https://atlas.lootura.com/es/place/la-mancha
 
 ## Cambios recientes
@@ -11,6 +11,12 @@
 ### Incendios en España hoy, en directo: última hora de los fuegos en Madrid, Castilla y León y Castilla-La Mancha y de los pueblos evacuados
 
 Sigue en directo los incendios forestales activos alrededor de España, en comunidades como Madrid, Castilla y León o Castilla-La Mancha, y la última hora de las personas evacuadas, pueblos confinados y hectáreas quemadas.
+
+Date: 2026-07-24
+
+### Detienen al hombre atrincherado en su casa en Villarrobledo (Albacete) con una escopeta
+
+Efectivos del cuerpo de élite de la Guardia Civil que se han desplazado hasta Villarrobledo (Albacete) han detenido, alrededor de las 17:30 horas de este viernes, al hombre que se había atrincherado en su vivienda con una escopeta . Fuentes de la Delegación del Gobierno central en Castilla-La Mancha han indicado a EFE.
 
 Date: 2026-07-24
 
@@ -62,12 +68,7 @@ El incendio de La Mierla (Guadalajara), el más grande de la historia de Castill
 
 Date: 2026-07-22
 
-### Incendio de Guadalajara, en directo: última hora del avance del fuego en La Mierla y Selas
-
-El incendio forestal declarado el pasado jueves en la Sierra Norte de Guadalajara continúa fuera de capacidad de extinción y ya ha arrasado cerca de 30.000 hectáreas , consolidándose como el mayor registrado este año en Castilla-La Mancha. Aunque el operativo ha logrado frenar el avance del fuego en algunos sectores gr.
-
-Date: 2026-07-22
-
 ## Fuentes
 
-- [Incendios en España hoy, en directo: última hora de los fuegos en Madrid, Castilla y León y Castilla-La Mancha y de los pueblos evacuados](https://www.abc.es/sociedad/incendios-espana-hoy-directo-fuegos-activos-madrid-20260723185959-di_amp.html?utm_source=lootura.com) — 2026-07-24T13:17:48.000Z
+- [Incendios en España hoy, en directo: última hora de los fuegos en Madrid, Castilla y León y Castilla-La Mancha y de los pueblos evacuados](https://www.abc.es/sociedad/incendios-espana-hoy-directo-fuegos-activos-madrid-20260723185959-di_amp.html?utm_source=lootura.com) — 2026-07-24T17:12:30.000Z
+- [Detienen al hombre atrincherado en su casa en Villarrobledo (Albacete) con una escopeta](https://www.elconfidencial.com/espana/2026-07-24/hombre-atrincherado-vivienda-escopeta-villarrobledo_4395642/?utm_source=lootura.com) — 2026-07-24T13:51:00.000Z

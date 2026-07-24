@@ -3,10 +3,28 @@
 > Follow Canada, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-24T13:39:26.682Z
+- Updated: 2026-07-24T17:28:08.619Z
 - Canonical: https://atlas.lootura.com/us/place/canada
 
 ## Recent changes
+
+### What’s to blame for Canada’s wildfires?
+
+The inferno that sent toxic smoke billowing toward the United States won't be the last. Officials are now battling both the wildfires and misinformation.
+
+Date: 2026-07-24
+
+### As Canada Opens Gordie Howe International Bridge, Americans Are Told to Stay Home
+
+After a delay ordered by President Trump and new tariffs against Canada, the bridge between Windsor, Ontario, and Detroit opens in “underwhelming” fashion on Friday.
+
+Date: 2026-07-24
+
+### China Has Come Through Trump’s Trade War in a Good Position
+
+Despite threats from President Trump, the overall average weighted tariff on Chinese goods remained about the same, and is now lower than countries like Brazil and Canada.
+
+Date: 2026-07-24
 
 ### As Canada Opens Gordie Howe International Bridge, Americans Are Told to Stay Home
 
@@ -50,24 +68,8 @@ The Trump administration imposed 50% tariffs on three categories of imports from
 
 Date: 2026-07-20
 
-### Canada faces one of its most intense fire seasons
-
-With nearly 1,000 active fires and an area as large as Belgium already burned, Canadian Prime Minister Mark Carney says his country is facing one of the "most intense" wildfire seasons in its history.
-
-Date: 2026-07-20
-
-### Researchers challenge evidence behind high-profile parental alienation study
-
-Researchers from Manchester and Canada have shown that the claim by the authors of a study published earlier this year that most of its participants had experienced parental alienating behaviors during childhood is seriously misleading. Claims in the study that people affected by parental alienating behaviors showed gr.
-
-Date: 2026-07-20
-
-### Nolan’s ‘The Odyssey’ Brings in $124.5 Million at the Box Office on Opening Weekend
-
-Christopher Nolan’s nearly three-hour epic was No. 1 over the weekend, with about $124.5 million in ticket sales in the United States and Canada.
-
-Date: 2026-07-19
-
 ## Sources
 
-- [As Canada Opens Gordie Howe International Bridge, Americans Are Told to Stay Home](https://www.nytimes.com/2026/07/24/world/canada/canada-gordie-howe-bridge-trump.html?utm_source=lootura.com) — 2026-07-24T09:05:17.000Z
+- [What’s to blame for Canada’s wildfires?](https://www.sciencenews.org/article/what-blame-canada-wildfires-toxic-smoke?utm_source=lootura.com) — 2026-07-24T17:00:00.000Z
+- [As Canada Opens Gordie Howe International Bridge, Americans Are Told to Stay Home](https://www.nytimes.com/2026/07/24/world/canada/canada-gordie-howe-bridge-trump.html?utm_source=lootura.com) — 2026-07-24T14:54:57.000Z
+- [China Has Come Through Trump’s Trade War in a Good Position](https://www.nytimes.com/2026/07/24/business/china-tariffs-trump.html?utm_source=lootura.com) — 2026-07-24T14:20:13.000Z

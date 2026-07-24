@@ -3,10 +3,22 @@
 > Follow China, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-24T13:39:26.682Z
+- Updated: 2026-07-24T17:28:08.619Z
 - Canonical: https://atlas.lootura.com/us/place/china
 
 ## Recent changes
+
+### New U.S. tariffs linked to claims of foreign forced labor dismay and anger trading partners
+
+U.S. President Donald Trump's latest set of tariffs drew objections Friday from America's trading partners including China and Japan, with Australia's trade minister slamming them as "completely unjustified.".
+
+Date: 2026-07-24
+
+### China Has Come Through Trump’s Trade War in a Good Position
+
+Despite threats from President Trump, the overall average weighted tariff on Chinese goods remained about the same, and is now lower than countries like Brazil and Canada.
+
+Date: 2026-07-24
 
 ### In a first, Chinese woman wins the prestigious Fields Medal
 
@@ -56,18 +68,7 @@ President Donald Trump quoted years-old intelligence community documents, includ
 
 Date: 2026-07-17
 
-### China calls Trump's election interference claims "pure fabrication"
-
-A spokesman for the Chinese Ministry of Foreign Affairs denied President Trump's claims of election interference in the 2020 election. CBS News foreign correspondent Anna Coren reports.
-
-Date: 2026-07-17
-
-### Landslide in southwestern China kills at least 8 and leaves 34 missing
-
-The landslide occurred around 9:08 a.m. on the outer edge of the Chongqing municipality, when massive amounts of rocks and soil washed downslope, burying more than 10 residential buildings, state broadcaster CCTV said.
-
-Date: 2026-07-17
-
 ## Sources
 
-- [China Rewrites the ‘Soft Power’ Playbook for the A.I. Age](https://www.nytimes.com/2026/07/23/business/china-ai-soft-power.html?utm_source=lootura.com) — 2026-07-23T17:11:03.000Z
+- [New U.S. tariffs linked to claims of foreign forced labor dismay and anger trading partners](https://www.pbs.org/newshour/world/new-u-s-tariffs-linked-to-claims-of-foreign-forced-labor-dismay-and-anger-trading-partners?utm_source=lootura.com) — 2026-07-24T16:57:09.000Z
+- [China Has Come Through Trump’s Trade War in a Good Position](https://www.nytimes.com/2026/07/24/business/china-tariffs-trump.html?utm_source=lootura.com) — 2026-07-24T14:20:13.000Z

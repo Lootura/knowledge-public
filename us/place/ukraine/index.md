@@ -3,10 +3,22 @@
 > Follow Ukraine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-24T13:39:26.682Z
+- Updated: 2026-07-24T17:28:08.619Z
 - Canonical: https://atlas.lootura.com/us/place/ukraine
 
 ## Recent changes
+
+### Ukraine hits Russia's largest online marketplace, hurting small businesses and bringing the war home
+
+The Ukrainian attacks on the sprawling Russian warehouses produced stark images, with massive pillars of black smoke rising above fires that raged at facilities of Wildberries, the country's biggest online retailer and its equivalent of Amazon.
+
+Date: 2026-07-24
+
+### Russia and Ukraine Trade Deadly Blows With Missiles and Drones
+
+Ukrainian strikes set fire to warehouses and other sites in Russia, and Russian bombing rocked Ukraine’s capital, as the two countries escalated an air campaign.
+
+Date: 2026-07-24
 
 ### Laura Loomer meets with Ukraine's Zelenskyy after her major reversal on the war
 
@@ -56,18 +68,7 @@ Maj. Gen. Mykhailo Drapatyi, a decorated commander, is popular both inside and o
 
 Date: 2026-07-21
 
-### News Wrap: Gulf Coast prepares for Tropical Storm Bertha
-
-In our news wrap Tuesday, millions along the Gulf Coast are bracing for impacts from Tropical Storm Bertha, Ukrainian President Zelenskyy fired the commander-in-chief of Ukraine's armed forces in the latest shake-up of his top military ranks and New Jersey's governor said more than 6,000 noncitizens were registered to.
-
-Date: 2026-07-21
-
-### Ukraine’s Zelenskyy fires his commander in chief after protests and major rift
-
-The firing caps a major crisis for Volodymyr Zelenskyy after Ukrainians took to the streets to call for Oleksandr Syrskyi’s resignation.
-
-Date: 2026-07-21
-
 ## Sources
 
-- [Laura Loomer meets with Ukraine's Zelenskyy after her major reversal on the war](https://www.pbs.org/newshour/world/laura-loomer-meets-with-ukraines-zelenskyy-after-her-major-reversal-on-the-war?utm_source=lootura.com) — 2026-07-24T00:02:06.000Z
+- [Ukraine hits Russia's largest online marketplace, hurting small businesses and bringing the war home](https://www.pbs.org/newshour/world/ukraine-hits-russias-largest-online-marketplace-hurting-small-businesses-and-bringing-the-war-home?utm_source=lootura.com) — 2026-07-24T15:33:58.000Z
+- [Russia and Ukraine Trade Deadly Blows With Missiles and Drones](https://www.nytimes.com/2026/07/24/world/europe/russia-ukraine-war-attacks.html?utm_source=lootura.com) — 2026-07-24T13:41:46.000Z

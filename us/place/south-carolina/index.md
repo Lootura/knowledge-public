@@ -3,10 +3,22 @@
 > Follow South Carolina, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-23T17:20:03.497Z
+- Updated: 2026-07-24T17:28:08.619Z
 - Canonical: https://atlas.lootura.com/us/place/south-carolina
 
 ## Recent changes
+
+### DNC committee sets up South Carolina to vote first in Democrats’ 2028 presidential primaries
+
+South Carolina is poised to hold the first Democratic presidential nominating contest in 2028, after the Democratic National Committee’s powerful rules committee moved to keep the state at the front of the line.
+
+Date: 2026-07-24
+
+### Here Are the Candidates Vying for Sen. Lindsey Graham’s Seat
+
+Voting booths at a polling location inside the Charles R. Drew Wellness Center during a primary election in Columbia, South Carolina, on June 9, 2026. —Sam Wolfe—Bloomberg/Getty Images The deadline for candidates to file their intent to run in the special Republican primary election to fill the late Sen. Lindsey Graham.
+
+Date: 2026-07-24
 
 ### South Carolina and Nevada Fight to Kick Off Democrats’ 2028 Presidential Calendar
 
@@ -56,18 +68,7 @@ Lindsey Graham’s younger sister appointed by South Carolina’s governor three
 
 Date: 2026-07-14
 
-### Lindsey Graham’s Sister Appointed to Finish His Senate Term After Trump’s Backing
-
-Gov. Henry McMaster of South Carolina named Darline Graham Nordone to replace Mr. Graham, who died on Saturday.
-
-Date: 2026-07-13
-
-### Trump recommends South Carolina’s governor appoint Lindsey Graham’s sister to finish his Senate term
-
-President Donald Trump said Monday that he has recommended to South Carolina Gov. Henry McMaster that he choose Lindsey Graham’s sister, Darline Graham Nordone, to serve the remainder of the late Republican senator’s term, which ends in early January.
-
-Date: 2026-07-13
-
 ## Sources
 
-No public source links.
+- [DNC committee sets up South Carolina to vote first in Democrats’ 2028 presidential primaries](https://www.nbcnews.com/politics/2028-election/dnc-committee-sets-south-carolina-vote-first-democrats-2028-presidenti-rcna588863?utm_source=lootura.com) — 2026-07-24T17:13:24.000Z
+- [Here Are the Candidates Vying for Sen. Lindsey Graham’s Seat](https://time.com/article/2026/07/24/lindsey-graham-senate-south-carolina-special-republican-primary-election-candidates/?utm_source=lootura.com) — 2026-07-24T14:30:55.000Z

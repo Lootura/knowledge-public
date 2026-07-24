@@ -3,10 +3,16 @@
 > Follow The Secret Service, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-07-24T13:39:26.682Z
+- Updated: 2026-07-24T17:28:08.619Z
 - Canonical: https://atlas.lootura.com/us/person/the-secret-service
 
 ## Recent changes
+
+### Inside the heightened security for the rescheduled White House Correspondents' Dinner
+
+The Secret Service says there has been a significant rise in threats ahead of the rescheduled White House Correspondents' Dinner. CBS News' Nicole Sganga has more details.
+
+Date: 2026-07-24
 
 ### Member of Vance's Secret Service detail under investigation for leaking
 
@@ -40,5 +46,4 @@ Date: 2026-07-23
 
 ## Sources
 
-- [Member of Vance's Secret Service detail under investigation for leaking](https://www.cbsnews.com/news/jd-vance-secret-service-detail-leak-investigation/?utm_source=lootura.com) — 2026-07-24T00:50:42.000Z
-- [White House Correspondents’ Dinner Returns Under High Security](https://www.today.com/video/trump-to-attend-correspondents-dinner-under-high-security-267214917522?utm_source=lootura.com) — 2026-07-24T11:20:35.000Z
+- [Inside the heightened security for the rescheduled White House Correspondents' Dinner](https://www.cbsnews.com/video/inside-heightened-security-rescheduled-white-house-correspondents-dinner/?utm_source=lootura.com) — 2026-07-24T17:07:00.000Z

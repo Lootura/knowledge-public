@@ -70,4 +70,4 @@ Date: 2026-07-13
 
 ## Fuentes
 
-- [Sánchez pide ayuda a Bruselas con los incendios y Grecia e Italia envían cuatro aviones de extinción](https://www.elconfidencial.com/espana/2026-07-24/incendios-espana-aviones-bruselas-1tps_4395535/?utm_source=lootura.com) — 2026-07-24T11:34:00.000Z
+No public source links.

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/manuel-llamas/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/manuel-llamas/index.json",
   "description": "Sigue la actividad de Manuel Llamas en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-24T13:39:03.048Z",
+  "updatedAt": "2026-07-24T17:27:46.992Z",
   "aliases": [
     "Llamas",
     "Manuel"
@@ -17,6 +17,11 @@
     {
       "title": "El PP pide al juez del 'caso Leire' que prohíba a la cúpula de la Guardia Civil dirigir la UCO mientras dure la causa",
       "summary": "El partido advierte de que Mercedes González y Manuel Llamas mantienen \"el ejercicio pleno de sus funciones y en la superioridad jerárquica sobre la propia unidad cuya labor se investiga si trataron de obstaculizar\". Leer.",
+      "date": "2026-07-24"
+    },
+    {
+      "title": "Las acusaciones populares piden que la directora de la Guardia Civil y el DAO investigados no puedan mandar sobre la UCO",
+      "summary": "Las acusaciones populares del caso Leire Díez o las cloacas del PSOE, representadas por el Partido Popular, han pedido al juez Santiago Pedraz, como medida cautelar, que obligue a la directora de la Guardia Civil, Mercedes González y al Director Adjunto Operativo (DAO) de dicho Cuerpo, Manuel Llamas, ambos investigados.",
       "date": "2026-07-24"
     },
     {
@@ -58,14 +63,15 @@
       "title": "El DAO admite reuniones con Leire Díez pero dice que no pidió ponerse de perfil en causas contra el Gobierno",
       "summary": "El director adjunto operativo (DAO) de la Guardia Civil, Manuel Llamas, ha contradicho este jueves ante el juez a la Unidad Central Operativa (UCO), al negar que pidiera a sus agentes ponerse \"de perfil\" en causas judiciales comprometedoras para el Gobierno o con incidencia política. Según fuentes jurídicas, Llamas ha.",
       "date": "2026-07-16"
-    },
-    {
-      "title": "Un general denuncia a la cúpula de la Guardia Civil por coaccionarle para boicotear a Ayuso",
-      "summary": "Nunca antes en la historia de la Guardia Civil un general de división había presentado una denuncia contra un teniente general. Se trata de un caso paradigmático en un cuerpo de naturaleza militar que arrastra el descrédito de haber visto al director adjunto operativo (DAO), Manuel Llamas, ordenar a la Unidad Central O.",
-      "date": "2026-07-16"
     }
   ],
   "sources": [
+    {
+      "title": "Las acusaciones populares piden que la directora de la Guardia Civil y el DAO investigados no puedan mandar sobre la UCO",
+      "url": "https://www.abc.es/espana/acusaciones-populares-piden-directora-guardia-civil-dao-20260724104145-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-24T17:06:07.000Z",
+      "sourceId": "lootura-es-abc"
+    },
     {
       "title": "El PP pide al juez del 'caso Leire' que prohíba a la cúpula de la Guardia Civil dirigir la UCO mientras dure la causa",
       "url": "https://www.elmundo.es/espana/2026/07/24/6a632582e9cf4a69018b4588.html?utm_source=lootura.com",
@@ -73,5 +79,5 @@
       "sourceId": "lootura-es-el-mundo"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 2
 }

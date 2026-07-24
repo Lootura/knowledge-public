@@ -70,4 +70,4 @@ Date: 2026-07-22
 
 ## Fuentes
 
-- [El Ibex rebota con los aranceles, el petróleo y las preocupaciones por la IA en el foco](https://cincodias.elpais.com/mercados-financieros/2026-07-24/la-bolsa-y-el-ibex-35.html?utm_source=lootura.com) — 2026-07-24T09:57:37.000Z
+No public source links.

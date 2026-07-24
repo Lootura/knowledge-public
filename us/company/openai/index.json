@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/company/openai/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/company/openai/index.json",
   "description": "Follow OpenAI, a tracked company, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-24T13:39:26.682Z",
+  "updatedAt": "2026-07-24T17:28:08.619Z",
   "aliases": [
     "ChatGPT maker",
     "openai.com"
@@ -32,11 +32,11 @@
   ],
   "sources": [
     {
-      "title": "Lawmakers propose AI \"kill switch\" bill after unprecedented cyber attack",
-      "url": "https://www.cbsnews.com/video/lawmakers-propose-ai-kill-switch-bill-after-unprecedented-cyber-attack/?utm_source=lootura.com",
-      "publishedAt": "2026-07-24T13:11:55.000Z",
-      "sourceId": "lootura-us-cbs-news"
+      "title": "Anthropic releases Opus 5 with ‘close’ to Fable 5’s capabilities",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/970105/claude-opus-5-announced-anthropic-ai-model-release?utm_source=lootura.com",
+      "publishedAt": "2026-07-24T17:00:00.000Z",
+      "sourceId": "lootura-us-the-verge"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 0
 }

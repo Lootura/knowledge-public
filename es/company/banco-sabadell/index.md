@@ -40,4 +40,4 @@ Date: 2026-07-24
 
 ## Fuentes
 
-- [El año de transición de Banco Sabadell](https://www.expansion.com/empresas/banca/2026/07/24/6a6346b6e5fdeac4678b4581.html?utm_source=lootura.com) — 2026-07-24T11:14:53.000Z
+No public source links.

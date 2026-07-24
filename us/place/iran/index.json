@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/iran/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/iran/index.json",
   "description": "Follow Iran, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-24T13:39:26.682Z",
+  "updatedAt": "2026-07-24T17:28:08.619Z",
   "aliases": [
     "IRI",
     "Islamic Rep. Iran",
@@ -17,18 +17,8 @@
   ],
   "changes": [
     {
-      "title": "Rapid pace of interceptor and precision-guided weapons use worries Trump admin.",
-      "summary": "The U.S. defense industrial base isn't equipped to produce missiles rapidly enough to replenish munitions used in the war with Iran, or transferred for use to Central Command.",
-      "date": "2026-07-24"
-    },
-    {
       "title": "A Fallen Soldier’s Angst, Love and Longing to Return Home From the Iran War",
       "summary": "Sgt. Michael Emmanuel Swinton was killed in recent days, one of 18 U.S. soldiers who have lost their lives since the beginning of the war in Iran.",
-      "date": "2026-07-24"
-    },
-    {
-      "title": "Number of U.S. Troop Deaths in Iran War Appears Lower on Pentagon Website",
-      "summary": "Three military officials and a Pentagon spokesman gave conflicting explanations for why the number of Americans killed in the Iran war had changed.",
       "date": "2026-07-24"
     },
     {
@@ -47,31 +37,41 @@
       "date": "2026-07-24"
     },
     {
-      "title": "‘We’re Trapped in Hell’: Iranians Say Life Is Put On Hold by Months of War",
-      "summary": "Devastated by cycles of violence and economic crisis, many are giving up on work and their futures as the United States batters Iran again.",
-      "date": "2026-07-24"
-    },
-    {
       "title": "Concerns over U.S. weapons getting depleted as U.S. and Iran continue to trade strikes",
       "summary": "As the U.S. builds up forces in the Middle East amid the ongoing war with Iran, there's concern among some officials that U.S. weapons may be getting depleted. It comes as President Trump has threatened new escalations and as the U.S. and Iran continue to trade strikes. Charlie D'Agata reports.",
       "date": "2026-07-24"
     },
     {
-      "title": "Trump Vows Retaliation Against Iran for Houthi Attack in Red Sea",
-      "summary": "President Donald Trump is vowing retaliation against Iran, saying he is considering a “massive attack” after Houthi rebels struck two Saudi oil tankers in the Red Sea. The attack pushed international oil prices above $100 a barrel for the first time since May. NBC’s Richard Engel reports and Meet the Press moderator Kr.",
+      "title": "How Trump's threat of a \"massive attack\" on Iran could unfold",
+      "summary": "President Trump said he is considering a \"massive attack\" on Iran as fighting ramps up. CBS News' Charlie D'Agata explains how a U.S. military attack on Iran could unfold.",
       "date": "2026-07-24"
     },
     {
-      "title": "Oil surges to $100 per barrel. And, Trump imposes a new round of tariffs",
-      "summary": "Oil surged to $100 per barrel after Iran-backed Houthi rebels attacked two Saudi tankers in the Red Sea. And, President Trump overnight replaced expiring tariffs with a slew of new ones. (Image credit: Kevin Dietsch).",
+      "title": "Gas, groceries and back-to-school items are where shoppers might see higher oil prices surface",
+      "summary": "Already feeling pinched since the start of the Iran war, consumers are likely to feel more pain ahead as oil prices pushed past $100 a barrel Thursday amid renewed fighting and military strikes that have left global oil supplies stranded in the Middle East.",
+      "date": "2026-07-24"
+    },
+    {
+      "title": "Rapid pace of interceptor and precision-guided weapons use worries Trump admin.",
+      "summary": "The U.S. defense industrial base isn't equipped to produce missiles rapidly enough to replenish munitions used in the war with Iran, or transferred for use to Central Command.",
+      "date": "2026-07-24"
+    },
+    {
+      "title": "Number of U.S. Troop Deaths in Iran War Appears Lower on Pentagon Website",
+      "summary": "Three military officials and a Pentagon spokesman gave conflicting explanations for why the number of Americans killed in the Iran war had changed.",
+      "date": "2026-07-24"
+    },
+    {
+      "title": "‘We’re Trapped in Hell’: Iranians Say Life Is Put On Hold by Months of War",
+      "summary": "Devastated by cycles of violence and economic crisis, many are giving up on work and their futures as the United States batters Iran again.",
       "date": "2026-07-24"
     }
   ],
   "sources": [
     {
-      "title": "Rapid pace of interceptor and precision-guided weapons use worries Trump admin.",
-      "url": "https://www.cbsnews.com/news/interceptor-precision-guided-weapons-use-trump-administration/?utm_source=lootura.com",
-      "publishedAt": "2026-07-24T00:47:24.000Z",
+      "title": "How Trump's threat of a \"massive attack\" on Iran could unfold",
+      "url": "https://www.cbsnews.com/video/how-trumps-threat-massive-attack-on-iran-could-unfold/?utm_source=lootura.com",
+      "publishedAt": "2026-07-24T17:01:00.000Z",
       "sourceId": "lootura-us-cbs-news"
     },
     {
@@ -81,22 +81,16 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "Trump Vows Retaliation Against Iran for Houthi Attack in Red Sea",
-      "url": "https://www.today.com/video/trump-vows-retaliation-against-iran-for-houthi-attack-in-red-sea-267213893508?utm_source=lootura.com",
-      "publishedAt": "2026-07-24T11:19:38.000Z",
-      "sourceId": "lootura-us-nbc-news-politics"
-    },
-    {
       "title": "Morning news brief",
       "url": "https://www.npr.org/2026/07/24/nx-s1-5895986/morning-news-brief?utm_source=lootura.com",
       "publishedAt": "2026-07-24T08:45:17.000Z",
       "sourceId": "lootura-us-npr"
     },
     {
-      "title": "Oil surges to $100 per barrel. And, Trump imposes a new round of tariffs",
-      "url": "https://www.npr.org/2026/07/24/g-s1-135418/up-first-newsletter-iran-war-oil-prices-tariffs-wisconsin-corey-ruiz?utm_source=lootura.com",
-      "publishedAt": "2026-07-24T11:37:58.000Z",
-      "sourceId": "lootura-us-npr-world"
+      "title": "Gas, groceries and back-to-school items are where shoppers might see higher oil prices surface",
+      "url": "https://www.pbs.org/newshour/nation/gas-groceries-and-back-to-school-items-are-where-shoppers-might-see-higher-oil-prices-surface?utm_source=lootura.com",
+      "publishedAt": "2026-07-24T15:12:57.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
     },
     {
       "title": "A Fallen Soldier’s Angst, Love and Longing to Return Home From the Iran War",
@@ -111,12 +105,6 @@
       "sourceId": "lootura-us-the-new-york-times"
     },
     {
-      "title": "Even as War Rages, Investors Bet Oil Will Be Cheaper in a Few Months",
-      "url": "https://www.nytimes.com/2026/07/23/business/iran-war-oil-prices.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-23T14:19:17.000Z",
-      "sourceId": "lootura-us-the-new-york-times"
-    },
-    {
       "title": "Brent Crude Oil Prices Top $100 as Conflict With Iran Drags On",
       "url": "https://www.nytimes.com/2026/07/24/business/oil-prices-global-stocks-shipping.html?utm_source=lootura.com",
       "publishedAt": "2026-07-24T09:28:16.000Z",
@@ -125,9 +113,9 @@
     {
       "title": "Iran War and Trump’s Tariffs Threaten a Resilient U.S. Economy",
       "url": "https://www.nytimes.com/2026/07/24/business/iran-war-tariffs-economy.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-24T09:05:22.000Z",
+      "publishedAt": "2026-07-24T13:41:20.000Z",
       "sourceId": "lootura-us-the-new-york-times"
     }
   ],
-  "evidenceCount": 12
+  "evidenceCount": 8
 }

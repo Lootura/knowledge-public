@@ -52,4 +52,4 @@ Date: 2026-07-23
 
 ## Sources
 
-- [As Part of Nuclear Deal, Trump Demands Saudi Arabia Join the Abraham Accords](https://www.nytimes.com/2026/07/23/us/politics/saudi-nuclear-deal-israel.html?utm_source=lootura.com) — 2026-07-23T17:29:33.000Z
+No public source links.

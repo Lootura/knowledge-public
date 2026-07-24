@@ -3,10 +3,22 @@
 > Sigue la actividad de Partido Socialista Obrero Español en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-24T13:39:03.048Z
+- Actualizado: 2026-07-24T17:27:46.992Z
 - Canonical: https://atlas.lootura.com/es/organization/psoe
 
 ## Cambios recientes
+
+### El PSOE apunta a responsabilidades políticas por la gestión del incendio de Almería
+
+El PSOE-A ha apuntado a posibles responsabilidades políticas de los responsables de Emergencias en el Gobierno autonómico por «el vacío de tres horas» en la gestión del incendio de Los Gallardos , en Almería, y ha reclamado el apoyo para su petición de una comisión de investigación en el Parlamento andaluz. Los sociali.
+
+Date: 2026-07-24
+
+### Las acusaciones populares piden que la directora de la Guardia Civil y el DAO investigados no puedan mandar sobre la UCO
+
+Las acusaciones populares del caso Leire Díez o las cloacas del PSOE, representadas por el Partido Popular, han pedido al juez Santiago Pedraz, como medida cautelar, que obligue a la directora de la Guardia Civil, Mercedes González y al Director Adjunto Operativo (DAO) de dicho Cuerpo, Manuel Llamas, ambos investigados.
+
+Date: 2026-07-24
 
 ### El Gobierno plantea un castigo fiscal a las Socimis de viviendas
 
@@ -17,12 +29,6 @@ Date: 2026-07-24
 ### Morant, implacable con el PP, victimiza a Zapatero pese a sus 8 mentiras en TVE: «Fue muy valiente»
 
 La secretaria general de los socialistas valencianos y ministra en el Gobierno del socialista Pedro Sánchez, Diana Morant, implacable cuando de pedir dimisiones y exigir responsabilidades al PP se trata, ha vuelto a victimizar a un representante del Partido Socialista inmerso en un procedimiento judicial, como en su dí.
-
-Date: 2026-07-24
-
-### El PSOE apunta a responsabilidades políticas por la gestión del incendio de Almería
-
-El PSOE-A ha apuntado a posibles responsabilidades políticas de los responsables de Emergencias en el Gobierno autonómico por «el vacío de tres horas» en la gestión del incendio de Los Gallardos , en Almería, y ha reclamado el apoyo para su petición de una comisión de investigación en el Parlamento andaluz. Los sociali.
 
 Date: 2026-07-24
 
@@ -62,14 +68,7 @@ El Gobierno y la dirección del PSOE reiteran su respaldo a José Luis Rodrígue
 
 Date: 2026-07-23
 
-### El Congreso rebaja los requisitos para formar grupo propio a petición de los nacionalistas
-
-El Congreso ha aprobado este jueves definitivamente la rebaja de los requisitos para constituir grupo parlamentario propio a propuesta de los partidos nacionalistas y con el apoyo del PSOE , mientras que PP, Vox y UPN han votado en contra. La reforma, impulsada por ERC, Junts, BNG, Compromís y Podemos, mantiene la regl.
-
-Date: 2026-07-23
-
 ## Fuentes
 
-- [El Gobierno plantea un castigo fiscal a las Socimis de viviendas](https://amp.expansion.com/inmobiliario/mercado/2026/07/24/6a633b58468aeb12608b458a.html?utm_source=lootura.com) — 2026-07-24T10:16:34.000Z
-- [Morant, implacable con el PP, victimiza a Zapatero pese a sus 8 mentiras en TVE: «Fue muy valiente»](https://okdiario.com/comunidad-valenciana/morant-implacable-pp-victimiza-zapatero-pese-sus-8-mentiras-tve-fue-muy-valiente-19061673?utm_source=lootura.com) — 2026-07-24T12:51:44.000Z
+- [Las acusaciones populares piden que la directora de la Guardia Civil y el DAO investigados no puedan mandar sobre la UCO](https://www.abc.es/espana/acusaciones-populares-piden-directora-guardia-civil-dao-20260724104145-nt.html?utm_source=lootura.com) — 2026-07-24T17:06:07.000Z
 - [El PSOE apunta a responsabilidades políticas por la gestión del incendio de Almería](https://theobjective.com/espana/politica/2026-07-24/psoe-responsabilidades-gestion-incendio/?utm_source=lootura.com) — 2026-07-24T12:08:14.000Z

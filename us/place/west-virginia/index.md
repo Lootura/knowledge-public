@@ -3,7 +3,7 @@
 > Follow West Virginia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-24T13:39:26.682Z
+- Updated: 2026-07-24T17:28:08.619Z
 - Canonical: https://atlas.lootura.com/us/place/west-virginia
 
 ## Recent changes
@@ -11,6 +11,12 @@
 ### West Virginia paid digital nomads to move there during COVID. Many are staying
 
 Ascend West Virginia is one of dozens of relocation initiatives across the country offering cash and other incentives to move to states needing an economic boost. Here's how they're working out. (Image credit: Chris Jackson for NPR).
+
+Date: 2026-07-24
+
+### C.D.C. Expands Cyclospora Outbreak Linked to Iceberg Lettuce to Nine States
+
+Illinois, Kansas, Oklahoma and Pennsylvania now join Michigan, Ohio, Indiana, Kentucky and West Virginia in cyclospora outbreak linked to iceberg lettuce.
 
 Date: 2026-07-24
 
@@ -29,3 +35,4 @@ Date: 2026-07-23
 ## Sources
 
 - [West Virginia paid digital nomads to move there during COVID. Many are staying](https://www.npr.org/2026/07/24/nx-s1-5869402/remote-work-west-virginia-cash-incentive?utm_source=lootura.com) — 2026-07-24T09:00:00.000Z
+- [C.D.C. Expands Cyclospora Outbreak Linked to Iceberg Lettuce to Nine States](https://www.nytimes.com/2026/07/24/well/eat/cyclospora-outbreak-states-cdc.html?utm_source=lootura.com) — 2026-07-24T16:06:02.000Z

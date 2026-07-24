@@ -3,7 +3,7 @@
 > Sigue la actividad de Partido Popular en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-24T13:39:03.048Z
+- Actualizado: 2026-07-24T17:27:46.992Z
 - Canonical: https://atlas.lootura.com/es/organization/partido-popular
 
 ## Cambios recientes
@@ -11,6 +11,30 @@
 ### El PP pide al juez del 'caso Leire' que prohíba a la cúpula de la Guardia Civil dirigir la UCO mientras dure la causa
 
 El partido advierte de que Mercedes González y Manuel Llamas mantienen "el ejercicio pleno de sus funciones y en la superioridad jerárquica sobre la propia unidad cuya labor se investiga si trataron de obstaculizar". Leer.
+
+Date: 2026-07-24
+
+### Puente responde a las críticas de Ayuso: "Si hay una mamarracha en España, esa eres tú"
+
+El ministro de Transportes, Óscar Puente , ha llamado "mamarracha" a la presidenta de la Comunidad de Madrid, Isabel Díaz Ayuso , después de que la mandataria autonómica haya censurado su actitud, tras arremeter éste contra los ejecutivos regionales del PP , y loara la coordinación entre administraciones frente a los ".
+
+Date: 2026-07-24
+
+### Puente ataca de nuevo a Ayuso: «Si hay una mamarracha en España, esa eres tú»
+
+El ministro de Transportes, Óscar Puente , ha llamado « mamarracha » a la presidenta de la Comunidad de Madrid, Isabel Díaz Ayuso , después de que la mandataria autonómica haya censurado su actitud, tras arremeter este contra los ejecutivos regionales del PP, y loara la coordinación entre administraciones frente a los.
+
+Date: 2026-07-24
+
+### Las acusaciones populares piden que la directora de la Guardia Civil y el DAO investigados no puedan mandar sobre la UCO
+
+Las acusaciones populares del caso Leire Díez o las cloacas del PSOE, representadas por el Partido Popular, han pedido al juez Santiago Pedraz, como medida cautelar, que obligue a la directora de la Guardia Civil, Mercedes González y al Director Adjunto Operativo (DAO) de dicho Cuerpo, Manuel Llamas, ambos investigados.
+
+Date: 2026-07-24
+
+### Puente a Ayuso por los incendios en Madrid: "Si hay una mamarracha en España, esa eres tú"
+
+Óscar Puente e Isabel Díaz Ayuso han protagonizado un duro enfrentamiento político por los incendios de Madrid, después de que el ministro de Transportes acusara a los gobiernos autonómicos del PP de recortar servicios públicos y reclamar después la intervención del Gobierno. La disputa ha estallado mientras miles de p.
 
 Date: 2026-07-24
 
@@ -23,12 +47,6 @@ Date: 2026-07-24
 ### Morant matiza pero insiste en equiparar al PP con las políticas nazis
 
 «Yo no dije eso. Yo no comparé a -Alberto Núñez- Feijóo con -Adolf- Hitler». La ministra de Ciencia, Innovación y Universidades, Diana Morant, ha matizado este viernes sus declaraciones sobre los planes para un hipotético gobierno del líder nacional del PP si llega a la Moncloa con Vox.No obstante, ha insistido en real.
-
-Date: 2026-07-24
-
-### Puente responde a las críticas de Ayuso: "Si hay una mamarracha en España, esa eres tú"
-
-El ministro de Transportes, Óscar Puente , ha llamado "mamarracha" a la presidenta de la Comunidad de Madrid, Isabel Díaz Ayuso , después de que la mandataria autonómica haya censurado su actitud, tras arremeter éste contra los ejecutivos regionales del PP , y loara la coordinación entre administraciones frente a los ".
 
 Date: 2026-07-24
 
@@ -50,31 +68,10 @@ La secretaria general de los socialistas valencianos y ministra en el Gobierno d
 
 Date: 2026-07-24
 
-### Puente ataca de nuevo a Ayuso: «Si hay una mamarracha en España, esa eres tú»
-
-El ministro de Transportes, Óscar Puente , ha llamado « mamarracha » a la presidenta de la Comunidad de Madrid, Isabel Díaz Ayuso , después de que la mandataria autonómica haya censurado su actitud, tras arremeter este contra los ejecutivos regionales del PP, y loara la coordinación entre administraciones frente a los.
-
-Date: 2026-07-24
-
-### Puente critica PP por pedir ayuda a la UME para los incendios mientras «reduce impuestos»
-
-El ministro de Transportes, Óscar Puente , ha arremetido este viernes contra las comunidades autónomas gobernadas por el PP por reclamar la ayuda de la Unidad Militar de Emergencias (UME) para extinguir los incendios forestales mientras reducen impuestos a los ricos. «Luego piden al Gobierno que les resuelva la papelet.
-
-Date: 2026-07-24
-
-### El PP planta al Gobierno en la Conferencia de Inmigración y le acusa de "deslealtad"
-
-Los 'populares' consideran que el Gobierno "oculta actas y grabaciones" de las comisiones preparatorias y tachan la política migratoria de "opaca e irresponsable" Leer.
-
-Date: 2026-07-23
-
 ## Fuentes
 
-- [Morant matiza pero insiste en equiparar al PP con las políticas nazis](https://www.abc.es/espana/comunidad-valenciana/morant-matiza-insiste-equiparar-pp-politicas-nazis-20260724115457-nt.html?utm_source=lootura.com) — 2026-07-24T13:04:10.000Z
+- [Las acusaciones populares piden que la directora de la Guardia Civil y el DAO investigados no puedan mandar sobre la UCO](https://www.abc.es/espana/acusaciones-populares-piden-directora-guardia-civil-dao-20260724104145-nt.html?utm_source=lootura.com) — 2026-07-24T17:06:07.000Z
 - [Puente responde a las críticas de Ayuso: "Si hay una mamarracha en España, esa eres tú"](https://www.elconfidencial.com/espana/2026-07-24/ayuso-puente-incendios-madrid-1tps_4395604/?utm_source=lootura.com) — 2026-07-24T12:52:00.000Z
+- [Puente a Ayuso por los incendios en Madrid: "Si hay una mamarracha en España, esa eres tú"](https://www.elconfidencial.com/espana/2026-07-24/puente-ayuso-incendios-madrid-mamarracha-1qrt_4395672/?utm_source=lootura.com) — 2026-07-24T14:40:00.000Z
 - [El PP pide al juez del 'caso Leire' que prohíba a la cúpula de la Guardia Civil dirigir la UCO mientras dure la causa](https://www.elmundo.es/espana/2026/07/24/6a632582e9cf4a69018b4588.html?utm_source=lootura.com) — 2026-07-24T08:53:02.000Z
-- [El PP tilda de "miserable" la actuación de Puente y el delegado del Gobierno en Madrid ante los incendios](https://www.eldiario.es/madrid/pp-miserable-actuacion-puente-delegado-gobierno-incendios_1_13404260.html?utm_source=lootura.com) — 2026-07-24T10:34:15.000Z
-- [Choque entre Puente y Ayuso: “Si hay una mamarracha en España, esa eres tú”](https://www.lavanguardia.com/politica/20260724/11600279/puente-acusa-pp-recortar-servicios-pedir-les-resuelvan-papeleta.html?utm_source=lootura.com) — 2026-07-24T11:10:37.000Z
-- [Morant, implacable con el PP, victimiza a Zapatero pese a sus 8 mentiras en TVE: «Fue muy valiente»](https://okdiario.com/comunidad-valenciana/morant-implacable-pp-victimiza-zapatero-pese-sus-8-mentiras-tve-fue-muy-valiente-19061673?utm_source=lootura.com) — 2026-07-24T12:51:44.000Z
-- [Morant niega que comparara a Feijóo con Hitler: fue un paralelismo sobre «políticas racistas»](https://theobjective.com/espana/politica/2026-07-24/morant-feijoo-hitler-politicas-racistas/?utm_source=lootura.com) — 2026-07-24T10:09:06.000Z
 - [Puente ataca de nuevo a Ayuso: «Si hay una mamarracha en España, esa eres tú»](https://theobjective.com/espana/politica/2026-07-24/puente-ayuso-llama-mamarracha/?utm_source=lootura.com) — 2026-07-24T13:20:24.000Z

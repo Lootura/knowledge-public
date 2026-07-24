@@ -3,10 +3,16 @@
 > Follow Europe, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-24T13:39:26.682Z
+- Updated: 2026-07-24T17:28:08.619Z
 - Canonical: https://atlas.lootura.com/us/place/europe
 
 ## Recent changes
+
+### More than 80,000 flee forest infernos in France and Spain
+
+Europe's wildfire crisis forced more than 80,000 people to flee for safety Friday, as vacationers boarded boats to escape fires on a French peninsula and Spanish officials ordered mass evacuations in towns near Madrid.
+
+Date: 2026-07-24
 
 ### US allies hit with new tariffs object to Trump's forced labor claims
 
@@ -62,13 +68,6 @@ In Europe, Asia and the Middle East, countries seek nuclear capabilities to hedg
 
 Date: 2026-07-23
 
-### Shifting weather patterns drive 55% of Europe's summer drought trend, study finds
-
-In a new study, researchers at Leipzig University have identified a major cause of the unusually severe summer soil drying and rising temperatures across Europe. They found that much of the trend can be attributed to changes in atmospheric circulation patterns—that is, shifts in the weather regimes that typically occur.
-
-Date: 2026-07-22
-
 ## Sources
 
-- [US allies hit with new tariffs object to Trump's forced labor claims](https://www.npr.org/2026/07/24/nx-s1-5906301/us-global-trump-tariffs-reaction?utm_source=lootura.com) — 2026-07-24T10:31:08.000Z
-- [U.S.-Saudi Deal Prompts Fears of a Global Nuclear Arms Race](https://www.nytimes.com/2026/07/23/world/europe/us-saudi-deal-nuclear-hedging.html?utm_source=lootura.com) — 2026-07-23T15:28:15.000Z
+- [More than 80,000 flee forest infernos in France and Spain](https://phys.org/news/2026-07-forest-infernos-france-spain.html?utm_source=lootura.com) — 2026-07-24T16:40:07.000Z

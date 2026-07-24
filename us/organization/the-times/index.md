@@ -34,4 +34,4 @@ Date: 2026-07-23
 
 ## Sources
 
-- [U.S. Withdraws Subpoenas Issued to New York Times Journalists](https://www.nytimes.com/2026/07/23/business/media/new-york-times-subpoenas-withdraw.html?utm_source=lootura.com) — 2026-07-23T22:56:42.000Z
+No public source links.

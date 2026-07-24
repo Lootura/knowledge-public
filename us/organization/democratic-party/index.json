@@ -8,11 +8,16 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/democratic-party/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/democratic-party/index.json",
   "description": "Follow Democratic Party, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-24T13:39:26.682Z",
+  "updatedAt": "2026-07-24T17:28:08.619Z",
   "aliases": [
     "Democrats"
   ],
   "changes": [
+    {
+      "title": "DNC committee sets up South Carolina to vote first in Democrats’ 2028 presidential primaries",
+      "summary": "South Carolina is poised to hold the first Democratic presidential nominating contest in 2028, after the Democratic National Committee’s powerful rules committee moved to keep the state at the front of the line.",
+      "date": "2026-07-24"
+    },
     {
       "title": "House Rebukes Trump on Iran in War Powers Vote as Senate Blocks Debate",
       "summary": "For the second time, a few House Republicans joined Democrats to back a measure calling on the president to seek authorization for the war.",
@@ -57,19 +62,14 @@
       "title": "Trump’s Plan for Science: More Money for A.I., Less for Universities",
       "summary": "Michael Kratsios, President Trump’s science adviser, proposed overhauling how the government funds research. Democrats said Mr. Trump’s actions had weakened science.",
       "date": "2026-07-22"
-    },
-    {
-      "title": "South Carolina and Nevada Fight to Kick Off Democrats’ 2028 Presidential Calendar",
-      "summary": "The calendar order could be hugely important to the 2028 presidential primary race. Democratic insiders will try to sketch out a schedule this week, and rival states are sniping at one another.",
-      "date": "2026-07-22"
     }
   ],
   "sources": [
     {
-      "title": "Trump administration drive to seize election powers sparking ‘chaos’ despite pushback",
-      "url": "https://www.theguardian.com/us-news/2026/jul/24/trump-administration-election-chaos?utm_source=lootura.com",
-      "publishedAt": "2026-07-24T11:00:12.000Z",
-      "sourceId": "lootura-us-the-guardian-us"
+      "title": "DNC committee sets up South Carolina to vote first in Democrats’ 2028 presidential primaries",
+      "url": "https://www.nbcnews.com/politics/2028-election/dnc-committee-sets-south-carolina-vote-first-democrats-2028-presidenti-rcna588863?utm_source=lootura.com",
+      "publishedAt": "2026-07-24T17:13:24.000Z",
+      "sourceId": "lootura-us-nbc-news-politics"
     },
     {
       "title": "House Rebukes Trump on Iran in War Powers Vote as Senate Blocks Debate",
@@ -78,5 +78,5 @@
       "sourceId": "lootura-us-the-new-york-times"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 3
 }

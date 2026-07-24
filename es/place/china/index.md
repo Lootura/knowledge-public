@@ -3,7 +3,7 @@
 > Sigue la actividad de China en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-24T13:39:03.048Z
+- Actualizado: 2026-07-24T17:27:46.992Z
 - Canonical: https://atlas.lootura.com/es/place/china
 
 ## Cambios recientes
@@ -11,6 +11,12 @@
 ### Xpeng L03: el SUV futurista que queríamos, con un precio y una autonomía que decepciona
 
 Xpeng ha llevado a Europa uno de sus lanzamientos más esperados del año, el Xpeng L03 , la versión SUV del Mona M03 con el que la marca arrasó en el mercado chino. La fórmula que le funcionó allí es conocida: mucha tecnología a un precio muy ajustado. La compañía confía tanto en repetir ese éxito fuera de China que ha.
+
+Date: 2026-07-24
+
+### El embajador chino en España, con los pintores Rao Jinzhong y Du Miaolos
+
+El embajador de China en España, Yao Jing, visitó el 22 de julio en Madrid el taller de los pintores chinos Rao Jinzhong y Du Miao para conocer la actualidad del intercambio en el sector de arte pictórico entre los dos países. El embajador elogió la contribución de los dos artistas residentes en España al intercambio c.
 
 Date: 2026-07-24
 
@@ -62,12 +68,7 @@ Sun Tzu es considerado uno de los grandes pensadores de la cultura oriental . Se
 
 Date: 2026-07-21
 
-### La acción de la semana: Alibaba rebota desde soporte, pero el cambio de tendencia todavía está por demostrar
-
-Alibaba Group es un consorcio privado chino dedicado principalmente al comercio electrónico en internet, siendo responsable de más del 60% de los paquetes entregados en China. Dentro del conglomerado se encuentran servicios como el comercio al por menor, Business to Business, pagos en línea y almacenamientos en la nube.
-
-Date: 2026-07-20
-
 ## Fuentes
 
 - [Xpeng L03: el SUV futurista que queríamos, con un precio y una autonomía que decepciona](https://hipertextual.com/movilidad/xpeng-l03-suv-electrico-futurista-decepcion/?utm_source=lootura.com) — 2026-07-24T13:21:26.000Z
+- [El embajador chino en España, con los pintores Rao Jinzhong y Du Miaolos](https://www.larazon.es/madrid/embajador-chino-espana-pintores-rao-jinzhong-miaolos_202607246a639d3dda3add27d4e0375d.html?utm_source=lootura.com) — 2026-07-24T17:13:33.000Z

@@ -3,10 +3,16 @@
 > Sigue la actividad de Barcelona en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-24T10:14:05.930Z
+- Actualizado: 2026-07-24T17:27:46.992Z
 - Canonical: https://atlas.lootura.com/es/place/barcelona
 
 ## Cambios recientes
+
+### El Barcelona pesca en la NBA para salir de la tumba
+
+Los azulgranas, en plena reconstrucción, han cerrado este viernes las incorporaciones de Tosan Evbuomwan y Tyrese Martin, ambos procedentes de la liga estadounidense.
+
+Date: 2026-07-24
 
 ### Primer trasplante de órganos entre pacientes con VIH en España
 
@@ -62,12 +68,6 @@ La extraña terapia a la que se estaba sometiendo la familia Andic antes de la m
 
 Date: 2026-07-23
 
-### Un fuego junto a las vías obliga a suspender los trenes de alta velocidad entre Madrid y Barcelona
-
-La circulación de trenes de alta velocidad entre Madrid y Barcelona ha quedado interrumpida este jueves debido a un incendio declarado en las proximidades de la infraestructura ferroviaria en la Comunidad de Madrid, han informado Renfe y Adif en sus redes sociales. Renfe ha informado de que el tráfico permanece suspend.
-
-Date: 2026-07-23
-
 ## Fuentes
 
-No public source links.
+- [El Barcelona pesca en la NBA para salir de la tumba](https://www.abc.es/deportes/baloncesto/barcelona-pesca-nba-salir-tumba-20260724184711-nt_amp.html?utm_source=lootura.com) — 2026-07-24T16:47:12.000Z

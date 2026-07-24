@@ -3,20 +3,20 @@
 > Sigue la actividad de Banco Central Europeo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: company
-- Actualizado: 2026-07-24T13:39:03.048Z
+- Actualizado: 2026-07-24T17:27:46.992Z
 - Canonical: https://atlas.lootura.com/es/company/banco-central-europeo
 
 ## Cambios recientes
 
-### Los nuevos billetes del euro ya tienen finalistas: diez diseños y una encuesta abierta al público
-
-El Banco Central Europeo (BCE) ha presentado las diez propuestas finalistas para la próxima serie de billetes del euro y ha abierto una encuesta pública para que cualquier ciudadano europeo pueda opinar hasta el 21 de septiembre de 2026. Al concurso se presentaron más de 1.200 diseñadores de toda la Unión Europea. Un j.
-
-Date: 2026-07-24
-
 ### De Cervantes a Da Vinci y Marie Curie: los billetes de euro cambian y así son todos los nuevos por los que ya puedes votar
 
 Anverso del billete de 5 euros del diseño preseleccionado por Studio Joost Grootens, con un retrato de Maria Callas, una de las grandes figuras de la ópera del siglo XX. Banco Central Europeo (BCE) Reverso del billete de 5 euros del diseño preseleccionado por Studio Joost Grootens, que representa un espacio público don.
+
+Date: 2026-07-24
+
+### Los nuevos billetes del euro ya tienen finalistas: diez diseños y una encuesta abierta al público
+
+El Banco Central Europeo (BCE) ha presentado las diez propuestas finalistas para la próxima serie de billetes del euro y ha abierto una encuesta pública para que cualquier ciudadano europeo pueda opinar hasta el 21 de septiembre de 2026. Al concurso se presentaron más de 1.200 diseñadores de toda la Unión Europea. Un j.
 
 Date: 2026-07-24
 
@@ -70,5 +70,4 @@ Date: 2026-07-23
 
 ## Fuentes
 
-- [Los nuevos billetes del euro ya tienen finalistas: diez diseños y una encuesta abierta al público](http://www.microsiervos.com/archivo/arte-y-diseno/billetes-opinion-publico-banco-euro.html?utm_source=lootura.com) — 2026-07-24T11:21:25.000Z
 - [De Cervantes a Da Vinci y Marie Curie: los billetes de euro cambian y así son todos los nuevos por los que ya puedes votar](https://theobjective.com/galerias/economia/2026-07-24/de-cervantes-a-da-vinci-y-marie-curie-los-billetes-de-euro-cambian-y-asi-son-todos-los-nuevos-por-los-que-ya-puedes-votar/?utm_source=lootura.com) — 2026-07-24T13:09:02.000Z

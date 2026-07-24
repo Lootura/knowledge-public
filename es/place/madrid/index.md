@@ -3,7 +3,7 @@
 > Sigue la actividad de Madrid en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-24T13:39:03.048Z
+- Actualizado: 2026-07-24T17:27:46.992Z
 - Canonical: https://atlas.lootura.com/es/place/madrid
 
 ## Cambios recientes
@@ -14,39 +14,9 @@
 
 Date: 2026-07-24
 
-### El ministro Marlaska, sobre los incendios que cercan Madrid y Ávila: "No podemos ser optimistas, hoy es un día crítico"
-
-El titular de Interior afirma a pie de los fuegos que la "coordinación" con la Comunidad de Madrid es "perfecta" y determina que "el objetivo" este viernes es "que los tres fuegos no confluyan" en uno solo Leer.
-
-Date: 2026-07-24
-
 ### Precedentes y polémicas de la declaración de emergencia nacional: del bulo del “si quieren ayuda, que la pidan” al apagón
 
 El Boletín Oficial del Estado ha publicado este viernes la orden por la que se declara la “emergencia de interés nacional en el territorio de la Comunidad de Madrid y en la provincia de Ávila como consecuencia de los incendios forestales”, que la presidenta madrileña, Isabel Díaz Ayuso, había solicitado el día anterior.
-
-Date: 2026-07-24
-
-### Castilla y León no pide al Gobierno la emergencia nacional, como sí ha hecho Madrid
-
-Castilla y León no solicitó al Gobierno central, como sí hizo la Comunidad de Madrid para su territorio, la declaración de la situación operativa 3 de.
-
-Date: 2026-07-24
-
-### El mapa de los tres incendios: así avanzan los fuegos que cercan la Comunidad de Madrid
-
-La grave situación por los incendios , que ha obligado al Gobierno a declarar la emergencia nacional en Madrid y Ávila, afronta "un día crítico", según ha explicado el ministro del Interior, Fernando Grande-Marlaska: los focos de San Martín de Valdeiglesias y Villa del Prado , en Madrid, se han fusionado en un solo fre.
-
-Date: 2026-07-24
-
-### Ciudadano20 abre un buzón para recoger testimonios de los afectados por los incendios
-
-Los incendios forestales que afectan a distintos municipios de la Comunidad de Madrid y de la provincia de Ávila han obligado a miles de personas a abandonar sus viviendas o a permanecer confinadas mientras continúan los trabajos de extinción. Ante una emergencia que evoluciona con rapidez, Ciudadano20 , la comunidad d.
-
-Date: 2026-07-24
-
-### Sánchez pide ayuda a la UE para luchar contra el fuego: Grecia e Italia mandan efectivos
-
-Con la mayor parte de España en riesgo extremo de incendios y una situación muy complicada en Madrid y Ávila, que ahora son emergencia de interés nacional, el Gobierno ha decidido activar el Mecanismo Europeo de Protección Civil. Según informan fuentes de la Moncloa, la Secretaría General de Protección Civil y Emergenc.
 
 Date: 2026-07-24
 
@@ -56,27 +26,57 @@ Sigue en directo los incendios forestales activos alrededor de España, en comun
 
 Date: 2026-07-24
 
-### Crece el temor a que los focos de Madrid y Ávila se junten en horas
+### Puente responde a las críticas de Ayuso: "Si hay una mamarracha en España, esa eres tú"
 
-Toda la atención está puesta en evitar a toda costa que los incendios del entorno de Madrid y Ávila confluyan. De ocurrir, el resultado sería un fuego mucho más difícil, más virulento y más rápido. «Hoy es un día crítico», ha dicho el ministro del Interior, Fernando-Grande Marlaska. «Si hubiera una confluencia, la situ.
+El ministro de Transportes, Óscar Puente , ha llamado "mamarracha" a la presidenta de la Comunidad de Madrid, Isabel Díaz Ayuso , después de que la mandataria autonómica haya censurado su actitud, tras arremeter éste contra los ejecutivos regionales del PP , y loara la coordinación entre administraciones frente a los ".
 
 Date: 2026-07-24
 
-### El «complicado» incendio de Ávila obliga a más evacuaciones y ya ha arrasado 9.000 hectáreas
+### A cuántos campos de fútbol equivale el incendio de Madrid: las dimensiones del incendio
 
-El operativo trabaja para este fuego de Burgohondo no se una al de Madrid y las administraciones piden a los ciudadanos que «obedezcan» las instrucciones: «No se puede perder tiempo en discutir».
+Con más de 10.000 vecinos evacuados y un amplio dispositivo desplegado sobre el terreno, el incendio que afecta al suroeste de la Comunidad de Madrid continúa activo. La superficie arrasada alcanza una dimensión que resulta más fácil de comprender cuando se compara con un elemento tan cotidiano como un campo de fútbol.
+
+Date: 2026-07-24
+
+### Incertidumbre y angustia entre los miles de evacuados en los pueblos amenazados de Madrid: "Hoy estamos aquí, mañana no lo sabemos"
+
+Familias, mayores y personas dependientes pasan las horas en el pabellón de Villamanta esperando esa llamada que les permita regresar: "No nos ha faltado de nada. Anoche faltaron camas, pero la UME estaba desbordada" Leer.
+
+Date: 2026-07-24
+
+### Última hora de los incendios forestales, en directo | Los incendios de la Comunidad de Madrid se unen en un solo frente y amenazan a nuevos municipios
+
+Los tres incendios que afectan a la Comunidad de Madrid ya se han fusionado y amenazan nuevos municipios, según ha confirmado este viernes el consejero de Medio Ambiente, Agricultura e Interior de la Comunidad de Madrid, Carlos Novillo. La Secretaría General de Protección Civil y Emergencias, del Ministerio del Interio.
+
+Date: 2026-07-24
+
+### Ayuso y Puente se llaman mutuamente “mamarrachos” por la crisis de los incendios
+
+La crisis de los graves incendios que afectan a la Comunidad de Madrid y la provincia de Ávila ha motivado la declaración de emergencia nacional por parte del Gobierno central y a petición de la presidenta madrileña, Isabel Díaz Ayuso. El presidente, Pedro Sánchez, ha presidido ya esta mañana en La Moncloa la reunión d.
+
+Date: 2026-07-24
+
+### Una vecina de Chapinería (Madrid) que ha tenido que huir del fuego: “Está todo lleno de humo y de pavesas”
+
+Honorina Hernández metió en el coche a su familia, a cinco perros y poco más. “Realmente he cogido unas pastillas que tengo que tomar, y ya está”, explica. Detrás dejaba Chapinería (2.700 habitantes), su pueblo, convertido en una de las localidades que la Comunidad de Madrid ha ordenado desalojar este viernes por el av.
+
+Date: 2026-07-24
+
+### MAPA | La expansión del incendio que ha obligado a activar la emergencia nacional en Madrid y Ávila
+
+El fuerte viento está aumentando la velocidad del avance de los incendios en la Comunidad de Madrid y en Castilla y León y las autoridades avisan de que las llamas se encuentran "en su punto álgido" y se intenta evitar la unión de ambos en un "macroincendio" Los incendios de Madrid se unen en un solo frente y obligan a.
 
 Date: 2026-07-24
 
 ## Fuentes
 
-- [El mapa de los tres incendios: así avanzan los fuegos que cercan la Comunidad de Madrid](https://www.20minutos.es/nacional/mapa-los-tres-incendios-asi-avanzan-los-fuegos-que-cercan-comunidad-madrid_7018620_0.html?utm_source=lootura.com) — 2026-07-24T11:04:12.000Z
-- [Ciudadano20 abre un buzón para recoger testimonios de los afectados por los incendios](https://www.20minutos.es/nacional/ciudadano20-20minutos-buzon-testimonios-afectados-incendios_7018622_0.html?utm_source=lootura.com) — 2026-07-24T11:34:38.000Z
-- [Sánchez pide ayuda a la UE para luchar contra el fuego: Grecia e Italia mandan efectivos](https://www.abc.es/sociedad/sanchez-pide-ayuda-union-europea-luchar-incendios-20260724105908-nt.html?utm_source=lootura.com) — 2026-07-24T12:46:55.000Z
-- [Incendios en España hoy, en directo: última hora de los fuegos en Madrid, Castilla y León y Castilla-La Mancha y de los pueblos evacuados](https://www.abc.es/sociedad/incendios-espana-hoy-directo-fuegos-activos-madrid-20260723185959-di_amp.html?utm_source=lootura.com) — 2026-07-24T13:17:48.000Z
-- [Crece el temor a que los focos de Madrid y Ávila se junten en horas](https://www.abc.es/sociedad/fuego-amenaza-fusionarse-complicar-incendios-madrid-avila-20260724124918-nt.html?utm_source=lootura.com) — 2026-07-24T13:01:46.000Z
-- [El «complicado» incendio de Ávila obliga a más evacuaciones y ya ha arrasado 9.000 hectáreas](https://www.abc.es/espana/castilla-leon/complicado-incendio-avila-obliga-evacuaciones-arrasado-9000-20260724151147-nt.html?utm_source=lootura.com) — 2026-07-24T13:11:47.000Z
+- [Así se ve desde el cielo el drama del fuego en San Martín: decenas de focos arrasando todo sin control](https://www.20minutos.es/madrid/asi-se-ve-desde-cielo-dramatica-situacion-incendio-san-martin-valdeiglesias-decenas-focos-arrasando-todo-sin-control_7018735_0.html?utm_source=lootura.com) — 2026-07-24T14:48:54.000Z
+- [Los bomberos, abrumados por los incendios en Madrid: "No he visto algo igual en la vida, varios operarios han quedado atrapados"](https://www.20minutos.es/madrid/bomberos-abrumados-incendios-madrid-anos-visto-vida-operaciones-quedado-atrapados_7018737_0.html?utm_source=lootura.com) — 2026-07-24T15:06:50.000Z
+- [Los incendios y una masa de aire africano deterioran la calidad del aire en el oeste y la Sierra norte de Madrid](https://www.20minutos.es/madrid/los-incendios-una-masa-aire-africano-deterioran-calidad-aire-oeste-sierra-norte-madrid_7018775_0.html?utm_source=lootura.com) — 2026-07-24T16:34:14.000Z
+- [El delegado del Gobierno en Castilla y León adelanta que los incendios de Madrid y Ávila están a punto de unirse: "Queda muy poquito"](https://www.20minutos.es/castilla-y-leon/avila/delegado-gobierno-castilla-leon-adelanta-que-los-incendios-madrid-avila-estan-punto-unirse-queda-muy-poquito_7018751_0.html?utm_source=lootura.com) — 2026-07-24T15:26:08.000Z
+- [El nivel 3 de Emergencia por incendios se activa por primera vez: ¿qué implica?](https://www.abc.es/sociedad/implica-activacion-nivel-emergencia-espana-20260724150056-nt.html?utm_source=lootura.com) — 2026-07-24T16:52:07.000Z
+- [Incendios en España hoy, en directo: última hora de los fuegos en Madrid, Castilla y León y Castilla-La Mancha y de los pueblos evacuados](https://www.abc.es/sociedad/incendios-espana-hoy-directo-fuegos-activos-madrid-20260723185959-di_amp.html?utm_source=lootura.com) — 2026-07-24T17:12:30.000Z
+- [Un detenido por provocar el incendio de Ávila](https://www.abc.es/espana/castilla-leon/detenido-provocar-incendio-burgohondo-arrasado-9000-hectareas-20260724165951-nt.html?utm_source=lootura.com) — 2026-07-24T17:01:25.000Z
 - [Puente responde a las críticas de Ayuso: "Si hay una mamarracha en España, esa eres tú"](https://www.elconfidencial.com/espana/2026-07-24/ayuso-puente-incendios-madrid-1tps_4395604/?utm_source=lootura.com) — 2026-07-24T12:52:00.000Z
 - [A cuántos campos de fútbol equivale el incendio de Madrid: las dimensiones del incendio](https://www.elconfidencial.com/espana/madrid/2026-07-24/hectareas-incendio-madrid-campos-futbol-1tna-1qrt_4395484/?utm_source=lootura.com) — 2026-07-24T13:30:00.000Z
-- [España afronta una jornada crítica por los incendios forestales con varios frentes activos](https://www.elcorreo.com/sociedad/espana-afronta-jornada-critica-incendios-forestales-varios-20260723212619-ntrc_amp.html?utm_source=lootura.com) — 2026-07-23T19:26:20.000Z
-- [34 edición de la Euskal Encounter: «Aquí hay tiendas de campaña más grandes que pisos de Madrid»](https://www.elcorreo.com/bizkaia/pistoletazo-salida-edicion-euskal-encounter-tiendas-campana-20260724105759-nt_amp.html?utm_source=lootura.com) — 2026-07-24T09:51:43.000Z
+- [Puente a Ayuso por los incendios en Madrid: "Si hay una mamarracha en España, esa eres tú"](https://www.elconfidencial.com/espana/2026-07-24/puente-ayuso-incendios-madrid-mamarracha-1qrt_4395672/?utm_source=lootura.com) — 2026-07-24T14:40:00.000Z

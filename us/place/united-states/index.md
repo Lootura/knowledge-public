@@ -3,7 +3,7 @@
 > Follow United States, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-24T13:39:26.682Z
+- Updated: 2026-07-24T17:28:08.619Z
 - Canonical: https://atlas.lootura.com/us/place/united-states
 
 ## Recent changes
@@ -14,24 +14,6 @@ We celebrate the United States ahead of its 250th anniversary with stories about
 
 Date: 2026-07-27
 
-### Rapid pace of interceptor and precision-guided weapons use worries Trump admin.
-
-The U.S. defense industrial base isn't equipped to produce missiles rapidly enough to replenish munitions used in the war with Iran, or transferred for use to Central Command.
-
-Date: 2026-07-24
-
-### U.S. attorney who served for less than an hour suing Trump administration over firing
-
-A U.S. attorney who served for less than an hour is suing the Trump administration over his firing. Roger Rogoff is asking a federal court to reinstate him as U.S. Attorney for the Western District of Washington. CBS News legal contributor Jessica Levinson breaks down the legal questions in this case.
-
-Date: 2026-07-24
-
-### Trump fires U.S. attorney in Washington on heels of court appointment
-
-Judges on the U.S. District Court for the Western District of Washington had appointed Roger Rogoff as U.S. attorney in Seattle. But he was fired shortly after.
-
-Date: 2026-07-24
-
 ### How does Make America Healthy Again hold up against scientific scrutiny?
 
 Nature, Published online: 23 July 2026; doi:10.1038/d41586-026-02024-3 Researchers share their views on the US health policy spanning topics from vaccines to nutrition.
@@ -41,12 +23,6 @@ Date: 2026-07-24
 ### A Fallen Soldier’s Angst, Love and Longing to Return Home From the Iran War
 
 Sgt. Michael Emmanuel Swinton was killed in recent days, one of 18 U.S. soldiers who have lost their lives since the beginning of the war in Iran.
-
-Date: 2026-07-24
-
-### Number of U.S. Troop Deaths in Iran War Appears Lower on Pentagon Website
-
-Three military officials and a Pentagon spokesman gave conflicting explanations for why the number of Americans killed in the Iran war had changed.
 
 Date: 2026-07-24
 
@@ -68,15 +44,39 @@ U.S.-Iran strikes escalate, affecting global energy markets, Trump imposes doubl
 
 Date: 2026-07-24
 
+### Brent Crude Oil Prices Top $100 as Conflict With Iran Drags On
+
+Stocks in Asia were down following a sell-off in the U.S. markets over soaring oil prices, rising borrowing costs and worries about the technology industry.
+
+Date: 2026-07-24
+
+### Iran War and Trump’s Tariffs Threaten a Resilient U.S. Economy
+
+As renewed fighting with Iran sends oil and gas prices soaring, President Trump has imposed new global tariffs that could push up prices further.
+
+Date: 2026-07-24
+
+### Concerns over U.S. weapons getting depleted as U.S. and Iran continue to trade strikes
+
+As the U.S. builds up forces in the Middle East amid the ongoing war with Iran, there's concern among some officials that U.S. weapons may be getting depleted. It comes as President Trump has threatened new escalations and as the U.S. and Iran continue to trade strikes. Charlie D'Agata reports.
+
+Date: 2026-07-24
+
+### Trump imposes new tariffs on dozens of countries, including U.S. allies
+
+President Trump is imposing new tariffs on dozens of countries accused of failing to crack down on forced labor. The tariffs range from 10% to 12.5% and include U.S. allies. Nancy Cordes reports.
+
+Date: 2026-07-24
+
 ## Sources
 
+- [How Trump's threat of a "massive attack" on Iran could unfold](https://www.cbsnews.com/video/how-trumps-threat-massive-attack-on-iran-could-unfold/?utm_source=lootura.com) — 2026-07-24T17:01:00.000Z
 - [Trump imposes new tariffs on dozens of countries, citing forced labor concerns](https://www.cbsnews.com/news/trump-tariffs-dozens-countries-forced-labor/?utm_source=lootura.com) — 2026-07-24T05:02:49.000Z
-- [Rapid pace of interceptor and precision-guided weapons use worries Trump admin.](https://www.cbsnews.com/news/interceptor-precision-guided-weapons-use-trump-administration/?utm_source=lootura.com) — 2026-07-24T00:47:24.000Z
 - [The Uplift: The American Dream](https://www.cbsnews.com/video/the-uplift-the-american-dream/?utm_source=lootura.com) — 2026-07-27T10:30:00.000Z
-- [U.S. attorney who served for less than an hour suing Trump administration over firing](https://www.cbsnews.com/video/us-attorney-who-served-less-than-hour-suing-trump-administration-over-firing/?utm_source=lootura.com) — 2026-07-24T00:26:55.000Z
 - [Tree of Life rabbi Jeffrey Myers bids farewell 8 years after deadliest antisemitic attack in U.S. history](https://www.cbsnews.com/pittsburgh/news/eight-years-after-deadliest-antisemitic-attack-in-us-history-tree-of-life-rabbi-bids-farewell/?utm_source=lootura.com) — 2026-07-24T09:05:00.000Z
 - [Concerns over U.S. weapons getting depleted as U.S. and Iran continue to trade strikes](https://www.cbsnews.com/video/concerns-over-us-weapons-getting-depleted-as-us-and-iran-continue-to-trade-strikes/?utm_source=lootura.com) — 2026-07-24T13:17:11.000Z
 - [Trump imposes new tariffs on dozens of countries, including U.S. allies](https://www.cbsnews.com/video/trump-imposes-new-tariffs-on-dozens-of-countries-including-us-allies/?utm_source=lootura.com) — 2026-07-24T13:22:15.000Z
-- [Trump fires U.S. attorney in Washington on heels of court appointment](https://www.cbsnews.com/news/trump-fires-roger-rogoff-u-s-attorney-seattle-washington/?utm_source=lootura.com) — 2026-07-24T00:35:47.000Z
-- [How does Make America Healthy Again hold up against scientific scrutiny?](https://www.nature.com/articles/d41586-026-02024-3?utm_source=lootura.com) — 2026-07-24T13:39:30.490Z
+- [How does Make America Healthy Again hold up against scientific scrutiny?](https://www.nature.com/articles/d41586-026-02024-3?utm_source=lootura.com) — 2026-07-24T17:28:12.627Z
 - [Morning news brief](https://www.npr.org/2026/07/24/nx-s1-5895986/morning-news-brief?utm_source=lootura.com) — 2026-07-24T08:45:17.000Z
+- [A defiant Trump imposes replacement tariffs on biggest U.S. trading partners](https://www.npr.org/2026/07/24/nx-s1-5905783/trump-tariff-trade-global-canada?utm_source=lootura.com) — 2026-07-24T09:00:00.000Z
+- [New U.S. tariffs linked to claims of foreign forced labor dismay and anger trading partners](https://www.pbs.org/newshour/world/new-u-s-tariffs-linked-to-claims-of-foreign-forced-labor-dismay-and-anger-trading-partners?utm_source=lootura.com) — 2026-07-24T16:57:09.000Z

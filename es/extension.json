@@ -1,55 +1,42 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-24T15:20:23.291Z",
+  "generatedAt": "2026-07-24T17:37:18.851Z",
   "radar": {
     "id": "es",
     "slug": "es",
     "locale": "es"
   },
   "state": {
-    "signature": "1.18.0|28|1784900343048",
+    "signature": "1.18.0|29|1784914066992",
     "version": "1.18.0",
-    "build": 28,
-    "latestEntityUpdatedAt": "2026-07-24T13:39:03.048Z"
+    "build": 29,
+    "latestEntityUpdatedAt": "2026-07-24T17:27:46.992Z"
   },
   "atlas": {
     "hero": {
-      "id": "es-isabel-diaz-ayuso",
-      "name": "Isabel Díaz Ayuso",
-      "type": "person",
-      "title": "Puente ataca de nuevo a Ayuso: «Si hay una mamarracha en España, esa eres tú»",
-      "url": "https://atlas.lootura.com/es/person/isabel-diaz-ayuso",
-      "path": "/es/person/isabel-diaz-ayuso",
-      "updatedAt": "2026-07-24T13:39:03.048Z",
-      "score": 1699,
-      "sourceCount": 10,
+      "id": "es-espana",
+      "name": "España",
+      "type": "place",
+      "title": "El mapa de los incendios activos en España en 2026: cómo avanzan y qué zonas se han quemado más",
+      "url": "https://atlas.lootura.com/es/place/espana",
+      "path": "/es/place/espana",
+      "updatedAt": "2026-07-24T17:27:46.992Z",
+      "score": 1761,
+      "sourceCount": 572,
       "isBreaking": false,
       "isPinned": false
     },
     "cards": [
       {
-        "id": "es-proteccion-civil",
-        "name": "Protección civil",
-        "type": "concept",
-        "title": "Sánchez pide ayuda a la UE para luchar contra el fuego: Grecia e Italia mandan efectivos",
-        "url": "https://atlas.lootura.com/es/concept/proteccion-civil",
-        "path": "/es/concept/proteccion-civil",
-        "updatedAt": "2026-07-24T13:39:03.048Z",
-        "score": 1698,
+        "id": "es-isabel-diaz-ayuso",
+        "name": "Isabel Díaz Ayuso",
+        "type": "person",
+        "title": "Puente a Ayuso por los incendios en Madrid: \"Si hay una mamarracha en España, esa eres tú\"",
+        "url": "https://atlas.lootura.com/es/person/isabel-diaz-ayuso",
+        "path": "/es/person/isabel-diaz-ayuso",
+        "updatedAt": "2026-07-24T17:27:46.992Z",
+        "score": 1687,
         "sourceCount": 11,
-        "isBreaking": false,
-        "isPinned": false
-      },
-      {
-        "id": "es-espana",
-        "name": "España",
-        "type": "place",
-        "title": "España se ampara en buscar \"una posición común con la UE\" para guardar silencio sobre Nicaragua",
-        "url": "https://atlas.lootura.com/es/place/espana",
-        "path": "/es/place/espana",
-        "updatedAt": "2026-07-24T13:39:03.048Z",
-        "score": 1677,
-        "sourceCount": 561,
         "isBreaking": false,
         "isPinned": false
       },
@@ -60,26 +47,39 @@
         "title": "34 edición de la Euskal Encounter: «Aquí hay tiendas de campaña más grandes que pisos de Madrid»",
         "url": "https://atlas.lootura.com/es/place/madrid",
         "path": "/es/place/madrid",
-        "updatedAt": "2026-07-24T13:39:03.048Z",
-        "score": 1677,
-        "sourceCount": 372,
+        "updatedAt": "2026-07-24T17:27:46.992Z",
+        "score": 1683,
+        "sourceCount": 389,
         "isBreaking": false,
         "isPinned": false
       },
       {
-        "id": "es-pedro-sanchez",
-        "name": "Pedro Sánchez",
-        "type": "person",
-        "title": "Sánchez pide ayuda a la UE para luchar contra el fuego: Grecia e Italia mandan efectivos",
-        "url": "https://atlas.lootura.com/es/person/pedro-sanchez",
-        "path": "/es/person/pedro-sanchez",
-        "updatedAt": "2026-07-24T13:39:03.048Z",
-        "score": 1672,
-        "sourceCount": 237,
+        "id": "es-la-mancha",
+        "name": "La Mancha",
+        "type": "place",
+        "title": "Incendios en España hoy, en directo: última hora de los fuegos en Madrid, Castilla y León y Castilla-La Mancha y de los pueblos evacuados",
+        "url": "https://atlas.lootura.com/es/place/la-mancha",
+        "path": "/es/place/la-mancha",
+        "updatedAt": "2026-07-24T17:27:46.992Z",
+        "score": 1673,
+        "sourceCount": 23,
+        "isBreaking": false,
+        "isPinned": false
+      },
+      {
+        "id": "es-proteccion-civil",
+        "name": "Protección civil",
+        "type": "concept",
+        "title": "La directora de Protección Civil: \"Tuvimos dos meses de borrascas, ahora incendios... La realidad es tozuda, hay que creer en la ciencia\"",
+        "url": "https://atlas.lootura.com/es/concept/proteccion-civil",
+        "path": "/es/concept/proteccion-civil",
+        "updatedAt": "2026-07-24T17:27:46.992Z",
+        "score": 1673,
+        "sourceCount": 12,
         "isBreaking": false,
         "isPinned": false
       }
     ],
-    "publicEntityCount": 115
+    "publicEntityCount": 112
   }
 }

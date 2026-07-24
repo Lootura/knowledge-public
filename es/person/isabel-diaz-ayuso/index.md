@@ -3,7 +3,7 @@
 > Sigue la actividad de Isabel Díaz Ayuso en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-24T13:39:03.048Z
+- Actualizado: 2026-07-24T17:27:46.992Z
 - Canonical: https://atlas.lootura.com/es/person/isabel-diaz-ayuso
 
 ## Cambios recientes
@@ -20,21 +20,9 @@ El ministro de Transportes, Óscar Puente , ha llamado "mamarracha" a la preside
 
 Date: 2026-07-24
 
-### Ayuso define como "inédito" el incendio que ya obliga a evacuar a 19.000 personas en Madrid: "Es una tormenta perfecta. Está siendo catastrófico"
-
-"La situación es inédita. Es una tormenta perfecta. Está siendo catastrófico". Con estas palabras ha definido Isabel Díaz Ayuso el estado en el que se encuentra el...
-
-Date: 2026-07-24
-
 ### Ayuso y Puente se llaman mutuamente “mamarrachos” por la crisis de los incendios
 
 La crisis de los graves incendios que afectan a la Comunidad de Madrid y la provincia de Ávila ha motivado la declaración de emergencia nacional por parte del Gobierno central y a petición de la presidenta madrileña, Isabel Díaz Ayuso. El presidente, Pedro Sánchez, ha presidido ya esta mañana en La Moncloa la reunión d.
-
-Date: 2026-07-24
-
-### Choque entre Puente y Ayuso: “Si hay una mamarracha en España, esa eres tú”
-
-Choque entre el ministro de Transportes y Movilidad Sostenible, Óscar Puente, y la presidenta de la Comunidad de Madrid, Isabel Díaz Ayuso, en plena emergencia nacional por los incendios que asolan Madrid y Ávila . Puente por la mañana ha acusado a las comunidades autónomas gobernadas por el PP de reducir impuestos y r.
 
 Date: 2026-07-24
 
@@ -50,6 +38,24 @@ La presidenta de la Comunidad de Madrid , Isabel Díaz Ayuso , ha advertido de q
 
 Date: 2026-07-24
 
+### Puente a Ayuso por los incendios en Madrid: "Si hay una mamarracha en España, esa eres tú"
+
+Óscar Puente e Isabel Díaz Ayuso han protagonizado un duro enfrentamiento político por los incendios de Madrid, después de que el ministro de Transportes acusara a los gobiernos autonómicos del PP de recortar servicios públicos y reclamar después la intervención del Gobierno. La disputa ha estallado mientras miles de p.
+
+Date: 2026-07-24
+
+### Ayuso define como "inédito" el incendio que ya obliga a evacuar a 19.000 personas en Madrid: "Es una tormenta perfecta. Está siendo catastrófico"
+
+"La situación es inédita. Es una tormenta perfecta. Está siendo catastrófico". Con estas palabras ha definido Isabel Díaz Ayuso el estado en el que se encuentra el...
+
+Date: 2026-07-24
+
+### Choque entre Puente y Ayuso: “Si hay una mamarracha en España, esa eres tú”
+
+Choque entre el ministro de Transportes y Movilidad Sostenible, Óscar Puente, y la presidenta de la Comunidad de Madrid, Isabel Díaz Ayuso, en plena emergencia nacional por los incendios que asolan Madrid y Ávila . Puente por la mañana ha acusado a las comunidades autónomas gobernadas por el PP de reducir impuestos y r.
+
+Date: 2026-07-24
+
 ### El Gobierno declara la emergencia nacional en la Comunidad de Madrid y en Ávila por cuatro incendios
 
 El Gobierno de España ha recogido en cuestión de un par de horas el guante lanzado por Madrid. Sobre las diez de la noche y en una decisión con un solo precedente, la presidenta madrileña, Isabel Díaz Ayuso, ha pedido vía tuit la declaración de la situación operativa tres del Plan de Protección Civil contra incendios f.
@@ -62,18 +68,11 @@ La presidenta de la Comunidad de Madrid, Isabel Díaz Ayuso, ha solicitado la me
 
 Date: 2026-07-24
 
-### Discovered by Atlas
-
-Isabel Díaz Ayuso first entered the public knowledge record with source-backed evidence.
-
-Date: 2026-07-23
-
 ## Fuentes
 
 - [Puente responde a las críticas de Ayuso: "Si hay una mamarracha en España, esa eres tú"](https://www.elconfidencial.com/espana/2026-07-24/ayuso-puente-incendios-madrid-1tps_4395604/?utm_source=lootura.com) — 2026-07-24T12:52:00.000Z
-- [Ayuso define como "inédito" el incendio que ya obliga a evacuar a 19.000 personas en Madrid: "Es una tormenta perfecta. Está siendo catastrófico"](https://amp.elmundo.es/espana/2026/07/24/6a632fdce85ece8e1b8b456f.html?utm_source=lootura.com) — 2026-07-24T09:48:46.000Z
+- [Puente a Ayuso por los incendios en Madrid: "Si hay una mamarracha en España, esa eres tú"](https://www.elconfidencial.com/espana/2026-07-24/puente-ayuso-incendios-madrid-mamarracha-1qrt_4395672/?utm_source=lootura.com) — 2026-07-24T14:40:00.000Z
 - [Precedentes y polémicas de la declaración de emergencia nacional: del bulo del “si quieren ayuda, que la pidan” al apagón](https://elpais.com/espana/2026-07-24/precedentes-y-polemicas-de-la-declaracion-de-emergencia-nacional-del-bulo-del-si-quieren-ayuda-que-la-pidan-al-apagon.html?utm_source=lootura.com) — 2026-07-24T09:40:11.000Z
 - [Ayuso y Puente se llaman mutuamente “mamarrachos” por la crisis de los incendios](https://elpais.com/espana/2026-07-24/sanchez-y-marlaska-inciden-en-la-solidaridad-y-puente-acusa-al-pp-de-querer-que-les-resuelvan-la-papeleta-de-los-incendios.html?utm_source=lootura.com) — 2026-07-24T11:41:40.000Z
-- [Choque entre Puente y Ayuso: “Si hay una mamarracha en España, esa eres tú”](https://www.lavanguardia.com/politica/20260724/11600279/puente-acusa-pp-recortar-servicios-pedir-les-resuelvan-papeleta.html?utm_source=lootura.com) — 2026-07-24T11:10:37.000Z
 - [Puente ataca de nuevo a Ayuso: «Si hay una mamarracha en España, esa eres tú»](https://theobjective.com/espana/politica/2026-07-24/puente-ayuso-llama-mamarracha/?utm_source=lootura.com) — 2026-07-24T13:20:24.000Z
 - [Ayuso pide centrarse en el incendio: «El primer mamarracho que caliente el ambiente, allá él»](https://theobjective.com/espana/politica/2026-07-24/ayuso-incendio-mamarracho-caliente-ambiente/?utm_source=lootura.com) — 2026-07-24T12:02:08.000Z

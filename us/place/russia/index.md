@@ -3,10 +3,22 @@
 > Follow Russia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-23T13:51:24.628Z
+- Updated: 2026-07-24T17:28:08.619Z
 - Canonical: https://atlas.lootura.com/us/place/russia
 
 ## Recent changes
+
+### Ukraine hits Russia's largest online marketplace, hurting small businesses and bringing the war home
+
+The Ukrainian attacks on the sprawling Russian warehouses produced stark images, with massive pillars of black smoke rising above fires that raged at facilities of Wildberries, the country's biggest online retailer and its equivalent of Amazon.
+
+Date: 2026-07-24
+
+### Russia and Ukraine Trade Deadly Blows With Missiles and Drones
+
+Ukrainian strikes set fire to warehouses and other sites in Russia, and Russian bombing rocked Ukraine’s capital, as the two countries escalated an air campaign.
+
+Date: 2026-07-24
 
 ### A New Target for Ukraine’s Long-Range Attacks: Russia’s Version of Amazon
 
@@ -56,18 +68,7 @@ On Saturday, Ukraine hit two warehouses in Russia in strikes that killed at leas
 
 Date: 2026-07-19
 
-### Ukrainian drone attacks on Russia kill at least 9, injure over 60
-
-Kyiv's forces are continuing their relentless aerial campaign​ against energy infrastructure and military targets inside Russia.
-
-Date: 2026-07-18
-
-### Ukrainian drones hit warehouses and other sites across Russia, killing 9 and wounding over 60
-
-Kyiv's forces have pressed their relentless aerial campaign against energy infrastructure and military targets inside Russia, aiming to undermine Moscow's war effort and make Russians feel the consequences of the Kremlin's all-out invasion of Ukraine that is well into its fifth year.
-
-Date: 2026-07-18
-
 ## Sources
 
-No public source links.
+- [Ukraine hits Russia's largest online marketplace, hurting small businesses and bringing the war home](https://www.pbs.org/newshour/world/ukraine-hits-russias-largest-online-marketplace-hurting-small-businesses-and-bringing-the-war-home?utm_source=lootura.com) — 2026-07-24T15:33:58.000Z
+- [Russia and Ukraine Trade Deadly Blows With Missiles and Drones](https://www.nytimes.com/2026/07/24/world/europe/russia-ukraine-war-attacks.html?utm_source=lootura.com) — 2026-07-24T13:41:46.000Z

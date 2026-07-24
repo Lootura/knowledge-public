@@ -3,7 +3,7 @@
 > Sigue la actividad de Guardia Civil en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-24T13:39:03.048Z
+- Actualizado: 2026-07-24T17:27:46.992Z
 - Canonical: https://atlas.lootura.com/es/organization/guardia-civil
 
 ## Cambios recientes
@@ -16,7 +16,19 @@ Date: 2026-07-24
 
 ### Las acusaciones populares piden que la directora de la Guardia Civil y el DAO investigados no puedan mandar sobre la UCO
 
-Solicitan una batería de cautelares al juez del caso Leire, entre ellas, que no puedan abrir expedientes disciplinarios.
+Las acusaciones populares del caso Leire Díez o las cloacas del PSOE, representadas por el Partido Popular, han pedido al juez Santiago Pedraz, como medida cautelar, que obligue a la directora de la Guardia Civil, Mercedes González y al Director Adjunto Operativo (DAO) de dicho Cuerpo, Manuel Llamas, ambos investigados.
+
+Date: 2026-07-24
+
+### Detienen al hombre atrincherado en su casa en Villarrobledo (Albacete) con una escopeta
+
+Efectivos del cuerpo de élite de la Guardia Civil que se han desplazado hasta Villarrobledo (Albacete) han detenido, alrededor de las 17:30 horas de este viernes, al hombre que se había atrincherado en su vivienda con una escopeta . Fuentes de la Delegación del Gobierno central en Castilla-La Mancha han indicado a EFE.
+
+Date: 2026-07-24
+
+### Las dos columnas de humo, vistas desde el Centro de Mando: “Pedimos a los ciudadanos que colaboren”
+
+Un equipo de vídeo de EL PAÍS entrevista a la portavoz de la Guardia Civil en Cenicientos, que insta a los habitantes a no volver a sus casas hasta nuevo aviso.
 
 Date: 2026-07-24
 
@@ -56,18 +68,9 @@ La ministra de Defensa, Margarita Robles , ha reivindicado este lunes el papel d
 
 Date: 2026-07-20
 
-### Mandos de la Guardia Civil denuncian «alteración» en los ascensos para sancionar a generales y coroneles díscolos
-
-Todo empezó en agosto de 2018. Apenas dos meses después de la llegada de Pedro Sánchez a Moncloa, el ministro del Interior, Fernando Grande-Marlaska emite la primera orden política contra la Unidad Central Operativa (UCO) de la Guardia Civil : dejar sin fondos reservados a la policía judicial para investigar la corrupc.
-
-Date: 2026-07-20
-
-### Dócil Apocado Operativo (DAO)
-
-La Cartilla de la Guardia Civil , redactada por el duque de Ahumada, nació el 20 de diciembre de 1845 y sigue siendo el referente del cuerpo en el siglo XXI. Arranca con su reconocido artículo 1.º: «El honor ha de ser la principal divisa del Guardia Civil; debe por consiguiente conservarlo sin mancha. Una vez perdido n.
-
-Date: 2026-07-20
-
 ## Fuentes
 
+- [Las acusaciones populares piden que la directora de la Guardia Civil y el DAO investigados no puedan mandar sobre la UCO](https://www.abc.es/espana/acusaciones-populares-piden-directora-guardia-civil-dao-20260724104145-nt.html?utm_source=lootura.com) — 2026-07-24T17:06:07.000Z
+- [Detienen al hombre atrincherado en su casa en Villarrobledo (Albacete) con una escopeta](https://www.elconfidencial.com/espana/2026-07-24/hombre-atrincherado-vivienda-escopeta-villarrobledo_4395642/?utm_source=lootura.com) — 2026-07-24T13:51:00.000Z
 - [El PP pide al juez del 'caso Leire' que prohíba a la cúpula de la Guardia Civil dirigir la UCO mientras dure la causa](https://www.elmundo.es/espana/2026/07/24/6a632582e9cf4a69018b4588.html?utm_source=lootura.com) — 2026-07-24T08:53:02.000Z
+- [Las dos columnas de humo, vistas desde el Centro de Mando: “Pedimos a los ciudadanos que colaboren”](https://elpais.com/videos/2026-07-24/las-dos-columnas-de-humo-vistas-desde-el-centro-de-mando-pedimos-a-los-ciudadanos-que-colaboren-con-nostros.html?utm_source=lootura.com) — 2026-07-24T16:42:02.000Z

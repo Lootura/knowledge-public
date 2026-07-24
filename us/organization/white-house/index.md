@@ -3,7 +3,7 @@
 > Follow White House, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-07-24T13:39:26.682Z
+- Updated: 2026-07-24T17:28:08.619Z
 - Canonical: https://atlas.lootura.com/us/organization/white-house
 
 ## Recent changes
@@ -20,9 +20,27 @@ Secret Service officials warned nationwide threats have reached an unprecedented
 
 Date: 2026-07-24
 
-### White House Correspondents’ Dinner Returns Under High Security
+### Inside the heightened security for the rescheduled White House Correspondents' Dinner
 
-President Donald Trump is gearing up to attend the rescheduled White House Correspondents Dinner Friday night, after the initial event back in April was targeted by a gunman. The Secret Service says it’s confident in the security plan for the dinner while also acknowledging an alarming rise in threats. NBC’s Garrett Ha.
+The Secret Service says there has been a significant rise in threats ahead of the rescheduled White House Correspondents' Dinner. CBS News' Nicole Sganga has more details.
+
+Date: 2026-07-24
+
+### Trump expected to attend White House Correspondents' Dinner redo after April attack
+
+President Trump is expected to attend the redo of the White House Correspondents' Dinner on Friday night after an armed assailant upended April's dinner.
+
+Date: 2026-07-24
+
+### Trump to deliver ‘unifying yet vicious’ remarks at Correspondents’ dinner, White House says
+
+The White House Correspondents’ Association Dinner with President Donald Trump that was disrupted earlier this year when a gunman charged past Secret Service agents toward the event is scheduled to be re-held in a different, smaller and more secure venue Friday night.
+
+Date: 2026-07-24
+
+### The tech-broification of American science has officially begun
+
+Trump’s science adviser Michael Kratsios has no science background. | Image: Getty / The Verge The Trump administration unveiled the first "Genesis Mission" grants on Thursday, directing $5 billion toward hundreds of AI-driven science projects in an effort the White House has described as "comparable in urgency and amb.
 
 Date: 2026-07-24
 
@@ -50,26 +68,11 @@ The Secret Service is warning about a rise in threats ahead of the rescheduled W
 
 Date: 2026-07-23
 
-### White House says Saudi Arabia nuclear deal contingent on joining Abraham Accords
-
-During a press briefing, White House press secretary Karoline Leavitt echoed a social media post from President Trump that said any nuclear deal with Saudi Arabia would be contingent on them joining the Abraham Accords. NBC News' Monica Alba reports from the White House on the potential deal and the White House's appro.
-
-Date: 2026-07-23
-
-### U.S. Reaches Landmark Nuclear Deal With Saudi Arabia
-
-U.S. President Donald Trump and Crown Prince Mohammed bin Salman of Saudi Arabia during a bilateral meeting in the Oval Office of the White House on Nov. 18, 2025. —Demetrius Freeman—The Washington Post/Getty Images Washington has reached a watershed civilian nuclear cooperation agreement with Saudi Arabia, the U.S. En.
-
-Date: 2026-07-23
-
-### Trump escalates threats, vows to target Iranian bridges and power plants
-
-Iranian news agencies are reporting widespread aerial attacks across southern Iran. It comes as President Trump issued more threats against Iran and the Islamic Republic's foreign minister responded that any future attacks would be met with "an eye for an eye." White House correspondent Liz Landers reports.
-
-Date: 2026-07-22
-
 ## Sources
 
+- [Inside the heightened security for the rescheduled White House Correspondents' Dinner](https://www.cbsnews.com/video/inside-heightened-security-rescheduled-white-house-correspondents-dinner/?utm_source=lootura.com) — 2026-07-24T17:07:00.000Z
 - [Secret Service warns of high threat levels before White House Correspondents' Dinner](https://www.cbsnews.com/news/secret-service-threat-levels-rescheduled-white-house-correspondents-dinner/?utm_source=lootura.com) — 2026-07-24T13:00:14.000Z
-- [White House Correspondents’ Dinner Returns Under High Security](https://www.today.com/video/trump-to-attend-correspondents-dinner-under-high-security-267214917522?utm_source=lootura.com) — 2026-07-24T11:20:35.000Z
-- [The Artist Matthew Taylor Is Helping Trump Reshape Washington](https://www.nytimes.com/2026/07/24/arts/design/matthew-taylor-artist-filmmaker-trump-washington.html?utm_source=lootura.com) — 2026-07-24T09:00:16.000Z
+- [Trump expected to attend White House Correspondents' Dinner redo after April attack](https://www.cbsnews.com/news/trump-white-house-correspondents-dinner-redo/?utm_source=lootura.com) — 2026-07-24T16:57:25.000Z
+- [Trump to deliver ‘unifying yet vicious’ remarks at Correspondents’ dinner, White House says](https://www.nbcnews.com/politics/trump-administration/trump-white-house-correspondents-dinner-remarks-shooting-rcna589049?utm_source=lootura.com) — 2026-07-24T16:48:35.000Z
+- [The Artist Matthew Taylor Is Helping Trump Reshape Washington](https://www.nytimes.com/2026/07/24/arts/design/matthew-taylor-artist-filmmaker-trump-washington.html?utm_source=lootura.com) — 2026-07-24T09:00:17.000Z
+- [The tech-broification of American science has officially begun](https://www.theverge.com/science/970534/genesis-mission-ai-science-funding-trump-grants?utm_source=lootura.com) — 2026-07-24T14:43:55.000Z

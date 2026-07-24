@@ -8,11 +8,26 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/canada/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/canada/index.json",
   "description": "Follow Canada, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-24T13:39:26.682Z",
+  "updatedAt": "2026-07-24T17:28:08.619Z",
   "aliases": [
     "Can"
   ],
   "changes": [
+    {
+      "title": "What’s to blame for Canada’s wildfires?",
+      "summary": "The inferno that sent toxic smoke billowing toward the United States won't be the last. Officials are now battling both the wildfires and misinformation.",
+      "date": "2026-07-24"
+    },
+    {
+      "title": "As Canada Opens Gordie Howe International Bridge, Americans Are Told to Stay Home",
+      "summary": "After a delay ordered by President Trump and new tariffs against Canada, the bridge between Windsor, Ontario, and Detroit opens in “underwhelming” fashion on Friday.",
+      "date": "2026-07-24"
+    },
+    {
+      "title": "China Has Come Through Trump’s Trade War in a Good Position",
+      "summary": "Despite threats from President Trump, the overall average weighted tariff on Chinese goods remained about the same, and is now lower than countries like Brazil and Canada.",
+      "date": "2026-07-24"
+    },
     {
       "title": "As Canada Opens Gordie Howe International Bridge, Americans Are Told to Stay Home",
       "summary": "After a delay ordered by President Trump and new tariffs against Canada, the bridge between Windsor, Ontario, and Detroit opens in “underwhelming” fashion on Friday.",
@@ -47,30 +62,27 @@
       "title": "Trump imposes 50% tariffs on dairy, alcohol, and cars from Canada",
       "summary": "The Trump administration imposed 50% tariffs on three categories of imports from Canada, dairy, alcohol, and cars, citing discriminatory actions. NBC News' Monica Alba reports on how Trump is also considering additional tariffs due to the Canadian wildfires.",
       "date": "2026-07-20"
-    },
-    {
-      "title": "Canada faces one of its most intense fire seasons",
-      "summary": "With nearly 1,000 active fires and an area as large as Belgium already burned, Canadian Prime Minister Mark Carney says his country is facing one of the \"most intense\" wildfire seasons in its history.",
-      "date": "2026-07-20"
-    },
-    {
-      "title": "Researchers challenge evidence behind high-profile parental alienation study",
-      "summary": "Researchers from Manchester and Canada have shown that the claim by the authors of a study published earlier this year that most of its participants had experienced parental alienating behaviors during childhood is seriously misleading. Claims in the study that people affected by parental alienating behaviors showed gr.",
-      "date": "2026-07-20"
-    },
-    {
-      "title": "Nolan’s ‘The Odyssey’ Brings in $124.5 Million at the Box Office on Opening Weekend",
-      "summary": "Christopher Nolan’s nearly three-hour epic was No. 1 over the weekend, with about $124.5 million in ticket sales in the United States and Canada.",
-      "date": "2026-07-19"
     }
   ],
   "sources": [
     {
+      "title": "What’s to blame for Canada’s wildfires?",
+      "url": "https://www.sciencenews.org/article/what-blame-canada-wildfires-toxic-smoke?utm_source=lootura.com",
+      "publishedAt": "2026-07-24T17:00:00.000Z",
+      "sourceId": "lootura-us-science-news"
+    },
+    {
       "title": "As Canada Opens Gordie Howe International Bridge, Americans Are Told to Stay Home",
       "url": "https://www.nytimes.com/2026/07/24/world/canada/canada-gordie-howe-bridge-trump.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-24T09:05:17.000Z",
-      "sourceId": "lootura-us-the-new-york-times-world"
+      "publishedAt": "2026-07-24T14:54:57.000Z",
+      "sourceId": "lootura-us-the-new-york-times"
+    },
+    {
+      "title": "China Has Come Through Trump’s Trade War in a Good Position",
+      "url": "https://www.nytimes.com/2026/07/24/business/china-tariffs-trump.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-24T14:20:13.000Z",
+      "sourceId": "lootura-us-the-new-york-times"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 3
 }

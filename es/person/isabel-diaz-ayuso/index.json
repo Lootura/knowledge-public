@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/isabel-diaz-ayuso/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/isabel-diaz-ayuso/index.json",
   "description": "Sigue la actividad de Isabel Díaz Ayuso en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-24T13:39:03.048Z",
+  "updatedAt": "2026-07-24T17:27:46.992Z",
   "aliases": [
     "Ayuso",
     "Isabel",
@@ -26,18 +26,8 @@
       "date": "2026-07-24"
     },
     {
-      "title": "Ayuso define como \"inédito\" el incendio que ya obliga a evacuar a 19.000 personas en Madrid: \"Es una tormenta perfecta. Está siendo catastrófico\"",
-      "summary": "\"La situación es inédita. Es una tormenta perfecta. Está siendo catastrófico\". Con estas palabras ha definido Isabel Díaz Ayuso el estado en el que se encuentra el...",
-      "date": "2026-07-24"
-    },
-    {
       "title": "Ayuso y Puente se llaman mutuamente “mamarrachos” por la crisis de los incendios",
       "summary": "La crisis de los graves incendios que afectan a la Comunidad de Madrid y la provincia de Ávila ha motivado la declaración de emergencia nacional por parte del Gobierno central y a petición de la presidenta madrileña, Isabel Díaz Ayuso. El presidente, Pedro Sánchez, ha presidido ya esta mañana en La Moncloa la reunión d.",
-      "date": "2026-07-24"
-    },
-    {
-      "title": "Choque entre Puente y Ayuso: “Si hay una mamarracha en España, esa eres tú”",
-      "summary": "Choque entre el ministro de Transportes y Movilidad Sostenible, Óscar Puente, y la presidenta de la Comunidad de Madrid, Isabel Díaz Ayuso, en plena emergencia nacional por los incendios que asolan Madrid y Ávila . Puente por la mañana ha acusado a las comunidades autónomas gobernadas por el PP de reducir impuestos y r.",
       "date": "2026-07-24"
     },
     {
@@ -51,6 +41,21 @@
       "date": "2026-07-24"
     },
     {
+      "title": "Puente a Ayuso por los incendios en Madrid: \"Si hay una mamarracha en España, esa eres tú\"",
+      "summary": "Óscar Puente e Isabel Díaz Ayuso han protagonizado un duro enfrentamiento político por los incendios de Madrid, después de que el ministro de Transportes acusara a los gobiernos autonómicos del PP de recortar servicios públicos y reclamar después la intervención del Gobierno. La disputa ha estallado mientras miles de p.",
+      "date": "2026-07-24"
+    },
+    {
+      "title": "Ayuso define como \"inédito\" el incendio que ya obliga a evacuar a 19.000 personas en Madrid: \"Es una tormenta perfecta. Está siendo catastrófico\"",
+      "summary": "\"La situación es inédita. Es una tormenta perfecta. Está siendo catastrófico\". Con estas palabras ha definido Isabel Díaz Ayuso el estado en el que se encuentra el...",
+      "date": "2026-07-24"
+    },
+    {
+      "title": "Choque entre Puente y Ayuso: “Si hay una mamarracha en España, esa eres tú”",
+      "summary": "Choque entre el ministro de Transportes y Movilidad Sostenible, Óscar Puente, y la presidenta de la Comunidad de Madrid, Isabel Díaz Ayuso, en plena emergencia nacional por los incendios que asolan Madrid y Ávila . Puente por la mañana ha acusado a las comunidades autónomas gobernadas por el PP de reducir impuestos y r.",
+      "date": "2026-07-24"
+    },
+    {
       "title": "El Gobierno declara la emergencia nacional en la Comunidad de Madrid y en Ávila por cuatro incendios",
       "summary": "El Gobierno de España ha recogido en cuestión de un par de horas el guante lanzado por Madrid. Sobre las diez de la noche y en una decisión con un solo precedente, la presidenta madrileña, Isabel Díaz Ayuso, ha pedido vía tuit la declaración de la situación operativa tres del Plan de Protección Civil contra incendios f.",
       "date": "2026-07-24"
@@ -59,11 +64,6 @@
       "title": "Última hora de los incendios en Madrid, en directo | Más de 11.500 evacuados en la Comunidad de Madrid y Castilla y León",
       "summary": "La presidenta de la Comunidad de Madrid, Isabel Díaz Ayuso, ha solicitado la medida y el Ejecutivo central asume el mando de las tareas de extinción.",
       "date": "2026-07-24"
-    },
-    {
-      "title": "Discovered by Atlas",
-      "summary": "Isabel Díaz Ayuso first entered the public knowledge record with source-backed evidence.",
-      "date": "2026-07-23"
     }
   ],
   "sources": [
@@ -74,10 +74,10 @@
       "sourceId": "lootura-es-el-confidencial"
     },
     {
-      "title": "Ayuso define como \"inédito\" el incendio que ya obliga a evacuar a 19.000 personas en Madrid: \"Es una tormenta perfecta. Está siendo catastrófico\"",
-      "url": "https://amp.elmundo.es/espana/2026/07/24/6a632fdce85ece8e1b8b456f.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-24T09:48:46.000Z",
-      "sourceId": "lootura-es-el-mundo"
+      "title": "Puente a Ayuso por los incendios en Madrid: \"Si hay una mamarracha en España, esa eres tú\"",
+      "url": "https://www.elconfidencial.com/espana/2026-07-24/puente-ayuso-incendios-madrid-mamarracha-1qrt_4395672/?utm_source=lootura.com",
+      "publishedAt": "2026-07-24T14:40:00.000Z",
+      "sourceId": "lootura-es-el-confidencial"
     },
     {
       "title": "Precedentes y polémicas de la declaración de emergencia nacional: del bulo del “si quieren ayuda, que la pidan” al apagón",
@@ -92,12 +92,6 @@
       "sourceId": "lootura-es-el-pais"
     },
     {
-      "title": "Choque entre Puente y Ayuso: “Si hay una mamarracha en España, esa eres tú”",
-      "url": "https://www.lavanguardia.com/politica/20260724/11600279/puente-acusa-pp-recortar-servicios-pedir-les-resuelvan-papeleta.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-24T11:10:37.000Z",
-      "sourceId": "lootura-es-la-vanguardia"
-    },
-    {
       "title": "Puente ataca de nuevo a Ayuso: «Si hay una mamarracha en España, esa eres tú»",
       "url": "https://theobjective.com/espana/politica/2026-07-24/puente-ayuso-llama-mamarracha/?utm_source=lootura.com",
       "publishedAt": "2026-07-24T13:20:24.000Z",
@@ -110,5 +104,5 @@
       "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 7
+  "evidenceCount": 6
 }

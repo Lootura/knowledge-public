@@ -1,0 +1,70 @@
+{
+  "id": "usa-secret-service",
+  "name": "Secret Service",
+  "type": "person",
+  "locale": "en",
+  "canonicalPath": "/us/person/secret-service",
+  "canonicalUrl": "https://atlas.lootura.com/us/person/secret-service",
+  "markdownUrl": "https://atlas.lootura.com/us/person/secret-service/index.md",
+  "jsonUrl": "https://atlas.lootura.com/us/person/secret-service/index.json",
+  "description": "Follow Secret Service, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
+  "updatedAt": "2026-07-24T17:28:08.619Z",
+  "aliases": [],
+  "changes": [
+    {
+      "title": "Secret Service warns of high threat levels before White House Correspondents' Dinner",
+      "summary": "Secret Service officials warned nationwide threats have reached an unprecedented level since January, nearly 40% higher than during the same period last year.",
+      "date": "2026-07-24"
+    },
+    {
+      "title": "Trump to deliver ‘unifying yet vicious’ remarks at Correspondents’ dinner, White House says",
+      "summary": "The White House Correspondents’ Association Dinner with President Donald Trump that was disrupted earlier this year when a gunman charged past Secret Service agents toward the event is scheduled to be re-held in a different, smaller and more secure venue Friday night.",
+      "date": "2026-07-24"
+    },
+    {
+      "title": "Member of Vance's Secret Service detail under investigation for leaking",
+      "summary": "The Secret Service said a member of Vice President JD Vance's detail is under investigation for \"compromising operational and information security.\".",
+      "date": "2026-07-24"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Secret Service first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-07-23"
+    },
+    {
+      "title": "Secret Service agent from Vice President Vance detail removed",
+      "summary": "The agent is being investigated following a media report that described some agents as being “fed up” with last minute travel and changing schedules. NBC News’ Kelly O’Donnell reports.",
+      "date": "2026-07-23"
+    },
+    {
+      "title": "Secret Service warns of uptick in threats ahead of rescheduled White House Correspondents' Dinner",
+      "summary": "The Secret Service is warning about a rise in threats ahead of the rescheduled White House Correspondents' Dinner, which is set for Friday. CBS News' Nicole Sganga has the latest.",
+      "date": "2026-07-23"
+    },
+    {
+      "title": "'New York Times' alleges White House abuses legal system to intimidate reporters",
+      "summary": "The New York Times reported earlier this month that security concerns had led the Secret Service to urge Trump to fly home from Turkey on a different jet.'/> The New York Times will argue in court Thursday that the White House is abusing the justice system to intimidate reporters over a story that angered President Tru.",
+      "date": "2026-07-23"
+    },
+    {
+      "title": "Member of Vance’s Secret Service detail removed amid probe into alleged compromise of security info",
+      "summary": "A member of JD Vance’s protective detail has been removed pending an investigation into allegations of compromising the vice president’s security, a Secret Service spokesman said Thursday.",
+      "date": "2026-07-23"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Secret Service warns of high threat levels before White House Correspondents' Dinner",
+      "url": "https://www.cbsnews.com/news/secret-service-threat-levels-rescheduled-white-house-correspondents-dinner/?utm_source=lootura.com",
+      "publishedAt": "2026-07-24T13:00:14.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
+    {
+      "title": "Trump to deliver ‘unifying yet vicious’ remarks at Correspondents’ dinner, White House says",
+      "url": "https://www.nbcnews.com/politics/trump-administration/trump-white-house-correspondents-dinner-remarks-shooting-rcna589049?utm_source=lootura.com",
+      "publishedAt": "2026-07-24T16:48:35.000Z",
+      "sourceId": "lootura-us-nbc-news-politics"
+    }
+  ],
+  "evidenceCount": 2
+}

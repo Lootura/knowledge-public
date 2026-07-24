@@ -3,10 +3,16 @@
 > Sigue la actividad de Estados Unidos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-24T13:39:03.048Z
+- Actualizado: 2026-07-24T17:27:46.992Z
 - Canonical: https://atlas.lootura.com/es/place/united-states
 
 ## Cambios recientes
+
+### El mercado penaliza la compra de Mapfre en EEUU: sus acciones caen un 4,7%
+
+Mapfre salió ayer de compras por Estados Unidos y el mercado no ha recibido bien sus adquisiciones. La aseguradora española anunció la compra de la estadounidense Safety por 1.352 millones de euros. Las primeras reacciones de los inversores no han sido positivas: la acción cae cerca de un 5%. A todo ello se suman ademá.
+
+Date: 2026-07-24
 
 ### El mercado penaliza la compra de Mapfre en EEUU: sus acciones caen casi un 5%
 
@@ -62,12 +68,6 @@ Un 777X en producción en la factoría de Boeing de Everett – Boeing Desde hac
 
 Date: 2026-07-23
 
-### EEUU y Arabia Saudí firman un histórico pacto que allana a Riad lograr enriquecer uranio
-
-Estados Unidos ha anunciado este miércoles que ha alcanzado un importante acuerdo de cooperación nuclear pacífica con Arabia Saudí que podría allanar el.
-
-Date: 2026-07-23
-
 ## Fuentes
 
-- [El mercado penaliza la compra de Mapfre en EEUU: sus acciones caen casi un 5%](https://www.expansion.com/mercados/2026/07/24/6a633d7be5fdeaf81a8b457f.html?utm_source=lootura.com) — 2026-07-24T11:38:56.000Z
+- [El mercado penaliza la compra de Mapfre en EEUU: sus acciones caen un 4,7%](https://www.expansion.com/mercados/2026/07/24/6a633d7be5fdeaf81a8b457f.html?utm_source=lootura.com) — 2026-07-24T15:54:33.000Z

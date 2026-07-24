@@ -70,5 +70,4 @@ Date: 2026-07-23
 
 ## Fuentes
 
-- [Implicaciones políticas, éticas y penales de las joyas que Zapatero asegura haber recibido por “cortesía”](https://elpais.com/espana/2026-07-24/implicaciones-politicas-eticas-y-penales-de-las-joyas-que-zapatero-asegura-haber-recibido-por-cortesia.html?utm_source=lootura.com) — 2026-07-24T03:30:01.000Z
-- [El juez del ‘caso Koldo’ pide a Hacienda información fiscal de las empresas investigadas](https://theobjective.com/espana/tribunales/2026-07-24/juez-caso-koldo-hacienda-empresas-investigadas/?utm_source=lootura.com) — 2026-07-24T10:09:09.000Z
+No public source links.

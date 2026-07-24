@@ -3,10 +3,22 @@
 > Sigue la actividad de Pedro Sánchez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-24T13:39:03.048Z
+- Actualizado: 2026-07-24T17:27:46.992Z
 - Canonical: https://atlas.lootura.com/es/person/pedro-sanchez
 
 ## Cambios recientes
+
+### Ayuso y Puente se llaman mutuamente “mamarrachos” por la crisis de los incendios
+
+La crisis de los graves incendios que afectan a la Comunidad de Madrid y la provincia de Ávila ha motivado la declaración de emergencia nacional por parte del Gobierno central y a petición de la presidenta madrileña, Isabel Díaz Ayuso. El presidente, Pedro Sánchez, ha presidido ya esta mañana en La Moncloa la reunión d.
+
+Date: 2026-07-24
+
+### Podcast | Escándalo en la regularización: se ‘cuelan’ 400.000 inmigrantes
+
+Todo lo que rodea a la regularización masiva de inmigrantes impulsada por el Gobierno de Pedro Sánchez es escandaloso. Primero dijeron que solo iba a beneficiar a 500.000, que se encontraban en situación irregular en nuestro país, y finalmente fueron 1,2 millones de solicitudes. Pues bien, de estos, tal y como ha desve.
+
+Date: 2026-07-24
 
 ### Sánchez pide ayuda a la UE para luchar contra el fuego: Grecia e Italia mandan efectivos
 
@@ -17,12 +29,6 @@ Date: 2026-07-24
 ### Sánchez pide ayuda a Bruselas con los incendios y Grecia e Italia envían cuatro aviones de extinción
 
 La Comisión Europea ha explicado este viernes que recibió el jueves por la noche la petición por parte del Gobierno español de la activación del Mecanismo de Protección Civil de la Unión Europea, solicitando cuatro aviones. Fuentes del Gobierno confirmaban esta mañana que Grecia ya había ofrecido dos Canadair CL-415. E.
-
-Date: 2026-07-24
-
-### Ayuso y Puente se llaman mutuamente “mamarrachos” por la crisis de los incendios
-
-La crisis de los graves incendios que afectan a la Comunidad de Madrid y la provincia de Ávila ha motivado la declaración de emergencia nacional por parte del Gobierno central y a petición de la presidenta madrileña, Isabel Díaz Ayuso. El presidente, Pedro Sánchez, ha presidido ya esta mañana en La Moncloa la reunión d.
 
 Date: 2026-07-24
 
@@ -62,15 +68,7 @@ El Informe sobre el Estado de derecho en España, elaborado por la Comisión Eur
 
 Date: 2026-07-24
 
-### La cúpula del PSOE da por buenas las explicaciones de Zapatero: "Mantenemos nuestro apoyo"
-
-Desde que se conoció la investigación judicial a José Luis Rodríguez Zapatero, tanto Pedro Sánchez como desde Ferraz han mantenido contacto con el ex presidente del Gobierno....
-
-Date: 2026-07-23
-
 ## Fuentes
 
-- [Sánchez pide ayuda a la UE para luchar contra el fuego: Grecia e Italia mandan efectivos](https://www.abc.es/sociedad/sanchez-pide-ayuda-union-europea-luchar-incendios-20260724105908-nt.html?utm_source=lootura.com) — 2026-07-24T12:46:55.000Z
-- [Sánchez pide ayuda a Bruselas con los incendios y Grecia e Italia envían cuatro aviones de extinción](https://www.elconfidencial.com/espana/2026-07-24/incendios-espana-aviones-bruselas-1tps_4395535/?utm_source=lootura.com) — 2026-07-24T11:34:00.000Z
 - [Ayuso y Puente se llaman mutuamente “mamarrachos” por la crisis de los incendios](https://elpais.com/espana/2026-07-24/sanchez-y-marlaska-inciden-en-la-solidaridad-y-puente-acusa-al-pp-de-querer-que-les-resuelvan-la-papeleta-de-los-incendios.html?utm_source=lootura.com) — 2026-07-24T11:41:40.000Z
-- [Morant, implacable con el PP, victimiza a Zapatero pese a sus 8 mentiras en TVE: «Fue muy valiente»](https://okdiario.com/comunidad-valenciana/morant-implacable-pp-victimiza-zapatero-pese-sus-8-mentiras-tve-fue-muy-valiente-19061673?utm_source=lootura.com) — 2026-07-24T12:51:44.000Z
+- [Podcast | Escándalo en la regularización: se ‘cuelan’ 400.000 inmigrantes](https://theobjective.com/podcasts/objetivo-directo-podcast/podcast-objetivo-directo-escandalo-regularizacion-inmigrantes/?utm_source=lootura.com) — 2026-07-24T15:20:49.000Z

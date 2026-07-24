@@ -46,4 +46,4 @@ Date: 2026-07-18
 
 ## Fuentes
 
-- [La hora de Carlos Alcaraz: tres semanas clave que definirán su regreso (o no) a la competición](https://elpais.com/deportes/tenis/2026-07-24/la-hora-de-carlos-alcaraz-tres-semanas-clave-que-definiran-su-regreso-o-no-a-la-competicion.html?utm_source=lootura.com) — 2026-07-24T03:30:00.000Z
+No public source links.

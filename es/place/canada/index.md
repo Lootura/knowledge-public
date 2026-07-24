@@ -34,4 +34,4 @@ Date: 2026-07-18
 
 ## Fuentes
 
-- [Christopher Anderson, el último hombre que fotografió a Epstein: “Lo primero que recuerdo es a la joven que abrió la puerta”](https://elpais.com/icon/2026-07-24/christopher-anderson-el-ultimo-hombre-que-fotografio-a-epstein-lo-primero-que-recuerdo-es-a-la-joven-que-abrio-la-puerta.html?utm_source=lootura.com) — 2026-07-24T03:30:01.000Z
+No public source links.

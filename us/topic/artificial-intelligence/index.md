@@ -3,10 +3,28 @@
 > Follow Artificial intelligence, a tracked topic, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: topic
-- Updated: 2026-07-24T13:39:26.682Z
+- Updated: 2026-07-24T17:28:08.619Z
 - Canonical: https://atlas.lootura.com/us/topic/artificial-intelligence
 
 ## Recent changes
+
+### Briefing Chat: Baby T. rex were killers from birth, suggest new fossils
+
+Nature, Published online: 24 July 2026; doi:10.1038/d41586-026-02338-2 Nature staff discuss the young but deadly dinosaur kings, the prowess of ancient Egyptian princesses, and how London is becoming the world’s AI safety capital.
+
+Date: 2026-07-24
+
+### Struggling with a hard life choice? AI future selves have tips
+
+A chat with aged avatars of future selves can guide people paralyzed by tough decisions. The question is what information to feed the bots.
+
+Date: 2026-07-24
+
+### The tech-broification of American science has officially begun
+
+Trump’s science adviser Michael Kratsios has no science background. | Image: Getty / The Verge The Trump administration unveiled the first "Genesis Mission" grants on Thursday, directing $5 billion toward hundreds of AI-driven science projects in an effort the White House has described as "comparable in urgency and amb.
+
+Date: 2026-07-24
 
 ### Product availability changed in Europe
 
@@ -50,24 +68,8 @@ The robot actor is generating work for Hollywood creatives, not stealing jobs fr
 
 Date: 2026-07-23
 
-### New York Gov. Kathy Hochul explains why she signed the first statewide moratorium on data centers
-
-Speaking with NBC News’ “Here’s the Scoop,” Hochul said that she’s responding to the concerns of localities and that New York doesn’t need data centers to support the AI boom.
-
-Date: 2026-07-23
-
-### Machine learning narrows search for additional particles in the Higgs boson family
-
-What if the Higgs boson found in 2012 is not alone but is the only sibling we have encountered so far? Scientists at CERN discovered the particle that year, and it was a major discovery because it explained how other particles acquire mass. For a long time, scientists thought this was the final piece of the puzzle.
-
-Date: 2026-07-23
-
-### Patreon is laying off 20 percent of workers
-
-Patreon is laying off 20 percent of its workers, or around 93 employees, as reported earlier by 404 Media . In a memo to employees, Patreon CEO Jack Conte writes that the company isn't making these changes "because we believe AI replaces humans," but says AI has "fundamentally transformed the tech industry, including h.
-
-Date: 2026-07-23
-
 ## Sources
 
-- [Lawmakers propose AI "kill switch" bill after unprecedented cyber attack](https://www.cbsnews.com/video/lawmakers-propose-ai-kill-switch-bill-after-unprecedented-cyber-attack/?utm_source=lootura.com) — 2026-07-24T13:11:55.000Z
+- [Briefing Chat: Baby T. rex were killers from birth, suggest new fossils](https://www.nature.com/articles/d41586-026-02338-2?utm_source=lootura.com) — 2026-07-24T17:28:12.627Z
+- [Struggling with a hard life choice? AI future selves have tips](https://www.sciencenews.org/article/life-choice-ai-future-selves-decisions?utm_source=lootura.com) — 2026-07-24T15:00:00.000Z
+- [The tech-broification of American science has officially begun](https://www.theverge.com/science/970534/genesis-mission-ai-science-funding-trump-grants?utm_source=lootura.com) — 2026-07-24T14:43:55.000Z

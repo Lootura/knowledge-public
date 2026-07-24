@@ -3,10 +3,16 @@
 > Follow Democratic Party, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-07-24T13:39:26.682Z
+- Updated: 2026-07-24T17:28:08.619Z
 - Canonical: https://atlas.lootura.com/us/organization/democratic-party
 
 ## Recent changes
+
+### DNC committee sets up South Carolina to vote first in Democrats’ 2028 presidential primaries
+
+South Carolina is poised to hold the first Democratic presidential nominating contest in 2028, after the Democratic National Committee’s powerful rules committee moved to keep the state at the front of the line.
+
+Date: 2026-07-24
 
 ### House Rebukes Trump on Iran in War Powers Vote as Senate Blocks Debate
 
@@ -62,13 +68,7 @@ Michael Kratsios, President Trump’s science adviser, proposed overhauling how 
 
 Date: 2026-07-22
 
-### South Carolina and Nevada Fight to Kick Off Democrats’ 2028 Presidential Calendar
-
-The calendar order could be hugely important to the 2028 presidential primary race. Democratic insiders will try to sketch out a schedule this week, and rival states are sniping at one another.
-
-Date: 2026-07-22
-
 ## Sources
 
-- [Trump administration drive to seize election powers sparking ‘chaos’ despite pushback](https://www.theguardian.com/us-news/2026/jul/24/trump-administration-election-chaos?utm_source=lootura.com) — 2026-07-24T11:00:12.000Z
+- [DNC committee sets up South Carolina to vote first in Democrats’ 2028 presidential primaries](https://www.nbcnews.com/politics/2028-election/dnc-committee-sets-south-carolina-vote-first-democrats-2028-presidenti-rcna588863?utm_source=lootura.com) — 2026-07-24T17:13:24.000Z
 - [House Rebukes Trump on Iran in War Powers Vote as Senate Blocks Debate](https://www.nytimes.com/2026/07/23/us/politics/house-iran-war-powers-vote-trump.html?utm_source=lootura.com) — 2026-07-23T18:17:54.000Z

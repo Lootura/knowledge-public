@@ -3,10 +3,16 @@
 > Follow Lindsey Graham, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-07-22T10:23:35.990Z
+- Updated: 2026-07-24T17:28:08.619Z
 - Canonical: https://atlas.lootura.com/us/person/lindsey-graham
 
 ## Recent changes
+
+### Here Are the Candidates Vying for Sen. Lindsey Graham’s Seat
+
+Voting booths at a polling location inside the Charles R. Drew Wellness Center during a primary election in Columbia, South Carolina, on June 9, 2026. —Sam Wolfe—Bloomberg/Getty Images The deadline for candidates to file their intent to run in the special Republican primary election to fill the late Sen. Lindsey Graham.
+
+Date: 2026-07-24
 
 ### South Carolina Senate poll shows surprising frontrunner: Trey Gowdy
 
@@ -62,12 +68,6 @@ Darline Graham indicated in a White House meeting Thursday that she's weighing a
 
 Date: 2026-07-17
 
-### Trump urges Darline Graham to run for full Senate term as funeral planned for her brother
-
-President Donald Trump said Friday that Darline Graham, the sister of the late Lindsey Graham, has his support to run for a full term to replace her brother in the U.S. Senate.
-
-Date: 2026-07-17
-
 ## Sources
 
-No public source links.
+- [Here Are the Candidates Vying for Sen. Lindsey Graham’s Seat](https://time.com/article/2026/07/24/lindsey-graham-senate-south-carolina-special-republican-primary-election-candidates/?utm_source=lootura.com) — 2026-07-24T14:30:55.000Z

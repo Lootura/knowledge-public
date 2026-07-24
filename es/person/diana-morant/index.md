@@ -34,6 +34,4 @@ Date: 2026-07-24
 
 ## Fuentes
 
-- [Morant matiza pero insiste en equiparar al PP con las políticas nazis](https://www.abc.es/espana/comunidad-valenciana/morant-matiza-insiste-equiparar-pp-politicas-nazis-20260724115457-nt.html?utm_source=lootura.com) — 2026-07-24T13:04:10.000Z
-- [Morant, implacable con el PP, victimiza a Zapatero pese a sus 8 mentiras en TVE: «Fue muy valiente»](https://okdiario.com/comunidad-valenciana/morant-implacable-pp-victimiza-zapatero-pese-sus-8-mentiras-tve-fue-muy-valiente-19061673?utm_source=lootura.com) — 2026-07-24T12:51:44.000Z
-- [Morant niega que comparara a Feijóo con Hitler: fue un paralelismo sobre «políticas racistas»](https://theobjective.com/espana/politica/2026-07-24/morant-feijoo-hitler-politicas-racistas/?utm_source=lootura.com) — 2026-07-24T10:09:06.000Z
+No public source links.

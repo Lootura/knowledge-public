@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/china/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/china/index.json",
   "description": "Sigue la actividad de China en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-24T13:39:03.048Z",
+  "updatedAt": "2026-07-24T17:27:46.992Z",
   "aliases": [],
   "changes": [
     {
       "title": "Xpeng L03: el SUV futurista que queríamos, con un precio y una autonomía que decepciona",
       "summary": "Xpeng ha llevado a Europa uno de sus lanzamientos más esperados del año, el Xpeng L03 , la versión SUV del Mona M03 con el que la marca arrasó en el mercado chino. La fórmula que le funcionó allí es conocida: mucha tecnología a un precio muy ajustado. La compañía confía tanto en repetir ese éxito fuera de China que ha.",
+      "date": "2026-07-24"
+    },
+    {
+      "title": "El embajador chino en España, con los pintores Rao Jinzhong y Du Miaolos",
+      "summary": "El embajador de China en España, Yao Jing, visitó el 22 de julio en Madrid el taller de los pintores chinos Rao Jinzhong y Du Miao para conocer la actualidad del intercambio en el sector de arte pictórico entre los dos países. El embajador elogió la contribución de los dos artistas residentes en España al intercambio c.",
       "date": "2026-07-24"
     },
     {
@@ -55,11 +60,6 @@
       "title": "Sun Tzu, estratega militar: «Cuando se está cerca, se debe parecer lejos; cuando se está lejos, se debe parecer cerca»",
       "summary": "Sun Tzu es considerado uno de los grandes pensadores de la cultura oriental . Según la tradición china, fue general del Estado de Wu y sobresalió por sus ingeniosas estrategias y numerosas victorias, siempre apoyadas en la planificación y el profundo conocimiento del enemigo. Su filosofía se basaba en un principio esen.",
       "date": "2026-07-21"
-    },
-    {
-      "title": "La acción de la semana: Alibaba rebota desde soporte, pero el cambio de tendencia todavía está por demostrar",
-      "summary": "Alibaba Group es un consorcio privado chino dedicado principalmente al comercio electrónico en internet, siendo responsable de más del 60% de los paquetes entregados en China. Dentro del conglomerado se encuentran servicios como el comercio al por menor, Business to Business, pagos en línea y almacenamientos en la nube.",
-      "date": "2026-07-20"
     }
   ],
   "sources": [
@@ -68,7 +68,13 @@
       "url": "https://hipertextual.com/movilidad/xpeng-l03-suv-electrico-futurista-decepcion/?utm_source=lootura.com",
       "publishedAt": "2026-07-24T13:21:26.000Z",
       "sourceId": "lootura-es-hipertextual"
+    },
+    {
+      "title": "El embajador chino en España, con los pintores Rao Jinzhong y Du Miaolos",
+      "url": "https://www.larazon.es/madrid/embajador-chino-espana-pintores-rao-jinzhong-miaolos_202607246a639d3dda3add27d4e0375d.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-24T17:13:33.000Z",
+      "sourceId": "lootura-es-la-razon"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 2
 }

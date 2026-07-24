@@ -3,10 +3,16 @@
 > Follow Air Force One, a tracked concept, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: concept
-- Updated: 2026-07-23T21:01:27.760Z
+- Updated: 2026-07-24T17:28:08.619Z
 - Canonical: https://atlas.lootura.com/us/concept/air-force-one
 
 ## Recent changes
+
+### DOJ admits legal errors, drops subpoenas of New York Times journalists
+
+A judge criticized the Justice Department for legal errors that ultimately led the agency to withdraw its subpoenas of two New York Times journalists who wrote a story about security concerns on President Trump's Qatari-gifted Air Force One. CBS News' Katrina Kaufman has the latest.
+
+Date: 2026-07-24
 
 ### DOJ to withdraw subpoenas for New York Times reporters over Air Force One story
 
@@ -62,12 +68,6 @@ The new Air Force One "has a lot of capability, but as I understand it, in about
 
 Date: 2026-07-20
 
-### Trump Says New Air Force One Will Be Taken Out of Service to Be ‘Maxed Out’
-
-The Qatari-donated plane has been under scrutiny over whether it is fitted with sufficient defensive capabilities to adequately protect a U.S. president and others traveling on it.
-
-Date: 2026-07-20
-
 ## Sources
 
-No public source links.
+- [DOJ admits legal errors, drops subpoenas of New York Times journalists](https://www.cbsnews.com/video/doj-admits-legal-errors-drops-subpoenas-new-york-times-journalists/?utm_source=lootura.com) — 2026-07-24T17:13:52.000Z

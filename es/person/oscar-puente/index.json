@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/oscar-puente/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/oscar-puente/index.json",
   "description": "Sigue la actividad de Óscar Puente en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-24T13:39:03.048Z",
+  "updatedAt": "2026-07-24T17:27:46.992Z",
   "aliases": [
     "Oscar Puente Santiago",
     "Puente",
@@ -22,11 +22,6 @@
       "date": "2026-07-24"
     },
     {
-      "title": "Choque entre Puente y Ayuso: “Si hay una mamarracha en España, esa eres tú”",
-      "summary": "Choque entre el ministro de Transportes y Movilidad Sostenible, Óscar Puente, y la presidenta de la Comunidad de Madrid, Isabel Díaz Ayuso, en plena emergencia nacional por los incendios que asolan Madrid y Ávila . Puente por la mañana ha acusado a las comunidades autónomas gobernadas por el PP de reducir impuestos y r.",
-      "date": "2026-07-24"
-    },
-    {
       "title": "Puente ataca de nuevo a Ayuso: «Si hay una mamarracha en España, esa eres tú»",
       "summary": "El ministro de Transportes, Óscar Puente , ha llamado « mamarracha » a la presidenta de la Comunidad de Madrid, Isabel Díaz Ayuso , después de que la mandataria autonómica haya censurado su actitud, tras arremeter este contra los ejecutivos regionales del PP, y loara la coordinación entre administraciones frente a los.",
       "date": "2026-07-24"
@@ -34,6 +29,16 @@
     {
       "title": "Discovered by Atlas",
       "summary": "Óscar Puente first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-07-24"
+    },
+    {
+      "title": "Puente a Ayuso por los incendios en Madrid: \"Si hay una mamarracha en España, esa eres tú\"",
+      "summary": "Óscar Puente e Isabel Díaz Ayuso han protagonizado un duro enfrentamiento político por los incendios de Madrid, después de que el ministro de Transportes acusara a los gobiernos autonómicos del PP de recortar servicios públicos y reclamar después la intervención del Gobierno. La disputa ha estallado mientras miles de p.",
+      "date": "2026-07-24"
+    },
+    {
+      "title": "Choque entre Puente y Ayuso: “Si hay una mamarracha en España, esa eres tú”",
+      "summary": "Choque entre el ministro de Transportes y Movilidad Sostenible, Óscar Puente, y la presidenta de la Comunidad de Madrid, Isabel Díaz Ayuso, en plena emergencia nacional por los incendios que asolan Madrid y Ávila . Puente por la mañana ha acusado a las comunidades autónomas gobernadas por el PP de reducir impuestos y r.",
       "date": "2026-07-24"
     }
   ],
@@ -45,10 +50,10 @@
       "sourceId": "lootura-es-el-confidencial"
     },
     {
-      "title": "Choque entre Puente y Ayuso: “Si hay una mamarracha en España, esa eres tú”",
-      "url": "https://www.lavanguardia.com/politica/20260724/11600279/puente-acusa-pp-recortar-servicios-pedir-les-resuelvan-papeleta.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-24T11:10:37.000Z",
-      "sourceId": "lootura-es-la-vanguardia"
+      "title": "Puente a Ayuso por los incendios en Madrid: \"Si hay una mamarracha en España, esa eres tú\"",
+      "url": "https://www.elconfidencial.com/espana/2026-07-24/puente-ayuso-incendios-madrid-mamarracha-1qrt_4395672/?utm_source=lootura.com",
+      "publishedAt": "2026-07-24T14:40:00.000Z",
+      "sourceId": "lootura-es-el-confidencial"
     },
     {
       "title": "Puente ataca de nuevo a Ayuso: «Si hay una mamarracha en España, esa eres tú»",

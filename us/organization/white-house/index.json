@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/white-house/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/white-house/index.json",
   "description": "Follow White House, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-24T13:39:26.682Z",
+  "updatedAt": "2026-07-24T17:28:08.619Z",
   "aliases": [
     "1600 Pennsylvania Avenue",
     "Executive Mansion",
@@ -29,8 +29,23 @@
       "date": "2026-07-24"
     },
     {
-      "title": "White House Correspondents’ Dinner Returns Under High Security",
-      "summary": "President Donald Trump is gearing up to attend the rescheduled White House Correspondents Dinner Friday night, after the initial event back in April was targeted by a gunman. The Secret Service says it’s confident in the security plan for the dinner while also acknowledging an alarming rise in threats. NBC’s Garrett Ha.",
+      "title": "Inside the heightened security for the rescheduled White House Correspondents' Dinner",
+      "summary": "The Secret Service says there has been a significant rise in threats ahead of the rescheduled White House Correspondents' Dinner. CBS News' Nicole Sganga has more details.",
+      "date": "2026-07-24"
+    },
+    {
+      "title": "Trump expected to attend White House Correspondents' Dinner redo after April attack",
+      "summary": "President Trump is expected to attend the redo of the White House Correspondents' Dinner on Friday night after an armed assailant upended April's dinner.",
+      "date": "2026-07-24"
+    },
+    {
+      "title": "Trump to deliver ‘unifying yet vicious’ remarks at Correspondents’ dinner, White House says",
+      "summary": "The White House Correspondents’ Association Dinner with President Donald Trump that was disrupted earlier this year when a gunman charged past Secret Service agents toward the event is scheduled to be re-held in a different, smaller and more secure venue Friday night.",
+      "date": "2026-07-24"
+    },
+    {
+      "title": "The tech-broification of American science has officially begun",
+      "summary": "Trump’s science adviser Michael Kratsios has no science background. | Image: Getty / The Verge The Trump administration unveiled the first \"Genesis Mission\" grants on Thursday, directing $5 billion toward hundreds of AI-driven science projects in an effort the White House has described as \"comparable in urgency and amb.",
       "date": "2026-07-24"
     },
     {
@@ -52,24 +67,15 @@
       "title": "Secret Service warns of uptick in threats ahead of rescheduled White House Correspondents' Dinner",
       "summary": "The Secret Service is warning about a rise in threats ahead of the rescheduled White House Correspondents' Dinner, which is set for Friday. CBS News' Nicole Sganga has the latest.",
       "date": "2026-07-23"
-    },
-    {
-      "title": "White House says Saudi Arabia nuclear deal contingent on joining Abraham Accords",
-      "summary": "During a press briefing, White House press secretary Karoline Leavitt echoed a social media post from President Trump that said any nuclear deal with Saudi Arabia would be contingent on them joining the Abraham Accords. NBC News' Monica Alba reports from the White House on the potential deal and the White House's appro.",
-      "date": "2026-07-23"
-    },
-    {
-      "title": "U.S. Reaches Landmark Nuclear Deal With Saudi Arabia",
-      "summary": "U.S. President Donald Trump and Crown Prince Mohammed bin Salman of Saudi Arabia during a bilateral meeting in the Oval Office of the White House on Nov. 18, 2025. —Demetrius Freeman—The Washington Post/Getty Images Washington has reached a watershed civilian nuclear cooperation agreement with Saudi Arabia, the U.S. En.",
-      "date": "2026-07-23"
-    },
-    {
-      "title": "Trump escalates threats, vows to target Iranian bridges and power plants",
-      "summary": "Iranian news agencies are reporting widespread aerial attacks across southern Iran. It comes as President Trump issued more threats against Iran and the Islamic Republic's foreign minister responded that any future attacks would be met with \"an eye for an eye.\" White House correspondent Liz Landers reports.",
-      "date": "2026-07-22"
     }
   ],
   "sources": [
+    {
+      "title": "Inside the heightened security for the rescheduled White House Correspondents' Dinner",
+      "url": "https://www.cbsnews.com/video/inside-heightened-security-rescheduled-white-house-correspondents-dinner/?utm_source=lootura.com",
+      "publishedAt": "2026-07-24T17:07:00.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
     {
       "title": "Secret Service warns of high threat levels before White House Correspondents' Dinner",
       "url": "https://www.cbsnews.com/news/secret-service-threat-levels-rescheduled-white-house-correspondents-dinner/?utm_source=lootura.com",
@@ -77,17 +83,29 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "White House Correspondents’ Dinner Returns Under High Security",
-      "url": "https://www.today.com/video/trump-to-attend-correspondents-dinner-under-high-security-267214917522?utm_source=lootura.com",
-      "publishedAt": "2026-07-24T11:20:35.000Z",
+      "title": "Trump expected to attend White House Correspondents' Dinner redo after April attack",
+      "url": "https://www.cbsnews.com/news/trump-white-house-correspondents-dinner-redo/?utm_source=lootura.com",
+      "publishedAt": "2026-07-24T16:57:25.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
+    {
+      "title": "Trump to deliver ‘unifying yet vicious’ remarks at Correspondents’ dinner, White House says",
+      "url": "https://www.nbcnews.com/politics/trump-administration/trump-white-house-correspondents-dinner-remarks-shooting-rcna589049?utm_source=lootura.com",
+      "publishedAt": "2026-07-24T16:48:35.000Z",
       "sourceId": "lootura-us-nbc-news-politics"
     },
     {
       "title": "The Artist Matthew Taylor Is Helping Trump Reshape Washington",
       "url": "https://www.nytimes.com/2026/07/24/arts/design/matthew-taylor-artist-filmmaker-trump-washington.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-24T09:00:16.000Z",
+      "publishedAt": "2026-07-24T09:00:17.000Z",
       "sourceId": "lootura-us-the-new-york-times-politics"
+    },
+    {
+      "title": "The tech-broification of American science has officially begun",
+      "url": "https://www.theverge.com/science/970534/genesis-mission-ai-science-funding-trump-grants?utm_source=lootura.com",
+      "publishedAt": "2026-07-24T14:43:55.000Z",
+      "sourceId": "lootura-us-the-verge"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 6
 }

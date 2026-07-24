@@ -8,12 +8,22 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/union-europea/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/union-europea/index.json",
   "description": "Sigue la actividad de Unión Europea en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-24T13:39:03.048Z",
+  "updatedAt": "2026-07-24T17:27:46.992Z",
   "aliases": [
     "Europa",
     "Unión"
   ],
   "changes": [
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Unión Europea first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-07-24"
+    },
+    {
+      "title": "La UE moviliza su mecanismo de emergencia por los incendios de España y Francia y avisa: “Nos preparamos para una situación grave”",
+      "summary": "La Comisión Europea ha desplegado siete aeronaves de su flota de emergencia rescEU —cuatro aviones en España y tres aviones más dos helicópteros en Francia— para combatir los incendios forestales que golpean España y Francia. El Ejecutivo comunitario ha advertido este viernes de que la Unión Europea se prepara para esc.",
+      "date": "2026-07-24"
+    },
     {
       "title": "Sánchez pide ayuda a Bruselas con los incendios y Grecia e Italia envían cuatro aviones de extinción",
       "summary": "La Comisión Europea ha explicado este viernes que recibió el jueves por la noche la petición por parte del Gobierno español de la activación del Mecanismo de Protección Civil de la Unión Europea, solicitando cuatro aviones. Fuentes del Gobierno confirmaban esta mañana que Grecia ya había ofrecido dos Canadair CL-415. E.",
@@ -28,32 +38,15 @@
       "title": "Bruselas manda cuatro aviones para combatir los incendios forestales en España",
       "summary": "La Comisión Europea ha confirmado este viernes el despliegue de cuatro aviones para apoyar la lucha contra los incendios forestales en España, después de que el Gobierno solicitara la activación del Mecanismo de Protección Civil de la Unión Europea ante la gravedad de los fuegos que afectan especialmente a la Comunidad.",
       "date": "2026-07-24"
-    },
-    {
-      "title": "Discovered by Atlas",
-      "summary": "Unión Europea first entered the public knowledge record with source-backed evidence.",
-      "date": "2026-07-24"
     }
   ],
   "sources": [
     {
-      "title": "Sánchez pide ayuda a Bruselas con los incendios y Grecia e Italia envían cuatro aviones de extinción",
-      "url": "https://www.elconfidencial.com/espana/2026-07-24/incendios-espana-aviones-bruselas-1tps_4395535/?utm_source=lootura.com",
-      "publishedAt": "2026-07-24T11:34:00.000Z",
-      "sourceId": "lootura-es-el-confidencial"
-    },
-    {
-      "title": "Los nuevos billetes del euro ya tienen finalistas: diez diseños y una encuesta abierta al público",
-      "url": "http://www.microsiervos.com/archivo/arte-y-diseno/billetes-opinion-publico-banco-euro.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-24T11:21:25.000Z",
-      "sourceId": "lootura-es-microsiervos"
-    },
-    {
-      "title": "Bruselas manda cuatro aviones para combatir los incendios forestales en España",
-      "url": "https://theobjective.com/sociedad/2026-07-24/bruselas-manda-aviones-incendios/?utm_source=lootura.com",
-      "publishedAt": "2026-07-24T11:34:48.000Z",
-      "sourceId": "lootura-es-the-objective"
+      "title": "La UE moviliza su mecanismo de emergencia por los incendios de España y Francia y avisa: “Nos preparamos para una situación grave”",
+      "url": "https://elpais.com/internacional/2026-07-24/la-ue-moviliza-su-mecanismo-de-emergencia-por-los-incendios-de-espana-y-francia-y-avisa-nos-preparamos-para-una-situacion-grave.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-24T15:52:56.000Z",
+      "sourceId": "lootura-es-el-pais"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 1
 }

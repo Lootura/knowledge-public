@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/julio-martinez/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/julio-martinez/index.json",
   "description": "Sigue la actividad de Julio Martínez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-24T13:39:03.048Z",
+  "updatedAt": "2026-07-24T17:27:46.992Z",
   "aliases": [
     "Julio Mart",
     "Julio Martínez Martínez",
@@ -16,13 +16,13 @@
   ],
   "changes": [
     {
-      "title": "El juez llama a declarar a los directivos de Plus Ultra que aseguraron que Zapatero estaba detrás del rescate",
-      "summary": "El juez José Luis Calama ha llamado a declarar este viernes al presidente de la aerolínea Plus Ultra , Julio Martínez Sola, y al consejero delegado, Roberto Roselli Miele, en la causa que investiga al expresidente José Luis Rodríguez Zapatero como miembro de una trama ilícita de influencias vinculada al rescate de la a.",
+      "title": "El juez Calama cita a declarar a los directivos de Plus Ultra que implicaron a Zapatero en el rescate",
+      "summary": "El magistrado José Luis Calama, instructor del caso Plus Ultra , da un nuevo paso en la investigación abierta contra el expresidente José Luis Rodríguez Zapatero. El juez ha decidido interrogar los próximos 7 y 8 de septiembre a Julio Martínez Sola, presidente de la aerolínea, y a su consejero delegado, Roberto Roselli.",
       "date": "2026-07-24"
     },
     {
-      "title": "El juez Calama cita a declarar a los directivos de Plus Ultra que implicaron a Zapatero en el rescate",
-      "summary": "El magistrado José Luis Calama, instructor del caso Plus Ultra , da un nuevo paso en la investigación abierta contra el expresidente José Luis Rodríguez Zapatero. El juez ha decidido interrogar los próximos 7 y 8 de septiembre a Julio Martínez Sola, presidente de la aerolínea, y a su consejero delegado, Roberto Roselli.",
+      "title": "El juez llama a declarar a los directivos de Plus Ultra que aseguraron que Zapatero estaba detrás del rescate",
+      "summary": "El juez José Luis Calama ha llamado a declarar este viernes al presidente de la aerolínea Plus Ultra , Julio Martínez Sola, y al consejero delegado, Roberto Roselli Miele, en la causa que investiga al expresidente José Luis Rodríguez Zapatero como miembro de una trama ilícita de influencias vinculada al rescate de la a.",
       "date": "2026-07-24"
     },
     {
@@ -68,17 +68,11 @@
   ],
   "sources": [
     {
-      "title": "El juez llama a declarar a los directivos de Plus Ultra que aseguraron que Zapatero estaba detrás del rescate",
-      "url": "https://www.abc.es/espana/juez-llama-declarar-directivos-plus-ultra-aseguraron-20260724125923-nt.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-24T12:34:06.000Z",
-      "sourceId": "lootura-es-abc"
-    },
-    {
       "title": "El juez Calama cita a declarar a los directivos de Plus Ultra que implicaron a Zapatero en el rescate",
       "url": "https://elpais.com/espana/2026-07-24/el-juez-calama-cita-a-declarar-a-los-directivos-de-plus-ultra-que-implicaron-a-zapatero-en-el-rescate.html?utm_source=lootura.com",
       "publishedAt": "2026-07-24T13:22:29.000Z",
       "sourceId": "lootura-es-el-pais"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

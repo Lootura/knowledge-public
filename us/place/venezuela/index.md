@@ -70,4 +70,4 @@ Date: 2026-07-08
 
 ## Sources
 
-- [Venezuela’s Earthquakes Show Wealth Divide, Even in Death](https://www.nytimes.com/2026/07/24/world/americas/venezuela-earthquake-dead-costs-la-guaira.html?utm_source=lootura.com) — 2026-07-24T09:02:18.000Z
+No public source links.

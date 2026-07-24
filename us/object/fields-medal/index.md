@@ -34,4 +34,4 @@ Date: 2026-07-23
 
 ## Sources
 
-- [Rising stars of mathematics awarded prestigious 2026 Fields Medal](https://www.nature.com/articles/d41586-026-02169-1?utm_source=lootura.com) — 2026-07-24T13:39:30.491Z
+No public source links.

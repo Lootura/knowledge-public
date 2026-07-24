@@ -70,5 +70,4 @@ Date: 2026-07-23
 
 ## Sources
 
-- [Trump Vows Retaliation Against Iran for Houthi Attack in Red Sea](https://www.today.com/video/trump-vows-retaliation-against-iran-for-houthi-attack-in-red-sea-267213893508?utm_source=lootura.com) — 2026-07-24T11:19:38.000Z
-- [Oil surges to $100 per barrel. And, Trump imposes a new round of tariffs](https://www.npr.org/2026/07/24/g-s1-135418/up-first-newsletter-iran-war-oil-prices-tariffs-wisconsin-corey-ruiz?utm_source=lootura.com) — 2026-07-24T11:37:58.000Z
+No public source links.

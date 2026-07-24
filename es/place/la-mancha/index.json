@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/la-mancha/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/la-mancha/index.json",
   "description": "Sigue la actividad de La Mancha en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-24T13:39:03.048Z",
+  "updatedAt": "2026-07-24T17:27:46.992Z",
   "aliases": [
     "Comarca manchega",
     "Mancha"
@@ -17,6 +17,11 @@
     {
       "title": "Incendios en España hoy, en directo: última hora de los fuegos en Madrid, Castilla y León y Castilla-La Mancha y de los pueblos evacuados",
       "summary": "Sigue en directo los incendios forestales activos alrededor de España, en comunidades como Madrid, Castilla y León o Castilla-La Mancha, y la última hora de las personas evacuadas, pueblos confinados y hectáreas quemadas.",
+      "date": "2026-07-24"
+    },
+    {
+      "title": "Detienen al hombre atrincherado en su casa en Villarrobledo (Albacete) con una escopeta",
+      "summary": "Efectivos del cuerpo de élite de la Guardia Civil que se han desplazado hasta Villarrobledo (Albacete) han detenido, alrededor de las 17:30 horas de este viernes, al hombre que se había atrincherado en su vivienda con una escopeta . Fuentes de la Delegación del Gobierno central en Castilla-La Mancha han indicado a EFE.",
       "date": "2026-07-24"
     },
     {
@@ -58,20 +63,21 @@
       "title": "El incendio de Guadalajara entra en fase de “estabilización” tras arrasar más de 32.000 hectáreas",
       "summary": "El incendio de La Mierla (Guadalajara), el más grande de la historia de Castilla-La Mancha , que ha arrasado más de 32.000 hectáreas, ya ha entrado en fase de “estabilización”, según ha anunciado este miércoles el presidente de Castilla-La Mancha, Emiliano García-Page, desde el puesto de mando avanzado de Tamajón, en u.",
       "date": "2026-07-22"
-    },
-    {
-      "title": "Incendio de Guadalajara, en directo: última hora del avance del fuego en La Mierla y Selas",
-      "summary": "El incendio forestal declarado el pasado jueves en la Sierra Norte de Guadalajara continúa fuera de capacidad de extinción y ya ha arrasado cerca de 30.000 hectáreas , consolidándose como el mayor registrado este año en Castilla-La Mancha. Aunque el operativo ha logrado frenar el avance del fuego en algunos sectores gr.",
-      "date": "2026-07-22"
     }
   ],
   "sources": [
     {
       "title": "Incendios en España hoy, en directo: última hora de los fuegos en Madrid, Castilla y León y Castilla-La Mancha y de los pueblos evacuados",
       "url": "https://www.abc.es/sociedad/incendios-espana-hoy-directo-fuegos-activos-madrid-20260723185959-di_amp.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-24T13:17:48.000Z",
+      "publishedAt": "2026-07-24T17:12:30.000Z",
       "sourceId": "lootura-es-abc"
+    },
+    {
+      "title": "Detienen al hombre atrincherado en su casa en Villarrobledo (Albacete) con una escopeta",
+      "url": "https://www.elconfidencial.com/espana/2026-07-24/hombre-atrincherado-vivienda-escopeta-villarrobledo_4395642/?utm_source=lootura.com",
+      "publishedAt": "2026-07-24T13:51:00.000Z",
+      "sourceId": "lootura-es-el-confidencial"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 2
 }

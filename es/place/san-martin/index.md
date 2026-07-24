@@ -2,21 +2,27 @@
 
 > Sigue la actividad de San Martín en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
-- Type: person
-- Actualizado: 2026-07-24T13:39:03.048Z
+- Type: place
+- Actualizado: 2026-07-24T17:27:46.992Z
 - Canonical: https://atlas.lootura.com/es/place/san-martin
 
 ## Cambios recientes
 
-### El mapa de los tres incendios: así avanzan los fuegos que cercan la Comunidad de Madrid
-
-La grave situación por los incendios , que ha obligado al Gobierno a declarar la emergencia nacional en Madrid y Ávila, afronta "un día crítico", según ha explicado el ministro del Interior, Fernando Grande-Marlaska: los focos de San Martín de Valdeiglesias y Villa del Prado , en Madrid, se han fusionado en un solo fre.
-
-Date: 2026-07-24
-
 ### El humo y las cenizas de los incendios forestales alcanzan Madrid: estas son las recomendaciones para protegerse
 
 El cambio de dirección del viento desplaza hacia la capital una gran humareda procedente de los incendios de Villa del Prado y San Martín de Valdeiglesias. Los servicios de emergencias de la Comunidad recomiendan evitar permanecer al aire libre y mantener puertas y ventanas cerradas La previsión de intensas rachas de v.
+
+Date: 2026-07-24
+
+### Un detenido por provocar el incendio de Ávila
+
+Una persona detenida y otra investigada como presuntos autores del incendio declarado el pasado miércoles en el término municipal de Burgohondo (Ávila) que ya ha arrasado unas 9.000 hectáreas y amenaza con unirse el también pavoroso fuego de San Martín de Valdeiglesias (Madrid), fundido a la vez con el de Almorox (Tole.
+
+Date: 2026-07-24
+
+### El mapa de los tres incendios: así avanzan los fuegos que cercan la Comunidad de Madrid
+
+La grave situación por los incendios , que ha obligado al Gobierno a declarar la emergencia nacional en Madrid y Ávila, afronta "un día crítico", según ha explicado el ministro del Interior, Fernando Grande-Marlaska: los focos de San Martín de Valdeiglesias y Villa del Prado , en Madrid, se han fusionado en un solo fre.
 
 Date: 2026-07-24
 
@@ -29,12 +35,6 @@ Date: 2026-07-24
 ### Incendios en Madrid, en directo: San Martín de Valdeiglesias confina varias urbanizaciones y desata la alerta en la Comunidad
 
 El fuego no da tregua en la Comunidad de Madrid . Las altas temperaturas, el viento y la sequedad del terreno están detrás de otros dos nuevos incendios que están obligando al confinamiento de la población y a desatar la alarma ante la voracidad de las llamas. En concreto, un incendio forestal en San Martín de Valdeigl.
-
-Date: 2026-07-24
-
-### Incendios en Madrid, en directo: Declaran la emergencia nacional en Madrid y Ávila y el fuego sigue sin estar perimetrado
-
-Los tres incendios que se están desarrollando en la Comunidad de Madrid han obligado a desalojar a 10.000 personas en Villa del Prado, San Martín de Valdeiglesias, Pelayos de la Presa y Aldea del Fresno.
 
 Date: 2026-07-24
 
@@ -70,5 +70,6 @@ Date: 2026-07-23
 
 ## Fuentes
 
-- [El mapa de los tres incendios: así avanzan los fuegos que cercan la Comunidad de Madrid](https://www.20minutos.es/nacional/mapa-los-tres-incendios-asi-avanzan-los-fuegos-que-cercan-comunidad-madrid_7018620_0.html?utm_source=lootura.com) — 2026-07-24T11:04:12.000Z
+- [Así se ve desde el cielo el drama del fuego en San Martín: decenas de focos arrasando todo sin control](https://www.20minutos.es/madrid/asi-se-ve-desde-cielo-dramatica-situacion-incendio-san-martin-valdeiglesias-decenas-focos-arrasando-todo-sin-control_7018735_0.html?utm_source=lootura.com) — 2026-07-24T14:48:54.000Z
+- [Un detenido por provocar el incendio de Ávila](https://www.abc.es/espana/castilla-leon/detenido-provocar-incendio-burgohondo-arrasado-9000-hectareas-20260724165951-nt.html?utm_source=lootura.com) — 2026-07-24T17:01:25.000Z
 - [El humo y las cenizas de los incendios forestales alcanzan Madrid: estas son las recomendaciones para protegerse](https://www.eldiario.es/madrid/somos/humo-cenizas-incendios-forestales-alcanzan-madrid-son-recomendaciones-protegerse_1_13404626.html?utm_source=lootura.com) — 2026-07-24T13:00:25.000Z

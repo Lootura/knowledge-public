@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/psoe/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/psoe/index.json",
   "description": "Sigue la actividad de Partido Socialista Obrero Español en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-24T13:39:03.048Z",
+  "updatedAt": "2026-07-24T17:27:46.992Z",
   "aliases": [
     "Grupo Socialista",
     "PSOE",
@@ -22,6 +22,16 @@
   ],
   "changes": [
     {
+      "title": "El PSOE apunta a responsabilidades políticas por la gestión del incendio de Almería",
+      "summary": "El PSOE-A ha apuntado a posibles responsabilidades políticas de los responsables de Emergencias en el Gobierno autonómico por «el vacío de tres horas» en la gestión del incendio de Los Gallardos , en Almería, y ha reclamado el apoyo para su petición de una comisión de investigación en el Parlamento andaluz. Los sociali.",
+      "date": "2026-07-24"
+    },
+    {
+      "title": "Las acusaciones populares piden que la directora de la Guardia Civil y el DAO investigados no puedan mandar sobre la UCO",
+      "summary": "Las acusaciones populares del caso Leire Díez o las cloacas del PSOE, representadas por el Partido Popular, han pedido al juez Santiago Pedraz, como medida cautelar, que obligue a la directora de la Guardia Civil, Mercedes González y al Director Adjunto Operativo (DAO) de dicho Cuerpo, Manuel Llamas, ambos investigados.",
+      "date": "2026-07-24"
+    },
+    {
       "title": "El Gobierno plantea un castigo fiscal a las Socimis de viviendas",
       "summary": "Los socios de gobierno, PSOE y Sumar, vuelven a sacar a las Socimis a la palestra al plantear un castigo fiscal a aquellas empresas que tiene en su cartera viviendas y a las que...",
       "date": "2026-07-24"
@@ -29,11 +39,6 @@
     {
       "title": "Morant, implacable con el PP, victimiza a Zapatero pese a sus 8 mentiras en TVE: «Fue muy valiente»",
       "summary": "La secretaria general de los socialistas valencianos y ministra en el Gobierno del socialista Pedro Sánchez, Diana Morant, implacable cuando de pedir dimisiones y exigir responsabilidades al PP se trata, ha vuelto a victimizar a un representante del Partido Socialista inmerso en un procedimiento judicial, como en su dí.",
-      "date": "2026-07-24"
-    },
-    {
-      "title": "El PSOE apunta a responsabilidades políticas por la gestión del incendio de Almería",
-      "summary": "El PSOE-A ha apuntado a posibles responsabilidades políticas de los responsables de Emergencias en el Gobierno autonómico por «el vacío de tres horas» en la gestión del incendio de Los Gallardos , en Almería, y ha reclamado el apoyo para su petición de una comisión de investigación en el Parlamento andaluz. Los sociali.",
       "date": "2026-07-24"
     },
     {
@@ -65,25 +70,14 @@
       "title": "El Gobierno y el PSOE cierran filas con Zapatero y aseguran que probará su inocencia",
       "summary": "El Gobierno y la dirección del PSOE reiteran su respaldo a José Luis Rodríguez Zapatero tras las explicaciones que el expresidente ha dado en RTVE, donde ha defendido su inocencia sin aportar ninguna información nueva a la que ya había declarado a mediados de junio ante el juez José Luis Calama de la Audiencia Nacional.",
       "date": "2026-07-23"
-    },
-    {
-      "title": "El Congreso rebaja los requisitos para formar grupo propio a petición de los nacionalistas",
-      "summary": "El Congreso ha aprobado este jueves definitivamente la rebaja de los requisitos para constituir grupo parlamentario propio a propuesta de los partidos nacionalistas y con el apoyo del PSOE , mientras que PP, Vox y UPN han votado en contra. La reforma, impulsada por ERC, Junts, BNG, Compromís y Podemos, mantiene la regl.",
-      "date": "2026-07-23"
     }
   ],
   "sources": [
     {
-      "title": "El Gobierno plantea un castigo fiscal a las Socimis de viviendas",
-      "url": "https://amp.expansion.com/inmobiliario/mercado/2026/07/24/6a633b58468aeb12608b458a.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-24T10:16:34.000Z",
-      "sourceId": "lootura-es-expansion"
-    },
-    {
-      "title": "Morant, implacable con el PP, victimiza a Zapatero pese a sus 8 mentiras en TVE: «Fue muy valiente»",
-      "url": "https://okdiario.com/comunidad-valenciana/morant-implacable-pp-victimiza-zapatero-pese-sus-8-mentiras-tve-fue-muy-valiente-19061673?utm_source=lootura.com",
-      "publishedAt": "2026-07-24T12:51:44.000Z",
-      "sourceId": "lootura-es-ok-diario"
+      "title": "Las acusaciones populares piden que la directora de la Guardia Civil y el DAO investigados no puedan mandar sobre la UCO",
+      "url": "https://www.abc.es/espana/acusaciones-populares-piden-directora-guardia-civil-dao-20260724104145-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-24T17:06:07.000Z",
+      "sourceId": "lootura-es-abc"
     },
     {
       "title": "El PSOE apunta a responsabilidades políticas por la gestión del incendio de Almería",
@@ -92,5 +86,5 @@
       "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 2
 }

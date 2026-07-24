@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/barcelona/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/barcelona/index.json",
   "description": "Sigue la actividad de Barcelona en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-24T10:14:05.930Z",
+  "updatedAt": "2026-07-24T17:27:46.992Z",
   "aliases": [
     "B'na",
     "Barcelona City",
@@ -21,6 +21,11 @@
     "Ciudad condal"
   ],
   "changes": [
+    {
+      "title": "El Barcelona pesca en la NBA para salir de la tumba",
+      "summary": "Los azulgranas, en plena reconstrucción, han cerrado este viernes las incorporaciones de Tosan Evbuomwan y Tyrese Martin, ambos procedentes de la liga estadounidense.",
+      "date": "2026-07-24"
+    },
     {
       "title": "Primer trasplante de órganos entre pacientes con VIH en España",
       "summary": "Durante casi cuatro décadas, el VIH supuso una frontera infranqueable para la donación de órganos. Esa barrera acaba de desaparecer en España. El Hospital Vall d'Hebron de Barcelona ha realizado el primer trasplante de órganos entre personas con VIH , un hito médico que ha sido posible gracias a la modificación normati.",
@@ -65,13 +70,15 @@
       "title": "De la “confrontación” a las “siete cronologías” de los Andic: los peligros de abrazar pseudociencias para resolver conflictos familiares",
       "summary": "La extraña terapia a la que se estaba sometiendo la familia Andic antes de la muerte del padre, Isak, se ha colocado en el centro del proceso judicial que investiga al primogénito, Jonathan Andic, como presunto autor de la muerte de su padre durante una excursión a la montaña de Montserrat (Barcelona). Para mejorar la.",
       "date": "2026-07-23"
-    },
-    {
-      "title": "Un fuego junto a las vías obliga a suspender los trenes de alta velocidad entre Madrid y Barcelona",
-      "summary": "La circulación de trenes de alta velocidad entre Madrid y Barcelona ha quedado interrumpida este jueves debido a un incendio declarado en las proximidades de la infraestructura ferroviaria en la Comunidad de Madrid, han informado Renfe y Adif en sus redes sociales. Renfe ha informado de que el tráfico permanece suspend.",
-      "date": "2026-07-23"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "El Barcelona pesca en la NBA para salir de la tumba",
+      "url": "https://www.abc.es/deportes/baloncesto/barcelona-pesca-nba-salir-tumba-20260724184711-nt_amp.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-24T16:47:12.000Z",
+      "sourceId": "lootura-es-abc"
+    }
+  ],
+  "evidenceCount": 1
 }

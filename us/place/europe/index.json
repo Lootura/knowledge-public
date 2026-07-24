@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/europe/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/europe/index.json",
   "description": "Follow Europe, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-24T13:39:26.682Z",
+  "updatedAt": "2026-07-24T17:28:08.619Z",
   "aliases": [
     "EU",
     "European Union"
   ],
   "changes": [
+    {
+      "title": "More than 80,000 flee forest infernos in France and Spain",
+      "summary": "Europe's wildfire crisis forced more than 80,000 people to flee for safety Friday, as vacationers boarded boats to escape fires on a French peninsula and Spanish officials ordered mass evacuations in towns near Madrid.",
+      "date": "2026-07-24"
+    },
     {
       "title": "US allies hit with new tariffs object to Trump's forced labor claims",
       "summary": "Australia and the European Union were among U.S. trade partners who condemned the tariffs. (Image credit: Mark Schiefelbein).",
@@ -58,26 +63,15 @@
       "title": "U.S.-Saudi Deal Prompts Fears of a Nuclear Arms Race",
       "summary": "In Europe, Asia and the Middle East, countries seek nuclear capabilities to hedge against aggressive neighbors and a receding Washington, potentially creating a more freewheeling era.",
       "date": "2026-07-23"
-    },
-    {
-      "title": "Shifting weather patterns drive 55% of Europe's summer drought trend, study finds",
-      "summary": "In a new study, researchers at Leipzig University have identified a major cause of the unusually severe summer soil drying and rising temperatures across Europe. They found that much of the trend can be attributed to changes in atmospheric circulation patterns—that is, shifts in the weather regimes that typically occur.",
-      "date": "2026-07-22"
     }
   ],
   "sources": [
     {
-      "title": "US allies hit with new tariffs object to Trump's forced labor claims",
-      "url": "https://www.npr.org/2026/07/24/nx-s1-5906301/us-global-trump-tariffs-reaction?utm_source=lootura.com",
-      "publishedAt": "2026-07-24T10:31:08.000Z",
-      "sourceId": "lootura-us-npr-world"
-    },
-    {
-      "title": "U.S.-Saudi Deal Prompts Fears of a Global Nuclear Arms Race",
-      "url": "https://www.nytimes.com/2026/07/23/world/europe/us-saudi-deal-nuclear-hedging.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-23T15:28:15.000Z",
-      "sourceId": "lootura-us-the-new-york-times"
+      "title": "More than 80,000 flee forest infernos in France and Spain",
+      "url": "https://phys.org/news/2026-07-forest-infernos-france-spain.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-24T16:40:07.000Z",
+      "sourceId": "lootura-us-phys-org"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

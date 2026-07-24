@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/lindsey-graham/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/lindsey-graham/index.json",
   "description": "Follow Lindsey Graham, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-22T10:23:35.990Z",
+  "updatedAt": "2026-07-24T17:28:08.619Z",
   "aliases": [
     "Lindsey",
     "Lindsey Olin Graham"
   ],
   "changes": [
+    {
+      "title": "Here Are the Candidates Vying for Sen. Lindsey Graham’s Seat",
+      "summary": "Voting booths at a polling location inside the Charles R. Drew Wellness Center during a primary election in Columbia, South Carolina, on June 9, 2026. —Sam Wolfe—Bloomberg/Getty Images The deadline for candidates to file their intent to run in the special Republican primary election to fill the late Sen. Lindsey Graham.",
+      "date": "2026-07-24"
+    },
     {
       "title": "South Carolina Senate poll shows surprising frontrunner: Trey Gowdy",
       "summary": "Former Rep. Trey Gowdy insists he’s not interested in running in the South Carolina special election. But a new poll suggests Gowdy would be formidable if he changed his mind. Gowdy holds a massive lead over seven other potential and declared GOP candidates for the late Sen. Lindsey Graham’s seat, according to a poll f.",
@@ -58,13 +63,15 @@
       "title": "Trump encourages Darline Graham to run for Lindsey Graham's seat",
       "summary": "Darline Graham indicated in a White House meeting Thursday that she's weighing a bid, CBS News confirmed. A day later, President Trump wrote on Truth Social: \"RUN, DARLINE, RUN! \".",
       "date": "2026-07-17"
-    },
-    {
-      "title": "Trump urges Darline Graham to run for full Senate term as funeral planned for her brother",
-      "summary": "President Donald Trump said Friday that Darline Graham, the sister of the late Lindsey Graham, has his support to run for a full term to replace her brother in the U.S. Senate.",
-      "date": "2026-07-17"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Here Are the Candidates Vying for Sen. Lindsey Graham’s Seat",
+      "url": "https://time.com/article/2026/07/24/lindsey-graham-senate-south-carolina-special-republican-primary-election-candidates/?utm_source=lootura.com",
+      "publishedAt": "2026-07-24T14:30:55.000Z",
+      "sourceId": "lootura-us-time"
+    }
+  ],
+  "evidenceCount": 1
 }

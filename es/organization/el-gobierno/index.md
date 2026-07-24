@@ -3,10 +3,16 @@
 > Sigue la actividad de El Gobierno en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-24T13:39:03.048Z
+- Actualizado: 2026-07-24T17:27:46.992Z
 - Canonical: https://atlas.lootura.com/es/organization/el-gobierno
 
 ## Cambios recientes
+
+### De casa a un polideportivo, expulsados por el fuego de Aldea del Fresno: "No he dormido un minuto"
+
+El polideportivo del Villamanta se ha convertido en un refugio improvisado para cientos de personas que esperan con angustia noticias de sus hogares Directo - El Gobierno alerta de que queda “muy poco” para que los fuegos de Madrid y Ávila se unan en un macroincendio Las cuestiones más inmediatas se mezclan con el inde.
+
+Date: 2026-07-24
 
 ### Qué es la emergencia nacional activada por los incendios de Madrid y Ávila y qué implica
 
@@ -62,15 +68,7 @@ Date: 2026-07-24
 
 Date: 2026-07-24
 
-### El Gobierno activará los Presupuestos pese al rechazo de la senda fiscal y abrirá un escenario insólito en España
-
-El guion estaba escrito y nadie ha querido improvisar. El Congreso de los Diputados ha rechazado este jueves por segunda vez la senda de estabilidad propuesta por el Gobierno, el documento que fija los objetivos de déficit de las Administraciones públicas y que es condición necesaria para poder presentar unos Presupues.
-
-Date: 2026-07-24
-
 ## Fuentes
 
-- [Los tres incendios que arrasan Madrid siguen ardiendo sin control: “Sopla mucho viento, va a ser un día muy peligroso”](https://elpais.com/espana/madrid/2026-07-24/los-tres-incendios-que-arrasan-madrid-siguen-ardiendo-sin-control.html?utm_source=lootura.com) — 2026-07-24T06:18:52.000Z
-- [Qué es la emergencia nacional activada por los incendios de Madrid y Ávila y qué implica](https://www.eldiario.es/sociedad/emergencia-nacional-activada-incendios-implica_1_13403677.html?utm_source=lootura.com) — 2026-07-24T10:54:12.000Z
-- [El PP tilda de "miserable" la actuación de Puente y el delegado del Gobierno en Madrid ante los incendios](https://www.eldiario.es/madrid/pp-miserable-actuacion-puente-delegado-gobierno-incendios_1_13404260.html?utm_source=lootura.com) — 2026-07-24T10:34:15.000Z
-- [El Gobierno plantea un castigo fiscal a las Socimis de viviendas](https://amp.expansion.com/inmobiliario/mercado/2026/07/24/6a633b58468aeb12608b458a.html?utm_source=lootura.com) — 2026-07-24T10:16:34.000Z
+- [El Gobierno ordena evacuar Fresnedillas de la Oliva, Robledo de Chavela, Navalagamella y Zarzalejo](https://www.eldebate.com/espana/madrid/20260724/gobierno-ordena-evacuar-fresnedillas-oliva-robledo-chavela-confina-navalagamella_443460.html?utm_source=lootura.com) — 2026-07-24T15:27:38.000Z
+- [De casa a un polideportivo, expulsados por el fuego de Aldea del Fresno: "No he dormido un minuto"](https://www.eldiario.es/sociedad/casa-polideportivo-expulsados-fuego-aldea-fresno-no-he-dormido-minuto_1_13405634.html?utm_source=lootura.com) — 2026-07-24T17:21:42.000Z

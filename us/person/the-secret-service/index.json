@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/the-secret-service/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/the-secret-service/index.json",
   "description": "Follow The Secret Service, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-24T13:39:26.682Z",
+  "updatedAt": "2026-07-24T17:28:08.619Z",
   "aliases": [
     "Secret",
     "Service"
   ],
   "changes": [
+    {
+      "title": "Inside the heightened security for the rescheduled White House Correspondents' Dinner",
+      "summary": "The Secret Service says there has been a significant rise in threats ahead of the rescheduled White House Correspondents' Dinner. CBS News' Nicole Sganga has more details.",
+      "date": "2026-07-24"
+    },
     {
       "title": "Member of Vance's Secret Service detail under investigation for leaking",
       "summary": "The Secret Service said a member of Vice President JD Vance's detail is under investigation for \"compromising operational and information security.\".",
@@ -42,17 +47,11 @@
   ],
   "sources": [
     {
-      "title": "Member of Vance's Secret Service detail under investigation for leaking",
-      "url": "https://www.cbsnews.com/news/jd-vance-secret-service-detail-leak-investigation/?utm_source=lootura.com",
-      "publishedAt": "2026-07-24T00:50:42.000Z",
+      "title": "Inside the heightened security for the rescheduled White House Correspondents' Dinner",
+      "url": "https://www.cbsnews.com/video/inside-heightened-security-rescheduled-white-house-correspondents-dinner/?utm_source=lootura.com",
+      "publishedAt": "2026-07-24T17:07:00.000Z",
       "sourceId": "lootura-us-cbs-news"
-    },
-    {
-      "title": "White House Correspondents’ Dinner Returns Under High Security",
-      "url": "https://www.today.com/video/trump-to-attend-correspondents-dinner-under-high-security-267214917522?utm_source=lootura.com",
-      "publishedAt": "2026-07-24T11:20:35.000Z",
-      "sourceId": "lootura-us-nbc-news-politics"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

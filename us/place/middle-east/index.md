@@ -3,7 +3,7 @@
 > Follow Middle East, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-24T13:39:26.682Z
+- Updated: 2026-07-24T17:28:08.619Z
 - Canonical: https://atlas.lootura.com/us/place/middle-east
 
 ## Recent changes
@@ -17,6 +17,12 @@ Date: 2026-07-24
 ### Some Trump officials worried about rapid use of interceptor, precision-guided weapons, sources say
 
 Some Trump administration officials are concerned about the rapid use of interceptor and precision-guided weapons in the Middle East, sources told CBS News. CBS News' Kathryn Watson has more.
+
+Date: 2026-07-24
+
+### Gas, groceries and back-to-school items are where shoppers might see higher oil prices surface
+
+Already feeling pinched since the start of the Iran war, consumers are likely to feel more pain ahead as oil prices pushed past $100 a barrel Thursday amid renewed fighting and military strikes that have left global oil supplies stranded in the Middle East.
 
 Date: 2026-07-24
 
@@ -62,14 +68,8 @@ Benchmark rises sharply over fears Houthi militia could strangle Saudi exports a
 
 Date: 2026-07-23
 
-### Remembering the 4 U.S. service members killed recently in the Iran war
-
-A dignified transfer was held Wednesday for the four U.S. Army soldiers killed in the Middle East in recent days amid the ongoing war with Iran. Lindsey Reiser shares more details on Lt. Tyler James Feehan, Pvt. Isabella Gonzales, Sgt. Angel Rampersad and Sgt. Michael Emmanuel Swinton.
-
-Date: 2026-07-23
-
 ## Sources
 
 - [Concerns over U.S. weapons getting depleted as U.S. and Iran continue to trade strikes](https://www.cbsnews.com/video/concerns-over-us-weapons-getting-depleted-as-us-and-iran-continue-to-trade-strikes/?utm_source=lootura.com) — 2026-07-24T13:17:11.000Z
 - [Some Trump officials worried about rapid use of interceptor, precision-guided weapons, sources say](https://www.cbsnews.com/video/some-trump-officials-worried-rapid-pace-interceptor-precision-guided-weapons-being-used/?utm_source=lootura.com) — 2026-07-24T13:18:54.000Z
-- [U.S.-Saudi Deal Prompts Fears of a Global Nuclear Arms Race](https://www.nytimes.com/2026/07/23/world/europe/us-saudi-deal-nuclear-hedging.html?utm_source=lootura.com) — 2026-07-23T15:28:15.000Z
+- [Gas, groceries and back-to-school items are where shoppers might see higher oil prices surface](https://www.pbs.org/newshour/nation/gas-groceries-and-back-to-school-items-are-where-shoppers-might-see-higher-oil-prices-surface?utm_source=lootura.com) — 2026-07-24T15:12:57.000Z
