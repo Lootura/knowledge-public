@@ -16,7 +16,7 @@ Date: 2026-07-24
 
 ### Discovered by Atlas
 
-Protección Civil first entered the public knowledge record with source-backed evidence.
+Protección civil first entered the public knowledge record with source-backed evidence.
 
 Date: 2026-07-23
 

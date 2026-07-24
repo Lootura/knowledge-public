@@ -1,15 +1,15 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-24T02:37:29.635Z",
+  "generatedAt": "2026-07-24T04:52:55.536Z",
   "radar": {
     "id": "es",
     "slug": "es",
     "locale": "es"
   },
   "state": {
-    "signature": "1.18.0|23|1784860089478",
+    "signature": "1.18.0|24|1784860089478",
     "version": "1.18.0",
-    "build": 23,
+    "build": 24,
     "latestEntityUpdatedAt": "2026-07-24T02:28:09.478Z"
   },
   "atlas": {
@@ -21,7 +21,7 @@
       "url": "https://atlas.lootura.com/es/place/madrid",
       "path": "/es/place/madrid",
       "updatedAt": "2026-07-24T02:28:09.478Z",
-      "score": 1741,
+      "score": 1729,
       "sourceCount": 322,
       "isBreaking": false,
       "isPinned": false
@@ -35,7 +35,7 @@
         "url": "https://atlas.lootura.com/es/place/united-states",
         "path": "/es/place/united-states",
         "updatedAt": "2026-07-24T02:28:09.478Z",
-        "score": 1686,
+        "score": 1674,
         "sourceCount": 149,
         "isBreaking": false,
         "isPinned": false
@@ -48,7 +48,7 @@
         "url": "https://atlas.lootura.com/es/place/iran",
         "path": "/es/place/iran",
         "updatedAt": "2026-07-24T02:28:09.478Z",
-        "score": 1679,
+        "score": 1667,
         "sourceCount": 112,
         "isBreaking": false,
         "isPinned": false
@@ -61,7 +61,7 @@
         "url": "https://atlas.lootura.com/es/person/donald-trump",
         "path": "/es/person/donald-trump",
         "updatedAt": "2026-07-24T02:28:09.478Z",
-        "score": 1677,
+        "score": 1665,
         "sourceCount": 134,
         "isBreaking": false,
         "isPinned": false
@@ -74,7 +74,7 @@
         "url": "https://atlas.lootura.com/es/place/espana",
         "path": "/es/place/espana",
         "updatedAt": "2026-07-24T02:28:09.478Z",
-        "score": 1665,
+        "score": 1653,
         "sourceCount": 523,
         "isBreaking": false,
         "isPinned": false
