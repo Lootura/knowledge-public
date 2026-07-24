@@ -1,0 +1,54 @@
+{
+  "id": "usa-west-virginia",
+  "name": "West Virginia",
+  "type": "place",
+  "locale": "en",
+  "canonicalPath": "/us/place/west-virginia",
+  "canonicalUrl": "https://atlas.lootura.com/us/place/west-virginia",
+  "markdownUrl": "https://atlas.lootura.com/us/place/west-virginia/index.md",
+  "jsonUrl": "https://atlas.lootura.com/us/place/west-virginia/index.json",
+  "description": "Follow West Virginia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
+  "updatedAt": "2026-07-24T10:14:29.742Z",
+  "aliases": [
+    "The Mountain State",
+    "Almost Heaven",
+    "WV",
+    "West Virginia, United States",
+    "State of West Virginia",
+    "W. Va.",
+    "W.Va.",
+    "US-WV"
+  ],
+  "changes": [
+    {
+      "title": "West Virginia paid digital nomads to move there during COVID. Many are staying",
+      "summary": "Ascend West Virginia is one of dozens of relocation initiatives across the country offering cash and other incentives to move to states needing an economic boost. Here's how they're working out. (Image credit: Chris Jackson for NPR).",
+      "date": "2026-07-24"
+    },
+    {
+      "title": "Deadly flooding in the East",
+      "summary": "At least two people have lost their lives after widespread flooding in West Virginia. We're also tracking Tropical Storm Bertha as it hits Texas. NBC News’ Priscilla Thompson is in the storm zone.",
+      "date": "2026-07-23"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "West Virginia first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-07-23"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Deadly flooding in the East",
+      "url": "https://www.nbcnews.com/nightly-news/video/deadly-flooding-in-the-east-267195461701?utm_source=lootura.com",
+      "publishedAt": "2026-07-23T23:09:14.000Z",
+      "sourceId": "lootura-us-nbc-news"
+    },
+    {
+      "title": "West Virginia paid digital nomads to move there during COVID. Many are staying",
+      "url": "https://www.npr.org/2026/07/24/nx-s1-5869402/remote-work-west-virginia-cash-incentive?utm_source=lootura.com",
+      "publishedAt": "2026-07-24T09:00:00.000Z",
+      "sourceId": "lootura-us-npr"
+    }
+  ],
+  "evidenceCount": 2
+}

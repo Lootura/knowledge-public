@@ -3,10 +3,16 @@
 > Sigue la actividad de China en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-24T02:28:09.478Z
+- Actualizado: 2026-07-24T10:14:05.930Z
 - Canonical: https://atlas.lootura.com/es/place/china
 
 ## Cambios recientes
+
+### Ocultan la muerte de una niña en China tras probar en ella una terapia de edición genética
+
+Un equipo del Hospital Xinhua de Shanghái administró un complejo tratamiento a una niña de seis años, para corregir un retraso del desarrollo; los científicos silenciaron el desenlace fatal mientras publicaban sus resultados en la revista 'Nature'.
+
+Date: 2026-07-24
 
 ### Trump impone nuevos aranceles de entre el 10% y el 12,5% a más de 60 países para mantener su muro comercial
 
@@ -62,12 +68,6 @@ China ha puesto a los robots a trabajar y a los hombres a esperar en la puerta. 
 
 Date: 2026-07-20
 
-### La cuenta atrás de Pekín
-
-La pregunta sobre la inteligencia artificial china no es ya si alcanzará a Estados Unidos, sino en qué mes. Conviene tomarse en serio esa premisa, porque Pekín la está ejecutando con una coherencia que Washington, ahora mismo, no logra igualar: ata económicamente a medio planeta , gana clientes regalando lo que EEUU co.
-
-Date: 2026-07-19
-
 ## Fuentes
 
-No public source links.
+- [Ocultan la muerte de una niña en China tras probar en ella una terapia de edición genética](https://www.abc.es/salud/ocultan-muerte-nina-china-tras-probar-terapia-20260724114332-nt_amp.html?utm_source=lootura.com) — 2026-07-24T09:43:32.000Z

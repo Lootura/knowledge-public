@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/alberto-nunez-feijoo/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/alberto-nunez-feijoo/index.json",
   "description": "Sigue la actividad de Alberto Núñez Feijóo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-24T02:28:09.478Z",
+  "updatedAt": "2026-07-24T10:14:05.930Z",
   "aliases": [
     "Alberto",
     "Alberto Nuñez",
@@ -22,6 +22,11 @@
     "Núñez Feijóo"
   ],
   "changes": [
+    {
+      "title": "Morant niega que comparara a Feijóo con Hitler: fue un paralelismo sobre «políticas racistas»",
+      "summary": "La ministra de Ciencia y Universidades y líder del PSPV, Diana Morant , ha asegurado este viernes que no comparó al presidente del Partido Popular, Alberto Núñez Feijóo, con Hitler , sino que quería realizar «un paralelismo» para señalar que «los gobiernos nazis empezaron también con políticas racistas y xenófobas» com.",
+      "date": "2026-07-24"
+    },
     {
       "title": "Sánchez, a Feijóo: \"Se le ha olvidado que hay unas elecciones de por medio, y ya veremos\"",
       "summary": "\"Una cosa sí que es cierta, leía en un periódico que ya asume que van a ser en 2027\", ha añadido Sánchez, en alusión a que el líder del PP, que pide una y otra vez un adelanto electoral, ha expresado públicamente que finalmente los comicios serán el próximo año Feijóo da por hecha su llegada a Moncloa sin esperar a las.",
@@ -66,13 +71,15 @@
       "title": "Feijóo promete una «limpieza a fondo y no un relevo» cuando Sánchez salga de Moncloa",
       "summary": "Alberto Núñez Feijóo empezó su balance del curso político sentenciando que el Gobierno «está políticamente acabado, parlamentariamente bloqueado y éticamente inhabilitado» y volvió a reclamar, una vez más, elecciones generales adelantadas como «única salida razonable y democrática» ante la avalancha de casos de corrupc.",
       "date": "2026-07-22"
-    },
-    {
-      "title": "Feijóo da por hecha su llegada a Moncloa sin esperar a las elecciones: \"Será una limpieza a fondo\"",
-      "summary": "\"La zona cero de la corrupción es la Moncloa y el señor X es Sánchez\", afirma el líder del PP en su comparecencia de balance de fin de curso en la que anuncia que enmendará todas las políticas del Gobierno progresista El PP de Feijóo promete una ambiciosa contrarreforma legal con recortes en derechos sociales si llega.",
-      "date": "2026-07-22"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Morant niega que comparara a Feijóo con Hitler: fue un paralelismo sobre «políticas racistas»",
+      "url": "https://theobjective.com/espana/politica/2026-07-24/morant-feijoo-hitler-politicas-racistas/?utm_source=lootura.com",
+      "publishedAt": "2026-07-24T10:09:06.000Z",
+      "sourceId": "lootura-es-the-objective"
+    }
+  ],
+  "evidenceCount": 1
 }

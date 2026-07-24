@@ -3,10 +3,34 @@
 > Sigue la actividad de Pedro Sánchez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-24T06:23:11.193Z
+- Actualizado: 2026-07-24T10:14:05.930Z
 - Canonical: https://atlas.lootura.com/es/person/pedro-sanchez
 
 ## Cambios recientes
+
+### Sánchez advierte de la "situación dramática" por los incendios: "Sigamos las indicaciones y evitemos riesgos"
+
+El presidente del Gobierno , Pedro Sánchez , ha advertido de la "situación dramática" que se está viviendo a consecuencia de los incendios "no sólo en distintas provincias españolas, sino también en comarcas de países vecinos". En un mensaje en X , el jefe del Ejecutivo a pedido "precaución". "Sigamos las indicaciones.
+
+Date: 2026-07-24
+
+### Manu Sánchez escucha las explicaciones de Zapatero en TVE y es tajante con el expresidente del Gobierno: «Este rojo ya no llora más por ti»
+
+Este jueves 23 de julio, José Luis Rodríguez Zapatero ha concedido su primera entrevista desde su imputación por el caso Plus Ultra . El expresidente del Gobierno ha elegido 'Mañaneros 360', el programa de TVE presentador por Javier Ruiz , para defenderse sobre su presunta implicación en la trama corrupta.En la charla,.
+
+Date: 2026-07-24
+
+### Sánchez pide ayuda a la UE para luchar contra los incendios
+
+Con la mayor parte de España en riesgo extremo de incendios y una situación muy complicada en Madrid y Ávila, que ahora son emergencia de interés nacional, el Gobierno ha decidido activar el Mecanismo Europeo de Protección Civil. Según informan fuentes de la Moncloa, la Secretaría General de Protección Civil y Emergenc.
+
+Date: 2026-07-24
+
+### España pide ayuda a la UE y moviliza a 1000 militares y efectivos de otras comunidades para atajar los incendios de Madrid y Ávila
+
+Tras declarar el Gobierno la emergencia nacional por la rápida propagación del fuego, la reunión de coordinación celebrada en La Monloa y presidida por Pedro Sánchez ha terminado pasadas las 10.00 de la mañana DIRECTO - Sigue aquí la última hora sobre los incendios España ha solicitado a través de la Unidad Militar de.
+
+Date: 2026-07-24
 
 ### La UE suspende al Gobierno por la financiación de partidos políticos y la desregulación del 'lobby'
 
@@ -44,30 +68,9 @@ El PP ha denunciado ante el Tribunal de Cuentas la contratación de David Sánch
 
 Date: 2026-07-23
 
-### La senda de déficit de Sánchez naufraga por tercer año seguido y enmaraña los presupuestos
-
-El Gobierno se esfuerza en aparentar normalidad, pero muy pocas cosas lo son esta legislatura. Mientras el Pleno del Congreso celebraba este jueves su segunda sesión plenaria extraordinaria del mes de julio, el expresidente José Luis Rodríguez Zapatero trataba de explicar, sin aclarar nada, por qué tenía joyas valorada.
-
-Date: 2026-07-23
-
-### El Gobierno salva tres leyes, pero vuelve a perder la senda de déficit
-
-El Gobierno de Pedro Sánchez ha salido del último pleno extraordinario del curso político con un sabor agridulce: ha salvado tres iniciativas con rango de ley, pero ha sufrido una nueva derrota en la senda de déficit, que ha sido la votación de mayor calado político de la jornada porque es el paso previo para poder pre.
-
-Date: 2026-07-23
-
-### Sánchez instó a Zapatero a hablar en TVE para reducir la presión sobre el Gobierno por el rescate de Plus Ultra
-
-El presidente del Gobierno , Pedro Sánchez , instó al expresidente del Ejecutivo, José Luis Rodríguez Zapatero , a comparecer públicamente para dar explicaciones y proclamar su inocencia en TVE , según han confirmado fuentes del entorno del presidente a OKDIARIO . Según estas mismas fuentes, ambos siguen manteniendo un.
-
-Date: 2026-07-23
-
-### Denuncia contra David Sánchez Pérez-Castejón ante el Tribunal de Cuentas para que devuelva las nóminas que cobró en la Diputación de Badajoz
-
-Una de las acusaciones particulares, Iustitia Europa, quiere que tanto el hermano del presidente del Gobierno como su amigo de Moncloa devuelvan los ingresos públicos que recibieron tras no requerirlos ni la Diputación de Badajoz ni la Fiscalía Leer.
-
-Date: 2026-07-23
-
 ## Fuentes
 
-- [La UE suspende al Gobierno por la financiación de partidos políticos y la desregulación del 'lobby'](https://www.elconfidencial.com/espana/2026-07-24/ue-suspende-gobierno-financiacion-partidos-politicos-desregulacion-lobby_4393034/?utm_source=lootura.com) — 2026-07-24T03:00:00.000Z
+- [Sánchez advierte de la "situación dramática" por los incendios: "Sigamos las indicaciones y evitemos riesgos"](https://www.20minutos.es/nacional/sanchez-advierte-situacion-dramatica-por-los-incendios-sigamos-las-indicaciones-evitemos-riesgos_7018483_0.html?utm_source=lootura.com) — 2026-07-24T08:38:42.000Z
+- [Manu Sánchez escucha las explicaciones de Zapatero en TVE y es tajante con el expresidente del Gobierno: «Este rojo ya no llora más por ti»](https://www.abc.es/play/television/noticias/manu-sanchez-escucha-explicaciones-zapatero-tve-tajante-20260724105332-nt.html?utm_source=lootura.com) — 2026-07-24T08:53:32.000Z
+- [Sánchez pide ayuda a la UE para luchar contra los incendios](https://www.abc.es/sociedad/sanchez-pide-ayuda-union-europea-luchar-incendios-20260724105908-nt.html?utm_source=lootura.com) — 2026-07-24T09:10:29.000Z
+- [España pide ayuda a la UE y moviliza a 1000 militares y efectivos de otras comunidades para atajar los incendios de Madrid y Ávila](https://www.eldiario.es/sociedad/espana-pide-ayuda-ue-moviliza-1000-militares-efectivos-comunidades-atajar-incendios-madrid-avila_1_13403814.html?utm_source=lootura.com) — 2026-07-24T08:40:12.000Z

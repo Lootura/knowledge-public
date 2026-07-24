@@ -3,10 +3,16 @@
 > Follow Venezuela, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-23T02:31:30.185Z
+- Updated: 2026-07-24T10:14:29.742Z
 - Canonical: https://atlas.lootura.com/us/place/venezuela
 
 ## Recent changes
+
+### Venezuela’s Earthquakes Show Wealth Divide, Even in Death
+
+Latin America’s deep-seated inequalities prevailed over the grimly equalizing force of the Venezuela earthquakes, and set even the dead apart.
+
+Date: 2026-07-24
 
 ### In Venezuela’s Rubble, a Search for the Family Pets
 
@@ -64,4 +70,4 @@ Date: 2026-07-08
 
 ## Sources
 
-No public source links.
+- [Venezuela’s Earthquakes Show Wealth Divide, Even in Death](https://www.nytimes.com/2026/07/24/world/americas/venezuela-earthquake-dead-costs-la-guaira.html?utm_source=lootura.com) — 2026-07-24T09:02:18.000Z

@@ -3,10 +3,28 @@
 > Sigue la actividad de José Luis Rodríguez Zapatero en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-24T06:23:11.193Z
+- Actualizado: 2026-07-24T10:14:05.930Z
 - Canonical: https://atlas.lootura.com/es/person/rodriguez-zapatero
 
 ## Cambios recientes
+
+### Manu Sánchez escucha las explicaciones de Zapatero en TVE y es tajante con el expresidente del Gobierno: «Este rojo ya no llora más por ti»
+
+Este jueves 23 de julio, José Luis Rodríguez Zapatero ha concedido su primera entrevista desde su imputación por el caso Plus Ultra . El expresidente del Gobierno ha elegido 'Mañaneros 360', el programa de TVE presentador por Javier Ruiz , para defenderse sobre su presunta implicación en la trama corrupta.En la charla,.
+
+Date: 2026-07-24
+
+### Anticorrupción pide ampliar la información de las joyas requisadas a Zapatero
+
+La Fiscalía Anticorrupción ha pedido al juez de la Audiencia Nacional José Luis Calama, que investiga a José Luis Rodríguez Zapatero por contrabando y fraude fiscal, que amplíe la investigación sobre las joyas requisadas al expresidente del Gobierno para determinar cuándo fueron engarzadas . El Ministerio Público ha so.
+
+Date: 2026-07-24
+
+### El juez tumba la nulidad que Zapatero pedía del ‘caso Plus Ultra’ por los registros y el bloqueo de sus cuentas
+
+El juez de la Audiencia Nacional José Luis Calama ha inadmitido a trámite el incidente de nulidad de actuaciones que la defensa de José Luis Rodríguez Zapatero había presentado contra doce resoluciones dictadas en el caso Plus Ultra o caso Zapatero , entre ellas los autos que autorizaron la entrada y registro en la sed.
+
+Date: 2026-07-24
 
 ### Más del 40% de votantes del PSOE no ve creíble a Zapatero y piensa que el Gobierno no debería apoyarle
 
@@ -50,28 +68,8 @@ El expresidente del Gobierno José Luis Rodríguez Zapatero ha dado este jueves 
 
 Date: 2026-07-23
 
-### Entrevista a Zapatero, en ‘Mañaneros 360′: Una clase de periodismo y de pilates
-
-José Luis Rodríguez Zapatero habló por sus cuerdas vocales en la televisión pública, pero también con el cuerpo. Se marcó algo parecido a una clase de pilates mientras Javier Ruiz disparaba las preguntas en una comparecencia que casi nadie esperaba y, sin embargo, a todo el mundo le urgía. Los hombros arriba, junto a l.
-
-Date: 2026-07-23
-
-### Zapatero rechaza aclarar el origen de las joyas: “Son un regalo de cortesía personal”
-
-Ni quién, ni cuándo, ni en qué circunstancias. El expresidente del Gobierno José Luis Rodríguez Zapatero ha rechazado este jueves , durante la entrevista en el programa Mañaneros 360 de TVE, dar explicaciones sobre el origen de las acerca de 80 joyas que fueron encontradas el pasado 19 de mayo en una caja fuerte durant.
-
-Date: 2026-07-23
-
-### Las siete claves de la entrevista de José Luis Rodríguez Zapatero en Mañaneros en vídeo
-
-El expresidente del Gobierno rompe su silencio sobre las acusaciones relacionadas con el caso Plus Ultra en una entrevista concedida al programa Mañaneros de TVE.
-
-Date: 2026-07-23
-
 ## Fuentes
 
-- [Más del 40% de votantes del PSOE no ve creíble a Zapatero y piensa que el Gobierno no debería apoyarle](https://www.20minutos.es/nacional/mas-40-votantes-socialistas-no-ve-creible-zapatero-piensa-que-gobierno-no-deberia-apoyarle_7017831_0.html?utm_source=lootura.com) — 2026-07-24T03:00:00.000Z
-- [Zapatero dice que no tuvo datos del rescate de Plus Ultra pero no explica por qué 'Julito' supo que se aprobaría 11 días antes](https://www.20minutos.es/nacional/zapatero-dice-que-no-tuvo-informacion-rescate-plus-ultra-pero-no-explica-por-que-julito-supo-que-se-aprobaria-11-dias-antes_7018319_0.html?utm_source=lootura.com) — 2026-07-24T03:00:00.000Z
-- [Zapatero no aclara el origen de las joyas y niega su implicación en Plus Ultra](https://www.abc.es/espana/zapatero-reafirma-inocencia-aclara-origen-joyas-regalo-20260723131048-nt.html?utm_source=lootura.com) — 2026-07-24T04:57:10.000Z
-- [Anticorrupción pide ampliar el análisis de las joyas de Zapatero para averiguar la fecha exacta de su montaje](https://amp.elmundo.es/espana/2026/07/23/6a625e4bfc6c83151b8b4586.html?utm_source=lootura.com) — 2026-07-23T20:50:02.000Z
-- [Los cinco indicios sin respuesta tras las declaraciones de Zapatero en su entrevista en RTVE](https://amp.elmundo.es/espana/2026/07/23/6a6258c521efa0175f8b4580.html?utm_source=lootura.com) — 2026-07-23T20:49:45.000Z
+- [Manu Sánchez escucha las explicaciones de Zapatero en TVE y es tajante con el expresidente del Gobierno: «Este rojo ya no llora más por ti»](https://www.abc.es/play/television/noticias/manu-sanchez-escucha-explicaciones-zapatero-tve-tajante-20260724105332-nt.html?utm_source=lootura.com) — 2026-07-24T08:53:32.000Z
+- [Anticorrupción pide ampliar la información de las joyas requisadas a Zapatero](https://www.abc.es/espana/anticorrupcion-pide-ampliar-informacion-joyas-requisadas-zapatero-20260724105723-nt.html?utm_source=lootura.com) — 2026-07-24T09:27:32.000Z
+- [El juez tumba la nulidad que Zapatero pedía del ‘caso Plus Ultra’ por los registros y el bloqueo de sus cuentas](https://okdiario.com/espana/juez-tumba-nulidad-que-zapatero-pedia-del-caso-plus-ultra-registros-bloqueo-sus-cuentas-19061110?utm_source=lootura.com) — 2026-07-24T10:08:00.000Z

@@ -3,10 +3,16 @@
 > Follow Getty Images, a tracked company, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: company
-- Updated: 2026-07-23T13:51:24.628Z
+- Updated: 2026-07-24T10:14:29.742Z
 - Canonical: https://atlas.lootura.com/us/company/getty-images
 
 ## Recent changes
+
+### Meet Me in the Notes App
+
+—NurPhoto—Getty Images “What’s the oldest note in your phone?” my younger sister asked, in the same tone one might use to share gossip. She was explaining what she called “notes app digest,” rereading notes like a kind of personal magazine of one’s own insight and nonsense. I immediately scrolled. For better or worse,.
+
+Date: 2026-07-24
 
 ### Tick Bites Are Causing Red-Meat Allergies. What to Know About Alpha-Gal Syndrome
 
@@ -62,12 +68,6 @@ We've all engaged in a little 'gossip.' But did you know its origins were tied t
 
 Date: 2026-07-16
 
-### The political risks from war in Iran. And, ICE's use of force is rising, report finds
-
-The political implications the war in Iran is having on the GOP. And, a new report has found that ICE officers' use of force is not rare since President Trump took office for his second term. (Image credit: -/AFP via Getty Images).
-
-Date: 2026-07-16
-
 ## Sources
 
-No public source links.
+- [Meet Me in the Notes App](https://time.com/article/2026/07/24/meet-me-in-the-notes-app/?utm_source=lootura.com) — 2026-07-24T10:00:04.000Z

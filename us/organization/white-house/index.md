@@ -3,10 +3,16 @@
 > Follow White House, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-07-24T06:23:31.535Z
+- Updated: 2026-07-24T10:14:29.742Z
 - Canonical: https://atlas.lootura.com/us/organization/white-house
 
 ## Recent changes
+
+### The Artist Matthew Taylor Is Helping Trump Reshape Washington
+
+Matthew Taylor, a conceptual artist and political strategist, made influential ads and documentaries produced by Steve Bannon. Now he’s assisting the White House.
+
+Date: 2026-07-24
 
 ### The White House pushes healthy eating. It cut a landmark nutrition education program
 
@@ -62,12 +68,7 @@ Despite the heightened environment, the Secret Service says it’s confident in 
 
 Date: 2026-07-22
 
-### Smithsonian too focused on 'oppressors and the oppressed,' say House Republicans
-
-In a House DOGE subcommittee hearing, GOP representatives excoriated the director of the National Museum of American History, following a White House report earlier this month that also criticized her. (Image credit: Andrew Harnik).
-
-Date: 2026-07-21
-
 ## Sources
 
-- [The White House pushes healthy eating. It cut a landmark nutrition education program](https://www.npr.org/2026/07/23/nx-s1-5896280/snap-ed-healthy-eating-cuts-maha?utm_source=lootura.com) — 2026-07-23T09:00:00.000Z
+- [Trump and Thune Clash Over SAVE America Act](https://www.nytimes.com/2026/07/23/us/politics/trump-thune-senate-election-bill.html?utm_source=lootura.com) — 2026-07-23T21:39:07.000Z
+- [The Artist Matthew Taylor Is Helping Trump Reshape Washington](https://www.nytimes.com/2026/07/24/arts/design/matthew-taylor-artist-filmmaker-trump-washington.html?utm_source=lootura.com) — 2026-07-24T09:00:16.000Z

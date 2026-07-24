@@ -3,10 +3,16 @@
 > Sigue la actividad de Alberto Núñez Feijóo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-24T02:28:09.478Z
+- Actualizado: 2026-07-24T10:14:05.930Z
 - Canonical: https://atlas.lootura.com/es/person/alberto-nunez-feijoo
 
 ## Cambios recientes
+
+### Morant niega que comparara a Feijóo con Hitler: fue un paralelismo sobre «políticas racistas»
+
+La ministra de Ciencia y Universidades y líder del PSPV, Diana Morant , ha asegurado este viernes que no comparó al presidente del Partido Popular, Alberto Núñez Feijóo, con Hitler , sino que quería realizar «un paralelismo» para señalar que «los gobiernos nazis empezaron también con políticas racistas y xenófobas» com.
+
+Date: 2026-07-24
 
 ### Sánchez, a Feijóo: "Se le ha olvidado que hay unas elecciones de por medio, y ya veremos"
 
@@ -62,12 +68,6 @@ Alberto Núñez Feijóo empezó su balance del curso político sentenciando que 
 
 Date: 2026-07-22
 
-### Feijóo da por hecha su llegada a Moncloa sin esperar a las elecciones: "Será una limpieza a fondo"
-
-"La zona cero de la corrupción es la Moncloa y el señor X es Sánchez", afirma el líder del PP en su comparecencia de balance de fin de curso en la que anuncia que enmendará todas las políticas del Gobierno progresista El PP de Feijóo promete una ambiciosa contrarreforma legal con recortes en derechos sociales si llega.
-
-Date: 2026-07-22
-
 ## Fuentes
 
-No public source links.
+- [Morant niega que comparara a Feijóo con Hitler: fue un paralelismo sobre «políticas racistas»](https://theobjective.com/espana/politica/2026-07-24/morant-feijoo-hitler-politicas-racistas/?utm_source=lootura.com) — 2026-07-24T10:09:06.000Z

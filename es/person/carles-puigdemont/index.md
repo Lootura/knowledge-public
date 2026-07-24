@@ -3,10 +3,16 @@
 > Sigue la actividad de Carles Puigdemont Casamajó en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-22T21:08:41.543Z
+- Actualizado: 2026-07-24T10:14:05.930Z
 - Canonical: https://atlas.lootura.com/es/person/carles-puigdemont
 
 ## Cambios recientes
+
+### Salvador Illa pide al Tribunal de Cuentas, por escrito, que aplique ya la amnistía en los gastos del 1-O y la acción exterior del 'procés'
+
+Entre la treintena de altos cargos encausados están Carles Puigdemont, Artur Mas, Oriol Junqueras y Jordi Turull Leer.
+
+Date: 2026-07-24
 
 ### Bruselas rechaza mediar en la ley de amnistía: «Corresponde a los tribunales españoles»
 
@@ -62,12 +68,6 @@ Sin movimiento en la Plaza de la Villa de París . Ni el instructor del Tribunal
 
 Date: 2026-07-17
 
-### Junts fía su futuro electoral al regreso de Puigdemont
-
-Ayer, el Tribunal de Justicia de la Unión Europea (TJUE) dio un auténtico espaldarazo a la Ley de Amnistía y allanó el camino, aunque todavía queda una parte por recorrer, para el regreso a España de Carles Puigdemont . Desde Junts se anotaron así una importante victoria política y vendieron en sus círculos que habían.
-
-Date: 2026-07-17
-
 ## Fuentes
 
-No public source links.
+- [Salvador Illa pide al Tribunal de Cuentas, por escrito, que aplique ya la amnistía en los gastos del 1-O y la acción exterior del 'procés'](https://www.elmundo.es/cataluna/2026/07/24/6a632dd5fdddff7e218b458d.html?utm_source=lootura.com) — 2026-07-24T10:07:20.000Z

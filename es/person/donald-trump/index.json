@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/donald-trump/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/donald-trump/index.json",
   "description": "Sigue la actividad de Donald Trump en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-24T06:23:11.193Z",
+  "updatedAt": "2026-07-24T10:14:05.930Z",
   "aliases": [
     "@realDonaldTrump",
     "DJT",
@@ -25,16 +25,6 @@
   ],
   "changes": [
     {
-      "title": "24 estados demandan al Gobierno de Trump por ligar fondos a cooperar en inmigración",
-      "summary": "Acusan al Ejecutivo de «obligar a los estados a modificar sus procedimientos electorales».",
-      "date": "2026-07-24"
-    },
-    {
-      "title": "Trump afirma que «todo daño» a buques será pagado con «fondos iraníes»",
-      "summary": "El presidente de Estados Unidos, Donald Trump , ha afirmado que todo daño causado a buques y cargamentos —presumiblemente en el estrecho de Ormuz, aunque ha responsabilizado a Teherán de los ataques de los rebeldes hutíes de Yemen a embarcaciones en el mar Rojo—, «será pagado con fondos iraníes que Estados Unidos tiene.",
-      "date": "2026-07-24"
-    },
-    {
       "title": "Trump impone un sistema comercial caótico en su tercera ronda arancelaria",
       "summary": "Como Sísifo empujando la roca en la montaña, Donald Trump reconstruye una barrera arancelaria una y otra vez pese a los continuos reveses de los tribunales. El presidente estadounidense ha levantado un muro amorfo, caótico y repleto de agujeros con la tercera ronda de aranceles. Seguir leyendo.",
       "date": "2026-07-24"
@@ -42,6 +32,26 @@
     {
       "title": "Trump intenta reconstruir su muro proteccionista con aranceles del 10 y el 12% a más de 60 socios comerciales, incluyendo la UE",
       "summary": "Tras la decisión del Tribunal Supremo, que en febrero declaró ilegales los gravámenes aplicados con una ley de emergencia económica, Washington aplica un nuevo recargo amparándose en legislación sobre trabajos forzosos Leer.",
+      "date": "2026-07-24"
+    },
+    {
+      "title": "Bruselas valora \"positivamente\" los nuevos aranceles de Trump del 10% porque \"se ajustan\" al acuerdo de Turnberry",
+      "summary": "El acuerdo que la UE y EEUU alcanzaron hace justamente un año planteaba una tasa general máxima del 15%. La Comisión cree que la decisión del magnate \"aporta un impulso positivo para seguir trabajando en la búsqueda de nuevas exenciones\" Leer.",
+      "date": "2026-07-24"
+    },
+    {
+      "title": "El petróleo alcanza los 100 dólares mientras Trump sopesa un 'ataque masivo'",
+      "summary": "El precio del petróleo superó los 100 dólares por barril por primera vez desde mayo, mientras que las acciones y los bonos estadounidenses cayeron después de que Donald Trump declarase que estaba sopesando un \"ataque masivo\" contra Irán y las tensiones escalasen en Oriente Próximo. Seguir leyendo.",
+      "date": "2026-07-24"
+    },
+    {
+      "title": "24 estados demandan al Gobierno de Trump por ligar fondos a cooperar en inmigración",
+      "summary": "Acusan al Ejecutivo de «obligar a los estados a modificar sus procedimientos electorales».",
+      "date": "2026-07-24"
+    },
+    {
+      "title": "Trump afirma que «todo daño» a buques será pagado con «fondos iraníes»",
+      "summary": "El presidente de Estados Unidos, Donald Trump , ha afirmado que todo daño causado a buques y cargamentos —presumiblemente en el estrecho de Ormuz, aunque ha responsabilizado a Teherán de los ataques de los rebeldes hutíes de Yemen a embarcaciones en el mar Rojo—, «será pagado con fondos iraníes que Estados Unidos tiene.",
       "date": "2026-07-24"
     },
     {
@@ -63,16 +73,6 @@
       "title": "Trump activa este viernes una nueva tanda de aranceles globales del 10% al 12,5% a más de 60 países",
       "summary": "Donald Trump ha terminado por desplegar la artillería para su nueva batalla comercial. Estados Unidos estrenará este viernes una nueva oleada de aranceles, de entre el 10% y el 12,5%, sobre los productos de más de 60 países para sustituir a las tarifas generales del 10% que impuso después de que la Justicia estadounide.",
       "date": "2026-07-23"
-    },
-    {
-      "title": "Donald Trump anuncia aranceles de hasta el 12,5% a 60 países, entre ellos España",
-      "summary": "La Administración del presidente de Estados Unidos , Donald Trump , ha anunciado este jueves nuevos aranceles de entre el 10% y el 12,5% a las importaciones procedentes de 60 países, entre ellos España. El presidente justifica la medida en una investigación sobre «esfuerzos insuficientes para combatir el trabajo forzos.",
-      "date": "2026-07-23"
-    },
-    {
-      "title": "Los ataques hutíes en el Mar Rojo, que Trump promete castigar, disparan el petróleo a 100 dólares",
-      "summary": "Lejos de amainar, el conflicto de Oriente Próximo sacude al mundo, las economías nacionales y los mercados con un segundo nuevo frente. Tras una docena de días de nuevas...",
-      "date": "2026-07-23"
     }
   ],
   "sources": [
@@ -89,23 +89,17 @@
       "sourceId": "lootura-es-el-mundo"
     },
     {
-      "title": "Críticas en Brasil, inquietud en Chile y negociación en México ante los nuevos aranceles de Trump",
-      "url": "https://www.larazon.es/internacional/criticas-brasil-inquietud-chile-negociacion-mexico-nuevos-aranceles-trump_202607246a6302bc4687a22bdecad841.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-24T06:14:21.000Z",
-      "sourceId": "lootura-es-la-razon"
+      "title": "Bruselas valora \"positivamente\" los nuevos aranceles de Trump del 10% porque \"se ajustan\" al acuerdo de Turnberry",
+      "url": "https://www.elmundo.es/economia/2026/07/24/6a63193efdddffb82f8b457c.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-24T07:59:34.000Z",
+      "sourceId": "lootura-es-el-mundo"
     },
     {
-      "title": "24 estados demandan al Gobierno de Trump por ligar fondos a cooperar en inmigración",
-      "url": "https://theobjective.com/internacional/2026-07-24/24-estados-gobierno-trump-fondos-cooperar-inmigracion/?amp=&utm_source=lootura.com",
-      "publishedAt": "2026-07-24T00:47:49.000Z",
-      "sourceId": "lootura-es-the-objective"
-    },
-    {
-      "title": "Trump afirma que «todo daño» a buques será pagado con «fondos iraníes»",
-      "url": "https://theobjective.com/internacional/2026-07-24/trump-dano-buques-fondos-iranies/?utm_source=lootura.com",
-      "publishedAt": "2026-07-24T00:22:09.000Z",
-      "sourceId": "lootura-es-the-objective"
+      "title": "El petróleo alcanza los 100 dólares mientras Trump sopesa un 'ataque masivo'",
+      "url": "https://www.expansion.com/economia/financial-times/2026/07/24/6a6317da468aeb031f8b456d.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-24T07:44:47.000Z",
+      "sourceId": "lootura-es-expansion"
     }
   ],
-  "evidenceCount": 5
+  "evidenceCount": 4
 }

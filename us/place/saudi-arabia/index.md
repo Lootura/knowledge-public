@@ -3,10 +3,16 @@
 > Follow Saudi Arabia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-24T06:23:31.535Z
+- Updated: 2026-07-24T10:14:29.742Z
 - Canonical: https://atlas.lootura.com/us/place/saudi-arabia
 
 ## Recent changes
+
+### Israel Welcomes Trump’s Demand for Diplomatic Ties With Saudi Arabia
+
+Israeli officials embraced the possibility of normalized ties, but analysts said the U.S.-Saudi nuclear deal nonetheless remained bad for Israel.
+
+Date: 2026-07-23
 
 ### Funding milestone detected
 
@@ -17,12 +23,6 @@ Date: 2026-07-23
 ### Nuclear Energy Revival Puts Westinghouse in Prime Position
 
 The company, which filed for bankruptcy protection in 2017, stands to benefit from growing support for nuclear power and President Trump’s deal with Saudi Arabia.
-
-Date: 2026-07-23
-
-### Israel Welcomes Trump’s Demand for Diplomatic Ties With Saudi Arabia
-
-Israeli officials embraced the possibility of normalized ties, but analysts said the U.S.-Saudi nuclear deal nonetheless remained bad for Israel.
 
 Date: 2026-07-23
 
@@ -70,6 +70,4 @@ Date: 2026-07-22
 
 ## Sources
 
-- [Morning news brief](https://www.npr.org/2026/07/23/nx-s1-5895984/morning-news-brief?utm_source=lootura.com) — 2026-07-23T08:47:19.000Z
-- [Nuclear Energy Revival Puts Westinghouse in Prime Position](https://www.nytimes.com/2026/07/23/business/energy-environment/westinghouse-nuclear-energy-trump-saudi-arabia.html?utm_source=lootura.com) — 2026-07-23T15:26:07.000Z
 - [Israel Welcomes Trump’s Demand for Diplomatic Ties With Saudi Arabia](https://www.nytimes.com/2026/07/23/us/politics/israel-saudi-arabia-us-nuclear-deal.html?utm_source=lootura.com) — 2026-07-23T17:56:27.000Z

@@ -3,10 +3,16 @@
 > Sigue la actividad de Irán en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-24T06:23:11.193Z
+- Actualizado: 2026-07-24T10:14:05.930Z
 - Canonical: https://atlas.lootura.com/es/place/iran
 
 ## Cambios recientes
+
+### El petróleo alcanza los 100 dólares mientras Trump sopesa un 'ataque masivo'
+
+El precio del petróleo superó los 100 dólares por barril por primera vez desde mayo, mientras que las acciones y los bonos estadounidenses cayeron después de que Donald Trump declarase que estaba sopesando un "ataque masivo" contra Irán y las tensiones escalasen en Oriente Próximo. Seguir leyendo.
+
+Date: 2026-07-24
 
 ### Las constructoras dejan desiertas 1.130 obras tras la guerra en Irán por la subida de precios
 
@@ -62,14 +68,7 @@ El precio del petróleo se acerca a los 100 dólares el barril y el del gas en E
 
 Date: 2026-07-23
 
-### El Gobierno salva el escudo anticrisis por la guerra en Irán con rebajas fiscales en los carburantes hasta octubre
-
-El Ejecutivo ata los apoyos de sus socios habituales pese a las críticas de algunos como Podemos, que cuestionan las rebajas fiscales mientras energéticas como Repsol disparan sus beneficios PSOE y Sumar pactan que el decreto de vivienda incluya una prórroga de los alquileres hasta julio de 2028 El Gobierno ha salvado.
-
-Date: 2026-07-23
-
 ## Fuentes
 
-- [Las constructoras dejan desiertas 1.130 obras tras la guerra en Irán por la subida de precios](https://www.abc.es/economia/constructoras-dejan-desiertas-1130-obras-tras-guerra-20260723134116-nt.html?utm_source=lootura.com) — 2026-07-24T04:57:17.000Z
-- [La parálisis en Ormuz y los ataques hutíes en el mar Rojo amenazan con llevar el petróleo a los 120 dólares](https://elpais.com/economia/2026-07-24/la-paralisis-en-ormuz-y-los-ataques-huties-en-el-mar-rojo-amenazan-con-llevar-el-petroleo-a-los-120-dolares.html?utm_source=lootura.com) — 2026-07-24T03:25:00.000Z
 - [El BCE mantiene los tipos y anticipa una nueva subida en septiembre si la guerra en Irán persiste](https://www.elcorreo.com/economia/bce-mantiene-tipos-anticipa-nueva-subida-septiembre-20260723141530-ntrc_amp.html?utm_source=lootura.com) — 2026-07-23T12:16:09.000Z
+- [El petróleo alcanza los 100 dólares mientras Trump sopesa un 'ataque masivo'](https://www.expansion.com/economia/financial-times/2026/07/24/6a6317da468aeb031f8b456d.html?utm_source=lootura.com) — 2026-07-24T07:44:47.000Z

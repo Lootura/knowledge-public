@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/nato/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/nato/index.json",
   "description": "Follow NATO, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-14T09:56:10.561Z",
+  "updatedAt": "2026-07-24T10:14:29.742Z",
   "aliases": [
     "NATO Alliance",
     "North Atlantic Alliance",
@@ -18,6 +18,11 @@
     "Organización del Tratado del Atlántico Norte"
   ],
   "changes": [
+    {
+      "title": "NATO spending pressure returned",
+      "summary": "President Donald Trump and NATO Secretary General Mark Rutte at the NATO Summit in Ankara, Turkey, on July 8, 2026. —Klaudia Radecka-NurPhoto via Getty Images The portents were not good. Before departing for the recent NATO summit in Ankara, President Donald Trump took to Truth Social to berate the alliance. He posted.",
+      "date": "2026-07-24"
+    },
     {
       "title": "NATO spending pressure returned",
       "summary": "U.S. President Donald Trump holds a press conference at Beştepe Presidential Compound during the NATO Summit in Ankara, Türkiye, on July 8, 2026. —Chris McGrath—Getty Images President Donald Trump announced Monday that he will deliver a “Speech to the Nation” on Thursday evening, though details of exactly what he’ll di.",
@@ -62,13 +67,15 @@
       "title": "NATO spending pressure returned",
       "summary": "President Trump flew partway home from a NATO summit on an old Air Force One plane instead of the new Qatari-gifted plane, a surprise swap that came as the U.S. and Iran began trading strikes again. (Image credit: Alex Brandon).",
       "date": "2026-07-09"
-    },
-    {
-      "title": "NATO spending pressure returned",
-      "summary": "President Trump wrapped the NATO summit in Turkey on a positive note Wednesday, appearing more favorable towards Ukraine than usual. CBS News contributor Niall Ferguson joins to discuss the summit, Mr. Trump's latest actions in Iran and the Ukraine-Russia war.",
-      "date": "2026-07-09"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "How NATO Is Quietly Reinventing Itself for Trump",
+      "url": "https://time.com/article/2026/07/24/trump-mark-rutte-europe-nato-/?utm_source=lootura.com",
+      "publishedAt": "2026-07-24T10:00:00.000Z",
+      "sourceId": "lootura-us-time"
+    }
+  ],
+  "evidenceCount": 1
 }

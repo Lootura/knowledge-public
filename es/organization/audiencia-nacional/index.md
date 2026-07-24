@@ -3,10 +3,28 @@
 > Sigue la actividad de Audiencia Nacional (España) en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-24T06:23:11.193Z
+- Actualizado: 2026-07-24T10:14:05.930Z
 - Canonical: https://atlas.lootura.com/es/organization/audiencia-nacional
 
 ## Cambios recientes
+
+### Anticorrupción pide ampliar la información de las joyas requisadas a Zapatero
+
+La Fiscalía Anticorrupción ha pedido al juez de la Audiencia Nacional José Luis Calama, que investiga a José Luis Rodríguez Zapatero por contrabando y fraude fiscal, que amplíe la investigación sobre las joyas requisadas al expresidente del Gobierno para determinar cuándo fueron engarzadas . El Ministerio Público ha so.
+
+Date: 2026-07-24
+
+### El juez tumba la nulidad que Zapatero pedía del ‘caso Plus Ultra’ por los registros y el bloqueo de sus cuentas
+
+El juez de la Audiencia Nacional José Luis Calama ha inadmitido a trámite el incidente de nulidad de actuaciones que la defensa de José Luis Rodríguez Zapatero había presentado contra doce resoluciones dictadas en el caso Plus Ultra o caso Zapatero , entre ellas los autos que autorizaron la entrada y registro en la sed.
+
+Date: 2026-07-24
+
+### El juez del ‘caso Koldo’ pide a Hacienda información fiscal de las empresas investigadas
+
+El juez de la Audiencia Nacional que investiga el caso Koldo , Ismael Moreno, ha solicitado a la Agencia Tributaria que remita la «copia completa de los expedientes» de varias empresas «por los i mpuestos devengados en los ejercicios fiscales 2021, 2022 y 2023». Así lo ha hecho en un auto, al que ha tenido acceso Europ.
+
+Date: 2026-07-24
 
 ### Zapatero dice que no tuvo datos del rescate de Plus Ultra pero no explica por qué 'Julito' supo que se aprobaría 11 días antes
 
@@ -50,24 +68,8 @@ La primera entrevista de José Luis Rodríguez Zapatero —en el programa Mañan
 
 Date: 2026-07-23
 
-### "Si Julio Martínez quiere equipararse a Aldama, tiene que aportar más"
-
-La anunciada colaboración con la Justicia del empresario Julio Martínez, clave en la supuesta trama de tráfico de influencias en torno a José Luis Rodríguez Zapatero, dejó el pasado martes entre las acusaciones un cierto sabor agridulce. «Julito» llegó a la Audiencia Nacional con la vitola de su confesión por escrito d.
-
-Date: 2026-07-23
-
-### El juez amplía la investigación patrimonial de Santos Cerdán a las cuentas de su mujer, su hija, su hermana y su cuñado
-
-El juez del caso Koldo en la Audiencia Nacional ha extendido la investigación patrimonial en torno a Santos Cerdán a su mujer, su hija, su hermana y su cuñado. Ismael Moreno ha...
-
-Date: 2026-07-22
-
-### Fernández Díaz alega que se busca condenarlo en Kitchen “por razón” de su cargo de ministro
-
-Jorge Fernández Díaz, ministro del Interior de 2011 a 2016 y hombre de confianza del expresidente Mariano Rajoy, ya ha jugado sus cartas en el juicio del caso Kitchen , que se ha reanudado este miércoles en la Audiencia Nacional. Tres meses después del arranque de la vista , su abogado ha expuesto al tribunal su alegat.
-
-Date: 2026-07-22
-
 ## Fuentes
 
-- [Zapatero dice que no tuvo datos del rescate de Plus Ultra pero no explica por qué 'Julito' supo que se aprobaría 11 días antes](https://www.20minutos.es/nacional/zapatero-dice-que-no-tuvo-informacion-rescate-plus-ultra-pero-no-explica-por-que-julito-supo-que-se-aprobaria-11-dias-antes_7018319_0.html?utm_source=lootura.com) — 2026-07-24T03:00:00.000Z
+- [Anticorrupción pide ampliar la información de las joyas requisadas a Zapatero](https://www.abc.es/espana/anticorrupcion-pide-ampliar-informacion-joyas-requisadas-zapatero-20260724105723-nt.html?utm_source=lootura.com) — 2026-07-24T09:27:32.000Z
+- [El juez tumba la nulidad que Zapatero pedía del ‘caso Plus Ultra’ por los registros y el bloqueo de sus cuentas](https://okdiario.com/espana/juez-tumba-nulidad-que-zapatero-pedia-del-caso-plus-ultra-registros-bloqueo-sus-cuentas-19061110?utm_source=lootura.com) — 2026-07-24T10:08:00.000Z
+- [El juez del ‘caso Koldo’ pide a Hacienda información fiscal de las empresas investigadas](https://theobjective.com/espana/tribunales/2026-07-24/juez-caso-koldo-hacienda-empresas-investigadas/?utm_source=lootura.com) — 2026-07-24T10:09:09.000Z

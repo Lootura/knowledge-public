@@ -3,10 +3,28 @@
 > Sigue la actividad de Partido Popular en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-24T02:28:09.478Z
+- Actualizado: 2026-07-24T10:14:05.930Z
 - Canonical: https://atlas.lootura.com/es/organization/partido-popular
 
 ## Cambios recientes
+
+### El PP pide al juez del 'caso Leire' que prohíba a la cúpula de la Guardia Civil dirigir la UCO mientras dure la causa
+
+El partido advierte de que Mercedes González y Manuel Llamas mantienen "el ejercicio pleno de sus funciones y en la superioridad jerárquica sobre la propia unidad cuya labor se investiga si trataron de obstaculizar". Leer.
+
+Date: 2026-07-24
+
+### Morant niega que comparara a Feijóo con Hitler: fue un paralelismo sobre «políticas racistas»
+
+La ministra de Ciencia y Universidades y líder del PSPV, Diana Morant , ha asegurado este viernes que no comparó al presidente del Partido Popular, Alberto Núñez Feijóo, con Hitler , sino que quería realizar «un paralelismo» para señalar que «los gobiernos nazis empezaron también con políticas racistas y xenófobas» com.
+
+Date: 2026-07-24
+
+### Puente critica PP por pedir ayuda a la UME para los incendios mientras «reduce impuestos»
+
+El ministro de Transportes, Óscar Puente , ha arremetido este viernes contra las comunidades autónomas gobernadas por el PP por reclamar la ayuda de la Unidad Militar de Emergencias (UME) para extinguir los incendios forestales mientras reducen impuestos a los ricos. «Luego piden al Gobierno que les resuelva la papelet.
+
+Date: 2026-07-24
 
 ### El PP planta al Gobierno en la Conferencia de Inmigración y le acusa de "deslealtad"
 
@@ -50,24 +68,8 @@ El Congreso ha rechazado este jueves las enmiendas a la totalidad de devolución
 
 Date: 2026-07-23
 
-### El PP denuncia a David Sánchez para que devuelva los 417.000 euros del sueldo que ganó
-
-El PP ha denunciado ante el Tribunal de Cuentas la contratación de David Sánchez en la Diputación de Badajoz y pide que se determine si debe reintegrar hasta 416.798,82 euros por las retribuciones y cotizaciones sociales vinculadas a la plaza que ocupó desde julio de 2017. La denuncia fue presentada por el portavoz pop.
-
-Date: 2026-07-23
-
-### La jubilación parcial del personal laboral de las administraciones sale adelante en el Congreso tras la abstención del PP
-
-La norma permite que los asalariados públicos compatibilicen la reducción de su jornada con el cobro de la pensión y mejoran el complemento de residencia de más de 11.000 empleados públicos en Baleares El Gobierno salva el escudo anticrisis por la guerra en Irán con rebajas fiscales en los carburantes hasta octubre El.
-
-Date: 2026-07-23
-
-### El Congreso rebaja los requisitos para formar grupo propio a petición de los nacionalistas
-
-El Congreso ha aprobado este jueves definitivamente la rebaja de los requisitos para constituir grupo parlamentario propio a propuesta de los partidos nacionalistas y con el apoyo del PSOE , mientras que PP, Vox y UPN han votado en contra. La reforma, impulsada por ERC, Junts, BNG, Compromís y Podemos, mantiene la regl.
-
-Date: 2026-07-23
-
 ## Fuentes
 
-No public source links.
+- [El PP pide al juez del 'caso Leire' que prohíba a la cúpula de la Guardia Civil dirigir la UCO mientras dure la causa](https://www.elmundo.es/espana/2026/07/24/6a632582e9cf4a69018b4588.html?utm_source=lootura.com) — 2026-07-24T08:53:02.000Z
+- [Morant niega que comparara a Feijóo con Hitler: fue un paralelismo sobre «políticas racistas»](https://theobjective.com/espana/politica/2026-07-24/morant-feijoo-hitler-politicas-racistas/?utm_source=lootura.com) — 2026-07-24T10:09:06.000Z
+- [Puente critica PP por pedir ayuda a la UME para los incendios mientras «reduce impuestos»](https://theobjective.com/espana/politica/2026-07-24/puente-critica-pp-ayuda-ume/?utm_source=lootura.com) — 2026-07-24T09:18:59.000Z

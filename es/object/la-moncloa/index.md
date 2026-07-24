@@ -46,4 +46,4 @@ Date: 2026-07-20
 
 ## Fuentes
 
-- ["Decepción" en el PSOE con Zapatero tras su entrevista: "No lo hemos entendido, no ha aclarado nada de las joyas"](https://www.elmundo.es/espana/2026/07/23/6a625f38e4d4d84c798b4596.html?utm_source=lootura.com) — 2026-07-23T20:48:53.000Z
+No public source links.

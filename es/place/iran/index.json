@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/iran/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/iran/index.json",
   "description": "Sigue la actividad de Irán en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-24T06:23:11.193Z",
+  "updatedAt": "2026-07-24T10:14:05.930Z",
   "aliases": [
     "IRI",
     "Islamic Rep. Iran",
@@ -18,6 +18,11 @@
     "ir"
   ],
   "changes": [
+    {
+      "title": "El petróleo alcanza los 100 dólares mientras Trump sopesa un 'ataque masivo'",
+      "summary": "El precio del petróleo superó los 100 dólares por barril por primera vez desde mayo, mientras que las acciones y los bonos estadounidenses cayeron después de que Donald Trump declarase que estaba sopesando un \"ataque masivo\" contra Irán y las tensiones escalasen en Oriente Próximo. Seguir leyendo.",
+      "date": "2026-07-24"
+    },
     {
       "title": "Las constructoras dejan desiertas 1.130 obras tras la guerra en Irán por la subida de precios",
       "summary": "La Confederación Nacional de la Construcción (CNC) denuncia una situación límite en la licitación de obra pública tras el estallido de la guerra en Irán, que ha vuelto a disparar el precio de los materiales para edificar. La patronal de las empresas constructoras ha cifrado hoy en 1.130 el número de concursos que se ha.",
@@ -62,32 +67,21 @@
       "title": "Lagarde mantiene tipos en el 2,25% y deja la siguiente subida para septiembre: “El shock energético puede intensificarse”",
       "summary": "El precio del petróleo se acerca a los 100 dólares el barril y el del gas en Europa se dispara al nivel más alto desde que empezó la guerra de Irán . El coste de la energía vuelve a ser un motivo de preocupación en la zona euro pero el Banco Central Europeo (BCE) ha decidido este jueves no avanzar en las subidas de tip.",
       "date": "2026-07-23"
-    },
-    {
-      "title": "El Gobierno salva el escudo anticrisis por la guerra en Irán con rebajas fiscales en los carburantes hasta octubre",
-      "summary": "El Ejecutivo ata los apoyos de sus socios habituales pese a las críticas de algunos como Podemos, que cuestionan las rebajas fiscales mientras energéticas como Repsol disparan sus beneficios PSOE y Sumar pactan que el decreto de vivienda incluya una prórroga de los alquileres hasta julio de 2028 El Gobierno ha salvado.",
-      "date": "2026-07-23"
     }
   ],
   "sources": [
-    {
-      "title": "Las constructoras dejan desiertas 1.130 obras tras la guerra en Irán por la subida de precios",
-      "url": "https://www.abc.es/economia/constructoras-dejan-desiertas-1130-obras-tras-guerra-20260723134116-nt.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-24T04:57:17.000Z",
-      "sourceId": "lootura-es-abc"
-    },
-    {
-      "title": "La parálisis en Ormuz y los ataques hutíes en el mar Rojo amenazan con llevar el petróleo a los 120 dólares",
-      "url": "https://elpais.com/economia/2026-07-24/la-paralisis-en-ormuz-y-los-ataques-huties-en-el-mar-rojo-amenazan-con-llevar-el-petroleo-a-los-120-dolares.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-24T03:25:00.000Z",
-      "sourceId": "lootura-es-cinco-dias"
-    },
     {
       "title": "El BCE mantiene los tipos y anticipa una nueva subida en septiembre si la guerra en Irán persiste",
       "url": "https://www.elcorreo.com/economia/bce-mantiene-tipos-anticipa-nueva-subida-septiembre-20260723141530-ntrc_amp.html?utm_source=lootura.com",
       "publishedAt": "2026-07-23T12:16:09.000Z",
       "sourceId": "lootura-es-el-correo"
+    },
+    {
+      "title": "El petróleo alcanza los 100 dólares mientras Trump sopesa un 'ataque masivo'",
+      "url": "https://www.expansion.com/economia/financial-times/2026/07/24/6a6317da468aeb031f8b456d.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-24T07:44:47.000Z",
+      "sourceId": "lootura-es-expansion"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 2
 }

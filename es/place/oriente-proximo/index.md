@@ -3,10 +3,22 @@
 > Sigue la actividad de Oriente Próximo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-24T06:23:11.193Z
+- Actualizado: 2026-07-24T10:14:05.930Z
 - Canonical: https://atlas.lootura.com/es/place/oriente-proximo
 
 ## Cambios recientes
+
+### El Ibex rebota con los aranceles, el petróleo y las preocupaciones por la IA en el foco
+
+El reciente alza del precio del petróleo por las tensiones en Oriente Próximo, los aranceles y los resultados de las grandes tecnológicas estadounidenses ante las dudas sobre la rentabilidad de los miles de millones de dólares invertidos en inteligencia artificial han mermado la confianza de los inversores. El riesgo d.
+
+Date: 2026-07-24
+
+### El petróleo alcanza los 100 dólares mientras Trump sopesa un 'ataque masivo'
+
+El precio del petróleo superó los 100 dólares por barril por primera vez desde mayo, mientras que las acciones y los bonos estadounidenses cayeron después de que Donald Trump declarase que estaba sopesando un "ataque masivo" contra Irán y las tensiones escalasen en Oriente Próximo. Seguir leyendo.
+
+Date: 2026-07-24
 
 ### Los aranceles, el petróleo y las preocupaciones por la IA golpean los mercados
 
@@ -56,19 +68,7 @@ Oriente Próximo first entered the public knowledge record with source-backed ev
 
 Date: 2026-07-22
 
-### El Ibex deja de lado la escalada del petróleo y se refugia en los resultados empresariales
-
-Con el conflicto en Oriente Próximo estancado y la amenaza de una interrupción del tráfico marítimo en el mar Rojo sobrevolando los mercados, los inversores están optando por prestar más atención a la temporada de resultados trimestrales. Las Bolsas europeas registran avances moderados pese al deterioro del contexto ge.
-
-Date: 2026-07-22
-
-### El pacto nuclear de EE.UU. con Arabia Saudí hace temer una carrera atómica en Oriente Próximo
-
-Fuentes oficiales de la Casa Blanca han filtrado a los principales medios de prensa anglosajones que el presidente Trump ha cerrado un acuerdo para compartir tecnología nuclear con Arabia Saudí. El plan, que será sometido al Congreso de Estados Unidos para su aprobación, supone un cambio de política radical al no inclu.
-
-Date: 2026-07-22
-
 ## Fuentes
 
-- [Los aranceles, el petróleo y las preocupaciones por la IA golpean los mercados](https://cincodias.elpais.com/mercados-financieros/2026-07-24/la-bolsa-y-el-ibex-35.html?utm_source=lootura.com) — 2026-07-24T04:34:11.000Z
-- [La parálisis en Ormuz y los ataques hutíes en el mar Rojo amenazan con llevar el petróleo a los 120 dólares](https://elpais.com/economia/2026-07-24/la-paralisis-en-ormuz-y-los-ataques-huties-en-el-mar-rojo-amenazan-con-llevar-el-petroleo-a-los-120-dolares.html?utm_source=lootura.com) — 2026-07-24T03:25:00.000Z
+- [El Ibex rebota con los aranceles, el petróleo y las preocupaciones por la IA en el foco](https://cincodias.elpais.com/mercados-financieros/2026-07-24/la-bolsa-y-el-ibex-35.html?utm_source=lootura.com) — 2026-07-24T09:57:37.000Z
+- [El petróleo alcanza los 100 dólares mientras Trump sopesa un 'ataque masivo'](https://www.expansion.com/economia/financial-times/2026/07/24/6a6317da468aeb031f8b456d.html?utm_source=lootura.com) — 2026-07-24T07:44:47.000Z

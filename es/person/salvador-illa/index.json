@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/salvador-illa/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/salvador-illa/index.json",
   "description": "Sigue la actividad de Salvador Illa en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-22T17:15:40.463Z",
+  "updatedAt": "2026-07-24T10:14:05.930Z",
   "aliases": [
     "Salvador",
     "Salvador Illa Roca"
   ],
   "changes": [
+    {
+      "title": "Salvador Illa pide al Tribunal de Cuentas, por escrito, que aplique ya la amnistía en los gastos del 1-O y la acción exterior del 'procés'",
+      "summary": "Entre la treintena de altos cargos encausados están Carles Puigdemont, Artur Mas, Oriol Junqueras y Jordi Turull Leer.",
+      "date": "2026-07-24"
+    },
     {
       "title": "Illa abre una minicrisis en la Generalitat con el relevo de la consellera de Drets Socials",
       "summary": "El presidente catalán Salvador Illa ha abierto una minicrisis en la Generalitat con el relevo de la consellera de Drets Socials, Mònica Martínez Bravo . Según ha adelantado El Periódico de Catalunya , la consellera ha solicitado su marcha a petición propia. Illa ha escogido como sucesor a Raúl Moreno , un experto en ed.",
@@ -45,6 +50,13 @@
       "date": "2026-07-16"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Salvador Illa pide al Tribunal de Cuentas, por escrito, que aplique ya la amnistía en los gastos del 1-O y la acción exterior del 'procés'",
+      "url": "https://www.elmundo.es/cataluna/2026/07/24/6a632dd5fdddff7e218b458d.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-24T10:07:20.000Z",
+      "sourceId": "lootura-es-el-mundo"
+    }
+  ],
+  "evidenceCount": 1
 }

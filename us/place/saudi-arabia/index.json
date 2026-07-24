@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/saudi-arabia/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/saudi-arabia/index.json",
   "description": "Follow Saudi Arabia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-24T06:23:31.535Z",
+  "updatedAt": "2026-07-24T10:14:29.742Z",
   "aliases": [
     "Kingdom of Saudi Arabia",
     "Saudi"
   ],
   "changes": [
+    {
+      "title": "Israel Welcomes Trump’s Demand for Diplomatic Ties With Saudi Arabia",
+      "summary": "Israeli officials embraced the possibility of normalized ties, but analysts said the U.S.-Saudi nuclear deal nonetheless remained bad for Israel.",
+      "date": "2026-07-23"
+    },
     {
       "title": "Funding milestone detected",
       "summary": "Trump administration signs nuclear cooperation agreement with Saudi Arabia, Trump ramps up aggression against Iran despite declining support, House passes Pentagon funding bill.",
@@ -22,11 +27,6 @@
     {
       "title": "Nuclear Energy Revival Puts Westinghouse in Prime Position",
       "summary": "The company, which filed for bankruptcy protection in 2017, stands to benefit from growing support for nuclear power and President Trump’s deal with Saudi Arabia.",
-      "date": "2026-07-23"
-    },
-    {
-      "title": "Israel Welcomes Trump’s Demand for Diplomatic Ties With Saudi Arabia",
-      "summary": "Israeli officials embraced the possibility of normalized ties, but analysts said the U.S.-Saudi nuclear deal nonetheless remained bad for Israel.",
       "date": "2026-07-23"
     },
     {
@@ -67,23 +67,11 @@
   ],
   "sources": [
     {
-      "title": "Morning news brief",
-      "url": "https://www.npr.org/2026/07/23/nx-s1-5895984/morning-news-brief?utm_source=lootura.com",
-      "publishedAt": "2026-07-23T08:47:19.000Z",
-      "sourceId": "lootura-us-npr"
-    },
-    {
-      "title": "Nuclear Energy Revival Puts Westinghouse in Prime Position",
-      "url": "https://www.nytimes.com/2026/07/23/business/energy-environment/westinghouse-nuclear-energy-trump-saudi-arabia.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-23T15:26:07.000Z",
-      "sourceId": "lootura-us-the-new-york-times-politics"
-    },
-    {
       "title": "Israel Welcomes Trump’s Demand for Diplomatic Ties With Saudi Arabia",
       "url": "https://www.nytimes.com/2026/07/23/us/politics/israel-saudi-arabia-us-nuclear-deal.html?utm_source=lootura.com",
       "publishedAt": "2026-07-23T17:56:27.000Z",
       "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 1
 }

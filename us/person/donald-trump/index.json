@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/donald-trump/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/donald-trump/index.json",
   "description": "Follow Donald Trump, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-24T06:23:31.535Z",
+  "updatedAt": "2026-07-24T10:14:29.742Z",
   "aliases": [
     "@realDonaldTrump",
     "DJT",
@@ -50,11 +50,6 @@
       "date": "2026-07-24"
     },
     {
-      "title": "Trump administration imposes new tariffs on dozens of countries, citing forced labor concerns",
-      "summary": "The Trump administration will impose tariffs of up to 12.5% on goods from 60 U.S. trading partners accused of failing to crack down on forced labor, extending the administration's tariffs on much of the world.",
-      "date": "2026-07-24"
-    },
-    {
       "title": "Rubio says U.S. is ready to help end war in Ukraine but no quick deal ahead",
       "summary": "Secretary of State Marco Rubio, who met with his Russian counterpart Sergey Lavrov, said that President Trump was committed to the work \"if conditions and factors have changed to make that possible.\" (Image credit: BRENDAN SMIALOWSKI).",
       "date": "2026-07-24"
@@ -65,17 +60,28 @@
       "date": "2026-07-24"
     },
     {
-      "title": "Trump imposes fresh tariffs on more than 80 countries, drawing protests from US allies and trading partners",
-      "summary": "The new tariffs will replace a 10% global duty set to expire on Friday, and comes as after the US supreme court declared many of the earlier levies were illegal Donald Trump has imposed a fresh round of sweeping tariffs on more than 80 countries to replace a 10% global duty that was due to expire, setting off a wave of.",
+      "title": "Trump’s Global Tariffs: What’s the Latest on the Trade War",
+      "summary": "The president has unveiled a complicated system to forge ahead with his trade war, after the Supreme Court stuck down his original levies.",
       "date": "2026-07-24"
     },
     {
-      "title": "Trump’s Global Tariffs: What’s the Latest on the Trade War",
-      "summary": "The president has unveiled a complicated system to forge ahead with his trade war, after the Supreme Court stuck down his original levies.",
+      "title": "Trump imposes new tariffs on dozens of countries, citing forced labor concerns",
+      "summary": "The Trump administration will impose tariffs of up to 12.5% on goods from 60 U.S. trading partners accused of failing to crack down on forced labor, extending the administration's tariffs on much of the world.",
+      "date": "2026-07-24"
+    },
+    {
+      "title": "Morning news brief",
+      "summary": "U.S.-Iran strikes escalate, affecting global energy markets, Trump imposes double-digit tariffs on dozens of countries, Vigil held in Madison, Wisconsin, for man killed by police.",
       "date": "2026-07-24"
     }
   ],
   "sources": [
+    {
+      "title": "Trump imposes new tariffs on dozens of countries, citing forced labor concerns",
+      "url": "https://www.cbsnews.com/news/trump-tariffs-dozens-countries-forced-labor/?utm_source=lootura.com",
+      "publishedAt": "2026-07-24T05:02:49.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
     {
       "title": "Rapid pace of interceptor and precision-guided weapons use worries Trump admin.",
       "url": "https://www.cbsnews.com/news/interceptor-precision-guided-weapons-use-trump-administration/?utm_source=lootura.com",
@@ -83,21 +89,9 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "Trump administration imposes new tariffs on dozens of countries, citing forced labor concerns",
-      "url": "https://www.cbsnews.com/news/trump-tariffs-dozens-countries-forced-labor/?utm_source=lootura.com",
-      "publishedAt": "2026-07-24T05:02:49.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
-    {
       "title": "U.S. attorney who served for less than an hour suing Trump administration over firing",
       "url": "https://www.cbsnews.com/video/us-attorney-who-served-less-than-hour-suing-trump-administration-over-firing/?utm_source=lootura.com",
       "publishedAt": "2026-07-24T00:26:55.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
-    {
-      "title": "Trump talks plan to prevent ratepayers from shouldering costs of new AI data centers",
-      "url": "https://www.cbsnews.com/video/trump-talks-plan-to-prevent-ratepayers-from-shouldering-costs-of-new-ai-data-centers/?utm_source=lootura.com",
-      "publishedAt": "2026-07-23T20:30:42.000Z",
       "sourceId": "lootura-us-cbs-news"
     },
     {
@@ -109,19 +103,13 @@
     {
       "title": "International PhD students to face strict limits on time in the US",
       "url": "https://www.nature.com/articles/d41586-026-02280-3?utm_source=lootura.com",
-      "publishedAt": "2026-07-24T06:23:35.615Z",
+      "publishedAt": "2026-07-24T10:14:35.542Z",
       "sourceId": "lootura-us-nature"
     },
     {
-      "title": "The White House pushes healthy eating. It cut a landmark nutrition education program",
-      "url": "https://www.npr.org/2026/07/23/nx-s1-5896280/snap-ed-healthy-eating-cuts-maha?utm_source=lootura.com",
-      "publishedAt": "2026-07-23T09:00:00.000Z",
-      "sourceId": "lootura-us-npr"
-    },
-    {
       "title": "Morning news brief",
-      "url": "https://www.npr.org/2026/07/23/nx-s1-5895984/morning-news-brief?utm_source=lootura.com",
-      "publishedAt": "2026-07-23T08:47:19.000Z",
+      "url": "https://www.npr.org/2026/07/24/nx-s1-5895986/morning-news-brief?utm_source=lootura.com",
+      "publishedAt": "2026-07-24T08:45:17.000Z",
       "sourceId": "lootura-us-npr"
     },
     {
@@ -135,7 +123,19 @@
       "url": "https://www.npr.org/2026/07/23/nx-s1-5904435/section-106-review-trump-historic-preservation-council?utm_source=lootura.com",
       "publishedAt": "2026-07-23T20:14:58.000Z",
       "sourceId": "lootura-us-npr-politics"
+    },
+    {
+      "title": "Trump refuses to give up on tariffs - a pillar of his economic legacy",
+      "url": "https://www.npr.org/2026/07/24/nx-s1-5905783/trump-tariff-trade-global-canada?utm_source=lootura.com",
+      "publishedAt": "2026-07-24T09:00:00.000Z",
+      "sourceId": "lootura-us-npr-politics"
+    },
+    {
+      "title": "Rubio says U.S. is ready to help end war in Ukraine but no quick deal ahead",
+      "url": "https://www.npr.org/2026/07/24/g-s1-135405/rubio-ukraine-russia-war?utm_source=lootura.com",
+      "publishedAt": "2026-07-24T05:45:47.000Z",
+      "sourceId": "lootura-us-npr-world"
     }
   ],
-  "evidenceCount": 25
+  "evidenceCount": 24
 }

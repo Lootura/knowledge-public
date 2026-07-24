@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/reino-unido/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/reino-unido/index.json",
   "description": "Sigue la actividad de Reino Unido de Gran Bretaña e Irlanda del Norte en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-24T06:23:11.193Z",
+  "updatedAt": "2026-07-24T10:14:05.930Z",
   "aliases": [
     "El Reino Unido",
     "G B",
@@ -26,6 +26,11 @@
     {
       "title": "Burnham establece una nueva sede del Gobierno de Reino Unido en Manchester",
       "summary": "El nuevo primer ministro de Reino Unido y exalcalde de Mánchester, Andy Burnham, ha anunciado que constituirá en esta ciudad del norte de Inglaterra «la.",
+      "date": "2026-07-24"
+    },
+    {
+      "title": "Letterpaths: un generador gratuito y de código abierto para aprender (o reaprender) caligrafía",
+      "summary": "Letterpaths es una curiosa colección de herramientas gratuitas para aprender y practicar la caligrafía , pensada originalmente para los niños de primaria del Reino Unido, pero perfectamente utilizable y también adaptable al estilo de otras lenguas que no sean la noble lengua de Shakespeare. No hay que registrarse, no t.",
       "date": "2026-07-24"
     },
     {
@@ -67,14 +72,15 @@
       "title": "Iberdrola compra la mayor red de luz de Finlandia por 5.000 millones",
       "summary": "Iberdrola ha alcanzado un acuerdo para adquirir Caruna, la principal compañía de distribución eléctrica de Finlandia, en una transacción que valora el 100% de la empresa en cerca de 5.000 millones de euros, incluyendo su deuda financiera. Es un importe similar al de la compra de ENW en Reino Unido hace dos años. Seguir.",
       "date": "2026-07-21"
-    },
-    {
-      "title": "Francia, al borde de emitir una señal de peligro en el mercado de deuda",
-      "summary": "Mientras muchos analistas están pendientes de las primeras decisiones de Andy Burnham como primer ministro británico , por su posible impacto en el déficit de Reino Unido , algunos inversores miran ya a otro potencial flanco débil en la economía europea: Francia . Seguir leyendo.",
-      "date": "2026-07-21"
     }
   ],
   "sources": [
+    {
+      "title": "Letterpaths: un generador gratuito y de código abierto para aprender (o reaprender) caligrafía",
+      "url": "http://www.microsiervos.com/archivo/arte-y-diseno/letterpaths-generador-gratuito-codigo-abierto-aprender-caligrafia.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-24T09:00:03.000Z",
+      "sourceId": "lootura-es-microsiervos"
+    },
     {
       "title": "Burnham establece una nueva sede del Gobierno de Reino Unido en Manchester",
       "url": "https://theobjective.com/internacional/2026-07-24/burnham-sede-gobierno-reino-unido-manchester/?amp=&utm_source=lootura.com",
@@ -82,5 +88,5 @@
       "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 2
 }

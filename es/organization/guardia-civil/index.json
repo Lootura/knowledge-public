@@ -8,9 +8,19 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/guardia-civil/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/guardia-civil/index.json",
   "description": "Sigue la actividad de Guardia Civil en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-23T02:31:05.539Z",
+  "updatedAt": "2026-07-24T10:14:05.930Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "Las acusaciones populares piden que la directora de la Guardia Civil y el DAO investigados no puedan mandar sobre la UCO",
+      "summary": "Solicitan una batería de cautelares al juez del caso Leire, entre ellas, que no puedan abrir expedientes disciplinarios.",
+      "date": "2026-07-24"
+    },
+    {
+      "title": "El PP pide al juez del 'caso Leire' que prohíba a la cúpula de la Guardia Civil dirigir la UCO mientras dure la causa",
+      "summary": "El partido advierte de que Mercedes González y Manuel Llamas mantienen \"el ejercicio pleno de sus funciones y en la superioridad jerárquica sobre la propia unidad cuya labor se investiga si trataron de obstaculizar\". Leer.",
+      "date": "2026-07-24"
+    },
     {
       "title": "Las imágenes del incendio de Villa del Prado: casas calcinadas y rescates ‘in extremis’ de la Guardia Civil",
       "summary": "Casas y coches completamente calcinados , rescates de la Guardia Civil con el fuego pisando los talones … Es el panorama que deja, esta madrugada del jueves, el incendio forestal iniciado en Almorox (Toledo) y que el viento ha propagado con gran velocidad a la localidad madrileña vecina de Villa del Prado , cuya poblac.",
@@ -50,18 +60,21 @@
       "title": "Dócil Apocado Operativo (DAO)",
       "summary": "La Cartilla de la Guardia Civil , redactada por el duque de Ahumada, nació el 20 de diciembre de 1845 y sigue siendo el referente del cuerpo en el siglo XXI. Arranca con su reconocido artículo 1.º: «El honor ha de ser la principal divisa del Guardia Civil; debe por consiguiente conservarlo sin mancha. Una vez perdido n.",
       "date": "2026-07-20"
-    },
-    {
-      "title": "Detenida por robar a ancianos en sus casas, tras ganarse su confianza, en Colmenar Viejo",
-      "summary": "Agentes de la Guardia Civil han detenido a una mujer por robar presuntamente a ancianos en sus casas tras ganarse su confianza cerca de centros de mayores en Colmenar Viejo. Según recoge la Benemérita en un comunicado, se trata de cinco presuntos delitos, tres de hurto y dos de estafa bancaria, y en algunos casos las v.",
-      "date": "2026-07-19"
-    },
-    {
-      "title": "Mandos de la Guardia Civil denuncian una «alteración» en el sistema de ascensos para sancionar a los generales y coroneles díscolos",
-      "summary": "Todo empezó en agosto de 2018. Apenas dos meses después de la llegada de Pedro Sánchez a Moncloa, el ministro del Interior, Fernando Grande-Marlaska emite la primera orden política contra la Unidad Central Operativa (UCO) de la Guardia Civil : dejar sin fondos reservados a la policía judicial para investigar la corrupc.",
-      "date": "2026-07-19"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Las acusaciones populares piden que la directora de la Guardia Civil y el DAO investigados no puedan mandar sobre la UCO",
+      "url": "https://www.abc.es/espana/acusaciones-populares-piden-directora-guardia-civil-dao-20260724104145-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-24T08:41:45.000Z",
+      "sourceId": "lootura-es-abc"
+    },
+    {
+      "title": "El PP pide al juez del 'caso Leire' que prohíba a la cúpula de la Guardia Civil dirigir la UCO mientras dure la causa",
+      "url": "https://www.elmundo.es/espana/2026/07/24/6a632582e9cf4a69018b4588.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-24T08:53:02.000Z",
+      "sourceId": "lootura-es-el-mundo"
+    }
+  ],
+  "evidenceCount": 2
 }

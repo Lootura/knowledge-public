@@ -3,7 +3,7 @@
 > Sigue la actividad de Estados Unidos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-24T06:23:11.193Z
+- Actualizado: 2026-07-24T10:14:05.930Z
 - Canonical: https://atlas.lootura.com/es/place/united-states
 
 ## Cambios recientes
@@ -70,6 +70,4 @@ Date: 2026-07-23
 
 ## Fuentes
 
-- [Así ven dos artistas españoles en la Casa de América los 250 años de historia de EEUU](https://www.elconfidencial.com/espana/madrid/2026-07-24/democracia-americana-casa-america-madrid_4394813/?utm_source=lootura.com) — 2026-07-24T03:00:00.000Z
-- [Críticas en Brasil, inquietud en Chile y negociación en México ante los nuevos aranceles de Trump](https://www.larazon.es/internacional/criticas-brasil-inquietud-chile-negociacion-mexico-nuevos-aranceles-trump_202607246a6302bc4687a22bdecad841.html?utm_source=lootura.com) — 2026-07-24T06:14:21.000Z
-- [Trump afirma que «todo daño» a buques será pagado con «fondos iraníes»](https://theobjective.com/internacional/2026-07-24/trump-dano-buques-fondos-iranies/?utm_source=lootura.com) — 2026-07-24T00:22:09.000Z
+- [Klopp, la apuesta para hacer resurgir a Alemania](https://www.larazon.es/deportes/klopp-apuesta-hacer-resurgir-alemania_202607246a6337c64687a22bdecb306f.html?utm_source=lootura.com) — 2026-07-24T10:00:38.000Z

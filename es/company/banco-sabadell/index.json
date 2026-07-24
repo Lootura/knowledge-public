@@ -8,17 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/es/company/banco-sabadell/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/company/banco-sabadell/index.json",
   "description": "Sigue la actividad de Banco Sabadell en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-24T06:23:11.193Z",
+  "updatedAt": "2026-07-24T10:14:05.930Z",
   "aliases": [
+    "BANCO DE SABADELL SA",
+    "BANCO DE SABADELL, S.A.",
+    "BSAB",
+    "Banc Sabadell",
     "Banc Sabadell, S.A.",
     "Banco Sabadell, S.A.",
-    "Banc Sabadell",
-    "BANCO DE SABADELL SA",
-    "Sabadell Group",
-    "Bank Sabadell",
     "Banco de Sabadell, S.A. - Systematic Internaliser",
-    "BANCO DE SABADELL, S.A.",
-    "BSAB"
+    "Bank Sabadell",
+    "Sabadell Group"
   ],
   "changes": [
     {
@@ -35,6 +35,11 @@
       "title": "Discovered by Atlas",
       "summary": "Banco Sabadell first entered the public knowledge record with source-backed evidence.",
       "date": "2026-07-24"
+    },
+    {
+      "title": "Sabadell rebota un 4% tras presentar resultados y reducir su capital en 14,97 millones",
+      "summary": "Banco Sabadell se alzaba un 4% en Bolsa en los primeros compases de la apertura de mercado de este viernes tras comunicar que cerró el primer semestre del año con un beneficio neto de 971 millones de euros, un 0,5% menos que en el mismo periodo del año anterior , y aprobar una reducción de su capital social de 14,97 mi.",
+      "date": "2026-07-24"
     }
   ],
   "sources": [
@@ -45,11 +50,17 @@
       "sourceId": "lootura-es-cinco-dias"
     },
     {
+      "title": "Sabadell rebota un 4% tras presentar resultados y reducir su capital en 14,97 millones",
+      "url": "https://theobjective.com/economia/2026-07-24/sabadell-rebota-4-resultados-reducir-capital-14-millones/?utm_source=lootura.com",
+      "publishedAt": "2026-07-24T09:19:16.000Z",
+      "sourceId": "lootura-es-the-objective"
+    },
+    {
       "title": "Banco Sabadell gana 971 millones en el primer semestre, un 0,5% menos",
       "url": "https://theobjective.com/economia/banca/2026-07-24/banco-sabadell-millones/?utm_source=lootura.com",
       "publishedAt": "2026-07-24T05:47:53.000Z",
       "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 3
 }

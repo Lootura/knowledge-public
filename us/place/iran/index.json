@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/iran/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/iran/index.json",
   "description": "Follow Iran, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-24T06:23:31.535Z",
+  "updatedAt": "2026-07-24T10:14:29.742Z",
   "aliases": [
     "IRI",
     "Islamic Rep. Iran",
@@ -32,14 +32,29 @@
       "date": "2026-07-24"
     },
     {
+      "title": "Morning news brief",
+      "summary": "U.S.-Iran strikes escalate, affecting global energy markets, Trump imposes double-digit tariffs on dozens of countries, Vigil held in Madison, Wisconsin, for man killed by police.",
+      "date": "2026-07-24"
+    },
+    {
       "title": "Brent Crude Oil Prices Top $100 as Conflict With Iran Drags On",
       "summary": "Stocks in Asia were down following a sell-off in the U.S. markets over soaring oil prices, rising borrowing costs and worries about the technology industry.",
       "date": "2026-07-24"
     },
     {
-      "title": "Funding milestone detected",
-      "summary": "Trump administration signs nuclear cooperation agreement with Saudi Arabia, Trump ramps up aggression against Iran despite declining support, House passes Pentagon funding bill.",
-      "date": "2026-07-23"
+      "title": "Iran War and Trump’s Tariffs Threaten a Resilient U.S. Economy",
+      "summary": "As renewed fighting with Iran sends oil and gas prices soaring, President Trump has imposed new global tariffs that could push up prices further.",
+      "date": "2026-07-24"
+    },
+    {
+      "title": "‘We’re Trapped in Hell’: Iranians Say Life Is Put On Hold by Months of War",
+      "summary": "Devastated by cycles of violence and economic crisis, many are giving up on work and their futures as the United States batters Iran again.",
+      "date": "2026-07-24"
+    },
+    {
+      "title": "Brent Crude Oil Prices Top $100 as Conflict With Iran Drags On",
+      "summary": "Stocks in Asia were down following a sell-off in the U.S. markets over soaring oil prices, rising borrowing costs and worries about the technology industry.",
+      "date": "2026-07-24"
     },
     {
       "title": "Even as War Rages, Investors Bet Oil Will Be Cheaper in a Few Months",
@@ -49,21 +64,6 @@
     {
       "title": "For a 2nd time, House approves resolution to end the war in Iran in a rebuke to Trump",
       "summary": "Four Republicans joined Democrats to approve the measure. And while it is not legally binding, the resolution represents growing frustration inside Congress over the war. (Image credit: J. Scott Applewhite).",
-      "date": "2026-07-23"
-    },
-    {
-      "title": "Yemen's Houthis attack Saudi tankers in the Red Sea, threatening to widen Iran war",
-      "summary": "As the U.S. carried out a 12th night of strikes across Iran, President Donald Trump threatened \"major military punishment\" against the Houthis if their attacks on ships continue.",
-      "date": "2026-07-23"
-    },
-    {
-      "title": "House Rebukes Trump on Iran in War Powers Vote as Senate Blocks Debate",
-      "summary": "For the second time, a few House Republicans joined Democrats to back a measure calling on the president to seek authorization for the war.",
-      "date": "2026-07-23"
-    },
-    {
-      "title": "House again rebukes Trump over Iran, while similar effort stalls in Senate",
-      "summary": "The House on Thursday voted to direct President Trump to end the war with Iran, after four Republicans joined Democrats to rebuke the president over his handling of the conflict.",
       "date": "2026-07-23"
     }
   ],
@@ -76,8 +76,8 @@
     },
     {
       "title": "Morning news brief",
-      "url": "https://www.npr.org/2026/07/23/nx-s1-5895984/morning-news-brief?utm_source=lootura.com",
-      "publishedAt": "2026-07-23T08:47:19.000Z",
+      "url": "https://www.npr.org/2026/07/24/nx-s1-5895986/morning-news-brief?utm_source=lootura.com",
+      "publishedAt": "2026-07-24T08:45:17.000Z",
       "sourceId": "lootura-us-npr"
     },
     {
@@ -85,12 +85,6 @@
       "url": "https://www.npr.org/2026/07/23/nx-s1-5904515/congress-iran-war-powers-vote?utm_source=lootura.com",
       "publishedAt": "2026-07-23T17:35:02.000Z",
       "sourceId": "lootura-us-npr-politics"
-    },
-    {
-      "title": "Yemen's Houthis attack Saudi tankers in the Red Sea, threatening to widen Iran war",
-      "url": "https://www.pbs.org/newshour/world/yemens-houthis-attack-saudi-tankers-in-the-red-sea-threatening-to-widen-iran-war?utm_source=lootura.com",
-      "publishedAt": "2026-07-23T17:26:28.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
     },
     {
       "title": "A Fallen Soldier’s Angst, Love and Longing to Return Home From the Iran War",
@@ -112,8 +106,14 @@
     },
     {
       "title": "Brent Crude Oil Prices Top $100 as Conflict With Iran Drags On",
-      "url": "https://www.nytimes.com/2026/07/24/technology/oil-prices-global-stocks-shipping.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-24T05:12:38.000Z",
+      "url": "https://www.nytimes.com/2026/07/24/business/oil-prices-global-stocks-shipping.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-24T09:28:16.000Z",
+      "sourceId": "lootura-us-the-new-york-times"
+    },
+    {
+      "title": "Iran War and Trump’s Tariffs Threaten a Resilient U.S. Economy",
+      "url": "https://www.nytimes.com/2026/07/24/business/iran-war-tariffs-economy.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-24T09:05:22.000Z",
       "sourceId": "lootura-us-the-new-york-times"
     },
     {
@@ -121,7 +121,13 @@
       "url": "https://www.nytimes.com/2026/07/23/us/politics/iran-troop-deaths.html?utm_source=lootura.com",
       "publishedAt": "2026-07-24T00:15:18.000Z",
       "sourceId": "lootura-us-the-new-york-times-politics"
+    },
+    {
+      "title": "‘We’re Trapped in Hell’: Iranians Say Life Is Put On Hold by Months of War",
+      "url": "https://www.nytimes.com/2026/07/24/world/middleeast/iran-war-cycle.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-24T09:04:59.000Z",
+      "sourceId": "lootura-us-the-new-york-times-world"
     }
   ],
-  "evidenceCount": 9
+  "evidenceCount": 10
 }

@@ -3,10 +3,22 @@
 > Sigue la actividad de Plus Ultra en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-24T06:23:11.193Z
+- Actualizado: 2026-07-24T10:14:05.930Z
 - Canonical: https://atlas.lootura.com/es/person/plus-ultra
 
 ## Cambios recientes
+
+### Manu Sánchez escucha las explicaciones de Zapatero en TVE y es tajante con el expresidente del Gobierno: «Este rojo ya no llora más por ti»
+
+Este jueves 23 de julio, José Luis Rodríguez Zapatero ha concedido su primera entrevista desde su imputación por el caso Plus Ultra . El expresidente del Gobierno ha elegido 'Mañaneros 360', el programa de TVE presentador por Javier Ruiz , para defenderse sobre su presunta implicación en la trama corrupta.En la charla,.
+
+Date: 2026-07-24
+
+### El juez tumba la nulidad que Zapatero pedía del ‘caso Plus Ultra’ por los registros y el bloqueo de sus cuentas
+
+El juez de la Audiencia Nacional José Luis Calama ha inadmitido a trámite el incidente de nulidad de actuaciones que la defensa de José Luis Rodríguez Zapatero había presentado contra doce resoluciones dictadas en el caso Plus Ultra o caso Zapatero , entre ellas los autos que autorizaron la entrada y registro en la sed.
+
+Date: 2026-07-24
 
 ### Zapatero dice que no tuvo datos del rescate de Plus Ultra pero no explica por qué 'Julito' supo que se aprobaría 11 días antes
 
@@ -56,22 +68,7 @@ La primera entrevista de José Luis Rodríguez Zapatero —en el programa Mañan
 
 Date: 2026-07-23
 
-### Aagesen critica que la trama recibiera información privilegiada del rescate de Plus Ultra: "La filtración no debió ocurrir"
-
-La vicepresidenta tercera concede una primera crítica en el Gobierno a lo ocurrido con la aerolínea y da a entender que ella no filtró nada a Zapatero o Martínez Leer.
-
-Date: 2026-07-23
-
-### El PNV sostiene que Zapatero «no ha aclarado nada» y que habrá que esperar al juicio
-
-La portavoz afirma que la entrevista «no ha aportado nada» y emplaza al juicio para conocer detalles del 'caso Plus Ultra'.
-
-Date: 2026-07-23
-
 ## Fuentes
 
-- [Zapatero dice que no tuvo datos del rescate de Plus Ultra pero no explica por qué 'Julito' supo que se aprobaría 11 días antes](https://www.20minutos.es/nacional/zapatero-dice-que-no-tuvo-informacion-rescate-plus-ultra-pero-no-explica-por-que-julito-supo-que-se-aprobaria-11-dias-antes_7018319_0.html?utm_source=lootura.com) — 2026-07-24T03:00:00.000Z
-- [Zapatero no aclara el origen de las joyas y niega su implicación en Plus Ultra](https://www.abc.es/espana/zapatero-reafirma-inocencia-aclara-origen-joyas-regalo-20260723131048-nt.html?utm_source=lootura.com) — 2026-07-24T04:57:10.000Z
-- [Los dos directivos de Plus Ultra complican la nulidad del caso al usar en su defensa los mensajes de móvil que discute Zapatero](https://www.eldebate.com/espana/20260724/dos-directivos-plus-ultra-complican-nulidad-caso-usar-defensa-mensajes-movil-impugna-zapatero_443106.html?utm_source=lootura.com) — 2026-07-24T04:19:59.000Z
-- [La filtración a Plus Ultra del 26-F: tres protagonistas la confirman, Aagesen la critica y Zapatero afirma que él no fue el autor](https://www.elmundo.es/espana/2026/07/23/6a624d3be9cf4a667e8b4593.html?utm_source=lootura.com) — 2026-07-23T20:49:29.000Z
-- [Los cinco indicios sin respuesta tras las declaraciones de Zapatero en su entrevista en RTVE](https://amp.elmundo.es/espana/2026/07/23/6a6258c521efa0175f8b4580.html?utm_source=lootura.com) — 2026-07-23T20:49:45.000Z
+- [Manu Sánchez escucha las explicaciones de Zapatero en TVE y es tajante con el expresidente del Gobierno: «Este rojo ya no llora más por ti»](https://www.abc.es/play/television/noticias/manu-sanchez-escucha-explicaciones-zapatero-tve-tajante-20260724105332-nt.html?utm_source=lootura.com) — 2026-07-24T08:53:32.000Z
+- [El juez tumba la nulidad que Zapatero pedía del ‘caso Plus Ultra’ por los registros y el bloqueo de sus cuentas](https://okdiario.com/espana/juez-tumba-nulidad-que-zapatero-pedia-del-caso-plus-ultra-registros-bloqueo-sus-cuentas-19061110?utm_source=lootura.com) — 2026-07-24T10:08:00.000Z

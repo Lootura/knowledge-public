@@ -52,4 +52,4 @@ Date: 2026-07-21
 
 ## Fuentes
 
-- [Golpe del Consejo de Estado a la ley anticorrupción de Bolaños: duda que sirva para luchar contra el fraude](https://www.elconfidencial.com/espana/2026-07-24/golpe-consejo-estado-ley-anticorrupcion-bolanos-fraude_4395171/?utm_source=lootura.com) — 2026-07-24T03:00:00.000Z
+No public source links.

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/white-house/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/white-house/index.json",
   "description": "Follow White House, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-24T06:23:31.535Z",
+  "updatedAt": "2026-07-24T10:14:29.742Z",
   "aliases": [
     "1600 Pennsylvania Avenue",
     "Executive Mansion",
@@ -18,6 +18,11 @@
     "the White House"
   ],
   "changes": [
+    {
+      "title": "The Artist Matthew Taylor Is Helping Trump Reshape Washington",
+      "summary": "Matthew Taylor, a conceptual artist and political strategist, made influential ads and documentaries produced by Steve Bannon. Now he’s assisting the White House.",
+      "date": "2026-07-24"
+    },
     {
       "title": "The White House pushes healthy eating. It cut a landmark nutrition education program",
       "summary": "Nutrition advocates and public health experts are mystified by the decision to eliminate SNAP-Ed, given the Trump administration's embrace of the Make America Healthy Again agenda. (Image credit: Rachel Wisniewski for NPR).",
@@ -62,19 +67,20 @@
       "title": "‘Off the charts’: Secret Service describes rising threats to protectees",
       "summary": "Despite the heightened environment, the Secret Service says it’s confident in plans for the rescheduled White House Correspondents’ Association dinner.",
       "date": "2026-07-22"
-    },
-    {
-      "title": "Smithsonian too focused on 'oppressors and the oppressed,' say House Republicans",
-      "summary": "In a House DOGE subcommittee hearing, GOP representatives excoriated the director of the National Museum of American History, following a White House report earlier this month that also criticized her. (Image credit: Andrew Harnik).",
-      "date": "2026-07-21"
     }
   ],
   "sources": [
     {
-      "title": "The White House pushes healthy eating. It cut a landmark nutrition education program",
-      "url": "https://www.npr.org/2026/07/23/nx-s1-5896280/snap-ed-healthy-eating-cuts-maha?utm_source=lootura.com",
-      "publishedAt": "2026-07-23T09:00:00.000Z",
-      "sourceId": "lootura-us-npr"
+      "title": "Trump and Thune Clash Over SAVE America Act",
+      "url": "https://www.nytimes.com/2026/07/23/us/politics/trump-thune-senate-election-bill.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-23T21:39:07.000Z",
+      "sourceId": "lootura-us-the-new-york-times-politics"
+    },
+    {
+      "title": "The Artist Matthew Taylor Is Helping Trump Reshape Washington",
+      "url": "https://www.nytimes.com/2026/07/24/arts/design/matthew-taylor-artist-filmmaker-trump-washington.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-24T09:00:16.000Z",
+      "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
   "evidenceCount": 1

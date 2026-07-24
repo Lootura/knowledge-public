@@ -3,10 +3,22 @@
 > Sigue la actividad de Guardia Civil en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-23T02:31:05.539Z
+- Actualizado: 2026-07-24T10:14:05.930Z
 - Canonical: https://atlas.lootura.com/es/organization/guardia-civil
 
 ## Cambios recientes
+
+### Las acusaciones populares piden que la directora de la Guardia Civil y el DAO investigados no puedan mandar sobre la UCO
+
+Solicitan una batería de cautelares al juez del caso Leire, entre ellas, que no puedan abrir expedientes disciplinarios.
+
+Date: 2026-07-24
+
+### El PP pide al juez del 'caso Leire' que prohíba a la cúpula de la Guardia Civil dirigir la UCO mientras dure la causa
+
+El partido advierte de que Mercedes González y Manuel Llamas mantienen "el ejercicio pleno de sus funciones y en la superioridad jerárquica sobre la propia unidad cuya labor se investiga si trataron de obstaculizar". Leer.
+
+Date: 2026-07-24
 
 ### Las imágenes del incendio de Villa del Prado: casas calcinadas y rescates ‘in extremis’ de la Guardia Civil
 
@@ -56,18 +68,7 @@ La Cartilla de la Guardia Civil , redactada por el duque de Ahumada, nació el 2
 
 Date: 2026-07-20
 
-### Detenida por robar a ancianos en sus casas, tras ganarse su confianza, en Colmenar Viejo
-
-Agentes de la Guardia Civil han detenido a una mujer por robar presuntamente a ancianos en sus casas tras ganarse su confianza cerca de centros de mayores en Colmenar Viejo. Según recoge la Benemérita en un comunicado, se trata de cinco presuntos delitos, tres de hurto y dos de estafa bancaria, y en algunos casos las v.
-
-Date: 2026-07-19
-
-### Mandos de la Guardia Civil denuncian una «alteración» en el sistema de ascensos para sancionar a los generales y coroneles díscolos
-
-Todo empezó en agosto de 2018. Apenas dos meses después de la llegada de Pedro Sánchez a Moncloa, el ministro del Interior, Fernando Grande-Marlaska emite la primera orden política contra la Unidad Central Operativa (UCO) de la Guardia Civil : dejar sin fondos reservados a la policía judicial para investigar la corrupc.
-
-Date: 2026-07-19
-
 ## Fuentes
 
-No public source links.
+- [Las acusaciones populares piden que la directora de la Guardia Civil y el DAO investigados no puedan mandar sobre la UCO](https://www.abc.es/espana/acusaciones-populares-piden-directora-guardia-civil-dao-20260724104145-nt.html?utm_source=lootura.com) — 2026-07-24T08:41:45.000Z
+- [El PP pide al juez del 'caso Leire' que prohíba a la cúpula de la Guardia Civil dirigir la UCO mientras dure la causa](https://www.elmundo.es/espana/2026/07/24/6a632582e9cf4a69018b4588.html?utm_source=lootura.com) — 2026-07-24T08:53:02.000Z

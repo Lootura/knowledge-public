@@ -3,10 +3,16 @@
 > Follow Canada, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-23T10:20:24.199Z
+- Updated: 2026-07-24T10:14:29.742Z
 - Canonical: https://atlas.lootura.com/us/place/canada
 
 ## Recent changes
+
+### As Canada Opens Gordie Howe International Bridge, Americans Are Told to Stay Home
+
+After a delay ordered by President Trump and new tariffs against Canada, the bridge between Windsor, Ontario, and Detroit opens in “underwhelming” fashion on Friday.
+
+Date: 2026-07-24
 
 ### Trump’s 50% Tariffs on Canada: What to Know, and What’s Next
 
@@ -62,12 +68,6 @@ Christopher Nolan’s nearly three-hour epic was No. 1 over the weekend, with ab
 
 Date: 2026-07-19
 
-### Are workplaces safer? Harassment and violence persist, survey finds
-
-A follow-up national survey developed by Western researchers shows workplace harassment and violence continue to be widespread in Canada, with some signs of improvement. The second national survey on harassment and violence at work in Canada was conducted by Western's Center for Research and Education on Violence Again.
-
-Date: 2026-07-19
-
 ## Sources
 
-No public source links.
+- [As Canada Opens Gordie Howe International Bridge, Americans Are Told to Stay Home](https://www.nytimes.com/2026/07/24/world/canada/canada-gordie-howe-bridge-trump.html?utm_source=lootura.com) — 2026-07-24T09:05:17.000Z

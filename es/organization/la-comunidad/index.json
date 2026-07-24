@@ -8,12 +8,22 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/la-comunidad/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/la-comunidad/index.json",
   "description": "Sigue la actividad de La comunidad en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-24T06:23:11.193Z",
+  "updatedAt": "2026-07-24T10:14:05.930Z",
   "aliases": [
     "Common Wealth",
     "Comunidad"
   ],
   "changes": [
+    {
+      "title": "La Comunidad de Madrid moviliza autobuses para evacuar a unos 5.000 vecinos afectados por los incendios",
+      "summary": "La Comunidad de Madrid ha activado autobuses interurbanos del Consorcio Regional de Transportes (CRTM) para colaborar con los servicios de emergencia en las labores de evacuación, que a lo largo de esta noche han llegado a trasladar a unos 5.000 vecinos de los municipios afectados por los incendios forestales que perma.",
+      "date": "2026-07-24"
+    },
+    {
+      "title": "Los incendios de Madrid obligan a evacuar Navas del Rey, Chapinería y Colmenar del Arroyo",
+      "summary": "La Comunidad de Madrid ha ordenado la evacuación de los municipios de Navas del Rey, Chapinería y Colmenar del Arroyo ante el avance de los incendios forestales que afectan al oeste de la región. La decisión se ha adoptado siguiendo las recomendaciones de los servicios de emergencia, después de que la evolución de los.",
+      "date": "2026-07-24"
+    },
     {
       "title": "Discovered by Atlas",
       "summary": "La comunidad first entered the public knowledge record with source-backed evidence.",
@@ -37,17 +47,17 @@
   ],
   "sources": [
     {
-      "title": "El Gobierno de Madrid pide a La Moncloa que tome el control ante la evolución de los incendios",
-      "url": "https://elpais.com/espana/madrid/2026-07-23/madrid-registra-un-tercer-incendio-que-obliga-a-evacuar-una-urbanizacion-y-un-centro-residencial.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-23T17:02:53.000Z",
-      "sourceId": "lootura-es-el-pais"
+      "title": "La Comunidad de Madrid moviliza autobuses para evacuar a unos 5.000 vecinos afectados por los incendios",
+      "url": "https://www.20minutos.es/madrid/comunidad-madrid-moviliza-autobuses-para-evacuar-unos-5-000-vecinos-afectados-por-los-incendios_7018495_0.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-24T08:44:47.000Z",
+      "sourceId": "lootura-es-20minutos"
     },
     {
-      "title": "Suspendido el servicio de cinco líneas de interurbanos en Madrid por los incendios",
-      "url": "https://theobjective.com/espana/madrid/2026-07-24/suspendido-servicio-interurbanos-madrid-incendios/?utm_source=lootura.com",
-      "publishedAt": "2026-07-23T23:04:49.000Z",
-      "sourceId": "lootura-es-the-objective"
+      "title": "Los incendios de Madrid obligan a evacuar Navas del Rey, Chapinería y Colmenar del Arroyo",
+      "url": "https://www.larazon.es/madrid/incendios-madrid-obligan-evacuar-navas-rey-chapineria-colmenar-arroyo_202607246a6337bcaa17c0020f2d4c9b.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-24T10:00:28.000Z",
+      "sourceId": "lootura-es-la-razon"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 2
 }

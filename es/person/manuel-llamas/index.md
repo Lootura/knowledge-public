@@ -3,10 +3,16 @@
 > Sigue la actividad de Manuel Llamas en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-18T09:22:10.056Z
+- Actualizado: 2026-07-24T10:14:05.930Z
 - Canonical: https://atlas.lootura.com/es/person/manuel-llamas
 
 ## Cambios recientes
+
+### El PP pide al juez del 'caso Leire' que prohíba a la cúpula de la Guardia Civil dirigir la UCO mientras dure la causa
+
+El partido advierte de que Mercedes González y Manuel Llamas mantienen "el ejercicio pleno de sus funciones y en la superioridad jerárquica sobre la propia unidad cuya labor se investiga si trataron de obstaculizar". Leer.
+
+Date: 2026-07-24
 
 ### El DAO de la Guardia Civil insinúa en el Senado que la UCO peca de «vanidad», «exceso de protagonismo» y «proactividad tóxica»
 
@@ -62,12 +68,6 @@ Nunca antes en la historia de la Guardia Civil un general de división había pr
 
 Date: 2026-07-16
 
-### El jefe operativo de la Guardia Civil niega presiones a la UCO en las investigaciones que afectan al Gobierno
-
-El teniente general Manuel Llamas, número dos de la Guardia Civil en su condición de director adjunto operativo (DAO), ha negado este jueves ante el juez Santiago Pedraz, instructor del llamado caso Leire, que él hubiera pedido a los agentes de la Unidad Central Operativa (UCO) que se “pusieran de perfil” en las invest.
-
-Date: 2026-07-16
-
 ## Fuentes
 
-No public source links.
+- [El PP pide al juez del 'caso Leire' que prohíba a la cúpula de la Guardia Civil dirigir la UCO mientras dure la causa](https://www.elmundo.es/espana/2026/07/24/6a632582e9cf4a69018b4588.html?utm_source=lootura.com) — 2026-07-24T08:53:02.000Z

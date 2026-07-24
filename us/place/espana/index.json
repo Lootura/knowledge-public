@@ -8,17 +8,31 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/espana/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/espana/index.json",
   "description": "Follow Spain, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-21T21:06:38.270Z",
+  "updatedAt": "2026-07-24T10:14:29.742Z",
   "aliases": [
-    "Estado español"
+    "Estado español",
+    "España",
+    "Kingdom of Spain"
   ],
   "changes": [
+    {
+      "title": "Faced With Heat and Wildfires, France Turns to Spain to Learn How to Cope",
+      "summary": "A French government delegation will travel to its southern neighbor to learn how it copes with long spells of hot weather.",
+      "date": "2026-07-24"
+    },
     {
       "title": "Discovered by Atlas",
       "summary": "España first entered the public knowledge record with source-backed evidence.",
       "date": "2026-07-09"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Faced With Heat and Wildfires, France Turns to Spain to Learn How to Cope",
+      "url": "https://www.nytimes.com/2026/07/24/world/europe/france-spain-climate-heat-wildfires.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-24T08:43:46.000Z",
+      "sourceId": "lootura-us-the-new-york-times-world"
+    }
+  ],
+  "evidenceCount": 1
 }

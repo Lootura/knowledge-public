@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/new-york/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/new-york/index.json",
   "description": "Follow New York City, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-24T06:23:31.535Z",
+  "updatedAt": "2026-07-24T10:14:29.742Z",
   "aliases": [
     "Capital of the World",
     "Center of the Universe",
@@ -85,12 +85,6 @@
     }
   ],
   "sources": [
-    {
-      "title": "NYPD says dozens rescued from human trafficking during World Cup",
-      "url": "https://www.cbsnews.com/news/nypd-says-dozens-rescued-from-human-trafficking-during-world-cup/?utm_source=lootura.com",
-      "publishedAt": "2026-07-23T17:17:28.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
     {
       "title": "Stabbings near New York City’s Central Park",
       "url": "https://www.nbcnews.com/nightly-news/video/stabbings-near-new-york-city-s-central-park-267194437527?utm_source=lootura.com",

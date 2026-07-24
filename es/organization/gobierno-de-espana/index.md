@@ -70,4 +70,4 @@ Date: 2026-07-12
 
 ## Fuentes
 
-- [El Gobierno declara la emergencia nacional en la Comunidad de Madrid y en Ávila por cuatro incendios](https://elpais.com/espana/2026-07-23/el-gobierno-declara-la-emergencia-nacional-en-la-comunidad-de-madrid-y-en-avila-por-los-incendios.html?utm_source=lootura.com) — 2026-07-24T00:10:33.000Z
+No public source links.

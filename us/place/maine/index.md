@@ -70,4 +70,4 @@ Date: 2026-07-20
 
 ## Sources
 
-- [Amid a big hiring push, police experts question ICE officer vetting](https://www.npr.org/2026/07/23/nx-s1-5903173/police-experts-question-ice-officer-vetting?utm_source=lootura.com) — 2026-07-23T09:00:00.000Z
+No public source links.

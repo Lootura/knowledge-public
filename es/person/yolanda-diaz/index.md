@@ -3,7 +3,7 @@
 > Sigue la actividad de Yolanda Díaz en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-24T06:23:11.193Z
+- Actualizado: 2026-07-24T10:14:05.930Z
 - Canonical: https://atlas.lootura.com/es/person/yolanda-diaz
 
 ## Cambios recientes

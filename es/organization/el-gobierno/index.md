@@ -2,11 +2,35 @@
 
 > Sigue la actividad de El Gobierno en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
-- Type: person
-- Actualizado: 2026-07-24T06:23:11.193Z
+- Type: organization
+- Actualizado: 2026-07-24T10:14:05.930Z
 - Canonical: https://atlas.lootura.com/es/organization/el-gobierno
 
 ## Cambios recientes
+
+### Economía y Trabajo pactan llevar el registro horario a septiembre para salvar las objeciones del Consejo de Estado
+
+Las dos vicepresidencias se dan el verano para cerrar los últimos flecos del real decreto que prevé endurecer el registro horario, tras unos informes consultivos demoledores con la norma El Gobierno propone a la vicepresidenta Yolanda Díaz como candidata a dirigir la OIT Los vicepresidentes Carlos Cuerpo y Yolanda Díaz.
+
+Date: 2026-07-24
+
+### "Nos enfrentamos a una importante amenaza": el Ejecutivo de Ayuso pidió en una escueta carta al Gobierno que declarara la emergencia nacional
+
+El consejero Novillo pidió la activación del Sistema Nacional de Protección Civil, "requiriendo el empleo de los medios y recursos nacionales o europeos que sean necesarios", en una misiva a la que ha tenido acceso elDiario.es El Gobierno declara la emergencia nacional en la Comunidad de Madrid y Ávila por los incendio.
+
+Date: 2026-07-24
+
+### FOTOS | Los incendios que asolan Madrid y Ávila, en imágenes
+
+El fuego ha obligado a decretar la emergencia nacional y a evacuar a más de 11.000 personas El Gobierno declara la emergencia nacional en la Comunidad de Madrid y Ávila por los incendios El ministro del Interior, Fernando Grande-Marlaska, declaró este jueves por la noche la emergencia de interés nacional en la Comunida.
+
+Date: 2026-07-24
+
+### El Gobierno catalán y los Comuns pactan una ley para convertir oficinas en VPO
+
+La consejera de Territorio, Vivienda y Transición Ecológica de la Generalitat, Sílvia Paneque, y la líder de los Comuns en el Parlamento, Jéssica Albiach, han presentado una proposición de ley para reconvertir oficinas y locales comerciales en viviendas de protección oficial (VPO), y para aumentar la edificabilidad de.
+
+Date: 2026-07-24
 
 ### El Gobierno declara la emergencia nacional en la Comunidad de Madrid y en Ávila por cuatro incendios
 
@@ -23,12 +47,6 @@ Date: 2026-07-24
 ### El Gobierno activará los Presupuestos pese al rechazo de la senda fiscal y abrirá un escenario insólito en España
 
 El guion estaba escrito y nadie ha querido improvisar. El Congreso de los Diputados ha rechazado este jueves por segunda vez la senda de estabilidad propuesta por el Gobierno, el documento que fija los objetivos de déficit de las Administraciones públicas y que es condición necesaria para poder presentar unos Presupues.
-
-Date: 2026-07-24
-
-### Economía y Trabajo pactan llevar el registro horario a septiembre para salvar las objeciones del Consejo de Estado
-
-Las dos vicepresidencias se dan el verano para cerrar los últimos flecos del real decreto que prevé endurecer el registro horario, tras unos informes consultivos demoledores con la norma El Gobierno propone a la vicepresidenta Yolanda Díaz como candidata a dirigir la OIT Los vicepresidentes Carlos Cuerpo y Yolanda Díaz.
 
 Date: 2026-07-24
 
@@ -50,31 +68,10 @@ Despejada la incógnita sobre el futuro político de Yolanda Díaz, que, tras cl
 
 Date: 2026-07-24
 
-### Última hora de los incendios forestales, en directo | El Gobierno cuestiona la petición de Ayuso: “Tienen que explicar y justificar esa solicitud”
-
-El delegado del Gobierno en Madrid, Francisco Martín Aguirre, ha cuestionado la petición de la presidenta regional, Isabel Díaz Ayuso, para que se declare el nivel 3 de emergencia de interés nacional por la gravedad y simultaneidad de los incendios que están activos en tres comunidades. “Tienen que explicar y justifica.
-
-Date: 2026-07-23
-
-### El Gobierno salva por ahora la quita autonómica pero no avanza con los Presupuestos
-
-El Congreso se fue de vacaciones este jueves con un maratoniano pleno cuya conclusión se presta a la ambivalencia del vaso medio lleno o medio vacío. Tras un periodo de sesiones en la cuerda floja por la creciente hostilidad de una mayoría de la Cámara , el Gobierno pudo completar un balance vistoso: se aprobaron tres.
-
-Date: 2026-07-23
-
-### El Gobierno y el PSOE cierran filas con Zapatero y aseguran que probará su inocencia
-
-El Gobierno y la dirección del PSOE reiteran su respaldo a José Luis Rodríguez Zapatero tras las explicaciones que el expresidente ha dado en RTVE, donde ha defendido su inocencia sin aportar ninguna información nueva a la que ya había declarado a mediados de junio ante el juez José Luis Calama de la Audiencia Nacional.
-
-Date: 2026-07-23
-
 ## Fuentes
 
-- [El Gobierno retrasa la aprobación del registro horario pese al ultimátum de los sindicatos y dice que lo tramitará en septiembre](https://elpais.com/economia/2026-07-24/el-gobierno-retrasa-la-aprobacion-del-registro-horario-pese-al-ultimatum-de-los-sindicatos.html?utm_source=lootura.com) — 2026-07-24T03:45:00.000Z
-- [El Gobierno activará los Presupuestos pese al rechazo de la senda fiscal y abrirá un escenario insólito en España](https://elpais.com/economia/2026-07-24/el-gobierno-activara-los-presupuestos-pese-al-rechazo-de-la-senda-fiscal-y-abrira-un-escenario-insolito-en-espana.html?utm_source=lootura.com) — 2026-07-24T03:45:00.000Z
-- [Última hora de los incendios forestales, en directo | El Gobierno cuestiona la petición de Ayuso: “Tienen que explicar y justificar esa solicitud”](https://elpais.com/espana/2026-07-23/ultima-hora-de-los-incendios-forestales-en-directo.html?utm_source=lootura.com) — 2026-07-23T20:53:08.000Z
-- [El Gobierno declara la emergencia nacional en la Comunidad de Madrid y en Ávila por cuatro incendios](https://elpais.com/espana/2026-07-23/el-gobierno-declara-la-emergencia-nacional-en-la-comunidad-de-madrid-y-en-avila-por-los-incendios.html?utm_source=lootura.com) — 2026-07-24T00:10:33.000Z
-- [El Gobierno salva por ahora la quita autonómica pero no avanza con los Presupuestos](https://elpais.com/espana/2026-07-23/el-gobierno-salva-por-ahora-la-quita-autonomica-pero-no-avanza-con-los-presupuestos.html?utm_source=lootura.com) — 2026-07-23T19:00:04.000Z
+- [Los tres incendios que arrasan Madrid siguen ardiendo sin control: “Sopla mucho viento, va a ser un día muy peligroso”](https://elpais.com/espana/madrid/2026-07-24/los-tres-incendios-que-arrasan-madrid-siguen-ardiendo-sin-control.html?utm_source=lootura.com) — 2026-07-24T06:18:52.000Z
+- ["Nos enfrentamos a una importante amenaza": el Ejecutivo de Ayuso pidió en una escueta carta al Gobierno que declarara la emergencia nacional](https://www.eldiario.es/madrid/enfrentamos-importante-amenaza-ejecutivo-ayuso-pidio-carta-gobierno-declarara-emergencia-nacional_1_13403750.html?utm_source=lootura.com) — 2026-07-24T08:19:21.000Z
+- [FOTOS | Los incendios que asolan Madrid y Ávila, en imágenes](https://www.eldiario.es/sociedad/fotos-incendios-asolan-madrid-avila-imagenes_3_13403965.html?utm_source=lootura.com) — 2026-07-24T09:23:01.000Z
 - [Economía y Trabajo pactan llevar el registro horario a septiembre para salvar las objeciones del Consejo de Estado](https://www.eldiario.es/economia/economia-trabajo-pactan-llevar-registro-horario-septiembre-salvar-objeciones-consejo_1_13403321.html?utm_source=lootura.com) — 2026-07-24T06:00:03.000Z
-- [Última hora sobre los incendios en España: Interior asume la dirección de la lucha contra el fuego en Madrid y Ávila](https://www.eldiario.es/sociedad/ultima-hora-incendios-espana-interior-asume-direccion-lucha-fuego-madrid-avila_133_13403506.html?utm_source=lootura.com) — 2026-07-24T05:18:05.000Z
-- [Críticas en Brasil, inquietud en Chile y negociación en México ante los nuevos aranceles de Trump](https://www.larazon.es/internacional/criticas-brasil-inquietud-chile-negociacion-mexico-nuevos-aranceles-trump_202607246a6302bc4687a22bdecad841.html?utm_source=lootura.com) — 2026-07-24T06:14:21.000Z
+- [El Gobierno catalán y los Comuns pactan una ley para convertir oficinas en VPO](https://theobjective.com/espana/politica/2026-07-24/gobierno-catalan-comuns-ley-oficinas-vpo/?utm_source=lootura.com) — 2026-07-24T09:19:13.000Z

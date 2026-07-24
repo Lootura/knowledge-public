@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/audiencia-nacional/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/audiencia-nacional/index.json",
   "description": "Sigue la actividad de Audiencia Nacional (España) en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-24T06:23:11.193Z",
+  "updatedAt": "2026-07-24T10:14:05.930Z",
   "aliases": [
     "Audiencia Nacional (Espana)",
     "Audiencia Nacional (España)",
@@ -21,6 +21,21 @@
     "La Audiencia Nacional"
   ],
   "changes": [
+    {
+      "title": "Anticorrupción pide ampliar la información de las joyas requisadas a Zapatero",
+      "summary": "La Fiscalía Anticorrupción ha pedido al juez de la Audiencia Nacional José Luis Calama, que investiga a José Luis Rodríguez Zapatero por contrabando y fraude fiscal, que amplíe la investigación sobre las joyas requisadas al expresidente del Gobierno para determinar cuándo fueron engarzadas . El Ministerio Público ha so.",
+      "date": "2026-07-24"
+    },
+    {
+      "title": "El juez tumba la nulidad que Zapatero pedía del ‘caso Plus Ultra’ por los registros y el bloqueo de sus cuentas",
+      "summary": "El juez de la Audiencia Nacional José Luis Calama ha inadmitido a trámite el incidente de nulidad de actuaciones que la defensa de José Luis Rodríguez Zapatero había presentado contra doce resoluciones dictadas en el caso Plus Ultra o caso Zapatero , entre ellas los autos que autorizaron la entrada y registro en la sed.",
+      "date": "2026-07-24"
+    },
+    {
+      "title": "El juez del ‘caso Koldo’ pide a Hacienda información fiscal de las empresas investigadas",
+      "summary": "El juez de la Audiencia Nacional que investiga el caso Koldo , Ismael Moreno, ha solicitado a la Agencia Tributaria que remita la «copia completa de los expedientes» de varias empresas «por los i mpuestos devengados en los ejercicios fiscales 2021, 2022 y 2023». Así lo ha hecho en un auto, al que ha tenido acceso Europ.",
+      "date": "2026-07-24"
+    },
     {
       "title": "Zapatero dice que no tuvo datos del rescate de Plus Ultra pero no explica por qué 'Julito' supo que se aprobaría 11 días antes",
       "summary": "El expresidente del Gobierno José Luis Rodríguez Zapatero apareció públicamente este jueves por primera vez desde su imputación y negó todas las presuntas ilegalidades que le atribuye la Audiencia Nacional. No obstante, en muchos puntos de la entrevista que concedió a Televisión Española no logró exponer una versión al.",
@@ -55,30 +70,27 @@
       "title": "Zapatero, sobre el rescate de Plus Ultra: “No es que no influyera, es que no hablé con nadie”",
       "summary": "La primera entrevista de José Luis Rodríguez Zapatero —en el programa Mañaneros de TVE— desde que la Audiencia Nacional le imputó por liderar una trama de tráfico de influencias ilícitas, ha dejado escasas novedades de impacto jurídico. El propio expresidente del Gobierno ha admitido durante la entrevista que, tras dos.",
       "date": "2026-07-23"
-    },
-    {
-      "title": "\"Si Julio Martínez quiere equipararse a Aldama, tiene que aportar más\"",
-      "summary": "La anunciada colaboración con la Justicia del empresario Julio Martínez, clave en la supuesta trama de tráfico de influencias en torno a José Luis Rodríguez Zapatero, dejó el pasado martes entre las acusaciones un cierto sabor agridulce. «Julito» llegó a la Audiencia Nacional con la vitola de su confesión por escrito d.",
-      "date": "2026-07-23"
-    },
-    {
-      "title": "El juez amplía la investigación patrimonial de Santos Cerdán a las cuentas de su mujer, su hija, su hermana y su cuñado",
-      "summary": "El juez del caso Koldo en la Audiencia Nacional ha extendido la investigación patrimonial en torno a Santos Cerdán a su mujer, su hija, su hermana y su cuñado. Ismael Moreno ha...",
-      "date": "2026-07-22"
-    },
-    {
-      "title": "Fernández Díaz alega que se busca condenarlo en Kitchen “por razón” de su cargo de ministro",
-      "summary": "Jorge Fernández Díaz, ministro del Interior de 2011 a 2016 y hombre de confianza del expresidente Mariano Rajoy, ya ha jugado sus cartas en el juicio del caso Kitchen , que se ha reanudado este miércoles en la Audiencia Nacional. Tres meses después del arranque de la vista , su abogado ha expuesto al tribunal su alegat.",
-      "date": "2026-07-22"
     }
   ],
   "sources": [
     {
-      "title": "Zapatero dice que no tuvo datos del rescate de Plus Ultra pero no explica por qué 'Julito' supo que se aprobaría 11 días antes",
-      "url": "https://www.20minutos.es/nacional/zapatero-dice-que-no-tuvo-informacion-rescate-plus-ultra-pero-no-explica-por-que-julito-supo-que-se-aprobaria-11-dias-antes_7018319_0.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-24T03:00:00.000Z",
-      "sourceId": "lootura-es-20minutos"
+      "title": "Anticorrupción pide ampliar la información de las joyas requisadas a Zapatero",
+      "url": "https://www.abc.es/espana/anticorrupcion-pide-ampliar-informacion-joyas-requisadas-zapatero-20260724105723-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-24T09:27:32.000Z",
+      "sourceId": "lootura-es-abc"
+    },
+    {
+      "title": "El juez tumba la nulidad que Zapatero pedía del ‘caso Plus Ultra’ por los registros y el bloqueo de sus cuentas",
+      "url": "https://okdiario.com/espana/juez-tumba-nulidad-que-zapatero-pedia-del-caso-plus-ultra-registros-bloqueo-sus-cuentas-19061110?utm_source=lootura.com",
+      "publishedAt": "2026-07-24T10:08:00.000Z",
+      "sourceId": "lootura-es-ok-diario"
+    },
+    {
+      "title": "El juez del ‘caso Koldo’ pide a Hacienda información fiscal de las empresas investigadas",
+      "url": "https://theobjective.com/espana/tribunales/2026-07-24/juez-caso-koldo-hacienda-empresas-investigadas/?utm_source=lootura.com",
+      "publishedAt": "2026-07-24T10:09:09.000Z",
+      "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 3
 }

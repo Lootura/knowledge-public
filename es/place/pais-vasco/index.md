@@ -3,7 +3,7 @@
 > Sigue la actividad de País Vasco en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-24T06:23:11.193Z
+- Actualizado: 2026-07-24T10:14:05.930Z
 - Canonical: https://atlas.lootura.com/es/place/pais-vasco
 
 ## Cambios recientes
@@ -11,6 +11,12 @@
 ### Ya es oficial: Euskadi y Andalucía recuperan su conexión aérea directa con una nueva ruta entre Bilbao y Granada
 
 La Diputación de Granada adjudica a Vueling un contrato de tres años con 104 frecuencias anuales que pondrá fin a la intermitencia en el enlace e incluirá también la recuperación de los vuelos a Valencia.
+
+Date: 2026-07-24
+
+### Euskadi pierde 2.500 ocupados en el último trimestre y la tasa del paro sube al 6,9%
+
+Los datos del Eustat reflejan un aumento de empleo en la industria y en la construcción que no cubren la caída del sector servicios.
 
 Date: 2026-07-24
 
@@ -62,13 +68,7 @@ Opera por primera vez en Euskadi a lactantes para corregir el estrechamiento ent
 
 Date: 2026-07-18
 
-### El 8,5% de los trabajadores vascos concentra la mitad de todas las bajas médicas en Euskadi
-
-Un extenso informe de la Asociación de Mutuas española constata una «hiperconcentración» de las ausencias por IT en una pequeña porción de personas en el País Vasco.
-
-Date: 2026-07-18
-
 ## Fuentes
 
-- [Rebajan la condena de siete a tres años y medio de cárcel a un vizcaíno por tenencia ilícita de armas y fabricación de munición](https://www.elcorreo.com/bizkaia/condenan-tres-anos-medio-carcel-vecino-bizkaia-20260723114522-nt_amp.html?utm_source=lootura.com) — 2026-07-23T09:45:22.000Z
+- [Euskadi pierde 2.500 ocupados en el último trimestre y la tasa del paro sube al 6,9%](https://www.elcorreo.com/economia/euskadi-pierde-2500-ocupados-ultimo-trimestre-tasa-20260724114355-nt_amp.html?utm_source=lootura.com) — 2026-07-24T09:43:56.000Z
 - [Ya es oficial: Euskadi y Andalucía recuperan su conexión aérea directa con una nueva ruta entre Bilbao y Granada](https://www.diariovasco.com/sociedad/oficial-euskadi-andalucia-recuperan-conexion-aerea-directa-20260724174904-nt_amp.html?utm_source=lootura.com) — 2026-07-24T05:32:40.000Z

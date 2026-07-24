@@ -3,10 +3,16 @@
 > Sigue la actividad de "El Tiburón" en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-24T02:28:09.478Z
+- Actualizado: 2026-07-24T10:14:05.930Z
 - Canonical: https://atlas.lootura.com/es/person/ferran-torres
 
 ## Cambios recientes
+
+### Vandalizan también el mural de Luis de la Fuente en el centro de Barcelona: una bandera independentista y la frase "No olvidamos"
+
+Después de que se vandalizara el mural de Ferran Torres con la Selección Española pintado en una calle del centro de Barcelona, un grupo de independentistas ha vandalizado también el mural de Luis de la Fuente en la capital catalana. En concreto, han pintado una bandera independentista encima de la obra y el lema: "No.
+
+Date: 2026-07-24
 
 ### Linchamiento en redes a Rodri por su «viva España, viva el Rey»
 
@@ -62,12 +68,6 @@ Imposible no recordar Sudáfrica, a Iniesta, a Cesc, la prórroga , el abismo, l
 
 Date: 2026-07-19
 
-### El gol de Ferran vale una carrera y cambia vidas
-
-De Iniesta a Ferran Torres. De Don Andrés al Senyor Ferran. De Fuentealbilla a Foios. De la bota derecha a la bota izquierda. Del Jabulani al Trionda. De Johannesburgo a Nueva York. De un jugador del Barça a otro futbolista blaugrana. La segunda parte de la prórroga volvió a ser roja. Aunque el genio manchego marcase v.
-
-Date: 2026-07-19
-
 ## Fuentes
 
-No public source links.
+- [Vandalizan también el mural de Luis de la Fuente en el centro de Barcelona: una bandera independentista y la frase "No olvidamos"](https://www.larazon.es/cataluna/vandalizan-tambien-mural-luis-fuente-centro-barcelona_202607246a633919aa17c0020f2d4fb1.html?utm_source=lootura.com) — 2026-07-24T10:06:17.000Z

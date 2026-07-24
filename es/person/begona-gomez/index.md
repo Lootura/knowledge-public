@@ -70,4 +70,4 @@ Date: 2026-07-17
 
 ## Fuentes
 
-- [La asesora de Begoña Gómez reprocha al juez que les haga recoger en persona el pasaporte](https://www.elmundo.es/espana/2026/07/23/6a62456ce85ece904a8b4576.html?utm_source=lootura.com) — 2026-07-23T16:49:24.000Z
+No public source links.

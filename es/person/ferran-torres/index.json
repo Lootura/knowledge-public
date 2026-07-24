@@ -8,15 +8,20 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/ferran-torres/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/ferran-torres/index.json",
   "description": "Sigue la actividad de \"El Tiburón\" en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-24T02:28:09.478Z",
+  "updatedAt": "2026-07-24T10:14:05.930Z",
   "aliases": [
     "\"El Tiburón\"",
+    "El Tiburón",
     "Ferran",
     "Ferran Torres García",
-    "Torres",
-    "El Tiburón"
+    "Torres"
   ],
   "changes": [
+    {
+      "title": "Vandalizan también el mural de Luis de la Fuente en el centro de Barcelona: una bandera independentista y la frase \"No olvidamos\"",
+      "summary": "Después de que se vandalizara el mural de Ferran Torres con la Selección Española pintado en una calle del centro de Barcelona, un grupo de independentistas ha vandalizado también el mural de Luis de la Fuente en la capital catalana. En concreto, han pintado una bandera independentista encima de la obra y el lema: \"No.",
+      "date": "2026-07-24"
+    },
     {
       "title": "Linchamiento en redes a Rodri por su «viva España, viva el Rey»",
       "summary": "Aparece vandalizado el mural homenaje en Barcelona a Ferran Torres, otro de los campeones vilipendiado por 'haters' por cuestiones de oportunismo político.",
@@ -61,13 +66,15 @@
       "title": "España habita la eternidad",
       "summary": "Imposible no recordar Sudáfrica, a Iniesta, a Cesc, la prórroga , el abismo, la gloria. Imposible no verlo en este instante de Ferran Torres que sucedió diez minutos antes, el 106 después de años celebrando la leyenda del 116. Porro envió una pelota al área, Nico Williams la dejó atrás con la coronilla y Ferran reventó.",
       "date": "2026-07-19"
-    },
-    {
-      "title": "El gol de Ferran vale una carrera y cambia vidas",
-      "summary": "De Iniesta a Ferran Torres. De Don Andrés al Senyor Ferran. De Fuentealbilla a Foios. De la bota derecha a la bota izquierda. Del Jabulani al Trionda. De Johannesburgo a Nueva York. De un jugador del Barça a otro futbolista blaugrana. La segunda parte de la prórroga volvió a ser roja. Aunque el genio manchego marcase v.",
-      "date": "2026-07-19"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Vandalizan también el mural de Luis de la Fuente en el centro de Barcelona: una bandera independentista y la frase \"No olvidamos\"",
+      "url": "https://www.larazon.es/cataluna/vandalizan-tambien-mural-luis-fuente-centro-barcelona_202607246a633919aa17c0020f2d4fb1.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-24T10:06:17.000Z",
+      "sourceId": "lootura-es-la-razon"
+    }
+  ],
+  "evidenceCount": 1
 }

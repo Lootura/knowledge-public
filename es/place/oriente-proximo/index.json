@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/oriente-proximo/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/oriente-proximo/index.json",
   "description": "Sigue la actividad de Oriente Próximo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-24T06:23:11.193Z",
+  "updatedAt": "2026-07-24T10:14:05.930Z",
   "aliases": [
     "Cercano Oriente",
     "Oriente cercano",
@@ -16,6 +16,16 @@
     "Próximo Oriente"
   ],
   "changes": [
+    {
+      "title": "El Ibex rebota con los aranceles, el petróleo y las preocupaciones por la IA en el foco",
+      "summary": "El reciente alza del precio del petróleo por las tensiones en Oriente Próximo, los aranceles y los resultados de las grandes tecnológicas estadounidenses ante las dudas sobre la rentabilidad de los miles de millones de dólares invertidos en inteligencia artificial han mermado la confianza de los inversores. El riesgo d.",
+      "date": "2026-07-24"
+    },
+    {
+      "title": "El petróleo alcanza los 100 dólares mientras Trump sopesa un 'ataque masivo'",
+      "summary": "El precio del petróleo superó los 100 dólares por barril por primera vez desde mayo, mientras que las acciones y los bonos estadounidenses cayeron después de que Donald Trump declarase que estaba sopesando un \"ataque masivo\" contra Irán y las tensiones escalasen en Oriente Próximo. Seguir leyendo.",
+      "date": "2026-07-24"
+    },
     {
       "title": "Los aranceles, el petróleo y las preocupaciones por la IA golpean los mercados",
       "summary": "El alza del precio del petróleo por las tensiones en Oriente Próximo, los aranceles y los resultados de las grandes tecnológicas estadounidenses ante las dudas sobre la rentabilidad de los miles de millones de dólares invertidos en inteligencia artificial sacuden la confianza de los inversores. El riesgo de inflación (.",
@@ -55,30 +65,20 @@
       "title": "Discovered by Atlas",
       "summary": "Oriente Próximo first entered the public knowledge record with source-backed evidence.",
       "date": "2026-07-22"
-    },
-    {
-      "title": "El Ibex deja de lado la escalada del petróleo y se refugia en los resultados empresariales",
-      "summary": "Con el conflicto en Oriente Próximo estancado y la amenaza de una interrupción del tráfico marítimo en el mar Rojo sobrevolando los mercados, los inversores están optando por prestar más atención a la temporada de resultados trimestrales. Las Bolsas europeas registran avances moderados pese al deterioro del contexto ge.",
-      "date": "2026-07-22"
-    },
-    {
-      "title": "El pacto nuclear de EE.UU. con Arabia Saudí hace temer una carrera atómica en Oriente Próximo",
-      "summary": "Fuentes oficiales de la Casa Blanca han filtrado a los principales medios de prensa anglosajones que el presidente Trump ha cerrado un acuerdo para compartir tecnología nuclear con Arabia Saudí. El plan, que será sometido al Congreso de Estados Unidos para su aprobación, supone un cambio de política radical al no inclu.",
-      "date": "2026-07-22"
     }
   ],
   "sources": [
     {
-      "title": "Los aranceles, el petróleo y las preocupaciones por la IA golpean los mercados",
+      "title": "El Ibex rebota con los aranceles, el petróleo y las preocupaciones por la IA en el foco",
       "url": "https://cincodias.elpais.com/mercados-financieros/2026-07-24/la-bolsa-y-el-ibex-35.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-24T04:34:11.000Z",
+      "publishedAt": "2026-07-24T09:57:37.000Z",
       "sourceId": "lootura-es-cinco-dias"
     },
     {
-      "title": "La parálisis en Ormuz y los ataques hutíes en el mar Rojo amenazan con llevar el petróleo a los 120 dólares",
-      "url": "https://elpais.com/economia/2026-07-24/la-paralisis-en-ormuz-y-los-ataques-huties-en-el-mar-rojo-amenazan-con-llevar-el-petroleo-a-los-120-dolares.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-24T03:25:00.000Z",
-      "sourceId": "lootura-es-cinco-dias"
+      "title": "El petróleo alcanza los 100 dólares mientras Trump sopesa un 'ataque masivo'",
+      "url": "https://www.expansion.com/economia/financial-times/2026/07/24/6a6317da468aeb031f8b456d.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-24T07:44:47.000Z",
+      "sourceId": "lootura-es-expansion"
     }
   ],
   "evidenceCount": 2

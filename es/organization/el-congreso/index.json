@@ -62,25 +62,6 @@
       "date": "2026-07-23"
     }
   ],
-  "sources": [
-    {
-      "title": "El Gobierno activará los Presupuestos pese al rechazo de la senda fiscal y abrirá un escenario insólito en España",
-      "url": "https://elpais.com/economia/2026-07-24/el-gobierno-activara-los-presupuestos-pese-al-rechazo-de-la-senda-fiscal-y-abrira-un-escenario-insolito-en-espana.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-24T03:45:00.000Z",
-      "sourceId": "lootura-es-cinco-dias"
-    },
-    {
-      "title": "El Congreso golpea al Gobierno: tumba la senda fiscal y anticipa la derrota de los Presupuestos y el derrumbe de la legislatura",
-      "url": "https://amp.elmundo.es/espana/2026/07/23/6a625ae8fdddff4a578b45b7.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-23T19:02:11.000Z",
-      "sourceId": "lootura-es-el-mundo"
-    },
-    {
-      "title": "El Gobierno salva por ahora la quita autonómica pero no avanza con los Presupuestos",
-      "url": "https://elpais.com/espana/2026-07-23/el-gobierno-salva-por-ahora-la-quita-autonomica-pero-no-avanza-con-los-presupuestos.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-23T19:00:04.000Z",
-      "sourceId": "lootura-es-el-pais"
-    }
-  ],
-  "evidenceCount": 3
+  "sources": [],
+  "evidenceCount": 0
 }

@@ -3,10 +3,22 @@
 > Sigue la actividad de La comunidad en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-24T06:23:11.193Z
+- Actualizado: 2026-07-24T10:14:05.930Z
 - Canonical: https://atlas.lootura.com/es/organization/la-comunidad
 
 ## Cambios recientes
+
+### La Comunidad de Madrid moviliza autobuses para evacuar a unos 5.000 vecinos afectados por los incendios
+
+La Comunidad de Madrid ha activado autobuses interurbanos del Consorcio Regional de Transportes (CRTM) para colaborar con los servicios de emergencia en las labores de evacuación, que a lo largo de esta noche han llegado a trasladar a unos 5.000 vecinos de los municipios afectados por los incendios forestales que perma.
+
+Date: 2026-07-24
+
+### Los incendios de Madrid obligan a evacuar Navas del Rey, Chapinería y Colmenar del Arroyo
+
+La Comunidad de Madrid ha ordenado la evacuación de los municipios de Navas del Rey, Chapinería y Colmenar del Arroyo ante el avance de los incendios forestales que afectan al oeste de la región. La decisión se ha adoptado siguiendo las recomendaciones de los servicios de emergencia, después de que la evolución de los.
+
+Date: 2026-07-24
 
 ### Discovered by Atlas
 
@@ -34,5 +46,5 @@ Date: 2026-07-23
 
 ## Fuentes
 
-- [El Gobierno de Madrid pide a La Moncloa que tome el control ante la evolución de los incendios](https://elpais.com/espana/madrid/2026-07-23/madrid-registra-un-tercer-incendio-que-obliga-a-evacuar-una-urbanizacion-y-un-centro-residencial.html?utm_source=lootura.com) — 2026-07-23T17:02:53.000Z
-- [Suspendido el servicio de cinco líneas de interurbanos en Madrid por los incendios](https://theobjective.com/espana/madrid/2026-07-24/suspendido-servicio-interurbanos-madrid-incendios/?utm_source=lootura.com) — 2026-07-23T23:04:49.000Z
+- [La Comunidad de Madrid moviliza autobuses para evacuar a unos 5.000 vecinos afectados por los incendios](https://www.20minutos.es/madrid/comunidad-madrid-moviliza-autobuses-para-evacuar-unos-5-000-vecinos-afectados-por-los-incendios_7018495_0.html?utm_source=lootura.com) — 2026-07-24T08:44:47.000Z
+- [Los incendios de Madrid obligan a evacuar Navas del Rey, Chapinería y Colmenar del Arroyo](https://www.larazon.es/madrid/incendios-madrid-obligan-evacuar-navas-rey-chapineria-colmenar-arroyo_202607246a6337bcaa17c0020f2d4c9b.html?utm_source=lootura.com) — 2026-07-24T10:00:28.000Z

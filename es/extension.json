@@ -1,55 +1,42 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-24T06:33:06.743Z",
+  "generatedAt": "2026-07-24T10:24:27.867Z",
   "radar": {
     "id": "es",
     "slug": "es",
     "locale": "es"
   },
   "state": {
-    "signature": "1.18.0|25|1784874191193",
+    "signature": "1.18.0|26|1784888045930",
     "version": "1.18.0",
-    "build": 25,
-    "latestEntityUpdatedAt": "2026-07-24T06:23:11.193Z"
+    "build": 26,
+    "latestEntityUpdatedAt": "2026-07-24T10:14:05.930Z"
   },
   "atlas": {
     "hero": {
       "id": "es-madrid",
       "name": "Madrid",
       "type": "place",
-      "title": "El Gobierno declara la emergencia nacional en la Comunidad de Madrid y en Ávila por cuatro incendios",
+      "title": "Incendios en España y Madrid, en directo: declaran la emergencia nacional y el fuego sigue sin estar perimetrado en la capital y Ávila",
       "url": "https://atlas.lootura.com/es/place/madrid",
       "path": "/es/place/madrid",
-      "updatedAt": "2026-07-24T06:23:11.193Z",
-      "score": 1729,
-      "sourceCount": 331,
+      "updatedAt": "2026-07-24T10:14:05.930Z",
+      "score": 1761,
+      "sourceCount": 349,
       "isBreaking": false,
       "isPinned": false
     },
     "cards": [
       {
-        "id": "es-rodriguez-zapatero",
-        "name": "José Luis Rodríguez Zapatero",
+        "id": "es-pedro-sanchez",
+        "name": "Pedro Sánchez",
         "type": "person",
-        "title": "Más del 40% de votantes del PSOE no ve creíble a Zapatero y piensa que el Gobierno no debería apoyarle",
-        "url": "https://atlas.lootura.com/es/person/rodriguez-zapatero",
-        "path": "/es/person/rodriguez-zapatero",
-        "updatedAt": "2026-07-24T06:23:11.193Z",
-        "score": 1728,
-        "sourceCount": 52,
-        "isBreaking": false,
-        "isPinned": false
-      },
-      {
-        "id": "es-psoe",
-        "name": "Partido Socialista Obrero Español",
-        "type": "organization",
-        "title": "Más del 40% de votantes del PSOE no ve creíble a Zapatero y piensa que el Gobierno no debería apoyarle",
-        "url": "https://atlas.lootura.com/es/organization/psoe",
-        "path": "/es/organization/psoe",
-        "updatedAt": "2026-07-24T06:23:11.193Z",
-        "score": 1675,
-        "sourceCount": 130,
+        "title": "Sánchez pide ayuda a la UE para luchar contra los incendios",
+        "url": "https://atlas.lootura.com/es/person/pedro-sanchez",
+        "path": "/es/person/pedro-sanchez",
+        "updatedAt": "2026-07-24T10:14:05.930Z",
+        "score": 1688,
+        "sourceCount": 233,
         "isBreaking": false,
         "isPinned": false
       },
@@ -60,26 +47,39 @@
         "title": "España se ampara en buscar \"una posición común con la UE\" para guardar silencio sobre Nicaragua",
         "url": "https://atlas.lootura.com/es/place/espana",
         "path": "/es/place/espana",
-        "updatedAt": "2026-07-24T06:23:11.193Z",
-        "score": 1657,
-        "sourceCount": 534,
+        "updatedAt": "2026-07-24T10:14:05.930Z",
+        "score": 1683,
+        "sourceCount": 546,
         "isBreaking": false,
         "isPinned": false
       },
       {
-        "id": "es-audiencia-nacional",
-        "name": "Audiencia Nacional (España)",
+        "id": "es-proteccion-civil",
+        "name": "Protección civil",
+        "type": "concept",
+        "title": "El Gobierno declara la emergencia nacional en la Comunidad de Madrid y en Ávila por cuatro incendios",
+        "url": "https://atlas.lootura.com/es/concept/proteccion-civil",
+        "path": "/es/concept/proteccion-civil",
+        "updatedAt": "2026-07-24T10:14:05.930Z",
+        "score": 1672,
+        "sourceCount": 7,
+        "isBreaking": false,
+        "isPinned": false
+      },
+      {
+        "id": "es-la-comunidad",
+        "name": "La comunidad",
         "type": "organization",
-        "title": "Zapatero dice que no tuvo datos del rescate de Plus Ultra pero no explica por qué 'Julito' supo que se aprobaría 11 días antes",
-        "url": "https://atlas.lootura.com/es/organization/audiencia-nacional",
-        "path": "/es/organization/audiencia-nacional",
-        "updatedAt": "2026-07-24T06:23:11.193Z",
-        "score": 1646,
-        "sourceCount": 44,
+        "title": "Los incendios de Madrid obligan a evacuar Navas del Rey, Chapinería y Colmenar del Arroyo",
+        "url": "https://atlas.lootura.com/es/organization/la-comunidad",
+        "path": "/es/organization/la-comunidad",
+        "updatedAt": "2026-07-24T10:14:05.930Z",
+        "score": 1670,
+        "sourceCount": 5,
         "isBreaking": false,
         "isPinned": false
       }
     ],
-    "publicEntityCount": 105
+    "publicEntityCount": 108
   }
 }

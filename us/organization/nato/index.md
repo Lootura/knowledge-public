@@ -3,10 +3,16 @@
 > Follow NATO, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-07-14T09:56:10.561Z
+- Updated: 2026-07-24T10:14:29.742Z
 - Canonical: https://atlas.lootura.com/us/organization/nato
 
 ## Recent changes
+
+### NATO spending pressure returned
+
+President Donald Trump and NATO Secretary General Mark Rutte at the NATO Summit in Ankara, Turkey, on July 8, 2026. —Klaudia Radecka-NurPhoto via Getty Images The portents were not good. Before departing for the recent NATO summit in Ankara, President Donald Trump took to Truth Social to berate the alliance. He posted.
+
+Date: 2026-07-24
 
 ### NATO spending pressure returned
 
@@ -62,12 +68,6 @@ President Trump flew partway home from a NATO summit on an old Air Force One pla
 
 Date: 2026-07-09
 
-### NATO spending pressure returned
-
-President Trump wrapped the NATO summit in Turkey on a positive note Wednesday, appearing more favorable towards Ukraine than usual. CBS News contributor Niall Ferguson joins to discuss the summit, Mr. Trump's latest actions in Iran and the Ukraine-Russia war.
-
-Date: 2026-07-09
-
 ## Sources
 
-No public source links.
+- [How NATO Is Quietly Reinventing Itself for Trump](https://time.com/article/2026/07/24/trump-mark-rutte-europe-nato-/?utm_source=lootura.com) — 2026-07-24T10:00:00.000Z

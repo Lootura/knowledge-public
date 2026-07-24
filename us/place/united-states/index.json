@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/united-states/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/united-states/index.json",
   "description": "Follow United States, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-24T06:23:31.535Z",
+  "updatedAt": "2026-07-24T10:14:29.742Z",
   "aliases": [
     "America",
     "Estados Unidos",
@@ -69,22 +69,28 @@
       "date": "2026-07-24"
     },
     {
-      "title": "Trump administration imposes new tariffs on dozens of countries, citing forced labor concerns",
-      "summary": "The Trump administration will impose tariffs of up to 12.5% on goods from 60 U.S. trading partners accused of failing to crack down on forced labor, extending the administration's tariffs on much of the world.",
-      "date": "2026-07-24"
-    },
-    {
       "title": "Rubio says U.S. is ready to help end war in Ukraine but no quick deal ahead",
       "summary": "Secretary of State Marco Rubio, who met with his Russian counterpart Sergey Lavrov, said that President Trump was committed to the work \"if conditions and factors have changed to make that possible.\" (Image credit: BRENDAN SMIALOWSKI).",
       "date": "2026-07-24"
     },
     {
-      "title": "Brent Crude Oil Prices Top $100 as Conflict With Iran Drags On",
-      "summary": "Stocks in Asia were down following a sell-off in the U.S. markets over soaring oil prices, rising borrowing costs and worries about the technology industry.",
+      "title": "Trump imposes new tariffs on dozens of countries, citing forced labor concerns",
+      "summary": "The Trump administration will impose tariffs of up to 12.5% on goods from 60 U.S. trading partners accused of failing to crack down on forced labor, extending the administration's tariffs on much of the world.",
+      "date": "2026-07-24"
+    },
+    {
+      "title": "Tree of Life rabbi Jeffrey Myers bids farewell 8 years after deadliest antisemitic attack in U.S. history",
+      "summary": "Rabbi Jeffrey Myers is retiring from Tree of Life Congregation in Pittsburgh, which he led through the aftermath of the deadliest antisemitic attack in U.S. history.",
       "date": "2026-07-24"
     }
   ],
   "sources": [
+    {
+      "title": "Trump imposes new tariffs on dozens of countries, citing forced labor concerns",
+      "url": "https://www.cbsnews.com/news/trump-tariffs-dozens-countries-forced-labor/?utm_source=lootura.com",
+      "publishedAt": "2026-07-24T05:02:49.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
     {
       "title": "Rapid pace of interceptor and precision-guided weapons use worries Trump admin.",
       "url": "https://www.cbsnews.com/news/interceptor-precision-guided-weapons-use-trump-administration/?utm_source=lootura.com",
@@ -98,15 +104,15 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "Trump administration imposes new tariffs on dozens of countries, citing forced labor concerns",
-      "url": "https://www.cbsnews.com/news/trump-tariffs-dozens-countries-forced-labor/?utm_source=lootura.com",
-      "publishedAt": "2026-07-24T05:02:49.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
-    {
       "title": "U.S. attorney who served for less than an hour suing Trump administration over firing",
       "url": "https://www.cbsnews.com/video/us-attorney-who-served-less-than-hour-suing-trump-administration-over-firing/?utm_source=lootura.com",
       "publishedAt": "2026-07-24T00:26:55.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
+    {
+      "title": "Tree of Life rabbi Jeffrey Myers bids farewell 8 years after deadliest antisemitic attack in U.S. history",
+      "url": "https://www.cbsnews.com/pittsburgh/news/eight-years-after-deadliest-antisemitic-attack-in-us-history-tree-of-life-rabbi-bids-farewell/?utm_source=lootura.com",
+      "publishedAt": "2026-07-24T09:05:00.000Z",
       "sourceId": "lootura-us-cbs-news"
     },
     {
@@ -118,13 +124,13 @@
     {
       "title": "How does Make America Healthy Again hold up against scientific scrutiny?",
       "url": "https://www.nature.com/articles/d41586-026-02024-3?utm_source=lootura.com",
-      "publishedAt": "2026-07-24T06:23:35.615Z",
+      "publishedAt": "2026-07-24T10:14:35.542Z",
       "sourceId": "lootura-us-nature"
     },
     {
-      "title": "The White House pushes healthy eating. It cut a landmark nutrition education program",
-      "url": "https://www.npr.org/2026/07/23/nx-s1-5896280/snap-ed-healthy-eating-cuts-maha?utm_source=lootura.com",
-      "publishedAt": "2026-07-23T09:00:00.000Z",
+      "title": "Morning news brief",
+      "url": "https://www.npr.org/2026/07/24/nx-s1-5895986/morning-news-brief?utm_source=lootura.com",
+      "publishedAt": "2026-07-24T08:45:17.000Z",
       "sourceId": "lootura-us-npr"
     },
     {
@@ -134,17 +140,11 @@
       "sourceId": "lootura-us-npr-world"
     },
     {
-      "title": "U.S. health officials investigate new outbreak of parasite cyclospora",
-      "url": "https://www.pbs.org/newshour/health/u-s-health-officials-investigate-new-outbreak-of-parasite-cyclospora?utm_source=lootura.com",
-      "publishedAt": "2026-07-23T19:42:10.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
-    },
-    {
-      "title": "Yemen's Houthis attack Saudi tankers in the Red Sea, threatening to widen Iran war",
-      "url": "https://www.pbs.org/newshour/world/yemens-houthis-attack-saudi-tankers-in-the-red-sea-threatening-to-widen-iran-war?utm_source=lootura.com",
-      "publishedAt": "2026-07-23T17:26:28.000Z",
+      "title": "U.S. filings for unemployment aid fall to 187,000 last week, fewest since 1969",
+      "url": "https://www.pbs.org/newshour/economy/u-s-filings-for-unemployment-aid-fall-to-187000-last-week-fewest-since-1969?utm_source=lootura.com",
+      "publishedAt": "2026-07-23T20:08:39.000Z",
       "sourceId": "lootura-us-pbs-newshour"
     }
   ],
-  "evidenceCount": 19
+  "evidenceCount": 23
 }

@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/jens-spahn/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/jens-spahn/index.json",
   "description": "Sigue la actividad de Jens Spahn en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-19T02:29:06.108Z",
+  "updatedAt": "2026-07-24T10:14:05.930Z",
   "aliases": [
     "Jens Georg Spahn",
     "Spahn"
   ],
   "changes": [
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Jens Spahn first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-07-18"
+    },
     {
       "title": "Dimite el líder parlamentario conservador alemán tras tener un bebé por vientre de alquiler: “Mi felicidad no es compatible con mi cargo”",
       "summary": "Este sábado, uno de los hombres más poderosos de la política alemana, Jens Spahn , presidente del grupo parlamentario conservador CDU/CSU en el Bundestag alemán, ha dimitido. Spahn y su marido Daniel Funke anunciaron el miércoles pasado que se habían convertido en padres del bebé Georg. En declaraciones al diario sensa.",
@@ -23,13 +28,15 @@
       "title": "Dimite el líder conservador alemán por tener un hijo por gestación subrogada en EEUU",
       "summary": "El líder del bloque conservador en el Parlamento de Alemania , Jens Spahn, ha presentado su dimisión este sábado a petición del canciller y co-líder de la alianza, Friedrich Merz , por haber tenido un hijo por gestación subrogada en Estados Unidos ; una práctica declarada ilegal en Alemania. «He informado a los líderes.",
       "date": "2026-07-18"
-    },
-    {
-      "title": "Discovered by Atlas",
-      "summary": "Jens Spahn first entered the public knowledge record with source-backed evidence.",
-      "date": "2026-07-18"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Merz reestructura su Gobierno para reducir las críticas internas a su reforma de las pensiones",
+      "url": "https://www.abc.es/internacional/merz-reestructura-gobierno-control-grupo-parlamentario-20260724104203-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-24T09:06:21.000Z",
+      "sourceId": "lootura-es-abc"
+    }
+  ],
+  "evidenceCount": 1
 }

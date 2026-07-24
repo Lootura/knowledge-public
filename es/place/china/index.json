@@ -8,9 +8,14 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/china/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/china/index.json",
   "description": "Sigue la actividad de China en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-24T02:28:09.478Z",
+  "updatedAt": "2026-07-24T10:14:05.930Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "Ocultan la muerte de una niña en China tras probar en ella una terapia de edición genética",
+      "summary": "Un equipo del Hospital Xinhua de Shanghái administró un complejo tratamiento a una niña de seis años, para corregir un retraso del desarrollo; los científicos silenciaron el desenlace fatal mientras publicaban sus resultados en la revista 'Nature'.",
+      "date": "2026-07-24"
+    },
     {
       "title": "Trump impone nuevos aranceles de entre el 10% y el 12,5% a más de 60 países para mantener su muro comercial",
       "summary": "El presidente de Estados Unidos, Donald Trump, ha aprobado este jueves una orden ejecutiva para imponer aranceles de entre el 10% y el 12,5% a más de 60 países, entre los que se encuentran España y el resto de miembros de la Unión Europea, Reino Unido, China, India, Japón, Corea del Sur o México, por no haber tomado su.",
@@ -55,13 +60,15 @@
       "title": "Soberanía a plazos",
       "summary": "China ha puesto a los robots a trabajar y a los hombres a esperar en la puerta. En Kunshan, corazón electrónico del país, las máquinas aprietan tornillos, clasifican piezas y no piden vacaciones; fuera, los obreros hacen cola por un empleo que se va volviendo reliquia. Pekín lo llama « modernización ». Occidente, a vec.",
       "date": "2026-07-20"
-    },
-    {
-      "title": "La cuenta atrás de Pekín",
-      "summary": "La pregunta sobre la inteligencia artificial china no es ya si alcanzará a Estados Unidos, sino en qué mes. Conviene tomarse en serio esa premisa, porque Pekín la está ejecutando con una coherencia que Washington, ahora mismo, no logra igualar: ata económicamente a medio planeta , gana clientes regalando lo que EEUU co.",
-      "date": "2026-07-19"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Ocultan la muerte de una niña en China tras probar en ella una terapia de edición genética",
+      "url": "https://www.abc.es/salud/ocultan-muerte-nina-china-tras-probar-terapia-20260724114332-nt_amp.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-24T09:43:32.000Z",
+      "sourceId": "lootura-es-abc"
+    }
+  ],
+  "evidenceCount": 1
 }

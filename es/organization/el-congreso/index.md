@@ -70,6 +70,4 @@ Date: 2026-07-23
 
 ## Fuentes
 
-- [El Gobierno activará los Presupuestos pese al rechazo de la senda fiscal y abrirá un escenario insólito en España](https://elpais.com/economia/2026-07-24/el-gobierno-activara-los-presupuestos-pese-al-rechazo-de-la-senda-fiscal-y-abrira-un-escenario-insolito-en-espana.html?utm_source=lootura.com) — 2026-07-24T03:45:00.000Z
-- [El Congreso golpea al Gobierno: tumba la senda fiscal y anticipa la derrota de los Presupuestos y el derrumbe de la legislatura](https://amp.elmundo.es/espana/2026/07/23/6a625ae8fdddff4a578b45b7.html?utm_source=lootura.com) — 2026-07-23T19:02:11.000Z
-- [El Gobierno salva por ahora la quita autonómica pero no avanza con los Presupuestos](https://elpais.com/espana/2026-07-23/el-gobierno-salva-por-ahora-la-quita-autonomica-pero-no-avanza-con-los-presupuestos.html?utm_source=lootura.com) — 2026-07-23T19:00:04.000Z
+No public source links.

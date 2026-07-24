@@ -34,4 +34,4 @@ Date: 2026-07-10
 
 ## Sources
 
-- [Morning news brief](https://www.npr.org/2026/07/23/nx-s1-5895984/morning-news-brief?utm_source=lootura.com) — 2026-07-23T08:47:19.000Z
+No public source links.

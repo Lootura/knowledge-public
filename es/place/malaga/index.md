@@ -70,4 +70,4 @@ Date: 2026-07-17
 
 ## Fuentes
 
-- [Lío en Málaga con el Palacio de la Ópera: temor a que los congresos desplacen a la música](https://www.elconfidencial.com/espana/andalucia/2026-07-24/malaga-palacio-opera-auditorio-congresos-musica_4394945/?utm_source=lootura.com) — 2026-07-24T03:00:00.000Z
+No public source links.

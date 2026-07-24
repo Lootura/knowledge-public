@@ -3,10 +3,28 @@
 > Sigue la actividad de Barcelona en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-24T06:23:11.193Z
+- Actualizado: 2026-07-24T10:14:05.930Z
 - Canonical: https://atlas.lootura.com/es/place/barcelona
 
 ## Cambios recientes
+
+### Primer trasplante de órganos entre pacientes con VIH en España
+
+Durante casi cuatro décadas, el VIH supuso una frontera infranqueable para la donación de órganos. Esa barrera acaba de desaparecer en España. El Hospital Vall d'Hebron de Barcelona ha realizado el primer trasplante de órganos entre personas con VIH , un hito médico que ha sido posible gracias a la modificación normati.
+
+Date: 2026-07-24
+
+### Vandalizan también el mural de Luis de la Fuente en el centro de Barcelona: una bandera independentista y la frase "No olvidamos"
+
+Después de que se vandalizara el mural de Ferran Torres con la Selección Española pintado en una calle del centro de Barcelona, un grupo de independentistas ha vandalizado también el mural de Luis de la Fuente en la capital catalana. En concreto, han pintado una bandera independentista encima de la obra y el lema: "No.
+
+Date: 2026-07-24
+
+### El pueblo a 20 minutos de Barcelona donde vive el presentador Jordi Hurtado desde hace 20 años
+
+Jordi Hurtado es uno de los rostros más reconocibles y longevos de la televisión española , conocido por presentar «Saber y ganar» en La2. El popular comunicador ha elegido como lugar de residencia Molins de Rei , un municipio del Bajo Llobregat donde vive desde hace más de 20 años rodeado de naturaleza y tranquilidad.
+
+Date: 2026-07-24
 
 ### ¿Por qué el trazado urbano de Barcelona es tan cuadriculado? Hay una explicación más allá de la organización
 
@@ -50,25 +68,8 @@ La circulación de trenes de alta velocidad entre Madrid y Barcelona ha quedado 
 
 Date: 2026-07-23
 
-### Karim Adeyemi ya es del Barcelona tras sortear un labertinto burocrático
-
-El FC Barcelona ha hecho oficial el fichaje del extremo alemán Karim Adeyemi, quien queda vinculado al club catalán mediante un contrato de cinco temporadas. El delantero de 24 años llega procedente del Borussia Dortmund en una operación relámpago liderada por la dirección deportiva de Deco. Su llegada añade velocidad.
-
-Date: 2026-07-23
-
-### Incendios en España, en directo: un incendio produce el corte de la circulación Madrid-Barcelona
-
-Los equipos de extinción continúan desplegados en distintos puntos del país para hacer frente a una de las jornadas más complejas de la campaña de incendios forestales. Mientras el incendio de La Mierla (Guadalajara) sigue evolucionando favorablemente y los trabajos se centran en consolidar el perímetro, otros focos ma.
-
-Date: 2026-07-23
-
-### Interrumpida la circulación del AVE entre Madrid y Barcelona por un incendio entre Mejorada del Campo y Alcalá de Henares
-
-Un incendio entre Mejorada del Campo y Alcalá de Henares ha obligado a interrumpir la circulación del AVE entre Madrid y Barcelona a la espera de que el fuego sea extinguido. Renfe ha lanzado un comunicado asegurando que se espera que se reanude lo antes posible y que de momento los trenes se encuentran «detenidos». De.
-
-Date: 2026-07-23
-
 ## Fuentes
 
-- [Gerardo Pisarello: "Comparto con Gabriel Rufián la urgencia de un frente amplio de izquierdas para frenar al neofascismo"](https://www.elmundo.es/cataluna/2026/07/23/6a6271fae85ece54368b458f.html?utm_source=lootura.com) — 2026-07-23T22:49:03.000Z
-- [¿Por qué el trazado urbano de Barcelona es tan cuadriculado? Hay una explicación más allá de la organización](https://okdiario.com/cataluna/que-trazado-urbano-barcelona-tan-cuadriculado-hay-explicacion-mas-alla-organizacion-19050129/amp?utm_source=lootura.com) — 2026-07-24T06:15:48.000Z
+- [Primer trasplante de órganos entre pacientes con VIH en España](https://www.abc.es/sociedad/primer-trasplante-organos-dos-pacientes-vih-espana-20260722191812-nt.html?utm_source=lootura.com) — 2026-07-24T08:41:56.000Z
+- [Vandalizan también el mural de Luis de la Fuente en el centro de Barcelona: una bandera independentista y la frase "No olvidamos"](https://www.larazon.es/cataluna/vandalizan-tambien-mural-luis-fuente-centro-barcelona_202607246a633919aa17c0020f2d4fb1.html?utm_source=lootura.com) — 2026-07-24T10:06:17.000Z
+- [El pueblo a 20 minutos de Barcelona donde vive el presentador Jordi Hurtado desde hace 20 años](https://okdiario.com/viajes/pueblo-20-minutos-barcelona-donde-vive-presentador-jordi-hurtado-desde-hace-20-anos-19060778?utm_source=lootura.com) — 2026-07-24T10:00:57.000Z

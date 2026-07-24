@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/supreme-court/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/supreme-court/index.json",
   "description": "Follow Supreme court, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-24T06:23:31.535Z",
+  "updatedAt": "2026-07-24T10:14:29.742Z",
   "aliases": [
     "U.S. Supreme Court",
     "apex court",
@@ -17,23 +17,23 @@
   ],
   "changes": [
     {
-      "title": "Trump imposes fresh tariffs on more than 80 countries, drawing protests from US allies and trading partners",
-      "summary": "The new tariffs will replace a 10% global duty set to expire on Friday, and comes as after the US supreme court declared many of the earlier levies were illegal Donald Trump has imposed a fresh round of sweeping tariffs on more than 80 countries to replace a 10% global duty that was due to expire, setting off a wave of.",
-      "date": "2026-07-24"
-    },
-    {
       "title": "Trump’s Global Tariffs: What’s the Latest on the Trade War",
       "summary": "The president has unveiled a complicated system to forge ahead with his trade war, after the Supreme Court stuck down his original levies.",
       "date": "2026-07-24"
     },
     {
-      "title": "Supreme Court Turbocharges Presidential Power",
-      "summary": "A pair of decisions reshaped the structure of the federal government.",
-      "date": "2026-07-23"
+      "title": "Trump imposes fresh tariffs on more than 80 countries, drawing protests from US allies and trading partners",
+      "summary": "The new tariffs will replace a 10% global duty set to expire on Friday, and comes as after the US supreme court declared many of the earlier levies were illegal Donald Trump has imposed a fresh round of sweeping tariffs on more than 80 countries to replace a 10% global duty that was due to expire, setting off a wave of.",
+      "date": "2026-07-24"
     },
     {
       "title": "Trump imposes double-digit tariffs on dozens of countries as stopgap 10% levies expire Friday",
       "summary": "President Donald Trump is going ahead with new double-digit tariffs on dozens of U.S. trading partners just as the clock runs out Friday on stopgap levies he imposed after a stinging defeat at the Supreme Court.",
+      "date": "2026-07-23"
+    },
+    {
+      "title": "Supreme Court Turbocharges Presidential Power",
+      "summary": "A pair of decisions reshaped the structure of the federal government.",
       "date": "2026-07-23"
     },
     {
@@ -75,23 +75,11 @@
       "sourceId": "lootura-us-pbs-newshour"
     },
     {
-      "title": "Trump imposes fresh tariffs on more than 80 countries, drawing protests from US allies and trading partners",
-      "url": "https://www.theguardian.com/us-news/2026/jul/23/trump-administration-trade-tariffs?utm_source=lootura.com",
-      "publishedAt": "2026-07-24T04:03:27.000Z",
-      "sourceId": "lootura-us-the-guardian-us"
-    },
-    {
       "title": "Trump’s Global Tariffs: What’s the Latest on the Trade War",
       "url": "https://www.nytimes.com/article/trump-tariffs-trade.html?utm_source=lootura.com",
       "publishedAt": "2026-07-24T04:01:02.000Z",
       "sourceId": "lootura-us-the-new-york-times"
-    },
-    {
-      "title": "Supreme Court Turbocharges Presidential Power",
-      "url": "https://www.nytimes.com/2026/07/23/us/politics/the-docket-presidential-power-trump.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-23T16:07:36.000Z",
-      "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 5
+  "evidenceCount": 2
 }

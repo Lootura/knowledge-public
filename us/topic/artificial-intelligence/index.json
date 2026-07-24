@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/topic/artificial-intelligence/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/topic/artificial-intelligence/index.json",
   "description": "Follow Artificial intelligence, a tracked topic, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-24T06:23:31.535Z",
+  "updatedAt": "2026-07-24T10:14:29.742Z",
   "aliases": [
     "AI",
     "AI science",
@@ -28,23 +28,23 @@
   ],
   "changes": [
     {
-      "title": "A town renamed its festival 'AI Love Irondale Day.' Then came the comments",
-      "summary": "The online outcry over the renaming of a summer festival illustrates the unease over the data center boom in the South. (Image credit: Stephan Bisaha).",
-      "date": "2026-07-23"
-    },
-    {
       "title": "This AI tool promises a 'second sight of eyes' to clinicians. Did patients benefit?",
       "summary": "Medical workers in a Nairobi clinic used an AI tool to check their work. A new study evaluates the result. (Image credit: Patrick Meinhardt/AFP).",
       "date": "2026-07-23"
     },
     {
-      "title": "Trump talks plan to prevent ratepayers from shouldering costs of new AI data centers",
-      "summary": "President Trump spoke Thursday about a plan to prevent ratepayers from taking on the costs of a new AI data centers. CBS News' Kelly O'Grady has more.",
+      "title": "Earnings at Musk's Tesla fall as spending on research cuts into profit from selling cars",
+      "summary": "While the core car business had a solid quarter, Tesla is now focused on building out the infrastructure and AI software that underpins its robotaxis and robotics businesses, which Musk has said are the future of the company. And doing so requires a lot more spending.",
       "date": "2026-07-23"
     },
     {
-      "title": "Earnings at Musk's Tesla fall as spending on research cuts into profit from selling cars",
-      "summary": "While the core car business had a solid quarter, Tesla is now focused on building out the infrastructure and AI software that underpins its robotaxis and robotics businesses, which Musk has said are the future of the company. And doing so requires a lot more spending.",
+      "title": "A town renamed its festival 'AI Love Irondale Day.' Then came the comments",
+      "summary": "The online outcry over the renaming of a summer festival illustrates the unease over the data center boom in the South. (Image credit: Stephan Bisaha).",
+      "date": "2026-07-23"
+    },
+    {
+      "title": "Trump talks plan to prevent ratepayers from shouldering costs of new AI data centers",
+      "summary": "President Trump spoke Thursday about a plan to prevent ratepayers from taking on the costs of a new AI data centers. CBS News' Kelly O'Grady has more.",
       "date": "2026-07-23"
     },
     {
@@ -80,18 +80,6 @@
   ],
   "sources": [
     {
-      "title": "Trump talks plan to prevent ratepayers from shouldering costs of new AI data centers",
-      "url": "https://www.cbsnews.com/video/trump-talks-plan-to-prevent-ratepayers-from-shouldering-costs-of-new-ai-data-centers/?utm_source=lootura.com",
-      "publishedAt": "2026-07-23T20:30:42.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
-    {
-      "title": "A town renamed its festival 'AI Love Irondale Day.' Then came the comments",
-      "url": "https://www.npr.org/2026/07/23/nx-s1-5896481/data-center-backlash-ai-love-irondale-day?utm_source=lootura.com",
-      "publishedAt": "2026-07-23T09:00:00.000Z",
-      "sourceId": "lootura-us-npr"
-    },
-    {
       "title": "This AI tool promises a 'second sight of eyes' to clinicians. Did patients benefit?",
       "url": "https://www.npr.org/2026/07/23/g-s1-134929/this-ai-tool-promises-a-second-sight-of-eyes-to-clinicians-did-patients-benefit?utm_source=lootura.com",
       "publishedAt": "2026-07-23T11:36:52.000Z",
@@ -102,13 +90,7 @@
       "url": "https://www.pbs.org/newshour/economy/earnings-at-musks-tesla-fall-as-spending-on-research-cuts-into-profit-from-selling-cars?utm_source=lootura.com",
       "publishedAt": "2026-07-23T22:56:35.000Z",
       "sourceId": "lootura-us-pbs-newshour"
-    },
-    {
-      "title": "AI unlocks Atlantic circulation insights from 20 years of ocean float data",
-      "url": "https://phys.org/news/2026-07-ai-atlantic-circulation-insights-years.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-23T23:20:06.000Z",
-      "sourceId": "lootura-us-phys-org"
     }
   ],
-  "evidenceCount": 5
+  "evidenceCount": 2
 }

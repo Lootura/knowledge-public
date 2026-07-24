@@ -3,10 +3,16 @@
 > Sigue la actividad de Oriol Junqueras en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-17T09:54:46.288Z
+- Actualizado: 2026-07-24T10:14:05.930Z
 - Canonical: https://atlas.lootura.com/es/person/oriol-junqueras
 
 ## Cambios recientes
+
+### Salvador Illa pide al Tribunal de Cuentas, por escrito, que aplique ya la amnistía en los gastos del 1-O y la acción exterior del 'procés'
+
+Entre la treintena de altos cargos encausados están Carles Puigdemont, Artur Mas, Oriol Junqueras y Jordi Turull Leer.
+
+Date: 2026-07-24
 
 ### Junqueras cree que el Supremo hará "todo lo posible" para no aplicar la ley de amnistía
 
@@ -46,4 +52,4 @@ Date: 2026-07-16
 
 ## Fuentes
 
-No public source links.
+- [Salvador Illa pide al Tribunal de Cuentas, por escrito, que aplique ya la amnistía en los gastos del 1-O y la acción exterior del 'procés'](https://www.elmundo.es/cataluna/2026/07/24/6a632dd5fdddff7e218b458d.html?utm_source=lootura.com) — 2026-07-24T10:07:20.000Z

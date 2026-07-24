@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/carles-puigdemont/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/carles-puigdemont/index.json",
   "description": "Sigue la actividad de Carles Puigdemont Casamajó en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-22T21:08:41.543Z",
+  "updatedAt": "2026-07-24T10:14:05.930Z",
   "aliases": [
     "Carles",
     "Carles Puigdemont Casamajó",
@@ -18,6 +18,11 @@
     "Puigdemont"
   ],
   "changes": [
+    {
+      "title": "Salvador Illa pide al Tribunal de Cuentas, por escrito, que aplique ya la amnistía en los gastos del 1-O y la acción exterior del 'procés'",
+      "summary": "Entre la treintena de altos cargos encausados están Carles Puigdemont, Artur Mas, Oriol Junqueras y Jordi Turull Leer.",
+      "date": "2026-07-24"
+    },
     {
       "title": "Bruselas rechaza mediar en la ley de amnistía: «Corresponde a los tribunales españoles»",
       "summary": "La Comisión Europea confirmó este miércoles que ha recibido el escrito de la defensa del expresidente catalán Carles Puigdemont que acusa a España de «incumplimiento» del derecho europeo y, aunque descartó comentarlo, incidió en que los tribunales que remitieron preguntas prejudiciales son los que deben aplicar la sent.",
@@ -62,13 +67,15 @@
       "title": "Puigdemont opta por no mover ficha tras el fallo de la Justicia europea y lo fía todo a que el Constitucional corrija al Supremo",
       "summary": "Sin movimiento en la Plaza de la Villa de París . Ni el instructor del Tribunal Supremo Pablo Llarena piensa reaccionar al fallo que emitió este jueves el Tribunal de Luxemburgo, ni la defensa de Carles Puigdemont tiene previsto pedirle que levante la orden de detención nacional que permanece vigente sobre el expreside.",
       "date": "2026-07-17"
-    },
-    {
-      "title": "Junts fía su futuro electoral al regreso de Puigdemont",
-      "summary": "Ayer, el Tribunal de Justicia de la Unión Europea (TJUE) dio un auténtico espaldarazo a la Ley de Amnistía y allanó el camino, aunque todavía queda una parte por recorrer, para el regreso a España de Carles Puigdemont . Desde Junts se anotaron así una importante victoria política y vendieron en sus círculos que habían.",
-      "date": "2026-07-17"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Salvador Illa pide al Tribunal de Cuentas, por escrito, que aplique ya la amnistía en los gastos del 1-O y la acción exterior del 'procés'",
+      "url": "https://www.elmundo.es/cataluna/2026/07/24/6a632dd5fdddff7e218b458d.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-24T10:07:20.000Z",
+      "sourceId": "lootura-es-el-mundo"
+    }
+  ],
+  "evidenceCount": 1
 }

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/oriol-junqueras/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/oriol-junqueras/index.json",
   "description": "Sigue la actividad de Oriol Junqueras en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-17T09:54:46.288Z",
+  "updatedAt": "2026-07-24T10:14:05.930Z",
   "aliases": [
     "Junqueras",
     "Oriol",
@@ -16,6 +16,11 @@
     "Oriol Junqueras i Vies"
   ],
   "changes": [
+    {
+      "title": "Salvador Illa pide al Tribunal de Cuentas, por escrito, que aplique ya la amnistía en los gastos del 1-O y la acción exterior del 'procés'",
+      "summary": "Entre la treintena de altos cargos encausados están Carles Puigdemont, Artur Mas, Oriol Junqueras y Jordi Turull Leer.",
+      "date": "2026-07-24"
+    },
     {
       "title": "Junqueras cree que el Supremo hará \"todo lo posible\" para no aplicar la ley de amnistía",
       "summary": "El presidente de ERC, Oriol Junqueras, ha expresado que el Tribunal Supremo (TS) hará \"todo lo posible\" para no aplicar la Ley de Amnistía tras el aval de este jueves del Tribunal de Justicia de la Unión Europea (TJUE ) y ha pedido conformar grandes mayorías democráticas en el Estado no solo para defender la amnistía.",
@@ -47,6 +52,13 @@
       "date": "2026-07-16"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Salvador Illa pide al Tribunal de Cuentas, por escrito, que aplique ya la amnistía en los gastos del 1-O y la acción exterior del 'procés'",
+      "url": "https://www.elmundo.es/cataluna/2026/07/24/6a632dd5fdddff7e218b458d.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-24T10:07:20.000Z",
+      "sourceId": "lootura-es-el-mundo"
+    }
+  ],
+  "evidenceCount": 1
 }

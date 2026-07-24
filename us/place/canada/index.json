@@ -8,11 +8,16 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/canada/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/canada/index.json",
   "description": "Follow Canada, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-23T10:20:24.199Z",
+  "updatedAt": "2026-07-24T10:14:29.742Z",
   "aliases": [
     "Can"
   ],
   "changes": [
+    {
+      "title": "As Canada Opens Gordie Howe International Bridge, Americans Are Told to Stay Home",
+      "summary": "After a delay ordered by President Trump and new tariffs against Canada, the bridge between Windsor, Ontario, and Detroit opens in “underwhelming” fashion on Friday.",
+      "date": "2026-07-24"
+    },
     {
       "title": "Trump’s 50% Tariffs on Canada: What to Know, and What’s Next",
       "summary": "The president said punishing 50 percent tariffs would begin by Aug. 19, a significant escalation of the trade war between Canada and the U.S. that he started over a year ago.",
@@ -57,13 +62,15 @@
       "title": "Nolan’s ‘The Odyssey’ Brings in $124.5 Million at the Box Office on Opening Weekend",
       "summary": "Christopher Nolan’s nearly three-hour epic was No. 1 over the weekend, with about $124.5 million in ticket sales in the United States and Canada.",
       "date": "2026-07-19"
-    },
-    {
-      "title": "Are workplaces safer? Harassment and violence persist, survey finds",
-      "summary": "A follow-up national survey developed by Western researchers shows workplace harassment and violence continue to be widespread in Canada, with some signs of improvement. The second national survey on harassment and violence at work in Canada was conducted by Western's Center for Research and Education on Violence Again.",
-      "date": "2026-07-19"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "As Canada Opens Gordie Howe International Bridge, Americans Are Told to Stay Home",
+      "url": "https://www.nytimes.com/2026/07/24/world/canada/canada-gordie-howe-bridge-trump.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-24T09:05:17.000Z",
+      "sourceId": "lootura-us-the-new-york-times-world"
+    }
+  ],
+  "evidenceCount": 1
 }

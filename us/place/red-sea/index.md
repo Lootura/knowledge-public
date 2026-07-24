@@ -3,10 +3,16 @@
 > Follow Red Sea, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-24T06:23:31.535Z
+- Updated: 2026-07-24T10:14:29.742Z
 - Canonical: https://atlas.lootura.com/us/place/red-sea
 
 ## Recent changes
+
+### Trump threatens 'major military punishment' after Houthi attacks on tankers in Red Sea
+
+International oil prices topped $100 a barrel after Houthi rebels in Yemen claimed they attacked two oil tankers in the Red Sea, raising new fears of disruptions to global energy supplies. In response, President Trump warned that if the Houthis attack another ship, the U.S. would inflict "major military punishment." He.
+
+Date: 2026-07-23
 
 ### Global oil prices hit $100 a barrel amid attacks in Red Sea
 
@@ -17,12 +23,6 @@ Date: 2026-07-23
 ### Yemen's Houthis attack Saudi tankers in the Red Sea, threatening to widen Iran war
 
 As the U.S. carried out a 12th night of strikes across Iran, President Donald Trump threatened "major military punishment" against the Houthis if their attacks on ships continue.
-
-Date: 2026-07-23
-
-### Trump threatens 'major military punishment' after Houthi attacks on tankers in Red Sea
-
-International oil prices topped $100 a barrel after Houthi rebels in Yemen claimed they attacked two oil tankers in the Red Sea, raising new fears of disruptions to global energy supplies. In response, President Trump warned that if the Houthis attack another ship, the U.S. would inflict "major military punishment." He.
 
 Date: 2026-07-23
 
@@ -70,6 +70,5 @@ Date: 2026-07-22
 
 ## Sources
 
-- [Global oil prices hit $100 a barrel amid attacks in Red Sea](https://www.cbsnews.com/news/global-oil-prices-red-sea-attacks-rates/?utm_source=lootura.com) — 2026-07-23T20:32:52.000Z
-- [Yemen's Houthis attack Saudi tankers in the Red Sea, threatening to widen Iran war](https://www.pbs.org/newshour/world/yemens-houthis-attack-saudi-tankers-in-the-red-sea-threatening-to-widen-iran-war?utm_source=lootura.com) — 2026-07-23T17:26:28.000Z
+- [Former U.S. diplomat breaks down Houthi attacks on Red Sea shipping](https://www.pbs.org/newshour/show/former-u-s-diplomat-breaks-down-houthi-attacks-on-red-sea-shipping?utm_source=lootura.com) — 2026-07-23T22:52:59.000Z
 - [Trump threatens 'major military punishment' after Houthi attacks on tankers in Red Sea](https://www.pbs.org/newshour/show/trump-threatens-major-military-punishment-after-houthi-attacks-on-tankers-in-red-sea?utm_source=lootura.com) — 2026-07-23T22:55:29.000Z

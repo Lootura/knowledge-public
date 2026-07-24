@@ -3,10 +3,16 @@
 > Sigue la actividad de Apple en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: company
-- Actualizado: 2026-07-24T02:28:09.478Z
+- Actualizado: 2026-07-24T10:14:05.930Z
 - Canonical: https://atlas.lootura.com/es/company/apple
 
 ## Cambios recientes
+
+### Es el momento de comprar un Apple Watch: Amazon ha tirado el precio al mínimo histórico
+
+Normalmente no recomendaríamos la compra de un Apple Watch o un iPhone a menos de dos meses del lanzamiento de la nueva generación, pero echando un vistazo a las filtraciones, es posible que el precio que acaba de lanzar Amazon para el reloj de Apple sea una de las mejores oportunidades del año para renovar tu viejo co.
+
+Date: 2026-07-24
 
 ### Nepobabies: Apple Martin, el relevo «cool» de Hollywood
 
@@ -62,12 +68,6 @@ Hace un mes, O2 sorprendía a todos sus clientes con una novedad que te puede ha
 
 Date: 2026-07-19
 
-### Si tienes Android, esta es la mejor alternativa a la Play Store: encuentra apps en GitHub, las descarga e instala con un solo clic
-
-Cada vez son más los usuarios de Android que buscan alternativas a la Play Store para instalar aplicaciones. Con la puesta en marcha de la Ley de Mercados Digitales , Google y Apple tuvieron que abrir sus ecosistemas para permitir tiendas de terceros. Esto no ha resultado del todo intuitivo, pero existe una app conocid.
-
-Date: 2026-07-18
-
 ## Fuentes
 
-No public source links.
+- [Es el momento de comprar un Apple Watch: Amazon ha tirado el precio al mínimo histórico](https://hipertextual.com/apple/es-el-momento-de-comprar-un-apple-watch-amazon-ha-tirado-el-precio-al-minimo-historico/?utm_source=lootura.com) — 2026-07-24T08:57:29.000Z

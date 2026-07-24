@@ -3,7 +3,7 @@
 > Sigue la actividad de Banco Central Europeo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: company
-- Actualizado: 2026-07-24T06:23:11.193Z
+- Actualizado: 2026-07-24T10:14:05.930Z
 - Canonical: https://atlas.lootura.com/es/company/banco-central-europeo
 
 ## Cambios recientes

@@ -8,13 +8,18 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/venezuela/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/venezuela/index.json",
   "description": "Follow Venezuela, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-23T02:31:30.185Z",
+  "updatedAt": "2026-07-24T10:14:29.742Z",
   "aliases": [
     "BR Venezuela",
     "Bolivarian Republic of Venezuela",
     "Republic of Venezuela"
   ],
   "changes": [
+    {
+      "title": "Venezuela’s Earthquakes Show Wealth Divide, Even in Death",
+      "summary": "Latin America’s deep-seated inequalities prevailed over the grimly equalizing force of the Venezuela earthquakes, and set even the dead apart.",
+      "date": "2026-07-24"
+    },
     {
       "title": "In Venezuela’s Rubble, a Search for the Family Pets",
       "summary": "Volunteers are reuniting pets with families, offering Venezuelans comfort amid loss and devastation.",
@@ -61,6 +66,13 @@
       "date": "2026-07-08"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Venezuela’s Earthquakes Show Wealth Divide, Even in Death",
+      "url": "https://www.nytimes.com/2026/07/24/world/americas/venezuela-earthquake-dead-costs-la-guaira.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-24T09:02:18.000Z",
+      "sourceId": "lootura-us-the-new-york-times-world"
+    }
+  ],
+  "evidenceCount": 1
 }

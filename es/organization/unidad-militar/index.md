@@ -3,10 +3,22 @@
 > Sigue la actividad de Unidad Militar en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-17T13:22:29.680Z
+- Actualizado: 2026-07-24T10:14:05.930Z
 - Canonical: https://atlas.lootura.com/es/organization/unidad-militar
 
 ## Cambios recientes
+
+### España pide ayuda a la UE y moviliza a 1000 militares y efectivos de otras comunidades para atajar los incendios de Madrid y Ávila
+
+Tras declarar el Gobierno la emergencia nacional por la rápida propagación del fuego, la reunión de coordinación celebrada en La Monloa y presidida por Pedro Sánchez ha terminado pasadas las 10.00 de la mañana DIRECTO - Sigue aquí la última hora sobre los incendios España ha solicitado a través de la Unidad Militar de.
+
+Date: 2026-07-24
+
+### Puente critica PP por pedir ayuda a la UME para los incendios mientras «reduce impuestos»
+
+El ministro de Transportes, Óscar Puente , ha arremetido este viernes contra las comunidades autónomas gobernadas por el PP por reclamar la ayuda de la Unidad Militar de Emergencias (UME) para extinguir los incendios forestales mientras reducen impuestos a los ricos. «Luego piden al Gobierno que les resuelva la papelet.
+
+Date: 2026-07-24
 
 ### Discovered by Atlas
 
@@ -46,4 +58,5 @@ Date: 2026-07-16
 
 ## Fuentes
 
-No public source links.
+- [España pide ayuda a la UE y moviliza a 1000 militares y efectivos de otras comunidades para atajar los incendios de Madrid y Ávila](https://www.eldiario.es/sociedad/espana-pide-ayuda-ue-moviliza-1000-militares-efectivos-comunidades-atajar-incendios-madrid-avila_1_13403814.html?utm_source=lootura.com) — 2026-07-24T08:40:12.000Z
+- [Puente critica PP por pedir ayuda a la UME para los incendios mientras «reduce impuestos»](https://theobjective.com/espana/politica/2026-07-24/puente-critica-pp-ayuda-ume/?utm_source=lootura.com) — 2026-07-24T09:18:59.000Z

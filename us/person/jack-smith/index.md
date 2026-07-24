@@ -34,4 +34,4 @@ Date: 2026-07-23
 
 ## Sources
 
-- [Republicans urge Justice Department to investigate former prosecutor Jack Smith](https://www.npr.org/2026/07/23/g-s1-135121/republicans-justice-department-jack-smith?utm_source=lootura.com) — 2026-07-23T14:12:45.000Z
+No public source links.

@@ -3,10 +3,16 @@
 > Sigue la actividad de Salvador Illa en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-22T17:15:40.463Z
+- Actualizado: 2026-07-24T10:14:05.930Z
 - Canonical: https://atlas.lootura.com/es/person/salvador-illa
 
 ## Cambios recientes
+
+### Salvador Illa pide al Tribunal de Cuentas, por escrito, que aplique ya la amnistía en los gastos del 1-O y la acción exterior del 'procés'
+
+Entre la treintena de altos cargos encausados están Carles Puigdemont, Artur Mas, Oriol Junqueras y Jordi Turull Leer.
+
+Date: 2026-07-24
 
 ### Illa abre una minicrisis en la Generalitat con el relevo de la consellera de Drets Socials
 
@@ -46,4 +52,4 @@ Date: 2026-07-16
 
 ## Fuentes
 
-No public source links.
+- [Salvador Illa pide al Tribunal de Cuentas, por escrito, que aplique ya la amnistía en los gastos del 1-O y la acción exterior del 'procés'](https://www.elmundo.es/cataluna/2026/07/24/6a632dd5fdddff7e218b458d.html?utm_source=lootura.com) — 2026-07-24T10:07:20.000Z

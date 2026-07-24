@@ -3,7 +3,7 @@
 > Follow Donald Trump, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-07-24T06:23:31.535Z
+- Updated: 2026-07-24T10:14:29.742Z
 - Canonical: https://atlas.lootura.com/us/person/donald-trump
 
 ## Recent changes
@@ -38,12 +38,6 @@ Laura Loomer, an ardent ally of President Donald Trump with a reputation for inc
 
 Date: 2026-07-24
 
-### Trump administration imposes new tariffs on dozens of countries, citing forced labor concerns
-
-The Trump administration will impose tariffs of up to 12.5% on goods from 60 U.S. trading partners accused of failing to crack down on forced labor, extending the administration's tariffs on much of the world.
-
-Date: 2026-07-24
-
 ### Rubio says U.S. is ready to help end war in Ukraine but no quick deal ahead
 
 Secretary of State Marco Rubio, who met with his Russian counterpart Sergey Lavrov, said that President Trump was committed to the work "if conditions and factors have changed to make that possible." (Image credit: BRENDAN SMIALOWSKI).
@@ -56,27 +50,33 @@ Rob Bonta on blocking the Paramount merger, CNN concerns and Trump’s DOJ lead 
 
 Date: 2026-07-24
 
-### Trump imposes fresh tariffs on more than 80 countries, drawing protests from US allies and trading partners
-
-The new tariffs will replace a 10% global duty set to expire on Friday, and comes as after the US supreme court declared many of the earlier levies were illegal Donald Trump has imposed a fresh round of sweeping tariffs on more than 80 countries to replace a 10% global duty that was due to expire, setting off a wave of.
-
-Date: 2026-07-24
-
 ### Trump’s Global Tariffs: What’s the Latest on the Trade War
 
 The president has unveiled a complicated system to forge ahead with his trade war, after the Supreme Court stuck down his original levies.
 
 Date: 2026-07-24
 
+### Trump imposes new tariffs on dozens of countries, citing forced labor concerns
+
+The Trump administration will impose tariffs of up to 12.5% on goods from 60 U.S. trading partners accused of failing to crack down on forced labor, extending the administration's tariffs on much of the world.
+
+Date: 2026-07-24
+
+### Morning news brief
+
+U.S.-Iran strikes escalate, affecting global energy markets, Trump imposes double-digit tariffs on dozens of countries, Vigil held in Madison, Wisconsin, for man killed by police.
+
+Date: 2026-07-24
+
 ## Sources
 
+- [Trump imposes new tariffs on dozens of countries, citing forced labor concerns](https://www.cbsnews.com/news/trump-tariffs-dozens-countries-forced-labor/?utm_source=lootura.com) — 2026-07-24T05:02:49.000Z
 - [Rapid pace of interceptor and precision-guided weapons use worries Trump admin.](https://www.cbsnews.com/news/interceptor-precision-guided-weapons-use-trump-administration/?utm_source=lootura.com) — 2026-07-24T00:47:24.000Z
-- [Trump administration imposes new tariffs on dozens of countries, citing forced labor concerns](https://www.cbsnews.com/news/trump-tariffs-dozens-countries-forced-labor/?utm_source=lootura.com) — 2026-07-24T05:02:49.000Z
 - [U.S. attorney who served for less than an hour suing Trump administration over firing](https://www.cbsnews.com/video/us-attorney-who-served-less-than-hour-suing-trump-administration-over-firing/?utm_source=lootura.com) — 2026-07-24T00:26:55.000Z
-- [Trump talks plan to prevent ratepayers from shouldering costs of new AI data centers](https://www.cbsnews.com/video/trump-talks-plan-to-prevent-ratepayers-from-shouldering-costs-of-new-ai-data-centers/?utm_source=lootura.com) — 2026-07-23T20:30:42.000Z
 - [Trump fires U.S. attorney in Washington on heels of court appointment](https://www.cbsnews.com/news/trump-fires-roger-rogoff-u-s-attorney-seattle-washington/?utm_source=lootura.com) — 2026-07-24T00:35:47.000Z
-- [International PhD students to face strict limits on time in the US](https://www.nature.com/articles/d41586-026-02280-3?utm_source=lootura.com) — 2026-07-24T06:23:35.615Z
-- [The White House pushes healthy eating. It cut a landmark nutrition education program](https://www.npr.org/2026/07/23/nx-s1-5896280/snap-ed-healthy-eating-cuts-maha?utm_source=lootura.com) — 2026-07-23T09:00:00.000Z
-- [Morning news brief](https://www.npr.org/2026/07/23/nx-s1-5895984/morning-news-brief?utm_source=lootura.com) — 2026-07-23T08:47:19.000Z
+- [International PhD students to face strict limits on time in the US](https://www.nature.com/articles/d41586-026-02280-3?utm_source=lootura.com) — 2026-07-24T10:14:35.542Z
+- [Morning news brief](https://www.npr.org/2026/07/24/nx-s1-5895986/morning-news-brief?utm_source=lootura.com) — 2026-07-24T08:45:17.000Z
 - [Trump cuts target federal advisory boards. What does it mean for agencies like NASA?](https://www.npr.org/2026/07/23/nx-s1-5869732/trump-cuts-target-federal-advisory-boards-what-does-it-mean-for-agencies-like-nasa?utm_source=lootura.com) — 2026-07-23T20:33:52.000Z
 - [Trump allies are poised to weaken protections for historic sites — not just in D.C.](https://www.npr.org/2026/07/23/nx-s1-5904435/section-106-review-trump-historic-preservation-council?utm_source=lootura.com) — 2026-07-23T20:14:58.000Z
+- [Trump refuses to give up on tariffs - a pillar of his economic legacy](https://www.npr.org/2026/07/24/nx-s1-5905783/trump-tariff-trade-global-canada?utm_source=lootura.com) — 2026-07-24T09:00:00.000Z
+- [Rubio says U.S. is ready to help end war in Ukraine but no quick deal ahead](https://www.npr.org/2026/07/24/g-s1-135405/rubio-ukraine-russia-war?utm_source=lootura.com) — 2026-07-24T05:45:47.000Z

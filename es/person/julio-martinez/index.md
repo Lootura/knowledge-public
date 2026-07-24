@@ -70,4 +70,4 @@ Date: 2026-07-22
 
 ## Fuentes
 
-- [Zapatero no aclara el origen de las joyas y niega su implicación en Plus Ultra](https://www.abc.es/espana/zapatero-reafirma-inocencia-aclara-origen-joyas-regalo-20260723131048-nt.html?utm_source=lootura.com) — 2026-07-24T04:57:10.000Z
+No public source links.

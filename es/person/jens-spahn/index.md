@@ -3,10 +3,16 @@
 > Sigue la actividad de Jens Spahn en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-19T02:29:06.108Z
+- Actualizado: 2026-07-24T10:14:05.930Z
 - Canonical: https://atlas.lootura.com/es/person/jens-spahn
 
 ## Cambios recientes
+
+### Discovered by Atlas
+
+Jens Spahn first entered the public knowledge record with source-backed evidence.
+
+Date: 2026-07-18
 
 ### Dimite el líder parlamentario conservador alemán tras tener un bebé por vientre de alquiler: “Mi felicidad no es compatible con mi cargo”
 
@@ -20,12 +26,6 @@ El líder del bloque conservador en el Parlamento de Alemania , Jens Spahn, ha p
 
 Date: 2026-07-18
 
-### Discovered by Atlas
-
-Jens Spahn first entered the public knowledge record with source-backed evidence.
-
-Date: 2026-07-18
-
 ## Fuentes
 
-No public source links.
+- [Merz reestructura su Gobierno para reducir las críticas internas a su reforma de las pensiones](https://www.abc.es/internacional/merz-reestructura-gobierno-control-grupo-parlamentario-20260724104203-nt.html?utm_source=lootura.com) — 2026-07-24T09:06:21.000Z

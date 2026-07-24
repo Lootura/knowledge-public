@@ -34,4 +34,4 @@ Date: 2026-07-23
 
 ## Fuentes
 
-- [La UE suspende al Gobierno por la financiación de partidos políticos y la desregulación del 'lobby'](https://www.elconfidencial.com/espana/2026-07-24/ue-suspende-gobierno-financiacion-partidos-politicos-desregulacion-lobby_4393034/?utm_source=lootura.com) — 2026-07-24T03:00:00.000Z
+No public source links.

@@ -3,10 +3,16 @@
 > Follow Europe, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-24T06:23:31.535Z
+- Updated: 2026-07-24T10:14:29.742Z
 - Canonical: https://atlas.lootura.com/us/place/europe
 
 ## Recent changes
+
+### Thousands flee wildfires in southern Europe
+
+Luggage-clad residents and tourists fled a French peninsula by boat, and the smell of smoke drifted into parts of Madrid on Friday as wildfires swept through parts of Western Europe, triggering states of emergency and calls for EU help.
+
+Date: 2026-07-24
 
 ### Plant scientist explains the impact of the EU's new gene-editing rules
 
@@ -62,14 +68,8 @@ The EU's food safety agency said Wednesday it has dramatically reduced the accep
 
 Date: 2026-07-22
 
-### How Europe's Extreme Heat Waves Have Impacted the Tour de France
-
-Dorian Godon of France and Netcompany INEOS Cycling Team refreshes during the Tour de France, Stage 9, on July 12, 2026 in Ussel, France. The stage was shortened due to a red alert for a heat wave. —Tim de Waele—Getty Images Through the first two weeks of the 2026 Tour de France, the average temperature of 87.4°F has f.
-
-Date: 2026-07-21
-
 ## Sources
 
-- [Plant scientist explains the impact of the EU's new gene-editing rules](https://phys.org/news/2026-07-scientist-impact-eu-gene.html?utm_source=lootura.com) — 2026-07-24T01:20:01.000Z
+- [Thousands flee wildfires in southern Europe](https://phys.org/news/2026-07-thousands-wildfires-southern-europe.html?utm_source=lootura.com) — 2026-07-24T08:37:07.000Z
 - [Google Hit With $1 Billion Fine By EU Over Search Engine Practices](https://www.nytimes.com/2026/07/23/business/google-eu-fine-search-competition.html?utm_source=lootura.com) — 2026-07-23T12:33:45.000Z
 - [U.S.-Saudi Deal Prompts Fears of a Global Nuclear Arms Race](https://www.nytimes.com/2026/07/23/world/europe/us-saudi-deal-nuclear-hedging.html?utm_source=lootura.com) — 2026-07-23T15:28:15.000Z

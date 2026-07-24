@@ -3,7 +3,7 @@
 > Sigue la actividad de Partido Socialista Obrero Español en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-24T06:23:11.193Z
+- Actualizado: 2026-07-24T10:14:05.930Z
 - Canonical: https://atlas.lootura.com/es/organization/psoe
 
 ## Cambios recientes
@@ -70,6 +70,4 @@ Date: 2026-07-23
 
 ## Fuentes
 
-- [Más del 40% de votantes del PSOE no ve creíble a Zapatero y piensa que el Gobierno no debería apoyarle](https://www.20minutos.es/nacional/mas-40-votantes-socialistas-no-ve-creible-zapatero-piensa-que-gobierno-no-deberia-apoyarle_7017831_0.html?utm_source=lootura.com) — 2026-07-24T03:00:00.000Z
-- ["Decepción" en el PSOE con Zapatero tras su entrevista: "No lo hemos entendido, no ha aclarado nada de las joyas"](https://www.elmundo.es/espana/2026/07/23/6a625f38e4d4d84c798b4596.html?utm_source=lootura.com) — 2026-07-23T20:48:53.000Z
-- [La 'popular' Ana Mestre se estrena como presidenta del Parlamento andaluz con un plantón del PSOE de María Jesús Montero: "Esto no va ser un ring"](https://www.elmundo.es/andalucia/2026/07/23/6a61ca2efc6c83037c8b4579.html?utm_source=lootura.com) — 2026-07-23T20:10:05.000Z
+- [Gerardo Pisarello: "Comparto con Gabriel Rufián la urgencia de un frente amplio de izquierdas para frenar al neofascismo"](https://www.elmundo.es/cataluna/2026/07/23/6a6271fae85ece54368b458f.html?utm_source=lootura.com) — 2026-07-23T22:49:03.000Z

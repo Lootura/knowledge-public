@@ -1,16 +1,36 @@
 {
   "id": "es-el-gobierno",
   "name": "El Gobierno",
-  "type": "person",
+  "type": "organization",
   "locale": "es",
   "canonicalPath": "/es/organization/el-gobierno",
   "canonicalUrl": "https://atlas.lootura.com/es/organization/el-gobierno",
   "markdownUrl": "https://atlas.lootura.com/es/organization/el-gobierno/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/el-gobierno/index.json",
   "description": "Sigue la actividad de El Gobierno en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-24T06:23:11.193Z",
+  "updatedAt": "2026-07-24T10:14:05.930Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "Economía y Trabajo pactan llevar el registro horario a septiembre para salvar las objeciones del Consejo de Estado",
+      "summary": "Las dos vicepresidencias se dan el verano para cerrar los últimos flecos del real decreto que prevé endurecer el registro horario, tras unos informes consultivos demoledores con la norma El Gobierno propone a la vicepresidenta Yolanda Díaz como candidata a dirigir la OIT Los vicepresidentes Carlos Cuerpo y Yolanda Díaz.",
+      "date": "2026-07-24"
+    },
+    {
+      "title": "\"Nos enfrentamos a una importante amenaza\": el Ejecutivo de Ayuso pidió en una escueta carta al Gobierno que declarara la emergencia nacional",
+      "summary": "El consejero Novillo pidió la activación del Sistema Nacional de Protección Civil, \"requiriendo el empleo de los medios y recursos nacionales o europeos que sean necesarios\", en una misiva a la que ha tenido acceso elDiario.es El Gobierno declara la emergencia nacional en la Comunidad de Madrid y Ávila por los incendio.",
+      "date": "2026-07-24"
+    },
+    {
+      "title": "FOTOS | Los incendios que asolan Madrid y Ávila, en imágenes",
+      "summary": "El fuego ha obligado a decretar la emergencia nacional y a evacuar a más de 11.000 personas El Gobierno declara la emergencia nacional en la Comunidad de Madrid y Ávila por los incendios El ministro del Interior, Fernando Grande-Marlaska, declaró este jueves por la noche la emergencia de interés nacional en la Comunida.",
+      "date": "2026-07-24"
+    },
+    {
+      "title": "El Gobierno catalán y los Comuns pactan una ley para convertir oficinas en VPO",
+      "summary": "La consejera de Territorio, Vivienda y Transición Ecológica de la Generalitat, Sílvia Paneque, y la líder de los Comuns en el Parlamento, Jéssica Albiach, han presentado una proposición de ley para reconvertir oficinas y locales comerciales en viviendas de protección oficial (VPO), y para aumentar la edificabilidad de.",
+      "date": "2026-07-24"
+    },
     {
       "title": "El Gobierno declara la emergencia nacional en la Comunidad de Madrid y en Ávila por cuatro incendios",
       "summary": "El Gobierno de España ha recogido en cuestión de un par de horas el guante lanzado por Madrid. Sobre las diez de la noche y en una decisión con un solo precedente, la presidenta madrileña, Isabel Díaz Ayuso, ha pedido vía tuit la declaración de la situación operativa tres del Plan de Protección Civil contra incendios f.",
@@ -27,11 +47,6 @@
       "date": "2026-07-24"
     },
     {
-      "title": "Economía y Trabajo pactan llevar el registro horario a septiembre para salvar las objeciones del Consejo de Estado",
-      "summary": "Las dos vicepresidencias se dan el verano para cerrar los últimos flecos del real decreto que prevé endurecer el registro horario, tras unos informes consultivos demoledores con la norma El Gobierno propone a la vicepresidenta Yolanda Díaz como candidata a dirigir la OIT Los vicepresidentes Carlos Cuerpo y Yolanda Díaz.",
-      "date": "2026-07-24"
-    },
-    {
       "title": "Última hora sobre los incendios en España: Interior asume la dirección de la lucha contra el fuego en Madrid y Ávila",
       "summary": "El Gobierno ha decretado la emergencia nacional en Madrid y Ávila por los tres incendios que en las últimas horas se han complicado con virulencia, obligando al desalojo de 11.500 personas. En la Comunidad de Madrid han sido evacuadas más de 10.000 personas debido a tres incendios: uno en Villa del Prado, con afectació.",
       "date": "2026-07-24"
@@ -45,53 +60,26 @@
       "title": "El Gobierno lanza a Yolanda Díaz como candidata para dirigir la OIT",
       "summary": "Despejada la incógnita sobre el futuro político de Yolanda Díaz, que, tras claudicar en su propio proyecto político en España —Sumar, ahora descabezado—, aspira ahora a recolocarse en las Naciones Unidas. La dirigente izquierdista se postula oficialmente para liderar la Organización Internacional del Trabajo (OIT) en G.",
       "date": "2026-07-24"
-    },
-    {
-      "title": "Última hora de los incendios forestales, en directo | El Gobierno cuestiona la petición de Ayuso: “Tienen que explicar y justificar esa solicitud”",
-      "summary": "El delegado del Gobierno en Madrid, Francisco Martín Aguirre, ha cuestionado la petición de la presidenta regional, Isabel Díaz Ayuso, para que se declare el nivel 3 de emergencia de interés nacional por la gravedad y simultaneidad de los incendios que están activos en tres comunidades. “Tienen que explicar y justifica.",
-      "date": "2026-07-23"
-    },
-    {
-      "title": "El Gobierno salva por ahora la quita autonómica pero no avanza con los Presupuestos",
-      "summary": "El Congreso se fue de vacaciones este jueves con un maratoniano pleno cuya conclusión se presta a la ambivalencia del vaso medio lleno o medio vacío. Tras un periodo de sesiones en la cuerda floja por la creciente hostilidad de una mayoría de la Cámara , el Gobierno pudo completar un balance vistoso: se aprobaron tres.",
-      "date": "2026-07-23"
-    },
-    {
-      "title": "El Gobierno y el PSOE cierran filas con Zapatero y aseguran que probará su inocencia",
-      "summary": "El Gobierno y la dirección del PSOE reiteran su respaldo a José Luis Rodríguez Zapatero tras las explicaciones que el expresidente ha dado en RTVE, donde ha defendido su inocencia sin aportar ninguna información nueva a la que ya había declarado a mediados de junio ante el juez José Luis Calama de la Audiencia Nacional.",
-      "date": "2026-07-23"
     }
   ],
   "sources": [
     {
-      "title": "El Gobierno retrasa la aprobación del registro horario pese al ultimátum de los sindicatos y dice que lo tramitará en septiembre",
-      "url": "https://elpais.com/economia/2026-07-24/el-gobierno-retrasa-la-aprobacion-del-registro-horario-pese-al-ultimatum-de-los-sindicatos.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-24T03:45:00.000Z",
-      "sourceId": "lootura-es-cinco-dias"
-    },
-    {
-      "title": "El Gobierno activará los Presupuestos pese al rechazo de la senda fiscal y abrirá un escenario insólito en España",
-      "url": "https://elpais.com/economia/2026-07-24/el-gobierno-activara-los-presupuestos-pese-al-rechazo-de-la-senda-fiscal-y-abrira-un-escenario-insolito-en-espana.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-24T03:45:00.000Z",
-      "sourceId": "lootura-es-cinco-dias"
-    },
-    {
-      "title": "Última hora de los incendios forestales, en directo | El Gobierno cuestiona la petición de Ayuso: “Tienen que explicar y justificar esa solicitud”",
-      "url": "https://elpais.com/espana/2026-07-23/ultima-hora-de-los-incendios-forestales-en-directo.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-23T20:53:08.000Z",
+      "title": "Los tres incendios que arrasan Madrid siguen ardiendo sin control: “Sopla mucho viento, va a ser un día muy peligroso”",
+      "url": "https://elpais.com/espana/madrid/2026-07-24/los-tres-incendios-que-arrasan-madrid-siguen-ardiendo-sin-control.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-24T06:18:52.000Z",
       "sourceId": "lootura-es-el-pais"
     },
     {
-      "title": "El Gobierno declara la emergencia nacional en la Comunidad de Madrid y en Ávila por cuatro incendios",
-      "url": "https://elpais.com/espana/2026-07-23/el-gobierno-declara-la-emergencia-nacional-en-la-comunidad-de-madrid-y-en-avila-por-los-incendios.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-24T00:10:33.000Z",
-      "sourceId": "lootura-es-el-pais"
+      "title": "\"Nos enfrentamos a una importante amenaza\": el Ejecutivo de Ayuso pidió en una escueta carta al Gobierno que declarara la emergencia nacional",
+      "url": "https://www.eldiario.es/madrid/enfrentamos-importante-amenaza-ejecutivo-ayuso-pidio-carta-gobierno-declarara-emergencia-nacional_1_13403750.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-24T08:19:21.000Z",
+      "sourceId": "lootura-es-eldiario-es"
     },
     {
-      "title": "El Gobierno salva por ahora la quita autonómica pero no avanza con los Presupuestos",
-      "url": "https://elpais.com/espana/2026-07-23/el-gobierno-salva-por-ahora-la-quita-autonomica-pero-no-avanza-con-los-presupuestos.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-23T19:00:04.000Z",
-      "sourceId": "lootura-es-el-pais"
+      "title": "FOTOS | Los incendios que asolan Madrid y Ávila, en imágenes",
+      "url": "https://www.eldiario.es/sociedad/fotos-incendios-asolan-madrid-avila-imagenes_3_13403965.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-24T09:23:01.000Z",
+      "sourceId": "lootura-es-eldiario-es"
     },
     {
       "title": "Economía y Trabajo pactan llevar el registro horario a septiembre para salvar las objeciones del Consejo de Estado",
@@ -100,17 +88,11 @@
       "sourceId": "lootura-es-eldiario-es"
     },
     {
-      "title": "Última hora sobre los incendios en España: Interior asume la dirección de la lucha contra el fuego en Madrid y Ávila",
-      "url": "https://www.eldiario.es/sociedad/ultima-hora-incendios-espana-interior-asume-direccion-lucha-fuego-madrid-avila_133_13403506.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-24T05:18:05.000Z",
-      "sourceId": "lootura-es-eldiario-es"
-    },
-    {
-      "title": "Críticas en Brasil, inquietud en Chile y negociación en México ante los nuevos aranceles de Trump",
-      "url": "https://www.larazon.es/internacional/criticas-brasil-inquietud-chile-negociacion-mexico-nuevos-aranceles-trump_202607246a6302bc4687a22bdecad841.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-24T06:14:21.000Z",
-      "sourceId": "lootura-es-la-razon"
+      "title": "El Gobierno catalán y los Comuns pactan una ley para convertir oficinas en VPO",
+      "url": "https://theobjective.com/espana/politica/2026-07-24/gobierno-catalan-comuns-ley-oficinas-vpo/?utm_source=lootura.com",
+      "publishedAt": "2026-07-24T09:19:13.000Z",
+      "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 8
+  "evidenceCount": 4
 }
