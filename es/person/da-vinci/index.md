@@ -22,7 +22,7 @@ Date: 2026-07-24
 
 ### Discovered by Atlas
 
-Da Vinci first entered the public knowledge record with source-backed evidence.
+Leonardo da Vinci first entered the public knowledge record with source-backed evidence.
 
 Date: 2026-07-24
 

@@ -10,7 +10,8 @@
   "description": "Sigue la actividad de Leonardo da Vinci en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
   "updatedAt": "2026-07-24T13:39:03.048Z",
   "aliases": [
-    "Da Vinci"
+    "Da Vinci",
+    "Vinci"
   ],
   "changes": [
     {
@@ -25,7 +26,7 @@
     },
     {
       "title": "Discovered by Atlas",
-      "summary": "Da Vinci first entered the public knowledge record with source-backed evidence.",
+      "summary": "Leonardo da Vinci first entered the public knowledge record with source-backed evidence.",
       "date": "2026-07-24"
     }
   ],
