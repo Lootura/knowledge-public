@@ -40,5 +40,4 @@ Date: 2026-07-23
 
 ## Fuentes
 
-- [Sandra Ortega ganó 307 millones con su holding empresarial gracias al alza de dividendos de Inditex](https://cincodias.elpais.com/companias/2026-07-23/sanda-ortega-gano-307-millones-con-su-holding-empresarial-gracias-al-alza-de-dividendos-de-inditex.html?utm_source=lootura.com) — 2026-07-23T17:01:22.000Z
-- [Amancio Ortega sella su operación récord en Europa con una compra en París por 800 millones](https://www.expansion.com/inmobiliario/mercado/2026/07/23/6a624222468aeb48318b4591.html?utm_source=lootura.com) — 2026-07-23T16:32:41.000Z
+No public source links.

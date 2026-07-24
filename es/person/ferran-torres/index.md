@@ -3,7 +3,7 @@
 > Sigue la actividad de "El Tiburón" en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-23T13:51:07.363Z
+- Actualizado: 2026-07-24T02:28:09.478Z
 - Canonical: https://atlas.lootura.com/es/person/ferran-torres
 
 ## Cambios recientes
@@ -70,4 +70,4 @@ Date: 2026-07-19
 
 ## Fuentes
 
-No public source links.
+- [El peluquero que cambió el look a Ferrán Torres: «El secreto es el aceite de romero»](https://www.abc.es/summum/estilo/belleza/nando-diaz-peluquero-seleccion-espanola-ferran-torres-20260723150116-nt.html?utm_source=lootura.com) — 2026-07-24T00:49:21.000Z

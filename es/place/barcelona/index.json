@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/barcelona/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/barcelona/index.json",
   "description": "Sigue la actividad de Barcelona en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-23T21:01:09.831Z",
+  "updatedAt": "2026-07-24T02:28:09.478Z",
   "aliases": [
     "B'na",
     "Barcelona City",
@@ -21,6 +21,11 @@
     "Ciudad condal"
   ],
   "changes": [
+    {
+      "title": "Karim Adeyemi ya es del Barcelona tras sortear un labertinto burocrático",
+      "summary": "El FC Barcelona ha hecho oficial el fichaje del extremo alemán Karim Adeyemi, quien queda vinculado al club catalán mediante un contrato de cinco temporadas. El delantero de 24 años llega procedente del Borussia Dortmund en una operación relámpago liderada por la dirección deportiva de Deco. Su llegada añade velocidad.",
+      "date": "2026-07-24"
+    },
     {
       "title": "Incendios en España, en directo: restablecida la circulación de la alta velocidad entre Madrid y Barcelona",
       "summary": "Los servicios de emergencia continúan trabajando en varios incendios forestales activos en distintos puntos de España, con especial atención a la evolución de los fuegos declarados en Castilla-La Mancha, Cataluña, Castilla y León, Andalucía y Aragón.",
@@ -65,19 +70,14 @@
       "title": "Suspendida la línea de alta velocidad entre Madrid y Barcelona por un incendio",
       "summary": "ADIF ha comunicado que la línea de alta velocidad entre Madrid y Barcelona está actualmente suspendida «por un incendio próximo a la vía y ajeno a la explotación ferroviaria». En un tuit, la entidad pública española ha explicado que se ha suspendido la circulación entre Mejorada del Campo y Alcalá de Henares. En otro m.",
       "date": "2026-07-23"
-    },
-    {
-      "title": "Ocho heridos en la deflagración de gas en la plaza Sants de Barcelona",
-      "summary": "Los Bombers de Barcelona trabajan con 9 dotaciones esta noche del miércoles al jueves en un incendio por una deflagración de gas a las 22.50 en la Plaça de Sants, según fuentes del Ayuntamiento de Barcelona.Hay 8 hombres heridos: 2 afectados graves y 2 menos graves (traslados al Hospital Vall d'Hebron), 1 menos grave y.",
-      "date": "2026-07-23"
     }
   ],
   "sources": [
     {
-      "title": "Incendios en España, en directo: restablecida la circulación de la alta velocidad entre Madrid y Barcelona",
-      "url": "https://www.larazon.es/sociedad/incendios-espana-directo-hoy-ultima-hora-fuegos-activos-operativos-extincion_202607236a6192fada3add27d4dd1811.html?outputType=amp&utm_source=lootura.com",
-      "publishedAt": "2026-07-23T20:54:17.000Z",
-      "sourceId": "lootura-es-la-razon"
+      "title": "Karim Adeyemi ya es del Barcelona tras sortear un labertinto burocrático",
+      "url": "https://www.abc.es/deportes/futbol/karim-adeyemi-barcelona-tras-sortear-labertinto-burocratico-20260723150611-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-24T00:48:23.000Z",
+      "sourceId": "lootura-es-abc"
     }
   ],
   "evidenceCount": 1

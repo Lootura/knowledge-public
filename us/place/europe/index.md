@@ -3,10 +3,16 @@
 > Follow Europe, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-23T21:01:27.760Z
+- Updated: 2026-07-24T02:28:29.719Z
 - Canonical: https://atlas.lootura.com/us/place/europe
 
 ## Recent changes
+
+### Plant scientist explains the impact of the EU's new gene-editing rules
+
+The European Union adopted new legislation on plants obtained through certain new genomic techniques in June 2026. The new framework will apply after a two-year transition period. It distinguishes between two categories. Plants in Category 1 (NGT-1) have a limited number and type of genetic changes that could also occu.
+
+Date: 2026-07-24
 
 ### Google Hit With $1 Billion Fine By EU Over Search Engine Practices
 
@@ -62,13 +68,8 @@ Dorian Godon of France and Netcompany INEOS Cycling Team refreshes during the To
 
 Date: 2026-07-21
 
-### Greece braces for year's first heat wave
-
-Greece, which was spared the record heat that ravaged most of Europe in June, is finally bracing for its first heat wave of the year.
-
-Date: 2026-07-20
-
 ## Sources
 
+- [Plant scientist explains the impact of the EU's new gene-editing rules](https://phys.org/news/2026-07-scientist-impact-eu-gene.html?utm_source=lootura.com) — 2026-07-24T01:20:01.000Z
 - [Google Hit With $1 Billion Fine By EU Over Search Engine Practices](https://www.nytimes.com/2026/07/23/business/google-eu-fine-search-competition.html?utm_source=lootura.com) — 2026-07-23T12:33:45.000Z
 - [U.S.-Saudi Deal Prompts Fears of a Global Nuclear Arms Race](https://www.nytimes.com/2026/07/23/world/europe/us-saudi-deal-nuclear-hedging.html?utm_source=lootura.com) — 2026-07-23T15:28:15.000Z

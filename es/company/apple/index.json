@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/es/company/apple/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/company/apple/index.json",
   "description": "Sigue la actividad de Apple en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-23T02:31:05.539Z",
+  "updatedAt": "2026-07-24T02:28:09.478Z",
   "aliases": [
     "Apple (company)",
     "Apple Inc"
   ],
   "changes": [
+    {
+      "title": "Nepobabies: Apple Martin, el relevo «cool» de Hollywood",
+      "summary": "Hija de dos celebridades, ocupa ya un espacio propio en la élite de la moda y la cultura pop.",
+      "date": "2026-07-24"
+    },
     {
       "title": "Galaxy Watch Ultra 2 vs. Apple Watch Ultra 3: ¿cuál es mejor?",
       "summary": "Samsung ha renovado su gama de relojes inteligentes con el lanzamiento de los Galaxy Watch Ultra 2 y Galaxy Watch 9 . Ambos relojes llegan con hardware actualizado y nuevas funciones que sacan el provecho a los sensores para medir cuestiones como la actividad física, sueño y más. De los dos, el Galaxy Watch Ultra 2 es.",
@@ -58,13 +63,15 @@
       "title": "Si tienes Android, esta es la mejor alternativa a la Play Store: encuentra apps en GitHub, las descarga e instala con un solo clic",
       "summary": "Cada vez son más los usuarios de Android que buscan alternativas a la Play Store para instalar aplicaciones. Con la puesta en marcha de la Ley de Mercados Digitales , Google y Apple tuvieron que abrir sus ecosistemas para permitir tiendas de terceros. Esto no ha resultado del todo intuitivo, pero existe una app conocid.",
       "date": "2026-07-18"
-    },
-    {
-      "title": "Apple Music sube de precio: esto pagarás a partir de hoy",
-      "summary": "Malas noticias para los usuarios de Apple Music : desde hoy, el servicio es más caro. La plataforma de música en streaming de la manzana acaba de subir de precio y España se encuentra entre los países afectados. Es el primer encarecimiento que el servicio sufre desde 2022 e impacta tanto en el plan Individual, como en.",
-      "date": "2026-07-17"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Nepobabies: Apple Martin, el relevo «cool» de Hollywood",
+      "url": "https://www.larazon.es/gente/famosos/nepobabies-apple-martin-relevo-cool-hollywood_202607246a62c39eaa17c0020f2ca8b1.html?outputType=amp&utm_source=lootura.com",
+      "publishedAt": "2026-07-24T01:45:02.000Z",
+      "sourceId": "lootura-es-la-razon"
+    }
+  ],
+  "evidenceCount": 1
 }

@@ -3,14 +3,20 @@
 > Sigue la actividad de Organización internacional en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-23T17:19:26.220Z
+- Actualizado: 2026-07-24T02:28:09.478Z
 - Canonical: https://atlas.lootura.com/es/organization/organizacion-internacional
 
 ## Cambios recientes
 
+### El Gobierno lanza a Yolanda Díaz como candidata para dirigir la OIT
+
+Despejada la incógnita sobre el futuro político de Yolanda Díaz, que, tras claudicar en su propio proyecto político en España —Sumar, ahora descabezado—, aspira ahora a recolocarse en las Naciones Unidas. La dirigente izquierdista se postula oficialmente para liderar la Organización Internacional del Trabajo (OIT) en G.
+
+Date: 2026-07-24
+
 ### Discovered by Atlas
 
-Organización Internacional first entered the public knowledge record with source-backed evidence.
+Organización internacional first entered the public knowledge record with source-backed evidence.
 
 Date: 2026-07-23
 
@@ -64,4 +70,4 @@ Date: 2026-07-23
 
 ## Fuentes
 
-No public source links.
+- [El Gobierno lanza a Yolanda Díaz como candidata para dirigir la OIT](https://www.abc.es/espana/moncloa-propone-yolanda-diaz-optar-direccion-general-20260723090113-nt.html?utm_source=lootura.com) — 2026-07-24T00:51:41.000Z

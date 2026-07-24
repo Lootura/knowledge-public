@@ -3,7 +3,7 @@
 > Sigue la actividad de Julio Martínez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-23T21:01:09.831Z
+- Actualizado: 2026-07-24T02:28:09.478Z
 - Canonical: https://atlas.lootura.com/es/person/julio-martinez
 
 ## Cambios recientes
@@ -11,6 +11,12 @@
 ### Los titulares de la entrevista a Zapatero: de la estrategia de defensa de Julio Martínez a los trabajos de sus hijas
 
 El expresidente del Gobierno José Luis Rodríguez Zapatero ha dado este jueves en RTVE su primera entrevista a un medio de comunicación desde que fuese imputado en una investigación de la Audiencia Nacional que lo coloca en la cúspide de una trama internacional de tráfico ilícito de influencias. El asunto partía del lav.
+
+Date: 2026-07-23
+
+### Zapatero salta al rescate
+
+José Luis Rodríguez Zapatero rompió ayer su silencio, que duraba ya dos meses, para enviar un mensaje muy claro de apoyo al Gobierno. Solo 24 horas después de que Julio Martínez Martínez lo pusiera al pie de los caballos con su declaración ante el juez, el exmandatario quiso dejar claro que el dinero que recibió por su.
 
 Date: 2026-07-23
 
@@ -62,12 +68,7 @@ Los periodistas de THE OBJECTIVE abordan en 'Objetivo directo' la confesión de 
 
 Date: 2026-07-22
 
-### Julio Martínez complica el futuro judicial de Zapatero aunque no despeja la X que pondría en serios aprietos a Moncloa
-
-La declaración de Julio Martínez Martínez y los escritos que tanto él como dos altos cargos de Plus Ultra han remitido esta semana a la Audiencia Nacional han complicado seriamente el futuro judicial de José Luis Rodríguez Zapatero . Los tres investigados corroboran ahora los informes de la UDEF y señalan que el expres.
-
-Date: 2026-07-22
-
 ## Fuentes
 
 - [Los titulares de la entrevista a Zapatero: de la estrategia de defensa de Julio Martínez a los trabajos de sus hijas](https://elpais.com/espana/2026-07-23/las-titulares-de-la-entrevista-a-zapatero-de-la-estrategia-de-defensa-de-julio-martinez-a-los-trabajos-de-sus-hijas.html?utm_source=lootura.com) — 2026-07-23T12:32:24.000Z
+- [Zapatero salta al rescate](https://www.lavanguardia.com/opinion/20260724/11599751/zapatero-salta-rescate.html?utm_source=lootura.com) — 2026-07-23T22:38:55.000Z

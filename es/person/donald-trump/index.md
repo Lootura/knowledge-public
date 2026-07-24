@@ -3,10 +3,46 @@
 > Sigue la actividad de Donald Trump en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-23T17:19:26.220Z
+- Actualizado: 2026-07-24T02:28:09.478Z
 - Canonical: https://atlas.lootura.com/es/person/donald-trump
 
 ## Cambios recientes
+
+### 24 estados demandan al Gobierno de Trump por ligar fondos a cooperar en inmigración
+
+Acusan al Ejecutivo de «obligar a los estados a modificar sus procedimientos electorales».
+
+Date: 2026-07-24
+
+### Trump afirma que «todo daño» a buques será pagado con «fondos iraníes»
+
+El presidente de Estados Unidos, Donald Trump , ha afirmado que todo daño causado a buques y cargamentos —presumiblemente en el estrecho de Ormuz, aunque ha responsabilizado a Teherán de los ataques de los rebeldes hutíes de Yemen a embarcaciones en el mar Rojo—, «será pagado con fondos iraníes que Estados Unidos tiene.
+
+Date: 2026-07-24
+
+### Trump impone nuevos aranceles de entre el 10% y el 12,5% a más de 60 países para mantener su muro comercial
+
+El presidente de Estados Unidos, Donald Trump, ha aprobado este jueves una orden ejecutiva para imponer aranceles de entre el 10% y el 12,5% a más de 60 países, entre los que se encuentran España y el resto de miembros de la Unión Europea, Reino Unido, China, India, Japón, Corea del Sur o México, por no haber tomado su.
+
+Date: 2026-07-23
+
+### Trump intenta reconstruir su muro proteccionista con aranceles del 10 y el 12% a más de 60 socios comerciales, incluyendo la UE
+
+Tras la decisión del Tribunal Supremo, que en febrero declaró ilegales los gravámenes aplicados con una ley de emergencia económica, Washington aplica un nuevo recargo amparándose en legislación sobre trabajos forzosos Leer.
+
+Date: 2026-07-23
+
+### Trump activa este viernes una nueva tanda de aranceles globales del 10% al 12,5% a más de 60 países
+
+Donald Trump ha terminado por desplegar la artillería para su nueva batalla comercial. Estados Unidos estrenará este viernes una nueva oleada de aranceles, de entre el 10% y el 12,5%, sobre los productos de más de 60 países para sustituir a las tarifas generales del 10% que impuso después de que la Justicia estadounide.
+
+Date: 2026-07-23
+
+### Donald Trump anuncia aranceles de hasta el 12,5% a 60 países, entre ellos España
+
+La Administración del presidente de Estados Unidos , Donald Trump , ha anunciado este jueves nuevos aranceles de entre el 10% y el 12,5% a las importaciones procedentes de 60 países, entre ellos España. El presidente justifica la medida en una investigación sobre «esfuerzos insuficientes para combatir el trabajo forzos.
+
+Date: 2026-07-23
 
 ### Los ataques hutíes en el Mar Rojo, que Trump promete castigar, disparan el petróleo a 100 dólares
 
@@ -32,42 +68,11 @@ Fuentes oficiales de la Casa Blanca han filtrado a los principales medios de pre
 
 Date: 2026-07-23
 
-### Trump autoriza un pacto nuclear que permitirá a Arabia Saudí enriquecer uranio
-
-De las muchas justificaciones que Donald Trump ha dado en casi cinco meses para su guerra en Irán , la de impedir que el régimen de los ayatolás continúe con su programa nuclear y pueda acabar teniendo la bomba atómica es la que ha acabado cristalizando en el argumentario de la Casa Blanca y sus aliados. El presidente.
-
-Date: 2026-07-22
-
-### Trump amenaza con destruir puentes o centrales eléctricas cada vez que Irán ataque un barco en Ormuz
-
-Estados Unidos e Irán cada vez están más cerca de una guerra total al tiempo que el conflicto entra en un callejón sin salida. El presidente de Estados Unidos, Donald Trump, ha prometido este miércoles destruir un puente o una central eléctrica iraní cada vez que Irán dispare contra un barco en el estrecho de Ormuz. El.
-
-Date: 2026-07-22
-
-### El alcalde de Nueva York, Zohran Mamdani, insta a Trump a detener al “criminal” Netanyahu si entra en Estados Unidos
-
-Zohran Mamdani ganó el año pasado las elecciones a la alcaldía de Nueva York con un discurso durísimo contra el Gobierno israelí y su actuación en Gaza y Cisjordania. Ahora ha dado un paso más al reclamar a la Administración republicana de Donald Trump que detenga al primer ministro Benjamín Netanyahu si pisa suelo est.
-
-Date: 2026-07-22
-
-### Trump aprueba un histórico acuerdo nuclear con Arabia Saudí en una gran victoria para el reino
-
-El pacto podría suponer grandes beneficios para las empresas estadounidenses, pero también es probable que suscite inquietud sobre la proliferación nuclear en Oriente Próximo Leer.
-
-Date: 2026-07-22
-
-### Trump blinda a Delcy hasta que celebre elecciones en Venezuela dentro de un año
-
-Donald Trump ha decidido proteger judicialmente a Delcy Rodríguez, pero no liberarla de la amenaza de los tribunales estadounidenses. La inmunidad solicitada por su Administración ante un juez federal de Miami es un escudo condicionado , pues solo existe mientras ella siga siendo la jefa de Estado reconocida por Estado.
-
-Date: 2026-07-22
-
-### Trump se dispone a firmar un acuerdo nuclear con Arabia Saudí en plena escalada de tensiones con Irán
-
-En plena escalada de tensiones bélicas con Irán, el Gobierno de Estados Unidos que preside Donald Trump se dispone a firmar un acuerdo con Arabia Saudí que permitiría al país contar con un programa nuclear civil, abriendo la puerta al enriquecimiento de uranio. El acuerdo, que busca reordenar el equilibrio de poderes e.
-
-Date: 2026-07-22
-
 ## Fuentes
 
-No public source links.
+- [Trump impone nuevos aranceles de entre el 10% y el 12,5% a más de 60 países para mantener su muro comercial](https://elpais.com/internacional/2026-07-23/trump-impone-nuevos-aranceles-de-entre-el-10-y-el-125-a-60-paises-para-mantener-su-muro-comercial.html?utm_source=lootura.com) — 2026-07-23T21:35:58.000Z
+- [Trump intenta reconstruir su muro proteccionista con aranceles del 10 y el 12% a más de 60 socios comerciales, incluyendo la UE](https://www.elmundo.es/economia/2026/07/24/6a628eabe4d4d8a9278b458b.html?utm_source=lootura.com) — 2026-07-23T22:00:13.000Z
+- [Trump activa este viernes una nueva tanda de aranceles globales del 10% al 12,5% a más de 60 países](https://www.expansion.com/economia/2026/07/23/6a628982e5fdead43d8b457b.html?utm_source=lootura.com) — 2026-07-23T21:58:25.000Z
+- [Donald Trump anuncia aranceles de hasta el 12,5% a 60 países, entre ellos España](https://theobjective.com/internacional/2026-07-24/trump-aranceles-60-paises-espana/?utm_source=lootura.com) — 2026-07-23T22:00:48.000Z
+- [24 estados demandan al Gobierno de Trump por ligar fondos a cooperar en inmigración](https://theobjective.com/internacional/2026-07-24/24-estados-gobierno-trump-fondos-cooperar-inmigracion/?amp=&utm_source=lootura.com) — 2026-07-24T00:47:49.000Z
+- [Trump afirma que «todo daño» a buques será pagado con «fondos iraníes»](https://theobjective.com/internacional/2026-07-24/trump-dano-buques-fondos-iranies/?utm_source=lootura.com) — 2026-07-24T00:22:09.000Z

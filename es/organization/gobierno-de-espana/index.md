@@ -3,10 +3,16 @@
 > Sigue la actividad de Gobierno de España en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-23T21:01:09.831Z
+- Actualizado: 2026-07-24T02:28:09.478Z
 - Canonical: https://atlas.lootura.com/es/organization/gobierno-de-espana
 
 ## Cambios recientes
+
+### El Gobierno declara la emergencia nacional en la Comunidad de Madrid y en Ávila por cuatro incendios
+
+El Gobierno de España ha recogido en cuestión de un par de horas el guante lanzado por Madrid. Sobre las diez de la noche y en una decisión con un solo precedente, la presidenta madrileña, Isabel Díaz Ayuso, ha pedido vía tuit la declaración de la situación operativa tres del Plan de Protección Civil contra incendios f.
+
+Date: 2026-07-24
 
 ### Madrid solicita la emergencia nacional por los incendios: "Estamos con fuegos fuera de capacidad de extinción"
 
@@ -62,12 +68,6 @@ El ex presidente español transmite a EL MUNDO que no va a responder a los insul
 
 Date: 2026-07-12
 
-### Francia carga contra Rajoy por decir que su selección es de «altísimo nivel, sin franceses»
-
-El ministro francés del Interior, Laurent Nuñez, ha calificado este domingo de «absolutamente inaceptables» las declaraciones del expresidente del Gobierno español Mariano Rajoy , quien aseguró en una columna de opinión que la selección francesa de fútbol tiene «un altísimo nivel, eso sí, sin franceses». «Si esa declar.
-
-Date: 2026-07-12
-
 ## Fuentes
 
-- [Madrid solicita la emergencia nacional por los incendios: "Estamos con fuegos fuera de capacidad de extinción"](https://www.larazon.es/madrid/madrid-solicita-emergencia-nacional-incendios-estamos-incendios-fuera-capacidad-extincion_202607236a627568aa17c0020f2c4811.html?utm_source=lootura.com) — 2026-07-23T20:11:20.000Z
+- [El Gobierno declara la emergencia nacional en la Comunidad de Madrid y en Ávila por cuatro incendios](https://elpais.com/espana/2026-07-23/el-gobierno-declara-la-emergencia-nacional-en-la-comunidad-de-madrid-y-en-avila-por-los-incendios.html?utm_source=lootura.com) — 2026-07-24T00:10:33.000Z

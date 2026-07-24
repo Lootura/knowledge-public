@@ -70,4 +70,4 @@ Date: 2026-07-17
 
 ## Sources
 
-- [Heightened scrutiny over food safety amid cyclospora outbreak](https://www.cbsnews.com/video/heightened-scrutiny-over-food-safety-amid-cyclospora-outbreak/?utm_source=lootura.com) — 2026-07-23T13:19:53.000Z
+No public source links.

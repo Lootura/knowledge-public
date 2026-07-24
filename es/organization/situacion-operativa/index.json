@@ -27,19 +27,6 @@
       "date": "2026-07-23"
     }
   ],
-  "sources": [
-    {
-      "title": "Madrid, en alerta máxima por tres incendios: evacuaciones en Aldea del Fresno y solicita la intervención del Gobierno",
-      "url": "https://www.elconfidencial.com/espana/madrid/2026-07-23/madrid-alerta-incendios-intervencion-gobierno_4395004/?utm_source=lootura.com",
-      "publishedAt": "2026-07-23T20:19:00.000Z",
-      "sourceId": "lootura-es-el-confidencial"
-    },
-    {
-      "title": "Madrid solicita la emergencia nacional por los incendios: \"Estamos con fuegos fuera de capacidad de extinción\"",
-      "url": "https://www.larazon.es/madrid/madrid-solicita-emergencia-nacional-incendios-estamos-incendios-fuera-capacidad-extincion_202607236a627568aa17c0020f2c4811.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-23T20:11:20.000Z",
-      "sourceId": "lootura-es-la-razon"
-    }
-  ],
-  "evidenceCount": 3
+  "sources": [],
+  "evidenceCount": 0
 }

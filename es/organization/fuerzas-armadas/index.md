@@ -46,4 +46,4 @@ Date: 2026-07-21
 
 ## Fuentes
 
-- [Francia condecora al jefe de la Armada por reforzar la cooperación entre ambos países](https://theobjective.com/espana/2026-07-23/francia-armada-cooperacion-paises/?utm_source=lootura.com) — 2026-07-23T16:30:53.000Z
+No public source links.

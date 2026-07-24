@@ -70,4 +70,4 @@ Date: 2026-07-20
 
 ## Sources
 
-- [DOJ to withdraw subpoenas for New York Times reporters over Air Force One story](https://www.cbsnews.com/news/government-withdraws-subpoenas-for-new-york-times-reporters/?utm_source=lootura.com) — 2026-07-23T20:36:40.000Z
+No public source links.

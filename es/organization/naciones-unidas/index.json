@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/naciones-unidas/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/naciones-unidas/index.json",
   "description": "Sigue la actividad de Organización de las Naciones Unidas en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-23T17:19:26.220Z",
+  "updatedAt": "2026-07-24T02:28:09.478Z",
   "aliases": [
     "NN. UU.",
     "Naciones Unidas",
@@ -17,6 +17,11 @@
     "the UN"
   ],
   "changes": [
+    {
+      "title": "El Gobierno lanza a Yolanda Díaz como candidata para dirigir la OIT",
+      "summary": "Despejada la incógnita sobre el futuro político de Yolanda Díaz, que, tras claudicar en su propio proyecto político en España —Sumar, ahora descabezado—, aspira ahora a recolocarse en las Naciones Unidas. La dirigente izquierdista se postula oficialmente para liderar la Organización Internacional del Trabajo (OIT) en G.",
+      "date": "2026-07-24"
+    },
     {
       "title": "El Gobierno lanza a Díaz como candidata para dirigir la Organización Internacional del Trabajo",
       "summary": "Despejada la incógnita sobre el futuro político de Yolanda Díaz, que, tras claudicar en su propio proyecto político en España —Sumar, ahora descabezado—, aspira ahora a recolocarse en las Naciones Unidas. La dirigente izquierdista se postula oficialmente para liderar la Organización Internacional del Trabajo (OIT) en G.",
@@ -61,13 +66,15 @@
       "title": "La ONU impulsa una campaña global para prohibir los videojuegos centrados en “matar” y “hacer de la guerra un juego”",
       "summary": "El Alto Representante de la Alianza de Civilizaciones de Naciones Unidas (Unaoc), Miguel Ángel Moratinos, presentó en Luanda (Angola) una campaña internacional para alertar sobre los efectos de los videojuegos de temática bélica en niños y adolescentes y abrir un debate global sobre la posibilidad de prohibir aquellos.",
       "date": "2026-07-19"
-    },
-    {
-      "title": "La ONU impulsa una campaña global para prohibir los videojuegos centrados en «matar»",
-      "summary": "El Alto Representante de la Alianza de Civilizaciones de Naciones Unidas (Unaoc), Miguel Ángel Moratinos, presentó en Luanda (Angola) una campaña internacional para alertar sobre los efectos de los videojuegos de temática bélica en niños y adolescentes y abrir un debate global sobre la posibilidad de prohibir aquellos.",
-      "date": "2026-07-19"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "El Gobierno lanza a Yolanda Díaz como candidata para dirigir la OIT",
+      "url": "https://www.abc.es/espana/moncloa-propone-yolanda-diaz-optar-direccion-general-20260723090113-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-24T00:51:41.000Z",
+      "sourceId": "lootura-es-abc"
+    }
+  ],
+  "evidenceCount": 1
 }

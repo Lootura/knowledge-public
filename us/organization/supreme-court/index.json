@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/supreme-court/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/supreme-court/index.json",
   "description": "Follow Supreme court, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-23T21:01:27.760Z",
+  "updatedAt": "2026-07-24T02:28:29.719Z",
   "aliases": [
     "U.S. Supreme Court",
     "apex court",
@@ -19,6 +19,11 @@
     {
       "title": "Supreme Court Turbocharges Presidential Power",
       "summary": "A pair of decisions reshaped the structure of the federal government.",
+      "date": "2026-07-23"
+    },
+    {
+      "title": "Trump imposes double-digit tariffs on dozens of countries as stopgap 10% levies expire Friday",
+      "summary": "President Donald Trump is going ahead with new double-digit tariffs on dozens of U.S. trading partners just as the clock runs out Friday on stopgap levies he imposed after a stinging defeat at the Supreme Court.",
       "date": "2026-07-23"
     },
     {
@@ -60,14 +65,15 @@
       "title": "With Threats Rising, Supreme Court Asks Congress to Increase Security Funds",
       "summary": "Justices Amy Coney Barrett and Elena Kagan are scheduled to make a rare appearance at the Capitol to testify about the court’s more than $200 million request.",
       "date": "2026-07-13"
-    },
-    {
-      "title": "Kansans Will Vote on an Elected Supreme Court. The Target: Abortion.",
-      "summary": "Frustrated by the appointed court’s support of abortion rights, which has been affirmed resoundingly by voters, Republicans are pushing an Aug. 4 referendum to elect Kansas justices.",
-      "date": "2026-07-11"
     }
   ],
   "sources": [
+    {
+      "title": "Trump imposes double-digit tariffs on dozens of countries as stopgap 10% levies expire Friday",
+      "url": "https://www.pbs.org/newshour/politics/trump-imposes-double-digit-tariffs-on-dozens-of-countries-as-stopgap-10-levies-expire-friday?utm_source=lootura.com",
+      "publishedAt": "2026-07-23T23:04:52.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
+    },
     {
       "title": "Supreme Court Turbocharges Presidential Power",
       "url": "https://www.nytimes.com/2026/07/23/us/politics/the-docket-presidential-power-trump.html?utm_source=lootura.com",
@@ -75,5 +81,5 @@
       "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 3
 }

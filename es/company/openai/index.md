@@ -3,7 +3,7 @@
 > Sigue la actividad de OpenAI en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: company
-- Actualizado: 2026-07-23T02:31:05.539Z
+- Actualizado: 2026-07-24T02:28:09.478Z
 - Canonical: https://atlas.lootura.com/es/company/openai
 
 ## Cambios recientes
@@ -40,4 +40,4 @@ Date: 2026-07-15
 
 ## Fuentes
 
-No public source links.
+- [Estados Unidos propone un botón para apagar la IA antes de que se descontrole](https://hipertextual.com/inteligencia-artificial/boton-apagado-ia-estados-unidos/?utm_source=lootura.com) — 2026-07-23T21:25:00.000Z

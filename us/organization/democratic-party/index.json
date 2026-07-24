@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/democratic-party/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/democratic-party/index.json",
   "description": "Follow Democratic Party, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-23T21:01:27.760Z",
+  "updatedAt": "2026-07-24T02:28:29.719Z",
   "aliases": [
     "Democrats"
   ],
@@ -21,6 +21,11 @@
     {
       "title": "For a 2nd time, House approves resolution to end the war in Iran in a rebuke to Trump",
       "summary": "Four Republicans joined Democrats to approve the measure. And while it is not legally binding, the resolution represents growing frustration inside Congress over the war. (Image credit: J. Scott Applewhite).",
+      "date": "2026-07-23"
+    },
+    {
+      "title": "House Rebukes Trump on Iran in War Powers Vote as Senate Blocks Debate",
+      "summary": "For the second time, a few House Republicans joined Democrats to back a measure calling on the president to seek authorization for the war.",
       "date": "2026-07-23"
     },
     {
@@ -57,11 +62,6 @@
       "title": "South Carolina and Nevada Fight to Kick Off Democrats’ 2028 Presidential Calendar",
       "summary": "The calendar order could be hugely important to the 2028 presidential primary race. Democratic insiders will try to sketch out a schedule this week, and rival states are sniping at one another.",
       "date": "2026-07-22"
-    },
-    {
-      "title": "US House passes $1.15tn defense policy bill in near party-line vote",
-      "summary": "Passage of annual bill complicated by Trump’s decision to join Israel in attacking Iran without congressional approval The US House of Representatives passed a $1.15tn defense policy bill in a near-party-line vote on Wednesday, after Democrats refused to back the measure amid the war with Iran and Donald Trump ’s push.",
-      "date": "2026-07-22"
     }
   ],
   "sources": [
@@ -81,7 +81,7 @@
       "title": "House Rebukes Trump on Iran in War Powers Vote as Senate Blocks Debate",
       "url": "https://www.nytimes.com/2026/07/23/us/politics/house-iran-war-powers-vote-trump.html?utm_source=lootura.com",
       "publishedAt": "2026-07-23T18:17:54.000Z",
-      "sourceId": "lootura-us-the-new-york-times-politics"
+      "sourceId": "lootura-us-the-new-york-times"
     }
   ],
   "evidenceCount": 3

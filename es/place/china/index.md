@@ -3,10 +3,16 @@
 > Sigue la actividad de China en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-23T21:01:09.831Z
+- Actualizado: 2026-07-24T02:28:09.478Z
 - Canonical: https://atlas.lootura.com/es/place/china
 
 ## Cambios recientes
+
+### Trump impone nuevos aranceles de entre el 10% y el 12,5% a más de 60 países para mantener su muro comercial
+
+El presidente de Estados Unidos, Donald Trump, ha aprobado este jueves una orden ejecutiva para imponer aranceles de entre el 10% y el 12,5% a más de 60 países, entre los que se encuentran España y el resto de miembros de la Unión Europea, Reino Unido, China, India, Japón, Corea del Sur o México, por no haber tomado su.
+
+Date: 2026-07-23
 
 ### La planta de Almusafes entra de lleno en la guerra comercial entre EE.UU. y China
 
@@ -62,12 +68,6 @@ La pregunta sobre la inteligencia artificial china no es ya si alcanzará a Esta
 
 Date: 2026-07-19
 
-### Didi en China, así funciona la app de VTC para moverse por las ciudades que visites
-
-Hace unos días escribí sobre la experiencia de un robotaxi , vehículo sin conductor, en mi viaje a China. Ahora, voy con otro asunto a tener en cuenta si viajas al gigante asiático. Pedir un Didi ha sido una de las cosas que más rápido incorporé a mi rutina durante un viaje reciente a Shenzhen. La compañía absorbió el.
-
-Date: 2026-07-19
-
 ## Fuentes
 
-- [La planta de Almusafes entra de lleno en la guerra comercial entre EE.UU. y China](https://www.abc.es/internacional/planta-almusafes-entra-lleno-guerra-comercial-eeuu-20260722224548-nt_amp.html?utm_source=lootura.com) — 2026-07-23T20:47:35.000Z
+- [Trump impone nuevos aranceles de entre el 10% y el 12,5% a más de 60 países para mantener su muro comercial](https://elpais.com/internacional/2026-07-23/trump-impone-nuevos-aranceles-de-entre-el-10-y-el-125-a-60-paises-para-mantener-su-muro-comercial.html?utm_source=lootura.com) — 2026-07-23T21:35:58.000Z

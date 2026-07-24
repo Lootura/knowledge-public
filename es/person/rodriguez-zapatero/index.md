@@ -3,7 +3,7 @@
 > Sigue la actividad de José Luis Rodríguez Zapatero en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-23T21:01:09.831Z
+- Actualizado: 2026-07-24T02:28:09.478Z
 - Canonical: https://atlas.lootura.com/es/person/rodriguez-zapatero
 
 ## Cambios recientes
@@ -44,34 +44,34 @@ El Gobierno y la dirección del PSOE reiteran su respaldo a José Luis Rodrígue
 
 Date: 2026-07-23
 
-### La senda de déficit de Sánchez naufraga por tercer año seguido y enmaraña los presupuestos
-
-El Gobierno se esfuerza en aparentar normalidad, pero muy pocas cosas lo son esta legislatura. Mientras el Pleno del Congreso celebraba este jueves su segunda sesión plenaria extraordinaria del mes de julio, el expresidente José Luis Rodríguez Zapatero trataba de explicar, sin aclarar nada, por qué tenía joyas valorada.
-
-Date: 2026-07-23
-
-### Gestha sostiene que la explicación de Zapatero sobre sus joyas busca la prescripción de posibles delitos fiscales
-
-El sindicato de técnicos del Ministerio de Hacienda (Gestha) consideran que la estrategia del expresidente del Gobierno José Luis Rodríguez Zapatero sobre sus joyas "apunta a la prescripción de los posibles delitos fiscales" y recalcan que si demuestra que las recibió durante su presidencia, debería cederlas al Patrimo.
-
-Date: 2026-07-23
-
 ### Zapatero, sobre el rescate de Plus Ultra: “No es que no influyera, es que no hablé con nadie”
 
 La primera entrevista de José Luis Rodríguez Zapatero —en el programa Mañaneros de TVE— desde que la Audiencia Nacional le imputó por liderar una trama de tráfico de influencias ilícitas, ha dejado escasas novedades de impacto jurídico a pesar de la enorme expectación generada desde el ámbito político, sobre todo, por.
 
 Date: 2026-07-23
 
-### Sánchez instó a Zapatero a hablar en TVE para reducir la presión sobre el Gobierno por el rescate de Plus Ultra
+### Anticorrupción pide ampliar el análisis de las joyas de Zapatero para averiguar la fecha exacta de su montaje
 
-El presidente del Gobierno , Pedro Sánchez , instó al expresidente del Ejecutivo, José Luis Rodríguez Zapatero , a comparecer públicamente para dar explicaciones y proclamar su inocencia en TVE , según han confirmado fuentes del entorno del presidente a OKDIARIO . Según estas mismas fuentes, ambos siguen manteniendo un.
+La Fiscalía Anticorrupción ha solicitado una ampliación del estudio sobre las joyas millonarias que escondía el ex presidente del Gobierno José Luis Rodríguez Zapatero en una...
+
+Date: 2026-07-23
+
+### Los cinco indicios sin respuesta tras las declaraciones de Zapatero en su entrevista en RTVE
+
+Negación, evasivas e inhibición. Así fue la primera entrevista concedida por el ex presidente José Luis Rodríguez Zapatero desde su imputación en el caso Plus Ultra. Con sus...
+
+Date: 2026-07-23
+
+### Sabes que no soy buena
+
+“Sin uso ni destino o afán patrimonial” podría haber sido una frase del Capitán Alatriste, pero la dijo ayer en televisión José Luis Rodríguez Zapatero a una pregunta sobre las joyas en su caja fuerte. Llevamos tanto tiempo viendo y oyendo cosas parecidas –declaraciones, comisiones, entrevistas– que estamos agotados. D.
 
 Date: 2026-07-23
 
 ## Fuentes
 
-- [La senda de déficit de Sánchez naufraga por tercer año seguido y enmaraña los presupuestos](https://www.abc.es/espana/senda-deficit-sanchez-naufraga-tercer-ano-seguido-20260723202117-nt.html?utm_source=lootura.com) — 2026-07-23T19:30:13.000Z
-- [Gestha sostiene que la explicación de Zapatero sobre sus joyas busca la prescripción de posibles delitos fiscales](https://www.elindependiente.com/espana/2026/07/23/gestha-sostiene-que-la-explicacion-de-zapatero-sobre-sus-joyas-busca-la-prescripcion-de-posibles-delitos-fiscales/?utm_source=lootura.com) — 2026-07-23T16:51:25.000Z
+- [Anticorrupción pide ampliar el análisis de las joyas de Zapatero para averiguar la fecha exacta de su montaje](https://amp.elmundo.es/espana/2026/07/23/6a625e4bfc6c83151b8b4586.html?utm_source=lootura.com) — 2026-07-23T20:50:02.000Z
+- [Los cinco indicios sin respuesta tras las declaraciones de Zapatero en su entrevista en RTVE](https://amp.elmundo.es/espana/2026/07/23/6a6258c521efa0175f8b4580.html?utm_source=lootura.com) — 2026-07-23T20:49:45.000Z
 - [La cúpula del PSOE da por buenas las explicaciones de Zapatero: "Mantenemos nuestro apoyo"](https://amp.elmundo.es/espana/2026/07/23/6a6202be21efa0605a8b45ba.html?utm_source=lootura.com) — 2026-07-23T12:02:40.000Z
 - [Zapatero, sobre el rescate de Plus Ultra: “No es que no influyera, es que no hablé con nadie”](https://elpais.com/espana/2026-07-23/zapatero-en-su-primera-entrevista-tras-su-imputacion-no-es-que-no-influyera-es-que-no-hable-con-nadie-del-rescate-de-plus-ultra.html?utm_source=lootura.com) — 2026-07-23T13:20:27.000Z
 - [Las siete claves de la entrevista de José Luis Rodríguez Zapatero en Mañaneros en vídeo](https://elpais.com/videos/2026-07-23/las-siete-claves-de-la-entrevista-de-jose-luis-rodriguez-zapatero-en-mananeros-en-video.html?utm_source=lootura.com) — 2026-07-23T13:54:54.000Z
@@ -79,4 +79,4 @@ Date: 2026-07-23
 - [Entrevista a Zapatero, en ‘Mañaneros 360′: Una clase de periodismo y de pilates](https://elpais.com/television/2026-07-23/entrevista-a-zapatero-en-mananeros-360-una-clase-de-periodismo-y-de-pilates.html?utm_source=lootura.com) — 2026-07-23T12:34:11.000Z
 - [Zapatero rechaza aclarar el origen de las joyas: “Son un regalo de cortesía personal”](https://elpais.com/espana/2026-07-23/zapatero-rechaza-aclarar-el-origen-de-las-joyas-son-un-regalo-personal-de-cortesia.html?utm_source=lootura.com) — 2026-07-23T11:58:15.000Z
 - [El Gobierno y el PSOE cierran filas con Zapatero y aseguran que probará su inocencia](https://elpais.com/espana/2026-07-23/el-gobierno-y-el-psoe-cierran-filas-con-zapatero-y-aseguran-que-probara-su-inocencia.html?utm_source=lootura.com) — 2026-07-23T12:48:42.000Z
-- [Sánchez instó a Zapatero a hablar en TVE para reducir la presión sobre el Gobierno por el rescate de Plus Ultra](https://okdiario.com/espana/sanchez-insto-zapatero-hablar-tve-reducir-presion-sobre-gobierno-rescate-plus-ultra-19055476?utm_source=lootura.com) — 2026-07-23T18:54:06.000Z
+- [Sabes que no soy buena](https://www.lavanguardia.com/opinion/20260724/11599600/buena.html?utm_source=lootura.com) — 2026-07-23T22:30:00.000Z

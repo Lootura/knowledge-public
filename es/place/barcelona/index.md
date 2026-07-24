@@ -3,10 +3,16 @@
 > Sigue la actividad de Barcelona en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-23T21:01:09.831Z
+- Actualizado: 2026-07-24T02:28:09.478Z
 - Canonical: https://atlas.lootura.com/es/place/barcelona
 
 ## Cambios recientes
+
+### Karim Adeyemi ya es del Barcelona tras sortear un labertinto burocrático
+
+El FC Barcelona ha hecho oficial el fichaje del extremo alemán Karim Adeyemi, quien queda vinculado al club catalán mediante un contrato de cinco temporadas. El delantero de 24 años llega procedente del Borussia Dortmund en una operación relámpago liderada por la dirección deportiva de Deco. Su llegada añade velocidad.
+
+Date: 2026-07-24
 
 ### Incendios en España, en directo: restablecida la circulación de la alta velocidad entre Madrid y Barcelona
 
@@ -62,12 +68,6 @@ ADIF ha comunicado que la línea de alta velocidad entre Madrid y Barcelona est�
 
 Date: 2026-07-23
 
-### Ocho heridos en la deflagración de gas en la plaza Sants de Barcelona
-
-Los Bombers de Barcelona trabajan con 9 dotaciones esta noche del miércoles al jueves en un incendio por una deflagración de gas a las 22.50 en la Plaça de Sants, según fuentes del Ayuntamiento de Barcelona.Hay 8 hombres heridos: 2 afectados graves y 2 menos graves (traslados al Hospital Vall d'Hebron), 1 menos grave y.
-
-Date: 2026-07-23
-
 ## Fuentes
 
-- [Incendios en España, en directo: restablecida la circulación de la alta velocidad entre Madrid y Barcelona](https://www.larazon.es/sociedad/incendios-espana-directo-hoy-ultima-hora-fuegos-activos-operativos-extincion_202607236a6192fada3add27d4dd1811.html?outputType=amp&utm_source=lootura.com) — 2026-07-23T20:54:17.000Z
+- [Karim Adeyemi ya es del Barcelona tras sortear un labertinto burocrático](https://www.abc.es/deportes/futbol/karim-adeyemi-barcelona-tras-sortear-labertinto-burocratico-20260723150611-nt.html?utm_source=lootura.com) — 2026-07-24T00:48:23.000Z

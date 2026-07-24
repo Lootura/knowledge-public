@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/white-house/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/white-house/index.json",
   "description": "Follow White House, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-23T21:01:27.760Z",
+  "updatedAt": "2026-07-24T02:28:29.719Z",
   "aliases": [
     "1600 Pennsylvania Avenue",
     "Executive Mansion",
@@ -21,6 +21,11 @@
     {
       "title": "The White House pushes healthy eating. It cut a landmark nutrition education program",
       "summary": "Nutrition advocates and public health experts are mystified by the decision to eliminate SNAP-Ed, given the Trump administration's embrace of the Make America Healthy Again agenda. (Image credit: Rachel Wisniewski for NPR).",
+      "date": "2026-07-23"
+    },
+    {
+      "title": "White House says Saudi Arabia nuclear deal contingent on joining Abraham Accords",
+      "summary": "During a press briefing, White House press secretary Karoline Leavitt echoed a social media post from President Trump that said any nuclear deal with Saudi Arabia would be contingent on them joining the Abraham Accords. NBC News' Monica Alba reports from the White House on the potential deal and the White House's appro.",
       "date": "2026-07-23"
     },
     {
@@ -62,32 +67,21 @@
       "title": "Smithsonian too focused on 'oppressors and the oppressed,' say House Republicans",
       "summary": "In a House DOGE subcommittee hearing, GOP representatives excoriated the director of the National Museum of American History, following a White House report earlier this month that also criticized her. (Image credit: Andrew Harnik).",
       "date": "2026-07-21"
-    },
-    {
-      "title": "Southern Lebanese skeptical of Israel agreement as violence continues",
-      "summary": "When Lebanon's president met President Trump at the White House, it was the first such visit by a Lebanese head of state in nearly two decades. It comes after Lebanon and Israel resumed diplomatic relations under the auspices of the Trump administration, signing a deal meant to end a long history of wars. But as specia.",
-      "date": "2026-07-21"
     }
   ],
   "sources": [
     {
-      "title": "Secret Service warns of uptick in threats ahead of rescheduled White House Correspondents' Dinner",
-      "url": "https://www.cbsnews.com/video/secret-service-warns-of-uptick-in-threats-ahead-of-rescheduled-white-house-correspondents-dinner/?utm_source=lootura.com",
-      "publishedAt": "2026-07-23T16:32:25.000Z",
-      "sourceId": "lootura-us-cbs-news"
+      "title": "White House says Saudi Arabia nuclear deal contingent on joining Abraham Accords",
+      "url": "https://www.nbcnews.com/now/video/white-house-says-saudi-arabia-nuclear-deal-contingent-on-joining-abraham-accords-267170885845?utm_source=lootura.com",
+      "publishedAt": "2026-07-23T15:53:39.000Z",
+      "sourceId": "lootura-us-nbc-news"
     },
     {
       "title": "The White House pushes healthy eating. It cut a landmark nutrition education program",
       "url": "https://www.npr.org/2026/07/23/nx-s1-5896280/snap-ed-healthy-eating-cuts-maha?utm_source=lootura.com",
       "publishedAt": "2026-07-23T09:00:00.000Z",
       "sourceId": "lootura-us-npr"
-    },
-    {
-      "title": "'New York Times' alleges White House abuses legal system to intimidate reporters",
-      "url": "https://www.npr.org/2026/07/23/nx-s1-5903854/trump-new-air-force-one-nyt-subpoenas?utm_source=lootura.com",
-      "publishedAt": "2026-07-23T09:00:00.000Z",
-      "sourceId": "lootura-us-npr-politics"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 2
 }

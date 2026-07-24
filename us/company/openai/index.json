@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/company/openai/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/company/openai/index.json",
   "description": "Follow OpenAI, a tracked company, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-23T21:01:27.760Z",
+  "updatedAt": "2026-07-24T02:28:29.719Z",
   "aliases": [
     "ChatGPT maker",
     "openai.com"
@@ -27,10 +27,10 @@
   ],
   "sources": [
     {
-      "title": "OpenAI blamed a hacking event on its AI models gone rogue. Here is what to know",
-      "url": "https://www.npr.org/2026/07/23/g-s1-135085/openai-hacking-ai-models?utm_source=lootura.com",
-      "publishedAt": "2026-07-23T05:23:42.000Z",
-      "sourceId": "lootura-us-npr"
+      "title": "OpenAI blamed a hacking event on its AI models going rogue. Here's what to know",
+      "url": "https://www.pbs.org/newshour/science/openai-blamed-a-hacking-event-on-its-ai-models-going-rogue-heres-what-to-know?utm_source=lootura.com",
+      "publishedAt": "2026-07-23T23:37:00.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
     }
   ],
   "evidenceCount": 0

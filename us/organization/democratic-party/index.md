@@ -3,7 +3,7 @@
 > Follow Democratic Party, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-07-23T21:01:27.760Z
+- Updated: 2026-07-24T02:28:29.719Z
 - Canonical: https://atlas.lootura.com/us/organization/democratic-party
 
 ## Recent changes
@@ -17,6 +17,12 @@ Date: 2026-07-23
 ### For a 2nd time, House approves resolution to end the war in Iran in a rebuke to Trump
 
 Four Republicans joined Democrats to approve the measure. And while it is not legally binding, the resolution represents growing frustration inside Congress over the war. (Image credit: J. Scott Applewhite).
+
+Date: 2026-07-23
+
+### House Rebukes Trump on Iran in War Powers Vote as Senate Blocks Debate
+
+For the second time, a few House Republicans joined Democrats to back a measure calling on the president to seek authorization for the war.
 
 Date: 2026-07-23
 
@@ -59,12 +65,6 @@ Date: 2026-07-22
 ### South Carolina and Nevada Fight to Kick Off Democrats’ 2028 Presidential Calendar
 
 The calendar order could be hugely important to the 2028 presidential primary race. Democratic insiders will try to sketch out a schedule this week, and rival states are sniping at one another.
-
-Date: 2026-07-22
-
-### US House passes $1.15tn defense policy bill in near party-line vote
-
-Passage of annual bill complicated by Trump’s decision to join Israel in attacking Iran without congressional approval The US House of Representatives passed a $1.15tn defense policy bill in a near-party-line vote on Wednesday, after Democrats refused to back the measure amid the war with Iran and Donald Trump ’s push.
 
 Date: 2026-07-22
 

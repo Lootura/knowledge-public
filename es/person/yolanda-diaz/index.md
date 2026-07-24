@@ -3,10 +3,16 @@
 > Sigue la actividad de Yolanda Díaz en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-23T17:19:26.220Z
+- Actualizado: 2026-07-24T02:28:09.478Z
 - Canonical: https://atlas.lootura.com/es/person/yolanda-diaz
 
 ## Cambios recientes
+
+### El Gobierno lanza a Yolanda Díaz como candidata para dirigir la OIT
+
+Despejada la incógnita sobre el futuro político de Yolanda Díaz, que, tras claudicar en su propio proyecto político en España —Sumar, ahora descabezado—, aspira ahora a recolocarse en las Naciones Unidas. La dirigente izquierdista se postula oficialmente para liderar la Organización Internacional del Trabajo (OIT) en G.
+
+Date: 2026-07-24
 
 ### Discovered by Atlas
 
@@ -62,12 +68,6 @@ Sánchez destaca que la vicepresidenta "ha demostrado con políticas y resultado
 
 Date: 2026-07-23
 
-### El Gobierno propone a la vicepresidenta Yolanda Díaz como candidata a dirigir la OIT
-
-El presidente Sánchez anuncia el "honor" de postular a su ministra de Trabajo quien "ha demostrado con políticas y resultados su compromiso con los derechos laborales, el diálogo social y la prosperidad de España" Qué es la OIT: el organismo de Naciones Unidas amenazado por Trump en el que sitúan a Yolanda Díaz El Gobi.
-
-Date: 2026-07-23
-
 ## Fuentes
 
-No public source links.
+- [El Gobierno lanza a Yolanda Díaz como candidata para dirigir la OIT](https://www.abc.es/espana/moncloa-propone-yolanda-diaz-optar-direccion-general-20260723090113-nt.html?utm_source=lootura.com) — 2026-07-24T00:51:41.000Z

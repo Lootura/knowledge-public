@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/new-york/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/new-york/index.json",
   "description": "Follow New York City, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-23T21:01:27.760Z",
+  "updatedAt": "2026-07-24T02:28:29.719Z",
   "aliases": [
     "Capital of the World",
     "Center of the Universe",
@@ -33,6 +33,16 @@
     "the five boroughs"
   ],
   "changes": [
+    {
+      "title": "Stabbings near New York City’s Central Park",
+      "summary": "Terrifying moments in New York City this afternoon when two people were stabbed near Central Park, just feet from a synagogue. Witnesses say the attacker yelled Allahu-Akbar. NBC News’ Erin McLaughlin has the latest on the investigation.",
+      "date": "2026-07-23"
+    },
+    {
+      "title": "New York Gov. Kathy Hochul explains why she signed the first statewide moratorium on data centers",
+      "summary": "Speaking with NBC News’ “Here’s the Scoop,” Hochul said that she’s responding to the concerns of localities and that New York doesn’t need data centers to support the AI boom.",
+      "date": "2026-07-23"
+    },
     {
       "title": "Mamdani says he won't try to arrest Israel's Netanyahu",
       "summary": "New York City Mayor Zohran Mamdani conceded late Tuesday that the city does not have the authority to arrest Israeli Prime Minister Benjamin Netanyahu.",
@@ -72,16 +82,6 @@
       "title": "Mamdani says he won't try to arrest Israel's Netanyahu, acknowledges NYC doesn't have legal authority",
       "summary": "New York City Mayor Zohran Mamdani conceded late Tuesday that the city does not have the authority to arrest Israeli Prime Minister Benjamin Netanyahu.",
       "date": "2026-07-22"
-    },
-    {
-      "title": "Mamdani Says Netanyahu Is a ‘War Criminal’ but New York Can’t Arrest Him",
-      "summary": "Mayor Zohran Mamdani, in a video address, challenged the U.S. government to execute an international arrest warrant against the Israeli prime minister.",
-      "date": "2026-07-22"
-    },
-    {
-      "title": "Explosion outside New York federal building in Manhattan apparently caused by fireworks, sources say",
-      "summary": "NYPD sources said fireworks were found in a garbage can and a man was taken into custody outside the federal building in Lower Manhattan.",
-      "date": "2026-07-20"
     }
   ],
   "sources": [
@@ -92,11 +92,17 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "Mamdani Knew He Couldn’t Arrest Netanyahu. But He Could Denounce Him.",
-      "url": "https://www.nytimes.com/2026/07/22/nyregion/mamdani-netanyahu-speech.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-22T23:42:33.000Z",
-      "sourceId": "lootura-us-the-new-york-times"
+      "title": "Stabbings near New York City’s Central Park",
+      "url": "https://www.nbcnews.com/nightly-news/video/stabbings-near-new-york-city-s-central-park-267194437527?utm_source=lootura.com",
+      "publishedAt": "2026-07-23T23:05:19.000Z",
+      "sourceId": "lootura-us-nbc-news"
+    },
+    {
+      "title": "New York Gov. Kathy Hochul explains why she signed the first statewide moratorium on data centers",
+      "url": "https://www.nbcnews.com/politics/politics-news/new-york-gov-kathy-hochul-explains-signed-first-statewide-moratorium-d-rcna588832?utm_source=lootura.com",
+      "publishedAt": "2026-07-23T22:19:33.000Z",
+      "sourceId": "lootura-us-nbc-news-politics"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 2
 }

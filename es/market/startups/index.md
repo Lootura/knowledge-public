@@ -16,4 +16,4 @@ Date: 2026-07-23
 
 ## Fuentes
 
-- [Ford vende a la china Geely el 34% de su planta de Valencia, donde ambas fabricarán cinco modelos](https://www.elmundo.es/economia/empresas/2026/07/23/6a61de0d21efa09d488b45ae.html?utm_source=lootura.com) — 2026-07-23T10:21:20.000Z
+No public source links.

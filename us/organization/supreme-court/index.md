@@ -3,7 +3,7 @@
 > Follow Supreme court, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-07-23T21:01:27.760Z
+- Updated: 2026-07-24T02:28:29.719Z
 - Canonical: https://atlas.lootura.com/us/organization/supreme-court
 
 ## Recent changes
@@ -11,6 +11,12 @@
 ### Supreme Court Turbocharges Presidential Power
 
 A pair of decisions reshaped the structure of the federal government.
+
+Date: 2026-07-23
+
+### Trump imposes double-digit tariffs on dozens of countries as stopgap 10% levies expire Friday
+
+President Donald Trump is going ahead with new double-digit tariffs on dozens of U.S. trading partners just as the clock runs out Friday on stopgap levies he imposed after a stinging defeat at the Supreme Court.
 
 Date: 2026-07-23
 
@@ -62,12 +68,7 @@ Justices Amy Coney Barrett and Elena Kagan are scheduled to make a rare appearan
 
 Date: 2026-07-13
 
-### Kansans Will Vote on an Elected Supreme Court. The Target: Abortion.
-
-Frustrated by the appointed court’s support of abortion rights, which has been affirmed resoundingly by voters, Republicans are pushing an Aug. 4 referendum to elect Kansas justices.
-
-Date: 2026-07-11
-
 ## Sources
 
+- [Trump imposes double-digit tariffs on dozens of countries as stopgap 10% levies expire Friday](https://www.pbs.org/newshour/politics/trump-imposes-double-digit-tariffs-on-dozens-of-countries-as-stopgap-10-levies-expire-friday?utm_source=lootura.com) — 2026-07-23T23:04:52.000Z
 - [Supreme Court Turbocharges Presidential Power](https://www.nytimes.com/2026/07/23/us/politics/the-docket-presidential-power-trump.html?utm_source=lootura.com) — 2026-07-23T16:07:36.000Z

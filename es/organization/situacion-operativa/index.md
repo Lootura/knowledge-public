@@ -28,5 +28,4 @@ Date: 2026-07-23
 
 ## Fuentes
 
-- [Madrid, en alerta máxima por tres incendios: evacuaciones en Aldea del Fresno y solicita la intervención del Gobierno](https://www.elconfidencial.com/espana/madrid/2026-07-23/madrid-alerta-incendios-intervencion-gobierno_4395004/?utm_source=lootura.com) — 2026-07-23T20:19:00.000Z
-- [Madrid solicita la emergencia nacional por los incendios: "Estamos con fuegos fuera de capacidad de extinción"](https://www.larazon.es/madrid/madrid-solicita-emergencia-nacional-incendios-estamos-incendios-fuera-capacidad-extincion_202607236a627568aa17c0020f2c4811.html?utm_source=lootura.com) — 2026-07-23T20:11:20.000Z
+No public source links.

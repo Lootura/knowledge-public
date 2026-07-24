@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/object/fields-medal/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/object/fields-medal/index.json",
   "description": "Follow Fields Medal, a tracked object, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-23T21:01:27.760Z",
+  "updatedAt": "2026-07-24T02:28:29.719Z",
   "aliases": [
     "Fields Medals",
     "International Medal for Outstanding Discoveries in Mathematics"
@@ -17,11 +17,16 @@
     {
       "title": "Rising stars of mathematics awarded prestigious 2026 Fields Medal",
       "summary": "Nature, Published online: 23 July 2026; doi:10.1038/d41586-026-02169-1 Two of the four are the first Chinese-born winners of the prize since 1982.",
-      "date": "2026-07-23"
+      "date": "2026-07-24"
     },
     {
       "title": "Discovered by Atlas",
       "summary": "Fields Medal first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-07-23"
+    },
+    {
+      "title": "Rising stars of mathematics awarded prestigious 2026 Fields Medal",
+      "summary": "Nature, Published online: 23 July 2026; doi:10.1038/d41586-026-02169-1 Two of the four are the first Chinese-born winners of the prize since 1982.",
       "date": "2026-07-23"
     },
     {
@@ -34,7 +39,7 @@
     {
       "title": "Rising stars of mathematics awarded prestigious 2026 Fields Medal",
       "url": "https://www.nature.com/articles/d41586-026-02169-1?utm_source=lootura.com",
-      "publishedAt": "2026-07-23T21:01:31.750Z",
+      "publishedAt": "2026-07-24T02:28:34.437Z",
       "sourceId": "lootura-us-nature"
     }
   ],

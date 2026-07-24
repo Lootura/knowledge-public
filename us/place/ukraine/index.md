@@ -3,10 +3,16 @@
 > Follow Ukraine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-23T17:20:03.497Z
+- Updated: 2026-07-24T02:28:29.719Z
 - Canonical: https://atlas.lootura.com/us/place/ukraine
 
 ## Recent changes
+
+### Laura Loomer meets with Ukraine's Zelenskyy after her major reversal on the war
+
+Laura Loomer, an ardent ally of President Donald Trump with a reputation for incendiary social media commentary, sat down with Ukrainian President Volodymyr Zelenskyy on Thursday after a dramatic turnaround on the war that could have political reverberations back in Washington.
+
+Date: 2026-07-24
 
 ### Zelensky’s Dizzying U-Turn Is the Latest Zigzag in a Presidency Full of Them
 
@@ -62,12 +68,6 @@ When their personalities and policies clashed, President Volodymyr Zelenskyy dec
 
 Date: 2026-07-21
 
-### Zelensky Dismisses Ukraine’s Top General After Protests
-
-The move followed the firing of a popular defense minister, who had clashed with the general over how to fight the war.
-
-Date: 2026-07-21
-
 ## Sources
 
-No public source links.
+- [Laura Loomer meets with Ukraine's Zelenskyy after her major reversal on the war](https://www.pbs.org/newshour/world/laura-loomer-meets-with-ukraines-zelenskyy-after-her-major-reversal-on-the-war?utm_source=lootura.com) — 2026-07-24T00:02:06.000Z

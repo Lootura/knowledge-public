@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/julio-martinez/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/julio-martinez/index.json",
   "description": "Sigue la actividad de Julio Martínez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-23T21:01:09.831Z",
+  "updatedAt": "2026-07-24T02:28:09.478Z",
   "aliases": [
     "Julio Mart",
     "Julio Martínez Martínez",
@@ -18,6 +18,11 @@
     {
       "title": "Los titulares de la entrevista a Zapatero: de la estrategia de defensa de Julio Martínez a los trabajos de sus hijas",
       "summary": "El expresidente del Gobierno José Luis Rodríguez Zapatero ha dado este jueves en RTVE su primera entrevista a un medio de comunicación desde que fuese imputado en una investigación de la Audiencia Nacional que lo coloca en la cúspide de una trama internacional de tráfico ilícito de influencias. El asunto partía del lav.",
+      "date": "2026-07-23"
+    },
+    {
+      "title": "Zapatero salta al rescate",
+      "summary": "José Luis Rodríguez Zapatero rompió ayer su silencio, que duraba ya dos meses, para enviar un mensaje muy claro de apoyo al Gobierno. Solo 24 horas después de que Julio Martínez Martínez lo pusiera al pie de los caballos con su declaración ante el juez, el exmandatario quiso dejar claro que el dinero que recibió por su.",
       "date": "2026-07-23"
     },
     {
@@ -59,11 +64,6 @@
       "title": "Zapatero, tocado y hundido",
       "summary": "Los periodistas de THE OBJECTIVE abordan en 'Objetivo directo' la confesión de Julio Martínez Martínez.",
       "date": "2026-07-22"
-    },
-    {
-      "title": "Julio Martínez complica el futuro judicial de Zapatero aunque no despeja la X que pondría en serios aprietos a Moncloa",
-      "summary": "La declaración de Julio Martínez Martínez y los escritos que tanto él como dos altos cargos de Plus Ultra han remitido esta semana a la Audiencia Nacional han complicado seriamente el futuro judicial de José Luis Rodríguez Zapatero . Los tres investigados corroboran ahora los informes de la UDEF y señalan que el expres.",
-      "date": "2026-07-22"
     }
   ],
   "sources": [
@@ -72,7 +72,13 @@
       "url": "https://elpais.com/espana/2026-07-23/las-titulares-de-la-entrevista-a-zapatero-de-la-estrategia-de-defensa-de-julio-martinez-a-los-trabajos-de-sus-hijas.html?utm_source=lootura.com",
       "publishedAt": "2026-07-23T12:32:24.000Z",
       "sourceId": "lootura-es-el-pais"
+    },
+    {
+      "title": "Zapatero salta al rescate",
+      "url": "https://www.lavanguardia.com/opinion/20260724/11599751/zapatero-salta-rescate.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-23T22:38:55.000Z",
+      "sourceId": "lootura-es-la-vanguardia"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 2
 }

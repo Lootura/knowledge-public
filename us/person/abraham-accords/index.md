@@ -3,7 +3,7 @@
 > Follow Abraham Accords, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-07-23T21:01:27.760Z
+- Updated: 2026-07-24T02:28:29.719Z
 - Canonical: https://atlas.lootura.com/us/person/abraham-accords
 
 ## Recent changes
@@ -32,6 +32,12 @@ During a press briefing, White House press secretary Karoline Leavitt echoed a s
 
 Date: 2026-07-23
 
+### White House says Saudi Arabia nuclear deal contingent on joining Abraham Accords
+
+During a press briefing, White House press secretary Karoline Leavitt echoed a social media post from President Trump that said any nuclear deal with Saudi Arabia would be contingent on them joining the Abraham Accords. NBC News' Monica Alba reports from the White House on the potential deal and the White House's appro.
+
+Date: 2026-07-23
+
 ### U.S. and Saudis sign nuclear deal, contingent on joining Abraham Accords
 
 President Trump said on Thursday the deal would include no enrichment of nuclear material.
@@ -40,5 +46,6 @@ Date: 2026-07-23
 
 ## Sources
 
+- [White House says Saudi Arabia nuclear deal contingent on joining Abraham Accords](https://www.nbcnews.com/now/video/white-house-says-saudi-arabia-nuclear-deal-contingent-on-joining-abraham-accords-267170885845?utm_source=lootura.com) — 2026-07-23T15:53:39.000Z
 - [Trump adds new condition to Saudi nuclear deal, says kingdom must normalize relations with Israel](https://www.pbs.org/newshour/world/trump-adds-new-condition-to-saudi-nuclear-deal-says-kingdom-must-normalize-relations-with-israel?utm_source=lootura.com) — 2026-07-23T18:40:05.000Z
 - [As Part of Nuclear Deal, Trump Demands Saudi Arabia Join the Abraham Accords](https://www.nytimes.com/2026/07/23/us/politics/saudi-nuclear-deal-israel.html?utm_source=lootura.com) — 2026-07-23T17:29:33.000Z

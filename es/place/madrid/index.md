@@ -3,28 +3,22 @@
 > Sigue la actividad de Madrid en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-23T21:01:09.831Z
+- Actualizado: 2026-07-24T02:28:09.478Z
 - Canonical: https://atlas.lootura.com/es/place/madrid
 
 ## Cambios recientes
 
-### Otro incendio en Villa del Prado (Madrid) obliga a evacuar una urbanización y moviliza a la UME
+### El Gobierno declara la emergencia nacional en la Comunidad de Madrid y en Ávila por cuatro incendios
 
-Otro incendio forestal –independiente del originado en Almorox (Toledo) ayer– se ha declarado este jueves en el municipio madrileño de Villa del Prado, lo que ha obligado a activar el sistema de avisos ES-Alert para pedir a la población próxima a la zona afectada que permanezca confinada en sus viviendas hasta nuevo av.
+El Gobierno de España ha recogido en cuestión de un par de horas el guante lanzado por Madrid. Sobre las diez de la noche y en una decisión con un solo precedente, la presidenta madrileña, Isabel Díaz Ayuso, ha pedido vía tuit la declaración de la situación operativa tres del Plan de Protección Civil contra incendios f.
 
-Date: 2026-07-23
+Date: 2026-07-24
 
-### Los incendios mantienen en alerta a los bomberos de todo el país: Ávila, Zamora, Madrid, Guadalajara...
+### Incendios en Madrid, en directo: San Martín de Valdeiglesias confina varias urbanizaciones y desata la alerta en la Comunidad
 
-Sigue en directo los incendios forestales activos alrededor de España, en comunidades como Madrid, Castilla y León o Castilla-La Mancha, y la última hora de las personas evacuadas, pueblos confinados y hectáreas quemadas.
+El fuego no da tregua en la Comunidad de Madrid . Las altas temperaturas, el viento y la sequedad del terreno están detrás de otros dos nuevos incendios que están obligando al confinamiento de la población y a desatar la alarma ante la voracidad de las llamas. En concreto, un incendio forestal en San Martín de Valdeigl.
 
-Date: 2026-07-23
-
-### Madrid, en alerta máxima por tres incendios: evacuaciones en Aldea del Fresno y solicita la intervención del Gobierno
-
-Los servicios de seguridad y emergencias enfrentan 3 incendios simultáneos fuera de capacidad de extinción que han obligado a la Comunidad de Madrid a solicitar al Estado la declaración de la Situación Operativa 3 del Plan de Protección Civil contra incendios forestales en la Comunidad de Madrid (INFOMA) . Los focos af.
-
-Date: 2026-07-23
+Date: 2026-07-24
 
 ### España afronta una jornada crítica por los incendios forestales con varios frentes activos
 
@@ -38,44 +32,51 @@ El delegado del Gobierno en Madrid, Francisco Martín Aguirre, ha cuestionado la
 
 Date: 2026-07-23
 
-### Incendios en España, en directo: restablecida la circulación de la alta velocidad entre Madrid y Barcelona
-
-Los servicios de emergencia continúan trabajando en varios incendios forestales activos en distintos puntos de España, con especial atención a la evolución de los fuegos declarados en Castilla-La Mancha, Cataluña, Castilla y León, Andalucía y Aragón.
-
-Date: 2026-07-23
-
-### Madrid solicita la emergencia nacional por los incendios: "Estamos con fuegos fuera de capacidad de extinción"
-
-La Comunidad de Madrid ha solicitado al Gobierno de España la declaración de la Situación Operativa 3 del Plan Especial de Protección Civil de Emergencia por Incendios Forestales (INFOMA) ante la gravedad de los incendios que afectan de forma simultánea a varias comunidades autónomas. El Ejecutivo regional ha explicado.
-
-Date: 2026-07-23
-
-### Incendios en Madrid, en directo: San Martín de Valdeiglesias confina varias urbanizaciones y desata la alerta en la Comunidad
-
-El fuego no da tregua en la Comunidad de Madrid . Las altas temperaturas, el viento y la sequedad del terreno están detrás de otros dos nuevos incendios que están obligando al confinamiento de la población y a desatar la alarma ante la voracidad de las llamas. En concreto, un incendio forestal en San Martín de Valdeigl.
-
-Date: 2026-07-23
-
 ### Ayuso pide al Gobierno que asuma la gestión de los incendios en Madrid y otras dos regiones
 
 La C omunidad de Madrid solicita la declaración de la situación operativa 3 de interés nacional por la gravedad y simultaneidad de incendios forestales en tres comunidades autónomas y la posibilidad, como sucedió el miércoles en la provincia de Toledo, de que un gran incendio forestal proveniente de la provincia de Ávi.
 
 Date: 2026-07-23
 
-### Tres fuegos arrasan Madrid: desalojos en Villa del Prado, San Martín de Valdeiglesias y el entorno de Almorox
+### El Gobierno declara la emergencia nacional tras evacuar Madrid a 10.000 personas por los incendios
 
-Tres incendios se extienden por la Comunidad de Madrid: en el municipio de Villa del Prado con afectación a Aldea del Fresno, en San Martín de Valdeiglesias y en el entorno de Almorox. Estos tres focos han provocado el desalojo de Pelayos de la Presa y varias urbanizaciones, entre ellas Caravan Garden, San Ramón, Jarac.
+La Comunidad de Madrid vive "una situación crítica" por los incendios . Así de tajantes se manifestaban en la noche de este jueves fuentes oficiales de la Presidencia del Gobierno de la Comunidad de Madrid por el recrudecimiento de los fuegos en el suroeste de la región. Son incendios "múltiples y de extrema gravedad".
+
+Date: 2026-07-23
+
+### Más de 10.000 evacuados por tres incendios simultáneos en Madrid: “El fuego vino como un cohete”
+
+Una urbanización llena de vida en verano por sus chalets con piscinas, jardines y camas balinesas parece ahora, de repente, un pueblo abandonado. Las casas y los coches calcinados se suceden a los lados de la calle de este lugar laberíntico en el suroeste de Madrid que hasta hace pocas horas vivía como un riesgo lejano.
+
+Date: 2026-07-23
+
+### Capital Dynamics, la gestora suiza especializada en capital privado y energías limpias
+
+Cuando Capital Dynamics , gestora especializada en inversiones de capital riesgo y energías renovables, abrió en 2024 su oficina en Madrid, llevaba más de 20 años operando en el mercado español. Así, España tiene la mayor parte de los activos de energía limpia de la empresa. El objetivo de la oficina era, además de ref.
+
+Date: 2026-07-23
+
+### La simultaneidad de incendios en Madrid, Toledo y Ávila dificulta los trabajos de extinción
+
+La simultaneidad de incendios a los aledaños de Madrid dificulta los trabajos de extinción, con cuatro fuegos activos cercanos entre ellos y la dificultad añadida de encontrarse entre ellos muy cerca y en tres comunidades autónomas distintas. Seguir leyendo...
+
+Date: 2026-07-23
+
+### Marlaska entra en razón y declara la emergencia nacional por los incendios que Ayuso pidió y el delegado del Gobierno negó
+
+El ministro del Interior, Fernando Grande-Marlaska, ha declarado en la madrugada de este jueves al viernes la emergencia de interés nacional en la Comunidad de Madrid y en la provincia de Ávila (Castilla y León) como consecuencia de la evolución de los incendios, atendiendo así la petición de la presidenta de la Comuni.
 
 Date: 2026-07-23
 
 ## Fuentes
 
-- [Los incendios mantienen en alerta a los bomberos de todo el país: Ávila, Zamora, Madrid, Guadalajara...](https://www.abc.es/sociedad/incendios-espana-hoy-directo-fuegos-activos-madrid-20260723185959-di.html?utm_source=lootura.com) — 2026-07-23T19:23:02.000Z
-- [Madrid, en alerta máxima por tres incendios: evacuaciones en Aldea del Fresno y solicita la intervención del Gobierno](https://www.elconfidencial.com/espana/madrid/2026-07-23/madrid-alerta-incendios-intervencion-gobierno_4395004/?utm_source=lootura.com) — 2026-07-23T20:19:00.000Z
+- [El Gobierno declara la emergencia nacional tras evacuar Madrid a 10.000 personas por los incendios](https://www.elconfidencial.com/espana/madrid/2026-07-23/madrid-alerta-incendios-intervencion-gobierno_4395004/?utm_source=lootura.com) — 2026-07-23T20:19:00.000Z
 - [España afronta una jornada crítica por los incendios forestales con varios frentes activos](https://www.elcorreo.com/sociedad/espana-afronta-jornada-critica-incendios-forestales-varios-20260723212619-ntrc_amp.html?utm_source=lootura.com) — 2026-07-23T19:26:20.000Z
+- [Más de 10.000 evacuados por tres incendios simultáneos en Madrid: “El fuego vino como un cohete”](https://elpais.com/espana/madrid/2026-07-23/mas-de-10000-evacuados-por-tres-fuegos-simultaneos-en-madrid-el-fuego-vino-como-un-cohete.html?utm_source=lootura.com) — 2026-07-23T21:48:45.000Z
 - [Última hora de los incendios forestales, en directo | El Gobierno cuestiona la petición de Ayuso: “Tienen que explicar y justificar esa solicitud”](https://elpais.com/espana/2026-07-23/ultima-hora-de-los-incendios-forestales-en-directo.html?utm_source=lootura.com) — 2026-07-23T20:53:08.000Z
-- [Incendios en España, en directo: restablecida la circulación de la alta velocidad entre Madrid y Barcelona](https://www.larazon.es/sociedad/incendios-espana-directo-hoy-ultima-hora-fuegos-activos-operativos-extincion_202607236a6192fada3add27d4dd1811.html?outputType=amp&utm_source=lootura.com) — 2026-07-23T20:54:17.000Z
-- [Madrid solicita la emergencia nacional por los incendios: "Estamos con fuegos fuera de capacidad de extinción"](https://www.larazon.es/madrid/madrid-solicita-emergencia-nacional-incendios-estamos-incendios-fuera-capacidad-extincion_202607236a627568aa17c0020f2c4811.html?utm_source=lootura.com) — 2026-07-23T20:11:20.000Z
-- [Incendios en Madrid, en directo: San Martín de Valdeiglesias confina varias urbanizaciones y desata la alerta en la Comunidad](https://www.larazon.es/madrid/nuevo-incendio-san-martin-valdeiglesias-confina-varias-urbanizaciones-desata-alerta-comunidad-madrid_202607236a6230fbda3add27d4de1808.html?utm_source=lootura.com) — 2026-07-23T20:41:10.000Z
-- [Ayuso pide al Gobierno que asuma la gestión de los incendios en Madrid y otras dos regiones](https://theobjective.com/espana/2026-07-23/ayuso-gobierno-gestion-incendios-madrid/?utm_source=lootura.com) — 2026-07-23T20:36:54.000Z
-- [Otro incendio en Villa del Prado (Madrid) obliga a evacuar una urbanización y moviliza a la UME](https://theobjective.com/sociedad/suceso/2026-07-23/incendio-villa-prado-madrid-urbanizacion-ume/?utm_source=lootura.com) — 2026-07-23T16:11:10.000Z
+- [El Gobierno declara la emergencia nacional en la Comunidad de Madrid y en Ávila por cuatro incendios](https://elpais.com/espana/2026-07-23/el-gobierno-declara-la-emergencia-nacional-en-la-comunidad-de-madrid-y-en-avila-por-los-incendios.html?utm_source=lootura.com) — 2026-07-24T00:10:33.000Z
+- [Capital Dynamics, la gestora suiza especializada en capital privado y energías limpias](https://www.expansion.com/mercados/fondos/2026/07/24/6a61de82e5fdea91718b457b.html?utm_source=lootura.com) — 2026-07-23T23:56:17.000Z
+- [Incendios en Madrid, en directo: San Martín de Valdeiglesias confina varias urbanizaciones y desata la alerta en la Comunidad](https://www.larazon.es/madrid/nuevo-incendio-san-martin-valdeiglesias-confina-varias-urbanizaciones-desata-alerta-comunidad-madrid_202607236a6230fbda3add27d4de1808.html?utm_source=lootura.com) — 2026-07-24T01:28:06.000Z
+- [La simultaneidad de incendios en Madrid, Toledo y Ávila dificulta los trabajos de extinción](https://www.lavanguardia.com/vida/20260724/11599753/simultaneidad-incendios-forestales-madrid-toledo-avila-dificulta-trabajos-extincion.html?utm_source=lootura.com) — 2026-07-23T22:58:55.000Z
+- [Marlaska entra en razón y declara la emergencia nacional por los incendios que Ayuso pidió y el delegado del Gobierno negó](https://okdiario.com/espana/marlaska-hace-entrar-razon-gobierno-declara-emergencia-nacional-incendios-que-ayuso-pidio-delegado-nego-19058533?utm_source=lootura.com) — 2026-07-23T22:53:05.000Z
+- [Suspendido el servicio de cinco líneas de interurbanos en Madrid por los incendios](https://theobjective.com/espana/madrid/2026-07-24/suspendido-servicio-interurbanos-madrid-incendios/?utm_source=lootura.com) — 2026-07-23T23:04:49.000Z

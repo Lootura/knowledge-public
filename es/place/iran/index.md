@@ -3,7 +3,7 @@
 > Sigue la actividad de Irán en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-23T21:01:09.831Z
+- Actualizado: 2026-07-24T02:28:09.478Z
 - Canonical: https://atlas.lootura.com/es/place/iran
 
 ## Cambios recientes
@@ -20,15 +20,21 @@ Después de un mes de junio en el que la Bolsa, el petróleo y la deuda celebrar
 
 Date: 2026-07-23
 
-### El Congreso convalida el nuevo decreto anticrisis por la guerra en Irán entre críticas de los grupos por considerarlo "insuficiente"
-
-El Congreso ha convalidado este jueves, con el apoyo de la mayoría de los grupos, la abstención del PP y Podemos y el rechazo de Vox, un nuevo decreto anticrisis, más limitado que el anterior , para hacer frente a las consecuencias económicas de la guerra en Irán. La norma, en vigor desde hace un mes, prorroga parte de.
-
-Date: 2026-07-23
-
 ### El Congreso rechaza otra vez la senda de déficit con el voto de PP, Vox y Junts y da vía libre al Gobierno para el Presupuesto
 
 El Ejecutivo cumple el trámite de las dos votaciones de la senda de estabilidad para volver de las vacaciones con todo preparado para presentar las cuentas públicas El Gobierno salva el escudo anticrisis por la guerra en Irán con rebajas fiscales en los carburantes hasta octubre El Congreso ha tumbado con los votos del.
+
+Date: 2026-07-23
+
+### La jubilación parcial del personal laboral de las administraciones sale adelante en el Congreso tras la abstención del PP
+
+La norma permite que los asalariados públicos compatibilicen la reducción de su jornada con el cobro de la pensión y mejoran el complemento de residencia de más de 11.000 empleados públicos en Baleares El Gobierno salva el escudo anticrisis por la guerra en Irán con rebajas fiscales en los carburantes hasta octubre El.
+
+Date: 2026-07-23
+
+### El Congreso convalida el nuevo decreto anticrisis por la guerra en Irán entre críticas de los grupos por considerarlo "insuficiente"
+
+El Congreso ha convalidado este jueves, con el apoyo de la mayoría de los grupos, la abstención del PP y Podemos y el rechazo de Vox, un nuevo decreto anticrisis, más limitado que el anterior , para hacer frente a las consecuencias económicas de la guerra en Irán. La norma, en vigor desde hace un mes, prorroga parte de.
 
 Date: 2026-07-23
 
@@ -62,15 +68,9 @@ Los inversores sopesan las tensiones geopolíticas al tiempo que esperan resulta
 
 Date: 2026-07-23
 
-### Trump autoriza un pacto nuclear que permitirá a Arabia Saudí enriquecer uranio
-
-De las muchas justificaciones que Donald Trump ha dado en casi cinco meses para su guerra en Irán , la de impedir que el régimen de los ayatolás continúe con su programa nuclear y pueda acabar teniendo la bomba atómica es la que ha acabado cristalizando en el argumentario de la Casa Blanca y sus aliados. El presidente.
-
-Date: 2026-07-22
-
 ## Fuentes
 
-- [El Congreso convalida el nuevo decreto anticrisis por la guerra en Irán entre críticas de los grupos por considerarlo "insuficiente"](https://www.20minutos.es/nacional/congreso-convalida-nuevo-decreto-anticrisis-por-guerra-iran-entre-criticas-los-grupos-por-ser-insuficiente_7018223_0.html?utm_source=lootura.com) — 2026-07-23T18:51:43.000Z
 - [El petróleo vuelve a superar los 100 dólares y desata otra oleada de ventas en los mercados](https://cincodias.elpais.com/mercados-financieros/2026-07-23/la-bolsa-y-el-ibex-35.html?utm_source=lootura.com) — 2026-07-23T20:08:19.000Z
 - [El BCE mantiene los tipos y anticipa una nueva subida en septiembre si la guerra en Irán persiste](https://www.elcorreo.com/economia/bce-mantiene-tipos-anticipa-nueva-subida-septiembre-20260723141530-ntrc_amp.html?utm_source=lootura.com) — 2026-07-23T12:16:09.000Z
 - [El Congreso rechaza otra vez la senda de déficit con el voto de PP, Vox y Junts y da vía libre al Gobierno para el Presupuesto](https://www.eldiario.es/economia/congreso-rechaza-vez-senda-deficit-voto-pp-vox-junts-da-via-libre-gobierno-presupuesto_1_13402684.html?utm_source=lootura.com) — 2026-07-23T18:59:41.000Z
+- [La jubilación parcial del personal laboral de las administraciones sale adelante en el Congreso tras la abstención del PP](https://www.eldiario.es/economia/jubilacion-parcial-personal-laboral-administraciones-sale-adelante-congreso-gracias-abstencion-pp_1_13401849.html?utm_source=lootura.com) — 2026-07-23T18:53:02.000Z

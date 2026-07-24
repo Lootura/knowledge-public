@@ -3,10 +3,16 @@
 > Sigue la actividad de Reino Unido de Gran Bretaña e Irlanda del Norte en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-23T13:51:07.363Z
+- Actualizado: 2026-07-24T02:28:09.478Z
 - Canonical: https://atlas.lootura.com/es/place/reino-unido
 
 ## Cambios recientes
+
+### Trump impone nuevos aranceles de entre el 10% y el 12,5% a más de 60 países para mantener su muro comercial
+
+El presidente de Estados Unidos, Donald Trump, ha aprobado este jueves una orden ejecutiva para imponer aranceles de entre el 10% y el 12,5% a más de 60 países, entre los que se encuentran España y el resto de miembros de la Unión Europea, Reino Unido, China, India, Japón, Corea del Sur o México, por no haber tomado su.
+
+Date: 2026-07-23
 
 ### El nuevo primer ministro británico anuncia una rebaja de impuestos a pubs y discotecas
 
@@ -62,12 +68,6 @@ El nuevo primer ministro del Reino Unido, Andy Burnham , está decidido a que el
 
 Date: 2026-07-21
 
-### Mi paraíso en Reino Unido: el Lake District, donde Inglaterra se vuelve salvaje
-
-Hay una imagen del Reino Unido instalada en el imaginario colectivo construida a partir de los autobuses rojos de Londres, las casas victorianas, el té de las cinco, el fútbol y una sucesión de ciudades icónicas donde la historia parece imponerse a la naturaleza. Sin embargo, basta conducir unas cinco horas hacia el no.
-
-Date: 2026-07-21
-
 ## Fuentes
 
-No public source links.
+- [Trump impone nuevos aranceles de entre el 10% y el 12,5% a más de 60 países para mantener su muro comercial](https://elpais.com/internacional/2026-07-23/trump-impone-nuevos-aranceles-de-entre-el-10-y-el-125-a-60-paises-para-mantener-su-muro-comercial.html?utm_source=lootura.com) — 2026-07-23T21:35:58.000Z

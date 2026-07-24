@@ -3,7 +3,7 @@
 > Follow White House, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-07-23T21:01:27.760Z
+- Updated: 2026-07-24T02:28:29.719Z
 - Canonical: https://atlas.lootura.com/us/organization/white-house
 
 ## Recent changes
@@ -11,6 +11,12 @@
 ### The White House pushes healthy eating. It cut a landmark nutrition education program
 
 Nutrition advocates and public health experts are mystified by the decision to eliminate SNAP-Ed, given the Trump administration's embrace of the Make America Healthy Again agenda. (Image credit: Rachel Wisniewski for NPR).
+
+Date: 2026-07-23
+
+### White House says Saudi Arabia nuclear deal contingent on joining Abraham Accords
+
+During a press briefing, White House press secretary Karoline Leavitt echoed a social media post from President Trump that said any nuclear deal with Saudi Arabia would be contingent on them joining the Abraham Accords. NBC News' Monica Alba reports from the White House on the potential deal and the White House's appro.
 
 Date: 2026-07-23
 
@@ -62,14 +68,7 @@ In a House DOGE subcommittee hearing, GOP representatives excoriated the directo
 
 Date: 2026-07-21
 
-### Southern Lebanese skeptical of Israel agreement as violence continues
-
-When Lebanon's president met President Trump at the White House, it was the first such visit by a Lebanese head of state in nearly two decades. It comes after Lebanon and Israel resumed diplomatic relations under the auspices of the Trump administration, signing a deal meant to end a long history of wars. But as specia.
-
-Date: 2026-07-21
-
 ## Sources
 
-- [Secret Service warns of uptick in threats ahead of rescheduled White House Correspondents' Dinner](https://www.cbsnews.com/video/secret-service-warns-of-uptick-in-threats-ahead-of-rescheduled-white-house-correspondents-dinner/?utm_source=lootura.com) — 2026-07-23T16:32:25.000Z
+- [White House says Saudi Arabia nuclear deal contingent on joining Abraham Accords](https://www.nbcnews.com/now/video/white-house-says-saudi-arabia-nuclear-deal-contingent-on-joining-abraham-accords-267170885845?utm_source=lootura.com) — 2026-07-23T15:53:39.000Z
 - [The White House pushes healthy eating. It cut a landmark nutrition education program](https://www.npr.org/2026/07/23/nx-s1-5896280/snap-ed-healthy-eating-cuts-maha?utm_source=lootura.com) — 2026-07-23T09:00:00.000Z
-- ['New York Times' alleges White House abuses legal system to intimidate reporters](https://www.npr.org/2026/07/23/nx-s1-5903854/trump-new-air-force-one-nyt-subpoenas?utm_source=lootura.com) — 2026-07-23T09:00:00.000Z

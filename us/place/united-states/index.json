@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/united-states/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/united-states/index.json",
   "description": "Follow United States, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-23T21:01:27.760Z",
+  "updatedAt": "2026-07-24T02:28:29.719Z",
   "aliases": [
     "America",
     "Estados Unidos",
@@ -39,9 +39,39 @@
       "date": "2026-07-27"
     },
     {
-      "title": "What Visuals Show About Recent Damage to U.S. Military Sites in the Middle East",
-      "summary": "Video footage and satellite images reveal new details about Iranian strikes on U.S. targets during the latest flare-up in fighting.",
-      "date": "2026-07-23"
+      "title": "Trump imposes new tariffs on dozens of countries, citing forced labor concerns",
+      "summary": "The Trump administration will impose tariffs of up to 12.5% on goods from 60 U.S. trading partners accused of failing to crack down on forced labor, extending the administration's tariffs on much of the world.",
+      "date": "2026-07-24"
+    },
+    {
+      "title": "Rapid pace of interceptor and precision-guided weapons use worries Trump admin.",
+      "summary": "The U.S. defense industrial base isn't equipped to produce missiles rapidly enough to replenish munitions used in the war with Iran, or transferred for use to Central Command.",
+      "date": "2026-07-24"
+    },
+    {
+      "title": "U.S. attorney who served for less than an hour suing Trump administration over firing",
+      "summary": "A U.S. attorney who served for less than an hour is suing the Trump administration over his firing. Roger Rogoff is asking a federal court to reinstate him as U.S. Attorney for the Western District of Washington. CBS News legal contributor Jessica Levinson breaks down the legal questions in this case.",
+      "date": "2026-07-24"
+    },
+    {
+      "title": "Trump fires U.S. attorney in Washington on heels of court appointment",
+      "summary": "Judges on the U.S. District Court for the Western District of Washington had appointed Roger Rogoff as U.S. attorney in Seattle. But he was fired shortly after.",
+      "date": "2026-07-24"
+    },
+    {
+      "title": "How does Make America Healthy Again hold up against scientific scrutiny?",
+      "summary": "Nature, Published online: 23 July 2026; doi:10.1038/d41586-026-02024-3 Researchers share their views on the US health policy spanning topics from vaccines to nutrition.",
+      "date": "2026-07-24"
+    },
+    {
+      "title": "A Fallen Soldier’s Angst, Love and Longing to Return Home From the Iran War",
+      "summary": "Sgt. Michael Emmanuel Swinton was killed in recent days, one of 18 U.S. soldiers who have lost their lives since the beginning of the war in Iran.",
+      "date": "2026-07-24"
+    },
+    {
+      "title": "Number of U.S. Troop Deaths in Iran War Appears Lower on Pentagon Website",
+      "summary": "Three military officials and a Pentagon spokesman gave conflicting explanations for why the number of Americans killed in the Iran war had changed.",
+      "date": "2026-07-24"
     },
     {
       "title": "The White House pushes healthy eating. It cut a landmark nutrition education program",
@@ -52,39 +82,21 @@
       "title": "U.S. Employers Forced to Fire Thousands of Immigrants, and a Showdown over Peptides",
       "summary": "Plus, America says no thanks to salad.",
       "date": "2026-07-23"
-    },
-    {
-      "title": "How does Make America Healthy Again hold up against scientific scrutiny?",
-      "summary": "Nature, Published online: 23 July 2026; doi:10.1038/d41586-026-02024-3 Researchers share their views on the US health policy spanning topics from vaccines to nutrition.",
-      "date": "2026-07-23"
-    },
-    {
-      "title": "Trump says Saudi Arabia must normalize Israel ties before nuclear deal is approved",
-      "summary": "President Donald Trump said Thursday that a nuclear deal between the United States and Saudi Arabia requires the kingdom to normalize relations with Israel — a significant condition not previously mentioned as the deal was announced.",
-      "date": "2026-07-23"
-    },
-    {
-      "title": "Some House Republicans defect to again pass resolution seeking to halt military action in Iran",
-      "summary": "The House on Thursday narrowly passed a resolution to halt U.S. military action in Iran, sending a warning to President Donald Trump for the second time as the war has escalated and the future of the conflict is increasingly uncertain.",
-      "date": "2026-07-23"
-    },
-    {
-      "title": "Israel Welcomes Trump’s Demand for Diplomatic Ties With Saudi Arabia",
-      "summary": "Israeli officials embraced the possibility of normalized ties, but analysts said the U.S.-Saudi nuclear deal nonetheless remained bad for Israel.",
-      "date": "2026-07-23"
-    },
-    {
-      "title": "Marco Rubio describes Trump's military strategy with Iran as a ‘head for an eye’",
-      "summary": "NBC News’ Gabe Gutierrez, Richard Engel and Courtney Kube discuss President Trump’s threats to escalate attacks inside Iran as fears grow over a widening conflict in the Middle East. NBC News Contributor Hooman Maj analyzes the state of diplomacy between the U.S. and Iran after 12 consecutive days of U.S. attacks.",
-      "date": "2026-07-23"
-    },
-    {
-      "title": "U.S. health officials investigate new outbreak of parasite cyclospora",
-      "summary": "The Food and Drug Administration has not yet identified which products are linked to the illnesses.",
-      "date": "2026-07-23"
     }
   ],
   "sources": [
+    {
+      "title": "Trump imposes new tariffs on dozens of countries, citing forced labor concerns",
+      "url": "https://www.cbsnews.com/news/trump-tariffs-dozens-countries-forced-labor/?utm_source=lootura.com",
+      "publishedAt": "2026-07-24T00:49:51.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
+    {
+      "title": "Rapid pace of interceptor and precision-guided weapons use worries Trump admin.",
+      "url": "https://www.cbsnews.com/news/interceptor-precision-guided-weapons-use-trump-administration/?utm_source=lootura.com",
+      "publishedAt": "2026-07-24T00:47:24.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
     {
       "title": "The Uplift: The American Dream",
       "url": "https://www.cbsnews.com/video/the-uplift-the-american-dream/?utm_source=lootura.com",
@@ -92,22 +104,22 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
+      "title": "U.S. attorney who served for less than an hour suing Trump administration over firing",
+      "url": "https://www.cbsnews.com/video/us-attorney-who-served-less-than-hour-suing-trump-administration-over-firing/?utm_source=lootura.com",
+      "publishedAt": "2026-07-24T00:26:55.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
+    {
+      "title": "Trump fires U.S. attorney in Washington on heels of court appointment",
+      "url": "https://www.cbsnews.com/news/trump-fires-roger-rogoff-u-s-attorney-seattle-washington/?utm_source=lootura.com",
+      "publishedAt": "2026-07-24T00:35:47.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
+    {
       "title": "How does Make America Healthy Again hold up against scientific scrutiny?",
       "url": "https://www.nature.com/articles/d41586-026-02024-3?utm_source=lootura.com",
-      "publishedAt": "2026-07-23T21:01:31.749Z",
+      "publishedAt": "2026-07-24T02:28:34.437Z",
       "sourceId": "lootura-us-nature"
-    },
-    {
-      "title": "Trump says Saudi Arabia must normalize Israel ties before nuclear deal is approved",
-      "url": "https://www.nbcnews.com/world/middle-east/trump-saudi-arabia-normalize-israel-ties-nuclear-deal-rcna588859?utm_source=lootura.com",
-      "publishedAt": "2026-07-23T12:35:22.000Z",
-      "sourceId": "lootura-us-nbc-news"
-    },
-    {
-      "title": "Marco Rubio describes Trump's military strategy with Iran as a ‘head for an eye’",
-      "url": "https://www.nbcnews.com/meet-the-press/video/marco-rubio-describes-trump-s-military-strategy-with-iran-as-a-head-for-an-eye-267186757837?utm_source=lootura.com",
-      "publishedAt": "2026-07-23T20:30:39.000Z",
-      "sourceId": "lootura-us-nbc-news-politics"
     },
     {
       "title": "The White House pushes healthy eating. It cut a landmark nutrition education program",
@@ -132,19 +144,7 @@
       "url": "https://www.pbs.org/newshour/economy/u-s-filings-for-unemployment-aid-fall-to-187000-last-week-fewest-since-1969?utm_source=lootura.com",
       "publishedAt": "2026-07-23T20:08:39.000Z",
       "sourceId": "lootura-us-pbs-newshour"
-    },
-    {
-      "title": "Some House Republicans defect to again pass resolution seeking to halt military action in Iran",
-      "url": "https://www.pbs.org/newshour/politics/some-house-republicans-defect-to-again-pass-resolution-seeking-to-halt-military-action-in-iran?utm_source=lootura.com",
-      "publishedAt": "2026-07-23T16:19:36.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
-    },
-    {
-      "title": "U.S. Employers Forced to Fire Thousands of Immigrants, and a Showdown over Peptides",
-      "url": "https://www.nytimes.com/2026/07/23/podcasts/the-headlines/immigrants-peptides-salad.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-23T10:59:26.000Z",
-      "sourceId": "lootura-us-the-new-york-times"
     }
   ],
-  "evidenceCount": 16
+  "evidenceCount": 18
 }

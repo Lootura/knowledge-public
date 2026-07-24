@@ -70,6 +70,4 @@ Date: 2026-07-21
 
 ## Fuentes
 
-- [Los incendios mantienen en alerta a los bomberos de todo el país: Ávila, Zamora, Madrid, Guadalajara...](https://www.abc.es/sociedad/incendios-espana-hoy-directo-fuegos-activos-madrid-20260723185959-di.html?utm_source=lootura.com) — 2026-07-23T19:23:02.000Z
-- [Castilla-La Mancha se suma a los avisos rojos por calor de Murcia y la Comunidad Valenciana](https://elpais.com/clima-y-medio-ambiente/2026-07-23/la-tercera-ola-de-calor-del-verano-se-despide-con-avisos-rojos-en-murcia-y-la-comunidad-valenciana.html?utm_source=lootura.com) — 2026-07-23T10:12:32.000Z
-- [Incendios en España, en directo: restablecida la circulación de la alta velocidad entre Madrid y Barcelona](https://www.larazon.es/sociedad/incendios-espana-directo-hoy-ultima-hora-fuegos-activos-operativos-extincion_202607236a6192fada3add27d4dd1811.html?outputType=amp&utm_source=lootura.com) — 2026-07-23T20:54:17.000Z
+No public source links.

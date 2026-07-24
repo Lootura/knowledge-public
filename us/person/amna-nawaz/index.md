@@ -3,7 +3,7 @@
 > Follow Amna Nawaz, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-07-23T10:20:24.199Z
+- Updated: 2026-07-24T02:28:29.719Z
 - Canonical: https://atlas.lootura.com/us/person/amna-nawaz
 
 ## Recent changes
@@ -34,4 +34,4 @@ Date: 2026-07-20
 
 ## Sources
 
-No public source links.
+- [Former U.S. diplomat breaks down Houthi attacks on Red Sea shipping](https://www.pbs.org/newshour/show/former-u-s-diplomat-breaks-down-houthi-attacks-on-red-sea-shipping?utm_source=lootura.com) — 2026-07-23T22:52:59.000Z

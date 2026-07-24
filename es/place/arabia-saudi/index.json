@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/arabia-saudi/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/arabia-saudi/index.json",
   "description": "Sigue la actividad de Arabia Saudí en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-23T17:19:26.220Z",
+  "updatedAt": "2026-07-24T02:28:09.478Z",
   "aliases": [
     "Arabia Saudí",
     "Kingdom of Saudi Arabia",
@@ -17,6 +17,11 @@
     "Saudi"
   ],
   "changes": [
+    {
+      "title": "Valijas diplomáticas, 48 maletas de lujo y gran despliegue policial por la llegada de miembros de la realeza saudí a Mallorca",
+      "summary": "Gran despliegue y expectación en el aeropuerto de Palma por la llegada de miembros de la realeza de Arabia Saudí.",
+      "date": "2026-07-24"
+    },
     {
       "title": "Los técnicos de Hacienda apuntan a la prescripción de los delitos fiscales de Zapatero",
       "summary": "El sindicato de técnicos del Ministerio de Hacienda, Gestha, considera que el expresidente del Gobierno debería ceder a Patrimonio del Estado las joyas que supuestamente recibió como regalo de Arabia Saudí cuando era presidente. Apuntan a la prescripción de cualquier delito fiscal o de contrabando tras la entrevista co.",
@@ -61,13 +66,15 @@
       "title": "El pacto nuclear de EE.UU. con Arabia Saudí hace temer una carrera atómica en Oriente Próximo",
       "summary": "Fuentes oficiales de la Casa Blanca han filtrado a los principales medios de prensa anglosajones que el presidente Trump ha cerrado un acuerdo para compartir tecnología nuclear con Arabia Saudí. El plan, que será sometido al Congreso de Estados Unidos para su aprobación, supone un cambio de política radical al no inclu.",
       "date": "2026-07-22"
-    },
-    {
-      "title": "Los hutíes en Bab al Mandeb: el nuevo foco de la guerra en Oriente Próximo",
-      "summary": "Los rebeldes yemeníes, el principal bastión del Eje de la Resistencia iraní en la actualidad, han recrudecido su confrontación con Arabia Saudí. La ampliación del conflicto regional amenaza aún más el suministro de petróleo y el comercio internacional.",
-      "date": "2026-07-22"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Valijas diplomáticas, 48 maletas de lujo y gran despliegue policial por la llegada de miembros de la realeza saudí a Mallorca",
+      "url": "https://okdiario.com/baleares/valijas-diplomaticas-48-maletas-lujo-gran-despliegue-policial-llegada-miembros-realeza-saudi-mallorca-19052216/amp?utm_source=lootura.com",
+      "publishedAt": "2026-07-24T02:00:45.000Z",
+      "sourceId": "lootura-es-ok-diario"
+    }
+  ],
+  "evidenceCount": 1
 }

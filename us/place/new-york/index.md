@@ -3,10 +3,22 @@
 > Follow New York City, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-23T21:01:27.760Z
+- Updated: 2026-07-24T02:28:29.719Z
 - Canonical: https://atlas.lootura.com/us/place/new-york
 
 ## Recent changes
+
+### Stabbings near New York City’s Central Park
+
+Terrifying moments in New York City this afternoon when two people were stabbed near Central Park, just feet from a synagogue. Witnesses say the attacker yelled Allahu-Akbar. NBC News’ Erin McLaughlin has the latest on the investigation.
+
+Date: 2026-07-23
+
+### New York Gov. Kathy Hochul explains why she signed the first statewide moratorium on data centers
+
+Speaking with NBC News’ “Here’s the Scoop,” Hochul said that she’s responding to the concerns of localities and that New York doesn’t need data centers to support the AI boom.
+
+Date: 2026-07-23
 
 ### Mamdani says he won't try to arrest Israel's Netanyahu
 
@@ -56,19 +68,8 @@ New York City Mayor Zohran Mamdani conceded late Tuesday that the city does not 
 
 Date: 2026-07-22
 
-### Mamdani Says Netanyahu Is a ‘War Criminal’ but New York Can’t Arrest Him
-
-Mayor Zohran Mamdani, in a video address, challenged the U.S. government to execute an international arrest warrant against the Israeli prime minister.
-
-Date: 2026-07-22
-
-### Explosion outside New York federal building in Manhattan apparently caused by fireworks, sources say
-
-NYPD sources said fireworks were found in a garbage can and a man was taken into custody outside the federal building in Lower Manhattan.
-
-Date: 2026-07-20
-
 ## Sources
 
 - [NYPD says dozens rescued from human trafficking during World Cup](https://www.cbsnews.com/news/nypd-says-dozens-rescued-from-human-trafficking-during-world-cup/?utm_source=lootura.com) — 2026-07-23T17:17:28.000Z
-- [Mamdani Knew He Couldn’t Arrest Netanyahu. But He Could Denounce Him.](https://www.nytimes.com/2026/07/22/nyregion/mamdani-netanyahu-speech.html?utm_source=lootura.com) — 2026-07-22T23:42:33.000Z
+- [Stabbings near New York City’s Central Park](https://www.nbcnews.com/nightly-news/video/stabbings-near-new-york-city-s-central-park-267194437527?utm_source=lootura.com) — 2026-07-23T23:05:19.000Z
+- [New York Gov. Kathy Hochul explains why she signed the first statewide moratorium on data centers](https://www.nbcnews.com/politics/politics-news/new-york-gov-kathy-hochul-explains-signed-first-statewide-moratorium-d-rcna588832?utm_source=lootura.com) — 2026-07-23T22:19:33.000Z

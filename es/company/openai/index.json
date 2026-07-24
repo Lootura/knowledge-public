@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/company/openai/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/company/openai/index.json",
   "description": "Sigue la actividad de OpenAI en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-23T02:31:05.539Z",
+  "updatedAt": "2026-07-24T02:28:09.478Z",
   "aliases": [
     "ChatGPT maker"
   ],
@@ -39,6 +39,13 @@
       "date": "2026-07-15"
     }
   ],
-  "sources": [],
+  "sources": [
+    {
+      "title": "Estados Unidos propone un botón para apagar la IA antes de que se descontrole",
+      "url": "https://hipertextual.com/inteligencia-artificial/boton-apagado-ia-estados-unidos/?utm_source=lootura.com",
+      "publishedAt": "2026-07-23T21:25:00.000Z",
+      "sourceId": "lootura-es-hipertextual"
+    }
+  ],
   "evidenceCount": 0
 }

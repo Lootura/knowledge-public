@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/espana/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/espana/index.json",
   "description": "Sigue la actividad de España en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-23T21:01:09.831Z",
+  "updatedAt": "2026-07-24T02:28:09.478Z",
   "aliases": [
     "Estado español",
     "Kingdom of Spain",
@@ -16,6 +16,46 @@
     "Spain"
   ],
   "changes": [
+    {
+      "title": "El Gobierno lanza a Yolanda Díaz como candidata para dirigir la OIT",
+      "summary": "Despejada la incógnita sobre el futuro político de Yolanda Díaz, que, tras claudicar en su propio proyecto político en España —Sumar, ahora descabezado—, aspira ahora a recolocarse en las Naciones Unidas. La dirigente izquierdista se postula oficialmente para liderar la Organización Internacional del Trabajo (OIT) en G.",
+      "date": "2026-07-24"
+    },
+    {
+      "title": "España se ampara en buscar \"una posición común con la UE\" para guardar silencio sobre Nicaragua",
+      "summary": "Albares se ha mostrado muy beligerante en la defensa de los derechos del pueblo nicaragüense hasta ahora, cuando Ortega blinda la dictadura Leer.",
+      "date": "2026-07-24"
+    },
+    {
+      "title": "El Gobierno declara la emergencia nacional en la Comunidad de Madrid y en Ávila por cuatro incendios",
+      "summary": "El Gobierno de España ha recogido en cuestión de un par de horas el guante lanzado por Madrid. Sobre las diez de la noche y en una decisión con un solo precedente, la presidenta madrileña, Isabel Díaz Ayuso, ha pedido vía tuit la declaración de la situación operativa tres del Plan de Protección Civil contra incendios f.",
+      "date": "2026-07-24"
+    },
+    {
+      "title": "Fragmento del día: Angrois",
+      "summary": "en Angrois, un barrio de las afueras de Santiago de Compostela, España, se produce el accidente del tren Alvia, que viajaba con 209 pasajeros, al descarrilarse a la altura de la curva llamada A Grandeira, dejando 78 muertos y 131 heridos.",
+      "date": "2026-07-24"
+    },
+    {
+      "title": "España afronta una jornada crítica por los incendios forestales con varios frentes activos",
+      "summary": "Los incendios de Madrid, Ávila, Murcia y Guadalajara concentran la mayor preocupación en un día marcado por las altas temperaturas y el viento.",
+      "date": "2026-07-23"
+    },
+    {
+      "title": "Trump impone nuevos aranceles de entre el 10% y el 12,5% a más de 60 países para mantener su muro comercial",
+      "summary": "El presidente de Estados Unidos, Donald Trump, ha aprobado este jueves una orden ejecutiva para imponer aranceles de entre el 10% y el 12,5% a más de 60 países, entre los que se encuentran España y el resto de miembros de la Unión Europea, Reino Unido, China, India, Japón, Corea del Sur o México, por no haber tomado su.",
+      "date": "2026-07-23"
+    },
+    {
+      "title": "Capital Dynamics, la gestora suiza especializada en capital privado y energías limpias",
+      "summary": "Cuando Capital Dynamics , gestora especializada en inversiones de capital riesgo y energías renovables, abrió en 2024 su oficina en Madrid, llevaba más de 20 años operando en el mercado español. Así, España tiene la mayor parte de los activos de energía limpia de la empresa. El objetivo de la oficina era, además de ref.",
+      "date": "2026-07-23"
+    },
+    {
+      "title": "Donald Trump anuncia aranceles de hasta el 12,5% a 60 países, entre ellos España",
+      "summary": "La Administración del presidente de Estados Unidos , Donald Trump , ha anunciado este jueves nuevos aranceles de entre el 10% y el 12,5% a las importaciones procedentes de 60 países, entre ellos España. El presidente justifica la medida en una investigación sobre «esfuerzos insuficientes para combatir el trabajo forzos.",
+      "date": "2026-07-23"
+    },
     {
       "title": "Castilla-La Mancha se suma a los avisos rojos por calor de Murcia y la Comunidad Valenciana",
       "summary": "Jueves cruel en las regiones mediterráneas, a las que la ola de calor castigará especialmente con un repunte en las temperaturas en el mismo día en el que se despide de España. Tanto apretará en el sudeste que la Agencia Estatal de Meteorología (Aemet) ha decretado el aviso rojo , el máximo, en Murcia y en la Comunidad.",
@@ -25,65 +65,19 @@
       "title": "Carrefour eleva ventas y beneficios en España gracias a los frescos y las nuevas aperturas",
       "summary": "Carrefour sigue con su buen momento en España, uno de los tres mercados, junto a Francia y Brasil, que tiene fijados como estratégicos. La compañía francesa alcanzó los 5.300 millones de euros en ventas netas en su negocio español a cierre del primer semestre, cifra que supone un incremento del, 2,8% interanual. A perí.",
       "date": "2026-07-23"
-    },
-    {
-      "title": "Airbus alcanza un nuevo preacuerdo con los sindicatos, con subidas salariales superiores al IPC",
-      "summary": "SIPA, el sindicato convocante de la huelga en Airbus España desde el 1 de julio, y ATP han decidido unirse al preacuerdo alcanzado entre CC.OO. y la dirección de la compañía de la semana pasada, que incluye una revisión salarial del 12% hasta 2027 y mantener los dos días de teletrabajo actuales.Las tres organizaciones.",
-      "date": "2026-07-23"
-    },
-    {
-      "title": "Los incendios mantienen en alerta a los bomberos de todo el país: Ávila, Zamora, Madrid, Guadalajara...",
-      "summary": "Sigue en directo los incendios forestales activos alrededor de España, en comunidades como Madrid, Castilla y León o Castilla-La Mancha, y la última hora de las personas evacuadas, pueblos confinados y hectáreas quemadas.",
-      "date": "2026-07-23"
-    },
-    {
-      "title": "España afronta una jornada crítica por los incendios forestales con varios frentes activos",
-      "summary": "Los incendios de Madrid, Ávila, Murcia y Guadalajara concentran la mayor preocupación en un día marcado por las altas temperaturas y el viento.",
-      "date": "2026-07-23"
-    },
-    {
-      "title": "Incendios en España, en directo: restablecida la circulación de la alta velocidad entre Madrid y Barcelona",
-      "summary": "Los servicios de emergencia continúan trabajando en varios incendios forestales activos en distintos puntos de España, con especial atención a la evolución de los fuegos declarados en Castilla-La Mancha, Cataluña, Castilla y León, Andalucía y Aragón.",
-      "date": "2026-07-23"
-    },
-    {
-      "title": "Madrid solicita la emergencia nacional por los incendios: \"Estamos con fuegos fuera de capacidad de extinción\"",
-      "summary": "La Comunidad de Madrid ha solicitado al Gobierno de España la declaración de la Situación Operativa 3 del Plan Especial de Protección Civil de Emergencia por Incendios Forestales (INFOMA) ante la gravedad de los incendios que afectan de forma simultánea a varias comunidades autónomas. El Ejecutivo regional ha explicado.",
-      "date": "2026-07-23"
-    },
-    {
-      "title": "La lección de un español en Suiza tras ir a un supermercado: «Vosotros comprando fruta de Marruecos y nosotros comprando fruta de España»",
-      "summary": "Un vídeo grabado en TikTok por un español residente en Suiza ha reavivado el debate sobre el consumo de frutas y hortalizas en España. Mientras recorría un supermercado suizo, el joven mostró etiquetas de melones, tomates, pimientos, melocotones y otras frutas procedentes de España. Su conclusión fue contundente: «Voso.",
-      "date": "2026-07-23"
-    },
-    {
-      "title": "Carlos Latre confiesa que abandona Mediaset: \"Después de 'Got Talent' acaba mi contrato\"",
-      "summary": "Carlos Latre ha confirmado que su contrato con Mediaset España va a terminar en breve una vez terminen las grabaciones de 'Got Talent'.",
-      "date": "2026-07-23"
-    },
-    {
-      "title": "El Gobierno lanza a Díaz como candidata para dirigir la Organización Internacional del Trabajo",
-      "summary": "Despejada la incógnita sobre el futuro político de Yolanda Díaz, que, tras claudicar en su propio proyecto político en España —Sumar, ahora descabezado—, aspira ahora a recolocarse en las Naciones Unidas. La dirigente izquierdista se postula oficialmente para liderar la Organización Internacional del Trabajo (OIT) en G.",
-      "date": "2026-07-23"
     }
   ],
   "sources": [
     {
-      "title": "Airbus alcanza un nuevo preacuerdo con los sindicatos, con subidas salariales superiores al IPC",
-      "url": "https://www.abc.es/economia/airbus-alcanza-nuevo-preacuerdo-sindicatos-subidas-salariales-20260723214004-nt.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-23T19:40:40.000Z",
+      "title": "El Gobierno lanza a Yolanda Díaz como candidata para dirigir la OIT",
+      "url": "https://www.abc.es/espana/moncloa-propone-yolanda-diaz-optar-direccion-general-20260723090113-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-24T00:51:41.000Z",
       "sourceId": "lootura-es-abc"
     },
     {
-      "title": "Los incendios mantienen en alerta a los bomberos de todo el país: Ávila, Zamora, Madrid, Guadalajara...",
-      "url": "https://www.abc.es/sociedad/incendios-espana-hoy-directo-fuegos-activos-madrid-20260723185959-di.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-23T19:23:02.000Z",
-      "sourceId": "lootura-es-abc"
-    },
-    {
-      "title": "Carrefour eleva ventas y beneficios en España gracias a los frescos y las nuevas aperturas",
-      "url": "https://cincodias.elpais.com/companias/2026-07-23/carrefour-eleva-ventas-y-beneficios-en-espana-gracias-a-los-frescos-y-las-nuevas-aperturas.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-23T17:12:28.000Z",
+      "title": "Trump impone nuevos aranceles de entre el 10% y el 12,5% a más de 60 países para mantener su muro comercial",
+      "url": "https://elpais.com/internacional/2026-07-23/trump-impone-nuevos-aranceles-de-entre-el-10-y-el-125-a-60-paises-para-mantener-su-muro-comercial.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-23T21:35:58.000Z",
       "sourceId": "lootura-es-cinco-dias"
     },
     {
@@ -93,35 +87,35 @@
       "sourceId": "lootura-es-el-correo"
     },
     {
-      "title": "Castilla-La Mancha se suma a los avisos rojos por calor de Murcia y la Comunidad Valenciana",
-      "url": "https://elpais.com/clima-y-medio-ambiente/2026-07-23/la-tercera-ola-de-calor-del-verano-se-despide-con-avisos-rojos-en-murcia-y-la-comunidad-valenciana.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-23T10:12:32.000Z",
+      "title": "España se ampara en buscar \"una posición común con la UE\" para guardar silencio sobre Nicaragua",
+      "url": "https://www.elmundo.es/espana/2026/07/24/6a6222c9e9cf4a7a718b45bc.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-24T01:11:54.000Z",
+      "sourceId": "lootura-es-el-mundo"
+    },
+    {
+      "title": "El Gobierno declara la emergencia nacional en la Comunidad de Madrid y en Ávila por cuatro incendios",
+      "url": "https://elpais.com/espana/2026-07-23/el-gobierno-declara-la-emergencia-nacional-en-la-comunidad-de-madrid-y-en-avila-por-los-incendios.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-24T00:10:33.000Z",
       "sourceId": "lootura-es-el-pais"
     },
     {
-      "title": "Incendios en España, en directo: restablecida la circulación de la alta velocidad entre Madrid y Barcelona",
-      "url": "https://www.larazon.es/sociedad/incendios-espana-directo-hoy-ultima-hora-fuegos-activos-operativos-extincion_202607236a6192fada3add27d4dd1811.html?outputType=amp&utm_source=lootura.com",
-      "publishedAt": "2026-07-23T20:54:17.000Z",
-      "sourceId": "lootura-es-la-razon"
+      "title": "Capital Dynamics, la gestora suiza especializada en capital privado y energías limpias",
+      "url": "https://www.expansion.com/mercados/fondos/2026/07/24/6a61de82e5fdea91718b457b.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-23T23:56:17.000Z",
+      "sourceId": "lootura-es-expansion"
     },
     {
-      "title": "Madrid solicita la emergencia nacional por los incendios: \"Estamos con fuegos fuera de capacidad de extinción\"",
-      "url": "https://www.larazon.es/madrid/madrid-solicita-emergencia-nacional-incendios-estamos-incendios-fuera-capacidad-extincion_202607236a627568aa17c0020f2c4811.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-23T20:11:20.000Z",
-      "sourceId": "lootura-es-la-razon"
+      "title": "Fragmento del día: Angrois",
+      "url": "https://es.wikipedia.org/wiki/Angrois?utm_source=lootura.com",
+      "publishedAt": "2026-07-24T04:00:00.000Z",
+      "sourceId": "lootura-es-lootura-diario"
     },
     {
-      "title": "La lección de un español en Suiza tras ir a un supermercado: «Vosotros comprando fruta de Marruecos y nosotros comprando fruta de España»",
-      "url": "https://okdiario.com/economia/leccion-espanol-suiza-ir-supermercado-vosotros-comprando-fruta-marruecos-nosotros-comprando-fruta-espana-19058150?utm_source=lootura.com",
-      "publishedAt": "2026-07-23T19:40:09.000Z",
-      "sourceId": "lootura-es-ok-diario"
-    },
-    {
-      "title": "Carlos Latre confiesa que abandona Mediaset: \"Después de 'Got Talent' acaba mi contrato\"",
-      "url": "https://okdiario.com/cool/television/carlos-latre-confiesa-que-abandona-mediaset-despues-got-talent-acaba-contrato-19058336/amp?utm_source=lootura.com",
-      "publishedAt": "2026-07-23T20:56:03.000Z",
-      "sourceId": "lootura-es-ok-diario"
+      "title": "Donald Trump anuncia aranceles de hasta el 12,5% a 60 países, entre ellos España",
+      "url": "https://theobjective.com/internacional/2026-07-24/trump-aranceles-60-paises-espana/?utm_source=lootura.com",
+      "publishedAt": "2026-07-23T22:00:48.000Z",
+      "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 9
+  "evidenceCount": 8
 }

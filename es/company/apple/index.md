@@ -3,10 +3,16 @@
 > Sigue la actividad de Apple en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: company
-- Actualizado: 2026-07-23T02:31:05.539Z
+- Actualizado: 2026-07-24T02:28:09.478Z
 - Canonical: https://atlas.lootura.com/es/company/apple
 
 ## Cambios recientes
+
+### Nepobabies: Apple Martin, el relevo «cool» de Hollywood
+
+Hija de dos celebridades, ocupa ya un espacio propio en la élite de la moda y la cultura pop.
+
+Date: 2026-07-24
 
 ### Galaxy Watch Ultra 2 vs. Apple Watch Ultra 3: ¿cuál es mejor?
 
@@ -62,12 +68,6 @@ Cada vez son más los usuarios de Android que buscan alternativas a la Play Stor
 
 Date: 2026-07-18
 
-### Apple Music sube de precio: esto pagarás a partir de hoy
-
-Malas noticias para los usuarios de Apple Music : desde hoy, el servicio es más caro. La plataforma de música en streaming de la manzana acaba de subir de precio y España se encuentra entre los países afectados. Es el primer encarecimiento que el servicio sufre desde 2022 e impacta tanto en el plan Individual, como en.
-
-Date: 2026-07-17
-
 ## Fuentes
 
-No public source links.
+- [Nepobabies: Apple Martin, el relevo «cool» de Hollywood](https://www.larazon.es/gente/famosos/nepobabies-apple-martin-relevo-cool-hollywood_202607246a62c39eaa17c0020f2ca8b1.html?outputType=amp&utm_source=lootura.com) — 2026-07-24T01:45:02.000Z

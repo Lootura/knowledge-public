@@ -3,26 +3,32 @@
 > Follow Iran, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-23T21:01:27.760Z
+- Updated: 2026-07-24T02:28:29.719Z
 - Canonical: https://atlas.lootura.com/us/place/iran
 
 ## Recent changes
 
+### Rapid pace of interceptor and precision-guided weapons use worries Trump admin.
+
+The U.S. defense industrial base isn't equipped to produce missiles rapidly enough to replenish munitions used in the war with Iran, or transferred for use to Central Command.
+
+Date: 2026-07-24
+
+### A Fallen Soldier’s Angst, Love and Longing to Return Home From the Iran War
+
+Sgt. Michael Emmanuel Swinton was killed in recent days, one of 18 U.S. soldiers who have lost their lives since the beginning of the war in Iran.
+
+Date: 2026-07-24
+
+### Number of U.S. Troop Deaths in Iran War Appears Lower on Pentagon Website
+
+Three military officials and a Pentagon spokesman gave conflicting explanations for why the number of Americans killed in the Iran war had changed.
+
+Date: 2026-07-24
+
 ### Funding milestone detected
 
 Trump administration signs nuclear cooperation agreement with Saudi Arabia, Trump ramps up aggression against Iran despite declining support, House passes Pentagon funding bill.
-
-Date: 2026-07-23
-
-### House Adopts $95 Billion G.O.P. Budget for Iran War
-
-Republican leaders muscled through resistance in their own ranks to approve the budget blueprint for the war and other measures, but its prospects were far dimmer in the Senate.
-
-Date: 2026-07-23
-
-### Oil surges to $100 per barrel after Red Sea attacks
-
-Oil prices rose Thursday to their highest level since early June after the latest Iran war escalation threatened severe new disruption to global supplies.
 
 Date: 2026-07-23
 
@@ -50,33 +56,27 @@ Futures contracts reflect an expectation that low inventories and midterm electi
 
 Date: 2026-07-23
 
-### House votes to end Iran war, but Senate Republicans vote to let Trump continue waging it
-
-The House approved a nonbinding proposal to end the Iran war, directing President Donald Trump to remove armed forces from hostilities.
-
-Date: 2026-07-23
-
-### Marco Rubio describes Trump's military strategy with Iran as a ‘head for an eye’
-
-NBC News’ Gabe Gutierrez, Richard Engel and Courtney Kube discuss President Trump’s threats to escalate attacks inside Iran as fears grow over a widening conflict in the Middle East. NBC News Contributor Hooman Maj analyzes the state of diplomacy between the U.S. and Iran after 12 consecutive days of U.S. attacks.
-
-Date: 2026-07-23
-
 ### For a 2nd time, House approves resolution to end the war in Iran in a rebuke to Trump
 
 Four Republicans joined Democrats to approve the measure. And while it is not legally binding, the resolution represents growing frustration inside Congress over the war. (Image credit: J. Scott Applewhite).
 
 Date: 2026-07-23
 
+### Yemen's Houthis attack Saudi tankers in the Red Sea, threatening to widen Iran war
+
+As the U.S. carried out a 12th night of strikes across Iran, President Donald Trump threatened "major military punishment" against the Houthis if their attacks on ships continue.
+
+Date: 2026-07-23
+
 ## Sources
 
+- [Rapid pace of interceptor and precision-guided weapons use worries Trump admin.](https://www.cbsnews.com/news/interceptor-precision-guided-weapons-use-trump-administration/?utm_source=lootura.com) — 2026-07-24T00:47:24.000Z
 - [House again rebukes Trump over Iran, while similar effort stalls in Senate](https://www.cbsnews.com/news/house-trump-war-powers-vote/?utm_source=lootura.com) — 2026-07-23T16:54:09.000Z
 - [Senate fails to advance latest attempt to limit Trump's Iran war powers](https://www.cbsnews.com/news/senate-trump-iran-war-powers/?utm_source=lootura.com) — 2026-07-23T16:39:50.000Z
-- [Oil surges to $100 per barrel after Red Sea attacks](https://www.nbcnews.com/business/markets/oil-prices-rise-red-sea-attacks-houthis-saudi-trump-iran-war-rcna588851?utm_source=lootura.com) — 2026-07-23T11:39:33.000Z
-- [House votes to end Iran war, but Senate Republicans vote to let Trump continue waging it](https://www.nbcnews.com/politics/congress/house-votes-end-iran-war-senate-republicans-let-trump-continue-war-rcna588874?utm_source=lootura.com) — 2026-07-23T18:20:47.000Z
-- [Marco Rubio describes Trump's military strategy with Iran as a ‘head for an eye’](https://www.nbcnews.com/meet-the-press/video/marco-rubio-describes-trump-s-military-strategy-with-iran-as-a-head-for-an-eye-267186757837?utm_source=lootura.com) — 2026-07-23T20:30:39.000Z
+- [Oil price surge as war with Iran expands](https://www.nbcnews.com/nightly-news/video/oil-price-surge-as-war-with-iran-expands-267195973767?utm_source=lootura.com) — 2026-07-23T22:52:53.000Z
 - [Morning news brief](https://www.npr.org/2026/07/23/nx-s1-5895984/morning-news-brief?utm_source=lootura.com) — 2026-07-23T08:47:19.000Z
 - [For a 2nd time, House approves resolution to end the war in Iran in a rebuke to Trump](https://www.npr.org/2026/07/23/nx-s1-5904515/congress-iran-war-powers-vote?utm_source=lootura.com) — 2026-07-23T17:35:02.000Z
 - [Yemen's Houthis attack Saudi tankers in the Red Sea, threatening to widen Iran war](https://www.pbs.org/newshour/world/yemens-houthis-attack-saudi-tankers-in-the-red-sea-threatening-to-widen-iran-war?utm_source=lootura.com) — 2026-07-23T17:26:28.000Z
 - [Some House Republicans defect to again pass resolution seeking to halt military action in Iran](https://www.pbs.org/newshour/politics/some-house-republicans-defect-to-again-pass-resolution-seeking-to-halt-military-action-in-iran?utm_source=lootura.com) — 2026-07-23T16:19:36.000Z
-- [Even as War Rages, Investors Bet Oil Will Be Cheaper in a Few Months](https://www.nytimes.com/2026/07/23/business/iran-war-oil-prices.html?utm_source=lootura.com) — 2026-07-23T14:19:17.000Z
+- [A Fallen Soldier’s Angst, Love and Longing to Return Home From the Iran War](https://www.nytimes.com/2026/07/23/us/michael-emmanuel-swinton-iran-soldier.html?utm_source=lootura.com) — 2026-07-24T00:04:57.000Z
+- [House Rebukes Trump on Iran in War Powers Vote as Senate Blocks Debate](https://www.nytimes.com/2026/07/23/us/politics/house-iran-war-powers-vote-trump.html?utm_source=lootura.com) — 2026-07-23T18:17:54.000Z

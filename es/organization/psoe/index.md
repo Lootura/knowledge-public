@@ -3,7 +3,7 @@
 > Sigue la actividad de Partido Socialista Obrero Español en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-23T21:01:09.831Z
+- Actualizado: 2026-07-24T02:28:09.478Z
 - Canonical: https://atlas.lootura.com/es/organization/psoe
 
 ## Cambios recientes
@@ -32,6 +32,18 @@ El Gobierno y la dirección del PSOE reiteran su respaldo a José Luis Rodrígue
 
 Date: 2026-07-23
 
+### "Decepción" en el PSOE con Zapatero tras su entrevista: "No lo hemos entendido, no ha aclarado nada de las joyas"
+
+La Moncloa y Ferraz cierran filas con el ex presidente, que no convence a todos en el partido Leer.
+
+Date: 2026-07-23
+
+### El Congreso rebaja los requisitos para formar grupo propio a petición de los nacionalistas
+
+El Congreso ha aprobado este jueves definitivamente la rebaja de los requisitos para constituir grupo parlamentario propio a propuesta de los partidos nacionalistas y con el apoyo del PSOE , mientras que PP, Vox y UPN han votado en contra. La reforma, impulsada por ERC, Junts, BNG, Compromís y Podemos, mantiene la regl.
+
+Date: 2026-07-23
+
 ### Sumar considera insuficientes las explicaciones de Zapatero sobre el caso Plus Ultra: "Sigue decepcionando"
 
 Sumar , socio de Gobierno del PSOE, considera que las explicaciones que ha dado este jueves el expresidente del Ejecutivo José Luis Rodríguez Zapatero sobre su imputación en el caso Plus Ultra "siguen siendo insuficientes" y que él, más allá de que haya o no delito, "sigue decepcionando". Tras la entrevista de Zapatero.
@@ -56,21 +68,12 @@ El secretario general del PP, Miguel Tellado , ha reclamado este jueves la dimis
 
 Date: 2026-07-23
 
-### Última hora de la actualidad política, en directo | El PSOE espera de la entrevista a Zapatero que dé “explicaciones que despejen dudas”
-
-El portavoz del PSOE en el Congreso, Patxi López, ha dicho este jueves a su llegada a la Cámara Baja que lo que espera de la entrevista que va a dar el expresidente del Gobierno José Luis Rodríguez Zapatero en TVE es “lo que hemos esperado siempre, explicaciones que despejen dudas”. “Yo desde el primer día dije y mante.
-
-Date: 2026-07-23
-
-### El Parlamento reelige a Arenas, Díaz y Espadas y designa a Montero, Zancajo y Aguirre como senadores por la comunidad
-
-Los que han obtenido más votos han sido los senadores propuestos por el PP-A, con un total de 98; los del PSOE-A, 83, y los de Vox, 65 votos.
-
-Date: 2026-07-23
-
 ## Fuentes
 
+- [Gerardo Pisarello: "Comparto con Gabriel Rufián la urgencia de un frente amplio de izquierdas para frenar al neofascismo"](https://www.elmundo.es/cataluna/2026/07/23/6a6271fae85ece54368b458f.html?utm_source=lootura.com) — 2026-07-23T22:49:03.000Z
+- ["Decepción" en el PSOE con Zapatero tras su entrevista: "No lo hemos entendido, no ha aclarado nada de las joyas"](https://www.elmundo.es/espana/2026/07/23/6a625f38e4d4d84c798b4596.html?utm_source=lootura.com) — 2026-07-23T20:48:53.000Z
 - [La 'popular' Ana Mestre se estrena como presidenta del Parlamento andaluz con un plantón del PSOE de María Jesús Montero: "Esto no va ser un ring"](https://www.elmundo.es/andalucia/2026/07/23/6a61ca2efc6c83037c8b4579.html?utm_source=lootura.com) — 2026-07-23T20:10:05.000Z
 - [La cúpula del PSOE da por buenas las explicaciones de Zapatero: "Mantenemos nuestro apoyo"](https://amp.elmundo.es/espana/2026/07/23/6a6202be21efa0605a8b45ba.html?utm_source=lootura.com) — 2026-07-23T12:02:40.000Z
 - [Última hora de la actualidad política, en directo | El PSOE mantiene “exactamente la misma posición” en su defensa del exjefe de Gobierno](https://elpais.com/espana/2026-07-23/ultima-hora-de-la-actualidad-politica-en-directo.html?utm_source=lootura.com) — 2026-07-23T13:37:20.000Z
 - [El Gobierno y el PSOE cierran filas con Zapatero y aseguran que probará su inocencia](https://elpais.com/espana/2026-07-23/el-gobierno-y-el-psoe-cierran-filas-con-zapatero-y-aseguran-que-probara-su-inocencia.html?utm_source=lootura.com) — 2026-07-23T12:48:42.000Z
+- [El Congreso rebaja los requisitos para formar grupo propio a petición de los nacionalistas](https://theobjective.com/espana/politica/2026-07-24/congreso-requisitos-grupo-propio-nacionalistas/?utm_source=lootura.com) — 2026-07-23T22:21:25.000Z

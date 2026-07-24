@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/gobierno-de-espana/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/gobierno-de-espana/index.json",
   "description": "Sigue la actividad de Gobierno de España en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-23T21:01:09.831Z",
+  "updatedAt": "2026-07-24T02:28:09.478Z",
   "aliases": [
     "Ejecutivo español",
     "Gobierno español"
   ],
   "changes": [
+    {
+      "title": "El Gobierno declara la emergencia nacional en la Comunidad de Madrid y en Ávila por cuatro incendios",
+      "summary": "El Gobierno de España ha recogido en cuestión de un par de horas el guante lanzado por Madrid. Sobre las diez de la noche y en una decisión con un solo precedente, la presidenta madrileña, Isabel Díaz Ayuso, ha pedido vía tuit la declaración de la situación operativa tres del Plan de Protección Civil contra incendios f.",
+      "date": "2026-07-24"
+    },
     {
       "title": "Madrid solicita la emergencia nacional por los incendios: \"Estamos con fuegos fuera de capacidad de extinción\"",
       "summary": "La Comunidad de Madrid ha solicitado al Gobierno de España la declaración de la Situación Operativa 3 del Plan Especial de Protección Civil de Emergencia por Incendios Forestales (INFOMA) ante la gravedad de los incendios que afectan de forma simultánea a varias comunidades autónomas. El Ejecutivo regional ha explicado.",
@@ -58,19 +63,14 @@
       "title": "Mariano Rajoy sobre los que le tachan de racista: \"No me voy a poner al nivel de ciertos miembros del Gobierno español\"",
       "summary": "El ex presidente español transmite a EL MUNDO que no va a responder a los insultos escritos por los miembros del Ejecutivo en redes sociales tachándole de «zoquete post franquista corrupto» Leer.",
       "date": "2026-07-12"
-    },
-    {
-      "title": "Francia carga contra Rajoy por decir que su selección es de «altísimo nivel, sin franceses»",
-      "summary": "El ministro francés del Interior, Laurent Nuñez, ha calificado este domingo de «absolutamente inaceptables» las declaraciones del expresidente del Gobierno español Mariano Rajoy , quien aseguró en una columna de opinión que la selección francesa de fútbol tiene «un altísimo nivel, eso sí, sin franceses». «Si esa declar.",
-      "date": "2026-07-12"
     }
   ],
   "sources": [
     {
-      "title": "Madrid solicita la emergencia nacional por los incendios: \"Estamos con fuegos fuera de capacidad de extinción\"",
-      "url": "https://www.larazon.es/madrid/madrid-solicita-emergencia-nacional-incendios-estamos-incendios-fuera-capacidad-extincion_202607236a627568aa17c0020f2c4811.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-23T20:11:20.000Z",
-      "sourceId": "lootura-es-la-razon"
+      "title": "El Gobierno declara la emergencia nacional en la Comunidad de Madrid y en Ávila por cuatro incendios",
+      "url": "https://elpais.com/espana/2026-07-23/el-gobierno-declara-la-emergencia-nacional-en-la-comunidad-de-madrid-y-en-avila-por-los-incendios.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-24T00:10:33.000Z",
+      "sourceId": "lootura-es-el-pais"
     }
   ],
   "evidenceCount": 1

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/saudi-arabia/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/saudi-arabia/index.json",
   "description": "Follow Saudi Arabia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-23T21:01:27.760Z",
+  "updatedAt": "2026-07-24T02:28:29.719Z",
   "aliases": [
     "Kingdom of Saudi Arabia",
     "Saudi"
@@ -25,13 +25,18 @@
       "date": "2026-07-23"
     },
     {
-      "title": "Trump says Saudi Arabia must normalize Israel ties before nuclear deal is approved",
-      "summary": "President Donald Trump said Thursday that a nuclear deal between the United States and Saudi Arabia requires the kingdom to normalize relations with Israel — a significant condition not previously mentioned as the deal was announced.",
+      "title": "Israel Welcomes Trump’s Demand for Diplomatic Ties With Saudi Arabia",
+      "summary": "Israeli officials embraced the possibility of normalized ties, but analysts said the U.S.-Saudi nuclear deal nonetheless remained bad for Israel.",
       "date": "2026-07-23"
     },
     {
-      "title": "Israel Welcomes Trump’s Demand for Diplomatic Ties With Saudi Arabia",
-      "summary": "Israeli officials embraced the possibility of normalized ties, but analysts said the U.S.-Saudi nuclear deal nonetheless remained bad for Israel.",
+      "title": "White House says Saudi Arabia nuclear deal contingent on joining Abraham Accords",
+      "summary": "During a press briefing, White House press secretary Karoline Leavitt echoed a social media post from President Trump that said any nuclear deal with Saudi Arabia would be contingent on them joining the Abraham Accords. NBC News' Monica Alba reports from the White House on the potential deal and the White House's appro.",
+      "date": "2026-07-23"
+    },
+    {
+      "title": "Trump says Saudi Arabia must normalize Israel ties before nuclear deal is approved",
+      "summary": "President Donald Trump said Thursday that a nuclear deal between the United States and Saudi Arabia requires the kingdom to normalize relations with Israel — a significant condition not previously mentioned as the deal was announced.",
       "date": "2026-07-23"
     },
     {
@@ -58,18 +63,13 @@
       "title": "Coveted U.S. Nuclear Deal Is a Coup for Saudi Crown Prince",
       "summary": "Saudi Arabia has for years sought a deal to obtain American nuclear technology. The agreement, signed on Wednesday, could deepen U.S.-Saudi ties for decades to come.",
       "date": "2026-07-22"
-    },
-    {
-      "title": "See How Houthis Put the Red Sea at Risk as an Alternative Oil Route",
-      "summary": "Saudi Arabia has diverted huge amounts of oil to the Red Sea since the Iran war began, but now the Iranian-backed Houthi militants say that they intend to block that route.",
-      "date": "2026-07-22"
     }
   ],
   "sources": [
     {
-      "title": "Trump says Saudi Arabia must normalize Israel ties before nuclear deal is approved",
-      "url": "https://www.nbcnews.com/world/middle-east/trump-saudi-arabia-normalize-israel-ties-nuclear-deal-rcna588859?utm_source=lootura.com",
-      "publishedAt": "2026-07-23T12:35:22.000Z",
+      "title": "White House says Saudi Arabia nuclear deal contingent on joining Abraham Accords",
+      "url": "https://www.nbcnews.com/now/video/white-house-says-saudi-arabia-nuclear-deal-contingent-on-joining-abraham-accords-267170885845?utm_source=lootura.com",
+      "publishedAt": "2026-07-23T15:53:39.000Z",
       "sourceId": "lootura-us-nbc-news"
     },
     {

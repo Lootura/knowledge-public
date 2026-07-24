@@ -3,10 +3,16 @@
 > Sigue la actividad de Palacio de la Moncloa en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: object
-- Actualizado: 2026-07-23T21:01:09.831Z
+- Actualizado: 2026-07-24T02:28:09.478Z
 - Canonical: https://atlas.lootura.com/es/object/la-moncloa
 
 ## Cambios recientes
+
+### "Decepción" en el PSOE con Zapatero tras su entrevista: "No lo hemos entendido, no ha aclarado nada de las joyas"
+
+La Moncloa y Ferraz cierran filas con el ex presidente, que no convence a todos en el partido Leer.
+
+Date: 2026-07-23
 
 ### El Gobierno propone a Yolanda Díaz como directora general de la OIT, el organismo de la ONU dedicado al trabajo
 
@@ -40,4 +46,4 @@ Date: 2026-07-20
 
 ## Fuentes
 
-- [El Gobierno de Madrid pide a La Moncloa que tome el control ante la evolución de los incendios](https://elpais.com/espana/madrid/2026-07-23/madrid-registra-un-tercer-incendio-que-obliga-a-evacuar-una-urbanizacion-y-un-centro-residencial.html?utm_source=lootura.com) — 2026-07-23T17:02:53.000Z
+- ["Decepción" en el PSOE con Zapatero tras su entrevista: "No lo hemos entendido, no ha aclarado nada de las joyas"](https://www.elmundo.es/espana/2026/07/23/6a625f38e4d4d84c798b4596.html?utm_source=lootura.com) — 2026-07-23T20:48:53.000Z

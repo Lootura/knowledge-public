@@ -44,6 +44,24 @@ La escalada del conflicto en Oriente Próximo tiene una víctima secundaria en l
 
 Date: 2026-07-23
 
+### El BCE revela los billetes del futuro: así son las propuestas para los nuevos euros
+
+Los billetes del futuro se acercan. El Banco Central Europeo (BCE) ha dado a conocer hoy las propuestas de diseño preseleccionadas para la próxima serie de euros y ha puesto en marcha una encuesta para recabar la opinión de los ciudadanos de toda Europa. Seguir leyendo.
+
+Date: 2026-07-23
+
+### El BCE abre la encuesta para votar el diseño de los nuevos billetes de euro: Cervantes, Da Vinci...
+
+El Banco Central Europeo (BCE) ha desvelado los diez diseños seleccionados para sustituir a los actuales billetes de euro y ha abierto una consulta.
+
+Date: 2026-07-23
+
+### Discovered by Atlas
+
+El Banco Central first entered the public knowledge record with source-backed evidence.
+
+Date: 2026-07-23
+
 ## Fuentes
 
-- [Beethoven, Cervantes o un pájaro: así son los nuevos billetes de euro](https://www.expansion.com/mercados/divisas/album/2026/07/23/6a62508ee5fdea6e048b4570.html?utm_source=lootura.com) — 2026-07-23T17:34:13.000Z
+No public source links.

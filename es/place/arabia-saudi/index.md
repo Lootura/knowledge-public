@@ -3,10 +3,16 @@
 > Sigue la actividad de Arabia Saudí en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-23T17:19:26.220Z
+- Actualizado: 2026-07-24T02:28:09.478Z
 - Canonical: https://atlas.lootura.com/es/place/arabia-saudi
 
 ## Cambios recientes
+
+### Valijas diplomáticas, 48 maletas de lujo y gran despliegue policial por la llegada de miembros de la realeza saudí a Mallorca
+
+Gran despliegue y expectación en el aeropuerto de Palma por la llegada de miembros de la realeza de Arabia Saudí.
+
+Date: 2026-07-24
 
 ### Los técnicos de Hacienda apuntan a la prescripción de los delitos fiscales de Zapatero
 
@@ -62,12 +68,6 @@ Fuentes oficiales de la Casa Blanca han filtrado a los principales medios de pre
 
 Date: 2026-07-22
 
-### Los hutíes en Bab al Mandeb: el nuevo foco de la guerra en Oriente Próximo
-
-Los rebeldes yemeníes, el principal bastión del Eje de la Resistencia iraní en la actualidad, han recrudecido su confrontación con Arabia Saudí. La ampliación del conflicto regional amenaza aún más el suministro de petróleo y el comercio internacional.
-
-Date: 2026-07-22
-
 ## Fuentes
 
-No public source links.
+- [Valijas diplomáticas, 48 maletas de lujo y gran despliegue policial por la llegada de miembros de la realeza saudí a Mallorca](https://okdiario.com/baleares/valijas-diplomaticas-48-maletas-lujo-gran-despliegue-policial-llegada-miembros-realeza-saudi-mallorca-19052216/amp?utm_source=lootura.com) — 2026-07-24T02:00:45.000Z

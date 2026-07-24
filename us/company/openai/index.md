@@ -3,7 +3,7 @@
 > Follow OpenAI, a tracked company, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: company
-- Updated: 2026-07-23T21:01:27.760Z
+- Updated: 2026-07-24T02:28:29.719Z
 - Canonical: https://atlas.lootura.com/us/company/openai
 
 ## Recent changes
@@ -22,4 +22,4 @@ Date: 2026-07-22
 
 ## Sources
 
-- [OpenAI blamed a hacking event on its AI models gone rogue. Here is what to know](https://www.npr.org/2026/07/23/g-s1-135085/openai-hacking-ai-models?utm_source=lootura.com) — 2026-07-23T05:23:42.000Z
+- [OpenAI blamed a hacking event on its AI models going rogue. Here's what to know](https://www.pbs.org/newshour/science/openai-blamed-a-hacking-event-on-its-ai-models-going-rogue-heres-what-to-know?utm_source=lootura.com) — 2026-07-23T23:37:00.000Z

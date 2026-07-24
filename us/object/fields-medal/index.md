@@ -3,7 +3,7 @@
 > Follow Fields Medal, a tracked object, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: object
-- Updated: 2026-07-23T21:01:27.760Z
+- Updated: 2026-07-24T02:28:29.719Z
 - Canonical: https://atlas.lootura.com/us/object/fields-medal
 
 ## Recent changes
@@ -12,11 +12,17 @@
 
 Nature, Published online: 23 July 2026; doi:10.1038/d41586-026-02169-1 Two of the four are the first Chinese-born winners of the prize since 1982.
 
-Date: 2026-07-23
+Date: 2026-07-24
 
 ### Discovered by Atlas
 
 Fields Medal first entered the public knowledge record with source-backed evidence.
+
+Date: 2026-07-23
+
+### Rising stars of mathematics awarded prestigious 2026 Fields Medal
+
+Nature, Published online: 23 July 2026; doi:10.1038/d41586-026-02169-1 Two of the four are the first Chinese-born winners of the prize since 1982.
 
 Date: 2026-07-23
 
@@ -28,4 +34,4 @@ Date: 2026-07-23
 
 ## Sources
 
-- [Rising stars of mathematics awarded prestigious 2026 Fields Medal](https://www.nature.com/articles/d41586-026-02169-1?utm_source=lootura.com) — 2026-07-23T21:01:31.750Z
+- [Rising stars of mathematics awarded prestigious 2026 Fields Medal](https://www.nature.com/articles/d41586-026-02169-1?utm_source=lootura.com) — 2026-07-24T02:28:34.437Z

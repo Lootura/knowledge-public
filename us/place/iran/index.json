@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/iran/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/iran/index.json",
   "description": "Follow Iran, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-23T21:01:27.760Z",
+  "updatedAt": "2026-07-24T02:28:29.719Z",
   "aliases": [
     "IRI",
     "Islamic Rep. Iran",
@@ -17,18 +17,23 @@
   ],
   "changes": [
     {
+      "title": "Rapid pace of interceptor and precision-guided weapons use worries Trump admin.",
+      "summary": "The U.S. defense industrial base isn't equipped to produce missiles rapidly enough to replenish munitions used in the war with Iran, or transferred for use to Central Command.",
+      "date": "2026-07-24"
+    },
+    {
+      "title": "A Fallen Soldier’s Angst, Love and Longing to Return Home From the Iran War",
+      "summary": "Sgt. Michael Emmanuel Swinton was killed in recent days, one of 18 U.S. soldiers who have lost their lives since the beginning of the war in Iran.",
+      "date": "2026-07-24"
+    },
+    {
+      "title": "Number of U.S. Troop Deaths in Iran War Appears Lower on Pentagon Website",
+      "summary": "Three military officials and a Pentagon spokesman gave conflicting explanations for why the number of Americans killed in the Iran war had changed.",
+      "date": "2026-07-24"
+    },
+    {
       "title": "Funding milestone detected",
       "summary": "Trump administration signs nuclear cooperation agreement with Saudi Arabia, Trump ramps up aggression against Iran despite declining support, House passes Pentagon funding bill.",
-      "date": "2026-07-23"
-    },
-    {
-      "title": "House Adopts $95 Billion G.O.P. Budget for Iran War",
-      "summary": "Republican leaders muscled through resistance in their own ranks to approve the budget blueprint for the war and other measures, but its prospects were far dimmer in the Senate.",
-      "date": "2026-07-23"
-    },
-    {
-      "title": "Oil surges to $100 per barrel after Red Sea attacks",
-      "summary": "Oil prices rose Thursday to their highest level since early June after the latest Iran war escalation threatened severe new disruption to global supplies.",
       "date": "2026-07-23"
     },
     {
@@ -52,22 +57,23 @@
       "date": "2026-07-23"
     },
     {
-      "title": "House votes to end Iran war, but Senate Republicans vote to let Trump continue waging it",
-      "summary": "The House approved a nonbinding proposal to end the Iran war, directing President Donald Trump to remove armed forces from hostilities.",
-      "date": "2026-07-23"
-    },
-    {
-      "title": "Marco Rubio describes Trump's military strategy with Iran as a ‘head for an eye’",
-      "summary": "NBC News’ Gabe Gutierrez, Richard Engel and Courtney Kube discuss President Trump’s threats to escalate attacks inside Iran as fears grow over a widening conflict in the Middle East. NBC News Contributor Hooman Maj analyzes the state of diplomacy between the U.S. and Iran after 12 consecutive days of U.S. attacks.",
-      "date": "2026-07-23"
-    },
-    {
       "title": "For a 2nd time, House approves resolution to end the war in Iran in a rebuke to Trump",
       "summary": "Four Republicans joined Democrats to approve the measure. And while it is not legally binding, the resolution represents growing frustration inside Congress over the war. (Image credit: J. Scott Applewhite).",
+      "date": "2026-07-23"
+    },
+    {
+      "title": "Yemen's Houthis attack Saudi tankers in the Red Sea, threatening to widen Iran war",
+      "summary": "As the U.S. carried out a 12th night of strikes across Iran, President Donald Trump threatened \"major military punishment\" against the Houthis if their attacks on ships continue.",
       "date": "2026-07-23"
     }
   ],
   "sources": [
+    {
+      "title": "Rapid pace of interceptor and precision-guided weapons use worries Trump admin.",
+      "url": "https://www.cbsnews.com/news/interceptor-precision-guided-weapons-use-trump-administration/?utm_source=lootura.com",
+      "publishedAt": "2026-07-24T00:47:24.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
     {
       "title": "House again rebukes Trump over Iran, while similar effort stalls in Senate",
       "url": "https://www.cbsnews.com/news/house-trump-war-powers-vote/?utm_source=lootura.com",
@@ -81,21 +87,9 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "Oil surges to $100 per barrel after Red Sea attacks",
-      "url": "https://www.nbcnews.com/business/markets/oil-prices-rise-red-sea-attacks-houthis-saudi-trump-iran-war-rcna588851?utm_source=lootura.com",
-      "publishedAt": "2026-07-23T11:39:33.000Z",
-      "sourceId": "lootura-us-nbc-news"
-    },
-    {
-      "title": "House votes to end Iran war, but Senate Republicans vote to let Trump continue waging it",
-      "url": "https://www.nbcnews.com/politics/congress/house-votes-end-iran-war-senate-republicans-let-trump-continue-war-rcna588874?utm_source=lootura.com",
-      "publishedAt": "2026-07-23T18:20:47.000Z",
-      "sourceId": "lootura-us-nbc-news-politics"
-    },
-    {
-      "title": "Marco Rubio describes Trump's military strategy with Iran as a ‘head for an eye’",
-      "url": "https://www.nbcnews.com/meet-the-press/video/marco-rubio-describes-trump-s-military-strategy-with-iran-as-a-head-for-an-eye-267186757837?utm_source=lootura.com",
-      "publishedAt": "2026-07-23T20:30:39.000Z",
+      "title": "Oil price surge as war with Iran expands",
+      "url": "https://www.nbcnews.com/nightly-news/video/oil-price-surge-as-war-with-iran-expands-267195973767?utm_source=lootura.com",
+      "publishedAt": "2026-07-23T22:52:53.000Z",
       "sourceId": "lootura-us-nbc-news-politics"
     },
     {
@@ -123,9 +117,15 @@
       "sourceId": "lootura-us-pbs-newshour"
     },
     {
-      "title": "Even as War Rages, Investors Bet Oil Will Be Cheaper in a Few Months",
-      "url": "https://www.nytimes.com/2026/07/23/business/iran-war-oil-prices.html?utm_source=lootura.com",
-      "publishedAt": "2026-07-23T14:19:17.000Z",
+      "title": "A Fallen Soldier’s Angst, Love and Longing to Return Home From the Iran War",
+      "url": "https://www.nytimes.com/2026/07/23/us/michael-emmanuel-swinton-iran-soldier.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-24T00:04:57.000Z",
+      "sourceId": "lootura-us-the-new-york-times"
+    },
+    {
+      "title": "House Rebukes Trump on Iran in War Powers Vote as Senate Blocks Debate",
+      "url": "https://www.nytimes.com/2026/07/23/us/politics/house-iran-war-powers-vote-trump.html?utm_source=lootura.com",
+      "publishedAt": "2026-07-23T18:17:54.000Z",
       "sourceId": "lootura-us-the-new-york-times"
     }
   ],

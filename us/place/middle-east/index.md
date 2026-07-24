@@ -3,10 +3,16 @@
 > Follow Middle East, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-23T21:01:27.760Z
+- Updated: 2026-07-24T02:28:29.719Z
 - Canonical: https://atlas.lootura.com/us/place/middle-east
 
 ## Recent changes
+
+### U.S.-Saudi Deal Prompts Fears of a Global Nuclear Arms Race
+
+In Europe, Asia and the Middle East, countries seek nuclear capabilities to hedge against aggressive neighbors and a receding Washington, potentially creating a more freewheeling era.
+
+Date: 2026-07-23
 
 ### What Visuals Show About Recent Damage to U.S. Military Sites in the Middle East
 
@@ -17,12 +23,6 @@ Date: 2026-07-23
 ### Marco Rubio describes Trump's military strategy with Iran as a ‘head for an eye’
 
 NBC News’ Gabe Gutierrez, Richard Engel and Courtney Kube discuss President Trump’s threats to escalate attacks inside Iran as fears grow over a widening conflict in the Middle East. NBC News Contributor Hooman Maj analyzes the state of diplomacy between the U.S. and Iran after 12 consecutive days of U.S. attacks.
-
-Date: 2026-07-23
-
-### U.S.-Saudi Deal Prompts Fears of a Global Nuclear Arms Race
-
-In Europe, Asia and the Middle East, countries seek nuclear capabilities to hedge against aggressive neighbors and a receding Washington, potentially creating a more freewheeling era.
 
 Date: 2026-07-23
 
@@ -70,6 +70,4 @@ Date: 2026-07-22
 
 ## Sources
 
-- [Marco Rubio describes Trump's military strategy with Iran as a ‘head for an eye’](https://www.nbcnews.com/meet-the-press/video/marco-rubio-describes-trump-s-military-strategy-with-iran-as-a-head-for-an-eye-267186757837?utm_source=lootura.com) — 2026-07-23T20:30:39.000Z
 - [U.S.-Saudi Deal Prompts Fears of a Global Nuclear Arms Race](https://www.nytimes.com/2026/07/23/world/europe/us-saudi-deal-nuclear-hedging.html?utm_source=lootura.com) — 2026-07-23T15:28:15.000Z
-- [What Visuals Show About Recent Damage to U.S. Military Sites in the Middle East](https://www.nytimes.com/2026/07/22/world/middleeast/iran-war-us-bases-images.html?utm_source=lootura.com) — 2026-07-23T01:37:39.000Z

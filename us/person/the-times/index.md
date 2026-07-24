@@ -28,5 +28,4 @@ Date: 2026-07-23
 
 ## Sources
 
-- [U.S. to Withdraw Subpoenas Issued to New York Times Journalists](https://www.nytimes.com/2026/07/23/business/media/new-york-times-subpoenas-withdraw.html?utm_source=lootura.com) — 2026-07-23T19:36:19.000Z
-- [A Russian Spy, Suddenly Cast Into the Spotlight, Flees Japan](https://www.nytimes.com/2026/07/23/world/asia/russian-spy-flees-japan.html?utm_source=lootura.com) — 2026-07-23T19:39:53.000Z
+No public source links.
